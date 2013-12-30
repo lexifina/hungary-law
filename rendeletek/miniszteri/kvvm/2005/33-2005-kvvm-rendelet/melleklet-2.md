@@ -236,7 +236,7 @@
 
 | 31. |  | A mosó- és tisztítószerekről szóló 648/2004/EK rendelet 4. cikk (2) bekezdése alapján a gyártói eltérés kérelmezése [a mosó- és tisztítószerek hatóanyagai biológiai bonthatóságának ellenőrzéséről és az információszolgáltatás rendjéről szóló 270/2005. (XII. 25.) Korm. rendelet 5. §] | 600 000 |
 
-| 32. |  | A nem közművel összegyűjtött háztartási szennyvíz begyűjtésének engedélyezése | 80 000 |
+| 32. |  | A nem közművel összegyűjtött háztartási szennyvíz begyűjtési tevékenység bejelentése | 5000 |
 
 | 33. |  |  |  |
 
