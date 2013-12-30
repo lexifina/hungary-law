@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1996-72-20-2
 | 2013-01-01 | 1996-72-20-22.28 | 370/2012. (XII. 17.) Korm. rendelet |
 | 2013-02-26 | 1996-72-20-22.29 | 51/2013. (II. 25.) Korm. rendelet |
 | 2013-11-01 | 1996-72-20-22.30 | 324/2013. (VIII. 29.) Korm. rendelet |
+| 2013-12-30 | 1996-72-20-22.31 | 455/2013. (XI. 29.) Korm. rendelet |
