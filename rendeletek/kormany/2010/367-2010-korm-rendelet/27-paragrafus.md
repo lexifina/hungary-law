@@ -24,6 +24,6 @@ j) az elszámolás időpontja,
 
 k) a pályázatból kizártak listája.
 
-(2)[^35] Az Alapkezelő a Bgatv. 4. § (2) bekezdése, valamint (4) és (5) bekezdése szerint összesítve is nyilvántartja az Alap éves bevételeit. A bevételek között külön jogcímen tartja nyilván az Alapnak visszafizetett pénzeszközöket, az Alap javára behajtott összeget.
+(2)[^40] Az Alapkezelő a Bgatv. 4. § (2) bekezdése, valamint (4) és (5) bekezdése szerint összesítve is nyilvántartja az Alap éves bevételeit. A bevételek között külön jogcímen tartja nyilván az Alapnak visszafizetett pénzeszközöket, az Alap javára behajtott összeget.
 
-[^35]: A 27. § (2) bekezdése a 384/2012. (XII. 19.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^40]: A 27. § (2) bekezdése a 384/2012. (XII. 19.) Korm. rendelet 3. §-ával megállapított szöveg.

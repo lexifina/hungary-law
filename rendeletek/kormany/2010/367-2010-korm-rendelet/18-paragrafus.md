@@ -4,4 +4,6 @@
 
 (2) A Bgatv. alapján nem nyújtható támogatás a pályázati önrész kiegészítésére, amennyiben az elnyert EU-támogatásra kiírt pályázathoz szükséges saját forrás finanszírozására vonatkozó előírások azt nem teszik lehetővé.
 
-(3) Az EUMSZ 107. cikk (1) bekezdése hatálya alá tartozó korábban megítélt támogatások esetében a Bgatv. alapján a pályázati önrész kiegészítésére nyújtott támogatás és a pályázati forrásból származó támogatási összeg együttesen nem haladhatja meg a 800/2008/EK bizottsági rendeletben, az 1998/2006/EK bizottsági rendeletben, a 2005/842/EK bizottsági határozatban, illetve az Európai Bizottság jóváhagyó határozatában meghatározott legmagasabb támogatási intenzitást vagy legmagasabb támogatási összeget.
+(3)[^26] Az EUMSZ 107. cikk (1) bekezdése hatálya alá tartozó korábban megítélt támogatások esetében a Bgatv. alapján a pályázati önrész kiegészítésére nyújtott támogatás és a pályázati forrásból származó támogatási összeg együttesen nem haladhatja meg a 800/2008/EK bizottsági rendeletben, az 1998/2006/EK bizottsági rendeletben, a 2012/21/EU bizottsági határozatban, illetve az Európai Bizottság jóváhagyó határozatában meghatározott legmagasabb támogatási intenzitást vagy legmagasabb támogatási összeget.
+
+[^26]: A 18. § (3) bekezdése az 507/2013. (XII. 29.) Korm. rendelet 3. § (4) bekezdés a) pontja szerint módosított szöveg.

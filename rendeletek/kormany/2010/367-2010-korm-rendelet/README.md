@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-367-20-
 | 2012-04-01 | 2010-367-20-22.7 | 365/2011. (XII. 30.) Korm. rendelet |
 | 2012-12-20 | 2010-367-20-22.8 | 384/2012. (XII. 19.) Korm. rendelet |
 | 2013-01-01 | 2010-367-20-22.9 | 384/2012. (XII. 19.) Korm. rendelet |
+| 2013-12-30 | 2010-367-20-22.10 | 507/2013. (XII. 29.) Korm. rendelet |

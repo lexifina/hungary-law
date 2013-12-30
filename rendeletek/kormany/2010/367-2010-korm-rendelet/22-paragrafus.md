@@ -32,7 +32,7 @@ k) a nyilvános közzétételhez való hozzájáruló nyilatkozatot,
 
 l) a 14. § szerinti támogatások esetében a nyújtott támogatás támogatástartalmát, a támogatás intenzitását és a támogatásra vonatkozó támogatási kategóriát.
 
-(4)[^28] A támogatási szerződéshez csatolni kell
+(4)[^33] A támogatási szerződéshez csatolni kell
 
 a) a támogatás felhasználására vonatkozó költségvetési tervet,
 
@@ -42,15 +42,15 @@ c) a kedvezményezett nyilatkozatát arról, hogy nincs az Alappal, vagy a hatá
 
 d) a kedvezményezett nyilatkozatát arról, hogy nem áll végelszámolás alatt, illetve ellene indított csődeljárás vagy felszámolási eljárás nincs folyamatban,
 
-e)[^29]
+e)[^34]
 
 f) a kedvezményezett harminc napnál nem régebbi hatósági igazolását a szervezet létezéséről, hatályos adatairól.
 
-(5)[^30]
+(5)[^35]
 
-(6)[^31]
+(6)[^36]
 
-[^28]: A 22. § (4) bekezdése a 117/2011. (VII. 7.) Korm. rendelet 13. §-ával megállapított szöveg.
-[^29]: A 22. § (4) bekezdés e) pontját a 384/2012. (XII. 19.) Korm. rendelet 9. § (1) bekezdés a) pontja hatályon kívül helyezte.
-[^30]: A 22. § (5) bekezdését a 178/2011. (IX. 1.) Korm. rendelet 3. §-a iktatta be, hatályon kívül helyezte a 384/2012. (XII. 19.) Korm. rendelet 9. § (1) bekezdés b) pontja.
-[^31]: A 22. § (6) bekezdését a 178/2011. (IX. 1.) Korm. rendelet 4. §-a iktatta be, hatályon kívül helyezte a 201/2011. (X. 7.) Korm. rendelet 6. § (3) bekezdése.
+[^33]: A 22. § (4) bekezdése a 117/2011. (VII. 7.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^34]: A 22. § (4) bekezdés e) pontját a 384/2012. (XII. 19.) Korm. rendelet 9. § (1) bekezdés a) pontja hatályon kívül helyezte.
+[^35]: A 22. § (5) bekezdését a 178/2011. (IX. 1.) Korm. rendelet 3. §-a iktatta be, hatályon kívül helyezte a 384/2012. (XII. 19.) Korm. rendelet 9. § (1) bekezdés b) pontja.
+[^36]: A 22. § (6) bekezdését a 178/2011. (IX. 1.) Korm. rendelet 4. §-a iktatta be, hatályon kívül helyezte a 201/2011. (X. 7.) Korm. rendelet 6. § (3) bekezdése.

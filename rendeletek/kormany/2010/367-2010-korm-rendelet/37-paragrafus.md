@@ -1,1 +1,3 @@
-## 36. § E rendelet alapján támogatási döntést csekély összegű (de minimis) támogatások tekintetében 2013. december 31-ig lehet hozni.
+## 36. §[^48] Az e rendelet 15. §-ában foglalt támogatási kategória esetén 2014. június 30-ig lehet támogatási döntést hozni.
+
+[^48]: A 36. § az 507/2013. (XII. 29.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.
