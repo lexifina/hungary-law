@@ -1,4 +1,4 @@
-## 42. §[^7]
+## 42. §[^16]
 
 ## 5. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) A 29. § 19. pontja 2014. január 1-jén lép hatályba.
 
-[^7]: A 42. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 42. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

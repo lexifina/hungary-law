@@ -1,14 +1,8 @@
-## 38. § Az Áhsz2. 56. §-a a következő (2a) és (2b) bekezdéssel kiegészülve lép hatályba:
-
-## „(2a) E rendelet hatálybalépése nem érinti a 2014. január 1-jét megelőzően beszerzett, de még üzembe nem helyezett, használatba nem vett tárgyi eszközök – ide értve a kisértékű tárgyi eszközöket is –, fel nem használt készletek korábban megállapított bekerülési értékét.
-
-## (2b) A 48. § (7) bekezdésnek a 48. § (4) bekezdésére vonatkozó szabálya a könyvviteli számlák 2014. évi nyitásánál nem alkalmazható.”
+## 38. §[^10]
 
 39. § (1) Az Áhsz2.
 
-a) 5. melléklete a 7. melléklet,
-
-b) 9. melléklete a 9. melléklet,
+a)–b)[^11]
 
 c) 10. melléklete a 10. melléklet,
 
@@ -22,4 +16,8 @@ g) 17. melléklete a 14. melléklet
 
 szerinti módosításokkal lép hatályba.
 
-(2) Az Áhsz2. 8. melléklete a 8. melléklet szerinti szöveggel lép hatályba.
+(2)[^12]
+
+[^10]: A 38. §-t a 497/2013. (XII. 29.) Korm. rendelet 115. § 4. pontja hatályon kívül helyezte.
+[^11]: A 39. § a)–b) pontját a 497/2013. (XII. 29.) Korm. rendelet 115. § 5. pontja hatályon kívül helyezte.
+[^12]: A 39. § (2) bekezdését a 497/2013. (XII. 29.) Korm. rendelet 115. § 6. pontja hatályon kívül helyezte.

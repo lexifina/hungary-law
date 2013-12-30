@@ -16,7 +16,7 @@
 
 ## g) a pénzügyi teljesítések dátumát, összegét, egységes rovatrend szerint besorolását, az utalványozás Ávr. 59. § (2) bekezdése szerinti dokumentumának azonosításához szükséges adatokat,
 
-## h) a kötelezettségvállalás, más fizetési kötelezettség végleges vagy nem végleges jellegét, végleges kötelezettségvállalás, más fizetési kötelezettség esetén annak és módosulásai, a pénzügyi teljesítési adatok könyvviteli számlákon történő elszámolásának időpontjait és a könyvviteli számlák megnevezését,”
+## h) a kötelezettségvállalás, más fizetési kötelezettség végleges vagy nem végleges jellegét, végleges kötelezettségvállalás, más fizetési kötelezettség esetén annak módosulásai, a pénzügyi teljesítési adatok könyvviteli számlákon történő elszámolásának időpontjait és a könyvviteli számlák megnevezését,”
 
 ## 2. Az Áhsz2. 14. melléklet VII. A tárgyi eszközök nyilvántartása 5. pont b) alpontja a következő szöveggel lép hatályba:
 
