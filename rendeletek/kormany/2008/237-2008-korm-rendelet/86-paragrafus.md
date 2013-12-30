@@ -18,24 +18,25 @@ d) képzési támogatások esetében a 800/2008/EK bizottsági rendelet I. fejez
 
 e) csekély összegű támogatások esetében az EK Szerződés 87. és 88. cikkeiben foglaltaknak a csekély összegű (de minimis) támogatásokra való alkalmazásáról szóló 2006. december 15-i 1998/2006/EK bizottsági rendeletben, valamint e rendelet 108. §-ában foglaltak az irányadók,
 
-f) közszolgáltatások finanszírozása esetén támogatás az EK Szerződés 86. cikke (2) bekezdésének az általános gazdasági érdekű szolgáltatások működtetésével megbízott vállalkozásoknak közszolgáltatásért járó ellentételezés formájában nyújtott állami támogatásokra történő alkalmazásáról szóló 2005/842/EK bizottsági határozat szabályaival, valamint e rendelet 109. §-ában foglaltakkal összhangban nyújtható,
+f)[^191] közszolgáltatások finanszírozása esetén támogatás az Európai Unió működéséről szóló szerződés 106. cikke (2) bekezdésének az általános gazdasági érdekű szolgáltatások nyújtásával megbízott egyes vállalkozások javára közszolgáltatás ellentételezése formájában nyújtott állami támogatásra való alkalmazásáról szóló, 2011. december 20-i 2012/21/EU bizottsági határozat (a továbbiakban: Határozat) szabályaival, valamint az e rendelet 109. §-ában foglaltakkal összhangban nyújtható,
 
-g)[^191] kockázati tőke formájában nyújtott támogatás esetén az N 355/2008. számú bizottsági határozatban (HL C/23/2009), valamint a 110. §-ban foglaltak az irányadók,
+g)[^192] kockázati tőke formájában nyújtott támogatás esetén az N 355/2008. számú bizottsági határozatban (HL C/23/2009), valamint a 110. §-ban foglaltak az irányadók,
 
-h)[^192]
+h)[^193]
 
-i)[^193] környezetvédelmi támogatás a 800/2008/EK bizottsági rendelet I. fejezetében és II. fejezet 4. szakaszában, valamint a 112/F–112/K. §-ban foglaltakkal összhangban nyújtható,
+i)[^194] környezetvédelmi támogatás a 800/2008/EK bizottsági rendelet I. fejezetében és II. fejezet 4. szakaszában, valamint a 112/F–112/K. §-ban foglaltakkal összhangban nyújtható,
 
-j)[^194] kkv-k részére tanácsadáshoz és a kkv-k vásárokon való részvételéhez a 800/2008/EK bizottsági rendelet I. fejezetében és II. fejezet 5. szakaszában, valamint a 112/C–112/D. §-ban foglaltakkal összhangban nyújtható támogatás,
+j)[^195] kkv-k részére tanácsadáshoz és a kkv-k vásárokon való részvételéhez a 800/2008/EK bizottsági rendelet I. fejezetében és II. fejezet 5. szakaszában, valamint a 112/C–112/D. §-ban foglaltakkal összhangban nyújtható támogatás,
 
-k)[^195] vasúti és közúti személyszállítási közszolgáltatás finanszírozására az 1370/2007/EK európai parlamenti és tanácsi rendeletben, valamint a 112/L–112/O. §-ban foglaltakkal összhangban nyújtható támogatás,
+k)[^196] vasúti és közúti személyszállítási közszolgáltatás finanszírozására az 1370/2007/EK európai parlamenti és tanácsi rendeletben, valamint a 112/L–112/O. §-ban foglaltakkal összhangban nyújtható támogatás,
 
-l)[^196] női vállalkozók által újonnan létrehozott kisvállalkozások részére a 800/2008/EK bizottsági rendelet I. fejezetében és II. fejezet 3. szakaszában, valamint a 112/E. §-ban foglaltakkal összhangban nyújtható támogatás.
+l)[^197] női vállalkozók által újonnan létrehozott kisvállalkozások részére a 800/2008/EK bizottsági rendelet I. fejezetében és II. fejezet 3. szakaszában, valamint a 112/E. §-ban foglaltakkal összhangban nyújtható támogatás.
 
 [^190]: A 86. § (1) bekezdése a 37/2011. (III. 22.) Korm. rendelet 40. § (5) bekezdés e) pontja szerint módosított szöveg.
-[^191]: A 86. § (2) bekezdés g) pontja a 33/2011. (III. 17.) Korm. rendelet 9. §-ával megállapított szöveg.
-[^192]: A 86. § (2) bekezdésének h) pontját a 226/2009. (X. 14.) Korm. rendelet 30. §-a iktatta be, hatályon kívül helyezte a 11/2012. (II. 14.) Korm. rendelet 36. § b) pontja.
-[^193]: A 86. § (2) bekezdés i) pontját a 95/2010. (III. 31.) Korm. rendelet 2. §-a iktatta be.
-[^194]: A 86. § (2) bekezdés j) pontját a 95/2010. (III. 31.) Korm. rendelet 2. §-a iktatta be.
-[^195]: A 86. § (2) bekezdés k) pontját a 95/2010. (III. 31.) Korm. rendelet 2. §-a iktatta be.
-[^196]: A 86. § (2) bekezdés l) pontját a 95/2010. (III. 31.) Korm. rendelet 2. §-a iktatta be.
+[^191]: A 86. § (2) bekezdés f) pontja az 507/2013. (XII. 29.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^192]: A 86. § (2) bekezdés g) pontja a 33/2011. (III. 17.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^193]: A 86. § (2) bekezdésének h) pontját a 226/2009. (X. 14.) Korm. rendelet 30. §-a iktatta be, hatályon kívül helyezte a 11/2012. (II. 14.) Korm. rendelet 36. § b) pontja.
+[^194]: A 86. § (2) bekezdés i) pontját a 95/2010. (III. 31.) Korm. rendelet 2. §-a iktatta be.
+[^195]: A 86. § (2) bekezdés j) pontját a 95/2010. (III. 31.) Korm. rendelet 2. §-a iktatta be.
+[^196]: A 86. § (2) bekezdés k) pontját a 95/2010. (III. 31.) Korm. rendelet 2. §-a iktatta be.
+[^197]: A 86. § (2) bekezdés l) pontját a 95/2010. (III. 31.) Korm. rendelet 2. §-a iktatta be.
