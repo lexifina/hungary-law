@@ -1,6 +1,6 @@
-176. §[^250] (1) Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet módosításáról szóló 413/2012. (XII. 29.) Korm. rendelet hatálybalépése nem érinti az e rendelet 2012. december 31-én hatályos 12. § (3) bekezdése alapján kiadott mentesítések hatályát. Az e rendelet 2012. december 31-én hatályos 12. § (3) bekezdés a) pontja szerinti mentesítés hatálya megszűnik, ha a gazdasági vezető tanulmányait nem fejezi be és a tanulmányok megszűnésének időpontjában nem felel meg a 12. § rendelkezéseinek.
+176. §[^259] (1) Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet módosításáról szóló 413/2012. (XII. 29.) Korm. rendelet hatálybalépése nem érinti az e rendelet 2012. december 31-én hatályos 12. § (3) bekezdése alapján kiadott mentesítések hatályát. Az e rendelet 2012. december 31-én hatályos 12. § (3) bekezdés a) pontja szerinti mentesítés hatálya megszűnik, ha a gazdasági vezető tanulmányait nem fejezi be és a tanulmányok megszűnésének időpontjában nem felel meg a 12. § rendelkezéseinek.
 
-(1a)[^251] A 2012. december 31-én hatályos 12. § (2) bekezdése alapján a felsőoktatásban szerzett pénzügyi-számviteli végzettséggel rendelkező gazdasági vezető alkalmazására abban az esetben van lehetőség, ha vállalja, hogy a 12. §-ban meghatározott követelményeknek legkésőbb 2014. június 30-áig meg fog felelni. 2014. június 30-át követően e személyek csak a 12. §-ban foglalt feltételek szerint alkalmazhatók gazdasági vezetőként.
+(1a)[^260] A 2012. december 31-én hatályos 12. § (2) bekezdése alapján a felsőoktatásban szerzett pénzügyi-számviteli végzettséggel rendelkező gazdasági vezető alkalmazására abban az esetben van lehetőség, ha vállalja, hogy a 12. §-ban meghatározott követelményeknek legkésőbb 2014. június 30-áig meg fog felelni. 2014. június 30-át követően e személyek csak a 12. §-ban foglalt feltételek szerint alkalmazhatók gazdasági vezetőként.
 
 (2) E rendelet 2012. december 31-én hatályos rendelkezéseit a 2013. június 30-áig működő többcélú kistérségi társulásokra alkalmazni kell.
 
@@ -14,20 +14,20 @@
 
 (7) A 2013. évben a 128. (2) bekezdés b) pontjától eltérően az egészségügyről szóló 1997. évi CLIV. törvény 150. § (4) bekezdése alapján előirányzat-átcsoportosítással rendelkezésre bocsátott, a költségvetési szerv költségvetése terhére megelőlegezett kiadások fedezetét biztosító támogatás összegét az előirányzatot átcsoportosító nyilatkozata alapján a havi előirányzat-felhasználási keret megállapításakor egy összegben kell figyelembe venni.
 
-(8)[^252] Az államháztartásról szóló törvény végrehajtásával kapcsolatos egyes kormányrendeletek módosításáról szóló 74/2013. (III. 11.) Korm. rendelettel megállapított 145. §-t a 2013 januárjában beszedett gépjárműadó-bevételre is alkalmazni kell azzal, hogy a 145. § (4) bekezdés d) pontja szerinti fizetési számlára e bevételek központi költségvetést megillető részét az az államháztartásról szóló törvény végrehajtásával kapcsolatos egyes kormányrendeletek módosításáról szóló 74/2013. (III. 11.) Korm. rendelet hatálybalépését[^253] követő tíz napon belül kell a Kincstár által megjelölt fizetési számlára átutalni.
+(8)[^261] Az államháztartásról szóló törvény végrehajtásával kapcsolatos egyes kormányrendeletek módosításáról szóló 74/2013. (III. 11.) Korm. rendelettel megállapított 145. §-t a 2013 januárjában beszedett gépjárműadó-bevételre is alkalmazni kell azzal, hogy a 145. § (4) bekezdés d) pontja szerinti fizetési számlára e bevételek központi költségvetést megillető részét az az államháztartásról szóló törvény végrehajtásával kapcsolatos egyes kormányrendeletek módosításáról szóló 74/2013. (III. 11.) Korm. rendelet hatálybalépését[^262] követő tíz napon belül kell a Kincstár által megjelölt fizetési számlára átutalni.
 
-(9)[^254] E rendeletnek az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet módosításáról szóló 3/2013. (I. 10.) Korm. rendelettel megállapított 77. § (1a) bekezdését és 94. § (1) bekezdését az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet módosításáról szóló 3/2013. (I. 10.) Korm. rendelet hatálybalépésekor[^255] folyamatban lévő ügyekben is alkalmazni kell.
+(9)[^263] E rendeletnek az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet módosításáról szóló 3/2013. (I. 10.) Korm. rendelettel megállapított 77. § (1a) bekezdését és 94. § (1) bekezdését az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet módosításáról szóló 3/2013. (I. 10.) Korm. rendelet hatálybalépésekor[^264] folyamatban lévő ügyekben is alkalmazni kell.
 
-(10)[^256] E rendeletnek az államháztartásról szóló törvény végrehajtásáról szóló 368/2012. (XII. 31.) Korm. rendelet módosításáról szóló 242/2013. (VI. 30.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 96. § (4) bekezdés d) és j) pontját a Módr. hatálybalépésekor[^257] folyamatban lévő ügyekben is alkalmazni kell.
+(10)[^265] E rendeletnek az államháztartásról szóló törvény végrehajtásáról szóló 368/2012. (XII. 31.) Korm. rendelet módosításáról szóló 242/2013. (VI. 30.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 96. § (4) bekezdés d) és j) pontját a Módr. hatálybalépésekor[^266] folyamatban lévő ügyekben is alkalmazni kell.
 
-176. §[^258]
+176. §[^267]
 
-[^250]: Az Ávr. 176. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 413/2012. (XII. 29.) Korm. rendelet 37. §-a iktatta be.
-[^251]: Az Ávr. 176. § (1a) bekezdését a 74/2013. (III. 11.) Korm. rendelet 30. § (1) bekezdése iktatta be.
-[^252]: Az Ávr. 176. § (8) bekezdését a 74/2013. (III. 11.) Korm. rendelet 30. § (2) bekezdése iktatta be.
-[^253]: A hatálybalépés időpontja 2013. március 12.
-[^254]: Az Ávr. 176. § (9) bekezdését a 74/2013. (III. 11.) Korm. rendelet 30. § (2) bekezdése iktatta be.
-[^255]: A hatálybalépés időpontja 2013. március 12.
-[^256]: Az Ávr. 176. § (10) bekezdését a 242/2013. (VI. 30.) Korm. rendelet 2. §-a iktatta be.
-[^257]: A hatálybalépés napja: 2013. július 1.
-[^258]: Az újabb 176. §-t a 3/2013. (I. 10.) Korm. rendelet 2. §-a iktatta be, hatályon kívül helyezte a 74/2013. (III. 11.) Korm. rendelet 33. § (1) bekezdés 3. pontja.
+[^259]: Az Ávr. 176. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 413/2012. (XII. 29.) Korm. rendelet 37. §-a iktatta be.
+[^260]: Az Ávr. 176. § (1a) bekezdését a 74/2013. (III. 11.) Korm. rendelet 30. § (1) bekezdése iktatta be.
+[^261]: Az Ávr. 176. § (8) bekezdését a 74/2013. (III. 11.) Korm. rendelet 30. § (2) bekezdése iktatta be.
+[^262]: A hatálybalépés időpontja 2013. március 12.
+[^263]: Az Ávr. 176. § (9) bekezdését a 74/2013. (III. 11.) Korm. rendelet 30. § (2) bekezdése iktatta be.
+[^264]: A hatálybalépés időpontja 2013. március 12.
+[^265]: Az Ávr. 176. § (10) bekezdését a 242/2013. (VI. 30.) Korm. rendelet 2. §-a iktatta be.
+[^266]: A hatálybalépés napja: 2013. július 1.
+[^267]: Az újabb 176. §-t a 3/2013. (I. 10.) Korm. rendelet 2. §-a iktatta be, hatályon kívül helyezte a 74/2013. (III. 11.) Korm. rendelet 33. § (1) bekezdés 3. pontja.

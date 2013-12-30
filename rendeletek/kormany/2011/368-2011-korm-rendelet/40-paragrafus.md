@@ -1,5 +1,5 @@
 ## [Az Áht. 33. § (2) bekezdéséhez]
 
-40. §[^59] Ha a fejezetet irányító szerv év közben előre nem tervezett, a 2. § b), f) pontja szerinti bevételhez jut, és a fejezeti kezelésű előirányzatok között a bevétellel azonos kiadási cél nem került jóváhagyásra, új fejezeti kezelésű előirányzatot hozhat létre.
+40. §[^60] Ha a fejezetet irányító szerv év közben előre nem tervezett, a 2. § b), f) pontja szerinti bevételhez jut, és a fejezeti kezelésű előirányzatok között a bevétellel azonos kiadási cél nem került jóváhagyásra, új fejezeti kezelésű előirányzatot hozhat létre.
 
-[^59]: Az Ávr. 40. §-a a 74/2013. (III. 11.) Korm. rendelet 33. § (2) bekezdés 2. pontja szerint módosított szöveg.
+[^60]: Az Ávr. 40. §-a a 74/2013. (III. 11.) Korm. rendelet 33. § (2) bekezdés 2. pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-109. §[^160] (1) Ha az Áht. 58. § (1) bekezdése szerinti ellenőrzésre helyszíni ellenőrzés keretében kerül sor, a Kincstár arról jegyzőkönyvet vesz fel, amelyet az Áht. 58. § (2) bekezdése szerinti, Kincstár álláspontját alátámasztó bizonyítékok ismertetése során ad át vagy küld meg az ellenőrzöttnek.
+109. §[^162] (1) Ha az Áht. 58. § (1) bekezdése szerinti ellenőrzésre helyszíni ellenőrzés keretében kerül sor, a Kincstár arról jegyzőkönyvet vesz fel, amelyet az Áht. 58. § (2) bekezdése szerinti, Kincstár álláspontját alátámasztó bizonyítékok ismertetése során ad át vagy küld meg az ellenőrzöttnek.
 
 (2) A jegyzőkönyv tartalmazza
 
@@ -14,4 +14,4 @@ e) az ellenőrök nevét, aláírását és
 
 f) ha a helyszíni ellenőrzés befejezésével nem kerül sor a jegyzőkönyv átadására, a Kincstár illetékes vezetőjének aláírását.
 
-[^160]: Az Ávr. 109. §-át újonnan a 307/2013. (VIII. 14.) Korm. rendelet 16. §-a iktatta be.
+[^162]: Az Ávr. 109. §-át újonnan a 307/2013. (VIII. 14.) Korm. rendelet 16. §-a iktatta be.

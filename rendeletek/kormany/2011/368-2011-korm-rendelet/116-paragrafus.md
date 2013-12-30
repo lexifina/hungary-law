@@ -4,7 +4,7 @@
 
 ## [Az Áht. 71. § (1)–(3) bekezdéséhez]
 
-116. §[^174] (1) Önkormányzati biztos megbízását a képviselő-testületnél
+116. §[^178] (1) Önkormányzati biztos megbízását a képviselő-testületnél
 
 a) a polgármester,
 
@@ -40,4 +40,4 @@ d) az Áht. 71. § (1) bekezdésben megállapított tartozásállomány jogosult
 
 e) a költségvetési szerv vezetőjének, gazdasági vezetőjének vagy más alkalmazottjának hozzátartozója, e minőségének fennállása alatt, illetve annak megszűnésétől számított három évig.
 
-[^174]: Az Ávr. 116. §-a a 307/2013. (VIII. 14.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^178]: Az Ávr. 116. §-a a 307/2013. (VIII. 14.) Korm. rendelet 20. §-ával megállapított szöveg.

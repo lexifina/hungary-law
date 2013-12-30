@@ -1,4 +1,4 @@
-100/A. §[^131] E fejezetet a mikro-, kis- vagy középvállalkozásnak minősülő kedvezményezettek hitelezésének elősegítése érdekében a Kormány egyedi határozata alapján nyújtott kezességi díjtámogatásra a következő eltérésekkel kell alkalmazni:
+100/A. §[^132] E fejezetet a mikro-, kis- vagy középvállalkozásnak minősülő kedvezményezettek hitelezésének elősegítése érdekében a Kormány egyedi határozata alapján nyújtott kezességi díjtámogatásra a következő eltérésekkel kell alkalmazni:
 
 a) a kezességi díjtámogatás igényléséhez a támogatás igénylője a 72. § (2) bekezdés b)–d) pontjában meghatározott tartalmú írásbeli nyilatkozatot csatol,
 
@@ -6,4 +6,4 @@ b) a kezességi díjtámogatásoknak a monitoring rendszerben nyilvántartott ad
 
 c) a kezességi díjtámogatásra nem kell alkalmazni a 70. §-t, a 71. §-t, a 73. §-t, a 78. § (6) bekezdését, a 79. §-t, a 80. §-t és nem kell a 77. § szerinti biztosítékot kikötni.
 
-[^131]: Az Ávr. 100/A. §-át a 307/2013. (VIII. 14.) Korm. rendelet 11. §-a iktatta be.
+[^132]: Az Ávr. 100/A. §-át a 307/2013. (VIII. 14.) Korm. rendelet 11. §-a iktatta be.

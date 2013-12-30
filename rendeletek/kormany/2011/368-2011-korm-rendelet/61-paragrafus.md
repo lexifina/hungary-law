@@ -62,8 +62,8 @@ g) az eszközök értékesítésére és selejtezésére irányuló intézkedés
 
 (13) A költségvetési főfelügyelőt, felügyelőt akadályoztatása esetén az államháztartásért felelős miniszter által kijelölt költségvetési főfelügyelő, felügyelő teljes jogkörrel helyettesíti.
 
-(14)[^86]
+(14)[^87]
 
 (15) A költségvetési főfelügyelő, felügyelő működésével összefüggő kiadásokat az államháztartásért felelős miniszter irányítása alatt álló fejezetben kell biztosítani.
 
-[^86]: Az Ávr. 61. § (14) bekezdését a 307/2013. (VIII. 14.) Korm. rendelet 30. § (1) bekezdés 1. pontja hatályon kívül helyezte.
+[^87]: Az Ávr. 61. § (14) bekezdését a 307/2013. (VIII. 14.) Korm. rendelet 30. § (1) bekezdés 1. pontja hatályon kívül helyezte.

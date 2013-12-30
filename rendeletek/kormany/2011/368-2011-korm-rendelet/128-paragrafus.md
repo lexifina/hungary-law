@@ -10,7 +10,7 @@ b) az időarányos finanszírozás alá tartozó előirányzatok esetén az adot
 
 összeget veszi alapul, amelyet a (3)–(6) bekezdés rendelkezései szerint korrigál.
 
-(3)[^191] A Kincstár a január havi keret megállapításakor a (2) bekezdés b) pontja szerinti összeget az előzetes kincstári költségvetés alapján állapítja meg, amelyet – a honvédelemért felelős miniszter által vezetett minisztérium és az általa irányított költségvetési szervek, valamint a polgári nemzetbiztonsági szolgálatok kivételével – a személyi juttatások 1/12-ének 40%-ával és a munkaadókat terhelő járulékok és szociális hozzájárulási adó 1/12-ével csökkent. A Kincstár ettől a fejezetet irányító szerv kérelmére eltérést engedélyezhet.
+(3)[^195] A Kincstár a január havi keret megállapításakor a (2) bekezdés b) pontja szerinti összeget az előzetes kincstári költségvetés alapján állapítja meg, amelyet – a honvédelemért felelős miniszter által vezetett minisztérium és az általa irányított költségvetési szervek, valamint a polgári nemzetbiztonsági szolgálatok kivételével – a személyi juttatások 1/12-ének 40%-ával és a munkaadókat terhelő járulékok és szociális hozzájárulási adó 1/12-ével csökkent. A Kincstár ettől a fejezetet irányító szerv kérelmére eltérést engedélyezhet.
 
 (4) Az előzetes és a végleges kincstári költségvetés alapján megállapított január havi keret összegének eltérése esetén a szükséges korrekciót a Kincstár a március havi keret megállapításakor végzi el.
 
@@ -32,4 +32,4 @@ c) az állami adóhatóság átutalási megbízást nyújt be a költségvetési
 
 (10) Likvid fedezet hiányában a befizetési kötelezettséget a Kincstár mindaddig nem teljesíti, amíg a költségvetési szerv fizetési számlája a befizetési kötelezettség összegével nem terhelhető. A befizetési kötelezettség teljesítéséig a költségvetési szerv fizetési számlája terhére benyújtott egyéb fizetési megbízásokat a Kincstár nem teljesíti.
 
-[^191]: Az Ávr. 128. § (3) bekezdése a 413/2012. (XII. 29.) Korm. rendelet 40. § (2) bekezdés 17. pontja, a 307/2013. (VIII. 14.) Korm. rendelet 29. § 18. pontja szerint módosított szöveg.
+[^195]: Az Ávr. 128. § (3) bekezdése a 413/2012. (XII. 29.) Korm. rendelet 40. § (2) bekezdés 17. pontja, a 307/2013. (VIII. 14.) Korm. rendelet 29. § 18. pontja szerint módosított szöveg.

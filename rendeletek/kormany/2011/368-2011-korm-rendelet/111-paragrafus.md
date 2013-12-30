@@ -1,4 +1,4 @@
-111. §[^163] (1) Ha az Áht. 59. § (2) bekezdése szerinti ellenőrzésre helyszíni ellenőrzés keretében kerül sor, a Kincstár arról jegyzőkönyvet vesz fel, amelyet az ellenőrzés befejezésétől számított tizenöt napon belül átad vagy megküld az ellenőrzöttnek. A jegyzőkönyvre az átvételt követő tizenöt napon belül, írásban lehet észrevételt tenni.
+111. §[^165] (1) Ha az Áht. 59. § (2) bekezdése szerinti ellenőrzésre helyszíni ellenőrzés keretében kerül sor, a Kincstár arról jegyzőkönyvet vesz fel, amelyet az ellenőrzés befejezésétől számított tizenöt napon belül átad vagy megküld az ellenőrzöttnek. A jegyzőkönyvre az átvételt követő tizenöt napon belül, írásban lehet észrevételt tenni.
 
 (2) A jegyzőkönyvnek a következőket kell tartalmaznia:
 
@@ -8,8 +8,10 @@ b) az ellenőrök és a Kincstár illetékes vezetőjének aláírását, és
 
 c) a 110. § (4) bekezdés a) és b) pontjában foglaltakat.
 
-(3) Az ellenőrzöttnek a jegyzőkönyv megállapításaira tett észrevételeit részletesen, jogcímenként alá kell támasztania. A beérkezett észrevételek alapján a jegyzőkönyv megállapításait a Kincstár felülvizsgálja, és azokat szükség esetén végzésében módosítja.
+(3)[^166] Az ellenőrzöttnek a jegyzőkönyv megállapításaira tett észrevételeit részletesen, jogcímenként alá kell támasztania. A beérkezett észrevételek alapján a jegyzőkönyv megállapításait a Kincstár felülvizsgálja, és azokat szükség esetén határozatában módosítja.
 
-(4) Ha a vizsgálatra kizárólag a helyszínen kerül sor, elegendő az Áht. 59. § (3) bekezdése szerinti végzést meghozni, azzal, hogy a 110. § (4) bekezdésében meghatározottakon túl annak tartalmaznia kell a (2) bekezdésben foglaltakat.
+(4)[^167] Ha a vizsgálatra kizárólag a helyszínen kerül sor, elegendő az Áht. 59. § (3) bekezdése szerinti határozatot meghozni, azzal, hogy a 110. § (4) bekezdésében meghatározottakon túl annak tartalmaznia kell a (2) bekezdésben foglaltakat.
 
-[^163]: Az Ávr. 111. § előtti alcímet hatályon kívül helyezte és a 111. §-t megállapította a 413/2012. (XII. 29.) Korm. rendelet 27. §-a.
+[^165]: Az Ávr. 111. § előtti alcímet hatályon kívül helyezte és a 111. §-t megállapította a 413/2012. (XII. 29.) Korm. rendelet 27. §-a.
+[^166]: Az Ávr. 111. § (3) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 62. § (2) bekezdés 2. pontja szerint módosított szöveg.
+[^167]: Az Ávr. 111. § (4) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 62. § (2) bekezdés 3. pontja szerint módosított szöveg.

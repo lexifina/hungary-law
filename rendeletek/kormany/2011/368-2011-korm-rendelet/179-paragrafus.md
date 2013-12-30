@@ -1,0 +1,5 @@
+179. §[^271] (1) A helyi nemzetiségi önkormányzat által 2013. évben az Áht. 14. § (3) bekezdése szerinti fejezetből igénybe vett támogatások elszámolására és kincstári felülvizsgálatára a 2013. december 31-én hatályos 104. § (2)–(4) és (7) bekezdésében, 105. § (1) és (4) bekezdésében, 106. § (2) bekezdésében, 107. § (1) és (2) bekezdésében, 112. § (1) bekezdésében, 113. § (2) bekezdésében, 114. § (2) bekezdésében, valamint 115. § a) pont aa) alpontjában és b) pont bd) alpontjában foglaltakat kell alkalmazni.
+
+(2) A 2013. december 31-én hatályos 7. melléklet 31. pontja szerinti, 2013. december hónapra vonatkozó adatszolgáltatást nem kell teljesíteni. A 2013. december 31-én hatályos 7. melléklet 32. pontja szerinti, 2013. december hónapra vonatkozó, és a 2013. december 31-én hatályos 7. melléklet 26. pontja szerinti, 2013. IV. negyedévére vonatkozó adatszolgáltatást az arra kötelezetteknek 2014. február 5-éig kell teljesíteni.
+
+[^271]: Az Ávr. 179. §-át a 497/2013. (XII. 29.) Korm. rendelet 60. § (1) bekezdése iktatta be.
