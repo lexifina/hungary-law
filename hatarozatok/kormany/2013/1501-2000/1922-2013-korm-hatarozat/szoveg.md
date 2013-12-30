@@ -16,10 +16,6 @@ a kiemelt sportlétesítmény-fejlesztésekkel, sportberuházásokkal összefüg
 
 Határidő: folyamatos, illetve a 2015. évi központi költségvetés tervezésével összhangban
 
-b) felhívja a nemzetgazdasági minisztert, hogy a kiemelt sportlétesítmény-fejlesztésekkel, sportberuházásokkal összefüggő kormányzati feladatok ellátásáért felelős kormánybiztos bevonásával gondoskodjon a Program ütemezett megvalósításához 2013. negyedik negyedévben szükséges 15 millió forint rendelkezésre állásáról.
+b)[^2]
 
-Felelős: nemzetgazdasági miniszter
-
-a kiemelt sportlétesítmény-fejlesztésekkel, sportberuházásokkal összefüggő kormányzati feladatok ellátásáért felelős kormánybiztos
-
-Határidő: azonnal
+[^2]: A 3. pont b) alpontját az 1980/2013. (XII. 29.) Korm. határozat 3. pont c) pontja hatályon kívül helyezte.
