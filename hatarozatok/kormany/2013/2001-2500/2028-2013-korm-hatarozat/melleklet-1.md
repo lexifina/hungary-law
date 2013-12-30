@@ -1,6 +1,6 @@
 ## 1. megállapítja a Közép-dunántúli Operatív Program 2011–2013. évekre szóló akciótervét az 1. melléklet szerint,
 
-## 2. visszavonja a regionális operatív programok 2011–2013. évekre szóló akcióterveinek megállapításáról és egyes prioritások keretének növeléséről szóló 1693/2013. (X. 2.) Korm. határozat 5. mellékletét.
+## 2.[^2]
 
 1. melléklet a 2028/2013. (XII. 29.) Korm. határozathoz
 
@@ -223,3 +223,5 @@
 |  | Közép-dunántúli Operatív Program |  |  |  |
 
 |  | Akcióterv 2011–2013 ÖSSZESEN (Mrd Ft) | 70,36 |  |  |  |
+
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
