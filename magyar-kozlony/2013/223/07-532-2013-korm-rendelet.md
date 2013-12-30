@@ -1,0 +1,50 @@
+# A Kormány 532/2013. (XII. 30.) Korm. rendelete
+
+Magyar Közlöny 2013. évi 223. szám, 2013. december 30. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/533a561891dcde55e049d797ee8b88e762fb9cb1/dokumentumok/8d226f6037b8a1db689ee16b8c0cb631d1ea6e81/letoltes)
+
+---
+
+A Kormány 532/2013. (XII. 30.) Korm. rendelete
+a 2008–2009-es romagyilkosságok túlélő sértettjeinek és közvetlenül érintett egyéb áldozatainak
+megsegítéséről
+A Kormány az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében, az Alaptörvény
+15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. § (1) A Kormány a központi költségvetésről szóló törvénynek a társadalmi felzárkózásért felelős miniszter
+(a továbbiakban: miniszter) irányítása alá tartozó fejezetébe sorolt fejezeti kezelésű előirányzat terhére
+a) a 2008. augusztus 8-án Piricsén,
+b) a 2008. november 2-án Nagycsécsen,
+c) a 2008. december 15-én Alsózsolcán,
+d) a 2009. február 23-án Tatárszentgyörgyön,
+e) a 2009. április 22-én Tiszalökön és
+f) a 2009. augusztus 2-án Kislétán
+elkövetett bűncselekmények (a továbbiakban: bűncselekmény) sértettjei és közvetlen egyéb áldozatai
+(a továbbiakban együtt: közvetlen áldozat) számára káraik megtérüléséhez pénzkifizetéssel hozzájárul.
+(2) A közvetlen áldozati minőségét annak a személynek kell megállapítani, aki
+a) a bűncselekmény következtében testi sérülést szenvedett,
+b) az a) pont szerinti személlyel vagy a bűncselekmény következtében elhunyt személlyel az elkövetés
+időpontjában közös háztartásban élt vagy
+c) az a) pont szerinti személy vagy a bűncselekmény következtében elhunyt személy közeli hozzátartozója.
+2. § (1) A közvetlen áldozati minőséget a miniszterrel e feladat ellátására szerződést kötött civil szervezet állapítja meg.
+(2) A szerződés azzal a civil szervezettel köthető meg, aki az áldozatsegítés területén legalább egy évtizede aktív
+tevékenységet folytat és vállalja, hogy
+a) az áldozatokkal közvetlenül felveszi a kapcsolatot és fogadja őket,
+b) a pénzkifizetéshez szükséges adatokat az áldozatok kérelmére, illetve hozzájárulásával beszerzi és rögzíti,
+valamint
+c) a közvetlen áldozati minőség megállapítására és a kár megtérüléséhez való hozzájárulás összegére javaslatot
+tesz.
+
+(3) A szerződés megkötését követően a miniszter a civil szervezet megnevezését és elérhetőségét a Magyar Közlöny
+mellékleteként megjelenő Hivatalos Értesítőben közzéteszi.
+3. § (1) A miniszter akkor fogadhatja el a civil szervezet javaslatát, ha az tartalmazza
+a) a közvetlen áldozat természetes személyazonosító adatait,
+b) a közvetlen áldozat lakóhelyét,
+c) a konkrét bűncselekmény megjelölését, és
+d) a kár megtérüléséhez való hozzájárulás kifizetéséhez szükséges további adatokat (ennek keretében
+a közvetlen áldozatnak a kifizetés módjára vonatkozó nyilatkozatát).
+(2) A miniszter a pénzkifizetést az államháztartásról szóló törvény felhatalmazása alapján kiadott rendeletében
+meghatározottak szerint teljesíti, ha a közvetlen áldozat lemond az állammal és szerveivel szembeni
+– a bűncselekményből származó – igényéről.
+4. §
+Ez a rendelet a kihirdetését követő napon lép hatályba, és a kihirdetését követő 395. napon hatályát veszti.
+ Orbán Viktor s. k.,
+ miniszterelnök
