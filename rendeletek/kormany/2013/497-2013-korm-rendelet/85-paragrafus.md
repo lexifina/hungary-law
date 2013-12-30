@@ -1,0 +1,3 @@
+## 84. § Az Áhsz. 7. § (3) bekezdése a következő szöveggel lép hatályba:
+
+## „(3) A mérleg fordulónapja az átalakítás vagy jogutód nélkül megszűnés miatt megszűnő költségvetési szervnél, társulásnál, nemzetiségi önkormányzatnál a megszűnés napja. Az éves költségvetési beszámolót jogutóddal megszűnő költségvetési szerv esetén a jogutód, jogutód nélkül megszűnő költségvetési szerv esetén az Áht. 11. § (5) bekezdése szerinti szerv, társulás esetén a társulási tanács munkaszervezeti feladatait ellátó költségvetési szerv, nemzetiségi önkormányzat esetén az Áht. 27. § (2) vagy (3) bekezdése szerinti szerv készíti el, költségvetési szerv esetén a megszűnő költségvetési szerv által átadott dokumentumok alapján.”
