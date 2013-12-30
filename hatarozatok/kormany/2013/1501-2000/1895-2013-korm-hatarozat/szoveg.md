@@ -22,7 +22,7 @@ a kiemelt sportlétesítmény-fejlesztésekkel, sportberuházásokkal összefüg
 
 Határidő: azonnal
 
-5. egyetért azzal, hogy a Program megvalósítására a 2013–2015. években összesen nettó 4500 millió forint összegben kerüljön sor, és felhívja
+5.[^2] egyetért azzal, hogy a Program megvalósítására a 2013–2015. években összesen 4500 millió forint összegben kerüljön sor, és felhívja
 
 a) az emberi erőforrások miniszterét és a nemzetgazdasági minisztert, hogy – a kiemelt sportlétesítmény-fejlesztésekkel, sportberuházásokkal összefüggő kormányzati feladatok ellátásáért felelős kormánybiztos bevonásával – gondoskodjanak a források ütemezett rendelkezésre állásáról az egyes költségvetési években;
 
@@ -34,10 +34,7 @@ a kiemelt sportlétesítmény-fejlesztésekkel, sportberuházásokkal összefüg
 
 Határidő: folyamatos, illetve 2015. évi központi költségvetési tervezésével összhangban
 
-b) a nemzetgazdasági minisztert, hogy a kiemelt sportlétesítmény-fejlesztésekkel, sportberuházásokkal összefüggő kormányzati feladatok ellátásáért felelős kormánybiztos bevonásával gondoskodjon a Program ütemezett megvalósításához 2013. negyedik negyedévben szükséges 9,8 millió forint rendelkezésre állásáról.
+b)[^3]
 
-Felelős: nemzetgazdasági miniszter
-
-a kiemelt sportlétesítmény-fejlesztésekkel, sportberuházásokkal összefüggő kormányzati feladatok ellátásáért felelős kormánybiztos
-
-Határidő: azonnal
+[^2]: Az 5. pont nyitó szövegrésze az 1980/2013. (XII. 29.) Korm. határozat 3. pont a) pontja szerint módosított szöveg.
+[^3]: Az 5. pont b) alpontját az 1980/2013. (XII. 29.) Korm. rendelet 3. pont b) pontja hatályon kívül helyezte.
