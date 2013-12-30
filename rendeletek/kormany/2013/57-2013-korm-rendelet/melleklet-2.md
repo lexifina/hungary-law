@@ -134,9 +134,9 @@
 
 66. villamos motor, áramfejlesztő gyártása
 
-67.[^4] nem veszélyes hulladék hulladékgazdálkodási engedély köteles gyűjtése, hasznosítása, ártalmatlanítása
+67.[^5] nem veszélyes hulladék hulladékgazdálkodási engedély köteles gyűjtése, hasznosítása, ártalmatlanítása
 
-68.[^5] veszélyes hulladék hulladékgazdálkodási engedély köteles gyűjtése, hasznosítása, ártalmatlanítása
+68.[^6] veszélyes hulladék hulladékgazdálkodási engedély köteles gyűjtése, hasznosítása, ártalmatlanítása
 
-[^4]: A 2. melléklet 67. pontja a 248/2013. (VII. 2.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^5]: A 2. melléklet 68. pontja a 248/2013. (VII. 2.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^5]: A 2. melléklet 67. pontja a 248/2013. (VII. 2.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^6]: A 2. melléklet 68. pontja a 248/2013. (VII. 2.) Korm. rendelet 2. §-ával megállapított szöveg.

@@ -163,3 +163,7 @@
 80. tűzálló termék gyártása
 
 81. villamos világítóeszköz gyártása
+
+82.[^4] nem közművel összegyűjtött háztartási szennyvíz szállítása
+
+[^4]: Az 1. melléklet 82. pontját a 455/2013. (XI. 29.) Korm. rendelet 23. §-a iktatta be.

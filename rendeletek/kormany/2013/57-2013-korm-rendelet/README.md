@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-57-20-2
 | 2013-02-28 | 2013-57-20-22.1 | 57/2013. (II. 27.) Korm. rendelet |
 | 2013-07-03 | 2013-57-20-22.2 | 248/2013. (VII. 2.) Korm. rendelet |
 | 2013-07-20 | 2013-57-20-22.3 | 255/2013. (VII. 5.) Korm. rendelet |
+| 2013-12-30 | 2013-57-20-22.4 | 455/2013. (XI. 29.) Korm. rendelet |
