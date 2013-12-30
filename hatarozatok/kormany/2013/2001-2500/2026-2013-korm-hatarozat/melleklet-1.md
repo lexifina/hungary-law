@@ -8,6 +8,8 @@
 
 ## 5. hozzájárul a 4. pont szerinti kiemelt projektek támogatási szerződéseinek – a Nemzeti Fejlesztési Ügynökség Közigazgatási Reform Programok Irányító Hatósága általi – megkötéséhez, valamint a szükséges szerződésmódosításokhoz,
 
-## 6. visszavonja az Elektronikus Közigazgatás Operatív Program 2007–2008., 2009–2010. és 2011–2013. évekre szóló akciótervének módosításáról szóló 1626/2013. (IX. 5.) Korm. határozat 1–3. pontját, valamint 1. és 2. mellékletét.
+## 6.[^1]
 
 1. melléklet a 2026/2013. (XII. 29.) Korm. határozathoz
+
+[^1]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
