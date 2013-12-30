@@ -1,4 +1,4 @@
-8. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^448]
+8. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^451]
 
 KAPCSOLATTARTÁSI NAPLÓ
 
@@ -16,4 +16,4 @@ ________________
 
 * Ha a kapcsolattartás a gyermek elvitelével valósul meg, az aláírás igazolja a gyermek elvitelét, illetve visszahozatalát.
 
-[^448]: A 8. számú mellékletet a 28/2010. (XII. 30.) NEFMI rendelet 26. (2) bekezdése iktatta be.
+[^451]: A 8. számú mellékletet a 28/2010. (XII. 30.) NEFMI rendelet 26. (2) bekezdése iktatta be.

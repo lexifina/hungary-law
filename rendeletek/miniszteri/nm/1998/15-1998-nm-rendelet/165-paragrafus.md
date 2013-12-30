@@ -1,3 +1,3 @@
-## 164. §[^436] Ha az általános iskolai és diákotthoni (kollégiumi) feladatot ellátó nevelési-oktatási intézmény átalakul többcélú – iskolai, diákotthoni (kollégiumi) és gyermekotthoni feladatot ellátó – közoktatási intézménnyé [Gyvt. 156. § (4) bek. a) pontja], a gyermekotthont a 163. §-ban meghatározott szakmai egységként kell létrehozni.
+## 164. §[^438] Ha az általános iskolai és diákotthoni (kollégiumi) feladatot ellátó nevelési-oktatási intézmény átalakul többcélú – iskolai, diákotthoni (kollégiumi) és gyermekotthoni feladatot ellátó – közoktatási intézménnyé [Gyvt. 156. § (4) bek. a) pontja], a gyermekotthont a 163. §-ban meghatározott szakmai egységként kell létrehozni.
 
-[^436]: A 164. § a 46/2003. (VIII. 8.) ESZCSM rendelet 96. §-ával megállapított szöveg.
+[^438]: A 164. § a 46/2003. (VIII. 8.) ESZCSM rendelet 96. §-ával megállapított szöveg.

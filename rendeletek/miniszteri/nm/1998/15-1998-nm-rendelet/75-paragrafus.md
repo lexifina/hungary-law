@@ -20,6 +20,6 @@ a) lakhatási lehetőséget, valamint legalább a 76–82. §-okban meghatározo
 
 b) testi, értelmi, érzelmi, erkölcsi fejlődését elősegítő, életkorának, egészségi állapotának és egyéb szükségleteinek megfelelő – a 83–84. §-okban meghatározott – nevelést, gondozást
 
-c)[^234] – ha a magyar nyelvet nem ismeri – a teljes körű ellátásához, valamint teljes körű ellátásához kapcsolódóan az ügyei intézéséhez és a meghallgatásához szükséges fordítás és tolmácsolás biztosítását
+c)[^236] – ha a magyar nyelvet nem ismeri – a teljes körű ellátásához, valamint teljes körű ellátásához kapcsolódóan az ügyei intézéséhez és a meghallgatásához szükséges fordítás és tolmácsolás biztosítását
 
-[^234]: A 75. § (2) bekezdés c) pontját a 49/2013. (VII. 10.) EMMI rendelet 13. §-a iktatta be.
+[^236]: A 75. § (2) bekezdés c) pontját a 49/2013. (VII. 10.) EMMI rendelet 13. §-a iktatta be.

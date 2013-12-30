@@ -1,4 +1,6 @@
-1. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^441]
+## 170. §[^443] A 3/A. és a 3/B. § rendelkezéseit alkalmazni kell a szolgáltatói nyilvántartásra vonatkozó, a nevelőszülői foglalkoztatási jogviszony bevezetésével összefüggő gyermekvédelmi tárgyú és a szociális ágazatba tartozó egyes miniszteri rendeletek módosításáról szóló 83/2013. (XII. 29.) EMMI rendelet (a továbbiakban: Mód2. rendelet) hatálybalépésekor folyamatban lévő hatósági eljárásokban is.
+
+1. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^444]
 
 ## A gyermekjóléti és gyermekvédelmi személyes gondoskodás formáinak szakmai létszám irányszámai és létszámminimum normái
 
@@ -122,4 +124,5 @@ I. Alapellátások
 
 II. Szakellátások
 
-[^441]: Az 1. számú melléklet a 46/2003. (VIII. 8.) ESZCSM rendelet 97. §-ával megállapított, a 31/2009. (XII. 22.) SZMM rendelet 18. § (1) bekezdése, a 28/2010. (XII. 30.) NEFMI rendelet 26. § (1) bekezdés a) pontja, a 77/2011. (XII. 30.) NEFMI rendelet 12. § (1) bekezdése, a 49/2013. (VII. 10.) EMMI rendelet 22. § (1) bekezdése szerint módosított szöveg.
+[^443]: A 170. §-t a 83/2013. (XII. 29.) EMMI rendelet 14. §-a iktatta be.
+[^444]: Az 1. számú melléklet a 46/2003. (VIII. 8.) ESZCSM rendelet 97. §-ával megállapított, a 31/2009. (XII. 22.) SZMM rendelet 18. § (1) bekezdése, a 28/2010. (XII. 30.) NEFMI rendelet 26. § (1) bekezdés a) pontja, a 77/2011. (XII. 30.) NEFMI rendelet 12. § (1) bekezdése, a 49/2013. (VII. 10.) EMMI rendelet 22. § (1) bekezdése szerint módosított szöveg.

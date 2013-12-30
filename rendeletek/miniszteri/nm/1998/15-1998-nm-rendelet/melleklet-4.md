@@ -16,6 +16,6 @@
 
 | Dátum | Bevétel (Ft) | Kiadás (Ft) | Egyenleg (Ft) | Gyermek aláírása |
 
-4. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^444]
+4. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^447]
 
-[^444]: A 4. számú melléklet a 77/2011. (XII. 30.) NEFMI rendelet 14. §-a szerint módosított szöveg.
+[^447]: A 4. számú melléklet a 77/2011. (XII. 30.) NEFMI rendelet 14. §-a szerint módosított szöveg.

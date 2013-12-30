@@ -1,4 +1,4 @@
-147. §[^406] (1) A szakszolgálat a gyermek örökbe fogadhatónak nyilvánításáról, illetve tartós nevelésbe vételéről szóló határozat jogerőre emelkedéséig beszerzi a gyermeket vizsgáló szakemberektől, szervektől a gyermek egészségi és személyiségállapotára, valamint a gyermeket gondozó személyektől, szervektől a gyermek családi hátterére vonatkozó korábbi és jelenlegi szakvéleményeket, egyéb dokumentumokat.
+147. §[^408] (1) A szakszolgálat a gyermek örökbe fogadhatónak nyilvánításáról, illetve tartós nevelésbe vételéről szóló határozat jogerőre emelkedéséig beszerzi a gyermeket vizsgáló szakemberektől, szervektől a gyermek egészségi és személyiségállapotára, valamint a gyermeket gondozó személyektől, szervektől a gyermek családi hátterére vonatkozó korábbi és jelenlegi szakvéleményeket, egyéb dokumentumokat.
 
 (2) A szakszolgálat a gyermek örökbe fogadhatónak nyilvánításáról, illetve tartós nevelésbe vételéről szóló határozat jogerőre emelkedését követően haladéktalanul kiválasztja a nyilvántartásában szereplő örökbe adható gyermek számára a nyilvántartásában szereplő örökbe fogadni szándékozó személyek közül – a nyilvántartási sorrend figyelembevételével – a legmegfelelőbbnek látszó örökbe fogadó szülőt.
 
@@ -14,4 +14,4 @@
 
 (8) A szakszolgálat az örökbe fogadni szándékozó személy kérelmére a (7) bekezdés szerinti javaslatot az (1) bekezdés szerinti dokumentumokkal együtt megküldi a gyámhivatal részére.
 
-[^406]: A 147. § a 28/2010. (XII. 30.) NEFMI rendelet 18. §-ával megállapított szöveg.
+[^408]: A 147. § a 28/2010. (XII. 30.) NEFMI rendelet 18. §-ával megállapított szöveg.
