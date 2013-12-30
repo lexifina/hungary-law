@@ -1,4 +1,4 @@
-## 172. § E rendelet alapján támogatási döntést csekély összegű, valamint a 800/2008/EK rendelet hatálya alá tartozó támogatások tekintetében 2013. december 31-ig lehet hozni.
+## lehet támogatási döntést hozni.
 
 ## 173. § E rendelet
 
@@ -8,4 +8,8 @@ b) 69. alcíme a Szerződés 87. és 88. cikkének a de minimis támogatásokra 
 
 c) 70. alcíme az Európai Unió működéséről szóló szerződés 106. cikke (2) bekezdésének az általános gazdasági érdekű szolgáltatások nyújtásával megbízott egyes vállalkozások javára közszolgáltatás ellentételezése formájában nyújtott állami támogatásra való alkalmazásáról szóló, 2011. december 20-i 2012/21/EU bizottsági határozat (HL L 7., 2012. 1. 11., 3. o.)
 
+d)[^7] 49. alcíme az EGT Finanszírozási Mechanizmus és a Norvég Finanszírozási Mechanizmus keretében nyújtható kulturális célú támogatások című, SA.35368-2012/N. számú bizottsági határozat
+
 hatálya alá tartozó támogatást tartalmaz.
+
+[^7]: A 173. § d) pontját az 507/2013. (XII. 29.) Korm. rendelet 7. § (2) bekezdése iktatta be.
