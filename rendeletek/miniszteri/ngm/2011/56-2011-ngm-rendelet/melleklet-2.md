@@ -2258,6 +2258,8 @@
 
 ## 890443 Egyéb közfoglalkoztatás
 
+## 890444 Start-munka program – Téli közfoglalkoztatás
+
 ## 8905 Egyéb közösségi, társadalmi tevékenység támogatása
 
 ## 890501 Emberi jogi szervezetek tevékenységének támogatása
@@ -2486,7 +2488,7 @@
 
 ## 960900 M.n.s. egyéb személyi szolgáltatás
 
-2. számú melléklet az 56/2011. (XII. 31.) NGM rendelethez[^6]
+2. számú melléklet az 56/2011. (XII. 31.) NGM rendelethez[^8]
 
 Tartalmi meghatározások az államháztartási szakfeladatrend szakfeladataihoz
 
@@ -7786,14 +7788,4 @@ Mutatószámok:
 
 Itt kell megtervezni és elszámolni:
 
-- a Gyvt.-ben meghatározott gyermekjóléti szolgáltatással kapcsolatos bevételeket és kiadásokat.
-
-Nem itt kell megtervezni és elszámolni:
-
-- a kórházi szociális munkát (889202),
-
-- utcai, lakótelepi szociális munkát (889203),
-
-- kapcsolattartási ügyeletet (889204),
-
-[^6]: A 2. melléklet az 5/2012. (III. 1.) NGM rendelet 14. §-a, a 26/2013. (VI. 28.) NGM rendelet 2. § (2) bekezdése szerint módosított szöveg.
+[^8]: A 2. melléklet az 5/2012. (III. 1.) NGM rendelet 14. §-a, a 26/2013. (VI. 28.) NGM rendelet 2. § (2) bekezdése szerint módosított szöveg.

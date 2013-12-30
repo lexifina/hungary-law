@@ -1,8 +1,8 @@
-## 6. §[^1] E rendelet alkalmazásában akkor kell befektetési célúnak tekinteni a kiadást és a bevételt, ha a befektetés célja nem a befektető valamely közfeladatának ellátását, kiváltását végző, segítő gazdasági társaság, szövetkezet vagy más jogi személy alapítása vagy e célból jogi személyben történő részesedés szerzése.
+## 6. §[^2] E rendelet alkalmazásában akkor kell befektetési célúnak tekinteni a kiadást és a bevételt, ha a befektetés célja nem a befektető valamely közfeladatának ellátását, kiváltását végző, segítő gazdasági társaság, szövetkezet vagy más jogi személy alapítása vagy e célból jogi személyben történő részesedés szerzése.
 
 7. § (1) A költségvetési szervek, fejezeti kezelésű előirányzatok, elkülönített állami pénzalapok és a társadalombiztosítás pénzügyi alapjai költségvetésének szakfeladatonkénti tervezése, elszámolása során az alaptevékenységek, a vállalkozási tevékenységek, támogatási és befektetési célú, valamint a technikai szakfeladatok megjelölése elkülönítetten történik.
 
-(2)[^2] Az (1) bekezdés szerinti elkülönítés a szakfeladat számához illesztett kódokkal történik. A használandó kód
+(2)[^3] Az (1) bekezdés szerinti elkülönítés a szakfeladat számához illesztett kódokkal történik. A használandó kód
 
 a) az Áht. 1. § (2) bekezdése szerint ellátott szakmai alaptevékenység (közfeladat) esetén „1”,
 
@@ -20,5 +20,5 @@ g) az Áht. 1. § (3) bekezdése szerinti, harmadik fél bevonásával ellátott
 
 h) technikai szakfeladat esetén „9”.
 
-[^1]: A 6. § a 26/2013. (VI. 28.) NGM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^2]: A 7. § (2) bekezdése a 26/2013. (VI. 28.) NGM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^2]: A 6. § a 26/2013. (VI. 28.) NGM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^3]: A 7. § (2) bekezdése a 26/2013. (VI. 28.) NGM rendelet 1. § (2) bekezdésével megállapított szöveg.
