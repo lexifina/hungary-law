@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1999-9-20-85
 | 2013-02-08 | 1999-9-20-85.16 | 11/2013. (II. 7.) EMMI rendelet |
 | 2013-04-01 | 1999-9-20-85.17 | 25/2013. (III. 29.) EMMI rendelet |
 | 2013-08-01 | 1999-9-20-85.18 | 55/2013. (VII. 29.) EMMI rendelet |
+| 2013-12-30 | 1999-9-20-85.19 | 83/2013. (XII. 29.) EMMI rendelet |

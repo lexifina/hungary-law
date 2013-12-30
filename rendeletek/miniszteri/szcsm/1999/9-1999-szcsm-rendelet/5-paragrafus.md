@@ -1,4 +1,4 @@
-5. § (1)[^11] Az előgondozás célja
+5. § (1)[^18] Az előgondozás célja
 
 a) az elhelyezést igénybe vevő helyzetének megismerése annak megállapítása céljából, hogy az igénybe vevő állapotának és szükségleteinek megfelel-e az intézmény szolgáltatása,
 
@@ -10,7 +10,7 @@ d) a szolgáltatás biztosításának előkészítése az igénybe vevő részé
 
 e) az intézményben élők és dolgozók felkészítése az új igénybe vevő fogadására, az intézménybe történő beilleszkedés zavartalan biztosítása.
 
-(2)[^12]
+(2)[^19]
 
-[^11]: Az 5. § (1) bekezdés nyitó szövegrésze a 25/2013. (III. 29.) EMMI rendelet 10. § b) pontja szerint módosított szöveg.
-[^12]: Az 5. § (2) bekezdését a 25/2013. (III. 29.) EMMI rendelet 11. § a) pontja hatályon kívül helyezte.
+[^18]: Az 5. § (1) bekezdés nyitó szövegrésze a 25/2013. (III. 29.) EMMI rendelet 10. § b) pontja szerint módosított szöveg.
+[^19]: Az 5. § (2) bekezdését a 25/2013. (III. 29.) EMMI rendelet 11. § a) pontja hatályon kívül helyezte.

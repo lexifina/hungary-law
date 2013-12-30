@@ -1,12 +1,12 @@
-## 20. §[^32]
+## 20. §[^39]
 
 ## A szociális ellátások igényléshez szükséges
 
 ## szakvélemények
 
-21. §[^33] (1)[^34] A fogyatékos személyek, illetve a pszichiátriai és szenvedélybetegek bentlakásos intézményébe történő felvétel, valamint a pszichiátriai betegek nappali ellátásának igénybevétele iránti kérelemhez mellékelni kell az igénybe vevő szakorvosának, kezelőorvosának szakvéleményét.
+21. §[^40] (1)[^41] A fogyatékos személyek, illetve a pszichiátriai és szenvedélybetegek bentlakásos intézményébe történő felvétel, valamint a pszichiátriai betegek nappali ellátásának igénybevétele iránti kérelemhez mellékelni kell az igénybe vevő szakorvosának, kezelőorvosának szakvéleményét.
 
-(2)[^35] A fogyatékos személyek nappali ellátásának igénybevétele iránti kérelemhez mellékelni kell a fogyatékosság fennállását igazoló,
+(2)[^42] A fogyatékos személyek nappali ellátásának igénybevétele iránti kérelemhez mellékelni kell a fogyatékosság fennállását igazoló,
 
 a) a tanulási képességet vizsgáló szakértői és rehabilitációs bizottság, illetve az országos szakértői és rehabilitációs tevékenységet végző bizottság szakértői véleményét vagy
 
@@ -14,11 +14,11 @@ b) a fogyatékosság jellege szerinti szakorvosi leletet vagy
 
 c) az Szt. 65/C. §-ának (6) bekezdése szerinti dokumentumokat.
 
-(3)[^36] Kiskorú esetében a fogyatékos személyek otthonába történő elhelyezés iránti kérelemhez mellékelni kell a területileg illetékes szakértői bizottság szakvéleményét.
+(3)[^43] Kiskorú esetében a fogyatékos személyek otthonába történő elhelyezés iránti kérelemhez mellékelni kell a területileg illetékes szakértői bizottság szakvéleményét.
 
 (4) A közösségi pszichiátriai ellátás igénybevételére irányuló kérelemhez mellékelni kell a pszichiáter vagy neurológus szakorvos szakvéleményét a pszichiátriai betegség fennállásáról. Ha a szolgáltatást igénylő nem rendelkezik szakvéleménnyel, a szolgáltatás részére a kérelem benyújtásától számított legfeljebb három hónapig átmeneti jelleggel biztosítható.
 
-(5)[^37] Demens személyek ellátása esetén az igénybevételre irányuló kérelemhez be kell nyújtani az orvosszakértői szerv vagy a Pszichiátriai/Neurológiai Szakkollégium által befogadott demencia centrum vagy pszichiáter, neurológus, geriáter szakorvos által kiállított,
+(5)[^44] Demens személyek ellátása esetén az igénybevételre irányuló kérelemhez be kell nyújtani az orvosszakértői szerv vagy a Pszichiátriai/Neurológiai Szakkollégium által befogadott demencia centrum vagy pszichiáter, neurológus, geriáter szakorvos által kiállított,
 
 a) nappali ellátás esetén a demencia kórképet megállapító,
 
@@ -26,12 +26,12 @@ b) bentlakásos intézményi ellátás esetén a demencia kórkép legalább kö
 
 ## szakvéleményt.
 
-(6)[^38] A támogatott lakhatásra az (1) és a (3) bekezdést alkalmazni kell, azzal, hogy a fogyatékos személyek, illetve a pszichiátriai és szenvedélybetegek bentlakásos intézménye alatt támogatott lakhatást kell érteni.
+(6)[^45] A támogatott lakhatásra az (1) és a (3) bekezdést alkalmazni kell, azzal, hogy a fogyatékos személyek, illetve a pszichiátriai és szenvedélybetegek bentlakásos intézménye alatt támogatott lakhatást kell érteni.
 
-[^32]: A 20. §-t a 10/2006. (XII. 27.) SZMM rendelet 12. § (2) bekezdésének f) pontja hatályon kívül helyezte.
-[^33]: A 21. § a 10/2006. (XII. 27.) SZMM rendelet 9. §-ával megállapított szöveg.
-[^34]: A 21. § (1) bekezdése a 9/2009. (IV. 11.) SZMM rendelet 2. §-ával megállapított, a 35/2009. (XII. 30.) SZMM rendelet 23. § (3) bekezdés a) pont aa) alpontja szerint módosított szöveg.
-[^35]: A 21. § (2) bekezdését a 92/2008. (IV. 23.) Korm. rendelet 14. § (6) bekezdés a) pont ab) alpontja hatályon kívül helyezte, újonnan a 35/2009. (XII. 30.) SZMM rendelet 5. §-a iktatta be.
-[^36]: A 21. § (3) bekezdése az 55/2013. (VII. 29.) EMMI rendelet 4. § b) pontja szerint módosított szöveg.
-[^37]: A 21. § (5) bekezdése a 27/2010. (XII. 30.) NEFMI rendelet 6. §-ával megállapított szöveg.
-[^38]: A 21. § (6) bekezdését az 55/2013. (VII. 29.) EMMI rendelet 3. §-a iktatta be.
+[^39]: A 20. §-t a 10/2006. (XII. 27.) SZMM rendelet 12. § (2) bekezdésének f) pontja hatályon kívül helyezte.
+[^40]: A 21. § a 10/2006. (XII. 27.) SZMM rendelet 9. §-ával megállapított szöveg.
+[^41]: A 21. § (1) bekezdése a 9/2009. (IV. 11.) SZMM rendelet 2. §-ával megállapított, a 35/2009. (XII. 30.) SZMM rendelet 23. § (3) bekezdés a) pont aa) alpontja szerint módosított szöveg.
+[^42]: A 21. § (2) bekezdését a 92/2008. (IV. 23.) Korm. rendelet 14. § (6) bekezdés a) pont ab) alpontja hatályon kívül helyezte, újonnan a 35/2009. (XII. 30.) SZMM rendelet 5. §-a iktatta be.
+[^43]: A 21. § (3) bekezdése az 55/2013. (VII. 29.) EMMI rendelet 4. § b) pontja szerint módosított szöveg.
+[^44]: A 21. § (5) bekezdése a 27/2010. (XII. 30.) NEFMI rendelet 6. §-ával megállapított szöveg.
+[^45]: A 21. § (6) bekezdését az 55/2013. (VII. 29.) EMMI rendelet 3. §-a iktatta be.

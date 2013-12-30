@@ -1,6 +1,6 @@
-## 6/A. §[^14]
+## 6/A. §[^21]
 
-## 7. §[^15] Az előgondozás során az előgondozást végző személy szükség esetén felveszi a kapcsolatot
+## 7. §[^22] Az előgondozás során az előgondozást végző személy szükség esetén felveszi a kapcsolatot
 
 a) az igénybe vevő szociális ellátását biztosító intézménnyel, a szolgáltatást biztosító személlyel,
 
@@ -12,5 +12,5 @@ d) a lakóhely szerint illetékes gyámhivatallal a cselekvőképességre vonatk
 
 e) az ellátást igénybe vevő törvényes képviselőjével, illetve legközelebbi hozzátartozóival.
 
-[^14]: A 6/A. §-t újonnan a 27/2010. (XII. 30.) NEFMI rendelet 3. §-a iktatta be, hatályon kívül helyezte a 25/2013. (III. 29.) EMMI rendelet 11. § b) pontja.
-[^15]: A 7. § a 25/2013. (III. 29.) EMMI rendelet 6. §-ával megállapított szöveg.
+[^21]: A 6/A. §-t újonnan a 27/2010. (XII. 30.) NEFMI rendelet 3. §-a iktatta be, hatályon kívül helyezte a 25/2013. (III. 29.) EMMI rendelet 11. § b) pontja.
+[^22]: A 7. § a 25/2013. (III. 29.) EMMI rendelet 6. §-ával megállapított szöveg.
