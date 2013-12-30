@@ -2,9 +2,9 @@
 
 ## A támogatás célja és általános feltételei
 
-4. §[^26] (1) A 3. § a)–h) pontjában meghatározott jogcímeken nyújtott támogatásoknak ösztönző hatást kell kifejteniük oly módon, hogy a támogatások eredményeként a K+F és innovációs tevékenységek köre a támogatott vállalkozás esetében növekedjék.
+4. §[^27] (1) A 3. § a)–h) pontjában meghatározott jogcímeken nyújtott támogatásoknak ösztönző hatást kell kifejteniük oly módon, hogy a támogatások eredményeként a K+F és innovációs tevékenységek köre a támogatott vállalkozás esetében növekedjék.
 
-(2)[^27] A támogatást nyújtó a támogatás odaítélése és a támogatási döntés meghozatala előtt előzetesen megvizsgálja, hogy a támogatás eredményeként a kedvezményezett a K+F+I tevékenységeit valóban bővíti-e. A támogatást nyújtó az ösztönző hatás megállapítása érdekében összehasonlító elemzést készít vagy készíttet a támogatással megvalósuló és a támogatás nélküli helyzetről. A támogatás csak abban az esetben nyújtható, ha a támogatás bizonyíthatóan növeli az alábbi mutatók értékének egyikét:
+(2)[^28] A támogatást nyújtó a támogatás odaítélése és a támogatási döntés meghozatala előtt előzetesen megvizsgálja, hogy a támogatás eredményeként a kedvezményezett a K+F+I tevékenységeit valóban bővíti-e. A támogatást nyújtó az ösztönző hatás megállapítása érdekében összehasonlító elemzést készít vagy készíttet a támogatással megvalósuló és a támogatás nélküli helyzetről. A támogatás csak abban az esetben nyújtható, ha a támogatás bizonyíthatóan növeli az alábbi mutatók értékének egyikét:
 
 a) a projekt méretét, ideértve a projekt összköltségét, illetve a K+F és innovációs tevékenységekben részt vevő személyek számát;
 
@@ -28,5 +28,5 @@ e) magasan képzett munkaerő kölcsönzéshez nyújtott támogatásnak minősü
 
 f) fiatal innovatív vállalkozásnak nyújtott támogatásnak minősül.
 
-[^26]: A 4. § hatálybalépéséről e rendelet 44. § (2) bekezdése alapján külön kormányrendelet rendelkezik. A 12/2008. (I. 26.) Korm. rendelet 9. § (2) bekezdése alapján a rendelkezés 2008. január 27-én lépett hatályba.
-[^27]: A 4. § (2) bekezdése a 12/2008. (I. 26.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^27]: A 4. § hatálybalépéséről e rendelet 44. § (2) bekezdése alapján külön kormányrendelet rendelkezik. A 12/2008. (I. 26.) Korm. rendelet 9. § (2) bekezdése alapján a rendelkezés 2008. január 27-én lépett hatályba.
+[^28]: A 4. § (2) bekezdése a 12/2008. (I. 26.) Korm. rendelet 1. §-ával megállapított szöveg.

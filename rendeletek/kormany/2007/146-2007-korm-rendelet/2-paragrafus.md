@@ -1,10 +1,10 @@
 ## ÉRTELMEZŐ RENDELKEZÉSEK
 
-2. §[^2] (1) E rendelet alkalmazásában:
+2. §[^3] (1) E rendelet alkalmazásában:
 
 1. Alapkutatás: a Kutatási és Technológiai Innovációs Alapról szóló 2003. évi XC. törvény (a továbbiakban: Atv.) 12. §-ának a) pontjában meghatározott alapkutatás;
 
-2.[^3] Állami támogatás: az Európai Unió működéséről szóló szerződés (a továbbiakban: EUMSz) 107. cikk (1) bekezdése szerinti támogatás és a Szerződés 87. és 88. cikkének a de minimis támogatásokra való alkalmazásáról szóló 2006. december 15-i 1998/2006/EK bizottsági rendelet 2. cikke szerinti támogatás;
+2.[^4] Állami támogatás: az Európai Unió működéséről szóló szerződés (a továbbiakban: EUMSz) 107. cikk (1) bekezdése szerinti támogatás és a Szerződés 87. és 88. cikkének a de minimis támogatásokra való alkalmazásáról szóló 2006. december 15-i 1998/2006/EK bizottsági rendelet 2. cikke szerinti támogatás;
 
 3. Közfinanszírozású támogatás: a kutatás-fejlesztésről és a technológiai innovációról szóló 2004. évi CXXXIV. törvény 4. §-ának 7. pontjában meghatározott közfinanszírozású támogatás;
 
@@ -14,7 +14,7 @@
 
 6. Beruházási támogatás: a 800/2008. EK bizottsági rendelet 2. cikk 17. pontjában meghatározott fogalom;
 
-7.[^4] Diszkont kamatláb: a az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet (a továbbiakban: Atr.) 2. § 3. pontjában meghatározott fogalom;
+7.[^5] Diszkont kamatláb: a az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet (a továbbiakban: Atr.) 2. § 3. pontjában meghatározott fogalom;
 
 8. Egyedi támogatás: a 800/2008. EK bizottsági rendelet 2. cikkének 3. pontjában meghatározott támogatás;
 
@@ -48,13 +48,13 @@
 
 22. Nagyberuházás: az a beruházás, amelyhez kapcsolódóan az elszámolható költség jelenértéken legalább 50 millió eurónak megfelelő forintösszeg; ennek meghatározásakor egyetlen beruházási projektnek kell tekinteni az egy vagy több adózó által egy 3*365 napos időszakon belül megkezdett, gazdaságilag oszthatatlan beruházásokat;
 
-23.[^5] Nehéz helyzetben lévő vállalkozás: az Atr. 6. §-ában meghatározott vállalkozás;
+23.[^6] Nehéz helyzetben lévő vállalkozás: az Atr. 6. §-ában meghatározott vállalkozás;
 
 24. Ösztönző hatású támogatás: a 800/2008. EK bizottsági rendelet 8. cikkében meghatározott támogatás;
 
 25. Projekt: meghatározott kutatás-fejlesztési feladat, technológiai innovációs folyamat végrehajtására irányuló tevékenység az abban érdekeltek által meghatározott terv alapján;
 
-26.[^6] Referencia alapkamatláb: az Atr. 2. § 13. pontjában meghatározott fogalom;
+26.[^7] Referencia alapkamatláb: az Atr. 2. § 13. pontjában meghatározott fogalom;
 
 27. Saját forrás: a kedvezményezett által a fejlesztési programhoz igénybe vett állami támogatást nem tartalmazó forrás;
 
@@ -70,9 +70,9 @@
 
 33. Támogatási intenzitás: a támogatástartalom és a jelenértéken számított elszámolható költség hányadosa, százalékos formában kifejezve;
 
-34.[^7] Támogatástartalom: a kedvezményezett számára nyújtott állami támogatásnak az Atr. 2. mellékletében meghatározott módszer alapján kiszámolt értéke;
+34.[^8] Támogatástartalom: a kedvezményezett számára nyújtott állami támogatásnak az Atr. 2. mellékletében meghatározott módszer alapján kiszámolt értéke;
 
-35.[^8] Támogatott terület: az EUMSz 107. cikk (3) bekezdés a) pontja szerint támogatott régiók: Észak-Magyarország, Észak-Alföld, Dél-Alföld, Dél-Dunántúl, Közép-Dunántúl, Nyugat-Dunántúl; az EUMSz 107. cikk (3) bekezdés c) pontja szerint támogatott régió: Közép-Magyarország;
+35.[^9] Támogatott terület: az EUMSz 107. cikk (3) bekezdés a) pontja szerint támogatott régiók: Észak-Magyarország, Észak-Alföld, Dél-Alföld, Dél-Dunántúl, Közép-Dunántúl, Nyugat-Dunántúl; az EUMSz 107. cikk (3) bekezdés c) pontja szerint támogatott régió: Közép-Magyarország;
 
 36. Technológiai innováció: az Atv. 12. §-ának e) pontjában meghatározott technológiai innováció;
 
@@ -82,15 +82,15 @@
 
 (3) A 2. § 18. pontjának alkalmazásában a kutatási szervezet megítélésekor figyelembe kell venni, hogy ezen szervezetek minden nyereséget ismét ilyen tevékenységekbe, eredményeik terjesztésébe vagy oktatásba fektetnek; azok a vállalkozások, melyek befolyással lehetnek adott kutatási szervezetre, így például a részvényesek vagy tagok, nem élveznek preferenciális hozzáférést a szervezet kutatási kapacitásaihoz vagy az általa elért kutatási eredményekhez.
 
-(4)[^9] A 2. § 22. pontjának alkalmazásában a beruházás gazdasági oszthatatlanságának megállapításakor figyelembe kell venni a technikai, funkcionális és stratégiai kapcsolatokat, valamint a közvetlen földrajzi közelséget; ezt úgy kell meghatározni, hogy a kérelemben, illetve a bejelentésben szereplő beruházás elszámolható költségéhez hozzá kell adni és együttesen kell figyelembe venni az e beruházás megkezdése napját megelőző 3*365 napos időszakon belül megkezdett, olyan gazdaságilag oszthatatlan beruházások jelenértéken számított értékét, amely(ek)hez az adózó igénybe vett (igényelt) állami támogatást. A gazdasági oszthatatlanságot a tulajdonviszonyoktól függetlenül kell értékelni. Az euróra való átszámításra a támogatás odaítélésének időpontjakor érvényes árak és árfolyam, illetve azon nagyberuházási projektek esetében, amelyeknek – az Atr. szerinti – egyedi bejelentése szükséges, a bejelentés időpontjakor érvényes árak és árfolyam alkalmazandó.
+(4)[^10] A 2. § 22. pontjának alkalmazásában a beruházás gazdasági oszthatatlanságának megállapításakor figyelembe kell venni a technikai, funkcionális és stratégiai kapcsolatokat, valamint a közvetlen földrajzi közelséget; ezt úgy kell meghatározni, hogy a kérelemben, illetve a bejelentésben szereplő beruházás elszámolható költségéhez hozzá kell adni és együttesen kell figyelembe venni az e beruházás megkezdése napját megelőző 3*365 napos időszakon belül megkezdett, olyan gazdaságilag oszthatatlan beruházások jelenértéken számított értékét, amely(ek)hez az adózó igénybe vett (igényelt) állami támogatást. A gazdasági oszthatatlanságot a tulajdonviszonyoktól függetlenül kell értékelni. Az euróra való átszámításra a támogatás odaítélésének időpontjakor érvényes árak és árfolyam, illetve azon nagyberuházási projektek esetében, amelyeknek – az Atr. szerinti – egyedi bejelentése szükséges, a bejelentés időpontjakor érvényes árak és árfolyam alkalmazandó.
 
 (5) A 2. § 30. pontjának alkalmazásában nem minősülnek szervezési innovációnak: az üzleti gyakorlatban, a munkahelyi szervezetben vagy külső kapcsolatokban eszközölt olyan változtatások, amelyek a vállalkozáson belül már alkalmazott szervezési módszereken alapulnak, a vezetési stratégia megváltoztatása, a fúziók és felvásárlások, egy eljárás alkalmazásának beszüntetése, az egyszerű tőkepótlás vagy tőkenövelés, a kizárólag az értékesítési árak megváltoztatásához köthető változások, az egyedi igényekhez igazítás, a rendes szezonális és egyéb ciklikus változások, az új vagy jelentősen továbbfejlesztett termékekkel folytatott kereskedelem.
 
-[^2]: A 2. § a 230/2009. (X. 16.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^3]: A 2. § (1) bekezdés 2. pontja a 37/2011. (III. 22.) Korm. rendelet 39. § (14) bekezdésével megállapított szöveg.
-[^4]: A 2. § (1) bekezdés 7. pontja a 37/2011. (III. 22.) Korm. rendelet 40. § (9) bekezdés a) pontja szerint módosított szöveg.
-[^5]: A 2. § (1) bekezdés 23. pontja a 37/2011. (III. 22.) Korm. rendelet 40. § (9) bekezdés b) pontja szerint módosított szöveg.
-[^6]: A 2. § (1) bekezdés 26. pontja a 37/2011. (III. 22.) Korm. rendelet 40. § (9) bekezdés c) pontja szerint módosított szöveg.
-[^7]: A 2. § (1) bekezdés 34. pontja a 37/2011. (III. 22.) Korm. rendelet 40. § (9) bekezdés d) pontja szerint módosított szöveg.
-[^8]: A 2. § (1) bekezdés 35. pontja a 37/2011. (III. 22.) Korm. rendelet 40. § (10) bekezdése szerint módosított szöveg.
-[^9]: A 2. § (4) bekezdése a 37/2011. (III. 22.) Korm. rendelet 40. § (9) bekezdés e) pontja szerint módosított szöveg.
+[^3]: A 2. § a 230/2009. (X. 16.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^4]: A 2. § (1) bekezdés 2. pontja a 37/2011. (III. 22.) Korm. rendelet 39. § (14) bekezdésével megállapított szöveg.
+[^5]: A 2. § (1) bekezdés 7. pontja a 37/2011. (III. 22.) Korm. rendelet 40. § (9) bekezdés a) pontja szerint módosított szöveg.
+[^6]: A 2. § (1) bekezdés 23. pontja a 37/2011. (III. 22.) Korm. rendelet 40. § (9) bekezdés b) pontja szerint módosított szöveg.
+[^7]: A 2. § (1) bekezdés 26. pontja a 37/2011. (III. 22.) Korm. rendelet 40. § (9) bekezdés c) pontja szerint módosított szöveg.
+[^8]: A 2. § (1) bekezdés 34. pontja a 37/2011. (III. 22.) Korm. rendelet 40. § (9) bekezdés d) pontja szerint módosított szöveg.
+[^9]: A 2. § (1) bekezdés 35. pontja a 37/2011. (III. 22.) Korm. rendelet 40. § (10) bekezdése szerint módosított szöveg.
+[^10]: A 2. § (4) bekezdése a 37/2011. (III. 22.) Korm. rendelet 40. § (9) bekezdés e) pontja szerint módosított szöveg.

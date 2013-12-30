@@ -8,6 +8,6 @@
 
 (4) A támogatást nyújtó köteles írásban tájékoztatni a kedvezményezettet a pályázati felhívásban, illetve a támogatási szerződésben arról, hogy csekély összegű támogatásban részesül. A tájékoztatásnak kifejezetten utalnia kell a bizottsági rendeletre, hivatkozva annak pontos címére és az Európai Közösség Hivatalos Lapjában való kihirdetésére, valamint meg kell határoznia a támogatás pontos összegét támogatástartalomban kifejezve.
 
-(5)[^75] Azonos elszámolható költségek tekintetében a csekély összegű támogatás nem halmozható más állami támogatással, ha az ilyen jellegű támogatáshalmozódás olyan támogatási intenzitást eredményezne, amely túllépi az e rendeletben az egyes esetek meghatározott körülményeire vonatkozóan rögzített támogatási intenzitást.
+(5)[^76] Azonos elszámolható költségek tekintetében a csekély összegű támogatás nem halmozható más állami támogatással, ha az ilyen jellegű támogatáshalmozódás olyan támogatási intenzitást eredményezne, amely túllépi az e rendeletben az egyes esetek meghatározott körülményeire vonatkozóan rögzített támogatási intenzitást.
 
-[^75]: A 40. § (5) bekezdését a 12/2008. (I. 26.) Korm. rendelet 6. §-a iktatta be.
+[^76]: A 40. § (5) bekezdését a 12/2008. (I. 26.) Korm. rendelet 6. §-a iktatta be.

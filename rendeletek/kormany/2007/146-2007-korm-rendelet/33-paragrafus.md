@@ -1,4 +1,4 @@
-33. §[^69] (1) A támogatott beruházások megkezdése időpontjának az alábbi időpontok minősülnek:
+33. §[^70] (1) A támogatott beruházások megkezdése időpontjának az alábbi időpontok minősülnek:
 
 a) építési tevékenységet tartalmazó beruházás esetén:
 
@@ -14,4 +14,4 @@ d) amennyiben a pályázatban ismertetett beruházást több célterületre (ép
 
 (2) A beruházás előkészítő tanulmányok megrendelése, elkészítése nem minősül a fejlesztés, beruházás (1) bekezdésben meghatározott megkezdésének.
 
-[^69]: A 33. § a 230/2009. (X. 16.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^70]: A 33. § a 230/2009. (X. 16.) Korm. rendelet 5. §-ával megállapított szöveg.

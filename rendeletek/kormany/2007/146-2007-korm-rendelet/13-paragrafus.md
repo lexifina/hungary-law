@@ -1,4 +1,4 @@
-13. §[^38] (1) Innovációs klasztereknek nyújtott beruházási támogatás esetében a következő maximális támogatási intenzitások engedélyezhetők:
+13. §[^39] (1) Innovációs klasztereknek nyújtott beruházási támogatás esetében a következő maximális támogatási intenzitások engedélyezhetők:
 
 a) Észak-Magyarország, Észak-Alföld, Dél-Alföld, Dél-Dunántúl tervezési-statisztikai régiókban 50%;
 
@@ -14,4 +14,4 @@ d) Budapesten és Pest megyében 15%.
 
 (4) Megfelelően indokolt esetben és a bejelentő tagállam által rendelkezésre bocsátott meggyőző bizonyítékok alapján a klaszterek élénkítésének működési támogatása hosszabb, 10 évet meg nem haladó időtartamra is odaítélhető.
 
-[^38]: A 13. § hatálybalépéséről e rendelet 44. § (2) bekezdése alapján külön kormányrendelet rendelkezik. A 12/2008. (I. 26.) Korm. rendelet 9. § (2) bekezdése alapján a rendelkezés 2008. január 27-én lépett hatályba.
+[^39]: A 13. § hatálybalépéséről e rendelet 44. § (2) bekezdése alapján külön kormányrendelet rendelkezik. A 12/2008. (I. 26.) Korm. rendelet 9. § (2) bekezdése alapján a rendelkezés 2008. január 27-én lépett hatályba.
