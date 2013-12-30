@@ -1,0 +1,1 @@
+7/B. § Az elsőfokú eljárásban igazolási kérelem nem terjeszthető elő. Aki a fellebbezési eljárás során valamely határnapot, határidőt – ide értve a fellebbezésre nyitva álló határidőt is – önhibáján kívül elmulasztott, igazolási kérelmet terjeszthet elő.

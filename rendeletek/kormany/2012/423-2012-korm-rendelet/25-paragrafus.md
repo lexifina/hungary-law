@@ -14,10 +14,12 @@ a) az egyes szakokra a Tájékoztatóban közzétett legmagasabb létszám növe
 
 b) az egyes szakokra a Tájékoztatóban közzétett legalacsonyabb létszám csökkentését,
 
-c) a szakok közötti létszám átcsoportosítását.
+c)[^54]
 
 (6) A felsőoktatási intézmények döntései alapján a Hivatal újabb tervezetet készít.
 
 (7) Az (5)–(6) bekezdés szerinti eljárása besorolási döntés napjáig többször ismételhető.
 
 (8) A felsőoktatási intézmények a (5) bekezdésben meghatározott javaslat elkészítésének a Hivatal által meghatározott időpontjáig kötelesek továbbítani a Hivatalnak a jelentkezők általuk meghatározott eredményeit.
+
+[^54]: A 25. § (5) bekezdés c) pontja az 502/2013. (XII. 29.) Korm. rendelet 25. § (3) bekezdés g) pontja hatályon kívül helyezte.

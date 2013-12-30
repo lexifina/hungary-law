@@ -1,5 +1,3 @@
-## 48. § A 2013. évi általános felsőoktatási felvételi eljárásban
+48. §[^87] A 2014. évi általános felsőoktatási felvételi eljárásban a közigazgatás-szervező alapképzési szakot, illetve a közigazgatási mesterképzési szakot azon intézmények is meghirdethetik, akik a Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló 2011. évi CXXXII. törvény egyes rendelkezéseinek végrehajtásáról szóló 363/2011. (XII. 30.) Korm. rendelet 20/A. § (1) bekezdése szerinti szakindítási engedéllyel nem rendelkeznek, de a 2013. évi általános felsőoktatási felvételi eljárásban rendelkeztek szakindítási engedéllyel az igazgatásszervező alapképzési, illetve a közigazgatási mesterképzési szakra.
 
-a) a 4–5. és 33. §-ban meghatározott hallgatói kapacitásról szóló közleményt 2013. február 1-jéig kell közzétenni,
-
-b) a 25. § (2) bekezdésében meghatározott határidőt nem kell alkalmazni.
+[^87]: A 48. § az 502/2013. (XII. 29.) Korm. rendelet 22. §-ával megállapított szöveg.

@@ -2,7 +2,7 @@
 
 24. § (1) Az esélyegyenlőség biztosítása érdekében
 
-a) a hátrányos helyzetű, a tartós nevelésbe vett és az árva jelentkező minden jelentkezési helyén 40 többletpontra;
+a)[^53] a hátrányos helyzetű jelentkező minden jelentkezési helyén 40 többletpontra;
 
 b) a fogyatékossággal élő jelentkező minden jelentkezési helyén 40 többletpontra;
 
@@ -19,3 +19,5 @@ jogosult.
 (5) Amennyiben a felsőoktatási intézmény a felvétel feltételéül egészségügyi, pályaalkalmassági, szakmai alkalmassági követelményt határoz meg, a fogyatékossággal élő jelentkezőt a felsőoktatási intézmény szabályzata szerint illethetik meg kedvezmények illetve felmentések.
 
 (6) A (3)–(5) bekezdés alapján nyújtott kedvezménynek vagy mentesítésnek a fogyatékosság jellegéhez kell igazodnia, és nem vezethet a felvételhez szükséges alapvető tanulmányi követelmények alóli teljes felmentéshez.
+
+[^53]: A 24. § (1) bekezdés a) pontja az 502/2013. (XII. 29.) Korm. rendelet 25. § (3) bekezdés f) pontja szerint módosított szöveg.

@@ -6,6 +6,9 @@
 
 (4) A Tájékoztató nem tartalmazza a külföldi állampolgárok számára hirdetett, idegen nyelven folyó képzésekre vonatkozó információkat. A felsőoktatási intézmény ezeket az információkat honlapján közzéteszi, egyebekben a közzétételről a felsőoktatási intézmény a szabályzatában meghatározottak szerint gondoskodik, és a képzésekről a Hivatalt tájékoztatja.
 
-(5) A Tájékoztató a besorolási döntés időpontjáról a 26. §[^4] (1) bekezdése alapján hozott döntéshez igazodva tartalmazza a jelentkezők számára e rendeletben előírt egyes határidőket.
+(5)[^9] A jelentkezők számára előírt egyes határidőket a Tájékoztató a – 26. § (1) bekezdése alapján megállapított – besorolási döntés időpontjához igazodva tartalmazza.
 
-[^4]: A Magyar Közlöny 2013. évi 3. számában közzétett helyesbítésnek megfelelő szöveg.
+(6)[^10] A Tájékoztató tartalmazza a jelentkező adataiban bekövetkezett változás kötelező bejelentési módját.
+
+[^9]: A 7. § (5) bekezdése az 502/2013. (XII. 29.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^10]: A 7. § (6) bekezdése az 502/2013. (XII. 29.) Korm. rendelet 2. §-ával megállapított szöveg.

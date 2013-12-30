@@ -18,7 +18,7 @@ f) az állami ösztöndíjas formában tanulmányokat folytató hallgatók álta
 
 g) az önköltséges formában tanulmányokat folytató hallgatók által fizetendő díjakkal, költségekkel, illetve a nekik nyújtható juttatásokkal kapcsolatos információkat,
 
-h) a jelentkezéshez csatolandó mellékletek felsorolását,
+h)[^5] a jelentkezési kérelemhez csatolandó mellékletek felsorolását,
 
 i) a jelentkezők rangsorolásának elveivel, a rangsorolás módjával kapcsolatos információkat,
 
@@ -34,10 +34,12 @@ m) a képzésen belül az intézmények által indítani tervezett specializáci
 
 (4) A felvételi követelmények sajátosságaira tekintettel az egyes meghirdetett képzések felvételi követelményeinek tartalmi ismertetése a felvételi eljárás általános szabályaitól és a jelentkezésre vonatkozó információktól elválasztva – erre történő külön utalás mellett – más kiadványban is megjelentethető.
 
-(5) A Tájékoztató tartalmazza az elektronikus jelentkezés benyújtásával kapcsolatos adatokat, valamint a papír alapú jelentkezés biztosításához a Hivatal azon postai címét, ahova a felvételi jelentkezési kérelmet be kell küldeni.
+(5)[^6] A Tájékoztató tartalmazza az elektronikus jelentkezés benyújtásával kapcsolatos adatokat, valamint a papír alapú jelentkezés biztosításához a Hivatal azon postai címét, ahova a jelentkezési kérelmet be kell küldeni.
 
-(6)[^2] Az (1) bekezdés szerinti hallgatói kapacitás összlétszáma nem haladhatja meg a működési engedélyben szereplő maximális hallgatói létszámnak az intézménnyel – a szeptemberben induló képzések esetén legkésőbb szeptemberig, a februárban induló képzések esetében legkésőbb februárig – hallgatói jogviszonyban álló személyek várható számával csökkentett számát.
+(6)[^7] Az (1) bekezdés szerinti hallgatói kapacitás összlétszáma nem haladhatja meg a működési engedélyben szereplő maximális hallgatói létszámnak az intézménnyel – a szeptemberben induló képzések esetén legkésőbb szeptemberig, a februárban induló képzések esetében legkésőbb februárig – hallgatói jogviszonyban álló személyek várható számával csökkentett számát.
 
 (7) A fizetési kötelezettségeket és a lehetséges juttatásokat Magyarország törvényes fizetőeszközében kell közölni.
 
-[^2]: Az 5. § (6) bekezdése a 47/2013. (II. 20.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^5]: Az 5. § (2) bekezdés h) pontja az 502/2013. (XII. 29.) Korm. rendelet 24. § b) pontja szerint módosított szöveg.
+[^6]: Az 5. § (5) bekezdése az 502/2013. (XII. 29.) Korm. rendelet 24. § h) pontja szerint módosított szöveg.
+[^7]: Az 5. § (6) bekezdése a 47/2013. (II. 20.) Korm. rendelet 1. §-ával megállapított szöveg.

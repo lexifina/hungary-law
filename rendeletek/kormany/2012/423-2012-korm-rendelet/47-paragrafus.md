@@ -1,18 +1,19 @@
-47. §[^29] (1) A 24. § (1) bekezdés a) pontja alkalmazásában árva az a 25 évnél fiatalabb hallgató, akinek mindkét szülője, illetve vele egy háztartásban élt hajadon, nőtlen, elvált vagy házastársától külön élt, illetve özvegy szülője elhunyt és nem fogadták örökbe.
+47. §[^80] (1)[^81]
 
-(2)[^30]
+(2)[^82]
 
-(3)[^31]
+(3)[^83]
 
-(4)[^32]
+(4)[^84]
 
-(5)[^33]
+(5)[^85]
 
-(6)[^34]
+(6)[^86]
 
-[^29]: A 47. § a 285/2013. (VII. 26.) Korm. rendelet 10. § (3) bekezdésével megállapított szöveg.
-[^30]: A 47. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^31]: A 47. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^32]: A 47. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^33]: A 47. § (5) bekezdése a – 47/2013. (II. 20.) Korm. rendelet 8. §-ával megállapított – 45. § (4) bekezdése alapján 2014. december 15-én lép hatályba.
-[^34]: A 47. § (6) bekezdése a – 47/2013. (II. 20.) Korm. rendelet 8. §-ával megállapított – 45. § (6) bekezdése alapján 2015. december 15-én lép hatályba.
+[^80]: A 47. § a 285/2013. (VII. 26.) Korm. rendelet 10. § (3) bekezdésével megállapított szöveg.
+[^81]: A 47. § (1) bekezdését az 502/2013. (XII. 29.) Korm. rendelet 25. § (3) bekezdés h) pontja hatályon kívül helyezte.
+[^82]: A 47. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^83]: A 47. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^84]: A 47. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^85]: A 47. § (5) bekezdése a – 47/2013. (II. 20.) Korm. rendelet 8. §-ával megállapított – 45. § (4) bekezdése alapján 2014. december 15-én lép hatályba.
+[^86]: A 47. § (6) bekezdése a – 47/2013. (II. 20.) Korm. rendelet 8. §-ával megállapított – 45. § (6) bekezdése alapján 2015. december 15-én lép hatályba.

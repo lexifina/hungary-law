@@ -2,7 +2,7 @@
 
 42. § (1) A felvételi eljárás során a jelentkezőnek alapdíjat, kiegészítő díjat, valamint – amennyiben az intézmény szabályzata így rendelkezik – intézményi eljárási díjat, külön eljárási díjat kell fizetnie.
 
-(2) Felsőoktatási szakképzésre, alapképzésre, osztatlan képzésre vagy mesterképzésre történő jelentkezés esetén a jelentkezőnek felvételi eljárási alapdíjat kell fizetnie, amelynek összege 9000 forint. A felvételi eljárás alapdíja egyidejűleg három képzésre irányuló felvételi kérelem benyújtására jogosít.
+(2)[^67] Felsőoktatási szakképzésre, alapképzésre, osztatlan képzésre vagy mesterképzésre történő jelentkezés esetén a jelentkezőnek felvételi eljárási alapdíjat kell fizetnie, amelynek összege 9000 forint. A felvételi eljárás alapdíja egyidejűleg három képzésre irányuló jelentkezési kérelem benyújtására jogosít.
 
 (3) A befizetett alapdíjból képzésenként 1000 forint illeti meg azt a felsőoktatási intézményt, ahová a jelentkező kérelme szerint jelentkezik.
 
@@ -13,3 +13,5 @@
 (6) Gyakorlati, egészségügyi alkalmassági, pályaalkalmassági, szóbeli és nyelvi alkalmassági vizsga, valamint a mesterképzésben szervezett felvételi vizsga esetén a felsőoktatási intézmény a vizsga megszervezésével és lebonyolításával kapcsolatos költségei fedezésére külön eljárási díjat határozhat meg azzal, hogy annak mértéke jelentkezésenként legfeljebb 4000 forint lehet.
 
 (7) A (2)–(6) bekezdés alkalmazása során ugyanazon képzés több finanszírozási formájára való egyidejű jelentkezés egy jelentkezésnek minősül.
+
+[^67]: A 42. § (2) bekezdése az 502/2013. (XII. 29.) Korm. rendelet 24. § g) pontja szerint módosított szöveg.

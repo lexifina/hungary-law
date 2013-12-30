@@ -1,4 +1,4 @@
-4. melléklet a 423/2012. (XII. 29.) Korm. rendelethez[^38]
+4. melléklet a 423/2012. (XII. 29.) Korm. rendelethez[^92]
 
 Szakiránynak megfelelő továbbtanulás meghatározása felvételi pontszámítás szempontjából
 
@@ -8,7 +8,7 @@ Szakiránynak megfelelő továbbtanulás meghatározása felvételi pontszámít
 
 | 2 | szociális szolgáltatások | pedagógusképzés társadalomtudomány |
 
-| 3 | oktatás (oktatás, pedagógia) | bölcsészettudomány pedagógusképzés |
+| 3 | oktatás (oktatás, pedagógia), kivéve: fitness-wellness instruktor; sportedző; személyi edző szakképesítések | bölcsészettudomány pedagógusképzés |
 
 | 4 | művészet, közművelődés, kommunikáció | bölcsészettudomány művészet művészetközvetítés társadalomtudomány |
 
@@ -48,4 +48,6 @@ Szakiránynak megfelelő továbbtanulás meghatározása felvételi pontszámít
 
 | 22 | közszolgálat; egyéb szolgáltatások [az Országos Képzési Jegyzékről és az Országos Képzési Jegyzék módosításának eljárásrendjéről szóló 150/2012. (VII. 6.) Korm. rendelet hatálybalépése előtti OKJ-rendeletek egyéb szolgáltatások szakmacsoportja szerinti honvéd, rendészeti és privátbiztonsági (pl. személy- és vagyonőr, biztonsági őr) szakképesítések, amelyeket az Oktatási Hivatal a felsőoktatási felvételi eljárás hivatalos honlapján közzétesz] rendészeti asszisztens szakképesítés | jogi közigazgatási, rendészeti és katonai |
 
-[^38]: A 4. mellékletet a 47/2013. (II. 20.) Korm. rendelet 10. §-a iktatta be.
+| 23 | sportkommunikátor; fitness-wellness instruktor; sportedző; személyi edző szakképesítések | sporttudomány |
+
+[^92]: A 4. mellékletet a 47/2013. (II. 20.) Korm. rendelet 10. §-a iktatta be, az 502/2013. (XII. 29.) Korm. rendelet 23. § (4) bekezdése szerint módosított szöveg.

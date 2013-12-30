@@ -2,11 +2,11 @@
 
 a) a keresztféléves felvételi eljárás esetén legkésőbb a képzés indítása szerinti év január 25. napjáig;
 
-b) az általános felvételi eljárás esetén legkésőbb a képzés indítása szerinti év augusztus 1. napjáig
+b)[^55] az általános felvételi eljárás esetén legkésőbb a képzés indítása szerinti év augusztus 5. napjáig
 
 hozza meg.
 
-(2) Besorolási döntésben a Hivatal azt állapítja meg, hogy a jelentkező a felvételi jelentkezési kérelmében megjelölt és rangsorolt képzések közül mely képzés esetében érte el a felvételhez szükséges ponthatárt. Egyazon felvételi eljárásban a jelentkező által meghatározott rangsor alapján csak egy jelentkezési helyre sorolható be.
+(2)[^56] Besorolási döntésben a Hivatal azt állapítja meg, hogy a jelentkező a jelentkezési kérelmében megjelölt és rangsorolt képzések közül melyik az az első képzés, amelynél elérte a felvételhez szükséges ponthatárt. Egyazon felvételi eljárásban a jelentkező által meghatározott rangsor alapján csak egy jelentkezési helyre sorolható be.
 
 (3) A Hivatal a besorolásról a felsőoktatási szakképzésre, az alapképzésre és az osztatlan képzésre a jelentkező felvételéről szakonként (önálló szakképzettséget eredményező szakirányonként) egységes rangsor, a mesterképzésre, valamint a már oklevéllel rendelkező jelentkezők esetében intézményi rangsor és a miniszter által az adott intézményre megállapított maximális hallgatói létszám szakos hallgatói kapacitása alapján dönt.
 
@@ -18,4 +18,8 @@ b) a miniszternek az Nftv. 46. § (4) bekezdésében meghatározott határozatá
 
 c) a felsőoktatási intézmények működési engedélyében szereplő intézményi kapacitást.
 
-(5) A jelentkezőkről egységes rangsorolás alapján ponthatár alkalmazásával kell dönteni. Az adott képzésre ponthatár alatti eredménnyel senki nem sorolható be. Azt, aki a ponthatárt elérte vagy meghaladta, kötelező besorolni.
+(5)[^57] A jelentkezőkről egységes rangsorolás alapján ponthatár alkalmazásával kell dönteni. Az adott képzésre ponthatár alatti eredménnyel senki nem sorolható be. Azt, aki a ponthatárt elérte vagy meghaladta – kivéve, ha az elbírálási sorrendben előbb szereplő helyre már besorolták –, kötelező besorolni.
+
+[^55]: A 26. § (1) bekezdés b) pontja az 502/2013. (XII. 29.) Korm. rendelet 24. § k) pontja szerint módosított szöveg.
+[^56]: A 26. § (2) bekezdése az 502/2013. (XII. 29.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^57]: A 26. § (5) bekezdése az 502/2013. (XII. 29.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.
