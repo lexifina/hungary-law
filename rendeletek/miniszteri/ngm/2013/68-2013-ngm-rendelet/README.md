@@ -1,0 +1,9 @@
+# 68/2013. (XII. 29.) NGM rendelet
+
+a kormányzati funkciók, államháztartási szakfeladatok és szakágazatok osztályozási rendjéről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-68-20-2X
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2013-12-30 | 2013-68-20-2X.1 | 68/2013. (XII. 29.) NGM rendelet |
