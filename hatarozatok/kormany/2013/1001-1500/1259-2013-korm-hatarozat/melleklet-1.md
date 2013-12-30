@@ -42,11 +42,7 @@
 
 ## Határidő: azonnal
 
-## 6.[^1] A Kormány felhívja az emberi erőforrások miniszterét, hogy a Nemzeti Kulturális Alap egyenlegének a Kvtv.-ben jóváhagyotthoz képest 400,0 millió forinttal történő javulásához a szükséges intézkedéseket tegye meg.
-
-## Felelős: emberi erőforrások minisztere
-
-## Határidő: azonnal
+## 6.[^2]
 
 ## 7. A Kormány felhívja a nemzeti fejlesztési minisztert, hogy a Kutatási és Technológiai Innovációs Alap egyenlegének a Kvtv.-ben jóváhagyotthoz képest 5000,0 millió forinttal történő javulásához a szükséges intézkedéseket tegye meg.
 
@@ -60,7 +56,9 @@
 
 ## Határidő: azonnal
 
-## 9–10.[^2]
+## 9.[^3]
+
+## 10.[^4]
 
 ## 11. A Kormány felhívja a nemzetgazdasági minisztert, hogy készítse elő a Kvtv. olyan tartalmú módosítását, amely lehetővé teszi, hogy az Országgyűlés kizárólagos hatáskörébe tartozó előirányzatok esetében – fejezeten belüli – kötelező, összesen 5000,0 millió forint összeget elérő tartalékképzésre kerüljön sor, valamint a Pénzügyi Szervezetek Állami Felügyelete 1500,0 millió forint központi költségvetési befizetést teljesítsen.
 
@@ -98,5 +96,6 @@
 
 1. melléklet az 1259/2013. (V. 13.) Korm. határozathoz
 
-[^1]: A 6. pont az 1705/2013. (X. 8.) Korm. határozattal megállapított szöveg.
-[^2]: A 9–10. pontot az 1868/2013. (XI. 19.) Korm. határozat 2. pontja visszavonta.
+[^2]: A 6. pontot a 2046/2013. (XII. 30.) Korm. határozat visszavonta.
+[^3]: A 9–10. pontot az 1868/2013. (XI. 19.) Korm. határozat 2. pontja visszavonta.
+[^4]: A 9–10. pontot az 1868/2013. (XI. 19.) Korm. határozat 2. pontja visszavonta.
