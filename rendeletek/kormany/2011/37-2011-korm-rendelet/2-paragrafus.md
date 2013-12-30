@@ -2,7 +2,7 @@
 
 ## 2. § E rendelet alkalmazásában
 
-1.[^2] állami támogatás:
+1.[^3] állami támogatás:
 
 a) az EUMSz 107. cikk (1) bekezdése szerinti támogatás, vagy
 
@@ -52,4 +52,4 @@ bb) az Európai Unió működéséről szóló szerződés 107. és 108. cikkén
 
 20. visszafizettetési kamatláb: a végrehajtási rendelet 9–11. cikkében foglaltak szerint megállapított kamatláb.
 
-[^2]: A 2. § 1. pontja a 381/2012. (XII. 19.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^3]: A 2. § 1. pontja a 381/2012. (XII. 19.) Korm. rendelet 1. §-ával megállapított szöveg.

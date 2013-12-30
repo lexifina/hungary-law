@@ -1,6 +1,6 @@
-## 42. §[^29]
+## 42. §[^33]
 
-1. melléklet a 37/2011. (III. 22.) Korm. rendelethez[^30]
+1. melléklet a 37/2011. (III. 22.) Korm. rendelethez[^34]
 
 ## Az egyes támogatási kategóriák
 
@@ -70,5 +70,5 @@
 
 I. Közszolgáltatásért nyújtott állami támogatás
 
-[^29]: A 42. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^30]: Az 1. melléklet a 42. § b) pontja, a 381/2012. (XII. 19.) Korm. rendelet 11. § (1) bekezdése szerint módosított szöveg.
+[^33]: A 42. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^34]: Az 1. melléklet a 42. § b) pontja, a 381/2012. (XII. 19.) Korm. rendelet 11. § (1) bekezdése szerint módosított szöveg.

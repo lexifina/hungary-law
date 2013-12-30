@@ -8,6 +8,7 @@
 
 (2)[^1] E rendelet hatálya nem terjed ki az Európai Unió működéséről szóló szerződés (a továbbiakban: EUMSz) I. Mellékletében felsorolt mezőgazdasági termékek elsődleges termeléséhez, feldolgozásához és forgalmazásához nyújtott, valamint a halászati, az erdészeti, a vadgazdálkodási és a vidékfejlesztési állami támogatásokkal kapcsolatos eljárásra.
 
-(3) A miniszter az e rendeletben meghatározott feladatait a Támogatásokat Vizsgáló Iroda, mint az állami támogatások versenyszempontú ellenőrzéséért felelős szervezet útján látja el.
+(3)[^2] A miniszter az e rendeletben meghatározott feladatait a Támogatásokat Vizsgáló Iroda mint az állami támogatások európai uniós versenyszempontú vizsgálatáért felelős szervezet útján látja el.
 
 [^1]: Az 1. § (2) bekezdése a 42. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § (3) bekezdése az 507/2013. (XII. 29.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.

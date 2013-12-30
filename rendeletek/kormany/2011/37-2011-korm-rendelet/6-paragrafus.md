@@ -12,6 +12,6 @@ c) az adott vállalkozás – függetlenül a vállalkozási formától – megf
 
 (4) Ha a támogatási intézkedés a csoportmentességi rendelet hatálya alá tartozó állami támogatásnak minősül, a kis- és középvállalkozást csak akkor kell nehéz helyzetben lévőnek tekinteni, ha megfelel a csoportmentességi rendelet 1. cikk (7) bekezdésében meghatározott feltételeknek.
 
-(5)[^4] A támogatást nyújtó dönt a (3) bekezdés szerinti feltétel fennállásáról.
+(5)[^5] A támogatást nyújtó dönt a (3) bekezdés szerinti feltétel fennállásáról.
 
-[^4]: A 6. § (5) bekezdését a 381/2012. (XII. 19.) Korm. rendelet 2. §-a iktatta be.
+[^5]: A 6. § (5) bekezdését a 381/2012. (XII. 19.) Korm. rendelet 2. §-a iktatta be.

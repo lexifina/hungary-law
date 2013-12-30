@@ -200,10 +200,10 @@
 
 ## Támogatástartalom: a piaci ár és a fizetett ár különbözetének jelenértéke.
 
-3. melléklet a 37/2011. (III. 22.) Korm. rendelethez[^32]
+3. melléklet a 37/2011. (III. 22.) Korm. rendelethez[^36]
 
 ## A közszolgáltatásról szóló bizottsági határozat alapján nyújtott állami támogatásokról készítendő beszámoló kötelező adattartalma
 
 Egyedi támogatás esetében:
 
-[^32]: A 3. melléklet a 381/2012. (XII. 19.) Korm. rendelet 11. § (3) bekezdésével megállapított szöveg.
+[^36]: A 3. melléklet a 381/2012. (XII. 19.) Korm. rendelet 11. § (3) bekezdésével megállapított szöveg.
