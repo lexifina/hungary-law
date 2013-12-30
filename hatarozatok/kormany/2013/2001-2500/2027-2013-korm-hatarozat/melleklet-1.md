@@ -10,11 +10,7 @@
 
 ## 4. felhatalmazza a Miniszterelnökséget vezető államtitkárt, hogy a Nemzeti Fejlesztési Ügynökség útján az 1. mellékletében az egyes prioritásokra meghatározott keretösszeg 10%-ot meg nem haladó mértékéig az egyes konstrukciók között a tényleges igények alapján saját hatáskörben forrást helyezzen át a tartaléklistán szereplő pályázatok támogatási igényének rendezése céljából,
 
-## 5. visszavonja
-
-## a) a Gazdaságfejlesztési Operatív Program 2011–2013. évekre szóló akciótervének megállapításáról szóló 1647/2012. (XII. 19.) Korm. határozat 1. mellékletének 3. prioritásra vonatkozó részét, és
-
-## b) a Gazdaságfejlesztési Operatív Program 2011–2013. évekre szóló akciótervének módosításáról szóló 1493/2013. (VII. 29.) Korm. határozatot.
+## 5.[^1]
 
 1. melléklet a 2027/2013. (XII. 29.) Korm. határozathoz
 
@@ -157,3 +153,5 @@ II. A támogatási konstrukciók összefoglaló adatai (2011-2013)
 | 3.5.1. | Esélyegyenlőségi célcsoportok a gazdaságban | 4,30 | Munkahelyi körülmények megteremtése, illetve olyan szolgáltatások bevezetése, amelyek biztosítják a hátrányos helyzetben lévő munkavállalók számára az egyenlő esélyeket. |
 
 | 3. | Prioritás | 48,36 |  |
+
+[^1]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
