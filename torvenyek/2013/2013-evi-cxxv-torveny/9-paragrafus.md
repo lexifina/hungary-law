@@ -2,8 +2,10 @@
 
 (2) A kérelemnek helyt adó döntés esetén a minősítő a költségek megállapításáról és viseléséről külön végzésben dönt.
 
-(3) A minősítő okirat időbeli hatálya
+(3) A minősítő okirat időbeli hatálya – a (4) bekezdésben meghatározott kivétellel
 
 a) az okirat kiállításától számított 36. hónap utolsó napjáig tart, vagy
 
 b) megegyezik a hulladékgazdálkodási közszolgáltatási engedély időbeli hatályával, ha a minősítő okirat alapjául szolgáló hulladékgazdálkodási közszolgáltatási engedély időbeli hatálya az a) pont szerinti időbeli hatálynál rövidebb.
+
+(4) A 11. § (1) bekezdésében meghatározott esetben az új minősítő okirat időbeli hatálya megegyezik az eredeti minősítő okirat időbeli hatályával.

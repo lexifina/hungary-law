@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-125-00-00
 | 2013-07-13 | 2010. évi CXXX. törvény | 2013-125-00-00.2 |
 | 2013-08-04 | Nemzeti Jogszabálytár (egységes szerkezet) | 2013-125-00-00.3 |
 | 2013-08-05 | 2010. évi CXXX. törvény | 2013-125-00-00.4 |
+| 2013-12-31 | 2013. évi CCL. törvény | 2013-125-00-00.5 |

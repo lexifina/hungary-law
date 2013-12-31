@@ -4,7 +4,7 @@
 
 (2) A kérelem tartalma:
 
-a) a kérelmező neve, székhelye, cégjegyzékszáma, környezeti ügyfél jele, környezeti területi jele, statisztikai számjele, pénzforgalmi számlaszáma,
+a) a kérelmező neve, székhelye, cégjegyzékszáma, környezetvédelmi ügyfél jele, környezetvédelmi területi jele, statisztikai számjele, pénzforgalmi számlaszáma,
 
 b) a kérelmező telephelyének, fióktelepének címe,
 
