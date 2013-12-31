@@ -1,1 +1,3 @@
-## 6. § Hatályát veszti az igazságügyi szakértői névjegyzékbe való felvételi eljárás során szükséges szakhatósági állásfoglalás kiadásának eljárási szabályairól szóló 208/2009. (IX. 29.) Korm. rendelet 8. § (2) bekezdése.
+## 6. §[^1]
+
+[^1]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
