@@ -1,4 +1,4 @@
-## 11. §[^7]
+## 11. §[^6]
 
 ## 8. Az átvételre kötelezett mérlegkör felelős felelőssége a KÁT allokálás folyamata során, a mérlegköri szerződés
 
@@ -12,4 +12,4 @@
 
 (5) A Befogadó és az átvételre kötelezett mérlegkör felelős a mérlegkör felelősi jogviszony megszűnésekor köteles a mérlegköri szerződés szerint elszámolni. Ezen elszámolás során a Befogadó jogosult az átvételi kötelezettség megszűnését megelőző időszak vonatkozásában meghatározni és érvényesíteni a 4. § (4) bekezdés szerinti korrekciós hozzájárulást.
 
-[^7]: A 11. § a 13. § (5) bekezdés 3. pontja alapján 2014. február 1-jén lép hatályba.
+[^6]: A 11. § a 13. § (5) bekezdés 3. pontja alapján 2014. február 1-jén lép hatályba.
