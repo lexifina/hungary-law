@@ -6,6 +6,8 @@
 
 2. A Határozat 3. pontjában a „2013. június 30.” szövegrész helyébe a „2014. március 31.” szöveg lép.
 
-3. A Zágrábi Magyar Intézet alapítása érdekében a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1615/2012. (XII. 18.) Korm. határozatban megállapított feltételek módosításáról szóló 1279/2013. (V. 24.) Korm. határozat hatályát veszti.
+3.[^2] A Zágrábi Magyar Intézet alapítása érdekében a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1615/2012. (XII. 18.) Korm. határozatban megállapított feltételek módosításáról szóló 1279/2013. (V. 24.) Korm. határozat hatályát veszti.
 
 4. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
