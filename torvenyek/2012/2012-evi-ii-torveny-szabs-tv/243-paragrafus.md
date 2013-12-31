@@ -4,7 +4,7 @@
 
 a) erdőben, valamint erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületen a külön jogszabályban meghatározott erdei haszonvételeket – a fakitermelés, a vadászati jog gyakorlása vagy hasznosítása, valamint az elhalt fekvő fa és gally gyűjtése, illetve elhalt, száraz ág nyesése kivételével – jogszerűtlenül gyakorolja,
 
-b) az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló törvény hatálya alá tartozó területről kitermelt faanyagot az előírásoknak megfelelően kiállított szállítójegy nélkül szállít,
+b) az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló törvény hatálya alá tartozó területről kitermelt faanyagot az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló törvényben és a végrehajtására kiadott rendeletben meghatározott szállítójegy nélkül szállít,
 
 szabálysértést követ el.
 

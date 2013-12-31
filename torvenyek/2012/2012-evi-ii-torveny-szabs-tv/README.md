@@ -22,3 +22,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-2-00-00
 | 2013-10-15 | 2013. évi CXLIX. törvény | 2012-2-00-00.15 |
 | 2013-11-29 | 2013. évi CXCII. törvény | 2012-2-00-00.16 |
 | 2013-12-03 | 2013. évi CCII. törvény | 2012-2-00-00.17 |
+| 2013-12-31 | 2013. évi CCL. törvény | 2012-2-00-00.18 |
