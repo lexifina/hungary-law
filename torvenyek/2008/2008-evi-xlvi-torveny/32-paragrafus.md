@@ -16,7 +16,7 @@ f) szervezi és felügyeli az állatbetegségek megelőzését, felderítését 
 
 g) végzi az Európai Unió élelmiszerekre és takarmányokra vonatkozó gyorsriasztási rendszerének (RASFF) hazai működtetését és a rendszeren keresztül Magyarországra érkező bejelentés alapján, továbbá a Magyarországon észlelt veszély esetén megteszi a szükséges intézkedéseket;
 
-h) ellátja az ökológiai gazdálkodással, az ahhoz kapcsolódó élelmiszer-előállítással és forgalomba hozatallal, valamint a géntechnológiával módosított szervezetekkel, szaporítóanyagokkal, élelmiszerekkel és takarmányokkal kapcsolatos, az e törvény végrehajtására kiadott jogszabályban meghatározott feladatait;
+h) ellátja az ökológiai gazdálkodással és integrált gazdálkodással, az ahhoz kapcsolódó élelmiszer-előállítással és forgalomba hozatallal, valamint a géntechnológiával módosított szervezetekkel, szaporítóanyagokkal, élelmiszerekkel és takarmányokkal kapcsolatos, az e törvény végrehajtására kiadott jogszabályban meghatározott feladatait;
 
 i) feladatai ellátására ügyeleti és készenléti szolgálatot szervez, az e törvény végrehajtására kiadott jogszabály szerint kezeli a rendkívüli élelmiszerlánc-eseményeket;
 
@@ -36,7 +36,9 @@ p) egységes elveken alapuló kockázatbecslési eljárásokat dolgoz ki;
 
 q) kockázatbecslést végez, illetve felkérésre közreműködik más szervek által végzett kockázatbecslésben;
 
-r) koordinálja az érintett hatóságok között az ellenőrzési tervek, illetve módszerek egyeztetését, összehangolását, és az ellenőrzési tapasztalatok közös értékelését, illetve közös ellenőrzési jelentések készítését.
+r) koordinálja az érintett hatóságok között az ellenőrzési tervek, illetve módszerek egyeztetését, összehangolását, és az ellenőrzési tapasztalatok közös értékelését, illetve közös ellenőrzési jelentések készítését;
+
+s) ellátja az e törvény hatálya alá tartozó termékekkel kapcsolatos tanúsítványok ellenőrzési és felügyeleti feladatait;
 
 (2) Az élelmiszerlánc-felügyeleti szerv állat-egészségügyi feladatkörében
 

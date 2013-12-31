@@ -16,7 +16,7 @@ g) a 22. § (2) bekezdése szerinti írásos dokumentáció hiánya esetén.
 
 esetén.
 
-(2) Az élelmiszer-ellenőrzési bírságot a (4) bekezdésben foglalt kivétellel az (1) bekezdés a)–d) pontjában foglalt esetben a 14. § (2)–(5) bekezdésében, az (1) bekezdés e) pontjában foglalt esetben a 14. § (6) bekezdésében meghatározott felelőssel szemben kell kiszabni.
+(2) Az élelmiszer-ellenőrzési bírságot a (4) bekezdésben foglalt kivétellel az (1) bekezdés a)–d) pontjában foglalt esetben a 14. § (2)–(5), (10) és (11) bekezdésében, az (1) bekezdés e) pontjában foglalt esetben a 14. § (6) bekezdésében meghatározott felelőssel szemben kell kiszabni.
 
 (3) Ha a (2) bekezdés szerinti felelős kilétét nem lehet megállapítani, a bírságot azzal szemben kell kiszabni, akinél a jogsértést megalapozó élelmiszert az élelmiszerlánc-felügyeleti szerv megtalálta.
 

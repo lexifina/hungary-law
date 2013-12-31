@@ -8,7 +8,7 @@
 
 (4) Az (1) bekezdésben foglaltaktól eltérően parlagfű elleni közérdekű védekezést kell elrendelni, ha a földhasználó a 17. § (4) bekezdésében szereplő parlagfű elleni védekezési kötelezettségének nem tesz eleget. A kötelezettség teljesítésének helyszíni ellenőrzéséről a földhasználó előzetes értesítése mellőzhető.
 
-(5) A parlagfű elleni közérdekű védekezést elrendelő határozatot – ha a közlés más módja az azonnali végrehajtáshoz fűződő érdeket veszélyeztetné – hirdetmény útján is lehet közölni. A határozat fellebbezésre tekintet nélkül azonnal végrehajtható.
+(5) A parlagfű elleni közérdekű védekezést elrendelő határozatot – ha a közlés más módja az azonnali végrehajtáshoz fűződő érdeket veszélyeztetné – hirdetmény útján is lehet közölni.
 
 (6) A közérdekű védekezés elvégzése során a hatóság, valamint a közérdekű védekezést elvégző vállalkozó feladata végrehajtásának keretei között az érintett területre beléphet, ott a szükséges cselekményeket elvégezheti. Erre való jogosultságát kérésre köteles igazolni.
 

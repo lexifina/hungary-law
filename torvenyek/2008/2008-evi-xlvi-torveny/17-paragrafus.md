@@ -6,7 +6,7 @@ a) a zárlati és a vizsgálatköteles nem zárlati károsítókat elpusztítani
 
 b) a zárlati károsítók okozta fertőzést vagy annak gyanúját haladéktalanul az élelmiszerlánc-felügyeleti szervnek bejelenteni;
 
-c) az a) pont alá nem tartozó egyéb károsítók ellen védekezni, ha azok más, különösen a szomszédos termelők növénytermelési, növényvédelmi biztonságát vagy az emberi egészséget bármely módon veszélyeztetik, valamint figyelembe venni az integrált növénytermesztés alapelveit, továbbá a környezet és a természet védelmét.
+c) az a) pont alá nem tartozó egyéb károsítók ellen védekezni, ha azok más, különösen a szomszédos termelők növénytermelési, növényvédelmi biztonságát vagy az emberi egészséget bármely módon veszélyeztetik, valamint figyelembe venni az integrált gazdálkodás alapelveit, továbbá a környezet és a természet védelmét.
 
 (2) A termelő, illetve a földhasználó köteles
 
@@ -27,3 +27,5 @@ b) a földet a talaj szennyezését okozó anyagoktól megóvni, a földhasznál
 (6) Az élelmiszerlánc-felügyeleti szerv az e törvény végrehajtására kiadott jogszabályban meghatározottak szerint az (5) bekezdés szerinti jelentéstételi kötelezettséget írhat elő egyes termésnövelő anyagokra vonatkozóan is.
 
 (7) Az engedélyezett engedélyköteles termékkel kezelt növényt, növényi terméket élelmezési és takarmányozási célra csak az e törvény végrehajtására kiadott jogszabályban előírt élelmezés-egészségügyi várakozási idő lejártát követően szabad betakarítani, forgalomba hozni és felhasználni, kivéve, ha az élelmiszerlánc-felügyeleti szerv az általa végzett vizsgálat alapján igazolta, hogy a növény, illetve növényi termék megfelel a forgalomba hozatal követelményeinek. Harmadik országba a vizsgálatköteles szemes termények az élelmezés-egészségügyi várakozási idő letelte előtt kivitel céljából feladhatók, amennyiben a célország előírásai azt lehetővé teszik.
+
+(8) A termelő az élelmiszerlánc-felügyeleti szerv megkeresésére elektronikus úton adatot szolgáltat a növényvédő szerek felhasználásáról az e törvény végrehajtására kiadott jogszabály szerint.

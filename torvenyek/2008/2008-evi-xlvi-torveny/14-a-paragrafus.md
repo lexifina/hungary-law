@@ -1,15 +1,33 @@
 14/A. § (1) A hamisított termék előállítása és forgalomba hozatala tilos.
 
-(2) Tilos olyan
+(2) Hamisított terméknek minősül az a termék,
 
-a) élelmiszer előállítása és forgalomba hozatala, amelyet a rá vonatkozó előírásokban vagy a gyártmánylapban meghatározott minőségi előírásoknak nem megfelelően állították elő,
+a) amelynek minőségmegőrzési, fogyaszthatósági, illetve felhasználhatósági idejét jogellenesen meghosszabbították,
 
-b) termék előállítása és forgalomba hozatala, amelyet az adott tevékenység vonatkozásában nem engedélyezett, illetve nem nyilvántartott módon állítottak elő, illetve hozták forgalomba,
+b) amelyet nem megengedett összetevő felhasználásával állítottak elő,
 
-c) élelmiszer előállítása és forgalomba hozatala, amely előállítása során meg nem engedett összetevőt használtak fel,
+c) amelynek átcímkézése vagy átcsomagolása jogsértő módon történt,
 
-d) termék előállítása és forgalomba hozatala, amely átcímkézése vagy átcsomagolása jogsértő módon történt,
+d) amelyet emberi fogyasztásra nem alkalmas anyagokból vagy termékekből állítottak elő emberi fogyasztás céljára,
 
-e) élelmiszer előállítása és forgalomba hozatala, amelynek minőségmegőrzési, illetve fogyaszthatósági idejét jogellenesen meghosszabbították, illetve amelyet részben vagy egészben lejárt minőségmegőrzési, illetve fogyaszthatósági idejű anyagokból állították elő,
+e) amelynek emberi fogyasztásra való alkalmatlanságát elfedik,
 
-f) élelmiszer előállítása és forgalomba hozatala, amely előállítása nem emberi fogyasztásra szánt anyagok felhasználásával történt, illetve nem emberi fogyasztásra szánt termék emberi fogyasztás céljára történő forgalomba hozatala.
+f) amelynek rendeltetésszerű használatát elfedik,
+
+g) amelyet lényeges külső tulajdonságának jogellenes megváltoztatásával állítottak elő,
+
+h) amelyet az előállításra kizárólagosan jogosult hozzájárulása nélkül állítottak elő, vagy
+
+i) amelyet lényeges tulajdonságára vonatkozó félrevezető megjelöléssel hoztak forgalomba
+
+gazdasági előny vagy haszonszerzés céljából.
+
+(3) A hamisított termék előállítása, illetve forgalmazása tekintetében – amennyiben az ügyfél az ellenkezőjét nem bizonyítja – vélelmezni kell a gazdasági előnyre vagy haszonszerzésre irányuló célzatot.
+
+(4) Tilos olyan
+
+a) élelmiszer előállítása, illetve forgalomba hozatala, amelyet a rá vonatkozó előírásokban, engedélyekben vagy a gyártmánylapban meghatározott minőségi előírásoknak nem megfelelően állítottak elő,
+
+b) élelmiszer előállítása, illetve forgalomba hozatala, amelyet részben vagy egészben lejárt minőségmegőrzési, illetve fogyaszthatósági idejű anyagokból állítottak elő,
+
+c) termék előállítása, illetve forgalomba hozatala, amelyet az adott tevékenység vonatkozásában nem engedélyezett, illetve nem nyilvántartott módon állítottak elő, illetve hoztak forgalomba.

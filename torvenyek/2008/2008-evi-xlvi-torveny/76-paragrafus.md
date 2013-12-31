@@ -16,7 +16,9 @@ f) határozza meg az állami, illetve a közérdekű védekezés költségei meg
 
 g) állapítsa meg a parlagfű elleni közérdekű védekezés végrehajtásának részletes eljárási szabályait;
 
-h) állapítsa meg a lófélék azonosításának, jelölésének, nyilvántartásának, az azonosító okmányának kiállításának, valamint az azonosító okmány használatának és hatósági ellenőrzésének szabályait.
+h) állapítsa meg a lófélék azonosításának, jelölésének, nyilvántartásának, az azonosító okmányának kiállításának, valamint az azonosító okmány használatának és hatósági ellenőrzésének szabályait;
+
+i) állapítsa meg az ÉBC által ellátandó hatósági feladatok körét.
 
 (2) Felhatalmazást kap a miniszter arra, hogy rendeletben állapítsa meg
 
@@ -110,13 +112,17 @@ h) állapítsa meg a lófélék azonosításának, jelölésének, nyilvántart�
 
 45. az élelmiszer-vállalkozók önellenőrzési kötelezettségeinek részletes szabályait.
 
-46. az élelmiszer-előállítás során alkalmazott technológiai segédanyagok nyilvántartásba vételének részletes szabályait.
+46. az élelmiszer-előállítás során alkalmazott technológiai segédanyagok felhasználásának részletes szabályait.
+
+47. az e törvény hatálya alá tartozó termékekkel kapcsolatos tanúsítványokra vonatkozó hatósági felügyelet szabályait;
+
+48. az élelmiszerlánc-felügyeleti szerv által lefolytatott eljárás eljárási költségének mértékét és kiszámításának részletes szabályait.
 
 (3) Felhatalmazást kap a miniszter, hogy – a (2) és (6) bekezdésben nem említett kérdésekben – az általános élelmiszer-jelölési előírásokat a fogyasztóvédelemért felelős miniszter egyetértésével kiadott rendeletben szabályozza.
 
 (4) Felhatalmazást kap a miniszter, hogy az egészségügyért felelős miniszter egyetértésével kiadott rendeletben szabályozza
 
-a) az élelmiszerek előállításához szükséges technológiai segédanyagok körét, felhasználásának feltételeit;
+a)
 
 b) az élelmiszerek mikrobiológiai szennyezettségének megengedhető mértékét, valamint a radioaktív és vegyi szennyezettséggel kapcsolatos előírásokat;
 
@@ -132,7 +138,7 @@ c) a kereskedelemért felelős miniszterrel egyetértésben az élelmiszerek for
 
 d) a vendéglátásért, valamint a kereskedelemért felelős miniszterrel egyetértésben a vendéglátó-ipari termékek forgalomba hozatalának szabályait;
 
-e) a fogyasztóvédelemért felelős miniszterrel egyetértésben a hagyományos különleges tulajdonságú mezőgazdasági termékek és élelmiszerek elismerésének és ellenőrzésének rendjét;
+e) a fogyasztóvédelemért felelős miniszterrel egyetértésben a hagyományos különleges terméknek minősülő mezőgazdasági termékek és élelmiszerek elismerésének és ellenőrzésének rendjét;
 
 f) a környezetvédelemért felelős miniszterrel egyetértésben a növényvédő szerrel érintkezésbe került csomagolóeszközök kezelésére vonatkozó részletes szabályokat;
 

@@ -80,6 +80,8 @@ E törvény alkalmazásában:
 
 34. integrált növényvédelem: biológiai, biotechnológiai, kémiai, termesztési vagy növénynemesítési intézkedések ésszerű alkalmazása, amelyek során a kémiai növényvédő szerek használata arra a szorosan vett legalacsonyabb értékre korlátozódik, amely a károsító populációnak egy gazdaságilag elfogadhatatlan kárt vagy veszteséget okozó szint alatt való tartásához szükséges;
 
+34/A. integrált gazdálkodás: olyan komplex növénytermesztési technológia, amely a növénytermesztéshez közvetlenül vagy közvetve kapcsolódó minden munkafolyamatot úgy foglal rendszerbe, hogy az egyes munkafolyamatok növényvédelmi hatásait veszi alapul, és ezzel a lehető legmagasabb fokon valósítja meg az integrált növényvédelem követelményeit a környezetvédelmi szempontok maximális figyelembevételével;
+
 35. ivóvíz: a 852/2004/EK rendelet 2. cikkének g) pontja szerinti fogalom;
 
 36. járványos állatbetegség: állatról állatra terjedő fertőző állatbetegség;
@@ -148,7 +150,7 @@ e) e törvény végrehajtására kiadott jogszabály szerint ellenőrzés-kötel
 
 hoznak;
 
-49. növényvédő hatású termék, növényvédelmi célú eszköz és anyag: a károsítók elleni védekezés megalapozásához szükséges műszer, eszköz, a növényvédelmi előrejelzéshez használt műszer és csapda, a kifejezetten a károsítókat csalogató, riasztó, ölő, fizikai hatáson alapuló eszköz, illetve a károsító riasztására, csalogatására, biológiájának, viselkedésének, szaporodásának, életfolyamatainak gátlására, módosítására szolgáló készítmény, továbbá olyan növényvédelemmel kapcsolatos termék, amely nem minősül növényvédő szernek, illetve növényvédőszer-hatóanyagnak;
+49. növényvédelmi hatású termék, növényvédelmi célú eszköz és anyag: a károsítók elleni védekezés megalapozásához szükséges műszer, eszköz, a növényvédelmi előrejelzéshez használt műszer és csapda, a kifejezetten a károsítókat csalogató, riasztó, ölő, fizikai hatáson alapuló eszköz, illetve a károsító riasztására, csalogatására, biológiájának, viselkedésének, szaporodásának, életfolyamatainak gátlására, módosítására szolgáló készítmény, továbbá olyan növényvédelemmel kapcsolatos termék, amely nem minősül növényvédő szernek, illetve növényvédőszer-hatóanyagnak;
 
 50. növényvédő szer: 1107/2009/EK rendelet 2. cikk 1. bekezdése szerinti fogalom;
 
@@ -173,6 +175,8 @@ hoznak;
 60. takarmány-vállalkozó: a 178/2002/EK rendelet 3. cikkének 6. pontja szerinti fogalom;
 
 61. takarmányjog: a takarmány- és élelmiszerjog, valamint az állat-egészségügyi és az állatok kíméletére vonatkozó szabályok követelményeinek történő megfelelés ellenőrzésének biztosítása céljából végrehajtott hatósági ellenőrzésekről szóló, az Európai Parlament és a Tanács 2004. április 29-i 882/2004/EK rendelete 2. cikkének 3. pontja szerinti fogalom;
+
+61/A. tanúsítvány: e törvény hatálya alá tartozó termék meghatározott minőségét, minősítését vagy egyéb jellemzőjét tanúsító, más terméktől megkülönböztető megjelölés vagy írásbeli igazolás;
 
 62. takarmányok nemkívánatos anyagai: bármely olyan anyag vagy termék – a kórokozók kivételével –, amely jelen van a takarmányozásra szánt termékben, illetve annak felületén, és amely az állati vagy az emberi egészségre, illetve a környezetre veszélyt jelenthet, vagy az állat termelőképességére káros hatást fejthet ki;
 

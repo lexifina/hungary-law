@@ -28,7 +28,7 @@ ak) az állatgyógyászati termékek előállítására, kereskedelmére, és fe
 
 al) a növényi és állati eredetű melléktermékek gyűjtésére, kezelésére, tárolására, szállítására, forgalomba hozatalára, felhasználására;
 
-am) az ökológiai termelésre;
+am) az ökológiai gazdálkodásra illetve az integrált gazdálkodásra;
 
 an) a gyógynövénytermékek előállítására, illetve forgalomba hozatalára;
 

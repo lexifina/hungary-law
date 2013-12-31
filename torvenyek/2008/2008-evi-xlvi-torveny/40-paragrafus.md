@@ -2,8 +2,10 @@
 
 (2) Az élelmiszerlánc-felügyeleti szerv az engedélyköteles növény- és talajkezelő termékek eseti, százhúsz napos és kísérleti engedélyeinek megadásáról két hónapon belül dönt. Az élelmiszerlánc-felügyeleti szerv a növényvédő szerek címkétől eltérő felhasználásának engedélyezési és engedélymódosítási eljárásában döntését tizenkét hónapon belül hozza meg. Az élelmiszerlánc-felügyeleti szerv a növényvédő szerek párhuzamos behozatalának engedélyezési eljárásában az engedély megadásáról negyvenöt munkanapon belül dönt.
 
-(3) Az élelmiszerlánc-felügyeleti szerv a termésnövelő anyagok engedélyezési eljárásában az engedély megadásáról hat hónapon belül dönt.
+(3) Az élelmiszerlánc-felügyeleti szerv a termésnövelő anyagok engedélyezési és engedélymódosítási eljárásában az engedély megadásáról hat hónapon belül dönt.
 
 (4) A növényvédő szer forgalomba hozatali és felhasználási engedélyezési eljárásában a hiánypótlási felhívás kibocsátásának határideje két hónap, a termésnövelő anyagok engedélyezési eljárásában pedig harminc nap.
 
 (5) Az állatgyógyászati termék laboratóriumon kívüli gyakorlati kipróbálásának, gyártásának, ideiglenes jellegű felhasználásának, valamint az állatgyógyászati készítmények hatóanyaga gyártásának engedélyezéséről és az engedély módosításáról, a rendszeres gyógyszerbiztonsági jelentések értékeléséről szóló döntést kilencven napon belül, az állatgyógyászati termék és az állatgyógyászati készítmény forgalomba hozatalának engedélyezéséről és megújításáról szóló döntést kétszáztíz napon belül kell meghozni.
+
+(6) A növényvédő szer besorolásában vagy címkézésében az anyagok és keverékek osztályozásáról, címkézéséről és csomagolásáról, a 67/548/EGK és az 1999/45/EK irányelv módosításáról és hatályon kívül helyezéséről, valamint az 1907/2006/EK rendelet módosításáról szóló, 2008. december 16-i 1272/2008/EK európai parlamenti és tanácsi rendelet előírásai által bekövetkezett változásokat tartalmazó módosított címketerv engedélyes által történő benyújtását követően az élelmiszerlánc-felügyeleti szerv 90 napon belül dönt a módosítás elfogadhatóságáról. Amennyiben az élelmiszerlánc-felügyeleti szerv 90 napon belül nem utasítja el a javasolt módosítást, akkor az engedélyes jogosult a módosított címkeszöveg használatára.

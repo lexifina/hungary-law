@@ -34,7 +34,7 @@ o) az e törvény, valamint e törvény végrehajtására kiadott jogszabályban
 
 p) engedélyköteles terméket műszakilag alkalmatlannak minősített vagy érvényes műszaki engedéllyel nem rendelkező géppel, illetve berendezéssel árutermelő gazdaságban juttat ki;
 
-q) a méhekre veszélyes növényvédelmi munkavégzés bejelentési kötelezettségét elmulasztja;
+q)
 
 r) a növényvédő szer belföldi forgalmára vonatkozó, a 17. § (5)–(6) bekezdése szerinti jelentési kötelezettségnek nem tesz eleget.
 

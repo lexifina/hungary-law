@@ -24,7 +24,7 @@ k) a közúti élőállat-szállításra engedélyezett gépjárművekről;
 
 l) az állatgyógyászati terméket forgalomba hozókról, illetve gyártókról;
 
-m) az engedélyköteles termékekről, a magyarországi forgalomba hozatalukról;
+m) az engedélyköteles termék magyarországi forgalomba hozatali és felhasználási engedélyéről;
 
 n) az engedélyköteles termékek vásárlási és felhasználási engedélyeiről;
 
@@ -38,7 +38,11 @@ r) a tanúsító szervezetekről;
 
 s) a gombaszakellenőrökről;
 
-t) élelmiszerlánc-felügyeleti díj bevallására, illetve fizetésére kötelezettekről.
+t) élelmiszerlánc-felügyeleti díj bevallására, illetve fizetésére kötelezettekről;
+
+u) a légi permetezés iránti kérelmekről és az ezzel kapcsolatos döntésekről;
+
+v) a növényorvosokról és a növényvédelmi szolgáltatási tevékenységet végzőkről.
 
 (2) Az (1) bekezdésben megjelölt nyilvántartás tartalmazza
 
@@ -48,13 +52,13 @@ b) a nyilvántartásba vétel alapjául szolgáló hatósági engedély, bizony�
 
 c) az információs önrendelkezési jogról és az információszabadságról szóló törvény hatálya alá tartozó adatkörben
 
-ca) természetes személyek esetén a természetes személyazonosító adatokat, lakhelyet, telephelyet, elérhetőséget, adóazonosító jelet,
+ca) természetes személyek esetén a természetes személyazonosító adatokat, lakcímet, telephelyet, elérhetőséget, adóazonosító jelet,
 
 cb) jogi személy, valamint jogi személyiséggel nem rendelkező gazdálkodó szervezet esetén a cégnevet, adószámot, székhelyet, telephelyet, statisztikai számjelet, elérhetőséget.
 
 (2a) Az (1) bekezdés c), l), m), n), o), q) és r) pontja szerinti nyilvántartás a (2) bekezdés b) pontjában szereplő adatok vonatkozásában közhiteles hatósági nyilvántartásnak minősül.
 
-(3) Élelmiszer-, illetve takarmány-vállalkozások működési engedélyének kiadásáról, visszavonásáról vagy módosításáról szóló határozatot az élelmiszerlánc-felügyeleti szervvel is közölni kell, azok nyilvántartásba vétele céljából.
+(3) Élelmiszer-, illetve takarmányvállalkozások, valamint a növényvédelmi szolgáltató vállalkozások működési engedélyének kiadásáról, visszavonásáról vagy módosításáról szóló határozatot az élelmiszerlánc-felügyeleti szervvel is közölni kell, azok nyilvántartásba vétele céljából.
 
 (4) Az élelmiszerlánc-felügyeleti szerv a (2) bekezdés a) és c) pontja szerinti adatokat a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény szerinti ügyfél-nyilvántartási rendszerből veszi át.
 

@@ -1,4 +1,4 @@
-## Az állami laboratóriumok feladatai
+## Az élelmiszerláncban működő laboratóriumok feladatai
 
 30. § (1) Az állami laboratóriumok feladatai különösen
 
@@ -32,4 +32,4 @@ n) a jogszabályokban meghatározott radiokémiai vizsgálati feladatok ellátá
 
 o) az e törvény végrehajtására kiadott jogszabály alapján közreműködés a különleges táplálkozási igényt kielégítő élelmiszerek, étrendkiegészítők előállításával, adalékanyagok és technológiai segédanyagok, élelmiszer- csomagolóanyagok, élelmiszeriparban felhasznált mosó- és fertőtlenítőszerek gyártásával, felhasználásával és az új élelmiszerekkel, valamint takarmány-adalékanyagokkal kapcsolatos engedélyezési eljárásban.
 
-(2) Az élelmiszerlánc-felügyeleti szerv a hivatalból indított eljárásaiban hozott döntéseinek megalapozásához szükséges laboratóriumi vizsgálathoz elsősorban állami, az adott vizsgálatra akkreditált laboratóriumot vehet igénybe.
+(2) Az élelmiszerlánc-felügyeleti szerv a hivatalból indított eljárásában hozott döntéseinek megalapozásához szükséges laboratóriumi vizsgálathoz állami laboratóriumot vehet igénybe. Amennyiben kapacitás hiánya miatt nem vehető igénybe állami laboratórium, az élelmiszerlánc-felügyeleti szerv az adott vizsgálatra akkreditált nem állami laboratóriumot is igénybe vehet laboratóriumi vizsgálat elvégzéséhez.

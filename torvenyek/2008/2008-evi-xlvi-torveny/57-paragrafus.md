@@ -38,4 +38,6 @@ q) termelési, betakarítási, kísérleti, felhasználási, alkalmazási tilalm
 
 r) betilthatja vagy korlátozhatja a növény-egészségügyi szempontból nem megfelelő vetőmagok, szaporítóanyagok vagy nemesítési alapanyagok használatát;
 
-s) elrendelheti eszköz, tárgy, anyag vagy termék zár alá vételét, ártalmatlanítását, szállítójárművet visszatarthat mindaddig, amíg a szállítmányával kapcsolatos zárolási, és ártalmatlanítási eljárás be nem fejeződik, illetve annak költsége megfizetésre nem kerül.
+s) elrendelheti eszköz, tárgy, anyag vagy termék zár alá vételét, ártalmatlanítását, továbbá szállítójárművet visszatarthat mindaddig, amíg a 14. § szerinti felelős személye nem kerül megállapításra, vagy a szállítmányával kapcsolatos zárolási, és ártalmatlanítási eljárás be nem fejeződik, illetve annak költsége megfizetésre nem kerül;
+
+t) termék tárolására szolgáló helyiséget zár alá veheti mindaddig, amíg a 14. § szerinti felelős személye nem kerül megállapításra.

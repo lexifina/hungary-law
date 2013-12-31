@@ -2,7 +2,7 @@
 
 38/A. § (1) Az élelmiszerlánc-felügyelet megalapozott irányítása, valamint az Európai Unió követelményeinek teljesítése érdekében az élelmiszerlánc-felügyeleti szerv létrehozza és működteti az élelmiszerlánc-felügyeleti információs rendszert (a továbbiakban: FELIR).
 
-(1a) A FELIR a (2) bekezdés szerinti adatok vonatkozásában közhiteles hatósági nyilvántartásnak minősül.
+(1a) A FELIR a természetes személy ügyfél személyes adatai kivételével a (2) bekezdés szerinti adatok vonatkozásában közhiteles hatósági nyilvántartásnak minősül.
 
 (2) A FELIR tartalmazza
 
@@ -38,7 +38,7 @@ d) az Országos Támogatási Monitoring Rendszer nyilvántartásából,
 
 e) az elismert ökológiai termelést ellenőrző tanúsító szervezet által vezetett, az ökológiai gazdálkodással összefüggő nyilvántartásból,
 
-f) a személyek azonosítására a személyi adat- és lakcímnyilvántartásból,
+f)
 
 g) a cégnyilvántartásból,
 
@@ -50,6 +50,8 @@ j) a mezőgazdasági és vidékfejlesztési támogatási szerv nyilvántartási 
 
 k) az e törvény hatálya alá tartozó vállalkozók, tevékenységi helyek, illetve tevékenységek vonatkozásában jogszabályi kötelezettség alapján vezetett országos hatósági nyilvántartásokból.
 
+(4a) Az élelmiszerlánc-felügyeleti szerv a személyiadat- és lakcímnyilvántartásból az (1) bekezdésben meghatározott feladata ellátása céljából a FELIR-ben nyilvántartott természetes személy ügyfél természetes személyazonosító adatai, lakcíme, külföldön történő letelepedésére, elhalálozására vonatkozó adata igénylésére jogosult.
+
 (5) A statisztikailag megalapozott adatgyűjtés érdekében az élelmiszerlánc-felügyeleti szerv együttműködik az agrárgazdasági adatbázist működtető szervvel és a Központi Statisztikai Hivatallal.
 
 (6) Az élelmiszerlánc-felügyeleti szerv a közös ügyfél törzsadat-kezelő rendszeren keresztül biztosítja a mezőgazdasági és vidékfejlesztési támogatási szerv részére a 38. § (1) bekezdésének b), c), f)–h) pontjában meghatározott esetekben az ügyfél törzsadatokhoz való folyamatos hozzáférést.
@@ -57,3 +59,5 @@ k) az e törvény hatálya alá tartozó vállalkozók, tevékenységi helyek, i
 (7) Az élelmiszerlánc-felügyeleti szerv az állami adóhatóság részére a törvényben meghatározott feladatai ellátása érdekében megkeresésre elektronikus úton adatokat ad át a FELIR-ből.
 
 (8) Az élelmiszerlánc-felügyeleti hatóság és a mezőgazdasági és vidékfejlesztési támogatási szerv a közös ügyfél törzsadat-kezelő rendszer működtetéséről írásban állapodnak meg, melynek ki kell terjednie a közös ügyfél törzsadatok körének meghatározására, működtetéssel kapcsolatos feladatok elvégzésének, valamint a költségek viselésének megosztására.
+
+(9) Az élelmiszerlánc-felügyeleti szerv részére e törvényben meghatározott feladatai ellátása – különösen az e törvény hatálya alá tartozó termékek nyomon követhetősége – érdekében az elektronikus útdíjszolgáltatók nyilvántartásából folyamatosan, elektronikus úton adatokat kell átadni.

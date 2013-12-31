@@ -6,13 +6,13 @@ b) a növények, növényi termékek behozatalát;
 
 c) az engedélyköteles termékek forgalomba hozatalát és felhasználását;
 
-d) a lejárt felhasználhatósági idejű vagy megváltozott minőségű növényvédő szerek forgalomba hozatalát, illetve használatát.
+d) a megváltozott minőségű növényvédő szerek forgalomba hozatalát, illetve használatát – ide nem értve a lejárt felhasználhatósági idejű növényvédő szereket.
 
 (2) Növény- és talajvédelmi feladatainak keretében az élelmiszerlánc-felügyeleti szerv az e törvény végrehajtására kiadott jogszabályban meghatározottak, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusai szerint ellenőrzi
 
 a) a termelők károsítók ellen folytatott növényvédelmi tevékenységét, a kijuttatástechnikai, az egészségügyi és a kémiai biztonságot, az engedélyköteles termékek felhasználásához rendelt szakképesítés meglétét, a növényvédő szer felhasználási és vásárlási engedély érvényességét;
 
-b) az engedélyköteles termékek, valamint az EK-műtrágyák nyilvántartási, jelölési, csomagolási, szállítási, forgalomba hozatali, tárolási, minőségi, felhasználhatósági és alkalmazási előírásainak megtartását, illetve az ezek céljára szolgáló helyiségeket, berendezéseket és felszereléseket, valamint a biztonsági adatlapok meglétét;
+b) az engedélyköteles termékek, valamint az EK-műtrágyák gyártási, kiszerelési, nyilvántartási, jelölési, csomagolási, címkézési, szállítási, forgalombahozatali, raktározási, tárolási, minőségi, felhasználhatósági és alkalmazási előírásainak megtartását, illetve az ezek céljára szolgáló helyiségeket, berendezéseket és felszereléseket, valamint a biztonsági adatlapok meglétét;
 
 c) növény-egészségügyi szempontból a növények, növényi termékek előállítását, raktározását, szállítását és forgalmazását;
 

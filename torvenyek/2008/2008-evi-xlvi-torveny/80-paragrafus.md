@@ -1,1 +1,1 @@
-### 80. §
+80. § A 31. §-ban meghatározott technikai jellegű előírásoknak nem kell megfelelnie az olyan laboratóriumi vizsgálatnak, amelyet az Európai Unió valamely tagállamában vagy Törökországban végeztek, vagy az Európai Gazdasági Térségről szóló megállapodásban részes valamely EFTA-államban végeztek az ott irányadó előírásoknak megfelelően, feltéve, hogy az irányadó előírások a közerkölcs, a közbiztonság, az emberi egészség és élet védelme, illetve a fogyasztók védelme tekintetében az e törvényben meghatározottal egyenértékű védelmet nyújtanak.

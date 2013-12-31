@@ -22,7 +22,7 @@ g) a károsítók behurcolásának és elterjedésének megakadályozására, el
 
 h) a fertőzött, fertőzésgyanús vagy fertőzés által veszélyeztetett területeken meghatározott károsítóktól való mentesítésre, illetve mentesen tartásra kötelezhet;
 
-i) korlátozhatja a fertőzött, a fertőzésgyanús vagy a fertőzésveszélynek kitett ingatlanok, földterületek mezőgazdasági célú használatát, hasznosítását, valamint az ilyen földterületeket növény-egészségügyi zárlat alá helyezheti;
+i) korlátozhatja a fertőzött, a fertőzésgyanús vagy a fertőzésveszélynek kitett ingatlanok, földterületek mezőgazdasági célú használatát, hasznosítását, valamint az ilyen földterületeket növény-egészségügyi zárlat alá helyezheti, fertőzésveszélyt jelentő növényállomány kivágását és megsemmisítését elrendelheti;
 
 j) meghatározott károsítókkal való fertőzés vagy a fertőzés gyanúja esetén, illetve egyes károsítókkal szembeni rezisztenciavizsgálat eredményétől függően betilthatja vagy korlátozhatja olyan növényi részek forgalomba hozatalát, amelyek köztermesztés céljára nem alkalmasak;
 

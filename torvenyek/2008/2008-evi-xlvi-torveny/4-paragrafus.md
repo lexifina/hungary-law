@@ -4,7 +4,7 @@
 
 a) a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló törvényben, valamint a termőföld védelméről szóló törvényben nem szabályozott, élelmiszer-biztonsággal összefüggő tevékenységekre;
 
-b) a növényvédő szerek és termésnövelő anyagok forgalomba hozatalára, tárolására és felhasználására;
+b) az engedélyköteles termékek gyártására, kiszerelésére, szállítására, forgalomba hozatalára, tárolására és felhasználására;
 
 c) a növények termesztésére, a növények, növényi termékek és egyéb anyagok hasznosítására, feldolgozására, tárolására, szállítására és forgalomba hozatalára;
 
@@ -24,7 +24,7 @@ j) az állatgyógyászati termékek előállítására, kereskedelmére, és fel
 
 k) a növényi és állati eredetű melléktermékek gyűjtésére, kezelésére, tárolására, szállítására, forgalomba hozatalára, felhasználására;
 
-l) az ökológiai termeléssel kapcsolatos felügyeleti feladatok ellátására;
+l) az ökológiai gazdálkodással és integrált gazdálkodással kapcsolatos felügyeleti feladatok ellátására;
 
 m) a géntechnológiával módosított szervezetek előállítására és forgalomba hozatalára, valamint a géntechnológiával módosított összetevőt tartalmazó termékek ellenőrzésére;
 
@@ -32,4 +32,8 @@ n) az élelmiszerrel rendeltetésszerűen érintkezésbe kerülő anyag, tárgy,
 
 o) az élelmiszerláncban felhasználásra szánt takarító- és fertőtlenítőszerek előállítására, forgalmazására, felhasználására;
 
-p) az élelmiszerláncra kiterjedő vizsgálatokat végző laboratóriumokra.
+p) az élelmiszerláncra kiterjedő vizsgálatokat végző laboratóriumokra;
+
+q) az e törvény hatálya alá tartozó termék előállítására, forgalmazására vonatkozó ellenőrzési és felügyeleti feladatok ellátására;
+
+r) az e törvény hatálya alá tartozó termékkel kapcsolatos tanúsítványokra vonatkozó ellenőrzési és felügyeleti feladatok ellátására.
