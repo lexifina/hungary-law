@@ -4,7 +4,7 @@
 
 (3) A települési önkormányzat hulladékgazdálkodási közszolgáltatási szerződést csak hulladékgazdálkodási közszolgáltatási engedéllyel, valamint az OHÜ által kiállított minősítő okirattal rendelkező gazdasági szereplővel köthet.
 
-(4) A települési önkormányzat a (3) bekezdésben meghatározottaktól eltérően azzal a hulladékgazdálkodási közszolgáltatási engedéllyel, valamint az OHÜ által kiállított minősítő okirattal nem rendelkező gazdasági szereplővel is köthet hulladékgazdálkodási közszolgáltatási szerződést, amelynek tagjai – a települési önkormányzatot és az államot kivéve – valamennyien rendelkeznek hulladékgazdálkodási közszolgáltatási engedéllyel, valamint az OHÜ által kiállított minősítő okirattal.
+(4) A települési önkormányzat a (3) bekezdésben meghatározottaktól eltérően azzal a hulladékgazdálkodási közszolgáltatási engedéllyel, valamint az OHÜ által kiállított minősítő okirattal nem rendelkező gazdasági szereplővel is köthet hulladékgazdálkodási közszolgáltatási szerződést, amelynek tagjai – a települési önkormányzatot és a magyar államot (a továbbiakban: állam) kivéve – valamennyien rendelkeznek hulladékgazdálkodási közszolgáltatási engedéllyel, valamint az OHÜ által kiállított minősítő okirattal.
 
 (5) A hulladékgazdálkodási közszolgáltatási szerződésnek legalább az alábbiakat kell tartalmaznia:
 
@@ -20,6 +20,6 @@ d) a közszolgáltatási tevékenység végzésének időtartamát.
 
 (7) A hulladékgazdálkodási közszolgáltatási szerződés a közszolgáltatóval legfeljebb 10 évre köthető meg.
 
-(8) A hulladékgazdálkodási közszolgáltatás teljesítése kizárólag törvényben vagy kormányrendeletben meghatározott esetekben szüneteltethető vagy korlátozható.
+(8) A hulladékgazdálkodási közszolgáltatás teljesítése törvényben vagy kormányrendeletben meghatározott esetekben szüneteltethető vagy korlátozható, valamint az ingatlanhasználó kérésére önkormányzati rendeletben meghatározott esetekben szüneteltethető.
 
 (9) A lakosság tájékoztatása érdekében a hulladékgazdálkodási közszolgáltatási szerződés közzétételéről az OHÜ a honlapján, a települési önkormányzat a helyben szokásos módon gondoskodik.

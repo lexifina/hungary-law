@@ -20,7 +20,7 @@ f) a hatóság az eljárást megszüntette.
 
 (5) Ha a lefoglalt eszközt, dolgot, illetve járművet a lefoglalást elrendelő végzés kiadását követő 60 napon belül a (4) bekezdésben meghatározott személy a környezetvédelmi hatóságtól nem veszi át, azt a környezetvédelmi hatóság értékesítheti. Az értékesítésből befolyt ellenérték a kiadni rendelt, de át nem vett eszköz, dolog vagy jármű helyébe lép.
 
-(6) Ha az (5) bekezdés szerint értékesített eszköz, dolog vagy jármű után kapott ellenértéket az annak átvételére jogosult személy a környezetvédelmi hatóság ez irányú tájékoztatását követő 5 éven belül – a (4) bekezdésben foglaltak figyelembevételével – nem veszi át, az eszköz, dolog vagy jármű értékesítéséből befolyt ellenérték a Magyar Állam tulajdonába kerül.
+(6) Ha az (5) bekezdés szerint értékesített eszköz, dolog vagy jármű után kapott ellenértéket az annak átvételére jogosult személy a környezetvédelmi hatóság ez irányú tájékoztatását követő 5 éven belül – a (4) bekezdésben foglaltak figyelembevételével – nem veszi át, az eszköz, dolog vagy jármű értékesítéséből befolyt ellenérték az állam tulajdonába kerül.
 
 (7) Az (5) és (6) bekezdésben meghatározott határidő elmulasztása miatt igazolási kérelem benyújtásának helye nincs.
 

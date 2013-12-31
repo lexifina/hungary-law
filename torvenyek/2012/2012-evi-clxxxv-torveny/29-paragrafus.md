@@ -2,4 +2,4 @@
 
 (2) Az (1) bekezdésben meghatározott közvetítő szervezet tevékenységét a környezetvédelmi hatóság általi nyilvántartásba vételét követően kezdheti meg.
 
-(3) A környezetvédelmi hatóság a közvetítő szervezetekről nyilvántartást vezet, és a közvetítő szervezetek nevét, székhelyét és elérhetőségét a honlapján közzéteszi.
+(3) A környezetvédelmi hatóság a közvetítő szervezetekről nyilvántartást vezet, és a közvetítő szervezetek nevét, székhelyét, elérhetőségét és a nyilvántartásba vett hulladékgazdálkodási tevékenység megnevezését a honlapján közzéteszi.

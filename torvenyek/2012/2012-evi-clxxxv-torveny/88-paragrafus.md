@@ -6,7 +6,7 @@
 
 2. a termelési hulladék, valamint az elkülönítetten gyűjtött háztartási hulladékhoz hasonló hulladék képződésének megelőzésével, és a termelési hulladék, valamint az elkülönítetten gyűjtött háztartási hulladékhoz hasonló hulladékkal kapcsolatos hulladékgazdálkodási tevékenységek részletes szabályait;
 
-3. a veszélyes hulladék képződésének megelőzésével kapcsolatos tevékenységek, valamint a veszélyes hulladékkal kapcsolatos hulladékgazdálkodási tevékenységek végzésének feltételeit;
+3. a veszélyes hulladék képződésének megelőzésével kapcsolatos tevékenységek és a veszélyes hulladékkal kapcsolatos hulladékgazdálkodási tevékenységek végzésének feltételeit, valamint a Hulladékminősítő Bizottságra vonatkozó részletes szabályokat;
 
 4. a hulladékgazdálkodási tevékenységek nyilvántartásba vételével, engedélyezésével kapcsolatos előírásokat, valamint az engedélyek és a nyilvántartás tartalmi követelményeit;
 
@@ -24,7 +24,7 @@
 
 11. a csomagolás és a csomagolószer hulladékká válását megelőző tevékenységek, valamint a hulladékká vált csomagolással kapcsolatos hulladékgazdálkodási tevékenységek részletes szabályait;
 
-12. az elektromos és elektronikus berendezés hulladékká válását megelőző tevékenységek, valamint a hulladékká vált elektromos és elektronikus berendezéssel kapcsolatos hulladékgazdálkodási tevékenységek részletes szabályait;
+12. az elektromos és elektronikus berendezés hulladékká válását megelőző tevékenységek és a hulladékká vált elektromos és elektronikus berendezéssel kapcsolatos hulladékgazdálkodási tevékenységek részletes szabályait, valamint az elektromos és elektronikus berendezések vissza- és átvételi díját;
 
 13. az elem és akkumulátor hulladékká válását megelőző tevékenységek, valamint a hulladékká vált elemmel és akkumulátorral kapcsolatos hulladékgazdálkodási tevékenységek részletes szabályait;
 
@@ -60,7 +60,9 @@
 
 29. a hulladékstátusz megszűnésének megállapítására vonatkozó részletes kritériumokat, valamint a hulladékstátusz megszűnésével kapcsolatos tanúsítás rendjét, a tanúsításra jogosult szervezetekre vonatkozó szabályokat;
 
-30. a hulladéklerakási járulékból befolyt összeg felhasználásának céljait és szabályait.
+30. a hulladéklerakási járulékból befolyt összeg felhasználásának céljait és szabályait;
+
+31. az elkülönített hulladékgyűjtésre vonatkozó részletes szabályokat;
 
 (2) Felhatalmazást kap a környezetvédelemért felelős miniszter, hogy rendeletben állapítsa meg:
 
@@ -70,7 +72,7 @@
 
 3. a hulladéklerakás technikai követelményeit, a betelt lerakók lezárásának és utógondozásának technikai feltételeit, valamint részletes szabályait;
 
-4. a hulladék termikus ártalmatlanításának technikai követelményeit és részletes szabályait;
+4. a hulladék termikus kezelésének technikai követelményeit és részletes szabályait;
 
 5. a hulladékolajjal kapcsolatos hulladékgazdálkodási tevékenységek részletes szabályait;
 
@@ -80,7 +82,7 @@
 
 8. a hulladékgazdálkodással kapcsolatos egységes információs rendszer kialakításának részletes szabályait;
 
-9. az elkülönített hulladékgyűjtésre vonatkozó részletes szabályokat;
+9.
 
 10. a hulladékgazdálkodási engedélyre és a nyilvántartásba vételre vonatkozó felügyeleti díjjal kapcsolatos részletes szabályokat.
 
@@ -88,9 +90,9 @@
 
 a) az egészségügyért felelős miniszter a környezetvédelemért felelős miniszterrel egyetértésben, hogy
 
-aa) a gyógyszerhulladék gyűjtésének részletes szabályait,
+aa) a humán gyógyszer hulladékká válását megelőző tevékenységek és a gyógyszerhulladékkal kapcsolatos hulladékgazdálkodási tevékenységek végzésének szabályait, valamint a gyógyszergyártók biztosítékadására és tájékoztatási kötelezettségére vonatkozó részletes szabályokat,
 
-ab) az egészségügyi intézményekben képződő hulladék kezelésének részletes szabályait,
+ab) az egészségügyi intézményekben képződő hulladékkal kapcsolatos hulladékgazdálkodási tevékenységek végzésének részletes szabályait,
 
 ac) a hulladékgazdálkodási közszolgáltatás körébe tartozó hulladékkal kapcsolatos közegészségügyi követelményeket;
 

@@ -8,8 +8,4 @@
 
 (5) Ha a közszolgáltató a Hivatal által kiadott határozatban vagy az e törvény végrehajtására kiadott miniszteri rendeletben foglalt határidőn belül nem nyújt tájékoztatást vagy szolgáltat adatot, a Hivatal a tájékoztatás, adatszolgáltatás hiányában is javaslatot tehet a miniszter részére.
 
-(6) A Hivatal a (2) és (5) bekezdés szerinti javaslatát az OHÜ-vel együttműködve, az OHÜ javaslatának figyelembevételével készíti el.
-
-(7) Az OHÜ a (6) bekezdés szerinti esetben a Hivatal megkeresésére a megkereséstől számított 15 napon belül javaslatát elkészíti, és azt a Hivatal részére megküldi.
-
-(8) Ha az OHÜ a (7) bekezdésben meghatározott határidőn belül a javaslatát a Hivatal részére nem küldi meg, a Hivatal ennek hiányában is javaslatot tehet a miniszternek.
+(6)–(8)

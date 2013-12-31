@@ -2,7 +2,7 @@
 
 (2) Ha egy hulladékáram vonatkozásában a hulladékstátusz megszűnésének feltételeiről uniós jogi aktus nem rendelkezik, a hulladékstátusz megszűnésének további feltételeit, valamint az ilyen feltételek teljesítéséhez szükséges részletes előírásokat kormányrendelet állapítja meg.
 
-(3) A hulladékstátusz megszűnésére vonatkozó feltételeknek való megfelelés igazolására alkalmas minőségbiztosítási rendszer tanúsítását jogszabályban meghatározott feltételeknek megfelelő tanúsító szervezet végezheti.
+(3) A hulladékstátusz megszűnésére vonatkozó feltételeknek való megfelelés igazolását jogszabályban meghatározott tanúsító szervezet végezheti.
 
 (4) A hulladékstátusz megszűnésének igazolására alkalmas minőségbiztosítási rendszert az arra feljogosított tanúsító szervezet negyedévente ellenőrzi.
 

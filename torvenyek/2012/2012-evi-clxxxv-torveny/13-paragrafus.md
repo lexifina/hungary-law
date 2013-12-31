@@ -10,4 +10,4 @@
 
 (5) Ha a kereskedőnek és a közvetítőnek a hulladék nem kerül a birtokába, a hulladék hulladékkezelőhöz történő eljuttatásáért ugyanúgy felel, mintha a hulladék a birtokába kerülne.
 
-(6) A kereskedő és a közvetítő a hulladékgazdálkodási közszolgáltatás körébe tartozó hulladékot kizárólag a közszolgáltató nevében eljárva vásárolhatja meg, adhatja el, szállíthatja, közvetítheti, kivéve, ha kezeli is a hulladékot.
+(6) A kereskedő és a közvetítő – a 39. § (3) bekezdésében foglaltakra figyelemmel – a hulladékgazdálkodási közszolgáltatás körébe tartozó hulladékot kizárólag a közszolgáltató nevében eljárva vásárolhatja meg, adhatja el, szállíthatja, közvetítheti, kivéve, ha kezeli is a hulladékot.

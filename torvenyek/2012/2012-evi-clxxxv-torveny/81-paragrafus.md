@@ -16,4 +16,6 @@ e) a bevezetendő biztonsági és elővigyázatossági intézkedésekre vonatkoz
 
 f) a közszolgáltatói hulladékgazdálkodási terv értékelését.
 
-(4) A környezetvédelmi hatóság a hulladékgazdálkodási közszolgáltatási engedéllyel rendelkezők (3) bekezdésben meghatározott adatait – a személyes adatnak minősülő adatokat ide nem értve – a honlapján ingyenesen és naprakész állapotban közzéteszi.
+(4) A környezetvédelmi hatóság a hulladékgazdálkodási közszolgáltatási engedéllyel rendelkezők (3) bekezdésben meghatározott adatairól nyilvántartást vezet, és azokat – a személyes adatnak minősülő adatokat ide nem értve – a honlapján ingyenesen és naprakész állapotban közzéteszi.
+
+(5) A (3) bekezdés b)–d) pontja alapján vezetett nyilvántartás közhiteles hatósági nyilvántartásnak minősül.

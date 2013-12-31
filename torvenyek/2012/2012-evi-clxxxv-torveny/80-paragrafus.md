@@ -22,6 +22,6 @@ c) a hulladékgazdálkodási tevékenységet végző telephelyének pontos cím�
 
 d) a hulladékgazdálkodási tevékenységgel érintett hulladék fajtáját, jellegét.
 
-(3) A környezetvédelmi hatóság a hulladékgazdálkodási engedéllyel rendelkezők (1) bekezdésben, valamint a nyilvántartásba vettek (2) bekezdésben meghatározott adatait – a személyes adatnak minősülő adatokat ide nem értve – honlapján ingyenesen és naprakész állapotban közzéteszi.
+(3) A környezetvédelmi hatóság a hulladékgazdálkodási engedéllyel rendelkezők (1) bekezdésben, valamint a nyilvántartásba vettek (2) bekezdésben meghatározott adatairól nyilvántartást vezet, és azokat – a személyes adatnak minősülő adatokat ide nem értve – honlapján ingyenesen és naprakész állapotban közzéteszi.
 
 (4) Az (1) bekezdés b), c), d) és f) pontja kapcsán vezetett nyilvántartás, valamint a (2) bekezdés szerinti nyilvántartás a (2) bekezdés b)–d) pontjában foglalt adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.

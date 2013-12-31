@@ -4,4 +4,4 @@ a) a céltartalék rendelkezésére áll, vagy
 
 b) a környezetvédelmi biztosítást megkötötte.
 
-(2) A környezetvédelmi biztosítással, a céltartalék képzésével, valamint a gyártók biztosítékadási kötelezettségével kapcsolatos részletes szabályokat kormányrendelet határozza meg.
+(2) A környezetvédelmi biztosítással, a céltartalék képzésével, valamint a gyártók biztosítékadási kötelezettségével kapcsolatos részletes szabályokat kormány- vagy miniszteri rendelet határozza meg.
