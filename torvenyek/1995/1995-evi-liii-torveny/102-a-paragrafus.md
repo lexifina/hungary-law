@@ -18,9 +18,9 @@ bb) ha a ba) pontban meghatározott pótlás sem vezet eredményre, a környezet
 
 (3) A környezethasználó kompenzációs helyreállítási intézkedésként köteles megtenni mindazon intézkedéseket a helyreállítási intézkedések befejezéséig, amelyek a károsodott környezeti elem vagy a környezeti elem által nyújtott szolgáltatás hiánya ideiglenes pótlásához szükséges.
 
-(4) A környezetvédelmi hatóság kötelezheti a környezethasználót, hogy szolgáltasson információt a környezetkárosodás közvetlen veszélyéről vagy az ilyen közvetlen veszély gyanújával kapcsolatos esetekről, illetve a környezetkárosítás esetén a bekövetkezett károkról. Amennyiben a környezetvédelmi hatóság a szolgáltatott információt nem tartja megfelelőnek, kiegészítő információ szolgáltatására is felszólíthat.
+(4) A környezetvédelmi hatóság – a kizárólag a vizeket érintő környezetkárosodás esetén a vízvédelmi hatóság – kötelezheti a környezethasználót, hogy szolgáltasson információt a környezetkárosodás közvetlen veszélyéről vagy az ilyen közvetlen veszély gyanújával kapcsolatos esetekről, illetve a környezetkárosítás esetén a bekövetkezett károkról. Amennyiben a környezetvédelmi hatóság a szolgáltatott információt nem tartja megfelelőnek, kiegészítő információ szolgáltatására is felszólíthat.
 
-(5) A környezetvédelmi igazgatási szerv a (2) bekezdésben, illetve a 101. § (2) bekezdés c)–d) pontjában meghatározott esetben a külön jogszabályban meghatározottaknak megfelelően
+(5) A környezetvédelmi hatóság – a kizárólag a vizeket érintő környezetkárosodás esetén a vízvédelmi hatóság – a (2) bekezdésben, illetve a 101. § (2) bekezdés c)–d) pontjában meghatározott esetben a külön jogszabályban meghatározottaknak megfelelően
 
 a) kötelezi a környezethasználót az e törvényben és a külön jogszabályokban meghatározott szükséges környezetkárosodást megelőző, valamint helyreállítási intézkedések megtételére;
 

@@ -2,4 +2,4 @@
 
 (2) A határértékek megállapítása során figyelembe kell venni a természeti folyamatok és az egyes környezetterhelő tényezők várható együttes hatását is.
 
-(3) A határértéket a miniszter — az érdekelt miniszterek egyetértésével kiadott — rendeletben, vagy rendeletben meghatározott esetekben a környezetvédelmi hatóság állapítja meg.
+(3) A határértéket a miniszter – az érdekelt miniszterek egyetértésével kiadott – rendeletben, vagy rendeletben meghatározott esetekben egyedi hatósági döntés állapítja meg. A víz védelmét szolgáló határértéket – az érdekelt miniszterek egyetértésével – a vízvédelemért felelős miniszter által kiadott rendelet, vagy rendeletben meghatározott esetekben egyedi hatósági döntés állapítja meg.

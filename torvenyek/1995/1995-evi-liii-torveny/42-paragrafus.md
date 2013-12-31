@@ -27,3 +27,5 @@ d) közreműködik a természeti erőforrások felhasználására vonatkozó sza
 e) közreműködik a környezetvédelmi szakképesítési rendszer kialakításában és működtetésében.
 
 (2) A miniszter teljesíti a 2004/35/EK európai parlamenti és tanácsi irányelv 18. cikke szerinti jelentési kötelezettséget.
+
+(3) A víz mint környezeti elem tekintetében az (1) bekezdésben meghatározott feladatokat a víz mint környezeti elem védelméért felelős miniszter (a továbbiakban: vízvédelemért felelős miniszter) látja el.

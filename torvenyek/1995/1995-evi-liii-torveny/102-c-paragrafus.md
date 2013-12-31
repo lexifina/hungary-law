@@ -3,3 +3,5 @@
 (2) Ha a környezetkárosodás más államot is érinthet, a miniszter megfelelő tájékoztatással látja el a környezetkárosodás tekintetében az érintett államot.
 
 (3) A miniszter jelenti az Európai Bizottságnak, illetve a többi érintett tagállamnak a szükséges megelőzési, illetve helyreállítási intézkedésekre vonatkozó javaslatával együtt – ideértve a megelőzés és a helyreállítás költségeit is – ha a környezetvédelmi hatóságok illetékességi területükön olyan környezetkárosodást fedeztek fel, amely nem az ország területén keletkezett.
+
+(4) A (2) és (3) bekezdésben foglaltaktól eltérően, az ott meghatározott intézkedéseket a vízvédelemért felelős miniszter teszi meg, ha környezetkárosodás a vizeket érinti.
