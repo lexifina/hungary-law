@@ -8,11 +8,11 @@ b) annak, aki a bejegyzés folytán jogosulttá vált, illetőleg akinek érdek�
 
 c) annak, akinek bejegyzett joga módosult, vagy megszűnt, illetőleg akinek érdekében a bejegyzett jog vagy tény módosult, vagy megszűnt,
 
-d) tulajdoni hányadot érintő bejegyzés esetén valamennyi tulajdonostársnak,
+d) tulajdoni hányadot érintő tulajdonjog-bejegyzés esetén valamennyi tulajdonostársnak,
 
 e) a földrészlet tulajdonosának, ha egyéb önálló ingatlan tulajdonjogát ruházták át,
 
-f) az ingatlan tulajdonosának, az állam tulajdonosi jogait gyakorló szervezetnek és mindazoknak, akiknek jogát az új bejegyzés érinti, kivéve, ha az ingatlanügyi hatóság hatósági határozat alapján vagy a bíróság megkeresésére a 17. § (1) bekezdésének a)–g) pontjaiban meghatározott tényt jegyezte be az ingatlan-nyilvántartásba,
+f) az ingatlan tulajdonosának, az állam tulajdonosi jogait gyakorló szervezetnek és mindazoknak, akiknek jogát az új bejegyzés érinti, kivéve, ha az ingatlanügyi hatóság hatósági határozat alapján vagy a bíróság megkeresésére a 17. § (1) bekezdésének 1–9. pontjaiban meghatározott tényt jegyezte be az ingatlan-nyilvántartásba,
 
 g) telekalakítás esetén az építésügyi hatóság részére,
 
@@ -39,3 +39,5 @@ c) annak, akinek a kérelmére (megkeresésére) valamely jogilag jelentős tén
 (3) A hagyatékátadó végzés alapján hozott határozatot a közjegyző részére csak akkor kell kézbesíteni, ha az egészben vagy részben elutasítást tartalmaz.
 
 (4) A jogorvoslati kérelem benyújtása tényének bejegyzését a beadványra vezetett határozattal (záradékkal) kell igazolni. Erről a kérelmezőt értesíteni nem kell.
+
+(5) Hirdetményi úton kézbesíti az ingatlanügyi hatóság a döntését azon jogosult részére, akinek az ingatlan-nyilvántartásba lakcíme nincs bejegyezve, vagy a személyiadat- és lakcímnyilvántartásban szereplő adattal történő összevetés alapján megállapítható, hogy az ingatlan-nyilvántartásba felvett lakcím időközben megszűnt.

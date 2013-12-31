@@ -32,8 +32,10 @@ f) több lapból álló okirat esetén a szerződő felek, a készítő és az e
 
 g) a meghatalmazottaknak és a feleknek az okirat alapján nyilvánvalóan azonosítható aláírását tartalmazza.
 
-(3) A tulajdonjog, haszonélvezeti jog, a használat joga, telki szolgalmi jog, vételi jog, jelzálogjog (önálló zálogjog) keletkezésére, módosulására, illetve megszűnésére vonatkozó bejegyzésnek közokirat, ügyvéd által ellenjegyzett magánokirat alapján van helye. Ellenjegyzésként a jogtanácsos ellenjegyzését is el kell fogadni, ha a szerződő felek valamelyike jogtanácsos által képviselt szervezet. Nem alkalmas bejegyzésre az olyan okirat, amelyen a készítő és ellenjegyző ügyvéd, illetőleg a közokiratba foglaló közjegyző szerződő félként van feltüntetve.
+(3) A tulajdonjog, haszonélvezeti jog, a használat joga, telki szolgalmi jog, vételi jog, jelzálogjog (önálló zálogjog) keletkezésére, módosulására, illetve megszűnésére vonatkozó bejegyzésnek közokirat, ügyvéd által ellenjegyzett magánokirat alapján van helye. Ellenjegyzésként a jogtanácsos ellenjegyzését is el kell fogadni, ha a szerződő felek valamelyike jogtanácsos által képviselt szervezet. Nem alkalmas bejegyzésre az olyan okirat, amelyen a készítő és ellenjegyző ügyvéd, jogtanácsos, illetőleg a közokiratba foglaló közjegyző szerződő félként van feltüntetve.
 
 (4) Az ellenjegyzéssel ellátott magánokirat bejegyzés alapjául akkor fogadható el, ha az tartalmazza az ellenjegyző személy nevét, aláírását, irodájának székhelyét, az ellenjegyzés időpontját és az ,,ellenjegyzem'' megjelölést. Az ügyvéd által teljesített ellenjegyzés érvényességének további feltétele a szárazbélyegző lenyomata.
+
+(4a) Jogtanácsos által teljesített ellenjegyzés esetében a székhely alatt az adott jogügyletben a jogtanácsos által képviselt szervezet székhelyét kell érteni.
 
 (5) Jelzálogjog (önálló zálogjog) alapítására, módosulására és megszűnésére vonatkozó bejegyzés olyan magánokirat alapján is teljesíthető, amelyet a nyilatkozattevő hitelintézet – nevének feltüntetésével – szabályszerűen és nyilvánvalóan azonosítható módon írt alá.

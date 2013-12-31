@@ -2,52 +2,56 @@
 
 17. § (1) Az ingatlan-nyilvántartásba csak az ingatlanhoz kapcsolódó következő, jogilag jelentős tények jegyezhetők fel:
 
-a) a jogosult kiskorúsága vagy gondnokság alá helyezése,
+1. a jogosult kiskorúsága vagy gondnokság alá helyezése,
 
-b) a jogosulttal szemben megindított felszámolási eljárás, végelszámolás,
+2. a jogosulttal szemben megindított felszámolási eljárás, végelszámolás,
 
-c) a külföldi székhelyű vállalkozás fióktelepének, kereskedelmi képviseletének cégjegyzékből történő törlése,
+3. a külföldi székhelyű vállalkozás fióktelepének, kereskedelmi képviseletének cégjegyzékből történő törlése,
 
-d) kisajátítási és telekalakítási eljárás megindítása,
+4. kisajátítási és telekalakítási eljárás megindítása,
 
-e) az ingatlanügyi hatósági határozat elleni jogorvoslati kérelem, ügyészi felhívás, ügyészi fellépés benyújtása,
+5. felmérési, térképezési és területszámítási hiba kijavítására irányuló eljárás megindítása,
 
-f) bejegyzés, feljegyzés és az adatváltozás átvezetése alapjául szolgáló vagy azzal kapcsolatos bírósági határozat elleni felülvizsgálati kérelem benyújtása,
+6. földminősítési eljárás megindítása,
 
-g) az ingatlan jogi jellege,
+7. az ingatlanügyi hatósági határozat elleni jogorvoslati kérelem, ügyészi felhívás, ügyészi fellépés benyújtása,
 
-h) bejegyzés, feljegyzés és az adatváltozás átvezetése iránti kérelem vagy megkeresés elutasítása,
+8. bejegyzés, feljegyzés és az adatváltozás átvezetése alapjául szolgáló vagy azzal kapcsolatos bírósági határozat elleni felülvizsgálati kérelem benyújtása,
 
-i) épület létesítése vagy lebontása,
+9. az ingatlan jogi jellege,
 
-j) az ingatlan-nyilvántartási eljárás felfüggesztése,
+10. bejegyzés, feljegyzés és az adatváltozás átvezetése iránti kérelem vagy megkeresés elutasítása,
 
-k) jogerős hatósági vagy bírósági határozattal megállapított tartós környezetkárosodás ténye, mértéke és jellege,
+11. épület létesítése vagy lebontása,
 
-l) bírósági ítéleten alapuló tulajdoni korlátozás,
+12. az ingatlan-nyilvántartási eljárás felfüggesztése,
 
-m) bírósági vagy hatósági határozaton alapuló telekalakítási és építési tilalom elrendelése, valamint egyéb építésügyi korlátozás,
+13. jogerős hatósági vagy bírósági határozattal megállapított tartós környezetkárosodás ténye, mértéke és jellege,
 
-n) a szerződésen vagy végintézkedésen alapuló elidegenítési és terhelési tilalom,
+14. bírósági ítéleten alapuló tulajdoni korlátozás,
 
-o) az e törvényben meghatározott perek és büntetőeljárás megindítása,
+15. bírósági vagy hatósági határozaton alapuló telekalakítási és építési tilalom elrendelése, valamint egyéb építésügyi korlátozás,
 
-p) árverés, nyilvános pályázat kitűzése,
+16. a szerződésen vagy végintézkedésen alapuló elidegenítési és terhelési tilalom,
 
-q) a zárlat, zár alá vétel, zár alá vételt megelőző biztosítási intézkedés, zárlat az Európai Unió által elrendelt pénzügyi és vagyoni korlátozó intézkedés végrehajtására,
+17. az e törvényben meghatározott perek és büntetőeljárás megindítása,
 
-r) tulajdonjog fenntartással történt eladás,
+18. árverés, nyilvános pályázat kitűzése,
 
-s) a törölt zálogjog ranghelyének fenntartása, illetve a ranghellyel való rendelkezés jogáról történő lemondás,
+19. a zárlat, zár alá vétel, zár alá vételt megelőző biztosítási intézkedés, zárlat az Európai Unió által elrendelt pénzügyi és vagyoni korlátozó intézkedés végrehajtására,
 
-t) jelzálogjog ranghelyének előzetes biztosítása,
+20. tulajdonjog-fenntartással történt eladás,
 
-u) ranghely megváltoztatása,
+21. a törölt zálogjog ranghelyének fenntartása, illetve a ranghellyel való rendelkezés jogáról történő lemondás,
 
-v) a társasházakról szóló 2003. évi CXXXIII. törvény 10. §-ának (2) bekezdése szerinti, a közös tulajdon átruházására a tulajdonostársak összes tulajdoni hányadának legalább kétharmadát feljogosító alapító okirat elfogadása, módosítása, illetőleg a társasházakról szóló 2003. évi CXXXIII. törvény 10. §-ának (3) bekezdése szerinti, a közös tulajdon átruházására a tulajdonostársak összes tulajdoni hányadának legalább négyötödét feljogosító alapító okirat módosítása, továbbá az elfogadás, a módosítás időpontja,
+22. jelzálogjog ranghelyének előzetes biztosítása,
 
-z) az e törvényben meghatározott megismételt hagyatéki eljárás megindítása.
+23. ranghely megváltoztatása,
 
-(2) Az (1) bekezdés a)–k) pontjaiban említett tények feljegyzésének elmaradása az egyébként azokhoz fűződő joghatásokat nem érinti. Az l)–z) pontokban meghatározott tények feljegyzésének elmaradása esetén a jogosult azokat nem érvényesítheti a jóhiszemű harmadik jogszerzővel szemben.
+24. a társasházakról szóló 2003. évi CXXXIII. törvény 10. § (2) bekezdése szerinti, a közös tulajdon átruházására a tulajdonostársak összes tulajdoni hányadának legalább kétharmadát feljogosító alapító okirat elfogadása, módosítása, illetőleg a társasházakról szóló 2003. évi CXXXIII. törvény 10. § (3) bekezdése szerinti, a közös tulajdon átruházására a tulajdonostársak összes tulajdoni hányadának legalább négyötödét feljogosító alapító okirat módosítása, továbbá az elfogadás, a módosítás időpontja,
+
+25. az e törvényben meghatározott megismételt hagyatéki eljárás megindítása.
+
+(2) Az (1) bekezdés 1–13. pontjában említett tények feljegyzésének elmaradása az egyébként azokhoz fűződő joghatásokat nem érinti. A 14–25. pontban meghatározott tények feljegyzésének elmaradása esetén a jogosult azokat nem érvényesítheti a jóhiszemű harmadik jogszerzővel szemben.
 
 (3) Tulajdonjog fenntartással történt eladás ténye jegyezhető fel az ingatlan tulajdonjogának a futamidő végén – minden további jognyilatkozat nélkül (ide nem értve a tulajdonjog bejegyzési engedélyt) – történő átszállását eredményező pénzügyi lízingbe adás esetében is.

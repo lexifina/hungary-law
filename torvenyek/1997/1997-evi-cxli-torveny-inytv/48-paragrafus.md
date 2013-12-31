@@ -5,3 +5,5 @@
 (2) A tulajdoni lapon feltüntetett széljegy a bejegyzés, átvezetés, feljegyzés iránti ingatlan-nyilvántartási eljárás megindítását tanúsítja.
 
 (3) A tulajdoni lap tartalmát érintő változás, illetve a változás átvezetésére irányuló kérelem elutasításának bejegyzése után a széljegyet törölni kell.
+
+(4) Az ingatlanügyi hatóság által hivatalból indított, valamint folytatott egyes eljárások széljegyzésére, valamint annak törlésére a Kormány e törvény felhatalmazása alapján kiadott rendeletében az (1) és (3) bekezdésben foglaltaktól eltérő szabályokat állapíthat meg.

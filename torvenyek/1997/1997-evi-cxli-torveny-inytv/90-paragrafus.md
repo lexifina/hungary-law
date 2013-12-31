@@ -24,4 +24,6 @@ b) a számítógépes ingatlan-nyilvántartási rendszerből történő, törvé
 
 c) az ingatlanügyi hatóság vagy hatóságok kijelölését,
 
-d) az ingatlan-nyilvántartási eljárás részletes szabályait.
+d) az ingatlan-nyilvántartási eljárás részletes szabályait,
+
+f) az ingatlan-nyilvántartási adatbázisból adatműveleti, adatfeldolgozási tevékenységet igénylő megkeresések esetén az elektronikus dokumentumként szolgáltatható tulajdonilap-másolat adattartalmán belül az egyes adatköröket, a szolgáltatást nyújtó szervek, a szolgáltatás igénybevételére jogosult szervek és személyek körét, valamint annak módját és részletes feltételeit.

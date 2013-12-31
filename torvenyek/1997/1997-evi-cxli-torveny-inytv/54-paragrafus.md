@@ -11,3 +11,5 @@
 (5) A (3) bekezdésben foglalt eseteket, valamint a döntés fellebbezés, továbbá ügyészi felhívás folytán történő módosítását, illetve visszavonását kivéve az ingatlanügyi hatóság a döntést nem vonhatja vissza és nem módosíthatja.
 
 (6) A jogok bejegyzése, tények feljegyzése, illetve ezek törlése iránti eljárás során hozott ingatlanügyi hatósági döntés ellen felügyeleti eljárásnak nincs helye.
+
+(7) A közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény hatósági bizonyítvány kijavítására, visszavonására, illetve módosítására vonatkozó rendelkezéseit e törvénynek a döntés kijavítására, módosítására, visszavonására vonatkozó eltérő szabályainak a figyelembe vételével kell alkalmazni.
