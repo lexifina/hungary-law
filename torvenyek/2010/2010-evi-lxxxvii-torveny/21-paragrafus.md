@@ -8,7 +8,7 @@
 
 a) a kisajátításról szóló törvényben meghatározott közérdekű célok, vagy – amennyiben a közérdekű célt az érintett földrészlet vonatkozásában a nemzetgazdasági szempontból kiemelt beruházássá nyilvánító kormányrendelet megjelöli – nemzetgazdasági szempontból kiemelt beruházás megvalósításához szükséges;
 
-b) nem haladja meg a három hektárt, és amely nem szomszédos más Nemzeti Földalapba tartozó földrészlettel.
+b) nem haladja meg a három hektárt.
 
 (3b)
 
@@ -32,4 +32,4 @@ az alapító okiratában vagy jogszabályban meghatározott, oktatási vagy tudo
 
 (7) E § szerinti eladás, csere, haszonbérbe adás, vagy vagyonkezelésbe adás esetén – ide nem értve az (1) bekezdésben meghatározott esetet – a szerződéskötést követő 3 nappal nyilvánosságra kell hozni a megkötött szerződésnek a 30. § (1) bekezdésében meghatározott adatait.
 
-(8) A (3a) bekezdés b) pontjának alkalmazása során az olyan földrészleteket kell szomszédosnak tekinteni, amelyek – a település közigazgatási határától függetlenül – egymással közvetlenül határosak, vagy azokat egymástól önálló helyrajzi szám alatt nyilvántartott út, árok, csatorna választ el.
+(8)
