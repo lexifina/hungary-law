@@ -26,7 +26,7 @@ b) a létesítmény tevékenységében a közlekedési módot váltó árumennyi
 
 9. ipari park: az ipari parkokról szóló 297/2011. (XII. 22.) Korm. rendelet szerint „Ipari Park” címet elnyert szervezet,
 
-10. jövedelemtermelő projekt: az Európai Regionális Fejlesztési Alapra, az Európai Szociális Alapra és a Kohéziós Alapra vonatkozó általános rendelkezések megállapításáról és az 1260/1999/EK rendelet hatályon kívül helyezéséről szóló, 2006. július 11-i 1083/2006/EK tanácsi rendelet 55. cikk (1) bekezdése szerinti projekt,
+10.[^1]
 
 11. kapcsolódó vállalkozás: a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény 4. § (3)–(6) bekezdése szerinti vállalkozások,
 
@@ -47,3 +47,5 @@ b) a létesítmény tevékenységében a közlekedési módot váltó árumennyi
 19. támogatástartalom: az Atr. 2. § 19. pontja szerinti tartalom,
 
 20. TEU (twenty-foot equivalent unit): a nemzetközi szabványügyi szervezet ISO IC(C) típusú konténeregysége.
+
+[^1]: A 2. § 10. pontját az 1/2013. (XII. 30.) ME rendelet 8. § (6) bekezdése hatályon kívül helyezte.
