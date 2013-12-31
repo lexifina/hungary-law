@@ -1,0 +1,1 @@
+## 7. § Az államháztartásban felmerülő egyes gyakoribb gazdasági események kötelező elszámolási módjáról szóló 38/2013. (IX. 19.) NGM rendelet (a továbbiakban: R2.) 1. melléklet III. fejezet Növekedések C) címének címe a „használatba vett készlet átminősítése” szövegrész helyett a „használatba vett vásárolt készlet átminősítése” szöveggel lép hatályba.
