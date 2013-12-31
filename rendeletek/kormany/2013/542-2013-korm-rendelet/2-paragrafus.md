@@ -1,0 +1,3 @@
+## 1. § A vis maior támogatás felhasználásának részletes szabályairól szóló 9/2011. (II. 15.) Korm. rendelet (a továbbiakban: R.) 8. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+## „(3) Az elszámolásra meghatározott határidő módosítására egy alkalommal, legfeljebb az elszámolási határidő 24 hónapra történő megváltoztatásával van lehetőség, ha a határidő betartását időjárási körülmény, a helyi önkormányzaton kívül álló szervezet tevékenysége, egyéb pályázati forrásból megvalósuló kapcsolódó beruházás vagy közbeszerzési eljárás elhúzódása akadályozza. A kérelmet az elszámolási határidő lejártáig lehet benyújtani a kincstárnak.”
