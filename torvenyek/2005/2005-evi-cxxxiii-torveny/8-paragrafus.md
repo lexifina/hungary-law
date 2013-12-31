@@ -8,7 +8,7 @@
 
 (3) A rendőrség az adatokat a működési engedély vagy az igazolvány visszavonásáig tartja nyilván. Az 5. § (4) bekezdés b) pontjában és az 5/A. § (5) bekezdés b) pontjában foglaltak ellenőrzése céljából a rendőrség a felügyeleti bírsággal sújtott vállalkozások adatait a felügyeleti bírság kiszabását követő két évig tartja nyilván, ha a kiszabott bírságot a bírsággal sújtott vállalkozás a határozat jogerőre emelkedésétől számított két éven belül nem fizeti meg.
 
-(4) A nyilvántartásból adattovábbításra irányuló kérelmet – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben foglaltak kivételével – teljesíteni nem lehet.
+(4) A nyilvántartásból adattovábbításra irányuló kérelmet – ha törvény eltérően nem rendelkezik – teljesíteni nem lehet.
 
 (5) Az e törvény hatálya alá tartozó tevékenység hatósági ellenőrzését a rendőrség végzi, amely a tevékenység gyakorlásának jogszerűségére, a felelősségbiztosítási szerződés meglétére, a rendőrség által nyilvántartott adatok valódiságára, a rendőrség által hitelesített naplóba (a továbbiakban: napló) bejegyzett adatokra, és az engedélyezés vagy a tevékenység végzésének feltételeiben beállott változások vizsgálatára terjed ki.
 

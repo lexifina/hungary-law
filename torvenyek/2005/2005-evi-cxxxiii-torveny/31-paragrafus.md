@@ -10,6 +10,8 @@ b) nyilvános rendezvényen, közforgalmú közlekedési eszköz állomásán, m
 
 c) a Büntető Törvénykönyvről szóló törvény szerint legalább jelentős értékű pénz, értékpapír, nemesfém, drágakő biztonságos tárolása, kezelése, szállítása
 
+d) a veszélyes anyagok őrzése
+
 érdekében kerül sor.
 
 (4) A rögzített kép-, hang, valamint kép- és hangfelvételt felhasználás hiányában legfeljebb a rögzítéstől számított hatvan nap elteltével meg kell semmisíteni, illetve törölni kell, ha a rögzítés célja
