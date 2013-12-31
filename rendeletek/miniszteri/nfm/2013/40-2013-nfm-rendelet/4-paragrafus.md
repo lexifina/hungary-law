@@ -1,1 +1,0 @@
-## 3. § A kötelezettségvállaló gondoskodik az előirányzatok – felhasználási céljainak, jogcímeinek megfelelő – felhasználásáról. A kötelezettségvállaló felelősséggel tartozik az előirányzatok terhére történő felhasználás cél- és szabályszerűségének betartásáért és betartatásáért.
