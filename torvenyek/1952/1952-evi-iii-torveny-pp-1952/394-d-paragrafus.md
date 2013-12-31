@@ -1,6 +1,6 @@
 ## Elektronikus kommunikáció a szakértővel
 
-394/D. § (1) E § rendelkezéseit 2014. június 30-ig csak a törvényszékek első fokú hatáskörébe tartozó, 2013. január 1. napját követően indult polgári perekben kell alkalmazni. A § rendelkezéseit 2014. július 1. napjától az ezen időpont után indult, a járásbíróságok előtti polgári perekben is alkalmazni kell.
+394/D. § (1) E § rendelkezéseit 2015. június 30-ig csak a törvényszékek első fokú hatáskörébe tartozó, 2013. január 1. napját követően indult polgári perekben kell alkalmazni. A § rendelkezéseit 2015. július 1. napjától az ezen időpont után indult, a járásbíróságok előtti polgári perekben is alkalmazni kell.
 
 (2) Ha a szakértő az igazságügyi szakértői névjegyzékbe bejelentette, hogy az elektronikus kapcsolattartást vállalja, erre szolgáló elérhetőségét az Országos Bírósági Hivatal részére meg kell küldenie, és arról is értesítenie kell az Országos Bírósági Hivatalt, hogy a továbbiakban nem vállalja az elektronikus kapcsolattartást.
 

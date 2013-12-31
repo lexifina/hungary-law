@@ -1,4 +1,4 @@
-394/C. § A polgári perben – és ha törvény más polgári eljárás vonatkozásában előírja – 2014. július 1. napjától a következő rendelkezéseket kell alkalmazni:
+394/C. § A polgári perben – és ha törvény más polgári eljárás vonatkozásában előírja – 2015. július 1. napjától a következő rendelkezéseket kell alkalmazni:
 
 a) a vállalkozás a keresetlevelet, továbbá minden egyéb beadványát, okirati bizonyítékát kizárólag elektronikusan nyújtja be a bírósághoz, és a bíróság is valamennyi hivatalos iratot elektronikusan kézbesíti;
 

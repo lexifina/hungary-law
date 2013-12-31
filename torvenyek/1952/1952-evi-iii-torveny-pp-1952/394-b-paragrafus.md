@@ -4,7 +4,7 @@
 
 ## XXVIII. Fejezet
 
-394/B. § (1) A 2013. január 1. napját követően indult polgári perben – és ha törvény más polgári eljárás vonatkozásában előírja, ezen eljárásokban is – 2013. január 1. és 2014. június 30. napja között a (2)–(9) bekezdésben foglalt rendelkezéseket is alkalmazni kell.
+394/B. § (1) A 2013. január 1. napját követően indult polgári perben – és ha törvény más polgári eljárás vonatkozásában előírja, ezen eljárásokban is – 2013. január 1. és 2015. június 30. napja között a (2)–(9) bekezdésben foglalt rendelkezéseket is alkalmazni kell.
 
 (2) A fél, illetve képviselője a törvényszék elsőfokú hatáskörébe tartozó ügyben – a (3) és (4) bekezdésben foglalt kivétellel – beadványát és mellékletét választása szerint elektronikus úton is benyújthatja, ebben az esetben az elsőfokú eljárás folyamán a bírósággal a kapcsolatot elektronikus úton kell tartania és a bíróság is valamennyi bírósági iratot elektronikusan kézbesít a részére. A beadvány és melléklete elektronikus úton való benyújtását az elektronikus úton való kapcsolattartás vállalásának kell tekinteni.
 
