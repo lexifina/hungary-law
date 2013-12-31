@@ -10,7 +10,7 @@
 
 (5) Az állattenyésztéshez kapcsolódó intézkedések esetében a jogszabályban meghatározott élőmunka-ráfordítás, beruházási kötelezettség, illetőleg képzési kötelezettség nem vagy hiányos teljesítése esetén jogszabályban meghatározottak szerint a támogatás alapjául szolgáló állategységenként évenként legfeljebb 100 eurónak megfelelő forintösszeg vehető figyelembe.
 
-(6) A nem teljesítési bírság kiszabásánál a 71. § (5) bekezdésében foglaltakat kell megfelelően alkalmazni.
+(6)
 
 (7) A nem teljesítési bírság mértéke hivatalból vagy kérelemre a jogszabályban meghatározottak szerint mérsékelhető, illetőleg kiszabása mellőzhető, ha az ügyfél mulasztását elháríthatatlan külső ok idézte elő és e körülmény fennállását a jogszabályban meghatározottak szerint igazolta.
 
