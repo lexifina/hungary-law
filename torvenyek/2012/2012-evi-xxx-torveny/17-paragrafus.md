@@ -1,8 +1,8 @@
-17. § (1) A HB a nemzeti értékek által hordozott kiemelkedő értékek megőrzése, fenntarthatósága, széles körű megismertetése és hasznosítása érdekében különösen:
+17. § (1) A HB a nemzeti értékek és a kiemelkedő nemzeti értékek megőrzése, fenntarthatósága, széles körű megismertetése és hasznosítása érdekében különösen:
 
 a) összeállítja a Magyar Értéktárat;
 
-b) ha valamely megyében nem hoztak létre Megyei Értéktár Bizottságot, vagy ha a megyei önkormányzat nem bízott meg a megyei értékek azonosításával, a megyei értéktár létrehozatalával és annak gondozásával, valamint adatainak a Magyar Értéktárba történő megküldésével a megye területén működő, már korábban is nemzeti értékek azonosítását, gondozását végző állami, megyei önkormányzati, vallási közösség vagy társadalmi szervezet által fenntartott intézményt, szervezetet vagy azok szervezeti egységeit, úgy ellátja annak feladatait;
+b) ha valamely megyében nem hoztak létre Megyei Értéktár Bizottságot, vagy ha a megyei önkormányzat nem bízott meg a megyei értékek azonosításával, a megyei értéktár létrehozatalával és annak gondozásával, valamint adatainak a Magyar Értéktárba történő megküldésével megyei szervezetet, úgy ellátja annak feladatait;
 
 c) évente, első alkalommal 2012. december 31-ig tájékoztatást ad az Országgyűlésnek a nemzeti értékek azonosításának és rendszerezésének helyzetéről, a nemzeti értékek fenntarthatóságáról és hasznosításáról, valamint a HB működéséről;
 
@@ -14,7 +14,7 @@ f) gondoskodik róla, hogy a Magyar Értéktár az országmárka-stratégia szer
 
 (2) A HB a hungarikumok által hordozott kiemelkedő értékek megőrzése, fenntarthatósága, széles körű megismertetése és hasznosítása érdekében különösen:
 
-a) az e törvény végrehajtására kiadott jogszabályban meghatározott feltételek szerint kiválasztja, hogy mely értékek minősülnek a Magyar Értéktárból hungarikumnak, indokolt esetben pedig dönt e minősítés visszavonásáról;
+a) az e törvény végrehajtására kiadott jogszabályban meghatározott feltételek szerint kiválasztja, hogy mely kiemelkedő nemzeti értékek minősülnek a Magyar Értéktárból hungarikumnak, indokolt esetben pedig dönt e minősítés visszavonásáról;
 
 b) összeállítja a Hungarikumok Gyűjteményét;
 

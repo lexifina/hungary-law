@@ -10,10 +10,12 @@ b) a nemzeti értékek és a hungarikumok kapcsán nyilvántartandó adatok kör
 
 c) a települési, tájegységi és megyei értéktárak létrehozására és gondozására, valamint a Települési és Megyei Értéktár Bizottságok, valamint a Külhoni Bizottság felállítására és működésére vonatkozó szabályokat,
 
-d) a már létező ágazati gyűjtemények adatainak Magyar Értéktárba történő integrálását szolgáló szabályokat,
+d) az egyes ágazatokért felelős miniszterek feladatkörébe tartozó, ágazati értéktárba foglalható nemzeti értékek meghatározásának alapját,
 
-e) a nemzeti értékké vagy hungarikummá minősítésre irányuló kérelem formai követelményeit,
+e) a nemzeti értékké, kiemelkedő nemzeti értékké vagy hungarikummá minősítésre irányuló kérelem formai követelményeit,
 
-f) a hungarikumok, a Magyar Értéktár digitális formában megjelenő tartalmainak MaNDA általi nyilvántartására, a hungarikumok nyilvánosság számára történő hozzáférhetőségének biztosítására vonatkozó szabályokat, valamint
+f) a nemzeti értékek, a kiemelkedő nemzeti értékek és a hungarikumok digitális formában megjelenő tartalmainak a MaNDA általi nyilvántartására, és nyilvánosság számára történő hozzáférhetőségének biztosítására vonatkozó szabályokat,
 
-g) a hungarikummá minősítés egyedi értékelésének részletes szabályait.
+g) a nemzeti értékek értéktárakba történő felvételének eljárására vonatkozó szabályokat, valamint
+
+h) a kiemelkedő nemzeti értékké és a hungarikummá minősítés eljárására vonatkozó részletes szabályokat.

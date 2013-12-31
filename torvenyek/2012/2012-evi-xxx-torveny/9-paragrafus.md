@@ -1,7 +1,5 @@
-9. § E törvény erejénél fogva a nemzeti értékek részét képezik és ezért a Magyar Értéktár elemei a 7–8. § rendelkezésein túl:
+9. § E törvény erejénél fogva a kiemelt nemzeti értékek részét képezik és ezért a Magyar Értéktár elemei:
 
-a) az egyes miniszterek által összeállított ágazati értéktárakban szereplő nemzeti értékek;
+a) a közösségi oltalom alatt álló nemzeti értékek;
 
-b) a közösségi oltalom alatt álló nemzeti értékek;
-
-c) a nemzetközi elismerésben részesített nemzeti értékek.
+b) a nemzetközi elismerésben részesített nemzeti értékek.

@@ -1,9 +1,9 @@
-## 10. A hungarikum tanúsító védjegy
+## 10. A hungarikum védjegy
 
-18. § (1) A Hungarikumok Gyűjteményében szereplő termékek, eljárások, készítési módok, sportelemek és szolgáltatások széles körben történő megismertetésének elősegítése, színvonaluk és minőségük folyamatos fenntartása érdekében hungarikum tanúsító védjegy kerül bevezetésre.
+18. § (1) A HB tevékenységének megjelenítésére, valamint a Hungarikumok Gyűjteményében szereplő kiemelkedő nemzeti értékek megismertetésének elősegítése, színvonaluk és minőségük folyamatos fenntartása érdekében hungarikum védjegy kerül bevezetésre.
 
-(2) A hungarikum tanúsító védjegy lajstromozása iránti nemzeti bejelentést, valamint a közösségi védjegybejelentést az agrár-vidékfejlesztésért felelős miniszter teszi meg.
+(2) A hungarikum védjegy lajstromozása iránti nemzeti bejelentést, valamint a közösségi védjegybejelentést az agrár-vidékfejlesztésért felelős miniszter teszi meg.
 
-(3) A hungarikum tanúsító védjegy használatát a védjegyjogosult pályázati úton kiválasztott alkotók számára engedélyezi.
+(3) A hungarikum védjegy használatát a védjegyjogosult a hungarikumot gondozó vagy fenntartó magánszemélyek, vállalkozások, szakmai vagy civil szervezetek számára, azok kérelme alapján engedélyezi.
 
-(4) A hungarikum tanúsító védjegy piaci bevezetése és népszerűsítése, valamint a hungarikum tanúsító védjegy szabályzatában foglalt követelmények teljesülésének az ellenőrzése az agrár-vidékfejlesztésért felelős miniszter feladata.
+(4) A hungarikum védjegy piaci bevezetése és népszerűsítése az agrár-vidékfejlesztésért felelős miniszter feladata.

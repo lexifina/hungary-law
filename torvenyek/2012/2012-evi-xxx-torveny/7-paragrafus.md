@@ -2,7 +2,7 @@
 
 7. § (1) Amennyiben a települési önkormányzat Települési Értéktár Bizottságot és települési vagy tájegységi értéktárat hozott létre, a Települési Értéktár Bizottság települési vagy tájegységi értéktárba felvett nemzeti érték adatait az értéktárba történő felvételt követő 8 napon belül megküldi a Megyei Értéktár Bizottságnak. Amennyiben az adott megye területén nem működik Megyei Értéktár Bizottság, a Települési Értéktár Bizottság az adatokat közvetlenül a HB-nek küldi meg.
 
-(2) Az (1) bekezdés rendelkezései megfelelően alkalmazandók abban az esetben is, ha a települési önkormányzat a települési értékek azonosításával, a települési értéktár létrehozatalával és annak gondozásával, valamint adatainak a megyei értéktárba történő megküldésével a település területén működő, már korábban is nemzeti értékek azonosítását, gondozását végző állami, települési önkormányzati, vallási közösség vagy társadalmi szervezet által fenntartott intézményt, szervezetet vagy azok szervezeti egységeit, vagy a településfejlesztésben tevékenykedő külső területfejlesztési, vidékfejlesztési szervezetet bízta meg.
+(2) Az (1) bekezdés rendelkezései megfelelően alkalmazandók abban az esetben is, ha a települési önkormányzat a települési értékek azonosításával, a települési értéktár létrehozatalával és annak gondozásával, valamint adatainak a megyei értéktárba történő megküldésével települési szervezetet bízott meg.
 
 (3) Amennyiben a megyei önkormányzat döntése szerint Megyei Értéktár Bizottság jön létre, úgy az összesíti és rendszerezi a települési és tájegységi értéktárakat.
 
@@ -10,4 +10,4 @@
 
 (5) A megyei értéktárban elhelyezett nemzeti értékek adatait a Megyei Értéktár Bizottságok az értéktárba történő felvételt követő 8 napon belül megküldik a HB részére.
 
-(6) A (3)–(5) bekezdések rendelkezései megfelelően alkalmazandók abban az esetben is, ha a megyei önkormányzat megyei értékek azonosításával, a megyei értéktár létrehozatalával és annak gondozásával, valamint adatainak a Magyar Értéktárba történő megküldésével a megye területén működő, már korábban is nemzeti értékek azonosítását, gondozását végző állami, megyei önkormányzati, vallási közösség vagy társadalmi szervezet által fenntartott intézményt, szervezetet vagy azok szervezeti egységeit bízta meg.
+(6) A (3)–(5) bekezdés rendelkezései megfelelően alkalmazandók abban az esetben is, ha a megyei önkormányzat megyei értékek azonosításával, a megyei értéktár létrehozatalával és annak gondozásával, valamint adatainak a Magyar Értéktárba történő megküldésével megyei szervezetet bízott meg.
