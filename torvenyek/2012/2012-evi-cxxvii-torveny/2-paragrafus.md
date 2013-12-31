@@ -12,25 +12,7 @@ e) állatorvosi rendelő: állatorvosi végzettséggel rendelkező személy ált
 
 f) állatorvosi szakrendelő (rendelőintézet): több állatorvost foglalkoztató olyan állatorvosi rendelő, ahol az állatok szakirányú speciális vizsgálata, sürgősségi, szakosított és egyéb speciális szakmai követelményeket igénylő gyógykezelése is folyamatosan – előre meghatározott, tervezett rendelési időben – biztosított;
 
-g) nagy létszámú állattartó telep: olyan állattartó telep, amelyen az elhelyezhető állatok száma állatfajonként legalább
-
-ga) harminc ló,
-
-gb) ötven szarvasmarha,
-
-gc) kétszáz juh,
-
-gd) kétszáz kecske,
-
-ge) száz sertés,
-
-gf) kétezer broiler baromfi,
-
-gg) ötszáz kifejlett baromfi,
-
-gh) ötven strucc vagy
-
-gi) ötven anyanyúl és szaporulata;
+g) nagy létszámú állattartó telep: olyan állat-egészségügyi felügyelet alá tartozó hely, amely jogszabályban meghatározott létszámú állat tartására alkalmas;
 
 h) szolgáltató állatorvos: állat-egészségügyi szolgáltató tevékenység végzésére jogosult állatorvos.
 

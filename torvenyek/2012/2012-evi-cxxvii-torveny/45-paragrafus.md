@@ -4,7 +4,7 @@
 
 45. § (1) Állatorvosi asszisztensi tevékenységet az a személy végezhet, aki
 
-a) akkreditált állatorvosi asszisztensi, illetve azzal egyenértékűként elismert képzettséggel rendelkezik,
+a) állatorvosi asszisztensi, illetve azzal egyenértékűként elismert képzettséggel rendelkezik,
 
 b) szerepel az asszisztensi névjegyzékben,
 
