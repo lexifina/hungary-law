@@ -20,7 +20,7 @@ e) átveszi a jelölő szervezet jelképét, illetve a jelöltek fényképét ta
 
 f) bejelentett igény alapján, az adatszolgáltatási díj megfizetésének igazolását követően a szavazóköri névjegyzékben szereplő választópolgárok név- és lakcímadatait elektronikus adathordozón átadja a jelölő szervezetnek,
 
-g) az e) pont szerinti befizetések érdekében a választások hivatalos honlapján közzéteszi számlaszámát,
+g)[^2] az f) pont szerinti befizetések érdekében a választások hivatalos honlapján közzéteszi fizetési számlaszámát,
 
 h) előkészíti a listák sorsolását,
 
@@ -41,3 +41,5 @@ o) a választások hivatalos honlapján közzéteszi a többi választási iroda
 p) fogadja a KÜVI-től a rendkívüli eseményekről kiállított jegyzőkönyveket és a benyújtott kifogásokat, valamint a szavazás lezárásáról kiállított jegyzőkönyveket.
 
 (2) Az NVI elnöke meghatározza az országos igazgatási és informatikai próbák időpontjait, feladatait, résztvevőit.
+
+[^2]: A 27. § (1) bekezdés g) pontja a 38/2013. (XII. 30.) KIM rendelet 12. §-a iktatta be.
