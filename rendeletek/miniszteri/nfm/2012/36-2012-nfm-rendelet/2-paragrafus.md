@@ -26,7 +26,7 @@
 
 12. környezetvédelmi támogatások: a 800/2008/EK bizottsági rendelet 4. szakasza szerinti támogatások,
 
-13. közszolgáltatás: a távhőszolgáltatásról szóló törvény rendelkezései alapján, közüzemi szolgáltatási szerződés keretében nyújtott távhőszolgáltatás és a távhőszolgáltató által engedélyes távhőtermelőként e célra végzett távhőtermelés,
+13.[^1] közszolgáltatás: a távhőszolgáltatásról szóló törvény rendelkezései alapján, közüzemi szolgáltatási szerződés keretében nyújtott távhőszolgáltatás, és a távhőszolgáltató által engedélyes távhőtermelőként e célra végzett távhőtermelés, a víziközmű-szolgáltatásról szóló törvény rendelkezései szerinti közműves ivóvízellátás az ahhoz kapcsolódó tűzivíz biztosítással, továbbá a közműves szennyvízelvezetés és -tisztítás, ide értve az egyesített rendszerű csapadékvíz-elvezetést is, mely tevékenységek által megnyilvánuló szolgáltatások közül az egyiket, vagy mindkettőt a víziközmű-szolgáltató a felhasználó részére közüzemi jogviszony keretében nyújtja, továbbá a közszolgáltatási tevékenység érdekében felmerülő hő- és villamosenergia-termelés.
 
 14. közvetlenül a beruházási projekt által teremtett munkahelyek: a 800/2008/EK bizottsági rendelet 2. cikk 14. pontja szerinti munkahelyek,
 
@@ -47,3 +47,5 @@
 22. támogató: a támogatásra javasolt projekt tekintetében döntéshozatalra jogosult, támogatást nyújtó szervezet,
 
 23. tárgyi eszköz: a 800/2008/EK bizottsági rendelet 2. cikk 10. pontja szerinti, illetve környezetvédelmi támogatás esetén a 800/2008/EK bizottsági rendelet 17. cikk 12. pontja szerinti eszköz.
+
+[^1]: A 2. § 13. pontja az 1/2013. (XII. 30.) ME rendelet 10. § (1) bekezdésével megállapított szöveg.
