@@ -8,7 +8,7 @@ a) egynapi élelmet és tisztasági csomagot (tisztálkodó szerek, egy váltás
 
 b) hozzátartozója vagy az elkövető által megjelölt más személy csomagot küldhet az elkövető részére,
 
-c) a jelentkezés elmulasztása esetén elővezetését rendelik el, és ennek költségét meg kell térítenie.
+c)[^5] a jelentkezés elmulasztása esetén elővezetését, továbbá annak eredménytelensége esetén a körözését rendelik el, és az elővezetés költségét a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvényben (a továbbiakban: Szabs. tv.) foglaltak szerint meg kell térítenie.
 
 (4) Az elkövetőt tájékoztatni kell, hogy
 
@@ -17,3 +17,5 @@ a) a Társadalombiztosítási Azonosító Jelét (TAJ számot) igazoló hatósá
 b) aktuálisan fennálló megbetegedéseire kezelőorvosa által rendelt, folyamatosan alkalmazott gyógyszeres kezelésére, gyógyászati segédeszközeire vonatkozó, rendelkezésére álló dokumentumokat (házi/szakorvosi ambuláns vizsgálati lap, lelet, kórházi zárójelentés, szakorvosi javaslat támogatással történő gyógyszerrendeléshez, előjegyzés járóbeteg szakvizsgálatokra, fekvőbeteg intézeti gyógykezelésre stb.), illetve aktuális egészségi állapotának megfelelő, dokumentummal igazoltan a kezelőorvos által rendelt gyógyszereit, gyógyászati segédeszközeit
 
 hozza magával.
+
+[^5]: A 3. § (3) bekezdés c) pontja a 80/2013. (XII. 23.) BM rendelet 3. §-ával megállapított szöveg.

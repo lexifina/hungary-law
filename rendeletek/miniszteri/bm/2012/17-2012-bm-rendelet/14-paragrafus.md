@@ -12,7 +12,7 @@ c) orvosi igazolás bizonyítja azt, hogy az elkövető veszélyeztetett terhes 
 
 d) az elkövető a lakóhelye szerint illetékes önkormányzat jegyzője által kiállított igazolással bizonyítja, hogy felügyeletre, folyamatos ápolásra, illetve kiszolgálásra szoruló hozzátartozója az elzárás végrehajtása esetén felügyelet nélkül maradna,
 
-e)[^10] a büntetések és az intézkedések végrehajtásáról szóló 1979. évi 11. törvényerejű rendelet (a továbbiakban: Bv. tvr.) 125/D. § (2) bekezdésében meghatározott körülmény valamelyike fennáll.
+e)[^17] a büntetések és az intézkedések végrehajtásáról szóló 1979. évi 11. törvényerejű rendelet (a továbbiakban: Bv. tvr.) 125/D. § (2) bekezdésében meghatározott körülmény valamelyike fennáll.
 
 (3) A (2) bekezdés b)–d) pontjában meghatározott esetekben az elzárást foganatosító szerv a befogadás akadályáról értesíti a szabálysértési hatóságot. A szabálysértési hatóság az értesítés alapján az elzárás végrehajtására új határnapot állapít meg.
 
@@ -20,4 +20,4 @@ e)[^10] a büntetések és az intézkedések végrehajtásáról szóló 1979. �
 
 (5) Ha az elzárást foganatosító szerv az elkövetőt a (2) bekezdés alapján nem fogadta be, erről haladéktalanul értesíti az elzárás végrehajtásáról gondoskodó szabálysértési hatóságot, valamint a fiatalkorú elkövető törvényes képviselőjét. Ideiglenes befogadás esetén az elzárást foganatosító szerv haladéktalanul megkeresi az illetékes szervet a személyazonosság tisztázása, illetve a szükséges iratok kiegészítése, kijavítása, pótlása iránt.
 
-[^10]: A 14. § (2) bekezdés e) pontját a 34/2013. (VI. 30.) BM rendelet 35. §-a iktatta be.
+[^17]: A 14. § (2) bekezdés e) pontját a 34/2013. (VI. 30.) BM rendelet 35. §-a iktatta be.
