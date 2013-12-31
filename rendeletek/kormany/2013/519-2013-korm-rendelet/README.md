@@ -1,0 +1,9 @@
+# 519/2013. (XII. 30.) Korm. rendelet
+
+az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-519-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2013-12-31 | 2013-519-20-22.1 | 519/2013. (XII. 30.) Korm. rendelet |
