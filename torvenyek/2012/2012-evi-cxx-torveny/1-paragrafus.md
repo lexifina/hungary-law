@@ -18,9 +18,9 @@ e) a hegyőrre,
 
 f) a formaruházat kivételével a hivatásos vadászra,
 
-g) az erdészeti szakszemélyzetre,
+g) a rendészeti feladatokat ellátó erdészeti szakszemélyzetre,
 
-h) a jogosult erdészeti szakszemélyzetre,
+h) a rendészeti feladatokat ellátó jogosult erdészeti szakszemélyzetre,
 
 i) a halászati őrre,
 
