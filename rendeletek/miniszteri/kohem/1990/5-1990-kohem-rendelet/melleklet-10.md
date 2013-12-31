@@ -1,8 +1,8 @@
-10. számú melléklet az 5/1990. (IV. 12.) KöHÉM rendelethez[^352]
+10. számú melléklet az 5/1990. (IV. 12.) KöHÉM rendelethez[^353]
 
 I. Fejezet
 
-Közúti műszaki ellenőrzés[^353]
+Közúti műszaki ellenőrzés[^354]
 
 1. Fogalom meghatározások
 
@@ -20,7 +20,7 @@ c) E fejezet alkalmazásában a „közlekedésre alkalmassági vizsgálat” a 
 
 a) a jármű műszaki és karbantartottsági állapotának szemrevételezéssel történő vizsgálata és értékelése a jármű álló helyzetében;
 
-b) a korábban végzett közúti műszaki ellenőrzésről kiadott közúti műszaki ellenőri jelentésben (jegyzőkönyvben) foglaltak ismételt ellenőrzése, vagy a jármű közlekedésre alkalmasságát bizonyító iratokban foglaltak ellenőrzése, különös tekintettel – abban az esetben, ha a járművet az Európai Unió valamelyik tagállamában vették nyilvántartásba, illetve helyezték forgalomba – annak vizsgálatára, hogy a jármű megfelel az ER. 5. számú mellékletében[^354] meghatározott közlekedésre alkalmassági vizsgálatnak;
+b) a korábban végzett közúti műszaki ellenőrzésről kiadott közúti műszaki ellenőri jelentésben (jegyzőkönyvben) foglaltak ismételt ellenőrzése, vagy a jármű közlekedésre alkalmasságát bizonyító iratokban foglaltak ellenőrzése, különös tekintettel – abban az esetben, ha a járművet az Európai Unió valamelyik tagállamában vették nyilvántartásba, illetve helyezték forgalomba – annak vizsgálatára, hogy a jármű megfelel az ER. 5. számú mellékletében[^355] meghatározott közlekedésre alkalmassági vizsgálatnak;
 
 c) az ellenőrzési listán (2.7. pont) található, az ellenőrzés tárgyát képező tételek bármelyikére vonatkozó ellenőrzés.
 
@@ -500,6 +500,6 @@ Ha az ellenőrzés módjaként szemrevételezés van meghatározva, az azt jelen
 
 Az országúti műszaki ellenőrzések az alábbiakban felsorolt ellenőrzésekre terjedhetnek ki és az alábbiakban megjelölt módszerekkel élhetnek. A „Hiányosságok” oszlopban megjelölt problémák kimutatható hiányosságokra vonatkozó példák.
 
-[^352]: A 10. számú mellékletet a 39/2002. (XII. 28.) GKM rendelet 12. § c) pontja iktatta be, szövege a 34/2004. (III. 30.) GKM rendelet 6. § (3) bekezdésének b) pontja és a 125/2005. (XII. 29.) GKM rendelet 3. § (2) bekezdése, valamint a 95/2006. (XII. 27.) GKM rendelet 12. § (1) bekezdésének b) pontja, (2) bekezdésének f)–g) és k) pontja szerint módosított szöveg. Ez a melléklet a 2000/30/EK irányelvével és az azt módosító, a Bizottság 2003/26/EK irányelvével összeegyeztethető szabályozást tartalmaz. A 10. számú melléklet a 44/2007. (IV. 4.) GKM rendelet 2. § a) pontja, a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés d) és j)–k) pontja szerint módosított szöveg. [Ez utóbbi módosító rendeletnek a 10. melléklet II. Fejezetre vonatkozó módosításait nem lehetett végrehajtani, tekintettel arra, hogy a II. Fejezetet a 44/2007. (IV. 4.) GKM rendelet 2. § a) pontja hatályon kívül helyezte.] A 10. számú melléklet a 25/2010. (XII. 22.) NFM rendelet 3. §-a, a 22/2012. (V. 8.) NFM rendelet 11. § (1) bekezdése szerint módosított szöveg.
-[^353]: 175 Ez a fejezet a Tanács 2000/30/EK irányelvével és az azt módosító , a Bizottság 2003/26 EK irányelvével összeegyeztethető szabályzást tartalmaz.
-[^354]: 169 Az időszakos vizsgálatról szóló 96/96/EK irányelvben meghatározott közlekedési alkalmassági vizsgálat.
+[^353]: A 10. számú mellékletet a 39/2002. (XII. 28.) GKM rendelet 12. § c) pontja iktatta be, szövege a 34/2004. (III. 30.) GKM rendelet 6. § (3) bekezdésének b) pontja és a 125/2005. (XII. 29.) GKM rendelet 3. § (2) bekezdése, valamint a 95/2006. (XII. 27.) GKM rendelet 12. § (1) bekezdésének b) pontja, (2) bekezdésének f)–g) és k) pontja szerint módosított szöveg. Ez a melléklet a 2000/30/EK irányelvével és az azt módosító, a Bizottság 2003/26/EK irányelvével összeegyeztethető szabályozást tartalmaz. A 10. számú melléklet a 44/2007. (IV. 4.) GKM rendelet 2. § a) pontja, a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés d) és j)–k) pontja szerint módosított szöveg. [Ez utóbbi módosító rendeletnek a 10. melléklet II. Fejezetre vonatkozó módosításait nem lehetett végrehajtani, tekintettel arra, hogy a II. Fejezetet a 44/2007. (IV. 4.) GKM rendelet 2. § a) pontja hatályon kívül helyezte.] A 10. számú melléklet a 25/2010. (XII. 22.) NFM rendelet 3. §-a, a 22/2012. (V. 8.) NFM rendelet 11. § (1) bekezdése szerint módosított szöveg.
+[^354]: 175 Ez a fejezet a Tanács 2000/30/EK irányelvével és az azt módosító , a Bizottság 2003/26 EK irányelvével összeegyeztethető szabályzást tartalmaz.
+[^355]: 169 Az időszakos vizsgálatról szóló 96/96/EK irányelvben meghatározott közlekedési alkalmassági vizsgálat.
