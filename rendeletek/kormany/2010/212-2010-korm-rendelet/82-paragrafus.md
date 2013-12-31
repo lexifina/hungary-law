@@ -16,6 +16,6 @@ g) segíti a terület- és regionális fejlesztést érintő kutatási elemző t
 
 h) elemzi a térségi fejlesztési folyamatokat, egybeveti azokat a gazdaságpolitikai és környezetgazdasági célokkal, gondoskodik az azokkal összefüggő kormányzati intézkedések hatásvizsgálatainak elkészítéséről,
 
-i)[^356] ellátja a VÁTI Magyar Regionális Fejlesztési és Urbanisztikai Nonprofit Kft. (a továbbiakban: VÁTI) területfejlesztési stratégiai tervezési tevékenységének szakmai felügyeletével kapcsolatos feladatokat.
+i)[^354] ellátja a VÁTI Magyar Regionális Fejlesztési és Urbanisztikai Nonprofit Kft. (a továbbiakban: VÁTI) területfejlesztési stratégiai tervezési tevékenységének szakmai felügyeletével kapcsolatos feladatokat.
 
-[^356]: A 82. § i) pontja a 107/2013. (IV. 5.) Korm. rendelet 10. § (5) bekezdése szerint módosított szöveg.
+[^354]: A 82. § i) pontja a 107/2013. (IV. 5.) Korm. rendelet 10. § (5) bekezdése szerint módosított szöveg.

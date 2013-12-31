@@ -18,23 +18,23 @@ h) a ló- és agárversenyzés szabályairól,
 
 i) a termelők szerveződéséről,
 
-j)[^409] a Helyes Mezőgazdasági és Környezeti Állapotról,
+j)[^407] a Helyes Mezőgazdasági és Környezeti Állapotról,
 
-k)[^410] az ágazati munkavédelmi szabályokról,
+k)[^408] az ágazati munkavédelmi szabályokról,
 
-l)[^411] a mezőgazdasági termékek Európai Unión kívüli országokban és az Európai Unión belüli megismertetéséről és promóciójáról,
+l)[^409] a mezőgazdasági termékek Európai Unión kívüli országokban és az Európai Unión belüli megismertetéséről és promóciójáról,
 
-m)[^412] a vágás utáni minősítési kötelezettség alá eső állatok köréről, a minősítés rendjéről és ezen állatok kereskedelmi jelölésének szabályairól és a minősítő hatóság kijelöléséről szóló
+m)[^410] a vágás utáni minősítési kötelezettség alá eső állatok köréről, a minősítés rendjéről és ezen állatok kereskedelmi jelölésének szabályairól és a minősítő hatóság kijelöléséről szóló
 
 jogszabályokat, továbbá e tárgykörben felhatalmazás alapján miniszteri rendeleteket ad ki.
 
-(2)[^413] A miniszter az agrárpolitikáért való felelőssége keretében előkészíti különösen a mezőgazdasági célú vízgazdálkodásról szóló jogszabályokat, továbbá e tárgykörben felhatalmazás alapján miniszteri rendeleteket ad ki.
+(2)[^411] A miniszter az agrárpolitikáért való felelőssége keretében előkészíti különösen a mezőgazdasági célú vízgazdálkodásról szóló jogszabályokat, továbbá e tárgykörben felhatalmazás alapján miniszteri rendeleteket ad ki.
 
 (3) A miniszter az agrárpolitikáért való felelőssége keretében felel továbbá a géntechnológiai tevékenységért, e körben előkészíti különösen
 
 a) a mezőgazdaság és az ipar területén a géntechnológiai tevékenységről,
 
-b)[^414] a géntechnológiával módosított, a hagyományos módon és az ökológiai gazdálkodással termesztett növények egymás mellett folytatott termesztéséről,
+b)[^412] a géntechnológiával módosított, a hagyományos módon és az ökológiai gazdálkodással termesztett növények egymás mellett folytatott termesztéséről,
 
 szóló jogszabályokat, továbbá e tárgykörben felhatalmazás alapján miniszteri rendeleteket ad ki.
 
@@ -54,9 +54,9 @@ f) dönt a 1234/2007/EK rendelet 123. cikkében meghatározottak szerinti szakma
 
 (5) A Kormány a szőlőtermesztésről és borgazdálkodásról szóló 2004. évi XVIII. törvény 40. § (7) bekezdésében foglaltak tekintetében borászati hatóságként a minisztert jelöli ki.
 
-[^409]: A 96. § (1) bekezdés j) pontja a 267/2010. (XII. 3.) Korm. rendelet 31. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^410]: A 96. § (1) bekezdés k) pontja a 267/2010. (XII. 3.) Korm. rendelet 31. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^411]: A 96. § (1) bekezdés l) pontja a 267/2010. (XII. 3.) Korm. rendelet 31. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^412]: A 96. § (1) bekezdés m) pontját a 267/2010. (XII. 3.) Korm. rendelet 31. §-a iktatta be. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^413]: A 96. § (2) bekezdése a 267/2010. (XII. 3.) Korm. rendelet 40. § (60) bekezdés a) pontja, a 300/2011. (XII. 22.) Korm. rendelet 30. § b) pontja szerint módosított szöveg.
-[^414]: A 96. § (3) bekezdés b) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (60) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^407]: A 96. § (1) bekezdés j) pontja a 267/2010. (XII. 3.) Korm. rendelet 31. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^408]: A 96. § (1) bekezdés k) pontja a 267/2010. (XII. 3.) Korm. rendelet 31. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^409]: A 96. § (1) bekezdés l) pontja a 267/2010. (XII. 3.) Korm. rendelet 31. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^410]: A 96. § (1) bekezdés m) pontját a 267/2010. (XII. 3.) Korm. rendelet 31. §-a iktatta be. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^411]: A 96. § (2) bekezdése a 267/2010. (XII. 3.) Korm. rendelet 40. § (60) bekezdés a) pontja, a 300/2011. (XII. 22.) Korm. rendelet 30. § b) pontja szerint módosított szöveg.
+[^412]: A 96. § (3) bekezdés b) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (60) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.

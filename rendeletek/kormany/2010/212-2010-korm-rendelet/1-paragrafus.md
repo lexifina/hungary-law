@@ -2,19 +2,21 @@
 
 ## A MINISZTERELNÖK FELADAT- ÉS HATÁSKÖRE
 
-1. §[^2] (1) A miniszterelnök – külön jogszabályban foglaltak szerint – a Miniszterelnökségen működő jogi ügyekért felelős államtitkár útján érvényesíti a kormányzati ellenőrzésre vonatkozó politikát.
+1. §[^2] (1) A miniszterelnök a Kormány
 
-(2) A miniszterelnök a Kormány polgári hírszerzési tevékenység irányításáért felelős tagja.
+a) polgári hírszerzési tevékenység irányításáért és
 
-(3) A miniszterelnök – külön jogszabályban foglaltak szerint – irányítja az Információs Hivatalt.
+b) európai uniós források felhasználásáért
 
-(4) A miniszterelnök az Információs Hivatal és a polgári hírszerzési tevékenység irányításával összefüggő feladatait – a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 10. § (3) bekezdésében meghatározottak szerint – a Miniszterelnökséget vezető államtitkár útján látja el.
+## felelős tagja.
 
-(5)[^3] A Nemzeti Külgazdasági Hivatal irányítását a miniszterelnök a Miniszterelnökségen működő külügyi és külgazdasági ügyekért felelős államtitkár útján látja el.
+(2) A miniszterelnök – jogszabályban meghatározottak szerint – a Miniszterelnökségen működő jogi ügyekért felelős államtitkár útján érvényesíti a kormányzati ellenőrzésre vonatkozó politikát.
 
-(6)[^4] A miniszterelnök irányítja a Nemzeti Fejlesztési Ügynökséget. A miniszterelnök a Nemzeti Fejlesztési Ügynökség irányítását a Miniszterelnökséget vezető államtitkár útján látja el.
+(3) A miniszterelnök – jogszabályban meghatározottak szerint – irányítja az Információs Hivatalt. A miniszterelnök az Információs Hivatal és a polgári hírszerzési tevékenység irányításával összefüggő feladatait – a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 10. § (3) bekezdésében meghatározottak szerint – a Miniszterelnökséget vezető államtitkár útján látja el.
+
+(4) A miniszterelnök az európai uniós források felhasználásáért való felelősségét – jogszabályban meghatározottak szerint – a Miniszterelnökséget vezető államtitkár útján látja el.
+
+(5) A miniszterelnök irányítja a Nemzeti Külgazdasági Hivatalt. A miniszterelnök a Nemzeti Külgazdasági Hivatal irányítását a Miniszterelnökségen működő külügyi és külgazdasági ügyekért felelős államtitkár útján látja el.
 
 [^1]: Az I. Fejezet a 118/2012. (VI. 26.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^2]: Az 1. § a 162/2012. (VII. 19.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^3]: Az 1. § (5) bekezdését a 93/2013. (III. 29.) Korm. rendelet 1. §-a iktatta be.
-[^4]: Az 1. § (6) bekezdését a 271/2013. (VII. 15.) Korm. rendelet 1. §-a iktatta be.
+[^2]: Az 1. § az 550/2013. (XII. 30.) Korm. rendelet 60. §-ával megállapított szöveg.
