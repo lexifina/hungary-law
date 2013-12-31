@@ -18,7 +18,7 @@ a) az (1) bekezdésben meghatározott megállapodás vagy jogerős hatósági en
 
 b) ha a bejelentésig az eredeti állapot helyreállítása megtörtént, akkor az elvégzett munkák leírását, és az azt tartalmazó jegyzéket.
 
-(5) Ha a (4) bekezdés a) pontja szerinti iratok valamelyike az ingatlanügyi hatósághoz már korábbi ügyben benyújtásra került, elegendő a korábbi benyújtásra, és arra utalni, hogy az ingatlanügyi hatóságnál lévő okiratokban szereplő adatok a bejelentés időpontjáig nem változtak meg.
+(5) Ha a (4) bekezdés a) pontja szerinti iratok valamelyike az ingatlanügyi hatósághoz már korábbi ügyben benyújtásra került, elegendő a korábbi benyújtásra, és a korábbi ügy ügyiratszámára való hivatkozással arra utalni, hogy az ingatlanügyi hatóságnál lévő okiratokban szereplő adatok a bejelentés időpontjáig nem változtak meg.
 
 (6) Az ingatlanügyi hatóság a bejelentésben foglaltakat megvizsgálja. Ha a vizsgálat eredményeként megállapítja, hogy a más célú hasznosítás engedélyköteles lett volna, megindítja az engedély nélküli más célú hasznosítás esetére irányadó eljárást.
 

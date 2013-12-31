@@ -2,6 +2,6 @@
 
 (2) Az (1) bekezdésben meghatározott dokumentumok benyújtásától számított 30 napon belül az ingatlanügyi hatóság a talajvédelmi hatósággal közös helyszíni ellenőrzést tart.
 
-(3) Az ingatlanügyi hatóság földvédelmi bírság kiszabása mellett dönt az újrahasznosítás elfogadásáról, vagy – a 6. § (10) bekezdésében meghatározottak szerint – a további munkák előírásáról.
+(3) Az ingatlanügyi hatóság földvédelmi bírság kiszabása mellett dönt az újrahasznosítás elfogadásáról és megállapítja az újrahasznosított terület művelési ágát és minőségi osztályát, vagy ennek hiányában a 6. § (10) bekezdésében meghatározottak szerint a további munkák előírásáról dönt.
 
 (4) Az ingatlanügyi hatóság az (1) bekezdés szerinti újrahasznosítási eljárását megszünteti, valamint a földvédelmi bírság megfizetéséről szóló határozatát visszavonja, ha az újrahasznosítás megvalósulásától az eljárás megindításáig 5 év telt el. Az 5 éves időtartam beálltának bizonyítása az igénybevevőt terheli.

@@ -2,6 +2,8 @@
 
 (1a) A (2) bekezdésben meghatározott nyilvántartás közhiteles hatósági nyilvántartásnak minősül.
 
+(1b) Az (1) bekezdésben megjelölt adatoknak az ingatlan-nyilvántartásban szereplő adatoktól való eltérése esetén az ingatlan-nyilvántartásban szereplő adatokat kell irányadónak tekinteni.
+
 (2) A gyümölcsültetvény-kataszter tartalmazza
 
 a) az ültetvény jellemzőit:

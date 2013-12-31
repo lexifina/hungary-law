@@ -20,4 +20,4 @@ esedékes.
 
 (6) Ha a más célú hasznosítás az engedélyezettnél kisebb területen valósul meg, a járulék megfizetésének esedékessé válása napjától számított 4 éven belül a járulékkülönbözet visszafizetését kérheti az igénybevevő. Ha a más célú hasznosításról szóló engedély időbeli hatálya még nem járt le, az igénybevevőnek a kérelemben nyilatkoznia kell arról, hogy az engedélyezett, de más célra nem hasznosított termőföld más célú hasznosításának jogosultságáról lemond.
 
-(7) A más célú hasznosítást akkor lehet megvalósítottnak tekinteni, ha a más célú hasznosítás engedélyezéséről szóló jogerős határozattal érintett termőföld területe az ingatlan-nyilvántartás alapján már nem minősül termőföldnek.
+(7) A (6) és a (6a) bekezdés alkalmazásában a más célú hasznosítást akkor lehet megvalósítottnak tekinteni, ha a más célú hasznosítás engedélyezéséről szóló jogerős határozattal érintett termőföld területe az ingatlan-nyilvántartás alapján már nem minősül termőföldnek.
