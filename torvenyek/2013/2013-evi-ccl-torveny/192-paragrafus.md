@@ -1,0 +1,3 @@
+192. § A Ht. 90. § (8) bekezdése helyébe a következő rendelkezés lép:
+
+„(8) Az e törvény szerinti hulladékgazdálkodási közszolgáltatási szerződést a települési önkormányzat a hulladékgazdálkodási közszolgáltatási engedéllyel és az OHÜ által kiállított minősítő okirattal rendelkező gazdálkodó szervezettel legkésőbb 2014. július 1-ig megköti. Hulladékgazdálkodási közszolgáltatást 2014. július 1-jétől csak az a nonprofit gazdasági társaság végezhet, amely hulladékgazdálkodási közszolgáltatási engedéllyel és az OHÜ által kiállított minősítő okirattal rendelkezik, valamint a települési önkormányzattal – az e törvény hatálybalépését követően és az OHÜ által kiállított minősítő okirat birtokában – hulladékgazdálkodási közszolgáltatási szerződést kötött.”

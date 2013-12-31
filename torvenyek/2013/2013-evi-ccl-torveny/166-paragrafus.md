@@ -1,0 +1,7 @@
+166. § (1) Az Fttv. 18. § (8) bekezdése helyébe a következő rendelkezés lép:
+
+„(8) Minden részben vagy egészben közpénzek felhasználásával készített, az állami topográfiai térképi adatbázis tartalmát érintő adatállománnyal rendelkezni jogosult köteles – az adatállomány elkészültét követően 30 napon belül – díj-, költség- és térítésmentesen átadni a földmérési és térinformatikai államigazgatási szerv számára az állami topográfiai térképi adatbázis állami alapadat tartalmát érintő adatokat. A földmérési és térinformatikai államigazgatási szerv az adatállományt a kézhezvételt követő 30 napon belül köteles díj-, költség- és térítésmentesen átadni a honvédelem térképészeti támogatásáért felelős szerv részére.”
+
+(2) Az Fttv. 18. § (11) bekezdése helyébe a következő rendelkezés lép:
+
+„(11) A honvédelem térképészeti támogatásáért felelős szerv felszólítására a honvédelmi célú feladatok térinformatikai igényeinek biztosítására minden, az állami topográfiai, valamint a honvédelmi célú térképi adatbázisok aktualizálását érintő adattal rendelkezni jogosult díj-, költség- és térítésmentesen köteles a felszólítás kézhezvételét követő 30 napon belül adatot szolgáltatni. A honvédelem térképészeti támogatásáért felelős szerv a topográfiai térképi adatbázis állami alapadat tartalmát érintő adatokat a kézhezvételt követő 30 napon belül köteles díj-, költség- és térítésmentesen átadni a földmérési és térinformatikai államigazgatási szerv részére.”

@@ -1,0 +1,3 @@
+52. § Az Inytv. a következő 93. §-sal egészül ki:
+
+„93. § Az egyes törvényeknek agrár- és környezetügyi tárgyban történő módosításáról szóló 2013. évi CCL. törvény (a továbbiakban: 3. sz. Módtv.) 34. §-ával megállapított 26. § (1a) bekezdésében foglaltakat a 3. sz. Módtv. 34. §-ának hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.”

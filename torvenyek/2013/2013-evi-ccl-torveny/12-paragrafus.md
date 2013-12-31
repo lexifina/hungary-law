@@ -1,0 +1,3 @@
+12. § A Kvt. 64/A. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A bíróság, az ügyészség, a bűnüldözés és a büntetés-végrehajtás szervei, a nemzetbiztonsági szolgálatok, valamint az adóhatóság, a Központi Statisztikai Hivatal, a műszaki biztonsági, az egészségügyi igazgatási feladatokat ellátó szervek, az élelmiszerlánc-felügyeleti szerv és a talajvédelmi hatóság, az ingatlanügyi hatóság, a vízügyi és vízvédelmi hatóságok és igazgatási szervek, valamint a katasztrófavédelmi szervek feladataik ellátása érdekében – a rájuk vonatkozó törvényekben meghatározott célból és feltételek teljesülése esetén – jogosultak a nyilvántartásba felvett adatok igénylésére a feladataik ellátásához szükséges mértékben.”

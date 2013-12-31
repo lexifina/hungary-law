@@ -1,0 +1,1 @@
+139. § Hatályát veszti az egyes gazdasági és pénzügyi tárgyú törvények megalkotásáról, illetve módosításáról szóló 2010. évi XC. törvény 11. § (3) bekezdés a) pontjában az „ , és be kell számítani az Szja tv. 3. §-ának 75. pontja szerinti éves összes jövedelem megállapításánál” szövegrész.

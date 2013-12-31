@@ -1,0 +1,1 @@
+147. § Az Mkk. 10. § (4) bekezdésében, 16. § (5) bekezdés b) pontjában, 17. § (1) bekezdés a) pontjában, 17. § (2) bekezdés a) pontjában, 17. § (3) bekezdés a) pont aa) alpontjában és a 18. § (6) bekezdés a) pontjában az „ügyfél-azonosító szám” szövegrész helyébe az „ügyfél-azonosító” szöveg lép.

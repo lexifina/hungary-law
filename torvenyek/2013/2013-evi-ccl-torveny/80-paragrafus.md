@@ -1,0 +1,3 @@
+80. § A Tfvt. 14/D. § (6) bekezdése helyébe a következő rendelkezés lép:
+
+„(6) A (4) bekezdés a) pontjában meghatározott esetben az újrahasznosítás elfogadásáról szóló határozatban rendelkezni kell a havária elhárítása érdekében igénybe vett termőföldben okozott kár mértékéről. E bekezdés szerinti okozott kár az ingatlan-nyilvántartás szerinti minőségi osztály és az újrahasznosított termőföld minőségi osztálya szerint számított földvédelmi járulék különbözete. Ha az újrahasznosítást követően művelés alól kivett terület marad vissza, akkor a kár mértéke erre a területre, az igénybevett termőföld ingatlan-nyilvántartás szerinti minőségi osztálya szerint a termőföld végleges más célú hasznosításért fizetendő földvédelmi járulék 100%-a.”

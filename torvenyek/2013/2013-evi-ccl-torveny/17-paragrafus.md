@@ -1,0 +1,15 @@
+17. § (1) A Kvt. 102/B. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Jogerősen megállapított környezetkárosítás esetén a környezetvédelmi hatóság – a kizárólag a vizeket érintő környezetkárosodás esetén a vízvédelmi hatóság – a helyreállítási intézkedés megtételére kötelező határozatában elidegenítési és terhelési tilalmat rendel el a helyreállítási intézkedés megtételére kötelezett személy azon ingatlanaira, amelyek a helyreállítási intézkedés költségeinek előreláthatólag finanszírozandó összegére kellő fedezetet nyújtanak.”
+
+(2) A Kvt. 102/B. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Az (1) bekezdés szerinti határozat alapján a környezetvédelmi hatóság – a kizárólag a vizeket érintő környezetkárosodás esetén a vízvédelmi hatóság – megkeresi az ingatlanügyi hatóságot az elidegenítési és terhelési tilalom ingatlan-nyilvántartásban történő feljegyzése, ha pedig a kötelezett a szükséges helyreállítási munkákat elvégezte, a feljegyzés törlése végett.”
+
+(3) A Kvt. 102/B. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Ha a környezetkárosodást megelőző, illetve a helyreállítási intézkedés költségeit a környezethasználó helyett a központi költségvetés finanszírozta, a környezetvédelmi hatóság – a kizárólag a vizeket érintő környezetkárosodás esetén a vízvédelmi hatóság – a finanszírozott költségek összegének erejéig a környezethasználó ingatlanvagyonára a Magyar Állam javára jelzálogjog, ennek biztosítására pedig – az (1) bekezdés alapján már elidegenítési és terhelési tilalommal terhelt ingatlanokat kivéve – elidegenítési és terhelési tilalom bejegyezését rendeli el. Ha a környezethasználó ingatlanvagyonának értéke a központi költségvetés által finanszírozott összegre nem nyújt kellő fedezetet, a környezetvédelmi hatóság – a kizárólag a vizeket érintő környezetkárosodás esetén a vízvédelmi hatóság – a környezethasználó ingó vagyonára is elrendeli a jelzálogjog bejegyzését.”
+
+(4) A Kvt. 102/B. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) A környezetvédelmi hatóság – a kizárólag a vizeket érintő környezetkárosodás esetén a vízvédelmi hatóság – a környezethasználóval szemben a költségek megtérítését az intézkedések befejezésétől vagy a környezethasználó azonosításától számított öt éven belül követelheti, attól függően, hogy melyik következik be később.”

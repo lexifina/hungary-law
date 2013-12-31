@@ -1,0 +1,3 @@
+88. § A Tfvt. IV. Fejezetének címe helyébe a következő cím lép:
+
+„A GYÜMÖLCS TERMŐHELYI KATASZTERI ELJÁRÁS, VALAMINT A GYÜMÖLCSÜLTETVÉNY TELEPÍTÉSÉNEK ENGEDÉLYEZÉSE ÉS NYILVÁNTARTÁSA”
