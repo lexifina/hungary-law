@@ -20,6 +20,6 @@ d) természeti emlék.
 
 (6) Nemzeti park, tájvédelmi körzet létesítésére kizárólag a miniszter jogosult.
 
-(7) Valamennyi nemzeti park területét – a nemzetközi előírásokkal összhangban a miniszter által meghatározott elvek szerint – természeti, kezelt és bemutató övezeti kategóriákba kell besorolni.
+(7) Valamennyi nemzeti park területét – a nemzetközi előírásokkal összhangban a miniszter által meghatározott elvek szerint – természeti övezetbe, természetkímélő hasznosítás övezetébe és szolgáltató övezetbe kell besorolni.
 
 (8) Az (1) bekezdés a)–c) pontjaiban meghatározott országos jelentőségű védett természeti területet, vagy annak meghatározott részét a miniszter tudományos célokra kijelölheti (tudományos rezervátum). E terület fokozottan védetté nyilvánításáról a kijelölő jogszabályban kell rendelkezni.

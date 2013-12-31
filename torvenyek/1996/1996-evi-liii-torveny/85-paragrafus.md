@@ -40,7 +40,7 @@
 
 7. az európai közösségi jogi aktusokban meghatározott védettségi kategóriába, illetve nemzetközi egyezmény hatálya alá tartozó növény- és állatfajok közül azokat, amelyek kiemelt oltalma szükséges, és az e fajokra vonatkozó részletes szabályokat;
 
-8. a nemzeti parkok területén a természeti, kezelt és bemutató övezeti kategóriákba sorolást, illetve a besorolás egységes elveit;
+8. a nemzeti parkok területén a természeti, a természetkímélő hasznosítás és a szolgáltató övezeti kategóriákba sorolást, a besorolás egységes elveit, valamint az egyes övezetekre vonatkozó általános természetvédelmi előírásokat;
 
 9. nemzeti park, tájvédelmi körzet, természetvédelmi terület vagy azok meghatározott részének tudományos rezervátummá kijelölését;
 
