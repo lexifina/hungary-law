@@ -1,5 +1,3 @@
-## 1. § Az önkormányzati és területfejlesztési miniszter mint a fejlesztéspolitika irányításáért felelős, valamint a VÁTI Magyar Regionális Fejlesztési és Urbanisztikai Közhasznú Társaság (a továbbiakban: VÁTI Kht.) felügyeletét ellátó miniszter a 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alap, valamint az Előcsatlakozási Támogatási Eszköz és az Európai Szomszédsági és Partnerségi Eszköz pénzügyi alapok egyes, a területi együttműködéshez kapcsolódó programjaiból származó támogatások hazai felhasználásának intézményeiről szóló 49/2007. (III. 26.) Korm. rendelet 1. § (3) bekezdésének a)–b), valamint e)–h) pontjában megjelölt operatív programok tekintetében a Nemzeti Fejlesztési Ügynökség mint irányító hatóság, illetve az 1. § (3) bekezdésének c)–d), valamint i)–k) pontjában megjelölt operatív programok tekintetében a Nemzeti Fejlesztési Ügynökség mint nemzeti hatóság feladatainak végrehajtásában történő közreműködésre a VÁTI Kht.-t jelöli ki.
-
 2. § (1) Ez a rendelet a kihirdetését követő harmadik napon lép hatályba.
 
 (2) Ez a rendelet a következő közösségi rendeletek végrehajtásához szükséges rendelkezéseket állapít meg:
