@@ -1,0 +1,1 @@
+## 4. A 2007 utáni EU-támogatásokhoz kapcsolódó tervezés és EU-nagyberuházások előkészítése fejezeti kezelésű előirányzat felhasználásának szabályairól szóló 29/2005. (VIII. 22.) TNM rendelet módosítása
