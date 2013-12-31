@@ -20,8 +20,8 @@
 
 (11) Ha a rendőrség értesül a hatósági jelzés megtalálásáról, úgy haladéktalanul értesíti bármely közlekedési igazgatási hatóságot, amely gondoskodik a találás tényének a nyilvántartáson történő átvezetéséről.
 
-(12)[^43] A hatósági jelzés elvesztésének, eltulajdonításának, megsemmisülésének, illetve megtalálásának a közlekedési igazgatási hatósághoz történő bejelentéséről szóló jegyzőkönyvet okmánytári alapiratként a közlekedési igazgatási hatóság a Hivatalnak továbbítja. Az elektronikus úton kérelmezett utángyártás esetében az ügyfél elektronikus úton tett, a regisztrációs matricára is kiterjedő nyilatkozata kerül a Hivatalnak továbbításra.
+(12)[^72] A hatósági jelzés elvesztésének, eltulajdonításának, megsemmisülésének, illetve megtalálásának a közlekedési igazgatási hatósághoz történő bejelentéséről szóló jegyzőkönyvet okmánytári alapiratként a közlekedési igazgatási hatóság a Hivatalnak továbbítja. Az elektronikus úton kérelmezett utángyártás esetében az ügyfél elektronikus úton tett, a regisztrációs matricára is kiterjedő nyilatkozata kerül a Hivatalnak továbbításra.
 
 (13) A közúti közlekedési szolgáltatást végző üzemben tartónak (tulajdonosnak) kiadott, különleges jellegű, egyénileg kiválasztott, illetve egyedileg előállított rendszámtábla igazgatási szolgáltatási díj megfizetése ellenében, a Hivatal engedélye alapján fehér színben utángyártható. A különleges jellegű rendszámtáblát az utángyártott rendszámtábla átadásával egyidejűleg az 57. § (8) bekezdése szerint be kell vonni.
 
-[^43]: A 75. § (12) bekezdése az 5/2013. (I. 16.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^72]: A 75. § (12) bekezdése az 5/2013. (I. 16.) Korm. rendelet 14. §-ával megállapított szöveg.

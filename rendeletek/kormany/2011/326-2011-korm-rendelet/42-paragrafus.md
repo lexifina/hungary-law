@@ -1,4 +1,4 @@
-## 41/A. §[^21] A Hivatal a 26. § (3) bekezdésében, a 27. § (2) és (3) bekezdésében, továbbá amennyiben a vezetői engedély nem került a hatóság birtokába, akkor a 36. § (9) bekezdésében meghatározott esetekben az okmány érvénytelensége, megkerülése tényének a nyilvántartáson történő átvezetésével egyidejűleg gondoskodik a figyelmeztető jelzés SIS II-ben történő – külön jogszabályban foglaltak szerinti – elhelyezéséről, illetve törléséről. Az engedély-nyilvántartásban hamis vagy meghamisított érvénytelenségi okkal szereplő vezetői engedélyről akkor kell figyelmeztető jelzést továbbítani a SIS II-be, ha a hamis vagy meghamisított okmány elvétele, lefoglalása vagy bevonása tényének engedély-nyilvántartásba történő bejegyzésére nem került sor.
+## 41/A. §[^36] A Hivatal gondoskodik a figyelmeztető jelzés SIS II-ben történő elhelyezéséről vagy törléséről az okmány érvénytelensége vagy megkerülése tényének a nyilvántartáson történő átvezetésével egyidejűleg, a 26. § (3) bekezdésében, a 27. § (2) és (3) bekezdésében, továbbá ha a vezetői engedély nincs a hatóság birtokában, akkor a 36. § (9) bekezdésében meghatározott esetekben. Az engedély-nyilvántartásban hamis vagy meghamisított érvénytelenségi okkal szereplő vezetői engedélyről akkor kell figyelmeztető jelzést továbbítani a SIS II-be, ha a hamis vagy meghamisított okmány elvétele, lefoglalása vagy bevonása tényét az engedély-nyilvántartásba nem jegyezték be.
 
 ## IV. Fejezet
 
@@ -8,19 +8,19 @@
 
 42. § (1) A közúti közlekedés szabályairól szóló rendeletben meghatározott járművel – kivéve a trolibuszt, a villamost, a kerékpárt, a két- és háromkerekű segédmotoros kerékpárt, az állati erővel vont járművet, a kézikocsit – közúti forgalomban akkor lehet részt venni, ha forgalomba helyezték, vagy ideiglenes forgalomban tartását engedélyezték.
 
-(2) A járművet akkor lehet forgalomba helyezni, ha
+(2)[^37] A járművet akkor lehet forgalomba helyezni, ha
 
-a) a tulajdonjog megszerzését eredeti okirattal vagy eredeti hitelesített másolatával igazolták, vagy, ha az nem magyar nyelven került kiállításra, annak hiteles, magyar nyelvű fordítását a kérelemhez csatolták,
+a) a tulajdonjog megszerzését eredeti okirattal vagy annak hiteles másolatával igazolták vagy, ha azt nem magyar nyelven állították ki, annak hiteles, magyar nyelvű fordítását a kérelemhez csatolták,
 
-b) a kötelező gépjármű-felelősségbiztosítás meglétét, vagy a gépjármű-felelősségbiztosítás alóli mentességet igazolták,
+b) a kötelező gépjármű-felelősségbiztosítás meglétét vagy a gépjármű-felelősségbiztosítás alóli mentességet igazolták,
 
-c) a regisztrációs adóról szóló törvény hatálya alá tartozó járművek esetében a vámhatóság által kiállított regisztrációs adóigazolást bemutatták, amennyiben az papír alapon kiállításra került és annak valódiságát a rendelkezésre álló nyilvántartásban a közlekedési igazgatási hatóság ellenőrizte,
+c) a regisztrációs adóról szóló törvény hatálya alá tartozó járművek esetében a vámhatóság adatbázisában a regisztrációs adó megfizetésének megtörténtét a közlekedési igazgatási hatóság elektronikus úton ellenőrizte,
 
-d) a jármű műszaki alkalmasságát a közlekedési hatóság megállapította, és
+d) a közlekedési hatóság a járműre forgalomba helyezési engedélyt adott ki, megállapította a jármű műszaki adatait és műszaki alkalmasságát, és
 
 e) a jármű üzemben tartója Magyarország területén rendelkezik lakóhellyel vagy székhellyel (telephellyel).
 
-(2a)[^22] Ha a kérelem elbírálásához szükséges és az érintett gazdasági társaság a képviselőjének a közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy az ügyvéd által ellenjegyzett aláírás-mintáját a cégbírósághoz benyújtotta és ezt a tényt a cégjegyzék tartalmazza, a Hivatal az iratot, valamint a gazdasági társaság cégkivonatát a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
+(2a)[^38] Ha a kérelem elbírálásához szükséges és az érintett gazdasági társaság a képviselőjének a közjegyzői alárás-hitelesítéssel ellátott címpéldányát vagy az ügyvéd által ellenjegyezett alárás-mintáját a cégbírósághoz benyújtotta és ezt a tényt a cégjegyzék tartalmazza, a Hivatal az iratot, valamint a gazdasági társaság cégkivonatát a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
 
 (3) A (2) bekezdésben foglaltak igazolása mellett, a járművek forgalomba helyezésének további feltételei:
 
@@ -36,7 +36,15 @@ c) az új jármű forgalmazója részére a közlekedési hatóság engedélyezt
 
 d) egyéb új jármű esetében járműkísérő lapot állítottak ki, vagy elvégezték a jármű előzetes eredetiségvizsgálatát.
 
-(4) Ha más EGT-államból behozott használt jármű forgalomba helyezése során nem áll rendelkezésre a nem harmonizált forgalmi engedély eredeti vagy kiállító hatóság által hitelesített másolati példánya, vagy ha a harmonizált forgalmi engedély I. és II. részből áll, és a II. rész hiányzik, vagy I. részből áll, de az nem az eredeti példány, a forgalomba helyezést megelőzően a származás-ellenőrzést el kell végezni.
+(4)[^39] A forgalomba helyezést megelőzően el kell végezni a jármű származás-ellenőrzését, ha a más EGT-államból behozott használt jármű forgalomba helyezése során
+
+a) nem áll rendelkezésre a nem harmonizált forgalmi engedély eredeti vagy a kiállító hatóság által hitelesített másolati példánya, vagy
+
+b) a harmonizált forgalmi engedély
+
+ba) I. és II. részből áll, és a II. rész hiányzik, vagy
+
+bb) I. részből áll, de az nem az eredeti okmány.
 
 (5) A jármű származását igazolnia kell
 
@@ -58,7 +66,7 @@ c) a jármű műszaki alkalmasságát tanúsító, a közlekedési hatóság ál
 
 (9) A lassú jármű, annak pótkocsija, valamint a négykerekű segédmotoros kerékpár forgalomba helyezése esetén „igazolólap” megnevezést tartalmazó forgalmi engedélyt kell kiadni.
 
-(10) A forgalmi engedély, az ideiglenes forgalomban tartási engedély, a törzskönyv és a rendszámtábla, valamint az új típusú rendszámtáblához kiadott regisztrációs matrica – az e rendeletben meghatározottak kivételével – arra a járműre érvényes, amelyre azt kiadták, vagy engedélyezték.
+(10)[^40] A forgalmi engedély, az ideiglenes forgalomban tartási engedély, a törzskönyv és a rendszámtábla, valamint a regisztrációs matrica arra a járműre érvényes, amelyre azt kiadták, vagy engedélyezték.
 
 (11) A közlekedési igazgatási hatóság a külföldi hatóság által kiállított forgalmi engedélyeket és hatósági jelzéseket a forgalomba helyezés során bevonja, és a keletkezett alapirattal a Hivatalnak megküldi.
 
@@ -66,5 +74,8 @@ c) a jármű műszaki alkalmasságát tanúsító, a közlekedési hatóság ál
 
 (13) A jármű forgalomba helyezése iránti, vagy a már forgalomba helyezett járművel kapcsolatos eljárások során a közlekedési igazgatási hatóság az ügyfél kérelmének megfelelő adattartalmú elektronikus kérelmet állít elő.
 
-[^21]: A 41/A. §-t a 15/2013. (I. 28.) Korm. rendelet 38. § (3) bekezdése iktatta be.
-[^22]: A 42. § (2a) bekezdését a 355/2012. (XII. 13.) Korm. rendelet 44. § (1) bekezdése iktatta be.
+[^36]: A 41/A. §-t a 15/2013. (I. 28.) Korm. rendelet 38. § (3) bekezdése iktatta be, az 544/2013. (XII. 30.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^37]: A 42. § (2) bekezdése az 544/2013. (XII. 30.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^38]: A 42. § (2a) bekezdését a 355/2012. (XII. 13.) Korm. rendelet 44. § (1) bekezdése iktatta be.
+[^39]: A 42. § (4) bekezdése az 544/2013. (XII. 30.) Korm. rendelet 16. § (3) bekezdésével megállapított szöveg.
+[^40]: A 42. § (10) bekezdése az 544/2013. (XII. 30.) Korm. rendelet 16. § (4) bekezdésével megállapított szöveg.

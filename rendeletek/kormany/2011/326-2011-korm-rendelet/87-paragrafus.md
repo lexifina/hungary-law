@@ -4,10 +4,10 @@
 
 (3) A közlekedési igazgatási hatóság a nyilvántartásba vétellel egyidejűleg nem állít ki forgalmi engedélyt, ha a kérelmező nem tudja igazolni a kötelező gépjármű-felelősségbiztosítás meglétét, vagy a jármű műszaki alkalmasságát. Ebben az esetben a bemutatott forgalmi engedély „Hivatalos feljegyzések” rovatában ezt jelölni kell, és az ügyfelet hiánypótlásra kell felszólítani.
 
-(4) Amennyiben a járműnyilvántartás szerinti tulajdonos bejelenti, hogy a járművet elidegenítette vagy a közlekedési igazgatási hatóság egyéb okból észleli a változást, és az új tulajdonos a bejelentési kötelezettségének a jogszabályban megjelölt határidőn belül nem tett eleget
+(4)[^84] A közlekedési igazgatási hatóság a járművet hivatalból, határozattal kivonja a forgalomból, és ezt a tényt a döntés jogerőre emelkedését követően nyilvántartásba bejegyzi, ha a nyilvántartás szerinti tulajdonos bejelenti, hogy a járművet elidegenítette vagy a közlekedési igazgatási hatóság egyéb okból észleli ezt a változást, és
 
-a) és azt a bejelentésre történő felhívás kézhezvételét követően öt napon belül nem pótolja, vagy az utólagos bejelentés során hitelt érdemlően nem igazolja, hogy a jármű tulajdonjogában bekövetkezett változás bejelentési kötelezettségének önhibáján kívüli okból nem tudott eleget tenni, vagy
+a) az új tulajdonos a bejelentési kötelezettségének a jogszabályban megjelölt határidőn belül nem tett eleget, valamint a bejelentést az arra történő felhívás kézhezvételét követően 5 napon belül nem pótolja, vagy az utólagos bejelentés során hitelt érdemlően nem igazolja, hogy a jármű tulajdonjogában bekövetkezett változás bejelentési kötelezettségének önhibáján kívüli okból nem tudott eleget tenni, vagy
 
-b) és az új tulajdonos személye nem állapítható meg,
+b) az új tulajdonos személye nem állapítható meg.
 
-a közlekedési igazgatási hatóság a járművet hivatalból, határozattal kivonja a forgalomból és azt a nyilvántartásba bejegyzi.
+[^84]: A 87. § (4) bekezdése az 544/2013. (XII. 30.) Korm. rendelet 32. §-ával megállapított szöveg.

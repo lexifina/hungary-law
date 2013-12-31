@@ -20,7 +20,7 @@ c) az E betűjelű ideiglenes rendszámtábla, az ideiglenes forgalomban tartás
 
 d) személyes megjelenés esetén az ügyfél, képviseleti eljárás esetén a meghatalmazott személyazonosságát igazoló okmányt, illetve képviseleti eljárás esetén meghatalmazást, valamint
 
-e)[^87] jogi személy, jogi személyiséggel nem rendelkező gazdasági társaság esetében
+e)[^134] jogi személy, jogi személyiséggel nem rendelkező gazdasági társaság esetében
 
 ea) közjegyzői aláírás-hitelesítéssel ellátott címpéldányt, avagy ennek közjegyző által hitelesített másolatát,
 
@@ -178,7 +178,7 @@ IV. A járművek forgalomból történő kivonásához szükséges okmányok
 
 A kérelem benyújtásakor be kell mutatni:
 
-a) a járműhöz kiadott régi vagy új típusú forgalmi engedélyt,
+a)[^135]
 
 b) az igazgatási szolgáltatási díj befizetéséről szóló igazolást,
 
@@ -390,7 +390,8 @@ b) a személyi azonosítót és a lakcímet igazoló hatósági igazolványt,
 
 c) külföldi esetén a szokásos tartózkodási hely országát igazoló okmányt,
 
-d)[^88]
+d)[^136]
 
-[^87]: A 19. melléklet I. rész 2. pont e) alpontja a 355/2012. (XII. 13.) Korm. rendelet 44. § (2) bekezdésével megállapított szöveg.
-[^88]: A 19. melléklet VI. fejezet B) pont d) alpontját az 5/2013. (I. 16.) Korm. rendelet 23. § (2) bekezdés b) pontja hatályon kívül helyezte.
+[^134]: A 19. melléklet I. rész 2. pont e) alpontja a 355/2012. (XII. 13.) Korm. rendelet 44. § (2) bekezdésével megállapított szöveg.
+[^135]: A 19. melléklet IV. fejezet 1. pont a) alpontját az 544/2013. (XII. 30.) Korm. rendelet 43. § g) pontja hatályon kívül helyezte.
+[^136]: A 19. melléklet VI. fejezet B) pont d) alpontját az 5/2013. (I. 16.) Korm. rendelet 23. § (2) bekezdés b) pontja hatályon kívül helyezte.

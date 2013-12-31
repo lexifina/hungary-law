@@ -1,16 +1,16 @@
 ## 85. § A forgalomból végleg kivont jármű törzskönyvét érvényteleníteni kell.
 
-86. § (1) A törzskönyv kiadásáig a jármű tulajdonjogát igazolhatja:
+86. § (1)[^83] A törzskönyv kiadásáig a jármű tulajdonjogát igazolhatja:
 
-a) a jármű kereskedelmi értékesítéséről szóló – a jármű azonosító adatait tartalmazó – számla,
+a) a jármű kereskedelmi értékesítéséről szóló, a jármű azonosító adatait tartalmazó számla,
 
-b) a harmadik országból behozott járműveknél – a magáncélra ideiglenesen behozott járművek kivételével – a külföldön már forgalomba helyezett használt járműveknél a külföldi hatóság által a forgalomba helyezéskor kiadott eredeti vagy hitelesített okmányok,
+b) a külföldön már forgalomba helyezett járműveknél a külföldi hatóság által a forgalomba helyezéskor kiadott eredeti vagy hitelesített okmányok,
 
 c) az árverési jegyzőkönyv,
 
 d) a gyártó számlája,
 
-e) a jogerős bírói határozat,
+e) a jogerős bírósági határozat,
 
 f) a hagyatékátadó végzés,
 
@@ -23,3 +23,5 @@ i) a fődarabok megvásárlásáról szóló számlák és az összeépítési e
 j) a járműkísérő lap.
 
 (2) Ha a tulajdonjog igazolásához több okmány is szükséges, azt a közlekedési igazgatási hatóság együttesen is megkövetelheti. A tulajdonjog igazolásához – az (1) bekezdésben meghatározott – okmány eredeti vagy hitelesített példányát, illetve, ha az nem magyar nyelven került kiállításra, annak hiteles, magyar nyelvű fordítását is a kérelemhez csatolni kell.
+
+[^83]: A 86. § (1) bekezdése az 544/2013. (XII. 30.) Korm. rendelet 31. §-ával megállapított szöveg.

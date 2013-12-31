@@ -1,4 +1,4 @@
-## 78. § A műszaki érvényesség számítógépes gépjármű nyilvántartásból történő megállapítása esetén az érvényesség lejárati határnapnak az érvényesség hónapjának utolsó napját kell bejegyezni.
+## 78. §[^77] A műszaki érvényességnek a nyilvántartásból történő megállapítása esetén az érvényesség lejárati határnapjaként az érvényesség hónapjának utolsó napját kell bejegyezni.
 
 ## 18. Járműkísérő lap
 
@@ -11,3 +11,5 @@
 (4) A gépjármű-forgalmazók a járműkísérő lapok igénylése iránti kérelmet a kormányzati portálon keresztül elektronikus úton is előterjeszthetik.
 
 (5) A Hivatal a nyilvántartásban kezelt járműkísérő lap adatainak ellenőrzése alapján a feltárt adathibák megszüntetése érdekében intézkedik a nyilvántartás adatainak javításáról.
+
+[^77]: A 78. § az 544/2013. (XII. 30.) Korm. rendelet 28. §-ával megállapított szöveg.

@@ -24,6 +24,6 @@ f) a 44. §-ban felsorolt járművek tulajdonosa (üzemben tartója) részére M
 
 (5) Az M betűjelű ideiglenes rendszámtáblát az ügyfél kérelme alapján a közlekedési igazgatási hatóság a Hivataltól rendeli meg.
 
-(6)[^36] Az SP betűjelű ideiglenes rendszámtáblát az ügyfél kérelme alapján a közlekedési igazgatási hatóság a közúti járművek műszaki megvizsgálásáról szóló miniszteri rendelet alapján versenycélú járműnek minősített versenyzési célra használható járművekre (a továbbiakban: versenyjármű) a közlekedési hatóság által kiállított Műszaki Adatlap alapján adja ki.
+(6)[^60] Az SP betűjelű ideiglenes rendszámtáblát az ügyfél kérelme alapján a közlekedési igazgatási hatóság a közúti járművek műszaki megvizsgálásáról szóló miniszteri rendelet alapján versenycélú járműnek minősített versenyzési célra használható járművekre (a továbbiakban: versenyjármű) a közlekedési hatóság által kiállított Műszaki Adatlap alapján adja ki.
 
-[^36]: A 63. § (6) bekezdését a 228/2012. (VIII. 23.) Korm. rendelet 7. § (4) bekezdése iktatta be.
+[^60]: A 63. § (6) bekezdését a 228/2012. (VIII. 23.) Korm. rendelet 7. § (4) bekezdése iktatta be.

@@ -6,7 +6,7 @@
 
 ## 1. 14. életév az „M” kategóriába tartozó jármű vezetésére.
 
-## 2.[^78] 14. életév az „AM” kategóriába tartozó jármű vezetésére
+## 2.[^124] 14. életév az „AM” kategóriába tartozó jármű vezetésére
 
 ## 3. 16. életév a „T” és a „K” kategóriába tartozó jármű vezetésére.
 
@@ -32,7 +32,7 @@
 
 ## 10.2. az „A” kategóriába tartozó motorkerékpár vezetésére, előzetes motorkerékpár vezetési gyakorlat hiányában.
 
-## 11.[^79] A „C” kategóriába tartozó gépjármű vezetésére jogosító engedély a 18. életév betöltésétől, a „D” kategóriába tartozó gépjármű vezetésére jogosító engedély a 21. életév betöltésétől is kiadható kizárólag az alábbi járművek vonatkozásában:
+## 11.[^125] A „C” kategóriába tartozó gépjármű vezetésére jogosító engedély a 18. életév betöltésétől, a „D” kategóriába tartozó gépjármű vezetésére jogosító engedély a 21. életév betöltésétől is kiadható kizárólag az alábbi járművek vonatkozásában:
 
 ## a) a tűzoltóság által, illetve a közrend fenntartására használt járművek;
 
@@ -56,17 +56,17 @@
 
 ## 5. A „C+E” kategóriájú vezetői engedélyek érvényesek „D+E” kategóriára is, amennyiben a vezetői engedély birtokosa jogosult „D” kategóriájú járművek vezetésére.
 
-## 6.[^80] A „C+E” kategóriájú vezetői engedélyek a „C1+E” kategóriájú járműszerelvényekre, a „D+E” kategóriájú vezetői engedélyek a „D1+E” kategóriájú járműszerelvényekre is érvényesek.
+## 6.[^126] A „C+E” kategóriájú vezetői engedélyek a „C1+E” kategóriájú járműszerelvényekre, a „D+E” kategóriájú vezetői engedélyek a „D1+E” kategóriájú járműszerelvényekre is érvényesek.
 
 ## 7. Bármely nemzetközi kategóriára megszerzett vezetői engedély érvényes az AM kategóriájú járművekre.
 
 ## 8. Az „A2” alkategóriájú vezetői engedélyek az „A1” alkategóriára is érvényesek.
 
-## 9.[^81] Az „A” kategóriájú vezetői engedély az „A1”, „A2” alkategóriákra, a „B” kategóriájú vezetői engedély a „B1” alkategóriára, a „C” kategóriájú vezetői engedély a „C1”, a „D” kategóriájú vezetői engedély a „D1” alkategóriára is érvényes.
+## 9.[^127] Az „A” kategóriájú vezetői engedély az „A1”, „A2” alkategóriákra, a „B” kategóriájú vezetői engedély a „B1” alkategóriára, a „C” kategóriájú vezetői engedély a „C1”, a „D” kategóriájú vezetői engedély a „D1” alkategóriára is érvényes.
 
 ## 10. A jártassági feltételek teljesítésének kell tekinteni azt az esetet is, ha a járművezető a feltételül szabott járműkategóriára érvényes vizsgával rendelkezik.
 
-8. melléklet a 326/2011. (XII. 28.) Korm. rendelethez[^82]
+8. melléklet a 326/2011. (XII. 28.) Korm. rendelethez[^128]
 
 ## A kártya formátumú vezetői engedélybe bejegyezhető kódok jegyzéke
 
@@ -302,6 +302,8 @@
 
 45 Kizárólag oldalkocsis motorkerékpárok
 
+46. Csak tricikli
+
 50 Meghatározott járműre/alvázszámra vonatkozó korlátozás
 
 51 Meghatározott járműre/forgalmi rendszámra vonatkozó korlátozás
@@ -312,25 +314,41 @@
 
 71 A vezetői engedély másodpéldánya
 
-72 „A” kategóriás, legfeljebb 125 cm3 hengerűrtartalmú és legfeljebb 11 kW teljesítményű hajtómotorral ellátott motorkerékpárokra korlátozva (A1)
+72.
 
-73 „B” kategóriás három- vagy négykerekű járművekre korlátozva (B1)
+73. „B” kategóriájú, négykerekű gépi meghajtású járművekre korlátozva (B1)
 
-74 „C” kategóriás, legfeljebb 7500 kg megengedett legnagyobb össztömegű járművekre korlátozva (C1)
+74-77.
 
-75 „D” kategóriás, a vezető ülésén kívül legfeljebb 16 üléssel rendelkező járművekre korlátozva (D1)
+78. Automata sebességváltóval rendelkező járművekre korlátozva
 
-76 „C1” alkategóriába tartozó gépkocsiból és nehéz pótkocsiból álló járműszerelvény, feltéve, hogy a járműszerelvény megengedett legnagyobb együttes össztömege nem haladja meg a 12 000 kg-ot, és a pótkocsi megengedett legnagyobb össztömege nem haladja meg a vonó jármű saját tömegét (C1+E)
+79. A zárójelben megjelölt tulajdonságokkal rendelkező járművekre korlátozva
 
-77 a „D1” alkategóriába tartozó gépkocsiból és nehéz pótkocsiból álló járműszerelvény megengedett legnagyobb együttes össztömege nem haladja meg a 12 000 kg-ot, és a pótkocsi megengedett legnagyobb össztömege nem haladja meg a vonó jármű saját tömegét, továbbá a pótkocsit nem személyszállításra használják. (D1+E)
+79.01. Kétkerekű, oldalkocsi vagy oldalkocsi nélküli járművekre korlátozva
 
-78 csak tengelykapcsoló-pedál (vagy A és A1 kategória esetében kézzel működtetett sebességváltókar) nélküli járművekre érvényes
+79.02. AM kategóriájú, háromkerekű vagy könnyű négykerekű járművekre korlátozva
 
-79 A zárójelben megjelölt tulajdonságokkal rendelkező járművekre korlátozva (a direktíva szerint)
+79.03. Triciklire korlátozva
+
+79.04. Tricikli és 750 kg-ot meg nem haladó legnagyobb megengedett össztömegű pótkocsi szerelvényére korlátozva
+
+79.05. Tricikli és 750 kg-ot meg nem haladó legnagyobb megengedett össztömegű pótkocsi szerelvényére korlátozva
+
+79.06. A1 kategóriájú, 0,1 kW/kg-ot meghaladó teljesítmény/tömeg arányú motorkerékpárok
+
+79.07. BE kategóriájú járművek, melyek pótkocsijának megengedett legnagyobb össztömege meghaladja a 3500 kg-ot.
+
+80. A kategóriájú motoros tricikli vezetésére jogosító engedéllyel rendelkező, 24 év alatti vezetőkre korlátozva
+
+81. A kategóriájú motorkerékpár vezetésére jogosító engedéllyel rendelkező, 21 év alatti vezetőkre korlátozva.
+
+90. A jármű átalakításait meghatározó kódokkal együtt használandó kódok.
 
 95. A 2003/59/EK irányelvben előírt szakmai alkalmassági kötelezettségnek megfelelő szakmai alkalmassági bizonyítvánnyal (Gépjárművezető Képesítési Igazolvány) rendelkező gépjárművezető, …-ig [pl. 95(01.01.12)]
 
-96. A 3500 kg megengedett legnagyobb össztömegű gépkocsiból és 750 kg megengedett legnagyobb össztömeget meg nem haladó (könnyű) pótkocsiból álló járműszerelvény (amelynek megengedett legnagyobb együttes össztömege legfeljebb 4250 kg) vezetésére jogosító jártassági és magatartási vizsgát letevő gépjárművezető.
+96. 96. B kategóriájú járművek 750 kg-ot meghaladó megengedett legnagyobb össztömegű pótkocsival összekapcsolva, feltéve, hogy az így kialakított járműszerelvény legnagyobb megengedett össztömege 3500 kg és 4250 kg közötti.
+
+97. Nem vezethet olyan C1 kategóriájú járművet, amely a közúti közlekedésben használt menetíró készülékekről szóló, 1985. december 20-i 3821/85/EGK tanácsi rendelet hatálya alá tartozik.
 
 100 Gépjárművezetésre egészségügyi szempontból alkalmatlan
 
@@ -372,8 +390,8 @@
 
 270 A Magyar Honvédség kezelésében lévő autóbusz vezetéséhez külön jogszabály alapján megszerzett vezetési jogosultság, a 21. életév betöltését követően egyéb autóbuszok vezetésére is jogosít
 
-[^78]: A 7. melléklet I. fejezet 2. pontja az 5/2013. (I. 16.) Korm. rendelet 22. § f) pontja szerint módosított szöveg.
-[^79]: A 7. melléklet I. fejezet 11. pont záró szövegrésze az 5/2013. (I. 16.) Korm. rendelet 22. § g) pontja szerint módosított szöveg.
-[^80]: A 7. melléklet II. pont 6. alpontja az 5/2013. (I. 16.) Korm. rendelet 21. § (2) bekezdésével megállapított szöveg.
-[^81]: A 7. melléklet II. pont 9. alpontja az 5/2013. (I. 16.) Korm. rendelet 21. § (2) bekezdésével megállapított szöveg.
-[^82]: A 8. melléklet a 228/2012. (VIII. 23.) Korm. rendelet 7. § (18) bekezdése szerint módosított szöveg.
+[^124]: A 7. melléklet I. fejezet 2. pontja az 5/2013. (I. 16.) Korm. rendelet 22. § f) pontja szerint módosított szöveg.
+[^125]: A 7. melléklet I. fejezet 11. pont záró szövegrésze az 5/2013. (I. 16.) Korm. rendelet 22. § g) pontja szerint módosított szöveg.
+[^126]: A 7. melléklet II. pont 6. alpontja az 5/2013. (I. 16.) Korm. rendelet 21. § (2) bekezdésével megállapított szöveg.
+[^127]: A 7. melléklet II. pont 9. alpontja az 5/2013. (I. 16.) Korm. rendelet 21. § (2) bekezdésével megállapított szöveg.
+[^128]: A 8. melléklet a 228/2012. (VIII. 23.) Korm. rendelet 7. § (18) bekezdése, az 544/2013. (XII. 30.) Korm. rendelet 43. § b) pontja szerint módosított szöveg.

@@ -1,6 +1,6 @@
 16. § (1) Járművezetésre jogosító okmányt a közlekedési igazgatási hatóság nem adhat annak, aki járművezetésre közlekedésbiztonsági szempontból alkalmatlan. E rendelet alkalmazásában közlekedésbiztonsági szempontból járművezetésre alkalmatlannak kell tekinteni azt a személyt,
 
-a) akit a bíróság vagy a szabálysértési hatóság a járművezetéstől jogerősen eltiltott, a határozatban meghatározott ideig, kivéve a 11. § (2) bekezdésében vagy a 37. §-ban szabályozott eseteket,
+a)[^15] akit a bíróság vagy a szabálysértési hatóság a járművezetéstől jogerősen eltiltott, a határozatban meghatározott ideig, kivéve a 37. §-ban szabályozott eseteket,
 
 b) akinek kényszergyógyítását vagy kényszergyógykezelését a bíróság elrendelte, annak időtartamára,
 
@@ -23,3 +23,5 @@ b) új járművezetői vizsgához,
 c) egészségi alkalmasság vagy
 
 d) a pályaalkalmasság igazolásához
+
+[^15]: A 16. § (1) bekezdés a) pontja az 544/2013. (XII. 30.) Korm. rendelet 42. § a) pontja szerint módosított szöveg.
