@@ -12,7 +12,7 @@ d) 1–36. pontjában megjelölt jogcímek alapján csekély összegű támogat�
 
 e) 1–3. és 13. pontjában megjelölt jogcímek alapján, ha azok elősegítik a kultúra és a kulturális örökség megőrzését, kulturális célú támogatás nyújtható,
 
-f) 35. pontjában megjelölt jogcím alapján kockázati tőkejuttatás nyújtható a kis- és középvállalkozásokba történő kockázatitőke-befektetések előmozdítását célzó állami támogatásokról szóló közösségi iránymutatás alapján, feltéve hogy a támogatási programot az Európai Bizottság az EUMSz 108. cikk (3) bekezdésében meghatározott eljárásban engedélyezte,
+f)[^1] 35. pontjában megjelölt jogcím alapján kockázati tőkejuttatás nyújtható a kis- és középvállalkozásokba történő kockázatitőke-befektetések előmozdítását célzó állami támogatásokról szóló közösségi iránymutatás alapján,
 
 g) 29. és 34. pontjában megjelölt jogcímek alapján újonnan létrehozott kisvállalkozások részére nyújtható támogatás,
 
@@ -21,3 +21,5 @@ h) 31. pontjában megjelölt jogcím alapján az energia-megtakarítási intézk
 i) 35. pontja alapján kockázati tőke formájában támogatás nyújtható,
 
 j) 36. pontjában megjelölt jogcím alapján közszolgáltatások ellentételezésére és fejlesztésére támogatás nyújtható.
+
+[^1]: A 6. § f) pontja az 1/2013. (XII. 30.) ME rendelet 4. § (1) bekezdésével megállapított szöveg.

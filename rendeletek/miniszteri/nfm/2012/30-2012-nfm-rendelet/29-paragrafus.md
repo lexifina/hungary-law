@@ -4,6 +4,11 @@ a) 6. § a)–c), g)–i) pontja a Szerződés 87. és 88. cikke alkalmazásába
 
 b) 6. § d) pontja a Szerződés 87. és 88. cikkének a de minimis támogatásokra való alkalmazásáról szóló 2006. december 15-i 1998/2006/EK bizottsági rendelet (HL L 379., 2006. 12. 28., 5. o.),
 
-c) 6. § e) pontja a kulturális célú támogatási intézkedések a Regionális Fejlesztés Operatív Program keretein belül című, N 276/2007. számú bizottsági határozat,
+c)[^3] 6. § e) pontja a kulturális célú támogatási intézkedések a Regionális Fejlesztési Operatív Program keretein belül című, SA.36873-2013/N. számú bizottsági határozat,
 
-d) 6. § j) pontja az Európai Unió működéséről szóló szerződés 106. cikke (2) bekezdésének az általános gazdasági érdekű szolgáltatások nyújtásával megbízott egyes vállalkozások javára közszolgáltatás ellentételezése formájában nyújtott állami támogatásra való alkalmazásáról szóló, 2011. december 20-i 2012/21/EU bizottsági határozat (HL L 7., 2012. 1. 11., 3. o.)
+d) 6. § j) pontja az Európai Unió működéséről szóló szerződés 106. cikke (2) bekezdésének az általános gazdasági érdekű szolgáltatások nyújtásával megbízott egyes vállalkozások javára közszolgáltatás ellentételezése formájában nyújtott állami támogatásra való alkalmazásáról szóló, 2011. december 20-i 2012/21/EU bizottsági határozat (HL L 7., 2012. 1. 11., 3. o.),
+
+e)[^4] 6. § f) pontja a kis- és középvállalkozásokba történő kockázatitőke-befektetések előmozdítását célzó állami támogatásokról szóló közösségi iránymutatás (HL C 194., 2006. 8. 18., 2. o.) alapján elfogadott, Regionális Tőkebefektetési Alap program című, SA.32825-2012/N. számú bizottsági határozat
+
+[^3]: A 29. § c) pontja az 1/2013. (XII. 30.) ME rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^4]: A 29. § e) pontját az 1/2013. (XII. 30.) ME rendelet 4. § (4) bekezdése iktatta be.

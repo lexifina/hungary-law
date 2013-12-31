@@ -1,4 +1,4 @@
-## 27. § E rendelet alapján támogatási döntést 2013. december 31-ig lehet hozni.
+## lehet támogatási döntést hozni.
 
 ## 17. Záró rendelkezések
 
