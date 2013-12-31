@@ -1,4 +1,4 @@
-8/A. §[^78] (1) Az elszámolás elbírálására és a visszafizetési kötelezettség előírására az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) 101. §-át, 103. §-át, 104. § (2)–(4) és (7) bekezdését, 105. §-át és 107. § (2) bekezdését, 110. § (1) bekezdését és 111. §-át nem kell alkalmazni.
+8/A. §[^79] (1) Az elszámolás elbírálására és a visszafizetési kötelezettség előírására az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) 101. §-át, 103. §-át, 104. § (2)–(4) és (7) bekezdését, 105. §-át és 107. § (2) bekezdését, 110. § (1) bekezdését és 111. §-át nem kell alkalmazni.
 
 (2) A kincstár az elszámolási határidő lejártát megelőző 30 napon belül írásban felszólítja a Támogatottat az elszámolás határidőben történő benyújtására. A határidőben benyújtott és tartalmilag hiányos elszámolás hiányosságainak pótlására a kincstár – határidő kitűzésével – írásban hívja fel a Támogatottat, az elszámolás benyújtását követő 10 napon belül.
 
@@ -40,4 +40,4 @@ eb) a d) pont dc) alpontja szerinti kamat, a d) pont df) alpontja szerinti jogor
 
 (8) A 3. § (12) bekezdése szerinti előlegben részesített, kincstár által elutasított támogatási kérelmek, illetve a 4. § (1) bekezdése szerint pályázatot be nem nyújtó helyi önkormányzat esetében a visszafizetési kötelezettség előírásáról a kincstár gondoskodik az Áht. 59. § (3) bekezdésében foglalt szabályok szerint, az elutasítást, illetve a pályázat benyújtásának elmaradását követő 30 napon belül.
 
-[^78]: A 8/A. §-t a 92/2013. (III. 28.) Korm. rendelet 8. § (2) bekezdése iktatta be.
+[^79]: A 8/A. §-t a 92/2013. (III. 28.) Korm. rendelet 8. § (2) bekezdése iktatta be.

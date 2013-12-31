@@ -1,4 +1,4 @@
-12. melléklet a 9/2011. (II. 15.) Korm. rendelethez[^97]
+12. melléklet a 9/2011. (II. 15.) Korm. rendelethez[^99]
 
 DÖNTÉSI ADATLAP
 
@@ -38,4 +38,4 @@ Katasztrófavédelmi szúnyoggyérítéshez kapcsolódó elismert költségek
 
 | 10 |  |  |  |  |
 
-[^97]: A 12. mellékletet a 92/2013. (III. 28.) Korm. rendelet 10. §-a iktatta be.
+[^99]: A 12. mellékletet a 92/2013. (III. 28.) Korm. rendelet 10. §-a iktatta be.

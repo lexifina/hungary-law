@@ -32,7 +32,7 @@
 
 ## Telefon:
 
-11. melléklet a 9/2011. (II. 15.) Korm. rendelethez[^96]
+11. melléklet a 9/2011. (II. 15.) Korm. rendelethez[^98]
 
 PÁLYÁZATI ADATLAP
 
@@ -92,4 +92,4 @@ Büntetőjogi felelősségem tudatában kijelentem, hogy a pályázatban foglalt
 
 | polgármester | jegyző |
 
-[^96]: A 11. mellékletet a 92/2013. (III. 28.) Korm. rendelet 10. §-a iktatta be.
+[^98]: A 11. mellékletet a 92/2013. (III. 28.) Korm. rendelet 10. §-a iktatta be.

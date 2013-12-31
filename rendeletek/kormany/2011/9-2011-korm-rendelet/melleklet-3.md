@@ -38,6 +38,6 @@
 
 |  | Telefon: | Telefon: |
 
-3. melléklet a 9/2011. (II. 15.) Korm. rendelethez[^90]
+3. melléklet a 9/2011. (II. 15.) Korm. rendelethez[^92]
 
-[^90]: A 3. melléklet a 92/2013. (III. 28.) Korm. rendelet 9. § (3) bekezdésével megállapított, a 342/2013. (IX. 25.) Korm. rendelet 1. § (4) bekezdése szerint módosított szöveg.
+[^92]: A 3. melléklet a 92/2013. (III. 28.) Korm. rendelet 9. § (3) bekezdésével megállapított, a 342/2013. (IX. 25.) Korm. rendelet 1. § (4) bekezdése szerint módosított szöveg.

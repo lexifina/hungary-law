@@ -58,6 +58,6 @@
 
 |  |  | 7. | Utalást követően a helyreállítási költségekhez kapcsolódó – le nem hívott – vis maior támogatás összege (5.–6.) |  |
 
-8. melléklet a 9/2011. (II. 15.) Korm. rendelethez[^93]
+8. melléklet a 9/2011. (II. 15.) Korm. rendelethez[^95]
 
-[^93]: A 8. melléklet a 92/2013. (III. 28.) Korm. rendelet 9. § (6) bekezdésével megállapított szöveg.
+[^95]: A 8. melléklet a 92/2013. (III. 28.) Korm. rendelet 9. § (6) bekezdésével megállapított szöveg.
