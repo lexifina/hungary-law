@@ -1,4 +1,4 @@
-## 1. megállapítja az 1–7. melléklet szerint a regionális operatív programok 2011–2013. évekre szóló akcióterveit,
+## 1.[^1]
 
 ## 2. jóváhagyja
 
@@ -24,8 +24,10 @@
 
 ## Határidő: azonnal
 
-## 5.[^1]
+## 5.[^2]
 
-1. melléklet az 1693/2013. (X. 2.) Korm. határozathoz
+1–4. melléklet az 1693/2013. (X. 2.) Korm. határozathoz[^3]
 
-[^1]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pontot a 2057/2013. (XII. 31.) Korm. határozat 4. pont a) alpontja visszavonta.
+[^2]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1–4. mellékletet a 2057/2013. (XII. 31.) Korm. határozat 4. pont a) alpontja visszavonta.
