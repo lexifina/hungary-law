@@ -10,7 +10,7 @@ a) a Szerződés 87. és 88. cikke alkalmazásában a támogatások bizonyos faj
 
 b) a Szerződés 87. és 88. cikkének a de minimis támogatásokra való alkalmazásáról szóló, 2006. december 15-i 1998/2006/EK bizottsági rendelet (a továbbiakban: 1998/2006/EK bizottsági rendelet),
 
-c) az EK-Szerződés 86. cikke (2) bekezdésének az általános gazdasági érdekű szolgáltatások működtetésével megbízott vállalkozásoknak közszolgáltatással járó ellentételezés formájában megítélt állami támogatásokra történő alkalmazásáról szóló, 2005. november 28-i 2005/842/EK bizottsági határozat,
+c)[^1] az Európai Unió működéséről szóló szerződés 106. cikke (2) bekezdésének az általános gazdasági érdekű szolgáltatások nyújtásával megbízott egyes vállalkozások javára közszolgáltatás ellentételezése formájában nyújtott állami támogatásra való alkalmazásáról szóló, 2011. december 20-i 2012/21/EU bizottsági határozat (HL L 7., 2012.1.11., 3. o.) (a továbbiakban: Határozat),
 
 d) az Európai Regionális Fejlesztési Alapra, az Európai Szociális Alapra és a Kohéziós Alapra vonatkozó általános rendelkezések megállapításáról és az 1260/1999/EK rendelet hatályon kívül helyezéséről szóló, 2006. július 11-i 1083/2006/EK tanácsi rendelet,
 
@@ -19,3 +19,5 @@ e) a vasúti és közúti személyszállítási közszolgáltatásról, valamint
 f) az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet (a továbbiakban: Atr.),
 
 g) az agrár- és vidékfejlesztési állami támogatások Európai Bizottság részére történő bejelentési rendjéről szóló 4/2009. (I. 10.) Korm. rendelet
+
+[^1]: Az 1. § c) pontja az 1/2013. (XII. 30.) ME rendelet 2. § (1) bekezdésével megállapított szöveg.

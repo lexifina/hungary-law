@@ -6,8 +6,10 @@ a) 16. § (2)–(5), (7), valamint (8) bekezdése a Szerződés 87. és 88. cikk
 
 b) 16. § (1) bekezdése a Szerződés 87. és 88. cikkének a de minimis támogatásokra való alkalmazásáról szóló, 2006. december 15-i 1998/2006/EK bizottsági rendelet (HL L 379., 2006. 12. 28., 5–10. o.),
 
-c) 16. § (6) bekezdése az EK-Szerződés 86. cikke (2) bekezdésének az általános gazdasági érdekű szolgáltatások működtetésével megbízott vállalkozásoknak közszolgáltatásért járó ellentételezés formájában megítélt állami támogatásokra történő alkalmazásáról szóló, 2005. november 28-i 2005/842/EK bizottsági határozat (HL L 312., 2005. 11. 29., 67–73. o.),
+c)[^6] 16. § (6) bekezdése az Európai Unió működéséről szóló szerződés 106. cikke (2) bekezdésének az általános gazdasági érdekű szolgáltatások nyújtásával megbízott egyes vállalkozások javára közszolgáltatás ellentételezése formájában nyújtott állami támogatásra való alkalmazásáról szóló, 2011. december 20-i 2012/21/EU bizottsági határozat (HL L 7., 2012. 1. 11., 3. o.),
 
 d) 16. § (9) bekezdése a vasúti és közúti személyszállítási közszolgáltatásról, valamint az 1191/69/EGK és az 1107/70/EGK tanácsi rendelet hatályon kívül helyezéséről szóló, 2007. október 23-i 1370/2007/EK európai parlamenti és tanácsi rendelet (HL L 315., 2007.12.3., 1–13. o.)
 
 hatálya alá tartozó támogatást tartalmaz.
+
+[^6]: A 56. § c) pontja az 1/2013. (XII. 30.) ME rendelet 2. § (4) bekezdésével megállapított szöveg.
