@@ -13,11 +13,3 @@
 (6) Az 1. § (1) bekezdése, a 9–19. §, a 22. § (3) bekezdése, a 23–25. §, valamint a 72. § (4) bekezdése 2015. január 1-jén lép hatályba.
 
 (7) Az 59. § (1) bekezdése 2015. augusztus 31-én lép hatályba.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
