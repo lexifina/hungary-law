@@ -1,1 +1,0 @@
-83. § A XIII. Honvédelmi Minisztérium fejezet költségvetésében jóváhagyott Hadfelszerelés-fejlesztési programokon tervezett 29 110,0 millió forint összegű előirányzat a 32. § (1) bekezdésében meghatározott bevételi előirányzatok együttesen legalább 102,0%-os teljesülése esetén, a Kormány – kormányhatározatban közzétett – döntésétől függően használható fel.

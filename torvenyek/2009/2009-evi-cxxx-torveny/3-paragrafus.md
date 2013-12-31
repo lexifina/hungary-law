@@ -1,1 +1,0 @@
-3. § Az Országgyűlés felhatalmazza a pénzügyminisztert, hogy a központi alrendszer 2010. évi hiányát finanszírozza, a Kincstári Egységes Számla (a továbbiakban: KESZ) folyamatos likviditását biztosítsa, a központi költségvetés adósságát, valamint a Magyar Államkincstár (a továbbiakban: Kincstár) által kezelt követeléseit kezelje.
