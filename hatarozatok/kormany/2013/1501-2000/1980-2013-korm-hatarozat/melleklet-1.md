@@ -20,13 +20,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. Hatályát veszti
-
-## a) a Nemzeti Stadionfejlesztési Program keretében megvalósítandó Diósgyőri Stadion rekonstrukció beruházáshoz kapcsolódó intézkedésekről szóló 1895/2013. (XII. 4.) Korm. határozat 5. pontjában a „nettó” szövegrész és 5. pont b) alpontja,
-
-## b) a szombathelyi sportcélú beruházások megvalósításához szükséges intézkedésekről szóló 1896/2013. (XII. 4.) Korm. határozat 4. pontjában a „nettó” szövegrész és 4. pont b) alpontja,
-
-## c) a székesfehérvári stadionrekonstrukciós program megvalósításához szükséges intézkedésekről szóló 1922/2013. (XII. 11.) Korm. határozat 3. pont b) alpontja.
+## 3.[^1]
 
 1. melléklet az 1980/2013. (XII. 29.) Korm. határozathoz
 
@@ -91,3 +85,5 @@ A Nemzeti Stadionfejlesztési Program keretében megvalósításra kerülő labd
 | 27. | Nemzeti Stadionfejlesztési Program tartalékkerete | – | 753 | 95 | 658 |
 
 | 28. | Összesen | – | 21 393 | 12 035 | 9 358 |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
