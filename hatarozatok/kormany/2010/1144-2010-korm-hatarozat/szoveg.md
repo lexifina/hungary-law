@@ -154,17 +154,19 @@ A közigazgatási államtitkári értekezlet
 
 56. Az előterjesztőnek a Kormány ülését megelőzően további személyes egyeztetés útján kell megkísérelnie a közigazgatási államtitkári értekezletet követően esetlegesen még fennmaradt nézetkülönbségek tisztázását és a viták lezárását, amely eljárásáról tájékoztatja a Közigazgatási és Igazságügyi Minisztérium közigazgatási államtitkárát, aki dönthet a Közigazgatási és Igazságügyi Minisztérium képviselőjének az egyeztetésben való részvételéről.
 
+56/A.[^1] A közigazgatási államtitkári értekezlet ellátja a Nemzeti Fenntartható Fejlődés Keretstratégiáról szóló 18/2013. (III. 28.) OGY határozat 3. pontjában foglalt, a Nemzeti Fenntartható Fejlődés Keretstratégia érvényesítését, megvalósítását elősegítő, a fenntartható fejlődés ügyét érintő kormányzati döntésekkel kapcsolatos koordinációs feladatokat.
+
 III.
 
 A KORMÁNY ÜLÉSE
 
 57. Az előterjesztés vagy jelentés a kormányülés napirendjére akkor vehető fel, ha a közigazgatási államtitkári értekezlet megtárgyalta és napirendre tűzését javasolta. E szabály alkalmazása alól a közigazgatási és igazságügyi miniszter javaslatára a miniszterelnök kivételt tehet. A Kormányt az előterjesztés lényegéről az előterjesztő, a közigazgatási államtitkári értekezlet állásfoglalásáról a Közigazgatási és Igazságügyi Minisztérium tájékoztatja.
 
-57/A.[^1] Ha a Nemzeti Fejlesztési Kormánybizottság feladatkörébe tartozó előterjesztést a Nemzeti Fejlesztési Kormánybizottság megvitatta és a Kormány általi megtárgyalásra javasolta, az előterjesztés közvetlenül benyújtható a Kormány ülésére. Ezekben az esetekben a 20–36., a 44–57. és a 76. pontban foglaltakat a megfelelő eltéréssel kell alkalmazni.
+57/A.[^2] Ha a Nemzeti Fejlesztési Kormánybizottság feladatkörébe tartozó előterjesztést a Nemzeti Fejlesztési Kormánybizottság megvitatta és a Kormány általi megtárgyalásra javasolta, az előterjesztés közvetlenül benyújtható a Kormány ülésére. Ezekben az esetekben a 20–36., a 44–57. és a 76. pontban foglaltakat a megfelelő eltéréssel kell alkalmazni.
 
-57/B.[^2] Ha a nemzetbiztonság, a közbiztonság védelmével, valamint az élet- és vagyonvédelemmel összefüggő előterjesztést a Nemzetbiztonsági Kabinet megvitatta és a Kormány általi megtárgyalásra javasolta, az előterjesztés közvetlenül benyújtható a Kormány ülésére.
+57/B.[^3] Ha a nemzetbiztonság, a közbiztonság védelmével, valamint az élet- és vagyonvédelemmel összefüggő előterjesztést a Nemzetbiztonsági Kabinet megvitatta és a Kormány általi megtárgyalásra javasolta, az előterjesztés közvetlenül benyújtható a Kormány ülésére.
 
-57/C.[^3] Ha a Nemzeti Tudománypolitikai és Innovációs Testület feladatkörébe tartozó előterjesztést a Nemzeti Tudománypolitikai és Innovációs Testület megvitatta és a Kormány általi megtárgyalásra javasolta, az előterjesztés közvetlenül benyújtható a Kormány ülésére. Ezekben az esetekben a 20–36., a 44–57. és a 76. pontban foglaltakat a megfelelő eltéréssel kell alkalmazni.
+57/C.[^4] Ha a Nemzeti Tudománypolitikai és Innovációs Testület feladatkörébe tartozó előterjesztést a Nemzeti Tudománypolitikai és Innovációs Testület megvitatta és a Kormány általi megtárgyalásra javasolta, az előterjesztés közvetlenül benyújtható a Kormány ülésére. Ezekben az esetekben a 20–36., a 44–57. és a 76. pontban foglaltakat a megfelelő eltéréssel kell alkalmazni.
 
 58. Az ülés napirendjének javaslatát – a közigazgatási államtitkári értekezlet állásfoglalásainak figyelembevételével – a Közigazgatási és Igazságügyi Minisztérium közigazgatási államtitkárának javaslatára a közigazgatási és igazságügyi miniszter hagyja jóvá és a közigazgatási államtitkár küldi ki legkésőbb az ülést megelőző második munkanapon az ülés résztvevőinek. A végleges napirendről a Kormány dönt. A miniszterelnök engedélyével – a munkaterv alapján benyújtott, illetve a jogalkotásra irányuló előterjesztések kivételével – a halaszthatatlanul sürgős ügyek szakmailag egyeztetett dokumentumai az ülés megkezdése előtt a helyszínen is szétoszthatók a Közigazgatási és Igazságügyi Minisztérium útján.
 
@@ -224,7 +226,7 @@ b) az előterjesztés a Kormány által korábban már jóváhagyott nemzetközi
 
 77. A miniszterelnök a Kormány ülései között – kivételesen indokolt esetben – feladatok kijelölése, nemzetközi tárgyalások lebonyolítása és megállapodások aláírása, jóváhagyása, látogatások szervezése, egyes kinevezések és felmentések ügyében, kitüntetések adományozása céljából kormányhatározatot, továbbá más esetben a Kormány felhatalmazása alapján kormányrendeletet és kormányhatározatot adhat ki. Az így hozott rendeletekről és határozatokról szóló jelentést utólagos jóváhagyásra a közigazgatási és igazságügyi miniszter nyújtja be a Kormányhoz.
 
-77/A.[^4] A Nemzeti Fejlesztési Kormánybizottság létrehozásáról és a Nemzeti Fejlesztési Kormánybizottság létrehozásával összefüggésben egyes kormányhatározatok módosításáról szóló 1221/2012. (VII. 2.) Korm. határozat 7. pontja alapján hozott döntések szövegének véglegesítéséről a Miniszterelnökséget vezető államtitkár gondoskodik és azt a Miniszterelnökséget vezető államtitkár felterjesztésében a miniszterelnök írja alá.
+77/A.[^5] A Nemzeti Fejlesztési Kormánybizottság létrehozásáról és a Nemzeti Fejlesztési Kormánybizottság létrehozásával összefüggésben egyes kormányhatározatok módosításáról szóló 1221/2012. (VII. 2.) Korm. határozat 7. pontja alapján hozott döntések szövegének véglegesítéséről a Miniszterelnökséget vezető államtitkár gondoskodik és azt a Miniszterelnökséget vezető államtitkár felterjesztésében a miniszterelnök írja alá.
 
 78. A Kormány rendeleteit, határozatait, elvi állásfoglalásait és irányelveit az üléstől számított 8 munkanapon belül kell kihirdetni (közzétenni), illetőleg az érdekeltek részére megküldeni, kivéve, ha a miniszterelnök más határidőt állapít meg.
 
@@ -250,7 +252,7 @@ A KORMÁNY ÜLÉSÉRŐL KÉSZÜLT ÖSSZEFOGLALÓ ÉS HANGFELVÉTEL
 
 83. A Kormány üléséről összefoglaló és a Kormány tagjának kérésére, indokolt esetben és a miniszterelnök engedélyével rögtön, továbbá az ülés végén az összefoglaló elkészítésére alkalmas hangfelvétel készül. Az összefoglaló elkészítéséről – az ülést követő három munkanapon belül – a Közigazgatási és Igazságügyi Minisztérium közigazgatási államtitkára gondoskodik.
 
-84.[^5] Az összefoglalót a közigazgatási és igazságügyi miniszter, valamint a Miniszterelnökséget vezető államtitkár írja alá.
+84.[^6] Az összefoglalót a közigazgatási és igazságügyi miniszter, valamint a Miniszterelnökséget vezető államtitkár írja alá.
 
 85. Az aláírt összefoglaló mellékleteként – a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvényben meghatározottakon kívül – meg kell őrizni a következő iratok eredeti aláírással ellátott egy-egy példányát:
 
@@ -288,8 +290,9 @@ ZÁRÓ RENDELKEZÉSEK
 
 91. Ez a határozat a közzétételét követő napon lép hatályba, egyidejűleg hatályát veszti a Kormány ügyrendjéről szóló 1088/1994. (IX. 20.) Korm. határozat.
 
-[^1]: Az 57/A. §-t az 1054/2011. (III. 22.) Korm. határozat 6. pontja iktatta be, szövege az 1221/2012. (VII. 2.) Korm. határozat 8. pontjával megállapított szöveg.
-[^2]: Az 57/B. pontot az 1308/2011. (IX. 6.) Korm. határozat 17. pontja iktatta be.
-[^3]: Az 57/C. pontot az 1669/2013. (IX. 25.) Korm. határozat 11. pontja iktatta be.
-[^4]: A 77/A. pontot az 1251/2012. (VII. 19.) Korm. határozat 1. pontja iktatta be.
-[^5]: A 84. pont az 1204/2012. (VI. 26.) Korm. határozat 1. pontjával megállapított szöveg.
+[^1]: Az 56/A. pontot a 2037/2013. (XII. 30.) Korm. határozat 3. pontja iktatta be.
+[^2]: Az 57/A. §-t az 1054/2011. (III. 22.) Korm. határozat 6. pontja iktatta be, szövege az 1221/2012. (VII. 2.) Korm. határozat 8. pontjával megállapított szöveg.
+[^3]: Az 57/B. pontot az 1308/2011. (IX. 6.) Korm. határozat 17. pontja iktatta be.
+[^4]: Az 57/C. pontot az 1669/2013. (IX. 25.) Korm. határozat 11. pontja iktatta be.
+[^5]: A 77/A. pontot az 1251/2012. (VII. 19.) Korm. határozat 1. pontja iktatta be.
+[^6]: A 84. pont az 1204/2012. (VI. 26.) Korm. határozat 1. pontjával megállapított szöveg.
