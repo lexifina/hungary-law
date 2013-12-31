@@ -1,8 +1,8 @@
-1. A Kormány a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény (a továbbiakban: Ksztv.) 31. § (1) bekezdésében meghatározott feladatkörében eljárva a Ksztv. 31. § (2) bekezdés b) pontja alapján a hazai, illetve szövetkezeti pénzügyi szolgáltatásokkal összefüggő egyes kormányzati tevékenységek ellátására – a 2012. december 1. napjától 2013. december 31. napjáig terjedő időszakra – Vojnits Tamást kormánybiztossá nevezi ki.
+1.[^2] A Kormány a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény (a továbbiakban: Ksztv.) 31. § (1) bekezdésében meghatározott feladatkörében eljárva a Ksztv. 31. § (2) bekezdés b) pontja alapján a hazai, illetve szövetkezeti pénzügyi szolgáltatásokkal összefüggő egyes kormányzati tevékenységek ellátására – a 2012. december 1. napjától – Vojnits Tamást kormánybiztossá nevezi ki.
 
 2. A kormánybiztos
 
-a) felel a hazai, illetve szövetkezeti pénzügyi szolgáltatásokkal kapcsolatos kormányzati stratégia kialakításáért (a továbbiakban: Stratégia),
+a)[^3] felel a hazai, illetve szövetkezeti pénzügyi szolgáltatásokkal kapcsolatos kormányzati stratégia (a továbbiakban: Stratégia) kialakításáért, valamint annak végrehajtásáért,
 
 b) előkészíti és a Kormány részére elfogadásra benyújtja a Stratégia megvalósítását célzó projekttervet és a részleteiben kidolgozott megvalósítási tervet,
 
@@ -23,3 +23,6 @@ Felelős: nemzeti fejlesztési miniszter
 Határidő: folyamatosan
 
 7. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^2]: Az 1. pont a 2038/2013. (XII. 30.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^3]: A 2. pont a) alpontja a 2038/2013. (XII. 30.) Korm. határozat 1. pontjával megállapított szöveg.

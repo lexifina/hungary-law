@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-1554-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2012-12-06 | 2012-1554-30-22.1 | 1554/2012. (XII. 5.) Korm. határozat |
+| 2013-12-31 | 2012-1554-30-22.2 | 2038/2013. (XII. 30.) Korm. határozat |
