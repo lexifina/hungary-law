@@ -22,10 +22,6 @@ f) EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségr
 
 g) függő követelés: bankgaranciából, biztosítói garanciából vagy biztosító által kiállított, készfizető kezességvállalást tartalmazó kötelezvényből származó olyan követelés, amelynek beállta és esedékessége még bizonytalan;
 
-j) föld: a mező- és erdőgazdasági földek forgalmáról szóló törvényben meghatározott mező- és erdőgazdasági hasznosítású föld;
-
-k) tanya: a mező- és erdőgazdasági földek forgalmáról szóló törvényben meghatározott tanya;
-
-l) termőföld: a termőföld védelméről szóló törvényben meghatározott termőföld.
+j)–l)
 
 (2)
