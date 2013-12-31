@@ -1,0 +1,5 @@
+## 20–27. §[^8]
+
+## 9. A 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alap, valamint az Előcsatlakozási Támogatási Eszköz és az Európai Szomszédsági és Partnerségi Eszköz pénzügyi alapok egyes, a területi együttműködéshez kapcsolódó programjaiból származó támogatások hazai felhasználásának intézményeiről szóló 49/2007. (III. 26.) Korm. rendelet módosítása
+
+[^8]: A 20–27. § a 102. § (3) bekezdése alapján a Norvég Királyság Kormánya és a Magyar Köztársaság Kormánya között 2005. június 10-én létrejött, a Norvég Finanszírozási Mechanizmus 2004–2009 közötti végrehajtásáról szóló együttműködési megállapodás, valamint egyrészről az Izlandi Köztársaság Kormánya, a Liechtensteini Nagyhercegség Kormánya, a Norvég Királyság Kormánya, másrészről a Magyar Köztársaság Kormánya között 2005. július 7-én létrejött, az EGT Finanszírozási Mechanizmus 2004–2009 közötti végrehajtásáról szóló együttműködési megállapodás módosítását kihirdető kormányrendelet hatálybalépését követő napon lép hatályba.
