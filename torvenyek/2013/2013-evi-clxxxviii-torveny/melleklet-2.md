@@ -60,43 +60,13 @@ Vevő (Fizető) címe:
 
 Vevő (Fizető) adószáma:
 
-|
+Szerződéses folyószámla: Teljesítés kelte:
 
-Szerződéses folyószámla::
+Számla sorszáma: Számla kelte:
 
-|
-
-Teljesítés kelte
-
-|
-
-Számla sorszáma::
-
-|
-
-Számla kelte
-
-|
-
-|
-
-Fizetési mód:
-
-|
-
-|
-
-A szolgáltatás megnevezése:
-
-|
-
-|
+Fizetési mód: A szolgáltatás megnevezése:
 
 Villamos energia egyetemes szolgáltatás
-
-|
-
-|
 
 és villamosenergia-elosztás
 
@@ -568,7 +538,7 @@ Tájékoztató adatok:
 
 * Az elosztói alapdíj fogyasztástól függetlenül fizetendő
 
-** A rezsicsökkentés a lakossági fogyasztókat a bruttó számlaérték alapulvételével illeti meg
+** A rezsicsökkentés a fogyasztókat a 2012. december 1-jén hatályos árképzés szerinti bruttó számlaérték alapulvételével illeti meg, a tétel a már csökkentett összeget tartalmazza. Az adott elszámolási időszakban elért megtakarítás az elszámolási időszakban kibocsátott rész- és elszámoló számlák összességére figyelemmel került meghatározásra.
 
 Következő leolvasás várható időpontja:
 
@@ -578,23 +548,61 @@ A számla közvetített szolgáltatást tartalmaz.
 
 Leolvasás módja (LM): Leol – leolvasás elosztói engedélyes által; Becs – becsült; Dikt – fogyasztó által diktált; Ell – elosztói ellenőrzés
 
+|
+
 Számla sorszáma:
+
+|
+
+|
 
 Felhasználási hely:
 
+|
+
+|
+
 A következő részszámla becsült mennyisége:
+
+|
+
+|
 
 Energiafelhasználásának aránya (aktuális elszámolási időszak/azt megelőző elszámolási időszak):
 
+|
+
+|
+
 Az Ön energiafelhasználása az előző évhez képest (csökkent/nőtt/nem változott):
+
+|
+
+|
 
 Az Ön energiafelhasználása az átlagos lakossági felhasználáshoz képest:
 
+|
+
+|
+
 Az energia auditot, energetikai szolgáltatást végző szervezetek elérhetősége és a lakossági ügyfelek átlagfogyasztása a következő internetes honlapon található:
+
+|
+
+|
 
 Az elszámoló számlában elszámolt részszámlák sorszáma és a számla végösszege
 
-Sorszám: Számla végösszeg (Ft)
+|
+
+Sorszám:
+
+|
+
+Számla végösszeg (Ft)
+
+|
 
 „
 
@@ -626,7 +634,7 @@ Sorszám: Számla végösszeg (Ft)
 
 4.9. Egyetemes szolgáltatói árszabás: ha az elszámolási időszakban különböző árszabások alkalmazására kerül sor, az egyes árszabásokat külön sorban kell feltüntetni.
 
-4.10. Rendszerhasználati díjak (az elosztói alapdíj kivételével): ha az elszámolási időszakban különböző tarifák alkalmazására kerül sor, az egyes díjakat külön sorban kell feltüntetni.
+4.10. Rendszerhasználati díjak (az elosztói alapdíj kivételével): ha az elszámolási időszakban különböző díjak vagy díjelemek alkalmazására kerül sor, az egyes díjakat, díjelemeket külön sorban kell feltüntetni a díjelemek megnevezésével.
 
 4.11. Elosztói alapdíj: ha az elszámolási időszakban különböző tarifák alkalmazására kerül sor, az egyes alapdíjakat külön sorban kell feltüntetni.
 

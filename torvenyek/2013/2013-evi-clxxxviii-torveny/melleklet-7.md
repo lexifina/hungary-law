@@ -60,39 +60,17 @@ Vevő (Fizető) címe:
 
 Vevő (Fizető) adószáma:
 
-|
+Szerződéses folyószámla: Teljesítés kelte:
 
-Szerződéses folyószámla:
+Számla sorszáma: Számla kelte:
 
-|
-
-Teljesítés kelte:
-
-|
-
-Számla sorszáma::
-
-|
-
-Számla kelte
-
-|
-
-Fizetési mód:
-
-|
-
-A szolgáltatás megnevezése:
-
-|
-
-|
+Fizetési mód: A szolgáltatás megnevezése:
 
 Távhőszolgáltatás
 
 SZÁMLARÉSZLETEZŐ
 
-Elszámolt fogyasztás: …….GJ
+Elszámolt fogyasztás:…….GJ
 
 Fűtési célú költségek
 
@@ -106,7 +84,9 @@ Fogyasztási időszak
 
 |
 
-Szorzó-tényező
+Szorzó-
+
+tényező
 
 |
 
@@ -133,6 +113,42 @@ Mennyisége és mértékegysége
 |
 
 Nettó egységára és mértékegysége
+
+|
+
+Részszámlákban elszámolt fűtési díj (egytarifás)
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Fűtési díj részszámla (egytarifás)
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
 
 |
 
@@ -226,6 +242,24 @@ Részszámlákban elszámolt hődíj
 
 |
 
+Hődíj részszámla
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
 Fizetendő hődíj
 
 |
@@ -260,7 +294,9 @@ Fogyasztási időszak
 
 |
 
-Szorzó-tényező
+Szorzó-
+
+tényező
 
 |
 
@@ -290,6 +326,80 @@ Nettó egységára és mértékegysége
 
 |
 
+Részszámlákban
+
+elszámolt vízfelmelegítési díj (egytarifás)
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Vízfelmelegítési díj (egytarifás)
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Alapdíj
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Részszámlákban elszámolt alapdíj
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
 Hődíj
 
 |
@@ -309,6 +419,42 @@ Hődíj
 |
 
 Részszámlákban elszámolt hődíj
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Hődíj részszámla
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Fizetendő hődíj
 
 |
 
@@ -404,15 +550,29 @@ Hőközpontban mért fogyasztás
 
 |
 
+|
+
+Melegvíz mérőn mért fogyasztás
+
+|
+
+|
+
+|
+
+|
+
+|
+
 A nyilvántartás szerinti folyószámla-egyenlege a számla kibocsátásakor: … Ft.
 
 Tájékoztató adatok:
 
-* A lakossági felhasználókat a rezsicsökkentés a bruttó számlaérték alapulvételével illeti meg.
+* A rezsicsökkentés a fogyasztókat a 2012. november 1-jén hatályos árképzés szerinti bruttó számlaérték alapulvételével illeti meg, a tétel a már csökkentett összeget tartalmazza. Az adott elszámolási időszakban elért megtakarítás az elszámolási időszakban kibocsátott rész- és elszámoló számlák összességére figyelemmel került meghatározásra
 
 Az Ön energiafelhasználása az előző év ugyanezen időszakában: GJ
 
-Az Ön energiafelhasználása az előző évhez képest (csökkent, nőtt, nem változott):”
+Az Ön energiafelhasználása az előző évhez képest (csökkent, nőtt, nem változott):
 
 4. Magyarázat
 

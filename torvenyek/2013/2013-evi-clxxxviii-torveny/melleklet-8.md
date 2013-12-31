@@ -66,11 +66,11 @@ Számla sorszáma: Számla kelte:
 
 Fizetési mód: A szolgáltatás megnevezése:
 
-Távhőszolgáltatás és víziközmű-szolgáltatás
+Távhőszolgáltatás és közvetített víziközmű-szolgáltatás
 
 SZÁMLARÉSZLETEZŐ
 
-Elszámolt fogyasztás: …….GJ
+Elszámolt fogyasztás:…….GJ
 
 Fűtési célú költségek
 
@@ -84,7 +84,9 @@ Fogyasztási időszak
 
 |
 
-Szorzó-tényező
+Szorzó-
+
+tényező
 
 |
 
@@ -111,6 +113,42 @@ Mennyisége és mértékegysége
 |
 
 Nettó egységára és mértékegysége
+
+|
+
+Részszámlákban elszámolt fűtési díj (egytarifás)
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Fűtési díj részszámla (egytarifás)
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
 
 |
 
@@ -204,6 +242,24 @@ Részszámlákban elszámolt hődíj
 
 |
 
+Hődíj részszámla
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
 Fizetendő hődíj
 
 |
@@ -238,7 +294,9 @@ Fogyasztási időszak
 
 |
 
-Szorzó-tényező
+Szorzó-
+
+tényező
 
 |
 
@@ -265,6 +323,96 @@ Mennyisége és mértékegysége
 |
 
 Nettó egységára és mértékegysége
+
+|
+
+Részszámlákban elszámolt vízfelmelegítési díj (egytarifás)
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Vízfelmelegítési díj (egytarifás)
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Alapdíj
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Részszámlákban elszámolt alapdíj
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Fizetendő alapdíj
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
 
 |
 
@@ -304,6 +452,42 @@ Részszámlákban elszámolt hődíj
 
 |
 
+Hődíj részszámla
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Fizetendő hődíj
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
 Vízfelmelegítési célú fizetendő költségek összesen
 
 |
@@ -320,7 +504,9 @@ Fogyasztási időszak
 
 |
 
-Szorzó-tényező
+Szorzó-
+
+tényező
 
 |
 
@@ -370,7 +556,9 @@ alapdíj vagy átalánydíj
 
 |
 
-…………. számú vízmérőn mért ivóvíz fogyasztással arányos díj
+………….
+
+számú vízmérőn mért ivóvíz fogyasztással arányos díj
 
 |
 
@@ -388,7 +576,9 @@ alapdíj vagy átalánydíj
 
 |
 
-Szennyvízelvezetés és tisztítás
+Szennyvízelve-
+
+zetés és tisztítás
 
 alapdíj vagy átalánydíj
 
@@ -576,15 +766,29 @@ Hőközpontban mért fogyasztás
 
 |
 
+|
+
+Melegvíz mérőn mért fogyasztás
+
+|
+
+|
+
+|
+
+|
+
+|
+
 A nyilvántartás szerinti folyószámla-egyenlege a számla kibocsátásakor: … Ft.
 
 Tájékoztató adatok:
 
-* A lakossági felhasználókat a rezsicsökkentés a bruttó számlaérték alapulvételével illeti meg.
+* A rezsicsökkentés a fogyasztókat a 2012. november 1-jén hatályos árképzés szerinti bruttó számlaérték alapulvételével illeti meg, a tétel a már csökkentett összeget tartalmazza. Az adott elszámolási időszakban elért megtakarítás az elszámolási időszakban kibocsátott rész- és elszámoló számlák összességére figyelemmel került meghatározásra
 
 Az Ön energiafelhasználása az előző év ugyanezen időszakában: GJ
 
-Az Ön energiafelhasználása az előző évhez képest (csökkent, nőtt, nem változott):”
+Az Ön energiafelhasználása az előző évhez képest (csökkent, nőtt, nem változott):
 
 4. Magyarázat
 

@@ -510,7 +510,7 @@ Leolvasás módja (LM): Leol – leolvasás elosztói engedélyes által; Becs �
 
 4.10. Egyetemes szolgáltatói árszabás: ha az elszámolási időszakban különböző árszabások alkalmazására kerül sor, az egyes árszabásokat külön sorban kell feltüntetni.
 
-4.11. Rendszerhasználati díjak (az elosztói alapdíj kivételével): ha az elszámolási időszakban különböző rendszerhasználati díjak alkalmazására kerül sor, az egyes díjakat külön sorban kell feltüntetni.
+4.11. Rendszerhasználati díjak vagy díjelemek (az elosztói alapdíj kivételével): ha az elszámolási időszakban különböző rendszerhasználati díjak vagy díjelemek alkalmazására kerül sor, az egyes díjakat, díjelemeket külön sorban kell feltüntetni a díjelemek megnevezésével.
 
 4.12. Elosztói alapdíj: ha az elszámolási időszakban különböző elosztói alapdíjak alkalmazására kerül sor, az egyes alapdíjakat külön sorban kell feltüntetni.
 

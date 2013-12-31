@@ -70,7 +70,7 @@ Távhőszolgáltatás
 
 SZÁMLARÉSZLETEZŐ
 
-Elszámolt fogyasztás: …….GJ
+Elszámolt fogyasztás:…….GJ
 
 Fűtési célú költségek
 
@@ -84,7 +84,9 @@ Fogyasztási időszak
 
 |
 
-Szorzó-tényező
+Szorzó-
+
+tényező
 
 |
 
@@ -111,6 +113,24 @@ Mennyisége és mértékegysége
 |
 
 Nettó egységára és mértékegysége
+
+|
+
+Fűtési díj (egytarifás)
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
 
 |
 
@@ -166,7 +186,9 @@ Fogyasztási időszak
 
 |
 
-Szorzó-tényező
+Szorzó-
+
+tényező
 
 |
 
@@ -193,6 +215,42 @@ Mennyisége és mértékegysége
 |
 
 Nettó egységára és mértékegysége
+
+|
+
+Vízfelmelegítési díj
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Alapdíj
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
 
 |
 
@@ -292,11 +350,25 @@ Hőközpontban mért fogyasztás
 
 |
 
+|
+
+Melegvíz mérőn mért fogyasztás
+
+|
+
+|
+
+|
+
+|
+
+|
+
 A nyilvántartás szerinti folyószámla-egyenlege a számla kibocsátásakor: … Ft.
 
 Tájékoztató adatok:
 
-* A lakossági felhasználókat a rezsicsökkentés a bruttó számlaérték alapulvételével illeti meg.”
+** A rezsicsökkentés a fogyasztókat a 2012. november 1-jén hatályos árképzés szerinti bruttó számlaérték alapulvételével illeti meg, a tétel a már csökkentett összeget tartalmazza.
 
 4. Magyarázat
 

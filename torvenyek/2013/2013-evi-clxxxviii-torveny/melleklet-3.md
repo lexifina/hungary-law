@@ -60,41 +60,13 @@ Vevő (Fizető) címe:
 
 Vevő (Fizető) adószáma:
 
-|
+Szerződéses folyószámla: Teljesítés kelte:
 
-Szerződéses folyószámla:
+Számla sorszáma: Számla kelte:
 
-|
+Fizetési mód: A szolgáltatás megnevezése:
 
-Teljesítés kelte:
-
-|
-
-Számla sorszáma:
-
-|
-
-Számla kelte:
-
-|
-
-Fizetési mód:
-
-|
-
-A szolgáltatás megnevezése:
-
-|
-
-|
-
-Földgáz egyetemes szolgáltatás
-
-|
-
-|
-
-és földgázelosztás
+Földgáz egyetemes szolgáltatás és földgázelosztás
 
 |
 
@@ -113,6 +85,10 @@ Mérési pont azonosító:
 |
 
 Földgázelosztó:
+
+|
+
+|
 
 |
 
@@ -204,9 +180,7 @@ Tétel megnevezése
 
 |
 
-Elszámolt
-
-időszak
+Elszámolt időszak
 
 |
 
@@ -214,7 +188,9 @@ Mennyiség
 
 |
 
-Mértékegység
+Mérték-
+
+egység
 
 |
 
@@ -281,6 +257,24 @@ Energiadíj összesen
 |
 
 Alapdíj*
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Nettó számlaérték összesen
 
 |
 
@@ -380,7 +374,7 @@ Tájékoztató adatok:
 
 *Az alapdíj fogyasztástól függetlenül fizetendő
 
-** A rezsicsökkentés a lakossági fogyasztókat a bruttó számlaérték alapulvételével illeti meg
+** A rezsicsökkentés a fogyasztókat a 2012. december 1-jén hatályos árképzés szerinti bruttó számlaérték alapulvételével illeti meg, a tétel a már csökkentett összeget tartalmazza
 
 Következő leolvasás várható időpontja:
 
@@ -388,7 +382,7 @@ Leolvasás módja (LM): Leol – leolvasás elosztói engedélyes által; Becs �
 
 A fogyasztásmennyiség számításának módja:
 
-elszámolt hőmennyiség (MJ) = mérőállás különbség (m3) * légnyomás korrekciós tényező * fűtőérték (MJ/m3)”
+elszámolt hőmennyiség (MJ) = mérőállás különbség (m3) * légnyomás korrekciós tényező * fűtőérték (MJ/m3)
 
 4. Magyarázat
 

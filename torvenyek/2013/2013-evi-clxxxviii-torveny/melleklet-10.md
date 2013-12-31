@@ -110,25 +110,19 @@ Tétel megnevezése
 
 |
 
-Mérőállás
-
-(induló, záró)
+Elszámolt időszak
 
 |
 
-Elszámolt
-
-mennyiség és
-
-mértékegység
+Mérőállás (induló, záró)
 
 |
 
-Nettó
+Elszámolt mennyiség és mértékegység
 
-egységár és
+|
 
-mértékegység
+Nettó egységár és mértékegység
 
 |
 
@@ -166,7 +160,11 @@ alapdíj vagy átalánydíj
 
 |
 
+|
+
 …………. számú vízmérőn mért ivóvíz fogyasztással arányos díj
+
+|
 
 |
 
@@ -200,7 +198,11 @@ alapdíj vagy átalánydíj
 
 |
 
+|
+
 Elvezetett mennyiséggel arányos szennyvízdíj
+
+|
 
 |
 
@@ -232,7 +234,11 @@ Elvezetett mennyiséggel arányos szennyvízdíj
 
 |
 
+|
+
 Jogszabályban biztosított locsolási kedvezmény…..%
+
+|
 
 |
 
@@ -266,7 +272,11 @@ szolgáltatás keretében figyelembe vett tétel
 
 |
 
+|
+
 Részszámlákban elszámolt alapdíjak, átalánydíjak
+
+|
 
 |
 
@@ -298,7 +308,11 @@ Részszámlákban elszámolt fogyasztással arányos díjak
 
 |
 
+|
+
 Kerekítés
+
+|
 
 |
 
@@ -330,7 +344,11 @@ Bruttó számlaérték összesen*:
 
 |
 
+|
+
 Egyéb
+
+|
 
 |
 
@@ -360,6 +378,8 @@ Fizetendő összeg:
 
 |
 
+|
+
 ÁFA összesítő (Ft)
 
 |
@@ -368,11 +388,11 @@ A nyilvántartás szerinti folyószámla-egyenlege a számla kibocsátásakor: �
 
 Tájékoztató adatok:
 
-* A lakossági felhasználót a rezsicsökkentés a bruttó számlaérték alapulvételével illeti meg.
+* A rezsicsökkentés a fogyasztókat a 2013. január 1-jén hatályos árképzés szerinti bruttó számlaérték alapulvételével illeti meg, a tétel a már csökkentett összeget tartalmazza. Az adott elszámolási időszakban elért megtakarítás az elszámolási időszakban kibocsátott rész- és elszámoló számlák összességére figyelemmel került meghatározásra.
 
-Következő mérő leolvasás vagy diktálás időpontja:”
+Fogyasztás megállapításának módja:
 
-|
+Következő mérő leolvasás vagy diktálás időpontja:
 
 4. Magyarázat:
 

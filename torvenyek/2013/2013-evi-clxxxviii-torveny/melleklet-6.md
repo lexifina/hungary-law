@@ -60,39 +60,17 @@ Vevő (Fizető) címe:
 
 Vevő (Fizető) adószáma:
 
-|
+Szerződéses folyószámla: Teljesítés kelte:
 
-Szerződéses folyószámla:
+Számla sorszáma: Számla kelte:
 
-|
+Fizetési mód: A szolgáltatás megnevezése:
 
-Teljesítés kelte:
-
-|
-
-Számla sorszáma:
-
-|
-
-Számla kelte:
-
-|
-
-Fizetési mód:
-
-|
-
-A szolgáltatás megnevezése:
-
-|
-
-|
-
-Távhőszolgáltatás és víziközmű-szolgáltatás
+Távhőszolgáltatás és közvetített víziközmű-szolgáltatás
 
 SZÁMLARÉSZLETEZŐ
 
-Elszámolt fogyasztás: …….GJ
+Elszámolt fogyasztás:…….GJ
 
 Fűtési célú költségek
 
@@ -106,7 +84,9 @@ Fogyasztási időszak
 
 |
 
-Szorzó-tényező
+Szorzó-
+
+tényező
 
 |
 
@@ -133,6 +113,24 @@ Mennyisége és mértékegysége
 |
 
 Nettó egységára és mértékegysége
+
+|
+
+Fűtési díj (egytarifás)
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
 
 |
 
@@ -218,6 +216,42 @@ Nettó egységára és mértékegysége
 
 |
 
+Vízfelmelegítési díj (egytarifás)
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Alapdíj
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
 Hődíj
 
 |
@@ -282,7 +316,9 @@ Nettó egységára és mértékegysége
 
 |
 
-Ivóvíz-szolgáltatás
+Ivóvíz-
+
+szolgáltatás
 
 alapdíj vagy átalánydíj
 
@@ -320,7 +356,9 @@ alapdíj vagy átalánydíj
 
 |
 
-Szennyvízelvezetés és tisztítás
+Szennyvízelve-
+
+zetés és tisztítás
 
 alapdíj vagy átalánydíj
 
@@ -454,11 +492,25 @@ Hőközpontban mért fogyasztás
 
 |
 
+|
+
+Melegvíz mérőn mért fogyasztás
+
+|
+
+|
+
+|
+
+|
+
+|
+
 A nyilvántartás szerinti folyószámla-egyenlege a számla kibocsátásakor: … Ft.
 
 Tájékoztató adatok:
 
-* A lakossági felhasználókat a rezsicsökkentés a bruttó számlaérték alapulvételével illeti meg.”
+*A rezsicsökkentés a fogyasztókat a 2012. november 1-jén hatályos árképzés szerinti bruttó számlaérték alapulvételével illeti meg, a tétel a már csökkentett összeget tartalmazza
 
 4. Magyarázat
 

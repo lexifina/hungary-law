@@ -57,7 +57,3 @@ Fizetés módja:
 3.1. Oldalszám: aktuális oldal száma /összes oldal száma formátumban.
 
 3.2. x. sz. eredeti példány: az eredeti példány sorszáma.
-
-3.3. Felhasználó azonosító száma, felhasználási hely címe: a felhasználó azonosításához szükséges adat, pl.: vevő azonosító, felhasználási hely azonosító; a „felhasználó azonosító száma” helyett a szolgáltató üzletszabályzatában meghatározott ezzel egyenértékű megnevezés is használható. Több felhasználási azonosító szám, és felhasználási hely cím is feltüntethető, amennyiben több felhasználási helyre vonatkozóan állítja ki a szolgáltató a számlát.
-
-3.4. Fizetési határidő: csak akkor szükséges kitölteni, ha a fizetés átutalással történik

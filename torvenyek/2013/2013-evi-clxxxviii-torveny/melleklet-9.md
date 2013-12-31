@@ -250,7 +250,9 @@ Jogszabályban biztosított locsolási kedvezmény…..%
 
 |
 
-Egyéb, a víziközmű-szolgáltatás keretében figyelembe vett tétel
+Egyéb, a víziközmű-
+
+szolgáltatás keretében figyelembe vett tétel
 
 |
 
@@ -328,17 +330,17 @@ Fizetendő összeg:
 
 |
 
-|
-
 ÁFA összesítő (Ft)
 
 A nyilvántartás szerinti folyószámla-egyenlege a számla kibocsátásakor: … Ft.
 
 Tájékoztató adatok:
 
-* A lakossági felhasználót a rezsicsökkentés a bruttó számlaérték alapulvételével illeti meg.
+* A rezsicsökkentés a fogyasztókat a 2013. január 1-jén hatályos árképzés szerinti bruttó számlaérték alapulvételével illeti meg, a tétel a már csökkentett összeget tartalmazza.
 
-Következő mérő leolvasás vagy diktálás időpontja:”
+Fogyasztás megállapításának módja:
+
+Következő mérő leolvasás vagy diktálás időpontja:
 
 4. Magyarázat:
 
