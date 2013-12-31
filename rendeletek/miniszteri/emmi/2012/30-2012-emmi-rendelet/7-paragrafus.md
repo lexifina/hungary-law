@@ -1,5 +1,0 @@
-7. § (1) A miniszter az összesített jelentés ellenőrzése után az esélyegyenlőségi támogatásban részesült önkormányzati fenntartó nevét, KSH-kódját és az elnyert esélyegyenlőségi támogatás összegét 2012. november 14-éig utalványozás céljából megküldi a helyi önkormányzatokért felelős miniszternek.
-
-(2) Az önkormányzati fenntartónak megítélt esélyegyenlőségi támogatást a költségvetési törvény 5. melléklet 11. pont a) Esélyegyenlőséget szolgáló intézkedések támogatása jogcím terhére a 2012. év december havi nettó finanszírozás keretében a helyi önkormányzatokért felelős miniszter utalványozása alapján a Kincstár folyósítja.
-
-(3) A köznevelési feladatot ellátó nem állami intézmény fenntartójának és a központi költségvetési szervként működő felsőoktatási intézménynek megítélt támogatás folyósításáról a költségvetési törvény 1. melléklet XX. fejezet 20. cím 59. alcím 8. jogcímcsoport, Esélyegyenlőséget szolgáló intézkedések finanszírozása előirányzat terhére a Lebonyolítón keresztül a miniszter intézkedik.
