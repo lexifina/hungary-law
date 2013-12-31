@@ -1,5 +1,0 @@
-8. § (1) E rendeletben meghatározott támogatás csekély összegű támogatásnak minősül, és azt kizárólag az 1998/2006/EK bizottsági rendelet előírásaival összhangban lehet nyújtani. A kedvezményezettnek nyilatkoznia kell a kérelem benyújtását megelőző két pénzügyi évben és a folyamatban lévő pénzügyi évben általa igénybe vett csekély összegű támogatások támogatástartalmáról.
-
-(2) A 6. § (2) bekezdése szerinti hatósági szerződésben a munkáltatót tájékoztatni szükséges a támogatás összegéről és annak csekély összegű támogatás jellegéről. A szerződésben utalni kell a csekély összegű támogatás uniós jogalapjának címére, az Európai Unió Hivatalos Lapjában való kihirdetése napjára, továbbá meg kell határozni a támogatás összegét euróban kifejezve.
-
-(3) Ha az e rendelet keretében igényelt támogatás a munkáltató által igénybe vett más csekély összegű támogatásokkal együttesen meghaladja a vonatkozó uniós jogszabályokban meghatározott küszöbértékeket, akkor a kérelemben foglalt támogatási igény ezen küszöbértékek nagyságáig hagyható jóvá.
