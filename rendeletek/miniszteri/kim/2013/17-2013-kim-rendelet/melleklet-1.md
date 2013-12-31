@@ -6,7 +6,7 @@
 
 1. A Ve. 277. § (2) bekezdés b) pontja alapján a szavazási levélcsomagot a magyarországi lakcímmel nem rendelkező választópolgár a következő településeken veheti át:
 
-a. Barcs (Somogy Megye)
+a.[^2]
 
 b. Battonya (Békés Megye)
 
@@ -18,11 +18,11 @@ e. Bódvaszilas (Borsod-Abaúj-Zemplén Megye)
 
 f. Csengersima (Szabolcs-Szatmár-Bereg Megye)
 
-g. Gyula (Békés Megye)
+g.[^3]
 
 h. Fehérgyarmat (Szabolcs-Szatmár-Bereg Megye)
 
-i. Komárom (Komárom-Esztergom Megye)
+i.[^4]
 
 j. Kőszeg (Vas Megye)
 
@@ -36,7 +36,7 @@ n. Makó (Csongrád Megye)
 
 o. Nagylak (Csongrád Megye)
 
-p. Nyírábrány (Szabolcs-Szatmár-Bereg Megye)
+p.[^5] Nyírábrány (Hajdú-Bihar Megye)
 
 q. Nyírlugos (Szabolcs-Szatmár-Bereg Megye)
 
@@ -46,7 +46,7 @@ s. Rajka (Győr-Moson-Sopron Megye)
 
 t. Rédics (Zala Megye)
 
-u. Sátoraljaújhely (Borsod-Abaúj-Zemplén Megye)
+u.[^6]
 
 v. Tiszabecs (Szabolcs-Szatmár-Bereg Megye)
 
@@ -77,3 +77,12 @@ g. Magyarország Nagykövetsége, Pozsony
 h. Magyarország Főkonzulátusa, Szabadka
 
 i. Magyarország Főkonzulátusa, Ungvár
+
+j.[^7] Magyarország Főkonzulátusa, Eszék
+
+[^2]: Az 1. melléklet 1. pont a. alpontját a 38/2013. (XII. 30.) Korm. rendelet 15. §-a hatályon kívül helyezte.
+[^3]: Az 1. melléklet 1. pont g. alpontját a 38/2013. (XII. 30.) Korm. rendelet 15. §-a hatályon kívül helyezte.
+[^4]: Az 1. melléklet 1. pont i. alpontját a 38/2013. (XII. 30.) Korm. rendelet 15. §-a hatályon kívül helyezte.
+[^5]: Az 1. melléklet 1. pont p. alpontja a 38/2013. (XII. 30.) Korm. rendelet 14. §-ával megállapított szöveg. be.
+[^6]: Az 1. melléklet 1. pont u. alpontját a 38/2013. (XII. 30.) Korm. rendelet 15. §-a hatályon kívül helyezte.
+[^7]: Az 1. melléklet 2. pont j. alpontját a 38/2013. (XII. 30.) Korm. rendelet 13. §-a iktatta be.
