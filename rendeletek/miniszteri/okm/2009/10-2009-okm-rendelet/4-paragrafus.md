@@ -1,7 +1,0 @@
-## Kisebbségi vegyes bizottságok ajánlásaiban szereplő közoktatási feladatok támogatása
-
-4. § (1) A támogatást a költségvetési törvény 5. számú mellékletének 6. d) pontjában meghatározott intézmények fenntartói vehetik igénybe a magyar–szlovák kisebbségi vegyes bizottság ajánlásában meghatározott feladat megvalósításához. A támogatás az oktató-nevelő munkához szükséges elemi tárgyi feltételek biztosítására (így különösen a cél szerinti működésnek nem megfelelő, egészségtelen épületrészek átalakítása, rekonstrukciója, fűtés és világítás korszerűsítése, vizesedések, beázások megszüntetése) igényelhető. Támogatás csak részletesen kidolgozott megvalósítási terv alapján, a 2009-ben megvalósuló feladatokra nyerhető el. Különösen indokolt esetben lehetséges a kötelezettségvállalással terhelt maradvány 2010. május 31-ig történő felhasználása, ezen összeg elszámolása a 2010. évi költségvetési beszámolóval egyidejűleg történik. A feladat megvalósítása a döntés kézhezvételét követően megkezdhető.
-
-(2) A fenntartó az adott helyzetben általában elvárható gondossággal eljárva köteles megkövetelni a teljesítések jó minőségben történő átadását; továbbá köteles érvényesíteni a rendelkezésére álló szavatossági és jótállási jogosítványait, valamint a szerződéseit biztosító mellékkötelezettségeit.
-
-(3) Az (1) bekezdés szerint igényelhető támogatás mértéke intézményenként legfeljebb 60 millió forint.
