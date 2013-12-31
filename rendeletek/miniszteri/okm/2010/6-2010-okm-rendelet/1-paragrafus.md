@@ -1,7 +1,0 @@
-1. § (1) Az előadó-művészeti szervezetek támogatásáról és sajátos foglalkoztatási szabályairól szóló 2008. évi XCIX. törvény (a továbbiakban: Emtv.) 10. §-a, valamint 11. §-a alapján nyilvántartásba vett és besorolt előadó-művészeti szervezetet fenntartó, illetve támogató önkormányzat, ennek hiányában az előadó-művészeti szervezet (a továbbiakban: Támogatott) az Emtv. szerinti központi költségvetési támogatás (a továbbiakban: támogatás) rendeltetésszerű felhasználásáról e rendelet melléklete szerinti beszámoló alapján számol el az előadó-művészeti államigazgatási szerv (továbbiakban: hatóság) részére.
-
-(2) A Támogatott rövid, szöveges beszámolóval alátámasztott, az e rendelet mellékletében meghatározott számszaki adatok megadásával számol el a támogatás felhasználásáról, és ismerteti a támogatott feladat, pályázati cél megvalósítását.
-
-(3) A Támogatott a beszámolót a tárgyévet követő év június 30-ig köteles megküldeni a Magyar Államkincstár Regionális Igazgatóságának (továbbiakban: Igazgatóság). Az Igazgatóság a beérkezéstől számított 30 napon belül – észrevételeivel – továbbítja a beszámolókat szakmai felülvizsgálatra a hatóság részére.
-
-(4) Az Igazgatóság a számszaki ellenőrzést követően szükség esetén nyolcnapos határidővel hiánypótlásra szólítja fel a Támogatottat. Ha a Támogatott a felhívásnak nem tesz eleget, vagy nem megfelelően teljesíti azt, és a határidő meghosszabbítását sem kéri, az Igazgatóság a beszámolót nem továbbítja a hatóság részére, és erről értesíti a hatóságot és a kultúráért felelős minisztert.
