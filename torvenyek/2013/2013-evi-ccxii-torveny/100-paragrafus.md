@@ -64,4 +64,4 @@ c) a természetes személy és gazdálkodó szervezet ügyfélnek a nyilvántart
 
 (6) A mezőgazdasági igazgatási szerv a (4) bekezdés szerinti adatokat a nyilvántartásból való törlés évét követő ötödik év végéig jogosult kezelni.
 
-(7) A mezőgazdasági igazgatási szerv az (1) bekezdés szerinti nyilvántartásban lévő adatokat az élelmiszerlánc-felügyeleti információs rendszerben kezeli.
+(7) A mezőgazdasági igazgatási szerv az (1) bekezdés szerinti nyilvántartásban lévő adatokat a földhivatali információs rendszerben kezeli.
