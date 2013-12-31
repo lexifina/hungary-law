@@ -1,0 +1,127 @@
+# A Kormány 553/2013. (XII. 31.) Korm. rendelete
+
+Magyar Közlöny 2013. évi 225. szám, 2013. december 31. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/39c52114225434dbebcabd491930e4ed6a0218b5/dokumentumok/3eaf5fa8c9b0fe6a72e9e7fe68ae6ac8caa0798c/letoltes)
+
+---
+
+A Kormány 553/2013. (XII. 31.) Korm. rendelete
+a polgári nemzetbiztonsági szolgálatok költségvetésének és gazdálkodásának egyes speciális szabályairól
+szóló 130/2011. (VII. 18.) Korm. rendelet módosításáról
+A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 109. § (1) bekezdés 28. pontjában,
+a 2. § tekintetében az állami vagyonról szóló 2007. évi CVI. törvény 71. § (1) bekezdés h) pontjában,
+a 4. § tekintetében az államháztartásról szóló 2011. évi CXCV. törvény 109.§ (1) bekezdés 29. pontjában,
+az 5. § tekintetében a számvitelről szóló 2000. évi C. törvény 178. § (1) bekezdés a) pontjában,
+a 8. § tekintetében az államháztartásról szóló 2011. évi CXCV. törvény 109. § (1) bekezdés 17. pontjában
+kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket
+rendeli el:
+1. §
+A polgári nemzetbiztonsági szolgálatok költségvetésének és gazdálkodásának egyes speciális szabályairól szóló
+130/2011. (VII. 18.) Korm. rendelet (a továbbiakban: Korm. rendelet) 2. § (2) bekezdése helyébe a következő
+rendelkezés lép:
+„(2) A Szolgálatok a Kincstárnál vezetett fizetési számlát érintő kiadások és bevételek teljesítése során a fejezeti
+elosztási számlára és a fejezeti maradvány-elszámolási számlára történő utalásra, a lakástámogatásra és a dolgozók
+lakásépítésének, lakásvásárlásának munkáltatói támogatására szolgáló számla, az európai uniós forrásokra
+az„Azonosítás alatt álló kiadások”-ra és az„Azonosítás alatt álló bevételek”-re vonatkozó Egységes Rovat Azonosító
+Kódokat használhatják.”
+2. §
+A Korm. rendelet 4. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) A Szolgálatok az állami vagyonról az államháztartás számviteléről szóló 4/2013. (I. 11.) Korm. rendelet
+5. mellékletének adataiból az„Eszköz”fő sorainak megfelelő adattartalommal küldenek adatot az MNV Zrt.-nek.”
+3. §
+A Korm. rendelet 7. §-a helyébe a következő rendelkezés lép:
+„7. § (1) A Szolgálatok költségvetését a központi költségvetési tervezésnél Szolgálatonként, kiemelt előirányzatok
+szerinti bontásban kell szerepeltetni.
+(2) A Szolgálatok a jogszabályokban meghatározott adatszolgáltatásokat a fejezetet irányító szerv részére küldik
+meg.
+(3) A fejezetet irányító szerv a Szolgálatokra vonatkozó éves költségvetés javaslatát, az elemi költségvetést és
+az éves beszámolót az államháztartásért felelős miniszternek és az Országgyűlés nemzetbiztonsági ügyekkel
+foglalkozó bizottságának küldi meg. Az elemi költségvetést és az éves költségvetési beszámolót a Kincstárhoz
+a (8) bekezdésben meghatározott adattartalommal kell benyújtani. Az éves költségvetési beszámolóhoz
+a Szolgálatok szöveges indokolást készítenek, és azt a fejezetet irányító szerv részére megküldik.
+(4) A fejezetet irányító szerv a Szolgálatokra vonatkozó, jogszabályban meghatározott adatszolgáltatásokat
+a (8) bekezdésben meghatározott összevont adattartalommal a Kincstárnak és az államháztartásért felelős
+miniszternek küldi meg.
+(5) A kincstári költségvetési jelentéshez a Szolgálatok az államháztartás számviteléről szóló 4/2013. (I. 11.) Korm.
+rendelet (a továbbiakban: Áhsz.) szerint a költségvetési számvitelben elszámolt adataikról a (8) bekezdés szerinti
+tartalommal szolgáltatnak adatot a Kincstárnak a tárgyhónapot követő hónap tízedik napjáig.
+(6) Az államháztartás végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) 169. §
+(1) bekezdése szerinti időközi költségvetési jelentést a Szolgálatok az (5) bekezdésében meghatározott
+adattartalommal készítik el.
+(7) A Szolgálatok időközi mérlegjelentéseit a fejezetet irányító szerv a Kincstárnak nem továbbítja.
+(8) Az adatszolgáltatásokról készített összesítésekben a Szolgálatok által megadott
+1. személyi juttatások kiemelt előirányzatot a„K1101. Törvény szerinti illetmények, munkabérek”rovaton,
+2. a munkaadókat terhelő járulékok és szociális hozzájárulási adó kiemelt előirányzatot a „K2. Munkaadókat terhelő
+járulékok és szociális hozzájárulási adó”rovaton,
+3. a dologi kiadások kiemelt előirányzatot a„K355. Egyéb dologi kiadások”rovaton,
+4. az ellátottak pénzbeli juttatásai előirányzatot a„K48. Egyéb nem intézményi ellátások”rovaton,
+5. az egyéb működési célú kiadások kiemelt előirányzatot „K511. Egyéb működési célú támogatások
+államháztartáson kívülre”, és„K506. Egyéb működési célú támogatások államháztartáson belülre”rovaton,
+6. a beruházások kiemelt előirányzatot a„K64. Egyéb tárgyi eszközök beszerzése, létesítése”rovaton,
+
+7. a felújítások kiemelt előirányzatot a„K71. Ingatlanok felújítása”rovaton,
+8. az egyéb felhalmozási célú kiadások kiemelt előirányzatot a „K88 Egyéb felhalmozási célú támogatások
+államháztartáson kívülre”, és„K84 Egyéb felhalmozási célú támogatások államháztartáson belülre”rovaton,
+9. a működési célú támogatások államháztartáson belülről kiemelt előirányzatot a „B16 Egyéb működési célú
+támogatások bevételei államháztartáson belülről”rovaton,
+10. a felhalmozási célú támogatások államháztartáson belülről kiemelt előirányzatot a„B25 Egyéb felhalmozási célú
+támogatások bevételei államháztartáson belülről”rovaton,
+11. működési bevételek kiemelt előirányzatot a„B410 Egyéb működési bevételek”rovaton,
+12. a felhalmozási bevételek előirányzatot a„B53. Egyéb tárgyi eszközök értékesítése”rovaton,
+13. a működési célú átvett pénzeszközök kiemelt előirányzatot a „B63 Egyéb működési célú átvett pénzeszközök”
+rovaton,
+14. a felhalmozási célú átvett pénzeszközök kiemelt előirányzatot a „B73 Egyéb felhalmozási célú átvett
+pénzeszközök”rovaton,
+15. a finanszírozási bevételek kiemelt előirányzatot a maradvány igénybevétele kivételével a „B816. Központi,
+irányító szervi támogatás”rovaton,
+16. a maradvány igénybevételt a„B813 Maradvány igénybevétele”rovaton
+kell megjeleníteni.”
+4. §
+A Korm. rendelet 8. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) Az államháztartásról szóló 2011. évi CXCV. törvény 104. § (1) bekezdése szerinti törzskönyvi nyilvántartás
+a Szolgálatokról a Szolgálat
+1. törzskönyvi azonosító számát,
+2. egyedi megnevezését,
+3. székhelyét,
+4. alaptevékenységét az alapító okirat szerint,
+5. adószámát, KSH statisztikai számjelét és a Nemzeti Adó- és Vámhivatal Kiemelt Adózók Adóigazgatósága
+kizárólagos illetékességi körébe tartozását,
+6. felett alapítói jogok gyakorlására jogosult megnevezését,
+7. alapító okiratának és megszüntető okiratának keltét, alapításának és megszüntetésének időpontját,
+8. által létesíthető, foglalkoztatásra irányuló jogviszonyok megnevezését,
+9. irányító szervének megnevezését,
+10. vezetőjének nevét, kinevezésének időpontját,
+11. nettó finanszírozási körbe tartozását, annak kezdő és záró időpontját,
+12. központosított illetmény-számfejtési körbe tartozását, annak kezdő és záró időpontját, és
+13. megszüntetése esetén az ezzel kapcsolatos adatokat
+tartalmazza.”
+5. §
+A Korm. rendelet 9. §-a helyébe a következő rendelkezés lép:
+„9. § Ha a Szolgálatok alaptevékenységük ellátása érdekében saját felhasználás céljából eszközöket, illetve
+termékeket állítanak elő, ezen eszközök, illetve termékek vonatkozásában nem kell az Áhsz. 50. § (3) bekezdésében
+meghatározott önköltségszámítás rendjére vonatkozó szabályokat alkalmazni.”
+6. §
+A Korm. rendelet 10. §-a helyébe a következő rendelkezés lép:
+„10. § A Szolgálatok előirányzataik terhére elszámolhatják a feladataik végrehajtása során felmerülő kiadásaikat
+a feladat végrehajtásában érintett személyi állomány tagja nevére, címére kiállított számla alapján is az Ávr. 59. §
+(1) bekezdésében meghatározott teljesítés igazolás megléte esetén.”
+7. § (1) A Korm. rendelet 11. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A Szolgálatok költségvetésében az alaptevékenységgel összefüggő speciális működési kiadások fedezetére
+elkülönített előirányzatot a dologi kiadások kiemelt előirányzaton belül egy összegben a „K355. Egyéb dologi
+kiadások” rovaton kell tervezni és elszámolni, tekintet nélkül arra, hogy az személyi jellegű, felhalmozási, felújítási
+célú vagy dologi kiadás. Ilyen kiadás esetén az elszámolás alapokmányául számla, személyi állomány tagja nevére,
+címére, illetve fedőnévre kiállított számla vagy egyéb számviteli bizonylat – ideértve a számlát helyettesítő belső
+
+bizonylatot vagy a számlával egy tekintet alá eső okiratot is – elfogadható az Ávr. 59. §-ában meghatározott
+teljesítés igazolás megléte esetén.”
+(2) A Korm. rendelet 11. § (9) bekezdése helyébe a következő rendelkezés lép:
+„(9) A Szolgálatok költségvetésében az alaptevékenységgel összefüggő speciális bevételeiket a működési bevételek
+kiemelt előirányzaton belül egy összegben a „B410. Egyéb működési bevételek” rovaton tervezik és számolják el.
+Az ilyen bevételekről elkülönített nyilvántartást kell vezetni és azok éves összegéről az éves költségvetési beszámoló
+szöveges indokolásában kell – a műveleti szempontokat figyelembe véve – tájékoztatást adni a fejezetet irányító
+szerv vezetője részére. A Szolgálatok az ilyen bevételek teljes összegét felhasználhatják kiadásaik fedezésére.”
+8. §
+Hatályát veszti a Korm. rendelet 6. alcíme.
+9. §
+Ez a rendelet 2014. január 1-jén lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
