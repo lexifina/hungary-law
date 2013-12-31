@@ -1,4 +1,4 @@
-## 38–39. §[^18]
+## 38–39. §[^20]
 
 ## 3. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) Az 1–28. §, a 30–39. §, valamint az 1. és 2. melléklet 2014. január 1-jén lép hatályba.
 
-[^18]: A 38–39. § a 40. § (2) bekezdése alapján 2014. január 1-jén lép hatályba.
+[^20]: A 38–39. § a 40. § (2) bekezdése alapján 2014. január 1-jén lép hatályba.
