@@ -1,7 +1,9 @@
-## 1. §[^1] A fejlesztéspolitikáért felelős miniszter mint a Környezetvédelem és Infrastruktúra Operatív Program (a továbbiakban: KIOP) végrehajtásának felügyeletéért felelős miniszter
+## 1. §[^1] A KIOP
 
-a) az „Energia Központ” Energiahatékonysági, Környezetvédelmi és Energia Információs Ügynökség Nonprofit Kft-t (a továbbiakban: Energia Központ Nonprofit Kft.) a KIOP 1. Környezetvédelem prioritás valamennyi intézkedésének végrehajtására,
+a) 1. Környezetvédelem prioritás valamennyi intézkedésének végrehajtását az Energia Központ Energiahatékonysági, Környezetvédelmi és Energia Információs Ügynökség Nonprofit Kft. (a továbbiakban: Energia Központ Nonprofit Kft.),
 
-b) a KIKSZ Közlekedésfejlesztési Zrt-t a KIOP Közlekedési infrastruktúra fejlesztése prioritáson belül „A főúthálózat műszaki színvonalának emelése” intézkedés végrehajtására, valamint a – projektek fenntartási időszakának kezdetétől – „a környezetbarát közlekedési infrastruktúra fejlesztése” intézkedés végrehajtására a strukturális alapok közreműködő szervezeteként (a továbbiakban: SA közreműködő szervezet)
+b) Közlekedési infrastruktúra fejlesztése prioritáson belül A főúthálózat műszaki színvonalának emelése intézkedés végrehajtására, valamint a – projektek fenntartási időszakának kezdetétől – a környezetbarát közlekedési infrastruktúra fejlesztése intézkedés végrehajtását a KIKSZ Közlekedésfejlesztési Zrt.-t (a továbbiakban: SA közreműködő szervezet)
 
-[^1]: Az 1. § a 27/2011. (V. 31.) NFM rendelet 1. §-ával megállapított szöveg.
+látja el.
+
+[^1]: Az 1. § a 3/2013. (XII. 31.) ME rendelet 3. §-ával megállapított szöveg.

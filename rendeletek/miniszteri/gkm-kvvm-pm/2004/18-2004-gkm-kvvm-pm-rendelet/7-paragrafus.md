@@ -14,6 +14,7 @@ a) eljárni a jogtalanul igénybe vett vagy visszafizetésre meghatározott tám
 
 b) kiadni a felhatalmazó levélen alapuló beszedési megbízás visszavonására vonatkozó hozzájáruló nyilatkozatot,
 
-c) perbe lépni a Nemzeti Fejlesztési Ügynökség pernyertességét elősegítendően a folyamatban lévő peres eljárásokba.
+c)[^12] perbe lépni az irányító hatóság pernyertességét elősegítendően a folyamatban lévő peres eljárásokba.
 
 [^11]: A 7. §-t a 27/2011. (V. 31.) NFM rendelet 2. §-a iktatta be.
+[^12]: A 7. § (2) bekezdés c) pontja a 3/2013. (XII. 31.) ME rendelet 4. §-a szerint módosított szöveg.

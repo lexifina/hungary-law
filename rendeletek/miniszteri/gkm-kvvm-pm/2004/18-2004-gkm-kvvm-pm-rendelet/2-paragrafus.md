@@ -1,5 +1,3 @@
-## jelöli ki.
-
 2. § (1)[^2] Az 1. § a) és b) pontjában megjelölt SA közreműködő szervezetek kötelezettségeit a (2)–(8) bekezdések határozzák meg.
 
 (2) Az SA közreműködő szervezet pályázatkezeléssel kapcsolatos kötelezettségei különösen a pályázatok befogadása és iktatása, jogosultságának és teljességének ellenőrzése, értékelése, az értékelő lap kitöltése, döntésre való előkészítése.
