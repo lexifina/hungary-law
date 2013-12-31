@@ -1,0 +1,1 @@
+## 1. § A Kormány Magyarország Kormánya és az Organisation for Economic Co-operation and Development (OECD) közötti második közigazgatás-fejlesztési keretmegállapodás (a továbbiakban: Megállapodás) 2013. november 29-étől hatályos szövegét e rendelettel kihirdeti.
