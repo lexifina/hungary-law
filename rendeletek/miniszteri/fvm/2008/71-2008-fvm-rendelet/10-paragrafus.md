@@ -1,4 +1,6 @@
-10. § (1)[^2]
+## 8–9. §[^2]
+
+10. § (1)[^3]
 
 (2) E rendelet 8–9. §-a 2013. december 31-én, e bekezdés 2014. január 1-jén a hatályát veszti.
 
@@ -44,4 +46,5 @@ aláírás
 
 ”
 
-[^2]: A 10. § (1) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
+[^2]: A 8–9. §-t a 10. § (2) bekezdése hatályon kívül helyezte.
+[^3]: A 10. § (1) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
