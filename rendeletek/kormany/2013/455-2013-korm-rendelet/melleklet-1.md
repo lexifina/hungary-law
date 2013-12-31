@@ -1,8 +1,4 @@
-## 23. § A telepengedély, illetve a telep létesítésének bejelentése alapján gyakorolható egyes termelő és egyes szolgáltató tevékenységekről, valamint a telepengedélyezés rendjéről és a bejelentés szabályairól szóló 57/2013. (II. 27.) Korm. rendelet 1. melléklete a következő 82. ponttal egészül ki:
-
-## (Bejelentés-köteles tevékenységek)
-
-## „82. nem közművel összegyűjtött háztartási szennyvíz szállítása”
+## 22–23. §[^1]
 
 1. melléklet a 455/2013. (XI. 29.) Korm. rendelethez
 
@@ -57,3 +53,5 @@ P. H.
 .....................................
 
 cégszerű aláírás
+
+[^1]: A 22–23. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
