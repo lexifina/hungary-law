@@ -46,50 +46,6 @@
 
 | * Az eljáró szabálysértési hatóság állapítja meg. |
 
-2. melléklet a 22/2012. (IV. 13.) BM rendelethez[^8]
+2. melléklet a 22/2012. (IV. 13.) BM rendelethez[^23]
 
-| Válasznyomtatvány |
-
-| [kérem nyomtatott nagybetűkkel kitölteni] |
-
-| (eljáró hatóság neve, címe) |
-
-| Ügyszám: |
-
-| Határozat azonosító: |
-
-| NYILATKOZAT |
-
-| a jármű vezetőjének adatairól |
-
-| Alulírott [név, jogi személy vagy jogi személyiséggel nem rendelkező szervezet (a továbbiakban: szervezet) megnevezése], ......................................................................................................................................…… (születési hely, idő vagy a szervezet cégjegyzék-, illetőleg nyilvántartási száma) .................................................................................................................................... ………………….. (lakcím, vagy székhely címe) szám alatti lakos vagy a szervezet képviselője az alábbi nyilatkozatot teszem. |
-
-| Tájékoztatom a szabálysértési hatóságot, hogy a ............ ............. forgalmi rendszámú gépjárművel a tájékoztatóban megjelölt időpontban és helyen az alábbi személy közlekedett: |
-
-| Név: |
-
-| állampolgárság: |
-
-| anyja neve: |
-
-| születési helye, ideje: |
-
-| lakóhelye, tartózkodási helye: |
-
-| vezetői engedélye száma: |
-
-| Tájékoztatom a szabálysértési hatóságot, hogy a kért adatszolgáltatásnak az alábbi okból nem tudok eleget tenni.: |
-
-| – a jármű ...................... év.................... hónap ................ napjától nincs a tulajdonomban,/használatomban vagy a szervezet tulajdonában, használatában (Melléklem az adásvételi szerződés/kölcsönadási szerződés másolatát, illetve kölcsönvevő személy adatait) ** |
-
-| – a járművet ........... év .................hónap ....... napján eltulajdonították, ismeretlen tettes ellen feljelentést tettem * |
-
-| – egyéb ok *: |
-
-| Kelt, ....................................................., 20... év ................................................... hó .................... napján. |
-
-| ............................................................................... (aláírás, cégszerű aláírás) |
-
-| A *-gal jelölt helyen a megfelelő rész kitöltendő. |
-
-[^8]: A 2. mellékletet a 21/2013. (VI. 7.) BM rendelet 3. § (4) bekezdése iktatta be.
+[^23]: A 2. mellékletet a 21/2013. (VI. 7.) BM rendelet 3. § (4) bekezdése iktatta be.
