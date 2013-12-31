@@ -1,1 +1,0 @@
-3. § Hatályát veszti a Vkt. 2. § (2) bekezdés g) pontjában az „a fejlesztéspolitikáért felelős miniszterrel,” szövegrész és 80. § (2) bekezdésében az „ , a fejlesztéspolitikáért felelős miniszter” szövegrész.
