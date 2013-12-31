@@ -2,7 +2,7 @@
 
 17. § (1) A biztosító köteles a mezőgazdasági biztosítási szerződés alapján díjtámogatás iránti kérelmet benyújtó mezőgazdasági termelő használatában lévő területre kötött mezőgazdasági biztosítási szerződés adatai közül
 
-a) a biztosított mezőgazdasági termelő azonosítására (név, székhely vagy lakcím, eljárási tv. szerinti ügyfél-azonosító szám),
+a) a biztosított mezőgazdasági termelő azonosítására (név, székhely vagy lakcím, eljárási tv. szerinti ügyfél-azonosító),
 
 b) a biztosított növénykultúra megnevezésére,
 
@@ -14,7 +14,7 @@ vonatkozó adatokat az a) és b) pont szerinti adatok esetében június 15-ig, a
 
 (2) A biztosító köteles:
 
-a) a mezőgazdasági biztosítási szerződés alapján díjtámogatás iránti kérelmet benyújtó mezőgazdasági termelő által kötött mezőgazdasági biztosítási szerződés adatai alapján a mezőgazdasági termelő azonosítására szolgáló adatokról (név, székhely vagy lakcím, eljárási tv. szerinti ügyfél-azonosító szám),
+a) a mezőgazdasági biztosítási szerződés alapján díjtámogatás iránti kérelmet benyújtó mezőgazdasági termelő által kötött mezőgazdasági biztosítási szerződés adatai alapján a mezőgazdasági termelő azonosítására szolgáló adatokról (név, székhely vagy lakcím, eljárási tv. szerinti ügyfél-azonosító),
 
 b) a kockázatviselés helye szerinti bontásban a biztosítónak bejelentett mezőgazdasági káreseményről, valamint
 

@@ -8,12 +8,12 @@
 
 (5) A mezőgazdasági árvízkár utáni kárenyhítő juttatás kifizetése
 
-a) a tárgyévhez kapcsolódóan esedékes, amennyiben az esemény bejelentését tárgyév január 1. és október 31. között,
+a) a tárgyévhez kapcsolódóan esedékes, amennyiben az eseményről tárgyév január 1. és október 31. között,
 
-b) a tárgyévet követő évhez kapcsolódóan esedékes, amennyiben az esemény bejelentését tárgyév november 1. és a tárgyévet követő év október 31. között
+b) a tárgyévet követő évhez kapcsolódóan esedékes, amennyiben az eseményről tárgyév november 1. és a tárgyévet követő év október 31. között,
 
-c) nem lehetséges, amennyiben az esemény bejelentését a tárgyévet követő év október 31-e után
+c) nem lehetséges, amennyiben az eseményről a tárgyévet követő év október 31-e után
 
-hagyja jóvá a Bizottság, és a mezőgazdasági árvízhelyzetről a miniszter a Bizottsági jóváhagyást megelőzően közleményt ad ki.
+értesíti a miniszter a Bizottságot, és a mezőgazdasági árvízhelyzetről a miniszter a Bizottság értesítését megelőzően közleményt ad ki.
 
 (6) Aszálykár után abban az esetben fizethető ki kárenyhítő juttatás, ha az aszályhelyzetről a miniszter legkésőbb a tárgyév október 31-ig közleményt ad ki.

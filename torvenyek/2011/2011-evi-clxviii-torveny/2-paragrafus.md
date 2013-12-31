@@ -32,6 +32,8 @@
 
 16. kárenyhítő juttatás: a 7. § szerinti mezőgazdasági kockázatkezelési pénzeszköz terhére a kockázatközösségben tag mezőgazdasági termelő számára történő kifizetés;
 
+16/a. kármegállapítást támogató szervek: a káreseményeket kiváltó időjárási jelenségeket megfigyelő, arról adatokat gyűjtő és a kármegállapítást alátámasztó adatokat szolgáltató szervek (országos meteorológiai szerv, földmérési és térinformatikai államigazgatási szerv, vízügyi igazgatási szerv);
+
 17. kockázatviselés helye: az egységes kérelemben foglaltakkal megegyezően megjelölt olyan terület, amelyre vonatkozóan a mezőgazdasági termelő kárenyhítési hozzájárulás fizetési kötelezettsége fennáll;
 
 18. mezőgazdasági árvíz: a folyók vagy vízfolyások védművekkel határolt területéről nem emberi beavatkozás miatt kilépő víz;
@@ -44,7 +46,7 @@
 
 22. mezőgazdasági őstermelő: a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 3. § 18–19. pontja szerinti magánszemély;
 
-23. mezőgazdasági termelő: az egységes kérelmet benyújtó, a mezőgazdasági és vidékfejlesztési támogatási szerv által nyilvántartott ügyfél;
+23. mezőgazdasági termelő: az egységes kérelmet benyújtó, a mezőgazdasági és vidékfejlesztési támogatási szerv által kérelemre nyilvántartásba vett ügyfél;
 
 24. mezőgazdasági termény termeltetése: a mezőgazdasági termény termelőjével kötött olyan megállapodás, amely keretében a mezőgazdasági termény termelője a mezőgazdasági termény megtermelését segítő szolgáltatást vesz igénybe, és az így megtermelt mezőgazdasági terményt a szolgáltatás nyújtója saját felhasználás vagy továbbértékesítés céljára átveszi;
 
