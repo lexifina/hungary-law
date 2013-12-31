@@ -88,7 +88,7 @@
 
 | .................................................................. .......................................................... Előadó-művészeti szervezet Fenntartó |
 
-3. melléklet a 34/2013. (V. 14.) EMMI rendelethez[^2]
+3. melléklet a 34/2013. (V. 14.) EMMI rendelethez[^1]
 
 Az előadó-művészeti tevékenységre kapott társaságiadó-kedvezményre jogosító támogatás elszámolása
 
@@ -180,4 +180,4 @@ Büntetőjogi felelősségem tudatában nyilatkozom, hogy a fenti adatokhoz kapc
 
 | .................................................................. .......................................................... Előadó-művészeti szervezet Fenntartó |
 
-[^2]: A 3. melléklet az 52/2013. (VII. 15.) EMMI rendelet 16. §-a szerint módosított szöveg.
+[^1]: A 3. melléklet az 52/2013. (VII. 15.) EMMI rendelet 16. §-a szerint módosított szöveg.
