@@ -2,11 +2,11 @@
 
 (2) A miniszter irányítása alatt álló, gazdasági elemzésekkel foglalkozó intézet – agrárgazdasági adatbázisokat működtető szervként – működteti
 
-a) a reprezentatív üzemgazdasági adatbázist,
+a) a tesztüzemi információs rendszert,
 
 b) a piaci árinformációs rendszert.
 
-(3) A reprezentatív üzemgazdasági adatbázis és a piaci árinformációs rendszer működését, az adatszolgáltatás tartalmát, gyakoriságát, az adatok felhasználását, az adatszolgáltatásra kötelezettek körét, továbbá az adatszolgáltatás módját a miniszter rendeletben állapítja meg.
+(3) A tesztüzemi információs rendszer és a piaci árinformációs rendszer működését, az adatszolgáltatás tartalmát, gyakoriságát, az adatok felhasználását, az adatszolgáltatásra kötelezettek körét, továbbá az adatszolgáltatás módját a miniszter rendeletben állapítja meg.
 
 (4) A piaci árinformációs rendszer belföldi árjelentési feladatokat, valamint az európai uniós tagságból fakadó árjelentési kötelezettségeket lát el a nemzeti és a közös piacszabályozás működtetése érdekében. Az (5) bekezdésben meghatározott ágazatokban a valós piaci folyamatok nyomon követése egyedi azonosítóval ellátott szervezetsoros ár- és mennyiségi feladatok gyűjtésén, kötelező adatszolgáltatáson és azok feldolgozásán keresztül valósul meg. Az egyedi információkból számított – egyedi azonosító adatokat nem tartalmazó – súlyozott átlagok rendszeres jelentése az Európai Bizottság, a nemzeti irányító szervek és a magyarországi piaci szereplők felé történik.
 

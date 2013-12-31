@@ -12,7 +12,7 @@ e) a vágás utáni minősítési rendjét, és a minősítő hatóság kijelöl
 
 f) a piaci árinformációs rendszer működését, az adatszolgáltatás tartalmát, gyakoriságát, az adatok felhasználását, az adatszolgáltatásra kötelezettek körét, továbbá az adatszolgáltatás módját érintő szabályokat;
 
-g) a reprezentatív üzemgazdasági adatbázis működését érintő szabályokat,
+g) a tesztüzemi információs rendszer működését érintő szabályokat,
 
 h) a termésbecsléssel kapcsolatos adatszolgáltatás részletes szabályait,
 
