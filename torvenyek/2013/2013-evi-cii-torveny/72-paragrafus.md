@@ -4,13 +4,13 @@
 
 2. a halászati engedély, az állami halászjegy, az állami horgászjegy, a turista állami horgászjegy mintáját, tartalmával és kiadásával összefüggő részletes feltételeket, valamint a halászati engedélyt, az állami halászjegyet, állami horgászjegyet igénylő nyilatkozatának részletes szabályait;
 
-3. az állami halászvizsga és állami horgászvizsga követelményeit és szabályait; az állami horgászvizsga és az állami halászvizsga vizsgadíjának mértékét és megfizetésének módját, az állami horgászvizsga és az állami halászvizsga letétele alóli mentesítés feltételeit, valamint a halászati engedély kiváltásához szükséges vizsga és képzettség követelményeit;
+3. az állami halász- és horgászvizsgára vonatkozó részletes előírásokat, a vizsgáztatásban való közreműködés szabályait, az állami horgászvizsga és az állami halászvizsga vizsgadíjának mértékét és megfizetésének módját, az állami horgászvizsga és az állami halászvizsga letétele alóli mentesítés feltételeit, valamint a halászati engedély kiváltásához szükséges vizsga és képzettség követelményeit;
 
 4. a halászati, halgazdálkodási szakirányú végzettséggel rendelkező személy foglalkoztatására vonatkozó előírásokat és a halászati tevékenységekhez kapcsolódó képzettségi előfeltételekre vonatkozó szabályokat;
 
 5. a halgazdálkodási jog haszonbérletére kiírt pályázatok részletes feltételeit és értékelési pontrendszerét; a haszonbérleti szerződés megszűnésekor a haszonbérlő által követelhető haltelepítési költségeket;
 
-6. az Adattárból való adatszolgáltatás rendjét;
+6. az Adattár működtetésének, továbbá az Adattárból való adatszolgáltatás rendjének részletes szabályait, továbbá az Adattár működtetéséért felelős szervet;
 
 7. a halászati tilalmak és korlátozások 17. pont szerinti szabályozással nem érintett körét, valamint a tilalmak alóli felmentés szabályait;
 
@@ -18,7 +18,7 @@
 
 9. a vízélettani laboratórium halgazdálkodási vízterületek minősítésére, vízszennyezéssel, halpusztulással kapcsolatos halélettani vizsgálatára vonatkozó eljárással összefüggő szabályokat;
 
-10. az állami halászjegy, az állami horgászjegy és a turista állami horgászjegy, valamint a fogási napló és a fogási tanúsítvány díját;
+10. az állami halászjegy, az állami horgászjegy és a turista állami horgászjegy, valamint a fogási napló és a fogási tanúsítvány díját, megfizetésének és kezelésének részletes szabályait;
 
 11. az egyenáramú elektromos eszközzel végzett, tudományos kutatási, valamint az egyéb célú halfogási engedély kiadásának részletes szabályait;
 

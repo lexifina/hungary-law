@@ -2,7 +2,7 @@
 
 34. § (1) Azt a halgazdálkodási vízterületet, ahol halgazdálkodási tevékenységet folytatnak vagy a jövőben folytatni kívánnak, a halgazdálkodási hatósághoz be kell jelenteni.
 
-(2) A halgazdálkodási vízterületet a halgazdálkodási hatóság hivatalból, vagy a halgazdálkodási vízterület fekvése szerinti ingatlan tulajdonosának (1) bekezdés szerinti bejelentésére nyilvántartásba veszi.
+(2) A halgazdálkodási vízterületet a halgazdálkodási hatóság hivatalból, vagy a halgazdálkodási vízterület fekvése szerinti ingatlan tulajdonosának (1) bekezdés szerinti bejelentésére – az e törvénynek a nyilvántartott halgazdálkodási vízterületekre vonatkozó előírásainak érvényre juttatása céljából – nyilvántartásba veszi.
 
 (3) A nyilvántartott halgazdálkodási vízterületek nyilvántartása tartalmazza
 
@@ -27,3 +27,5 @@ i) a különleges rendeltetésűvé nyilvánítást;
 j) a halgazdálkodási kíméleti területek kijelölését.
 
 (4) A (3) bekezdés szerinti nyilvántartás az ott meghatározott adatok vonatkozásában – a természetes személyazonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+
+(5) A (2) bekezdés szerinti nyilvántartásban szereplő személyes adatok a jogosultság megszűnésétől számított tíz évig kezelhetők.

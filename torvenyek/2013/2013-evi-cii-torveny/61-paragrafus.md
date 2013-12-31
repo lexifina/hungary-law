@@ -30,6 +30,8 @@ l) a halgazdálkodással összefüggő berendezéseket, eszközöket ellenőrizh
 
 m) eljárása dokumentálására a helyszínen kép-, illetve hangfelvételt készíthet;
 
-n) jogszabálysértés alapos gyanúja esetén jogosult a lezárt terület, épület, helyiség felnyitásával, az ott tartózkodó személyek akarata ellenére is a lezárt ingatlanok területére, üzlethelyiségbe, üzemi helyiségbe belépni és ott az ellenőrzést lefolytatni akkor is, ha azok egyidejűleg lakás céljára szolgálnak, továbbá szállítóeszközöket, dokumentációt, számviteli bizonylatokat ellenőrizni.
+n) jogszabálysértés alapos gyanúja esetén jogosult a lezárt terület, épület, helyiség felnyitásával, az ott tartózkodó személyek akarata ellenére is a lezárt ingatlanok területére, üzlethelyiségbe, üzemi helyiségbe belépni és ott az ellenőrzést lefolytatni akkor is, ha azok egyidejűleg lakás céljára szolgálnak, továbbá szállítóeszközöket, dokumentációt, számviteli bizonylatokat ellenőrizni;
+
+o) vízszennyezést, illetve halpusztulást követő állapotok megállapítása céljából állományfelmérő hatósági mintavételt végezhet.
 
 (3) A halgazdálkodási hatóságnál kérelemre indult eljárásban az e törvény végrehajtására kiadott rendeletben meghatározott igazgatási szolgáltatási díjat kell megfizetni.

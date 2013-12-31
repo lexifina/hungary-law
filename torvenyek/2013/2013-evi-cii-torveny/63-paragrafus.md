@@ -28,7 +28,9 @@ g) természetes partszakaszok megőrzése, helyreállítása,
 
 h) halgazdálkodási kíméleti területek kialakítása, illetve
 
-i) halászati őrzés támogatása, fejlesztése.
+i) halászati őrzés támogatása, fejlesztése,
+
+j) a halgazdálkodás hatósági, igazgatási, ellenőrzési és állami halőrzési feladatainak támogatása,
 
 (3) Az (1) bekezdés a) és b) pontja alapján befolyt bevételt a halgazdálkodási hatóság negyedévente, a tárgynegyedévet követő hónap 20. napjáig átutalja a miniszter által megjelölt számlára.
 
@@ -40,4 +42,4 @@ b) országos halgazdálkodási ellenőrzések szervezése, végrehajtásának ko
 
 c) halgazdálkodási felügyelők továbbképzése, illetve
 
-d) halpusztulások okainak felderítése.
+d) halpusztulások okainak felderítése és a halpusztulások okozta károk elhárítása.

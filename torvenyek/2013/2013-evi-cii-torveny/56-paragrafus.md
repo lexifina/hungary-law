@@ -12,7 +12,7 @@
 
 (6) Állami alkalmazásban álló halászati őr bármely halgazdálkodási vízterületen eljárhat.
 
-(7) Az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvény szerint alkalmazott halászati őr az ott meghatározott intézkedések és kényszerítő eszközök alkalmazásán túl jogosult:
+(7) Az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvény szerint alkalmazott halászati őr az ott meghatározott intézkedések és kényszerítő eszközök alkalmazásán túl a halgazdálkodási vízterületen és annak partján jogosult:
 
 a) azt a személyt, aki a halgazdálkodási vízterületen, annak partján halászik, horgászik, hal kifogására irányuló tevékenységet végez vagy ahhoz előkészül, a halfogásra jogosító okmányok bemutatására felszólítani,
 
@@ -40,7 +40,7 @@ eg) a méret-, illetve mennyiségi korlátozásokat megszegi.
 
 (8) A halászati őrök felügyeletét a halgazdálkodási hatóság – a rendőrséggel együtt – látja el.
 
-(9) A halászati őrökről és az 57. § (1) bekezdés szerinti társadalmi halőrökről a halgazdálkodási hatóság nyilvántartást vezet. A halászati őrök nyilvántartása tartalmazza a halászati őr vagy a társadalmi halőr
+(9) A halászati őrökről és a társadalmi halőrökről a halgazdálkodási hatóság – az alkalmazási követelményeknek való megfelelés ellenőrzése, a szolgálati igazolványok hitelességének és a halászati őr vagy társadalmi halőr azonosításának céljából – nyilvántartást vezet. A nyilvántartás tartalmazza a halászati őr és a társadalmi halőr
 
 a) nyilvántartásba vételének időpontját;
 
@@ -69,3 +69,5 @@ l) foglalkoztatásának, megbízásának kezdő, illetve befejező időpontját.
 (10) A (9) bekezdésben meghatározott nyilvántartás – a természetes személyazonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
 (11) A halászati őrök hatósági nyilvántartására, vizsgakövetelményeire, továbbképzésére és működésére vonatkozó részletes szabályokat az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvény, valamint annak végrehajtására kiadott rendelet és az e törvény végrehajtására kiadott rendelet határozza meg.
+
+(12) A (9) és (11) bekezdésben meghatározott adatkezelők a nyilvántartás adatait a szolgálati igazolvány visszavonását követő 3 hónapig kezelik.

@@ -6,9 +6,11 @@
 
 (3) A területi jegy csak
 
-a) állami halászjeggyel és fogási naplóval, vagy
+a) állami halászjeggyel és fogási naplóval,
 
-b) állami horgászjeggyel és fogási naplóval
+b) állami horgászjeggyel és fogási naplóval, vagy
+
+c) turista állami horgászjeggyel és fogási naplóval
 
 együtt jogosít halászatra vagy horgászatra.
 
@@ -17,3 +19,5 @@ együtt jogosít halászatra vagy horgászatra.
 (5) A halgazdálkodásra jogosult a feljogosított személytől a halászati őr intézkedésével összefüggésben átadott területi jegyet a halvédelmi bírság kiszabása iránt kezdeményezett hatósági, a halászattal, horgászattal, továbbá hal fogásával összefüggésben lefolytatott szabálysértési vagy büntetőeljárás jogerős befejezéséig visszatarthatja, és azt az eljárás eredményétől függően visszaadja vagy visszavonja.
 
 (6) A halgazdálkodásra jogosult köteles nyilvántartást vezetni az általa kiadott területi jegyekről, továbbá köteles a nyilvántartásba a halgazdálkodási hatóság számára betekintést nyújtani, a halgazdálkodási hatóság kérésére adatot szolgáltatni.
+
+(7) A halgazdálkodási hatóság a (6) bekezdés alapján megismert személyes adatokat a jogosult halgazdálkodási tevékenysége szabályszerűségének, valamint a halászat és horgászat rendje betartásának ellenőrzése céljából, az ellenőrzéstől vagy adatszolgáltatástól számított öt évig kezelheti.

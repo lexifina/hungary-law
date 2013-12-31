@@ -10,4 +10,4 @@
 
 2. határozza meg az e törvény hatálya alá tartozó bírságok kiszámításának módját és a bírság mértékét;
 
-3. jelölje ki a horgászvizsga és halászvizsga lefolytatására jogosult hatóságot, szervezeteket.
+3.

@@ -7,3 +7,5 @@
 (4)
 
 (5) A horgászvizsga letétele alól a halgazdálkodási hatóság felmentést ad azon értelmi fogyatékos személy részére, akinek a törvényes képviselője az állapotát igazoló okmányokat benyújtja. A horgászvizsga letétele alól mentesített, halfogásra jogosító okmányokkal rendelkező értelmi fogyatékos személy kizárólag 18. életévét betöltött, állami horgászvizsgával rendelkező személy folyamatos jelenlétében, az e törvény végrehajtására kiadott rendeletben meghatározott feltételek szerint horgászhat.
+
+(6) Az (1) bekezdés szerinti feljogosított szervezet az állami horgászjegy díjából 10% mértékű részesedésre jogosult forgalmazási és adatbeviteli költségeinek fedezésére.
