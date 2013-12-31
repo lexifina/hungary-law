@@ -1,0 +1,1 @@
+## „(7) A P betűjelű ideiglenes rendszámtáblával ellátott jármű vezetője a közúti közlekedés során köteles igazolni az ideiglenes forgalomban tartási engedéllyel, az indítási naplóval és a (2)–(3) bekezdésben meghatározott feltételeket igazoló okirattal a rendszámtábla használatának jogszerűségét, valamint a kötelező gépjármű-felelősségbiztosítás fennállását.”

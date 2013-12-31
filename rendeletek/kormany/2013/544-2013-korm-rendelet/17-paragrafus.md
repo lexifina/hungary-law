@@ -1,0 +1,1 @@
+## „(10) A forgalmi engedély, az ideiglenes forgalomban tartási engedély, a törzskönyv és a rendszámtábla, valamint a regisztrációs matrica arra a járműre érvényes, amelyre azt kiadták, vagy engedélyezték.”

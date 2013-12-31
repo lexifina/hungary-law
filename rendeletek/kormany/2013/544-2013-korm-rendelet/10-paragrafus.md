@@ -1,0 +1,1 @@
+## „(6) A közlekedési igazgatási hatóság a Hivatal útján megkeresi a harmadik ország hatóságát, ha a magyar vezetői engedély kiállítására irányuló eljárás során kétség merül fel a benyújtott vezetői engedély valódiságával vagy az ügyfél vezetési jogosultságával kapcsolatban.”
