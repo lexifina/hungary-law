@@ -1,3 +1,3 @@
-16–17. melléklet a 71/2013. (XII. 2.) NFM rendelethez[^10]
+16–17. melléklet a 71/2013. (XII. 2.) NFM rendelethez[^8]
 
-[^10]: A 16–17. melléklet a 9. § (3) bekezdése alapján 2014. január 1-jén lép hatályba.
+[^8]: A 16–17. melléklet a 9. § (3) bekezdése alapján 2014. január 1-jén lép hatályba.
