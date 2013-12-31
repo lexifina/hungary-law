@@ -16,6 +16,6 @@
 
 (6) A 27. §, a 30. § és a 36. § 2014. július 1-jén lép hatályba.
 
-(7) Az 1. § (9) bekezdése, a 7. § c) pontja, a 8. § (4) és (8) bekezdése, a 14. § (4) bekezdése, (9) és (10) bekezdése, valamint a 17. § (3) bekezdése 2014. január 1-jén lép hatályba.
+(7) Az 1. § (9) bekezdése, a 7. § c) pontja, a 8. § (4) és (8) bekezdése, a 14. § (9) bekezdése 2014. január 1-jén lép hatályba.
 
 (8) A 15. § (1) bekezdése 2015. január 1-jén lép hatályba.
