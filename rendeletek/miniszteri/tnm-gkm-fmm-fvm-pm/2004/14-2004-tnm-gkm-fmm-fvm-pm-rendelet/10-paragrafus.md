@@ -1,4 +1,4 @@
-10. § (1)[^24] A támogatást igénylő a pályázat benyújtásakor mellékelni köteles a projekt megvalósításához – a pályázat tartalmától függően – szükséges jogerős hatósági engedélyeket, illetve a rendelet 5. § (3) bekezdése szerinti hozzájárulást. Ezen felül a lebonyolító szervezet a projekt adatlaphoz – támogatható tevékenységek és a támogatásra jogosultak körének jellemzőitől függően – különösen a következő mellékletek csatolását jogosult előírni:
+10. § (1)[^23] A támogatást igénylő a pályázat benyújtásakor mellékelni köteles a projekt megvalósításához – a pályázat tartalmától függően – szükséges jogerős hatósági engedélyeket, illetve a rendelet 5. § (3) bekezdése szerinti hozzájárulást. Ezen felül a lebonyolító szervezet a projekt adatlaphoz – támogatható tevékenységek és a támogatásra jogosultak körének jellemzőitől függően – különösen a következő mellékletek csatolását jogosult előírni:
 
 a) aláírási címpéldány;
 
@@ -12,7 +12,7 @@ e) háttértanulmányok – például üzleti terv, megvalósíthatósági tanul
 
 f) környezeti hatástanulmány, műszaki tervek;
 
-g)[^25] amennyiben a támogatást igénylő lefolytatott közbeszerzési eljárást, a 29. § (5) bekezdésében meghatározott dokumentumok;
+g)[^24] amennyiben a támogatást igénylő lefolytatott közbeszerzési eljárást, a 29. § (5) bekezdésében meghatározott dokumentumok;
 
 h) a pályázat benyújtásától számított egy hónapnál nem régebbi tulajdoni lap;
 
@@ -30,5 +30,5 @@ l) ajánló nyilatkozatok (pl. regionális és helyi hatóságok, társadalmi pa
 
 (4) Amennyiben a projekt adatlap elektronikus aláírással nem hitelesíthető, be kell nyújtani nyomtatott formában is. A kétféle módon benyújtott projekt adatlapban mutatkozó eltérés esetén a nyomtatott és aláírt projekt adatlap tekintendő hitelesnek, azzal, hogy a nyomtatott és az elektronikus formájú projekt adatlap megegyezőségéről a támogatást igénylő köteles gondoskodni.
 
-[^24]: A 10. § (1) bekezdése felvezető szövegének első mondata a 8/2006. (X. 20.) MeHVM–PM–FVM együttes rendelet 5. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 22. § (1) bekezdését.
-[^25]: A 10. § (1) bekezdésének g) pontja a 8/2006. (X. 20.) MeHVM–PM–FVM együttes rendelet 5. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 22. § (1) bekezdését.
+[^23]: A 10. § (1) bekezdése felvezető szövegének első mondata a 8/2006. (X. 20.) MeHVM–PM–FVM együttes rendelet 5. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 22. § (1) bekezdését.
+[^24]: A 10. § (1) bekezdésének g) pontja a 8/2006. (X. 20.) MeHVM–PM–FVM együttes rendelet 5. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 22. § (1) bekezdését.

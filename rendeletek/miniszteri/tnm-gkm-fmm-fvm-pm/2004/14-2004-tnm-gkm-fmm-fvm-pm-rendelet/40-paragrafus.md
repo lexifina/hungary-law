@@ -4,7 +4,7 @@
 
 40. § (1) Ez a rendelet – a (2) bekezdésben foglaltak kivételével – a kihirdetését követő 3. napon lép hatályba, rendelkezéseit – a IV. fejezet, valamint a II. fejezet Kohéziós Alappal kapcsolatos rendelkezéseinek kivételével – kizárólag az ezt követően benyújtott pályázatokra kell alkalmazni. A IV. fejezet, valamint a II. fejezetnek a Kohéziós Alappal kapcsolatos rendelkezéseit a rendelet hatálybalépését követően a rendelet által szabályozott valamennyi folyamatban lévő tevékenység esetében alkalmazni kell.
 
-(2)[^71]
+(2)[^70]
 
 Melléklet a 14/2004. (VIII. 13.) TNM–GKM–FMM–
 
@@ -224,4 +224,4 @@ Helyszín, dátum:
 
 Név, beosztás:
 
-[^71]: A 40. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 47. §-ának 16. pontja hatályon kívül helyezte.
+[^70]: A 40. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 47. §-ának 16. pontja hatályon kívül helyezte.

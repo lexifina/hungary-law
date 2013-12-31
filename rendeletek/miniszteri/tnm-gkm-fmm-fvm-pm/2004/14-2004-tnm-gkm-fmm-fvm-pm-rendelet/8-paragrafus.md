@@ -16,11 +16,11 @@ b) útmutatót a projekt adatlap kitöltéséhez, továbbá a támogatási igén
 
 c) a támogatási szerződés tervezetét.
 
-(4) Amennyiben adott támogatási rendszer esetében indokolt a projekt adatlapot a melléklethez képest – abban nem szereplő adatokkal – kiegészíteni, az irányító hatóság köteles egyeztetni az NFH-val[^17] úgy, hogy észrevételek esetén azok figyelembevételével átdolgozott végleges projekt adatlapot – a paraméterezéshez szükséges egyéb adatokkal együtt – 20 munkanappal a közzététel tervezett időpontját megelőzően az NFH[^18] az EMIR-be történő feltöltés biztosítása céljából kézhez kapja.
+(4)[^17] Ha adott támogatási rendszer esetében indokolt a projekt adatlapot a melléklethez képest – abban nem szereplő adatokkal – kiegészíteni, az irányító hatóság köteles egyeztetni a Kormány európai uniós források felhasználásáért felelős tagjával úgy, hogy észrevételek esetén azok figyelembevételével átdolgozott végleges projekt adatlapot – a paraméterezéshez szükséges egyéb adatokkal együtt – 20 munkanappal a közzététel tervezett időpontját megelőzően a Kormány európai uniós források felhasználásáért felelős tagja az EMIR-be történő feltöltés biztosítása céljából kézhez kapja.
 
-(5) A pályázati felhívást és a (3) bekezdés b)–c) pontjai szerinti dokumentumokat az irányító hatóság köteles megküldeni 10 munkanapos észrevételezési határidővel az NFH-nak[^19].
+(5)[^18] A pályázati felhívást és a (3) bekezdés b)–c) pontjai szerinti dokumentumokat az irányító hatóság 10 munkanapos észrevételezési határidővel megküldi a Kormány európai uniós források felhasználásáért felelős tagjának.
 
-(6) A pályázati felhívást és a (3) bekezdés szerinti dokumentumokat a lebonyolító szervezet a honlapján közzéteszi, és a közzététel tényéről, továbbá a felhívás elérhetőségéről legalább két országos napilapban hirdetést jelentet meg. A pályázati felhívást és a (3) bekezdés szerinti dokumentumokat a lebonyolító szervezet a közzététellel egyidejűleg az NFH[^20] részére is megküldi.
+(6)[^19] A pályázati felhívást és a (3) bekezdés szerinti dokumentumokat a lebonyolító szervezet a honlapján közzéteszi, és a közzététel tényéről, továbbá a felhívás elérhetőségéről legalább két országos napilapban hirdetést jelentet meg. A pályázati felhívást és a (3) bekezdés szerinti dokumentumokat a lebonyolító szervezet a közzététellel egyidejűleg a Kormány európai uniós források felhasználásáért felelős tagjának is megküldi.
 
 (7) Az irányító hatóság – minden érintett szervezet tájékoztatása érdekében – a pályázati felhívás megjelenéséről, elérhetőségéről és lényegesebb tartalmi elemeiről értesíti különösen
 
@@ -36,12 +36,11 @@ c) a pályázati rendszerrel érintett területek regionális fejlesztési ügyn
 
 (10) Folyamatos elbírálás esetén, amennyiben a támogatásra rendelkezésre álló kötelezettségvállalási keret kimerül, az irányító hatóság köteles a pályázati felhívásban megjelölt végső benyújtási határidő előtt a pályázat benyújtás lehetőségét felfüggeszteni, és ezt a tényt a (6)–(8) bekezdésben meghatározott módon közzétenni.
 
-(11)[^21] Az Európai Unió támogatásával az Európa Pályázat Előkészítő Alap 1 (PEA 1) program keretében kidolgozott pályázatok esetében a lebonyolító szervezetnek lehetősége van ezen pályázatok benyújtását biztosítani abban az esetben is, amennyiben nyílt pályázati lehetőség nem elérhető. Ezen pályázatok befogadását és elbírálását az utolsó meghirdetett kiírásban foglalt feltételek alapján kell biztosítani.
+(11)[^20] Az Európai Unió támogatásával az Európa Pályázat Előkészítő Alap 1 (PEA 1) program keretében kidolgozott pályázatok esetében a lebonyolító szervezetnek lehetősége van ezen pályázatok benyújtását biztosítani abban az esetben is, amennyiben nyílt pályázati lehetőség nem elérhető. Ezen pályázatok befogadását és elbírálását az utolsó meghirdetett kiírásban foglalt feltételek alapján kell biztosítani.
 
 [^15]: A 8. § (2) bekezdése a 8/2006. (X. 20.) MeHVM–PM–FVM együttes rendelet 4. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 22. § (1) bekezdését.
 [^16]: A 8. § (3) bekezdésének a) pontja szerinti adatlapot – e rendelet 40. § (2) bekezdése alapján – 2005. január 1-jétől kell a melléklet szerinti formában közzétenni.
-[^17]: A 8/2006. (X. 20.) MeHVM–PM–FVM együttes rendelet 21. § (3) bekezdése alapján, ahol a 14/2004. (VIII. 13.) TNM–GKM–FMM–FVM–PM együttes rendelet Nemzeti Fejlesztési Hivatalt vagy NFH-t említ, azon Nemzeti Fejlesztési Ügynökséget, illetve NFÜ-t kell érteni.
-[^18]: A 8/2006. (X. 20.) MeHVM–PM–FVM együttes rendelet 21. § (3) bekezdése alapján, ahol a 14/2004. (VIII. 13.) TNM–GKM–FMM–FVM–PM együttes rendelet Nemzeti Fejlesztési Hivatalt vagy NFH-t említ, azon Nemzeti Fejlesztési Ügynökséget, illetve NFÜ-t kell érteni.
-[^19]: A 8/2006. (X. 20.) MeHVM–PM–FVM együttes rendelet 21. § (3) bekezdése alapján, ahol a 14/2004. (VIII. 13.) TNM–GKM–FMM–FVM–PM együttes rendelet Nemzeti Fejlesztési Hivatalt vagy NFH-t említ, azon Nemzeti Fejlesztési Ügynökséget, illetve NFÜ-t kell érteni.
-[^20]: A 8/2006. (X. 20.) MeHVM–PM–FVM együttes rendelet 21. § (3) bekezdése alapján, ahol a 14/2004. (VIII. 13.) TNM–GKM–FMM–FVM–PM együttes rendelet Nemzeti Fejlesztési Hivatalt vagy NFH-t említ, azon Nemzeti Fejlesztési Ügynökséget, illetve NFÜ-t kell érteni.
-[^21]: A 8. § (11) bekezdését a 12/2005. (IV. 15.) TNM–GKM–FMM–FVM–PM–TNM együttes rendelet 1. §-a iktatta a szövegbe.
+[^17]: A 8. § (4) bekezdése a 3/2013. (XII. 31.) ME rendelet 6. §-ával megállapított szöveg.
+[^18]: A 8. § (5) bekezdése a 3/2013. (XII. 31.) ME rendelet 6. §-ával megállapított szöveg.
+[^19]: A 8. § (6) bekezdése a 3/2013. (XII. 31.) ME rendelet 6. §-ával megállapított szöveg.
+[^20]: A 8. § (11) bekezdését a 12/2005. (IV. 15.) TNM–GKM–FMM–FVM–PM–TNM együttes rendelet 1. §-a iktatta a szövegbe.

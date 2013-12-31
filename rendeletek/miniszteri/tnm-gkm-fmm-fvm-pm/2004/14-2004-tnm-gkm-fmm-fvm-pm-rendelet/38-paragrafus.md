@@ -1,6 +1,6 @@
 ## A Kohéziós Alap társfinanszírozásával megvalósított közbeszerzési eljárások egyes szabályai
 
-38. §[^62] (1) A Kbt.-ben meghatározott közösségi értékhatárok alatti közbeszerzési eljárások esetén a rendelet 29. §-a követendő, a közösségi értékhatárt elérő vagy azt meghaladó közbeszerzési eljárások esetén a (2)–(15) bekezdés szerint részletezett eljárásrend irányadó.
+38. §[^61] (1) A Kbt.-ben meghatározott közösségi értékhatárok alatti közbeszerzési eljárások esetén a rendelet 29. §-a követendő, a közösségi értékhatárt elérő vagy azt meghaladó közbeszerzési eljárások esetén a (2)–(15) bekezdés szerint részletezett eljárásrend irányadó.
 
 (2) A Kohéziós Alapból származó forrásból támogatott közbeszerzések során (amennyiben készült), a Kbt.-ben meghatározott előzetes összesített tájékoztatót, közbeszerzési eljárást megindító felhívást, dokumentációt (két szakaszból álló eljárás esetén mindkét dokumentációt) a kedvezményezett, illetőleg lebonyolító testület a hirdetmények közzétételére irányuló kérelemnek a Közbeszerzési Értesítő szerkesztőbizottságához történő benyújtását megelőzően jóváhagyás céljából megküldi a közreműködő szervezetnek, amely a jóváhagyásról tájékoztatja az Irányító Hatóságot. A kedvezményezett, illetve lebonyolító testület a közbeszerzési eljárás során készített kiegészítő tájékoztatást az ajánlattevőknek történő megküldést megelőzően jóváhagyás céljából megküldi a közreműködő szervezetnek.
 
@@ -32,4 +32,4 @@
 
 (16) A (2)–(15) bekezdés szabályait a központi költségvetésből társfinanszírozott, Kohéziós Alap támogatási kérelem előkészítését célzó projektek esetében is alkalmazni kell.
 
-[^62]: A 38. § a 8/2006. (X. 20.) MeHVM–PM–FVM együttes rendelet 18. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 22. § (1) bekezdését.
+[^61]: A 38. § a 8/2006. (X. 20.) MeHVM–PM–FVM együttes rendelet 18. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 22. § (1) bekezdését.

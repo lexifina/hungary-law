@@ -10,7 +10,7 @@ b) meghatározza, illetőleg jóváhagyja az intézkedés jellegével és a pál
 
 Az értékelés szempontrendszerén a meghirdetést követően nem lehet változtatni.
 
-(2)[^27] A lebonyolító szervezet biztosítja, hogy az értékelést az intézkedés tárgyának megfelelő szakértelemmel és pénzügyi ismerettel rendelkező személyek végezzék. A lebonyolító szervezet köteles gondoskodni az értékelést végzőknek a program ismeretére történő felkészítéséről. Az értékelésben nem vehet részt az a személy, aki a felkészítésen nem vett részt.
+(2)[^26] A lebonyolító szervezet biztosítja, hogy az értékelést az intézkedés tárgyának megfelelő szakértelemmel és pénzügyi ismerettel rendelkező személyek végezzék. A lebonyolító szervezet köteles gondoskodni az értékelést végzőknek a program ismeretére történő felkészítéséről. Az értékelésben nem vehet részt az a személy, aki a felkészítésen nem vett részt.
 
 (3) Az értékelést ugyanazon pályázat tekintetében – elsősorban a pályázat értékeléséhez szükséges szakértelem összetettségétől, illetve az ugyanazon pályázati kiírásra beérkezett pályázatok számától és terjedelmétől függően – végezheti egy vagy több személy.
 
@@ -34,4 +34,4 @@ g) megvalósulásának külső feltételei – pl. más, kapcsolódó projektek 
 
 (6) Az értékelés során vizsgálni kell, hogy a pályázat az (5) bekezdés szerinti elveken túl a pályázati felhívásban meghatározott értékelési szempontoknak megfelel-e.
 
-[^27]: A 15. § (2) bekezdése a 8/2006. (X. 20.) MeHVM–PM–FVM együttes rendelet 7. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 22. § (1) bekezdését.
+[^26]: A 15. § (2) bekezdése a 8/2006. (X. 20.) MeHVM–PM–FVM együttes rendelet 7. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 22. § (1) bekezdését.

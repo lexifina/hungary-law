@@ -1,6 +1,6 @@
 ## A strukturális alapokból származó forrásból támogatott közbeszerzésekre irányuló eljárások
 
-29. §[^40] (1) A lebonyolító szervezet a strukturális alapokból származó forrásból támogatott közösségi értékhatárokat elérő vagy meghaladó közbeszerzési eljárásokról tájékoztatja az Európai Uniós Közbeszerzési Koordinációs és Szabályossági Egységet (a továbbiakban: EKKE). Az EKKE, az irányító hatóság és a közreműködő szervezet értékhatártól függetlenül, bármely közbeszerzési eljárás során, az eljárás bármely szakaszában megfigyelőt delegálhat. Az EKKE megfigyelője minden esetben írásos független közbeszerzési szakértői jelentést készít a kedvezményezett részére, amelyet az irányító hatóság és a közreműködő szervezet részére is megküld.
+29. §[^39] (1) A lebonyolító szervezet a strukturális alapokból származó forrásból támogatott közösségi értékhatárokat elérő vagy meghaladó közbeszerzési eljárásokról tájékoztatja az Európai Uniós Közbeszerzési Koordinációs és Szabályossági Egységet (a továbbiakban: EKKE). Az EKKE, az irányító hatóság és a közreműködő szervezet értékhatártól függetlenül, bármely közbeszerzési eljárás során, az eljárás bármely szakaszában megfigyelőt delegálhat. Az EKKE megfigyelője minden esetben írásos független közbeszerzési szakértői jelentést készít a kedvezményezett részére, amelyet az irányító hatóság és a közreműködő szervezet részére is megküld.
 
 (2) Amennyiben az EKKE, az irányító hatóság vagy a közreműködő szervezet megfigyelője bármilyen eljárási rendhez kapcsolódó szabálytalanságot észlel, akkor ezt a jelentésében jelzi a lebonyolító szervezet vezetőjének és a közbeszerzési bíráló bizottság elnökének.
 
@@ -16,4 +16,4 @@
 
 (8) Az 1 milliárd feletti támogatással megvalósuló projektek közösségi értékhatárt meghaladó értékű közbeszerzései esetén az irányító hatóság döntése alapján 38. § (2)–(15) bekezdése szerint is el lehet járni.
 
-[^40]: A 29. § a 8/2006. (X. 20.) MeHVM–PM–FVM együttes rendelet 11. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 22. § (1) bekezdését.
+[^39]: A 29. § a 8/2006. (X. 20.) MeHVM–PM–FVM együttes rendelet 11. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 22. § (1) bekezdését.

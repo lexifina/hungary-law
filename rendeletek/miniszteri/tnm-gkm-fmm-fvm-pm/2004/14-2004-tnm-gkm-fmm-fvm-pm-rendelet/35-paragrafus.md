@@ -20,13 +20,13 @@ f) a szerződésszegés jogkövetkezménye;
 
 g) a kedvezményezetti kör változásának jogkövetkezménye;
 
-h)[^49] a közreműködő szervezet igénye esetén arra vonatkozó megállapodás, hogy az 1/2004. (I. 5.) Korm. rendelet 28. § (1) bekezdés c), f), j) pontjaiban meghatározott feladatokat delegálja, továbbá a közreműködő szervezetnek a közbeszerzésekkel kapcsolatos, a jelen rendelet 38. §-ára figyelemmel gyakorolt és a maga számára fenntartott jogosítványa;
+h)[^48] a közreműködő szervezet igénye esetén arra vonatkozó megállapodás, hogy az 1/2004. (I. 5.) Korm. rendelet 28. § (1) bekezdés c), f), j) pontjaiban meghatározott feladatokat delegálja, továbbá a közreműködő szervezetnek a közbeszerzésekkel kapcsolatos, a jelen rendelet 38. §-ára figyelemmel gyakorolt és a maga számára fenntartott jogosítványa;
 
 i) a felek egyéb kötelezettsége;
 
 j) több kedvezményezett esetén egymás közötti jogviszonyuk;
 
-k)[^50] a projekt műszaki tartalmának megváltoztatásával kapcsolatos eljárás, a feleket ilyen esetben megillető jogok és terhelő kötelezettségek.
+k)[^49] a projekt műszaki tartalmának megváltoztatásával kapcsolatos eljárás, a feleket ilyen esetben megillető jogok és terhelő kötelezettségek.
 
 (2) A közreműködő szervezet a támogatási szerződés tervezetét véleményezés és jóváhagyás céljából megküldi az irányító hatóságnak, az irányító hatóság egyetértése esetén a közreműködő szervezet és a kedvezményezett, illetve a lebonyolító testület a támogatási szerződést aláírják.
 
@@ -36,5 +36,5 @@ k)[^50] a projekt műszaki tartalmának megváltoztatásával kapcsolatos eljár
 
 (5) A támogatási szerződés hatályát veszti, ha az arra vonatkozó támogatási kérelmet az Európai Bizottság elutasítja.
 
-[^49]: A 35. § (1) bekezdésének h) pontja a 21/2005. (V. 28.) TNM–GKM–FMM–FVM–PM–TNM együttes rendelet 7. §-a szerint módosított szöveg, e módosító rendelet 6. §-a alapján a rendelkezést a 2005. június 5. napját követően indított ügyekben kell alkalmazni.
-[^50]: A 35. § (1) bekezdésének k) pontját a 21/2005. (V. 28.) TNM–GKM–FMM–FVM–PM–TNM együttes rendelet 2. §-a iktatta be, e módosító rendelet 6. §-a alapján a rendelkezést a 2005. június 5. napját követően indított ügyekben kell alkalmazni.
+[^48]: A 35. § (1) bekezdésének h) pontja a 21/2005. (V. 28.) TNM–GKM–FMM–FVM–PM–TNM együttes rendelet 7. §-a szerint módosított szöveg, e módosító rendelet 6. §-a alapján a rendelkezést a 2005. június 5. napját követően indított ügyekben kell alkalmazni.
+[^49]: A 35. § (1) bekezdésének k) pontját a 21/2005. (V. 28.) TNM–GKM–FMM–FVM–PM–TNM együttes rendelet 2. §-a iktatta be, e módosító rendelet 6. §-a alapján a rendelkezést a 2005. június 5. napját követően indított ügyekben kell alkalmazni.

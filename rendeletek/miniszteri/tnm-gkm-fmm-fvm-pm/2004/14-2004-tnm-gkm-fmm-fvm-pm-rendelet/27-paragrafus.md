@@ -12,7 +12,7 @@ d) a költségek elszámolhatóságának szabályai;
 
 e) a kifizetések kérelmezésének és lebonyolításának folyamata, feltételei;
 
-f)[^37]
+f)[^36]
 
 g) a projekt megvalósítására vonatkozó jelentések elkészítésével kapcsolatos kötelezettségek;
 
@@ -58,4 +58,4 @@ b) továbbá a lebonyolító szervezet meggyőződött arról, hogy a támogatá
 
 (5) A kedvezményezett köteles a szerződés hatályának időtartama alatt a szerződésben foglalt azonosító adatainak, illetőleg a szerződés teljesítésével összefüggő adatainak (pl. bankszámlaszám, kapcsolattartó adatai) változását a lebonyolító szervezetnek 15 naptári napon belül bejelenteni.
 
-[^37]: A 27. § (1) bekezdésének f) pontját a 360/2004. (XII. 26.) Korm. rendelet 69. §-a hatályon kívül helyezte.
+[^36]: A 27. § (1) bekezdésének f) pontját a 360/2004. (XII. 26.) Korm. rendelet 69. §-a hatályon kívül helyezte.

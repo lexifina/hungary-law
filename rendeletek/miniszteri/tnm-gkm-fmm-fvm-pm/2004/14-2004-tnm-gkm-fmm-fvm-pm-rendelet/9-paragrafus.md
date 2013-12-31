@@ -34,7 +34,7 @@ d) a vonatkozó jogszabályok felsorolását;
 
 e) a kizáró okokat;
 
-f)[^22] a pályáztatás eljárásrendjét, beleértve annak meghatározását, hogy a pályázatok elbírálása szakaszosan vagy folyamatosan történik;
+f)[^21] a pályáztatás eljárásrendjét, beleértve annak meghatározását, hogy a pályázatok elbírálása szakaszosan vagy folyamatosan történik;
 
 g) az elbírálási szempontokat, valamint folyamatos elbírálás esetén a támogatáshoz szükséges minimális pontszámot;
 
@@ -46,7 +46,7 @@ i) további részletes információk (pl. környezeti fenntarthatósági, valami
 
 (6) A kizáró okok tekintetében fel kell tüntetni az Ámr. alapján fennálló kizáró okokat.
 
-(7)–(8)[^23]
+(7)–(8)[^22]
 
-[^22]: A 9. § (4) bekezdésének f) pontja a 8/2006. (X. 20.) MeHVM–PM–FVM együttes rendelet 21. § (1) bekezdése szerint módosított szöveg, alkalmazására lásd e módosító rendelet 22. § (1) bekezdését.
-[^23]: A 9. § (7)–(8) bekezdését a 8/2006. (X. 20.) MeHVM–PM–FVM együttes rendelet 22. § (3) bekezdése hatályon kívül helyezte.
+[^21]: A 9. § (4) bekezdésének f) pontja a 8/2006. (X. 20.) MeHVM–PM–FVM együttes rendelet 21. § (1) bekezdése szerint módosított szöveg, alkalmazására lásd e módosító rendelet 22. § (1) bekezdését.
+[^22]: A 9. § (7)–(8) bekezdését a 8/2006. (X. 20.) MeHVM–PM–FVM együttes rendelet 22. § (3) bekezdése hatályon kívül helyezte.

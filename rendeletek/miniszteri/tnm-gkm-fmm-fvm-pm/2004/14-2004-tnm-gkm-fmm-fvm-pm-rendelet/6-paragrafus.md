@@ -1,12 +1,12 @@
 ## Tájékoztatás és nyilvánosság
 
-6. § (1)[^6] A vonatkozó jogszabályok szerinti tájékoztatási és nyilvánossági követelmények betartása során biztosítani kell, hogy a Nemzeti Fejlesztési Tervvel, illetve Kohéziós Alap Keretstratégiával kapcsolatban a Nemzeti Fejlesztési Ügynökség (a továbbiakban: NFÜ) által meghatározott embléma, illetőleg szöveg nyilvánosságot kapjon.
+6. § (1)[^6] A vonatkozó jogszabályok szerinti tájékoztatási és nyilvánossági követelmények betartása során biztosítani kell, hogy a Nemzeti Fejlesztési Tervvel, illetve Kohéziós Alap Keretstratégiával kapcsolatban a Kormány európai uniós források felhasználásáért felelős tagja által meghatározott embléma, illetőleg szöveg nyilvánosságot kapjon.
 
-(2)[^7] A rendelet hatálya alá tartozó eljárásokban az irányító hatóságok és közreműködő szervezetek, a lebonyolító testületek és kedvezményezettek az NFÜ által készített és rendelkezésre bocsátott arculati kézikönyvben meghatározott arculati elemeket használnak.
+(2)[^7] A rendelet hatálya alá tartozó eljárásokban az irányító hatóságok és közreműködő szervezetek, a lebonyolító testületek és kedvezményezettek a Kormány európai uniós források felhasználásáért felelős tagja által készített és rendelkezésre bocsátott arculati kézikönyvben meghatározott arculati elemeket használnak.
 
-(3) Az összehangolt kommunikációs tevékenység érdekében az irányító hatóságok és közreműködő szervezetek kommunikációs akciótervüket, illetve stratégiájukat egyeztetett módon alakítják ki, és a végrehajtás megkezdése előtt – közreműködő szervezet esetén az irányító hatóság bevonásával – az NFH-val[^8] is egyeztetnek.
+(3)[^8] Az összehangolt kommunikációs tevékenység érdekében az irányító hatóságok és közreműködő szervezetek kommunikációs akciótervüket, illetve stratégiájukat egyeztetett módon alakítják ki, és a végrehajtás megkezdése előtt – közreműködő szervezet esetén az irányító hatóság bevonásával – a Kormány európai uniós források felhasználásáért felelős tagjával is egyeztetnek.
 
-(4) Az irányító hatóságok és a közreműködő szervezetek az ügyfélszolgálati és információs tevékenységüket összehangolják az NFH-val[^9].
+(4)[^9] Az irányító hatóságok és a közreműködő szervezetek az ügyfélszolgálati és információs tevékenységüket összehangolják a Kormány európai uniós források felhasználásáért felelős tagjával.
 
 (5) Az irányító hatóság és a közreműködő szervezet köteles internetes honlapot fenntartani, ahol
 
@@ -14,7 +14,7 @@ a) a Kohéziós Alap vonatkozásában a Kohéziós Alap Irányító Hatóság é
 
 b) a strukturális alapok vonatkozásában az OP irányító hatóság és a strukturális alap közreműködő szervezet a feladatkörébe tartozó intézkedések vonatkozásában az operatív programot, a program-kiegészítő dokumentumot, az operatív program éves megvalósítási jelentését, az operatív programértékelési jelentéseket, pályázati úton megvalósuló támogatási rendszerek vonatkozásában a pályázati kiírások teljes dokumentációját (felhívások, formanyomtatványok, útmutatók), az OP irányító hatóság a monitoring bizottság ügyrendjét, tagjainak listáját, üléseiről készült beszámolót,
 
-## az e bekezdésben foglalt dokumentumok elfogadását követő 5 munkanapon belül közzéteszi, és legalább az operatív program megvalósításának végéig biztosítja a honlapon való elérhetőségüket. Az irányító hatóság és a közreműködő szervezet gondoskodik az általa fenntartott honlap kommunikációs akadálymentességéről, a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló 1998. évi XXVI. törvény 6–7. §-ában foglalt rendelkezések alapján.
+az e bekezdésben foglalt dokumentumok elfogadását követő 5 munkanapon belül közzéteszi, és legalább az operatív program megvalósításának végéig biztosítja a honlapon való elérhetőségüket. Az irányító hatóság és a közreműködő szervezet gondoskodik az általa fenntartott honlap kommunikációs akadálymentességéről, a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló 1998. évi XXVI. törvény 6–7. §-ában foglalt rendelkezések alapján.
 
 (6) Az irányító hatóság és a közreműködő szervezet a strukturális alapok tekintetében a (5) bekezdésben foglaltakon kívül a honlapon köteles közzétenni:
 
@@ -36,10 +36,10 @@ d) havonta intézkedésenként a tárgyhót megelőző hónapban beérkezett tá
 
 (11)[^13] A lebonyolító testület és a kedvezményezett a Kohéziós Alap tekintetében a projekt honlapon köteles közzétenni a projekt leírását, költségvetését, továbbá köteles legalább havonta frissíteni a rendezvények és a médiamegjelenések listáját, valamint a pénzügyi és műszaki előrehaladásról szóló beszámolókat.
 
-[^6]: A 6. § (1) bekezdése a 8/2006. (X. 20.) MeHVM–PM–FVM együttes rendelet 3. § (1) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 22. § (1) bekezdését.
-[^7]: A 6. § (2) bekezdése a 8/2006. (X. 20.) MeHVM–PM–FVM együttes rendelet 3. § (1) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 22. § (1) bekezdését.
-[^8]: A 8/2006. (X. 20.) MeHVM–PM–FVM együttes rendelet 21. § (3) bekezdése alapján, ahol a 14/2004. (VIII. 13.) TNM–GKM–FMM–FVM–PM együttes rendelet Nemzeti Fejlesztési Hivatalt vagy NFH-t említ, azon Nemzeti Fejlesztési Ügynökséget, illetve NFÜ-t kell érteni.
-[^9]: A 8/2006. (X. 20.) MeHVM–PM–FVM együttes rendelet 21. § (3) bekezdése alapján, ahol a 14/2004. (VIII. 13.) TNM–GKM–FMM–FVM–PM együttes rendelet Nemzeti Fejlesztési Hivatalt vagy NFH-t említ, azon Nemzeti Fejlesztési Ügynökséget, illetve NFÜ-t kell érteni.
+[^6]: A 6. § (1) bekezdése a 8/2006. (X. 20.) MeHVM–PM–FVM együttes rendelet 3. § (1) bekezdésével megállapított, a 3/2013. (XII. 31.) ME rendelet 7. § a) pontja szerint módosított szöveg.
+[^7]: A 6. § (2) bekezdése a 8/2006. (X. 20.) MeHVM–PM–FVM együttes rendelet 3. § (1) bekezdésével megállapított, a 3/2013. (XII. 31.) ME rendelet 7. § b) pontja szerint módosított szöveg.
+[^8]: A 6. § (3) bekezdése a 3/2013. (XII. 31.) ME rendelet 5. §-ával megállapított szöveg.
+[^9]: A 6. § (4) bekezdése a 3/2013. (XII. 31.) ME rendelet 5. §-ával megállapított szöveg.
 [^10]: A 6. § (8) bekezdését a 21/2005. (V. 28.) TNM–GKM–FMM–FVM–PM–TNM együttes rendelet 1. §-a iktatta a szövegbe, e módosító rendelet 6. §-a alapján a rendelkezést a 2005. június 5. napját követően indított ügyekben kell alkalmazni.
 [^11]: A 6. § (9) bekezdését a 21/2005. (V. 28.) TNM–GKM–FMM–FVM–PM–TNM együttes rendelet 1. §-a iktatta a szövegbe, e módosító rendelet 6. §-a alapján a rendelkezést a 2005. június 5. napját követően indított ügyekben kell alkalmazni.
 [^12]: A 6. § (10) bekezdését a 21/2005. (V. 28.) TNM–GKM–FMM–FVM–PM–TNM együttes rendelet 1. §-a iktatta a szövegbe, e módosító rendelet 6. §-a alapján a rendelkezést a 2005. június 5. napját követően indított ügyekben kell alkalmazni.
