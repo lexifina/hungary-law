@@ -8,6 +8,6 @@ c) 18. § (9) bekezdésében az „adatbázissal együtt” szövegrész helyéb
 
 d) 28. § (1) bekezdésében a „földmérő igazolvány” szövegrész helyébe a „földmérő igazolvány és megbízólevél” szöveg,
 
-e) 38. § (1) bekezdés a) pontjában a „feladatait és hatáskörét” szövegrész helyébe a feladatait, hatáskörét és illetékességi területét” szöveg
+e)
 
 lép.

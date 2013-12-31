@@ -12,9 +12,7 @@ e) 39. § (3) bekezdésében a „31. § (1) bekezdésében” szövegrész hely
 
 f) 72. § (2) bekezdésében a „kormányrendelet” szövegrész helyébe a „kormány- vagy miniszteri rendelet” szöveg;
 
-g) 82/A. § (3) bekezdés a) pontjában a „tevékenységek esetén” szövegrész helyébe a „tevékenység esetén telephelyenként (a fióktelepet, valamint telephely hiányában a székhelyet is ideértve) ” szöveg;
-
-h) 82/A. § (3) bekezdés b) pontjában a „tevékenység esetén” szövegrész helyébe a „tevékenység esetén telephelyenként (a fióktelepet, valamint telephely hiányában a székhelyet is ideértve)” szöveg;
+g)–h)
 
 i) 85. § (6) bekezdésében az „a Magyar Állam” szövegrész helyébe az „az állam” szöveg
 
