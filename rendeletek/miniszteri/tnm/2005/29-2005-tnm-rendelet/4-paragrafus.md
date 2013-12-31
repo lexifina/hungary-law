@@ -2,22 +2,22 @@
 
 ## Értelmező rendelkezések
 
-## 4. § E rendelet alkalmazásában
+## 4. §[^3] E rendelet alkalmazásában
 
-a)[^3] komplex program: a 2007–2013-as fejlesztési időszakra vonatkozó, az Új Magyarország Fejlesztési Terv (Nemzeti Stratégiai Referencia Keret) és az operatív programok stratégiai céljaihoz illeszkedő, azok megvalósulását szolgáló, több ágazatot érintő, komplex, hosszú távú fejlesztés(ek) integrált programja;
+1. kedvezményezett: a nagyprojekt előkészítéséért, megvalósításáért, illetve a program kidolgozásáért felelős, a támogatási szerződést aláíró szervezet, amely a támogatott feladat elvégzéséhez támogatásban részesül, és a feladat finanszírozásához szükséges saját forrást a támogatási szerződés szerint biztosítja,
 
-b) nagyprojekt: olyan – a környezetvédelem területén 25 millió euró, más szakterületeken 50 millió euró összköltség feletti – beruházás, amelynek EU-támogatásához az Európai Bizottság közvetlen döntése szükséges;
+2. komplex program: az Uniós fejlesztések fejezetbe tartozó fejezeti kezelésű előirányzatok felhasználásának rendjéről szóló 549/2013. (XII. 30.) Korm. rendelet [a továbbiakban: 549/2013. (XII. 30.) Korm. rendelet] 2. § (1) bekezdés 4. pontja szerinti program,
 
-c)[^4] támogató: az EU Integráció, illetve Uniós fejlesztések költségvetési fejezetet irányító miniszter, illetve megbízásából a Nemzeti Fejlesztési Ügynökség (a továbbiakban: NFÜ);
+3. közreműködő: a 549/2013. (XII. 30.) Korm. rendelet 2. § (1) bekezdés 5. pontja szerinti szervezet,
 
-d) kedvezményezett: a nagyprojekt előkészítéséért, megvalósításáért, illetve a program kidolgozásáért felelős, a támogatási szerződést aláíró szervezet, amely a támogatott feladat elvégzéséhez támogatásban részesül, és a feladat finanszírozásához szükséges saját forrást a támogatási szerződés szerint biztosítja;
+4. menedzsmenttámogatás: a tervezési és a projekt-előkészítési feladatokhoz kapcsolódó menedzsmenttevékenységre nyújtott támogatás,
 
-e)[^5] közreműködő: a támogatott nagyprojekt-előkészítési tevékenység szakmai irányításában és ellenőrzésében részt vevő, a támogatóval együttműködő, a projekt tárgya szerint szakterületileg illetékes minisztérium vagy központi költségvetési szerv, vagy az előzőek által a támogató jóváhagyásával megbízott szerv, vagy jogszabály által kijelölt szerv, a közlekedési tárgyú támogatott nagyprojekt-előkészítési tevékenység esetében a KIKSZ Közlekedésfejlesztési Zrt., továbbá a területileg illetékes regionális fejlesztési tanács, illetve a területileg illetékes regionális fejlesztési tanács munkaszervezete, amelynek képviselője a támogatási szerződést aláírja;
+5. nagyprojekt: a 549/2013. (XII. 30.) Korm. rendelet 2. § (1) bekezdés 8. pontja szerinti projekt,
 
-f) projekt adatlap: a nagyprojekt előkészítésének támogatására az illetékes szaktárca által benyújtott, illetve a támogatási szerződéskötés keretében – a támogató, a kedvezményezett és a közreműködő közötti egyeztetés során – pontosított, a támogatott előkészítő munkára vonatkozóan részletes, a projekt megvalósítására vonatkozóan előzetes tájékoztató információkat tartalmazó táblázatok, amelyek a támogatási szerződés mellékleteként annak részét képezik;
+6. projekt-előkészítési támogatás: a 549/2013. (XII. 30.) Korm. rendelet 2. § (1) bekezdés 13. pontja szerinti támogatás,
 
-g) elfogadó nyilatkozat: a szállítói teljesítés megfelelőségét igazoló, a szállító, a kedvezményezett, a közreműködő és a támogató illetékes képviselői által a támogatás kifizetésének előfeltételeként aláírandó dokumentum. Az elfogadó nyilatkozat űrlap a felülvizsgálatra illetékes szervek és személyek megjelölésével a támogatási szerződés részét képezi.
+7. támogató: a 549/2013. (XII. 30.) Korm. rendelet 2. § (1) bekezdés 16. pontja szerinti személy,
 
-[^3]: A 4. § a) pontja a 13/2006. (XII. 19.) MeHVM rendelet 3. §-ával megállapított szöveg.
-[^4]: A 4. § c) pontja a 28/2009. (X. 22.) NFGM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^5]: A 4. § e) pontja a 28/2009. (X. 22.) NFGM rendelet 1. § (2) bekezdésével megállapított szöveg. Az „Európa Kulturális Fővárosa – Pécs 2010” egyedi nagyprojekt esetén a közreműködő szervezetet illető jogok és kötelezettségek tekintetében lásd e módosító rendelet 4. § (3) bekezdését.
+8. tervezési támogatás: a 549/2013. (XII. 30.) Korm. rendelet 2. § (1) bekezdés 18. pontja szerinti támogatás.
+
+[^3]: A 4. § a 3/2013. (XII. 31.) ME rendelet 9. §-ával megállapított szöveg.
