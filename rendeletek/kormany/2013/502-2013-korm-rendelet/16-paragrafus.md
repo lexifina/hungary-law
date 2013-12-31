@@ -1,1 +1,0 @@
-## „(5) A jelentkezőkről egységes rangsorolás alapján ponthatár alkalmazásával kell dönteni. Az adott képzésre ponthatár alatti eredménnyel senki nem sorolható be. Azt, aki a ponthatárt elérte vagy meghaladta – kivéve, ha az elbírálási sorrendben előbb szereplő helyre már besorolták –, kötelező besorolni.”

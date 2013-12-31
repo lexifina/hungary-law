@@ -14,16 +14,6 @@
 
 ## ”
 
-4. melléklet az 502/2013. (XII. 29.) Korm. rendelethez
+4. melléklet az 502/2013. (XII. 29.) Korm. rendelethez[^8]
 
-1. Az R. 4. mellékletének A:3 mezője helyébe a következő mező lép:
-
-|  |  | [A Az Országos Képzési Jegyzék szerinti emelt szintű és felsőfokú (54-es vagy 55-ös szakmaszámú szakképesítések] |
-
-|  | (3) | „oktatás (oktatás, pedagógia), kivéve: fitness-wellness instruktor; sportedző; személyi edző szakképesítések” |
-
-2. Az R. 4. melléklete az alábbi 23. sorral egészül ki:
-
-|  |  | [A Az Országos Képzési Jegyzék szerinti emelt szintű és felsőfokú (54-es vagy 55-ös szakmaszámú) szakképesítések | B Szakiránynak megfelelő továbbtanulásnak minősülő képzési területek] |
-
-|  | „23 | sportkommunikátor; fitness-wellness instruktor; sportedző; személyi edző szakképesítések | sporttudomány” |
+[^8]: A 4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
