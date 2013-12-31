@@ -2,6 +2,9 @@
 
 ## 6. A helyszíni bírság kiszabására jogosult szerv vagy személy adatközlési kötelezettsége
 
-11. § (1) A szabálysértés elkövetőiről és a helyszíni bírságoltakról vezetett nyilvántartás részére a helyszíni bírság kiszabására jogosult szerv vagy személy a helyszíni bírság kiszabását követően azonnal, de legkésőbb három napon belül közli a Szabs. tv. 153. § (2) bekezdés p) pont pa)–pc) és pe) alpontjában meghatározott adatokat. A Szabs. tv. 153. § (2) bekezdés p) pont pd) alpontjában meghatározott adatokat a helyszíni bírság megfizetésének időpontjáról történő tudomásszerzését követő három napon belül közli.
+11. § (1)[^14] A szabálysértés elkövetőiről és a helyszíni bírságoltakról vezetett nyilvántartás részére a helyszíni bírság kiszabására jogosult szerv vagy személy a helyszíni bírság kiszabását követően azonnal, de legkésőbb három napon belül közli a Szabs. tv. 153. § (2) bekezdés o) pont oa)–oc) és oe) alpontjában meghatározott adatokat. A Szabs. tv. 153. § (2) bekezdés o) pont od) alpontjában meghatározott adatokat a helyszíni bírság megfizetésének időpontjáról történő tudomásszerzését követő három napon belül közli.
 
-(2) A Szabs. tv. 100. § (1) bekezdésében meghatározott helyszíni bírság esetén a szabálysértés elkövetőiről és a helyszíni bírságoltakról vezetett nyilvántartás részére a helyszíni bírság kiszabására jogosult szerv vagy személy a Szabs. tv. 153. § (2) bekezdés p) pontjában meghatározott adatokat a helyszíni bírság megfizetésének időpontjáról történő tudomásszerzését követő három napon belül közli.
+(2)[^15]
+
+[^14]: A 11. § (1) bekezdése a 80/2013. (XII. 23.) BM rendelet 9. § 13. pontja szerint módosított szöveg.
+[^15]: A 11. § (2) bekezdését a 80/2013. (XII. 23.) BM rendelet 10. §-a hatályon kívül helyezte.
