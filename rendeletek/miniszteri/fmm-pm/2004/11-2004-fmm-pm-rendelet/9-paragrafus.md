@@ -4,7 +4,7 @@
 
 ## Monitoring és pénzügyi ellenőrzés
 
-## 9. §[^13] A 2. § (1) bekezdés b)–c) pontjában meghatározott intézkedések tekintetében a teljes pénzügyi monitoring tevékenységet a Kincstár látja el, amelynek keretében
+## 9. §[^14] A 2. § (1) bekezdés b)–c) pontjában meghatározott intézkedések tekintetében a teljes pénzügyi monitoring tevékenységet a Kincstár látja el, amelynek keretében
 
 a) pénzügyi szempontból ellenőrzi a kedvezményezettek által készített előrehaladási jelentéseket,
 
@@ -26,4 +26,4 @@ g) folyamatosan feltölti a központi informatikai rendszer pénzügyi adatbázi
 
 h) kapcsolatot tart a monitoring folyamat során a 2. § (1) bekezdés b)–c) pontjában meghatározott intézkedések esetén az adott intézkedésre kijelölt szakmai közreműködő szervezettel.
 
-[^13]: A 9. § a 26/2008. (V. 8.) ÖTM–PM együttes rendelet 5. §-ával megállapított szöveg.
+[^14]: A 9. § a 26/2008. (V. 8.) ÖTM–PM együttes rendelet 5. §-ával megállapított szöveg.

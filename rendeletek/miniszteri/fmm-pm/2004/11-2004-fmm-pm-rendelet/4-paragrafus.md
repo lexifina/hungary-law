@@ -1,4 +1,4 @@
-## 3. §[^6] Az Operatív Programnak a 2. § (1) bekezdés b) pontjában meghatározott intézkedései, valamint az EQUAL Program végrehajtása tekintetében – az R. 20. § (1) bekezdésben meghatározott – pénzügyi közreműködő szervezetként és az e rendelet 6. §-ában meghatározott követeléskezelési tevékenység ellátására a Kincstárt jelöljük ki.
+## 3. §[^7] Az Operatív Programnak a 2. § (1) bekezdés b) pontjában meghatározott intézkedései, valamint az EQUAL Program végrehajtása tekintetében – az R. 20. § (1) bekezdésben meghatározott – pénzügyi közreműködő szervezetként és az e rendelet 6. §-ában meghatározott követeléskezelési tevékenység ellátására a Kincstárt jelöljük ki.
 
 ## II. Fejezet
 
@@ -18,4 +18,4 @@ e) kijelöl egy-egy személyt az irányító hatóság elnökletével működő 
 
 (2) A Kincstár az e jogszabályban meghatározott feladatai ellátásakor és az EQUAL Program keretében a végső kedvezményezettel való kapcsolattartás során az irányító hatóság nevében jár el. A feladatok ellátását, valamint az abból eredő felelősségét másra nem ruházhatja át.
 
-[^6]: A 3. § a 26/2008. (V. 8.) ÖTM–PM együttes rendelet 2. §-ával megállapított szöveg.
+[^7]: A 3. § a 26/2008. (V. 8.) ÖTM–PM együttes rendelet 2. §-ával megállapított szöveg.
