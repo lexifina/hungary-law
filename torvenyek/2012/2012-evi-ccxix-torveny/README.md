@@ -11,3 +11,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-219-00-00
 | 2013-08-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2012-219-00-00.4 |
 | 2013-11-09 | 2013. évi CLXXX. törvény | 2012-219-00-00.5 |
 | 2013-12-15 | 2013. évi CCXII. törvény | 2012-219-00-00.6 |
+| 2013-12-31 | 2013. évi CCL. törvény | 2012-219-00-00.7 |
