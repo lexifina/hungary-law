@@ -9,11 +9,3 @@ c) 13. § (1), (2) és (8) bekezdése, valamint (9) bekezdés b)–e) és g) pon
 alapján sarkalatosnak minősül.
 
 (2) E törvény 17. § (1) bekezdése az Alaptörvény 5. cikk (7) bekezdése alapján a jelen lévő országgyűlési képviselők kétharmadának szavazatával elfogadandó házszabályi rendelkezésnek minősül.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
