@@ -1,3 +1,1 @@
-3–4. melléklet a 82/2013. (XII. 23.) BM rendelethez[^8]
-
-[^8]: A 3–4. melléklet a 20. § (4) bekezdése alapján 2013. december 31-én lép hatályba.
+3. melléklet a 82/2013. (XII. 23.) BM rendelethez

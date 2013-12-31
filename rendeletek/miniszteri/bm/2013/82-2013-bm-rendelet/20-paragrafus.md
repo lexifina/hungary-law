@@ -1,4 +1,4 @@
-## 18–19. §[^5]
+## 19. § A kéményseprő-ipari közszolgáltatás ellátásának szakmai szabályairól szóló 63/2012. (XII. 11.) BM rendelet 3. melléklete a 4. melléklet szerint módosul.
 
 ## 5. Záró rendelkezések
 
@@ -9,5 +9,3 @@
 (3) A 17. § és a 2. melléklet a kihirdetését követő 31. napon lép hatályba.
 
 (4) A 18. §, a 19. §, a 3. melléklet és a 4. melléklet a kihirdetését követő nyolcadik napon lép hatályba.
-
-[^5]: A 18–19. § a 20. § (4) bekezdése alapján 2013. december 31-én lép hatályba.
