@@ -1,9 +1,0 @@
-14. § (1) A támogatásban részesült fenntartóktól a támogatás folyósítását követő három évig a támogatás céljának szakmai megvalósulásáról az OKM Támogatáskezelő tájékoztatást kérhet, illetve azt előzetes egyeztetés alapján a helyszínen is jogosult ellenőrizni.
-
-(2) Az 1–2. § alapján igényelt támogatás esetén – a 2010-ben jogutód nélkül megszűnt iskola kivételével – az elszámoláshoz az iskola pedagógiai programja kisebbségi oktató-nevelő munkára vonatkozó feladatainak végrehajtásáról szóló értékelést kell mellékelni, amely vagy a 4. § szerinti támogatás igénybevételével végezhető el, vagy amelyet a 4. § (2) bekezdésében meghatározott feltételeknek megfelelő szakembernek kell elkészítenie.
-
-(3) Az 5. § alapján igénybe vett támogatás esetén az elszámoláshoz csatolni szükséges a használatbavételi engedély vagy műszaki átadás-átvétel jegyzőkönyvének fenntartó által hitelesített másolatát, amennyiben annak kiadására vagy az átadás-átvételre sor került.
-
-(4) A 6. § alapján igénybe vett támogatás esetén az elszámoláshoz szöveges beszámolót szükséges csatolni, amely tartalmazza a résztvevők létszámát, a program megvalósulásának időpontját, helyszínét és hasznosulásának értékelését.
-
-(5) A (2) bekezdés szerinti értékelésnek, a 4. § és a 6. § szerinti támogatások felhasználását igazoló számláknak, bizonylatoknak, a tankönyvi számlának és az annak teljesítését igazoló bizonylatnak, valamint a (4) bekezdésben meghatározott beszámolónak a fenntartó által hitelesített másolatait az elkészültüket, illetve a teljesítésüket követő harminc napon belül, de legkésőbb 2011. január 31-éig a fenntartónak az OKM Támogatáskezelő részére meg kell küldenie. A helyi önkormányzatoknak ezzel egy időben e dokumentumok fenntartó által hitelesített másolati példányát az Igazgatóság részére is meg kell küldeniük.
