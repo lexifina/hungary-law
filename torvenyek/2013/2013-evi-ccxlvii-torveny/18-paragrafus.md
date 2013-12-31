@@ -1,6 +1,6 @@
 18. § Hatályát veszti a
 
-a) Tv. 14/A. §-a,
+a)
 
 b) a Tv. 1. melléklet
 
