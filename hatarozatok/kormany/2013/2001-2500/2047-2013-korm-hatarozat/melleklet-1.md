@@ -14,11 +14,7 @@
 
 ## Határidő: 2014. június 30.
 
-## 3. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1275/2013. (V. 22.) Korm. határozatban a „2013. december 15.” szövegrész helyébe a „2014. május 31.” szöveg lép.
-
-## 4. A pénztárgépek cseréjének és beszerzésének támogatásához a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1512/2013. (VIII. 1.) Korm. határozatban a „2014. március 31.” szövegrész helyébe a „2014. június 30.” szöveg lép.
-
-## 5. A Sport XXI. Létesítményfejlesztési Program keretében PPP konstrukcióban létesült önkormányzati sportlétesítmények kiváltásáról szóló 1966/2013. (XII. 17.) Korm. határozat 7. pontjában „az Oktatási, kulturális és sport PPP-programok előirányzat 2012. évi kötelezettségvállalással terhelt maradványából 54 904 ezer forint átadásáról gondoskodjon” szövegrész helyébe „a Sportlétesítmények PPP konstrukcióban történő fejlesztése előirányzat 2012. évi kötelezettségvállalással terhelt maradványából 54 904 ezer forint átadásáról gondoskodjon” szöveg, valamint az „azonnal” szövegrész helyébe a „2014. február 28.” szöveg lép.
+## 3–5.[^1]
 
 ## 6. A Kormány egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és egyes kormányhatározatok módosításáról szóló 1968/2013. (XII. 17.) Korm. határozat (a továbbiakban: Korm. határozat) végrehajtása során a Korm. határozat 1. pontja szerint a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 55. Egyházi célú központi költségvetési hozzájárulások alcím, 7. Egyházi épített örökség védelme és egyéb beruházások jogcímcsoportra a kunszentmiklósi Baksay Sándor Református Gimnázium és Általános Iskola épületének felújítása, bővítése céljából átcsoportosított 300,0 millió forint a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 4. Egyéb kulturális intézmények címen kerüljön felhasználásra.
 
@@ -175,3 +171,5 @@
 | Nemzetgazdasági Minisztérium | 2 példány |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+
+[^1]: A 3–5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
