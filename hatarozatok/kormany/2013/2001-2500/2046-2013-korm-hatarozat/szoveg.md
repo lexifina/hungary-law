@@ -1,1 +1,0 @@
-A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 40. §-ában biztosított jogkörében eljárva a túlzott hiány eljárás megszüntetése érdekében szükséges intézkedésekről szóló 1259/2013. (V. 13.) Korm. határozat 6. pontját visszavonja.
