@@ -24,7 +24,7 @@ db) a bevezetés a forgalomba hozataltól számított 1 éven belül megtörtén
 
 e) ÁÉKBV által kibocsátott kollektív befektetési értékpapírok, vagy egyéb kollektív befektetési formák által nyilvánosan forgalomba hozott nyílt végű értékpapírok, feltéve, hogy:
 
-ea)[^1] az egyéb kollektív befektetési forma jogszabály alapján prudenciális felügyelet hatálya alatt áll, és ez a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank (a továbbiakban: Felügyelet) megítélése szerint egyenértékű a közösségi jogszabályokban megállapított felügyelettel, és a hatóságok közötti megfelelő együttműködés biztosított,
+ea)[^2] az egyéb kollektív befektetési forma jogszabály alapján prudenciális felügyelet hatálya alatt áll, és ez a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank (a továbbiakban: Felügyelet) megítélése szerint egyenértékű a közösségi jogszabályokban megállapított felügyelettel, és a hatóságok közötti megfelelő együttműködés biztosított,
 
 eb) az egyéb kollektív befektetési forma által kibocsátott értékpapírok tulajdonosainak védelme egyenértékű az ÁÉKBV befektetési jegyei tulajdonosai számára biztosított védelemmel, beleérve az eszközök elkülönített módon való kezelésére, a hitelfelvételre, a kölcsönnyújtásra, valamint az átruházható értékpapírok és pénzpiaci eszközök fedezetlen vásárlásaira vonatkozó szabályokat,
 
@@ -54,4 +54,4 @@ hd) a pénzpiaci eszközöket a Felügyelet által felügyelt intézmények bocs
 
 (2) Az ÁÉKBV eszközeinek legfeljebb 10 százalékát fektetheti az (1) bekezdésben nem említett átruházható értékpapírokba vagy pénzpiaci eszközökbe; és nem vásárolhat sem nemesfémeket, sem nemesfémeket megtestesítő okiratokat. Az ÁÉKBV-k rendelkezhetnek járulékos likvid eszközökkel.
 
-[^1]: A 2. § (1) bekezdés e) pont ea) alpontja a 345/2013. (IX. 30.) Korm. rendelet 63. §-a szerint módosított szöveg.
+[^2]: A 2. § (1) bekezdés e) pont ea) alpontja a 345/2013. (IX. 30.) Korm. rendelet 63. §-a szerint módosított szöveg.

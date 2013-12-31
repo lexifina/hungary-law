@@ -1,6 +1,6 @@
 ## 12. Az indexkövető befektetési alapokra vonatkozó speciális befektetési szabályok
 
-24. § (1)[^2] Az olyan befektetési alap esetében, amely befektetési politikájában valamely index vagy indexek meghatározott arányú együttesének leképezésére vállalkozott, az index kosarát alkotó eszközökre vonatkozóan nem kell alkalmazni az adott eszközök tekintetében meghatározott befektetési korlátokat, amennyiben
+24. § (1)[^3] Az olyan befektetési alap esetében, amely befektetési politikájában valamely index vagy indexek meghatározott arányú együttesének leképezésére vállalkozott, az index kosarát alkotó eszközökre vonatkozóan nem kell alkalmazni az adott eszközök tekintetében meghatározott befektetési korlátokat, amennyiben
 
 a) az index valamely szabályozott piac által meghirdetett index;
 
@@ -12,4 +12,4 @@ c) az indexkövető befektetési alap portfóliójában szereplő értékpapíro
 
 (3) A (2) bekezdésében meghatározott index készítőjének függetlennek kell lennie az adott indexet leképező indexkövető befektetési alap kezelőjétől. Az index készítője és az adott indexet leképező befektetési alap kezelője abban az esetben lehet ugyanazon gazdasági csoport része, ha az összeférhetetlenség kezelését belső szabályzatban határozzák meg.
 
-[^2]: A 24. § (1) bekezdés nyitó szövegrésze a 397/2012. (XII. 20.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^3]: A 24. § (1) bekezdés nyitó szövegrésze a 397/2012. (XII. 20.) Korm. rendelet 10. §-ával megállapított szöveg.
