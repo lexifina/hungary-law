@@ -14,4 +14,4 @@ d) nyilatkozatot arról, hogy a befektetőknek jogukban áll kollektív befektet
 
 (3) A (2) bekezdésben említett 30 napos időtartam lejárta előtt a gyűjtő-ÁÉKBV nem fektethet be az adott cél-ÁÉKBV kollektív befektetési értékpapírjaiba a befektetési alapok befektetési és hitelfelvételi szabályairól szóló kormányrendeletben meghatározott 20 százalékos korlátot meghaladó mértékben.
 
-(4)
+(4) A tájékoztatás nyújtásának módjára vonatkozóan e törvény 72. §-ának rendelkezéseit kell alkalmazni.

@@ -24,3 +24,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-193-00-00
 | 2013-07-01 | 2012. évi CCXXIII. törvény | 2011-193-00-00.17 |
 | 2013-10-01 | 2013. évi CXLIII. törvény | 2011-193-00-00.18 |
 | 2013-11-19 | 2013. évi CLXXXIII. törvény | 2011-193-00-00.19 |
+| 2013-12-31 | Nemzeti Jogszabálytár (egységes szerkezet) | 2011-193-00-00.20 |

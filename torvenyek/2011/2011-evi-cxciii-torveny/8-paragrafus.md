@@ -26,9 +26,7 @@ a) a befektetési alapkezelőnél, kollektív befektetési formánál, befektet�
 
 b) az MNB-nél, a Pénzügyi Szervezetek Állami Felügyeleténél, a minisztériumban, szabályozott piacnál, tőzsdénél, a központi értéktárnál, az elszámolóháznál, központi szerződő félnél, az Államadósság Kezelő Központ Zrt.-nél, a Magyar Államkincstárnál,
 
-c) ingatla
-
-nalapot kezelő befektetési alapkezelő ingatlanbefektetési tevékenységét irányító személye esetében ingatlanforgalmazónál, ingatlanalapot kezelő alapkezelőnél, valamint
+c) ingatlanalapot kezelő befektetési alapkezelő ingatlanbefektetési tevékenységét irányító személye esetében ingatlanforgalmazónál, ingatlanalapot kezelő alapkezelőnél, valamint
 
 d) az a)–c) pontban felsoroltak külföldi megfelelőinél
 
