@@ -6,4 +6,6 @@
 
 (2a) A 11. § (1) bekezdés j) pontja 2013. március 1-jén lép hatályba.
 
-(3) A 11. § (1) bekezdés k)–m) pontja, a 13. § (2) bekezdése, a 14. § (8) bekezdése, a 15. § (1) bekezdése, valamint a 43. § (5) és (12) bekezdése 2014. január 1-jén lép hatályba.
+(3) A 14. § (8) bekezdése 2014. január 1-jén lép hatályba.
+
+(4) A 11. § (1) bekezdés k)–m) pontja, a 13. § (2) bekezdése, a 15. § (1) bekezdése, valamint a 43. § (5) és (12) bekezdése 2015. július 1-jén lép hatályba.

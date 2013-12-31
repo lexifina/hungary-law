@@ -37,3 +37,5 @@ d) kormányzati és közigazgatási célú feladatok támogatására.
 (10) A (8) bekezdésben szabályozott adatszolgáltatási kötelezettség elmulasztása esetén a mulasztó kormányrendeletben meghatározott mértékű bírságot köteles fizetni.
 
 (11) Részben vagy egészben közpénzből finanszírozott feladathoz szükséges, Magyarország területére vonatkozó űrtávérzékelt adat kizárólag a földmérési és térinformatikai államigazgatási szerven keresztül szerezhető be.
+
+(12) Geodéziai, térképészeti, geofizikai, geológiai és navigációs célra kizárólag a 30. § (1) bekezdésében e célra kiadott engedély alapján készült távérzékelt adatok használhatók fel.

@@ -8,4 +8,4 @@
 
 (3) Az állami alapadatok többlettartalmú, valamint az állami alapadatok körén kívül eső adatok előállítása a megrendelő költségére történik.
 
-(4) A Nemzeti Kataszteri Program keretében elkészült állami alapadatbázis alapadat díját – az e törvény végrehajtására kiadott rendeletben meghatározott feltételek szerint – a felvett hitelek visszafizetésének mértékéig a hitel évenkénti törlesztésére kell fordítani.
+(4) A 3. § (1) bekezdés c) és d) pontjában meghatározott adatbázisok értékesítéséből befolyt díjakat – az e törvény végrehajtására kiadott rendeletben meghatározott feltételek szerint – a Nemzeti Kataszteri Program keretében felvett hitelek visszafizetésének mértékéig a hitel évenkénti törlesztésére kell fordítani.

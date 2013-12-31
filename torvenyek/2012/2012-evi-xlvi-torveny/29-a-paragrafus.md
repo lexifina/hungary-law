@@ -1,0 +1,1 @@
+29/A. § Az ingatlanügyi hatóság a földmérő vállalkozó vagy vállalkozás részére az ingatlan-nyilvántartási célú földmérési munkák végzése céljából a tulajdoni lapon szereplő természetes személyazonosító adatokat, jogokat és tényeket átadja.

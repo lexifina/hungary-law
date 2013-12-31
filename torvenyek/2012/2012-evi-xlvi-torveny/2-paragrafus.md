@@ -6,7 +6,7 @@
 
 2. § (1) Földmérési és térképészeti állami alapfeladatnak minősül:
 
-a) az állami térképi adatbázisok létesítése, fenntartása és működtetésének biztosítása országos lefedettséggel,
+a) az állami alapadatok adatbázisainak létesítése, fenntartása és működtetésének biztosítása országos lefedettséggel,
 
 b) az állami alapadatok előállítása, karbantartása, kezelése, tárolása és szolgáltatása,
 

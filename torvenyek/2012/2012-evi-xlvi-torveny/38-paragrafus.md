@@ -18,9 +18,13 @@ e) állapítsa meg a levegőből végzett távérzékelés engedélyezésének �
 
 f) határozza meg a magyarországi hivatalos földrajzi nevek megállapításának és nyilvántartásának rendjét,
 
-g) állapítsa meg az e törvényben meghatározott bírságok kiszabására kijelölt szerveket, a kiszabható bírságok mértékét és a bírság kiszabásának módját,
+g) állapítsa meg az e törvényben meghatározott bírságok kiszabására kijelölt szerveket, a kiszabható bírságok mértékét és a bírság kiszabásának feltételeit és módját,
 
-h) jelölje ki a honvédelem térképészeti támogatásáért felelős szervet, továbbá határozza meg a hatósági feladatait és hatáskörét.
+h) jelölje ki a honvédelem térképészeti támogatásáért felelős szervet, továbbá határozza meg a hatósági feladatait és hatáskörét,
+
+i) állapítsa meg az egyéb célú földmérési és térképészeti tevékenység végzésének részletes szabályait és követelményrendszerét,
+
+j) jelölje ki a geodéziai tervezői és geodéziai szakértői minősítő és a nyilvántartást vezető szervet, határozza meg a minősítés feltételeit és a minősítéssel kapcsolatos eljárás részletes szabályait.
 
 (2) Felhatalmazást kap a miniszter, hogy
 
@@ -36,15 +40,21 @@ e) az ingatlanrendező földmérő minősítés feltételeit és a minősítéss
 
 f) a földmérési szakfelügyelői feladatok részletes szabályait,
 
-g) a földmérő igazolvány kiadásának és nyilvántartásának rendjét,
+g) a földmérő igazolvány kiadásának és nyilvántartásának rendjét, valamint a megbízólevél tartalmát,
 
 h) a háromdimenziós állami ingatlan-nyilvántartási térképi adatbázis pontos tartalmát, valamint létesítésének és működtetésének feladat-végrehajtóját,
 
-i) a felelősségi körébe tartozó alapponthálózati pontok áthelyezésével, pótlásával, helyszínelésével és karbantartásával kapcsolatos szabályokat,
+i) a felelősségi körébe tartozó alapponthálózati pontok áthelyezésével, pótlásával, megszüntetésével, helyreállításával, helyszínelésével és karbantartásával, valamint pontpusztulás esetén a károkozóval szembeni eljárás megindításával kapcsolatos szabályokat,
 
 j) a felelősségi körébe tartozó állami alapadatok adatbázisainak selejtezési és archiválási rendjét, valamint a levéltári átadás módját,
 
-k) az archív analóg és digitális térképeknek, valamint az állami alapadatok előállításával kapcsolatos különféle távérzékelési anyagoknak, munkarészeknek, adatállományoknak és dokumentumoknak a megőrzési, tárolási, kezelési és szolgáltatási rendjét
+k) az archív analóg és digitális térképeknek, valamint az állami alapadatok előállításával kapcsolatos különféle távérzékelési anyagoknak, munkarészeknek, adatállományoknak és dokumentumoknak a megőrzési, tárolási, kezelési és szolgáltatási rendjét,
+
+l) a felelősségi körébe tartozó állami alapadat-adatbázisok jogszerű felhasználásának feltételeit és a felhasználás ellenőrzésének rendjét,
+
+m) az országos földügyi és távérzékelési levéltár létesítésének és működtetésének részletes szabályait,
+
+n) az ingatlanügyi hatóság, vagy hatóságok illetékességi területét az e törvény hatálya alá tartozó feladatai tekintetében
 
 rendeletben állapítsa meg.
 
@@ -54,7 +64,7 @@ a) a földmérési és térképészeti tevékenység végzéséhez szükséges s
 
 b) az állami digitális távérzékelési adatbázis adatainak felbontását, tartalmát, pontossági követelményeit, valamint egyéb minőségi követelményeit,
 
-c) az állami alapadat-adatbázisok jogszerű felhasználásának és a felhasználás ellenőrzésének rendjét,
+c)
 
 d) az állami topográfiai térképi adatbázis állami alapadat-tartalmát, létrehozásának, felújításának, állami átvételének, kezelésének, az adatgyűjtés és az adatátadás rendjét,
 
@@ -74,30 +84,14 @@ e) a felelősségi körébe tartozó alapponthálózati pontok áthelyezésével
 
 f) a felelősségi körébe tartozó állami alapadatok adatbázisainak selejtezési és archiválási rendjét, valamint a levéltári átadás módját,
 
-g) az archív analóg és digitális térképeknek, valamint az állami alapadatok előállításával kapcsolatos különféle távérzékelési anyagoknak, munkarészeknek, adatállományoknak és dokumentumoknak a megőrzési, tárolási, kezelési és szolgáltatási rendjét
+g) az archív analóg és digitális térképeknek, valamint az állami alapadatok előállításával kapcsolatos különféle távérzékelési anyagoknak, munkarészeknek, adatállományoknak és dokumentumoknak a megőrzési, tárolási, kezelési és szolgáltatási rendjét,
+
+h) a felelősségi körébe tartozó állami topográfiai térképi adatbázisok és térképek vonatkoztatási és vetületi rendszerét,
+
+i) a felelősségi körébe tartozó állami alapadat-adatbázisok jogszerű felhasználásának és a felhasználás ellenőrzésének rendjét
 
 rendeletben állapítsa meg.
 
 (5) Felhatalmazást kap a miniszter, hogy a honvédelemért felelős miniszterrel és az adópolitikáért felelős miniszterrel egyetértésben, rendeletben szabályozza az e törvény alapján igazgatási szolgáltatási díjköteles adatszolgáltatásokért, eljárásokért fizetendő igazgatási szolgáltatási díj mértékét és megfizetésének szabályait.
 
-(6) Felhatalmazást kap a miniszter, hogy az egyéb célú földmérési és térképészeti tevékenységek részletes szabályait és követelményrendszerét – a felelősségi körébe tartozó tevékenység vonatkozásában –
-
-a) a területrendezésért,
-
-b) a településfejlesztésért és településrendezésért,
-
-c) az építésügyért,
-
-d) az iparügyekért,
-
-e) az építésgazdaságért,
-
-f) a területfejlesztésért,
-
-g) a közlekedésért,
-
-h) az energiapolitikáért,
-
-i) a bányászati ügyekért
-
-felelős miniszterrel egyetértésben rendeletben határozza meg.
+(6)

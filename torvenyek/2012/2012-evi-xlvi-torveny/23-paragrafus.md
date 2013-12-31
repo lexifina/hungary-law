@@ -22,7 +22,9 @@ h) telki szolgalmi jog, és egyéb jogok ingatlan-nyilvántartási bejegyzéséh
 
 (2) Ingatlan-nyilvántartási célú földmérési tevékenységnek minősül továbbá a földrészlethatárok kitűzésével, továbbá a földrészleten belüli használati megosztással kapcsolatos munka.
 
-(3) Egyéb célú földmérési és térképészeti tevékenységnek minősülnek azon, az állami alapfeladatok és alapmunkák körébe, valamint az ingatlan-nyilvántartási célú földmérési tevékenységek körébe nem tartozó, de az állami térképi adatbázisok adatain alapuló földmérési és térképészeti munkák, amelyek nem eredményezik az állami ingatlan-nyilvántartási térképi adatbázis megváltozását.
+(2a) Az (1) bekezdésben felsorolt munkák során előállított munkarészek szerinti változások az ingatlan-nyilvántartási átvezetéssel válnak az állami ingatlan-nyilvántartási térképi alapadatbázis részévé.
+
+(3) Egyéb célú földmérési tevékenységnek minősülnek az állami alapfeladatok és alapmunkák körébe, valamint az ingatlan-nyilvántartási célú földmérési tevékenységek körébe nem tartozó földmérési munkák. Az egyéb célú földmérési tevékenység végzésének jogosultsági feltételrendszerét és a munkavégzés részletes szabályait a Kormány rendeletben határozza meg.
 
 (4) Az állami alapadatok változását, megszüntetését vagy bővítését eredményező ingatlan-nyilvántartási célú földmérési és térképészeti munkát, ha a változás vagy bővítés a változás előtti és utáni földrészletek számát együttesen tekintve több mint 30 földrészletet, illetve külterületen több mint 50 hektárt érint, a munkálatok megkezdése előtt az illetékes ingatlanügyi hatósághoz be kell jelenteni.
 

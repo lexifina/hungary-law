@@ -28,13 +28,13 @@ g) az állami topográfiai térképek előállítására.
 
 (7) Minden részben vagy egészében közpénzek felhasználásával készített digitális domborzat- és felszínmodellt a (8) bekezdésben megjelölt kezelő szerv részére az ott meghatározott feltételekkel át kell adni.
 
-(8) Minden részben vagy egészen közpénzek felhasználásával készített, az állami topográfiai térképi adatbázis tartalmát érintő adatállománnyal rendelkezni jogosult köteles – az adatállomány elkészültét követően 30 napon belül – díj-, költség- és térítésmentesen átadni a földmérési és térinformatikai államigazgatási szerv számára az állami topográfiai térképi adatbázis állami alapadat tartalmát érintő adatokat. A földmérési és térinformatikai államigazgatási szerv az adatállományt díj-, költség- és térítésmentesen átadja a honvédelem térképészeti támogatásáért felelős szerv részére.
+(8) Minden részben vagy egészben közpénzek felhasználásával készített, az állami topográfiai térképi adatbázis tartalmát érintő adatállománnyal rendelkezni jogosult köteles – az adatállomány elkészültét követően 30 napon belül – díj-, költség- és térítésmentesen átadni a földmérési és térinformatikai államigazgatási szerv számára az állami topográfiai térképi adatbázis állami alapadat tartalmát érintő adatokat. A földmérési és térinformatikai államigazgatási szerv az adatállományt a kézhezvételt követő 30 napon belül köteles díj-, költség- és térítésmentesen átadni a honvédelem térképészeti támogatásáért felelős szerv részére.
 
-(9) A (8) bekezdésben átadott adatokat a földmérési és térinformatikai államigazgatási szerv a miniszter hatáskörébe tartozó állami topográfiai térképi adatbázissal együtt kezeli és szolgáltatja.
+(9) A (8) bekezdésben átadott adatokat a földmérési és térinformatikai államigazgatási szerv a miniszter hatáskörébe tartozó állami topográfiai térképi adatbázistól elkülönítve kezeli és szolgáltatja.
 
-(10) A (8) bekezdés alapján átadott, az adatállománnyal rendelkezni jogosult az átadott adatok mértékével arányosan, külön megállapodás alapján díjmentesen igényelhet adatokat az állami topográfiai térképi adatbázisokból.
+(10)
 
-(11) A honvédelem térképészeti támogatásáért felelős szerv kérésére a honvédelmi célú feladatok térinformatikai igényeinek biztosítására minden, az állami topográfiai, valamint a honvédelmi célú térképi adatbázisok aktualizálását érintő adattal rendelkezni jogosult díj-, költség- és térítésmentesen köteles az adatállomány elkészültét követően 30 napon belül adatot szolgáltatni.
+(11) A honvédelem térképészeti támogatásáért felelős szerv felszólítására a honvédelmi célú feladatok térinformatikai igényeinek biztosítására minden, az állami topográfiai, valamint a honvédelmi célú térképi adatbázisok aktualizálását érintő adattal rendelkezni jogosult díj-, költség- és térítésmentesen köteles a felszólítás kézhezvételét követő 30 napon belül adatot szolgáltatni. A honvédelem térképészeti támogatásáért felelős szerv a topográfiai térképi adatbázis állami alapadat tartalmát érintő adatokat a kézhezvételt követő 30 napon belül köteles díj-, költség- és térítésmentesen átadni a földmérési és térinformatikai államigazgatási szerv részére.
 
 (12) Az állami topográfiai térképi adatbázis állami alapadat-tartalma kötelező alapul szolgál a topográfiai adattartalmat igénylő térinformatikai rendszerek térképi adatbázisainak kialakításához.
 

@@ -2,9 +2,11 @@
 
 ## A FÖLDMÉRÉSI ÉS TÉRKÉPÉSZETI TEVÉKENYSÉG VÉGZÉSE
 
-28. § (1) A földmérési és térképészeti munka végzése az e törvény felhatalmazása alapján kiadott rendeletben meghatározott szakképzettséghez kötött tevékenység. A földmérési és térképészeti jogosultságot a jogosult részére a miniszter rendelete alapján a földmérési és térinformatikai államigazgatási szerv által kiállított földmérő igazolvány vagy a honvédelmi célú földmérési és térképészeti tevékenység végzésére jogosító „Parancs” tanúsítja.
+28. § (1) A földmérési és térképészeti munka végzése az e törvény felhatalmazása alapján kiadott rendeletben meghatározott szakképzettséghez kötött tevékenység. A földmérési és térképészeti jogosultságot a jogosult részére a miniszter rendelete alapján a földmérési és térinformatikai államigazgatási szerv által kiállított földmérő igazolvány és megbízólevél vagy a honvédelmi célú földmérési és térképészeti tevékenység végzésére jogosító „Parancs” tanúsítja.
 
 (2) A földmérési és térképészeti munkákat a vonatkozó jogszabályok szerint előírt minőségben kell elkészíteni. Állami alapadatok előállítása során a készítő, illetve jogutódja a – mintavételes eljárással elvégzett vizsgálat során fel nem tárt – rejtett hibákért az állami átvételt követő tíz évig kijavítási kötelezettséggel tartozik.
+
+(2a) Amennyiben a földrészlet tulajdoni lapján az ingatlan területével, határvonalával vagy tulajdonjogával kapcsolatos perfeljegyzés szerepel, akkor földmérési munka az ingatlannal kapcsolatban a perben kirendelt igazságügyi szakértő kivételével nem végezhető.
 
 (3) Az állami ingatlan-nyilvántartási térképi adatbázisban változást eredményező földmérési és térképészeti munka minőségét ingatlanrendező földmérő minősítéssel rendelkező földmérő tanúsítja.
 
@@ -32,12 +34,36 @@ b) a földmérési, térképészeti tevékenységtől eltiltás hatálya alatt n
 
 c) büntetlen előéletű.
 
-(8) A földmérési és térinformatikai államigazgatási szerv a földmérő igazolvánnyal, valamint az ingatlanrendező földmérő minősítéssel rendelkező személyekről bárki számára ingyenesen hozzáférhető nyilvántartást vezet, amely tartalmazza a tevékenység végzésére jogosult személy természetes személyazonosító adatait, telephelyét, lakcímét és elérhetőségeit. A nyilvántartásban szereplő személy a saját adatainak a nyilvánosságra hozatalát írásban az adatnyilvántartónál megtilthatja.
+(7a) Az ingatlanrendező földmérő minősítés a megadást követő öt évig érvényes. Az érvényesség meghosszabbításának feltétele:
 
-(8a) A földmérési és térinformatikai államigazgatási szerv által a (8) bekezdés alapján vezetett nyilvántartás – a természetes személyazonosító és a lakcímre vonatkozó adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+a) a földmérési és térinformatikai államigazgatási szerv, illetve a Magyar Mérnöki Kamara (a továbbiakban: kamara) által akkreditált szakirányú továbbképzéseken vagy konferenciákon húsz továbbképzési pont megszerzése, és
+
+b) a felsőfokú szakirányú végzettség igazolása.
+
+(7b) A földmérési és térinformatikai államigazgatási szerv által szervezett szakmai továbbképzésekért adható továbbképzési pontokat a földmérési és térinformatikai államigazgatási szerv állapítja meg.
+
+(8) A földmérési és térinformatikai államigazgatási szerv a földmérő igazolvánnyal, illetve az ingatlanrendező földmérő minősítéssel rendelkező személyekről bárki számára ingyenesen hozzáférhető nyilvántartást vezet, amely tartalmazza a tevékenység végzésére jogosult személy:
+
+a) természetes személyazonosító adatait,
+
+b) a földmérő igazolvány illetve a minősítés számát,
+
+c) szakképzettségét,
+
+d) telephelyét,
+
+e) lakcímét,
+
+f) elérhetőségeit,
+
+g) a földmérő igazolvány, illetve a minősítés érvényességi idejét.
+
+(8a) A nyilvántartásban szereplő személy a d)–f) pontban meghatározott adatainak a nyilvánosságra hozatalát az adatnyilvántartónál írásban megtilthatja.
+
+(8b) A földmérési és térinformatikai államigazgatási szerv által a (8) bekezdés alapján vezetett nyilvántartás a (8) bekezdés b) és g) pontjában meghatározott adatok vonatkozásában közhiteles hatósági nyilvántartásnak minősül.
 
 (9) Aki földmérési munkát jogosulatlanul végez, kormányrendeletben meghatározott mértékű bírságot köteles fizetni.
 
 (10) Jogosulatlan földmérési tevékenységet végez az, aki az (1) bekezdésben meghatározott jogosultság hiányában, a 23. § (1)–(3) bekezdésében felsorolt földmérési tevékenységet végez.
 
-(11) A földmérési és térképészeti állami alapadat-adatbázisok jogszerű felhasználásának és a felhasználás ellenőrzésének rendjéről szóló rendelet alapján megállapított jogosulatlan adatfelhasználásért bírság szabható ki.
+(11) A földmérési és térképészeti állami alapadat-adatbázisok jogosulatlan adatfelhasználásáért az adatot felhasználó kormányrendeletben meghatározott mértékű bírságot köteles fizetni.
