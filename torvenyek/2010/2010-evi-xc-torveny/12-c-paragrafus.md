@@ -1,0 +1,1 @@
+12/C. § Az egyes törvényeknek agrár- és környezetügyi tárgyban történő módosításáról szóló 2013. évi CCL. törvénnyel megállapított 10. §-t a 2014. január 1-jén vagy azt követően megszerzett bevételekre kell alkalmazni.

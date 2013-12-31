@@ -4,7 +4,7 @@
 
 (3) A különadó alapjának 9. § szerint meghatározott összegét
 
-a) az Szja tv. rendelkezéseinek alkalmazásában a jövedelem kiszámításánál nem kell figyelembe venni, azonban a kifizetés évére vonatkozó személyi jövedelemadó-bevallásban elkülönítve be kell vallani, és be kell számítani az Szja tv. 3. §-ának 75. pontja szerinti éves összes jövedelem megállapításánál;
+a) az Szja tv. rendelkezéseinek alkalmazásában a jövedelem kiszámításánál nem kell figyelembe venni, azonban a kifizetés évére vonatkozó személyi jövedelemadó-bevallásban elkülönítve be kell vallani;
 
 b) a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvény alkalmazásában – figyelemmel a c) pont rendelkezésre – nem kell járulékalapnak tekinteni;
 
