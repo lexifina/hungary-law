@@ -6,4 +6,4 @@
 
 (3) Az 1–4, 6–11. alcím, a 21. § (1)–(35), (37), (38) és (42) bekezdése, a 22. § 1–28. és 30. pontja, a 23. § (1) bekezdés 1–22. pontja és (2) bekezdése, a 16. alcím 2013. január 1-jén lép hatályba.
 
-(4) A 28. § 2014. január 1-jén lép hatályba.
+(4) A 28. § 2015. január 1-jén lép hatályba.
