@@ -36,4 +36,6 @@ q) a szociális hatóság a szociális igazgatásról és szociális ellátások
 
 r) a családi állapot, a házasságkötés vagy a bejegyzett élettársi kapcsolat létesítésének helye, a nem, valamint a nyilvántartásból való, az elhalálozáson kívüli kikerülés okára, helyére és idejére vonatkozó adatok kivételével a hallgatói hitelrendszert működtető szervezet a hallgatói hitel folyósításával, visszafizetésével és a célzott kamattámogatás igényléséhez szükséges igazolások kiadásával összefüggő feladatai ellátásához;
 
-s) a fővárosi és megyei kormányhivatal integrált ügyfélszolgálati irodája az anyakönyvi eljárással és az állampolgársági eljárással kapcsolatos feladatainak, valamint más, törvényben meghatározott feladatainak ellátásához.
+s) a fővárosi és megyei kormányhivatal integrált ügyfélszolgálati irodája az anyakönyvi eljárással és az állampolgársági eljárással kapcsolatos feladatainak, valamint más, törvényben meghatározott feladatainak ellátásához,
+
+t) a családi állapot, a házasságkötés vagy a bejegyzett élettársi kapcsolat létesítésének helye, a nem, valamint a nyilvántartásból való, az elhalálozáson kívüli kikerülés okára, helyére és idejére vonatkozó adatok kivételével az élelmiszerlánc-felügyeleti szerv az élelmiszerlánc-felügyeleti információs rendszer létrehozásával és működtetésével összefüggő feladatai ellátásához.
