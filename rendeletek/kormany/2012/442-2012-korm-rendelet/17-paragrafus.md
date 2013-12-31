@@ -10,6 +10,8 @@ c) a csomagolásról és a csomagolási hulladékról szóló 94/62/EK irányelv
 
 d) a hulladékokról és egyes irányelvek hatályon kívül helyezéséről szóló, 2008. november 19-i 2008/98/EK európai parlamenti és tanácsi irányelvnek
 
+e)[^6] a csomagolásról és a csomagolási hulladékról szóló 94/62/EK európai parlamenti és tanácsi irányelv I. mellékletének módosításáról szóló, 2013. február 7-i 2013/2/EU bizottsági irányelvnek
+
 ## való megfelelést szolgálja.
 
 (2) Ez a rendelet
@@ -29,3 +31,5 @@ f) a 2001/171/EK határozatnak a 94/62/EK irányelvben meghatározott nehézfém
 g) a csomagolásról és a csomagolási hulladékról szóló 94/62/EK európai parlamenti és tanácsi irányelvben meghatározott nehézfém-koncentráció határértéktől a műanyag rekeszek és a műanyag raklapok esetében való eltérés feltételeinek meghatározásáról szóló, 2009. március 24-i 2009/292/EK bizottsági határozat
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
+
+[^6]: A 17. § (1) bekezdés e) pontját az 534/2013. (XII. 30.) Korm. rendelet 2. §-a iktatta be.

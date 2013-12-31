@@ -2,7 +2,7 @@
 
 2. § (1) E rendelet alkalmazásában
 
-1. csomagolás: valamennyi olyan, bármilyen tulajdonságú anyagból készült termék, amelyet áru tartására, megóvására, átadására, átvételére, szállítására, valamint bemutatására használnak, beleértve minden terméket a nyersanyagoktól kezdve a feldolgozott árucikkekig, továbbá az ugyanilyen célra használt egyutas árucikkek; csomagolás lehet:
+1.[^1] csomagolás: valamennyi olyan, bármilyen tulajdonságú anyagból készült termék, amelyet áru tartására, megóvására, átadására, átvételére, szállítására, valamint bemutatására használnak, beleértve minden árut a nyersanyagoktól kezdve a feldolgozott árucikkekig, továbbá az ugyanilyen célra használt egyutas árucikkek; csomagolás lehet:
 
 a) a fogyasztói vagy elsődleges csomagolás, amely értékesítési egységet képez a fogyasztó számára az értékesítés helyszínén;
 
@@ -24,4 +24,17 @@ c) a szállítási vagy harmadlagos csomagolás, amely megkönnyíti a fogyaszt�
 
 8. nehézfém véletlen jelenléte: a nehézfém csomagolásban vagy annak összetevőjében nem szándékos hozzáadás következtében való jelenléte.
 
-(2) Annak meghatározását, hogy adott esetben mi tekintendő csomagolásnak, az 1. melléklet szerinti kritériumok alapján kell elvégezni.
+(2)[^2] Csomagolásnak kell tekinteni továbbá
+
+a) az árucikket, ha a 2. § (1) bekezdés 1. pontja szerinti fogalom-meghatározásnak a csomagolás által még biztosított egyéb funkciók sérelme nélkül megfelel, kivéve, ha az adott árucikk a termék szerves részét képezi, és erre az árucikkre a termék tartásához vagy megőrzéséhez a termék teljes élettartama alatt szükség van, valamint az egyes alkotóelemeket együttes felhasználásra, fogyasztásra vagy értékesítésre szánták, és
+
+b) az értékesítés helyén történő megtöltésre tervezett és szánt árucikkeket, továbbá az értékesítés helyén eladott, megtöltött vagy az értékesítés helyén történő megtöltésre tervezett és szánt egyszer használatos (eldobható) árucikkeket, ha azok csomagolási funkciót látnak el.
+
+(3)[^3] A csomagolásba beépülő egyes alkotóelemeket és kiegészítő elemeket azon csomagolás részének kell tekinteni, amelybe azokat beépítették. Az egy termékre közvetlenül ráakasztott vagy ahhoz rögzített, csomagolási funkciót ellátó kiegészítő elemeket csomagolásnak kell tekinteni, kivéve, ha azok a termék szerves részét képezik, és minden alkotóelemet együttes fogyasztásra vagy értékesítésre szántak.
+
+(4)[^4] A csomagolásnak minősülő, illetve a csomagolásnak nem minősülő tételeket (szemléltető példákat) az 1. melléklet tartalmazza.
+
+[^1]: A 2. § (1) bekezdés 1. pont nyitó szövegrésze az 534/2013. (XII. 30.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^2]: A 2. § (2) bekezdése az 534/2013. (XII. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^3]: A 2. § (3) bekezdését az 534/2013. (XII. 30.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^4]: A 2. § (4) bekezdését az 534/2013. (XII. 30.) Korm. rendelet 1. § (1) bekezdése iktatta be.
