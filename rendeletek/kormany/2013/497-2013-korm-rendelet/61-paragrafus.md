@@ -1,11 +1,12 @@
-61. § (1)–(2)[^8]
+61. § (1)–(2)[^11]
 
-(3)[^9]
+(3)[^12]
 
-(4) Az Ávr. 7 melléklete a 4. melléklet szerint módosul.
+(4)[^13]
 
-(5)–(6)[^10]
+(5)–(6)[^14]
 
-[^8]: A 61. § (1)–(2) bekezdése a 117. § (2) bekezdése alapján 2014. január 1-jén lép hatályba.
-[^9]: A 61. § (3) bekezdése a 117. § (3) bekezdése alapján 2014. január 5-én lép hatályba.
-[^10]: A 61. § (5)–(6) bekezdése a 117. § (2) bekezdése alapján 2014. január 1-jén lép hatályba.
+[^11]: A 61. § (1)–(2) bekezdése a 117. § (2) bekezdése alapján 2014. január 1-jén lép hatályba.
+[^12]: A 61. § (3) bekezdése a 117. § (3) bekezdése alapján 2014. január 5-én lép hatályba.
+[^13]: A 61. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 61. § (5)–(6) bekezdése a 117. § (2) bekezdése alapján 2014. január 1-jén lép hatályba.
