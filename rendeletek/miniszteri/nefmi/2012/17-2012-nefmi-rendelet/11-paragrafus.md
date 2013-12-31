@@ -1,1 +1,0 @@
-## 10. § E rendelet alapján kizárólag az Európai Bizottság N 357/2007. számú, a miniszter által vezetett minisztérium költségvetési fejezetének fejezeti kezelésű előirányzataiból és a Nemzeti Kulturális Alapból nyújtott támogatás tárgyában hozott határozatával összhangban nyújtható támogatás.
