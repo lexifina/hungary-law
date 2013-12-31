@@ -1,1 +1,3 @@
-## 13. § A forgalmazó 2,7 tömegszázalék maximális oxigéntartalmú és 5 térfogatszázalék maximális etanol tartalmú motorbenzint is köteles forgalmazni.
+## 13. §[^6]
+
+[^6]: A 13. §-t a 12. § (3) bekezdése hatályon kívül helyezte.
