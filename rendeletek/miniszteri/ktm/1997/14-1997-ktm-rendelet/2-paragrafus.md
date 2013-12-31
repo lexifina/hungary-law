@@ -1,1 +1,0 @@
-## 1. § A rendelet célja, hogy a nemzetközi előírásokkal összhangban megállapítsa a nemzeti parkok övezeti kategóriákba való besorolásának elveit, módját, továbbá meghatározza az egyes övezetekben a természetvédelmi kezelés alapvető szempontjait.
