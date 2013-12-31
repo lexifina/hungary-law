@@ -4,16 +4,8 @@
 
 (2) A fogvatartottnak biztosítani kell a külön jogszabályokban meghatározottak szerint a fogvatartás alatt keletkezett egészségügyi adatainak megismerését.
 
-(3) A fogvatartott egészségügyi ellátása visszautasításával kapcsolatos önrendelkezési joga – a saját és a közösség egészségének védelme érdekében –
-
-a) veszélyeztető, illetve közvetlen veszélyeztető állapot fennállása esetén,
-
-b) életveszélyes állapot, valamint várhatóan maradandó egészségkárosodás elhárítása miatt,
-
-c) közegészségügyi-járványügyi érdekből,
-
-d) törvényben meghatározott esetekben
-
-## korlátozható.
+(3)[^8]
 
 (4) A műtétre és a műtétnek minősülő vizsgálati (invazív) eljárásra az egészségügyi jogszabályok rendelkezései az irányadók.
+
+[^8]: A 4. § (3) bekezdését az Alkotmánybíróság a 30/2013. (X. 28.) AB határozatával megsemmisítette.

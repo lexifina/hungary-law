@@ -1,4 +1,4 @@
-## 32. §[^31]
+## 32. §[^34]
 
 33. § (1) A halál bekövetkeztét orvosi halottvizsgálattal kell megállapítani.
 
@@ -16,7 +16,7 @@ d) a bv. intézetben vagy külső munkáltatás helyén következett be, a bv. o
 
 (3) Amennyiben a bv. orvost nem lehet elérni, a halottvizsgálatot a területileg illetékes háziorvos vagy az ügyeleti szolgálat orvosa végzi.
 
-(4)[^32] A halálesetet haladéktalanul jelenteni kell a bv. intézet parancsnokának és az Országos Parancsnokságnak. A bv. intézet parancsnoka értesíti a bv. intézet törvényességi felügyeletét ellátó ügyészt, továbbá a rendőrséget a hatósági boncolás elvégzése iránt.
+(4)[^35] A halálesetet haladéktalanul jelenteni kell a bv. intézet parancsnokának és az Országos Parancsnokságnak. A bv. intézet parancsnoka értesíti a bv. intézet törvényességi felügyeletét ellátó ügyészt, továbbá a rendőrséget a hatósági boncolás elvégzése iránt.
 
-[^31]: A 32. §-t a 41/2011. (XII. 30.) KIM rendelet 19. §-a hatályon kívül helyezte.
-[^32]: A 33. § (4) bekezdése a 25/2003. (VII. 1.) IM rendelet 9. §-a szerint módosított szöveg.
+[^34]: A 32. §-t a 41/2011. (XII. 30.) KIM rendelet 19. §-a hatályon kívül helyezte.
+[^35]: A 33. § (4) bekezdése a 25/2003. (VII. 1.) IM rendelet 9. §-a szerint módosított szöveg.

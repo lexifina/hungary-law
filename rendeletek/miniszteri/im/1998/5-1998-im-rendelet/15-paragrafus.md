@@ -1,4 +1,4 @@
-15. §[^14] (1) A fogvatartott sürgősségi fogászati ellátását a bv. intézet vagy bv. egészségügyi intézet köteles biztosítani.
+15. §[^17] (1) A fogvatartott sürgősségi fogászati ellátását a bv. intézet vagy bv. egészségügyi intézet köteles biztosítani.
 
 (2) A nem sürgősségi fogászati ellátások körébe tartozó fogászati beavatkozások az egészségbiztosítási jogszabályok szerint – a lehetőségek függvényében – a bv. intézetben vagy bv. egészségügyi intézetben elvégezhetők.
 
@@ -12,4 +12,4 @@
 
 (7) A (4)–(6) bekezdések alkalmazása során felmerült költségek a bv. intézetet terhelik.
 
-[^14]: A 15. § a 41/2011. (XII. 30.) KIM rendelet 15. §-ával megállapított szöveg.
+[^17]: A 15. § a 41/2011. (XII. 30.) KIM rendelet 15. §-ával megállapított szöveg.

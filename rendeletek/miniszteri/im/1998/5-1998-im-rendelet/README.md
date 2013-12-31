@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-5-20-06
 | 2010-05-01 | 1998-5-20-06.10 | 11/2010. (III. 31.) IRM rendelet |
 | 2012-01-01 | 1998-5-20-06.11 | 41/2011. (XII. 30.) KIM rendelet |
 | 2013-01-01 | 1998-5-20-06.12 | 25/2003. (VII. 1.) IM rendelet |
+| 2013-12-31 | 1998-5-20-06.13 | 30/2013. (X. 28.) AB határozat |

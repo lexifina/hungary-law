@@ -1,4 +1,4 @@
-22/B. §[^25] (1) Az anya-gyermek részleget a bv. intézet többi részétől elkülönítve kell kialakítani. Az anya-gyermek részlegen egy zárkában egy anya és gyermeke helyezhető el.
+22/B. §[^28] (1) Az anya-gyermek részleget a bv. intézet többi részétől elkülönítve kell kialakítani. Az anya-gyermek részlegen egy zárkában egy anya és gyermeke helyezhető el.
 
 Amennyiben a gyermek a zárkában tartózkodik, az ajtót minden napszakban nyitva kell tartani, kulcsra zárni tilos.
 
@@ -10,4 +10,4 @@ Kórházi kezelés esetén lehetővé kell tenni, hogy a fogvatartott – felüg
 
 (4) Az anya-gyermek együttes elhelyezés részletes eljárási szabályait, a gyermek gondozásához szükséges eszközöket a bv. országos parancsnoka intézkedésben határozza meg.
 
-[^25]: A 22/B. §-t a 25/2003. (VII. 1.) IM rendelet 5. §-a iktatta a szövegbe.
+[^28]: A 22/B. §-t a 25/2003. (VII. 1.) IM rendelet 5. §-a iktatta a szövegbe.
