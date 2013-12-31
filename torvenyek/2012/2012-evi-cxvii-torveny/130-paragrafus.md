@@ -1,6 +1,6 @@
 ## 40. Záró rendelkezések
 
-130. § (1) Ez a törvény – a (2)–(7) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba, és 2014. július 2-án hatályát veszti.
+130. § (1) Ez a törvény – a (2)–(7) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba, és 2015. január 2-án hatályát veszti.
 
 (2) A 11. §, a 16. § a) pontja, a 61. § b) pontja, a 63. § (1) és (3) bekezdése és a 85. § 2012. augusztus 1. napján lép hatályba.
 
@@ -12,4 +12,4 @@
 
 (6) A 22. §, 23. §, 25. §, 29. § és a 36. § 2013. július 1. napján lép hatályba.
 
-(7) A 76. §, a 88. § (2) bekezdése, a 92. § (2) bekezdése, a 94. §, a 95. §, a 101. §, a 105. §, és a 116. § b), d), e), f), h) és i) pontja 2014. július 1. napján lép hatályba.
+(7) A 76. §, a 88. § (2) bekezdése, a 92. § (2) bekezdése, a 94. §, a 95. §, a 101. §, a 105. §, és a 116. § b), d), e), f), h) és i) pontja 2015. január 1. napján lép hatályba.
