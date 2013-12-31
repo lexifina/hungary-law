@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-187-00-00
 | 2013-07-01 | 2013. évi LXXXIV. törvény | 2011-187-00-00.8 |
 | 2013-08-01 | 2013. évi CXXXIII. törvény | 2011-187-00-00.9 |
 | 2013-09-01 | 2013. évi LXXVII. törvény | 2011-187-00-00.10 |
+| 2013-12-31 | 2013. évi CCL. törvény | 2011-187-00-00.11 |
