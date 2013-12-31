@@ -40,12 +40,18 @@ d) valamelyik hegyközségnek,
 
 és e tagságával összefüggő tevékenységén kívül más agrárgazdasági tevékenységet nem folytat.
 
+(6a) A (2) bekezdéstől eltérően nem keletkezik kamarai tagság, ha az érintett gazdálkodó szervezet a TEÁOR „7500 Állat-egészségügyi ellátás” tevékenységen kívül más agrárgazdasági tevékenységet tevékenységi körei között nem tüntet fel, illetve TEÁOR „7500 Állat-egészségügyi ellátás” tevékenységen kívül más agrárgazdasági tevékenységet sem folytat.
+
+(6b) A (6) bekezdésben felsoroltak szerinti szervezet a kamara megkeresésére az érintett személy tagsági viszonya fennállásáról nyilatkozik.
+
 (7) Amennyiben
 
-a) a (6) bekezdés szerint érintett személy,
+a) a (6), valamint a (6a) bekezdés szerint érintett személy,
 
-b) az agrárgazdaság fejlesztéséről szóló törvény szerint nyilvántartásba vett szaktanácsadási szolgáltatást nyújtó szaktanácsadó,
+b) a nyilvántartásba vett szaktanácsadási szolgáltatást nyújtó szaktanácsadó,
 
-c) az elismert LEADER Helyi Akciócsoport tagja,
+c) közösségi-, illetve nemzeti forrásból finanszírozott agrár-, vidékfejlesztési-, illetőleg halászati támogatást igénybe vevő szervezet vagy személy, valamint
 
-az alapszabályban meghatározottak szerint önkéntesen vállal agrárkamarai tagságot, ugyanazok a jogok illetik, illetve kötelezettségek terhelik, mint akiknek agrárkamarai tagsági viszonya a törvény alapján keletkezett.
+d) az alapszabályban meghatározott feltételeknek megfelelő személy
+
+az alapszabályban meghatározottak szerint önkéntesen vállal kamarai tagságot, ugyanazok a jogok illetik, illetve kötelezettségek terhelik, mint akiknek kamarai tagsági viszonya a törvény alapján keletkezett.

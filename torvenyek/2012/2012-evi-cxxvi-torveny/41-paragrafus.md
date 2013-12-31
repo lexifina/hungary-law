@@ -21,3 +21,7 @@ f) egyéb bevételekből, ideértve az önkéntesen felajánlott hozzájárulás
 (3) Az (1) bekezdés e) pontjában megállapított, az agrárkamara közfeladatainak ellátásához kapcsolódó költségvetési támogatást a miniszter által vezetett minisztérium költségvetési fejezetében kell megtervezni.
 
 (4) A költségvetési támogatás felhasználásáról az agrárkamara évente beszámol a miniszternek.
+
+(5) A Kormány döntésével a kamara részére közhasznú feladatai ellátásához szükséges állami ingatlan tulajdonjoga ingyenesen átruházható, továbbá ingatlan tulajdonjogának vagy használatának megszerzéséhez támogatás nyújtható.
+
+(6) A kamara a követelményeknek való megfelelés esetén a számlabefogadó hozzájárulása nélkül is jogosult elektronikus számla kiállítására.

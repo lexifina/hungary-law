@@ -590,22 +590,6 @@ Mezőgazdasági vegyi termék gyártása
 
 |
 
-2120
-
-|
-
-Gyógyszerkészítmény gyártása
-
-|
-
-2830
-
-|
-
-Mezőgazdasági, erdészeti gép gyártása
-
-|
-
 4611
 
 |
@@ -643,30 +627,6 @@ Dísznövény nagykereskedelme
 |
 
 Mezőgazdasági gép, berendezés nagykereskedelme
-
-|
-
-4776
-
-|
-
-Dísznövény, vetőmag, műtrágya, hobbiállat-eledel kiskereskedelme
-
-|
-
-7500
-
-|
-
-Állat-egészségügyi ellátás
-
-|
-
-7731
-
-|
-
-Mezőgazdasági gép kölcsönzése
 
 |
 
@@ -715,3 +675,27 @@ Tejtermék, tojás, zsiradék nagykereskedelem
 |
 
 Dohányáru nagykereskedelem
+
+|
+
+4675
+
+|
+
+Vegyiáru-nagykereskedelemből műtrágya és egyéb agrokémiai termékek nagykereskedelme
+
+|
+
+7490
+
+|
+
+Mezőgazdasági, vadgazdálkodási, erdőgazdálkodási szakmai tervezés, szakértés
+
+|
+
+7739
+
+|
+
+Gazdasági haszonállatok kölcsönzése

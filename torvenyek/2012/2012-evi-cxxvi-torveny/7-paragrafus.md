@@ -1,65 +1,87 @@
 ## Az agrárkamara tagjegyzéke
 
-7. § (1) Az agrárkamara a tagjairól tagjegyzéket vezet. A tagjegyzék tartalmazza az agrárkamarai tag:
+7. § (1) A kamara a törvényben, az alapszabályban, valamint az adatszolgáltatási szabályzatban meghatározottak szerint
 
-a) természetes személy esetében nevét és lakóhelyét,
+a) a tagjairól tagjegyzéket, valamint
 
-b) tevékenységi körét,
+b) a tagok által végzett agrárgazdasági tevékenységről gazdaságszerkezeti
 
-c) a tagsági jogviszony kezdő időpontját,
+nyilvántartást vezet.
 
-d) az agrárkamarai tagsági jogviszonnyal összefüggő kérdésekben a gazdálkodó szervezet agrárkamarai tag nevében képviseletre és tisztségviselésre jogosult személy nevét,
+(2) A tagjegyzék tartalmazza:
 
-e) őstermelő agrárkamarai tag esetében az őstermelői igazolvány számát,
+a) gazda esetében
 
-f) egyéni vállalkozó agrárkamarai tag esetében az egyéni vállalkozói nyilvántartási számát,
+aa) a nevét,
 
-g) az egyéni cég vagy gazdálkodó szervezet esetében a cégnevét, székhelyét, telephelyét és fióktelepét, cégjegyzékszámát, adószámát, törvényes képviselője nevét és lakcímét,
+ab) a lakcímét, elektronikus levelezési címét,
 
-h) mezőgazdasági és vidékfejlesztési támogatási szervnél nyilvántartott regisztrációs számát,
+ac) a születési helyét és idejét,
 
-i) az agrárkamarai nyilvántartási számot.
+ad) az anyja nevét,
 
-(2) Az (1) bekezdés szerinti adatokról a tag a tagsági viszony létesítésével egyidejűleg, változás esetén pedig a változást követő harminc napon belül köteles nyilatkozni az agrárkamara részére.
+ae) adóazonosító jelét és az egyéni vállalkozói nyilvántartási számát,
 
-(3) Az (1) bekezdésben meghatározott adatok nem nyilvánosak, azokba betekinteni csak az érintett, illetve harmadik személy az érintett hozzájárulásával vagy törvényi felhatalmazás alapján jogosult.
+af) az őstermelői igazolványa számát, annak érvényét,
 
-(4) Az agrárkamara a tagról az (1) bekezdésben rögzített adatok körét a tagsági viszony megszűnését követően akkor kezelheti, ha a kamarai tagnak a tagsági viszony megszűnésének időpontjában tagdíjhátraléka marad fenn. Az adatokat az agrárkamara a tagdíjhátralék kiegyenlítéséig vagy behajtásáig, de legfeljebb öt évig kezelheti.
+ag) a családi gazdálkodói nyilvántartási számát,
 
-(5) Az (1) bekezdésben foglalt adatok tekintetében az agrárkamara adatkezelőnek minősül, és köteles az adatok fogadására alkalmas nyilvántartási rendszert működtetni. Ennek érdekében az agrárkamara a tagoktól évente kamarai hozzájárulást szedhet.
+ah) egyéni cég esetén a cégnevét, székhelyét, elektronikus levelezési címét,
 
-(6) Az (1) a)–g) pontjában meghatározott adatokat az agrárkamara a Központi Statisztikai Hivatal részére egyedi azonosításra alkalmas módon, statisztikai célra, térítésmentesen, évente legkésőbb február 15-ig átadja.
+telephelyét és fióktelepét, cégjegyzékszámát, adószámát, törvényes képviselője nevét és lakcímét,
 
-(7) Az agrárkamara az alapszabályban meghatározottak szerint a tag gazdasági tevékenységéről gazdaságszerkezeti nyilvántartást vezet. A gazdaságszerkezeti nyilvántartás tartalmazza a tag tulajdonában, használatában levő
+ai) a mezőgazdasági és vidékfejlesztési támogatási szervnél nyilvántartott ügyfél azonosító számát, technikai azonosítóját,
 
-a) termőföldre,
+aj) a kamarai nyilvántartási számát,
 
-b) gépekre, eszközökre,
+ak) az általa folytatott agrárgazdasági tevékenység körét,
 
-c) épületekre, építményekre,
+al) a bankszámla számát,
 
-d) mezőgazdasági vagyoni értékű jogokra, valamint
+am) a tagsági viszony kezdetét;
 
-e) az a)–c) pontban foglaltakon kívüli, a vállalkozás gazdaságszerkezetére, feldolgozó kapacitására
+b) gazdálkodó szervezet esetében:
+
+ba) a cégnevét,
+
+bb) a székhelyét, telephelyét, fióktelephelyét, elektronikus levelezési címét,
+
+bc) a cégjegyzékszámát,
+
+bd) az adószámát,
+
+be) a bejelentett törvényes képviselője nevét, anyja nevét és lakcímét,
+
+bf) a statisztikai azonosítóját,
+
+bg) a mezőgazdasági és vidékfejlesztési támogatási szervnél nyilvántartott ügyfél azonosító számát, technikai azonosítóját,
+
+bh) a kamarai nyilvántartási számát,
+
+bi) az általa folytatott agrárgazdasági tevékenység körét,
+
+bj) a bankszámla számát,
+
+bk) a tagsági viszony kezdetét.
+
+(3) A gazdaságszerkezeti nyilvántartás tartalmazza a tag által
+
+a) használt földterület művelési ágára és nagyságára vonatkozó adatokat;
+
+b) folytatott agrárgazdasági tevékenységből származó árbevételének adatait;
+
+c) igénybe vett agrár-, vidékfejlesztési, valamint halászati támogatási jogcímeket a támogatás alapjául szolgáló mértéket, a támogatás összegét, valamint a mezőgazdasági vagyoni értékű jogokat;
+
+d) az agrárgazdasági tevékenysége folytatásához használt épületekre és építményekre, valamint
+
+e) az a)–d) pontban foglaltakon kívüli, a vállalkozás gazdaságszerkezetére, feldolgozó kapacitására
 
 vonatkozó adatokat.
 
-(8) A (7) bekezdés b), c) és e) pontjával kapcsolatban szolgáltatandó adatok körét – a tevékenység jellegétől függően – a küldöttgyűlés által elfogadott adatszolgáltatási szabályzat határozza meg.
+(4) A kamara a törvény alapján jogosult a tagra vonatkozó, a (2) bekezdés aa)–ag) és ba)–be) pontjai, valamint a (3) bekezdésben foglaltak szerinti adatok kezelésére.
 
-(9) Az agrárkamara a gazdaságszerkezeti nyilvántartásban szereplő adatokat egyedi azonosításra nem alkalmas módon:
+(5) A tag a (2) bekezdés szerinti adatokról a tagsági viszony létesítésével egyidejűleg, változás esetén pedig a változást követő harminc napon belül köteles nyilatkozni.
 
-a) piac- és termelésszervezési célokra,
+(6) A kamara a (2) bekezdés aa)–ag) pontjaiban meghatározott adatokat a Központi Statisztikai Hivatal és az élelmiszerlánc felügyeleti szerv részére egyedi azonosításra alkalmas módon, statisztikai célra, térítésmentesen, évente legkésőbb február 15-ig átadja.
 
-b) statisztikai célokra,
-
-c) jogszabályban előírt véleményalkotása, javaslattétele során
-
-használhatja fel.
-
-(10) A gazdaságszerkezeti nyilvántartásban szereplő adatok és az etikai eljárás során megszerzett adatok – a törvény szerinti nyilvános adatok kivételével – üzleti titoknak minősülnek.
-
-(11) Az agrárkamara a (7) bekezdésben foglaltak szerint vezetett adatokat a tagsági viszony megszűnését követő öt évig kezelheti.
-
-(12) Az agrárkamara által vezetett tagjegyzék adatállománya az agrárkamara kizárólagos tulajdona, azon más személy részére kizárólagos rendelkezési jog nem engedhető, továbbá az agrárkamarának az informatikai rendszerben tárolt adatokhoz való hozzáférési joga, valamint ezen adatoknak az agrárkamara részére elektronikus úton való átadása korlátozására, feltételhez kötésére megállapodás nem köthető.
-
-(13) Az ingatlanügyi hatóság, az adóhatóság, a mezőgazdasági és vidékfejlesztési támogatási szerv és a mezőgazdasági szakigazgatási szerv a rendelkezésére álló adatokat köteles a tagjegyzék összeállításához térítésmentesen az agrárkamara rendelkezésére bocsátani.
+(7) A tag által a (3) bekezdésben foglaltak szerint szolgáltatandó adatok körét – a tevékenység jellegétől függően – a küldöttgyűlés által elfogadott adatszolgáltatási szabályzat határozza meg.

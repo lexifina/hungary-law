@@ -6,7 +6,7 @@ a) az őstermelő:
 
 aa) meghal,
 
-ab) az őstermelői igazolványát nem érvényesíti;
+ab) az őstermelői igazolványát visszaadja vagy annak érvényessége lejár;
 
 b) az egyéni vállalkozó:
 

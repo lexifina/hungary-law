@@ -40,7 +40,7 @@ l) a j) és k) pont szerinti eljárások eredménytelensége esetén agrárgazda
 
 m) agrárgazdasági tevékenység gyakorlásával összefüggésben alkalmazott általános szerződési feltétellel kapcsolatos álláspontjáról az agrárkamara internetes honlapján tájékoztatót tesz közzé.
 
-(3) Az agrárkamara az agrárgazdasági tevékenységet folytatók általános, együttes érdekeinek érvényesítése céljából
+(3) A kamara az agrárgazdasági tevékenységet folytatók általános, együttes érdekeinek érvényesítése céljából
 
 a) véleményezi a tagok tevékenységét érintő kormányzati előterjesztések és jogszabályok tervezeteit;
 
@@ -48,10 +48,20 @@ b) javaslatok, vélemények, tájékoztatások adásával előmozdítja a tagokr
 
 c) felkérés alapján részt vesz az országosan működtetett tanácsok és testületek munkájában;
 
-d) kidolgozza az agrárkamara részére átadott közfeladatok ellátásához szükséges önkormányzati szabályzatot;
+d) kidolgozza az agrárgazdasági kamara részére átadott közfeladatok ellátásához szükséges önkormányzati szabályzatot;
 
-e) a nyilvánosan rendelkezésre álló dokumentumok alapján javaslatot tesz az Európai Unióban egy adott kérdésben kialakítandó tagállami álláspontra,
+e) a nyilvánosan rendelkezésre álló dokumentumok alapján javaslatot tesz az Európai Unióban egy adott kérdésben kialakítandó tagállami álláspontra;
 
-f) kezdeményezi a tagok általános gazdasági érdekeit elősegítő jogszabály meghozatalát, illetve a tagok általános gazdasági érdekeivel összhangban nem levő jogszabály és egyéb intézkedés módosítását, hatályon kívül helyezését.
+f) a közös agrárpolitikával összefüggő kérdésekben érdekképviseleti és érdekegyeztetési feladatokat lát el;
+
+g) kezdeményezi a tagok általános gazdasági érdekeit elősegítő jogszabály meghozatalát, illetve a tagok általános gazdasági érdekeivel összhangban nem levő jogszabály és egyéb intézkedés módosítását, hatályon kívül helyezését.
 
 (4) Az agrárkamara közreműködik az agrár- és élelmiszergazdaság egyes ágazataival kapcsolatos stratégiák és programok kidolgozásában.
+
+(5) A taggal szemben az elismert szakmaközi szervezet írásbeli kezdeményezésére az etikai eljárást le kell folytatni. Az így kezdeményezett etikai eljárásban
+
+a) a szakmaközi szervezetet nyilatkozat tételi, valamint a taggal szembeni intézkedési javaslat tételi jog illeti meg, továbbá
+
+b) etikai intézkedésként a külön jogszabályban meghatározottak szerint termelési, feldolgozási, forgalmazási tevékenység korlátozásának érintett hatóság általi elrendelése is kezdeményezhető.
+
+(6) A kamarát a törvényben, illetve alapszabályban meghatározott feladatai ellátása érdekében a fogyasztóvédelemre vonatkozó szabályok fogyasztói érdekek képviseletét ellátó egyesületetekre vonatkozó szabályok megfelelő alkalmazása mellett közérdekű keresetindítási jog illeti meg.

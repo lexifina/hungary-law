@@ -1,0 +1,3 @@
+56. § (1) Akinek kamarai tagsági viszonya kizárólag az egyes agrár tárgyú törvények módosításáról szóló 2013. évi CCXLVI. törvény ( a továbbiakban: Mód. tv.) 18. § b)–c) pontjával megállapított rendelkezéseken alapul, tagsági viszonya 2013. december 31. napján a törvény alapján megszűnik, az általuk befizetett 2013. évre esedékes kamarai tagdíjat kérelemre 60 napon belül vissza kell fizetni.
+
+(2) E törvénynek a Mód. tv. 15–16. §-ában foglalt rendelkezések alapján az agrárgazdasági tevékenységet folytató gazda, gazdálkodó szervezet tagsági viszonya e törvény alapján 2014. január 1. napjával keletkezik.

@@ -110,14 +110,6 @@ Koszorú- és virágkötés saját termesztésű növényből (nem művirágból
 
 |
 
-011904
-
-|
-
-Koszorúalap készítés szalmából és szénából (saját termelésű alapanyagból)
-
-|
-
 011905
 
 |
@@ -406,14 +398,6 @@ Betakarítást követő szolgáltatás m.n.s.
 
 |
 
-016302
-
-|
-
-Koszorú- és virágkötés nem saját termelésű növényből (nem művirágból)
-
-|
-
 016401
 
 |
@@ -502,27 +486,11 @@ Kézi és gépi fakitermelés bérmunkában
 
 |
 
-031101
-
-|
-
-Tengeri halászat
-
-|
-
 031201
 
 |
 
 Édesvízi halászat
-
-|
-
-032101
-
-|
-
-Tengeri halgazdálkodás
 
 |
 
@@ -678,22 +646,6 @@ Savanyúságkészítés (saját termelésű alapanyagból)
 
 |
 
-103904
-
-|
-
-Pattogatott kukorica-, pirított napraforgómag készítés (nem saját termelésű alapanyagból)
-
-|
-
-103905
-
-|
-
-Pattogatott kukorica-, pirított napraforgómag-készítés (saját termelésű alapanyagból)
-
-|
-
 103910
 
 |
@@ -795,22 +747,6 @@ Keményítő, keményítőtermék gyártása
 |
 
 Kenyér, péksütemény és egyéb pékáru gyártása m.n.s.
-
-|
-
-107102
-
-|
-
-Friss cukrásztermékek készítése (nem közvetlen fogyasztásra)
-
-|
-
-107103
-
-|
-
-Friss kürtöskalács készítése (nem közvetlen fogyasztásra)
 
 |
 
@@ -1094,59 +1030,11 @@ Virágföld előállítása
 
 |
 
-202001
-
-|
-
-Mezőgazdasági vegyi termék gyártása
-
-|
-
 212002
 
 |
 
 Gyógynövény-feldolgozás
-
-|
-
-283001
-
-|
-
-M.n.s. mezőgazdasági, erdészeti gép gyártása
-
-|
-
-283002
-
-|
-
-Mezőgazdasági traktor gyártása
-
-|
-
-331203
-
-|
-
-Egyéb mezőgazdasági gép javítása
-
-|
-
-331214
-
-|
-
-Mezőgazdasági traktor javítása
-
-|
-
-332013
-
-|
-
-Mezőgazdasági gép üzembehelyezése
 
 |
 
@@ -1246,14 +1134,6 @@ Mezőgazdasági gép, berendezés nagykereskedelme m.n.s.
 
 |
 
-466102
-
-|
-
-Mezőgazdasági gép, berendezés külkereskedelme
-
-|
-
 467503
 
 |
@@ -1267,54 +1147,6 @@ Növényvédőszer-nagykereskedelem
 |
 
 Műtrágya nagykereskedelem
-
-|
-
-475206
-
-|
-
-Mezőgazdasági eszköz kiskereskedelme
-
-|
-
-477302
-
-|
-
-Állatgyógyászati készítmény kiskereskedelme
-
-|
-
-477601
-
-|
-
-Virág-, koszorú-, dísznövény-kiskereskedelem
-
-|
-
-477602
-
-|
-
-Hobbiállat eledel és takarmány kiskereskedelem
-
-|
-
-477603
-
-|
-
-Dísznövényi szaporítóanyag kiskereskedelem
-
-|
-
-477604
-
-|
-
-Műtrágya és agrokémiai termék kiskereskedelem
 
 |
 
@@ -1334,27 +1166,11 @@ Gombaszakértés
 
 |
 
-773101
-
-|
-
-Mezőgazdasági gép kölcsönzése
-
-|
-
 773903
 
 |
 
 Gazdasági haszonállatok kölcsönzése
-
-|
-
-813001
-
-|
-
-Zöldterület-kezelés
 
 |
 
@@ -1427,3 +1243,91 @@ Dohányáru nagykereskedelem
 |
 
 Dohányáru külkereskedelem
+
+|
+
+461101
+
+|
+
+Mezőgazdasági termék ügynöki nagykereskedelme
+
+|
+
+462101
+
+|
+
+Gabona-, vetőmag-, takarmány- és egyéb növényiszaporítóanyag-nagykereskedelem
+
+|
+
+462102
+
+|
+
+Feldolgozatlan dohány nagykereskedelme
+
+|
+
+462201
+
+|
+
+Dísznövény-nagykereskedelem
+
+|
+
+462301
+
+|
+
+Élőállat nagykereskedelme m.n.s.
+
+|
+
+466101
+
+|
+
+Mezőgazdasági gép, berendezés nagykereskedelme m.n.s.
+
+|
+
+463101
+
+|
+
+Zöldség-gyümölcs nagykereskedelem m.n.s.
+
+|
+
+463201
+
+|
+
+Hús, húskészítmény nagykereskedelme m.n.s.
+
+|
+
+463202
+
+|
+
+Hús, húskészítmény külkereskedelme
+
+|
+
+463301
+
+|
+
+Tejtermék, tojás, zsiradék nagykereskedelme m.n.s.
+
+|
+
+463501
+
+|
+
+Dohányáru nagykereskedelem
