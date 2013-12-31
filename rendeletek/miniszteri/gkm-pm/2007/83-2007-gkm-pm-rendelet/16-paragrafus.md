@@ -4,7 +4,10 @@
 
 (2) A Vtv. hatálybalépésekor már működő pályahálózat-működtetők esetén a díjmegállapító szervezet a DM-et első alkalommal 2008. augusztus 31-ig készíti el. A DM alapján készített első DD-t a 2010. december második vasárnapjától kezdődő menetrendi évre vonatkozó Hálózati Üzletszabályzat tervezetének nyilvánosságra hozatalával egyidejűleg kell közzétenni.
 
-(3)[^21] Az egyes vasúti közlekedési tárgyú miniszteri rendeletek módosításáról szóló 50/2012. (VIII. 28.) NFM rendelettel (a továbbiakban: Módr.) megállapított 13. § (5) bekezdésében foglalt rendelkezéseket először a 2015. december második vasárnapjától kezdődő menetrendi évre vonatkozó DM elkészítésekor kell alkalmazni. A Módr. hatálybalépésekor[^22] hatályban lévő DM-et utoljára a 2014. december második vasárnapjától kezdődő menetrendi évre vonatkozó hálózat-hozzáférési díjakat rögzítő DD elkészítése során kell alkalmazni.
+(3)[^27] Az egyes vasúti közlekedési tárgyú miniszteri rendeletek módosításáról szóló 50/2012. (VIII. 28.) NFM rendelettel (a továbbiakban: Módr.) megállapított 13. § (5) bekezdésében foglalt rendelkezéseket először a 2015. december második vasárnapjától kezdődő menetrendi évre vonatkozó DM elkészítésekor kell alkalmazni. A Módr. hatálybalépésekor[^28] hatályban lévő DM-et utoljára a 2014. december második vasárnapjától kezdődő menetrendi évre vonatkozó hálózat-hozzáférési díjakat rögzítő DD elkészítése során kell alkalmazni.
 
-[^21]: A 16. § (3) bekezdését az 50/2012. (VIII. 28.) NFM rendelet 7. §-a iktatta be.
-[^22]: A hatálybalépés napja 2012. szeptember 2.
+(4)[^29] A vasúti közlekedéssel kapcsolatos egyes miniszteri rendeletek módosításáról szóló 81/2013. (XII. 23.) NFM rendelettel megállapított 4. § (3) bekezdésében, 4. § (4) bekezdés a) pontjában és 6. § (3) bekezdésében foglalt rendelkezéseket először a 2014. december második vasárnapjától kezdődő menetrendi évre vonatkozó hálózat-hozzáférési díjak meghatározása során kell alkalmazni.
+
+[^27]: A 16. § (3) bekezdését az 50/2012. (VIII. 28.) NFM rendelet 7. §-a iktatta be.
+[^28]: A hatálybalépés napja 2012. szeptember 2.
+[^29]: A 16. § (4) bekezdését a 81/2013. (XII. 23.) NFM rendelet 4. §-a iktatta be.

@@ -16,6 +16,6 @@ c) a pályahálózat-működtető által működtetett nyílt hozzáférésű va
 
 (3) A díjmegállapító szervezet a Hálózati Üzletszabályzat módosításának közzétételét 40 nappal megelőzően írásban tájékoztatja a vasúti igazgatási szervet, hogy a Hálózati Üzletszabályzat módosítása miatt a díjszabási rendszer elemeinek kötelező felülvizsgálata szükséges-e.
 
-(4)[^11] A nem független vasúti pályahálózat-működtető az (1) bekezdés szerinti jelentős mérték túllépéséről haladéktalanul értesíti a VPSZ-t.
+(4)[^17] A nem független vasúti pályahálózat-működtető az (1) bekezdés szerinti jelentős mérték túllépéséről haladéktalanul értesíti a VPSZ-t.
 
-[^11]: A 12. § (4) bekezdését a 17/2009. (IV. 8.) KHEM–PM együttes rendelet 4. §-a iktatta be.
+[^17]: A 12. § (4) bekezdését a 17/2009. (IV. 8.) KHEM–PM együttes rendelet 4. §-a iktatta be.

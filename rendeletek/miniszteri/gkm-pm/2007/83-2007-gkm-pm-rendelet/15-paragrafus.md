@@ -6,6 +6,6 @@
 
 15. § (1) Ez a rendelet 2008. január 1-jén lép hatályba.
 
-(2)[^20]
+(2)[^26]
 
-[^20]: A 15. § (2) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
+[^26]: A 15. § (2) bekezdése ugyanezen bekezdés alapján hatályát vesztette.

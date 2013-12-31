@@ -6,7 +6,7 @@
 
 3. § (1) A díjmegállapító szervezet biztosítja, hogy
 
-a)[^5] a Vtv. 55. § (1) bekezdésében meghatározott díjszabási rendszer – a Vtv. 55. § (11) bekezdésében foglalt egyedi felár kivételével – a vasúti pályahálózat egészére vonatkozóan azonos elveken alapuljon,
+a)[^7] a Vtv. 55. § (1) bekezdésében meghatározott díjszabási rendszer – a Vtv. 55. § (11) bekezdésében foglalt egyedi felár kivételével – a vasúti pályahálózat egészére vonatkozóan azonos elveken alapuljon,
 
 b) a fizetett, illetve elszámolt hálózat-hozzáférési díjak azonosak legyenek az adott menetrendi évre vonatkozó Hálózati Üzletszabályzatban közzétett hálózat-hozzáférési díjakkal.
 
@@ -30,4 +30,4 @@ f) a vasúti pályahálózat igénybevételének időpontja, valamint
 
 g) a vasúti pályahálózat igénybevételének időtartama.
 
-[^5]: A 3. § (1) bekezdés a) pontja a 17/2009. (IV. 8.) KHEM–PM együttes rendelet 2. §-ával megállapított szöveg.
+[^7]: A 3. § (1) bekezdés a) pontja a 17/2009. (IV. 8.) KHEM–PM együttes rendelet 2. §-ával megállapított szöveg.
