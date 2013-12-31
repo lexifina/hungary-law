@@ -1,0 +1,1 @@
+## „(8) A hitelintézet az általános kockázati céltartalék eredménytartalékba való átvezetésével kapcsolatban teljesítendő, az államháztartás egyensúlyát javító különadóról és járadékról szóló 2006. évi LIX. törvény 4/C. §-a szerinti egyszeri hitelintézeti hozzájárulást a Tv. 87. § (2) bekezdése szerinti adófizetési kötelezettségként számolja el.”
