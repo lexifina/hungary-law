@@ -1,4 +1,4 @@
-## 13–17. §[^4]
+## 13–17. §[^5]
 
 ## 6. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) Az 1–9. §, a 11–17. §, a 19. § és az 1. melléklet 2014. január 1-jén lép hatályba.
 
-[^4]: A 13–17. § a 18. § (2) bekezdése alapján 2014. január 1-jén lép hatályba.
+[^5]: A 13–17. § a 18. § (2) bekezdése alapján 2014. január 1-jén lép hatályba.
