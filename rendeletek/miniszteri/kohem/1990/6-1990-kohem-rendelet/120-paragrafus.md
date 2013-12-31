@@ -1,22 +1,22 @@
-## V. Fejezet[^196]
+## V. Fejezet[^200]
 
-## Az Európai Unió jogának való megfelelés[^197]
+## Az Európai Unió jogának való megfelelés[^201]
 
-## 120. §[^198] Ez a rendelet
+## 120. §[^202] Ez a rendelet
 
 1. a gépjárművek megengedett zajszintjére és kipufogórendszereire vonatkozó tagállami jogszabályok közelítéséről szóló, 1970. február 6-i 70/157/EGK tanácsi irányelvnek, valamint az azt módosító 84/424/EGK, 92/97/EGK, 2006/96/EK tanácsi, továbbá 73/350/EGK, 81/334/EGK, 84/372/EGK, 89/491/EGK, 96/20/EK, 1999/101/EK és 2007/34/EK bizottsági irányelveknek;
 
 2. a gépjárművek kibocsátásai által okozott levegőszennyezés elleni intézkedésekre vonatkozó tagállami jogszabályok közelítéséről szóló, 1970. március 20-i 70/220/EGK tanácsi irányelvnek, valamint az azt módosító 83/351/EGK, 88/76/EGK, 88/436/EGK, 91/441/EGK, 93/59/EGK és 2006/96/EK tanácsi, 77/102/EGK, 78/665/EGK, 89/491/EGK, 96/44/EK, 98/77/EK, 1999/102/EK, 2002/80/EK, 2003/76/EK bizottsági, és 94/12/EK, 96/69/EK, 2001/1/EK, 2001/100/EK európai parlamenti és tanács irányelveknek;
 
-3–9.[^199]
+3–9.[^203]
 
 10. a járművekben használt dízelmotorok szennyezőanyag-kibocsátása elleni intézkedésekre vonatkozó tagállami jogszabályok közelítéséről szóló, 1972. augusztus 2-i 72/306/EGK tanácsi irányelvnek, valamint az azt módosító 89/491/EGK, 97/20/EK és 2005/21/EK bizottsági irányelveknek;
 
-11–36.[^200]
+11–36.[^204]
 
-37. a gépjárművek széndioxid-kibocsátásáról és tüzelőanyag-fogyasztásáról szóló, 1980. december 16-i 80/1268/EGK tanácsi irányelvnek, valamint az azt módosító 89/491/EGK, 93/116/EK, 1999/100/EK bizottsági és 2004/3/EK európai parlamenti és tanácsi irányelveknek;
+37.[^205]
 
-38–49.[^201]
+38–49.[^206]
 
 50. a motorkerékpárok és segédmotoros kerékpárok fékberendezéséről szóló, 1993. április 5-i 93/14/EGK tanácsi irányelvnek, valamint az azt módosító 2006/27/EK bizottsági irányelvnek;
 
@@ -88,23 +88,23 @@
 
 84. a keskeny nyomtávú kerekes mezőgazdasági és erdészeti traktorok vezetőülés elé szerelt, borulás hatása elleni védőszerkezeteiről szóló, 1987. június 26-i 87/402/EGK tanácsi irányelv, valamint az azt módosító 89/681/EGK és 2006/96/EK tanácsi és 2000/22/EK bizottsági irányelveknek, valamint a 87/402/EGK tanácsi irányelv I. és II. mellékletét módosító 2005/67/EK bizottsági irányelvnek;
 
-85.[^202] a kerekes mezőgazdasági vagy erdészeti traktorok egyes alkatrészeiről és jellemzőiről szóló, 2009. november 30-i 2009/144/EK európai parlamenti és tanácsi irányelv, valamint az azt módosító 2010/52/EU bizottsági irányelvnek és 2013/8/EU bizottsági irányelvnek;
+85.[^207] a kerekes mezőgazdasági vagy erdészeti traktorok egyes alkatrészeiről és jellemzőiről szóló, 2009. november 30-i 2009/144/EK európai parlamenti és tanácsi irányelv, valamint az azt módosító 2010/52/EU bizottsági irányelvnek és 2013/8/EU bizottsági irányelvnek;
 
 86. a gépjárművek és pótkocsijaik egyes kategóriái esetében a gumiabroncsok futófelület-mintázatának mélységére vonatkozó tagállami jogszabályok közelítéséről szóló, 1989. július 18-i 89/459/EGK tanácsi irányelvnek;
 
 87. a Közösségben egyes gépjármű-kategóriákra sebességkorlátozó készülékek felszereléséről és használatáról szóló, 1992. február 10-i 92/6/EGK tanácsi irányelv, valamint az azt módosító 2002/85/EK európai parlamenti és tanácsi irányelvnek;
 
-88.[^203]
+88.[^208]
 
 89. a gépjárművek kibocsátásai által okozott levegőszennyezés elleni intézkedésekről és a 70/220/EGK tanácsi irányelv módosításáról szóló, 1998. október 13-i 98/69/EK európai parlamenti és tanácsi irányelvnek;
 
 90. a mezőgazdasági vagy erdészeti traktorok hajtására szánt motorok gáz- és szilárd halmazállapotú szennyezőanyag-kibocsátása elleni intézkedésről, valamint a 74/150/EGK tanácsi irányelv módosításáról szóló, 2000. május 22-i 2000/25/EK európai parlamenti és tanácsi irányelv, valamint a 74/150/EGK tanácsi irányelv módosításáról, továbbá az azt módosító 2005/13/EK bizottsági, 2006/96/EK tanácsi és 2010/22/EU bizottsági, valamint a 2011/72/EU és 2011/87/EU európai parlamenti és tanácsi irányelveknek;
 
-91–93.[^204]
+91–93.[^209]
 
-94.[^205] az elhasználódott járművekről szóló, 2000. szeptember 18-i 2000/53/EK európai parlamenti és tanácsi irányelv 4. cikk (2) bekezdésének, 8. cikk (1) bekezdésének és II. mellékletének, továbbá az azt módosító 2010/115/EU bizottsági határozatnak, a 2011/37/EU bizottsági irányelvnek, valamint a 2013/28/EU bizottsági irányelvnek;
+94.[^210] az elhasználódott járművekről szóló, 2000. szeptember 18-i 2000/53/EK európai parlamenti és tanácsi irányelv 4. cikk (2) bekezdésének, 8. cikk (1) bekezdésének és II. mellékletének, továbbá az azt módosító 2010/115/EU bizottsági határozatnak, a 2011/37/EU bizottsági irányelvnek, valamint a 2013/28/EU bizottsági irányelvnek;
 
-95.[^206]
+95.[^211]
 
 96. a kerekes mezőgazdasági vagy erdészeti traktorokra vonatkozó tagállami jogszabályok közelítéséről szóló irányelvek módosításáról szóló, 1982. december 17-i 82/890/EGK tanácsi irányelvnek;
 
@@ -124,17 +124,18 @@
 
 104. a Közösségen belül közlekedő egyes közúti járművek nemzeti és a nemzetközi forgalomban megengedett legnagyobb méreteiről, valamint a nemzetközi forgalomban megengedett legnagyobb össztömegének megállapításáról szóló, 1996. június 25-i 96/53/EK tanácsi irányelvnek, valamint annak a 2002/7/EK európai parlamenti és tanácsi irányelvvel történt módosításának;
 
-105.[^207] a 70/157/EGK, 70/221/EGK, 70/388/EGK, 71/320/EGK, 72/245/EGK, 74/61/EGK, 74/408/EGK, 74/483/EGK, 76/114/EGK, 76/757/EGK, 76/758/EGK, 76/759/EGK, 76/760/EGK, 76/761/EGK, 76/762/EGK, 77/538/EGK, 77/539/EGK, 77/540/EGK, 77/541/EGK, 78/318/EGK, 78/764/EGK, 78/932/EGK, 86/298/EGK és 87/402/EGK tanácsi irányelvet, a 94/20/EK, 95/28/EK, 2000/25/EK, 2000/40/EK, 2001/56/EK, 2001/85/EK, 2003/97/EK, 2009/57/EK, 2009/64/EK és 2009/144/EK európai parlamenti és tanácsi irányelvet módosító 2013/15/EU tanácsi irányelvnek
+105.[^212] a 70/157/EGK, 70/221/EGK, 70/388/EGK, 71/320/EGK, 72/245/EGK, 74/61/EGK, 74/408/EGK, 74/483/EGK, 76/114/EGK, 76/757/EGK, 76/758/EGK, 76/759/EGK, 76/760/EGK, 76/761/EGK, 76/762/EGK, 77/538/EGK, 77/539/EGK, 77/540/EGK, 77/541/EGK, 78/318/EGK, 78/764/EGK, 78/932/EGK, 86/298/EGK és 87/402/EGK tanácsi irányelvet, a 94/20/EK, 95/28/EK, 2000/25/EK, 2000/40/EK, 2001/56/EK, 2001/85/EK, 2003/97/EK, 2009/57/EK, 2009/64/EK és 2009/144/EK európai parlamenti és tanácsi irányelvet módosító 2013/15/EU tanácsi irányelvnek
 
-[^196]: Az V. fejezetet a 12/2000. (V. 24.) KHVM rendelet 15. §-a iktatta a szövegbe.
-[^197]: Az V. Fejezet címe a 84/2005. (X. 11.) GKM rendelet 4. §-ával megállapított szöveg.
-[^198]: A 120. § a 66/2012. (XII. 10.) NFM rendelet 4. §-ával megállapított szöveg.
-[^199]: A 120. § 3–9. pontját a 72/2013. (XII. 2.) NFM rendelet 15. § b) pontja hatályon kívül helyezte.
-[^200]: A 120. § 11–36. pontját a 72/2013. (XII. 2.) NFM rendelet 15. § b) pontja hatályon kívül helyezte.
-[^201]: A 120. § 38–49. pontját a 72/2013. (XII. 2.) NFM rendelet 15. § b) pontja hatályon kívül helyezte.
-[^202]: A 120. § 85. pontja a 72/2013. (XII. 2.) NFM rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^203]: A 120. § 88. pontját a 72/2013. (XII. 2.) NFM rendelet 15. § b) pontja hatályon kívül helyezte.
-[^204]: A 120. § 91–93. pontját a 72/2013. (XII. 2.) NFM rendelet 15. § b) pontja hatályon kívül helyezte.
-[^205]: A 120. § 94. pontja a 72/2013. (XII. 2.) NFM rendelet 11. § (2) bekezdésével megállapított szöveg.
-[^206]: A 120. § 95. pontját a 72/2013. (XII. 2.) NFM rendelet 15. § b) pontja hatályon kívül helyezte.
-[^207]: A 120. § 105. pontját a 72/2013. (XII. 2.) NFM rendelet 11. § (3) bekezdése iktatta be.
+[^200]: Az V. fejezetet a 12/2000. (V. 24.) KHVM rendelet 15. §-a iktatta a szövegbe.
+[^201]: Az V. Fejezet címe a 84/2005. (X. 11.) GKM rendelet 4. §-ával megállapított szöveg.
+[^202]: A 120. § a 66/2012. (XII. 10.) NFM rendelet 4. §-ával megállapított szöveg.
+[^203]: A 120. § 3–9. pontját a 72/2013. (XII. 2.) NFM rendelet 15. § b) pontja hatályon kívül helyezte.
+[^204]: A 120. § 11–36. pontját a 72/2013. (XII. 2.) NFM rendelet 15. § b) pontja hatályon kívül helyezte.
+[^205]: A 120. § 37. pontját a 72/2013. (XII. 2.) NFM rendelet 15. § a) pontja hatályon kívül helyezte.
+[^206]: A 120. § 38–49. pontját a 72/2013. (XII. 2.) NFM rendelet 15. § b) pontja hatályon kívül helyezte.
+[^207]: A 120. § 85. pontja a 72/2013. (XII. 2.) NFM rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^208]: A 120. § 88. pontját a 72/2013. (XII. 2.) NFM rendelet 15. § b) pontja hatályon kívül helyezte.
+[^209]: A 120. § 91–93. pontját a 72/2013. (XII. 2.) NFM rendelet 15. § b) pontja hatályon kívül helyezte.
+[^210]: A 120. § 94. pontja a 72/2013. (XII. 2.) NFM rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^211]: A 120. § 95. pontját a 72/2013. (XII. 2.) NFM rendelet 15. § b) pontja hatályon kívül helyezte.
+[^212]: A 120. § 105. pontját a 72/2013. (XII. 2.) NFM rendelet 11. § (3) bekezdése iktatta be.

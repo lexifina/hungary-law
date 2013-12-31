@@ -1,4 +1,4 @@
-15. számú melléklet a 6/1990. (IV.12.) KöHÉM rendelethez[^231]
+15. számú melléklet a 6/1990. (IV.12.) KöHÉM rendelethez[^236]
 
 ## Az emelt sebességhatárú autóbuszra vonatkozó engedélyezési műszaki feltételek
 
@@ -38,20 +38,4 @@ vagy az a), illetve c) pont vonatkozásában feleljen meg az A. Függelék 19., 
 
 8. Belső kialakítás
 
-a) Az autóbusz olyan, távolsági utazásra alkalmas utasülésekkel legyen felszerelve, melyek
-
-- háttámla magassága legalább 650 mm (leghátsó üléssoron 560 mm) legyen,
-
-- üléslapja, háttámlája és legalább a háttámla felső éle párnázott legyen,
-
-- közül azok, amelyek előtt nincs másik ülés, vagy nem megfelelően párnázott háttámlájú ülés található, legalább kétpontos biztonsági övvel legyenek felszerelve,
-
-- hosszanti (menetiránnyal párhuzamos) elrendezés esetén mindkét oldalról kellően párnázott kartámaszokkal határoltak legyenek (üléspad esetén annak minden ülése);
-
-b) a vezetőülést és az utaskísérő ülését (üléseit) legalább kétpontos biztonsági övvel kell felszerelni;
-
-c) a biztonsági övek használatára az adott ülésből látható felirat vagy képjel hívja fel az utas és utaskísérő figyelmét;
-
-d) a vezetőülés fejtámasszal legyen ellátva;
-
-[^231]: A 15. számú mellékletet a 44/2001. (XII. 18.) KöViM rendelet 16. § (4) bekezdése iktatta a szövegbe.
+[^236]: A 15. számú mellékletet a 44/2001. (XII. 18.) KöViM rendelet 16. § (4) bekezdése iktatta a szövegbe.
