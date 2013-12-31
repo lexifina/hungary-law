@@ -82,15 +82,15 @@
 
 | 1/d | ki nem égethető égéstermék-elvezető belső felületén lerakódott szurokréteg, |
 
-| 1/e | szilárd- vagy olaj-tüzelőberendezés égéstermék-elvezetőjénél a szikrafogó hiánya az E–F tűzvédelmi osztályú (nád, szalma, fazsindely és egyéb anyagú) tetőhéjalás esetében, vagy az égéstermék-elvezetőből kijutó szikra által veszélyeztetett területen belül E–F tűzvédelmi osztályú anyag jelenléte az égéstermék-elvezető kitorkollásától mért 15 méteres távolságon belül, |
+| 1/e | szilárd-tüzelőberendezés égéstermék-elvezetőjénél az E–F tűzvédelmi osztályú (nád, szalma, fazsindely és egyéb éghető anyagú) tetőhéjalás esetében, vagy az égéstermék-elvezető kitorkollásától mért 15 méteres távolságon belül E–F tűzvédelmi osztályú építőanyag vagy építményszerkezet jelenléte esetén a szikrafogó hiánya, |
 
-| 1/f | olyan égéstermék-elvezető használata, amelynek falába B–F tűzvédelmi osztályba tartozó épületszerkezet van beépítve, vagy az ilyen éghető anyagtól való távolságtartás kisebb, mint az égéstermék-elvezető gyártója által meghatározott minimális távolság, vagy ennek hiányában kisebb, mint 12 cm, |
+| 1/f | olyan égéstermék-elvezető használata, amelynek falába B–F tűzvédelmi osztályba tartozó épületszerkezet van beépítve, |
 
-| 1/g | olyan égéstermék-elvezető használata, amelynél a jogszabály szerinti vizsgálatot és tisztítást nem végezték el, |
+| 1/g | olyan égéstermék-elvezető használata, amelynél a jogszabály szerinti műszaki vizsgálatot nem végezték el, |
 
 | 1/h | nem megfelelően rögzített összekötő elem, |
 
-| 1/i | nem zárható tisztítónyílás. |
+| 1/i | a tisztítóajtó, tisztítóidom nem megfelelő záródása. |
 
 | Egyéb hibák [Az itt jelzett hibák kijavítása a következő ellenőrzésig (gáztüzelés és tartalékkémény esetében 1 év, szilárd és olaj tüzelés esetében fél év) szükséges, a hatósági eljárás elkerülése végett.] |
 
@@ -164,4 +164,4 @@
 
 3. melléklet a 63/2012. (XII. 11.) BM rendelethez[^20]
 
-[^20]: A 3. melléklet az 58/2013. (X. 11.) BM rendelet 13. §-ával megállapított szöveg.
+[^20]: A 3. melléklet az 58/2013. (X. 11.) BM rendelet 13. §-ával megállapított, a 82/2013. (XII. 23.) BM rendelet 19. §-a szerint módosított szöveg.
