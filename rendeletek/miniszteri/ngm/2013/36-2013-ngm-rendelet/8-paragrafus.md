@@ -1,5 +1,3 @@
-## könyvviteli számlára.
-
 ## 4. A rendező mérleg
 
 8. § (1) A rendező, technikai tételek könyvelését követően a rendező tételeket is tartalmazó főkönyvi (könyvviteli) számlák egyenleg adatai alapján kell megnyitni a rendező mérleg 2013. évre vonatkozó adatait, majd azokat a beszámolási és könyvvezetési kötelezettségét a 2013. évben

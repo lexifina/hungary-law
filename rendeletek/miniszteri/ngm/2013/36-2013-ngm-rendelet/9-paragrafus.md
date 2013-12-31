@@ -1,4 +1,4 @@
-## 5. Könyvvezetés a rendező mérleg elkészítéséig
+## 5.[^4] A 2014. évi könyvvezetés sajátos feladatai
 
 9. § (1) Az Áhsz. szerinti költségvetési számvitel nyilvántartási számlái közül a követelések, kötelezettségvállalások, más fizetési kötelezettségek és teljesítések nyilvántartási számláit, valamint a 01–04. számlacsoport nyilvántartási számláit legkésőbb 2014. január 31-ig meg kell nyitni a 2. § szerint felvett leltár alapján, és azokon a január 1-jét követően bekövetkezett gazdasági eseményeket elszámolni. Az előirányzatok nyilvántartására szolgáló nyilvántartási számlák megnyitása az Áhsz. szerint, az elemi költségvetés elfogadását követően történik.
 
@@ -7,3 +7,5 @@
 (3) A könyvviteli számlákat a rendező mérleg alapján, az annak elkészítését követő munkanapon kell megnyitni.
 
 (4) A könyvviteli számlák (3) bekezdés szerinti megnyitásáig a 2014. január 1-jét követően bekövetkezett, a könyvviteli számlákat érintő gazdasági eseményeket az Áhsz. rendelkezései szerinti időközönként, a könyvviteli számlák száma szerint vezetett nyilvántartásokban kell elszámolni. A könyvviteli számlák megnyitása után a nyilvántartások szerinti forgalmat kell a megnyitott könyvviteli számlákon könyvelni.
+
+[^4]: Az 5. alcím a 75/2013. (XII. 31.) Korm. rendelet 3. §-ával megállapított szöveg.

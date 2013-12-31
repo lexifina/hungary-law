@@ -4,15 +4,17 @@
 
 ## RENDEZŐ MÉRLEG
 
+## 3K90149M_0
+
 | Sorszám | 249/2000. (XII. 24.) Korm. rendelet | 4/2013. (I. 11.) Korm. rendelet |
 
 | Megnevezés | Összeg Ft-ban | Mérleg hivatkozási sora | Megnevezés | Összeg Ft-ban |
 
 | 01 | 02 | 03 | 04 | 05 | 06 |
 
-| 02 | A) BEFEKTETETT ESZKÖZÖK |  | A | A) NEMZETI VAGYONBA TARTOZÓ BEFEKTETETT ESZKÖZÖK |  |
+| 02 | A) BEFEKTETETT ESZKÖZÖK |  | A B C D | A) NEMZETI VAGYONBA TARTOZÓ BEFEKTETETT ESZKÖZÖK B) NEMZETI VAGYONBA TARTOZÓ FORGÓESZKÖZÖK C) PÉNZESZKÖZÖK D) KÖVETELÉSEK |  |
 
-| 03 | I. Immateriális javak |  | A/I | I. Immateriális javak |  |
+| 03 | I. Immateriális javak |  | A/I D/III | I. Immateriális javak III. Követelés jellegű sajátos elszámolások |  |
 
 | 04 | 1. Alapítás-átszervezés aktivált értéke | a rendező, technikai tételek elszámolása után nem maradhat egyenlege, így nem kell átrendezni |
 
@@ -22,11 +24,11 @@
 
 | 07 | 4. Szellemi termékek |  | A/I/2 | 2. Szellemi termékek |  |
 
-| 08 | 5. Immateriális javakra adott előlegek |  | D/III/1. | 1. Immateriális javakra adott előlegek |  |
+| 08 | 5. Immateriális javakra adott előlegek |  | D/III/1. | 1. Adott előlegek - ebből: immateriális javakra adott előlegek |  |
 
 | 09 | 6. Immateriális javak értékhelyesbítése |  | A/I/3 | 3. Immateriális javak értékhelyesbítése |  |
 
-| 10 | II. Tárgyi eszközök |  | A/II | II. Tárgyi eszközök |  |
+| 10 | II. Tárgyi eszközök |  | A/II B/I D/III | II. Tárgyi eszközök I. Készletek III. Követelés jellegű sajátos elszámolások |  |
 
 | 11 | 1. Ingatlanok és a kapcsolódó vagyoni értékű jogok |  | A/II/1 | 1. Ingatlanok és a kapcsolódó vagyoni értékű jogok |  |
 
@@ -38,13 +40,13 @@
 
 | 15 | 5. Beruházások, felújítások |  | A/II/4 | 4. Beruházások, felújítások |  |
 
-| 16 | 6. Beruházásra adott előlegek |  | D/III/2 | 2. Beruházásokra adott előlegek |  |
+| 16 | 6. Beruházásra adott előlegek |  | D/III/1 | 1. Adott előlegek - ebből: beruházásokra adott előlegek |  |
 
 | 17 | 7. Állami készletek, tartalékok |  | B/I/3 | 3. Egyéb készletek |  |
 
 | 18 | 8. Tárgyi eszközök értékhelyesbítése |  | A/II/5 | 5. Tárgyi eszközök értékhelyesbítése |  |
 
-| 19 | III. Befektetett pénzügyi eszközök |  | A/III | III. Befektetett pénzügyi eszközök |  |
+| 19 | III. Befektetett pénzügyi eszközök |  | A/III C/I D/II | III. Befektetett pénzügyi eszközök I. Hosszú lejáratú betétek II. Költségvetési évet követően esedékes követelések |  |
 
 | 20 | 1. Tartós részesedés |  | A/III/1 | 1. Tartós részesedések |  |
 
@@ -142,7 +144,7 @@
 
 | 67 |  | A/II/5 | 5. Tárgyi eszközök értékhelyesbítése |  |
 
-| 68 | B) FORGÓESZKÖZÖK |  | B | B) NEMZETI VAGYONBA TARTOZÓ FORGÓESZKÖZÖK |  |
+| 68 | B) FORGÓESZKÖZÖK |  | B C D E | B) NEMZETI VAGYONBA TARTOZÓ FORGÓESZKÖZÖK C) PÉNZESZKÖZÖK D) KÖVETELÉSEK E) EGYÉB SAJÁTOS ESZKÖZOLDALI ELSZÁMOLÁSOK |  |
 
 | 69 | I. Készletek |  | B/I | I. Készletek |  |
 
@@ -272,6 +274,8 @@
 
 | 132 |  | D/II/8 | - ebből: költségvetési évet követően esedékes követelések államháztartáson belüli megelőlegezések törlesztésére |  |
 
+| 132/a |  |  | D/III/5 | 5. Vagyonkezelésbe adott eszközökkel kapcsolatos visszapótlási követelés elszámolása |  |
+
 | 133 | Ebből: |  |  |  |  |
 
 | 134 | - támogatási program előlegek | nem kell külön átrendezni (a rendező, technikai tételek elszámolása után nem is maradhat egyenlege) |
@@ -338,43 +342,39 @@
 
 | 165 | V. Egyéb aktív pénzügyi elszámolások |  | C D E | C) PÉNZESZKÖZÖK D) KÖVETELÉSEK E) EGYÉB SAJÁTOS ESZKÖZOLDALI ELSZÁMOLÁSOK |  |
 
-| 166 | 1. Költségvetési aktív függő elszámolások |  | D/III | III. Adott előlegek |  |
+| 166 | 1. Költségvetési aktív függő elszámolások |  | D/III/1 | 1. Adott előlegek |  |
 
-| 167 | A bizonyítottan a következő évi költségvetést terhelő kiadások, továbbá olyan kiadások, amelyekről a keletkezés pillanatában ismert, hogy az nem az államháztartás szervezetét terhelő kifizetés | D/III/1 | 1. Immateriális javakra adott előlegek |  |
+| 167 | A bizonyítottan a következő évi költségvetést terhelő kiadások, továbbá olyan kiadások, amelyekről a keletkezés pillanatában ismert, hogy az nem az államháztartás szervezetét terhelő kifizetés |  | D/III/1 | 1. Adott előlegek - ebből: készletekre adott előlegek |  |
 
-|  |  |  | D/III/2 | 2. Beruházásokra adott előlegek |  |
+|  | D/III/1 | 1. Adott előlegek - ebből: foglalkoztatottaknak adott előlegek |  |
 
-|  |  |  | D/III/3 | 3. Készletekre adott előlegek |  |
-
-|  |  |  | D/III/4 | 4. Foglalkoztatottaknak adott előlegek |  |
-
-|  |  |  | D/III/5 | 5. Egyéb adott előlegek |  |
+|  | D/III/1 | 1. Adott előlegek - ebből: egyéb adott előlegek |  |
 
 | 168 | 167. soron kívüli függő kiadások | a rendező, technikai tételek elszámolása után nem maradhat egyenlege, így nem kell átrendezni |  |
 
-| 169 | 2. Költségvetési aktív átfutó elszámolások (könyvviteli számlánként) |  | C D E | C) PÉNZESZKÖZÖK D) KÖVETELÉSEK E) EGYÉB SAJÁTOS ESZKÖZOLDALI ELSZÁMOLÁSOK |  |
+| 169 | 2. Költségvetési aktív átfutó elszámolások (könyvviteli számlánként) |  | D E | D) KÖVETELÉSEK E) EGYÉB SAJÁTOS ESZKÖZOLDALI ELSZÁMOLÁSOK |  |
 
-| 170 | 3921. Személyi juttatásokkal kapcsolatos átfutó kiadások |  | D/III/4 | 4. Foglalkoztatottaknak adott előlegek |  |
+| 170 | 3921. Személyi juttatásokkal kapcsolatos átfutó kiadások |  | E | E) EGYÉB SAJÁTOS ESZKÖZOLDALI ELSZÁMOLÁSOK |  |
 
-| 171 | 3922. Munkavállalókkal kapcsolatos átfutó kiadások |  | D/III/4 | 4. Foglalkoztatottaknak adott előlegek |  |
+| 171 | 3922. Munkavállalókkal kapcsolatos átfutó kiadások |  | D/III/1 | 1. Adott előlegek - ebből: foglalkoztatottaknak adott előlegek |  |
 
-| 172 | 3923. Megelőlegezett társadalombiztosítási és családtámogatási ellátások |  | E | E) EGYÉB SAJÁTOS ESZKÖZOLDALI ELSZÁMOLÁSOK |  |
+| 172 | 3923. Megelőlegezett társadalombiztosítási és családtámogatási ellátások |  | D/III/7 | 7. Folyósított, megelőlegezett társadalombiztosítási és családtámogatási ellátások elszámolása |  |
 
-| 173 | 3924. Utólagos elszámolásra kiadott előlegek átfutó kiadásai |  | D/III/4 | 4. Foglalkoztatottaknak adott előlegek |  |
+| 173 | 3924. Utólagos elszámolásra kiadott előlegek átfutó kiadásai |  | D/III/1 | 1. Adott előlegek - ebből: foglalkoztatottaknak adott előlegek |  |
 
-| 174 | 3925. Szállítóknak (beruházási előlegek kivételével) adott előlegek |  | D/III/3 | 3. Készletekre adott előlegek |  |
+| 174 | 3925. Szállítóknak (beruházási előlegek kivételével) adott előlegek |  | D/III/1 | 1. Adott előlegek - ebből: készletekre adott előlegek |  |
 
-| 175 |  |  | D/III/5 | 5. Egyéb adott előlegek |  |
+| 175 |  | D/III/1 | 1. Adott előlegek - ebből: egyéb adott előlegek |  |
 
-| 176 | 3926. Utólag finanszírozott nemzetközi támogatási programok átfutó kiadásai |  | D/III/5 | 5. Egyéb adott előlegek |  |
+| 176 | 3926. Utólag finanszírozott nemzetközi támogatási programok átfutó kiadásai |  | D/III/1 | 1. Adott előlegek - ebből: egyéb adott előlegek |  |
 
 | 177 | 3929. Egyéb átfutó kiadások | a rendező, technikai tételek elszámolása után nem maradhat egyenlege, így nem kell átrendezni |  |
 
 | 178 | 395. Fejezeti előirányzat-felhasználási keret elosztás átfutó kiadásai | a rendező, technikai tételek elszámolása után nem maradhat egyenlege, így nem kell átrendezni |  |
 
-| 179 | 396. Megtérítendő ellátások elszámolása számla |  | D/I/8 | 8. Költségvetési évben esedékes követelések finanszírozási bevételekre |  |
+| 179 | 396. Megtérítendő ellátások elszámolása számla |  | D/III/6. | 6. Nem társadalombiztosítás pénzügyi alapjait terhelő kifizetett ellátások megtérítésének elszámolása |  |
 
-| 180 |  |  | D/I/8 | - ebből: költségvetési évben esedékes követelések államháztartáson belüli megelőlegezések törlesztésére |  |
+| 180 |  |  |  |  |  |
 
 | 181 | 398. Nemzetközi támogatásokhoz kapcsolódó költségvetési átfutó kiadások |  | D/I/8 | 8. Költségvetési évben esedékes követelések finanszírozási bevételekre |  |
 
@@ -404,11 +404,11 @@
 
 | 194 | 2. Saját tulajdonban lévő eszközök értékelési tartaléka | a rendező, technikai tételek elszámolása után nem maradhat egyenlege, így nem kell átrendezni |  |
 
-| 195 | E) TARTALÉKOK |  | G/III | III. Egyéb eszközök induláskori értéke |  |
+| 195 | E) TARTALÉKOK |  | G/III | III. Egyéb eszközök induláskori értéke és változásai |  |
 
-| 196 | I. Költségvetési tartalékok |  | G/III | III. Egyéb eszközök induláskori értéke |  |
+| 196 | I. Költségvetési tartalékok |  | G/III | III. Egyéb eszközök induláskori értéke és változásai |  |
 
-| 197 | 1. Költségvetési tartalék elszámolása |  | G/III | III. Egyéb eszközök induláskori értéke |  |
+| 197 | 1. Költségvetési tartalék elszámolása |  | G/III | III. Egyéb eszközök induláskori értéke és változásai |  |
 
 | 198 | Ebből: - tárgyévi költségvetési tartalék elszámolása | a rendező, technikai tételek elszámolása után nem maradhat egyenlege, így nem kell átrendezni |
 
@@ -436,7 +436,7 @@
 
 | 210 | 4. Vállalkozási bevételi lemaradás |
 
-| 211 | F) KÖTELEZETTSÉGEK |  | H | H) KÖTELEZETTSÉGEK |  |
+| 211 | F) KÖTELEZETTSÉGEK |  | C H I | C) PÉNZESZKÖZÖK H) KÖTELEZETTSÉGEK I) EGYÉB SAJÁTOS FORRÁSOLDALI ELSZÁMOLÁSOK |  |
 
 | 212 | I. Hosszú lejáratú kötelezettségek |  | H/II | II. Költségvetési évet követően esedékes kötelezettségek |  |
 
@@ -670,7 +670,7 @@
 
 | 327 |  | H/II/3 | 3. Költségvetési évet követően esedékes kötelezettségek dologi kiadásokra |  |
 
-| 328 | - helyi adó túlfizetése miatti kötelezettségek |  | H/III | III. Kapott előlegek |  |
+| 328 | - helyi adó túlfizetése miatti kötelezettségek |  | H/III/1 | 1. Kapott előlegek |  |
 
 | 329 | - támogatási program előlege miatti kötelezettségek | a rendező, technikai tételek elszámolása után nem maradhat egyenlege, így nem kell átrendezni |  |
 
@@ -898,37 +898,39 @@
 
 | 441 |  | H/II/9 | - ebből: költségvetési évet követően esedékes kötelezettségek külföldi értékpapírok beváltására |  |
 
-| 442 | III. Egyéb passzív pénzügyi elszámolások |  | C E H/III I | C Pénzeszközök E Egyéb sajátos eszközoldali elszámolások III. Kapott előlegek 2. Idegen pénzeszközökkel kapcsolatos sajátos forrásoldali elszámolások |  |
+| 441/a |  |  | H/III/5. | 5. Vagyonkezelésbe vett eszközökkel kapcsolatos visszapótlási kötelezettség elszámolása |  |
 
-| 443 | 1. Költségvetési passzív függő elszámolások (könyvviteli számlánként) |  |  |  |  |
+| 442 | III. Egyéb passzív pénzügyi elszámolások |  | C H/III I | C) PÉNZESZKÖZÖK III. Kötelezettség jellegű sajátos elszámolások I) EGYÉB SAJÁTOS FORRÁSOLDALI ELSZÁMOLÁSOK |  |
+
+| 443 | 1. Költségvetési passzív függő elszámolások (könyvviteli számlánként) |  | H/III/1 | 1. Kapott előlegek |  |
 
 | 444 | 4811. Költségvetési intézményi függő bevételek | a rendező, technikai tételek elszámolása után nem maradhat egyenlege, így nem kell átrendezni |  |
 
-| 445 | 4812. Helyi adóbeszedési számlával kapcsolatos függő bevételek |  | H/III | III. Kapott előlegek |  |
+| 445 | 4812. Helyi adóbeszedési számlával kapcsolatos függő bevételek |  | H/III/1 | 1. Kapott előlegek |  |
 
-| 446 | 4813. Egyéb adóbeszedési számlákkal kapcsolatos függő bevételek |  | H/III | III. Kapott előlegek |  |
+| 446 | 4813. Egyéb adóbeszedési számlákkal kapcsolatos függő bevételek |  | H/III/1 | 1. Kapott előlegek |  |
 
-| 447 | 2. Költségvetési passzív átfutó elszámolások (könyvviteli számlánként) |  | E H/III | E) EGYÉB SAJÁTOS ESZKÖZOLDALI ELSZÁMOLÁSOK III. Kapott előlegek |  |
+| 447 | 2. Költségvetési passzív átfutó elszámolások (könyvviteli számlánként) |  | H/III | III. Kötelezettség jellegű sajátos elszámolások |  |
 
 | 448 | 4821. Költségvetési átfutó bevételek | a rendező, technikai tételek elszámolása után nem maradhat egyenlege, így nem kell átrendezni |  |
 
-| 449 | 4822. Utólagos elszámolások átfutó bevételei |  | H/III | III. Kapott előlegek |  |
+| 449 | 4822. Utólagos elszámolások átfutó bevételei |  | H/III/1 | 1. Kapott előlegek |  |
 
-| 450 | 4823. Költségvetési egyéb bevételek beszedési számlával kapcsolatos átfutó bevételek (csak helyi önkormányzatok) |  | H/III | III. Kapott előlegek |  |
+| 450 | 4823. Költségvetési egyéb bevételek beszedési számlával kapcsolatos átfutó bevételek (csak helyi önkormányzatok) |  | H/III/1 | 1. Kapott előlegek |  |
 
 | 451 | 4824. Költségvetés letéti bevételei | a rendező, technikai tételek elszámolása után nem maradhat egyenlege, így nem kell átrendezni |  |
 
 | 452 | 4825. Továbbadási céllal kapott átfutó bevételek | a soron záró adat nem szerepelhet, így nem is kell átrendezni |  |
 
-| 453 | 4826. Vevőtől kapott előlegek bevételei |  | H/III | III. Kapott előlegek |  |
+| 453 | 4826. Vevőtől kapott előlegek bevételei |  | H/III/1 | 1. Kapott előlegek |  |
 
-| 454 | 48281. Közhatalmi tevékenység átfutó bevételei |  | E | E) EGYÉB SAJÁTOS ESZKÖZOLDALI ELSZÁMOLÁSOK |  |
+| 454 | 48281. Közhatalmi tevékenység átfutó bevételei |  | H/III/3 | 3. Más által beszedett bevételek elszámolása |  |
 
-| 455 | 48282. Egyéb megosztott átfutó bevételek |  | E | E) EGYÉB SAJÁTOS ESZKÖZOLDALI ELSZÁMOLÁSOK |  |
+| 455 | 48282. Egyéb megosztott átfutó bevételek |  | H/III/3 | 3. Más által beszedett bevételek elszámolása |  |
 
 | 456 | 4829. Költségvetési egyéb átfutó bevételek | a rendező, technikai tételek elszámolása után nem maradhat egyenlege, így nem kell átrendezni |  |
 
-| 457 | 3. Költségvetési passzív kiegyenlítő elszámolások (könyvviteli számlánként) |  | C I | C) PÉNZESZKÖZÖK 2. Idegen pénzeszközökkel kapcsolatos sajátos forrásoldali elszámolások |  |
+| 457 | 3. Költségvetési passzív kiegyenlítő elszámolások (könyvviteli számlánként) |  | C H/III/1 I | C) PÉNZESZKÖZÖK 1. Kapott előlegek I) EGYÉB SAJÁTOS FORRÁSOLDALI ELSZÁMOLÁSOK |  |
 
 | 458 | 4831. Elszámolási és pénzforgalmi számlák közötti átvezetések |  | C/III. | III. Forintszámlák |  |
 
@@ -938,9 +940,9 @@
 
 | 461 | 4835. Önkormányzati támogatások rendező költségvetési kiegyenlítő bevételi átvezetési számla | a rendező, technikai tételek elszámolása után nem maradhat egyenlege, így nem kell átrendezni |  |
 
-| 462 | 484. Adóhatóságokkal kapcsolatos elszámolási számla (Tb. Kezelő szervek és NAV közötti elszámolások) |  | H/III | III. Kapott előlegek |  |
+| 462 | 484. Adóhatóságokkal kapcsolatos elszámolási számla (Tb. Kezelő szervek és NAV közötti elszámolások) |  | H/III/1 | 1. Kapott előlegek |  |
 
-| 463 | 4. Költségvetésen kívüli passzív pénzügyi elszámolások |  | I/2 | 2. Idegen pénzeszközökkel kapcsolatos sajátos forrásoldali elszámolások |  |
+| 463 | 4. Költségvetésen kívüli passzív pénzügyi elszámolások |  | I | I) EGYÉB SAJÁTOS FORRÁSOLDALI ELSZÁMOLÁSOK |  |
 
 | 464 | Ebből: |  |  |  |  |
 
@@ -962,4 +964,6 @@
 
 |  | Kelt ………………………………………, ………..év …………. hó…….nap | Kelt ………………………………………, ………..év …………. hó…….nap |
 
-2. melléklet a 36/2013. (IX. 13.) NGM rendelethez
+2. melléklet a 36/2013. (IX. 13.) NGM rendelethez[^8]
+
+[^8]: A 2. melléklet a 75/2013. (XII. 31.) NGM rendelet 5. § 2. pontja szerint módosított szöveg.

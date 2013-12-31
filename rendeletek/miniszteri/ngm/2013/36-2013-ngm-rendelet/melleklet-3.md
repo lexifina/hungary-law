@@ -6,13 +6,13 @@
 
 | 01 | 02 | 03 | 04 | 05 | 06 |
 
-| 02 | A. BEFEKTETETT ESZKÖZÖK |  | A | A) NEMZETI VAGYONBA TARTOZÓ BEFEKTETETT ESZKÖZÖK |  |
+| 02 | A. BEFEKTETETT ESZKÖZÖK |  | A C D | A) NEMZETI VAGYONBA TARTOZÓ BEFEKTETETT ESZKÖZÖK C) PÉNZESZKÖZÖK D) KÖVETELÉSEK |  |
 
-| 03 | I. IMMATERIÁLIS JAVAK |  | A/I | I. Immateriális javak |  |
+| 03 | I. IMMATERIÁLIS JAVAK |  | A/I D/III | I. Immateriális javak III. Követelés jellegű sajátos elszámolások |  |
 
-| 04 | II. TÁRGYI ESZKÖZÖK |  | A/II | II. Tárgyi eszközök |  |
+| 04 | II. TÁRGYI ESZKÖZÖK |  | A/II D/III | II. Tárgyi eszközök III. Követelés jellegű sajátos elszámolások |  |
 
-| 05 | III. BEFEKTETETT PÉNZÜGYI ESZKÖZÖK |  | A/III | III. Befektetett pénzügyi eszközök |  |
+| 05 | III. BEFEKTETETT PÉNZÜGYI ESZKÖZÖK |  | A/III C/I D/II | III. Befektetett pénzügyi eszközök I. Hosszú lejáratú betétek II. Költségvetési évet követően esedékes követelések |  |
 
 | 06 | 1. Tartós részesedések |  | A/III/1 | 1. Tartós részesedések |  |
 
@@ -82,7 +82,7 @@
 
 | 39 |  | D/II/8 | - ebből: költségvetési évet követően esedékes követelések államháztartáson belüli megelőlegezések törlesztésére |  |
 
-| 40 | B. FORGÓESZKÖZÖK |  | B | B) NEMZETI VAGYONBA TARTOZÓ FORGÓESZKÖZÖK |  |
+| 40 | B. FORGÓESZKÖZÖK |  | B C D | B) NEMZETI VAGYONBA TARTOZÓ FORGÓESZKÖZÖK C) PÉNZESZKÖZÖK D) KÖVETELÉSEK |  |
 
 | 41 | II. Követelések |  | D | D) KÖVETELÉSEK |  |
 
@@ -344,15 +344,15 @@
 
 | 170 | 6.2 Rövid lejáratú deviza bankbetétek |  | C/IV | Devizaszámlák |  |
 
-| 171 | V. Egyéb aktív pénzügyi elszámolások |  | C E I/2 | C) PÉNZESZKÖZÖK E) EGYÉB SAJÁTOS ESZKÖZOLDALI ELSZÁMOLÁSOK 2. Idegen pénzeszközökkel kapcsolatos sajátos forrásoldali elszámolások |  |
+| 171 | V. Egyéb aktív pénzügyi elszámolások |  | C D/III/1 | C) PÉNZESZKÖZÖK 1. Adott előlegek |  |
 
-| 172 | 1. Költségvetési aktív függő elszámolások |  | E | E) EGYÉB SAJÁTOS ESZKÖZOLDALI ELSZÁMOLÁSOK |  |
+| 172 | 1. Költségvetési aktív függő elszámolások |  | D/III/1 | 1. Adott előlegek |  |
 
 | 173 | 2. Költségvetési aktív átfutó elszámolások | a rendező, technikai tételek elszámolása után nem maradhat egyenlege, így nem kell átrendezni |  |
 
 | 174 | 3. Költségvetési kiegyenlítő elszámolások |  | C/II | II. Pénztárak, csekkek, betétkönyvek |  |
 
-| 175 | 4. Költségvetésen kívüli aktív pénzügyi elszámolások |  | I/2 | 2. Idegen pénzeszközökkel kapcsolatos sajátos forrásoldali elszámolások |  |
+| 175 | 4. Költségvetésen kívüli aktív pénzügyi elszámolások |  | C/V | V. Idegen pénzeszközök |  |
 
 | 176 | D) SAJÁT TŐKE |  | G | G) SAJÁT TŐKE |  |
 
@@ -362,13 +362,13 @@
 
 | 179 | ebből: tárgyévi költségvetési hiány | nem kell külön átrendezni |  |  |
 
-| 180 | E) TARTALÉKOK |  | G/III | III. Egyéb eszközök induláskori értéke |  |
+| 180 | E) TARTALÉKOK |  | G/III | III. Egyéb eszközök induláskori értéke és változásai |  |
 
-| 181 | I. Költségvetési tartalékok |  | G/III | III. Egyéb eszközök induláskori értéke |  |
+| 181 | I. Költségvetési tartalékok |  | G/III | III. Egyéb eszközök induláskori értéke és változásai |  |
 
 | 182 | III. Finanszírozási különbözet | a rendező, technikai tételek elszámolása után nem maradhat egyenlege, így nem kell átrendezni |  |
 
-| 183 | F) KÖTELEZETTSÉGEK |  | H | H) KÖTELEZETTSÉGEK |  |
+| 183 | F) KÖTELEZETTSÉGEK |  | C H I J | C) PÉNZESZKÖZÖK H) KÖTELEZETTSÉGEK I) EGYÉB SAJÁTOS FORRÁSOLDALI ELSZÁMOLÁSOK J) KINCSTÁRI SZÁMLAVEZETÉS-SEL KAPCSOLATOS ELSZÁMOLÁSOK |  |
 
 | 184 | I. Hosszú lejáratú kötelezettségek |  | H/II | II. Költségvetési évet követően esedékes kötelezettségek |  |
 
@@ -716,29 +716,29 @@
 
 | 356 |  | H/II/9 | - ebből: költségvetési évet követően esedékes kötelezettségek külföldi értékpapírok beváltására |  |
 
-| 357 | III. Egyéb passzív pénzügyi elszámolások |  | C/II I/2 J | II. Pénztárak, csekkek, betétkönyvek 2. Idegen pénzeszközökkel kapcsolatos sajátos forrásoldali elszámolások J) KINCSTÁRI SZÁMLAVEZETÉSSEL KAPCSOLATOS ELSZÁMOLÁSOK |
+| 357 | III. Egyéb passzív pénzügyi elszámolások |  | C I J | C) PÉNZESZKÖZÖK I) EGYÉB SAJÁTOS FORRÁSOLDALI ELSZÁMOLÁSOK J) KINCSTÁRI SZÁMLAVEZETÉSSEL KAPCSOLATOS ELSZÁMOLÁSOK |  |
 
 | 358 | 1. Költségvetési passzív függő elszámolások | a rendező, technikai tételek elszámolása után nem maradhat egyenlege, így nem kell átrendezni |  |
 
 | 359 | 2. Költségvetési passzív átfutó elszámolások | a rendező, technikai tételek elszámolása után nem maradhat egyenlege, így nem kell átrendezni |  |
 
-| 360 | 3. Költségvetési passzív kiegyenlítő elszámolások |  | C/II | II. Pénztárak, csekkek, betétkönyvek |  |
+| 360 | 3. Költségvetési passzív kiegyenlítő elszámolások |  | C | C) PÉNZESZKÖZÖK |  |
 
-| 361 | 4. Költségvetésen kívüli passzív pénzügyi elszámolások |  | I/2 | 2. Idegen pénzeszközökkel kapcsolatos sajátos forrásoldali elszámolások |  |
+| 361 | 4. Költségvetésen kívüli passzív pénzügyi elszámolások |  | I | I) EGYÉB SAJÁTOS FORRÁSOLDALI ELSZÁMOLÁSOK |  |
 
-| 362 | 4.1. Költségvetésen kívüli letéti elszámolások |  | I/2 | 2. Idegen pénzeszközökkel kapcsolatos sajátos forrásoldali elszámolások |  |
+| 362 | 4.1. Költségvetésen kívüli letéti elszámolások |  | I | I) EGYÉB SAJÁTOS FORRÁSOLDALI ELSZÁMOLÁSOK |  |
 
 | 363 | 4.1.1. Forintban | nem kell külön átrendezni |  |  |
 
 | 364 | 4.1.2. Devizában | nem kell külön átrendezni |  |  |
 
-| 365 | 4.2. Devizaszámlás ügyfelek passzív pénzügyi elszámolásai |  | I/2 | 2. Idegen pénzeszközökkel kapcsolatos sajátos forrásoldali elszámolások |  |
+| 365 | 4.2. Devizaszámlás ügyfelek passzív pénzügyi elszámolásai |  | I | I) EGYÉB SAJÁTOS FORRÁSOLDALI ELSZÁMOLÁSOK |  |
 
 | 366 | 4.2.1. EU tagállam szerint | nem kell külön átrendezni |  |  |
 
 | 367 | 4.2.2. Nem EU ország szerint | nem kell külön átrendezni |  |  |
 
-| 368 | 4.3. Költségvetésen kívüli egyéb passzív pénzügyi elszámolások |  | I/2 | 2. Idegen pénzeszközökkel kapcsolatos sajátos forrásoldali elszámolások |  |
+| 368 | 4.3. Költségvetésen kívüli egyéb passzív pénzügyi elszámolások |  | I | I) EGYÉB SAJÁTOS FORRÁSOLDALI ELSZÁMOLÁSOK |  |
 
 | 369 | IV. Számlatulajdonosokkal kapcsolatos elszámolások |  | J | J) KINCSTÁRI SZÁMLAVEZETÉSSEL KAPCSOLATOS ELSZÁMOLÁSOK |  |
 
@@ -766,4 +766,10 @@
 
 |  | Kelt ………………………………………, ………..év …………. hó…….nap |  | Kelt ………………………………………, ………..év …………. hó…….nap |
 
-3. melléklet a 36/2013. (IX. 13.) NGM rendelethez
+3. melléklet a 36/2013. (IX. 13.) NGM rendelethez[^9]
+
+A szerv megnevezése, székhelye:
+
+RENDEZŐ MÉRLEG
+
+[^9]: A 3. melléklet a 75/2013. (XII. 31.) NGM rendelet 5. § 3. pontja szerint módosított szöveg.
