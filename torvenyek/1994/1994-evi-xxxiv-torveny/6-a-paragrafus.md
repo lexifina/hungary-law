@@ -12,7 +12,13 @@ c) az alapvető jogok tiszteletben tartása és hatékonyabb védelme érdekébe
 
 (3) A Testület tagjának olyan, büntetlen előéletű, az országgyűlési képviselők választásán választható személy választható meg, aki jogi végzettséggel és az alapvető jogok védelme területén kiemelkedő tapasztalatokkal rendelkezik, és külön törvény szerinti nemzetbiztonsági ellenőrzése megtörtént.
 
-(4) Nem választható meg a testület tagjává az, aki a megválasztás időpontjában vagy az azt megelőző két évben állami vezető, polgármester, párt alkalmazottja vagy tisztségviselője, illetve a megválasztás időpontjában vagy az azt megelőző hat évben rendvédelmi szervvel, a Nemzeti Adó- és Vámhivatal vámszervével vagy nyomozó hatóságával, valamint a Magyar Honvédséggel foglalkoztatásra irányuló jogviszonyban állt.
+(4) Nem választható meg a testület tagjává az, aki
+
+a) a megválasztás időpontjában párt alkalmazottja vagy tisztségviselője,
+
+b) a megválasztás időpontjában vagy az azt megelőző két évben állami vezető, polgármester,
+
+c) a megválasztás időpontjában vagy az azt megelőző hat évben rendvédelmi szervvel, a Nemzeti Adó- és Vámhivatal vámszervével vagy nyomozó hatóságával, valamint a Magyar Honvédséggel foglalkoztatásra irányuló jogviszonyban állt.
 
 (5) A Testület tagjának megbízatása a megválasztással keletkezik és hat évre szól. A Testület tagja újraválasztható.
 
