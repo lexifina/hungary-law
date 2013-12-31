@@ -16,7 +16,19 @@ b) természetes alkoholtartalma nem kisebb 9 térfogatszázaléknál (% vol),
 
 c) összes savtartalma, (borkősavban kifejezve) nem kisebb mint 3,50 gramm/liter.
 
-(3) A védett eredetű bor kifejezéssel bor az oltalom alatt álló eredetmegjelöléssel egyenértékű kifejezésként a vonatkozó termékleírás szerint jelölhető.
+(3) A „védett eredetű” kifejezés – kiegészítve az adott borászati termékkategória nevével – az oltalom alatt álló eredetmegjelöléssel egyenértékű kifejezésként használható a vonatkozó termékleírás szerint a következő borászati termékek esetében:
+
+a) bor,
+
+b) pezsgő,
+
+c) minőségi pezsgő,
+
+d) illatos minőségi pezsgő,
+
+e) gyöngyözőbor,
+
+f) szén-dioxid hozzáadásával készült gyöngyözőbor.
 
 (4) Dűlő vagy település neve csak az oltalom alatt álló eredetmegjelöléssel együtt szerepelhet a címkén.
 
@@ -29,3 +41,5 @@ c) összes savtartalma, (borkősavban kifejezve) nem kisebb mint 3,50 gramm/lite
 (8) Az 1234/2007/EK tanácsi rendelet 118s. cikke alapján benyújtott termékleírást a nemzeti jóváhagyásról szóló határozat Európai Bizottság részére történő megküldését követően kezdődő szüretben szüretelt borszőlőből származó borászati termékre kell alkalmazni.
 
 (9) Termékleírás módosítására vonatkozó kérelemben foglalt rendelkezéseket először a nemzeti jóváhagyásról szóló határozatban megjelölt borpiaci évben szüretelt borszőlőből származó borászati termékre kell alkalmazni. A módosítási kérelem és a módosított termékleírás közzétételéről a miniszter gondoskodik.
+
+(10) A (9) bekezdésben foglaltaktól eltérően a termékleírás módosítására irányuló kérelemben foglaltakat – a miniszter döntése alapján – először a nemzeti jóváhagyásról szóló határozatban megjelölt időpontot követően forgalomba hozott borászati termékekre kell alkalmazni, amennyiben azok az édesítés, a palackozás helye vagy a forgalomba hozatalt megelőző érzékszervi bírálat szabályait érintik.
