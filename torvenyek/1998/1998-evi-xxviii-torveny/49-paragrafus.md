@@ -28,7 +28,7 @@ rendeletben állapítsa meg.
 
 (4) Felhatalmazást kap
 
-a) a miniszter, hogy a szakértői testület létrehozására, működtetésére vonatkozó részletes szabályokat, a mezőgazdasági haszonállatok sajátos tartási szabályait, a vágóállatok körét, az állatok levágásának és leölésének részletes szabályait,
+a) az élelmiszerlánc-felügyeletért felelős miniszter (a továbbiakban: miniszter), hogy a mezőgazdasági haszonállatok tartásának részletes szabályait;
 
 b) a miniszter, hogy a veszélyes állatok körét, tartásuk és szaporításuk részletes feltételeit, a veszélyes állattá nyilvánítás feltételeit, a veszélyes állatok adatait nyilvántartó országos adatbázis működési feltételeit, valamint az állatkert és állatotthon létesítésének, működésének és fenntartásának részletes szabályait,
 
@@ -44,7 +44,9 @@ g) a miniszter, hogy az Európai Gazdasági Térség más szerződő államaiban
 
 h) a miniszter, hogy a veszélyes eb tartása engedélyezésének igazgatási szolgáltatási díját, valamint a díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos szabályokat az adópolitikáért felelős miniszterrel egyetértésben,
 
-i) a miniszter, hogy a szőrméjükért tartott állatfajok körét, tartásuk, tenyésztésük és szaporításuk különleges szabályait
+i) a miniszter, hogy a szőrméjükért tartott állatfajok körét, tartásuk, tenyésztésük és szaporításuk különleges szabályait,
+
+j) miniszter, hogy a vágóállatok körét, az állatok levágásának és leölésének részletes szabályait
 
 rendeletben állapítsa meg.
 

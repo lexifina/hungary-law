@@ -17,3 +17,5 @@ d) alapítói nyilatkozat a tartós működtetéshez szükséges vagyoni fedezet
 (3) Az állatkert létesítése iránt benyújtott kérelemhez csatolni kell az állattartási szabályzatot.
 
 (4) Az (1) bekezdés szerinti nyilvántartás közhiteles hatósági nyilvántartásnak minősül.
+
+(5) Az állatkert köteles az ott élő állatok szakszerű bemutatásával és tájékoztatással természetvédelmi és állatvédelmi tárgyú ismeretterjesztést, oktatást és nevelést végezni.

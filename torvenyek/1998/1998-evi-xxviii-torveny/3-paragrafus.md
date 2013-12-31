@@ -6,7 +6,7 @@
 
 2. állat károsítása: az állat testi épségének, szervezetének, pszichikai állapotának vagy viselkedésének tartós, hátrányos megváltoztatása;
 
-3. állatkert: a természet- és állatvédelmet szolgáló állandó létesítmény, ahol az állatokat évente folyamatosan hét napnál hosszabb időn keresztül a nagyközönség részére való bemutatás céljából tartják, és amely az ismeretterjesztést, oktatást és nevelést az ott élő állatok folyamatos és szakszerű bemutatásával, valamint tájékoztatással biztosítja; nem minősül állatkertnek a cirkuszi menazséria és az állatkereskedés;
+3. állatkert: olyan állandó létesítmény, ahol az állatokat évente hét vagy annál több napon keresztül a nagyközönség részére történő bemutatás céljából tartják; nem minősül állatkertnek a cirkuszi menazséria és az állatkereskedés;
 
 4. állatkínzás: az állat szükségtelen, fájdalmat okozó bántalmazása, vagy olyan hatást eredményező beavatkozás, bánásmód, valamint szükségleteinek olyan mértékű korlátozása, amely tartós félelmet vagy egészségkárosodást okozhat, továbbá az öröklődő betegségben szenvedő – nem kísérleti célra szánt – állategyed tenyésztése, szaporítása;
 

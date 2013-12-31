@@ -24,4 +24,6 @@ k) a Tanács 2008/120/EK irányelve a sertések védelmére vonatkozó minimumk�
 
 l) a Tanács 1099/2009/EK rendelete az állatok leölésük során való védelméről,
 
-m) az Európai Parlament és a Tanács 2010/63/EU irányelve a tudományos célokra felhasznált állatok védelméről.
+m) az Európai Parlament és a Tanács 2010/63/EU irányelve a tudományos célokra felhasznált állatok védelméről,
+
+n) a Tanács 1999/22/EK irányelve a vadon élő állatok állatkertben tartásáról.

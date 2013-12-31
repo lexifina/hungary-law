@@ -16,7 +16,7 @@ figyelembe vételével állapítja meg, de az nem haladhatja meg ebenként vesz�
 
 a) a védett őshonos vagy veszélyeztetett, magas genetikai értéket képviselő tenyésztett magyar állatfajták nemzeti kinccsé nyilvánításáról szóló 32/2004. (IV. 19.) OGY határozat mellékletében felsorolt magyar kutyafajtákba tartozó törzskönyvezett,
 
-b) a mentő-, jelző-, vakvezető, rokkantsegítő vagy terápiás,
+b) a mentő-, jelző-, vakvezető, rokkantsegítő, terápiás vagy az Országos Magyar Vadászkamara által kiállított vadászkutya alkalmassági vizsgaigazolvánnyal rendelkező
 
 c) a Magyar Honvédségben, rendvédelmi szervben, nemzetbiztonsági szolgálatban vagy közfeladatot ellátó őrszolgálatban alkalmazott,
 
