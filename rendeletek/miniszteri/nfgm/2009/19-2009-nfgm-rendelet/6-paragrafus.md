@@ -1,6 +1,6 @@
 ## A támogatási kategóriák
 
-6. § (1) Az 5. § alapján – tekintettel az 1. § (3) bekezdés f) pontjára és a 2. § (4) bekezdésére – csekély összegű (de minimis), továbbá átmeneti támogatás is nyújtható.
+6. § (1)[^4] Az 5. § alapján – tekintettel az 1. § (3) bekezdés f) pontjára és a 2. § (4) bekezdésére – csekély összegű (de minimis) támogatás nyújtható.
 
 (2) Az 5. § a) pontja, b) pont ba) alpontja alapján regionális beruházási és foglalkoztatási támogatás nyújtható.
 
@@ -17,3 +17,5 @@
 (8) Az 5. § a) pont aa) és ab) alpontjai, b) pont ba) alpontja, d) pont da) alpontja alapján KKV-k részére tanácsadáshoz és KKV-k vásárokon való részvételéhez nyújtható támogatás.
 
 (9) Az 5. § a) pont aa) alpontja, d) pont da) és db) alpontjai alapján kulturális támogatás nyújtható.
+
+[^4]: A 6. § (1) bekezdése az 1/2013. (XII. 30.) ME rendelet 1. § (2) bekezdésével megállapított szöveg.

@@ -1,3 +1,5 @@
+## 9. §[^5]
+
 ## Regionális támogatás
 
 ## A beruházási és foglalkoztatási támogatásokra vonatkozó szabályok
@@ -31,3 +33,5 @@ c) a mezőgazdasági termékek feldolgozásához, illetve forgalmazásához kapc
 ca) amennyiben a kedvezményezett KKV, az EK Szerződés 87. cikk (3) bekezdés a) pontja alapján támogatott területek esetében a támogatási intenzitás 50%, az EK Szerződés 87. cikk (3) bekezdés c) pontja alapján támogatott területek esetében 40%,
 
 cb) amennyiben a kedvezményezett által a 800/2008/EK bizottsági rendelet I. mellékletének megfelelően számított foglalkoztatottainak száma kevesebb, mint 750 fő vagy árbevétele kevesebb, mint 200 millió euró az EK Szerződés 87. cikk (3) bekezdés a) pontja alapján támogatott területek esetében a támogatási intenzitás 25%, az EK Szerződés 87. cikk (3) bekezdés c) pontja alapján támogatott területek esetében 20%.
+
+[^5]: A 9. §-t az 1/2013. (XII. 30.) ME rendelet 1. § (7) bekezdés b) pontja hatályon kívül helyezte.
