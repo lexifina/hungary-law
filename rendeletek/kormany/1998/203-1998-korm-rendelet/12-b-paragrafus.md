@@ -1,4 +1,4 @@
-12/B. §[^112] (1)[^113] A Bt. 26/A. § (7) bekezdése szerinti pályázatot az MBFH évente két alkalommal hirdeti meg.
+12/B. §[^132] (1)[^133] A Bt. 26/A. § (6) bekezdése szerinti pályázatot az MBFH évente két alkalommal hirdeti meg.
 
 (2) A pályázati hirdetménynek tartalmaznia kell:
 
@@ -18,25 +18,33 @@ g) a pályázatok benyújtásának helyét, módját és határidejét;
 
 h) a pályázatok elbírálásának szempontrendszerét, határidejét.
 
-(3) Nem vehető figyelembe annak a bányavállalkozónak a pályázata, akinek az adott bányatelekre vonatkozó bányászati jogát a Bt. 26/A. § (6) bekezdése alapján törölte a bányafelügyelet.
+(3)[^134] Nem vehető figyelembe
 
-(4)[^114] A beérkezett pályázatokat az MBFH a benyújtásra nyitva álló határidő lejártának napját követő naptól számított 30 napon belül bírálja el.
+a) annak a bányavállalkozónak a pályázata, akinek az adott bányatelekre vonatkozó bányászati jogát a Bt. 26/A. § (5) bekezdése alapján törölte a bányafelügyelet,
 
-(5)[^115] A bányászati jog ellenértéke a Magyar Államot, a pályázattal kapcsolatos díjak az MBFH-t illetik meg. A nyertes pályázónak a bányászati jog ellenértékét az eredményhirdetést követő 8 napon belül meg kell fizetnie. Az MBFH a Bt. 26/A. § (7) bekezdése szerinti határozatát a bányászati jog ellenértékének megfizetését követő 10 napon belül hozza meg.
+b) annak a pályázónak a pályázata, amelynek a Bt. 5. § (4a) bekezdésében meghatározott tartozása áll fenn.
 
-(6)[^116] Ha a nyertes pályázó a bányászati jog ellenértékét az eredményhirdetést követő 8 napon belül nem fizeti meg, a pályázata eredménytelen. A bányászati jogra benyújtott többi pályázatot 5 napon belül ismételten értékelni kell.
+(4)[^135] A beérkezett pályázatokat az MBFH a benyújtásra nyitva álló határidő lejártának napját követő naptól számított 20 napon belül bírálja el. Az a pályázó jelölhető ki a törölt bányászati jog új jogosítottjának, amely a legmagasabb ellenértékre tesz ajánlatot. A bányatelekkel fedett ingatlan tulajdonosát, ha a legmagasabb ajánlattal megegyező ajánlatot tett, az elbírálásnál előnyben kell részesíteni.
 
-(7)[^117] A pályázat eredménytelen akkor is, ha a pályázati hirdetményben vagy e jogszabályban foglalt előírásokat figyelembe véve a bányászati jog jogosultja nem jelölhető ki.
+(5)[^136] A bányászati jog ellenértéke a Magyar Államot, a pályázattal kapcsolatos díjak az MBFH-t illetik meg. A nyertes pályázónak a bányászati jog ellenértékét az eredményhirdetést követő 8 napon belül meg kell fizetnie. Az MBFH a Bt. 26/A. § (7) bekezdése szerinti határozatát a bányászati jog ellenértékének megfizetését követő 10 napon belül hozza meg.
 
-(8)[^118] Eredménytelen pályázat esetében a pályázatot a bányafelügyelet ismételten meghirdeti. A pályázat ismételt eredménytelensége esetén a bányafelügyelet megkeresi a Magyar Nemzeti Vagyonkezelő Zrt.-t (a továbbiakban: MNV Zrt.) azzal, hogy a megkeresés kézhezvételétől számított 20 napon belül igényt jelenthet be a bányatelek bányászati jogára. Az MNV Zrt. igénybejelentése esetén az MBFH a bányászati jog új jogosítottjaként az MNV Zrt.-t jelöli ki.
+(6)[^137] Ha a nyertes pályázó a bányászati jog ellenértékét az eredményhirdetést követő 8 napon belül nem fizeti meg, a pályázata eredménytelen. A bányászati jogra benyújtott többi pályázatot 5 napon belül ismételten értékelni kell.
 
-(9)[^119] Ha az MNV Zrt. a (8) bekezdésben meghatározott határidőn belül nem jelent be igényt a bányatelek bányászati jogára, a bányafelügyelet intézkedik a fennmaradó kötelezettségeknek a Bt. 41. § (7) bekezdése szerinti biztosíték terhére történő teljesítéséről, ezt követően megkeresi az ingatlanügyi hatóságot a bányatelek jogi jelleg ingatlan-nyilvántartásból való törlése céljából.
+(7)[^138] A pályázat eredménytelen akkor is, ha a pályázati hirdetményben vagy e jogszabályban foglalt előírásokat figyelembe véve a bányászati jog jogosultja nem jelölhető ki.
 
-[^112]: A Vhr. 12/B. §-át az 57/2008. (III. 26.) Korm. rendelet 10. §-a iktatta be. E módosító rendelet 23. § (1) bekezdése alapján a rendelkezést a 2008. április 3. napja után indult eljárásokban kell alkalmazni.
-[^113]: A Vhr. 12/B. § (1) bekezdése a 146/2012. (VII. 5.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^114]: A Vhr. 12/B. § (4) bekezdése a 146/2012. (VII. 5.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
-[^115]: A Vhr. 12/B. § (5) bekezdése a 146/2012. (VII. 5.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
-[^116]: A Vhr. 12/B. §-ának (6) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 146. § (5) bekezdése iktatta be, szövege a 146/2012. (VII. 5.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
-[^117]: A Vhr. 12/B. § (7) bekezdését a 251/2011. (XII. 1.) Korm. rendelet 12. §-a iktatta be, szövege a 146/2012. (VII. 5.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
-[^118]: A Vhr. 12/B. § (8) bekezdését a 146/2012. (VII. 5.) Korm. rendelet 8. § (2) bekezdése iktatta be, szövege a 411/2012. (XII. 28.) Korm. rendelet 16. §-ával megállapított szöveg.
-[^119]: A Vhr. 12/B. § (9) bekezdését a 146/2012. (VII. 5.) Korm. rendelet 8. § (2) bekezdése iktatta be.
+(8)[^139] Eredménytelen pályázat esetében a pályázatot a bányafelügyelet ismételten meghirdeti. A pályázat ismételt eredménytelensége esetén a bányafelügyelet megkeresi a Magyar Nemzeti Vagyonkezelő Zrt.-t (a továbbiakban: MNV Zrt.) azzal, hogy a megkeresés kézhezvételétől számított 20 napon belül igényt jelenthet be a bányatelek bányászati jogára. Az MNV Zrt. igénybejelentése esetén az MBFH a bányászati jog új jogosítottjaként az MNV Zrt.-t jelöli ki.
+
+(9)[^140] Ha az MNV Zrt. a (8) bekezdésben meghatározott határidőn belül nem jelent be igényt a bányatelek bányászati jogára, a bányafelügyelet intézkedik a fennmaradó kötelezettségeknek a Bt. 41. § (7) bekezdése szerinti biztosíték terhére történő teljesítéséről, ezt követően megkeresi az ingatlanügyi hatóságot a bányatelek jogi jelleg ingatlan-nyilvántartásból való törlése céljából.
+
+(10)[^141] Ha a (9) bekezdés szerinti biztosíték nem elegendő a fennmaradó kötelezettségek teljesítésére, a bányafelügyelet határidő tűzésével kötelezi a bányászati jog törlésével érintett bányavállalkozót – a Bt. 26/A. § (5) bekezdés c) pontjában foglalt eset kivételével – a kötelezettségek teljesítésére.
+
+[^132]: A Vhr. 12/B. §-át az 57/2008. (III. 26.) Korm. rendelet 10. §-a iktatta be. E módosító rendelet 23. § (1) bekezdése alapján a rendelkezést a 2008. április 3. napja után indult eljárásokban kell alkalmazni.
+[^133]: A Vhr. 12/B. § (1) bekezdése a 146/2012. (VII. 5.) Korm. rendelet 8. § (1) bekezdésével megállapított, az 559/2013. (XII. 31.) Korm. rendelet 23. § 8. pontja szerint módosított szöveg.
+[^134]: A Vhr. 12/B. § (3) bekezdése az 559/2013. (XII. 31.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^135]: A Vhr. 12/B. § (4) bekezdése az 559/2013. (XII. 31.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^136]: A Vhr. 12/B. § (5) bekezdése a 146/2012. (VII. 5.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^137]: A Vhr. 12/B. §-ának (6) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 146. § (5) bekezdése iktatta be, szövege a 146/2012. (VII. 5.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^138]: A Vhr. 12/B. § (7) bekezdését a 251/2011. (XII. 1.) Korm. rendelet 12. §-a iktatta be, szövege a 146/2012. (VII. 5.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^139]: A Vhr. 12/B. § (8) bekezdését a 146/2012. (VII. 5.) Korm. rendelet 8. § (2) bekezdése iktatta be, szövege a 411/2012. (XII. 28.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^140]: A Vhr. 12/B. § (9) bekezdését a 146/2012. (VII. 5.) Korm. rendelet 8. § (2) bekezdése iktatta be.
+[^141]: A Vhr. 12/B. § (10) bekezdését az 559/2013. (XII. 31.) Korm. rendelet 10. § (2) bekezdése iktatta be.

@@ -26,7 +26,7 @@ d) a koncesszióköteles tevékenység vonatkozásában szakértelemmel, valamin
 
 (3f)[^17] A minősítő bizottság működésének tárgyi feltételeit az MBFH biztosítja, valamint annak munkájában szakmai segítséget nyújt.
 
-(4)[^18] A pályázati részvételi díjak befizetéséből származó bevételeket a bányászati koncessziós pályázatok előkészítésére, a minősítő bizottság tagjainak díjazására és a koncessziós szerződésben foglaltak végrehajtásának ellenőrzésére kell fordítani. A bevételek felhasználásáról az MBFH elnöke dönt.
+(4)[^18] A pályázati részvételi díjak befizetéséből származó bevételeket a bányászati koncessziós pályázatok előkészítésére, lebonyolítására és a minősítő bizottság tagjainak díjazására kell fordítani. A bevételek felhasználásáról az MBFH elnöke dönt.
 
 (5)[^19] A koncesszióra kijelölt zárt területre koncesszió nélkül kutatási engedély nem adható, bányatelek nem állapítható meg és geotermikus védőidom nem jelölhető ki.
 
@@ -37,5 +37,5 @@ d) a koncesszióköteles tevékenység vonatkozásában szakértelemmel, valamin
 [^15]: A Vhr. 2. § (3d) bekezdését a 146/2012. (VII. 5.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 411/2012. (XII. 28.) Korm. rendelet 6. §-ával megállapított szöveg.
 [^16]: A Vhr. 2. § (3e) bekezdését a 146/2012. (VII. 5.) Korm. rendelet 1. § (1) bekezdése iktatta be.
 [^17]: A Vhr. 2. § (3f) bekezdését a 146/2012. (VII. 5.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^18]: A Vhr. 2. § (4) bekezdése a 268/2006. (XII. 20.) Korm. rendelet 14. § (2) bekezdése, a 146/2012. (VII. 5.) Korm. rendelet 19. §-a szerint módosított szöveg.
+[^18]: A Vhr. 2. § (4) bekezdése az 559/2013. (XII. 31.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^19]: A Vhr. 2. §-ának (5) bekezdése a 251/2011. (XII. 1.) Korm. rendelet 2. §-ával megállapított, a 411/2012. (XII. 20.) Korm. rendelet 22. §-a szerint módosított szöveg.

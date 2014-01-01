@@ -1,6 +1,6 @@
 2/B. §[^21] (1) Nem lehet a minősítő bizottság elnöke és tagja az a személy,
 
-a) aki a pályázat előkészítésében vagy kidolgozásában bármilyen módon részt vett, a bizottság elnökének kivételével,
+a)[^22] aki a pályázat előkészítésében vagy kidolgozásában bármilyen módon részt vett,
 
 b) aki a koncessziós eljárás során pályázatot nyújtott be,
 
@@ -19,3 +19,4 @@ g) akitől bármely oknál fogva nem várható el az ügy tárgyilagos megítél
 (3) A tag megbízatásának összeférhetetlenségi ok miatti visszavonására az elnök tesz javaslatot a miniszternek. A felmentett tag helyett új tag személyére a 2. § (3d) bekezdésében meghatározott vezető tesz javaslatot a miniszternek.
 
 [^21]: A Vhr. 2/A. §-át a 146/2012. (VII. 5.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^22]: A Vhr. 2/B. § (1) bekezdés a) pontja az 559/2013. (XII. 31.) Korm. rendelet 2. §-ával megállapított szöveg.

@@ -1,12 +1,27 @@
-14. §[^126] (1) A műszaki üzemi terv intézkedéseit indokolni kell, és meg kell adni végrehajtásuk ütemezését. Ha a jóváhagyásra kért műszaki üzemi terv ingatlan igénybevételi terve eltér a 11/A. § (2) bekezdésének c) pont szerinti ütemtervtől, úgy az érintett ingatlantulajdonosokat erről az eljárás megindításáról szóló értesítésben tájékoztatni kell. Az ingatlan igénybevételi ütemterv módosításáról a bányakapitányság a műszaki üzemi tervet vagy annak módosítását jóváhagyó határozatában dönt.
+14. §[^150] (1) A műszaki üzemi terv intézkedéseit indokolni kell, és meg kell adni végrehajtásuk időbeli és területi ütemezését. Ha a jóváhagyásra benyújtott műszaki üzemi terv ingatlan igénybevételi terve eltér a 11/A. § (2) bekezdés c) pontja szerinti ütemtervtől, úgy az érintett ingatlantulajdonosokat erről az eljárás megindításáról szóló értesítésben tájékoztatni kell.
 
-(2)[^127]
+(2) A műszaki üzemi tervet jóváhagyó határozatnak a közigazgatási hatósági eljárás általános szabályairól szóló törvényben előírtakon túl tartalmaznia kell
 
-(3)[^128] Kitermelésre vonatkozó műszaki üzemi terv – amennyiben a környezetvédelmi, egységes környezethasználati vagy környezetvédelmi működési engedély hatálya ennél nem rövidebb – mélyművelés, illetve kőolaj- és földgázbányászat esetében legfeljebb 5 év, míg külfejtések esetében legfeljebb 15 év időtartamra hagyható jóvá. A műszaki üzemi tervet a bányavállalkozónak évente felül kell vizsgálnia, és megváltozott viszonyok esetén köteles a műszaki üzemi terv módosítását kérelmezni. Ha a bányavállalkozó a jóváhagyott tervben kitermelésre meghatározott területet a tervidőszakban nem vette igénybe, a jóváhagyó határozat teljesítési határideje legfeljebb egy alkalommal, az eredetileg engedélyezett teljesítési idő felével meghosszabbítható.
+a) a műszaki üzemi terv teljesítési határidejét és a bányaüzem lehatárolását,
 
-(4)[^129] A műszaki üzemi tervet, illetve a módosítására irányuló kérelmet a tervezett tevékenység megkezdését megelőzően kell jóváhagyásra a bányakapitánysághoz benyújtani.
+b) a kitermelésre engedélyezett haszonanyag mennyiségét, föld alatti gáztárolás esetében a ki- és betárolható földgáz mennyiségét,
 
-[^126]: A Vhr. 14. §-a az 57/2008. (III. 26.) Korm. rendelet 11. §-ával megállapított szöveg. E módosító rendelet 23. § (1) bekezdése alapján a rendelkezést a 2008. április 3. napja után indult eljárásokban kell alkalmazni.
-[^127]: A Vhr. 14. §-ának (2) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 148. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^128]: A Vhr. 14. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 147. §-a, a 146/2012. (VII. 5.) Korm. rendelet 19. §-a szerint módosított szöveg.
-[^129]: A Vhr. 14. § (4) bekezdése a 411/2012. (XII. 28.) Korm. rendelet 23. §-a szerint módosított szöveg.
+c) meddőértékesítés engedélyezése esetén a bányajáradék fizetésével kapcsolatos rendelkezést,
+
+d) az ásványvagyon-veszteséggel és a termelvény-veszteséggel kapcsolatos rendelkezést,
+
+e) külfejtéses bányászati tevékenység végzése esetén a bányászati tevékenységgel igénybe vehető ingatlanok helyrajzi számát és
+
+f) az (1) bekezdésben meghatározott esetben az ingatlan igénybevételi ütemterv módosítására vonatkozó rendelkezést.
+
+(3) Kitermelésre vonatkozó műszaki üzemi terv – amennyiben a környezetvédelmi, egységes környezethasználati vagy környezetvédelmi működési engedély hatálya ennél nem rövidebb – mélyművelés, illetve kőolaj- és földgázbányászat esetében legfeljebb 5 év, míg külfejtések esetében legfeljebb 15 év időtartamra hagyható jóvá. A műszaki üzemi tervet a bányavállalkozónak évente felül kell vizsgálnia, és megváltozott viszonyok esetén köteles a műszaki üzemi terv módosítását kérelmezni. Ha a bányavállalkozó a jóváhagyott tervben kitermelésre meghatározott területet a tervidőszakban nem vette igénybe, a jóváhagyó határozat teljesítési határideje legfeljebb egy alkalommal az eredetileg engedélyezett teljesítési idő felével meghosszabbítható.
+
+(4) A műszaki üzemi tervet, illetve a módosítására irányuló kérelmet a tervezett tevékenység megkezdését megelőzően kell jóváhagyásra a bányakapitánysághoz benyújtani.
+
+(5) A Bt. 23. § (1b) bekezdése szerinti föld alatti szénelgázosítással történő ásványi nyersanyag kitermelésre vonatkozó feltárási és kitermelési műszaki üzemi terv legfeljebb két év időtartamra hagyható jóvá. A feltárási és kitermelési műszaki üzemi terv jóváhagyása iránti kérelmet a kutatási zárójelentést elfogadó határozat jogerőre emelkedését követő 30 napon belül kell benyújtani. A határidő elmulasztása esetén a Bt. 23. § (1b) bekezdése szerinti föld alatti szénelgázosítással történő ásványi nyersanyag kitermelésre vonatkozó feltárási és kitermelési műszaki üzemi terv ismételten nem nyújtható be.
+
+(6) A (2) bekezdés a) pontja szerinti bányaüzem lehatárolás a következő műszaki üzemi terv jóváhagyásáig hatályos.
+
+(7) Nem kell a műszaki üzemi terv módosítását kérni, ha a haszonanyag kitermelt mennyisége, vagy az értékesített meddő mennyisége a tárgyévre engedélyezett mennyiséget legfeljebb 25%-kal haladja meg, és a kitermelés tekintetében az igénybevételre engedélyezett ingatlanon kívül más ingatlan igénybevételére nem kerül sor. A kitermelési mennyiség a növekménnyel együtt a környezetvédelmi, egységes környezethasználati vagy környezetvédelmi működési engedélyben meghatározott mennyiséget nem haladhatja meg.
+
+[^150]: A Vhr. 14. §-a az 559/2013. (XII. 31.) Korm. rendelet 12. §-ával megállapított szöveg.
