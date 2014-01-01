@@ -8,7 +8,7 @@ a) anyavállalat: minden olyan vállalkozás, amely egy másik vállalkozás mű
 
 b) leányvállalat: minden olyan vállalkozás, amelynek működésére egy másik vállalkozás ellenőrző befolyást gyakorol. A leányvállalat valamennyi leányvállalatát az anyavállalat leányvállalatának kell tekinteni,
 
-c) ellenőrző befolyás: a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvényben (a továbbiakban: Hpt.) meghatározott fogalom;
+c) ellenőrző befolyás: a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvényben (a továbbiakban: Hpt.) meghatározott fogalom;
 
 2. alárendelt kölcsöntőke: minden, ténylegesen a viszontbiztosító rendelkezésére bocsátott kölcsön, ha a kölcsönszerződés tartalmazza, hogy a kölcsön a viszontbiztosító adósságának rendezésébe bevonható; a kölcsönt nyújtó követelése a törlesztések sorrendjében a tulajdonosok előtti legutolsó helyen áll és a kölcsön eredeti futamideje az 5 évet meghaladja;
 

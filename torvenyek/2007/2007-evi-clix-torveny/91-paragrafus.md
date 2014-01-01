@@ -6,7 +6,7 @@ b) fióktelep esetében a külföldi székhelyű vállalkozás székhelye (főir
 
 c) a jogalkotás megalapozása és a hatásvizsgálatok elvégzése céljából a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter (a továbbiakban: miniszter) részére személyes adatnak nem minősülő adatok átadása,
 
-d) az összevont alapú felügyelet és a kiegészítő felügyeleti feladatok ellátása a Tpt. XIX/B. fejezetében, valamint a Hpt. XIV/A. fejezetében foglalt rendelkezések teljesítése érdekében történő adatátadás.
+d) az összevont alapú felügyelet és a kiegészítő felügyeleti feladatok ellátása a pénzügyi konglomerátumok kiegészítő felügyeletéről szóló törvényben foglalt rendelkezések teljesítése érdekében történő adatátadás.
 
 (2) Az (1) bekezdésben meghatározott adatok átadását a viszontbiztosító a biztosítási titok védelmére hivatkozva nem tagadhatja meg.
 
