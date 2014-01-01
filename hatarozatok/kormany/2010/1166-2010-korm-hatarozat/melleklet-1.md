@@ -12,4 +12,4 @@
 
 1. számú melléklet az 1166/2010. (VIII. 4.) Korm. határozathoz[^1]
 
-[^1]: Az 1. számú melléklet az 1206/2012. (VI. 26.) Korm. határozat 1. pontjával megállapított, az 1399/2012. (IX. 25.) Korm. határozat 1. pontja, az 1688/2012. (XII. 29.) Korm. határozat 1. pontja, az 1054/2013. (II. 13.) Korm. határozat 1. pontja, az 1170/2013. (IV. 5.) Korm. határozat 1. pontja szerint módosított szöveg.
+[^1]: Az 1. számú melléklet az 1206/2012. (VI. 26.) Korm. határozat 1. pontjával megállapított, az 1399/2012. (IX. 25.) Korm. határozat 1. pontja, az 1688/2012. (XII. 29.) Korm. határozat 1. pontja, az 1054/2013. (II. 13.) Korm. határozat 1. pontja, az 1170/2013. (IV. 5.) Korm. határozat 1. pontja, az 1352/2013. (VI. 21.) Korm. határozat 1–2. pontja, a 2021/2013. (XII. 29.) Korm. határozat 1–2. pontja szerint módosított szöveg.

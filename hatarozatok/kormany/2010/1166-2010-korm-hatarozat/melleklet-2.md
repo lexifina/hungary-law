@@ -12,13 +12,13 @@
 
 | 6. | Nemzetgazdasági Minisztérium | 793 |
 
-| 7. | Emberi Erőforrások Minisztériuma | 942 |
+| 7. | Emberi Erőforrások Minisztériuma | 954 |
 
-| 8. | Nemzeti Fejlesztési Minisztérium | 626 |
+| 8. | Nemzeti Fejlesztési Minisztérium | 629 |
 
 | 9. | Vidékfejlesztési Minisztérium | 598 |
 
-| 10. | Összesen | 5 606 |
+| 10. | Összesen | 5 621 |
 
 2. számú melléklet az 1166/2010. (VIII. 4.) Korm. határozathoz[^2]
 
@@ -190,7 +190,7 @@
 
 | 77. | Magyar Energia Hivatal | 197 |
 
-| 78. | Országos Atomenergia Hivatal | 85 |
+| 78. | Országos Atomenergia Hivatal | 80 |
 
 | 79. | Nemzeti Fejlesztési Ügynökség | 241 |
 
@@ -234,4 +234,4 @@
 
 | 93. | Összesen | 70 650 |
 
-[^2]: A 2. számú melléklet az 1223/2011. (VI. 29.) Korm. határozat 2. pontjával megállapított, az 1258/2012. (VII. 26.) Korm. határozat 1. pontja, az 1399/2012. (IX. 25.) Korm. határozat 2. pontja, az 1420/2012. (X. 4.) Korm. határozat 1–3. pontja, az 1054/2013. (II. 13.) Korm. határozat 2. pontja, az 1170/2013. (IV. 5.) Korm.határozat 2. pontja, az 1786/2013. (XI. 4.) Korm. határozat 1–2. pontja szerint módosított szöveg.
+[^2]: A 2. számú melléklet az 1223/2011. (VI. 29.) Korm. határozat 2. pontjával megállapított, az 1258/2012. (VII. 26.) Korm. határozat 1. pontja, az 1399/2012. (IX. 25.) Korm. határozat 2. pontja, az 1420/2012. (X. 4.) Korm. határozat 1–3. pontja, az 1054/2013. (II. 13.) Korm. határozat 2. pontja, az 1170/2013. (IV. 5.) Korm.határozat 2. pontja, az 1352/2013. (VI. 21.) Korm. határozat 3–4. pontja szerint módosított szöveg.
