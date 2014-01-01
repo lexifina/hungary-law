@@ -1,3 +1,3 @@
-10/G. §[^173]
+10/G. §[^178]
 
-[^173]: A Vhr. 10/G. §-át a 200/2006. (X. 2.) Korm. rendelet 3. §-a iktatta be, hatályon kívül helyezte a 288/2006. (XII. 23.) Korm. rendelet 10. § (4) bekezdése.
+[^178]: A Vhr. 10/G. §-át a 200/2006. (X. 2.) Korm. rendelet 3. §-a iktatta be, hatályon kívül helyezte a 288/2006. (XII. 23.) Korm. rendelet 10. § (4) bekezdése.

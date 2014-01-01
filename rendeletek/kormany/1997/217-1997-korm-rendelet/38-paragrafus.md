@@ -1,4 +1,4 @@
-38. §[^427] (1) Ha a foglalkoztatónál kifizetőhely nincs, a foglalkoztató a terhességi-gyermekágyi segélyre, a gyermekgondozási díjra, a táppénzre, a baleseti táppénzre vonatkozó kérelem elbírálásához „Foglalkoztatói igazolás”-t állít ki, és azt a biztosított által benyújtott igazolásokkal együtt – terhességi-gyermekágyi segély iránti kérelem esetén a „Nyilatkozat terhességi-gyermekágyi segély megállapításához”, gyermekgondozási díj iránti kérelem esetén az „Igénybejelentés gyermekgondozási díjra” elnevezésű nyomtatvánnyal – öt napon belül a (4) bekezdésben foglaltaknak megfelelően a székhelye (telephelye) szerint illetékes egészségbiztosítási pénztári szakigazgatási szervnek megküldi. A foglalkoztató a kérelem, illetve igazolások átvételét, beérkezését hitelt érdemlő módon köteles igazolni.
+38. §[^444] (1) Ha a foglalkoztatónál kifizetőhely nincs, a foglalkoztató a terhességi-gyermekágyi segélyre, a gyermekgondozási díjra, a táppénzre, a baleseti táppénzre vonatkozó kérelem elbírálásához „Foglalkoztatói igazolás”-t állít ki, és azt a biztosított által benyújtott igazolásokkal együtt – terhességi-gyermekágyi segély iránti kérelem esetén a „Nyilatkozat terhességi-gyermekágyi segély megállapításához”, gyermekgondozási díj iránti kérelem esetén az „Igénybejelentés gyermekgondozási díjra” elnevezésű nyomtatvánnyal – öt napon belül a (4) bekezdésben foglaltaknak megfelelően a székhelye (telephelye) szerint illetékes egészségbiztosítási pénztári szakigazgatási szervnek megküldi. A foglalkoztató a kérelem, illetve igazolások átvételét, beérkezését hitelt érdemlő módon köteles igazolni.
 
 (2) Ha a foglalkoztatónál kifizetőhely működik, a foglalkoztató a terhességi-gyermekágyi segélyre, a gyermekgondozási díjra, a táppénzre, a baleseti táppénzre vonatkozó kérelem elbírálásához a biztosított által benyújtott igazolásokat öt napon belül a kifizetőhely részére megküldi. A foglalkoztató a kérelem, illetve igazolások átvételét, beérkezését hitelt érdemlő módon köteles igazolni.
 
@@ -12,7 +12,7 @@
 
 a) a biztosítási időt a 37. § szerint kiállított Igazolvánnyal, és
 
-b) amennyiben a biztosított a 2014. május 11-ét megelőzően született gyermekére tekintettel igényel terhességi-gyermekágyi segélyt vagy gyermekgondozási díjat, az ellátás alapját képező jövedelmet a 37/A. § szerint kiállított jövedelemigazolással
+b)[^445] amennyiben a biztosított a 2015. január 1-jét megelőzően született gyermekére tekintettel igényel terhességi-gyermekágyi segélyt vagy gyermekgondozási díjat, az ellátás alapját képező jövedelmet a 37/A. § szerint kiállított jövedelemigazolással
 
 kell igazolni, melyet a foglalkoztató a „Foglalkoztatói igazolás”-sal, az egyéni vállalkozó pedig a kérelemmel együtt köteles benyújtani.
 
@@ -22,8 +22,19 @@ kell igazolni, melyet a foglalkoztató a „Foglalkoztatói igazolás”-sal, az
 
 (9) Amennyiben a jövedelemigazolással kapcsolatos hiánypótlási eljárás nem vezet eredményre, úgy a terhességi-gyermekágyi segély, illetve a gyermekgondozási díj összegének megállapítása érdekében a NAV-tól kell a szükséges jövedelem adatokat beszerezni.
 
-(10) Az Ebtv. 82/F. § (1) bekezdése alapján a 2014. május 11-ét megelőzően született gyermekekre tekintettel igényelt és megállapított terhességi-gyermekágyi segély vagy gyermekgondozási díj esetében az ellátás összegét a 2013. július 15-e előtt hatályos, valamint a 2013. július 14-e után hatályos jogszabályok alapján is meg kell állapítani, és a biztosított részére a magasabb összegű ellátást kell folyósítani.
+(10)[^446] Az Ebtv. 82/F. § (1) bekezdése alapján a 2015. január 1-jét megelőzően született gyermekekre tekintettel igényelt és megállapított terhességi-gyermekágyi segély vagy gyermekgondozási díj esetében az ellátás összegét a 2013. július 15-e előtt hatályos, valamint a 2013. július 14-e után hatályos jogszabályok alapján is meg kell állapítani, és a biztosított részére a magasabb összegű ellátást kell folyósítani.
 
 (11) Az Ebtv. 39/B. §-a, 52/A. §-a és 55/A. §-a szerinti előleget a jogosultság kezdő napján érvényes minimálbér alapulvételével kell megállapítani, kivéve, ha a rendelkezésre álló adatok alapján a jövedelem összege a minimálbér összegét nem éri el, ebben az esetben a rendelkezésre álló adatok alapján kell az előleget megállapítani.
 
-[^427]: A Vhr. 38. §-a a 254/2013. (VII. 5.) Korm. rendelet 14. §-ával megállapított szöveg.
+(12)[^447] Az Ebtv. 42/E. §-a alapján igényelt gyermekgondozási díj esetén a kérelemhez csatolni kell az Ebtv. 42/E. § (1) bekezdés b) pontja szerinti hallgatói jogviszonyról a felsőoktatási intézmény által kiadott igazolást, valamint ha az igénylő valamely EGT tagállam állampolgára, akkor a magyarországi lakcíméről kiadott hatósági igazolvány másolatát is.
+
+(13)[^448] Az Ebtv. 42/E. §-a alapján megállapított gyermekgondozási díj esetén az (1)–(4) és a (6)–(11) bekezdésben foglaltakat akkor kell alkalmazni, ha a kérelmező a szülés napján biztosított.
+
+(14)[^449] Ha az igénylő az Ebtv. 42/E. §-a alapján kéri a gyermekgondozási díjat és a szülés napján nem biztosított, akkor az Ebtv. 61. § (5b) bekezdésében meghatározott nyomtatványhoz csatolni kell a (12) bekezdés szerinti igazolásokat.
+
+[^444]: A Vhr. 38. §-a a 254/2013. (VII. 5.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^445]: A Vhr. 38. § (6) bekezdés b) pontja az 520/2013. (XII. 30.) Korm. rendelet 19. § j) pontja szerint módosított szöveg.
+[^446]: A Vhr. 38. § (10) bekezdése az 520/2013. (XII. 30.) Korm. rendelet 19. § k) pontja szerint módosított szöveg.
+[^447]: A Vhr. 38. § (12) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 15. §-a iktatta be.
+[^448]: A Vhr. 38. § (13) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 15. §-a iktatta be.
+[^449]: A Vhr. 38. § (14) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 15. §-a iktatta be.

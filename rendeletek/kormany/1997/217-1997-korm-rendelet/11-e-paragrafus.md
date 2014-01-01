@@ -1,10 +1,10 @@
-11/E. §[^234] (1)[^235] A kérelem elbírálása során az OEP a beteg kórtörténete, a betegség súlyossága, a kérelemben megjelölt gyógyszer vagy gyógyászati segédeszköz kérelmező általi használatának orvosszakmai indokoltsága, költsége és költséghatékonysága, valamint a várható egészségnyereség alapján, a kórkép előfordulási gyakoriságának a figyelembevételével, az OEP által felkért illetékes szakorvos véleményének ismeretében dönt.
+11/E. §[^242] (1)[^243] A kérelem elbírálása során az OEP a beteg kórtörténete, a betegség súlyossága, a kérelemben megjelölt gyógyszer vagy gyógyászati segédeszköz kérelmező általi használatának orvosszakmai indokoltsága, költsége és költséghatékonysága, valamint a várható egészségnyereség alapján, a kórkép előfordulási gyakoriságának a figyelembevételével, az OEP által felkért illetékes szakorvos véleményének ismeretében dönt.
 
 (2) A kérelem elbírálásakor figyelemmel kell lenni a támogatással rendelhető komparátor technológiákra, valamint arra, hogy a kérelmező azokkal miért nem látható el.
 
 (3) A kérelmezett gyógyszerár-támogatás megállapítása bármely kérelmező esetében első alkalommal legfeljebb egy évre történhet.
 
-(4)[^236]
+(4)[^244]
 
 (5) A 11/D. § (2) bekezdése alapján megjelölt közforgalmú gyógyszertár működésének ideiglenes szünetelése, illetve megszűnése esetén a gyógyszertár vezetője
 
@@ -18,6 +18,6 @@ b) értesíti a beteg választása szerinti, ennek hiányában a legközelebbi k
 
 (6) A kérelem elbírálását követően a beteg a 11/D. § (2) bekezdése alapján megjelölt gyógyszertár, illetve gyógyászati segédeszköz gyártó vagy forgalmazó helyett indokolt esetben az OEP részére történő bejelentést követően másikat jelölhet meg.
 
-[^234]: A Vhr. 11/E. §-t a 130/2003. (VIII. 22.) Korm. rendelet 2. §-a iktatta be, szövege a 336/2009. (XII. 29.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^235]: A Vhr. 11/E. § (1) bekezdése a 447/2012. (XII. 29.) Korm. rendelet 18. § f) pontja szerint módosított szöveg.
-[^236]: A Vhr. 11/E. § (4) bekezdését a 447/2012. (XII. 29.) Korm. rendelet 18. § g) pontja hatályon kívül helyezte.
+[^242]: A Vhr. 11/E. §-t a 130/2003. (VIII. 22.) Korm. rendelet 2. §-a iktatta be, szövege a 336/2009. (XII. 29.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^243]: A Vhr. 11/E. § (1) bekezdése a 447/2012. (XII. 29.) Korm. rendelet 18. § f) pontja szerint módosított szöveg.
+[^244]: A Vhr. 11/E. § (4) bekezdését a 447/2012. (XII. 29.) Korm. rendelet 18. § g) pontja hatályon kívül helyezte.
