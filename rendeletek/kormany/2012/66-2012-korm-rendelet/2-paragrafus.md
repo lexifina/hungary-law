@@ -12,8 +12,11 @@ d) kábítószernek és pszichotróp anyagnak az egészségügyi szolgáltató, 
 
 e) az engedélyesnél, a nyilvántartásba vett bejelentőnél, továbbá az egészségügyi szolgáltatónál végzett rendészeti ellenőrzésre, valamint
 
-f) kábítószerekkel és pszichotróp anyagokkal, valamint új pszichoaktív anyagokkal végzett klinikai vizsgálatok és orvostudományi, valamint tudományos célú kutatások engedélyezésére.
+f) kábítószerekkel és pszichotróp anyagokkal, valamint új pszichoaktív anyagokkal végzett klinikai vizsgálatok és orvostudományi, valamint tudományos célú kutatások engedélyezésére,
+
+g)[^4] az új pszichoaktív anyagok C) jegyzékéről törölt azon anyagokra, amelyek a D) jegyzéken szerepelnek.
 
 (2) E rendelet hatálya az (1) bekezdés d)–f) pontjában meghatározott eljárásokon túl az egészségügyi szolgáltatókra akkor terjed ki, ha e rendelet kifejezetten így rendelkezik.
 
 [^3]: A 2. § a 254/2013. (VII. 5.) Korm. rendelet 47. §-ával megállapított szöveg.
+[^4]: A 2. § (1) bekezdés g) pontját az 520/2013. (XII. 30.) Korm. rendelet 87. §-a iktatta be.

@@ -16,13 +16,13 @@ a) a kérdéses anyag kiválthat-e függőségi állapotot és a központi idegr
 
 b) okkal feltételezhető-e, hogy az anyag közegészségügyi és szociális problémát jelentő olyan visszaélésre ad vagy adhat lehetőséget, amely indokolja annak a GyT. Mellékletébe történő felvételét.
 
-(7)[^33] Az OAC a kockázatértékelés eredményére figyelemmel kezdeményezi a miniszternél
+(7)[^38] Az OAC a kockázatértékelés eredményére figyelemmel kezdeményezi a miniszternél
 
 a) a kockázatértékelés idejének egy évvel történő meghosszabbítását, vagy
 
 b) az anyagnak a GyT. Mellékletébe történő felvételét, vagy
 
-c) az anyagnak az 1. melléklet C) jegyzékéről történő törlését.
+c)[^39] az anyagnak az 1. melléklet C) jegyzékéről történő törlését és az 1. melléklet D) jegyzékére történő áthelyezését.
 
 (8) Amennyiben valamely, az 1. melléklet C) jegyzékén szereplő vegyületcsoporthoz tartozó anyag a GyT. Mellékletébe vagy az 1. melléklet más jegyzékére felvételre kerül, a C) jegyzéken a vegyületcsoport mellett ezen anyag kivételként kerül feltüntetésre.
 
@@ -30,4 +30,5 @@ c) az anyagnak az 1. melléklet C) jegyzékéről történő törlését.
 
 (10) Nem alkalmazható a Gytv. 15/C. § (2) bekezdése szerinti kockázatértékelési kötelezettség az 1. melléklet C) jegyzékére felkerült vegyületcsoportok vonatkozásában. A vegyületcsoport mindaddig a C) jegyzéken marad, amíg van olyan, a vegyületcsoporthoz tartozó anyag, amely esetében fennállnak a (4) bekezdésben foglalt feltételek, vagy nem szerepel valamennyi anyag valamely más jegyzéken.
 
-[^33]: A 27. § (7) bekezdése a 447/2012. (XII. 29.) Korm. rendelet 78. § (3) bekezdésével megállapított szöveg.
+[^38]: A 27. § (7) bekezdése a 447/2012. (XII. 29.) Korm. rendelet 78. § (3) bekezdésével megállapított szöveg.
+[^39]: A 27. § (7) bekezdés c) pontja az 520/2013. (XII. 30.) Korm. rendelet 90. §-ával megállapított szöveg.

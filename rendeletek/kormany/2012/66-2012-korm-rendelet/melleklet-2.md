@@ -442,6 +442,8 @@
 
 | 55 | 4- MA, 4- methylamphetamine (4-metilamfetamin) | 1-(4-methylphenyl)propan-2-amine |
 
+| 56 | 5-IT | 5-(2-aminopropyl)indole |
+
 ## – és az ebben a jegyzékben felsorolt anyagok sztereoizomerjei, amennyiben kémiai szerkezetük alapján azok léteznek, és nem esnek kifejezett kivételes rendelkezés alá;
 
 ## – és az ebben a jegyzékben felsorolt anyagok sói, beleértve a fent említett sztereoizomerek sóit, amennyiben ilyen sók léteznek.
@@ -476,7 +478,7 @@
 
 | 8 | Fenetylline (fenetillin) | 7-[2-[(α-methylphenethyl)amino]ethyl]theophylline |
 
-| 9 | GHB** (gamma-hidroxi-vajsav) | γ-hydroxybutyric acid |
+| 9 | GHB (gamma-hidroxi-vajsav) | γ-hydroxybutyric acid |
 
 | 10 | Ketamine*** (ketamin) | 2-(2-chlorophenyl)-2-(methylamino)-cyclohexanone |
 
@@ -925,6 +927,8 @@
 ## – és az ebben a jegyzékben felsorolt anyagok sztereoizomerjei, amennyiben kémiai szerkezetük alapján azok léteznek;
 
 ## – az ebben a jegyzékben felsorolt anyagok sói, beleértve a fent említett sztereoizomerek sóit, amennyiben ilyen sók léteznek.
+
+## D) A C) JEGYZÉKRŐL ÁTHELYEZETT ANYAGOK JEGYZÉKE
 
 2. melléklet a 66/2012. (IV. 2.) Korm. rendelethez
 
