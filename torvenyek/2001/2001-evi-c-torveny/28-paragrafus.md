@@ -12,7 +12,9 @@ b) a kutatás céljából tartózkodási engedéllyel rendelkező harmadik orsz�
 
 c) a bevándorolt, illetve letelepedett jogállású személy, valamint
 
-d) a magas szintű képzettséget igénylő munkavállalás és tartózkodás céljából kiállított engedéllyel (EU Kék Kártyával) rendelkező harmadik országbeli állampolgár.
+d) a magas szintű képzettséget igénylő munkavállalás és tartózkodás céljából kiállított engedéllyel (EU Kék Kártyával) rendelkező harmadik országbeli állampolgár,
+
+e) az összevont engedéllyel rendelkező harmadik országbeli állampolgár.
 
 (3) Szabályozott szakmának minősül az olyan szakmai tevékenység vagy szakmai tevékenységek csoportja, amelynek a megkezdését, folytatását vagy meghatározott módon történő folytatását jogszabály, közvetlenül vagy közvetve, meghatározott szakmai képesítés birtoklásához köti, továbbá, amelyet külön jogszabály szabályozott szakmának minősít. A szakma meghatározott módon történő gyakorlásának minősül különösen az, ha jogszabály meghatározott szakmai cím használatát meghatározott képesítés birtoklásához köti.
 
