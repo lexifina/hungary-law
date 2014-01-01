@@ -10,7 +10,7 @@
 
 (5) Az utazási kedvezmény csak egy jogcímen vehető igénybe.
 
-(6) A vasúti személyszállításban az utazási kedvezmények – az e rendeletben meghatározott kivételekkel – 2. kocsiosztályra érvényesek. Az utazási kedvezmény a helyjegyre, valamint pótjegyre nem vonatkozik, kivéve a 3 év alatti, külön ülőhelyet nem foglaló gyermeket, valamint a hadirokkant személyeket, igazolt esetben kísérőjét és a hadiözvegyeket.
+(6)[^3] A vasúti személyszállításban az utazási kedvezmények – az e rendeletben meghatározott kivételekkel – a 2. kocsiosztályra érvényesek. Az utazási kedvezmény a helyjegyre, valamint a pótjegyre nem vonatkozik, kivéve a 3 év alatti, külön ülőhelyet nem foglaló gyermeket, valamint a hadirokkant személyt és igazolt esetben kísérőjét, a hadiözvegyet, valamint a pótjegy tekintetében a menekültként vagy oltalmazottként elismerését kérő, a menedékesként elismerését kérő személyt.
 
 (7) A helyközi közlekedésben az 1. mellékletben meghatározott utazási kedvezmények valamennyi helyközi belföldi, menetrend szerinti személyszállítási szolgáltatás (vasúti, helyközi autóbusz, HÉV, elővárosi autóbusz, komp és rév) során igénybe vehetőek.
 
@@ -18,3 +18,4 @@
 
 [^1]: Az 1. § (2) bekezdése a 304/2011. (XII. 23.) Korm. rendelet 27. §-a szerint módosított szöveg.
 [^2]: Az 1. § (4) bekezdését a 120/2012. (VI. 26.) Korm. rendelet 2. §-a hatályon kívül helyezte.
+[^3]: Az 1. § (6) bekezdése a 446/2013. (XI. 28.) Korm. rendelet 38. §-ával megállapított szöveg.
