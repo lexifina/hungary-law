@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-93-20-2
 | 2013-06-25 | 2002-93-20-22.14 | 226/2013. (VI. 24.) Korm. rendelet |
 | 2013-07-01 | 2002-93-20-22.15 | 226/2013. (VI. 24.) Korm. rendelet |
 | 2013-11-13 | 2002-93-20-22.16 | 357/2012. (XII. 13.) Korm. rendelet |
+| 2014-01-01 | 2002-93-20-22.17 | 518/2013. (XII. 30.) Korm. rendelet |

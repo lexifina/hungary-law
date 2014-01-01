@@ -1,4 +1,4 @@
-13. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^135]
+13. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^150]
 
 ADATLAP
 
@@ -46,4 +46,4 @@ k) a kiadvány terjedelme (ív, oldalszám).
 
 5. Cégszerű aláírás
 
-[^135]: A 13. számú mellékletet a 357/2012. (XII. 13.) Korm. rendelet 15. § (4) bekezdése iktatta be.
+[^150]: A 13. számú mellékletet a 357/2012. (XII. 13.) Korm. rendelet 15. § (4) bekezdése iktatta be.
