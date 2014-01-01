@@ -4,7 +4,7 @@
 
 ## 15. A bejelentés megtétele
 
-32. § (1) Vasútbiztonsági engedély birtokában a 4. mellékletben felsorolt tevékenységek megkezdését a vasúti közlekedési hatóság, továbbá a 4. melléklet a) pont ae)–ag) alpontjában, c) pont ca)–cb), valamint ce)–cg) alpontjában meghatározott esetekben a tevékenység helye szerint illetékes környezetvédelmi hatóság részére is be kell jelenteni.
+32. § (1)[^7] Vasútbiztonsági engedély birtokában a 4. mellékletben felsorolt tevékenységek megkezdését a vasúti közlekedési hatóság, továbbá a 4. melléklet a) pont ae)–ag) alpontjában, c) pont ca)–cb), valamint ce)–cf) alpontjában meghatározott esetekben a tevékenység helye szerint illetékes környezetvédelmi és természetvédelmi felügyelőség részére is be kell jelenteni.
 
 (2) Az építési és a bontási bejelentés megtételétől számított egy évig folytatható a bejelentett tevékenység.
 
@@ -32,7 +32,7 @@ i) az eljárási illeték vagy igazgatási szolgáltatási díj megfizetésének
 
 (5) A tervezői nyilatkozat tartalmazza
 
-a)[^7] az építtető nevét, jogi személy megnevezését,
+a)[^8] az építtető nevét, jogi személy megnevezését,
 
 b) a felelős tervező nevét, címét, jogosultsága számát,
 
@@ -46,4 +46,5 @@ cc) rövid leírását, jellemzőit.
 
 (6) A felelős műszaki vezetői nyilatkozat az építőipari kivitelezési tevékenységről szóló kormányrendeletben meghatározottakat tartalmazza.
 
-[^7]: A 32. § (5) bekezdés a) pontja a 358/2013. (X. 9.) Korm. rendelet 5. § (11) bekezdése szerint módosított szöveg.
+[^7]: A 32. § (1) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 120. § (1) bekezdésével megállapított szöveg.
+[^8]: A 32. § (5) bekezdés a) pontja a 358/2013. (X. 9.) Korm. rendelet 5. § (11) bekezdése szerint módosított szöveg.

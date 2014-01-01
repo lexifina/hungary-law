@@ -6,7 +6,7 @@
 
 ## b) amennyiben jogszabály előírja, független tanúsító szervezet tanúsítása;
 
-## c)[^27] amennyiben független tanúsító szervezet tanúsítása nem előírt, mérési eredményeken, bizonylatokon, minőségi bizonyítványokon alapuló összefoglaló jelentés arról, hogy megvalósult vasúti építmény műszaki paraméterei az engedélyezési dokumentációban előírt feltételeknek megfelelnek (a jelentésnek ki kell terjednie a rendszerelemek, alrendszerek, strukturális alrendszerek megfelelőségére és minőségére vonatkozó értékelésére, valamint az építési termékek teljesítményére);
+## c)[^29] amennyiben független tanúsító szervezet tanúsítása nem előírt, mérési eredményeken, bizonylatokon, minőségi bizonyítványokon alapuló összefoglaló jelentés arról, hogy megvalósult vasúti építmény műszaki paraméterei az engedélyezési dokumentációban előírt feltételeknek megfelelnek (a jelentésnek ki kell terjednie a rendszerelemek, alrendszerek, strukturális alrendszerek megfelelőségére és minőségére vonatkozó értékelésére, valamint az építési termékek teljesítményére);
 
 ## d) a vágányok melletti és fölötti létesítményeknek a vágánytengelytől és a sínkorona-szinttől mért távolságait, valamint a szabadon tartott tér felmérését tartalmazó jegyzőkönyv;
 
@@ -110,7 +110,7 @@
 
 ## c) geotechnikai szakvélemény.
 
-## 3.3.[^28] Biztosítóberendezés, automatikus vonatvezérlés, vonat befolyásolás és központi forgalomirányító berendezés:
+## 3.3.[^30] Biztosítóberendezés, automatikus vonatvezérlés, vonat befolyásolás és központi forgalomirányító berendezés:
 
 ## a) a vasút üzemeltetője által jóváhagyott Kezelési Szabályzat;
 
@@ -178,7 +178,7 @@
 
 ## 4. Helyhez kötött gépészeti berendezések
 
-## 4.1.[^29] Vasúti rakodó-berendezés (vasúti kocsi töltőlefejtő berendezés, rakodódaru, kocsibuktató, oldal- és homlokrakodó, egyéb beépített rakodó- és szállítógép és berendezés) és a vasúti járműmosó berendezések:
+## 4.1.[^31] Vasúti rakodó-berendezés (vasúti kocsi töltőlefejtő berendezés, rakodódaru, kocsibuktató, oldal- és homlokrakodó, egyéb beépített rakodó- és szállítógép és berendezés) és a vasúti járműmosó berendezések:
 
 ## a) a vasúti pálya szintezési jegyzőkönyve, nyomtávmérési jegyzőkönyve;
 
@@ -230,7 +230,7 @@
 
 ## d) a fénytechnikai felülvizsgálati jegyzőkönyv, vagy állapotterv.
 
-## 4.5.[^30] Egyéb vasútgépészeti berendezés (vágányba épített, vagy a vasúti pálya mellé telepített diagnosztikai berendezések, vasútüzemi létesítményekhez kapcsolódó gépészeti berendezések):
+## 4.5.[^32] Egyéb vasútgépészeti berendezés (vágányba épített, vagy a vasúti pálya mellé telepített diagnosztikai berendezések, vasútüzemi létesítményekhez kapcsolódó gépészeti berendezések):
 
 ## a) a vasúti pálya szintezési jegyzőkönyve, nyomtávmérési jegyzőkönyve;
 
@@ -330,7 +330,7 @@ b) területrendezésre és újrahasznosításra vonatkozó tervek;
 
 c) műszaki leírás.
 
-[^27]: A 2. melléklet 1. pont c) alpontja a 328/2013. (IX. 3.) Korm. rendelet 24. § (2) bekezdése szerint módosított szöveg.
-[^28]: A 2. melléklet 3.3. pontja a 358/2013. (X. 9.) Korm. rendelet 5. § (8) bekezdésével megállapított szöveg.
-[^29]: A 2. melléklet 4.1. pont nyitó szövegrésze a 358/2013. (X. 9.) Korm. rendelet 5. § (8) bekezdése szerint módosított szöveg.
-[^30]: A 2. melléklet 4.5. pontját a 358/2013. (X. 9.) Korm. rendelet 5. § (8) bekezdése iktatta be.
+[^29]: A 2. melléklet 1. pont c) alpontja a 328/2013. (IX. 3.) Korm. rendelet 24. § (2) bekezdése szerint módosított szöveg.
+[^30]: A 2. melléklet 3.3. pontja a 358/2013. (X. 9.) Korm. rendelet 5. § (8) bekezdésével megállapított szöveg.
+[^31]: A 2. melléklet 4.1. pont nyitó szövegrésze a 358/2013. (X. 9.) Korm. rendelet 5. § (8) bekezdése szerint módosított szöveg.
+[^32]: A 2. melléklet 4.5. pontját a 358/2013. (X. 9.) Korm. rendelet 5. § (8) bekezdése iktatta be.

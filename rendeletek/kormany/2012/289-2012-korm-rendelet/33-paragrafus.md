@@ -1,5 +1,6 @@
-33. §[^8] (1) A bejelentést legkésőbb a tevékenység tervezett megkezdésekor – a 32. § (1) bekezdésében meghatározott, a környezetvédelmi hatóság hatáskörébe tartozó esetekben a tevékenység tervezett megkezdését legalább tizenöt nappal megelőzően – kell megtenni.
+33. §[^9] (1)[^10] A bejelentést legkésőbb a tevékenység tervezett megkezdésekor – a 32. § (1) bekezdésében meghatározott, a környezetvédelmi és természetvédelmi felügyelőség, valamint a területi vízügyi hatóság hatáskörébe tartozó esetekben a tevékenység tervezett megkezdését legalább tizenöt nappal megelőzően – kell megtenni.
 
 (2) Az építtető 15 napon belül köteles bejelenteni a vasúti közlekedési hatóságnak a bejelentett tevékenység befejezését.
 
-[^8]: A 33. § a 358/2013. (X. 9.) Korm. rendelet 5. § (5) bekezdésével megállapított szöveg.
+[^9]: A 33. § a 358/2013. (X. 9.) Korm. rendelet 5. § (5) bekezdésével megállapított szöveg.
+[^10]: A 33. § (1) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 120. § (2) bekezdése szerint módosított szöveg.
