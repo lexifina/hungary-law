@@ -1,6 +1,6 @@
-## 50. §[^159]
+## 50. §[^161]
 
-1. melléklet a 7/2006. (III. 21.) HM rendelethez[^160]
+1. melléklet a 7/2006. (III. 21.) HM rendelethez[^162]
 
 TÁBLÁZAT ÉS MAGYARÁZAT A BETEGSÉGEK ÉS FOGYATÉKOSSÁGOK EGÉSZSÉGI ALKALMASSÁGI FOKOZATÁNAK MEGÁLLAPÍTÁSÁHOZ
 
@@ -2444,27 +2444,5 @@ d) K: 1, 6, 8; F: 0.
 
 e) Egyes esetekben, mint pl. a szolgálati feladat teljesítése közben egy nagy súly megemelése hatására kialakuló sérv esetén felmerülhet a katonai kötelmekkel való összefüggés lehetősége.
 
-| 114 Nem fertőző eredetű idült vékony- és vastagbélhurut | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
-
-| a | b | c | d |
-
-| 1. | enyhe formák | E | E | E | KLGS | KLGS | A | E | A | A | K50–K52 |
-
-| 2. | kp. súlyos formák | E | E | E | E | E | K | E | KLGS | K |
-
-| 3. | súlyos formák, valamint Crohn-betegség és colitis ulcerosa enyhe esetei | E | E | E | E | E | KLGS | E | KLGS | KLGS |
-
-| 4. | Crohn-betegség és colitis ulcerosa súlyos esetei | E | E | E | E | E | E | E | E | KLGS |
-
-a) Enteritis regionalis, proctocolitis idiopathica ulcerosa, enterocolitis chronica, egyéb nem fertőző eredetű gyomor-, bél- és vastagbélhurut.
-
-b) A rutin laboratóriumi vizsgálatokon kívül széklet Weber, a széklet bacteriológiai, protozoon és féregpete vizsgálata, végbéltükrözés, sz. sz. biopsiás mintavétellel, beöntéses vastagbélröntgen, gyomor- és bélröntgen, bizonyos meghatározott esetekben és időben vastagbéltükrözés.
-
-c) Az enyhe formák gyakran functionális eredetűek, elsősorban panaszokkal és kevés kóros vagy negatív vizsgálati eredménnyel járnak. Közepesen súlyos formáknál a panaszok mellett főleg bélpasszázs-zavarok mutathatók ki a bélfal szervi elváltozásai nélkül. A súlyosabb formák esetében a bélfal szervi károsodása röntgennel vagy szükség esetén vastagbéltükrözéssel mutatható ki. A Crohn-betegség és a colitis ulcerosa enyhe esetei passzázszavart nem okoznak, műtétet nem igényelnek és gyógyszerrel kezelhetők. A súlyos formákhoz testi leromlás, passzázszavar, műtét igénye és septicus állapot tartozik. Hivatásos és szerződéses állományba vételkor a 114.1/A3 a minősítés „E”.
-
-d) K: 4, 6, 11–12, 14–15, 16; F: 1–2, 6.
-
-e) Katonai kötelmekkel való összefüggés nem ismerhető el.
-
-[^159]: Az 50. §-t a 118/2008. (V. 8.) Korm. rendelet 13. §-ának 34. pontja hatályon kívül helyezte.
-[^160]: Az 1. melléklet a 13/2009. (VIII. 26.) HM rendelet 35. §-a és 42. § (2) bekezdésének d) pontja, a 16/2012. (VIII. 2.) HM rendelet 45. § (1) bekezdése szerint módosított szöveg. [A 13/2009. (VIII. 26.) HM rendelet 35. § (87) bekezdése 107/A. táblázatot iktatott be az 1. számú mellékletbe, azonban annak számozása 107. táblázatként szerepel a módosító rendeletben.]
+[^161]: Az 50. §-t a 118/2008. (V. 8.) Korm. rendelet 13. §-ának 34. pontja hatályon kívül helyezte.
+[^162]: Az 1. melléklet a 13/2009. (VIII. 26.) HM rendelet 35. §-a és 42. § (2) bekezdésének d) pontja, a 16/2012. (VIII. 2.) HM rendelet 45. § (1) bekezdése szerint módosított szöveg. [A 13/2009. (VIII. 26.) HM rendelet 35. § (87) bekezdése 107/A. táblázatot iktatott be az 1. számú mellékletbe, azonban annak számozása 107. táblázatként szerepel a módosító rendeletben.]

@@ -8,7 +8,7 @@
 
 ## A rendelet hatálya
 
-1. §[^1] (1) A rendelet hatálya kiterjed
+1. §[^2] (1) A rendelet hatálya kiterjed
 
 a) a hivatásos és szerződéses, valamint az önkéntes tartalékos katonai szolgálatra jelentkezőre (önkéntes tartalékos I., II., III., IV.,) (a továbbiakban együtt: katonai szolgálatra jelentkező),
 
@@ -18,4 +18,4 @@ c) a honvéd tisztjelöltnek jelentkezőre, a honvéd altiszt-jelöltnek jelentk
 
 (2) A rendelet hatálya nem terjed ki a címzetes önkéntes tartalékosokra.
 
-[^1]: Az 1. § a 16/2012. (VIII. 2.) HM rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. § a 16/2012. (VIII. 2.) HM rendelet 1. §-ával megállapított szöveg.

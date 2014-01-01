@@ -1,6 +1,6 @@
-## Az önkéntes tartalékos katonai állományba jelentkező alkalmassági előszűrése[^70]
+## Az önkéntes tartalékos katonai állományba jelentkező alkalmassági előszűrése[^71]
 
-19/C. §[^71] (1) Az önkéntes tartalékos katonai állományba jelentkező alkalmasság-vizsgálatát, előszűrés formájában az MH egészségügyi főnöke által a vizsgálat végrehajtására kijelölt csapatorvosi rendelő orvosa, illetve a MH Honvédkórház szervezeti egységének alkalmasságvizsgáló orvosa végzi.
+19/C. §[^72] (1) Az önkéntes tartalékos katonai állományba jelentkező alkalmasság-vizsgálatát, előszűrés formájában az MH egészségügyi főnöke által a vizsgálat végrehajtására kijelölt csapatorvosi rendelő orvosa, illetve a MH Honvédkórház szervezeti egységének alkalmasságvizsgáló orvosa végzi.
 
 (2) Az (1) bekezdés szerinti alkalmassági vizsgálat, illetve minősítés a szerződésben kikötött próbaidőre érvényes.
 
@@ -52,5 +52,5 @@ b) „Nem javasolt önkéntes tartalékos katonaként próbaidőre az MH ideigle
 
 (9) Annál az önkéntes katonai állományba jelentkező személynél, akinek a szerződéskötéstől számított 1 éven belül az MH Honvédkórház alkalmasság-vizsgáló intézetei által kiállított alkalmassági véleménye van, vagy részt vett 1 éven belül a kötelező katona orvosi szűrésen és érvényes fizikai állapotfelméréssel rendelkezik, nem szükséges előszűrést és alkalmasság-vizsgálatot végezni.
 
-[^70]: A 19/C. §-t megelőző alcímet a 16/2012. (VIII. 2.) HM rendelet 14. §-a iktatta be.
-[^71]: A 19/C. §-t a 16/2012. (VIII. 2.) HM rendelet 14. §-a iktatta be.
+[^71]: A 19/C. §-t megelőző alcímet a 16/2012. (VIII. 2.) HM rendelet 14. §-a iktatta be.
+[^72]: A 19/C. §-t a 16/2012. (VIII. 2.) HM rendelet 14. §-a iktatta be.

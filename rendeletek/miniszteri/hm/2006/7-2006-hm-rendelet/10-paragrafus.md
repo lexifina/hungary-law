@@ -38,11 +38,11 @@ e) 0–30% esetén „Nem megfelelő” (I.).
 
 (7) A pszichikai alkalmasság elbírálásakor az 5. melléklet szerinti részletes pszichikai követelményeket és az ezzel kapcsolatos munkaköri HM rendelet pszichikai követelményekre vonatkozó előírásait kell alkalmazni.
 
-(8)[^19] A pszichikailag alkalmas minősítés egy évig érvényes. A pszichikai alkalmasság ismételt vizsgálatát egy éven belül csak akkor kell elvégezni, ha az érvényes minősítés vizsgálati céljától eltérő vizsgálati célú vagy szigorúbb követelményszintű alkalmassági minősítésre kerül sor.
+(8)[^20] A pszichikailag alkalmas minősítés egy évig érvényes. A pszichikai alkalmasság ismételt vizsgálatát egy éven belül csak akkor kell elvégezni, ha az érvényes minősítés vizsgálati céljától eltérő vizsgálati célú vagy szigorúbb követelményszintű alkalmassági minősítésre kerül sor.
 
 (9) Ha a pszichikai alkalmasságot a 9. § (2) bekezdésének b), d) pontjai, illetőleg a 25. § alapján több rovat szerint is minősíteni szükséges, úgy e rovatok egyike szerint megállapított „pszichikai követelményeknek nem felelt meg” is elég a „pszichikai követelményeknek nem felelt meg” minősítés megállapításához.
 
-(10)[^20] A 4. § (1) bekezdés b)–d) pontjaiban meghatározott esetekben, valamint az 1. § (1) bekezdés c) pontjának hatálya alá tartozó személy hivatásos vagy szerződéses állományba vétele előtt a pszichikai alkalmasság megállapításához parancsnoki jellemzés szükséges.
+(10)[^21] A 4. § (1) bekezdés b)–d) pontjaiban meghatározott esetekben, valamint az 1. § (1) bekezdés c) pontjának hatálya alá tartozó személy hivatásos vagy szerződéses állományba vétele előtt a pszichikai alkalmasság megállapításához parancsnoki jellemzés szükséges.
 
-[^19]: A 10. § (8) bekezdése a 13/2009. (VIII. 26.) HM rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^20]: A 10. § (10) bekezdését a 13/2009. (VIII. 26.) HM rendelet 4. § (2) bekezdése iktatta be, szövege a 16/2012. (VIII. 2.) HM rendelet 39. § (1) bekezdése szerint módosított szöveg.
+[^20]: A 10. § (8) bekezdése a 13/2009. (VIII. 26.) HM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^21]: A 10. § (10) bekezdését a 13/2009. (VIII. 26.) HM rendelet 4. § (2) bekezdése iktatta be, szövege a 16/2012. (VIII. 2.) HM rendelet 39. § (1) bekezdése szerint módosított szöveg.
