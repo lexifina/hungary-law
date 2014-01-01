@@ -68,23 +68,23 @@
 
 | 6. vezető gondozó | 18. nevelő | 31. pszichológiai tanácsadó |
 
-| 7. családgondozó | 19. hivatásos nevelőszülő | 32. gyógytornász |
+| 7. családgondozó | 19. nevelőszülő | 32. gyógytornász |
 
 | 8. családgondozó asszisztens | 20. gyermekfelügyelő | 33. konduktor |
 
 | 9. utógondozó | 21. gyermekvédelmi ügyintéző | 34. munkaoktató |
 
-| 10. gondozási központ vezető | 22. nevelőszülői tanácsadó | 35. eseti gondnok |
+| 10. gondozási központ vezető | 22. nevelőszülői tanácsadó | 35. |
 
 | 11. klubvezető | 23. örökbefogadási tanácsadó | 36. hivatásos gondnok |
 
-| 12. mentálhigiénés munkatárs | 24. vagyonkezelő gondnok | 37. terápiás munkatárs |
+| 12. mentálhigiénés munkatárs | 24. gyermekvédelmi gyám | 37. terápiás munkatárs |
 
-|  | 25. gyámi, gondozói tanácsadó | 38. egyéb, éspedig: |
+|  | 25. gyermekgondozó | 38. egyéb, éspedig: |
 
 | 13.1. Jelenlegi munkáltatónál a munkaviszony kezdete: |  |  |  |  |  |  |  |  |  |
 
-## 13.2. A közalkalmazotti jogviszony, munkaviszony, hivatásos
+## 13.2. A közalkalmazotti jogviszony, munkaviszony,
 
 | nevelőszülői foglalkoztatási jogviszony létesítésének ideje, tevékenység kezdete: |  |  |  |  |  |  |  |  |  |
 
@@ -116,6 +116,6 @@
 
 ## **** Az 1/2000. (I. 7.) SZCSM rendelet 6. §-a és a 15/1998. (IV. 30.) NM rendelet 3. §-a alapján
 
-2. számú melléklet a 8/2000. (VIII. 4.) SZCSM rendelethez[^15]
+2. számú melléklet a 8/2000. (VIII. 4.) SZCSM rendelethez[^18]
 
-[^15]: A 2. számú melléklet a 16/2003. (IV. 9.) ESZCSM rendelet 19. §-ának b) pontjával megállapított szöveg.
+[^18]: A 2. számú melléklet a 16/2003. (IV. 9.) ESZCSM rendelet 19. §-ának b) pontjával megállapított szöveg.
