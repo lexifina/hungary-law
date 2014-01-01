@@ -1,1 +1,1 @@
-12/A. § A haszonbérlő – termelési integráció megvalósítása érdekében – a haszonbérbe adó hozzájárulásával megállapodhat más termőföldet használó személlyel, hogy a termőföld használatát határozott időre átengedi. A megállapodást és a haszonbérbe adó hozzájárulását írásba kell foglalni. A földhasználat átengedése – ha a felek másképpen nem rendelkeznek – nem érinti a haszonbérlőnek a haszonbérbe adóval szemben fennálló kötelezettségeit.
+12/A. §

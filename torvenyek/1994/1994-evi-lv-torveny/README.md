@@ -23,3 +23,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1994-55-00-00
 | 2013-08-01 | 2013. évi CXXXIII. törvény | 1994-55-00-00.50 |
 | 2013-11-01 | 2013. évi CLXIX. törvény | 1994-55-00-00.51 |
 | 2013-12-15 | 2013. évi CCXII. törvény | 1994-55-00-00.52 |
+| 2014-01-01 | 2013. évi CCXII. törvény | 1994-55-00-00.53 |
