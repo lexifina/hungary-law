@@ -66,7 +66,7 @@
 
 |  | állandó | – | 56 |
 
-6. számú melléklet a 31/2004. (XII. 30.) KvVM rendelethez[^19]
+6. számú melléklet a 31/2004. (XII. 30.) KvVM rendelethez[^20]
 
 [^*]: A tótipológia szempontjából időszakosnak tekinthetők az évente legalább egyszer kiszáradó asztatikus, illetve a hazai felmérési adatok alapján az ötévente legalább egyszer kiszáradó szemisztatikus állóvizek.
-[^19]: A 6. számú mellékletet a 34/2008. (XII. 31.) KvVM rendelet 5. § (3) bekezdése iktatta be.
+[^20]: A 6. számú mellékletet a 34/2008. (XII. 31.) KvVM rendelet 5. § (3) bekezdése iktatta be.

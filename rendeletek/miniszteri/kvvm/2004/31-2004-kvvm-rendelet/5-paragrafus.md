@@ -2,7 +2,7 @@
 
 5. § (1) A felszíni víztestek jellemzése során össze kell gyűjteni, és nyilván kell tartani a víztestet érő emberi eredetű terhelések jellegére és mértékére vonatkozó információkat, mérési eredményeket, különösen a következő terhelésekre tekintettel:
 
-a) a pontszerű és diffúz szennyezőforrások okozta terhelések, illetve szennyezések becslése, azonosítása a külön jogszabály[^4] előírásainak figyelembevételével,
+a) a pontszerű és diffúz szennyezőforrások okozta terhelések, illetve szennyezések becslése, azonosítása a külön jogszabály[^5] előírásainak figyelembevételével,
 
 b) a jelentős vízkivételek azonosítása és megfigyelése, beleértve a szezonális változékonyságot, az éves összes vízigényt,
 
@@ -18,4 +18,4 @@ f) a vízgyűjtőn folytatott területhasználat (így például a települési,
 
 (3) A kockázatos helyzetű víztestek esetében további feltáró, elemző vizsgálatok szükségesek az operatív monitorozó program megfelelő kialakításához és a szükséges intézkedési tervek kidolgozásához.
 
-[^4]: 219/2004. (VII. 21.) Korm. r., 220/2004. (VII. 21.) Korm. r.
+[^5]: 219/2004. (VII. 21.) Korm. r., 220/2004. (VII. 21.) Korm. r.
