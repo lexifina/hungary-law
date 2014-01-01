@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-6-20-06
 | --- | --- | --- |
 | 2009-08-09 | 2003-6-20-06.3 | 6/2003. (IV. 4.) IM–BM együttes rendelet |
 | 2010-04-03 | 2003-6-20-06.4 | 7/2010. (III. 19.) IRM rendelet |
+| 2014-01-01 | 2003-6-20-06.5 | 35/2013. (XII. 23.) KIM rendelet |
