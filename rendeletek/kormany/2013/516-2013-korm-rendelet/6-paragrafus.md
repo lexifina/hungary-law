@@ -1,0 +1,33 @@
+## 5. § Az R2. 10. §-a helyébe a következő rendelkezés lép:
+
+## „10. § (1) A kormánymegbízott minden év február 28. napjáig – a (4) bekezdésben meghatározott szervek bevonásával – a fővárosi és megyei kormányhivatal előző évi tevékenységéről szóló összegző beszámolót készít, amelyet megküld a fővárosi és megyei kormányhivatalok középirányító szerve részére.
+
+## (2) A fővárosi és megyei kormányhivatalok középirányító szerve minden év április 30. napjáig a fővárosi és megyei kormányhivatalok működéséről országos beszámolót készít, amelyet megküld a közigazgatás-szervezésért felelős miniszter részére.
+
+## (3) A fővárosi és megyei kormányhivatalok középirányító szerve a közigazgatás-szervezésért felelős miniszter útján az ágazati szakmai irányító miniszter részére megküldi az országos beszámolóban szereplő, az ágazatot érintő adatokat.
+
+## (4) A beszámolási kötelezettség kiterjed a fővárosi és megyei kormányhivatal illetékességi területén működő, illetve székhellyel rendelkező központi államigazgatási szerv bármely jogállású területi szervére, továbbá az államigazgatási feladatot ellátó más szervre és személyre, valamint a polgármesterre és jegyzőre az általuk ellátott államigazgatási feladatokat érintően.
+
+## (5) A (4) bekezdésben felsorolt szervek adatok, információk szolgáltatásával közreműködnek a beszámolási feladatok teljesítésében.
+
+## (6) A fővárosi és megyei kormányhivatal beszámolójának tartalmaznia kell különösen:
+
+## a) a fővárosi és megyei kormányhivatalok intézményi munkatervében foglaltak érvényesülését,
+
+## b) a fővárosi és megyei kormányhivatal funkcionális működésére vonatkozó adatokat, különös tekintettel a humánerőforrást, az ingatlan állományt, a gépjárműveket, a közbeszerzéseket, valamint a fővárosi és megyei kormányhivatal saját szervi működését szolgáló informatikai üzemeltetési és rendszerfenntartási adatokat,
+
+## c) a nemzetgazdasági szempontból kiemelt beruházások megvalósítását segítő államigazgatási feladatok végrehajtásának helyzetét,
+
+## d) a fővárosi és megyei kormányhivatal törvényességi felügyeleti tevékenységének tapasztalatait,
+
+## e) a fővárosi és megyei kormányhivatal, a járási (fővárosi kerületi) hivatalok, a szakigazgatási szervek, valamint a járási (fővárosi kerületi) szakigazgatási szervek általános tevékenységét, különös tekintettel a hatósági tevékenységét, az összevont ellenőrzésekről szóló éves ellenőrzési tervben foglaltak teljesítésének tapasztalatait, valamint a jegyző és a polgármester államigazgatási tevékenységére vonatkozó tapasztalatait,
+
+## f) a fővárosi és megyei kormányhivatal integrált ügyfélszolgálatainak (a továbbiakban: kormányablak), valamint más ügyfélszolgálatainak működési tapasztalatait,
+
+## g) a (4) bekezdésben meghatározott államigazgatási szervek működésének, tevékenységének tapasztalatait,
+
+## h) a fővárosi és megyei államigazgatási kollégium működésének, tevékenységének tapasztalatait,
+
+## i) a fővárosi és megyei kormányhivatalhoz benyújtott panaszokkal és közérdekű bejelentésekkel kapcsolatos ügyintézés tapasztalatait, valamint
+
+## j) egyéb, a közigazgatás-szervezésért felelős miniszter által meghatározott szempontokat.”
