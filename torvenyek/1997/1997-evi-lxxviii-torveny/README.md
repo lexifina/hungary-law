@@ -28,3 +28,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-78-00-00
 | 2013-08-01 | 2013. évi XXXIV. törvény | 1997-78-00-00.54 |
 | 2013-12-14 | 2013. évi CCXVI. törvény | 1997-78-00-00.55 |
 | 2013-12-24 | 2013. évi CCXLII. törvény | 1997-78-00-00.56 |
+| 2014-01-01 | 2013. évi CLXXXIII. törvény | 1997-78-00-00.57 |

@@ -16,7 +16,7 @@ ismerhetik meg.
 
 a) a településfejlesztési, -rendezési és építésügyi dokumentációk országos központi tervtárának működtetéséről, fenntartásáról, fejlesztéséről, valamint a dokumentációk megőrzéséről és közérdekű hasznosításáról,
 
-b) a Nyilvántartás működtetéséről, fenntartásáról és fejlesztéséről,
+b) a Nyilvántartás működtetéséről, fenntartásáról és fejlesztéséről, valamint a fenntartást biztosító, a Nyilvántartás elektronikus alkalmazásai jogszabályban előírt kötelező használatának – a rendszerhasználattal arányos díj ellenében történő – biztosításáról,
 
 c) a nyilvánosság, a közösségi ellenőrzés, a tájékoztatási, véleménynyilvánítási és javaslattételi lehetőség biztosítására vonatkozó, a 3. § (2) bekezdésében meghatározott, továbbá információs feladatai teljesítéséről
 
