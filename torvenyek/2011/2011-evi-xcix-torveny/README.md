@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-99-00-00
 | 2012-01-01 | 2011. évi CLVI. törvény | 2011-99-00-00.1 |
 | 2012-01-02 | 2010. évi CXXX. törvény | 2011-99-00-00.2 |
 | 2012-04-07 | 2012. évi XXI. törvény | 2011-99-00-00.3 |
+| 2014-01-01 | 2012. évi XXI. törvény | 2011-99-00-00.4 |
