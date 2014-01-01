@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-102-00-00
 | 2013-09-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2013-102-00-00.1 |
 | 2013-09-02 | 2010. évi CXXX. törvény | 2013-102-00-00.2 |
 | 2013-12-31 | 2013. évi CCL. törvény | 2013-102-00-00.3 |
+| 2014-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2013-102-00-00.4 |
