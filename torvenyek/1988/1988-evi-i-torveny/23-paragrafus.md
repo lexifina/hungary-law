@@ -1,4 +1,4 @@
-23. § (1) Jármű – a (3) bekezdésben meghatározott vizsgálatot követően – abban az esetben helyezhető forgalomba, ha a tulajdonos a tulajdonjog megszerzésének jogszerűségét, a kötelező gépjármű-felelősségbiztosítás fedezetének meglétét és a külön jogszabályban meghatározott regisztrációs adó megfizetését a közlekedési igazgatási hatósági eljárásban igazolta.
+23. § (1) Jármű – a (3) bekezdésben meghatározott vizsgálatot követően – abban az esetben helyezhető forgalomba, ha a tulajdonos igazolja a tulajdonjog megszerzését, a külön jogszabályban meghatározott regisztrációs adót megfizették és a járműre gépjármű-felelősségbiztosítási szerződést kötöttek.
 
 (2) A jármű forgalomba helyezése a hatósági jelzés és engedély kiadásával és az országos járműnyilvántartásba bejegyezésével valósul meg.
 
