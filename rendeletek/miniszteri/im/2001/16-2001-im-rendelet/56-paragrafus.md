@@ -4,6 +4,6 @@
 
 (3) Az igazolványt a tulajdonosa köteles megőrizni és hivatalos eljárása során magánál tartani, köteles továbbá az igazolvány adataiban történt változást, illetve az igazolvány elvesztését, megrongálódását, megsemmisülését, érvényességének lejártát haladéktalanul bejelenteni, a megrongálódott vagy lejárt igazolványt pedig haladéktalanul átadni az 55. § (1) vagy (2) bekezdése szerinti kiállítónak.
 
-(4)[^77] Az igazolványt a törvényszéki végrehajtó, végrehajtó-helyettes, végrehajtójelölt a törvényszék elnökének, az önálló végrehajtó, végrehajtó-helyettes, végrehajtójelölt a kamara elnökének adhatja át.
+(4)[^78] Az igazolványt a törvényszéki végrehajtó, végrehajtó-helyettes, végrehajtójelölt a törvényszék elnökének, az önálló végrehajtó, végrehajtó-helyettes, végrehajtójelölt a kamara elnökének adhatja át.
 
-[^77]: Az 56. § (4) bekezdése a 40/2011. (XII. 30.) KIM rendelet 18. § (1) bekezdés 23. pontja szerint módosított szöveg.
+[^78]: Az 56. § (4) bekezdése a 40/2011. (XII. 30.) KIM rendelet 18. § (1) bekezdés 23. pontja szerint módosított szöveg.

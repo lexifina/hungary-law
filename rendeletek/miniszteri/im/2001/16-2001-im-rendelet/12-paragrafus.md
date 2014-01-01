@@ -30,10 +30,11 @@ d) a pályázók szakmai értékelésének eredményét tartalmazó értékelés
 
 (4)[^38] A miniszter az önálló végrehajtói állást a szakmai értékelés során legmagasabb pontszámot kapott három pályázó egyikének kinevezésével töltheti be; a kinevezésről – a pályázati anyagok visszaküldésével együtt – tájékoztatja a kamara elnökét, és értesíti arról a törvényszék elnökét is. Ha e három pályázó közül valamelyik pályázó időközben már másik végrehajtói állásra kinevezést kapott, a szakmai értékelés során következő legmagasabb pontszámot kapott pályázó bekerül a kinevezhető pályázók közé.
 
-(5) Ha a pályázat eredményeképpen nem kerül sor kinevezésre, 3 hónapon belül újabb pályázatot kell kiírni. Ha a második pályázat is eredménytelen, a végrehajtási ügyek ellátását vagy újabb pályázat kiírásával, vagy tartós helyettes kirendelésével, illetve a kamara javaslatára másik végrehajtó illetékességének kiterjesztésével kell biztosítani.
+(5)[^39] Ha a pályázat eredményeképpen nem kerül sor kinevezésre, miniszter erről szóló tájékoztatásától számított 8 napon belül újabb pályázatot kell kiírni. Ha a második pályázat is eredménytelen, a végrehajtási ügyek ellátását vagy újabb pályázat kiírásával, vagy tartós helyettes kirendelésével, illetve a kamara javaslatára másik végrehajtó illetékességének kiterjesztésével kell biztosítani.
 
 [^34]: A 12. § (1) bekezdése a 2/2011. (II. 3.) KIM rendelet 4. §-ával megállapított szöveg.
 [^35]: A 12. § (2) bekezdése a 2/2011. (II. 3.) KIM rendelet 4. §-ával megállapított szöveg.
 [^36]: A 12. § (3) bekezdése a 2/2011. (II. 3.) KIM rendelet 4. §-ával megállapított szöveg.
 [^37]: A 12. § (3) bekezdés b) pontja a 20/2013. (VIII. 7.) KIM rendelet 2. § (3) bekezdés b) pontja szerint módosított szöveg.
 [^38]: A 12. § (4) bekezdése a 2/2011. (II. 3.) KIM rendelet 4. §-ával megállapított, a 40/2011. (XII. 30.) KIM rendelet 18. § (1) bekezdés 9. pontja szerint módosított szöveg.
+[^39]: A 12. § (5) bekezdése a 34/2013. (XII. 23.) KIM rendelet 2. § (6) bekezdés b) pontja szerint módosított szöveg.
