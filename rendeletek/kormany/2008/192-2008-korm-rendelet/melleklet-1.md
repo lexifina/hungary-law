@@ -4,4 +4,4 @@
 
 [^7]: A 4. §-t a 37/2013. (II. 14.) Korm. rendelet 1. § (3) bekezdése iktatta be.
 [^8]: A hatálybalépés napja: 2013. február 15.
-[^9]: Az 1. számú melléklet a 37/2013. (II. 14.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^9]: Az 1. számú melléklet a 37/2013. (II. 14.) Korm. rendelet 1. § (4) bekezdésével megállapított, az 527/2013. (XII. 30.) Korm. rendelet 65. § (1) bekezdése szerint módosított szöveg.

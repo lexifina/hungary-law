@@ -8,13 +8,13 @@
 
 | 3. |  |  | további régészeti feladatellátás meghatározása | Budapest Főváros Kormányhivatalának Építésügyi és Örökségvédelmi Hivatala | nincs |
 
-| 4. |  |  | környezetvédelmi hatósági engedélyezési eljárás | Alsó-Tisza-vidéki Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 4. |  |  | környezetvédelmi hatósági engedélyezési eljárás | Alsó-Tisza-vidéki Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
-| 5. |  |  | természetvédelmi hatósági engedélyezési eljárás | Alsó-Tisza-vidéki Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 5. |  |  | természetvédelmi hatósági engedélyezési eljárás | Alsó-Tisza-vidéki Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
 | 6. |  |  | útügyi hatósági engedélyezési eljárás | Bács-Kiskun Megyei Kormányhivatal Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központ |
 
-| 7. |  |  | vízjogi engedélyezési eljárás | Alsó-Tisza-vidéki Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 7. |  |  | vízjogi engedélyezési eljárás | Alsó-Tisza-vidéki Vízügyi Hatóságg | Országos Vízügyi Hatóság |
 
 | 8. |  |  | A Magyar Kereskedelmi Engedélyezési Hivatalról és a területi mérésügyi és műszaki biztonsági hatóságokról szóló 320/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdése és 13. § (2) bekezdése szerinti engedélyezési eljárás | Csongrád Megyei Kormányhivatal Mérésügyi és Műszaki Biztonsági Hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
@@ -50,7 +50,9 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 2. | építésügy, műemlékvédelem és régészet | Kecskeméti Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Bács-Kiskun Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala, régészet esetén: Budapest Főváros Kormányhivatalának Építésügyi és Örökségvédelmi Hivatala |
 
-| 3. | környezetvédelem, természetvédelem és vízügy | Alsó-Tisza-vidéki Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 3. | környezetvédelem, természetvédelem | Alsó-Tisza-vidéki Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+
+| 3a. | vízügy | Alsó-Tisza-vidéki Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
 | 4. | közúti közlekedés | Bács-Kiskun Megyei Kormányhivatal Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központ |
 
@@ -82,4 +84,4 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 18. | műszaki biztonság | Csongrád Megyei Kormányhivatal Mérésügyi és Műszaki Biztonsági Hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
-[^10]: A 2. számú melléklet a 37/2013. (II. 14.) Korm. rendelet 1. § (5) bekezdésével megállapított szöveg.
+[^10]: A 2. számú melléklet a 37/2013. (II. 14.) Korm. rendelet 1. § (5) bekezdésével megállapított, az 527/2013. (XII. 30.) Korm. rendelet 65. § (2) bekezdése szerint módosított szöveg.
