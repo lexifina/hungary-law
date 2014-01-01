@@ -1,0 +1,1 @@
+## 14. § Hatályát veszti az elismert munkavállalói értékpapír-juttatási program nyilvántartásba vételére irányuló eljárás rendjéről, valamint az eljárás kezdeményezéséért fizetendő igazgatási szolgáltatási díj mértékéről szóló 5/2003. (II. 4.) PM rendelet.
