@@ -30,7 +30,7 @@ e) évente statisztikai összesítést és összefoglaló jelentést készít a 
 
 a) az (5) bekezdésben foglaltak teljesítése céljából, szolgáltatási szerződés vagy jogszabály alapján, saját informatikai eszközeivel, közvetlen elérést biztosít
 
-aa)[^5]
+aa) az ingatlan-nyilvántartásból – az Étv. 59. § (4) bekezdés a) pontjában meghatározott személyes adatokon kívül – az építésügyi és építésfelügyeleti hatóságok által eljárás alá vont telkek címéhez, helyrajzi számához, terület és művelési ág, valamint bejegyzett jog, tény adataihoz,
 
 ab) a régészeti és a műemléki védelem alatt álló ingatlanok, területek közhiteles nyilvántartási adataihoz,
 
@@ -43,4 +43,3 @@ c) kezeli az adatállomány és az alkalmazások hozzáférési jogosultsági ad
 (7) Az Étv. 3. § (2) bekezdésében foglalt, az Étv. 5. §-ában meghatározott miniszteri feladatok ellátásához szükséges, valamint az e rendeletben előírt közzétételi feladatok ellátásáról az Üzemeltető a www.e-epites.hu weboldal működtetésével gondoskodik.
 
 [^4]: Az 5. § (3) bekezdését a 107/2013. (IV. 5.) Korm. rendelet 15. § (4) bekezdése hatályon kívül helyezte.
-[^5]: Az 5. § (6) bekezdés a) pont aa) alpontja a 8. § (2) bekezdése alapján 2014. január 1-jén lép hatályba.
