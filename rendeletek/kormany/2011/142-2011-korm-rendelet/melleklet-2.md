@@ -6,9 +6,9 @@
 
 | 2. | a Pesti Vigadó épületének rekonstrukciója | Budapest, belterület 24.429/1 hrsz. | műemléki védelem alatt álló építmények építésügyi hatósági engedélye | Budapest Főváros Kormányhivatala V. Kerületi Hivatalának Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
-| 3. | környezetvédelmi hatósági engedélyezési eljárások | Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 3. | környezetvédelmi hatósági engedélyezési eljárások | Közép-Duna-völgyi Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
-| 4. | vízjogi hatósági eljárások | Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 4. | vízügyi hatósági és vízvédelmi eljárások | Közép-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi hatóság |
 
 | 5. | ingatlan-nyilvántartási hatósági eljárások | Budapesti 2. sz. Körzeti Földhivatal | Budapest Főváros Kormányhivatalának Földhivatala |
 
@@ -42,6 +42,8 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 6. | egészségügy | Budapest Főváros Kormányhivatala Népegészségügyi Szakigazgatási Szerve | Országos Tisztifőorvosi Hivatal |
 
-| 7. | környezetvédelem, természetvédelem és vízügy | Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 7. | környezetvédelem és természetvédelem | Közép-Duna-völgyi Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
-[^2]: Az 1. melléklet a 259/2011. (XII. 7.) Korm. rendelet 22. § (1)–(2) bekezdése, a 166/2012. (VII. 19.) Korm. rendelet 6. § (2) bekezdése, a 394/2012. (XII. 20.) Korm. rendelet 47. §-a szerint módosított szöveg.
+| 8. | vízügy | Közép-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
+
+[^2]: A 2. melléklet a 259/2011. (XII. 7.) Korm. rendelet 22. § (1)–(2) bekezdése, a 166/2012. (VII. 19.) Korm. rendelet 6. § (2) bekezdése, a 394/2012. (XII. 20.) Korm. rendelet 47. §-a, az 527/2013. (XII. 30.) Korm. rendelet 102. § (2) bekezdése szerint módosított szöveg.
