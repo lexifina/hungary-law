@@ -1,4 +1,4 @@
-## 32. §[^7]
+## 32. §[^8]
 
 1. számú melléklet a 214/2000. (XII. 11.) Korm. rendelethez
 
@@ -112,4 +112,4 @@ II. Rövid lejáratú kötelezettségek
 
 G. Passzív időbeli elhatárolások
 
-[^7]: A 32. §-t és az azt megelőző alcímet a 118/2008. (V. 8.) Korm. rendelet 1. § 1130. pontja hatályon kívül helyezte.
+[^8]: A 32. §-t és az azt megelőző alcímet a 118/2008. (V. 8.) Korm. rendelet 1. § 1130. pontja hatályon kívül helyezte.
