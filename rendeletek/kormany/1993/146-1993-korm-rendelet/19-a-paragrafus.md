@@ -1,4 +1,4 @@
-19/A. §[^129] (1) A 18. § (2) bekezdés e) pontjában meghatározott esetben a költözéssel nem járó címváltozás miatt csere alatt álló hatósági igazolvány érvénytelenségének tényére és a hivatalból kiállított hatósági igazolvány érvényességére vonatkozó bejegyzésről a járási hivatalnak a hivatalból kiállított hatósági igazolvány átvételét igazoló tértivevény visszaérkezését követően kell gondoskodnia.
+19/A. §[^130] (1) A 18. § (2) bekezdés e) pontjában meghatározott esetben a költözéssel nem járó címváltozás miatt csere alatt álló hatósági igazolvány érvénytelenségének tényére és a hivatalból kiállított hatósági igazolvány érvényességére vonatkozó bejegyzésről a járási hivatalnak a hivatalból kiállított hatósági igazolvány átvételét igazoló tértivevény visszaérkezését követően kell gondoskodnia.
 
 (2) Ha a 18. § (2) bekezdés e) pontja szerint hivatalból kiállított hatósági igazolvány kézbesítése másodszori alkalommal is sikertelen, a járási hivatal a hatósági igazolványt a címváltozás szerint illetékes jegyzőnek küldi meg személyes átadás céljából.
 
@@ -20,4 +20,4 @@ b) a hatósági igazolványt nem vette át, a járási hivatal a (4) bekezdés s
 
 (9) A polgár a címváltozás miatt érvénytelenné vált hatósági igazolványát a járási hivatalban vagy a címváltozás szerint illetékes jegyzőnél adhatja le.
 
-[^129]: Az R. 19/A. §-át a 417/2012. (XII. 29.) Korm. rendelet 23. §-a iktatta be.
+[^130]: Az R. 19/A. §-át a 417/2012. (XII. 29.) Korm. rendelet 23. §-a iktatta be.

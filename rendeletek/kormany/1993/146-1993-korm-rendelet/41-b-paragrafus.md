@@ -1,7 +1,7 @@
-41/B. §[^212] (1) A területváltozásról annak a települési önkormányzatnak a jegyzője értesíti a központi szervet, ahová a változással érintett területet átcsatolták.
+41/B. §[^213] (1) A területváltozásról annak a települési önkormányzatnak a jegyzője értesíti a központi szervet, ahová a változással érintett területet átcsatolták.
 
 (2) A jegyző az adatjavításokat és adatváltozásokat a vonatkozó döntés jogerőre emelkedését követően haladéktalanul átvezeti a címnyilvántartásban.
 
 (3) A jegyző a központi szerv megkeresésére a területszervezési változásokról adatokat szolgáltat.
 
-[^212]: Az R. 41/B. §-át a 417/2012. (XII. 29.) Korm. rendelet 37. §-a iktatta be.
+[^213]: Az R. 41/B. §-át a 417/2012. (XII. 29.) Korm. rendelet 37. §-a iktatta be.

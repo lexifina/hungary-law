@@ -28,11 +28,11 @@ b)[^85] végzi – a hatósági igazolvánnyal összefüggő ügyintézés sorá
 
 c) kezeli a hatósági igazolvány kiadásának megtagadásával kapcsolatos alapiratokat;
 
-d) gondoskodik a hatósági igazolvány kiadása, visszavonása, leadása, elvesztése, megsemmisülése és találása tényének az okmánynyilvántartáson történő átvezetéséről.
+d)[^86] gondoskodik a hatósági igazolvány kiadása, visszavonása, leadása, elvesztése, eltulajdonítása megsemmisülése és találása tényének az okmánynyilvántartáson történő átvezetéséről.
 
-(2a)[^86] A (2) bekezdéstől eltérően az (1) bekezdés d) pontja szerinti esetben az állampolgársági ügyekben eljáró szerv, az (1) bekezdés e) pontja szerinti esetben a hazai anyakönyvezést végző hatóság kizárólag a hatósági igazolvány kiadásáról dönt.
+(2a)[^87] A (2) bekezdéstől eltérően az (1) bekezdés d) pontja szerinti esetben az állampolgársági ügyekben eljáró szerv, az (1) bekezdés e) pontja szerinti esetben a hazai anyakönyvezést végző hatóság kizárólag a hatósági igazolvány kiadásáról dönt.
 
-(3)[^87] Az eljáró hatóság a (2) bekezdés a) és b) pontjában meghatározott esetekben továbbítja az illetékes járási hivatalnak a hatósági igazolvány kitöltéséhez szükséges adatokat, iratokat.
+(3)[^88] Az eljáró hatóság a (2) bekezdés a) és b) pontjában meghatározott esetekben továbbítja az illetékes járási hivatalnak a hatósági igazolvány kitöltéséhez szükséges adatokat, iratokat.
 
 [^78]: Az R.17. §-a a 230/2000. (XII. 23.) Korm. rendelet 13. §-ával megállapított szöveg.
 [^79]: Az R. 17. § (1) bekezdés a) pontja a 417/2012. (XII. 29.) Korm. rendelet 40. § l) pontja szerint módosított szöveg.
@@ -42,5 +42,6 @@ d) gondoskodik a hatósági igazolvány kiadása, visszavonása, leadása, elves
 [^83]: Az R. 17. § (1) bekezdés e) pontját a 417/2012. (XII. 29.) Korm. rendelet 20. § (2) bekezdése iktatta be.
 [^84]: Az R. 17. § (1) bekezdés f) pontját a 417/2012. (XII. 29.) Korm. rendelet 20. § (2) bekezdése iktatta be.
 [^85]: Az R. 17. § (2) bekezdésének b) pontja a 117/2005. (VI. 27.) Korm. rendelet 3. §-ának (2) bekezdésével megállapított szöveg.
-[^86]: Az R. 17. § (2a) bekezdését a 417/2012. (XII. 29.) Korm. rendelet 20. § (3) bekezdése iktatta be.
-[^87]: Az R. 17. § (3) bekezdése a 417/2012. (XII. 29.) Korm. rendelet 40. § d) pontja szerint módosított szöveg.
+[^86]: Az R. 17. § (2) bekezdés d) pontja az 515/2013. (XII. 30.) Korm. rendelet 16. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^87]: Az R. 17. § (2a) bekezdését a 417/2012. (XII. 29.) Korm. rendelet 20. § (3) bekezdése iktatta be.
+[^88]: Az R. 17. § (3) bekezdése a 417/2012. (XII. 29.) Korm. rendelet 40. § d) pontja szerint módosított szöveg.
