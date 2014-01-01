@@ -1,1 +1,0 @@
-## Könyvviteli rendszerek változása

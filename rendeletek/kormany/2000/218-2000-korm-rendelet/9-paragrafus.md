@@ -1,3 +1,0 @@
-9. § (1) Az egyszerűsített beszámolót készítő egyházi jogi személynek az eredménylevezetésben a bevételeit, a költségeit, ráfordításait, valamint kiadásait meg kell bontani aszerint is, hogy azokat a tényleges pénzügyi teljesítés alapján vagy pénzmozgás nélküli ügylet kapcsán számolták el.
-
-(2) Az eredménylevezetésben a vállalkozási tevékenység tárgyévi eredménye a naptári év adóköteles pénzügyi eredménye és a nem pénzben realizált eredmény (a pénzbevételt nem jelentő adóköteles bevételek, a ráfordítást jelentő eszközváltozások, a ráfordítást jelentő elszámolások különbözete) összevont értéke, csökkentve az adófizetési kötelezettséggel.

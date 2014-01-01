@@ -1,1 +1,0 @@
-## Letétbehelyezési, közzétételi kötelezettség
