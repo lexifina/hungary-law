@@ -1,0 +1,3 @@
+## 21. § Az Ávr. 50. §-a a következő (1a) bekezdéssel egészül ki:
+
+## „(1a) Jogi személy vagy jogi személyiséggel nem rendelkező más szervezet esetén az (1) bekezdésben felsoroltakon túl az okiratnak tartalmaznia kell a szervezet képviselőjének nyilatkozatát arra vonatkozóan, hogy átlátható szervezetnek minősül. A szervezet képviselője a nyilatkozatban foglaltak változása esetén arról haladéktalanul köteles a költségvetési szervet tájékoztatni. A valótlan tartalmú nyilatkozat alapján kötött visszterhes szerződést a kötelezettségvállaló felmondja vagy – ha a szerződés teljesítésére még nem került sor – a szerződéstől eláll.”

@@ -1,12 +1,16 @@
-61. § (1)–(2)[^11]
+## „182. § A 15. § (1) bekezdése, a 18/A. §, a 33/B. § és a 8. melléklet 23-29. pontja a tagállamok költségvetési keretrendszerére vonatkozó követelményekről szóló 2011. november 8-i 2011/85/EU tanácsi irányelvnek való megfelelést szolgálja.”
 
-(3)[^12]
+61. § (1) Az Ávr. 1. melléklete az 1. melléklet szerint módosul.
 
-(4)[^13]
+(2) Az Ávr. 5. melléklete helyébe a 2. melléklet lép.
 
-(5)–(6)[^14]
+(3)[^6]
 
-[^11]: A 61. § (1)–(2) bekezdése a 117. § (2) bekezdése alapján 2014. január 1-jén lép hatályba.
-[^12]: A 61. § (3) bekezdése a 117. § (3) bekezdése alapján 2014. január 5-én lép hatályba.
-[^13]: A 61. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^14]: A 61. § (5)–(6) bekezdése a 117. § (2) bekezdése alapján 2014. január 1-jén lép hatályba.
+(4)[^7]
+
+(5) Az Ávr. 7. melléklete az 5. melléklet szerint módosul.
+
+(6) Az Ávr. 8. melléklete a 6. melléklet szerint módosul.
+
+[^6]: A 61. § (3) bekezdése a 117. § (3) bekezdése alapján 2014. január 5-én lép hatályba.
+[^7]: A 61. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

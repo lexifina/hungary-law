@@ -1,0 +1,3 @@
+## 17. § Az Ávr. 34/A. §-a helyébe a következő rendelkezés lép:
+
+## „34/A. § Az egységes rovatrend B1. Működési célú támogatások államháztartáson belülről, B2. Felhalmozási célú támogatások államháztartáson belülről, B6. Működési célú átvett pénzeszközök és B7. Felhalmozási célú átvett pénzeszközök rovatain megtervezett bevételi előirányzatok a költségvetési évben meghatározott céllal rendelkezésre bocsátott költségvetési bevételekkel abban az esetben is megnövelhetők, ha a bevételi előirányzatok még nem teljesültek túl, azonban az adott cél a költségvetési év bevételi előirányzatainak tervezésekor nem volt figyelembe vehető.”
