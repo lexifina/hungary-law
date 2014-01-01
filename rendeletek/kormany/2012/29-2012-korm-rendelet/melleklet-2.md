@@ -288,37 +288,39 @@
 
 ## középiskolai végzettség és közgazdasági szakképesítés vagy középiskolai végzettség és az OKJ szerint: pénzügyi-számviteli szakképesítés, gazdasági elemző és szakstatisztikus ügyintéző, banki ügyintéző szakképesítés.
 
-## 3. Belső ellenőrzési feladatok
+## 3.[^15] Belső ellenőrzési feladatok
 
 ## Az I. besorolási osztályban:
 
 ## a) az alábbi szakirányú szakképzettségek valamelyikével rendelkezik:
 
-## aa) jogász, közgazdász, okleveles közgazdász, gazdaságinformatikus, informatikus közgazdász, igazgatásszervező, okleveles közigazgatási szakértő, okleveles közigazgatási menedzser vagy
+## aa) jogász, közgazdász, okleveles közgazdász, gazdaságinformatikus, informatikus közgazdász, igazgatásszervező, okleveles igazgatásszervező, okleveles közigazgatási szakértő, okleveles közigazgatási menedzser vagy
 
-## ab) olyan főiskolai, vagy egyetemi végzettség, amely a könyvviteli szolgáltatást végzők nyilvántartásba vételéről szóló 93/2002. (V. 5.) Korm. rendelet szerinti nyilvántartásba vételt lehetővé teszi,
+## ab) olyan főiskolai, vagy egyetemi végzettség, amely a könyvviteli szolgáltatást végzők nyilvántartásba vételéről szóló 93/2002. (V. 5.) Korm. rendelet szerinti nyilvántartásba vételt lehetővé teszi, vagy
 
-## b) más, olyan felsőfokú iskolai végzettséggel rendelkezik, amely nem az a) pontban meghatározott felsőfokú végzettség és emellett
+## b) az a) pontba nem tartozó felsőfokú iskolai végzettséggel és
 
 ## ba) okleveles pénzügyi revizori,
 
 ## bb) pénzügyi-számviteli szakellenőri,
 
-## bc) okleveles könyvvizsgálói,
+## bc) ellenőrzési szakelőadó,
 
-## bd) költségvetési ellenőri,
+## bd) okleveles könyvvizsgálói,
 
-## be) mérlegképes könyvelői,
+## be) költségvetési ellenőri,
 
-## bf) a Belső Ellenőrök Nemzetközi Szervezetének okleveles belső ellenőri (CIA),
+## bf) mérlegképes könyvelői,
 
-## bg) az Information Systems Audit and Control Association (ISACA) Nemzetközi Szervezetének okleveles informatikai rendszerellenőri (CISA),
+## bg) a Belső Ellenőrök Nemzetközi Szervezetének okleveles belső ellenőri (CIA),
 
-## bh) közigazgatási gazdálkodási és ellenőrzési szakértői,
+## bh) az Information Systems Audit and Control Association (ISACA) Nemzetközi Szervezetének okleveles informatikai rendszerellenőri (CISA),
 
-## bi) felsőfokú költségvetési, vagy
+## bi) közigazgatási gazdálkodási és ellenőrzési szakértői,
 
-## bj) felsőfokú államháztartási
+## bj) felsőfokú költségvetési, vagy
+
+## bk) felsőfokú államháztartási
 
 ## szakképesítéssel rendelkezik.
 
@@ -338,7 +340,7 @@
 
 ## középiskolai végzettség és építőipari szakképesítés vagy műszaki szakmacsoportban szerzett technikusi szakképesítés; középiskolai végzettség és az OKJ szerint: műszaki szakmacsoportban szerezhető szakképesítés.
 
-## 6.[^15] Számítógépes, informatikai feladatok
+## 6.[^16] Számítógépes, informatikai feladatok
 
 ## Az I. besorolási osztályban:
 
@@ -367,4 +369,5 @@
 [^12]: Az 1. melléklet I. pont 7. alpontja a 415/2012. (XII. 29.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^13]: Az 1. melléklet I. pont 18. alpontja a 415/2012. (XII. 29.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^14]: Az 1. melléklet I. pont 22. alpontja a 415/2012. (XII. 29.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^15]: Az 1. melléklet II. pont 6. alpontja a 415/2012. (XII. 29.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^15]: Az 1. melléklet II. rész 3. pontja a 497/2013. (XII. 29.) Korm. rendelet 71. §-ával megállapított szöveg.
+[^16]: Az 1. melléklet II. pont 6. alpontja a 415/2012. (XII. 29.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
