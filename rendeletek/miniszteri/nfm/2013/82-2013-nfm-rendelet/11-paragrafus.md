@@ -1,0 +1,1 @@
+## „(6) A jármű üzembentartója vagy annak meghatalmazottja köteles a karbantartásért felelős szervezetnek bejelenteni a jogosultság első napját megelőző 8 napon belül, hogy a járművel ki jogosult Magyarországon közlekedni.”

@@ -1,0 +1,5 @@
+A vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény 88. § (2) bekezdés 8. pontjában,
+
+a 2. alcím és a 10. § tekintetében a vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény 88. § (2) bekezdés 20. pontjában
+
+kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 84. § e) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:

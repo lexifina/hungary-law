@@ -1,0 +1,1 @@
+## „23. szériavizsgálat: az egy szériába tartozó vasúti járműveken a vonatkozó ÁME-nak megfelelő alrendszerre (részegység, alkatrész) irányuló, a vasúti járművek üzembehelyezésének engedélyezése során elvégzendő vizsgálat.”
