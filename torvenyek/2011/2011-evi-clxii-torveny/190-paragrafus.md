@@ -18,4 +18,4 @@ f) a kölcsönt nyújtó hitelintézet belső szabályai szerint – saját, ill
 
 (4) A (2) bekezdés a)–c) pontjában foglalt feltételek teljesülését, valamint a kezességvállalás alapjául szolgáló szolgálati viszony fennállását a munkáltatói jogkör gyakorlója igazolja.
 
-(5) A (2) bekezdés d) pontjában foglalt feltétel teljesülését a bíró hatósági bizonyítvánnyal igazolja, a (2) bekezdés e) pontjában foglalt feltétel teljesüléséről a bíró a kölcsönt nyújtó hitelintézetnek nyilatkozik.
+(5) A (2) bekezdés d) pontjában foglalt feltétel teljesülését a bíró hatósági erkölcsi bizonyítvánnyal igazolja, a (2) bekezdés e) pontjában foglalt feltétel teljesüléséről a bíró a kölcsönt nyújtó hitelintézetnek nyilatkozik.

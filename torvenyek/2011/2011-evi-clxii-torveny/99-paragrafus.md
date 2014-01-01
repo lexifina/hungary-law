@@ -18,6 +18,6 @@ gyakorolja.
 
 (2) A munkáltatói jogkör gyakorlását törvényben külön nem nevesített esetekben
 
-a) az OBH elnöke az általános helyettesére,
+a) az OBH elnöke a bíró helyettesére,
 
 b) a törvényszék elnöke a járásbírósági bírák tekintetében a járásbíróság elnökére, a közigazgatási és munkaügyi bírósági bírák esetében a közigazgatási és munkaügyi bíróság elnökére – a bíró értékelésének elrendelése kivételével – írásban átruházhatja.

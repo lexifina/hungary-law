@@ -4,7 +4,7 @@ a) ha bírói tisztségéről lemondott,
 
 b) ha a bíró tisztségének ellátására egészségügyi okból tartósan alkalmatlanná vált vagy a 84. § szerinti alkalmatlansági eljárás során alkalmatlanná nyilvánították,
 
-c) ha a bíróval szemben jogerősen szabadságvesztést vagy közérdekű munkát szabtak ki, kényszergyógykezelését rendelték el,
+c) ha a bíróval szemben jogerősen szabadságvesztést, közérdekű munkát vagy elzárást szabtak ki, kényszergyógykezelését rendelték el,
 
 d) ha a bíró a bírói esküt a 22. §-ban meghatározott határidőn belül nem tette le,
 

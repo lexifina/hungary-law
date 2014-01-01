@@ -4,4 +4,4 @@
 
 (2) Az új eljárást az elsőfokú szolgálati bíróságnál lehet kezdeményezni, amely az első fokú eljárás szabályainak megfelelő alkalmazásával jár el.
 
-(3) Új eljárás kezdeményezésének a bíró terhére csak a bíró életében és csak az elévülési időn belül van helye.
+(3) Új eljárás kezdeményezésének a jogerős határozat meghozatalát követő 3 éven belül van helye.

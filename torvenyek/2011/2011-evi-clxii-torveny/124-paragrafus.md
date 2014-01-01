@@ -6,11 +6,15 @@ b) megrovás,
 
 c) egy fizetési fokozattal való visszavetés,
 
-d) vezetői tisztségből való felmentés,
+d) két fizetési fokozattal való visszavetés,
 
-e) bírói tisztségből való felmentés indítványozása.
+e) vezetői tisztségből való felmentés,
+
+f) bírói tisztségből való felmentés indítványozása.
 
 (2) A fegyelmi büntetés kiszabásánál figyelembe kell venni a kötelességszegés súlyát és következményeit, a vétkesség fokát.
+
+(2a) A kötelességszegés súlyára és következményeire, valamint a vétkesség fokára tekintettel a szolgálati bíróság tanácsa határozatában kizárhatja a 127. § (1) bekezdése alapján történő fegyelmi büntetés hatálya alóli mentesítés alkalmazásának lehetőségét.
 
 (3) Bírói tisztségből való felmentés indítványozása esetén a bírónak a tisztségéből való felfüggesztését fenn kell tartani vagy el kell rendelni. Más fegyelmi büntetés kiszabása esetében a fegyelmi határozatban a felfüggesztést meg kell szüntetni.
 

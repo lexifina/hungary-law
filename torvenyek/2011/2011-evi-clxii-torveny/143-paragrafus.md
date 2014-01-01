@@ -4,7 +4,7 @@ a) az illetmény és a táppénz,
 
 b) az illetmény és a sérelem folytán csökkent kereset,
 
-c) az átlagilletmény, a távolléti díj és a rokkantsági nyugdíj, rokkantsági ellátás vagy rehabilitációs ellátás
+c) az átlagilletmény, az illetmény és a rokkantsági nyugdíj, rokkantsági ellátás vagy rehabilitációs ellátás
 
 különbözetének a megtérítése iránti igényt.
 

@@ -4,8 +4,8 @@
 
 (2) Az értékelést megalapozó vizsgálatot a bíró beosztási helye és szakterülete szerint illetékes kollégiumvezető – nem értve ez alatt a közigazgatási és munkaügyi regionális kollégium vezetőjét – vagy az általa kijelölt bíró folytatja le.
 
-(3) A Kúriára beosztott bíró tevékenységét a Kúria elnöke értékeli.
+(3) A Kúriára beosztott bíró tevékenységét a Kúria elnöke értékeli az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló törvény szabályai szerint.
 
-(4) Az OBH-ba beosztott bíró hivatali tevékenységét az OBH elnöke értékeli.
+(4) Az OBH-ba beosztott bíró hivatali tevékenységét az OBH elnöke értékeli az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló törvény szabályai szerint.
 
 (5) A minisztériumba beosztott bíró hivatali munkáját az igazságügyért felelős miniszter a kormánytisztviselőkre irányadó szabályok szerint értékeli.

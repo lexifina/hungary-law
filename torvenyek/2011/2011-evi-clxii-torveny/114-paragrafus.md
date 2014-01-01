@@ -6,4 +6,6 @@ b) az a vizsgálóbiztos, aki az ügyben eljárt,
 
 c) az eljárás alá vont bíró hozzátartozója,
 
-d) akitől az ügy elfogulatlan elbírálása egyéb okból nem várható el.
+d) aki az adott eljárás során előterjesztett kizárási kérelemmel kapcsolatos döntéshozatalban részt vett,
+
+e) akitől az ügy elfogulatlan elbírálása egyéb okból nem várható el.

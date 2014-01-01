@@ -16,7 +16,15 @@ bírói tanácsa (a továbbiakban: bírói tanács) a pályázókat meghallgatja
 
 (4) A pályázati rangsor kialakítása során kizárólag a következő szempontok vehetők figyelembe:
 
-a) a bírósági fogalmazói és bírósági titkári joggyakorlati idő, illetve a bírói szolgálati idő szakmai értékelésének eredménye, nem bírósági joggyakorlattal rendelkező pályázó esetén a korábbi munkáltató értékelése,
+a) a szakmai értékelés tekintetében
+
+aa) a bírósági fogalmazói és bírósági titkári joggyakorlati idő, illetve a bírói szolgálati idő szakmai értékelésének eredménye,
+
+ab) a bíróságok központi igazgatásáról szóló átfogó ismeretek megszerzése érdekében az OBH-ban eltöltött bírósági titkári joggyakorlati idő OBH elnöke általi értékelése,
+
+ac) a bíróságok központi igazgatásáról szóló átfogó ismeretek megszerzése érdekében az Országos Bírói Tanács (a továbbiakban: OBT) tagja mellett eltöltött bírósági titkári joggyakorlati idő OBT tag általi értékelése,
+
+ad) nem bírósági joggyakorlattal rendelkező pályázó esetén a korábbi munkáltató értékelése,
 
 b) a jogi szakvizsga letételét követő gyakorlati vagy szolgálati idő tartama,
 

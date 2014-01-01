@@ -10,4 +10,4 @@
 
 (5) Az OBH elnöke az elektronikus aláírás hitelesítése céljából kiállított tanúsítvány visszavonását, illetve felfüggesztését a bíró beosztásának megváltozása, szolgálati viszonyának megszűnése, szünetelése, illetve egyéb ok esetén a Szolgáltatónál kezdeményezi. A Szolgáltató köteles az OBH elnökének megkeresésére a tanúsítványt haladéktalanul visszavonni, illetve felfüggeszteni.
 
-(6) A bírák elektronikus aláírásával kapcsolatos részletes igazgatási szabályokat az OBH elnöke határozza meg.
+(6)
