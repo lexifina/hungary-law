@@ -8,7 +8,7 @@ b) az államháztartás valamelyik alrendszeréből nyújtott támogatások foly
 
 c) a személyi jövedelemadó 1%-ából történő felajánlásokból való részesedés lehetőségének felfüggesztése,
 
-d) bűncselekmény elkövetésének gyanúja esetén az ellenőrzött szervezet tulajdonában vagy kezelésében lévő, az államháztartási vagyon körébe tartozó vagyonelem tekintetében biztosítási intézkedés elrendelése
+d) bűncselekmény elkövetésének gyanúja esetén az ellenőrzött szervezet tulajdonában vagy kezelésében lévő, az államháztartási vagyon körébe tartozó vagyonelem tekintetében zár alá vétel elrendelése
 
 érdekében.
 
