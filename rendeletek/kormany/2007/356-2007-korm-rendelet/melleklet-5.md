@@ -4,7 +4,7 @@
 
 ## 1. A földhasználó adatai:
 
-## 1.1. a magánszemély kérelmező
+## 1.1.[^87] a természetes személy kérelmező
 
 ## a) természetes személyazonosító adatai,
 
@@ -14,7 +14,7 @@
 
 ## d) lakcíme,
 
-## e)[^79]
+## e)[^88]
 
 ## 1.2. a gazdálkodó szervezet kérelmező
 
@@ -48,9 +48,9 @@
 
 ## 4. A használatba adó aláírása és az aláírás dátuma (kivéve, ha a használat tulajdonjogon, vagy az ingatlan-nyilvántartásba bejegyzett haszonélvezeti jogon alapul).
 
-## 5. A földhasználó magánszemélynek, illetve a földhasználó gazdálkodó szervezet képviselőjének az aláírása és az aláírás dátuma.
+## 5.[^89] A földhasználó természetes személynek, illetve a földhasználó gazdálkodó szervezet képviselőjének az aláírása és az aláírás dátuma.
 
-## II. A törlés-bejelentési adatlapon a földhivatal által feltüntetendő tartalmi elemek:
+## II.[^90] A törlés-bejelentési adatlapon a földhivatal által feltüntetendő tartalmi elemek:
 
 ## 1. A földhivatal bélyegzője.
 
@@ -62,64 +62,14 @@
 
 ## 5. Mellékelt okiratok, szerződések száma.
 
-## 6. Annak megjelölése, hogy befizetésre került-e az igazgatási szolgáltatási díj.
+## 6. Annak megállapítása, hogy a nyilvántartásból való törlés megtörtént.
 
-## 7. Annak megállapítása, hogy a nyilvántartásból való törlés megtörtént.
+## 7. Az ügyintéző aláírása.
 
-## 8. Az ügyintéző aláírása.
+5. számú melléklet a 356/2007. (XII. 23.) Korm. rendelethez[^91]
 
-5. számú melléklet a 356/2007. (XII. 23.) Korm. rendelethez[^80]
-
-Azonosító adatközlési adatlap tartalma
-
-I. Az azonosító adatközlési adatlapon a földhasználati nyilvántartásba 2012. december 31-ig bejegyzett földhasználó által megadandó tartalmi elemek:
-
-1.1. a magánszemély kérelmező
-
-a) természetes személyazonosító adatai,
-
-b) személyi azonosítója,
-
-c) állampolgársága,
-
-d) lakcíme,
-
-e)[^81]
-
-1.2.[^82] a gazdálkodó szervezet kérelmező
-
-a) megnevezése,
-
-b) statisztikai azonosítója (törzsszám),
-
-c) székhelye (telephelye),
-
-d) képviseletében eljáró személy családi és utóneve, lakcíme,
-
-e) bélyegzőlenyomata.
-
-2.[^83] A földhasználati nyilvántartásba 2012. december 31-ig bejegyzett földhasználó által használt és a földhasználati nyilvántartásba bejegyzett földterület fekvése szerinti település neve.
-
-3. A földhasználó nyilatkozata arról, hogy adatai a valóságnak megfelelnek.
-
-4. A földhasználó magánszemélynek, illetve a földhasználó gazdálkodó szervezet képviselőjének az aláírása és az aláírás dátuma.
-
-II. Az azonosító adatközlési adatlapon a földhivatal által feltüntetendő tartalmi elemek:
-
-1. A földhivatal bélyegzője.
-
-2. Az adatközlési bejelentés érkezési ideje.
-
-3. Iktatószám.
-
-4. Mellékelt okiratok száma.
-
-5. Annak megállapítása, hogy az azonosító adatok nyilvántartásba vétele megtörtént.
-
-6. Az ügyintéző aláírása.
-
-[^79]: A 4. számú melléklet I. pont 1.1. alpont e) pontját az 54/2013. (II. 26.) Korm. rendelet 8. § g) pontja hatályon kívül helyezte.
-[^80]: Az 5. számú mellékletet a 429/2012. (XII. 29.) Korm. rendelet 13. § (2) bekezdése iktatta be.
-[^81]: Az 5. számú melléklet I. pont 1.1. alpont e) pontját az 54/2013. (II. 26.) Korm. rendelet 8. § h) pontja hatályon kívül helyezte.
-[^82]: Az 5. számú melléklet I. pont 1.2. alpontja az 54/2013. (II. 26.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^83]: Az 5. számú melléklet I. pont 2. alpontja az 54/2013. (II. 26.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^87]: A 4. számú melléklet I. pont 1.1. alpontja a 473/2013. (XII. 12.) Korm. rendelet 14. § (2) bekezdése szerint módosított szöveg.
+[^88]: A 4. számú melléklet I. pont 1.1. alpont e) pontját az 54/2013. (II. 26.) Korm. rendelet 8. § g) pontja hatályon kívül helyezte.
+[^89]: A 4. számú melléklet I. pont 5. alpontja a 473/2013. (XII. 12.) Korm. rendelet 14. § (3) bekezdsée szerint módosított szöveg.
+[^90]: A 4. számú melléklet II. pontja a 473/2013. (XII. 12.) Korm. rendelet 13. § (2) bekezdése szerint módosított szöveg.
+[^91]: Az 5. számú mellékletet a 429/2012. (XII. 29.) Korm. rendelet 13. § (2) bekezdése iktatta be, hatályon kívül helyezte a 473/2013. (XII. 12.) Korm. rendelet 15. § d) pontja.

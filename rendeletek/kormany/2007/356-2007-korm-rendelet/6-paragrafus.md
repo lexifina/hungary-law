@@ -1,10 +1,12 @@
-## A földhasználati nyilvántartási eljárás[^13]
+## A földhasználati nyilvántartási eljárás[^12]
 
-6. §[^14] (1)[^15] A földhasználati nyilvántartásba-vétel iránti eljárás (a továbbiakban: eljárás) az adatlapnak, a Tft. 25/B. § (3) bekezdésében meghatározott esetben az adatlapnak és a hozzá csatolt szerződés eredeti példányának vagy közjegyző által hitelesített másolatának (a továbbiakban együtt: szerződés) a földhivatalhoz történő benyújtásával (a továbbiakban: bejelentés) indul.
+6. §[^13] (1)[^14] A földhasználati nyilvántartásba-vétel iránti eljárás (a továbbiakban: eljárás) megindításához az adatlap és az ahhoz csatolt, a Fétv. 95. § (3) bekezdésében meghatározott okiratok benyújtásán túl, a (2a) és (2b) bekezdésben, valamint a (3) bekezdésben meghatározott esetekben, az ott meghatározott okiratokat is csatolni kell.
 
-(2)[^16] A termőföld használatát az adatlap, valamint a hozzá csatolt szerződés alapján kell nyilvántartásba venni. A bejelentési adatlap adattartalmát az 1. számú, a változás-bejelentési adatlap adattartalmát a 3. számú melléklet határozza meg.
+(2)[^15] A föld használatát az adatlap, vagy az adatlap, és az ahhoz csatolt, a Fétv. 95. § (3) bekezdése, valamint e rendelet szerinti okirat(ok) alapján kell nyilvántartásba venni.
 
-(2a)[^17]
+(2a)[^16] A hatósági jóváhagyáshoz nem kötött haszonbérleti szerződés esetén a Földforgalmi tv. 50. § (1) bekezdés a) pontja, valamint az elővásárlási és előhaszonbérleti jog gyakorlása érdekében az adás-vételi és a haszonbérleti szerződés hirdetményi úton történő közlésére vonatkozó eljárási szabályokról szóló jogszabályban meghatározott, a jegyző által a haszonbérbeadó részére megküldött okiratokat is csatolni kell.
+
+(2b)[^17] A 2. § (1a) bekezdésében meghatározott esetben a jegyzőnek csatolnia kell a földprogram megvalósítását igazoló okiratokat.
 
 (3)[^18] Ha a bejelentő gazdálkodó szervezet – kivéve a (4a) bekezdés szerinti feltételek fennállása esetén a cégnyilvántartásban nyilvántartott céget –, az adatlaphoz csatolni kell
 
@@ -18,11 +20,12 @@ b) az eredeti vagy közjegyző által hitelesített aláírási címpéldányt.
 
 (5)[^21] Ha a (3) bekezdés szerinti iratok valamelyike a földhivatalhoz már korábbi ügyben benyújtásra került, vagy azokat a földhivatal a (4a) bekezdés alapján korábban már beszerezte, az újabb bejelentés során elegendő – az iktatószámra való hivatkozással – a korábbi benyújtásra, beszerzésre és arra utalni, hogy a földhivatalnál lévő okiratokban szereplő adatok a bejelentés időpontjáig nem változtak meg.
 
-[^13]: A 6. §-t megelőző alcímet a 182/2009. (IX. 10.) Korm. rendelet 599. § (6) bekezdése iktatta be.
-[^14]: A 6. § a 182/2009. (IX. 10.) Korm. rendelet 599. § (6) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^15]: A 6. § (1) bekezdése a 429/2012. (XII. 29.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^16]: A 6. § (2) bekezdése a 429/2012. (XII. 29.) Korm. rendelet 3. §-ával megállapított, a 206/2013. (VI. 17.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
-[^17]: A 6. § (2a) bekezdését az 54/2013. (II. 26.) Korm. rendelet 2. §-a iktatta be, hatályon kívül helyezte a 206/2013. (VI. 17.) Korm. rendelet 14. § c) pontja.
+[^12]: A 6. §-t megelőző alcímet a 182/2009. (IX. 10.) Korm. rendelet 599. § (6) bekezdése iktatta be.
+[^13]: A 6. § a 182/2009. (IX. 10.) Korm. rendelet 599. § (6) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^14]: A 6. § (1) bekezdése a 473/2013. (XII. 12.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^15]: A 6. § (2) bekezdése a 473/2013. (XII. 12.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^16]: A 6. § (2a) bekezdését az 54/2013. (II. 26.) Korm. rendelet 2. §-a iktatta be, hatályon kívül helyezte a 206/2013. (VI. 17.) Korm. rendelet 14. § c) pontja, újonnan a 473/2013. (XII. 12.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^17]: A 6. § (2b) bekezdését a 473/2013. (XII. 12.) Korm. rendelet 4. § (2) bekezdése iktatta be.
 [^18]: A 6. § (3) bekezdése a 355/2012. (XII. 13.) Korm. rendelet 30. § (1) bekezdésével megállapított és a 429/2012. (XII. 29.) Korm. rendelet 12. §-a szerint módosított szöveg.
 [^19]: A 6. § (4) bekezdése a 429/2012. (XII. 29.) Korm. rendelet 12. §-a szerint módosított szöveg.
 [^20]: A 6. § (4a) bekezdését a 355/2012. (XII. 13.) Korm. rendelet 30. § (2) bekezdése iktatta be.
