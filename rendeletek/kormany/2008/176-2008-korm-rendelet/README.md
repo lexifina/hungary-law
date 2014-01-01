@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-176-20-
 | 2013-02-20 | 2008-176-20-22.9 | 105/2012. (V. 30.) Korm. rendelet |
 | 2013-08-01 | 2008-176-20-22.10 | 266/2013. (VII. 11.) Korm. rendelet |
 | 2013-11-21 | 2008-176-20-22.11 | 440/2013. (XI. 20.) Korm. rendelet |
+| 2014-01-01 | 2008-176-20-22.12 | 266/2013. (VII. 11.) Korm. rendelet |
