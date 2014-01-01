@@ -16,3 +16,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-167-00-00
 | 2013-04-29 | 2013. évi XL. törvény | 2011-167-00-00.9 |
 | 2013-07-01 | 2012. évi CCV. törvény | 2011-167-00-00.10 |
 | 2013-09-26 | 23/2013. (IX. 25.) AB határozat | 2011-167-00-00.11 |
+| 2014-01-01 | 2013. évi CCXXXVI. törvény | 2011-167-00-00.12 |
