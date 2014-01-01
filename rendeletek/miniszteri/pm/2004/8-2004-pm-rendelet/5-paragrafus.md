@@ -1,6 +1,9 @@
+## 4. §[^44] A Nemzeti Adó- és Vámhivatal szervezetéről és egyes szervek kijelöléséről szóló kormányrendeletben a jövedéki ügyekben történő eljárásra különös illetékességgel rendelkező vámszerv (a továbbiakban: hatósági felügyeletet ellátó vámszerv) az adóraktári engedély iránti kérelem benyújtását követő 30 napon belül – a kísérleti előállítást végző üzem esetében 15 napon belül – az adóraktárban helyszíni szemlét tart. Ha az engedélyt kiadó és a hatósági felügyeletet ellátó vámszerv nem ugyanaz, az engedély kiadására jogosult vámszerv a helyszíni szemle megtartása érdekében az adóraktárra vonatkozó valamennyi okiratot, bizonylatot az adóraktári engedély iránti kérelem benyújtásától számított 8 napon belül megküldi a hatósági felügyeletet ellátó vámszervnek.
+
 5. § (1)[^45] A hatósági felügyeletet ellátó vámszerv az engedélyezési eljárás keretében – az engedély kiadásának feltételeként – hivatalos zár elhelyezését határozhatja meg a szeszüzem és a szeszfőzde adóraktár üzemi és mérőberendezésein, csővezetékein, tárolótartályain, egyéb berendezésein. Hivatalos zár alkalmazása abból a célból határozható meg, hogy a jövedéki terméket az üzemi berendezés zárt rendszeréből, a mérőberendezés kikerülésével, illetve a hivatalos zár megsértése nélkül kivenni, valamint az üzemi berendezést rendeltetésétől eltérően használni ne lehessen.
 
 (2)[^46] A hatósági felügyeletet ellátó vámszerv jegyzőkönyvben határozza meg az üzemi és mérőberendezéseknek, tárolótartályoknak azokat a pontjait, ahol hivatalos zárat, borítót kell alkalmazni. Az alkalmazott zárak, borítók a más hatóságok által felhelyezett jelzéseket (bélyegzéseket) nem takarhatják, nem rongálhatják.
 
+[^44]: A 4. § a 76/2013. (XII. 31.) NGM rendelet 4. §-ával megállapított szöveg.
 [^45]: Az 5. § (1) bekezdése a 17/2011. (IV. 19.) NGM rendelet 56. § (2) bekezdése szerint módosított szöveg.
 [^46]: Az 5. § (2) bekezdése a 17/2011. (IV. 19.) NGM rendelet 56. § (2) bekezdése szerint módosított szöveg.

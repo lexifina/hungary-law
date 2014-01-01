@@ -84,7 +84,7 @@
 
 |  |  | 4.6. | Az éves beszámoló hitelesítésére: |
 
-|  |  | 4.7. | Közvetlen számítógépes kapcsolatra: |
+|  |  | 4.7. |  |
 
 |  |  | 4.8. | Jövedéki biztosítékra (felajánlott összeg, teljesítési módja): |
 
@@ -98,7 +98,9 @@
 
 |  |  | 4.13. | Egyszerűsített adóraktárban történő pezsgő előállításra: |
 
-|  |  | 4.14. | Az egyszerűsített szőlőbor-pincekönyv vezetésére:” |
+|  |  | 4.14. | Az egyszerűsített szőlőbor-pincekönyv vezetésére: |
+
+|  |  | 4.15. | Szeszfőzde adóraktár esetében az adóraktárban előállított alkoholtermék közvetlen értékesítésére vonatkozó nyilatkozat: |
 
 | II. Adóraktári adatok (adóraktáranként) |
 
@@ -134,7 +136,7 @@
 
 |  |  | 6.4. | Alkoholtermék gyártmánylap szerinti alkoholfoka: |
 
-|  |  | 6.5. | Sör gyártmánylap szerinti Balling-foka: |
+|  |  | 6.5. | Sör gyártmánylap szerinti alkoholfoka: |
 
 |  |  | 6.6. | Megfigyelt termék előállításhoz felhasznált jövedéki termék megnevezése, vámtarifaszáma, fajtakódja, felhasználási arányszáma vagy a felhasználás mennyiségi levezetése: |
 
@@ -180,6 +182,6 @@
 
 |  |  | a kérelmező aláírása (bélyegzője) |
 
-1/A. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^648]
+1/A. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^673]
 
-[^648]: Az 1/A. számú mellékletet a 40/2007. (XII. 29.) PM rendelet 38. § (1) bekezdése iktatta be, szövege a 17/2011. (IV. 19.) NGM rendelet 56. § (3) bekezdése, az 54/2011. (XII. 29.) NGM rendelet 28. § (2) bekezdése szerint módosított szöveg.
+[^673]: Az 1/A. számú mellékletet a 40/2007. (XII. 29.) PM rendelet 38. § (1) bekezdése iktatta be, szövege a 17/2011. (IV. 19.) NGM rendelet 56. § (3) bekezdése, az 54/2011. (XII. 29.) NGM rendelet 28. § (2) bekezdése szerint módosított szöveg.

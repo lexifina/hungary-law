@@ -14,18 +14,19 @@ d) a Jöt. 39. § (1) bekezdés a) pontjában foglalt esetben az adóraktár eng
 
 (4) További adóraktár, illetve egyszerűsített adóraktár működtetése iránti kérelme esetén
 
-a) az adóraktár-engedélyesnek az adóraktárként működtetni kívánt üzemi helyiségre, a 2. § (1) bekezdés e)–k) pontjában,
+a)[^63] az adóraktár-engedélyesnek az adóraktárként működtetni kívánt üzemi helyiségre, a 2. § (1) bekezdés e)–m) pontjában,
 
 b) az egyszerűsített adóraktár engedélyesének az egyszerűsített adóraktárként működtetni kívánt üzemi helyiségre a 3. § (1) bekezdésének c), f) és g) pontjában
 
 ## meghatározott dokumentációt, okiratot kell csatolnia.
 
-(5)[^63]
+(5)[^64]
 
-(6)[^64] A vámszerv az engedély módosítása iránti kérelemben vagy a változásbejelentésben foglaltak alapján az adóraktári (egyszerűsített adóraktári) engedélyt vagy a betétlapot – szükség esetén mindkettőt – bevonja, és új adóraktári (egyszerűsített adóraktári) engedélyt vagy betétlapot ad ki.
+(6)[^65] A vámszerv az engedély módosítása iránti kérelemben vagy a változásbejelentésben foglaltak alapján az adóraktári (egyszerűsített adóraktári) engedélyt vagy a betétlapot – szükség esetén mindkettőt – bevonja, és új adóraktári (egyszerűsített adóraktári) engedélyt vagy betétlapot ad ki.
 
 [^60]: A 8. § (1) bekezdése a 38/2008. (XII. 31.) PM rendelet 15. § (3) bekezdése szerint módosított szöveg.
 [^61]: A 8. § (2) bekezdése az 52/2012. (XII. 29.) NGM rendelet 12. § (1) bekezdésével megállapított szöveg.
 [^62]: A 8. § (3) bekezdése az 52/2012. (XII. 29.) NGM rendelet 12. § (2) bekezdésével megállapított szöveg.
-[^63]: A 8. § (5) bekezdését az 52/2012. (XII. 29.) NGM rendelet 47. § 1. pontja hatályon kívül helyezte.
-[^64]: A 8. § (6) bekezdése az 52/2012. (XII. 29.) NGM rendelet 12. § (3) bekezdésével megállapított szöveg.
+[^63]: A 8. § (4) bekezdés a) pontja a 76/2013. (XII. 31.) NGM rendelet 21. § 1. pontja szerint módosított szöveg.
+[^64]: A 8. § (5) bekezdését az 52/2012. (XII. 29.) NGM rendelet 47. § 1. pontja hatályon kívül helyezte.
+[^65]: A 8. § (6) bekezdése az 52/2012. (XII. 29.) NGM rendelet 12. § (3) bekezdésével megállapított szöveg.

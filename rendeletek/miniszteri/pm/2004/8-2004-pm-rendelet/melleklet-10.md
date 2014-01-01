@@ -38,6 +38,8 @@
 
 |  |  | 3. | Az adóraktárban folytatható tevékenység megnevezése (adóraktár típusra): |
 
+|  |  |  | 3.1. | A szeszfőzde adóraktárban végezhető közvetlen értékesítésre vonatkozó engedély: |
+
 |  |  | 4. | Az adóraktárban előállítható, tárolható (raktározható) jövedéki termék, megfigyelt termék |
 
 |  |  |  | 4.1. | Megnevezése: |
@@ -58,6 +60,8 @@
 
 |  |  | 9. | Az adóraktár a jelen engedélyben rögzített, valamint az adóraktári engedélykérelemhez csatolt bizonylatokban, dokumentációkban szereplő feltételek, körülmények fennállása, teljesítése mellett működhet. A hatósági felügyeletnek 8. pontban rögzített módját határozattal az engedélyező vámszerv megváltoztathatja. |
 
+|  |  | 10. | Termelői borkimérés folytatására és helyszínére vonatkozó nyilatkozat adatai: |
+
 ## Kelt: …………………………………………………………
 
 |  | ………………………………….………………………… |
@@ -66,6 +70,6 @@
 
 |  | (bélyegzője) |
 
-10. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^660]
+10. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^685]
 
-[^660]: A 10. számú melléklet a 34/2005. (X. 28.) PM rendelet 1. § (2) bekezdése, a 40/2007. (XII. 29.) PM rendelet 40. § (6) bekezdése, a 17/2009. (IX. 29.) PM rendelet 19. § (3) bekezdése, a 17/2011. (IV. 19.) NGM rendelet 56. § (3) bekezdése szerint módosított szöveg.
+[^685]: A 10. számú melléklet a 34/2005. (X. 28.) PM rendelet 1. § (2) bekezdése, a 40/2007. (XII. 29.) PM rendelet 40. § (6) bekezdése, a 17/2009. (IX. 29.) PM rendelet 19. § (3) bekezdése, a 17/2011. (IV. 19.) NGM rendelet 56. § (3) bekezdése szerint módosított szöveg.

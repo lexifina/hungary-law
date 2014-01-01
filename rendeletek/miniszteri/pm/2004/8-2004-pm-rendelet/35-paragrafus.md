@@ -1,29 +1,29 @@
 ## Üzemi motorikusgáztöltő-állomás
 
-35. § (1)[^201] Az üzemi motorikusgáztöltő-állomás üzemeltetését végző személy (a továbbiakban: üzemeltetést végző) e tevékenységének a vámhatósághoz történő bejelentéséhez csatolni kell
+35. § (1)[^205] Az üzemi motorikusgáztöltő-állomás üzemeltetését végző személy (a továbbiakban: üzemeltetést végző) e tevékenységének a vámhatósághoz történő bejelentéséhez csatolni kell
 
-a)[^202] a társasági szerződést (alapító okiratot, alapszabályt) vagy a vállalkozói igazolványt, eredetiben vagy hiteles másolatban;
+a)[^206] a társasági szerződést (alapító okiratot, alapszabályt) vagy a vállalkozói igazolványt, eredetiben vagy hiteles másolatban;
 
 b) a cseppfolyósított szénhidrogén kiszolgálására szolgáló felhasználói hely használati jogcímének megállapítására alkalmas okiratot;
 
-c)[^203] a tárolótartályok jegyzékét (helye, mérete, azonosító jele), a tárolótartályok engedélyeinek és kútoszlop(ok) hitelesítési bizonylatainak listáját (kiadó hatóság, a bizonylat száma, kiadásának időpontja);
+c)[^207] a tárolótartályok jegyzékét (helye, mérete, azonosító jele), a tárolótartályok engedélyeinek és kútoszlop(ok) hitelesítési bizonylatainak listáját (kiadó hatóság, a bizonylat száma, kiadásának időpontja);
 
 d) a cseppfolyósított szénhidrogén beszerzéséről, felhasználásáról a 36. §-ban előírt adattartalommal vezetendő nyilvántartás mintáját vagy a számítógépes nyilvántartás-vezetés leírását.
 
-(2)[^204] Az üzemeltetést végzővel egy telephelyen működő, annak üzemi motorikusgáztöltő-állomását szerződés alapján használó személy (a továbbiakban: használó) a vámhatósághoz történő bejelentéséhez csatolja
+(2)[^208] Az üzemeltetést végzővel egy telephelyen működő, annak üzemi motorikusgáztöltő-állomását szerződés alapján használó személy (a továbbiakban: használó) a vámhatósághoz történő bejelentéséhez csatolja
 
-a)[^205] a társasági szerződést (alapító okiratot, alapszabályt), vagy a vállalkozói igazolványt, eredetiben vagy hiteles másolatban;
+a)[^209] a társasági szerződést (alapító okiratot, alapszabályt), vagy a vállalkozói igazolványt, eredetiben vagy hiteles másolatban;
 
 b) az üzemi motorikusgáztöltő-állomás használatára vonatkozó szerződés másolatát.
 
-(3)[^206] A vámszerv a nyilvántartásba vétel visszaigazolását a 27. számú melléklet szerinti adattartalmú nyomtatványon, a bejelentés benyújtásától számított 15 napon belül teljesíti.
+(3)[^210] A vámszerv a nyilvántartásba vétel visszaigazolását a 27. számú melléklet szerinti adattartalmú nyomtatványon, a bejelentés benyújtásától számított 15 napon belül teljesíti.
 
-(4)[^207] A bejelentésben megadott adatok változását a vámszervhez a változás bekövetkeztétől számított 15 napon belül, a 24. számú melléklet szerinti formanyomtatványon kell bejelenteni.
+(4)[^211] A bejelentésben megadott adatok változását a vámszervhez a változás bekövetkeztétől számított 15 napon belül, a 24. számú melléklet szerinti formanyomtatványon kell bejelenteni.
 
-[^201]: A 35. § (1) bekezdésének bevezető mondata a 46/2004. (XII. 29.) PM rendelet 6. §-ának (1) bekezdésével megállapított szöveg.
-[^202]: A 35. § (1) bekezdés a) pontja a 44/2009. (XII. 29.) PM rendelet 49. § (1) bekezdése szerint módosított szöveg.
-[^203]: A 35. § (1) bekezdésének c) pontja a 46/2004. (XII. 29.) PM rendelet 6. §-ának (1) bekezdésével megállapított szöveg.
-[^204]: A 35. § új (2) bekezdését a 46/2004. (XII. 29.) PM rendelet 6. §-ának (2) bekezdése iktatta be, egyidejűleg az eredeti (2)–(3) bekezdés számozását (3)–(4) bekezdésre változtatva.
-[^205]: A 35. § (2) bekezdés a) pontja a 44/2009. (XII. 29.) PM rendelet 49. § (1) bekezdése szerint módosított szöveg.
-[^206]: A 35. § eredeti (2) bekezdésének számozását (3) bekezdésre változtatta a 46/2004. (XII. 29.) PM rendelet 6. § (2) bekezdése, szövege a 17/2011. (IV. 19.) NGM rendelet 56. § (3) bekezdése szerint módosított szöveg.
-[^207]: A 35. § eredeti (3) bekezdésének számozását (4) bekezdésre változtatta a 46/2004. (XII. 29.) PM rendelet 6. § (2) bekezdése, szövege a 17/2009. (IX. 29.) PM rendelet 20. § (1) bekezdése, a 17/2011. (IV. 19.) NGM rendelet 56. § (5) bekezdése szerint módosított szöveg.
+[^205]: A 35. § (1) bekezdésének bevezető mondata a 46/2004. (XII. 29.) PM rendelet 6. §-ának (1) bekezdésével megállapított szöveg.
+[^206]: A 35. § (1) bekezdés a) pontja a 44/2009. (XII. 29.) PM rendelet 49. § (1) bekezdése szerint módosított szöveg.
+[^207]: A 35. § (1) bekezdésének c) pontja a 46/2004. (XII. 29.) PM rendelet 6. §-ának (1) bekezdésével megállapított szöveg.
+[^208]: A 35. § új (2) bekezdését a 46/2004. (XII. 29.) PM rendelet 6. §-ának (2) bekezdése iktatta be, egyidejűleg az eredeti (2)–(3) bekezdés számozását (3)–(4) bekezdésre változtatva.
+[^209]: A 35. § (2) bekezdés a) pontja a 44/2009. (XII. 29.) PM rendelet 49. § (1) bekezdése szerint módosított szöveg.
+[^210]: A 35. § eredeti (2) bekezdésének számozását (3) bekezdésre változtatta a 46/2004. (XII. 29.) PM rendelet 6. § (2) bekezdése, szövege a 17/2011. (IV. 19.) NGM rendelet 56. § (3) bekezdése szerint módosított szöveg.
+[^211]: A 35. § eredeti (3) bekezdésének számozását (4) bekezdésre változtatta a 46/2004. (XII. 29.) PM rendelet 6. § (2) bekezdése, szövege a 17/2009. (IX. 29.) PM rendelet 20. § (1) bekezdése, a 17/2011. (IV. 19.) NGM rendelet 56. § (5) bekezdése szerint módosított szöveg.

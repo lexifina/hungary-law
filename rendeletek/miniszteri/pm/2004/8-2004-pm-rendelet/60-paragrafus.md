@@ -1,18 +1,8 @@
 ## Teljes denaturálás
 
-60. § (1)[^320] Az alkoholtermék – a Jöt. 69. § (2) bekezdésében és az (1a) bekezdésben meghatározott eseteken túl – teljes denaturálással előállítottnak (a továbbiakban: denaturált szesz) akkor minősül, ha tiszta etilalkohol tartalmára vonatkoztatva legalább
+60. § (1)–(1a)[^327]
 
-a) a 2 tömegszázalék metil-etil-ketont, 3 tömegszázalék metil-izobutil-ketont és 0,001 tömegszázalék denatónium benzoátot,
-
-b) 1 tömegszázalék metil-etil-ketont és 0,001 tömegszázalék denatónium benzoátot, vagy
-
-c) 2 tömegszázalék izopropil-alkoholt, 1 tömegszázalék terc-butanolt és 0,001 tömegszázalék denatónium benzoátot
-
-## tartalmaz.
-
-(1a)[^321] Denaturált szesznek minősül az olyan alkoholtermék is, amely az abszolút etanol egy hektoliterjére 3 liter izopropil-alkoholt, 3 liter metil-etil-ketont és 1 gramm denatónium benzoátot tartalmaz.
-
-(2)[^322] A denaturált szesz előállítása során (a továbbiakban: teljes denaturálás) – az (1a) bekezdésben foglaltak kivételével – legalább
+(2)[^328] A jövedéki adó alóli mentesség alkalmazásában az alkohol teljes denaturálására vonatkozó eljárások kölcsönös elismeréséről szóló, 1993. november 22-i 3199/93/EK bizottsági rendeletben szereplő, Magyarország által bejelentett teljes denaturálási eljárás során legalább
 
 a) 2,08 liter metil-etil-ketont, 3,12 liter metil-izobutil-ketont és 0,84 gramm denatónium benzoátot,
 
@@ -22,11 +12,11 @@ c) 2,08 liter izopropil-alkoholt, 1,06 liter terc-butanolt és 0,83 gramm denat�
 
 ## kell minden 100 hektoliterfok alkoholtermékhez hozzákeverni.
 
-(3)[^323]
+(3)[^329]
 
-(4)[^324] A denaturált szesz csak szeszüzemben, illetve alkoholregeneráló és denaturáló üzemben a hatósági felügyeletet ellátó vámszerv ellenőrzése mellett állítható elő. A denaturált szesz készítésének időpontját – azt legalább 5 nappal megelőzően – a hatósági felügyeletet ellátó vámszervnek be kell jelenteni. Az állandó felügyelettel működő adóraktárakban a denaturált szesz készítésének időpontját – a teljes denaturálást követlenül megelőzően – az állandó felügyeletet ellátónak kell bejelenteni.
+(4)[^330] A teljesen denaturált alkohol (a továbbiakban: denaturált szesz) csak szeszüzemben, illetve alkoholregeneráló és denaturáló üzemben, – megbízható adós által üzemeltetett és kizárólag a Jöt. 69. § (1) bekezdése szerinti eljárásokat alkalmazó üzem kivételével – a hatósági felügyeletet ellátó vámszerv ellenőrzése mellett állítható elő. A denaturált szesz készítésének időpontját – azt legalább 2 nappal megelőzően – a hatósági felügyeletet ellátó vámszervnek be kell jelenteni. Az állandó felügyelettel működő adóraktárakban a denaturált szesz készítésének időpontját – a teljes denaturálást közvetlenül megelőzően – az állandó felügyeletet ellátónak kell bejelenteni.
 
-(5)[^325] A teljes denaturálásról két példányban jegyzőkönyvet kell készíteni, amelynek első példánya a szeszüzem, illetve az alkoholregeneráló és -denaturáló üzem, második példánya a hatósági felügyeletet ellátó vámszerv példánya. A jegyzőkönyvnek tartalmazni kell
+(5)[^331] A teljes denaturálásról két példányban jegyzőkönyvet kell készíteni, amelynek első példánya a szeszüzem, illetve az alkoholregeneráló és -denaturáló üzem, második példánya a hatósági felügyeletet ellátó vámszerv példánya. A jegyzőkönyvnek tartalmazni kell
 
 a) a szeszüzem és az alkoholregeneráló és denaturáló üzem jövedéki számát;
 
@@ -34,24 +24,24 @@ b) a denaturálás időpontját;
 
 c) a denaturálásra került alkoholtermék valódi szeszfokát, liter vagy kilogramm és hektoliterfok mennyiségét;
 
-d) az (1) bekezdés szerint felhasznált anyagok megnevezését és mennyiségét (liter, kilogramm);
+d)[^332] teljes denaturáláshoz felhasznált anyagok megnevezését és mennyiségét (liter, kilogramm);
 
-e)[^326] a denaturált szesz liter, kilogramm és hektoliterfok mennyiségét.
+e)[^333] a denaturált szesz liter, kilogramm és hektoliterfok mennyiségét.
 
-(6)[^327]
+(6)[^334]
 
 (7) A szeszüzemben, illetve az alkoholregeneráló és denaturáló üzemben a denaturált szeszt más alkoholterméktől elkülönítve kell tárolni.
 
 (8) A teljes denaturáláshoz felhasznált anyagokat tilos a denaturált szeszből egészen vagy részben kivonni, a denaturált szeszhez olyan anyagot keverni, amely a denaturált szesz hatását ízre vagy szagra megváltoztatja.
 
-(9)[^328] A denaturált szesz felhasználói engedélyes, nyilvántartásba vett felhasználó részére történő értékesítésekor a mennyiséget literben és kilogrammban is fel kell tüntetni.
+(9)[^335] A denaturált szesz felhasználói engedélyes, nyilvántartásba vett felhasználó részére történő értékesítésekor a mennyiséget literben és kilogrammban is fel kell tüntetni.
 
-[^320]: A 60. § (1) bekezdése a 22/2013. (VI. 27.) NGM rendelet 3. §-ával megállapított szöveg.
-[^321]: A 60. § (1a) bekezdését a 22/2013. (VI. 27.) NGM rendelet 3. §-a iktatta be.
-[^322]: A 60. § (2) bekezdése a 22/2013. (VI. 27.) NGM rendelet 3. §-ával megállapított szöveg.
-[^323]: A 60. § (3) bekezdését a 22/2013. (VI. 27.) NGM rendelet 15. §-a hatályon kívül helyezte.
-[^324]: A 60. § (4) bekezdése a 46/2004. (XII. 29.) PM rendelet 11. §-ával megállapított, a 17/2011. (IV. 19.) NGM rendelet 56. § (2) és (4) bekezdése szerint módosított szöveg.
-[^325]: A 60. § (5) bekezdés első mondata a 38/2008. (XII. 31.) PM rendelet 9. §-ával megállapított, a 17/2011. (IV. 19.) NGM rendelet 56. § (2) bekezdése szerint módosított szöveg.
-[^326]: A 60. § (5) bekezdés e) pontja a 38/2008. (XII. 31.) PM rendelet 9. §-ával megállapított szöveg.
-[^327]: A 60. § (6) bekezdését a 22/2013. (VI. 27.) NGM rendelet 15. §-a hatályon kívül helyezte.
-[^328]: A 60. § (9) bekezdése a 40/2007. (XII. 29.) PM rendelet 40. § (4) bekezdése szerint módosított szöveg.
+[^327]: A 60. § (1)–(1a) bekezdését 76/2013. (XII. 31.) NGM rendelet 23. § 7. pontja hatályon kívül helyezte.
+[^328]: A 60. § (2) bekezdése a 76/2013. (XII. 31.) NGM rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^329]: A 60. § (3) bekezdését a 22/2013. (VI. 27.) NGM rendelet 15. §-a hatályon kívül helyezte.
+[^330]: A 60. § (4) bekezdése a 76/2013. (XII. 31.) NGM rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^331]: A 60. § (5) bekezdés első mondata a 38/2008. (XII. 31.) PM rendelet 9. §-ával megállapított, a 17/2011. (IV. 19.) NGM rendelet 56. § (2) bekezdése szerint módosított szöveg.
+[^332]: A 60. § (5) bekezdés d) pontja a 76/2013. (XII. 31.) NGM rendelet 21. § 10. pontja szerint módosított szöveg.
+[^333]: A 60. § (5) bekezdés e) pontja a 38/2008. (XII. 31.) PM rendelet 9. §-ával megállapított szöveg.
+[^334]: A 60. § (6) bekezdését a 22/2013. (VI. 27.) NGM rendelet 15. §-a hatályon kívül helyezte.
+[^335]: A 60. § (9) bekezdése a 40/2007. (XII. 29.) PM rendelet 40. § (4) bekezdése szerint módosított szöveg.

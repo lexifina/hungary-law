@@ -1,14 +1,8 @@
 ## Egyéb bejelentési, nyilvántartás-vezetési kötelezettség[^191]
 
-31/A. §[^192] (1) A Jöt. 62/A. § (1) bekezdés szerinti, ömlesztetten szállított ásványolajat beszerző, szállító személy bejelentését a 29. számú melléklet szerinti adattartalmú, a vámhatóság által rendszeresített formanyomtatványon vagy a vámhatóság internetes honlapjáról letöltött és kinyomtatott formátumban köteles
+31/A. §[^192] (1)[^193] A Jöt. 62/A. § (1) bekezdése szerinti, más tagállamból más tagállamba vagy harmadik országba irányuló, belföldön áthaladó ömlesztett ásványolaj szállításának bejelentését a 29. számú melléklet szerinti adattartalmú, a vámhatóság internetes honlapjáról letöltött és kinyomtatott formátumban kell a belföldre történő belépés helye szerint illetékes vámszervhez írásban benyújtani.
 
-a) magyarországi felhasználási céllal történő beszerzés esetén a felhasználás,
-
-b) más tagállamból más tagállamba vagy harmadik országba történő, belföldön áthaladó szállítás esetén a belföldre történő belépés
-
-## helye szerint illetékes vámszervhez írásban benyújtani.
-
-(2) Az (1) bekezdés b) pont szerinti esetben a bejelentés – a vámhatóság által rendszeresített formanyomtatványon – a bejelentő választása szerint angol, német és francia nyelven is megtehető.
+(2)[^194] Az (1) bekezdés szerinti esetben a bejelentés – a vámhatóság által rendszeresített formanyomtatványon – a bejelentő választása szerint angol, német és francia nyelven is megtehető.
 
 (3) Az (1)–(2) bekezdés szerinti bejelentésben megadott adatok változását legkésőbb a változás napján, a szállítóeszközre vonatkozó adatok változását annak elindulását megelőzően be kell jelenteni az illetékes vámszervhez a (1)–(2) bekezdés értelemszerű alkalmazásával.
 
@@ -36,3 +30,5 @@ e) a tevékenység befejezésének tervezett időpontját.
 
 [^191]: A 31/A. §-t megelőző alcímet az 54/2011. (XII. 29.) NGM rendelet 21. §-a iktatta be, szövege az 52/2012. (XII. 29.) NGM rendelet 20. §-ával megállapított szöveg.
 [^192]: A 31/A. §-t az 54/2011. (XII. 29.) NGM rendelet 21. §-a iktatta be, szövege az 52/2012. (XII. 29.) NGM rendelet 20. §-ával megállapított szöveg.
+[^193]: A 31/A. § (1) bekezdése a 76/2013. (XII. 31.) NGM rendelet 6. §-ával megállapított szöveg.
+[^194]: A 31/A. § (2) bekezdése a 76/2013. (XII. 31.) NGM rendelet 23. § 5. pontja szerint módosított szöveg
