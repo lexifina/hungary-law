@@ -12,13 +12,15 @@ a) a pályakezdő munkavállalók után az egyes adótörvények és azzal össz
 
 b) a tartósan álláskereső személyek után az Eat. 462/C. § (2) bekezdése szerint,
 
-c) a gyermekgondozási díj folyósítását követően, a gyermekgondozási segély, valamint a gyermeknevelési támogatás folyósítása alatt vagy azt követően foglalkoztatott munkavállalók után az Eat. 462/D. § (2) bekezdése szerint, vagy
+c) a gyermekgondozási díj, a gyermekgondozási segély vagy a gyermeknevelési támogatás folyósítása alatt vagy azt követően foglalkoztatott munkavállalók után az Eat. 462/D. § (2) bekezdése szerint,
 
-d) a szabad vállalkozási zónában működő vállalkozás által foglalkoztatott új munkavállalók után az Eat. 462/E. § szerint
+d) a gyermekgondozási díj, a gyermekgondozási segély vagy a gyermeknevelési támogatás folyósítása alatt vagy azt követően foglalkoztatott munkavállalók után az Eat. 462/D. § (3) bekezdése szerint, vagy
 
-a foglalkoztatás első két évében igénybe vehető szociális hozzájárulási adókedvezményt érvényesít. Részmunkaidős foglalkoztatott esetén legfeljebb 100 ezer forint arányosan csökkentett része vehető figyelembe. E bekezdés alkalmazásában részmunkaidős foglalkoztatásnak minősül az a foglalkoztatás, amelynek munkaszerződésben meghatározott időtartama nem éri el a betöltött munkakörre érvényes teljes munkaidőt.
+e) a szabad vállalkozási zónában működő vállalkozás által foglalkoztatott új munkavállalók után az Eat. 462/E. § szerint
 
-(1b) A szakképzési hozzájárulás alapját csökkenti az azon foglalkoztatott természetes személyeknek (munkavállalóknak) a szociális hozzájárulási adó alapjának megállapításánál figyelembe vett, a munkavállalót terhelő közterhekkel és más levonásokkal nem csökkentett (bruttó) munkabérének összege, de legfeljebb a kedvezménnyel érintett munkavállalónként havonta 500 ezer forint, amely munkavállalók munkaviszonyára tekintettel a tárgyhónapban a szociális hozzájárulási adó alanya az Eat. 462/F. §-ában meghatározott, kutatók foglalkoztatása után járó szociális hozzájárulási adókedvezményt érvényesít. Részmunkaidős foglalkoztatott esetén legfeljebb 500 ezer forint arányosan csökkentett része vehető figyelembe. E bekezdés alkalmazásában részmunkaidős foglalkoztatásnak minősül az a foglalkoztatás, amelynek munkaszerződésben meghatározott időtartama nem éri el a betöltött munkakörre érvényes teljes munkaidőt.
+a foglalkoztatás első két évében, a d) pont szerinti esetben a foglalkoztatás első három évében igénybe vehető szociális hozzájárulási adókedvezményt érvényesít. Részmunkaidős foglalkoztatott esetén legfeljebb 100 ezer forint arányosan csökkentett része vehető figyelembe. E bekezdés alkalmazásában részmunkaidős foglalkoztatásnak minősül az a foglalkoztatás, amelynek munkaszerződésben meghatározott időtartama nem éri el a betöltött munkakörre érvényes teljes munkaidőt.
+
+(1b) A szakképzési hozzájárulás alapját csökkenti az azon foglalkoztatott természetes személyeknek (munkavállalóknak) a szociális hozzájárulási adó alapjának megállapításánál figyelembe vett, a munkavállalót terhelő közterhekkel és más levonásokkal nem csökkentett (bruttó) munkabérének összege, de legfeljebb a kedvezménnyel érintett munkavállalónként havonta 500 ezer forint, amely munkavállalók munkaviszonyára tekintettel a tárgyhónapban a szociális hozzájárulási adó alanya az Eat. 462/F. §-ában meghatározott, kutatók foglalkoztatása után járó 27 százalékos szociális hozzájárulási adókedvezményt érvényesít. Részmunkaidős foglalkoztatott esetén legfeljebb 500 ezer forint arányosan csökkentett része vehető figyelembe. E bekezdés alkalmazásában részmunkaidős foglalkoztatásnak minősül az a foglalkoztatás, amelynek munkaszerződésben meghatározott időtartama nem éri el a betöltött munkakörre érvényes teljes munkaidőt.
 
 (2) A szakképzési hozzájárulás mértéke a szakképzési hozzájárulás alapjának 1,5 százaléka (a továbbiakban: bruttó kötelezettség).
 
