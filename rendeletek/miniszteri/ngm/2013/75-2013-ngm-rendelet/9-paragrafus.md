@@ -4,4 +4,6 @@
 
 9. § (1) Ez a rendelet a kihirdetése napján 18 órakor lép hatályba, és 2014. január 2-án hatályát veszti.
 
-(2) Hatályát veszti az elemi költségvetésről szóló 10/2013. (III. 13.) NGM rendelet.
+(2)[^7]
+
+[^7]: A 9. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

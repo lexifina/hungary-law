@@ -1,3 +1,3 @@
-6. § (1) Hatályát veszti az R1. 6. §-a.
+6. §[^6]
 
-(2) Hatályát veszti az R1. 1 melléklet 180. sora.
+[^6]: Az 1–6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
