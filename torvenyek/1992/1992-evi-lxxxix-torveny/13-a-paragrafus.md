@@ -1,1 +1,0 @@
-13/A. § Szennyvízelvezetési és -tisztítási beruházás esetében az önkormányzatnak az üzemeltetési engedélyezési eljárás során, de legkésőbb az üzembe helyezést követő egy éven belül az engedélyező hatóság igazolása alapján a kincstár útján, címzett és céltámogatás esetében a helyi önkormányzatokért felelős miniszter felé igazolnia kell a 80%-os bekötési arány megvalósulását.

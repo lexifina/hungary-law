@@ -1,1 +1,0 @@
-13. § A központi támogatást igénybe vevő önkormányzatnak a címzett és céltámogatás előirányzatának felhasználásáról a befejezést követő hat hónapon belül – a kincstár bevonásával – el kell számolnia. Az elszámolással egyidejűleg a fel nem használt előirányzatról le kell mondania.
