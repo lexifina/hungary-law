@@ -1,4 +1,4 @@
-25. §
+25. § Ez a törvény az 5-(2-amino-propil)indol ellenőrzési intézkedések alá vonásáról szóló 2013. október 7-i 2013/496/EU tanácsi határozat végrehajtásához szükséges rendelkezéseket állapít meg.
 
 ## Melléklet az emberi felhasználásra kerülő gyógyszerekről szóló törvényhez
 
@@ -372,6 +372,18 @@ TMA–2 (2,4,5-trimetoxiamfetamin)
 
 1-(2,4,5-trimethoxyphenyl)propan–2-ylazan
 
+|
+
+26.
+
+|
+
+5-IT
+
+|
+
+5-(2-aminopropyl)indole
+
 B) Jegyzék:
 
 B) Jegyzék:
@@ -399,16 +411,6 @@ Buprenorphine(buprenorfin)
 21-cyclopropyl-7-α-[(S)-1-hydroxy-1,2,2-trimethylpropyl]-6,14-endo-
 
 ethano-6,7,8,14-tetrahydrooripavine
-
-|
-
-GHB
-
-(gamma-hidroxi-vajsav)
-
-|
-
-γ-hydroxybutyric acid
 
 |
 
