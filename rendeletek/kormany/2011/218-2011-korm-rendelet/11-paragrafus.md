@@ -1,6 +1,6 @@
 ## 7. A jegyzék
 
-11. § (1)[^17] A beszerzési eljárásban ajánlattevőként, alvállalkozóként vagy kiemelt alvállalkozóként kizárólag a jegyzéken szereplő gazdasági szereplő vehet részt a (6)–(10) bekezdésben foglalt eltérésekkel. A jegyzéken
+11. § (1)[^17] A beszerzési eljárásban ajánlattevőként, részvételre jelentkezőként, alvállalkozóként vagy kiemelt alvállalkozóként kizárólag a jegyzéken szereplő gazdasági szereplő vehet részt a (6)–(10) bekezdésben foglalt eltérésekkel. A jegyzéken
 
 a) a Mavtv.-ben meghatározott telephely biztonsági tanúsítvánnyal (a továbbiakban: TBT) rendelkező gazdasági szereplők,
 
@@ -28,7 +28,7 @@ c) a beszerzési eljáráshoz kötődő minősítésen megfelelt gazdasági szer
 
 (10)[^22] A (9) bekezdésben meghatározott esetben a nyertes ajánlattevő köteles tájékoztatni az ajánlatkérőt az általa igénybe venni kívánt alvállalkozónak vagy kiemelt alvállalkozónak – annak szolgáltatása teljesítésének megkezdése előtt – a jegyzékre vételéről.
 
-[^17]: A 11. § (1) bekezdése a 286/2013. (VII. 26.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^17]: A 11. § (1) bekezdése a 286/2013. (VII. 26.) Korm. rendelet 5. § (1) bekezdésével megállapított, nyitó szövegrésze az 564/2013. (XII. 31.) Korm. rendelet 1. §-a szerint módosított szöveg.
 [^18]: A 11. § (6) bekezdését a 286/2013. (VII. 26.) Korm. rendelet 5. § (2) bekezdése iktatta be.
 [^19]: A 11. § (7) bekezdését a 286/2013. (VII. 26.) Korm. rendelet 5. § (2) bekezdése iktatta be.
 [^20]: A 11. § (8) bekezdését a 286/2013. (VII. 26.) Korm. rendelet 5. § (2) bekezdése iktatta be.
