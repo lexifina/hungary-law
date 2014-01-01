@@ -8,9 +8,9 @@ a) derogációs projekt: a KEOP 1. Egészséges, tiszta települések prioritás
 
 b) elismerhető költség: a Nemzeti Szabályozás az elszámolható költségekről, valamint a vonatkozó pályázati kiírás szerint a támogatási intenzitás számításakor figyelembe vehető költségkategóriákban felmerülő, a beruházáshoz kapcsolódó költségek;
 
-c) kedvezményezett: olyan önkormányzat, illetve jogi személyiségű önkormányzati társulás, amely derogációs projekt megvalósítására az NFÜ által adott támogatási döntéssel rendelkezik, és a projekt finanszírozásához a hitel-, illetve kötvényprogramját veszi igénybe;
+c)[^3] kedvezményezett: olyan önkormányzat, illetve jogi személyiségű önkormányzati társulás, amely derogációs projekt megvalósítására a támogató által adott támogatási döntéssel rendelkezik, és a projekt finanszírozásához a hitel-, illetve kötvényprogramját veszi igénybe;
 
-d) támogató: az NFÜ vagy a nevében eljáró közreműködő szervezet;
+d)[^4] támogató: az államháztartásról szóló 2011. évi CXCV. törvény 48. § (2) bekezdése szerinti személy vagy a nevében eljáró közreműködő szervezet;
 
 e) finanszírozó hitelintézet: az a pénzügyi intézmény, amely az MFB-vel a hitelprogramban refinanszírozási keretmegállapodást kötött, illetve közvetlen hitelnyújtás esetén az MFB;
 
@@ -20,16 +20,8 @@ g) önrész: a derogációs projektek elismerhető összes költségének a pál
 
 h) kamattámogatás: a derogációs projekt elismerhető költségein belül elvárt megtérülő önrész finanszírozásához igénybe vett – az MFB által refinanszírozott vagy közvetlenül nyújtott – hitel, kibocsátott kötvény tőkeösszegére vetített 3 havi EURIBOR +1%/év, amely a hitelfolyósítás/kötvényjegyzés napjától a türelmi időre, de legfeljebb a hitelszerződés/kötvényjegyzés napjától számított 5 évre jár;
 
-i) ellenjegyzés: az államháztartás működési rendjéről szóló 217/1998. (XII. 30.) Korm. rendelet (a továbbiakban: Ámr.) 134. §-ának (9)–(12) bekezdésében szabályozott tevékenység;
+i)–o)[^5]
 
-j) érvényesítés: az Ámr. 135. §-ának (3)–(6) bekezdésében szabályozott tevékenység;
-
-k) kötelezettségvállalás: az Ámr. 134. §-ának (1)–(8), illetve (13)–(14) bekezdésében szabályozott tevékenység;
-
-l) kötelezettségvállalás ellenjegyzése: az Ámr. 134. §-ának (9)–(12) bekezdésében szabályozott tevékenység;
-
-m) szakmai teljesítés igazolása: az Ámr. 135. §-ának (1) és (2) bekezdésében szabályozott tevékenység;
-
-n) utalványozás: az Ámr. 136. §-ában szabályozott tevékenység;
-
-o) utalványozás ellenjegyzése: az Ámr. 137. §-ában szabályozott tevékenység.
+[^3]: A 4. § c) pontja az 549/2013. (XII. 30.) Korm. rendelet 54. § b) pontja szerint módosított szöveg.
+[^4]: A 4. § d) pontja az 549/2013. (XII. 30.) Korm. rendelet 54. § c) pontja szerint módosított szöveg.
+[^5]: A 4. § i)–o) pontját az 549/2013. (XII. 30.) Korm. rendelet 55. § b) pontja hatályon kívül helyezte.

@@ -1,4 +1,4 @@
-## 20. § Amennyiben a hitel- és kötvényprogram igénybevétele esetén megállapítást nyer, hogy a kedvezményezett jogosulatlanul vette igénybe a kedvezményes kamatozású hitel-, illetve kötvénykonstrukciót, a jogosulatlan kamattámogatás összegéről az NFÜ haladéktalanul tájékoztatja a MFB-t, amely a 12. § alapján megteszi a szükséges lépéseket a kamattámogatás összegének visszafizetése érdekében. A finanszírozó hitelintézet, illetve a befektető által az MFB részére visszafizetett kamattámogatás összegét az MFB köteles az NFÜ részére visszafizetni.
+## 20. §[^10] Amennyiben a hitel- és kötvényprogram igénybevétele esetén megállapítást nyer, hogy a kedvezményezett jogosulatlanul vette igénybe a kedvezményes kamatozású hitel-, illetve kötvénykonstrukciót, a jogosulatlan kamattámogatás összegéről a fejezetet irányító szerv haladéktalanul tájékoztatja a MFB-t, amely a 12. § alapján megteszi a szükséges lépéseket a kamattámogatás összegének visszafizetése érdekében. A finanszírozó hitelintézet, illetve a befektető által az MFB részére visszafizetett kamattámogatás összegét az MFB köteles a fejezetet irányító szerv részére visszafizetni.
 
 ## Záró rendelkezések
 
@@ -33,3 +33,5 @@ Kelt,…………………………………………
 ............................................
 
 Kedvezményezett
+
+[^10]: A 20. § az 549/2013. (XII. 30.) Korm. rendelet 54. § f) pontja szerint módosított szöveg.
