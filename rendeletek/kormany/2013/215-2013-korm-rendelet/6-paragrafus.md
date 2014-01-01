@@ -2,7 +2,8 @@
 
 (2)[^2]
 
-(3)–(4)[^3]
+(3) Hatályát veszti a radioaktív hulladékok és a kiégett üzemanyag elhelyezésére, valamint a nukleáris létesítmények leszerelésére kijelölt szerv létrehozásáról és tevékenységének pénzügyi forrásáról szóló 240/1997. (XII. 18.) Korm. rendelet.
+
+(4) Hatályát veszti a Központi Nukleáris Pénzügyi Alap működéséről és eljárásrendjéről szóló 14/2005. (VII. 25.) IM rendelet.
 
 [^2]: A 6. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: A 6. § (3)–(4) bekezdése az 5. § (2) bekezdése alapján 2014. január 1-jén lép hatályba.
