@@ -20,4 +20,6 @@ ga) annak a szakmai érdek-képviseleti szervnek (kamarának) a megnevezését, 
 
 gb) a természetes személy szolgáltató szakképzettségének, illetve szakmai, tudományos fokozatának, valamint annak a tagállamnak a megjelölését, ahol ezt a szakképzettséget, illetve fokozatot megszerezte;
 
-gc) hivatkozást a szabályozott szakma gyakorlásának a szolgáltató letelepedési helye szerinti államban alkalmazandó szakmai szabályaira, és az azokhoz való hozzáférés módjára.
+gc) hivatkozást a szabályozott szakma gyakorlásának a szolgáltató letelepedési helye szerinti államban alkalmazandó szakmai szabályaira, és az azokhoz való hozzáférés módjára,
+
+h) a szolgáltató részére a tárhelyet biztosító, a 2. § l) pont lc) alpontjában meghatározott szolgáltató székhelyét, telephelyét, az elérhetőségére vonatkozó adatokat, különösen az igénybe vevőkkel való kapcsolattartásra szolgáló, rendszeresen használt elektronikus levelezési címét, kivéve, ha a szolgáltató részére nyújtott tárhelyszolgáltatás jellegéből adódóan ezek az adatok egyébként is megismerhetőek.

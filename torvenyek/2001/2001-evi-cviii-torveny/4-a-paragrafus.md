@@ -1,0 +1,9 @@
+## A kiskorúak védelme és a Gyermekvédelmi Internet-kerekasztal
+
+4/A. § (1) A szolgáltató által közzétett – a sajtószabadságról és a médiatartalmak alapvető szabályairól szóló 2010. évi CIV. törvény szerinti médiatartalomnak nem minősülő – olyan információ, amely súlyosan károsíthatja a kiskorúak szellemi, lelki, erkölcsi vagy fizikai fejlődését, különösen azáltal, hogy meghatározó eleme az erőszak, illetve a szexualitás közvetlen, naturális ábrázolása, csak az információt tartalmazó aloldalon az információ megjelenítése előtt közzétett, a kiskorúak lehetséges veszélyeztetéséről szóló tájékoztatást tartalmazó figyelmeztető jelzéssel, továbbá az aloldal forráskódjában szereplő olyan azonosítókkal tehető közzé, amelyek utalnak a tartalom kategóriájára, és amelyek az elektronikus hírközlésről szóló 2003. évi C. törvény (a továbbiakban: Eht.) 149/A. § (1) bekezdése szerinti szűrőszoftverek (a továbbiakban: szűrőszoftver) által felismerhetők.
+
+(2) Az (1) bekezdésben foglalt rendelkezés általános érvényesülését a Gyermekvédelmi Internet-kerekasztal (a továbbiakban: Kerekasztal) kíséri figyelemmel, emellett ösztönzi és támogatja a médiatartalom-szolgáltatások és az információs társadalommal összefüggő szolgáltatások terén a kiskorúak védelmét szolgáló egyéb jogszabályi előírások – a 2. § l) pont la)–ld) alpontjában meghatározott közvetítő szolgáltatók, valamint a tartalomszolgáltatók szakmai szervezetei önszabályozó tevékenysége által támogatott – hatályosulását.
+
+(3) A Kerekasztalhoz bárki fordulhat az (1) bekezdésben foglalt rendelkezés vélelmezett megsértése esetén. A Kerekasztal az ilyen bejelentéseket megvizsgálva, azok általános tapasztalatait a (2) bekezdés szerinti tevékenysége során felhasználja.
+
+(4) A Kerekasztal ellátja az Eht. 149/A. § (2) bekezdése szerinti feladatokat a szűrőszoftverek fejlesztésének, kiválasztásának és elterjedésének elősegítése érdekében.
