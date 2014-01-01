@@ -1,0 +1,3 @@
+45/E. § (1) Ha a vízügyi igazgatási szerv a 45/D. § (2) bekezdés a) pontja szerinti szakmai ellenőrzés eredményeképpen megállapítja, hogy a felajánlott vízfolyásnak, csatornának a belvízelvezetésben vagy az öntözésben betöltött szerepe közérdekű, a vízfolyás, csatorna tulajdonosával – az üzemeltetési és fenntartási feladatok átvállalásáról – ellenérték nélküli üzemeltetési szerződést köt.
+
+(2) Az (1) bekezdés szerinti üzemeltetési szerződés megkötése és a szerződés hatálybalépése között legfeljebb három hónap időtartamot kell biztosítani, amely alatt a vízügyi igazgatási szerv a vízfolyás és a csatorna üzemeltetésre, fenntartásra történő átvételét előkészíti.

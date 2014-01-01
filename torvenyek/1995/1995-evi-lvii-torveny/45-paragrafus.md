@@ -64,7 +64,7 @@ x) a folyók nagyvízi medrére vonatkozó kezelési terv készítésének rendj
 
 y) a nem közművel összegyűjtött háztartási szennyvízszállítási közszolgáltatási tevékenység végzési feltételeinek, az e tevékenységre jogosító bejelentés és a nyilvántartás tartalmi elemeire, a tevékenységre jogszabályban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeknek, a közszolgáltatási bírság mértékének és megállapítása módjának, a közszolgáltatási szerződés tartalmának, valamint a közszolgáltatási díj megállapításának, a nyilvántartási és adatszolgáltatási kötelezettségnek;
 
-y) a mezőgazdasági vízszolgáltatási díj megállapítása részletes szabályainak
+z) a mezőgazdasági vízszolgáltatási díj megállapítása részletes szabályainak
 
 rendeletben történő megállapítására.
 
@@ -98,11 +98,13 @@ m) az igazgatási szolgáltatási díj fizetésére kötelezett eljárások, iga
 
 n) az országos árvízi kockázatkezelési tervnek – a helyi önkormányzatokért felelős, a területfejlesztésért felelős, a területrendezésért felelős, a földügyért felelős, a közlekedésért felelős miniszterrel egyetértésben –;
 
-o) a folyók nagyvízi medrére vonatkozó kezelési terv;
+o)
 
 p) a távlati vízbázisok megnevezésének, valamint az egyes távlati vízbázisokkal érintett települések jegyzékének
 
 rendeletben történő megállapítására.
+
+(8a) Felhatalmazást kap a vízügyi igazgatási szervek irányításáért felelős miniszter a folyók nagyvízi medrére vonatkozó kezelési tervek rendeletben történő megállapítására.
 
 (9) A vízgazdálkodással, valamint a vizek védelmével összefüggő érdekek érvényesítését a Magyarország két- vagy többoldalú nemzetközi együttműködési, tájékoztatási, segítségnyújtási megállapodásokkal is elősegíti, különösen a szomszédos országokkal való kapcsolatában. Nemzetközi szerződés hiányában is figyelemmel kell lenni más államok — különösen a szomszédos országok — vízgazdálkodással összefüggő érdekeire.
 

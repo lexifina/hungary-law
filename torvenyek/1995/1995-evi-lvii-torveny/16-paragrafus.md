@@ -18,7 +18,7 @@ c) a védekezés területi tervezése, szervezése, szakmai irányítása;
 
 d) a helyi önkormányzatok vízkár-elhárítási tevékenységének szakmai irányítása;
 
-e) a helyi önkormányzatok számára a vizek kártételei elleni védelemmel összefüggő, a közigazgatási feladatok ellátásához szükséges tervek elkészítéséhez adatok szolgáltatása;
+e) a helyi önkormányzatok számára a vizek kártételei elleni védelemmel összefüggő vízkárelhárítási tervek és fejlesztési tervek elkészítéséhez és felülvizsgálatához adatok szolgáltatása, valamint a folyók menti nyílt ártéri települések esetében a vízkárelhárítási tervek elkészítése és a meglévő tervek felülvizsgálata;
 
 f) a vízitársulatok vízkár-elhárítási tevékenységének szakmai irányítása;
 

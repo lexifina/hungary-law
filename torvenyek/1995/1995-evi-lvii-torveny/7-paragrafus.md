@@ -1,4 +1,4 @@
-7. § (1) Az állami tulajdonban lévő vizekről és vízilétesítményekről a 9–10. §-okban és a 13. §-ban foglaltakra is figyelemmel, a közérdek mértékéig, a központi költségvetés – ideértve a fejezeti kezelésű Környezetvédelmi és vízügyi célelőirányzat pénzeszközeinek felhasználásával –, illetve a külön törvényben szabályozott vízitársulat útján kell gondoskodni.
+7. § (1) Az állami tulajdonban lévő, valamint a 6/A. § szerint állami üzemeltetésbe és fenntartásba kerülő vizek és vízilétesítmények üzemeltetésének és fenntartásának költségeit – a 9. és 10. §-ban foglaltakra is figyelemmel – a közérdek mértékéig a központi költségvetés útján kell biztosítani.
 
 (2) Az (1) bekezdésben megjelölt feladat:
 
@@ -32,4 +32,6 @@ e) a víz, a hordalék, a jég zavartalan levonulási lehetőségének megteremt
 
 f) a település belterületén a patakok, csatornák áradása, továbbá a csapadék- és egyéb vizek kártételének megelőzése, a kül- és belterületen a patakszabályozás, árvízvédelmi létesítmények építése, fenntartása, fejlesztése, az árvízmentesítés, az árvízvédekezés szervezése, irányítása, végrehajtása, a védelmi szakfelszerelés karbantartása és fejlesztése.
 
-(5)-(6)
+(5) Az állami tulajdonban lévő vízfolyás medrének és parti sávjának lehatárolásáról a vízügyi igazgatási szerv gondoskodik.
+
+(6)

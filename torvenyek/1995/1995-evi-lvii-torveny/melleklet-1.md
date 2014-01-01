@@ -32,7 +32,7 @@ a) nagyvízi meder: a vízfolyást vagy állóvizet magában foglaló terület, 
 
 b) nagyvízi meder kezelés: a terület hasznosítása és használata, a terület felmérése és nyilvántartása, megóvása, őrzése, fenntartása érdekében végzett tevékenység;
 
-13. Mezőgazdasági célú vízgazdálkodás: a mezőgazdaság feladatait, érdekeit szolgáló vízhasznosítási és vízkárelhárítási tevékenység, a kizárólagos állami tulajdonban lévő vizek és közcélú vízilétesítményekkel összefüggő feladatok, valamint a vízügyi hatósági hatáskör gyakorlása kivételével;
+13. Mezőgazdasági célú vízgazdálkodás: a mezőgazdaság feladatait, érdekeit szolgáló vízhasznosítási és vízkárelhárítási tevékenység;
 
 14. regionális víziközmű: az egymással oly módon összefüggő — műszakilag elkülönítve gazdaságosan nem üzemeltethető — víziközművek, melyek egységes rendszert alkotnak, és a rendszer több települést (megyét) átfogó, összefüggő földrajzi területen (országrész, régió) nagyszámú, jellemzően vízbázistól távol fekvő település részére a vízkitermelést, -tisztítást, -elosztást — amelyhez a fogyasztók közműves ivóvízellátása, szennyvízelvezetés is tartozhat — látják el.
 
@@ -74,7 +74,7 @@ b) saját célú vízilétesítmények: rendeltetésük szerint üzemi, háztart
 
 29. vízkészlet-gazdálkodás: azoknak a tevékenységeknek az összessége, amelyeknek célja a vizek használatára irányuló igények kielégítése oly módon, hogy ennek következtében a vizek állapotában visszafordíthatatlan változás ne következzék be és a vízkészlethez való hozzáférés lehetősége ne csökkenjen;
 
-30. vizek kártételei elleni védelem és védekezés (vízkárelhárítás): a károsan sok vagy károsan kevés víz elleni szervezett tevékenység.
+30. vizek kártételei elleni védelem és védekezés (vízkárelhárítás): a károsan sok vagy károsan kevés víz elleni szervezett tevékenység, ideértve a kártételek megelőzését szolgáló védőművek építését, rekonstrukcióját, fejlesztését, üzemeltetését és fenntartását, valamint a védekezést követő helyreállítást is;
 
 31. vízszolgáltatások: az állam, illetve a helyi önkormányzatok közfeladataival összefüggő, különösen a vízigények kielégítésére, a szennyvizek elvezetésére, illetőleg a használt vizek ártalommentes elhelyezésére, a vízkészletek védelmére irányuló közfeladatok, különösen
 
