@@ -74,9 +74,9 @@
 
 ## szakképesítés esetében az iskolarendszeren kívüli szakképzés a szakképesítés szakmai és vizsgakövetelményének kiadását követően indítható.
 
-(8)[^5] A foglalkoztatást elősegítő támogatásokról, valamint a Munkaerőpiaci Alapból foglalkoztatási válsághelyzetek kezelésére nyújtható támogatásról szóló 6/1996. (VII. 16.) MüM rendelet (a továbbiakban: MüM rendelet) 3. §-a szerinti jegyzéken szereplő, felnőttképzést folytató intézmények a MüM rendelet 4. § (1) bekezdése szerinti együttműködési megállapodás alapján folyó képzéseiket, továbbá a Nemzeti Munkaügyi Hivatal (a továbbiakban: NMH) által a központi költségvetés vagy európai uniós források terhére megvalósított programokkal összefüggésben az NMH által vezetett jegyzéken szereplő, felnőttképzést folytató intézmények a vonatkozó program szerinti együttműködési megállapodás alapján megvalósuló képzéseiket a 2012. augusztus 31-én hatályos OKJ és a 2012. augusztus 31-én hatályos OKJ-hoz kiadott szakmai és vizsgakövetelmények szerint is indíthatják.
+(8)[^5]
 
 [^2]: A 9. § (3) bekezdése a 84/2013. (III. 21.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^3]: A 9. § (6) bekezdése a 331/2012. (XI. 28.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.
 [^4]: A 9. § (7) bekezdését a 84/2013. (III. 21.) Korm. rendelet 2. § (2) bekezdése iktatta be.
-[^5]: A 9. § (8) bekezdését a 315/2013. (VIII. 28.) Korm. rendelet 66. § (1) bekezdése iktatta be.
+[^5]: A 9. § (8) bekezdését a 315/2013. (VIII. 28.) Korm. rendelet 66. § (1) bekezdése iktatta be, hatályon kívül helyezte a 11. § (3) bekezdése.
