@@ -1,4 +1,4 @@
-9/A. §[^37] (1) A 9. § (1) bekezdés a) pontja szerinti esetben a finanszírozó szervezet kiválasztása nyilvános pályázat útján történik a versenysemlegesség szempontjainak érvényesítésével.
+9/A. §[^39] (1) A 9. § (1) bekezdés a) pontja szerinti esetben a finanszírozó szervezet kiválasztása nyilvános pályázat útján történik a versenysemlegesség szempontjainak érvényesítésével.
 
 (2) A pályázati felhívást a miniszter által vezetett minisztérium honlapján kell közzétenni, a közzététel napját kell a pályázat meghirdetési időpontjának tekinteni.
 
@@ -52,4 +52,4 @@ i) az ajánlattevők értesítésének módját és várható határidejét.
 
 (9) A pályázati ajánlatok elbírálásáról a miniszter dönt. Az ajánlatok közül – a (4) bekezdés f) pontjában foglaltak figyelembevételével – az összességében legkedvezőbb feltételeket kínáló, megalapozott ajánlat mellett kell dönteni.
 
-[^37]: A 9/A. §-t a 189/2011. (IX. 19.) Korm. rendelet 5. §-a iktatta be.
+[^39]: A 9/A. §-t a 189/2011. (IX. 19.) Korm. rendelet 5. §-a iktatta be.

@@ -1,6 +1,6 @@
 ## 4. A jogosultság megállapítása
 
-7. § (1)[^23] A közlekedési kedvezmény iránti kérelmet a lakóhely szerint illetékes megyei, fővárosi kormányhivatal megyei, fővárosi szociális és gyámhivatalánál (a továbbiakban: hivatal) minden év március 31-éig és szeptember 30-áig lehet benyújtani.
+7. § (1)[^24] A közlekedési kedvezmény iránti kérelmet a lakóhely szerint illetékes megyei, fővárosi kormányhivatal megyei, fővárosi szociális és gyámhivatalánál (a továbbiakban: hivatal) minden év március 31-éig és szeptember 30-áig lehet benyújtani.
 
 (2) A kérelemben fel kell tüntetni
 
@@ -8,7 +8,7 @@ a) a 4. § (1) bekezdésének vagy az 5. § (1) bekezdésének megfelelő pontj�
 
 b) szállítást végző személy esetén a szállítást végző személy természetes személyazonosító adatait.
 
-(3)[^24] A kérelemhez mellékelni kell
+(3)[^25] A kérelemhez mellékelni kell
 
 a) a súlyos mozgáskorlátozottság, illetve egyéb fogyatékosság tényét igazoló,
 
@@ -40,7 +40,7 @@ e) a súlyos mozgáskorlátozott, illetve az egyéb fogyatékossággal élő és
 
 f) a 4. § (1) bekezdés a)–b) pontja szerinti esetben a súlyos mozgáskorlátozott, illetve az egyéb fogyatékossággal élő személy nyilatkozatát arról, hogy a 9. § (1) bekezdés a) pontja szerinti szerződés megkötését vállalja.
 
-(4) Az 1. § c)–d) pontja szerinti személynek a közlekedési kedvezmény iránti kérelméhez – a (3) bekezdésben meghatározottakon túl – csatolnia kell
+(4)[^26] Az 1. § c)–e) pontja szerinti személynek a közlekedési kedvezmény iránti kérelméhez – a (3) bekezdésben meghatározottakon túl – csatolnia kell
 
 a) a tartózkodási engedély másolatát,
 
@@ -50,8 +50,9 @@ c) a rokoni kapcsolatot igazoló irat másolatát, amennyiben hozzátartozókén
 
 (5) Ha a kérelmező az érvényes vezetői engedély fénymásolatát, a tanulói, képzési jogviszony fennállását igazoló dokumentumot, a tartózkodási engedély másolatát vagy a (3) bekezdés a) pont aa) alpontja szerinti dokumentumot nem mellékeli a kérelméhez, a hivatal adatszolgáltatási kérelemmel fordul az adatokról nyilvántartást vezető hatósághoz.
 
-(6)[^25] A (3) bekezdés b), c) és d) pontja, valamint a (4) bekezdés szerint igazolandó körülményeknek a kérelem benyújtásának időpontjában kell fennállniuk.
+(6)[^27] A (3) bekezdés b), c) és d) pontja, valamint a (4) bekezdés szerint igazolandó körülményeknek a kérelem benyújtásának időpontjában kell fennállniuk.
 
-[^23]: A 7. § (1) bekezdése a 250/2012. (IX. 7.) Korm. rendelet 4. § (1) bekezdésével megállapított, a 174/2012. (VII. 26.) Korm. rendelet 84. § (2) bekezdése szerint módosított szöveg.
-[^24]: A 7. § (3) bekezdése a 250/2012. (IX. 7.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
-[^25]: A 7. § (6) bekezdését a 61/2012. (III. 30.) Korm. rendelet 11. § (2) bekezdése iktatta be.
+[^24]: A 7. § (1) bekezdése a 250/2012. (IX. 7.) Korm. rendelet 4. § (1) bekezdésével megállapított, a 174/2012. (VII. 26.) Korm. rendelet 84. § (2) bekezdése szerint módosított szöveg.
+[^25]: A 7. § (3) bekezdése a 250/2012. (IX. 7.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^26]: A 7. § (4) bekezdés nyitó szövegrésze az 509/2013. (XII. 29.) Korm. rendelet 19. §-a szerint módosított szöveg.
+[^27]: A 7. § (6) bekezdését a 61/2012. (III. 30.) Korm. rendelet 11. § (2) bekezdése iktatta be.

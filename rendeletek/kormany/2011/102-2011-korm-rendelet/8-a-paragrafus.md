@@ -1,6 +1,6 @@
-## 4/A. [^32] A közlekedőképesség minősítése
+## 4/A. [^34] A közlekedőképesség minősítése
 
-8/A. § (1)[^33] Ha a kérelmező a 7. § (3) bekezdés a) pont aa)–ac) alpontja szerinti iratok egyikét sem csatolta, a hivatal a kérelem beérkezésétől számított nyolc napon belül – a 7. § (3) bekezdés a) pont ad) alpontja szerinti iratok megküldésével – megkeresi a rehabilitációs szakigazgatási szervet a közlekedőképesség minősítése érdekében.
+8/A. § (1)[^35] Ha a kérelmező a 7. § (3) bekezdés a) pont aa)–ac) alpontja szerinti iratok egyikét sem csatolta, a hivatal a kérelem beérkezésétől számított nyolc napon belül – a 7. § (3) bekezdés a) pont ad) alpontja szerinti iratok megküldésével – megkeresi a rehabilitációs szakigazgatási szervet a közlekedőképesség minősítése érdekében.
 
 (2) A szakértői szerv közlekedőképességében súlyosan akadályozottnak minősíti azt a személyt, akinek a komplex minősítésre vonatkozó részletes szabályokról szóló 7/2012. (II. 14.) NEFMI rendelet 1. melléklete szerinti
 
@@ -24,8 +24,8 @@ b) a következő felülvizsgálat időpontját.
 
 (4) A közlekedőképesség vizsgálata a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló törvény szerinti komplex minősítés keretében is kérhető.
 
-(5)[^34] Ha a közlekedőképesség vizsgálata nem folyamatban levő hatósági eljárás keretében válik szükségessé, azt a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalánál lehet kezdeményezni, amely a továbbiakban az (1) bekezdés szerint jár el.
+(5)[^36]
 
-[^32]: A 4/A. alcímet (8/A. §) a 61/2012. (III. 30.) Korm. rendelet 13. §-a iktatta be.
-[^33]: A 8/A. § (1) bekezdése a 95/2012. (V. 15.) Korm. rendelet 44. § (2) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 23. §-át.
-[^34]: A 8/A. § (5) bekezdése a 352/2012. (XII. 13.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^34]: A 4/A. alcímet (8/A. §) a 61/2012. (III. 30.) Korm. rendelet 13. §-a iktatta be.
+[^35]: A 8/A. § (1) bekezdése a 95/2012. (V. 15.) Korm. rendelet 44. § (2) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 23. §-át.
+[^36]: A 8/A. § (5) bekezdését az 509/2013. (XII. 29.) Korm. rendelet 20. §-a hatályon kívül helyezte.
