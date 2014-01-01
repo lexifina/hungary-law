@@ -40,9 +40,10 @@ h) közreműködést a szabványosítási programokban, szabványtervezetek egye
 
 i) a műszaki-biztonsági felügyeleti tevékenységekhez tartozó munkakörök szakterületére vonatkozó jogszabályok, szabályzatok, szabványok ismeretét és a szakmai gyakorlati ismeretek meglétét igazoló szakvizsgához vizsgabizottság működtetését.
 
-(6) A mérésügyi és műszaki biztonsági tevékenységért külön jogszabály alapján befizetett igazgatási szolgáltatási díjbevétel 35%-a a fővárosi és megyei kormányhivatalt, 65%-a a Hivatalt illeti meg. A Hivatal a díjbevételt a tárgyhónapot követő hónap 25. napjáig utalja át a jogosultak részére.
+(6)[^3] A mérésügyi és műszaki biztonsági tevékenységért jogszabály alapján befizetett igazgatási szolgáltatási díjbevétel 50%-a a fővárosi és megyei kormányhivatalokat, 50%-a a Hivatalt illeti meg. A Hivatal a díjbevételt a tárgyhónapot követő hónap 25. napjáig utalja át a jogosultak részére.
 
 (7) A Hivatal központi szerve, illetve az illetékes területi mérésügyi és műszaki biztonsági hatóságok hatáskörébe tartozó mérésügyi és műszaki biztonsági ügyben az eljárást az ügyfél a lakóhelye vagy tevékenysége folytatásának helye szerint illetékes fővárosi és megyei kormányhivatal ügyfélszolgálatán keresztül is benyújthatja. Az ügyintézési határidőt ebben az esetben a kérelemnek az ügy elbírálására hatáskörrel rendelkező hatósághoz való megérkezéstől kell számítani.
 
 [^1]: A 2. § (5) bekezdés a) pontját a 7/2013. (I. 18.) Korm. rendelet 12. § c) pontja hatályon kívül helyezte.
 [^2]: A 2. § (5) bekezdés c) pontját a 7/2013. (I. 18.) Korm. rendelet 12. § c) pontja hatályon kívül helyezte.
+[^3]: A 2. § (6) bekezdése az 524/2013. (XII. 30.) Korm. rendelet 8. §-ával megállapított szöveg.
