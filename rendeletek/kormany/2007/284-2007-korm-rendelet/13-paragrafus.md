@@ -12,6 +12,6 @@ b) építkezés közben előforduló, előre nem tervezhető, határérték fele
 
 (3) A környezetvédelmi hatóság a zajterhelési határérték alóli felmentésről szóló határozatában az építőipari tevékenység napi, heti időbeosztására és a munkavégzés teljesítményére vonatkozóan is előírhat korlátozást.
 
-(4)[^5]
+(4)[^6]
 
-[^5]: A 13. § (4) bekezdését a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdésének 5. pontja hatályon kívül helyezte. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1. napját követően indult eljárásokban kell alkalmazni.
+[^6]: A 13. § (4) bekezdését a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdésének 5. pontja hatályon kívül helyezte. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1. napját követően indult eljárásokban kell alkalmazni.

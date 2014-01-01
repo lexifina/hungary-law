@@ -1,4 +1,4 @@
-## A települési önkormányzat jegyzőjének hatáskörébe tartozó zaj- és rezgésvédelmi ügyek[^24]
+## A települési önkormányzat jegyzőjének hatáskörébe tartozó zaj- és rezgésvédelmi ügyek[^25]
 
 ## A gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról és a 3073/90/EGK tanácsi rendelet, valamint egyes meghatározott statisztikai területekre vonatkozó EK-rendeletek módosításáról szóló 1893/2006/EK európai parlamenti és tanácsi rendelet szerint:
 
@@ -108,4 +108,4 @@ A zajvédelmi munkarészt részletes számítással kell megalapozni.
 
 7.7. alkalmazni kell e melléklet 3. pontjában foglaltakat is.
 
-[^24]: Az 1. számú melléklet címe az 51/2013. (II. 25.) Korm. rendelet 14. §-a szerint módosított szöveg.
+[^25]: Az 1. számú melléklet címe az 51/2013. (II. 25.) Korm. rendelet 14. §-a szerint módosított szöveg.

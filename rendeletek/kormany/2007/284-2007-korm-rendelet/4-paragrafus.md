@@ -12,7 +12,7 @@ ca) valamennyi, az adott épületen belüli, illetve
 
 cb) az adott épületen kívüli rezgésforrás okozta rezgésterhelés esetén az 1. számú melléklet szerinti tevékenységeknél.
 
-(2) Az (1) bekezdésben foglalt ügyekben a másodfokú hatósági jogkört a környezetvédelmi, természetvédelmi, vízügyi hatósági és igazgatási feladatokat ellátó szervek kijelöléséről szóló külön jogszabályban[^2] meghatározott környezetvédelmi, természetvédelmi és vízügyi felügyelőség (a továbbiakban: felügyelőség) gyakorolja.
+(2)[^2] Az (1) bekezdésben foglalt ügyekben a másodfokú hatósági jogkört a környezetvédelmi és természetvédelmi felügyelőség (a továbbiakban: felügyelőség) gyakorolja.
 
 (3) A felügyelőség gyakorolja az első fokú hatósági jogkört
 
@@ -22,7 +22,8 @@ b) valamennyi előzetes vizsgálat köteles, környezeti hatásvizsgálat kötel
 
 c) a fokozottan zajos területekkel kapcsolatos eljárásokban.
 
-(4) A honvédelmi és katonai célú építmények vonatkozásában az első fokú hatósági jogkört a Közép-Tisza-vidéki Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség gyakorolja.
+(4)[^3] A honvédelmi és katonai célú építmények vonatkozásában az első fokú hatósági jogkört a Közép-Tisza-vidéki Környezetvédelmi és Természetvédelmi Felügyelőség gyakorolja.
 
 [^1]: A 4. § (1) bekezdése a 414/2012. (XII. 29.) Korm. rendelet 2. §-ával megállapított, nyitó szövegrésze a 255/2013. (VII. 5.) Korm. rendelet 23. §-a szerint módosított szöveg.
-[^2]: A környezetvédelmi, természetvédelmi, vízügyi hatósági és igazgatási feladatokat ellátó szervek kijelöléséről szóló 347/2006. (XII. 23.) Korm. rendelet.
+[^2]: A 4. § (2) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 55. § a) pontja szerint módosított szöveg.
+[^3]: A 4. § (4) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 55. § b) pontja szerint módosított szöveg.
