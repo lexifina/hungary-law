@@ -1,1 +1,0 @@
-## „(3) A Tv. 29. § (1) bekezdés a)–f) pontjának hatálya alá tartozó harmadik országbeli állampolgárnak a tartózkodási engedély kiadásához, illetve meghosszabbításához ki kell töltenie a külön jogszabály szerinti adatlapot, továbbá az adatlaphoz mellékelnie kell egy darab arcfényképet.”
