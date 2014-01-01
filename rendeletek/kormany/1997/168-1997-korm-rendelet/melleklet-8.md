@@ -1,4 +1,4 @@
-8. számú melléklet a 168/1997. (X. 6.) Korm. rendelethez[^313]
+8. számú melléklet a 168/1997. (X. 6.) Korm. rendelethez[^315]
 
 A keresetek, jövedelmek beszámítása során alkalmazandó valorizációs szorzószám
 
@@ -10,4 +10,4 @@ A keresetek, jövedelmek beszámítása során alkalmazandó valorizációs szor
 
 | 2. | 2011. | 1,046 |
 
-[^313]: A 8. számú mellékletet a 91/2013. (III. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^315]: A 8. számú mellékletet a 91/2013. (III. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
