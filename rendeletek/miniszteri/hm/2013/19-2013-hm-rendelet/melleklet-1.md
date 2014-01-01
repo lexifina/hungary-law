@@ -1,4 +1,4 @@
-## 38. §[^2]
+## 38. §[^3]
 
 1. melléklet a 19/2013. (IX. 6.) HM rendelethez
 
@@ -238,4 +238,4 @@ P. H.
 
 ** A felesleges szövegrészek kihúzandók!
 
-[^2]: A 38. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 38. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
