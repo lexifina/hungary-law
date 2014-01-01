@@ -100,9 +100,9 @@
 
 | 52. | VM | Kiemelten fontos érzékeny természeti terület | 4.8. | frissítést követően | előfordulási hely | frissítést követő 90. nap |
 
-| 53. | VM, BM | Környezetvédelmi, természetvédelmi és vízügyi felügyelőségek illetékessége, vízügyi igazgatóságok, valamint nemzeti park igazgatóságok működési területe | 5.1. | frissítést követően | térség | frissítést követő 90. nap |
+| 53. | VM, BM | Környezetvédelmi és természetvédelmi felügyelőség és a területi vízügyi hatóság illetékessége, vízügyi igazgatóságok, valamint nemzeti park igazgatóságok működési területe | 5.1. | frissítést követően | térség | frissítést követő 90. nap |
 
-| 54. | VM | Kiemelten érzékeny felszín alatti vízminőség-védelmi terület | 4.9.1. | frissítést követően | előfordulási hely | frissítést követő 90. nap |
+| 54. | BM | Kiemelten érzékeny felszín alatti vízminőség-védelmi terület | 4.9.1. | frissítést követően | előfordulási hely | frissítést követő 90. nap |
 
 | 55. | VM | Országos jelentőségű védett természeti területek adatbázisa, Natura 2000 területek adatbázisa | 4.8. | frissítést követően | előfordulási hely | frissítést követő 90. nap |
 
@@ -116,7 +116,7 @@
 
 | 60. | VM | Veszélyes hulladékok keletkezett mennyisége | 3.5. | évente vagy frissítést követően | település | frissítést követő 90. nap |
 
-| 61. | VM | Kármentesítési munkálatok | 4.12. | évente vagy frissítést követően | előfordulási hely | frissítést követő 90. nap |
+| 61. | VM, BM | Kármentesítési munkálatok | 4.12. | évente vagy frissítést követően | előfordulási hely | frissítést követő 90. nap |
 
 | 62. | MÁV, GYSEV | Vasúthálózat nyomvonalának digitális térképi és műszaki kapacitás adatai | 3.1.2. | frissítést követően | objektum | frissítést követő 90. nap |
 
@@ -222,21 +222,21 @@
 
 | 113. | Térségi vasúthálózatok tulajdonosai és üzemeltetői | Magyarország térségi vasúthálózatának analóg vagy digitális, vektoros, szerkeszthető formátumú térképe EOV koordináta rendszerben vasútvonalankénti szelvényezéssel és az állomások (megállóhelyek) megnevezésével és feltüntetésével (keskeny nyomtávú, személy- és áruszállítás céljából üzemeltetett nem nyílt hozzáférésű vasúti pályahálózat pályatengelyét feltüntető szerkeszthető digitális vagy analóg térképi állomány) | 3.1.2. | évente | ország, vasútvonal, vonalszakasz | március 1. |
 
-| 114. | NeKI | Vízi közművek adatai | 3.4.1. és 3.4.2. | frissítést követően | település | frissítést követő 90. nap |
+| 114. | OVF | Vízi közművek adatai | 3.4.1. és 3.4.2. | frissítést követően | település | frissítést követő 90. nap |
 
-| 115. | NeKI | Felszíni víztestek térképi adatbázisa | 4.3. | évente vagy frissítést követően | előfordulási hely | frissítést követő 90. nap |
+| 115. | OVF | Felszíni víztestek térképi adatbázisa | 4.3. | évente vagy frissítést követően | előfordulási hely | frissítést követő 90. nap |
 
 | 116. | OVF | Partvonal szabályozási tervek (Balaton) | 6.1. | frissítést követően | előfordulási hely | frissítést követő 90. nap |
 
-| 117. | NeKI | Sérülékeny vízbázisok védőterülete | 4.9.1. | frissítést követően | előfordulási hely | frissítést követő 90. nap |
+| 117. | OVF | Sérülékeny vízbázisok védőterülete | 4.9.1. | frissítést követően | előfordulási hely | frissítést követő 90. nap |
 
 | 118. | OVF | Árterek és hullámterek | 4.4. | frissítést követően | előfordulási hely | frissítést követő 90. nap |
 
 | 119. | OVF | Magyarország elsőrendű és másodrendű árvízvédelmi vonalainak nyomvonalas térképe | 4.12. | frissítést követően | ország, kiemelt térség, megye, település | frissítést követő 90. nap |
 
-| 120. | NeKI | Felszín alatti víztestek térképi adatbázisa | 4.3. és 4.9.1. | frissítést követően | előfordulási hely | frissítést követő 90. nap |
+| 120. | OVF | Felszín alatti víztestek térképi adatbázisa | 4.3. és 4.9.1. | frissítést követően | előfordulási hely | frissítést követő 90. nap |
 
-| 121. | NeKI | Felszín alatti vízkitermelés víztestenként és felhasználási cél szerint | 4.9.1. | évente vagy frissítést követően | előfordulási hely | frissítést követő 90. nap |
+| 121. | OVF | Felszín alatti vízkitermelés víztestenként és felhasználási cél szerint | 4.9.1. | évente vagy frissítést követően | előfordulási hely | frissítést követő 90. nap |
 
 | 122. | OVF | Magyarország öntöző- és belvízcsatorna-hálózatának nyomvonalas térképe a csatornák megnevezésével: – országos jelentőségű öntözőcsatornák, – térségi belvíz- és öntözőcsatornák. | 3.4. | frissítést követően | ország, kiemelt térség, megye | frissítést követő 90. nap |
 
