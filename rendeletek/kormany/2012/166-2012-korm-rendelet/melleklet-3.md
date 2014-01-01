@@ -6,7 +6,9 @@
 
 | 2. | építésügy | Debreceni Járási Hivatal járási építésügyi és örökségvédelmi hivatala | Hajdú-Bihar Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
-| 3. | környezetvédelem, természetvédelem és vízügy | Tiszántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség, Debrecen | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 3. | környezet- és természetvédelem | Tiszántúli Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+
+| 3a. | vízügy | Tiszántúli Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
 | 4. | közlekedés (közút) | Hajdú-Bihar Megyei Kormányhivatal Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
