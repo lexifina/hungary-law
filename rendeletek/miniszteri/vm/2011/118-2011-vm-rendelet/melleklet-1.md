@@ -1,4 +1,4 @@
-## 11. §[^1]
+## 11. §[^2]
 
 1. melléklet a 118/2011. (XII. 15.) VM rendelethez
 
@@ -22,4 +22,4 @@
 
 9. A véggázkezelővel ellátott tárolóberendezést fel kell szerelni olyan kijelző berendezéssel, amely folyamatosan, véletlenszerű ellenőrzések esetében is lehetővé teszi az ellenőrző műszaki biztonsági hatóság vagy felügyelőség számára annak megállapítását, hogy a véggázkezelő rendszer működik-e.
 
-[^1]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
