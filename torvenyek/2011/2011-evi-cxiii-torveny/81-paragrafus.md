@@ -54,7 +54,7 @@ dc) a személyi szabadság korlátozásának eljárási szabályait és a végre
 
 e) a honvédelemért felelős miniszter által vezetett minisztérium, a honvédelemért felelős miniszter közvetlen alárendeltségébe, irányítása, fenntartói irányítása és felügyelete alá tartozó, valamint a Honvédség hadrendje szerinti szervezetek jogi képviseletének és jogi képviselete felügyeletének rendjét,
 
-f) a honvédségi munkavállalók munkabérének folyósítását, jutalmazását, a honvédségi munkavállalóknak és közeli hozzátartozóiknak nyújtható juttatások, költségtérítések, kedvezmények, támogatások rendszerét és feltételeit, továbbá a honvédségi munkavállalóknak és a kormánytisztviselőknek nyújtott üdültetés, pihentetés, szociális és a kegyeleti gondoskodás, az étkezési, valamint a lakhatási támogatások körét, a jogosultság feltételeit és rendjét, továbbá a külföldi szolgálatot teljesítő és külföldi képzésben részt vevő honvédségi munkavállalók és kormánytisztviselők részére nyújtható juttatások, költségtérítések megállapításának, kifizetésének és elszámolásának rendjét,
+f) a honvédségi munkavállalók munkabérének folyósítását, jutalmazását, a honvédségi munkavállalóknak és közeli hozzátartozóiknak nyújtható juttatások, költségtérítések, kedvezmények, támogatások rendszerét és feltételeit, továbbá a honvédségi munkavállalóknak, a kormánytisztviselőknek és a kormányzati ügykezelőknek nyújtott üdültetés, pihentetés, szociális és a kegyeleti gondoskodás, az étkezési, valamint a lakhatási támogatások körét, a jogosultság feltételeit és rendjét, továbbá a külföldi szolgálatot teljesítő és külföldi képzésben részt vevő honvédségi munkavállalók, kormánytisztviselők és kormányzati ügykezelők részére nyújtható juttatások, költségtérítések megállapításának, kifizetésének és elszámolásának rendjét,
 
 g) a NATO-NYEU központi nyilvántartó, a NATO-NYEU központi rejtjel elosztó hatóság működési rendjét, valamint a nyilvántartó rendszer működéséhez szükséges általános követelményeket és eljárásokat,
 
@@ -77,5 +77,11 @@ o) a katonai jelképek tartalmi elemeit, leírását, az adományozásukra és h
 p) az adópolitikáért felelős miniszterrel egyetértésben a katonai hatóságok eljárásáért fizetendő igazgatási szolgáltatás díj mértékét és a díjfizetés szabályait,
 
 q) a lő- és gyakorlóterek biztonságos használatához szükséges korlátozások elrendelésének és az e körben felmerülő károk megtérítésének részletes szabályait.
+
+(2a) Felhatalmazást kap a honvédelemért felelős miniszter, hogy rendeletben szabályozza
+
+a) a Honvédség által a Köztársasági Elnöki Hivatalnál foglalkoztatottak részére nyújtható, üdültetési és pihentetési szolgáltatások fajtáit, azok feltételeit és rendjét, továbbá a Honvédség személyi állományába nem tartozó személyeknek szolgálati érdekkel összefüggésben nyújtható költségtérítések fajtáit, mértékét, a jogosultság feltételeit, az azokban való részesítés, a megállapítás, a kifizetés, az elszámolás, a visszatérítés rendjét,
+
+b) a nyugállományú katonák és a honvédelmi szervezettől nyugdíjba vonult közalkalmazottak segítését célul kitűző civil szervezetek természetbeni támogatásával összefüggő szabályokat.
 
 (3) Felhatalmazást kapnak a miniszterek, hogy feladatkörükben eljárva a honvédelemért felelős miniszterrel egyetértésben, rendeletben határozzák meg ágazatuk honvédelmi feladatait, valamint az országos jelentőségű termelési, ellátási szolgáltatások, az infrastrukturális hálózatok előkészítésének és igénybevételének anyagi jogi szabályait.
