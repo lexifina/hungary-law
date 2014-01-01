@@ -1,0 +1,1 @@
+## „(3) Az (1) bekezdés alkalmazásában a keretmegállapodásos eljárások első szakaszának értéke az irányadó az első szakasz ellenőrzése tekintetében. A keretmegállapodásos eljárások második szakaszának értéke az irányadó a második szakasz ellenőrzése tekintetében.”

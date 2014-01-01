@@ -1,0 +1,3 @@
+## 31. § Az R. 81. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) A támogatást igénylő vagy a kedvezményezett a pályázat benyújtásának időpontjától a támogatási jogviszony időtartama alatt a közreműködő szervezet döntése ellen a közreműködő szervezetnél az irányító hatóságnak címzett, az irányító hatóság döntése ellen az irányító hatóságnál a központi koordinációs szervnek címzett kifogást nyújthat be, ha a pályázati eljárásra, a támogatási igény befogadására, a támogatási döntés meghozatalára, a támogatói okiratok kiadására vagy a támogatási szerződések megkötésére, a költségvetésből nyújtott támogatás folyósítására, visszakövetelésére vonatkozó eljárás jogszabálysértő, vagy a felhívásba, illetve a támogatási szerződésbe ütközik.”

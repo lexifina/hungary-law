@@ -1,0 +1,1 @@
+## „(12) A pénzügyi közvetítő kiválasztására irányuló felhívások tervezetét a forráskezelő szervezet készíti el, melyet az irányító hatóság hagy jóvá. A pénzügyi közvetítő kiválasztására programonként olyan nyilvános pályázatot kell kiírni, amely biztosítja a pályázat átláthatóságát, a verseny tisztaságát és az ajánlattevők esélyegyenlőségét.”

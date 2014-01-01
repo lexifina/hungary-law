@@ -1,0 +1,3 @@
+## 29. § Az R. 78. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) Az irányító hatóság vagy az általa átruházott hatáskörben eljáró közreműködő szervezet – a központi koordinációs szerv egyidejű tájékoztatása mellett – a tárgyhónapot követő minden hónap tizedik napjáig az igazoló hatóság által meghatározott formátumú és tartalmú hitelesítési jelentést állít ki. Az irányító hatóság a közreműködő szervezet által kiállított hitelesítési jelentés tartalmát szükség esetén kiegészítheti. Az irányító hatóság a központi koordinációs szerv egyidejű tájékoztatása mellett a hitelesítési jelentést a tárgyhónapot követő hónap huszadik napjáig elektronikusan megküldi az igazoló hatóság részére.”
