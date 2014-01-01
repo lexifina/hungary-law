@@ -1,1 +1,0 @@
-## 33. § Ha az értékpapírosítási pozícióhoz hitelkockázati fedezet tartozik, akkor az értékpapírosítási pozíció kockázattal súlyozott kitettség értékének meghatározásakor a IV. Fejezetben foglaltakat kell alkalmazni.

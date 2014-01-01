@@ -1,5 +1,0 @@
-## 29. § A 24. § (3) bekezdése szerinti kockázattal súlyozott kitettség érték a befektetőket megillető rész, a 30–32. §-ban meghatározott ügyletkockázati súly és a kitettséggel súlyozott kockázati súly szorzata, amely utóbbi akkor vonatkozna az értékpapírosított kitettségekre, ha azokat nem értékpapírosították volna.
-
-30. § (1) A feltétel nélkül felmondható vagy bármikor megszüntethető lakossági kitettségek lejárat előtti visszafizetésre lehetőséget biztosító rendelkezéssel bíró megállapodásaiból származó kitettségek értékpapírosítása esetén, ha a lejárat előtti visszafizetésre az értékpapírosítási felár meghatározott szint alá csökkenése esetén kerül sor, akkor a befektetési vállalkozásnak össze kell hasonlítania a háromhavi értékpapírosítási felár átlagának szintjét azzal az értékpapírosítási felár szinttel, amely alá csökkenés esetén a lejárat előtti visszfizetésre sor kerül.
-
-(2) Ha az értékpapírosítási ügylet nem tartalmaz értékpapírosítási felár határokat, akkor a lejárat előtti visszafizetést kiváltó értékpapírosítási felárnál 4,5%-ponttal nagyobb érték minősül a határértékeknek.

@@ -1,1 +1,0 @@
-## hitelegyenértékesítési tényezőt kell rendelni.

@@ -1,1 +1,0 @@
-## 26. § Ha az értékpapírosított kitettségek rulírozó és nem rulírozó megállapodásból származnak, akkor az eszközátruházó befektetési vállalkozásnak az alapul szolgáló rulírozó kitettségek halmazára (pooljára) vonatkozóan a 27–31. §-ban foglaltaknak megfelelően kell a pótlólagos tőkekövetelményt számítania.
