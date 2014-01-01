@@ -1,5 +1,5 @@
-## 11. §[^43]
+## 11. §[^44]
 
 ## [A törvény 66. §-ának (4) bekezdéséhez]
 
-[^43]: A 11. §-t és az azt megelőző alcímet a 326/2008. (XII. 29.) Korm. rendelet 9. § (3) bekezdés b) pontja hatályon kívül helyezte.
+[^44]: A 11. §-t és az azt megelőző alcímet a 326/2008. (XII. 29.) Korm. rendelet 9. § (3) bekezdés b) pontja hatályon kívül helyezte.

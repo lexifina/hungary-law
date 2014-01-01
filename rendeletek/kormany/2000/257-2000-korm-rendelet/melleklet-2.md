@@ -1,8 +1,8 @@
 2. számú melléklet a 257/2000. (XII. 26.) Korm. rendelethez
 
-## I.[^67]
+## I.[^72]
 
-Ágazatspecifikus munkakörök a szociális területen
+## Ágazatspecifikus munkakörök a szociális területen
 
 | Megnevezés | Fizetési osztályok |
 
@@ -110,9 +110,9 @@
 
 |  |  | A | B | C | D | E | F | G | H | I | J |
 
-II.[^68]
+## II.[^73]
 
-Ágazatspecifikus munkakörök család-, gyermek- és ifjúságvédelmi területen
+II. Ágazatspecifikus munkakörök család-, gyermek- és ifjúságvédelmi területen
 
 | Megnevezés | Fizetési osztályok |
 
@@ -142,6 +142,8 @@ II.[^68]
 
 | örökbefogadási tanácsadó |  |  |  |  |  | * | * | * | * | * |
 
+| gyermekvédelmi gyám |  |  |  |  |  | * | * | * | * | * |
+
 | hivatásos gyám |  |  |  |  |  | * | * | * | * | * |
 
 | eseti gondnok, vagyonkezelő gondnok |  |  |  |  |  | * | * | * | * | * |
@@ -158,9 +160,9 @@ II.[^68]
 
 | gyógypedagógiai/fejlesztőpedagógiai tanácsadó |  |  |  |  |  | * | * | * | * | * |
 
-| nevelőszülői hálózat vezető, szakmai vezető |  |  |  |  |  | * | * | * | * | * |
+| nevelő |  |  |  |  |  | * | * | * | * | * |
 
-| gyermekotthon vezető |  |  |  |  |  | * | * | * | * | * |
+| elhelyezési ügyintéző |  |  |  |  |  | * | * | * | * | * |
 
 | 2. | Család-, gyermek- és ifjúságvédelmi szolgáltatás keretében az ellátottak ápolását, foglalkoztatását, fejlesztését, ellátását, gondozását, szociális segítését, szállítását közvetlenül szolgáló, egyetemi, főiskolai végzettséghez nem kötött munkakörök |  |  |  |  |  |  |  |  |  |  |
 
@@ -184,7 +186,9 @@ II.[^68]
 
 | szaktanácsadó |  |  |  |  | * |  |  |  |  |  |
 
-| hivatásos nevelőszülő |  | * | * |  |  |  |  |  |  |  |
+| nevelőszülő |  | * | * |  |  |  |  |  |  |  |
+
+| gyermekgondozó | * | * | * |  |  |  |  |  |  |  |
 
 | gyermekfelügyelő |  |  | * | * |  |  |  |  |  |  |
 
@@ -200,9 +204,9 @@ II.[^68]
 
 |  |  | A | B | C | D | E | F | G | H | I | J |
 
-III.[^69]
+## III.[^74]
 
-Nem ágazatspecifikus munkakörök
+## Nem ágazatspecifikus munkakörök
 
 | Megnevezés | Fizetési osztályok |
 
@@ -260,9 +264,9 @@ Nem ágazatspecifikus munkakörök
 
 |  |  | A | B | C | D | E | F | G | H | I | J |
 
-IV.[^70]
+## IV.[^75]
 
-Munkakörök a Nemzeti Család- és Szociálpolitikai Intézetben
+## Munkakörök a Nemzeti Család- és Szociálpolitikai Intézetben
 
 |  | Megnevezés | Fizetési osztályok |
 
@@ -438,9 +442,9 @@ Munkakörök a Nemzeti Család- és Szociálpolitikai Intézetben
 
 |  | betanított munkás | * |  |  |  |  |  |  |  |  |  |
 
-V.[^71]
+## V.[^76]
 
-Pedagógus munkakörök a gyermekvédelmi szakellátási intézményekben és a javítóintézetben
+V. Pedagógus munkakörök a gyermekvédelmi szakellátási intézményekben és a javítóintézetben
 
 | Megnevezés | Fizetési osztályok |
 
@@ -456,13 +460,19 @@ Pedagógus munkakörök a gyermekvédelmi szakellátási intézményekben és a 
 
 | 5. nevelőszülői tanácsadó |  |  |  |  |  | * | * | * | * | * |
 
-| 6. családgondozó |  |  |  |  |  | * | * | * | * | * |
+| 6. javítóintézeti utógondozó |  |  |  |  |  | * | * | * | * | * |
 
-| 7. utógondozó |  |  |  |  |  | * | * | * | * | * |
+| 7. szakoktató |  |  | * | * | * | * | * | * | * | * |
 
-| 8. szakoktató |  |  | * | * | * | * | * | * | * | * |
+| 8. nevelőszülői hálózat szakmai vezetője |  |  |  |  |  | * | * | * | * | * |
 
-Besorolási előírások a kinevezések elkészítéséhez
+| 9. gyermekotthon vezető |  |  |  |  |  | * | * | * | * | * |
+
+| 10. otthonvezető javítóintézetben |  |  |  |  |  | * | * | * | * | * |
+
+| 11. gyermekvédelmi szakértői bizottság családgondozója |  |  |  |  |  | * | * | * | * | * |
+
+## Besorolási előírások a kinevezések elkészítéséhez
 
 1. Egyetemi és főiskolai végzettséget igénylő munkakörökbe kell besorolni azt a munkakört, amelyben az intézmény alaptevékenységének megfelelő, felsőszintű képesítést igénylő szakmai feladatot kell ellátni.
 
@@ -480,7 +490,7 @@ Ezen belül
 
 – ,,J'' fizetési osztályba: az egyetemi végzettséget igazoló oklevélhez és tudományos fokozathoz kötött munkakör tartozik pl. pedagógus, szociális munkás stb.
 
-2.[^72] A felső-, közép- és alapfokú szakképesítést igénylő munkakörökbe kell besorolni azt a munkakört, amelyben az intézmény alaptevékenységének megfelelő, felső-, közép- és alapfokú szakmai képesítést igénylő feladatot kell ellátni.
+2.[^77] A felső-, közép- és alapfokú szakképesítést igénylő munkakörökbe kell besorolni azt a munkakört, amelyben az intézmény alaptevékenységének megfelelő, felső-, közép- és alapfokú szakmai képesítést igénylő feladatot kell ellátni.
 
 – ,,A'' fizetési osztályba kell sorolni: a legfeljebb alapfokú iskolai végzettséghez kötött munkaköröket, valamint az alapfokú iskolai végzettséget nem igénylő szakképesítéshez kötött munkaköröket pl. falugondnok;
 
@@ -500,9 +510,9 @@ Megjegyzés:
 
 Azon munkakörök esetén, amelyek főiskolai, egyetemi, illetve középfokú végzettséggel egyaránt betölthetők a szakképzettségi szintnek megfelelő közalkalmazotti besorolást kell alkalmazni.
 
-[^67]: A 2. számú melléklet I. pontja a 326/2008. (XII. 29.) Korm. rendelet 8. § (1) bekezdésével megállapított, a 60/2011. (IV. 12.) Korm. rendelet 8. § (1) bekezdése, a 257/2013. (VII. 5.) Korm. rendelet 18. §-a szerint módosított szöveg.
-[^68]: A 2. számú melléklet II. pontja a 326/2008. (XII. 29.) Korm. rendelet 8. § (2) bekezdésével megállapított, a 360/2010. (XII. 30.) Korm. rendelet 31. §-a, a 60/2011. (IV. 12.) Korm. rendelet 8. § (1) bekezdése, a 349/2012. (XII. 12.) Korm. rendelet 29. § (1) bekezdése szerint módosított szöveg.
-[^69]: A 2. számú melléklet III. pontja a 326/2008. (XII. 29.) Korm. rendelet 8. § (3) bekezdésével megállapított, a 360/2010. (XII. 30.) Korm. rendelet 31. §-a szerint módosított szöveg.
-[^70]: A 2. számú melléklet IV. részét a 60/2011. (IV. 12.) Korm. rendelet 8. § (1) bekezdése iktatta be.
-[^71]: A 2. számú melléklet V. részét a 349/2012. (XII. 12.) Korm. rendelet 29. § (1) bekezdése iktatta be.
-[^72]: A 2. számú melléklet „Besorolási előírások a kinevezések elkészítéséhez” alcím 2. pontja a 60/2011. (IV. 12.) Korm. rendelet 9. § (2) bekezdés i) pontja szerint módosított szöveg.
+[^72]: A 2. számú melléklet I. pontja a 326/2008. (XII. 29.) Korm. rendelet 8. § (1) bekezdésével megállapított, a 60/2011. (IV. 12.) Korm. rendelet 8. § (1) bekezdése, a 257/2013. (VII. 5.) Korm. rendelet 18. §-a szerint módosított szöveg.
+[^73]: A 2. számú melléklet II. pontja az 517/2013. (XII. 30.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^74]: A 2. számú melléklet III. pontja a 326/2008. (XII. 29.) Korm. rendelet 8. § (3) bekezdésével megállapított, a 360/2010. (XII. 30.) Korm. rendelet 31. §-a szerint módosított szöveg.
+[^75]: A 2. számú melléklet IV. részét a 60/2011. (IV. 12.) Korm. rendelet 8. § (1) bekezdése iktatta be.
+[^76]: A 2. számú melléklet V. részét a 349/2012. (XII. 12.) Korm. rendelet 29. § (1) bekezdése iktatta be, szövege az 517/2013. (XII. 30.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^77]: A 2. számú melléklet „Besorolási előírások a kinevezések elkészítéséhez” alcím 2. pontja a 60/2011. (IV. 12.) Korm. rendelet 9. § (2) bekezdés i) pontja szerint módosított szöveg.
