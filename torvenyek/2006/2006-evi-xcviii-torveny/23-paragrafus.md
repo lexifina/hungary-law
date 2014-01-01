@@ -1,6 +1,6 @@
 23. § (1) A gyógyszerek és tápszerek társadalombiztosítási támogatásával kapcsolatos eljárások kérelemre, bejelentésre vagy hivatalból indulnak, melynek során:
 
-a) a kérelemre indult eljárás esetén a kérelem a forgalomba hozatalra engedélyezett gyógyszer vagy a tápszer társadalombiztosítási támogatásba való befogadására, a támogatás kategóriájának, módszerének, mértékének felülvizsgálatára és ezt követő esetleges módosítására,
+a) a kérelemre indult eljárás esetén a kérelem a forgalomba hozatalra engedélyezett gyógyszer vagy a tápszer társadalombiztosítási támogatásba való befogadására, a támogatás kategóriájának, módszerének, mértékének felülvizsgálatára és ezt követő esetleges módosítására, valamint kedvezményezetti státusz megszerzésére,
 
 b) a bejelentésre indult eljárás esetén a bejelentés a 29. § (4) bekezdésében jelölt adatok változásának bejelentésére,
 
@@ -18,9 +18,11 @@ a) a gyógyszer társadalombiztosítási támogatásba való befogadási kérelm
 
 b) az a) pont hatálya alá nem tartozó készítmény ára a már támogatott hatóanyagú gyógyszer(ek) áránál a külön jogszabályban foglalt kötelező mértéknél alacsonyabb,
 
-c) a kérelem tápszer vagy forgalomba hozatalra engedélyezett a Szabványos Vényminta Gyűjteményben vagy a Gyógyszerkönyvben is szereplő gyógyszer támogatására, illetve közfinanszírozása alapjául elfogadott árának emelésére érkezett.
+c) a kérelem tápszer vagy forgalomba hozatalra engedélyezett a Szabványos Vényminta Gyűjteményben vagy a Gyógyszerkönyvben is szereplő gyógyszer támogatására, illetve közfinanszírozása alapjául elfogadott árának emelésére érkezett,
 
-(5) A kérelmező a (3)–(4) bekezdés szerinti eljárásért a külön jogszabályban meghatározottak alapján igazgatási szolgáltatási díjat fizet.
+d) a gyógyszer társadalombiztosítási támogatásba való befogadási kérelme kedvezményezetti státusz megszerzésére is irányul.
+
+(5) A kérelmező a (3)–(4) bekezdés szerinti eljárásért miniszteri rendeletben meghatározott mértékű igazgatási szolgáltatási díjat fizet. Nem kell igazgatási szolgáltatási díjat fizetni a kedvezményezetti státusszal rendelkező gyógyszerekkel kapcsolatos eljárásokért.
 
 (6) Az egészségbiztosítási szerv folyamatosan felülvizsgálja a támogatott gyógyszerek körét a (7) bekezdésben foglalt szempontok szerint.
 
@@ -38,7 +40,7 @@ e) a 21. § szerinti támogatással való forgalmazásra és készletben tartás
 
 f) a kiemelt és emelt indikációhoz kötött támogatási kategóriában meghatározott feltételeknek a készítmény nem felel meg.
 
-(8) A (7) bekezdésben meghatározott esetekben a felülvizsgálatot követően az egészségbiztosítási szerv 90 napon belül dönt a befogadott gyógyszer támogatásból való kizárásáról, támogatása mértékének, kategóriájának, módszerének módosításáról, illetve a 21. § szerinti támogatással való forgalmazásra és készletben tartásra vonatkozó kötelezettségvállalás meghosszabbításáról vagy előírásáról.
+(8) A (7) bekezdésben meghatározott esetekben a felülvizsgálatot követően az egészségbiztosítási szerv 90 napon belül dönt a befogadott gyógyszer támogatásból való kizárásáról, támogatása mértékének, kategóriájának, módszerének módosításáról, kedvezményezetti státuszának megszüntetéséről illetve a 21. § szerinti támogatással való forgalmazásra és készletben tartásra vonatkozó kötelezettségvállalás meghosszabbításáról vagy előírásáról.
 
 (9) Az egészségbiztosítási szerv az (1) bekezdés a) pontja szerinti eljárások során a külön jogszabályban foglalt normál és egyszerűsített eljárásrendet alkalmazza.
 

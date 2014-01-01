@@ -66,7 +66,9 @@ v) a preferált biológiai gyógyszerek rendelésének kötelező minimális ar�
 
 w) a gyógyászati segédeszközök házhoz szállításának feltételeit és szabályait,
 
-x) azon gyógyászati segédeszközök körét, amelyek esetében a gyógyászati segédeszköz forgalmazója a kiszolgáltatás során eltérhet a közfinanszírozás alapjául elfogadott ártól és az egészségbiztosítási szerv által a támogatás megállapítására irányuló eljárásban megállapított térítési díjtól.
+x) azon gyógyászati segédeszközök körét, amelyek esetében a gyógyászati segédeszköz forgalmazója a kiszolgáltatás során eltérhet a közfinanszírozás alapjául elfogadott ártól és az egészségbiztosítási szerv által a támogatás megállapítására irányuló eljárásban megállapított térítési díjtól,
+
+y) a közreműködő bevonásával házhoz szállítható társadalombiztosítási támogatással rendelt gyógyászati segédeszközök körét.
 
 (3) Felhatalmazást kap az élelmiszerlánc-felügyeletért felelős miniszter, hogy
 

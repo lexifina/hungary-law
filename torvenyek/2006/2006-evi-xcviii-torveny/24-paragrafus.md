@@ -10,7 +10,7 @@
 
 (5) Az egészségbiztosítási szerv a (4) bekezdés szerinti közleményt az Európai Unió Bizottságának megküldi.
 
-(6) A (4) bekezdés szerinti közlemény tartalmazza a gyógyszer nyilvántartási számát, megnevezését, kiszerelését, termelői árát, bruttó fogyasztói árát, a támogatás mértékét és összegét, a támogatással csökkentett fogyasztói árát (térítési díj), valamint a társadalombiztosítási támogatással történő finanszírozás kezdő napját.
+(6) A (4) bekezdés szerinti közlemény tartalmazza a gyógyszer nyilvántartási számát, megnevezését, kiszerelését, termelői árát, bruttó fogyasztói árát, a támogatás mértékét és összegét, a támogatással csökkentett fogyasztói árát (térítési díj), kedvezményezetti státusz megjelölését, valamint a társadalombiztosítási támogatással történő finanszírozás kezdő napját.
 
 (6a) Az egészségbiztosítási szerv a támogatott gyógyszerek
 

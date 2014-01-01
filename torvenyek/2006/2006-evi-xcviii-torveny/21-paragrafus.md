@@ -4,6 +4,12 @@
 
 21. § (1) Az egészségbiztosítási szerv a gyógyszer, tápszer és gyógyászati segédeszköz társadalombiztosítási támogatásba való befogadási eljárása során a támogatásba való befogadást meghatározott időtartamú, de legalább három év támogatással történő forgalmazásra való kötelezettségvállaláshoz, illetve külön jogszabályban foglalt esetben meghatározott mennyiségű készletben tartási kötelezettségvállaláshoz kötheti.
 
+(1a) A forgalomba hozatali engedély jogosultja köteles biztosítani a betegellátási érdekből kedvezményezetti státuszú gyógyszerrel (a továbbiakban: kedvezményezetti státusszal rendelkező gyógyszer) való folyamatos gyógyszerellátást a kedvezményezetti státusz fennállása alatt.
+
+(1b) Ha a forgalomba hozatali engedély jogosultja a kedvezményezetti státusz 31/C. § (3) bekezdése szerinti ötéves lejárta előtt meg kívánja szüntetni a gyógyszer kedvezményezetti státuszát, úgy azt köteles a tervezett megszüntetés előtt legalább hat hónappal bejelenteni az egészségbiztosítási szervnek.
+
+(1c) Ha a forgalomba hozatali engedély jogosultja önhibájából eredően a forgalmazási garanciavállalást nem teljesíti, úgy köteles a kedvezményezetti státusszal járó kedvezmények összegének megfizetésére, valamint a (4) bekezdés szerinti beszerzéssel kapcsolatos többletköltségek viselésére.
+
 (2) Amennyiben az (1) bekezdés alapján társadalombiztosítási támogatásban részesülő gyógyszer forgalomba hozatali engedélyének jogosultja, tápszer forgalmazója, illetve a gyógyászati segédeszköz gyártója, meghatalmazott képviselője önhibájából eredően a forgalmazási, készletben tartási garanciavállalást nem teljesíti, úgy a (4) bekezdés szerinti beszerzéssel kapcsolatos többletköltségek viselésére köteles.
 
 (3) Ha a társadalombiztosítási támogatásba befogadott gyógyszer forgalomba hozatali engedélyének jogosultja, illetve gyógyászati segédeszköz gyártója vagy meghatalmazott képviselője a támogatott készítmény/termék magyarországi forgalmazását meg kívánja szüntetni, akkor szándékáról az egészségbiztosítási szervet legalább fél évvel korábban értesíti.

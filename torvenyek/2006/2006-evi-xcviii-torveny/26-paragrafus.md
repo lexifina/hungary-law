@@ -22,7 +22,7 @@ e) az egészségügyért felelős miniszter rendeletében meghatározott kórké
 
 (3b) Az eredményesség alapú támogatásvolumen-szerződés kötésére vonatkozóan az egészségügyért felelős miniszter rendeletében meghatározott szempontok szerint az egészségbiztosító évente felülvizsgálja a társadalombiztosítási támogatásban részesülő gyógyszerek körét.
 
-(4) A támogatásvolumen-szerződések legfeljebb négy naptári évre köthetők.
+(4) A támogatás-volumen szerződések – a 31/C. § (2) bekezdésében foglalt eset kivételével – legfeljebb négy naptári évre köthetők.
 
 (5) A támogatásvolumen-szerződésekben rögzített befizetési kötelezettség
 

@@ -14,15 +14,17 @@ f) az több mint hat hónapja – referenciakészítmény esetén egy hónapja �
 
 g) forgalomba hozatali engedélyét visszavonták,
 
-h) a hatóanyag-alapú fix összegű támogatási csoportba tartozó gyógyszer esetén a gyógyszer napi terápiás költsége, illetve egységnyi hatóanyagra számított ára legalább 50%-kal meghaladja a referenciakészítmény napi terápiás költségét,
+h) a hatóanyag-alapú fix összegű támogatási csoportba tartozó gyógyszer esetén a gyógyszer napi terápiás költsége, illetve egységnyi hatóanyagra számított ára legalább 100%-kal meghaladja a referenciakészítmény napi terápiás költségét,
 
-i) a terápiás fix elven működő támogatási csoportba tartozó gyógyszer esetén a gyógyszer napi terápiás költsége legalább 60%-kal meghaladja a csoportba tartozó gyógyszerek napi terápiás költsége egyszerű számtani átlagát,
+i) a terápiás fix elven működő támogatási csoportba tartozó gyógyszer esetén a gyógyszer napi terápiás költsége legalább 100%-kal meghaladja a csoportba tartozó gyógyszerek napi terápiás költsége egyszerű számtani átlagát,
 
 j) az általa végzett nemzetközi ár-összehasonlítás során megállapítja, hogy a gyógyszer termelői ára legalább 20%-kal magasabb a vizsgálatba vont, az Európai Unió tagállamaiban és az Európai Gazdasági Térségről szóló megállapodásban részes más államokban alkalmazott három legalacsonyabb termelői ár számtani átlagánál,
 
 k) a biológiai gyógyszer napi terápiás költsége legalább 10%-kal meghaladja legalacsonyabb napi terápiás költségű preferált biológiai gyógyszer napi terápiás költségét, kivéve, ha a biológiai gyógyszer forgalomba hozatali engedély jogosultja a fogyasztói ár és maximált térítési díj különbözetéből, valamint a legalacsonyabb napi terápiás költségű preferált biológiai gyógyszer fogyasztói árát 10%-al meghaladó összegből adódó különbözetet megtéríti,
 
-l) a biológiai gyógyszer napi terápiás költsége legalább 30%-kal meghaladja a legalacsonyabb napi terápiás költségű preferált biológiai gyógyszer napi terápiás költségét.
+l) a biológiai gyógyszer napi terápiás költsége legalább 50%-kal meghaladja a legalacsonyabb napi terápiás költségű preferált biológiai gyógyszer napi terápiás költségét,
+
+m) kedvezményezetti státusza megszűnik.
 
 (1a) Ha támogatott gyógyszer tekintetében a forgalombahozatali engedély jogosultját vagy meghatalmazottját egy éven belül két esetben – e törvény és a rendelet gyógyszer- vagy gyógyászatisegédeszköz-ismertetésre vonatkozó előírásai megsértése miatt – reklámfelügyeleti eljárásban, illetve a 19. § szerinti eljárásban az arra hatáskörrel és illetékességgel rendelkező hatóság jogerősen elmarasztalta, és vele szemben e jogsértések miatt összesen legalább ötmillió forint mértékű bírságot szabott ki, az egészségbiztosítási szerv kizárja a társadalombiztosítási támogatásból az eljárással érintett gyógyszert, ha az adott indikációban rendelkezésre áll más olyan gyógyszer, amelyhez a beteg a támogatásból kizárt gyógyszer térítési díjánál legfeljebb 50%-kal magasabb térítési díj ellenében juthat hozzá.
 

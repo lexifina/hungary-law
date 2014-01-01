@@ -2,7 +2,7 @@
 
 a) a működtetett gyógyszertár szakmai vezetését ellátó személyi jogos gyógyszerész tulajdonhányada, vagy
 
-b) a személyi jogos gyógyszerész, a gyógyszertárban munkavégzésre irányuló jogviszonyban foglalkoztatott gyógyszerészek és a gyógyszertárat működtető gazdasági társaságban tulajdonhányaddal rendelkező gyógyszerészek tulajdonhányada együttesen
+b) a személyi jogos gyógyszerész, a gyógyszertárban munkavégzésre irányuló jogviszonyban foglalkoztatott gyógyszerészek és a gyógyszertárat működtető gazdasági társaságban tulajdonhányaddal rendelkező gyógyszerészek, illetve az igazolt hallgatói jogviszonnyal rendelkező gyógyszerész egyetemi hallgató öröklés útján szerzett tulajdonhányada együttesen
 
 a gyógyszertárat működtető vállalkozásban meghaladja az 50%-ot.
 
@@ -15,3 +15,5 @@ a gyógyszertárat működtető vállalkozásban meghaladja az 50%-ot.
 (4) 2011. január 1-jén már működő gyógyszertárban, illetve e törvény hatálybalépését követően létesült olyan gyógyszertárban, melyben támogatással történő gyógyszerrendelésre jogosult orvosnak tulajdoni hányada van, az egészségügyi államigazgatási szerv ellenőrzi, hogy a közfinanszírozásban részesülő gyógyszer támogatással történő forgalmazására szerződött gyógyszertár, valamint a gyógyszergyártó, -forgalmazó, illetve a támogatással történő gyógyszerrendelésre jogosult orvos között létezik-e olyan megállapodás, amely a betegek hatékony és biztonságos gyógyszerellátását sérti vagy veszélyezteti. Amennyiben ez a betegek hatékony és biztonságos gyógyszerellátását sérti vagy veszélyezteti, az egészségügyi államigazgatási szerv kezdeményezi az egészségbiztosítási szervnél a támogatással történő forgalmazási jogot biztosító szerződés felmondását.
 
 (5) A közforgalmú gyógyszertárat működtető gazdasági társaság ügyvezetését, képviseletét a 73. § (1) bekezdésében foglalt esetekben az adott gyógyszertár vonatkozásában a személyi joggal rendelkező gyógyszerész önállóan látja el.
+
+(6) A közforgalmú gyógyszertárat működtető gazdasági társaság működése során a gyógyszerészi tulajdoni hányad tekintetében biztosítani kell a tagsági jogoknak a tulajdoni hányadnak megfelelő – a társasági szerződésben rendezett – gyakorlását. Az ezzel ellentétes megállapodás semmis.

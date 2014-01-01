@@ -11,3 +11,5 @@ b) az üzlet nyitvatartási ideje alatt folyamatosan rendelkezésre álló, a fo
 c) az egészségügyi államigazgatási szervnek bejelenti azt a személyt, aki az adott üzletben felelős a gyógyszerekkel kapcsolatos jogszabályi előírások érvényesítéséért.
 
 (3) A gyógyszer-kiskereskedelmi forgalmazási engedéllyel rendelkező üzlet gyógyszereket csak gyógyszer-nagykereskedelmi tevékenység folytatására jogosulttól szerezhet be, és csak fogyasztónak adhatja tovább.
+
+(4) A gyógyszertáron kívüli gyógyszer forgalmazására engedéllyel rendelkező üzletet működtető köteles bejelenteni, ha továbbiakban az ez irányú tevékenységét nem kívánja folytatni, vagy ha az engedéllyel rendelkező üzletet megszünteti vagy az megszűnt. A bejelentést követően az egészségügyi államigazgatási szerv a gyógyszer forgalmazásra vonatkozó engedélyt visszavonja.

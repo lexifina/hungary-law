@@ -20,7 +20,7 @@ ba) működési engedélyében megjelölt településen közforgalmú vagy fiók
 
 bb) tartására jogosult személy már nem felel meg az engedély megadásához szükséges feltételeknek;
 
-c) a gyógyszertár hatósági ellenőrzésére jogosult szervek ellenőrzéseik során olyan hiányosságot állapítottak meg, amely miatt a gyógyszertár működését két éven belül ismételten fel kellett függeszteni;
+c) a gyógyszertár hatósági ellenőrzésére jogosult szervek ellenőrzéseik során olyan hiányosságot állapítottak meg, amely miatt a gyógyszertár működését két éven belül – ugyanazon gazdasági társaság vagy ugyanazon személyi jogos gyógyszerész irányítása alatt – ismételten fel kellett függeszteni;
 
 d) az intézeti gyógyszertárat működtető fekvőbeteg-ellátást végző intézmény megszűnik,
 
@@ -32,7 +32,7 @@ g) a gyógyszertár működtetője azt kéri,
 
 h) a gyógyszertár működtetője jogutód nélkül megszűnik,
 
-i) a gyógyszertár a működését a pályázatban meghatározott határidőben nem kezdte meg.
+i) a gyógyszertár a működését a pályázatban meghatározott határidőben a nyertes pályázónak felróható okból nem kezdte meg.
 
 (3) A működési engedélyt a (2) bekezdés
 

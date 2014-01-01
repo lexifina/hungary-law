@@ -48,7 +48,7 @@ c) a kereskedelmi árlista, feltéve, hogy nem tartalmaz a gyógyszer hatásáva
 
 21. közvetlen lakossági gyógyszerellátás: azon egészségügyi szolgáltatási tevékenységek összessége, amelyek során a gyógyszertár a gyógyszert beszerzi, készletezi, kiszolgáltatja és az alkalmazásával összefüggő szakmai információt közvetlenül vagy házhoz szállítás útján közvetetten a lakosság részére biztosítja, továbbá az interneten igényelt gyógyszerek kiszolgáltatása;
 
-22. gyógyszer házhozszállítása: a gyógyszernek a megrendelő által megjelölt helyre történő eljuttatása közvetlen lakossági gyógyszerellátás keretében;
+22. gyógyszer házhoz szállítás: a csomagküldést ide nem értve a megrendelt gyógyszernek a megrendelő által megjelölt helyre történő eljuttatása közvetlen lakossági gyógyszerellátás keretében;
 
 23. új gyógyszertár: az e törvény hatálybalépését megelőzően működési engedéllyel nem rendelkező gyógyszertár;
 
@@ -74,7 +74,7 @@ c) a kereskedelmi árlista, feltéve, hogy nem tartalmaz a gyógyszer hatásáva
 
 34. gyógyászati segédeszköz forgalmazó: a gyógyászati segédeszköznek a végső felhasználó részére történő értékesítését, kölcsönzését, javítását végző természetes vagy jogi személy, valamint jogi személyiséggel nem rendelkező gazdasági társaság, ide nem értve azokat az egészségügyi szolgáltatónak nem minősülő, gyógyászati segédeszközt egyedi méretvétel alapján gyártókat, akik az eszköznek a biztosított részére történő kiszolgáltatását nem maguk végzik;
 
-35. Preferált referencia ársávba tartozó gyógyszer: az egészségbiztosításért felelős miniszter rendelete alapján történő fixesítés során meghatározott gyógyszerek közül, a hatóanyag alapú fix támogatás esetén a referenciagyógyszer napi terápiás költségét legfeljebb 10%-kal meghaladó és az annál alacsonyabb napi terápiás költségű gyógyszer, valamint a terápiás fix elven működő támogatás esetén normatív támogatási kategóriába tartozó csoportban a napi terápiás költség átlagát legfeljebb 10%-kal meghaladó és az annál alacsonyabb napi terápiás költségű gyógyszer;
+35. Preferált referencia ársávba tartozó gyógyszer: az egészségbiztosításért felelős miniszter rendelete alapján történő fixesítés során meghatározott gyógyszerek közül, a hatóanyag alapú fix támogatás esetén a referenciagyógyszer napi terápiás költségét legfeljebb 15%-kal meghaladó és az annál alacsonyabb napi terápiás költségű gyógyszer, valamint a terápiás fix elven működő támogatás esetén normatív támogatási kategóriába tartozó csoportban a napi terápiás költség átlagát legfeljebb 15%-kal meghaladó és az annál alacsonyabb napi terápiás költségű gyógyszer;
 
 36. lakos: a települési önkormányzat közigazgatási területén a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 26. §-a szerint nyilvántartott lakcímmel rendelkező személy;
 

@@ -50,30 +50,32 @@ ee) a gyógyszertár működtetőjének nyilatkozatát arról, hogy a törvényb
 
 (10) Több érvényes, a pályázati kiírásban előírt feltételeket teljesítő pályázat esetén
 
-a) az a pályázó nyer, aki fiókgyógyszertár működtetését vállalja úgy, hogy a pályázat elnyerése esetén a fiókgyógyszertár létesítése iránti kérelmet a határozat kézhezvétele után 8 napon belül benyújtja,
+a) az a pályázó nyer, aki a pályázati kiírásban meghatározott településen vagy településeken fiókgyógyszertár vagy fiókgyógyszertárak működtetését vállalja úgy, hogy a pályázat elnyerése esetén a fiókgyógyszertár létesítése iránti kérelmet a határozat kézhezvétele után 8 napon belül benyújtja,
 
-b) amennyiben az a) pontban foglalt feltételt egy pályázó sem vállalja, vagy valamennyi érvényes pályázatot benyújtó pályázó vállalja, úgy az a pályázó nyer a ba)–bd) alpontokban foglalt sorrend szerint, aki a szolgálati rendre vonatkozóan
+b) ha az a) pontban foglalt feltételt egy pályázó sem vállalja vagy valamennyi érvényes pályázatot benyújtó pályázó vállalja, úgy az a pályázó nyer a ba)–bd) alpontokban foglalt sorrend szerint, aki a szolgálati rendre vonatkozóan
 
 ba) 24 órás nyitvatartást,
 
 bb) folyamatos ügyeletet,
 
-bc) folyamatos készenlétet,
+bc) – amennyiben az adott településen vagy kerületben nincs ügyelet – folyamatos készenlétet,
 
-bd) a pályázatban előírt szolgálati rendhez képest nyújtott nyitvatartást
+bd) a pályázati kiírásban előírt szolgálati rendhez képest nyújtott nyitvatartást
 
 vállal a gyógyszertár megnyitását követő legalább öt éven keresztül,
 
-c) amennyiben az a–b) pontban foglaltak esetén a döntést nem lehet meghozni, úgy az a pályázó nyer, aki vállalja
+c) ha az a)–b) pontban foglaltak esetén a döntést nem lehet meghozni, úgy az a pályázó nyer, aki a létesítendő közforgalmú gyógyszertár működtetését úgy vállalja, hogy a meglévő gyógyszertárak és az általa létesítendő közforgalmú gyógyszertár közötti, adott településen belüli, közúton mért legkisebb távolság több mint 1,5 km,
 
-ca) nem csak sorozatgyártású gyógyászati segédeszköz forgalmazását,
+d) ha az a)–c) pontban foglaltak esetén a döntést nem lehet meghozni, úgy az a pályázó nyer, aki vállalja
 
-cb) a forgalmazott termékek házhoz szállítását,
+da) nem csak sorozatgyártású gyógyászati segédeszköz forgalmazását,
 
-cc) betegségspecifikus gyógyszerészi gondozás nyújtását
+db) a forgalmazott termékek házhoz szállítását,
 
-a gyógyszertár megnyitását követő legalább öt éven keresztül. A ca)–cc) alpontokban felsorolt többletszolgáltatások vállalása esetén előnyben részesül a nagyobb számú többletszolgáltatást vállaló pályázó.
+dc) betegségspecifikus gyógyszerészi gondozás nyújtását
 
-(11) Abban az esetben, ha a (10) bekezdés szerint sem lehet dönteni a pályázat nyerteséről, az a pályázó nyer, akinek pályázata korábban érkezett az egészségügyi államigazgatási szervhez.
+a gyógyszertár megnyitását követő legalább öt éven keresztül. A da)–dc) alpontokban felsorolt többletszolgáltatások vállalása esetén előnyben részesül a nagyobb számú többletszolgáltatást vállaló pályázó.
+
+(11) Ha a (10) bekezdés szerint sem lehet dönteni a pályázat nyerteséről, az a pályázó nyer, akinek pályázata korábban került benyújtásra az egészségügyi államigazgatási szerv részére. E bekezdés tekintetében benyújtásnak kell tekintetni a postára adást is.
 
 (12) A (6) bekezdés szerinti létesítési határozatot az egészségügyi államigazgatási szerv visszavonja, ha a gyógyszertár működtetését a létesítési határozatban rögzített határnapig nem kezdik meg.
