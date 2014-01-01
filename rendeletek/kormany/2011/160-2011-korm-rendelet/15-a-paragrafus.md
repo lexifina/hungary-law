@@ -1,4 +1,4 @@
-15/A. §[^29] (1) A Hatóság az 1. melléklet I. fejezet a)–c) pontjában és III. fejezetében és a 258/2012/EU rendelet I. mellékletében is felsorolt haditechnikai eszközök kivitele esetén kérelemre a 258/2012/EU rendelet II. melléklete szerinti kiviteli engedélyt ad ki.
+15/A. §[^30] (1) A Hatóság az 1. melléklet I. fejezet a)–c) pontjában és III. fejezetében és a 258/2012/EU rendelet I. mellékletében is felsorolt haditechnikai eszközök kivitele esetén kérelemre a 258/2012/EU rendelet II. melléklete szerinti kiviteli engedélyt ad ki.
 
 (2) A 258/2012/EU rendelet szerinti kiviteli engedély kizárólag hatályos tárgyalási engedély birtokában kérelmezhető.
 
@@ -14,4 +14,4 @@
 
 (8) Ha a Hatóság a 258/2012/EU rendelet szerinti kiviteli engedély kiadását Szállítási Tanúsítvány utólagos benyújtásához köti, a vállalkozás a Szállítási Tanúsítványt az áru végfelhasználó ország vámterületére történő érkezésétől számított egy hónapon belül köteles megküldeni a Hatóság részére.
 
-[^29]: A 15/A. §-t a 441/2013. (XI. 20.) Korm. rendelet 11. §-a iktatta be.
+[^30]: A 15/A. §-t a 441/2013. (XI. 20.) Korm. rendelet 11. §-a iktatta be.

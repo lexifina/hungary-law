@@ -6,7 +6,7 @@
 
 (4) Amennyiben az ügy elbírálása érdekében további adatokra van szükség, a Hatóság a (2) és (3) bekezdésben meghatározott adatokon túl egyéb, a végfelhasználás igazolására szolgáló okmányokat is bekérhet.
 
-(5)[^26] A globális forgalmi engedély 3 évre adható, és kérelemre, egy alkalommal, 12 hónappal meghosszabbítható.
+(5)[^27] A globális forgalmi engedély 3 évre adható, és kérelemre, egy alkalommal, 12 hónappal meghosszabbítható.
 
 (6) A vevő, a végfelhasználó, továbbá a bróker megbízhatóságáról a Hatóság felé a vállalkozás nyilatkozik. A nyilatkozat tartalmazza, hogy a vevőt, a végfelhasználót, továbbá a brókert a saját államában vállalkozásként bejegyezték, tevékenységét végezheti és ott a jogszabályoknak megfelelően működik.
 
@@ -14,7 +14,7 @@
 
 (8) A Hatóság a globális forgalmi engedélyben a 8. §-ban foglaltakkal összefüggésben nemzetbiztonsági, nemzetgazdasági érdekből vagy a végfelhasználó és a végfelhasználás ellenőrzésének céljából, az összes körülmény figyelembevételével az ügylet lebonyolítására vonatkozó eseti feltételeket határozhat meg a végfelhasználás, a továbbértékesítés, illetve a továbbadás vonatkozásában.
 
-(9)[^27] Ha a Hatóság a globális forgalmi engedély kiadását Szállítási Tanúsítvány utólagos benyújtásához köti, a vállalkozás a Szállítási Tanúsítványt az áru végfelhasználó ország vámterületére történő érkezésétől számított egy hónapon belül köteles megküldeni a Hatóság részére.
+(9)[^28] Ha a Hatóság a globális forgalmi engedély kiadását Szállítási Tanúsítvány utólagos benyújtásához köti, a vállalkozás a Szállítási Tanúsítványt az áru végfelhasználó ország vámterületére történő érkezésétől számított egy hónapon belül köteles megküldeni a Hatóság részére.
 
-[^26]: A 14. § (5) bekezdése a 78/2013. (III. 13.) Korm. rendelet 16. § b) pontja szerint módosított szöveg.
-[^27]: A 14. § (9) bekezdése a 78/2013. (III. 13.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^27]: A 14. § (5) bekezdése a 78/2013. (III. 13.) Korm. rendelet 16. § b) pontja szerint módosított szöveg.
+[^28]: A 14. § (9) bekezdése a 78/2013. (III. 13.) Korm. rendelet 4. §-ával megállapított szöveg.

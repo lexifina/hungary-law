@@ -1,8 +1,8 @@
-## 7. §[^20] A Hatóság az engedélyeket a külpolitikáért felelős miniszter, a külgazdaságért és a Kárpát-medencei gazdasági övezet gazdaságfejlesztéséért felelős miniszter, a rendészetért felelős miniszter, a honvédelemért felelős miniszter, valamint az Alkotmányvédelmi Hivatal, az Információs Hivatal, a Nemzetbiztonsági Szakszolgálat, a Katonai Nemzetbiztonsági Szolgálat, az Országos Rendőr-főkapitányság és a Nemzeti Adó- és Vámhivatal vezetője szakértői véleményének kikérésével adja ki.
+## 7. §[^21] A Hatóság az engedélyeket a külpolitikáért felelős miniszter, a külgazdaságért és a Kárpát-medencei gazdasági övezet gazdaságfejlesztéséért felelős miniszter, a rendészetért felelős miniszter, a honvédelemért felelős miniszter, valamint az Alkotmányvédelmi Hivatal, az Információs Hivatal, a Nemzetbiztonsági Szakszolgálat, a Katonai Nemzetbiztonsági Szolgálat, az Országos Rendőr-főkapitányság és a Nemzeti Adó- és Vámhivatal vezetője szakértői véleményének kikérésével adja ki.
 
 ## 3. Korlátozások
 
-8. § (1)[^21] A kérelmet el kell utasítani, ha az
+8. § (1)[^22] A kérelmet el kell utasítani, ha az
 
 a) ellentétes Magyarország nemzetközileg vállalt kötelezettségeivel,
 
@@ -20,5 +20,5 @@ e) ellentétes a 2. mellékletben meghatározott kritériumokkal.
 
 (4) A Hatóság az (1) bekezdés e) pontja alapján elutasított kérelemben foglalt adatokról, az elutasítás indokolásával együtt értesíti az Európai Unió tagállamainak illetékes hatóságait.
 
-[^20]: A 7. § a 286/2012. (X. 11.) Korm. rendelet 6. §-a szerint módosított szöveg.
-[^21]: A 8. § (1) bekezdése a 78/2013. (III. 13.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^21]: A 7. § a 286/2012. (X. 11.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^22]: A 8. § (1) bekezdése a 78/2013. (III. 13.) Korm. rendelet 2. §-ával megállapított szöveg.
