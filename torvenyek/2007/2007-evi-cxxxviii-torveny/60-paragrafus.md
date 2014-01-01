@@ -20,7 +20,7 @@ c) a b) pontban foglalt elsődleges befektetési célja hitelintézeti letétekb
 
 d) a kollektív befektetési értékpapír visszaváltása esetén a pénzügyi teljesítés a visszaváltás napján vagy az azt követő napon megtörténik.
 
-(3) A (2) bekezdés b) pontja alkalmazásában az a pénzpiaci eszköz tekinthető magas minősítésűnek, amely esetében minden a Hpt. 76/H. §-ban meghatározott elismert hitelminősítő szervezet, amely az adott eszközt minősítette, a nála elérhető legmagasabb hitelminősítést adta.
+(3) A (2) bekezdés b) pontja alkalmazásában az a pénzpiaci eszköz tekinthető magas minősítésűnek, amely esetében minden a elismert hitelminősítő szervezet, amely az adott eszközt minősítette, a nála elérhető legmagasabb hitelminősítést adta.
 
 (4) Ha a befektetési vállalkozás az ügyfél pénzeszközét nem az (1) bekezdés a) pontja szerinti központi bankban helyezi el, akkor az (1) bekezdés b)–d) pontja szerinti intézményt a tőle elvárható gondossággal választja ki és rendszeresen, de legalább évente felülvizsgálja a pénzeszköz kezelésével megbízott intézménynél a pénzeszközök kezelésére vonatkozó előírások betartását.
 

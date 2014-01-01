@@ -1,29 +1,19 @@
-## A befektetési vállalkozás szavatoló tőkéje, tőkeszükséglete
+## A befektetési vállalkozás működésére vonatkozó alapvető prudenciális előírások
 
-105. § (1) A befektetési vállalkozásnak – a működőképesség folytonosságának fenntartása és a befektetők védelme érdekében – az általa végzett tevékenység kockázatának fedezetét mindenkor biztosító, megfelelő nagyságú szavatoló tőkével kell rendelkeznie, amely nem csökkenhet
+105. § (1) A befektetési vállalkozás a prudens működésre vonatkozó előírások betartásával úgy köteles a rábízott idegen és saját forrásokkal gazdálkodni, hogy folyamatosan fenntartsa azonnali fizetőképességét (likviditását) és mindenkori fizetőképességét (szolvenciáját).
 
-a) a 13. §-ban meghatározott összeg, vagy
+(2) A befektetési vállalkozás – a mindenkori fizetőképesség (szolvencia) fenntartása és a kötelezettségek teljesíthetősége érdekében – az általa végzett tevékenység kockázatának fedezetét mindenkor biztosító megfelelő nagyságú szavatoló tőkével rendelkezik, amely legalább
 
-b) az e törvény felhatalmazása alapján kiadott külön jogszabályban foglaltak alapján meghatározott,
+a) az 575/2013/EU rendelet 92. cikkében meghatározott minimum tőkekövetelmény,
 
-ba) a kereskedési könyvben nyilvántartott pozíciók és kockázatvállalások pozíciókockázattal, elszámolási és partnerkockázattal, valamint nagykockázat-vállalással kapcsolatos tőkekövetelmény,
+b) a felügyeleti felülvizsgálat keretében előírt többlettőke-követelmény, valamint
 
-bb) a tevékenység egészében meglévő hitelkockázattal kapcsolatos tőkekövetelmény,
+c) a 110/A–110/F. § szerinti kombinált pufferkövetelmény
 
-bc) a tevékenység egészében meglévő működési kockázattal kapcsolatos tőkekövetelmény, és
+összegének értéke azzal, hogy az összeg nem lehet kevesebb az engedélyezés feltételeként előírt legkisebb jegyzett tőke értékénél.
 
-bd) a tevékenység egészében meglévő devizaárfolyam-kockázattal és árukockázattal kapcsolatos tőkekövetelmény
+(3) A befektetési vállalkozás a tevékenységét likviditása folyamatos fenntartása mellett végzi.
 
-összege alá.
+(4) A befektetési vállalkozás a (3) bekezdésben foglalt kötelezettségét – tevékenységének jellegére, terjedelmére és kockázataira figyelemmel – követelései és kötelezettségei lejárati időpontjainak és összegeinek megfelelő összhangjával, valamint az irányítási és kockázatkezelési követelmények teljesítésével biztosítja.
 
-(2) Az (1) bekezdésben meghatározott szavatoló tőke mértékének meghatározása során az (1) bekezdés a) és b) pontja szerint számított érték közül a magasabbat kell irányadónak tekinteni.
-
-(3) A befektetési vállalkozás az (1) bekezdés alapján szükséges szavatoló tőke összegét – az e törvény felhatalmazása alapján kiadott külön jogszabályban meghatározott módon – naponta számítja ki.
-
-(4) A befektetési vállalkozás szavatoló tőkéjének meghatározása során a szavatoló tőke összegének kiszámítására a 2. mellékletben foglaltakat kell megfelelően alkalmazni azzal, hogy az (1) bekezdés b) pontjában meghatározott tőkekövetelménynek a 2. melléklet 19. pontjában meghatározott szavatoló tőke összeg kell, hogy megfeleljen.
-
-(5) A Felügyelet az (1) bekezdés b) pontjától eltérően, a 162. § szerinti felügyeleti felülvizsgálat keretében a befektetési vállalkozás számára a 164. § (1) bekezdés t) pontja alapján többlet-tőkekövetelményt írhat elő.
-
-(6) Ha a szavatoló tőke összege az (1) bekezdés b) pontjában és az (5) bekezdésben foglalt tőkekövetelmény összegének százhúsz százalékánál kevesebb, a befektetési vállalkozás a 2. melléklet 23. pontjában foglalt kiegészítő alárendelt kölcsöntőkével kapcsolatos mindennemű kifizetésről értesíti a Felügyeletet.
-
-(7) Ha a befektetési vállalkozás működésében az előző üzleti évhez képest nagymértékű változás következik be, a Felügyelet előírhatja, hogy a befektetési vállalkozás az (1) bekezdése alapján megállapított szavatoló tőke összegét vizsgálja felül.
+(5) Az 5. § (1) bekezdés c) és f) pontja szerinti tevékenység végzésére engedéllyel nem rendelkező befektetési vállalkozásnak nem kell megfelelnie a (2) bekezdés c) pontjában meghatározott tőkekövetelménynek.

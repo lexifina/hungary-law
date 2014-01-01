@@ -2,7 +2,7 @@
 
 a) az engedély kiadásának feltételei már nem állnak fenn, és azok hat hónapon belül nem pótolhatók,
 
-b) a hitelintézet Hpt. 18. § (1) bekezdése szerinti, tevékenység végzésére jogosító engedélyét, az alapkezelő Tpt. 229. § (1) bekezdése szerinti, tevékenység végzésére jogosító engedélyét, a biztosító Bit. 63. § (1) bekezdése szerinti, tevékenység végzésére jogosító engedélyét visszavonta, kivéve a (3) bekezdésben foglalt esetet,
+b) a hitelintézet tevékenység végzésére jogosító engedélyét, az alapkezelő Tpt. 229. § (1) bekezdése szerinti, tevékenység végzésére jogosító engedélyét, a biztosító Bit. 63. § (1) bekezdése szerinti, tevékenység végzésére jogosító engedélyét visszavonta, kivéve a (3) bekezdésben foglalt esetet,
 
 c) a befektetési vállalkozás nem vitatott tartozását az esedékességet követő öt napon belül nem egyenlítette ki, és vagyona (eszközei) az ismert hitelezők követelésének kielégítésére nem nyújtana fedezetet,
 

@@ -8,10 +8,4 @@
 
 (5) Más EGT-államban székhellyel rendelkező befektetési vállalkozás fióktelepére a dotációs tőke követelményt nem kell alkalmazni.
 
-(6) A 13. §-ban euróban meghatározott
-
-a) induló tőke összegét az alapítást megelőző naptári hónap utolsó napján,
-
-b) felelősségbiztosítás összegét a tárgyévet megelőző naptári év utolsó napján
-
-érvényes MNB által közzétett hivatalos devizaárfolyamon kell forintra átszámítani.
+(6) A 13. §-ban euróban meghatározott induló tőke vagy felelősségbiztosítás összegét az adott napon érvényes MNB által közzétett hivatalos devizaárfolyamon kell forintra átszámítani.

@@ -2,7 +2,7 @@
 
 (2) A befektetési vállalkozás, illetőleg az árutőzsdei szolgáltató az értékpapírtitkot harmadik személynek – az ügyfél egyidejű tájékoztatása mellett – csak akkor adja ki, ha
 
-a) az ügyfél vagy annak törvényes képviselője a rá vonatkozó kiszolgáltatható értékpapírtitok körébe tartozó adatokat pontosan megjelölve közokiratba vagy teljes bizonyító erejű magánokiratba foglaltan kéri vagy erre felhatalmazást ad,
+a) az ügyfél vagy annak törvényes képviselője a rá vonatkozó kiszolgáltatható értékpapírtitok körébe tartozó adatokat pontosan megjelölve közokiratba vagy teljes bizonyító erejű magánokiratba foglaltan kéri vagy erre felhatalmazást ad; nem szükséges a közokiratba, teljes bizonyító erejű magánokiratba foglalás, ha az ügyfél ezt az írásbeli nyilatkozatát a befektetési vállalkozással vagy az árutőzsdei szolgáltatóval történő szerződéskötés keretében nyújtja,
 
 b) a (3)–(4) és (7) bekezdésben foglalt rendelkezések az értékpapírtitok megtartásának kötelezettsége alól felmentést adnak, vagy
 
@@ -63,3 +63,5 @@ b) a kért adatok fajtáját és az adatkérés célját, kivéve, ha az MNB hel
 (9) A befektetési vállalkozás, illetőleg az árutőzsdei szolgáltató a (2)–(4) és (7) bekezdésben, valamint a 119. § (1) bekezdésében foglalt esetekben az értékpapírtitok kiadását – az (1) bekezdésre történő hivatkozással – nem tagadhatja meg.
 
 (10) Befektetési vállalkozás, illetőleg árutőzsdei szolgáltató jogutód nélküli megszűnése esetén az általuk kezelt értékpapírtitkot tartalmazó irat a keletkezésétől számított hatvan év múlva a levéltári kutatások céljára felhasználható.
+
+(11) A titoktartási kötelezettség alapján az értékpapírtitok körébe tartozó tény, információ, megoldás vagy adat, az e törvényben meghatározott körön kívül a befektetési vállalkozás, illetve az ügyfél felhatalmazása nélkül nem adható ki harmadik személynek, és feladatkörön kívül nem használható fel.

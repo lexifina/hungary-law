@@ -26,7 +26,7 @@ j) a befektetési vállalkozást és az árutőzsdei szolgáltatót szerződése
 
 k) a befektetési vállalkozáshoz és az árutőzsdei szolgáltatóhoz felügyeleti biztost rendelhet ki,
 
-l) bírságot szabhat ki, figyelemmel a 167. §-ban foglaltakra,
+l) bírságot szabhat ki az MNBtv. 76. § (5) és (6) bekezdése figyelembevételével,
 
 m) más hatáskörrel rendelkező hatóságnál eljárást kezdeményezhet,
 
@@ -62,11 +62,15 @@ r) a multilaterális kereskedési rendszer működését felfüggesztheti,
 
 s) a befektetési vállalkozást az irányítási és kockázatkezelési rendszerére, valamint a 106. § szerinti belső tőkemegfelelés értékelési folyamatára vonatkozó szabályzatok, eljárások, stratégiák és módszerek megerősítésére kötelezheti,
 
-t) a befektetési vállalkozást a 105. § (5) bekezdése szerinti többlet-tőkekövetelmény elérésére kötelezheti azzal, hogy a befektetési vállalkozás többlet-tőkekövetelménye nem haladhatja meg a 105. § (2) bekezdése szerinti érték kétszeresét, és
+t) a befektetési vállalkozást a (4) bekezdés szerinti többlettőke-követelmény elérésére kötelezheti,
 
 u) a multilaterális kereskedési rendszerben kereskedés tárgyát képező pénzügyi eszköz kereskedését felfüggesztheti, valamint előírhatja valamely pénzügyi eszköz kereskedésből történő kivezetését,
 
-v) kötelezheti a befektetési vállalkozást, hogy a javadalmazási politika hatálya alá tartozó személyek teljesítményjavadalmazása a nettó bevétel százalékában legyen meghatározva, ha a teljesítményjavadalmazás nincs összhangban a befektetési vállalkozás prudenciális követelményeknek való megfelelésével.
+v) kötelezheti a befektetési vállalkozást, hogy a javadalmazási politika hatálya alá tartozó személyek teljesítményjavadalmazása a nettó bevétel százalékában legyen meghatározva, ha a teljesítményjavadalmazás nincs összhangban a befektetési vállalkozás prudenciális követelményeknek való megfelelésével,
+
+x) közleményt ad ki, amelyben megjelöli a jogsértésért felelő személyt és a jogsértés természetét,
+
+y) határozattal megállapítja a jogsértés tényét és egyben elrendeli a jogsértő állapot megszüntetését, vagy megtiltja a jogszabályba ütköző magatartás további folytatását.
 
 (2) A Felügyelet az (1) bekezdés oa) alpontjában foglalt intézkedést akkor alkalmazhatja, ha az osztalék kifizetése esetén a befektetési vállalkozás vagy az árutőzsdei szolgáltató e törvényben foglalt tőkekövetelményeknek való megfelelése nem biztosított.
 
@@ -79,3 +83,7 @@ a) a befektetési vállalkozás belső tőkemegfelelés értékelési folyamatá
 b) a befektetési vállalkozás irányítási és kockázatkezelési rendszerének megfelelőségét és
 
 c) a befektetési vállalkozásnál végrehajtott felügyeleti felülvizsgálat eredményét.
+
+(5) A Felügyelet a befektetési vállalkozással szembeni intézkedés alkalmazása, illetve bírság kiszabása esetén a határozattal egyidejűleg a Befektető-védelmi Alapot is értesíti, ha a határozat a Befektető-védelmi Alap e törvény és a Tpt. szerinti feladatainak ellátására kihathat, illetve a határozat meghozatalára a befektetési vállalkozásnak a Befektető-védelmi Alap tevékenységével összefüggő kötelezettsége megsértése miatt került sor.
+
+(6) A Felügyelet akkor is értesíti a Befektető-védelmi Alapot, ha a befektetési vállalkozás anyavállalatának felügyeletét ellátó hatóság tájékoztatása alapján olyan helyzet fennállását állapítja meg, amely a Befektető-védelmi Alap e törvény és a Tpt. szerinti feladatainak ellátására kihathat.

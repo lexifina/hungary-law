@@ -4,7 +4,7 @@
 
 a) bennfentes kereskedelmet vagy piacbefolyásolást valósítana meg,
 
-b) üzleti titok, értékpapírtitok, biztosítási titok, banktitok, pénztártitok vagy az adatvédelemről szóló jogszabályok által védett információ jogszerűtlen feltárásával és felhasználásával jár, vagy
+b) üzleti titok, értékpapírtitok, biztosítási titok, banktitok, fizetési titok, pénztártitok vagy az adatvédelemről szóló jogszabályok által védett információ jogszerűtlen feltárásával és felhasználásával jár, vagy
 
 c) nem áll összhangban a befektetési vállalkozás e törvényben meghatározott kötelezettségeivel.
 

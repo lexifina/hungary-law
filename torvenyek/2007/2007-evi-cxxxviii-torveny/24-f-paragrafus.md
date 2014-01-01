@@ -1,0 +1,1 @@
+24/F. § A felügyeleti jogkörrel rendelkező vezető testület legalább három, legfeljebb kilenc tagból álló testület, amelynek tagjai a dolgozói képviseletet ellátó személyek kivételével a befektetési vállalkozással nem állhatnak munkaviszonyban.

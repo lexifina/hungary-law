@@ -8,7 +8,7 @@ b) más befektetési vállalkozásban közvetlen, illetve közvetett részesedé
 
 c) más befektetési vállalkozás vezető állású személye vagy alkalmazottja,
 
-d) szabályozott piacra bevezetett értékpapír kibocsátójánál – ide nem értve a befektetési vállalkozást magát – vezető állású személy vagy alkalmazott.
+d) szabályozott piacra bevezetett értékpapír kibocsátójánál – ide nem értve a befektetési vállalkozást magát és a befektetési vállalkozással egy csoportban lévő vállalkozásokat – vezető állású személy vagy alkalmazott.
 
 (2) A befektetési szolgáltatási tevékenység végzésére jogosító engedéllyel rendelkező hitelintézet e tevékenység végzésére létrehozott szervezeti egységének vezetője vagy az irányításért felelős, döntési hatáskörrel rendelkező személye ugyanilyen munkakörben a hitelintézet más szervezeti egységénél, más hitelintézetnél vagy befektetési vállalkozásnál nem foglalkoztatható.
 

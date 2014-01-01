@@ -1,12 +1,10 @@
-## Kockázatkezelésért felelős szervezeti egység
+20. § (1) A befektetési vállalkozás – a (2) bekezdésben foglalt kivétellel – kockázatvállalási és kockázatkezelési szervezeti egységet alakít ki, amely különösen felelős
 
-20. § (1) A befektetési vállalkozás – a (2) bekezdésben foglalt kivétellel – kockázatkezelési szervezeti egységet alakít ki, amely
+a) a 100. § (1) bekezdésében meghatározottak végrehajtásáért, és
 
-a) felelős a 100. § (3) bekezdésében meghatározott szabályzatban foglaltak végrehajtásáért,
+b) a 101. §-ban meghatározott eljárásrendek és szabályzatok kialakításáért,
 
-b) elvégzi a 100. § (8) bekezdésében foglalt feladatot,
-
-c) a befektetési vállalkozás által a 100. § (3) bekezdésében meghatározott kockázatkezelési szabályzatban rögzített időközönként, de legalább évente beszámol a befektetési vállalkozás ügyvezetésének, valamint felügyelő bizottságának az a) és b) pontban foglaltak teljesítéséről.
+amelyekről legalább évente beszámol a befektetési vállalkozás ügyvezetésének, valamint felügyelőbizottságának.
 
 (2) Nem szükséges önálló kockázatkezelési szervezeti egységet kialakítani abban az esetben, ha a befektetési vállalkozás kizárólag az 5. § (1) bekezdésének a) pontjában foglalt tevékenységet végez vagy
 

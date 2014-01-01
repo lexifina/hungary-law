@@ -16,6 +16,8 @@ e) a problémás hitelek azonosítására, kezelésére, a szükséges mérték�
 
 f) annak a kockázatnak, illetve helyzetnek a kezelésére vonatkozó eljárási szabályokat, amely az – e törvény felhatalmazása alapján kiadott külön jogszabály szerinti – elismert hitelkockázat mérséklési technikák a vártnál kisebb hatékonyságából adódik.
 
+(2a) A befektetési vállalkozás az értékpapírok vagy értékpapírosítási pozíciók hitelkockázatának, és a portfoliószintű hitelkockázatnak a mérésére hatékony és megbízható belső módszerekkel rendelkezik azzal, hogy a belső módszer nem alkalmazhatja kizárólagosan a külső hitelminősítő által kiadott hitelminősítést.
+
 (3) A befektetési vállalkozás a kiegészítő szolgáltatása keretében az ügyfél részére nyújtott befektetési hitelről szóló megállapodást írásba foglalja.
 
 (4) A befektetési vállalkozás kiegészítő szolgáltatása keretében nem nyújthat befektetési hitelt

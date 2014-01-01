@@ -30,13 +30,7 @@ b) jogi személy, jogi személyiséggel nem rendelkező jogalany azonosító ada
 
 10. befektetési vállalkozás: az, aki e törvény szerinti, tevékenység végzésére jogosító engedély alapján, harmadik személy részére, ellenérték fejében, rendszeres gazdasági tevékenysége keretében befektetési szolgáltatást nyújt vagy befektetési tevékenységet végez, ide nem értve a 3. §-ban meghatározottakat,
 
-11. minősített befolyás: egy vállalkozással létrejött olyan közvetett és közvetlen kapcsolat, amely alapján a befolyással rendelkező
-
-a) vállalkozásban fennálló tulajdoni hányadának (részesedésének) mértéke vagy az általa gyakorolható szavazati jog aránya legalább tíz százalék,
-
-b) a vállalkozás döntéshozó, ügyvezető vagy felügyelő szervei, testületi tagjainak legalább húsz százalékát kinevezheti vagy felmentheti, vagy
-
-c) létesítő okirat, megállapodás alapján döntő befolyást gyakorolhat a vállalkozás működésére,
+11. minősített befolyás: a Hpt.-ben befolyásoló részesedésként meghatározott fogalom,
 
 12. csereügylet (swap): valamely pénzügyi eszköz cseréjére vonatkozó olyan összetett megállapodás, amely általában egy azonnali és egy határidős adásvételi ügyletből, illetve több határidős ügyletből tevődik össze és általában jövőbeni pénzáramlások cseréjét vonja maga után,
 
@@ -62,15 +56,13 @@ c) olyan elszámolási rendszerrel rendelkezik, amely szerint a határidős ügy
 
 20. első számú vezető: a befektetési vállalkozás vezető állású személyei közül az a személy, akit a befektetési vállalkozás létesítő okirata ilyenként határoz meg,
 
-21. eszközátruházó (originator): olyan vállalkozás,
+21.
 
-a) amelynek eszközei, mérlegen kívüli tételei értékpapírosítás tárgyát képezik és közvetlenül vagy közvetetten maga vagy hozzá kapcsolódó vállalkozásokon keresztül részese az adóssal kötött megállapodásnak (original agreement), amelyben meghatározták az adós vagy a potenciális adós kötelezettségeit vagy potenciális kötelezettségeit, vagy
+22. EU-szintű anyavállalat: a hitelintézetekre és befektetési vállalkozásokra vonatkozó prudenciális követelményekről és a 648/2012/EU rendelet módosításáról szóló, 2013. június 26-i 575/2013/EU európai parlamenti és tanácsi rendeletben (a továbbiakban: 575/2013/EU rendelet) ekként meghatározott fogalom,
 
-b) amely megvásárolja egy harmadik fél eszközeit, mérlegen kívüli tételeit, ezeket a mérlegében kimutatja, majd értékpapírosítja,
+23. EU-szintű pénzügyi holding társaság anyavállalat az 575/2013/EU rendeletben ekként meghatározott fogalom,
 
-22. EU-szintű befektetési vállalkozás anyavállalat: a Tpt.-ben meghatározott fogalom,
-
-23. EU-szintű pénzügyi holding társaság anyavállalat: a Tpt.-ben meghatározott fogalom,
+23a. EU-szintű vegyes pénzügyi holding társaság anyavállalat az 575/2013/EU rendeletben ekként meghatározott fogalom,
 
 24. értékpapír-kölcsönzés: értékpapír tulajdonjogának olyan átruházása, amelynek keretében a kölcsönbeadó a kölcsönbevevő részére azzal a kötelezettséggel ruház át értékpapírt, hogy a kölcsönbevevő köteles azonos darabszámú és azonos sorozatú értékpapírt egy, a szerződésben vagy a kölcsönbeadó által meghatározott jövőbeni időpontban visszaadni a kölcsönbeadó vagy az általa megjelölt harmadik személy részére,
 
@@ -140,7 +132,7 @@ b) amely megvásárolja egy harmadik fél eszközeit, mérlegen kívüli tétele
 
 56. rendszeres internalizáló: az a befektetési vállalkozás, amely ügyfél részére szervezett keretek között, saját számlás kereskedés keretében a kereskedési napok mindegyikén biztosítja az ügyletkötés lehetőségét oly módon, hogy az ügyfél megbízásait szabályozott piacon és multilaterális kereskedési rendszeren kívül hajtja végre,
 
-57. repó- és fordított repóügylet: minden olyan megállapodás, amely értékpapír vagy áru tulajdonjogának, illetve az értékpapír vagy áru tulajdonjogához fűződő garantált jog átruházására vonatkozik – ha e garanciát olyan elismert tőzsde bocsátja ki, amely az értékpapírhoz vagy az áruhoz fűződő joggal rendelkezik –, és a megállapodás nem teszi lehetővé az eladó számára, hogy az adott értékpapírt vagy árut adott időpontban egyszerre több félnek ruházza át, illetőleg más ügylethez adja biztosítékul. A szerződéskötéssel egyidejűleg az értékpapírra vagy árura az eladó visszavásárlási kötelezettséget, a vevő az eladó részére történő viszonteladási kötelezettséget vállal a szerződésben meghatározott vagy az eladó által meghatározandó jövőbeli időpontban történő meghatározott visszavásárlási, viszonteladási áron. A felek közötti megállapodás rendelkezhet úgy is, hogy az ügylet tárgyát képező és biztosítékul szolgáló értékpapír vagy áru más, egyenértékű értékpapírra vagy árura kicserélhető. Az ügylet az értékpapír vagy áru eladója szempontjából repóügyletnek, az értékpapír vagy áru vevője szempontjából fordított repóügyletnek tekintendő,
+57.
 
 58. saját számlás kereskedés: pénzügyi eszköz saját eszköz terhére történő adásvétele, cseréje,
 
@@ -160,11 +152,7 @@ c) ha a befektetési vállalkozás vagy a külföldi befektetési vállalkozás 
 
 63. szoros kapcsolat: az ellenőrző befolyásnak vagy részesedési viszonynak minősülő kapcsolat azzal, hogy ha egy vállalkozás olyan vállalkozással áll ellenőrző befolyásnak minősülő kapcsolatban, amely maga is ellenőrző befolyást gyakorol egy harmadik személyre, akkor e harmadik személyt is a legfelső szinten lévővel szoros kapcsolatban állónak kell tekinteni, valamint azzal, hogy az azonos vállalkozás ellenőrző befolyása alatt álló vállalkozások közötti kapcsolatot is szoros kapcsolatnak kell tekinteni,
 
-64. szponzor: olyan hitelintézet, amely
-
-a) eszközfedezet mellett értékpapírt bocsát ki, vagy
-
-b) az eszközátruházótól megvásárolt eszközökre, mérlegen kívüli tételekre értékpapírosítási sémát hoz létre és működtet,
+64. szponzor: az 575/2013/EU rendeletben ekként meghatározott fogalom,
 
 65. tartós adathordozó: olyan eszköz, amely az ügyfél számára lehetővé teszi a neki címzett adatoknak az adat céljának megfelelő ideig történő tartós tárolását és a tárolt adatok változatlan formában és tartalommal történő megjelenítését,
 
@@ -234,6 +222,68 @@ d) amely fölött a létesítő okirat, megállapodás alapján egy személy dö
 
 82. javadalmazás: a befektetési vállalkozás által a vezető állású személy, munkavállaló részére minden, a munkaviszony alapján közvetlenül vagy közvetve, pénzbeli, természetbeni, vagyoni jog vagy egyéb formában nyújtott juttatás,
 
-83. teljesítményjavadalmazás: a befektetési vállalkozás és a vezető állású személy, munkavállaló közötti szerződésben meghatározott, a befektetési vállalkozás, az érintett szervezeti egység, és az érintett személy teljesítményére, valamint a befektetési vállalkozás pénzügyi helyzetére vonatkozó mutatók és feltételek megvalósulása esetén fizetendő juttatás.
+83. teljesítményjavadalmazás: a javadalmazás azon része, amelyet a befektetési vállalkozás az alapjavadalmazáson felül biztosíthat a vezető állású személynek és a munkavállalónak, ha az a munkaszerződésben meghatározottakat meghaladó teljesítményt nyújt vagy abban nem rögzített feladatokat lát el,
 
-84. nem kötelező nyugdíjjuttatás: a befektetési vállalkozás által a vezető állású személynek, munkavállalónak nem kötelező alapon nyújtott, emelt nyugdíjjuttatás a munkavállaló teljesítményjavadalmazásának részeként, amely nem foglalja magában a munkavállalónak a vállalati nyugdíjrendszerének feltételei alapján nyújtott felhalmozott juttatásokat.
+84. Nem kötelező nyugdíjjuttatás: a Hpt.-ben ekként meghatározott fogalom,
+
+85. túlzott tőkeáttétel kockázata: az 575/2013/EU rendeletben ekként meghatározott fogalom.
+
+86. tőkefenntartási puffer: a befektetési vállalkozás veszteségviselő képességének növelése érdekében kötelezően fenntartandó szavatolótőke-követelmény.
+
+87. intézményspecifikus anticiklikus tőkepuffer: a befektetési vállalkozási tevékenység prociklikusságának a csökkentésére irányuló, az ügyfél – akivel szemben a hitelezési kitettség fennáll – elhelyezkedésének figyelembevételével számított szavatolótőke-követelmény,
+
+88. rendszerszinten jelentős befektetési vállalkozás:
+
+a) az EU-szintű anyavállalat,
+
+b) az EU-szintű pénzügyi holding társaság anyavállalat,
+
+c) az EU-szintű vegyes pénzügyi holding társaság anyavállalat, vagy
+
+d) a befektetési vállalkozás,
+
+amelynek fizetésképtelenné válása vagy nem prudens működése rendszerkockázathoz vezethet,
+
+89. globálisan rendszerszinten jelentős befektetési vállalkozás: olyan rendszerszinten jelentős befektetési vállalkozás, amely nem lehet leányvállalata valamely
+
+a) EU-szintű anyavállalatnak,
+
+b) EU-szintű pénzügyi holding társaság anyavállalatnak,
+
+c) EU-szintű vegyes pénzügyi holding társaság anyavállalatnak, és
+
+amelynek fizetésképtelenné válása vagy nem prudens működése globális szintű rendszerkockázathoz vezethet,
+
+90. globálisan rendszerszinten jelentős befektetési vállalkozásokra vonatkozó tőkepuffer: a rendszerszintű kockázatokat hordozó, globálisan tevékenykedő befektetési vállalkozások csődvalószínűségének és kockázatvállalásának csökkentésére irányuló szavatolótőke-követelmény,
+
+91. egyéb rendszerszinten jelentős befektetési vállalkozás: olyan rendszerszinten jelentős befektetési vállalkozás, amelynek felszámolása vagy nem prudens működése EGT-szinten vagy tagállami szinten rendszerkockázathoz vezethet,
+
+92. egyéb rendszerszinten jelentős befektetési vállalkozásokra vonatkozó tőkepuffer: a Magyarországon vagy az Európai Unióban jelentős kockázatokat hordozó befektetési vállalkozások csődvalószínűségének és kockázatvállalásának csökkentésére irányuló szavatolótőke-követelmény,
+
+93. rendszerkockázati tőkepuffer: a rendszerszintű kockázatok megelőzésére és mérséklésére irányuló szavatolótőke-követelmény,
+
+94. helyreállítási terv: olyan terv, amelyben foglalt intézkedési lehetőségek a likviditást vagy a fizetőképességet (szolvenciát) súlyosan veszélyeztető állapot esetén – rendkívüli állami pénzügyi támogatás vagy a jegybanki feladatkörében eljáró MNB rendkívüli likviditási hitelének igénybevétele nélkül – biztosítják a befektetési vállalkozás pénzügyi helyzetének stabilizálódását,
+
+95. alapjavadalmazás: a javadalmazás azon része, amelyet a befektetési vállalkozás és a vezető állású személy, munkavállaló közötti szerződésben meghatározottaknak megfelelően a befektetési vállalkozás a vezető állású személynek vagy munkavállalónak rendszeresen munkabérként kifizet, és amely megfelelően tükrözi a tisztség betöltéséhez szükséges szakmai tapasztalatokat és felelősséget, ideértve minden olyan juttatást, amelyet más munkavállaló is megkap,
+
+96. kritikus funkciók: azok a tevékenységek, szolgáltatások és működési folyamatok, amelyek megszűnése Magyarországon vagy más EGT-államban valószínűsíthetően megzavarná a gazdaság vagy a pénzügyi piacok működését,
+
+97. irányítási jogkörrel rendelkező vezető testület: az alapító okiratban vagy alapszabályban meghatározott olyan vezető testület, amely a döntéshozatalra jogosult,
+
+98. felügyeleti jogkörrel rendelkező vezető testület: az alapító okiratban vagy alapszabályban meghatározott olyan vezető testület, amely az irányítási jogkörrel rendelkező vezető testület döntéshozatalát ellenőrzi,
+
+99. vezető testület: a befektetési vállalkozás igazgatósága és felügyelőbizottsága, valamint annak vezetői és tagjai, ideértve a fióktelep formájában működő befektetési vállalkozás vezető állású személyeit is,
+
+100. közérdeklődésre számot tartó befektetési vállalkozás: a nyilvános részvénytársasági formában működő befektetési vállalkozás és az a befektetési vállalkozás, amelynél a tárgyévet megelőző üzleti évben a mérlegfőösszeg meghaladta az ötszázmilliárd forintot,
+
+101. rendkívüli intézkedési terv: a befektetési vállalkozás által kidolgozott, a jogszabályoknak megfelelő működés biztosítása érdekében szükséges – határidőkhöz és felelősökhöz kötött – lépéseket tartalmazó terv,
+
+102. rendszerkockázat: a pénzügyi rendszer olyan zavarának kockázata, amely a pénzügyi rendszerre és a gazdaságra nézve súlyos negatív következményt jelenthet,
+
+103. belső módszer: az 575/2013/EU rendeletben belső minősítésen alapuló módszerként meghatározott fogalom,
+
+104. modellkockázat: a Hpt.-ben ekként meghatározott fogalom,
+
+105. tőkeáttétel: a Hpt.-ben ekként meghatározott fogalom,
+
+106. teljes kockázati kitettség: az 575/2013/EU rendeletben ekként alkalmazott fogalom.

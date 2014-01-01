@@ -1,17 +1,35 @@
-102. § (1) Az EU-szintű befektetési vállalkozás anyavállalat és annak leányvállalatai vagy egy EU-szintű pénzügyi holding társaság anyavállalat és annak leányvállalatai vagy egy EU-szintű vegyes pénzügyi holding társaság anyavállalat és annak leányvállalatai
+102. § (1) A befektetési vállalkozás az általa végzett befektetési szolgáltatási tevékenység, kiegészítő szolgáltatás és az alkalmazott üzleti modell jellegével, nagyságrendjével, összetettségével és kockázataival arányos helyreállítási tervvel rendelkezik.
 
-a) az eszköz vagy mérlegen kívüli tételek kockázattal súlyozott értékének e törvény felhatalmazása alapján kiadott rendeletben meghatározott belső minősítésen alapuló módszerrel történő számítását,
+(2) A helyreállítási terv a befektetési vállalkozás esetleges fizetésképtelenné válásának – a pénzügyi közvetítőrendszerrel való összefonódásából adódóan – a pénzügyi piacokra gyakorolható lehetséges hatásainak arányában legalább a következőket tartalmazza:
 
-b) a központi kormányokkal, központi bankokkal, hitelintézetekkel, befektetési vállalkozásokkal és vállalatokkal szemben fennálló követelések vagy függő követelések esetén a saját nemteljesítéskori veszteségráta és hitel-egyenértékesítési tényező becslések alkalmazását,
+a) a terv kulcsfontosságú elemeinek, valamint az előző tervhez képest bekövetkezett lényeges változásainak összefoglalása,
 
-c) a működési kockázat tőkekövetelményének e törvény felhatalmazása alapján kiadott rendeletben meghatározott fejlett mérési módszerrel történő számítását, vagy
+b) az esetleges negatív piaci reakciók kezelését célzó kommunikációs és tájékoztatási terv,
 
-d) a partnerkockázat tőkekövetelményének e törvény felhatalmazása alapján kiadott, a befektetési vállalkozás hitelkockázatáról szóló rendeletben meghatározott belső modell módszer szerinti számítását
+c) a befektetési vállalkozás kritikus funkcióinak meghatározása,
 
-együttesen is alkalmazhatják.
+d) a befektetési vállalkozás kritikus funkciói működésének fenntartásához szükséges, a likviditással és a fizetőképességgel (szolvenciával) kapcsolatban tervezett lépések,
 
-(2) Az (1) bekezdés szerinti együttes alkalmazáshoz az EU-szintű befektetési vállalkozás anyavállalat vagy az EU-szintű pénzügyi holding társaság anyavállalat vagy az EU-szintű vegyes pénzügyi holding társaság anyavállalat székhelye szerinti EGT-állam hatáskörrel rendelkező felügyeleti hatóságának engedélye szükséges.
+e) a terv minden egyes lényeges lépéséhez szükséges becsült időkeret,
 
-(3) A (2) bekezdésben meghatározott engedély iránti kérelmet a EU-szintű befektetési vállalkozás anyavállalat vagy az EU-szintű pénzügyi holding társaság anyavállalat vagy az EU-szintű vegyes pénzügyi holding társaság anyavállalat nyújtja be a székhelye szerinti EGT-állam hatáskörrel rendelkező felügyeleti hatóságához.
+f) a terv esetleges végrehajtását gátló tényezők leírása, ideértve az ügyfelekre, a szerződéses partnerekre, valamint – összevont alapú felügyelet alá tartozó befektetési vállalkozás esetén – a csoport többi tagjára gyakorolt hatásokat is,
 
-(4) Ha a (3) bekezdés szerint eljáró felügyeleti hatóság a Felügyelet, az engedélyt a 174. § szabályai szerint, az ott meghatározott eljárásában adja meg.
+g) a befektetési vállalkozás fő üzletágai, működési folyamatai és eszközei értékének, valamint értékesíthetőségének meghatározására irányuló eljárások,
+
+h) annak ismertetése, hogy a terv hogyan illeszkedik a befektetési vállalkozás vállalatirányítási rendszerébe, ideértve a terv kidolgozásához és végrehajtásához kapcsolódó felelősségi köröket,
+
+i) a 105. §-ban meghatározott tőkekövetelmény megőrzéséhez kapcsolódó szabályok, lehetséges lépések,
+
+j) szabályok és intézkedések annak biztosítására, hogy a befektetési vállalkozás megfelelően hozzáférjen válsághelyzeti finanszírozási forrásokhoz,
+
+k) a kötelezettségek szerkezetének átalakítására irányuló szabályok és intézkedések,
+
+l) a fő üzletágak szerkezetének átalakítására irányuló szabályok és intézkedések,
+
+m) a fizetési-, elszámolási rendszerekhez és egyéb infrastruktúrákhoz történő hozzáférés fenntartásához szükséges szabályok és intézkedések,
+
+n) a befektetési vállalkozás által tett vagy tervezett előkészítő lépések a helyreállítási terv végrehajtásának előmozdítására, ideértve a befektetési vállalkozás megfelelő időben történő feltőkésítéséhez szükséges intézkedéseket is.
+
+(3) A helyreállítási tervet legalább évente egyszer, valamint a befektetési vállalkozás jogi vagy szervezeti felépítésével, tevékenységével vagy pénzügyi helyzetével kapcsolatos minden olyan változást követően, amely a tervben foglaltak végrehajtására lényeges hatással lehet, a befektetési vállalkozás felülvizsgálja.
+
+(4) A befektetési vállalkozás együttműködik a törvényben meghatározott szanálási hatósággal, biztosítandó, hogy esetleges felszámolása – a pénzügyi közvetítőrendszerrel való összefonódásából adódóan – a pénzügyi piacokra gyakorolható lehetséges hatásainak mérséklése érdekében a szanálási hatóság alternatív forgatókönyvekkel rendelkezzen a befektetési vállalkozás szerkezetátalakítására, funkciói folyamatosságának fenntartására, a pénzügyi stabilitás megőrzésére, a befektetési vállalkozás egésze vagy egy része életképességének helyreállítására.
