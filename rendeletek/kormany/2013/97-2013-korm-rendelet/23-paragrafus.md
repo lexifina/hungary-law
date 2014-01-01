@@ -1,3 +1,1 @@
-## 20–22. §[^9]
-
-[^9]: A 20–22. § a 77. § (4) bekezdése alapján 2014. január 1-jén lép hatályba.
+## „(3) A korábbi, elidegenítési tilalommal terhelt ingatlan vételárának felhasználásával megszerzett új ingatlan esetén a gyámhivatal – az előzőleg előírt időtartam lejártáig – bejegyezteti az elidegenítési tilalmat az új ingatlanra.”

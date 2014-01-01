@@ -1,3 +1,5 @@
+## lép.
+
 ## 4. Záró rendelkezések
 
 77. § (1) Ez a rendelet – a (2)–(4) bekezdésben foglalt kivétellel – 2013. április 1-jén lép hatályba.

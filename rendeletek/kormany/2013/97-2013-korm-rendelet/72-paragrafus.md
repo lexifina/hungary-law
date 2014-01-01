@@ -1,3 +1,7 @@
-## 71. §[^37]
+## 71. § A Gyár. 10. § a) és c) pontja helyébe a következő rendelkezések lépnek:
 
-[^37]: A 71. § a 77. § (4) bekezdése alapján 2014. január 1-jén lép hatályba.
+## (A járási gyámhivatal a gyámsággal és gondnoksággal kapcsolatban)
+
+## „a) a gyermek részére gyámot, családbafogadó gyámot vagy gyermekvédelmi gyámot rendel, a nevelőszülőt egyes gyámi feladatok ellátására gyámként kirendeli,”
+
+## „c) irányítja és felügyeli a családbafogadó gyám és a gyermekvédelmi gyám tevékenységét,”

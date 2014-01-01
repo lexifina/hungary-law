@@ -1,0 +1,53 @@
+## 28. § A Gyer. 97. § (1)–(4) bekezdése helyébe a következő rendelkezések lépnek:
+
+## „(1) A gyermeket ideiglenes hatállyal nevelőszülőnél, gyermekotthonban vagy az Szt. hatálya alá tartozó fogyatékos személyek vagy pszichiátriai betegek otthonában, fogyatékos személyek ápoló-gondozó célú lakóotthonában (a továbbiakban együtt: fogyatékosok vagy pszichiátriai betegek otthona) történő elhelyezéséről szóló határozat rendelkező része a 14. §-ban foglaltakon kívül tartalmazza
+
+## a) a gyermeknek az ideiglenes gondozási helyre viteléről való rendelkezést,
+
+## b) annak a megállapítását, hogy a szülő, a gyám gondozási, nevelési joga szünetel,
+
+## c) a gyermeket gondozásba vevő személy, nevelőszülői hálózat vagy intézmény felhívását a gondozásba vétel időpontjának közlésére,
+
+## d) a tájékoztatást az ideiglenes hatályú elhelyezés kötelező felülvizsgálatáról és szükség esetén rendelkezést az iratoknak a felülvizsgálat lefolytatására illetékes gyámhivatal részére történő megküldéséről,
+
+## e) külföldi állampolgárságú gyermek ideiglenes hatályú elhelyezését követően a Budapest Főváros V. kerületi Gyámhivatalának megkeresését,
+
+## f) a fellebbezésre tekintet nélküli végrehajthatóság kimondását,
+
+## g) három év alatti gyermek esetén a kora miatt fennálló különleges ellátási szükségletének tényét,
+
+## h) a családi pótlék igénylésére történő felhívást,
+
+## i) a gyámhivatal által elrendelt ideiglenes hatályú elhelyezés esetén
+
+## ia) a kapcsolattartásra [30/G. § (2) bek.],
+
+## ib) szükség esetén a gyermekvédelmi gyám kirendelésére [Gyvt. 84. § (1) bek.]
+
+## vonatkozó döntést.
+
+## (2) Az ideiglenes hatályú elhelyezést elrendelő határozatot közölni kell a gyermekétől külön élő szülővel és a gondozási helyen működő gyermekjogi képviselővel.
+
+## (3) Ha a gyámhivatal a különélő másik szülőnél vagy harmadik személynél történő ideiglenes hatályú elhelyezésről dönt, és ezzel egyidejűleg a gyermek elhelyezése vagy elhelyezésének megváltoztatása iránt pert indít, a határozat rendelkező része a 14. §-ban foglaltakon kívül tartalmazza
+
+## a) a szülő szülői felügyeleti joga szünetelésének megállapítását,
+
+## b) a másik szülő szülői felügyeleti joga feléledésének megállapítását vagy a gyámrendelést,
+
+## c) kérelem esetén a kapcsolattartás kérdésében való döntést,
+
+## d) a gyermeknek a különélő másik szülő vagy harmadik személy által történő átvételének helyéről, időpontjáról és módjáról szóló döntést,
+
+## e) a fellebbezésre tekintet nélküli végrehajthatóság kimondását.
+
+## (4) Ha a szülő gyermekének ismeretlen személy általi örökbefogadásához járul hozzá, az ideiglenes hatályú elhelyezésről szóló határozat a 14. §-ban foglaltakon kívül tartalmazza
+
+## a) a szülői felügyeleti jog szünetelésének vagy megszűnésének megállapítását,
+
+## b) a gyermekvédelmi gyám kirendelését,
+
+## c) az ideiglenes hatályú elhelyezés kezdő időpontját,
+
+## d) a gyermeknek a leendő örökbefogadó szülőnek történő kiadásáról, vagy ha erre nincs lehetőség, az ideiglenes gondozási helyre való viteléről való döntést,
+
+## e) a fellebbezésre tekintet nélküli végrehajthatóság kimondását.”

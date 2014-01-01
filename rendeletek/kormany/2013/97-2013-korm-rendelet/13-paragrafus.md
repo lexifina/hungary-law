@@ -1,9 +1,9 @@
-## 12. §[^4]
+## „c) a szülői felügyeletet megszüntető, illetve a szülő cselekvőképességét érintő gondnokság alá helyezéséről szóló jogerős bírói ítéletet,”
 
-13. § (1)[^5]
+## „g) belföldön történt születés vagy házasságkötés esetén az örökbe fogadni szándékozó személy születési és házassági anyakönyvi kivonatát.”
 
-(2)[^6]
+13. § (1)[^3]
 
-[^4]: A 12. § a 77. § (4) bekezdése alapján 2014. január 1-jén lép hatályba.
-[^5]: A 13. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^6]: A 13. § (2) bekezdése a 77. § (4) bekezdése alapján 2014. január 1-jén lép hatályba.
+(2) A Gyer. 42. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+[^3]: A 13. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

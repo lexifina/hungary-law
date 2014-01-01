@@ -1,3 +1,3 @@
-## 34. §[^12]
+## 34. §[^6]
 
-[^12]: A 34. § a 257/2013. (VII. 5.) Korm. rendelet 28. § b) pontja alapján nem lép hatályba.
+[^6]: A 34. § a 257/2013. (VII. 5.) Korm. rendelet 28. § b) pontja alapján nem lép hatályba.
