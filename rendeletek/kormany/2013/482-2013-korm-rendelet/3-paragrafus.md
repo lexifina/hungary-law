@@ -1,5 +1,9 @@
-## 1–2. §[^1]
-
 ## 2. Területi vízügyi igazgatóság
 
-[^1]: A Magyar Közlöny 2013. évi 213. számában megjelent helyesbítésnek megfelelő szöveg. Az 1–2. § a 13. § (2) bekezdése alapján 2014. január 1-jén lép hatályba.
+3. § (1) A területi vízügyi igazgatóság (a továbbiakban: igazgatóság) a vízügyi igazgatási szervek irányításért felelős miniszter irányítása alatt álló központi költségvetési szerv.
+
+(2) Az igazgatóságok elnevezését, székhelyét és működési területét az 1. melléklet tartalmazza.
+
+(3) Az igazgatóságot az igazgató vezeti, aki – a 4. § (2) és (4) bekezdésében meghatározott kivétellel – gyakorolja a munkáltatói jogokat az igazgatóság foglalkoztatottjai felett.
+
+(4) Az igazgatóság foglalkoztatottjai – a 4. § (4) bekezdésében meghatározott kivétellel – közalkalmazottak vagy munkavállalók.
