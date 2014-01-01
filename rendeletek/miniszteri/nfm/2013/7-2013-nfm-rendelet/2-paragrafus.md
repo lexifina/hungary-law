@@ -24,10 +24,13 @@ k)[^3] Nemzetstratégiai Kutatóintézet;
 
 l)[^4] Nemzeti Örökség Intézete;
 
-m)[^5] Nemzeti Fejlesztési Programiroda Nonprofit Kft.
+m)[^5] Nemzeti Fejlesztési Programiroda Nonprofit Kft;
+
+n)[^6] NKEK Nemzeti Környezetvédelmi és Energia Központ Nonprofit Korlátolt Felelősségű Társaság.
 
 [^1]: A 2. § c) pontját a 28/2013. (VI. 12.) NFM rendelet 3. §-a hatályon kívül helyezte.
 [^2]: A 2. § j) pontját a 28/2013. (VI. 12.) NFM rendelet 1. §-a iktatta be, szövege az 59/2013. (X. 9.) NFM rendelet 1. §-ával megállapított szöveg.
 [^3]: A 2. § k) pontját a 28/2013. (VI. 12.) NFM rendelet 2. §-a iktatta be.
 [^4]: A 2. § l) pontját az 59/2013. (X. 9.) NFM rendelet 2. §-a iktatta be.
 [^5]: A 2. § m) pontját az 59/2013. (X. 9.) NFM rendelet 3. §-a iktatta be.
+[^6]: A 2. § n) pontját a 74/2013. (XII. 12.) NFM rendelet 1. §-a iktatta be.
