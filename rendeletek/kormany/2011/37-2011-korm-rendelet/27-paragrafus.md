@@ -1,5 +1,5 @@
-## VI. Fejezet[^26]
+## VI. Fejezet[^86]
 
 ## 12.
 
-[^26]: A VI. Fejezetet (27–32. §) a 42. § b) pontja hatályon kívül helyezte.
+[^86]: A VI. Fejezetet (27–32. §) a 42. § b) pontja hatályon kívül helyezte.

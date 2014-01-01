@@ -10,8 +10,13 @@ c) az adott vállalkozás – függetlenül a vállalkozási formától – megf
 
 (3) Valamely vállalkozás a (2) bekezdésben meghatározott feltételek hiányában különösen olyan esetekben is nehéz helyzetben lévőnek tekintendő, ha veszteségei nőnek, forgalma csökken, leltári készletei felhalmozódnak, fölös kapacitása megemelkedik, megrendelés-állománya jelentős mértékben csökken, pénzforgalma csökken, adóssága nő, a nettó eszközérték leírása csökken vagy teljesen leírásra kerül.
 
-(4) Ha a támogatási intézkedés a csoportmentességi rendelet hatálya alá tartozó állami támogatásnak minősül, a kis- és középvállalkozást csak akkor kell nehéz helyzetben lévőnek tekinteni, ha megfelel a csoportmentességi rendelet 1. cikk (7) bekezdésében meghatározott feltételeknek.
+(4)[^13] Ha a támogatási intézkedés
 
-(5)[^5] A támogatást nyújtó dönt a (3) bekezdés szerinti feltétel fennállásáról.
+a) az általános csoportmentességi rendelet hatálya alá tartozó állami támogatásnak minősül, a kis- és középvállalkozást csak akkor kell nehéz helyzetben lévőnek tekinteni, ha megfelel a csoportmentességi rendelet 1. cikk (7) bekezdésében meghatározott feltételeknek,
 
-[^5]: A 6. § (5) bekezdését a 381/2012. (XII. 19.) Korm. rendelet 2. §-a iktatta be.
+b) a halászati csoportmentességi rendelet hatálya alá tartozó állami támogatásnak minősül, a kis- és középvállalkozást csak akkor kell nehéz helyzetben lévőnek tekinteni, ha megfelel a halászati csoportmentességi rendelet 2. cikk i) pontjában meghatározott feltételeknek.
+
+(5)[^14] A támogatást nyújtó dönt a (3) bekezdés szerinti feltétel fennállásáról.
+
+[^13]: A 6. § (4) bekezdése az 550/2013. (XII. 30.) Korm. rendelet 67. § (6) bekezdésével megállapított szöveg.
+[^14]: A 6. § (5) bekezdését a 381/2012. (XII. 19.) Korm. rendelet 2. §-a iktatta be.

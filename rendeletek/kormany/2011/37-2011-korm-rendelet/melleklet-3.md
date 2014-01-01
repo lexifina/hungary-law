@@ -4,9 +4,9 @@
 
 ## a) az Európai Bizottság közzétette,
 
-## b) a miniszter az Európai Bizottsággal egyezteti, és azt az Európai Bizottság jóváhagyja, vagy
+## b) a Kormány európai uniós források felhasználásáért felelős tagja az Európai Bizottsággal egyezteti, és azt az Európai Bizottság jóváhagyja, vagy
 
-## c) a támogatást nyújtó a miniszterrel egyezteti, és azt az uniós állami támogatási szabályokkal összhangban a miniszter jóváhagyja.
+## c) a támogatást nyújtó a Kormány európai uniós források felhasználásáért felelős tagjával egyezteti, és azt az uniós állami támogatási szabályokkal összhangban a Kormány európai uniós források felhasználásáért felelős tagja jóváhagyja.
 
 ## A) Vissza nem térítendő támogatás
 
@@ -200,10 +200,10 @@
 
 ## Támogatástartalom: a piaci ár és a fizetett ár különbözetének jelenértéke.
 
-3. melléklet a 37/2011. (III. 22.) Korm. rendelethez[^36]
+3. melléklet a 37/2011. (III. 22.) Korm. rendelethez[^101]
 
 ## A közszolgáltatásról szóló bizottsági határozat alapján nyújtott állami támogatásokról készítendő beszámoló kötelező adattartalma
 
 Egyedi támogatás esetében:
 
-[^36]: A 3. melléklet a 381/2012. (XII. 19.) Korm. rendelet 11. § (3) bekezdésével megállapított szöveg.
+[^101]: A 3. melléklet a 381/2012. (XII. 19.) Korm. rendelet 11. § (3) bekezdésével megállapított szöveg.
