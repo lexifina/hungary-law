@@ -10,13 +10,13 @@
 
 | 3. |  |  | további régészeti feladatellátás meghatározása | Budapest Főváros Kormányhivatalának Építésügyi és Örökségvédelmi Hivatala | nincs |
 
-| 4. |  |  | környezetvédelmi hatósági engedélyezési eljárás | Észak-Dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 4. |  |  | környezetvédelmi hatósági engedélyezési eljárás | Észak-dunántúli Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
-| 5. |  |  | természetvédelmi hatósági engedélyezési eljárás | Észak-Dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 5. |  |  | természetvédelmi hatósági engedélyezési eljárás | Észak-dunántúli Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
 | 6. |  |  | útügyi hatósági engedélyezési eljárás | Komárom- Esztergom Megyei Kormányhivatal Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központ |
 
-| 7. |  |  | vízjogi engedélyezési eljárás | Észak-Dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 7. |  |  | vízjogi engedélyezési eljárás | Észak-dunántúli Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
 | 8. |  |  | A Magyar Kereskedelmi Engedélyezési Hivatalról és a területi mérésügyi és műszaki biztonsági hatóságokról szóló 320/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdése és 13. § (2) bekezdése szerinti engedélyezési eljárás | Fejér Megyei Kormányhivatal Mérésügyi és Műszaki Biztonsági Hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
@@ -52,7 +52,9 @@ Az 1. melléklet szerinti kiemelt jelentőségű ügyekben közreműködő szakh
 
 | 2. | építésügy, műemlékvédelem és régészet | Tatabányai Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Komárom-Esztergom Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala, régészet esetén: Budapest Főváros Kormányhivatalának Építésügyi és Örökségvédelmi Hivatala |
 
-| 3. | környezetvédelem, természetvédelem és vízügy | Észak-Dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 3. | környezet- és természetvédelem | Észak-Dunántúli Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+
+| 3a. | vízügy | Észak-dunántúli Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
 | 4. | közúti közlekedés | Komárom-Esztergom Megyei Kormányhivatal Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központ |
 
@@ -84,4 +86,4 @@ Az 1. melléklet szerinti kiemelt jelentőségű ügyekben közreműködő szakh
 
 | 18. | műszaki biztonság | Fejér Megyei Kormányhivatal Mérésügyi és Műszaki Biztonsági Hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
-[^2]: A 2. melléklet a 37/2013. (II. 14.) Korm. rendelet 2. § b) pontjával megállapított szöveg.
+[^2]: A 2. melléklet a 37/2013. (II. 14.) Korm. rendelet 2. § b) pontjával megállapított, az 527/2013. (XII. 30.) Korm. rendelet 134. § (1) bekezdése szerint módosított szöveg.
