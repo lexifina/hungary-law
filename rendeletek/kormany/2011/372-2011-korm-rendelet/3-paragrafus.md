@@ -12,6 +12,6 @@
 
 (5) A vagyonkezelő GYEMSZI az átvett vagyont elkülönítetten köteles nyilvántartani könyveiben. Az átvett ingatlan vagyont, valamint az átvett intézményi ingó vagyont a GYEMSZI 2012. január 1-jén az átvett intézményekkel megkötött külön megállapodásban (a továbbiakban: intézményi megállapodás), az abban meghatározottak szerint használatba, hasznosításba adja az átvett intézménynek. Az intézményi megállapodás az átadás-átvételi megállapodás része, azt a Törvényben megjelölt aláírók, valamint az intézmény képviselője írja alá.
 
-(6)[^1]
+(6)[^2]
 
-[^1]: A 3. § (6) bekezdését a 92/2012. (IV. 27.) Korm. rendelet 42. §-a hatályon kívül helyezte.
+[^2]: A 3. § (6) bekezdését a 92/2012. (IV. 27.) Korm. rendelet 42. §-a hatályon kívül helyezte.

@@ -208,7 +208,7 @@
 
 ## A „Dokumentumok átadása” alcím c) pontja szerinti átadási kötelezettség a teljes projektállomány dokumentációjára vonatkozik, figyelemmel a lezárt, valamint a fenntartási időszakban lévő projektekre is.
 
-## A projektek átadás-átvétele, valamint a jogutódlás átvezetése során Felek a vonatkozó hatályos jogszabályok, miniszteri utasítások, valamint a Nemzeti Fejlesztési Ügynökség által készített eljárásrend szerint járnak el.
+## A projektek átadás-átvétele, valamint a jogutódlás átvezetése során Felek a vonatkozó hatályos jogszabályok, miniszteri utasítások, valamint a feladatkörében érintett irányító hatóság által készített eljárásrend szerint járnak el.
 
 ## IV.
 
@@ -272,6 +272,6 @@
 
 ## F) Mellékletek – Kimutatások és táblázatok
 
-2. melléklet a 372/2011. (XII. 31.) Korm. rendelethez[^8]
+2. melléklet a 372/2011. (XII. 31.) Korm. rendelethez[^10]
 
-[^8]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
