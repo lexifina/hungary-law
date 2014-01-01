@@ -1,0 +1,3 @@
+## 51. Hitelintézettel egyenértékű prudenciális szabályozásnak megfelelő pénzügyi vállalkozás
+
+103. § Ha a pénzügyi vállalkozás alkalmazza a hitelintézetekre vonatkozó szavatoló tőkére és tőkemegfelelésre, kockázatok és befektetések korlátozására, az eszközök minősítésére, irányítási rendszerre és kockázatkezelésre, irányításra és ellenőrzésre, valamint a nyilvánosságra hozatal követelményére vonatkozó rendelkezéseket, ugyanakkor saját tőkéje legalább kétmilliárd forint, akkor a pénzügyi vállalkozás – a Felügyelet határozata szerint – az 575/2013/EU rendelet vonatkozásában hitelintézettel egyenértékű prudenciális szabályozásnak felel meg.

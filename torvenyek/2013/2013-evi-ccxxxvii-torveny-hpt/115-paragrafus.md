@@ -1,0 +1,7 @@
+115. § (1) A hitelintézet egyedi alapon teljesíti az e törvény által meghatározott kockázatkezelésre és vállalatirányítási rendszerre vonatkozó követelményeket, kivéve, ha a hitelintézetet a Felügyelet az 575/2013/EU rendelet 7. cikke szerint a prudenciális követelmények egyedi alapon történő teljesítése alól mentesíti.
+
+(2) Az EU-szintű hitelintézeti anyavállalat és leányvállalatai, az EU-szintű pénzügyi holding társaság anyavállalat és leányvállalatai, valamint az EU-szintű vegyes pénzügyi holding társaság anyavállalat és leányvállalatai összevont vagy szubkonszolidált alapon is teljesítik a kockázatkezelésre és vállalatirányítási rendszerre vonatkozó követelményeket azzal, hogy biztosítják a kockázatkezelési és vállalatirányítási rendszerek egységességét, összehangoltságát, következetességét, és a Felügyelet részére szolgáltatandó adatok és információk kinyerési képességét.
+
+(3) A (2) bekezdés szerinti konzisztens és összehangolt kockázatkezelési és vállalatirányítási rendszer alkalmazása az e törvény hatálya alá nem tartozó leányvállalatok tekintetében is szükséges, kivéve, ha az EU-szintű hitelintézeti anyavállalat, az EU-szintű pénzügyi holding társaság anyavállalat vagy az EU-szintű vegyes pénzügyi holding társaság anyavállalat bizonyítja, hogy ezen elvárás teljesítése a harmadik ország – ahol a leányvállalat letelepedett – jogrendje alapján jogellenesnek minősül.
+
+(4) Az ezen alcímben foglalt rendelkezéseket a központi szervhez tartósan kapcsolt hitelintézet a központi szervével együttesen teljesíti.

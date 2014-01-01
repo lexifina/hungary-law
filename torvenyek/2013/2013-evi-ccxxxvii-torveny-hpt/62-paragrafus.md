@@ -1,0 +1,1 @@
+62. § A nem fizetésképtelen hitelintézet jogutód nélküli megszüntetésére irányuló eljárás, illetve a fizetésképtelenségi eljárás ingatlanra vonatkozó szerződéssel kapcsolatos joghatásai tekintetében az ingatlan fekvési helyének joga az irányadó.

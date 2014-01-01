@@ -1,0 +1,1 @@
+170. § A hitelintézet bejelenti öt munkanapon belül a Felügyeletnek, ha anyavállalata vegyes tevékenységű holding társaság vagy vegyes pénzügyi holding társaság lett vagy ezen viszony módosul, illetve megszűnik.

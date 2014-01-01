@@ -1,0 +1,5 @@
+197. § (1) Ha a Felügyelet a 185. § (2) bekezdés c) pont cf) alpontja, a 48. § (5) bekezdése és az 55. § (2) bekezdése szerinti intézkedését a Tvt. alapján fizetést korlátozó eljárásnak minősíti, akkor az erről való döntés közlését követő hatállyal jogosult az eljárás alá vont, a fizetési rendszerhez közvetlenül csatlakozó résztvevő esetében a javára benyújtott fizetési megbízásnak a fizetési rendszer általi elszámolását, teljesítését átmenetileg vagy véglegesen megtiltani. A Felügyelet ezen döntéséről haladéktalanul értesíti a fizetési rendszer rendszerüzemeltetőjét.
+
+(2) A Felügyelet az (1) bekezdés szerinti határozat tekintetében érintett, a fizetési rendszerhez közvetlenül csatlakozó résztvevő értesítése mellett haladéktalanul értesíti a fizetési rendszer rendszerüzemeltetőjét is.
+
+(3) A Tvt. 3. § (1) bekezdés a) pontjában meghatározott időponttól kezdődően a közvetlenül csatlakozó résztvevő javára benyújtott fizetési megbízás elszámolása és teljesítése az (1) bekezdés szerinti döntés rendszerüzemeltetővel történt közlésétől függetlenül végrehajtható és megtámadhatatlan.

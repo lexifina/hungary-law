@@ -1,0 +1,1 @@
+105. § A Felügyelet a 104. § (1) bekezdése szerinti határozatát visszavonhatja, ha a pénzügyi vállalkozás a Felügyelet intézkedésében, kivételes intézkedésében foglalt határidőn belül nem tesz eleget a 103. §-ban rögzített követelményeknek.

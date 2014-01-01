@@ -1,0 +1,1 @@
+230. § Kártérítési igény az OBA-val szemben a jogellenesen okozott kár miatt csak akkor érvényesíthető, ha megállapítható, hogy az OBA eljárása vagy mulasztása törvénysértő volt, és a bekövetkezett kárt ez idézte elő.

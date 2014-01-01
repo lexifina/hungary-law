@@ -1,0 +1,3 @@
+187. § (1) Ha a Felügyelet rendkívüli intézkedési terv elfogadását is szükségesnek tartja, annak kidolgozására legfeljebb harmincnapos határidőt engedélyezhet.
+
+(2) Ha a rendkívüli intézkedési terv elfogadásához, illetve tőkeemelés szükségessége miatt rendkívüli közgyűlés (küldöttgyűlés) megtartása szükséges, akkor a Felügyelet az (1) bekezdésben meghatározott határidő legfeljebb huszonegy napos meghosszabbítását engedélyezheti. Ha a közgyűlés (küldöttgyűlés) a tőkeemelésről vagy alapvető kölcsöntőke nyújtásáról határozott, e határozat meghozatalától további legfeljebb tizenöt nap engedélyezhető a tőkeösszeg befizetésére.

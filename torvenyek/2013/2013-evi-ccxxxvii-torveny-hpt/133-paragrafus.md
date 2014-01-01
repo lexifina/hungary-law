@@ -1,0 +1,1 @@
+133. § Az előírt engedély iránti kérelem benyújtásának elmulasztása, a kérelem elutasítása, az előírt bejelentési kötelezettség elmulasztása vagy az adatszolgáltatás megtagadása esetén a részesedésszerzésre vagy az előny biztosítására irányuló szerződésből származó szavazati jogok gyakorlását a Felügyelet a megfelelő törvényes feltételek biztosításáig megtilthatja.

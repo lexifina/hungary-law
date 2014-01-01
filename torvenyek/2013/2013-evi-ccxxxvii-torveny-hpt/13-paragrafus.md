@@ -1,0 +1,7 @@
+13. § (1) Pénzügyi intézmény alapításához az induló tőkét kizárólag pénzbeni hozzájárulással lehet teljesíteni. Az induló tőkét kizárólag olyan hitelintézetnél lehet befizetni, illetve a működés megkezdéséig olyan hitelintézetnél vezetett fizetési számlán lehet tartani, amely nem vesz részt az alapításban, amelyben az alapítónak nincs tulajdona, illetve amely az alapítóban nem rendelkezik tulajdonnal. Hitelintézet induló tőkéje a működési engedély kiadásáig kizárólag az alapítás, és a működés e törvényben meghatározott feltételeinek megteremtése érdekében használható fel.
+
+(2) A részvénytársasági formában működő pénzügyi intézmény – ide nem értve a pénzügyi holding társaságot – új részvények jegyzésével történő alaptőke-emelését, a fióktelep formájában működő pénzügyi intézmény esetében a dotációs tőke emelését, illetve szövetkezeti hitelintézet alaptőke emelését kizárólag pénzbeni hozzájárulással lehet végrehajtani.
+
+(3) Ha az állam hajt végre alaptőke-emelést új részvények jegyzésével, akkor az alaptőke emelését állampapír rendelkezésre bocsátásával is végre lehet hajtani olyan esetben, amikor egy hitelintézet fizetésképtelensége az ország vagy valamely nagyobb régió gazdasági érdekeit, vagy a bankrendszer megbízható működését súlyosan veszélyeztetné, és a fizetésképtelenség, illetve a felszámolás csak az állam beavatkozásával hárítható el.
+
+(4) A pénzügyi intézmény saját kibocsátású részvényeinek értékesítése esetén halasztott fizetést, és visszavásárlási kötelezettséget érvényesen nem köthet ki.

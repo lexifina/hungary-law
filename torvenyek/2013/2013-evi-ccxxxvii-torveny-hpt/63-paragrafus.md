@@ -1,0 +1,1 @@
+63. § Azon értékpapírokkal kapcsolatos jogok érvényesítésére, amelyek létrejöttéhez vagy átruházásához nyilvántartásba történő bejegyzés vagy számlán történő nyilvántartás szükséges, annak az EGT-államnak a joga az irányadó, ahol a nyilvántartást vagy a számlát vezetik.

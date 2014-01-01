@@ -1,0 +1,3 @@
+147. § (1) A 146. § (2) bekezdésében meghatározott személy munkakörében vagy az annak révén birtokába jutott – a pénzügyi intézmény működésével és ügyfeleivel kapcsolatos – információt nem használhatja fel, és nem adhatja át vagy nem teheti hozzáférhetővé illetéktelen személy számára.
+
+(2) Tilos a belső információ felhasználásával vagy a 146. § (2) bekezdésében meghatározott személlyel a belső információval érintett körben olyan ügyletet kötni, olyan ügyletkötésre megbízást vagy befektetési tanácsot adni, amelynek alapján a 146. § (2) bekezdésében meghatározott személy vagy közeli hozzátartozója, illetve harmadik személy bármilyen vagyoni előnyhöz jut, illetve amely más személynek kárt okoz.

@@ -1,0 +1,1 @@
+60. § Egy másik EGT-államban székhellyel rendelkező hitelintézettel szemben lefolytatott fizetésképtelenségi eljárás és nem fizetésképtelen hitelintézet jogutód nélküli megszüntetésére irányuló eljárás joghatásai tekintetében a hitelintézet székhelye szerinti jog az irányadó. Az ilyen eljárásokban hozott határozatokat minden további eljárás nélkül el kell ismerni.

@@ -1,0 +1,39 @@
+## 4. A pénzügyi intézmény
+
+7. § (1) Pénzügyi intézmény a hitelintézet és a pénzügyi vállalkozás.
+
+(2) A 3. § (1) bekezdésében meghatározott pénzügyi szolgáltatást – ha törvény eltérően nem rendelkezik – kizárólag pénzügyi intézmény végezhet.
+
+(3) A pénzügyi intézmény, ha törvény másként nem rendelkezik, pénzügyi szolgáltatáson kívül üzletszerűen kizárólag:
+
+a) a 3. § (2) bekezdés a)–d) pontjában meghatározott kiegészítő pénzügyi szolgáltatási tevékenységet,
+
+b) a biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvényben (a továbbiakban: Bit.) foglalt feltételekkel biztosításközvetítői tevékenységet,
+
+c) Tpt.-ben meghatározott feltételekkel értékpapír-kölcsönzést, részvényesi meghatalmazotti (nominee) tevékenységet, Bszt.-ben meghatározott feltételekkel befektetési szolgáltatási tevékenységet, befektetési szolgáltatási tevékenységet kiegészítő szolgáltatást, valamint a Bszt. 111–116. §-a szerinti közvetítői tevékenységet és árutőzsdei szolgáltató által végezhető tevékenységet,
+
+d) aranykereskedelmi ügyletet,
+
+e) részvénykönyvvezetést,
+
+f) az elektronikus aláírásról szóló 2001. évi XXXV. törvény 6. § (1) bekezdésében foglalt szolgáltatást,
+
+g) a hallgatói hitelrendszerről szóló kormányrendeletben meghatározott Diákhitel szervezet hitelezési tevékenységének elősegítése érdekében végzett tevékenységet,
+
+h) az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény 11/A. §-ában foglalt feltételekkel tagszervezési tevékenységet,
+
+i) a pénzügyi szolgáltatásból származó veszteség mérséklése, illetve elhárítása érdekében fedezet, illetve biztosíték hasznosítására vagy az értékesítésben való közreműködésre irányuló tevékenységet,
+
+j) követelések megbízás alapján történő kezelésére, behajtására irányuló tevékenységet,
+
+k) pénzügyi eszközre vonatkozó adat-, információértékesítést,
+
+l) jogszabályban meghatározott közösségi támogatások közvetítését,
+
+m) az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló 2013. évi LXVII. törvényben meghatározott úthasználati jogosultság megszerzésével összefüggő tevékenységet, valamint
+
+n) a 3. § (1) bekezdés j) pontján kívüli pénzletét kezeléshez kapcsolódó szolgáltatást
+
+végezhet.
+
+(4) Fizetési rendszert működtető pénzügyi vállalkozás a (3) bekezdésben foglaltakon kívül egyéb pénzügyi szolgáltatásnak nem minősülő üzletszerű tevékenységet is folytathat, ha ezen tevékenysége a főtevékenységként végzett fizetési rendszer működtetését nem befolyásolja hátrányosan.

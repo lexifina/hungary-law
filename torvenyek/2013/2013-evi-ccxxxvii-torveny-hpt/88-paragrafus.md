@@ -1,0 +1,15 @@
+88. § (1) Ha a hitelintézet EGT-államban végzett tevékenységének helye szerinti EGT-állam erre kijelölt hatósága az anticiklikus tőkepufferráta mértékét legfeljebb 2,5 százalék mértékben határozza meg, akkor a hitelintézet az intézményspecifikus anticiklikus tőkepuffer meghatározása során az adott EGT-államban lévő féllel szembeni kitettsége tekintetében az adott EGT-állam erre kijelölt hatósága által megállapított anticiklikus tőkepufferrátát alkalmazza.
+
+(2) Ha a hitelintézet harmadik országban végzett tevékenységének helye szerinti állam erre kijelölt hatósága anticiklikus tőkepufferrátát vagy annak megfelelő tőkekövetelményt ír elő legfeljebb 2,5 százalék mértékben, akkor a makroprudenciális feladatkörében eljáró MNB kötelezheti a hitelintézetet, hogy az intézményspecifikus anticiklikus tőkepuffer meghatározása során az adott harmadik országban lévő féllel szembeni kitettsége tekintetében az adott harmadik állam erre kijelölt hatósága által megállapított anticiklikus tőkepufferrátát alkalmazza.
+
+(3) Ha a hitelintézet harmadik országban végzett tevékenységének helye szerinti állam erre kijelölt hatósága az anticiklikus tőkepufferráta mértékét legfeljebb 2,5 százalék mértékben határozza meg, de a makroprudenciális feladatkörében eljáró MNB ezt a mértéket nem tartja elegendőnek ahhoz, hogy megóvja a hitelintézetet az érintett harmadik országbeli hitelállománya növekedésének a kockázatától, akkor a makroprudenciális feladatkörében eljáró MNB magasabb anticiklikus tőkepufferráta mértéket is meghatározhat. A makroprudenciális feladatkörében eljáró MNB kötelezheti a hitelintézetet, hogy az általa meghatározott, magasabb anticiklikus tőkepufferráta mértéket alkalmazza a harmadik országban lévő féllel szembeni kitettsége tekintetében az intézményspecifikus anticiklikus tőkepuffer meghatározása során.
+
+(4) Ha a hitelintézet EGT-államban végzett tevékenységének helye szerinti EGT-állam vagy egy érintett harmadik ország erre kijelölt hatósága az anticiklikus tőkepufferráta mértékét 2,5 százalék feletti mértékben határozza meg, akkor a makroprudenciális feladatkörében eljáró MNB a hitelintézetet kötelezheti
+
+a) a hitelezési tevékenység végzésének helye szerinti EGT-állam vagy egy érintett harmadik ország erre kijelölt hatósága által megállapított, vagy
+
+b) 2,5 százalékos
+
+mértékű anticiklikus tőkepufferáta alkalmazására az adott EGT-államban vagy harmadik országban lévő féllel szembeni kitettség tekintetében az intézményspecifikus anticiklikus tőkepuffer meghatározása során.
+
+(5) Ha a hitelintézet harmadik országban végzett tevékenységének helye szerinti állam erre kijelölt hatósága nem határoz meg anticiklikus tőkepuferrátát, akkor ezen harmadik országban lévő féllel szembeni kitettségek tekintetében a makroprudenciális feladatkörében eljáró MNB anticiklikus tőkepufferrátát határozhat meg.

@@ -1,0 +1,3 @@
+49. § (1) Hitelintézet tevékenységi engedélyének 33. § (1) bekezdés a) pontja alapján történt visszavonását követően engedményezett, a hitelintézettel szemben fennálló követelések beszámításának a végelszámolási eljárás során nincs helye.
+
+(2) Azon engedményezett követelések esetében, amelyek beszámítását a hitelintézet végelszámolási vagy felszámolási eljárásában e törvény vagy más törvény lehetővé teszi, a jogosult a beszámítási jogát csak akkor gyakorolhatja, ha azt legkésőbb a hitelintézet tevékenységi engedélyének visszavonását követő nyolc munkanapon belül a hitelintézetnél bejelentette.

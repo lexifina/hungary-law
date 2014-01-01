@@ -1,0 +1,1 @@
+153. § Az alapítványi formában működő pénzügyi vállalkozás kuratóriuma működésének ellenőrzésére legalább háromtagú ellenőrző testületet kell létrehozni. Az ellenőrző testület működésére a pénzügyi intézmény felügyelő bizottságára vonatkozó rendelkezéseket kell megfelelően alkalmazni.

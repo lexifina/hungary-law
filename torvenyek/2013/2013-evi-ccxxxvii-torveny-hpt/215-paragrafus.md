@@ -1,0 +1,5 @@
+215. § (1) Az OBA által biztosított betétek esetében a hitelintézet és a betétes között beszámításnak akkor van helye, ha a betétesnek a hitelintézettel szemben hitellel vagy más ügylettel kapcsolatos lejárt tartozása van. A hitelintézet a betétekre vonatkozó adatok átadásával egyidejűleg köteles a beszámítási igényét az OBA-val közölni. A hitelintézet köteles okirattal igazolni, hogy a betétest (az adóst) a beszámítási igényéről tájékoztatta. Ha a beszámításra sor kerül, akkor az OBA a 214. § szerinti összegből a hitelintézetet megillető és részére átutalt összeg levonása után fennmaradó összeget fizeti ki a betétes részére.
+
+(2) A kártalanítás mértékének megállapítása során az ügyfélnek az OBA tagjánál fennálló valamennyi betétkövetelését össze kell számítani. Ha az OBA tagjának az ügyféllel szemben lejárt követelése van, azt a kártalanítás megállapítása során az ügyfél követelésébe be kell számítani.
+
+(3) Fedezetül szolgáló betét esetén az OBA akkor teljesít kifizetést, ha a kártalanítási összeg felvételére való jogosultság a felek megegyezése vagy bíróság, illetve hatóság jogerős határozata alapján kétséget kizáróan megállapítható.

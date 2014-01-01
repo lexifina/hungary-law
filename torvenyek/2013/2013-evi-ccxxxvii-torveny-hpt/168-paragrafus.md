@@ -1,0 +1,1 @@
+168. § A pénzügyi intézmény és magyarországi fióktelepe és a kiegészítő pénzügyi szolgáltatást végző egyéb jogi személy – jogszabályban meghatározott tartalommal, módon és formában, rendszeres időközönként – a Felügyeletnek adatszolgáltatást teljesít.

@@ -1,0 +1,5 @@
+52. § (1) A pénzügyi intézmény esetében a Cstv. II. Fejezete nem alkalmazható.
+
+(2) Pénzügyi intézmény esetén a felszámolási eljárásban az eljárás felfüggesztésének nincs helye.
+
+(3) A pénzügyi intézménnyel szemben fennálló követelések esetében a Cstv. 46. § (7) bekezdése nem alkalmazható.

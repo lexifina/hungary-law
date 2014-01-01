@@ -1,0 +1,1 @@
+44. § A külföldi székhelyű hitelintézet bankképviseletének Magyarországon történő létesítését bejelenti a Felügyeletnek. A Felügyelet engedélye szükséges magyarországi székhelyű hitelintézet bankképviseletének külföldön történő létesítéséhez és a bankképviselet működésének megkezdéséhez.

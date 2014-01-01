@@ -1,0 +1,7 @@
+## 41. Tőkefenntartási puffer
+
+86. § (1) A hitelintézet az 575/2013/EU rendelet 92. cikkében meghatározott minimum tőkekövetelményen felül tőkefenntartási puffert képez.
+
+(2) A hitelintézet a tőkefenntartási puffert elsődleges alapvető tőkéből – az 575/2013/EU rendelet 1. rész II. címében meghatározottak szerint – egyedi és összevont alapon képzi, amelynek értéke a teljes kockázati kitettségérték 2,5 százaléka.
+
+(3) A tőkefenntartási puffer nem használható fel a felügyeleti felülvizsgálat keretében előírt többlettőke-követelmény teljesítésére.

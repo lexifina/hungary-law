@@ -1,0 +1,5 @@
+## 36. Saját tőke
+
+80. § (1) A pénzügyi intézmény saját tőkéjének összege nem lehet kevesebb az e törvényben az engedélyezés feltételeként előírt legkisebb jegyzett tőke összegénél.
+
+(2) Ha a pénzügyi intézmény saját tőkéjének összege az (1) bekezdésben előírt legalacsonyabb szint alá csökken, a saját tőke feltöltésére a Felügyelet legfeljebb tizennyolc hónapra meghatározott időt biztosíthat.

@@ -1,0 +1,1 @@
+296. § E törvény hatálybalépésekor már működő vagy engedélyezési eljárás alatt lévő szövetkezeti hitelintézet 12. §-ban meghatározott követelményeknek legkésőbb 2015. december 31-től köteles megfelelni.

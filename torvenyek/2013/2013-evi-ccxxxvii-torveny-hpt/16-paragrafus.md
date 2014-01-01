@@ -1,0 +1,1 @@
+16. § A Felügyelet az e törvényben meghatározott engedélyt határozott időre, feltételhez kötötten, valamint korlátozott tevékenységi körrel, területi korlátozással, a pénzügyi szolgáltatási tevékenységen belül pedig üzletági vagy termékkorlátozással is megadhatja.
