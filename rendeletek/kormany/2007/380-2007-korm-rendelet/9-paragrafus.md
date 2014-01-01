@@ -1,3 +1,0 @@
-9. § (1) A 10. §-ra is figyelemmel, az értékpapírosítást kezdeményező hitelintézetnek a kockázattal súlyozott kitettség értéket az értékpapírosítás összes ügyletrész-sorozatára a 14–53. §-ban meghatározott módszer szerint kell kiszámítania, ideértve a hitelezési kockázat mérséklés elismerésének feltételeit is.
-
-(2) Ha egy ügyletrész-sorozatot előre nem rendelkezésre bocsátott hitelkockázati fedezet alkalmazásával ruháznak át harmadik félre, akkor az értékpapírosítást kezdeményező hitelintézetnek a kockázattal súlyozott kitettség érték kiszámításakor a harmadik fél kockázati súlyát kell figyelembe vennie az adott ügyletrész-sorozat esetében.

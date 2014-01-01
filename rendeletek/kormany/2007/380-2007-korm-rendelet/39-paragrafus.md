@@ -1,3 +1,0 @@
-39. § (1) A hitelintézet könyvvizsgálójának, egy elismert külső hitelminősítő szervezetnek, illetve a hitelintézet belső ellenőrzési vagy kockázatkezelési feladatokat ellátó szervezeti egységének rendszeresen – legalább évente – felül kell vizsgálnia a belső minősítési folyamatokat, valamint a hitelintézet ABCP programban lévő pozíciókra vonatkozó hitelminősítéseit.
-
-(2) Ha az (1) bekezdés szerinti felülvizsgálatot a hitelintézet belső ellenőrzési vagy kockázatkezelési feladatokat ellátó szervezeti egysége végzi, ezen szervezeti egységnek függetlennek kell lennie az ABCP program üzletágtól, valamint nem állhat kapcsolatban az ügyféllel.
