@@ -2,7 +2,7 @@
 
 a)
 
-b) 29/B. §-a, valamint 4. és 5. melléklete,
+b)
 
 c)
 
