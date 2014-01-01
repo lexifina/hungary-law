@@ -31,3 +31,7 @@ c) a hazai, finanszírozási szerződéssel rendelkező egészségügyi szolgál
 (9) Ha a gyógykezelést végző külföldi egészségügyi szolgáltató igényli, az OEP – a külföldi intézettel való megállapodás esetén – előzetes kötelezettségvállaló nyilatkozatot ad és utólagos elszámolással rendezi a költségeket, illetve – szükség esetén – a támogatás mértékének megfelelő összeget előzetesen átutalja a gyógykezelést nyújtó külföldi gyógyintézetnek.
 
 (10) Ha a gyógykezelést végző külföldi egészségügyi szolgáltató igényli, a valamely EGT tagállam vagy Svájc területén letelepedett egészségügyi szolgáltatónál teljes térítéssel engedélyezett külföldi gyógykezelések esetén az OEP kiadja az uniós rendeletek szerinti jogosultság-igazolást.
+
+(11)[^1] Az e § szerinti eljárásban a 3. § (1) bekezdésében foglaltaktól sürgős szükség fennállása esetén akkor lehet eltérni, ha a külföldi gyógykezelésre jogosult személy, törvényes képviselője vagy az adott ellátásra beutalási jogosultsággal rendelkező kezelőorvosa a kérelmet a beavatkozás időpontja előtt benyújtotta.
+
+[^1]: A 9. § (11) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 105. §-a iktatta be.
