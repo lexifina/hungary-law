@@ -1,4 +1,4 @@
-## 24/A. §[^2] E rendeletnek az agrár- és vidékfejlesztési állami támogatásokkal kapcsolatos egyes eljárási kérdésekről szóló 353/2012. (XII. 13.) Korm. rendelet, valamint a területrendezési hatósági eljárásokról szóló 76/2009. (IV. 8.) Korm. rendelet módosításáról szóló 355/2013. (X. 8.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 20. §-át a Módr. hatálybalépésekor[^3] folyamatban lévő eljárásokban is alkalmazni kell.
+## 24/A. §[^14] E rendeletnek az agrár- és vidékfejlesztési állami támogatásokkal kapcsolatos egyes eljárási kérdésekről szóló 353/2012. (XII. 13.) Korm. rendelet, valamint a területrendezési hatósági eljárásokról szóló 76/2009. (IV. 8.) Korm. rendelet módosításáról szóló 355/2013. (X. 8.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 20. §-át a Módr. hatálybalépésekor[^15] folyamatban lévő eljárásokban is alkalmazni kell.
 
 ## 10. Az Európai Unió jogának való megfelelés
 
@@ -24,5 +24,5 @@ i) a Szerződés 87. és 88. cikkének a de minimis támogatásokra való alkalm
 
 j) a referencia-kamatláb és a leszámítolási kamatláb megállapítási módjának módosításáról szóló (2008/C 14/02) bizottsági közlemény
 
-[^2]: A 24/A. §-t a 355/2013. (X. 8.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^3]: A hatálybalépés időpontja 2013. október 9.
+[^14]: A 24/A. §-t a 355/2013. (X. 8.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^15]: A hatálybalépés időpontja 2013. október 9.

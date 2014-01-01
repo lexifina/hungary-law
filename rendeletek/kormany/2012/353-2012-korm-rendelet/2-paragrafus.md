@@ -1,4 +1,4 @@
-## 1. § E rendelet hatálya a mezőgazdasági, a halászati, az erdészeti, a vadgazdálkodási, valamint a vidékfejlesztési állami támogatásokra (a továbbiakban együtt: agrár- és vidékfejlesztési állami támogatás) és az azok folyósításával kapcsolatos, valamint a kifizetéssel nem járó támogatási intézkedésekre, a támogatást nyújtó szervekre, a támogatások kedvezményezettjeire és ezen támogatások Európai Bizottság (a továbbiakban: Bizottság) részére történő bejelentésében közreműködő szervezetekre terjed ki.
+## 1. §[^1] E rendelet hatálya – a vidékfejlesztési és halászati európai uniós fejlesztési programokhoz kapcsolódó állami támogatások kivételével – a mezőgazdasági, a halászati, az erdészeti, a vadgazdálkodási állami támogatásokra (a továbbiakban együtt: agrár állami támogatás), és az azok folyósításával kapcsolatos, a kifizetéssel nem járó támogatási intézkedésekre, a támogatást nyújtó szervekre, a támogatások kedvezményezettjeire és ezen támogatások Európai Bizottság (a továbbiakban: Bizottság) részére történő bejelentésében közreműködő szervezetekre terjed ki.
 
 ## 2. Értelmező rendelkezések
 
@@ -24,7 +24,7 @@
 
 10. jogellenes támogatás: a közösségi eljárási rendelet 1. cikk f) pontjában meghatározott támogatás;
 
-11. kedvezményezett: az a mezőgazdasági termékek elsődleges előállításával, mezőgazdasági termékek feldolgozásával és forgalmazásával, halgazdálkodással, erdőgazdálkodással, vadgazdálkodással foglalkozó, illetve vidékfejlesztési intézkedésben résztvevő vállalkozás, amely az EUMSz. 107. cikk (1) bekezdése szerinti előnyben részesül vagy részesült;
+11.[^2] kedvezményezett: az a mezőgazdasági termékek elsődleges előállításával, mezőgazdasági termékek feldolgozásával és forgalmazásával, halgazdálkodással, erdőgazdálkodással, vadgazdálkodással foglalkozó vállalkozás, amely az EUMSz. 107. cikk (1) bekezdése szerinti előnyben részesül vagy részesült;
 
 12. közösségi eljárási rendelet: az EK-Szerződés 93. cikkének alkalmazására vonatkozó részletes szabályok megállapításáról szóló, 1999. március 22-i 659/1999/EK tanácsi rendelet;
 
@@ -68,6 +68,10 @@
 
 32. végrehajtási rendelet: az EK-Szerződés 93. cikkének alkalmazására vonatkozó részletes szabályok megállapításáról szóló 659/1999/EK rendeletének végrehajtásáról szóló, 2004. április 21-i 794/2004/EK bizottsági rendelet;
 
-33. vidékfejlesztési állami támogatás: az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásról szóló, 2005. szeptember 20-i 1698/2005/EK tanácsi rendelet 88. és 89. cikke szerinti állami támogatás;
+33.[^3] vidékfejlesztési és halászati európai uniós fejlesztési programokhoz kapcsolódó állami támogatás: a mindenkori vidékfejlesztési és halászati társfinanszírozott fejlesztési programokról szóló uniós rendeletek állami támogatásokra vonatkozó cikke szerinti támogatás.
 
 34. visszafizettetési kamatláb: a végrehajtási rendelet 9. cikkében foglaltak alapján megállapított, a jogellenesnek minősített támogatás esetén alkalmazott, a támogatás kedvezményezettje által fizetendő kamat alapjául szolgáló késedelmi kamatláb.
+
+[^1]: Az 1. § az 550/2013. (XII. 30.) Korm. rendelet 92. §-ával megállapított szöveg.
+[^2]: A 2. § 11. pontja az 550/2013. (XII. 30.) Korm. rendelet 93. § (1) bekezdésével megállapított szöveg.
+[^3]: A 2. § 33. pontja az 550/2013. (XII. 30.) Korm. rendelet 93. § (2) bekezdésével megállapított szöveg.

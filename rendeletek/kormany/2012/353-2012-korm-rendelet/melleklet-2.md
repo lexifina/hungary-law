@@ -1,38 +1,38 @@
-## Tájékoztatás az agrár- és vidékfejlesztési állami támogatásokról
+## Tájékoztatás az agrár állami támogatásokról
 
-| A | B | C |
+|  | A | B |
 
-| Sorszám | Általános szempontok | Magyarázó megjegyzések |
+| 1 | Általános szempontok | Magyarázó megjegyzések |
 
-| 1. | Az agrár- és vidékfejlesztési állami támogatási konstrukció megnevezése |  |
+| 2 | Az agrár állami támogatási konstrukció megnevezése |  |
 
-| 2. | A támogatási tervezet elkészítéséért felelős szerv |  |
+| 3 | A támogatási tervezet elkészítéséért felelős szerv |  |
 
-| 3. | A támogatást nyújtó szerv megnevezése |  |
+| 4 | A támogatást nyújtó szerv megnevezése |  |
 
-| 4. | A támogatást folyósító szerv megnevezése |  |
+| 5 | A támogatást folyósító szerv megnevezése |  |
 
-| 5. | Nemzeti vagy regionális program |  |
+| 6 | Nemzeti vagy regionális program |  |
 
-| 6. | A megfelelő aláhúzandó: a) támogatási program b) támogatási programon alapuló támogatás, amelyet egyedileg kell bejelenteni a Bizottság részére c) nem támogatási programon alapuló egyedi támogatás |  |
+| 7 | A megfelelő aláhúzandó: a) támogatási program b) támogatási programon alapuló támogatás, amelyet egyedileg kell bejelenteni a Bizottság részére c) nem támogatási programon alapuló egyedi támogatás |  |
 
-| 7. | Létező támogatás helyébe lép, vagy annak módosítása, vagy új támogatás |  |
+| 8 | Létező támogatás helyébe lép, vagy annak módosítása, vagy új támogatás |  |
 
-| 8. | A támogatás elsődleges célja és másodlagos célja/céljai |  |
+| 9 | A támogatás elsődleges célja és másodlagos célja/céljai |  |
 
-| 9. | A támogatás leírása: – a támogatási kategória (uniós jogalap) megnevezése – a kedvezményezettek köre – formája (vissza nem térítendő és visszatérítendő pénzeszközök nyújtása, kamatmentes hitel, kedvezményes kamatozású hitel, kamattámogatás, kedvezményes feltételű kezességvállalás, állami támogatásnak minősülő tőkejuttatás, adókedvezmény, adóalap-kedvezmény, ingyenesen és kedvezményes feltételek mellett nyújtott szolgáltatás, ingatlanjuttatás, követelésről való lemondás, tartozásátvállalás, kedvezményes bérlet vagy kedvezményes lízing stb.) vissza nem térítendő/visszatérítendő támogatás, kedvezményes kamatozású hitel, kamattámogatás, adókedvezmény, kedvezményes kezességvállalás, árfolyamgarancia stb.) – az egyedi támogatás odaítélésének időpontja/támogatási program időtartama – feltételei – a támogatás minimális/maximális összege és mértéke a támogatási intenzitás, illetve a támogatástartalom maximális mértékében vagy összegében kifejezve – a saját forrás mértéke – az elszámolható költségek köre – mely ágazatokra (TEÁOR) terjed ki – támogatási program esetén az abból történő támogatásnyújtást kizáró feltételek – egyedi támogatás, támogatási program, vagy az az alapján megkötött támogatási szerződések megsértésének szankciói – egyéb információk |  |
+| 10 | A támogatás leírása: – a támogatási kategória (uniós jogalap) megnevezése – a kedvezményezettek köre – formája (vissza nem térítendő és visszatérítendő pénzeszközök nyújtása, kamatmentes hitel, kedvezményes kamatozású hitel, kamattámogatás, kedvezményes feltételű kezességvállalás, állami támogatásnak minősülő tőkejuttatás, adókedvezmény, adóalap-kedvezmény, ingyenesen és kedvezményes feltételek mellett nyújtott szolgáltatás, ingatlanjuttatás, követelésről való lemondás, tartozásátvállalás, kedvezményes bérlet vagy kedvezményes lízing stb.) vissza nem térítendő/visszatérítendő támogatás, kedvezményes kamatozású hitel, kamattámogatás, adókedvezmény, kedvezményes kezességvállalás, árfolyamgarancia stb.) – az egyedi támogatás odaítélésének időpontja/támogatási program időtartama – feltételei – a támogatás minimális/maximális összege és mértéke a támogatási intenzitás, illetve a támogatástartalom maximális mértékében vagy összegében kifejezve – a saját forrás mértéke – az elszámolható költségek köre – mely ágazatokra (TEÁOR) terjed ki – támogatási program esetén az abból történő támogatásnyújtást kizáró feltételek – egyedi támogatás, támogatási program, vagy az az alapján megkötött támogatási szerződések megsértésének szankciói – egyéb információk |  |
 
-| 10. | A támogatás/támogatástervezet jogszabályi alapja vagy alapjai (kérjük, csatolja ennek másolatát) |  |
+| 11 | A támogatás/támogatástervezet jogszabályi alapja vagy alapjai (kérjük, csatolja ennek másolatát) |  |
 
-| 11. | Tartalmaz-e a program „működési támogatást”? |  |
+| 12 | Tartalmaz-e a program „működési támogatást”? |  |
 
-| 12. | Kapcsolódik-e a támogatás valamilyen módon exporttevékenységhez? |  |
+| 13 | Kapcsolódik-e a támogatás valamilyen módon exporttevékenységhez? |  |
 
-| 13. | Halmozható-e a támogatás ugyanazon elszámolható költségek tekintetében más támogatással? Ha igen, milyen eljárásrend kapcsolódik az ilyen esetekhez, illetve tartalmaz-e a programrendelkezéseket a támogatás halmozódásának korlátozására? |  |
+| 14 | Halmozható-e a támogatás ugyanazon elszámolható költségek tekintetében más támogatással? Ha igen, milyen eljárásrend kapcsolódik az ilyen esetekhez, illetve tartalmaz-e a programrendelkezéseket a támogatás halmozódásának korlátozására? |  |
 
-| 14. | Illetékes kapcsolattartó elérhetőségei |  |
+| 15 | Illetékes kapcsolattartó elérhetőségei |  |
 
-| 15. | Egyéb információk |  |
+| 16 | Egyéb információk |  |
 
 2. melléklet a 353/2012. (XII. 13.) Korm. rendelethez
 
