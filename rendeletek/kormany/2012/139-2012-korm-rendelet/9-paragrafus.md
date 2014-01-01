@@ -1,5 +1,0 @@
-## 8. § A felkészülés érdekében az egészségügyért felelős miniszter által kijelölt fekvőbeteg-szakellátást nyújtó szolgáltatók a katasztrófa-egészségügyi ellátás tervezéséhez a kijelölésben meghatározott gyógyszerek és egészségügyi anyagok felhasználására, valamint a betegforgalomra vonatkozó adatokat szolgáltatnak az egészségügyért felelős miniszter által vezetett minisztérium részére.
-
-9. § (1) A megyei tisztifőorvos javaslatának figyelembevételével a megyei védelmi bizottság tervezi és biztosítja a katasztrófa-egészségügyi ellátáshoz szükségessé váló objektum kiürítését és átadását, továbbá a szükséggyógyintézet telepítéséhez és működtetéséhez nélkülözhetetlen szállításokat és infrastrukturális ellátást, beleértve a fertőtlenítéshez, járványmegelőzéshez és egyéb közegészségügyi feladatokhoz szükséges felszereléseket és személyeket is.
-
-(2) A katasztrófa-egészségügyi ellátás tervezési tevékenységéhez a megyei védelmi bizottság által egészségügyi célra kijelölt objektum működtetője a szükséggyógyintézet telepítéséhez szükséges, jogszabályban meghatározott adatokat és információkat rendelkezésre bocsátja.
