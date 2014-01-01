@@ -18,9 +18,9 @@
 
 | 7 | kedvezményes díjazású szolgáltatás szám (SHS=40) | 180 |
 
-| 8 | emelt díjas, díjkorlátos szolgáltatás szám (SHS=91) | 300 |
+| 8 | emelt díjas, díjkorlátos szolgáltatás szám (SHS=91) | 600 |
 
-| 9 | emelt díjas, díjkorlátmentes és felnőtt szolgáltatás szám (SHS=90) | 750 |
+| 9 | emelt díjas, díjkorlátmentes és felnőtt szolgáltatás szám (SHS=90) | 1200 |
 
 | 10 | üzleti hálózat szám (SHS=38) | 66 |
 
@@ -60,17 +60,17 @@
 
 | 28 | emelt díjas felnőtt 6-jegyű rövid szám (169def) | 660 000 |
 
-| 29 | szolgáltató hálózatához rendelt 3-jegyű szám (17c) | 900 000 |
+| 29 | szolgáltató hálózatához rendelt 3-jegyű szám (17c) | 720 000 |
 
-| 30 | szolgáltató hálózatához rendelt 4-jegyű szám (17cd) | 600 000 |
+| 30 | szolgáltató hálózatához rendelt 4-jegyű szám (17cd) | 480 000 |
 
-| 31 | szolgáltató hálózatához rendelt 5-jegyű szám (17cde) | 480 000 |
+| 31 | szolgáltató hálózatához rendelt 5-jegyű szám (17cde) | 360 000 |
 
 | 32 | közérdekű tájékoztató és támogató szolgáltatás szám [18c(d)] | 0 |
 
 | 33 | telefonos kezelői szolgáltatás szám (192, 193) | 0 |
 
-| 34 | telefontudakozó szám (197, 198, 199) | 0 |
+| 34 | telefontudakozó szám (197, 198, 199) | 600 000 |
 
 | 35 | EGYÉB KÓDOK | Éves díj Ft/kód |
 
@@ -82,4 +82,4 @@
 
 | 39 | nemzeti összekötő hálózat jelzéspont kód (NISPC) | 66 000 |
 
-[^2]: Az 1. melléklet a 17/2013. (X. 14.) NMHH rendelet 12. §-ával megállapított szöveg.
+[^2]: Az 1. melléklet a 17/2013. (X. 14.) NMHH rendelet 12. §-ával megállapított, a 13. §-a szerint módosított szöveg.
