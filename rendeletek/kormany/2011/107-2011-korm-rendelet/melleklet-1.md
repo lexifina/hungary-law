@@ -1,3 +1,3 @@
-1. melléklet a 107/2011. (VI. 30.) Korm. rendelethez[^90]
+1. melléklet a 107/2011. (VI. 30.) Korm. rendelethez[^97]
 
-[^90]: Az 1. melléklet a 134/2013. (V. 9.) Korm. rendelet 12. §-a szerint módosított szöveg.
+[^97]: Az 1. melléklet a 134/2013. (V. 9.) Korm. rendelet 12. §-a, az 503/2013. (XII. 29.) Korm. rendelet 2. § (16) bekezdése szerint módosított szöveg.

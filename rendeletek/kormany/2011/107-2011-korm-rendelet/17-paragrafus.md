@@ -8,7 +8,7 @@
 
 (5) A csekély összegű (de minimis) támogatás ugyanazon elszámolható költségek vonatkozásában nem halmozható állami támogatással, amennyiben az így halmozott összeg meghaladná a támogatási intenzitás csoportmentességi rendeletekben vagy az Európai Bizottság jóváhagyó határozatában meghatározott mértékét.
 
-(6)[^89] A jóváhagyó szervezet köteles írásban tájékoztatni a támogatott szervezetet arról, hogy de minimis támogatásban részesül. A tájékoztatásnak kifejezetten utalnia kell a 1998/2006/EK bizottsági rendeletre – hivatkozva annak pontos címére és az Európai Közösség Hivatalos Lapjában való kihirdetésére –, valamint meg kell határoznia a támogatás pontos összegét támogatástartalomban kifejezve.
+(6)[^96] A jóváhagyó szervezet köteles írásban tájékoztatni a támogatott szervezetet arról, hogy de minimis támogatásban részesül. A tájékoztatásnak kifejezetten utalnia kell a 1998/2006/EK bizottsági rendeletre – hivatkozva annak pontos címére és az Európai Közösség Hivatalos Lapjában való kihirdetésére –, valamint meg kell határoznia a támogatás pontos összegét támogatástartalomban kifejezve.
 
 (7) A sportfejlesztési program jóváhagyását megelőzően az érintett hivatásos sportszervezet írásos vagy elektronikus formában készített nyilatkozatot köteles eljuttatni az ellenőrző szervezet részére, a hivatásos sportszervezet által a megelőző két pénzügyi évben és a folyamatban lévő pénzügyi évben kapott valamennyi csekély összegű (de minimis) támogatásról.
 
@@ -20,4 +20,4 @@ b) az import áruk helyett hazai áru használatától függő támogatások ese
 
 c) az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló kormányrendelet szerint nehéz helyzetben lévő vállalkozások megmentésére.
 
-[^89]: A 17. § (6) bekezdése a 268/2011. (XII. 16.) Korm. rendelet 8. § g) pontja szerint módosított szöveg.
+[^96]: A 17. § (6) bekezdése a 268/2011. (XII. 16.) Korm. rendelet 8. § g) pontja szerint módosított szöveg.

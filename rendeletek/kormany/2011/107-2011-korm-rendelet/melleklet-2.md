@@ -34,7 +34,7 @@
 
 |  |  |  | ÖSSZESEN: |  |  |  |
 
-## Büntetőjogi felelősségem tudatában kijelentem, hogy az alább felsorolt számlák hitelesek, és csak a sportigazgatási szerv felé, a ......................................... iktatószámú támogatási igazolással kapcsolatban lettek elszámolva.
+## Büntetőjogi felelősségem tudatában kijelentem, hogy az alább felsorolt számlák hitelesek, és csak a sportpolitikáért felelős miniszter felé, a ......................................... iktatószámú támogatási igazolással kapcsolatban lettek elszámolva.
 
 ## Igazolom, hogy az elszámolásban foglaltak a hatályos pénzügyi és számviteli előírások szerint kerültek felhasználásra, kifizetésre és könyvelésre.
 
