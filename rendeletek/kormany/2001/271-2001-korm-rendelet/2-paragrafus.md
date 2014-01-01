@@ -1,4 +1,4 @@
-2. § (1)[^12] A bírság kiszabására a (2) bekezdésben foglalt kivételekkel az illetékes környezetvédelmi, természetvédelmi és vízügyi felügyelőség, illetve az Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség jogosult.
+2. § (1)[^12] A bírság kiszabására a (2) bekezdésben foglalt kivételekkel az illetékes környezetvédelmi hatóság, illetve az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség jogosult.
 
 (2) A bírság kiszabására a települési önkormányzat jegyzője (a továbbiakban: jegyző) jogosult, amennyiben
 
@@ -64,7 +64,7 @@ b) ha a gyártó nem teljesíti a Hkr. 3. § (2) bekezdés a)–b) pontjában el
 
 (9)[^23] A környezetvédelmi hatóság által kiszabandó bírság, alapbírság és szorzószám megállapítása nélkül a csomagolásról és a csomagolási hulladék kezelésének részletes szabályairól szóló külön jogszabály előírásai nem vagy nem megfelelő teljesítése esetén, ha a forgalmazó az átvételi kötelezettségét nem teljesíti: 100 000 forint.
 
-[^12]: A 2. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 244. §-ával megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^12]: A 2. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 244. §-ával megállapított, az 527/2013. (XII. 30.) Korm. rendelet 19. § a) pontja szerint módosított szöveg.
 [^13]: Alkalmazására lásd a 19/2009. (XII. 22.) KvVM rendeletet.
 [^14]: Alkalmazására lásd a 19/2009. (XII. 22.) KvVM rendeletet.
 [^15]: Alkalmazására lásd a 19/2009. (XII. 22.) KvVM rendeletet.
