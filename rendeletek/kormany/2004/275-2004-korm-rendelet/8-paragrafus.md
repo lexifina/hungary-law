@@ -4,7 +4,7 @@
 
 (2) A védett természeti területnek nem minősülő Natura 2000 területen tilos engedély nélkül vagy az engedélytől eltérő módon olyan tevékenységet folytatni, illetve olyan beruházást végezni, amely – a 4. § (1) bekezdésére figyelemmel – a terület védelmi céljainak a megvalósítását akadályozza.
 
-(3)[^24] A (2) bekezdés esetén a természetvédelmi hatóságként eljáró környezetvédelmi, természetvédelmi és vízügyi felügyelőség (a továbbiakban: felügyelőség) az engedélyköteles tevékenységet engedély hiányában, illetőleg az engedélyben foglaltaktól eltérő módon végző személyt e tevékenységének a folytatásától eltiltja. A tevékenység tilalma helyett korlátozás is elrendelhető, amennyiben a Natura 2000 terület védelmének biztosításához ez is elegendő.
+(3)[^24] A (2) bekezdés esetén a természetvédelmi hatóságként eljáró környezetvédelmi és természetvédelmi felügyelőség (a továbbiakban: felügyelőség) az engedélyköteles tevékenységet engedély hiányában, illetőleg az engedélyben foglaltaktól eltérő módon végző személyt e tevékenységének a folytatásától eltiltja. A tevékenység tilalma helyett korlátozás is elrendelhető, amennyiben a Natura 2000 terület védelmének biztosításához ez is elegendő.
 
 (4) A felügyelőség a (2) bekezdés szerinti tevékenység tanúsítóját az eredeti állapot helyreállítására kötelezi. Amennyiben az eredeti állapot helyreállítására nincs lehetőség, a felügyelőség az érintettekkel történő előzetes egyeztetést követően a várható természeti kárral arányban álló, más Natura 2000 területen elvégzendő, annak céljából fakadó helyreállítási és fejlesztési feladat elvégzését írja elő a (2) bekezdés szerinti tevékenység gyakorlójának.
 
@@ -14,5 +14,5 @@
 
 [^22]: A 7. §-t a 201/2006. (X. 2.) Korm. rendelet 16. § (1) bekezdése hatályon kívül helyezte.
 [^23]: A 8. § a 201/2006. (X. 2.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^24]: A 8. § (3) bekezdése a 266/2008. (XI. 6.) Korm. rendelet 6. § (1) bekezdése szerint módosított szöveg.
+[^24]: A 8. § (3) bekezdése a 266/2008. (XI. 6.) Korm. rendelet 6. § (1) bekezdése, az 527/2013. (XII. 30.) Korm. rendelet 29. §-a szerint módosított szöveg.
 [^25]: A 8. § (6) bekezdése a 266/2008. (XI. 6.) Korm. rendelet 6. § (1) bekezdése szerint módosított szöveg.

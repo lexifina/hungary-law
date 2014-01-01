@@ -22,7 +22,7 @@ c) az a)–b) pontok alá nem tartozó esetekben a felügyelőség hatósági, i
 
 (9) A (8) bekezdés szerinti esetben a felügyelőség a terv kidolgozója, illetve a beruházás engedélyese részére a Natura 2000 területek egységességének, valamint az élőhelyek és a fajok kedvező természetvédelmi helyzetének megőrzése, illetve elérése érdekében a várható kedvezőtlen hatással arányos, azt ellensúlyozó helyreállítási és fejlesztési feladat (a továbbiakban: kiegyenlítő intézkedés) elvégzését írja elő az érintett vagy más területen.
 
-(10)[^37] A felügyelőség a kiegyenlítő intézkedésről a 8. számú melléklet szerinti adatlapon – a környezetvédelmi és vízügyi miniszter (a továbbiakban: miniszter) útján – tájékoztatja az Európai Bizottságot.
+(10)[^37] A felügyelőség a kiegyenlítő intézkedésről a 8. számú melléklet szerinti adatlapon – a természetvédelemért felelős miniszter (a továbbiakban: miniszter) útján – tájékoztatja az Európai Bizottságot.
 
 (11)[^38] A beruházás engedélyezése előtt az eljáró hatóság köteles közmeghallgatást tartani, ha a beruházás az 1–4. számú mellékletben meghatározott fajok és élőhelytípusok természetvédelmi helyzetében olyan változást okozhat, amely miatt az e fajok és élőhelytípusok által az érintett nyilvánosság részére nyújtott szolgáltatás jelentős romlása következhet be. E bekezdésben foglaltakat nem kell alkalmazni az államtitkot vagy szolgálati titkot, illetőleg alapvető biztonsági, nemzetbiztonsági érdeket érintő vagy különleges biztonsági intézkedést igénylő beszerzések sajátos szabályairól szóló külön jogszabály hatálya alá tartozó beruházások esetén, valamint a jelölt Natura 2000 területek vonatkozásában.
 
@@ -31,6 +31,6 @@ c) az a)–b) pontok alá nem tartozó esetekben a felügyelőség hatósági, i
 [^34]: A 10. § a 266/2008. (XI. 6.) Korm. rendelet 5. §-ával megállapított szöveg.
 [^35]: A 10. § (2) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 33. pontja szerint módosított szöveg, e módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
 [^36]: A 10. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 374. § (1) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^37]: A 10. § (10) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 374. § (2) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^37]: A 10. § (10) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 374. § (2) bekezdésével megállapított, az 527/2013. (XII. 30.) Korm. rendelet 29. §-a szerint módosított szöveg.
 [^38]: A 10. § (11) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 374. § (2) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^39]: A 10. § (12) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 376. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
