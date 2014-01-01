@@ -6,7 +6,7 @@ b) 2. számú melléklete helyébe a 2. melléklet,
 
 c) 3/1–4. számú melléklete helyébe a 3/1–3/4. melléklet,
 
-d) 3/5. számú melléklete helyébe a 3/5. melléklet,
+d)
 
 e) 3/6–9. számú melléklete helyébe a 3/6–3/9. melléklet
 
