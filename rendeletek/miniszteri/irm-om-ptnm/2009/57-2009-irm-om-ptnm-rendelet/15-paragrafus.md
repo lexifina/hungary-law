@@ -1,6 +1,6 @@
-## Fizikai alkalmassági vizsgálat és fizikai alkalmassági minősítések az Országgyűlési Őrségnél[^35]
+## Fizikai alkalmassági vizsgálat és fizikai alkalmassági minősítések az Országgyűlési Őrségnél[^36]
 
-15. §[^36] (1) Az Országgyűlési Őrségnél fizikai alkalmasság megállapítása céljából 56 éves életkor alatt fizikai (erőnléti) állapotfelmérésen kell részt venni. Az Országgyűlési Őrség – alkalmassági vizsgálatot kérő – személyügyi szerve a fizikai alkalmasság elbírálása szempontjából a vizsgálaton résztvevőket életkor alapján 4 korcsoportba sorolja a következők szerint:
+15. §[^37] (1) Az Országgyűlési Őrségnél fizikai alkalmasság megállapítása céljából 56 éves életkor alatt fizikai (erőnléti) állapotfelmérésen kell részt venni. Az Országgyűlési Őrség – alkalmassági vizsgálatot kérő – személyügyi szerve a fizikai alkalmasság elbírálása szempontjából a vizsgálaton résztvevőket életkor alapján 4 korcsoportba sorolja a következők szerint:
 
 a) I. korcsoport: 33 éves korig,
 
@@ -22,5 +22,5 @@ a) a tárgyévi időszakos fizikai alkalmassági vizsgálat teljesítése alól 
 
 b) a tárgyévi időszakos fizikai alkalmassági vizsgálat értékelésébe beszámítható, a 10. mellékletben meghatározott mértékű többletpontot szerez.
 
-[^35]: A 15. §-t megelőző alcímet a 67/2011. (XII. 30.) BM rendelet 24. § c) pontja hatályon kívül helyezte, újonnan az 56/2012. (XI. 22.) BM rendelet 155. §-a iktatta be.
-[^36]: A 15. §-t a 67/2011. (XII. 30.) BM rendelet 24. § c) pontja hatályon kívül helyezte, újonnan az 56/2012. (XI. 22.) BM rendelet 155. §-a iktatta be.
+[^36]: A 15. §-t megelőző alcímet a 67/2011. (XII. 30.) BM rendelet 24. § c) pontja hatályon kívül helyezte, újonnan az 56/2012. (XI. 22.) BM rendelet 155. §-a iktatta be.
+[^37]: A 15. §-t a 67/2011. (XII. 30.) BM rendelet 24. § c) pontja hatályon kívül helyezte, újonnan az 56/2012. (XI. 22.) BM rendelet 155. §-a iktatta be.

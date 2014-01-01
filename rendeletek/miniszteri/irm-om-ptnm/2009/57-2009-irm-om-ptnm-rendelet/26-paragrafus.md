@@ -2,9 +2,9 @@
 
 ## a próbaidőre kinevezettek véglegesítése, valamint más fegyveres szervtől
 
-## vagy a Magyar Honvédség állományából áthelyezés előtti alkalmassági vizsgálat[^80]
+## vagy a Magyar Honvédség állományából áthelyezés előtti alkalmassági vizsgálat[^81]
 
-26. § (1)[^81] A rendészeti oktatási intézmény hallgatóinak és tanulóinak hivatásos állományba kinevezése, a próbaidőre kinevezettek véglegesítése előtti alkalmassági vizsgálat során az orvos, illetve a pszichológus értékeli a kinevezés, illetve véglegesítés előtti alkalmassági vizsgálat során keletkezett leleteket és a tanulmányi idő, illetve a próbaidő alatt előfordult betegségeket. Az orvos, illetve a pszichológus intézkedik az alkalmasság megállapításához szükséges kiegészítő vizsgálatok elvégzésére, és ennek figyelembevételével dönt az alkalmasságáról.
+26. § (1)[^82] A rendészeti oktatási intézmény hallgatóinak és tanulóinak hivatásos állományba kinevezése, a próbaidőre kinevezettek véglegesítése előtti alkalmassági vizsgálat során az orvos, illetve a pszichológus értékeli a kinevezés, illetve véglegesítés előtti alkalmassági vizsgálat során keletkezett leleteket és a tanulmányi idő, illetve a próbaidő alatt előfordult betegségeket. Az orvos, illetve a pszichológus intézkedik az alkalmasság megállapításához szükséges kiegészítő vizsgálatok elvégzésére, és ennek figyelembevételével dönt az alkalmasságáról.
 
 (2) A próbaidőre kinevezett véglegesítése előtti alkalmassági vizsgálatát – a másodfokú vizsgálat lehetőségét is figyelembe véve – úgy kell elvégezni, hogy a végleges döntést még a próbaidő lejárta előtt meghozható legyen.
 
@@ -14,18 +14,18 @@
 
 (5) Az (1)–(3) bekezdés szerinti egészségi és pszichikai alkalmassági vizsgálatot másodfokon
 
-a)[^82] a rendőrség, a hivatásos katasztrófavédelmi szerv, az Országgyűlési Őrség esetében az MH Honvédkórház,
+a)[^83] a rendőrség, a hivatásos katasztrófavédelmi szerv, az Országgyűlési Őrség esetében az MH Honvédkórház,
 
 b) a büntetés-végrehajtás esetében a BVOP
 
 végzi.
 
-(6)[^83] A rendészeti oktatási intézmény hallgatóinak és tanulóinak hivatásos állományba kinevezése, a próbaidőre kinevezettek véglegesítése, illetve a fegyveres szervek közötti, valamint a Magyar Honvédség állományából áthelyezés előtti fizikai alkalmassági vizsgálatot – ha az érintett nem rendelkezik egy éven belüli, az új beosztásnak megfelelő „Fizikailag alkalmas” minősítéssel – a fogadó szerv, illetve a szolgálati hely testnevelési vagy sportszakmai szakképzettséggel rendelkező munkatársa végzi.
+(6)[^84] A rendészeti oktatási intézmény hallgatóinak és tanulóinak hivatásos állományba kinevezése, a próbaidőre kinevezettek véglegesítése, illetve a fegyveres szervek közötti, valamint a Magyar Honvédség állományából áthelyezés előtti fizikai alkalmassági vizsgálatot – ha az érintett nem rendelkezik egy éven belüli, az új beosztásnak megfelelő „Fizikailag alkalmas” minősítéssel – a fogadó szerv, illetve a szolgálati hely testnevelési vagy sportszakmai szakképzettséggel rendelkező munkatársa végzi.
 
-(7)[^84] A rendészeti oktatási intézmény hallgatóinak és tanulóinak hivatásos állományba kinevezése, a próbaidőre kinevezettek véglegesítése, valamint a fegyveres szervek közötti és a Magyar Honvédség állományából áthelyezés előtti alkalmassági vizsgálat során csak alkalmas, vagy alkalmatlan minősítés adható.
+(7)[^85] A rendészeti oktatási intézmény hallgatóinak és tanulóinak hivatásos állományba kinevezése, a próbaidőre kinevezettek véglegesítése, valamint a fegyveres szervek közötti és a Magyar Honvédség állományából áthelyezés előtti alkalmassági vizsgálat során csak alkalmas, vagy alkalmatlan minősítés adható.
 
-[^80]: A 26. §-t megelőző alcím a 10/2010. (XII. 22.) BM rendelet 5. § (4) bekezdése szerint módosított szöveg.
-[^81]: A 26. § (1) bekezdése a 10/2010. (XII. 22.) BM rendelet 5. § (4) bekezdése szerint módosított szöveg.
-[^82]: A 26. § (5) bekezdés a) pontja a 67/2011. (XII. 30.) BM rendelet 23. § m) pontja, az 56/2012. (XI. 22.) BM rendelet 159. § m) pontja szerint módosított szöveg.
-[^83]: A 26. § (6) bekezdése a 10/2010. (XII. 22.) BM rendelet 5. § (4) bekezdése szerint módosított szöveg.
-[^84]: A 26. § (7) bekezdése a 10/2010. (XII. 22.) BM rendelet 5. § (4) bekezdése szerint módosított szöveg.
+[^81]: A 26. §-t megelőző alcím a 10/2010. (XII. 22.) BM rendelet 5. § (4) bekezdése szerint módosított szöveg.
+[^82]: A 26. § (1) bekezdése a 10/2010. (XII. 22.) BM rendelet 5. § (4) bekezdése szerint módosított szöveg.
+[^83]: A 26. § (5) bekezdés a) pontja a 67/2011. (XII. 30.) BM rendelet 23. § m) pontja, az 56/2012. (XI. 22.) BM rendelet 159. § m) pontja szerint módosított szöveg.
+[^84]: A 26. § (6) bekezdése a 10/2010. (XII. 22.) BM rendelet 5. § (4) bekezdése szerint módosított szöveg.
+[^85]: A 26. § (7) bekezdése a 10/2010. (XII. 22.) BM rendelet 5. § (4) bekezdése szerint módosított szöveg.

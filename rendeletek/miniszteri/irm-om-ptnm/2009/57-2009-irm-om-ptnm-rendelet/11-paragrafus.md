@@ -1,6 +1,6 @@
 ## Fizikai alkalmassági vizsgálat
 
-11. § (1)[^32] Az Országgyűlési Őrséget kivéve a rendvédelmi szerveknél a 11–14. §-ban meghatározottak szerint a fizikai alkalmasság megállapítása céljából 50 éves életkor alatt fizikai (erőnléti) állapotfelmérésen kell részt venni. Az alkalmassági vizsgálatot kérő szerv személyügyi szerve a fizikai alkalmasság elbírálása szempontjából a vizsgálaton résztvevőket életkor alapján négy korcsoportba sorolja a következők szerint:
+11. § (1)[^33] Az Országgyűlési Őrséget kivéve a rendvédelmi szerveknél a 11–14. §-ban meghatározottak szerint a fizikai alkalmasság megállapítása céljából 50 éves életkor alatt fizikai (erőnléti) állapotfelmérésen kell részt venni. Az alkalmassági vizsgálatot kérő szerv személyügyi szerve a fizikai alkalmasság elbírálása szempontjából a vizsgálaton résztvevőket életkor alapján négy korcsoportba sorolja a következők szerint:
 
 a) I. korcsoport: 29 éves korig,
 
@@ -16,4 +16,4 @@ d) IV. korcsoport: a 41–49 éves kor között.
 
 (4) A speciális kategóriába („S” kategóriába) tartozók esetében – amennyiben az országos parancsnok nem határoz meg különös fizikai (erőnléti) alkalmassági követelményeket –, illetve a külszolgálatra jelentkezőknél („K” kategória) az I. kategóriába tartozókra vonatkozó követelményeket kell érvényesíteni.
 
-[^32]: A 11. § (1) bekezdés nyitó szövegrésze az 56/2012. (XI. 22.) BM rendelet 159. § j) pontja szerint módosított szöveg.
+[^33]: A 11. § (1) bekezdés nyitó szövegrésze az 56/2012. (XI. 22.) BM rendelet 159. § j) pontja szerint módosított szöveg.
