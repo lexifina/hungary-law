@@ -4,4 +4,4 @@
 
 (3) A kormánymegbízott illetményét a közigazgatás-szervezésért felelős miniszter – legfeljebb az illetményalap 28-szorosában – állapítja meg. A kormánymegbízott – amennyiben kormányrendelet másként nem rendelkezik – helyettes államtitkárt megillető juttatásokra jogosult.
 
-(4) A kormánymegbízottra az e törvényben nem szabályozott kérdésekben a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény helyettes államtitkárra vonatkozó rendelkezéseit kell az illetménypótlékra és illetménykiegészítésre vonatkozó szabályok kivételével alkalmazni.
+(4) A kormánymegbízottra az e törvényben nem szabályozott kérdésekben a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény (a továbbiakban: Kttv.) helyettes államtitkárra vonatkozó rendelkezéseit kell az illetménypótlékra és illetménykiegészítésre vonatkozó szabályok kivételével alkalmazni.

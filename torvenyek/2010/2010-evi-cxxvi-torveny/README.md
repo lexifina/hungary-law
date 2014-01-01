@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-126-00-00
 | 2012-07-06 | 2012. évi XCIII. törvény | 2010-126-00-00.8 |
 | 2013-01-01 | 2012. évi XCIII. törvény | 2010-126-00-00.9 |
 | 2013-05-01 | 2013. évi XIV. törvény | 2010-126-00-00.10 |
+| 2014-01-01 | 2013. évi CCXVIII. törvény | 2010-126-00-00.11 |
