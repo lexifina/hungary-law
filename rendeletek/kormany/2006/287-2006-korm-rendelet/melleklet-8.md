@@ -26,7 +26,7 @@
 
 ## ** Esemény dátuma: Csak igénybevett ellátás estén kitöltendő.
 
-8. számú melléklet a 287/2006. (XII. 23.) Korm. rendelethez[^57]
+8. számú melléklet a 287/2006. (XII. 23.) Korm. rendelethez[^58]
 
 Várólista jelentés az országos várólista nyilvántartást vezető szerv részére
 
@@ -92,6 +92,8 @@ Várólista eset teljesítési adatai:
 
 27 Tényleges OENO kód és név (elsődleges ellátásé)
 
+27/a[^59] Oldaliság jele a tényleges ellátásnál (páros szerven végezhető eljárás esetén) (J/B/P/N)
+
 28 Ellátó intézmény kódja
 
 29 Ellátó szervezeti egység kódja
@@ -100,4 +102,17 @@ Várólista eset teljesítési adatai:
 
 31 Ellátás törzsszáma vagy naplósorszáma
 
-[^57]: A 8. számú mellékletet a 92/2012. (IV. 27.) Korm. rendelet 21. § (2) bekezdése iktatta be.
+Külföldiek várólista regisztrálásának adatai:[^60]
+
+32[^61] Biztosítás, ennek hiányában állampolgárság országa
+
+33[^62] A külföldi beteg biztosítási azonosítási száma, ennek hiányában személyazonosítási okmány azonosítója
+
+34[^63] Ellátást engedélyező dokumentum típusa (ha rendelkezésre áll)
+
+[^58]: A 8. számú mellékletet a 92/2012. (IV. 27.) Korm. rendelet 21. § (2) bekezdése iktatta be.
+[^59]: A 8. számú melléklet 27a. sorát az 550/2013. (XII. 30.) Korm. rendelet 44. § (2) bekezdése iktatta be.
+[^60]: A 8. számú melléklet 32. sorát megelőző alcímet az 550/2013. (XII. 30.) Korm. rendelet 44. § (2) bekezdése iktatta be.
+[^61]: A 8. számú melléklet 32. sorát az 550/2013. (XII. 30.) Korm. rendelet 44. § (2) bekezdése iktatta be.
+[^62]: A 8. számú melléklet 33. sorát az 550/2013. (XII. 30.) Korm. rendelet 44. § (2) bekezdése iktatta be.
+[^63]: A 8. számú melléklet 34. sorát az 550/2013. (XII. 30.) Korm. rendelet 44. § (2) bekezdése iktatta be.

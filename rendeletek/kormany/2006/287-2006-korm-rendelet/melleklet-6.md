@@ -90,6 +90,8 @@
 
 | 011 | Hasfali, lágyék sérvműtét implantátum beültetésével | 55330 | Hernioplastica inguinofem. bilat. c. implant. |
 
+| 011 | Hasfali, lágyék sérvműtét implantátum beültetésével | 55391 | Műanyag háló beépítése hasfali sérv műtétjéhez |
+
 | 012 | Sérvműtétek (hasfali, lágyék-, köldök-, combsérv) implantátum beültetése nélkül | 55300 | Hernioplastica inguinofemoralis |
 
 | 012 | Sérvműtétek (hasfali, lágyék-, köldök-, combsérv) implantátum beültetése nélkül | 55311 | Hernioplastica inguinofemoralis laparoscopica |
@@ -412,6 +414,14 @@
 
 | 024 | Coronária intervenciók | 8645H | Intracoronáriás nyomásgrádiens meghatározással kiegészített coronarografia bypass ágon |
 
+| 024 | Coronária intervenciók | 12780 | Szívkatéterezés-transthoracalis behatolással |
+
+| 024 | Coronária intervenciók | 33030 | Szívüregek és coronáriák DSA-ja |
+
+| 024 | Coronária intervenciók | 53867 | Véna cava umbrella transjugularis |
+
+| 024 | Coronária intervenciók | 53964 | Plastica coarctationis aortae, percutan |
+
 | 025 | A szív elektrofiziológiai vizsgálata, nagy és radiofrekvenciás ablációk | 86451 | Nagyfrekvenciás intracardialis ablatio |
 
 | 025 | A szív elektrofiziológiai vizsgálata, nagy és radiofrekvenciás ablációk | 86453 | Radiofrekvenciás katéter abláció |
@@ -420,6 +430,6 @@
 
 | 025 | A szív elektrofiziológiai vizsgálata, nagy és radiofrekvenciás ablációk | 86455 | A szív elektrofiziológiai vizsgálata |
 
-6. számú melléklet a 287/2006. (XII. 23.) Korm. rendelethez[^56]
+6. számú melléklet a 287/2006. (XII. 23.) Korm. rendelethez[^57]
 
-[^56]: A 6. számú mellékletet a 8/2008. (I. 23.) Korm. rendelet 5. § (2) bekezdése iktatta be, szövege a 92/2012. (IV. 27.) Korm. rendelet 21. § (1) bekezdésével megállapított szöveg.
+[^57]: A 6. számú mellékletet a 8/2008. (I. 23.) Korm. rendelet 5. § (2) bekezdése iktatta be, szövege a 92/2012. (IV. 27.) Korm. rendelet 21. § (1) bekezdésével megállapított szöveg.
