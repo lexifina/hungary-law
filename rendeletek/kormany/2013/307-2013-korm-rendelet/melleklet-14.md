@@ -22,7 +22,9 @@
 
 ## 2. Az Áhsz2. 16. 2. NEMZETI VAGYONBA TARTOZÓ FORGÓESZKÖZÖK részében a „21-22. KÉSZLETEK” szöveg a „21-23. KÉSZLETEK” szöveggel lép hatályba:
 
-## 3.
+## 3. Az Áhsz2. 16. melléklet 3. PÉNZESZKÖZÖK, KÖVETELÉSEK, AKTÍV IDŐBELI ELHATÁROLÁSOK, 36. SAJÁTOS ELSZÁMOLÁSOK, 365. Adott előlegek része a következő 3655. számlával kiegészülve lép hatályba:
+
+## „3655. Egyéb adott előlegek”
 
 ## 4. Az Áhsz2. 16. melléklet 4. FORRÁSOK, 49. ÉVI MÉRLEGSZÁMLÁK része a következő 494. és 495. számlával kiegészülve lép hatályba:
 
@@ -44,7 +46,7 @@
 
 ## 0523. Munkaadókat terhelő járulékok és szociális hozzájárulási adó teljesítése”
 
-14. melléklet a 307/2013. (VIII. 14.) Korm. rendelethez[^27]
+14. melléklet a 307/2013. (VIII. 14.) Korm. rendelethez
 
 1. Az Áhsz2. 17. melléklet 3. pont a) alpontja a következő szöveggel lép hatályba:
 
@@ -116,6 +118,14 @@
 
 | a 0024. számlával szemben nyilvántartott 059232. számla egyenlege | = | mérlegben az „- ebből: költségvetési évet követően esedékes kötelezettségek külföldi értékpapírok beváltására” sor összege” |
 
-3.
+3. Az Áhsz2. 17. melléklet 4. pontja a következő szöveggel lép hatályba:
 
-[^27]: A 14. melléklet a 497/2013. (XII. 29.) Korm. rendelet 115. § 12. pontja szerint módosított szöveg.
+„4. A költségvetési számvitel pénzforgalmi szemlélete és a költségvetési vagy finanszírozási bevételként vagy kiadásként el nem számolható tételek 36-os számlacsoportban való kezeléséből adódóan
+
+a) a pénzeszközök nyitó pénzkészletének korrigálva a költségvetési bevételekkel és kiadásokkal, a 0981313. és 0981323. nyilvántartási számlák kivételével a teljesített finanszírozási bevételekkel és kiadásokkal (együtt a 003. és 005. nyilvántartási számlái egyenlege) és a 36-os számlacsoportban vezetett könyvviteli számlák – a 364. és a 3682. kivételével – egyenlegével egyeznie kell a pénzeszközök záró készletével
+
+| 31-33. számlák nyitó egyenlege - 003. egyenlege + 005. egyenlege - 0981313. és 0981323. egyenlege +/- 361-363, 365-367. és 3681. egyenlege | = | 31-33. záró egyenlege |
+
+b) az idegen pénzeszközök nyitó pénzkészletének korrigálva a 3682. egyenlegével egyeznie kell az idegen pénzeszközök záró készletével
+
+| 34. nyitó egyenlege +/- 3682. egyenlege | = | 34. záró egyenlege” |

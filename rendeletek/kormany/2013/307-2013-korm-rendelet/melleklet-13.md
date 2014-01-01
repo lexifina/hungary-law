@@ -70,7 +70,17 @@
 
 ## „e) az önkéntes tartalékos szolgálatot teljesítők, a katonai és rendvédelmi tanintézeteknél tisztképzésben és tiszthelyettes képzésben részesülők, a honvéd kollégiumok, gimnáziumok és szakközépiskolák növendékeinek, valamint a rendészeti szakközépiskolák hallgatói állományának juttatásait,”
 
-## 15.[^22]
+## 15. Az Áhsz2. 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ, K1-8. KÖLTSÉGVETÉSI KIADÁSOK, K3. DOLOGI KIADÁSOK, K31. Készletbeszerzés, K311. Szakmai anyagok beszerzése rész a következő szöveggel lép hatályba:
+
+## „Ezen a rovaton kell elszámolni
+
+## a) a gyógyszerek, gyógyszernek nem minősülő gyógyhatású készítmények, tápszerek, vér- és vérkészítmények, a gyógyászati diagnosztikai segédanyagok beszerzése után fizetett vételárat,
+
+## b) a gyógyszer alapanyagként használt vegyszerek, valamint a szakmai – termelési, oktatási, kutatási – felhasználású vegyszerek beszerzése után fizetett vételárat,
+
+## c) a tevékenységét segítő és a napi, rendszeres tájékoztatást szolgáló, papír alapú eszközök – így különösen könyvek, közlönyök, jogi információk, napilapok, folyóiratok – beszerzése, előfizetése után fizetett vételárat, és
+
+## d) az olyan informatikai eszközök, elektronikus könyvek, egyéb információhordozók beszerzése után fizetett vételárat, amelyek a tevékenységet legfeljebb egy évig szolgálják.”
 
 ## 16. Az Áhsz2. 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ, K1-8. KÖLTSÉGVETÉSI KIADÁSOK, K3. DOLOGI KIADÁSOK, K31. Készletbeszerzés, K312. Üzemeltetési anyagok beszerzése rész f) pontja a következő szöveggel lép hatályba:
 
@@ -92,7 +102,13 @@
 
 ## „Ezen a rovaton kell elszámolni az ingatlanok és az ingatlanhoz kapcsolódó vagyoni értékű jogok bekerülési értékébe beszámító kiadásokat.”
 
-## 21.[^23]
+## 21. Az Áhsz2. 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ, K1-8. KÖLTSÉGVETÉSI KIADÁSOK, K6. BERUHÁZÁSOK, K63. Informatikai eszközök beszerzése, létesítése rész a következő szöveggel lép hatályba:
+
+## „Ezen a rovaton kell elszámolni a befektetett eszköznek minősülő
+
+## a) informatikai eszközök, nem mechanikus működésű bolti kártyaleolvasó (POS) terminálok bekerülési értékébe beszámító kiadásokat, és
+
+## b) nem egyedi megrendelésre készült (már létező) szoftvertermékek vételárát.”
 
 ## 22. Az Áhsz2. 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ, B1-7. KÖLTSÉGVETÉSI BEVÉTELEK, B3. KÖZHATALMI BEVÉTELEK, B36. Egyéb közhatalmi bevételek rész l) és m) pontja a következő szöveggel lépnek hatályba:
 
@@ -102,7 +118,9 @@
 
 ## m) azokat a bevételeket, amelyek megfizetését közhatalmi tevékenység gyakorlása során kötelező jelleggel kell megfizetni, azonban nem számolhatók el a közhatalmi bevételek más rovatain, így különösen a pénzbüntetést és elkobzást, a késedelmi és önellenőrzési pótlékot.”
 
-## 23.[^24]
+## 23. Az Áhsz2. 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ, B1-7. KÖLTSÉGVETÉSI BEVÉTELEK, B4. MŰKÖDÉSI BEVÉTELEK, B401. Áru- és készletértékesítés ellenértéke rész a következő szöveggel lép hatályba:
+
+## „Ezen a rovaton kell elszámolni az áruk és az átsorolt, követelés fejében átvett készletek értékesítésekor kapott eladási árat.”
 
 ## 24. Az Áhsz2. 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ, B1-7. KÖLTSÉGVETÉSI BEVÉTELEK, B4. MŰKÖDÉSI BEVÉTELEK, B409. Egyéb pénzügyi műveletek bevételei rész a következő szöveggel lép hatályba:
 
@@ -130,7 +148,39 @@
 
 ## d) valuta és deviza eszközök realizált árfolyamnyeresége.”
 
-## 25.[^25]
+## 25. Az Áhsz2. 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ, B1-7. KÖLTSÉGVETÉSI BEVÉTELEK, B4. MŰKÖDÉSI BEVÉTELEK, B410. Egyéb működési bevételek rész a következő szöveggel lép hatályba:
+
+## „Ezen a rovaton kell elszámolni a más rovaton nem szerepeltethető működési jellegű bevételeket, így különösen
+
+## a) a Kincstárnál az általa vezetett fizetési számlák után felszámított díjakat, ide értve a rendelkezésre tartási díjat is,
+
+## b) a visszafizetési kötelezettség mellett működési célból nyújtott támogatások, kölcsönök, és a vállalt kezességek, garanciák díjait,
+
+## c) az Európai Unió költségvetéséből teljesített költség-visszatérítéseket, így különösen a Tanács üléseire kiutazó delegációk utazási költségeinek visszatérítését, a vámbeszedési költségek megtérítését, a cukorágazati hozzájárulás beszedési költségének megtérítését, valamint az uniós támogatások utólagos megtérítését,
+
+## d) a közbeszerzésről szóló törvény szerinti ajánlati biztosítékot, pályázati díjat,
+
+## e) a nyelvvizsga kötelezettségi biztosítékot,
+
+## f) az adók módjára behajtandó köztartozás végrehajtási költségének visszatérült összegét, önrevízió végzését,
+
+## g) a foglalkoztatottak, ellátottak, biztosítók által fizetett kártérítéseket,
+
+## h) a szerződésben vállalt kötelezettségek elmulasztásához kapcsolódó bevételeket – így különösen a kötbért, fekbért, késedelmi kamatot –, a káreseményekkel kapcsolatosan kapott bevételeket, biztosítási bevételeket, a visszakapott óvadékot (kauciót), bánatpénzt,
+
+## i) az eredeti követelést engedményezőnél (eladónál) az átruházott (engedményezett) követelésért kapott ellenértéket,
+
+## j) az 1 és 2 forintos érmék forgalomból történő kivonása miatti kerekítési különbözetet, ha a készpénzes kiadások teljesítésekor, bevételek beszedéskor nem határozható meg egyértelműen, hogy az mely rovathoz kapcsolódik, mivel a készpénzmozgás egynél több kiadási, illetve bevételi rovatot érintett, és
+
+## k) a személyi juttatások, a munkaadókat terhelő járulékok és szociális hozzájárulási adó és a dologi kiadásoknak a kiadás elszámolását követő években történő visszatérítéseit, a pénztártöbblet.
+
+## A rovaton elszámolt bevételeket a beszámolóban a következő bontásban kell szerepeltetni:
+
+## a) ebből: biztosító által fizetett kártérítés,
+
+## b) ebből: a szerződésben vállalt kötelezettségek elmulasztásához kapcsolódó bevételek, káreseményekkel kapcsolatosan kapott bevételek, biztosítási bevételek, visszakapott óvadék (kaució), bánatpénz,
+
+## c) ebből: költségek visszatérítései.”
 
 ## 26. Az Áhsz2. 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ, B1-7. KÖLTSÉGVETÉSI BEVÉTELEK, B6. MŰKÖDÉSI CÉLÚ ÁTVETT PÉNZESZKÖZÖK, B62. Működési célú visszatérítendő támogatások, kölcsönök visszatérülése államháztartáson kívülről rész első mondata a következő szöveggel lép hatályba:
 
@@ -156,10 +206,4 @@
 
 ## A rovaton elszámolt bevételeket a beszámolóban a II. fejezet 2. pontja szerinti bontásban kell szerepeltetni.”
 
-13. melléklet a 307/2013. (VIII. 14.) Korm. rendelethez[^26]
-
-[^22]: A 12. melléklet 15. pontját a 497/2013. (XII. 29.) Korm. rendelet 115. § 10. pontja hatályon kívül helyezte.
-[^23]: A 12. melléklet 21. pontját a 497/2013. (XII. 29.) Korm. rendelet 115. § 10. pontja hatályon kívül helyezte.
-[^24]: A 12. melléklet 23. pontját a 497/2013. (XII. 29.) Korm. rendelet 115. § 10. pontja hatályon kívül helyezte.
-[^25]: A 12. melléklet 25. pontját a 497/2013. (XII. 29.) Korm. rendelet 115. § 10. pontja hatályon kívül helyezte.
-[^26]: A 13. melléklet a 497/2013. (XII. 29.) Korm. rendelet 115. § 11. pontja szerint módosított szöveg.
+13. melléklet a 307/2013. (VIII. 14.) Korm. rendelethez

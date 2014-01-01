@@ -19,5 +19,5 @@ szerinti módosításokkal lép hatályba.
 (2)[^12]
 
 [^10]: A 38. §-t a 497/2013. (XII. 29.) Korm. rendelet 115. § 4. pontja hatályon kívül helyezte.
-[^11]: A 39. § a)–b) pontját a 497/2013. (XII. 29.) Korm. rendelet 115. § 5. pontja hatályon kívül helyezte.
+[^11]: A 39. § (1) bekezdés a)–b) pontját a 497/2013. (XII. 29.) Korm. rendelet 115. § 5. pontja hatályon kívül helyezte.
 [^12]: A 39. § (2) bekezdését a 497/2013. (XII. 29.) Korm. rendelet 115. § 6. pontja hatályon kívül helyezte.
