@@ -14,7 +14,7 @@ c) a vízikönyvből
 
 (4)[^2] Az egységes kezelési rendszerű, országos vízgazdálkodási információs rendszer részeként (a továbbiakban: VIZIR) a (2) bekezdés b) pontja szerinti műszaki nyilvántartást a Nemzeti Környezetügyi Intézet területi kirendeltségeinek (a továbbiakban: NeKI kirendeltség) és a vízügyi igazgatóságoknak (a továbbiakban: vízügyi igazgatóság) – a vízügyi hatóság részéről közreműködőként átadott adatok felhasználásával is – működési területük egészére vonatkozóan folyamatosan kell vezetniük.
 
-(5)[^3] A VIZIR részeként a (2) bekezdés c) pontja szerinti vízikönyvi nyilvántartást a környezetvédelmi, természetvédelmi és vízügyi felügyelőségeknek (a továbbiakban: vízügyi hatóság) illetékességi területük egészére vonatkozóan, folyamatosan kell vezetniük.
+(5)[^3] A VIZIR részeként a (2) bekezdés c) pontja szerinti vízikönyvi nyilvántartást vízügyi hatóságoknak (a továbbiakban: vízügyi hatóság) illetékességi területük egészére vonatkozóan, folyamatosan kell vezetniük.
 
 [^2]: A 2. § (4) bekezdése a 147/2011. (XII. 23.) VM rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^3]: A 2. § (5) bekezdését a 147/2011. XII. 23.) VM rendelet 7. § (2) bekezdése iktatta be.
+[^3]: A 2. § (5) bekezdését a 147/2011. XII. 23.) VM rendelet 7. § (2) bekezdése iktatta be, szövege a 132/2013. (XII. 23.) VM rendelet 8. §-a szerint módosított szöveg.
