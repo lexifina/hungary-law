@@ -1,0 +1,9 @@
+# 197/2013. (VI. 13.) Korm. rendelet
+
+az önkormányzati segély kialakításával összefüggő rendeletmódosításokról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-197-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2014-01-01 | 2013-197-20-22.1 | 197/2013. (VI. 13.) Korm. rendelet |
