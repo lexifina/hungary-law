@@ -1,3 +1,3 @@
-## 2/B. §[^22] A Kormány egészségügyi államigazgatási szervként a Hivatalt jelöli ki a biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény 18/A. § (4) bekezdése szerinti feladatok ellátására.
+## 2/B. §[^23] A Kormány egészségügyi államigazgatási szervként a Hivatalt jelöli ki a biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény 18/A. § (4) bekezdés b) pontja szerinti feladatok ellátására.
 
-[^22]: A 2/B. §-t a 362/2006. (XII. 28.) Korm. rendelet 23. §-a iktatta be, szövege a 338/2008. (XII. 30.) Korm. rendelet 5. § (5) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 5. § (1) bekezdése alapján a rendelkezést a 2009. január 1. napját követően indult eljárásokban kell alkalmazni.
+[^23]: A 2/B. §-t a 362/2006. (XII. 28.) Korm. rendelet 23. §-a iktatta be, szövege a 338/2008. (XII. 30.) Korm. rendelet 5. § (5) bekezdése, az 520/2013. (XII. 30.) Korm. rendelet 39. § b) pontja szerint módosított szöveg.

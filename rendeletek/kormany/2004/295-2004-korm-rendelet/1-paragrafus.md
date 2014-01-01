@@ -28,11 +28,14 @@ h) azon eljárásokban, amelyek során a Hivatal másodfokon hoz első fokú vé
 
 i) az orvostechnikai eszközök eseti használatbavételével kapcsolatos döntések esetében,
 
-j)[^3] az orvostechnikai eszközök megfelelőség értékelésére való kijelöléssel kapcsolatban hozott döntések esetében.
+j)[^3] az orvostechnikai eszközök megfelelőség értékelésére való kijelöléssel kapcsolatban hozott döntések esetében,
 
-(4)[^4] A Hivatal látja el az orvostechnikai eszközök megfelelőségértékelésére jogosult szervek kijelölésével kapcsolatos kijelölő hatósági feladatokat.
+k)[^4] az implantátum beültetése, kivétele és cseréje során előírt nyilvántartással és a Központi Implantátumregiszterbe történő adattovábbítással kapcsolatos eljárásokban hozott döntések esetében.
+
+(4)[^5] A Hivatal látja el az orvostechnikai eszközök megfelelőségértékelésére jogosult szervek kijelölésével kapcsolatos kijelölő hatósági feladatokat.
 
 [^1]: Az 1. § (1) bekezdése a 337/2009. (XII. 29.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § (3) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 382. § (1) bekezdése iktatta be, szövege a 282/2011. (XII. 21.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
 [^3]: Az 1. § (3) bekezdés j) pontját a 137/2012. (VI. 29.) Korm. rendelet 33. §-a iktatta be.
-[^4]: Az 1. § (4) bekezdését a 282/2011. (XII. 21.) Korm. rendelet 11. § (2) bekezdése iktatta be.
+[^4]: Az 1. § (3) bekezdés k) pontját az 520/2013. (XII. 30.) Korm. rendelet 36. §-a iktatta be.
+[^5]: Az 1. § (4) bekezdését a 282/2011. (XII. 21.) Korm. rendelet 11. § (2) bekezdése iktatta be.
