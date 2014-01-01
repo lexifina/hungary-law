@@ -38,6 +38,6 @@
 
 ## Az eljáró szerv képviselője
 
-12. melléklet a 20/2009. (VI. 19.) IRM rendelethez[^49]
+12. melléklet a 20/2009. (VI. 19.) IRM rendelethez[^51]
 
-[^49]: A 12. mellékletet a 9/2013. (VI. 29.) KIM rendelet 75. § (5) bekezdése iktatta be.
+[^51]: A 12. mellékletet a 9/2013. (VI. 29.) KIM rendelet 75. § (5) bekezdése iktatta be.

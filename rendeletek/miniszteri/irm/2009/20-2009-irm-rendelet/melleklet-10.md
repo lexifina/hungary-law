@@ -1,4 +1,4 @@
-10. melléklet a 20/2009. (VI. 19.) IRM rendelethez[^47]
+10. melléklet a 20/2009. (VI. 19.) IRM rendelethez[^49]
 
 10. számú adatlap
 
@@ -70,4 +70,4 @@ AZ ÉRINTETT SZEMÉLY ÉRVÉNYES ÚTI OKMÁNNYAL RENDELKEZIK
 
 | ........................................................ Az eljáró szerv képviselője |
 
-[^47]: A 10. mellékletet a 9/2013. (VI. 29.) KIM rendelet 75. § (5) bekezdése iktatta be.
+[^49]: A 10. mellékletet a 9/2013. (VI. 29.) KIM rendelet 75. § (5) bekezdése iktatta be.

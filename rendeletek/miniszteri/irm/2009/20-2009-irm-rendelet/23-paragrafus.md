@@ -12,7 +12,7 @@ b) a Bnytv. 11. § (2) bekezdés a)–e) pontjában
 
 ## meghatározott adatokat.
 
-(2)[^30] A büntetés-végrehajtási intézet az (1) bekezdésben meghatározott adatokat közli a bűnügyi nyilvántartó szervvel közérdekű munka és pénzbüntetés helyébe lépő szabadságvesztés esetén is.
+(2)[^31] A büntetés-végrehajtási intézet az (1) bekezdésben meghatározott adatokat közli a bűnügyi nyilvántartó szervvel közérdekű munka és pénzbüntetés helyébe lépő szabadságvesztés esetén is.
 
 (3) A büntetés-végrehajtási intézet a bűncselekmény miatt jogerősen végrehajtandó szabadságvesztésre ítélt személy befogadását követően az e rendelet szabályai szerint rögzített arcképmást és az arcképmás egyedi azonosítót megküldi a bűnügyi nyilvántartó részére.
 
@@ -26,4 +26,4 @@ b) a terhelt befogadásának napjától,
 
 c) ha az nem azonos a b) pontban meghatározott időponttal, az arcképmás rögzítésének napjától
 
-[^30]: A 23. § (2) bekezdése a 11/2010. (III. 31.) IRM rendelet 41. §-ával megállapított szöveg.
+[^31]: A 23. § (2) bekezdése a 11/2010. (III. 31.) IRM rendelet 41. §-ával megállapított szöveg.

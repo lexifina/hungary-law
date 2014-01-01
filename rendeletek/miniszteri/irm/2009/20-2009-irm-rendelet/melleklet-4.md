@@ -1,18 +1,18 @@
-4. melléklet a 20/2009. (VI. 19.) IRM rendelethez[^41]
+4. melléklet a 20/2009. (VI. 19.) IRM rendelethez[^43]
 
 4. számú adatlap
 
 ADATKÖZLÉS JOGERŐS BÍRÓI DÖNTÉSEKRŐL
 
-⬜ PÓTLAP IGÉNYBEVÉTELE
+□ PÓTLAP IGÉNYBEVÉTELE
 
-Alkalmazott Btk.: ⬜ 1978. évi IV. törvény ⬜ 2012. évi C. törvény
+Alkalmazott Btk.: □ 1978. évi IV. törvény □ 2012. évi C. törvény
 
-A TERHELT ÉRVÉNYES ÚTI OKMÁNNYAL RENDELKEZIK ⬜ IGEN ⬜ NEM (kitöltése kötelező)
+A TERHELT ÉRVÉNYES ÚTI OKMÁNNYAL RENDELKEZIK □ IGEN □ NEM (kitöltése kötelező)
 
 | 1. Terhelt személyazonosító adatai: |
 
-| 1.1. Személyi azonosító: ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ |
+| 1.1. Személyi azonosító: □ □ □ □ □ □ □ □ □ □ □ |
 
 | 1.2. Családi és utónév: ........................................................................................................................................................... |
 
@@ -20,13 +20,13 @@ A TERHELT ÉRVÉNYES ÚTI OKMÁNNYAL RENDELKEZIK ⬜ IGEN ⬜ NEM (kitöltése k
 
 | 1.4. Előző születési családi és utónév: ................................................................................................................................................. |
 
-| 1.5. Születési hely: ............................................................................................................ idő: ⬜ ⬜ ⬜ ⬜ év ⬜ ⬜ hó ⬜ ⬜ nap. |
+| 1.5. Születési hely: ............................................................................................................ idő: □ □ □ □ év □ □ hó □ □ nap. |
 
 | 1.6. Anyja születési családi és utóneve: ................................................................................................................................. |
 
 | 1.7. Anyja előző születési családi és utóneve: ……………………………………………………………………………………. |
 
-| 1.8. Neme: ⬜ férfi ⬜ nő | 1.9. Állampolgárság: .......................................... Előző állampolgárság: ........................ |
+| 1.8. Neme: □ férfi □ nő | 1.9. Állampolgárság: .......................................... Előző állampolgárság: ........................ |
 
 | 1.10. Lakóhely: ........................................................................................................................................................................ |
 
@@ -34,29 +34,29 @@ A TERHELT ÉRVÉNYES ÚTI OKMÁNNYAL RENDELKEZIK ⬜ IGEN ⬜ NEM (kitöltése k
 
 | 2. A határozat és az eljáró szerv adatai: |
 
-| 2.1. Az eljárás eredménye: | ⬜ elítélés | ⬜ felmentés | ⬜ megszüntetés |
+| 2.1. Az eljárás eredménye: | □ elítélés | □ felmentés | □ megszüntetés |
 
-| 2.2. Ha rendkívüli jogorvoslatra került sor: ⬜ perújítás ⬜ felülvizsgálat ⬜ jogorvoslat a törvényesség érdekében |
+| 2.1.1.A megszüntetésére a Bnytv. 25. § c) pontjában meghatározott okok miatt került sor □ Igen □ Nem 2.2. Ha rendkívüli jogorvoslatra került sor: □ perújítás □ felülvizsgálat □ jogorvoslat a törvényesség érdekében |
 
-| 2.3. Jogerőre emelkedésének napja: ⬜ ⬜ ⬜ ⬜ év ⬜ ⬜ hó ⬜ ⬜ nap. |
+| 2.3. Jogerőre emelkedésének napja: □ □ □ □ év □ □ hó □ □ nap. |
 
-| 2.4. Első fokon (ha rendkívüli jogorvoslatra került sor, akkor annak keretében első fokon) eljárt bíróság megnevezése: ........................................................................................................................................................................................ határozatának száma:......................................................................... kelte: ⬜ ⬜ ⬜ ⬜ év ⬜ ⬜ hó ⬜ ⬜ nap. |
+| 2.4. Első fokon (ha rendkívüli jogorvoslatra került sor, akkor annak keretében első fokon) eljárt bíróság megnevezése: .......................................................... határozatának száma:................................................... kelte: □ □ □ □ év □ □ hó □ □ nap. |
 
-| 2.5. Másodfokon (ha rendkívüli jogorvoslatra került sor, akkor annak keretében másodfokon) eljárt bíróság megnevezése: ................................................................................................................................................................... határozatának száma: ......................................................................... kelte: ⬜ ⬜ ⬜ ⬜ év ⬜ ⬜ hó ⬜ ⬜ nap. |
+| 2.5. Másodfokon (ha rendkívüli jogorvoslatra került sor, akkor annak keretében másodfokon) eljárt bíróság megnevezése: .......................................................... határozatának száma:................................................... kelte: □ □ □ □ év □ □ hó □ □ nap. |
 
-| 2.6. Harmadfokon (ha rendkívüli jogorvoslatra került sor, akkor annak keretében harmadfokon) eljárt bíróság megnevezése: ................................................................................................................................................................................. határozatának száma: ......................................................................... kelte: ⬜ ⬜ ⬜ ⬜ év ⬜ ⬜ hó ⬜ ⬜ nap. |
+| 2.6. Harmadfokon (ha rendkívüli jogorvoslatra került sor, akkor annak keretében harmadfokon) eljárt bíróság megnevezése: .......................................................... határozatának száma:................................................... kelte: □ □ □ □ év □ □ hó □ □ nap.. |
 
-| 2.7. Vádiratot benyújtó ügyészség kódja és megnevezése: ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ....................................................................................................................................................................................... vádirat száma: ........................................................................ kelte: ⬜ ⬜ ⬜ ⬜ év ⬜ ⬜ hó ⬜ ⬜ nap. |
+| 2.7. Vádiratot benyújtó ügyészség kódja és megnevezése: □ □ □ □ □ □ □ ...................................................................................... vádirat száma: ........................................................................ kelte: □ □ □ □ év □ □ hó □ □ nap. |
 
-| annak az eljárásnak az ügyiratszáma, amelyben a megalapozott gyanút a terhelttel közölték: ........................................................................ a közlés időpontja: ⬜ ⬜ ⬜ ⬜ év ⬜ ⬜ hó ⬜ ⬜ nap. |
+| annak az eljárásnak az ügyiratszáma, amelyben a megalapozott gyanút a terhelttel közölték: ........................................................................ a közlés időpontja: □ □ □ □ év □ □ hó □ □ nap. |
 
-| 2.8. Rendkívüli perorvoslat vagy jogorvoslat esetén az alapügyben jogerős határozatot hozó bíróság megnevezése: ...................................................................................................................................................................................... határozatának száma: .......................................................... jogerőre emelkedésének napja: ⬜ ⬜ ⬜ ⬜ év ⬜ ⬜ hó ⬜ ⬜ nap. |
+| 2.8. Rendkívüli perorvoslat vagy jogorvoslat esetén az alapügyben jogerős határozatot hozó bíróság megnevezése: ...................................................................................................................................................................................... határozatának száma: .......................................................... jogerőre emelkedésének napja: □ □ □ □ év □ □ hó □ □ nap. |
 
-| 2.9. A javítóintézeti nevelés hátralévő részének szabadságvesztésre történő átváltoztatása esetén a végrehajtandó szabadságvesztést kiszabó bíróság megnevezése: ......................................................................................................................................................................................... határozatának száma: ......................................................................... kelte: ⬜ ⬜ ⬜ ⬜ év ⬜ ⬜ hó ⬜ ⬜ nap. 2.10. ⬜ A terhelt fiatalkorú ⬜ igen ⬜ nem (kitöltése kötelező) |
+| 2.9. A javítóintézeti nevelés hátralévő részének szabadságvesztésre történő átváltoztatása esetén a végrehajtandó szabadságvesztést kiszabó bíróság megnevezése: ........................................................................................................................................................... határozatának száma: ......................................................................... kelte: □ □ □ □ év □ □ hó □ □ nap. 2.10. □ A terhelt fiatalkorú □ igen □ nem (kitöltése kötelező) |
 
-| 2.11. A terhelt ⬜ nem visszaeső ⬜ visszaeső ⬜ különös visszaeső ⬜ többszörös visszaeső ⬜ erőszakos többszörös visszaeső |
+| 2. 2.11. A terhelt □ nem visszaeső □ visszaeső □ különös visszaeső □ többszörös visszaeső □ erőszakos többszörös visszaeső |
 
-| 2.12. Az érintett előzetes mentesítésben részesült: ⬜ igen ⬜ nem (kitöltése kötelező) |
+| 2.12. Az érintett előzetes mentesítésben részesült: □ igen □ nem (kitöltése kötelező) |
 
 | 3. Bűncselekményi adatok: |
 
@@ -64,7 +64,7 @@ A TERHELT ÉRVÉNYES ÚTI OKMÁNNYAL RENDELKEZIK ⬜ IGEN ⬜ NEM (kitöltése k
 
 | 4. Szankció adatai: |
 
-| 4.1. A büntetés kiszabását a bíróság mellőzte: ⬜ igen |
+| 4.1. A büntetés kiszabását a bíróság mellőzte: □ igen |
 
 | 4.2. BÜNTETÉS VAGY INTÉZKEDÉS |
 
@@ -82,17 +82,17 @@ A TERHELT ÉRVÉNYES ÚTI OKMÁNNYAL RENDELKEZIK ⬜ IGEN ⬜ NEM (kitöltése k
 
 |  | Neme | Mértéke |  |
 
-| 4.6. Önállóan alkalmazott, határozott idejű kiutasítás leteltének napja: ⬜ ⬜ ⬜ ⬜ év ⬜ ⬜ hó ⬜ ⬜ nap. |
+| 4.6. Önállóan alkalmazott, határozott idejű kiutasítás leteltének napja: □ □ □ □ év □ □ hó □ □ nap. |
 
-| 4.7. A szabadságvesztés végrehajtásába beszámított idő (kitöltése kötelező): ⬜ ⬜ ⬜ ⬜ év ⬜ ⬜ hó ⬜ ⬜ nap. |
+| 4.7. A szabadságvesztés végrehajtásába beszámított idő (kitöltése kötelező): □ □ □ □ év □ □ hó □ □ nap. |
 
-| 4.8. Felfüggesztett szabadságvesztés végrehajtásának elrendelése esetén a felfüggesztett büntetést jogerősen kiszabó bíróság megnevezése: ....................................................................................................................................................... határozatának száma: ......................................................... jogerőre emelkedésének napja: ⬜ ⬜ ⬜ ⬜ év ⬜ ⬜ hó ⬜ ⬜ nap. |
+| 4.8. Felfüggesztett szabadságvesztés végrehajtásának elrendelése esetén a felfüggesztett büntetést jogerősen kiszabó bíróság megnevezése: ....................................................................................................................................................... határozatának száma: ......................................................... jogerőre emelkedésének napja: □ □ □ □ év □ □ hó □ □ nap. |
 
-| 4.9. Próbára bocsátás megszüntetése esetén a próbára bocsátást jogerősen alkalmazó bíróság megnevezése: ......................................................................................................................................................................................... határozatának száma: .......................................................... jogerőre emelkedésének napja: ⬜ ⬜ ⬜ ⬜ év ⬜ ⬜ hó ⬜ ⬜ nap. |
+| 4.9. Próbára bocsátás megszüntetése esetén a próbára bocsátást jogerősen alkalmazó bíróság megnevezése: ......................................................................................................................................................................................... határozatának száma: .......................................................... jogerőre emelkedésének napja: □ □ □ □ év □ □ hó □ □ nap. |
 
-| 4.10. Próbára bocsátás meghosszabbítása esetén a próbára bocsátást jogerősen alkalmazó bíróság megnevezése: ................................................................................................................................................................................... határozatának száma: ........................................................... jogerőre emelkedésének napja: ⬜ ⬜ ⬜ ⬜ év ⬜ ⬜ hó ⬜ ⬜ nap. 4.11. Végrehajtandó szabadságvesztés kiszabása esetén a korábban kiszabott felfüggesztett szabadságvesztés próbaidejének meghosszabbodását jogerősen kimondó bíróság megnevezése:……………………………………………………………………………………………………………… határozatának száma: …………………………………….. jogerőre emelkedésének napja: ⬜ ⬜ ⬜ ⬜ év ⬜ ⬜ hó ⬜ ⬜ nap. 4.12. Jóvátételi munka helyébe lépő büntetés kiszabása esetén a jóvátételi munkát jogerősen alkalmazó bíróság megnevezése: ......................................................................................................................................................................................... határozatának száma: .......................................................... jogerőre emelkedésének napja: ⬜ ⬜ ⬜ ⬜ év ⬜ ⬜ hó ⬜ ⬜ nap. |
+| 4.10. Próbára bocsátás meghosszabbítása esetén a próbára bocsátást jogerősen alkalmazó bíróság megnevezése: ................................................................................................................................................................................... határozatának száma: ........................................................... jogerőre emelkedésének napja: □ □ □ □ év □ □ hó □ □ nap. 4.10.1 A meghosszabbított próbaidő leteltének napja: □ □ □ □ év □ □ hó □ □ nap. 4.11. Végrehajtandó szabadságvesztés kiszabása miatt próbaidő meghosszabbodása esetén, a korábbi felfüggesztett szabadságvesztést kiszabó bíróság megnevezése: …………………………………………………… határozatának száma: …………………………………….. jogerőre emelkedésének napja: □ □ □ □ év □ □ hó □ □ nap. A meghosszabbodott próbaidő leteltének napja: □ □ □ □ év □ □ hó □ □ nap 4.12. Jóvátételi munka helyébe lépő büntetés kiszabása esetén a jóvátételi munkát jogerősen alkalmazó bíróság megnevezése: ......................................................................................................................................................................................... határozatának száma: .......................................................... jogerőre emelkedésének napja: □ □ □ □ év □ □ hó □ □ nap. |
 
-| 4.13. Az ítélettel kapcsolatos egyéb eljárási cselekmény: |
+| 4.13. Feltételes szabadság megszüntetése esetén a korábbi szabadságvesztést kiszabó bíróság megnevezése: ....................................................................................................................................................... határozatának száma: ......................................................... jogerőre emelkedésének napja: □ □ □ □ év □ □ hó □ □ nap. 4.14. Az ítélettel kapcsolatos egyéb eljárási cselekmény: |
 
 | Kelt: ................................, ........... év .......... hó ........ nap. |
 
@@ -102,28 +102,26 @@ A TERHELT ÉRVÉNYES ÚTI OKMÁNNYAL RENDELKEZIK ⬜ IGEN ⬜ NEM (kitöltése k
 
 | Bűnügyi nyilvántartó szerv bejegyzései: |
 
-|  | ⬜ Hatályon kívül helyezve: ................................................... | ⬜ Végrehajtását elrendelte: .................................................. |
+|  | □ Hatályon kívül helyezve: ................................................... | □ Végrehajtását elrendelte: .................................................. |
 
 |  | ....................................................................................... | ............................................................................................ |
 
-|  |  | Egyéb: ............................................................................. |
-
-|  | ⬜ Büntetés átváltoztatása: | .......................................................................................... |
-
-|  | ............................................................................................ | ........................................................................................... |
+|  | □ Büntetés átváltoztatása: | Egyéb: ............................................................................. |
 
 |  | ............................................................................................ | ........................................................................................... |
 
 |  | Büntetését letöltötte: |  |
 
-|  | Közügyek gyakorlásától eltiltás lejár: |
+|  | Közügyek gyakorlásától eltiltás lejár: |  |
 
 |  | Mentesítés várható időpontja: |  |
 
-|  | Büntetés nyilvántartási ideje: |  |
+|  | Büntetés nyilvántartási ideje: |
 
 |  | Közügyektől eltiltás nyilvántartási ideje: |  |
 
-|  | Intézkedés nyilvántartási ideje: Nyilvántartási ideje a Bnytv. 25. § c) pontja esetén: |  |
+|  | Intézkedés nyilvántartási ideje: |  |
 
-[^41]: A 4. melléklet a 9/2013. (VI. 29.) KIM rendelet 75. § (4) bekezdésével megállapított szöveg.
+| Nyilvántartási ideje a Bnytv. 25. § c) pontja esetén: |  |
+
+[^43]: A 4. melléklet a 35/2013. (XII. 23.) KIM rendelet 14. § (3) bekezdésével megállapított szöveg.

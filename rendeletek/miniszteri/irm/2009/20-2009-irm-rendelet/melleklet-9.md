@@ -1,4 +1,4 @@
-9. melléklet a 20/2009. (VI. 19.) IRM rendelethez[^46]
+9. melléklet a 20/2009. (VI. 19.) IRM rendelethez[^48]
 
 9. számú adatlap
 
@@ -132,4 +132,4 @@ A TERHELT ÉRVÉNYES ÚTI OKMÁNNYAL RENDELKEZIK ⬜ IGEN ⬜ NEM (kitöltése k
 
 | ........................................................ Az eljáró szerv képviselője |
 
-[^46]: A 9. mellékletet a 9/2013. (VI. 29.) KIM rendelet 75. § (5) bekezdése iktatta be.
+[^48]: A 9. mellékletet a 9/2013. (VI. 29.) KIM rendelet 75. § (5) bekezdése iktatta be.

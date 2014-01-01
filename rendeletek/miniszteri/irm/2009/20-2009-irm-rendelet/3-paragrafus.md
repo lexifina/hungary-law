@@ -12,7 +12,7 @@ a) a Bnytv. 23. § c), d), h) és j) pontjában meghatározott adatokat, ehhez m
 
 b)[^5] a nyomozás felfüggesztése vagy a felfüggesztett nyomozás folytatásának elrendelése esetén a Bnytv. 23. § c), d), g), h) és j) pontjában meghatározott adatokat,
 
-c)[^6] a nyomozás megszüntetése esetén a Bnytv. 23. § c), d), h) és j) pontjában meghatározott adatokat, valamint az erről szóló határozat számát és keltét.
+c)[^6] a nyomozás megszüntetése esetén a Bnytv. 23. § c), d), h) és j) pontjában meghatározott adatokat, valamint az erről szóló határozat számát és keltét, továbbá ha a nyomozást a Bnytv. 25. § c) pontjában meghatározott ok miatt szüntették meg, az arra vonatkozó adatot.
 
 (2) Ha a megalapozott gyanú közlésekor ujj- és tenyérnyomat vagy szájnyálkahártya-törlet felvételére is sor kerül, az 1. számú adatlapon a felvett ujj- és tenyérnyomathoz kapcsolódó belső azonosító kódot, valamint a felvett szájnyálkahártya-törlethez kapcsolódó belső azonosító kódot is fel kell tüntetni.
 
@@ -27,4 +27,4 @@ c) a felfüggesztett nyomozás folytatásának elrendelése esetén a határozat
 d) ha az nem esik egybe az a) pontban meghatározott időponttal, az arcképmás rögzítésének
 
 [^5]: A 3. § (1) bekezdés b) pontja a 60/2012. (XII. 28.) KIM rendelet 9. § c) pontja szerint módosított szöveg.
-[^6]: A 3. § (1) bekezdés c) pontja a 60/2012. (XII. 28.) KIM rendelet 9. § d) pontja szerint módosított szöveg.
+[^6]: A 3. § (1) bekezdés c) pontja a 35/2013. (XII. 23.) KIM rendelet 13. § (1) bekezdésével megállapított szöveg.
