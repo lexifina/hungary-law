@@ -1,4 +1,4 @@
-65. § (1) A közműves ivóvízellátás, valamint a közműves szennyvízelvezetés és -tisztítás díját (a továbbiakban együtt: hatósági díj) a Hivatal javaslatának figyelembevételével a víziközmű-szolgáltatásért felelős miniszter (a továbbiakban: miniszter) rendeletben állapítja meg. A hatósági díj megállapításakor rendelkezni kell arról, hogy a hatósági díj mikor lép hatályba, e rendelkezésnek visszamenőleges hatálya nem lehet.
+65. § (1) A közműves ivóvízellátás, valamint a közműves szennyvízelvezetés és -tisztítás díját (a továbbiakban együtt: hatósági díj) a Hivatal javaslatának figyelembevételével a miniszter rendeletben állapítja meg. A hatósági díj megállapításakor rendelkezni kell arról, hogy a hatósági díj mikor lép hatályba, e rendelkezésnek visszamenőleges hatálya nem lehet.
 
 (2) A Hivatal a díjmegállapítással, díjváltozással kapcsolatos javaslatát a miniszter részére minden év október 15-ig küldi meg.
 

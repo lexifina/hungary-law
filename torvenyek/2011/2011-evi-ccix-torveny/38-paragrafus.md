@@ -4,7 +4,7 @@
 
 a) a jogkövetkezményekre való utalás mellett írásban felszólítja a víziközmű-szolgáltatót a kötelezettségei betartására,
 
-b) kormányrendeletben meghatározott mértékű bírságot szabhat ki a jogsértés tárgyi súlyára tekintettel,
+b) bírságot szabhat ki a jogsértés tárgyi súlyára tekintettel,
 
 c) az engedélyt módosíthatja vagy visszavonhatja, ha a víziközmű-szolgáltató az a) pont szerinti felszólítás és a b) pont szerinti bírság kiszabása ellenére nem szünteti meg a jogsértést vagy nem teljesíti kötelezettségét,
 
@@ -24,6 +24,6 @@ ee) az engedélyt megtévesztéssel, valótlan adatok szolgáltatásával vagy m
 
 (2) A Hivatal az (1) bekezdés c)–e) pontjában foglalt jogkövetkezménnyel egyidejűleg az (1) bekezdés b) pontja szerinti jogkövetkezményt is alkalmazhatja.
 
-(3) A Hivatal az ellátásért felelőssel szemben az e törvényben vagy a felhatalmazása alapján kiadott külön jogszabályban foglalt kötelezettségeinek megszegése esetében az (1) bekezdés a)–b) pontjában foglalt jogkövetkezményeket alkalmazhatja.
+(3) A Hivatal az ellátásért felelőssel szemben jogszabályban vagy a Hivatal által kiadott határozatban meghatározott kötelezettségeinek megszegése esetében az (1) bekezdés a)–b) pontjában foglalt jogkövetkezményeket alkalmazhatja.
 
 (4) A folyamatos és biztonságos ellátás érdekében az üzemeltetési szerződés megszűnéséig, valamint a felszámolás vagy a végelszámolás befejezéséig a víziközmű-szolgáltatást és az annak teljesítéséhez szükséges tevékenységeket folyamatosan fenn kell tartani.

@@ -1,4 +1,4 @@
-58. § (1) A víziközmű-szolgáltató – a létfenntartási, a közegészségügyi és a katasztrófa-elhárítási vízigények teljesítése mellett – a fővárosi és a megyei kormányhivatal népegészségügyi szakigazgatási szervének (a továbbiakban együtt: megyei népegészségügyi szakigazgatási szerv) ellentétes állásfoglalása hiányában:
+58. § (1) A víziközmű-szolgáltató – a létfenntartási, a közegészségügyi és a katasztrófa-elhárítási vízigények teljesítése mellett – a fővárosi és a megyei kormányhivatal járási (fővárosi kerületi) hivatala járási (fővárosi kerületi) népegészségügyi intézetének (a továbbiakban: járási népegészségügyi intézet) hozzájárulásával:
 
 a) a közüzemi ivóvíz-szolgáltatást külön berendezés beépítésével időben és mennyiségben korlátozhatja,
 
@@ -20,17 +20,17 @@ a) a lakossági felhasználó fizetési kötelezettségével 60 napot meghaladó
 
 b) a lakossági felhasználó által fizetési haladék adásáról vagy részletfizetési lehetőségről kezdeményezett egyeztetés esetében az egyeztetés a víziközmű-szolgáltatóval nem vezetett eredményre, vagy az (1) bekezdés d) pontjának alkalmazásában egyeztek meg,
 
-c) a víziközmű-szolgáltató a felhasználót az (1) bekezdésben meghatározott következmények kilátásba helyezésével fizetési kötelezettsége teljesítésére a (4) bekezdésben foglaltak szerint legalább kétszer írásban felszólította, valamint
+c) a víziközmű-szolgáltató a felhasználót az (1) bekezdésben meghatározott következmények kilátásba helyezésével fizetési kötelezettsége teljesítésére a (4) bekezdésben foglaltak szerint legalább kétszer írásban felszólította, és az első felszólításban a szociálisan rászoruló felhasználó figyelmét felhívta az e törvény és a végrehajtására kiadott kormányrendelet alapján őt megillető kedvezményekre, valamint
 
-d) a felhasználási hely fekvése szerint illetékes megyei népegészségügyi szakigazgatási szervet a (4) bekezdésben foglaltak szerint értesítette.
+d) a felhasználási hely fekvése szerint illetékes járási népegészségügyi intézetet a (4) bekezdésben foglaltak szerint értesítette.
 
-(4) A lakossági felhasználó felszólítása az átvétel igazolására alkalmas módon történik. A megyei népegészségügyi szakigazgatási szervet első alkalommal a felszólítással egyidejűleg, második alkalommal 8 nappal az intézkedés bevezetését megelőzően kell értesíteni.
+(4) A lakossági felhasználó (3) bekezdés c) pontja szerinti első felszólítása postai vagy a lakossági felhasználó általi átvétel igazolására alkalmas egyéb – a felhasználó előzetes hozzájárulása esetén elektronikus – módon, a felfüggesztés vagy a korlátozás lehetőségére vonatkozó második felszólítása tértivevényes levélben történik. A járási népegészségügyi intézetet a második felszólítással egyidejűleg, legalább 8 nappal az intézkedés bevezetését megelőzően kell értesíteni.
 
 (5) A létfenntartási és közegészségügyi vízigények teljesítéséhez szükséges ivóvízellátást a víziközmű-szolgáltató a kormányrendeletben meghatározottak szerint biztosítja.
 
 (6) A létfenntartási és közegészségügyi vízigényeknek eleget tevő ivóvízellátás érdekében a víziközmű-szolgáltató – az ellátásért felelős előzetes értesítése és a települési önkormányzat hozzájárulása esetében – a víziközmű tulajdonosának költségére közkifolyót helyezhet el. A közkifolyó üzemeltetésének költségeit a települési önkormányzat fizeti meg a víziközmű-szolgáltató részére.
 
-(7) A települési önkormányzat a (6) bekezdés szerinti hozzájárulását kizárólag abban az esetben tagadhatja meg, ha a víziközmű-szolgáltató nem igazolja, hogy az (1) bekezdés a), b) vagy d) pontja szerinti valamely intézkedés végrehajtása a felhasználónak felróható okból hiúsult meg.
+(7) A települési önkormányzat a (6) bekezdés szerinti hozzájárulását megadja, ha a víziközmű-szolgáltató igazolja, hogy az (1) bekezdés a), b) vagy d) pontja szerinti valamely intézkedés végrehajtását megkísérelte, de azt a felhasználó meghiúsította.
 
 (8) A víziközmű-szolgáltató a felhasználó fizetési kötelezettsége teljesítésének igazolását követően a víziközmű-szolgáltatást 3 naptári napon belül teljeskörűen visszaállítja.
 

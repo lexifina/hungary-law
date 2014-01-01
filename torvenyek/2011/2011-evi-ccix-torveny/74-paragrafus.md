@@ -18,9 +18,9 @@
 
 6. az engedélyezés és a hozzájárulás részletes szabályait, a kérelem formai és tartalmi, továbbá az engedély tartalmi követelményeit, az engedélyes tevékenység folytatásának, valamint az engedély kiadásának, módosításának és visszavonásának feltételeit, továbbá a víziközmű-szolgáltató jogait és kötelezettségeit;
 
-7. a kiszabható bírság felső határát;
+7.
 
-8. a víziközmű-szolgáltató, az ellátásért felelős és a víziközmű-tulajdonos által a Hivatal részére teljesítendő adatok körét, az adatszolgáltatásra vonatkozó részletes szabályokat;
+8.
 
 9. a víziközmű-szolgáltató kötelezettségei teljesítésével kapcsolatos áruk és szolgáltatások körét, a beszerzésre, a kiválasztásra és a megbízásra vonatkozó feltételeket és eljárásokat;
 
@@ -28,7 +28,7 @@
 
 11. az üzletszabályzat kötelező tartalmi elemeit, benyújtásának formai követelményeit, valamint a jóváhagyás szempontjait;
 
-12. a víziközmű-rendszerekről, a víziközmű-szolgáltatókról és az ellátási felelősökről vezetett közhiteles nyilvántartások szabályait;
+12.
 
 13. a számviteli szétválasztásra vonatkozó részletes szabályokat;
 
@@ -44,7 +44,11 @@
 
 19. az ügyfélszolgálatok típusára, elhelyezésére és működtetésére vonatkozó részletes szabályokat;
 
-20. a gördülő fejlesztési tervek tartalmát, ütemezését, felülvizsgálatának szabályait, továbbá a tervek jóváhagyásának szempontjait
+20. a gördülő fejlesztési tervek tartalmát, ütemezését, felülvizsgálatának szabályait, továbbá a tervek jóváhagyásának szempontjait;
+
+21. a védendő felhasználók, valamint az őket az e törvényben meghatározottakon túlmenően megillető kedvezmények körét, biztosításuk és igénybevételük részletes szabályait, továbbá a fogyatékkal élő felhasználókat megillető különleges bánásmód részletes szabályait, a védendő felhasználói körbe tartozás igazolására alkalmas okiratok körét, tartalmi és formai követelményeit;
+
+22. a mellékvízmérőkön mért fogyasztáson alapuló elszámolási mód esetén az elkülönített vízhasználók és a víziközmű-szolgáltató sajátos feladatait, a kötelezettség megszegésének következményeit, az elszámolási mód alkalmazhatóságának műszaki feltételeit, a házi és csatlakozó ivóvízhálózat ellenőrzési rendjét, továbbá az elszámolás alapját képező szennyvízmennyiség meghatározásának részletes szabályait
 
 rendeletben állapítsa meg.
 
@@ -58,10 +62,14 @@ rendeletben állapítsa meg.
 
 4. állapítsa meg a víziközműves kapcsolódó szolgáltatás körében az ivóvíz átadási árait és azok alkalmazásának időpontját, valamint az átvett szennyvíz kezelési díjait és azok alkalmazásának kezdő időpontját;
 
-5. állapítsa meg a számviteli szabályozásért felelős miniszterrel, valamint a fogyasztóvédelemért felelős miniszterrel egyetértésben a víziközmű-szolgáltatók által alkalmazható számlaképet.
+5.
 
-6–8.
+6. szabályozza a víziközmű térképi nyilvántartás tartalmi és formai követelményeit;
+
+7. állapítsa meg a víziközmű térképi nyilvántartás adatainak szolgáltatására, az adatszolgáltatás díjának mértékére vonatkozó részletes szabályokat;
+
+8. szabályozza a gördülő fejlesztési terv részét képező felújítási és pótlási terv, valamint beruházási terv részletes tartalmi és formai követelményeit;
 
 9. állapítsa meg a Hivatal miniszter részére történő adatszolgáltatási és javaslattételi kötelezettségének rendjére, módjára, tartalmára, formájára és időpontjára vonatkozó részletes szabályokat.
 
-(3)
+(3) Felhatalmazást kap a vízgazdálkodásért felelős miniszter, hogy rendeletben szabályozza a Hivatal eljárásában történő szakhatósági közreműködésért a szakhatóság részére fizetendő igazgatási szolgáltatási díj mértékét és megfizetésének szabályait.

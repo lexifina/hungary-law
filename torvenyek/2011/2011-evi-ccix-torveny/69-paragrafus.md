@@ -6,6 +6,8 @@ a) közüzemi szerződéses jogviszony esetében a felhasználási helyen biztos
 
 b) a víziközmű-szolgáltatásba bekapcsolt ingatlanhoz biztosított kapacitás általa kezdeményezett bővítéséért, továbbá
 
-c) a víziközmű-szolgáltatás minőségének (a víz minőségi paramétereinek) általa igényelt emelése esetében.
+c) a víziközmű-szolgáltatás minőségének (a víz minőségi paramétereinek) általa igényelt emelése esetében,
+
+d) az új bekötés megvalósítását megelőzően.
 
 (2) Nem kell víziközmű-fejlesztési hozzájárulást fizetnie a központi költségvetési szervnek és annak költségvetési intézményének, a helyi önkormányzatnak és annak költségvetési intézményének, valamint normatív állami támogatásban részesülő, közfeladatot ellátó, nem nyereség- és vagyonszerzési célt szolgáló egyéb intézménynek.

@@ -8,4 +8,4 @@ b) ha az a) pont szerinti értéket eléri, de kevesebb, mint a 36.§ c) pontja 
 
 visszavonja.
 
-(3) A Hivatal a kizárólagosan állami tulajdonban álló gazdasági társaság víziközmű-szolgáltatókénti működését – az integrációs folyamatok elősegítése, az ellátásbiztonság folyamatosságának megőrzése végett – engedélyezési eljárás lefolytatás nélkül, a közérdekű üzemeltetési feladatok ellátására, határozatlan időtartamra engedélyezi.
+(3)

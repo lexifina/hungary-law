@@ -10,7 +10,7 @@ d) együttműködési és adatszolgáltatási kötelezettségek teljesítése
 
 céljából kezelheti a felhasználó azonosításához szükséges és elégséges, e törvény vagy a felhatalmazása alapján kiadott települési önkormányzati rendelet szerint a szerződés tartalmát képező személyes adatot. A felhasználó azonosításához a természetes személy felhasználó esetén neve, lakcíme, anyja neve, születésének helye, születésének időpontja, nem természetes személy felhasználó esetén elnevezése, székhelye, adószáma, cégjegyzékszáma (egyéb nyilvántartási száma) szükséges.
 
-(2) Az (1) bekezdés alkalmazásában a felhasználó azonosításához szükséges és elégséges adatok a természetes személy felhasználó esetén neve, lakcíme, anyja neve, születésének helye, születésének időpontja, nem természetes személy felhasználó esetén elnevezése, székhelye, adószáma, cégjegyzékszáma (egyéb nyilvántartási száma). A víziközmű-szolgáltató és az ellátásért felelős (e § alkalmazásában a továbbiakban együtt: adatkezelő) a kezelt személyes adatot haladéktalanul törli, ha
+(2) Az (1) bekezdés alkalmazásában a felhasználó azonosításához szükséges és elégséges adatok a természetes személy felhasználó esetén neve, lakcíme, anyja neve, születésének helye, születésének időpontja, nem természetes személy felhasználó esetén elnevezése, székhelye, adószáma, cégjegyzékszáma (egyéb nyilvántartási száma). A víziközmű-szolgáltató és az ellátásért felelős (e fejezet alkalmazásában a továbbiakban együtt: adatkezelő) a kezelt személyes adatot haladéktalanul törli, ha
 
 a) az adatkezelés nem az (1) bekezdésben meghatározott célból történt, vagy
 
@@ -32,8 +32,10 @@ f) a Hivatalnak,
 
 g) a fogyasztóvédelmi hatóságnak,
 
-h) a bírósági végrehajtásról szóló törvény előírásai szerint a bírósági végrehajtónak,
+h) a járási hivatalnak,
 
-i) a nemzetbiztonság, a honvédelem és a közbiztonság védelme, a közvádas bűncselekmények üldözése céljából az arra hatáskörrel rendelkező nemzetbiztonsági szerveknek, nyomozó hatóságnak, ügyésznek, valamint bíróságnak.
+i) a bírósági végrehajtásról szóló törvény előírásai szerint a bírósági végrehajtónak,
+
+j) a nemzetbiztonság, a honvédelem és a közbiztonság védelme, a közvádas bűncselekmények üldözése céljából az arra hatáskörrel rendelkező nemzetbiztonsági szerveknek, nyomozó hatóságnak, ügyésznek, valamint bíróságnak.
 
 (4) Az átadott adatokkal kapcsolatban a (3) bekezdés a)–g) pontjában meghatározott adatokat átvevőket a víziközmű-szolgáltatóval, ellátásért felelőssel azonos titoktartási kötelezettség terheli. Az adatkezelő köteles a (3) bekezdés a)–h) pontja esetén az adatátadással egyidejűleg az érintettet értesíteni.
