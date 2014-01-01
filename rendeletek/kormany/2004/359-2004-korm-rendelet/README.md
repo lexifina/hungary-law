@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-359-20-
 | 2010-07-01 | 2004-359-20-22.7 | 210/2010. (VI. 30.) Korm. rendelet |
 | 2011-03-23 | 2004-359-20-22.8 | 37/2011. (III. 22.) Korm. rendelet |
 | 2011-07-08 | 2004-359-20-22.9 | 113/2011. (VII. 7.) Korm. rendelet |
+| 2014-01-01 | 2004-359-20-22.10 | 550/2013. (XII. 30.) Korm. rendelet |

@@ -6,23 +6,23 @@
 
 a) A programok tervezéséért, lebonyolításáért és ellenőrzéséért felelős intézmények:
 
-aa)[^1] irányító hatóság: a Nemzeti Fejlesztési Ügynökség Nemzetközi Együttműködési Programokért felelős szervezeti egysége;
+aa)[^1] irányító hatóság: a Széchenyi Programiroda Nonprofit Kft. (a továbbiakban: SZPI) Nemzetközi Együttműködési Programokért felelős szervezeti egysége;
 
-ab)[^2] kifizető hatóság: Kincstár;
+ab)[^2] kifizető hatóság: kincstár;
 
 ac)[^3] nemzeti hatóság: a 2. §-a (1) bekezdésének aa) alpontjában foglalt szervezeti egység;
 
-ad) al-kifizető hatóság: a VÁTI Magyar Regionális Fejlesztési és Urbanisztikai Közhasznú Társaság (a továbbiakban: VÁTI Kht.);
+ad)[^4] al-kifizető hatóság: a VÁTI Magyar Regionális Fejlesztési és Urbanisztikai Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: VÁTI);
 
-ae) közreműködő szervezet: VÁTI Kht.;
+ae)[^5] közreműködő szervezet: VÁTI;
 
-af)[^4] zárónyilatkozat kiadásáért és az 5%-os és rendszerellenőrzésért felelős szervezet: az Európai Támogatásokat Auditáló Főigazgatóság (a továbbiakban: EUTAF);
+af)[^6] zárónyilatkozat kiadásáért és az 5%-os és rendszerellenőrzésért felelős szervezet: az Európai Támogatásokat Auditáló Főigazgatóság (a továbbiakban: EUTAF);
 
-ag)[^5] központi harmonizációs egység: a Nemzetgazdasági Minisztériumnak az államháztartási belső pénzügyi ellenőrzési rendszer központi harmonizációjáért, szabályozásának előkészítéséért és koordinációjáért, valamint fejlesztéséért felelős szervezeti egysége.
+ag)[^7] központi harmonizációs egység: a Nemzetgazdasági Minisztériumnak az államháztartási belső pénzügyi ellenőrzési rendszer központi harmonizációjáért, szabályozásának előkészítéséért és koordinációjáért, valamint fejlesztéséért felelős szervezeti egysége.
 
 b) Közösségi Kezdeményezés: európai szintű közösségi érdekű együttműködés, amelyet a tagállamok az Európai Bizottság kezdeményezésére hajtanak végre, mint az egész európai térség fejlesztése és kohéziója szempontjából alapvetően fontos kooperációt.
 
-c) Működési Kézikönyv: az irányító hatóság/nemzeti hatóság, valamint a VÁTI Kht. által végzett tevékenységek részletes leírását és szabályozását tartalmazó dokumentum.
+c)[^8] Működési Kézikönyv: az irányító hatóság/nemzeti hatóság, valamint a VÁTI által végzett tevékenységek részletes leírását és szabályozását tartalmazó dokumentum.
 
 d) Határon átnyúló együttműködés: az INTERREG Közösségi Kezdeményezés „A” pillére, amelynek célja legalább két szomszédos ország határ menti megyéi (NUTS III szint) együttműködése a határon átnyúló gazdasági és társadalmi kapcsolatok fejlesztése érdekében.
 
@@ -60,26 +60,29 @@ t) INTERACT: az INTERREG Közösségi Kezdeményezés programok része, amelynek
 
 u) Tényfeltáró látogatás: az igazolási tevékenység alátámasztása érdekében a kifizető hatóság által a pénzügyi lebonyolításban részt vevő szervezeteknél végzett helyszíni vizsgálat, amelynek célja a szervezetek megfelelő működésének, az írásos eljárásrendek és az alkalmazott eljárások összhangjának megállapítása.
 
-v)[^6] INTERREG Monitoring és Információs Rendszer (IMIR): az INTERREG III Közösségi Kezdeményezési programokkal és az azok keretében megvalósuló projektekkel kapcsolatos végrehajtási, kifizetési, monitoring, ellenőrzési, szabálytalanságkezelési és számviteli feladatokat támogató információtechnológiai rendszer.
+v)[^9] INTERREG Monitoring és Információs Rendszer (IMIR): az INTERREG III Közösségi Kezdeményezési programokkal és az azok keretében megvalósuló projektekkel kapcsolatos végrehajtási, kifizetési, monitoring, ellenőrzési, szabálytalanságkezelési és számviteli feladatokat támogató információtechnológiai rendszer.
 
-w)[^7] Forrásgazda: az INTERREG programok előirányzatai esetében a költségvetési tervezési, előirányzat-módosítási, felhasználási, beszámolási, információszolgáltatási, ellenőrzési kötelezettségek viselője és jogok gyakorlója.
+w)[^10] Forrásgazda: az INTERREG programok előirányzatai esetében a költségvetési tervezési, előirányzat-módosítási, felhasználási, beszámolási, információszolgáltatási, ellenőrzési kötelezettségek viselője és jogok gyakorlója.
 
-x)[^8] Likviditás-kezelési rendszer: a forráslehívás fedezetének a mindenkori költségvetési törvény keretei közötti folyamatos biztosítása érdekében a forrásgazda, a kifizető hatóság és az alkifizető hatóság által működtetett rendszer.
+x)[^11] Likviditás-kezelési rendszer: a forráslehívás fedezetének a mindenkori költségvetési törvény keretei közötti folyamatos biztosítása érdekében a forrásgazda, a kifizető hatóság és az alkifizető hatóság által működtetett rendszer.
 
-y)[^9] Likviditás-kezelési útmutató: az adatszolgáltatási és bizonylati rendet tartalmazó, az irányító hatóság, a közreműködő szervezet, az alkifizető hatóság és a kifizető hatóság részére a forrásgazda által, a kifizető hatóság, illetve az I. fejezet szerinti programok kivételével az alkifizető hatóság egyetértésével a pénzügyi folyamatok zavartalan lebonyolítása érdekében kiadott dokumentum.
+y)[^12] Likviditás-kezelési útmutató: az adatszolgáltatási és bizonylati rendet tartalmazó, az irányító hatóság, a közreműködő szervezet, az alkifizető hatóság és a kifizető hatóság részére a forrásgazda által, a kifizető hatóság, illetve az I. fejezet szerinti programok kivételével az alkifizető hatóság egyetértésével a pénzügyi folyamatok zavartalan lebonyolítása érdekében kiadott dokumentum.
 
-(2)[^10] Az (1) bekezdésben nem meghatározott fogalmak az Európai Unió által nyújtott egyes pénzügyi támogatások felhasználásával megvalósuló, és egyes nemzetközi megállapodások alapján finanszírozott programok monitoring rendszerének kialakításáról és működéséről szóló 102/2006. (IV. 28.) Korm. rendeletben, illetve az Európai Unió strukturális alapjaiból és Kohéziós Alapjából származó támogatások hazai felhasználásáért felelős intézményekről szóló 1/2004. (I. 5.) Korm. rendeletben foglaltak szerint értelmezendők.
+(2)[^13] Az (1) bekezdésben nem meghatározott fogalmak az Európai Unió által nyújtott egyes pénzügyi támogatások felhasználásával megvalósuló, és egyes nemzetközi megállapodások alapján finanszírozott programok monitoring rendszerének kialakításáról és működéséről szóló 102/2006. (IV. 28.) Korm. rendeletben, illetve az Európai Unió strukturális alapjaiból és Kohéziós Alapjából származó támogatások hazai felhasználásáért felelős intézményekről szóló 1/2004. (I. 5.) Korm. rendeletben foglaltak szerint értelmezendők.
 
-(3)[^11] Az ellenőrzési nyomvonal, a szabálytalanság, a szabálytalanság gyanúja, a négy szem elve a Nemzeti Fejlesztési Terv operatív programjai, az EQUAL Közösségi Kezdeményezés program és a Kohéziós Alap projektek támogatásainak fogadásához kapcsolódó pénzügyi lebonyolítási, számviteli és ellenőrzési rendszerek kialakításáról szóló 360/2004. (XII. 26.) Korm. rendeletben foglaltak szerint értelmezendők.
+(3)[^14] Az ellenőrzési nyomvonal, a szabálytalanság, a szabálytalanság gyanúja, a négy szem elve a Nemzeti Fejlesztési Terv operatív programjai, az EQUAL Közösségi Kezdeményezés program és a Kohéziós Alap projektek támogatásainak fogadásához kapcsolódó pénzügyi lebonyolítási, számviteli és ellenőrzési rendszerek kialakításáról szóló 360/2004. (XII. 26.) Korm. rendeletben foglaltak szerint értelmezendők.
 
-[^1]: A 2. § (1) bekezdése a) pontjának aa) alpontja a 243/2006. (XII. 5.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^2]: A 2. § (1) bekezdés a) pontjának ab) alpontja a 113/2011. (VII. 7.) Korm. rendelet 24. §-a szerint módosított szöveg.
+[^1]: A 2. § (1) bekezdése a) pontjának aa) alpontja a 243/2006. (XII. 5.) Korm. rendelet 1. § (1) bekezdésével megállapított, az 550/2013. (XII. 30.) Korm. rendelet 16. § a) pontja szerint módosított szöveg.
+[^2]: A 2. § (1) bekezdés a) pontjának ab) alpontja az 550/2013. (XII. 30.) Korm. rendelet 16. § b) pontja szerint módosított szöveg.
 [^3]: A 2. § (1) bekezdése a) pontjának ac) alpontja a 243/2006. (XII. 5.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^4]: A 2. § (1) bekezdés af) pontja a 210/2010. (VI. 30.) Korm. rendelet 15. § (5) és (7) bekezdése szerint módosított szöveg.
-[^5]: A 2. § (1) bekezdése a) pontjának ag) alpontját a 243/2006. (XII. 5.) Korm. rendelet 1. § (3) bekezdése iktatta be, szövege a 113/2011. (VII. 7.) Korm. rendelet 25. §-a szerint módosított szöveg.
-[^6]: A 2. § (1) bekezdésének v) pontja a 243/2006. (XII. 5.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
-[^7]: A 2. § (1) bekezdésének w) pontját a 243/2006. (XII. 5.) Korm. rendelet 1. § (4) bekezdése iktatta be.
-[^8]: A 2. § (1) bekezdésének x) pontját a 243/2006. (XII. 5.) Korm. rendelet 1. § (4) bekezdése iktatta be.
-[^9]: A 2. § (1) bekezdésének y) pontját a 243/2006. (XII. 5.) Korm. rendelet 1. § (4) bekezdése iktatta be.
-[^10]: A 2. § (2) bekezdése a 243/2006. (XII. 5.) Korm. rendelet 1. § (5) bekezdésével megállapított szöveg.
-[^11]: A 2. § (3) bekezdését a 243/2006. (XII. 5.) Korm. rendelet 1. § (5) bekezdése iktatta be.
+[^4]: A 2. § (1) bekezdés a) pont ad) alpontja az 550/2013. (XII. 30.) Korm. rendelet 16. § c) pontja szerint módosított szöveg.
+[^5]: A 2. § (1) bekezdés a) pont ae) alpontja az 550/2013. (XII. 30.) Korm. rendelet 17. §-a szerint módosított szöveg.
+[^6]: A 2. § (1) bekezdés af) pontja a 210/2010. (VI. 30.) Korm. rendelet 15. § (5) és (7) bekezdése szerint módosított szöveg.
+[^7]: A 2. § (1) bekezdése a) pontjának ag) alpontját a 243/2006. (XII. 5.) Korm. rendelet 1. § (3) bekezdése iktatta be, szövege a 113/2011. (VII. 7.) Korm. rendelet 25. §-a szerint módosított szöveg.
+[^8]: A 2. § (1) bekezdés c) pontja az 550/2013. (XII. 30.) Korm. rendelet 17. §-a szerint módosított szöveg.
+[^9]: A 2. § (1) bekezdésének v) pontja a 243/2006. (XII. 5.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^10]: A 2. § (1) bekezdésének w) pontját a 243/2006. (XII. 5.) Korm. rendelet 1. § (4) bekezdése iktatta be.
+[^11]: A 2. § (1) bekezdésének x) pontját a 243/2006. (XII. 5.) Korm. rendelet 1. § (4) bekezdése iktatta be.
+[^12]: A 2. § (1) bekezdésének y) pontját a 243/2006. (XII. 5.) Korm. rendelet 1. § (4) bekezdése iktatta be.
+[^13]: A 2. § (2) bekezdése a 243/2006. (XII. 5.) Korm. rendelet 1. § (5) bekezdésével megállapított szöveg.
+[^14]: A 2. § (3) bekezdését a 243/2006. (XII. 5.) Korm. rendelet 1. § (5) bekezdése iktatta be.
