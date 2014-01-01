@@ -1,4 +1,4 @@
-85. §[^362] (1) A miniszter a nem európai uniós fejlesztési források felhasználásához kapcsolódó fejlesztéspolitikáért, a fejlesztési célelőirányzatok kezeléséért, szabályozásáért és ellenőrzéséért, valamint a területfejlesztésért való felelőssége körében:
+85. §[^368] (1) A miniszter a nem európai uniós fejlesztési források felhasználásához kapcsolódó fejlesztéspolitikáért, a fejlesztési célelőirányzatok kezeléséért, szabályozásáért és ellenőrzéséért, valamint a területfejlesztésért való felelőssége körében:
 
 a) összehangolja a központi államigazgatási szervek országos szintű fejlesztéssel kapcsolatos tevékenységét, módszereket és követelményeket dolgoz ki a támogatáspolitikai intézkedésekhez,
 
@@ -16,28 +16,24 @@ g) közreműködik a nemzetgazdasági miniszterrel együttműködve a külföldi
 
 h) a fejlesztéspolitikai célkitűzések végrehajtása érdekében közreműködik a központi állami költségvetési politika, valamint a környezetvédelmi, agrár- és infrastruktúrafejlesztési politika, továbbá az egészségügyi, valamint a lakáspolitika kidolgozásában,
 
-i) rendelkezik a Kutatási és Technológiai Innovációs Alap felett,
+i)[^369]
 
 j) szakmailag felügyeli a Magyar Fejlesztési Bank Zrt. tevékenységét.
 
-(2) A miniszter az európai uniós fejlesztési források felhasználásához kapcsolódó fejlesztéspolitikáért való felelőssége körében:
+(2)[^370] A miniszter az európai uniós fejlesztési források felhasználásához kapcsolódó felelőssége körében
 
-a) gyakorolja a végrehajtásban közreműködő szervezetek feletti felügyeleti, irányítási és tulajdonosi jogokat,
+a) biztosítja az európai fejlesztési források felhasználásával megvalósuló, külön jogszabályban meghatározott operatív programok irányító hatósági feladatainak ellátását,
 
-b) a Támogatásokat Vizsgáló Iroda keretei között gondoskodik az Európai Unió működéséről szóló Szerződés 107. cikkének hatálya alá tartozó állami támogatások – a Szerződés által meghatározott mezőgazdasági termékek előállításához és kereskedelméhez nyújtott támogatások és az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtott támogatások, valamint külön jogszabályban más miniszter feladatkörébe utalt támogatások kivételével – versenyszempontú ellenőrzésének hazai koordinálásáról, különös tekintettel az európai uniós jogi aktusok állami támogatási rendelkezéseinek való megfelelés biztosítására, valamint az Európai Bizottsággal való együttműködésre,
+b) szakmailag felügyeli
 
-c) gondoskodik az állami támogatások versenyszempontú ellenőrzésének hazai koordinálásáról, különös tekintettel az európai uniós jogi aktusok állami támogatási rendelkezéseinek való megfelelés biztosítására, valamint az Európai Bizottsággal való együttműködésre,
+ba) az NKEK Nemzeti Környezetvédelmi és Energia Központ Nonprofit Korlátolt Felelősségű Társaság,
 
-d) szakmailag felügyeli
+bb) a Nemzeti Fejlesztési Programiroda Nonprofit Korlátolt Felelősségű Társaság,
 
-da) a VÁTI,
+bc) a KIKSZ Közlekedésfejlesztési Zártkörűen Működő Részvénytársaság és
 
-db) az ESZA Társadalmi Szolgáltató Nonprofit Kft.,
+bd) a Regionális Fejlesztési Holding Zártkörűen Működő Részvénytársaság
 
-dc) „Energia Központ” Energiahatékonysági, Környezetvédelmi és Energia Információs Ügynökség Nonprofit Kft.,
-
-dd) a Nemzeti Fejlesztési Programiroda Nonprofit Kft. és
-
-de) a Regionális Fejlesztési Holding Zrt.
-
-[^362]: A 85. § a 271/2013. (VII. 15.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^368]: A 85. § a 271/2013. (VII. 15.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^369]: A 85. § (1) bekezdés i) pontját az 561/2013. (XII. 31.) Korm. rendelet 11. §-a hatályon kívül helyezte.
+[^370]: A 85. § (2) bekezdése az 550/2013. (XII. 30.) Korm. rendelet 64. §-ával megállapított szöveg.

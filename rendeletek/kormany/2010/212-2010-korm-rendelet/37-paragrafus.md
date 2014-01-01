@@ -54,7 +54,9 @@ w)[^118] közfoglalkoztatásért,
 
 x)[^119] vízügyi igazgatási szervek irányításáért,
 
-y)[^120] régészeti örökség és műemléki érték védelméért
+y)[^120] régészeti örökség és műemléki érték védelméért,
+
+z)[^121] vízgazdálkodásért
 
 felelős tagja.
 
@@ -65,3 +67,4 @@ felelős tagja.
 [^118]: A 37. § w) pontját a 90/2011. (VI. 14.) Korm. rendelet 1. §-a iktatta be.
 [^119]: A 37. § x) pontját a 300/2011. (XII. 22.) Korm. rendelet 4. § (1) bekezdése iktatta be.
 [^120]: A 37. § y) pontját a 266/2012. (IX. 18.) Korm. rendelet 23. § (1) bekezdése iktatta be, szövege a 310/2012. (XI. 6.) Korm. rendelet 18. § (1) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 11. §-a alapján a folyamatban levő ügyekben is alkalmazni kell.
+[^121]: A 37. § z) pontját az 527/2013. (XII. 30.) Korm. rendelet 91. § (1) bekezdése iktatta be.

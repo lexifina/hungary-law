@@ -1,10 +1,10 @@
 99. § (1) A miniszter az agrárpolitikáért való felelőssége körében
 
-a)[^420] elkészíti az ágazat fejlesztésére vonatkozó koncepciókat és döntési javaslatokat, vizsgálja és elemzi az ágazathoz tartozó gazdasági tevékenységeket, az ágazattal szemben támasztott követelményeket, kidolgozza az ágazat fejlesztésének gazdaságpolitikai követelményrendszerét, kialakítja az agrár- és élelmiszergazdaságot érintő pénzügyi rendszereket,
+a)[^431] elkészíti az ágazat fejlesztésére vonatkozó koncepciókat és döntési javaslatokat, vizsgálja és elemzi az ágazathoz tartozó gazdasági tevékenységeket, az ágazattal szemben támasztott követelményeket, kidolgozza az ágazat fejlesztésének gazdaságpolitikai követelményrendszerét, kialakítja az agrár- és élelmiszergazdaságot érintő pénzügyi rendszereket,
 
 b) feldolgozza és elemzi a hatósági jogkörének gyakorlása során birtokába jutott adatokat, továbbá gondoskodik az egységes információs rendszer, az ágazati és területi információs rendszer, valamint a statisztikai információs rendszer kialakításáról, működtetéséről és fejlesztéséről,
 
-c)[^421]
+c)[^432]
 
 d) gondoskodik a mezőgazdaságot ért rendkívüli és tömeges elemi károk kezeléséről,
 
@@ -16,7 +16,7 @@ g) elemi csapás, járványos állatbetegségek, a növények zárlati és vesz�
 
 h) kidolgozza és működteti az ágazat tagállami hatáskörbe tartozó támogatási rendszerét,
 
-i)[^422] elvégzi az Európai Mezőgazdasági Garancia Alappal (EMGA), a Halászati Orientációs Pénzügyi Eszközzel (HOPE), valamint az Európai Halászati Alappal (EHA) és a Halászati Operatív Programmal (HOP) kapcsolatos feladatokat,
+i)[^433] elvégzi az Európai Mezőgazdasági Garancia Alappal (EMGA), a Halászati Orientációs Pénzügyi Eszközzel (HOPE), valamint az Európai Halászati Alappal (EHA) és a Halászati Operatív Programmal (HOP) kapcsolatos feladatokat,
 
 j) az Európai Mezőgazdasági Orientációs és Garancia Alap (EMOGA), az EMGA és az EMVA vonatkozásában ellátja a Bizottság 885/2006/EK rendeletének 1. cikk (2) bekezdésében meghatározott Illetékes Hatóság feladatait,
 
@@ -36,7 +36,7 @@ a) biztosítja a környezet- és természetvédelmi követelményeknek is megfel
 
 b) biztosítja a nem védett élővilág, valamint a táj védelmére vonatkozó ágazati követelmények és fejlesztési politika érvényesülését,
 
-c)[^423] kialakítja a Natura 2000 hálózatba tartozó területek finanszírozási rendszerét.
+c)[^434] kialakítja a Natura 2000 hálózatba tartozó területek finanszírozási rendszerét.
 
 (3) A miniszter a földügyért való felelőssége keretében felel továbbá a termőföld védelméért és a talajvédelemért, e körben
 
@@ -44,7 +44,7 @@ a) meghatározza a termőföld takarékos felhasználása érdekében a földvé
 
 b) gondoskodik a termőföld mennyiségének és minőségének védelméről, valamint a külön jogszabályokban meghatározott védelmi követelmények érvényesítéséről,
 
-c) ellenőrzi a termőföld termőképességének megőrzését, javítását szolgáló tevékenységeket, ideértve a rekultiváció, a talajvédelem, a talajjavítás, a talajvízháztartás-szabályozás, valamint a mezőgazdasági vízszolgáltatás és vízkárelhárítás feladatait.
+c)[^435] ellenőrzi a termőföld termőképességének megőrzését, javítását szolgáló tevékenységeket, ideértve a rekultiváció, a talajvédelem, a talajjavítás, a talajvízháztartás-szabályozás feladatait.
 
 (4) A miniszter az agrárpolitikáért való felelőssége keretében felel továbbá az agrárpiaci rendtartás működésének szervezéséért, e körben
 
@@ -56,10 +56,11 @@ c) a nemzetgazdasági miniszter egyetértésével kezeli a Gazdaságbiztonsági 
 
 d) közreműködik a mezőgazdasághoz és erdészethez kapcsolódó közlekedési jogszabályok előkészítésében.
 
-(5)[^424]
+(5)[^436]
 
-[^420]: A 99. § (1) bekezdés a) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (62) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^421]: A 99. § (1) bekezdés c) pontját a 267/2010. (XII. 3.) Korm. rendelet 41. § (40) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^422]: A 99. § (1) bekezdés i) pontja a 267/2010. (XII. 3.) Korm. rendelet 33. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^423]: A 99. § (2) bekezdés c) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (62) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^424]: A 99. § (5) bekezdését a 300/2011. (XII. 22.) Korm. rendelet 30. § b) pontja hatályon kívül helyezte.
+[^431]: A 99. § (1) bekezdés a) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (62) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^432]: A 99. § (1) bekezdés c) pontját a 267/2010. (XII. 3.) Korm. rendelet 41. § (40) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^433]: A 99. § (1) bekezdés i) pontja a 267/2010. (XII. 3.) Korm. rendelet 33. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^434]: A 99. § (2) bekezdés c) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (62) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^435]: A 99. § (3) bekezdés c) pontja az 527/2013. (XII. 30.) Korm. rendelet 91. § (6) bekezdés d) pontja szerint módosított szöveg.
+[^436]: A 99. § (5) bekezdését a 300/2011. (XII. 22.) Korm. rendelet 30. § b) pontja hatályon kívül helyezte.

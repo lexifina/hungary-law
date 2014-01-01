@@ -62,25 +62,39 @@ c) előkészíti a polgári hírszerzési tevékenység irányításával össze
 
 d) a miniszterelnök felkérése alapján megválaszolja a polgári hírszerzési tevékenység irányításával összefüggő interpellációkat, kérdéseket, azonnali kérdéseket.
 
-(4)[^49] A Miniszterelnökséget vezető államtitkár az európai uniós fejlesztési források felhasználásához kapcsolódó fejlesztéspolitikáért való felelőssége körében:
+(4)[^49] A Miniszterelnökséget vezető államtitkár a miniszterelnök európai uniós források felhasználásáért való felelőssége körében
 
-a) összehangolja a központi államigazgatási szervek európai uniós támogatási forrásokból finanszírozott országos szintű fejlesztéssel kapcsolatos tevékenységét, módszereket és követelményeket dolgoz ki a támogatáspolitikai intézkedésekhez,
+a) összehangolja a központi államigazgatási szervek európai uniós támogatásból finanszírozott országos szintű fejlesztéssel kapcsolatos tevékenységét, módszereket és követelményeket dolgoz ki a támogatáspolitikai intézkedésekhez,
 
-b) az európai uniós fejlesztési források felhasználásához kapcsolódó fejlesztéspolitikai adatbázis és információs rendszer működtetésével folyamatosan figyelemmel kíséri az európai uniós támogatási forrásokból finanszírozott fejlesztési folyamatokat, összehangolja az európai uniós támogatási források felhasználását, nyomon követi az európai uniós fejlesztési források felhasználásához kapcsolódó fejlesztéspolitikai programok végrehajtására javasolt intézkedések hatásait és azokról a Kormányt tájékoztatja,
+b) az európai uniós támogatások felhasználásához kapcsolódó fejlesztéspolitikai adatbázis és információs rendszer működtetésével folyamatosan figyelemmel kíséri az európai uniós támogatásból finanszírozott fejlesztési folyamatokat, összehangolja az európai uniós támogatások felhasználását, nyomon követi az európai uniós támogatások felhasználásához kapcsolódó fejlesztéspolitikai programok végrehajtására javasolt intézkedések hatásait és azokról a Kormányt tájékoztatja,
 
-c) javaslatot tesz az európai uniós fejlesztési források felhasználásához kapcsolódó fejlesztéspolitikai tevékenység irányítási, finanszírozási, intézményi és szabályozási rendszerének kialakítására, fejlesztésére,
+c) javaslatot tesz az európai uniós támogatások felhasználásához kapcsolódó fejlesztéspolitikai tevékenység irányítási, finanszírozási, intézményi és szabályozási rendszerének kialakítására, fejlesztésére,
 
-d) előkészíti az európai uniós fejlesztési források felhasználásához kapcsolódó kormányzati döntések végrehajtását szolgáló szabályozásokat, biztosítja az ágazati és területi szereplők közötti koordinációt,
+d) előkészíti az európai uniós támogatások felhasználásához kapcsolódó kormányzati döntések végrehajtását szolgáló szabályozásokat, biztosítja az ágazati és területi szereplők közötti koordinációt,
 
-e) közreműködik – a nemzetgazdasági miniszterrel együttműködve – a külföldi működő tőkebevonási és külföldre irányuló tőkebefektetési politikának az európai uniós fejlesztési források felhasználásához kapcsolódó fejlesztéspolitikával összhangban történő kialakításában,
+e) a nemzetgazdasági miniszterrel együttműködve közreműködik a külföldi működő tőkebevonási és külföldre irányuló tőkebefektetési politikának az európai uniós támogatások felhasználásához kapcsolódó fejlesztéspolitikával összhangban történő kialakításában,
 
-f) ellátja a Nemzeti Fejlesztési Ügynökség és a közreműködő szervezetek döntéseivel összefüggésben kezdeményezett jogjogorvoslati eljáráshoz kapcsolódó feladatokat,
+f) ellátja az európai uniós források felhasználásának lebonyolításáért felelős szervek döntéseivel összefüggésben – külön jogszabályban meghatározottak szerint – kezdeményezett jogorvoslati eljáráshoz kapcsolódó feladatokat,
 
-g) ellátja Nemzeti Fejlesztési Ügynökség irányításával összefüggő feladatokat, gyakorolja az ahhoz kapcsolódó hatásköröket,
+g) biztosítja a fejlesztéspolitikai programoknak az átfogó kormányzati stratégiákkal való összhangját, amely tekintetben javaslatot nyújt be a Kormány részére,
 
-h)[^50] előkészíti az európai uniós fejlesztési források felhasználásához kapcsolódó fejlesztéspolitikával összefüggő interpellációkra, kérdésekre, azonnali kérdésekre adandó válaszokat,
+h) előkészíti az európai uniós támogatások felhasználásához kapcsolódó fejlesztéspolitikával összefüggő interpellációkra, kérdésekre, azonnali kérdésekre adandó válaszokat és azokat a miniszterelnök felkérése alapján megválaszolja,
 
-i)[^51] a miniszterelnök felkérése alapján megválaszolja az európai uniós fejlesztési források felhasználásához kapcsolódó fejlesztéspolitikával összefüggő interpellációkat, kérdéseket, azonnali kérdéseket.
+i) tárgyalásokat folytat – Kormány európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt tagjával együttműködve – az Európai Unió intézményeivel az európai uniós források felhasználásával, valamint az operatív programok végrehajtásával kapcsolatos kérdésekben,
+
+j) biztosítja az európai uniós fejlesztési programok összehangolt végrehajtását és a programokból nyújtott támogatások igénylésével és felhasználásával kapcsolatos eljárásrend egységes alkalmazását,
+
+k) kialakítja és működteti az EU Önerő Alapból folyósított támogatások rendszerét,
+
+l) gondoskodik uniós források tekintetében az állami támogatások versenyszempontú vizsgálatának hazai koordinálásáról.
+
+(5)[^50] A Miniszterelnökséget vezető államtitkár gondoskodik
+
+a) a hazai források tekintetében az állami támogatások versenyszempontú vizsgálatának hazai koordinálásáról,
+
+b) ellátja az EU Önerő Alapból folyósított források felhasználásának lebonyolításáért felelős szervek döntéseivel összefüggésben – külön jogszabályban meghatározottak szerint – kezdeményezett jogorvoslati eljáráshoz kapcsolódó feladatokat.
+
+(6)[^51] A Miniszterelnökséget vezető államtitkár a (4) bekezdés l) pontjában és (5) bekezdés a) pontjában meghatározott feladatát a Támogatásokat Vizsgáló Iroda keretei között – a mezőgazdasági, a halászati, az erdészeti és a vadgazdálkodási állami támogatások (együttesen: agrár állami támogatások) kivételével – az Európai Unió működéséről szóló Szerződés 107. cikk (1) bekezdésének hatálya alá tartozó állami támogatások tekintetében végzi, különös tekintettel az európai uniós jogi aktusok állami támogatási rendelkezéseinek való megfelelés biztosítására, valamint az Európai Bizottsággal való együttműködésre.
 
 [^38]: A 9/A. §-t az 53/2011. (III. 31.) Korm. rendelet 4. § (5) bekezdése iktatta be, szövege az 56/2013. (II. 27.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^39]: A III. Fejezet címe a 118/2012. (VI. 26.) Korm. rendelet 3. §-ával megállapított szöveg.
@@ -93,6 +107,6 @@ i)[^51] a miniszterelnök felkérése alapján megválaszolja az európai uniós
 [^46]: A 10. § (2) bekezdés f) pontját a 293/2012. (X. 16.) Korm. rendelet 1. §-a iktatta be.
 [^47]: A 10. § (2) bekezdés g) pontját a 25/2013. (II. 12.) Korm. rendelet 1. §-a iktatta be.
 [^48]: A 10. § (3) bekezdését a 162/2012. (VII. 19.) Korm. rendelet 2. § (2) bekezdése iktatta be.
-[^49]: A 10. § (4) bekezdését a 271/2013. (VII. 15.) Korm. rendelet 2. §-a iktatta be.
-[^50]: A 10. § (4) bekezdés h) pontját a 327/2013. (IX. 3.) Korm. rendelet 2. §-a iktatta be.
-[^51]: A 10. § (4) bekezdés i) pontját a 327/2013. (IX. 3.) Korm. rendelet 2. §-a iktatta be.
+[^49]: A 10. § (4) bekezdését a 271/2013. (VII. 15.) Korm. rendelet 2. §-a iktatta be, szövege az 550/2013. (XII. 30.) Korm. rendelet 61. § (1) bekezdésével megállapított szöveg.
+[^50]: A 10. § (5) bekezdését az 550/2013. (XII. 30.) Korm. rendelet 61. § (2) bekezdése iktatta be.
+[^51]: A 10. § (6) bekezdését az 550/2013. (XII. 30.) Korm. rendelet 61. § (2) bekezdése iktatta be.
