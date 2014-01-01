@@ -1,12 +1,12 @@
-## 20/A. §[^109]
+## 20/A. §[^110]
 
-## Különleges eljárások[^110]
+## Különleges eljárások[^111]
 
-21. §[^111] (1)[^112] A konzuli tisztviselő a külföldön élő vagy tartózkodó állampolgár részére az ideiglenes magánútlevelet haladéktalanul állítja ki.
+21. §[^112] (1)[^113] A konzuli tisztviselő a külföldön élő vagy tartózkodó állampolgár részére az ideiglenes magánútlevelet haladéktalanul állítja ki.
 
 (2) Az útlevélhatóság az úti okmányt soron kívüli eljárás keretében hét napon belül kiállítja.
 
-[^109]: A 20/A. §-t a 168/1999. (XI. 24.) Korm. rendelet 63. §-a iktatta be, szövegét a 122/2004. (IV. 29.) Korm. rendelet 17. §-ának (2) bekezdése hatályon kívül helyezte.
-[^110]: A 21. §-t megelőző alcím a 360/2011. (XII. 30.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^111]: A 21. § a 360/2011. (XII. 30.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^112]: A 21. § (1) bekezdése a 409/2012. (XII. 28.) Korm. rendelet 10. § (1) bekezdése h) pontja szerint módosított szöveg.
+[^110]: A 20/A. §-t a 168/1999. (XI. 24.) Korm. rendelet 63. §-a iktatta be, szövegét a 122/2004. (IV. 29.) Korm. rendelet 17. §-ának (2) bekezdése hatályon kívül helyezte.
+[^111]: A 21. §-t megelőző alcím a 360/2011. (XII. 30.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^112]: A 21. § a 360/2011. (XII. 30.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^113]: A 21. § (1) bekezdése a 409/2012. (XII. 28.) Korm. rendelet 10. § (1) bekezdése h) pontja szerint módosított szöveg.

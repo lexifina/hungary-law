@@ -1,7 +1,7 @@
-## 26. §[^139] A hivatalos útlevél rendeltetésszerű használatával összefüggésben az utazást elrendelő szerv – az európai parlamenti vagy országgyűlési képviselő, továbbá házastársa, gyermeke diplomata-útlevele esetében az Országgyűlés Hivatala, az Utv. 14. § (4) bekezdésében meghatározott szolgálati útlevél esetében a javaslatot tevő szerv, hajós szolgálati útlevél esetében a hajón teljesítendő szolgálatot igazoló gazdálkodó szervezet – ellenőrzi, hogy a hivatalos útlevél
+## 26. §[^140] A hivatalos útlevél rendeltetésszerű használatával összefüggésben az utazást elrendelő szerv – az európai parlamenti vagy országgyűlési képviselő, továbbá házastársa, gyermeke diplomata-útlevele esetében az Országgyűlés Hivatala, az Utv. 14. § (4) bekezdésében meghatározott szolgálati útlevél esetében a javaslatot tevő szerv, hajós szolgálati útlevél esetében a hajón teljesítendő szolgálatot igazoló gazdálkodó szervezet – ellenőrzi, hogy a hivatalos útlevél
 
 a) jogszerűen került-e felhasználásra, valamint
 
 b) a jogszabályban meghatározott határidőn belül került-e leadásra.
 
-[^139]: A 26. §-t a 117/2009. (VI. 4.) Korm. rendelet 13. § (1) bekezdése hatályon kívül helyezte, újonnan a 360/2011. (XII. 30.) Korm. rendelet 12. §-a iktatta be, szövege a 409/2012. (XII. 28.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^140]: A 26. §-t a 117/2009. (VI. 4.) Korm. rendelet 13. § (1) bekezdése hatályon kívül helyezte, újonnan a 360/2011. (XII. 30.) Korm. rendelet 12. §-a iktatta be, szövege a 409/2012. (XII. 28.) Korm. rendelet 9. §-ával megállapított szöveg.
