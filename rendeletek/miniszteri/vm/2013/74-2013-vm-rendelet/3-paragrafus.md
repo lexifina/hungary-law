@@ -44,7 +44,7 @@ b) az elkülönített vagy zárt vágást végző gazdálkodó szervezet esetéb
 
 c) az elhullott, leölt állatok hulláit és állati eredetű melléktermékeit feldolgozó üzem telephelye szerint illetékes élelmiszerlánc-biztonsági és állategészségügyi igazgatósággal,
 
-d) a hazai természetvédelmi oltalom alatt álló vagy nemzetközi természetvédelmi egyezmény hatálya alá tartozó állatfajok (a továbbiakban együtt: védett állatok) esetén az illetékes környezetvédelmi, természetvédelmi és vízügyi hatósággal,
+d)[^1] a hazai természetvédelmi oltalom alatt álló vagy nemzetközi természetvédelmi egyezmény hatálya alá tartozó állatfajok (a továbbiakban együtt: védett állatok) esetén az illetékes környezetvédelmi és természetvédelmi hatósággal,
 
 e) az eljáró hatósági állatorvossal,
 
@@ -53,3 +53,5 @@ f) valamennyi érintett járási állategészségügyi hivatallal, amennyiben a 
 (4) A védett őshonos vagy veszélyeztetett mezőgazdasági állatfajták egyedeinek járványügyi intézkedés keretében történő leölését vagy ilyen állatoktól származó szaporítóanyag ártalmatlanítását megelőzően – kivéve nagy gazdasági kárral fenyegető, illetve nemzetközi kereskedelmet akadályozó fertőző állatbetegség kitörésekor, amennyiben azt a fertőző állatbetegség rendkívüli veszélye indokolja – a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH) szakértői véleményét az állat, szaporítóanyag génmegőrzési jelentőségére vonatkozóan ki kell kérni.
 
 (5) Az állatbetegségek bejelentésének rendjéről szóló miniszteri rendelet szerinti bejelentési kötelezettség alá tartozó állatbetegségben elhullott, vagy a kötelezően elrendelt védőoltás, gyógykezelés és diagnosztikai vizsgálat következtében elhullott állatok esetében, az eljáró hatósági állatorvosnak jegyzőkönyvben kell rögzíteni azokat a kárelőzményi és tényadatokat, amelyek a kártalanítás alapjául szolgálnak.
+
+[^1]: A 3. § (3) bekezdés d) pontja a 132/2013. (XII. 23.) VM rendelet 35. §-a szerint módosított szöveg.
