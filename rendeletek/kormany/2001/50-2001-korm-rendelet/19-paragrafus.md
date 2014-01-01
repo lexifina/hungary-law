@@ -2,6 +2,7 @@
 
 (2)[^54] A talajvédelmi hatóság megtiltja a tevékenység folytatását és elrendeli a szennyező források felszámolását a szennyvíz esetében a 4. számú mellékletben, a szennyvíziszap és szennyvíziszap komposzt esetében pedig az 5. számú mellékletben előírt határértékeik túllépése, továbbá az engedély nélküli felhasználás esetén.
 
-(3) A talajvédelmi hatóság haladéktalanul tájékoztatja a környezetvédelmi hatóságot, ha talaj vagy talajvíz szennyezettségi szintje meghaladja az R.-ben foglalt (B) szennyezettségi határértéket.
+(3)[^55] A talajvédelmi hatóság haladéktalanul tájékoztatja a vízvédelmi hatóságot, ha talaj vagy talajvíz szennyezettségi szintje meghaladja az R.-ben foglalt (B) szennyezettségi határértéket.
 
 [^54]: A 19. § (2) bekezdése a 40/2008. (II. 26.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^55]: A 19. § (3) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 15. § b) pontja szerint módosított szöveg.

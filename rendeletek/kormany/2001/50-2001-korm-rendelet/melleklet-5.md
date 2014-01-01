@@ -48,6 +48,6 @@
 
 | TPH | 30 |
 
-5. számú melléklet az 50/2001. (IV. 3.) Korm. rendelethez[^60]
+5. számú melléklet az 50/2001. (IV. 3.) Korm. rendelethez[^61]
 
-[^60]: Az 5. számú melléklet a 40/2008. (II. 26.) Korm. rendelet 22. § (2) bekezdésével megállapított szöveg.
+[^61]: Az 5. számú melléklet a 40/2008. (II. 26.) Korm. rendelet 22. § (2) bekezdésével megállapított szöveg.

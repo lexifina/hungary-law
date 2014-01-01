@@ -8,7 +8,7 @@ c) a szennyvíz, szennyvíziszap, szennyvíziszap komposzt összetételét és m
 
 d) a szennyvíz, szennyvíziszap, szennyvíziszap komposzt kijuttatásának helyét (a földterület helyrajzi száma, területe, a termesztett növény stb. megnevezésével).
 
-(2)[^50] Az engedélyező talajvédelmi hatóság az (1) bekezdés a)–d) pontjai szerinti adatokról összesítést készít, amelyet minden év május 31-ig továbbít a Nemzeti Élelmiszerlánc-biztonsági Hivatalnak, valamint az illetékes környezetvédelmi hatóságnak.
+(2)[^50] Az engedélyező talajvédelmi hatóság az (1) bekezdés a)–d) pontjai szerinti adatokról összesítést készít, amelyet minden év május 31-ig továbbít a Nemzeti Élelmiszerlánc-biztonsági Hivatalnak, valamint az illetékes vízvédelmi hatóságnak.
 
 [^49]: A 17. § a 40/2008. (II. 26.) Korm. rendelet 17. §-ával megállapított szöveg.
-[^50]: A 17. § (2) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 80. § (2) bekezdésével megállapított, a 23/2012. (II. 29.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^50]: A 17. § (2) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 80. § (2) bekezdésével megállapított, a 23/2012. (II. 29.) Korm. rendelet 6. §-a, az 527/2013. (XII. 30.) Korm. rendelet 15. § a) pontja szerint módosított szöveg.
