@@ -16,4 +16,4 @@ c) kettős könyvvitel esetében a kiegészítő mellékletet.
 
 (6) A közhasznúsági mellékletben be kell mutatni a szervezet által végzett közhasznú tevékenységeket, ezen tevékenységek fő célcsoportjait és eredményeit, valamint a közhasznú jogállás megállapításához szükséges 32. § szerinti adatokat, mutatókat.
 
-(7) A közhasznúsági melléklet tartalmazza a vagyon felhasználásával kapcsolatos kimutatást, a közhasznú cél szerinti juttatások kimutatását, a vezető tisztségviselőinek nyújtott juttatások összegét és a juttatásban részesülő vezető tisztségek felsorolását.
+(7) A közhasznúsági melléklet tartalmazza a közhasznú cél szerinti juttatások kimutatását, a vezető tisztségviselőknek nyújtott juttatások összegét és a juttatásban részesülő vezető tisztségek felsorolását.
