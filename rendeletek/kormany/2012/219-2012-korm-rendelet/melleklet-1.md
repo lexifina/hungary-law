@@ -1,4 +1,4 @@
-## 8. §[^1]
+## 8. §[^2]
 
 1. melléklet a 219/2012. (VIII. 13.) Korm. rendelethez
 
@@ -12,4 +12,4 @@
 
 4. Nyugdíjbiztosítási visszautalás esetén a visszautaláshoz való jog megnyílásának időpontja, valamint az uniós tisztviselőt, illetve a túlélő hozzátartozót megillető összegről rendelkező nyilatkozat és a T. 10. § (1) bekezdés f) pontja szerinti adatok.
 
-[^1]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
