@@ -62,4 +62,6 @@ h) egyéb, az a)–g) pontokban foglaltakhoz kapcsolódó kiegészítő szolgál
 
 (13) Az MFB Zrt. a rábízott vagyon értékének megőrzéséről köteles gondoskodni.
 
-(14)–(15)
+(14) Az MFB Zrt. jogosult ellenőrizni az e törvény 1. számú, illetve 2. számú mellékletében felsorolt gazdálkodó szervezetek gazdálkodását, működését. Az ellenőrzött szervezet, a szervezet vezetője, alkalmazottja adatszolgáltatásra és együttműködésre köteles.
+
+(15)

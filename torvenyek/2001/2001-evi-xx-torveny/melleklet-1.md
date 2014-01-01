@@ -20,13 +20,7 @@ Magyar Turizmus Zrt.
 
 Kincsem Nemzeti Lóverseny és Lovas Stratégia Kft.
 
-Mezőhegyesi Állami Ménes Kft.
-
-Bábolna Nemzeti Ménesbirtok Kft.
-
 Magyar Lóversenyfogadást Szervező Kft.
-
-Bábolna Nemzeti Ménesbirtok Kft.
 
 ITD Hungary Zrt.
 

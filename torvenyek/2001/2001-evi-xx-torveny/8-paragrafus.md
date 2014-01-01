@@ -1,12 +1,12 @@
 ## Az MFB Zrt. prudens működésére vonatkozó szabályok
 
-8. § (1) A Hpt. 79. §-ának (2) és (3) bekezdésében foglalt rendelkezéstől eltérően az MFB Zrt. által
+8. § (1) Az 575/2013/EU rendelet 395. cikk (1) bekezdésében foglalt rendelkezéstől eltérően az MFB Zrt. által
 
-a) a hitelintézetekkel szembeni – ügyfelenként vagy ügyfélcsoportonként külön számított – kitettség érték összege nem haladhatja meg az MFB Zrt. szavatoló tőkéjének kettőszáz százalékát,
+a) a hitelintézetekkel szembeni – ügyfelenként vagy ügyfélcsoportonként külön számított – kitettség érték összege nem haladhatja meg az MFB Zrt. szavatoló tőkéjének kétszáz százalékát,
 
 b) hitelintézetnek nem minősülő egy ügyféllel vagy egy ügyfélcsoport nem hitelintézet tagjaival szembeni együttes kitettség érték összege nem haladhatja meg az MFB Zrt. szavatoló tőkéjének harmincöt százalékát.
 
-(2) Az MFB Zrt. esetében a Hpt. 69/B–69/E. §-ában, a Hpt. 76. §-ának (2)–(5) bekezdésében, a Hpt. 83. §-ának (1)–(3) bekezdésében foglaltakat nem kell alkalmazni.
+(2) Az MFB Zrt. esetében a Hpt. 79. § (2) bekezdés b) pontjában, 110., 112. és 117–121. §-ában, valamint az 575/2013/EU rendelet 89–91., 102–106. és 411–428. cikkében foglaltakat nem kell alkalmazni.
 
 (3) Az MFB Zrt. kizárólag
 
@@ -26,6 +26,6 @@ szerezhet közvetlenül vagy közvetve tulajdonrészt.
 
 (4) Az MFB Zrt. egy gazdasági társaságban – a (3) bekezdés a)–e) pontjában meghatározott társaságok kivételével – közvetlenül, illetőleg közvetetten legfeljebb 50%–1 szavazat mértékű tulajdoni részesedéssel rendelkezhet.
 
-(5) Az MFB Zrt. által egy gazdasági társaságba, illetve a társaság által ellenőrzött más gazdasági társaságba befektetett fejlesztési tőke összege nem haladhatja meg az MFB Zrt. szavatoló tőkéjének harmincöt százalékát.
+(5)
 
-(6) A Hpt. XIV. fejezete alkalmazásában az MFB Zrt. pénzügyi vállalkozásnak minősül.
+(6) A Hpt. 172–176. §-a és az 575/2013/EU rendelet 11–24. cikkének alkalmazásában az MFB Zrt. pénzügyi vállalkozásnak minősül.
