@@ -1,0 +1,9 @@
+# 296/2013. (VII. 29.) Korm. rendelet
+
+az egyházi jogi személyek beszámolókészítési és könyvvezetési kötelezettségének sajátosságairól
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-296-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2014-01-01 | 2013-296-20-22.1 | 296/2013. (VII. 29.) Korm. rendelet |

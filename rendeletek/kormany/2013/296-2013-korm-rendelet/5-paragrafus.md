@@ -1,0 +1,13 @@
+## 4. § A könyvvezetés során elkülönítetten kell kimutatni az alaptevékenységgel és a vállalkozási tevékenységgel kapcsolatos bevételeket és költségeket, ráfordításokat.
+
+## 3. Az egyházi jogi személy beszámolókészítésének sajátosságai
+
+5. § (1) Az egyházi jogi személy a naptári évről a naptári év utolsó napjával egyszerűsített éves beszámolót készít.
+
+(2) Ha az egyházi jogi személy alaptevékenységéből és vállalkozási tevékenységből származó bevételének együttes összege – két egymást követő évben évenként – az 50 millió forintot nem haladja meg, egyszeres könyvvitellel alátámasztott egyszerűsített beszámolót készíthet.
+
+(3) Az egyszerűsített éves beszámoló az 1. melléklet szerinti mérlegből és eredménykimutatásból, az egyszerűsített beszámoló a 2. melléklet szerinti egyszerűsített mérlegből és eredménylevezetésből áll.
+
+(4) Ha az egyházi jogi személy vállalkozási tevékenységet nem folytat, az egyszerűsített éves beszámoló és az egyszerűsített beszámoló formáját és tartalmát– a (3) bekezdéstől eltérően – a bevett egyház belső szabályában határozza meg.
+
+(5) Az egyházi jogi személy kiegészítő mellékletet és üzleti jelentést nem készít.
