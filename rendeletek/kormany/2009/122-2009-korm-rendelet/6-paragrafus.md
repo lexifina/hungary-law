@@ -1,4 +1,4 @@
-6. § (1)[^17] A miniszter az egészségpolitika által meghatározott célok megvalósítása érdekében a központi gyakornokok képzéséhez támogatást nyújt, melynek keretében a központi gyakornok szakképzésének teljes időtartamára kifizetésre kerül (kerülnek):
+6. § (1)[^20] A központi gyakornokok képzésének támogatására a felsőoktatási intézmények részére a szakképzés teljes időtartamára a következő támogatások kifizetésére kerül sor:
 
 a) a szakképzés normatív költsége,
 
@@ -6,7 +6,7 @@ b) a Kjt. besorolása alapján a központi gyakornok részére kötelezően jár
 
 c) a (2) bekezdésben meghatározott esetben az ott meghatározott támogatás.
 
-(2)[^18] A miniszter döntése alapján a központi gyakornok után a miniszter a 10. § (2) bekezdésében foglaltak szerint meghatározott hiányszakmák esetében a Kjt. H fizetési osztály 1. fizetési fokozata 50%-ának megfelelő összegű, a szakképzés teljes időtartamára szóló támogatást nyújthat, amelyet a felsőoktatási intézmény a központi gyakornok számára az őt külön jogszabály alapján megillető munkabérén felül havonta köteles megfizetni.
+(2)[^21] A 10. § (1) bekezdés b) pontjában foglaltak szerint meghatározott hiányszakmában szakképzést teljesítő központi gyakornok után a Kjt. H fizetési osztály 1. fizetési fokozata 50%-ának megfelelő összegű, a szakképzés teljes időtartamára szóló támogatás biztosítására kerül sor, amelyet a munkáltató felsőoktatási intézmény a központi gyakornok számára az őt jogszabály alapján megillető munkabérén felül havonta köteles megfizetni.
 
-[^17]: A 6. § (1) bekezdése a 137/2012. (VI. 29.) Korm. rendelet 49. §-ával megállapított szöveg.
-[^18]: A 6. § (2) bekezdése a 72/2011. (IV. 29.) Korm. rendelet 19. § g) pontja szerint módosított szöveg.
+[^20]: A 6. § (1) bekezdése a 137/2012. (VI. 29.) Korm. rendelet 49. §-ával megállapított, nyitó szövegrésze az 520/2013. (XII. 30.) Korm. rendelet 74. § c) pontjával megállapított szöveg.
+[^21]: A 6. § (2) bekezdése az 520/2013. (XII. 30.) Korm. rendelet 64. §-ával megállapított szöveg.

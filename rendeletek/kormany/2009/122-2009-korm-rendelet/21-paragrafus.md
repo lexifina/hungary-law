@@ -4,6 +4,6 @@
 
 (3) A szakképzés megkezdése előtt folytatott orvosi tevékenység a szakgyakorlati időbe a felsőoktatási intézmény döntése alapján beszámítható.
 
-(4)[^54] A jelölt – a költségtérítéses képzésben részt vevő nem magyar állampolgár, valamint hontalanként elismert személy kivételével – a szakorvos, szakfogorvos, szakgyógyszerész és klinikai szakpszichológus szakképesítés megszerzéséről szóló miniszteri rendelet szerinti képzési feltételek teljesítéséhez szükséges egészségügyi tevékenységet önkéntes segítői jogviszonyban nem végezhet.
+(4)[^71] A jelölt – a költségtérítéses képzésben részt vevő nem magyar állampolgár, valamint hontalanként elismert személy kivételével – a szakorvos, szakfogorvos, szakgyógyszerész és klinikai szakpszichológus szakképesítés megszerzéséről szóló miniszteri rendelet szerinti képzési feltételek teljesítéséhez szükséges egészségügyi tevékenységet önkéntes segítői jogviszonyban nem végezhet.
 
-[^54]: A 21. § (4) bekezdése a 217/2010. (VII. 22.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^71]: A 21. § (4) bekezdése a 217/2010. (VII. 22.) Korm. rendelet 4. §-ával megállapított szöveg.

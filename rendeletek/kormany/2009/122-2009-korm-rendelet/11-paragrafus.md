@@ -1,18 +1,18 @@
 ## szakon végzettek számára kiírható állások keretszámai.
 
-11. §[^27] (1) Az egészségügyi szolgáltatók az általuk a szakma gyakorlására alkalmasnak ítélt jelölttel az adott évben megkezdődő, a szakképzési időszak alatti alkalmazásukra irányuló előszerződés vagy már fennálló foglalkoztatásra irányuló jogviszony alapján, az adott évre meghirdetett rezidensi keretszámok erejéig az év során folyamatosan igényelhetik az 5. § (1) bekezdése szerinti támogatást.
+11. §[^32] (1) Az egészségügyi szolgáltatók az általuk a szakma gyakorlására alkalmasnak ítélt jelölttel az adott évben megkezdődő, a szakképzési időszak alatti alkalmazásukra irányuló előszerződés vagy már fennálló foglalkoztatásra irányuló jogviszony alapján, az adott évre meghirdetett rezidensi keretszámok erejéig az év során folyamatosan igényelhetik az 5. § (1) bekezdése szerinti támogatást.
 
 (2) A támogatás-igénylési nyilatkozat tartalmazza
 
 a) annak a szakképzésnek a megjelölését és számát, amelyre a támogatást igénylő egészségügyi szolgáltató a nyilatkozatot benyújtja,
 
-b) a támogatást igénylő egészségügyi szolgáltató szakképző hellyé minősítését igazoló iratot,
+b)[^33] a támogatást igénylő egészségügyi szolgáltató szakképző hellyé minősítését igazoló okiratot, vagy a 2. § (1a) bekezdése szerinti esetben a támogatást igénylő egészségügyi szolgáltatóval a képzés lebonyolítására megállapodást kötött, akkreditált egészségügyi szolgáltatónak a szakképző hellyé minősítését igazoló okiratot,
 
 c) az adott szakképzés vonatkozásában érvényes működési engedélyt,
 
 d) a támogatás-igényléssel összefüggésben az igénylő részéről a kapcsolattartó személy nevét és elérhetőségét,
 
-e) nyilatkozatot arra nézve, hogy az igényelt szakképzési hely tekintetében legalább a Kjt. H fizetési osztály 1. fizetési fokozatának megfelelő munkabér pénzügyi fedezete a támogatást igénylő egészségügyi szolgáltató rendelkezésére áll, és kötelezettségvállalást arra nézve, hogy azt a jelölt részére a szakképzés teljes időtartamára megfizeti,
+e)[^34] nyilatkozatot arra nézve, hogy az igényelt szakképzési hely tekintetében legalább az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény (a továbbiakban: Eütev.) 11/A. § (9) bekezdése szerinti illetmény vagy bér pénzügyi fedezete a támogatást igénylő egészségügyi szolgáltató rendelkezésére áll, és kötelezettségvállalást arra nézve, hogy azt a jelölt részére a szakképzés teljes időtartamára megfizeti,
 
 f) a jelölttel
 
@@ -26,23 +26,25 @@ g) az fa) alpont esetében kötelezettségvállalást arra nézve, hogy a támog
 
 h) a (6) bekezdésben meghatározott szempontokat igazoló dokumentumokat.
 
-(3)[^28] A támogatási-igénylési nyilatkozatokat a 22. § szerinti szerv részére kell benyújtani postai úton vagy elektronikus úton, amely haladéktalanul továbbítja azt a Tanács részére.
+(3)[^35] A támogatási-igénylési nyilatkozatokat a 22. § szerinti szerv részére kell benyújtani postai úton vagy elektronikus úton.
 
-(4)[^29] A támogatás odaítéléséről a Tanács javaslata alapján a miniszter 15 napon belül dönt a 10. § (1) bekezdés a)–d) pontjában és a (6) bekezdésben meghatározott szempontok alapján, és döntéséről haladéktalanul értesíti a 22. § szerinti szervet. A 22. § szerinti szerv az egészségügyi szolgáltatót, azon felsőoktatási intézményt, amelynek a régiójába az egészségügyi szolgáltató tartozik (a továbbiakban: illetékes felsőoktatási intézmény), valamint a jelöltet postai úton és – ha az elektronikus úton történő értesítéshez hozzájárult – elektronikus úton értesíti.
+(4)[^36] Az e rendeletben meghatározott feltételek teljesülése esetén, a 10. § (1) bekezdés a) pontjában szereplő keretszámok erejéig a támogatás-igénylést a 22. § szerinti szerv vezetője jóváhagyja és erről
 
-(5)[^30] Amennyiben a támogatás igénylésére a 10. § (2) bekezdése alapján meghatározott hiányszakmában kerül sor, a Tanács javaslata alapján a miniszter dönt a 10. § (1) bekezdés a)–d) pontjában és a (6) bekezdésben meghatározott szempontok alapján az igényelt álláshely vonatkozásában az 5. § (3) bekezdése szerinti támogatás odaítéléséről is.
+a) az igénylő egészségügyi szolgáltatót,
 
-(6) A (4) és (5) bekezdés szerinti döntés meghozatalánál előnyben kell részesíteni azokat az igényeket, ahol
+b) azon felsőoktatási intézményt, amellyel a jelölt a támogatott képzésben történő részvételről a 16. § (1) bekezdése alapján megállapodást köt (a továbbiakban: illetékes felsőoktatási intézmény) és
 
-a) az egészségügyi szolgáltató a támogatott jelölt alkalmazásával éri el az adott szakma vonatkozásában az orvos-beteg arány országos átlagát,
+c) a jelöltet
 
-b) az egészségügyi szolgáltató igazoltan 1 évnél hosszabb ideje nem tudta az állást betölteni, vagy
+postai úton és – ha az elektronikus úton történő értesítéshez hozzájárult – elektronikus úton értesíti.
 
-c) az egészségügyi szolgáltatónál a támogatott jelölt alkalmazásával válik lehetővé egyes állami kötelezettségvállalásból származó feladatok teljesítése.
+(5)–(6)[^37]
 
 (7) A 22. § szerinti szerv folyamatosan, egyetemi régiónként hozzáférhetővé teszi honlapján az adott évben még betölthető rezidensi keretszámokat.
 
-[^27]: A 11. § a 72/2011. (IV. 29.) Korm. rendelet 9. §-ával megállapított szöveg.
-[^28]: A 11. § (3) bekezdése a 447/2012. (XII. 29.) Korm. rendelet 73. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^29]: A 11. § (4) bekezdése a 447/2012. (XII. 29.) Korm. rendelet 73. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^30]: A 11. § (5) bekezdése a 447/2012. (XII. 29.) Korm. rendelet 73. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^32]: A 11. § a 72/2011. (IV. 29.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^33]: A 11. § (2) bekezdés b) pontja az 520/2013. (XII. 30.) Korm. rendelet 67. § (1) bekezdésével megállapított szöveg.
+[^34]: A 11. § (2) bekezdés e) pontja az 520/2013. (XII. 30.) Korm. rendelet 67. § (2) bekezdésével megállapított szöveg.
+[^35]: A 11. § (3) bekezdése a 447/2012. (XII. 29.) Korm. rendelet 73. § (2) bekezdés b) pontja, az 520/2013. (XII. 30.) Korm. rendelet 75. § b) pontja szerint módosított szöveg.
+[^36]: A 11. § (4) bekezdése az 520/2013. (XII. 30.) Korm. rendelet 67. § (3) bekezdésével megállapított szöveg.
+[^37]: A 11. § (5)–(6) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 75. § c) pontja hatályon kívül helyezte.

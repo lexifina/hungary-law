@@ -1,20 +1,20 @@
-## 9. §[^23]
+## 9. §[^27]
 
-10. §[^24] (1)[^25] Az Egészségügyi Szakképzési és Továbbképzési Tanács (a továbbiakban: Tanács)
+10. §[^28] (1)[^29] A miniszter a humánerőforrás-monitoringrendszer adatai alapján az egészségügyi humán erőforrás területi és szakma szerinti megoszlására figyelemmel, valamint a megelőző évben benyújtott jelentkezések száma és szakma szerinti megoszlása alapján meghatározza és minden év december 15-éig a 22. § szerinti szerv honlapján közzéteszi a következő évre vonatkozóan
 
-a) a pályakövetési rendszer tapasztalatai,
+a) egyetemi régiókra lebontva
 
-b) a munkaerő-piaci előrejelzések,
+aa) a rezidensi keretszámokat,
 
-c) a diplomás munkanélküliség helyzetének értékelése és
+ab) a 13. § (1) bekezdésében foglaltakra figyelemmel a központi gyakornoki képzés keretszámait a 2. § (4) bekezdés a) és b) pontja szerinti bontásban és
 
-d) a megelőző évben benyújtott jelölti jelentkezések száma és szakmánkénti megoszlása alapján
+ac) a költségtérítéses képzés keretszámait, valamint
 
-minden év október 30-áig javaslatot tesz a miniszternek az egyes megyék vonatkozásában azoknak a szakképesítéseknek a körére, amely szakképesítések hiányszakmának való minősítése indokolt, emellett a következő évre vonatkozóan a rezidensek egyetemi régiókra lebontott keretszámaira (a továbbiakban: rezidensi keretszám), és az egyes felsőoktatási intézmények vonatkozásában az általuk költségtérítéses képzésbe felvehető jelöltek keretszámára. Az egyes felsőoktatási intézmények régiójába tartozó megyék felsorolását az 1. melléklet tartalmazza.
+b) megyénkénti bontásban a hiányszakmák körét.
 
-(2) A miniszter minden év december 15-éig közzéteszi az (1) bekezdésben meghatározott, a következő évre vonatkozó keretszámokat és megyénként a hiányszakmák körét.
+(2)[^30]
 
-(3)[^26] A rezidensi keretszámok esetében külön kerülnek meghatározásra
+(3)[^31] A rezidensi keretszámok esetében külön kerülnek meghatározásra
 
 a) az általános orvos,
 
@@ -24,7 +24,8 @@ c) a gyógyszerész és
 
 d) a pszichológia
 
-[^23]: A 9. §-t a 72/2011. (IV. 29.) Korm. rendelet 20. § e) pontja hatályon kívül helyezte.
-[^24]: A 10. § a 72/2011. (IV. 29.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^25]: A 10. § (1) bekezdés nyitó szövegrésze a 447/2012. (XII. 29.) Korm. rendelet 73. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^26]: A 10. § (3) bekezdése a 137/2012. (VI. 29.) Korm. rendelet 50. §-ával megállapított szöveg.
+[^27]: A 9. §-t a 72/2011. (IV. 29.) Korm. rendelet 20. § e) pontja hatályon kívül helyezte.
+[^28]: A 10. § a 72/2011. (IV. 29.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^29]: A 10. § (1) bekezdése az 520/2013. (XII. 30.) Korm. rendelet 66. §-ával megállapított szöveg.
+[^30]: A 10. § (2) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 75. § a) pontja hatályon kívül helyezte.
+[^31]: A 10. § (3) bekezdése a 137/2012. (VI. 29.) Korm. rendelet 50. §-ával megállapított szöveg.

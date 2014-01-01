@@ -1,6 +1,6 @@
-## 25/A. §[^65]
+## 25/A. §[^84]
 
-1. melléklet a 122/2009. (VI. 12.) Korm. rendelethez[^66]
+1. melléklet a 122/2009. (VI. 12.) Korm. rendelethez[^85]
 
 Az egyes egészségügyi felsőoktatási intézmények régiójába tartozó megyék
 
@@ -52,5 +52,5 @@ Az egyes egészségügyi felsőoktatási intézmények régiójába tartozó meg
 
 4.4. Jász-Nagykun-Szolnok megye
 
-[^65]: A 25/A. §-t a 72/2011. (IV. 29.) Korm. rendelet 17. §-a iktatta be, hatályon kívül helyezte a 25. § (6) bekezdése.
-[^66]: Az 1. mellékletet a 72/2011. (IV. 29.) Korm. rendelet 18. §-a iktatta be.
+[^84]: A 25/A. §-t a 72/2011. (IV. 29.) Korm. rendelet 17. §-a iktatta be, hatályon kívül helyezte a 25. § (6) bekezdése.
+[^85]: Az 1. mellékletet a 72/2011. (IV. 29.) Korm. rendelet 18. §-a iktatta be.
