@@ -1,5 +1,3 @@
-## látogatja szülőjével a Gyerekházat.
-
 5/B. § (1) A Biztos Kezdet Gyerekházban munkaviszony vagy munkavégzésre irányuló egyéb jogviszony keretében kell foglalkoztatni
 
 a) heti 40 órában egy főt vezetői munkakörben és

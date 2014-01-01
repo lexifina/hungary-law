@@ -4,6 +4,8 @@
 
 ## I. Alapellátások
 
+## 3K64012N_0
+
 | Ellátási forma | Vezetői beosztás | Képesítés |
 
 | 1. Gyermekjóléti szolgáltatás | magasabb vezető/vezető | felsőfokú szociális alapvégzettség* pszichológus, pszichopedagógus, vagy mentálhigiénés szakember, gyermek- és ifjúságvédelmi tanácsadó, jogi szakokleveles családvédelmi tanácsadó, szociális igazgatásszervező oklevéllel rendelkező: óvodapedagógus, tanító, tanár, nevelő-tanár, pedagógiai előadó, gyógypedagógus, védőnő, teológus, hittanár, hittantanár, jogász, igazgatásszervező, vagy szociális menedzser oklevéllel rendelkező: pedagógus, védőnő |
@@ -136,17 +138,19 @@
 
 ## II. Szakellátások
 
+## 3K88751N_1
+
 | Ellátási forma | Intézményi munkakör | Képesítés |
 
-| 1. Nevelőszülői hálózat | nevelőszülői tanácsadó | felsőfokú szociális alapvégzettség, pedagógus, pszichológus, vagy mentálhigiénés szakember, gyermek- és ifjúságvédelmi tanácsadó oklevéllel rendelkező: védőnő, teológus, hittanár, hittantanár |
+| 1. Nevelőszülői hálózat | nevelőszülői tanácsadó | felsőfokú szociális alapvégzettség, pedagógus, pszichológus, vagy |
 
-|  | utógondozó, családgondozó | felsőfokú szociális alapvégzettség, pedagógus, pszichológus, pszichopedagógus, vagy mentálhigiénés szakember, gyermek- és ifjúságvédelmi tanácsadó oklevéllel rendelkező: védőnő, teológus, hittantanár, hittanár |
+|  |  | mentálhigiénés szakember, gyermek- és ifjúságvédelmi tanácsadó oklevéllel rendelkező: védőnő, teológus, hittanár, hittantanár |
 
-|  | hivatásos nevelőszülő | nevelőszülő (OKJ) |
+|  | nevelőszülő | nevelőszülő (OKJ) |
 
-|  | gondozó | csecsemő- és gyermekgondozó (OKJ), gyermek- és ifjúsági felügyelő II. (OKJ), dajka (OKJ), házi időszakos gyermekgondozó (OKJ), gyermek- és ifjúsági felügyelő (OKJ), óvodai dajka (OKJ) |
+|  | gyermekgondozó, a) ha a nevelőszülő hozzátartozója b) ha nem a nevelőszülő hozzátartozója | alapfokú iskolai végzettség csecsemő- és gyermekgondozó (OKJ), |
 
-|  | segédgondozó | alapfokú iskolai végzettség |
+|  |  | gyermek- és ifjúsági felügyelő II. (OKJ), dajka (OKJ), házi időszakos gyermekgondozó (OKJ), gyermek- és ifjúsági felügyelő (OKJ), óvodai dajka (OKJ) |
 
 |  | növendékügyi előadó | jogász, igazgatásszervező, humánszervező, személyügyi szervező |
 
@@ -156,9 +160,7 @@
 
 |  | gyermekvédelmi asszisztens | gyermekotthoni asszisztens (OKJ), gyermek- és ifjúsági felügyelő I. (OKJ), gyógypedagógiai asszisztens (OKJ), mentálhigiénés asszisztens (OKJ), pedagógiai asszisztens (OKJ), szociális asszisztens (OKJ) |
 
-|  | gyermekfelügyelő | gyermek- és ifjúsági felügyelő II. (OKJ), dajka (OKJ), gyermek- és ifjúsági felügyelő (OKJ), óvodai dajka (OKJ) |
-
-|  | utógondozó, családgondozó | felsőfokú szociális alapvégzettség, pedagógus, pszichológus, vagy mentálhigiénés szakember, gyermek- és ifjúságvédelmi tanácsadó, jogi szakokleveles családvédelmi tanácsadó oklevéllel rendelkező: védőnő, teológus, hittantanár, hittanár |
+|  | gyermekfelügyelő | gyermek- és ifjúsági felügyelő II. (OKJ), dajka (OKJ), gyermek- és ifjúsági felügyelő (OKJ), óvodai dajka (OKJ), gyógypedagógiai asszisztens (OKJ), gyermekotthoni asszisztens (OKJ), kisgyermekgondozó, -nevelő (OKJ) |
 
 |  | pszichológus | pszichológus, pszichiáter |
 
@@ -168,32 +170,48 @@
 
 |  | gyógypedagógus | gyógypedagógus |
 
-|  | fejlesztő pedagógus | felsőfokú pedagógus végzettség |
+|  | fejlesztő pedagógus | felsőfokú pedagógus végzettség, művészetterapeuta |
 
-| A 0-3 éves korosztály ellátására | kisgyermeknevelő | bölcsődei szakgondozó (OKJ), csecsemő- és kisgyermekgondozó (OKJ), csecsemő- és kisgyermeknevelő- gondozó (OKJ), csecsemő- és gyermeknevelő-gondozó (OKJ), csecsemő- és kisgyermeknevelő (BA), kisgyermekgondozó, -nevelő (OKJ), csecsemő- és gyermekgondozó (OKJ), vagy ezen képesítések valamelyikével rendelkező: védőnő, pedagógus, felsőfokú szociális alapvégzettségű személy, |
+| A 0-3 éves korosztály ellátására | kisgyermeknevelő | bölcsődei szakgondozó (OKJ), |
+
+|  |  | csecsemő- és kisgyermekgondozó (OKJ), |
+
+|  |  | csecsemő- és kisgyermeknevelő-gondozó (OKJ), |
+
+|  |  | csecsemő- és gyermeknevelő-gondozó (OKJ), |
+
+|  |  | csecsemő- és kisgyermeknevelő (BA), |
+
+|  |  | kisgyermekgondozó, -nevelő (OKJ), |
+
+|  |  | csecsemő- és gyermekgondozó (OKJ), vagy |
+
+|  |  | ezen képesítések valamelyikével rendelkező: védőnő, pedagógus, felsőfokú szociális alapvégzettségű személy |
 
 |  | nevelő | pedagógus |
 
-|  | utógondozó, családgondozó | felsőfokú szociális alapvégzettség, pedagógus, pszichológus, vagy mentálhigiénés szakember, gyermek- és ifjúságvédelmi tanácsadó, jogi szakokleveles családvédelmi tanácsadó oklevéllel rendelkező: védőnő, teológus, hittantanár, hittanár |
+| 3. Területi gyermekvédelmi szakszolgálat | pszichológus | pszichológus |
 
-| 3. Területi gyermekvédelmi szakszolgálat | pszichológus gyógypedagógus | pszichológus gyógypedagógus |
+|  | gyógypedagógus | gyógypedagógus |
 
 |  | orvos | gyermek-szakorvos |
 
 |  | pszichiáter | pszichiáter-szakorvos |
 
-|  | utógondozó, családgondozó | felsőfokú szociális alapvégzettség, pedagógus, pszichológus, vagy mentálhigiénés szakember, gyermek- és ifjúságvédelmi tanácsadó, jogi szakokleveles családvédelmi tanácsadó oklevéllel rendelkező: védőnő, teológus, hittantanár, hittanár |
+|  | örökbefogadási tanácsadó | felsőfokú szociális alapvégzettség, pedagógus, pszichológus, jogász vagy |
 
-|  | örökbefogadási tanácsadó | felsőfokú szociális alapvégzettség, pedagógus, pszichológus, jogász vagy mentálhigiénés szakember, gyermek- és ifjúságvédelmi tanácsadó oklevéllel rendelkező: védőnő, teológus, hittanár, hittantanár |
+|  |  | mentálhigiénés szakember, gyermek- és ifjúságvédelmi tanácsadó oklevéllel rendelkező: védőnő, teológus, hittanár, hittantanár |
 
-|  | eseti gondnok, vagyonkezelő gondnok, hivatásos gyám | jogász; igazgatásszervező, felsőfokú szociális alapvégzettség, pedagógus |
+|  | gyermekvédelmi gyám | jogász, igazgatásszervező, felsőfokú szociális alapvégzettség, pedagógus, |
 
-|  | gyámi, gondozói tanácsadó | felsőfokú szociális alapvégzettség, pedagógus, jogász, pszichológus; vagy mentálhigiénés szakember, gyermek- és ifjúságvédelmi tanácsadó, jogi szakokleveles családvédelmi tanácsadó oklevéllel rendelkező: védőnő, teológus, hittanár, hittantanár |
+|  |  | pszichológus; vagy mentálhigiénés szakember, gyermek- és ifjúságvédelmi tanácsadó, jogi szakokleveles családvédelmi tanácsadó oklevéllel rendelkező: védőnő, teológus, hittanár, hittantanár |
 
 |  | jogász | jogász |
 
+|  | elhelyezési ügyintéző | jogász, igazgatásszervező, felsőfokú szociális alapvégzettség, pedagógus, pszichológus; vagy mentálhigiénés szakember, gyermek- és ifjúságvédelmi tanácsadó, jogi szakokleveles családvédelmi tanácsadó oklevéllel rendelkező: védőnő, teológus, hittanár, hittantanár |
+
 |  | gyermekvédelmi ügyintéző | szociális gyermek- és ifjúságvédelmi ügyintéző (OKJ), szociális asszisztens (OKJ) |
 
-3. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^446]
+3. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^509]
 
-[^446]: A 3. számú melléklet a 46/2003. (VIII. 8.) ESZCSM rendelet 97. §-ával megállapított szöveg.
+[^509]: A 3. számú melléklet a 46/2003. (VIII. 8.) ESZCSM rendelet 97. §-ával megállapított szöveg.

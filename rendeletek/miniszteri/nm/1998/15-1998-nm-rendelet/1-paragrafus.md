@@ -6,7 +6,7 @@
 
 (2) E rendelet alkalmazásában személyes gondoskodáson a Gyvt. 15. § (2) bekezdésében meghatározott gyermekjóléti alapellátást (a továbbiakban: alapellátás), valamint a Gyvt. 15. § (3) bekezdésében meghatározott gyermekvédelmi szakellátást (a továbbiakban: szakellátás) kell érteni.
 
-(3)[^2] E rendeletben foglaltakat kell alkalmazni az egyházi és nem állami szerv által nyújtott személyes gondoskodásra is.
+(3)[^2] E rendeletben foglaltakat kell alkalmazni az egyházi fenntartó és a nem állami fenntartó által nyújtott személyes gondoskodásra is.
 
 (4) A Gyvt. 5. §-ában foglalt értelmező rendelkezések e rendelet vonatkozásában is irányadóak.
 
@@ -15,5 +15,5 @@
 (6)[^3] E rendelet alkalmazásában gyámhivatal: a járási (fővárosi kerületi) gyámhivatal.
 
 [^1]: Az 1. § (1) bekezdése a 31/2009. (XII. 22.) SZMM rendelet 21. § a) pontja szerint módosított szöveg.
-[^2]: Az 1. § (3) bekezdése a 77/2011. (XII. 30.) NEFMI rendelet 13. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § (3) bekezdése a 83/2013. (XII. 29.) EMMI rendelet 18. § (1) bekezdés a) pontja szerint módosított szöveg.
 [^3]: Az 1. § (6) bekezdését a 11/2013. (II. 7.) EMMI rendelet 42. §-a iktatta be.

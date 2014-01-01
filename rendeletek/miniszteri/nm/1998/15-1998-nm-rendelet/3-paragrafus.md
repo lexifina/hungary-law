@@ -12,7 +12,7 @@ d) a tizenkét férőhely feletti gyermekotthonnál, illetve speciális gyermeko
 
 e) a területi gyermekvédelmi szakszolgálatnál
 
-## betöltő személyek – a (3) bekezdésben foglaltak figyelembevételével – szociális szakvizsga letételére kötelezettek. Ezek a követelmények a bölcsődei igazgatóságoknál és bölcsődék egyesített intézményeinél csak a magasabb vezetőre vonatkoznak.
+betöltő személyek – a (3) bekezdésben foglaltak figyelembevételével – szociális szakvizsga letételére kötelezettek. Ezek a követelmények a bölcsődei igazgatóságoknál és bölcsődék egyesített intézményeinél csak a magasabb vezetőre vonatkoznak.
 
 (3)[^11] A (2) bekezdésben felsorolt személyes gondoskodást nyújtó gyermekjóléti, gyermekvédelmi intézményekben magasabb vezetői, vezetői beosztást betöltő személy a megbízást követő két éven belül köteles a szociális szakvizsgát letenni. E határidőt követően szociális szakvizsgával nem rendelkező személy magasabb vezetői, vezetői beosztásban nem foglalkoztatható.
 

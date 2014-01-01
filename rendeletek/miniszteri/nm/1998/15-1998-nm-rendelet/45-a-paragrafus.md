@@ -1,4 +1,4 @@
-45/A. §[^164] (1) A bölcsődében április 21-e, vagy ha az heti pihenőnapra vagy munkaszüneti napra esik, az azt követő legközelebbi munkanap, minden évben nevelés-gondozás nélküli munkanap.
+45/A. §[^170] (1) A bölcsődében április 21-e, vagy ha az heti pihenőnapra vagy munkaszüneti napra esik, az azt követő legközelebbi munkanap, minden évben nevelés-gondozás nélküli munkanap.
 
 (2) Az (1) bekezdés szerinti nevelés-gondozás nélküli munkanap célja a bölcsődében dolgozók szakmai fejlesztése.
 
@@ -6,4 +6,4 @@
 
 (4) A szülőket március 1-jéig tájékoztatni kell a nevelés-gondozás nélküli munkanapról és a nevelés-gondozás nélküli munkanapon a gyermek felügyelete és az étkeztetés biztosítása iránti igény bejelentésének lehetőségéről.
 
-[^164]: A 45/A. §-t a 49/2013. (VII. 10.) EMMI rendelet 10. §-a iktatta be.
+[^170]: A 45/A. §-t a 49/2013. (VII. 10.) EMMI rendelet 10. §-a iktatta be.

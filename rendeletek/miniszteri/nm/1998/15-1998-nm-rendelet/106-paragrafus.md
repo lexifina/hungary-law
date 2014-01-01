@@ -1,21 +1,23 @@
 ## Az ellátás megszüntetése
 
-106. § (1) A nevelőszülő a gyámhivatalnak a gondozott gyermek ideiglenes hatályú elhelyezését, átmeneti, illetve tartós nevelését megszüntető határozata alapján az ellátás nyújtását megszünteti, és a gondozott gyermeket a határozatban megjelölt személynek átadja. Az átadás megtörténtét a gyermeket átvevő személy aláírásával igazolja. Az ellátás megszűnésének időpontjáról a nevelőszülő haladéktalanul értesíti a működtetőt.
+106. § (1)[^317] A nevelőszülő a gyámhivatalnak a gondozott gyermek ideiglenes hatályú elhelyezését, nevelésbe vételét megszüntető vagy megszűnését megállapító határozata alapján megszünteti az ellátás nyújtását, és a gondozott gyermeket átadja a határozatban megjelölt személynek. Az átadás megtörténtét a gyermeket átvevő személy az aláírásával igazolja. Az ellátás megszüntetésének időpontjáról a nevelőszülő haladéktalanul értesíti a működtetőt.
 
 (2) Az ellátás megszüntetéséről az időpont és a gondozott gyermeket átvevő személy megjelölésével a nevelőszülői hálózat működtetője haladéktalanul értesíti
 
 a) a gyámhivatalt,
 
-b)[^295] a szakszolgálatot az 5. számú melléklet szerinti adatlapon,
+b)[^318] a szakszolgálatot az 5. számú melléklet szerinti adatlapon,
 
-c) a gyermek gyámját, illetve vagyonkezelő gondnokát,
+c)[^319] a gyermek gyermekvédelmi gyámját,
 
 d) a szülő lakóhelye szerinti gyermekjóléti szolgálatot,
 
-e)[^296] a pártfogó felügyelet alatt álló gyermek pártfogó felügyelőjét.
+e)[^320] a pártfogó felügyelet alatt álló gyermek pártfogó felügyelőjét.
 
-(3)[^297] A Gyvt. 66/E. §-a (1) bekezdésének d) pontjában foglalt esetben a jogviszony megszűnéséről a működtető írásban értesíti a nevelőszülőt és – ha nem a szakszolgálat a működtető – a gyermekvédelmi szakszolgálatot, aki a változást feltünteti a férőhely-nyilvántartásban.
+(3)[^321] A Gyvt. 66/D. § (1) bekezdés d) pontjában foglalt esetben a működtető a jogviszony megszűnéséről írásban értesíti a nevelőszülőt és – ha nem a szakszolgálat a működtető – a gyermekvédelmi szakszolgálatot, amely a változást a férőhely-nyilvántartásban feltünteti.
 
-[^295]: A 106. § (2) bekezdésének b) pontja a 46/2003. (VIII. 8.) ESZCSM rendelet 63. §-ával megállapított szöveg.
-[^296]: A 106. § (2) bekezdésének e) pontja a 46/2003. (VIII. 8.) ESZCSM rendelet 63. §-ával megállapított szöveg.
-[^297]: A 106. § (3) bekezdése a 46/2003. (VIII. 8.) ESZCSM rendelet 99. § (2) bekezdésének 18. pontja szerint módosított szöveg.
+[^317]: A 106. § (1) bekezdése a 26/2013. (III. 29.) EMMI rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^318]: A 106. § (2) bekezdésének b) pontja a 46/2003. (VIII. 8.) ESZCSM rendelet 63. §-ával megállapított szöveg.
+[^319]: A 106. § (2) bekezdés c) pontja a 26/2013. (III. 29.) EMMI rendelet 13. § (2) bekezdésével megállapított szöveg.
+[^320]: A 106. § (2) bekezdésének e) pontja a 46/2003. (VIII. 8.) ESZCSM rendelet 63. §-ával megállapított szöveg.
+[^321]: A 106. § (3) bekezdése a 83/2013. (XII. 29.) EMMI rendelet 11. §-ával megállapított szöveg.

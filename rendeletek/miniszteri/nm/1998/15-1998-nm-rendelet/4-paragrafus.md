@@ -1,4 +1,4 @@
-4. §[^19] (1)[^20] A módszertani feladatokat ellátó Szociális és Gyermekvédelmi Főigazgatóság (a továbbiakban: Főigazgatóság) a Szociális és Gyermekvédelmi Főigazgatóságról szóló kormányrendeletben foglaltak szerint segíti illetékességi területén a gyermekjóléti és gyermekvédelmi szolgáltatók munkáját, kivéve azon egyházi fenntartó által fenntartott nevelőszülői hálózatok és gyermekotthonok munkáját, amelyek tekintetében a gyermekek és az ifjúság védelméért felelős miniszter (a továbbiakban: miniszter) a Gyvt. 96. § (8) bekezdése alapján egyházi módszertani intézményt jelölt ki, vagy amelyek tekintetében a Gyvt. 96. § (13) bekezdése alapján más egyház kijelölt módszertani intézménye látja el a módszertani feladatokat.
+4. §[^19] (1)[^20] A módszertani feladatokat ellátó Szociális és Gyermekvédelmi Főigazgatóság (a továbbiakban: Főigazgatóság) a Szociális és Gyermekvédelmi Főigazgatóságról szóló kormányrendeletben foglaltak szerint segíti illetékességi területén a gyermekjóléti és gyermekvédelmi szolgáltatók munkáját, kivéve azon egyházi fenntartó által fenntartott nevelőszülői hálózatok és gyermekotthonok munkáját, amelyek tekintetében a gyermekek és az ifjúság védelméért felelős miniszter (a továbbiakban: miniszter) a Gyvt. 96. § (8) bekezdése alapján egyházi módszertani intézményt jelölt ki, vagy amelyek tekintetében a Gyvt. 96. § (13) bekezdése alapján más bevett egyház kijelölt módszertani intézménye látja el a módszertani feladatokat.
 
 (2)[^21] A Főigazgatóság – a működést engedélyező szerv kirendelése alapján – a gyermekjóléti és gyermekvédelmi szolgáltató tevékenység engedélyezéséről, valamint a gyermekjóléti és gyermekvédelmi vállalkozói engedélyről szóló kormányrendeletben foglaltak szerint szakértőként
 
@@ -6,7 +6,7 @@ a) véleményezi a gyermekjóléti és gyermekvédelmi szolgáltatók szakmai pr
 
 b) ellátja a kijelölt egyházi módszertani intézmény feletti szakmai ellenőrzést.
 
-(3)[^22] A kijelölt egyházi módszertani intézmény a működést engedélyező szerv kirendelése alapján, a Főigazgatóság módszertani útmutatójában meghatározott szakmai szempontrendszer figyelembevételével, szakértőként véleményezi az egyháza és – a (10) bekezdésben foglalt megállapodás alapján – más egyház által fenntartott nevelőszülői hálózat és gyermekotthon szakmai programját, valamint részt vesz azok hatósági ellenőrzésében.
+(3)[^22] A kijelölt egyházi módszertani intézmény a működést engedélyező szerv kirendelése alapján, a Főigazgatóság módszertani útmutatójában meghatározott szakmai szempontrendszer figyelembevételével, szakértőként véleményezi az egyháza és – a (10) bekezdésben foglalt megállapodás alapján – más bevett egyház által fenntartott nevelőszülői hálózat és gyermekotthon szakmai programját, valamint részt vesz azok hatósági ellenőrzésében.
 
 (3a)[^23] A Főigazgatóság a (2) bekezdés a) és b) pontja szerinti, a kijelölt egyházi módszertani intézmény a (3) bekezdés szerinti ellenőrzésen tapasztaltakról szakértői véleményt készít.
 
@@ -39,9 +39,9 @@ b) a jóváhagyásától számított tizenöt napon belül tájékoztatásul meg
 (11)[^32] A kijelölt egyházi módszertani intézmény és a Főigazgatóság a módszertani feladatok ellátása érdekében egymással együttműködnek, amelynek keretében rendszeresen szakmai egyeztetést folytatnak a módszertani feladatok ellátása során szerzett tapasztalataikról, valamint közös szakmai programokat, rendezvényeket szerveznek, illetve részt vesznek egymás szakmai programjain, rendezvényein.
 
 [^19]: A 4. § a 46/2003. (VIII. 8.) ESZCSM rendelet 4. §-ával megállapított szöveg.
-[^20]: A 4. § (1) bekezdése a 49/2013. (VII. 10.) EMMI rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^20]: A 4. § (1) bekezdése a 49/2013. (VII. 10.) EMMI rendelet 1. § (1) bekezdésével megállapított, a 83/2013. (XII. 29.) EMMI rendelet 18. § (1) bekezdés b) pontja szerint módosított szöveg.
 [^21]: A 4. § (2) bekezdése a 49/2013. (VII. 10.) EMMI rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^22]: A 4. § (3) bekezdése a 49/2013. (VII. 10.) EMMI rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^22]: A 4. § (3) bekezdése a 49/2013. (VII. 10.) EMMI rendelet 1. § (1) bekezdésével megállapított, a 83/2013. (XII. 29.) EMMI rendelet 18. § (1) bekezdés b) pontja szerint módosított szöveg.
 [^23]: A 4. § (3a) bekezdését az 58/2011. (X. 21.) NEFMI rendelet 1. § (2) bekezdése iktatta be, szövege a 49/2013. (VII. 10.) EMMI rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^24]: A 4. § (3b) bekezdését a 77/2011. (XII. 30.) NEFMI rendelet 2. §-a iktatta be, nyitó szövegrésze a 49/2013. (VII. 10.) EMMI rendelet 24. § (1) bekezdés a) pontja szerint módosított szöveg.
 [^25]: A 4. § (4) bekezdése az 58/2011. (X. 21.) NEFMI rendelet 6. § a) pontja szerint módosított szöveg.

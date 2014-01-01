@@ -1,34 +1,31 @@
-## 152. § Ha a szakszolgálat azt tapasztalja, hogy a gyám a kötelességeit nem teljesíti, vagy nem megfelelően teljesíti, javaslatot tehet a gyámhivatalnak a gyámi jogkör korlátozására, illetve a gyám felmentésére vagy elmozdítására.
+## 152/A. §[^479] A gyermekvédelmi gyám – a kirendelése esetén – munkakörében ellátja az eseti gondnoki, vagyonkezelő eseti gondnoki feladatokat. A gyermekvédelmi gyám egyidejűleg együttesen legfeljebb harmincöt gyermek tekintetében láthat el gyermekvédelmi gyámi, eseti gondnoki, vagyonkezelő eseti gondnoki feladatokat, azzal, hogy egyidejűleg legfeljebb harminc gyermeknek lehet a gyermekvédelmi gyámja.
 
-## Kapcsolattartás, családgondozás, utógondozás[^422]
+## Kapcsolattartás, családgondozás[^480]
 
-153. §[^423] (1) A szakszolgálat a nevelőszülőnél, a gyermekotthonban és a bentlakásos szociális intézményben elhelyezett gyermek kapcsolattartásának elősegítése, támogatása érdekében – a gyámhivatal vagy a bíróság döntésének megfelelően –
+153. §[^481] (1) A nevelőszülőnél, a gyermekotthonban és a bentlakásos szociális intézményben elhelyezett gyermek kapcsolattartásának elősegítése, támogatása érdekében – a gyámhivatal vagy a bíróság döntésének megfelelően –
 
-a) a gyermek gyámját, gondozóját segíti a kapcsolattartás során felmerülő problémák megoldásában,
+a) a gyermekvédelmi gyám segíti
 
-b) a gyermeket segíti a kapcsolattartással összefüggő problémái megoldásában, szükség esetén pszichológus bevonásával,
+aa) a gyermek gondozóját a kapcsolattartás során felmerülő problémák megoldásában,
 
-c) felügyelt kapcsolattartás esetén,
+ab) a gyermeket a kapcsolattartással összefüggő problémái megoldásában, szükség esetén pszichológus bevonásával,
 
-ca) a kapcsolattartás kulturált és zavartalan lebonyolításához helyszínt és a felügyeletet ellátó szakembert biztosít, így különösen gondoskodik a családgondozó, a gyámi gondozói tanácsadó, a hivatásos gyám jelenlétéről,
+b) a szakszolgálat felügyelt kapcsolattartás esetén
 
-cb) ha a kapcsolattartásra nem a gyermek gondozásának helyén kerül sor, a 8. számú melléklet szerinti kapcsolattartási naplót vezeti,
+ba) a kapcsolattartás kulturált és zavartalan lebonyolításához helyszínt és a felügyeletet ellátó szakembert biztosít, így különösen gondoskodik a gyermekvédelmi gyám, vagy a gyermekvédelmi szakértői bizottság vezetője, illetve családgondozója jelenlétéről,
 
-d) a kapcsolattartásról, a szülő-gyermek kapcsolat alakulásáról – a nevelésbe vétel felülvizsgálata érdekében végzett helyzetértékelés keretében, indokolt esetben soron kívül – tájékoztatja a gyámhivatalt.
+bb) ha a kapcsolattartásra nem a gyermek gondozásának helyén kerül sor, gondoskodik arról, hogy a felügyeletet ellátó szakember vezesse a 8. számú melléklet szerinti kapcsolattartási naplót.
 
-(2) Ha a gondozott gyermeket nem gyermekotthonban vagy nevelőszülőnél helyezték el, a szakszolgálat családgondozója a személyes segítő munka során
+(2) A gyermekvédelmi gyám
 
 a) segíti a gyermeket a családi, lakóhelyi és iskolai környezetbe történő visszailleszkedésben,
 
 b) közreműködik a gyermek és szülei kapcsolatának rendezésében,
 
-c) segíti a gyermeket (fiatal felnőttet) önálló életvitelének kialakításában.
+c) segíti a gyermeket önálló életvitelének kialakításában.
 
-(3) A (2) bekezdés szerinti feladatok teljesítése során a szakszolgálat családgondozója és a gyermekjóléti szolgálat együttműködnek.
+(3) A (2) bekezdés szerinti feladatok teljesítése során a gyermekvédelmi gyám és a gyermekjóléti szolgálat együttműködnek.
 
-(4) A szakszolgálat utógondozója a gyámhivatal kirendelése alapján ellátja a fiatal felnőtt utógondozását.
-
-(5) Ha a szakszolgálat az utógondozói ellátásban részesülő fiatal felnőtt számára külső férőhelyen biztosít lakhatást, a külső férőhely vonatkozásában a 124. § (9) bekezdésében foglaltak az irányadóak.
-
-[^422]: A 153. §-t megelőző alcím a 28/2010. (XII. 30.) NEFMI rendelet 21. §-ával megállapított szöveg.
-[^423]: A 153. § a 28/2010. (XII. 30.) NEFMI rendelet 22. §-ával megállapított szöveg.
+[^479]: A 152/A. §-t a 83/2013. (XII. 29.) EMMI rendelet 13. §-a iktatta be.
+[^480]: A 153. §-t megelőző alcím a 26/2013. (III. 29.) EMMI rendelet 33. §-ával megállapított szöveg.
+[^481]: A 153. § a 26/2013. (III. 29.) EMMI rendelet 33. §-ával megállapított szöveg.

@@ -1,10 +1,10 @@
-## 170. §[^443] A 3/A. és a 3/B. § rendelkezéseit alkalmazni kell a szolgáltatói nyilvántartásra vonatkozó, a nevelőszülői foglalkoztatási jogviszony bevezetésével összefüggő gyermekvédelmi tárgyú és a szociális ágazatba tartozó egyes miniszteri rendeletek módosításáról szóló 83/2013. (XII. 29.) EMMI rendelet (a továbbiakban: Mód2. rendelet) hatálybalépésekor folyamatban lévő hatósági eljárásokban is.
+1. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^507]
 
-1. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^444]
-
-## A gyermekjóléti és gyermekvédelmi személyes gondoskodás formáinak szakmai létszám irányszámai és létszámminimum normái
+A gyermekjóléti és gyermekvédelmi személyes gondoskodás formáinak szakmai létszám irányszámai és létszámminimum normái
 
 I. Alapellátások
+
+## 3K88751M_0
 
 | Ellátás | Munkakör/fő |
 
@@ -14,9 +14,7 @@ I. Alapellátások
 
 |  | – gondozotti létszám: a gondozási-nevelési terv szerint, adott időszakban egyidejűleg családgondozásban részesülő 45 gyermek vagy 25 család |  |
 
-| b) | Önálló gyermekjóléti szolgálat vagy a gyermekjóléti szolg. feladatait is ellátó családsegítő szolgálat, illetve több célú intézmény önálló szakmai egysége (3000 gyermek) | családgondozó (általános gyermekjóléti szolgáltatások) 3 fő |
-
-|  | – gondozotti létszám: 45 gyermek vagy 25 család |  |
+| b) | Önálló gyermekjóléti szolgálat vagy a gyermekjóléti szolgálat feladatait is ellátó családsegítő szolgálat, illetve több célú intézmény önálló szakmai egysége (3000 gyermek) | családgondozó* (általános gyermekjóléti szolgáltatások) - gondozotti létszám: 45 gyermek vagy 25 család | 3 fő |
 
 | c) | Önálló gyermekjóléti szolgálat vagy a gyermekjóléti szolg. feladatait is ellátó családsegítő szolgálat, illetve több célú intézmény önálló szakmai egysége (5000 gyermek) | intézményvezető/szakmai egységvezető 1 fő |
 
@@ -58,21 +56,9 @@ I. Alapellátások
 
 | 2. | Bölcsődei ellátás | kisgyermeknevelő | 2 fő |
 
-|  | Gyermekcsoportonként (max. 12 fő, 2 évesnél idősebb gyermekek csoportjában max. 14 fő, integrált csoportban max. 10 fő, kizárólag sajátos nevelési igényű gyermekeket ellátó csoportban max. 6 fő) |  |  |
+|  | Gyermekcsoportonként (max. 12 fő, 2 évesnél idősebb gyermekek csoportjában max. 14 fő, integrált csoportban max. 10 fő, kizárólag sajátos nevelési igényű gyermekeket ellátó csoportban max. 6 fő) | orvos | havi 4 óra |
 
-|  | Bölcsődénként | orvos | havi 4 óra |
-
-|  |  | intézményvezető/vezető | 1 fő |
-
-|  |  | gazdasági vezető, élelmezésvezető, tejkonyhavezető (létszámuk fenntartói döntés alapján kerül meghatározásra) | 1 fő |
-
-|  |  | 5 vagy több gyermekcsoport esetén további |  |
-
-|  |  | kisgyermeknevelő | 2 fő |
-
-|  |  | hetes bölcsődében éjszakai szolgálatot teljesítő | 2 fő |
-
-|  |  | kisgyermeknevelő |  |
+|  | Bölcsődénként | intézményvezető/vezető gazdasági vezető, élelmezésvezető, tejkonyhavezető (létszámuk fenntartói döntés alapján kerül meghatározásra) 5 vagy több gyermekcsoport esetén további kisgyermeknevelő hetes bölcsődében éjszakai szolgálatot teljesítő kisgyermeknevelő | 1 fő 1 fő 2 fő 2 fő |
 
 |  | sajátos nevelési igényű gyermekeket is ellátó bölcsődében | gyógypedagógus, gyógytornász, konduktor, gyógypedagógiai asszisztens (létszámuk fenntartói döntés alapján kerül megállapításra) |  |
 
@@ -82,7 +68,7 @@ I. Alapellátások
 
 |  | Családi napközi hálózat | családi napközis koordinátor (létszáma fenntartói döntés alapján kerül megállapításra) |  |
 
-| 3/a. | Családi gyermekfelügyelet – az ellátható gyermekek száma max. 3 fő – családi napközit működtetők felkészítő tanfolyamával [29/2003. (V. 20.) ESZCSM rendelet] rendelkező személy nyújthat családi gyermekfelügyelet szolgáltatást |  |  |
+| 3/a. | Családi gyermekfelügyelet – az ellátható gyermekek száma max. 3 fő – családi napközit működtetők felkészítő tanfolyamával [29/2003. (V. 20.) ESZCSM rendelet] rendelkező személy nyújthat családi gyermekfelügyelet szolgáltatást |  |  |
 
 | 4. | Házi gyermekfelügyelet | nevelő, vagy szakgondozó (hivatásos, társadalmi), vagy gondozó, vagy segédgondozó |
 
@@ -122,7 +108,8 @@ I. Alapellátások
 
 |  |  | jogász heti 5 óra |
 
+## * Közülük 1 családgondozó ellátja az intézményvezetői vagy szakmai egység vezetői feladatokat
+
 II. Szakellátások
 
-[^443]: A 170. §-t a 83/2013. (XII. 29.) EMMI rendelet 14. §-a iktatta be.
-[^444]: Az 1. számú melléklet a 46/2003. (VIII. 8.) ESZCSM rendelet 97. §-ával megállapított, a 31/2009. (XII. 22.) SZMM rendelet 18. § (1) bekezdése, a 28/2010. (XII. 30.) NEFMI rendelet 26. § (1) bekezdés a) pontja, a 77/2011. (XII. 30.) NEFMI rendelet 12. § (1) bekezdése, a 49/2013. (VII. 10.) EMMI rendelet 22. § (1) bekezdése szerint módosított szöveg.
+[^507]: Az 1. számú melléklet a 46/2003. (VIII. 8.) ESZCSM rendelet 97. §-ával megállapított, a 31/2009. (XII. 22.) SZMM rendelet 18. § (1) bekezdése, a 28/2010. (XII. 30.) NEFMI rendelet 26. § (1) bekezdés a) pontja, a 77/2011. (XII. 30.) NEFMI rendelet 12. § (1) bekezdése, a 49/2013. (VII. 10.) EMMI rendelet 22. § (1) és (3) bekezdése, a 83/2013. (XII. 29.) EMMI rendelet 16. §-a és 17. § (1) bekezdése szerint módosított szöveg.

@@ -1,6 +1,6 @@
-6. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^449]
+6. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^512]
 
-## A gyermekotthonban minimálisan biztosítandó lakóterület-igény
+A gyermekotthonban minimálisan biztosítandó lakóterület-igény
 
 I. 0–3 éves korosztály részére csoportonként
 
@@ -14,4 +14,4 @@ II. 3 évnél idősebb korosztály részére gyermekenként 12 m2
 
 III. Külső férőhely esetén fiatal felnőttenként 6 m2
 
-[^449]: A 6. számú mellékletet a 46/2003. (VIII. 8.) ESZCSM rendelet 97. §-a iktatta be.
+[^512]: A 6. számú mellékletet a 46/2003. (VIII. 8.) ESZCSM rendelet 97. §-a iktatta be.

@@ -2,25 +2,22 @@
 
 ## A TERÜLETI GYERMEKVÉDELMI SZAKSZOLGÁLTATÁS ÉS A SZAKSZOLGÁLAT
 
-## 136. § A személyes gondoskodást nyújtó gyermekvédelmi szakellátás keretében szakszolgáltatásként biztosítani kell
+## 136. §[^407] A személyes gondoskodást nyújtó gyermekvédelmi szakellátás keretében szakszolgáltatásként biztosítani kell
 
 a) a gondozási hely meghatározásával,
 
-b) az ideiglenes elhelyezési feladatot ellátók kijelölésével,
+b) az ideiglenes elhelyezési feladatot ellátók kijelölésével, működtetésével,
 
-c) a nevelőszülői hálózattal,
+c) az örökbefogadás szakmai előkészítésével,
 
-d) az örökbefogadás szakmai előkészítésével,
+d) az ideiglenes hatállyal elhelyezett és a nevelésbe vett gyermek gyámságával, gondnokságával,
 
-e) a gondozott gyermek gondozásával,
+e) a szaktanácsadással,
 
-f)[^374] egyes nevelésbe vett gyermek gyámságával, gondnokságával, a Gyvt. 80. §-ának (3) bekezdése szerinti hivatásos gyámsággal,
+f) a Gyvt.-ben előírt nyilvántartások vezetésével,
 
-g) a szaktanácsadással,
+g) a megyei bizottság működtetésével
 
-h) a nyilvántartással,
+kapcsolatos feladatok ellátását.
 
-i)[^375] a megyei bizottság működtetésével
-
-[^374]: A 136. § f) pontja a 46/2003. (VIII. 8.) ESZCSM rendelet 80. §-ával megállapított szöveg.
-[^375]: A 136. § i) pontját a 46/2003. (VIII. 8.) ESZCSM rendelet 80. §-a iktatta be.
+[^407]: A 136. § a 26/2013. (III. 29.) EMMI rendelet 18. §-ával megállapított szöveg.

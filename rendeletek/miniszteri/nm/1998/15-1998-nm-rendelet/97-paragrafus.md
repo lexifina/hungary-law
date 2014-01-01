@@ -1,8 +1,9 @@
-97. § (1) A felkészítő tanfolyamot eredményesen elvégző személyt, mint nevelőszülői férőhelyet biztosítót – a működtető és a jelentkező személy közös kérelmére – a szakszolgálat nyilvántartásba veszi. A több megyére kiterjedően ellátást nyújtó működtető több szakszolgálattól is kérheti a nevelőszülő nyilvántartásba vételét.
+97. § (1)[^292] A nevelőszülői foglalkoztatási jogviszonyban álló személyt, mint nevelőszülői férőhelyet biztosítót – a működtető és a jelentkező személy közös kérelmére – a szakszolgálat nyilvántartásba veszi. A több megyére kiterjedően ellátást nyújtó működtető több szakszolgálattól is kérheti a nevelőszülő nyilvántartásba vételét.
 
-(2)[^277] Amennyiben a szakszolgálat az elhelyezési javaslatában a nevelőszülőnél történő elhelyezést indítványozza a gyámhivatalnak, a javaslat megküldésével egyidőben a működtető megállapodást [Gyvt. 66/A. § (1) bek.] köt a nevelőszülői feladatokra alkalmas személlyel.
+(2)[^293] A szakszolgálat olyan nevelőszülőnél történő elhelyezésre tehet a gyámhivatalnak javaslatot, akivel a nevelőszülői hálózatot működtető a Gyvt. 66/B. § (1) bekezdése szerinti keret-megállapodást kötött. A gyámhivatal elhelyezési döntését és a hatóság ideiglenes hatályú elhelyezési döntését követően a működtető haladéktalanul a Gyvt. 66/B. § (1) bekezdése szerinti kiegészítő megállapodást köt a nevelőszülővel.
 
-(3)[^278] Amennyiben a gyámhivatal a nevelőszülőnél további gyermeket helyez el, a működtető az ideiglenes hatályú elhelyezésről, illetve a nevelésbe vételről szóló határozat kézhezvételét követően – a Gyvt. rendelkezése szerint – módosítja a nevelőszülővel kötött megállapodást.
+(3)[^294]
 
-[^277]: A 97. § (2) bekezdése a 46/2003. (VIII. 8.) ESZCSM rendelet 99. § (2) bekezdésének 14. pontja szerint módosított szöveg.
-[^278]: A 97. § (3) bekezdése a 46/2003. (VIII. 8.) ESZCSM rendelet 99. § (2) bekezdésének 15. pontja szerint módosított szöveg.
+[^292]: A 97. § (1) bekezdése a 83/2013. (XII. 29.) EMMI rendelet 7. §-ával megállapított szöveg.
+[^293]: A 97. § (2) bekezdése a 83/2013. (XII. 29.) EMMI rendelet 7. §-ával megállapított szöveg.
+[^294]: A 97. § (3) bekezdését a 83/2013. (XII. 29.) EMMI rendelet 19. § b) pontja hatályon kívül helyezte.

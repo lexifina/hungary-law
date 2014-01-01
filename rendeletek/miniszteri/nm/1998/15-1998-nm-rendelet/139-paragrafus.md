@@ -1,7 +1,8 @@
 ## Egyéni elhelyezési terv készítése
 
-139. § (1)[^388] A szakszolgálat a gyámhivatal megkeresésére, a gyermekvédelmi nyilvántartás megfelelő adatlapját kitöltve elkészíti – a szülő, a gyermek, valamint a gondozási hely, illetve a gyermek lakóhelye szerinti gyermekjóléti szolgálat családgondozója és a hivatásos gyám bevonásával – a gyermek további életútjának alakítására vonatkozó célkitűzéseket és a szükséges intézkedéseket magában foglaló egyéni elhelyezési tervet.
+139. § (1)[^422] A szakszolgálat a gyámhivatal megkeresésére, a gyermekvédelmi nyilvántartás megfelelő adatlapját kitöltve elkészíti – a szülő, a gyermek, valamint a gondozási hely, illetve a gyermek lakóhelye szerinti gyermekjóléti szolgálat családgondozója és a gyermekvédelmi gyám bevonásával – a gyermek további életútjának alakítására vonatkozó célkitűzéseket és a szükséges intézkedéseket magában foglaló egyéni elhelyezési tervet.
 
-(2) Az elhelyezési terv elkészítésére a szakszolgálat értekezletet hív össze, amelyre meghívja az (1) bekezdésben felsorolt személyeket. A szakszolgálat, illetve a meghívott személyek további a Gyvt. 17. § (1) bekezdésében meghatározott szervezetek képviselőit is meghívhatják, illetve olyan további személyeket, akiket az elhelyezési terv megvalósítása iránt, illetve, akik a megvalósításhoz hatékony segítséget nyújthatnak.
+(2)[^423]
 
-[^388]: A 139. § (1) bekezdése a 46/2003. (VIII. 8.) ESZCSM rendelet 83. §-ával megállapított szöveg.
+[^422]: A 139. § (1) bekezdése a 46/2003. (VIII. 8.) ESZCSM rendelet 83. §-ával megállapított, a 26/2013. (III. 29.) EMMI rendelet 37. § 20. pontja szerint módosított szöveg.
+[^423]: A 139. § (2) bekezdését a 26/2013. (III. 29.) EMMI rendelet 36. § f) pontja hatályon kívül helyezte.
