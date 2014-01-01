@@ -80,6 +80,10 @@ f)
 
 31. az informatikai és hírközlési ágazat ügyeleti rendszerének létrehozására, működtetésére, hatáskörére vonatkozó szabályokat, a szolgáltatók bejelentési és kapcsolattartási kötelezettségeit;
 
-32. a honvédelmi és a katasztrófavédelmi feladatok ellátásában közreműködésre kötelezett elektronikus hírközlési szolgáltatók kijelölését és felkészülési feladataik meghatározását.
+32. a honvédelmi és a katasztrófavédelmi feladatok ellátásában közreműködésre kötelezett elektronikus hírközlési szolgáltatók kijelölését és felkészülési feladataik meghatározását;
+
+33. a 159/B. § szerinti elektronikus hírközlési szolgáltatók és a kereső- és gyorsítótár-szolgáltatók KEHTA-hoz való kapcsolódásának és elektronikus kapcsolattartásának, valamint a KEHTA-hoz való kapcsolódás alóli mentesülés részletes szabályait;
+
+34. a 149/A. § (3) bekezdése szerinti pályázat eljárási szabályait és a pályázati kiírás részletes tartalmát.
 
 (4) Az Elnök (3) bekezdés szerinti jogalkotási hatáskörébe tartozó, 2011. augusztus 1. napját megelőzően kibocsátott jogszabályok az Elnök által azonos tárgykörben kibocsátott jogszabályok hatálybalépésének napjáig maradnak hatályban, e napig alkalmazhatók.

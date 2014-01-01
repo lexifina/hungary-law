@@ -12,7 +12,7 @@
 
 (7) Az előfizetőnek vagy magánszemélynek szóló értesítés tartalmazza legalább a személyes adatok megsértésének jellegét és azokat az információs pontokat, ahol az előfizető további felvilágosítást kaphat, továbbá intézkedéseket javasol a személyes adatok megsértése lehetséges hátrányos hatásainak enyhítésére. A Hatósághoz intézett értesítés ezen túlmenően leírja a személyes adatok megsértésének következményeit, és az annak orvoslására az elektronikus hírközlési szolgáltató által javasolt, vagy megtett intézkedéseket.
 
-(8) A Hatóság iránymutatást adhat ki a jelen § szerinti bejelentési és értesítési kötelezettség teljesítésének a módjára, és a nyilvánosan elérhető elektronikus hírközlési szolgáltatók személyes adatok kezelésével kapcsolatos elérendő biztonsági szintre vonatkozó legjobb gyakorlatokról.
+(8) A Hatóság ajánlást adhat ki a jelen § szerinti bejelentési és értesítési kötelezettség teljesítésének a módjára, és a nyilvánosan elérhető elektronikus hírközlési szolgáltatók személyes adatok kezelésével kapcsolatos elérendő biztonsági szintre vonatkozó legjobb gyakorlatokról.
 
 (9) A műszaki és szervezési intézkedéseknek – figyelembe véve a legjobb gyakorlatot és a meghozandó intézkedések költségeit – a szolgáltatónál, a hálózat egységességével és a szolgáltatás nyújtásával kapcsolatban jelentkező kockázatoknak megfelelő biztonsági szintet kell nyújtaniuk.
 
@@ -30,4 +30,4 @@
 
 (16) Az elektronikus hírközlési szolgáltató az adatkérésre külön törvény szerint jogosult nyomozó hatóság, ügyészség, bíróság, valamint nemzetbiztonsági szolgálat törvényben meghatározott feladatai ellátásának biztosítása céljából, kérelmükre köteles megállapítani és részükre továbbítani a felhasználóval és az előfizetővel kapcsolatos, a forgalmi adatokon kívüli helymeghatározási adatokat.
 
-(17)
+(17) Az elektronikus hírközlési szolgáltató az adatkérésre körözési eljárás lefolytatása érdekében a körözési eljárást lefolytató szerv megkeresésére köteles megállapítani és részére továbbítani a felhasználóval és az előfizetővel kapcsolatos, a forgalmi adatokon kívüli helymeghatározási adatokat.
