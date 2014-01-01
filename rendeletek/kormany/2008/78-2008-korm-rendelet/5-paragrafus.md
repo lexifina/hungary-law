@@ -20,10 +20,10 @@ d) azt a vízállástartományt, amelynél a fürdőhely üzemeltethető.
 
 (5) A védőterületen az ott keletkezett szennyvizet kizárólag közcsatornára kötött vagy zárt rendszerű szennyvízgyűjtőben szabad elhelyezni.
 
-(6)[^16] A védőterületen előforduló szennyeződés vagy annak veszélye esetén az üzemeltető haladéktalanul bejelentést tesz a területileg illetékes környezetvédelmi, természetvédelmi és vízügyi hatóságnál, amely erről haladéktalanul tájékoztatja a járási népegészségügyi intézetet.
+(6)[^16] A védőterületen előforduló szennyeződés vagy annak veszélye esetén az üzemeltető haladéktalanul bejelentést tesz a területileg illetékes vízvédelmi hatóságnál, amely erről haladéktalanul tájékoztatja a járási népegészségügyi intézetet.
 
 (7) A fürdővíz, illetve a fürdőhely megjelölésére szolgáló eszközök leírását a 4. melléklet tartalmazza.
 
 [^14]: Az 5. § (1) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdésének 1. pontja, a 289/2010. (XII. 21.) Korm. rendelet 3. § (103) bekezdése, a 148/2011. (VIII. 4.) Korm. rendelet 9. §-a, a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja szerint módosított szöveg.
 [^15]: Az 5. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 617. §-a, a 148/2011. (VIII. 4.) Korm. rendelet 9. §-a, a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja szerint módosított szöveg.
-[^16]: Az 5. § (6) bekezdése a 148/2011. (VIII. 4.) Korm. rendelet 9. §-a, a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja szerint módosított szöveg.
+[^16]: Az 5. § (6) bekezdése a 148/2011. (VIII. 4.) Korm. rendelet 9. §-a, a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja, az 527/2013. (XII. 30.) Korm. rendelet 62. § b) pontja szerint módosított szöveg.
