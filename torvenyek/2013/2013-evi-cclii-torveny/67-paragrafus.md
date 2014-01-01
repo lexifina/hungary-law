@@ -32,18 +32,12 @@ alapján sarkalatosnak minősül.”
 
 (5) A Hvt.
 
-a) 22/A. §-ában a „gazdálkodó szervezet” szövegrész helyébe a „gazdasági társaság”,
-
-b) 42. § (3) bekezdésében a „gazdálkodó szervezet” szövegrész helyébe az „a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet”,
-
-c) 81. § (1) bekezdés g) pontjában a „gazdálkodó szervezeteknek” szövegrész helyébe az „ , a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezeteknek”,
-
-d) 81. § (1) bekezdés g) pontjában a „gazdálkodó szervezetek” szövegrész helyébe az „ , a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezetek”,
+a)–d)
 
 e) 81. § (2) bekezdés f) pontjában az „és a kormánytisztviselőknek” szövegrész helyébe az „ , a kormánytisztviselőknek és a kormányzati ügykezelőknek”,
 
 f) 81. § (2) bekezdés f) pontjában az „és kormánytisztviselők” szövegrész helyébe a „ , kormánytisztviselők és kormányzati ügykezelők”,
 
-g) 1. mellékletében a „gazdálkodó szervezetekben” szövegrész helyébe a „gazdasági társaságokban”
+g)
 
 szöveg lép.

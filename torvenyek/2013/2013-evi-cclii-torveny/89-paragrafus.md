@@ -46,16 +46,6 @@ d) az a)–b) pontban említett személyek Polgári Törvénykönyv szerinti hoz
 
 3/F. § Ha a párt jogutód nélkül megszűnik, a hitelezők kielégítetlen követelésük erejéig kártérítési igényt érvényesíthetnek a párt vezető tisztségviselőivel szemben, a szerződésen kívül okozott károkért való felelősség szabályai szerint, ha a párt vezető tisztségviselője a párt fizetésképtelenségével fenyegető helyzet beállta után a hitelezői érdekeket nem vette figyelembe.”
 
-(3) A Ptv. 6. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A párt egyszemélyes korlátolt felelősségű társaságot alapíthat, azonban más gazdasági társaságban részesedést nem szerezhet.”
-
-(4) Hatályát veszti a Ptv.
-
-a) 4. § (1) bekezdésében a „vállalat és”, valamint
-
-b) 1. számú mellékletének „A pártok beszámolója Bevételek:” cím alatti 5. pontjában a „vállalat és”
-
-szövegrész.
+(3)–(4)
 
 (5) Hatályát veszti a Ptv. 2. § (6) bekezdése.
