@@ -1,3 +1,3 @@
-## 24. §[^22] E rendelet 1. mellékletének az Mr6. rendelettel megállapított 2. pontját a 2013. október 25-én folyamatban lévő eljárásokban is alkalmazni kell.
+## 28. §[^27] E rendelet 1. mellékletének az Mr7. rendelettel megállapított 6. pont 6.2–6.4. alpontját a 2013. november 21-én folyamatban lévő eljárásokban is alkalmazni kell.
 
-[^22]: A 24. §-t a 91/2013. (X. 8.) VM rendelet 4. §-a iktatta be.
+[^27]: A 28. §-t a 100/2013. (X. 31.) VM rendelet 4. §-a iktatta be.
