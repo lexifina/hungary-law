@@ -1,0 +1,1 @@
+## zár ki a vételezésből.
