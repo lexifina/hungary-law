@@ -2,7 +2,7 @@
 
 ## Egyéb rendelkezések
 
-33. § (1) A pénzügyi gondnok díját – az eset összes körülményeitől függően – a bíróság állapítja meg. Összegét az éves költségvetési törvény határozza meg; 1996-ban legalább 300 ezer Ft, legfeljebb 2 millió Ft.
+33. § (1) A pénzügyi gondnok díját – az eset összes körülményeitől függően – a bíróság állapítja meg. A díj lehetséges mértékét a központi költségvetésről szóló törvény határozza meg.
 
 (2) A pénzügyi gondnok díjának fedezete a központi költségvetés helyi önkormányzatok támogatásait tartalmazó fejezetében áll rendelkezésre. A miniszter a bíróság jogerős végzése alapján a díjösszeg kiutalásáról a kincstáron keresztül intézkedik.
 

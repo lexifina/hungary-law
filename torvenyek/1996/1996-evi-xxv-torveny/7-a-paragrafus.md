@@ -1,0 +1,1 @@
+7/A. § A zálogjogosult hitelező a zálogjog érvényesítésével összefüggő jogait a zálogkötelezett helyi önkormányzattal szemben az adósságrendezési eljárás kezdő időpontjától nem gyakorolhatja, követeléseinek a zálogtárgyból való kielégítésére az e törvény szerinti eljárás keretében kerül sor.

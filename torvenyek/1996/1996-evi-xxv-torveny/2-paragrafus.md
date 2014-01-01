@@ -24,4 +24,4 @@ f) adósságrendezésbe vonható vagyon: törvényben meghatározott forgalomké
 
 g) adósságrendezésbe vonható bevétel: a helyi önkormányzatot megillető az Mötv. 106. § (1) bekezdésében meghatározott saját bevételek tárgyévben beszedett vagy követelésként fennálló összege, valamint az átengedett központi adókból származó bevétel az adósságrendezési eljárás megindításától a bejelentett hitelezői követelések megtérüléséig;
 
-h) reorganizációs hitel: a reorganizációs költségvetés és a hitelezői egyezség létrejöttének biztosításához szükséges hitel, beleértve az adósságrendezési eljárás alatt álló helyi önkormányzat lejárttá tett hiteleinek és kötvényeinek kiváltására szolgáló hitelt is.
+h) reorganizációs hitel: a válságköltségvetés, valamint a III. és IV. Fejezetben szabályozott eljárásban, az eljárás jogerős befejezéséig az önkormányzat, valamint a hitelezők között megkötött egyezség létrejöttének biztosításához szükséges hitel, beleértve az adósságrendezési eljárás alatt álló helyi önkormányzat lejárttá tett hiteleinek és kötvényeinek kiváltására szolgáló hitelt is.
