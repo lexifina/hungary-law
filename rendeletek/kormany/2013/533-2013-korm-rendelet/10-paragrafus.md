@@ -1,5 +1,5 @@
-## 8–9. §[^4]
-
 ## 5. Eljáró hatóságok
 
-[^4]: A 8–9. § a 11. § (2) bekezdése alapján 2014. január 1-jén lép hatályba.
+10. § (1) A bérleti rendszer engedélyesét a Főfelügyelőség ellenőrzi, és eljár az engedélyben foglaltak megsértése esetén.
+
+(2) A csomagolószert bérbevevőknél a környezetvédelmi termékdíjra, továbbá a bérleti rendszerre vonatkozó szabályok betartását az állami adó- és vámhatóság is ellenőrizheti.
