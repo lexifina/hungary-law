@@ -6,7 +6,7 @@
 
 | 2. | Az államhatártól számított 100 méteren belül telepített légiforgalmi berendezések esetén. | Az államhatár rendje, a határrend-sértések és határesemények megelőzéséhez szükséges feltételek megléte. | megyei, fővárosi rendőr-főkapitányság | Országos Rendőr-főkapitányság |
 
-| 3. | Ha a légiforgalmi berendezés védett természeti területen, Natura 2000 területen történik vagy ezekre közvetlen hatással van, valamint a légiforgalmi berendezés telepítéséhez környezetvédelmi engedély és egységes környezethasználati engedély nem szükséges. | Annak elbírálása kérdésében, hogy a tevékenység a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. | környezetvédelmi, természetvédelmi és vízügyi felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 3. | Ha a légiforgalmi berendezés védett természeti területen, Natura 2000 területen történik vagy ezekre közvetlen hatással van, valamint a légiforgalmi berendezés telepítéséhez környezetvédelmi engedély és egységes környezethasználati engedély nem szükséges. | Annak elbírálása kérdésében, hogy a tevékenység a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. | környezetvédelmi és természetvédelmi felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
 | 4. | Repülőtéri meteorológiai berendezések létesítési és üzembe helyezési eljárása során. | Annak elbírálása kérdésében, hogy a repülőtéri meteorológiai berendezések létesítése, üzembe helyezése, üzemeltetése, az eszközök karbantartottsága megfelel-e a nemzetközi polgári repülésről szóló, Chicagóban, 1944. évi december 7. napján aláírt Egyezmény alapján a Meteorológiai Világszervezet és a Nemzetközi Polgári Repülési Szervezet által megállapított előírásoknak, valamint a repülésmeteorológiai információk hiteles forrásból származnak-e. | Országos Meteorológiai Szolgálat | – |
 
@@ -14,7 +14,7 @@
 
 | 6. | A berendezés típuscseréje, valamint a repülőtér területén történő légiforgalmi berendezés telepítése kivételével a nem ionizáló sugárzó berendezést szolgáló építmény hatósági engedélyezése esetén. | A berendezés sugár-egészségügyi hatásai, kockázatai. | fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerve Sugár-egészségügyi Decentruma | Állami Népegészségügyi és Tisztiorvosi Szolgálat Országos Tisztifőorvosi Hivatala |
 
-5. melléklet a 263/2006. (XII. 20.) Korm. rendelethez[^235]
+5. melléklet a 263/2006. (XII. 20.) Korm. rendelethez[^243]
 
 I. A kikötő, valamint a komp- és révátkelőhely elvi létesítési, létesítési, használatbavételi, fennmaradási, rendeltetéstől eltérő használati
 
@@ -26,13 +26,13 @@ eljárásban közreműködő szakhatóságok
 
 | valamint az ezekhez kapcsolódó adatváltozás átvezetése iránti eljárás |
 
-| 1. | Ha a tevékenység megkezdéséhez környezetvédelmi engedély és egységes környezethasználati engedély nem szükséges. | Annak elbírálása kérdésében, hogy | környezetvédelmi, természetvédelmi és vízügyi felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség | IGEN | IGEN | IGEN |
+| 1. | Ha a tevékenység megkezdéséhez környezetvédelmi engedély és egységes környezethasználati engedély nem szükséges. | Annak elbírálása kérdésében, hogy | környezetvédelmi és természetvédelmi felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség | NEM | IGEN | IGEN |
 
 | a) a tevékenység a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e, |
 
-| b) a tevékenység a felszíni vizek védelmére vonatkozó követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e, |
+| b) a tevékenység alapján jelentős környezeti hatások feltételezhetők-e. |
 
-| c) a tevékenység alapján jelentős környezeti hatások feltételezhetők-e. |
+| 1a. | Ha a tevékenység megkezdéséhez környezetvédelmi engedély és egységes környezethasználati engedély nem szükséges. | Annak elbírálása kérdésében, hogy a tevékenység a felszíni vizek védelmére vonatkozó követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. | első fokon eljáró vízvédelmi hatóság | másodfokon eljáró vízvédelmi hatóság | IGEN | NEM | NEM |
 
 | 2. | Ha az eljárás határátlépéssel kapcsolatos vagy határvizek területét érinti. | az államhatár rendje, a határrend- sértések és határesemények megelőzéséhez szükséges feltételek megléte | megyei, fővárosi rendőr- főkapitányság | Országos Rendőr- főkapitányság | IGEN | IGEN | IGEN |
 
@@ -48,13 +48,15 @@ eljárásban közreműködő szakhatóságok
 
 II. A hajókiemelő berendezés elvi létesítési, létesítési, használatbavételi, fennmaradási, rendeltetéstől eltérő használati és megszüntetési engedélyezésére, adatváltozás átvezetésére irányuló eljárásában, valamint a tervtől eltérés engedélyezése iránt eljárásában részt vevő szakhatóságok
 
-| Bevonás és közreműködés feltétele | Szakkérdés | Első fokú eljárásban | Másodfokú eljárásban | Elvi létesítési, létesítési engedély, fennmaradási engedély | Használatbavételi, rendeltetéstől eltérő használati engedély | Megszüntetési engedély |
+|  | Bevonás és közreműködés feltétele | Szakkérdés | Első fokú eljárásban | Másodfokú eljárásban | Elvi létesítési, létesítési engedély, fennmaradási engedély | Használatbavételi, rendeltetéstől eltérő használati engedély | Megszüntetési engedély |
 
 | valamint az ezekhez kapcsolódó adatváltozás átvezetése iránti eljárás |
 
-| Ha a tevékenység megkezdéséhez környezetvédelmi engedély és egységes környezethasználati engedély nem szükséges. | a) Annak elbírálása kérdésében, hogy a tevékenység a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e, továbbá annak elbírálása kérdésében, hogy a tevékenység a felszíni vizek védelmére vonatkozó követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. | környezetvédelmi, természetvédelmi és vízügyi felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség | IGEN | IGEN | IGEN |
+| 1. | Ha a tevékenység megkezdéséhez környezetvédelmi engedély és egységes környezethasználati engedély nem szükséges. | Annak elbírálása kérdésében, hogy a) a tevékenység a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e, | környezetvédelmi és természetvédelmi felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség | NEM | IGEN | IGEN |
 
-| b) Annak elbírálása kérdésében, hogy a tevékenység alapján jelentős környezeti hatások feltételezhetők-e. |
+| b) a tevékenység alapján jelentős környezeti hatások feltételezhetők-e. |
+
+| 1a. | Ha a tevékenység megkezdéséhez környezetvédelmi engedély és egységes környezethasználati engedély nem szükséges. | Annak elbírálása kérdésében, hogy a tevékenység a felszíni vizek védelmére vonatkozó követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. | első fokon eljáró vízvédelmi hatóság | másodfokon eljáró vízvédelmi hatóság | IGEN | NEM | NEM |
 
 III. A csak csónakok fogadására alkalmas kikötők elvi létesítési, létesítési, használatbavételi, fennmaradási, rendeltetéstől eltérő
 
@@ -66,9 +68,11 @@ vonatkozásában a tervtől eltérés engedélyezési eljárásában közreműk�
 
 | valamint az ezekhez kapcsolódó adatváltozás átvezetése iránti eljárás |
 
-| 1. | Ha a tevékenység megkezdéséhez környezetvédelmi engedély és egységes környezethasználati engedély nem szükséges. | a) Annak elbírálása kérdésében, hogy a tevékenység a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e, továbbá annak elbírálása kérdésében, hogy a tevékenység a felszíni vizek védelmére vonatkozó követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. | környezetvédelmi, természetvédelmi és vízügyi felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség | IGEN | NEM | NEM |
+| 1. | Ha a tevékenység megkezdéséhez környezetvédelmi engedély és egységes környezethasználati engedély nem szükséges. | Annak elbírálása kérdésében, hogy a) a tevékenység a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e, | környezetvédelmi és természetvédelmi felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség | NEM | IGEN | IGEN |
 
-| b) Annak elbírálása kérdésében, hogy a tevékenység alapján jelentős környezeti hatások feltételezhetők-e. |
+| b) a tevékenység alapján jelentős környezeti hatások feltételezhetők-e. |
+
+| 1a. | Ha a tevékenység megkezdéséhez környezetvédelmi engedély és egységes környezethasználati engedély nem szükséges. | Annak elbírálása kérdésében, hogy a tevékenység a felszíni vizek védelmére vonatkozó követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. | első fokon eljáró vízvédelmi hatóság | másodfokon eljáró vízvédelmi hatóság | IGEN | NEM | NEM |
 
 | 2. | Új, vízi állásnak nem minősülő, legalább 20 csónak fogadására alkalmas csónakkikötő esetén. | Az építmény elhelyezése megfelel-e a településrendezési követelményeknek és a helyi építési szabályzatnak. | az építési tevékenység helye szerinti települési, fővárosi kerületi önkormányzat jegyzője a Fővárosi Önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi főjegyző | fővárosi és megyei kormányhivatal | IGEN | NEM | NEM |
 
@@ -88,9 +92,11 @@ engedélyezési eljárásban részt vevő szakhatóságok
 
 | valamint az ezekhez kapcsolódó adatváltozás átvezetése iránti eljárás |
 
-| 1. | Ha a tevékenység megkezdéséhez környezetvédelmi engedély és egységes környezethasználati engedély nem szükséges. | a) Annak elbírálása kérdésében, hogy a tevékenység a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e, továbbá annak elbírálása kérdésében, hogy a tevékenység a felszíni vizek védelmére vonatkozó követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. | környezetvédelmi, természetvédelmi és vízügyi felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség | IGEN | IGEN | IGEN |
+| 1. | Ha a tevékenység megkezdéséhez környezetvédelmi engedély és egységes környezethasználati engedély nem szükséges. | Annak elbírálása kérdésében, hogy a) ) a tevékenység a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e, | környezetvédelmi és természetvédelmi felügyelőség | Országos Környezet-védelmi és Természetvédelmi Főfelügyelőség | NEM | IGEN | IGEN |
 
-| b) Annak elbírálása kérdésében, hogy a tevékenység alapján jelentős környezeti hatások feltételezhetők-e. |
+| b) a tevékenység alapján jelentős környezeti hatások feltételezhetők-e. |
+
+| 1a. | Ha a tevékenység megkezdéséhez környezetvédelmi engedély és egységes környezethasználati engedély nem szükséges. | Annak elbírálása kérdésében, hogy a tevékenység a felszíni vizek védelmére vonatkozó követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. | első fokon eljáró vízvédelmi hatóság | másodfokon eljáró vízvédelmi hatóság | IGEN | NEM | NEM |
 
 | 2. | Ha az eljárás határátlépéssel kapcsolatos vagy határvizek területét érinti. | az államhatár rendje, a határrend- sértések és határesemények megelőzéséhez szükséges feltételek megléte | Megyei, fővárosi rendőr- főkapitányság | Országos Rendőr- főkapitányság | IGEN | IGEN | IGEN |
 
@@ -100,4 +106,4 @@ engedélyezési eljárásban részt vevő szakhatóságok
 
 | 5. | Vízisportpálya esetén, ha a tevékenység halgazdálkodási vízterületet érint. | Annak elbírálása kérdésében, hogy a tevékenység a halgazdálkodásról és a hal védelméről szóló jogszabályokban rögzített követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. | megyei, fővárosi kormányhivatal földművelésügyi igazgatóság | Nemzeti Élelmiszerlánc- biztonsági Hivatal | IGEN | IGEN | IGEN |
 
-[^235]: Az 5. mellékletet a 362/2008. (XII. 31.) Korm. rendelet 24. § (2) bekezdése iktatta be, szövege a 273/2010. (XII. 9.) Korm. rendelet 114. § (2) bekezdése, a 326/2010. (XII. 27.) Korm. rendelet – a 351/2010. (XII. 30.) Korm. rendelet 290. §-ával megállapított – 13. §-a, a 158/2011. (VIII. 11.) Korm. rendelet 8. § (3) bekezdés b) pontja, a 82/2011. (V. 18.) Korm. rendelet 34. §-a, a 296/2012. (X. 17.) Korm. rendelet 22. § g) pontja, a 394/2012. (XII. 20.) Korm. rendelet 14. § (3) bekezdése, a 255/2013. (VII. 5.) Korm. rendelet 18. §-a, a 323/2013. (VIII. 28.) Korm. rendelet 1. §-a, a 358/2013. (X. 9.) Korm. rendelet 1. § (9) bekezdése szerint módosított szöveg.
+[^243]: Az 5. mellékletet a 362/2008. (XII. 31.) Korm. rendelet 24. § (2) bekezdése iktatta be, szövege a 273/2010. (XII. 9.) Korm. rendelet 114. § (2) bekezdése, a 326/2010. (XII. 27.) Korm. rendelet – a 351/2010. (XII. 30.) Korm. rendelet 290. §-ával megállapított – 13. §-a, a 158/2011. (VIII. 11.) Korm. rendelet 8. § (3) bekezdés b) pontja, a 82/2011. (V. 18.) Korm. rendelet 34. §-a, a 296/2012. (X. 17.) Korm. rendelet 22. § g) pontja, a 394/2012. (XII. 20.) Korm. rendelet 14. § (3) bekezdése, a 255/2013. (VII. 5.) Korm. rendelet 18. §-a, a 323/2013. (VIII. 28.) Korm. rendelet 1. §-a, a 358/2013. (X. 9.) Korm. rendelet 1. § (9) bekezdése, az 527/2013. (XII. 30.) Korm. rendelet 40. § (1) bekezdés c) pontja szerint módosított szöveg.
