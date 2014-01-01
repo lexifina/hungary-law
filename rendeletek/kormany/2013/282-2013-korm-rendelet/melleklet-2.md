@@ -8,13 +8,13 @@
 
 | 3. | további régészeti feladatellátás meghatározása | Budapest Főváros Kormányhivatalának Építésügyi és Örökségvédelmi Hivatala | nincs |
 
-| 4. | környezetvédelmi hatósági engedélyezési eljárás | Közép-Duna- völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 4. | környezetvédelmi hatósági engedélyezési eljárás | Közép-Duna-völgyi Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
-| 5. | természetvédelmi hatósági engedélyezési eljárás | Közép- Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 5. | természetvédelmi hatósági engedélyezési eljárás | Közép-Duna-völgyi Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
 | 6. | útügyi hatósági engedélyezési eljárás | Pest Megyei Kormányhivatal Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központ |
 
-| 7. | vízjogi engedélyezési eljárás | Közép- Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 7. | vízjogi engedélyezési eljárás | Közép-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
 | 8. | A Magyar Kereskedelmi Engedélyezési Hivatalról és a területi mérésügyi és műszaki biztonsági hatóságokról szóló 320/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdése és 13. § (2) bekezdése szerinti engedélyezési eljárás | Budapest Főváros Kormányhivatala Mérésügyi és Műszaki Biztonsági Hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
@@ -40,7 +40,7 @@
 
 | 19. | a jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos hatósági eljárások | Pest Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-2. melléklet a 282/2013. (VII. 24.) Korm. rendelethez
+2. melléklet a 282/2013. (VII. 24.) Korm. rendelethez[^2]
 
 Az 1. melléklet szerinti nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított eljárásokban közreműködő szakhatóságok
 
@@ -50,7 +50,9 @@ Az 1. melléklet szerinti nemzetgazdasági szempontból kiemelt jelentőségű �
 
 | 2. | építésügy, műemlékvédelem és régészet | Érdi Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Pest Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala, régészet vonatkozásában: Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
-| 3. | környezetvédelem, természetvédelem és vízügy | Közép- Duna- völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezet-védelmi, Természet-védelmi és Vízügyi Főfelügyelőség |
+| 3. | környezetvédelem, természetvédelem | Közép-Duna-völgyi Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+
+| 3a. | vízügy | Közép-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
 | 4. | közúti közlekedés | Pest Megyei Kormányhivatal Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központ |
 
@@ -83,3 +85,5 @@ Az 1. melléklet szerinti nemzetgazdasági szempontból kiemelt jelentőségű �
 | 18. | területrendezési előírásokkal való összhang | Pest Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatalának állami főépítésze | nincsen |
 
 | 19. | településrendezési követelményeknek és a helyi építési szabályzatnak való megfelelés | Csömör település önkormányzatának jegyzője | Pest Megyei Kormányhivatal |
+
+[^2]: A 2. melléklet az 527/2013. (XII. 30.) Korm. rendelet 146. § (2) bekezdése szerint módosított szöveg.
