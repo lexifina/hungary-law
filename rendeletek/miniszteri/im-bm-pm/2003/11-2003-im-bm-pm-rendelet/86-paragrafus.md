@@ -1,13 +1,14 @@
-86. § (1)[^93] A 85. §-ban leírt felhasználás (igénybevétel) hiányában az ORFK bűnmegelőzési, bűnüldözési feladatokat ellátó szerve a kábítószer megsemmisítése iránt intézkedik (55–61. §).
+## 85. §[^95] A 78. § (1) bekezdés a)–d) pontjában felsorolt, elkobzott anyag vagy készítmény további sorsáról a feladat- és hatáskör szerint érintett hatóságok bevonásával az ORFK a külön jogszabály szerinti visszairányítási eljárásban dönt. A 78. § (1) bekezdés a)–d) pontjában felsorolt, elkobzott anyag vagy készítmény az egészségügyi szükségletek kielégítésére, bűnüldözési, tesztelési, oktatási, kutatási célra, összehasonlító vizsgálat elvégzése céljából, továbbá nemzetközi kötelezettségvállalásból fakadó feladat teljesítéséhez igénybe vehető.
 
-(2) A kábítószernek a megsemmisítés helyére történő szállítása a 84. § (1) bekezdésében meghatározottak szerint történik.
+86. §[^96] (1) A 85. § szerinti felhasználás, igénybevétel hiányában az ORFK a 78. § (1) bekezdés a)–d) pontjában felsoroltak megsemmisítése iránt intézkedik.
 
-(3)[^94] A megsemmisítést az ORFK bűnmegelőzési, bűnüldözési feladatokat ellátó szerve és az ügyészség képviselőjének jelenlétében kell lefolytatni. A megsemmisítésen a kábítószer vizsgálatát végző szakértői intézet képviselője jelen lehet. A megsemmisítésről az ORFK bűnmegelőzési, bűnüldözési feladatokat ellátó szerve tételes jegyzőkönyvet készít.
+(2) A 78. § (1) bekezdés a)–d) pontjában felsoroltaknak a megsemmisítés helyére történő szállítása a 84. § (1) bekezdésében meghatározottak szerint történik.
 
-(4)[^95] A megsemmisítéskor az ORFK bűnmegelőzési, bűnüldözési feladatokat ellátó szerve az azonosítás céljából elvégzendő vizsgálat érdekében mintát vehet.
+(3) A megsemmisítést az ORFK és az ügyészség képviselőjének jelenlétében kell lefolytatni. A megsemmisítésen a 78. § (1) bekezdés a)–d) pontjában felsoroltak vizsgálatát végző szakértői intézet képviselője jelen lehet. A megsemmisítésről az ORFK tételes jegyzőkönyvet készít.
 
-(5) Az előzetesen elkobzott kábítószer eredeti csomagolóanyaga csak abban az esetben semmisíthető meg, ha szakértői vizsgálat azon további, a bűncselekménnyel összefüggésbe hozható nyomot vagy elváltozást nem állapít meg.
+(4) A megsemmisítéskor az ORFK az azonosítás céljából elvégzendő vizsgálat érdekében mintát vehet.
 
-[^93]: A 86. § (1) bekezdése a 47/2009. (IX. 28.) IRM–PM együttes rendelet 30. § (3) bekezdése szerint módosított szöveg. E módosító rendelet 30. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^94]: A 86. § (3) bekezdése a 47/2009. (IX. 28.) IRM–PM együttes rendelet 28. §-ával megállapított szöveg. E módosító rendelet 30. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^95]: A 86. § (4) bekezdése a 47/2009. (IX. 28.) IRM–PM együttes rendelet 30. § (3) bekezdése szerint módosított szöveg. E módosító rendelet 30. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+(5) A 78. § (1) bekezdés a)–d) pontjában felsorolt, előzetesen elkobzott anyag vagy készítmény eredeti csomagolóanyaga csak abban az esetben semmisíthető meg, ha szakértői vizsgálat azon további, a bűncselekménnyel összefüggésbe hozható nyomot vagy elváltozást nem állapít meg.
+
+[^95]: A 85. § a 35/2013. (XII. 23.) KIM rendelet 10. § (3) bekezdésével megállapított szöveg.
+[^96]: A 86. § a 35/2013. (XII. 23.) KIM rendelet 10. § (3) bekezdésével megállapított szöveg.

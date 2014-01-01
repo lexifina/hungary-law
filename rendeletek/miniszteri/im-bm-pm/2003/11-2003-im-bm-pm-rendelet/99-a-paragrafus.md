@@ -1,3 +1,3 @@
-## Átmeneti rendelkezések[^104]
+## Átmeneti rendelkezések[^110]
 
-[^104]: A 99/A. §-t megelőző alcímet a 9/2013. (VI. 29.) KIM rendelet 64. §-a iktatta be.
+[^110]: A 99/A. §-t megelőző alcímet a 9/2013. (VI. 29.) KIM rendelet 64. §-a iktatta be.

@@ -1,6 +1,5 @@
-83. § (1)[^87] Az eljárást folytató nyomozóhatóság a szakértői vélemény tartalmától függően haladéktalanul javasolja az ügyésznek a kábítószer előzetes elkobzása indítványozását. Javaslatát és a szakértői véleményt egyidejűleg megküldi az ORFK bűnmegelőzési, bűnüldözési feladatokat ellátó szervének. A bíróság döntéséről – a határozat egy példányának megküldésével – tájékoztatja az ORFK bűnmegelőzési, bűnüldözési feladatokat ellátó szervét.
+83. §[^93] (1) Az eljárást folytató nyomozó hatóság a szakértői vélemény tartalmától függően haladéktalanul javasolja az ügyésznek a 78. § (1) bekezdés a)–d) pontjában felsoroltak előzetes elkobzásának indítványozását. Javaslatát és a szakértői véleményt egyidejűleg megküldi az ORFK-nak. A bíróság döntéséről – a határozat egy példányának megküldésével – tájékoztatja az ORFK-t.
 
-(2)[^88] Az ORFK bűnmegelőzési, bűnüldözési feladatokat ellátó szerve a javaslatról, a szakértői véleményről és a bíróság döntéséről nyilvántartást vezet.
+(2) Az ORFK a javaslatról, arról a tényről, hogy az ügyész nem tett indítványt, a szakértői véleményről és a bíróság döntéséről nyilvántartást vezet.
 
-[^87]: A 83. § (1) bekezdése a 47/2009. (IX. 28.) IRM–PM együttes rendelet 30. § (3)–(4) bekezdése szerint módosított szöveg. E módosító rendelet 30. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^88]: A 83. § (2) bekezdése a 47/2009. (IX. 28.) IRM–PM együttes rendelet 30. § (3) bekezdése szerint módosított szöveg. E módosító rendelet 30. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^93]: A 83. § a 35/2013. (XII. 23.) KIM rendelet 10. § (3) bekezdésével megállapított szöveg.

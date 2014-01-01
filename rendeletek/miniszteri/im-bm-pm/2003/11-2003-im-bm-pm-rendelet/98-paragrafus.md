@@ -1,7 +1,3 @@
-## Katonai büntetőeljárásban alkalmazandó külön rendelkezések
+98. §[^108]
 
-98. § (1)[^102] Ha a bűnjelet katonai büntetőeljárásban foglalták le, a bűnjelre vonatkozó intézkedéseket a katonai nyomozóhatóság, a katonai ügyész, valamint a törvényszék és az ítélőtábla katonai tanácsa teszi meg.
-
-(2) Az előzetesen értékesített bűnjelért befolyt ellenértéket az eljáró hatóság által megjelölt letéti számlára kell befizetni, illetőleg ott kell letétként kezelni.
-
-[^102]: A 98. § (1) bekezdése a 40/2011. (XII. 30.) KIM rendelet 23. § g) pontja szerint módosított szöveg.
+[^108]: A 98. §-t és az azt megelőző alcímet a 35/2013. (XII. 23.) KIM rendelet 12. § b) pontja hatályon kívül helyezte.

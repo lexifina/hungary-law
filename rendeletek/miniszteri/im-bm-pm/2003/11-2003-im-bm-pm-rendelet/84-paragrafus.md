@@ -1,8 +1,5 @@
-84. §[^89] (1) A szakértői vélemény szerint a 78. § (1) bekezdés a)–b) és d) pontjában meghatározott anyagnak minősülő bűnjelet az ORFK bűnmegelőzési, bűnüldözési feladatokat ellátó szerve a rendőrségnek az országos rendőrfőkapitány által kijelölt szervezeti egységéhez átszállíttatja további őrzés (tárolás) céljából. Az átszállításról az ORFK bűnmegelőzési, bűnüldözési feladatokat ellátó szerve az országos rendőrfőkapitány által kijelölt egység igénybevételével gondoskodik.
+84. §[^94] (1) A szakértői vélemény szerint a 78. § (1) bekezdés a)–c) pontjában meghatározott anyagnak minősülő bűnjelet az ORFK a rendőrségnek az országos rendőrfőkapitány által kijelölt szervezeti egységéhez átszállíttatja további őrzés, tárolás céljából. Az átszállításról az ORFK az országos rendőrfőkapitány által kijelölt egység igénybevételével gondoskodik.
 
-(2)[^90]
+(2) A 78. § (1) bekezdés a)–d) pontjában felsorolt, lefoglalt anyag vagy készítmény és a minta nyilvántartása az azt tároló szerv feladata. A nyilvántartás és tárolás felügyeletét és ellenőrzését az ORFK végzi.
 
-(3) A lefoglalt kábítószer és a minta nyilvántartása a kábítószert tároló szerv feladata. A nyilvántartás és tárolás felügyeletét (ellenőrzését) az ORFK bűnmegelőzési, bűnüldözési feladatokat ellátó szerve végzi.
-
-[^89]: A 84. § a 47/2009. (IX. 28.) IRM–PM együttes rendelet 26. §-ával megállapított szöveg. E módosító rendelet 30. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^90]: A 84. § (2) bekezdését a 18/2011. (VI. 24.) KIM rendelet 9. §-a hatályon kívül helyezte.
+[^94]: A 84. § a 35/2013. (XII. 23.) KIM rendelet 10. § (3) bekezdésével megállapított szöveg.
