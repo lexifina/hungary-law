@@ -1,4 +1,4 @@
-33. § (1)[^76] A Kormány honvédelmi rendeltetésű erdő esetén
+33. § (1)[^99] A Kormány honvédelmi rendeltetésű erdő esetén
 
 a) az erdőterv megállapítási és módosítási eljárásban,
 
@@ -14,8 +14,10 @@ f) az elsődleges rendeltetés megváltoztatására vonatkozó eljárásban,
 
 – annak elbírálása kérdésében, hogy a Magyar Honvédség nemzeti és szövetségi védelmi feladatai a kérelemben foglaltak szerinti esetben vagy további feltételek mellett biztosíthatóak-e –, első fokú eljárásban a Honvédelmi Minisztérium Hatósági Hivatal vezetőjét szakhatóságként jelöli ki.
 
-(2) A Kormány az erdőterületen található védett növénytársulásokkal kapcsolatos első fokú erdészeti hatósági eljárásban – a védett és fokozottan védett életközösségekre vonatkozó korlátozásokról és tilalmakról szóló jogszabályban foglalt előírásoknak való megfelelés kérdésében –, a környezetvédelmi, természetvédelmi és vízügyi felügyelőséget szakhatóságként jelöli ki.
+(2)[^100] A Kormány az erdőterületen található védett növénytársulásokkal kapcsolatos első fokú erdészeti hatósági eljárásban – a védett és fokozottan védett életközösségekre vonatkozó korlátozásokról és tilalmakról szóló jogszabályban foglalt előírásoknak való megfelelés kérdésében –, a környezetvédelmi és természetvédelmi felügyelőséget szakhatóságként jelöli ki.
 
-(3) A Kormány – a növényi, állati vagy fertőzést okozó egyéb szervezetek országos jelentőségű védett természeti területen található erdőterületen történő tömeges elszaporodása esetén – az erdőgazdálkodó szükséges védekezés elvégzésére kötelezése iránti első fokú eljárásban – annak elbírálása kérdésében, hogy az elvégeztetni kívánt védekezés a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek megfelel-e –, a környezetvédelmi, természetvédelmi és vízügyi felügyelőséget szakhatóságként jelöli ki. A szakhatóság az állásfoglalását – az eljáró hatóság kérésére – haladéktalanul, de legkésőbb egy munkanapon belül adja meg.
+(3)[^101] A Kormány – a növényi, állati vagy fertőzést okozó egyéb szervezetek országos jelentőségű védett természeti területen található erdőterületen történő tömeges elszaporodása esetén – az erdőgazdálkodó szükséges védekezés elvégzésére kötelezése iránti első fokú eljárásban – annak elbírálása kérdésében, hogy az elvégeztetni kívánt védekezés a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek megfelel-e –, a környezetvédelmi és természetvédelmi felügyelőséget szakhatóságként jelöli ki. A szakhatóság az állásfoglalását – az eljáró hatóság kérésére – haladéktalanul, de legkésőbb egy munkanapon belül adja meg.
 
-[^76]: A 33. § (1) bekezdés záró szövegrésze a 158/2011. (VIII. 11.) Korm. rendelet 38. §-a szerint módosított szöveg.
+[^99]: A 33. § (1) bekezdés záró szövegrésze a 158/2011. (VIII. 11.) Korm. rendelet 38. §-a szerint módosított szöveg.
+[^100]: A 33. § (2) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 97. § a) pontja szerint módosított szöveg.
+[^101]: A 33. § (3) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 97. § a) pontja szerint módosított szöveg.
