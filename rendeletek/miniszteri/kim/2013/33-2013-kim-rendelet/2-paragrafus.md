@@ -1,0 +1,3 @@
+2. § (1) A kormánymegbízott a fővárosi és megyei kormányhivatalokról szóló 288/2010. (XII. 21.) Korm. rendelet 8/A. § (6) bekezdés d) pontjában meghatározott havi tájékoztatási kötelezettségének a 3–6. melléklet szerinti táblázatok kitöltésével és a tárgyhónapot követő hónap első munkanapján a közigazgatás-szervezésért felelős miniszter részére történő megküldésével tesz eleget.
+
+(2) A kormánymegbízott havi tájékoztatási kötelezettségének valamennyi általa koordinált kiemelt jelentőségű ügy tekintetében együttesen, egyetlen táblázat beruházásonkénti sorrendben történő kitöltésével tesz eleget.
