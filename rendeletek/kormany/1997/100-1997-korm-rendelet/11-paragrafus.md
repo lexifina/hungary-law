@@ -4,7 +4,7 @@
 
 a)[^50] május–június hónapi valamennyi középiskola és a Hivatal, valamint a kormányhivatal részére a rendes, az előrehozott, a kiegészítő, a szintemelő, az ismétlő, a pótló és a javító érettségi vizsgák megszervezésére,
 
-b)[^51] október–november hónapi a Hivatal, valamint a kormányhivatal és a kijelölt középiskolák részére a rendes, az előrehozott, a kiegészítő, a szintemelő, az ismétlő, a pótló és a javító érettségi vizsgák megszervezésére.
+b)[^51] október–november hónapi a Hivatal, valamint a kormányhivatal és a kijelölt középiskolák részére a rendes, a kiegészítő, a szintemelő, az ismétlő, a pótló és a javító érettségi vizsgák megszervezésére.
 
 c)[^52]
 
@@ -24,7 +24,7 @@ c)[^52]
 
 [^49]: A 11. § (2) bekezdése a 233/2004. (VIII. 6.) Korm. rendelet 7. §-ának (1) bekezdésével megállapított szöveg.
 [^50]: A 11. § (2) bekezdésének a) pontja a 256/2005. (XII. 7.) Korm. rendelet 3. § (1) bekezdésével megállapított, valamint a 351/2010. (XII. 30.) Korm. rendelet 41. § c) pontja szerint módosított szöveg.
-[^51]: A 11. § (2) bekezdésének b) pontja a 256/2005. (XII. 7.) Korm. rendelet 3. § (1) bekezdésével megállapított, a 351/2010. (XII. 30.) Korm. rendelet 41. § c) pontja szerint módosított szöveg.
+[^51]: A 11. § (2) bekezdésének b) pontja a 256/2005. (XII. 7.) Korm. rendelet 3. § (1) bekezdésével megállapított, a 351/2010. (XII. 30.) Korm. rendelet 41. § c) pontja, a 106/2012. (VI. 1.) Korm. rendelet 9. § e) pontja szerint módosított szöveg.
 [^52]: A 11. § (2) bekezdésének c) pontját a 256/2005. (XII. 7.) Korm. rendelet 28. § (2) bekezdése hatályon kívül helyezte.
 [^53]: A 11. § (3) bekezdése a 233/2004. (VIII. 6.) Korm. rendelet 53. §-a szerint módosított szöveg.
 [^54]: A 11. § (4) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.

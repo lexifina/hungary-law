@@ -70,137 +70,117 @@ ELSŐ RÉSZ[^377]
 
 AZ ÉRETTSÉGI VIZSGA VIZSGATÁRGYAI ÉS A VIZSGA FORMÁI
 
-|  | A tantárgy neve | A vizsga részei |
+|  | A vizsgatárgy neve | A vizsga részei |
 
-|  |  | középszinten | emelt szinten |
+| középszinten | emelt szinten |
 
 | Kötelező vizsgatárgyak | 1. Magyar nyelv és irodalom | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 2. a) Nemzetiségi nyelv és irodalom | írásbeli | szóbeli | írásbeli | szóbeli |
+| 2. Nemzetiségi nyelv és irodalom | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| b) Nemzetiségi nyelv | írásbeli | szóbeli | Írásbeli 1. olvasott szöveg értése 2. Íráskészség 3. nyelv- helyesség 4. hallott szöveg értése | szóbeli |
+| 3. Történelem | írásbeli | szóbeli | írásbeli | szóbeli |
 
-|  | 3. Történelem | írásbeli | szóbeli | írásbeli | szóbeli |
+| 4. Matematika | írásbeli | – | írásbeli | szóbeli |
 
-| 4. Matematika | írásbeli | - | írásbeli | szóbeli |
+| 5. Élő idegen nyelv vagy Latin nyelv | írásbeli írásbeli | szóbeli szóbeli | írásbeli 1. olvasott szöveg értése 2. nyelvhelyesség 3. hallott szöveg értése 4. íráskészség írásbeli | szóbeli szóbeli |
 
-| 5. Élő idegen nyelv | írásbeli | szóbeli | írásbeli | szóbeli |
+| Választható közismereti vizsgatárgyak | 1. Élő idegen nyelv | írásbeli | szóbeli | írásbeli 1. olvasott szöveg értése 2. nyelvhelyesség 3. hallott szöveg értése 4. íráskészség | szóbeli |
 
-|  |  |  | 1. olvasott szöveg értése 2. íráskészség 3. nyelv- helyesség 4. hallott szöveg értése |  |
+| 2. Fizika | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| vagy |  |  |  |
+| 3. Kémia | írásbeli | szóbeli | írásbeli | szóbeli |
 
-|  | Latin nyelv | írásbeli | szóbeli | írásbeli | szóbeli |
+| 4. Biológia | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| Választható közismereti vizsgatárgyak | 1. Élő idegen nyelv | írásbeli | szóbeli | írásbeli 1. olvasott szöveg értése 2. íráskészség 3. nyelv- helyesség 4. hallott szöveg értése | szóbeli |
+| 5. Földrajz | írásbeli | szóbeli | írásbeli | szóbeli |
 
-|  | 2. Fizika | írásbeli | szóbeli | írásbeli | szóbeli |
+| 6. Ének-zene | írásbeli | szóbeli | írásbeli | szóbeli |
 
-|  | 3. Kémia | írásbeli | szóbeli | írásbeli | szóbeli |
+| 7. Rajz és vizuális kultúra | írásbeli | gyakorlati | gyakorlati | szóbeli |
 
-|  | 4. Biológia | írásbeli | szóbeli | írásbeli | szóbeli |
+| 8. Informatika | gyakorlati | szóbeli | gyakorlati | szóbeli |
 
-|  | 5. Földrajz | írásbeli | szóbeli | írásbeli | szóbeli |
+| 9. Testnevelés | gyakorlati | szóbeli | gyakorlati | szóbeli |
 
-|  | 6. Ének-zene | írásbeli | szóbeli | írásbeli | szóbeli |
+| 10. Filozófia | írásbeli | szóbeli | írásbeli | szóbeli |
 
-|  | 7. Rajz és vizuális kultúra | írásbeli | gyakorlati | gyakorlati | szóbeli |
+| 11. Hittan | – | szóbeli | írásbeli | szóbeli |
 
-|  | 8. Informatika | gyakorlati | szóbeli | gyakorlati | szóbeli |
+| 12. Természettudomány | írásbeli | szóbeli | – | – |
 
-|  | 9. Testnevelés | gyakorlati | szóbeli | gyakorlati | szóbeli |
+| 13. Latin nyelv | írásbeli | szóbeli | írásbeli | szóbeli |
 
-|  | 10. Filozófia | írásbeli | szóbeli | írásbeli | szóbeli |
+| 14. Emberismeret és etika | írásbeli | szóbeli | írásbeli | szóbeli |
 
-|  | 11. Hittan | - | szóbeli | írásbeli | szóbeli |
+| 15. Társadalomismeret | írásbeli | szóbeli | írásbeli | szóbeli |
 
-|  | 12. Természettudomány | írásbeli | szóbeli | - | - |
+| 16. Ember- és társadalomismeret, etika | írásbeli | szóbeli | írásbeli | szóbeli |
 
-|  | 13. Latin | írásbeli | szóbeli | írásbeli | szóbeli |
+| 17. Dráma | írásbeli | szóbeli, gyakorlati | írásbeli | szóbeli, gyakorlati |
 
-|  | 14. Emberismeret és etika | írásbeli | szóbeli | írásbeli | szóbeli |
+| 18. Mozgóképkultúra és médiaismeret | írásbeli, gyakorlati | – | írásbeli, gyakorlati | szóbeli |
 
-|  | 15. Társadalomismeret | írásbeli | szóbeli | írásbeli | szóbeli |
+| 19. Nemzetiségi (kisebbségi) népismeret | írásbeli | szóbeli | írásbeli | szóbeli |
 
-|  | 16. Ember- és társadalomismeret, etika | írásbeli | szóbeli | írásbeli | szóbeli |
+| 20. Célnyelvi civilizáció | – | szóbeli | írásbeli | szóbeli |
 
-|  | 17. Dráma | írásbeli | szóbeli, gyakorlati | írásbeli | szóbeli, gyakorlati |
+| 21. Belügyi rendészeti ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
 
-|  | 18. Mozgóképkultúra és médiaismeret | írásbeli, gyakorlati | - | írásbeli, gyakorlati | szóbeli |
+| 22. Katonai alapismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
 
-|  | 19. Nemzetiségi (kisebbségi) népismeret | írásbeli | szóbeli | írásbeli | szóbeli |
+| 23. Utazás és turizmus | gyakorlati | szóbeli | – | – |
 
-|  | 20. Célnyelvi civilizáció | - | szóbeli | írásbeli | szóbeli |
+| 24. Gazdasági ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
 
-|  | 21. Belügyi rendészeti ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+| 25. Judaisztika | – | szóbeli | – | – |
 
-|  | 22. Katonai alapismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+| 26. Bibliaismeret – Hit Gyülekezete | – | szóbeli | írásbeli | szóbeli |
 
-|  | 23. Utazás és turizmus | gyakorlati | szóbeli | - | - |
+| 27. Művészettörténet | írásbeli | szóbeli | írásbeli | szóbeli |
 
-|  | 24. Gazdasági ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
-
-|  | 25. Judaisztika | - | szóbeli | - | - |
-
-|  | 26. Bibliaismeret - Hit Gyülekezete | - | szóbeli | írásbeli | szóbeli |
+| 28. Népművészet | – | szóbeli | – | szóbeli |
 
 | Választható szakmai előkészítő vizsgatárgyak | 1. Egészségügyi alapismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
 
-|  | 2. Szociális alapismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+| 2. Szociális alapismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
 
-|  | 3. Oktatási alapismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+| 3. Oktatási alapismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
 
-|  | 4. Művelődési és kommunikációs alapismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+| 4. Művelődési és kommunikációs alapismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
 
-|  | 5. Gépészeti alapismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+| 5. Gépészeti alapismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
 
-|  | 6. Elektronikai alapismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+| 6. Elektronikai alapismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
 
-|  | 7. Informatikai alapismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+| 7. Informatikai alapismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
 
-|  | 8. Vegyipari alapismeretek | írásbeli | gyakorlati | írásbeli | gyakorlati |
+| 8. Vegyipari alapismeretek | írásbeli | gyakorlati | írásbeli | gyakorlati |
 
-|  | 9. Építészeti és építési alapismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+| 9. Építészeti és építési alapismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
 
-|  | 10. Könnyűipari alapismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+| 10. Könnyűipari alapismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
 
-|  | 11. Faipari alapismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+| 11. Faipari alapismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
 
-|  | 12. Nyomdaipari alapismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+| 12. Nyomdaipari alapismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
 
-|  | 13. a) Közlekedési alapismeretek (közlekedés-üzemvitel) | írásbeli | szóbeli | írásbeli | szóbeli |
+| 13. a) Közlekedési alapismeretek (közlekedés-üzemvitel) b) Közlekedési alapismeretek (közlekedéstechnika) | írásbeli írásbeli | szóbeli szóbeli | írásbeli írásbeli | szóbeli szóbeli |
 
-|  | b) Közlekedési alapismeretek (közlekedéstechnika) | írásbeli | szóbeli | írásbeli | szóbeli |
+| 14. Környezetvédelmi- vízgazdálkodási alapismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
 
-|  | 14. Környezetvédelmi-vízgazdálkodási alapismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+| 15. a) Közgazdasági alapismeretek (üzleti gazdaságtan) b) Közgazdasági alapismeretek (elméleti gazdaságtan) | írásbeli írásbeli | szóbeli szóbeli | írásbeli írásbeli | szóbeli szóbeli |
 
-|  | 15. a) Közgazdasági alapismeretek (üzleti gazdaságtan) | írásbeli | szóbeli | írásbeli | szóbeli |
+| 16. Ügyviteli alapismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
 
-|  | b) Közgazdasági alapismeretek (elméleti gazdaságtan) | írásbeli | szóbeli | írásbeli | szóbeli |
+| 17. Kereskedelmi és marketing alapismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
 
-|  | 16. Ügyviteli alapismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+| 18. Vendéglátás- idegenforgalom alapismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
 
-|  | 17. Kereskedelmi és marketing alapismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+| 19. Rendészeti alapismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
 
-|  | 18. Vendéglátás-idegenforgalom alapismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+| 20. Mezőgazdasági alapismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
 
-|  | 19. Rendészeti alapismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
-
-|  | 20. Mezőgazdasági alapismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
-
-|  | 21. Élelmiszer-ipari alapismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
-
-| Művészeti vizsgatárgyak | 1. Ábrázoló és művészeti geometria | írásbeli | - | írásbeli | - |
-
-|  | 2. Népművészet | - | szóbeli | - | szóbeli |
-
-|  | 3. A magyar népzene alapjai | - | szóbeli | írásbeli | szóbeli |
-
-|  | 4. Hangtani és akusztikai ismeretek | - | szóbeli | - | - |
-
-|  | 5. Hangkultúra | - | szóbeli | írásbeli | szóbeli |
-
-|  | 6. Művészettörténet | írásbeli | szóbeli | írásbeli | szóbeli |
+| 21. Élelmiszeripari alapismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
 
 MÁSODIK RÉSZ[^378]
 
@@ -457,90 +437,6 @@ EMELT SZINT
 | B) Értelmezési szintek, megközelítések | Irodalomtörténeti, stílustörténeti megközelítés. Tematikus, motivikus értelmezés. Műfaji, poétikai megközelítés. Kultúrtörténeti értelmezés. (Művészeti ágak közötti kapcsolatok, az egyes nemzetiségek nyelvén íródott irodalom világirodalmi helye, kölcsönhatások, kapcsolatok a magyar irodalommal). A magyarországi nemzetiségek irodalma. |
 
 | 4. Fogalomismeret, fogalomhasználat nyelvből és irodalomból | (nemzetiségenként, a részletes követelmények tartalmazzák) |
-
-NEMZETISÉGI NYELV
-
-ÉRETTSÉGI VIZSGA ÁLTALÁNOS KÖVETELMÉNYEI
-
-(Nyelvoktató oktatási forma)
-
-A vizsga formája
-
-Középszinten: írásbeli és szóbeli.
-
-Emelt szinten: írásbeli és szóbeli.
-
-A nyelvoktató középiskolák nemzetiségi nyelvi érettségi vizsgakövetelményei mindkét szintjén meghatározó szerepet tölt be a kommunikatív kompetencia kialakítása. Ugyanilyen hangsúlyosan jelennek meg azonban a speciális nemzetiségi oktatási, nevelési tartalmak – az adott nemzetiség kultúrtörténetének, kiemelkedő irodalmi alkotásainak megismerése, hogy a tanulókban az anyanyelv, az anyanyelvű kultúra megismerése, ápolása, értékelése és elsajátítása révén kialakuljon a nyitottság, tolerancia más népek, más nyelvek iránt, s ezen ismeretek birtokában a tanulók képesek legyenek önálló tájékozódásra a kisebbségeket érintő aktuális hazai és külföldi eseményekben.
-
-A középszintű vizsga célja köznapi, egyszerű írott vagy hallott szövegek értésének ill. alkotásának mérése. A középszintű követelmények nélkülözhetetlenek az emelt szinten.
-
-Az emelt szint mennyiségében, minőségében más nyelvtudást kíván mérni. Az emelt szintű vizsga célja az elvontabb, összetettebb, hosszabb szövegek értésének, alkotásának mérése, valamint annak megállapítása, hogy a vizsgázó képes-e a felsőfokú oktatásban való részvételre.
-
-Az érettségi vizsga célja annak megállapítása, hogy a vizsgázó
-
-– rendelkezik-e a kommunikatív kompetencia meghatározott szintjeivel,
-
-– képes-e az írott és beszélt nyelv funkcionális használatára,
-
-– a kommunikációs szándékok értelmezésére és kifejezésére,
-
-– képes-e a különböző kifejezésmódok megkülönböztetésére, összevetésére, a szintnek megfelelő szövegek értelmezésére és értékelésére,
-
-– tud-e önállóan reagálni a szintnek megfelelő szövegek gondolataira, állításaira, következtetéseire,
-
-– képes-e mind szóban, mind írásban érthetően kifejezni magát,
-
-– képes-e a szövegszerkesztési minták figyelembevételével, szövegösszekötő elemek használatával világos, szerkezetileg jól felépített szöveget alkotni,
-
-– képes-e gondolatait a szintnek megfelelő műfajban és stílusban előadni,
-
-– eredményesen tudja-e használni a nemzetiségi nyelvet személyes és társadalmi kommunikatív célokra, valamint arra, hogy eredetiben olvasson az adott nemzetiség irodalmából,
-
-– tudja-e alkalmazni irodalmi és fogalmi ismereteit, olvasói tapasztalatait a múlt és a jelenkor nyelvi, kulturális jelenségeinek megértésében,
-
-– ismeri-e a magyarországi nemzetiség kultúrtörténetét, nyelvi sajátosságait, valamint a kisebbségeket érintő aktuális kérdéseket,
-
-– önállóan tud-e reagálni különböző korszakok különböző műfajú szépirodalmi és köznapi szövegeinek következtetéseire
-
-Tartalmi követelmények
-
-| Kompetenciák | Követelmények | Követelmények |
-
-|  | Középszint | Emelt szint |
-
-| 1. Kommunikatív készségek |
-
-| Beszédértés/Hallott szöveg értése | – hétköznapi témájú beszélgetések, interjúk alapvető kommunikációs szándékának megértése, – hallott szövegből a szükséges informá- – ciók kikeresése | – nehezebb, elvontabb témájú, nyelvileg bonyolultabb beszélgetés menetének megértése, – nyelvjárások hallás utáni felismerése |
-
-| Beszédkészség | – általános, a vizsgázó érdeklődési köréhez közel álló témákról történő beszélgetés, – állásfoglalás aktuális témával kapcsolatban, – rövidebb irodalmi és nem irodalmi szövegek, értelmezése, lényegének megfogalmazása, – olvasói élmények megfogalmazása, – a szintnek megfelelő témában vélemény, álláspont hatásos kifejtése | – beszélgetés folytatása összetettebb a mindennapi témáktól távolabb eső témákban, – irodalmi szövegek, filmek különböző szempontok alapján történő bemutatása, – a szintnek megfelelő vélemény, álláspont hatásos kifejtése, – kultúrált vita folytatása, érvek ütköztetése, – aktuális problémákkal, irodalmi szövegekkel kapcsolatban érvek és ellenérvek kifejtése, ütköztetése |
-
-| Szövegértés/olvasott szöveg értése | – köznyelvi szövegek lényegének megértése, – az adott nyelv szállóigéinek értelmezése, – a szintnek megfelelő szépirodalmi alkotások (rövidebb terjedelmű epikai művek, rövid lírai versek memorizálása) értelmezése, – egyszerűbb ismeretterjesztő szövegek megértése, – az olvasási módok (globális, szelektív, részletes értés) alkalmazása feladatokon | – elvontabb témájú szövegek megértése, – hosszabb epikus és drámai művek olvasása, értelmezése, – a szépirodalmi alkotásokban megjelenő szándékok, vélemények, rejtett jelentéstartalmak megértése, – bonyolultabb ismeretterjesztő szövegek megértése |
-
-| Íráskészség | – kifejezésmód a mindennapi szövegfajtákban, – fogalmazások (leírás, elbeszélő fogalmazás, jellemzés) írása megadott szempontok alapján, – a közéletben használatos szövegfajták szerkesztése (önéletrajz, pályázat, hirdetés, olvasói levél, stb.) szerkesztése – szépirodalmi szövegek (elbeszélések, novellák) lényegének megfogalmazása, – kiselőadás / referátum előkészítése | – árnyalt kifejezésmód a mindennapi tapasztalati világtól távolabb álló, összetettebb témákban, – változatos szókincsű mondatszerkezetek használata, – különböző műfajú szövegek írásánál a műfaji sajátosságok figyelembevétele, – versek és terjedelmesebb irodalmi alkotások lényegének elemző megfogalmazása, – hosszabb terjedelmű referátumok előkészítése |
-
-| 2. Nyelvi kompetencia | – a különböző társalgási témák, a mindennapi témakörök, szituációk kommunikációs szándékainak kifejezésekor a megfelelő nyelvi eszközök alkalmazása, – a kommunikációs szándékok értelmezése, – a szintnek megfelelő szövegfajtákban előforduló nyelvi struktúrák használata, – az írott és beszélt nyelv fontos szerkezeteinek funkcionális használata, – a kiejtés, hangsúly, intonáció és helyesírási ismeretek helyes alkalmazása | – választékos nyelvhasználat a kommunikációs szándékok kifejezésében, – a szintnek megfelelő szövegfajtákban előforduló nyelvi struktúrák biztos és árnyalt használata, – az írott és beszélt nyelv fontos szerkezeteinek funkcionális használata, – nyelvi fogalmak definiálása, egymáshoz rendelése |
-
-3. Témakörök
-
-Az emelt és a középszintű érettségi vizsgán a témakörök lényegében nem különböznek egymástól, de különböző a témák megközelítési módja. A középszinten a megközelítési mód személyes, konkrét, az emelt szinten általános, elvont és összetettebb.
-
-– Személyes vonatkozások, család
-
-– Ember és társadalom
-
-– Környezetünk
-
-– Iskola
-
-– A munka világa
-
-– Életmód
-
-– Szabadidő, művelődés, szórakozás
-
-– Utazás, turizmus
-
-– Tudomány, technika
 
 TÖRTÉNELEM
 
@@ -2736,10 +2632,134 @@ EMELT SZINT
 
 HITTAN
 
+ÉRETTSÉGI VIZSGA ÁLTALÁNOS KÖVETELMÉNYEI
+
+(Világnézetileg elkötelezett iskolák részére)
+
+(Katolikus, református, evangélikus vallású tanulók számára)
+
+A vizsga formája
+
+Középszinten: szóbeli.
+
+Emelt szinten: írásbeli és szóbeli.
+
+A hittan érettségi vizsga célja
+
+A hittan oktatásnak kettős feladata van: egyrészt segít a tanulók hitének ébresztésében, elmélyítésében, az istenszeretet növekedésében, a fiatalok a keresztény/keresztyén életgyakorlatba történő bevezetésében, másrészt oda kell eljuttatnia a diákokat, hogy felfogják az isteni igazság teljességét.
+
+Az érettségi vizsgán mérhető és értékelhető a hitoktatás folyamán elsajátított ismeret a Szentháromság egy Istenről, az ő egyházáról, egyházának tanításáról és küldetéséről a világban.
+
+Nem lehet az érettségi vizsga célja a személyes hit számonkérése.
+
+A követelményekben
+
+– hangsúlyosan szerepelnek a képesség jellegű követelmények, valamint azok az elemzési szempontok és vallási ismeretek, amelyek segítségével a vizsgázó aktualizálni tudja felekezete tanításait, el tud igazodni korunk erkölcsi kérdéseiben,
+
+– nagy figyelmet kapnak a korszerű biblia és teológiai ismeretek, illetőleg azok a készségek és ismeretek, amelyek egyháza tanításának komplex és időszerű bemutatásához szükségesek,
+
+– fontos szerepet kapnak azok az ismeretek, amelyek egyháza jelenkori társadalmi, szociális és kulturális tevékenységét és azokat az erőfeszítéseket mutatják be, amelyeket egyháza az emberiség üdvösségének érdekében fejt ki.
+
+A vizsga célja annak megállapítása, hogy a vizsgázó
+
+– rendelkezik-e a keresztény/keresztyén élet és gondolkodásmód kialakításához szükséges alapfogalmakkal;
+
+– tudja-e használni az alapvető vallási terminológiákat, a vallási fogalmakat, a szakkifejezéseket, a szaknyelvet;
+
+– ki tudja-e fejezni ismereteit szóban és írásban;
+
+– elsajátította-e azokat a képességeket és ismereteket, amelyekkel felekezetének tanításait korszerűen be tudja mutatni;
+
+– jártas-e a bibliai szövegek olvasásában és értelmezésében;
+
+– látja-e a kapcsolatot a Biblia tanítása és mai életünk között: látja-e azokat az erkölcsi értékeket, amelyek pozitívan alakíthatják életünket és világunkat, valamint ismeri-e a kereszténység/keresztyénség alapvető válaszait a személyes és végső kérdésekre;
+
+– képes-e vallási ismereteit a dialógus és az ökumené szellemében mások számára közvetíteni;
+
+– birtokában van-e felekezetének, egyházának történetében az alapvető tényeknek (időpontok, személyek, események).
+
+A középszintű vizsga a jelöltektől az alapvető hittani ismereteket, kifejezőképességet, az ismeretek rendszerezési képességét, a hittani tudás alkalmazását, valamint az erkölcsi ítéletalkotás képességét várja el.
+
+Az emelt szintű vizsga elsősorban az egyházi felsőoktatásban tovább tanulni szándékozó vizsgázó képességeit és ismereteit vizsgálja. A középszintű követelményeket meghaladó komplex ismereteket, összetettebb teológiai kérdések világos előadását, korszerű bibliai és egzegetikai ismereteket, magasabb fokú gondolkodási műveleteket, önállóbb vélemény- és ítéletalkotási készségeket vár el.
+
+Az érettségi vizsga témaköreit és részletes követelményeit az egyes felekezetek tanterveik alapján fogalmazzák meg.
+
+Tartalmi követelmények
+
+KÖZÉPSZINT
+
+| Témakörök | Követelmények |
+
+| 1. Biblia |  |
+
+| Ószövetség | Őstörténet, ősatyák, a választott nép történetének főbb szakaszai, fontos eseményei. |
+
+|  | Jézusra vonatkozó próféciák, azok keletkezési körülményei, messiási várakozás. |
+
+| Alapvető ószövetségi bevezetéstudományi ismeretek | Az ószövetségi kánon kialakulása, könyveinek keletkezése és felosztása. |
+
+| Újszövetség | Jézus Krisztus földi életének eseményei, tanítása, megváltó áldozata és feltámadása. |
+
+|  | Az apostoli kor. |
+
+| Alapvető újszövetségi bevezetéstudományi ismeretek | Az evangéliumok keletkezésének története és célja, párhuzamok és eltérések, ezek okai. |
+
+|  | Az újszövetségi levelek. |
+
+| Kortörténeti ismeretek | Jézus és az apostolok korának történeti háttere. |
+
+| 2. Egyháztörténet |
+
+| Krisztus egyházának története | A Szentlélek munkájáról szóló bibliai tanítás. |
+
+|  | Az egyház történelmének kezdetei, fontos fordulópontjai. |
+
+|  | Kiemelkedő egyháztörténeti személyiségek – példák Krisztus elkötelezett követésére. |
+
+| A saját felekezet története | A saját felekezet kialakulása, annak okai, történetének fontos pontjai, kiemelkedő személyiségei. |
+
+| 3. Dogmatika |
+
+| Az egyház tanítása | A keresztény/keresztyén egyház tanításának alapvető tételei. |
+
+|  | A saját felekezet dogmatikai tanítása. |
+
+|  | Az üdvtörténet alapigazságainak vizsgálata; ökumenikus törekvések; Isten mindnyájunkat eggyé tesz Krisztusban. |
+
+| 4. Az egyházi esztendő |
+
+| Ünnepek, ünnepi időszakok | Az egyházi esztendő ünnepei, ünnepi időszakai, a saját felekezet ünnepei, az ünnepek gyökerei, jelentősége. |
+
+|  | Az ünnepek liturgiája. |
+
+| 5. A keresztény/keresztyén erkölcsi élet – etika |
+
+| A kereszténység/ keresztyénség erkölcsi tanítása | Az ószövetségi és a jézusi etika. Az ember feladata a világban, felelősségünk a teremtett világ, az élet védelme és embertársaink iránt. |
+
+|  | A keresztény/keresztyén etika normái a családi élet, munka és társadalmi élet területén. |
+
+| 6. Világvallások |
+
+| A nagy világvallások alapvető gondolatai | A történelmi Isten-kinyilatkoztatás vallásai: a zsidó vallás, az iszlám, a kereszténység. |
+
+|  | Az örök világtörvény vallásai: hinduizmus, buddhizmus stb. Mai vallási áramlatok. |
+
+| 7. Kompetenciák |
+
+| Szövegértelmezés | Bibliai szöveg alapvető mondanivalójának, üzenetének kifejtése. |
+
+|  | Egyháztörténeti forrás és egyházi dokumentum elemzése. |
+
+|  | Hitvallási irat részletének értelmezése a dogmatikai ismeretek birtokában. |
+
+| Esetelemzés | Etikai kérdések, mai problémák elemzése, állásfoglalás, a vélemény indoklása. |
+
+EMELT SZINT
+
 [^372]: Az 1. számú melléklet I. Nyomtatványok része a 78/2002. (IV. 13.) Korm. rendelet 30. § (1) bekezdésével megállapított, valamint a 6/2008. (I. 22.) Korm. rendelet 12. § (3) bekezdésének o) pontja szerint módosított szöveg.
 [^373]: Az 1. számú melléklet I. részének 5. pontját a 253/2006. (XII. 7.) Korm. rendelet 26. § (4) bekezdése hatályon kívül helyezte.
 [^374]: Az 1. számú melléklet I. részének 7. pontja a 6/2008. (I. 22.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
 [^375]: Az 1. számú melléklet II. része a 6/2008. (I. 22.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
 [^376]: A 2. számú melléklet a 324/2011. (XII. 28.) Korm. rendelet 2. §-a szerint módosított szöveg.
-[^377]: A 2. számú melléklet Első Része a 347/2008. (XII. 31.) Korm. rendelet 3. §-ával megállapított, a 172/2011. (VIII. 24.) Korm. rendelet 4. §-a szerint módosított szöveg.
-[^378]: A 2. számú melléklet Második Része a 233/2004. (VIII. 6.) Korm. rendelet 50. §-ának (5) bekezdése, a 338/2004. (XII. 18.) Korm. rendelet 9–10. §-a és 12. § (1) bekezdésének b) pontja, a 256/2005. (XII. 7.) Korm. rendelet 26. § (3) bekezdése és 28. § (1) bekezdésének c) pontja, a 331/2007. (XII. 13.) Korm. rendelet 1. § 18. pontja és 3. § 9. pontja, a 6/2008. (I. 22.) Korm. rendelet 11. § (4)–(5) bekezdése és 12. § (3) bekezdésének x)–z) pontja, a 347/2008. (XII. 31.) Korm. rendelet 4–22. §-a, a 172/2011. (VIII. 24.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^377]: A 2. számú melléklet Első Része a 347/2008. (XII. 31.) Korm. rendelet 3. §-ával megállapított, a 172/2011. (VIII. 24.) Korm. rendelet 4. §-a, a 106/2012. (VI. 1.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^378]: A 2. számú melléklet Második Része a 233/2004. (VIII. 6.) Korm. rendelet 50. §-ának (5) bekezdése, a 338/2004. (XII. 18.) Korm. rendelet 9–10. §-a és 12. § (1) bekezdésének b) pontja, a 256/2005. (XII. 7.) Korm. rendelet 26. § (3) bekezdése és 28. § (1) bekezdésének c) pontja, a 331/2007. (XII. 13.) Korm. rendelet 1. § 18. pontja és 3. § 9. pontja, a 6/2008. (I. 22.) Korm. rendelet 11. § (4)–(5) bekezdése és 12. § (3) bekezdésének x)–z) pontja, a 347/2008. (XII. 31.) Korm. rendelet 4–22. §-a, a 172/2011. (VIII. 24.) Korm. rendelet 5. §-a, a 106/2012. (VI. 1.) Korm. rendelet 11. § d) pontja szerint módosított szöveg.
