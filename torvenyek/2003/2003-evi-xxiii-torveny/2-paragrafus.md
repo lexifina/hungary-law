@@ -12,7 +12,7 @@ d) fizetést korlátozó eljárás:
 
 da) a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény szerinti csődeljárás és felszámolási eljárás, illetve ideiglenes vagyonfelügyelő kirendelése,
 
-db) a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény (a továbbiakban: Hpt.) 153. § (2) bekezdés c) pont 6. alpontja, a Hpt. 176/B. § (5) bekezdése, a Hpt. 181. § (2) bekezdése szerinti felügyeleti intézkedés,
+db) a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény (a továbbiakban: Hpt.) 185. § (2) bekezdés c) pont cf) alpontja, a Hpt. 48. § (5) bekezdése, a Hpt. 55. § (2) bekezdése szerinti felügyeleti intézkedés,
 
 dc) a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény (a továbbiakban: Bszt.) 128. § (1) bekezdése, a Bszt. 164. § (1) bekezdés h) és n) pontjai szerinti felügyeleti intézkedés, a Bszt. 135. § (1) bekezdése szerinti kifizetési tilalom,
 
@@ -24,11 +24,11 @@ e) harmadik ország: az az ország, amely nem tagja az Európai Uniónak;
 
 f) intézmény:
 
-fa) a Hpt. szerinti hitelintézet, pénzforgalmi intézmény és elektronikuspénz-kibocsátó intézmény, a Bszt. szerinti befektetési vállalkozás, a Posta Elszámoló Központot működtető intézmény, a kincstár, az Államadósság Kezelő Központ, a Magyar Nemzeti Bank, vagy
+fa) a Hpt. szerinti hitelintézet, az egyes fizetési szolgáltatókról szóló törvény szerinti pénzforgalmi intézmény és elektronikuspénz-kibocsátó intézmény, a Bszt. szerinti befektetési vállalkozás, árutőzsdei szolgáltató, a Posta Elszámoló Központot működtető intézmény, a kincstár, az Államadósság Kezelő Központ, a Magyar Nemzeti Bank, vagy
 
 fb) más tagállamban székhellyel rendelkező hitelintézet, befektetési vállalkozás és mindazon intézmény, amely más tagállamban rendszer résztvevője lehet, vagy
 
-fc) olyan harmadik országbeli hitelintézet, amely megfelel a Hpt. 2. számú melléklete III. fejezetének 44. pontjában foglaltaknak, vagy olyan harmadik országbeli befektetési vállalkozás, amely megfelel a Bszt. 4. §-a (2) bekezdésének 39. pontjában foglaltaknak,
+fc) olyan harmadik országbeli hitelintézet, amely megfelel a Hpt. 6. § (1) bekezdésben foglaltaknak, vagy olyan harmadik országbeli befektetési vállalkozás, amely megfelel a Bszt. 4. §-a (2) bekezdésének 39. pontjában foglaltaknak,
 
 fd) az Európai Unió tagállamának központi bankja, az Európai Központi Bank,
 

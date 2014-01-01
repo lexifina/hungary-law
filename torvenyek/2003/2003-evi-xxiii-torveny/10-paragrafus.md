@@ -12,7 +12,7 @@ d) a megállapodásban elszámoló félként rögzített résztvevő rendelkezik
 
 da) a Tpt. 334. §-ában meghatározott elszámolóházi tevékenység végzése esetén a Tpt. 338. § (1) bekezdése szerinti tevékenységi engedéllyel, vagy
 
-db) a Hpt. 3. § (2) bekezdés b) pontja szerinti kiegészítő pénzügyi tevékenység (elszámolásforgalom lebonyolítása) végzése esetén a Magyar Nemzeti Banknak a Hpt. 3. § (6) bekezdésében előírt tevékenységi engedélyével, vagy
+db) a Hpt. 3. § (2) bekezdés b) pontja szerinti kiegészítő pénzügyi tevékenység (fizetési rendszer működtetése) végzése esetén a Hpt. 3. § (3) bekezdésében előírt tevékenységi engedéllyel, vagy
 
 dc) az Európai Unió más tagállama felügyeleti hatósága által kiadott elszámolóházi tevékenység végzésére jogosító engedéllyel,
 
