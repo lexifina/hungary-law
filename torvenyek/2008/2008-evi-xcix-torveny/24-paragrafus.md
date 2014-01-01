@@ -10,7 +10,7 @@ bb) művészeti támogatásának összegét az egyes előadó-művészeti szerve
 
 lebontva határozza meg.
 
-(2) A (3) bekezdésben meghatározott kivétellel a központi költségvetésről szóló törvénynek a helyi önkormányzatok központi költségvetési kapcsolataiból származó támogatásokat tartalmazó fejezetében kell biztosítani
+(2) A (3) és (4) bekezdésben meghatározott kivétellel a központi költségvetésről szóló törvénynek a helyi önkormányzatok központi költségvetési kapcsolataiból származó támogatásokat tartalmazó fejezetében kell biztosítani
 
 a) a nyilvántartott színházak, balett- vagy táncegyüttesek önkormányzati fenntartóit, önkormányzati fenntartó hiányában a közszolgáltatási szerződést kötő önkormányzatot megillető központi költségvetési támogatás keretösszegét, valamint
 
@@ -18,13 +18,15 @@ b) a nyilvántartott zenekarok, énekkarok önkormányzati fenntartóit, önkorm
 
 (3) A minisztérium költségvetési fejezetében kell biztosítani:
 
-a) az állam által fenntartott, nyilvántartásba vett és önkormányzattal kötött közszolgálati szerződéssel nem rendelkező színházak, balett- vagy táncegyüttesek, zenekarok és énekkarok központi költségvetésből származó támogatását,
+a) a miniszter irányítása, felügyelete vagy tulajdonosi joggyakorlása alá tartozó, nyilvántartásba vett színházak, balett- vagy táncegyüttesek, zenekarok és énekkarok költségvetési támogatását,
 
-b) az állammal kötött közszolgáltatási szerződéssel rendelkező, nem önkormányzati fenntartású előadó-művészeti szervezet támogatását,
+b) a miniszterrel kötött közszolgáltatási szerződéssel rendelkező, nem önkormányzati fenntartású előadó-művészeti szervezet támogatását,
 
 c) az e törvény alapján pályázati úton nyújtható támogatások előirányzatát, valamint
 
 d) a kijelölt szerv működéséhez szükséges előirányzatot.
+
+(4) A (3) bekezdés hatálya alá nem tartozó, állami fenntartású, nyilvántartásba vett színházak, balett- vagy táncegyüttesek, zenekarok és énekkarok támogatását az ilyen előadó-művészeti szervezetet irányító, felügyelő vagy a felett tulajdonosi jogokat gyakorló miniszter által vezetett minisztérium költségvetési fejezetében, vagy a szervezetet irányító, felügyelő vagy a felett tulajdonosi jogokat gyakorló központi költségvetési szerv költségvetésében kell biztosítani.
 
 ## V. Fejezet
 

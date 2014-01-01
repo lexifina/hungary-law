@@ -24,7 +24,7 @@
 
 9. évad: az előadó-művészeti szervezetek tevékenységének a naptári évtől eltérő időegysége, az augusztus 1-jétől július 31-ig terjedő időszak, ide nem értve a szabadtéri színházak tevékenységének időegységét,
 
-10. fenntartó: bármely természetes vagy jogi személy, illetve jogi személyiség nélküli gazdasági társaság, amely az előadó-művészeti szervezet felett felügyeleti vagy tulajdonosi jogokat gyakorol,
+10. fenntartó: bármely természetes vagy jogi személy, illetve jogi személyiség nélküli gazdasági társaság, amely az előadó-művészeti szervezet felett irányítási, felügyeleti vagy tulajdonosi jogokat gyakorol,
 
 11. fenntartói támogatás: a fenntartó által nyújtott működési támogatás, amelybe nem számít bele a központi költségvetési támogatás,
 

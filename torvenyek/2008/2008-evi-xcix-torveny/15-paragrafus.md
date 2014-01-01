@@ -6,7 +6,7 @@ a) nemzeti előadó-művészeti szervezet és a kiemelt előadó-művészeti sze
 
 b) az a) pont szerinti szervezettel közszolgáltatási szerződést kötött önkormányzat, vagy
 
-c) ha az előadó-művészeti szervezetnek nincs fenntartója és nem rendelkezik közszolgáltatási szerződéssel, pályázati úton az előadó-művészeti szervezet
+c) ha az előadó-művészeti szervezetnek nincs fenntartója, nem rendelkezik közszolgáltatási szerződéssel, valamint a 11. § és a 12. § szerinti minősítéssel, pályázati úton az előadó-művészeti szervezet
 
 részére.
 
