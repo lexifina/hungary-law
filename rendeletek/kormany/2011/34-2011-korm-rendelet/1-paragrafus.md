@@ -1,3 +1,0 @@
-1. § (1) A Nemzeti Földalapkezelő Szervezet (a továbbiakban: NFA) a Nemzeti Földalapba tartozó rábízott földvagyonnal kapcsolatos könyvvezetési és beszámoló-készítési kötelezettségének a számvitelről szóló 2000. évi C. törvény (a továbbiakban: Sztv.) előírásai szerint, e rendeletben foglalt eltérésekkel köteles eleget tenni.
-
-(2) Az NFA-nak a Nemzeti Földalapba tartozó rábízott földvagyonra vonatkozóan a központi költségvetési kapcsolatokat érintő elszámolási, beszámolási és nyilvántartási kötelezettségeit az államháztartás működésére vonatkozó külön jogszabályok előírásai figyelembevételével, az e rendeletben foglalt eltérésekkel kell teljesítenie.

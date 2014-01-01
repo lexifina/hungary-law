@@ -1,1 +1,0 @@
-## 10. § E rendelet a kihirdetését követő 15. napon lép hatályba azzal, hogy az 1–9. § rendelkezéseit az Nfatv.-ben meghatározott, rábízott földvagyonra első ízben a 2010. évben induló üzleti évre vonatkozó könyvvezetési, nyilvántartási, adatszolgáltatási és beszámolási kötelezettségek teljesítése során kell alkalmazni.
