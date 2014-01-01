@@ -1,1 +1,0 @@
-## Értékpapírosítási pozíciókban megtestesülő kitettség

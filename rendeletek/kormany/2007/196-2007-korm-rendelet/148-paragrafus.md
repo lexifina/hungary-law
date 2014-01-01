@@ -1,1 +1,0 @@
-## 147. § A belső minősítésen alapuló módszer alkalmazása esetén az ingó vagyontárgyat terhelő dologi biztosítékot olyan piaci áron kell értékelni, amelyen a biztosíték egymástól független felek közötti, eladási és vételi szándék esetén az értékelés időpontjában értékesíthető lenne.
