@@ -1,4 +1,4 @@
-## Az ivarsejtek és embriók fagyasztva tárolásának javallatai[^22]
+## Az ivarsejtek és embriók fagyasztva tárolásának javallatai[^23]
 
 ## Az embriók fagyasztva tárolásának javallatai:
 
@@ -50,11 +50,17 @@
 
 ## A fagyasztva tárolás intézeti feltételei
 
-1. Személyi feltételek:
+1.[^24] Személyi feltételek:
 
-A fagyasztva tárolást biológus, orvos vagy állatorvos végzettségű személy vagy ezek valamelyikének felügyeletével olyan biológusasszisztens végezheti, aki kellő gyakorlatot szerzett az ivarsejtek, illetve embriók fagyasztva tárolásában. A gyakorlat megszerzéséért, illetve a tevékenység engedélyezéséért az IVF labor vezetője a közvetlen felelős.
+A fagyasztva tárolást biológus vagy orvos végzettségű személy, vagy ezek valamelyikének felügyeletével olyan biológus asszisztens végezheti, aki
 
-2.[^23] Tárgyi feltételek:
+a) legalább egy év gyakorlatot szerzett meddőségi intézetben vagy sejt/szövet fagyasztással foglalkozó intézetben az ivarsejtek, illetve embriók fagyasztva tárolásában, vagy
+
+b) igazolja, hogy ivarsejt fagyasztással kapcsolatban speciális, akkreditált tanfolyamon vett részt.
+
+A gyakorlat megszerzéséért, illetve a tevékenység végzéséért az IVF labor vezetője a közvetlen felelős.
+
+2.[^25] Tárgyi feltételek:
 
 2.1. Az IVF-ET laboratóriumokban végzett fagyasztva tárolás során az egészségügyi szolgáltatások nyújtásához szükséges szakmai minimumfeltételekről szóló jogszabályban foglaltakon kívül az alábbi műszerezettségi feltételeket kell biztosítani:
 
@@ -114,5 +120,6 @@ A fagyasztva tárolást biológus, orvos vagy állatorvos végzettségű személ
 
 4.3. Fagyasztási Napló (lásd 9. számú melléklet)
 
-[^22]: A 4. számú melléklet „Az ivarsejtek és embriók fagyasztva tárolásának javallatai” alcím szövege a 68/2013. (XI. 15.) EMMI rendelet 4. §-ával megállapított szöveg.
-[^23]: Az 5. számú melléklet 2. pontja a 68/2013. (XI. 15.) EMMI rendelet 4. §-ával megállapított szöveg.
+[^23]: A 4. számú melléklet „Az ivarsejtek és embriók fagyasztva tárolásának javallatai” alcím szövege a 68/2013. (XI. 15.) EMMI rendelet 4. §-ával megállapított szöveg.
+[^24]: Az 5. számú melléklet 1. pontja a 68/2013. (XI. 15.) EMMI rendelet 5. §-ával megállapított szöveg.
+[^25]: Az 5. számú melléklet 2. pontja a 68/2013. (XI. 15.) EMMI rendelet 4. §-ával megállapított szöveg.

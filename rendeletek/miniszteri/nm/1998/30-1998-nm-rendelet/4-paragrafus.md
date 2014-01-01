@@ -10,7 +10,7 @@
 
 (4) Az adományozó, illetve a letevő a 7. számú melléklet szerinti ,,Rendelkezési nyilatkozat ivarsejt felhasználásáról'' elnevezésű nyomtatványon gyakorolja az adományozott, illetve letétbe helyezett ivarsejtekkel kapcsolatos rendelkezési jogát.
 
-(5)[^8] A kérelmezők együttesen, az 1/A. § a) és b) pontja szerinti kérelmező egyedül – az Eütv. 168. §-ának (2) bekezdése szerinti tájékoztatás után – a 8. számú melléklet szerinti „Rendelkezési nyilatkozat fagyasztva tárolt embriókról” elnevezésű nyomtatványon gyakorolják az embriókkal kapcsolatos rendelkezési jogot, és azon megjelölhetik, hogy a rendelkezési jog megszűnése esetére
+(5)[^9] A kérelmezők együttesen, az 1/A. § a) és b) pontja szerinti kérelmező egyedül – az Eütv. 168. §-ának (2) bekezdése szerinti tájékoztatás után – a 8. számú melléklet szerinti „Rendelkezési nyilatkozat fagyasztva tárolt embriókról” elnevezésű nyomtatványon gyakorolják az embriókkal kapcsolatos rendelkezési jogot, és azon megjelölhetik, hogy a rendelkezési jog megszűnése esetére
 
 a) hozzájárulnak az embrióadományozáshoz, illetve
 
@@ -22,4 +22,4 @@ c) kérik az embriók megsemmisítését.
 
 (7) Amennyiben a fagyasztva tárolás helyéről az ivarsejtet vagy az embriót nem a letevő kívánságára szállítják más egészségügyi szolgáltatóhoz, az egészségügyi szolgáltatónak a szállítás során biztosítani kell a sérülésmentességet, továbbá a letevőt az átszállításról haladéktalanul tájékoztatnia kell.
 
-[^8]: A 4. § (5) bekezdése a 32/2006. (VIII. 23.) EüM rendelet 3. §-ával megállapított szöveg.
+[^9]: A 4. § (5) bekezdése a 32/2006. (VIII. 23.) EüM rendelet 3. §-ával megállapított szöveg.

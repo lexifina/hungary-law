@@ -52,6 +52,6 @@
 
 ## – ellenőrzésre visszarendelés időpontja és eredménye.
 
-11. számú melléklet a 30/1998. (VI. 24.) NM rendelethez[^30]
+11. számú melléklet a 30/1998. (VI. 24.) NM rendelethez[^32]
 
-[^30]: A 11. számú mellékletet a 49/2008. (XII. 31.) EüM rendelet 2. § (1) bekezdése hatályon kívül helyezte.
+[^32]: A 11. számú mellékletet a 49/2008. (XII. 31.) EüM rendelet 2. § (1) bekezdése hatályon kívül helyezte.

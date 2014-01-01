@@ -4,7 +4,7 @@ a) legalább két egymástól független – a meddőség tényének és okának
 
 b) a nő a reprodukciós kor felső határát nem érte el,
 
-c) a kérelmezők nem állnak egymással olyan rokoni kapcsolatban, amely a házasságról, a családról és a gyámságról szóló 1952. évi IV. törvény 8. § (1) bekezdésének a) és b) pontja szerint a házasságot érvénytelenné teszi, és ezt írásbeli nyilatkozatukkal alátámasztják,
+c)[^2] a kérelmezők nem állnak egymással olyan rokoni kapcsolatban, amely a házasságról, a családról és a gyámságról szóló 1952. évi IV. törvény 8. § (1) bekezdésének a) és b) pontja szerint a házasságot érvénytelenné teszi, és ezt írásbeli nyilatkozatukkal alátámasztják,
 
 d) a kérelmezők hitelt érdemlően igazolják
 
@@ -16,7 +16,7 @@ e) a 2. § (4) bekezdés szerinti feltétel teljesül,
 
 f) valamennyi feltétel együttes fennállása esetén az alkalmazott eljárással orvosilag megalapozott esélye van egészséges gyermek fogamzásának és megszületésének,
 
-g)[^2]
+g)[^3]
 
 (2) Nem végezhető el a reprodukciós beavatkozás,
 
@@ -28,9 +28,9 @@ ab) fertőző megbetegedés kórokozóját hordozza;
 
 b) ha a létrejövő terhesség a kihordó anya életét súlyosan veszélyezteti, illetőleg abból nagy valószínűséggel egészséges gyermek nem születhet.
 
-(3) Amennyiben a kérelmezők vér szerinti rokoni kapcsolatban állnak egymással, illetve a kórelőzményi adatok alapján az egyébként indokolt, a reprodukciós eljárás elvégzésének előfeltétele, hogy a külön jogszabály szerinti[^3] Regionális Genetikai Központ szakmai véleményét a (4) bekezdés szerinti szakorvos a javaslat kialakítása előtt kikérje.
+(3) Amennyiben a kérelmezők vér szerinti rokoni kapcsolatban állnak egymással, illetve a kórelőzményi adatok alapján az egyébként indokolt, a reprodukciós eljárás elvégzésének előfeltétele, hogy a külön jogszabály szerinti[^4] Regionális Genetikai Központ szakmai véleményét a (4) bekezdés szerinti szakorvos a javaslat kialakítása előtt kikérje.
 
-(4)[^4] A reprodukciós eljárás elvégzésére irányuló szakorvosi javaslat megadására szülész-nőgyógyász szakképzettségű szakorvos jogosult – az 1/B. § a) pontjában és az 1/C. § c) pontjában foglaltak kivételével – andrológus szakorvos véleményének figyelembevételével.
+(4)[^5] A reprodukciós eljárás elvégzésére irányuló szakorvosi javaslat megadására szülész-nőgyógyász szakképzettségű szakorvos jogosult – az 1/B. § a) pontjában és az 1/C. § c) pontjában foglaltak kivételével – andrológus szakorvos véleményének figyelembevételével.
 
 (5) A reprodukciós eljárás – a (2) bekezdés szerinti kizáró ok hiányában – akkor javasolható, ha
 
@@ -43,6 +43,7 @@ ba) a méhűr alkalmasságát, a negatív hüvelyváladékot igazoló, és az al
 bb) a férj vagy az élettárs hat hónapnál nem régebbi spermiogrammja.
 
 [^1]: Az 1. § (1) bekezdésének felvezető mondata a 32/2006. (VIII. 23.) EüM rendelet 6. § (3) bekezdése szerint módosított szöveg.
-[^2]: Az 1. § (1) bekezdés g) pontját a 29/2008. (VII. 16.) EüM rendelet 3. § (3) bekezdése hatályon kívül helyezte.
-[^3]: Lásd a 25/1998. (VI. 17.) NN rendeletet.
-[^4]: Az 1. § (4) bekezdése a 32/2006. (VIII. 23.) EüM rendelet 1. §-ával megállapított szöveg.
+[^2]: [Az 1. § (1) bekezdés c) pontjának a 16/2014. (III. 12.) EMMI rendelet 3. §-ával elrendelt módosítása, amely szerint az „a házasságról, a családról és a gyámságról szóló 1952. évi IV. törvény 8. § (1) bekezdésének a)–b) pontja” szövegrész helyébe az „a Polgári Törvénykönyvről szóló 2013. évi V. törvény 4:12. § (1) bekezdés a) és b) pontja” szöveg lép, nem vezethető át.]
+[^3]: Az 1. § (1) bekezdés g) pontját a 29/2008. (VII. 16.) EüM rendelet 3. § (3) bekezdése hatályon kívül helyezte.
+[^4]: Lásd a 25/1998. (VI. 17.) NN rendeletet.
+[^5]: Az 1. § (4) bekezdése a 32/2006. (VIII. 23.) EüM rendelet 1. §-ával megállapított szöveg.
