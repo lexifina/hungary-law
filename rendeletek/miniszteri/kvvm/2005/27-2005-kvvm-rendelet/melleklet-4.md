@@ -44,7 +44,7 @@
 
 ## – mérőműszer (így például pH-mérő) beállításánál a kibocsátó képviselőjének jelenlétét.
 
-4. melléklet a 27/2005. (XII. 6.) KvVM rendelethez[^18]
+4. melléklet a 27/2005. (XII. 6.) KvVM rendelethez[^19]
 
 1. VAL lapok
 
@@ -614,4 +614,4 @@ Szennyvízkibocsátás adatai 3 – Iszap SZK3
 
 | Tárgyév: | ! ! ! ! | . | Adatszolgáltatás típusa: | ! |  |  |
 
-[^18]: A 4. melléklet a 25/2007. (VII. 30.) KvVM rendelet 3. §-a szerint módosított szöveg.
+[^19]: A 4. melléklet a 25/2007. (VII. 30.) KvVM rendelet 3. §-a szerint módosított szöveg.
