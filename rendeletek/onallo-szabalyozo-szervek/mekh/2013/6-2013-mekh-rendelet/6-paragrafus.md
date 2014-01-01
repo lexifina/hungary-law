@@ -1,0 +1,1 @@
+## „(7) A 2. § (1) bekezdés a) pont aa) alpont aan) alpontja szerinti határkeresztező vezeték használata esetén a rendszerhasználónak meg kell fizetni a 2. § (1) bekezdés a) pont aa) alpont aac) alpontjára vonatkozó, a 2. melléklet II. pontjában meghatározott betáplálási szállítási kapacitás díjjal azonos mértékű díjat is.”
