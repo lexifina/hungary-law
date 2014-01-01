@@ -1,5 +1,3 @@
-## 14. §[^10]
-
 ## 8. Építészeti-műszaki tervezés
 
 15. § (1) Az Étv. 32. § (1) bekezdése szerinti építészeti-műszaki tervezési tevékenységnek az építésügyi hatósági eljáráshoz és az építőipari kivitelezéshez szükséges építészeti-műszaki dokumentációk készítése építészeti-műszaki tervezési jogosultsághoz kötött. Tervezői művezetést az adott tervezési szakterületen jogosultsággal rendelkező végezhet.
@@ -31,5 +29,3 @@ c) a megvalósulási terv
 a) az adott építészeti-műszaki dokumentáció engedélyezésében vagy az annak alapján megvalósítandó építmény kivitelezésének építésfelügyeletében feladatot ellátó hatóság köztisztviselője vagy kormánytisztviselője,
 
 b) az építészeti-műszaki dokumentáció településképi véleményezési eljárásába bevont önkormányzati főépítész.
-
-[^10]: A 14. § a 47. § (2) bekezdése alapján 2014. január 1-jén lép hatályba.

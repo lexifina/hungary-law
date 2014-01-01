@@ -1,12 +1,18 @@
-## 51–52. §[^42]
+## 52. § A bányafelügyelet hatáskörébe tartozó egyes sajátos építményekre vonatkozó építésügyi hatósági eljárások szabályairól szóló 53/2012. (III. 28.) Korm. rendelet 9. § (2) bekezdése helyébe a következő rendelkezés lép:
 
-53. § (1)–(2)[^43]
+## „(2) Felelős műszaki vezető hiányában a fennmaradási engedély iránti kérelemhez az építésügyi és az építésüggyel összefüggő szakmagyakorlási tevékenységekről szóló kormányrendelet szerinti sajátos építményfajtákkal összefüggő építésügyi műszaki szakértői szakterületen bányászati építmények szakértői részszakterületi építésügyi műszaki szakértő (1) bekezdés szerinti nyilatkozatát kell csatolni.”
 
-(3)[^44]
+53. § (1)–(2)[^8]
 
-(4)[^45]
+(3) Az Épelj. 66. § (3) bekezdése helyébe a következő rendelkezés lép:
 
-[^42]: Az 51–52. § a 47. § (2) bekezdése alapján 2014. január 1-jén lép hatályba.
-[^43]: Az 53. § (1)–(2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^44]: Az 53. § (3) bekezdése a 47. § (2) bekezdése alapján 2014. január 1-jén lép hatályba.
-[^45]: Az 53. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+## „(3) Az építésfelügyeleti hatóság eljárást kezdeményez a névjegyzéket vezető szervnél, ha
+
+## a) az építészeti-műszaki tervező által készített kivitelezési dokumentáció szakszerűtlen vagy tartalma valótlan,
+
+## b) építési-műszaki ellenőrre vagy felelős műszaki vezetőre vonatkozó összeférhetetlenséget észlel.”
+
+(4)[^9]
+
+[^8]: Az 53. § (1)–(2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: Az 53. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

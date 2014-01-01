@@ -1,5 +1,19 @@
-## 29. §[^21]
-
 ## 18. Az egységes elektronikus névjegyzék vezetése
 
-[^21]: A 29. § a 47. § (2) bekezdése alapján 2014. január 1-jén lép hatályba.
+30. § (1) A területi kamara titkára az engedély megadásával, illetve a bejelentés tudomásulvételével egyidejűleg a szakmagyakorlót nyilvántartásba veszi, a névjegyzéki jelölést a határozattal vagy az igazolással közli.
+
+(2) A területi kamarák – az országos kamarák által közösen működtetett, az OÉNY-nyel összekapcsolt, szakterületekre bontott, nyilvános elektronikus – közös névjegyzéket vezetnek, amelyet folyamatosan aktualizálnak a szakmagyakorlók adatszolgáltatása, valamint a továbbképzési kötelezettség igazolása alapján.
+
+(3) A névjegyzékben rögzíteni kell a névjegyzékbe vételi eljárással összefüggésben, jogszabályban előírt igazgatási szolgáltatási díj megfizetésének, valamint a továbbképzési kötelezettség teljesítésének tényét. A szakmagyakorlási tevékenységek szakterület szerinti jelölését az 1., 2. és 3. melléklet szerint kell a névjegyzékben rögzíteni.
+
+(4) A névjegyzék
+
+a) természetes személy vonatkozásában az Étv. 58. § (10) bekezdése és a Kamtv. 43. § (2) bekezdése,
+
+b) cég vonatkozásában az Étv. 58. § (1) bekezdése és a Kamtv. 43. § (3) bekezdése
+
+## szerinti adatokat tartalmazza.
+
+(5) Az elkülönített névjegyzéken a (4) bekezdés szerinti adattartalommal kell vezetni a Kamtv. 1. § (3), (4) és (6) bekezdésében meghatározott szakmagyakorlót és az eseti engedéllyel rendelkezőt.
+
+(6) A (4) és (5) bekezdés szerinti névjegyzék az Étv. 58. § (1) bekezdése, az Étv. 58. § (10) bekezdés a), c)–f) pontja, a Kamtv. 43. § (2) bekezdés a), b), g)–p) pontja, a Kamtv. 43. § (3) bekezdés a), c)–g) pontja szerinti adatok, valamint a (3) bekezdés szerinti továbbképzési kötelezettség teljesítésének ténye tekintetében közhiteles hatósági nyilvántartásnak minősül.

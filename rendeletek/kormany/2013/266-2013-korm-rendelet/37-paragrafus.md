@@ -1,5 +1,5 @@
-## 36. §[^27]
-
 ## 24. A továbbképzési kötelezettség teljesítésének igazolása
 
-[^27]: A 36. § a 47. § (2) bekezdése alapján 2014. január 1-jén lép hatályba.
+37. § (1) A 36. § (4) bekezdése szerinti továbbképzés teljesítésének elektronikus formában történő igazolása az országos kamara feladata. A területi kamara köteles közhiteles nyilvántartásában naprakészen vezetni az igazolások tartalma alapján az adott továbbképzési időszak teljesítését az egyes szakmagyakorlók tekintetében. Az egyes továbbképzési ciklusok teljesítése vizsgálatának alapjául a kamarai nyilvántartás szolgál. A névjegyzéket vezető szerv kérésére a szakmagyakorló kötelezhető a részére kiállított és átadott igazolások bemutatására egyeztetés céljából.
+
+(2) A kötelező továbbképzési kötelezettség teljesítésének elmulasztása a jogosultság – területi kamara titkára által hivatalból történő – felfüggesztését vonja maga után mindaddig, amíg a szakmagyakorló a továbbképzési kötelezettségének nem tesz eleget, de legfeljebb egy évig.

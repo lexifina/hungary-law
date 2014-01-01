@@ -1,6 +1,6 @@
 ## 4. A szakmagyakorlási tevékenység megkezdésének és folytatásának feltételei
 
-6. § (1)[^6]
+6. § (1) Természetes személy a 3. § szerinti tevékenységeket akkor folytathatja, ha rendelkezik a névjegyzéket vezető szerv engedélyével. Természetes személy a 4. § szerinti esetekben köteles a tevékenység végzésére irányuló szándékát a névjegyzéket vezető szervnek bejelenteni.
 
 (2) Cég akkor kezdheti meg és folytathatja a (4) és (5) bekezdés figyelembevételével az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény (a továbbiakban: Étv.)
 
@@ -32,9 +32,24 @@ c) amelynek végzését a területi kamara nem tiltotta meg.
 
 (5) A cégnek az általa vállalt munkához kapcsolódó szakmagyakorlási tevékenységek közül legalább az egyikhez a (2) bekezdés szerinti feltétellel kell rendelkeznie és azt a tevékenységet a cégnek kell végeznie. A vállalt munkához kapcsolódó egyéb szakmagyakorlási tevékenységet – amelynek végzéséhez jogosultsággal nem rendelkezik – alvállalkozó bevonásával végezheti.
 
-(6)[^7]
+(6) A szakmagyakorlási tevékenység folytatásának feltételei:
+
+a) kamarai tagsághoz kötött jogosultság esetén
+
+aa) a kamarai tagság folytonossága,
+
+ab) továbbképzési időszakonként a kötelező és szakmai továbbképzés teljesítése,
+
+ac) a jogosultság megállapítását követő egy éven belül – a kötelező továbbképzés keretében – beszámoló teljesítése,
+
+ad) adategyeztetési kötelezettség teljesítése,
+
+b) kamarai tagsághoz nem kötött jogosultság esetén
+
+ba) továbbképzési időszakonként kötelező továbbképzési kötelezettség teljesítése,
+
+bb) a jogosultság megállapítását követő egy éven belül – a kötelező továbbképzés keretében – beszámoló teljesítése, az energetikai tanúsítás kivételével,
+
+bc) adategyeztetési kötelezettség teljesítése és az éves nyilvántartási díj befizetése.
 
 (7) A (2) bekezdés vonatkozásában a cég a munkavállalót legalább heti 20 órában foglalkoztatja.
-
-[^6]: A 6. § (1) bekezdése a 47. § (2) bekezdése alapján 2014. január 1-jén lép hatályba.
-[^7]: A 6. § (6) bekezdése a 47. § (2) bekezdése alapján 2014. január 1-jén lép hatályba.
