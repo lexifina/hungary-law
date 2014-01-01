@@ -26,7 +26,7 @@ b) tanyaként feltüntetett lakó-, gazdasági épület, épületcsoport és az 
 
 8. munkaviszony: az Flt.-ben meghatározott fogalom,
 
-9. pénzügyi intézmény: a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvényben meghatározott fogalom, ideértve az Európai Unió más tagállamában vagy az Európai Gazdasági Térségről szóló megállapodásban részes más államban székhellyel rendelkező és ott jogszerűen tevékenységet végző, Magyarország területén határon átnyúló szolgáltatást nyújtó pénzügyi intézményt is,
+9. pénzügyi intézmény: a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényben meghatározott fogalom, ideértve az Európai Unió más tagállamában vagy az Európai Gazdasági Térségről szóló megállapodásban részes más államban székhellyel rendelkező és ott jogszerűen tevékenységet végző, Magyarország területén határon átnyúló szolgáltatást nyújtó pénzügyi intézményt is,
 
 10. természetes személy:
 
