@@ -1,4 +1,4 @@
-29/A. §[^77] (1) A hitelesítések nyilvántartó könyvében az ügyek 1-es ügyszámmal kezdődnek és az ügyek érkezésének megfelelően folyamatosan növekednek.
+29/A. §[^81] (1) A hitelesítések nyilvántartó könyvében az ügyek 1-es ügyszámmal kezdődnek és az ügyek érkezésének megfelelően folyamatosan növekednek.
 
 (2) A papír alapú nyilvántartó könyv minden oldalán fel kell tüntetni az évszámot és betelte esetén új nyilvántartó könyvet kell nyitni, melyben a korábbi könyvben szereplő ügyek számozását folytatni kell.
 
@@ -14,4 +14,4 @@
 
 (8) A hitelesítések nyilvántartó könyvét annak beteltét követően át kell adni a területi kamara elnökségének. A területi kamara elnökségének tagja a könyv megvizsgálása után szükség esetén intézkedik az esetleges javítás, pótlás iránt, majd aláírásával ellátva a könyvet visszaadja a közjegyzőnek. Ezt követően a hitelesítések nyilvántartó könyvét a közjegyző köteles elzártan kezelni.
 
-[^77]: A Vhr. 29/A. §-át a 33/2008. (XII. 31.) IRM rendelet 6. §-a iktatta be.
+[^81]: A Vhr. 29/A. §-át a 33/2008. (XII. 31.) IRM rendelet 6. §-a iktatta be.
