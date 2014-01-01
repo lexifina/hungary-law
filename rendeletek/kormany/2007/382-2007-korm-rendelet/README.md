@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-382-20-
 | 2013-03-31 | 2007-382-20-22.15 | 245/2012. (VIII. 31.) Korm. rendelet |
 | 2013-07-01 | 2007-382-20-22.16 | 154/2013. (V. 24.) Korm. rendelet |
 | 2013-11-01 | 2007-382-20-22.17 | 324/2013. (VIII. 29.) Korm. rendelet |
+| 2014-01-01 | 2007-382-20-22.18 | 527/2013. (XII. 30.) Korm. rendelet |
