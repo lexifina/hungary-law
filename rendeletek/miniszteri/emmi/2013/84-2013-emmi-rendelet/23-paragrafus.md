@@ -1,4 +1,4 @@
-## 22. § Hatályát veszti a XX. Emberi Erőforrások Minisztériuma költségvetési fejezethez tartozó fejezeti kezelésű előirányzatok 2012. évi felhasználásának szabályairól szóló 34/2012. (X. 17.) EMMI rendelet.
+## 22. §[^1]
 
 ## 23. § E rendelet
 
@@ -9,3 +9,5 @@ b) az Európai Unió működéséről szóló szerződés 107. és 108. cikkéne
 c) az Európai Unió működéséről szóló szerződés 106. cikke (2) bekezdésének az általános gazdasági érdekű szolgáltatások nyújtásával megbízott egyes vállalkozások javára közszolgáltatás ellentételezése formájában nyújtott állami támogatásra való alkalmazásáról szóló, 2011. december 20-i 2012/21/EU bizottsági határozat (HL L 7., 2012.1.11., 3. o.),
 
 d) az SA.34770 (2012/N-2). számú, a kultúráért felelős miniszter által vezetett minisztérium költségvetési fejezetének fejezeti kezelésű előirányzataiból és a Nemzeti Kulturális Alapból nyújtott támogatás tárgyában hozott európai bizottsági határozat
+
+[^1]: A 22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
