@@ -14,6 +14,6 @@ d) magyar hatóság menekültként elismerte vagy
 
 e) hontalan.”
 
-(2) A magyar állampolgárságról szóló 1993. évi LV. törvény 19. § (2) bekezdésében az „az anyakönyvi hatóságot” szövegrész helyébe az „a magyar állampolgárság megszűnésével érintett személy születését és házasságát vagy bejegyzett élettársi kapcsolatát, valamint gyermekének születését nyilvántartó anyakönyvvezetőt, illetve a hazai anyakönyvezést végző hatóságot” szöveg lép.
+(2)
 
 (3) Hatályát veszti a magyar állampolgárságról szóló 1993. évi LV. törvény 4. § (4) bekezdés c) pontja.

@@ -4,9 +4,7 @@
 
 „(1) A hivatalvezetőt a kormánymegbízott javaslatára a közigazgatás-szervezésért felelős miniszter nevezi ki és menti fel. A hivatalvezető felett – a kinevezés és a felmentés kivételével – a munkáltatói jogokat a kormánymegbízott gyakorolja. Amennyiben a hivatalvezetővel szemben fegyelmi büntetésként hivatalvesztés büntetés kiszabása indokolt, a kormánymegbízott erre irányuló javaslatáról a közigazgatás-szervezésért felelős miniszter dönt. A kormánymegbízott javaslatában tájékoztatja a közigazgatás-szervezésért felelős minisztert a lefolytatott fegyelmi eljárás megállapításairól, eredményéről, valamint a fegyelmi vétség egyéb releváns körülményeiről.”
 
-(2) A Khtv. 20/D. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) A hivatalvezető további munkavégzésre irányuló jogviszonyt – a tudományos, oktatói, művészeti, lektori, szerkesztői, valamint jogi oltalom alá eső szellemi tevékenység, továbbá a közérdekű önkéntes tevékenység kivételével – nem létesíthet, nem lehet országgyűlési képviselő, helyi önkormányzati képviselő, képviselő-testület bizottságának nem képviselő tagja, fővárosi, megyei közgyűlés tagja, polgármester, megyei közgyűlés elnöke, főpolgármester, alpolgármester, megyei közgyűlés alelnöke, főpolgármester-helyettes, nemzetiségi önkormányzat elnöke és nemzetiségi önkormányzati képviselő.”
+(2)
 
 (3) A Khtv. 9/A. alcíme a következő 20/G. §-sal egészül ki:
 
