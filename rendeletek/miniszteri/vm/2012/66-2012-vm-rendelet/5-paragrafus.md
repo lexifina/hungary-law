@@ -4,7 +4,7 @@
 
 a) a támogatásra jogosult ügyfél azonosító adatai,
 
-b)[^5] a tárgyévben a támogatásra jogosult ügyfél által szárított takarmány előállítás céljára a támogatási kérelem benyújtásáig felhasznált tüzelőanyag mennyisége, átlagos fűtőértéke és a felhasznált hőenergia mennyisége.
+b)[^6] a tárgyévben a támogatásra jogosult ügyfél által szárított takarmány előállítás céljára a támogatási kérelem benyújtásáig felhasznált tüzelőanyag mennyisége, átlagos fűtőértéke és a felhasznált hőenergia mennyisége.
 
 c) a tárgyévben a támogatásra jogosult ügyfél által előállított szárított takarmány mennyisége.
 
@@ -24,4 +24,4 @@ b) arról, hogy tudomásul veszi, hogy amennyiben az intézkedésekkel kapcsolat
 
 (5) A támogatási kérelem benyújtását követően hiánypótlásnak nincs helye.
 
-[^5]: Az 5. § (2) bekezdés b) pontja a 27/2013. (IV. 26.) VM rendelet 11. §-ával megállapított szöveg.
+[^6]: Az 5. § (2) bekezdés b) pontja a 27/2013. (IV. 26.) VM rendelet 11. §-ával megállapított szöveg.
