@@ -6,7 +6,7 @@
 
 (4) A (2)–(3) bekezdésben meghatározott ügyintézési határidő kezdő napja a teljes kérelem benyújtásának napján kezdődik.
 
-(5)[^7] E rendeletnek a felsőoktatási képzési feltételek szabályozására vonatkozó egyes kormányrendeletek módosításáról szóló 325/2013. (VIII. 29.) Korm. rendelet 2. § (3) bekezdésével módosított 22. § (3) bekezdését a hatálybalépésekor[^8] folyamatban lévő ügyek és a hatálybalépését követően megismételt eljárások tekintetében is alkalmazni kell.
+(5)[^8] E rendeletnek a felsőoktatási képzési feltételek szabályozására vonatkozó egyes kormányrendeletek módosításáról szóló 325/2013. (VIII. 29.) Korm. rendelet 2. § (3) bekezdésével módosított 22. § (3) bekezdését a hatálybalépésekor[^9] folyamatban lévő ügyek és a hatálybalépését követően megismételt eljárások tekintetében is alkalmazni kell.
 
-[^7]: A 32. § (5) bekezdését a 325/2013. (VIII. 29.) Korm. rendelet 2. § (5) bekezdése iktatta be.
-[^8]: A hatálybalépés időpontja 2013. augusztus 30.
+[^8]: A 32. § (5) bekezdését a 325/2013. (VIII. 29.) Korm. rendelet 2. § (5) bekezdése iktatta be.
+[^9]: A hatálybalépés időpontja 2013. augusztus 30.

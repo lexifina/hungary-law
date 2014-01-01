@@ -1,4 +1,4 @@
-## 15. § Az FTT tizenegy tagú testület. Egy-egy tagot delegál a miniszter, a foglalkoztatáspolitikáért, a vidékfejlesztésért, a közigazgatás-fejlesztésért, a fejlesztéspolitikáért felelős miniszter, a Magyar Tudományos Akadémia, a Magyar Rektori Konferencia, Hallgatói Önkormányzatok Országos Konferenciája, kettő tagot a gazdasági kamarák és egy tagot az egészségügyi kamarák.
+## 15. §[^3] Az FTT tizenegy tagú testület. Egy-egy tagot delegál a miniszter, a foglalkoztatáspolitikáért, a vidékfejlesztésért, a közigazgatás-fejlesztésért, a Kormány európai uniós források felhasználásáért felelős tagja, a nem az európai uniós fejlesztési források felhasználásáért felelős miniszter a Magyar Tudományos Akadémia, a Magyar Rektori Konferencia, Hallgatói Önkormányzatok Országos Konferenciája, kettő tagot a gazdasági kamarák és egy tagot az egészségügyi kamarák.
 
 16. § (1) Az FTT tagjait, elnökét a miniszterelnök három évre bízza meg. A megbízás egy alkalommal meghosszabbítható. A tagok és az elnök személyére a miniszter tesz javaslatot.
 
@@ -7,3 +7,5 @@
 (3) Az FTT működésének feltételeit a miniszter által kijelölt szervezet biztosítja.
 
 (4) Az FTT elnökének, tagjainak névsorát Magyarország – valamint a minisztérium – hivatalos lapjában, továbbá a minisztérium honlapján közzé kell tenni.
+
+[^3]: A 15. § az 550/2013. (XII. 30.) Korm. rendelet 76. §-a szerint módosított szöveg.
