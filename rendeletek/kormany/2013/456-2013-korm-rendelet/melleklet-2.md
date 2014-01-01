@@ -10,13 +10,13 @@
 
 | 4. | további régészeti feladatellátás meghatározása | Budapest Főváros Kormányhivatalának Építésügyi és Örökségvédelmi Hivatala | nincs |
 
-| 5. | környezetvédelmi hatósági engedélyezési eljárás | Észak-Magyarországi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 5. | környezetvédelmi hatósági engedélyezési eljárás | Észak-magyarországi Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
-| 6. | természetvédelmi hatósági engedélyezési eljárás | Észak-Magyarországi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 6. | természetvédelmi hatósági engedélyezési eljárás | Észak-magyarországi Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
 | 7. | útügyi hatósági engedélyezési eljárás | Borsod-Abaúj-Zemplén Megyei Kormányhivatal Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központ |
 
-| 8. | vízjogi engedélyezési eljárás | Észak-Magyarországi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 8. | vízjogi engedélyezési eljárás | Észak-magyarországi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
 | 9. |  |  | a Magyar Kereskedelmi Engedélyezési Hivatalról és a területi mérésügyi és műszaki biztonsági hatóságokról szóló 320/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdése és 13. § (2) bekezdése szerinti engedélyezési eljárás | Borsod-Abaúj-Zemplén Megyei Kormányhivatal Miskolci Mérésügyi és Műszaki Biztonsági Hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
@@ -46,7 +46,7 @@
 
 | 22. | a jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos hatósági eljárások | Borsod-Abaúj-Zemplén Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-2. melléklet a 456/2013. (XI. 29.) Korm. rendelethez
+2. melléklet a 456/2013. (XI. 29.) Korm. rendelethez[^2]
 
 Az 1. melléklet szerinti nemzetgazdasági szempontból kiemelt jelentőségű ügyekben közreműködő szakhatóságok
 
@@ -58,7 +58,9 @@ Az 1. melléklet szerinti nemzetgazdasági szempontból kiemelt jelentőségű �
 
 | 3. | régészet | Miskolci Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatalának Építésügyi és Örökségvédelmi Hivatala |
 
-| 4. | Környezetvédelmi hatósági engedélyezési eljárás | Észak-Magyarországi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 4. | környezetvédelem, természetvédelem | Észak-magyarországi Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+
+| 4a. | vízügy | Észak-magyarországi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
 | 5. | közúti közlekedés | Borsod-Abaúj-Zemplén Megyei Kormányhivatal Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központ |
 
@@ -89,3 +91,5 @@ Az 1. melléklet szerinti nemzetgazdasági szempontból kiemelt jelentőségű �
 | 18. | hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
 | 19. | műszaki biztonság | Borsod-Abaúj-Zemplén Megyei Kormányhivatal Miskolci Mérésügyi és Műszaki Biztonsági Hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
+
+[^2]: A 2. melléklet az 527/2013. (XII. 30.) Korm. rendelet 155. § (2) bekezdése szerint módosított szöveg.
