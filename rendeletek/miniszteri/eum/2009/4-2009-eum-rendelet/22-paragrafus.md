@@ -1,6 +1,6 @@
-## 21/B. §[^38] Az egészségügyi szolgáltató vezetőjének a balesetfelelős nevét, beosztását, elérhetőségeit, az egészségügyi szolgáltató megnevezését, az adatokban bekövetkezett változásokat 30 napon belül írásban vagy elektronikusan a Hivatalnak be kell jelentenie.
+## 21/B. §[^39] Az egészségügyi szolgáltató vezetőjének a balesetfelelős nevét, beosztását, elérhetőségeit, az egészségügyi szolgáltató megnevezését, az adatokban bekövetkezett változásokat 30 napon belül írásban vagy elektronikusan a Hivatalnak be kell jelentenie.
 
-## Piacfelügyeleti hatósági ellenőrző eljárások[^39]
+## Piacfelügyeleti hatósági ellenőrző eljárások[^40]
 
 22. § (1) Ha a Hivatal megállapítja, hogy egy CE jelöléssel ellátott, helyesen felszerelt és karbantartott, rendeltetésszerűen használt eszköz veszélyeztetheti a beteg, a kezelő vagy más személy egészségét, illetve biztonságát, határozattal rendelkezik az eszköz
 
@@ -14,11 +14,11 @@ b) forgalomból történő kivonásáról, illetve a használatának megtiltás�
 
 (3) Amennyiben a Hivatal megállapítja, hogy egy eszközre előírt EK megfelelőség értékelési eljárást a gyártó vagy a kijelölt szervezet nem, vagy nem megfelelően folytatott le, az (1) bekezdés a), illetve b) pontjának megfelelő határozatot hoz.
 
-(4)[^40] Az (1)–(3) bekezdés szerinti esetben – az intézkedés indokolásával – a Hivatal egyidejűleg értesíti a Bizottságot és az EGT államokat.
+(4)[^41] Az (1)–(3) bekezdés szerinti esetben – az intézkedés indokolásával – a Hivatal egyidejűleg értesíti a Bizottságot és az EGT államokat.
 
-(5)[^41]
+(5)[^42]
 
-[^38]: A 21/B. §-t a 29/2011. (VI. 7.) NEFMI rendelet 18. §-a iktatta be.
-[^39]: A 22. §-t megelőző alcím a 29/2011. (VI. 7.) NEFMI rendelet 19. § (1) bekezdésével megállapított szöveg.
-[^40]: A 22. § (4) bekezdése a 29/2011. (VI. 7.) NEFMI rendelet 19. § (2) bekezdésével megállapított szöveg.
-[^41]: A 22. § (5) bekezdését a 33/2012. (X. 11.) EMMI rendelet 10. § b) pontja hatályon kívül helyezte.
+[^39]: A 21/B. §-t a 29/2011. (VI. 7.) NEFMI rendelet 18. §-a iktatta be.
+[^40]: A 22. §-t megelőző alcím a 29/2011. (VI. 7.) NEFMI rendelet 19. § (1) bekezdésével megállapított szöveg.
+[^41]: A 22. § (4) bekezdése a 29/2011. (VI. 7.) NEFMI rendelet 19. § (2) bekezdésével megállapított szöveg.
+[^42]: A 22. § (5) bekezdését a 33/2012. (X. 11.) EMMI rendelet 10. § b) pontja hatályon kívül helyezte.

@@ -1,4 +1,4 @@
-21/A. §[^37] (1) A Hivatal a 21. § (2) bekezdése szerinti bejelentők által küldött bejelentéseket nyilvántartásba veszi és visszaigazolja.
+21/A. §[^38] (1) A Hivatal a 21. § (2) bekezdése szerinti bejelentők által küldött bejelentéseket nyilvántartásba veszi és visszaigazolja.
 
 (2) Ha a gyártó a tudomására jutott eseményt a 12. melléklet B) rész 10. pontja szerint bejelentett várható időpontig nem vagy nem teljeskörűen vizsgálja ki, a Hivatal a vizsgálatot saját hatáskörben megindítja, és ezzel egy időben – amennyiben a rendelkezésre álló adatok alapján megállapítja, hogy az eszköz nem felel meg az e rendeletben foglalt előírásoknak – rendelkezik az eszköz forgalmazásának, vagy használatának felfüggesztéséről vagy korlátozásáról.
 
@@ -12,4 +12,4 @@
 
 (7) A gyártó vagy a meghatalmazott képviselő az eszközzel kapcsolatos eseményeket köteles nyilvántartani és az eszköz biztonságos alkalmazásához szükséges változtatásokat megvalósítani.
 
-[^37]: A 21/A. §-t a 29/2011. (VI. 7.) NEFMI rendelet 17. §-a iktatta be.
+[^38]: A 21/A. §-t a 29/2011. (VI. 7.) NEFMI rendelet 17. §-a iktatta be.

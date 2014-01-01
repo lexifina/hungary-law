@@ -1,3 +1,3 @@
-## Európai Adatbank[^44]
+## Európai Adatbank[^45]
 
-[^44]: A 26/A. §-t megelőző alcímet a 29/2011. (VI. 7.) NEFMI rendelet 20. §-a iktatta be.
+[^45]: A 26/A. §-t megelőző alcímet a 29/2011. (VI. 7.) NEFMI rendelet 20. §-a iktatta be.
