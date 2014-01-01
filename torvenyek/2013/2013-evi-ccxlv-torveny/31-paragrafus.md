@@ -1,3 +1,5 @@
 ## 9. Az elektronikus hírközlésről szóló 2003. évi C. törvény módosítása
 
-31. §
+31. § Az elektronikus hírközlésről szóló 2003. évi C. törvény (a továbbiakban: Eht.) 94. §-a a következő (5) bekezdéssel egészül ki:
+
+„(5) A települési önkormányzatot a tulajdonában álló közterületen található elektronikus hírközlési építményen – a 90. § megfelelő alkalmazásával – ingyenes használati jog illeti meg az olyan közbiztonsági, bűnmegelőzési, illetve bűnüldözési célt szolgáló eszköz, illetve az eszköz elektronikus hírközlő hálózati ellátását biztosító nem nyilvános elektronikus hírközlő hálózat elemeinek elhelyezésével összefüggésben, amelyek gazdasági célt közvetve sem szolgálnak. Az ingyenes használat joga a fővárosi közterületeken található elektronikus hírközlési építményekkel összefüggésben mind a fővárosi, mind a kerületi önkormányzatot megilleti, függetlenül attól, hogy melyik önkormányzat a közterület tulajdonosa. A használattal összefüggő műszaki feltételeket az elektronikus hírközlési építmény tulajdonosa, használója és a települési önkormányzat közötti megállapodásban kell meghatározni. A megállapodásra az e törvény felhatalmazása alapján kiadott, az elektronikus hírközlési építmények elhelyezéséről szóló elnöki rendelet rendelkezéseit alkalmazni kell.”
