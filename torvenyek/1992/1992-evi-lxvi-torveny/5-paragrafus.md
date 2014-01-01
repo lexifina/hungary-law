@@ -30,7 +30,7 @@ b) csoportos adatszolgáltatás: az adatigénylő által vagy jogszabályban meg
 
 (11) Személyi azonosító: a nyilvántartás hatálya alá tartozó polgárt törvényben meghatározott adatkezelés során egyértelműen azonosító, különleges adatra nem utaló – külön törvényben meghatározott módon képzett – számjegysor.
 
-(12) Okmányazonosító: a személyi azonosítót és a lakcímet igazoló hatósági igazolvány nyomtatványnak, illetőleg a személyazonosító igazolvány nyomtatványának azonosítására alkalmazott jel.
+(12) Okmányazonosító: a személyi azonosítót és lakcímet igazoló hatósági igazolvány nyomtatványának, illetőleg a személyazonosító igazolvány nyomtatványának azonosítására alkalmazott jel.
 
 (13) A polgár aláírása: születési vagy házassági családi és utónevének az általa használt és elismert írásképe.
 

@@ -27,3 +27,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1992-66-00-00
 | 2013-07-20 | 2013. évi CXXVIII. törvény | 1992-66-00-00.59 |
 | 2013-09-01 | 2013. évi XCIII. törvény | 1992-66-00-00.60 |
 | 2013-12-31 | 2013. évi CCL. törvény | 1992-66-00-00.61 |
+| 2014-01-01 | 2013. évi CCXVIII. törvény | 1992-66-00-00.62 |

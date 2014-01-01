@@ -2,36 +2,38 @@
 
 29. § (1) A személyazonosító igazolvány a polgár írásbeli nyilatkozata, valamint az anyakönyv és a nyilvántartás – nem magyar állampolgár esetén ezeken túlmenően a polgár útlevele és a magyarországi tartózkodásának jogcímét igazoló közokirat – alapján kiállított olyan hatósági igazolvány, mely a polgár személyazonosságát és az e törvényben meghatározott adatait közhitelűen igazolja.
 
-(2) A polgár a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti elektronikus kapcsolattartás útján is bejelentheti a személyazonossága igazolására alkalmas hatósági igazolványa elvesztését, eltulajdonítását, megsemmisülését, és kérheti a személyazonosító igazolványa és a vezetői engedélye pótlását, ha az adataiban nem következett be változás, és ideiglenes okmány kiadására nincs szükség. Ilyen esetben a hatósági igazolványt az – okmányazonosító adat kivételével – a pótlásra kerülő korábbi hatósági igazolvánnyal megegyező adattartalommal kell kiadni. A felsorolt és a külön jogszabályban meghatározott eseteket kivéve a személyazonosság igazolására alkalmas hatósági igazolványok kiadásával összefüggő eljárásokban a hatóság nem tart elektronikusan kapcsolatot az ügyféllel. A személyazonosság igazolására alkalmas hatósági igazolványok kiadására irányuló kérelem csak személyesen terjeszthető elő.
+(2) A személyazonosító igazolvány tartalmazza a polgár
 
-(3) A személyazonosító igazolvány tartalmazza a polgár
+a) nevét,
 
-a) nevét;
+b) születési helyét,
 
-b) születési helyét;
+c) születési idejét,
 
-c) születési idejét;
+d) állampolgárságát,
 
-d) állampolgárságát;
+e) anyja nevét,
 
-e) anyja nevét;
+f) nemét,
 
-f) nemét;
+g) arcképmását,
 
-g) arcképét;
+h) aláírását, ha a 14. életévét betöltötte,
 
-h) aláírását, ha a 14. életévét betöltötte;
+i) személyazonosító igazolványa érvényességi idejét,
 
-i) a személyazonosító igazolvány okmányazonosítóját és érvényességi idejét.
+j) személyazonosító igazolványa okmányazonosítóját.
 
-(4) A polgár személyazonosságát – a személyazonosító igazolványon túl – az érvényes útlevél vagy a kártyaformátumú vezetői engedély igazolja. A személyazonosítás céljából – jogszabályban meghatározott kivételekkel – a polgár nem kötelezhető más okmány bemutatására.
+(3) A polgár személyazonosságát a személyazonosító igazolványon túl az érvényes útlevél vagy kártyaformátumú vezetői engedély igazolja. Személyazonosítás céljából – jogszabályban meghatározott kivételekkel – a polgár nem kötelezhető más okmány bemutatására.
 
-(5)
+(4) A kiskorúság miatt cselekvőképtelen polgár részére a személyazonosító igazolványt a törvényes képviselő kérelmére kell kiadni. A korlátozottan cselekvőképes kiskorú jogosultat a személyazonosító igazolvány kiadása ügyében megilleti az eljárási képesség.
 
-(6) A kiskorúság miatt cselekvőképtelen polgár részére a személyazonosító igazolványt a törvényes képviselő kérelmére kell kiadni. A korlátozottan cselekvőképes jogosultat a személyazonosító igazolvány kiadása ügyében megilleti az eljárási képesség.
+(5) A polgár köteles a személyazonosító igazolvány kiadását igényelni, ha nem rendelkezik más érvényes, a személyazonosságát igazoló hatósági igazolvánnyal.
 
-(7) A polgár köteles igényelni a személyazonosító igazolvány kiadását, amennyiben nem rendelkezik más érvényes, a személyazonosságát igazoló hatósági igazolvánnyal.
+(6) A személyazonosság igazolására alkalmas hatósági igazolványok kiadására irányuló kérelem – jogszabályban meghatározott kivétellel – csak személyesen terjeszthető elő.
 
-(8)
+(7) A polgár a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti elektronikus kapcsolattartás útján is bejelentheti a személyazonossága igazolására alkalmas hatósági igazolványa elvesztését, eltulajdonítását, megsemmisülését, és kérheti a személyazonosító igazolványa és a vezetői engedélye pótlását, ha az adataiban nem következett be változás, és ideiglenes okmány kiadására nincs szükség. Az előzőekben felsorolt és a jogszabályban meghatározott más eseteket kivéve a személyazonosság igazolására alkalmas hatósági igazolványok kiadásával összefüggő eljárásokban a hatóság nem tart elektronikusan kapcsolatot az ügyféllel.
 
-(9)
+(8) A személyazonosító igazolványt a (7) bekezdés szerinti esetben az okmányazonosító kivételével a korábbi hatósági igazolvánnyal megegyező adattartalommal kell kiadni.
+
+(9) Ha a személyazonosító igazolvány igénylésére – 14. életévét betöltött polgár kivételével – annak eltulajdonítása miatt, a (2) bekezdés a)–i) pontja szerinti adatok változatlansága mellett kerül sor, a személyazonosító igazolványt az okmányazonosító kivételével a korábbi hatósági igazolvánnyal megegyező adattartalommal kell kiadni.
