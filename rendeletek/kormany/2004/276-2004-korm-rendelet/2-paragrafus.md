@@ -12,7 +12,7 @@ a) a támogatható védett természeti érték vagy terület természetes vagy t
 
 b) a támogatható védett természeti érték vagy terület védelmét, megőrzését, igénybevételének mérséklését szolgáló fejlesztések támogatása (a továbbiakban: fejlesztési támogatás).
 
-(4) A természetvédelmi támogatás pályázat útján nyerhető el. A természetvédelmi támogatás elnyerésének részletes pályázati feltételeit a környezetvédelmi és vízügyi miniszter határozza meg és teszi közzé.
+(4)[^1] A természetvédelmi támogatás pályázat útján nyerhető el. A természetvédelmi támogatás elnyerésének részletes pályázati feltételeit a természetvédelemért felelős miniszter határozza meg és teszi közzé.
 
 (5) A (3) bekezdésben foglalt természetvédelmi támogatások vissza nem térítendő támogatások.
 
@@ -21,3 +21,5 @@ b) a támogatható védett természeti érték vagy terület védelmét, megőrz
 (7) Jogosulatlan a természetvédelmi támogatás igénybevétele, ha utóbb megállapítást nyer, hogy a támogatás igénylője a támogatást jogosulatlanul nyerte el, illetve ha a támogatás igénylője a támogatást rendeltetésétől eltérő célra használja fel. Rendeltetéstől eltérő célú felhasználásnak minősül, ha a jogszabályban, valamint a természetvédelmi hatóság határozatában, szakhatósági állásfoglalásában, illetve a pályázati felhívásban, valamint a támogatásról szóló szerződésben meghatározott céltól, illetve feltételektől eltérően használja fel a természetvédelmi támogatást.
 
 (8) A természetvédelmi támogatás rendeltetésének megfelelő felhasználását a természetvédelmi hatóság ellenőrzi, illetve rendeli el a (7) bekezdésben foglaltak alapján a jogosulatlanul igénybe vett természetvédelmi támogatás visszafizetését.
+
+[^1]: A 2. § (4) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 30. §-a szerint módosított szöveg.

@@ -1,6 +1,6 @@
-7. § (1)[^1] A kártalanítási igényt a kártalanításra jogosult a kár bekövetkezésétől vagy az arról történt tudomásszerzéstől számított 30 napon belül jogosult benyújtani.
+7. § (1)[^2] A kártalanítási igényt a kártalanításra jogosult a kár bekövetkezésétől vagy az arról történt tudomásszerzéstől számított 30 napon belül jogosult benyújtani.
 
-(2)[^2] A kár bekövetkezésétől számított egy éven túl kártalanítási igény nem nyújtható be.
+(2)[^3] A kár bekövetkezésétől számított egy éven túl kártalanítási igény nem nyújtható be.
 
 (3) A kártalanítási igénybejelentésnek tartalmaznia kell:
 
@@ -10,5 +10,5 @@ b) a képviseleti jogosultságról, a kártalanítási összeg jogosultak közö
 
 c) a kártalanításra jogosult és az ingatlan azonosításához szükséges adatokat.
 
-[^1]: A 7. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 377. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^2]: A 7. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 377. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^2]: A 7. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 377. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^3]: A 7. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 377. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
