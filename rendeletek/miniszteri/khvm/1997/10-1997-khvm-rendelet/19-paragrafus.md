@@ -14,9 +14,9 @@ c) a belvizek gravitációs levezetésének lehetősége megszűnt.
 
 (3) A III. fokú készültséget akkor kell elrendelni, ha a védelmi szakasz területén a szivattyútelepek névleges összteljesítményük legalább 75%-ával folyamatosan üzemelnek, vagy a levezető kapacitás elégtelensége miatt a belvizek visszatartását, illetőleg szükségtározását kell elrendelni.
 
-(4)[^27] Ha a VIZIG működési területén a belvízi elöntés olyan méreteket ölt, hogy a belvíz lakott területeket, ipartelepeket, fő közlekedési utakat, vasutakat veszélyeztet és további elöntések várhatók, a vízügyi igazgató – a védelmi bizottság elnökének egyidejű tájékoztatásával – köteles a Törzs vezetője útján a miniszternek javaslatot tenni a rendkívüli készültség elrendelésének kezdeményezésére.
+(4)[^31] Ha a VIZIG működési területén a belvízi elöntés olyan méreteket ölt, hogy a belvíz lakott területeket, ipartelepeket, fő közlekedési utakat, vasutakat veszélyeztet és további elöntések várhatók, a vízügyi igazgató – a védelmi bizottság elnökének egyidejű tájékoztatásával – köteles a Törzs vezetője útján a miniszternek javaslatot tenni a rendkívüli készültség elrendelésének kezdeményezésére.
 
-(5)[^28] A VIZIG szakasz-védelemvezetője a belvízvédelmi rendszerben védekező szervezetek védekezését köteles összehangolni, tevékenységüket a főcsatornákon folytatott védekezésnek alárendelni.
+(5)[^32] A VIZIG szakasz-védelemvezetője a belvízvédelmi rendszerben védekező szervezetek védekezését köteles összehangolni, tevékenységüket a főcsatornákon folytatott védekezésnek alárendelni.
 
 (6) Amennyiben a belvízzel elöntött területekről a befogadók (csatornák, tározók, szükségtározók) teltsége miatt a vizek késleltetett vagy szakaszos levezetése nagy területekre tartósan fennáll, a mentesítést a következő sorrendben kell végrehajtani: lakott területek, ipari létesítmények, közlekedési vonalak, mezőgazdasági területek, azon belül ültetvény, vetés, szántó, erdő, legelő, egyéb.
 
@@ -24,5 +24,5 @@ c) a belvizek gravitációs levezetésének lehetősége megszűnt.
 
 (8) A készültség egyes fokozatait akkor kell megszüntetni, ha az elrendelés oka megszűnt.
 
-[^27]: A 19. § (4) bekezdése a 147/2011. (XII. 23.) VM rendelet 4. § (3) bekezdés c) pontja szerint módosított szöveg.
-[^28]: A 19. § (5) bekezdése a 147/2011. (XII. 23.) VM rendelet 4. § (3) bekezdés c) pontja szerint módosított szöveg.
+[^31]: A 19. § (4) bekezdése a 147/2011. (XII. 23.) VM rendelet 4. § (3) bekezdés c) pontja szerint módosított szöveg.
+[^32]: A 19. § (5) bekezdése a 147/2011. (XII. 23.) VM rendelet 4. § (3) bekezdés c) pontja szerint módosított szöveg.

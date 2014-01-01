@@ -6,9 +6,9 @@
 
 24. § (1) A vízügyi igazgató
 
-a) I–III. fokú készültségben történt védekezést követően 30 napon belül összefoglaló jelentést készít, és azt az OKTVF-hez elfogadásra felterjeszti;
+a)[^33] I–III. fokú készültségben történt védekezést követően 30 napon belül összefoglaló jelentést készít, és azt az OVF-hez elfogadásra felterjeszti;
 
-b) III. fokú készültségben történt védekezést követően az összefoglaló jelentést az OKTVF-hez való felterjesztés előtt a megyei védelmi bizottság elnökének, Budapesten a fővárosi védelmi bizottság elnökének, tájékoztatásul bemutatja;
+b)[^34] III. fokú készültségben történt védekezést követően az összefoglaló jelentést az OVF-hez való felterjesztés előtt a megyei védelmi bizottság elnökének, Budapesten a fővárosi védelmi bizottság elnökének, tájékoztatásul bemutatja;
 
 c) a rendkívüli készültségben történt védekezést követően az összefoglaló jelentést a megyei védelmi bizottság elnökének, Budapesten a fővárosi védelmi bizottság elnökének egyetértésével a miniszternek elfogadásra felterjeszti.
 
@@ -29,3 +29,6 @@ f) a felhasznált anyagokat,
 g) a védekezés költségeit,
 
 h) a védekezés során szerzett tapasztalatokat.
+
+[^33]: A 24. § (1) bekezdés a) pontja a 132/2013. (XII. 23.) VM rendelet 3. § c) pontja szerint módosított szöveg.
+[^34]: A 24. § (1) bekezdés b) pontja a 132/2013. (XII. 23.) VM rendelet 3. § c) pontja szerint módosított szöveg.

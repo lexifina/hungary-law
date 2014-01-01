@@ -1,4 +1,4 @@
-1. számú melléklet a 10/1997. (VII. 17.) KHVM rendelethez[^30]
+1. számú melléklet a 10/1997. (VII. 17.) KHVM rendelethez[^36]
 
 | I. AZ ÁLLAMI TULAJDONÚ ÁRVÍZVÉDELMI VONALAK VÉDELMI SZAKASZAI |
 
@@ -1102,4 +1102,4 @@ ALSÓ-TISZA VIDÉKI VÍZÜGYI IGAZGATÓSÁG
 
 KÖRÖS-VIDÉKI VÍZÜGYI IGAZGATÓSÁG
 
-[^30]: Az 1. számú melléklet a 100/2007. (XII. 23.) KvVM rendelet 1. §-ával megállapított, a 147/2011. (XII. 23.) VM rendelet 17. § c) pontja szerint módosított szöveg.
+[^36]: Az 1. számú melléklet a 100/2007. (XII. 23.) KvVM rendelet 1. §-ával megállapított, a 147/2011. (XII. 23.) VM rendelet 17. § c) pontja szerint módosított szöveg.
