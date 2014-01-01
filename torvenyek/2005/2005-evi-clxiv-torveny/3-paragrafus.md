@@ -24,7 +24,9 @@ g) üzleten kívüli kereskedelem,
 
 h) csomagküldő kereskedelem,
 
-i) automatából történő értékesítés.
+i) automatából történő értékesítés,
+
+j) közlekedési eszközön folytatott értékesítés.
 
 (5) Engedélyköteles kereskedelmi tevékenység esetén az engedélyező hatóság az engedélye megadásával egyidejűleg értesíti a bejelentésköteles kereskedelmi tevékenységet folytató kereskedők nyilvántartását vezető kereskedelmi hatóságot.
 

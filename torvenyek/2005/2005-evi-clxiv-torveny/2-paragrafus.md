@@ -28,6 +28,8 @@
 
 13. kiskereskedelmi tevékenység: üzletszerű gazdasági tevékenység keretében termékek forgalmazása, vagyoni értékű jog értékesítése és az ezzel közvetlenül összefüggő szolgáltatások nyújtása a végső felhasználó részére, ideértve a vendéglátást is;
 
+13a. közlekedési eszközön folytatott értékesítés: vasúti étkezőkocsiban és büfében, autóbuszjáraton, személyhajó éttermében és büféjében, valamint polgári repülőgépjáraton végzett kiskereskedelmi tevékenység,
+
 14. közterületi értékesítés: a közterületen, illetve közforgalom számára nyitva álló helyen végzett kiskereskedelmi tevékenység;
 
 15. közvetlen értékesítés: kiskereskedelmi tevékenység keretében termék forgalmazása közvetlenül az előállítás helyén;
