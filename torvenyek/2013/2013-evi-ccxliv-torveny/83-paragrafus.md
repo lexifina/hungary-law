@@ -1,0 +1,3 @@
+83. § Az Eftv. 2/E. §-a a következő (12) bekezdéssel egészül ki:
+
+„(12) Az egészségügyi ellátási szerződés megszüntethető a felek közös megegyezésével is. A közös megegyezéssel történő megszüntetés esetén a szerződés tárgyát képező egészségügyi szakellátás folyamatos biztosításáról az egészségügyi közszolgáltatásért felelős szervnek gondoskodnia kell. Ha erről az egészségügyi közszolgáltatásért felelős szerv újabb, a 2. § (1) bekezdés a) pontja szerinti megállapodás vagy a 2. § (1) bekezdés b) pontja szerinti szerződés útján gondoskodik, a közös megegyezéssel megszüntetett szerződés megszűnésének időpontja nem lehet korábbi az új szerződés, illetve megállapodás hatálybalépésének időpontjánál.”
