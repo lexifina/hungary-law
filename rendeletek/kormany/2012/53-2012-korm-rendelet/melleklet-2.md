@@ -53,3 +53,7 @@
 2.6. kőolaj- és földgázkitermelő mobil építmény.
 
 3. Bányászati hulladékkezelő építmény.
+
+4.[^32] A föld alatti szénelgázosításhoz szükséges létesítmények.
+
+[^32]: A 2. melléklet 4. pontját az 559/2013. (XII. 31.) Korm. rendelet 68. § (2) bekezdése iktatta be.

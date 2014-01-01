@@ -4,14 +4,22 @@
 
 ## A BÁNYAFELÜGYELET ÉPÍTÉSÜGYI HATÓSÁGI ÉS ÉPÍTÉSFELÜGYELETI ELLENŐRZÉSÉNEK SZABÁLYAI
 
-## 35. § A bányafelügyelet az építési, a bontási, a használatbavételi és a fennmaradási engedélyezési eljárási ügyekben építésügyi hatósági hatáskörében az engedélyhez, valamint a bejelentéshez kötött, az építéssel összefüggő tevékenység végzésével kapcsolatosan a közigazgatási hatósági eljárás általános szabályairól szóló törvényben meghatározottakon túl ellenőrzi:
+## 35. §[^21] A bányafelügyelet építésügyi és építésfelügyeleti hatósági hatáskörében ellenőrzi, hogy
 
-a) a jogerős és végrehajtható építési engedély és a hozzá tartozó jóváhagyott engedélyezési terv meglétét, helyszíni rendelkezésre állását és azok alkalmazását,
+a) a vállalkozó kivitelező, a kivitelezési dokumentáció tervezője, az építési műszaki ellenőr, a felelős műszaki vezető, a beruházás-lebonyolító rendelkezik-e a kivitelezési tevékenység jellegének megfelelő jogosultsággal, regisztrációval,
 
-b) a sajátos építmény szerkezeteinek az engedélyezési tervnek megfelelő, továbbá a szakmai és biztonsági előírások megtartásával történő megvalósulását,
+b) az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 39/A. § (1) és (3) bekezdésében foglaltakat teljesítették-e,
 
-c) a létesítéssel összefüggő tevékenység végzését irányító felelős műszaki vezető szakmai jogosultságát,
+c) az építőipari kivitelezési tevékenység a jogerős építésügyi hatósági engedély, a hozzá tartozó engedélyezési záradékkal ellátott építészeti-műszaki dokumentáció és az az alapján készített kivitelezési dokumentáció alapján, illetve a szakmai és biztonsági előírások megtartásával történt-e,
 
-d) az élet- és vagyonbiztonságra vonatkozó követelmények megtartását, és
+d) az építési napló a jogszabályban meghatározottak szerint és módon rendelkezésre áll-e, az építmény szerkezetére, a kivitelezés módszerére és technológiájára vonatkozó követelményeket betartották-e,
 
-e) az építési naplót.
+e) az építtetői fedezetkezelés hatálya alá tartozó építőipari kivitelezési tevékenység végzése esetén a fedezetkezelőt igénybe vették-e,
+
+f) az építési termékek beépítésére vonatkozó jogszabályokat, szabványokat és szakmai szabályokat az építőipari kivitelezési tevékenység végzése során megtartották-e,
+
+g) az építtető a jogszabályban meghatározott esetekben és módon bejelentette-e az építőipari kivitelezési tevékenység megkezdését, vagy az építőipari kivitelezési tevékenység végzését az építésfelügyeleti hatóság nem tiltotta-e meg,
+
+h) az építési szerződésre vonatkozó előírások teljesültek-e.
+
+[^21]: A 35. § az 559/2013. (XII. 31.) Korm. rendelet 66. §-ával megállapított szöveg.

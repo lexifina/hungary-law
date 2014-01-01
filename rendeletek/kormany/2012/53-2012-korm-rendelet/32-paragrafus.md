@@ -6,7 +6,7 @@ a) megváltoztatja a sajátos építmény rendeltetési célra való alkalmassá
 
 b) megváltoztatja a sajátos építmény befogadó vagy teljesítő képességét vagy geometriai paramétereit, vagy
 
-c) szükségessé teszi nyomvonalas sajátos építmény esetében új ügyfél, szakhatóság, közösségi szolgáltató bevonását az eljárásba és megváltoztatja a biztonsági övezet mértékét.
+c)[^20] a nyomvonalas sajátos építmény biztonsági övezetének mértékét megváltoztatja, és emiatt új ügyfél, szakhatóság, közösségi szolgáltató bevonása szükséges az eljárásba.
 
 (2) Az engedély módosítása iránti kérelemhez az eltérés jellegétől függően
 
@@ -19,3 +19,5 @@ c) a műszaki leírás változása esetén módosított műszaki leírást
 kell mellékelni az 5. § (1) bekezdés a) pontja szerinti példányban.
 
 (3) A bányafelügyelet teljes körű műszaki tervdokumentáció elkészítésére kötelezheti az építtetőt, ha a tervezett módosítás az engedélyezett műszaki tervdokumentáció több részletére terjed ki.
+
+[^20]: A 32. § (1) bekezdés c) pontja az 559/2013. (XII. 31.) Korm. rendelet 65. §-ával megállapított szöveg.
