@@ -18,7 +18,7 @@ g) tartós védekezés esetén legalább tíz naponkénti költségbecslés elk�
 
 (2) A védekezés irányító- és őrszemélyzetét megkülönböztető jellel (karszalag, jelvény, kitűző), a járműveket ,,ÁRVÍZVÉDELEM'' és/vagy ,,BELVÍZVÉDELEM'' feliratú táblával (felirattal) kell ellátni.
 
-(3)[^41] Az (1) bekezdésben foglaltakon túl a vízügyi igazgató gondoskodik:
+(3)[^50] Az (1) bekezdésben foglaltakon túl a vízügyi igazgató gondoskodik:
 
 a) a jég okozta árvízveszély elhárítása érdekében a folyókon a jégtorlaszok kialakulásának megelőzéséről, a jégrombolási munkák irányításáról, az ezzel kapcsolatos feladatok megszervezéséről és végrehajtásáról;
 
@@ -26,19 +26,22 @@ b) a folyamatos kapcsolattartásról az érintett települések polgármestereiv
 
 c) ha előreláthatóan védekezésre kerül sor – a helyi vízkárelhárítás kivételével –, továbbá a védekezés tartama alatt a rendelkezésére álló adatok alapján hidrometeorológiai tájékoztatók és előrejelzések kiadásáról.
 
-(4)[^42] A VIZIG igazgató a nagyobb kár elhárítása érdekében:
+(4)[^51] A VIZIG igazgató a nagyobb kár elhárítása érdekében:
 
 a) a belvizek levezetésének sorrendjét meghatározhatja, befogadóba vezetését ideiglenesen korlátozhatja vagy szüneteltetheti;
 
-b)[^43] rendkívüli védekezési készültség időszakában, az indok alátámasztásával a vízkárelhárítási célú tározó igénybevételére – a védelmi bizottság elnökének egyetértésével – a Törzs útján a vízügyi igazgatási szervek irányításáért felelős miniszternek javaslatot tehet;
+b)[^52] rendkívüli védekezési készültség időszakában, az indok alátámasztásával a vízkárelhárítási célú tározó igénybevételére – a védelmi bizottság elnökének egyetértésével – a Törzs útján a vízügyi igazgatási szervek irányításáért felelős miniszternek javaslatot tehet;
 
-c)[^44] rendkívüli védekezési készültség időszakában a vízügyi igazgatási szervek irányításáért felelős miniszter engedélyével az árvizet és a belvizet vízkárelhárítási célú tározóba vezetheti.
+c)[^53] rendkívüli védekezési készültség időszakában a vízügyi igazgatási szervek irányításáért felelős miniszter engedélyével az árvizet és a belvizet vízkárelhárítási célú tározóba vezetheti;
 
-(5)[^45] A polgármester, illetőleg az általa kijelölt védelemvezető a védekezés műszaki feladatait a vízügyi igazgatósággal[^46] együttműködve látja el. A védekezés felelős vezetői egymást kölcsönösen tájékoztatják.
+d)[^54] területi vízkorlátozás elrendelése esetén dönt a vízigények kielégítésének mértékéről, ütemezéséről, módjáról.
 
-[^41]: [A 15. § (3) bekezdésének a 300/2011. (XII. 22.) Korm. rendelet 25. § (13) bekezdés f) pontjával elrendelt módosítása, mely szerint a „KÖVIZIG” szövegrészek helyébe a „VIZIG” szöveg lép, nem vezethető át.]
-[^42]: A 15. § (4) bekezdése a 300/2011. (XII. 22.) Korm. rendelet 25. § (10) bekezdésével megállapított szöveg.
-[^43]: A 15. § (4) bekezdés b) pontja a 69/2013. (III. 8.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^44]: A 15. § (4) bekezdés c) pontja a 69/2013. (III. 8.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^45]: [A 15. § (5) bekezdésének a 300/2011. (XII. 22.) Korm. rendelet 25. § (13) bekezdés h) pontjával elrendelt módosítása, mely szerint a „KÖVIZIG-gel” szövegrész helyébe a „VIZIG-gel” szöveg lép, nem vezethető át.]
-[^46]: A 269/2003. (XII. 24.) Korm. rendelet 6. §-ának (4) bekezdése alapján, ahol a vízügyi igazgatóságot említ azon a KÖVIG-et kell érteni.
+(5)[^55] A polgármester, illetőleg az általa kijelölt védelemvezető a védekezés műszaki feladatait a vízügyi igazgatósággal[^56] együttműködve látja el. A védekezés felelős vezetői egymást kölcsönösen tájékoztatják.
+
+[^50]: [A 15. § (3) bekezdésének a 300/2011. (XII. 22.) Korm. rendelet 25. § (13) bekezdés f) pontjával elrendelt módosítása, mely szerint a „KÖVIZIG” szövegrészek helyébe a „VIZIG” szöveg lép, nem vezethető át.]
+[^51]: A 15. § (4) bekezdése a 300/2011. (XII. 22.) Korm. rendelet 25. § (10) bekezdésével megállapított szöveg.
+[^52]: A 15. § (4) bekezdés b) pontja a 69/2013. (III. 8.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^53]: A 15. § (4) bekezdés c) pontja a 69/2013. (III. 8.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^54]: A 15. § (4) bekezdés d) pontját az 527/2013. (XII. 30.) Korm. rendelet 6. § (14) bekezdése iktatta be.
+[^55]: [A 15. § (5) bekezdésének a 300/2011. (XII. 22.) Korm. rendelet 25. § (13) bekezdés h) pontjával elrendelt módosítása, mely szerint a „KÖVIZIG-gel” szövegrész helyébe a „VIZIG-gel” szöveg lép, nem vezethető át.]
+[^56]: A 269/2003. (XII. 24.) Korm. rendelet 6. §-ának (4) bekezdése alapján, ahol a vízügyi igazgatóságot említ azon a KÖVIG-et kell érteni.

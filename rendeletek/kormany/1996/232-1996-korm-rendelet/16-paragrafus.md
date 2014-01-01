@@ -1,15 +1,17 @@
 ## Az irányítási rendszer
 
-## 16. §[^47] A védekezési készültségi fokozatokban, a műszaki irányítás feladatainak ellátása során:
+## 16. §[^57] A védekezési készültségi fokozatokban, a műszaki irányítás feladatainak ellátása során:
 
 a) a VIZIG igazgató a Törzs útján a vízügyi igazgatási szervek irányításáért felelős miniszternek,
 
-b) a helyi önkormányzat szakasz-védelemvezetője a polgármesternek, főpolgármesternek vagy az általa kijelölt védelemvezetőnek,
+b) a polgármester vagy az általa kijelölt védelemvezető a Helyi Védelmi Bizottság elnöke útján közvetlenül a Megyei Védelmi Bizottság vezetőjének,
 
-c) a vízitársulat védelemvezetője a VIZIG szakasz-védelemvezetőjének,
+c) a VIZIG szakasz-védelemvezetője a vízügyi igazgatónak,
 
-d) rendkívüli védekezési készültség időszakában, ha veszélyhelyzet kihirdetésére nem kerül sor, a VIZIG igazgató vagy a vízügyi igazgatási szervek irányításáért felelős miniszter által kirendelt megbízott, továbbá a polgármester, főpolgármester vagy az általa kijelölt védelemvezető a Törzs útján a vízügyi igazgatási szervek irányításáért felelős miniszternek
+d) a vízitársulat védelemvezetője a VIZIG szakasz-védelemvezetőjének,
 
-van alárendelve.
+e) az önkormányzathoz kirendelt vízügyi műszaki irányító közvetlenül a vízügyi igazgatónak,
 
-[^47]: A 16. § a 300/2011. (XII. 22.) Korm. rendelet 25. § (11) bekezdésével megállapított szöveg.
+f) rendkívüli védekezési készültség időszakában, ha veszélyhelyzet kihirdetésére nem kerül sor, a VIZIG igazgató vagy a vízügyi igazgatási szervek irányításáért felelős miniszter által kirendelt megbízott, továbbá a polgármester, főpolgármester vagy az általa kijelölt védelemvezető a Törzs útján a vízügyi igazgatási szervek irányításáért felelős miniszternek
+
+[^57]: A 16. § az 527/2013. (XII. 30.) Korm. rendelet 6. § (15) bekezdésével megállapított szöveg.

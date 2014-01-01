@@ -12,7 +12,7 @@ d) az a)–b)–c) pont alatt felsoroltak rendszeres, évenkénti felülvizsgál
 
 e) védekezési gyakorlatok tartása.
 
-(2)[^26] A vízügyi igazgatóságok[^27] feladata az (1) bekezdésben foglaltakon túlmenően:
+(2)[^33] A vízügyi igazgatóságok[^34] feladata az (1) bekezdésben foglaltakon túlmenően:
 
 a) az országos vízrajzi törzshálózatba illeszkedő észlelő- és figyelőhálózat kialakítása és működtetése;
 
@@ -22,9 +22,18 @@ c) együttműködés a szomszédos államok illetékes szerveivel a közös véd
 
 d) információs rendszer kialakítása és működtetése;
 
-e) különcélú védekezési távközlő hálózatok kialakítása és működtetése.
+e) különcélú védekezési távközlő hálózatok kialakítása és működtetése;
+
+f)[^35] az üzemeltetésébe tartozó vízkivételi művek, vízpótló és vízátvezetési útvonalak, tározók, műtárgyak, mérő és megfigyelő berendezések, eszközök és ezek tartozékainak rendszeres fenntartása (karbantartás, üzemeltetés);
+
+g)[^36] a vízháztartási állapot és a vízkészletek figyelemmel kísérése, vízhiányos állapotok előrejelzése,
+
+h)[^37] a szerződött vízhasználatok és az így lekötött vízmennyiségek nyilvántartása.
 
 (3) A védekezési terveket a védekezésre kötelezettnek minden év december 10-ig felül kell vizsgálnia és a változásokat a terveken át kell vezetnie.
 
-[^26]: [A 8. § (2) bekezdésének a 300/2011. (XII. 22.) Korm. rendelet 25. § (13) bekezdés g) pontjával elrendelt módosítása, mely szerint a „KÖVIZIG-ek” szövegrész helyébe a „VIZIG-ek” szöveg lép, nem vezethető át.]
-[^27]: A 269/2003. (XII. 24.) Korm. rendelet 6. §-ának (4) bekezdése alapján, ahol a vízügyi igazgatóságot említ azon a KÖVIG-et kell érteni.
+[^33]: [A 8. § (2) bekezdésének a 300/2011. (XII. 22.) Korm. rendelet 25. § (13) bekezdés g) pontjával elrendelt módosítása, mely szerint a „KÖVIZIG-ek” szövegrész helyébe a „VIZIG-ek” szöveg lép, nem vezethető át.]
+[^34]: A 269/2003. (XII. 24.) Korm. rendelet 6. §-ának (4) bekezdése alapján, ahol a vízügyi igazgatóságot említ azon a KÖVIG-et kell érteni.
+[^35]: A 8. § (2) bekezdés f) pontját az 527/2013. (XII. 30.) Korm. rendelet 6. § (12) bekezdése iktatta be.
+[^36]: A 8. § (2) bekezdés g) pontját az 527/2013. (XII. 30.) Korm. rendelet 6. § (12) bekezdése iktatta be.
+[^37]: A 8. § (2) bekezdés h) pontját az 527/2013. (XII. 30.) Korm. rendelet 6. § (12) bekezdése iktatta be.
