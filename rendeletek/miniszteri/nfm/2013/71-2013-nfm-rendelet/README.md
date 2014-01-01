@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-71-20-2
 | 2013-12-10 | 2013-71-20-2W.1 | 71/2013. (XII. 2.) NFM rendelet |
 | 2013-12-11 | 2013-71-20-2W.2 | 2010: CXXX. törvény |
 | 2013-12-31 | 2013-71-20-2W.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2014-01-01 | 2013-71-20-2W.4 | 2010: CXXX. törvény |

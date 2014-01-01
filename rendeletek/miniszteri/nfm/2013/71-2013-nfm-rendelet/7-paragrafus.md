@@ -1,14 +1,16 @@
-## 1–6. §[^1]
+## 1–6. §[^2]
 
-7. § (1)[^2]
+7. § (1)[^3]
 
-(2) Az ER. a 2. melléklet szerinti 5/A. számú melléklettel egészül ki.
+(2)[^4]
 
-(3)–(15)[^3]
+(3)–(15)[^5]
 
-(16)–(17)[^4]
+(16) Az ER. A. Függelék A/1. melléklete a 16. melléklet szerint módosul.
 
-[^1]: Az 1–6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: A 7. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: A 7. § (3)–(15) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: A 7. § (16)–(17) bekezdése a 9. § (3) bekezdése alapján 2014. január 1-jén lép hatályba.
+(17) Az ER. A. Függelék A/9. melléklete a 17. melléklet szerint módosul.
+
+[^2]: Az 1–6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 7. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 7. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 7. § (3)–(15) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
