@@ -58,22 +58,36 @@
 
 ## 5. Az átvállalás jogcíme
 
-3. melléklet a 343/2011. (XII. 29.) Korm. rendelethez[^53]
+3. melléklet a 343/2011. (XII. 29.) Korm. rendelethez[^69]
 
 ## A Ktdt. 3. § (6) bekezdésében meghatározott nyilatkozat mintája
 
-1. eseti nyilatkozat esetén:
+1. Eseti nyilatkozat esetén:
 
-## „A ……… számú számlán ……… tételsorok alatt feltüntetett csomagolószerekre vonatkozó termékdíj-kötelezettséget a Ktdt. 3. § (6) bekezdés …) pontja alapján teljesítem.
+A ......... számú számlán ......... tételsorok alatt feltüntetett termékeket a Ktdt. 3. § (6) bekezdés ...) pontjában …) alpontjában foglaltak szerint használom fel.
 
-## Kelt,
+Kelt,
 
-## P. H.
+P. H.
 
-## ……………………………
+.................................
 
-## aláírás”
+aláírás
 
-2. időszaki nyilatkozat esetén:
+2. Időszaki nyilatkozat esetén:
 
-[^53]: A 3. melléklet a 366/2012. (XII. 17.) Korm. rendelet 42. § (5) bekezdése szerint módosított szöveg.
+A ......... adószám, .................. név, .................. cím eladótól 20... év ......... hónap ... napjától, 20... év ......... hónap ... napjáig (teljesítés napja) megvásárolt, alábbi termékeket
+
+...... CsK vagy KT kód, ................................. megnevezés
+
+a Ktdt. 3. § (6) bekezdés ...) pontjában …) alpontjában foglaltak szerint használom fel.
+
+Kelt,
+
+P. H.
+
+...................................................
+
+cégszerű aláírás
+
+[^69]: A 3. melléklet az 529/2013. (XII. 30.) Korm. rendelet 12. § (4) bekezdésével megállapított szöveg.

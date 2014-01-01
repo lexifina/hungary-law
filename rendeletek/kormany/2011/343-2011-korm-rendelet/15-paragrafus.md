@@ -12,13 +12,13 @@ b) a szerződés végleges lezárásáig a kifizetési időszakokat egyedileg va
 
 Az a) pontban meghatározott ellenőrzések nem keletkeztetnek ellenőrzéssel lezárt időszakot.
 
-(2) A kifizetéshez kapcsolódó dokumentumalapú ellenőrzés a teljesítési igazolás és mellékletei ellenőrzéséből áll, amely kiterjed különösen:
+(2)[^29] A kifizetéshez kapcsolódó dokumentumalapú ellenőrzés a kifizetés iránti kérelem és mellékletei ellenőrzéséből áll, amely kiterjed különösen:
 
-a) arra, hogy a benyújtott teljesítési igazolás és mellékletei az elnyert támogatási pályázat kapcsán merültek-e fel,
+a)[^30] arra, hogy a benyújtott kifizetés iránti kérelem és mellékletei az elnyert támogatási pályázat kapcsán merültek-e fel,
 
 b) arra, hogy a támogatási szerződésben foglalt mennyiségi és pénzügyi előrehaladási feltételeknek megfelelnek-e, illetve valós mennyiségi adatokon alapulnak-e,
 
-c) arra, hogy a benyújtott teljesítési igazolás és mellékletei adattartalma összhangban van-e az elszámolási időszakra vonatkozó kifizetési előrejelzéssel és az elszámolhatósági szabályokkal,
+c)[^31] arra, hogy a benyújtott kifizetés iránti kérelem és mellékletei adattartalma összhangban van-e az elszámolási időszakra vonatkozó kifizetési előrejelzéssel és az elszámolhatósági szabályokkal,
 
 d) arra, hogy az elszámolási időszakban a köztartozás-mentesség fennáll-e,
 
@@ -28,9 +28,9 @@ f) arra, hogy a Ktdt. 20. § (2) bekezdése alapján folyósított támogatást 
 
 (3) A helyszíni ellenőrzés kiterjed különösen arra, hogy:
 
-a) a benyújtott teljesítési igazolás valós mennyiségi adatokon alapul-e, és megfelel-e a megkötött szerződésben vállalt kötelezettségeknek és szakmai célkitűzéseknek,
+a)[^32] a benyújtott kifizetés iránti kérelem valós mennyiségi adatokon alapul-e, és megfelel-e a megkötött szerződésben vállalt kötelezettségeknek és szakmai célkitűzéseknek,
 
-b) a teljesítési igazolás mellékleteként benyújtott alátámasztó bizonylatok, dokumentumok, igazolások és összesítő táblázatok eredeti példánya rendelkezésre áll-e, és megegyezik-e a kifizetés iránti kérelemhez benyújtott másolattal,
+b)[^33] a kifizetés iránti kérelem mellékleteként benyújtott alátámasztó bizonylatok, dokumentumok, igazolások és összesítő táblázatok eredeti példánya rendelkezésre áll-e, és megegyezik-e a kifizetés iránti kérelemhez benyújtott másolattal,
 
 c) az ellenőrzött által benyújtott vezetői nyilatkozat (köztartozás-mentesség, egyéni teljesítésű hulladékhasznosítás) összhangban van-e az azt megalapozó bizonylatokkal,
 
@@ -42,6 +42,11 @@ f) az új technológia alkalmazására, a hasznosítási technológia megvalós�
 
 g) arra, hogy a Ktdt. 20. § (2) bekezdése alapján folyósított támogatást ténylegesen a lakossági környezettudatos nevelésre fordították-e.
 
-(4)[^24] A teljesítési igazolás és mellékletei formai és tartalmi követelményeinek meghatározásakor a Ht.-ben és végrehajtási rendeleteiben meghatározott előírásokat is figyelembe kell venni.
+(4)[^34] A kifizetés iránti kérelem és mellékletei formai és tartalmi követelményeinek meghatározásakor a Ht.-ben és végrehajtási rendeleteiben meghatározott előírásokat is figyelembe kell venni.
 
-[^24]: A 15. § (4) bekezdése a 441/2012. (XII. 29.) Korm. rendelet 25. § b) pontja szerint módosított szöveg.
+[^29]: A 15. § (2) bekezdés nyitó szövegrésze az 529/2013. (XII. 30.) Korm. rendelet 13. § 5. pontja szerint módosított szöveg.
+[^30]: A 15. § (2) bekezdés a) pontja az 529/2013. (XII. 30.) Korm. rendelet 13. § 5. pontja szerint módosított szöveg.
+[^31]: A 15. § (2) bekezdés c) pontja az 529/2013. (XII. 30.) Korm. rendelet 13. § 5. pontja szerint módosított szöveg.
+[^32]: A 15. § (3) bekezdés a) pontja az 529/2013. (XII. 30.) Korm. rendelet 13. § 5. pontja szerint módosított szöveg.
+[^33]: A 15. § (3) bekezdés b) pontja az 529/2013. (XII. 30.) Korm. rendelet 13. § 5. pontja szerint módosított szöveg.
+[^34]: A 15. § (4) bekezdése a 441/2012. (XII. 29.) Korm. rendelet 25. § b) pontja, az 529/2013. (XII. 30.) Korm. rendelet 13. § 5. pontja szerint módosított szöveg.

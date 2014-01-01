@@ -144,6 +144,8 @@
 
 | E | Csomagolóeszköz vagy csomagolóeszközként is felhasználható termék |
 
+| B | Az eladótérben megtöltésre tervezett, szánt, felhasználásra kerülő (eladótéri) műanyag zsák, zacskó |
+
 | K | Kereskedelmi csomagolóeszköz – a műanyag bevásárló reklámtáska kivételével |
 
 | M | Kereskedelmi csomagolóeszköz – műanyag bevásárló reklámtáska |
@@ -151,8 +153,6 @@
 | A | Csomagolóanyag vagy csomagolóanyagként is felhasználható termék |
 
 | S | Csomagolási segédanyag vagy csomagolási segédanyagként is felhasználható termék |
-
-| V | Termékdíjelőleg visszaigénylése a Ktdt. 12/A.§ (5) bekezdése alapján |
 
 ## CsK kód 2–3. karaktere: a termék anyagát jelölő kódok
 
@@ -262,27 +262,29 @@
 
 | 99 | egyéb anyag |
 
-## CsK kód 4–5. karaktere: pénzügyi státuszkód, amely a csomagolószerek esetében a kötelezettség keletkezését vagy annak hiányát jelöli
+## CsK kód 4-5. karaktere: pénzügyi státuszkód, amely a csomagolószerek esetében a kötelezettség keletkezését vagy annak hiányát jelöli
 
 | Kód (4-5.) | Megnevezés |
 
 | Belföldi előállítású csomagolószer |
 
-| 10 | teljes díjtétel, a Ktdt. 2. melléklete alapján |
+| 10 | teljes díjtétel, a Ktdt. 2. melléklete alapján (kollektív teljesítés) |
 
 | 11 | egyéni teljesítő, a Ktdt. 3. melléklete alapján számított díjtétel |
 
-| 12 | díjtétel-különbözet |
+| 12 | a termékdíj nem kerül megfizetésre a vevő Ktdt. 3. § (6) bekezdés b) pont bb) alpontja szerint adott nyilatkozata alapján |
 
-| 13 | termékdíj-átalány |
+| 13 | teljes díjtétel a Ktdt. 2. melléklete alapján (kollektív teljesítés), eltérő felhasználás esetén |
 
-| 14 | a termékdíj-kötelezettség az átalánydíjat fizető vevőt terheli (mezőgazdasági termelő nyilatkozata) |
+| 14 | a termékdíj nem kerül megfizetésre a vevő Ktdt. 3. § (6) bekezdés a) pontja szerint adott nyilatkozata alapján |
 
-| 15 | a termékdíj-kötelezettség a betétdíjas újrahasználható csomagolást kibocsátó vevőt terheli (nyilatkozat) |
+| 15 | a termékdíj nem kerül megfizetésre a vevő Ktdt. 3. § (6) bekezdés b) pont ba) alpontja szerint adott nyilatkozata alapján |
 
-| 16 | az egyéb csomagolószer termékdíj-kötelezettsége a végfelhasználó nem csomagolási célú felhasználásra vonatkozó nyilatkozata alapján nem áll fenn |
+| 16 | a termékdíj nem kerül megfizetésre a vevő Ktdt. 3. § (6) bekezdés c) pont ca) vagy cb) alpontja szerint adott nyilatkozata alapján |
 
-| 17 | a termékdíj-kötelezettséget az első belföldi vevő a Ktdt. 14. § (5) bekezdés a) pontja alapján szerződéssel átvállalta |
+| 17 | a termékdíj-kötelezettséget az első belföldi vevő a Ktdt. 14. § (5) bekezdés a) pont aa) alpontja alapján szerződéssel átvállalta |
+
+| 1A | a termékdíj-kötelezettséget a belföldi vevő a Ktdt. 14. § (5) bekezdés a) pont ab) alpontja alapján szerződéssel átvállalta |
 
 | 18 | a termékdíj-kötelezettséget a Ktdt. 14. § (5) bekezdés b) pontja szerinti bérgyártó szerződéssel átvállalta |
 
@@ -316,25 +318,27 @@
 
 | 28 | a csomagolószer termékdíja a Ktdt. 25. § (1) bekezdés g) pontja alapján visszaigénylésre kerül |
 
-| 29 | a csomagolószer termékdíja egyéb jogcímen visszaigénylésre kerül |
+| 29 | a csomagolószer termékdíja a Ktdt. 25. § (2a) bekezdése alapján visszaigénylésre kerül |
 
 | Külföldről behozott csomagolószer |
 
-| 30 | teljes díjtétel, a Ktdt. 2. melléklete alapján |
+| 30 | teljes díjtétel, a Ktdt. 2. melléklete alapján (kollektív teljesítés) |
 
 | 31 | egyéni teljesítő, a Ktdt. 3. melléklete alapján számított díjtétel |
 
-| 32 | díjtétel különbözet |
+| 32 | a termékdíj nem kerül megfizetésre a vevő Ktdt. 3. § (6) bekezdés b) pont bb) alpontja szerint adott nyilatkozata alapján |
 
-| 33 | termékdíj-átalány |
+| 33 | teljes díjtétel a Ktdt. 2. melléklete alapján (kollektív teljesítés), eltérő felhasználás esetén |
 
-| 34 | a termékdíj-kötelezettség az átalánydíjat fizető vevőt terheli (mezőgazdasági termelő nyilatkozata) |
+| 34 | a termékdíj nem kerül megfizetésre a vevő Ktdt. 3. § (6) bekezdés a) pontja szerint adott nyilatkozata alapján |
 
-| 35 | a termékdíj-kötelezettség a betétdíjas újrahasználható csomagolást kibocsátó vevőt terheli (nyilatkozat) |
+| 35 | a termékdíj nem kerül megfizetésre a vevő Ktdt. 3. § (6) bekezdés b) pont ba) alpontja szerint adott nyilatkozata alapján |
 
-| 36 | az egyéb csomagolószer termékdíj-kötelezettsége a végfelhasználó nem csomagolási célú felhasználásra vonatkozó nyilatkozata alapján nem áll fenn |
+| 36 | a termékdíj nem kerül megfizetésre a vevő Ktdt. 3. § (6) bekezdés c) pont ca) vagy cb) alpontja szerint adott nyilatkozata alapján |
 
-| 37 | a termékdíj-kötelezettséget az első belföldi vevő a Ktdt. 14. § (5) bekezdés a) pontja alapján szerződéssel átvállalta |
+| 37 | a termékdíj-kötelezettséget az első belföldi vevő a Ktdt. 14. § (5) bekezdés a) pont aa) alpontja alapján szerződéssel átvállalta |
+
+| 3A | a termékdíj-kötelezettséget a belföldi vevő a Ktdt. 14. § (5) bekezdés a) pont ab) alpontja alapján szerződéssel átvállalta |
 
 | 38 | a termékdíj-kötelezettséget a Ktdt. 14. § (5) bekezdés b) pontja szerinti bérgyártó szerződéssel átvállalta |
 
@@ -364,21 +368,19 @@
 
 | 47 | a csomagolószer termékdíja a Ktdt. 25. § (1) bekezdés e) pontja alapján visszaigénylésre kerül, kivéve selejt, hulladék |
 
-| 48 | a csomagolószer termékdíja a Ktdt. 25. § (1) bekezdés e) pontja alapján visszaigénylésre kerülő selejtes hulladék |
+| 48 | a csomagolószer termékdíja a Ktdt. 25. § (1) bekezdés e) pontja alapján visszaigénylésre kerülő selejt, hulladék |
 
-| 49 | a csomagolószer termékdíja egyéb jogcímen visszaigénylésre kerül |
+| 49 | a csomagolószer termékdíja a Ktdt. 25. § (2a) bekezdése alapján visszaigénylésre kerül |
 
 | Külföldről behozott csomagolás részét képező csomagolószer |
 
-| 50 | teljes díjtétel, a Ktdt. 2. melléklete alapján |
+| 50 | teljes díjtétel, a Ktdt. 2. melléklete alapján (kollektív teljesítés) |
 
 | 51 | egyéni teljesítő, a Ktdt. 3. melléklete alapján számított díjtétel |
 
-| 52 | díjtétel-különbözet |
+| 54 | a termékdíj-kötelezettséget az első belföldi vevő a Ktdt. 14. § (5) bekezdés a) pont aa) alpontja alapján szerződéssel átvállalta |
 
-| 53 | termékdíj-átalány |
-
-| 54 | a termékdíj-kötelezettséget az első belföldi vevő a Ktdt. 14. § (5) bekezdés a) pontja alapján szerződéssel átvállalta |
+| 5A | a termékdíj-kötelezettséget a belföldi vevő a Ktdt. 14. § (5) bekezdés a) pont ab) alpontja alapján szerződéssel átvállalta |
 
 | 55 | a termékdíj a Ktdt. 25. § (1) bekezdés a) pontja alapján visszaigénylésre kerül |
 
@@ -392,25 +394,31 @@
 
 | 60 | a termékdíj a Ktdt. 25. § (1) bekezdés f) pontja alapján visszaigénylésre kerül |
 
-| 61 | a termékdíja egyéb jogcímen visszaigénylésre kerül |
+| 61 | a termékdíj a Ktdt. 25. § (2a) bekezdése alapján visszaigénylésre kerül |
 
-## CsK kód 6–7. karaktere: a termék újrahasználhatóságát jelölő kód
+## CsK kód 6-7. karaktere: a termék újrahasználhatóságát jelölő kód
 
-| Kód (6–7.) | Megnevezés |
+| Kód (6-7.) | Megnevezés |
 
 | Külföldről behozott csomagolás részét képező csomagolószer esetén |
 
+| 97 | külföldről behozott áru részét képező, visszaszállításra kerülő újrahasználható csomagolószer |
+
 | 98 | külföldről behozott áru részét képező csomagolószer, a visszaszállításra kerülő újrahasználható csomagolószer kivételével |
 
-| Kód (6–7.) | Megnevezés |
-
-| Csomagolószer esetén |
+| Csomagolószer esetén, az eladótéri műanyag zsák, zacskó, továbbá a műanyag bevásárló reklám táska kivételével |
 
 | 01 | egyszer használható |
 
-| 02 | többször használható |
+| 02 | többször használható, a Főfelügyelőség újrahasználható csomagolószer nyilvántartásába felvett csomagolószer |
 
-| V9 | Ktdt. 12/A. § (5) bekezdése szerinti termékdíjelőleg visszaigénylés |
+| 03 | többször használható, a Főfelügyelőség újrahasználható csomagolószer nyilvántartásába felvett nem vett csomagolószer |
+
+| Eladótéri műanyag zsák, zacskó, továbbá a műanyag bevásárló reklám táska esetén |
+
+| 50 | 50 mikronnál (0,05 milliméter) kisebb falvastagságú |
+
+| 51 | 50 mikron (0,05 milliméter) vagy azt meghaladó falvastagságú |
 
 ## B) cím
 
@@ -592,25 +600,21 @@
 
 | Hűtőközeg | 809 |
 
-## 2. A KT kód 4–5. jegye:
+## 2. A KT kód 4-5. jegye:
 
-| 01 | ha a termékdíj megfizetése a Ktdt. 2. mellékletében foglalt díjtételekkel történik |
+| 01 | ha a termékdíj megfizetése a Ktdt. 2. mellékletében foglalt díjtételekkel történik (kollektív teljesítés) |
 
 | 02 | ha a termékdíj megfizetése a Ktdt. 3. mellékletében foglalt számított díjtételekkel történik |
 
-| 03 | ha a termékdíj megfizetése a reklámhordozó papír termékdíj különbözete megfizetésével történik |
+| 71 | ha a termékdíjat az egyéb kőolajtermék alapanyagként történő felhasználása esetén nem kell megfizetni |
 
-| 71 | ha a termékdíjat az egyéb kőolajtermék alapanyagként történő felhasználása esetén nem kell megfizetni Ktdt. 12. § (3) bekezdés a) pontja alapján |
-
-| 72 | ha a termékdíjat az egyéb kőolajtermék R9 eljárással törtnő előállítása esetén nem kell megfizetni a Ktdt. 12. § (3) bekezdés b) pontja alapján |
+| 72 | ha a termékdíjat az egyéb kőolajtermék R9 eljárással törtnő előállítása esetén nem kell megfizetni |
 
 | 73 | ha a termékdíj-kötelezettség az egyéb kőolajtermék után számlán átvállalásra került |
 
-| 77 | ha a termékdíj-kötelezettség a Ktdt. 14. § (5) bekezdés a) pontja alapján szerződéssel átvállalásra került |
+| 77 | ha a termékdíj-kötelezettség a Ktdt. 14. § (5) bekezdés a) pont aa) alpontja alapján szerződéssel átvállalásra került |
 
 | 78 | ha a termékdíj-kötelezettség a Ktdt. 14. § (5) bekezdés b) pontja alapján szerződéssel átvállalásra került |
-
-| 80 | ha a termékdíj-előleg megfizetésre került, és az visszaigénylésre kerül a Ktdt. 12/A. § (5) bekezdése alapján |
 
 | 81 | ha a termékdíj megfizetésre került, és az visszaigénylésre kerül a Ktdt. 25. § (1) bekezdés a) pontja alapján |
 
@@ -622,9 +626,7 @@
 
 | 85 | ha a termékdíj megfizetésre került, és az visszaigénylésre kerül a Ktdt. 25. § (1) bekezdés e) pontja alapján |
 
-| 86 | ha a termékdíj megfizetésre került, és az anyagában történő hasznosítás következtében visszaigénylésre kerül a Ktdt. 25. § (2) bekezdése alapján |
-
-| 87 | ha a termékdíj megfizetésre került, és az energetikai hasznosítás következtében visszaigénylésre kerül a Ktdt. 25. § (2) bekezdése alapján |
+| 86 | ha a termékdíj megfizetésre került, és az anyagában történő hasznosítás következtében visszaigénylésre kerül |
 
 | 89 | ha a termékdíj megfizetésre került, és a visszaigénylésre egyéb jogcímen kerül sor |
 
@@ -640,82 +642,78 @@
 
 | K2 | külföldről behozott, nem termékdíjköteles termék termékdíjköteles alkotórésze, tartozéka esetén |
 
-| V9 | termékdíjelőleg visszatérítése esetén [Ktdt. 12/A. § (5) bekezdése] |
-
-## 4. Termékdíjköteles termékből képződő hulladék környezetvédelmi termékdíj kódjai
-
-## (HKT kódok)
+## 4. Termékdíjköteles termékből képződő hulladék környezetvédelmi termékdíj kódjai (HKT kódok)
 
 | A 7 számjegyű HKT kód felépítése: |
 
 | 1. pozíció | 1 | – a belföldön keletkező és belföldön kezelt hulladék esetén |
 
-| 2 | – a belföldön keletkező, de külföldön kezelt hulladék esetén |
+|  | 2 | – a belföldön keletkező, de külföldön kezelt hulladék esetén |
 
-| 9 | – a belföldön keletkező és belföldön, valamint külföldön kezelt hulladék összesen (1+2) |
+|  | 9 | – a belföldön keletkező és belföldön, valamint külföldön kezelt hulladék összesen (1+2) |
 
-| 3 | – országon kívül keletkező, de belföldön kezelt hulladék esetén |
+|  | 3 | – országon kívül keletkező, de belföldön kezelt hulladék esetén |
 
-| 2–4. pozíció: | 900 | – hulladékkezelés esetén (belső technikai kód) |
+| 2-4. pozíció: | 900 | – hulladékkezelés esetén (belső technikai kód) |
 
-| 010 | – visszavett hulladék mennyisége összesen (011+012) |
+|  | 010 | – visszavett hulladék mennyisége összesen (011+012) |
 
-| 011 | – lakosságtól visszavett hulladék mennyisége esetén |
+|  | 011 | – lakosságtól visszavett hulladék mennyisége esetén |
 
-| 012 | – nem lakosságtól visszavett hulladék mennyisége esetén |
+|  | 012 | – nem lakosságtól visszavett hulladék mennyisége esetén |
 
-| 100 | – begyűjtött hulladék mennyisége esetén (101+102) |
+|  | 100 | – begyűjtött hulladék mennyisége esetén (101+102) |
 
-| 101 | – lakossági szelektív hulladékgyűjtésből begyűjtött hulladék mennyisége esetén |
+|  | 101 | – lakossági szelektív hulladékgyűjtésből begyűjtött hulladék mennyisége esetén |
 
-| 102 | – nem lakossági szelektív hulladékgyűjtésből begyűjtött hulladék mennyisége esetén |
+|  | 102 | – nem lakossági szelektív hulladékgyűjtésből begyűjtött hulladék mennyisége esetén |
 
-| 200 | – készletezett hulladék mennyisége esetén |
+|  | 200 | – készletezett hulladék mennyisége esetén |
 
-| 300 | – előkezelt hulladék mennyisége esetén |
+|  | 300 | – előkezelt hulladék mennyisége esetén |
 
-| 310 | – előkezelt (válogatás) hulladék mennyisége esetén |
+|  | 310 | – előkezelt (válogatás) hulladék mennyisége esetén |
 
-| 320 | – előkezelt (bontás) hulladék mennyisége esetén |
+|  | 320 | – előkezelt (bontás) hulladék mennyisége esetén |
 
-| 400 | – összes hasznosított hulladék mennyisége esetén |
+|  | 400 | – összes hasznosított hulladék mennyisége esetén |
 
-| 410 | – anyagában hasznosított hulladék mennyisége esetén |
+|  | 410 | – anyagában hasznosított hulladék mennyisége esetén |
 
-| 411 | – biológiai úton anyagában hasznosított hulladék mennyisége esetén |
+|  | 411 | – biológiai úton anyagában hasznosított hulladék mennyisége esetén |
 
-| 412 | – újrafeldolgozással anyagában hasznosított hulladék mennyisége esetén |
+|  | 412 | – újrafeldolgozással anyagában hasznosított hulladék mennyisége esetén |
 
-| 413 | – visszanyeréssel alapanyaggá átalakított, anyagában hasznosított hulladék mennyisége esetén |
+|  | 413 | – visszanyeréssel alapanyaggá átalakított, anyagában hasznosított hulladék mennyisége esetén |
 
-| 414 | – egyéb, anyagában hasznosított hulladék mennyisége esetén |
+|  | 414 | – egyéb, anyagában hasznosított hulladék mennyisége esetén |
 
-| 420 | – energetikai úton hasznosított hulladék mennyisége esetén |
+|  | 420 | – energetikai úton hasznosított hulladék mennyisége esetén |
 
-| 421 | – hulladékégetőben energetikai hasznosítással történő elégetés esetén |
+|  | 421 | – hulladékégetőben energetikai hasznosítással történő elégetés esetén |
 
-| 422 | – energia visszanyerés esetén |
+|  | 422 | – energia visszanyerés esetén |
 
-| 430 | – más módon hasznosított hulladék mennyisége esetén |
+|  | 430 | – más módon hasznosított hulladék mennyisége esetén |
 
-| 500 | – ártalmatlanított hulladék mennyisége esetén |
+|  | 500 | – ártalmatlanított hulladék mennyisége esetén |
 
-| 510 | – elégetéssel ártalmatlanított hulladék mennyisége esetén |
+|  | 510 | – elégetéssel ártalmatlanított hulladék mennyisége esetén |
 
-| 520 | – lerakással ártalmatlanított hulladék mennyisége esetén |
+|  | 520 | – lerakással ártalmatlanított hulladék mennyisége esetén |
 
-| 530 | – más kémiai, biológiai, fizikai eljárással ártalmatlanított hulladék mennyisége esetén |
+|  | 530 | – más kémiai, biológiai, fizikai eljárással ártalmatlanított hulladék mennyisége esetén |
 
-| 5–7. pozíció: | 101–109 | – elektromos, elektronikai berendezés hulladéka |
+| 5-7. pozíció: | 101-109 | – elektromos, elektronikai berendezés hulladéka a KT kód első három karaktere szerint |
 
-| 200 | – gumiabroncs hulladéka |
+|  | 200 | – gumiabroncs hulladéka |
 
-| 4** | ** a csomagolószer katalógus CsK kódjának 2-3. karakterei szerint |
+|  | 4** | ** a csomagolószer katalógus CsK kódjának 2-3. karakterei szerint |
 
-| 501, 502 | – akkumulátor hulladéka |
+|  | 501, 502 | – akkumulátor hulladéka a KT kód első három karaktere szerint |
 
-| 600 | – kenőolaj hulladéka |
+|  | 600 | – kenőolaj hulladéka |
 
-2. melléklet a 343/2011. (XII. 29.) Korm. rendelethez[^52]
+2. melléklet a 343/2011. (XII. 29.) Korm. rendelethez[^68]
 
-[^52]: A 2. melléklet a 366/2012. (XII. 17.) Korm. rendelet 41. § (1) bekezdésével megállapított szöveg.
+[^68]: A 2. melléklet a 366/2012. (XII. 17.) Korm. rendelet 41. § (1) bekezdésével megállapított szöveg.

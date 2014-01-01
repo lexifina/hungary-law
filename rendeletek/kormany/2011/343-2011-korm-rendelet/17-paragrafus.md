@@ -14,7 +14,7 @@ e) az ellenőrzés elrendelésére jogosult aláírását, a szervezet bélyegz�
 
 (3) Helyszíni ellenőrzés a tevékenységgel érintett székhelyen, illetve telephelyen, a tevékenység végzése idején folytatható.
 
-(4) Ha az ellenőrzött a Ktdt. 20. § (1) bekezdés f) pontja szerinti tevékenységéhez más személy, szervezet ingatlanát veszi igénybe, az ingatlan tulajdonosának hozzájárulását az ellenőrzöttnek kell biztosítania.
+(4)[^35] Ha az ellenőrzött a Ktdt. 20. § (1) bekezdés d) pontja szerinti tevékenységéhez más személy, szervezet ingatlanát veszi igénybe, az ingatlan tulajdonosának hozzájárulását az ellenőrzöttnek kell biztosítania.
 
 (5) Az ellenőrzésről, valamint az ellenőrzött, illetve az ellenőrzött teljesítési segédje, alvállalkozója szóbeli nyilatkozatáról jegyzőkönyv készül, mely tartalmazza:
 
@@ -37,3 +37,5 @@ h) az ellenőrzést végzők és az ellenőrzött aláírását.
 (6) A jegyzőkönyvet az ellenőrzött részére az ellenőrzést követően igazolt módon át kell adni.
 
 (7) Az ellenőrzött által vitatott jegyzőkönyvi megállapítások tisztázása érdekében szakmai egyeztetést kell tartani, amelyről kiegészítő jegyzőkönyvet kell felvenni.
+
+[^35]: A 17. § (4) bekezdése az 529/2013. (XII. 30.) Korm. rendelet 13. § 4. pontja szerint módosított szöveg.

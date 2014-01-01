@@ -6,8 +6,9 @@
 
 (3)[^7]
 
-(4) A Ktdt. 10. § (2) bekezdésében meghatározott nyilatkozatot tárgyévenként teszi meg az egyéni hulladékkezelést teljesítő kötelezett.
+(4)[^8]
 
 [^5]: A 3. § (1) bekezdése a 366/2012. (XII. 17.) Korm. rendelet 39. § (1) bekezdésével megállapított szöveg.
 [^6]: A 3. § (2) bekezdése a 366/2012. (XII. 17.) Korm. rendelet 42. § (1) bekezdése szerint módosított szöveg.
 [^7]: A 3. § (3) bekezdését a 366/2012. (XII. 17.) Korm. rendelet 43. § (1) bekezdése hatályon kívül helyezte.
+[^8]: A 3. § (4) bekezdését az 529/2013. (XII. 30.) Korm. rendelet 14. § 1. pontja hatályon kívül helyezte.

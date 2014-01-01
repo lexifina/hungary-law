@@ -42,17 +42,17 @@
 
 ## d) környezetvédelmi termékdíj-fizetési kötelezettség összege soronként és összesen.
 
-## V. Visszaigényelhető termékdíj
+## V.[^71] Visszaigényelhető termékdíj
 
-## 1. Visszaigényelhető termékdíj összegének megállapítása
+## 1. Visszaigényelhető termékdíj összegének megállapítása:
 
-## a) Termékdíj visszaigénylés alapját képző mennyisége soronként és összesen,
+## a) termékdíj visszaigénylés alapját képző mennyisége soronként és összesen,
 
-## b) Termékdíjköteles termék mennyiségi egysége után megfizetett díj,
+## b) termékdíjköteles termék mennyiségi egysége után megfizetett díj,
 
-## c) Termékdíjköteles termék után megfizetett visszaigényelhető összeg soronként és összesen.
+## c) termékdíjköteles termék után megfizetett visszaigényelhető összeg soronként és összesen.
 
-## 2. Hulladékká vált kenőolaj visszaigénylése
+## 2. Hulladékká vált kenőolaj visszaigénylése:
 
 ## a) átadott mennyiség,
 
@@ -63,6 +63,12 @@
 ## d) visszaigényelhető összeg soronként és összesen,
 
 ## e) feldolgozás módja.
+
+## 3. Növényvédőszerrel szennyezetett csomagolási hulladék esetén:
+
+## a) átadott mennyiség,
+
+## b) visszaigényelhető összeg soronként és összesen.
 
 ## VI. Az egyéni hulladékkezelés keretében végzett hulladékkezelési tevékenységre vonatkozó adatok
 
@@ -78,7 +84,7 @@
 
 ## f) egyéni hulladékkezelés keretében kezelt mennyiség.
 
-## VII.[^55] A termékdíj-fizetési kötelezettség átvállalására vonatkozó adatok
+## VII.[^72] A termékdíj-fizetési kötelezettség átvállalására vonatkozó adatok
 
 ## 1. Átvállalással érintett termék adatai:
 
@@ -104,25 +110,29 @@
 
 ## h) csomagolóanyag kiskereskedelmi értékesítője által átvett mennyiség.
 
-## VIII. A nyilatkozattal átadott termékdíj-kötelezettség átadása
+## VIII.[^73] A nyilatkozattal átadott termékdíj-kötelezettség átadása
 
 ## 1. Kötelezett neve, adószáma
 
 ## 2. Nyilatkozattal átadott termék adatai
 
-## a) CSK kód,
+## a) CSK vagy KT kódja,
 
 ## b) termékdíjköteles termék megnevezése,
 
 ## c) vevő adószáma.
 
-## 2. Az átadott mennyiség jogcímek szerint:
+## 3. Az átadott mennyiség jogcímek szerint:
 
 ## a) a Ktdt. 3. § (6) bekezdés a) pontja alapján átadott mennyiség,
 
-## b) a Ktdt. 3. § (6) bekezdés b) pontja alapján átadott mennyiség,
+## b) a Ktdt. 3. § (6) bekezdés ba) pontja alapján átadott mennyiség,
 
-## c) a Ktdt. 3. § (6) bekezdés c) pontja alapján átadott mennyiség.
+## c) a Ktdt. 3. § (6) bekezdés bb) pontja alapján átadott mennyiség,
+
+## d) a Ktdt. 3. § (6) bekezdés ca) pontja alapján átadott mennyiség,
+
+## e) a Ktdt. 3. § (6) bekezdés cb) pontja alapján átadott mennyiség.
 
 5. melléklet a 343/2011. (XII. 29.) Korm. rendelethez
 
@@ -150,4 +160,6 @@ A termékdíjköteles termék:
 
 9. a termékdíj megfizetésének napja.
 
-[^55]: A 4. melléklet VII. pontja a 139/2013. (V. 13.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^71]: A 4. melléklet V. pontja az 529/2013. (XII. 30.) Korm. rendelet 12. § (5) bekezdésével megállapított szöveg.
+[^72]: A 4. melléklet VII. pontja a 139/2013. (V. 13.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^73]: A 4. melléklet VIII. pontja az 529/2013. (XII. 30.) Korm. rendelet 12. § (5) bekezdésével megállapított szöveg.
