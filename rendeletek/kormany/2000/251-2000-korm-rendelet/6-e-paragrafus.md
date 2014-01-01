@@ -1,4 +1,4 @@
-6/E. §[^54] (1) A külföldi gazdálkodó szervezetben lévő nettó befektetés fedezeti ügyletét a hozzárendelt külföldi gazdálkodó szervezetben lévő részesedésnek, külföldi követelésnek és külföldi kötelezettségnek (fedezett tételnek, tételeknek) a Tv. 60. § (4)–(6) és (8) bekezdése szerinti értékelésekor kell átértékelni, a valós értékelés értékelési tartalékával szemben.
+6/E. §[^64] (1) A külföldi gazdálkodó szervezetben lévő nettó befektetés fedezeti ügyletét a hozzárendelt külföldi gazdálkodó szervezetben lévő részesedésnek, külföldi követelésnek és külföldi kötelezettségnek (fedezett tételnek, tételeknek) a Tv. 60. § (4)–(6) és (8) bekezdése szerinti értékelésekor kell átértékelni, a valós értékelés értékelési tartalékával szemben.
 
 (2) Az (1) bekezdés szerinti fedezeti ügylet zárásakor annak értékelési különbözetét és a fedezett tétel (tételek) értékelési különbözetét meg kell szüntetni a valós értékelés értékelési tartalékával szemben, egyidejűleg el kell számolni a fedezeti ügylet és a fedezett tétel (tételek) eredményét a pénzügyi műveletek egyéb bevételei vagy egyéb ráfordításai között egymást ellentételező tételként.
 
@@ -8,4 +8,4 @@
 
 (5) A Tv. 3. §-a (9) bekezdésének 14. pontja szerinti fedezeti hatékonyságot – a számviteli politikában rögzített módon – kötelező az értékelési időpontokban vizsgálni és annak eredményét a fedezeti dokumentációban rögzíteni. Ha a lejárati időn belül az ügylet fedezeti jellege megszűnik, akkor azt a kereskedési célú ügyletek szabályai szerint kell elszámolni. Az előre jelzett ügyletek feltételeinek alakulását folyamatosan nyomon kell követni és annak változását a fedezeti dokumentációban rögzíteni kell.
 
-[^54]: A 6/E. §-t a 241/2003. (XII. 17.) Korm. rendelet 2. §-a iktatta a szövegbe, e módosító rendelet 9. §-ának (1)–(2) bekezdése alapján rendelkezéseit először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni, illetve a 2003. évi üzleti évről készített beszámolóra is alkalmazni lehet.
+[^64]: A 6/E. §-t a 241/2003. (XII. 17.) Korm. rendelet 2. §-a iktatta a szövegbe, e módosító rendelet 9. §-ának (1)–(2) bekezdése alapján rendelkezéseit először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni, illetve a 2003. évi üzleti évről készített beszámolóra is alkalmazni lehet.

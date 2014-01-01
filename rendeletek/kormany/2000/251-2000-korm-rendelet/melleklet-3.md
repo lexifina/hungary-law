@@ -116,7 +116,7 @@
 
 ## F. Adózott eredmény (±E–XIV)
 
-## XV.[^125] Általános tartalék felhasználás (+)
+## XV.[^141] Általános tartalék felhasználás (+)
 
 ## Ebből:
 
@@ -140,7 +140,7 @@ Az anyavállalatnak minősülő befektetési vállalkozás összevont (konszolid
 
 ## – társult vállalkozásokból''
 
-2.[^126] A B/II. pont kiegészül az alábbi 12. sorral:
+2.[^142] A B/II. pont kiegészül az alábbi 12. sorral:
 
 ## ,,12. Konszolidációból adódó (számított) társasági adókövetelés''
 
@@ -160,8 +160,8 @@ Az anyavállalatnak minősülő befektetési vállalkozás összevont (konszolid
 
 ## ,,4. Tőkekonszolidációs különbözet leányvállalatokból''
 
-5.[^127] Az ,,A'' változatú mérleg F/III. pontja és a ,,B'' változatú mérleg D. pontja az alábbi 15. sorral egészül ki:
+5.[^143] Az ,,A'' változatú mérleg F/III. pontja és a ,,B'' változatú mérleg D. pontja az alábbi 15. sorral egészül ki:
 
-[^125]: A 2. számú melléklet XV. sora a 331/2008. (XII. 30.) Korm. rendelet 17. §-ával megállapított szöveg. E módosító rendelet 38. § (1)–(2) bekezdése alapján a rendelkezést először a 2009. évben induló üzleti évről készített éves beszámolóra kell alkalmazni, illetve a 2008. évben induló üzleti évről készített éves beszámolóra is alkalmazható.
-[^126]: A 3. számú melléklet 2. pontja a 241/2003. (XII. 17.) Korm. rendelet 8. §-a szerint módosított szöveg.
-[^127]: A 3. számú melléklet 5. pontja a 241/2003. (XII. 17.) Korm. rendelet 8. §-a szerint módosított szöveg.
+[^141]: A 2. számú melléklet XV. sora a 331/2008. (XII. 30.) Korm. rendelet 17. §-ával megállapított szöveg. E módosító rendelet 38. § (1)–(2) bekezdése alapján a rendelkezést először a 2009. évben induló üzleti évről készített éves beszámolóra kell alkalmazni, illetve a 2008. évben induló üzleti évről készített éves beszámolóra is alkalmazható.
+[^142]: A 3. számú melléklet 2. pontja a 241/2003. (XII. 17.) Korm. rendelet 8. §-a szerint módosított szöveg.
+[^143]: A 3. számú melléklet 5. pontja a 241/2003. (XII. 17.) Korm. rendelet 8. §-a szerint módosított szöveg.

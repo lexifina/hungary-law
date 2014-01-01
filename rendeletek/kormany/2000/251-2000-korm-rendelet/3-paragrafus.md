@@ -1,6 +1,6 @@
 ## Éves beszámoló
 
-3. § (1)[^25] A befektetési vállalkozás működéséről, vagyoni, pénzügyi és jövedelmi helyzetéről az üzleti év lezárását követően a Tv.-ben és e rendeletben meghatározott könyvvezetéssel alátámasztott éves beszámolót, valamint a Tv. szerinti üzleti jelentést köteles készíteni az e rendeletben foglaltak figyelembevételével. Az éves beszámoló a (2) bekezdés szerinti mérleget, a (3) bekezdés szerinti eredménykimutatást és a 17. § szerinti kiegészítő mellékletet foglalja magában.
+3. § (1)[^35] A befektetési vállalkozás működéséről, vagyoni, pénzügyi és jövedelmi helyzetéről az üzleti év lezárását követően a Tv.-ben és e rendeletben meghatározott könyvvezetéssel alátámasztott éves beszámolót, valamint a Tv. szerinti üzleti jelentést köteles készíteni az e rendeletben foglaltak figyelembevételével. Az éves beszámoló a (2) bekezdés szerinti mérleget, a (3) bekezdés szerinti eredménykimutatást és a 17. § szerinti kiegészítő mellékletet foglalja magában.
 
 (2) A Tv. 1. számú mellékletében előírt mérleget a befektetési vállalkozás e rendelet 1. számú mellékletében foglalt kiegészítésekkel köteles elkészíteni.
 
@@ -12,7 +12,7 @@
 
 (6) A számviteli politika keretében – a Tv. 14. §-ának (3)–(5) bekezdésében foglaltakon túlmenően – kell elkészíteni:
 
-a)[^26] a Tv. 14. §-a (5) bekezdésének b) pontja szerinti Eszközök és források értékelési szabályzatának részeként, azon belül elkülönítetten, Sajátos értékelési előírások címen, a kintlévőségek, a követelés fejében kapott, készletként kimutatott eszközök, valamint a mérlegen kívüli kötelezettségek értékelését, értékvesztésének elszámolását és céltartalékképzésének rendjét meghatározó részletes szabályokat, amelyek kialakításakor az 5. számú mellékletben foglalt követelményeket kell alapul venni;
+a)[^36] a Tv. 14. §-a (5) bekezdésének b) pontja szerinti Eszközök és források értékelési szabályzatának részeként, azon belül elkülönítetten, Sajátos értékelési előírások címen, a kintlévőségek, a követelés fejében kapott, készletként kimutatott eszközök, valamint a mérlegen kívüli kötelezettségek értékelését, értékvesztésének elszámolását és céltartalékképzésének rendjét meghatározó részletes szabályokat, amelyek kialakításakor az 5. számú mellékletben foglalt követelményeket kell alapul venni;
 
 b) a Tv. 14. §-a (5) bekezdésének d) pontjában foglaltak alapján a pénz- és értékkezelési szabályzatot;
 
@@ -22,9 +22,9 @@ d) az ügynökökkel történő elszámolás rendjére vonatkozó szabályzatot;
 
 e) a határidős, opciós és swap ügyletek elszámolására, nyilvántartására, a fedezeti ügyletek meghatározására és elkülönített kezelésére vonatkozó szabályzatot;
 
-f)[^27] az anyavállalatnak minősülő befektetési vállalkozásnak az összevont (konszolidált) éves beszámoló összeállítására vonatkozó szabályzatot;
+f)[^37] az anyavállalatnak minősülő befektetési vállalkozásnak az összevont (konszolidált) éves beszámoló összeállítására vonatkozó szabályzatot;
 
-g)[^28] a fióktelep és a központ közötti elszámolásra, illetve a fióktelepek egymás közötti elszámolásaira vonatkozó szabályzatot. A szabályzatban meg kell határozni többek között a belföldi központ és annak külföldi fióktelepe, illetve a külföldi központ belföldi fióktelepe esetében egyaránt, hogy:
+g)[^38] a fióktelep és a központ közötti elszámolásra, illetve a fióktelepek egymás közötti elszámolásaira vonatkozó szabályzatot. A szabályzatban meg kell határozni többek között a belföldi központ és annak külföldi fióktelepe, illetve a külföldi központ belföldi fióktelepe esetében egyaránt, hogy:
 
 ga) milyen tételek (pénzeszközök és egyéb vagyontárgyak) képezik a központ által a fióktelep működéséhez – jegyzett tőke vagy jegyzett tőkén felüli vagyon címén – rendelkezésre bocsátott eszközöket,
 
@@ -48,14 +48,14 @@ gi) milyen tételeket kell a fióktelepnek, illetve a központnak az éves besz�
 
 (8) A befektetési vállalkozás köteles belső számviteli rendjét, illetve belső ellenőrzési rendszerét úgy kialakítani, hogy az alkalmas legyen a felügyeleti ellenőrzésre.
 
-(9)[^29] A befektetési vállalkozás a számviteli politikában köteles rendelkezni arról, hogy a Tpt. alapján az adózott eredményből képzett és még fel nem használt általános tartalékot
+(9)[^39] A befektetési vállalkozás a számviteli politikában köteles rendelkezni arról, hogy az adózott eredményből képzett és még fel nem használt általános tartalékot
 
 a) az üzleti év(ek) adózott eredményeként kialakult veszteség megszüntetésére kívánja felhasználni a veszteség összegében, de legfeljebb a meglévő tartalék erejéig, abban az üzleti évben, amelyben a veszteség keletkezett vagy
 
 b) egy összegben kívánja felhasználni az eredménytartalékba való átvezetéssel legkésőbb 2009. december 31-ig.
 
-[^25]: A 3. § (1) bekezdése a 331/2008. (XII. 30.) Korm. rendelet 38. § (3) bekezdése szerint módosított szöveg. E módosító rendelet 38. § (1)–(2) bekezdése szerint a rendelkezést először a 2009. évben induló üzleti évről készített éves beszámolóra kell alkalmazni, illetve a 2008. évben induló üzleti évről készített éves beszámolóra is alkalmazható.
-[^26]: A 3. § (6) bekezdés a) pontja a 331/2008. (XII. 30.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg. E módosító rendelet 38. § (1)–(2) bekezdése alapján a rendelkezést először a 2009. évben induló üzleti évről készített éves beszámolóra kell alkalmazni, illetve a 2008. évben induló üzleti évről készített éves beszámolóra is alkalmazható.
-[^27]: A 3. § (6) bekezdésének f) pontját a 347/2004. (XII. 22.) Korm. rendelet 11. §-a iktatta be, e módosító rendelet 19. §-ának (1)–(2) bekezdése alapján a rendelkezést először a 2005. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban a 2004. évi éves beszámoló elkészítésénél is alkalmazható.
-[^28]: A 3. § (6) bekezdésének g) pontját a 334/2005. (XII. 29.) Korm. rendelet 14. §-a iktatta be. E módosító rendelet 37. § (1)–(2) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban a 2005. évi üzleti évről készített beszámolóra is alkalmazható.
-[^29]: A 3. § (9) bekezdését a 331/2008. (XII. 30.) Korm. rendelet 11. § (2) bekezdése iktatta be. E módosító rendelet 38. § (1)–(2) bekezdése alapján a rendelkezést először a 2009. évben induló üzleti évről készített éves beszámolóra kell alkalmazni, illetve a 2008. évben induló üzleti évről készített éves beszámolóra is alkalmazható.
+[^35]: A 3. § (1) bekezdése a 331/2008. (XII. 30.) Korm. rendelet 38. § (3) bekezdése szerint módosított szöveg. E módosító rendelet 38. § (1)–(2) bekezdése szerint a rendelkezést először a 2009. évben induló üzleti évről készített éves beszámolóra kell alkalmazni, illetve a 2008. évben induló üzleti évről készített éves beszámolóra is alkalmazható.
+[^36]: A 3. § (6) bekezdés a) pontja a 331/2008. (XII. 30.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg. E módosító rendelet 38. § (1)–(2) bekezdése alapján a rendelkezést először a 2009. évben induló üzleti évről készített éves beszámolóra kell alkalmazni, illetve a 2008. évben induló üzleti évről készített éves beszámolóra is alkalmazható.
+[^37]: A 3. § (6) bekezdésének f) pontját a 347/2004. (XII. 22.) Korm. rendelet 11. §-a iktatta be, e módosító rendelet 19. §-ának (1)–(2) bekezdése alapján a rendelkezést először a 2005. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban a 2004. évi éves beszámoló elkészítésénél is alkalmazható.
+[^38]: A 3. § (6) bekezdésének g) pontját a 334/2005. (XII. 29.) Korm. rendelet 14. §-a iktatta be. E módosító rendelet 37. § (1)–(2) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban a 2005. évi üzleti évről készített beszámolóra is alkalmazható.
+[^39]: A 3. § (9) bekezdését a 331/2008. (XII. 30.) Korm. rendelet 11. § (2) bekezdése iktatta be, szövege az 518/2013. (XII. 30.) Korm. rendelet 43. § 1. pontja szerint módosított szöveg.

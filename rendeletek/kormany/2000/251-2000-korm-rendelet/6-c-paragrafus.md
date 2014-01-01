@@ -1,4 +1,4 @@
-6/C. §[^50] (1) A valós értéken történő értékelés esetén a származékos ügyletekre alkalmazni kell a 13. §-t, valamint a 16. § (1)–(4), (10)–(14) bekezdését.
+6/C. §[^60] (1) A valós értéken történő értékelés esetén a származékos ügyletekre alkalmazni kell a 13. §-t, valamint a 16. § (1)–(4), (10)–(14) bekezdését.
 
 (2) A befektetési vállalkozásoknak a származékos ügyleteket – a 6/B. § (2) bekezdése alapján – havonta is értékelni kell.
 
@@ -46,4 +46,4 @@ e) különböző devizák cseréjére vonatkozó swap ügylet esetében a swap �
 
 (15) A kamat-swap ügyletet a kamat elszámolási időpontokban – illetve a kamatok időbeli elhatárolásának időpontjaiban – is értékelni és az értékelési különbözetét módosítani kell kereskedési célú ügylet esetén a befektetési szolgáltatások bevételeivel, illetve ráfordításaival, cash-flow fedezeti ügylet esetében a valós értékelés értékelési tartalékával szemben.
 
-[^50]: A 6/C. §-t a 241/2003. (XII. 17.) Korm. rendelet 2. §-a iktatta a szövegbe, e módosító rendelet 9. §-ának (1)–(2) bekezdése alapján rendelkezéseit először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni, illetve a 2003. évi üzleti évről készített beszámolóra is alkalmazni lehet.
+[^60]: A 6/C. §-t a 241/2003. (XII. 17.) Korm. rendelet 2. §-a iktatta a szövegbe, e módosító rendelet 9. §-ának (1)–(2) bekezdése alapján rendelkezéseit először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni, illetve a 2003. évi üzleti évről készített beszámolóra is alkalmazni lehet.

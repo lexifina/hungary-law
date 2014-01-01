@@ -18,7 +18,7 @@
 
 ## a) elszámolóházzal szembeni követelés
 
-## b) elszámolóházi tevékenységet végző szervezettel szembeni követelések
+## b)[^138] elszámolóházi tevékenységet végző szervezettel, központi szerződő féllel szembeni követelések
 
 ## 6. Követelések kapcsolt vállalkozással szemben
 
@@ -88,7 +88,7 @@
 
 ## a) elszámolóházzal szembeni kötelezettség
 
-## b) elszámolóházi tevékenységet végző szervezettel szembeni kötelezettség
+## b)[^139] elszámolóházi tevékenységet végző szervezettel, központi szerződő féllel szembeni kötelezettség
 
 ## 9. Rövid lejáratú kötelezettségek kapcsolt vállalkozással szemben
 
@@ -102,6 +102,8 @@
 
 ## 14. Származékos ügyletek negatív értékelési különbözete
 
-2. számú melléklet a 251/2000. (XII. 24.) Korm. rendelethez[^124]
+2. számú melléklet a 251/2000. (XII. 24.) Korm. rendelethez[^140]
 
-[^124]: A 2. számú melléklet a 241/2003. (XII. 17.) Korm. rendelet 8. §-a szerint kiegészített szöveg, e módosító rendelet 9. §-ának (1)–(2) bekezdése alapján rendelkezéseit először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni, illetve a 2003. évi üzleti évről készített beszámolóra is alkalmazni lehet.
+[^138]: Az 1. számú melléklet a) pont 5. alpont b) sora az 518/2013. (XII. 30.) Korm. rendelet 41. §-a szerint módosított szöveg.
+[^139]: Az 1. számú melléklet d) pont 8. alpont b) sora az 518/2013. (XII. 30.) Korm. rendelet 41. §-a szerint módosított szöveg.
+[^140]: A 2. számú melléklet a 241/2003. (XII. 17.) Korm. rendelet 8. §-a szerint kiegészített szöveg, e módosító rendelet 9. §-ának (1)–(2) bekezdése alapján rendelkezéseit először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni, illetve a 2003. évi üzleti évről készített beszámolóra is alkalmazni lehet.
