@@ -16,7 +16,7 @@ d) az ellátásra jogosító gyermek tanulói, hallgatói jogviszonyára vonatko
 
 e) a jogosult, a jogosult házastársa, bejegyzett élettársa, élettársa és az ellátásra jogosító gyermek lakó-, illetőleg tartózkodási helyére vonatkozó adat;
 
-f) a jogosult munkahelyére és heti munkaidejére, valamint fizetési számlaszámára vonatkozó adat;
+f) a jogosult fizetési számlaszámára vonatkozó adat;
 
 g) a jogosult, a jogosult házastársának, bejegyzett élettársának, élettársának, továbbá a nagykorú gyermek jövedelmére vonatkozó adat;
 

@@ -2,7 +2,7 @@
 
 a) aki az igénylő háztartásában él, és
 
-aa) akire tekintettel a szülő, a nevelőszülő, a hivatásos nevelőszülő, a gyám családi pótlékra jogosult,
+aa) akire tekintettel a szülő, a nevelőszülő, a gyám családi pótlékra jogosult,
 
 ab) aki közoktatási intézmény tanulója vagy felsőoktatási intézményben első felsőfokú szakképzésben, első alapképzésben, első mesterképzésben vagy első egységes, osztatlan képzésben részt vevő hallgató és rendszeres jövedelemmel nem rendelkezik,
 

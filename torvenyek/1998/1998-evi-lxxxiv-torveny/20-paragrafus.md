@@ -1,6 +1,6 @@
 ## Gyermekgondozási segély
 
-20. § (1) Gyermekgondozási segélyre jogosult a szülő – ideértve a kiskorú szülőt a 11. § (4) bekezdésében meghatározott esetben –, a nevelőszülő, a gyám a saját háztartásában nevelt
+20. § (1) Gyermekgondozási segélyre jogosult a szülő – ideértve a kiskorú szülőt a 11. § (4) bekezdésében meghatározott esetben –, a gyám a saját háztartásában nevelt
 
 a) gyermek 3. életévének betöltéséig,
 

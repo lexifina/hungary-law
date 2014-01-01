@@ -8,7 +8,7 @@ b) az adott tanítási évben igazolatlanul mulasztott ötvenedik kötelező tan
 
 (2) Az (1) bekezdésben foglaltakat nem kell alkalmazni, ha a közoktatási intézmény kötelező tanórai foglalkozásai tekintetében
 
-a) nevelőszülőnél, hivatásos nevelőszülőnél elhelyezett,
+a) nevelőszülőnél elhelyezett,
 
 b) gyermekotthonban elhelyezett,
 

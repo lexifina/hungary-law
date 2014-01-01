@@ -1,10 +1,12 @@
-20/A. § (1) A 20. §-ban megjelölt jogosultakon kívül, de az ott meghatározott feltételek mellett a gyermek szülőjének vér szerinti, örökbefogadó szülője, továbbá annak együtt élő házastársa (a továbbiakban együtt: nagyszülő) is jogosult a gyermekgondozási segélyre, ha a gyermek
+20/A. § (1) A 20. §-ban megjelölt jogosultakon kívül, de az ott meghatározott feltételek mellett a gyermek szülőjének vér szerinti, örökbe fogadó szülője, továbbá annak együtt élő házastársa (a továbbiakban együtt: nagyszülő) is jogosult a gyermekgondozási segélyre, ha
 
-a) az első életévét betöltötte, továbbá
+a) a gyermek az első életévét betöltötte,
 
-b) gondozása, nevelése a szülő háztartásában történik, valamint
+b) a gyermek gondozása, nevelése a szülő háztartásában történik,
 
-c) szülei írásban nyilatkoznak arról, hogy a gyermekgondozási segélyről lemondanak és egyetértenek a gyermekgondozási segélynek nagyszülő részéről történő igénylésével.
+c) a gyermek szülei írásban nyilatkoznak arról, hogy a gyermekgondozási segélyről lemondanak és egyetértenek a gyermekgondozási segélynek nagyszülő részéről történő igénylésével, és
+
+d) a szülő háztartásában nincs másik olyan gyermek vagy ikergyermek, akire tekintettel gyermekgondozási segélyt folyósítanak.
 
 (2) A gyermekkel nem közös háztartásban élő szülő (1) bekezdés c) pontja szerinti egyetértő nyilatkozatát – kérelemre – a gyámhatóság pótolhatja.
 
@@ -14,7 +16,7 @@ c) szülei írásban nyilatkoznak arról, hogy a gyermekgondozási segélyről l
 
 a) ő maga megfelel az ellátásra való jogosultság feltételeinek, és
 
-b) a jogosultsági feltételek – ide nem értve a kereső tevékenység folytatásából adódó kizáró körülményt – a szülő esetében is fennállnak.
+b) a jogosultsági feltételek a szülő esetében is fennállnak.
 
 (5) A nagyszülő gyermekgondozási segélyre való jogosultságát akkor is meg kell szüntetni, ha olyan kizáró körülmény áll be, amely a szülő az ellátásnak saját maga általi igénybevétele esetén a gyermekgondozási segélyre való jogosultságának elvesztését vonná maga után.
 
