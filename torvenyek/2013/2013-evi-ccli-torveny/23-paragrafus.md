@@ -1,3 +1,15 @@
 ## 12. A közszolgálati tisztviselőkről szóló törvénnyel összefüggő átmeneti, módosuló és hatályát vesztő szabályokról, valamint egyes kapcsolódó törvények módosításáról szóló 2012. évi V. törvény módosítása
 
-23–24. §
+23. § A közszolgálati tisztviselőkről szóló törvénnyel összefüggő átmeneti, módosuló és hatályát vesztő szabályokról, valamint egyes kapcsolódó törvények módosításáról szóló 2012. évi V. törvény (a továbbiakban: Kttvá.) 1. alcíme a következő 19/E. §-sal egészül ki:
+
+„19/E. § (1) A 2013. december 31-én hatályos 11. § hatálya alá tartozó kormánytisztviselő illetménykiegészítését a 11. § szerinti szerv jogutód államigazgatási szervénél (e § alkalmazásában a továbbiakban: jogutód államigazgatási szerv) 2014. június 30-ig a 2013. december 31-én hatályos 11. § szerint kell biztosítani.
+
+(2) A 2013. december 31-én hatályos 11. § hatálya alá tartozó kormánytisztviselő illetménykiegészítését 2014. július 1-jétől a jogutód államigazgatási szervnél irányadó szabályok szerint kell biztosítani.
+
+(3) A 2013. december 31-én hatályos 11. § hatálya alá tartozó kormánytisztviselő illetményen kívüli juttatásait 2014. január 1-jétől a jogutód államigazgatási szervnél irányadó szabályok szerint kell biztosítani.
+
+(4) A 2013. december 31-én hatályos 11. § hatálya alá tartozó kormánytisztviselőnek 2014. január 15-ig írásban nyilatkoznia kell az (1)–(3) bekezdésben foglaltak tudomásul vételéről. Ha eddig az időpontig nem nyilatkozik, illetve úgy nyilatkozik, hogy nem fogadja el az (1)–(3) bekezdésben foglaltakat, a jogutód államigazgatási szervvel fennálló kormányzati szolgálati jogviszonya 2014. március 31-ével törvény erejénél fogva megszűnik. A jogviszony megszűnéséről a kormánytisztviselőt írásban értesíteni kell.
+
+(5) Ha a kormánytisztviselő a (4) bekezdés szerinti nyilatkozat megtételére nyitva álló határidőt elmulasztja, 2014. január 31-ig igazolással élhet.
+
+(6) A (4) bekezdés szerinti jogviszony megszűnés esetén a jogutód államigazgatási szerv a nyilatkozattétel napjával, illetve ha a kormánytisztviselő a (4) bekezdésben meghatározott időpontig nem nyilatkozik, 2014. január 16-ától mentesítheti a kormánytisztviselőt a munkavégzési kötelezettség alól. A kormánytisztviselőt jogviszonya megszűnéséig legalább egy hónapra mentesíteni kell a munkavégzési kötelezettség alól. A kormánytisztviselő a munkavégzési kötelezettség alóli mentesítés időtartamára illetményre jogosult. A Kttv. 85. § (2) és (3) bekezdésében meghatározott összeférhetetlenségi szabály nem alkalmazható a munkavégzési kötelezettség alól mentesített kormánytisztviselővel szemben. A munkavégzés alól a kormánytisztviselőt a kívánságának megfelelően – legfeljebb két részletben – kell mentesíteni.”
