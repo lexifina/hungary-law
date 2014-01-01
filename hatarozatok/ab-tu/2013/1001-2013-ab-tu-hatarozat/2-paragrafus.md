@@ -6,9 +6,9 @@
 
 a) döntést hoz a hivatalból történő eljárás megindításáról,
 
-b) döntést hoz az Abtv. 33. §-ában meghatározott hatáskörben,
+b)[^1] döntést hoz az Abtv. 33. §-ában, valamint a 33/A. §-ában meghatározott hatáskörben,
 
-c) döntést hoz az Abtv. 34. §-a alapján az alaptörvény-ellenesség fennállásának megállapítása esetén,
+c)[^2] döntést hoz az Abtv. 34. §-ában, illetve a 34/A. §-ában meghatározott hatáskörben az alaptörvény-ellenesség fennállásának megállapítása esetén, valamint az Alaptörvény 5. cikk (7) bekezdése alapján elfogadott normatív határozat vizsgálatára irányuló – az Abtv. 24. § szerinti – eljárásban az alaptörvény-ellenesség fennállásának megállapítása esetén,
 
 d) döntést hoz az Abtv. 37. § (2) bekezdésében foglaltaknak megfelelően a jogegységi határozat megsemmisítése esetén,
 
@@ -29,3 +29,6 @@ k) meghatározza az Alkotmánybíróság állandó bizottságainak összetétel�
 l) állást foglal az alkotmánybírók személyét és munkakörülményeit érintő alapvető kérdésekben,
 
 m) állást foglal az alapvető költségvetési kérdésekben.
+
+[^1]: A 2. § (2) bekezdés b) pontja az 1003/2013. (XII. 21.) AB TÜ. határozat 1. §-ával megállapított szöveg, e módosító határozat 12. § (2) bekezdése alapján a 2014. január 1-jén folyamatban lévő eljárások tekintetében is alkalmazandók.
+[^2]: A 2. § (2) bekezdés c) pontja az 1003/2013. (XII. 21.) AB TÜ. határozat 1. §-ával megállapított szöveg, e módosító határozat 12. § (2) bekezdése alapján a 2014. január 1-jén folyamatban lévő eljárások tekintetében is alkalmazandók.

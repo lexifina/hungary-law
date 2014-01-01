@@ -20,8 +20,11 @@ d) a beadvány nem felel meg a törvényben előírt alaki vagy tartalmi követe
 
 (4) Ha a (3) bekezdés d) pontjában meghatározott hiányosság előre láthatóan pótolható, a főtitkár a tájékoztatással egyidejűleg – az Abtv. 55. § (3) bekezdése szerint – a jogkövetkezmények ismertetésével és harminc napos határidő megjelölésével hiánypótlásra hívja fel a beadványozót.
 
-(5) A jogi képviselő szabályszerű meghatalmazását a beadványhoz csatolni kell, annak elmaradása vagy az ügyrend rendelkezéseitől eltérő módon történő benyújtása hiánypótlásra okot adó körülmény.
+(5)[^3] Jogi képviselő meghatalmazása esetén a szabályszerű meghatalmazást a beadványhoz csatolni kell, annak elmaradása vagy az ügyrend rendelkezéseitől eltérő módon történő benyújtása hiánypótlásra okot adó körülmény.
 
-(6) Ha a beadványozó a (3)–(5) bekezdésben meghatározott tájékoztatás és a hiánypótlásra való felhívás ellenére a hiányt – a megadott határidőben – nem pótolja, az Alkotmánybíróság az eljárást megszünteti.
+(6)[^4] Ha a beadványozó a (3)–(4) bekezdésben meghatározott tájékoztatás és a hiánypótlásra való felhívás ellenére a hiányt – a megadott határidőben – nem pótolja, az Alkotmánybíróság az eljárást megszünteti; az (5) bekezdésben meghatározott hiány esetén az Alkotmánybíróság az eljárását úgy folytatja le, mintha a jogi képviselői meghatalmazás nem jött volna létre, az indítványozót erről értesíti, és az indítványozó személyes eljárása alapján a tájékoztatást és közlést a továbbiakban az indítványozó részére küldi meg.
 
 (7) Ha az alkotmányjogi panaszt az Abtv. 53. § (2) bekezdésétől eltérően közvetlenül az Alkotmánybíróságnál nyújtották be, és az ügyben első fokon eljárt bíróság a beadvány tartalmából megállapítható, a beadványt a főtitkár megküldi a bíróságnak.
+
+[^3]: A 25. § (5) bekezdése az 1003/2013. (XII. 21.) AB TÜ. határozat 2. §-ával megállapított szöveg, e módosító határozat 12. § (2) bekezdése alapján a 2014. január 1-jén folyamatban lévő eljárások tekintetében is alkalmazandók.
+[^4]: A 25. § (6) bekezdése az 1003/2013. (XII. 21.) AB TÜ. határozat 2. §-ával megállapított szöveg, e módosító határozat 12. § (2) bekezdése alapján a 2014. január 1-jén folyamatban lévő eljárások tekintetében is alkalmazandók.

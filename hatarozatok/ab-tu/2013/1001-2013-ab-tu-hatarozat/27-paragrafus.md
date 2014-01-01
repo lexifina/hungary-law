@@ -1,15 +1,13 @@
 ## 12. Jogi képviselet
 
-27. § (1) A képviseleti jogosultságot az ügyvéd (ügyvédi iroda), a jogvédő társadalmi szervezet képviselője, illetve az európai közösségi jogász a polgári perrendtartásról szóló törvény (a továbbiakban: Pp.) szerinti teljes bizonyító erejű magánokiratba vagy közokiratba foglalt meghatalmazással, a jogtanácsos az indítványozó szervezettel fennálló munkaviszonyát vagy megbízását igazolja. A meghatalmazásnak az Alkotmánybíróság előtti eljárásban való képviseletre kell vonatkoznia.
+27. §[^5] (1) Amennyiben az indítványozó jogi képviselőt hatalmaz meg, az Alkotmánybíróság előtt jogi képviselőként az ügyvéd (ügyvédi iroda, európai közösségi jogász), jogvédő társadalmi szervezet jogi szakvizsgával rendelkező képviselője, valamint a jogi személy és egyéb gazdálkodó szervezet jogtanácsosa járhat el.
 
-(2) A jogtanácsosnak a jogtanácsosi igazolvány másolatát csatolnia kell az indítványhoz.
+(2) A képviseleti jogosultságot a polgári perrendtartásról szóló törvény (a továbbiakban: Pp.) szerinti teljes bizonyító erejű magánokirattal, vagy közokiratba foglalt meghatalmazással, a jogtanácsos esetén az indítványozó szervezettel fennálló munkaviszony vagy megbízás igazolásával illetve jogtanácsosi igazolvánnyal kell igazolni.
 
-(3) Amennyiben az Abtv. szerint a képviseleti jogosultság vagy személyes eljárás igazolásához jogi szakvizsga bizonyítvány szükséges, akkor a meghatalmazáshoz a jogi szakvizsga bizonyítvány másolatát csatolni kell. Ha a kamarai tagságnak, vagy bírói kinevezésnek feltétele a szakvizsga megléte (ügyvéd, közjegyző, bíró esetén) és az indítványozó az Abtv. 51. § (3) bekezdése alapján saját ügyében nyújt be indítványt, szakvizsga bizonyítvány másolatát nem kell csatolnia.
+(3) A meghatalmazásnak az Alkotmánybíróság előtti eljárásban való képviseletre kell vonatkoznia. A védő, illetve a képviselő alapeljárás szerinti kirendelésének, illetve meghatalmazásának hatálya az Alkotmánybíróság előtti eljárásra nem terjed ki.
 
-(4) A főtitkár és az előadó alkotmánybíró az ügy vizsgálata során, kétség esetén a (2)–(3) bekezdésben meghatározott jogtanácsosi igazolvány, illetve szakvizsga bizonyítvány közjegyző által hitelesített vagy közokiratba foglalt másolatát bekérheti.
+(4) A jogi képviselőnek a beadványt aláírásával kell ellátnia.
 
-(5) A védő, a képviselő, és a pártfogó ügyvéd alapeljárás szerinti meghatalmazásának, illetve kirendelésének hatálya az Alkotmánybíróság előtti eljárásra nem terjed ki.
+(5) Ha az Alkotmánybíróság eljárása alatt a jogi képviselő képviseleti jogosultsága bármely okból megszűnik, akkor az Alkotmánybíróság felhívja az indítványozót, hogy tizenöt napon belül állítson új képviselőt, vagy nyilatkozzon a személyes eljárásáról. Amennyiben ennek az indítványozó nem tesz eleget, az Alkotmánybíróság az indítványozó személyes eljárását vélelmezi.
 
-(6) A jogi képviselőnek a beadványt aláírásával kell ellátnia.
-
-(7) Ha az Alkotmánybíróság eljárása alatt a jogi képviselő meghatalmazása bármely okból megszűnik, akkor az Alkotmánybíróság felhívja az indítványozót, hogy tizenöt napon belül állítson új meghatalmazottat, és csatoljon új, szabályszerű meghatalmazást. Amennyiben ennek az indítványozó nem tesz eleget, az Alkotmánybíróság az eljárást megszünteti.
+[^5]: A 27. § az 1003/2013. (XII. 21.) AB TÜ. határozat 3. §-ával megállapított szöveg, e módosító határozat 12. § (2) bekezdése alapján a 2014. január 1-jén folyamatban lévő eljárások tekintetében is alkalmazandók.
