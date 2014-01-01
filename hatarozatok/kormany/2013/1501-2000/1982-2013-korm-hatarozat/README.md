@@ -1,0 +1,9 @@
+# 1982/2013. (XII. 29.) Korm. határozat
+
+a Kormány irányítása alá tartozó fejezetek költségvetési szerveinek eszközbeszerzéseiről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-1982-30-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2014-01-01 | 2013-1982-30-22.1 | 1982/2013. (XII. 29.) Korm. határozat |
