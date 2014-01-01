@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-157-20-
 | 2013-01-01 | 2005-157-20-22.16 | 351/2010. (XII. 30.) Korm. rendelet |
 | 2013-02-01 | 2005-157-20-22.17 | 182/2009. (IX. 10.) Korm. rendelet |
 | 2013-11-01 | 2005-157-20-22.18 | 324/2013. (VIII. 29.) Korm. rendelet |
+| 2014-01-01 | 2005-157-20-22.19 | 559/2013. (XII. 31.) Korm. rendelet |

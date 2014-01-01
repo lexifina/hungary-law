@@ -44,7 +44,7 @@
 
 ## Vezetékjogi engedély dokumentációja
 
-## 1.[^53] Műszaki leírás (1 db)
+## 1.[^54] Műszaki leírás (1 db)
 
 ## A létesítendő vezeték megnevezése:
 
@@ -82,7 +82,7 @@
 
 ## Nyilatkozat hogy a tárgyi vezeték az érintett ingatlanok rendeltetésszerű használatát nem akadályozza
 
-## 2.[^54] Kiviteli tervdokumentáció (1 db)
+## 2.[^55] Kiviteli tervdokumentáció (1 db)
 
 ## – műszaki leírás
 
@@ -116,5 +116,5 @@
 
 3. melléklet a 157/2005. (VIII. 15.) Korm. rendelethez
 
-[^53]: A 2. melléklet „Vezetékjogi engedély dokumentációja” cím 1. pontja a 182/2009. (IX. 10.) Korm. rendelet 415. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^54]: A 2. melléklet „Vezetékjogi engedély dokumentációja” cím 2. pontja a 182/2009. (IX. 10.) Korm. rendelet 415. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^54]: A 2. melléklet „Vezetékjogi engedély dokumentációja” cím 1. pontja a 182/2009. (IX. 10.) Korm. rendelet 415. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^55]: A 2. melléklet „Vezetékjogi engedély dokumentációja” cím 2. pontja a 182/2009. (IX. 10.) Korm. rendelet 415. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

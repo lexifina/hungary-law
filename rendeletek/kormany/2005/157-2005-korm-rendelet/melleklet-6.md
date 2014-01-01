@@ -1,4 +1,4 @@
-6. melléklet a 157/2005. (VIII. 15.) Korm. rendelethez[^65]
+6. melléklet a 157/2005. (VIII. 15.) Korm. rendelethez[^66]
 
 A korrekciós tényezők
 
@@ -40,4 +40,4 @@ A korrekciós tényezők
 
 *** A legfelső emeleti korrekciók nem alkalmazhatók azoknál a függőleges, felső elosztású fűtési rendszerű felhasználási helyek helyiségeinél, amelyek légterében hőszigetelés nélküli vízszintes elosztóvezeték halad át.
 
-[^65]: A Vhr. 6. számú mellékletét a 104/2011. (VI. 29.) Korm. rendelet 4. § (3) bekezdése iktatta be.
+[^66]: A Vhr. 6. számú mellékletét a 104/2011. (VI. 29.) Korm. rendelet 4. § (3) bekezdése iktatta be.
