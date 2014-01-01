@@ -1,3 +1,5 @@
+## Ügyintézési határidő a kiemelt jelentőségű ügyben
+
 3. § (1) Kiemelt jelentőségű ügyben a kérelmet soron kívül kell elbírálni, az ügyintézési határidő azonban – az (5) bekezdésben meghatározott, valamint az általános építésügyi hatósági engedélyezési eljárásra vonatkozó ügyintézési határidő kivételével – legfeljebb két hónap lehet.
 
 (2)

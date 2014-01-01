@@ -21,3 +21,5 @@ d) a nemzetgazdasági szempontból kiemelt jelentőségű ügyben feladatkörrel
 e) a kiemelt jelentőségű ügyben a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvénytől és az ügyfajtára vonatkozó különös eljárási szabályoktól eltérő rendelkezéseket a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvényben meghatározott tárgykörben,
 
 f) a kiemelt jelentőségű ügyben az e törvényben foglalt határidőknél rövidebb határidőket.
+
+(6) Felhatalmazást kap a közigazgatás-szervezésért felelős miniszter, hogy rendeletben állapítsa meg a kiemelt jelentőségű ügyben eljáró hatóságok és szakhatóságok által a koordinációs feladatokat ellátó kormánymegbízottak felé, továbbá a koordinációs feladatokat ellátó kormánymegbízottak által a közigazgatás-szervezésért felelős miniszter és a Kormány tagjai felé teljesítendő, törvényben vagy kormányrendeletben előírt rendszeres és eseti jellegű jelentések, valamint tájékoztatások részletszabályait.
