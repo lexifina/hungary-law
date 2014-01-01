@@ -22,7 +22,7 @@ A törvényben hivatkozott jogszabályok rövidítései
 
 10. Gt.: a gazdasági társaságokról szóló 2006. évi IV. törvény,
 
-11. Hpt.: a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény,
+11. Hpt.: a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény,
 
 12. Itv.: az illetékekről szóló 1990. évi XCIII. törvény,
 

@@ -100,11 +100,9 @@ e) a külföldi székhelyű vállalkozás magyarországi fióktelepe, ha a fiók
 
 37. elszámolóház: a tőzsdén, a tőzsdén kívül, vagy külön törvény által meghatározott szervezett piacon pénzügyi eszközre kötött ügyletek elszámolásával és teljesítésével kapcsolatos szolgáltatásokat végző szakosított hitelintézet,
 
-38. EU-szintű befektetési vállalkozás anyavállalat: olyan tagállami befektetési vállalkozás anyavállalat, amelyben az Európai Unió tagállamában székhellyel rendelkező hitelintézet, befektetési vállalkozás, pénzügyi holding társaság vagy vegyes pénzügyi holding társaság ellenőrző befolyással nem rendelkezik,
+38–39.
 
-39. EU-szintű pénzügyi holding társaság anyavállalat: olyan tagállami pénzügyi holding társaság anyavállalat, amelyben az Európai Unió tagállamában székhellyel rendelkező hitelintézet, befektetési vállalkozás, pénzügyi holding társaság vagy vegyes pénzügyi holding társaság ellenőrző befolyással nem rendelkezik,
-
-39a. EU-szintű vegyes pénzügyi holding társaság anyavállalat: olyan tagállami vegyes pénzügyi holding társaság anyavállalat, amelyben az Európai Unió tagállamában székhellyel rendelkező hitelintézet, befektetési vállalkozás, pénzügyi holding társaság vagy vegyes pénzügyi holding társaság ellenőrző befolyással nem rendelkezik,
+39a.
 
 40.
 
@@ -232,7 +230,7 @@ c) éves árbevétele nem haladja meg az ötvenmillió eurót, illetve a mérleg
 
 96. nyilvános vételi ajánlat (vételi ajánlat): olyan, a céltársaság részvényeseihez szóló, a céltársaság részvényei vagy azok egy részének megszerzésére tett (nem a céltársaságtól származó) nyilvános felhívás, amelynek célja vagy eredménye a céltársaságban való befolyásszerzés, illetőleg a meglévő befolyás mértékének a növelése,
 
-97. nyilvántartott: a Hpt.-ben meghatározott fogalom,
+97.
 
 98. nyitva szállítás: olyan átruházható értékpapírral kapcsolatos ügylet, amelynek során az értékpapír és az ellenérték szolgáltatása (átutalása) nem azonos időpontban történik,
 
@@ -246,7 +244,7 @@ c) éves árbevétele nem haladja meg az ötvenmillió eurót, illetve a mérleg
 
 103. pénzügyi eszköz: a Bszt.-ben meghatározott eszköz,
 
-104. pénzügyi holding társaság: a Hpt.-ben meghatározott fogalom,
+104.
 
 105. portfólió: a portfóliókezelési tevékenységet végző számára átadott eszközök, illetőleg ezen eszközökből a portfóliókezelési tevékenységet végző által összeállított, többféle vagyonelemet tartalmazó eszközök összessége,
 
@@ -254,13 +252,13 @@ c) éves árbevétele nem haladja meg az ötvenmillió eurót, illetve a mérleg
 
 107. pozíciólezáró nettósítás: a felek megállapodása alapján a szerződés nemteljesítésekor vagy a felek által meghatározott egyéb felmondási esemény bekövetkeztekor az azonnali deviza- és értékpapírügyletből, származtatott ügyletből, repó- vagy fordított repóügyletből, értékpapír-kölcsönzésre irányuló megállapodásból, óvadéki, illetve biztosítéki célt szolgáló egyéb szerződésből, vagy más hasonló tőzsdén, tőzsdén kívül, vagy külön törvény által meghatározott szervezett piacon, egyensúlyozó platformon árura, illetve pénzügyi eszközre kötött ügyletből eredő tartozásoknak és követeléseknek az adott ügylet piacán elfogadott elszámolásaként egyetlen nettó tartozássá vagy követeléssé történő átalakítása, amelynek eredményeként a tartozás vagy a követelés kizárólag az ekként megállapított nettó összegre korlátozódik,
 
-108. referenciaadat: a Hpt.-ben meghatározott fogalom,
+108. referenciaadat: a központi hitelinformációs rendszerről szóló törvényben meghatározott fogalom,
 
 109. referenciaadat-szolgáltató: a befektetési hitel nyújtására vonatkozó engedéllyel rendelkező, illetve értékpapír-kölcsönzési tevékenységet végző szervezet (befektetési vállalkozás, kollektív befektetési forma, befektetési alapkezelő, elszámolóházi tevékenységet végző szervezet, központi értéktár, pénzügyi intézmény, önkéntes kölcsönös biztosító pénztár, magánnyugdíjpénztár, biztosító),
 
 110. repó- és fordított repóügylet: minden olyan megállapodás, amely értékpapír vagy áru tulajdonjogának, illetve az értékpapír vagy áru tulajdonjogához fűződő garantált jog átruházására vonatkozik – ha e garanciát olyan elismert tőzsde bocsátja ki, amely az értékpapírhoz vagy az áruhoz fűződő joggal rendelkezik –, és a megállapodás nem teszi lehetővé az eladó számára, hogy az adott értékpapírt vagy árut adott időpontban egyszerre több félnek ruházza át, illetőleg más ügylethez adja biztosítékul. A szerződéskötéssel egyidejűleg az értékpapírra vagy árura az eladó visszavásárlási kötelezettséget, a vevő az eladó részére történő viszonteladási kötelezettséget vállal a szerződésben meghatározott vagy az eladó által meghatározandó jövőbeli időpontban történő meghatározott visszavásárlási, illetve viszonteladási áron. A felek közötti megállapodás rendelkezhet úgy is, hogy az ügylet tárgyát képező és biztosítékul szolgáló értékpapír vagy áru más, egyenértékű értékpapírra vagy árura kicserélhető. Az ügylet az értékpapír vagy áru eladója szempontjából repóügyletnek, az értékpapír vagy áru vevője szempontjából fordított repóügyletnek tekintendő,
 
-111. részesedési viszony: a Hpt.-ben meghatározott fogalom,
+111. részesedési viszony: egy személy és egy vállalkozás között létrejött olyan – ellenőrző befolyásnak nem minősülő – kapcsolat, amelynek alapján a személy – közvetlenül vagy közvetett módon – a szavazati jogok vagy a tagi részesedés legalább húsz százalékát birtokolja. A szavazati jogok figyelembevételénél az Szmt. vonatkozó előírásai szerint kell eljárni, függetlenül attól, hogy a személy az Szmt. hatálya alá tartozik-e,
 
 112. rövid pozíció: minden olyan pozíció, amely esetében az érdekeltség az alapul szolgáló eszköz árváltozását tekintve, árcsökkenés hatására értéknövekedésben nyilvánul meg,
 
@@ -278,15 +276,15 @@ d) rendszeres időszakonként, meghatározott időben működik,
 
 e) szerepel az Európai Bizottság honlapján közzétett, a szabályozott piacokról készített jegyzékben,
 
-115. szabályozott vállalkozás: hitelintézet, befektetési vállalkozás vagy biztosító,
+115.
 
 116. szabályozott információ: az összefoglaló jelentés, a rendszeres és a rendkívüli tájékoztatás körébe tartozó, a befolyásszerzéssel kapcsolatos, továbbá a bennfentes információk,
 
 117. származtatott (derivatív) ügylet: olyan ügylet, amelynek értéke az alapjául szolgáló pénzügyi eszköz, deviza, áru vagy referenciaráta (alaptermék) értékétől függ és önálló kereskedés tárgyát képezi,
 
-118. szoros kapcsolat: a Hpt.-ben meghatározott fogalom,
+118.
 
-118a. tagállami vegyes pénzügyi holding társaság anyavállalat: olyan vegyes pénzügyi holding társaság, amelyben a székhelye szerinti tagállamban székhellyel rendelkező hitelintézet, befektetési vállalkozás, pénzügyi holding társaság vagy vegyes pénzügyi holding társaság ellenőrző befolyással vagy részesedési viszonnyal nem rendelkezik,
+118a.
 
 119. tagsági jogokat megtestesítő értékpapír: minden olyan értékpapír, amelyben a kibocsátó meghatározott pénzösszeg, illetve pénzben meghatározott nem pénzbeli vagyoni érték tulajdonba vételét elismerve arra kötelezi magát, hogy az értékpapír birtokosának meghatározott szavazati, vagyoni és egyéb jogokat biztosít,
 
@@ -314,9 +312,7 @@ e) szerepel az Európai Bizottság honlapján közzétett, a szabályozott piaco
 
 131. vállalkozás: jogi formájától függetlenül az, aki rendszeres gazdasági tevékenységet folytat,
 
-132. vegyes pénzügyi holding társaság: a pénzügyi konglomerátumok kiegészítő felügyeletéről szóló törvényben meghatározott fogalom,
-
-133. vegyes tevékenységű holding társaság: olyan hitelintézetnek, befektetési vállalkozásnak, pénzügyi holding társaságnak és vegyes pénzügyi holding társaságnak nem minősülő vállalkozás, amelynek legalább egy befektetési vállalkozás leányvállalata van,
+132–133.
 
 134. vezető állású személy:
 
@@ -340,7 +336,7 @@ d) amely fölött a létesítő okirat, megállapodás alapján egy személy dö
 
 137. kereskedési nap: minden munkanap, kivéve, amelyet a szabályozott piac előzetesen kereskedési szünnappá nyilvánít,
 
-138. konszolidáló felügyeleti hatóság: EU-szintű pénzügyi holding társaság anyavállalat és az EU-szintű vegyes pénzügyi holding társaság anyavállalat ellenőrző befolyása alá tartozó befektetési vállalkozás és EU-szintű befektetési vállalkozási anyavállalat összevont alapú felügyeletének gyakorlásáért felelős hatóság,
+138.
 
 139. szabályozott piacra bevezetett részvény forgalomban tartásának megszüntetése: szabályozott piacra bevezetett részvény forgalomban tartásának megszüntetése
 

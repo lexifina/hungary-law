@@ -26,6 +26,8 @@ d) a 334. § d) pontjában meghatározott elszámolóházi tevékenységet,
 
 e) a 335. § (3) bekezdésének g) és i) pontjában meghatározott elszámolóházi tevékenységet kisegítő tevékenységet, és
 
-f) értékpapír-kölcsönzést
+f) értékpapír-kölcsönzést,
+
+g) a tőzsdén kívüli származtatott ügyletekről, a központi szerződő felekről és a kereskedési adattárakról szóló, 2012. július 4-ei 648/2012/EU európai parlamenti és tanácsi rendelet 9. cikke szerinti bejelentési kötelezettség átruházása esetén a származtatott ügyletek adatainak a kereskedési adattár felé történő bejelentésével kapcsolatos tevékenységet.
 
 folytathat.

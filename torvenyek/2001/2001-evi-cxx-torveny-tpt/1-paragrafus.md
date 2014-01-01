@@ -24,7 +24,7 @@ i) a magyar hatóság által ellátott, e törvényben meghatározott felügyele
 
 j) a kiszervezett tevékenységet végző e törvény szerinti felügyeletére,
 
-k) befektetési vállalkozásnak nem minősülő, az összevont alapú felügyelet hatálya alá tartozó befektetési vállalkozással, illetőleg pénzügyi holdingtársasággal szoros kapcsolatban álló vállalkozásra, vegyes tevékenységű holdingtársaságra,
+k)
 
 l)
 

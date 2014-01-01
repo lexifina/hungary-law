@@ -4,7 +4,7 @@
 
 341. § (1) A központi értéktárban – a (2) bekezdésben meghatározott eltéréssel – tulajdoni részesedést szerezhet:
 
-a)
+a) az MNB;
 
 b) központi értéktári tevékenységet végző szervezet, ideértve a külföldi központi értéktári tevékenységet végző szervezetet;
 

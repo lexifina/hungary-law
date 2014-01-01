@@ -12,6 +12,8 @@ b) a tevékenység folytatásához szükséges személyi, tárgyi, technikai és
 
 c) a 350/B. §-ban foglalt szabályzatokkal.
 
+(2a) A központi értéktári tevékenység mellett végezhető, a 336. § (2) bekezdés g) pontjában foglalt tevékenység végzésére a 648/2012/EU rendelet szabályai az irányadók.
+
 (3) Az engedélyezési eljárásban az elszámolási rendszer hatékony és megbízható működésével kapcsolatos kérdéseket a Felügyelet vizsgálja.
 
 (4) A központi értéktári tevékenység végzéséhez szükséges, a 336. § (2) bekezdésének a)–d) pontjaiban meghatározott tevékenységek végzésére jogosító felügyeleti engedély az (1) bekezdésben foglalt engedélyezéssel egy eljárásban is megadható.
