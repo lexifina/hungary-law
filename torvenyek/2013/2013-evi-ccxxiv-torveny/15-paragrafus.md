@@ -10,6 +10,4 @@
 
 (5) A 2014. január 1-je előtt született gyermekek esetében a 39. §-nak a 2013. december 31-én hatályos szövegét kell alkalmazni, kivéve, ha az adott gyermek jogán igénybe vehető ellátás tekintetében a (3) vagy a (4) bekezdésben foglaltak szerint kell eljárni.”
 
-(2) Az Ebtv. 82/H. §-a a következő (6) bekezdéssel egészül ki:
-
-„(6) Az egyes törvényeknek a gyermekgondozási ellátások átalakításával, valamint a szociális hozzájárulási adó megfizetése alóli kedvezmény bővítésével összefüggő módosításáról szóló 2013. évi CCXXIV. törvény 6. §-ával megállapított 42/D. §-t a 2014. december 31-ét követően kezdődő ellátásra való jogosultság esetében kell alkalmazni.”
+(2)
