@@ -2,7 +2,7 @@
 
 a) a higiénés és egészségvédelmi, az ivóvíz-minőségi, a települési szilárd és folyékony hulladékkal kapcsolatos közegészségügyi, járványügyi vonatkozású követelmények, valamint a kémiai biztonságra vonatkozó jogszabályi előírások érvényesítésével kapcsolatos, jogszabály által az egészségügyi hatóság jogkörébe utalt szakkérdésben az elsőfokú eljárásban a fővárosi és megyei kormányhivatal telep fekvése szerint illetékes járási (fővárosi kerületi) hivatala járási (fővárosi kerületi) népegészségügyi intézetét, a másodfokú eljárásban a fővárosi és megyei kormányhivatal telep fekvése szerint illetékes megyei népegészségügyi szakigazgatási szervét;
 
-b) annak elbírálása kérdésében, hogy
+b)[^2] annak elbírálása kérdésében, hogy
 
 ba) a telepen a hulladékgazdálkodás módja és eszközei megfelelnek-e a hulladékgazdálkodási követelményeknek, okoz-e a telepen történő hulladékgazdálkodási tevékenység környezetterhelést, biztosított-e a telep hulladékszállítási szempontból történő megközelíthetősége,
 
@@ -14,7 +14,7 @@ bd) országos jelentőségű védett természeti területen, NATURA 2000 terüle
 
 be) a földtani közeg és a vizek védelme érdekében megfelelő műszaki védelmet alkalmaznak-e és a tevékenységből eredően a földtani közeget és a vizeket érő terhelés alatta marad-e a vizek védelmére vonatkozó követelményeknek, valamint ivóvízbázisok érintettsége esetén megfelel-e az ivóvízbázis védelmi előírásoknak,
 
-## az elsőfokú eljárásban a telep fekvése szerint illetékes környezetvédelmi, természetvédelmi és vízügyi felügyelőséget, a másodfokú eljárásban az Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőséget;
+## az elsőfokú eljárásban a telep fekvése szerint illetékes környezetvédelmi és természetvédelmi felügyelőséget, a másodfokú eljárásban az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőséget;
 
 c) az 5. melléklet I. pontjában meghatározott tevékenységeknél – annak elbírálása kérdésében, hogy a telep a tűzvédelmi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e – az elsőfokú eljárásban a telep fekvése szerint illetékes katasztrófavédelmi kirendeltséget, a másodfokú eljárásban a telep fekvése szerint illetékes megyei katasztrófavédelmi igazgatóságot, Budapesten a Fővárosi Katasztrófavédelmi Igazgatóságot;
 
@@ -24,4 +24,9 @@ e) ha a telepen az ipari tevékenységgel összefüggésben külön jogszabály 
 
 f) ha az engedélyezés tárgyául szolgáló ingatlan műemléki védelem alatt áll – annak elbírálása kérdésében, hogy a tevékenység a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e a kulturális örökség védelme jogszabályban rögzített követelményeinek –, első fokon az illetékes járási (fővárosi kerületi) hivatal járási építésügyi és örökségvédelmi hivatalát, másodfokon az illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatalát
 
+g)[^3] annak elbírálása kérdésében, hogy a földtani közeg és a vizek védelme érdekében megfelelő műszaki védelmet alkalmaznak-e és a tevékenységből eredően a földtani közeget és a vizeket érő terhelés alatta marad-e a vizek védelmére vonatkozó követelményeknek, valamint ivóvízbázisok érintettsége esetén megfelel-e az ivóvízbázis védelmi előírásoknak, az elsőfokú eljárásban a telep fekvése szerint illetékes vízvédelmi hatóságot, a másodfokú eljárásban a másodfokon eljáró vízvédelmi hatóságot
+
 szakhatóságként jelöli ki.
+
+[^2]: A 4. § b) pont záró szövegrésze az 527/2013. (XII. 30.) Korm. rendelet 138. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^3]: A 4. § g) pontját az 527/2013. (XII. 30.) Korm. rendelet 138. § (1) bekezdése iktatta be.
