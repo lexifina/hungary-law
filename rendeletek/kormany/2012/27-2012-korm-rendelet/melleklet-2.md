@@ -8,7 +8,7 @@
 
 | 2. | Az Erkel Színház előadás tartására alkalmas állapotra történő felújítása | Budapest 34704 hrsz. | építésügyi hatósági engedélyezési eljárások | Budapest Főváros Kormányhivatala V. Kerületi Hivatalának Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
-| 3. | környezetvédelmi hatósági engedélyezési eljárások | Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 3. | környezetvédelmi hatósági engedélyezési eljárások | Közép-Duna-völgyi Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
 | 4. | egészségügyi hatósági eljárások | Budapest Főváros Kormányhivatala Népegészségügyi Szakigazgatási Szerve | Országos Tisztifőorvosi Hivatal |
 
@@ -24,7 +24,7 @@
 
 | 10. | örökségvédelmi hatósági engedélyezési eljárások és régészeti feltárásokkal kapcsolatos eljárások | Budapest Főváros Kormányhivatala V. Kerületi Hivatalának Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
-2. melléklet a 27/2012. (III. 6.) Korm. rendelethez[^2]
+2. melléklet a 27/2012. (III. 6.) Korm. rendelethez[^3]
 
 A beruházással összefüggő kiemelt jelentőségű üggyé minősített hatósági engedélyezési eljárásokban közreműködő hatáskörrel rendelkező szakhatóságok
 
@@ -42,6 +42,8 @@ A beruházással összefüggő kiemelt jelentőségű üggyé minősített ható
 
 | 6. | egészségügy | Budapest Főváros Kormányhivatala Népegészségügyi Szakigazgatási Szerve | Országos Tisztifőorvosi Hivatal |
 
-| 7. | környezetvédelem, természetvédelem és vízügy | Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 7. | környezet- és természetvédelem | Közép-Duna-Völgyi Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
-[^2]: A 2. melléklet a 394/2012. (XII. 20.) Korm. rendelet 55. §-a szerint módosított szöveg.
+| 8. | vízügy | Közép-Duna-Völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
+
+[^3]: A 2. melléklet a 394/2012. (XII. 20.) Korm. rendelet 55. §-a, az 527/2013. (XII. 30.) Korm. rendelet 113. § (1) bekezdése szerint módosított szöveg.
