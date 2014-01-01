@@ -20,8 +20,8 @@ i) akinek – feltéve, hogy törvény kötelező kamarai tagságot ír elő –
 
 (1a) Az (1) bekezdés b)–d) pontjai alapján a működési nyilvántartásból törölt egészségügyi dolgozó egészségügyi tevékenységet felügyelet mellett sem végezhet.
 
-(2) Az egészségügyi szolgáltató a nevében és felelősségére egészségügyi tevékenységet végző egészségügyi dolgozóknak a 112. § (4) bekezdés f) pontja szerinti adataiban történő változásokról, annak bekövetkeztétől számított 90 napon belül tájékoztatja a működési nyilvántartást vezető szervet.
+(2)
 
-(3) A működési nyilvántartást vezető szerv minden év április 1-jéig a megelőző évben bekövetkezett adatváltozások egyeztetése céljából a 112. § (4) bekezdés a) pontjában, valamint a 113/A. § (1) bekezdés g) pontjában szereplő adatok tekintetében a személyiadat- és lakcímnyilvántartást vezető hatóságot megkeresi. A megkeresett hatóság az adategyeztetés során köteles együttműködni és a szükséges adatokat a működési nyilvántartást vezető szerv rendelkezésére bocsátani.
+(3) A működési nyilvántartást vezető szerv a 111. § (3) bekezdés c) pontja szerinti azonosítók alapján folyamatosan, elektronikus úton adategyeztetést folytat az egészségügyi államigazgatási szervvel a 112. § (4) bekezdés f) pontjában meghatározott adatok tekintetében.
 
 (4) Az egészségügyi dolgozó egy évet meghaladó végrehajtandó szabadságvesztéséről, valamint az egészségügyi tevékenység folytatását kizáró foglalkozástól eltiltásáról szóló jogerős határozatáról a bíróság – jogszabályban meghatározottak szerint – haladéktalanul értesíti a működési nyilvántartást vezető szervet, és az illetékes egészségügyi szakmai kamarát.

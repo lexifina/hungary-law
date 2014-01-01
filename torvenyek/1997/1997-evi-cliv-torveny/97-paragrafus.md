@@ -19,3 +19,5 @@ e) ellátásának eredményességét tömegközlekedési vagy más szokásos kö
 a) a beteg a (2) bekezdés a)–d) pontjai szerinti okok miatt a gyógyintézetet más módon nem tudja elhagyni, vagy
 
 b) a betegnek a fekvőbeteg-gyógyintézetből az otthonába történő eljutása az elbocsátásának naptári napján, illetve más esetben ésszerű időn belül másként nem biztosított.
+
+(4) Az állami mentőszolgálat – jogszabályban meghatározottak szerint – koordinálja a betegszállítást.

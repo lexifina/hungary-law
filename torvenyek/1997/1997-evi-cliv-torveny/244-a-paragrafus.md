@@ -10,9 +10,9 @@
 
 (6) Az R. szerinti, a szakképzéssel összefüggő támogatások folyósításának feltétele, hogy a felsőoktatási intézmények – a (4) bekezdés szerinti időpontot követően – havonta elektronikus úton tájékoztatást adjanak az egészségügyi államigazgatási szervnek a szakorvosjelöltnek a 116/A. § (5) bekezdés d) pontja szerinti adatairól.
 
-(7) Az R. rendelkezései szerint a szakképzésben szakgyakorlati idejüket töltő személyek esetében a felsőoktatási intézmény – a (4) bekezdés szerinti időpontot követően – az egészségügyi felsőfokú szakirányú szakképzés képzési követelményeit meghatározó jogszabály szerinti részelemeinek teljesítéséről legkésőbb 15 napon belül elektronikus úton tájékoztatja az egészségügyi államigazgatási szervet.
+(7) A felsőoktatási intézmény az R. rendelkezései szerint a szakképzésben szakgyakorlati idejüket töltő személyeknek a szakképzésben történő részvételéről vagy a szakképzés szüneteltetésének tényéről minden év június 30-ig és december 31-ig elektronikus úton tájékoztatja az egészségügyi államigazgatási szervet.
 
-(8)
+(8) Az egyes egészségügyi és egészségbiztosítási tárgyú törvények módosításáról szóló 2013. évi CCXLIV. törvénnyel megállapított 156. § (4) bekezdése szerinti kórházi felügyelő tanácsot 2014. február 28-ig kell kialakítani.
 
 (9)
 

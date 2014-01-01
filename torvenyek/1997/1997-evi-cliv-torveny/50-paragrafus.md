@@ -4,7 +4,7 @@
 
 a) az egészséges táplálkozás, ételkészítés és -kezelés módjaival, a táplálkozással összefüggő egészségi ártalmakkal és ezek elkerülési módjaival,
 
-b) az étrend-kiegészítők, a különleges táplálkozási igényt kielégítő élelmiszerek alkalmazásának szempontjaival.
+b) az étrend-kiegészítők, a különleges táplálkozási igényt kielégítő élelmiszerek, valamint a vitaminokkal, ásványi anyagokkal és bizonyos egyéb anyagokkal dúsított élelmiszerek alkalmazásának szempontjaival.
 
 (3) A közétkeztetésben – különös tekintettel az egészségügyi, szociális és gyermekintézményekben nyújtott közétkeztetésre – az élettani szükségletnek megfelelő minőségű és tápértékű étkezést kell biztosítani.
 

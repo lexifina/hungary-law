@@ -14,7 +14,7 @@
 
 a) kórbonctani vizsgálat az elhunyt közeli hozzátartozójának kérelmére,
 
-b) hatósági vagy igazságügyi boncolás rendkívüli halál esetén
+b) hatósági vagy igazságügyi boncolás nem természetes halál esetén
 
 végezhető el. Ezek során szervet, szövetet csak a halál okának és körülményeinek megállapítása céljából szabad kivenni.
 

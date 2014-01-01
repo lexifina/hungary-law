@@ -19,3 +19,5 @@ f) a teljesített továbbképzés külön jogszabályban meghatározott formáj�
 (4) A továbbképzési pontok nyilvántartását vezető szerv a nyilvántartási feladatai ellátása érdekében jogosult megismerni a 111. § (3) bekezdés a)–c) pontja, valamint a 112. § (4) bekezdés a)–c), g), k) és m) pontja szerinti adatokat.
 
 (5) A működési nyilvántartást vezető szerv jogosult megismerni a továbbképzési pontok nyilvántartásában rögzített adatokat.
+
+(6) A továbbképzési pontok nyilvántartását végző szerv – az egészségügyi szolgáltató kérésére – adatot szolgáltat az egészségügyi szolgáltató nevében és felelősségére egészségügyi tevékenységet végző egészségügyi dolgozóknak a (2) bekezdés f) pontja szerinti adatai közül az adott továbbképzési időszakban teljesített továbbképzések típusáról és a teljesítéssel megszerzett pontértékről.

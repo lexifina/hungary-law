@@ -30,7 +30,7 @@ h) az e törvényben meghatározott esetekben a közérdek védelme az egyéni �
 
 i) az egyéni és a társadalmi érdekek összehangolása a ritka, a kiemelkedő költségigényű, illetve az új módszerek és eljárások alkalmazásánál,
 
-j) a katasztrófa-egészségügyi ellátás, a nemzeti vérkészlettel való gazdálkodás,
+j) az egészségügyi válsághelyzeti ellátás, a nemzeti vérkészlettel való gazdálkodás,
 
 k) a népegészségügyi és az egészségügyi igazgatási tevékenység feltételeinek biztosítása.
 

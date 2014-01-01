@@ -1,1 +1,1 @@
-29/A. § Az egészségügyi szolgáltató által a beteg részére nyújtott egészségügyi ellátással kapcsolatban az európai uniós csatlakozással összefüggő egyes törvénymódosításokról, törvényi rendelkezések hatályon kívül helyezéséről, valamint egyes törvényi rendelkezések megállapításáról szóló 2004. évi XXIX. törvény szerinti panaszt a panasszal érintett egészségügyi szolgáltató részére működési engedély kiadására jogosult egészségügyi államigazgatási szervnél lehet tenni.
+29/A. §

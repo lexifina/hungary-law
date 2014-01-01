@@ -24,7 +24,7 @@ a) az egészségügyi szolgáltatás nyújtásához szükséges szakmai feltéte
 
 b) az egészségügyi intézmény működőképességét és szükség szerinti fejlesztését.
 
-(2a) A fenntartó, valamint a (3) bekezdés szerint egyes fenntartói jogkörök gyakorlására rendeletben kijelölt szervezet a (2) bekezdésben meghatározott cél érdekében az általa fenntartott egészségügyi intézmény részére támogatást – ideértve az államháztartásról szóló törvény szerinti költségvetési támogatást –, adományt nyújthat, valamint más ellenérték nélküli kötelezettséget vállalhat, kifizetést teljesíthet.
+(2a)
 
 (3) Az állam tulajdonában és fenntartásában levő egészségügyi intézmények esetében egyes fenntartói jogok, valamint az államháztartásról szóló törvényben felsorolt, az egyes költségvetési szervekre vonatkozó irányítói hatáskörök a fenntartói jogok gyakorlására rendeletben kijelölt szervezet részére jogszabályban meghatározottak szerint átadhatóak.
 

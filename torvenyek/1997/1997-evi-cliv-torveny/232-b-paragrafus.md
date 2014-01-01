@@ -1,4 +1,4 @@
-232/B. § (1) A katasztrófa-egészségügyi ellátást országos szinten az országos tisztifőorvos közreműködésével a miniszter, kihirdetett veszélyhelyzetben a Kormány a miniszter útján az országos tisztifőorvos közreműködésével irányítja.
+232/B. § (1) Az egészségügyi válsághelyzeti ellátást országos szinten az országos tisztifőorvos közreműködésével a miniszter, kihirdetett veszélyhelyzetben a Kormány a miniszter útján az országos tisztifőorvos közreműködésével irányítja.
 
 (2) Az egészségügyi válsághelyzet kezeléséhez szükséges feladatok helyi szintű összehangolt koordinálását és irányítását
 

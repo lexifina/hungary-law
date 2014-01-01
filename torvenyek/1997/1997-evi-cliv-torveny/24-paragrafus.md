@@ -38,7 +38,7 @@ b) az egészségügyi adat más módon való megismerése, illetve az arra való
 
 (10) A (9) bekezdés szerinti esetben csak azoknak az egészségügyi adatoknak a megismerése lehetséges, amelyek a (9) bekezdés a) pontja szerinti okkal közvetlenül összefüggésbe hozhatók. Az egészségügyi adatokra vonatkozó tájékoztatást a beteg kezelőorvosa, illetve az egészségügyi szolgáltató orvosszakmai vezetője adja meg, az orvosi tájékoztatásra vonatkozó előírásoknak megfelelően, – szükség esetén – a kérelmező kezelőorvosával való szakmai konzultáció alapján.
 
-(11) A beteg halála esetén törvényes képviselője, közeli hozzátartozója, valamint örököse – írásos kérelme alapján – jogosult a halál okával összefüggő vagy összefüggésbe hozható, továbbá a halál bekövetkezését megelőző gyógykezeléssel kapcsolatos egészségügyi adatokat megismerni, az egészségügyi dokumentációba betekinteni, valamint azokról – saját költségére – másolatot kapni.
+(11) A beteg halála esetén törvényes képviselője, közeli hozzátartozója, valamint örököse – írásos kérelme alapján – jogosult a halál okával összefüggő vagy összefüggésbe hozható, továbbá a halál bekövetkezését megelőző gyógykezeléssel kapcsolatos egészségügyi adatokat megismerni, az egészségügyi dokumentációba betekinteni, valamint azokról kivonatot, másolatot készíteni vagy saját költségére másolatot kapni.
 
 (12) Az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezelésének és védelmének részletes szabályait külön törvény állapítja meg.
 

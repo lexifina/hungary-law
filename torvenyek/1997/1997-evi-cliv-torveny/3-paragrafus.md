@@ -8,7 +8,7 @@ c) egészségügyi ellátás: a beteg adott egészségi állapotához kapcsolód
 
 d) egészségügyi dolgozó: az orvos, a fogorvos, a gyógyszerész, az egyéb felsőfokú egészségügyi szakképesítéssel rendelkező személy, az egészségügyi szakképesítéssel rendelkező személy, továbbá az egészségügyi tevékenységben közreműködő egészségügyi szakképesítéssel nem rendelkező személy;
 
-e) egészségügyi szolgáltatás: az egészségügyi államigazgatási szerv által kiadott működési engedély birtokában végezhető egészségügyi tevékenységek összessége, amely az egyén egészségének megőrzése, továbbá a megbetegedések megelőzése, korai felismerése, megállapítása, gyógykezelése, életveszély elhárítása, a megbetegedés következtében kialakult állapot javítása vagy a további állapotromlás megelőzése céljából a beteg vizsgálatára és kezelésére, gondozására, ápolására, egészségügyi rehabilitációjára, a fájdalom és a szenvedés csökkentésére, továbbá a fentiek érdekében a beteg vizsgálati anyagainak feldolgozására irányul, ideértve a gyógyszerekkel, a gyógyászati segédeszközökkel, a gyógyászati ellátásokkal kapcsolatos külön jogszabály szerinti tevékenységet, valamint a mentést és a betegszállítást, a szülészeti ellátást, az emberi reprodukcióra irányuló különleges eljárásokat, a művi meddővétételt, az emberen végzett orvostudományi kutatásokat, továbbá a halottvizsgálattal, a halottakkal kapcsolatos orvosi eljárásokkal, – ideértve az ehhez kapcsolódó – a halottak szállításával összefüggő külön jogszabály szerinti tevékenységeket is;
+e) egészségügyi szolgáltatás: az egészségügyi államigazgatási szerv által kiadott működési engedély birtokában vagy – törvényben meghatározott esetben – az egészségügyi államigazgatási szerv által történő nyilvántartásba vétel alapján végezhető egészségügyi tevékenységek összessége, amely az egyén egészségének megőrzése, továbbá a megbetegedések megelőzése, korai felismerése, megállapítása, gyógykezelése, életveszély elhárítása, a megbetegedés következtében kialakult állapot javítása vagy a további állapotromlás megelőzése céljából a beteg vizsgálatára és kezelésére, gondozására, ápolására, egészségügyi rehabilitációjára, a fájdalom és a szenvedés csökkentésére, továbbá a fentiek érdekében a beteg vizsgálati anyagainak feldolgozására irányul, ideértve a gyógyszerekkel, a gyógyászati segédeszközökkel, a gyógyászati ellátásokkal kapcsolatos külön jogszabály szerinti tevékenységet, valamint a mentést és a betegszállítást, a szülészeti ellátást, az emberi reprodukcióra irányuló különleges eljárásokat, a művi meddővétételt, az emberen végzett orvostudományi kutatásokat, továbbá a halottvizsgálattal, a halottakkal kapcsolatos orvosi eljárásokkal, – ideértve az ehhez kapcsolódó – a halottak szállításával összefüggő külön jogszabály szerinti tevékenységeket is;
 
 f) egészségügyi szolgáltató: a tulajdoni formától és fenntartótól függetlenül minden, egészségügyi szolgáltatás nyújtására és az egészségügyi államigazgatási szerv által kiadott működési engedély alapján jogosult egyéni egészségügyi vállalkozó, jogi személy vagy jogi személyiség nélküli szervezet;
 
@@ -22,7 +22,7 @@ gc) az állami vérellátó szolgálat, valamint
 
 gd) az egészségügyi államigazgatási szerv intézetei, amennyiben egészségügyi szolgáltatást is nyújtanak;
 
-h) orvostechnikai eszköz: minden olyan, akár önállóan, akár más termékkel együttesen használt készülék, berendezés, anyag, szoftver vagy más termék – ideértve az azok megfelelő működéséhez szükséges szoftvert, amely a gyártó szándéka szerint kifejezetten diagnosztikai, illetve terápiás célra szolgál, valamint a rendelésre készült eszköz, továbbá a klinikai vizsgálatra szánt eszköz is –, amely a gyártó meghatározása szerint emberen vagy emberből származó mintán történő alkalmazásra szolgál és amely
+h) orvostechnikai eszköz: minden olyan, akár önállóan, akár más termékkel együttesen használt készülék, berendezés, anyag, szoftver vagy más termék – ideértve az azok megfelelő működéséhez szükséges szoftvert, amely a gyártó szándéka szerint kifejezetten diagnosztikai, illetve terápiás célra szolgál, valamint a rendelésre készült eszköz, továbbá a klinikai vizsgálatra szánt eszköz is –, amely a gyártó meghatározása szerint emberen vagy emberből származó mintán történő alkalmazásra szolgál
 
 ha) betegség megelőzése, diagnosztizálása, megfigyelése, kezelése vagy a betegség tüneteinek enyhítése,
 
@@ -32,7 +32,7 @@ hc) az anatómiai felépítés vagy valamely fiziológiai folyamat vizsgálata, 
 
 hd) fogamzásszabályozás
 
-céljából, és amely rendeltetésszerű hatását az emberi szervezetben vagy szervezetre elsősorban nem farmakológiai, immunológiai vagy metabolikus módon fejti ki, de működése ilyen módon elősegíthető,
+céljából, és amely rendeltetésszerű hatását az emberi szervezetben vagy szervezetre elsősorban nem farmakológiai, immunológiai vagy metabolikus módon fejti ki, de működése ilyen módon elősegíthető;
 
 i) sürgős szükség: az egészségi állapotban bekövetkezett olyan változás, amelynek következtében azonnali egészségügyi ellátás hiányában a beteg közvetlen életveszélybe kerülne, illetve súlyos vagy maradandó egészségkárosodást szenvedne;
 

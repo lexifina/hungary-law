@@ -1,6 +1,6 @@
 ## Személy felkutatása járványügyi intézkedés végrehajtása érdekében
 
-70/A. § (1) Az egészségügyi államigazgatási szerv – a tartózkodási hely megállapítása érdekében – felkutatását rendelheti el annak az ismeretlen helyen lévő személynek, akit
+70/A. § (1) Az egészségügyi államigazgatási szerv a körözési eljárás keretében történő tartózkodási hely megállapítását rendelheti el annak az ismeretlen helyen lévő személynek, akit
 
 a) védőoltásra,
 
@@ -8,16 +8,28 @@ b) járványügyi érdekből végzendő szűrővizsgálatra,
 
 c) kötelező orvosi vizsgálatra,
 
-d) fertőző betegsége miatt fekvőbeteg-gyógyintézeti elkülönítésére,
-
-e) járványügyi megfigyelésre és zárlatra,
-
-f) járványügyi ellenőrzésre
+d) járványügyi ellenőrzésre
 
 kötelezett.
 
-(2) A felkutatást elrendelő határozatot közölni kell a körözést végrehajtó – a személy- és tárgykörözésről szóló törvényben meghatározott – rendőrkapitánysággal.
+(2) Az egészségügyi államigazgatási szerv a körözési eljárás keretében történő előállítását rendelheti el annak az ismeretlen helyen lévő személynek, akit
 
-(3) A felkutatást elrendelő határozat – közegészségügyi vagy járványügyi okból – fellebbezésre tekintet nélkül végrehajthatóvá nyilvánítható.
+a) fertőző betegsége miatt fekvőbeteg-gyógyintézeti elkülönítésére,
 
-(4) Ha a felkutatás elrendelésének oka megszűnt, arról a felkutatást elrendelő egészségügyi államigazgatási szerv határozatot hoz, amelyet közölni kell a (2) bekezdés szerinti rendőrkapitánysággal.
+b) járványügyi megfigyelésre és zárlatra,
+
+c) tuberkulózis miatt elkülönített, őrzött osztályon való elhelyezésre
+
+kötelezett.
+
+(3) Az (1) és (2) bekezdés szerinti határozat – közegészségügyi vagy járványügyi okból – fellebbezésre tekintet nélkül végrehajthatóvá nyilvánítható.
+
+(4) Az előállítás végrehajtásához az azt elrendelő egészségügyi államigazgatási szerv a rendőri szervet
+
+a) megfelelő tájékoztatással,
+
+b) megfelelő védőfelszereléssel
+
+látja el.
+
+(5) Ha a körözés elrendelésének az oka megszűnt, az azt elrendelő egészségügyi államigazgatási szerv a körözést visszavonja.

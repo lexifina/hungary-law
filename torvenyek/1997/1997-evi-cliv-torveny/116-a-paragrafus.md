@@ -28,9 +28,11 @@ c) az elméleti képzésért felelős egészségügyi felsőoktatási intézmén
 
 d) a szakképzés gyakorlati részének teljesítésére vonatkozó adatokat,
 
-e) a munkáltató nevét, címét, adószámát és bankszámla számát.
+e) a munkáltató nevét, címét, adószámát és bankszámla számát,
 
-(5a) A 150. § (4) bekezdésében meghatározott feladat végrehajtásában – jogszabályban történő kijelölés esetén – az egészségügyi államigazgatási szerv részt vehet. A kijelölés alapján eljáró egészségügyi államigazgatási szerv a költségvetésében e célra rendelkezésre álló előirányzat terhére támogatást nyújt.
+f) a Rezidens Támogatási Programban történő részvétel tényét.
+
+(5a) A 150. § (4) bekezdésében meghatározott feladat végrehajtásában – jogszabályban történő kijelölés esetén – az egészségügyi államigazgatási szerv részt vehet.
 
 (5b) A (4) bekezdés szerinti nyilvántartás az (5) bekezdés a) pontjában foglalt, a szakképzésben részt vevő személyek természetes személyazonosító adatainak kivételével közhiteles hatósági nyilvántartásnak minősül.
 

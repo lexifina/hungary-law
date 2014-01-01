@@ -1,25 +1,23 @@
-218. § (1) Rendkívüli halál esetén – a (2) bekezdésben foglalt kivétellel – hatósági eljárást kell lefolytatni és az elhunyt hatósági boncolását kell elrendelni.
+218. § (1) Nem természetes a halál, ha a természetes módon való bekövetkezését a körülmények kétségessé teszik, így
 
-(2) Ha a halál oka és körülményei vizsgálatánál bűncselekmény elkövetésének gyanúja merül fel, a büntetőeljárás szabályai szerint igazságügyi orvosi boncolást kell elrendelni.
+a) a halál tekintetében bűncselekményre utaló adat merül fel, vagy
 
-(3) A hatósági, illetve az igazságügyi orvosi boncolás célja a halál okának, bekövetkezése körülményeinek tisztázása.
+b) rendkívüli halálnak minősül, azaz
 
-(4) Rendkívüli az a halál, amelynek természetes módon való bekövetkezését a körülmények kétségessé teszik, így
+ba) a halált baleset okozta, vagy a körülmények arra utalnak,
 
-a) bekövetkezésének körülményei bűncselekmény elkövetésére utalnak,
+bb) a halált öngyilkosság okozta, vagy a körülmények arra utalnak,
 
-b) közlekedési vagy foglalkozás körében bekövetkezett baleset okozta vagy annak gyanúja merül föl,
+bc) a halál bekövetkezésének előzményei, körülményei ismeretlenek és nem állnak rendelkezésre olyan adatok, amelyekből megalapozottan következtetni lehet a halál természetes okból történő bekövetkeztére,
 
-c) egyéb baleset vagy mérgezés okozta, és a halál bekövetkezésével összefüggésben szükséges a felelősség vizsgálata,
+bd) fogvatartott elhalálozása esetén.
 
-d) öngyilkosság okozta, vagy a körülmények arra utalnak,
+(2) A személyazonosság megállapításáig a rendkívüli halál esetén követendő eljárást kell alkalmazni, ha az elhunyt személyazonossága ismeretlen.
 
-e) az egészségügyi ellátás során következett be, és az egészségügyi dolgozó foglalkozási szabályszegésének gyanúja merül föl,
+(3) Ha a halál oka és körülményei vizsgálatánál bűncselekmény elkövetésének gyanúja merül fel, a büntetőeljárás szabályai szerint igazságügyi orvosi boncolást kell elrendelni.
 
-f) bekövetkezésének előzményei, körülményei ismeretlenek, vagy nem állnak rendelkezésre olyan adatok, amelyekből megalapozottan következtetni lehetne a halál bekövetkeztének körülményeire,
+(4) Rendkívüli halál esetén rendkívüli halállal kapcsolatos hatósági eljárást kell lefolytatni, kormányrendeletben meghatározottak szerint hatósági boncolást kell elrendelni.
 
-g) fogvatartott elhalálozása esetén.
+(5) A hatósági vagy igazságügyi orvosi boncolás célja a halál okának, bekövetkezése körülményeinek tisztázása.
 
-(5) A személyazonosság megállapításáig a rendkívüli halál esetén követendő eljárást kell alkalmazni, ha az elhunyt személyazonossága ismeretlen.
-
-(6)
+(6) Ha a rendkívüli halállal kapcsolatos hatósági eljárást a hatóság azért szünteti meg, mert bűncselekményre utaló adatok merültek fel, a hatóság ezen döntése ellen nincs helye jogorvoslatnak.

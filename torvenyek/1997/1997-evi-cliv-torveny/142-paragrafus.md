@@ -42,7 +42,7 @@ g) a 35–36. §-ban foglalt népegészségügyi feladatok,
 
 h) az elsődleges megelőzést szolgáló népegészségügyi feladatok közül a g) pontban foglaltakon túl az egészség fejlesztése, az egészségnevelés szervezése, a családtervezési tanácsadás,
 
-i) a katasztrófa-egészségügyi ellátás,
+i) az egészségügyi válsághelyzeti ellátás,
 
 j) a Magyarországon lakóhellyel rendelkező személy részére nyújtott, a 196. § b) és c) pontja szerinti sürgősségi és kötelező gyógykezelés máshonnan meg nem térülő,
 

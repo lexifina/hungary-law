@@ -46,17 +46,7 @@ d) idegen nyelv vagy nyelvek ismeretének szintje, típusa, az arról kiállíto
 
 e) a korlátozott alkalmasság ténye,
 
-f) munkavégzéssel kapcsolatos adatok:
-
-fa) a munkahely, illetve a munkavégzésre irányuló egyéb jogviszony alapján történő egészségügyi tevékenységvégzés helye, megnevezése, címe,
-
-fb) a szakterület megnevezése, amely területen az egészségügyi dolgozó munkát végez,
-
-fc) a munkavégzésre irányuló jogviszony jellege, kezdő időpontja, határozott idejű foglalkoztatás esetében annak végdátuma vagy a jogviszony határozatlan jellege,
-
-fd) a szolgáltató ellátási szintje (alapellátás, járóbeteg-ellátás, fekvőbeteg-ellátás), valamint
-
-fe) alkalmazott egészségügyi dolgozó esetén az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény 12. §-ában meghatározott munkarendje, illetve munkavégzési formája, valamint az önként vállalt többletmunka ténye és mértéke, a heti munkaidő,
+f) az egészségügyi dolgozóval egészségügyi tevékenység végzésére irányuló jogviszonyban álló egészségügyi szolgáltató megnevezése, az egészségügyi tevékenység végzésének helye,
 
 g) a működési nyilvántartás meghosszabbításának kezdő, befejező dátuma, a meghosszabbítás alapjául szolgáló, az egészségügyi tevékenység szüneteltetésének oka, kezdő, befejező dátuma,
 
@@ -66,7 +56,7 @@ i) az egészségügyi dolgozó szakmai kamarai tagságának ténye, a tagság ke
 
 j) az egészségügyi dolgozóval szemben törvény alapján etikai eljárás keretében kiszabott jogerős büntetés ténye a büntetést kiszabó határozat jogerőre emelkedése napjának és elévülése időpontjának megjelölésével együtt,
 
-k) az egészségügyi dolgozó alap- és működési nyilvántartási száma,
+k) az egészségügyi dolgozó alap- és működési nyilvántartási száma és alap- és működési nyilvántartásának jogszabályban meghatározott típusa,
 
 l) a külföldi munkavégzés helye, időtartama és a szakterület megnevezése, amely területen az egészségügyi dolgozó a munkát végzi,
 
@@ -86,10 +76,12 @@ használja. Ennek keretében az egészségügyi dolgozó az egészségügyi tev�
 
 (4b) Amennyiben az egészségügyi dolgozó a (4a) bekezdés alapján az egészségügyi tevékenység gyakorlása során a születési nevét kívánja használni, azt annak a működési nyilvántartásba történt bejegyzését követően és kizárólag a (4a) bekezdésben meghatározott esetekben használhatja.
 
-(5) A (4) bekezdés b)–c), e), fa)–fb) és k) pontja, továbbá a) pontjából az egészségügyi dolgozó neve, illetve az egészségügyi tevékenység gyakorlása során használt neve bárki számára megismerhető adat.
+(5) A (4) bekezdés b)–c), e), f) és k) pontja, továbbá a) pontjából az egészségügyi dolgozó neve, illetve az egészségügyi tevékenység gyakorlása során használt neve bárki számára megismerhető adat.
 
 (6) A működési nyilvántartást vezető szerv a (4) bekezdés j) pontja szerinti adatot a határozat jogerőre emelkedésétől számított két év után, az n) pont szerinti adatot az adat beérkezésétől számított két év után a nyilvántartásból hivatalból törli.
 
 (7) A működési nyilvántartást vezető szerv az egészségügyi dolgozó működési nyilvántartásból való törlésének tényéről, valamint az egészségügyi dolgozók (4) bekezdés a), b) és e)–g) pontja szerinti adatairól a működési nyilvántartásból való törlést vagy az abba történő felvételt követő naptári hónap során, továbbá az ezen adatokban bekövetkezett változásokról havi rendszerességgel – törvény szerinti hatósági ellenőrzés elvégzése céljából – elektronikus úton tájékoztatást nyújt az egészségbiztosítási szerv részére.
 
 (8) A működési nyilvántartást vezető szerv az egészségügyi dolgozó működési nyilvántartásból való törlésének tényéről, valamint az egészségügyi dolgozók (4) bekezdés b) és e)–g) pontja szerinti adatairól a működési nyilvántartásból való törlést követő naptári hónap során, továbbá az ezen adatokban bekövetkezett változásokról – az egészségügyi tevékenység végzéséhez szükséges feltételek fennálltával kapcsolatos adategyeztetés céljából –, annak a működési nyilvántartásba történt bejegyzését követő 15 napon belül elektronikus úton tájékoztatja az illetékes szakmai kamarát. A működési nyilvántartást vezető szerv a szakmai kamara megkeresésére, a kamarai tagság létesítéséhez jogszabály alapján szükséges, a (4) bekezdés b) és k) pontja szerinti adatairól 15 napon belül elektronikus úton tájékoztatja a szakmai kamarát.
+
+(9) Az illetékes egészségügyi szakmai kamara a (4) bekezdés i) és j) pontja szerinti adatokról – annak keletkezésétől vagy változásától számított 15 napon belül – elektronikus úton tájékoztatja a működési nyilvántartást vezető szervet.

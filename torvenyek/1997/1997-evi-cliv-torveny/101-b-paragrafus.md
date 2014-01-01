@@ -1,4 +1,4 @@
-101/B. § (1) Az orvostechnikai eszközökkel kapcsolatos hatósági feladatok ellátására kijelölt szerv (e § tekintetében a továbbiakban: hatóság) bírságot szabhat ki, ha az egészségügyért felelős miniszter rendelete szerinti kötelezett megszegi
+101/B. § (1) Az orvostechnikai eszközökkel kapcsolatos hatósági feladatok ellátására kijelölt szerv (e § tekintetében a továbbiakban: hatóság) bírságot szabhat ki, ha e törvény vagy az egészségügyért felelős miniszter rendelete szerinti kötelezett megszegi
 
 a) az orvostechnikai eszközök klinikai vizsgálatával,
 
@@ -12,11 +12,11 @@ e) az orvostechnikai eszközökkel kapcsolatos váratlan esemény kivizsgálás�
 
 f) a balesetfelelős bejelentésével,
 
-g) az implantátum beültetése során előírt nyilvántartással
+g) az implantátum beültetése, kivétele és cseréje során előírt nyilvántartással és a Központi Implantátumregiszterbe történő adattovábbítással,
 
 h) az orvostechnikai eszközök forgalmazásával és kereskedelmi gyakorlatával
 
-kapcsolatos, az egészségügyért felelős miniszter rendeletében meghatározott kötelezettségét, vagy valótlan adat közlésével a hatóságot megtéveszti.
+kapcsolatos, e törvényben vagy az egészségügyért felelős miniszter rendeletében meghatározott kötelezettségét, vagy valótlan adat közlésével a hatóságot megtéveszti.
 
 (2) A bírság összegét a jogsértés súlyára, a jogsértő magatartás ismételt tanúsítására és a jogsértéssel okozott kár mértékére vagy az eset más, a kötelezettségszegés súlyát érintő lényeges körülményeire tekintettel kell meghatározni, azzal, hogy a bírság összege
 
@@ -29,3 +29,5 @@ c) az (1) bekezdés c) pontja esetén 50 000 forinttól 150 000 forintig,
 d) az (1) bekezdés d)–f) pontja esetén 15 000 forinttól 50 000 forintig
 
 terjedhet.
+
+(3) Az (1) bekezdés g) pontjában foglalt kötelezettség elmulasztása esetén a bírság összegét minden egyes olyan implantátum után meg kell állapítani, amely tekintetében a 101/C. § szerinti nyilvántartásba vétel nem vagy nem az ott meghatározott módon valósult meg.

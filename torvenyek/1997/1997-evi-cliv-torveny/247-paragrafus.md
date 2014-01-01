@@ -2,13 +2,13 @@
 
 a) az ellátás visszautasítására vonatkozó részletes szabályokat megállapítsa,
 
-b) az egészségügyi szolgáltatás megkezdésére és gyakorlására vonatkozó általános szabályokat, valamint a működési engedélyezési eljárásra vonatkozó szabályokat,
+b) az egészségügyi szolgáltatás megkezdésére és gyakorlására vonatkozó általános szabályokat, valamint a működési engedélyezési eljárásra és a bejelentés alapján történő egészségügyi szolgáltatás érdekében a hatósági nyilvántartásba vételre, továbbá a hatósági nyilvántartás személyes adatokat nem tartalmazó adattartalmára vonatkozó szabályokat,
 
 c) a meghatározott időtartamra és helyszínre szóló, egészségügyi tevékenységre jogosító engedély kérelmezésének és kiadásának szabályait, valamint a bejelentés alapján végezhető egészségügyi tevékenységekre vonatkozó bejelentés megtételére, valamint – személyes adatokat nem tartalmazó – kötelező adattartalmára, továbbá a bejelentett személyek nyilvántartásba vételére vonatkozó rendelkezéseket
 
 d) a nemzeti vérkészlettel való gazdálkodás, különös tekintettel a vérkészítmények külföldről történő behozatalára, illetőleg külföldre történő kivitelére vonatkozó szabályokat,
 
-e) a katasztrófa-egészségügyi ellátásra vonatkozó részletes szabályokat, a katasztrófa-egészségügyi ellátás során megtehető intézkedésekre, az egészségügyi dolgozók kirendelésére, a katasztrófa-egészségügyi ellátásra való felkészülésre, az egyes egészségügyi válsághelyzetek kezelésére vonatkozó részletes szabályokat
+e) az egészségügyi válsághelyzeti ellátásra vonatkozó részletes szabályokat, az egészségügyi válsághelyzeti ellátás során megtehető intézkedésekre, az egészségügyi dolgozók kirendelésére, az egészségügyi válsághelyzeti ellátásra való felkészülésre, az egyes egészségügyi válsághelyzetek kezelésére vonatkozó részletes szabályokat
 
 f) az egészségügyi szolgáltatók felelősségbiztosítására vonatkozó részletes szabályokat,
 
@@ -40,11 +40,11 @@ o) az alapnyilvántartást vezető szervet, az egészségügyi szakértői nyilv
 
 p) a humán reprodukciós eljárásokkal kapcsolatos, kötelezően nyilvánosságra hozandó eredményességi adatok, statisztikák körét, a nyilvánosságra hozatal módját és helyét, továbbá az ellenőrzés módját,
 
-q) a halottvizsgálatra, a halottakkal kapcsolatos orvosi eljárásra, a rendkívüli halál esetén ellátandó feladatokra, a hatósági és igazságügyi orvosi boncolásra, a holttest szállítására, tárolására, az ehhez kapcsolódó költségek viselésére, valamint a holttest helyreállítására és átadására vonatkozó szabályokat,
+q) a halottvizsgálatra, a halottakkal kapcsolatos orvosi eljárásra, a nem természetes halál esetén ellátandó feladatokra, a kórbonctani vizsgálatra, a hatósági és igazságügyi orvosi boncolásra, a holttest szállítására, tárolására, az ehhez kapcsolódó költségek viselésére, a halottvizsgálati szaktanácsadói névjegyzéket vezető egészségügyi államigazgatási szerv kijelölésére, a kihantolásra, valamint a holttest helyreállítására és átadására vonatkozó szabályokat,
 
 r) a sürgős szükség esetén külön jogszabályban meghatározott ellátások költségeinek behajtására és finanszírozására irányuló eljárási szabályokat,
 
-s) a holttest szállításának legmagasabb árát,
+s) a holttest szállításának (beleértve a szállítójármű telephelyről ki- és visszaállását, a holttest szállítójárműbe történő behelyezését és kivételét, valamint szállítás alatti hűtését is) legmagasabb árát,
 
 t) a természetes fürdővizek minőségellenőrzéséhez szükséges mintavételi és laboratóriumi vizsgálati tevékenységre vonatkozó követelményeket, az engedély kiadásával, illetve bejelentés megtételével összefüggő eljárás részletes szabályait,
 
@@ -188,7 +188,7 @@ sz) a rendszeres étkezést biztosító, szervezett élelmezési ellátás keret
 
 t) a vérkészítmények terápiás felhasználásának részletes szabályait,
 
-u) az egységes ágazati humánerőforrás-monitoringrendszer működésének részletes szabályait,
+u) az egységes ágazati humánerőforrás-monitoringrendszer működésének, valamint a humánerőforrás-monitoringrendszer részére átadásra kerülő egyes adatok körét, illetve a humánerőforrás-monitoringrendszerből történő adatszolgáltatás részletes szabályait,
 
 v) az orvosi bélyegzők adattartalmára, kérelmezésére, kiállítására, cseréjére, visszavonására, valamint – az államháztartásért felelős miniszterrel egyetértésben – az ezzel kapcsolatos igazgatási szolgáltatási díjakra vonatkozó szabályokat
 
@@ -206,7 +206,7 @@ rendeletben állapítsa meg.
 
 (3) Felhatalmazást kap a miniszter, hogy
 
-a)
+a) az egészségügyi válsághelyzeti terv tartalmi követelményeit,
 
 b) az egészségfejlesztési programok akkreditációs eljárásának szabályait,
 
@@ -219,3 +219,47 @@ e) a gyermekágyas és az újszülöttellátás szabályait
 f) az egészségügyi szakdolgozó által, orvosi elrendelésre önállóan is ellátható tevékenységek felelősségi, szakmai, szakképesítési és szakképzettségi feltételeit,
 
 g) az egészségügyi tevékenységet e törvény alapján felügyelet mellett végzők felügyeletének módjával, illetve a felügyelet szintjével kapcsolatos szabályokat,
+
+h) a halottvizsgálati szaktanácsadói névjegyzékkel összefüggésben
+
+ha) az igazságügyért felelős miniszterrel egyetértésben a halottvizsgálati szaktanácsadói névjegyzékbe történő felvételre, valamint az ahhoz szükséges képesítési és szakmai feltételekre és a névjegyzékből való törlésre vonatkozó szabályokat,
+
+hb) az igazságügyért felelős miniszterrel egyetértésben a halottvizsgálati szaktanácsadó igénybe vételének, a szaktanácsadói tevékenység folytatásának részletes feltételeit, a szaktanácsadói ügyeleti rendszer részletes szabályait,
+
+hc) az adópolitikáért felelős miniszterrel egyetértésben a névjegyzékbe-vételi eljárás igazgatási szolgáltatási díjának összegére, befizetésére, visszafizetésére és nyilvántartására vonatkozó részletes szabályokat,
+
+hd) az igazságügyért felelős miniszterrel és az államháztartásért felelős miniszterrel egyetértésben a halottvizsgálati szaktanácsadó részére fizetendő díjat és a díj megállapítására vonatkozó részletes szabályokat,
+
+i) a hagyományos kínai gyógyászat területén oklevéllel rendelkező személy által végzett egészségügyi tevékenység engedélyezésére vonatkozó részletes szabályokat,
+
+rendeletben állapítsa meg.
+
+(4) Felhatalmazást kap a miniszter, hogy a nem-konvencionális tevékenységeket, az egyes tevékenységek végzésére jogosult személyek körét, valamint e tevékenységek végzésével, a képesítés megszerzésével összefüggő szakmai szabályokat rendeletben állapítsa meg.
+
+(4a) Felhatalmazást kap az egészségügyért felelős miniszter, hogy rendeletben jelölje ki a 2013. május 1-jén átvételre kerülő egészségügyi intézmény tekintetében fenntartói joggal rendelkező központi államigazgatási szervet.
+
+(5) Felhatalmazást kap
+
+a) a büntetés-végrehajtásért felelős miniszter, valamint a rendészetért felelős miniszter, hogy – a miniszterrel egyetértésben – a fogvatartottak egészségügyi ellátására vonatkozó szabályokat,
+
+b) a miniszter és a rendészetért felelős miniszter, hogy az ittas személyek kijózanítás céljából az illetékes egészségügyi szolgáltatóhoz történő szállításának szabályait,
+
+c) a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben az e törvény szerint
+
+ca) az orvostechnikai eszközökkel és a gyógyászati segédeszközökkel kapcsolatos eljárásokkal – ideértve a szakhatósági eljárást is –, továbbá az egyszer használatos orvostechnikai eszközök újrafelhasználásának jóváhagyási eljárásával összefüggő igazgatási szolgáltatásokért,
+
+cb) az egészségügyi szolgáltatók működési engedélyezésével és hatósági nyilvántartásba vételével kapcsolatosan,
+
+cc) az egészségügyi szakképesítéssel rendelkező személyek alap- és működési nyilvántartásával összefüggésben,
+
+cd) az orvostudományi kutatás, valamint a beavatkozással nem járó vizsgálat engedélyezési eljárásáért,
+
+ce) az egységes ágazati humánerőforrás-monitoringrendszert működtető szerv részére az igazgatási szolgáltatásainak igénybevételéért,
+
+cf) az egészségügyi szakértők tevékenységének engedélyezéséért,
+
+cg) az egészségfejlesztési programok akkreditációjáért,
+
+ch) a természetes gyógytényezőkkel kapcsolatos egyes eljárásokkal – ideértve a szakhatósági eljárásokat is – összefüggő igazgatási szolgáltatásokért,
+
+ci) a közegészségügyi vagy élelmezés- és táplálkozás-egészségügyi feladatkörben eljáró egészségügyi államigazgatási szervnek a különleges táplálkozási célú élelmiszerek, az étrend-kiegészítők, valamint a vitaminokkal, ásványi anyagokkal és bizonyos egyéb anyagokkal dúsított élelmiszerek bejelentéséért, nyilvántartásba vételéért, a különleges táplálkozási célú élelmiszer csomagolására előírt kötelezettség alóli felmentés engedélyezésére irányuló eljárásáért, az anyatej-helyettesítő és anyatej-kiegészítő tápszerrel kapcsolatos tájékoztató és oktató anyagok (eszközök) engedélyezésére irányuló eljárásáért, az új élelmiszerek elsődleges értékeléséhez szükséges szakvélemények elkészítéséért, az élelmiszerek alkalmi árusításának engedélyezésére irányuló eljárásáért, valamint a vendéglátótermékek végső fogyasztó részére történő kiszállítására irányuló tevékenység engedélyezésére irányuló eljárásáért, igazgatási jellegű szolgáltatásáért,

@@ -14,7 +14,7 @@
 
 (5) Ha a beteg a bíróság idézésére nem jelenik meg, a bíróság elrendelheti elővezetését. Egyéb kényszerítő eszköz azonban nem alkalmazható.
 
-(6) Ha a bíróság elrendeli a beteg kötelező intézeti gyógykezelését és a beteg a jogerős határozat kézhezvételétől számított három napon belül nem jelenik meg a végzésben megjelölt pszichiátriai intézetben, az eljárást kezdeményező orvos intézkedik a beteg beszállítása iránt. A beteg beszállításához a rendőrség szükség esetén közreműködik.
+(6)
 
 (7) Ha a büntetőeljárás során elrendelt kényszergyógykezelés megszűnése után a beteg további intézeti gyógykezelése szükséges, a bíróság a beteg kötelező intézeti gyógykezelését a kényszergyógykezelés megszűnésének napjával rendeli el. A bíróság elrendelő határozata alapján a kényszergyógykezelést végző szerv főigazgató főorvosa intézkedik a beteg átszállítása iránt a kijelölt pszichiátriai intézetbe. A beteg átszállításában a rendőrség szükség esetén közreműködik.
 

@@ -10,7 +10,7 @@ a) a szakképesítést szerzett neme, természetes személyazonosító adatai, e
 
 b) a megszerzett szakképesítés megnevezése, az erről kiállított oklevél, bizonyítvány száma, a kiállítás helye és időpontja, továbbá a kiállító intézmény megnevezése;
 
-c) az egészségügyi dolgozó alapnyilvántartási száma.
+c) az egészségügyi dolgozó alapnyilvántartási száma és alapnyilvántartásának jogszabályban meghatározott típusa.
 
 (4) A (3) bekezdés a) pontjából az egészségügyi dolgozó neve, a (3) bekezdés b) pontjából az egészségügyi dolgozó által megszerzett szakképesítés megnevezése és a (3) bekezdés c) pontja bárki számára megismerhető adat.
 
