@@ -1,4 +1,4 @@
-## 16. § A kedvezményezett ország által elkészített és az Európai Bizottság által jóváhagyott ikerintézményi pályázati felhívást a Nemzeti Ikerintézményi Koordinátor a kézhezvételt követően elektronikus formában haladéktalanul továbbítja a szakmailag érintett pályázásra jogosult intézmények 12. § szerint kijelölt ikerintézményi felelőseinek, és gondoskodik az aktuális ikerintézményi felhívások listájának az NFÜ honlapján való közzétételéről.
+## 16. §[^19] A kedvezményezett ország által elkészített és az Európai Bizottság által jóváhagyott ikerintézményi pályázati felhívást a Nemzeti Ikerintézményi Koordinátor a kézhezvételt követően elektronikus formában haladéktalanul továbbítja a szakmailag érintett pályázásra jogosult intézmények 12. § szerint kijelölt ikerintézményi felelőseinek, és gondoskodik az aktuális ikerintézményi felhívások listájának a Nemzeti Ikerintézményi Koordinátor honlapján való közzétételéről.
 
 17. § (1) A pályázásra jogosult intézmények az ikerintézményi programban tagállami partnerként részt vehetnek
 
@@ -19,3 +19,5 @@ amely részvételi forma kiválasztását a Nemzeti Ikerintézményi Koordináto
 (4) Konzorciumi formában történő pályázásra irányuló megkeresésekről a pályázásra jogosult intézmény ikerintézményi felelőse köteles a Nemzeti Ikerintézményi Koordinátort haladéktalanul tájékoztatni.
 
 (5) Az ikerintézményi pályázati felhívást kézhez vevő ikerintézményi felelős a pályázat beadási határidejét megelőzően legalább 10 munkanappal értesíti a Nemzeti Ikerintézményi Koordinátort a pályázási szándékról, illetve esetleges konzorciumi partner kiválasztásáról.
+
+[^19]: A 16. § az 550/2013. (XII. 30.) Korm. rendelet 85. § c) pontja szerint módosított szöveg.

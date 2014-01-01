@@ -38,9 +38,9 @@
 
 18. napidíj: az Európai Unió által finanszírozott, annak rendelkezései szerint megállapított, a résztvevő szakértő külföldre történő kiutazásának, külföldi tartózkodásának és költségeinek fedezetére szolgáló, az ikerintézményi projekt költségvetésében rendelkezésre álló, az ikerintézményi projektben résztvevő szakértőnek nyújtott juttatás,
 
-19. Nemzeti Fejlesztési Ügynökség: a Nemzeti Ikerintézményi Koordinátor feladatainak ellátásáért, valamint valamely tagállami partnerrel kötött külön szerződés alapján az ikerintézményi projekt végrehajtásáért felelős, a fejlesztéspolitikáért felelős miniszter irányítása alatt működő, teljes jogkörrel rendelkező, önállóan gazdálkodó központi költségvetési szerv,
+19.[^1]
 
-20. Nemzeti Ikerintézményi Koordinátor: a Nemzeti Fejlesztési Ügynökség Nemzetközi Együttműködési Programok Irányító Hatóságának vezetője, aki az ikerintézményi program nemzeti szintű koordinációjáért felel,
+20.[^2] Nemzeti Ikerintézményi Koordinátor: a Kormány európai uniós források felhasználásáért felelős tagja által kijelölt, az ikerintézményi program nemzeti szintű koordinációjáért felelős személy,
 
 21. Nemzeti Ikerintézményi Program: a Nemzeti Ikerintézményi Koordinátor által az érintett tárcák bevonásával elkészített, és az Ikerintézményi Munkacsoport által évente felülvizsgált, stratégiai célkitűzéseket tartalmazó dokumentum,
 
@@ -61,3 +61,6 @@
 29. tagállami partner: az ikerintézményi projekt megvalósítására a kedvezményezett ország által kiválasztott pályázásra jogosult intézmény.
 
 (2) Az (1) bekezdésben nem értelmezett fogalmakat az Ikerintézményi Kézikönyv rendelkezései szerint kell értelmezni.
+
+[^1]: A 2. § (1) bekezdés 19. pontját az 550/2013. (XII. 30.) Korm. rendelet 86. §-a hatályon kívül helyezte.
+[^2]: A 2. § (1) bekezdés 20. pontja az 550/2013. (XII. 30.) Korm. rendelet 81. §-ával megállapított szöveg.
