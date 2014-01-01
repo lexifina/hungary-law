@@ -8,6 +8,8 @@ Az értékhelyesbítés értékelési tartaléka és az értékhelyesbítés, va
 
 (2) A mérleg szerinti eredmény az osztalékra, részesedésre, a kamatozó részvények kamatára igénybe vett eredménytartalékkal növelt, a jóváhagyott osztalékkal, részesedéssel, a kamatozó részvények kamatával csökkentett tárgyévi adózott eredmény, egyezően az eredménykimutatásban ilyen címen kimutatott összeggel.
 
+(2a) Ha a jóváhagyott osztalék, részesedés, kamatozó részvények kamata kötelezettségként kimutatott összegének teljesítése nem pénzeszközzel történik, akkor a juttatás teljesítéseként átadott eszközt az értékesítés szabályai szerint kell elszámolni.
+
 (3) A tárgyévi adózott eredmény, illetve a szabad eredménytartalékkal kiegészített tárgyévi adózott eredmény akkor fizethető ki osztalékként, részesedésként, a kamatozó részvény tulajdonosának kamatként, ha a lekötött tartalékkal, továbbá az értékelési tartalékkal csökkentett saját tőke összege az osztalék, a részesedés, a kamatozó részvény kamatának figyelembevétele (kifizetése) után sem csökken a jegyzett tőke összege alá.
 
 (4) Osztalékelőlegként – a más jogszabályban előírt egyéb feltételek mellett – csak akkor fizethető ki a 21. § szerinti közbenső mérlegben (illetve egyéb, az alapul szolgáló beszámoló mérlegében) kimutatott adózott eredmény, illetve a szabad eredménytartalékkal kiegészített közbenső mérlegben (illetve egyéb, az alapul szolgáló beszámoló mérlegében) kimutatott adózott eredmény, ha a lekötött tartalékkal, továbbá az értékelési tartalékkal csökkentett – a közbenső mérlegben (illetve egyéb, az alapul szolgáló beszámoló mérlegében) kimutatott – saját tőke összege az osztalékelőleg megállapított összegének figyelembevételével sem csökken a jegyzett tőke összege alá.

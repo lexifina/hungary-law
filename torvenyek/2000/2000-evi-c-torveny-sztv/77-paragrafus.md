@@ -4,7 +4,7 @@
 
 a) a káreseményekkel kapcsolatosan kapott bevételeket,
 
-b) a kapott bírságok, kötbérek, fekbérek, késedelmi kamatok, kártérítések összegét,
+b) a kapott bírságok, kötbérek, fekbérek, késedelmi kamatok, behajtási költségátalányok, kártérítések összegét,
 
 c) a behajthatatlannak minősített – és az előző üzleti év(ek)ben hitelezési veszteségként leírt – követelésekre kapott összeget,
 

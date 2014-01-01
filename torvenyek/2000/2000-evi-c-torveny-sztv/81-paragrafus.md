@@ -4,7 +4,7 @@
 
 a) az üzleti év mérlegfordulónapja előtt bekövetkezett, a mérlegkészítés időpontjáig ismertté vált káreseményekkel kapcsolatos – a le nem vonható általános forgalmi adót is magában foglaló – kifizetéseket, elszámolt, fizetendő összegeket;
 
-b) a fizetett, illetve a mérlegkészítés időpontjáig ismertté vált, elszámolt, fizetendő, a mérlegfordulónap előtti időszakhoz kapcsolódó bírságok, kötbérek, fekbérek, késedelmi kamatok, kártérítések összegét;
+b) a fizetett, illetve a mérlegkészítés időpontjáig ismertté vált, elszámolt, fizetendő, a mérlegfordulónap előtti időszakhoz kapcsolódó bírságok, kötbérek, fekbérek, késedelmi kamatok, behajtási költségátalányok, kártérítések összegét;
 
 c) a költségek (a ráfordítások) ellentételezésére – visszafizetési kötelezettség nélkül – belföldi vagy külföldi gazdálkodónak – az üzleti évhez kapcsolódóan – adott támogatás, juttatás összegét;
 

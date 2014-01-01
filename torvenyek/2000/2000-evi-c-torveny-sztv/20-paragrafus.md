@@ -4,9 +4,9 @@
 
 (3) A devizakülföldi társaságnak (a vámszabadterületi társaságnak, ideértve a devizajogszabály szerint devizakülföldinek minősülő egyéb társaságokat is) az éves beszámolót a létesítő okiratban rögzített devizában kell elkészíteni. A létesítő okiratban rögzített devizában készítheti el éves beszámolóját az európai gazdasági egyesülés, az európai részvénytársaság és az európai szövetkezet is. A devizában elkészített éves beszámolóban az adatokat a Magyar Nemzeti Bank hivatalos devizaárfolyam jegyzése szerinti devizaegységben kell megadni.
 
-(4) A (3) bekezdésben foglaltakon túlmenően, bármely vállalkozó euróban készítheti el éves beszámolóját, ha erre vonatkozó döntését a számviteli politikájában az üzleti év első napját megelőzően rögzítette és a létesítő okirata szerinti devizaként az eurót jelölte meg. A vállalkozó – az (5) bekezdésben foglaltak alkalmazását kivéve – e döntését legkorábban a döntést követő ötödik üzleti évre vonatkozóan változtathatja meg, amennyiben a számviteli politikáját és a létesítő okiratát ennek megfelelően módosítja.
+(4) A (3) bekezdésben foglaltakon túlmenően, bármely vállalkozó euróban vagy USA dollárban készítheti el éves beszámolóját, ha erre vonatkozó döntését a számviteli politikájában az üzleti év első napját megelőzően rögzítette és a létesítő okirata szerinti devizaként az eurót, illetve az USA dollárt jelölte meg. A vállalkozó – az (5) bekezdésben foglaltak alkalmazását kivéve – e döntését legkorábban a döntést követő ötödik üzleti évre vonatkozóan változtathatja meg, amennyiben a számviteli politikáját és a létesítő okiratát ennek megfelelően módosítja.
 
-(5) A (3) és (4) bekezdésben foglaltakon túlmenően a létesítő okiratban rögzített – eurótól eltérő – devizában készítheti el éves beszámolóját az a vállalkozó is, amelynél a tevékenység elsődleges gazdasági környezetének pénzneme (a funkcionális pénznem) az eurótól eltérő deviza, feltéve, hogy
+(5) A (3) és (4) bekezdésben foglaltakon túlmenően a létesítő okiratban rögzített – eurótól vagy USA dollártól eltérő – devizában készítheti el éves beszámolóját az a vállalkozó is, amelynél a tevékenység elsődleges gazdasági környezetének pénzneme (a funkcionális pénznem) az eurótól vagy USA dollártól eltérő deviza, feltéve, hogy
 
 a) bevételei, költségei és ráfordításai, valamint
 
