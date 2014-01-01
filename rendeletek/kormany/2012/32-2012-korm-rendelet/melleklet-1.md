@@ -4,4 +4,4 @@
 
 [^3]: A 3. §-t a 61/2013. (II. 28.) Korm. rendelet 4. §-a iktatta be.
 [^4]: A hatálybalépés időpontja 2013. március 1.
-[^5]: Az 1. melléklet a 70/2012. (IV. 11.) Korm. rendelet 2. §-a, a 166/2012. (VII. 19.) Korm. rendelet 13. §-a, a 296/2012. (X. 17.) Korm. rendelet 58. §-a, a 394/2012. (XII. 20.) Korm. rendelet 56. §-a szerint módosított szöveg.
+[^5]: Az 1. melléklet a 70/2012. (IV. 11.) Korm. rendelet 2. §-a, a 166/2012. (VII. 19.) Korm. rendelet 13. §-a, a 296/2012. (X. 17.) Korm. rendelet 58. §-a, a 394/2012. (XII. 20.) Korm. rendelet 56. §-a, az 527/2013. (XII. 30.) Korm. rendelet 114. § (2) bekezdése szerint módosított szöveg.
