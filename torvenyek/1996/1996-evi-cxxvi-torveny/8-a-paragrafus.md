@@ -1,8 +1,8 @@
 8/A. § (1) A lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény (a továbbiakban: Ehtv.) 2012. január 1-jén hatályos 34. § (1) bekezdése szerinti szervezet (a továbbiakban: szervezet) a 4. § (1) bekezdés a) pont aa) alpontja szerinti kedvezményezettnek minősül azzal, hogy a 4. § (1) bekezdésében meghatározott feltételeket a 2012., 2013. és 2014. rendelkező évben nem kell teljesítenie.
 
-(2) A 2012., 2013. és 2014. évben a szervezet 4. § (2) bekezdésében meghatározott feltételek meglétét igazoló nyilatkozatának a 4. § (2) bekezdés e) pontjában foglaltakat nem kell tartalmaznia, továbbá a szervezetnek nem kell teljesítenie a 6/C. § (1) bekezdése szerinti kötelezettséget.
+(2) A szervezetnek első alkalommal a 2015. rendelkező évben felajánlott összegekről a 2017. évben kell teljesítenie a 6/C. § (1) bekezdése szerinti kötelezettséget.
 
-(3)
+(3) Az (1) bekezdés szerinti szervezetnek az adóhatóság a rendelkezés évének december 31-ével meghatározott és – a 6/B. § (1) bekezdése szerint – a korábbi időszak pótlistája alapján megnövelt 2011. rendelkező évi összeget a szervezet nyilvántartásba vételének és a kiutaláshoz szükséges adatoknak az adóhatósághoz történő bejelentését követő 15 napon belül utalja át.
 
 (4) Az adóhatóság a szervezetet a 2011. rendelkező év utáni időszakban a jogvitákat lezáró határozatok, valamint a 2. § (1) bekezdése és a 6. § (2) bekezdése alapján megillető támogatás mértékéről tájékoztatja.
 

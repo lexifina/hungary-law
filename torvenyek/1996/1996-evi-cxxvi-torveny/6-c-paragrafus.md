@@ -1,6 +1,6 @@
 ## 6. A támogatás felhasználásának szabályai
 
-6/C. § (1) A 4. § (1) bekezdésében meghatározott kedvezményezett az e törvény alapján átutalt összeg felhasználására vonatkozó, a cél szerinti és működési költségeket összegszerűen is tartalmazó adatait – meghatározva a támogatás esetleges tartalékolásának tényét, célját, legfeljebb 3 éves időtartamát és összegét is – a kiutalást követő második év május 31. napjáig az adóhatóság részére elektronikus úton küldi meg (a továbbiakban: beszámolási kötelezettség).
+6/C. § (1) A 4. § (1) bekezdés a)–g) pontjában meghatározott kedvezményezett az e törvény alapján átutalt összegnek a 6. § szerinti átutalását követő év december 31. napjáig történő felhasználására vonatkozó, a cél szerinti és működési költségeket összegszerűen is tartalmazó adatait – meghatározva a támogatás esetleges, az átutalást követő második év december 31. napjáig terjedő tartalékolásának tényét, célját és összegét is – a kiutalást követő második év május 31. napjáig az adóhatóság részére elektronikus úton küldi meg (a továbbiakban: beszámolási kötelezettség). A fel nem használt – ötezer forintot meghaladó – összeget a kedvezményezett a beszámolással együtt az adóhatóság részére visszautalja.
 
 (2) A 4. § (1) bekezdésében meghatározott kedvezményezettet jogutód nélküli megszűnése esetén a megszűnését megelőzően soron kívüli, jogutódlással történő megszűnése esetén a jogutódot a jogelődre vonatkozó tartalmú és határidejű beszámolási kötelezettség terheli. A jogutód nélkül megszűnő kedvezményezett az e törvény alapján fel nem használt összeget a soron kívüli beszámolással egyidejűleg az adóhatóság részére visszautalja. A visszafizetett összeg a központi költségvetés bevétele.
 
@@ -14,7 +14,7 @@ c) teljesítése során valótlan adatot közölt,
 
 határozatával kizárja a 4. § (1) bekezdésében meghatározott kedvezményezettet a határozat jogerőre emelkedését követő rendelkező évben tett felajánlásokból történő részesedésből.
 
-(4) Ha az adóhatóság a 4. § (1) bekezdésében meghatározott kedvezményezett beszámolási kötelezettségének teljesítése során megállapítja, hogy a 4. § (1) bekezdésében meghatározott kedvezményezett a 3 éves tartalékolási időt túllépte, erről határozatot hoz, amelyben a 4. § (1) bekezdésében meghatározott kedvezményezettet a közhasznú tevékenység megvalósítására a 3 éves tartalékolási idő lejártáig fel nem használt összeg visszafizetésére kötelezi.
+(4) Ha az adóhatóság a 4. § (1) bekezdés a)–g) pontjában meghatározott kedvezményezett beszámolási kötelezettségének teljesítése során megállapítja, hogy a kedvezményezett az egy éves tartalékolási időt túllépte és a visszafizetési kötelezettségét nem teljesítette, erről határozatot hoz, amelyben a kedvezményezettet a közhasznú tevékenység megvalósítására az egy éves tartalékolási idő lejártáig fel nem használt, az ötezer forintot elérő összeg visszafizetésére kötelezi.
 
 (5) A 4. § (1) bekezdésében meghatározott kedvezményezett beszámolási kötelezettsége során az adóhatóság részére megküldött dokumentumok őrzésére az 5/C. § (4) bekezdését kell alkalmazni.
 

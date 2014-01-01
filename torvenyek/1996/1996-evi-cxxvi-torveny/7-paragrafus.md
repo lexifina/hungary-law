@@ -18,7 +18,7 @@ a) a 4. § (1) bekezdés a) pont aa)–ad) alpontja szerinti kedvezményezett az
 
 b) a 4. § (1) bekezdés b)–i) pontja szerinti kedvezményezett a létesítő okiratában és a rá vonatkozó külön jogszabályokban alaptevékenységként meghatározott közcélú, közérdekű, közhasznú tevékenység megvalósítására fordítja.
 
-(9) A kedvezményezett fenntartásával, működésével kapcsolatos költségek – a 6/C. § (1) bekezdése szerinti tartalékolás esetén, ideértve a tartalékolást követő években felmerült, ilyen jellegű költségeket is – együttes összege a felhasználás évében nem haladhatja meg a felhasznált összeg ötven százalékát.
+(9) A kedvezményezett fenntartásával, működésével kapcsolatos költségek – a 6/C. § (1) bekezdése szerinti tartalékolás esetén, ideértve a tartalékolást követő években felmerült, ilyen jellegű költségeket is – együttes összege a felhasználás évében nem haladhatja meg a felhasznált összeg huszonöt százalékát, de legfeljebb 25 millió forintot. A kedvezményezett reklám és marketing célú tevékenységére fordított költségek együttes összege a felhasználás évében nem haladhatja meg a felhasznált összeg tíz százalékát, de legfeljebb 10 millió forintot.
 
 (10) Működési költségként a következők vehetők figyelembe:
 
@@ -36,6 +36,6 @@ c) postaköltség, telefon- és internetszolgáltatás alapdíja,
 
 d) – költségvetési szervek esetében – személyi és dologi juttatások.
 
-(11) Abban az esetben, ha a kedvezményezett a 4. § szerinti feltételek meglétét a 4. § (5) bekezdése szerinti eljárásban nem igazolja, illetve a 4. § (2) bekezdésében foglalt nyilatkozattételi és közlési kötelezettségét nem teljesíti, erről az adóhatóság fellebbezéssel meg nem támadható határozatot hoz, amelyet a kedvezményezett kérelmére az a bíróság, amelynél a kedvezményezett nyilvántartásba vétele történt – ennek hiányában a kedvezményezett címe szerint illetékes bíróság – nemperes eljárásban 15 napon belül a feltételek fennállásának megállapítása esetén megváltoztathat. Az eljárásra a Pp. szabályait kell alkalmazni.
+(11) Abban az esetben, ha a kedvezményezett a 4. § (1) bekezdése szerinti feltételek meglétét a 4. § (5) bekezdése szerinti eljárásban nem igazolja, erről az adóhatóság fellebbezéssel meg nem támadható határozatot hoz, amelyet a kedvezményezett kérelmére a közigazgatási és munkaügyi bíróság nemperes eljárásban 15 napon belül a feltételek fennállásának megállapítása esetén megsemmisíthet vagy megváltoztathat. Az eljárásra a Pp. szabályait kell alkalmazni.
 
 (12) A rendelkező nyilatkozattal kapcsolatos ügyben az Art. rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni. A kedvezményezett az e törvényben foglalt kötelezettségeinek megsértése esetén az Art. 172. § (1) bekezdése szerinti mulasztási bírsággal sújtható.
