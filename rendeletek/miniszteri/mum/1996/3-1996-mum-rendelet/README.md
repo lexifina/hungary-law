@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1996-3-20-39
 | 2011-01-01 | 1996-3-20-39.5 | 3/1997. (I. 28.) MüM rendelet |
 | 2012-07-06 | 1996-3-20-39.6 | 3/2000. (III. 3.) SZCSM rendelet |
 | 2013-01-01 | 1996-3-20-39.7 | 3/1997. (I. 28.) MüM rendelet |
+| 2014-01-01 | 1996-3-20-39.8 | 66/2013. (XII. 23.) NGM rendelet |
