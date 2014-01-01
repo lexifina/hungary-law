@@ -21,3 +21,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-17-00-00
 | 2013-07-01 | 2013. évi LXXXIV. törvény | 2007-17-00-00.22 |
 | 2013-08-01 | 2013. évi LVIII. törvény | 2007-17-00-00.23 |
 | 2013-12-31 | 2013. évi CCL. törvény | 2007-17-00-00.24 |
+| 2014-01-01 | 2013. évi CCLI. törvény | 2007-17-00-00.25 |
