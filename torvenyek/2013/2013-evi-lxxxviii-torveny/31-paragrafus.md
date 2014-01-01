@@ -26,6 +26,6 @@ j) a 47. § (5) bekezdés c) pontja.
 
 (3) A 47. § (5) bekezdés a) pontja külön törvényben meghatározott időpontban lép hatályba.
 
-(4)
+(4) A 2013. december 31-én a személy- és tárgykörözésről szóló 2001. évi XVIII. törvény szerint folyamatban lévő személy és tárgykörözéseket a törvény rendelkezései szerint kell végrehajtani.
 
-(5)
+(5) A 2013. december 31-én a személy- és tárgykörözésről szóló 2001. évi XVIII. törvény szerint nyilvántartatott adatokat 2014. január 1-jétől a nyilvántartásban kell kezelni e törvény rendelkezései szerint.
