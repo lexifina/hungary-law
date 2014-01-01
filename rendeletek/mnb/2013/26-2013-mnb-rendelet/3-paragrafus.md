@@ -1,0 +1,9 @@
+## 2. § A meghirdető a Gfbt. szerinti díjtarifának, a fedezetlenségi díj egy naptári évre számított tarifájának (a továbbiakban együtt: díjtarifa) a Magyar Nemzeti Bank (a továbbiakban: MNB) honlapján történő meghirdetésére vonatkozó – Gfbt. szerinti – kötelezettségét e rendeletben foglaltak szerint teljesíti.
+
+3. § (1) A meghirdető a díjtarifa meghirdetési kötelezettségét az MNB által meghatározott elektronikus formában, a közigazgatási felhasználásra vonatkozó követelményeknek megfelelő, legalább fokozott biztonságú vagy minősített elektronikus aláírással ellátva, az MNB „Elektronikus Rendszer Hitelesített Adatok Fogadásához” megnevezésű rendszerén (a továbbiakban: ERA rendszer) keresztül teljesíti.
+
+(2) A meghirdető a díjtarifát az ERA rendszer „KGFB díjhirdetés szolgáltatás” megnevezésű menüpontjának igénybevételével, az ott rendszeresített elektronikus űrlap alkalmazásával és hordozható, nem felülírható dokumentum (pdf) formátumban való feltöltésével (a továbbiakban: díjtarifa-küldemény) küldi meg. Az ERA rendszer „KGFB díjhirdetés szolgáltatás” megnevezésű menüpontja a 6. § szerinti előzetes regisztrációt követően, a https://era.mnb.hu/oldalra történő bejelentkezéssel érhető el minden nap 0:00 óra és 23:00 óra között.
+
+(3) A biztosító az elektronikus űrlapon jelöli meg a díjtarifa alkalmazásának kezdő napját, amely a meghirdetés 5. § (1) bekezdés szerinti napjától számított hatvanegyedik napnál korábbi nap nem lehet. Ugyanazon alkalmazási kezdő nappal kizárólag egy díjtarifa megjelentetésére van mód, amely alkalmazási kezdőnap utólag nem módosítható.
+
+(4) A jelen § alkalmazásában elektronikus űrlap: a szabályozott elektronikus ügyintézési szolgáltatásokról és az állam által kötelezően nyújtandó szolgáltatásokról szóló 83/2012. (IV. 21.) Korm. rendelet 2. § 3. pontjában meghatározott fogalom.
