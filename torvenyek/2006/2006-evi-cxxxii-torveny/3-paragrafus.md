@@ -4,11 +4,13 @@
 
 a) a kapacitás-nyilvántartásban szereplő szakellátási kapacitások (ide értve az egészségügyi államigazgatási szervnek bejelentve szüneteltetett kapacitásokat is),
 
-b) az a) pont szerinti nyilvántartásban nem szereplő kapacitások tekintetében a 2012. december 31-én lekötött kapacitások,
+b) a kapacitás-nyilvántartás részét nem képező kapacitás fajták esetében a lekötött kapacitások,
 
-c) a 11. § (3) bekezdése szerinti nyilvántartásban szereplő szakellátási kapacitások, és
+c) a 11/A. § (4) bekezdése szerinti nyilvántartásban szereplő szakellátási kapacitások,
 
-d) a tartalékkapacitások
+d) a tartalékkapacitások, és
+
+e) a 11/B. § alapján visszavont – d) pont alá nem tartozó – kapacitások
 
 összessége.
 
@@ -18,6 +20,14 @@ d) a tartalékkapacitások
 
 (4) Kormányrendelet határozza meg azokat a szakmákat, amelyekre az egészségügyi szakellátás körében finanszírozási szerződés köthető.
 
-(5) Az (1) bekezdés szerinti kapacitásmennyiség kizárólag az e törvény és a végrehajtásáról szóló kormányrendelet szerinti eljárások során változhat.
+(5) Az (1) bekezdés szerinti országos kapacitásmennyiség kizárólag abban az esetben emelkedhet, ha
+
+a) a többletkapacitásnak a 10. § (2) szerinti bevonását váratlan esemény vagy előre nem látható módon bekövetkező ellátási szükséglet teszi szükségessé,
+
+b) a többletkapacitás befogadását új egészségügyi technológia bevezetése indokolja, vagy
+
+c) a fejlesztési forrásból megvalósuló többletkapacitás befogadása a 11/A. § alapján előzetes többletkapacitás befogadási eljárás keretében történik,
+
+d) a többletkapacitás a 11. § (2) bekezdés b) pont bb) alpontja szerint kerül befogadásra.
 
 (6)

@@ -1,7 +1,25 @@
-## 11. Előzetes többletkapacitás-befogadás
+## 11. Többletkapacitások befogadása és kapacitások visszavonása
 
-11. § (1) Az egészségügyi szolgáltatónak az E. Alap számára többletforrásigényt eredményező fejlesztése nyomán létrejövő kapacitásának előzetes befogadását – amennyiben az éven túli kötelezettségvállalást eredményez – a Kormány határozatban hagyja jóvá kormányrendelet szerinti eljárás keretében.
+11. § (1) A 3. § (1) bekezdés a) és b) pontjában meghatározottakon felüli kapacitás – ide nem értve a 3. § (5) bekezdés a) pontja szerinti kapacitásokat – kizárólag
 
-(2) Amennyiben az előzetes többletkapacitás-befogadás az (1) bekezdéstől eltérően nem eredményez éven túli kötelezettségvállalást, a kapacitásbefogadás tárgyában csak akkor köthető finanszírozási szerződés az adott kapacitásra, ha a fejlesztéssel az egészségbiztosító, az egészségügyért felelős miniszter és az államháztartásért felelős miniszter előzetesen – kormányrendeletben foglaltak szerint – egyetértett.
+a) előzetes többletkapacitás-befogadási eljárásban, vagy
 
-(3) Az (1) bekezdés szerint előzetesen befogadott többletkapacitásokat az egészségügyi államigazgatási szerv tartja nyilván az e törvény végrehajtásáról szóló rendeletben foglaltak szerint. A nyilvántartásra az 5/A. § (7) bekezdésében foglaltakat megfelelően alkalmazni kell.
+b) a többletkapacitás-befogadási eljárásban
+
+fogadható be.
+
+(2) Többletkapacitás-befogadási eljárásban kapacitás – a 3. § (5) bekezdés b) pontja szerinti kapacitások kivételével – csak
+
+a) az 1. § (2) bekezdés i) pont ia) és ib) alpontja szerinti szakellátási kapacitások esetében tartalékkapacitások terhére,
+
+b) az a) pont alá nem tartozó kapacitások esetében
+
+ba) a 11/B. § (1)–(3) bekezdése alapján visszavont kapacitás terhére, ennek hiányában
+
+bb) az erre a célra elkülönített költségvetési keret terhére
+
+fogadható be.
+
+(3) A többletkapacitás-befogadási eljárásra vonatkozó szabályokat az e törvény végrehajtásáról szóló kormányrendelet állapítja meg.
+
+(4) A többletkapacitás-befogadási eljárás keretében befogadott kapacitás tekintetében az 5/A. § (8b) és (8c) bekezdésében meghatározott adatokat rögzíteni kell a kapacitás-nyilvántartásban és a változást egyidejűleg át kell vezetni a kapacitás-nyilvántartásnak a tartalékkapacitásokra vonatkozó részén is.

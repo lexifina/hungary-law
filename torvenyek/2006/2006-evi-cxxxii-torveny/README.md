@@ -21,3 +21,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2006-132-00-00
 | 2013-07-06 | 2013. évi CXXVII. törvény | 2006-132-00-00.22 |
 | 2013-09-01 | 2013. évi XL. törvény | 2006-132-00-00.23 |
 | 2013-12-24 | 2013. évi CCXLIV. törvény | 2006-132-00-00.24 |
+| 2014-01-01 | 2013. évi CCXLIV. törvény | 2006-132-00-00.25 |

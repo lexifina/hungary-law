@@ -56,11 +56,11 @@ o) egészségügyi szakellátási feladat: a nem állami és nem helyi önkormá
 
 p) egészségügyi szakellátási kötelezettség: az államnak az a kötelezettsége, hogy az l) és az o) pont alá nem tartozó esetekben biztosítsa az e törvény szerint meghatározott ellátási területen a lekötött szakellátási kapacitások felhasználásával a kötelező egészségbiztosítás egészségügyi szolgáltatásaira jogosultak számára a külön jogszabályban foglaltak szerinti egészségügyi szakellátásokat;
 
-q) tartalékkapacitás: az – a rendelkezésre álló országos kapacitásmennyiség részét képező – járóbeteg-, illetve fekvőbeteg-szakellátási kapacitás, amely nincs egészségügyi szolgáltató rendelkezésére bocsátva;
+q) tartalékkapacitás: az a rendelkezésre álló országos kapacitásmennyiség részét képező, az i) pont ia) alpontja szerinti járóbeteg-szakellátási kapacitás és az i) pont ib) alpontja szerinti fekvőbeteg-szakellátási kapacitás, amely nincs egészségügyi szolgáltató rendelkezésére bocsátva;
 
 r) szakellátási kapacitás feletti rendelkezési jog: adott szakellátási kapacitás, illetve a hozzá tartozó ellátási terület tekintetében az 5. §, az 5/B. §, a 7. § és a 10. § szerinti eljárásokban a fenntartó számára megállapított jogkör gyakorlása;
 
-s) kapacitás-nyilvántartás: a szakellátási kapacitásokról és a hozzátartozó ellátási területekről, valamint a tartalékkapacitásokról az 5/A. § (7)–(8) bekezdése alapján vezetett közhiteles nyilvántartás.
+s) kapacitás-nyilvántartás: a szakellátási kapacitásokról és a hozzátartozó ellátási területekről, valamint a tartalékkapacitásokról az 5/A. § (7)–(8d) bekezdése alapján vezetett közhiteles nyilvántartás.
 
 (3) A (2) bekezdésben foglaltakon túl e törvény alkalmazásában az Eütv. 3. §-a szerinti fogalommeghatározásokat kell figyelembe venni.
 

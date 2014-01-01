@@ -28,7 +28,7 @@ c) az egészségügyi tevékenység végzésének egyes kérdéseiről szóló k
 
 d) az ellátási terület meghatározásának és módosításának részletszabályait,
 
-e) a kapacitások felosztásának, újraosztásának, módosításának és a kapacitások átcsoportosításának részletes szabályait, valamint a kapacitások más szolgáltatónak történő átadásához kapcsolódó pályázati eljárás részletes szabályait,
+e) a kapacitások felosztásának, újraosztásának, módosításának és a kapacitások átcsoportosításának részletes szabályait, valamint a kapacitások visszavonásának feltételeit és eljárási szabályait,
 
 f) azoknak a szakmáknak a körét, amelyekre az e törvény szerinti járóbeteg-szakellátási és fekvőbeteg-szakellátási kapacitásokra kiterjedően finanszírozási szerződést lehet kötni,
 

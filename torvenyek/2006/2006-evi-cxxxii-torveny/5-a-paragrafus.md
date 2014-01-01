@@ -66,7 +66,11 @@ ie) által feladat teljesítésére kötelezett fél nevét, székhelyét,
 
 if) által érintett egészségügyi szolgáltató fenntartójának nevét, székhelyét,
 
-ig) által érintett szakma megnevezését és a kapacitás mértékét.
+ig) által érintett szakma megnevezését és a kapacitás mértékét,
+
+j) a speciális ellátásokat végző egészségügyi szolgáltatók esetében a speciális betegségcsoport, illetve a speciális gyógyító eljárás megnevezését,
+
+k) a speciális ellátotti körnek ellátást nyújtó szolgáltató esetében a speciális ellátotti kör megjelölését.
 
 (8c) A kapacitás-nyilvántartásban a szakellátási kapacitásokhoz kapcsolódó ellátási területek térségenként, ellátási formánként, szolgáltatónként, szakmánként szerepelnek. A kapacitás-nyilvántartás tartalmazza
 

@@ -8,7 +8,7 @@ b) az állam az egészségügyi szakellátási kötelezettségét,
 
 c) az a) és a b) pont alá nem tartozó szerv az egészségügyi szakellátási feladatát
 
-a 3. § (1) bekezdés a) pontja szerinti esetben a kapacitás-nyilvántartásban meghatározott kapacitások mértékének és szakmai összetételének megfelelően a nyilvántartásban szereplő ellátási területen, a 3. § (1) bekezdés b) pontja szerinti esetben pedig a 2013. április 28-án lekötött kapacitások mértékének és szakmai összetételének megfelelően teljesíti.
+a 3. § (1) bekezdés a) pontja szerinti esetben a kapacitás-nyilvántartásban meghatározott kapacitások mértékének és szakmai összetételének megfelelően a nyilvántartásban szereplő ellátási területen, a 3. § (1) bekezdés b) pontja szerinti esetben pedig a lekötött kapacitások mértékének és szakmai összetételének megfelelően teljesíti.
 
 (2) Ha az (1) bekezdés a) vagy c) pontja alá tartozó szerv az egészségügyi szakellátási intézményműködtetési kötelezettségét, illetve az egészségügyi szakellátási feladatát nem teljesíti, ideiglenesen az állam – a (3)–(10) bekezdésben és az e törvény végrehajtásáról szóló rendeletben foglaltak szerint – gondoskodik az egészségügyi szakellátási felelőssége alapján az adott szakellátási feladat ellátásáról.
 

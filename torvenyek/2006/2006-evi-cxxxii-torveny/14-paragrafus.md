@@ -16,21 +16,11 @@
 
 (8)
 
-(9) Az egyes egészségügyi tárgyú törvények módosításáról szóló 2012. évi CCXII. törvénnyel megállapított 3. § (1) bekezdés b) pontja alkalmazása során – a 2012. december 31-én lekötött kapacitásokon túl – kapacitásként figyelembe kell venni
-
-a) a többletkapacitás-befogadási eljárásban, illetve a már támogatott fejlesztéshez kapcsolódó, előzetes többletkapacitás-befogadási eljárásban 2012. december 31-éig befogadott kapacitást,
-
-b) az 5. §-ban és a 7. §-ban foglalt eljárások eredményeként 2012. december 31-éig megvalósult, illetve engedélyezett kapacitás csökkentések, átcsoportosítások miatti változásokat.
+(9)
 
 (10) Az egyes egészségügyi tárgyú törvények módosításáról szóló 2012. évi LXXIX. törvénnyel megállapított 2/B. § (1) bekezdését a hatálybalépését megelőzően megkötött szerződésekre nem kell alkalmazni.
 
-(11) Az egyes egészségügyi tárgyú törvények módosításáról szóló 2012. évi LXXIX. törvénnyel megállapított 3. § (1) bekezdés b) pontja alkalmazása során – a 2012. augusztus 31-én lekötött kapacitásokon túl – kapacitásként figyelembe kell venni
-
-a) a többletkapacitás-befogadási eljárásban, illetve a már támogatott fejlesztéshez kapcsolódó, előzetes többletkapacitás-befogadási eljárásban 2012. augusztus 31-éig befogadott kapacitást,
-
-b) az 5. §-ban és a 7. §-ban foglalt eljárások eredményeként 2012. augusztus 31-éig megvalósult, illetve engedélyezett kapacitás csökkentések, átcsoportosítások miatti változásokat.
-
-(12) Az egyes egészségügyi tárgyú törvények módosításáról szóló 2012. évi LXXIX. törvénnyel megállapított 11. § (3) bekezdése szerinti nyilvántartásban rögzített adatokat 2012. augusztus 21-én az egészségbiztosítási szerv átadja az egészségügyi államigazgatási szerv részére. A 11. § (3) bekezdése szerinti nyilvántartást 2012. augusztus 31-éig továbbra is az egészségbiztosítási szerv vezeti azzal, hogy a 2012. augusztus 21. és 2012. augusztus 31. közötti adatváltozásokról és új adatokról folyamatosan tájékoztatja az egészségügyi államigazgatási szervet. A 11. § (3) bekezdése szerinti nyilvántartást 2012. szeptember 1-jétől az egészségügyi államigazgatási szerv vezeti, az egészségbiztosítási szerv 2012. október 1-jén törli nyilvántartás részeként általa kezelt adatokat.
+(11)–(12)
 
 (13) Az egyes egészségügyi tárgyú törvények módosításáról szóló 2012. évi CCXII. törvénnyel megállapított 7. § (11) bekezdését az annak hatálybalépésekor folyamatban lévő ügyekre is alkalmazni kell.
 
@@ -57,3 +47,5 @@ e) a Ttv. 5/A. § (2) bekezdése szerinti tájékoztatásnak legkésőbb az áta
 f) a Ttv. 5. § (1) bekezdése szerinti kijelölt szervnek kell – a megszüntetésről szóló megegyezéssel egyidejűleg – megtennie a 2. § (8) bekezdése szerinti bejelentést.
 
 (18) A Módtv2. által megállapított (17) bekezdést az annak hatálybalépésekor már hatályos megállapodásoknak és szerződéseknek a Módtv2. hatálybalépését követő megszűnésére is alkalmazni kell függetlenül attól, hogy a felek a megállapodás vagy a szerződés megszüntetéséről a Módtv2. hatálybalépését megelőzően vagy azt követően egyeznek-e meg.
+
+(19) Az egyes egészségügyi és egészségbiztosítási tárgyú törvények módosításáról szóló 2013. évi CCXLIV. törvénnyel megállapított 3. § (5) bekezdése alkalmazásánál a 3. § (1) bekezdésében meghatározott országos kapacitásmennyiség 2014. január 1-jei állapotát kell figyelembe venni.
