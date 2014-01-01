@@ -1,6 +1,6 @@
 ## Nyilvánosságra hozatal
 
-25. §[^57] (1) A pénztár minden évben, legkésőbb a pénzügyi évet követő év június 30-áig köteles nyilvánosságra hozni:
+25. §[^58] (1) A pénztár minden évben, legkésőbb a pénzügyi évet követő év június 30-áig köteles nyilvánosságra hozni:
 
 a) a pénztár tárgyév eleji és végi taglétszámát,
 
@@ -28,4 +28,4 @@ f) a tárgyévre és a tárgyévet követő évre vonatkozó, a befektetési pol
 
 (8) Az egyes, egy évnél rövidebb részidőszakok (havi vagy negyedéves periódusok) hozamrátáit nem lehet sem évesíteni, sem nyilvánosságra hozni.
 
-[^57]: A 25. § a 335/2008. (XII. 30.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^58]: A 25. § a 335/2008. (XII. 30.) Korm. rendelet 13. §-ával megállapított szöveg.

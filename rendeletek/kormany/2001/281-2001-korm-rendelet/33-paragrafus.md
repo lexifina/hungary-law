@@ -2,12 +2,12 @@
 
 (2) A magánnyugdíjpénztári feladatokat is ellátó pénztár pénzügyi tervében elkülönítetten kell megjeleníteni az önkéntes, illetve a magánnyugdíjpénztári részre vonatkozó adatokat.
 
-(3)[^80] A pénztár éves tervét legalább negyedéves bontásban kell elkészíteni.
+(3)[^81] A pénztár éves tervét legalább negyedéves bontásban kell elkészíteni.
 
-(4)[^81] A pénztár hosszú távú tervét öt naptári évre, legalább éves bontásban kell elkészíteni.
+(4)[^82] A pénztár hosszú távú tervét öt naptári évre, legalább éves bontásban kell elkészíteni.
 
-(5)[^82]
+(5)[^83]
 
-[^80]: A 33. § (3) bekezdése a 302/2002. (XII. 27.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^81]: A 33. § (4) bekezdésének második mondatát a 302/2002. (XII. 27.) Korm. rendelet 12. § (2) bekezdésének b) pontja hatályon kívül helyezte.
-[^82]: A 33. § (5) bekezdését a 302/2002. (XII. 27.) Korm. rendelet 12. § (2) bekezdésének b) pontja hatályon kívül helyezte.
+[^81]: A 33. § (3) bekezdése a 302/2002. (XII. 27.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^82]: A 33. § (4) bekezdésének második mondatát a 302/2002. (XII. 27.) Korm. rendelet 12. § (2) bekezdésének b) pontja hatályon kívül helyezte.
+[^83]: A 33. § (5) bekezdését a 302/2002. (XII. 27.) Korm. rendelet 12. § (2) bekezdésének b) pontja hatályon kívül helyezte.
