@@ -1,1 +1,1 @@
-26. §
+26. § Hatályát veszti a 25. §.
