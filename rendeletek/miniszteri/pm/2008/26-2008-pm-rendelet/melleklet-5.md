@@ -4,7 +4,7 @@
 
 ## Az adatlap kötelező tartalmi elemei a következők:
 
-## 1. Az adatlapnak tartalmaznia kell annak megjelölését, hogy a kérelmező a 26/2008. (VIII. 30.) PM rendelet (a továbbiakban: Rendelet) alapján az adótanácsadói[^45], az adószakértői vagy az okleveles adószakértői tevékenység végzésére jogosító
+## 1. Az adatlapnak tartalmaznia kell annak megjelölését, hogy a kérelmező a 26/2008. (VIII. 30.) PM rendelet (a továbbiakban: Rendelet) alapján az adótanácsadói[^68], az adószakértői vagy az okleveles adószakértői tevékenység végzésére jogosító
 
 ## – engedély kiadását
 
@@ -24,9 +24,9 @@
 
 ## a) Név:
 
-## b) Születési név[^46]:
+## b) Születési név[^69]:
 
-## c) Korábbi regisztrációs szám[^47]:
+## c) Korábbi regisztrációs szám[^70]:
 
 ## d) Születési hely: ....................................... idő: ........ év ........... hó ..... nap
 
@@ -72,9 +72,9 @@
 
 ## – nincs tudomásom olyan tényről, körülményről, amely a Rendelet szerinti engedély kiadását és a nyilvántartásba történő felvételemet vagy az igazolvány pótlását, cseréjét kizárná.
 
-## b) Tudomásul veszem, hogy az a), c) és f) pontokban szereplő adatok külön rendelkezés nélkül, az Art. 175. § (19) bekezdése szerint nyilvánosak.
+## b) Tudomásul veszem, hogy az adatlap 2. pont a) és g) pontjaiban szereplő, valamint az adatlap 3. pont c) pontjában a kérelmező által megjelölt adatok külön rendelkezés nélkül, az Art. 175/E. § (3) bekezdése szerint nyilvánosak.
 
-## c) Hozzájárulok a kérelemben rögzített következő személyes adataim Rendelet szerinti nyilvánosságra hozatalához[^48]:
+## c) Hozzájárulok a kérelemben rögzített következő személyes adataim Rendelet szerinti nyilvánosságra hozatalához[^71]:
 
 ## születési név,
 
@@ -82,7 +82,7 @@
 
 ## anyja leánykori neve,
 
-## levelezési cím,
+## lakcím,
 
 ## telefonszám,
 
@@ -104,7 +104,7 @@
 
 ## – az engedély-kiadás alapjául szolgáló szakképesítést, végzettséget igazoló oklevél, okirat másolata,
 
-## – 1 darab 2,5 × 3,2 cm-es, 6 hónapnál nem régebbi igazolványkép,
+## – 1 darab 2,5 × 3,2 cm méretű, jó minőségű (fotópapíron vagy elektronikus úton, „JPEG” formátumban) benyújtott, 6 hónapnál nem régebbi igazolványkép,
 
 ## – az igazgatási szolgáltatási díj megfizetését igazoló dokumentum (a fizetési számlára történő készpénzbefizetés esetén a készpénzbefizetési megbízás igazoló szelvényrészének, vagy a fizetési számla megterhelését tartalmazó számlakivonatnak a másolata),
 
@@ -114,13 +114,13 @@
 
 ## b) igazolvány pótlása esetén
 
-## – 1 darab 2,5 × 3,2 cm-es, 6 hónapnál nem régebbi igazolványkép,
+## – 1 darab 2,5 × 3,2 cm méretű, jó minőségű (fotópapíron vagy elektronikus úton, „JPEG” formátumban) benyújtott, 6 hónapnál nem régebbi igazolványkép,
 
 ## – az igazgatási szolgáltatási díj megfizetését igazoló dokumentum (a fizetési számlára történő készpénzbefizetés esetén a készpénzbefizetési megbízás igazoló szelvényrészének, vagy a fizetési számla megterhelését tartalmazó számlakivonatnak a másolata),
 
 ## c) igazolvány a Rendelet 15. § (4) bekezdése szerinti cseréje esetén
 
-## – 1 darab 2,5 × 3,2 cm-es, 6 hónapnál nem régebbi igazolványkép,
+## – 1 darab 2,5 × 3,2 cm méretű, jó minőségű (fotópapíron vagy elektronikus úton, „JPEG” formátumban) benyújtott, 6 hónapnál nem régebbi igazolványkép,
 
 ## – az igazgatási szolgáltatási díj megfizetését igazoló dokumentum (a fizetési számlára történő készpénzbefizetés esetén a készpénzbefizetési megbízás igazoló szelvényrészének, vagy a fizetési számla megterhelését tartalmazó számlakivonatnak a másolata),
 
@@ -142,7 +142,7 @@
 
 ## – az igazolvány,
 
-## – 1 darab 2,5 × 3,2 cm-es, 6 hónapnál nem régebbi igazolványkép,
+## – 1 darab 2,5 × 3,2 cm méretű, jó minőségű (fotópapíron vagy elektronikus úton, „JPEG” formátumban) benyújtott, 6 hónapnál nem régebbi igazolványkép,
 
 ## – az igazgatási szolgáltatási díj megfizetését igazoló dokumentum (a fizetési számlára történő készpénzbefizetés esetén a készpénzbefizetési megbízás igazoló szelvényrészének, vagy a fizetési számla megterhelését tartalmazó számlakivonatnak a másolata),
 
@@ -150,56 +150,10 @@
 
 ## – a szakmai továbbképzésen való részvételt, illetve a teljesített kreditpontokat tanúsító igazolások.
 
-5. számú melléklet a 26/2008. (VIII. 30.) PM rendelethez[^49]
+5. számú melléklet a 26/2008. (VIII. 30.) PM rendelethez[^72]
 
-a) oldal
-
-| PÉNZÜGYMINISZTÉRIUM |
-
-| Nyilvántartási szám: |
-
-| ADÓSZAKÉRTŐI IGAZOLVÁNY |
-
-| Személyi azonosító adatok |
-
-| Név: |
-
-| Születési hely, idő: |
-
-| Anyja neve: |
-
-| Igazolványszám: |
-
-b) oldal
-
-| PÉNZÜGYMINISZTÉRIUM |
-
-|  |  |  | A pénzügyminiszter -t |
-
-|  |  |  | a 26/2008. (VIII. 30.) PM rendelet alapján adószakértői tevékenység végzése céljából |
-
-|  |  |  | ........................................................................... |
-
-|  |  |  | számon nyilvántartásba vette, aki így |
-
-|  |  |  | adószakértői tevékenység folytatására jogosult. |
-
-|  | Fénykép helye |  | Az igazolvány érvényes: |
-
-|  |  |  | ................................................. -től |
-
-|  |  |  | .................................................-ig |
-
-|  |  |  | Budapest, .................................................. |
-
-|  |  |  | P. H. |
-
-|  |  |  | ........................................................ |
-
-|  |  |  | aláírás |
-
-[^45]: Minden engedély vonatkozásában külön-külön kérelmet kell benyújtani.
-[^46]: Igazolvány pótlásakor, cseréjekor, valamint adatváltozás és a továbbképzési kötelezettség teljesítésének bejelentésekor az a) és c) pontban foglalt adatok megadásán túl a többi adatmező kitöltése akkor szükséges, ha az ott felsorolt adatok az igazolvány-kiadási eljárás során bejelentettekhez képest megváltoztak, bővültek.
-[^47]: A c) ponthoz tartozó adatot akkor kell megadni, ha az adott nyilvántartásban volt már regisztrációs száma a kérelmezőnek.
-[^48]: Hozzájárulás esetén a megfelelő személyes adat külön-külön egyértelműen megjelölendő.
-[^49]: Az 5. számú mellékletet a 17/2009. (IX. 29.) PM rendelet 82. §-a iktatta be. E módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.
+[^68]: Minden engedély vonatkozásában külön-külön kérelmet kell benyújtani.
+[^69]: Igazolvány pótlásakor, cseréjekor, valamint adatváltozás és a továbbképzési kötelezettség teljesítésének bejelentésekor az a) és c) pontban foglalt adatok megadásán túl a többi adatmező kitöltése akkor szükséges, ha az ott felsorolt adatok az igazolvány-kiadási eljárás során bejelentettekhez képest megváltoztak, bővültek.
+[^70]: A c) ponthoz tartozó adatot akkor kell megadni, ha az adott nyilvántartásban volt már regisztrációs száma a kérelmezőnek.
+[^71]: Hozzájárulás esetén a megfelelő személyes adat külön-külön egyértelműen megjelölendő.
+[^72]: Az 5. számú mellékletet a 17/2009. (IX. 29.) PM rendelet 82. §-a iktatta be, hatályon kívül helyezte a 70/2013. (XII. 30.) NGM rendelet 9. § 2. pontja.

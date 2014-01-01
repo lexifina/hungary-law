@@ -1,6 +1,6 @@
 ## 1. §[^1]
 
-2. § (1)[^2] Ha a kérelmező az engedélykiadás e rendelet szerinti feltételeinek megfelel, a pénzügyminiszter a kérelmező részére az engedélyt, valamint adótanácsadók esetében az 1. számú melléklet szerinti, adószakértők esetében a 2. számú melléklet szerinti, okleveles adószakértők esetében pedig a 3. számú melléklet szerinti igazolványt kiadja, és az Art. 175. § (16) bekezdése szerinti adótanácsadói, adószakértői, illetve okleveles adószakértői nyilvántartásba felveszi.
+2. § (1)[^2] Ha a kérelmező az engedélykiadás e rendelet szerinti feltételeinek megfelel, az adópolitikáért felelős miniszter (a továbbiakban: nyilvántartásba vételt végző szervezet) a kérelmező részére az engedélyt, valamint adótanácsadók esetében az 1. számú melléklet szerinti, adószakértők esetében a 2. számú melléklet szerinti, okleveles adószakértők esetében pedig a 3. számú melléklet szerinti igazolványt kiadja, és a kérelmezőt az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) 175/E. § (1) bekezdése szerinti adótanácsadói, adószakértői, illetve okleveles adószakértői nyilvántartásba felveszi.
 
 (2)[^3]
 
@@ -15,7 +15,7 @@ b) nem szakirányú egyetemi avagy főiskolai végzettséggel, illetve nem szaki
 (5)[^6] Okleveles adószakértők esetében az engedély kiadása, illetve a nyilvántartásba történő felvétel Art.-ben rögzítetten túli további feltétele, hogy a kérelmező rendelkezzen okleveles adószakértő szakképesítéssel.
 
 [^1]: Az 1. §-t a 17/2009. (IX. 29.) PM rendelet 84. §-a hatályon kívül helyezte. E módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.
-[^2]: A 2. § (1) bekezdése a 17/2009. (IX. 29.) PM rendelet 75. §-ával megállapított szöveg. E módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.
+[^2]: A 2. § (1) bekezdése a 70/2013. (XII. 30.) NGM rendelet 1. §-ával megállapított szöveg.
 [^3]: A 2. § (2) bekezdését a 17/2009. (IX. 29.) PM rendelet 84. §-a hatályon kívül helyezte. E módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.
 [^4]: A 2. § (3) bekezdése a 17/2009. (IX. 29.) PM rendelet 83. §-a szerint módosított szöveg. E módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.
 [^5]: A 2. § (4) bekezdése a 17/2009. (IX. 29.) PM rendelet 83. §-a szerint módosított szöveg. E módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.
