@@ -18,8 +18,11 @@ legfeljebb 4 hónap időtartamra szóló, határozott idejű közfoglalkoztatás
 
 (6) A támogatás az egyszerűsített foglalkoztatáshoz kapcsolódó közteherkedvezménnyel egyidejűleg nem vehető igénybe.
 
+(7)[^8] A támogatási időszak az egyes közfoglalkoztatási programok tekintetében legfeljebb egy naptári évre esően 4 hónap lehet.
+
 [^3]: A 3. §-t megelőző alcím a 171/2011. (VIII. 24.) Korm. rendelet 15. §-ával megállapított szöveg.
 [^4]: A 3. § a 171/2011. (VIII. 24.) Korm. rendelet 15. §-ával megállapított szöveg.
 [^5]: A 3. § (1) bekezdése a 136/2012. (VI. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^6]: A 3. § (2) bekezdése a 421/2012. (XII. 29.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^7]: A 3. § (4) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 81. §-a szerint módosított szöveg.
+[^8]: A 3. § (7) bekezdését a 382/2013. (XI. 4.) Korm. rendelet 1. §-a iktatta be.
