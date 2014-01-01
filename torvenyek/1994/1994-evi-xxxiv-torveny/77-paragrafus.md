@@ -10,6 +10,8 @@ c) az általa lefolytatott közigazgatási eljárásban részt vevők személyes
 
 d) a segélyhívások fogadása keretében megismert személyes adatokat,
 
+e) a körözési eljárás lefolytatásához szükséges adatokat
+
 kezeli.
 
 (2) A rendőrségi adatok kezelésének célja a bűnüldözés, a bűnmegelőzés, valamint a közrend, a közbiztonság és az államhatár rendjének, az érintett és mások jogainak, biztonságának és tulajdonának védelme.

@@ -4,7 +4,7 @@
 
 a) beutazási és tartózkodási tilalom hatálya alatt állók nyilvántartása,
 
-b) körözési információs rendszer,
+b) körözési nyilvántartási rendszer,
 
 c) kényszerintézkedés hatálya alatt állók nyilvántartása,
 

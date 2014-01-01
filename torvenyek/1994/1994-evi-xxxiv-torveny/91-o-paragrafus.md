@@ -4,7 +4,7 @@ a) a beutazási és tartózkodási tilalom hatálya alatt állók nyilvántartá
 
 b) a vízumnyilvántartás,
 
-c) a körözési információs rendszer, valamint
+c) a körözési nyilvántartási rendszer, valamint
 
 d) a Schengeni Információs Rendszer.
 

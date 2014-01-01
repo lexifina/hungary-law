@@ -18,7 +18,7 @@ h) a különleges eszközök és módszerek engedélyezésével, igénybevétel�
 
 i) az állam működése, illetőleg a lakosság ellátása szempontjából kiemelten fontos létesítmények körét,
 
-j) az eltűnt személyek felkutatásának, illetőleg a rendkívüli halálesetek kivizsgálásának rendjét,
+j)
 
 k) a rendőrség feladatai ellátásának rendjét a fontosabb közúti, vasút, vízi- és légiszállításokkal kapcsolatban, valamint a rendőrség légi közlekedésrendészeti és repülésbiztonsági, repülésvédelmi feladatait,
 

@@ -14,7 +14,7 @@ e) végrehajtási eljárás lefolytatása, illetve az építmények tervezésév
 
 f) az elővezetés végrehajtása érdekében;
 
-g)
+g) a büntetőeljárásról szóló törvényben meghatározott, a terhelt mozgását nyomon követő technikai eszköz telepítése, ellenőrzése, karbantartása, valamint eltávolítása céljából.
 
 h) a szabálysértést felszólítás ellenére folytató személy előállítása céljából;
 

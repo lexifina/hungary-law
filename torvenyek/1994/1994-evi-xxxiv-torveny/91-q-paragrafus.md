@@ -8,7 +8,7 @@ b) a pártfogó felügyelet alatt állók és a bíróság által kitiltottak ad
 
 c) külön jogszabályban meghatározottak szerint a rendőrség által kiadott engedély alapján, illetve a rendőrség hatósági ellenőrzési jogkörébe tartozó tevékenységet folytató személyek azonosításához szükséges, továbbá az engedély tárgyával, illetve az ellenőrizendő tevékenységgel összefüggő adatokat az engedély időtartamának lejártától, illetve visszavonásától számított tíz évig, illetőleg a külön jogszabályban meghatározott ideig,
 
-d) az ismeretlen holttestek és a rendkívüli halálesetek jellemzőit a holttest azonosításáig, illetve a holttest megtalálásától vagy a haláleset bekövetkezésétől számított húsz évig,
+d) a rendkívüli halálesetek jellemzőit a holttest azonosításáig, illetve a holttest megtalálásától vagy a haláleset bekövetkezésétől számított húsz évig,
 
 e) a szakhatósági és engedélyezési nyilvántartási rendszerben a kiadott engedély és szakhatósági hozzájárulás alapján az engedéllyel és szakhatósági hozzájárulással érintett személy személyazonosító és lakcímadatát, értesítési címét, továbbá az engedély tárgyával, illetve a szakhatósági hozzájárulással folytatott tevékenységgel összefüggő adatokat az engedély időtartamának lejártától, illetve a visszavonástól számított két évig,
 
