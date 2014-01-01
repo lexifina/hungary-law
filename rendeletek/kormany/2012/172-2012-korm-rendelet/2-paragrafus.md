@@ -1,3 +1,5 @@
 2. § (1) A rendelet III. fejezetének hatálya – a (2) bekezdésben foglaltak kivételével – a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény szerinti politikai vezetőkre, valamint a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény (a továbbiakban: Kttv.) 1. § a)–d) pontjában meghatározott szerveknél foglalkoztatott szakmai vezetőkre, kormánytisztviselőkre és kormányzati ügykezelőkre (a továbbiakban együtt: kormányzati szolgálati jogviszonyban állókra) terjed ki.
 
-(2) Nem tartoznak a rendelet III. fejezetének hatálya alá az autonóm államigazgatási szerveknél foglalkoztatottak, valamint a Nemzeti Adó- és Vámhivatal hivatásos állományú tagjai.
+(2)[^2] Nem tartoznak a rendelet III. fejezetének hatálya alá az autonóm államigazgatási szerveknél foglalkoztatottak.
+
+[^2]: A 2. § (2) bekezdése a 479/2013. (XII. 17.) Korm. rendelet 22. §-a szerint módosított szöveg.

@@ -2,7 +2,7 @@
 
 17. § (1) Tartós külszolgálatot az a személy láthat el, aki az alábbi feltételeknek megfelel:
 
-a)[^2] magyar állampolgár, lakóhelye Magyarországon van, büntetlen előéletű és cselekvőképes;
+a)[^3] magyar állampolgár, lakóhelye Magyarországon van, büntetlen előéletű és cselekvőképes;
 
 b) a munkakörhöz jogszabályban, illetve az e rendelet 3. mellékletében, továbbá a kihelyező szerv szabályzatában előírt iskolai végzettséggel, valamint szakképesítéssel rendelkezik;
 
@@ -14,9 +14,9 @@ e) a kihelyező szerv szabályzatában előírt szakmai vizsgakövetelményeknek
 
 f) a munkaköréhez előírt típusú nemzetbiztonsági ellenőrzését elvégezték, illetve annak elvégzéséhez írásban hozzájárult;
 
-g)[^3] nem állampolgára a fogadó államnak.
+g)[^4] nem állampolgára a fogadó államnak.
 
-(2)[^4] Az (1) bekezdésben meghatározott feltételek alól – a (7) bekezdésben foglalt kivétellel – felmentés nem adható. Az (1) bekezdés d) pontjában foglaltak teljesítésére a külpolitikáért felelős miniszter legfeljebb egy év halasztást engedélyezhet.
+(2)[^5] Az (1) bekezdésben meghatározott feltételek alól – a (7) bekezdésben foglalt kivétellel – felmentés nem adható. Az (1) bekezdés d) pontjában foglaltak teljesítésére a külpolitikáért felelős miniszter legfeljebb egy év halasztást engedélyezhet.
 
 (3) A kihelyező szerv a kihelyezéshez előzetesen további szakmai és az adott állomáshely viszonyainak megfelelő és a munkakörhöz szükséges egyéb feltételeket írhat elő.
 
@@ -26,9 +26,9 @@ g)[^3] nem állampolgára a fogadó államnak.
 
 (6) A munkáltatói jogkör gyakorlója – szakdiplomaták esetében a szakminiszter egyetértésével – a külszolgálat megállapított időtartamát szolgálati érdekből, továbbá különös méltányolást érdemlő ok miatt, a kihelyezett egyetértésével, legfeljebb egy évvel meghosszabbíthatja.
 
-(7)[^5] Az (1) bekezdés g) pontjában foglalt feltétel alól indokolt esetben, a munkáltatói jogkör gyakorlójának javaslatára, – a nemzetbiztonsági szolgálatok irányításáért felelős miniszter véleményének figyelembevételével – a külpolitikáért felelős miniszter felmentést adhat.
+(7)[^6] Az (1) bekezdés g) pontjában foglalt feltétel alól indokolt esetben, a munkáltatói jogkör gyakorlójának javaslatára, – a nemzetbiztonsági szolgálatok irányításáért felelős miniszter véleményének figyelembevételével – a külpolitikáért felelős miniszter felmentést adhat.
 
-[^2]: A 17. § (1) bekezdés a) pontja a 459/2013. (XII. 4.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^3]: A 17. § (1) bekezdés g) pontját a 459/2013. (XII. 4.) Korm. rendelet 3. §-a iktatta be.
-[^4]: A 17. § (2) bekezdése a 459/2013. (XII. 4.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^5]: A 17. § (7) bekezdését a 459/2013. (XII. 4.) Korm. rendelet 5. §-a iktatta be.
+[^3]: A 17. § (1) bekezdés a) pontja a 459/2013. (XII. 4.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^4]: A 17. § (1) bekezdés g) pontját a 459/2013. (XII. 4.) Korm. rendelet 3. §-a iktatta be.
+[^5]: A 17. § (2) bekezdése a 459/2013. (XII. 4.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^6]: A 17. § (7) bekezdését a 459/2013. (XII. 4.) Korm. rendelet 5. §-a iktatta be.
