@@ -1,4 +1,4 @@
-15. §[^31]
+15. §[^37]
 
 Melléklet a 120/1999. (VIII. 6.) Korm. rendelethez
 
@@ -116,4 +116,4 @@ VI. Műszaki tervezés
 
 Fenntartási munkák műszaki terveinek elkészítése, ezekhez állapotfelvételek, térképek készítése.
 
-[^31]: A 15. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 1227. pontja hatályon kívül helyezte.
+[^37]: A 15. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 1227. pontja hatályon kívül helyezte.
