@@ -1,5 +1,11 @@
 ## Egyéni továbbképzési terv
 
-19. §[^23]
+19. § (1) Az egyéni továbbképzési tervek elkészítéséről a munkáltatói jogkör gyakorlója gondoskodik az éves teljesítményértékelés során. Az egyéni továbbképzési terv elkészítéshez szükséges útmutatót a személyügyi központ adja ki és teszi közzé.
 
-[^23]: A 19. § a 25. § (3) bekezdése alapján 2014. január 1-jén lép hatályba.
+(2) Az egyéni továbbképzési tervben a közigazgatási szerv köteles szerepeltetni mindazon továbbképzéseket, amelyek
+
+a) az adott munkakört betöltő kormánytisztviselő, köztisztviselő munkaköréhez és fejlesztéséhez szükséges
+
+b) a Kormány, vagy az ágazati miniszter által kormányzati érdekből elrendel,
+
+c) a kormányzati, vagy ágazati stratégiák végrehajtásához szükséges.

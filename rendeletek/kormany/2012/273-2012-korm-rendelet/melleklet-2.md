@@ -1,3 +1,3 @@
-2. melléklet a 273/2012. (IX. 28.) Korm. rendelethez[^39]
+2. melléklet a 273/2012. (IX. 28.) Korm. rendelethez[^31]
 
-[^39]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^31]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
