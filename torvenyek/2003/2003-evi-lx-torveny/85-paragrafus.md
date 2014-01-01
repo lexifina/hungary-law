@@ -2,15 +2,13 @@
 
 85. § (1) A biztosító a biztosítási tevékenység folytatásához a (6) bekezdésben foglalt kivétellel
 
-a) vezető biztosításmatematikust (aktuáriust),
+a) vezető aktuáriust;
 
-b) vezető jogtanácsost,
+b) vezető jogtanácsost;
 
-c) számviteli rendért felelős vezetőt,
+c) számviteli rendért felelős vezetőt; és
 
-d) belső ellenőrzési vezetőt (belső ellenőrt),
-
-e) ha az 1. számú mellékletben meghatározott nem-életbiztosítási ág A) részének 1. és 2. számú ágazatába, valamint 18. számú ágazatába tartozó fedezet betegséggel és balesettel összefüggő szolgáltatást is tartalmaz, vagy a 2. számú mellékletben meghatározott életbiztosítási ágba tartozó tevékenységet folytat, vezető orvost (a továbbiakban: egyéb vezetők)
+d) belső ellenőrzési vezetőt (belső ellenőrt) (a továbbiakban együtt: egyéb vezető)
 
 köteles foglalkoztatni.
 
@@ -24,9 +22,9 @@ köteles foglalkoztatni.
 
 (5) A törvény 126. § (4) bekezdésének b) pontjában foglalt feltételeknek eleget tevő biztosító egyesület legalább ügyvezetőt köteles foglalkoztatni.
 
-(6) A 300 millió forint éves díjbevételt el nem érő biztosító egyesület az (1) bekezdés a)–c) pontjaiban meghatározott egyéb vezetőket megbízási jogviszony keretében is foglalkoztathatja, vagy e tevékenység ellátásával más – az adott tevékenység ellátására a 86. § (1) bekezdésének a)–d) pontjaiban, a 87. § (1) bekezdésének a)–e) pontjaiban és a 88. § (1) bekezdésének a)–e) pontjaiban előírtaknak megfelelő személlyel rendelkező – szervezetet is megbízhat, belső ellenőrt pedig nem köteles alkalmazni. Ezen egyesület esetében az (1) bekezdés a)–c) pontjaiban meghatározott egyéb vezetőként a Felügyelet az egyesület viszontbiztosítását ellátó biztosító egyéb vezetőinek igénybevételét is elfogadhatja.
+(6) A 300 millió forint éves díjbevételt el nem érő biztosító egyesület az (1) bekezdés a)–c) pontjában meghatározott egyéb vezetőket megbízási jogviszony keretében is foglalkoztathatja, vagy e tevékenység ellátásával más – az adott tevékenység ellátására a 86. § (1) bekezdés a)–d) pontjában, a 87. § (1) bekezdés a)–d) pontjában és a 88. § (1) bekezdés a)–e) pontjában előírtaknak megfelelő személlyel rendelkező – szervezetet is megbízhat, belső ellenőrt pedig nem köteles alkalmazni. Ezen egyesület esetében az (1) bekezdés a)–c) pontjában meghatározott egyéb vezetőként a Felügyelet az egyesület viszontbiztosítását ellátó biztosító egyéb vezetőinek igénybevételét is elfogadhatja.
 
-(7) A 86. § (1) bekezdésének b) pontjában, a 87. § (1) bekezdésének c) pontjában, a 88. § (1) bekezdésének c) pontjában és a 89. § (2) bekezdésének b) pontjában előírt szakmai gyakorlat befejezése nem eshet az egyéb vezető kinevezését, illetve alkalmazását 10 évvel megelőző időpontnál korábbi időpontra.
+(7) A 86. § (1) bekezdés a) pont ab) alpontjában és b) pontjában, a 87. § (1) bekezdés c) pontjában, a 88. § (1) bekezdés c) pontjában és a 89. § (2) bekezdés b) pontjában előírt szakmai gyakorlat befejezése nem eshet az egyéb vezető kinevezését, illetve alkalmazását 10 évvel megelőző időpontnál korábbi időpontra.
 
 (8) A Felügyelet indokolt esetben, a kötelezettségszegés súlyának figyelembevételével kezdeményezheti az egyéb vezetők felmentését.
 

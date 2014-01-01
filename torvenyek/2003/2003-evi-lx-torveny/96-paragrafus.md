@@ -30,7 +30,9 @@ k) a személyes adatok kezelésére vonatkozó elvi és gyakorlati tudnivalókat
 
 l) a biztosító, illetve fióktelep címét,
 
-m) a biztosítottnak járó többlethozam jóváírásának rendjét.
+m) a biztosítottnak járó többlethozam jóváírásának rendjét,
+
+n) befektetési egységhez kötött életbiztosítás esetén a 132/A. §-ban foglaltakkal összhangban meghatározott, az eszközalap felfüggesztéssel és szétválasztással kapcsolatos részletes szabályokat.
 
 (2) Az életbiztosítási szerződést önálló foglalkozása vagy üzleti tevékenysége körén kívül megkötő természetes személy szerződő a 167. §-ban meghatározott tájékoztatás kézhezvételétől számított 30 napon belül az életbiztosítási szerződést írásbeli nyilatkozattal – indoklás nélkül – felmondhatja.
 
@@ -46,4 +48,4 @@ m) a biztosítottnak járó többlethozam jóváírásának rendjét.
 
 (8) A biztosító a biztosítási szerződési feltételekben köteles meghatározni, hogy a káresemény bekövetkezése esetén milyen károkat és költségeket milyen okiratok – ideértve a (6) bekezdés szerinti számlát is – bemutatása ellenében térít. A biztosító a szolgáltatása teljesítésének esedékességét csak olyan okirat bemutatásától teheti függővé, amely a biztosítási esemény bekövetkezésének igazolásához, illetve a teljesítendő szolgáltatás mértékének meghatározásához szükséges, a biztosítási szolgáltatás teljesítésének esedékességét a bejelentett káresemény tekintetében indult büntető- vagy szabálysértési eljárás jogerős befejezéséhez nem kötheti.
 
-(9) Ha a károsult vagyontárgy a Gfbt. kártérítési kötelezettsége alá tartozó gépjármű, a Gfbt. 32/A. és 32/B. §-ában foglaltakat kell alkalmazni azzal, hogy a biztosító által nyújtható szolgáltatási előlegként az előzetesen kalkulált vagy a térítendő nettó kártérítési összeg legfeljebb 60%-os mértékét kell meghatározni.
+(9)

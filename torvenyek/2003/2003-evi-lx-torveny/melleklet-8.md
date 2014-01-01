@@ -40,9 +40,9 @@ E1 = (a1 ⋅ 0,18 + a2 ⋅ 0,16) ⋅ c,
 
 ahol a jelölések értelme a következő:
 
-7. a1 a 9. pont szerinti a-val jelölt összeg 57 500 000 eurót meg nem haladó része;
+7. a1 a 9. pont szerinti a-val jelölt összeg 61 300 000 eurót meg nem haladó része;
 
-8. a2 a 9. pont szerinti a-val jelölt összeg 57 500 000 eurót meghaladó része;
+8. a2 a 9. pont szerinti a-val jelölt összeg 61 300 000 eurót meghaladó része;
 
 9. a az aggregált helyesbített tárgyévi bruttó díjelőírás és az aggregált helyesbített tárgyévi bruttó megszolgált díj közül a nagyobbik, azaz
 
@@ -160,9 +160,9 @@ E2 = (b1 ⋅ 0,26 + b2 ⋅ 0,23) ⋅ c,
 
 ahol a jelölések értelme a következő:
 
-28. b1 a 30. pont szerinti b-vel jelölt összeg 40 300 000 eurót meg nem haladó része;
+28. b1 a 30. pont szerinti b-vel jelölt összeg 42 900 000 eurót meg nem haladó része;
 
-29. b2 a 30. pont szerinti b-vel jelölt összeg 40 300 000 eurót meghaladó része;
+29. b2 a 30. pont szerinti b-vel jelölt összeg 42 900 000 eurót meghaladó része;
 
 30. b az átlagolási időszak átlagos bruttó kárfelhasználása, azaz
 
@@ -448,9 +448,9 @@ E1 = (a1 ⋅ 0,18 + a2 ⋅ 0,16) ⋅ c,
 
 ahol a jelölések értelme a következő:
 
-7. a1 a 9. pont szerinti a-val jelölt összeg 57 500 000 eurót meg nem haladó része;
+7. a1 a 9. pont szerinti a-val jelölt összeg 61 300 000 eurót meg nem haladó része;
 
-8. a2 a 9. pont szerinti a-val jelölt összeg 57 500 000 eurót meghaladó része;
+8. a2 a 9. pont szerinti a-val jelölt összeg 61 300 000 eurót meghaladó része;
 
 9. a az utolsó négy negyedév aggregált helyesbített bruttó díjelőírása és az utolsó négy negyedév aggregált helyesbített bruttó megszolgált díja közül a nagyobbik, azaz
 
@@ -524,9 +524,9 @@ E2 = (b1 ⋅ 0,26 + b2 ⋅ 0,23) ⋅ c,
 
 ahol a jelölések értelme a következő:
 
-20. b1 a 22. pont szerinti b-vel jelölt összeg 40 300 000 eurót meg nem haladó része;
+20. b1 a 22. pont szerinti b-vel jelölt összeg 42 900 000 eurót meg nem haladó része;
 
-21. b2 a 22. pont szerinti b-vel jelölt összeg 40 300 000 eurót meghaladó része;
+21. b2 a 22. pont szerinti b-vel jelölt összeg 42 900 000 eurót meghaladó része;
 
 22. b az átlagolási időszak átlagos bruttó kárfelhasználása, azaz
 

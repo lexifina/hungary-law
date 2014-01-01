@@ -1,0 +1,1 @@
+77/B. § A Felügyelet vagy az erre általa felhatalmazott személy jogosult a biztosító által kiszervezett tevékenységet másik tagállamban végzőt az illetékes hatóság előzetes értesítését követően, az illetékes hatóság közreműködésével ellenőrizni.

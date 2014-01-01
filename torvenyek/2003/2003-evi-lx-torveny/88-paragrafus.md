@@ -6,7 +6,7 @@ a) szakirányú egyetemi vagy főiskolai végzettséggel,
 
 b) mérlegképes könyvelői szakképesítéssel,
 
-c) legalább 5 éves, biztosítónál, az államigazgatás pénzügyi, illetve gazdasági területén, a biztosítók, biztosításközvetítők, szaktanácsadók szakmai érdekvédelmi szervénél, biztosításközvetítői tevékenységet folytató gazdálkodó szervezetnél szerzett számviteli gyakorlattal vagy biztosítási szaktanácsadói szakmai gyakorlattal rendelkezik,
+c) legalább 5 éves, biztosítónál vagy viszontbiztosítónál, pénzügyi felügyeletet ellátó szervezetnél, az államigazgatás pénzügyi, illetve gazdasági területén, a biztosítók, biztosításközvetítők, szaktanácsadók szakmai érdekvédelmi szervénél, biztosításközvetítői tevékenységet folytató gazdálkodó szervezetnél szerzett számviteli gyakorlattal vagy biztosítási szaktanácsadói szakmai gyakorlattal rendelkezik,
 
 d) büntetlen előéletű,
 

@@ -10,7 +10,7 @@ A) A biztosítási szerződésre vonatkozó írásos tájékoztatásnak legaláb
 
 3. a biztosítási eseményt;
 
-4. a díjfizetés, díjmódosítás módját, idejét, lehetőségét az alapbiztosításra és a kiegészítő kockázatokra;
+4. a díjfizetés, díjmódosítás módját, idejét, lehetőségét az alapbiztosításra és a kiegészítő kockázatokra, továbbá arra vonatkozó tájékoztatást, hogy a biztosításközvetítő jogosult-e, és ha igen, akkor milyen korlátozásokkal az ügyféltől biztosítási díjat átvenni, továbbá jogosult-e a biztosítótól az ügyfélnek járó összeg kifizetésében közreműködni;
 
 5. a biztosító szolgáltatásait, azok teljesítésének módját, idejét és a választható lehetőségeket;
 
@@ -28,7 +28,7 @@ A) A biztosítási szerződésre vonatkozó írásos tájékoztatásnak legaláb
 
 12. harmadik országbeli biztosító fióktelepével kötött szerződés esetén e mellékletben foglaltakon túlmenően azt, hogy jogvita esetén mely ország bírósága jár el, milyen anyagi és eljárási jogszabályok alkalmazásával, továbbá az eljárás nyelvének meghatározását;
 
-13. azon szervezetek felsorolását, amelyeknek a biztosító az ügyfelek adatait – a Bit. 153–161. §-aiban és 165. §-ában foglaltak alapján – továbbíthatja;
+13. azon szervezetek felsorolását, amelyeknek a biztosító az ügyfelek adatait, a Bit. 153–161/C. §-ában és 165. §-ában foglaltak alapján továbbíthatja;
 
 14. a szerződés jogának, illetve az alkalmazandó jognak a megjelölését;
 
@@ -41,6 +41,8 @@ A) A biztosítási szerződésre vonatkozó írásos tájékoztatásnak legaláb
 18. életbiztosítási szerződés esetén mekkora és milyen jogcímen merül fel az a költség, amit a biztosító a szerződő által befizetett első vagy egyszeri díjból a szerződés 30 napon belüli felmondása esetén visszatart;
 
 19. életbiztosítási szerződés esetén a biztosító vállal-e tőke-, illetve hozamgaranciát.
+
+20. befektetési egységhez kötött életbiztosítás esetén a 132/A. §-ban meghatározott eszközalap felfüggesztéssel és szétválasztással kapcsolatos részletes szabályokat.
 
 B) Az életbiztosítási termékismertető minimális tartalma:
 

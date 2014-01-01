@@ -8,7 +8,7 @@ a) anyavállalat: minden olyan vállalkozás, amely egy másik vállalkozás mű
 
 b) leányvállalat: minden olyan vállalkozás, amelynek működésére egy másik vállalkozás ellenőrző befolyást gyakorol. A leányvállalat valamennyi leányvállalatát az anyavállalat leányvállalatának kell tekinteni,
 
-c) ellenőrző befolyás: a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvényben (a továbbiakban: Hpt.) meghatározott fogalom;
+c) ellenőrző befolyás: a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvényben (a továbbiakban: Hpt.) meghatározott fogalom;
 
 2. alárendelt kölcsöntőke: minden, ténylegesen a biztosító rendelkezésére bocsátott kölcsön, ha a kölcsönszerződés tartalmazza, hogy a kölcsön a biztosító adósságának rendezésébe bevonható; a kölcsönt nyújtó követelése a törlesztések sorrendjében a tulajdonosok előtti legutolsó helyen áll és a kölcsön eredeti futamideje az 5 évet meghaladja.
 
@@ -76,7 +76,7 @@ A minősített befolyás nagyságának megállapításakor a közvetlen és a k�
 
 28. jegyzett tőke, saját tőke: a számvitelről szóló 2000. évi C. törvényben (a továbbiakban: Szmt.) foglalt meghatározások szerinti fogalmak;
 
-29. jelzáloghitel: a biztosító részvénytársaság által életbiztosítási ügyfeleinek közokiratban foglalt szerződés alapján nyújtott olyan pénzkölcsön, amelynek fedezete – az adott ügyfél által megkötött, életbiztosítási szerződés alapján teljesítendő biztosítási összeg mellett – Magyarország területén lévő ingatlanon (a termőföldet kivéve) alapított jelzálogjog;
+29.
 
 30. kapcsolt vállalkozás: a leányvállalat vagy az a vállalkozás, amelyben egy másik vállalkozás (részesedő vállalkozás) részesedési viszonnyal rendelkezik;
 
@@ -160,7 +160,7 @@ bd) minden egyéb olyan esetben, amely nem tartozik kifejezetten az előző ba),
 
 62. ügyfél érdekének védelme: a biztosítási szolgáltatások anyagi biztonságának védelme, valamint a biztosítottak jogi biztonságának megóvása;
 
-63. ügymenet kiszervezése: a biztosító biztosítási tevékenysége valamely részének végzésére mást bíz meg;
+63. ügymenet kiszervezése: a biztosító a biztosítási vagy azzal közvetlenül összefüggő tevékenysége valamely részének végzésére mást bíz meg;
 
 64. ügyvezető: a biztosító vezetésére kinevezett, a biztosítóval munkaviszonyban álló első számú vezető és helyettesei. A biztosító első számú vezetője a biztosító munkaszervezetének irányítója;
 
@@ -170,9 +170,7 @@ bd) minden egyéb olyan esetben, amely nem tartozik kifejezetten az előző ba),
 
 67. vagyoni biztosíték: hitelintézetnél lekötött és elkülönítetten kezelt pénzösszeg (pénzbeli letét, illetve az állam vagy hitelintézet által kibocsátott vagy garantált, a letétbe helyezéstől számított 180 napnál hosszabb hátralévő futamidejű, azonnal beváltható vagy értékesíthető, hitelviszonyt megtestesítő értékpapír) vagy bankgarancia;
 
-68. vagyoni eszközök elhelyezése: ingó vagy ingatlan vagyoni eszközök megléte a tagállamon belül, de ez nem jelenti egyben azt a kötelezettséget is, hogy az ingóság letétként, vagy az ingatlan – így különösen zálogjog bejegyzése útján – korlátozás alá essék. Egy adóssal szemben fennálló követelésben megjelenő vagyon azon tagállam területén lévőnek tekintendő, ahol a követelés érvényesíthető;
-
-69. vállalkozás: az üzletszerű gazdasági tevékenységet folytató gazdálkodó szervezet és a harmadik országbeli biztosító fióktelepe;
+68–69.
 
 70. versengő termékek: azok a biztosítási termékek – ide nem értve azon biztosítók termékeit, amelyeknek a tulajdonosa azonos vagy az egyik biztosító a másik biztosító tulajdonosa, vagy azonos tulajdonosi csoportba tartoznak –, amelyek a felhasználási célra, a fedezett kockázatok körére és az ehhez kapcsolódó biztosítási szolgáltatásokra tekintettel alkalmasak az ügyfél számára helyettesíteni egymást és az 1. és 2. számú mellékletek szerint azonos ágazatba, illetve azonos ágazat azonos alágazatába tartoznak. Azonos ágazatba, illetve azonos alágazatba tartozó terméknek minősülnek:
 
@@ -238,6 +236,24 @@ b) a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiak
 
 tekintetében kell – a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 71. § (1) bekezdése alapján kibocsátott hatósági bizonyítvánnyal – igazolnia.
 
-97. Közérdeklődésre számot tartó biztosító: a nyilvános részvénytársasági formában működő biztosító és az a biztosító, amelynél a tárgyévet megelőző üzleti évben az éves bruttó díjbevétel elérte az 1 milliárd 500 millió forintot.
+97. Közérdeklődésre számot tartó biztosító: a nyilvános részvénytársasági formában működő biztosító és az a biztosító, amelynél a tárgyévet megelőző üzleti évben az éves bruttó díjbevétel elérte az 1 milliárd 500 millió forintot;
+
+98. illikvid eszköz: eszközalap olyan eszköze, amelynek értéke nem állapítható meg, ideértve különösen, ha az értékelésre alkalmas piaci árfolyam-információk az eszköz forgalmazásának, kereskedésének vagy nyilvános árjegyzésének felfüggesztése miatt nem állnak maradéktalanul rendelkezésre;
+
+99. megfelelőségi politika: a megfelelőségi feladatkört ellátó személy felelősségi köreinek, hatásköreinek és beszámolási kötelezettségeinek meghatározása;
+
+100. megfelelőségi terv: a megfelelőségi feladatkör azon tervezett tevékenységeinek meghatározása, amelyek figyelembe veszik a biztosító tevékenységének valamennyi lényeges területét és azok megfelelőségi kockázatnak való kitettségét;
+
+101. egyszeri díjas életbiztosítás: minden olyan életbiztosítás, amelynél a biztosítási díj a biztosítás tartamának elején egy összegben esedékes;
+
+102. rendszeres vagy folyamatos díjas életbiztosítás: minden olyan életbiztosítás, amelynek biztosítási díja a biztosítás tartama során meghatározott időszakonként válik esedékessé;
+
+103. jutalék: jogcímtől függetlenül a biztosítási díj meghatározott részét képező minden olyan pénzbeli vagy természetbeni előny, szolgáltatás, juttatás és ellentételezés, amelyben a biztosításközvetítő az általa közvetített biztosítási szerződés létrejöttéért, illetve az általa közvetített vagy fenntartott biztosítási szerződés teljesítéséért, meghatározott ideig való fenntartásáért az elvégzett biztosításközvetítői tevékenység díjazásaként a kockázatot elvállaló biztosítótól közvetve vagy közvetlenül részesül;
+
+104. jutalékjogosultság: a biztosításközvetítő által közvetített vagy fenntartott szerződés tekintetében a biztosításközvetítői jogviszony alapján a közvetítőt megillető jogosultság a biztosítás tartama alatt a biztosításközvetítői tevékenység által érintett időszakra járó jutalék vonatkozásában, meghatározott esetekben és mértékben a szerződés folyamatos fennállása esetén a közvetítői jogviszony megszűnését követő időszakot is beleértve;
+
+105. jutalékvisszatérítés (jutalékvisszaírás): a biztosításközvetítőt a biztosításközvetítői jogviszonya alapján terhelő jutalékvisszatérítési kötelezettség, amely szerint a részére fizetett jutalékot meghatározott feltételek szerint – a jutalékfizetés alapjául szolgáló tényezők változásával arányosan – részben vagy egészben köteles visszafizetni, amennyiben a közvetített biztosítási szerződés idő előtt (biztosítási eseményhez nem köthetően) megszűnik vagy a biztosítási díj olyan mértékű változása következik be, amely nem fedezi a kifizetett jutalék összegét;
+
+106. megtakarítási jellegű életbiztosítás: a tisztán kockázati (haláleseti) életbiztosítások körén kívül eső olyan életbiztosítások, amelyek lejárati szolgáltatással vagy visszavásárlási lehetőséggel (visszavásárlási értékkel) – egyes esetekben ezek mindegyikével – rendelkeznek.
 
 (2) Az Európai Unió, illetőleg az Európai Unió tagállama kifejezésen az Európai Gazdasági Térséget, illetőleg az Európai Gazdasági Térségről szóló megállapodásban részes államot is érteni kell (a továbbiakban: EGT-állam), kivéve a 227. § (1) bekezdését. A nem-életbiztosítási ág tekintetében Svájcra az EGT-államra vonatkozó rendelkezéseket kell alkalmazni.

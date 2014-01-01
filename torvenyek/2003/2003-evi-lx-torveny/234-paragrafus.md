@@ -10,7 +10,7 @@ c)
 
 d) a független biztosításközvetítői és biztosítási szaktanácsadói felelősségbiztosítási szerződés minimális tartalmi követelményeit,
 
-e) a jelzáloghitelezési tevékenység megkezdéséhez és folytatásához szükséges személyi és tárgyi feltételeket,
+e)
 
 f)
 

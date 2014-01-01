@@ -24,7 +24,7 @@ b) munkaviszonyával összefüggésben a biztosító munkavállalója, illetve
 
 c) gazdálkodó szervezettel munkaviszonyban álló, a gazdálkodó szervezet vezetőinek körébe nem tartozó természetes személy végzi, aki kizárólag a biztosításközvetítői tevékenységhez kapcsolódó kiegészítő tevékenységet végez,
 
-d) a Hpt. 5. § (1) bekezdésében meghatározott hitelintézettel vagy a postáról szóló 2003. évi CI. törvényben meghatározott egyetemes postai szolgáltatóval munkaviszonyban álló természetes személy a munkáltatója utasításainak megfelelően, a munkáltató ügyfélfogadásra szolgáló helyiségében vagy mobilposta útján végzi,
+d) a Hpt. 8. § (1) bekezdésében meghatározott hitelintézettel vagy a postáról szóló 2003. évi CI. törvényben meghatározott egyetemes postai szolgáltatóval munkaviszonyban álló természetes személy a munkáltatója utasításainak megfelelően, a munkáltató ügyfélfogadásra szolgáló helyiségében vagy mobilposta útján végzi,
 
 e) a Vám- és Pénzügyőrséggel, illetve a vámhatósággal szolgálati jogviszonyban, illetve munkavégzésre irányuló egyéb jogviszonyban álló természetes személy – kizárólag a külön jogszabályban meghatározott külföldi telephelyű gépjármű üzembentartója (vezetője) részére történő kötelező felelősségbiztosítási szerződés értékesítésével kapcsolatban – végzi.
 

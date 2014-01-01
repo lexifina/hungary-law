@@ -14,6 +14,14 @@ f) arról, hogy a szakmai tevékenysége során okozott kárért ki áll helyt,
 
 g) arról, hogy függő vagy független biztosításközvetítőként jár-e el,
 
-h) függő biztosításközvetítő vagy többes ügynök esetén arról, hogy mely biztosítók nevében jár vagy járhat el.
+h) függő biztosításközvetítő vagy többes ügynök esetén arról, hogy mely biztosítók nevében jár vagy járhat el,
+
+i) arról, hogy milyen biztosítási termék terjesztésére van jogosultsága,
+
+j) arról, hogy a biztosítási termék közvetítése során az ügyféltől díjat vagy díjelőleget átvehet-e,
+
+k) független biztosításközvetítő esetén arról, hogy a biztosítótól az ügyfélnek járó összeget átvehet-e, és ha igen, annak esetleges összegszerűségi korlátairól, és
+
+l) függő biztosításközvetítő esetén arról, hogy a biztosítótól az ügyfélnek járó összeget előzetesen nem vehet át.
 
 (2) A tájékoztatást azon személyek részére kell teljesíteni, akik a biztosítási (viszontbiztosítási) szerződés létrejötte esetén a biztosított (viszontbiztosított) vagy a biztosítóval szerződő fél pozíciójába kerülnek.

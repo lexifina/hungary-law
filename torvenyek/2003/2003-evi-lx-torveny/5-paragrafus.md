@@ -12,7 +12,7 @@
 
 a) a biztosító eszközeinek a biztosító által történő kezelése és befektetése ideértve a – biztosítástechnikai tartalékok esetében fedezeti céllal, a hatékony portfólió kialakításának, valamint az arbitrázs céljával kötött – származtatott ügyleteket,
 
-b) a Hpt. 3. § (1) bekezdésének h) pontjában meghatározott pénzügyi szolgáltatás közvetítése,
+b) a Hpt. 3. § (1) bekezdés i) pontjában meghatározott pénzügyi szolgáltatás közvetítése,
 
 c) a Bszt. 5. §-a (1) bekezdésének a) pontjában meghatározott megbízás felvétele és továbbítása,
 

@@ -12,6 +12,6 @@
 
 a) székhelye harmadik országban található, vagy
 
-b) nem tartozik a 85/611/EGK tanácsi irányelvet, a 92/49/EGK tanácsi irányelvet, a 2002/83/EK európai parlamenti és tanácsi irányelvet, a 2005/68/EK európai parlamenti és tanácsi irányelvet vagy a 2006/48/EK európai parlamenti és tanácsi irányelvet átültető tagállami jogszabályok szerinti felügyelet hatálya alá.
+b) nem tartozik a 85/611/EGK tanácsi irányelvet, a 92/49/EGK tanácsi irányelvet, a 2002/83/EK európai parlamenti és tanácsi irányelvet, a 2005/68/EK európai parlamenti és tanácsi irányelvet vagy a 2013/36/EU európai parlamenti és tanácsi irányelvet átültető tagállami jogszabályok szerinti felügyelet hatálya alá.
 
 (7)

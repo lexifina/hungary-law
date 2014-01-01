@@ -10,7 +10,7 @@ c) a nem-életbiztosítási ágban működő biztosító esetén, amennyiben a b
 
 d) a biztosítónak az olyan biztosítóban, harmadik országbeli biztosítóban, viszontbiztosítóban vagy biztosítói holding társaságban birtokolt – a 123. § (2) bekezdés h) pontja szerinti – osztalék elsőbbségi részvény és – a 123. § (2) bekezdés g) pontja szerinti – alárendelt kölcsöntőke értékét, amelyben részesedési viszonnyal vagy ellenőrző befolyással rendelkezik,
 
-e) a biztosítónak az olyan hitelintézetben, pénzügyi vállalkozásban vagy befektetési vállalkozásban birtokolt – a Hpt. 5. számú melléklete szerinti – osztalék elsőbbségi részvény és alárendelt kölcsöntőke értékét, amelyben részesedési viszonnyal vagy ellenőrző befolyással rendelkezik,
+e) a hitelintézetekre és befektetési vállalkozásokra vonatkozó prudenciális követelményekről és a 648/2012/EU rendelet módosításáról szóló, 2013. június 26-i 575/2013/EU európai parlamenti és tanácsi rendelet 49. és 70. cikke szerinti azon tőkeelemek értékét, amelyeket a biztosító olyan hitelintézetben, pénzügyi vállalkozásban vagy befektetési vállalkozásban birtokolt, amelyben részesedési viszonnyal vagy ellenőrző befolyással rendelkezik,
 
 f)
 

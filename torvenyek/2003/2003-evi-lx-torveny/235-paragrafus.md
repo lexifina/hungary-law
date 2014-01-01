@@ -2,9 +2,7 @@
 
 a)
 
-b) a függő és a független biztosításközvetítői hatósági képzés szabályait, a hatósági képzés során szerzett, függő és független biztosításközvetítői tevékenység folytatására feljogosító okirat megszerzésének követelményeit, a hatósági vizsga díjának mértékére, megfizetésére és visszatérítésére vonatkozó szabályokat,
-
-c) a jelzáloghitelezési tevékenységgel kapcsolatos kockázatok megállapításának, elemzésének, értékelésének, behatárolásának, kezelésének, csökkentésének és a kockázatvállalás ellenőrzésének részletes szabályait,
+b)–c)
 
 d) a technikai kamatláb legnagyobb mértékét,
 

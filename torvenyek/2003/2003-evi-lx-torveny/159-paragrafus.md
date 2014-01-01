@@ -6,6 +6,6 @@ b) fióktelep esetében a külföldi székhelyű vállalkozás székhelye (főir
 
 c) a jogalkotás megalapozása és a hatásvizsgálatok elvégzése céljából a miniszter részére személyes adatnak nem minősülő adatok átadása,
 
-d) e törvény Nyolcadik részének III. és III/A. fejezetében, a Tpt. XIX/B. fejezetében, valamint a Hpt. XIV/A. fejezetében foglalt rendelkezések teljesítése érdekében történő adatátadás.
+d) e törvény Nyolcadik részének III. és III/A. fejezetében, a pénzügyi konglomerátumok kiegészítő felügyeletéről szóló törvényben foglalt rendelkezések teljesítése érdekében történő adatátadás.
 
 (2) Az (1) bekezdésben meghatározott adatok átadását a biztosító a biztosítási titok védelmére hivatkozva nem tagadhatja meg.

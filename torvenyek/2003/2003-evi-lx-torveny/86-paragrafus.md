@@ -1,31 +1,47 @@
-## A biztosító vezető biztosításmatematikusa (aktuáriusa)
+## A biztosító vezető aktuáriusa
 
-86. § (1) A biztosító vezető biztosításmatematikusaként (aktuáriusaként) az alkalmazható, aki
+86. § (1) A biztosító vezető aktuáriusa az lehet, aki
 
-a) szakirányú egyetemi végzettséggel és külön jogszabályban meghatározott biztosításmatematikusi (aktuáriusi) képesítéssel rendelkezik;
+a) az alábbi szakmai követelmények valamelyikének megfelel:
 
-b) legalább 5 éves, biztosítónál, a Felügyeletnél, a biztosításmatematikusok (aktuáriusok) vagy biztosításközvetítők, szaktanácsadók szakmai érdekvédelmi szervénél, biztosításközvetítői tevékenységet folytató gazdálkodó szervezetnél, biztosító könyvvizsgálójánál vagy biztosítási szaktanácsadónál szerzett aktuáriusi szakmai gyakorlattal rendelkezik;
+aa) biztosításmatematikai (aktuáriusi) végzettséggel rendelkezik vagy
+
+ab) szakirányú felsőfokú – így különösen természettudományi, informatikai, gazdaságtudományi, műszaki képzési területen szerzett egyetemi vagy mesterfokozatú – végzettséggel és legalább a 231/E. §-ban meghatározott határidőt megelőzően szerzett 5 éves vezető aktuáriusi vagy 10 éves aktuáriusi munkakörben szerzett szakmai gyakorlattal rendelkezik;
+
+b) legalább 5 éves, biztosítónál vagy viszontbiztosítónál, pénzügyi felügyeletet ellátó szervezetnél, a biztosítók, az aktuáriusok vagy biztosításközvetítők, szaktanácsadók szakmai érdekvédelmi szervénél, biztosításközvetítői tevékenységet folytató gazdálkodó szervezetnél, biztosító könyvvizsgálójánál vagy biztosítási szaktanácsadónál szerzett aktuáriusi szakmai gyakorlattal rendelkezik;
 
 c) büntetlen előéletű;
 
-d) szakmai alkalmassággal és üzleti megbízhatósággal rendelkezik;
+d) szakmai alkalmassággal és üzleti megbízhatósággal rendelkezik; és
 
 e) a biztosítóval munkaviszonyban áll.
 
-(2) A biztosító vezető biztosításmatematikusa (aktuáriusa) aláírásával igazolja:
+(2) A biztosító vezető aktuáriusa aláírásával igazolja:
 
-a) az éves beszámolóban szereplő tartalékok képzésének és mértékének helyességét,
+a) az éves beszámolóban szereplő tartalékok képzésének és mértékének helyességét;
 
-b) a szavatoló tőke szükséglet számításának helyességét,
+b) a szavatolótőke-szükséglet számításának helyességét;
 
-c) az életbiztosítási ág befektetési hozamának felosztását,
+c) az életbiztosítási ág befektetési hozamának felosztását;
 
-d) a díjkalkulációk szakmai helyességét,
+d) a díjkalkulációk szakmai helyességét; és
 
-e) az a)–d) pontokra vonatkozó adatok, valamint a tartalékok helytállóságát.
+e) az a)–d) pontra vonatkozó adatok valamint a tartalékok helytállóságát.
 
-(3) A (2) bekezdésben foglaltakon túl a biztosító vezető biztosításmatematikusa igazolja, hogy a rendelkezésre álló adatok elégségesek, teljesek és összehangoltak voltak, az alkalmazott módszerek a kockázatok természetének megfeleltek.
+(3) A (2) bekezdésben foglaltakkal kapcsolatban a biztosító vezető aktuáriusa azt is igazolja, hogy a rendelkezésre álló adatok elégségesek, teljesek és összehangoltak voltak és az alkalmazott módszerek a kockázatok természetének megfeleltek.
 
-(4) A biztosító vezető biztosításmatematikusa az éves beszámolóval együtt ahhoz kapcsolódóan benyújtja a Felügyeletnek a biztosító éves külön aktuáriusi jelentését.
+(4) A biztosító vezető aktuáriusa az éves beszámolóval együtt, ahhoz kapcsolódóan – a felügyeleti ellenőrzés elősegítése céljából – benyújtja a Felügyeletnek a biztosító éves külön aktuáriusi jelentését.
 
-(5) Az aktuáriusi jelentés tartalmi követelményeit a Magyar Nemzeti Bank elnöke rendeletében állapítja meg.
+(5) Az aktuáriusi jelentés tartalmi követelményeit a Felügyelet elnöke rendeletben állapítja meg.
+
+(6) Biztosításmatematikai (aktuáriusi) végzettség e törvény szerint különösen:
+
+a) közgazdasági vagy pénzügyi szak aktuárius főszakirányán,
+
+b) matematikus vagy alkalmazott matematikus szak aktuárius és pénzügyi matematika szakirányán;
+
+c) biztosítási és pénzügyi matematika mesterszak aktuárius szakirányán vagy
+
+d) posztgraduális aktuárius szakon
+
+szerzett végzettség.
