@@ -1,1 +1,1 @@
-7. § Felhatalmazást kap a fővárosi önkormányzat képviselő-testülete, hogy a tárgyévre vonatkozóan a fővárosi önkormányzatot és a kerületi önkormányzatokat osztottan megillető bevételek összegét rendeletben határozza meg.
+7. § Felhatalmazást kap a fővárosi önkormányzat képviselő-testülete, hogy a tárgyévre vonatkozóan a fővárosi önkormányzatot és a kerületi önkormányzatokat osztottan megillető bevételek összegét és azok beszedésével összefüggően felmerült kiadások elszámolásának rendjét rendeletben határozza meg.
