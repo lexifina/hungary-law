@@ -1,0 +1,1 @@
+## „(3) A dohánytermék-kiskereskedelmi piac felügyelete körében végzett ellenőrzésre a dohánybolt vagy elkülönített hely fekvése, illetve a jogosulatlan tevékenység végzésének helye szerint illetékes megyei (fővárosi) vám- és pénzügyőri igazgatóság és a 2. számú Repülőtéri Igazgatóság az illetékes.”
