@@ -4,6 +4,8 @@
 
 (2) A miniszter felelősségi körébe tartozó földmérési térképészeti tevékenység végzése során előállított állami alapadatok szolgáltatását az ingatlanügyi hatóságok végzik.
 
+(2a) Az integrált ügyfélszolgálat (kormányablak) a 3. § (1) bekezdés d) pontjában meghatározott adatbázisból papír alapú hiteles térképmásolatot adhat ki.
+
 (3) A Nemzeti Kataszteri Program keretében előállított állami térképi adatbázisokból az e program megvalósítására létrehozott szervezet is szolgáltathat adatokat.
 
 (4) A honvédelemért felelős miniszter felelősségi körébe tartozó földmérési és térképészeti tevékenység végzése során előállított állami alapadatok szolgáltatását az általa kijelölt szerv látja el. A honvédelmi célból előállított állami alapadatok felhasználását a honvédelemért felelős miniszter szabályozza.
