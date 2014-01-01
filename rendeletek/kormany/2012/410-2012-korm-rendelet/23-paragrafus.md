@@ -1,4 +1,4 @@
-23. §[^43] (1) 2014. március 31-ig hitelesítőként olyan hitelesítő szervezet is eljárhat, amely rendelkezik a Nemzeti Akkreditáló Testület által kiállított dokumentummal arról, hogy az akkreditálás iránti kérelmet benyújtotta, és az igazgatási szolgáltatási díjat megfizette. Ez nem vonatkozik az Ügkr. tv. 10. § (1) és (2) bekezdése szerinti jelentés hitelesítésére, amelynek vonatkozásában kizárólag akkreditált hitelesítő szervezet járhat el.
+23. §[^44] (1) 2014. március 31-ig hitelesítőként olyan hitelesítő szervezet is eljárhat, amely rendelkezik a Nemzeti Akkreditáló Testület által kiállított dokumentummal arról, hogy az akkreditálás iránti kérelmet benyújtotta, és az igazgatási szolgáltatási díjat megfizette. Ez nem vonatkozik az Ügkr. tv. 10. § (1) és (2) bekezdése szerinti jelentés hitelesítésére, amelynek vonatkozásában kizárólag akkreditált hitelesítő szervezet járhat el.
 
 (2) Ha az üzemeltetők részére történő ingyenes kiosztás nem történik meg a 17. § (3) bekezdésében meghatározott határidőig, a hatóság a miniszter által az Európai Bizottsághoz jóváhagyásra benyújtott nemzeti kiosztási táblában szereplő kibocsátási egységmennyiséget alapul véve a 4. mellékletben meghatározott díjak 70%-ának megfelelő előlegszámlát jogosult kiállítani. 2013-ban a számítás alapját az Európai Bizottsághoz benyújtott Nemzeti Végrehajtási Intézkedés tervezetében foglalt kibocsátási egységmennyiségek képezik.
 
@@ -10,4 +10,4 @@
 
 (6) Ha az előlegszámla alapján a számlatulajdonos által befizetett összeg a végszámlában meghatározott számlavezetési díj összegét meghaladja, a hatóság a végszámla kiállítását követő 15 napon belül a különbözetet a számlatulajdonos által megadott bankszámlaszámra visszautalja.
 
-[^43]: A 23. § a 329/2013. (IX. 3.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^44]: A 23. § a 329/2013. (IX. 3.) Korm. rendelet 22. §-ával megállapított szöveg.

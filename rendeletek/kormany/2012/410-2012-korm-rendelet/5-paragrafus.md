@@ -4,6 +4,7 @@
 
 (2) A magyar nemzeti folyószámlákat a nemzeti tisztviselő (a továbbiakban: jegyzékkezelő) kezeli.
 
-(3) A jegyzékkezelő feladatait az Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség látja el.
+(3)[^11] A jegyzékkezelő feladatait az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség látja el.
 
 [^10]: Az 5. § (1) bekezdése a 329/2013. (IX. 3.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^11]: Az 5. § (3) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 127. §-a szerint módosított szöveg.

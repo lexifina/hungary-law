@@ -1,4 +1,4 @@
-11/A. §[^18] (1) Az Ügkr. tv. szerinti légiközlekedési új belépőnek minősülő légi jármű üzembentartó az adott kereskedési időszakra az Ügkr. tv. szerint igényelheti a térítésmentesen kiosztandó légiközlekedési kibocsátási egységek kiosztását. A kérelmet a Minisztérium honlapján közzétett módon kell benyújtani.
+11/A. §[^19] (1) Az Ügkr. tv. szerinti légiközlekedési új belépőnek minősülő légi jármű üzembentartó az adott kereskedési időszakra az Ügkr. tv. szerint igényelheti a térítésmentesen kiosztandó légiközlekedési kibocsátási egységek kiosztását. A kérelmet a Minisztérium honlapján közzétett módon kell benyújtani.
 
 (2) A miniszter minden, az Európai Bizottsághoz továbbított kérelem vonatkozásában megállapítja minden egyes légiközlekedési új belépő részére a külön tartalékalapból kiosztandó kibocsátási egységek mennyiségét.
 
@@ -10,4 +10,4 @@ b) az Ügkr. tv. 2. § 22. pont b) alpontjába tartozó légi jármű üzembenta
 
 (4) A miniszter az egyes légi jármű üzembentartók számára évente kiosztandó kibocsátási egységek mennyiségét úgy határozza meg, hogy a (3) bekezdés szerinti mennyiséget elosztják a kiosztás tárgyát képező időszakban fennmaradó teljes naptári évek számával.
 
-[^18]: A 11/A. §-t a 329/2013. (IX. 3.) Korm. rendelet 11. §-a iktatta be.
+[^19]: A 11/A. §-t a 329/2013. (IX. 3.) Korm. rendelet 11. §-a iktatta be.

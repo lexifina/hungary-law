@@ -1,4 +1,4 @@
-## 5/A.[^28] A légi jármű üzembentartó működésében bekövetkező változások
+## 5/A.[^29] A légi jármű üzembentartó működésében bekövetkező változások
 
 14/A. § (1) Ha a légi jármű üzembentartó légiközlekedési tevékenysége megszűnik vagy a tevékenysége az Ügkr. tv. 1. § (3) és (4) bekezdése szerint kivételnek minősül, köteles azt a bejelentés alapjául szolgáló esemény bekövetkeztétől számított 30 napon belül bejelenteni – a Minisztérium honlapján közzétett módon – a miniszternek és a hatóságnak. A bejelentés tartalmazza az esemény napjának megjelölését és az annak igazolására alkalmas, cégszerű aláírással ellátott dokumentumot.
 
@@ -10,4 +10,4 @@
 
 (5) A miniszter a bezárásra vonatkozó bejelentést követően gondoskodik a nemzeti légiközlekedési kiosztási tábla módosításáról.
 
-[^28]: Az 5/A. alcímet (14/A. §) a 329/2013. (IX. 3.) Korm. rendelet 16. §-a iktatta be.
+[^29]: Az 5/A. alcímet (14/A. §) a 329/2013. (IX. 3.) Korm. rendelet 16. §-a iktatta be.

@@ -14,8 +14,10 @@ való megfelelést szolgálja.
 
 a) az üvegházhatást okozó gázok kibocsátási egységei Közösségen belüli kereskedelmi rendszerének létrehozásáról szóló 2003/87/EK európai parlamenti és tanácsi irányelv alapján az üvegházhatást okozó gázok kibocsátási egységei árverés útján történő értékesítésének időbeli ütemezéséről, lebonyolításáról és egyéb vonatkozásairól szóló, 2010. november 12-i 1031/2010/EU bizottsági rendelet,
 
-b) a 2003/87/EK európai parlamenti és tanácsi irányelv és a 280/2004/EK európai parlamenti és tanácsi határozat szerinti, az uniós kibocsátáskereskedelmi rendszer 2013. január 1-jén kezdődő kereskedési időszakát és azt követő kereskedési időszakait szolgáló uniós kibocsátásiegység- forgalmi jegyzék létrehozásáról, valamint a 2216/2004/EK és a 920/2010/EU bizottsági rendelet módosításáról szóló, 2011. november 18-i 1193/2011/EU bizottsági rendelet,
+b)[^45] a 2003/87/EK európai parlamenti és tanácsi irányelv, valamint a 280/2004/EK és a 406/2009/EK európai parlamenti és tanácsi határozat szerinti uniós kibocsátásiegység-forgalmi jegyzék létrehozásáról, továbbá a 920/2010/EU és az 1193/2011/EU bizottsági rendelet hatályon kívül helyezéséről szóló, 2013. május 2-i 389/2013/EU bizottsági rendelet,
 
 c) az üvegházhatást okozó gázok kibocsátásának a 2003/87/EK európai parlamenti és tanácsi irányelvnek megfelelő nyomon követéséről és jelentéséről szóló, 2012. június 21-i 601/2012/EU bizottsági rendelet,
 
 d) a kibocsátási egységekre vonatkozó harmonizált ingyenes kiosztás uniós szintű átmeneti szabályainak a 2003/87/EK európai parlamenti és tanácsi irányelv 10a. cikke értelmében történő meghatározásáról szóló, 2011. április 27-i 2011/278/EU bizottsági határozat
+
+[^45]: A 24. § (2) bekezdés b) pontja az 528/2013. (XII. 30.) Korm. rendelet 16. §-ával megállapított szöveg.
