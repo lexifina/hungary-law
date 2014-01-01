@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-6-20-0A
 | 2012-08-03 | 2012-6-20-0A.3 | 39/2012. (VIII. 2.) BM rendelet |
 | 2012-12-31 | 2012-6-20-0A.4 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2013-01-01 | 2012-6-20-0A.5 | 2010: CXXX. törvény |
+| 2014-01-01 | 2012-6-20-0A.6 | Nemzeti Jogszabálytár (egységes szerkezet) |
