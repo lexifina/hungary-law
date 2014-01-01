@@ -1,4 +1,4 @@
-## 1–7.[^6]
+## 1–7.[^5]
 
 ## 8. Az R. 6. számú melléklet 3. pontja helyébe a következő rendelkezés lép:
 
@@ -84,10 +84,10 @@
 
 ## 14. Feltételek – Conditions”
 
-## 9.[^7]
+## 9.[^6]
 
-2. melléklet a 42/2013. (VII. 19.) NFM rendelethez[^8]
+2. melléklet a 42/2013. (VII. 19.) NFM rendelethez[^7]
 
-[^6]: Az 1. melléklet 1–7. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^7]: Az 1. melléklet 9. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^8]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: Az 1. melléklet 1–7. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: Az 1. melléklet 9. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
