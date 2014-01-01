@@ -30,3 +30,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-127-00-00
 | 2013-06-01 | 2013. évi LXXI. törvény | 2003-127-00-00.64 |
 | 2013-07-01 | 2012. évi CCXXIII. törvény | 2003-127-00-00.65 |
 | 2013-11-30 | 2013. évi CC. törvény | 2003-127-00-00.66 |
+| 2014-01-01 | 2013. évi CC. törvény | 2003-127-00-00.67 |

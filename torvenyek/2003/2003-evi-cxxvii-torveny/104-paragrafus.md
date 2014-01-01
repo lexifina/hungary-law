@@ -22,9 +22,11 @@ bűncselekmény elkövetése miatt jogerősen elítélték, és a kérelem beny�
 
 a) az 52. § (1) bekezdés a)–e) pontja szerinti ásványolajtermék esetében – a nem ömlesztett formában történő beszerzés kivételével – telephelyenként legalább 500 m3 űrtartalmú, az illetékes hatóság által hitelesített és engedélyezett, a talajjal egybeépített vagy a talajhoz rögzített tárolótartállyal vagy tárolótartályban tárolótérfogattal (a továbbiakban: tárolótartály),
 
-b) az 52. § (1) bekezdés f) pontja szerinti cseppfolyósított gáz esetében telephelyenként 300 m3 űrtartalmú, a talajjal egybeépített vagy a talajhoz rögzített tárolótartállyal,
+b) az 52. § (1) bekezdés f) pontja szerinti cseppfolyósított gáz – kivéve a kizárólag 25 kilogramm vagy annál kisebb kiszerelésű palackba töltött cseppfolyósított szénhidrogént – esetében telephelyenként 300 m3 űrtartalmú, a talajjal egybeépített vagy a talajhoz rögzített tárolótartállyal,
 
-c) az alkoholtermék, a sör, a pezsgő, a köztes alkoholtermék, a bor és a dohánygyártmány esetében telephelyenként legalább 100 m2 alapterületű, szilárd térelemekkel körülhatárolt raktárhelyiséggel, a nem palackozott alkoholtermék forgalmazásához legalább 100 m3 űrtartalmú, helyhez kötött tárolótartállyal
+c) az alkoholtermék, a sör, a pezsgő, a köztes alkoholtermék, a bor és a dohánygyártmány esetében telephelyenként legalább 100 m2 alapterületű, szilárd térelemekkel körülhatárolt raktárhelyiséggel, a nem palackozott alkoholtermék forgalmazásához legalább 100 m3 űrtartalmú, helyhez kötött tárolótartállyal,
+
+d) a 62/A. § (1) bekezdése szerinti kenőolaj esetében telephelyenként legalább 50 m2 alapterületű, szilárd térelemekkel körülhatárolt raktárhelyiséggel
 
 is rendelkezzen.
 
@@ -44,11 +46,21 @@ a) kizárólag szőlőborral folytató személynek a jövedéki engedély megsze
 
 b) kizárólag 5 liter/5 kilogramm vagy annál kisebb kiszerelésű, az 52. § (1) bekezdés h) pontja szerinti termékkel folytató személynek 1 millió Ft összegben kell,
 
-c) kizárólag sörfőzdében előállított sörrel folytató, sörfőzdét működtető személynek 500 ezer forint összegben kell
+c) kizárólag sörfőzdében előállított sörrel folytató, sörfőzdét működtető személynek 500 ezer forint összegben kell,
+
+d) kizárólag szeszfőzdében előállított alkoholtermékkel folytató, szeszfőzdét működtető személynek
+
+da) ha a szeszfőzdében évi legfeljebb 20 hektoliter tiszta szesz tartalmú alkoholterméket állít elő, 2 millió forint összegben kell,
+
+db) egyéb esetben 10 millió forint összegben kell,
+
+e) kizárólag 2901 10 vámtarifaszámú cseppfolyósított szénhidrogénnel folytató személynek 1 millió Ft összegben kell,
+
+f) kizárólag a 62/A. § (1) bekezdése szerinti kenőolajjal folytató személynek 5 millió Ft összegben kell
 
 jövedéki biztosítékot nyújtania.
 
-(10a) Jövedéki engedélyes tevékenységet kizárólag sörfőzdében előállított sörrel folytató személynek a (4) bekezdés c) pontjában előírtaktól eltérően legalább 20 m2 alapterületű, szilárd térelemekkel körülhatárolt raktárhelyiséggel kell rendelkeznie.
+(10a) Jövedéki engedélyes tevékenységet kizárólag sörfőzdében előállított sörrel vagy kizárólag szeszfőzdében előállított alkoholtermékkel folytató személynek a (4) bekezdés c) pontjában előírtaktól eltérően legalább 20 m2> alapterületű, szilárd térelemekkel körülhatárolt raktárhelyiséggel kell rendelkeznie.
 
 (11) Mentesül a (2) bekezdés a) pontja szerinti biztosítéknyújtás és a (4) bekezdés c) pontjában előírt raktárhelyiség feltétele alól
 
@@ -80,7 +92,7 @@ ba) az adóhatósághoz vagy a vámhatósághoz teljesítendő adóbevallási k�
 
 bb) az adóhatósághoz vagy a vámhatósághoz teljesítendő adófizetési, társadalombiztosítási járulékfizetési kötelezettségét vagy vámtartozását az esedékességet követő 60 napon belül nem teljesítette, feltéve, hogy a kötelezettség összege a 100 ezer forintot meghaladja, kivéve, ha a jövedéki engedélyes kereskedő, exportáló, importáló a jövedéki engedély visszavonására irányuló hatósági eljárás megkezdéséig a kötelezettségét megfizette, vagy
 
-bc) terhére a vámhatóság vagy az adóhatóság a vizsgált időszakra vonatkozó adókötelezettség 10 százalékát meghaladó adóhiányt jogerősen állapít meg, és a magatartás jellegére tekintettel az adóbírság mérséklését az Art. 171. § (1) bekezdése kizárja,
+bc) terhére a vámhatóság vagy az adóhatóság a vizsgált időszakra vonatkozó adókötelezettség 10 százalékát meghaladó adóhiányt jogerősen állapít meg, és a magatartás jellegére tekintettel az adóbírság mérséklését az Art. 171. § (2) bekezdése kizárja,
 
 c) a 104. § (2) bekezdés a), b) pontjában és (3) bekezdésében meghatározott feltételek nem teljesülnek,
 

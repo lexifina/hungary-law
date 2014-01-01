@@ -12,21 +12,23 @@ c) a külön jogszabályban meghatározott eljárástól eltérően előállíto
 
 d) a hamis, hamisított vagy jogtalanul megszerzett zárjegyet, adójegyet, hivatalos zárat (e §, valamint a 120. § alkalmazásában a továbbiakban: zárjegy),
 
-e) a jogosulatlanul előállított, birtokolt, vagy az arra jogosulatlan személy által használt desztillálóberendezést, sör előállítására alkalmas főzőüstöt és komlóforraló üstöt, valamint a dohánygyártmány előállítására alkalmas gépet és egyéb eszközt,
+e) a jogosulatlanul előállított, birtokolt, vagy az arra jogosulatlan személy által használt desztillálóberendezést, sör előállítására alkalmas főzőüstöt és komlóforraló üstöt, valamint a dohánygyártmány előállítására alkalmas gépet és egyéb eszközt – a dohánylevél-töltőt ide nem értve –,
 
 f) a termékek, a zárjegy előállítására használt eszközt,
 
-g) a termékek, a zárjegy felhasználására, tárolására és szállítására használt eszközt [e fejezet alkalmazásában az e)–g) pontokban meghatározottak a továbbiakban: eszközök] – a (4) bekezdésben foglalt eltéréssel –
+g) a termékek, a zárjegy felhasználására, tárolására és szállítására használt eszközt – a (4) bekezdésben foglalt eltéréssel –,
 
-h) a magánfőzésre használt desztillálóberendezést, ha
+h) a magánfőzésre használt desztillálóberendezést [e fejezet alkalmazásában az e)–h) pontokban meghatározottak a továbbiakban: eszközök], ha
 
 ha) a magánfőző a 67/A. § (1) bekezdés szerinti bejelentésében az adó megállapításához szükséges adatok tekintetében valótlan adatokat ad meg,
 
-hb) a 67/A. § (2) bekezdés rendelkezésének alkalmazásában a magánfőző valótlan nyilatkozatot tesz,
+hb) a 67/A. § (2) bekezdés szerinti nyilatkozattétel során a magánfőző valótlan nyilatkozatot tesz,
 
 hc) a magánfőző a desztillálóberendezést a párlattól eltérő alkoholtermék előállítására használja,
 
-hd) a magánfőző a párlatot a 67. § (2) bekezdés b) pontjának rendelkezését megsértve értékesíti,
+hd) a magánfőző a párlatot a 67. § (2) bekezdés b) pontját megsértve értékesíti,
+
+i) a 110/A. § megsértésével birtokolt szárított dohányt vagy fermentált dohányt, illetve a 110/B. § megsértésével értékesített cigarettapapír-lapot, cigarettapapír-hüvelyt, illetve dohánylevél-töltőt
 
 lefoglalja.
 
@@ -34,11 +36,9 @@ lefoglalja.
 
 (4) A felhasználásra, tárolásra és szállításra használt eszköz lefoglalása mellőzhető, ha
 
-a) a termékek mennyisége nem haladja meg a 110. § (5) bekezdésében meghatározott kereskedelmi mennyiséget, illetve a zárjegy mennyisége a 100 darabot, és
+a) a termékek mennyisége nem haladja meg a 110. § (5) bekezdésében meghatározott kereskedelmi mennyiséget vagy a zárjegy mennyisége a 100 darabot, és jövedéki törvénysértés elkövetését célzó átalakítást az eszközön nem végeztek, továbbá a jövedéki jogsértésért felelős személy a jogsértést első ízben követte el, vagy
 
-b) a jövedéki törvénysértés elkövetését célzó átalakítást az eszközön nem végeztek, továbbá
-
-c) a jövedéki jogsértésért felelős személy a jogsértést első ízben követte el. A felhasználásra, tárolásra és szállításra használt eszköz lefoglalása mellőzhető abban az esetben is, ha az adózás alól elvont termék mennyisége a Jöt. 110. § (5) bekezdésében meghatározott kereskedelmi mennyiséget meghaladja, de a jövedéki bírság kiszabására, beszedésére és az adózás alól elvont termék elkobzására a helyszínen, a felderítéssel egyidejűleg kerül sor.
+b) az adózás alól elvont termék mennyisége a Jöt. 110. § (5) bekezdésében meghatározott kereskedelmi mennyiséget meghaladja, de a jövedéki bírság kiszabására, beszedésére és az adózás alól elvont termék elkobzására a helyszínen, a felderítéssel egyidejűleg kerül sor.
 
 (5) A vámhatóság a lefoglalásról végzésben rendelkezik. A lefoglalást elrendelő végzéssel szemben az ügyfél – jogszabálysértésre hivatkozással – kifogással élhet. A 114. § (6) bekezdése szerinti gyorsított eljárásban foganatosított lefoglalás ellen kifogásnak nincs helye. A kifogást a végzés közlésétől számított nyolc napon belül kell előterjeszteni a lefoglalást végző vámhatóságnál. A kifogást a vámhatóság másodfokú szerve a benyújtástól számított tizenöt napon belül bírálja el. A kifogásnak a lefoglalás végrehajtására nincs halasztó hatálya.
 
@@ -56,7 +56,7 @@ e) a szállításra használt, nem a jövedéki jogsértés elkövetőjének tul
 
 (7) A lefoglalt termék, dolog és eszköz – a (6) bekezdés d) pontja szerinti esetben foglaltak kivételével – annak adható ki, aki a tulajdonjogát minden kétséget kizáróan igazolja, vagy annak, akitől azt (azokat) a vámhatóság lefoglalta, feltéve, hogy a jogszerű birtoklás tényét igazolta. A kiadás feltétele – a (6) bekezdés d) pontja szerinti eset kivételével –, hogy a lefoglalás megszüntetéséről rendelkező végzés közlésének napját követő nap és a kiadni rendelt termék, dolog és eszköz kiadásának napja közötti időtartamra eső tárolási költséget a vámhatóság részére igazoltan megtérítsék. A (6) bekezdés d) pontja szerinti esetben a lefoglalt dolgot a büntetőeljárást lefolytató hatóságnak kell átadni.
 
-(8) Ha a (6) bekezdés a)–c) és e) pontja szerint kiadni rendelt terméket, dolgot és eszközt a lefoglalás megszüntetéséről rendelkező végzés közlését követő 60 napon belül a (7) bekezdésben meghatározott személy nem veszi át, úgy azt a vámhatóság értékesítheti. Az értékesítésből befolyt ellenérték a kiadni rendelt, de át nem vett termék, dolog és eszköz helyébe lép. Az előbbiek szerint kell eljárni abban az esetben is, ha a szállításra használt, nem a jövedéki törvénysértés elkövetőjének tulajdonában lévő eszköz lefoglalásának (6) bekezdés e) pontja szerinti megszüntetéséről rendelkező végzés meghozatalára a nyilatkozattételi felhívás eredménytelen eltelte vagy a felhívás sikertelen kézbesítése miatt nem kerülhet sor.
+(8) Ha a (6) bekezdés a)–c) és e) pontja szerint kiadni rendelt terméket, dolgot és eszközt a lefoglalás megszüntetéséről rendelkező végzés közlését követő 60 napon belül a (7) bekezdésben meghatározott személy nem veszi át, úgy azt a vámhatóság értékesítheti. Az értékesítésből befolyt ellenérték a kiadni rendelt, de át nem vett termék, dolog és eszköz helyébe lép. Az értékesítés meghiúsulása esetén a vámhatóság a kiadni rendelt terméket, dolgot és eszközt megsemmisítheti. Az előbbiek szerint kell eljárni abban az esetben is, ha a szállításra használt, nem a jövedéki törvénysértés elkövetőjének tulajdonában lévő eszköz lefoglalásának (6) bekezdés e) pontja szerinti megszüntetéséről rendelkező végzés meghozatalára a nyilatkozattételi felhívás eredménytelen eltelte vagy a felhívás sikertelen kézbesítése miatt nem kerülhet sor.
 
 (9) Amennyiben a (8) bekezdésben foglaltak szerinti értékesítésből befolyt ellenértéket az annak átvételére jogosult személy a vámhatóság ezirányú tájékoztatásának közlésétől számított öt éven belül nem veszi át, akkor az értékesítésből befolyt ellenérték a magyar államra száll. Az értékesítésből befolyt ellenérték után a vámhatóságnak kamatfizetési kötelezettsége nincs.
 

@@ -12,8 +12,16 @@ büntetendő.
 
 (4) Az alkoholtermék előállítására alkalmas desztillálóberendezés jogosulatlan előállítása, értékesítése vagy birtokolása első alkalommal legalább 20 ezer forint összegű, legfeljebb 200 ezer forintig terjedő, ismétlődés esetén legalább az előző alkalommal kiszabható legkisebb jövedéki bírság kétszeresének megfelelő összegű, legfeljebb az előző alkalommal kiszabható jövedéki bírság legmagasabb összegének kétszereséig terjedő jövedéki bírsággal büntetendő.
 
-(5) A szárított dohány nem a fermentáló üzem, illetve a fermentált dohány nem a dohányüzem vagy a dohánygyár részére, hanem közvetlen fogyasztási célra történő átadása, értékesítése, illetve megvásárlása, birtokolása kilogrammonként 1000 forint jövedéki bírsággal büntetendő.
+(5) Kilogrammonként 100 ezer forint jövedéki bírsággal sújtandó
 
-(6) Ásványolaj előállítására alkalmas desztillálóberendezés, sör előállítására alkalmas főzőüst és forralóüst, dohánygyártmány előállítására alkalmas gép vagy egyéb eszköz jogosulatlan előállítása, birtokolása, értékesítése legalább 20 ezer forint összegű, legfeljebb 200 ezer forintig terjedő, ismétlődés esetén legalább az előző alkalommal kiszabható legkisebb jövedéki bírság kétszeresének megfelelő összegű, legfeljebb az előző alkalommal kiszabható jövedéki bírság legmagasabb összegének kétszereséig terjedő jövedéki bírsággal büntetendő.
+a) a 110/A. § (2) bekezdését átadóként, átvevőként, értékesítőként vagy vevőként megsértő személy,
+
+b) a vámhatóság által nyilvántartásba nem vett regisztrációra kötelezett, ha szárított dohányt vagy fermentált dohányt tárol, behoz, értékesít,
+
+c) a vámhatóság által nyilvántartásba nem vett személy, ha szárított dohányt vagy fermentált dohányt birtokol és nem tudja igazolni, hogy a 110/A. § (2) bekezdése szerinti fuvarozó vagy szállítmányozó.
+
+(6) Ásványolaj előállítására alkalmas desztillálóberendezés, sör előállítására alkalmas főzőüst és forralóüst, dohánygyártmány előállítására alkalmas gép vagy egyéb eszköz – ide nem értve a dohánylevél-töltőt – jogosulatlan előállítása, birtokolása, értékesítése vagy importálása legalább 500 ezer forint összegű, legfeljebb 50 millió forintig terjedő, ismétlődés esetén legalább az előző alkalommal kiszabható legkisebb jövedéki bírság kétszeresének megfelelő összegű, legfeljebb az előző alkalommal kiszabható jövedéki bírság legmagasabb összegének kétszereséig terjedő jövedéki bírsággal büntetendő.
+
+(6a) A Jöt. 110/B. §-ban foglaltak megsértése esetén a jogellenesen értékesített cigarettapapír-hüvely, illetve cigarettapapír-lap minden darabja (lapja) után 500 forint, a dohánylevél-töltő minden darabja után 15 ezer forint jövedéki bírság szabható ki.
 
 (7) A 67/A. § (1) bekezdés szerinti bejelentésben az adó megállapításához szükséges adatok tekintetében valótlan adatok megadása, valamint a 67/A. § (2) bekezdés szerint tett valótlan nyilatkozat megtétele legalább 20 ezer forint összegű, de legfeljebb 200 ezer forintig terjedő jövedéki bírsággal büntetendő.

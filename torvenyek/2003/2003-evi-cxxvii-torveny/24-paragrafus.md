@@ -32,7 +32,7 @@ c) – az a) és b) pontokban nem említett – jövedéki termék mennyiségér
 
 számított adónak megfelelő összegben történő előzetes jövedékibiztosíték-nyújtás esetén.
 
-(3) Az (1) bekezdés szerinti bejegyzett kereskedő 25. § szerinti, nem teljesített adófizetési kötelezettségének összege – a (7) bekezdésben foglalt eltéréssel – 50 százalékkal, de legfeljebb 50 millió forinttal haladhatja meg a jövedéki biztosíték összegét, egyébként a jövedéki biztosítékot a teljes összegre ki kell egészíteni.
+(3) Az (1) bekezdés szerinti bejegyzett kereskedő 25. § szerinti, nem teljesített adófizetési kötelezettségének összege – a (7) bekezdésben foglalt eltéréssel – 50 százalékkal, de legfeljebb 50 millió forinttal haladhatja meg a jövedéki biztosíték összegét, egyébként a jövedéki biztosítékot legalább a nem teljesített adófizetési kötelezettség összegére ki kell egészíteni. A jövedéki biztosíték megemelésének elmaradása esetén a vámhatóság a bejegyzett kereskedői engedélyt az eset összes körülményeinek figyelembevételével, különös tekintettel a nem teljesített adófizetési kötelezettség összegére, legfeljebb 30 napra felfüggesztheti. Ha a bejegyzett kereskedő a felfüggesztés elrendelésétől számított 30 nap elteltével jövedéki biztosítékát nem emeli meg, a vámhatóság a bejegyzett kereskedői engedélyt visszavonja.
 
 (4) Az e § szerinti jövedéki biztosítékra a 19. § (5) bekezdésének rendelkezéseit kell értelemszerűen alkalmazni azzal, hogy a vámhatóság akkor hagyja jóvá, illetve engedi meg a pénzügyi biztosítékban, illetve a készpénzben nyújtott jövedéki biztosíték visszavonását, ha a bejegyzett kereskedő a 25. § szerinti adófizetési kötelezettségét teljesítette.
 

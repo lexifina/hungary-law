@@ -42,7 +42,7 @@ ad) ETBE előállítás céljára
 
 használnak fel;
 
-b) amelyet az adóraktárban a belső minőség-ellenőrzéshez szükséges vizsgálatok céljára – a hatályos jogszabályoknak, valamint szabványoknak megfelelő – mintavételi szabályzat szerint felhasználtak;
+b) amelyet minőség-ellenőrzéshez szükséges vizsgálatok céljára – a hatályos jogszabályoknak, valamint szabványoknak megfelelő – mintavételi szabályzat szerint felhasználtak, átadtak;
 
 c) amelyet az adóraktárban az adóellenőrzés céljaira a vámhatóság felhasznált;
 

@@ -26,4 +26,4 @@ de adóraktáranként, illetve a több adóraktárral rendelkező engedélyes es
 
 (5) Az üzemi dohánygyártmányraktárba nem saját előállítású dohánygyártmány legfeljebb az egy naptári év alatt előállított saját gyártású dohánygyártmány 25%-ának megfelelő mennyiségben tárolható be évente.
 
-(6) Dohánygyártmány gyártására alkalmas gépet és egyéb eszközt kizárólag adóraktári engedéllyel rendelkező dohányüzem vagy dohánygyár tarthat birtokában, csak részére lehet értékesíteni, importálni.
+(6) Dohánygyártmány gyártására alkalmas gépet és egyéb eszközt – az e törvényben meghatározott dohánylevél-töltőt ide nem értve – kizárólag adóraktári engedéllyel rendelkező dohányüzem vagy dohánygyár tarthat birtokában, csak részére lehet értékesíteni, importálni.

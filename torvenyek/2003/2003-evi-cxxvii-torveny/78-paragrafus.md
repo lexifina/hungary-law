@@ -34,4 +34,4 @@ de adóraktáranként, illetve a több adóraktárral rendelkező engedélyes es
 
 (8) Sör előállítására alkalmas főzőüstöt és komlóforraló üstöt kizárólag a vámhatóság engedélyével szabad előállítani, értékesíteni, valamint – a 76. § (4) bekezdésben meghatározott tevékenységhez használt berendezés kivételével – birtokolni.
 
-(9) A sörfőzde esetében a 35. § (1) bekezdés e)–g) pontjának rendelkezését nem kell alkalmazni.
+(9) A sörfőzde esetében a 35. § (1) bekezdés e) és g) pontjának rendelkezését nem kell alkalmazni.

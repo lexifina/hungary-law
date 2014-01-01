@@ -5,3 +5,5 @@
 a) a jogsértő személy ismételten követett el jövedéki bírság kiszabásával járó jogsértést, vagy
 
 b) a jövedéki bírság kiszabása cukorcefrével, denaturált alkoholtermékkel vagy abból előállított alkoholtermékkel, adójegy nélküli, hamis, hamisított vagy jogosulatlanul megszerzett adójeggyel ellátott dohánygyártmánnyal összefüggésben elkövetett jogsértés miatt történt.
+
+(3) Ismételt elkövetésnek minősül, ha két egymást követő ugyanolyan jogsértés elkövetése – amennyiben annak pontos időpontja nem állapítható meg, feltárása – között nem telt el 3 év.

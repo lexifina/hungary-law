@@ -2,7 +2,7 @@
 
 (2) A jövedéki engedélyes kereskedőnek a beszerzéseiről és értékesítéséről, valamint a napi zárókészletéről – telephelyenként és összesítve – folyamatosan mennyiségi nyilvántartást (a továbbiakban: jövedéki nyilvántartás) kell vezetnie. A jövedéki nyilvántartást a vámhatóság által elfogadott és hitelesített külön nyomtatványon (űrlapon) kell vezetni, és a beszerzés, az értékesítés adatait havonta, a tárgyhó végén összesíteni. A jövedéki engedélyes kereskedő mentesülhet a külön nyomtatványon (űrlapon) történő nyilvántartás-vezetés alól, ha bizonylati rendjét, hagyományos vagy számítógépes nyilvántartását úgy alakítja ki, hogy annak alapján az előírt számbavétel teljesül. A jövedéki nyilvántartás adatai számítógépes adathordozón tárolhatók. A vámhatóság kérésére a jövedéki nyilvántartás adatait rendelkezésre kell bocsátani.
 
-(3) A jövedéki engedélyes kereskedő dohánygyártmány, alkoholtermék, bor, pezsgő, köztes alkoholtermék és sör árukészletének továbbforgalmazók, továbbá a tüzelőolajnak, a gázolajnak és a légi járművek üzemanyagának végfelhasználók részére, gépjárműről történő helyszíni értékesítése, kiszolgálása (a továbbiakban: terítőjárat) a külön jogszabályban meghatározott rendelkezések szerint megengedett.
+(3) A jövedéki engedélyes kereskedő dohánygyártmány, alkoholtermék, bor, pezsgő, köztes alkoholtermék és sör árukészletének továbbforgalmazók, továbbá a tüzelőolajnak, a gázolajnak, a palackba töltött cseppfolyósított szénhidrogénnek és a légi járművek üzemanyagának végfelhasználók részére, gépjárműről történő helyszíni értékesítése, kiszolgálása (a továbbiakban: terítőjárat) a külön jogszabályban meghatározott rendelkezések szerint megengedett.
 
 (4) A jövedéki engedélyes kereskedő jövedéki terméket
 
@@ -16,7 +16,7 @@ a) a jövedéki termék mennyiségi adatait;
 
 b) a kiszállítás és az átvétel időpontját;
 
-c) a szállítás célját (áttárolás, értékesítés, terítőjárat);
+c) a szállítás célját;
 
 d) a szállítás rendeltetési helyét (címét, címzettjét, a terítőjárat értékesítési körzetét).
 

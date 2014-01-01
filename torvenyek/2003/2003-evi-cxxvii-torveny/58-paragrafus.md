@@ -4,7 +4,7 @@
 
 a) ásványolajat kőolajból atmoszférikus és vákuumdesztillációval, valamint ehhez kapcsolódó technológiákkal (ideértve a bioetanol és a biodízel üzemanyagba keverését is) előállító üzemre (a továbbiakban: kőolaj-finomító);
 
-b) a kőolaj-finomító engedélyesének a kőolaj-finomító területén kívül található, ásványolaj tárolására, raktározására alkalmas tárolóra, ahol a betárolt ásványolajtermék kiszerelése, a bioetanol benzinbe és a biodízel gázolajba való közvetlen bekeverése, továbbá egyéb ellenőrzött ásványolajtermék, valamint megfigyelt termék (kivéve: biodízel) előállítása is végezhető külön engedély nélkül, adóraktári engedéllyel (a továbbiakban: finomítói ásványolajraktár);
+b) a kőolaj-finomító engedélyesének a kőolaj-finomító területén kívül található, ásványolaj tárolására, raktározására alkalmas tárolóra, ahol a betárolt ásványolajtermék kiszerelése, a bioetanol benzinbe és a biodízel gázolajba való közvetlen bekeverése, továbbá egyéb ellenőrzött ásványolajtermék, valamint megfigyelt termék előállítása is végezhető külön engedély nélkül, adóraktári engedéllyel (a továbbiakban: finomítói ásványolajraktár);
 
 c) az 52. § (1) bekezdés f) pontja szerinti cseppfolyósított halmazállapotú gáz termék előállítására, ahol az előállított gáz termékből megfigyelt termék is előállítható külön engedély nélkül (a továbbiakban: cseppfolyósítottgáz-töltő),
 
@@ -108,7 +108,7 @@ engedélyezhető, amennyiben a hajó gázolaj tárolásra kialakított legalább
 
 (13) Kőolaj-finomítóban és finomítói ásványolajraktárban E85 előállítása is, kőolaj-finomítóban továbbá ETBE előállítása is végezhető, ezen adóraktárakra kiadott adóraktári engedély birtokában.
 
-(14) A kísérleti előállítást végző üzem és a tiszta növényiolaj-gyártó adóraktár esetében a 35–41. §-t, így az adóraktári engedélyezésre, az adóraktár-engedélyes bizonylatolási, nyilvántartási és elszámolási kötelezettségére – a jövedékibiztosíték-nyújtáson kívül – jogszabályban meghatározott eltérésekkel kell alkalmazni.
+(14) A kísérleti előállítást végző üzem és a tiszta növényiolaj-gyártó adóraktár esetében a 35–40. §-t, így az adóraktári engedélyezésre, az adóraktár-engedélyes bizonylatolási, nyilvántartási és elszámolási kötelezettségére – a jövedékibiztosíték-nyújtáson kívül – jogszabályban meghatározott eltérésekkel kell alkalmazni.
 
 (15) A kísérleti előállítást végző üzemben előállított bioüzemanyag kizárólag a kísérleti fejlesztés keretében használható fel, egyébként meg kell semmisíteni.
 

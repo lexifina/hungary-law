@@ -1,6 +1,6 @@
 ## Alkoholtermék teljes denaturálása, a teljesen denaturált alkohol kiszerelése, beszerzése
 
-69. § (1) Az alkoholtermék teljes denaturálását szeszüzemben vagy alkoholregeneráló és denaturáló üzemben, az e törvény végrehajtási rendeletében meghatározott denaturálási eljárással kell elvégezni.
+69. § (1) Az alkoholtermék teljes denaturálását szeszüzemben vagy alkoholregeneráló és denaturáló üzemben, a 3199/93/EK Bizottsági rendeletben meghatározott eljárások közül a valamennyi tagállamban alkalmazható denaturálási eljárással vagy a Magyarország által bejelentett denaturálási eljárással kell elvégezni.
 
 (2) Teljesen denaturált alkoholterméknek kell tekinteni – az (1) bekezdésben foglaltakon túl –:
 

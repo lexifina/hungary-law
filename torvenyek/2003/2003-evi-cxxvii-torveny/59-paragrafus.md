@@ -6,7 +6,7 @@ a) az egyéb ellenőrzött ásványolaj kiszerelése, a 7. § 1. pontjának m) a
 
 b) a megfigyelt termék előállítása (ideértve, ha a gyártási tevékenység során melléktermékként keletkezik), kivéve az 58. § (1) bekezdés a)–c), h), i) pontja és a 72. § (1) bekezdés i) pontja szerinti adóraktári engedéllyel, illetve a 68. § (1) bekezdés d) pontja szerinti keretengedéllyel végzett előállítást;
 
-c) a megfigyelt termék felhasználása, kiszerelése, kivéve a (2) bekezdés szerinti felhasználást, valamint a biodízelnek ásványolaj-adóraktárban gázolajba történő bekeverését.
+c) a megfigyelt termék felhasználása, kiszerelése, kivéve a (2) bekezdés szerinti felhasználást.
 
 A felhasználás célja nem lehet az 52. § (1) bekezdésében megjelölt ásványolajtermék belföldi előállítása vagy az egyéb ellenőrzött ásványolaj és a megfigyelt termék üzemanyagként vagy tüzelő-, fűtőanyagként történő felhasználása.
 

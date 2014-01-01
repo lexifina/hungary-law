@@ -20,13 +20,13 @@ ba) az adóhatósághoz vagy a vámhatósághoz teljesítendő adóbevallási k�
 
 bb) az adóhatósághoz vagy a vámhatósághoz teljesítendő adófizetési, társadalombiztosítási járulékfizetési kötelezettségét vagy vámtartozását az esedékességet követő 60 napon belül nem teljesítette, feltéve, hogy a kötelezettség összege a 100 ezer forintot meghaladja, kivéve, ha az engedélyes az adóraktári engedély visszavonására irányuló hatósági eljárás megkezdéséig a kötelezettségét megfizette, vagy
 
-bc) terhére a vámhatóság vagy az adóhatóság a vizsgált időszakra vonatkozó adókötelezettség 10 százalékát meghaladó adóhiányt jogerősen állapít meg, és a magatartás jellegére tekintettel az adóbírság mérséklését az Art. 171. § (1) bekezdése kizárja;
+bc) terhére a vámhatóság vagy az adóhatóság a vizsgált időszakra vonatkozó adókötelezettség 10 százalékát meghaladó adóhiányt jogerősen állapít meg, és a magatartás jellegére tekintettel az adóbírság mérséklését az Art. 171. § (2) bekezdése kizárja;
 
 c) az adóraktár engedélyese a 37. § (10) bekezdése szerinti hiányosság megszüntetésére a vámhatóság által megadott határidőn belül nem intézkedik;
 
-d) a felemelt biztosíték összegét a határozat kézbesítését követő 30 napon belül nem teljesítik;
+d)
 
-e) a 35. § (1) bekezdés a), d)–f) pontjában és (3) bekezdésében meghatározott feltételek nem teljesülnek;
+e) a 35. § (1) bekezdés a) és e) pontjában és (3) bekezdésében meghatározott feltételek nem teljesülnek;
 
 f) a 35. § (1) bekezdés g) pontjában meghatározott feltétel nem teljesül.
 

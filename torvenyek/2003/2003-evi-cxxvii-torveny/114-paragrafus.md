@@ -26,18 +26,50 @@ g) az e törvényben előírt engedély nélkül előállított megfigyelt term�
 
 h) a 15. § (2) bekezdés c) pontja szerinti ásványolajat, kivéve ha az adóraktáron kívül előállítható ásványolajra az adó kivetését kérték;
 
-i) a jelölt gázolajat, ha azt áru- vagy személyszállítást gazdasági tevékenység keretében végző hajó üzemanyagtartályából eltávolították (kivették);
+i) a jelölt gázolajat, ha azt áru- vagy személyszállítást gazdasági tevékenység keretében végző hajó üzemanyagtartályából eltávolították (kivették), ide nem értve az 58. § (10) bekezdése szerinti esetet,
 
 j) azt az alkoholterméket, amelyből a teljes denaturáláshoz felhasznált anyagokat részben vagy egészben kivonták, vagy olyan anyagot adtak hozzá, amely a teljesen denaturált alkohol hatását ízre vagy szagra megváltoztatta, vagy azt a teljesen vagy részlegesen denaturált alkoholterméket, amelyet az e törvény hatálya alá tartozó adóköteles ital előállításához használtak fel, illetve amelyet az előbbiek szerint az élvezeti célra szolgáló termékben hoztak forgalomba, értékesítettek vagy tartanak birtokban;
 
-k) azt a párlatot, amelyet a bérfőzető a 67. § (2) bekezdésének, a magánfőző a 67. § (2) bekezdés b) pontjának rendelkezését megsértve értékesít,
+k) azt a párlatot, amelyet a bérfőzető a 67. § (2) bekezdésének, a magánfőző a 67. § (2) bekezdés b) pontjának rendelkezését megsértve értékesít, valamint azt az alkoholterméket, amelyet a 74. § (1b) bekezdés előírásait megsértve állítanak elő, használnak fel vagy értékesítenek,
 
 l) a 76. § (4) bekezdésben előírtak megsértésével előállított, értékesített vagy a 76. § (5) bekezdés szerint bejelenteni elmulasztott sört, a 80. § (3) bekezdés c) pontjában előírtak megsértésével előállított, értékesített vagy a 80. § (4) bekezdés szerint bejelenteni elmulasztott egyéb bort és a 89. § (3) bekezdésben előírtak megsértésével előállított, értékesített vagy a 89. § (4) bekezdés szerint bejelenteni elmulasztott pezsgőt [a továbbiakban az a)–l) pontban megjelölt termék: adózás alól elvont termék].
 
-(3) Az (1) bekezdés szerinti jövedéki bírság alapja az adózás alól elvont termék mennyisége és a bírság megállapításakor hatályos adómérték – a (2) bekezdés g) pont szerinti adózás alól elvont termék esetében az 52. § (1) bekezdés a) pontjában meghatározott adómérték, az 52. § (1) bekezdés f) pontja szerinti, nem közúti járművek üzemanyagaként, vagy nem egyéb motorikus célra értékesített importált vagy felhasznált adózás alól elvont termék esetében az 52. § (1) bekezdés f) pontja szerinti legmagasabb adómérték – alapján számított adó, illetve a szőlőbor esetében az adózás alól elvont termék literben mért mennyisége és 30 forint szorzataként meghatározott összeg. A jövedéki bírság mértéke a bírságalap kétszerese, de legalább 30 ezer forint.
+(3) Az (1) bekezdés szerinti jövedéki bírság mértéke
+
+a) az adózás alól elvont
+
+aa) szőlőbor literben,
+
+ab) – a 74. § (1b) bekezdés előírásainak megsértésével előállított – alkoholterméknek, ha az adózás alól elvont termék előállításához felhasznált alapanyag mennyisége, fajtája ismert és az adózás alól elvont termék mennyisége más módon nem állapítható meg, a 3. számú melléklet alkalmazásával,
+
+ac) – az aa) és ab) pontban nem említett – terméknek az adó alapjaként meghatározott mennyiségi egységben
+
+meghatározott mennyisége és
+
+b) a bírság megállapításakor hatályos,
+
+ba) a (2) bekezdés g) pont szerinti adózás alól elvont termék – kivéve a 2901 10 vámtarifaszámú cseppfolyósított szénhidrogén – esetében az 52. § (1) bekezdés a) pontjában meghatározott,
+
+bb) a 2901 10 vámtarifaszámú cseppfolyósított szénhidrogén és az 52. § (1) bekezdés f) pontja szerinti, nem közúti járművek üzemanyagaként, vagy nem egyéb motorikus célra értékesített importált vagy felhasznált adózás alól elvont termék esetében az 52. § (1) bekezdés f) pontja szerinti legmagasabb,
+
+bc) – a ba), bb) és c) pontban nem említett – egyéb termék esetében a termékre meghatározott
+
+adómérték, vagy
+
+c) szőlőbor esetében 30 forint
+
+szorzatának kétszerese, de legalább 30 ezer forint.
 
 (4) A gazdálkodó szervezet – a jövedéki termékkel gazdasági tevékenységet nem folytató egyéni vállalkozó kivételével –, amennyiben az (1) bekezdés a) és b) pontjában meghatározott tevékenységet folytat, a (3) bekezdés szerinti bírságalap kétszeresének, kereskedelmi mennyiség esetében ötszörösének megfelelő mértékű jövedéki bírság fizetésére köteles. A jövedéki bírság legkisebb összege 150 ezer forint. Nem vethető ki jövedéki bírság a külön jogszabály szerint nyilvántartásba vett mezőgazdasági felhasználóra, ha az általa felhasznált gázolaj jövedéki adójának visszatérítését a vámhatóság kiutalás előtt ellenőrizte.
 
-(5) A felhasználói engedélyes az egyéb ellenőrzött ásványolajnak, a megfigyelt terméknek vagy a teljesen denaturált alkoholnak, az adóraktár-engedélyes az 50. § (4) bekezdése szerinti megfigyelt terméknek vagy a teljesen denaturált alkoholnak a 60. § (3) bekezdés szerinti elszámolással megállapított, nem engedélyezett célra történt felhasználása (készlethiánya) esetén az ilyen felhasználásként kimutatott mennyiség és az 52. § (1) bekezdés a) pontjában meghatározott, illetve – az 50. § (4) bekezdés e) pontja szerinti megfigyelt termék, továbbá a teljesen denaturált alkohol esetén – a 64. § (2) bekezdésében meghatározott, a bírság megállapításakor hatályos alacsonyabb adómérték alapján számított összeg kétszeresének megfelelő összegű, de legalább 50 ezer forint jövedéki bírságot fizet.
+(5) A felhasználói engedélyes az egyéb ellenőrzött ásványolajnak, a megfigyelt terméknek vagy a teljesen denaturált alkoholnak, az adóraktár-engedélyes az 50. § (4) bekezdése szerinti megfigyelt terméknek vagy a teljesen denaturált alkoholnak a 60. § (3) bekezdés szerinti elszámolással megállapított, nem engedélyezett célra történt felhasználása (készlethiánya) esetén az ilyen felhasználásként kimutatott mennyiség és a bírság megállapításakor hatályos,
+
+a) az 50. § (4) bekezdés e) pontja szerinti megfigyelt termék, továbbá a teljesen denaturált alkohol esetén a 64. § (2) bekezdésében meghatározott alacsonyabb,
+
+b) a 2901 10 vámtarifaszámú cseppfolyósított szénhidrogén esetén az 52. § (1) bekezdés f) pontja szerinti legmagasabb,
+
+c) az a) és b) pontban nem említett jövedéki termék esetén az 52. § (1) bekezdés a) pontjában meghatározott
+
+adómérték alapján számított összeg kétszeresének megfelelő összegű, de legalább 50 ezer forint jövedéki bírságot fizet.
 
 (6) A jövedéki ellenőrzés során feltárt olyan, az (1) bekezdésben meghatározott jövedékitörvény-sértés esetén, ahol az adózás alól elvont termék után számított jövedéki adó összege a 20 ezer forintot nem haladja meg, a jövedéki ellenőrzést végző gyorsított eljárás keretében a helyszínen jövedéki bírságot szabhat ki és szedhet be, és a lefoglalt adózás alól elvont terméket elkobozza, amennyiben a termék birtokosa, szállítója a törvénysértés tényét elismeri, továbbá a jogkövetkezményekről szóló tájékoztatást tudomásul veszi és jogorvoslati jogáról lemond. A (3) bekezdésben foglaltaktól eltérően a jövedéki bírság összege 20 ezer forint. Amennyiben a gyorsított eljárás feltételei nem állnak fenn, úgy az ellenőrzést végző az általános szabályok szerint jár el.

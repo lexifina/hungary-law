@@ -1,4 +1,4 @@
-120. § (1) A lefoglalt termékeket, zárjegyet, továbbá a 119. § (2) bekezdésének e)–f) pontjában említett eszközt el kell kobozni, ha a jövedéki ügyben jogerősen jövedéki bírság kerül kiszabásra.
+120. § (1) A lefoglalt termékeket, zárjegyet, szárított dohányt, illetve fermentált dohányt, továbbá a 119. § (2) bekezdésének e)–f) és h) pontjában említett eszközt el kell kobozni, ha a jövedéki ügyben jogerősen jövedéki bírság kerül kiszabásra, vagy ha a jövedéki bírság kiszabását a 116/A. § alapján a vámhatóság mellőzte.
 
 (1a) A 98/A. § (1) vagy (2) bekezdésében foglalt előírások megsértésével szabadforgalomba bocsátott, importált, más tagállamból behozott, értékesített, birtokolt dohánygyártmányt el kell kobozni, ha a kötelezettség megsértése miatt mulasztási bírság kerül kiszabásra.
 
@@ -16,13 +16,13 @@
 
 a) az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény hatálya alá tartozó terméket, a cukorcefrét és az abból előállított terméket, továbbá a külön jogszabályban meghatározott eljárástól eltérően előállított vagy kezelt bort, valamint a dohánygyártmányt meg kell semmisíteni;
 
-b) a zárjegyet és a 119. § (2) bekezdés e)–f) pontjában említett eszközöket meg kell semmisíteni;
+b) a zárjegyet és a 119. § (2) bekezdés e)–f) és h) pontjában említett eszközöket meg kell semmisíteni;
 
 c) az a) és b) pontba nem tartozó egyéb elkobzott termék és eszköz esetén a vámhatóság intézkedik azoknak az állam javára történő értékesítéséről vagy a (8) bekezdés szerinti átadásról, felhasználásról, egyébként meg kell semmisíteni;
 
 d) azokat a termékeket, amelyek értékesítése valamely szellemi tulajdonjogot sértene, meg kell semmisíteni.
 
-(8) Az elkobzott ásványolajtermékek
+(8) Az elkobzott ásványolajtermékek, valamint az ásványolajtermékekből vett, vámhatóság által tárolt és megsemmisítésre váró minták
 
 a) a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló törvény szerinti katasztrófa esetén a területileg illetékes védelmi bizottság elnökének, I–III. fokú árvíz- és belvíz-védekezési készültség esetén az érintett terület települési önkormányzata polgármesterének vagy a vízügyi igazgatási szervezet területi szerve vezetőjének kérelme alapján – a Nemzeti Adó- és Vámhivatal vezetője jóváhagyásával, elszámolási kötelezettség mellett – átadhatók;
 

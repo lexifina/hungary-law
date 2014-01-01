@@ -8,7 +8,7 @@ aa) belföldi rendeltetéssel vagy harmadik országba belföldről történő ki
 
 ab) ásványolaj-adóraktárból csővezetékes szállítás esetén, illetve a repülőtéri adóraktárból, valamint a 11. § (1) bekezdés g) pont gb) és gc) alpont szerinti esetben a külön jogszabályban meghatározott egyéb okmánnyal, bizonylattal tárolható ki,
 
-b) szabad forgalomba – kivéve a sűrítettgáz-töltő adóraktárból történő kiszállítást és a cseppfolyósítottgáz-töltő adóraktárból a cseppfolyósított gáz 25 kilogramm vagy annál kisebb palackban történő kiszállítását, valamint a 13. § (1) bekezdés c) pontjának ca) alpontja szerinti esetet – az eredet igazolására alkalmas bizonylat (a továbbiakban: egyszerűsített kísérő okmány) egyidejű kiállításával, és a szállítást végző részére történő átadásával bocsátható.
+b) szabad forgalomba – kivéve a sűrítettgáz-töltő adóraktárból történő kiszállítást és a cseppfolyósítottgáz-töltő adóraktárból a cseppfolyósított gáz 25 kilogramm vagy annál kisebb palackban történő kiszállítását, valamint a 13. § (1) bekezdés c) pontjának ca) alpontja és a 72. § (14) bekezdése szerinti esetet – az eredet igazolására alkalmas bizonylat (a továbbiakban: egyszerűsített kísérő okmány) egyidejű kiállításával, és a szállítást végző részére történő átadásával bocsátható.
 
 (2) Az adóraktár-engedélyes az e-TKO alkalmazásával beszerzett jövedéki terméknek az adóraktárában történt betárolásáról – a 22. § (4) bekezdés rendelkezésének értelemszerű alkalmazásával – elektronikus átvételi elismervényt állít ki és küld meg a vámhatósághoz.
 

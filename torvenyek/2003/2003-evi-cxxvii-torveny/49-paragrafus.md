@@ -20,7 +20,7 @@ c) a vámhatóság által kezdeményezett készletfelvétel esetén az ellenőrz
 
 a vámhatóság jelenlétében és ellenőrzése mellett készletfelvétellel megállapítja a tényleges készletet.
 
-(4) A vámhatóság a (3) bekezdés szerinti esetekben, az ott megjelölt időpontra vonatkozóan jegyzőkönyvvel megállapítja a készleten lévő jövedéki termék tényleges mennyiségének és nyilvántartás szerinti készletének különbözetét, a külön jogszabály szerint elszámolható veszteséget és az azt meghaladó készlethiányt, illetve a készlettöbbletet (együtt: különbözet). A különbözetet az elszámolási időszak zárókészletébe be kell számítani.
+(4) A vámhatóság a (3) bekezdés szerinti esetekben, az ott megjelölt időpontra vonatkozóan jegyzőkönyvvel megállapítja a készleten lévő jövedéki termék tényleges mennyiségének és nyilvántartás szerinti készletének különbözetét, a külön jogszabály szerint elszámolható veszteséget és az azt meghaladó készlethiányt, illetve a készlettöbbletet (együtt: különbözet). A különbözettel az elszámolási időszak zárókészletét módosítani kell.
 
 (5) Adó-visszaigénylés (adó-visszatérítés) esetén a kérelem elbírálása során végzett kiutalás előtti ellenőrzés a hatósági felügyelettel egy tekintet alá esik.
 

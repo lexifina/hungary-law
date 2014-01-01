@@ -10,13 +10,13 @@
 
 (5) A nyújtandó jövedéki biztosíték összege feleződik, ha az adóraktári engedélyt kérelmező vagy az adóraktár engedélyese megbízható adós.
 
-(6) A jövedéki biztosíték összegét hivatalból vagy kérelemre módosítani kell, ha az annak elfogadásánál figyelembe vett feltételek vagy körülmények megváltoztak. A jövedéki biztosíték csökkentése – ideértve az (5) bekezdés alapján lehetséges csökkentést is – kizárólag kérelemre történik.
+(6) A jövedéki biztosíték összegét módosítani kell, ha az annak elfogadásánál figyelembe vett feltételek vagy körülmények megváltoztak.
 
-(7) Az adóraktár engedélyese köteles a vámhatóságnak bejelenteni a jövedéki biztosíték megállapításánál figyelembe vett és az időarányos tényszámok alapján éves szinten várható termék-előállítás és betárolás mennyiségi adatainak olyan eltérését, amelynek alapján a jövedéki biztosíték több, mint 25 százalékkal való megemelése indokolt.
+(7) Az adóraktár engedélyese köteles a jövedéki biztosítékát megemelni, amennyiben a jövedéki biztosíték megállapításánál figyelembe vett és az időarányos tényszámok alapján éves szinten várható termék-előállítás és betárolás mennyiségi adatai olyan eltérést mutatnak, amelynek alapján a jövedéki biztosíték több mint 25 százalékkal való megemelése indokolt. A vámhatóság a jövedéki biztosíték megemelésének elmaradása esetén az adóraktári engedélyt az eset összes körülményeinek figyelembevételével, – különös tekintettel a nem teljesített adófizetési kötelezettség összegére – legfeljebb 30 napra felfüggesztheti. Ha az adóraktár engedélyese a felfüggesztés elrendelésétől számított 30 nap elteltével jövedéki biztosítékát nem emeli meg, a vámhatóság az adóraktári engedélyt visszavonja.
 
-(8) Hivatalból kötelező a jövedéki biztosíték összegének felülvizsgálata az adóraktári engedély kiadását követő legfeljebb 6 hónap elteltével, illetve azt követően évente, továbbá a (7) bekezdés szerinti esetben.
+(8)
 
-(9) A biztosíték összegének hivatalból történő felemelése esetén az adóraktár engedélyese az első fokú határozat, illetve – fellebbezés esetén – a másodfokú határozat közlésétől számított 30 napon belül köteles gondoskodni a biztosíték kiegészítéséről. A biztosíték összegének csökkentése esetén a vámhatóság haladéktalanul intézkedik a különbözet felszabadításáról, illetve visszafizetéséről.
+(9) A biztosíték összegének csökkentése esetén a vámhatóság haladéktalanul intézkedik a különbözet felszabadításáról vagy visszafizetéséről.
 
 (10) Ha az adóraktári engedély megszűnik, a jövedéki biztosíték csak a készleten maradt jövedéki termék utáni adó, illetve a 21. § (4) bekezdés szerinti adófizetési kötelezettség teljesítését követően szabadítható fel.
 

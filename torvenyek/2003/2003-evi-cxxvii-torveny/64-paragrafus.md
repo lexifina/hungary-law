@@ -27,3 +27,5 @@ c) az az 52. § (1)–(2) bekezdés szerinti adómérték alá esik.
 (8) Amennyiben egy háztartásban több bérfőzető vagy több magánfőző él, a 9. § (3) bekezdésében, a 63. § (2) bekezdés 11. pontjában, e § (3) és (6) bekezdésében meghatározott éves mennyiségi korlátok szempontjából az általuk főzetett, illetve főzött mennyiségek egybeszámítandók.
 
 (9) Nem kell alkalmazni az (1)–(2) bekezdés rendelkezését a 2208 vámtarifaszámú, 1,2 térfogatszázaléknál nagyobb alkoholtartalmú termékre, amennyiben az keretengedéllyel előállított vagy más tagállamból, harmadik országból behozott, a 68. § (1) bekezdés a) pontjában megnevezett termék.
+
+(10) Az alkoholtermékek kutatásához kapcsolódó tudományos célra és – köznevelési vagy felsőoktatási intézmény által vagy megbízásából – oktatási célra (a továbbiakban együtt: tudományos és oktatási cél) előállított és ugyanezen célra felhasznált alkoholtermék esetében nem kell alkalmazni az (1) és (2) bekezdés rendelkezéseit, amennyiben az előállított alkoholtermék felhasználása (megsemmisítése) az előállítónál történik.
