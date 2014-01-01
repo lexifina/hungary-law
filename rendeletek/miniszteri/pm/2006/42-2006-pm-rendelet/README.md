@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-42-20-5
 | --- | --- | --- |
 | 2009-12-12 | 2006-42-20-53.2 | 42/2006. (XII. 25.) PM rendelet |
 | 2010-01-15 | 2006-42-20-53.3 | 29/2009. (XII. 4.) PM rendelet |
+| 2014-01-01 | 2006-42-20-53.4 | 54/2014. (XII. 31.) NGM rendelet |
