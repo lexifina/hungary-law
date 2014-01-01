@@ -4,7 +4,7 @@
 
 a) a jogosult természetes személyazonosító adatait;
 
-b) a jogosult állampolgárságát, illetőleg bevándorolt, letelepedett vagy menekült jogállását;
+b) a jogosult állampolgárságát, illetve bevándorolt, letelepedett, menekült vagy hontalan jogállását;
 
 c) a jogosult belföldi lakó , és/vagy tartózkodási helyét;
 

@@ -30,7 +30,9 @@ a) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazás�
 
 b) a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek jogosulti körébe tartozó, a szabad mozgás és tartózkodás jogával rendelkező személy, amennyiben az ellátás igénylésének időpontjában az Szmtv.-ben meghatározottak szerint a szabad mozgáshoz és tartózkodáshoz való jogát Magyarország területén gyakorolja, a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett lakóhellyel rendelkezik, és az e törvényben meghatározott feltételeknek megfelel,
 
-c) a magas szintű képzettséget igénylő munkavállalás és tartózkodás céljából kiállított engedéllyel (EU Kék Kártyával) rendelkező harmadik országbeli állampolgár, amennyiben az e törvényben meghatározott feltételeknek megfelel és rendelkezik a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett lakóhellyel vagy tartózkodási hellyel.
+c) a magas szintű képzettséget igénylő munkavállalás és tartózkodás céljából kiállított engedéllyel (EU Kék Kártyával) rendelkező harmadik országbeli állampolgár, amennyiben az e törvényben meghatározott feltételeknek megfelel és rendelkezik a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett lakóhellyel vagy tartózkodási hellyel,
+
+d) az összevont engedéllyel rendelkező, Magyarország területén jogszerűen tartózkodó harmadik országbeli állampolgár.
 
 (3) A súlyosan fogyatékos személy nem jogosult fogyatékossági támogatásra ha
 
