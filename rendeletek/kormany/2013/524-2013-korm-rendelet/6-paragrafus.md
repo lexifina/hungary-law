@@ -1,3 +1,7 @@
-## 5. § Az R1. a következő 29/B. §-sal egészül ki:
+## 5. §[^3]
 
-## „29/B. § A 2014. február 1-jéig bejelentett mozgóbolt útján folytatott kereskedelmi tevékenységet, valamint üzleten kívüli kereskedelmet végző kereskedők nyilvántartásának adatait a székhely szerinti jegyző 2014. február 1-jéig átadja a kereskedelmi tevékenység helye szerinti jegyzők részére.”
+6. § (1) Az R1. 1. melléklete az 1. melléklet szerint módosul.
+
+(2) Az R1. 2. melléklete a 2. melléklet szerint módosul.
+
+[^3]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,0 +1,3 @@
+## 2. § Az R1. 6. §-a a következő (2b) bekezdéssel egészül ki:
+
+## „(2b) Az üzleten kívüli kereskedelem keretében a termék forgalmazása céljából a vásárlónak szervezett utazást vagy rendezvényt a kereskedő köteles – az utazás vagy rendezvény helyének és időpontjának megjelölésével – legkésőbb tizenöt nappal megelőzően az 1. melléklet 4a. pontja szerinti adattartalommal a jegyző részére bejelenteni. A jegyző a bejelentés másolatát soron kívül, de legkésőbb a bejelentés beérkezését követő három napon belül megküldi az utazás vagy a rendezvény helye szerint illetékes fogyasztóvédelmi felügyelőségnek.”
