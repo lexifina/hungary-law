@@ -1,1 +1,0 @@
-A Kormány az atomenergiáról szóló 1996. évi CXVI. törvény (a továbbiakban: At.) 67. §-ának f) pontjában kapott felhatalmazás alapján az At. 10. §-ának (4) bekezdésében, 40–41. §-ában és 62–64. §-ában foglalt rendelkezések végrehajtására a következőket rendeli el:
