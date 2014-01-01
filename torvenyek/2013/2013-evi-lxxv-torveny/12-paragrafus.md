@@ -1,0 +1,1 @@
+12. § A Gyvt. 34. § (8) bekezdésében a „rendkívüli gyermekvédelmi támogatás formájában nyújthat segítséget [21. § (2) bek.]” szövegrész helyébe az „az Szt. szerinti önkormányzati segély formájában nyújthat segítséget” szöveg lép.
