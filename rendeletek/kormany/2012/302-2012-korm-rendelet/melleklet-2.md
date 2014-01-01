@@ -6,13 +6,13 @@
 
 | 2. | Kiemelt beruházásként citromsav előállító üzem és annak építményei | Az 1. § (1) bekezdése szerinti terület | általános építésügyi hatósági engedélyezési eljárás | Szolnoki Járási Hivatal járási építésügyi és örökségvédelmi hivatala | Jász-Nagykun- Szolnok Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
-| 3. | környezetvédelmi hatósági engedélyezési eljárás | Közép-Tiszavidéki Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 3. | környezetvédelmi hatósági engedélyezési eljárás | Közép-Tisza-vidéki Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
-| 4. | természetvédelmi hatósági engedélyezési eljárás | Közép-Tiszavidéki Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 4. | természetvédelmi hatósági engedélyezési eljárás | Közép-Tisza-vidéki Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
 | 5. | útügyi hatósági engedélyezési eljárás | Jász-Nagykun- Szolnok Megyei Kormányhivatal Közlekedési Felügyelőség | Nemzeti Közlekedési Hatóság Központ |
 
-| 6. | vízjogi engedélyezési eljárás | Közép-Tiszavidéki Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 6. | vízjogi engedélyezési eljárás | Közép-Tisza-vidéki Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
 | 7. | A Magyar Kereskedelmi Engedélyezési Hivatalról és a területi mérésügyi és műszaki biztonsági hatóságokról szóló 320/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdése és 13. § (2) bekezdése szerinti engedélyezési eljárás | Hajdú-Bihar Megyei Kormányhivatal Debreceni Mérésügyi és Műszaki Biztonsági Hatóság (Debrecen) | Magyar Kereskedelmi Engedélyezési Hivatal |
 
@@ -50,7 +50,9 @@ Az 1. melléklet szerinti kiemelt jelentőségű ügyekben közreműködő szakh
 
 | 2. | építésügy | Szolnoki Járási Hivatal járási építésügyi és örökségvédelmi hivatala | Jász-Nagykun-Szolnok Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
-| 3. | környezetvédelem, természetvédelem és vízügy | Közép-Tiszavidéki Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezet-védelmi, Természet-védelmi és Vízügyi Főfelügyelőség |
+| 3. | környezet- és természetvédelem | Közép-Tisza-vidéki Környezetvédelmi, Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+
+| 3a. | vízügy | Közép-Tisza-vidéki Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
 | 4. | közlekedés |
 
@@ -94,4 +96,4 @@ Az 1. melléklet szerinti kiemelt jelentőségű ügyekben közreműködő szakh
 
 | 17. | Területrendezési előírásokkal való összhang | Hajdú-Bihar Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatalának állami főépítésze | területrendezésért felelős miniszter |
 
-[^2]: A 2. melléklet a 394/2012. (XII. 20.) Korm. rendelet 63. §-a szerint módosított szöveg.
+[^2]: A 2. melléklet a 394/2012. (XII. 20.) Korm. rendelet 63. §-a, az 527/2013. (XII. 30.) Korm. rendelet 122. § (1) bekezdése szerint módosított szöveg.
