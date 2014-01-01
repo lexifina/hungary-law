@@ -1,4 +1,4 @@
-## 26. §[^6]
+## 26. §[^7]
 
 1. melléklet a 312/2011. (XII. 23.) Korm. rendelethez
 
@@ -6,4 +6,4 @@
 
 A. Veszélyes áruk vasúti továbbítása esetén
 
-[^6]: A 26. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 26. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
