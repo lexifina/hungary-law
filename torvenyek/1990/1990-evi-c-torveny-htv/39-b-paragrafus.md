@@ -2,7 +2,7 @@
 
 (2) A kisvállalati adó hatálya alá tartozó vállalkozó az adó alapját – a 39. § (1) bekezdésében, vagy a 39/A. §-ban foglalt előírásoktól eltérően – a kisvállalati adója alapjának 20%-kal növelt összegében is megállapíthatja.
 
-(3) A kisadózó vállalkozások tételes adója hatálya alá tartozó vállalkozó (a továbbiakban e § alkalmazásában: kisadózó vállalkozás) – kizárólag e minősége fennállásának időtartamával egyező időtartamra vonatkozó, meg nem változtatható – döntése esetén az adó adóévi alapja – a 39. § (1) bekezdésében, vagy a 39/A. §-ban foglalt előírásoktól eltérően – székhelye és telephelye szerinti önkormányzatonként 2,5-2,5 millió forint. Ha a kisadózó vállalkozás e minősége szerinti adókötelezettsége valamely településen az adóév egészében nem áll fenn, vagy a kisadózó vállalkozások tételes adójában az adófizetési kötelezettsége szünetel, akkor az adó önkormányzatonkénti alapja a 2,5 millió forintnak az adókötelezettség időtartama naptári napjai alapján arányosított része.
+(3) A kisadózó vállalkozások tételes adója hatálya alá tartozó vállalkozó (a továbbiakban e § alkalmazásában: kisadózó vállalkozás) (9) bekezdés szerint bejelentett döntése esetén, az adó adóévi alapja – a 39. § (1) bekezdésében, vagy a 39/A. §-ban foglalt előírásoktól eltérően – székhelye és telephelye szerinti önkormányzatonként 2,5-2,5 millió forint. Ha a kisadózó vállalkozás e minősége szerinti adókötelezettsége valamely településen az adóév egészében nem áll fenn, vagy a kisadózó vállalkozások tételes adójában az adófizetési kötelezettsége szünetel, akkor az adó önkormányzatonkénti alapja a 2,5 millió forintnak az adókötelezettség időtartama naptári napjai alapján arányosított része.
 
 (4) Ha a kisadózó vállalkozás a (3) bekezdés szerinti adóalap-megállapítást választja és a kisadózó vállalkozás adókötelezettségének időtartama az adóévben
 
@@ -12,13 +12,17 @@ b) 12 hónapnál rövidebb, akkor adóját két egyenlő részletben a kisadóz�
 
 fizeti meg.
 
-(5) A kisadózó vállalkozást e minőségére tekintettel – a 41. §-ban és az adózás rendjéről szóló törvényben foglaltaktól eltérően, a (6)–(7) bekezdésekben foglaltak kivételével – adóelőleg-bejelentési, -bevallási, és -fizetési kötelezettség, valamint adóbevallás-benyújtási kötelezettség, továbbá a 39. § (2) bekezdése szerinti adóalap-megosztási kötelezettség nem terheli.
+(5) A (3) bekezdés szerinti adóalap-megállapítást választó kisadózó vállalkozást e minőségére tekintettel – a 41. §-ban és az adózás rendjéről szóló törvényben foglaltaktól eltérően, a (6)–(7) bekezdésekben foglaltak kivételével – adóelőleg-bejelentési, -bevallási, és -fizetési kötelezettség, valamint adóbevallás-benyújtási kötelezettség, továbbá a 39. § (2) bekezdése szerinti adóalap-megosztási kötelezettség nem terheli.
 
-(6) A (3) bekezdés szerinti adóalap-megállapítást alkalmazó kisadózó vállalkozás az önkormányzati adóhatóság által rendszeresített nyomtatványon adóbevallást nyújt be, ha
+(6) A (3) bekezdés szerinti adóalap-megállapítást alkalmazó kisadózó vállalkozás adóbevallást nyújt be,
 
-a) a kisadózó vállalkozások tételes adójában fennálló adóalanyisága bármely ok miatt megszűnik, a megszűnés hónapjának utolsó napját követő 15 napon belül,
+a) a megszűnés hónapjának vagy a szünetelés kezdő hónapjának utolsó napját követő 15 napon belül, ha kisadózó vállalkozásként adóalanyisága bármely ok miatt megszűnt (szünetel),
 
-b) a (3) bekezdés szerint az adóévre fizetendő adó a (4) bekezdés alapján az adóévre ténylegesen megfizetett adóösszegnél azért kevesebb, mert a kisadózók tételes adójában az adófizetési kötelezettség szünetelésének volt helye. Ekkor a kisadózó vállalkozásnak az adóévi adókötelezettségre jutó és a ténylegesen megfizetett adó összegéről, annak különbözetéről az adóévet követő év január 15-ig kell bevallást benyújtania, a különbözet ekkortól igényelhető vissza.
+b) az adóévet követő év január 15-ig, ha
+
+ba) a (3) bekezdés szerint az adóévre fizetendő adó a (4) bekezdés alapján az adóévre ténylegesen megfizetett adóösszegnél azért kevesebb, mert a kisadózó vállalkozások tételes adójában az adófizetési kötelezettség szünetelésének volt helye,
+
+bb) az önkormányzat rendelete alapján az adóévben adóalap-mentességre, adókedvezményre, a 39/D. § alapján az adóalap vagy a 40/A. § alapján az adó csökkentésére jogosult és az adót csökkenteni kívánja.
 
 (7) A vállalkozó a (6) bekezdés a) pontja szerinti bevallás-benyújtással egyidejűleg:
 
@@ -28,7 +32,7 @@ b) a 41. § (3) és (6) bekezdések alkalmazásával adóelőleget is bevall, fe
 
 (8) Ha a kisadózó vállalkozás a (3) bekezdés szerinti adóalap-megállapítást adóév közben választja, akkor az adóév első napjától a kisadózó vállalkozások tételes adójában fennálló adóalanyisága kezdő napját megelőző napig terjedő adóköteles időtartamról adóbevallást nyújt be az önkormányzati adóhatósághoz.
 
-(9) A (3) bekezdés szerinti adóalap-megállapítás választását a vállalkozó – az önkormányzati adóhatóság által rendszeresített – bejelentkezési, bejelentési, bevallási nyomtatványon, a kisadózó vállalkozások tételes adójának hatálya alá tartozás napjától számított 15 napon belül jelenti be az önkormányzati adóhatóság számára. A bejelentkezési, bejelentési, bevallási nyomtatvány végrehajtható okiratnak minősül.
+(9) A (3) bekezdés szerinti adóalap-megállapítás választását a vállalkozó – az önkormányzati adóhatóság által rendszeresített – bejelentkezési, bejelentési, bevallási nyomtatványon, a kisadózó vállalkozások tételes adójának hatálya alá tartozás kezdő napjától számított 15 napon belül vagy január 15-ig jelenti be az önkormányzati adóhatóság számára. A vállalkozó e döntése a teljes adóévre vonatkozik, s utoljára abban az adóévben érvényes, amelyben bejelenti, hogy az adó alapját nem a (3) bekezdésben foglaltak szerint kívánja megállapítani. A bejelentkezési, bejelentési, bevallási nyomtatvány végrehajtható okiratnak minősül.
 
 (10) Az adó alapjának az (1)–(2) bekezdés szerinti megállapítása adóévre választható, az erről szóló bejelentést a 39/A. § (5) bekezdése szerint kell megtenni.
 

@@ -16,4 +16,4 @@ f)
 
 g)
 
-h) az ingatlan-nyilvántartási állapot szerint állattartásra vagy növénytermesztésre szolgáló épület vagy az állattartáshoz, növénytermesztéshez kapcsolódó tároló épület (pl. istálló, üvegház, terménytároló, magtár, műtrágyatároló), feltéve, hogy az épületet az adóalany rendeltetésszerűen állattartási, növénytermesztési tevékenységéhez kapcsolódóan használja.
+h) az ingatlan-nyilvántartási állapot szerint állattartásra vagy növénytermesztésre szolgáló építmény vagy az állattartáshoz, növénytermesztéshez kapcsolódó tároló építmény (pl. istálló, üvegház, terménytároló, magtár, műtrágyatároló), feltéve, hogy az építményt az adóalany rendeltetésszerűen állattartási, növénytermesztési tevékenységéhez kapcsolódóan használja.

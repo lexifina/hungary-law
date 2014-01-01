@@ -10,4 +10,4 @@ c) a közép- és felsőfokú oktatási intézménynél tanulói vagy hallgatói
 
 d) aki az önkormányzat illetékességi területén lévő üdülő tulajdonosa vagy bérlője, továbbá a használati jogosultság időtartamára a lakásszövetkezet tulajdonában álló üdülő használati jogával rendelkező lakásszövetkezeti tag, illetőleg a tulajdonos, a bérlő hozzátartozója, valamint a lakásszövetkezet tulajdonában álló üdülő használati jogával rendelkező lakásszövetkezeti tag használati jogosultságának időtartamára annak hozzátartozója [Ptk. 685. § b) pontja];
 
-e) az egyházi jogi személy tulajdonában lévő épületben, telken vendégéjszakát – kizárólag az egyházi jogi személy hitéleti tevékenységéhez kapcsolódó részvétel céljából – eltöltő egyházi személy.
+e) az egyházi jogi személy tulajdonában lévő építményben, telken vendégéjszakát – kizárólag az egyházi jogi személy hitéleti tevékenységéhez kapcsolódó részvétel céljából – eltöltő egyházi személy.

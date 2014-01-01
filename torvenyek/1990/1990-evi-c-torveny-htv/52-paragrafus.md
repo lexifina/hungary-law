@@ -12,33 +12,33 @@
 
 4. külterület: a település közigazgatási határának belterületén kívül eső földrészlete, ideértve a zártkertet is,
 
-5. építmény: a rendeltetésére, szerkezeti megoldására, anyagára és kiterjedésére tekintet nélkül minden olyan helyhez kötött műszaki alkotás, amely a talaj, a víz vagy azok feletti légtér megváltoztatásával, beépítésével jött létre;
+5. épület: az épített környezet alakításáról és védelméről szóló törvény szerinti olyan építmény vagy annak azon része, amely a környező külső tértől szerkezeti elemekkel részben vagy egészben mesterségesen kialakított, elválasztott teret alkot és ezzel az állandó vagy időszakos tartózkodás, illetve használat feltételeit biztosítja, ideértve az olyan önálló létesítményt is, amely részben vagy teljes belmagasságával a környező csatlakozó terepszint alatt van;
 
-6. épület: az olyan építmény, vagy az építmény azon része, amely a környező külső tértől szerkezeti elemekkel részben vagy egészben mesterségesen kialakított, elválasztott teret alkot és ezzel az állandó vagy időszakos tartózkodás, illetőleg használat feltételeit biztosítja, ideértve az olyan önálló létesítményt is, amely részben vagy teljes belmagasságával a környező csatlakozó terepszint alatt van. Épületrész az épület önálló rendeltetésű, a szabadból vagy az épület közös közlekedőjéből nyíló önálló bejárattal ellátott helyisége vagy helyiség-csoportja, amely a 8., a 20., a 45. és 47. pontokban foglaltak szerint azzal felel meg lakásnak, üdülőnek, kereskedelmi egységnek, egyéb nem lakás céljára szolgáló épületnek, hogy az ingatlan-nyilvántartásban önálló ingatlanként nem szerepel;
+6. épületrész: az épület önálló rendeltetésű, a szabadból vagy az épület közös közlekedőjéből nyíló önálló bejárattal ellátott helyisége vagy helyiség-csoportja, amely a 8., a 20., a 45. és 47. pontokban foglaltak szerint azzal felel meg lakásnak, üdülőnek, kereskedelmi egységnek, egyéb nem lakás céljára szolgáló épületnek, hogy az ingatlan-nyilvántartásban önálló ingatlanként nem szerepel;
 
-7. tulajdonos: az ingatlan tulajdonosa az a személy vagy szervezet, aki/amely az ingatlan-nyilvántartásban tulajdonosként szerepel. Amennyiben az ingatlan tulajdonjogának átruházására irányuló szerződést az ingatlanügyi hatósághoz benyújtották – melynek tényét az ingatlanügyi hatóság széljegyezte –, a szerző felet kell tulajdonosnak tekinteni. Újonnan létrehozott épület/épületrész tulajdonjogának – a használatbavételi engedély jogerőre emelkedését megelőző – átruházása esetén a szerződés ingatlanügyi hatósághoz történő benyújtását követően a szerző felet a használatbavételi engedély jogerőre emelkedésének időpontjától kell tulajdonosnak tekinteni. Egyéb módon történő tulajdonszerzés esetére a Polgári Törvénykönyv vonatkozó szabályai az irányadók;
+7. tulajdonos: az ingatlan tulajdonosa az a személy vagy szervezet, aki/amely az ingatlan-nyilvántartásban tulajdonosként szerepel. Amennyiben az ingatlan tulajdonjogának átruházására irányuló szerződést az ingatlanügyi hatósághoz benyújtották – melynek tényét az ingatlanügyi hatóság széljegyezte –, a szerző felet kell tulajdonosnak tekinteni. Újonnan létrehozott építmény tulajdonjogának – a használatbavételi engedély jogerőre emelkedését megelőző – átruházása esetén a szerződés ingatlanügyi hatósághoz történő benyújtását követően a szerző felet a használatbavételi engedély jogerőre emelkedésének időpontjától kell tulajdonosnak tekinteni. Egyéb módon történő tulajdonszerzés esetére a Polgári Törvénykönyv vonatkozó szabályai az irányadók;
 
 8. lakás: a lakások és helyiségek bérletére, valamint elidegenítésükre vonatkozó egyes szabályokról szóló 1993. évi LXXVIII. törvény 91/A. §-a 1–6. pontjában foglaltak alapján ilyennek minősülő és az ingatlan-nyilvántartásban lakóház, lakóépület, lakás, kastély, villa, udvarház megnevezéssel nyilvántartott, vagy ilyenként feltüntetésre váró ingatlan;
 
-9. hasznos alapterület: a teljes alapterületnek olyan része, ahol a belmagasság legalább 1,90 m. A teljes alapterületbe a lakáshoz, üdülőhöz tartozó kiegészítő helyiségek, melléképületek, melléképületrészek kivételével valamennyi helyiség összegzett alapterülete, valamint a többszintes lakrészek belső lépcsőjének egy szinten számított vízszintes vetülete is beletartozik. Az épülethez tartozó fedett és három oldalról zárt külső tartózkodók (lodzsa, fedett és oldalt zárt erkélyek), és a fedett terasz, tornác alapterületének 50%-a tartozik a teljes alapterületbe. A lakások esetében a pinceszinten (a csatlakozó terepszint alatt) kialakított helyiségek alapterületének 70%-át kell a teljes alapterületbe számítani.
+9. hasznos alapterület: a teljes alapterületnek olyan része, ahol a belmagasság legalább 1,90 m. A teljes alapterületbe a lakáshoz, üdülőhöz tartozó kiegészítő helyiségek, melléképületek, melléképületrészek kivételével valamennyi helyiség összegzett alapterülete, valamint a többszintes lakrészek belső lépcsőjének egy szinten számított vízszintes vetülete is beletartozik. Az építményhez tartozó fedett és három oldalról zárt külső tartózkodók (lodzsa, fedett és oldalt zárt erkélyek), és a fedett terasz, tornác alapterületének 50%-a tartozik a teljes alapterületbe. A lakások esetében a pinceszinten (a csatlakozó terepszint alatt) kialakított helyiségek alapterületének 70%-át kell a teljes alapterületbe számítani.
 
 10. kiegészítő helyiség: a lakáshoz, üdülőhöz tartozó, jellegénél és kialakításánál fogva csak tárolásra alkalmas padlás, pince, ide nem értve a gépjárműtárolót;
 
 11.
 
-12. építmény megszűnése: ha az épületet lebontják, vagy megsemmisül,
+12. építmény megszűnése: ha az építményt lebontják, vagy megsemmisül,
 
 13. korrigált forgalmi érték: az illetékekről szóló törvény alkalmazásával megállapított forgalmi érték 50%-a,
 
-14.
+14. erdő: az ingatlan-nyilvántartásban erdő művelési ágban nyilvántartott földterület, továbbá az a földterület, amelyet az Országos Erdőállomány Adattárban erdőként tartanak nyilván;
 
 15. ingatlan: a föld és a földdel alkotórészi kapcsolatban álló minden dolog,
 
-16. telek: az épülettel be nem épített földterület, ide nem értve
+16. telek: az építménnyel be nem épített földterület, ide nem értve
 
-a) a halastó kivételével a termőföldről szóló törvény szerint mező-, erdőgazdálkodási művelés alatt álló belterületi földnek minősülő földterületet, feltéve, ha az ténylegesen mezőgazdasági művelés alatt áll,
+a) a belterületen fekvő termőföldet, feltéve, ha az tényleges mezőgazdasági művelés alatt áll,
 
-b) a termőföldet,
+b) a külterületen fekvő termőföldet,
 
 c) a tanyát,
 
@@ -46,17 +46,21 @@ d) a közút területét,
 
 e) a vasúti pályát, a vasúti pálya tartozékai által lefedett földterületet,
 
-f) a temetőkről és a temetkezésről szóló törvény temető fogalma alá tartozó földterületet;
+f) a temetőkről és a temetkezésről szóló törvény temető fogalma alá tartozó földterületet,
 
-g) a halászatról és horgászatról szóló törvény szerinti víztározó területét;
+g) a halászatról és horgászatról szóló törvény szerinti víztározó területét,
 
-17. termőföld: a halastó kivételével a termőföldről szóló törvény szerinti termőföldnek minősülő földterület;
+h) az erdőt,
+
+i) az ingatlan-nyilvántartásban mocsárként nyilvántartott földterületet;
+
+17. termőföld: az ingatlan-nyilvántartásban szántó, szőlő, gyümölcsös, kert, rét, legelő (gyep), nádas, fásított terület, halastó művelési ágban nyilvántartott földrészlet;
 
 18. kommunális beruházás: a közmű (a településekre vagy azok jelentős részére kiterjedő elosztó és vezetékrendszerek és az ezekkel kapcsolatos létesítmények, amelyek a fogyasztók vízellátási — ideértve a belvíz-, a csapadék- és szennyvízelvezetési, tisztítási-, villamos energia, hő-, gázenergia és távbeszélési igényeit elégítik ki), valamint az út és járda építés,
 
-19.
+19. termék-előállító üzem: az az állandó jellegű üzleti létesítmény (épület, műtárgy), amelyet az elhelyezésére szolgáló telek utáni adó alanya saját termék előállítására vagy saját termék előállításával összefüggő célra (ideértve különösen a saját előállítású termék tárolását, szállítását, kiszolgálását, a termeléshez kapcsolódó irányító, kiszolgáló tevékenységeket) használ;
 
-20. üdülő: az ingatlan-nyilvántartásban üdülőként (üdülőépület, hétvégi ház, apartman, nyaraló, csónakház) feltüntetett vagy ilyenként feltüntetésre váró épület;
+20. üdülő: az ingatlan-nyilvántartásban üdülőként (üdülőépület, hétvégi ház, apartman, nyaraló, csónakház) feltüntetett vagy ilyenként feltüntetésre váró építmény;
 
 21. állandó lakos, aki a lakcímbejelentés szabályai szerint nyilvántartásba vett lakóhellyel, tartózkodási hellyel rendelkezik az önkormányzat illetékességi területén,
 
@@ -106,7 +110,11 @@ d) egyéni cég, egyéb szervezet, ideértve azt is, ha azok felszámolás vagy 
 
 b) azon távközlési tevékenységet végző vállalkozó esetén, amelynek
 
-ba) az adóévben a számviteli törvény szerinti nettó árbevétele legalább 75%-ban vezeték nélküli távközlési tevékenységből [TEÁOR'08 61.2] származik (vezeték nélküli távközlési tevékenységet végző vállalkozó), azon önkormányzat illetékességi területe, ahol az adóév első napján utólag fizetett díjú vezeték nélküli távközlési szolgáltatást igénybe vevő előfizetőjének (vezeték nélküli távközlési szolgáltatást igénybe vevő előfizető) számlázási címe található,
+ba) az adóévben a számviteli törvény szerinti nettó árbevétele legalább 75%-ban vezeték nélküli távközlési tevékenységből [TEÁOR'08 61.2] származik (vezeték nélküli távközlési tevékenységet végző vállalkozó)
+
+baa) az a) pont szerinti telephely és
+
+bab) azon önkormányzat illetékességi területe, ahol az adóév első napján utólag fizetett díjú vezeték nélküli távközlési szolgáltatást igénybe vevő előfizetőjének (vezeték nélküli távközlési szolgáltatást igénybe vevő előfizető) számlázási címe található,
 
 bb) az adóévben a számviteli törvény szerinti nettó árbevételének kevesebb, mint 75%-a származik vezeték nélküli távközlési tevékenységből [TEÁOR'08 61.2] (vezetékes távközlési tevékenységet végző vállalkozó), azon önkormányzat illetékességi területe, ahol az adóév első napján előfizetőjének távközlési szolgáltatást nyújt (vezetékes távközlési szolgáltatást igénybe vevő előfizető), valamint – ha a vállalkozó vezeték nélküli távközlési tevékenységet is végez – azon önkormányzat illetékességi területe, ahol a vezeték nélküli távközlési szolgáltatást igénybe vevő előfizetőjének adóév első napján a számlázási címe található,
 
@@ -244,7 +252,9 @@ kell megosztani a székhely, telephely szerinti önkormányzatok között.
 
 Az adóalap 50%-át a székhelye és a Htv. 52. § 31. pontja szerinti telephely(ek) szerinti települések között az 1.1. vagy a 2.1. pont szerinti megosztási módszer alkalmazásával kell megosztani. Az adóalap másik 50%-át pedig a Htv. 37. § (3) bekezdés szerint létrejött telephelyek szerinti települések között, az adott településen végzett építőipari tevékenységből [Htv. 52. § 24.] származó, számviteli törvény szerinti értékesítés nettó árbevétele és az adóév utolsó napján fennálló, építőipari tevékenységgel összefüggésben készletre vett befejezetlen termelés, félkésztermék, késztermék értéke együttes összegének, a vállalkozó 37. § (3) bekezdés szerint létrejött telephely szerinti valamennyi településen végzett építőipari tevékenységéből származó összes, számviteli törvény szerinti értékesítés nettó árbevétele és az adóév utolsó napján fennálló, építőipari tevékenységgel összefüggésben készletre vett összes befejezetlen termelés, félkésztermék, késztermék értéke együttes összegében képviselt aránya szerint kell megosztani.
 
-2.4.1. A vezeték nélküli távközlési tevékenységet végző vállalkozó – a 3. számú melléklet 1. és 2.1. pontjától eltérően – a helyi iparűzési adóalapját a székhelye, telephelye szerinti települések között a vezeték nélküli távközlési szolgáltatást igénybe vevő előfizetője számlázási címe alapján a településen az adóév első napján számlázási címmel rendelkező vezeték nélküli távközlési szolgáltatást igénybe vevő előfizetők számának az összes vezeték nélküli távközlési szolgáltatást igénybe vevő előfizetője adóév első napja szerinti számában képviselt aránya szerint osztja meg.
+2.4.1. A vezeték nélküli távközlési tevékenységet végző vállalkozó – a Melléklet 1. és 2.1. pontjától eltérően – a helyi iparűzési adóalapját a székhelye, telephelye szerinti települések között következők szerint köteles megosztani:
+
+Az adóalap 20%-át a székhelye és a Htv. 52. § 31. pont baa) alpontja szerinti telephely(ek) szerinti települések között az 1. vagy a 2.1. pont szerinti megosztási módszer alkalmazásával kell megosztani. Az adóalap 80%-át pedig a székhelye és a Htv. 52. § 31. pont bab) alpontja szerinti telephelye szerinti települések között a vezeték nélküli távközlési szolgáltatást igénybe vevő előfizetője számlázási címe alapján a településen az adóév első napján számlázási címmel rendelkező vezeték nélküli távközlési szolgáltatást igénybe vevő előfizetők számának az összes vezeték nélküli távközlési szolgáltatást igénybe vevő előfizetője adóév első napja szerinti számában képviselt aránya szerint osztja meg.
 
 2.4.2. A vezetékes távközlési tevékenységet végző vállalkozó – a 3. számú melléklet 1. és 2.1. pontjától eltérően – a helyi iparűzési adóalapját a székhelye, telephelye szerinti települések között a vezetékes távközlési szolgáltatást igénybe vevő előfizetője részére nyújtott szolgáltatás helyének címe, valamint – ha a vállalkozó vezeték nélküli távközlési szolgáltatást is nyújt – a vezeték nélküli távközlési szolgáltatást igénybe vevő előfizetője számlázási címe alapján a településen az adóév első napján, a vezetékes vagy vezeték nélküli távközlési szolgáltatást igénybe vevő előfizetők számának az összes, vezetékes és vezeték nélküli távközlési szolgáltatást igénybe vevő előfizetője adóév első napja szerinti számában képviselt aránya szerint osztja meg.
 

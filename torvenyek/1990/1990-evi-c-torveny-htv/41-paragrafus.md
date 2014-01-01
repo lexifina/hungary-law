@@ -12,7 +12,7 @@
 
 a) az előtársaságnak,
 
-b) az adóköteles tevékenységet jogelőd nélkül kezdő vállalkozónak az adókötelezettség keletkezésének adóévében,
+b) az adóköteles tevékenységet jogelőd nélkül kezdő vállalkozónak az első adóelőleg-fizetési időszakra,
 
 c) az adóalanyként megszűnő vállalkozónak, továbbá
 
