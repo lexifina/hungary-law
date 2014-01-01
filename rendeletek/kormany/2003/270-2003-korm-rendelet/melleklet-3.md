@@ -1,4 +1,4 @@
-3. számú melléklet a 270/2003. (XII. 24.) Korm. rendelethez[^14]
+3. számú melléklet a 270/2003. (XII. 24.) Korm. rendelethez[^15]
 
 ## Vízminőségi és mennyiségi mérőműszerek
 
@@ -42,4 +42,4 @@
 
 20. Mennyiségmérő műszerek és berendezések
 
-[^14]: A 3. számú mellékletet a 363/2004. (XII. 26.) Korm. rendelet 5. §-a iktatta a szövegbe.
+[^15]: A 3. számú mellékletet a 363/2004. (XII. 26.) Korm. rendelet 5. §-a iktatta a szövegbe.

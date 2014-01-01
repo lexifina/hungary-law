@@ -1,4 +1,4 @@
-2. számú melléklet a 270/2003. (XII. 24.) Korm. rendelethez[^13]
+2. számú melléklet a 270/2003. (XII. 24.) Korm. rendelethez[^14]
 
 ## A vízterhelési díj díjkedvezmény (díjvisszaigénylés) igénybevétel iránti kérelem tartalmi elemei
 
@@ -76,4 +76,4 @@ Dátum: ........................................................................
 
 |  | aláírása |
 
-[^13]: A 2. számú melléklet a 363/2004. (XII. 26.) Korm. rendelet 5. §-ával megállapított, a 314/2009. (XII. 28.) Korm. rendelet 16. §-a szerint módosított szöveg.
+[^14]: A 2. számú melléklet a 363/2004. (XII. 26.) Korm. rendelet 5. §-ával megállapított, a 314/2009. (XII. 28.) Korm. rendelet 16. §-a szerint módosított szöveg.
