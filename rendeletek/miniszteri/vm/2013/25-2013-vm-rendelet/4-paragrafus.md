@@ -26,7 +26,7 @@ d) egyéb önálló ingatlanok esetén az ingatlan-nyilvántartásról szóló 1
 
 e) a művelési ág változásával összefüggő változási vázrajz;
 
-f)[^1]
+f) az Fttv. 14. § (8) bekezdés szerinti kitűzéssel kapcsolatos változási vázrajz.
 
 (4) Változási vázrajzként kell kezelni az állami ingatlan-nyilvántartási térképi adatbázis tartalmában változást nem eredményező alábbi változási vázrajzokat:
 
@@ -35,5 +35,3 @@ a) kitűzési vázrajz;
 b) használati megosztási vázrajz;
 
 c) jogok és jogi jellegek feljegyzéséhez szükséges vázlatok.
-
-[^1]: A 4. § (3) bekezdés f) pontja a 61. § (2) bekezdése alapján 2014. január 1-jén lép hatályba.
