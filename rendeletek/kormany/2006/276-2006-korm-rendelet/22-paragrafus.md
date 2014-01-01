@@ -1,8 +1,8 @@
-## 18–21. §[^47]
+## 18–21. §[^57]
 
-## Az Európai Unió jogának való megfelelés[^48]
+## Az Európai Unió jogának való megfelelés[^58]
 
-## 22. §[^49] E rendelet
+## 22. §[^59] E rendelet
 
 a) 12/A. § (1) bekezdés f) pontja a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 2007. június 12-i 2007/533/IB tanácsi határozat 38. cikk (2) bekezdés d) pontjának,
 
@@ -10,6 +10,6 @@ b) a közúti közlekedésről szóló 1988. évi I. törvénnyel és a közúti
 
 való megfelelést szolgálja.
 
-[^47]: A 18–21. §-t a 81/2008. (IV. 4.) Korm. rendelet 2. § (2) bekezdése, a 18. §-t megelőző alcímet a 118/2008. (V. 8.) Korm. rendelet 1. § 226. pontja hatályon kívül helyezte.
-[^48]: A 22. §-t megelőző alcímet a 15/2013. (I. 28.) Korm. rendelet 33. § (3) bekezdése iktatta be.
-[^49]: A 22. §-t a 15/2013. (I. 28.) Korm. rendelet 33. § (3) bekezdése iktatta be, szövege a 138/2013. (V. 10.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^57]: A 18–21. §-t a 81/2008. (IV. 4.) Korm. rendelet 2. § (2) bekezdése, a 18. §-t megelőző alcímet a 118/2008. (V. 8.) Korm. rendelet 1. § 226. pontja hatályon kívül helyezte.
+[^58]: A 22. §-t megelőző alcímet a 15/2013. (I. 28.) Korm. rendelet 33. § (3) bekezdése iktatta be.
+[^59]: A 22. §-t a 15/2013. (I. 28.) Korm. rendelet 33. § (3) bekezdése iktatta be, szövege a 138/2013. (V. 10.) Korm. rendelet 4. §-ával megállapított szöveg.

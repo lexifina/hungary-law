@@ -1,9 +1,16 @@
-## Fővárosi és megyei kormányhivatalok informatikai irányítása[^14]
+## Fővárosi és megyei kormányhivatalok informatikai irányítása[^18]
 
-11/B. §[^15] (1)[^16] A KEKKH szakmai irányítást gyakorol a fővárosi és megyei kormányhivatalok törzshivatala és szakigazgatási szerveinek, valamint a járási hivatalok törzshivatala és szakigazgatási szervei informatikai tevékenysége felett, ennek keretében gondoskodik az informatikai üzemeltetés feltételeinek meghatározásáról, valamint egyetértési jogot gyakorol az informatikai tárgyú szerződések megkötése során.
+11/B. §[^19] (1) A KEKKH – a (2) bekezdésben meghatározott kivétellel – az e-közigazgatásért felelős miniszter szakmai irányításával felügyeletet gyakorol a fővárosi és megyei kormányhivatalok törzshivatala és szakigazgatási szervei, valamint a járási hivatalok törzshivatala és szakigazgatási szervei informatikai tevékenysége felett.
 
-(2) A KEKKH az (1) bekezdés szerinti szakmai irányítása keretében a fővárosi és megyei kormányhivatalok szakigazgatási szervei által használt szakrendszerek esetében együttműködik a szakrendszereket üzemeltető szakmai irányító szervvel.
+(2) A kormányablakok tekintetében a KEKKH az okmányok kiállítása, valamint a KEKKH által vezetett közhiteles hatósági nyilvántartások tekintetében gyakorol szakmai irányítást.
 
-[^14]: A 11/B. §-t megelőző alcímet a 174/2012. (VII. 26.) Korm. rendelet 41. § (2) bekezdése iktatta be.
-[^15]: A 11/B. §-t a 174/2012. (VII. 26.) Korm. rendelet 41. § (2) bekezdése iktatta be.
-[^16]: A 11/B. § (1) bekezdése az 51/2013. (II. 25.) Korm. rendelet 10. § (2) bekezdés b) pontja szerint módosított szöveg.
+(3) A KEKKH közreműködik a közigazgatás szervezéséért felelős miniszternek a kormányablakok ügyfélszolgálati tevékenységének szakmai irányításával, ezzel összefüggésben az ügyfélszolgálati működésének fejlesztésével, elemzésével és monitoringjával kapcsolatos feladatok ellátásában.
+
+(4) A KEKKH a Közigazgatási és Igazságügyi Minisztérium, a fővárosi és megyei kormányhivatalok, valamint a járási hivatalok számára külön jogszabályban meghatározott informatikai szolgáltatásokat nyújt, valamint közreműködik a fővárosi és megyei kormányhivatalok informatikai tárgyú szerződései tekintetében a miniszter által gyakorolt egyetértési jog érvényesítése során.
+
+(5) A KEKKH az (1) bekezdés szerinti szakmai felügyelete keretében a fővárosi és megyei kormányhivatalok szakigazgatási szervei által használt szakrendszerek esetében együttműködik a szakrendszereket üzemeltető szakmai irányító szervvel.
+
+(6) A kormányablakok által használt közhiteles hatósági nyilvántartások fejlesztése esetén a nyilvántartást vezető szerv köteles egyeztetni a fejlesztésről a KEKKH-val.
+
+[^18]: A 11/B. §-t megelőző alcímet a 174/2012. (VII. 26.) Korm. rendelet 41. § (2) bekezdése iktatta be.
+[^19]: A 11/B. §-t a 174/2012. (VII. 26.) Korm. rendelet 41. § (2) bekezdése iktatta be, szövege az 515/2013. (XII. 30.) Korm. rendelet 21. § (3) bekezdésével megállapított szöveg.

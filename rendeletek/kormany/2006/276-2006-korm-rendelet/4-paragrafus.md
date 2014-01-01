@@ -2,7 +2,7 @@
 
 4. § (1) A miniszter a KEKKH költségvetését – az e rendeletben meghatározott hatáskörét érintő feladatok tekintetében – a (2) bekezdés szerinti irányítási jogkört gyakorló miniszter véleményének kikérésével készíti elő.
 
-(2)[^2] A központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 2. § (3) bekezdésében meghatározott hatásköröket a KEKKH
+(2)[^3] A központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 2. § (3) bekezdésében meghatározott hatásköröket a KEKKH
 
 a) útiokmány-nyilvántartási ügycsoportja tekintetében a külföldre utazás szabályozásáért felelős miniszter,
 
@@ -12,14 +12,21 @@ c) a közúti közlekedési nyilvántartási és igazgatási ügycsoportja eset�
 
 d) a származás-ellenőrzéssel, az előzetes eredetiségvizsgálattal, valamint a közúti közlekedési előéleti pontrendszerrel összefüggő ügycsoportja tekintetében a közlekedésrendészetért felelős miniszter,
 
-e) szabálysértési nyilvántartás vezetésével összefüggő ügycsoportja tekintetében a szabálysértési szabályozásért felelős miniszter
+e)[^4] szabálysértési nyilvántartás vezetésével összefüggő ügycsoportja tekintetében a szabálysértési szabályozásért felelős miniszter,
+
+f)[^5] a kormányablakok feladatai ellátásához nyújtott informatikai szolgáltatások tekintetében az e-közigazgatásért felelős miniszter és a közigazgatás szervezéséért felelős miniszter együttesen
 
 gyakorolja.
 
-(3)[^3]
+(3)[^6]
 
-(4)[^4] A KEKKH hatósági eljárásaiban az útiokmány-nyilvántartás vezetése, a származás-ellenőrzés, az előzetes eredetiségvizsgálat, a bűnügyi nyilvántartási rendszerrel és a közlekedési pontrendszerrel összefüggő eljárások kivételével a közigazgatási hatósági eljárás általános szabályairól szóló törvénynek a központi államigazgatási szerv vezetőjének az első fokú döntése elleni fellebbezést kizáró rendelkezése nem alkalmazható.
+(3a)[^7] A központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2006. évi LVII. törvény 2. § (3) bekezdésében meghatározott hatásköröket a KEKKH elektronikus anyakönyvi nyilvántartással összefüggő ügycsoportjai tekintetében az anyakönyvi ügyekért felelős miniszter gyakorolja.
 
-[^2]: A 4. § (2) bekezdése a 220/2010. (VII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^3]: A 4. § (3) bekezdését a 310/2007. (XI. 16.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 220/2010. (VII. 30.) Korm. rendelet 2. § (2) bekezdése.
-[^4]: A 4. § (4) bekezdését a 212/2009. (IX. 29.) Korm. rendelet 10. § (15) bekezdése iktatta be, szövege a 282/2011. (XII. 21.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
+(4)[^8] A KEKKH hatósági eljárásaiban az útiokmány-nyilvántartás vezetése, a származás-ellenőrzés, az előzetes eredetiségvizsgálat, a bűnügyi nyilvántartási rendszerrel és a közlekedési pontrendszerrel összefüggő eljárások kivételével a közigazgatási hatósági eljárás általános szabályairól szóló törvénynek a központi államigazgatási szerv vezetőjének az első fokú döntése elleni fellebbezést kizáró rendelkezése nem alkalmazható.
+
+[^3]: A 4. § (2) bekezdése a 220/2010. (VII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^4]: A 4. § (2) bekezdés e) pontja az 515/2013. (XII. 30.) Korm. rendelet 21. § (2) bekezdésével megállapított szöveg.
+[^5]: A 4. § (2) bekezdés f) pontját az 515/2013. (XII. 30.) Korm. rendelet 21. § (2) bekezdése iktatta be.
+[^6]: A 4. § (3) bekezdését a 310/2007. (XI. 16.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 220/2010. (VII. 30.) Korm. rendelet 2. § (2) bekezdése.
+[^7]: A 4. § (3a) bekezdését a 105/2010. (IV. 9.) Korm. rendelet 5. § (1) bekezdése iktatta be.
+[^8]: A 4. § (4) bekezdését a 212/2009. (IX. 29.) Korm. rendelet 10. § (15) bekezdése iktatta be, szövege a 282/2011. (XII. 21.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
