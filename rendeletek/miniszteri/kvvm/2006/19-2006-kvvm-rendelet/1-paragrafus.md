@@ -2,6 +2,7 @@
 
 (2)[^1] Magyarország területén évente összesen 2000 tonna éti csiga gyűjthető.
 
-(3) A (2) bekezdésben meghatározott mennyiség felosztására az éti csiga gyűjtését, hasznosítását koordináló érdekvédelmi szervezet tesz javaslatot, amelyet minden év február 15. napjáig megküld az Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőségnek.
+(3)[^2] A (2) bekezdésben meghatározott mennyiség felosztására az éti csiga gyűjtését, hasznosítását koordináló érdekvédelmi szervezet tesz javaslatot, amelyet minden év február 15. napjáig megküld az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőségnek.
 
 [^1]: Az 1. § (2) bekezdése az 5/2012. (II. 10.) VM rendelet 23. §-a szerint módosított szöveg.
+[^2]: Az 1. § (3) bekezdése a 132/2013. (XII. 23.) VM rendelet 21. § a) pontja szerint módosított szöveg.
