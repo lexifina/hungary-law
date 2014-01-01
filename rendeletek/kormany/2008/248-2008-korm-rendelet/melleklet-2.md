@@ -6,11 +6,11 @@
 
 | 1. | Kiemelt nagyberuházásként motorverseny-pálya és ahhoz kapcsolódó egyéb sport, szálláshely, szolgáltató és logisztikai kiszolgáló bázis és létesítményei. | Az M7-es autópálya, Sávoly község északi közigazgatási határa által lehatárolt terület Marótvölgyi-csatorna és Szőkedencs község déli közigazgatási határa által lehatárolt terület. | általános építésügyi hatósági engedélyek | Kaposvári Járási Hivatal járási építésügyi és örökségvédelmi hivatala | Somogy Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
-| 2. | környezetvédelmi hatósági engedélyezések | Nyugat-dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 2. | környezetvédelmi hatósági engedélyezések | Nyugat-dunántúli Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
 | 3. | útügyi hatósági engedélyek | Somogy Megyei Kormányhivatal Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
-| 4. | vízjogi engedélyek | Nyugat-dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 4. | vízjogi engedélyek | Nyugat-dunántúli Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
 | 5. | A Magyar Kereskedelmi Engedélyezési Hivatalról és a területi mérésügyi és műszaki biztonsági hatóságokról szóló 320/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdése és 13. § (2) bekezdése szerinti engedélyek | Baranya Megyei Kormányhivatal Mérésügyi és Műszaki Biztonsági Hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
@@ -40,7 +40,9 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 1. | építésügy | Kaposvári Járási Hivatal járási építésügyi és örökségvédelmi hivatala | Somogy Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
-| 2. | környezetvédelem, természetvédelem és vízügy | Nyugat-dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 2. | környezetvédelem, természetvédelem | Nyugat-dunántúli Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+
+| 2a. | vízügy | Nyugat-dunántúli Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
 | 3. | közlekedés |  |  |
 
@@ -86,4 +88,4 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 15. | élelmiszer-biztonság | Somogy Megyei Kormányhivatal Élelmiszer-biztonsági és Állategészségügyi Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-[^3]: A 2. számú melléklet a 351/2010. (XII. 30.) Korm. rendelet 224. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 18. §-a, a 282/2011. (XII. 21.) Korm. rendelet 34. §-a, a 23/2012. (II. 29.) Korm. rendelet 37. §-a, a 296/2012. (X. 17.) Korm. rendelet 38. §-a, a 394/2012. (XII. 20.) Korm. rendelet 27. §-a szerint módosított szöveg.
+[^3]: A 2. számú melléklet a 351/2010. (XII. 30.) Korm. rendelet 224. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 18. §-a, a 282/2011. (XII. 21.) Korm. rendelet 34. §-a, a 23/2012. (II. 29.) Korm. rendelet 37. §-a, a 296/2012. (X. 17.) Korm. rendelet 38. §-a, a 394/2012. (XII. 20.) Korm. rendelet 27. §-a, az 527/2013. (XII. 30.) Korm. rendelet 66. § (2) bekezdése szerint módosított szöveg.
