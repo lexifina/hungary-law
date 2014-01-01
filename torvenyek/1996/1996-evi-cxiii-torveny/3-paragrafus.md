@@ -1,6 +1,6 @@
 ## A lakástakarékpénztár
 
-3. § (1) A lakástakarékpénztár alapítására, működésére és felügyeletére a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvényt (a továbbiakban: Hpt.) az e törvényben foglalt eltérésekkel kell alkalmazni.
+3. § (1) A lakástakarékpénztár alapítására, működésére és felügyeletére a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényt (a továbbiakban: Hpt.) az e törvényben foglalt eltérésekkel kell alkalmazni.
 
 (2) A lakástakarékpénztár szakosított hitelintézet.
 
