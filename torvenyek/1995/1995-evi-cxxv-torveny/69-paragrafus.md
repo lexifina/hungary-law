@@ -4,7 +4,7 @@
 
 a) if) és ig) alpontjában megjelölt személy esetén a köztársasági elnök,
 
-b) ie), il), im) és it) alpontjában megjelölt személy, valamint az iu) alpontjában megjelölt személyek közül az Országgyűlési Őrség hivatásos állományába tartozó tábornok és tábornoki rendfokozattal rendszeresített beosztásba kinevezett személy esetén az Országgyűlés elnöke,
+b) ie), il), im), it) és iv) alpontjában megjelölt személy, valamint az iu) alpontjában megjelölt személyek közül az Országgyűlési Őrség hivatásos állományába tartozó tábornok és tábornoki rendfokozattal rendszeresített beosztásba kinevezett személy esetén az Országgyűlés elnöke,
 
 c) ib) és id) alpontjában megjelölt személy esetén a miniszterelnök,
 

@@ -68,4 +68,6 @@ is) az 55. §-ban meghatározott kijelölt ügyész;
 
 it) a Független Rendészeti Panasztestület tagja;
 
-iu) az Országgyűlési Őrség személyi állománya.
+iu) az Országgyűlési Őrség személyi állománya;
+
+iv) a Nemzeti Emlékezet Bizottsága tagja.
