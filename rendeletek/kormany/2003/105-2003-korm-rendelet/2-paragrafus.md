@@ -6,7 +6,7 @@ a) a közvállalkozásokra, valamint,
 
 b) az elkülönített elszámolások vezetésére kötelezett vállalkozásokra.
 
-(2)[^7] A rendelet hatálya nem terjed ki az állam vagy az államháztartási szervek és
+(2)[^8] A rendelet hatálya nem terjed ki az állam vagy az államháztartási szervek és
 
 a) a közvállalkozások közötti pénzügyi kapcsolatokra olyan szolgáltatás tekintetében, amely szolgáltatás nyújtása nem befolyásolja az Európai Unió tagállamai közötti kereskedelmet;
 
@@ -28,4 +28,4 @@ b) a tárgyévet megelőző két üzleti évben
 
 c) az általános gazdasági érdekű szolgáltatás nyújtásával való megbízatást, nyílt, átlátható és diszkriminációmentes eljárásban meghatározott időre kapták.
 
-[^7]: A 2. § (2) bekezdése a 282/2006. (XII. 23.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^8]: A 2. § (2) bekezdése a 282/2006. (XII. 23.) Korm. rendelet 2. §-ával megállapított szöveg.

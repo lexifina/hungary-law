@@ -4,11 +4,11 @@
 
 (2) A 3. § (1) és (2), a 4. § (1) és (2), valamint az 5. § (2) bekezdése e rendelet kihirdetése napján lép hatályba azzal, hogy – a rendeletben foglalt kötelezettségek teljesítése végett – a vonatkozó nyilvántartásokat, adatokat és dokumentumokat a rendelet hatálya alá tartozó vállalkozások a kihirdetést követő üzleti év elejétől kezdődően vezetik, illetőleg megőrzik.
 
-(3)[^22]
+(3)[^23]
 
 (4) E rendeletben megjelenő euróban meghatározott összegek forintra történő átszámításakor az adóév utolsó napján érvényes Magyar Nemzeti Bank által közzétett devizaárfolyam alkalmazandó.
 
-(5)[^23] E rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
+(5)[^24] E rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
 – a Bizottság 1980. június 25-i 80/723/EGK irányelve a tagállamok és a közvállalkozások közötti pénzügyi kapcsolatok átláthatóságáról, valamint egyes vállalkozások pénzügyi átláthatóságáról;
 
@@ -20,5 +20,5 @@
 
 – a Bizottság 2006. november 16-ai 2006/111/EK irányelve a tagállamok és a közvállalkozások közötti pénzügyi kapcsolatok átláthatóságáról, illetve egyes vállalkozások pénzügyi átláthatóságáról.
 
-[^22]: A 7. § (3) bekezdését a 321/2004. (XII. 1.) Korm. rendelet 4. §-ának (2) bekezdése hatályon kívül helyezte.
-[^23]: A 7. § (5) bekezdése a 282/2006. (XII. 23.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^23]: A 7. § (3) bekezdését a 321/2004. (XII. 1.) Korm. rendelet 4. §-ának (2) bekezdése hatályon kívül helyezte.
+[^24]: A 7. § (5) bekezdése a 282/2006. (XII. 23.) Korm. rendelet 6. §-ával megállapított szöveg.

@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-105-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2007-01-01 | 2003-105-20-22.3 | 105/2003. (VII. 18.) Korm. rendelet |
+| 2014-01-01 | 2003-105-20-22.4 | 175/2015. (VII. 7.) Korm. rendelet |
