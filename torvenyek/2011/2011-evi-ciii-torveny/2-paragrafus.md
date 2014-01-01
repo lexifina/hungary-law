@@ -2,7 +2,13 @@
 
 2. § Adóköteles terméknek minősül az előrecsomagolt termékként forgalomba hozott,
 
-a) a 2009, 2202 VTSZ szám alá tartozó – energiaitalnak nem minősülő – termék, a Magyar Élelmiszerkönyv szerinti kivonat alapú szörpök, valamint a legalább 25% gyümölcs, illetve zöldséghányadot tartalmazó sűrítmények, koncentrátumok, szörpök, nektárok, gyümölcslevek és zöldséglevek, valamint a legalább 50%-ban tejalapanyag felhasználásával készült termékek kivételével, ha hozzáadott cukrot tartalmaz és cukortartalma meghaladja a 8 gramm cukor/100 milliliter mennyiséget (a továbbiakban: üdítőital);
+a) hozzáadott cukrot tartalmazó, 8 gramm cukor/100 milliliter mennyiséget meghaladó cukortartalmú
+
+aa) 2009, 2202 VTSZ szám alá tartozó – energiaitalnak nem minősülő – termék a legalább 25% gyümölcs, illetve zöldséghányadot tartalmazó nektárok, gyümölcslevek és zöldséglevek, valamint a legalább 50%-ban tejalapanyag felhasználásával készült termékek kivételével,
+
+ab) szörp a Magyar Élelmiszerkönyv szerinti kivonat alapú szörpök, valamint a legalább 25% gyümölcs, illetve zöldséghányadot tartalmazó szörpök kivételével,
+
+[az aa) és ab) alpont a továbbiakban együtt: üdítőital];
 
 b) a 2009, 2202 VTSZ szám alá tartozó termék, ha metil-xantint tartalmaz, ideértve azt az esetet is, ha a metil-xantint a termék valamely összetevője tartalmazza és
 

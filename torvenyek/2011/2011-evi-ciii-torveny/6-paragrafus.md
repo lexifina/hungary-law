@@ -2,7 +2,7 @@
 
 6. § Az adó mértéke
 
-a) a sűrítmény, koncentrátum vagy szörp formában értékesített üdítőital esetében 200 forint/liter, más üdítőital esetében 7 forint/liter,
+a) a 2. § a) pont aa) alpontja szerinti üdítőital esetében 7 forint/liter, ab) alpontja szerinti üdítőital esetében 200 forint/liter,
 
 b) a 2. § b) pontjának
 
