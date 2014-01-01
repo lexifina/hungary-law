@@ -2,7 +2,7 @@
 
 ## I. Felszín alatti vizek feltárására, használatára (igénybevételére, illetve külön jogszabály szerinti engedélyezhető közvetlen bevezetésre vonatkozó engedélyezési tervdokumentáció esetén
 
-## I/A. A KÖRNYEZETVÉDELMI, TERMÉSZETVÉDELMI ÉS VÍZÜGYI FELÜGYELŐSÉG ENGEDÉLYÉHEZ KÖTÖTT KUTAK LÉTESÍTÉSÉHEZ SZÜKSÉGES TERV TARTALMA
+## I/A. A VÍZÜGYI HATÓSÁG ENGEDÉLYÉHEZ KÖTÖTT KUTAK LÉTESÍTÉSÉHEZ SZÜKSÉGES TERV TARTALMA
 
 ## 1. műszaki leírás
 

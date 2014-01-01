@@ -12,12 +12,12 @@ e) igénybe vett felszín alatti vízbázis utólagos biztonságba helyezése é
 
 f) a védőidom, a védőterület kijelölésével érintett használati korlátozásoknak az ingatlan-nyilvántartásba történő bejegyzéséhez szükséges, külön jogszabály szerint meghatározott megjelölését.
 
-(2)[^15] Az (1) bekezdésben meghatározottakon kívül a kérelemhez mellékelni kell a tervezett védőidommal, védőterülettel érintett ingatlanok tulajdoni lapjának másolatát, a helyszínrajzot, valamint az érintett ingatlanokat ábrázoló ingatlan-nyilvántartási térkép másolatát. Ha az ügyfél a kérelemhez a tárgyi adatokat nem mellékeli, akkor a hatóság a kérelem elbírálása érdekében, adatszolgáltatás iránti kérelemmel fordul az adatokról nyilvántartást vezető ingatlanügyi hatósághoz.
+(2)[^15] Az (1) bekezdésben meghatározottakon kívül a kérelemhez mellékelni kell a tervezett védőidommal, védőterülettel érintett ingatlanok tulajdonosi adatokkal kiegészített földkönyv kivonatát, a helyszínrajzot, valamint az érintett ingatlanokat ábrázoló ingatlan-nyilvántartási térkép másolatát. Ha az ügyfél a kérelemhez a tárgyi adatokat nem mellékeli, akkor a hatóság a kérelem elbírálása érdekében, adatszolgáltatás iránti kérelemmel fordul az adatokról nyilvántartást vezető ingatlanügyi hatósághoz.
 
 (3)[^16] Ha a kérelmező az (1) bekezdés b) pontja és a (2) bekezdés szerint meghatározott, a bíróság vagy más hatóság által nyilvántartott jogosultságot igazoló okiratot nem csatolja, a vízügyi hatóság adatszolgáltatási kérelemmel fordul a szükséges adatokról nyilvántartást vezető hatósághoz vagy bírósághoz.
 
 [^12]: A 4. § a 123/1997. (VII. 18.) Korm. rendelet 22. §-a (5) bekezdésének a) pontjával megállapított szöveg.
 [^13]: A 4. § (1) bekezdés nyitó szövegrésze a 10/2010. (IV. 28.) KvVM rendelet 4. § (3) bekezdés c) pontja szerint módosított szöveg, e módosító rendelet 4. § (1) bekezdése alapján a 2010. május 6-át követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^14]: A 4. § (1) bekezdés b) pontja a 10/2010. (IV. 28.) KvVM rendelet 2. § (1) bekezdésével megállapított szöveg, e módosító rendelet 4. § (1) bekezdése alapján a 2010. május 6-át követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^15]: A 4. § (2) bekezdése a 80/2011. (VIII. 3.) VM rendelet 1. §-ával megállapított szöveg.
+[^15]: A 4. § (2) bekezdése a 80/2011. (VIII. 3.) VM rendelet 1. §-ával megállapított, a 132/2013. (XII. 23.) VM rendelet 2. § a) pontja szerint módosított szöveg.
 [^16]: A 4. § (3) bekezdését a 10/2010. (IV. 28.) KvVM rendelet 2. § (3) bekezdése iktatta be, e módosító rendelet 4. § (1) bekezdése alapján a 2010. május 6-át követően indult vagy megismételt eljárásokban kell alkalmazni.

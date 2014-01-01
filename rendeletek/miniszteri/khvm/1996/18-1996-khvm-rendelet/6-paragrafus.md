@@ -36,7 +36,7 @@ n)[^23] ha a tervezett vízimunka, vízilétesítmény vagy vízhasználat a fel
 
 o)[^24] a csatlakozással megvalósított vízilétesítmény esetén azt a nyilatkozatot, hogy a 3. §-ban megjelölt és közölt adatok — ideértve a csatlakozással megvalósult vízilétesítményekre vonatkozó megállapodást — változatlanok, vagy ellenkező esetben az eltérésre vonatkozó megállapodásokat, illetőleg tervdokumentációt;
 
-p)[^25] ha a védőterület kijelölése kapcsán a környezetvédelmi, természetvédelmi és vízügyi felügyelőség — a vízjogi létesítési engedélyben a védőterület kialakítására vonatkozó külön kötelezettségeket határozott meg, ennek teljesítésével kapcsolatos nyilatkozatot a védőterületet meghatározó tervdokumentációra történő utalással.
+p)[^25] ha a védőterület kijelölése kapcsán a vízügyi hatóság — a vízjogi létesítési engedélyben a védőterület kialakítására vonatkozó külön kötelezettségeket határozott meg, ennek teljesítésével kapcsolatos nyilatkozatot a védőterületet meghatározó tervdokumentációra történő utalással.
 
 [^17]: A 6. § d) pontja a 26/2005. (XI. 4.) KvVM rendelet 5. § (2) bekezdésével megállapított szöveg.
 [^18]: A 6. § új j) pontját a 21/2002. (IV. 25.) KöViM rendelet 14. §-a (7) bekezdésének a) pontja iktatta a szövegbe, s egyidejűleg az eredeti j)-o) pont jelölését k)-p) pontra változtatta.
@@ -46,4 +46,4 @@ p)[^25] ha a védőterület kijelölése kapcsán a környezetvédelmi, termész
 [^22]: A 6. § eredeti l) pontjának jelölését a 21/2002. (IV. 25.) KöViM rendelet 14. §-a (7) bekezdésének a) pontja m) pontra változtatta.
 [^23]: A 6. § eredeti m) pontjának jelölését a 21/2002. (IV. 25.) KöViM rendelet 14. §-a (7) bekezdésének a) pontja n) pontra változtatta.
 [^24]: A 6. § eredeti n) pontjának jelölését a 21/2002. (IV. 25.) KöViM rendelet 14. §-a (7) bekezdésének a) pontja o) pontra változtatta.
-[^25]: A 6. § eredeti o) pontjának jelölését a 21/2002. (IV. 25.) KöViM rendelet 14. §-a (7) bekezdésének a) pontja p) pontra változtatta. A 6. § p) pontja a 26/2005. (XI. 4.) KvVM rendelet 8. § a) pontja szerint módosított szöveg.
+[^25]: A 6. § eredeti o) pontjának jelölését a 21/2002. (IV. 25.) KöViM rendelet 14. §-a (7) bekezdésének a) pontja p) pontra változtatta. A 6. § p) pontja a 26/2005. (XI. 4.) KvVM rendelet 8. § a) pontja szerint módosított, a 132/2013. (XII. 23.) VM rendelet 2. § b) pontja szerint módosított szöveg.
