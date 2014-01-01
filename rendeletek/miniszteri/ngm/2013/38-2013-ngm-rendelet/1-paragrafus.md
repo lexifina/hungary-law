@@ -1,0 +1,3 @@
+1. § (1) Az államháztartásban felmerülő egyes gyakoribb gazdasági események kötelező elszámolásának könyvelési tételeit, az elszámolás módját e rendelet 1. melléklete állapítja meg. Az 1. mellékletben nem szereplő gazdasági eseményeket az államháztartás számviteléről szóló 4/2013. (I. 11.) Korm. rendelet (a továbbiakban: Áhsz.) általános előírásai szerint kell könyvelni.
+
+(2) Az 1. mellékletben meghatározott elszámolások könyvelési tételeitől abban az esetben lehet eltérni, ha az eltérés nem ellentétes jogszabály előírásától, és az a megbízható és valós összkép biztosítása érdekében szükséges.
