@@ -1,1 +1,31 @@
-15. §
+15. § (1) A Tao. törvény 22/C. § (3e) bekezdése helyébe a következő rendelkezés lép:
+
+„(3e) A támogatási igazolást az (1) bekezdés a) és e) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelmére a sportpolitikáért felelős miniszter, az (1) bekezdés b)–d) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelmére a látvány-csapatsport országos sportági szakszövetsége állítja ki azt követően, hogy a támogatás igénybevételére jogosult szervezet által benyújtott, a támogatás igénybevételének feltételét képező, tervezett támogatással érintett sportfejlesztési programot részben vagy egészben jóváhagyta. A sportfejlesztési program jóváhagyása során vizsgálni kell, hogy a benyújtott sportfejlesztési program megvalósítása összhangban van-e a szakági szövetség sportpolitikai érdekeivel, valamint azt, hogy az miként illeszkedik a nemzetgazdaság érdekeihez, különös figyelemmel a hosszú távú fenntarthatóság követelményére. A támogatási igazolás a sportfejlesztési program jóváhagyását követően arra tekintet nélkül állítható ki, hogy a támogatás elő- vagy utófinanszírozással valósul meg.”
+
+(2) A Tao. törvény 22/C. § (5) bekezdés g) pontja helyébe a következő rendelkezés lép:
+
+(Támogatási igazolás a támogatás igénybevételére jogosult szervezettel kapcsolatban csak akkor állítható ki, ha)
+
+„g) nem áll az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározottak szerint alkalmazott támogatásból kizárás hatálya alatt, és”
+
+(3) A Tao. törvény 22/C. § (6) bekezdés d) és e) pontja helyébe a következő rendelkezések lépnek:
+
+(Ha az építési engedélyhez kötött tárgyi eszköz beruházás, felújítás sportcélú ingatlanra irányul, a támogatási igazolás kiállításának feltétele, hogy a támogatás igénybevételére jogosult szervezet vállalja, hogy)
+
+„d) a jelenértékén legalább 5 millió forint értékű tárgyi eszköz felújítás esetén a (3) bekezdésben meghatározott sportfejlesztési program benyújtásával egyidejűleg írásban nyilatkozik a sportpolitikáért felelős miniszter vagy – az (1) bekezdés b)–d) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelme esetén – a látvány-csapatsport országos sportági szakszövetsége felé arról, hogy a támogatásból megvalósuló felújítást legalább 5 évig az eredeti rendeltetésének megfelelően hasznosítja, valamint benyújtja a sportcélú ingatlan tulajdonosának előzetes írásbeli hozzájárulását arról, hogy erre az időtartamra – a felújított sportcélú ingatlan üzembe helyezését követő 30 napon belül – az állam javára az ingatlan-nyilvántartásba az igénybe vett adókedvezmény mértékéig jelzálogjog kerül bejegyzésre,
+
+e) a jelenértékén legalább 10 millió forint értékű tárgyi eszköz beruházás, felújítás esetén a (3) bekezdésben meghatározott sportfejlesztési program benyújtásával egyidejűleg írásban nyilatkozik a sportpolitikáért felelős miniszter vagy – az (1) bekezdés b)-d) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelme esetén – a látvány-csapatsport országos sportági szakszövetsége felé arról, hogy a sportcélú ingatlanfejlesztésre nyílt pályázatot ír ki és a pályázati eljárás eredménye alapján nyertes személlyel köt szerződést a tárgyi eszköz beruházás, felújítás megvalósítására.”
+
+(4) A Tao. törvény 22/C. §-a a következő (6a)–(6b) bekezdéssel egészül ki:
+
+„(6a) A (6) bekezdés a) és d) pontjában a Magyar Állam javára szóló jelzálogjog bejegyzésre vonatkozó rendelkezést nem kell alkalmazni, ha a (6) bekezdés a) vagy d) pontja szerinti, építési engedélyhez kötött tárgyi eszköz beruházás, felújítás állami tulajdonban álló sportcélú ingatlanra irányul.
+
+(6b) A (6) bekezdés e) pontját a támogatásból megvalósuló, építési beruházással járó, sportcélú ingatlanra irányuló tárgyi eszköz beruházás, felújítás esetén nem kell alkalmazni, ha a támogatási kérelem tárgya sportcélú ingatlanra irányuló, nem a támogatásból finanszírozott, már megkezdett építési beruházással járó tárgyi eszköz beruházás, felújítás, és ezen sportcélú ingatlanfejlesztést közbeszerzési eljárás eredményeként nyertes ajánlattevő végzi.”
+
+(5) A Tao. törvény 22/C. § (9) bekezdése helyébe a következő rendelkezés lép:
+
+„(9) Az (1) bekezdés a) és e) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelme esetén a sportpolitikáért felelős miniszter a jelenértékén legalább 300 millió forint értékű sportfejlesztési program esetében az e törvény felhatalmazása alapján kiadott kormányrendelet alapján az adópolitikáért felelős miniszter véleményét figyelembe véve hoz döntést. Az adópolitikáért felelős miniszter az erre irányuló megkereséstől számított 10 napon belül közli álláspontját a sportpolitikáért felelős miniszterrel. A sportpolitikáért felelős miniszter az adópolitikáért felelős miniszter véleményét figyelembe véve jóváhagyja vagy elutasítja a sportfejlesztési program e törvény szerinti támogatását és az erről szóló döntést közli a támogatás igénybevételére jogosult szervezettel. Véleményeltérés esetén a sportfejlesztési program e törvény szerinti támogatására vonatkozó jóváhagyó döntést megelőzően a sportpolitikáért felelős miniszter a Kormány döntését kéri.”
+
+(6) A Tao. törvény 22/C. §-a a következő (9a) bekezdéssel egészül ki:
+
+„(9a) Az (1) bekezdés b)–d) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelme esetén a látvány-csapatsport országos sportági szakszövetsége a jelenértékén legalább 300 millió forint értékű sportfejlesztési program esetében az e törvény felhatalmazása alapján kiadott kormányrendelet alapján a sportpolitikáért felelős miniszter és az adópolitikáért felelős miniszter véleményét figyelembe véve hoz döntést. A sportpolitikáért felelős miniszter és az adópolitikáért felelős miniszter az erre irányuló megkereséstől számított 10 napon belül közli álláspontját a látvány-csapatsport országos sportági szakszövetsége vezetőjével. A miniszteri vélemények közötti eltérés esetén a sportfejlesztési program e törvény szerinti támogatására vonatkozó jóváhagyó döntést megelőzően a látvány-csapatsport országos sportági szakszövetsége vezetője a sportpolitikáért felelős miniszter útján a Kormány döntését kéri. Ebben az esetben a látvány-csapatsport országos sportági szakszövetsége vezetője a Kormány döntésének megfelelően hagyja jóvá vagy utasítja el a sportfejlesztési program e törvény szerinti támogatását, és az erről szóló döntést közli a támogatás igénybevételére jogosult szervezettel.”
