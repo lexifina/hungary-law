@@ -8,33 +8,33 @@
 
 | 2 | 1. | A 2A és 2B terminál közötti összekötő épület építése | Budapest, XVIII. kerület 156755 hrsz., Vecsés 072/50 hrsz., Vecsés 072/3 hrsz. | építésügyi hatósági engedély | Budapest Főváros Kormányhivatala V. Kerületi Hivatalának Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
-| 3 |  |  |  | vízjogi engedély | Közép-Duna-Völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 3 |  |  |  | vízjogi engedély | Közép-Duna-Völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
-| 4 |  |  |  | a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendelet 5. § (2) bekezdése dc) pontja szerinti határozat vagy környezetvédelmi engedély | Közép-Duna-Völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 4 |  |  |  | a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendelet 5. § (2) bekezdése dc) pontja szerinti határozat vagy környezetvédelmi engedély | Közép-Duna-Völgyi Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
 | 5 | 2. | 2A terminálból kiinduló 1 új pillér építése | Budapest, XVIII. ker. 156755 hrsz. | építésügyi hatósági engedélyek | Budapest Főváros Kormányhivatala V. Kerületi Hivatalának Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
-| 6 |  |  |  | vízjogi engedély | Közép-Duna-Völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 6 |  |  |  | vízjogi engedély | Közép-Duna-Völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
-| 7 |  |  |  | a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendelet 5. § (2) bekezdése dc) pontja szerinti határozat vagy környezetvédelmi engedély | Közép-Duna-Völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 7 |  |  |  | a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendelet 5. § (2) bekezdése dc) pontja szerinti határozat vagy környezetvédelmi engedély | Közép-Duna-Völgyi Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
 | 8 | 3. | 2B terminálból kiinduló 1 új pillér építése | Budapest, XVIII. ker. 156755 hrsz. | építésügyi hatósági engedélyek | Budapest Főváros Kormányhivatala V. Kerületi Hivatalának Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
-| 9 |  |  |  | vízjogi engedély | Közép-Duna-Völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 9 |  |  |  | vízjogi engedély | Közép-Duna-Völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
-| 10 |  |  |  | a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendelet 5. § (2) bekezdése dc) pontja szerinti határozat vagy környezetvédelmi engedély | Közép-Duna-Völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 10 |  |  |  | a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendelet 5. § (2) bekezdése dc) pontja szerinti határozat vagy környezetvédelmi engedély | Közép-Duna-Völgyi Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
 | 11 | 4. | Terminálépület- távoli és -közeli repülőgép-állóhelyek átszervezése és új repülőgép-állóhelyek kialakítása a 2. utasforgalmi műszaki előtéren (aprón) | Budapest, XVIII. ker. 156757 hrsz., 156756 hrsz., 156755 hrsz., 156754 hrsz., 156753 hrsz., 156742 hrsz., 156741 hrsz., 156740 hrsz., 156739 hrsz., 156738 hrsz., Vecsés 072/3 hrsz., 072/50 hrsz., 072/53 hrsz. | létesítési engedélyek | Nemzeti Közlekedési Hatóság Légügyi Hivatala | Nemzeti Közlekedési Hatóság Központja |
 
-| 12 |  |  |  | vízjogi engedély | Közép-Duna-Völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 12 |  |  |  | vízjogi engedély | Közép-Duna-Völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
-| 13 |  |  |  | a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendelet 5. § (2) bekezdése dc) pontja szerinti határozat vagy környezetvédelmi engedély | Közép-Duna-Völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 13 |  |  |  | a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendelet 5. § (2) bekezdése dc) pontja szerinti határozat vagy környezetvédelmi engedély | Közép-Duna-Völgyi Környezetvédelmi és Természetvédelmi Felügyelőség Közép- Duna-Völgyi Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
 | 14 | 5. | repülőgép-állások átszervezése és bővítése az 1. utasforgalmi műszaki előtéren (apron) | Budapest XVIII. ker. 156716 hrsz., 156717 hrsz., 156719 hrsz., 156731 hrsz., 156732 hrsz., 156733 hrsz., 156734 hrsz., 156735 hrsz., 156736 hrsz., 156737 hrsz., 156738 hrsz., 156739 hrsz. | létesítési engedélyek | Nemzeti Közlekedési Hatóság Légügyi Hivatala | Nemzeti Közlekedési Hatóság Központja |
 
-| 15 |  |  |  | vízjogi engedély | Közép-Duna-Völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 15 |  |  |  | vízjogi engedély | Közép-Duna-Völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
-| 16 |  |  |  | a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendelet 5. § (2) bekezdése dc) pontja szerinti határozat vagy környezetvédelmi engedély | Közép-Duna-Völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 16 |  |  |  | a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendelet 5. § (2) bekezdése dc) pontja szerinti határozat vagy környezetvédelmi engedély | Közép-Duna-Völgyi Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
 2. melléklet a 153/2008. (VI. 6.) Korm. rendelethez[^2]
 
@@ -44,7 +44,9 @@ Az 1. § (3) bekezdésében hivatkozott szakhatóságok
 
 |  | Első fokú szakhatóság | Másodfokú szakhatóság |
 
-| Környezetvédelem | Közép-Duna-Völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| Környezetvédelem | Közép-Duna-Völgyi Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+
+| Vízügy | Közép-Duna-Völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
 | Közlekedés: |  |  |
 
@@ -52,7 +54,7 @@ Az 1. § (3) bekezdésében hivatkozott szakhatóságok
 
 | - vasút, hajózás | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
 
-| - légiközlekedés a) polgári célú b) állami célú | a) Nemzeti Közlekedési Hatóság Légügyi Hivatala b) Nemzeti Közlekedési Hatóság Légügyi Hivatala | a) Nemzeti Közlekedési Hatóság Központja b) honvédelemér felelős miniszter |
+| - légiközlekedés a) polgári célú b) állami célú | a) Nemzeti Közlekedési Hatóság Légügyi Hivatala b) Nemzeti Közlekedési Hatóság Légügyi Hivatala | a) Nemzeti Közlekedési Hatóság Központja b) honvédelemért felelős miniszter |
 
 | - műszaki biztonság | Budapest Főváros Kormányhivatala Mérésügyi és Műszaki Biztonsági Hatósága | Magyar Kereskedelmi Engedélyezési Hivatal központi szerve |
 
@@ -62,11 +64,7 @@ Az 1. § (3) bekezdésében hivatkozott szakhatóságok
 
 | Rendészet: |  |  |
 
-| - rendőrség: |  |  |
-
-| a) gyorsforgalmi utak esetében | a) Országos Rendőr-főkapitányság | a) rendészetért felelős miniszter |
-
-| b) az egyéb országos közutak, helyi közutak és közforgalom elől el nem zárt magánutak esetében | b) Budapesti Rendőr-főkapitányság | b) Országos Rendőr-főkapitányság |
+| - rendőrség: a) gyorsforgalmi utak esetében b) az egyéb országos közutak, helyi közutak és közforgalom elől el nem zárt magánutak esetében | a) Országos Rendőr-főkapitányság b) Budapesti Rendőr-főkapitányság | a) rendészetért felelős miniszter b) Országos Rendőr-főkapitányság |
 
 | - határrendészet | Repülőtéri Rendőr Igazgatóság | Országos Rendőr-főkapitányság |
 
@@ -100,9 +98,11 @@ Az 1. § (3) bekezdésében hivatkozott szakhatóságok
 
 | Környezetvédelem: |  |  |
 
-| - táj- és természetvédelem, - környezetvédelem | Közép-Duna-Völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| - táj- és természetvédelem - környezetvédelem | Közép-Duna-Völgyi Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
 |  | Országos Meteorológiai Szolgálat | környezetvédelemért felelős miniszter |
+
+| Vízügy | Közép-Duna-Völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
 | Földművelésügy: |  |  |
 
@@ -112,9 +112,7 @@ Az 1. § (3) bekezdésében hivatkozott szakhatóságok
 
 | Honvédelem: |  |  |
 
-| - honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
-
-| - az állami repülés biztonsága | Nemzeti Közlekedési Hatóság Légügyi Hivatala | honvédelemért felelős miniszter |
+| - honvédelem - az állami repülés biztonsága | Honvédelmi Minisztérium Hatósági Hivatal vezetője Nemzeti Közlekedési Hatóság Légügyi Hivatala | honvédelemért felelős miniszter honvédelemért felelős miniszter |
 
 | Egészségügy | Fővárosi Kormányhivatal Népegészségügyi Szakigazgatási Szerve | Országos Tisztifőorvosi Hivatal |
 
@@ -200,4 +198,4 @@ Az 1. § (3) bekezdésében hivatkozott szakhatóságok
 
 | - légiközlekedés a) polgári célú b) állami célú | a) Nemzeti Közlekedési Hatóság Légügyi Hivatala b) Nemzeti Közlekedési Hatóság Légügyi Hivatala | a) Nemzeti Közlekedési Hatóság Központja b) honvédelemért felelős miniszter |
 
-[^2]: A 2. számú melléklet a 351/2010. (XII. 30.) Korm. rendelet 215. §-ával megállapított,a 158/2011. (VIII. 11.) Korm. rendelet 15. §-a, a 259/2011. (XII. 7.) Korm. rendelet 20. § (4) bekezdése, a 282/2011. (XII. 21.) Korm. rendelet 29. §-a, a 23/2012. (II. 29.) Korm. rendelet 34. §-a, a 46/2013. (II. 19.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^2]: A 2. számú melléklet a 351/2010. (XII. 30.) Korm. rendelet 215. §-ával megállapított,a 158/2011. (VIII. 11.) Korm. rendelet 15. §-a, a 259/2011. (XII. 7.) Korm. rendelet 20. § (4) bekezdése, a 282/2011. (XII. 21.) Korm. rendelet 29. §-a, a 23/2012. (II. 29.) Korm. rendelet 34. §-a, a 46/2013. (II. 19.) Korm. rendelet 2. §-a, az 527/2013. (XII. 30.) Korm. rendelet 63. § (2) bekezdése szerint módosított szöveg.
