@@ -17,3 +17,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-75-00-00
 | 2013-07-01 | 2012. évi CCVIII. törvény | 2007-75-00-00.17 |
 | 2013-10-01 | 2013. évi CXLIII. törvény | 2007-75-00-00.18 |
 | 2013-11-30 | 2013. évi CC. törvény | 2007-75-00-00.19 |
+| 2014-01-01 | 2013. évi CC. törvény | 2007-75-00-00.20 |

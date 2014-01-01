@@ -14,9 +14,7 @@ e) a 70 év feletti kamarai tag könyvvizsgálóknak a jogszabályi kötelezetts
 
 indított kamarai hatósági eljárásért.
 
-(3) Az a kamarai tag könyvvizsgáló, aki egyéni vállalkozóként kéri a 35. § szerinti eljárás lefolytatását, mentesül ezen eljárás tekintetében az igazgatási szolgáltatási díjfizetés alól.
-
-(4) A könyvvizsgáló cégként nyilvántartásba vett egyéni vállalkozó az 50. § (3) bekezdés szerinti eljárás tekintetében mentesül az igazgatási szolgáltatási díjfizetés alól.
+(3)–(4)
 
 (5) Az (1) bekezdés szerinti igazgatási szolgáltatási díj összege természetes személy ügyfelek esetén 25 000 forint, gazdálkodó szervezetek (szervezetek) esetén 50 000 forint.
 

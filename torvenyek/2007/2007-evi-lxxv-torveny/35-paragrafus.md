@@ -1,4 +1,4 @@
-35. § Kérelem alapján jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység végzésére engedélyt kell adni annak a gazdálkodó szervezetnek (szervezetnek), amely megfelel az alábbi követelményeknek:
+35. § Kérelem alapján jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység végzésére engedélyt kell adni annak a gazdálkodó szervezetnek (szervezetnek) – az egyéni vállalkozó kivételével –, amely megfelel az alábbi követelményeknek:
 
 a) Magyarország területén jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet kíván folytatni,
 

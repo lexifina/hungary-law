@@ -28,7 +28,7 @@
 
 13. Kamarai tag könyvvizsgáló: az a természetes személy, aki a kamara engedélyével jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység végzésére jogosult Magyarország területén.
 
-14. Könyvvizsgáló cég: jogi formájától függetlenül az a gazdálkodó szervezet (szervezet), amely a kamara engedélyével jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység végzésére jogosult Magyarország területén.
+14. Könyvvizsgáló cég: az egyéni vállalkozó kivételével az a gazdálkodó szervezet (szervezet), amely a kamara engedélyével jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység végzésére jogosult Magyarország területén.
 
 15. Könyvvizsgáló cég kapcsolt vállalkozása: jogi formájától függetlenül bármely olyan gazdálkodó szervezet (szervezet), amely közös tulajdonlás, ellenőrzés vagy vezetés révén kapcsolatban áll a könyvvizsgáló céggel.
 
