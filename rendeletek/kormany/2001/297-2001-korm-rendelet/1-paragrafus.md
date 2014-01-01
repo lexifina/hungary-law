@@ -12,4 +12,7 @@ b) szövetkezet esetén – ide nem értve az a) pont alá tartozó szövetkezet
 
 c) fióktelep esetén a Hpt. 2. számú melléklete III. fejezetének 25. d) pontjában meghatározott személy.
 
+(4)[^2] E rendelet alkalmazásában ügyfél a természetes személy, vállalkozás és szervezet (a továbbiakban együtt: ügyfél).
+
 [^1]: Az 1. § (1) bekezdése a 80/2010. (III. 25.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. § (4) bekezdését az 537/2013. (XII. 30.) Korm. rendelet 23. §-a iktatta be.

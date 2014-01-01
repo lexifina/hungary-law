@@ -1,4 +1,4 @@
-## 16. §[^32] A pénzváltási tevékenységet közvetítő az euróra és az amerikai dollárra valutaárfolyamot köteles jegyezni.
+## 16. §[^33] A pénzváltó az euróra és az amerikai dollárra valutaárfolyamot köteles jegyezni.
 
 17. § (1) Az árfolyamjegyzés úgy történik, hogy a külföldi fizetőeszköz valamely egységét kell forintban kifejezni.
 
@@ -18,4 +18,4 @@ c) a vételi és az eladási árfolyamokat.
 
 (6) A pénzváltó köteles az árfolyamjegyzéket áttekinthetően elkészíteni és az ügyfelek által jól látható helyen kifüggeszteni.
 
-[^32]: A 16. § a 80/2010. (III. 25.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^33]: A 16. § az 537/2013. (XII. 30.) Korm. rendelet 27. §-ával megállapított szöveg.
