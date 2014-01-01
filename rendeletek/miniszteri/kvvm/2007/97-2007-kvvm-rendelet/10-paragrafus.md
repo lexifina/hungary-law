@@ -2,7 +2,7 @@
 
 (2) Az üzemeltetőnek a már üzemeltetési engedéllyel rendelkező vízilétesítmények esetén az 5. § (3) bekezdés szerinti hozzájárulást 2009. január 1-jéig kell megszerezni.
 
-(3)[^2]
+(3)[^3]
 
 (4) A 3. § (1) bekezdésében meghatározott céloknak megfelelő és műszaki tervek nélkül is elvégezhető észleléseket az üzemeltető szerv köteles e rendelet hatálybalépését követő egy éven belül megkezdeni és folytatni mindaddig, amíg a vízilétesítmény megfigyelési rendszerének tervei megvalósulnak.
 
@@ -126,4 +126,4 @@ Dunai Hőerőmű vízkivétele
 
 Észak-pesti szennyvíztisztító telep
 
-[^2]: A 10. § (3) bekezdését a 147/2011. (XII. 23.) VM rendelet 17. § e) pontja hatályon kívül helyezte.
+[^3]: A 10. § (3) bekezdését a 147/2011. (XII. 23.) VM rendelet 17. § e) pontja hatályon kívül helyezte.
