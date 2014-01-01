@@ -1,4 +1,4 @@
-## 1. §[^1] E rendelet 2–5. §-ának hatálya a polgárőrségről és a polgárőri tevékenység szabályairól szóló 2011. évi CLXV. törvény (a továbbiakban: Ptv.) 26. § (1) bekezdése alapján Magyarország 2013. évi központi költségvetéséről szóló törvényben meghatározott, az Országos Polgárőr Szövetségnek juttatott költségvetési támogatás elosztására és felhasználására terjed ki.
+## 1. §[^1] E rendelet 2–5. §-ának hatálya a polgárőrségről és a polgárőri tevékenység szabályairól szóló 2011. évi CLXV. törvény (a továbbiakban: Ptv.) 26. § (1) bekezdése alapján a központi költségvetésről szóló törvényben meghatározott, az Országos Polgárőr Szövetségnek juttatott költségvetési támogatás elosztására és felhasználására terjed ki.
 
 ## 2. A költségvetési támogatás
 
@@ -30,5 +30,5 @@ j)[^2] a Ptv. 11. §-ában meghatározott polgárőr igazolvány kiadásával j�
 
 (4) Ha sem a költségvetési támogatás, sem az OPSZ egyéb bevételei nem fedezik az (1) bekezdésben meghatározott valamennyi feladat ellátását, úgy a költségvetési támogatást elsősorban az OPSZ, valamint a polgárőr egyesületek és területi polgárőr szövetségek működési költségeinek, valamint a Ptv. 3. § (1) bekezdés és a Ptv. 7. § (5) bekezdés szerinti alapfeladatok ellátásának biztosítására kell felhasználni.
 
-[^1]: Az 1. § a 81/2012. (XII. 28.) BM rendelet 32. §-ával megállapított szöveg.
+[^1]: Az 1. § a 81/2012. (XII. 28.) BM rendelet 32. §-ával megállapított, a 74/2013. (XII. 18.) BM rendelet 3. §-a szerint módosított szöveg.
 [^2]: A 2. § (1) bekezdését az 50/2012. (X. 11.) BM rendelet 5. § (1) bekezdése iktatta be.
