@@ -6,12 +6,13 @@
 
 (3)[^11] A díjtámogatás forrása a Vidékfejlesztési Minisztérium Folyó kiadások és jövedelemtámogatások előirányzat felhasználási keretszámla, számlaszáma: 10032000-01220191-51200002.
 
-(4) A 3. § szerinti díjtámogatásra évente ötvenmillió forint használható fel.
+(4)[^12] A 3. § szerinti díjtámogatásra évente hatvanmillió forint használható fel.
 
-(5)[^12] Ha a díjtámogatásra vonatkozó igények összeg meghaladja a (4) bekezdés szerinti összeget, úgy a kifizetésre kerülő díjtámogatások összegét az MVH minden kedvezményezett esetében a (4) bekezdés szerinti összeg erejéig arányosan csökkenti.
+(5)[^13] Ha a díjtámogatásra vonatkozó igények összeg meghaladja a (4) bekezdés szerinti összeget, úgy a kifizetésre kerülő díjtámogatások összegét az MVH minden kedvezményezett esetében a (4) bekezdés szerinti összeg erejéig arányosan csökkenti.
 
-(6)[^13] A jogosulatlanul igénybe vett díjtámogatást a kedvezményezett – a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény (a továbbiakban: eljárási törvény) 69. §-ában foglaltakra figyelemmel – az MVH határozatában előírtak szerint köteles visszafizetni.
+(6)[^14] A jogosulatlanul igénybe vett díjtámogatást a kedvezményezett – a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény (a továbbiakban: eljárási törvény) 69. §-ában foglaltakra figyelemmel – az MVH határozatában előírtak szerint köteles visszafizetni.
 
 [^11]: Az 5. § (3) bekezdése a 93/2012. (VIII. 30.) VM rendelet 2. §-ával megállapított szöveg.
-[^12]: Az 5. § (5) bekezdése a 171/2009. (XII. 22.) FVM rendelet 7. § (3) bekezdésével megállapított szöveg.
-[^13]: Az 5. § (6) bekezdése a 171/2009. (XII. 22.) FVM rendelet 7. § (3) bekezdésével megállapított szöveg.
+[^12]: Az 5. § (4) bekezdése a 130/2013. (XII. 21.) VM rendelet 13. §-a szerint módosított szöveg.
+[^13]: Az 5. § (5) bekezdése a 171/2009. (XII. 22.) FVM rendelet 7. § (3) bekezdésével megállapított szöveg.
+[^14]: Az 5. § (6) bekezdése a 171/2009. (XII. 22.) FVM rendelet 7. § (3) bekezdésével megállapított szöveg.
