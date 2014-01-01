@@ -40,6 +40,6 @@ c) a dombvidéki patakok, állandó vagy időszakos vízfolyások, völgyek, ví
 
 d) a folyók elhagyott „ősmedrei”, vagyis a folyókat kísérő, a jelenlegi medertől távolabb elhelyezkedő olyan vonulatok, terepmélyedések, amelyek eredete (származása) a folyó egykori medrére vezethető vissza;
 
-14.[^1] árvízi lefolyási sáv: a nagyvízi meder azon része, ahol a legkedvezőbb áramlási viszonyok mellett az árvízi vízhozamok levonulnak.
+14.[^2] árvízi lefolyási sáv: a nagyvízi meder azon része, ahol a legkedvezőbb áramlási viszonyok mellett az árvízi vízhozamok levonulnak.
 
-[^1]: Az 1. § 14. pontját a 209/2011. (X. 12.) Korm. rendelet 1. §-a iktatta be.
+[^2]: Az 1. § 14. pontját a 209/2011. (X. 12.) Korm. rendelet 1. §-a iktatta be.
