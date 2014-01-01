@@ -16,9 +16,12 @@ c) nyilatkozatot arról, hogy a megvalósított beruházással kapcsolatban ninc
 
 (6) Az összevont támogatási kérelemről – a miniszter által jóváhagyott elismerési terv figyelembe vételével – az MVH dönt és a támogatást a támogatási kérelem beérkezésétől számított hat hónapon belül fizeti ki.
 
-(6a)[^17] Az ügyfélnek a beruházás pénzügyi rendezését, használatba vételét, üzembe helyezését, illetve tulajdonba kerülését igazoló dokumentumokat legkésőbb a (6) bekezdésben biztosított ügyintézési határidő letelte előtt 30 nappal kell az MVH részére benyújtania, azzal, hogy a pénzügyi rendezésnek eddig az időpontig kell megtörténnie, valamint a fenti dokumentumok megszerzéséhez szükséges legelső hatósági eljárás megindítását az (1) bekezdés szerinti összevont támogatási kérelem MVH-hoz benyújtását megelőzően kérelmezni kell. Az igazoló dokumentumok benyújtására nyitva álló határidő jogvesztő.
+(6a)[^17]
 
 (7) Az MVH az összevont támogatási kérelemnek a 3. §-ban, illetve a 4. §-ban meghatározott támogatás iránti részét szétválasztva, külön eljárásban bírálja el.
 
+(8)[^18] Az ügyfélnek a beruházás pénzügyi rendezését, használatba vételét, üzembe helyezését, illetve tulajdonba kerülését igazoló dokumentumokat legkésőbb a (6) bekezdésben biztosított ügyintézési határidő letelte előtt 60 nappal kell az MVH részére benyújtania azzal, hogy a pénzügyi rendezésnek eddig az időpontig kell megtörténnie, valamint a fenti dokumentumok megszerzéséhez szükséges legelső hatósági eljárás megindítását az (1) bekezdés szerinti összevont támogatási kérelem MVH-hoz történő benyújtását megelőzően kérelmezni kell. Az igazoló dokumentumok benyújtására nyitva álló határidő jogvesztő.
+
 [^16]: A 9. § a 65/2013. (VII. 29.) VM rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^17]: A 9. § (6a) bekezdését a 97/2013. (X. 22.) VM rendelet 7. §-a iktatta be.
+[^17]: A 9. § (6a) bekezdését a 97/2013. (X. 22.) VM rendelet 7. §-a iktatta be, hatályon kívül helyezte e módosító rendelet 10. §-a.
+[^18]: A 9. § (8) bekezdését a 97/2013. (X. 22.) VM rendelet 8. §-a iktatta be.
