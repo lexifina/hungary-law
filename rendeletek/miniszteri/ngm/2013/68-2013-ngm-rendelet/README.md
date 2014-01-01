@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-68-20-2
 | --- | --- | --- |
 | 2013-12-30 | 2013-68-20-2X.1 | 68/2013. (XII. 29.) NGM rendelet |
 | 2013-12-31 | 2013-68-20-2X.2 | 2010: CXXX. törvény |
+| 2014-01-01 | 2013-68-20-2X.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
