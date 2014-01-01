@@ -1,6 +1,6 @@
-## 62. §[^223] A szociális és gyermekvédelmi ellátások országos nyilvántartásáról szóló 392/2013. (XI. 12.) Korm. rendelettel megállapított 1. § (1) bekezdését, 5/A. §-t, 35. § (1) bekezdését, valamint 2. számú mellékletet, 2/A. számú mellékletet, 3. számú mellékletet, 4. számú mellékletet, 9. számú mellékletet és 12. számú mellékletet a 2013. december 15-ét követően indult ügyekben kell alkalmazni.
+## 63. §[^237] Az ápolási díj megállapítása vagy felülvizsgálata iránt 2014. január 1-jén folyamatban lévő ügyben a kérelmet benyújtó személy vagy az ápolási díj jogosultja a 25/A. § (1) bekezdés a) vagy b) pontja szerinti igazolás valamelyikének benyújtásával kérheti a kiemelt ápolási díjra való jogosultság megállapítását.
 
-1. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^224]
+1. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^238]
 
 ## Vagyonnyilatkozat
 
@@ -76,5 +76,5 @@ __________
 
 ** Becsült forgalmi értékként a jármű kora és állapota szerinti értékét kell feltüntetni.
 
-[^223]: A 62. §-t a 392/2013. (XI. 12.) Korm. rendelet 13. §-a iktatta be.
-[^224]: Az 1. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 453. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^237]: A 63. §-t az 509/2013. (XII. 29.) Korm. rendelet 11. §-a iktatta be.
+[^238]: Az 1. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 453. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

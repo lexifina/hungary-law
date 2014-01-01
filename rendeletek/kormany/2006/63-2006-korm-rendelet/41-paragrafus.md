@@ -1,4 +1,4 @@
-41. §[^165] (1)[^166] Közgyógyellátás keretében gyógyító ellátás csak hatályos igazolvánnyal vehető igénybe.
+41. §[^178] (1)[^179] Közgyógyellátás keretében gyógyító ellátás csak hatályos igazolvánnyal vehető igénybe.
 
 (2) A közgyógyellátás keretében
 
@@ -22,8 +22,8 @@ c) az orvosi rehabilitáció céljából igénybe vehető gyógyászati ellátá
 
 (4) Ha a közgyógyellátásra jogosult személyes gondoskodást nyújtó bentlakásos szociális intézményben vagy bentlakásos gyermek- és ifjúságvédelmi intézményben került elhelyezésre, a (2) bekezdésben foglaltakon túl a gyógyító ellátást részére az intézmény orvosa is rendelheti.
 
-(5)[^167] Közgyógyellátás jogcímen történő gyógyító ellátások rendelésekor az orvosnak egyeztetnie kell a rendelkezésre álló dokumentációban és az igazolványon szereplő adatokat, továbbá ellenőriznie kell az igazolvány lejáratának időpontját. A vényen a közgyógyellátási jogcímet megjelölni csak hatályos igazolvány bemutatásakor lehet.
+(5)[^180] Közgyógyellátás jogcímen történő gyógyító ellátások rendelésekor az orvosnak egyeztetnie kell a rendelkezésre álló dokumentációban és az igazolványon szereplő adatokat, továbbá ellenőriznie kell az igazolvány lejáratának időpontját. A vényen a közgyógyellátási jogcímet megjelölni csak hatályos igazolvány bemutatásakor lehet.
 
-[^165]: A 41. § e rendelet 57. § (3) bekezdése alapján 2006. július 1-jén lépett hatályba.
-[^166]: A 41. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 453. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^167]: A 41. § (5) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 453. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^178]: A 41. § e rendelet 57. § (3) bekezdése alapján 2006. július 1-jén lépett hatályba.
+[^179]: A 41. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 453. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^180]: A 41. § (5) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 453. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

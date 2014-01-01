@@ -2,11 +2,9 @@
 
 (2)[^39] A havi rendszeres szociális ellátás összegének változásáról nem kell határozatot hozni, ha
 
-a) az időskorúak járadéka, illetve a családi jövedelemszámításnál figyelembe veendő közeli hozzátartozó nélküli személy számára folyósított rendszeres szociális segély összege kizárólag az öregségi nyugdíj legkisebb összegének emelkedése miatt,
+a) az időskorúak járadéka, illetve a családi jövedelemszámításnál figyelembe veendő közeli hozzátartozó nélküli személy számára folyósított rendszeres szociális segély összege kizárólag az öregségi nyugdíj legkisebb összegének emelkedése miatt változik és az ellátásban részesülő személynek egyéb jövedelme nincs,
 
-b) az ápolási díj összege kizárólag a központi költségvetésről szóló törvényben meghatározott alapösszeg módosulása miatt
-
-változik, és az ellátásban részesülő személynek egyéb jövedelme nincs.
+b) az ápolási díj összege kizárólag a központi költségvetésről szóló törvényben meghatározott alapösszeg emelkedése vagy az ápolási díj alapösszeghez viszonyított arányának emelkedése miatt változik és a jogosultat az ápolási díj az Szt. 44. § (1) bekezdése szerinti összegben illeti meg.
 
 (3)[^40] Az Szt. 25. § (4) bekezdése szerinti felülvizsgálatot – kivéve, ha annak lefolytatására az Szt. 25. § (13) bekezdése alapján az aktív korúak ellátása szünetelésének megszűnését követően kerül sor –
 
@@ -23,7 +21,7 @@ b) az Szt. 25. § (4) bekezdés b) pontja szerinti esetben első felülvizsgála
 (4)[^43] A havi rendszeres szociális ellátás Szt. 25. §-ának (5) bekezdése szerinti felülvizsgálata esetén csak a támogatás összegének meghatározásához szükséges jövedelmi adatok kérhetőek be.
 
 [^38]: A 7. § (1) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 454. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^39]: A 7. § (2) bekezdése a 331/2011. (XII. 29.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^39]: A 7. § (2) bekezdése az 509/2013. (XII. 29.) Korm. rendelet 5. §-ával megállapított szöveg.
 [^40]: A 7. § új (3) bekezdését a 341/2008. (XII. 30.) Korm. rendelet 9. §-a iktatta be, egyidejűleg az eredeti (3) bekezdés számozását (4) bekezdésre változtatta. A 7. § (3) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 454. §-a hatályon kívül helyezte, újonnan a 95/2013. (III. 29.) Korm. rendelet 14. §-a iktatta be.
 [^41]: A 7. § (3a) bekezdését a 95/2013. (III. 29.) Korm. rendelet 14. §-a iktatta be.
 [^42]: A 7. § (3b) bekezdését a 95/2013. (III. 29.) Korm. rendelet 14. §-a iktatta be.

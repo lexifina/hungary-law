@@ -4,12 +4,12 @@
 
 (1a)[^95] Az (1) bekezdésben foglaltaktól eltérően a jogosultság megszüntetését megelőzően teljesített együttműködés is figyelembe vehető a megelőző együttműködés számításánál abban az esetben, ha a közfoglalkoztatási jogviszony azonnali felmondással történő megszüntetésére a közfoglalkoztatásról és a közfoglalkoztatáshoz kapcsolódó, valamint egyéb törvények módosításáról szóló 2011. évi CVI. törvény (a továbbiakban: Kftv.) 1. § (4e) bekezdése alapján, a Kftv. 1. § (4a) bekezdés a) pontjában foglalt okból került sor.
 
-(2)[^96] A rendszeres szociális segély Szt. 37. § (4) bekezdése szerinti legmagasabb összege 2013. január 1-jétől – a (3) bekezdés szerinti eltéréssel – 44 508 Ft.
+(2)[^96] A rendszeres szociális segély Szt. 37. § (4) bekezdése szerinti legmagasabb összege 2014. január 1-jétől – a (3) bekezdés szerinti eltéréssel – 45 569 Ft.
 
-(3)[^97] Abban az esetben, ha a rendszeres szociális segélyre jogosult családja tagjának foglalkoztatást helyettesítő támogatásra való jogosultságot állapítottak meg, a rendszeres szociális segély Szt. 37. § (4) bekezdése szerinti legmagasabb összege 21 708 Ft.
+(3)[^97] Abban az esetben, ha a rendszeres szociális segélyre jogosult családja tagjának foglalkoztatást helyettesítő támogatásra való jogosultságot állapítottak meg, a rendszeres szociális segély Szt. 37. § (4) bekezdése szerinti legmagasabb összege 22 769 Ft.
 
 [^93]: A 17/A. §-t újonnan a 95/2013. (III. 29.) Korm. rendelet 18. §-a iktatta be.
 [^94]: A 17/B. §-t a 326/2006. (XII. 23.) Korm. rendelet 6. §-a iktatta be, szövege a 358/2010. (XII. 30.) Korm. rendelet 12. §-ával megállapított szöveg.
 [^95]: A 17/B. § (1a) bekezdését a 257/2013. (VII. 5.) Korm. rendelet 20. §-a iktatta be.
-[^96]: A 17/B. § (2) bekezdése a 421/2012. (XII. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^97]: A 17/B. § (3) bekezdését a 331/2011. (XII. 29.) Korm. rendelet 10. § (2) bekezdése iktatta be, szövege a 421/2012. (XII. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^96]: A 17/B. § (2) bekezdése a 421/2012. (XII. 29.) Korm. rendelet 1. §-ával megállapított, az 509/2013. (XII. 29.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
+[^97]: A 17/B. § (3) bekezdését a 331/2011. (XII. 29.) Korm. rendelet 10. § (2) bekezdése iktatta be, szövege a 421/2012. (XII. 29.) Korm. rendelet 1. §-ával megállapított, az 509/2013. (XII. 29.) Korm. rendelet 14. § c) pontja szerint módosított szöveg.

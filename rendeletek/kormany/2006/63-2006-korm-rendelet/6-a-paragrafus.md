@@ -20,7 +20,7 @@ c)[^32] 19. § (3) bekezdésének, 33. § (1) bekezdés f) és g) pontjának, 35
 
 d)[^33] a 32/D. § (1)–(4) bekezdése alkalmazásában a kijelölt kerületi hivatal a Budapest Főváros Kormányhivatala IX. Kerületi Hivatala (a továbbiakban: kijelölt járási hivatal),
 
-e)[^34] 43. § (4) bekezdés a) pontja alkalmazásában egészségügyi államigazgatási szerv a járási hivatal népegészségügyi intézetének tisztiorvosa,
+e)[^34]
 
 f)[^35] 50. §-a (2) bekezdésének, 50/A. §-a (4)–(7) bekezdéseinek, 50/C. §-a (1) bekezdésének, 50/D. §-ának, valamint 53. §-a (1) és (3) bekezdésének alkalmazásában egészségbiztosítási szerv a területileg illetékes fővárosi és megyei kormányhivatal egészségbiztosítási pénztári szakigazgatási szerve,
 
@@ -38,7 +38,7 @@ h) 55. §-a (7) bekezdésének alkalmazásában ingatlanügyi hatóság az ingat
 [^31]: A 6/A. § (3) bekezdésének b) pontja a 395/2007. (XII. 27.) Korm. rendelet 4. § (1) bekezdésével megállapított, a 113/2011. (VII. 7.) Korm. rendelet 33. §-a szerint módosított szöveg.
 [^32]: A 6/A. § (3) bekezdés c) pontja a 358/2010. (XII. 30.) Korm. rendelet 8. §-ával megállapított szöveg.
 [^33]: A 6/A. § (3) bekezdésének d) pontját a 213/2007. (VIII. 7.) Korm. rendelet 16. § (6) bekezdésének c) pontja hatályon kívül helyezte, újonnan a 352/2012. (XII. 13.) Korm. rendelet 3. § (4) bekezdése iktatta be.
-[^34]: A 6/A. § (3) bekezdésének e) pontja a 174/2012. (VII. 26.) Korm. rendelet 38. § (3) bekezdésével megállapított szöveg.
+[^34]: A 6/A. § (3) bekezdés e) pontját az 509/2013. (XII. 29.) Korm. rendelet 13. § a) pontja hatályon kívül helyezte.
 [^35]: A 6/A. § (3) bekezdésének f) pontja a 395/2007. (XII. 27.) Korm. rendelet 4. § (1) bekezdésével megállapított, a 358/2010. (XII. 30.) Korm. rendelet 14. § (1) bekezdés 4. pontja szerint módosított szöveg.
 [^36]: A 6/A. § (3) bekezdés g) pontja a 358/2010. (XII. 30.) Korm. rendelet 14. § (1) bekezdés 5. pontja szerint módosított szöveg.
 [^37]: A 6/A. § (4) bekezdését a 395/2007. (XII. 27.) Korm. rendelet 4. § (2) bekezdése iktatta be, hatályon kívül helyezte a 182/2009. (IX. 10.) Korm. rendelet 454. §-a. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

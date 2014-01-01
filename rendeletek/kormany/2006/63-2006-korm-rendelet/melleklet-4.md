@@ -1,4 +1,4 @@
-4. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^228]
+4. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^242]
 
 ## KÉRELEM
 
@@ -55,6 +55,10 @@ az ápolási díj megállapítására
 1.2.1.3. ⬜ 18 éven aluli tartósan beteg,
 
 1.2.1.4. ⬜ 18. életévét betöltött tartósan beteg.
+
+1.2.1.5. ⬜ kiemelt ápolást igényel, mert egészségkárosodása jelentős, és önellátásra nem vagy csak segítséggel képes,
+
+1.2.1.6. ⬜ kiemelt ápolást igényel, mert rá tekintettel a magasabb összegű családi pótlékot a kiemelt ápolási díjra való jogosultságot megalapozó körülményekről szóló miniszteri rendeletben meghatározott betegségre vagy fogyatékosságra tekintettel folyósítják.
 
 1.2.2. Ha a magasabb összegű ápolási díj megállapítását fokozott ápolást igénylő súlyosan fogyatékos személyre való tekintettel kérem, egyben tudomásul veszem az ezzel kapcsolatos vizsgálat elvégzésének szükségességét.
 
@@ -160,8 +164,20 @@ d) illemhelyet használni, vagy
 
 e) lakáson belül – segédeszköz igénybevételével is – közlekedni.
 
+4.1.4. kiemelt ápolási díjra jogosult a hozzátartozó, ha
+
+4.1.4.1 az ápolt személy a rehabilitációs hatóság komplex minősítése alapján a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény 3. § (2) bekezdés b) pont bd) alpontja szerinti minősítési kategóriába tartozik (egészségkárosodása jelentős és önellátásra nem vagy csak segítséggel képes), vagy
+
+4.1.4.2. az ápolt személyre tekintettel a magasabb összegű családi pótlékot a kiemelt ápolási díjra való jogosultságot megalapozó körülményekről szóló miniszteri rendeletben felsorolt és ott meghatározott súlyosságú betegségre vagy fogyatékosságra tekintettel folyósítják.
+
 4.2. A kérelem 1.2.4. pontját abban az esetben kell kitölteni, ha az ápolt személy közoktatási intézmény tanulója, óvodai nevelésben részesül, nappali szociális intézményi ellátásban részesül vagy felsőoktatási intézmény hallgatója. Az erről szóló igazolást a kérelemhez csatolni kell.
 
-4.3. A kérelemhez minden esetben mellékelni kell a háziorvos igazolását.
+4.3. A kérelemhez – a kiemelt ápolási díj iránti kérelmet kivéve – minden esetben mellékelni kell a háziorvos igazolását.
 
-[^228]: A 4. számú melléklet a 392/2013. (XI. 12.) Korm. rendelet 14. § d) pontjával megállapított szöveg.
+4.4. A kiemelt ápolási díj iránti kérelemhez csatolni kell
+
+4.4.1. a rehabilitációs hatóság érvényes és hatályos szakhatósági állásfoglalását az ápolt személy egészségi állapotáról, vagy
+
+4.4.2. a kiemelt ápolási díjra való jogosultságot megalapozó körülményekről szóló miniszteri rendelet szerinti igazolást.
+
+[^242]: A 4. számú melléklet a 392/2013. (XI. 12.) Korm. rendelet 14. § d) pontjával megállapított, az 509/2013. (XII. 29.) Korm. rendelet 12. § (2) bekezdése szerint módosított szöveg.

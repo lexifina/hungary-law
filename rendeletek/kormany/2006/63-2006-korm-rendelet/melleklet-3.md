@@ -1,4 +1,4 @@
-3. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^227]
+3. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^241]
 
 ## KÉRELEM
 
@@ -314,4 +314,4 @@ d) az 5.3.3. pont d) és e) alpontjában meghatározott esetben: a korábban meg
 
 5.3.6. A kérelmet a kérelmezőn túlmenően a házastársának (élettársának) és a nagykorú gyermekeknek is alá kell írniuk. Ha az ellátást kérő vagy annak közeli hozzátartozója nem cselekvőképes, helyette a törvényes képviselője jogosult az aláírásra.
 
-[^227]: A 3. számú melléklet a 392/2013. (XI. 12.) Korm. rendelet 14. § c) pontjával megállapított szöveg.
+[^241]: A 3. számú melléklet a 392/2013. (XI. 12.) Korm. rendelet 14. § c) pontjával megállapított szöveg.

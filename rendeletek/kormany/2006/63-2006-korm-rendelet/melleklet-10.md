@@ -108,25 +108,19 @@
 
 ## 3.2.1. A kérelmező családjában, a kérelmezővel azonos lakcímen élő közeli hozzátartozók száma: ......... fő.
 
-|  | A | B | C | D | E | F | G |
+|  | A | B | C | D | E | F |
 
-| 1. | Közeli hozzátartozó neve (születési neve) | Anyja neve | Születési helye, ideje (év, hó, nap) | Társadalom- biztosítási Azonosító Jele | Családi kapcsolat megnevezése | Közeli hozzátartozó születési ideje | Megjegyzés* |
+| 1. | Közeli hozzátartozó neve (születési neve) | Anyja neve | Születési helye, ideje (év, hó, nap) | Társadalom- biztosítási Azonosító Jele | Családi kapcsolat megnevezése | Megjegyzés* |
 
-| 2. |  |  |  |  |  |  |  |
+| 2. |  |  |  |  |  |  |
 
-| 3. |  |  |  |  |  |  |  |
+| 3. |  |  |  |  |  |  |
 
-| 4. |  |  |  |  |  |  |  |
+| 4. |  |  |  |  |  |  |
 
-| 5. |  |  |  |  |  |  |  |
+| 5. |  |  |  |  |  |  |
 
-| 6. |  |  |  |  |  |  |  |
-
-## * Ebben az oszlopban kell feltüntetni, ha
-
-## a) a 20 évesnél fiatalabb gyermek nem jár oktatási intézménybe, de önálló keresettel még nem rendelkezik,
-
-## b) életkortól függetlenül a gyermek tartós betegségének vagy fogyatékosságának fennállását, amennyiben ez az állapot a gyermek 25. életévének betöltését megelőzően is fennállt.
+| 6. |  |  |  |  |  |  |
 
 ## 3.3. Jövedelmi adatok
 
@@ -198,7 +192,7 @@
 
 ## 5.1.1. Az alanyi és a normatív jogcímen megállapítható közgyógyellátás iránti kérelmet annál a járási hivatalnál kell benyújtani, amelynek illetékességi területén a kérelmező lakóhelye van. Ha a kérelmező életvitelszerűen a bejelentett tartózkodási helyén lakik, a kérelmet a tartózkodási hely szerint illetékes járási hivatalnál kell benyújtani. A kérelem a kormányablaknál is előterjeszthető, ebben az esetben a kormányablak továbbítja a benyújtott kérelmet a járási hivatal felé.
 
-## 5.1.2. A méltányossági jogcímen megállapítható közgyógyellátást a kérelmező azon lakcíme szerint illetékes települési önkormányzat jegyzője bírálja el, ahol életvitelszerűen tartózkodik. FIGYELEM! Méltányossági jogcímen a közgyógyellátás kizárólag abban az esetben állapítható meg, ha az igénylő alanyi vagy normatív jogcímen nem jogosult az ellátásra!
+## 5.1.2. A méltányossági jogcímen megállapítható közgyógyellátást a kérelmező azon lakcíme szerint illetékes települési önkormányzat képviselő testülete bírálja el, ahol életvitelszerűen tartózkodik. FIGYELEM! Méltányossági jogcímen a közgyógyellátás kizárólag abban az esetben állapítható meg, ha az igénylő alanyi vagy normatív jogcímen nem jogosult az ellátásra!
 
 ## 5.2. A jövedelmi adatok kitöltéséhez
 
@@ -278,7 +272,7 @@
 
 ## 5.2.9. A jövedelemről a kérelemhez mellékelni kell a jövedelem típusának megfelelő iratot vagy annak másolatát.
 
-10. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^233]
+10. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^247]
 
 ## Háziorvosi igazolás
 
@@ -336,4 +330,4 @@ II. A társadalombiztosítás által támogatott, tartósan alkalmazott gyógyí
 
 III. Háziorvosra (intézményi orvosra) vonatkozó adatok, a háziorvos nyilatkozata
 
-[^233]: A 10. számú melléklet a 326/2006. (XII. 23.) Korm. rendelet 11. § (2) bekezdésével megállapított, a 182/2009. (IX. 10.) Korm. rendelet 453. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^247]: A 10. számú melléklet a 326/2006. (XII. 23.) Korm. rendelet 11. § (2) bekezdésével megállapított, a 182/2009. (IX. 10.) Korm. rendelet 453. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
