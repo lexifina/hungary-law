@@ -10,13 +10,13 @@
 
 | 4. | további régészeti feladatellátás meghatározása | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala | nincs |
 
-| 5. | környezetvédelmi és természetvédelmi hatósági engedélyezési eljárások | Nyugat-Dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 5. | környezetvédelmi és természetvédelmi hatósági engedélyezési eljárások | Nyugat-Dunántúli Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
 | 6. | útügyi hatósági engedélyezési eljárások | Vas Megyei Kormányhivatal Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
 | 7. | a Magyar Kereskedelmi Engedélyezési Hivatalról és a területi mérésügyi és műszaki biztonsági hatóságokról szóló 320/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdése és 13. § (2) bekezdése szerinti engedélyezési eljárások | Győr-Moson-Sopron Megyei Kormányhivatal Győri Mérésügyi és Műszaki Biztonsági Hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
-| 8. | vízjogi hatósági eljárások | Nyugat-Dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 8. | vízjogi hatósági eljárások | Nyugat-dunántúli Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
 | 9. | hírközlési hatósági eljárások | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
@@ -32,7 +32,7 @@
 
 | 15. | azon beépített tűzoltó berendezések létesítésével és használatbavételi ügyeivel kapcsolatos eljárások, amelyek tervezése, kivitelezése jogszabályban, nemzeti szabványban nem szabályozott | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-2. melléklet a 462/2013. (XII. 4.) Korm. rendelethez
+2. melléklet a 462/2013. (XII. 4.) Korm. rendelethez[^2]
 
 Az 1. § (1) bekezdése szerinti nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításához szükséges hatósági engedélyezési eljárásokban közreműködő hatáskörrel rendelkező szakhatóságok
 
@@ -44,7 +44,9 @@ Az 1. § (1) bekezdése szerinti nemzetgazdasági szempontból kiemelt jelentős
 
 | 3. | a településrendezési követelményeknek és a helyi építési szabályzatnak való megfelelőség | Szombathely Megyei Jogú Város Önkormányzatának jegyzője | Vas Megyei Kormányhivatal |
 
-| 4. | környezetvédelem, természetvédelem és vízügy | Nyugat-Dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 4. | környezetvédelem, természetvédelem | Nyugat-dunántúli Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+
+| 4a. | vízügy | Nyugat-dunántúli Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
 | 5. | közlekedés: közút | Vas Megyei Kormányhivatal Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
@@ -65,3 +67,5 @@ Az 1. § (1) bekezdése szerinti nemzetgazdasági szempontból kiemelt jelentős
 | 13. | egészségügy | Vas Megyei Kormányhivatal Népegészségügyi Szakigazgatási Szerve | Országos Tisztifőorvosi Hivatal |
 
 | 14. | régészet és örökségvédelem | Szombathelyi Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Vas Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala, régészet esetében Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
+
+[^2]: A 2. melléklet az 527/2013. (XII. 30.) Korm. rendelet 158. § (2) bekezdése szerint módosított szöveg.
