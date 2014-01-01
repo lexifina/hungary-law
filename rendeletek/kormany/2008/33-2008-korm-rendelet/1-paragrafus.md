@@ -24,7 +24,7 @@ j) a településfejlesztésért és településrendezésért felelős miniszter 
 
 k) a területrendezésért felelős miniszter hatáskörébe tartozó szabályozott szakmák esetében a külön jogszabályban meghatározott, a mérnöki kamarák hatáskörébe tartozó területrendezési tervezési, területrendezési szakértői tevékenységeknél első fokon a Budapesti és Pest Megyei Mérnöki Kamarát, másodfokon a Magyar Mérnöki Kamarát,
 
-l) a környezetvédelemért, a vízgazdálkodásért és a természetvédelemért felelős miniszter hatáskörébe tartozó szabályozott szakmák esetében első fokon az Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőséget, másodfokon a környezetvédelemért, a vízgazdálkodásért, illetve a természetvédelemért felelős minisztert,
+l)[^3] a környezetvédelemért és a természetvédelemért felelős miniszter hatáskörébe tartozó szabályozott szakmák esetében első fokon az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőséget, másodfokon a környezetvédelemért és a természetvédelemért felelős minisztert,
 
 m) a közlekedésért felelős miniszter hatáskörébe tartozó szabályozott szakmák esetében:
 
@@ -40,7 +40,9 @@ n) a postaügyért felelős miniszter hatáskörébe tartozó szabályozott szak
 
 o) az elektronikus hírközlésért, illetve az informatikáért miniszter hatáskörébe tartozó szabályozott szakmák esetében informatikai és elektronikus hírközlési szakterületen első fokon a Nemzeti Média- és Hírközlési Hatóság Hivatalát, másodfokon a Nemzeti Média- és Hírközlési Hatóság Elnökét,
 
-p) az ügyvédi és ügyvédjelölti képesítések esetében első fokon a Budapesti Ügyvédi Kamarát, másodfokon a Magyar Ügyvédi Kamarát
+p) az ügyvédi és ügyvédjelölti képesítések esetében első fokon a Budapesti Ügyvédi Kamarát, másodfokon a Magyar Ügyvédi Kamarát,
+
+q)[^4] a vízgazdálkodásért felelős miniszter hatáskörébe tartozó szabályozott szakmák esetében első fokon az Országos Vízügyi Hatóságot, másodfokon a vízgazdálkodásért felelős minisztert
 
 ## jelöli ki.
 
@@ -82,3 +84,5 @@ c) az a) és b) pontban nem említett esetekben az Etv. 60/B. §-a szerinti elj�
 
 [^1]: Az 1. § a 282/2011. (XII. 21.) Korm. rendelet – 324/2011. (XII. 28.) Korm. rendelet 35. § (2)–(3) bekezdése szerint módosított – 26. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § (2) bekezdés f) pontja a 314/2012. (XI. 8.) Korm. rendelet 59. § a) pontja szerint módosított szöveg.
+[^3]: Az 1. § (2) bekezdés l) pontja az 527/2013. (XII. 30.) Korm. rendelet 59. § (1) bekezdésével megállapított szöveg.
+[^4]: Az 1. § (2) bekezdés q) pontját az 527/2013. (XII. 30.) Korm. rendelet 59. § (2) bekezdése iktatta be.
