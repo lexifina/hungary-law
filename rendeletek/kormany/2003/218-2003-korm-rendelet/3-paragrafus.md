@@ -1,4 +1,4 @@
-3. § (1)[^5] Az igazolvány kiadására, meghosszabbítására, visszavonására, cseréjére, pótlására, nyilvántartására irányuló eljárásban első fokon a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal), valamint a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala (a továbbiakban: KEK KH) jár el.
+3. § (1)[^5] Az igazolvány kiadására, meghosszabbítására, visszavonására, cseréjére, pótlására, nyilvántartására irányuló eljárásban első fokon a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal), a kormányablak, valamint a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala (a továbbiakban: KEK KH) jár el.
 
 (2)[^6] Az igazolvány kiadására irányuló eljárás kérelemre indul. A kérelemnek a 2. számú mellékletben meghatározott adatokat kell tartalmaznia. A kérelemhez mellékelni kell az 1. számú mellékletben meghatározott szakvéleményt vagy szakhatósági állásfoglalást. Ha az ügyfél nem személyesen vagy nem az (1) bekezdés szerinti hatóságnál nyújtja be kérelmét, egy darab igazolványképet is mellékelnie kell a kérelméhez.
 
@@ -16,7 +16,7 @@
 
 (8)[^13]
 
-[^5]: A 3. § (1) bekezdése a 280/2013. (VII. 24.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^5]: A 3. § (1) bekezdése az 515/2013. (XII. 30.) Korm. rendelet 19. §-ával megállapított szöveg.
 [^6]: A 3. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 312. § (1) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^7]: A 3. § (2a) bekezdését a 20/2013. (I. 30.) Korm. rendelet 1. § (2) bekezdése iktatta be.
 [^8]: A 3. § (3) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 314. §-a hatályon kívül helyezte, újonnan a 61/2012. (III. 30.) Korm. rendelet 4. §-a iktatta be, szövege a 95/2012. (V. 15.) Korm. rendelet 34. §-a, a 174/2012. (VII. 26.) Korm. rendelet 35. § (2) bekezdés a) pontja szerint módosított szöveg.
