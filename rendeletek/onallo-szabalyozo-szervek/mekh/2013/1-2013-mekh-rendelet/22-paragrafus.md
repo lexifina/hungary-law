@@ -1,5 +1,3 @@
-## 21. § Kapacitástúligénylés esetében a rendszerhasználó az adott átadási-átvételi pontra vonatkozóan meghirdetett kapacitásaukción ajánlattevőként kapacitás-lekötési jogot szerezhet. Az ajánlatot az érintett átadás-átvételi pont éves szállítási kapacitásdíjának %-ában kell megtenni. A licitálás alapértéke 0%. Az aukció nyertesei aukciós díjként az elnyert kapacitás-lekötésre vetítve megfizetik az ÜKSZ rendelkezései szerinti összeget az aukciós kiírás szerinti ütemezésben és fizetési határidővel. A megszerzett kapacitás lekötési jog alapján az átadási-átvételi pontra a kapacitás-lekötésre vonatkozó szállítási kapacitásdíjat a 2. mellékletben rögzítettek szerint kell megfizetni. Az aukciós díj határidőre történő megfizetésének elmulasztása a kapacitás lekötési jog automatikus, kártérítés nélküli elveszítését eredményezi.
-
 ## 10. Kereskedőváltás
 
 22. § (1) A kereskedőváltás miatt az átadási-átvételi pontonként legnagyobb órai és napi kapacitás igények bejelentését az ÜKSZ-ben meghatározott időpontig kell megtenni.

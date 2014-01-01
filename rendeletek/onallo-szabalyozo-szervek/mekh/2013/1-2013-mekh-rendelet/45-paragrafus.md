@@ -4,7 +4,7 @@
 
 ## 21. A kiegyenlítő fizetések általános szabályai
 
-45. § (1) A 24. § szerinti földgázelosztási díjakból származó árbevételt a földgázelosztói engedélyesek között indokolt költségeik arányában meg kell osztani, amelynek érdekében a 46. § szerinti havi és a 47. § szerinti éves kiegyenlítő fizetéseket kell végrehajtani e §-ban, valamint a 46–47. §-ban meghatározott szempontok figyelembevételével.
+45. § (1)[^104] A 24. § szerinti földgázelosztási díjakból származó árbevételt a földgázelosztók között indokolt költségeik arányában meg kell osztani, amelynek érdekében a 46. § szerinti havi és a 47. § szerinti éves kiegyenlítő fizetéseket kell végrehajtani e §-ban, valamint a 46–47. §-ban meghatározott szempontok figyelembevételével.
 
 (2) A kiegyenlítő fizetések számítása során figyelembe kell venni:
 
@@ -16,26 +16,39 @@ c) a hőmérséklet-korrigált mennyiségi adatokat és súlyarányokat, valamin
 
 d) a felhasználói létszámot, a felhasználóknál felszerelt gázmérők névleges teljesítményére vonatkozó adatokat, a felhasználói kapacitáslekötéseket (MJ/h), valamint ezek változását,
 
-e) a földgázelosztói engedélyesek által a földgázelosztásból származó árbevétel alapján fizetendő és a kiegyenlítő fizetések miatt felmerült adók és díjak nettó árbevételre vetített tárgyévi átlagos értékét, valamint a kiegyenlítő fizetések kapcsán véglegesen átadott pénzeszköz után fizetendő különadót mint be- és kifizetés csökkentő tételeket,
+e)[^105] a földgázelosztók által a földgázelosztásból származó árbevétel alapján fizetendő és a kiegyenlítő fizetések miatt felmerült adók és díjak nettó árbevételre vetített tárgyévi átlagos értékét, valamint a kiegyenlítő fizetések kapcsán véglegesen átadott pénzeszköz után fizetendő különadót mint be- és kifizetés csökkentő tételeket,
 
-f) a (hálózati) elszámolási különbözet – földgázelosztói engedélyesek szerint differenciált – elismert mértékét,
+f)[^106] a (hálózati) elszámolási különbözet – földgázelosztók szerint differenciált – elismert mértékét,
 
 g) a megbízott pénzügyi szervezet működésével kapcsolatos szerződésben meghatározott indokolt költségeket,
 
-h) a fajlagosan alacsony kihasználtságú elosztási rendszerrel rendelkező elosztók esetében a 7. melléklet (c) pontjában foglaltakat,
+h)[^107] a fajlagosan alacsony kihasználtságú elosztási rendszerrel rendelkező földgázelosztók esetében a 7. melléklet (c) pontjában foglaltakat,
 
-i) az indokolt árbevétel számításánál figyelembe vett, az adott földgázelosztói engedélyeshez tartozó földgázelosztói rendszerekben bekövetkezett változásokat (földgázelosztói engedélyesek közötti rendszerátvétel).
+i)[^108] az indokolt árbevétel számításánál figyelembe vett, az adott földgázelosztóhoz tartozó földgázelosztói rendszerekben bekövetkezett változásokat (földgázelosztók közötti rendszerátvétel).
 
-(3) A földgázelosztói engedélyesek közötti kiegyenlítő fizetéseknek az elszámolt időszakra (tárgyév) vonatkozó összegeit az elosztók – 24. § szerinti földgázelosztási díjakból származó tárgyévi tény elosztott mennyiséggel és a (2) bekezdés d) pontja szerinti tény naturália adatokkal számított – árbevételének és a (4) bekezdésben meghatározott korrigált indokolt árbevételigényének különbségeként a 7. melléklet szerinti képletek alapján kell kiszámítani.
+(3)[^109] A földgázelosztók közötti kiegyenlítő fizetéseknek az elszámolt időszakra (tárgyév) vonatkozó összegeit a földgázelosztók – 24. § szerinti földgázelosztási díjakból származó tárgyévi tény elosztott mennyiséggel és a (2) bekezdés d) pontja szerinti tény naturália adatokkal számított – árbevételének és a (4) bekezdésben meghatározott korrigált indokolt árbevételigényének különbségeként a 7. melléklet szerinti képletek alapján kell kiszámítani.
 
-(4) Amennyiben a díjszámításkor használt (2) bekezdés d) pontja szerinti adatok, illetve a hőmérséklet-korrigált mennyiség a díjszámításnál figyelembe vett mértékhez képest nem változnak, az adott földgázelosztói engedélyes korrigált indokolt árbevételigénye a földgázelosztói engedélyesek összes tényleges árbevételének – a földgázelosztói engedélyes költség-felülvizsgálat szerinti elismert árbevételigénye arányában – az adott földgázelosztói engedélyesre jutó hányada, amely a 7. melléklet (b) jelű képlete szerinti számítással kerül meghatározásra.
+(4)[^110] Amennyiben a díjszámításkor használt (2) bekezdés d) pontja szerinti adatok, illetve a hőmérséklet-korrigált mennyiség a díjszámításnál figyelembe vett mértékhez képest nem változnak, az adott földgázelosztó korrigált indokolt árbevételigénye a földgázelosztók összes tényleges árbevételének – a földgázelosztó költség-felülvizsgálat szerinti elismert árbevételigénye arányában – az adott földgázelosztóra jutó hányada, amely a 7. melléklet (b) jelű képlete szerinti számítással kerül meghatározásra.
 
-(5) Amennyiben a díjszámításkor használt (2) bekezdés d) pontja szerinti adatok, illetve a hőmérséklet-korrigált mennyiség a díjszámításnál figyelembe vett mértékhez képest változott, akkor a (4) bekezdés szerinti elismert árbevételigény figyelembevétele előtt földgázelosztói engedélyesenként a költség-felülvizsgálat szerinti elismert árbevételigényt alap- és kapacitásdíjból és forgalmi díjból származó árbevételigényre kell osztani a díjszámításhoz használt adatokkal kalkulált alap- és kapacitásdíjból és forgalmi díjból származó árbevétel arányai alapján. Az elismert árbevételigény alap- és kapacitásdíjas részarányát a díjszámításnál figyelembe vett előzetes és a (2) bekezdés d) pontja szerinti tény adatok arányában, a forgalmi díjas részarányát a díjszámításnál figyelembe vett és a – földgáz-rendszerhasználat árszabályozásának kereteiről szóló jogszabály szerint módosított – hőmérséklet-korrigált mennyiség arányában kell korrigálni.
+(5)[^111] Amennyiben a díjszámításkor használt (2) bekezdés d) pontja szerinti adatok, illetve a hőmérséklet-korrigált mennyiség a díjszámításnál figyelembe vett mértékhez képest változott, akkor a (4) bekezdés szerinti elismert árbevételigény figyelembevétele előtt földgázelosztónként a költség-felülvizsgálat szerinti elismert árbevételigényt alap- és kapacitásdíjból és forgalmi díjból származó árbevételigényre kell osztani a díjszámításhoz használt adatokkal kalkulált alap- és kapacitásdíjból és forgalmi díjból származó árbevétel arányai alapján. Az elismert árbevételigény alap- és kapacitásdíjas részarányát a díjszámításnál figyelembe vett előzetes és a (2) bekezdés d) pontja szerinti tény adatok arányában, a forgalmi díjas részarányát a díjszámításnál figyelembe vett és a – földgáz-rendszerhasználat árszabályozásának kereteiről szóló jogszabály szerint módosított – hőmérséklet-korrigált mennyiség arányában kell korrigálni.
 
-(6) Amennyiben a (3) bekezdés szerint számított különbség pozitív, a földgázelosztói engedélyes kiegyenlítő befizetésre köteles. Ha a (3) bekezdés szerint számított különbség negatív, a földgázelosztói engedélyes kiegyenlítő kifizetésre jogosult.
+(6)[^112] Amennyiben a (3) bekezdés szerint számított különbség pozitív, a földgázelosztó kiegyenlítő befizetésre köteles. Ha a (3) bekezdés szerint számított különbség negatív, a földgázelosztó kiegyenlítő kifizetésre jogosult.
 
-(7) A kiegyenlítő kifizetésekből befolyt összegeket a földgázelosztói engedélyes egyéb bevételként, és tájékoztatási kötelezettsége során az egyéb bevételeken belül a Hivatal számára elkülönítetten is köteles kimutatni.
+(7)[^113] A kiegyenlítő kifizetésekből befolyt összegeket a földgázelosztó egyéb bevételként, és tájékoztatási kötelezettsége során az egyéb bevételeken belül a Hivatal számára elkülönítetten is köteles kimutatni.
 
-(8) A befizetett összegeket (kiegyenlítő befizetéseket) a földgázelosztói engedélyes egyéb ráfordításként, és tájékoztatási kötelezettsége során az egyéb ráfordításokon belül a Hivatal számára elkülönítetten is köteles kimutatni.
+(8)[^114] A befizetett összegeket (kiegyenlítő befizetéseket) a földgázelosztó egyéb ráfordításként, és tájékoztatási kötelezettsége során az egyéb ráfordításokon belül a Hivatal számára elkülönítetten is köteles kimutatni.
 
-(9) A földgázelosztói engedélyesenként figyelembe vett tény és hőmérséklet korrigált mennyiség hőmennyiségre történő átszámításánál az adott földgázelosztói területet ellátó gázátadó állomáshoz rendelt, a szállítóvezetéken – az elszámolás időszakára vonatkozóan – mért tény fűtőértéket kell figyelembe venni és alkalmazni.
+(9)[^115] A földgázelosztónként figyelembe vett tény és hőmérséklet korrigált mennyiség hőmennyiségre történő átszámításánál az adott földgázelosztói területet ellátó gázátadó állomáshoz rendelt, a szállítóvezetéken – az elszámolás időszakára vonatkozóan – mért tény fűtőértéket kell figyelembe venni és alkalmazni.
+
+[^104]: A 45. § (1) bekezdése a 6/2013. (XII. 16.) MEKH rendelet 25. § w) pontja szerint módosított szöveg.
+[^105]: A 45. § (2) bekezdés e) pontja a 6/2013. (XII. 16.) MEKH rendelet 25. § w) pontja szerint módosított szöveg.
+[^106]: A 45. § (2) bekezdés f) pontja a 6/2013. (XII. 16.) MEKH rendelet 25. § w) pontja szerint módosított szöveg.
+[^107]: A 45. § (2) bekezdés h) pontja a 6/2013. (XII. 16.) MEKH rendelet 25. § x) pontja szerint módosított szöveg.
+[^108]: A 45. § (2) bekezdés i) pontja a 6/2013. (XII. 16.) MEKH rendelet 25. § y) pontja szerint módosított szöveg.
+[^109]: A 45. § (3) bekezdése a 6/2013. (XII. 16.) MEKH rendelet 25. § z) pontja szerint módosított szöveg.
+[^110]: A 45. § (4) bekezdése a 6/2013. (XII. 16.) MEKH rendelet 26. § a) pontja szerint módosított szöveg.
+[^111]: A 45. § (5) bekezdése a 6/2013. (XII. 16.) MEKH rendelet 26. § b) pontja szerint módosított szöveg.
+[^112]: A 45. § (6) bekezdése a 6/2013. (XII. 16.) MEKH rendelet 25. § m) pontja szerint módosított szöveg.
+[^113]: A 45. § (7) bekezdése a 6/2013. (XII. 16.) MEKH rendelet 25. § m) pontja szerint módosított szöveg.
+[^114]: A 45. § (8) bekezdése a 6/2013. (XII. 16.) MEKH rendelet 25. § m) pontja szerint módosított szöveg.
+[^115]: A 45. § (9) bekezdése a 6/2013. (XII. 16.) MEKH rendelet 26. § b) pontja szerint módosított szöveg.

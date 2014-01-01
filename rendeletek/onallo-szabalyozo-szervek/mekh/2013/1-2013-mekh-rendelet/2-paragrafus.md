@@ -1,3 +1,5 @@
+## 1/A. §[^1] Az e rendeletben nem szabályozott fogalmakat a GET és a felhatalmazása alapján kiadott jogszabályok, valamint a 984/2013/EU bizottsági rendelet alapján kell értelmezni.
+
 ## II. Fejezet
 
 ## ÉRTELMEZŐ RENDELKEZÉSEK
@@ -8,31 +10,33 @@ a) átadási-átvételi pont:
 
 aa) a szállítóvezeték
 
-aaa) mérési rendszerrel ellátott azon gázátadó állomásának kiadási pontja és részleges szigetüzem összevont kiadási pontja, amelyen keresztül a rendszerhasználó igénye alapján a szállított földgáz a csatlakozó földgázrendszerbe kerül,
+aaa)[^2] mérési rendszerrel ellátott azon gázátadó állomásának kiadási pontja, illetve az Üzemi és Kereskedelmi Szabályzat (a továbbiakban: ÜKSZ) alapján az ilyen gázátadó állomásoknak a rendszerüzemeltető engedélyesek üzletszabályzatában összevont átadóként megjelölt, kapacitás-lekötés és elszámolás szempontjából összevontan kezelt kiadási pontja és a részleges szigetüzem összevont kiadási pontja, amelyen keresztül a rendszerhasználó igénye alapján a szállított földgáz a csatlakozó földgázrendszerbe kerül,
 
 aab) olyan virtuális betáplálási pontja, amelyen a részleges szigetüzembe földgáztermelésből származó betáplált földgáz a szállítórendszerbe elszámolás-technikailag átadásra kerülhet,
 
-aac) Osztrák Köztársaság és Magyarország államhatárának Baumgarten felőli import betáplálási pontja,
+aac)[^3] Osztrák Köztársaság és Magyarország államhatárának Baumgarten felőli betáplálási pontja – Mosonmagyaróvár (AT > HU),
 
-aad) Ukrán Köztársaság és Magyarország államhatárának Beregovo felőli import betáplálási pontja,
+aad)[^4] Ukrán Köztársaság és Magyarország államhatárának Beregovo felőli betáplálási pontja – Beregdaróc 1400 (UA > HU),
 
-aae) együttműködő földgázrendszerhez csatlakozó hazai termelőmezők összevont betáplálási pontja,
+aae)[^5] együttműködő földgázrendszerhez csatlakozó hazai termelő mezők betáplálási vagy összevont betáplálási pontja,
 
-aaf) mérési rendszerrel ellátott Kiskundorozsma határkeresztező kilépési pontja a Szerb Köztársaság felé,
+aaf)[^6] mérési rendszerrel ellátott Kiskundorozsma határkeresztező kiadási pontja a Szerb Köztársaság felé – Kiskundorozsma (HU > RS),
 
-aag) mérési rendszerrel ellátott Csanádpalota határkeresztező kilépési pontja Románia felé,
+aag)[^7] mérési rendszerrel ellátott Csanádpalota határkeresztező kiadási pontja Románia felé – Csanádpalota (HU > RO),
 
 aah) részét képező, mérési rendszerrel nem rendelkező a földgázellátásról szóló 2008. évi XL. törvény rendelkezéseinek végrehajtásáról szóló 19/2009. (I. 30.) Korm. rendelet 1. § (1) bekezdés 11. pontja szerint meghatározott magyar gázkiegyenlítési pont (a továbbiakban: MGP),
 
-aai) Horvát Köztársaság és Magyarország államhatárának Donji Miholjac felőli import betáplálási pontja,
+aai)[^8] Horvát Köztársaság és Magyarország államhatárának Donji Miholjac felőli betáplálási pontja – Drávaszerdahely (CR > HU),
 
-aaj) mérési rendszerrel ellátott Drávaszerdahely határkeresztező kilépési pontja a Horvát Köztársaság felé,
+aaj)[^9] mérési rendszerrel ellátott Drávaszerdahely határkeresztező kiadási pontja a Horvát Köztársaság felé – Drávaszerdahely (HU > CR),
 
-aak) Szlovák Köztársaság és Magyarország államhatárának Balassagyarmat felőli import betáplálási pontja,
+aak)[^10] Szlovák Köztársaság és Magyarország államhatárának Vel'ké Zlievce felőli betáplálási pontja – Balassagyarmat (SK > HU),
 
-aal) Szlovák Köztársaság és Magyarország államhatárának Vel'ké Zlievce felőli kilépési pontja,
+aal)[^11] Szlovák Köztársaság és Magyarország államhatárának Balassagyarmat felőli kiadási pontja – Balassagyarmat (HU > SK),
 
-aam) Ukrán Köztársaság és Magyarország államhatárának Beregdaróc felőli kilépési pontja,
+aam)[^12] Ukrán Köztársaság és Magyarország államhatárának Beregdaróc felőli kiadási pontja – Beregdaróc 800 (HU > UA),
+
+aan) Románia és Magyarország államhatárának Horia felőli betáplálási pontja,
 
 ab) az elosztóvezetékhez
 
@@ -50,7 +54,7 @@ aca) belépési pontjai betárolás esetében, beleértve az összevontan kezelt
 
 acb) kilépési pontjai kitárolás esetében, beleértve az összevontan kezelt pontokat is,
 
-b) összekapcsolási pont: a szállítási rendszerüzemeltető engedélyesek által üzemeltetett szállítóvezetékek közötti csatlakozási pont, amely az együttműködő földgázrendszer részét képezi és a szállítási rendszerüzemeltetők közötti elszámolást teszi lehetővé, ugyanakkor nem minősül sem kilépési, sem belépési pontnak,
+b)[^13] összekapcsolási pont: a szállítási rendszerüzemeltetők által üzemeltetett szállítóvezetékek közötti csatlakozási pont, amely az együttműködő földgázrendszer részét képezi és a szállítási rendszerüzemeltetők közötti elszámolást teszi lehetővé, ugyanakkor nem minősül sem kiadási, sem betáplálási pontnak,
 
 c) betárolási díj: az a díj, amelyet a tárolóba betárolt földgáz hőmennyisége (MJ) alapján kell fizetni,
 
@@ -62,7 +66,7 @@ f) elosztási alapdíj: az a díj, amelyet a 20 m3/h-nál kisebb névleges kapac
 
 g) elosztási átalánydíj: az a díj, amelyet a gázmérővel nem rendelkező rendszerhasználóként eljáró felhasználónak, és a gázmérővel nem rendelkező felhasználót ellátó földgázkereskedőnek és az egyetemes szolgáltatónak a szerződési időszakra vonatkozóan az elosztóvezeték használatáért az 1. melléklet szerinti földgáz hőmennyisége (MJ) alapján kell fizetnie,
 
-gy) elosztási átszállítási díj: az a díj, amelyet a rendszerhasználóként eljáró felhasználó, valamint a földgázkereskedő köteles megfizetni annak a földgázelosztónak, akinek az üzemeltetett elosztóvezetékébe a nem a szállítóvezetékről betáplálásra kerülő földgáz egy más földgázelosztó által üzemeltetett elosztóvezetékbe kerül továbbításra,
+gy)[^14] elosztási átszállítási díj: az a díj, amelyet az átszállított földgázt vételező rendszerhasználóként eljáró felhasználó, valamint az átszállított földgázt vételező felhasználót ellátó földgázkereskedő annak az elosztási átszállítást végző földgázelosztónak fizet, akinek az üzemeltetett elosztóvezetékébe a földgáz betáplálásra kerül és egy más földgázelosztó által üzemeltetett elosztóvezetékbe kerül továbbításra,
 
 h) elosztási forgalmi díj: az a díj, amelyet az elosztóvezetékhez csatlakozó rendszerhasználóként eljáró felhasználónak, valamint az elosztóvezetékhez csatlakozó felhasználót ellátó földgázkereskedőnek és az egyetemes szolgáltatónak a földgázmennyiség hőmennyiségre átszámított értékéért (MJ) kell fizetnie,
 
@@ -78,11 +82,13 @@ m) kitárolási időszak: a földgáztárolói engedélyes által a honlapján k
 
 n) kitárolási kapacitás: szerződésben rögzített, a tárolási kapacitást lekötő számára a gáznapon maximálisan kitárolható hőmennyiség, amelynek órai maximuma nem haladhatja meg a napi érték 1/24-ed részét (MJ),
 
-o) megszakítható kapacitás: a szállítói vagy a földgázelosztói engedélyes által a rendszerhasználó számára – szabad kapacitás hiányában a szerződött, de igénybe nem vett – adott átadási-átvételi ponton rendelkezésre bocsátott kapacitás, amely igénybevételének mértékét a szállítói vagy a földgázelosztói engedélyes jogosult a gáznapon belül is módosítani,
+ny)[^15] kapcsolt kapacitás: egy csatlakozási ponton a csatlakozó rendszerüzemeltetők által nem megszakítható vagy megszakítható alapon közösen felkínált szabványos kapacitástermék, amely magában foglalja a csatlakozási pont két oldalán lévő megfelelő belépési és kilépési kapacitást,
+
+o)[^16] megszakítható kapacitás: a szállítási rendszerüzemeltető, a földgázelosztó vagy a földgáztárolói engedélyes által a rendszerhasználó számára – szabad kapacitás hiányában a szerződött, de igénybe nem vett – adott átadási-átvételi ponton rendelkezésre bocsátott kapacitás, amelynek igénybevétele mértékét a szállítási rendszerüzemeltető, a földgázelosztó vagy a földgáztárolói engedélyes jogosult a gáznapon belül is módosítani,
 
 p) mobilkapacitás: a földalatti földgáztároló azon befogadóképessége, amely szerződésben rögzített és a tárolási kapacitást lekötő rendszerhasználó számára a tárolási szerződés időtartama alatt rendelkezésre áll,
 
-q) gáznapi átlaghőmérséklet: az Üzemi és Kereskedelmi Szabályzatban (a továbbiakban: ÜKSZ) meghatározott átlaghőmérséklet,
+q)[^17] gáznapi átlaghőmérséklet: az ÜKSZ-ben meghatározottaknak megfelelő átlaghőmérséklet,
 
 r) rendszerirányítási díj: a szállítási rendszerirányítási szolgáltatásért fizetendő átalánydíj,
 
@@ -90,18 +96,65 @@ s) szagosítási díj: az a díj, amelyet a földgáz kapacitás-lekötési szer
 
 t) szállítási forgalmi díj: az a díj, amelyet az átadási-átvételi ponton mért földgázmennyiség hőmennyiségre átszámított értéke (MJ) alapján kell fizetni,
 
-u) szállítási kapacitásdíj: az a díj, amelyet a lekötött legnagyobb kapacitás alapján (belépési ponton Ft/MJ/nap, kilépési ponton Ft/MJ/h) kell fizetni,
+u)[^18] szállítási kapacitásdíj: az a díj, amelyet a lekötött legnagyobb kapacitás alapján (betáplálási ponton Ft/MJ/nap, kiadási ponton Ft/MJ/h) kell fizetni,
 
-v) szerződési időszak: éves kapacitáslekötés vagy kapacitás-igénybevétel esetében a gázév, a gázéven belül havi kapacitáslekötés vagy kapacitás-igénybevétel esetében a teljes naptári hónapokból álló időszak, a gázéven belül napi kapacitáslekötés vagy kapacitás-igénybevétel esetében a teljes gáznapokból álló időszak,
+v)[^19] szerződési időszak:
+
+va) éves kapacitás-lekötés vagy kapacitás-igénybevétel esetében a gázév,
+
+vb) a gázéven belül havi kapacitás-lekötés vagy kapacitás-igénybevétel esetében a teljes naptári hónapokból álló időszak,
+
+vc) a gázéven belül napi kapacitás-lekötés vagy kapacitás-igénybevétel esetében a teljes gáznapokból álló időszak,
+
+vd) szabványos kapacitástermék esetében
+
+vda) éves kapacitás-lekötés vagy kapacitás-igénybevétel esetében a gázév,
+
+vdb) a gázéven belüli negyedéves kapacitás-lekötés vagy igénybevétel esetében a teljes naptári negyedévből álló időszak,
+
+vdc) gázéven belüli havi kapacitás-lekötés vagy kapacitás-igénybevétel esetében a teljes naptári hónapból álló időszak,
+
+vdd) a gázéven belüli napi kapacitás-lekötés vagy kapacitás-igénybevétel esetében a teljes gáznapból álló időszak,
+
+vde) napon belüli kapacitás-lekötés vagy kapacitás-igénybevétel esetében a napi kapacitással arányos, a gáznap végéig hátralévő időszak,
 
 w) tárolási év: adott naptári év április 1-jétől a következő naptári év március 31-éig tartó időszak,
 
-x) tárolói kapacitásdíj: az az éves díj, amelyet a tároló befogadóképességének legnagyobb (MJ) igénybe vett része alapján kell fizetni,
+x)[^20] tárolói kapacitásdíj: az az éves díj, amelyet a rendszerhasználó által szerződésesen lekötött mobilkapacitás (MJ) alapján kell fizetni,
 
 y) fizikai áramlással ellentétes irányú (Backhaul) kapacitás: a földgáz olyan, nem fizikai szállítását lehetővé tevő kapacitás, amely segítségével a fizikai áramlással ellentétes irányú szállítási feladatot a rendszerüzemeltető a fizikai áramlás irányú szállítási feladatból történő nettósítással teljesít,
 
-z) téli fogyasztási időszak: a november 1-jétől március 31-éig terjedő időszak; azon rendszerhasználó esetében, amelynél az a) pont aa) alpont aaa), aab), aac), aad), aai) vagy aak) alpontja szerinti átadási-átvételi pontonkénti kapacitás-igénybevétel a január 1-jétől március 31-éig terjedő időszakban kisebb, mint a gázév többi részében, a január 1-jétől március 31-éig terjedő időszak,
+z)[^21] téli fogyasztási időszak:
 
-zs) utólagos kapacitásdíj: az a díj, amelyet a 9. § (4) bekezdés a)–c) és e) pontjában, a 10. § (6) bekezdésében, illetve a 24. § (6) bekezdés a)–d) pontjában meghatározott díjfizetésre kötelezett az adott hónapban –12 °C-nál hidegebb átlag-hőmérsékletű napon jogosulatlanul igénybe vett legnagyobb – az adott hónapban a pótdíj fizetés alapjául szolgáló többletteljesítménnyel csökkentett – többletkapacitás után fizet, és melynek mértéke megegyezik az adott árszabás szerinti szállítási, illetve elosztási kapacitásdíjakkal.
+za) az adott naptári év november 1-jétől a következő naptári év március 31-éig terjedő időszak,
+
+zb) azon rendszerhasználó esetében, amelynél az a) pont aa) alpont aaa) alpontja szerinti átadási-átvételi pontonkénti kapacitás-igénybevétel a január 1-jétől március 31-éig terjedő időszakban kisebb, mint a gázév többi részében, a január 1-jétől március 31-éig terjedő időszak,
+
+zc) szabványos kapacitástermék esetén az október 1-jétől március 31-éig terjedő időszak,
+
+zs)[^22] utólagos kapacitásdíj: az a díj, amelyet a 9. § (4) bekezdés a)–c) és e) pontjában, a 10. § (6) bekezdésében, illetve a 24. § (6) bekezdés a)–d) pontjában meghatározott díjfizetésre kötelezett az adott hónapban –12,0 °C-nál hidegebb átlag-hőmérsékletű napon jogosulatlanul igénybe vett legnagyobb – az adott hónapban a pótdíj fizetés alapjául szolgáló többletteljesítménnyel csökkentett – többletkapacitás után fizet, és melynek mértéke megegyezik az adott árszabás szerinti szállítási, illetve elosztási kapacitásdíjakkal.
 
 (2) Az e rendeletben meg nem határozott fogalmakat a GET és a felhatalmazása alapján kiadott jogszabályok szerint kell értelmezni.
+
+[^1]: Az 1/A. §-t a 6/2013. (XII. 16.) MEKH rendelet 1. §-a iktatta be.
+[^2]: A 2. § (1) bekezdés a) pont aa) alpont aaa) alpontja a 6/2013. (XII. 16.) MEKH rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^3]: A 2. § (1) bekezdés a) pont aa) alpont aac) alpontja a 6/2013. (XII. 16.) MEKH rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^4]: A 2. § (1) bekezdés a) pont aa) alpont aad) alpontja a 6/2013. (XII. 16.) MEKH rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^5]: A 2. § (1) bekezdés a) pont aa) alpont aae) alpontja a 6/2013. (XII. 16.) MEKH rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^6]: A 2. § (1) bekezdés a) pont aa) alpont aaf) alpontja a 6/2013. (XII. 16.) MEKH rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^7]: A 2. § (1) bekezdés a) pont aa) alpont aag) alpontja a 6/2013. (XII. 16.) MEKH rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^8]: A 2. § (1) bekezdés a) pont aa) alpont aai) alpontja a 6/2013. (XII. 16.) MEKH rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^9]: A 2. § (1) bekezdés a) pont aa) alpont aaj) alpontja a 6/2013. (XII. 16.) MEKH rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^10]: A 2. § (1) bekezdés a) pont aa) alpont aak) alpontja a 6/2013. (XII. 16.) MEKH rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^11]: A 2. § (1) bekezdés a) pont aa) alpont aal) alpontja a 6/2013. (XII. 16.) MEKH rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^12]: A 2. § (1) bekezdés a) pont aa) alpont aam) alpontja a 6/2013. (XII. 16.) MEKH rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^13]: A 2. § (1) bekezdés b) pontja a 6/2013. (XII. 16.) MEKH rendelet 2. § (4) bekezdésével megállapított szöveg.
+[^14]: A 2. § (1) bekezdés gy) pontja a 6/2013. (XII. 16.) MEKH rendelet 2. § (5) bekezdésével megállapított szöveg.
+[^15]: A 2. § (1) bekezdés ny) pontját a 6/2013. (XII. 16.) MEKH rendelet 2. § (6) bekezdése iktatta be.
+[^16]: A 2. § (1) bekezdés o) pontja a 6/2013. (XII. 16.) MEKH rendelet 2. § (7) bekezdésével megállapított szöveg.
+[^17]: A 2. § (1) bekezdés q) pontja a 6/2013. (XII. 16.) MEKH rendelet 2. § (8) bekezdésével megállapított szöveg.
+[^18]: A 2. § (1) bekezdés u) pontja a 6/2013. (XII. 16.) MEKH rendelet 25. § a) pontja szerint módosított szöveg.
+[^19]: A 2. § (1) bekezdés v) pontja a 6/2013. (XII. 16.) MEKH rendelet 2. § (9) bekezdésével megállapított szöveg.
+[^20]: A 2. § (1) bekezdés x) pontja a 6/2013. (XII. 16.) MEKH rendelet 2. § (10) bekezdésével megállapított szöveg.
+[^21]: A 2. § (1) bekezdés z) pontja a 6/2013. (XII. 16.) MEKH rendelet 2. § (11) bekezdésével megállapított szöveg.
+[^22]: A 2. § (1) bekezdés zs) pontja a 6/2013. (XII. 16.) MEKH rendelet 25. § b) pontja szerint módosított szöveg.

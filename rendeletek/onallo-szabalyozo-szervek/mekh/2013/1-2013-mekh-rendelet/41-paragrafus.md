@@ -6,6 +6,6 @@
 
 (3) A földgázellátásról szóló 2003. évi XLII. törvény szerinti közüzemi nagykereskedő forrásaival rendelkező kereskedő és az egyetemes szolgáltatásra jogosult felhasználót ellátó földgázkereskedő köteles a földgáztárolói engedélyes részére történő napi nominálás megtételekor az egyetemes szolgáltatásra jogosult felhasználók ellátásához szükséges földgázmennyiséget külön feltüntetni.
 
-(4)[^2] Az a földgázkereskedő, amely egyetemes szolgáltatásra jogosult felhasználót lát el és ő vagy az őt ellátó rendszerhasználó földgáztárolóból is vételez földgázt, minden kitárolással érintett hónapot követő hónap 10. napjáig az egyetemes szolgáltatásra jogosult felhasználók ellátása érdekében a tárolóból kivett földgáz mennyiségéről tájékoztatja a Hivatalt.
+(4)[^98] Az a földgázkereskedő, amely egyetemes szolgáltatásra jogosult felhasználót lát el és ő vagy az őt ellátó rendszerhasználó földgáztárolóból is vételez földgázt, minden kitárolással érintett hónapot követő hónap 10. napjáig az egyetemes szolgáltatásra jogosult felhasználók ellátása érdekében a tárolóból kivett földgáz mennyiségéről tájékoztatja a Hivatalt.
 
-[^2]: A 41. § (4) bekezdését az 5/2013. (X. 16.) MEKH rendelet 1. §-a iktatta be.
+[^98]: A 41. § (4) bekezdését az 5/2013. (X. 16.) MEKH rendelet 1. §-a iktatta be.
