@@ -38,7 +38,9 @@ o) állapítsa meg az úthasználó bevallással összefüggő kötelezettségei
 
 p) állapítsa meg a bevallási közreműködővel szemben támasztott követelményeket, valamint a bevallási közreműködőkkel megkötendő szerződés tartalmi elemeit;
 
-q) állapítsa meg a mezőgazdasági termelők élő állat szállítását és a mezőgazdasági termények betakarítása idejére a mezőgazdasági termények szállítását végző saját gépjárműinek útdíj fizetése alóli mentesülésének részletes szabályait.
+q) állapítsa meg a mezőgazdasági termelők élő állat szállítását és a mezőgazdasági termények betakarítása idejére a mezőgazdasági termények szállítását végző saját gépjárműinek útdíj fizetése alóli mentesülésének részletes szabályait;
+
+r) állapítsa meg a 8/A. § és 8/B. § szerinti állami kezesség, valamint a 8/B. § szerinti kölcsönökhöz nyújtandó állami kamattámogatás részletes szabályait.
 
 (2) Felhatalmazást kap a miniszter, hogy
 
