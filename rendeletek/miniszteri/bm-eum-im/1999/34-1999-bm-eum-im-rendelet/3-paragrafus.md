@@ -1,3 +1,0 @@
-3. § (1) Amennyiben a halottvizsgálatot végző orvos megállapítása szerint a halott teste orvosi szempontból alkalmas arra, hogy oktatás és kutatás, egyéb gyógyító célú felhasználás, illetve átültetés céljából történő szerv-, szöveteltávolításra kerüljön sor, az orvosnak meg kell győződnie arról, hogy az elhunytnál lévő, személyazonosításra szolgáló iratok között található-e nyilatkozat, amellyel a holttestéből történő szerv-, szöveteltávolítást megtiltotta. Ha a hozzátartozó birtokában van az elhunytnak a testéből történő szerv- és szövetátültetést megtiltó nyilatkozata, azt bemutatja a halottvizsgálatot végző orvosnak.
-
-(2) A tiltakozó nyilatkozat meglétét vagy hiányát a halottvizsgálatot végző orvos feltünteti a halottvizsgálati bizonyítvány ,,megjegyzés'' rovatában.
