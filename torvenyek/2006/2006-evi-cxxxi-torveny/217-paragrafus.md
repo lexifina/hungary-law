@@ -1,3 +1,0 @@
-## Jogharmonizációs záradék
-
-217. §

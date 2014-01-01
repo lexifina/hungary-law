@@ -1,1 +1,0 @@
-202. § Az adózás rendjéről szóló törvény egyes rendelkezéseinek alkalmazásáról és módosításáról, valamint egyes adótörvények módosításáról szóló 2005. évi CLXIII. törvény 1. § (8) bekezdésében meghatározott bevallással, valamint összesített adatszolgáltatással összefüggésben a mulasztási bírságot az Art. 172. § (1) bekezdése szerinti mértékkel kell megállapítani.

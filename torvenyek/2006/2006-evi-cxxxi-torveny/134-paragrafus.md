@@ -1,1 +1,0 @@
-134. § A Rega-tv. e törvénnyel módosított Melléklete e törvény kihirdetését követő 45. napon lép hatályba, rendelkezéseit a hatálybalépés napjától induló adóigazgatási eljárások esetén kell alkalmazni.

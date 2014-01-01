@@ -1,1 +1,0 @@
-191. § A kifizető, a magánszemély a Módtv. 223. §-ának az e törvény kihirdetését követő 45. napján hatályos (17) bekezdését alkalmazza, ha az említett rendelkezés szerint az osztalék megállapítása, jóváhagyása és a magánszemély által a bevétel megszerzése az e törvény kihirdetését követő 45. napig megtörtént.

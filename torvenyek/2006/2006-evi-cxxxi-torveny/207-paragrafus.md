@@ -1,1 +1,0 @@
-207. § Az Flt. e törvény kihirdetésekor hatályos 57/B. §-ában meghatározott Egységes Munkaügyi Nyilvántartásban e törvény kihirdetésekor kezelt adatokat a munkaügyi hatóság a munkaügyi ellenőrzés és a statisztikai adatszolgáltatási feladatok ellátása céljából az Flt. e törvény kihirdetésekor hatályos rendelkezései szerint kezelheti.

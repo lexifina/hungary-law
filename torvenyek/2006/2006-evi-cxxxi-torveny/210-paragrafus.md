@@ -1,1 +1,0 @@
-210. § A mezőgazdasági őstermelő a Tbj. 5. § (1) bekezdésének i) pontjában meghatározott, biztosítási kötelezettséget érintő adatokról első alkalommal 2007. január 31-éig tesz bejelentést az állami adóhatóságnak.
