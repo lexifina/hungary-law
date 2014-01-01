@@ -12,12 +12,13 @@ d) pénzügyi év: adott év január 1-jétől december 31-éig tartó időszak;
 
 e) csekély összegű támogatás: a Szerződés 87. és 88. cikkének a halászat ágazatban nyújtott csekély összegű (de minimis) támogatásokra való alkalmazásáról és az 1860/2004/EK rendelet módosításáról szóló, 2007. július 24-i 875/2007/EK bizottsági rendeletben (a továbbiakban: halászati csekély összegű támogatási rendelet) meghatározott támogatás;
 
-f) vízjogi engedély: vízi munka elvégzéséhez, illetve vízi létesítmény megépítéséhez, átalakításához és megszüntetéséhez, továbbá annak használatbavételéhez, üzemeltetéséhez, valamint minden vízhasználathoz szükséges, a környezetvédelmi, természetvédelmi, vízügyi hatósági és igazgatási feladatokat ellátó szervek kijelöléséről szóló 347/2006. (XII. 23.) Korm. rendeletben meghatározott vízügyi hatóság által kiállított engedély;
+f)[^1] vízjogi engedély: vízi munka elvégzéséhez, illetve vízi létesítmény megépítéséhez, átalakításához és megszüntetéséhez, továbbá annak használatbavételéhez, üzemeltetéséhez, valamint minden vízhasználathoz szükséges, a vízügyi hatóság által kiállított engedély;
 
 g) nehéz helyzetben lévő vállalkozás: a Közösség iránymutatása a nehéz helyzetben lévő vállalkozások megmentéséhez és szerkezetátalakításához nyújtott állami támogatásokról szóló 2004. október 1-jei bizottsági közlemény (2004/C 244/02) 2.1. pontja szerinti vállalkozás;
 
 h) tárgyév: az a naptári év, amely évben a pályázó az e rendelet szerinti támogatást igénybe veszi;
 
-i)[^1] halászati hatóság: a megyei kormányhivatal földművelésügyi igazgatósága.
+i)[^2] halászati hatóság: a megyei kormányhivatal földművelésügyi igazgatósága.
 
-[^1]: Az 1. § i) pontja a 24/2011. (III. 29.) VM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^1]: Az 1. § f) pontja a 132/2013. (XII. 23.) VM rendelet 37. § c) pontja szerint módosított szöveg.
+[^2]: Az 1. § i) pontja a 24/2011. (III. 29.) VM rendelet 3. § (1) bekezdésével megállapított szöveg.
