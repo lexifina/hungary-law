@@ -38,7 +38,7 @@ b) a szolgáltató vezetője, alkalmazottja, illetőleg segítő családtagja.
 
 (4) Nem tartozik e törvény hatálya alá
 
-a) a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény (a továbbiakban: Hpt.) 2. számú melléklet I. Fejezet 12.2. pontjában meghatározott ügynöki tevékenység;
+a) a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény (a továbbiakban: Hpt.) 6. § (1) bekezdésében meghatározott ügynöki tevékenység;
 
 b) a biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvény (a továbbiakban: Bit.) 33. § (4) bekezdésében meghatározott függő biztosításközvetítő;
 

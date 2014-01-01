@@ -4,7 +4,7 @@ a) a Bit. 2. számú melléklete szerinti életbiztosítási ágba tartozó bizt
 
 b) az olyan nyugdíjbiztosításokra, amelyeknél a biztosítási szerződés nem vásárolható vissza, illetve a biztosító szolgáltatására jogosult személyt megillető összeg hitel vagy kölcsön fedezeteként nem fogadható el;
 
-c) a Hpt. 2. számú melléklet I. fejezet 5.2. pontjában meghatározott elektronikus pénz esetén, ha az elektronikus pénz kibocsátója által az elektronikuspénz-birtokos részére kibocsátott összeg:
+c) a Hpt. 6. § (1) bekezdésében meghatározott elektronikus pénz esetén, ha az elektronikus pénz kibocsátója által az elektronikuspénz-birtokos részére kibocsátott összeg:
 
 1. a nem újra feltölthető elektronikus pénzen nem haladja meg a hatvanötezer forintot;
 
