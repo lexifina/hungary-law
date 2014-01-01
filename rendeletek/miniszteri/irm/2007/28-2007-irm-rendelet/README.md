@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-28-20-1
 | 2011-05-20 | 2007-28-20-1U.11 | 1/2011. (II. 18.) BM rendelet |
 | 2011-08-25 | 2007-28-20-1U.12 | 27/2011. (VIII. 24.) BM rendelet |
 | 2012-01-01 | 2007-28-20-1U.13 | 68/2011. (XII. 30.) BM rendelet |
+| 2014-01-01 | 2007-28-20-1U.14 | 69/2013. (XII. 11.) BM rendelet |
