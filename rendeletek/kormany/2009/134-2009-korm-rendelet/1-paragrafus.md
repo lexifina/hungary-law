@@ -18,9 +18,9 @@ bb) amelyet másodízben értékesítenek természetes személy részére, felt�
 
 3. emeletráépítés: meglévő épület – belső falsíkon mért legalább 1,90 métert elérő – épületmagasítással járó, függőleges irányú bővítése új építményszint létesítése érdekében,
 
-4. hitelintézet: magyarországi székhellyel vagy fiókteleppel rendelkező hitelintézet, valamint a hitelintézettel egyenértékű prudenciális szabályozásnak megfelelő pénzügyi vállalkozás a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvényben foglaltaknak megfelelően, vagy jelzálog-hitelintézet a jelzálog-hitelintézetről és a jelzáloglevélről szóló 1997. évi XXX. törvényben foglaltaknak megfelelően, illetve a biztosítóintézet a biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvényben foglaltaknak megfelelően,
+4.[^3] hitelintézet: magyarországi székhellyel vagy fiókteleppel rendelkező hitelintézet, valamint a hitelintézettel egyenértékű prudenciális szabályozásnak megfelelő pénzügyi vállalkozás a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényben (a továbbiakban: Hpt.) foglaltaknak megfelelően, vagy jelzálog-hitelintézet a jelzálog-hitelintézetről és a jelzáloglevélről szóló 1997. évi XXX. törvényben foglaltaknak megfelelően, illetve a biztosítóintézet a biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvényben foglaltaknak megfelelően,
 
-5.[^3] támogatott személy: aki
+5.[^4] támogatott személy: aki
 
 a) az e rendelet szerinti személyi és egyéb feltételeknek megfelel és ezek alapján a hitelintézettel a kamattámogatás nyújtására szerződést köt, vagy
 
@@ -62,9 +62,9 @@ a) a 16. életévét még nem töltötte be,
 
 b) a 16. életévét már betöltötte, de oktatási intézmény nappali tagozatán tanul és a 25. életévét még nem érte el,
 
-c)[^4] a 16. életévét már betöltötte, de megváltozott munkaképességű személy, és ez az állapota legalább egy éve tart, vagy egy év alatt előreláthatóan nem szűnik meg,
+c)[^5] a 16. életévét már betöltötte, de megváltozott munkaképességű személy, és ez az állapota legalább egy éve tart, vagy egy év alatt előreláthatóan nem szűnik meg,
 
-12.[^5] eltartott: az építtető, vásárló eltartottjának minősül
+12.[^6] eltartott: az építtető, vásárló eltartottjának minősül
 
 a) a gyermek,
 
@@ -86,9 +86,9 @@ c) az építtetőnek (vásárlónak) vagy házastársának, illetve bejegyzett �
 
 14. állampapírhozam:
 
-a)[^6] a változó vagy a legfeljebb egy évig állandó kamatozású kölcsön esetén az Államadósság Kezelő Központ Zártkörűen Működő Részvénytársaság (a továbbiakban: ÁKK Zrt.) által havi rendszerességgel közzétett, a közzétételt megelőző három naptári hónapban tartott 12 hónapos névleges futamidejű diszkont kincstárjegy aukcióin kialakult – a betéti kamat és az értékpapírok hozama számításáról és közzétételéről szóló kormányrendeletnek megfelelően számított – átlaghozamok adott aukciókon elfogadott mennyiségekkel súlyozott számtani átlaga,
+a)[^7] a változó vagy a legfeljebb egy évig állandó kamatozású kölcsön esetén az Államadósság Kezelő Központ Zártkörűen Működő Részvénytársaság (a továbbiakban: ÁKK Zrt.) által havi rendszerességgel közzétett, a közzétételt megelőző három naptári hónapban tartott 12 hónapos névleges futamidejű diszkont kincstárjegy aukcióin kialakult – a betéti kamat és az értékpapírok hozama számításáról és közzétételéről szóló kormányrendeletnek megfelelően számított – átlaghozamok adott aukciókon elfogadott mennyiségekkel súlyozott számtani átlaga,
 
-b)[^7] az egy évnél hosszabb időszakra állandó kamatozású kölcsön esetén az ÁKK Zrt. által havi rendszerességgel közzétett, a közzétételt megelőző három naptári hónapban tartott ötéves névleges futamidejű államkötvény aukcióin kialakult – a betéti kamat és az értékpapírok hozama számításáról és közzétételéről szóló kormányrendeletnek megfelelően számított – átlaghozamok adott aukciókon elfogadott mennyiségekkel súlyozott számtani átlaga,
+b)[^8] az egy évnél hosszabb időszakra állandó kamatozású kölcsön esetén az ÁKK Zrt. által havi rendszerességgel közzétett, a közzétételt megelőző három naptári hónapban tartott ötéves névleges futamidejű államkötvény aukcióin kialakult – a betéti kamat és az értékpapírok hozama számításáról és közzétételéről szóló kormányrendeletnek megfelelően számított – átlaghozamok adott aukciókon elfogadott mennyiségekkel súlyozott számtani átlaga,
 
 15. referenciahozam: az ÁKK Zrt. által havi rendszerességgel közzétett, az elsődleges forgalmazók árjegyzési kötelezettsége alapján kereskedési naponként számított és közzétett referenciahozamoknak a közzétételt megelőző három naptári hónapra vonatkozó számtani átlaga,
 
@@ -118,7 +118,7 @@ j) a telek ára,
 
 18. ügyleti kamat: a támogatott által fizetendő, a kamattámogatással csökkentett ellenszolgáltatás,
 
-19.[^8] megváltozott munkaképességű személy: az a személy, aki munkaképességét legalább 67%-ban elvesztette, illetve legalább 50%-os mértékű egészségkárosodást szenvedett, vagy akinek az egészségi állapota a rehabilitációs hatóság komplex minősítése alapján nem haladja meg az 50%-os mértéket.
+19.[^9] megváltozott munkaképességű személy: az a személy, aki munkaképességét legalább 67%-ban elvesztette, illetve legalább 50%-os mértékű egészségkárosodást szenvedett, vagy akinek az egészségi állapota a rehabilitációs hatóság komplex minősítése alapján nem haladja meg az 50%-os mértéket.
 
 (3) Az e rendeletben meg nem határozott fogalmakat a lakások és helyiségek bérletére, valamint az elidegenítésükre vonatkozó egyes szabályokról szóló 1993. évi LXXVIII. törvényben, illetve az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendeletben meghatározottak szerint kell értelmezni.
 
@@ -132,7 +132,7 @@ b) az a) pont hatálya alá nem tartozó esetekben a Magyar Államkincstár (a t
 
 (5) Nem minősül új lakás felépítésének meglévő épület, épületrész vagy építmény átalakítása.
 
-(6)[^9] Az e rendeletben meghatározott feltételekkel a központi költségvetésből kamattámogatást igényelhet:
+(6)[^10] Az e rendeletben meghatározott feltételekkel a központi költségvetésből kamattámogatást igényelhet:
 
 a) a magyar állampolgár,
 
@@ -146,10 +146,11 @@ e) menekült vagy oltalmazott, ha a menedékjogról szóló törvényben foglalt
 
 [^1]: Az 1. § (1) bekezdése a 144/2012. (VII. 3.) Korm. rendelet 9. §-a szerint módosított szöveg.
 [^2]: Az 1. § (2) bekezdés 1. pont a) alpontja a 128/2013. (IV. 30.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
-[^3]: Az 1. § (2) bekezdés 5. pontja a 128/2013. (IV. 30.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^4]: A 1. § (2) bekezdés 11. pont c) alpontja a 379/2012. (XII. 19.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^5]: A 1. § (2) bekezdés 12. pontja a 379/2012. (XII. 19.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
-[^6]: Az 1. § (2) bekezdés 14. pont a) alpontja a 82/2010. (III. 25.) Korm. rendelet 11. § (3) bekezdése szerint módosított szöveg.
-[^7]: Az 1. § (2) bekezdés 14. pont b) alpontja a 82/2010. (III. 25.) Korm. rendelet 11. § (4) bekezdése szerint módosított szöveg.
-[^8]: A 1. § (2) bekezdés 19. pontját a 379/2012. (XII. 19.) Korm. rendelet 13. § (3) bekezdése iktatta be.
-[^9]: Az 1. § (6) bekezdését a 128/2013. (IV. 30.) Korm. rendelet 7. § (2) bekezdése iktatta be.
+[^3]: Az 1. § (2) bekezdés 4. pontja az 537/2013. (XII. 30.) Korm. rendelet 51. § a) pontja szerint módosított szöveg.
+[^4]: Az 1. § (2) bekezdés 5. pontja a 128/2013. (IV. 30.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^5]: A 1. § (2) bekezdés 11. pont c) alpontja a 379/2012. (XII. 19.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^6]: A 1. § (2) bekezdés 12. pontja a 379/2012. (XII. 19.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
+[^7]: Az 1. § (2) bekezdés 14. pont a) alpontja a 82/2010. (III. 25.) Korm. rendelet 11. § (3) bekezdése szerint módosított szöveg.
+[^8]: Az 1. § (2) bekezdés 14. pont b) alpontja a 82/2010. (III. 25.) Korm. rendelet 11. § (4) bekezdése szerint módosított szöveg.
+[^9]: A 1. § (2) bekezdés 19. pontját a 379/2012. (XII. 19.) Korm. rendelet 13. § (3) bekezdése iktatta be.
+[^10]: Az 1. § (6) bekezdését a 128/2013. (IV. 30.) Korm. rendelet 7. § (2) bekezdése iktatta be.
