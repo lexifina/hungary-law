@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-190-20-
 | 2009-10-01 | 2008-190-20-22.3 | 190/2008. (VII. 29.) Korm. rendelet |
 | 2011-01-01 | 2008-190-20-22.4 | 280/2010. (XII. 15.) Korm. rendelet |
 | 2012-01-01 | 2008-190-20-22.5 | 304/2011. (XII. 23.) Korm. rendelet |
+| 2014-01-01 | 2008-190-20-22.6 | 280/2010. (XII. 15.) Korm. rendelet |
