@@ -1,8 +1,8 @@
 ## alapítja.
 
-11. § (1)[^25] A Szállító miniszteri jóváhagyás céljából a Támogató Nyilatkozat kézhezvételétől számított hat hónapon belül elektronikus úton és írásban nyújthatja be az együttes végrehajtási projekt tervdokumentumát (a továbbiakban: Tervdokumentum) a 3. mellékletnek megfelelően a miniszternek.
+11. § (1)[^31] A Szállító miniszteri jóváhagyás céljából a Támogató Nyilatkozat kézhezvételétől számított hat hónapon belül elektronikus úton és írásban nyújthatja be az együttes végrehajtási projekt tervdokumentumát (a továbbiakban: Tervdokumentum) a 3. mellékletnek megfelelően a miniszternek.
 
-(2)[^26] Az (1) bekezdés szerinti Tervdokumentumhoz csatolni kell a független együttes végrehajtás projekt hitelesítő által készített Hitelesítői Jelentést (a továbbiakban: Tervdokumentum Hitelesítői Jelentés), amely szerint a projekt a (8) bekezdés szerinti feltételeknek megfelel.
+(2)[^32] Az (1) bekezdés szerinti Tervdokumentumhoz csatolni kell a független együttes végrehajtás projekt hitelesítő által készített Hitelesítői Jelentést (a továbbiakban: Tervdokumentum Hitelesítői Jelentés), amely szerint a projekt a (8) bekezdés szerinti feltételeknek megfelel.
 
 (3) Amennyiben a Tervdokumentum nem felel meg az (1)–(2) bekezdésben foglaltaknak, a minisztérium 15 napos határidővel hiánypótlásra hívja fel a Szállítót.
 
@@ -20,7 +20,7 @@ a) a 10. § (7) bekezdésének c), f)–m) pontjaiban leírt követelményeknek,
 
 b) a Tervdokumentumban bemutatott részletes számítások szerint a környezetvédelmi addicionalitás követelményének,
 
-c)[^27] a Tervdokumentumban bemutatott pénzügyi számítások, illetve részletes pénzforgalmi adatok alapján megállapítható, hogy a projekt a pénzügyi addicionalitás követelményének, és
+c)[^33] a Tervdokumentumban bemutatott pénzügyi számítások, illetve részletes pénzforgalmi adatok alapján megállapítható, hogy a projekt a pénzügyi addicionalitás követelményének, és
 
 d) az általa csökkenteni kívánt üvegházhatású gáz kibocsátások a Nemzeti Nyilvántartási Rendszerben szerepelnek, és a Tervdokumentumban bemutatott üvegházhatású gáz-számítás a Nemzeti Nyilvántartási Rendszerben alkalmazott számítási módszereknek és emissziós tényezőknek
 
@@ -30,13 +30,13 @@ d) az általa csökkenteni kívánt üvegházhatású gáz kibocsátások a Nemz
 
 (10) A Jóváhagyó Nyilatkozatot a miniszter a kérelmező által kért időtartamra, legfeljebb azonban 2012. december 31-éig adja meg.
 
-(10a)[^28] A 2012. december 31. és 2015. december 31. közötti időszakra a nemzetközi kötelezettségvállalásokkal összhangban adható ki vagy hosszabbítható meg Jóváhagyó Nyilatkozat. A 2012. december 31-ig bejegyzett együttes végrehajtási projektből származó kibocsátás-csökkentési egység az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában való részvételről szóló törvény szerint számítható be a visszaadásra irányuló kötelezettség teljesítése során.
+(10a)[^34] A 2012. december 31. és 2015. december 31. közötti időszakra a nemzetközi kötelezettségvállalásokkal összhangban adható ki vagy hosszabbítható meg Jóváhagyó Nyilatkozat. A 2012. december 31-ig bejegyzett együttes végrehajtási projektből származó kibocsátás-csökkentési egység az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában való részvételről szóló törvény szerint számítható be a visszaadásra irányuló kötelezettség teljesítése során.
 
 (11) A Jóváhagyó Nyilatkozat alapján kibocsátás-csökkentési egységek kizárólag a 2008. január 1-jét követően elért és hitelesített kibocsátás-csökkentésekre képezhetők.
 
 (12) A Jóváhagyó Nyilatkozat nem mentesít az együttes végrehajtási projekt megvalósításához szükséges hatósági engedélyek megszerzésének kötelezettsége alól.
 
-[^25]: A 11. § (1) bekezdése a 362/2010. (XII. 30.) Korm. rendelet 14. § (2) bekezdése szerint módosított szöveg.
-[^26]: A 11. § (2) bekezdése e rendelet 36. § (2) bekezdése alapján a Magyar Köztársaság területén megvalósuló együttes végrehajtás hitelesítőire vonatkozó jogszabály hatálybalépésének napján lép hatályba.
-[^27]: A 11. § (8) bekezdés c) pontja a 121/2009. (VI. 11.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^28]: A 11. § (10a) bekezdését a 410/2012. (XII. 28.) Korm. rendelet 30. §-a iktatta be.
+[^31]: A 11. § (1) bekezdése a 362/2010. (XII. 30.) Korm. rendelet 14. § (2) bekezdése szerint módosított szöveg.
+[^32]: A 11. § (2) bekezdése e rendelet 36. § (2) bekezdése alapján a Magyar Köztársaság területén megvalósuló együttes végrehajtás hitelesítőire vonatkozó jogszabály hatálybalépésének napján lép hatályba.
+[^33]: A 11. § (8) bekezdés c) pontja a 121/2009. (VI. 11.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^34]: A 11. § (10a) bekezdését a 410/2012. (XII. 28.) Korm. rendelet 30. §-a iktatta be.

@@ -1,10 +1,10 @@
-1. melléklet a 323/2007. (XII. 11.) Korm. rendelethez
+1. melléklet a 323/2007. (XII. 11.) Korm. rendelethez[^92]
 
-## A nemzeti forgalmi jegyzékhez kapcsolódó számlavezetési díj megállapítása
+## A forgalmi jegyzékhez kapcsolódó számlavezetési díj megállapítása
 
 1. A 8. § (1) bekezdés szerinti számlavezetési díj mértéke és alapja
 
-| Sorszám (fő)/alszám | A nemzeti forgalmi jegyzékhez kapcsolódó számlák (kiotói egység mennyiség/év) | A számlavezetési díj mértéke (Ft/év) |
+| Sorszám (fő)/alszám | A forgalmi jegyzékhez kapcsolódó számlák (kiotói egység mennyiség/év) | A számlavezetési díj mértéke (Ft/év) |
 
 | 1. |  | Üzemeltetői és személyi számla |  |
 
@@ -21,3 +21,5 @@
 2. A 8. § (1) bekezdés szerinti számlavezetési díj alapja
 
 A díjfizetés alapja a tárgyévet megelőző év során a számlára beérkező kibocsátás-csökkentési egységek és igazolt kibocsátás-csökkentési egységek együttes mennyisége.
+
+[^92]: Az 1. melléklet az 528/2013. (XII. 30.) Korm. rendelet 15. § (4) bekezdés a) pontja szerint módosított szöveg.
