@@ -1,8 +1,8 @@
-## 27. §[^243] A pénzügyi intézmény a 3. § (1) bekezdés szerinti éves beszámolóját a könyvvizsgálói záradékot vagy a záradék megadásának elutasítását is tartalmazó független könyvvizsgálói jelentéssel együtt a Tv. előírásainak megfelelően köteles közzétenni.
+## 27. §[^254] A pénzügyi intézmény a 3. § (1) bekezdés szerinti éves beszámolóját a könyvvizsgálói záradékot vagy a záradék megadásának elutasítását is tartalmazó független könyvvizsgálói jelentéssel együtt a Tv. előírásainak megfelelően köteles közzétenni.
 
 ## Fióktelepek közzétételi előírásai
 
-27/A. §[^244] (1) A külföldi székhelyű vállalkozás magyarországi fióktelepeként működő pénzügyi intézmény a Tv. 154/A. §-ának előírásait a (2)–(6) bekezdés figyelembevételével köteles alkalmazni.
+27/A. §[^255] (1) A külföldi székhelyű vállalkozás magyarországi fióktelepeként működő pénzügyi intézmény a Tv. 154/A. §-ának előírásait a (2)–(6) bekezdés figyelembevételével köteles alkalmazni.
 
 (2) A fióktelep köteles közétenni és letétbe helyezni a külföldi székhelyű vállalkozás által a székhely szerinti tagállam jogszabályai alapján összeállított – könyvvizsgálói záradékkal ellátott – éves beszámolót, illetve összevont (konszolidált) éves beszámolót és azok vizsgálatáról szóló könyvvizsgálói jelentést magyar nyelven, hiteles fordításban.
 
@@ -22,5 +22,5 @@ d) a fióktelepnél nyilvántartott állampapírok, hitelintézetekkel és ügyf
 
 (6) A (3) bekezdésben előírt feltételeknek nem megfelelő fióktelep a (2) bekezdés szerinti közzététel teljesítése mellett köteles a saját tevékenységéről a Tv., illetve e rendelet szerint elkészített éves beszámolóját az általános szabályok szerint könyvvizsgálóval felülvizsgáltatni, letétbe helyezni és közzétenni.
 
-[^243]: A 27. § a 331/2008. (XII. 30.) Korm. rendelet 7. §-ával megállapított szöveg. E módosító rendelet 38. § (1)–(2) bekezdése alapján a rendelkezést először a 2009. évben induló üzleti évről készített éves beszámolóra kell alkalmazni, illetve a 2008. évben induló üzleti évről készített éves beszámolóra is alkalmazható.
-[^244]: A 27/A. §-t és alcímét a 238/2003. (XII. 17.) Korm. rendelet 14. §-a iktatta be, e módosító rendelet 18. § (3) bekezdése alapján a rendelkezést az Európai Közösségek jogával összhangban kell alkalmazni; először a 2004. évi üzleti évről készített beszámolóra kell alkalmazni.
+[^254]: A 27. § a 331/2008. (XII. 30.) Korm. rendelet 7. §-ával megállapított szöveg. E módosító rendelet 38. § (1)–(2) bekezdése alapján a rendelkezést először a 2009. évben induló üzleti évről készített éves beszámolóra kell alkalmazni, illetve a 2008. évben induló üzleti évről készített éves beszámolóra is alkalmazható.
+[^255]: A 27/A. §-t és alcímét a 238/2003. (XII. 17.) Korm. rendelet 14. §-a iktatta be, e módosító rendelet 18. § (3) bekezdése alapján a rendelkezést az Európai Közösségek jogával összhangban kell alkalmazni; először a 2004. évi üzleti évről készített beszámolóra kell alkalmazni.

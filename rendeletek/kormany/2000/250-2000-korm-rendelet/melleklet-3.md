@@ -164,7 +164,7 @@
 
 ## b) kockázati céltartalék felhasználása a függő és biztos (jövőbeni) kötelezettségekre
 
-## 12/A. Általános kockázati céltartalék képzés és felhasználás különbözete
+## 12/A. Általános kockázati céltartalék felhasználás értéke
 
 ## 13. Értékvesztés a befektetési célú, hitelviszonyt megtestesítő értékpapírok, kapcsolt- és egyéb részesedési viszonyban lévő vállalkozásban való részvények, részesedések után
 
@@ -290,7 +290,7 @@
 
 ## b) kockázati céltartalékképzés a függő és biztos (jövőbeni) kötelezettségekre
 
-## 7/A. Általános kockázati céltartalék képzés
+## 7/A.
 
 ## 8. Értékvesztés a befektetési célú, hitelviszonyt megtestesítő értékpapírok, kapcsolt- és egyéb részesedési viszonyban lévő vállalkozásban való részvények, részesedések után
 
@@ -408,6 +408,6 @@
 
 ## 13. Mérleg szerinti vesztesége
 
-3. számú melléklet a 250/2000. (XII. 24.) Korm. rendelethez[^259]
+3. számú melléklet a 250/2000. (XII. 24.) Korm. rendelethez[^277]
 
-[^259]: A 3. számú melléklet a 238/2003. (XII. 17.) Korm. rendelet 17. §-a szerint módosított szöveg, e módosító rendelet 18. § (1)–(2) bekezdése alapján a rendelkezést először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni, illetve a 2003. évi üzleti évről készített beszámolóra is alkalmazni lehet.
+[^277]: A 3. számú melléklet a 238/2003. (XII. 17.) Korm. rendelet 17. §-a szerint módosított szöveg, e módosító rendelet 18. § (1)–(2) bekezdése alapján a rendelkezést először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni, illetve a 2003. évi üzleti évről készített beszámolóra is alkalmazni lehet.

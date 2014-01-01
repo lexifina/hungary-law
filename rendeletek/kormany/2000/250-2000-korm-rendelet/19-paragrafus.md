@@ -8,11 +8,11 @@ a) az ügyfél megbízása alapján jegyzett dematerializált értékpapír név
 
 b) az ügyfél megbízása alapján vásárolt, illetve eladott dematerializált értékpapír névértékét;
 
-c)[^197] az értékpapírszámlájukat különböző számlavezetőnél (befektetési szolgáltatónál) vezető ügyfelek tőzsdén kívül egymással kötött megállapodása (ügylete) alapján, az ügyfél számlájára, illetve számlájáról átutalt (transzferált) értékpapír névértékét;
+c)[^206] az értékpapírszámlájukat különböző számlavezetőnél (befektetési szolgáltatónál) vezető ügyfelek tőzsdén kívül egymással kötött megállapodása (ügylete) alapján, az ügyfél számlájára, illetve számlájáról átutalt (transzferált) értékpapír névértékét;
 
 d) az egyéb növekedési és csökkenési tételeket.
 
-(3)[^198] Az elszámolóháznak a központi értéktári tevékenység keretében, a kibocsátott dematerializált értékpapírról vezetett Központi értékpapírszámláról értékpapír-számlavezetőnként megbontva nyilvántartást kell vezetni a 0. Nyilvántartási számlák számlaosztályban.
+(3)[^207] Az elszámolóháznak a központi értéktári tevékenység keretében, a kibocsátott dematerializált értékpapírról vezetett Központi értékpapírszámláról értékpapír-számlavezetőnként megbontva nyilvántartást kell vezetni a 0. Nyilvántartási számlák számlaosztályban.
 
-[^197]: A 19. § (2) bekezdésének c) pontja a 291/2001. (XII. 26.) Korm. rendelet 22. §-ának (3) bekezdése szerint módosított szöveg, e módosító rendelet 22. §-a (1) bekezdésének a) pontja alapján rendelkezéseit a 2001. évbről készített éves beszámolónál is alkalmazni lehet.
-[^198]: A 19. § (3) bekezdését a 347/2004. (XII. 22.) Korm. rendelet 7. §-a iktatta be, e módosító rendelet 19. §-ának (1)–(2) bekezdése alapján a rendelkezést először a 2005. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban a 2004. évi éves beszámoló elkészítésénél is alkalmazható.
+[^206]: A 19. § (2) bekezdésének c) pontja a 291/2001. (XII. 26.) Korm. rendelet 22. §-ának (3) bekezdése szerint módosított szöveg, e módosító rendelet 22. §-a (1) bekezdésének a) pontja alapján rendelkezéseit a 2001. évbről készített éves beszámolónál is alkalmazni lehet.
+[^207]: A 19. § (3) bekezdését a 347/2004. (XII. 22.) Korm. rendelet 7. §-a iktatta be, e módosító rendelet 19. §-ának (1)–(2) bekezdése alapján a rendelkezést először a 2005. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban a 2004. évi éves beszámoló elkészítésénél is alkalmazható.
