@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2005-174-00-00
 | 2012-10-01 | 2012. évi XCVII. törvény | 2005-174-00-00.11 |
 | 2013-01-01 | 2012. évi CCVIII. törvény | 2005-174-00-00.12 |
 | 2013-12-01 | 2013. évi CXC. törvény | 2005-174-00-00.13 |
+| 2014-01-01 | 2013. évi CXC. törvény | 2005-174-00-00.14 |

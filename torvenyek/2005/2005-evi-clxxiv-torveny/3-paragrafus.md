@@ -38,6 +38,10 @@ f) a 6. § (2) bekezdése szerinti esetben felhatalmazás megadása a számlavez
 
 g) a szülő vagy – a szülő egyetértő nyilatkozatával – 16. életévének betöltését követően a gyermek által nyilatkozatban kötelezettség vállalása arra, hogy a saját és a gyermek személyes adataiban bekövetkező változásokat (ideértve a külföldi letelepedés tényét is) a számlavezetőhöz bejelenti azzal, hogy a hozzátartozó által nyitott számla esetén a szülő vagy – a szülő egyetértésével – a 16. életévét betöltött gyermek a nyilatkozatot a számla feletti rendelkezést megelőzően bármikor pótolhatja.
 
+(3a) A 2006. január 1. előtt született gyermek javára megnyitott Start-számlát a számlavezető megszünteti, ha a számla megnyitását követő 30 napon belül a Start-számlára nem történik meg legalább 25 ezer forint befizetése.
+
+(3b) A tárgyévben legalább hat hónapig nevelésbe vett és az adatszolgáltatás napján is nevelés alatt álló, 2005. december 31-ét követően született gyermek javára a kiutaló a gyámhatóság adatszolgáltatása alapján kezdeményezi a számlavezetőnél a Start-számla megnyitását, feltéve hogy a gyermek javára korábban Start-számla nem került megnyitásra.
+
 (4) Amennyiben a kiutaló észleli, hogy ugyanazon gyermekre tekintettel több Start-számla is létrejött, jelzéssel él a későbbi időpontban létrejött számla számlavezetőjéhez, melyben megjelöli a gyermek elsőként létrejött Start-számláját. A megkeresett számlavezető köteles 30 napon belül az általa nyilvántartott követeléseket a 7. § (3) bekezdés megfelelő alkalmazásával a korábbi időpontban létrejött számlára áthelyezni. E szabályt abban az esetben is alkalmazni kell, ha a kiutaló vezeti a gyermek bármely Start-számláját.
 
 (5) A számlavezetőre, a számlavezető által végzett szolgáltatásokra a tőkepiacról szóló törvény, illetőleg a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
