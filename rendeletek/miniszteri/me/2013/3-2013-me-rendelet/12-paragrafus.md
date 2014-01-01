@@ -1,1 +1,0 @@
-## 5. Az Európai Regionális Fejlesztési Alap, az Előcsatlakozási Támogatási Eszköz és az Európai Szomszédsági és Partnerségi Eszköz pénzügyi alapok egyes, a területi együttműködéshez kapcsolódó programjai végrehajtásában magyarországi közreműködő szervezet kijelöléséről szóló 34/2007. (XI. 17.) ÖTM rendelet módosítása
