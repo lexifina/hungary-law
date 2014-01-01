@@ -38,7 +38,7 @@
 
 | III. A rendelet 1. § a) pontjában meghatározott eljárásért fizetendő díj mértéke a támogatott szervezetnek a jóváhagyott sportfejlesztési program megvalósítása során a támogatási időszakra vonatkozó sportfejlesztési programban meghatározott szakmai program módosítására, valamint a sportfejlesztési program alapján megvalósuló fejlesztés meghosszabbítására irányuló kérelme esetén az I. pontban meghatározott mértékek 50%-a. |
 
-2. melléklet a 39/2011. (VI. 30.) NEFMI rendelethez[^2]
+2. melléklet a 39/2011. (VI. 30.) NEFMI rendelethez[^3]
 
 | Látvány-csapatsport országos sportági szakszövetsége | Fizetési számlaszám |
 
@@ -52,4 +52,4 @@
 
 | Magyar Vízilabda Szövetség | 11991102-02110349 |
 
-[^2]: A 2. melléklet a 76/2011. (XII. 29.) NEFMI rendelet 5. §-a szerint módosított szöveg.
+[^3]: A 2. melléklet a 76/2011. (XII. 29.) NEFMI rendelet 5. §-a szerint módosított szöveg.
