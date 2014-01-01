@@ -10,4 +10,4 @@
 
 (5) Ha a jogi személlyel szemben alkalmazott pénzbírság behajtására bírósági végrehajtási eljárás indult, és annak megindulásától számított hat hónapon belül a végrehajtás nem vezetett eredményre, a bírósági végrehajtó erről írásban értesíti az intézkedést alkalmazó bíróságot. A bíróság haladéktalanul kezdeményezi a jogi személlyel szemben a felszámolási eljárást.
 
-(6) Ha a 11. § (4) bekezdése alapján zár alá vett vagyon, vagyonrész, illetve vagyontárgy helyébe meghatározott összeg lépett, az eljárás megszüntetésekor vagy az ügydöntő határozatban rendelkezni kell a letéti számlán elhelyezett összegnek – a jogi személy ellen elrendelt felszámolási eljárásban kirendelt felszámoló értesítésével – a jogi személy számlájára történő átutalásáról.
+(6) Ha a 11. § (4) bekezdése alapján zár alá vett dolog, vagyoni értékű jog, követelés vagy szerződés alapján kezelt pénzeszköz helyébe meghatározott összeg lépett, az eljárás megszüntetésekor vagy az ügydöntő határozatban rendelkezni kell a letéti számlán elhelyezett összegnek – a jogi személy ellen elrendelt felszámolási eljárásban kirendelt felszámoló értesítésével – a jogi személy számlájára történő átutalásáról.
