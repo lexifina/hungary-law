@@ -8,6 +8,8 @@ b) az országos kamara ügyintéző szerveinek feladataira, hatáskörére és m
 
 c) a szakmai tagozatok létesítésére, feladataira, működésére, továbbá a küldöttgyűlésen való részvételére és az egyes szakmai tagozatok arányos képviseletére vonatkozó főbb szabályokat,
 
-d) a területi kamarák által a tagdíjakból fizetendő hozzájárulás mértékét,
+d) a szakmai kollégiumok létesítésére, feladataira és működésére vonatkozó főbb szabályokat,
 
-e) mindazt, amiben e törvény az országos alapszabály rendelkezését írja elő.
+e) a területi kamarák által az országos kamarának fizetendő tagdíj részesedés mértékét,
+
+f) mindazt, amiben e törvény az országos alapszabály rendelkezését írja elő.

@@ -1,4 +1,4 @@
-6. § (1) A területi kamara elnöksége az elnökből, az alelnökből és az elnökségi tagokból áll, akiket a taggyűlés választ meg.
+6. § (1) A területi kamara elnöksége az elnökből, az alelnökökből és az elnökségi tagokból áll, akiket a taggyűlés választ meg.
 
 (2) Az elnökség feladata, hogy a taggyűlések közötti időszakban – a taggyűlés határozatainak megfelelően – a területi kamara működését irányítsa, és feladatait végrehajtsa.
 

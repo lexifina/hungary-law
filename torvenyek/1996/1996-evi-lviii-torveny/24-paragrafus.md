@@ -1,6 +1,6 @@
 ## Nonprofit gazdasági társaság alapítása
 
-24. § (1) A kamara gazdasági tevékenységet (ellenérték fejében, nyereség vagy haszonszerzés céljából rendszeresen folytatott termelő vagy szolgáltató tevékenység) nem végezhet.
+24. § (1)
 
 (2) A kamara gazdasági társaságnak nem lehet tagja, és ilyen társaságban nem szerezhet részesedést.
 

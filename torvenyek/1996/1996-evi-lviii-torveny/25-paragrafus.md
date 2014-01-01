@@ -28,7 +28,7 @@ a) akit a kamarából kizártak, a kizárástól számított 3 évig,
 
 b) aki cselekvőképességet korlátozó vagy kizáró gondnokság alatt áll.
 
-(7) A kamarai tag Magyarországon egyidejűleg a lakóhelye szerint illetékes területi mérnöki és területi építész kamara tagja is lehet, de a kettős kamarai tagság kényszere nélkül, egyik területi kamarai tagsága esetén – az általános szabályoknak megfelelően – a másik területi kamara szakterületén is szakmagyakorlási jogosultságot kérhet. Ebben az esetben a két területi kamara megállapodik az érintett tag tagdíjának megosztásáról.
+(7) A kamarai tag Magyarországon egyidejűleg a lakóhelye szerint illetékes területi mérnöki és területi építész kamara tagja is lehet. Kettős kamarai tagság esetén a kamarai tag mindkét kamaránál kedvezményes tagdíjat fizet, amelynek mértéke a tagdíj 70%-a.
 
 (8) A kamarai tagot a választása szerinti – a szakképesítése, tevékenysége alapján meghatározott – szakmai tagozatba vagy tagozatokba is fel kell venni.
 
