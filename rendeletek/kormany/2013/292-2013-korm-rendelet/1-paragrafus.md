@@ -22,7 +22,7 @@ d) a hulladékszállítására alkalmas eszközök számát és kapacitását.
 
 (4) A katasztrófavédelmi szervet folyamatosan, heti rendszerességgel elektronikus úton tájékoztatja
 
-a) az Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség
+a)[^2] az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség
 
 aa) a hulladékgazdálkodási engedéllyel és a hulladékgazdálkodási közszolgáltatási engedéllyel rendelkező közszolgáltatókról,
 
@@ -37,3 +37,4 @@ ba) az OHÜ minősítéssel rendelkező közszolgáltatók listájáról,
 bb) az OHÜ minősítés iránti kérelmet benyújtó közszolgáltatók listájáról.
 
 [^1]: Az 1. § az 505/2013. (XII. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. § (4) bekezdés a) pontja az 505/2013. (XII. 29.) Korm. rendelet 3. § (2) bekezdése szerint módosított szöveg.
