@@ -310,6 +310,6 @@
 
 | Az illetékbélyeg helye: |
 
-3. melléklet a 25/2007. (V. 31.) IRM rendelethez[^41]
+3. melléklet a 25/2007. (V. 31.) IRM rendelethez[^43]
 
-[^41]: A 3. melléklet a 27/2011. (VIII. 24.) BM rendelet 5. § (3) bekezdésével megállapított szöveg.
+[^43]: A 3. melléklet a 27/2011. (VIII. 24.) BM rendelet 5. § (3) bekezdésével megállapított szöveg.

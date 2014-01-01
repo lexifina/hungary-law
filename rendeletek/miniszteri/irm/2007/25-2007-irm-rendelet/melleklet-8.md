@@ -16,6 +16,6 @@
 
 | (név, lakcím) | (név, lakcím) |
 
-8. melléklet a 25/2007. (V. 31.) IRM rendelethez[^46]
+8. melléklet a 25/2007. (V. 31.) IRM rendelethez[^48]
 
-[^46]: A 8. melléklet a 12/2010. (XII. 23.) BM rendelet 13. § (2) bekezdésével megállapított, a 68/2011. (XII. 30.) BM rendelet 24. § c) pontja szerint módosított szöveg.
+[^48]: A 8. melléklet a 12/2010. (XII. 23.) BM rendelet 13. § (2) bekezdésével megállapított, a 68/2011. (XII. 30.) BM rendelet 24. § c) pontja szerint módosított szöveg.

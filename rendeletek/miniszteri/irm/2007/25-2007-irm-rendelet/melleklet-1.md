@@ -1,3 +1,3 @@
-1. melléklet a 25/2007. (V. 31.) IRM rendelethez[^39]
+1. melléklet a 25/2007. (V. 31.) IRM rendelethez[^41]
 
-[^39]: Az 1. melléklet a 27/2011. (VIII. 24.) BM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^41]: Az 1. melléklet a 27/2011. (VIII. 24.) BM rendelet 5. § (1) bekezdésével megállapított szöveg.

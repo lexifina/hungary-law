@@ -124,6 +124,6 @@
 
 | Az illetékbélyeg helye: |
 
-2. melléklet a 25/2007. (V. 31.) IRM rendelethez[^40]
+2. melléklet a 25/2007. (V. 31.) IRM rendelethez[^42]
 
-[^40]: A 2. melléklet a 27/2011. (VIII. 24.) BM rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^42]: A 2. melléklet a 27/2011. (VIII. 24.) BM rendelet 5. § (2) bekezdésével megállapított szöveg.

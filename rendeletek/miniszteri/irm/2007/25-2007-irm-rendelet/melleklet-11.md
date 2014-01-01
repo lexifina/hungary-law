@@ -1,5 +1,5 @@
-## 2k14006.pdf
+## 3k84304.pdf
 
-11. melléklet a 25/2007. (V. 31.) IRM rendelethez[^49]
+11. melléklet a 25/2007. (V. 31.) IRM rendelethez[^51]
 
-[^49]: A 11. melléklet a 27/2011. (VIII. 24.) BM rendelet 5. § (7) bekezdésével megállapított szöveg.
+[^51]: A 11. melléklet a 69/2013. (XII. 11.) BM rendelet 3. § b) pontjával megállapított szöveg.

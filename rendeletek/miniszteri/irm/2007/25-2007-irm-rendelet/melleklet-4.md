@@ -126,6 +126,6 @@
 
 | Az illetékbélyeg helye: |
 
-4. melléklet a 25/2007. (V. 31.) IRM rendelethez[^42]
+4. melléklet a 25/2007. (V. 31.) IRM rendelethez[^44]
 
-[^42]: A 4. melléklet a 27/2011. (VIII. 24.) BM rendelet 5. § (4) bekezdésével megállapított szöveg.
+[^44]: A 4. melléklet a 27/2011. (VIII. 24.) BM rendelet 5. § (4) bekezdésével megállapított szöveg.
