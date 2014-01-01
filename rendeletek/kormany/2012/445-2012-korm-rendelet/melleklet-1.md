@@ -1,4 +1,4 @@
-## 31. §[^1]
+## 31. §[^33]
 
 1. melléklet a 445/2012. (XII. 29.) Korm. rendelethez
 
@@ -24,4 +24,4 @@ vegyjelet az 5. pontban foglalt módon kell feltüntetni.
 
 6. A hordozható akkumulátoron, a gépjárműelemen, valamint a gépjármű-akkumulátoron annak kapacitását fel kell tüntetni.
 
-[^1]: A 31. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^33]: A 31. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
