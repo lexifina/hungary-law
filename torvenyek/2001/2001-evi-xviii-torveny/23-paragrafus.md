@@ -1,1 +1,0 @@
-23. § A körözési tájékoztató rendszer a nyilvántartás adatain kívül a körözött személlyel és tárggyal kapcsolatban azt az – azonosítást, illetve felkutatást elősegítő – adatot is tartalmazza, amelyet a körözést elrendelő hatóság határozatának megküldésével, illetve a körözés elrendelésével, valamint azt követően közöl.

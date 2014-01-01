@@ -1,1 +1,0 @@
-4. § A Rendőrség annak a személynek, holttestnek, tárgynak a körözését végzi, akinek, illetve amelynek felkutatását vagy személyazonosságának megállapítását jogszabályban arra feljogosított hatóság határozatban elrendelte.
