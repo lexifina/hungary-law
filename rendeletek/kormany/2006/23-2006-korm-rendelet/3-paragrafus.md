@@ -60,7 +60,7 @@
 
 28. Vizsgálati terv: a biztonsági értékelés (károsodás elemzés) alapján meghatározott, a nyomástartó berendezés időszakos ellenőrzése során végrehajtandó és a cikluson belül elvégzendő vizsgálatok összessége.
 
-29.[^13] Mobil nyomástartó berendezés: a kőolaj-, és földgázbányászati létesítményekben, vagy kőolaj és földgázkutatási területen, változó felállítási helyen üzemelő, valamely technológiai folyamatot (például szeparálást, kútmérést, próbatermeltetést) ideiglenesen ellátó nyomástartó berendezés.
+29.[^13] Mobil nyomástartó berendezés: a kőolaj-, és földgázbányászati létesítményekben, kőolaj és földgázkutatási területen, vagy földgázszállítás, földgázelosztás során, változó felállítási helyen üzemelő, valamely technológiai folyamatot – különösen szeparálást, kútmérést, próbatermeltetést, gázátadást, gázfogadást, nyomásszabályozást – ideiglenesen ellátó nyomástartó berendezés.
 
 [^7]: A 2. §-t a 273/2009. (XII. 3.) Korm. rendelet 20. § (4) bekezdés a) pontja hatályon kívül helyezte. E módosító rendelet 20. § (1) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
 [^8]: A 3. § 5. pontja a 273/2009. (XII. 3.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg. E módosító rendelet 20. § (1) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
@@ -68,4 +68,4 @@
 [^10]: A 3. § 7. pontja a 273/2009. (XII. 3.) Korm. rendelet 20. § (3) bekezdés a) pontja szerint módosított szöveg.
 [^11]: A 3. § 17. pontját a 273/2009. (XII. 3.) Korm. rendelet 20. § (4) bekezdés b) pontja hatályon kívül helyezte.
 [^12]: A 3. § 23. pontja a 273/2009. (XII. 3.) Korm. rendelet 20. § (4) bekezdés b) pontja szerint módosított szöveg. E módosító rendelet 20. § (1) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
-[^13]: A 3. § 29. pontja a 273/2009. (XII. 3.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg. E módosító rendelet 20. § (1) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
+[^13]: A 3. § 29. pontja az 559/2013. (XII.31.) Korm. rendelet 32. §-ával megállapított szöveg.

@@ -1,6 +1,6 @@
-12. § (1)[^45] A használatbavételi engedély határozatlan ideig hatályos és indokolt esetben visszavonható vagy korlátozható.
+12. § (1)[^52] A használatbavételi engedély határozatlan ideig hatályos és indokolt esetben visszavonható vagy korlátozható.
 
-(2)[^46] A bányafelügyelet külön intézkedése nélkül megszűnik a használatbavételi engedély hatálya, ha
+(2)[^53] A bányafelügyelet külön intézkedése nélkül megszűnik a használatbavételi engedély hatálya, ha
 
 a) a nyomástartó berendezést a használatbavételi engedélyében meghatározott helyről eltelepítik vagy más célra használják,
 
@@ -12,15 +12,15 @@ d) a nyomástartó berendezést a szilárdsági számításoknál figyelembe vet
 
 e) a használat során a nyomástartó berendezést súlyos károsodás (külső behatás, az előírtaktól eltérő, meghibásodáshoz vezető használat), illetve a berendezés elhasználódását okozó korróziós, eróziós stb. hatás éri,
 
-f)[^47] az előírt, vizsgálati terv szerinti vizsgálatot elmulasztják, illetve a vizsgálat megtörténtét, megállapításait nem dokumentálják, a bányakapitányságnak nem jelentik,
+f)[^54] az előírt, vizsgálati terv szerinti vizsgálatot elmulasztják,
 
 g) a 16. § (2) bekezdésben előírt vizsgálatot esedékességekor nem végzik, illetve végeztetik el, illetve a vizsgálat megállapításai szerint a berendezés nem felel meg a létesítési, illetve a használatbavételi engedélyekben foglaltaknak, vagy állapota nem elégíti ki a rendeltetésére, illetve a biztonságos használatára vonatkozó követelményeket.
 
-(3)[^48] A nyomástartó berendezés használatbavételi engedélyének hatályát nem érinti a hegesztést nem igénylő javítás, az eredetivel azonos műszaki jellemzőkkel bíró tartozék és műszerek (pl. szerelvény, túlnyomás-határoló, nyomásmérő, hőmérő), valamint a csőkötegek cseréi.
+(3)[^55] A nyomástartó berendezés használatbavételi engedélyének hatályát nem érinti a hegesztést nem igénylő javítás, az eredetivel azonos műszaki jellemzőkkel bíró tartozék és műszerek (pl. szerelvény, túlnyomás-határoló, nyomásmérő, hőmérő), valamint a csőkötegek cseréi.
 
 (4) A bányafelügyelet jogosult a használatbavételi engedély visszavonására, amennyiben az engedélyes az engedélyben meghatározott egyéb kötelezettségét nem teljesíti.
 
-[^45]: A 12. § (1) bekezdése a 273/2009. (XII. 3.) Korm. rendelet 20. § (3) bekezdés h) pontja szerint módosított szöveg. E módosító rendelet 20. § (1) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
-[^46]: A 12. § (2) bekezdés bevezető szövegrésze a 273/2009. (XII. 3.) Korm. rendelet 20. § (3) bekezdés h) pontja szerint módosított szöveg. E módosító rendelet 20. § (1) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
-[^47]: A 12. § (2) bekezdés f) pontja a 273/2009. (XII. 3.) Korm. rendelet 20. § (4) bekezdés g) pontja szerint módosított szöveg. E módosító rendelet 20. § (1) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
-[^48]: A 12. § (3) bekezdése a 273/2009. (XII. 3.) Korm. rendelet 20. § (3) bekezdés h) pontja szerint módosított szöveg. E módosító rendelet 20. § (1) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
+[^52]: A 12. § (1) bekezdése a 273/2009. (XII. 3.) Korm. rendelet 20. § (3) bekezdés h) pontja szerint módosított szöveg. E módosító rendelet 20. § (1) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
+[^53]: A 12. § (2) bekezdés bevezető szövegrésze a 273/2009. (XII. 3.) Korm. rendelet 20. § (3) bekezdés h) pontja szerint módosított szöveg. E módosító rendelet 20. § (1) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
+[^54]: A 12. § (2) bekezdés f) pontja az 559/2013. (XII. 31.) Korm. rendelet 37. §-ával megállapított szöveg.
+[^55]: A 12. § (3) bekezdése a 273/2009. (XII. 3.) Korm. rendelet 20. § (3) bekezdés h) pontja szerint módosított szöveg. E módosító rendelet 20. § (1) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
