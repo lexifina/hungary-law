@@ -6,15 +6,15 @@
 
 | 1. | Kiemelt nagyberuházásként gyártelepítés és annak építményei, valamint az ahhoz kapcsolódó logisztikai bázis és építményei | Az 1. § (1) bekezdése szerinti terület | általános építés- ügyi hatósági engedélyek | Győri Járási Hivatal járási építésügyi és örökségvédelmi hivatala | Győr-Moson-Sopron Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
-| 2. |  |  | környezetvédelmi hatósági engedélyezési eljárás a természetvédelmi kiegyenlítő intézkedés végrehajtásához szükséges környezetvédelmi hatósági engedélyezési eljárás kivételével | Észak-dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 2. |  |  | környezetvédelmi hatósági engedélyezési eljárás a természetvédelmi kiegyenlítő intézkedés végrehajtásához szükséges környezetvédelmi hatósági engedélyezési eljárás kivételével | Észak-dunántúli Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
-| 3. |  |  | természetvédelmi hatósági engedélyezési eljárás a természetvédelmi kiegyenlítő intézkedés végrehajtásához szükséges természetvédelmi hatósági engedélyezési eljárás kivételével | Észak-dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 3. |  |  | természetvédelmi hatósági engedélyezési eljárás a természetvédelmi kiegyenlítő intézkedés végrehajtásához szükséges természetvédelmi hatósági engedélyezési eljárás kivételével | Észak-dunántúli Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
-| 4. |  |  | természetvédelmi kiegyenlítő intézkedés előírására irányuló engedélyezési eljárás | Észak-dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 4. |  |  | természetvédelmi kiegyenlítő intézkedés előírására irányuló engedélyezési eljárás | Észak-dunántúli Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
 | 5. |  |  | útügyi hatósági engedélyek | Győr-Moson- Sopron Megyei Kormányhivatal Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központ |
 
-| 6. |  |  | vízjogi engedélyek | Észak-dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 6. |  |  | vízügyi hatósági és vízvédelmi engedélyek | Észak-dunántúli Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
 | 7. |  |  | A Magyar Kereskedelmi Engedélyezési Hivatalról és a területi mérésügyi és műszaki biztonsági hatóságokról szóló 320/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdése és 13. § (2) bekezdése szerinti engedélyek | Győr-Moson- Sopron Megyei Kormányhivatal Győri Mérésügyi és Műszaki Biztonsági Hatósága (Győr) | Magyar Kereskedelmi Engedélyezési Hivatal |
 
@@ -46,7 +46,7 @@
 
 | 21. |  |  | a jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos hatósági eljárások | Győr-Moson- Sopron Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-2. melléklet a 16/2011. (II. 24.) Korm. rendelethez[^6]
+2. melléklet a 16/2011. (II. 24.) Korm. rendelethez[^7]
 
 A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárásokban közreműködő hatáskörrel rendelkező szakhatóságok
 
@@ -54,7 +54,9 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 1. | építésügy | Győri Járási Hivatal járási építésügyi és örökségvédelmi hivatala | Győr-Moson-Sopron Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
-| 2. | környezetvédelem, természetvédelem és vízügy | Észak-dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 2. | környezetvédelem és természetvédelem | Észak-dunántúli Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+
+| 2a. | vízügy | Észak-dunántúli Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
 | 3. | közlekedés |
 
@@ -100,4 +102,4 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 16. | területrendezés | Győr-Moson-Sopron Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatalának Állami Főépítésze | területrendezésért felelős miniszter |
 
-[^6]: A 2. melléklet a 158/2011. (VIII. 11.) Korm. rendelet 39. §-a, a 296/2012. (X. 17.) Korm. rendelet 50. § a) pontja, a 394/2012. (XII. 20.) Korm. rendelet 45. §-a szerint módosított szöveg.
+[^7]: A 2. melléklet a 158/2011. (VIII. 11.) Korm. rendelet 39. §-a, a 296/2012. (X. 17.) Korm. rendelet 50. § a) pontja, a 394/2012. (XII. 20.) Korm. rendelet 45. §-a, az 527/2013. (XII. 30.) Korm. rendelet 98. § (3) bekezdése szerint módosított szöveg.
