@@ -20,4 +20,8 @@ db) a költségvetési szervek kivételével a munkáltatók, kifizetők személ
 
 dc) minden egyéb bevallásban megállapított adókötelezettség (kivéve a munkaadói, a munkavállalói járulék és az egészségügyi hozzájárulás a költségvetési szerveknél), és
 
-dd) az igényelt költségvetési támogatás – ide nem értve az adó-visszaigénylést és adó-visszatérítést – abszolút értéken számolva.
+dd) az igényelt költségvetési támogatás – ide nem értve az adó-visszaigénylést és adó-visszatérítést – abszolút értéken számolva,
+
+e)[^5] a 2011. szeptember 1-jétől az adóévet megelőző év június 30-áig terjedő időszakra vonatkozó népegészségügyi termékadó fizetési kötelezettség.
+
+[^5]: A 4. § e) pontját a 72/2013. (XII. 30.) NGM rendelet 1. §-a iktatta be.
