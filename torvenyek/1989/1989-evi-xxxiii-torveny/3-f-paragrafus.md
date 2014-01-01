@@ -1,0 +1,1 @@
+3/F. § Ha a párt jogutód nélkül megszűnik, a hitelezők kielégítetlen követelésük erejéig kártérítési igényt érvényesíthetnek a párt vezető tisztségviselőivel szemben, a szerződésen kívül okozott károkért való felelősség szabályai szerint, ha a párt vezető tisztségviselője a párt fizetésképtelenségével fenyegető helyzet beállta után a hitelezői érdekeket nem vette figyelembe.

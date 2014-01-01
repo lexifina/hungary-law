@@ -8,50 +8,66 @@ Bevételek:
 
 1. Tagdíjak
 
+Ft
+
 2. Központi költségvetésből származó támogatás
 
-3. Képviselői csoportnak nyújtott állami támogatás
+Ft
+
+3. A párt országgyűlési képviselőcsoportjának
+
+nyújtott állami támogatás
+
+Ft
 
 4. Egyéb hozzájárulások, adományok
 
-4.1. Jogi személyektől
+(az 500 000 forint feletti hozzájárulás nevesítve)
 
-4.1.1. Belföldiektől (az 500 000 forint feletti hozzájárulás nevesítve)
+Ft
 
-4.1.2. Külföldiektől (a 100 000 forint feletti hozzájárulás nevesítve)
+5. A párt által alapított vállalat és korlátolt
 
-4.2. Jogi személynek nem minősülő gazdasági társaságtól
+felelősségű társaság nyereségéből származó bevétel
 
-4.2.1 Belföldiektől (az 500 000 forint feletti hozzájárulás nevesítve)
-
-4.2.2. Külföldiektől (a 100 000 forint feletti hozzájárulás nevesítve)
-
-4.3. Magánszemélyektől
-
-4.3.1. Belföldiektől (az 500 000 forint feletti hozzájárulás nevesítve)
-
-4.3.2. Külföldiektől (a 100 000 forint feletti hozzájárulás nevesítve)
-
-5. A párt által alapított vállalat és korlátolt felelősségű társaság nyereségéből származó bevétel
+Ft
 
 6. Egyéb bevétel
 
+Ft
+
 Összes bevétel a gazdasági évben
+
+Ft
 
 Kiadások:
 
-1. Támogatás a párt országgyűlési csoportja számára
+1. Támogatás a párt országgyűlési képviselőcsoportja számára
+
+Ft
 
 2. Támogatás egyéb szervezeteknek
 
+Ft
+
 3. Vállalkozások alapítására fordított összegek
+
+Ft
 
 4. Működési kiadások
 
+Ft
+
 5. Eszközbeszerzés
+
+Ft
 
 6. Politikai tevékenység kiadása
 
 7. Egyéb kiadások
 
+Ft
+
 Összes kiadás a gazdasági évben
+
+Ft

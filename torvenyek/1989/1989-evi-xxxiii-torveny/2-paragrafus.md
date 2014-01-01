@@ -12,4 +12,4 @@
 
 (5) A párt törvénysértése esetén az ügyész keresetet indít a párt ellen.
 
-(6) Az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény 11. § (3), (6) és (7) bekezdésének a civil szervezetekre irányadó rendelkezését a pártra is alkalmazni kell.
+(6)

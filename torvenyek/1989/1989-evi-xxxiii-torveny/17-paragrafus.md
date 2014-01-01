@@ -1,1 +1,1 @@
-17. §
+17. § E törvénynek az országgyűlési képviselők választása kampányköltségeinek átláthatóvá tételéről szóló 2013. évi LXXXVII. törvénnyel megállapított rendelkezéseit 2014. január 1-jétől kell alkalmazni.
