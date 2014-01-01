@@ -1,86 +1,84 @@
-## A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyek és eljárások
-
-## lefolytatására hatáskörrel rendelkező hatóságok
+## A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyek és eljárások lefolytatására hatáskörrel rendelkező hatóságok
 
 |  | Projektelem, létesítmény | A létesítmény azonosító adatai | A beruházás megvalósításával kapcsolatos engedélyek | Első fokon eljáró hatóság | Másodfokon eljáró hatóság |
 
-| 1. Hullámtéri rekonstrukciós beavatkozások |
+| 1. Hullámtéri rekonstrukciós beavatkozások |
 
-| 1.1. | bejáró utak-, belvízcsatorna- depóniák visszabontása, tereprendezés | Szolnok vasúti híd (340,00 fkm), Kisköre (401,6 fkm) közötti szakasz | környezetvédelmi engedély | Közép-Tisza-vidéki Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 1.1. | bejáró utak-, belvízcsatorna- depóniák visszabontása, tereprendezés | Szolnok vasúti híd (340,00 fkm), Kisköre (401,6 fkm) közötti szakasz | környezetvédelmi engedély | Közép-Tisza-vidéki Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
-| vízügyi hatósági engedély |
+| vízügyi hatósági engedély | Közép-Tisza-vidéki Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
-| 2. Nyárigátak rendezése |
+| 2. Nyárigátak rendezése |
 
-| 2.1. | meglévő nyárigátak visszabontása, elbontása | Tiszaroff-felsőréti nyárigát | környezetvédelmi engedély | Közép-Tisza-vidéki Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 2.1. | meglévő nyárigátak visszabontása, elbontása | Tiszaroff-felsőréti nyárigát | környezetvédelmi engedély | Közép-Tisza-vidéki Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
-| vízügyi hatósági engedély |
+| vízügyi hatósági engedély | Közép-Tisza-vidéki Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
-| 2.2. | műtárgyak felújítása a nyárigátakon | Tiszaroff-felsőréti nyárigát | környezetvédelmi engedély | Közép-Tisza-vidéki Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 2.2. | műtárgyak felújítása a nyárigátakon | Tiszaroff-felsőréti nyárigát | környezetvédelmi engedély | Közép-Tisza-vidéki Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
-| vízügyi hatósági engedély |
+| vízügyi hatósági engedély | Közép-Tisza-vidéki Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
-| 2.3. | műtárgyak építése | Tiszasüly-Kőtelki nyárigát | környezetvédelmi engedély | Közép-Tisza-vidéki Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 2.3. | műtárgyak építése | Tiszasüly-Kőtelki nyárigát | környezetvédelmi engedély | Közép-Tisza-vidéki Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
-| vízügyi hatósági engedély |
+|  |  |  | vízügyi hatósági engedély | Közép-Tisza-vidéki Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
-| 3. Övzátonyokkal kapcsolatos beavatkozások |
+| 3. Övzátonyokkal kapcsolatos beavatkozások |
 
-| 3.1. | övzátonyok rendezése | 358,80–359,50 fkm 363,30–364,10 fkm 396,70–397,80 fkm 401,10–401,60 fkm | környezetvédelmi engedély | Közép-Tisza-vidéki Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 3.1. | övzátonyok rendezése | 358,80-359,50 fkm 363,30-364,10 fkm 396,70-397,80 fkm 401,10-401,60 fkm | környezetvédelmi engedély | Közép-Tisza-vidéki Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
-| vízügyi hatósági engedély |
+|  |  |  | vízügyi hatósági engedély | Közép-Tisza-vidéki Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
-| 4. Folyószabályozási beavatkozások |
+| 4. Folyószabályozási beavatkozások |
 
-| 4.1. | partbiztosítások | 358,90–359,70 fkm 363,50–364,70 fkm | környezetvédelmi engedély | Közép-Tisza-vidéki Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 4.1. | partbiztosítások | 358,90-359,70 fkm 363,50-364,70 fkm | környezetvédelmi engedély | Közép-Tisza-vidéki Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
-| vízügyi hatósági engedély |
+|  |  |  | vízügyi hatósági engedély | Közép-Tisza-vidéki Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
-| 5. Árvízvédelmi fővédvonalakkal kapcsolatos beavatkozások |
+| 5. Árvízvédelmi fővédvonalakkal kapcsolatos beavatkozások |
 
-| 5.1. | meglévő árvízvédelmi fővédvonalak elbontása | Szajol 342,80–343,00 fkm | környezetvédelmi engedély | Közép-Tisza-vidéki Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 5.1. | meglévő árvízvédelmi fővédvonalak elbontása | Szajol 342,80-343,00 fkm | környezetvédelmi engedély | Közép-Tisza-vidéki Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
-| vízügyi hatósági engedély |
+|  |  |  | vízügyi hatósági engedély | Közép-Tisza-vidéki Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
-| Szórópuszta-Doba 350,00–354,30 fkm | környezetvédelmi engedély | Közép-Tisza-vidéki Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+|  |  | Szórópuszta-Doba 350,00-354,30 fkm | környezetvédelmi engedély | Közép-Tisza-vidéki Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
-| vízügyi hatósági engedély |
+|  |  |  | vízügyi hatósági engedély | Közép-Tisza-vidéki Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
-| Óballa 352,40–358,00 fkm | környezetvédelmi engedély | Közép-Tisza-vidéki Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+|  |  | Óballa 352,40-358,00 fkm | környezetvédelmi engedély | Közép-Tisza-vidéki Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
-| vízügyi hatósági engedély |
+|  |  |  | vízügyi hatósági engedély | Közép-Tisza-vidéki Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
-| 5.2. | új árvízvédelmi fővédvonalak építése | Szajol 342,80–343,00 fkm | környezetvédelmi engedély | Közép-Tisza-vidéki Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 5.2. | új árvízvédelmi fővédvonalak építése | Szajol 342,80-343,00 fkm | környezetvédelmi engedély | Közép-Tisza-vidéki Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
-| vízügyi hatósági engedély |
+|  |  |  | vízügyi hatósági engedély | Közép-Tisza-vidéki Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
-| Szórópuszta-Doba 350,00–354,30 fkm | környezetvédelmi engedély | Közép-Tisza-vidéki Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+|  |  | Szórópuszta-Doba 350,00-354,30 fkm | környezetvédelmi engedély | Közép-Tisza-vidéki Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
-| vízügyi hatósági engedély |
+|  |  |  | vízügyi hatósági engedély | Közép-Tisza-vidéki Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
-| Óballa 352,40–358,00 fkm | környezetvédelmi engedély | Közép-Tisza-vidéki Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+|  |  | Óballa 352,40-358,00 fkm | környezetvédelmi engedély | Közép-Tisza-vidéki Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
-| vízügyi hatósági engedély |
+|  |  |  | vízügyi hatósági engedély | Közép-Tisza-vidéki Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
-| 6. A tározókkal kapcsolatos hullámtéri beavatkozások |
+| 6. A tározókkal kapcsolatos hullámtéri beavatkozások |
 
-| 6.1. | vízbevezető, illetve leeresztő csatorna | Tiszaroffi tározó | környezetvédelmi engedély | Közép-Tisza-vidéki Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 6.1. | vízbevezető, illetve leeresztő csatorna | Tiszaroffi tározó | környezetvédelmi engedély | Közép-Tisza-vidéki Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
-| vízügyi hatósági engedély |
+|  |  |  | vízügyi hatósági engedély | Közép-Tisza-vidéki Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
-| Nagykunsági tározó | környezetvédelmi engedély | Közép-Tisza-vidéki Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+|  |  | Nagykunsági tározó | környezetvédelmi engedély | Közép-Tisza-vidéki Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
-| vízügyi hatósági engedély |
+|  |  |  | vízügyi hatósági engedély | Közép-Tisza-vidéki Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
-| Hanyi-Tiszasülyi tározó | környezetvédelmi engedély | Közép-Tisza-vidéki Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+|  |  | Hanyi-Tiszasülyi tározó | környezetvédelmi engedély | Közép-Tisza-vidéki Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
-| vízügyi hatósági engedély |
+|  |  |  | vízügyi hatósági engedély | Közép-Tisza-vidéki Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
-| Nagykörűi tározó | környezetvédelmi engedély | Közép-Tisza-vidéki Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+|  |  | Nagykörűi tározó | környezetvédelmi engedély | Közép-Tisza-vidéki Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
-| vízügyi hatósági engedély |
+|  |  |  | vízügyi hatósági engedély | Közép-Tisza-vidéki Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
-| 7. Vízimunka, közlekedési korlátozás, rakodási tevékenység |
+| 7. Vízimunka, közlekedési korlátozás, rakodási tevékenység |
 
 | 7.1. | vízimunka, közlekedési korlátozás, rakodási tevékenység |  | hajózási hatósági engedélyek | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központi Hivatal |
 
