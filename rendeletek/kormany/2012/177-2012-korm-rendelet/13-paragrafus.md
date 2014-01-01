@@ -1,4 +1,4 @@
-## 12. §[^8]
+## 12. §[^7]
 
 ## 8. Átmeneti rendelkezések
 
@@ -18,4 +18,4 @@ a) az e rendelet hatálybalépésének napjától 2012. augusztus 15. napjáig �
 
 b) foglalkoztatásra irányuló jogviszonyt nem létesíthet.
 
-[^8]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

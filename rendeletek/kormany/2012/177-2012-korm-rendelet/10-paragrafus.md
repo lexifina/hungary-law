@@ -1,6 +1,6 @@
 ## 6. [^5] A Közigazgatási és Igazságügyi Hivatal egyéb feladatai
 
-## 10. § A Hivatal
+## 10. §[^6] A Hivatal
 
 a) módszertani és tudásközpontként önálló elemzési, hatásvizsgálati, módszertan-fejlesztési tevékenységeket lát el,
 
@@ -10,10 +10,13 @@ c) részt vesz a fővárosi és megyei kormányhivatalok feladatkörét, szervez
 
 d) szervezi a fővárosi és megyei kormányhivatalok, valamint a kormányablakok fejlesztését, a kormányablakok elhelyezésével összefüggően javaslatokat és intézkedéseket dolgoz ki,
 
-e)[^6] közzétételre előkészíti a Magyar Közlöny és a Hivatalos Értesítő egyes lapszámait, mint elektronikus dokumentumokat,
+e) működteti a kormányablak-tudástárat,
 
-f)[^7] gondoskodik a formatervezési tevékenységet előmozdító programok, kiállítások, más rendezvények kezdeményezéséről, szervezéséről, valamint irányítja a formatervezéssel kapcsolatos ismeretek összehangolt terjesztését, a hazai formatervezési kultúra fejlesztését, közreműködik a formatervezők iparjogvédelmi és szerzői jogi ismereteinek gyarapításában, amely tevékenységeihez a Forum Hungaricum Közhasznú Nonprofit Kft. szolgáltatásait veszi igénybe.
+f) közreműködik a közigazgatás szervezéséért felelős miniszternek a kormányablakok ügyfélszolgálati tevékenységének szakmai irányításával, ezzel összefüggésben az ügyfélszolgálati működés fejlesztésével, elemzésével és monitoringjával kapcsolatos feladatok ellátásában,
+
+g) közzétételre előkészíti a Magyar Közlöny és a Hivatalos Értesítő egyes lapszámait, mint elektronikus dokumentumokat,
+
+h) gondoskodik a formatervezési tevékenységet előmozdító programok, kiállítások, más rendezvények kezdeményezéséről, szervezéséről, valamint irányítja a formatervezéssel kapcsolatos ismeretek összehangolt terjesztését, a hazai formatervezési kultúra fejlesztését, közreműködik a formatervezők iparjogvédelmi és szerzői jogi ismereteinek gyarapításában, amely tevékenységeihez a Forum Hungaricum Közhasznú Nonprofit Kft. szolgáltatásait veszi igénybe.
 
 [^5]: A 6. alcím (10. §) az 56/2013. (II. 27.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^6]: A 10. § e) pontját a 223/2013. (VI. 24.) Korm. rendelet 2. §-a iktatta be.
-[^7]: A 10. § f) pontját a 235/2013. (VI. 30.) Korm. rendelet 1. §-a iktatta be.
+[^6]: A 10. § az 515/2013. (XII. 30.) Korm. rendelet 33. §-ával megállapított szöveg.
