@@ -12,7 +12,7 @@ c) az ÉMI Építésügyi Minőségellenőrző Innovációs Nonprofit Korlátolt
 
 d) a Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézet (a továbbiakban: GYEMSZI),
 
-e) a Magyar Bányászati és Földtani Hivatal (a továbbiakban: MBFH),
+e)[^1] a Magyar Bányászati és Földtani Hivatal (a továbbiakban: MBFH) és a bányakapitányságok,
 
 f) a Magyar Kereskedelmi Engedélyezési Hivatal (a továbbiakban: MKEH),
 
@@ -31,3 +31,5 @@ l) a Rendőrség szervei (a továbbiakban: Rendőrség).
 (2) A Nemzeti Adó- és Vámhivatal és területi szervei (a továbbiakban: vámhatóság) a III. Fejezetben foglaltak szerint részt vesznek az importtermékek ellenőrzésében.
 
 (3) Az NFH feladatai ellátásához vizsgáló laboratóriummal rendelkezik, amely elvégzi vagy megbízás alapján más laboratóriummal elvégezteti a piacfelügyeleti tevékenységével kapcsolatos vizsgálatokat.
+
+[^1]: A 2. § (1) bekezdés e) pontja az 559/2013. (XII. 31.) Korm. rendelet 73. §-ával megállapított szöveg.
