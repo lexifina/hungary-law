@@ -8,7 +8,9 @@ a) a felszín alatti vizek jó minőségi állapotának megállapítására szol
 
 b) a jelentős és tartósan romló tendenciák azonosítására és a tendenciák megfordítási pontjának meghatározására szolgáló kritériumok, továbbá
 
-c)[^24] a 16. § (5) bekezdés e) pontja szerinti módszertan
+c)[^24] a
+
+16. § (5) bekezdés e) pontja szerinti módszertan
 
 ## alapján történik.
 
