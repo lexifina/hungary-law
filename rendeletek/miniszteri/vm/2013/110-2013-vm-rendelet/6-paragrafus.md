@@ -4,7 +4,7 @@
 
 ## 6. Kibocsátási határértékek
 
-6. § (1)[^1]
+6. § (1)[^2]
 
 (2) A IV. kategóriájú tüzelőberendezés légszennyező anyag kibocsátása a 2. mellékletben foglalt kibocsátási határértékeket nem haladhatja meg.
 
@@ -14,7 +14,7 @@
 
 (5) A tüzelőberendezést tartalmazó létesítményre vonatkozó engedélynek tartalmaznia kell azokat a feltételeket, amelyek biztosítják, hogy a tüzelőberendezés kibocsátásai nem haladják meg az előírt kibocsátási határértékeket.
 
-(6)–(7)[^2]
+(6)–(7)[^3]
 
-[^1]: A 6. § (1) bekezdése a 24. § (2) bekezdés a) pontja alapján 2016. január 1-jén lép hatályba.
-[^2]: A 6. § (6)–(7) bekezdése a 24. § (2) bekezdés a) pontja alapján 2016. január 1-jén lép hatályba.
+[^2]: A 6. § (1) bekezdése a 24. § (2) bekezdés a) pontja alapján 2016. január 1-jén lép hatályba.
+[^3]: A 6. § (6)–(7) bekezdése a 24. § (2) bekezdés a) pontja alapján 2016. január 1-jén lép hatályba.

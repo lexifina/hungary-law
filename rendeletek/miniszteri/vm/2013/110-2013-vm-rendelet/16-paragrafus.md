@@ -1,4 +1,4 @@
-## 15. §[^5]
+## 15. §[^7]
 
 ## 12. A kibocsátás-csökkentő berendezések működési hibáira és meghibásodásaira vonatkozó előírások
 
@@ -24,4 +24,4 @@ b) a meghibásodott tüzelőberendezést korlátozott időre olyan másik tüzel
 
 (6) Az (1) és (2), valamint a (4) és (5) bekezdés szerinti előírásokat a tüzelőberendezés egységes környezethasználati engedélyében fel kell tüntetni.
 
-[^5]: A 15. § a 24. § (2) bekezdés d) pontja alapján 2016. január 1-jén lép hatályba.
+[^7]: A 15. § a 24. § (2) bekezdés d) pontja alapján 2016. január 1-jén lép hatályba.
