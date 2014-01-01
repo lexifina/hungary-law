@@ -8,9 +8,11 @@
 
 a) azt kéri, feltéve, hogy az előző minősítése óta két év már eltelt,
 
-b) szakmai alkalmatlanságára, vagy az előző minősítés értékelése megváltoztatásának szükségességére utaló körülmény merült fel.
+b) szakmai alkalmatlanságára, vagy az előző minősítés értékelése megváltoztatásának szükségességére utaló körülmény merült fel,
 
-(3) A (2) bekezdés b) pontjában meghatározott esetben a soron kívüli minősítés elrendelését az ügyésszel írásban közölni kell.
+c) a soron kívül lefolytatandó eljárásban a nyomozás iratainak ismertetését követően az iratok megvizsgálására a büntetőeljárásról szóló törvényben meghatározottak szerint a felettes ügyész által meghosszabbított határidőt elmulasztja.
+
+(3) A (2) bekezdés b) és c) pontjában meghatározott esetben a soron kívüli minősítés elrendelését az ügyésszel írásban közölni kell.
 
 (4) A minősítés a munkáltatói jogkör gyakorlójának feladata. A minisztériumba beosztott ügyész hivatali munkáját az igazságügyért felelős miniszter a kormánytisztviselőkre vonatkozó szabályok szerint értékeli.
 

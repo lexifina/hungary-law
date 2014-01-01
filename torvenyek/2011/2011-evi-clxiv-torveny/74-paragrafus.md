@@ -16,7 +16,7 @@ f) a kölcsönt nyújtó hitelintézet belső szabályai szerint – saját, ill
 
 (3) A (2) bekezdés a)–c) pontjában foglalt feltételek teljesülését, valamint a kezességvállalás alapjául szolgáló szolgálati viszony fennállását a munkáltatói jogkör gyakorlója igazolja.
 
-(4) A (2) bekezdés d) pontjában foglalt feltétel teljesülését az ügyész hatósági bizonyítvánnyal igazolja, a (2) bekezdés e) pontjában foglalt feltétel teljesüléséről az ügyész a kölcsönt nyújtó hitelintézetnek nyilatkozik.
+(4) A (2) bekezdés d) pontjában foglalt feltétel teljesülését az ügyész hatósági erkölcsi bizonyítvánnyal igazolja, a (2) bekezdés e) pontjában foglalt feltétel teljesüléséről az ügyész a kölcsönt nyújtó hitelintézetnek nyilatkozik.
 
 (5) Az ügyész a munkáltatói jogkör gyakorlójának köteles bejelenteni a hitelszerződés megkötését követő öt munkanapon belül
 

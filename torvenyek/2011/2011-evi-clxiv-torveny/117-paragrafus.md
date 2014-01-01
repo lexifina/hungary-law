@@ -4,6 +4,12 @@
 
 (3) Az (1)–(2) bekezdés szerinti előresorolást a naptári év első napjával kell végrehajtani, ennek során a korábbi fizetési fokozatban megszerzett szolgálati időt az új fizetési fokozatban is figyelembe kell venni.
 
+(3a) A Legfőbb Ügyészségen dolgozó alügyészt az illetményalap tíz–tizenöt százalékának megfelelő beosztási pótlék illeti meg. A pótlék alapilletmény jellegű.
+
 (4) Kiváló munkavégzés esetén és ügyészségi szolgálati viszonyban eltöltött legalább tíz év után az alügyésznek „főtanácsos” cím adományozható.
 
 (5) A címmel az illetményalap tizenöt százalékának megfelelő összegű címpótlék jár havonta. A címpótlék alapilletmény jellegű.
+
+(6) A munkáltatói jogkör gyakorlója – a központi költségvetésről szóló törvény ügyészségre vonatkozó költségvetési fejezetében meghatározott személyi juttatások kiemelt előirányzatán belül – az alügyész és az ügyészségi fogalmazó részére határozott időre, illetve a feladat ellátásának idejére kiegészítő pótlékot állapíthat meg, ha az ügyészség alap- vagy funkcionális tevékenységébe tartozó munkaköri feladatai mellett kommunikációs, instruktori, vagy más, az ügyészség működéséhez szükséges feladatokat rendszeresen teljesít.
+
+(7) A kiegészítő pótlék az illetményalap öt–tizenöt százalékáig terjedhet.

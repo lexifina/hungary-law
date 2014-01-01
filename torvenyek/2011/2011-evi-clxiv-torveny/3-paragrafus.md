@@ -30,4 +30,4 @@ c) a száz főt meghaladja öt fő.
 
 (6) Az Országos Tanácsra és tagjaira e törvényben eltérően nem szabályozott kérdésekben az alkalmazotti tanácsra, illetve az annak tagjaira irányadó rendelkezéseket kell megfelelően alkalmazni.
 
-(7) A tevékenységükhöz szükséges időre az alkalmazotti tanács tagjait (tisztségviselőit) legfeljebb nyolc óra, az Országos Tanács tagjait (tisztségviselőjét) legfeljebb további nyolc óra munkaidő-kedvezmény illeti meg havonta. Erre az időre távolléti díj jár.
+(7) A tevékenységükhöz szükséges időre az alkalmazotti tanács tagjait (tisztségviselőit) legfeljebb nyolc óra, az Országos Tanács tagjait (tisztségviselőjét) legfeljebb további nyolc óra munkaidő-kedvezmény illeti meg havonta. Erre az időre illetmény jár.
