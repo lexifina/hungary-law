@@ -1,0 +1,3 @@
+15. § Az anyakönyvi eljárásról szóló 2010. évi I. törvény 48. § (2) bekezdése a következő szöveggel lép hatályba:
+
+„(2) A házassági névviselési forma módosítása iránti kérelmet bármely anyakönyvvezetőnél vagy bármely hivatásos konzuli tisztviselőnél személyesen lehet előterjeszteni. A hivatásos konzuli tisztviselő az első diplomáciai futárral köteles megküldeni a kérelmet a házasságkötést nyilvántartó anyakönyvvezetőnek vagy a hazai anyakönyvezést végző hatóságnak. Ha a házassági névviselési forma módosítása iránti kérelem elbírálása a hazai anyakönyvezést végző hatóság hatáskörébe tartozik, az anyakönyvvezető a kérelmet haladéktalanul megküldi a hazai anyakönyvezést végző hatóságnak.”
