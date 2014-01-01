@@ -18,7 +18,7 @@ b) a hitelkonstrukció lényeges elemeit, így különösen a tervezett futamid�
 
 c) javaslatot a kezességvállalási díj mértékére és annak indokolását,
 
-d) a fejlesztéspolitikáért felelős miniszternek az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló kormányrendelet szerinti álláspontját,
+d)[^1] a Kormány európai uniós források felhasználásáért felelős tagjának az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló kormányrendelet szerinti álláspontját,
 
 e) a hitelvisszafizetés valószínűségének és forrásának bemutatását, valamint a kezesség beváltásának valószínűségéről szóló tájékoztatást,
 
@@ -41,3 +41,5 @@ b) a kötelezett adósságszolgálati fedezeti rátája,
 c) a kötelezettnél az utolsó lezárt üzleti év végén fennálló, hitelviszonyon alapuló tartozások állománya, külön bemutatva az állami kezesség melletti állományokat, valamint
 
 d) a kötelezett javára az előző 5 évben történt állami kezességvállalás tényéről és körülményeiről szóló tájékoztatás.
+
+[^1]: A 3. § (3) bekezdés d) pontja az 550/2013. (XII. 30.) Korm. rendelet 72. §-a szerint módosított szöveg.
