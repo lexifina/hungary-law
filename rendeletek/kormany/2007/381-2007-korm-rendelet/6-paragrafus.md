@@ -1,3 +1,0 @@
-## IV. Fejezet
-
-## EREDETI KITETTSÉG SZERINTI MÓDSZER

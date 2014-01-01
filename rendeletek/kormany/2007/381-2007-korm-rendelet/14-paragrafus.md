@@ -1,3 +1,0 @@
-14. § (1) A hitelintézetnek szabályzatban kell rögzítenie azon belső eljárásokat, amelyek az ügyletek fedezeti halmazba történő besorolását megelőző ellenőrzésre vonatkoznak annak érdekében, hogy az adott ügylet alapja az e rendelet szerinti szerződéses nettósítási követelményeknek eleget tevő, érvényes és érvényesíthető szerződés legyen.
-
-(2) Ha a hitelintézet a partnerkockázata mérséklésére biztosítékot alkalmaz, akkor szabályzatban kell meghatároznia azon belső eljárásokat, amelyekkel a biztosíték kockázatmérséklő hatásának kiszámítását megelőzően ellenőrizi a Hkr.-ben rögzített, az elismerhető hitelkockázati fedezetre vonatkozó követelmények teljesülését.
