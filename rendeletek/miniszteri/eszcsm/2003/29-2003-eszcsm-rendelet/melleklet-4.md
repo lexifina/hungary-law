@@ -1,5 +1,3 @@
-## – ismereteket összegző beszélgetés 2 óra
-
 4. számú melléklet a 29/2003. (V. 20.) ESZCSM rendelethez
 
 ## A családi napközi működtetője részére szervezett tanfolyam részletes tematikája

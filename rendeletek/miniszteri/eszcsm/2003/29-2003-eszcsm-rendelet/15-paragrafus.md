@@ -7,3 +7,7 @@
 (3) Örökbefogadói tanácsadáson és tanfolyamon azoknak az örökbe fogadni szándékozó személyeknek kell részt venniük, akik e rendelet hatálybalépésekor nem rendelkeznek jogerős gyámhatósági határozattal arra vonatkozóan, hogy az örökbefogadásra alkalmasak.
 
 (4) A (3) bekezdésben meghatározott személyekkel esnek egy tekintet alá azok az örökbe fogadni szándékozó személyek, akik az alkalmasságukat megállapító jogerős határozat érvényességi idejének meghosszabbítása iránt nyújtanak be kérelmet.
+
+(5)[^11] A 2013. december 31-én folyamatban lévő nevelőszülői tanfolyamra a 2013. december 31-én hatályos rendelkezéseket kell alkalmazni. A 2014. év során a 2013. december 31-én hatályos rendelkezések szerint – az Országos Képzési Jegyzékben szereplő nevelőszülő szakképzéstől függetlenül – indítható nevelőszülői tanfolyam, azzal, hogy a tanfolyam elvégzéséről szóló tanúsítványt 2014. december 31-éig ki kell állítani.
+
+[^11]: A 15. § (5) bekezdését a 83/2013. (XII. 29.) EMMI rendelet 30. §-a iktatta be.
