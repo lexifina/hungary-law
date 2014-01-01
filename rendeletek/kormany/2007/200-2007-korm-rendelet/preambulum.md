@@ -1,1 +1,0 @@
-A Kormány az Alkotmány 35. § (1) bekezdésének b) pontjában foglalt feladatkörében eljárva, a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény (a továbbiakban: Hpt.) 235. §-a (1) bekezdésének j) pontjában kapott felhatalmazás alapján az alábbiakat rendeli el:
