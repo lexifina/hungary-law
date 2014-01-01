@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-23-00-00
 | 2013-07-01 | 2013. évi LXXXIV. törvény | 2013-23-00-00.3 |
 | 2013-07-02 | 2010. évi CXXX. törvény | 2013-23-00-00.4 |
 | 2013-07-20 | 2013. évi CXXXIV. törvény | 2013-23-00-00.5 |
+| 2014-01-01 | 2013. évi CCXXVII. törvény | 2013-23-00-00.6 |
