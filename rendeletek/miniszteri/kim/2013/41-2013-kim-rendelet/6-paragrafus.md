@@ -1,0 +1,1 @@
+## 5. § A díj vonatkozásában az illetékekről szóló 1990. évi XCIII. törvény 28. § (2) bekezdés a) és b) pontját és (3) bekezdését a díjfizetési kötelezettség keletkezése és fennállása, 31. §-át a díjfizetésre kötelezettek körének megállapítása, 73. § (2) és (2a) bekezdését a díjfizetés módja tekintetében azzal az eltéréssel kell alkalmazni, hogy illetéken a díjat kell érteni.
