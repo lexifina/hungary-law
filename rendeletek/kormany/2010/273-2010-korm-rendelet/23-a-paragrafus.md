@@ -1,0 +1,1 @@
+## 23. § Az Art. 131. § (1)–(3) bekezdés szerinti soron kívüli adómegállapítás során az illetéket is az adó soron kívüli megállapítására hatáskörrel és illetékességgel rendelkező adóigazgatóság szabja ki, állapítja meg.

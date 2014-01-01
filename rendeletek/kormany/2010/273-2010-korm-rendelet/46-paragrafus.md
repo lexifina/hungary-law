@@ -1,12 +1,22 @@
 ## Az adóztatási szervek illetékességi szabályai illetékügyben
 
-46. § (1) Az öröklés után járó illetéket az a megyei (fővárosi) adóigazgatóság szabja ki,
+46. § (1)[^137] Az öröklés után járó illetéket
 
-a) amelynek illetékességi területén a hagyatékot átadó közjegyző székhelye van,
+a) az Itv. 89. § (1) bekezdés a) pontja szerinti esetben
 
-b)[^122] amelynek illetékességi területén az örökhagyó utolsó belföldi lakóhelye volt – ennek hiányában a NAV elnöke által kijelölt megyei (fővárosi) adóigazgatóság –, ha a hagyaték tárgyalás nélkül került átadásra,
+aa) ha a közjegyző székhelye Budapesten van, az örökhagyó utolsó lakóhelye szerint illetékes megyei (fővárosi) adóigazgatóság,
 
-c) amelynek illetékességi területén az örökhagyó utolsó lakóhelye volt, ha a közjegyző székhelye Budapesten van.
+ab) az aa) alpontba nem tartozó esetben a közjegyző székhelye szerint illetékes megyei (fővárosi) adóigazgatóság,
+
+b) az Itv. 89. § (1) bekezdés b) pontja szerinti esetben
+
+ba) ha a bíróság székhelye Budapesten van, az örökhagyó utolsó lakóhelye szerint illetékes megyei (fővárosi) adóigazgatóság,
+
+bb) a ba) alpontba nem tartozó esetben a bíróság székhelye szerint illetékes megyei (fővárosi) adóigazgatóság,
+
+c) az a)–b) pontba nem tartozó esetben az örökhagyó utolsó belföldi lakóhelye székhelye szerint illetékes megyei (fővárosi) adóigazgatóság, ennek hiányában a NAV elnöke által kijelölt megyei (fővárosi) adóigazgatóság
+
+## szabja ki.
 
 (2) Az ajándékozási és a visszterhes vagyonátruházási illetéket az a megyei (fővárosi) adóigazgatóság szabja ki,
 
@@ -14,21 +24,21 @@ a) amelynek illetékességi területén az ingatlan található,
 
 b) amelynek illetékességi területén a szerződésben első helyen megjelölt ingatlan fekszik, feltéve, hogy a vagyonszerzés tárgya ingatlan-, vagy az ingatlanhoz kapcsolódó vagyoni értékű jog, ha a szerződés több illetékügyben eljáró megyei (fővárosi) adóigazgatóság illetékességi területén fekvő ingatlanra vonatkozik.
 
-(3)[^123] Ingó vagy ingatlanhoz nem kapcsolódó vagyoni értékű jog ajándékozása vagy visszterhes vagyonátruházási illeték alá eső megszerzése esetén az a megyei (fővárosi) adóigazgatóság jár el, amelynek illetékességi területén a szerződésben első helyen feltüntetett szerző fél lakóhelye, ennek hiányában tartózkodási helye, illetve székhelye, ennek hiányában telephelye, illetve a tevékenység gyakorlásának helye [a továbbiakban együtt: lakóhely (székhely)] található. Amennyiben az adózó belföldön nem letelepedett, úgy az illetéket az Észak-budapesti Adóigazgatóság szabja ki.
+(3)[^138] Ingó vagy ingatlanhoz nem kapcsolódó vagyoni értékű jog ajándékozása vagy visszterhes vagyonátruházási illeték alá eső megszerzése esetén az a megyei (fővárosi) adóigazgatóság jár el, amelynek illetékességi területén a szerződésben első helyen feltüntetett szerző fél lakóhelye, ennek hiányában tartózkodási helye, illetve székhelye, ennek hiányában telephelye, illetve a tevékenység gyakorlásának helye [a továbbiakban együtt: lakóhely (székhely)] található. Amennyiben az adózó belföldön nem letelepedett, úgy az illetéket az Észak-budapesti Adóigazgatóság szabja ki.
 
-(4)[^124]
+(4)[^139]
 
-(5)[^125] Az önálló orvosi tevékenység praxisjogának megszerzésével kapcsolatos ajándékozási és visszterhes vagyonátruházási illetéket az a megyei (fővárosi) adóigazgatóság szabja ki, amelynek területén a praxisjogot szerző fél lakóhelye, ennek hiányában tartózkodási helye van.
+(5)[^140] Az önálló orvosi tevékenység praxisjogának megszerzésével kapcsolatos ajándékozási és visszterhes vagyonátruházási illetéket az a megyei (fővárosi) adóigazgatóság szabja ki, amelynek területén a praxisjogot szerző fél lakóhelye, ennek hiányában tartózkodási helye van.
 
-(6)[^126] Az érdekelt fél indokolt kérelmére az e kormányrendeletben megállapított illetékességtől eltérően a NAV elnöke az illeték kiszabására más megyei (fővárosi) adóigazgatóságot is kijelölhet.
+(6)[^141] Az érdekelt fél indokolt kérelmére az e kormányrendeletben megállapított illetékességtől eltérően a NAV elnöke az illeték kiszabására más megyei (fővárosi) adóigazgatóságot is kijelölhet.
 
 (7) Jogszabályi rendelkezés szerint kiállított lelet alapján az illetéket az a megyei (fővárosi) adóigazgatóság szabja ki, amelynek illetékességi területén a fizetésre kötelezett, több fizetésre kötelezett esetében az, amelynek illetékességi területén az elsősorban fizetésre kötelezett, amennyiben ez külföldi, a soron következő belföldi lakóhelye (székhelye) van. Ha minden fizetésre kötelezettnek az ország területén kívül van a lakóhelye (székhelye), az illetéket az a megyei (fővárosi) adóigazgatóság szabja ki, amelynek illetékességi területén a leletet készítő szerv székhelye van. A leletet a megyei (fővárosi) adóigazgatóságnak kell megküldeni.
 
-(8)[^127] Jogszabályi rendelkezés szerint kiállított bírósági értesítés alapján az eljárási illeték megfizetésére az a megyei (fővárosi) adóigazgatóság hívja fel az adóst, amelynek illetékességi területén az adós lakóhelye, székhelye van. Amennyiben a bírósági értesítés alapján az illeték megfizetésére több adós egyetemlegesen kötelezett, úgy az illeték megfizetésére az a megyei (fővárosi) adóigazgatóság hívja fel az egyetemlegesen kötelezett adóstársakat, amelynek illetékességi területén annak az adósnak a lakóhelye, székhelye van, akinek a nevére kiállított bírósági értesítést az adóhatóság elsőként nyilvántartásba vette.
+(8)[^142] Jogszabályi rendelkezés szerint kiállított bírósági értesítés alapján az eljárási illeték megfizetésére az a megyei (fővárosi) adóigazgatóság hívja fel az adóst, amelynek illetékességi területén az adós lakóhelye, székhelye van. Amennyiben a bírósági értesítés alapján az illeték megfizetésére több adós egyetemlegesen kötelezett, úgy az illeték megfizetésére az a megyei (fővárosi) adóigazgatóság hívja fel az egyetemlegesen kötelezett adóstársakat, amelynek illetékességi területén annak az adósnak a lakóhelye, székhelye van, akinek a nevére kiállított bírósági értesítést az adóhatóság elsőként nyilvántartásba vette.
 
-[^122]: A 46. § (1) bekezdés b) pontja a 366/2012. (XII. 17.) Korm. rendelet 30. § (17) bekezdése és 31. § 21. pontja szerint módosított szöveg.
-[^123]: A 46. § (3) bekezdése a 366/2012. (XII. 17.) Korm. rendelet 30. § (18) bekezdése szerint módosított szöveg.
-[^124]: A 46. § (4) bekezdését a 269/2011. (XII. 20.) Korm. rendelet 19. § 11. pontja hatályon kívül helyezte.
-[^125]: A 46. § (5) bekezdése a 269/2011. (XII. 20.) Korm. rendelet 19. § 12. pontja, a 366/2012. (XII. 17.) Korm. rendelet 30. § (17) és (18) bekezdése szerint módosított szöveg.
-[^126]: A 46. § (6) bekezdése a 366/2012. (XII. 17.) Korm. rendelet 30. § (17) bekezdése szerint módosított szöveg.
-[^127]: A 46. § (8) bekezdését a 366/2012. (XII. 17.) Korm. rendelet 23. §-a iktatta be.
+[^137]: A 46. § (1) bekezdése a 479/2013. (XII. 17.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^138]: A 46. § (3) bekezdése a 366/2012. (XII. 17.) Korm. rendelet 30. § (18) bekezdése szerint módosított szöveg.
+[^139]: A 46. § (4) bekezdését a 269/2011. (XII. 20.) Korm. rendelet 19. § 11. pontja hatályon kívül helyezte.
+[^140]: A 46. § (5) bekezdése a 269/2011. (XII. 20.) Korm. rendelet 19. § 12. pontja, a 366/2012. (XII. 17.) Korm. rendelet 30. § (17) és (18) bekezdése szerint módosított szöveg.
+[^141]: A 46. § (6) bekezdése a 366/2012. (XII. 17.) Korm. rendelet 30. § (17) bekezdése szerint módosított szöveg.
+[^142]: A 46. § (8) bekezdését a 366/2012. (XII. 17.) Korm. rendelet 23. §-a iktatta be.

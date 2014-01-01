@@ -70,6 +70,6 @@
 
 ## ”
 
-6. számú melléklet a 273/2010. (XII. 9.) Korm. rendelethez[^210]
+6. számú melléklet a 273/2010. (XII. 9.) Korm. rendelethez[^233]
 
-[^210]: A 6. számú melléklet a 361/2010. (XII. 30.) Korm. rendelet 18. § (6) bekezdése alapján nem lépett hatályba.
+[^233]: A 6. számú melléklet a 361/2010. (XII. 30.) Korm. rendelet 18. § (6) bekezdése alapján nem lépett hatályba.

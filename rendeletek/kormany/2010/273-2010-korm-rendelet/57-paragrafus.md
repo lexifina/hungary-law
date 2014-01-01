@@ -1,6 +1,6 @@
-57. § (1)[^149] A Rega-tv.-ben meghatározott adóztatási feladatok végrehajtására elsőfokú adóhatósági jogkörben illetékes vámszervek a következők:
+57. § (1)[^168] A Rega-tv.-ben meghatározott adóztatási feladatok végrehajtására elsőfokú adóhatósági jogkörben illetékes vámszervek a következők:
 
-a)[^150] a megyei (fővárosi) vám- és pénzügyőri igazgatóságok, illetve – azon kiemelt adózók tekintetében, amelyeknek a székhelye Budapest, illetve Pest megye közigazgatási területén található – a KAVIG,
+a)[^169] a megyei (fővárosi) vám- és pénzügyőri igazgatóságok, illetve – azon kiemelt adózók tekintetében, amelyeknek a székhelye Budapest, illetve Pest megye közigazgatási területén található – a KAVIG,
 
 b) a Magyar Honvédség Pápa Bázis Repülőterén dolgozó EU tagországain kívüli állampolgárok tekintetében a Veszprém Megyei Vám- és Pénzügyőri Igazgatóság,
 
@@ -14,5 +14,5 @@ cc) ha a kérelmező lakóhelye vagy székhelye Győr-Moson-Sopron megye, Somogy
 
 (2) Az (1) bekezdéstől eltérően a regisztrációs adó-visszatérítési eljárásban a regisztrációs adó megállapítására irányuló eljárást lefolytató szerv jár el.
 
-[^149]: Az 57. § (1) bekezdés nyitó szövegrésze a 366/2012. (XII. 17.) Korm. rendelet 27. §-ával megállapított szöveg.
-[^150]: Az 57. § (1) bekezdés a) pontja a 366/2012. (XII. 17.) Korm. rendelet 27. §-ával megállapított szöveg.
+[^168]: Az 57. § (1) bekezdés nyitó szövegrésze a 366/2012. (XII. 17.) Korm. rendelet 27. §-ával megállapított szöveg.
+[^169]: Az 57. § (1) bekezdés a) pontja a 366/2012. (XII. 17.) Korm. rendelet 27. §-ával megállapított szöveg.

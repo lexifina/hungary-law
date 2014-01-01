@@ -2,7 +2,7 @@
 
 ## Az adóztatási szervek különös hatásköri szabályai
 
-18. § (1)[^36] Kizárólag a KAIG jár el az állami adóhatóság hatáskörébe tartozó adók, költségvetési támogatások tekintetében az illetékügyek kivételével, ide nem értve a 23. §-ban és a 48. §-ban meghatározott illetéket, illetve ha jogszabály másként nem rendelkezik:
+18. § (1)[^40] Kizárólag a KAIG jár el az állami adóhatóság hatáskörébe tartozó adók, költségvetési támogatások tekintetében az illetékügyek kivételével, ide nem értve a 23. §-ban és a 48. §-ban meghatározott illetéket, illetve ha jogszabály másként nem rendelkezik:
 
 a) az Áfa törvény alapján adó-visszatéríttetésre jogosult alábbi személyek, illetve szervek adó-visszatérítés iránti kérelmének elbírálása során:
 
@@ -34,22 +34,22 @@ h) a NAV alkalmazottai adóügyében,
 
 i) az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) 4. és 10. számú mellékleteiben meghatározott külföldi illetőségű adózók adóügyeiben és az Art. 9. számú melléklet II. pontjában meghatározott adóügyekben.
 
-(2)[^37] Ha jogszabály másként nem rendelkezik, a KAIG jár el a NAV, a Bűnügyi Főigazgatóság, valamint a Képzési, Egészségügyi és Kulturális Intézet adóügyeiben az illetékügyek kivételével, ide nem értve a 48. §-ban meghatározott illetéket.
+(2)[^41] Ha jogszabály másként nem rendelkezik, a KAIG jár el a NAV, a Bűnügyi Főigazgatóság, valamint a Képzési, Egészségügyi és Kulturális Intézet adóügyeiben az illetékügyek kivételével, ide nem értve a 48. §-ban meghatározott illetéket.
 
-(3)[^38]
+(3)[^42]
 
-(4)[^39] A KAIG jogszabályban meghatározottak szerint ellátja a diplomáciai és konzuli képviselet, a diplomáciai és konzuli képviselet tagja, a nemzetközi szervezet vagy képviselete és ezek tisztviselője, valamint az ezekkel egy tekintet alá eső személyek és szervezetek által megfizetett jövedéki adó, továbbá az általuk adójeggyel ellátott dohánygyártmány után megfizetett általános forgalmi adó visszaigénylésével kapcsolatos feladatokat.
+(4)[^43] A KAIG jogszabályban meghatározottak szerint ellátja a diplomáciai és konzuli képviselet, a diplomáciai és konzuli képviselet tagja, a nemzetközi szervezet vagy képviselete és ezek tisztviselője, valamint az ezekkel egy tekintet alá eső személyek és szervezetek által megfizetett jövedéki adó, továbbá az általuk adójeggyel ellátott dohánygyártmány után megfizetett általános forgalmi adó visszaigénylésével kapcsolatos feladatokat.
 
-(5)[^40] Az Art. 9. § (3) bekezdése szerinti, a pénzügyi képviselőt terhelő bejelentési kötelezettséget a KAIG-hoz kell teljesíteni.
+(5)[^44] Az Art. 9. § (3) bekezdése szerinti, a pénzügyi képviselőt terhelő bejelentési kötelezettséget a KAIG-hoz kell teljesíteni.
 
-(6)[^41] A KAIG látja el az Art. 72. § (1) bekezdés c) pontja szerinti állami garancia (kezesség) kiutalásával, valamint az Art. 87. § (1) bekezdés b) pontja szerinti állami garancia beváltásához kapcsolódó ellenőrzéssel kapcsolatos állami adóhatósági feladatokat.
+(6)[^45] A KAIG látja el az Art. 72. § (1) bekezdés c) pontja szerinti állami garancia (kezesség) kiutalásával, valamint az Art. 87. § (1) bekezdés b) pontja szerinti állami garancia beváltásához kapcsolódó ellenőrzéssel kapcsolatos állami adóhatósági feladatokat.
 
-(7)[^42] A KAIG a NAV elnökének utasítására, honvédelmi vagy nemzetbiztonsági érdekek által indokolt esetben a hatáskörébe nem tartozó, a Magyar Honvédséggel, illetve a nemzetbiztonsági szolgálatokkal szerződéses kapcsolatban állt vagy álló adózónál is végezhet az állami adóhatóság hatáskörébe tartozó eljárásokban ellenőrzést. Ebben az esetben az ellenőrzés eredménye alapján megindítandó hatósági eljárást is a KAIG folytatja le.
+(7)[^46] A KAIG a NAV elnökének utasítására, honvédelmi vagy nemzetbiztonsági érdekek által indokolt esetben a hatáskörébe nem tartozó, a Magyar Honvédséggel, illetve a nemzetbiztonsági szolgálatokkal szerződéses kapcsolatban állt vagy álló adózónál is végezhet az állami adóhatóság hatáskörébe tartozó eljárásokban ellenőrzést. Ebben az esetben az ellenőrzés eredménye alapján megindítandó hatósági eljárást is a KAIG folytatja le.
 
-[^36]: A 18. § (1) bekezdése a 366/2012. (XII. 17.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
-[^37]: A 18. § (2) bekezdése a 366/2012. (XII. 17.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
-[^38]: A 18. § (3) bekezdését a 366/2012. (XII. 17.) Korm. rendelet 31. § 6. pontja hatályon kívül helyezte.
-[^39]: A 18. § (4) bekezdése a 366/2012. (XII. 17.) Korm. rendelet 30. § (8) bekezdése szerint módosított szöveg.
-[^40]: A 18. § (5) bekezdése a 366/2012. (XII. 17.) Korm. rendelet 30. § (8) bekezdése szerint módosított szöveg.
-[^41]: A 18. § (6) bekezdése a 366/2012. (XII. 17.) Korm. rendelet 12. § (3) bekezdésével megállapított szöveg.
-[^42]: A 18. § (7) bekezdése a 366/2012. (XII. 17.) Korm. rendelet 30. § (8) bekezdése szerint módosított szöveg.
+[^40]: A 18. § (1) bekezdése a 366/2012. (XII. 17.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^41]: A 18. § (2) bekezdése a 366/2012. (XII. 17.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^42]: A 18. § (3) bekezdését a 366/2012. (XII. 17.) Korm. rendelet 31. § 6. pontja hatályon kívül helyezte.
+[^43]: A 18. § (4) bekezdése a 366/2012. (XII. 17.) Korm. rendelet 30. § (8) bekezdése szerint módosított szöveg.
+[^44]: A 18. § (5) bekezdése a 366/2012. (XII. 17.) Korm. rendelet 30. § (8) bekezdése szerint módosított szöveg.
+[^45]: A 18. § (6) bekezdése a 366/2012. (XII. 17.) Korm. rendelet 12. § (3) bekezdésével megállapított szöveg.
+[^46]: A 18. § (7) bekezdése a 366/2012. (XII. 17.) Korm. rendelet 30. § (8) bekezdése szerint módosított szöveg.

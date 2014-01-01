@@ -1,4 +1,4 @@
-## 25. § A Szakértői Intézet:
+## 25. §[^64] A Szakértői Intézet országos illetékességgel:
 
 a) kötelező tarifális és származás felvilágosítást ad ki,
 
@@ -15,3 +15,5 @@ f) eljár a jövedéki és az abból előállított termékeknek a Jöt. 48. § 
 g) jogszabályban előírt esetekben szakértőként jár el,
 
 h) mobil laboratóriumi szolgálatot lát el.
+
+[^64]: A 25. § nyitó szövegrésze a 479/2013. (XII. 17.) Korm. rendelet 17. § 4. pontjával megállapított szöveg.

@@ -1,3 +1,3 @@
-## 21. §[^51]
+## 21. §[^56]
 
-[^51]: A 21. §-t a 366/2012. (XII. 17.) Korm. rendelet 31. § 7. pontja hatályon kívül helyezte.
+[^56]: A 21. §-t a 366/2012. (XII. 17.) Korm. rendelet 31. § 7. pontja hatályon kívül helyezte.

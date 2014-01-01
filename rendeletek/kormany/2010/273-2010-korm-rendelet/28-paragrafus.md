@@ -1,4 +1,4 @@
-28. § (1)[^69] A KAVIG jogszabályban meghatározott azon kiemelt adózók tekintetében, akiknek a székhelye Budapest, illetve Pest megye közigazgatási területén található, első fokon ellátja a vámhatóság hatáskörébe utalt feladatokat, kivéve
+28. § (1)[^77] A KAVIG jogszabályban meghatározott azon kiemelt adózók tekintetében, akiknek a székhelye Budapest, illetve Pest megye közigazgatási területén található, első fokon ellátja a vámhatóság hatáskörébe utalt feladatokat, kivéve
 
 a) a Vtv.-ben meghatározott vámigazgatási feladatokat, ide nem értve a Vtv. szerinti utólagos ellenőrzést, valamint az e rendelet alapján a hatáskörébe utalt vámigazgatási feladatokat,
 
@@ -14,7 +14,7 @@ e) a fémkereskedelmi ellenőrzést.
 
 (3) Ha az adózó jogutódlással jött létre – ide nem értve a szétválást –, akkor is a KAVIG hatáskörébe tartozik, ha jogelődje megfelelt a KAVIG hatáskörét megalapozó jogszabályban meghatározott feltételeknek.
 
-(4)[^70]
+(4)[^78]
 
-[^69]: A 28. § (1) bekezdése a 366/2012. (XII. 17.) Korm. rendelet 17. §-ával megállapított szöveg.
-[^70]: A 28. § (4) bekezdését a 366/2012. (XII. 17.) Korm. rendelet 31. § 12. pontja hatályon kívül helyezte.
+[^77]: A 28. § (1) bekezdése a 366/2012. (XII. 17.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^78]: A 28. § (4) bekezdését a 366/2012. (XII. 17.) Korm. rendelet 31. § 12. pontja hatályon kívül helyezte.

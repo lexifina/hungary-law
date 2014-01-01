@@ -1,6 +1,6 @@
-## Az Európai Unió jogának való megfelelés[^180]
+## Az Európai Unió jogának való megfelelés[^203]
 
-72. §[^181] (1) A
+72. §[^204] (1) A
 
 a) 36. § (1a) bekezdése az adózás területén történő közigazgatási együttműködésről és a 77/799/EK irányelv hatályon kívül helyezéséről szóló, 2011. február 15-i 2011/16/EU tanácsi irányelvnek,
 
@@ -12,5 +12,5 @@ c) 36. § (4) bekezdése az adókból, vámokból, illetékekből és egyéb int
 
 (2) A 36. § (1) bekezdése a hozzáadottérték-adó területén történő közigazgatási együttműködésről és csalás elleni küzdelemről szóló, 2010. október 7-i 904/2010/EU tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^180]: A 72. §-t megelőző alcímet a 319/2013. (VIII. 28.) Korm. rendelet 4. §-a iktatta be.
-[^181]: A 72. §-t a 140. § (1) bekezdése hatályon kívül helyezte, újonnan a 319/2013. (VIII. 28.) Korm. rendelet 4. §-a iktatta be.
+[^203]: A 72. §-t megelőző alcímet a 319/2013. (VIII. 28.) Korm. rendelet 4. §-a iktatta be.
+[^204]: A 72. §-t a 140. § (1) bekezdése hatályon kívül helyezte, újonnan a 319/2013. (VIII. 28.) Korm. rendelet 4. §-a iktatta be.

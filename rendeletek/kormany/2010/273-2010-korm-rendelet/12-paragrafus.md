@@ -6,7 +6,7 @@ a) lefolytatja a közösségi jogi aktusban felhatalmazott szervezet megkeresés
 
 b) a dömpingellenes vám visszatérítésére vonatkozó kérelmeket fogadja és az Európai Bizottsághoz továbbítja,
 
-c)[^28] jogosult az áruknak TIR-igazolvánnyal történő nemzetközi fuvarozására vonatkozó vámegyezmény végrehajtásáról szóló 19/2001. (V. 25.) KöViM–PM együttes rendelet (a továbbiakban: TIR rendelet) 3. § (2) bekezdés b) pontjában említett biztosítási szerződés elfogadására,
+c)[^28] jogosult az áruknak TIR-igazolvánnyal történő nemzetközi fuvarozására vonatkozó vámegyezmény végrehajtásáról szóló 39/2013. (IX. 24.) NGM rendelet (a továbbiakban: TIR rendelet) 2. § (2) bekezdés b) pontjában említett biztosítási szerződés elfogadására,
 
 d) ellátja az Európai Mezőgazdasági Garanciaalap (EMGA) finanszírozási rendszerébe tartozó ügyletek tagállamok által végzett vizsgálatáról szóló 485/2008/EK rendelet 11. cikkében meghatározott feladatokat (Különleges Szolgálat),
 
@@ -20,7 +20,7 @@ h)[^30] végzi a behozott kőolaj és kőolajtermékek biztonsági készletezés
 
 i)[^31] ellátja a Hivatalos Zár Bizottság irányításával és működtetésével kapcsolatos feladatokat.
 
-[^28]: A 12. § c) pontja a 366/2012. (XII. 17.) Korm. rendelet 30. § (6) bekezdése szerint módosított szöveg.
+[^28]: A 12. § c) pontja a 366/2012. (XII. 17.) Korm. rendelet 30. § (6) bekezdése, a 479/2013. (XII. 17. ) Korm. rendelet 17. § 1. pontja szerint módosított szöveg.
 [^29]: A 12. § g) pontja a 269/2011. (XII. 20.) Korm. rendelet 18. § 1. pontja szerint módosított szöveg.
 [^30]: A 12. § h) pontját a 269/2011. (XII. 20.) Korm. rendelet 4. §-a iktatta be.
 [^31]: A 12. § i) pontját a 366/2012. (XII. 17.) Korm. rendelet 9. §-a iktatta be.
