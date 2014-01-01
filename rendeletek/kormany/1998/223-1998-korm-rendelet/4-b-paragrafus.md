@@ -1,12 +1,12 @@
-## 4/A. §[^22]
+## 4/A. §[^23]
 
-4/B. §[^23] (1)[^24] A Cst.
+4/B. §[^24] (1)[^25] A Cst.
 
 a) 4. § g) és h) pontja, 6. § (2) bekezdése, 8. § (1) bekezdés a) pontja, 8. § (3) bekezdés f) pontja, 11. § (1) bekezdés j) pontja, 12. § (1) bekezdés b) pontja, 15. § (1) és (3) bekezdése, valamint 37. § (5) és (9) bekezdése alkalmazásában a gyámhatóság a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) gyámhivatala (a továbbiakban: gyámhivatal),
 
 b) 22. §-a, 43. § (5) és (6) bekezdése, valamint 45. § (1) bekezdése alkalmazásában a kincstár vezetője a Magyar Államkincstár elnöke,
 
-c)[^25] 15. § (3) bekezdése, 35. § (1) bekezdés a) pontja, 36/A. §-a (2) bekezdése, 37. §-a (5), (7) és (9) bekezdése, valamint 49. § (2) bekezdése alkalmazásában a kincstár a Magyar Államkincstárnak a kérelmező, illetve a jogosult lakó- vagy tartózkodási helye szerint illetékes területi szerve (a továbbiakban: Igazgatóság),
+c)[^26] 15. § (3) bekezdése, 35. § (1) bekezdés a) pontja, 36/A. §-a (2) bekezdése, 37. §-a (5), (7) és (9) bekezdése, valamint 49. § (2) bekezdése alkalmazásában a kincstár a Magyar Államkincstárnak a kérelmező, illetve a jogosult lakó- vagy tartózkodási helye szerint illetékes területi szerve (a továbbiakban: Igazgatóság),
 
 d) 15. § (3) bekezdése, 35. § (1) bekezdés a) pontja, 36/A. § (2) bekezdése, 37. § (5), (7) és (9) bekezdése, valamint 49. § (2) bekezdése alkalmazásában a kincstár a Magyar Államkincstárnak a kérelmező, illetve a jogosult lakó- vagy tartózkodási helye szerint illetékes területi szerve (a továbbiakban: Igazgatóság),
 
@@ -16,7 +16,7 @@ f) 48. § (1)–(3) bekezdése alkalmazásában az egészségbiztosítási szerv
 
 g) 48. § (2) és (3) bekezdése alkalmazásában a kincstár a Központ, illetve az Igazgatóság.
 
-(2)[^26] A családtámogatási ellátás iránti kérelmet elbíráló szerv
+(2)[^27] A családtámogatási ellátás iránti kérelmet elbíráló szerv
 
 a) a Cst. 2. §-ának a) és b) pontja szerinti személyi kör tekintetében
 
@@ -28,48 +28,48 @@ b) a Cst. 2. §-ának c) és d) pontja szerinti személyi kör tekintetében
 
 ba) az anyasági támogatás iránti kérelem esetében az Igazgatóság,
 
-bb)[^27] a ba) alpont hatálya alá nem tartozó esetben, amennyiben a kérelmező vagy a családtámogatási ellátás iránti kérelem elbírálása szempontjából figyelembe veendő családtagja az Osztrák Köztársaságban folytat keresőtevékenységet, vagy ha e családtagok valamelyike életvitelszerűen az Osztrák Köztársaságban tartózkodik, vagy ha egyéb okból az ügy elbírálásához osztrák hatóság megkeresése szükséges, a Magyar Államkincstár Győr-Moson-Sopron Megyei Igazgatósága, egyéb esetben a Magyar Államkincstár Budapesti és Pest megyei Igazgatósága (a továbbiakban együtt: EGT-s Igazgatóság).
+bb)[^28] a ba) alpont hatálya alá nem tartozó esetben, amennyiben a kérelmező vagy a családtámogatási ellátás iránti kérelem elbírálása szempontjából figyelembe veendő családtagja az Osztrák Köztársaságban folytat keresőtevékenységet, vagy ha e családtagok valamelyike életvitelszerűen az Osztrák Köztársaságban tartózkodik, vagy ha egyéb okból az ügy elbírálásához osztrák hatóság megkeresése szükséges, a Magyar Államkincstár Győr-Moson-Sopron Megyei Igazgatósága, egyéb esetben a Magyar Államkincstár Budapesti és Pest megyei Igazgatósága (a továbbiakban együtt: EGT-s Igazgatóság).
 
-(3)[^28] Amennyiben első fokon a családtámogatási kifizetőhely jár el, a fellebbezés elbírálására jogosult hatóság a Központ.
+(3)[^29] Amennyiben első fokon a családtámogatási kifizetőhely jár el, a fellebbezés elbírálására jogosult hatóság a Központ.
 
 (4) A Cst. 35. §-a (1) bekezdésének b) pontja alkalmazásában családtámogatási kifizetőhely:
 
-a)–c)[^29]
+a)–c)[^30]
 
-d)[^30]
+d)[^31]
 
-e)–f)[^31]
+e)–f)[^32]
 
 g) a Honvédelmi Minisztérium,
 
 h) az Információs Hivatal,
 
-i)[^32] az Alkotmányvédelmi Hivatal,
+i)[^33] az Alkotmányvédelmi Hivatal,
 
 j) a Nemzetbiztonsági Szakszolgálat,
 
-k)[^33]
+k)[^34]
 
 l) az Országgyűlés Hivatala.
 
-(5)[^34] Amennyiben a családtámogatási ellátás iránti kérelem benyújtását közvetlenül megelőzően a kérelmező részére vagy ugyanazon gyermekre tekintettel más – a (4) bekezdés szerinti – kifizetőhely folyósít vagy folyósított családtámogatási ellátást, az ügyben keletkezett iratok beszerzése iránt a Központot kell megkeresni.
+(5)[^35] Amennyiben a családtámogatási ellátás iránti kérelem benyújtását közvetlenül megelőzően a kérelmező részére vagy ugyanazon gyermekre tekintettel más – a (4) bekezdés szerinti – kifizetőhely folyósít vagy folyósított családtámogatási ellátást, az ügyben keletkezett iratok beszerzése iránt a Központot kell megkeresni.
 
-(6)[^35]
+(6)[^36]
 
-(7)[^36]
+(7)[^37]
 
-[^22]: A 4/A. §-t a 204/2000. (XII. 11.) Korm. rendelet 2.§-a iktatta be, hatályon kívül helyezte a 236/2012. (VIII. 30.) Korm. rendelet 18. § (3) bekezdés a) pontja.
-[^23]: A 4/B. §-t a 321/2006. (XII. 23.) Korm. rendelet 11. §-a iktatta be, szövege a 394/2007. (XII. 27.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^24]: A 4/B. § (1) bekezdése a 236/2012. (VIII. 30.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
-[^25]: A 4/B. § (1) bekezdés c) pontja a 236/2012. (VIII. 30.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^26]: A 4/B. § (2) bekezdése a 176/2009. (VIII. 29.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
-[^27]: A 4/B. § (2) bekezdés b) pont bb) alpontja a 359/2010. (XII. 30.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.
-[^28]: A 4/B. § (3) bekezdése a 176/2009. (VIII. 29.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
-[^29]: A 4/B. § (4) bekezdés a)–c) pontját a 340/2008. (XII. 30.) Korm. rendelet 25. § (2) bekezdése hatályon kívül helyezte.
-[^30]: A 4/B. § (4) bekezdés d) pontját a 323/2009. (XII. 29.) Korm. rendelet 14. § (1) bekezdés b) pont ba) alpontja hatályon kívül helyezte.
-[^31]: A 4/B. § (4) bekezdés e)–f) pontját a 340/2008. (XII. 30.) Korm. rendelet 25. § (2) bekezdése hatályon kívül helyezte.
-[^32]: A 4/B. § (4) bekezdés i) pontja a 236/2010. (IX. 13.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
-[^33]: A 4/B. § (4) bekezdés k) pontját a 332/2011. (XII. 29.) Korm. rendelet 6. § a) pontja hatályon kívül helyezte.
-[^34]: A 4/B. § (5) bekezdése a 176/2009. (VIII. 29.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
-[^35]: A 4/B. § (6) bekezdését a 176/2009. (VIII. 29.) Korm. rendelet 19. § (4) bekezdésének c) pontja hatályon kívül helyezte.
-[^36]: A 4/B. § (7) bekezdését a 236/2012. (VIII. 30.) Korm. rendelet 18. § b) pontja hatályon kívül helyezte.
+[^23]: A 4/A. §-t a 204/2000. (XII. 11.) Korm. rendelet 2.§-a iktatta be, hatályon kívül helyezte a 236/2012. (VIII. 30.) Korm. rendelet 18. § (3) bekezdés a) pontja.
+[^24]: A 4/B. §-t a 321/2006. (XII. 23.) Korm. rendelet 11. §-a iktatta be, szövege a 394/2007. (XII. 27.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^25]: A 4/B. § (1) bekezdése a 236/2012. (VIII. 30.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^26]: A 4/B. § (1) bekezdés c) pontja a 236/2012. (VIII. 30.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^27]: A 4/B. § (2) bekezdése a 176/2009. (VIII. 29.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^28]: A 4/B. § (2) bekezdés b) pont bb) alpontja a 359/2010. (XII. 30.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.
+[^29]: A 4/B. § (3) bekezdése a 176/2009. (VIII. 29.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^30]: A 4/B. § (4) bekezdés a)–c) pontját a 340/2008. (XII. 30.) Korm. rendelet 25. § (2) bekezdése hatályon kívül helyezte.
+[^31]: A 4/B. § (4) bekezdés d) pontját a 323/2009. (XII. 29.) Korm. rendelet 14. § (1) bekezdés b) pont ba) alpontja hatályon kívül helyezte.
+[^32]: A 4/B. § (4) bekezdés e)–f) pontját a 340/2008. (XII. 30.) Korm. rendelet 25. § (2) bekezdése hatályon kívül helyezte.
+[^33]: A 4/B. § (4) bekezdés i) pontja a 236/2010. (IX. 13.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
+[^34]: A 4/B. § (4) bekezdés k) pontját a 332/2011. (XII. 29.) Korm. rendelet 6. § a) pontja hatályon kívül helyezte.
+[^35]: A 4/B. § (5) bekezdése a 176/2009. (VIII. 29.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^36]: A 4/B. § (6) bekezdését a 176/2009. (VIII. 29.) Korm. rendelet 19. § (4) bekezdésének c) pontja hatályon kívül helyezte.
+[^37]: A 4/B. § (7) bekezdését a 236/2012. (VIII. 30.) Korm. rendelet 18. § b) pontja hatályon kívül helyezte.

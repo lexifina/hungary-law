@@ -28,7 +28,7 @@ ba) a gyermek tartós betegségére, illetve súlyos fogyatékosságára okot ad
 
 bb) ha az ellátásra jogosult – ide nem értve a kiskorú szülő gyermekének gyámját – a gyermek egyéves kora előtt, nagyszülő esetében a gyermek hároméves kora előtt folytat keresőtevékenységet,
 
-bc) ha a gyermekgondozási segélyre jogosult – ide nem értve a kiskorú szülő gyermekének gyámját, valamint a tartósan beteg vagy súlyosan fogyatékos gyermekre tekintettel gyermekgondozási segélyre jogosult személyt – a gyermek egyéves kora után heti 30 órát meghaladó időtartamban folytat keresőtevékenységet, kivéve ha azt az otthonában végzi,
+bc)[^19]
 
 bd) ha a gyermekgondozási segélyre jogosult nagyszülő a gyermek hároméves kora után folytat keresőtevékenységet, kivéve, ha a keresőtevékenység a Cst. 21/A. §-ában megjelölt módon és időtartamban történik,
 
@@ -60,3 +60,4 @@ cb) a gyermek – méltányossági gyermekgondozási segély megállapítására
 
 [^17]: A 3. § a) pontja a 236/2010. (IX. 13.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^18]: A 3. § b) pontja a 359/2010. (XII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^19]: A 3. § b) pont bc) alpontját az 509/2013. (XII. 29.) Korm. rendelet 4. §-a hatályon kívül helyezte.
