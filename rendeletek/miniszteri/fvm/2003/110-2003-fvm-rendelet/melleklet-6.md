@@ -274,7 +274,7 @@
 
 ## 1.5.2. Kivételes esettől eltekintve, törlést csak az állomány egészségi állapotának súlyos megromlása vagy felújulása miatt lehet kezdeményezni.
 
-## 1.5.3.[^98] A törzskönyvből való törlésről a NÉBIH dönt és arról értesíti az erdő kezelőjét, valamint védett természeti területen az Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség területi felügyelőségeit.
+## 1.5.3.[^98] A törzskönyvből való törlésről a NÉBIH dönt és arról értesíti az erdő kezelőjét, valamint védett természeti területen az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség területi felügyelőségeit.
 
 ## 2. Magtermesztő ültetvények
 
@@ -468,7 +468,7 @@
 [^95]: Az 5. számú melléklet 1.3.1. alpont nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 30. § b) pontja szerint módosított szöveg.
 [^96]: Az 5. számú melléklet 1.3.2. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § q) pontja szerint módosított szöveg.
 [^97]: Az 5. számú melléklet 1.4.8. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § i) és p) pontja szerint módosított szöveg. [E módosító rendelet 30. § q) pontjával elrendelt módosítás, amely szerint az „az Állami Erdészeti Szolgálat Területi Igazgatósága” szövegrész helyébe az „az illetékes megyei kormányhivatal erdészeti igazgatósága” szöveg lép, nem vezethető át.]
-[^98]: Az 5. számú melléklet 1.5.3. pontja a 183/2009. (XII. 30.) FVM rendelet 2. § (4) bekezdésével megállapított, a 70/2013. (VII. 31.) VM rendelet 30. § b) és p) pontja szerint módosított szöveg.
+[^98]: Az 5. számú melléklet 1.5.3. pontja a 183/2009. (XII. 30.) FVM rendelet 2. § (4) bekezdésével megállapított, a 70/2013. (VII. 31.) VM rendelet 30. § b) és p) pontja, a 132/2013. (XII. 23.) VM rendelet 12. §-a szerint módosított szöveg.
 [^99]: Az 5. számú melléklet 2.1.3. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § d) pontja szerint módosított szöveg.
 [^100]: Az 5. számú melléklet 2.3.1.1. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § i) és o) pontja szerint módosított szöveg.
 [^101]: Az 5. számú melléklet 2.3.3.1. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § b) pontja szerint módosított szöveg.
