@@ -8,7 +8,7 @@
 
 | 3 | örökségvédelmi hatósági engedélyezési eljárások és régészeti feltárásokkal kapcsolatos eljárások (a további régészeti feladatellátás meghatározása kivételével) | Szegedi Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Csongrád Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
-| 4 | környezetvédelmi hatósági engedélyezési eljárás a természetvédelmi kiegyenlítő intézkedés végrehajtásához szükséges környezetvédelmi hatósági engedélyezési eljárás kivételével | Alsó-Tisza-vidéki Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 4 | környezetvédelmi hatósági engedélyezési eljárás a természetvédelmi kiegyenlítő intézkedés végrehajtásához szükséges környezetvédelmi hatósági engedélyezési eljárás kivételével | Alsó-Tisza-vidéki Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
 | 5 | útügyi hatósági engedélyezési eljárások | Csongrád Megyei Kormányhivatal Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
@@ -16,7 +16,7 @@
 
 | 7 | a Magyar Kereskedelmi Engedélyezési Hivatalról és a területi mérésügyi és műszaki biztonsági hatóságokról szóló 320/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdése és 13. § (2) bekezdése szerinti engedélyezési eljárások | Csongrád Megyei Kormányhivatal Szegedi Mérésügyi és Műszaki Biztonsági Hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
-| 8 | vízjogi hatósági eljárások | Alsó-Tisza-vidéki Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 8 | vízjogi hatósági eljárások | Alsó-Tisza-vidéki Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
 | 9 | földvédelmi, földmérési, telekalakítási és ingatlan-nyilvántartási hatósági eljárások | Szegedi Járási Hivatal Járási Földhivatala | Csongrád Megyei Kormányhivatal Földhivatala |
 
@@ -36,7 +36,7 @@
 
 | 17 | tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-2. melléklet a 225/2013. (VI. 24.) Korm. rendelethez
+2. melléklet a 225/2013. (VI. 24.) Korm. rendelethez[^3]
 
 A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárásokban közreműködő hatáskörrel rendelkező szakhatóságok
 
@@ -68,7 +68,9 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 | 13 | műszaki biztonság | Csongrád Megyei Kormányhivatal Szegedi Mérésügyi és Műszaki Biztonsági Hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
-| 14 | környezetvédelem, természetvédelem, tájvédelem és vízügy | Alsó-Tisza-vidéki Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 14 | környezetvédelem, természetvédelem és tájvédelem | Alsó-Tisza-vidéki Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+
+| 14a. | vízügy | Alsó-Tisza-vidéki Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
 | 15 | rendészet gyorsforgalmi utak esetén | Országos Rendőr-főkapitányság | rendészetért felelős miniszter |
 
@@ -79,3 +81,5 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 | 18 | honvédelem | Honvédelmi Minisztérium Hatósági Hivatal igazgatója | honvédelemért felelős miniszter |
 
 | 19 | hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
+
+[^3]: A 2. melléklet az 527/2013. (XII. 30.) Korm. rendelet 145. § (2) bekezdése szerint módosított szöveg.
