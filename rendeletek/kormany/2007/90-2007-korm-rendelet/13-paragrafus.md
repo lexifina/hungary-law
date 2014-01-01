@@ -1,8 +1,7 @@
 ## Kárelhárítási gyakorlatok
 
-13. § (1)[^15] A VIZIG – a (2) bekezdés szerinti kivétellel – évente köteles megszervezni és lebonyolítani a kárelhárítási gyakorlatokat a beosztott munkatársak részére felkészítés és továbbképzés céljából, melybe az együttműködő szervezeteket is bevonja.
+13. §[^17] (1) A 3. § (1) bekezdése szerinti feladatmegosztás alapján a VIZIG és az NPI – a (2) bekezdés szerinti kivétellel – évente köteles megszervezni és lebonyolítani, az együttműködő szervezetek bevonásával, a kárelhárítási gyakorlatokat a beosztott munkatársak részére felkészítés és továbbképzés céljából.
 
-(2)[^16] A gyakorlat megtartása – az OVF főigazgatója jóváhagyásával – mellőzhető, ha az évben a VIZIG III. fokú kárelhárítási készültségben volt.
+(2) A gyakorlat megtartása – az OVF főigazgatója, illetve az OKTF vezetőjének jóváhagyásával – mellőzhető, ha az adott évben a VIZIG, illetve az NPI III. fokú kárelhárítási készültségben volt.
 
-[^15]: A 13. § (1) bekezdése a 300/2011. (XII. 22.) Korm. rendelet 17. § (3) bekezdés c) pontja szerint módosított szöveg.
-[^16]: A 13. § (2) bekezdése a 300/2011. (XII. 22.) Korm. rendelet 17. § (3) bekezdés c) és j) pontja szerint módosított szöveg.
+[^17]: A 13. § az 527/2013. (XII. 30.) Korm. rendelet 49. § (9) bekezdésével megállapított szöveg.

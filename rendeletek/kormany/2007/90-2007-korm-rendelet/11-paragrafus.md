@@ -2,6 +2,6 @@
 
 11. § (1) A kárelhárításhoz szükséges anyagokat és eszközöket a kárelhárítási tervek alapján kell meghatározni.
 
-(2)[^12] A területi kárelhárítási tervekben rögzített kárelhárítási anyagok és eszközök készenlétben tartásáról a VIZIG gondoskodik.
+(2)[^15] A területi kárelhárítási tervekben rögzített kárelhárítási anyagok és eszközök készenlétben tartásáról – a 3. § (1) bekezdésében meghatározott feladat-megosztás alapján – a VIZIG vagy a NPI gondoskodik.
 
-[^12]: A 11. § (2) bekezdése a 300/2011. (XII. 22.) Korm. rendelet 17. § (3) bekezdés c) pontja szerint módosított szöveg.
+[^15]: A 11. § (2) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 49. § (7) bekezdésével megállapított szöveg.

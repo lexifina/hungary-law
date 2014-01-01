@@ -1,10 +1,13 @@
-4. § (1) A környezethasználó, illetve a környezetvédelmi, természetvédelmi és vízügyi szervek a kárelhárítás feladatainak végrehajtását elsősorban saját erőforrásaikkal látják el.
+4. §[^5] (1) A környezethasználó, illetve a környezetvédelmi és természetvédelmi, valamint a vízügyi szervek a kárelhárítás feladatainak végrehajtását elsősorban saját erőforrásaikkal látják el.
 
-(2)[^5] Ha a kárelhárítás ellátásához a saját erőforrás nem elegendő, a környezethasználó a VIZIG-nél, a VIZIG és felügyelőség vezetője az OVF főigazgatójánál kezdeményezi más vízügyi, illetőleg környezetvédelmi szervek erőforrásainak (így például anyagainak és eszközeinek) igénybevételét.
+(2) Ha a kárelhárítás ellátásához a saját erőforrás nem elegendő, a környezethasználó
+
+a) az 1. § a) és b) pontja szerinti környezeti elem esetében – a VIZIG-nél, a VIZIG és a vízügyi hatóság vezetője az Országos Vízügyi Főigazgatóság (a továbbiakban: OVF) főigazgatójánál kezdeményezi más vízügyi szervek erőforrásainak (így például anyagainak és eszközeinek) igénybevételét,
+
+b) az 1. § c)–g) pontja szerinti környezeti elem esetében – az NPI-nél, az NPI az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség (a továbbiakban: OKTF) főigazgatójánál kezdeményezi más környezetvédelmi szervek erőforrásainak (így például anyagainak és eszközeinek) igénybevételét,
 
 (3) Amennyiben a kárelhárítás több környezeti elemet érint, a kárelhárítást az érintett környezeti elemekre nézve csak együttesen, egymásra tekintettel lehet elvégezni.
 
-(4)[^6] A VIZIG-ek kárelhárítási tevékenységét az Országos Vízügyi Főigazgatóság (a továbbiakban: OVF) útján a vízügyi igazgatási szervek irányításáért felelős miniszter (a továbbiakban: miniszter) irányítja.
+(4) A VIZIG-ek kárelhárítási tevékenységét az OVF útján a vízügyi igazgatási szervek irányításáért felelős miniszter irányítja. Az NPI kárelhárítási tevékenységét az OKTF útján a környezetvédelemért felelős miniszter irányítja.
 
-[^5]: A 4. § (2) bekezdése a 300/2011. (XII. 22.) Korm. rendelet 17. § (3) bekezdés c)–d) és i) pontja szerint módosított szöveg.
-[^6]: A 4. § (4) bekezdése a 300/2011. (XII. 22.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.
+[^5]: A 4. § az 527/2013. (XII. 30.) Korm. rendelet 49. § (4) bekezdésével megállapított szöveg.

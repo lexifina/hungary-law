@@ -1,34 +1,23 @@
 ## A környezetkárosodás felderítése
 
-15. § (1) A környezetkárosodás felderítésére bejelentésre vagy hivatalból kerülhet sor.
+15. §[^19] (1) A környezetkárosodás felderítésére bejelentésre vagy hivatalból kerülhet sor.
 
-(2)[^18] A környezetkárosodás felderítése a felügyelőség, VIZIG és NPI feladata.
+(2) A környezetkárosodás felderítése a vízügyi hatóság, a felügyelőség, a VIZIG és az NPI feladata.
 
-(3)[^19] Az OVF főigazgatója, a VIZIG, a NPI és a felügyelőség a környezetkárosodással kapcsolatos bejelentésről kötelesek egymást azonnal tájékoztatni. A VIZIG-eknél és a felügyelőségeknél állandó ügyeletet kell tartani.
+(3) Az OVF főigazgatója, a VIZIG, az NPI, a vízügyi hatóság és a felügyelőség a környezetkárosodással kapcsolatos bejelentésről köteles egymást azonnal tájékoztatni. A VIZIG-nél, a vízügyi hatóságnál és a felügyelőségnél állandó ügyeletet kell tartani.
 
-(4)[^20] A miniszter az OVF-nél folyamatosan működő Központi Környezetbiztonsági Ügyeletet (KBÜ) tart fenn, mely fogadja a környezeti káresemény bejelentését, és továbbítja
+(4) A vízügyi igazgatási szervek irányításáért felelős miniszter az OVF-nél folyamatosan működő Központi Környezetbiztonsági Ügyeletet (KBÜ) tart fenn, amely fogadja a környezeti káresemény bejelentését, és továbbítja
 
-a)[^21] víz és földtani közeg érintettsége esetén a VIZIG-hez;
+a) víz és földtani közeg érintettsége esetén a VIZIG-hez és a vízügyi hatósághoz,
 
-b) az 1. § c)–h) pontja szerinti faj, élőhely, terület érintettsége esetén a NPI-hez;
+b) az 1. § c)–g) pontja szerinti faj, élőhely, terület érintettsége esetén a NPI-hez és a felügyelőséghez,
 
-c) légszennyezés esetén a katasztrófavédelemhez;
+c) légszennyezés esetén a katasztrófavédelemhez és a felügyelőséghez,
 
-d)[^22] lakosság egészségi kockázata esetén a fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szervét (a továbbiakban: megyei népegészségügyi szakigazgatási szerv); továbbá
+d) lakosság egészségi kockázata esetén a fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szervéhez (a továbbiakban: megyei népegészségügyi szakigazgatási szerv) és a felügyelőséghez.
 
-e) a)–d) pontok esetében a felügyelőséghez is.
+(5) A bejelentés alapján az 1. § a) és b) pont szerinti környezeti elem esetében a VIZIG haladéktalanul köteles az NPI, a megyei népegészségügyi szakigazgatási szerv és a vízügyi hatóság bevonásával az esetet a helyszínen kivizsgálni. A bejelentés alapján az 1. § c)–g) pontja esetében a NPI haladéktalanul köteles a megyei népegészségügyi szakigazgatási szerv és a felügyelőség bevonásával az esetet a helyszínen kivizsgálni.
 
-(5)[^23] A bejelentés alapján a VIZIG haladéktalanul köteles a NPI, a megyei népegészségügyi szakigazgatási szerv és a felügyelőség bevonásával az esetet a helyszínen kivizsgálni.
+(6) A kivizsgálásba a halgazdálkodásról és a hal védeleméről szóló külön jogszabályok szerinti tiltott halfogási eszközök és módszerek következtében fellépő halpusztulás esetén halgazdálkodási hatóságként, valamint az erdőket érintő környezetveszélyeztetés és környezetkárosodás esetén erdészeti hatóságként a Nemzeti Élelmiszerlánc-biztonsági Hivatalt is be kell vonni.
 
-(5a)[^24]
-
-(6)[^25] A kivizsgálásba a halászatról és horgászatról szóló külön jogszabály szerinti tiltott halfogási mód következtében fellépő halpusztulás esetén a halászati, valamint az erdőket érintő környezetveszélyeztetés és környezetkárosodás esetén erdészeti hatóságként a Nemzeti Élelmiszerlánc-biztonsági Hivatalt is be kell vonni.
-
-[^18]: A 15. § (2) bekezdése a 300/2011. (XII. 22.) Korm. rendelet 17. § (3) bekezdés b)–c) pontja szerint módosított szöveg.
-[^19]: A 15. § (3) bekezdése a 300/2011. (XII. 22.) Korm. rendelet 17. § (3) bekezdés c), g) és k) pontja szerint módosított szöveg.
-[^20]: A 15. § (4) bekezdés nyitó szövegrésze a 300/2011. (XII. 22.) Korm. rendelet 17. § (3) bekezdés l) pontja szerint módosított szöveg.
-[^21]: A 15. § (4) bekezdés a) pontja a 300/2011. (XII. 22.) Korm. rendelet 17. § (3) bekezdés h) pontja szerint módosított szöveg.
-[^22]: A 15. § (4) bekezdés d) pontja a 351/2010. (XII. 30.) Korm. rendelet 179. § a) pontja szerint módosított szöveg.
-[^23]: A 15. § (5) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 179. § b) pontja, a 300/2011. (XII. 22.) Korm. rendelet 17. § (3) bekezdés c) pontja szerint módosított szöveg.
-[^24]: A 15. § (5a) bekezdését a 351/2010. (XII. 30.) Korm. rendelet 180. §-a iktatta be, hatályon kívül helyezte a 137/2012. (VI. 29.) Korm. rendelet 97. § j) pontja.
-[^25]: A 15. § (6) bekezdése a 23/2012. (II. 29.) Korm. rendelet 25. § (1) bekezdése szerint módosított szöveg.
+[^19]: A 15. § az 527/2013. (XII. 30.) Korm. rendelet 49. § (10) bekezdésével megállapított szöveg.

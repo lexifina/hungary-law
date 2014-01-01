@@ -1,16 +1,21 @@
 ## A készültségi fokozatok elrendelése és megszüntetése
 
-19. § (1)[^32] A kárelhárítás érdekében a felügyelőség rendeli el a VIZIG és NPI bevonásával
+19. §[^22] (1) A kárelhárítás érdekében, az 1. § a) és b) pontja szerinti környezeti elem esetében, és azoknál a vizeknél és vízilétesítményeknél, amelyek az 1. § f) és g) pontja szerinti területeken vannak, de a VIZIG vagyonkezelésében állnak, a VIZIG rendeli el a vízügyi hatóság és NPI bevonásával
 
-a)[^33] az I. fokú készültséget, ha a VIZIG, NPI és a felügyelőség rendkívüli környezetkárosodásról szerzett tudomást, és helyszíni műszaki szemlét kell tartani;
+a) az I. fokú készültséget, ha a VIZIG, az NPI és a vízügyi hatóság rendkívüli környezetkárosodásról szerzett tudomást, és helyszíni műszaki szemlét kell tartani,
 
-b) a II. fokú készültséget, ha a helyszíni műszaki szemle alapján a műveleti irányítást közvetlenül megelőző intézkedések (így különösen mintavétel, elemzés, értékelés) válhatnak szükségessé.
+b) a II. fokú készültséget, ha a helyszíni műszaki szemle alapján a műveleti irányítást közvetlenül megelőző intézkedések (így különösen mintavétel, elemzés, értékelés) válhatnak szükségessé,
 
-(2)[^34] A III. fokú készültséget a VIZIG rendeli el a felügyelőség és NPI bevonásával, ha a helyszíni műszaki szemle vagy a minták elemzésének eredménye alapján azonnali beavatkozásra (így különösen a szennyezés lokalizálására, közömbösítésére, eltávolítására, a partok, vízkivételek megvédésére) van szükség.
+c) a III. fokú készültséget, ha a helyszíni műszaki szemle vagy a minták elemzésének eredménye alapján azonnali beavatkozásra (így különösen a szennyezés lokalizálására, közömbösítésére, eltávolítására, a partok, vízkivételek megvédésére) van szükség.
 
-(3)[^35] A készültség fokozatait a felügyelőségnek, illetve VIZIG-nek meg kell szüntetni, ha az azt kiváltó ok megszűnt, és annak közvetlen ismétlődésétől nem kell tartani.
+(2) A kárelhárítás érdekében, az 1. § c)–g) pontja szerinti környezeti elem esetében – az (1) bekezdés kivételével – az NPI rendeli el a felügyelőség és a VIZIG bevonásával
 
-[^32]: A 19. § (1) bekezdés nyitó szövegrésze a 300/2011. (XII. 22.) Korm. rendelet 17. § (3) bekezdés c) pontja szerint módosított szöveg.
-[^33]: A 19. § (1) bekezdés a) pontja a 300/2011. (XII. 22.) Korm. rendelet 17. § (3) bekezdés c) pontja szerint módosított szöveg.
-[^34]: A 19. § (2) bekezdése a 300/2011. (XII. 22.) Korm. rendelet 17. § (3) bekezdés c) pontja szerint módosított szöveg.
-[^35]: A 19. § (3) bekezdése a 300/2011. (XII. 22.) Korm. rendelet 17. § (3) bekezdés c) pontja szerint módosított szöveg.
+a) az I. fokú készültséget, ha a VIZIG, az NPI és a felügyelőség rendkívüli környezetkárosodásról szerzett tudomást, és helyszíni műszaki szemlét kell tartani,
+
+b) a II. fokú készültséget, ha a helyszíni műszaki szemle alapján a műveleti irányítást közvetlenül megelőző intézkedések (így különösen mintavétel, elemzés, értékelés) válhatnak szükségessé,
+
+c) a III. fokú készültséget, ha a helyszíni műszaki szemle vagy a minták elemzésének eredménye alapján azonnali beavatkozásra (így különösen a szennyezés lokalizálására, közömbösítésére, eltávolítására, a partok, vízkivételek megvédésére) van szükség.
+
+(3) A készültség fokozatait a VIZIG-nek, illetve az NPI-nek meg kell szüntetni, ha az azt kiváltó ok megszűnt, és annak közvetlen ismétlődésétől nem kell tartani.
+
+[^22]: A 19. § az 527/2013. (XII. 30.) Korm. rendelet 49. § (13) bekezdésével megállapított szöveg.
