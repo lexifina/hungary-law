@@ -16,7 +16,7 @@ f) érvényesíti a társulat követeléseit és rendezi tartozásait, kivéve a
 
 g) értékesíti az értékesíthető vagyontárgyakat, illetőleg szükség esetén selejtezést végez;
 
-h)[^13] átutalja a társulat pénzforgalmi számlájára a házipénztárban lévő, a nyilvántartásokkal egyeztetett pénzkészletet;
+h)[^15] átutalja a társulat pénzforgalmi számlájára a házipénztárban lévő, a nyilvántartásokkal egyeztetett pénzkészletet;
 
 i) intézkedik a társulat számlájának lezárásáról, annak egyenlegösszegét átutalja a létrehozott víziközmű helye szerint illetékes települési önkormányzat újonnan nyitott víziközmű elnevezésű elkülönített számlájára (víziközmű-számla);
 
@@ -26,4 +26,4 @@ j) megsemmisíti a társulat bélyegzőjét.
 
 (3) Az elszámolási eljárás költségeit az (1) bekezdés f) pontjában említett tartozások között kell elszámolni.
 
-[^13]: A 19. § h) pontja a 314/2009. (XII. 28.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^15]: A 19. § h) pontja a 314/2009. (XII. 28.) Korm. rendelet 2. §-a szerint módosított szöveg.
