@@ -198,6 +198,6 @@
 
 ## f) költségszámítás, különösen a beavatkozás környezeti előnyeinek bemutatására vonatkozóan.
 
-5. számú melléklet a 20/2006. (IV. 5.) KvVM rendelethez[^63]
+5. számú melléklet a 20/2006. (IV. 5.) KvVM rendelethez[^64]
 
-[^63]: Az 5. számú mellékletet a 92/2007. (XI. 28.) KvVM rendelet 13. § (2) bekezdése hatályon kívül helyezte.
+[^64]: Az 5. számú mellékletet a 92/2007. (XI. 28.) KvVM rendelet 13. § (2) bekezdése hatályon kívül helyezte.

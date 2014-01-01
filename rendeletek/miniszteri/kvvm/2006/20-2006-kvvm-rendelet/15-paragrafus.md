@@ -1,6 +1,6 @@
-## A hulladéklerakó rekultivációja, utógondozása[^50]
+## A hulladéklerakó rekultivációja, utógondozása[^51]
 
-15. §[^51] (1)[^52] A hulladéklerakó rekultivációjára és utógondozására akkor kerülhet sor, ha a külön jogszabály szerinti beavatkozásra nincsen szükség. A hulladéklerakó egészének vagy egy részének rekultivációját és utógondozását a Felügyelőség engedélyezi.
+15. §[^52] (1)[^53] A hulladéklerakó rekultivációjára és utógondozására akkor kerülhet sor, ha a külön jogszabály szerinti beavatkozásra nincsen szükség. A hulladéklerakó egészének vagy egy részének rekultivációját és utógondozását a Felügyelőség engedélyezi.
 
 (2) Az engedély iránti kérelemnek tartalmaznia kell a 4. számú mellékletben meghatározott követelmények szerint elkészített rekultivációs tervet.
 
@@ -26,6 +26,6 @@ e) az üzemeltető megnevezését az utógondozási időszakban.
 
 (8) A hulladéklerakót átmeneti felső záróréteg rendszerrel kell lezárni, amíg a hulladéktest biológiailag lebomló szerves összetevőinek stabilizálódása be nem következik, valamint intenzív gázképződés vagy a lerakó süllyedése várható. A végleges felső záróréteg rendszer akkor építhető ki, ha a stabilizálódási folyamat a hulladéktestben gyakorlatilag befejeződött.
 
-[^50]: A 15. §-t megelőző alcím a 92/2007. (XI. 28.) KvVM rendelet 11. §-ával megállapított szöveg.
-[^51]: A 15. § a 92/2007. (XI. 28.) KvVM rendelet 11. §-ával megállapított szöveg. E módosító rendelet 13. § (1) bekezdése alapján a rendelkezést alkalmazni kell a 2007. december 13. napját megelőzően hulladéklerakó felszámolására indított és jogerősen még be nem fejezett eljárásokban.
-[^52]: A 15. § (1) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdés 15. pontja szerint módosított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^51]: A 15. §-t megelőző alcím a 92/2007. (XI. 28.) KvVM rendelet 11. §-ával megállapított szöveg.
+[^52]: A 15. § a 92/2007. (XI. 28.) KvVM rendelet 11. §-ával megállapított szöveg. E módosító rendelet 13. § (1) bekezdése alapján a rendelkezést alkalmazni kell a 2007. december 13. napját megelőzően hulladéklerakó felszámolására indított és jogerősen még be nem fejezett eljárásokban.
+[^53]: A 15. § (1) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdés 15. pontja szerint módosított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.

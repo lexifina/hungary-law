@@ -132,6 +132,6 @@
 
 ## f) A tárolást úgy kell megszervezni, hogy minden tartály könnyen kivehető legyen.
 
-2. számú melléklet a 20/2006. (IV. 5.) KvVM rendelethez[^60]
+2. számú melléklet a 20/2006. (IV. 5.) KvVM rendelethez[^61]
 
-[^60]: A 2. számú melléklet a 92/2007. (XI. 28.) KvVM rendelet 13. § (2) bekezdésével megállapított, a 40/2013. (V. 24.) VM rendelet 4. § (9) bekezdés b) pontja és (10) bekezdés g) pontja szerint módosított szöveg.
+[^61]: A 2. számú melléklet a 92/2007. (XI. 28.) KvVM rendelet 13. § (2) bekezdésével megállapított, a 40/2013. (V. 24.) VM rendelet 4. § (9) bekezdés b) pontja és (10) bekezdés g) pontja szerint módosított szöveg.

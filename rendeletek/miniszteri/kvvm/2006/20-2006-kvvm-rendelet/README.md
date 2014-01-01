@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-20-20-0
 | 2009-03-01 | 2006-20-20-0N.4 | 20/2006. (IV. 5.) KvVM rendelet |
 | 2010-05-06 | 2006-20-20-0N.5 | 10/2010. (IV. 28.) KvVM rendelet |
 | 2013-06-01 | 2006-20-20-0N.6 | 40/2013. (V. 24.) VM rendelet |
+| 2014-01-01 | 2006-20-20-0N.7 | 132/2013. (XII. 23.) VM rendelet |
