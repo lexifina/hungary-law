@@ -8,11 +8,11 @@
 
 | 3 |  | a telekalakítási eljárás kivételével az építésügyi hatósági engedélyek | illetékes járási (fővárosi kerületi) hivatal járási építésügyi hivatala vagy járási építésügyi és örökségvédelmi hivatala, műemléket érintő ügyben a járási építésügyi és örökségvédelmi hivatal | fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala |
 
-| 4 |  | környezetvédelmi hatósági engedélyek | környezetvédelmi, természetvédelmi és vízügyi felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 4 |  | környezetvédelmi hatósági engedélyek | Környezetvédelmi és természetvédelmi felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
 | 5 |  | közforgalom elől el nem zárt magánutak útügyi építésügyi hatósági engedélye | fővárosi és megyei kormányhivatal közlekedési felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
-| 6 |  | vízjogi engedélyek | környezetvédelmi, természetvédelmi és vízügyi felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 6 |  | vízügyi hatósági engedélyek | területi vízügyi hatóság | Országos Vízügyi Hatóság |
 
 | 7 |  | A Magyar Kereskedelmi Engedélyezési Hivatalról és a területi mérésügyi és műszaki biztonsági hatóságokról szóló 320/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdése és 13. § (2) bekezdése szerinti engedélyek | fővárosi és megyei kormányhivatal mérésügyi és műszaki biztonsági hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
@@ -106,7 +106,9 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 1 | Szakhatósági közreműködés tárgya | Első fokú szakhatóság | Másodfokú szakhatóság |
 
-| 2 | Környezetvédelem, természetvédelem és vízügy | környezetvédelmi, természetvédelmi és vízügyi felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 2 | Környezetvédelem és természetvédelem | környezetvédelmi és természetvédelmi felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+
+| 2a. | Vízügy | vízügyi hatóság | Országos Vízügyi Hatóság |
 
 | 3 | Talajvédelem | megyei kormányhivatal Növény- és talajvédelmi igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
@@ -170,7 +172,9 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 2 | Talajvédelem, erdővédelem | talajvédelem esetében a megyei kormányhivatal növény- és talajvédelmi igazgatósága, erdővédelem esetében a megyei kormányhivatal erdészeti igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| 3 | Környezetvédelem, természetvédelem és vízügy | környezetvédelmi, természetvédelmi és vízügyi felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 3 | Környezetvédelem és természetvédelem | környezetvédelmi és természetvédelmi felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+
+| 4. | Vízügy | vízügyi hatóság | Országos Vízügyi Hatóság |
 
 8. Erdészeti engedélyezés
 
@@ -188,8 +192,10 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 2 | Talajvédelem | megyei kormányhivatal növény- és talajvédelmi igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| 3 | Természetvédelem és vízügy | környezetvédelmi, természetvédelmi és vízügyi felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 3 | Természetvédelem | környezetvédelmi és természetvédelmi felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+
+| 3a. | Vízügy | vízügyi hatóság | Országos Vízügyi Hatóság |
 
 | 4. | régészet és műemlékvédelem | illetékes járási (fővárosi kerületi) hivatal járási építésügyi és örökségvédelmi hivatala | illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
-[^4]: A 2. melléklet a 351/2010. (XII. 30.) Korm. rendelet 281. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 35. §-a, a 282/2011. XII. 21.) Korm. rendelet 44. § (2) bekezdése, a 23/2012. (II. 29.) Korm. rendelet 56. §-a, a 394/2012. (XII. 20.) Korm. rendelet 41. §-a szerint módosított szöveg.
+[^4]: A 2. melléklet a 351/2010. (XII. 30.) Korm. rendelet 281. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 35. §-a, a 282/2011. XII. 21.) Korm. rendelet 44. § (2) bekezdése, a 23/2012. (II. 29.) Korm. rendelet 56. §-a, a 394/2012. (XII. 20.) Korm. rendelet 41. §-a, az 527/2013. (XII. 30.) Korm. rendelet 90. § (2) bekezdése szerint módosított szöveg.
