@@ -1,4 +1,4 @@
-## 24. §[^41]
+## 24. §[^46]
 
 25. § (1) Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
@@ -8,4 +8,4 @@ b) a Tanács 92/43/EGK irányelve (1992. május 21.) a természetes élőhelyek,
 
 (2) E rendelet 24. §-a a vadon élő állat- és növényfajok számára kereskedelmük szabályozása által biztosított védelemről szóló 338/97/EK tanácsi rendelet végrehajtására vonatkozó részletes szabályok megállapításáról szóló, 2006. május 4-i 865/2006/EK bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
 
-[^41]: A 24. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 179. pontja hatályon kívül helyezte.
+[^46]: A 24. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 179. pontja hatályon kívül helyezte.

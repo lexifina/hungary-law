@@ -26,6 +26,6 @@ c) a kapcsolattartást a hazai gyűrűzőkkel és a külföldi gyűrűzőközpon
 
 (7) Védelemben részesülő állatfaj egyedének a megfogása, amennyiben az egyedet a megfogást követően közvetlenül jelölik, illetve adatait rögzítik és szabadon bocsátják, nem minősül tartásnak, illetőleg befogásnak.
 
-(8)[^20] Védelemben részesülő madár- és denevérfajok egyedei jelölőgyűrűvel történő jelölésére engedély annak adható, aki az általa fogott és jelölt állatokkal kapcsolatos adatait minden évben eljuttatja az (1), illetve a (4) bekezdésben meghatározott szervezethez. A szervezet minden év március 31-ig tájékoztatja a természetvédelmi hatóságot az előző évi jelentés teljesítéséről.
+(8)[^21] Védelemben részesülő madár- és denevérfajok egyedei jelölőgyűrűvel történő jelölésére engedély annak adható, aki az általa fogott és jelölt állatokkal kapcsolatos adatait minden évben eljuttatja az (1), illetve a (4) bekezdésben meghatározott szervezethez. A szervezet minden év március 31-ig tájékoztatja a természetvédelmi hatóságot az előző évi jelentés teljesítéséről.
 
-[^20]: A 12. § (8) bekezdése a 325/2007. (XII. 11.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^21]: A 12. § (8) bekezdése a 325/2007. (XII. 11.) Korm. rendelet 3. §-ával megállapított szöveg.
