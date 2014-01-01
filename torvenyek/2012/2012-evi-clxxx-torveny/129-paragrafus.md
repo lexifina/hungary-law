@@ -9,3 +9,5 @@
 (5) A büntetés végrehajtásának megkezdése előtt a tanúsítvány – indokolással – visszavonható. A tanúsítványt vissza kell vonni, ha az (1) bekezdés szerinti megkeresésre érkezett tájékoztatás alapján feltehető, hogy a bíróság által kiszabott szabadságvesztés büntetés célja a korai vagy feltételes szabadságra bocsátás időpontjának végrehajtó tagállam általi meghatározására tekintettel nem érhető el.
 
 (6) A végrehajtás átadásáról a miniszter dönt.
+
+(7) Ha a tagállami igazságügyi hatóság arról értesíti a minisztert, hogy az ítélet végrehajtását azért szüntette meg, mert az elítélt a végrehajtás megkezdése után a tagállam területén nem volt megtalálható és a felkutatására tett intézkedések nem vezettek eredményre, akkor a továbbiakban az ítélet végrehajtására a magyar szabályok irányadóak.

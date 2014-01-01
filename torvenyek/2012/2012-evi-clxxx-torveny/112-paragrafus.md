@@ -28,6 +28,12 @@ l) a tagállami határozat olyan pszichiátriai vagy orvosi kezelésre irányul�
 
 a) a terheltet megfelelő időben, határnapot és helyet megjelölve, közvetlenül idézték a tárgyalásra vagy arról más módon hivatalosan tudomást szerzett, továbbá tájékoztatták arról, hogy a tárgyalás a távollétében is megtartható, vele szemben az eljárás határozattal befejezhető,
 
-b) a terhelt által meghatalmazott vagy számára kirendelt védő a terhelt érdekében a tárgyaláson eljárt, vagy
+b) a kitűzött tárgyalás ismeretében a terhelt a tárgyaláson való képviseletére
+
+ba) védőt hatalmazott meg vagy
+
+bb) számára védőt rendeltek ki, és a kirendelés ismeretében annak személyét nem kifogásolta,
+
+és a meghatalmazott vagy a kirendelt védő a terhelt érdekében a tárgyaláson eljárt, vagy
 
 c) a tagállami határozat kézbesítése megtörtént, az elítélt tájékoztatást kapott a rendes, illetve a rendkívüli jogorvoslati lehetőségekről, de a rendelkezésre álló határidőn belül erre irányuló indítványt nem tett, vagy jelezte, hogy nem vitatja a távollétében hozott határozatot.

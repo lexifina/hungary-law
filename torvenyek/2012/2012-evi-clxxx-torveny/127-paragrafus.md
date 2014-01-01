@@ -11,3 +11,5 @@ c) abba a tagállamba, amelybe az elítélt a Magyarországon történt elítél
 (2) Ha a szabadságvesztés büntetésnek vagy szabadságelvonással járó intézkedésnek az (1) bekezdéstől eltérő más tagállamban történő végrehajtása – családi, kulturális vagy gazdasági kapcsolataira tekintettel – az elítélt társadalomba való beilleszkedésének elősegítését szolgálja, az ítélet és a tanúsítvány az elítélt hozzájárulásával továbbítható ebbe a tagállamba.
 
 (3) A (2) bekezdés szerinti esetben, az ítélet és a tanúsítvány továbbítását megelőzően a miniszter előzetes egyeztetést folytathat a végrehajtó tagállam igazságügyi hatóságával arról, hogy az hozzájárul-e a tanúsítvány és az ítélet továbbításához.
+
+(4) Ha a rendelkezésre álló adatok alapján nem állapítható meg, hogy a tagállamban az ítélet elismerésére és végrehajtására melyik tagállami hatóság rendelkezik hatáskörrel és illetékességgel, a kapcsolatfelvételhez szükséges adatokat az Európai Igazságügyi Hálózat kapcsolattartó pontjain keresztül kell beszerezni.
