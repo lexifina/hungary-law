@@ -1,20 +1,16 @@
 36. § (1) A Gazdasági Versenyhivatal elnöke
 
-a) irányítja a Gazdasági Versenyhivatal tevékenységét,
+a) vezeti a Gazdasági Versenyhivatalt,
 
 b) képviseli a Gazdasági Versenyhivatalt,
 
-c) megállapítja a Gazdasági Versenyhivatal szervezeti és működési szabályzatát, illetve jóváhagyja a Versenytanács szervezeti és működési szabályzatát,
+c) megállapítja a Gazdasági Versenyhivatal szervezeti és működési szabályzatát, jóváhagyja a Versenytanács szervezeti és működési szabályzatát, meghatározza a Gazdasági Versenyhivatal létszámkeretét, kiadmányozási rendjét,
 
-d) gyakorolja – a Versenytanács tagjainak kinevezése és felmentése kivételével – a munkáltatói jogokat.
+d) gyakorolja – az e törvényben meghatározott kivételekkel – a munkáltatói jogokat a Gazdasági Versenyhivatal elnökhelyettesei, a Versenytanács tagjai, valamint a Gazdasági Versenyhivatal köztisztviselői, közszolgálati ügykezelői és munkavállalói felett, ellátja a Kttv.-ben a hivatali szerv vezetője számára meghatározott feladatokat,
 
-e) kijelöli az 1/2003/EK rendelet szerinti Versenykorlátozó Magatartások és Erőfölényes Helyzetek Tanácsadó Bizottságában, valamint a vállalkozások közötti összefonódások ellenőrzéséről szóló 139/2004/EK tanácsi rendelet (a továbbiakban: 139/2004/EK rendelet) szerinti Összefonódások Tanácsadó Bizottságában a Gazdasági Versenyhivatalt képviselő személyeket,
+e) kijelöli az 1/2003/EK tanácsi rendelet szerinti Versenykorlátozó Magatartások és Erőfölényes Helyzetek Tanácsadó Bizottságában, valamint a 139/2004/EK tanácsi rendelet szerinti Összefonódások Tanácsadó Bizottságában a Gazdasági Versenyhivatalt képviselő személyeket,
 
-f) irányítja a Gazdasági Versenyhivatal versenykultúrát és a tudatos fogyasztói döntéshozatal kultúráját fejlesztő tevékenységét a verseny társadalmi elfogadottsága, a jogkövető magatartás, a versenybarát, illetve a tudatos fogyasztói döntéshozatalt biztosító szabályozási környezet elősegítése, valamint a fogyasztói tudatosság növelése érdekében. E feladatkörében gondoskodik különösen
-
-fa) a versenypolitikával, valamint a fogyasztói döntéshozatallal és védelmével kapcsolatos tájékozottság növeléséről;
-
-fb) a verseny, valamint a fogyasztói döntéshozatal közgazdasági és jogi kérdéseivel foglalkozó szakmai közélet fejlődéséhez való hozzájárulásról.
+f) irányítja a Gazdasági Versenyhivatal versenykultúrát és a tudatos fogyasztói döntéshozatal kultúráját fejlesztő tevékenységét.
 
 (2) A Gazdasági Versenyhivatal elnöke
 
@@ -26,9 +22,9 @@ c) évente beszámol az Országgyűlésnek, illetve külön felkérésre az Orsz
 
 d) a Kormány ülésén a Gazdasági Versenyhivatal feladatkörét érintő kérdések tárgyalásakor tanácskozási joggal vesz részt.
 
-(3) A Gazdasági Versenyhivatal elnökével – a (4) bekezdésben foglaltak kivételével – egyeztetni kell minden olyan tervezett intézkedést és jogszabály-koncepciót, illetve tervezetet, amely érinti a hivatal feladatkörét, így különösen, ha a tervezett intézkedés vagy jogszabály a versenyt – valamely tevékenység gyakorlását vagy a piacra lépést – korlátozza, kizárólagossági jogokat biztosít, továbbá az árakra vagy az értékesítési feltételekre vonatkozó előírásokat tartalmaz.
+(3)
 
-(4) A Gazdasági Versenyhivatal feladatkörét – a (3) bekezdés szerint – érintő helyi önkormányzati rendelet tervezetének egyeztetését a jegyző kezdeményezheti a Gazdasági Versenyhivatal elnökénél.
+(4)
 
 (5) A Kormány, a miniszterek vagy a nemzetközi szervezetek felkérésére a Gazdasági Versenyhivatal elnöke tájékoztatást ad a gazdasági versenyt érintően a működése során szerzett tapasztalatairól és a gazdasági versennyel kapcsolatos kérdésekről. Ennek érdekében a Gazdasági Versenyhivatal önkéntes válaszadáson alapuló adatgyűjtést végezhet és információt kérhet.
 

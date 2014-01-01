@@ -4,8 +4,10 @@
 
 ## A Gazdasági Versenyhivatal
 
-33. § (1) A Gazdasági Versenyhivatal központi költségvetési szerv, amely a központi költségvetés szerkezeti rendjében önálló fejezetet alkot, költségvetésének kiadási és bevételi főösszegei kizárólag az Országgyűlés által csökkenthetőek.
+33. § (1) A Gazdasági Versenyhivatal autonóm államigazgatási szerv, amely ellátja az e törvényben és a külön törvényben meghatározott versenyfelügyeleti és egyéb feladatokat. A Gazdasági Versenyhivatal ellátja továbbá mindazokat a feladatokat, amelyeket az Európai Unió joga a tagállami versenyhatóság hatáskörébe utal.
 
-(2) Az e törvényben meghatározott versenyfelügyeleti feladatokat a Gazdasági Versenyhivatal látja el, kivéve, ha e törvény eltérően rendelkezik. A Gazdasági Versenyhivatal számára feladatot csak törvény írhat elő.
+(2) A Gazdasági Versenyhivatal feladatai ellátása során csak a törvénynek van alárendelve, feladatkörében nem utasítható, feladatát más szervektől elkülönülten, befolyásolástól mentesen látja el. A Gazdasági Versenyhivatal számára feladatot csak törvény írhat elő.
 
-(3) A Gazdasági Versenyhivatal ellátja mindazokat a feladatokat, amelyeket az európai közösségi versenyszabályok a tagállami versenyhatóság hatáskörébe utalnak.
+(3) A Gazdasági Versenyhivatal véleményezi a feladat- és hatáskörét érintő, továbbá a versenyt – különösen valamely tevékenység gyakorlása, a piacra lépés feltételeinek meghatározása vagy kizárólagossági jogok biztosítása révén – korlátozó vagy a verseny feltételeit – ideértve a verseny szabadságát sértő magatartásokkal szembeni fellépést is – befolyásoló, valamint az árakra vagy az értékesítési feltételekre vonatkozó előírásokat tartalmazó szabályozási koncepciókat, jogszabálytervezeteket az önkormányzati rendeletek kivételével. A jegyző kezdeményezheti az önkormányzati rendelet tervezetének véleményezését a Gazdasági Versenyhivatalnál.
+
+(4) A Gazdasági Versenyhivatal a verseny társadalmi elfogadottsága, a vállalkozások jogkövető magatartásának előmozdítása, a versenybarát, illetve a tudatos fogyasztói döntéshozatalt biztosító szabályozási környezet megalkotásának elősegítése, valamint a fogyasztói tudatosság növelése érdekében – különösen a versenyjog, a verseny- és fogyasztóvédelmi politika körébe tartozó tudományos-oktatási programok, a versenyjoggal, verseny-, illetve fogyasztóvédelmi politikával foglalkozó szakemberek képzésének támogatásával, a versenypolitikával, valamint a fogyasztói döntéshozatallal és az annak védelmével kapcsolatos tájékozottság növelésével – hozzájárul a versenykultúra és a tudatos fogyasztói döntéshozatal kultúrájának fejlesztéséhez, a verseny, valamint a fogyasztói döntéshozatal közgazdasági és jogi kérdéseivel foglalkozó szakmai közélet fejlődéséhez.

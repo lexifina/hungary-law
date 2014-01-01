@@ -1,1 +1,1 @@
-94/A. § Az e törvény hatálya alá eső ügyekben az európai uniós csatlakozással összefüggő egyes törvénymódosításokról, törvényi rendelkezések hatályon kívül helyezéséről, valamint egyes törvényi rendelkezések megállapításáról szóló 2004. évi XXIX. törvény 141–143. §-ai nem alkalmazhatók.
+94/A. § Az e törvény hatálya alá eső ügyekben a panaszokról és a közérdekű bejelentésekről szóló törvény rendelkezései nem alkalmazhatók.

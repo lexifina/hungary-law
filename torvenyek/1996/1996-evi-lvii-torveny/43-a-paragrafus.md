@@ -1,3 +1,5 @@
-43/A. § (1) A Gazdasági Versenyhivatal eljárásaiért fizetendő igazgatási szolgáltatási díj teljes összege a Gazdasági Versenyhivatal saját bevétele, amelyet a Gazdasági Versenyhivatal a működésével kapcsolatos kiadások fedezésére használ fel.
+43/A. § (1) A Gazdasági Versenyhivatalnál közszolgálati jogviszonyban állók képzéséről és továbbképzéséről – a vezetőképzést is ideértve – a Gazdasági Versenyhivatal maga gondoskodik. A képzésre és továbbképzésre vonatkozó részletszabályokat a Gazdasági Versenyhivatal közszolgálati szabályzata határozza meg.
 
-(2) A Gazdasági Versenyhivatal az (1) bekezdés szerinti bevételeiből legfeljebb a tényleges adott évi bevétel 15%-ának megfelelő mértékig tartalékot képezhet. Az így képzett tartalék a következő években kizárólag a működés fedezetére használható fel, az más célra nem vonható el.
+(2) A Gazdasági Versenyhivatalnál közszolgálati jogviszonyban állók teljesítményértékelésének és minősítésének rendjére, eljárására és szintjeire, a kiválasztási eljárásra, a kiválasztás rendjére és feltételeire, a pályáztatás rendjére, annak szervezésére és lebonyolítására vonatkozó részletes szabályokat a Gazdasági Versenyhivatal közszolgálati szabályzata határozza meg.
+
+(3) A Gazdasági Versenyhivatal elnöke határozza meg a Gazdasági Versenyhivatalnál foglalkoztatott közszolgálati tisztviselők részére adható egyéb juttatásokra, a céljuttatásra és kutatási megállapodásra vonatkozó részletes szabályokat.

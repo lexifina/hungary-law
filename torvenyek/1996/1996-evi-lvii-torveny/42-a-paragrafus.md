@@ -1,43 +1,19 @@
-42/A. § (1) A vizsgálót gyakornok, vizsgáló, vizsgáló tanácsos, vizsgáló főtanácsos, vizsgáló vezető főtanácsos kategóriába kell sorolni.
+42/A. § (1) A Gazdasági Versenyhivatalnál foglalkoztatott felsőfokú iskolai végzettségű köztisztviselőt a közszolgálati jogviszonyban eltöltött idejének megfelelően a (2) bekezdésben meghatározott besorolási fokozatba, illetve – a (3) bekezdésben meghatározott esetekben az ott meghatározott – fizetési fokozatokba kell besorolni a Kttv. 118. §-a, 119. §-a, 120. § (1) bekezdése, 121. §-a és 122. §-a megfelelő alkalmazásával.
 
-(2) Az elnök a vizsgálónak elkülönült szervezeti egység vezetésére vizsgáló irodavezetői, valamint – vizsgáló irodavezető helyettesítésére – vizsgáló irodavezető-helyettesi megbízást adhat.
+(2) A köztisztviselő
 
-(3) A vizsgáló gyakornokot öt, a vizsgálót tíz, a vizsgáló tanácsost tizenegy, a vizsgáló főtanácsost tizenkét munkanap pótszabadság illeti meg. A vezetőt megillető pótszabadság mértéke vizsgáló vezető főtanácsosnál, vizsgáló irodavezető-helyettesnél és vizsgáló irodavezetőnél tizenhárom munkanap.
+a) pályakezdőként gyakornok,
 
-(4) A vizsgáló alapilletménye a külön törvényben megállapított illetményalap szerint:
+b) egy év közszolgálati jogviszonyban töltött idő után fogalmazó,
 
-a) a vizsgáló gyakornok esetében az illetményalap 4-szerese,
+c) három év közszolgálati jogviszonyban töltött idő után tanácsos,
 
-b) a vizsgáló esetében az illetményalap 7-szerese,
+d) nyolc év közszolgálati jogviszonyban töltött idő után vezető tanácsos,
 
-c) a vizsgáló tanácsos esetében az illetményalap 7,5-szerese,
+e) tizenhat év közszolgálati jogviszonyban töltött idő után főtanácsos,
 
-d) a vizsgáló főtanácsos esetében az illetményalap 8-szorosa,
+f) huszonöt év közszolgálati jogviszonyban töltött idő után vezető főtanácsos
 
-e) a vizsgáló vezető főtanácsos esetében az illetményalap 8,25-szerese,
+besorolást kap.
 
-f) a vizsgáló irodavezető-helyettes esetében az illetményalap nyolc és félszerese,
-
-g) a vizsgáló irodavezető esetében az illetményalap kilencszerese.
-
-(5) A vezetői illetménypótlék mértéke a vizsgáló főtanácsos esetében az alapilletmény 20%-a, a vizsgáló vezető főtanácsos esetén az alapilletmény 30%-a, a vizsgáló irodavezető-helyettes esetén az alapilletmény 40%-a, a vizsgáló irodavezető esetén az alapilletmény 90%-a.
-
-(6) A vizsgáló
-
-a) pályakezdő köztisztviselőként vizsgáló gyakornoki besorolást kap;
-
-b) vizsgálói besorolást kap, ha a Gazdasági Versenyhivatalban vizsgáló gyakornokként legalább két évet eltöltött és legalább alkalmas minősítésű, vagy a szakterületén legalább három év szakmai gyakorlattal rendelkezik.
-
-(7) A vizsgáló
-
-a) vizsgáló tanácsosi besorolást kap, ha két év vizsgáló gyakorlatot szerzett, alkalmas minősítésű és közigazgatási szakvizsgával vagy azzal egyenértékű képesítéssel rendelkezik;
-
-b) vizsgáló főtanácsosi besorolást kaphat, ha legmagasabb fokozatú minősítéssel és közigazgatási szakvizsgával vagy azzal egyenértékű képesítéssel rendelkezik;
-
-c) vizsgáló vezető főtanácsosi besorolást kaphat a munkáját kimagasló színvonalon végző, különleges felelősséggel felruházott vizsgáló főtanácsos.
-
-(8) Vizsgáló irodavezetői, vizsgáló irodavezető-helyettesi megbízást közigazgatási szakvizsgával vagy azzal egyenértékű képesítéssel rendelkező köztisztviselő kaphat.
-
-(9)
-
-(10) A Gazdasági Versenyhivatal alaptevékenységét elősegítő munkakörben foglalkoztatott, nem felsőfokú végzettségű köztisztviselők illetménykiegészítésének mértéke az alapilletmény 50%-a.
+(3) A (2) bekezdés a) és b) pontja szerinti besorolási fokozaton belül nincsenek fizetési fokozatok, a c)–f) pontja szerinti besorolási fokozat I. és II. fizetési fokozatokból áll. A tanácsos besorolású köztisztviselőt öt év közszolgálati jogviszonyban eltöltött idő után tanácsos II. fizetési fokozatba, a vezető tanácsos besorolású köztisztviselőt tizenkét év közszolgálati jogviszonyban töltött idő után vezető tanácsos II. fizetési fokozatba, a főtanácsos besorolású köztisztviselőt húsz év közszolgálati jogviszonyban töltött idő után főtanácsos II. fizetési fokozatba, a vezető főtanácsos besorolású köztisztviselőt harminc év közszolgálati jogviszonyban töltött idő után vezető főtanácsos II. fizetési fokozatba kell besorolni.

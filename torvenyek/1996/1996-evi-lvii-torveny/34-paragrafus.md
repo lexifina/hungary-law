@@ -1,1 +1,1 @@
-34. § A Gazdasági Versenyhivatalnál közszolgálati jogviszonyban állókra az e törvényben meghatározott eltérésekkel a közszolgálati tisztviselőkről szóló törvény rendelkezéseit kell alkalmazni.
+34. § A Gazdasági Versenyhivatal elnökének, elnökhelyetteseinek, valamint a Versenytanács tagjainak a jogviszonyára – az e törvényben foglalt eltérésekkel – a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény (a továbbiakban: Kttv.) rendelkezéseit kell alkalmazni.
