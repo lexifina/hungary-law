@@ -10,13 +10,11 @@
 
 (6) A Hivatal indokolt kérelemre, különös méltánylást érdemlő esetben a 31/D. § (2) bekezdése szerint kiadott támogatási igazolásokat az addig összesen elszámolt és igazolt filmgyártási költségek egészére tekintettel állítja ki a 12. § (10) bekezdésében foglalt arány, valamint a jogdíj, a produceri díj és a gyártáshoz kapcsolódó elszámolható reklámköltségek tekintetében alkalmazandó elszámolási limitek korrekciója, továbbá a 31/E. § (2) bekezdése alapján a kérelemben feltüntetett időszakban figyelembe nem vett, pénzügyileg teljesített költség érvényesíthetősége érdekében. E bekezdés alkalmazásában különös méltánylást érdemlő esetnek minősül, ha az egyedi ügyben megvalósuló jogsértés súlya aránytalanul kisebb az e törvényben meghatározott célok megvalósulásának társadalmi hasznosságánál.
 
-(7) A közvetett támogatás forrását biztosító szervezet az MNF-fel kötött megállapodás alapján a közvetett támogatás forrását a letéti számlára utalja. A letéti számlára a tárgyévben befizetett összeg
+(7) A közvetett támogatás forrását biztosító szervezet az MNF-fel kötött megállapodás alapján a közvetett támogatás forrását a letéti számlára utalja. A letéti számlára a tárgyévben befizetett összeg a Tao. tv. 22. § (8) bekezdés a) pontja szerinti kiegészítő támogatás nélkül
 
-a) a 2012. évben a 3000,0 millió forintot,
+a) a 2013. évben a 9700,0 millió forintot,
 
-b) a 2013. évben a 9700,0 millió forintot,
-
-c) a 2014. évben a 7000,0 millió forintot.
+b) a 2014. évben a 7000,0 millió forintot
 
 nem haladhatja meg.
 

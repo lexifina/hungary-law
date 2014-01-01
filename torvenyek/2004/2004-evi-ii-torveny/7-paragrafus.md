@@ -2,7 +2,7 @@
 
 a) a központi költségvetésből nyújtott költségvetési támogatás és a helyi önkormányzat, nemzetiségi önkormányzat által, saját költségvetéséből nyújtott támogatás (a továbbiakban együtt: közvetlen támogatás) és
 
-b) a társasági adó alanya által a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvényben (a továbbiakban: Tao. tv.) meghatározott adókedvezményre tekintettel biztosított forrásból nyújtott támogatás (a továbbiakban: közvetett támogatás)
+b) a társasági adó alanya által a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvényben (a továbbiakban: Tao. tv.) meghatározott adókedvezményre tekintettel biztosított, valamint a Tao. tv.-ben meghatározott kiegészítő támogatásból származó forrásból nyújtott támogatás (a továbbiakban: közvetett támogatás)
 
 útján valósul meg.
 

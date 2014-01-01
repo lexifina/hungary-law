@@ -14,4 +14,4 @@
 
 (8) Valamely rendezvényről készített filmalkotás esetén csak a filmgyártáshoz közvetlenül kapcsolódó olyan költségek számolhatók el, amelyek nem a rendezvény létrehozásához kapcsolódnak. Ha a rendezvény létrehozásához és a filmgyártáshoz kapcsolódó költségek nem különíthetőek el egyértelműen, akkor azok nem számolhatók el közvetlen filmgyártási költségként.
 
-(9) Nem számolható el közvetlen filmgyártási költségként az a költség, amelyre vonatkozóan a pénzügyi teljesítést váltó kibocsátásával, vagy termékek és szolgáltatások beszámításával valósítják meg.
+(9) Nem számolható el közvetlen filmgyártási költségként az a költség, amelyre vonatkozóan a pénzügyi teljesítést váltó kibocsátásával vagy termékek és szolgáltatások beszámításával valósítják meg, kivéve az MNF által nyújtott termékértékesítéseknek és szolgáltatásoknak azon ellenértékét, amelyet az MNF az általa pénzügyileg folyósított támogatásból visszatart vagy a támogatás részeként biztosít.
