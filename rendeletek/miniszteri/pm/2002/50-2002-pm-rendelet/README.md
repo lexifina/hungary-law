@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-50-20-5
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2005-07-29 | 2002-50-20-53.4 | 50/2002. (XII. 29.) PM rendelet |
+| 2014-01-01 | 2002-50-20-53.5 | 77/2013. (XII. 31.) NGM rendelet |
