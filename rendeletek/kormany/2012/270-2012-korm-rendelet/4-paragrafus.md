@@ -70,8 +70,10 @@ d) olyan kutatás-fejlesztési projekt létrehozására vonatkozó beruházás, 
 
 26. támogatástartalom: a beruházó számára, akár több forrásból nyújtott állami támogatásnak a Kormányrendelet 2. mellékletében meghatározott módszer alapján számított összege,
 
-27. támogató: a fejlesztéspolitikáért felelős miniszter,
+27.[^1]
 
 28. turizmust fejlesztő tevékenység: olyan tevékenység, amely turisztikai szolgáltatásokat, termékeket hoz létre, bővíti azok kínálatát, javítja minőségét, a fogadóképességet, növeli a meglévő turisztikai, vagy az azokhoz kapcsolódó létesítmények működési színvonalát, kivéve a kizárólag szálláshely fejlesztésére irányuló tevékenységet,
 
 29. újonnan létesített munkahelyek száma: a beruházás eredményeként közvetlenül létrejött új munkahelyek, amelyek a beruházáshoz köthető tevékenységhez kapcsolódnak, ideértve az olyan munkahelyeket is, amelyek a beruházás által létrehozott kapacitás kihasználtsági arányának növelése következtében jöttek létre, a beruházás megkezdését megelőző 12 hónap átlagos statisztikai állományi létszámmal összehasonlítva, azzal, hogy az újonnan létrehozott munkahelyek számának megállapításakor a részmunkaidős és az idénymunkás alkalmazottak a teljes munkaidőben alkalmazottak arányos törtrészének felelnek meg.
+
+[^1]: A 4. § 27. pontját az 550/2013. (XII. 30.) Korm. rendelet 80. §-a hatályon kívül helyezte.
