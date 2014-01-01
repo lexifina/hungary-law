@@ -30,7 +30,7 @@ j)[^19] élelmiszer felhasználása, forgalmazása, továbbá termény, takarmá
 
 a)[^21] a közegészségügyi követelményének való megfelelés kérdésében fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalának járási (fővárosi kerületi) népegészségügyi intézetét,
 
-b)[^22] az élelmiszer-higiéniai és állat-egészségügyi követelményeknek való megfelelés kérdésében az élelmiszerlánc-biztonsági és állategészségügyi igazgatóságot
+b)[^22] élelmiszer vagy állat vásári értékesítése esetén az élelmiszer-higiénia és állategészségügyi követelményeknek való megfelelés kérdésében az élelmiszerlánc-biztonsági és állat-egészségügyi igazgatóságot
 
 ## szakhatóságként jelöli ki.
 
@@ -75,7 +75,7 @@ l) a nyilvántartásból való törlés tényét, annak időpontját.
 [^19]: A 4. § (3) bekezdés j) pontja a 351/2010. (XII. 30.) Korm. rendelet 235. § (1) bekezdésével megállapított szöveg.
 [^20]: A 4. § (4) bekezdés nyitó szövegrésze a 212/2009. (IX. 29.) Korm. rendelet 9. § (2) bekezdés b) pontja, a (3) bekezdés a) pontja, a 414/2012. (XII. 29.) Korm. rendelet 15. § (1) bekezdés g) pont ga) alpontja szerint módosított szöveg.
 [^21]: A 4. § (4) bekezdés a) pontja a 351/2010. (XII. 30.) Korm. rendelet 235. § (2) bekezdése, a 174/2012. (VII. 26.) Korm. rendelet 56. § a) pontja szerint módosított szöveg.
-[^22]: A 4. § (4) bekezdés b) pontja a 351/2010. (XII. 30.) Korm. rendelet 235. § (2) bekezdése szerint módosított szöveg.
+[^22]: A 4. § (4) bekezdés b) pontja az 515/2013. (XII. 30.) Korm. rendelet 24. §-ával megállapított szöveg.
 [^23]: A 4. § (5) bekezdése a 260/2011. (XII. 7.) Korm. rendelet 3. § (2) bekezdésével megállapított és a 414/2012. (XII. 29.) Korm. rendelet 15. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^24]: A 4. § (5a) bekezdését a 203/2013. (VI. 14.) Korm. rendelet 14. § (1) bekezdése iktatta be.
 [^25]: A 4. § (6) bekezdés nyitó szövegrésze a 212/2009. (IX. 29.) Korm. rendelet 9. § (2) bekezdés b) pontja, a (3) bekezdés a) pontja, a 414/2012. (XII. 29.) Korm. rendelet 15. § (1) bekezdés g) pont ga) alpontja szerint módosított szöveg.
