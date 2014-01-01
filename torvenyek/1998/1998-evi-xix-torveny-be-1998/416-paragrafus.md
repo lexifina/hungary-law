@@ -30,6 +30,8 @@ a) az (1) bekezdés a) és b) pontja esetében, ha az ügyben harmadfokú bíró
 
 b) a Kúria jogegységi eljárása alapján, felülvizsgálat során vagy a törvényesség érdekében bejelentett jogorvoslat alapján hozott határozata ellen,
 
-c) ha a törvénysértés különleges eljárás (XXIX. Fejezet I–II. Cím) lefolytatásával orvosolható.
+c) ha a törvénysértés különleges eljárás (XXIX. Fejezet I–II. Cím) lefolytatásával orvosolható,
+
+d) a terhelt terhére az (1) bekezdés a) pontjában írt okból magánvádas eljárásban vagy pótmagánvád alapján folytatott eljárásban.
 
 (5) A büntetőügyben hozott jogerős határozatnak kizárólag a polgári jogi igény vagy a szülői felügyeleti jog megszüntetése kérdésében hozott rendelkezése ellen a Polgári perrendtartás szabályai szerint van helye felülvizsgálati kérelem előterjesztésének.

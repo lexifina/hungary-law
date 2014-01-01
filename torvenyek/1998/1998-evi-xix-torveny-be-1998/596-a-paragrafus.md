@@ -12,17 +12,15 @@ d) az elektronikus adat végleges hozzáférhetetlenné tételére vonatkozóan 
 
 (2) Az (1) bekezdés a) pontja esetén az elektronikus adat végleges hozzáférhetetlenné tétele végrehajtásának a hozzáférés végleges megakadályozásával történő elrendeléséről az ügydöntő határozatot hozó bíróság dönt.
 
-(3) Az elektronikus adat végleges hozzáférhetetlenné tétele végrehajtásának a hozzáférés végleges megakadályozásával történő elrendelése tárgyában hozott határozattal szemben
-
-a) az ügyész és az elektronikus adat feletti rendelkezésre jogosult a határozat közlésétől,
-
-b) az elektronikus hírközlési szolgáltató és az elektronikus adat feletti rendelkezésre jogosult - ha az ismeretlen - a 158/D. § (3) bekezdése szerinti hirdetményi úton történő kézbesítéstől
-
-számított nyolc napon belül fellebbezhet.
+(3) Az elektronikus adat végleges hozzáférhetetlenné tétele végrehajtásának a hozzáférés végleges megakadályozásával történő elrendelése tárgyában hozott határozattal szemben az ügyész a határozat közlésétől, az elektronikus hírközlési szolgáltató az erről szóló értesítéstől és az elektronikus adat feletti rendelkezésre jogosult a határozat közlésétől – ideértve a 158/D. § (3) bekezdése szerinti hirdetményi úton történő kézbesítést is, ha az elektronikus adat feletti rendelkezésre jogosult ismeretlen – számított nyolc napon belül fellebbezhet.
 
 (4) Ha az elektronikus adat végleges hozzáférhetetlenné tétele végrehajtásának a hozzáférés végleges megakadályozásával történő elrendeléséről a (2) bekezdés alapján a másodfokú bíróság döntött, a fellebbezés elbírálására a XIV. Fejezet IV. Címe megfelelően irányadó.
 
-(5) A bíróság az ügyész indítványára az elektronikus adat végleges hozzáférhetetlenné tétele végrehajtásának a hozzáférés végleges megakadályozásával történő végrehajtását megszünteti, ha a tárhelyszolgáltató teljesíti az elektronikus adat ideiglenes eltávolítására vonatkozó kötelezettségét.
+(5) A bíróság az ügyész indítványára az elektronikus adat végleges hozzáférhetetlenné tétele végrehajtásának a hozzáférés végleges megakadályozásával történő végrehajtását megszünteti, ha a tárhelyszolgáltató teljesíti az elektronikus adat végleges eltávolítására vonatkozó kötelezettségét.
+
+(6) A bíróság az elektronikus adat végleges hozzáférhetetlenné tételének a hozzáférés végleges megakadályozásával történő elrendeléséről, illetve annak az (5) bekezdés szerinti megszüntetéséről szóló határozatáról elektronikus úton haladéktalanul értesíti az NMHH-t. Az elektronikus adat végleges hozzáférhetetlenné tételének a hozzáférés végleges megakadályozásával történő végrehajtását az NMHH szervezi és ellenőrzi. Az NMHH az elrendelésről szóló határozattal kapcsolatosan a 158/D. § (5) bekezdése, a megszüntetésről szóló határozattal kapcsolatosan a 158/D. § (7) és (9) bekezdése szerint jár el.
+
+(7) A bíróság hivatalból vagy az ügyész indítványára az elektronikus hírközlési szolgáltatóval szemben az elektronikus adathoz való hozzáférés végleges megakadályozására vagy a hozzáférés újbóli biztosítására vonatkozó kötelezettség elmulasztása miatt százezer forinttól egymillió forintig terjedő rendbírságot szabhat ki. A rendbírság ismételten is kiszabható. A rendbírságot kiszabó határozattal szemben halasztó hatályú fellebbezésnek van helye.
 
 III. CÍM
 

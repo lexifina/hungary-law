@@ -1,20 +1,20 @@
-## Biztosítási intézkedés
+160. § (1) A zár alá vételt fel kell oldani, ha
 
-160. § (1) A biztosítási intézkedés a zár alá vétel érdekében annak ideiglenes megakadályozása, hogy a terhelt vagy más érdekelt az ingó és ingatlan vagyona, vagyoni jogot megtestesítő értékpapírjai, pénzintézetnél szerződés alapján kezelt pénzeszközei, gazdálkodó szervezet vagyonából az őt megillető üzletrész vagy vagyoni hányad feletti rendelkezési jogát gyakorolja.
+a) az elrendelésének oka megszűnt, ha a nyomozást megszüntették, illetve annak határideje lejárt, kivéve, ha a zár alá vett dolog, vagyoni értékű jog, követelés vagy szerződés alapján kezelt pénzeszköz feletti rendelkezési jogot magának követelő személy a követelése érdekében hatvan napon belül polgári eljárást indított,
 
-(2) Az ügyész, illetőleg a nyomozó hatóság biztosítási intézkedést alkalmazhat, ha a zár alá vétel feltételeinek fennállása valószínűsíthető, és a terhelt az (1) bekezdésben meghatározott vagyona elrejtését, rendelkezési jogának átruházását, elidegenítését vagy megterhelését megkísérli, illetőleg ha ez megalapozottan feltehető.
+b) a zár alá vételt meghatározott összeg biztosítására rendelték el, és ezt az összeget bírói letétbe helyezték,
 
-(2a) Az ügyész, illetőleg a nyomozó hatóság biztosítási intézkedést akkor is alkalmazhat, ha az a kölcsönzött kulturális javak különleges védelméről szóló törvényben meghatározott különleges védelem időtartama alatt nem hajtható végre.
+c) az eljárást vagyonelkobzás alkalmazása nélkül fejezték be, illetve a polgári jogi igényt elutasították,
 
-(3) Biztosítási intézkedésként a nyomozó hatóság, illetve az ügyész az (1) bekezdésben meghatározott dolgokat – az ingatlan kivételével – lefoglalja, vagy a 61. §-ban felsorolt hatóságokat keresi meg a hatáskörükbe tartozó intézkedések elvégzése érdekében. A hatóságok az intézkedéseket haladéktalanul kötelesek megtenni, és ennek megtörténtéről a nyomozó hatóságot, illetve az ügyészt haladéktalanul tájékoztatni.
+d) a polgári jogi igény megítélése esetén a magánfél a megállapított teljesítési határidő lejártától számított harminc napon belül nem kért végrehajtást,
 
-(4) A nyomozó hatóság, illetőleg az ügyész a 61. §-ban fel nem sorolt más szerveket, gazdálkodó szervezeteket is megkereshet a terhelt vagyonának zárolása és a biztosítási intézkedés nyilvántartásba vétele céljából. A megkeresett szervek a biztosítási intézkedés elvégzésére vonatkozó megkeresést haladéktalanul nyilvántartásba veszik, gondoskodnak a vagyon zárolásáról, és ezek megtörténtéről a megkeresést intéző nyomozó hatóságot, illetőleg ügyészt tájékoztatni kötelesek.
+e) a polgári jogi igény egyéb törvényes útra utasítása esetén az ügyész, illetve a magánfél hatvan napon belül nem igazolta, hogy az igényét érvényesítette.
 
-(5) A biztosítási intézkedés elsősorban azzal szemben alkalmazható, akinek a zár alá vétel a rendelkezési jogát függesztené fel. Alkalmazható más olyan személlyel szemben is, aki a terhelttel – a dolog elrejtése, rendelkezési jogának átruházása, elidegenítésének megkísérlése céljából – kapcsolatot tart, vagy megalapozottan feltehető, hogy kapcsolatba lép.
+(2) Az (1) bekezdés a), d) és e) pontja szerinti határidőt a zár alá vételt feloldó, a nyomozást megszüntető, a polgári jogi igény megítélésére, illetve az egyéb törvényes útra utasítására vonatkozó határozat közlésétől kell számítani.
 
-(6) A biztosítási intézkedés nyilvántartásba vételét követően a biztosítási intézkedést elszenvedő a rendelkezési jog átmeneti jellegű korlátozását tűrni köteles.
+(3) Az 54. § (2a) bekezdése szerinti polgári jogi igénynek a Polgári perrendtartás szerint határkörrel és illetékességgel rendelkező bíróságnak történő megküldése esetén a zár alá vételt nem kell feloldani.
 
-(7) A biztosítási intézkedést követően a zár alá vétel elrendelését haladéktalanul indítványozni kell, és – ha ez a foganatosítást nem veszélyezteti – az érintettet értesíteni kell. Ha a zár alá vételt a bíróság nem rendelte el, a biztosítási intézkedést haladéktalanul fel kell oldani.
+(4) A zár alá vételt a vádirat benyújtásáig az ügyész is feloldhatja.
 
 X. CÍM
 

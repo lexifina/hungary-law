@@ -1,6 +1,6 @@
-485/B. § (1) A megfenyített és védője – ha a külön törvényben meghatározott panaszjogát kimerítette – a jogerős parancsnoki döntést követő három napon belül a fegyelmi eljárásra utalt bűncselekmény miatt fenyítést kiszabó határozat vagy parancs bírósági felülvizsgálatát kérheti. A kérelem elbírálásáig a fenyítés nem hajtható végre.
+485/B. § (1) A megfenyített és védője – ha a külön törvényben meghatározott panaszjogát kimerítette – a jogerős fegyelmi döntést követő három napon belül a fegyelmi eljárásra utalt bűncselekmény miatt fenyítést kiszabó határozat vagy parancs bírósági felülvizsgálatát kérheti. A kérelem elbírálásáig a fenyítés nem hajtható végre.
 
-(2) A kérelmet a fenyítést kiszabó parancsnoknál kell előterjeszteni, aki azt az ügy irataival együtt huszonnégy órán belül megküldi a területileg illetékes törvényszék katonai tanácsának. A kérelem a tárgyalás megkezdéséig visszavonható.
+(2) A kérelmet a fenyítést kiszabó fegyelmi jogkör gyakorlójánál kell előterjeszteni, aki azt az ügy irataival együtt egy napon belül megküldi a területileg illetékes törvényszék katonai tanácsának. A kérelem a tárgyalás megkezdéséig visszavonható.
 
 (3) A bíróság
 
@@ -8,9 +8,9 @@ a) egyesbíróként jár el,
 
 b) a kérelmet három napon belül, tárgyaláson, a megfenyített meghallgatása és az iratok alapján bírálja el; szükség esetén további bizonyítást vesz fel,
 
-c) a tárgyalás időpontjáról értesíteni kell a fenyítést kiszabó parancsnokot és a katonai ügyészt.
+c) a tárgyalás időpontjáról értesíteni kell a fenyítést kiszabó fegyelmi jogkör gyakorlóját és a katonai ügyészt.
 
-(4) A tárgyaláson a parancsnok és az ügyész felszólalhat. Ha írásban kívánnak nyilatkozni, a nyilatkozatot a tárgyalás megkezdése előtt kell a bíróságnak megküldeni.
+(4) A tárgyaláson a fegyelmi jogkör gyakorlója és az ügyész felszólalhat. Ha írásban kívánnak nyilatkozni, a nyilatkozatot a tárgyalás megkezdése előtt kell a bíróságnak megküldeni.
 
 (5) A bíróság a kérelmet végzéssel bírája el.
 

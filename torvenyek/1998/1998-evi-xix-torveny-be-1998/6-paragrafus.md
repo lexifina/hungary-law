@@ -14,6 +14,8 @@ c) – az e törvényben meghatározott kivételekkel – büntethetőséget kiz
 
 d) a terhelt cselekményét már jogerősen elbírálták, kivéve a Negyedik Részben, valamint a XXIX. Fejezet II. és III. Címében meghatározott eljárások esetét.
 
+(3a) Büntetőeljárást nem lehet indítani, a már megindult büntetőeljárást meg kell szüntetni, ha a cselekmény nem tartozik a magyar joghatóság alá.
+
 (4) A Negyedik Részben meghatározott eljárásokat (rendkívüli jogorvoslat), kivéve a (3) bekezdés d) pontja az irányadó akkor is, ha az elkövető egy cselekménye több bűncselekményt valósít meg, a bíróság azonban – a vád szerinti minősítésnek megfelelően – nem a vádirati tényállás szerint megállapítható valamennyi bűncselekmény miatt állapítja meg a terhelt bűnösségét.
 
 (5) Azzal szemben, akinek a felelősségét a bíróság szabálysértési eljárásban hozott határozatával állapította meg, azonos tényállás mellett büntetőeljárás – a szabálysértésekről szóló törvényben meghatározott perújítási eljárás lefolytatása előtt – nem indítható.

@@ -14,6 +14,6 @@ e) a kényszergyógykezelés elrendelése ellen – a vádlott hozzájárulása 
 
 (2) Az ügyész a vádlott terhére és javára is, a pótmagánvádló kizárólag a vádlott terhére fellebbezhet.
 
-(3) A másodfokú bíróság határozata elleni fellebbezést a határozat kihirdetését követően a jelenlévő jogosultak szóban, a többi jogosult a kézbesítéstől számított nyolc napon belül írásban jelenthetik be a másodfokú bíróságnál.
+(3) A másodfokú bíróság határozata elleni fellebbezést a határozat kihirdetését követően a jelen lévő jogosultak szóban bejelenthetik vagy erre háromnapi határidőt tarthatnak fenn. A többi jogosult a fellebbezést a kézbesítéstől számított nyolc napon belül írásban jelentheti be a másodfokú bíróságnál.
 
 (4) A fellebbezést az ügyésznek és a védőnek írásban indokolnia kell. Az indokolást a fellebbezésre nyitva álló határidő alatt a másodfokú bíróságnál kell előterjeszteni.

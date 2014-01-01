@@ -1,6 +1,6 @@
 ## A motozás
 
-150. § (1) A motozás bizonyítási eszköz vagy elkobozható, illetőleg vagyonelkobzás alá eső dolog megtalálása céljából a terhelt és az olyan személy ruházatának és testének átvizsgálása, akiről megalapozottan feltehető, hogy bizonyítási eszközt vagy elkobozható, illetőleg olyan dolgot tart magánál, amely vagyonelkobzás alá eshet. A motozás során a motozás alá vont személy rendelkezése alatt álló jármű, csomag és más tárgy is átvizsgálható.
+150. § (1) A motozás bizonyítási eszköz vagy elkobozható, illetőleg vagyonelkobzás alá eső dolog megtalálása céljából a terhelt és az olyan személy ruházatának és testének átvizsgálása, akiről megalapozottan feltehető, hogy bizonyítási eszközt vagy elkobozható, illetőleg olyan dolgot tart magánál, amely vagyonelkobzás alá eshet. A motozás során a motozás alá vont személy rendelkezése alatt álló csomag és más tárgy is átvizsgálható.
 
 (2) Motozást az ügyész, illetőleg a nyomozó hatóság rendel el. Ha a motozást az ügyész rendeli el, végrehajtásához a nyomozó hatóságot veszi igénybe.
 

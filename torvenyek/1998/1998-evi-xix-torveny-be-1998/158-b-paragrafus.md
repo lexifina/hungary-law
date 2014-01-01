@@ -14,4 +14,4 @@ b) elektronikus adathoz való hozzáférés ideiglenes megakadályozásával.
 
 (5) Az elektronikus adat ideiglenes hozzáférhetetlenné tételének teljesítésére kötelezett a bíróság megnevezésével és a határozat számának a megjelölésével tájékoztatja a felhasználókat a tartalom eltávolításának vagy a tartalomhoz hozzáférés megakadályozásának a jogalapjáról.
 
-(6) A (4) bekezdés a) pontja szerinti ideiglenes hozzáférhetetlenné tétel és a számítástechnikai rendszer útján rögzített adatok megőrzésére kötelezés együttesen is elrendelhető.
+(6) A (4) bekezdés a) pontja szerinti ideiglenes hozzáférhetetlenné tétel és az információs rendszerben tárolt adatok megőrzésére kötelezés együttesen is elrendelhető.

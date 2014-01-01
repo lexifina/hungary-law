@@ -1,4 +1,4 @@
-195. § (1) Akire nézve az ügyész vagy a nyomozó hatóság feljelentés elutasításáról, a nyomozás részbeni mellőzéséről, felfüggesztéséről, illetve megszüntetéséről, kényszerintézkedés elrendeléséről (VIII. Fejezet) további vagyoni jogok vagy érdekek korlátozásáról, valamint vagyoni jellegű kötelezettségek megállapításáról hozott határozata közvetlen rendelkezést tartalmaz, a határozat ellen a közléstől számított nyolc napon belül panasszal élhet.
+195. § (1) Akire nézve az ügyész vagy a nyomozó hatóság határozata közvetlen rendelkezést tartalmaz – ha e törvény kivételt nem tesz –, a határozat ellen a közléstől számított nyolc napon belül panasszal élhet.
 
 (2) A feljelentő – a (2a) bekezdésben foglalt kivétellel – nem élhet panasszal a feljelentés elutasítása miatt, ha a bűncselekménynek nem sértettje.
 
@@ -10,7 +10,7 @@
 
 (5) A panasz elbírálásáról a panaszt tevőt – a határozat hatályon kívül helyezése, illetőleg a megváltoztatása esetén azokat is, akikkel a határozatot közölték – értesíteni kell. A panaszt elbíráló határozat ellen további jogorvoslatnak – a (6) bekezdés eseteit kivéve – nincs helye.
 
-(6) A 149. § (3) bekezdése, a 150. § (2) bekezdése, a 151. § (4) bekezdése, valamint a 153. § (2) bekezdése szerinti határozat, továbbá a 151. § (2) bekezdése szerinti ügyészi határozat elleni panaszt elutasító határozat ellen a kézbesítéstől számított nyolc napon belül a határozatot hozó ügyészségnél felülbírálati indítvány terjeszthető elő, az ügyészség a felülbírálati indítványt az iratokkal és indítványával együtt három napon belül megküldi a bíróságnak.
+(6) A 70/B. § (8) bekezdése, a 149. § (3) bekezdése, a 150. § (2) bekezdése, a 151. § (4) bekezdése, valamint a 153. § (2) bekezdése szerinti határozat, továbbá a 151. § (2) bekezdése és a 155. § (1) bekezdése szerinti ügyészi határozat elleni panaszt elutasító határozat ellen a kézbesítéstől számított nyolc napon belül a határozatot hozó ügyészségnél felülbírálati indítvány terjeszthető elő, az ügyészség a felülbírálati indítványt az iratokkal és indítványával együtt három napon belül megküldi a bíróságnak.
 
 (6a) Az őrizetbe vételt elrendelő határozat ellen tett panasz elbírását mellőzni kell, ha az ügyész a terhelt előzetes letartóztatásának elrendelésére indítványt tesz a bíróságnak.
 

@@ -20,7 +20,7 @@ h) a kábítószer-élvező gyanúsított önként alávetette magát a kábít�
 
 i) az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló törvény alapján konzultációs eljárás lefolytatására kerül sor.
 
-(2) A nyomozást folytatni kell, ha a felfüggesztés oka megszűnt, illetve az (1) bekezdés g) pontja esetén, ha a nemzetközi büntető bíróság alapokmányát kihirdető, illetve alapokmányából fakadó kötelezettségek végrehajtásáról szóló törvény azt előírja.
+(2) A nyomozást folytatni kell, ha a felfüggesztés oka megszűnt, illetve az (1) bekezdés g) pontja esetén, ha a nemzetközi büntető bíróság alapokmányát kihirdető, illetve alapokmányából fakadó kötelezettségek végrehajtásáról szóló törvény azt előírja. A nyomozás folytatását elrendelő határozat ellen nincs helye panasznak.
 
 (3) Az ügyész legfeljebb egyéves határidőt állapíthat meg
 
@@ -28,7 +28,7 @@ a) a külföldön tartózkodónak a visszatérésre,
 
 b) az érdekeltnek kereset benyújtására, a személyi állapot kérdésének eldöntése érdekében,
 
-c)
+c) ha a nyomozást az (1) bekezdés h) pontja alapján függeszti fel.
 
 (4) Ha az ügyész által megállapított határidő eredménytelenül telt el, az eljárást folytatni kell.
 

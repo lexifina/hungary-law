@@ -20,4 +20,6 @@ h) vizsgálja, szükséges-e kényszerintézkedéssel kapcsolatban határozni.
 
 (2) A tanács elnöke az ügy érkezésétől számított hatvan napon belül a lehető legközelebbi határnapra a fellebbezés elbírálására tanácsülést, nyilvános ülést vagy tárgyalást tűz ki.
 
+(2a) A bíróság elrendelheti, hogy az ügyben öt hivatásos bíróból álló tanács járjon el, ha ezt a vádlottak nagy száma, az ügy különösen nagy terjedelme vagy az ügy jellege indokolja.
+
 (3) A másodfokú bíróság a tárgyalás előtt bizonyítást rendelhet el, és a tanács elnöke az emiatt szükséges intézkedéseket megteheti.

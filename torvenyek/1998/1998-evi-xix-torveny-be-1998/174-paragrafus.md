@@ -12,7 +12,9 @@ d) eljárás halál, elévülés vagy kegyelem folytán nem indítható,
 
 e) a magánindítvány vagy feljelentés hiányzik,
 
-f) a cselekményt már jogerősen elbírálták.
+f) a cselekményt már jogerősen elbírálták,
+
+g) a cselekmény elbírálására a magyar hatóságnak nincs joghatósága.
 
 (2) Az (1) bekezdés a)–b), valamint d)–f) pontjában meghatározott esetekben, továbbá, ha a büntethetőséget a gyermekkor zárja ki [Btk. 15. § a) pont], a feljelentés elutasítására a nyomozó hatóság is jogosult.
 

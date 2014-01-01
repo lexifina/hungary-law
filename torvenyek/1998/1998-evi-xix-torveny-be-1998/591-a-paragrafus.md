@@ -12,7 +12,7 @@ b) az (1) bekezdés alapján engedélyezett halasztást meghosszabbíthatja.
 
 a) a tizenkettedik hetet meghaladó terhes, legfeljebb a szülés várható idejét követő hatodik hónap végéig,
 
-b) hat hónaposnál fiatalabb gyermekét gondozza.
+b) egyévesnél fiatalabb gyermekét gondozza.
 
 (4) A (2) bekezdés esetében a tanács elnöke igazságügyi orvosszakértői szakvélemény alapján állapítja meg a halasztás egészségügyi feltételeinek fennállását, és a Büntetés-végrehajtás Országos Parancsnoksága egészségügyi szolgálata vezetőjének – az elítélt egészségügyi állapotának büntetés-végrehajtás keretei között való kezelhetőségére vonatkozó – nyilatkozatát figyelembe véve határoz a kérelemről.
 

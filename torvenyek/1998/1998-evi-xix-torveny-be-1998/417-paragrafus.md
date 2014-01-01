@@ -2,11 +2,7 @@
 
 417. § (1) Felülvizsgálati indítvány benyújtására jogosult
 
-I. a terhelt terhére:
-
-a) az ügyész,
-
-b) a felmentés vagy az eljárás megszüntetése esetén a magánvádló, illetőleg a pótmagánvádló,
+I. a terhelt terhére az ügyész,
 
 II. a terhelt javára:
 
@@ -21,7 +17,3 @@ d) a fiatalkorú terhelt törvényes képviselője,
 e) a kényszergyógykezelés elrendelése ellen – a terhelt hozzájárulása nélkül is – a nagykorú terhelt törvényes képviselője, házastársa vagy élettársa,
 
 f) a terhelt halála után egyenesági rokona, testvére, házastársa vagy élettársa, illetve amennyiben a terhelt halála óta több, mint ötven év telt el, oldalági rokona.
-
-(2) A 416. § (1) bekezdésének e) és g) pontjában meghatározott esetekben a legfőbb ügyész hivatalból köteles a felülvizsgálati indítványt benyújtani.
-
-(3) Ha bármely bíróság, más hatóság vagy hivatalos személy a hivatali hatáskörében azt észleli, hogy büntetőügyben a terhelt sérelmére felülvizsgálati eljárás alapjául szolgáló törvénysértés történt, köteles erről a legfőbb ügyészt értesíteni.

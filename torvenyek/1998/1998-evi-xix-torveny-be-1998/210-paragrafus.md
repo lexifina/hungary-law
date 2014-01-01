@@ -12,7 +12,9 @@ d) óvadék megállapítása (147. §),
 
 e) elmeállapot megfigyelésének (107. §) elrendelése,
 
-f) bizonyítási cselekmény elvégzése [207. § (3)–(5) bek.].
+f) bizonyítási cselekmény elvégzése [207. § (3)–(5) bek.],
+
+g) az 54. § (2a) bekezdés szerinti polgári jogi igény és ideiglenes intézkedés iránti kérelem.
 
 (2) Az ülés mellőzhető, ha az indítvány tárgya elmeállapot megfigyelésének elrendelése, és azon a gyanúsított az egészségi állapota miatt nem jelenhet meg, illetőleg a jogainak gyakorlására képtelen, továbbá ha az indítvány tárgya óvadék megállapítása, és az előzetes letartóztatás elrendelése a 129. § (2) bekezdésének b) pontjában meghatározott okán kívül más okon is alapult.
 

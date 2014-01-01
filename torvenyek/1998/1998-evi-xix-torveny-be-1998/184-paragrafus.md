@@ -6,9 +6,9 @@
 
 (3) A fogva lévő gyanúsított a kihallgatása előtt a védővel értekezhet.
 
-(4) A nyomozási cselekményen jelen lehet az állam- és jogtudományi kar jogász szakán, illetőleg a Rendőrtiszti Főiskolán hallgatói jogviszony keretében szervezett szakmai gyakorlatát töltő személy, ha ezt az ügyész, illetőleg a nyomozó hatóság engedélyezi, és a jelen lévő gyanúsított, tanú vagy sértett ehhez írásban hozzájárul.
+(4) A nyomozási cselekményen jelen lehet az állam- és jogtudományi kar jogász szakán, illetve a Nemzeti Közszolgálati Egyetem Rendészettudományi Karán hallgatói jogviszony keretében szervezett szakmai gyakorlatát töltő személy, ha ezt az ügyész, illetőleg a nyomozó hatóság engedélyezi, és a jelen lévő gyanúsított, tanú vagy sértett ehhez írásban hozzájárul.
 
-(5) A külföldi állampolgár gyanúsítottkénti vagy tanúkénti kihallgatásán jelen lehet államának konzuli tisztviselője.
+(5) A külföldi állampolgár kérelmére a gyanúsítottkénti vagy a tanúkénti kihallgatásán jelen lehet államának konzuli tisztviselője.
 
 (6) Törvénnyel kihirdetett nemzetközi szerződés rendelkezése alapján
 

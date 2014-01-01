@@ -4,6 +4,8 @@
 
 (2) A magánfél a terhelttel szemben azt a polgári jogi igényt érvényesítheti, amely a vád tárgyává tett cselekmény következtében keletkezett.
 
+(2a) Ha a zsarolás, a csalás, illetve az uzsora-bűncselekmény elkövetési tárgya olyan, a terhelt által lakott vagy a hozzájárulásával más személy által ingyenesen használt ingatlan, amelyben a bűncselekmény elkövetését megelőzően a magánfél lakott, és a polgári jogi igény az ingatlannal kapcsolatos rendelkezési jogot vagy az ingatlan birtoklásának jogát is érinti, a magánfél indítványában ideiglenes intézkedésként kérheti az ingatlan kiürítését és annak a magánfél birtokába bocsátását.
+
 (3) A polgári jogi igény egyéb törvényes úton való érvényesítését nem zárja ki, hogy a sértett magánfélként nem lépett fel.
 
 (4) A polgári jogi igényt – a Polgári perrendtartásban meghatározott feltételek esetén – az ügyész is érvényesítheti.

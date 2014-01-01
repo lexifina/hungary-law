@@ -28,7 +28,7 @@ c) a közvetítői eljárás lefolytatása érdekében, legfeljebb hat hónapra.
 
 (5) Ha az eljárás felfüggesztésének oka megszűnt, illetve a 188. § (1) bekezdésének g) pontja alapján történt felfüggesztés esetén, ha a nemzetközi büntető bíróság alapokmányát kihirdető, illetve alapokmányából fakadó kötelezettségek végrehajtásáról szóló törvény azt előírja, a bíróság az eljárást folytatja.
 
-(6) Ha a Btk. 180. §-ában meghatározott büntethetőséget megszüntető ok miatt az eljárás megszüntetésének lehet helye, és az ügyész a vádemelést a 222. § (2) bekezdése alapján nem halasztotta el, a bíróság az eljárást egyévi időtartamra felfüggeszti, feltéve, hogy a vádlott vállalja a kábítószer-függőséget gyógyító kezelésen, kábítószer-használatot kezelő más ellátáson vagy megelőző-felvilágosító szolgáltatáson való részvételt.
+(6) Ha a Btk. 180. §-ában meghatározott büntethetőséget megszüntető ok miatt az eljárás megszüntetésének lehet helye, és a nyomozást a 188. § (1) bekezdés h) pontja alapján nem függesztették fel, illetve az ügyész a vádemelést a 222. § (2) bekezdése alapján nem halasztotta el, a bíróság az eljárást egyévi időtartamra felfüggeszti, feltéve, hogy a vádlott vállalja a kábítószer-függőséget gyógyító kezelésen, kábítószer-használatot kezelő más ellátáson vagy megelőző-felvilágosító szolgáltatáson való részvételt.
 
 (7) Az eljárást folytatni kell, ha a felfüggesztéstől számított egy éven belül a vádlott nem igazolja, hogy legalább hat hónapig tartó folyamatos, kábítószer-függőséget gyógyító kezelésben, kábítószer-használatot kezelő más ellátásban részesült vagy megelőző-felvilágosító szolgáltatáson vett részt, illetőleg ha az ügyész a vádlott ellen kábítószerrel visszaélés miatt újabb vádiratot nyújtott be.
 

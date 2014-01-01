@@ -8,4 +8,4 @@
 
 (4) Több terhelt érdekében ugyanaz a védő akkor járhat el, ha a terheltek érdekei nem ellentétesek.
 
-(5) Ügyvédjelölt védőként, ügyvéd mellett vagy ügyvéd helyetteseként a törvényszék, az ítélőtábla és a Kúria nyilvános ülésén, illetőleg tárgyalásán nem járhat el.
+(5) Ügyvédjelölt védőként, ügyvéd mellett vagy ügyvéd helyetteseként a törvényszék, az ítélőtábla és a Kúria nyilvános ülésén, illetve tárgyalásán nem járhat el. Az az ügyvédjelölt, aki legalább egyéves ügyvédjelölti gyakorlattal rendelkezik, a törvényszék első fokú eljárásában eljárhat, védőbeszédet azonban nem tarthat.

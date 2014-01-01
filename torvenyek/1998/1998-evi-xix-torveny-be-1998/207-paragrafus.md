@@ -12,9 +12,11 @@ c) az ügyész indítványára a nyomozás megszüntetését követően a nyomoz
 
 d) az ügyész indítványára a tanú különösen védetté nyilvánításáról (97. §),
 
-e) a 149. § (3) bekezdése, a 150. § (2) bekezdése, a 151. § (4) bekezdése, valamint a 153. § (2) bekezdése szerinti határozat elleni panaszt elutasító határozat, továbbá a 151. § (2) bekezdése szerinti ügyészi határozat elleni panaszt elutasító határozattal szemben előterjesztett felülbírálati indítványról, valamint a rendbírság 161. § (6) bekezdése szerinti elzárásra történő átváltoztatásáról,
+e) a 70/B. § (8) bekezdése, a 149. § (3) bekezdése, a 150. § (2) bekezdése, a 151. § (4) bekezdése, valamint a 153. § (2) bekezdése szerinti határozat elleni panaszt elutasító határozat, továbbá a 151. § (2) bekezdése és a 155. § (1) bekezdése szerinti ügyészi határozat elleni panaszt elutasító határozattal szemben előterjesztett felülbírálati indítványról, valamint a rendbírság 161. § (6) bekezdése szerinti elzárásra történő átváltoztatásáról,
 
-f) a vádirat benyújtása előtt az ügyész indítványára a 82. § (1) bekezdés d) pontja alapján a tanúvallomást megtagadó személynek a számára információt átadó személy kilétének felfedésére kötelezéséről a 82. § (6) bekezdése szerint.
+f) a vádirat benyújtása előtt az ügyész indítványára a 82. § (1) bekezdés d) pontja alapján a tanúvallomást megtagadó személynek a számára információt átadó személy kilétének felfedésére kötelezéséről a 82. § (6) bekezdése szerint,
+
+g) a vádirat benyújtása előtt az 54. § (2a) bekezdés szerinti polgári jogi igénynek és ideiglenes intézkedés iránti kérelemnek a Polgári perrendtartás szerint hatáskörrel és illetékességgel rendelkező bíróságnak történő megküldése kérdésében.
 
 (2a) A nyomozás megszüntetését követően a nyomozás folytatása nyomozási bíró általi elrendelésének indítványozását az ügyésznél lehet kezdeményezni.
 

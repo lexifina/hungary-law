@@ -10,7 +10,9 @@ b) ha az első fokú bíróság az eljárás lefolytatásához szükséges magá
 
 c) ha az első fokú bíróság törvényes vád hiányában járt el,
 
-d) ha a cselekményt már jogerősen elbírálták;
+d) ha a cselekményt már jogerősen elbírálták,
+
+e) ha az első fokú bíróság joghatóság hiányában járt el.
 
 II. hatályon kívül helyezi az első fokú bíróság ítéletét, és az első fokú bíróságot új eljárásra utasítja, ha
 

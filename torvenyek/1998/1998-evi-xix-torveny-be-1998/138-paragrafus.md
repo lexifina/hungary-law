@@ -6,6 +6,6 @@
 
 (3) Házi őrizet elrendelése esetén e kényszerintézkedés elrendelésére, tartamára, illetőleg fenntartására, valamint megszüntetésére az előzetes letartóztatás elrendelésére, meghosszabbítására, illetőleg fenntartására, valamint megszüntetésére vonatkozó rendelkezéseket [130. § (1) bek., 131. §, 132. § (1) és (2) bek., 136. § (2)–(4) bek.] kell alkalmazni.
 
-(4) A bíróság rendelkezhet úgy, hogy a házi őrizet előírásainak megtartását a rendőrség – a terhelt hozzájárulásával – a terhelt mozgását nyomon követő technikai eszközzel is ellenőrizze. Nincs szükség a terhelt hozzájárulására, ha a házi őrizetet a bíróság a terhelt előzetes letartóztatásának a 132. § (3) bekezdése szerinti megszűnését követően rendelte el. A házi őrizet előírásai megtartásának ellenőrzéséről külön jogszabály rendelkezik.
+(4) A bíróság rendelkezhet úgy, hogy a házi őrizet előírásainak megtartását a rendőrség a terhelt mozgását nyomon követő technikai eszközzel is ellenőrizze. Ha a házi őrizet elrendelésére a terhelttel szemben személy elleni erőszakos bűncselekmény [Btk. 459. § 26. pont] elkövetése miatt folyamatban lévő eljárásban kerül sor, továbbá, ha a házi őrizetet a bíróság a terhelt előzetes letartóztatásának a 132. § (3) bekezdése szerinti megszűnését követően rendelte el, a bíróság a terhelt mozgását nyomon követő technikai eszközzel történő ellenőrzését elrendeli, kivéve ha ezen eszköz alkalmazásának technikai feltételei nem biztosíthatóak.
 
-(5) Katonával [Btk. 122. § (1) bekezdés] szemben szolgálati viszonyának tartama alatt házi őrizet nem rendelhető el.
+(5) Katonával [Btk. 127. § (1) bekezdés] szemben szolgálati viszonyának tartama alatt házi őrizet nem rendelhető el.

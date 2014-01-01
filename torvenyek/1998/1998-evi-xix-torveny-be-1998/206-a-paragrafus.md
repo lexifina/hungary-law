@@ -4,7 +4,7 @@
 
 a) a titkos adatszerzés engedélyezésének e törvényben meghatározott feltételei (201. §) a bizonyítani kívánt bűncselekmény tekintetében fennállnak,
 
-b) a titkos információgyűjtés engedélyezését kérő szerv a büntetőeljárásban felhasználni kívánt információ megszerzését követően a nyomozást haladéktalanul elrendelte vagy a feljelentési kötelezettségének haladéktalanul eleget tett.
+b) a titkos információgyűjtés engedélyezését kérő szerv a büntetőeljárásban felhasználni kívánt információ megszerzését követően a nyomozást – a büntetőeljárás megindításának valamennyi, e törvényben meghatározott feltétele megállapításakor – nyomban elrendelte vagy a feljelentési kötelezettségének nyomban eleget tett.
 
 (2) A titkos információgyűjtés engedélyezését kérő szerv a nyomozás elrendelésével vagy a feljelentés megtételével egyidejűleg kezdeményezi az illetékes ügyésznél a titkos információgyűjtés eredményének a büntetőeljárásban bizonyítékként történő felhasználásra való alkalmasságának megállapítását, ha
 

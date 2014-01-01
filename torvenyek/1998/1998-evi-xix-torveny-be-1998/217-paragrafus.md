@@ -22,6 +22,6 @@ g) a bejelentett polgári jogi igényt, továbbá az egyéb indítványokat,
 
 h) a tárgyalásra idézendők és az arról értesítendők indítványozását, illetve azon tanúk vallomása felolvasásának az indítványozását, akiknek a vallomása szükséges a bizonyításhoz, de a személyes megjelenésük a tárgyaláson nem indokolt, illetve a tárgyaláson való megjelenésük aránytalan nehézséggel járna vagy nem lehetséges.
 
-i) a bizonyítási eszközök megjelölését, valamint azt, hogy mely tény bizonyítására szolgálnak,
+i) a bizonyítási eszközök megjelölését, valamint azt, hogy mely cselekmény vagy részcselekmény bizonyítására szolgálnak,
 
 j) a tárgyaláson való bizonyítás felvételének sorrendjére vonatkozó indítványt.

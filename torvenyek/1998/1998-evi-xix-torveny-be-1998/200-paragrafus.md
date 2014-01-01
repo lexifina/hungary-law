@@ -14,4 +14,4 @@ c) számítástechnikai eszköz vagy rendszer útján továbbított, vagy azon t
 
 (4) Ha a nyomozás elrendelését megelőzően külön törvény alapján a bíró, illetőleg az igazságügyért felelős miniszter által engedélyezett titkos információgyűjtés végrehajtása során az ügyben a nyomozást elrendelik, a titkos információgyűjtést a továbbiakban csak e törvény szerint mint titkos adatszerzést lehet folytatni.
 
-(5) Az (1) bekezdés a) pontja alkalmazásában magánlakásnak minősül a lakás, a lakás céljára használt egyéb helyiség, tárgy, a lakáshoz tartozó nem lakás céljára szolgáló helyiség, az ezekhez tartozó bekerített hely, továbbá a nyilvános vagy a közönség részére nyitva álló helyen kívül minden más helyiség vagy terület.
+(5) Az (1) bekezdés a) pontja alkalmazásában magánlakásnak minősül a lakás (üdülő, nyaraló vagy a lakás céljára használt egyéb helyiség, létesítmény, tárgy), az ahhoz tartozó nem lakás céljára szolgáló helyiség, létesítmény, bekerített terület, a nyilvános vagy a közönség részére nyitva álló helyen kívül minden más helyiség vagy terület, továbbá – a közösségi közlekedési eszköz kivételével – a jármű.

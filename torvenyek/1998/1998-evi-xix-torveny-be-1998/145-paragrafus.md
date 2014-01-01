@@ -6,6 +6,8 @@
 
 (4) Az ideiglenes kényszergyógykezelés elrendelése ellen a terhelt házastársa és törvényes képviselője is jogosult fellebbezésre, és a felsoroltak indítványozhatják az ideiglenes kényszergyógykezelés megszüntetését is.
 
+(5) Az ideiglenes kényszergyógykezelés megszüntetése iránti indítványt a bíróság érdemben megvizsgálja, és erről indokolt határozatot hoz. Ha a terhelt, illetve a védő az ismételt indítványban új körülményre nem hivatkozik, a bíróság az indítványt érdemi indokolás nélkül elutasíthatja. Ha az ideiglenes kényszergyógykezelés elrendelése, meghosszabbítása, vagy fenntartása óta három hónap eltelt, az érdemi vizsgálat nem mellőzhető.
+
 V. CÍM
 
 INTÉZKEDÉS A KÜLFÖLDRE UTAZÁSI TILALOM BIZTOSÍTÁSÁRA

@@ -1,6 +1,6 @@
 425. § (1) A nyilvános ülésen a védő, valamint ha a vádat az ügyész képviselte, a legfőbb ügyész vagy képviselője részvétele kötelező.
 
-(2) A nyilvános ülésről a terheltet, a magánvádlót és a pótmagánvádlót, illetőleg a 417. § (1) bekezdésében felsorolt jogosultakat értesíteni kell. A fogva levő terheltet a nyilvános ülésre elő kell állítani.
+(2) A nyilvános ülésről a terheltet, a magánvádlót és a pótmagánvádlót, illetve a 417. § (1) bekezdésében felsorolt jogosultakat értesíteni kell. A fogva levő terheltet – ha a nyilvános ülésen részt kíván venni – a nyilvános ülésre elő kell állítani.
 
 (3) Az értesítést olyan időben kell kiadni, hogy a kézbesítés legalább nyolc nappal a nyilvános ülés előtt megtörténjék. A nyilvános ülés megtartásának nem akadálya, ha az értesítést azért nem lehetett kézbesíteni, mert a címzett ismeretlen helyen tartózkodik.
 

@@ -2,7 +2,7 @@
 
 204. § (1) A titkos adatszerzést külön törvényben meghatározott szervezet hajtja végre. Ha az ügyészségi nyomozás során elrendelt titkos adatszerzés tárgya a nemzetbiztonsági szolgálatok hivatásos állományú tagja által elkövetett bűncselekmény, az ügyész titkos adatszerzés elvégzésére az érintett nemzetbiztonsági szolgálatot is felkérheti.
 
-(2) A hírközlési szolgáltatást, a postai küldemények, illetőleg a számítástechnikai rendszer útján rögzített adatok továbbítását, feldolgozását, kezelését végző szervezetek kötelesek a titkos adatszerzés végrehajtását biztosítani és a titkos adatszerzésre jogosult hatóságokkal együttműködni. A hírközlési szolgáltatást, valamint a postai küldemények továbbítását végző szervezetek kötelezettségeiről és az együttműködés részletes szabályairól külön jogszabály rendelkezik.
+(2) A hírközlési szolgáltatást, a postai küldemények, illetve az információs rendszerben tárolt adatok továbbítását, feldolgozását, kezelését végző szervezetek kötelesek a titkos adatszerzés végrehajtását biztosítani és a titkos adatszerzésre jogosult hatóságokkal együttműködni. A hírközlési szolgáltatást, valamint a postai küldemények továbbítását végző szervezetek kötelezettségeiről és az együttműködés részletes szabályairól külön jogszabály rendelkezik.
 
 (3) A titkos adatszerzést az ügyész, illetőleg a nyomozó hatóság vezetője haladéktalanul megszünteti, ha
 

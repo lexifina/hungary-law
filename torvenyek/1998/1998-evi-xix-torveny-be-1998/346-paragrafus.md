@@ -14,7 +14,9 @@ a) az eljárás 332. § (1) bekezdésének e) pontja alapján történt megszün
 
 b) a polgári jogi igény érvényesítésének vagy a szülői felügyeleti jog megszüntetésére irányuló indítvány egyéb törvényes útra utasítása, valamint
 
-c) az ítélet tudomásulvételét követően tett jogorvoslati nyilatkozat elutasítása
+c) az ítélet tudomásulvételét követően tett jogorvoslati nyilatkozat elutasítása,
+
+d) a 284. § (3) bekezdése szerinti határozat
 
 ellen.
 

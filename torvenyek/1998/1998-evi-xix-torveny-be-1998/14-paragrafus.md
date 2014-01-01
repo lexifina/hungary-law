@@ -12,7 +12,7 @@ b) ülnökök közreműködése nélkül (egyesbíróként) jár el az a) pont a
 
 (4) A járásbíróság és a törvényszék, mint első fokú bíróság – az e törvényben meghatározott esetekben – két hivatásos bíróból és három ülnökből álló tanácsban járhat el.
 
-(5) A másodfokú és a harmadfokú bíróság három hivatásos bíróból álló tanácsban jár el. A Kúria három, illetőleg ha e törvény így rendelkezik, öt hivatásos bíróból álló tanácsban jár el.
+(5) A másodfokú, a harmadfokú bíróság és a Kúria három hivatásos bíróból álló tanácsban, vagy ha e törvény így rendelkezik, öt hivatásos bíróból álló tanácsban jár el.
 
 (6) Az egyesbíró és a tanács elnöke hivatásos bíró; az ítélkezésben a hivatásos bíró és az ülnökök jogai, kötelességei azonosak.
 

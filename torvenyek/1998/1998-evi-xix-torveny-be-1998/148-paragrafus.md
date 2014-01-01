@@ -12,7 +12,7 @@ b) az ügyész a nyomozást megszüntette, illetőleg annak határideje lejárt,
 
 c) a bíróság az eljárást jogerős ítélettel vagy megszüntető határozattal befejezte.
 
-(3) Szabadságvesztés kiszabása esetében az óvadékot akkor lehet visszaadni, ha a büntetés letöltését a terhelt megkezdte.
+(3) Szabadságvesztés vagy elzárás kiszabása esetében az óvadékot akkor lehet visszaadni, ha a büntetés letöltését a terhelt megkezdte vagy az előzetes fogvatartás beszámítása folytán a vele szemben jogerősen kiszabott szabadságvesztést kitöltöttnek kell tekinteni.
 
 (4) A terhelt elveszti a jogát az óvadék összegére, ha az (1) bekezdés a) pontjában meghatározott okból a bíróság az előzetes letartóztatását rendelte el.
 

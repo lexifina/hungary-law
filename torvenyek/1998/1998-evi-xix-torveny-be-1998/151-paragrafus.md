@@ -2,11 +2,11 @@
 
 151. § (1) A lefoglalás a bizonyítás érdekében vagy az elkobzás, illetőleg a vagyonelkobzás biztosítására a dolognak a bíróság, az ügyész, illetőleg a nyomozó hatóság általi őrzésbe vétele vagy megőrzésének más módon történő biztosítása.
 
-(2) A bíróság, az ügyész, illetőleg a nyomozó hatóság elrendeli annak a dolognak, illetőleg számítástechnikai rendszernek vagy ilyen rendszer útján rögzített adatokat tartalmazó adathordozónak a lefoglalását, amely
+(2) A bíróság, az ügyész, illetve a nyomozó hatóság elrendeli – az ingatlan kivételével – annak a dolognak, információs rendszernek, ilyen rendszerben tárolt adatokat tartalmazó adathordozónak vagy adatnak a lefoglalását, amely
 
 a) bizonyítási eszköz,
 
-b) a törvény értelmében elkobozható vagy amelyre vagyonelkobzás rendelhető el.
+b) a törvény értelmében elkobozható, vagy amelyre vagyonelkobzás rendelhető el.
 
 (2a) A lefoglalást akkor is el kell rendelni, ha az a kölcsönzött kulturális javak különleges védelméről szóló törvényben meghatározott különleges védelem időtartama alatt nem hajtható végre.
 
