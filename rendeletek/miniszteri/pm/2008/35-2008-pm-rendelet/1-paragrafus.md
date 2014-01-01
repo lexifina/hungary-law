@@ -4,11 +4,7 @@
 
 a) az ideiglenes jellegű iparűzési tevékenység utáni helyi iparűzési adóra a 10. melléklet,
 
-b)[^3] az állandó jellegű iparűzési tevékenység utáni helyi iparűzési adóra
-
-ba) a 2012-ben kezdődő adóévre a 18. melléklet,
-
-bb) a 2013-ban és az azt követő években kezdődő adóévekre a 19. melléklet,
+b)[^3] az állandó jellegű iparűzési tevékenység utáni helyi iparűzési adóra a 2013-ban és az azt követő években kezdődő adóévekre a 19. melléklet,
 
 c) a helyi iparűzési adóelőlegkiegészítés bevallására a 20. melléklet,
 
@@ -22,4 +18,4 @@ szerinti adattartalmú nyomtatványt rendszeresítheti.
 
 [^1]: Az 1. § (1) bekezdése a 29/2009. (XII. 4.) PM rendelet 1. §-ával megállapított, a 21/2010. (XII. 31.) NGM rendelet 3. §-a szerint módosított szöveg.
 [^2]: Az 1. § (2) bekezdése a 21/2010. (XII. 31.) NGM rendelet 1. §-ával megállapított szöveg.
-[^3]: Az 1. § (2) bekezdés b) pontja a 45/2012. (XII. 27.) NGM rendelet 2. §-ával megállapított szöveg.
+[^3]: Az 1. § (2) bekezdés b) pontja a 77/2013. (XII. 31.) NGM rendelet 9. §-ával megállapított szöveg.

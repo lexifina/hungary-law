@@ -1,3 +1,3 @@
-13. melléklet a 35/2008. (XII. 31.) PM rendelethez[^16]
+13. melléklet a 35/2008. (XII. 31.) PM rendelethez[^17]
 
-[^16]: A 13. melléklet a 45/2012. (XII. 27.) NGM rendelet 3. § (10) bekezdésével megállapított szöveg.
+[^17]: A 13. melléklet a 77/2013. (XII. 31.) NGM rendelet 10. § (6) bekezdésével megállapított szöveg.

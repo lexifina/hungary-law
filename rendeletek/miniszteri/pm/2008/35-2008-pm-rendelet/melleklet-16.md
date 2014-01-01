@@ -6,8 +6,6 @@
 
 |  | ⬜Építményadó | ⬜Telekadó | ⬜Magánszemély kommunális adója |
 
-| ⬜Épület utáni idegenforgalmi adó |
-
 | II. Ingatlan |
 
 | 1. Címe: ⬜⬜⬜⬜_____________________________________________________________________________ város/község |
@@ -152,6 +150,6 @@
 
 | ____________________________ helység | ⬜⬜⬜⬜ év | ⬜⬜ hó | ⬜⬜ nap | ________________________________________ a bevallásbenyújtó vagy képviselője (meghatalmazottja) aláírása |
 
-16. melléklet a 35/2008. (XII. 31.) PM rendelethez[^17]
+16. melléklet a 35/2008. (XII. 31.) PM rendelethez[^19]
 
-[^17]: A 16. melléklet az 54/2011. (XII. 29.) NGM rendelet 33. § (6) bekezdésével megállapított szöveg.
+[^19]: A 16. melléklet az 54/2011. (XII. 29.) NGM rendelet 33. § (6) bekezdésével megállapított szöveg.

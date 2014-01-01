@@ -58,7 +58,7 @@
 
 | _____________________________ helység | ⎕⎕⎕⎕ év | ⎕⎕ hó | ⎕⎕ nap | _________________________________________ a bevallásbenyújtó vagy képviselője (meghatalmazottja) aláírása |
 
-22. melléklet a 35/2008. (XII. 31.) PM rendelethez[^23]
+22. melléklet a 35/2008. (XII. 31.) PM rendelethez[^25]
 
 | BEJELENTKEZÉS, VÁLTOZÁS-BEJELENTÉS |
 
@@ -156,9 +156,9 @@
 
 | 11. Adókötelezettség végleges megszűnése, megszűntetése: ⬜⬜⬜⬜ év ⬜⬜ hó ⬜⬜ nap |
 
-| V. Kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény hatálya alá tartozó adóalany bejelentése |
+| V. Kisadózó vállalkozások tételes adója alanyának egyszerűsített, tételes adóalap meghatározására vonatkozó bejelentése |
 
-| 1. A kisadózó vállalkozások tételes adója hatálya alá tartozó adóalanyként az iparűzési adóban a kisadózó vállalkozások tételes adójára vonatkozó, egyszerűsített adóalap-megállapítást választom ⬜ 1.1. A kisadózó vállalkozások tételes adójának alanyaként jogosult vagyok rá és igénybe kívánom venni az önkormányzat által biztosított adóalap mentességet ⬜ 1.2. Tudomásul veszem, hogy a Htv. 39/B. § (4) bekezdése szerinti esedékességi időpontokban az általam fizetendő adó összege :2,5 millió forint adóalap* az önkormányzat által megállapított adómérték * az adóévi adókötelezettség időtartamának naptári napjai /365 nap/2 ⬜ 1.3. A kisadózó vállalkozások tételes adójában az adóalanyiság kezdő napja ⬜⬜⬜⬜ év ⬜⬜ hó ⬜⬜ nap 2. A kisadózó vállalkozások tételes adójábanaz adóalanyiság megszűnése ⬜ 2.1. A kisadózó vállalkozások tételes adójában az adóalanyiság megszűnésének napja ⬜⬜⬜⬜ év ⬜⬜ hó ⬜⬜ nap 3. A kisvállalati adóalanyként az iparűzési adóban az egyszerűsített adóalap-megállapítást választom ⬜ 4. A kisvállalati adóalanyként az iparűzési adóban az egyszerűsített adóalap-megállapítás alkalmazását megszüntetem ⬜ |
+| 1. A kisadózó vállalkozások tételes adója hatálya alá tartozó adóalanyként az iparűzési adóban a kisadózó vállalkozások tételes adójára vonatkozó, egyszerűsített (tételes, a Htv. 39/B. § (3) bekezdése szerinti) adóalap-megállapítást választom ⬜ 1.1.Ennek időpontja: ⬜ ⬜ ⬜ ⬜ év ⬜ ⬜ hó ⬜ ⬜ nap 1.2. Tudomásul veszem, hogy a Htv. 39/B. § (4) bekezdése szerinti esedékességi időpontokban az általam fizetendő adó összege: 2,5 millió forint adóalap* az önkormányzat által megállapított adómérték * az adóévi adókötelezettség időtartamának naptári napjai /365 nap/2 ⬜ 1.3. A kisadózó vállalkozások tételes adójában az adóalanyiság kezdő napja ⬜ ⬜ ⬜ ⬜ év ⬜ ⬜ hó ⬜ ⬜ nap 2. A kisadózó vállalkozások tételes adója alanyának a Htv. 39/B. § (3) bekezdés szerinti egyszerűsített iparűzési adóalap-megállapítására vonatkozó jogosultságának megszűnése 2.1. A kisadózó vállalkozások tételes adójában az adóalanyiság megszűnésének napja ⬜ ⬜ ⬜ ⬜ év ⬜ ⬜ hó ⬜ ⬜ nap 2.2. A kisadózó vállalkozások tételes adójának alanyaként a Htv. 39/B. § (3) bekezdés szerinti egyszerűsített adóalap-megállapítást a … évre már nem kívánom alkalmazni ⬜ |
 
 | VI. Jogelőd(ök) |
 
@@ -302,7 +302,7 @@
 
 | Oldalszám: ⬜⬜⬜⬜ |
 
-| XI. Az adóalany szervezet (jogi személyiség nélküli gazdasági társaság, a korlátolt felelősségű társaság, az egyesülés, valamint a közös vállalat) tulajdonosai (tagjai) (szükség esetén több oldalon is részletezhető) |
+| XI. Az adóalany szervezet (a közkereseti társaság, a betéti társaság, a korlátolt felelősségű társaság, az egyesülés, valamint a közös vállalat) tulajdonosai (tagjai) (szükség esetén több oldalon is részletezhető) |
 
 | 1. Tulajdonos neve: ___________________________________________________________ tulajdoni részesedés aránya: ________________ |
 
@@ -476,4 +476,4 @@
 
 | _____________________________ helység | ⬜⬜⬜⬜ év | ⬜⬜ hó | ⬜⬜ nap | _________________________________________ a bevallásbenyújtó vagy képviselője (meghatalmazottja) aláírása |
 
-[^23]: A 22. mellékletet a 21/2010. (XII. 31.) NGM rendelet 2. § (2) bekezdése iktatta be, szövege a 45/2012. (XII. 27.) NGM rendelet 3. § (13) bekezdésével megállapított szöveg.
+[^25]: A 22. mellékletet a 21/2010. (XII. 31.) NGM rendelet 2. § (2) bekezdése iktatta be, szövege a 77/2013. (XII. 31.) NGM rendelet 10. § (9) bekezdése szerint módosított szöveg.
