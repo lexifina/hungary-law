@@ -1,13 +1,19 @@
 ## IV. Fejezet
 
-## A MABISZ ÁLTAL A KÖTELEZŐ GÉPJÁRMŰ-FELELŐSSÉGBIZTOSÍTÁS RENDSZERÉBEN ELLÁTOTT FELADATOK
+## A MABISZ ÁLTAL A KÖTELEZŐ GÉPJÁRMŰ-FELELŐSSÉGBIZTOSÍTÁS RENDSZERÉBEN ELLÁTOTT FELADATOKRA VONATKOZÓ SZABÁLYOK
 
-56. § (1) A Nemzeti Iroda feladatait, a Kártalanítási Számla kezelését, továbbá a Kártalanítási Alap kezelését a MABISZ látja el.
+56. § (1) A MABISZ látja el a Nemzeti Iroda – ezen belül a Kártalanítási Szervezet, az Információs Központ és a kárnyilvántató szerv – feladatait, a Kártalanítási Számla kezelését, továbbá a Kártalanítási Alap kezelését.
 
-(2) A Kártalanítási Alap kezelőjét megilletik mindazon jogok és terhelik mindazon kötelezettségek, amelyek a biztosítási szerződés vonatkozásában a felszámolás alatt álló biztosítót illették meg, illetve terhelték, továbbá az Alap kezelője megtérítést követelhet a felszámolás alatt álló biztosítótól. Az Alap kezelője és a felszámolás alatt álló biztosító felszámolója a kárigényének rendezése és a biztosítási szerződésekhez kapcsolódó követelések érvényesítése során együttműködnek.
+(2) A MABISZ az (1) bekezdésben meghatározott feladatait – az e körbe nem tartozó tevékenységeitől – elkülönített módon láthatja el, amely célból elkülönített szervezeti egységet (a továbbiakban: elkülönített szervezeti egység) hozhat létre.
 
-(3) Az Információs Központ, a Nemzeti Iroda, a Kártalanítási Számla, Kártalanítási Alap és a Kártalanítási Szervezet között személyes adat, illetve biztosítási titoknak minősülő adat a károsult kárigényének rendezése, a biztosítási szerződésből eredő egyéb követelés érvényesítése, illetve a Nemzeti Irodát, a Kártalanítási Számla, Kártalanítási Alap kezelőjét megillető követelés érvényesítése céljából továbbítható.
+(3) A MABISZ az (1) bekezdésben meghatározott feladatait az elkülönített szervezeti egység útján oly módon láthatja el, hogy a legfelsőbb szerv vagy az ellenőrző szerv elkülönített szervezeti egység működésével kapcsolatos döntésének meghozatalában azon kötelező gépjármű-felelősségbiztosítási tevékenységet végző biztosítók részt vehessenek, amelyek nem tagjai a MABISZ-nak.
 
-(4) A MABISZ kapcsolatot tart fenn a többi tagállam – a 2000/26/EK sz. irányelv 6. cikk (1) bekezdésében meghatározottaknak megfelelően létrehozott – kártalanítási szervezeteivel és garanciaalapjaival, valamint információs központjaival. Ellátja az e testületek jogairól és kötelezettségeiről, valamint a kártalanítási szolgáltatások visszatérítéséről szóló megállapodásokhoz kapcsolódó feladatokat.
+(4) A (2) bekezdésben meghatározott szervezeti egység a vezetésére a Bit. 83. § (3) és (5) bekezdésében meghatározott feltételeknek megfelelő, felelős vezetőt (a továbbiakban: felelős vezető) kell kijelölni, akit a MABISZ ügyvezető és képviseleti szerve jelölhet ki, továbbá aki e minőségében csak a jogszabályoknak, az alapszabálynak, valamint a MABISZ legfőbb szerve határozatainak van alávetve, és a MABISZ tagjai által nem utasítható.
 
-(5) A MABISZ hasonló tartalmú kétoldalú megállapodást köthet harmadik ország hasonló feladatokat ellátó szervezeteivel
+(5) A felelős vezető az elkülönített szervezeti egység vezetésével kapcsolatos feladatait – a MABISZ részére ellátott egyéb feladataitól elkülönítve – az alapszabály határozza meg.
+
+(6) Felelős vezetőnek az a személy jelölhető ki, akinek kinevezése iránti engedély kérelmet a kinevezés tervezett időpontját harminc nappal megelőzően a Felügyeletnek benyújtották és az engedélyt a Felügyelet megadta. A Felügyelet a felelős vezető megválasztásáról, illetve kinevezéséről engedélyező vagy azt elutasító határozatot hoz.
+
+(7) Az engedélyt megadottnak kell tekinteni, ha a Felügyelet a kérelem megérkezését követő naptól számított harminc napon belül nem hoz döntést.
+
+(8) Ha a felelős vezető kijelölésére az engedély megszerzésétől vagy a (7) bekezdés szerinti vélelem bekövetkezésétől számított három hónapon belül nem kerül sor, a felelős vezető csak ismételt engedélyezést követően jelölhető ki. Az ismételt engedélyezési eljárásra a (3) bekezdésben meghatározott szabályok alkalmazandók.

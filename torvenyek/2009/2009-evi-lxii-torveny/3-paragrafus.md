@@ -20,7 +20,7 @@
 
 8/A. gazdasági totálkár: a káresemény következtében károsult gépjármű megjavíttatása gazdaságilag nem indokolható, mivel annak javítási, valamint a kár elhárításával kapcsolatos egyéb költségei, illetve a javítást követően esetlegesen fennmaradó értékcsökkenés összege a gépjármű károsodás időpontjában fennálló forgalmi értékének maradványértékkel (roncsértékkel) csökkentett összegét meghaladja.
 
-9. gépjárműflotta: egy adott biztosítónál ugyanazon – egyéni vállalkozó, jogi személy, jogi személyiség nélküli gazdasági társaság – szerződő üzemben tartó által biztosított gépjárművek együttesen kezelt csoportja, ha ezen gépjárművek darabszáma eléri az ötöt;
+9. gépjárműflotta: egy adott biztosítónál ugyanazon – egyéni vállalkozó, jogi személy, jogi személyiség nélküli gazdasági társaság – szerződő üzemben tartó által biztosított gépjárművek együttesen kezelt csoportja, ha ezen gépjárművek darabszáma a biztosítási időszak kezdőnapján eléri az ötöt;
 
 10. gépjármű: a közúti forgalomban való részvétel feltételeként hatósági engedélyre és jelzésre kötelezett – a közúti közlekedés szabályairól szóló 1/1975. (II. 5.) KPM–BM együttes rendelet (KRESZ) 1. számú függelékének II. b) pontjában meghatározott – gépjármű, pótkocsi, félpótkocsi, mezőgazdasági vontató, négykerekű segédmotoros kerékpár (quad), lassú jármű és munkagép, továbbá a hatósági engedélyre és jelzésre nem kötelezett segédmotoros kerékpár;
 

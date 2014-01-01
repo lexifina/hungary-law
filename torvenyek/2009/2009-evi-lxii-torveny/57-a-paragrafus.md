@@ -1,19 +1,17 @@
-## V. Fejezet
+57/A. § (1) A MABISZ elkülönített szervezeti egysége – mint a Kártalanítási Számla és a Kártalanítási Alap kezelője és a Nemzeti Iroda feladatainak az ellátója – legkésőbb a tárgyévet követő január 31-ig tájékoztatja a biztosítókat a Kártalanítási Számla és a Kártalanítási Alap eredményéről.
 
-## ÁLLAMI GÉPJÁRMŰVEK MENTESÍTÉSE
+(2) Az (1) bekezdésben meghatározott elszámolással egyidejűleg a MABISZ elkülönített szervezeti egysége a Kártalanítási Számla és a Nemzeti Iroda részére az 57. § (1) bekezdésében meghatározott célból befizetett összegekkel, továbbá az 57. § (3) bekezdésében meghatározott célból befizetett összegekkel a biztosítók felé elszámol. A MABISZ – mint a Kártalanítási Számla kezelője – a biztosítók által beszedett fedezetlenségi díjak elszámolására megállapodást köthet a biztosítókkal.
 
-57/A. § (1) Mentesek az e törvényben meghatározott biztosítási szerződés megkötésének kötelezettsége alól azon gépjárművek üzemben tartói, amelyeket az üzemben tartói jogokat gyakorló minisztériumot vezető miniszter, vagy az üzemben tartói jogokat gyakorló szervezet felett irányítási vagy felügyeleti jogot gyakorló miniszter (a továbbiakban: vagyonkezelésért felelős miniszter) rendeletében a biztosítási kötelezettség alól mentesített.
+(3) A MABISZ az elkülönített szervezeti egysége vonatkozásában a Felügyelet részére a gazdálkodására vonatkozó adatokról éves gazdálkodási jelentést (a továbbiakban: gazdálkodási jelentés) készít.
 
-(2) A vagyonkezelésért felelős miniszter akkor mentesítheti az (1) bekezdésben meghatározott gépjárművek üzemben tartóit, ha a mentesítés hatályának a kezdetét megelőzően meghozatalra kerülnek az intézkedések a mentesítésre kerülő gépjárművekkel kapcsolatos jövőben bekövetkező károk rendezéséről, továbbá a károk és annak rendezésének fedezetéről, amelynek keretében
+(4) A gazdálkodási jelentésről a Bit. 149. § (2) bekezdés a), c) és d) pontjában meghatározott feltételeknek megfelelő, pályázat útján kiválasztott könyvvizsgáló külön jelentést készít.
 
-a) össze kell állítani és naprakészen kell tartani a mentesített gépjárművek jegyzékét, illetve biztosítani kell a mentesített gépjárművek nyilvántartásával kapcsolatos intézkedéseket, illetve az ahhoz való hozzáférést az Információs Központ feladatait ellátó Nemzeti Iroda számára,
+(5) A (3) bekezdésben meghatározott kötelezettség nem érinti a MABISZ, mint a számviteli jogszabályok szerinti egyéb szervezet beszámolókészítési és könyvvezetési kötelezettségét.
 
-b) Magyarország, továbbá más tagállam területén ki kell jelölni a mentesített gépjárművek által az okozott károk rendezését és megtérítését végző szervet,
+(6) A MABISZ a legfőbb szerv által elfogadott gazdálkodási jelentést, a könyvvizsgáló erre vonatkozó külön jelentését, a legfőbb szerv jegyzőkönyvét és a hozott határozatokat a tárgyévet követő 150 napon belül megküldi a Felügyeletnek.
 
-c) biztosítani kell a b) pontban meghatározott szervezetnél a feladatellátáshoz szükséges személyi és tárgyi feltételeket,
+(7) A (6) bekezdésben meghatározott okiratok valódiságát a felelős vezető, a vezető aktuárius, és a számvitel rendjéért felelős vezető aláírásával igazolja.
 
-d) meg kell tenni a szükséges intézkedéseket, hogy a mentesített gépjárművek által az okozott károk rendezését és megtérítését végző szerv a Belső Szabályzatban foglaltaknak megfelelően teljesíteni tudja a károkkal kapcsolatos megtérítési kötelezettségét, illetve a mentesített gépjárművek igazolóeszközzel legyenek ellátva.
+(8) A MABISZ az elkülönített szervezeti egység vonatkozásában a gazdálkodására vonatkozó adatokról a (3) bekezdés szerinti gazdálkodási jelentés alapján a Felügyelet részére a (9) bekezdés szerinti adatszolgáltatást teljesít, amelynek tartalmát a Felügyelet a honlapján keresztül hozza nyilvánosságra.
 
-(3) A miniszter a mentesítést megelőzően közli az Európai Bizottsággal, a tagállamokkal és az Információs Központ feladatait ellátó Nemzeti Irodával a mentesített gépjárművek jegyzékét, a mentesített gépjárművek által okozott károkkal kapcsolatban a károk megtérítésére kötelezett, továbbá a kárrendezést végző szerv nevét és elérhetőségét.
-
-(4) Ha a Nemzeti Iroda, illetve a Kártalanítási Szervezet – a külföldi nemzeti iroda, illetve kártalanítási szervezet megtérítési igénye alapján – a kárt megtérítette, a károsult követelésének kielégítésével kapcsolatban felmerült összes ráfordítása és – átalányösszegben is megállapítható – költsége megtérítését követelheti – a Belső Szabályzatban foglalt feltételek szerint – a mentesített gépjármű üzemben tartójától.
+(9) Az elkülönített szervezeti egység a Felügyelet részére történő adatszolgáltatási és jelentéstételi kötelezettségének rendjéről, módjáról, tartalmáról, formájáról és időpontjáról szóló jogszabályban meghatározott rendszeres és felügyeleti határozaton alapuló eseti adatszolgáltatást teljesít.

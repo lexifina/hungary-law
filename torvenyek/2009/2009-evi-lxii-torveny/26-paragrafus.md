@@ -6,7 +6,7 @@
 
 (3) A szünetelés a (2) bekezdésben meghatározott időpontoknak megfelelően a kivonás napjától a szünetelés lejártának napjáig vagy a gépjármű ismételt forgalomba helyezésének napjáig, de legfeljebb hat hónapig tart.
 
-(4) Ha az újbóli üzembe helyezés a kivonás napjától számított hat hónapon belül nem történik meg, a szerződés a hat hónapos időszak utolsó napját követő napon megszűnik.
+(4) Ha az újbóli üzembe helyezés a kivonás napjától számított egy éven belül nem történik meg, a szerződés az egyéves időszak utolsó napját követő napon megszűnik.
 
 (5) A szünetelést követő díjrészlet fizetésének esedékessége – a felek eltérő megállapodásának hiányában – a szünetelés megszűnésének a napja.
 

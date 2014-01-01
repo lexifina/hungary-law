@@ -4,9 +4,9 @@ a) a díjtarifa megállapításának alapjául szolgáló gépjármű-kategóri�
 
 b) a kártörténeti adatok biztosítók által történő felhasználásának, a kártörténeti adatokon alapuló bonus-malus rendszer, továbbá a kártörténeti igazolások kiadásának szabályait;
 
-c) a Kártalanítási Alap javára teljesített befizetéseknek, az Alap kezelésének és az Alap kezelője eredményelszámolási szabályait;
+c) a Kártalanítási Alap javára teljesített befizetéseknek és az Alap kezelésének szabályait;
 
-d) a Kártalanítási Számla eredményelszámolásának szabályait
+d) az elkülönített szervezeti egység éves gazdálkodási jelentésének tartalmára és az azt alátámasztó nyilvántartások vezetésére, valamint a nyilvántartásokkal összefüggő biztosítói adatszolgáltatására vonatkozó szabályokat
 
 rendeletben állapítsa meg.
 

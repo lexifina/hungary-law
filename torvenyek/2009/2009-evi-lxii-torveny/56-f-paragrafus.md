@@ -1,0 +1,1 @@
+56/F. § A számviteli rendért felelős vezető a felelős vezető mellett aláírásával igazolja a Felügyeletnek beküldött, az 57/A. § (3) bekezdése szerinti éves gazdálkodási jelentés és az 57/A. § (9) bekezdése szerinti jelentés, továbbá a Bit. 143. §-ban meghatározott eszköznyilvántartás helytállóságát.
