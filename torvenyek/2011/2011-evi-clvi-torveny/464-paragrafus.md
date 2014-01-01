@@ -27,3 +27,5 @@ e) a külföldi vállalkozásnak az illetősége szerinti állam hatósága ált
 (8) A kincstár számfejtési körébe tartozó költségvetési szervek képviselőjeként az adó megállapítására, bevallására és megfizetésére – figyelemmel az Art. 176. § (11)–(12) bekezdéseire is – a kincstár kötelezett.
 
 (9) Az adó megállapítására, bevallására és megfizetésére kötelezett adózó olyan nyilvántartást köteles vezetni, amelynek alapján az adó alapja és összege, valamint az annak megállapításánál figyelembe vett mentesség és kedvezmény összege, továbbá az adó megfizetésének napja ellenőrizhető. E nyilvántartási kötelezettségét a számvitelről szóló törvény hatálya alá tartozó kifizető a számvitelről szóló törvény szerinti nyilvántartása (könyvvezetése) megfelelő részletezésével, más kifizető a személyi jövedelemadóról szóló törvény vagy az egyszerűsített vállalkozói adóról szóló törvény rendelkezése alapján vezetett külön nyilvántartás révén teljesíti.
+
+(10) A Munka Törvénykönyve szerinti munkáltató személyében bekövetkező változás esetén a 462/C. § szerinti kedvezményt az átvevő munkáltató tovább érvényesítheti a kedvezménnyel érintett időszak fennmaradó részére.

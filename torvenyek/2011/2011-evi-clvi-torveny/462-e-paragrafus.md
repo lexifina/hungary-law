@@ -8,7 +8,9 @@
 
 a) a kifizető a létszámát az új munkavállalóval létesített munkaviszony kezdetét megelőző hónap – Központi Statisztikai Hivatal által a munkaügy-statisztikai adatszolgáltatáshoz kiadott útmutató szerinti – átlagos statisztikai állományi létszámához képest növeli, és a megemelt létszámot az új munkavállaló foglalkoztatása alatt, de legalább a (2) bekezdésben meghatározott kedvezményezett időszakban nem csökkenti, és
 
-b) a kedvezménnyel érintett munkavállaló bejelentett lakóhelye legalább hat hónapja, valamint a tényleges munkavégzési helye abban a szabad vállalkozási zónában található, amelyben a kifizető működik.
+b) a kedvezménnyel érintett munkavállaló tényleges munkavégzési helye abban a szabad vállalkozási zónában található, amelyben a kifizető működik, és
+
+c) a kedvezménnyel érintett munkavállaló bejelentett lakóhelye legalább hat hónapja a b) pont szerinti szabad vállalkozási zónában vagy e szabad vállalkozási zóna közigazgatási határától – közúton vagy közforgalom elől el nem zárt magánúton számított – legfeljebb 20 km-re levő szabad vállalkozási zónában található, vagy ugyanabban a területfejlesztésről és a területrendezésről szóló törvény szerinti területfejlesztési-statisztikai kistérségben van, mint a b) pont szerinti szabad vállalkozási zóna.
 
 (4) Nem minősül az állományi létszám csökkentésének, ha a létszám olyan munkavállalóval csökken, aki helyett a kifizető a munkaviszony megszűnését követő hónap utolsó napjáig másik munkavállalóval létesít munkaviszonyt; e másik munkavállaló után a kedvezmény a (2) bekezdésben meghatározott kedvezményezett időszak fennmaradó részére érvényesíthető.
 

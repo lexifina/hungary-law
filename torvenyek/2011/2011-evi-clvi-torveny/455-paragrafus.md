@@ -6,13 +6,17 @@ a) a kifizetőnek a természetes személlyel fennálló, adófizetési köteleze
 
 b) a kifizetőnek a természetes személlyel fennálló, adófizetési kötelezettséget eredményező jogviszonyára tekintettel, vagy azzal összefüggésben a természetes személy részére juttatott, kifizetett, a személyi jövedelemadóról szóló törvény rendelkezései szerinti adókötelezettség alá eső önálló tevékenységből származó bevételből az adóelőleg-alap számításánál a személyi jövedelemadóról szóló törvény rendelkezései szerint figyelembe vett jövedelem;
 
-c) a tanulószerződésben meghatározott díj;
+c) a tanulószerződés alapján ténylegesen kifizetett díj;
 
-d) a hivatásos nevelőszülőt a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény szerint megillető hivatásos nevelőszülői díj;
+d)
 
-e) az a)–b) pont hatálya alá tartozó juttatás hiányában az adófizetési kötelezettséget eredményező munkaviszonyt, vagy más jogviszonyt szabályozó munkaszerződésben, illetőleg más szerződésben meghatározott alapbér, illetőleg díjazás; külföldi kiküldetés esetén e pont alkalmazásában alapbér a munkaszerződés alapján fizetett (juttatott), az adott munkakörben foglalkoztatott kiküldetését megelőző évi havi átlagos alapbére, ennek hiányában a tárgyhavi alapbér.
+e) az a)–b) pont hatálya alá tartozó juttatás hiányában a munkaszerződésben meghatározott alapbér vagy – ha a munkát munkavégzésre irányuló egyéb jogviszonyban végzik – a szerződésben meghatározott díjazás; külföldi kiküldetés esetén e pont alkalmazásában alapbér: az adott munkakörben foglalkoztatott kiküldetését megelőző egy évben a munkavállaló teljesítményétől, ledolgozott munkaidejétől közvetlenül függő, a munkavállaló alapbérén vagy az alkalmazott bérformán alapuló, a munkaszerződés alapján ténylegesen számfejtett és kifizetett munkabér (a statisztikai elszámolások szerinti törzsbér) havi átlagos összege, ennek hiányában a tárgyhavi alapbér.
 
 (1a) Ha a kifizető a természetes személlyel fennálló adófizetési kötelezettséget eredményező jogviszonya alapján ugyanazon adó-megállapítási időszakra Magyarországon adóztatható és Magyarországon nem adóztatható jövedelmet is kifizet (juttat), az adóalap megállapításánál az (1) bekezdés a)–b) és e) pontját együttesen kell alkalmazni, azzal az eltéréssel, hogy az (1) bekezdés e) pontjának alkalmazásakor az alapbér vagy más díjazás azon időszakra (naptári napokra) vonatkozó arányos részét kell figyelembe venni, amelyben a jövedelem külföldön adóztatható.
+
+(1b) Az adóalap megállapításánál az (1) bekezdésben meghatározott jövedelmet akkor is számításba kell venni, ha annak kifizetésére az adófizetési kötelezettséggel járó jogviszony megszűnését követően kerül sor.
+
+(1c) Az adókötelezettséget megalapozó jogviszony megszűnését követően, e jogviszony alapján jutatott (kifizetett) adólapot képező jövedelmet úgy kell figyelembe venni, mintha annak kifizetésére a jogviszony megszűnése napján került volna sor.
 
 (2) Adófizetési kötelezettséget eredményező jogviszony:
 
@@ -38,7 +42,9 @@ a) a (2) bekezdés c)–d), f) pontjában meghatározott jogviszony, ha a jogi s
 
 b) az iskolaszövetkezetnek a nappali rendszerű oktatás keretében tanulmányokat folytató tanuló (hallgató) tagjával fennálló jogviszony;
 
-c) a szociális szövetkezetnek a szövetkezetekről szóló törvényben meghatározott tagi munkavégzési jogviszonyban álló tagjával fennálló jogviszonya.
+c) a szociális szövetkezetnek a szövetkezetekről szóló törvényben meghatározott tagi munkavégzési jogviszonyban álló tagjával fennálló jogviszonya;
+
+d) a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 44. § (1) bekezdés a) pontja szerint a hallgatói munkaszerződés alapján létrejött jogviszony,
 
 (4) A kifizetőt terhelő adónak nem alapja:
 
