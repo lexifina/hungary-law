@@ -4,7 +4,7 @@
 
 (2) A felelős személy és a gyermekgyógyász vezeti az 5. melléklet szerinti, intézeten kívül született újszülöttről szóló vizsgálati lapot, amely részletesen tartalmazza az újszülöttel kapcsolatos egészségügyi eseményeket, beleértve a 9. § (2) bekezdése szerinti vizsgálatot is.
 
-(3) A szülést követő 72 óra elteltével a felelős személy és a gyermekgyógyász négy példányban elkészíti a (2) bekezdésben meghatározott, az intézeten kívül született újszülöttről szóló vizsgálati lapot, továbbá a 6. melléklet szerinti, az intézeten kívüli szülésről szóló összefoglalót.
+(3)[^10] A szülést követő 72 óra elteltével a felelős személy és a gyermekgyógyász két példányban elkészíti a (2) bekezdésben meghatározott, az intézeten kívül született újszülöttről szóló vizsgálati lapot, a felelős személy pedig kitölti a 6. melléklet szerinti, az intézeten kívüli szülésről szóló összefoglalót.
 
 (4) A felelős személy a szülészeti eseményt követő 48 órán belül két példányban kiállítja az újszülött anyakönyvezéséhez szükséges, a 7. mellékletben meghatározott, az intézeten kívüli születés tényéről szóló igazolást, és átadja azt az anya részére. A felelős személy az intézeten kívül született újszülöttről szóló vizsgálati lap és az intézeten kívüli szülésről szóló összefoglaló egy példányát átadja a házi gyermekorvosnak.
 
@@ -21,3 +21,5 @@ b) az igazolás alapjául szolgáló dokumentum megnevezése, kiállításának 
 c) a megszerzett gyakorlat időszaka és a szülések száma,
 
 d) a szakmai gyakorlatot igazoló szervezeti egység vezetőjének aláírása.
+
+[^10]: A 12. § (3) bekezdése az 520/2013. (XII. 30.) Korm. rendelet 83. §-ával megállapított szöveg.

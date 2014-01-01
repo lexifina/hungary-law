@@ -1,4 +1,4 @@
-## 16. §[^6]
+## 16. §[^11]
 
 1. melléklet a 35/2011. (III. 21.) Korm. rendelethez
 
@@ -78,4 +78,4 @@ i) idő előtti burokrepedés, ha a szülés nem indul el spontán 12 órán bel
 
 j) igazolt B típusú streptococcus fertőzés.
 
-[^6]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
