@@ -1,12 +1,12 @@
-9. §[^17] (1) A munkáltató köteles a kivizsgálás befejezésekor, de legkésőbb a tárgyhót követő hónap 8. napjáig megküldeni a jegyzőkönyvet
+9. §[^19] (1) A munkáltató köteles a kivizsgálás befejezésekor, de legkésőbb a tárgyhót követő hónap 8. napjáig megküldeni a jegyzőkönyvet
 
 a) a sérültnek, halála esetén hozzátartozójának;
 
 b) a halált, illetve a három napot meghaladó munkaképtelenséget okozó munkabalesetről a munkabaleset helyszíne szerint illetékes munkavédelmi felügyelőségnek, illetve a Magyar Bányászati és Földtani Hivatal (a továbbiakban: MBFH) munkabaleset helyszíne szerint illetékes területi szervének;
 
-c) külföldi kiküldetés, külszolgálat, munkaerő-kölcsönzés esetén a magyarországi székhelyű munkáltató magyar munkavállalójának a b) pont szerinti munkabalesetéről a munkáltató székhelye szerint illetékes munkavédelmi felügyelőségnek, illetve az MBFH munkáltató székhelye szerint illetékes területi szervének;
+c)[^20] külföldi kiküldetés, külszolgálat, munkaerő-kölcsönzés esetén a magyarországi székhelyű munkáltató munkavállalójának a b) pont szerinti munkabalesetéről a munkáltató székhelye szerint illetékes munkavédelmi felügyelőségnek, illetve az MBFH munkáltató székhelye szerint illetékes területi szervének;
 
-d)[^18] az Országos Egészségbiztosítási Pénztárnak, a társadalombiztosítási kifizetőhelynek, ennek hiányában az illetékes egészségbiztosítási szakigazgatási szervnek,
+d)[^21] az Országos Egészségbiztosítási Pénztárnak, a társadalombiztosítási kifizetőhelynek, ennek hiányában az illetékes egészségbiztosítási szakigazgatási szervnek,
 
 e) munkaerő-kölcsönzés, kirendelés esetén a kölcsönbeadó, kirendelő munkáltatónak.
 
@@ -32,5 +32,6 @@ h) fényképfelvételeket, videófelvételeket,
 
 i) a belső szabályzatok vonatkozó részeit.
 
-[^17]: A Vhr. 9. §-a az 5/2010. (III. 9.) SZMM rendelet 5. §-ával megállapított szöveg.
-[^18]: A Vhr. 9. § (1) bekezdés d) pontja a 27/2010. (XII. 31.) NGM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^19]: A Vhr. 9. §-a az 5/2010. (III. 9.) SZMM rendelet 5. §-ával megállapított szöveg.
+[^20]: A 9. § (1) bekezdés c) pontja a 63/2013. (XII. 17.) NGM rendelet 4. §-a szerint módosított szöveg.
+[^21]: A Vhr. 9. § (1) bekezdés d) pontja a 27/2010. (XII. 31.) NGM rendelet 3. § (2) bekezdésével megállapított szöveg.

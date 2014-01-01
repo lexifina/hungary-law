@@ -1,12 +1,14 @@
 ## A munkabaleseti jegyzőkönyv kitöltési útmutatója
 
-## A kitöltési útmutató a munkahelyi balesetek európai statisztikája ESAW (European Statistics of Accidents at Work) módszertanának figyelembevételével készült.
+## A kitöltési útmutató a munkabalesetek európai statisztikája ESAW (European Statistics of Accidents at Work) módszertanának figyelembevételével készült.
 
-## A munkabaleset kivizsgálása során nyert adatok alapján a munkáltatónak – számítógéppel, írógéppel vagy nyomtatott betűvel – kell kitölteni a munkabaleseti jegyzőkönyv (a továbbiakban: jegyzőkönyv) valamennyi rovatát az (E) blokk „A munkabalesettel kapcsolatos egyéb információk:” 1–6 pontjaihoz tartozó kódnégyzetek és a (F) és (G) blokkban lévő kódnégyzet, valamint a (J) blokk kivételével. Az (E) blokkban lévő sorokba a szöveges meghatározást, választ a munkáltatónak kell megadni. Az (E), (F), (G) blokkokban lévő kódnégyzeteket, valamint a jegyzőkönyv (J) blokkját az illetékes felügyelet (OMMF területi munkavédelmi felügyelősége, illetve a bányakapitányság) tölti ki.
+## A munkabaleset kivizsgálása során nyert adatok alapján a munkáltatónak - számítógéppel, írógéppel vagy nyomtatott betűvel - kell kitölteni a munkabaleseti jegyzőkönyv (a továbbiakban: jegyzőkönyv) valamennyi rovatát az (E) blokk „A munkabalesettel kapcsolatos egyéb információk:” 1-6 pontjaihoz tartozó kódnégyzetek, továbbá az (F) és a (G) blokkban lévő kódnégyzet, valamint a (J) blokk kivételével. Az (E) blokkban lévő sorokba a szöveges meghatározást, választ a munkáltatónak kell megadni. Az (E), (F), (G) blokkokban lévő kódnégyzeteket (az (E) blokk 7 pont kivételével), valamint a jegyzőkönyv (J) blokkját az illetékes hatóság (munkavédelmi felügyelőség, illetve a bányakapitányság) tölti ki.
 
-## A munkabaleset kivizsgálása során a munkáltatónak figyelemmel kell lennie a munkavédelemről szóló 1993. évi XCIII. törvény (Mvt.) 57. §-a (3) bekezdésének h) pontjában foglalt előírásra, amely szerint a munkáltató által kijelölt (vagy foglalkoztatott, megbízott) személy feladata a munkabalesetek kivizsgálása, valamint az Mvt. 65. §-ának (2) bekezdésében foglalt azon előírásra, amely munkabiztonsági szaktevékenységnek minősíti a súlyos munkabaleset, valamint az olyan – munkaeszköz, illetve technológia által okozott – munkabaleset kivizsgálását, amely kettőnél több személy egyszerre (egy időben), azonos helyen történő sérülését vagy más egészségkárosodását okozta. A kivizsgálás egyik tartalmi eleme a jegyzőkönyv szakszerű kitöltése, amely jogszabályban előírt szakképzettséggel rendelkező szakember bevonásával történhet.
+## A munkabaleset kivizsgálása során a munkáltatónak figyelemmel kell lennie a munkavédelemről szóló 1993. évi XCIII. törvény (a továbbiakban: Mvt.) 57. §-a (3) bekezdésének h) pontjában foglalt előírásra, amely szerint a munkáltató által kijelölt (vagy foglalkoztatott, megbízott) személy feladata a munkabalesetek kivizsgálása, valamint az Mvt. 65. §-ának (2) bekezdésében foglalt azon előírásra, amely munkabiztonsági szaktevékenységnek minősíti a súlyos munkabaleset, valamint az olyan - munkaeszköz, illetve technológia által okozott - munkabaleset kivizsgálását, amely kettőnél több személy egyszerre (egy időben), azonos helyen történő sérülését vagy más egészségkárosodását okozta.
 
-## Területi kód: Annak a területnek (Budapest/megye/külföld) megfelelő kódszámát kell beírni a kódnégyzetekbe, ahol a munkabaleset bekövetkezett.
+## Nyilvántartási szám: A bejelentésre kötelezett munkabalesetre vonatkozóan a munkáltató által vezetett munkabaleseti nyilvántartás szerinti évszám utolsó két számjegyét és a sorszámát kell beírni.
+
+## Területi kód: Annak a területnek (Budapest/megye/külföld) a kódszámát kell beírni a kódnégyzetekbe, ahol a munkabaleset bekövetkezett.
 
 | Kódszám | Terület |
 
@@ -54,349 +56,345 @@
 
 ## Adatszolgáltatás jellege:
 
-## A kódnégyzetbe az alábbi kódszámok közül azt a számot kell beírni, amelynek okán a munkabaleseti jegyzőkönyv kitöltésre került.
+## A kódnégyzetbe az alábbi kódszámok közül azt a számot kell beírni, amelynek okán a jegyzőkönyv kitöltésre került.
 
-## 1-es, új jegyzőkönyvre utaló sorszámot kell beírni a kódnégyzetbe abban az esetben, ha az adott balesetről első alkalommal töltöttek ki munkabaleseti jegyzőkönyvet.
+## 1-es, új jegyzőkönyvre utaló sorszámot kell beírni a kódnégyzetbe abban az esetben, ha az adott balesetről első alkalommal töltöttek ki jegyzőkönyvet.
 
 ## 2-es, módosításra, kiegészítésre utaló sorszámot kell beírni, ha a balesetről már korábban töltöttek ki jegyzőkönyvet, de valamely adattal (kivéve munkaképtelen napok száma), tényezővel, megállapítással kapcsolatosan módosítás vált szükségessé.
 
-## 3-as, nyilvántartásból való törlésre utaló sorszámot kell beírni, ha az adatszolgáltatásban meghatározott bejelentés megtétele után bekövetkezett, vagy utólag felismert tény, körülmény miatt, esetleg hatósági, bírósági döntés alapján a baleset nem minősül munkabalesetnek.
+## 3-as, nyilvántartásból való törlésre utaló sorszámot kell beírni, ha a jegyzőkönyv beküldése után bekövetkezett, vagy utólag felismert tény, körülmény miatt a baleset nem minősül munkabalesetnek.
 
-## 4-es, a balesetből eredő munkaképtelen napok számának közlésére utaló sorszámot kell beírni a kódnégyzetbe abban az esetben, ha a már jelentett munkabaleset sérültje visszanyerte munkaképességét és a sérülés miatti munkaképtelen napok számát a korábban megküldött jegyzőkönyv nem tartalmazta.
+## 4-es, a balesetből eredő munkaképtelen napok közlésére utaló kódot kell beírni, ha a már korábban beküldött jegyzőkönyvben rögzített munkabaleset sérültje visszanyerte munkaképességét és a sérülés miatti munkaképtelen napok számát a korábban megküldött jegyzőkönyv nem tartalmazta, vagy a sérült a balesettel összefüggésben ismét munkaképtelen lett és a munkaképtelen napok számában változás következett be
+
+## A 2-es, 3-as, 4-es kód esetén a munkabalesetről az első alkalommal kitöltött munkabaleseti jegyzőkönyv nyilvántartási számát is fel kell tüntetni a jegyzőkönyvben.
 
 ## (A) A munkáltató adatai:
 
-## Ebben a blokkban az Mvt. 87. § 8. pontjának figyelembevételével a munkabaleseti jegyzőkönyvet kitöltő munkáltató adatait kell feltüntetni. Általánostól eltérő foglalkoztatás esetén, pl. kirendelés, munkaerő-kölcsönzés keretén belül foglalkoztatott munkavállaló balesetéről felvett munkabaleseti jegyzőkönyv (H) blokkjában a kirendelő és a kölcsönbeadó munkáltató nevét és címét szerepeltetni kell.
+## Ebben a blokkban a jegyzőkönyv kitöltésére kötelezett, az Mvt. 87. § 8. pont szerinti munkáltató adatait kell feltüntetni.
+
+## Az említett munkáltatói adatokon túlmenően, például: kirendelés, munkaerő-kölcsönzés keretén belül foglalkoztatott munkavállaló balesetéről felvett jegyzőkönyv esetében a (H) blokk „Mellékletek, megjegyzések” rovatban a kirendelő és a kölcsönbeadó munkáltató nevét és címét is szerepeltetni kell.
 
 ## 1. Neve:
 
-## A munkáltató (cégjegyzékben/vállalkozói igazolványban szereplő) teljes nevét kell beírni, kivéve a gazdálkodási formát, ami rövidített is lehet, pl. kft., bt. stb.
+## A munkáltató (cégjegyzékben/vállalkozói igazolványban szereplő) teljes nevét kell beírni. A gazdálkodási forma megjelölését rövidíteni is lehet. Például: kft., bt., stb.
 
 ## 2. Címe:
 
-## A munkáltató címeként (cégjegyzékben/vállalkozói igazolványban szereplő) székhely pontos címét kell beírni. Amennyiben a levelezési cím ettől eltérő, akkor azt a (H) blokkban fel kell tüntetni.
+## A munkáltató (cégjegyzékben/vállalkozói igazolványban/személyazonosító okmányban szereplő) székhelyének/lakhelyének pontos címét kell beírni. Amennyiben a levelezési cím ettől eltérő, akkor azt a (H) blokk „Mellékletek, megjegyzések” rovatban kell feltüntetni.
 
-## 3–4. Telefonszáma, e-mail címe:
+## 3-4. Telefonszáma, e-mail címe:
 
-## A rovat kitöltése során a munkabaleseti jegyzőkönyv kitöltésével kapcsolatos esetleges további felvilágosítást adó személy elérhetőségi adatait célszerű megadni.
+## A rovatba a jegyzőkönyv kitöltésével kapcsolatos érdemi felvilágosítást adó személy elérhetőségét ajánlott megadni.
 
-## 5. Adószáma:
+## 5. Adószáma (adóazonosító jele):
 
-## Amennyiben a munkáltató adószámmal nem rendelkezik, pl. magánszemély munkáltató akkor az adóazonosító jelet kell a megfelelő kódnégyzetekbe beírni.
+## A megfelelő kódnégyzetekbe a munkáltató adószámát / adóazonosító jelét kell beírni.
 
-## 6. Közösségi adószáma:
+## 6. Gazdálkodási forma:
 
-## A rovat külföldi tulajdonú munkáltatók esetén töltendő ki.
+## A kódnégyzetekbe a jegyzőkönyv kitöltésekor hatályos, a KSH által kiadott gazdálkodási formát jelölő kódszámot kell beírni. Például:113 Kft., 212 Bt., 114 Rt., 231 Egyéni vállalkozó, 233 Adószámmal rendelkező magánszemély stb.
 
-## 7. Gazdálkodási forma:
+## 7. Főtevékenysége:
 
-## A forma jelölésére szolgáló kódnégyzetekbe a 9001/2002. (SK 3.) KSH közlemény 2. számú melléklete szerinti kódszámot (113 Kft., 212 Bt., 114 Rt., 231 Egyéni vállalkozó, 233 Adószámmal rendelkező magánszemély stb.) kell beírni.
+## A kódnégyzetekbe a cégjegyzékben/ vállalkozói igazolványban szereplő főtevékenységét jelölő TEÁOR’08 (Gazdasági Tevékenységek Egységes Ágazati Osztályozási Rendszere) kódszámot kell beírni. Munkáltatónak minősülő adószámmal nem rendelkező magánszemély esetében annak a gazdasági tevékenységnek megfelelő kódszámot kell beírni, amelyben a sérültet foglalkoztatta.
 
-## 8. Fő tevékenysége:
+## 8. Helyi egység „fő” tevékenysége:
 
-## A kódnégyzetekbe a cégjegyzékben/statisztikai számjelben/vállalkozói igazolványban szereplő fő tevékenységi kört jelölő TEÁOR’08 (Gazdasági Tevékenységek Egységes Ágazati Osztályozási Rendszere)/(szakágazati) kódszámot kell beírni. A kódszám a munkáltató gazdasági főtevékenységét jelöli. Meghatározása a NACE Rev.2 részletes (4 számjegyes) verziója alapján történik, amely azonos a TEÁOR’08. szakágazati besorolásával. Tevékenységi kört/szakágazatot jelölő kódszámok, mint 0111 Gabonaféle termesztése, 0220 Fakitermelés, 2562 Fémmegmunkálás, 4120 Lakó és nem lakó épület építése stb. A kódszámok beírásánál figyelembe kell venni, hogy 2008 január 1-től a TEÁOR’03 helyébe a TEÁOR’08 lépett ezért az új „Főtevékenység”/„Fő tevékenységi köre” kódszámot kell a jegyzőkönyvben szerepeltetni. Magánszemély munkáltató esetében annak a gazdasági tevékenységnek megfelelő kódszámot kell beírni, amelyben a sérültet foglalkoztatta.
+## A kódnégyzetekbe a sérült munkahelyéül szolgáló helyi egység „fő” tevékenységi körét jelölő TEÁOR’08 kódszámot kell beírni. A „fő” tevékenységi kör ebből a szempontból azt a tevékenységet jelenti, amely a legtöbb munkavállalót foglalkoztatja. A sérült munkahelyéül szolgáló helyi egység „fő” gazdasági tevékenysége eltérhet a cégjegyzékben szereplő fő tevékenységi körétől. Például: a munkáltató cégjegyzékben megjelölt főtevékenységi köre „Saját tulajdonú ingatlan adásvétele” (TEÁOR’08: 6810) és a munkavállaló balesete a munkáltató fémszerkezet gyártó telephelyén történt, akkor a helyi egység „fő” tevékenysége kódnégyzetekbe az utóbbi gazdasági tevékenységet jelölő 2511 (Fémszerkezet gyártása) kódszámot kell beírni.
 
-## 9. Helyi egység fő tevékenysége:
+## A „helyi egység” az a földrajzilag meghatározható helyszín, ahol a sérült munkát a baleset bekövetkezésének időpontjában végezte, vagy amely a munka bázisának tekinthető. Ha egy személy több helyen (például: szállítás, építőipar, karbantartás, felügyelet, ügynökölés) vagy otthon dolgozik, helyi egységnek azt a helyet kell tekinteni, ahonnan az utasításokat adják vagy ahol a munkát szervezik. Rendszerint ez egy önálló épület, egy épület része vagy egy önálló épületcsoport.
 
-## A kódnégyzetekbe a sérült munkahelyéül szolgáló helyi egység fő gazdasági tevékenységét jelölő kódszámot kell beírni a TEÁOR’08-ban leírtaknak megfelelően. A fő gazdasági tevékenység ebből a szempontból azt a tevékenységet jelenti, amely a legtöbb munkavállalót foglalkoztatja. Egy vállalkozás helyi egysége az üzleti vállalkozás, szakmai tevékenység, gazdaság, gyártó, közszolgáltató stb. földrajzi helye, pl. telephely, fióktelep stb. A helyi egység meghatározásának további értelmezése a 11. pontnál. A külön helyi egységgel nem rendelkező munkáltatónál történt baleset esetén a munkáltató főtevékenységét kell megjelölni. A sérült munkahelyéül szolgáló helyi egység fő gazdasági tevékenysége eltérhet a cégjegyzékben/statisztikai számjelben szereplő főtevékenységtől. Például a munkáltató cégjegyzékben megjelölt főtevékenysége „Saját tulajdonú ingatlan adásvétele” és a munkavállaló balesete a munkáltató fémszerkezet gyártó telephelyén történt akkor a helyi egység fő tevékenysége kódnégyzetekbe az utóbbi gazdasági tevékenységet jelölő 2511 kódszámot kell beírni.
+## A földrajzi meghatározottságot szigorúan kell érteni, mert egy munkáltató két egysége, amely különböző helyen található (ha közel esnek is egymáshoz) két helyi egységnek tekintendő. Ugyanakkor egyetlen helyi egység több szomszédos adminisztratív területet is átfoghat. Az egység határait a telephely határai jelölik ki, ami azt jelenti, hogy például egy áthaladó közút nem szakítja meg a határvonalak folytonosságát.
 
-## 10. Összlétszám-kategória:
+## A külön helyi egységgel nem rendelkező munkáltatónál történt baleset esetén a munkáltató főtevékenységét kell megjelölni.
 
-## A munkáltató összlétszámának megfelelő kategória kódszámot kell beírni. Összlétszám alatt a rész- és teljes munkaidőben, a munkáltató központjában és telephelyén (telephelyein, fióktelepein stb.) foglalkoztatott munkavállalók együttes létszáma értendő. Az összlétszámnál figyelembe kell venni a kirendelés, munkaerő kölcsönzés keretén belül foglalkoztatott munkavállalókat, (Mvt. 87. § 8. pont) szakmai gyakorlaton lévő tanulókat is.
+## 9. Összlétszám-kategória:
 
-| Összlétszám és helyi egység létszám-kategória kódszám | Létszám-kategória határok |
+## A kódnégyzetbe a munkáltató összlétszámának megfelelő létszám-kategóriához tartozó kódszámot kell beírni. Összlétszám alatt valamennyi, a munkáltatónál szervezett munkavégzés keretében, rész- és teljes munkaidőben, a munkáltató központjában és telephelyén (telephelyein, fióktelepein stb.) foglalkoztatott munkavállalók együttes létszáma értendő, ideértve az alkalmi munkavállalókat és a közfoglalkoztatottakat is. Az összlétszámnál figyelembe kell venni a kirendelés, munkaerő kölcsönzés keretén belül foglalkoztatott munkavállalókat, valamint a szakmai gyakorlaton lévő tanulókat, hallgatókat is (Mvt. 87. § 8. pont).
 
-| 0 | Nincs munkavállaló (pl. egyéni vállalkozó munkavállaló alkalmazása nélkül) |
+| Összlétszám és helyi egység létszám-kategória kódszám | Létszám-kategória |
 
-| 1 | 1–9 fő munkavállaló |
+| 0 | Nincs munkavállaló |
 
-| 2 | 10–49 fő munkavállaló |
+| 1 | 1-9 fő munkavállaló |
 
-| 3 | 50–249 fő munkavállaló |
+| 2 | 10-49 fő munkavállaló |
 
-| 4 | 250–499 fő munkavállaló |
+| 3 | 50-249 fő munkavállaló |
+
+| 4 | 250-499 fő munkavállaló |
 
 | 5 | 500 vagy több munkavállaló |
 
 | 9 | A munkavállalók száma ismeretlen |
 
-## 11. Helyi egység létszám kategória:
+## 10. Helyi egység létszám kategória:
 
-## A kódnégyzetekbe a balesetet szenvedett munkavállaló munkahelyéül szolgáló helyi egységben dolgozó munkavállalók számának megfelelő létszám-kategória (10. pont) kódszámot kell beírni. Amennyiben a munkáltató külön helyi egységgel nem rendelkezik, úgy az összlétszámnak megfelelő kategória kódszámot kell szerepeltetni.
-
-## Az ESAW-módszer a teljes munkaidő egyenértékben számított munkavállalók számát veszi figyelembe.
-
-## A teljes munkaidő egyenértékben számított dolgozó meghatározása a munkáltató helyi egységében végzett gazdasági tevékenységben foglalkoztatott teljes munkaidős alkalmazott szokásos éves átlagos munkaórájához viszonyítva történik. A helyi egység dolgozóinak teljes munkaidő egyenértéke egyenlő az ott dolgozók összes éves munkaórájának és az adott szektorra jellemző országos éves átlagos munkaórának a hányadosával. A legközelebbi egészszámra kell kerekíteni, kivéve a > 0 és < 1 értékeket, amelyet mindig 1-re kell kerekíteni.
-
-## A „helyi egység” az a földrajzilag meghatározható helyszín, ahol a munkát általában végzik, vagy amely a munka bázisának tekinthető. Ha egy személy több helyen (szállítás, építőipar, karbantartás, felügyelet, ügynökölés) vagy otthon dolgozik, helyi egységnek azt a helyet kell tekinteni, ahonnan az utasításokat adják vagy ahol a munkát szervezik. Rendszerint ez egy önálló épület, egy épület része vagy legföljebb egy önálló épületcsoport. A vállalkozás helyi egysége tehát azoknak a munkavállalóknak a csoportja, akik földrajzilag egyazon telephelyen dolgoznak.
-
-## A földrajzi meghatározottságot szigorúan kell érteni, mert egyazon munkáltató két egysége, amely különböző helyen található (ha mégoly közel esnek is egymáshoz) két helyi egységnek tekintendő. Ugyanakkor egyetlen helyi egység több szomszédos adminisztratív területen is fekhet egyszerre. Az egység határait a telephely határai jelölik ki, ami azt jelenti, hogy például egy áthaladó közút nem szakítja meg a határvonalak folytonosságát.
+## A kódnégyzetbe a sérült munkavállaló munkahelyéül szolgáló helyi egységben (8. pont) dolgozó munkavállalók számának megfelelő létszám-kategóriához tartozó kódszámot kell beírni. Amennyiben a munkáltató külön helyi egységgel nem rendelkezik, úgy az összlétszámnak megfelelő kategóriához tartozó kódszámot kell szerepeltetni.
 
 ## (B) A sérült (munkavállaló) adatai:
 
 ## 1. Neve:
 
-## A sérült személyi okmányaiban szereplő teljes nevét kell beírni.
+## A sérült személyi azonosító okmányában szereplő teljes nevét kell beírni.
 
 ## 2. TAJ száma:
 
-## A kódnégyzetekbe a balesetet szenvedett munkavállaló hatósági bizonyítványában szereplő „Társadalombiztosítási Azonosító Jel” (TAJ) számot kell beírni.
+## A kódnégyzetekbe a sérült munkavállaló hatósági igazolványában szereplő „Társadalombiztosítási Azonosító Jel” (TAJ) számot kell beírni. Ennek hiányában a kódnégyzetekbe a 000-000-000 számot kell szerepeltetni.
 
 ## 3. Születési neve:
 
-## A rovatba, amennyiben a sérült a születésekor anyakönyvezett nevétől eltérő házassági nevet használ, úgy minden esetben a születésekor anyakönyvezett (pl. leánykori név) nevet fel kell tüntetni.
+## A személyi azonosító okmányon szereplő teljes nevet kell beírni
 
 ## 4. Anyja neve:
 
-## A rovatba az anyja születési családi és utónevét kell beírni.
+## A sérült személyi azonosító okmányban szereplő, az anyja születéskori teljes nevét kell beírni.
 
 ## 5. Születési helye:
 
-## A rovatnál, ha a munkabalesetet szenvedett munkavállaló születési helye Magyarország államhatárán kívüli területre esik, akkor annak az országnak a nevét kell feltüntetni a jegyzőkönyvben, ahol a születési okmányt kiállították.
+## A rovatba a sérült személyi azonosító okmányában szereplő születési helyet, külföldi munkavállaló esetében az ország nevét magyar nyelven kell feltüntetni.
 
 ## 6. Születési ideje:
 
-## A kódnégyzetekbe az évet követő hó és nap kódokba egytagú, egykarakterű szám esetén 0-át kell a szám elé beírni. (Pl. 1954 április 6-án született munkavállaló esetén 1954 év, 04 hó, 06 nap számokat szerepeltetni.)
+## A kódnégyzetekbe a sérült személyi azonosító okmányában szereplő születési időpontját (év, hó: 01-12, nap: 01-31) kell feltüntetni. Például: 1954. április 6-án született munkavállaló esetén 1954 év, 04 hó, 06 nap számokat szükséges szerepeltetni.
 
 ## 7. Neme:
 
-## A sérült nemének megjelölésekor a kódnégyzetbe férfi esetén 1-es, nő esetén 2-es, ismeretlen nem esetén 9-es kódszámot kell alkalmazni.
+## A sérült nemének megjelölésekor a kódnégyzetbe férfi esetén 1-es, nő esetén 2-es kódot kell beírni.
 
 ## 8. Állampolgársága:
 
-## A kódnégyzetbe az alábbiak közül a megfelelő kódszámot kell beírni. Ha a sérült többszörös állampolgár, akkor azt az országot kell megjelölni, ahol a sérült a balesetét bejelentette.
+## A kódnégyzetbe a személyi azonosító okmányában szereplő állampolgárságnak megfelelő kódot kell feltüntetni.
 
 | Kód | Megjelölés |
 
 | 0 | Ismeretlen állampolgárságú |
 
-| 1 | Belföldi (Magyar állampolgár) |
+| 1 | Magyar állampolgár |
 
-| 2 | Nem belföldi, de EU-tagállamból való |
+| 2 | Más EU-tagállam állampolgára |
 
-| 3 | Nem belföldi és EU-tagállamon kívüli |
+| 3 | EU-tagállamon kívüli ország állampolgára |
 
-## 9. Életkora:
+## 9. Lakcíme:
 
-## Az életkor megjelölésekor a sérült években kifejezett életkorát kell megadni, vagyis a születési idő és a baleset időpontjának adatai alapján a betöltött éveket kell számolni, és azt kell a kódnégyzetekbe beírni. Például, egy 1980. március 30-án született munkavállaló 2009. március 27-én történt balesetének időpontjában 28 éves volt.
+## A személyi azonosító okmányban bejegyzett címet kell beírni. Ha ez nem állapítható meg, úgy ebbe a rovatba a tartózkodási helyet kell beírni. Amennyiben a sérültnek nincs magyarországi állandó vagy ideiglenes lakcíme, tartózkodási helye, abban az esetben a rovatot üresen kell hagyni és a (H) blokk „Mellékletek, megjegyzések” rovatban kell a külföldi lakcímet feltüntetni.
 
-## 10. Lakcíme:
-
-## A rovatnál elsősorban a lakcímet igazoló hatósági igazolványba, személyi igazolványba vagy más, személyazonosításra alkalmas okmányba bejegyzett és postai irányítószámmal ellátott lakóhelyet (annak a lakásnak a címét, amelyben él) kell feltüntetni. Ha ez nem állapítható meg, úgy ebbe a rovatba a tartózkodási helyet kell beírni. Erről a körülményről a munkáltatónak az (H) blokk „Mellékletek, megjegyzések” rovatban tájékoztatást kell adnia.
-
-## 11. Telefonszáma:
+## 10. Telefonszáma:
 
 ## A telefonszám beírására a sérült tudtával és hozzájárulásával kerülhet sor.
 
-## 12. Munkaköre:
+## 11. Foglalkozása (FEOR):
 
-## A szövegbeírásra alkalmas rovatba azt a munkakört kell beírni, amelyben a sérült munkavállalót a szervezett munkavégzés (Mvt. 87. § 9. pont) keretében foglalkoztatták. A kódnégyzetekbe a többszörösen módosított 9029/1993. (SK. 1994. 1.) KSH közlemény melléklete szerinti FEOR kódszámot kell szerepeltetni (FEOR: Foglalkozások Egységes Osztályozási Rendszere). Tanulói, hallgatói munkabaleset esetén azt a munkakört kell megjelölni, amelyben a gyakorlati képzése történt.
+## Azt a foglalkozást kell beírni, amelyben a sérült munkavállalót a szervezett munkavégzés (Mvt. 87. § 9. pont) keretében foglalkoztatták. A kódnégyzetekbe a szövegszerűen megadott foglalkozás szerinti FEOR’08 (Foglalkozások Egységes Osztályozási Rendszere) kódszámot kell beírni. Tanulói, hallgatói munkabaleset esetén azt a foglalkozást kell megjelölni, amelyben a gyakorlati képzése történt.
 
-## 13. Alkalmazotti viszonya:
+## 12. Foglalkoztatási jogviszonya:
 
-## A kódnégyzetekbe a balesetet szenvedett munkavállaló munkaviszonyának jellegét, foglalkoztatási viszonyának tartamát, valamint a munkaidő mértékét kifejező kódszámot kell beírni az alábbiak közül
+## A kódnégyzetekbe a sérült munkavállaló foglalkoztatási jogviszonyának jellegét (önfoglalkoztató, munkaviszony, egyéb foglalkozási jogviszony, ismeretlen), tartamát (határozott vagy határozatlan idejű), valamint a munkaidő mértékét (rész- vagy teljes munkaidő) kifejező kódszámot kell beírni.
 
-| Kódszám | Foglalkoztatás jellege | Foglalkoztatási viszony tartama | Munkaidő mértéke |
+## 3K85045_3
 
-| 000 | Ismeretlen |  |  |
+| Kód | Megjelölés |
 
-| 100 | Önfoglalkoztató |  |  |
+| 000 | Foglalkoztatási jogviszony ismeretlen |
 
-| 300 | Munkavállaló | Nem meghatározott | Nem meghatározott |
+| 100 | Önfoglalkoztató |
 
-| 301 | Munkavállaló | Nem meghatározott | Teljes munkaidős |
+| 311 | Határozatlan idejű (állandó) munkaviszony, teljes munkaidőben |
 
-| 302 | Munkavállaló | Nem meghatározott | Részmunkaidős |
+| 312 | Határozatlan idejű (állandó) munkaviszony, részmunkaidőben |
 
-| 310 | Munkavállaló | Állandó munkaviszonyban lévő határozatlan időtartamra | Nem meghatározott |
+| 321 | Határozott idejű (ideiglenes) munkaviszony, teljes munkaidőben |
 
-| 311 | Munkavállaló | Állandó munkaviszonyban lévő határozatlan időtartamra | Teljes munkaidős |
+| 322 | Határozott idejű (ideiglenes) munkaviszony, részmunkaidőben |
 
-| 312 | Munkavállaló | Állandó munkaviszonyban lévő határozatlan időtartamra | Részmunkaidős |
+| 500 | Tanuló vagy hallgató (szakmai, gyakorlati képzés esetén) |
 
-| 320 | Munkavállaló | Ideiglenes munkaviszonyban lévő határozott időtartamra | Nem meghatározott |
+| 900 | Egyéb foglalkoztatási jogviszony |
 
-| 321 | Munkavállaló | Ideiglenes munkaviszonyban lévő határozott időtartamra | Teljes munkaidős |
+## Részmunkaidőnek kell tekinteni az Munka törvénykönyvében meghatározott teljes munkaidő mértékét el nem érő munkaidőt és a rövidebb teljes napi munkaidőt is. Például, egyszerűsített foglalkoztatás esetében, ha a sérült a baleset napján négy órában volt foglalkoztatva, a foglalkoztatási jogviszonyt jelölő kódnégyzetekbe 322 kódszámot kell írni. Határozatlan időtartamra kötött teljes munkaidős munkavállaló balesete esetén a 311 kódszámot kell szerepeltetni.
 
-| 322 | Munkavállaló | Ideiglenes munkaviszonyban lévő határozott időtartamra | Részmunkaidős |
-
-| 400 | Családi dolgozó |  |  |
-
-| 500 | Tanuló | (szakmai, gyakorlati képzés esetén) |  |
-
-| 900 | Egyéb alkalmazotti státusz | Idesorolható a munka törvénykönyvéről szóló 2012. évi I. törvény (Mt.) 4. §-a szerint foglalkoztatott személy is |  |
-
-## Részmunkaidőnek kell tekinteni az Mt.-ben meghatározott teljes munkaidő mértékét el nem érő munkaidőt. Például, egyszerűsített foglalkozatás esetében, aki a sérülés napján négy órában volt foglalkoztatva az alkalmazotti viszonyt jelölő kódnégyzetekbe 322 kódszámot kell írni. Határozatlan időtartamra kötött teljes munkaidős munkavállaló balesete esetén a 311 kódszámot kell szerepeltetni.
-
-## 14. Munkatapasztalat az adott munkakörben a munkáltatónál:
-
-## A kódnégyzetekbe azt az időtartamot kell beírni, amennyit eltöltött abban a munkakörben, amelyikben a balesetét elszenvedte a munkavállaló. Például, ha tíz éve lakatos munkakörben foglalkoztatott munkavállaló átképzést követően hegesztőként dolgozott tovább a munkáltatónál negyed éven keresztül, amikor a balesete történt, akkor a kódnégyzetekbe 00 év 03 hónapot kell szerepeltetni. Abban az esetben, ha az adott munkáltatónál lakatos munkakörben foglalkoztatott munkavállaló, aki rendszeresen targoncavezetői feladatot látott el már három és fél éve, és targoncavezetés közben szenvedett balesetet, akkor a munkatapasztalat időtartama 03 év 06 hónap.
-
-## A munkatapasztalat időtartamát az adott munkáltatónál kell figyelembe venni.
+## Egyéb foglalkoztatási jogviszonynak kell tekinteni minden olyan, a fenti táblázaton kívüli jogviszonyt is, melynek keretében a munkát az Mvt. 87. § 8. pontjában foglaltak figyelembevételével szervezetten végzik.
 
 ## (C) A munkabaleset adatai:
 
 ## 1. Dátuma:
 
-## A kódnégyzetekbe az év utolsó 2 számát (pl. 2009. esetében 09-et), a baleset hónapját (pl. március hó: 03-at), a munkabaleset napját (pl. harmadika: 03-at) kell beírni.
+## A kódnégyzetekbe a baleset bekövetkezésének dátumát (év, hó: 01-12, nap: 01-31) kell beírni. Például: 2014. március 9-én történt a baleset, akkor 2014. év, 03 hó, 09 nap számokat szükséges szerepeltetni.
 
 ## 2. Időpontja:
 
-## A kódnégyzetbe a baleset bekövetkezésének időpontját, 24 órás időszámítás szerint kell kódolni egész órákban (pl. ha a munkabaleset délután 1 és 2 óra között következett be, akkor 13-at, ha hajnali 1 és 2 óra között történt, 01-et kell beírni. A 01 esetében az időt 01.00-tól 01.59-ig kell figyelembe venni). Amennyiben a baleset időpontja ismeretlen akkor 99-et kell beírni.
-
-## 3. Sérülés a munkavégzés hányadik órájában és a hét hányadik napján következett be:
-
-## A kódnégyzetek kitöltésénél az órákat a műszakkezdés időpontjától kell számolni teljes órákban, így amennyiben a napi 8 órás munkaidő-beosztásban dolgozó munkavállalót a munkaidőn túli első órában éri a baleset, akkor a kódnégyzetekbe 09-et kell írni. A 8 órás munkarendtől eltérő foglalkoztatás esetén, (pl. részmunkaidő, vagy egyenlőtlen munkaidő-beosztás) a jegyzőkönyv (H) blokkjának „Mellékletek, megjegyzések” rovatában a munkaidő mértékét meg kell jelölni.
-
-## A hét napjainak kódolásakor a hét első napja a hétfő ezért, amennyiben a munkavállaló balesete szombaton történik, akkor a kódnégyzetbe 6-os kód kerül.
-
-## 4. A sérülés típusa:
-
-## A kódnégyzetek kitöltésénél azt a sérülést kell megjelölni, amely a munkaképtelenséget okozta. Többszörös sérülés esetén a legsúlyosabb sérülést kell feltüntetni (pl. nyílt törés). A sérülés típusát szöveggel is szerepeltetni kell.
+## A kódnégyzetekbe a baleset bekövetkezésének időpontját, 24 órás időszámítás szerint kell feltüntetni egész órákban. Például: ha a munkabaleset délután 1 és 2 óra között következett be, akkor 13-at kell beírni, amely a 13 óra és 13 óra 59 perc közötti időszakot fogja át. Amennyiben a baleset időpontja ismeretlen, akkor 99-et kell beírni és a (H) blokk „Mellékletek, megjegyzések” rovatában kell az ismeretlen időpont okát feltüntetni.
 
 | Kód | Megjelölés |
 
-| 000 | Meg nem határozott, illetve ismeretlen sérülés típus |
+| 00 | 00:00 és 00:59 között |
 
-| 010 | Sebek és felületes sérülések (Ez a kódszám nem használható) |
+| 01 | 01:00 és 01:59 között |
 
-| 011 | Felületes sérülés |
+| 02 | 02:00 és 02:59 között |
 
-| 012 | Nyílt sebek |
+| … |  |
 
-| 019 | Egyéb típusú sebek és felületes sérülések |
+| 23 | 23:00 és 23:59 között |
 
-| 020 | Csonttörések (Ez a kódszám nem használható) |
+| 99 | A baleset ideje ismeretlen |
 
-| 021 | Zárt törések |
+## 3. A sérülés hányadik munkavégzési órában következett be:
 
-| 022 | Nyílt törések |
+## A kódnégyzetek kitöltésénél az órát a munkakezdés időpontjától teljes órákban kell számolni. Amennyiben a napi 8 órás munkaidőben dolgozó munkavállalót a munkaidőn túli első órában éri a baleset, akkor a kódnégyzetekbe 09-et kell írni. A 8 órás munkaidőtől eltérő foglalkoztatás (pl. részmunkaidő, vagy egyenlőtlen munkaidő-beosztás), vagy rendkívüli munkavégzés esetén a (H) blokk „Mellékletek, megjegyzések” rovatában kell a munkaidő mértékét, a pihenőidő időszakát valamint azt is megjelölni, hogy a legutóbbi pihenőnapja vagy szabadnapja óta hányadik munkanapon következett be és hány óra hány perckor a munkabaleset. Több műszak vagy osztott napi munkaidő esetén (azaz, ha a munkavállaló 24 óra leforgása alatt többször lép munkába) az órák számolását az első munkába lépéstől kell végezni és a pihenőidőt is bele kell számítani.
 
-| 029 | Egyéb csonttörések |
+## 4. A sérülés típusa:
 
-| 030 | Ficamok, húzódások, rándulások (Ez a kódszám nem használható) |
+## Annak a sérülésnek a típusát kell megjelölni, amely a munkaképtelenséget okozta. Többszörös sérülés esetén a legsúlyosabb sérülést kell figyelembe venni. Például: ha a munkavállaló elesés következtében ficamot és zárt törést szenvedett, akkor a „Zárt törések” elnevezésű (021) kódot kell beírni. Amennyiben az egyéb típusú kódok és megjelölések kerülnek kiválasztásra (019, 029, 039, 059, 069, 079, 089, 099, 109, 119, 999), akkor a (H) blokk „Mellékletek, megjegyzések” rovatában kell a sérülést pontosan feltüntetni.
 
-| 031 | Ficamok |
+## 3K85045_5
 
-| 032 | Húzódások, rándulások |
+| Kód | Megjelölés | Ide tartozik | Nem tartozik ide |
 
-| 039 | Ficamok, húzódások, rándulások egyéb formái |
+| 000 | Meg nem határozott, illetve ismeretlen sérülés típus |  |  |
 
-| 040 | Traumás amputáció [testrész(ek) elvesztése] |
+| Sebek és felületi sérülések |  |  |
 
-| 050 | Agyrázkódás és belső sérülések (Ez a kódszám nem használható) |
+| 011 | Felületi sérülés | Zúzódás, ütődés, vérömleny, horzsolás, karcolás, hólyagosodás, nem mérges rovarok csípése, felületi sérülések, a fejbőr sérülése és a szembe, fülbe stb. kerülő idegen testek által okozott felületi sérülések | állatok marásai következtében mérgezés (071-es kód) |
 
-| 051 | Agyrázkódás |
+| 012 | Nyílt sebek | Repedések, nyílt sebek, vágott sebek, sebekkel járó zúzódások, a körmök elvesztése, az izmok, inak és idegek sérülésekor keletkező sebek | Traumás csonkolás, enukleáció, szem kiszakadása (040-es kód), nyílt törés (022-es kód), nyílt sebekkel járó égési sérülések (061-es kód), felületi sérülések (011-es kód) |
 
-| 052 | Belső sérülések |
+| 019 | Egyéb típusú sebek és felületi sérülések |  |  |
 
-| 059 | Egyéb típusú agyrázkódás, illetve belső sérülések |
+| Csonttörések |  |  |
 
-| 060 | Égések, forrázások, fagyási sérülések (Ez a kódszám nem használható) |
+| 021 | Zárt törések | Egyszerű törések, ízületi sérüléssel (ficam stb.) járó törések, belső- vagy idegsérülésekkel járó törések |  |
 
-| 061 | Égési sérülések, forrázások (hőhatás miatt) |
+| 022 | Nyílt törések | A lágyrészek sérülésével járó törések (nyílt törések) |  |
 
-| 062 | Kémiai égési sérülések (marások) |
+| 029 | Egyéb típusú csonttörések |  |  |
 
-| 063 | Fagyási sérülések |
+| Ficamok, húzódások, rándulások | Az izmok, inak, porcok és ízületek túlterhelése miatt bekövetkező valamennyi akut csont- és izomrendszeri probléma |  |
 
-| 069 | Egyéb égési, fagyási sérülések és forrázások |
+| 031 | Ficamok | Részleges ficam (szubluxáció) és a csontok elmozdulása az ízületeknél | Töréssel járó ficam (021-es kód) |
 
-| 070 | Mérgezések és fertőzések (Ez a kódszám nem használható) |
+| 032 | Húzódások, rándulások | Az izmok, inak, porcok (és ízületek) szakadásához, repedéséhez, valamint sérvhez vezető túlterhelés | A csontok ízületeknél való elmozdulásának valamennyi típusára a 031-es kód vonatkozik; amennyiben az ilyen sérülések nyílt seb keletkezésével járnak, akkor a 012 csoport szerint kell őket kódolni |
 
-| 071 | Heveny mérgezések |
+| 039 | Egyéb típusú ficamok, húzódások, rándulások |  |  |
 
-| 072 | Heveny fertőzések |
+| 040 | Traumás amputáció [testrész(ek) elvesztése] | Csonkolás és összezúzódással járó sérülések, enukleáció, ideértve a szem traumás kiszakadását és a fül(ek) elvesztését |  |
 
-| 079 | Egyéb mérgezések és fertőzések |
+| Agyrázkódás és belső sérülések | Valamennyi, töréssel nem járó belső sérülés, vagyis az agy és a belső szervek zúzódása, bevérzése, repedése, szakadása | Nyílt sebek (012-es kód) és töréssel járó sérülések (020-as kódcsoport) |
 
-| 080 | Vízbefulladás és egyéb fulladás (Ez a kódszám nem használható) |
+| 051 | Agyrázkódás és koponyán belüli sérülések | Koponyán belüli sérülések |  |
 
-| 081 | Fulladások |
+| 052 | Belső sérülések | Mellkasüregi, hasüregi és medenceüregi szervek sérülése |  |
 
-| 082 | Vízbefulladás, illetve nem halálos vízbe merülés |
+| 059 | Egyéb típusú agyrázkódás, illetve belső sérülések |  |  |
 
-| 083 | A vízbefulladás és fulladás egyéb formái |
+| Égések, forrázások, fagyási sérülések |  |  |
 
-| 090 | Hang, rezgés, illetve nyomás hatásai (Ez a kódszám nem használható) |
+| 061 | Égési sérülések, forrázások (hőhatás miatt) | Forró tárgyak vagy nyílt láng okozta égési sérülések, forrázás, súrlódásos égési sérülések, sugárzás okozta égési sérülések (infravörös), napégés, villám hatásai, elektromos áram okozta égési sérülések, nyílt sebbel járó égési sérülések | Sugárzás égési sérülésektől eltérő hatásai (102-es kód) |
 
-| 091 | Heveny hallásvesztés |
+| 062 | Vegyi anyag (marás) okozta égési sérülések | Vegyi anyag (sav, lúg) okozta (kizárólag külső) égési sérülés | Maró hatású anyagok lenyelése okozta égési sérülések (071-es kód) |
 
-| 092 | Nyomásból adódó hatások |
+| 063 | Fagyási sérülések | Alacsony hőmérséklet hatásai (fagyási sérülések), részleges mélységű bőrveszteség, szövetelhalással (nekrózis) járó fagyási sérülés | Rendellenesen alacsony testhőmérséklet (hypothermia) és a túlzott hideg egyéb hatásai (103-as kód) |
 
-| 099 | Hang, rezgés, illetve nyomás heveny hatásainak egyéb formái |
+| 069 | Egyéb típusú égési, fagyási sérülések és forrázások |  |  |
 
-| 100 | Szélsőséges hőmérséklet, fény, illetve sugárzás hatásai (nem használható) |
+| Mérgezések és fertőzések |  |  |
 
-| 101 | Hőhatás, napszúrás |
+| 071 | Heveny mérgezések | Mérgező vagy maró hatású anyagok befecskendezésének, lenyelésének, felszívódásának vagy belélegzésének akut hatásai, állatok marásai következtében mérgezés, szén-monoxid vagy más mérgező gázok okozta fulladás | Vegyi anyag okozta külső égési sérülések (062-es kód), anafilaxiás sokk (119-es kód) |
 
-| 102 | Sugárzás hatásai (nem hősugárzás) |
+| 072 | Heveny fertőzések | Vírus, baktérium és egyéb fertőző ágensek okozta fertőzés (baleset következtében bekövetkező fertőzések) | fertőző betegség |
 
-| 103 | A hőmérséklet csökkenés hatásai |
+| 079 | Egyéb típusú mérgezések és fertőzések |  |  |
 
-| 109 | A szélsőséges hőmérséklet, fény, illetve sugárzás egyéb hatásai |
+| Vízbefulladás és fulladás |  |  |
 
-| 110 | Sokk (Ez a kódszám nem használható) |
+| 081 | Fulladások | Nyomás, szorítás vagy fojtás okozta fulladás, ideértve a környezeti levegőben tapasztalható oxigénmegvonás vagy oxigéncsökkenés okozta fulladást, valamint a légutakba kerülő idegen test okozta fulladást is | Szén-monoxid vagy más mérgező gázok okozta fulladás (071-es kód) |
 
-| 111 | Agresszió és fenyegetés |
+| 082 | Vízbefulladás, nem halálos vízbe merülés |  | A 081-es kód szerinti fulladás, anyagok vagy egyéb, nem folyékony halmazállapotú testek, például hó, föld stb. alá temetődés |
 
-| 112 | Traumás sokk |
+| 089 | Egyéb típusú vízbefulladás és fulladás |  |  |
 
-| 119 | Sokk egyéb formái |
+| Hang, rezgés, illetve nyomás hatásai |  |  |
 
-| 120 | Többszörös sérülések |
+| 091 | Heveny hallásvesztés | Hallás teljes vagy részleges elvesztése |  |
 
-| 999 | Egyéb máshova nem sorolt meghatározható sérülések |
+| 092 | Nyomásból adódó hatások | A légnyomás és a víznyomás által kifejtett hatások (barotrauma) |  |
+
+| 099 | Hang, rezgés, illetve nyomás egyéb heveny hatásai |  |  |
+
+| Szélsőséges hőmérséklet, fény, illetve sugárzás hatásai |  |  |
+
+| 101 | Hőguta és napszúrás | A túlzott természetes hő és a napfény (hőguta, napszúrás) vagy a mesterséges hő hatásai | Villám okozta sokk (112-es kód), napégés (061-es kód) |
+
+| 102 | Sugárzás hatásai (nem hősugárzás) | Röntgensugárzás, radioaktív anyagok okozta sugárzás, ultraibolya-sugárzás, ionizáló sugárzás hatásai, hegesztés utáni szemgyulladás |  |
+
+| 103 | Alacsony hőmérséklet hatásai | Véletlen hypothermia és az alacsony hőmérséklet egyéb hatásai | Fagyási sérülés (063-as kód) |
+
+| 109 | A szélsőséges hőmérséklet, fény, illetve sugárzás egyéb hatásai |  |  |
+
+| Sokk |  |  |
+
+| 111 | Agresszió és fenyegetés hatására fellépő sokk | Személy által tanúsított agresszió vagy fenyegetés például bankrablás, vásárlók és ügyfelek által tanúsított agresszió, „társadalmi konfliktus” hatására fellépő sokk | Anafilaxiás sokk (119-es kód), traumás sérülések után fellépő sokk (112-es kód) |
+
+| 112 | Traumás sokk | Áramütés, villám okozta sokk, a baleset után azonnal vagy késleltetve fellépő sokk | Anafilaxiás sokk (119-es kód), személy által tanúsított agresszió vagy fenyegetés (111-es kód), közvetlen fizikai sérülést nem okozó balesetek |
+
+| 119 | Sokk egyéb formái | A sérültnek közvetlen fizikai sérülést nem okozó, állatok által tanúsított agresszió; nem közvetlenül ember által előidézett, a sérültnek közvetlen fizikai sérülést nem okozó természeti katasztrófák és egyéb események; anafilaxiás sokk |  |
+
+| 120 | Többszörös sérülések | Ebbe a csoportba kizárólag azok az esetek tartoznak, amelyeknél a sérült legalább kétféle, egyformán súlyos sérülést szenvedett |  |
+
+| 999 | Egyéb, más kategóriába nem sorolható sérülések | Ez a csoport kizárólag a többi kategóriába nem sorolható sérülések kódolására használható: idegek és a gerincvelő sérülése, erek sérülése, természetes testnyíláson keresztül behatoló idegen test okozta sérülés stb. |  |
 
 ## 5. A sérült testrész:
 
-## Szöveges meghatározásánál és kódolásánál azt a testrészt kell pontosan megjelölni, amely a baleset során a legsúlyosabb mértékben sérült (pl. bal kéz mutató ujj).
+## Azt a testrészt kell pontosan megjelölni, amely a baleset során a legsúlyosabb mértékben sérült. Például: ha a bal kézen a mutató ujj sérült meg, akkor az „Ujj(ak)” elnevezésű (54-es) kódot kell beírni. Amennyiben az egyéb típusú kódok és megjelölések kerülnek kiválasztásra (19, 29, 39, 49, 59, 69, 99), akkor a (H) blokk „Mellékletek, megjegyzések” rovatában kell a sérült testrészt pontosan feltüntetni.
+
+## 3K85045_6
 
 | Kód | Megjelölés |
 
 | 00 | A sérült testrész nem határozható meg |
 
-| 10 | Fej pontosabb meghatározás nélkül csontokkal, izmokkal együtt (Ez a kódszám nem használható) |
+| Fej, pontosabb meghatározás nélkül |
 
-| 11 | Fej, agy és agyidegek, véredények |
+| 11 | Fej, agy és agyidegek, agyi erek, véredények |
 
-| 12 | Arckoponya |
+| 12 | Arc |
 
-| 13 | Szem |
+| 13 | Szem(ek) |
 
-| 14 | Fül |
+| 14 | Fül(ek) |
 
 | 15 | Fogak |
 
 | 18 | Többszörös fejsérülés |
 
-| 19 | Fej itt nem említett egyéb részeinek sérülése (pl. homlok, orr, állkapocs, halánték, tarkó, fej izmai) |
+| 19 | Fej fent nem említett egyéb részeinek sérülése, (pl. homlok, orr, állkapocs, halánték, tarkó, fej izmai) |
 
-| 20 | Nyak a nyaki csigolyákkal és tüskenyulványokkal együtt csontokkal, izmokkal együtt (Ez a kódszám nem használható) |
+| Nyak, a nyaki gerinccel és csigolyákkal együtt |
 
-| 21 | Nyak a nyaki csigolyákkal és tüskenyulványokkal együtt |
+| 21 | Nyak, a nyaki gerinccel és csigolyákkal együtt |
 
-| 29 | A nyak nem említett egyéb részei (nyakszírt, a nyak izmai) |
+| 29 | A nyak fent nem említett egyéb részei, (pl. nyakszírt, a nyak izmai) |
 
-| 30 | Hát a hátcsigolyákkal és tüskenyulványokkal csontokkal, izmokkal együtt (Ez a kódszám nem használható) |
+| Hát a hátgerinccel és hátcsigolyákkal együtt |
 
-| 31 | Hát a hátcsigolyákkal és tüskenyulványokkal együtt |
+| 31 | Hát a hátgerinccel és hátcsigolyákkal együtt |
 
-| 39 | A hát nem említett egyéb részei |
+| 39 | A hát fent nem említett egyéb részei |
 
-| 40 | Törzs és szervek, pontos meghatározás nélkül csontokkal, izmokkal együtt (Ez a kódszám nem használható) |
+| Törzs és belső szervek, pontos meghatározás nélkül |
 
-| 41 | Mellkas, bordák a bordaízületekkel és a lapockával |
+| 41 | Mellkas, bordák az ízületekkel és a lapockákkal együtt |
 
-| 42 | Mellkasi terület a szervekkel |
+| 42 | Mellkasi terület a belső szervekkel |
 
-| 43 | Medence és has a szervekkel |
+| 43 | Medence és has a belső szervekkel |
 
-| 48 | Törzs több helyen |
+| 48 | Törzs több helyen sérült |
 
 | 49 | A törzs fent nem említett részei |
 
-| 50 | Felső végtagok, pontosabb meghatározás nélkül csontokkal, izmokkal együtt (Ez a kódszám nem használható) |
+| Felső végtagok, pontosabb meghatározás nélkül |
 
 | 51 | Váll és vállízület (vállcsúcs, kulcscsont) |
 
@@ -404,95 +402,91 @@
 
 | 53 | Kéz (benne tenyér, kézfej) |
 
-| 54 | Ujjak |
+| 54 | Ujj(ak) |
 
 | 55 | Csukló |
 
-| 58 | Felső végtagok, több helyen |
+| 58 | Felső végtagok, több helyen sérültek |
 
 | 59 | A felső végtagok fent nem említett egyéb részei |
 
-| 60 | Alsó végtagok, pontosabb meghatározás nélkül csontokkal, izmokkal együtt (Ez a kódszám nem használható) |
+| Alsó végtagok, pontosabb meghatározás nélkül |
 
 | 61 | Csípő és csípőízület |
 
-| 62 | Láb a térdekkel (benne felső és alsólábszár) |
+| 62 | Láb a térdekkel (benne comb és alsólábszár) |
 
 | 63 | Boka |
 
-| 64 | Lábfej |
+| 64 | Lábfej (talp is) |
 
-| 65 | Lábujjak (talp is) |
+| 65 | Lábujj(ak) |
 
-| 68 | Alsó végtagok több helyen |
+| 68 | Alsó végtagok több helyen sérültek |
 
 | 69 | Az alsó végtagok fent nem említett egyéb részei (pl. farizom, az alsó végtag izmai, Achilles-ín) |
 
-| 70 | Egész test több helyen, pontos meghatározás nélkül (Ez a kódszám nem használható) |
+| Egész test vagy a test több területen sérült |
 
-| 71 | Egész test (A test jelentős része pl. égési, fagyás sérülés mértéke) |
+| 71 | Egész test (általános szervezeti hatások) (A test jelentős része pl. égési, fagyás sérülés) |
 
-| 78 | A test több része érintett |
+| 78 | A test több része sérült |
 
 | 99 | A test fent nem említett egyéb részei |
 
-## 6. A munkavégzés helye:
+## 6. A munkavégzési hely:
 
 ## A kódnégyzetben azt a helyet kell megjelölni, ahol a munkavállaló a balesetkor tartózkodott.
 
 | Kód | Megjelölés |
 
-| 0 | Nem meghatározott |
+| 1 | Szokásos munkavégzési hely |
 
-| 1 | Szokásos munkavégzés helye |
-
-| 2 | Változó (alkalmi, mozgó) munkavégzési hely |
+| 2 | Változó munkavégzési hely |
 
 | 9 | Egyéb munkavégzési hely |
 
-## a) A szokásos munkavégzés helyét szigorú értelemben kell venni, mindig a szokásos helyi munkaegység telephelyén belül. Például, helyhez kötött a munkavégzés műhelyben, üzletben, hivatalban és általánosságban a munkáltató helyi egységének telephelyén belül.
+## A „szokásos munkavégzési hely” fogalmát szűken kell értelmezni, ezért mindig a munkavégzés szerinti, szokásos helyi egység helyiségén belüli, vagyis műhelyben, üzletben, irodában, valamint általános értelemben véve a munkáltató helyi egységének valamely helyiségében található, rögzített munkaállást jelöli.
 
-## b) A változó (alkalmi, mozgó) munkavégzési hely tágabb értelemben használatos, lefedve az alábbiakat:
+## A „változó munkavégzési hely” tágabb értelemben használatos, lefedve az alábbiakat:
 
-## ba) Olyan munkák, amelyek esetén a munkavégzés helye „mobil” (teherautó-vezető, építőipari munkás, szerelő, karbantartó, rendőr, őr, utcaseprő stb.);
+## − A munkavégzési hely „mobil” (teherautó-vezető, mezőgazdasági munkás, építőipari munkás, szerelő, karbantartó, utcaseprő stb.);
 
-## bb) Általában állandó a munkavégzés helyén dolgozó személyek eseti helyzetekben:
+## − Általában a szokásos munkavégzési helyen dolgozó személyek számára eseti helyzetek:
 
-## –  Eseti utazás a munkáltató képviseletében;
+## • A munkáltató megbízásából történő utazás;
 
-## –  Meghatározott eljárás a munkáltató képviseletében a helyi egységen kívül és valamely ügyfél vagy egy másik vállalat telephelyén belül (találkozó, küldetés, üzleti megbeszélés, telepítés vagy javítás stb.);
+## • A munkáltató képviseletében vagy megbízásából a szokásos helyi egységen kívül, ügyfél vagy egy másik munkáltató helyi egységén belül végrehajtott tevékenység, cselekmény (találkozó, kiküldetés, üzleti megbeszélés, telepítés vagy javítás stb.);
 
-## –  Ideiglenes megbízás rögzített, de más a munkavégzés helyén vagy a szokásostól különböző helyi egységben, ideértve a több napig vagy hétig elfoglalt munkaállásokat is, amelyek azonban nem jelentenek végleges megbízást (vállalat munkavállalójának vagy munkaközvetítő alkalmazottjának ideiglenes kihelyezése egy másik vállalathoz, fontos karbantartási munkálatok egy ügyfél telephelyén, távmunka stb.
+## • Ideiglenes megbízás alapján a munkavállaló a szokásos munkavégzési helyén kívül, egy másik munkáltatónál rögzített munkavégzési helyen végez tevékenységet, cselekményt. Ideértve a több napig vagy hétig elfoglalt munkavégzési helyet, amelyek azonban nem jelentenek végleges megbízással járó munkavégzési helyet (például: a munkáltató munkavállalójának vagy munkaerő-közvetítő által foglalkoztatott munkavállaló ideiglenes kihelyezése egy másik munkáltatóhoz, karbantartási munkálatok egy ügyfél telephelyén, stb.)
 
-## c) Az egyéb munkavégzési hely a fentiekhez nem kapcsolható munkaterület.
+## Az „egyéb munkavégzési hely” alatt a fentiekhez nem kapcsolható munkavégzési helyet kell érteni, amelyet a (H) blokk „Mellékletek, megjegyzések” rovatában kell feltüntetni.
 
 ## 7. A baleset földrajzi helye:
 
-## A baleset földrajzi helye az a területi egység, ahol a baleset bekövetkezett. Magyarországon történt baleset esetén szövegesen be kell írni a baleset helyét a pontos cím (helységnév, út, utca, házszám) megjelölésével. A kódnégyzetekbe a területi számjelrendszerről szóló 9001/2008 (SK. 1) KSH közlemény 2. számú mellékletében szereplő – az adott helységhez (településhez) tartozó – NUTS kódot kell beírni. A kódszám képzés a NUTS-on (a rövidítés magyarul: Eurostat statisztikai célú területi egységek nomenklatúrája) alapul, mely összhangban van az ESAW előírásaival.
+## Az a földrajzi hely, ahol a munkavállaló balesete bekövetkezett. Magyarországon történt baleset esetén szövegesen be kell írni a baleset helyét a pontos cím (helységnév, közterület, házszám) megjelölésével. A kódnégyzetekbe a jegyzőkönyv kitöltésekor hatályos, a KSH által kiadott területi számjelrendszerben szereplő, az adott helységhez (településhez) tartozó NUTS kódot kell beírni.
 
 ## Példa a rovat helyes kitöltésére:
 
-## A baleset helyszíne a munkáltató Vezseny, Fő út. 23. szám alatti telephelye
+## A baleset helyszíne a munkáltató Vezseny, Fő út 23. szám alatti telephelye
 
-| 7. A baleset földrajzi helye: Vezseny, Fő út. 23. | H | U | 3 | 2 | 2 | 0 | 4 |
+| 7. A baleset földrajzi helye: Vezseny, Fő út 23. | H | U | 3 | 2 | 2 | 0 | 7 |
 
-## Ha a baleset lakott településen kívüli területen következett be, akkor a baleset helyszínéhez legközelebb eső település nevét és NUTS kódjának, HU jelet követő első három kódnégyzetébe a megyét jelölő, utolsó két kódnégyzetbe 99 kódszámot kell beírni. Közúton történt baleset esetén a közút számát, és ha ismert a km szelvényét, valamint a két irányban lévő települések nevét kell feltüntetni. A NUTS kód beírásánál a közelebbi települést kell figyelembe venni kivéve, ha baleset a távolabbi településhez eső megyében történik de, ebben az esetben is az utolsó két kódnégyzetbe 99 kódszámot kell írni.
+## Ha a baleset lakott területen kívül következett be és egyértelműen nem állapítható meg a település, akkor a baleset helyszíne szerinti megyét kell figyelembe venni és a megyén belül legközelebb eső település nevét és NUTS kódját kell beírni. Közúton történt baleset esetén a közút számát és a km szelvényét kell feltüntetni. Ismeretlen közút vagy magánút esetén a baleset helyszíne szerinti megyét kell figyelembe venni és a megyén belül legközelebb eső település nevét és NUTS kódját kell beírni.
 
-## Abban az esetben, ha a baleset külföldön következett be, szövegesen be kell írni a baleset helyét az ország és a település megjelölésével. A kódnégyzetekbe EU-s ország esetén – amennyiben ismert – a megfelelő kódokat kell beírni, ennek hiányában NUTS kódnak megfelelően az országot jelölő első két betű feltüntetése mellett a további öt kódnégyzetbe nulla számjegyet kell írni.
+## Abban az esetben, ha a baleset külföldön következett be, akkor szövegesen be kell írni az ország és a település nevét. A kódnégyzetekbe EU tagállamok esetén a jegyzőkönyv kitöltésekor hatályos, az Eurostat által kiadott NUTS kódokat kell beírni, az első két kódnégyzetbe az országot jelölő betűket, a következő három kódnégyzetbe a baleset helyszíne szerinti megye kódot. Ha külföldi lakott területen kívül vagy külföldi közúton történt a baleset és egyértelműen nem állapítható meg a megyekód, akkor a baleset helyszíne szerinti régió kódot kell beírni. Nem EU tagállam esetén az első három kódnégyzetbe a NEU kifejezést, ha nem áll rendelkezésre egyértelmű információ a baleset földrajzi helyéről, akkor az UNK kifejezést kell beírni.
 
-## Az NUTS-osztályozás B függelékben meghatározott szintjét kell alkalmazni (NUTS 95, az 1998-as revízióval bővítve). Az osztályozás megnevezi az országot és az abban meghatározott régiókat.
+## Például: ha a baleset Németországban, Hamburg közeli autópályán történt, akkor a rovatot az alábbiak szerint kell kitölteni:
 
-## Például, ha a baleset Németországban, Hamburg közeli autópályán történt akkor a rovatot az alábbiak szerint kell kitölteni.
-
-| 7. A baleset földrajzi helye: Németország, Hamburg | D | E | 6 | 0 | 0 | 9 | 9 |
+| 7. A baleset földrajzi helye: Németország, Hamburg | D | E | 6 | 0 | 0 |  |  |
 
 ## 8. A sérülés súlyossága:
 
-## A kódnégyzetekbe a nem súlyos, de 3 napot meghaladó munkaképtelenséggel járó munkabaleset, valamint a súlyos munkabaleset (Mvt. 87. § 3. pont) súlyosságának mértékét jelölő kódszámot kell beírni.
+## A kódnégyzetbe a sérülés súlyosságának megfelelő kódszámot kell beírni.
 
 | Kód | Megjelölés |
 
-| 0 | Nem súlyos munkabaleset, a munkaképtelenség időtartama 1–3 nap |
+| 0 | Nem súlyos munkabaleset, a munkaképtelenség időtartama 1-3 nap |
 
 | 1 | Nem súlyos munkabaleset, a munkaképtelenség időtartama meghaladja a 3 napot |
 
@@ -512,35 +506,35 @@
 
 ## 9. A munkaképtelenség időtartama:
 
-## A munkaképtelenség időtartama azon naptári napok száma, amelyek alatt a munkavállaló a munkabalesetből kifolyólag munkaképtelen volt. A számot három számjegyes formátumban kell megadni. Mivel jelentésre csak azok a munkabalesetek kötelezettek, amelyek több mint három teljes naptári napig tartó munkaképtelenséget okoznak, ezért a munkaképtelen napok számát egy négytől 182 napig terjedő tartományban (a két szélsőértéket is beleértve) kell jelölni három számjegyű formában olyan esetekben, ahol a munkaképtelenség nem haladja meg a hat hónapot. Speciális kóddal kell jelölni a tartós rokkantságot (997) és a halálos balesetet (998). Ilyen esetekben a tartós rokkantság megállapításáig vagy a halál bekövetkeztéig kieső napokat nem kell figyelembe venni. A munkaképtelen napok számának meghatározásánál valamennyi kieső napot figyelembe kell venni még akkor is, ha azok pihenőnapra (pl. szombat, vasárnap) vagy munkaszüneti napra esnek.
+## A munkaképtelenség időtartama azon teljes naptári napok száma, amíg a munkavállaló a munkabalesetből kifolyólag munkaképtelen volt. A munkaképtelen napok számának meghatározásánál valamennyi kieső napot figyelembe kell venni még akkor is, ha azok pihenőnapra (például: szombat, vasárnap) vagy munkaszüneti napra esnek, függetlenül attól, hogy a sérült teljes- vagy részmunkaidőben dolgozik. Amennyiben a munkavállaló hetente vagy havonta csak néhány napot dolgozik, akkor munkaképtelen napoknak kell tekinteni az olyan napokat is, amikor a munkavállaló rendszerint nem dolgozik.
 
-## Amennyiben a munkabaleseti jegyzőkönyv beküldési határidejéig a munkaképtelenség időtartama ismertté válik, akkor az alábbi számokat kell figyelembe venni.
+## A kódnégyzetekbe a munkaképtelenséggel járó napokra vonatkozó számot három számjegyes formátumban kell megadni. Jelentésre csak azok a munkabalesetek kötelezettek, amelyek több mint három teljes naptári napig tartó munkaképtelenséget okoztak, ennek megfelelően 004-182 közé eső (a két szélsőértéket is beleértve) munkaképtelen napok esetén a konkrét kiesett napok számát kell beírni. Például: 15 munkaképtelen nap esetén a 015 kódot, 96 munkaképtelen nap esetén a 096 kódot kell feltüntetni. Speciális kó dokkal kell jelölni a 183 napot (legalább 6 hónapot) elérő, vagy azt meghaladó, továbbá a tartós munkaképtelenséget (997) és a halálos kimenetelű balesetet (998). A tartós munkaképtelenség megállapításáig vagy a halál bekövetkeztéig kieső napokat nem kell figyelembe venni.
 
-## 004–182 Munkaképtelen napok száma (hat hónapnál rövidebb munkaképtelenség esetén)
+## Amennyiben a munkaképtelenség időtartama a jegyzőkönyv beküldési határidejéig nem állapítható meg, a kódnégyzetbe az „A” betűjelzést kell beírni. A munkaképtelenség időtartamának ismertté válását követően haladéktalanul, de legkésőbb a tárgyhónapot követő hónap 8 napjáig kell a munkaképtelen napok számát közlő jegyzőkönyv (adatszolgáltatás: 4-es kód) egy-egy példányát megküldenie mindazon helyekre, ahova a vonatkozó jogszabály az eredeti jegyzőkönyv megküldésére kötelezte. Ebben az esetben a munkaképtelen napok számát közlő jegyzőkönyvnek az első jegyzőkönyv adatai közül - a munkaképtelen napok számán túl - legalább az (A), (B), (C), (I) blokkokban leírtakat kell tartalmaznia.
 
-## 997 Maradandó károsodás (munkaképesség elvesztése) vagy 183 vagy több munkából kiesett nap (hat hónap vagy annál hosszabb ideig történő munkaképtelenség)
+## Amennyiben a munkavállaló a felgyógyulását követően a munkabalesetéből eredően ismét munkaképtelenné válik, akkor egy munkaképtelen napok számát közlő jegyzőkönyvet kell kitölteni és az összes munkaképtelen napok számát kell beírni. Ebben az esetben a munkaképtelenség időtartamát úgy kell meghatározni, hogy a korábban bejelentett munkaképtelen napok számához hozzá kell adni az újabb munkaképtelen napok számát. A jegyzőkönyvben a munkaképtelen napok számán túl legalább az (A), (B), (C), (I) blokkokat kell kitölteni, valamint a (H) blokk „Mellékletek, megjegyzés” rovatában az ismételt jegyzőkönyv megküldésének okát is jelezni kell.
 
-## 998 Halálos kimenetelű munkabaleset
+## Például: a sérült munkavállaló első alkalommal 10 teljes naptári napot esett ki a munkából, amelyet bejelentett a munkáltató. Felgyógyulását követően munkába állt, de későbbiekben kiderült, hogy a munkabalesetéből eredően műtétre van szüksége és emiatt további 13 teljes naptári napra esett ki a munkából. Ebben az esetben a munkáltató egy munkaképtelen napok számát közlő jegyzőkönyvet tölt ki, amelyben a munkaképtelenség időtartamra vonatkozó kódnégyzetekbe a 023 (azaz 010+013) kódot írja.
 
-## 999 Másutt nem említett
+| Kód | Megjelölés |
 
-## 000 Munkából kiesett napok száma ismeretlen
+| 004-182 | Munkaképtelen napok száma (hat hónapnál rövidebb munkaképtelenség) |
 
-## Abban az esetben, ha a munkaképtelenség időtartama a jegyzőkönyv beküldési határidejéig nem állapítható meg, a harmadik kódnégyzetbe „A” betűjelzést kell beírni.
+| 997 | 183 napot (legalább hat hónapot) elérő, vagy azt meghaladó, továbbá tartós munkaképtelenség |
 
-## A munkaképtelenség időtartamának ismertté válását követően haladéktalanul, de legkésőbb a tárgy hónapot követő 8 napjáig gondoskodni kell a munkaképtelen napok számát közlő munkabaleseti jegyzőkönyv megküldéséről, amely az első jegyzőkönyv adatai közül – a munkaképtelen napok számán túl – legalább az (A), (B), (C) blokkokban leírtakat tartalmazza.
+| 998 | Halálos kimenetelű munkabaleset |
 
-## A jegyzőkönyv egy-egy példányát mindazon helyekre el kell juttatni, ahova az eredeti jegyzőkönyvet megküldte a munkáltató.
-
-## Amennyiben a munkavállaló a felgyógyulását követően a munkabalesetéből eredően ismét munkaképtelenné válik, akkor az ismételt felgyógyulását követően az előzőekben leírtak szerint kell eljárni, és az összes munkaképtelen napok számát közölni kell, továbbá a (H) blokk „mellékletek, megjegyzés” rovatában az ismételt jegyzőkönyv megküldésének okát jelezni kell.
+| A | A munkaképtelenség időtartama a jegyzőkönyv beküldési határidejéig nem állapítható meg |
 
 ## (D) A munkabaleset részletes leírása:
 
-## A munkáltatónak ebben a blokkban a lehető legpontosabban le kell írnia a munkabaleset előzményeit, tényleges lefolyását (hol és hogyan történt a baleset, milyen körülmények között és mi okozta a sérülést stb.), tömören és egyértelműen rögzítenie kell a balesettel kapcsolatos összes tényt, körülményt, tevékenységet.
+## A munkáltatónak ebben a blokkban a lehető legpontosabban le kell írnia a munkabaleset előzményeit, tényleges lefolyását (hol és hogyan történt a baleset, milyen körülmények között és mi okozta a sérülést, stb.), tömören és egyértelműen rögzítenie kell a balesettel kapcsolatos összes tényt, körülményt, tevékenységet, valamint itt van lehetőség azt leírni, hogy a sérültnek milyen munkatapasztalata volt.
 
 ## A munkabaleset leírásakor részletesen ki kell fejteni a jegyzőkönyv (E) blokkjában szereplő körülményeket és tényezőket, és ügyelni kell arra, hogy a jelzett blokkban megadott lehetőleg rövid, egy-két szavas válaszok, és a baleset leírásban szereplő megfogalmazások között ne legyen ellentmondás.
 
-## A munkabaleset leírása külön lapon folytatható, amelyen fényképpel, helyszínrajzzal bemutatható a munkabaleset helyszíne, illetve környezete.
+## A munkabaleset leírása külön lapon folytatható, amelyen többek között fényképpel, helyszínrajzzal bemutatható a munkabaleset helyszíne, illetve környezete.
+
+## A munkabeleset során elszenvedett egyéb, a (C) blokk 4. pontjában fel nem tüntetett sérülésen túli sérüléseket a (H) blokkban „Mellékletek, megjegyzések” kell feltüntetni,
 
 ## (E) A munkabalesettel kapcsolatos egyéb információk:
 
@@ -548,61 +542,75 @@
 
 ## 1. Munkahelyi környezet:
 
-## Azt a munkahelyet, munkaterületet vagy általános környezetet kell megjelölni, ahol a baleset történt (gyártóműhely, karbantartó műhely, felületkezelő üzem, építési terület/bontás/, raktárépület, közlekedési terület, istálló stb.).
+## Azt a munkahelyet, munkaterületet vagy általános környezetet kell megjelölni, ahol a baleset történt (gyártóműhely, mezőgazdasági terület, karbantartó műhely, felületkezelő üzem, építési terület/bontás/, raktárépület, közlekedési terület, istálló stb.).
 
 ## 2. Munkafolyamat:
 
-## Azt a fő tevékenységet kell megjelölni, amelyben a balesetet szenvedett munkavállaló a baleset idején részt vett. Ez annak a munkatípusnak és feladatnak a tágabb meghatározása, amelyet a sérült végzett azon időintervallumban, amely a balesettel végződött. A baleset idején és helyén éppen végzett fő feladatnak nem kell feltétlenül megegyezni a baleset pillanatában végzett konkrét fizikai tevékenységgel. A munkafolyamat rendszerint bizonyos időtartamot feltételez.
+## A sérült által a balesetkor végzett általános tevékenységét vagy feladatát kell megjelölni. A munkafolyamat általánosan leírja azt a munkatípust, vagyis a feladatot, amelyet a sérült a baleset pillanatáig végzett és nem a sérült pontos foglalkozását vagy a balesetkor végzett konkrét fizikai tevékenységét jelenti. A munkafolyamat rendszerint bizonyos időtartamig végzett munkát jelent.
 
-## Munkafolyamatokra példa: termelés, gyártás, építkezés, földeken végzett munka, állattenyésztés, oktatás, járművezetés stb.
+## Munkafolyamatokra példa: termelés, gyártás, építkezés, földeken végzett munka, állattenyésztés, oktatás, járművezetés, karbantartás, javítás, raktározás, stb.
 
 ## 3. A sérült konkrét fizikai tevékenysége:
 
-## A balesetet szenvedett munkavállaló által a baleset időpontjában végzett konkrét fizikai tevékenységet kell meghatározni, vagyis azt, hogy pontosan mit csinált a sérült a baleset pillanatában. Például, fúrógép működtetése, gépjármű vezetése, munkavégzés gépi meghajtású kéziszerszámmal, teher szállítása kézben, járás stb.
+## A sérült munkavállaló által a baleset időpontjában végzett konkrét fizikai tevékenységet kell meghatározni, vagyis azt, hogy pontosan mit csinált a sérült a baleset pillanatában. A konkrét fizikai tevékenység csak rövid időtartamra terjed ki, míg a „munkafolyamat” huzamosabb ideig végzett feladatot ismertet.
+
+## Példa: mit csinált a sérült? Elektromos kézi fúrót használt, gépjárműt vezetett, gépi meghajtású kéziszerszámmal munkát végzett, kézben terhet szállított, gyalogosan közlekedett (járás), stb.
 
 ## 3.1. A konkrét fizikai tevékenység anyagi (tárgyi) tényezője
 
-## Azt a munkaeszközt, beleértve tárgyat és anyagot (anyagi tényezőt) kell megjelölni, amelyet a balesetet szenvedett munkavállaló a baleset bekövetkezésekor használt, amellyel munkát végzett, függetlenül attól, hogy az adott munkaeszköz a baleset bekövetkezésében közrejátszott-e. Az anyagi tényezőnek nem feltétlenül van köze a balesethez. Ha azonban a konkrét fizikai tevékenységgel több anyagi tényező is kapcsolatban áll, akkor azt kell megnevezni, amelyik a legközelebbi kapcsolatba hozható a balesettel.
+## Azt a munkaeszközt, beleértve tárgyat és anyagot (anyagi tényezőt) kell megjelölni, amelyet a sérült munkavállaló a baleset bekövetkezésekor használt, amellyel munkát végzett, függetlenül attól, hogy az adott munkaeszköz a baleset bekövetkezésében közrejátszott-e. Ha azonban a konkrét fizikai tevékenységgel több anyagi tényező is kapcsolatban áll, akkor azt kell megnevezni, amelyik a legközelebbi kapcsolatba hozható vagy a legszorosabban összefügg a balesettel.
 
-## Anyagi tényezők: asztali fúrógép, kézi kalapács, gépalkatrész stb.
+## Anyagi tényezők: asztali fúrógép, kézi kalapács, gépalkatrész, stb.
+
+## Példák: A sérült takarítás (munkafolyamat) során felment (konkrét fizikai tevékenység) a lépcsőn (anyagi tényező).
+
+## A sérült bútorkészítés (munkafolyamat) közben a saját kezével felemelt (konkrét fizikai tevékenység) egy fadarabot (anyagi tényező).
 
 ## 4. Balesetet kiváltó különleges esemény:
 
-## Azt a szokásos munkafolyamattól eltérő rendellenes eseményt, rendellenességet kell megnevezni, amely kiváltotta a balesetet. Ha események sorozatáról van szó, az utolsó rendellenességet kell megnevezni (azt, amely időben legközelebb áll a sérülést okozó érintkezéshez).
+## Azt a szokásos munkafolyamattól, gyakorlattól eltérő rendellenes eseményt, rendellenességet kell megnevezni, amely kiváltotta a balesetet. Ha események sorozatáról van szó, az utolsó rendellenességet kell megnevezni (időben a legközelebb áll a sérülést okozó érintkezéshez), amely a balesethez vezetett.
 
-## Balesetet kiváltó különleges esemény: szilánkokkal járó törés, robbanás, munkaeszköz feletti uralom elvesztése, elcsúszás, botlás stb.
+## Balesetet kiváltó különleges esemény: szilánkokkal járó törés, munkaeszköz feletti uralom elvesztése, elcsúszás, botlás, robbanás, stb.
 
 ## 4.1. Különleges esemény anyagi (tárgyi) tényezője:
 
-## Azt a munkaeszközt, beleértve tárgyat és anyagot kell feltüntetni, amelyet a balesetet szenvedett munkavállaló használt, amellyel érintkezésbe került, és amelynek a meghibásodása, rendellenes állapota a balesetet kiváltotta, illetve amellyel a sérülés összefüggésben van. Ha több anyagi tényező kapcsolódik az (utolsó) különleges eseményhez, az utolsó anyagi tényezőt kell megnevezni, vagyis azt, amely időben a legközelebb áll a sérülést okozó érintkezéshez.
+## A különleges eseményhez kapcsolódó munkaeszközt, beleértve tárgyat és anyagot (anyagi tényezőt) kell feltüntetni, amelyet a sérült munkavállaló használt, amellyel érintkezésbe került, és amelynek a meghibásodása, rendellenes állapota a balesetet kiváltotta, illetve amellyel a sérülés összefüggésben van. Ha több anyagi tényező kapcsolódik az (utolsó) különleges eseményhez, akkor az utolsó anyagi tényezőt kell megnevezni, amely időben a legközelebb áll a sérülést okozó érintkezéshez.
 
 ## Különleges esemény anyagi tényezője: fúrógép, épületelemek (ajtók, falak) stb.
 
+## Példák: A sérült leesett (rendellenesség) a lépcsőn (anyagi tényező).
+
+## A sérült elvesztette az irányítást (rendellenesség) egy kézi sarokcsiszoló (anyagi tényező) felett.
+
 ## 5. A sérülést okozó érintkezés, a sérülés módja:
 
-## Azt a cselekvést, tevékenységet vagy környezeti eseményt kell feltüntetni, amely a munkavállaló sérülését okozta. Ha több sérülést okozó érintkezés is bekövetkezett azt kell megnevezni, amely a legsúlyosabb sérülést okozta.
+## Azt a sérüléshez vezető eseményt kell feltüntetni, amely leírja, hogy a munkavállaló hogyan szenvedett sérülést és hogyan került érintkezésbe a balesetet okozó tárggyal. Ha több sérülést okozó érintkezés is történt, akkor azt kell megnevezni, amely a legsúlyosabb sérülést okozta.
 
-## Sérülést okozó érintkezés: repülő tárgy okozta érintkezés, érintkezés forró tárggyal, álló tárggyal való ütközés, beszorulás tárgyak közé stb.
+## Sérülést okozó érintkezés: repülő tárgy okozta érintkezés, érintkezés forró tárggyal, álló tárggyal való ütközés, beszorulás tárgyak közé, betemetődés szilárd anyag alá, eső tárgy által mért ütés, stb.
 
 ## 5.1. A sérülést okozó érintkezés anyagi (tárgyi) tényezője:
 
-## Azt a munkaeszközt beleértve tárgyat és anyagot kell feltüntetni, amellyel a balesetet szenvedett munkavállaló érintkezésbe került, vagy amely a pszichológiai sérülését okozta. Ha több anyagi tényező is kapcsolatba hozható a sérüléssel, akkor azt az anyagi tényezőt kell megnevezni, amely a legsúlyosabb sérüléssel áll összefüggésben.
+## A sérülést okozó érintkezéshez kapcsolódó, vagy azzal összefüggő munkaeszközt beleértve tárgyat és anyagot (anyagi tényezőt) kell feltüntetni, amellyel a sérült munkavállaló érintkezésbe került, vagy amely a lelki egészségkárosodását okozta. Ha több anyagi tényező is kapcsolatba hozható a sérüléssel, akkor azt az anyagi tényezőt kell megnevezni, amely a legsúlyosabb sérüléssel áll összefüggésben.
 
-## Anyagi tényező: szerszámgépből származó szilánk stb.
+## Anyagi tényező: szerszámgépből származó szilánk, fémfűrész, lapát, kalapács, stb.
+
+## Példák A sérült elesik és megüti magát (érintkezés - sérülési mód) a padlón (anyagi tényező).
+
+## A sérültet eltalálja (érintkezés - sérülési mód) egy leeső csavarhúzó (anyagi tényező).
 
 ## 6. Személyi tényező:
 
-## A baleset bekövetkezésében szerepet játszó személyi tényezőt a balesetet szenvedett személyre vonatkozóan az S (sérült) rovatnál kell bejegyezni. Amennyiben más személynek is volt szerepe a baleset bekövetkezésében, úgy azt az M (más személy) rovatnál kell szerepeltetni. Abban az esetben, ha több személyi tényező is megállapítható a balesettel kapcsolatban, akkor azt a tényezőt kell megjelölni, amelyik a legnagyobb hatással volt a sérülés bekövetkezésére. Például, ha alkoholos befolyásoltság következménye a fegyelmezetlenség, akkor az alkoholos befolyásoltságot kell megjelölni. Amennyiben egyéb tényező kerül megjelölésre akkor azt a (H) blokkban meg kell nevezni.
+## A baleset bekövetkezésében szerepet játszó személyi tényezőt a sérült személyre vonatkozóan az S (sérült) rovatnál kell beírni. Amennyiben más személynek is volt szerepe a baleset bekövetkezésében, úgy azt az M (más személy) rovatnál kell szerepeltetni. Abban az esetben, ha több személyi tényező is megállapítható a balesettel kapcsolatban, akkor azt a tényezőt kell megjelölni, amelyik a legnagyobb hatással volt a baleset bekövetkezésére. Például: ha alkoholos befolyásoltság következménye a fegyelmezetlenség, akkor az alkoholos befolyásoltságot kell megjelölni. Amennyiben egyéb tényező kerül megjelölésre, akkor azt a (H) blokk „Mellékletek, megjegyzés” rovatában meg kell nevezni.
 
 | Kód | Megjelölés |
 
 | 00 | A személyi tényezőknek nem volt szerepe a balesetben |
 
-| 01 | Szakképzetlenség, kioktatás hiánya |
+| 01 | Képzetlenség, szakképzetlenség |
 
 | 02 | Gyakorlatlanság |
 
-| 03 | Egészségi alkalmatlanság |
+| 03 | Egészségi okok (eü. alkalmatlanság, egyéb abnormális élettani hatás) |
 
 | 04 | Alkoholos befolyásoltság |
 
@@ -610,7 +618,7 @@
 
 | 06 | Kábítószer hatása |
 
-| 07 | Egyéb abnormális élettani hatás |
+| 07 | Oktatás hiánya |
 
 | 08 | Figyelmetlenség |
 
@@ -620,7 +628,7 @@
 
 ## 7. A biztonsági és jelző berendezések, egyéni védőeszközök, egyéb védelmi megoldások alkalmassága:
 
-## A 7.1–7.5. kódnégyzetekben a munkabaleset vizsgálata alapján a munkaeszköz biztonsági berendezéseivel (védőburkolat, védőberendezés), jelzőberendezésével, valamint egyéni védőeszközzel és egyéb védelmi megoldásokkal kapcsolatos megállapításokat kell a munkáltatónak az 1–8. kódszámok valamelyikével megjelölni. Egyéb védelmi megoldásoknál kell értékelni pl. az építési munkahelyeken és létesítményekben a le, illetve beesés elleni védelmet, gépjárműveknél a biztonsági övet stb.
+## A 7.1-7.5. kódnégyzetekben a munkabaleset vizsgálata alapján a munkaeszköz biztonsági berendezéseivel (védőburkolat, védőberendezés), jelzőberendezésével, valamint egyéni védőeszközzel és egyéb védelmi megoldásokkal kapcsolatos megállapításokat kell az 1-8. kódszámok valamelyikével megjelölni. Egyéb védelmi megoldásoknál kell értékelni pl. az építési munkahelyeken és létesítményekben a le, illetve beesés elleni védelmet, gépjárműveknél a biztonsági övet stb.
 
 | Kód | Megjelölés |
 
@@ -642,11 +650,11 @@
 
 ## (F) A balesethez vezető ok/okok:
 
-## A balesetvizsgálat eredménye alapján röviden összefoglalva meg kell határozni, illetve le kell írni azt a tárgyi, személyi vagy szervezési okot vagy okokat, amelyek közvetlenül vagy közvetve jelentős hatással voltak a baleset bekövetkezésére (adott munkaeszköz, munkahely biztonsági állapotának hiánya, munkaeszköz karbantartásának, előírt felülvizsgálatának stb. elmulasztása, veszélyes anyag szabálytalan felhasználása, összehangolás hiánya építési munkahelyen stb.)
+## A balesetvizsgálat eredménye alapján röviden összefoglalva meg kell határozni, illetve le kell írni azt a tárgyi, személyi vagy szervezési okot vagy okokat, amelyek közvetlenül vagy közvetve jelentős hatással voltak a baleset bekövetkezésére. Például: adott munkaeszköz, munkahely biztonsági állapotának hiánya, munkaeszköz karbantartásának, előírt felülvizsgálatának stb. elmulasztása, veszélyes anyag szabálytalan felhasználása, összehangolás hiánya építési munkahelyen, stb.
 
 ## (G) Munkáltatói intézkedés(ek) a hasonló balesetek megelőzésére:
 
-## Ha a munkáltató a balesetvizsgálat eredményeként intézkedést tart szükségesnek, akkor annak jellegét, tartalmát (abban az esetben is, ha már a baleset után azonnal megtörtént) rögzíteni kell. Az intézkedést a munkahelyre, munkaeszközre, szervezési feladatra konkretizálva, egyértelműen és pontosan meg kell határozni. Az intézkedés lehet műszaki jellegű (technológia megváltoztatása, munkaeszköz átalakítása, biztonsági berendezés felszerelése stb.), szervezési, szabályozási jellegű (munkarend megváltoztatása, pihenőidő beiktatása, a munkáltató belső szabályozásának megváltoztatása, egyéni védőeszköz juttatása stb.) és oktatással kapcsolatos.
+## Ha a munkáltató a balesetvizsgálat eredményeként intézkedést tart szükségesnek, akkor annak jellegét, tartalmát, az arra kitűzött határidőt és az intézkedés végrehajtásával megbízott személyt (abban az esetben is, ha már a baleset után azonnal megtörtént) rögzíteni kell. Az intézkedést a munkahelyre, munkaeszközre, szervezési feladatra konkretizálva, egyértelműen és pontosan meg kell határozni. Az intézkedés lehet műszaki jellegű (technológia megváltoztatása, munkaeszköz átalakítása, biztonsági berendezés felszerelése stb.), szervezési, szabályozási jellegű (munkarend megváltoztatása, pihenőidő beiktatása, a munkáltató belső szabályozásának megváltoztatása, egyéni védőeszköz juttatása stb.) és oktatással kapcsolatos.
 
 ## (H) Mellékletek, megjegyzések:
 
@@ -654,54 +662,78 @@
 
 ## Például:
 
-## –  meghallgatási jegyzőkönyvek (sérült, tanúk),
+## - meghallgatási jegyzőkönyvek (sérült, tanúk),
 
-## –  fényképfelvételek száma,
+## - fényképfelvételek száma,
 
-## –  alkoholos befolyásoltság vizsgálatának eredménye,
+## - alkoholos befolyásoltság vizsgálatának eredménye,
 
-## –  szakmai képesítés, kezelési jogosultság dokumentumának másolata,
+## - szakmai képesítés, kezelési jogosultság dokumentumának másolata,
 
-## –  munkaköri szakmai, illetve személyi higiénés alkalmassági orvosi vizsgálat eredménye,
+## - munkaköri szakmai, illetve személyi higiénés alkalmassági orvosi vizsgálat eredménye,
 
-## –  vonatkozó technológiai, kezelési, karbantartási utasítás másolata,
+## - vonatkozó technológiai, kezelési, karbantartási utasítás másolata,
 
-## –  kockázatértékelés vonatkozó részének másolata,
+## - kockázatértékelés vonatkozó részének másolata,
 
-## –  műszeres mérések eredménye,
+## - műszeres mérések eredménye,
 
-## –  szakértői vélemény,
+## - szakértői vélemény,
 
-## –  a munkavédelmi képviselő külön lapon leírt észrevétele.
+## - a munkavédelmi képviselő külön lapon leírt észrevétele.
 
-## A jegyzőkönyvben jelölt dokumentációk csatolása és megküldése súlyos munkabaleset esetén indokolt.
+## Itt kell rögzíteni a jegyzőkönyv adataival kapcsolatos minden fontos, a korábbi rovatokban nem kifejtett tényt, többek között:
+
+## - a baleset során elszenvedett egyéb, a (C) blokk 4. pontjában fel nem tüntetett sérülésen túli sérüléseket,
+
+## - ha a munkáltató kirendelő, vagy kölcsönbeadó, annak a nevét és címét,
+
+## - amennyiben a munkavédelmi képviselő megállapítása a munkáltatótól eltérő, illetve véleménye van, akkor a véleményét, megállapítását,
+
+## - szolgáltatás keretében végzett baleset kivizsgálás esetén a szolgáltatást végző cég (vállalkozás) nevét, címét,
+
+## - ha munkáltató székhelyétől/lakhelyétől eltér a levelezési cím, annak címét,
+
+## - amennyiben a sérültnek nincs magyarországi állandó vagy ideiglenes lakcíme, tartózkodási helye, a külföldi lakcímét.
+
+## - amennyiben a baleset időpontja ismeretlen, az ismeretlen időpont okát,
+
+## - 8 órás munkaidőtől eltérő foglalkoztatás, vagy rendkívüli munkavégzés esetén a munkaidő mértékét, a pihenőidő időszakát,
+
+## - hogy a balesetet szenvedett legutóbbi pihenőnapja vagy szabadnapja óta hányadik munkanapon következett be és hány óra hány perckor a munkabaleset,
+
+## - amennyiben ”egyéb típusú” sérülés, sérült testrész, személyi tényező került kiválasztásra, pontosan a sérülést, a sérült testrészt, a baleset bekövetkezésében szerepet játszó személyi tényezőt
+
+## - amennyiben az „egyéb munkavégzési hely” alatt a „C” blokkban leírt egyéb munkavégzési helyek egyike sem kapcsolható a munkavégzési helyhez,
+
+## - a munkabaleseti jegyzőkönyv ismételt megküldésének okát,
+
+## - a módosító jegyzőkönyv során az eredeti jegyzőkönyvhöz képest módosított blokkokat és pontokat.
 
 ## Amennyiben a blokkban a dokumentációk felsorolásához nem áll rendelkezésre elegendő hely, úgy azt külön dokumentáció jegyzéken (iratjegyzék) kell szerepeltetni, és a (H) blokkban csak a jegyzéket kell megjelölni.
 
 ## Ebben a blokkban lehetősége van a munkáltatónak, hogy az előző rovatokon túlmenően bármilyen, a munkabalesettel kapcsolatos és általa lényegesnek tartott tényt, körülményt, véleményt rögzítsen. Itt kell indokolni az adatszolgáltatásban meghatározott határidőn túli késedelmet. Ha a jegyzőkönyvön biztosított hely nem elegendő a megjegyzések megtételére, akkor az észrevételeket a jegyzőkönyvhöz csatolt külön lapon kell folytatni.
 
-## (I) A kivizsgálást végzők adatai, hitelesítések:
+## (I) A kivizsgálásban résztvevők adatai, hitelesítések:
 
 ## 1. Munkavédelmi képviselő:
 
-## A blokkban szereplő kódnégyzetet minden esetben ki kell tölteni a mellette felsorolt kódok valamelyikével. Amennyiben a munkavédelmi képviselő részt vett a baleset kivizsgálásában, és a munkáltatóétól eltérő a megállapítása, véleménye van, akkor e véleményét, megállapítását – kérésére – külön lapon kell a munkabaleseti jegyzőkönyvhöz csatolni. A baleseti vizsgálatban részt vevő munkavédelmi képviselő részére lehetővé kell tenni, hogy a rovatot aláírásával elláthassa.
+## A blokkban szereplő kódnégyzetet minden esetben ki kell tölteni a mellette felsorolt kódok valamelyikével. Amennyiben a munkavédelmi képviselő részt vett a baleset kivizsgálásában, akkor a jegyzőkönyvet aláírásával köteles ellátni. Ha a munkáltatótól eltérő a megállapítása, illetve véleménye van, akkor a véleményét, megállapítását - kérésére - külön lapon kell a munkabaleseti jegyzőkönyvhöz csatolni és a (H) blokk „Mellékletek, megjegyzés” rovatában is fel kell tüntetni.
 
-## 2. A balesetkivizsgálást végezte:
+## 2. A baleset kivizsgálását végezte:
 
-## A rovat kitöltése kötelező, ha munkavédelmi (munkabiztonsági) szakképesítéssel rendelkező személy folytatja a vizsgálatot, ideértve a munkabiztonsági szaktevékenység alá tartozó munkabaleset vizsgálatát, illetve ha a balesetvizsgálat szolgáltatás keretében történik, egyéb esetekben az adatszolgáltatás önkéntes.
-
-## Szolgáltatás esetén a szolgáltatást végző cég (vállalkozás) nevét, címét is fel kell tüntetni.
+## A balesetet kivizsgáló személy nevét, valamint a baleset kivizsgálás lezárásának dátumát kell beírni. A balesetet vizsgáló személy a baleset kivizsgálását lezáró jegyzőkönyvet aláírásával köteles ellátni. Amennyiben rendelkezik a balesetet vizsgáló személy munkavédelmi szakképzettséggel, akkor a munkavédelmi képzettséget igazoló okirat számát is fel kell tüntetni. Szolgáltatás keretében végzett balesetvizsgálat esetén a szolgáltatást végző cég (vállalkozás) nevét, címét is fel kell tüntetni a (H) blokk „Mellékletek, megjegyzés” rovatában.
 
 ## 3. Munkáltató képviselője:
 
-## E rovatba a munkáltató vezetőjének vagy az általa írásban (egyedileg vagy belső szabályzatban) feljogosított személynek a nevét és beosztását, egyéni vállalkozó esetén a vállalkozónak, magánszemély munkáltató esetén a munkáltatói jogkört gyakorló személy nevét kell beírni. Az aláírás dátumát követően a jegyzőkönyvet az a személy írhatja alá, akit a név és a beosztás rovatba beírtak. Bélyegzővel rendelkező munkáltató esetén az aláírást a munkáltató működése során jogszerűen használt bélyegzőjével hitelesíteni kell.
+## A munkáltató vezetőjének vagy az általa írásban (egyedileg vagy belső szabályzatban) feljogosított személynek a nevét és beosztását, egyéni vállalkozó esetén a vállalkozónak, magánszemély munkáltató esetén a munkáltatói jogkört gyakorló személynek a nevét kell beírni. Az aláírás dátumát követően a jegyzőkönyvet az a személy írhatja alá, akit a név és a beosztás rovatba beírtak. Bélyegzővel rendelkező munkáltató esetén az aláírást a munkáltató működése során jogszerűen használt bélyegzőjével hitelesíteni kell.
 
 ## (J) A jegyzőkönyvet ellenőrző munkavédelmi felügyelő:
 
-## Az adott munkabaleset vizsgálatával, munkabaleseti jegyzőkönyv kitöltésével kapcsolatos észrevételek, intézkedések feljegyzésére e rovatban van lehetőség.
+## Az adott munkabaleset vizsgálatával, jegyzőkönyv kitöltésével kapcsolatos észrevételek, intézkedések feljegyzésére e rovatban van lehetőség.
 
 ## A munkabaleseti esemény elemzését (vizsgálatát, kódolását) követően a felügyelő köteles a nevét, felügyelői igazolvány számát, a felülvizsgálat lezárásának napját beírni, majd ezt követően a jegyzőkönyvet aláírni.
 
-6. számú melléklet az 5/1993. (XII. 26.) MüM rendelethez[^33]
+6. számú melléklet az 5/1993. (XII. 26.) MüM rendelethez[^36]
 
-[^33]: A Vhr. 6. számú mellékletét a 182/2009. (IX. 10.) Korm. rendelet 686. § (2) bekezdés 1. pontja hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^36]: A Vhr. 6. számú mellékletét a 182/2009. (IX. 10.) Korm. rendelet 686. § (2) bekezdés 1. pontja hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

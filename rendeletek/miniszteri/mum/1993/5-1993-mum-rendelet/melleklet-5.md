@@ -1,3 +1,3 @@
-5. számú melléklet az 5/1993. (XII. 26.) MüM rendelethez[^32]
+5. számú melléklet az 5/1993. (XII. 26.) MüM rendelethez[^35]
 
-[^32]: A Vhr. 5. számú melléklete az 5/2010. (III. 9.) SZMM rendelet – a 17/2012. (VII. 5.) NGM rendelet 8. §-a szerint módosított – 8. § (4) bekezdésével megállapított szöveg.
+[^35]: Az 5. számú melléklet a 63/2013. (XII. 17.) NGM rendelet 3. § (3) bekezdésével megállapított szöveg.

@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1993-5-20-39
 | 2012-07-06 | 1993-5-20-39.14 | 41/2011. (X. 14.) NGM rendelet |
 | 2012-08-24 | 1993-5-20-39.15 | 41/2011. (X. 14.) NGM rendelet |
 | 2013-01-01 | 1993-5-20-39.16 | 5/2010. (III. 9.) SZMM rendelet |
+| 2014-01-01 | 1993-5-20-39.17 | 63/2013. (XII. 17.) NGM rendelet |
