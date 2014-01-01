@@ -20,7 +20,7 @@ feltéve mindkét esetben, hogy a fizető fél, valamint a kedvezményezett szem
 
 c) a fizetési, illetve értékpapír-elszámolási rendszerekben történő teljesítés véglegességéről szóló törvény hatálya alá tartozó fizetési művelet,
 
-d) a Hpt. 2. számú melléklet I. fejezet 10.2. e) pontjában meghatározott csoportfinanszírozás, feltéve, hogy a csoport tagjainak a számláit ugyanazon pénzforgalmi szolgáltató vezeti,
+d) a Hpt. 6. §-ában meghatározott csoportfinanszírozás, feltéve, hogy a csoport tagjainak a számláit ugyanazon pénzforgalmi szolgáltató vezeti,
 
 e) a pénzforgalmi szolgáltató által más belföldi illetve külföldi pénzforgalmi szolgáltató, pénzügyi intézmény, befektetési vállalkozás, befektetési alapkezelő, központi szerződő fél, valamint befektetési alap részére vezetett fizetési számla terhére megvalósított fizetési művelet,
 

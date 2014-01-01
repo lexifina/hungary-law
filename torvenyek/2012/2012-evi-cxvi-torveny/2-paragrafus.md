@@ -20,7 +20,7 @@
 
 9. kedvezményezett: a Pft. 2. § 12. pontja szerinti jogalany;
 
-10. készpénzátutalás: a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény (a továbbiakban: Hpt.) 2. számú melléklet I. alcím 16. pontja szerinti fizetési mód;
+10. készpénzátutalás: a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény (a továbbiakban: Hpt.) 6. § (1) bekezdésében meghatározott fizetési mód;
 
 11. kiemelt közvetítői tevékenység: a Hpt. szerint meghatározott kiemelt közvetítői tevékenység;
 
