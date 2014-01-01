@@ -1,0 +1,1 @@
+## 29. § A szolgálati viszony megszüntetésére irányuló javaslathoz – ha ezt fegyelmi okból vagy bírói ítélet alapján kezdeményezik – csatolni kell a fegyelmi eljárás során készült irat vagy a bírói ítélet egy példányát is.
