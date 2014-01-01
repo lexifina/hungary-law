@@ -22,14 +22,13 @@ i) közreműködés az egyéni védelem meghatározásában.
 
 (2) Az alkalmassági vizsgálatok során az adott szerv alapellátó orvosa foglalkozás-egészségügyi tevékenységet végez. Ennek során a külön jogszabályban előírtak szerinti egészségügyi vizsgálatokat végez és a személyi állomány megváltozott egészségi állapotú tagjainak rehabilitációját kezdeményezi.
 
-(3) Az alkalmassági vizsgálatok során a mellkas-szűrővizsgálat elvégzése kötelező:
+(3)[^19] A felvételre jelentkező minden esetben köteles az egy évnél nem régebbi mellkas-szűrővizsgálat eredményét bemutatni az alapellátó orvosnak az előzetes alkalmassági vizsgálat során.
 
-a) az állományba való felvételt megelőző egészségügyi alkalmassági vizsgálat során minden esetben,
+(4)[^20] A személyi állomány azon tagjainak, akiknek a mellkas-szűrővizsgálaton történő részvétel a fertőző betegségek és a járványok megelőzése érdekében szükséges járványügyi intézkedésekről szóló 18/1998. (VI. 3.) NM rendelet (a továbbiakban: NM rendelet) 19. § (1) bekezdés f)–h) pontja alapján járványügyi érdekből kötelező, az egy évnél nem régebbi megjelenésről szóló igazolást kell bemutatnia az alapellátó orvosnak az időszakos alkalmassági vizsgálat során.
 
-b) az időszakos egészségügyi alkalmassági vizsgálat során, ha a vizsgált személy a 40 éves kort betöltötte,
-
-c) az a)–b) pontban meghatározott személyek közé nem tartozók közül azoknak, akiknél a fizikai, kémiai és biológiai munkaköri kockázatértékelés eredménye alapján az alkalmassági vizsgálatot végző orvos indokoltnak tartja.
-
-(4) A (3) bekezdésben meghatározott esetekben a mellkas-szűrővizsgálat eredményét kell bemutatni az alkalmassági vizsgálatot végző orvosnak.
+(5)[^21] Ha a személyi állomány tagja az NM rendelet szerinti kontaktszemélyként vesz részt a kötelező tüdőszűrő vizsgálaton, úgy annak eredményét haladéktalanul köteles az alapellátó orvosnak bemutatni.
 
 [^18]: A 18. § (1) bekezdés f) pontja a 71/2013. (XII. 16.) BM rendelet 10. § e) pontja szerint módosított szöveg.
+[^19]: A 18. § (3) bekezdése a 71/2013. (XII. 16.) BM rendelet 5. §-ával megállapított szöveg.
+[^20]: A 18. § (4) bekezdése a 71/2013. (XII. 16.) BM rendelet 5. §-ával megállapított szöveg.
+[^21]: A 18. § (5) bekezdését a 71/2013. (XII. 16.) BM rendelet 6. §-a iktatta be.

@@ -1,4 +1,4 @@
-27. §[^27] (1) Az alapellátó orvos az általa észlelt vagy tudomására jutott foglalkozási megbetegedést, szolgálati kötelmekkel összefüggő betegséget, foglalkozási eredetű heveny vagy idült mérgezést, valamint a foglalkozási betegségek és fokozott expozíciós esetek bejelentéséről és kivizsgálásáról szóló 27/1996. (VIII. 28.) NM rendeletben [a továbbiakban: 27/1996. (VIII. 28.) NM rendelet] meghatározott fokozott expozíciós esetet a munkavédelmi hatósághoz a 12. melléklet szerinti bejelentő lapon bejelenti.
+27. §[^30] (1) Az alapellátó orvos az általa észlelt vagy tudomására jutott foglalkozási megbetegedést, szolgálati kötelmekkel összefüggő betegséget, foglalkozási eredetű heveny vagy idült mérgezést, valamint a foglalkozási betegségek és fokozott expozíciós esetek bejelentéséről és kivizsgálásáról szóló 27/1996. (VIII. 28.) NM rendeletben [a továbbiakban: 27/1996. (VIII. 28.) NM rendelet] meghatározott fokozott expozíciós esetet a munkavédelmi hatósághoz a 12. melléklet szerinti bejelentő lapon bejelenti.
 
 (2) A munkavédelmi hatóság a bejelentést nyilvántartásba veszi és erről a bejelentőt 3 napon belül értesíti. A bejelentés alá eső foglalkozási megbetegedések jegyzékét a 27/1996. (VIII. 28.) NM rendelet 2. számú melléklete tartalmazza.
 
@@ -10,7 +10,7 @@ b) halálos kimenetelű vagy ugyanazon a munkahelyen a személyi állomány 5 va
 
 c) fokozott expozíció esetén az érintett személyt vizsgálatra beküldő alapellátó orvos a lelet kézhezvételétől számított 24 órán belül
 
-## a 27/1996. (VIII. 28.) NM rendelet 4. számú melléklete szerinti bejelentőlapon teszi meg.
+a 27/1996. (VIII. 28.) NM rendelet 4. számú melléklete szerinti bejelentőlapon teszi meg.
 
 (4) A bejelentést meg kell ismételni, ha a korábban keresőképesként bejelentett személy keresőképtelenné vált. Tanulói, hallgatói jogviszonyban lévő személy esetén a gyakorlati képzés helyén működő alapellátó orvos végzi a bejelentést, aki ezzel egy időben értesíti az oktatási intézményt.
 
@@ -30,4 +30,4 @@ f) fokozott expozíció, valamint
 
 g) kiváltó ok, munkakörülmény, rendelkezésre álló higiénés adat.
 
-[^27]: A 27. § a 71/2013. (XII. 16.) BM rendelet 7. §-ával megállapított szöveg.
+[^30]: A 27. § a 71/2013. (XII. 16.) BM rendelet 7. §-ával megállapított szöveg.

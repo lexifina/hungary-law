@@ -1,4 +1,4 @@
-22. §[^22] (1) Szolgálati kötelmekkel vagy munkavégzéssel összefüggő súlyos baleset esetén az állományilletékes parancsnok a munkavédelmi hatóság megérkezéséig gondoskodik a baleseti helyszínnek a baleset bekövetkezésekor fennálló állapotban történő megőrzéséről. Ha a helyszín állapotának megőrzése további súlyos, életet, testi épséget veszélyeztető helyzetet idézhet elő vagy jelentős anyagi kárral járhat, a veszélyeztető helyzet vagy az anyagi kár bekövetkezését valószínűsítő állapot megszüntetésével egyidejűleg a baleseti helyszínről fényképet, videofelvételt vagy egyéb, a baleset kivizsgálását elősegítő dokumentumot kell készíteni.
+22. §[^25] (1) Szolgálati kötelmekkel vagy munkavégzéssel összefüggő súlyos baleset esetén az állományilletékes parancsnok a munkavédelmi hatóság megérkezéséig gondoskodik a baleseti helyszínnek a baleset bekövetkezésekor fennálló állapotban történő megőrzéséről. Ha a helyszín állapotának megőrzése további súlyos, életet, testi épséget veszélyeztető helyzetet idézhet elő vagy jelentős anyagi kárral járhat, a veszélyeztető helyzet vagy az anyagi kár bekövetkezését valószínűsítő állapot megszüntetésével egyidejűleg a baleseti helyszínről fényképet, videofelvételt vagy egyéb, a baleset kivizsgálását elősegítő dokumentumot kell készíteni.
 
 (2) A személyi állomány tagját ért baleset kivizsgálásáért, a munkavédelmi hatóság felé történő bejelentéséért – a (3) bekezdésben meghatározottak kivételével – az állományilletékes parancsnok a felelős. A rendvédelmi szerv vezetője a szerv munkavédelmi szabályzatában határozza meg a baleset kivizsgálásának szabályait, a baleset kivizsgálásában részt vevő személyek körét.
 
@@ -10,4 +10,4 @@
 
 (6) A kivizsgálás során a sérültet, valamint a tanúkat a baleset körülményeivel kapcsolatban meg kell hallgatni és arról meghallgatási jegyzőkönyvet kell felvenni, a további szükséges egészségügyi dokumentumokat az adatvédelemre vonatkozó szabályok figyelembe vétele mellett az alapellátó orvostól kell beszerezni.
 
-[^22]: A 22. § a 71/2013. (XII. 16.) BM rendelet 7. §-ával megállapított szöveg.
+[^25]: A 22. § a 71/2013. (XII. 16.) BM rendelet 7. §-ával megállapított szöveg.

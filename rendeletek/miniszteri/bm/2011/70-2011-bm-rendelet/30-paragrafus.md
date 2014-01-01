@@ -1,6 +1,6 @@
 30. § (1) A munkavédelmi hatósági hatáskört gyakorló személy a munkavédelemről szóló törvényben meghatározottakon túl jogosult
 
-a)[^32] az állományilletékes parancsnokot a feltárt hiányosságok meghatározott határidőn belül történő megszüntetésére kötelezni, valamint
+a)[^35] az állományilletékes parancsnokot a feltárt hiányosságok meghatározott határidőn belül történő megszüntetésére kötelezni, valamint
 
 b) a személyi állomány életét, egészségét fenyegető veszély esetén annak megszüntetéséig elrendelni a veszélyes tevékenység végzésének, különösen a szolgálati hely, fogda, őrzött szállások, műhely, műhelyrész, munkaeszköz, rendvédelmi célú egyéni védőeszköz használatának felfüggesztését.
 
@@ -8,4 +8,4 @@ b) a személyi állomány életét, egészségét fenyegető veszély esetén an
 
 (3) Az ellenőrzött szerv állományilletékes parancsnoka biztosítja az ellenőrzés feltételeit.
 
-[^32]: A 30. § (1) bekezdés a) pontja a 71/2013. (XII. 16.) BM rendelet 10. § f) pontja szerint módosított szöveg.
+[^35]: A 30. § (1) bekezdés a) pontja a 71/2013. (XII. 16.) BM rendelet 10. § f) pontja szerint módosított szöveg.

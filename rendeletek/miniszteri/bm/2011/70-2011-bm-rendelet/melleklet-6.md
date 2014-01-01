@@ -1,3 +1,3 @@
-6. melléklet a 70/2011. (XII. 30.) BM rendelethez[^43]
+6. melléklet a 70/2011. (XII. 30.) BM rendelethez[^46]
 
-[^43]: A 6. melléklet a 71/2013. (XII. 16.) BM rendelet 9. § (2) bekezdés c) pontjával megállapított szöveg.
+[^46]: A 6. melléklet a 71/2013. (XII. 16.) BM rendelet 9. § (2) bekezdés c) pontjával megállapított szöveg.

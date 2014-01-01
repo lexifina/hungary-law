@@ -1,6 +1,6 @@
-## 28. §[^28]
+## 28. §[^31]
 
-28/A. §[^29] (1) A foglalkozási megbetegedések és fokozott expozíciós esetek kivizsgálása az adott rendvédelmi szerv munkavédelmi hatóságának feladata. A kivizsgálásba az érintett rendvédelmi szerv munkavédelmi felügyelőjét, az illetékes alapellátó orvost, a pszichológust és az állományilletékes parancsnokot vagy annak képviselőjét és amennyiben van a rendvédelmi szerv közegészségügyi-járványügyi főfelügyelőjét vagy a közegészségügyi-járványügyi szaktevékenységet ellátó személyt is be kell vonni. A kivizsgálásba egyéb szakterület képviselője is bevonható.
+28/A. §[^32] (1) A foglalkozási megbetegedések és fokozott expozíciós esetek kivizsgálása az adott rendvédelmi szerv munkavédelmi hatóságának feladata. A kivizsgálásba az érintett rendvédelmi szerv munkavédelmi felügyelőjét, az illetékes alapellátó orvost, a pszichológust és az állományilletékes parancsnokot vagy annak képviselőjét és amennyiben van a rendvédelmi szerv közegészségügyi-járványügyi főfelügyelőjét vagy a közegészségügyi-járványügyi szaktevékenységet ellátó személyt is be kell vonni. A kivizsgálásba egyéb szakterület képviselője is bevonható.
 
 (2) A vizsgálat során a megbetegedés és az expozíció okainak feltárása érdekében más hatóság vagy intézmény is megkereshető. Foglalkozási megbetegedés gyanúja esetén az alapellátó orvos beutalhatja a személyi állomány tagját további célzott vizsgálatokra. Foglalkozási megbetegedések esetén, ha maradandó károsodás vélelmezhető, az alapellátó orvos köteles a megbetegedett személyt az illetékes kormányhivatal rehabilitációs szakigazgatási szerve elé rendelni az egészségkárosodás mértékének megállapítása érdekében.
 
@@ -32,5 +32,5 @@ Az állományilletékes parancsnok az értesítéssel egyidejűleg mellékeli a 
 
 (9) Az állományilletékes parancsnok köteles felhívni az érintett figyelmét arra, hogy ha a betegséggel kapcsolatban kára keletkezett kárigényét a balesetminősítő határozat kézhezvételétől számított 30 napon belül hivatásos állomány tagja a 10. melléklet, munkavállaló a 11. melléklet vagy a 11/A. melléklet szerinti nyomtatványon terjesztheti elő.
 
-[^28]: A 28. §-t a 71/2013. (XII. 16.) BM rendelet 12. § b) pontja hatályon kívül helyezte.
-[^29]: A 28/A. §-t a 71/2013. (XII. 16.) BM rendelet 8. §-a iktatta be.
+[^31]: A 28. §-t a 71/2013. (XII. 16.) BM rendelet 12. § b) pontja hatályon kívül helyezte.
+[^32]: A 28/A. §-t a 71/2013. (XII. 16.) BM rendelet 8. §-a iktatta be.

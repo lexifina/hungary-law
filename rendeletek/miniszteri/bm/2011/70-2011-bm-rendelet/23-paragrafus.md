@@ -1,4 +1,4 @@
-23. §[^23] (1) A baleset kivizsgálásának eredményeképpen keletkező dokumentációnak alkalmasnak kell lennie arra, hogy a baleset lefolyása a későbbiek során bármikor rekonstruálható, a baleset oka feltárható, a baleset előidézőjének a felelőssége megállapítható legyen, továbbá arra, hogy a hasonló balesetek elkerülése érdekében iránymutatást adjon.
+23. §[^26] (1) A baleset kivizsgálásának eredményeképpen keletkező dokumentációnak alkalmasnak kell lennie arra, hogy a baleset lefolyása a későbbiek során bármikor rekonstruálható, a baleset oka feltárható, a baleset előidézőjének a felelőssége megállapítható legyen, továbbá arra, hogy a hasonló balesetek elkerülése érdekében iránymutatást adjon.
 
 (2) Ha a személyi állomány tagját a baleset során nem az alapellátó orvos részesítette ellátásban, a szolgálati elöljáró intézkedik arra, hogy a sérült a keresőképtelenségéről, szolgálatképtelenségéről szóló igazolást, valamint a sérülése ellátásával kapcsolatos egészségügyi dokumentációt a baleset munkavégzéssel, szolgálati kötelmekkel való összefüggésének megállapítása céljából az illetékes alapellátó orvos részére küldje meg.
 
@@ -12,4 +12,4 @@
 
 (7) Az állományilletékes parancsnok köteles felhívni az érintett figyelmét arra, hogy ha a balesetével kapcsolatban kára keletkezett, kárigényét a balesetminősítő határozat kézhezvételétől számított 30 napon belül hivatásos állomány tagja a 10. melléklet, munkavállaló a 11. melléklet vagy a 11/A. melléklet szerinti nyomtatványon terjesztheti elő.
 
-[^23]: A 23. § a 71/2013. (XII. 16.) BM rendelet 7. §-ával megállapított szöveg.
+[^26]: A 23. § a 71/2013. (XII. 16.) BM rendelet 7. §-ával megállapított szöveg.

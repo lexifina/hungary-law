@@ -52,7 +52,7 @@
 
 | 10 |  |  | 4 ismételt mérés szükséges |
 
-14. melléklet a 70/2011. (XII. 30.) BM rendelethez[^52]
+14. melléklet a 70/2011. (XII. 30.) BM rendelethez[^55]
 
 ## Határozat kötelező adattartalma betegség szolgálati kötelmekkel való összefüggéséről
 
@@ -94,4 +94,4 @@
 
 19. Készített példány meghatározása
 
-[^52]: A 14. mellékletet a 71/2013. (XII. 16.) BM rendelet 9. § (3) bekezdés e) pontja iktatta be.
+[^55]: A 14. mellékletet a 71/2013. (XII. 16.) BM rendelet 9. § (3) bekezdés e) pontja iktatta be.
