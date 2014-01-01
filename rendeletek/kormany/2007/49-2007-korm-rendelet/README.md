@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-49-20-2
 | 2011-07-08 | 2007-49-20-22.8 | 113/2011. (VII. 7.) Korm. rendelet |
 | 2012-07-13 | 2007-49-20-22.9 | 154/2012. (VII. 12.) Korm. rendelet |
 | 2013-04-13 | 2007-49-20-22.10 | 107/2013. (IV. 5.) Korm. rendelet |
+| 2014-01-01 | 2007-49-20-22.11 | 550/2013. (XII. 30.) Korm. rendelet |
