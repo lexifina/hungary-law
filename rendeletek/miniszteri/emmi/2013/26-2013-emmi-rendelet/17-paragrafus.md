@@ -1,3 +1,5 @@
-## 1–16. §[^1]
+## 16. § Az Nmr. 120. § (2) bekezdése a következő e) ponttal egészül ki:
 
-[^1]: Az 1–16. § a 40. § (2) bekezdése alapján 2014. január 1-jén lép hatályba.
+## (Az ellátás megszüntetéséről az időpont és a gondozott gyermeket átvevő személy megjelölésével a gyermekotthon haladéktalanul értesíti)
+
+## „e) a gyermekvédelmi gyámot.”

@@ -1,3 +1,3 @@
-## 30–34. §[^9]
+## 34. § Az Nmr. a következő 167. §-sal egészül ki:
 
-[^9]: A 30–34. § a 40. § (2) bekezdése alapján 2014. január 1-jén lép hatályba.
+## „167. § Az egyes gyermekvédelmi tárgyú miniszteri rendeleteknek a gyermekvédelmi és gyámügyi eljárások egyszerűsítésével összefüggő módosításáról szóló 26/2013. (III. 29.) EMMI rendelettel módosított 90. § (1), (2) és (4) bekezdését, 92. § (1)–(6) bekezdését és 93. §-t azon gyermekek, fiatal felnőttek tekintetében kell alkalmazni, akiknek az utógondozását, utógondozói ellátását 2013. december 31-ét követően rendelték el. A 2014. január 1-jét megelőzően elrendelt utógondozásra, utógondozói ellátásra a 2013. december 31-én hatályos szabályokat kell alkalmazni.”
