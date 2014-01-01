@@ -1,20 +1,14 @@
-## 11/C. §[^143] Abban az esetben, ha a 8. § (16) bekezdése szerinti eljárás során engedélyezte az OTH a többletkapacitást eredményező átcsoportosítást, a többletkapacitás befogadása tárgyában nem kell külön eljárást lefolytatni, illetve külön döntést hozni.
-
 ## Az előzetes többletkapacitás-befogadási eljárás
 
-12. §[^144] (1) Többletkapacitás a Tv. 11. §-a alapján előzetesen akkor fogadható be, ha
+12. §[^153] (1)[^154] Többletkapacitás a Tv. 11/A. §-a alapján előzetesen akkor fogadható be, ha
 
-a) címzett támogatás szakmai programja,
+a) központi költségvetésből támogatott népegészségügyi fejlesztés, illetve program,
 
-b) központi költségvetésből támogatott egyéb beruházás,
+b) európai uniós forrásból vagy más pénzügyi alapból támogatott pályázat,
 
-c) európai uniós forrásból támogatott pályázat,
+c) az a) és a b) pont alá nem tartozó regionális fejlesztések
 
-d) egyéb regionális fejlesztések,
-
-e) népegészségügyi programok
-
-megvalósítása többletkapacitások befogadását igényli.
+## megvalósítása többletkapacitások befogadását igényli.
 
 (2) Az (1) bekezdés szerinti befogadásnál figyelembe kell venni, hogy a befogadásra kerülő többletkapacitás várható éves teljesítményének finanszírozott összege nem haladhatja meg
 
@@ -26,7 +20,7 @@ c) a finanszírozási szabályok módosításának eredményeként felszabaduló
 
 együttes összegét.
 
-(3)[^145] Ha az (1) bekezdésben foglaltaknak megfelelő többletkapacitás-befogadási igény merül fel, az előzetes befogadásra a kérelmet a támogatásra kiírt pályázat határidejének letelte előtt legalább 75 nappal, amennyiben a pályázat kiírása és határideje közötti idő ennél rövidebb, akkor a pályázat kiírását követő 8 napon belül kell elektronikusan és nyomtatott formában benyújtani az egészségügyért felelős miniszterhez. A kérelem az alábbiakat tartalmazza:
+(3)[^155] Ha az (1) bekezdésben foglaltaknak megfelelő többletkapacitás-befogadási igény merül fel, az előzetes befogadásra a kérelmet a támogatásra kiírt pályázat határidejének letelte előtt legalább 75 nappal, amennyiben a pályázat kiírása és határideje közötti idő ennél rövidebb, akkor a pályázat kiírását követő 8 napon belül kell elektronikusan és nyomtatott formában benyújtani az egészségügyért felelős miniszterhez. A kérelem az alábbiakat tartalmazza:
 
 a) a pályázat részét képező és a kérelmezett kapacitásbefogadással összefüggő orvos-szakmai programot,
 
@@ -44,6 +38,20 @@ fa) az ellátandó feladatra vonatkozó várható éves bevételeket és kiadás
 
 fb) a tervezett kapacitásbővítésnek az egészségügyi szolgáltató egészére gyakorolt hatásának bemutatását, tekintettel a más szervezeti egységeknél megjelenő többletköltségekre, illetve a más egységeknél elérhető megtakarításokra, méretgazdaságossági szempontokra.
 
+(3a)[^156] Ha a többletkapacitás előzetes befogadása iránti igény az (1) bekezdés a) vagy c) pontjában foglaltak megvalósításához kötődik, a többletkapacitás előzetes befogadására irányuló kérelmet elektronikusan és nyomtatott formában kell benyújtani az egészségügyért felelős miniszterhez. A kérelemnek tartalmaznia kell:
+
+a) a kérelmezett kapacitásbefogadással összefüggő orvos-szakmai programot,
+
+b) a kérelem tárgyát képező kapacitás tervezett kihasználtságának, betegforgalmi adatainak bemutatását,
+
+c) a kérelem tárgyát képező kapacitással összefüggésben – a Tv. szerinti elérési szabályoknak megfelelően – tervezett ellátási területet,
+
+d) a kérelem tárgyát képező kapacitás tekintetében a finanszírozás megkezdésének tervezett időpontját, az egyes részelemek – részletes indoklással ellátott – finanszírozására vonatkozó bontásban, ha az egyes kapacitásbefogadással érintett részelemek megvalósulása és az egészének tervezett finanszírozása időben eltér,
+
+e) az ellátandó feladatra vonatkozó várható éves bevételeket és kiadásokat, valamint
+
+f) a tervezett kapacitásbővítés révén az egészségügyi szolgáltató egészére gyakorolt hatások bemutatását, tekintettel a más szervezeti egységeknél megjelenő többletköltségekre, illetve a más egységeknél elérhető megtakarításokra, méretgazdaságossági szempontokra.
+
 (4) Az egészségügyért felelős miniszter a kapacitásbővítési kérelem elbírálása érdekében az ellátási érdek fennállásának eldöntéséhez kikéri az OTH és az OEP véleményét, amelyet az OEP és az OTH a megkereséstől számított 10 napon belül megküld.
 
 (5) Az OTH (4) bekezdés szerinti véleménye az alábbiakat tartalmazza:
@@ -56,6 +64,7 @@ c) történt-e rendkívüli intézkedés az ellátás biztosítása érdekében.
 
 (6) Az OEP (4) bekezdés szerinti véleménye a (3) bekezdés szerinti kérelem finanszírozási szempontú véleményezésén túlmenően a többletkapacitás-befogadás mértékére és feltételeire vonatkozó javaslatát is tartalmazza.
 
-[^143]: A 11/C. §-t a 447/2012. (XII. 29.) Korm. rendelet 53. §-a iktatta be.
-[^144]: A 12. § a 363/2010. (XII. 30.) Korm. rendelet 13. §-ával megállapított szöveg.
-[^145]: A 12. § (3) bekezdése a 137/2012. (VI. 29.) Korm. rendelet 45. § b) pontja szerint módosított szöveg.
+[^153]: A 12. § a 363/2010. (XII. 30.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^154]: A 12. § (1) bekezdése az 520/2013. (XII. 30.) Korm. rendelet 51. § (1) bekezdésével megállapított szöveg.
+[^155]: A 12. § (3) bekezdése a 137/2012. (VI. 29.) Korm. rendelet 45. § b) pontja szerint módosított szöveg.
+[^156]: A 12. § (3a) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 51. § (2) bekezdése iktatta be.

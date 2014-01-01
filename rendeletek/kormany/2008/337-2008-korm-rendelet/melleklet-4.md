@@ -150,17 +150,19 @@
 
 | 75. |  | gyermek plasztikai és égéssebészet |
 
-| 76. |  | mozgásszervi rehabilitáció |
+| 76. |  |  |
 
-| 77. |  | belgyógyászati rehabilitáció |
+| 76/a. |  | rehabilitációs medicina alaptevékenység |
+
+| 77. |  |  |
 
 | 78. |  | gasztroenterológiai rehabilitáció |
 
-| 79. |  | nőgyógyászati rehabilitáció |
+| 79. |  |  |
 
 | 80. |  | gyermek rehabilitáció |
 
-| 81. |  | neurológiai rehabilitáció |
+| 81. |  |  |
 
 | 82. |  | kardiológiai rehabilitáció |
 
@@ -180,11 +182,11 @@
 
 | 90. |  | orvosi laboratóriumi diagnosztika |
 
-| 91. |  | haematológia laboratóriumi diagnosztika |
+| 91. |  |  |
 
 | 92. |  | mikrobiológiai laboratóriumi diagnosztika |
 
-| 93. |  | immunológiai laboratóriumi diagnosztika |
+| 93. |  |  |
 
 | 94. |  | molekuláris genetikai laboratóriumi diagnosztika |
 
@@ -270,9 +272,9 @@
 
 | 135. |  | genetikai tanácsadás |
 
-| 136. |  | pszichológia |
+| 136. |  |  |
 
-| 137. |  | klinikai és metálhigiénés szakpszichológia |
+| 137. |  | klinikai és mentálhigiéniai szakpszichológia |
 
 | 138. |  | pszichoterápia |
 
@@ -284,6 +286,10 @@
 
 | 142. |  | egészségbiztosítási orvosszakértés |
 
-4. számú melléklet a 337/2008. (XII. 30.) Korm. rendelethez[^248]
+| 143. |  | neuropszichológia |
 
-[^248]: A 4. számú mellékletet a 325/2011. (XII. 28.) Korm. rendelet 71. § (1) bekezdése iktatta be, szövege a 447/2012. (XII. 29.) Korm. rendelet 55. § (3) bekezdésével megállapított szöveg.
+| 144. |  | klinikai addiktológiai szakpszichológia |
+
+4. számú melléklet a 337/2008. (XII. 30.) Korm. rendelethez[^230]
+
+[^230]: A 4. számú mellékletet a 325/2011. (XII. 28.) Korm. rendelet 71. § (1) bekezdése iktatta be, szövege a 447/2012. (XII. 29.) Korm. rendelet 55. § (3) bekezdésével megállapított szöveg.

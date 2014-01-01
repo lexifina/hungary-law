@@ -1,44 +1,24 @@
-## Az 1. § (1b) bekezdése szerinti többletkapacitás befogadása[^194]
+## Kapacitások visszavonása[^172]
 
-15/B. §[^195] (1)[^196] Az 1. § (1b) bekezdése szerinti többletkapacitás befogadására a 13–15. §-ban foglaltakat a (2)–(9) bekezdésben foglalt eltérésekkel kell alkalmazni. Az e § szerinti eljárásban nem kell alkalmazni a 13. § (1), (2), (4), (4a), (6) és (7) bekezdését, a 14. § (3) és (4) bekezdését, valamint a 15. § (8), (10) és (11) bekezdését.
+15/B. §[^173] (1) Az OTH a következő szempontokat veszi figyelembe a Tv. 11/B. § (3) bekezdésében meghatározott döntéshez:
 
-(2) Az 1. § (1b) bekezdése szerinti többletkapacitás befogadására vonatkozó pályázatot az egészségügyért felelős miniszter kezdeményezésére és jóváhagyása mellett az OEP a kezdeményezéstől számított 25 napon belül a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben közzétett pályázati felhívással írja ki. A pályázati felhívásra pályázatot az integrációban érintett egészségügyi szolgáltatók fenntartói a 14. § (1) bekezdésében foglaltaknak megfelelően nyújthatnak be, azzal, hogy a különböző fenntartókhoz tartozó – ugyanazon integrációban érintett – egészségügyi szolgáltatók fenntartói csak közösen pályázhatnak.
+a) a befogadott kapacitás révén a szolgáltatáshoz való hozzáférés lehetősége – az ellátási terület megállapítását követően – nem változik vagy javul,
 
-(3) A pályázathoz mellékelni kell:
+b) a befogadott kapacitást ellátó szolgáltatónál a tárgyi-személyi feltételek kedvezőbbek, mint annál a szolgáltatónál, amelytől a kapacitás visszavonására kerül sor,
 
-a) az egészségügyi szolgáltatónak működési engedélyt kiadó hatóság nyilatkozatát arról, hogy az integráció megvalósulását követően az ellátás nyújtásához szükséges feltételek fennállnak-e,
+c) a befogadott kapacitást végző szolgáltató által nyújtott szakmák köre, beavatkozások jellege, progresszivitási szintje és így a szolgáltatás minősége magasabb szintű.
 
-b) a fenntartók vonatkozó döntését és teljesítési garanciavállalását,
+(2) Az (1) bekezdésben foglaltak megállapítása érdekében az OTH szükség esetén helyszíni ellenőrzést végezhet.
 
-c) az integráció részletes szakmai indoklását,
+(3) A Tv. 11/B. § (3) bekezdése szerinti esetben a kapacitás visszavonás teljesítése érdekében az OEP a többletkapacitás-befogadási eljárás során, a TBB felé történő javaslattételt megelőzően megkeresi az OTH-t. Az OEP a megkeresésében megjelölheti azt az egészségügyi szolgáltatót, amely kapacitásának a visszavonását javasolja.
 
-d) az integrációt alátámasztó pénzügyi hatásvizsgálatot,
+(4) Ha az OTH – a (3) bekezdés szerinti megkeresés alapján – megállapítja, hogy rendelkezésre áll az adott többletkapacitás befogadásához szükséges tartalék- vagy egyéb kapacitás, erről tájékoztatja az OEP-et.
 
-e) az integráció eredményeként az érintett egészségügyi szolgáltatók által végzett betegellátásban várható minőségi változásokat bemutató hatásvizsgálatot,
+(5) Ha az OTH – a (3) bekezdés szerinti megkeresés alapján – megállapítja, hogy nem áll rendelkezésre az adott többletkapacitás befogadásához szükséges tartalék- vagy egyéb kapacitás és a Tv. 11/B. § (3) bekezdése szerinti visszavonás indokolt, az OTH rendelkezik a kapacitás visszavonásáról.
 
-f) a pályázati felhívásban szereplő adatlapot és mellékleteit.
+(6) Az OTH a döntés meghozatalától számított 5 napon belül tájékoztatja az OEP-et a kapacitásnak a Tv. 11/B. § (1) és (3) bekezdése szerinti visszavonásáról. Az OEP gondoskodik az egészségügyi szolgáltató finanszírozási szerződésének az OTH döntése miatt szükséges módosításáról vagy felmondásáról, azzal, hogy a szerződésmódosítás hatálybalépésének vagy megszűnésének időpontja megegyezik a kapacitás visszavonásáról szóló határozat hatálybalépésének időpontjával.
 
-(4) Az OEP a pályázati határidőt követő 15 napon belül küldi meg a 14. § (6) bekezdése szerinti javaslatát a TBB részére.
+(7) Ha a Tv. 11/B. § (1) vagy (3) bekezdése alapján hozott határozat olyan kapacitás visszavonásáról rendelkezik, amelyhez kapcsolódó ellátás elszámolására az egészségügyért felelős miniszter rendeletében megnevezett egészségügyi szolgáltatók jogosultak, a finanszírozási szerződés (6) bekezdés szerinti módosulását, illetve megszűnését követően végzett ellátások elszámolására az érintett szolgáltató nem jogosult.
 
-(5) Az 1. § (1b) bekezdése szerinti többletkapacitás csak abban az esetben fogadható be, ha a (3) bekezdés e) pontja szerinti, a kérelemhez csatolt hatásvizsgálat alapján valószínűsíthető, hogy az integráció az érintett egészségügyi szolgáltatók által végzett betegellátás minőségének javulását fogja eredményezni.
-
-(6) A TBB a befogadásra javasolt pályázatokat, illetve a befogadás szakmai és finanszírozási feltételeit tartalmazó javaslatát a pályázati kiírásban meghatározott szempontok alapján, a pályázati határidőt követő 30 napon belül készíti el és küldi meg az egészségügyért felelős miniszternek.
-
-(7) A (6) bekezdés szerinti javaslat az 1. § (1b) bekezdése szerinti többletkapacitás tekintetében tartalmazza
-
-a) az eljárás tárgyát képező integrációban érintett egészségügyi szolgáltatók megjelölését,
-
-b) a befogadásra javasolt többletkapacitás megjelölését,
-
-c) a többletkapacitás-befogadás forrásigényét,
-
-d) a finanszírozás javasolt kezdési időpontját.
-
-(8)[^197] Az egészségügyért felelős miniszter a (6) bekezdés szerinti javaslatról annak beérkezésétől számított 30 napon belül, az éves pénzügyi kihatások és a rendelkezésre álló források figyelembevételével dönt, a döntése akkor érvényes, ha ahhoz az államháztartásért felelős miniszter a 15. § (12) bekezdésében foglaltak szerint hozzájárult.
-
-(9) Az (1)–(8) bekezdés alapján befogadott többletkapacitás finanszírozása egy alkalommal egy összegben történik.
-
-[^194]: A 15/B. §-t megelőző alcímet a 185/2011. (IX. 9.) Korm. rendelet 9. §-a iktatta be.
-[^195]: A 15/B. §-t a 185/2011. (IX. 9.) Korm. rendelet 9. §-a iktatta be.
-[^196]: A 15/B. § (1) bekezdése a 92/2012. (IV. 27.) Korm. rendelet 28. § d) pontja szerint módosított szöveg.
-[^197]: A 15/B. § (8) bekezdése a 92/2012. (IV. 27.) Korm. rendelet 28. § e) pontja szerint módosított szöveg.
+[^172]: A 15/B. §-t megelőző alcímet a 185/2011. (IX. 9.) Korm. rendelet 9. §-a iktatta be, szövege az 520/2013. (XII. 30.) Korm. rendelet 55. §-ával megállapított szöveg.
+[^173]: A 15/B. §-t a 185/2011. (IX. 9.) Korm. rendelet 9. §-a iktatta be, szövege az 520/2013. (XII. 30.) Korm. rendelet 55. §-ával megállapított szöveg.

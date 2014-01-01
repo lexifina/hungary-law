@@ -31,3 +31,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-337-20-
 | 2013-07-06 | 2008-337-20-22.29 | 254/2013. (VII. 5.) korm. rendelet |
 | 2013-08-01 | 2008-337-20-22.30 | 297/2013. (VII. 29.) Korm. rendelet |
 | 2013-09-26 | 2008-337-20-22.31 | 339/2013. (IX. 25.) Korm. rendelet |
+| 2014-01-01 | 2008-337-20-22.32 | 520/2013. (XII. 30.) Korm. rendelet |

@@ -1,74 +1,51 @@
-15. § (1) A pályázatok elbírálását az OEP készíti elő.
+15. §[^170] (1) A TBB az üléséig beérkezett hiánytalan kérelmek alapján – a (2)–(5) bekezdésben foglaltak figyelembevételével – javaslatot (a továbbiakban: befogadási javaslat) tesz az egészségügyért felelős miniszternek a többletkapacitás befogadására.
 
-(2)[^170] A TBB elnöke az OEP véleményének kézhezvételét követő 15 napon belülre hívja össze a TBB ülését, a (7) bekezdésben meghatározott határidő figyelembevételével.
+(2) A TBB a befogadási javaslatának elkészítése során
 
-(3)[^171] A TBB létszáma 8 fő, amelyből 3 főt az egészségügyért felelős miniszter, 1 főt az államháztartásért felelős miniszter, 2 főt az OEP főigazgatója, 1 főt az országos tisztifőorvos és 1 főt a GYEMSZI főigazgatója jelöl ki. A TBB elnökét – a tagok közül – az OEP főigazgatója jelöli ki.
-
-(4)[^172] A TBB tagjainak megbízatása a kijelöléssel jön létre. A megbízás visszavonásig szól.
-
-(5)[^173] A TBB határozatképességéhez 5 tag jelenléte szükséges. A TBB ülésén tanácskozási joggal részt vehetnek a járóbeteg-szakellátást, valamint fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltatóknak a TBB elnöke által meghívott szakmai érdekképviseleti szervezetei képviselői, továbbá előterjesztőként az OEP adott témáért felelős munkatársa.
-
-(6)[^174] A TBB döntését tagjai többségének szavazatával hozza. Szavazategyenlőség esetén az elnök szavazata dönt. A TBB tagja különvéleményt fogalmazhat meg. Az ülésen a döntésről és a megfogalmazott különvéleményről jegyzőkönyv készül.
-
-(7)[^175] A TBB működéséhez szükséges feltételeket az OEP biztosítja. A TBB ülését úgy kell összehívni, hogy a megtárgyalandó anyagokat a TBB tagjai az ülést megelőzően legalább öt nappal megismerhessék.
-
-(8)[^176] A pályázat tárgyában tartott ülését követően a TBB 15 napon belül javaslatot tesz az egészségügyért felelős miniszternek a befogadásra javasolt szolgáltatást nyújtó egészségügyi szolgáltatóra, és a kapacitás, illetve teljesítmény mértékére, valamint a finanszírozási szerződés megkötésének időpontjára és a szerződés időbeli hatályára.
-
-(9)[^177] A TBB a (8) bekezdésben meghatározott befogadási javaslatának elkészítése során
-
-a) álláspontja kialakításánál előnyben részesíti az objektív ellátási szükségletek kielégítésére irányuló pályázatot;
+a) álláspontja kialakításánál előnyben részesíti az objektív ellátási szükségletek kielégítésére irányuló kérelmet;
 
 b) figyelembe veszi
 
-ba)[^178] az egészségügyi szolgáltatót érintő korábban befogadott és a pályázat benyújtásakor lekötött többletkapacitásokat,
+ba) az egészségügyi szolgáltatót érintő korábban befogadott és a kérelem benyújtásakor lekötött többletkapacitásokat,
 
 bb) az egy kapacitásegységre jutó lakosságszám adatokat,
 
-bc) az intézmény előző finanszírozási évre vonatkozó egy kapacitásegységre jutó forgalmi adatait,
+bc) a kérelemmel érintett szakmák kapacitásainak kihasználtságára vonatkozó adatokat,
 
-bd) az érintett szakmák kihasználtságára vonatkozó adatokat,
+bd) a kapacitás szükséglet-alapú tervezésének meglétét,
 
-be) a kapacitás szükséglet-alapú tervezésének meglétét,
+be) a vonatkozó egyéb szakmai szabályoknak való megfelelést,
 
-bf) a vonatkozó egyéb szakmai szabályoknak történő megfelelést,
+bf) a finanszírozás várható összegét,
 
-bg) a finanszírozás várható összegét;
+bg) a 13. § (6) bekezdése alapján készített összefoglalót.
 
-bh)[^179]
+(3) A befogadási javaslat elkészítése során előnyben kell részesíteni az olyan kérelmet, melynek eredményeként az egészségügyi szolgáltató
 
-c) összefoglalót készít a befogadás évenkénti pénzügyi kihatásáról kérelmenként és a támogatott kérelmek összessége tekintetében.
+a) országos, illetve regionális ellátási területtel működik,
 
-(10) A pályázat elbírálásánál előnyben kell részesíteni az olyan kérelmeket, melyeknek eredményeként az egészségügyi szolgáltató
+b) magasabb progresszivitású egészségügyi ellátást nyújt,
 
-a) országos, illetve regionális ellátási területtel működik, vagy
-
-b) progresszív egészségügyi ellátást nyújt, vagy
-
-c) a korábban finanszírozott szolgáltatásokhoz képest költséghatékony megoldást nyújt, vagy
+c) a korábban finanszírozott szolgáltatásokhoz képest költséghatékonyabb megoldást nyújt,
 
 d) az ellátott terület népegészségügyi mutatóihoz szakmai összetételében a meglévőnél jobban igazodó szolgáltatást végez, vagy
 
 e) segíti az egészségügyi rendszerhez való hozzáférési esélyek kiegyenlítését.
 
-(11)[^180] A befogadási javaslat alapján a pályázatról – a TBB befogadási javaslatának felterjesztésétől számított 35 napon belül – az egészségügyért felelős miniszter dönt a (9) bekezdés a) és b) pontja alapján, valamint az éves pénzügyi kihatások és a rendelkezésre álló források figyelembevételével.
+(4) A befogadási javaslat elkészítése során figyelembe kell venni, hogy a befogadásra kerülő kapacitás várható éves teljesítményének finanszírozott összege nem haladhatja meg a központi költségvetésről szóló törvényben erre a célra rendelkezésre álló források összegét.
 
-(12)[^181] Az egészségügyért felelős miniszter döntése előtt – a TBB általi felterjesztés kézhezvételét követő 10 napon belül – megkéri a befogadáshoz az államháztartásért felelős miniszter hozzájárulását. Az államháztartásért felelős miniszter a megküldött befogadási javaslat kézhezvételét követő 15 napon belül értesíti az egészségügyért felelős minisztert a befogadáshoz való hozzájárulásáról, illetve annak elutasításáról és az elutasítás indoklásáról. Az egészségügyért felelős miniszter döntése akkor érvényes, ha ahhoz az államháztartásért felelős miniszter előzetesen hozzájárult.
+(5) A befogadási javaslat elkészítése során figyelembe kell venni az egészségügyért felelős miniszter által a 11/D. § alapján kiadott és érvényes szakmai prioritásokat.
 
-(13)[^182] Az OEP főigazgatója a befogadott többletkapacitásokról a döntésről való tudomásszerzéstől számított 15 napon belül az OEP honlapján közzétételre kerülő közleményt ad ki. A közlemény pályázónként tartalmazza a befogadott többletkapacitás mértékét, valamint a finanszírozási szerződés megkötésének tervezett időpontját és időtartamát.
+(6) A befogadási javaslatnak tartalmaznia kell
 
-(14)[^183] A befogadott többletkapacitásra a finanszírozási szerződéskötési jogosultság hatályát veszti, ha az egészségügyi szolgáltató a közlemény közzétételét vagy a közleményben meghatározott befogadási időpontot követően egy éven belül nem kezdeményezi annak megkötését.
+a) a többletkapacitás-befogadásra javasolt egészségügyi szolgáltatók nevét,
 
-[^170]: A 15. § (2) bekezdése a 360/2009. (XII. 30.) Korm. rendelet 14. § (4) bekezdés e) pontja szerint módosított szöveg.
-[^171]: A 15. § (3) bekezdése a 254/2013. (VII. 5.) Korm. rendelet 36. §-ával megállapított szöveg.
-[^172]: A 15. § (4) bekezdése a 360/2009. (XII. 30.) Korm. rendelet 14. § (4) bekezdés e) pontja szerint módosított szöveg.
-[^173]: A 15. § (5) bekezdése a 360/2009. (XII. 30.) Korm. rendelet 14. § (4) bekezdés e) pontja szerint módosított szöveg.
-[^174]: A 15. § (6) bekezdése a 360/2009. (XII. 30.) Korm. rendelet 14. § (4) bekezdés e) pontja szerint módosított szöveg.
-[^175]: A 15. § (7) bekezdése a 360/2009. (XII. 30.) Korm. rendelet 14. § (4) bekezdés e) pontja, a 363/2010. (XII. 30.) Korm. rendelet 15. § 30. pontja szerint módosított szöveg.
-[^176]: A 15. § (8) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 656. §-a, a 360/2009. (XII. 30.) Korm. rendelet 14. § (4) bekezdés e) pontja, a 363/2010. (XII. 30.) Korm. rendelet 15. § 23. és 31. pontja szerint módosított szöveg.
-[^177]: A 15. § (9) bekezdés bevezető szövegrésze a 360/2009. (XII. 30.) Korm. rendelet 14. § (4) bekezdés e) pontja szerint módosított szöveg.
-[^178]: A 15. § (9) bekezdés b) pont ba) alpontja a 363/2010. (XII. 30.) Korm. rendelet 15. § 32. pontja szerint módosított szöveg.
-[^179]: A 15. § (9) bekezdés b) pont bh) alpontját a 225/2010. (VIII. 12.) Korm. rendelet 10. § (1) bekezdés c) pontja hatályon kívül helyezte.
-[^180]: A 15. § (11) bekezdése a 185/2011. (IX. 9.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^181]: A 15. § (12) bekezdése a 185/2011. (IX. 9.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^182]: A 15. § (13) bekezdése a 360/2009. (XII. 30.) Korm. rendelet 14. § (4) bekezdés f) pontja, a 185/2011. (IX. 9.) Korm. rendelet 10. § b) pontja, a 447/2012. (XII. 29.) Korm. rendelet 56. § c) pontja szerint módosított szöveg.
-[^183]: A 15. § (14) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 656. §-a, a 363/2010. (XII. 30.) Korm. rendelet 15. § 34. pontja szerint módosított szöveg.
+b) a befogadásra javasolt többletkapacitás megjelölését,
+
+c) a többletkapacitás-befogadás forrásigényét,
+
+d) a finanszírozás javasolt kezdési időpontját.
+
+(7) A TBB a befogadási javaslatában csak azon szolgáltatók rehabilitációs osztályain nyújtott ellátások esetében javasolhatja a szorzó emelkedését, illetve befogadását, amelyek – az OTH állásfoglalása szerint – megfelelnek a jogszabályban meghatározott szakmai szempontoknak, vagy ennek hiányában a szakmai minimumfeltételekről szóló rendeletben meghatározott feltételeknek.
+
+[^170]: A 15. § az 520/2013. (XII. 30.) Korm. rendelet 53. §-ával megállapított szöveg.

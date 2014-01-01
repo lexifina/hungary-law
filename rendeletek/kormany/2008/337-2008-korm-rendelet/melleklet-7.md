@@ -8,7 +8,7 @@
 
 ## ...............................
 
-7. számú melléklet a 337/2008. (XII. 30.) Korm. rendelethez[^251]
+7. számú melléklet a 337/2008. (XII. 30.) Korm. rendelethez[^233]
 
 Átadás-átvételi és birtokbaadási jegyzőkönyv
 
@@ -166,7 +166,7 @@ Az Európai Unió által, illetve egyéb nemzetközi forrásokból társfinansz�
 
 Az átadási kötelezettség a teljes projektállomány dokumentációjára vonatkozik, figyelemmel a lezárt, valamint a fenntartási időszakban lévő projektekre is.
 
-A projektek átadás-átvétele, valamint a jogutódlás átvezetése során Felek a vonatkozó hatályos jogszabályok, valamint a Nemzeti Fejlesztési Ügynökség által készített eljárásrend szerint járnak el.
+A projektek átadás-átvétele, valamint a jogutódlás átvezetése során Felek a vonatkozó hatályos jogszabályok, valamint a feladatkörében érintett irányító hatóság által készített eljárásrend szerint járnak el.
 
 Egyéb rendelkezések
 
@@ -222,4 +222,4 @@ D) Mellékletek – Dokumentumok
 
 E) Mellékletek – Kimutatások és táblázatok
 
-[^251]: A 7. számú mellékletet a 125/2013. (IV. 26.) Korm. rendelet 14. § (2) bekezdése iktatta be.
+[^233]: A 7. számú mellékletet a 125/2013. (IV. 26.) Korm. rendelet 14. § (2) bekezdése iktatta be, szövege az 550/2013. (XII. 30.) Korm. rendelet 46. §-a szerint módosított szöveg.
