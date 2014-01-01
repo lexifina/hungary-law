@@ -1,5 +1,0 @@
-## 51. §[^4]
-
-## IV. Az örökbefogadást elősegítő magánszervezetek tevékenységéről és működésük engedélyezéséről szóló 127/2002. (V. 21.) Korm. rendelet módosítása
-
-[^4]: Az 51. §-t a 64. § hatályon kívül helyezte.

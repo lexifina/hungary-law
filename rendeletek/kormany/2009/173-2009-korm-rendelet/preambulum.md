@@ -1,1 +1,0 @@
-A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény (a továbbiakban: Gyvt.) 162. § (1) bekezdés a), b), c), d), g), h), i), j), k), l), m), n), q) és r) pontjában kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában foglalt feladatkörében a Kormány a következőket rendeli el:
