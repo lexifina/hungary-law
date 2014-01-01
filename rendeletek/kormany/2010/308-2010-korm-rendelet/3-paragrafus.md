@@ -1,18 +1,18 @@
-3. § (1) Az OKTVF a szervezetnek a nyilvántartásból való felfüggesztését rendeli el,
+3. § (1)[^10] Az OKTF a szervezetnek a nyilvántartásból való felfüggesztését rendeli el,
 
 a) ha a szervezetnek elmarasztaló hatósági határozattal vagy bírósági ítélettel megállapított környezetvédelmi, illetve természetvédelmi kötelezettsége keletkezik, ideértve a környezetvédelmi és a természetvédelmi bírság megfizetésének kötelezettségét is;
 
-b) ha a szervezet az évente frissített és érvényesített környezeti nyilatkozatát nem nyújtja be az OKTVF-hez, illetve ha a kis szervezet az 1221/2009/EK európai parlamenti és tanácsi rendelet 7. cikke szerint jár el és környezeti nyilatkozatát a 7. cikk (1) és (3) bekezdésének megfelelően nem nyújtja be az OKTVF-hez;
+b)[^11] ha a szervezet az évente frissített és érvényesített környezeti nyilatkozatát nem nyújtja be az OKTF-hez, illetve ha a kis szervezet az 1221/2009/EK európai parlamenti és tanácsi rendelet 7. cikke szerint jár el és környezeti nyilatkozatát a 7. cikk (1) és (3) bekezdésének megfelelően nem nyújtja be az OKTF-hez;
 
 c) ha a szervezet az 1221/2009/EK európai parlamenti és tanácsi rendelet 10. cikkében foglalt, az EMAS-logó használatára vonatkozó szabályokat megsérti;
 
-d) ha a hitelesített környezeti nyilatkozat érvényesítésével összefüggésben az 1. § (5)–(6) bekezdése szerinti felügyeleti vizsgálat alapján a NAT a hitelesítés megalapozatlanságáról értesíti az OKTVF-et;
+d)[^12] ha a hitelesített környezeti nyilatkozat érvényesítésével összefüggésben az 1. § (5)–(6) bekezdése szerinti felügyeleti vizsgálat alapján a NAT a hitelesítés megalapozatlanságáról értesíti az OKTF-et;
 
 e) a 4. § (2) bekezdésében meghatározott esetben;
 
 f) ha azt a szervezet maga kérelmezi.
 
-(2) Az OKTVF megszünteti a szervezetnek a nyilvántartásból történő felfüggesztését,
+(2)[^13] Az OKTF megszünteti a szervezetnek a nyilvántartásból történő felfüggesztését,
 
 a) ha a szervezetnek az (1) bekezdés a) pontjában meghatározott kötelezettsége megszűnik;
 
@@ -27,3 +27,8 @@ e) a 4. § (2) bekezdésében foglalt feltétel teljesülése esetében;
 f) ha a szervezet az (1) bekezdés f) pontjában meghatározott felfüggesztés megszüntetését kéri és ennek nincs akadálya.
 
 (3) Az (1) bekezdés b), c), illetve d) pontjában meghatározott esetben a felfüggesztés időtartama legfeljebb három hónap lehet.
+
+[^10]: A 3. § (1) bekezdés nyitó szövegrésze az 527/2013. (XII. 30.) Korm. rendelet 93. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^11]: A 3. § (1) bekezdés b) pontja az 527/2013. (XII. 30.) Korm. rendelet 93. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^12]: A 3. § (1) bekezdés d) pontja az 527/2013. (XII. 30.) Korm. rendelet 93. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^13]: A 3. § (2) bekezdés nyitó szövegrésze az 527/2013. (XII. 30.) Korm. rendelet 93. § (2) bekezdés a) pontja szerint módosított szöveg.
