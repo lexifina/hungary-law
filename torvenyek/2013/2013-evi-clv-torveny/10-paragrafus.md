@@ -1,5 +1,1 @@
-10. § (1) A hivatásos támogató a gyámhatóság kirendelő határozatában meghatározottaknak megfelelően, a felügyeletét ellátó gyámhatósággal együttműködve, a támogatott személy érdekében, döntéseinek, véleményének tiszteletben tartásával segíti a támogatott személyt a döntései meghozatalában. A hivatásos támogató feladataira a 4. §-ban foglaltak irányadóak.
-
-(2) A hivatásos támogató évente jelentést készít a tevékenységének felügyeletére jogosult gyámhatóság számára, amelyben beszámol a támogatott személy részére nyújtott segítségről, megjelölve, hogy milyen eljárásokban és jognyilatkozatok megtételében működött közre. A hivatásos támogató a jelentését minden évben annak a hónapnak a 15. napjáig nyújtja be a gyámhatósághoz, amelyik hónapban a kirendeléséről szóló határozatot meghozták.
-
-(3) Ha a hivatásos támogató jelentéstételi kötelezettségének nem tesz eleget vagy a jelentésében foglaltak alapján valószínűsíthető, hogy a támogatott személy érdekei sérülnek, a gyámhatóság meghallgatja a támogatott személyt.
+10. §
