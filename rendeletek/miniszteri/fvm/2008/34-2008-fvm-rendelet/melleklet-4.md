@@ -10,23 +10,25 @@
 
 | 3. | Vonalas létesítmények* |
 
-| 4. | Vízkárelhárítás, belvízvédekezés hatékonyságának elősegítése | Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség igazolása | 5 |
+| 4. | Vízkárelhárítás, belvízvédekezés hatékonyságának elősegítése | Vízügyi hatóság igazolása | 5 |
 
-| 5. | Mezőgazdasági termelés biztonságának emelése, vizek és vizes élőhelyek ökológiai állapotának megőrzése | Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelet igazolása | 2 |
+| 5. | Mezőgazdasági termelés biztonságának emelése, vizek és vizes élőhelyek ökológiai állapotának megőrzése | Vízvédelmi hatóság igazolása | 2 |
+
+| 5a. | Mezőgazdasági termelés biztonságának emelése, vizek és vizes élőhelyek ökológiai állapotának megőrzése | Természetvédelmi hatóság igazolása | 2 |
 
 | 6. | Kapcsolódás vízvisszatartó, víztározó létesítményekhez | Engedélyezési terv vagy műszaki leírás és tervdokumentáció alapján | 3 |
 
-| 7. | A beruházás a 2. számú melléklet szerinti vízgazdálkodási terület részét képezi | Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelet igazolása | 10 |
+| 7. | A beruházás a 2. számú melléklet szerinti vízgazdálkodási terület részét képezi | Vízügyi hatóság igazolása | 10 |
 
 | 8. | Tározók** |
 
-| 9. | Vízkárelhárítás, belvízvédekezés hatékonyságának elősegítése | Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség igazolása | 5 |
+| 9. | Vízkárelhárítás, belvízvédekezés hatékonyságának elősegítése | Vízügyi hatóság igazolása | 5 |
 
 | 10. | A tározó öntözési célú hasznosításra is alkalmas | Engedélyezési terv vagy műszaki leírás és tervdokumentáció alapján | 2 |
 
-| 11. | Belvízkár (belvíztározó), helyi vízkár (záportározó) elhárító hatás. | Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség igazolása | 3 |
+| 11. | Belvízkár (belvíztározó), helyi vízkár (záportározó) elhárító hatás. | Vízügyi hatóság igazolása | 3 |
 
-| 12. | A beruházás a 2. számú melléklet szerinti vízgazdálkodási terület részét képezi | Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelet igazolása | 10 |
+| 12. | A beruházás a 2. számú melléklet szerinti vízgazdálkodási terület részét képezi | Vízügyi hatóság igazolása | 10 |
 
 | 13. | Összesen: |  | max. 20 |
 
@@ -94,7 +96,7 @@
 
 | 42. | A beruházás vízvisszatartó tározó építését is tartalmazza | Műszaki leírás és tervdokumentáció vagy Vízjogi engedély alapján | 3 |
 
-| 43. | Meglévő öntöző-vízszolgáltató mű kihasználtságának fokozása | Műszaki leírás és tervdokumentáció vagy Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelet igazolása | 2 |
+| 43. | Meglévő öntöző-vízszolgáltató mű kihasználtságának fokozása | Műszaki leírás és tervdokumentáció vagy Vízügyi hatóság igazolása | 2 |
 
 | 44. | A fejlesztés kizárólag felszíni vízkészletre támaszkodik. | Vízjogi engedély alapján | 3 |
 
