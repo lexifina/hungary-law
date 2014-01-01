@@ -8,7 +8,7 @@ c) ha a bíróság a gyermeket harmadik személynél helyezte el,
 
 d) ha a szülő hathetes életkoránál fiatalabb gyermeke ismeretlen személy általi örökbefogadásához járult hozzá,
 
-e) ha a gyermeket a gyámhatóság átmeneti nevelésbe vette,
+e) ha a gyermeket a gyámhatóság nevelésbe vette és a szülő szülői felügyeleti joga nem szűnt meg vagy azt a bíróság nem szüntette meg,
 
 f) ha a gyámhatóság a gyermek családba fogadásához hozzájárult,
 

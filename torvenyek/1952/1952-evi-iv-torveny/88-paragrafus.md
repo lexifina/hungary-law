@@ -4,7 +4,7 @@ Csjt. 88. § (1) A bíróság megszünteti a szülői felügyeletet:
 
 a) ha a szülő felróható magatartásával gyermeke javát, különösen testi jólétét, értelmi vagy erkölcsi fejlődését súlyosan sérti vagy veszélyezteti,
 
-b) ha a gyermeket más személynél helyezték el, vagy átmeneti nevelésbe vették és a szülő felróhatóan gyermeke érdekét súlyosan sértő módon nem működik együtt a gyermekét gondozó nevelőszülővel vagy intézménnyel, gyermekével nem tart kapcsolatot, továbbá magatartásán, életvitelén, körülményein az átmeneti nevelés megszüntetése céljából nem változtat.
+b) ha a gyermeket más személynél helyezték el, vagy nevelésbe vették és a szülő felróhatóan gyermeke érdekét súlyosan sértő módon nem működik együtt a gyermekét gondozó nevelőszülővel vagy intézménnyel, gyermekével nem tart kapcsolatot, továbbá magatartásán, életvitelén, körülményein a nevelésbe vétel megszüntetése céljából nem változtat,
 
 c) ha a szülőt a bíróság valamelyik gyermeke személye ellen elkövetett szándékos bűncselekmény miatt szabadságvesztésre ítélte.
 

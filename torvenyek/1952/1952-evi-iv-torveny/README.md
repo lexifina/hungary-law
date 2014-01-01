@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1952-4-00-00
 | 2012-01-01 | 2011. évi CCXI. törvény | 1952-4-00-00.21 |
 | 2012-07-01 | 2012. évi LXXXV. törvény | 1952-4-00-00.22 |
 | 2013-01-01 | 2012. évi XCIII. törvény | 1952-4-00-00.23 |
+| 2014-01-01 | 2013. évi XXVII. törvény | 1952-4-00-00.24 |
