@@ -28,7 +28,7 @@
 
 | 13. | bányahatósági engedélyek | Magyar Bányászati és Földtani Hivatal Budapesti Bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
-2. melléklet a 289/2013. (VII. 26.) Korm. rendelethez
+2. melléklet a 289/2013. (VII. 26.) Korm. rendelethez[^5]
 
 A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárásokban közreműködő hatáskörrel rendelkező szakhatóságok
 
@@ -38,7 +38,9 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 | 2. | Építésügy | Budapest Főváros Kormányhivatala V. Kerületi Hivatalának Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
-| 3. | Környezetvédelem, természetvédelem és vízügy | Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 3. | Környezetvédelem, természetvédelem | Közép-Duna-völgyi Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+
+| 3a. | vízügy | Közép-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
 | 4. | Katasztrófavédelem | Fővárosi Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
@@ -65,3 +67,5 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 | 15. | Bányászat | Magyar Bányászati és Földtani Hivatal Budapesti Bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
 | 16. | Honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
+
+[^5]: A 2. melléklet az 527/2013. (XII. 30.) Korm. rendelet 147. §-a szerint módosított szöveg.
