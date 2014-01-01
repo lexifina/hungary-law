@@ -1,4 +1,4 @@
-6. melléklet a 258/2011. (XII. 7.) Korm. rendelethez[^68]
+6. melléklet a 258/2011. (XII. 7.) Korm. rendelethez[^69]
 
 ÁTADÁS-ÁTVÉTELI JEGYZŐKÖNYV
 
@@ -162,7 +162,7 @@ d) a rendszerek működtetéséhez szükséges licencek átadás-átvételéről
 
 1. A II. fejezet c) alpont szerinti átadási kötelezettség a teljes projektállomány dokumentációjára vonatkozik, figyelemmel a lezárt, valamint a fenntartási időszakban lévő projektekre is.
 
-2. A projektek átadás-átvétele, valamint a jogutódlás átvezetése során Felek a vonatkozó hatályos jogszabályok, miniszteri utasítások, valamint a Nemzeti Fejlesztési Ügynökség által készített eljárásrend szerint járnak el.
+2. A projektek átadás-átvétele, valamint a jogutódlás átvezetése során Felek a vonatkozó hatályos jogszabályok, miniszteri utasítások, valamint a feladatkörében érintett irányító hatóság által készített eljárásrend szerint járnak el.
 
 IV.
 
@@ -298,4 +298,4 @@ Szállítói tartozások és egyéb kötelezettségek
 
 | Hitelező neve | Tartozást megalapozó okirat kelte | Tartozás jogcíme | Tartozás összege | Tartozás lejárta | Tartozás rendezése érdekében tett intézkedések | Egyéb releváns információk |
 
-[^68]: A 6. mellékletet a 372/2011. (XII. 31.) Korm. rendelet 15. §-a iktatta be.
+[^69]: A 6. mellékletet a 372/2011. (XII. 31.) Korm. rendelet 15. §-a iktatta be, szövege az 550/2013. (XII. 30.) Korm. rendelet 73. §-a szerint módosított szöveg.
