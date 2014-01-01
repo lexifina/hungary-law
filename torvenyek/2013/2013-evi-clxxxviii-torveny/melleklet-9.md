@@ -6,49 +6,9 @@ A víziközmű-szolgáltató által alkalmazandó számlakép részszámla eset�
 
 2. A részszámla első oldala
 
-|
+## 3K85774T_0 | „Szolgáltató logója: | | | Víziközmű-szolgáltatás x. részszámla | Szolgáltató neve: | x. sz. eredeti példány | Címe: | Oldalszám | Adószáma: | | Bankszámlaszáma: | |
 
-„Szolgáltató logója:
-
-|
-
-|
-
-|
-
-Víziközmű-szolgáltatás x. részszámla
-
-|
-
-Szolgáltató neve:
-
-|
-
-x. sz. eredeti példány
-
-|
-
-Címe:
-
-|
-
-Oldalszám
-
-|
-
-Adószáma:
-
-|
-
-|
-
-Bankszámlaszáma:
-
-|
-
-|
-
-”
+## ”
 
 3. A részszámla harmadik oldala „oldalszám
 
@@ -110,237 +70,25 @@ A szolgáltatás megnevezése:
 
 Víziközmű-szolgáltatás
 
-SZÁMLARÉSZLETEZŐ
+## SZÁMLARÉSZLETEZŐ
 
-Elszámolt mennyiség:
+## Elszámolt mennyiség:
 
-Árszabás:
+## Árszabás:
 
-|
+## | Tétel megnevezése | Mérőállás (induló, záró) | Elszámolt mennyiség és mértékegység | Nettó egységár és mértékegység | Nettó díj (Ft) | ÁFA (%) | Bruttó díj (Ft) | Ivóvíz-szolgáltatás alapdíj vagy átalánydíj | | | | | | | …………. számú vízmérőn mért ivóvíz fogyasztással arányos díj | | | | | | | Szennyvízelvezetés és tisztítás alapdíj vagy átalánydíj | | | | | | | Elvezetett mennyiséggel arányos szennyvízdíj | | | | | | | Áthárított vízterhelési díj | | | | | | | Jogszabályban biztosított locsolási kedvezmény…..% | | | | | | | Egyéb, a víziközmű- szolgáltatás keretében figyelembe vett tétel | | | | | | | Kerekítés | | | | | | | Bruttó számlaérték összesen*: | | | | | | | Egyéb | | | | | | | Fizetendő összeg: | | | | | |
 
-Tétel megnevezése
+## ÁFA összesítő (Ft)
 
-|
+## A nyilvántartás szerinti folyószámla-egyenlege a számla kibocsátásakor: … Ft.
 
-Mérőállás (induló, záró)
+## Tájékoztató adatok:
 
-|
+## * A rezsicsökkentés a fogyasztókat a 2013. január 1-jén hatályos árképzés szerinti bruttó számlaérték alapulvételével illeti meg, a tétel a már csökkentett összeget tartalmazza.
 
-Elszámolt mennyiség és mértékegység
+## Fogyasztás megállapításának módja:
 
-|
-
-Nettó egységár és mértékegység
-
-|
-
-Nettó díj
-
-(Ft)
-
-|
-
-ÁFA (%)
-
-|
-
-Bruttó díj
-
-(Ft)
-
-|
-
-Ivóvíz-szolgáltatás
-
-alapdíj vagy átalánydíj
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-…………. számú vízmérőn mért ivóvíz fogyasztással arányos díj
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Szennyvízelvezetés és tisztítás
-
-alapdíj vagy átalánydíj
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Elvezetett mennyiséggel arányos szennyvízdíj
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Áthárított vízterhelési díj
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Jogszabályban biztosított locsolási kedvezmény…..%
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Egyéb, a víziközmű-
-
-szolgáltatás keretében figyelembe vett tétel
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Kerekítés
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Bruttó számlaérték összesen*:
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Egyéb
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Fizetendő összeg:
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-ÁFA összesítő (Ft)
-
-A nyilvántartás szerinti folyószámla-egyenlege a számla kibocsátásakor: … Ft.
-
-Tájékoztató adatok:
-
-* A rezsicsökkentés a fogyasztókat a 2013. január 1-jén hatályos árképzés szerinti bruttó számlaérték alapulvételével illeti meg, a tétel a már csökkentett összeget tartalmazza.
-
-Fogyasztás megállapításának módja:
-
-Következő mérő leolvasás vagy diktálás időpontja:
+## Következő mérő leolvasás vagy diktálás időpontja:
 
 4. Magyarázat:
 

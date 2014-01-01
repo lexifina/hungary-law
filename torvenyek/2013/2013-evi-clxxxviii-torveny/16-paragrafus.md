@@ -1,1 +1,1 @@
-16–17. §
+16. § A Tszt. 11. §-a a következő (3) bekezdéssel egészül ki:

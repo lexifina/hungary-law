@@ -6,49 +6,9 @@ A távhőszolgáltató által alkalmazandó közvetített szolgáltatást nem ta
 
 2. A részszámla első oldala
 
-|
+## 3K85774P_0 | „Szolgáltató logója: | | | Távhőszolgáltatási x. részszámla | Szolgáltató neve: | x. sz. eredeti példány | Címe: | Oldalszám | Adószáma: | | Bankszámlaszáma: | |
 
-„Szolgáltató logója:
-
-|
-
-|
-
-|
-
-Távhőszolgáltatási x. részszámla
-
-|
-
-Szolgáltató neve:
-
-|
-
-x. sz. eredeti példány
-
-|
-
-Címe:
-
-|
-
-Oldalszám
-
-|
-
-Adószáma:
-
-|
-
-|
-
-Bankszámlaszáma:
-
-|
-
-|
-
-”
+## ”
 
 3. A részszámla harmadik oldala: „oldalszám
 
@@ -174,201 +134,21 @@ Fűtési célú költségek összesen
 
 |
 
-Vízfelmelegítési célú költségek
+## Vízfelmelegítési célú költségek
 
-|
+## | Tétel megnevezése | Fogyasztási időszak | Szorzó- tényező | Díjtétel alap | Nettó díj (Ft) | ÁFA (%) | Bruttódíj (Ft) | Mennyisége és mértékegysége | Nettó egységára és mértékegysége | Vízfelmelegítési díj | | | | | | | | Alapdíj | | | | | | | | Hődíj | | | | | | | | Vízfelmelegítési célú költségek összesen |
 
-Tétel megnevezése
+## | Kerekítés (Ft) | | Bruttó számlaérték összesen* (Ft) | | Egyéb tétel (Ft) | | ÁFA összesítő (Ft) | | Fizetendő összeg összesen (Ft) |
 
-|
+## Hőközponti és épület felhasználási adatok
 
-Fogyasztási időszak
+## | Szolgáltatás helye és megnevezése | Fogyasztási időszak | Mérőazonosító | Mérőállás | Mennyiség és mértékegysége | Nyitó | Záró | Hőközpontban mért fogyasztás | | | | | | Melegvíz mérőn mért fogyasztás | | | | |
 
-|
+## A nyilvántartás szerinti folyószámla-egyenlege a számla kibocsátásakor: … Ft.
 
-Szorzó-
+## Tájékoztató adatok:
 
-tényező
-
-|
-
-Díjtétel alap
-
-|
-
-Nettó díj (Ft)
-
-|
-
-ÁFA
-
-(%)
-
-|
-
-Bruttódíj (Ft)
-
-|
-
-Mennyisége és mértékegysége
-
-|
-
-Nettó egységára és mértékegysége
-
-|
-
-Vízfelmelegítési díj
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Alapdíj
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Hődíj
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Vízfelmelegítési célú költségek összesen
-
-|
-
-|
-
-Kerekítés (Ft)
-
-|
-
-|
-
-Bruttó számlaérték összesen* (Ft)
-
-|
-
-|
-
-Egyéb tétel (Ft)
-
-|
-
-|
-
-ÁFA összesítő (Ft)
-
-|
-
-|
-
-Fizetendő összeg összesen (Ft)
-
-|
-
-Hőközponti és épület felhasználási adatok
-
-|
-
-Szolgáltatás helye és megnevezése
-
-|
-
-Fogyasztási időszak
-
-|
-
-Mérőazonosító
-
-|
-
-Mérőállás
-
-|
-
-Mennyiség és mértékegysége
-
-|
-
-Nyitó
-
-|
-
-Záró
-
-|
-
-Hőközpontban mért fogyasztás
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Melegvíz mérőn mért fogyasztás
-
-|
-
-|
-
-|
-
-|
-
-|
-
-A nyilvántartás szerinti folyószámla-egyenlege a számla kibocsátásakor: … Ft.
-
-Tájékoztató adatok:
-
-** A rezsicsökkentés a fogyasztókat a 2012. november 1-jén hatályos árképzés szerinti bruttó számlaérték alapulvételével illeti meg, a tétel a már csökkentett összeget tartalmazza.
+## ** A rezsicsökkentés a fogyasztókat a 2012. november 1-jén hatályos árképzés szerinti bruttó számlaérték alapulvételével illeti meg, a tétel a már csökkentett összeget tartalmazza.
 
 4. Magyarázat
 
