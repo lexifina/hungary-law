@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-6-20-0N
 | 2009-03-01 | 2002-6-20-0N.7 | 6/2002. (XI. 5.) KvVM rendelet |
 | 2012-01-01 | 2002-6-20-0N.8 | 147/2011. (XII. 23.) VM rendelet |
 | 2013-01-01 | 2002-6-20-0N.9 | 17/2007. (V. 10.) KvVM rendelet |
+| 2014-01-01 | 2002-6-20-0N.10 | 3/2005. (II. 22.) KvVM rendelet |
