@@ -8,8 +8,8 @@ c) a hitelesítési jelentésekben foglaltak alapján a partnerországok által 
 
 d) és információt szolgáltat a partnerországok által kifizetett közkiadásokról és a partnerország szintű hitelesítési jelentésekhez csatolt szabálytalansági jelentések típusáról, számáról,
 
-e)[^39] a vonatkozó időszakban a program lebonyolítási fizetési számlára befolyt követelések összegéről.
+e)[^46] a vonatkozó időszakban a program lebonyolítási fizetési számlára befolyt követelések összegéről.
 
 (2) Az Irányító Hatóság a Közös Technikai Titkárság által összeállított hitelesítési jelentést szükség esetén kiegészítheti, egyetértése esetén a kézhezvételt követő 5 munkanapon belül ellenjegyzi, majd azt követően 5 munkanapon belül továbbítja az Igazoló Hatóság részére.
 
-[^39]: A 17. § (1) bekezdés e) pontja a 137/2010. (IV. 28.) Korm. rendelet 28. § (2) bekezdése szerint módosított szöveg.
+[^46]: A 17. § (1) bekezdés e) pontja a 137/2010. (IV. 28.) Korm. rendelet 28. § (2) bekezdése szerint módosított szöveg.
