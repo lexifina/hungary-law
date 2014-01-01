@@ -38,20 +38,21 @@ d) Országos Atomenergia Hivatal;
 
 14. az érintett települési önkormányzatok;
 
-15. az érintett területi államigazgatási szervek közül:
+15.[^38] az érintett területi államigazgatási szervek közül:
 
-a) illetékes környezetvédelmi, természetvédelmi és vízügyi felügyelőség,
+a) illetékes környezetvédelmi és természetvédelmi felügyelőség,
 
-b) működési területével érintett nemzeti park igazgatóság,
+b) illetékes vízügyi hatóság,
 
-c)[^38] működési területével érintett vízügyi igazgatóság.
+c) működési területével érintett nemzeti park igazgatóság,
 
-d)[^39] Nemzeti Környezetügyi Intézet működési területtel érintett területi kirendeltsége.
+d) működési területével érintett vízügyi igazgatóság,
+
+e) Nemzeti Környezetügyi Intézet működési területtel érintett területi kirendeltsége.
 
 [^33]: A 10. melléklet
 [^34]: A 10. melléklet 3. pont b) alpontja a 67/2012. (IV. 5.) Korm. rendelet 23. § h) pontjával megállapított szöveg.
 [^35]: A 10. melléklet 7. pontját a 67/2012. (IV. 5.) Korm. rendelet 24. § i) pontja hatályon kívül helyezte.
 [^36]: A 10. melléklet 9. pontját a 67/2012. (IV. 5.) Korm. rendelet 24. § i) pontja hatályon kívül helyezte.
 [^37]: A 10. melléklet 10. pontját a 67/2012. (IV. 5.) Korm. rendelet 24. § i) pontja hatályon kívül helyezte.
-[^38]: A 10. melléklet 15. pont c) alpontja a 300/2011. (XII. 22.) Korm. rendelet 30. § f) pontja szerint módosított szöveg.
-[^39]: A 10. melléklet 15. pont d) alpontját a 300/2011. (XII. 22.) Korm. rendelet 13. §-a iktatta be.
+[^38]: A 10. melléklet 15. pontja az 527/2013. (XII. 30.) Korm. rendelet 80. § (1) bekezdésével megállapított szöveg.

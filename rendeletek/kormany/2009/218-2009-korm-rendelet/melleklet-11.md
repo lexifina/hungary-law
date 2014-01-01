@@ -1,4 +1,4 @@
-11. melléklet a 218/2009. (X. 6.) Korm. rendelethez[^40]
+11. melléklet a 218/2009. (X. 6.) Korm. rendelethez[^39]
 
 ## A területrendezési tervek véleményezésére jogosult szervek
 
@@ -24,37 +24,37 @@ c) Országos Atomenergia Hivatal;
 
 8. a tervező- és szakértő mérnökök, valamint építészek országos kamarái;
 
-9.[^41]
+9.[^40]
 
 10. az érintett térségi fejlesztési tanácsok;
 
-11.[^42]
+11.[^41]
 
-12.[^43]
+12.[^42]
 
-13. az érintett területi államigazgatási szervek közül:
+13.[^43] az érintett területi államigazgatási szervek közül:
 
-a) illetékes környezetvédelmi, természetvédelmi és vízügyi felügyelőség,
+a) illetékes környezetvédelmi és természetvédelmi felügyelőség,
 
 b) működési területével érintett nemzeti park igazgatóság,
 
-c)[^44] működési területével érintett vízügyi igazgatóság,
+c) működési területével érintett vízügyi igazgatóság,
 
-d)[^45] a megyei kormányhivatal erdészeti igazgatósága
+d) a megyei kormányhivatal erdészeti igazgatósága,
 
-e)[^46]
+e) illetékes vízügyi hatóság,
 
-f)[^47] fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala,
+f) fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala,
 
-g)[^48] a fővárosi és megyei kormányhivatal közlekedési felügyelősége,,
+g) a fővárosi és megyei kormányhivatal közlekedési felügyelősége,
 
-h)[^49] a fővárosi és megyei kormányhivatal illetékes* megyei népegészségügyi szakigazgatási szerve,
+h) a fővárosi és megyei kormányhivatal illetékes megyei népegészségügyi szakigazgatási szerve,
 
-i)[^50] illetékes megyei kormányhivatal földhivatala, a fővárosban a Fővárosi kormányhivatal földhivatala,
+i) illetékes megyei kormányhivatal földhivatala, a fővárosban Budapest Főváros Kormányhivatala földhivatala,
 
-j) illetékes állami főépítész;
+j) illetékes állami főépítész,
 
-k)[^51] Nemzeti Környezetügyi Intézet működési területtel érintett területi kirendeltsége.
+k) Nemzeti Környezetügyi Intézet működési területtel érintett területi kirendeltsége;
 
 14. a szomszédos megyei önkormányzatok;
 
@@ -66,15 +66,8 @@ k)[^51] Nemzeti Környezetügyi Intézet működési területtel érintett terü
 
 18. az érintett települési önkormányzatok.
 
-[^40]: A 11. melléklet a 67/2012. (IV. 5.) Korm. rendelet 24. § k) pontja szerint módosított szöveg.
-[^41]: A 11. melléklet 9. pontját a 67/2012. (IV. 5.) Korm. rendelet 24. § j) pontja hatályon kívül helyezte.
-[^42]: A 11. melléklet 11. pontját a 67/2012. (IV. 5.) Korm. rendelet 24. § j) pontja hatályon kívül helyezte.
-[^43]: A 11. melléklet 12. pontját a 67/2012. (IV. 5.) Korm. rendelet 24. § j) pontja hatályon kívül helyezte.
-[^44]: A 11. melléklet 13. pont c) alpontja a 300/2011. (XII. 22.) Korm. rendelet 30. § f) pontja szerint módosított szöveg.
-[^45]: A 11. melléklet 13. pont d) alpontja a 351/2010. (XII. 30.) Korm. rendelet 258. §-ával megállapított szöveg.
-[^46]: A 11. melléklet 13. pont e) alpontját a 86/2013. (III. 21.) Korm. rendelet 6. §-a hatályon kívül helyezte.
-[^47]: A 11. melléklet 13. pont f) alpontja a 351/2010. (XII. 30.) Korm. rendelet 258. §-ával megállapított, a 394/2012. (XII. 20.) Korm. rendelet 37. §-a szerint módosított szöveg.
-[^48]: A 11. melléklet 13. pont g) alpontja a 351/2010. (XII. 30.) Korm. rendelet 258. §-ával megállapított szöveg.
-[^49]: A 11. melléklet 13. pont h) alpontja a 351/2010. (XII. 30.) Korm. rendelet 258. §-ával megállapított szöveg.
-[^50]: A 11. melléklet 13. pont i) alpontja a 351/2010. (XII. 30.) Korm. rendelet 258. §-ával megállapított szöveg.
-[^51]: A 11. melléklet 13. pont k) alpontját a 300/2011. (XII. 22.) Korm. rendelet 13. §-a iktatta be.
+[^39]: A 11. melléklet a 67/2012. (IV. 5.) Korm. rendelet 24. § k) pontja szerint módosított szöveg.
+[^40]: A 11. melléklet 9. pontját a 67/2012. (IV. 5.) Korm. rendelet 24. § j) pontja hatályon kívül helyezte.
+[^41]: A 11. melléklet 11. pontját a 67/2012. (IV. 5.) Korm. rendelet 24. § j) pontja hatályon kívül helyezte.
+[^42]: A 11. melléklet 12. pontját a 67/2012. (IV. 5.) Korm. rendelet 24. § j) pontja hatályon kívül helyezte.
+[^43]: A 11. melléklet 13. pontja az 527/2013. (XII. 30.) Korm. rendelet 80. § (2) bekezdésével megállapított szöveg.
