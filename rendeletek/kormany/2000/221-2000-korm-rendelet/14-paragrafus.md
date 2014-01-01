@@ -1,10 +1,10 @@
 ## Egyéb sajátosságok
 
-14. § (1)[^53] Az MNB a befektetett eszközök között elkülönítetten mutatja ki a bankjegy- és éremgyűjtemény-készletét. A gyűjtemény készlete után terv szerinti értékcsökkenést elszámolni nem lehet. A gyűjteményre vonatkozóan tízévente kerül sor teljes körű, mennyiségi leltárfelvételre.
+14. § (1)[^56] Az MNB a befektetett eszközök között elkülönítetten mutatja ki a bankjegy- és éremgyűjtemény-készletét. A gyűjtemény készlete után terv szerinti értékcsökkenést elszámolni nem lehet. A gyűjteményre vonatkozóan tízévente kerül sor teljes körű, mennyiségi leltárfelvételre.
 
 (2) Az MNB a követeléseit és a mérlegen kívül nyilvántartott vállalt kötelezettségeit azok értékelése során a ,,rendben levő'', a ,,külön figyelendő'' és a ,,kockázatos'' kategóriák egyikébe sorolja be.
 
-(3)[^54] A befektetett eszközök, a követelések, az értékpapírok és a jövőbeni kötelezettségek minősítésének rendjéről, valamint a céltartalék képzésének, az értékvesztés elszámolásának és visszaírásának, továbbá a piaci érték meghatározásának rendjéről – a sajátosságok figyelembevételével – az MNB belső szabályzatot készít.
+(3)[^57] A befektetett eszközök, a követelések, az értékpapírok és a jövőbeni kötelezettségek minősítésének rendjéről, valamint a céltartalék képzésének, az értékvesztés elszámolásának és visszaírásának, továbbá a piaci érték meghatározásának rendjéről – a sajátosságok figyelembevételével – az MNB belső szabályzatot készít.
 
 (4) A befektetett eszközöket, az értékpapírokat, a készleteket és a követeléseket az értékvesztéssel csökkentett, a visszaírt értékvesztéssel növelt könyv szerinti értéken kell a mérlegben kimutatni.
 
@@ -12,22 +12,22 @@
 
 (6) A 9. § (7) bekezdésben megjelölt költségeket, ráfordításokat költségnemenkénti, továbbá ráfordításonkénti bontásban kell kimutatni a kiegészítő mellékletben.
 
-(7)[^55]
+(7)[^58]
 
-(8)[^56] A monetáris célból, illetve a központi költségvetéssel kötött swap ügyleteket a fedezeti ügyletekkel azonos módon kell elszámolni.
+(8)[^59] A monetáris célból, illetve a központi költségvetéssel kötött swap ügyleteket a fedezeti ügyletekkel azonos módon kell elszámolni.
 
 (9) Az MNB a számviteli politikájában rögzített módon, minden negyedév utolsó napjára vonatkozóan – a tulajdonos részére történő adatszolgáltatás alátámasztása céljából – köteles eszköz- és forrásszámláit, valamint költség- és eredményszámláit lezárni, azok egyenlegét megállapítani, továbbá főkönyvi kivonatot készíteni. A nyilvántartások zárásakor biztosítani kell, hogy a tárgynegyedévi eredmény és a tárgyévben a tárgynegyedév végéig (halmozottan) keletkezett eredmény megállapítható legyen.
 
-(10)[^57] Az MNB a 2. § 11. pontja szerinti átértékelési körbe bevonandó eszközeit és forrásait naponta átértékeli a tárgynapi hivatalos árfolyamon. Az MNB a napi átértékelési különbözeteket egy – az egyéb követelések között megnyitott – elszámolási számlán számolja el a megfelelő eszköz és forrás számlákkal szemben.
+(10)[^60] Az MNB a 2. § 11. pontja szerinti átértékelési körbe bevonandó eszközeit és forrásait naponta átértékeli a tárgynapi hivatalos árfolyamon. Az MNB a napi átértékelési különbözeteket egy – az egyéb követelések között megnyitott – elszámolási számlán számolja el a megfelelő eszköz és forrás számlákkal szemben.
 
-(11)[^58] Az MNB a mérleg fordulónapjával – a számviteli politikában rögzített, könyvvizsgáló által elfogadott módszerrel meghatározott – realizált deviza árfolyamnyereséget, illetve -veszteséget a tárgyévi eredményt érintő tételként számolja el.
+(11)[^61] Az MNB a mérleg fordulónapjával – a számviteli politikában rögzített, könyvvizsgáló által elfogadott módszerrel meghatározott – realizált deviza árfolyamnyereséget, illetve -veszteséget a tárgyévi eredményt érintő tételként számolja el.
 
-(12)[^59] Az MNB a Tv. 14. § (9) bekezdésében foglaltakat nem alkalmazza, továbbá a forintpénzkészlet – Tv. 69. §-a szerinti – leltározását a lezárt kezelési egységek szintjén biztosítja, oly módon, hogy minden lezárt kezelési egység tartalmát három éven belül mennyiségi felvétellel leltározza.
+(12)[^62] Az MNB a Tv. 14. § (9) bekezdésében foglaltakat nem alkalmazza, továbbá a forintpénzkészlet – Tv. 69. §-a szerinti – leltározását a lezárt kezelési egységek szintjén biztosítja, oly módon, hogy minden lezárt kezelési egység tartalmát három éven belül mennyiségi felvétellel leltározza.
 
-[^53]: A 14. § (1) bekezdése a 114/2012. (VI. 8.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^54]: A 14. § (3) bekezdése a 114/2012. (VI. 8.) Korm. rendelet 10. §-a szerint módosított szöveg.
-[^55]: A 14. § (7) bekezdését a 236/2001. (XII. 10.) Korm. rendelet 12. §-a hatályon kívül helyezte.
-[^56]: A 14. § (8) bekezdése a 114/2012. (VI. 8.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^57]: A 14. § (10) bekezdését a 236/2001. (XII. 10.) Korm. rendelet 7. §-a iktatta a szövegbe, rendelkezéseit e módosító rendelet 10. §-ának b) pontja alapján először a 2002. évben induló üzleti évben készített beszámolóra kell alkalmazni.
-[^58]: A 14. § (11) bekezdését a 236/2001. (XII. 10.) Korm. rendelet 7. §-a iktatta a szövegbe, rendelkezéseit e módosító rendelet 10. §-ának b) pontja alapján először a 2002. évben induló üzleti évben készített beszámolóra kell alkalmazni.
-[^59]: A 14. § (12) bekezdését a 114/2012. (VI. 8.) Korm. rendelet 6. § (3) bekezdése iktatta be.
+[^56]: A 14. § (1) bekezdése a 114/2012. (VI. 8.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^57]: A 14. § (3) bekezdése a 114/2012. (VI. 8.) Korm. rendelet 10. §-a szerint módosított szöveg.
+[^58]: A 14. § (7) bekezdését a 236/2001. (XII. 10.) Korm. rendelet 12. §-a hatályon kívül helyezte.
+[^59]: A 14. § (8) bekezdése a 114/2012. (VI. 8.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^60]: A 14. § (10) bekezdését a 236/2001. (XII. 10.) Korm. rendelet 7. §-a iktatta a szövegbe, rendelkezéseit e módosító rendelet 10. §-ának b) pontja alapján először a 2002. évben induló üzleti évben készített beszámolóra kell alkalmazni.
+[^61]: A 14. § (11) bekezdését a 236/2001. (XII. 10.) Korm. rendelet 7. §-a iktatta a szövegbe, rendelkezéseit e módosító rendelet 10. §-ának b) pontja alapján először a 2002. évben induló üzleti évben készített beszámolóra kell alkalmazni.
+[^62]: A 14. § (12) bekezdését a 114/2012. (VI. 8.) Korm. rendelet 6. § (3) bekezdése iktatta be.

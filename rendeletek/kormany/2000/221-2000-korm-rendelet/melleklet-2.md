@@ -1,4 +1,4 @@
-2. számú melléklet a 221/2000. (XII. 19.) Korm. rendelethez[^74]
+2. számú melléklet a 221/2000. (XII. 19.) Korm. rendelethez[^81]
 
 ## Az eredménykimutatás előírt tagolása
 
@@ -35,6 +35,8 @@ V. Egyéb bevételek
 1. Jutalék bevételek
 
 2. Jutaléktól eltérő egyéb bevételek
+
+3.[^82] Felügyeleti tevékenységből származó bevételek
 
 VI. Céltartalék felhasználás
 
@@ -94,4 +96,5 @@ XXII. Fizetett (jóváhagyott) osztalék
 
 XXIII. Mérleg szerinti eredmény
 
-[^74]: A 2. számú melléklet a 242/2003. (XII. 17.) Korm. rendelet 9. §-a szerint módosított szöveg, e módosító rendelet 10. §-ának (1) és (2) bekezdése alapján rendelkezéseit először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban előírásait a 2003. évi üzleti évről készített beszámolóra is alkalmazni lehet.
+[^81]: A 2. számú melléklet a 242/2003. (XII. 17.) Korm. rendelet 9. §-a szerint módosított szöveg, e módosító rendelet 10. §-ának (1) és (2) bekezdése alapján rendelkezéseit először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban előírásait a 2003. évi üzleti évről készített beszámolóra is alkalmazni lehet.
+[^82]: A 2. számú melléklet V. rész 3. pontját az 518/2013. (XII. 30.) Korm. rendelet 8. §-a iktatta be.
