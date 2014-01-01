@@ -4,7 +4,7 @@ a) a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról
 
 b) a magánszemély természetes személyazonosító adatait (ideértve az előző nevet és a titulust is), nemét, állampolgárságát,
 
-c) a biztosításban töltött idő tartamát, az alkalmazás minőségének, jogcímének kódját, valamint a magánszemély nyugdíjas státuszát, és azt az adatot, hogy korhatár előtti ellátásban, szolgálati járandóságban, balettművészeti életjáradékban vagy átmeneti bányászjáradékban részesül-e, továbbá az arányos szolgálati idő naptári napjainak számát,
+c)[^1] a biztosításban töltött idő tartamát, az alkalmazás minőségének, jogcímének kódját, valamint a magánszemély nyugdíjas státuszát, a gyermekgondozási díj (a továbbiakban: gyed) és a gyermekgondozási segély (a továbbiakban: gyes) folyósítása melletti munkavégzés tényét, és azt az adatot, hogy korhatár előtti ellátásban, szolgálati járandóságban, balettművészeti életjáradékban vagy átmeneti bányászjáradékban részesül-e, továbbá az arányos szolgálati idő naptári napjainak számát,
 
 d) a korkedvezmény-biztosítási járulék alapját, összegét,
 
@@ -14,7 +14,7 @@ f) a természetbeni egészségbiztosítási, a pénzbeli egészségbiztosítási
 
 g) a tárgyhónaptól eltérő biztosítási jogviszony időtartamát, amelyre tekintettel a tárgyhónapban járulékalapot képező jövedelem kifizetésére került sor, és az ezen időtartamra vonatkozó levont természetbeni és pénzbeli egészségbiztosítási, munkaerő-piaci és nyugdíjjárulék alapját és összegét,
 
-h) a gyermekgondozási díj (gyed), gyermekgondozási segély (gyes), gyermeknevelési támogatás (gyet), ápolási díj, munkanélküli-ellátás folyósításának időtartamát, az ellátás összegét és az abból levont nyugdíjjárulék összegét és a levonás elmaradásának okát,
+h)[^2] a gyed, gyes, gyermeknevelési támogatás (gyet), ápolási díj, munkanélküli-ellátás folyósításának időtartamát, az ellátás összegét és az abból levont nyugdíjjárulék összegét és a levonás elmaradásának okát,
 
 i) a biztosítás szünetelését vagy a munkabérrel ellátatlanság idejét, ennek jogcímkódját,
 
@@ -29,3 +29,6 @@ m) a társas vállalkozóként is biztosított egyéni vállalkozó Tbj. 31. § 
 n) az adott hónapban történt egyszerűsített foglalkoztatás napjára (napjaira) kifizetett (nettó) munkabér – a hónapon belüli több napi foglalkoztatás esetén a kifizetett (nettó) munkabér együttes – összegét, és a foglalkoztatás napját (napjait) személyenként, az egyszerűsített foglalkoztatásról szóló törvény rendelkezései szerinti foglalkoztatási jogviszonnyal összefüggésben,
 
 o) a felszolgálási díj után fizetett nyugdíjjárulék alapját és összegét.
+
+[^1]: Az 1. § c) pontja az 538/2013. (XII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. § h) pontja az 538/2013. (XII. 30.) Korm. rendelet 2. § 1. pontja szerint módosított szöveg.

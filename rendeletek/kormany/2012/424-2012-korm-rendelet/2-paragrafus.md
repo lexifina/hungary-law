@@ -8,7 +8,7 @@ c) a magánszemély természetes személyazonosító adatait (ideértve az előz
 
 d) a magánszemély társadalombiztosítási azonosító jelét,
 
-e) a biztosításban töltött idő tartamát, az alkalmazás minőségének, jogcímének kódját, valamint a magánszemély nyugdíjas státuszát, és azt az adatot, hogy korhatár előtti ellátásban, szolgálati járandóságban, balettművészeti életjáradékban vagy átmeneti bányászjáradékban részesül-e, továbbá az arányos szolgálati idő naptári napjainak számát,
+e)[^3] a biztosításban töltött idő tartamát, az alkalmazás minőségének, jogcímének kódját, valamint a magánszemély nyugdíjas státuszát, gyed vagy gyes folyósítása melletti munkavégzés tényét, és azt az adatot, hogy korhatár előtti ellátásban, szolgálati járandóságban, balettművészeti életjáradékban vagy átmeneti bányászjáradékban részesül-e, továbbá az arányos szolgálati idő naptári napjainak számát,
 
 f) a korkedvezmény-biztosítási járulék alapját, összegét,
 
@@ -33,3 +33,5 @@ o) a társas vállalkozóként biztosított, egyidejűleg több gazdasági társ
 p) a társas vállalkozóként is biztosított egyéni vállalkozó Tbj. 31. § (6) bekezdése szerinti nyilatkozatában foglalt választását,
 
 q) az adott hónapban történt egyszerűsített foglalkoztatás napjára (napjaira) kifizetett (nettó) munkabér – a hónapon belüli több napi foglalkoztatás esetén a kifizetett (nettó) munkabér együttes – összegét, és a foglalkoztatás napját (napjait) személyenként, az egyszerűsített foglalkoztatásról szóló törvény rendelkezései szerinti foglalkoztatási jogviszonnyal összefüggésben.
+
+[^3]: A 2. § e) pontja az 538/2013. (XII. 30.) Korm. rendelet 2. § 2. pontja szerint módosított szöveg.

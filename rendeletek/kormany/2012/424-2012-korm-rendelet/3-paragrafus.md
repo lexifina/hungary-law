@@ -8,7 +8,7 @@ c) a magánszemély természetes személyazonosító adatait (ideértve az előz
 
 d) a magánszemély társadalombiztosítási azonosító jelét,
 
-e) a biztosításban töltött idő tartamát, az alkalmazás minőségét, jogcímének kódját, valamint a magánszemély nyugdíjas státuszát, és azt, hogy korhatár előtti ellátásban, szolgálati járandóságban, balettművészeti életjáradékban vagy átmeneti bányászjáradékban részesül-e, továbbá az arányos szolgálati idő naptári napjainak számát,
+e)[^4] a biztosításban töltött idő tartamát, az alkalmazás minőségét, jogcímének kódját, valamint a magánszemély nyugdíjas státuszát, gyed vagy gyes folyósítása melletti munkavégzés tényét, és azt, hogy korhatár előtti ellátásban, szolgálati járandóságban, balettművészeti életjáradékban vagy átmeneti bányászjáradékban részesül-e, továbbá az arányos szolgálati idő naptári napjainak számát,
 
 f) a nyugdíjjárulék alapját képező jövedelmet, a nyugdíjjárulék-köteles jutalom összegét,
 
@@ -25,3 +25,5 @@ k) a Pftv. szerinti START-, START PLUSZ-, START EXTRA, START BÓNUSZ, valamint R
 l) az adott hónapban történt egyszerűsített foglalkoztatás napjára (napjaira) kifizetett (nettó) munkabér – a hónapon belüli több napi foglalkoztatás esetén a kifizetett (nettó) munkabér együttes – összegét, és a foglalkoztatás napját (napjait) személyenként, az egyszerűsített foglalkoztatásról szóló törvény rendelkezései szerinti foglalkoztatási jogviszonnyal összefüggésben,
 
 m) a felszolgálási díj után fizetett nyugdíjjárulék alapját.
+
+[^4]: A 3. § e) pontja az 538/2013. (XII. 30.) Korm. rendelet 2. § 3. pontja szerint módosított szöveg.
