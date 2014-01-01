@@ -20,6 +20,6 @@
 
 (8) A 86. § a) pontja 2013. augusztus 16-án lép hatályba.
 
-(9) A 33. § (1), (2), (6), (9), (19), (21), (23)–(25) bekezdése, a 34. § d)–h) pontja, a 35. § (1) bekezdés a) pontja 2014. január 1-jén lép hatályba.
+(9) A 33. § (1), (2), (6), (9), (19), (21), (23) és (25) bekezdése, a 34. § d)–h) pontja, a 35. § (1) bekezdés a) pontja 2014. január 1-jén lép hatályba.
 
 (10) A 86. § c) és e) pontja 2015. január 1-jén lép hatályba.
