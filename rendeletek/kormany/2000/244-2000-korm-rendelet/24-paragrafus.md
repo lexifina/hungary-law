@@ -1,1 +1,0 @@
-## Az opciók további tőkekövetelménye
