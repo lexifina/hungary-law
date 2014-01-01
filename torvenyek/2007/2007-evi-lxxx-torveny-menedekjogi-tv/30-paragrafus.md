@@ -2,7 +2,7 @@
 
 30. § (1) Az elismerését kérő számára biztosított, a befogadás anyagi feltételei korlátozhatók, illetve – kivételes és kellően indokolt esetben – megvonhatók, ha az elismerését kérő
 
-a) a befogadó állomást vagy a számára kijelölt tartózkodási helyet a kijelölő hatóság engedélye nélkül huszonnégy órát meghaladó időtartamra elhagyja,
+a)
 
 b) a számára engedélyezett magánszállásról ismeretlen helyre távozott, és az eltávozástól számítva tizenöt nap eltelt,
 

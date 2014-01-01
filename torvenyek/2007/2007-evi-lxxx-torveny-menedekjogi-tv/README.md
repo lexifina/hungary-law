@@ -18,3 +18,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-80-00-00
 | 2013-03-01 | 2012. évi CCVII. törvény | 2007-80-00-00.12 |
 | 2013-07-01 | 2013. évi XCIII. törvény | 2007-80-00-00.13 |
 | 2013-08-01 | 2013. évi CXXXIII. törvény | 2007-80-00-00.14 |
+| 2014-01-01 | 2013. évi CXCVIII. törvény | 2007-80-00-00.15 |

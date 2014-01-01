@@ -32,7 +32,7 @@ a) határozza meg a menekültügy szervezeti rendszerének felépítését, fela
 
 b) jelölje ki a menekültügyi nyilvántartás, valamint a 83. § (3) bekezdésben meghatározott adatkör tekintetében az adatfeldolgozásra jogosult szervet;
 
-c) határozza meg az Európai Parlament és a Tanács .../2013/EU rendeletének 33. cikke szerinti korai előrejelzésre, készültségre és válságkezelésre vonatkozó rendszer működtetéséhez szükséges adatközlésre vonatkozó részletes szabályokat és jelölje ki a felelős hatóságokat,
+c) határozza meg az egy harmadik országbeli állampolgár vagy egy hontalan személy által a tagállamok egyikében benyújtott nemzetközi védelem iránti kérelem megvizsgálásáért felelős tagállam meghatározására vonatkozó feltételek és eljárási szabályok megállapításáról szóló, 2013. június 26-i, 604/2013/EU európai parlamenti és tanácsi rendelet 33. cikke szerinti korai előrejelzésre, készültségre és válságkezelésre vonatkozó rendszer működtetéséhez szükséges adatközlésre vonatkozó részletes szabályokat és jelölje ki a felelős hatóságokat;
 
 d) határozza meg a menekültügyi óvadék összege mértékét, a menekültügyi óvadék letételével összefüggő eljárási szabályokat, valamint a menekültügyi óvadék kezelésével kapcsolatos rendelkezéseket, továbbá
 
