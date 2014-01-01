@@ -1,1 +1,3 @@
-## 1. § A transzeurópai hagyományos vasúti rendszer járművek – teherkocsik alrendszerére vonatkozó átjárhatósági műszaki előírásokat a 2012/464/EU bizottsági határozattal módosított, a transzeurópai hagyományos vasúti rendszer „járművek – teherkocsik” alrendszerére vonatkozó átjárhatósági műszaki előírásról szóló, 2006. július 28-i 2006/861/EK bizottsági határozat tartalmazza.
+## 1. §[^1]
+
+[^1]: Az 1. §-t a 82/2013. (XII. 29.) NFM rendelet 27. § a) pontja hatályon kívül helyezte.

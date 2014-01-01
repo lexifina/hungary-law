@@ -1,3 +1,5 @@
-15. §[^1]
+## végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^1]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+15. §[^10]
+
+[^10]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
