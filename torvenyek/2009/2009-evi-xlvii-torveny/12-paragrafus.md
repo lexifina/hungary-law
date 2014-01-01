@@ -1,8 +1,10 @@
 12. § (1) A személyazonosító adatokat, valamint a 11. § (1) bekezdés c)–g) és k) pontjában meghatározott adatokat az a bíróság közli a bűnügyi nyilvántartó szervvel, amely előtt az eljárás befejeződött.
 
+(1a) A korábbi felfüggesztett vagy részben felfüggesztett szabadságvesztés büntetés próbaideje meghosszabbodása esetén ennek tényét, a meghosszabbodott próbaidő tartamát és leteltének napját, a felfüggesztett vagy részben felfüggesztett szabadságvesztés büntetést kiszabó bíróság megnevezését, határozatának számát és jogerőre emelkedésének napját [11. § (1) bekezdés e) pont] a büntetés-végrehajtási bíró közli, ha arra a közérdekű munka vagy a pénzbüntetés szabadságvesztésre történő átváltozása miatt került sor.
+
 (2) A 11. § (1) bekezdés h) pontjában meghatározott adatokat az alapügyben első fokon eljárt bíróság közli a bűnügyi nyilvántartó szervvel.
 
-(2a) A 11. § (1) bekezdés i) pontjában meghatározott adatokat a büntetés-végrehajtási bíró közli a bűnügyi nyilvántartó szervvel.
+(2a) A 11. § (1) bekezdés i) pontjában, valamint, ha az elítélt beszámítással kitöltötte a feltételes szabadságra bocsátáshoz szükséges időtartamot, feltételes szabadságra bocsátás esetén a 11. § (2) bekezdés b) pontjában meghatározott adatokat a büntetés-végrehajtási bíró közli a bűnügyi nyilvántartó szervvel.
 
 (3) A 11. § (1) bekezdés l) pontjában meghatározott adatokat a különleges eljárásban jogerős határozatot hozó bíróság közli a bűnügyi nyilvántartó szervvel.
 

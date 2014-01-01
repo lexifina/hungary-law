@@ -20,7 +20,7 @@ a) közbiztonság-védelmi feladatai ellátása során a kábítószerre, a pszi
 
 aa) a 11. § (1) bekezdés c), e), f), h), i) pontjában, a 11. § (2) bekezdés e) pontjában meghatározott adatok,
 
-ab) a 16. § (1) bekezdés c), f), g), i) pontjában, a 16. § (2) bekezdés i) pontjában meghatározott adatok, valamint
+ab) a 16. § (1) bekezdés c), f), g), i), k) pontjában, a 16. § (2) bekezdés k) pontjában meghatározott adatok, valamint
 
 ac) a 23. § c), f) és g) pontjában meghatározott adatok;
 
@@ -28,7 +28,7 @@ b) a közúti közlekedésrendészeti feladatai ellátása során a gépjárműv
 
 ba) a 11. § (1) bekezdés c), e), h), i) pontjában, a 11. § (2) bekezdés e) pontjában meghatározott adatok, valamint
 
-bb) a 16. § (1) bekezdés c), f), i) pontjában, a 16. § (2) bekezdés i) pontjában meghatározott adatok;
+bb) a 16. § (1) bekezdés c), f), i) pontjában, a 16. § (2) bekezdés k) pontjában meghatározott adatok;
 
 c) a közrendvédelmi, valamint határrendészeti feladatainak ellátása során a kényszerintézkedések végrehajtása ellenőrzése céljából a 28. § b) és c) pontjában meghatározott adatok;
 
@@ -36,7 +36,7 @@ d) a személy- és vagyonvédelmi, valamint a magánnyomozói tevékenység elle
 
 da) a 11. § (1) bekezdés ca), cb), e), f), h), i) pontjában, a 11. § (2) bekezdés e) pontjában meghatározott adatok,
 
-db) a 16. § (1) bekezdés ca), cb), f), g), i) pontjában, a 16. § (2) bekezdés i) pontjában meghatározott adatok, valamint
+db) a 16. § (1) bekezdés ca), cb), f), g), i) pontjában, a 16. § (2) bekezdés k) pontjában meghatározott adatok, valamint
 
 dc) a 23. § c), f) és g) pontjában meghatározott adatok;
 
@@ -44,7 +44,7 @@ e) a légi közlekedés biztonságának ellenőrzése céljából
 
 ea) a 11. § (1) bekezdés ca), cb), e), f), h), i) pontjában, a 11. § (2) bekezdés e) pontjában meghatározott adatok,
 
-eb) a 16. § (1) bekezdés ca), cb), f), g), i) pontjában, a 16. § (2) bekezdés i) pontjában meghatározott adatok, valamint
+eb) a 16. § (1) bekezdés ca), cb), f), g), i) pontjában, a 16. § (2) bekezdés k) pontjában meghatározott adatok, valamint
 
 ec) a 23. § c), f) és g) pontjában meghatározott adatok;
 
@@ -68,7 +68,7 @@ h) a külföldiek idegenrendészeti ellenőrzése céljából
 
 ha) a 11. § (1) bekezdés c), e), f), h), i) pontjában, a 11. § (2) bekezdés e) pontjában meghatározott adatok,
 
-hb) a 16. § (1) bekezdés c), f), g), i) pontjában, a 16. § (2) bekezdés i) pontjában meghatározott adatok, valamint
+hb) a 16. § (1) bekezdés c), f), g), i) pontjában, a 16. § (2) bekezdés k) pontjában meghatározott adatok, valamint
 
 hc) a 23. § c), f) és g) pontjában meghatározott adatok;
 
@@ -76,7 +76,7 @@ i) a szakszolgálati engedély kiadására irányuló eljárásban szakhatóság
 
 ia) a 11. § (1) bekezdés ca), cb), e), f), h), i) pontjában, a 11. § (2) bekezdés e) pontjában meghatározott adatok,
 
-ib) a 16. § (1) bekezdés ca), cb), f), g), i) pontjában, a 16. § (2) bekezdés i) pontjában meghatározott adatok, valamint
+ib) a 16. § (1) bekezdés ca), cb), f), g), i) pontjában, a 16. § (2) bekezdés k) pontjában meghatározott adatok, valamint
 
 ic) a 23. § c), f) és g) pontjában meghatározott adatok;
 
@@ -88,7 +88,7 @@ k) határellenőrzési feladatai ellátása során a külföldre utazás jogát 
 
 a) a 11. § (1) bekezdés e), f), h) és i) pontjában, a 11. § (2) bekezdés a), d) és e) pontjában meghatározott adatok, továbbá
 
-b) a 16. § (1) bekezdés f) és i) pontjában, a 16. § (2) bekezdés a), d) és i) pontjában meghatározott adatok.
+b) a 16. § (1) bekezdés f) és i) pontjában, a 16. § (2) bekezdés a), d) és k) pontjában meghatározott adatok.
 
 (4) A köztársasági elnök döntésének előkészítése céljából közvetlen hozzáféréssel jogosult átvenni a következő adatokat:
 
@@ -112,7 +112,7 @@ a) a 4. § (2) bekezdés b) pontjában meghatározott adatok,
 
 b) a 11. § (1) bekezdés ca), cb), e), f), h), i) pontjában, a 11. § (2) bekezdés e) pontjában meghatározott adatok,
 
-c) a 16. § (1) bekezdés ca), cb), f), g), i) pontjában, a 16. § (2) bekezdés i) pontjában meghatározott adatok, valamint
+c) a 16. § (1) bekezdés ca), cb), f), g), i) pontjában, a 16. § (2) bekezdés k) pontjában meghatározott adatok, valamint
 
 d) a 23. § c), f) és g) pontjában meghatározott adatok.
 
@@ -122,7 +122,7 @@ a) a 4. § (2) bekezdés b) pontjában meghatározott adatok,
 
 b) a 11. § (1) bekezdés ca), cb), e), f), h), i) pontjában, a 11. § (2) bekezdés e) pontjában meghatározott adatok,
 
-c) a 16. § (1) bekezdés ca), cb), f), g), i) pontjában, a 16. § (2) bekezdés i) pontjában meghatározott adatok.
+c) a 16. § (1) bekezdés ca), cb), f), g), i) pontjában, a 16. § (2) bekezdés k) pontjában meghatározott adatok.
 
 (7a) Az idegenrendészeti hatóság az EGT-állampolgár vagy harmadik országbeli állampolgár családtagja tartózkodási jogát igazoló okmány kiállítására, valamint a tartózkodási jog és az állandó tartózkodási jog megszűnésének megállapítására irányuló eljárásban közvetlen hozzáféréssel jogosult átvenni a következő adatokat:
 
@@ -130,13 +130,13 @@ a) a 4. § (2) bekezdés b) pontjában meghatározott adatok,
 
 b) a 11. § (1) bekezdés ca), cb), e), f), h), i) pontjában, a 11. § (2) bekezdés e) pontjában meghatározott adatok,
 
-c) a 16. § (1) bekezdés ca), cb), f), g), i) pontjában, a 16. § (2) bekezdés i) pontjában meghatározott adatok.
+c) a 16. § (1) bekezdés ca), cb), f), g), i) pontjában, a 16. § (2) bekezdés k) pontjában meghatározott adatok.
 
-(8) A büntetés-végrehajtási intézet a befogadás során közvetlen hozzáféréssel jogosult
+(8) A büntetés-végrehajtási intézet közvetlen hozzáféréssel jogosult
 
-a) az elítélt személyazonosságának ellenőrzése céljából a 4. § (2) bekezdés b) pontjában foglalt adatot átvenni, valamint
+a) az elítélt személyazonosságának ellenőrzése céljából a 4. § (2) bekezdés a) és b) pontjában foglalt adatot átvenni, valamint
 
-b) a 11. § (1) bekezdés b) pontjában vagy a 16. § (1) bekezdés b) pontjában meghatározott adatok alapján azon tény igazolását kérni, hogy az elítélt ujj- és tenyérnyomatát vagy DNS-profilját az elítélés alapjául szolgáló büntetőeljárás során nyilvántartásba vették.
+b) a büntetőügy iktatószámának és a jogerős bírói határozat számának megadásával, a 11. § (1) bekezdés b) és m) pontjában vagy a 16. § (1) bekezdés b) és m) pontjában meghatározott adatokat átvenni annak igazolása céljából, hogy az elítélt ujj- és tenyérnyomatát vagy DNS-profilját az elítélés alapjául szolgáló büntetőeljárás során nyilvántartásba vették.
 
 (9) Az útlevélhatóság a külföldre utazás jogát korlátozó feltételek fennállásának ellenőrzése céljából közvetlen hozzáféréssel jogosult átvenni a 30/C. § b), c), d), e), f), g), h) és i) pontjában meghatározott adatokat.
 
@@ -146,7 +146,7 @@ b) a 11. § (1) bekezdés b) pontjában vagy a 16. § (1) bekezdés b) pontjába
 
 a) a 11. § (1) bekezdés c), e), f), h) és i) pontjában, a 11. § (2) bekezdés e) pontjában meghatározott adatok,
 
-b) a 16. § (1) bekezdés c), f), g) és i) pontjában, a 16. § (2) bekezdés i) pontjában meghatározott adatok,
+b) a 16. § (1) bekezdés c), f), g) és i) pontjában, a 16. § (2) bekezdés k) pontjában meghatározott adatok,
 
 c) a 23. § c), f) és g) pontjában meghatározott adatok,
 

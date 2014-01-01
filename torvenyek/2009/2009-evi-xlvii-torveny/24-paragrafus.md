@@ -4,6 +4,6 @@
 
 (3) A 23. § g) pontjában meghatározott adatokat a nyomozás felfüggesztése esetén a határozatot hozó nyomozó hatóság, ügyészség, az eljárás felfüggesztése esetén a határozatot hozó bíróság közli a bűnügyi nyilvántartó szervvel.
 
-(4) A 23. § i) pontjában meghatározott adatokat a büntetőügyek egyesítéséről vagy elkülönítéséről határozatot hozó nyomozó hatóság, ügyészség vagy bíróság közli a bűnügyi nyilvántartó szervvel.
+(4) A 23. § i) pontjában meghatározott adatokat a büntetőügyek egyesítéséről, elkülönítéséről vagy áttételéről határozatot hozó nyomozó hatóság, ügyészség vagy bíróság közli a bűnügyi nyilvántartó szervvel.
 
 (5) A büntetőeljárás jogerős befejezésének időpontját a bíróság, a nyomozás megszüntetésének időpontját a határozatot hozó nyomozó hatóság, ügyészség közli a bűnügyi nyilvántartó szervvel.

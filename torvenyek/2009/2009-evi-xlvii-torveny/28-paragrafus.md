@@ -8,7 +8,7 @@ c) az elrendelő határozat szerinti bűncselekmény
 
 ca) megnevezését,
 
-cb) Btk. szerinti minősítését,
+cb) 1978. évi IV. törvény vagy a Btk. szerinti minősítését,
 
 cc) elkövetésének helyét, idejét;
 

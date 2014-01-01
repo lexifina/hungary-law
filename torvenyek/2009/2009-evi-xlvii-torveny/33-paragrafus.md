@@ -24,4 +24,4 @@ f) az érintett álnevét, továbbá
 
 g) a mentesítés várható időpontját.
 
-(3) A tagállami ítéletek nyilvántartása tartalmazza az elismerő határozat számát és keltét is, ha az Európai Unió más tagállamának bírósága által meghozott ítélet érvényét a magyar bíróság elismerte.
+(3) A tagállami ítéletek nyilvántartása tartalmazza az elismerő határozatot hozó bíróság megnevezését, a határozat számát és keltét, valamint a határozat jogerőre emelkedésének napját, ha az Európai Unió más tagállamának bírósága által meghozott ítélet érvényét a magyar bíróság elismerte.

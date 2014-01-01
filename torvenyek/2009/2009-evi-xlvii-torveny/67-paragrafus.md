@@ -8,9 +8,9 @@
 
 a) az arra jogosultnak közvetlen hozzáférést biztosít a nyilvántartott adatokhoz,
 
-b) az arra jogosult részére adatigénylés alapján adattovábbítást végez, vagy
+b) az arra jogosult részére adatigénylés alapján adattovábbítást végez,
 
-c) az arra jogosult kérelmére adatot igazol,
+c) az arra jogosult kérelmére adatot igazol, vagy
 
 d) az útlevélhatóságnak a külföldre utazási korlátozás törlése céljából automatikus adattovábbítás alapján adatot továbbít.
 

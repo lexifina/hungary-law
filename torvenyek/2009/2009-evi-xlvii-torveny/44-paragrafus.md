@@ -12,8 +12,6 @@ bc) testi sértés (Btk. 164. §), segítségnyújtás elmulasztása (Btk. 166. 
 
 miatt büntetőeljárás alá vontak.
 
-miatt büntetőeljárás alá vontak.
-
 (2) Nem kell nyilvántartani annak az adatait,
 
 a) akivel szemben magánvádas bűncselekmény miatt előterjesztett magánindítvány alapján indult eljárás, függetlenül attól, hogy az ügyész átvette-e a vád képviseletét,

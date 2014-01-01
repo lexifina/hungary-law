@@ -8,7 +8,7 @@ c) akivel szemben a bíróság bűnösséget megállapító jogerős ítéletet 
 
 d) akivel szemben a bíróság felmentő ítélet mellett kényszergyógykezelés, elkobzás, vagyonelkobzás, elektronikus adat végleges hozzáférhetetlenné tétele intézkedést alkalmazott,
 
-e) akivel szemben a bíróság próbára bocsátást alkalmazott, valamint
+e) akivel szemben a bíróság próbára bocsátást alkalmazott,
 
 f) akivel szemben a bíróság jóvátételi munkát alkalmazott, valamint
 
