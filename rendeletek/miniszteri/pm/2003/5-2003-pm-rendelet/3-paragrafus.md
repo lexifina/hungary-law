@@ -1,3 +1,0 @@
-## 2. §[^2] Az Szja tv. 77/C. §-a szerinti elismert munkavállalói értékpapír-juttatási program szervezője (a továbbiakban: Szervező) a munkavállalói értékpapír-juttatási program elismert programként történő nyilvántartásba vételére irányuló kérelmet (a továbbiakban: kérelem) a melléklet szerinti tartalommal rendszeresített, az állami adóhatóság internetes honlapjáról letölthető nyomtatványon 4 példányban nyújtja be a Nemzeti Adó– és Vámhivatal elnökéhez (a továbbiakban: elnök). A kérelemhez csatolni kell a díj befizetését igazoló bizonylat másolatát.
-
-[^2]: A 2. § a 17/2009. (IX. 29.) PM rendelet 90. § a) pontja, az 54/2011. (XII. 29.) NGM rendelet 4. § (4) bekezdés a) pontja szerint módosított szöveg.

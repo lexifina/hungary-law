@@ -1,1 +1,0 @@
-A személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja tv.) 81. §-a (1) bekezdésének b) pontjában kapott felhatalmazás alapján – figyelemmel az illetékekről szóló 1990. évi XCIII. törvény 67. §-ában foglalt rendelkezésekre is – a következőket rendelem el:
