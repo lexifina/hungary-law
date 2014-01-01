@@ -1,0 +1,1 @@
+## „(3) A (2) bekezdés alkalmazása során az adatlapot „a földhasználat nyilvántartásba vétele megtörtént” szövegű záradékkal, dátummal, és az ügyintéző aláírását követően bélyegzőlenyomattal kell ellátni. Az iratok megküldésével egyidejűleg az irattovábbítás tényéről a bejelentő földhasználót is értesíteni kell.ä”
