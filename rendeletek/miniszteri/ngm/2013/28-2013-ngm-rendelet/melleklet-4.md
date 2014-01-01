@@ -106,7 +106,7 @@
 
 | 4 |  | ISA 250: A jogszabályok és szabályozások figyelembe vétele a pénzügyi kimutatások könyvvizsgálatánál |  |  |  |
 
-| 4 | 01 | A könyvvizsgálati menedzserrel v. partnerrel folytatott megbeszélés, valamint az erre vonatkozó dokumentáció alapján győződjön meg arról, hogy szerzett-e a könyvvizsgáló elegendő és megfelelő könyvvizsgálati bizonyítékot azon jogszabályoknak és szabályozásoknak való megfelelésre vonatkozóan, amelyek közvetlen hatással vannak a pénzügyi kimutatásokban szereplő lényeges összegek és közzétételek meghatározására. (Pl. hatóságokkal való levelezés áttekintése – pl. adóhatóság, egyéb állami szervek, önkormányzatok, PSZÁF, MNB, stb. - peres ügyek áttekintése, interjú a gazdálkodó egység vezetőségével és jogászával, stb.) | 250.13, 14, 29, A8 |  |  |
+| 4 | 01 | A könyvvizsgálati menedzserrel v. partnerrel folytatott megbeszélés, valamint az erre vonatkozó dokumentáció alapján győződjön meg arról, hogy szerzett-e a könyvvizsgáló elegendő és megfelelő könyvvizsgálati bizonyítékot azon jogszabályoknak és szabályozásoknak való megfelelésre vonatkozóan, amelyek közvetlen hatással vannak a pénzügyi kimutatásokban szereplő lényeges összegek és közzétételek meghatározására. (Pl. hatóságokkal való levelezés áttekintése – pl. adóhatóság, egyéb állami szervek, önkormányzatok, MNB, stb. - peres ügyek áttekintése, interjú a gazdálkodó egység vezetőségével és jogászával, stb.) | 250.13, 14, 29, A8 |  |  |
 
 | 4 | 02 | Beszerezte-e a könyvvizsgáló az ügyfél vezetőségének nyilatkozatát arról, hogy a könyvvizsgálóval közölték a jogszabályoknak és szabályozásoknak való meg nem felelés vagy gyanított meg nem felelés minden olyan ismert esetét, amelyek hatásai figyelembe veendőek a pénzügyi kimutatások elkészítésekor. | 250.16 |  |  |
 
@@ -446,7 +446,7 @@
 
 | 13 | 16 | Azonosított-e a könyvvizsgáló a tulajdonosok részére kibocsátott éves jelentéseket, vagy hasonló auditált pénzügyi kimutatásokat és a könyvvizsgálói jelentést tartalmazó dokumentumokat? Amennyiben igen • megállapodott-e a vezetéssel/irányítással megbízottakkal a jelentés megszerzéséről annak dátuma előtt? • elvégezte-e a könyvvizsgáló a standardban foglalt eljárásokat? | 720.6-13 A5 |  |  |
 
-| 13 | 17 | Eleget tett-e a könyvvizsgáló hitelintézetek és pénzügyi vállalkozások esetén a Hpt. 136. §-ban, valamint biztosítók esetén a Bit 151.§ (5)-(8) bekezdésében foglaltaknak? (külön jelentés többek között a PSZÁF-nak) | Hpt. 136 .§, Bit. 151. § |  |  |
+| 13 | 17 | Eleget tett-e a könyvvizsgáló hitelintézetek és pénzügyi vállalkozások esetén a Hpt. 136. §-ban, valamint biztosítók esetén a Bit 151.§ (5)-(8) bekezdésében foglaltaknak? (külön jelentés többek között az MNB-nek) | Hpt. 136 .§, Bit. 151. § |  |  |
 
 | 14 |  | Áttekintés, konzultáció, minőségellenőrzés |  | Megfelel? | Megjegyzés |
 
