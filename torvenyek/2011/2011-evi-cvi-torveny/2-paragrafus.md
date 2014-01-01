@@ -6,6 +6,8 @@
 
 (2b) A közfoglalkoztatási jogviszony tekintetében próbaidő nem köthető ki.
 
+(2c) Az Mt. 45. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy a közfoglalkoztatási szerződésnek tartalmaznia kell a közfoglalkoztatási bér (közfoglalkoztatási garantált bér) összegét és a közfoglalkoztatott munkakörének megnevezését, továbbá a (6) bekezdés szerinti munkavégzés lehetőségét.
+
 (3) A közfoglalkoztatási jogviszonyban a rendes munkaidő időtartama a közfoglalkoztatás támogatásáról szóló jogszabály alapján nyújtott támogatásról szóló hatósági szerződésben előírt munkaidő lehet.
 
 (3a) A közfoglalkoztató köteles a közfoglalkoztatott részére fizetés nélküli szabadságot engedélyezni, ha a közfoglalkoztatott a közfoglalkoztatási jogviszony időtartama alatt, az 1. § (3) bekezdése hatálya alá nem tartozó munkáltatónál, legalább 3 nap, legfeljebb 90 nap időtartamú határozott idejű munkaviszonyt létesít. A fizetés nélküli szabadság engedélyezésének feltétele, hogy a közfoglalkoztatott a határozott idejű munkaviszonyról szóló munkaszerződést a közfoglalkoztatónak a fizetés nélküli szabadság megkezdése előtt legalább 5 munkanappal bemutatja. Ez a rendelkezés nem alkalmazható, ha a közfoglalkoztató a közfoglalkoztatott számára közfoglalkoztatási jogviszony keretében a munkavégzéshez kapcsolódóan a képzés lehetőségét is biztosítja.
@@ -52,7 +54,7 @@ ae) előlegnyújtásra,
 
 af) megszakítás nélküli munkarendre,
 
-ag) rendkívüli munkaidőre,
+ag) baleset, elemi csapás, súlyos kár, az egészséget vagy a környezetet fenyegető közvetlen és súlyos veszély megelőzése, elhárítása érdekében elrendelt rendkívüli munkaidő kivételével a rendkívüli munkaidőre,
 
 ah) csoportos létszámcsökkentésre,
 
@@ -108,13 +110,13 @@ m) az Mt. 117–121. §-a nem alkalmazható,
 
 n) az Mt. alapbér megállapítására vonatkozó 65. alcímének rendelkezései a 138. § (1)–(5) bekezdés kivételével nem alkalmazhatók,
 
-o) az Mt. bérpótlékokra vonatkozó 66. alcímének szabadidőre vonatkozó rendelkezései nem alkalmazhatók,
+o) az Mt. bérpótlékokra vonatkozó rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy a bérpótlék számítási alapja a közfoglalkoztatási bér (közfoglalkoztatási garantált bér),
 
 p) az Mt. 146. § (1) és (2) bekezdése nem alkalmazható,
 
 q) az Mt. 147. §-a nem alkalmazható,
 
-r) az Mt. munkabér védelmére vonatkozó 70. alcímének rendelkezései a 158–164. § kivételével nem alkalmazhatók,
+r) az Mt. munkabér védelmére vonatkozó 70. alcímének rendelkezései – a 157. § (1)–(2) bekezdése és a 158–164. § kivételével – nem alkalmazhatók,
 
 s) az Mt. 169. § (2) bekezdése nem alkalmazható,
 
@@ -126,4 +128,4 @@ v) az Mt. 216. § (4) bekezdése nem alkalmazható, továbbá
 
 x) az Mt. 220. §-a nem alkalmazható.
 
-(6) Közfoglalkoztatási jogviszony esetén az Mt. 53. §-a nem alkalmazható.
+(6) Közfoglalkoztatási jogviszony esetén az Mt. 53. §-a csak baleset, elemi csapás, súlyos kár, az egészséget vagy a környezetet fenyegető közvetlen és súlyos veszély megelőzése, elhárítása érdekében alkalmazható.
