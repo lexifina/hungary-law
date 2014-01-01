@@ -6,11 +6,11 @@
 
 | 2. | Lakitelek Népfőiskola épületeinek rekonstrukciója és fejlesztése | Az 1. § (1) bekezdése szerinti területek | általános építésügyi hatósági eljárások | Kecskeméti Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Bács-Kiskun Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
-| 3. | környezetvédelmi hatósági engedélyezési eljárás | Alsó-Tisza-vidéki Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 3. | környezetvédelmi hatósági engedélyezési eljárás | Alsó-Tisza-vidéki Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
-| 4. | természetvédelmi hatósági engedélyezési eljárás | Alsó-Tisza-vidéki Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 4. | természetvédelmi hatósági engedélyezési eljárás | Alsó-Tisza-vidéki Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
-| 5. | vízjogi engedélyezési eljárás | Alsó-Tisza-vidéki Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 5. | vízjogi engedélyezési eljárás | Alsó-Tisza-vidéki Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
 | 6. | útügyi hatósági engedélyezési eljárás | Bács-Kiskun Megyei Kormányhivatal Közlekedési Felügyelősége | Nemzeti Közlekedési Hatósági Központja |
 
@@ -36,7 +36,7 @@
 
 | 17. | a jogszabályban, nemzeti szabványban teljes körűen nem szabályozott beépített tűzoltó berendezések létesítési és használatbavételi eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | Nincs |
 
-2. melléklet a 133/2013. (V. 9.) Korm. rendelethez
+2. melléklet a 133/2013. (V. 9.) Korm. rendelethez[^2]
 
 A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárásokban közreműködő hatáskörrel rendelkező szakhatóságok
 
@@ -48,7 +48,9 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 | 3. | építésügy, örökségvédelem | Kecskeméti Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Bács-Kiskun Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala, régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
-| 4. | környezetvédelem, természetvédelem, vízügy | Alsó-Tisza-vidéki Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 4. | környezetvédelem, természetvédelem | Alsó-Tisza-vidéki Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+
+| 4a. | vízügy | Alsó-Tisza-vidéki Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
 | 5. | közúti közlekedés | Bács-Kiskun Megyei Kormányhivatal Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
@@ -69,3 +71,5 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 | 13. | hírközlés | Nemzeti Média- és Hírközlési Hatósági Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
 | 14. | műszaki biztonság | Csongrád Megyei Kormányhivatal Szegedi Mérésügyi és Műszaki Biztonsági Hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
+
+[^2]: A 2. melléklet az 527/2013. (XII. 30.) Korm. rendelet 142. § (2) bekezdése szerint módosított szöveg.
