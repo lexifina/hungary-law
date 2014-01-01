@@ -1,4 +1,4 @@
-2. számú melléklet a 284/1997. (XII. 23.) Korm. rendelethez[^22]
+2. számú melléklet a 284/1997. (XII. 23.) Korm. rendelethez[^23]
 
 | A | B |
 
@@ -8,39 +8,65 @@
 
 |  |  | b) másodfokon | 12 000 Ft |
 
-| 2. | Lőfegyvert tartani szándékozó, illetve tartó személyek (II. csoport) lőfegyvertartásra való |  |
+| 2. | Lőfegyvert tartani szándékozó, illetve tartó személyek (II. csoport) lőfegyvertartásra való alkalmassági vizsgálata |  |
 
-|  |  | a) orvosi alkalmassági vizsgálata |  |
+|  | A. | orvosi alkalmassági vizsgálat |  |
 
-|  |  |  | aa) | első fokon | 7 200 Ft |
-
-|  |  |  | ab) | másodfokon | 12 000 Ft |
-
-|  |  | b) pszichológiai alkalmassági vizsgálata |  |
-
-|  |  |  | ba) | első fokon | 7 200 Ft |
-
-|  |  |  | bb) | másodfokon | 12 000 Ft |
-
-| 3. | Gépjármű-vezetői, belvízi hajózási szolgálati és belvízi kedvtelési célú vízijármű-vezetői alkalmassági vizsgálat |  |
-
-|  |  | a) ha 40. életévét még nem töltötte be: |  |
+|  |  | a) ha a 40. életévét még nem töltötte be: |  |
 
 |  |  |  | aa) | első fokon | 7 200 Ft |
 
 |  |  |  | ab) | másodfokon | 10 800 Ft |
 
-|  |  | b) ha 40. életévét betöltötte, de a 60. életévét még nem érte el: |  |
+|  |  | b) ha a 40. életévét betöltötte, de a 60. életévét még nem érte el: |  |
 
 |  |  |  | ba) | első fokon | 4 800 Ft |
 
 |  |  |  | bb) | másodfokon | 7 200 Ft |
 
-|  |  | c) ha a 60. életévét betöltötte: |  |
+|  |  | c) ha a 60. életévét betöltötte, de a 70. életévét még nem érte el: |  |
 
 |  |  |  | ca) | első fokon | 2 500 Ft |
 
 |  |  |  | cb) | másodfokon | 4 800 Ft |
+
+|  |  | d) ha a 70. életévét betöltötte: |  |
+
+|  |  |  | da) | első fokon | 1 700 Ft |
+
+|  |  |  | db) | másodfokon | 3 200 Ft |
+
+|  | B. | pszichológiai alkalmassági vizsgálat |  |
+
+|  |  |  | a) | első fokon | 7 200 Ft |
+
+|  |  |  | b) | másodfokon | 12 000 Ft |
+
+| 3. | Gépjármű-vezetői, belvízi hajózási szolgálati és belvízi kedvtelési célú vízijármű-vezetői alkalmassági vizsgálat |  |
+
+|  |  | a) ha a 40. életévét még nem töltötte be: |  |
+
+|  |  |  | aa) | első fokon | 7 200 Ft |
+
+|  |  |  | ab) | másodfokon | 10 800 Ft |
+
+|  |  | b) ha a 40. életévét betöltötte, de a 60. életévét még nem érte el: |  |
+
+|  |  |  | ba) | első fokon | 4 800 Ft |
+
+|  |  |  | bb) | másodfokon | 7 200 Ft |
+
+|  |  | c) ha a 60. életévét betöltötte, de a 70. életévét még nem érte el: |  |
+
+|  |  |  | ca) | első fokon | 2 500 Ft |
+
+|  |  |  | cb) | másodfokon | 4 800 Ft |
+
+|  |  | d) ha a 70. életévét betöltötte: |  |
+
+|  |  |  | da) | első fokon | 1 700 Ft |
+
+|  |  |  | db) | másodfokon | 3 200 Ft |
 
 | 4. | Alkohol szintjének kimutatása érdekében végzett vér- és vizeletvétel | 4 800 Ft |
 
@@ -112,6 +138,6 @@
 
 |  |  | c) | az a) és a b) pontban nem említett esetben | 3300 Ft/fő/eset |
 
-| 16. | Járványügyi érdekből nem kötelező védőoltással történő immunizálás, kivéve a) a térítésmentes védőoltással történő immunizálást és b) – az a) pont hatálya alá nem tartozó körben is – a pneumococcus és az influenza megbetegedés elleni immunizálást | 2 000 Ft |
+| 16. | Járványügyi érdekből nem kötelező védőoltással történő immunizálás, kivéve a) a térítésmentes védőoltással történő immunizálást és b) – az a) pont hatálya alá nem tartozó körben is – a pneumococcus baktérium, a human papilloma vírus és az influenza megbetegedés elleni immunizálást | 2 000 Ft |
 
-[^22]: A 2. számú melléklet a 35/2013. (II. 14.) Korm. rendelet 2. §-ával megállapított, a 434/2013. (XI. 19.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^23]: A 2. számú melléklet a 35/2013. (II. 14.) Korm. rendelet 2. §-ával megállapított, a 434/2013. (XI. 19.) Korm. rendelet 1. §-a, az 520/2013. (XII. 30.) Korm. rendelet 22. §-a szerint módosított szöveg. [Ez utóbbi módosító rendelet 1. melléklet 2. pontjával elrendelt módosítás, amely szerint a mellékletben foglalt táblázat 15. pont b) alpontjában a „büntető ügyekben kiszabott” szövegrész helyébe a „büntetésként kiszabott” szöveg lép, nem vezethető át.]

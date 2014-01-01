@@ -18,6 +18,8 @@
 
 (10)[^12] Az anyatejet adományozó nők térítésmentesen vehetik igénybe az anyatej adományozás feltételeként, külön jogszabályban meghatározott, járványügyi érdekből kötelezően végzendő szűrővizsgálatokat.
 
+(11)[^13] Ha gépjármű-vezetői alkalmassági vizsgálattal egyidejűleg a lőfegyvert tartani szándékozó, illetve tartó személyek (II. csoport) lőfegyvertartásra való orvosi alkalmassági vizsgálatára is sor kerül, akkor csak a gépjármű-vezetői alkalmassági vizsgálatra vonatkozó – a 2. számú melléklet szerinti – díjfizetési kötelezettséget kell teljesíteni.
+
 [^4]: A 2. § (1) bekezdése a 366/2010. (XII. 30.) Korm. rendelet 17. §-ával megállapított szöveg.
 [^5]: A 2. § új (3) bekezdését a 320/2006. (XII. 23.) Korm. rendelet 1. § (2) bekezdése iktatta be, egyidejűleg az eredeti (3) bekezdésének számozását (4) bekezdésre változtatta. E módosító rendelet 3. § (1) bekezdése alapján a rendelkezést 2007. január 1. napját követően megkezdett vizsgálatok vonatkozásában kell alkalmazni.
 [^6]: A 2. § (4) bekezdését a 172/2007. (VI. 29.) Korm. rendelet 12. § (4) bekezdés d) pontja hatályon kívül helyezte.
@@ -27,3 +29,4 @@
 [^10]: A 2. § (6) – eredeti (3) – bekezdésének számozását a 63/2007. (III. 31.) Korm. rendelet 2. §-a (8) bekezdésre változtatta. A 2. § (8) bekezdése a 35/2013. (II. 14.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^11]: A 2. § (9) bekezdését a 173/2007. (VI. 29.) Korm. rendelet 1. §-a iktatta be, szövege a 364/2007. (XII. 23.) Korm. rendelet 16. § (13) bekezdése szerint módosított szöveg.
 [^12]: A 2. § (10) bekezdését a 235/2008. (IX. 23.) Korm. rendelet 2. §-a iktatta be.
+[^13]: A 2. § (11) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 21. §-a iktatta be.
