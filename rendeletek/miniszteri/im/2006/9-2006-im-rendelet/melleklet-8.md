@@ -58,6 +58,6 @@
 
 | 11. vízrendezés és belvízmentesítés | a) okleveles építőmérnök vagy b) építőmérnök vagy c) főiskolai szakmérnök, csatornázási-szennyvíztisztítási szakon |
 
-8. számú melléklet a 9/2006. (II. 27.) IM rendelethez[^114]
+8. számú melléklet a 9/2006. (II. 27.) IM rendelethez[^117]
 
-[^114]: A 8. számú melléklet a 46/2007. (IX. 29.) IRM rendelet 24. § (1) bekezdésével megállapított, a 32/2008. (XII. 31.) IRM rendelet 18. § (5) bekezdése szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 19. § (3)–(4) bekezdését.
+[^117]: A 8. számú melléklet a 46/2007. (IX. 29.) IRM rendelet 24. § (1) bekezdésével megállapított, a 32/2008. (XII. 31.) IRM rendelet 18. § (5) bekezdése szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 19. § (3)–(4) bekezdését.

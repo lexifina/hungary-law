@@ -34,6 +34,6 @@
 
 | 6. digitális műsorterjesztés | a) villamosmérnök vagy b) okleveles villamosmérnök vagy c) okleveles rendszerinformatikus vagy d) mérnök-informatikus vagy e) okleveles mérnök-informatikus vagy f) okleveles fizikus |
 
-7. számú melléklet a 9/2006. (II. 27.) IM rendelethez[^113]
+7. számú melléklet a 9/2006. (II. 27.) IM rendelethez[^116]
 
-[^113]: A 7. számú melléklet a 32/2008. (XII. 31.) IRM rendelet 18. § (4) bekezdésével megállapított, az 50/2009. (IX. 28.) IRM rendelet 17. § (3) bekezdés j) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 17. § (2) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.
+[^116]: A 7. számú melléklet a 32/2008. (XII. 31.) IRM rendelet 18. § (4) bekezdésével megállapított, az 50/2009. (IX. 28.) IRM rendelet 17. § (3) bekezdés j) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 17. § (2) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.

@@ -26,7 +26,7 @@
 
 | 12. gyermeksebészet | általános orvos és gyermeksebészet szakvizsga |
 
-| 13. igazságügyi genetika | a) általános orvos vagy b) okleveles biológus vagy c) okleveles molekuláris biológus vagy d) okleveles biológia szakos tanár |
+| 13. igazságügyi genetika | a) általános orvos vagy b) okleveles állatorvos vagy c) okleveles biológus vagy d) okleveles biomérnök vagy e) okleveles molekuláris biológus vagy f) okleveles biológia szakos tanár vagy g) okleveles agrármérnök |
 
 | 14. honvédorvostan, katasztrófa-orvostan | általános orvos és honvédorvostan, katasztrófa-orvostan szakvizsga |
 
@@ -72,7 +72,7 @@
 
 | 35. szülészet-nőgyógyászat | általános orvos és szülészet-nőgyógyászat szakvizsga |
 
-| 36. igazságügyi toxikológia | a) egyetemi szakmérnök, analitikai kémia szakon vagy b) analitikai kémiai szakember vagy c) okleveles gyógyszerész és toxikológia szakvizsga |
+| 36. igazságügyi toxikológia | a) egyetemi szakmérnök, műszeres analitikai kémia szakon vagy kromatográfiás szakanalitikus vagy okleveles műszeres analitikai kémiai szakember és aa) okleveles gyógyszerész vagy ab) okleveles vegyész vagy ac) okleveles vegyészmérnök vagy ad) okleveles biológus vagy ae) okleveles biomérnök vagy af) okleveles gyógyszervegyész-mérnök vagy b) okleveles gyógyszerész és toxikológia szakvizsga |
 
 | 37. transzfuziológia | általános orvos és transzfuziológia szakvizsga |
 
@@ -86,6 +86,8 @@
 
 | 42. Klinikai toxikológia | általános orvos és a) aneszteziológiai és intenzív terápia szakvizsga vagy b) belgyógyászat szakvizsga vagy c) oxyológia és sürgősségi orvostani szakvizsga vagy d) igazságügyi orvostan szakvizsga |
 
-3. számú melléklet a 9/2006. (II. 27.) IM rendelethez[^109]
+| 43. háziorvostan | általános orvos és a) általános orvostan szakvizsga vagy b) belgyógyászat szakvizsga vagy c) háziorvostan szakvizsga |
 
-[^109]: A 3. számú melléklet a 32/2008. (XII. 31.) IRM rendelet 18. § (8) bekezdése szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 19. § (3)–(4) bekezdését.
+3. számú melléklet a 9/2006. (II. 27.) IM rendelethez[^112]
+
+[^112]: A 3. számú melléklet a 32/2008. (XII. 31.) IRM rendelet 18. § (8) bekezdése szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 19. § (3)–(4) bekezdését.

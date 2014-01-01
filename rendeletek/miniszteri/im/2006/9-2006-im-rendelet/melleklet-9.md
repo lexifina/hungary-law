@@ -14,7 +14,7 @@
 
 | 6. mozgóképgyártás (filmgyártás, televízióműsor-készítés) | a) okleveles film- és televíziórendező vagy b) okleveles film- és televízióoperatőr vagy c) okleveles multimédia programszerkesztő-rendező vagy d) okleveles mozgóképdramaturg-esztéta vagy e) okleveles filmelmélet és filmtörténet szakos bölcsész vagy tanár f) film- és televízió vágó vagy g) kameraman vagy h) gyártásvezető vagy i) OKJ-ben szereplő mozgóképi animációkészítő vagy mozgóképgyártó szakképesítés és ia) a műszaki felsőoktatásban alapképzésben szerzett egyetemi vagy főiskolai végzettség vagy ib) műszaki képzési területen alap- vagy mesterképzésben szerzett szakképzettség |
 
-| 7. műemlékvédelem | a) okleveles építészmérnök vagy b) egyetemi szakmérnök, műemlékvédelmi szakon vagy c) okleveles magasépítő üzemmérnök |
+| 7. műemléki érték dokumentálása | a) okleveles művészettörténész vagy b) okleveles régész vagy c) okleveles építészmérnök vagy d) okleveles műemlékvédelmi szakmérnök vagy e) okleveles építőművész és műemlékvédelmi szakmérnök |
 
 | 8. műszaki emlékek | a) okleveles új- és legújabb kori történeti muzeológia szakos bölcsész vagy b) okleveles történelem szakos bölcsész vagy c) okleveles történelem szakos bölcsész és tanár vagy d) a műszaki felsőoktatásban alapképzésben szerzett egyetemi végzettség vagy e) műszaki képzési területen mesterképzésben szerzett szakképzettség |
 
@@ -41,5 +41,15 @@
 | 19. fotó- és videótechnika, fotótörténeti emlékek | a) okleveles vizuális kommunikáció tervezőművész vagy b) fotóriporter, képszerkesztő vagy c) okleveles történelem szakos bölcsész vagy d) okleveles történelem szakos bölcsész és tanár vagy e) okleveles új- és legújabb kori történeti muzeológia szakos bölcsész vagy f) a műszaki felsőoktatásban alapképzésben szerzett egyetemi végzettség vagy g) műszaki képzési területen mesterképzésben szerzett szakképzettség |
 
 | 20. kulturális javak piaci ár-, értékbecslése | egyetemi vagy főiskolai szintű alapképzésben szerzett végzettség és a) az OKJ-ben szereplő műtárgy becsüs szakképesítés vagy b) az OKJ-ben szereplő bútor-szőnyeg becsüs szakképesítés vagy c) az OKJ-ben szereplő festmény becsüs szakképesítés vagy d) az OKJ-ben szereplő híradástechnikai becsüs szakképesítés vagy e) az OKJ-ben szereplő ékszerbecsüs szakképesítés |
+
+| 21. műemléki restaurátor | restaurátorművész mesterképzési szakon szerzett szakképzettség |
+
+| 22. műemléki faldiagnosztika | a) okleveles építőmérnök vagy b) okleveles szerkezet-építőmérnök vagy c) okleveles építészmérnök |
+
+| 23. orgona hangszer-helyreállítás | a) okleveles egyházzene-orgonaművész vagy b) okleveles egyházzenetanár vagy c) okleveles orgonaművész, orgonatanár szakképzettség, d) hangszerész – orgonaépítő és -javító vagy hangszerkészítő és -javító (orgona) vagy e) egyetemi vagy főiskolai szintű felsőfokú végzettség és legalább 8 félév orgonajáték-oktatáson való részvétel |
+
+| 24. műemléki falkutatás | a) okleveles művészettörténész vagy b) okleveles régész vagy c) okleveles építészmérnök vagy d) okleveles építőművész és műemlékvédelmi szakmérnök |
+
+| 25. történeti kertek | a) okleveles tájépítészmérnök vagy b) okleveles tájépítész és kertművész |
 
 9. számú melléklet a 9/2006. (II. 27.) IM rendelethez

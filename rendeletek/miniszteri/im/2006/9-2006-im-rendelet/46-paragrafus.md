@@ -32,8 +32,14 @@ g) közúti gépjárművek és egyéb közúti járművek gyártása szakterüle
 
 (4)[^106] A névjegyzékbe e rendelet szerint 2006. január 1. napjától 2009. szeptember 30. napjáig bejegyzett műszaki alkotások, növényfajták és árujelzők védelme szakterület 2009. október 1. napjától iparjogvédelem szakterületnek felel meg.
 
+(5)[^107] A névjegyzékbe e rendelet szerint 2006. január 1. napjától 2007. szeptember 30. napjáig bejegyzett iparművészeti tárgyak szakterület 2014. január 1. napjától képző- és iparművészeti tárgyak, használati cikkek piaci ár- és értékbecslése, valamint kulturális javak piaci ár- és értékbecslése szakterületeknek felel meg.
+
+(6)[^108] A névjegyzékbe e rendelet szerint 2006. január 1. napjától 2013. december 31. napjáig bejegyzett műemlékvédelem szakterület 2014. január 1. napjától műemléki érték dokumentálása szakterületnek felel meg.
+
 [^102]: A 45. §-t a 32/2008. (XII. 31.) IRM rendelet 15. §-a iktatta be. E módosító rendelet 19. § (2) bekezdése alapján a rendelkezést a 2009. január 1-jén folyamatban lévő ügyekben is alkalmazni kell.
 [^103]: A 46. §-t a 32/2008. (XII. 31.) IRM rendelet 15. §-a iktatta be. E módosító rendelet 19. § (2) bekezdése alapján a rendelkezést a 2009. január 1-jén folyamatban lévő ügyekben is alkalmazni kell.
 [^104]: A 32/2008. (XII. 31.) IRM rendelet 19. § (6) bekezdése alapján a 46. § (2) bekezdésekben szereplő változásokat az igazságügyért felelős miniszter 60 napon belül a névjegyzékben átvezeti és gondoskodik az igazságügyi szakértői igazolványok cseréjéről.
 [^105]: A 46. § (3) bekezdését az 50/2009. (IX. 28.) IRM rendelet 15. §-a iktatta be. E módosító rendelet 17. § (2) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni. Alkalmazására lásd még e módosító rendelet 17. § (5) bekezdését.
 [^106]: A 46. § (4) bekezdését az 50/2009. (IX. 28.) IRM rendelet 15. §-a iktatta be. E módosító rendelet 17. § (2) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni. Alkalmazására lásd még e módosító rendelet 17. § (5) bekezdését.
+[^107]: A 46. § (5) bekezdését a 34/2013. (XII. 23.) KIM rendelet 3. § (7) bekezdése iktatta be.
+[^108]: A 46. § (6) bekezdését a 34/2013. (XII. 23.) KIM rendelet 3. § (7) bekezdése iktatta be.

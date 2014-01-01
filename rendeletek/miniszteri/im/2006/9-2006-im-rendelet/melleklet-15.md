@@ -4,7 +4,7 @@
 
 | 1. titokszakértés | jogász és a) közigazgatási szakvizsga vagy b) jogi szakvizsga |
 
-15. számú melléklet a 9/2006. (II. 27.) IM rendelethez[^120]
+15. számú melléklet a 9/2006. (II. 27.) IM rendelethez[^123]
 
 Szakértőjelölti szakmai gyakorlati tapasztalat és a névjegyzékbe való felvételhez szükséges szakmai gyakorlati idő
 
@@ -18,4 +18,4 @@ Szakértőjelölti szakmai gyakorlati tapasztalat és a névjegyzékbe való fel
 
 | építésügyi területen bejegyezhető szakterületek | 250 óra, melyből a) szakértői meghallgatáson töltött idő: legalább 15 óra, b) szemlén töltött idő: legalább 25 óra. | 3 év |
 
-[^120]: A 15. számú mellékletet az 50/2009. (IX. 28.) IRM rendelet 16. § (6) bekezdése iktatta be. E módosító rendelet 17. § (2) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.
+[^123]: A 15. számú mellékletet az 50/2009. (IX. 28.) IRM rendelet 16. § (6) bekezdése iktatta be. E módosító rendelet 17. § (2) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.
