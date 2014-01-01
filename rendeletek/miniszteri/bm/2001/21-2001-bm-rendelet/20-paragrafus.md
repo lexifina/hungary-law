@@ -1,1 +1,0 @@
-20. § A díjat a rendőr-főkapitányságok és az ORFK működésének fedezetére kell felhasználni, év végi maradványának megállapítására, elszámolására, felhasználására a költségvetési szervek tervezésének, gazdálkodásának beszámolási rendszerére vonatkozó jogszabályok az irányadóak.
