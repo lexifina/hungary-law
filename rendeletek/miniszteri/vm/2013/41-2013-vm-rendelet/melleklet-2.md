@@ -30,7 +30,7 @@
 
 | 12. | 21 | 814 | 01 | Családellátó | Mezőgazdaság |
 
-| 13. | 31 | 853 | 01 | Csatornamű-kezelő | Környezetvédelem-vízgazdálkodás |
+| 13. |  |  |  |  |  |
 
 | 14. | 21 | 541 | 01 | Csontozó munkás | Élelmiszeripar |
 
@@ -70,7 +70,7 @@
 
 | 32. | 55 | 581 | 01 | Földügyi térinformatikai szaktechnikus | Mezőgazdaság |
 
-| 33. | 31 | 853 | 02 | Fürdőüzemi gépész | Környezetvédelem-vízgazdálkodás |
+| 33. |  |  |  |  |  |
 
 | 34. | 34 | 621 | 01 | Gazda | Mezőgazdaság |
 
@@ -208,23 +208,23 @@
 
 | 101. | 34 | 215 | 04 | Virágkötő és virágkereskedő | Mezőgazdaság |
 
-| 102. | 34 | 853 | 01 | Víz- és csatornaműkezelő | Környezetvédelem-vízgazdálkodás |
+| 102. |  |  |  |  |  |
 
-| 103. | 51 | 853 | 01 | Víz- és szennyvízkezelő | Környezetvédelem-vízgazdálkodás |
+| 103. |  |  |  |  |  |
 
 | 104. | 55 | 850 | 06 | Vízgazdálkodó szaktechnikus | Környezetvédelem-vízgazdálkodás |
 
 | 105. | 31 | 853 | 03 | Vízkárelhárító | Környezetvédelem-vízgazdálkodás |
 
-| 106. | 31 | 853 | 04 | Vízműkezelő | Környezetvédelem-vízgazdálkodás |
+| 106. |  |  |  |  |  |
 
-| 107. | 54 | 853 | 01 | Vízügyi technikus | Környezetvédelem-vízgazdálkodás |
+| 107. |  |  |  |  |  |
 
 | 108. | 31 | 541 | 12 | Zöldség- és gyümölcsfeldolgozó | Élelmiszeripar |
 
 | 109. | 35 | 622 | 02 | Zöldség- és gyümölcstermesztő | Mezőgazdaság |
 
-2. melléklet a 41/2013. (V. 28.) VM rendelethez
+2. melléklet a 41/2013. (V. 28.) VM rendelethez[^3]
 
 Az 1. sorszámú Agrár áruforgalmazó szaktechnikus megnevezésű szakképesítés-ráépülés
 
@@ -3242,274 +3242,6 @@ A részszakképesítéssel kapcsolatos előírások az állami szakképzési és
 
 7. EGYEBEK
 
-A 13. sorszámú Csatornamű-kezelő megnevezésű részszakképesítés szakmai és vizsgakövetelménye
-
-1. AZ ORSZÁGOS KÉPZÉSI JEGYZÉKBEN SZEREPLŐ ADATOK
-
-1.1. A részszakképesítés azonosító száma: 31 853 01
-
-1.2. Részszakképesítés megnevezése: Csatornamű-kezelő
-
-1.3. Iskolai rendszerű szakképzésben a szakképzési évfolyamok száma: -
-
-1.4. Iskolarendszeren kívüli szakképzésben az óraszám: 560-840
-
-2. EGYÉB ADATOK
-
-2.1. A képzés megkezdésének feltételei:
-
-2.1.1. Iskolai előképzettség: alapfokú iskolai végzettség
-
-2.1.2. Bemeneti kompetenciák: -
-
-2.2. Szakmai előképzettség: -
-
-2.3. Előírt gyakorlat: -
-
-2.4. Egészségügyi alkalmassági követelmények: szükségesek
-
-2.5. Pályaalkalmassági követelmények: -
-
-2.6. Elméleti képzési idő aránya: 20%
-
-2.7. Gyakorlati képzési idő aránya: 80%
-
-2.8. Szintvizsga: -
-
-2.9. Az iskolai rendszerű képzésben az összefüggő szakmai gyakorlat időtartama: -
-
-3. PÁLYATÜKÖR
-
-3.1. A részszakképesítéssel legjellemzőbben betölthető munkakör(ök), foglalkozás(ok)
-
-|  | A | B | C |
-
-| 3.1.1. | FEOR száma | FEOR megnevezése | A részszakképesítéssel betölthető munkakör(ök) |
-
-| 3.1.2. | 7919 | Egyéb, máshova nem sorolható ipari és építőipari foglalkozású | Szennyvíz-mintavevő |
-
-| 3.1.3. | 7919 | Egyéb, máshova nem sorolható ipari és építőipari foglalkozású | Csatornafektető |
-
-| 3.1.4. | 7521 | Vezeték- és csőhálózat-szerelő | Csatornázó |
-
-| 3.1.5. | 7521 | Vezeték- és csőhálózat-szerelő | Duguláselhárító |
-
-| 3.1.6. | 7521 | Vezeték- és csőhálózat-szerelő | Szennyvízhálózat kiépítő |
-
-| 3.1.7. | 7521 | Vezeték- és csőhálózat-szerelő | Víz- és csatornaépítő |
-
-| 3.1.8. | 7521 | Vezeték- és csőhálózat-szerelő | Víz- és szennyvízcsőfektető |
-
-| 3.1.9. | 8322 | Vízgazdálkodási gép kezelője | Csatorna-karbantartógép kezelője |
-
-| 3.1.10. | 8322 | Vízgazdálkodási gép kezelője | Csatornamosógép-kezelő |
-
-| 3.1.11. | 8322 | Vízgazdálkodási gép kezelője | Csatornaműgép-kezelő |
-
-| 3.1.12. | 8322 | Vízgazdálkodási gép kezelője | Csatornamű-javító kiszolgáló |
-
-| 3.1.13. | 8322 | Vízgazdálkodási gép kezelője | Csatornatisztítógép-kezelő |
-
-| 3.1.14. | 8322 | Vízgazdálkodási gép kezelője | Csatornaüzemi gép kezelője |
-
-| 3.1.15. | 8322 | Vízgazdálkodási gép kezelője | Szennyvízkezelő gépész |
-
-| 3.1.16. | 8322 | Vízgazdálkodási gép kezelője | Szennyvíztelep kezelő |
-
-| 3.1.17. | 8322 | Vízgazdálkodási gép kezelője | Szennyvíztelepi centrifugakezelő |
-
-| 3.1.18. | 8322 | Vízgazdálkodási gép kezelője | Szennyvíztelepi gépkezelő |
-
-| 3.1.19. | 8322 | Vízgazdálkodási gép kezelője | Szivattyúgépész |
-
-3.2. A részszakképesítés munkaterületének rövid leírása:
-
-A csatornamű-kezelő a szakismeretének megfelelő, alábbiakban felsorolt tevékenységeket a kezelési, karbantartási és javítási utasításoknak megfelelően, a hatósági, és a vonatkozó jogszabályi előírások betartásával, az adott közüzem belső szervezeti szabályzatának megfelelő irányítással, önállóan végzi:
-
-A részszakképesítéssel rendelkező képes:
-
-- szennyvízelvezetésre és tisztításra szolgáló létesítmények és berendezések, valamint a hozzájuk tartozó kiszolgáló berendezések kezelési, karbantartási feladatait elvégezni,
-
-- a csatornahálózat, és tisztítómű üzemzavar elhárítási feladatait megoldani,
-
-- a gravitációs csatornahálózat tisztítási, javítási feladatait elvégezni,
-
-- kényszerkeringtetésű (nyomás és vákuum alatti) csatornahálózat, üzemeltetési, karbantartási, javítási feladatait megoldani,
-
-- a szennyvíz útjának nyomon követésével, csatornahálózatot ellenőrizni, a tisztítótelep műtárgyainak, berendezéseit üzemeltetni, karbantartani, javítási feladatokat elvégezni,
-
-- nyomás, illetve vákuum alatt üzemelő berendezéseket üzemeltetni, karbantartani, javítani, sűrített levegő előállítására és tárolására szolgáló berendezések és a hozzájuk tartozó csőhálózat üzemeltetési, karbantartási, javítási feladatait elvégezni,
-
-- fertőtlenítő berendezéseket üzemeltetni,
-
-- kémiai és fizikai segédanyagokat kimérni, előkészíteni, adagolni,
-
-- szippantott szennyvíz kiemelését, szállítását és előkezelését megoldani
-
-- kis- és nagyfeszültségű villamos berendezéseket üzemeltetni,
-
-- mechanikus, pneumatikus, robbanómotoros valamint elektromos segédeszközöket és kéziszerszámokat használni,
-
-- hordozható laboratóriumi mérőműszerekkel, gyorstesztekkel fizikai és kémiai üzemviteli ellenőrző méréseket végezni,
-
-- hagyományos és számítógépes műszaki dokumentációkat használni,
-
-- hagyományos, illetve számítógépes üzemirányítási rendszert üzemeltetni,
-
-- hagyományos és számítógépes nyilvántartásokat, üzemnaplókat vezetni,
-
-- ügyfélszolgálati tevékenységeket ellátni,
-
-- mintavételi, mérési feladatok ellátásában közreműködni,
-
-- munkavégzés közben a munkavédelmi, balesetvédelmi, tűzvédelmi és környezetvédelmi szabályokat betartani, és betartatni
-
-3.3. Kapcsolódó szakképesítések
-
-|  | A | B | C |
-
-| 3.3.1. | A kapcsolódó szakképesítés, részszakképesítés, szakképesítés-ráépülés |
-
-| 3.3.2. | azonosító száma | megnevezése | a kapcsolódás módja |
-
-| 3.3.3. | 34 853 01 | Víz- és csatornamű kezelő | szakképesítés |
-
-4. SZAKMAI KÖVETELMÉNYEK
-
-|  | A | B |
-
-| 4.1. | A részszakképesítés szakmai követelménymoduljainak az állam által elismert szakképesítések szakmai követelménymoduljairól szóló kormányrendelet szerinti |
-
-| 4.2. | azonosító száma | megnevezése |
-
-| 4.3. | 10880-12 | Csatornamű-kezelés, -üzemeltetés |
-
-5. VIZSGÁZTATÁSI KÖVETELMÉNYEK
-
-5.1. A komplex szakmai vizsgára bocsátás feltételei:
-
-Az iskolarendszeren kívüli szakképzésben az 5.2. pontban előírt valamennyi modulzáró vizsga eredményes letétele.
-
-5.2. A modulzáró vizsga vizsgatevékenysége és az eredményesség feltétele:
-
-|  | A | B | C |
-
-| 5.2.1. | A részszakképesítés szakmai követelménymoduljainak |
-
-| 5.2.2. | azonosító száma | megnevezése | a modulzáró vizsga vizsgatevékenysége |
-
-| 5.2.3. | 10880-12 | Csatornamű-kezelés, - üzemeltetés | gyakorlati, szóbeli |
-
-Egy szakmai követelménymodulhoz kapcsolódó modulzáró vizsga akkor eredményes, ha a modulhoz előírt feladat végrehajtása legalább 51%-osra értékelhető.
-
-5.3. A komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai:
-
-5.3.1. Gyakorlati vizsgatevékenység
-
-A vizsgafeladat megnevezése:
-
-Gépészeti, üzemeltetési feladatok a munka-, tűz- és környezetvédelmi előírások betartásával
-
-A vizsgafeladat ismertetése:
-
-Csővezetékek szerelési, javítási munkáinak elvégzése műhelykörülmények között.
-
-Valamely csatornamű üzemeltetés során alkalmazott gép vagy szerelvény (szivattyú, tolózár, visszacsapó szelep) ellenőrzése, szétszerelése, hiba-felvételezése, javítása, összeszerelése.
-
-Üzemi körülmények között, valamely gépcsoport vagy berendezés üzemeltetésével kapcsolatos feladat (üzembe helyezés, üzemi paraméterek ellenőrzése, kiiktatás) elvégzése.
-
-Hordozható laboratóriumi mérőműszerekkel, fizikai és kémiai üzemviteli ellenőrző mérések elvégezése.
-
-A vizsgafeladat időtartama: 60 perc
-
-A vizsgafeladat aránya: 80%
-
-5.3.2. Központi írásbeli vizsgatevékenység
-
-A vizsgafeladat megnevezése: -
-
-A vizsgafeladat ismertetése: -
-
-A vizsgafeladat időtartama: -
-
-A vizsgafeladat értékelési súlyaránya: -
-
-5.3.3. Szóbeli vizsgatevékenység
-
-A vizsgafeladat megnevezése:
-
-Szakmai ismeretek, munkaügy, munkabiztonság, környezetvédelem
-
-A vizsgafeladat ismertetése:
-
-A szóbeli központilag összeállított vizsga kérdései a 4. Szakmai követelmények fejezetben megadott valamennyi modulhoz tartozó témakörök mindegyikét tartalmazza.
-
-Szennyvíztisztítási technológiák, csatornamű-üzemeltetés
-
-Munkaügy, munkabiztonság és környezetvédelem
-
-A vizsgafeladat időtartama: 30 perc (felkészülési idő 20 perc, válaszadási idő 10 perc)
-
-A vizsgafeladat aránya: 20%
-
-5.4. A vizsgatevékenységek szervezésére, azok vizsgaidőpontjaira, a vizsgaidőszakokra, a vizsgatevékenységek vizsgatételeire, értékelési útmutatóira és egyéb dokumentumaira, a vizsgán használható segédeszközökre vonatkozó részletes szabályok: -
-
-A részszakképesítéssel kapcsolatos előírások az állami szakképzési és felnőttképzési szerv http://www.munka.hu/ című weblapján érhetők el a Szak- és felnőttképzés Vizsgák menüpontjában
-
-5.5. A szakmai vizsga értékelésének a szakmai vizsgaszabályzattól eltérő szempontjai: -
-
-6. ESZKÖZ- ÉS FELSZERELÉSI JEGYZÉK
-
-|  | A |
-
-| 6.1. | A képzési és vizsgáztatási feladatok teljesítéséhez szükséges eszközök minimumát meghatározó eszköz- és felszerelési jegyzék |
-
-| 6.2. | Szívó-célgép |
-
-| 6.3. | Mosó-célgép |
-
-| 6.4. | Kombi-célgép |
-
-| 6.5. | Különféle tisztítófejek |
-
-| 6.6. | Különböző gyökérvágók |
-
-| 6.7. | Szerelhető szivattyú |
-
-| 6.8. | Szerelhető tolózár |
-
-| 6.9. | Szerelhető csövek és szerelvények |
-
-| 6.10. | Robbanásbiztos kézilámpa |
-
-| 6.11. | Mosó pisztoly |
-
-| 6.12. | Mechanikus és elektromos kéziszerszámok |
-
-| 6.13. | Csőszerelés szerszámai |
-
-| 6.14. | Mérőeszközök |
-
-| 6.15. | Szintjelző műszerek |
-
-| 6.16. | Fertőtlenítő berendezés |
-
-| 6.17. | Anyagmozgató eszközök |
-
-| 6.18. | Hordozható laboratóriumi műszerek, gyorstesztek |
-
-| 6.19. | Munkavédelmi felszerelések, eszközök |
-
-| 6.20. | Vezérlő és regisztráló berendezések |
-
-| 6.21. | Számítógép, adatrögzítő és üzemirányító szoftver |
-
-| 6.22. | Telekommunikációs eszközök |
-
-| 6.23. | Forgalomterelő eszközök |
-
-7. EGYEBEK
-
 A 14. sorszámú Csontozó munkás megnevezésű részszakképesítés szakmai és vizsgakövetelménye
 
 1. AZ ORSZÁGOS KÉPZÉSI JEGYZÉKBEN SZEREPLŐ ADATOK
@@ -5963,3 +5695,325 @@ A vizsgafeladat időtartama: 60 perc
 A vizsgafeladat aránya: 60%
 
 B) A vizsgafeladat megnevezése:
+
+A szikvízgyártás műveleteinek szakszerű, önálló gazdaságos végrehajtása a munka-, tűz-, környezetvédelmi és higiéniai követelmények maradéktalan betartásával
+
+A vizsgafeladat ismertetése:
+
+A palackok, ballonok ellenőrzése után elvégzi a szikvíz gyártását (szaturálás), töltését, előkészíti szállításra a készterméket.
+
+A vizsgafeladat időtartama: 30 perc
+
+A vizsgafeladat aránya: 20%
+
+vagy
+
+A) A vizsgafeladat megnevezése:
+
+Különböző zöldség-, gyümölcskészítmények technológiai műveleteinek szakszerű, önálló gazdaságos végrehajtása a munka-, tűz-, környezetvédelmi és higiéniai követelmények maradéktalan betartásával.
+
+A vizsgafeladat ismertetése:
+
+A zöldség-, gyümölcskészítmények típusához (szárított, vagy aszalt, savanyított, vagy konzerv) megfelelő alapanyagok felhasználásával tartósítóipari terméket gyárt, elvégzi az aktuális technológiai műveleteket.
+
+A vizsgafeladat időtartama: 60 perc
+
+A vizsgafeladat aránya: 60 %
+
+B) A vizsgafeladat megnevezése:
+
+Gyártásközi fizikai, kémiai, érzékszervi vizsgálatok végzése, vagy a késztermék ellenőrzése és minősítése.
+
+A vizsgafeladat ismertetése:
+
+Az aktuális munkafolyamattól függően:
+
+- alapanyag-vizsgálat, vagy
+
+- gyártásközi vizsgálatok, vagy
+
+- a késztermékek meghatározása, vagy
+
+- a késztermékek érzékszervi minősítése.
+
+A vizsgafeladat időtartama: 30 perc
+
+A vizsgafeladat aránya: 20%
+
+5.3.2. Központi írásbeli vizsgatevékenység
+
+A vizsgafeladat megnevezése: -
+
+A vizsgafeladat ismertetése: -
+
+A vizsgafeladat időtartama: -
+
+A vizsgafeladat értékelési súlyaránya: -
+
+5.3.3. Szóbeli vizsgatevékenység
+
+A vizsgafeladat megnevezése:
+
+Vállalkozási és jövedéki ismeretek
+
+A vizsgafeladat ismertetése:
+
+A hatályos jövedéki törvénnyel és vállalkozás indításával és működtetésével, termékértékesítéssel kapcsolatos ismeretek bemutatása.
+
+A vizsgafeladat időtartama: 30 perc (felkészülési idő 20 perc, válaszadási idő 10 perc)
+
+A vizsgafeladat aránya: 20 %
+
+5.4. A vizsgatevékenységek szervezésére, azok vizsgaidőpontjaira, a vizsgaidőszakokra, a vizsgatevékenységek vizsgatételeire, értékelési útmutatóira és egyéb dokumentumaira, a vizsgán használható segédeszközökre vonatkozó részletes szabályok:
+
+A szakképesítéssel kapcsolatos előírások az állami szakképzési és felnőttképzési szerv http://www.munka.hu/ című weblapján érhetők el a Szak- és felnőttképzés Vizsgák menüpontjában.
+
+5.5. A szakmai vizsga értékelésének a szakmai vizsgaszabályzattól eltérő szempontjai: -
+
+6. ESZKÖZ- ÉS FELSZERELÉSI JEGYZÉK
+
+|  | A |
+
+| 6.1 | A képzési és vizsgáztatási feladatok teljesítéséhez szükséges eszközök minimumát meghatározó eszköz- és felszerelési jegyzék |
+
+| 6.2. | Laboratóriumi vizsgálatokhoz szükséges eszközök, berendezések (élelmiszervizsgáló laboratórium): |
+
+| 6.3. | cukortartalomhoz, |
+
+| 6.4. | maradék-cukor meghatározáshoz, |
+
+| 6.5. | alkoholtartalom meghatározáshoz, |
+
+| 6.6. | érzékszervi minősítéshez, |
+
+| 6.7. | savfok, pH meghatározáshoz, |
+
+| 6.8. | tej zsírtartalom meghatározásához, |
+
+| 6.9. | sajt/túró zsírtartalmának meghatározásához, |
+
+| 6.10. | tej sűrűségének meghatározásához, |
+
+| 6.11. | kultúrakészítéshez, |
+
+| 6.12. | hőmérséklet, térfogat és tömeg méréséhez |
+
+| 6.13. | szárazanyag-, nedvesség- és hamutartalom meghatározásához, |
+
+| 6.14. | malátavizsgálathoz, |
+
+| 6.15. | sörfőzővíz, ivóvíz minőségének vizsgálatához, |
+
+| 6.16. | komló, komlókészítmények vizsgálatához, |
+
+| 6.17. | látszólagos, valóságos erjedésfok meghatározásához, |
+
+| 6.18. | a sör zavarosságának ellenőrzéséhez, |
+
+| 6.19. | CO2-tartalom meghatározásához, |
+
+| 6.20. | sörélesztő színtenyészet készítéséhez, élesztőkezeléshez, |
+
+| 6.21. | a kész sör vizsgálatához, |
+
+| 6.22. | tömeg-, térfogat- és sűrűségméréshez, |
+
+| 6.23. | ásványvíz minőségvizsgálatához, |
+
+| 6.24. | oldatkészítéshez, |
+
+| 6.25. | szárazanyag- és hamutartalom meghatározásához, |
+
+| 6.26. | munka-, tűz, környezetvédelmi berendezések, eszközök. |
+
+| 6.27. | Gyümölcspálinka gyártó eszközök, berendezések (pálinkafőző): |
+
+| 6.28. | gyümölcs- és borgazdasági alapanyagokat átvételéhez szükséges eszközök, |
+
+| 6.29. | cefréző berendezések, |
+
+| 6.30. | cefretárolók, |
+
+| 6.31. | főző- és finomító-üstök, |
+
+| 6.32. | mérőműszerek, biztonságtechnikai berendezések, |
+
+| 6.33. | derítők, szűrők, palackozók, |
+
+| 6.34. | a melléktermékek, hulladékok kezelésére, esetleges hasznosítására szolgáló eszközök, berendezések, |
+
+| 6.35. | munka-, tűz, környezetvédelmi berendezések, eszközök. |
+
+| 6.36. | Sajtgyártáshoz szükséges eszközök, berendezések (sajtüzem, sajtműhely, vagy tejüzem): |
+
+| 6.37. | alapanyag-tárolók, szűrők, |
+
+| 6.38. | tisztítócentrifuga, fölözőgép, pasztőr, homogénező berendezés (a sajt típusától függően), |
+
+| 6.39. | sajtkészítő berendezés(ek), |
+
+| 6.40. | alvadék-leválasztók, csurgatóberendezések, |
+
+| 6.41. | sajtprések, |
+
+| 6.42. | sózóberendezés, |
+
+| 6.43. | csomagológépek, |
+
+| 6.44. | mérőműszerek, biztonságtechnikai berendezések, |
+
+| 6.44. | a melléktermékek, hulladékok kezelésére, esetleges hasznosítására szolgáló eszközök, berendezések, |
+
+| 6.45. | Munka-, tűz-, környezetvédelmi berendezések, eszközök. |
+
+| 6.46. | Csomagológépek, |
+
+| 6.47. | Sörgyártáshoz szükséges eszközök, berendezések (sörfőző, sörgyár): |
+
+| 6.48. | Alapanyag-tárolók, tisztítók, előkészítők, |
+
+| 6.49. | áztatók, csíráztatók, |
+
+| 6.50. | szárítók, aszalók, |
+
+| 6.51. | cefrézők, szűrők, erjesztő-tartályok, utóerjesztők, |
+
+| 6.52. | fejtőberendezések, |
+
+| 6.53. | palackozók, |
+
+| 6.54. | mérőműszerek, biztonságtechnikai berendezések, |
+
+| 6.55. | a melléktermékek, hulladékok kezelésére, esetleges hasznosítására szolgáló eszközök, berendezések. |
+
+| 6.56. | munka-, tűz- és környezetvédelmi berendezések, eszközök |
+
+| 6.57. | Tejtermékgyártáshoz szükséges eszközök, berendezések (tejüzem): |
+
+| 6.59. | friss fogyasztású tejtermékek gyártásához szükséges eszközök, berendezések, |
+
+| 6.60. | savanyított, alvasztott tejtermékek gyártásához szükséges eszközök, berendezések, |
+
+| 6.61. | tartós tejtermékek gyártásához szükséges eszközök, berendezések, |
+
+| 6.62. | vaj gyártásához szükséges eszközök, berendezések, |
+
+| 6.63. | sajtgyártáshoz szükséges eszközök, berendezések, |
+
+| 6.64. | túró gyártáshoz szükséges eszközök, berendezések |
+
+| 6.65. | melléktermékek, hulladékok kezelésére, esetleges hasznosítására szolgáló eszközök, berendezések, |
+
+| 6.66. | Ásványvíz gyártáshoz (ásványvíz-üzem): |
+
+| 6.67. | vízkivétel gépei, |
+
+| 6.68. | tisztítóberendezések, |
+
+| 6.69. | tárolótartályok, |
+
+| 6.70. | vízkezelő berendezések, |
+
+| 6.71. | töltő-, zárógépek, -eszközök. |
+
+| 6.72. | Szikvízgyártáshoz (szikvízgyártó egység): |
+
+| 6.73. | vízkezelő berendezés, |
+
+| 6.74. | napi (kiegyenlítő tartály), |
+
+| 6.78. | hűtőberendezések, |
+
+| 6.79. | szikvízgyártó (szaturáló). |
+
+| 6.80. | Szénsavas üdítőital-gyártáshoz (üdítőital-gyártó üzem): |
+
+| 6.81. | üdítőital-készítő gépek. |
+
+| 6.82. | Univerzális eszközök, gépek, berendezések: |
+
+| 6.83. | különféle palackmosógépek, eszközök, |
+
+| 6.84. | mérőműszerek, biztonságtechnikai berendezések, |
+
+| 6.85. | a melléktermékek, hulladékok kezelésére, esetleges hasznosítására szolgáló eszközök, berendezések. |
+
+| 6.86. | munka-, tűz-, környezetvédelmi berendezések, eszközök |
+
+| 6.87. | Zöldség-, gyümölcsfeldolgozás eszközök, berendezések |
+
+| 6.88. | zöldség-, gyümölcskészítmények alapanyagának előkészítéséhez, |
+
+| 6.89. | zöldségkonzervek gyártásához, |
+
+| 6.90. | gyümölcsbefőttek készítéséhez, |
+
+| 6.91. | lekvárok készítéséhez, |
+
+| 6.92. | szörpök készítéséhez, |
+
+| 6.93. | pulpok, velők készítéséhez, |
+
+| 6.94. | aszaló berendezések, |
+
+| 6.95. | szárítók, |
+
+| 6.96. | savanyítás eszközei, berendezései, |
+
+| 6.97. | egyedi és gyűjtőcsomagolás eszközei, berendezései |
+
+| 6.98. | a melléktermékek, hulladékok kezelésére, esetleges hasznosítására szolgáló eszközök, berendezések, |
+
+| 6.99. | munka-, tűz, környezetvédelmi berendezések, eszközök. |
+
+7. EGYEBEK
+
+Az évközi és az összefüggő szakmai gyakorlat, valamint a szakmai gyakorlati vizsga megszervezhető termelő üzemben, illetve tanüzemben, vagy tanműhelyben, ha a tárgyi feltételek rendelkezésre állnak.
+
+A szikvízgyártó munkakör betöltéséhez, foglalkozás gyakorlásához szükségesek a külön jogszabályban meghatározott feltételek.
+
+A 23. sorszámú Élelmiszeripari technikus megnevezésű szakképesítés szakmai és vizsgakövetelménye
+
+1. AZ ORSZÁGOS KÉPZÉSI JEGYZÉKBEN SZEREPLŐ ADATOK
+
+1.1. A szakképesítés azonosító száma: 54 541 02
+
+1.2. Szakképesítés megnevezése: Élelmiszeripari technikus
+
+1. 3. Iskolai rendszerű szakképzésben a szakképzési évfolyamok száma: 2
+
+1.4. Iskolarendszeren kívüli szakképzésben az óraszám: -
+
+2 EGYÉB ADATOK
+
+2.1. A képzés megkezdésének feltételei:
+
+2.1.1. Iskolai előképzettség: érettségi végzettség
+
+2.1.2. Bemeneti kompetenciák: -
+
+2.2. Szakmai előképzettség: -
+
+2.3. Előírt gyakorlat: -
+
+2.4. Egészségügyi alkalmassági követelmények: szükségesek
+
+2.5. Pályaalkalmassági követelmények: -
+
+2.6. Elméleti képzési idő aránya: 60 %
+
+2.7. Gyakorlati képzési idő aránya: 40 %
+
+2.8. Szintvizsga: -
+
+2.9. Az iskolai rendszerű képzésben az összefüggő szakmai gyakorlat időtartama:
+
+5 évfolyamos képzés esetén a 9. évfolyamot követően 70 óra, a 10. évfolyamot követően 105 óra, a 11. évfolyamot követően 140 óra;
+
+2 évfolyamos képzés esetén az első szakképzési évfolyamot követően 160 óra
+
+3. PÁLYATÜKÖR
+
+3.1. A szakképesítéssel legjellemzőbben betölthető munkakör(ök), foglalkozás(ok)
+
+[^3]: A 2. melléklet a 131/2013. (XII. 23.) VM rendelet 4. § (2) bekezdés b) pontja szerint módosított szöveg.
