@@ -26,7 +26,9 @@ A területrendezési hatósági eljárásban közreműködő szakhatóságok
 
 | 2a. | Országos, a kiemelt térségi vagy a megyei tervben nem szereplő, de más rendelkezéseinek megfelelő közlekedési infrastruktúra-hálózat elemei közül a gyorsforgalmi és főutak beillesztése esetén. | A közlekedési hálózat egységességének biztosíthatósága, a közlekedésfejlesztési érdekek érvényesíthetősége. | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala |
 
-| 3. | Minden esetben. | A területrendezési tervekben rögzített környezetvédelemi, természetvédelmi és tájvédelmi szabályozás, továbbá a környezet, természet és táj védelmére vonatkozó jogszabályban rögzített követelmények érvényesülése. Országos jelentőségű meglévő szükségtározók, megvalósuló árvízi tározók és új vízi építmények esetén, valamint az 1 millió m3-t meghaladó, de 10 millió m3-nél kisebb tározási lehetőségek esetén a vízgazdálkodás jogszabályi követelményeinek érvényesülése kérdésében. | környezetvédelmi, természetvédelmi és vízügyi felügyelőség |
+| 3. | Minden esetben. | A területrendezési tervekben rögzített környezetvédelemi, természetvédelmi és tájvédelmi szabályozás, továbbá a környezet, természet és táj védelmére vonatkozó jogszabályban rögzített követelmények érvényesülése. | környezetvédelmi és természetvédelmi felügyelőség |
+
+| 3a. | Minden esetben. | Országos jelentőségű meglévő szükségtározók, megvalósuló árvízi tározók és új vízi építmények esetén, valamint az 1 millió m3-t meghaladó, de 10 millió m3-nél kisebb tározási lehetőségek esetén a vízgazdálkodás jogszabályi követelményeinek érvényesülése kérdésében. | vízügyi hatóság |
 
 | 4. | Minden esetben. | A területrendezési tervekben rögzített régészeti örökséggel és műemléki értékkel kapcsolatos szabályozás, továbbá a régészeti örökség és a műemléki érték védelme jogszabályban rögzített követelményeinek érvényesülése. | illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
@@ -58,4 +60,4 @@ A területrendezési hatósági eljárásban közreműködő szakhatóságok
 
 | 13. | Honvédelmi és katonai célú építmény vagy ingatlan védőterületét vagy működési területét érintő esetben. | A Magyar Honvédség nemzeti és szövetségesi védelmi feladatai biztosíthatók-e. | Honvédelmi Minisztérium Hatósági Hivatal |
 
-[^37]: A 2. számú melléklet a 197/2011. (IX. 29.) Korm. rendelet 5. § (2) bekezdésével megállapított, a 105/2012. (V. 30.) Korm. rendelet 19. §-a, a 296/2012. (X. 17.) Korm. rendelet 41. §-a, a 394/2012. (XII. 20.) Korm. rendelet 30. §-a, a 86/2013. (III. 21.) Korm. rendelet 5. §-a, a 151/2013. (V. 17.) Korm. rendelet 4. §-a, a 355/2013. (X. 8.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^37]: A 2. számú melléklet a 197/2011. (IX. 29.) Korm. rendelet 5. § (2) bekezdésével megállapított, a 105/2012. (V. 30.) Korm. rendelet 19. §-a, a 296/2012. (X. 17.) Korm. rendelet 41. §-a, a 394/2012. (XII. 20.) Korm. rendelet 30. §-a, a 86/2013. (III. 21.) Korm. rendelet 5. §-a, a 151/2013. (V. 17.) Korm. rendelet 4. §-a, a 355/2013. (X. 8.) Korm. rendelet 2. §-a, az 527/2013. (XII. 30.) Korm. rendelet 71. §-a szerint módosított szöveg.
