@@ -1,6 +1,6 @@
-62. § (1)[^22] Jogszabályba ütköző vagy nem szerződésszerű teljesítés esetén a kezelő szerv vezetője a megállapodást felmondja.
+62. § (1)[^20] Jogszabályba ütköző vagy nem szerződésszerű teljesítés esetén a miniszter a megállapodást felmondja.
 
-(2)[^23] Ha a megbízás megszüntetésre kerül – új közreműködő szervezet kiválasztásáig – a 61. § (1) bekezdés a)–d) pontja szerinti feladatokat a kezelő szerv látja el.
+(2)[^21] Ha a megbízás megszüntetésre kerül – új szervnek az 59. § (1) bekezdése alapján történő megbízásáig – a 61. § (1) bekezdés a)–e) pontjában meghatározott feladatokat a miniszter látja el.
 
-[^22]: A 62. § (1) bekezdése a 296/2010. (XII. 22.) Korm. rendelet 7. § (1) és (5) bekezdése szerint módosított szöveg.
-[^23]: A 62. § (2) bekezdése a 296/2010. (XII. 22.) Korm. rendelet 7. § (1) bekezdése szerint módosított szöveg.
+[^20]: A 62. § (1) bekezdése az 561/2013. (XII. 31.) Korm. rendelet 8. § c) pontja szerint módosított szöveg.
+[^21]: A 62. § (2) bekezdése az 561/2013. (XII. 31.) Korm. rendelet 3. §-ával megállapított szöveg.

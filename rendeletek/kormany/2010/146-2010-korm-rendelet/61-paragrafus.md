@@ -1,16 +1,10 @@
-61. § (1)[^16] A közreműködő szervezet – az Áht. 54/A. §-ában meghatározott feladatok kivételével – különösen az alábbi feladatok ellátására bízható meg
+## 60. §[^14]
 
-a)[^17] a pályaművek befogadása, a pályaművek értékeléséhez szükséges adatszolgáltatás a kezelő szerv részére, közreműködés a pályaművek értékelésében,
+61. § (1)[^15]
 
-b)[^18] minta alapján szerződések előkészítése (szerződések kiküldése, fogadása, hiánypótlás), előkészített szerződés átadása a kezelő szervnek,
+(2)[^16] Az 59. § (1) bekezdése szerinti szerződés tartalmazza
 
-c) közreműködés a projektek megvalósítása előrehaladásának nyomon követésében, beszámoló fogadása, formai ellenőrzése, hiánypótlás, szerződésmódosítás előkészítése, a támogatás kifizetésének előkészítése,
-
-d) pályázati adatok folyamatos rögzítése, az adatbázis naprakészségének és megbízhatóságának biztosítása.
-
-(2)[^19] A feladatok átadásáról a kezelő szerv és a közreműködő szervezet megállapodást köt. A megállapodás tartalmazza
-
-a)[^20] a közreműködő szervezet és a kezelő szerv kötelezettségeit,
+a)[^17] az 59. § (1) bekezdése alapján megbízott szerv és a miniszter kötelezettségeit,
 
 b) a pályamű- és a szerződéskezelés során alkalmazandó eljárási szabályokat,
 
@@ -20,13 +14,13 @@ d) az adatkezelés és adatszolgáltatás rendjét, az adatvédelmi előírások
 
 e) a feladat teljesítésének elfogadását követően a közreműködői díj rendelkezésre bocsátásának módját és
 
-f)[^21] a közreműködő szervezet és a kezelő szerv szerződésszegésének következményeit.
+f)[^18] az 59. § (1) bekezdése alapján megbízott szerv és a miniszter szerződésszegésének következményeit.
 
-(3) A közreműködő szervezet díját arra tekintettel kell meghatározni, hogy az Alapból kizárólag a pályázati programok megvalósításához közvetlenül kapcsolódó feladatok költségei téríthetők meg a közreműködő szervezetnek.
+(3)[^19] Az 59. § (1) bekezdése alapján megbízott szerv díját arra tekintettel kell meghatározni, hogy az Alapból kizárólag a pályázati programok megvalósításához közvetlenül kapcsolódó feladatok költségei téríthetők meg.
 
-[^16]: A 61. § (1) bekezdés nyitó szövegrésze a 296/2010. (XII. 22.) Korm. rendelet 7. § (3) bekezdése szerint módosított szöveg.
-[^17]: A 61. § (1) bekezdés a) pontja a 296/2010. (XII. 22.) Korm. rendelet 7. § (1) bekezdése szerint módosított szöveg.
-[^18]: A 61. § (1) bekezdés b) pontja a 296/2010. (XII. 22.) Korm. rendelet 7. § (4) bekezdése szerint módosított szöveg.
-[^19]: A 61. § (2) bekezdés nyitó szövegrésze a 296/2010. (XII. 22.) Korm. rendelet 7. § (1) bekezdése szerint módosított szöveg.
-[^20]: A 61. § (2) bekezdés a) pontja a 296/2010. (XII. 22.) Korm. rendelet 7. § (1) bekezdése szerint módosított szöveg.
-[^21]: A 61. § (2) bekezdés f) pontja a 296/2010. (XII. 22.) Korm. rendelet 7. § (1) bekezdése szerint módosított szöveg.
+[^14]: A 60. §-t az 561/2013. (XII. 31.) Korm. rendelet 9. §-a hatályon kívül helyezte.
+[^15]: A 61. § (1) bekezdését az 561/2013. (XII. 31.) Korm. rendelet 9. §-a hatályon kívül helyezte.
+[^16]: A 61. § (2) bekezdés nyitó szövegrésze az 561/2013. (XII. 31.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
+[^17]: A 61. § (2) bekezdés a) pontja az 561/2013. (XII. 31.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
+[^18]: A 61. § (2) bekezdés f) pontja az 561/2013. (XII. 31.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
+[^19]: A 61. § (3) bekezdése az 561/2013. (XII. 31.) Korm. rendelet 2. §-ával megállapított szöveg.

@@ -1,3 +1,5 @@
+## 66–69. §[^25]
+
 ## VI. Fejezet
 
 ## ZÁRÓ RENDELKEZÉSEK
@@ -7,3 +9,5 @@
 (2) A 42. § (2)–(3) bekezdése és a 43. § (2)–(3) bekezdése 2010. augusztus 1-jén lép hatályba.
 
 (3) A 15. § 2011. január 1-jén lép hatályba.
+
+[^25]: A 66–69. §-t az 561/2013. (XII. 31.) Korm. rendelet 9. §-a hatályon kívül helyezte.

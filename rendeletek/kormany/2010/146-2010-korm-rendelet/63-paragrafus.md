@@ -1,19 +1,7 @@
-## 63. § A Kormány az Alap pályázatainak kezelésében közreműködő szervezetként az alábbi szervezeteket jelöli ki:
+## 63. §[^22] Az 59. § (1) bekezdés a)–e) pontjában meghatározott feladatok ellátására, nem közbeszerzési eljáráson alapuló megbízással kiválasztható szervek a következők:
 
-a) MAG – Magyar Gazdaságfejlesztési Központ Zrt.;
+a) a kutatás-fejlesztésért és technológiai innovációért felelős szerv,
 
-b) Tudományos és Technológiai Alapítvány;
+b) a MAG Magyar Gazdaságfejlesztési Központ Zrt.
 
-c) Országos Tudományos Kutatási Alapprogramok Iroda;
-
-d) DARFÜ Dél-alföldi Regionális Fejlesztési Ügynökség Nonprofit Korlátolt Felelősségű Társaság;
-
-e) DDRFÜ Dél-Dunántúli Regionális Fejlesztési Ügynökség Közhasznú Nonprofit Korlátolt Felelősségű Társaság;
-
-f) ÉARFÜ Észak-Alföldi Regionális Fejlesztési Ügynökség Közhasznú Nonprofit Korlátolt Felelősségű Társaság;
-
-g) NORDA Észak-Magyarországi Regionális Fejlesztési Ügynökség Közhasznú Nonprofit Korlátolt Felelősségű Társaság;
-
-h) Közép-Dunántúli Regionális Fejlesztési Ügynökség Közhasznú Nonprofit Korlátolt Felelősségű Társaság;
-
-i) Nyugat-Dunántúli Regionális Fejlesztési Ügynökség Közhasznú Nonprofit Korlátolt Felelősségű Társaság.
+[^22]: A 63. § az 561/2013. (XII. 31.) Korm. rendelet 4. §-ával megállapított szöveg.

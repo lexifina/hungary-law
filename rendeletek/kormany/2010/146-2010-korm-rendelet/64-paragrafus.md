@@ -4,6 +4,6 @@
 
 (2) Az Atv. 5. § (8) bekezdése szerint visszaigényelhető többletbefizetést – annak visszatérítése érdekében – az Alap számlájáról a (3) bekezdés szerinti megállapodás alapján kell átutalni az adóhatóság részére.
 
-(3)[^24] Az átutalásra vonatkozó eljárás részleteit – beleértve az adóbírságból, a késedelmi és az önellenőrzési pótlékokból származó bevételeknek az állami adóhatóság és az Alap közti megosztására vonatkozó szabályokat is – a kezelő szerv, a Magyar Államkincstárnál és az állami adóhatóság közötti megállapodás rögzíti.
+(3)[^23] Az átutalásra vonatkozó eljárás részleteit – beleértve az adóbírságból, a késedelmi és az önellenőrzési pótlékokból származó bevételeknek az állami adóhatóság és az Alap közti megosztására vonatkozó szabályokat is – a miniszter, a Magyar Államkincstárnál és az állami adóhatóság közötti megállapodás rögzíti.
 
-[^24]: A 64. § (3) bekezdése a 296/2010. (XII. 22.) Korm. rendelet 7. § (1) bekezdése szerint módosított szöveg.
+[^23]: A 64. § (3) bekezdése az 561/2013. (XII. 31.) Korm. rendelet 8. § d) pontja szerint módosított szöveg.
