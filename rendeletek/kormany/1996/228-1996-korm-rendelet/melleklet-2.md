@@ -2,7 +2,7 @@
 
 ## 1. Annak megjelölése, hogy az ügyfél először kéri az őstermelői igazolvány kiállítását, vagy módosítást kér.
 
-## 2.[^45] Az ügyfél azonosító adatai:
+## 2.[^38] Az ügyfél azonosító adatai:
 
 ## a) név,
 
@@ -72,7 +72,7 @@
 
 ## 12. Kizárólag az őstermelői igazolvány kiállítása iránti kérelmen az ügyfél aláírása és a kérelem dátuma.
 
-2. számú melléklet az 228/1996 (XII. 26.) Korm. rendelethez[^46]
+2. számú melléklet az 228/1996 (XII. 26.) Korm. rendelethez[^39]
 
-[^45]: Az 1. számú melléklet 2. pontja az 51/2013. (II. 25.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^46]: A 2. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 100. § (8) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján rendelkezéseit a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^38]: Az 1. számú melléklet 2. pontja az 51/2013. (II. 25.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^39]: A 2. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 100. § (8) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján rendelkezéseit a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

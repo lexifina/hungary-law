@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1996-228-20-
 | 2012-03-15 | 1996-228-20-22.15 | 182/2009. (IX. 10.) Korm. rendelet |
 | 2013-01-01 | 1996-228-20-22.16 | 234/2012. (VIII. 28.) Korm. rendelet |
 | 2013-02-26 | 1996-228-20-22.17 | 234/2012. (VIII. 28.) Korm. rendelet |
+| 2014-01-01 | 1996-228-20-22.18 | 543/2013. (XII. 30.) Korm. rendelet |
