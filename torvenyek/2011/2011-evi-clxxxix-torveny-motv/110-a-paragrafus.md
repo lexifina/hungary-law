@@ -1,0 +1,1 @@
+110/A. § A helyi önkormányzat állammal szemben támasztott – az egyes állami tulajdonban lévő vagyontárgyak önkormányzatok tulajdonba adásáról szóló törvény szerinti – tulajdoni igénye 2014. január 1-jétől bírósági eljárásban érvényesíthető.

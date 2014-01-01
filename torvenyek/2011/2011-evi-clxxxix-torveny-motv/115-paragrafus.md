@@ -1,3 +1,3 @@
 115. § (1) A helyi önkormányzat gazdálkodásának biztonságáért a képviselő-testület, a gazdálkodás szabályszerűségéért a polgármester felelős.
 
-(2) Ha a helyi önkormányzat a költségvetési évre vonatkozóan nem rendelkezik elfogadott költségvetéssel, nem fogadja el a költségvetési évet megelőző évre vonatkozó zárszámadását, államháztartási beszámolási kötelezettségének vagy vagyon-nyilvántartási kötelezettségének nem tesz eleget, a költségvetés elfogadásának, a zárszámadás elfogadásának, az államháztartási beszámoló benyújtásának, valamint vagyon-nyilvántartás elkészítésének határidejét követő hónaptól a mulasztás megszüntetését követő hónapig a nettó finanszírozás keretében finanszírozott támogatásainak folyósítása felfüggesztésre kerül.
+(2)

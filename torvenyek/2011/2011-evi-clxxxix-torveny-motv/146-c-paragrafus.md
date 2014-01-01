@@ -1,5 +1,1 @@
-146/C. § (1) A polgármesteri hivatalt működtető önkormányzat polgármestere dönthet arról, hogy a polgármesteri hivatal jegyzőjét, aljegyzőjét – annak egyetértésével – pályázat kiírása nélkül tovább foglalkoztatja, illetve a megszűnő körjegyzőség – amelynek korábban tagja volt – körjegyzőjét a polgármesteri hivatal jegyzőjeként, aljegyzőjeként foglalkoztatja. Ebben az esetben a jegyző, aljegyző közszolgálati jogviszonya folyamatosnak minősül.
-
-(2) A közös önkormányzati hivatalt alkotó önkormányzatok polgármesterei a 83. § b) pontjának megfelelő alkalmazásával megállapodhatnak abban, hogy a megszűnő körjegyzőség körjegyzőjét, polgármesteri hivatal jegyzőjét, aljegyzőjét – annak egyetértésével – a közös önkormányzati hivatal jegyzőjeként, aljegyzőjeként foglalkoztatják. Ebben az esetben nem szükséges pályázatot kiírni és a jegyző, aljegyző közszolgálati jogviszonya folyamatosnak minősül.
-
-(3) A polgármesteri hivatalt működtető önkormányzat, közös önkormányzati hivatalt alkotó önkormányzatok jegyzője – az e törvényben meghatározottak figyelembevételével – dönthet arról, hogy a megszűnő polgármesteri hivatalban, körjegyzőségben közszolgálati jogviszonyban állókat a polgármesteri hivatalban, a közös önkormányzati hivatalban tovább foglakoztatja. Ebben az esetben a közszolgálati jogviszony folyamatosnak minősül.
+### 146/C. §

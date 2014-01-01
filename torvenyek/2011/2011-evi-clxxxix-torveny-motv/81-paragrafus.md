@@ -24,6 +24,8 @@ h) dönt azokban a hatósági ügyekben, amelyeket a polgármester ad át;
 
 i) dönt a hatáskörébe utalt önkormányzati és önkormányzati hatósági ügyekben;
 
-j) a hatáskörébe tartozó ügyekben szabályozza a kiadmányozás rendjét.
+j) a hatáskörébe tartozó ügyekben szabályozza a kiadmányozás rendjét;
+
+k) rögzíti a talált dolgok nyilvántartásába a talált idegen dologgal kapcsolatos a körözési nyilvántartási rendszerről és a személyek, dolgok felkutatásáról és azonosításáról szóló törvény szerinti adatokat, valamint a talált idegen dolog tulajdonosnak történő átadást követően törli azokat.
 
 (4) A polgármester egyetértése szükséges – az általa meghatározott körben – a polgármesteri hivatal, a közös önkormányzati hivatal köztisztviselője, alkalmazottja kinevezéséhez, bérezéséhez, vezetői kinevezéséhez, felmentéséhez és jutalmazásához.

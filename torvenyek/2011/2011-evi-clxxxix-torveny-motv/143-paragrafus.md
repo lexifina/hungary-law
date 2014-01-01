@@ -20,11 +20,7 @@ e) a helyi önkormányzatok törvényességi felügyeletének részletes szabál
 
 (4) Felhatalmazást kap a helyi önkormányzat képviselő-testülete, hogy rendeletben határozza meg:
 
-a) a helyi önkormányzat szervezeti és működési szabályzatát;
-
-b) a helyi önkormányzat költségvetését;
-
-c) a helyi önkormányzat zárszámadását;
+a)–c)
 
 d) az öngondoskodás és a közösségi feladatok ellátásához való hozzájárulás, továbbá a közösségi együttélés alapvető szabályait, valamint ezek elmulasztásának jogkövetkezményeit;
 
