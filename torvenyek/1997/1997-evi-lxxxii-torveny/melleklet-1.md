@@ -16,7 +16,7 @@ A törvényben hivatkozott jogszabályok rövidítései
 
 7. Tpt.: a tőkepiacról szóló 2001. évi CXX. törvény;
 
-8. Hpt.: az 1996. évi CXII. törvény a hitelintézetekről és a pénzügyi vállalkozásokról;
+8. Hpt.: a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény;
 
 9.
 
