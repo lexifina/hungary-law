@@ -6,13 +6,13 @@
 
 | 2. | Diósgyőri Stadion rekonstrukció beruházás, UEFA IV. kategóriájú labdarúgó stadion és kiszolgáló létesítmények megvalósítása. | Miskolc 21688, 21688/A és 21687 helyrajzi számú földrészletek, illetve az ezekből a földrészletekből telekalakítási eljárások jogerős befejezését követően kialakított földrészletek. | általános építésügyi és építésfelügyeleti hatósági engedélyezési eljárások | Miskolci Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Borsod-Abaúj-Zemplén Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
-| 3. | környezetvédelmi hatósági engedélyezési eljárások | Észak-magyarországi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 3. | környezetvédelmi hatósági engedélyezési eljárások | Észak-magyarországi Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
 | 4. | útügyi hatósági engedélyezési eljárások | Borsod-Abaúj-Zemplén Megyei Kormányhivatal Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
 | 5. | a Magyar Kereskedelmi Engedélyezési Hivatalról és a területi mérésügyi és műszaki biztonsági hatóságokról szóló 320/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdése és 13. § (2) bekezdése szerinti engedélyezési eljárások | Borsod-Abaúj-Zemplén Megyei Kormányhivatal Miskolci Mérésügyi és Műszaki Biztonsági Hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
-| 6. | vízjogi hatósági eljárások | Észak-magyarországi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 6. | vízjogi hatósági eljárások | Észak-magyarországi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
 | 7. | hírközlési hatósági eljárások | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
@@ -28,7 +28,7 @@
 
 | 13. | azon beépített tűzoltó berendezések létesítésével és használatbavételi ügyeivel kapcsolatos eljárások, amelyek tervezése, kivitelezése jogszabályban, nemzeti szabványban nem szabályozott | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-2. melléklet a 461/2013. (XII. 4.) Korm. rendelethez
+2. melléklet a 461/2013. (XII. 4.) Korm. rendelethez[^2]
 
 Az 1. § (1) bekezdése szerinti nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárásokban közreműködő hatáskörrel rendelkező szakhatóságok
 
@@ -40,7 +40,9 @@ Az 1. § (1) bekezdése szerinti nemzetgazdasági szempontból kiemelt jelentős
 
 | 3. | a településrendezési követelményeknek és a helyi építési szabályzatnak való megfelelőség | Miskolc Megyei Jogú Város Önkormányzatának jegyzője | Borsod-Abaúj-Zemplén Megyei Kormányhivatal |
 
-| 4. | környezetvédelem, természetvédelem (a 16. sor kivételével) és vízügy | Észak-Magyarországi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 4. | környezetvédelem, természetvédelem (a 16. sor kivételével) | Észak-magyarországi Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+
+| 4a. | vízügy | Észak-magyarországi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
 | 5. | közlekedés: közút | Borsod-Abaúj-Zemplén Megyei Kormányhivatal Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
@@ -67,3 +69,5 @@ Az 1. § (1) bekezdése szerinti nemzetgazdasági szempontból kiemelt jelentős
 | 16. | helyi védelem (helyi jelentőségű védett természeti terület esetében) | Onga Város Önkormányzatának jegyzője | Borsod-Abaúj-Zemplén Megyei Kormányhivatal |
 
 | 17. | honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
+
+[^2]: A 2. melléklet az 527/2013. (XII. 30.) Korm. rendelet 157. § (2) bekezdése szerint módosított szöveg.
