@@ -1,1 +1,0 @@
-## 11. § Egyesülés esetén a befektetési vállalkozás a Felügyelet engedélyével az alapvető mutató módszert és a sztenderd módszert együttesen is alkalmazhatja, ha a befektetési vállalkozás az engedélyezési kérelemhez megalapozott és részletes ütemtervet mellékel, amely előre meghatározott határidőket tartalmaz a sztenderd módszer alkalmazásának teljes körű bevezetésére.
