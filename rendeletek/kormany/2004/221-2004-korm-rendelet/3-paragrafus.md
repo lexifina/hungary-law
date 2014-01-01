@@ -10,11 +10,11 @@
 
 (3)[^13] A vízgyűjtő-gazdálkodási terv elkészítéséről a vízgazdálkodásért felelős miniszter (a továbbiakban: miniszter) gondoskodik. A miniszter irányításával
 
-a) a vízgyűjtő-gazdálkodási tervezési alegység tervét a hatáskörrel rendelkező hatóságok, valamint egyéb érintett államigazgatási szervek közreműködésével a területi vízgazdálkodási tanács jóváhagyásával az 1. számú mellékletben meghatározott Nemzeti Környezetügyi Intézet területi kirendeltsége,
+a)[^14] a vízgyűjtő-gazdálkodási tervezési alegység tervét a hatáskörrel rendelkező hatóságok, valamint egyéb érintett államigazgatási szervek közreműködésével a területi vízgazdálkodási tanács jóváhagyásával az 1. számú mellékletben meghatározott vízügyi igazgatóság,
 
-b) a részvízgyűjtő szintű tervet a hatáskörrel rendelkező hatóságok, valamint egyéb érintett államigazgatási szervek közreműködésével a területi hatáskörű vízgazdálkodási tanács jóváhagyásával a miniszter által kijelölt Nemzeti Környezetügyi Intézet területi kirendeltsége,
+b)[^15] a részvízgyűjtő szintű tervet a hatáskörrel rendelkező hatóságok, valamint egyéb érintett államigazgatási szervek közreműködésével a területi hatáskörű vízgazdálkodási tanács jóváhagyásával a miniszter által kijelölt vízügyi igazgatóság,
 
-c) az országos szintű tervet az országos hatáskörű vízgazdálkodási tanács jóváhagyásával a Nemzeti Környezetügyi Intézet
+c)[^16] az országos szintű tervet az országos hatáskörű vízgazdálkodási tanács jóváhagyásával az Országos Vízügyi Főigazgatóság
 
 állítja össze.
 
@@ -26,7 +26,7 @@ b) a részvízgyűjtőre vonatkozó vízgyűjtő-gazdálkodási tervet a Részv�
 
 c) a tervezési alegység vízgyűjtő-gazdálkodási tervet a Területi Vízgazdálkodási Tanácsnak küldi meg.
 
-(5)[^14]
+(5)[^17]
 
 (6) A vízgyűjtő-gazdálkodási terv tartalmazza különösen:
 
@@ -54,4 +54,7 @@ g) a felszín alatti vizek kémiai állapotának értékelését, beleértve ann
 
 [^12]: A 3. § a 314/2008. (XII. 22.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^13]: A 3. § (3) bekezdése a 229/2013. (VI. 27.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^14]: A 3. § (5) bekezdését a 300/2011. (XII. 22.) Korm. rendelet 30. § i) pontja hatályon kívül helyezte.
+[^14]: A 3. § (3) bekezdés a) pontja az 527/2013. (XII. 30.) Korm. rendelet 28. § (1) bekezdése szerint módosított szöveg.
+[^15]: A 3. § (3) bekezdés b) pontja az 527/2013. (XII. 30.) Korm. rendelet 28. § (1) bekezdése szerint módosított szöveg.
+[^16]: A 3. § (3) bekezdés c) pontja az 527/2013. (XII. 30.) Korm. rendelet 28. § (1) bekezdése szerint módosított szöveg.
+[^17]: A 3. § (5) bekezdését a 300/2011. (XII. 22.) Korm. rendelet 30. § i) pontja hatályon kívül helyezte.
