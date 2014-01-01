@@ -32,7 +32,7 @@ c) a hitelező nevében a fogyasztóval hitelszerződést köt,
 
 12. hiteltúllépés: fizetési számlához kapcsolódó olyan hitel, amelyet a hitelező a hitelkeret-szerződés szerinti összegét meghaladó összegben, vagy ilyen szerződés hiányában bocsát a fogyasztó rendelkezésére,
 
-13. jelzáloghitel: a fogyasztó részére ingatlanra alapított jelzálogjog – ideértve az önálló zálogjogként alapított jelzálogjogot is – fedezete mellett nyújtott hitel,
+13. jelzáloghitel: a Hpt.-ben ilyenként meghatározott fogalom,
 
 14. kamatperiódus: a hitelszerződésben meghatározott olyan időszak, amely alatt a kamat mértékét a hitelező nem jogosult egyoldalúan megváltoztatni,
 
@@ -42,7 +42,7 @@ a) a hitelt maga a termék értékesítője vagy szolgáltatás nyújtója nyúj
 
 b) harmadik személy nyújtja, és a hitelszerződés előkészítése vagy megkötése során a termék értékesítőjét, illetve a szolgáltatás nyújtóját veszi igénybe közreműködőként, vagy a hitelszerződésben az adott terméket vagy a szolgáltatást, amelynek értékesítéséhez, illetve nyújtásához a hitelszerződés kapcsolódik, kifejezetten nevesítették,
 
-16. pénzügyi lízing: a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvényben (a továbbiakban: Hpt.) ilyenként meghatározott fogalom,
+16. pénzügyi lízing: a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényben (a továbbiakban: Hpt.) ilyenként meghatározott fogalom,
 
 17. referencia-kamatláb: a Hpt.-ben ilyenként meghatározott fogalom,
 
@@ -54,6 +54,10 @@ b) harmadik személy nyújtja, és a hitelszerződés előkészítése vagy megk
 
 21. változó hitelkamat: minden olyan kamat, ami nem minősül rögzített hitelkamatnak.
 
-22. Lakáscélú jelzáloghitel: olyan jelzáloghitel, amelyben a felek által okiratban rögzített hitelcél lakóingatlan vásárlása, építése, bővítése, korszerűsítése vagy felújítása.
+22. lakáscélú jelzáloghitel: olyan jelzáloghitel,
+
+a) amelyben a felek által okiratban rögzített hitelcél lakóingatlan vásárlása, építése, bővítése, korszerűsítése, felújítása vagy
+
+b) amit igazoltan az a) pontban meghatározott célokra nyújtott jelzáloghitel kiváltására használtak fel és ennek összege kizárólag a hitelnyújtók közötti árfolyamkülönbség miatt, valamint az eredeti hiteltartozás lezárásához és az új hitel folyósításához kapcsolódó igazolt díjakkal és költségekkel haladhatja meg az eredeti hiteltartozás kiváltásakor fennálló összeget,
 
 23. Lakáscélú pénzügyi lízing: olyan lízing, amelyben a felek által okiratban rögzített cél lakóingatlan tulajdonjogának harmadik személy eladótól történő, lízingbevevő általi megszerzése.

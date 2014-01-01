@@ -13,3 +13,5 @@
 (7) A Módosító törvény 8. §-ával megállapított 28. § (3) bekezdést a Módosító törvény hatálybalépését megelőzően megkötött szerződések esetében a Módosító törvény hatálybalépéstől számított tizenötödik napot követően kezdeményezett futamidő-hosszabbításra kell alkalmazni.
 
 (8) A Módosító törvény 8. §-ával megállapított 28. § (4) bekezdést a Módosító törvény hatálybalépését megelőzően megkötött szerződések esetében a Módosító törvény hatálybalépéstől számított harmincötödik napot követően kezdeményezett futamidő-hosszabbításra kell alkalmazni.
+
+(9) Az egyes pénzügyi tárgyú törvények módosításáról szóló 2013. évi CCXXXVI. törvény (a továbbiakban: Módtv2.) 93. § b) pontjával megállapított 28. § (3) és (4) bekezdést a Módtv2. hatálybalépését megelőzően megkötött szerződések esetében a 2014. február 1-jét követően kezdeményezett futamidő-hosszabbításra kell alkalmazni.
