@@ -2,7 +2,7 @@
 
 3. § (1)[^4]
 
-(2)[^5] Az integrált ügyintézési és tájékoztatási ponton keresztül legalább a következő hatósági eljárásokban szükséges eljárási cselekmények megtételét kell biztosítani:
+(2)[^5] Az integrált ügyintézési és tájékoztatási pontnak a különböző hatóságok által biztosított elektronikus ügyintézés lehetőségét egységes felületen biztosító szolgáltatásán keresztül legalább a következő hatósági eljárásokban szükséges eljárási cselekmények elvégzésének lehetőségét kell biztosítani:
 
 a) a külön jogszabály szerint engedélyköteles szolgáltatási tevékenység esetében: az engedély kiadására, az engedély módosítására vagy meghosszabbítására irányuló eljárás, az engedélyben vagy az engedély alapján vezetett nyilvántartásban foglalt adatokban bekövetkezett változás bejelentése,
 
@@ -26,12 +26,12 @@ j)[^7] a foglalkoztatással, munkavédelemmel, társadalombiztosítással, nyugd
 
 k) az adott szolgáltatási tevékenység megkezdéséhez vagy folytatásához szükséges, a környezet védelmének általános szabályairól szóló törvényben előírt engedélyezési és bejelentési eljárás, ideértve a környezeti zaj és rezgés elleni védelem egyes szabályairól szóló kormányrendeletben előírt eljárásokat is.
 
-(3)[^8] Az integrált ügyintézési és tájékoztatási pontot a kormányablakok feladataiba foglaltan úgy kell kialakítani és működtetni, hogy azon keresztül a szolgáltatás igénybe vevője közvetlenül megtehesse a (2) bekezdésben megjelölt eljárásokban szükséges eljárási cselekményeket, és megkapja az adott élethelyzet szempontjából ehhez szükséges és erre vonatkozó tájékoztatást.
+(3)[^8] Az integrált ügyintézési és tájékoztatási pontot a Központi Okmányiroda feladataiba foglaltan úgy kell kialakítani és működtetni, hogy azon keresztül a szolgáltatás igénybe vevője közvetlenül megtehesse a (2) bekezdésben megjelölt eljárásokban szükséges eljárási cselekményeket, és megkapja az adott élethelyzet szempontjából ehhez szükséges és erre vonatkozó tájékoztatást.
 
 (4) Az integrált ügyintézési és tájékoztatási pont működtetője az e rendelet szerinti, adattovábbítást is igénylő egyes feladatok ellátásához elektronikus űrlapot tesz közzé.
 
 [^4]: A 3. § (1) bekezdését a 82/2012. (IV. 12.) Korm. rendelet 29. §-a hatályon kívül helyezte.
-[^5]: A 3. § (2) bekezdés nyitó szövegrésze a 82/2012. (IV. 21.) Korm. rendelet 22. § (1) bekezdésével megállapított szöveg.
+[^5]: A 3. § (2) bekezdés nyitó szövegrésze a 82/2012. (IV. 21.) Korm. rendelet 22. § (1) bekezdésével megállapított, az 515/2013. (XII. 30.) Korm. rendelet 27. § (4) bekezdés a) pontja szerint módosított szöveg.
 [^6]: A 3. § (2) bekezdés c) pontja a 82/2012. (IV. 21.) Korm. rendelet 22. § (2) bekezdésével megállapított szöveg.
 [^7]: A 3. § (2) bekezdés j) pontja a 82/2012. (IV. 21.) Korm. rendelet 22. § (3) bekezdésével megállapított szöveg.
-[^8]: A 3. § (3) bekezdése a 82/2012. (IV. 21.) Korm. rendelet 22. § (4) bekezdésével megállapított szöveg.
+[^8]: A 3. § (3) bekezdése a 82/2012. (IV. 21.) Korm. rendelet 22. § (4) bekezdésével megállapított, az 515/2013. (XII. 30.) Korm. rendelet 27. § (4) bekezdés b) pontja szerint módosított szöveg.

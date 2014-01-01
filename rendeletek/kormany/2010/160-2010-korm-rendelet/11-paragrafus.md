@@ -4,4 +4,6 @@
 
 (2) A 9. § b) pontja 2010. szeptember 1-jén lép hatályba.
 
-(3) A központi elektronikus szolgáltató rendszer igénybevevőinek azonosításáról és az azonosítási szolgáltatásról szóló 224/2009. (X. 14.) Korm. rendelet 4. § (2) bekezdés c) pontja 2010. szeptember 1-jén lép hatályba.
+(3)[^29]
+
+[^29]: A 11. § (3) bekezdését az 515/2013. (XII. 30.) Korm. rendelet 27. § (5) bekezdése hatályon kívül helyezte.

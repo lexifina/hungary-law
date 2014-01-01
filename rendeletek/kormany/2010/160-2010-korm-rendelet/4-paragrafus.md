@@ -12,7 +12,7 @@ d) az ügyfelek számára nyújtott gyakorlati segítség formáját, terjedelm�
 
 e) ha e tevékenységük jogszabályi kötelezettségből ered, az ezt szabályozó jogszabályi rendelkezéseket, ha nem, a vállalt támogatási területen működő országos szakmai vagy érdekképviseleti szervezet vagy közigazgatási szerv ajánlását.
 
-(3)[^10] A Működtető a segítségnyújtó szervezetek (2) bekezdés szerinti adatait közzéteszi az integrált ügyintézési és tájékoztatási felületen.
+(3)[^10] A Működtető a segítségnyújtó szervezetek (2) bekezdés szerinti adatait közzéteszi az integrált ügyintézési és tájékoztatási pontnak a különböző hatóságok által biztosított elektronikus ügyintézés lehetőségét egységes felületen biztosító felületén.
 
 (4)[^11] A segítségnyújtó szervezet a közzétett adataiban történő változást a Működtető számára a (2) bekezdésben rögzített formában nyolc napon belül bejelenti.
 
@@ -29,7 +29,7 @@ d) az (1) bekezdés szerinti kijelölését a szervezetet kijelölő miniszter a
 (6)[^13] Ha a Működtetőnek a (2) bekezdés szerinti adatokban történt változás a tudomására jut, tájékozódás céljából megkeresi az érintett segítségnyújtó szervezetet, ha pedig az megszűnt, a felügyeletét ellátó, vagy a működési nyilvántartást vezető szervet.
 
 [^9]: A 4. § (1) bekezdése a 82/2012. (IV. 21.) Korm. rendelet 23. § (1) bekezdésével megállapított szöveg.
-[^10]: A 4. § (3) bekezdése a 82/2012. (IV. 21.) Korm. rendelet 23. § (2) bekezdésével megállapított szöveg.
+[^10]: A 4. § (3) bekezdése az 515/2013. (XII. 30.) Korm. rendelet 27. § (2) bekezdésével megállapított szöveg.
 [^11]: A 4. § (4) bekezdése a 82/2012. (IV. 21.) Korm. rendelet 23. § (2) bekezdésével megállapított szöveg.
 [^12]: A 4. § (5) bekezdése a 82/2012. (IV. 21.) Korm. rendelet 23. § (2) bekezdésével megállapított szöveg.
 [^13]: A 4. § (6) bekezdése a 82/2012. (IV. 21.) Korm. rendelet 23. § (2) bekezdésével megállapított szöveg.
