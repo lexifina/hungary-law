@@ -1,0 +1,1 @@
+92. § A kényszerhasznosító minden év október 31-ig a mezőgazdasági igazgatási szerv részére a bevételeiről, kiadásairól elszámolást készít. Kiadásai között az indokolt és igazolt költségeket, bevételként a kapott támogatás összegét is el kell számolnia. Ha bevételei a kiadásait meghaladják, a különbözet a kényszerhasznosító nyeresége.

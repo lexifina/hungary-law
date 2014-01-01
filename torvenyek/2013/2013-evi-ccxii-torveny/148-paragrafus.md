@@ -2,11 +2,11 @@
 
 148. § (1) A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény (a továbbiakban: Földforgalmi törvény) 68. § (6) bekezdése a következő szöveggel lép hatályba:
 
-„(6) A helyi földbizottság tagjainak megválasztása érdekében – az e törvény végrehajtására kiadott rendeletben meghatározottak szerint – a települési önkormányzat jegyzője összehívja a helyi gazdálkodói közösség közgyűlését.”
+## „(6) A helyi földbizottság tagjainak megválasztása érdekében – az e törvény végrehajtására kiadott rendeletben meghatározottak szerint – a települési önkormányzat jegyzője összehívja a helyi gazdálkodói közösség közgyűlését.”
 
 (2) A Földforgalmi törvény a következő 70/A. §-sal kiegészülve lép hatályba:
 
-„70/A. § E törvény egyes átmeneti szabályairól és más rendelkezéseinek alkalmazásáról külön törvény rendelkezik.”
+## „70/A. § E törvény egyes átmeneti szabályairól és más rendelkezéseinek alkalmazásáról külön törvény rendelkezik.”
 
 (3) A Földforgalmi törvény
 

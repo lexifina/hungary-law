@@ -4,4 +4,4 @@
 
 ## 3. Általános szabályok
 
-8. §
+### 8. §

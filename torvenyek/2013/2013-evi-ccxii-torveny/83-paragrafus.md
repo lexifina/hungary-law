@@ -1,0 +1,1 @@
+83. § A földhasználati szerződés jóváhagyása esetén a mezőgazdasági igazgatási szerv a szerződés két eredeti példányát látja el jóváhagyó záradékkal és azt a szerző fél részére a jóváhagyását tartalmazó határozatával egyidejűleg küldi meg.

@@ -2,4 +2,4 @@
 
 (2) Az (1) bekezdésben meghatározott esetben is a joghatályos közlésnek a haszonbérleti szerződés hirdetményi úton történő közlése minősül, a más törvényen alapuló előhaszonbérleti jog jogosultja e jogát a Földforgalmi törvény 49. § (3) bekezdésében meghatározott határidőn belül gyakorolhatja.
 
-(3) Az (1) és (2) bekezdést kell alkalmazni az 52. § (2) bekezdése szerinti esetben a haszonbérleti ajánlatnak a más törvényen alapuló előhaszonbérleti jog jogosultjával való közlésére és e jogosultnak az ajánlat alapján történő joggyakorlására.
+(3)

@@ -1,0 +1,11 @@
+60. § (1) Ha a haszonbérleti szerződés létrejöttekor a haszonbérlet tárgyát képező föld közös tulajdonban állt és a szerződés fennállása alatt a közös tulajdon megszüntetésére a földrendező és földkiadó bizottságokról szóló törvény szabályai szerint került sor, a haszonbérbeadó, illetve annak jogutódja legkésőbb az adott gazdasági év vége előtt 60 nappal a szerződést 60 napos felmondási idővel a gazdasági év végére felmondhatja, ha a tulajdoni hányadának megfelelő területet a közös tulajdon megszüntetésére irányuló eljárás eredményeként önálló ingatlanként kapta meg, feltéve, hogy
+
+a) a haszonbérlő felé a felmondással egyidejűleg nyilatkozik, hogy a földet a szerződés megszűnésével saját maga kívánja használni, és
+
+b) a 74. § (2) bekezdésében foglaltak alkalmazásával létrejött haszonbérleti szerződést nem írta alá, de annak hatálya az ott meghatározottak szerint kiterjedt rá.
+
+(2) A Földforgalmi törvényben meghatározott mezőgazdasági termelőszervezet mint haszonbérlő és az annak legalább 25%-ban tulajdonos természetes személy tagja mint haszonbérbeadó között létrejött haszonbérleti szerződést a gazdasági év végével a haszonbérbeadó 60 napos felmondási idővel felmondhatja, ha a mezőgazdasági termelőszervezetben fennálló tulajdonosi részesedése a szerződés megkötését követő 1 éven keresztül tartósan 25% alá csökken.
+
+(3) A Földforgalmi törvényben meghatározott mezőgazdasági termelőszervezet mint haszonbérlő és az annak legalább 25%-ban tulajdonos természetes személy tagjának közeli hozzátartozója mint haszonbérbeadó között létrejött haszonbérleti szerződést a gazdasági év végével a haszonbérbeadó 60 napos felmondási idővel felmondhatja, ha a tag és a haszonbérbeadó közötti közeli hozzátartozói viszony megszűnik.
+
+(4) A Földforgalmi törvényben meghatározott mezőgazdasági termelőszervezet mint haszonbérlő és az annak legalább 3 éve foglalkoztatott alkalmazottja mint haszonbérbeadó között létrejött haszonbérleti szerződést a gazdasági év végével a haszonbérbeadó 60 napos felmondási idővel felmondhatja, ha a mezőgazdasági termelőszervezettel fennálló munkaviszonya a munkáltató által gyakorolt rendkívüli felmondás kivételével bármilyen okból – ide nem értve az 58. § (2) bekezdésében foglalt esetet – megszűnik.

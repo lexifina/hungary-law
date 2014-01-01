@@ -1,3 +1,3 @@
 ## 4. A csereszerződésre vonatkozó szabályok
 
-9–10. §
+### 9–10. §

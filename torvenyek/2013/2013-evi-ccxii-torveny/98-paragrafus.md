@@ -1,0 +1,1 @@
+98. § A 95. § (3) bekezdés b) pontjában meghatározott esetben, ha a csatolt okiratok és a rendelkezésre álló adatok alapján feltételezhető, hogy a szerződés – részben vagy egészben – jogszabályba ütközik, az ingatlanügyi hatóság értesíti az ügyészt.
