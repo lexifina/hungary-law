@@ -16,7 +16,9 @@
 
 (6) A szabálysértési elzárás elengedése vagy mérséklése iránti kérelem esetén legfeljebb a köztársasági elnök döntéséig a szabálysértési szabályozásért felelős miniszter is elhalaszthatja, illetve félbeszakíthatja a szabálysértési elzárás végrehajtását.
 
-(7) A méltányossági kérelmet a szabálysértési szabályozásért felelős miniszter a köztársasági elnökhöz akkor is felterjeszti, ha annak tartalmával nem ért egyet.
+(7) A méltányossági kérelmet a szabálysértési szabályozásért felelős miniszter – a (7a) bekezdésben foglalt kivétellel – a köztársasági elnökhöz akkor is felterjeszti, ha annak tartalmával nem ért egyet.
+
+(7a) A határidőn túl benyújtott méltányossági kérelem esetében az előterjesztett igazolási kérelemről, továbbá az elkésett kérelem elutasításáról a szabálysértési szabályozásért felelős miniszter dönt, amely ellen nincs helye jogorvoslatnak.
 
 (8) A méltányossági döntésről az értesítést az elkövetőnek az (5) bekezdésben meghatározott szabálysértési hatóság, illetve bíróság kézbesíti.
 

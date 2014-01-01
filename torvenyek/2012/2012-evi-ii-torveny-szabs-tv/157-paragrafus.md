@@ -16,6 +16,8 @@ f) a nemzetbiztonsági szolgálatok, nemzetbiztonsági ellenőrzés céljából,
 
 g)
 
+(1a) A bíróság, a szabálysértési hatóság a közvetítői eljárással összefüggésben a 82/A. § (5) bekezdésében foglalt feltétel megállapítása céljából közvetlen hozzáféréssel jogosult átvenni a szabálysértési nyilvántartásokból a 155. § (2a) bekezdése szerint kezelt adatokat.
+
 (2) A szabálysértési nyilvántartó szerv
 
 a) a sportrendezvényről történő kitiltás hatálya alatt álló személy családi és utónevére, születési helyére és idejére, valamint anyja születési családi és utónevére,

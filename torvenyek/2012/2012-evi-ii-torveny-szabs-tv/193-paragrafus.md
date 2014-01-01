@@ -4,7 +4,7 @@
 
 a) a település belterületén felügyelet nélkül bocsátja közterületre, vagy kóborolni hagyja,
 
-b) természeti és védett természeti területen, vagy vadászterületen – a vadászkutya kivételével – póráz nélkül elengedi, vagy kóborolni hagyja,
+b) természeti és védett természeti területen, vagy vadászterületen – a vadászkutya és a triflakereső kutya kivételével – póráz nélkül elengedi vagy kóborolni hagyja,
 
 c) szájkosár és póráz nélkül közforgalmú közlekedési eszközön – vakvezető, illetve mozgáskorlátozottakat segítő kutya kivételével – szállítja,
 

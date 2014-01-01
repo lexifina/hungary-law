@@ -26,7 +26,9 @@ g) ugyanazon cselekmény miatt szabálysértési vagy büntetőeljárás, illetv
 
 h) elévülés miatt nincs helye felelősségre vonásnak,
 
-i) elkobzás alkalmazása szükséges az eljárás alá vont személy felelősségre vonása nélkül.
+i) elkobzás alkalmazása szükséges az eljárás alá vont személy felelősségre vonása nélkül,
+
+j) a közvetítő a közvetítői eljárás eredményes lefolytatásáról tájékoztatta a szabálysértési hatóságot vagy a bíróságot.
 
 (2) Az elkobzás alkalmazásáról szóló megszüntető határozatban a szabálysértési hatóság szabálysértési költséget állapíthat meg.
 

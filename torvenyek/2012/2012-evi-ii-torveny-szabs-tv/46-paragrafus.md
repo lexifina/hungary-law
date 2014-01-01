@@ -10,7 +10,9 @@ a) aki az ügyben, mint eljárás alá vont személy vagy az eljárás alá vont
 
 b) aki az ügyben, mint tanú vagy szakértő vesz vagy vett részt;
 
-c) akitől az ügy elfogulatlan megítélése egyéb okból nem várható.
+c) akitől az ügy elfogulatlan megítélése egyéb okból nem várható;
+
+d) aki az ügyben közvetítőként jár vagy járt el.
 
 (2) Nem kizárási ok, ha a szabálysértési hatóság tagja a hivatali hatáskörében tudomására jutott szabálysértés miatt tesz feljelentést.
 

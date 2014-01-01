@@ -24,6 +24,8 @@ g) a nyilvántartottal szemben elrendelt elővezetés, illetve őrizet tényét,
 
 h) a szabálysértési eljárás felfüggesztésének tényét, időpontját, a felfüggesztett szabálysértési eljárás továbbfolytatásának időpontját, továbbá
 
-i) a szabálysértési eljárás megszüntetésének tényét, időpontját.
+i) a szabálysértési eljárás megszüntetésének tényét, időpontját,
+
+j) a közvetítői eljárásra utalás időpontját, a közvetítői eljárást folytató pártfogó felügyelői szolgálat megnevezését, az eredményes közvetítői eljárás tényét és az eredményes közvetítői eljárás befejezésének az időpontját.
 
 (3) A szabálysértési eljárás hatálya alatt állók nyilvántartása számára, jogszabályban meghatározott formában és módon, adatot az a szabálysértési hatóság, valamint bíróság közöl, amely előtt a szabálysértési eljárás folyamatban van.

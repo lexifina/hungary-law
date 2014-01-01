@@ -1,0 +1,5 @@
+82/B. § (1) Ha a szabálysértési elzárással is büntethető szabálysértéssel halmazatban az eljárás alá vont személy más szabálysértést is elkövetett, a közvetítői eljárás akkor alkalmazható, ha az elkövetésben a szabálysértési elzárással is büntethető szabálysértés a meghatározó.
+
+(2) Ha a szabálysértési elzárással nem büntethető szabálysértés elkövetésében az eljárás alá vont fiatalkorú mellett nagykorú személy is részt vett, valamennyi eljárás alá vont személy ügyében alkalmazható a közvetítői eljárás, kivéve a (3) bekezdésben foglalt esetet.
+
+(3) Ha a fiatalkorú eljárás alá vont személy mellett a szabálysértési elzárással nem büntethető szabálysértés elkövetésében olyan nagykorú személy is részt vett, akivel szemben a közvetítői eljárás kizáró oka áll fenn, a közvetítői eljárásban résztvevő, valamint az abból kizárt eljárás alá vont személyek ügyét el kell különíteni. Ha a fiatalkorúval szemben áll fenn a közvetítői eljárásra vonatkozó kizáró feltétel, az ügyek elkülönítésének és a közvetítői eljárás lefolytatásának nincs helye.

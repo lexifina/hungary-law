@@ -1,5 +1,7 @@
 120. § (1) A bíróság tárgyalást tart, ha a 118. § (1) bekezdése szerinti döntésnek nincs helye, vagy ha az ügy elbírálása érdekében egyébként tárgyalás tartását tartja szükségesnek, továbbá, ha az eljárás alá vont személy vagy képviselője a 119. § (1) bekezdése szerint tárgyalás tartását kérte. Ez utóbbi esetben a bíróság a tárgyalásra az erre irányuló kérelem kézhezvételétől számított öt napon belül idézést bocsát ki.
 
+(1a) Ha a bíróság a tárgyalás során megállapítja, hogy a közvetítői eljárásra utalás feltételei fennállnak, az ügyet közvetítői eljárásra utalja.
+
 (2) A bíróság az (1) bekezdés szerinti tárgyalás során a szabálysértési tárgyalásra vonatkozó, e törvényben meghatározott szabályok megfelelő alkalmazásával jár el.
 
 (3) A bíróság, ha a rendelkezésére álló iratok alapján lehetséges, haladéktalanul határoz az áttételről, az eljárás felfüggesztéséről, illetőleg az eljárás megszüntetéséről.

@@ -11,3 +11,5 @@
 (6) A fellebbezésre vonatkozó nyilatkozatokat követően a bíróság a végzését nyomban írásba foglalja és kézbesíti az eljárás alá vont személynek, az eljárás alá vont személy képviselőjének, valamint a rendőrség képviselőjének.
 
 (7) Ha az ügy áttételének nincs helye és a tárgyalás alapján ügydöntő végzés meghozatalára nincs lehetőség, a bíróság a bíróság elé állítás keretében folytatott eljárást befejezi, az eljárást a 120. §-ban foglalt szabályok szerint folytatja le és lehetőség szerint az új tárgyalásra nyomban határnapot tűz.
+
+(8) Ha a közvetítői eljárásra utalás feltételei fennállnak, a bíróság az ügyet közvetítői eljárásra utalja és a továbbiakban az eljárást a 120. §-ban foglalt szabályok szerint folytatja le.

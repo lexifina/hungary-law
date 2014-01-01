@@ -14,7 +14,7 @@ c) a bíróság az előtte folyó szabálysértési eljáráshoz egyesítheti az
 
 (4) Ha a szabálysértési eljárásban több eljárás alá vont személy van, velük szemben rendszerint egy eljárást kell folytatni.
 
-(5) Az egyesítést mellőzni lehet, illetve az ügyeket el lehet különíteni, ha a szabálysértések együttes elbírálása a felelősségre vonást jelentősen késleltetné.
+(5) Az egyesítést mellőzni lehet, illetve az ügyeket el lehet különíteni, ha a szabálysértések együttes elbírálása a felelősségre vonást jelentősen késleltetné, vagy az eljárás alá vont személlyel szemben folyamatban lévő ügyet közvetítői eljárás lefolytatása céljából már felfüggesztették, továbbá az ügyeket el kell különíteni a 82/B. § (3) bekezdésben foglalt esetben.
 
 (6) Az ügyek egyesítését, illetve elkülönítését fel kell jegyezni az érintett ügyek irataiba.
 
