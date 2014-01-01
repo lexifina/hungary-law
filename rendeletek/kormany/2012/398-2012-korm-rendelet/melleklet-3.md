@@ -412,7 +412,7 @@
 
 41. SAJÁT TŐKE
 
-411. Jegyzettőke
+411.[^18] Jegyzett tőke
 
 412. Tőketartalék
 
@@ -692,11 +692,9 @@
 
 876. Külföldi pénzértékre szóló eszközök és kötelezettségek árfolyamveszteségei
 
-8761. Deviza- és valutakészletek árfolyamvesztesége
+8761.[^19] Deviza- és valutakészletek forintra átváltásának árfolyamvesztesége
 
-8762. Külföldi pénzértékre szóló eszközök és kötelezettségek pénzügyileg rendezett árfolyamvesztesége
-
-8763. Devizás eszközök és kötelezettségek mérlegfordulónapi értékelésének összevont árfolyamvesztesége
+8762.[^20] Külföldi pénzértékre szóló eszközök és kötelezettségek pénzügyileg rendezett árfolyamvesztesége
 
 877. Egyéb értékpapír ügyletek veszteségei
 
@@ -814,11 +812,9 @@
 
 976. Külföldi pénzértékre szóló eszközök és kötelezettségek árfolyamnyereségei
 
-9761. Deviza- és valutakészletek árfolyamnyeresége
+9761.[^21] Deviza- és valutakészletek forintra átváltásának árfolyamnyeresége
 
-9762. Külföldi pénzértékre szóló eszközök és kötelezettségek pénzügyileg rendezett árfolyamnyeresége
-
-9763. Devizás eszközök és kötelezettségek mérlegfordulónapi értékelésének összevont árfolyamnyeresége
+9762.[^22] Külföldi pénzértékre szóló eszközök és kötelezettségek pénzügyileg rendezett árfolyamnyeresége
 
 977. Egyéb értékpapír ügyletek nyereségei
 
@@ -843,3 +839,9 @@
 987. Fejlesztési célra kapott támogatások, véglegesen átvett pénzeszközök
 
 989. Egyéb, vagyonnövekedéssel járó rendkívüli bevételek
+
+[^18]: A 3. melléklet 411. pontja az 518/2013. (XII. 30.) Korm. rendelet 75. §-ával megállapított szöveg.
+[^19]: A 3. melléklet 8761. pontja az 518/2013. (XII. 30.) Korm. rendelet 75. §-ával megállapított szöveg.
+[^20]: A 3. melléklet 8762. pontja az 518/2013. (XII. 30.) Korm. rendelet 75. §-ával megállapított szöveg.
+[^21]: A 3. melléklet 9761. pontja az 518/2013. (XII. 30.) Korm. rendelet 75. §-ával megállapított szöveg.
+[^22]: A 3. melléklet 9762. pontja az 518/2013. (XII. 30.) Korm. rendelet 75. §-ával megállapított szöveg.

@@ -1,7 +1,17 @@
 ## 10. Átalakulás
 
-12. § (1) A mikrogazdálkodó átalakulása során az Szt. előírásait kell alkalmazni a (2) és (3) bekezdésben foglaltak figyelembevételével.
+12. §[^13] (1) A mikrogazdálkodó átalakulása, egyesülése, szétválása során az Szt. előírásait kell alkalmazni a (2)–(5) bekezdésben foglaltak figyelembevételével.
 
-(2) Az átalakulás során a jogutód (több jogutód esetén a jogelőd) gazdasági társaság beszámolójára vonatkozó szabályok szerint kell az átalakulási vagyonmérlegeket összeállítani.
+(2) A mikrogazdálkodó átalakulása, szétválása során a jogelőd gazdasági társaság beszámolójára vonatkozó szabályok szerint kell az átalakulási vagyonmérlegeket összeállítani.
 
-(3) Ha a jogutód az átalakulást követően éves beszámoló, egyszerűsített éves beszámoló helyett mikrogazdálkodói beszámolót készít, az áttérés miatt szükséges korrekciókat a nyitást követően a jogutódnál kell végrehajtani.
+(3) Olyan beolvadásnál, amelyben mikrogazdálkodó is részt vesz, a beolvasztó (jogelőd) gazdasági társaság beszámolójára vonatkozó szabályok szerint kell az átalakulási vagyonmérlegeket összeállítani.
+
+(4) Olyan összeolvadásnál, amelyben mikrogazdálkodó is részt vesz, és ha
+
+a) az összeolvadók (jogelődök) mindegyike mikrogazdálkodó, akkor a jogelőd gazdasági társaságok beszámolójára vonatkozó szabályok szerint kell az átalakulási vagyonmérlegeket összeállítani,
+
+b) az összeolvadók (jogelődök) legalább egyike nem mikrogazdálkodó, akkor az éves beszámolóra vonatkozó szabályok szerint kell az átalakulási vagyonmérlegeket összeállítani.
+
+(5) Ha a jogutód az átalakulást, egyesülést, szétválást követően éves beszámoló, egyszerűsített éves beszámoló helyett mikrogazdálkodói beszámolót készít, az áttérés miatt szükséges korrekciókat a nyitást követően a jogutódnál kell végrehajtani.
+
+[^13]: A 12. § az 518/2013. (XII. 30.) Korm. rendelet 72. §-ával megállapított szöveg.

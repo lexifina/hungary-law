@@ -1,3 +1,5 @@
-## 17. § Ez a rendelet az Európai Parlament és a Tanács a meghatározott jogi formájú társaságok éves beszámolójáról szóló 78/660/EGK irányelvnek a mikrogazdálkodó egységek tekintetében történő módosításáról szóló 2012/6/EU irányelvének való megfelelést szolgálja.
+## 18. §[^17] A számviteli törvényhez kapcsolódó, sajátos számviteli szabályokat tartalmazó kormányrendeletek módosításáról szóló 518/2013. (XII. 30.) Korm. rendelet 67. §-ával megállapított 4. § (3) bekezdés d) pontját, (4) bekezdését, 68. §-ával megállapított 5. § (3), (12) bekezdését, 69. §-ával megállapított 6. § (3a), (7a) bekezdését, 70. §-ával megállapított 10. § (3) bekezdését, 71. §-ával megállapított 11. § (4) és (5) bekezdését, 72. §-ával megállapított 12. §-át, 73. §-ával megállapított 14. § (1) bekezdés d) pontját, (3) bekezdését, 76. §-ával megállapított 5. § (1) bekezdését, 8. § (7) bekezdését, 11. § (3) bekezdését, 75. §-ával megállapított 3. mellékletét először a 2014. évben induló üzleti évről készített mikrogazdálkodói beszámolóra kell alkalmazni, de azok már a 2013. évben induló üzleti évről készített mikrogazdálkodói beszámolóra is alkalmazhatók.
 
 1. melléklet a 398/2012. (XII. 20.) Korm. rendelethez
+
+[^17]: A 18. §-t az 518/2013. (XII. 30.) Korm. rendelet 74. §-a iktatta be.
