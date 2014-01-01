@@ -1,7 +1,1 @@
-69. § Az anyakönyvi eljárásról szóló 2010. évi I. törvény 87. §-a a következő szöveggel lép hatályba:
-
-„87. § (1) A halálesetet az anyakönyvbe bejegyző anyakönyvvezető vagy a hazai anyakönyvezést végző hatóság értesíti az elhalt személy elektronikus anyakönyvbe be nem jegyzett születését, valamint – ha az elhalt személy házassága vagy bejegyzett élettársi kapcsolata fennállt a haláleset időpontjában – a házasságát vagy bejegyzett élettársi kapcsolatát nyilvántartó anyakönyvvezetőt vagy a hazai anyakönyvezést végző hatóságot, feltéve, hogy a születés, a házasságkötés vagy a bejegyzett élettársi kapcsolat létesítése Magyarországon történt, vagy annak hazai anyakönyvezése megtörtént.
-
-(2) A bejegyzett élettársi kapcsolatot nyilvántartó anyakönyvvezető vagy a hazai anyakönyvezést végző hatóság értesíti a bejegyzett élettárs elektronikus anyakönyvbe be nem jegyzett korábbi házasságkötését nyilvántartó anyakönyvvezetőt vagy a hazai anyakönyvezést végző hatóságot, ha a bejegyzett élettárs a bejegyzett élettársi kapcsolat létesítését megelőzően házassági névként volt férje nevét vagy családi nevét viselte a házasságra utaló toldással, és házassági nevét nem módosította másik házassági névviselési formára, ezért a születési családi nevének viselésére jogosult.
-
-(3) A fővárosi és megyei kormányhivatal a 4. § (5) bekezdése szerinti anyakönyvi bejegyzés teljesítését követően az anyakönyvi alapiratot haladéktalanul megküldi a nyilvántartó anyakönyvvezetőnek.”
+69. §

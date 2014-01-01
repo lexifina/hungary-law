@@ -18,4 +18,4 @@ h) 95. § (3) bekezdése,
 
 i) 97. §-a,
 
-j) 98–100. §-a és a 98. §-t megelőző alcíme.
+j)

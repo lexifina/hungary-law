@@ -1,3 +1,3 @@
 ## 6. A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény módosítása
 
-87–91. §
+87–88. §
