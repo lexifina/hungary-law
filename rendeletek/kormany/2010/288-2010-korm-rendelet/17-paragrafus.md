@@ -1,7 +1,10 @@
+## 16/A. §[^47] A fővárosi és megyei kormányhivatal törzshivatala ellenőrzi a szakigazgatási szervek, a járási (fővárosi kerületi) hivatalok és a járási (fővárosi kerületi) szakigazgatási szervek tevékenységében a Ket. hatályosulását.
+
 ## 9. Véleményezési jogkör
 
-17. §[^45] (1) A kormánymegbízott a Khtv. 18. §-ában meghatározott véleményét megküldi a közigazgatás-szervezésért felelős miniszternek és az államháztartásért felelős miniszternek, valamint az érintett szerv tevékenységének szakmai irányítását ellátó, a Kormánynak alárendelt szerv vezetőjének és az érintett területi államigazgatási szerv vezetőjének.
+17. §[^48] (1) A kormánymegbízott a Khtv. 18. §-ában meghatározott véleményét megküldi a közigazgatás-szervezésért felelős miniszternek és az államháztartásért felelős miniszternek, valamint az érintett szerv tevékenységének szakmai irányítását ellátó, a Kormánynak alárendelt szerv vezetőjének és az érintett területi államigazgatási szerv vezetőjének.
 
 (2) A vélemény kikérésének elmulasztása esetén a fővárosi és megyei kormányhivatal jelzéssel él a közigazgatás-szervezésért felelős miniszter felé, aki a kérdésben egyeztetési eljárást kezdeményezhet.
 
-[^45]: A 17. § a 39. § (2) bekezdése alapján 2011. január 1-jén lépett hatályba.
+[^47]: A 16/A. §-t az 516/2013. (XII. 30.) Korm. rendelet 6. §-a iktatta be.
+[^48]: A 17. § a 39. § (2) bekezdése alapján 2011. január 1-jén lépett hatályba.
