@@ -435,15 +435,3 @@
 ## Az egyéni cég jogutód nélküli megszűnése esetében a hitelezők kielégítése után fennmaradó vagyon az alapítót illeti meg.
 
 ## 11. Egyéb rendelkezések
-
-## A jelen alapító okiratban nem szabályozott kérdésekben az egyéni vállalkozóról és az egyéni cégről szóló törvény, az ott nem szabályozott vagyoni és személyi viszonyokra a Polgári Törvénykönyvről szóló 1959. évi IV. törvény rendelkezéseit kell alkalmazni.
-
-## Kelt: .........................................................................
-
-## Az alapító aláírása:
-
-## ...................................................................................
-
-## Név:
-
-## Ellenjegyezte/közokiratba foglalta:

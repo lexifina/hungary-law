@@ -52,6 +52,8 @@ bc) amennyiben a részvényes szavazati jogának mértéke az 50 százalékot me
 
 bd) egyszemélyes részvénytársaság esetében a részvényes nevét, adóazonosító számát, természetes személy esetén születési idejét, lakóhelyét, anyja születési nevét, jogi személyiséggel nem rendelkező gazdasági társaság vagy jogi személy esetén székhelyét, cégjegyzékszámát vagy nyilvántartási számát,
 
+be) azt a tényt, ha a részvénytársaság vezető tisztségviselőjének megbízatása a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgyú jogszabályok módosításáról szóló 2013. évi CXXXV. törvény 15.§ (4) bekezdés a) pontja alapján felfüggesztésre került; továbbá a kijelölt felügyeleti biztos nevét, székhelyét és lakóhelyét,
+
 c) Nyilvánosan működő részvénytársaság esetében
 
 ca) az ügyvezetés típusát (igazgatóság vagy igazgatótanács),
@@ -59,6 +61,8 @@ ca) az ügyvezetés típusát (igazgatóság vagy igazgatótanács),
 cb) a részvénytársasági hirdetmények közzétételének módját, helyét;
 
 cc) az állami adóhatóság által – szabályozott ingatlanbefektetési elővállalkozásként vagy társaságként – való nyilvántartásba vétel és a nyilvántartásból való törlés időpontját.
+
+(4a) A cégbíróság a felügyeleti biztost kijelölő hatóság elektronikus értesítése alapján hivatalból jegyzi be és teszi közzé a (4) bekezdés be) pontjában meghatározott adatokat.
 
 (5) Egyesülés esetében
 
