@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-12-20-0
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2005-07-02 | 2005-12-20-0N.1 | 12/2005. (VI. 17.) KvVM rendelet |
+| 2014-01-01 | 2005-12-20-0N.2 | 132/2013. (XII. 23.) VM rendelet |
