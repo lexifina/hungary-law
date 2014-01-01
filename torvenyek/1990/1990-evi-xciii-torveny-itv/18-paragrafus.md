@@ -4,7 +4,7 @@
 
 ## Az illeték tárgya
 
-18. § (1) Ingatlannak, valamint a (2) bekezdésben meghatározott ingónak és vagyoni értékű jognak visszteher mellett, továbbá öröklési vagy ajándékozási illeték alá nem eső, más módon történő megszerzése visszterhes vagyonátruházási illeték alá esik. Ezt a szabályt kell alkalmazni az öröklési szerződés alapján történő vagyonszerzésre is azzal, hogy az illetékkötelezettség keletkezésére a 3. § (1) bekezdése az irányadó.
+18. § (1) Ingatlannak, valamint a (2) bekezdésben meghatározott ingónak és vagyoni értékű jognak visszteher mellett, továbbá öröklési vagy ajándékozási illeték alá nem eső, más módon történő megszerzése visszterhes vagyonátruházási illeték alá esik. Ezt a szabályt kell alkalmazni az ingatlanok, illetve a gépjárművek (pótkocsik) pénzügyi lízingjére vonatkozó, a futamidő végén tulajdonjog átszállást eredményező szerződések esetén, továbbá az öröklési szerződés alapján történő vagyonszerzésre is azzal, hogy az öröklési szerződés tekintetében az illetékkötelezettség keletkezésére a 3. § (1) bekezdése az irányadó.
 
 (2) Az illetékfizetési kötelezettség a következő vagyoni értékű jogokra és ingókra terjed ki:
 
@@ -22,7 +22,7 @@ f) az önálló orvosi tevékenység praxisjogának megszerzése;
 
 g) az értékpapír öröklési szerződéssel való megszerzése;
 
-h) belföldi ingatlanvagyonnal rendelkező társaságban fennálló vagyoni betét (részvény, üzletrész, szövetkezeti részjegy, befektetői részjegy, átalakított befektetői részjegy) megszerzésére, ha a belföldi ingatlanvagyonnal rendelkező társaság olyan gazdálkodó szervezet, amelynek a cégjegyzékben feltüntetett (ennek hiányában a létesítő okiratában megjelölt) főtevékenysége épületépítési projekt szervezése, lakó- és nem lakó épület építése, saját tulajdonú, bérelt ingatlan bérbeadása, üzemeltetése vagy saját tulajdonú ingatlan adásvétele.
+h) belföldi ingatlanvagyonnal rendelkező társaságban fennálló vagyoni betét (részvény, üzletrész, szövetkezeti részjegy, befektetői részjegy, átalakított befektetői részjegy) megszerzésére.
 
 (3) Nem tárgya a visszterhes vagyonátruházási illetéknek az ingatlan tulajdonosának az a vagyonszerzése, mely az ingatlanát terhelő haszonélvezet, használat jogának a jogosult halála, illetőleg – özvegyi jog esetén – új házasság kötése folytán történő megszűnésével következik be, továbbá a feltétel bekövetkezésétől függő vagy a meghatározott időre kikötött haszonélvezet, használat jogának a feltétel bekövetkeztével, illetve a meghatározott idő elteltével bekövetkező megszűnése.
 

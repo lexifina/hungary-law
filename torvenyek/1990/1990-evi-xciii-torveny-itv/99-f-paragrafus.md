@@ -5,3 +5,5 @@
 (2) E törvény az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2012. évi CLXXVIII. törvénnyel megállapított 16. § (1) bekezdés c) és i) pontját az állami adóhatóság által 2013. január 1-jén jogerősen még el nem bírált illetékügyben kell alkalmazni.
 
 (3) A 2012. december 31-én hatályos 16. § (1) bekezdés e) pontját a 2013. január 1-jén az állami adóhatóság által jogerősen még el nem bírált illetékügyekben nem kell alkalmazni.
+
+(4) Ha az (1) bekezdésben foglaltak alkalmazásával megállapított illeték összege nagyobb, mint amelyet az illetékkötelezettség keletkezésekor hatályos szabályok alapján a vagyonszerzőnek fizetnie kellett volna, az állami adóhatóságnak az illetékfizetési kötelezettséget az (1) bekezdésben foglaltak figyelmen kívül hagyásával kell megállapítania. Ha a vagyonszerző az így megállapított illetéknél több illetéket fizetett, az állami adóhatóság a különbözetet visszatéríti részére.

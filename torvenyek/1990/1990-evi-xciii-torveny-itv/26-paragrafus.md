@@ -40,7 +40,7 @@ n) a birtokösszevonási célú önkéntes földcsere keretében létrejött meg
 
 o) az ügyvédi iroda olyan átalakulással (egyesülés,szétválás) bekövetkező vagyonszerzése, amikor a létrejövő iroda (irodák) a korábbinak jogutódja(i) lesz(nek);
 
-p) termőföldnek a mezőgazdasági és vidékfejlesztési támogatási szerv által kiadott nyilvántartási (regisztrációs) számmal rendelkező őstermelő, egyéni mezőgazdasági vállalkozó vagy családi gazdálkodó általi, visszteher ellenében történő megszerzése, feltéve, ha az így vásárolt termőföldet a birtokbaadástól számítva 5 évig nem idegeníti el – ide nem értve a kisajátítást, a kisajátítás alapjául szolgáló közérdekű célra történő elidegenítést és a birtokösszevonási célú önkéntes földcserét –, azon vagyoni értékű jogot nem alapít, és egyéni vállalkozóként, mezőgazdasági őstermelőként vagy családi gazdálkodóként a termőföldet mezőgazdasági célra hasznosítja.
+p) termőföldnek a mezőgazdasági és vidékfejlesztési támogatási szerv által kiadott nyilvántartási (regisztrációs) számmal rendelkező őstermelő, egyéni mezőgazdasági vállalkozó vagy családi gazdálkodó általi, visszteher ellenében történő megszerzése, feltéve, ha az így vásárolt termőföldet a birtokbaadástól, de legkésőbb az illetékkötelezettség keletkezését követő 12. hónap utolsó napjától számítva 5 évig nem idegeníti el – ide nem értve a kisajátítást, a kisajátítás alapjául szolgáló közérdekű célra történő elidegenítést és a birtokösszevonási célú önkéntes földcserét –, azon vagyoni értékű jogot nem alapít, és egyéni vállalkozóként, mezőgazdasági őstermelőként vagy családi gazdálkodóként a termőföldet mezőgazdasági célra hasznosítja.
 
 q) ingatlannak, illetve a 18. § (2) bekezdésének h) pontja szerinti vagyoni betétnek a társasági adóról és az osztalékadóról szóló törvény szerinti kedvezményezett eszközátruházás keretében történő átruházása, az alábbi feltételek együttes teljesülése esetén:
 
@@ -68,7 +68,15 @@ x) az ingatlannak a futamidő végén tulajdonjog átszállást eredményező l�
 
 y) a lakástulajdon magánszemély általi cseréje és vásárlása, ha a magánszemély a másik lakástulajdonát a vásárlást megelőző vagy azt követő egy éven belül eladja, és a szerzett lakástulajdon forgalmi értéke az elcserélt, eladott lakástulajdon forgalmi értékénél kisebb;
 
-z) egyenes ági rokonok (ideértve az örökbefogadáson alapuló rokoni kapcsolatot is) közötti vagyonátruházás esetén az egyenes ági rokon (ideértve az örökbefogadáson alapuló rokoni kapcsolatot is) vagyonszerzése.
+z) a vagyonszerzés, ha
+
+za) egyenes ági rokonok (ideértve az örökbefogadáson alapuló rokoni kapcsolatot is) egymás közötti vagyonátruházásából,
+
+zb) házastársak egymás közötti vagyonátruházásából,
+
+zc) a házastársi vagyonközösség megszüntetéséből
+
+származik.
 
 (2a) Az (1) bekezdés a) pontja szerinti illetékmentesség alkalmazása során az állami adóhatóság a vagyonszerzés után megállapított illetéket – a megfizetés tekintetében – felfüggeszti. Az állami adóhatóság a lakóházépítésre meghatározott 4 éves határidő (a továbbiakban e bekezdés alkalmazásában: határidő) elteltét követő 15 napon belül megkeresi az illetékes építésügyi hatóságot a lakóház felépítésének igazolása céljából. Az állami adóhatóság a felfüggesztett illetéket törli, ha
 
@@ -82,7 +90,9 @@ Ha a határidő lejártáig az építésügyi hatóság által – a vagyonszerz
 
 (2c) Ha a maximális beépíthetőség az illetékkötelezettség keletkezésének időpontjában és a használatbavételi engedély kiadásának, illetve a használatbavétel tudomásulvételének időpontjában eltérő, a kettő közül a vagyonszerzőre összességében kedvezőbbet kell figyelembe venni.
 
-(2d) A lakóház felépítésére nyitva álló határidőn belül a vagyonszerző gazdálkodó szervezet átalakulása vagy magánszemély vagyonszerző halála esetén a lakóház felépítésére az ingatlant megszerző jogutód, örökös köteles. Ebben az esetben a lakóház felépítését a jogutód, örökös a nevére szóló használatbavételi engedéllyel, illetve a használatbavétel tudomásulvételét igazoló hatósági bizonyítvánnyal igazolja.
+(2d) A lakóház felépítésére nyitva álló határidőn belül a vagyonszerző gazdálkodó szervezet átalakulása vagy magánszemély vagyonszerző halála esetén a lakóház felépítését az ingatlant megszerző jogutód, örökös is teljesítheti. Ebben az esetben a lakóház felépítését a jogutód, örökös a nevére szóló használatbavételi engedéllyel, illetve a használatbavétel tudomásulvételét igazoló hatósági bizonyítvánnyal igazolja.
+
+(2e) Az állami adóhatóság a lakóház felépítésére nyitva álló határidőn belül felépült lakóház tulajdonosa, a lakóházon fennálló vagyoni értékű jog jogosítottja felfüggesztett illetékét abban az esetben is törli, ha a jogerős használatbavételi engedély vagy a használatbavétel tudomásulvételét igazoló hatósági bizonyítvány a tulajdonjogot és – vagyoni értékű jog szerzése esetén – a vagyoni értékű jogot egyidejűleg megszerzők egyike nevére szól.
 
 (3) Ha az (1) bekezdés j) pontjában említett csereingatlan a kisajátítottnál értékesebb, vagy ha a megszerzett ingatlan forgalmi értéke a kártalanítási összeget, illetőleg ennek a vevőre eső arányos részét meghaladja, az illetékmentesség a többletre nem terjed ki.
 
@@ -118,7 +128,7 @@ b) a gépjármű-forgalmazást a nyilatkozattétel adóévében kezdő vállalko
 
 (14) Az állami, helyi önkormányzati tulajdonban lévő forgalomképtelen műemlék vagy műemléki jellegű ingatlan (ingatlan együttes) haszonélvezeti jogának, az ingatlan helyreállítása, fejlesztése és az ezt követő állagmegóvása ellenében történő megszerzése esetén visszterhes vagyonátruházási illetéket nem kell fizetni.
 
-(15) Az állami adóhatóság a visszterhes vagyonátruházási illetékkötelezettség keletkezésekor 35. életévét be nem töltött fiatal első lakástulajdonának (tulajdoni hányadának) megszerzése esetén a vagyonszerző kérelmére – a kérelemben megjelölt időtartamra, de legfeljebb esedékességtől számított 12 hónapra – havonként egyenlő részletekben teljesítendő pótlékmentes részletfizetést engedélyez. Ha a vagyonszerző az esedékes részlet befizetését nem teljesíti, a kedvezmény érvényét veszti, és a tartozás egy összegben esedékessé válik. Ez esetben az adóhatóság a tartozás fennmaradó részére az eredeti esedékesség napjától késedelmi pótlékot számít fel.
+(15) A magánszemély vagyonszerző első lakástulajdonának (tulajdoni hányadának) megszerzése esetén az állami adóhatóság a vagyonszerző kérelmére – a kérelemben megjelölt időtartamra, de legfeljebb az esedékességtől számított 12 hónapra – havonként egyenlő részletekben teljesítendő pótlékmentes részletfizetést engedélyez. Ha a vagyonszerző az esedékes részlet befizetését nem teljesíti, a tartozás egy összegben esedékessé válik. Ez esetben az állami adóhatóság a tartozás fennmaradó részére az eredeti esedékesség napjától késedelmi pótlékot számít fel.
 
 (16) Ha az (1) bekezdés i) és r) pontjaiban meghatározott esetekben a sportcélú ingatlant – a társasági adóról és az osztalékadóról szóló törvény 22/C. § (6) bekezdésének b) pontjában, valamint 22/C. § (7) bekezdésében foglalt esetek kivételével – olyan hivatásos sportszervezet használja, amely nem a társasági adóról és az osztalékadóról szóló törvény 4. § 41. pontja szerinti látvány-csapatsportban működik, akkor az illetékmentesség az adózó választása szerint
 
@@ -135,3 +145,5 @@ E rendelkezés alkalmazásában hivatásos sportszervezetnek minősül a nem lá
 (18) Az (1) bekezdés p) pontjában említett feltételek vállalásáról a vagyonszerzőnek legkésőbb a fizetési meghagyás jogerőre emelkedéséig kell nyilatkoznia az állami adóhatóságnál. Ha a vagyonszerző a termőföldet az – eredetileg vállalt – 5 év letelte előtt elidegeníti – ide nem értve a kisajátítást, a kisajátítás alapjául szolgáló közérdekű célra történő elidegenítést és a birtokösszevonási célú önkéntes földcserét –, vagy azon vagyoni értékű jogot alapít, igazolhatóan nem mezőgazdasági célra hasznosítja, az egyébként járó illeték kétszeresét kell megfizetnie, kivéve a vagyonszerző elhalálozásának esetét. Ha a vagyonszerző által vállalt feltételek csak a termőföld meghatározott tulajdoni hányada tekintetében teljesültek, az egyébként járó illeték kétszeresét kizárólag azon tulajdoni hányad vonatkozásában kell megfizetni, melyre a feltételek nem teljesültek.
 
 (19) Az (1) bekezdés y) pontja szerinti illetékmentesség alkalmazása során, ha a magánszemély egy éven belül több lakástulajdont cserél, vásárol, illetve értékesít, minden egyes lakáscserével, lakásvásárlással szemben – a szerzést közvetlenül megelőző vagy követő, azonos jogcímű – egyetlen értékesítést lehet figyelembe venni. Az (1) bekezdés y) pontjában meghatározott illetékmentességi rendelkezést lakástulajdonhoz kapcsolódó vagyoni értékű jog magánszemélyek általi megszerzésekor megfelelően kell alkalmazni.
+
+(20) Az (1) bekezdés g), h), q) és t) pontja szerinti mentesség a 17. § (4) bekezdésében említett feltételek fennállásakor vehető igénybe.

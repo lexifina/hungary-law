@@ -8,7 +8,7 @@ b) ingatlan:a föld és a földdel alkotórészi kapcsolatban álló minden dolo
 
 c) ingó: a fizetőeszköz, az értékpapír, a gazdálkodó szervezetben fennálló vagyoni betét, valamint mindaz, ami ingatlannak nem minősülő dolog;
 
-d) vagyoni értékű jog: a földhasználat, a haszonélvezet, a használat joga – ideértve a szövetkezeti háztulajdonra vonatkozó rendelkezések szerinti használati jogokat –, továbbá a vagyonkezelői jog, az önálló orvosi tevékenység praxisjoga, az üzembentartói jog, továbbá ingyenes vagyonszerzés esetén a követelés;
+d) vagyoni értékű jog: a földhasználat, a haszonélvezet, a használat joga – ideértve az üdülőhasználati jogot és a szállás időben megosztott használati jogát is –, továbbá a vagyonkezelői jog, az önálló orvosi tevékenység praxisjoga, az üzembentartói jog, továbbá ingyenes vagyonszerzés esetén a követelés;
 
 e) forgalmi érték: az a pénzben kifejezett érték, amely a vagyontárgy eladása esetén az illetékkötelezettség keletkezésekor volt állapotában – a vagyontárgyat terhelő adósságok, továbbá az ingatlanon a vagyonszerző javára az elidegenítéskor megszűnő bérleti jog figyelembevétele nélkül – árként általában elérhető, azzal, hogy:
 
@@ -36,15 +36,23 @@ az i) pont szerinti gépjárművel történő vontatásra készült jármű, teh
 
 k) sportcélú ingatlan: az ingatlan-nyilvántartási bejegyzés szerint sporttelep, sportpálya, uszoda, stadion, sportcsarnok, jégpálya, jégcsarnok, tornaterem, tornaszoba, tornaudvar, vízi-sporttelep – vagy a széljegy szerint ilyenként feltüntetésre váró ingatlan, ingatlanrész, feltéve, ha az az ingatlan-nyilvántartási eljárás, melynek megindítását a széljegy tanúsítja, bejegyzéssel zárul –, ide nem értve a földrészleten létesített, de a sporttevékenység végzéséhez vagy az e célt szolgáló létesítmény fenntartásához közvetlenül nem szükséges ingatlanrészt (szálloda, irodaház, bevásárlóközpont és az építési szabályok szerint ezekhez kialakított parkolóhelyek stb.), akkor is, ha az a sportcélú ingatlannal egybeépült, vagy az ingatlan-nyilvántartásban önálló ingatlanként nem szerepel;
 
-l) lakóház építésére alkalmas telektulajdon:
+l) lakóház építésére alkalmas telektulajdon: az építésügyi szabályoknak és a településrendezési tervnek megfelelően kialakított, lakóépület elhelyezésére szolgáló, beépítetlen földrészlet vagy olyan földrészlet, amelyen az f) pont szerinti szerkezetkész állapotot el nem érő, lakóház céljára létesülő építmény áll;
 
-az építésügyi szabályoknak és a településrendezési tervnek megfelelően kialakított, lakóépület elhelyezésére szolgáló, beépítetlen földrészlet;
-
-m) termőföld: az a földrészlet, amelyet a település külterületén az ingatlan-nyilvántartásban szántó, szőlő, gyümölcsös, kert, rét, legelő (gyep), nádas, erdő, fásított terület művelési ágban vagy halastóként tartanak nyilván és a felsorolt valamelyik célra hasznosítják, ide nem értve a földrészleten bármilyen célra létesített épületet;
+m) termőföld: az a földrészlet, amelyet a település külterületén az ingatlan-nyilvántartásban szántó, szőlő, gyümölcsös, kert, rét, legelő (gyep), nádas, erdő, fásított terület művelési ágban vagy halastóként tartanak nyilván, továbbá az olyan művelés alól kivett területként nyilvántartott földrészlet, amelyre az ingatlan-nyilvántartásban Országos Erdőállomány Adattárban erdőként nyilvántartott terület jogi jelleg van feljegyezve és a felsorolt valamelyik célra hasznosítják, ide nem értve a földrészleten bármilyen célra létesített épületet;
 
 n) nettó árbevétel: a helyi adókról szóló 1990. évi C. törvény szerinti nettó árbevétel;
 
-o) belföldi ingatlanvagyonnal rendelkező társaság: olyan gazdálkodó szervezet (megszerzett gazdálkodó szervezet), mely belföldön lévő ingatlantulajdonnal, vagy belföldi ingatlantulajdonnal rendelkező gazdálkodó szervezetben legalább 75%-os – közvetett, vagy közvetlen – részesedéssel rendelkezik. Ingatlan tulajdonjogával rendelkező gazdálkodó szervezetben való közvetett részesedés arányát úgy kell meghatározni, hogy a megszerzett gazdálkodó szervezet tulajdonában álló gazdálkodó szervezetben (köztes vállalkozásban) fennálló tulajdoni hányadot meg kell szorozni a köztes vállalkozásnak az ingatlantulajdonnal rendelkező gazdálkodó szervezetben fennálló tulajdoni hányadával. Több köztes vállalkozás esetén a köztes vállalkozásonként megállapított közvetett részesedések arányait össze kell adni. Amennyiben a megszerzett gazdálkodó szervezet és az ingatlantulajdonnal rendelkező gazdálkodó szervezet között nem köztes vállalkozás, hanem több gazdálkodó szervezetből álló tulajdonosi láncolat (köztes tulajdonosi láncolat) áll, az e szervezeteket összekötő tulajdoni részesedések szorzatát – több köztes tulajdonosi láncolat esetén a láncolatonként megállapított szorzatok összegét – kell a közvetett részesedés arányának tekinteni. A részesedés arányának meghatározásakor a közvetlen és közvetett részesedéseket együttesen kell figyelembe venni;
+o) belföldi ingatlanvagyonnal rendelkező társaság: olyan gazdálkodó szervezet (megszerzett gazdálkodó szervezet), melynek a mérlegében kimutatott eszközök (ide nem értve a pénzeszközöket és a pénzköveteléseket) mérleg szerinti értékének összegéből a belföldön fekvő ingatlan(ok), mérleg szerinti értéke több mint 75 százalék, vagy olyan gazdálkodó szervezetben (ingatlantulajdonnal rendelkező gazdálkodó szervezetben) rendelkezik legalább 75 százalékos – közvetett, vagy közvetlen – részesedéssel, melynek a mérlegében kimutatott eszközök (ide nem értve a pénzeszközöket és a pénzköveteléseket) mérleg szerinti értékének összegéből a belföldön fekvő ingatlan(ok) mérleg szerinti értéke több mint 75 százalék azzal, hogy
+
+oa) mérleg alatt a vagyonszerzést megelőzően rendelkezésre álló utolsó beszámolóban elfogadott mérleget, ennek hiányában a nyitó mérleget kell érteni,
+
+ob) a közvetett részesedés arányát úgy kell meghatározni, hogy a megszerzett gazdálkodó szervezet tulajdonában álló gazdálkodó szervezetben (köztes vállalkozásban) fennálló tulajdoni hányadot meg kell szorozni a köztes vállalkozásnak az ingatlantulajdonnal rendelkező gazdálkodó szervezetben fennálló tulajdoni hányadával,
+
+oc) több köztes vállalkozás esetén a köztes vállalkozásonként megállapított közvetett részesedések arányait össze kell adni,
+
+od) ha a megszerzett gazdálkodó szervezet és az ingatlantulajdonnal rendelkező gazdálkodó szervezet között több gazdálkodó szervezetből álló tulajdonosi láncolat (köztes tulajdonosi láncolat) áll, az e szervezeteket összekötő tulajdoni részesedések szorzatát – több köztes tulajdonosi láncolat esetén a láncolatonként megállapított szorzatok összegét – kell a közvetett részesedés arányának tekinteni,
+
+oe) a részesedés arányának meghatározásakor a közvetlen és közvetett részesedéseket együttesen kell figyelembe venni;
 
 p)
 

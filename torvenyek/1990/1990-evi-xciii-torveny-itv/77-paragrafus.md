@@ -2,7 +2,7 @@
 
 77. § Kiszabás alapján pénzzel kell megfizetni
 
-a) a vagyonszerzési illetéket, ideértve az illetékelőleget is,
+a) a vagyonszerzési illetéket,
 
 b) e törvényben meghatározott esetben az eljárási illetéket,
 

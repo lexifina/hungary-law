@@ -1,6 +1,6 @@
 57. § (1) Illetékmentes a polgári ügyekben:
 
-a)
+a) az eljárást megindító beadvány idézés kibocsátása – nemperes eljárás esetén érdemi vizsgálat, cégbírósági eljárás esetén hiánypótlási eljárás lefolytatása – nélküli elutasításáról rendelkező döntés elleni fellebbezés;
 
 b) a költségmentesség vagy az illetékfeljegyzési jog tárgyában hozott határozat elleni jogorvoslati eljárás;
 

@@ -30,7 +30,7 @@ n) a 18. § (2) bekezdése alapján a visszterhes vagyonátruházási illeték t
 
 o) a magánszeméllyel szemben fennálló, pénzügyi intézmény által elengedett követelés, ha a követelés elengedése – a pénzügyi intézmény által az adósnak kiadott igazolás szerint – az azonos helyzetben levők egyenlő elbánásának elve alapján történik, azzal, hogy a rendelkezés nem alkalmazható, ha az elengedés nem a személyi jövedelemadóról szóló törvény szerinti független felek között valósul meg;
 
-p) az ajándékozó egyenes ági rokona (ideértve az örökbefogadáson alapuló rokoni kapcsolatot is) által megszerzett ajándék;
+p) az ajándékozó egyenes ági rokona (ideértve az örökbefogadáson alapuló rokoni kapcsolatot is), illetve házastársa által megszerzett ajándék;
 
 q) az egyéni vállalkozónak, őstermelőnek, családi gazdálkodónak minősülő földműves gazdaságátadási támogatásának igénybevétele érdekében a közeli hozzátartozóval [Ptk. 685. § b) pont] megkötött szerződésben a termőföld, a tanya, és a mezőgazdasági termelőtevékenységhez szükséges művelés alól kivett terület, építmény (magtár, istálló stb.) valamint ingó (mezőgazdasági berendezés, felszerelés, gép, állatállomány, készlet stb.) ajándékozása, illetve vagyoni értékű jog ingyenes átengedése;
 
@@ -38,7 +38,11 @@ r) a Magyar Állam által a hiteladós lakása megvásárlásával összefüggé
 
 s) lakóingatlanon alapított zálogjog fedezetével kötött, deviza alapú kölcsönszerződésből, illetve deviza alapú, lakóingatlanra vonatkozó pénzügyi lízingszerződésből származó követelés, ha az a törvényben rögzített árfolyamon végtörlesztő magánszeméllyel szemben végérvényesen megszűnik;
 
-t)
+t) az osztalékra vonatkozó követelés elengedése;
+
+u) a csődegyezség keretében, valamint a felszámolási eljárásban a követelés elengedése, feltéve, ha a követelés jogosultja nem a csődeljárás, felszámolási eljárás alá vont gazdálkodó szervezet tagja,
+
+v) a házastársi vagyonközösség megszüntetéséből származó vagyonszerzés.
 
 (2a) Az (1) bekezdés b) pontja szerinti illetékmentesség alkalmazása során az állami adóhatóság a vagyonszerzés után megállapított illetéket – a megfizetés tekintetében – felfüggeszti. Az állami adóhatóság a lakóházépítésre meghatározott 4 éves határidő (a továbbiakban e bekezdés alkalmazásában: határidő) elteltét követő 15 napon belül megkeresi az illetékes építésügyi hatóságot a lakóház felépítésének igazolása céljából. Az állami adóhatóság a felfüggesztett illetéket törli, ha
 
@@ -52,8 +56,16 @@ Ha a határidő lejártáig az építésügyi hatóság által – a vagyonszerz
 
 (2c) Ha a maximális beépíthetőség az illetékkötelezettség keletkezésének időpontjában és a használatbavételi engedély kiadásának, illetve a használatbavétel tudomásulvételének időpontjában eltérő, a kettő közül a vagyonszerzőre összességében kedvezőbbet kell figyelembe venni.
 
-(2d) A lakóház felépítésére nyitva álló határidőn belül a vagyonszerző gazdálkodó szervezet átalakulása vagy magánszemély vagyonszerző halála esetén a lakóház felépítésére az ingatlant megszerző jogutód, örökös köteles. Ebben az esetben a lakóház felépítését a jogutód, örökös a nevére szóló használatbavételi engedéllyel, illetve a használatbavétel tudomásulvételét igazoló hatósági bizonyítvánnyal igazolja.
+(2d) A lakóház felépítésére nyitva álló határidőn belül a vagyonszerző gazdálkodó szervezet átalakulása vagy magánszemély vagyonszerző halála esetén a lakóház felépítését az ingatlant megszerző jogutód, örökös is teljesítheti. Ebben az esetben a lakóház felépítését a jogutód, örökös a nevére szóló használatbavételi engedéllyel, illetve a használatbavétel tudomásulvételét igazoló hatósági bizonyítvánnyal igazolja.
 
-(3) Termőföld tulajdonjogának, vagyoni értékű jogának ajándékozása esetén az egyébként járó ajándékozási illeték felét kell megfizetni. Az (1) bekezdés h) pontja szerinti mentesség esetén a mentességre való jogosultságot az ajándékozottnak kell igazolnia. A támogatás elnyerését igazoló okiratot az ingatlanügyi hatósághoz benyújtásra kerülő ajándékozási szerződéshez kell csatolnia, mely okiratot az ajándékozási szerződés másolatával az ingatlanügyi hatóság a 92. § (1) bekezdés szerint továbbítja az állami adóhatóságnak.
+(2e) Az állami adóhatóság a lakóház felépítésére nyitva álló határidőn belül felépült lakóház tulajdonosa, a lakóházon fennálló vagyoni értékű jog jogosítottja felfüggesztett illetékét abban az esetben is törli, ha a jogerős használatbavételi engedély vagy a használatbavétel tudomásulvételét igazoló hatósági bizonyítvány a tulajdonjogot és – vagyoni értékű jog szerzése esetén – a vagyoni értékű jogot egyidejűleg megszerzők egyike nevére szól.
 
-(4)
+(3) Termőföld tulajdonjogának, vagyoni értékű jogának ajándékozása esetén az egyébként járó ajándékozási illeték felét kell megfizetni. Az (1) bekezdés h) pontja szerinti mentesség esetén a mentességre való jogosultságot az ajándékozottnak kell igazolnia. A támogatás elnyerését igazoló okiratot a vagyonszerzőnek legkésőbb a fizetési meghagyás jogerőre emelkedéséig az állami adóhatóságnál kell benyújtania vagy az ingatlanügyi hatósághoz benyújtandó ajándékozási szerződéshez kell csatolnia, mely okiratot az ajándékozási szerződés másolatával az ingatlanügyi hatóság a 92. § (1) bekezdés szerint továbbítja az állami adóhatóságnak.
+
+(4) Az (1) bekezdés n) pontja szerinti mentesség akkor vehető igénybe, ha a vagyonszerzőnek – nyilatkozata szerint – nem olyan külföldi államban van székhelye vagy üzletvezetése helye alapján illetősége
+
+a) amelyben a vagyonszerző által az adóévre fizetendő társasági adónak megfelelő adó és az adóalap [csoportos adóalanyiság esetén a csoportszinten fizetett (fizetendő) adóvisszatérítéssel csökkentett adó és az adóalap] százalékban kifejezett hányadosa nem éri el a 10 százalékot vagy
+
+b) amelynek jogszabályai szerint – nulla vagy negatív eredmény és adóalap esetén – a társasági adónak megfelelő adó mértéke, több adómérték esetén a legkisebb adómérték nem éri el a 10 százalékot vagy
+
+c) amelynek jogszabályai szerint a vagyoni betét, részesedés értékesítéséből származó jövedelmet nem terheli a társasági adónak megfelelő, legalább 10 százalékos mértéket elérő adó.

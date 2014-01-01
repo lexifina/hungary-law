@@ -144,13 +144,17 @@ a) a 14. életévét be nem töltött polgár személyazonosító igazolványa i
 
 b) a 65. életévét betöltött polgár személyazonosító igazolvány iránti kérelme, ha útlevéllel vagy kártyaformátumú vezetői engedéllyel nem rendelkezik.
 
-3.
+3. Illetékmentes
 
-4. A személyi azonosítót és a lakcímet igazoló hatósági igazolvány illetéke – ha az eljárás a személyi azonosítót vagy a lakcímet nem érintő adatváltozás miatt indult – 500 forint.
+a) a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 29. § (9) bekezdésében foglalt esetben a személyazonosító igazolvány eltulajdonítása miatt új személyazonosító igazolvány kiadására irányuló eljárás,
 
-5. Illetékmentes a személyi azonosítót és a lakcímet igazoló hatósági igazolvány kiadása, ha arra a személyazonosító igazolvány kiadása, lakcímváltozás, illetve – 14. életévét be nem töltött kiskorú esetén – a kérelemre feltüntethető adatok változása miatt kerül sor.
+b) a személyi azonosítót és lakcímet igazoló hatósági igazolvány eltulajdonítása miatt új, a személyi azonosítót és lakcímet igazoló hatósági igazolvány kiadására irányuló eljárás.
 
-6. Ha a személyi azonosítót és a lakcímet igazoló hatósági igazolvány kiadására irányuló eljárásra az igazolvány elvesztése, megsemmisülése, megrongálódása miatt kerül sor, az eljárás illetéke 1000 forint.
+4. A személyi azonosítót és lakcímet igazoló hatósági igazolvány illetéke – ha az eljárás a személyi azonosítót vagy a lakcímet nem érintő adatváltozás miatt indult – 500 forint.
+
+5. Illetékmentes a személyi azonosítót és lakcímet igazoló hatósági igazolvány kiadása, ha arra a személyazonosító igazolvány kiadása, lakcímváltozás, illetve – 14. életévét be nem töltött kiskorú esetén – a kérelemre feltüntethető adatok változása miatt kerül sor.
+
+6. Ha a személyi azonosítót és lakcímet igazoló hatósági igazolvány kiadására irányuló eljárásra az igazolvány elvesztése, megsemmisülése, megrongálódása miatt kerül sor, az eljárás illetéke 1000 forint.
 
 III. A gépjárművezetői engedély, a forgalmi engedély és a törzskönyv kiadásával kapcsolatos eljárás illetéke
 
@@ -172,7 +176,7 @@ b) a személyi azonosító képzése – ideértve a személyi azonosító megv�
 
 c) az érintett polgár adatainak a polgárok személyi adatainak és lakcímének nyilvántartásából való törlésére irányuló eljárás;
 
-d) a lakcímet igazoló hatósági igazolvány és a forgalmi engedély cseréjére irányuló eljárás, amennyiben arra a helység, az utca, egyéb helymeghatározó adat nevének vagy számának megváltozása miatt kerül sor.
+d) a személyi azonosítót és lakcímet igazoló hatósági igazolvány és a forgalmi engedély cseréjére irányuló eljárás, amennyiben arra a helység, az utca, egyéb helymeghatározó adat nevének vagy számának megváltozása miatt kerül sor.
 
 X. Anyakönyvi és névváltoztatási eljárás
 

@@ -32,7 +32,9 @@ Ha a határidő lejártáig az építésügyi hatóság által – a vagyonszerz
 
 (2c) Ha a maximális beépíthetőség az illetékkötelezettség keletkezésének időpontjában és a használatbavételi engedély kiadásának, illetve a használatbavétel tudomásulvételének időpontjában eltérő, a kettő közül a vagyonszerzőre összességében kedvezőbbet kell figyelembe venni.
 
-(2d) A lakóház felépítésére nyitva álló határidőn belül a vagyonszerző gazdálkodó szervezet átalakulása vagy magánszemély vagyonszerző halála esetén a lakóház felépítésére az ingatlant megszerző jogutód, örökös köteles. Ebben az esetben a lakóház felépítését a jogutód, örökös a nevére szóló használatbavételi engedéllyel, illetve a használatbavétel tudomásulvételét igazoló hatósági bizonyítvánnyal igazolja.
+(2d) A lakóház felépítésére nyitva álló határidőn belül a vagyonszerző gazdálkodó szervezet átalakulása vagy magánszemély vagyonszerző halála esetén a lakóház felépítését az ingatlant megszerző jogutód, örökös is teljesítheti. Ebben az esetben a lakóház felépítését a jogutód, örökös a nevére szóló használatbavételi engedéllyel, illetve a használatbavétel tudomásulvételét igazoló hatósági bizonyítvánnyal igazolja.
+
+(2e) Az állami adóhatóság a lakóház felépítésére nyitva álló határidőn belül felépült lakóház tulajdonosa, a lakóházon fennálló vagyoni értékű jog jogosítottja felfüggesztett illetékét abban az esetben is törli, ha a jogerős használatbavételi engedély vagy a használatbavétel tudomásulvételét igazoló hatósági bizonyítvány a tulajdonjogot és – vagyoni értékű jog szerzése esetén – a vagyoni értékű jogot egyidejűleg megszerzők egyike nevére szól.
 
 (3) Ha az öröklés útján megszerzett képző-, ipar-, népművészeti alkotást, muzeális tárgyat, gyűjteményt vagy ennek egy részét az örökös az államnak, a helyi önkormányzatnak, vagy felsőoktatási intézménynek felajánlja, és a felajánlást elfogadják, az örökös mentesül a felajánlott ingóörökségre eső öröklési illeték alól. A teljes öröklési illeték alól mentesül az örökös, ha a felajánlott és elfogadott ingóörökség értéke eléri az ugyanabból a hagyatékból származó valamennyi örökségét terhelő illeték összegét.
 

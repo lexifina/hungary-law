@@ -54,3 +54,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1990-93-00-00
 | 2013-12-07 | 2013. évi CXCV. törvény | 1990-93-00-00.135 |
 | 2013-12-15 | 2013. évi CCXII. törvény | 1990-93-00-00.136 |
 | 2013-12-31 | 2013. évi CCXXXVI. törvény | 1990-93-00-00.137 |
+| 2014-01-01 | 2013. évi CC. törvény | 1990-93-00-00.138 |

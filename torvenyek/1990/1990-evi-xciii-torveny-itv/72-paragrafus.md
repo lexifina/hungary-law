@@ -24,6 +24,6 @@ c) ha a vagyoni értékű jog tartama több egyidejűleg jogosult személy élet
 
 d) ha a vagyoni értékű jog tartama a házasság idejére terjed, a kiszámításnál az idősebb házastárs életkora az irányadó.
 
-(5) Az időleges üdülőhasználati jog értéke: e jog egy évi értékének [72. § (1) bekezdés] annyiszor háromszázhatvanötöd része, ahány nap megszerzéséről szól a szerződés. Egyebekben a 72. § (2)—(3) bekezdésében foglaltak az irányadóak.
+(5) Az időleges üdülőhasználati jog és a szállás időben megosztott használati jogának értéke: e jogok egy évi értékének [72. § (1) bekezdés] annyiszor háromszázhatvanötöd része, ahány nap megszerzéséről szól a szerződés. Egyebekben a 72. § (2)—(3) bekezdésében foglaltak az irányadóak.
 
 (6) Az (1)–(5) bekezdéstől eltérően az önálló orvosi tevékenység praxisjogának értékét a vonatkozó adásvételi vagy ajándékozási szerződésben megjelölt – illetőleg folytatás esetén a szerző fél által bejelentett – érték alapján lehet megállapítani. Amennyiben az előzőek szerinti érték nem fejezi ki a valós értékviszonyokat, az állami adóhatóság becslés útján állapítja meg az értéket.

@@ -1,6 +1,6 @@
 ## CÉGBÍRÓSÁGI FELÜGYELETI ILLETÉK
 
-65. § (1) A cégbíróság által lefolytatott törvényességi felügyeleti eljárásért 50 000 Ft felügyeleti illetéket kell fizetni. A felügyeleti illetéket az a cég viseli, melynek törvénysértő működését a cégbíróság megállapítja. Ha a hivatalból indult törvényességi felügyeleti eljárást a cégbíróság jogsértés hiányában megszünteti, az illetéket nem kell megfizetni.
+65. § (1) A cégbíróság által lefolytatott törvényességi felügyeleti eljárásért 100 000 Ft felügyeleti illetéket kell fizetni. A felügyeleti illetéket az a cég viseli, melynek törvénysértő működését a cégbíróság megállapítja. Ha a hivatalból indult törvényességi felügyeleti eljárást a cégbíróság jogsértés hiányában megszünteti, az illetéket nem kell megfizetni.
 
 (2) Kérelemre indult eljárás esetén, ha a cégbíróság a törvényességi felügyeleti eljárás lefolytatása iránti kérelmet jogsértés hiányában elutasítja, a kérelmezőt 15 000 Ft felügyeleti illeték terheli.
 

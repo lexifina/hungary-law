@@ -1,6 +1,6 @@
 ## Az illeték törlése és visszatérítése
 
-79. § (1) A meg nem fizetett illeték törlésének, illetőleg a megfizetett illeték visszatérítésének – jogorvoslati eljáráson, valamint e törvény 16. § (2) bekezdésében, 17. § (2) bekezdésében, 21. § (5) bekezdésében és 26. § (2) bekezdésében említett eseteken kívül – csak a 80. § (1) bekezdésében megállapított esetekben van helye.
+79. § (1) A meg nem fizetett illeték törlésének, illetőleg a megfizetett illeték visszatérítésének – jogorvoslati eljáráson, valamint e törvény 16. § (2) bekezdésében, 17. § (2) bekezdésében, 21. § (2) és (4) bekezdésében és 26. § (2) bekezdésében említett eseteken kívül – csak a 80. § (1) bekezdésében megállapított esetekben van helye.
 
 (2) Az adózás rendjéről szóló törvény elévülésre vonatkozó szabályait kell alkalmazni
 
