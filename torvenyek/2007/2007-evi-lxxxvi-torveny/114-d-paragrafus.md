@@ -1,8 +1,24 @@
 ## A bennfentes információkra vonatkozó közzétételi kötelezettség
 
-114/D. § (1) A szervezett villamosenergia-piaci engedélyes a bennfentes információ közzétételére szolgáló honlap (a továbbiakban: közzétételi honlap) működtetése érdekében szabályzatot készít. A szabályzatot a Hivatal hagyja jóvá.
+114/D. § (1) Az a piaci szereplő, amelyet az 1227/2011/EU európai parlamenti és tanácsi rendelet 9. cikk (1) bekezdése alapján a Hivatal vesz nyilvántartásba, az 1227/2011/EU európai parlamenti és tanácsi rendelet 4. cikk (1) bekezdése szerinti kötelezettségének a bennfentes információ – szervezett villamosenergia-piaci engedélyes által működtetett – honlapra (a továbbiakban: közzétételi honlap) történő feltöltésével tesz eleget.
 
-(2) Az (1) bekezdés szerinti szabályzat legalább
+(2) Az (1) bekezdés szerinti piaci szereplő a közzétételi kötelezettségét az 1227/2011/EU európai parlamenti és tanácsi rendelet 4. cikk (4)–(7) bekezdésére is figyelemmel teljesíti.
+
+(3) A szervezett villamosenergia-piaci engedélyes a Hivatal részére a közzétételi honlaphoz folyamatos hozzáférést biztosít.
+
+(4) Az 1227/2011/EU európai parlamenti és tanácsi rendelet 4. cikk (3) bekezdése szerinti kötelezettség teljesítése tekintetében az (1)–(2) bekezdés alkalmazandó.
+
+(5) A Hivatal az 1227/2011/EU európai parlamenti és tanácsi rendelet 3. cikk (4) bekezdés c) pontja szerinti kötelezettségének a bennfentes információ közzétételi honlapra történő feltöltésével tesz eleget.
+
+(6) A szervezett villamosenergia-piaci engedélyes a közzétett bennfentes információ tartalmáért nem felel.
+
+(7) A szervezett villamosenergia-piaci engedélyes a közzétett bennfentes információ módosítására nem jogosult.
+
+(8) A bennfentes információ közzétételének részletszabályait miniszteri rendelet határozza meg.
+
+(9) A szervezett villamosenergia-piaci engedélyes a közzétételi honlap működtetése érdekében szabályzatot készít. A szabályzatot a Hivatal hagyja jóvá.
+
+(10) A (9) bekezdés szerinti szabályzat legalább
 
 a) a kidolgozásának, egyeztetésének, módosításának rendjét;
 

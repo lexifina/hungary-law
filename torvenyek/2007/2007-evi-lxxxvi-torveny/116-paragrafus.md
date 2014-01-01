@@ -6,7 +6,7 @@
 
 a) a háztartási méretű kiserőmű építéséhez,
 
-b) a védett természeti terület és Natura 2000 terület kivételével az 50 kVA-nál nagyobb, de legfeljebb 0,5 MW névleges teljesítőképességű kiserőmű építéséhez, ha az nem csatlakozik villamosműhöz,
+b) a védett természeti terület és Natura 2000 terület kivételével a legfeljebb 0,5 MW névleges teljesítőképességű kiserőmű építéséhez, ha az nem csatlakozik villamosműhöz,
 
 c) a magánvezetékre, ha a teljes magánvezeték egy épületen belül helyezkedik el,
 

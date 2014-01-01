@@ -48,7 +48,7 @@ i) a kábelcsere-ütemezési tervvel kapcsolatos ügyekben 45 nap.
 
 (9) A Hivatal köteles határozatait nyilvánosan közzétenni.
 
-(10) A közigazgatási ügyekben eljáró bíróság a Hivatal határozatának bírósági felülvizsgálata során – a villamosenergia-rendszer jelentős zavara és a villamosenergia-ellátási válsághelyzet esetén szükséges intézkedésekről szóló kormányrendelet alapján meghozott döntés, valamint a tanúsítási eljárás eredményeképpen hozott határozat kivételével – a határozatot jogosult megváltoztatni.
+(10) A közigazgatási ügyekben eljáró bíróság a Hivatal határozatának bírósági felülvizsgálata során – a villamosenergia-rendszer jelentős zavara és a villamosenergia-ellátási válsághelyzet esetén szükséges intézkedésekről szóló kormányrendelet alapján meghozott döntés, valamint a tanúsítási eljárás eredményeképpen hozott határozat, a más engedélyes kijelölési eljárás során hozott határozat kivételével – a határozatot jogosult megváltoztatni.
 
 (11) A Hivatal jogerős határozatával lezárt ügyben nem nyújtható be újrafelvételi kérelem.
 
@@ -68,8 +68,12 @@ b) a kiegyenlítő energia meghatározásának módját és elszámolásának fe
 
 c) a rendszerösszekötő vezetékhez való hozzáférés feltételeit, beleértve a kapacitásallokálás és a szűk keresztmetszetek kezelésére vonatkozó eljárások jóváhagyását, vagy
 
-d) a magánvezeték üzemeltetésére átmenetileg elosztót jelöl ki.
+d) a magánvezeték üzemeltetésére átmenetileg elosztót jelöl ki,
+
+e) a folyamatos ellátás vagy a folyamatos közvilágítás biztosítása érdekében más engedélyest jelöl ki,
+
+f) a más engedélyes kijelölése érdekében a korábbi engedélyes vagy az eszköz tulajdonosának jogait, kötelezettségeit korlátozza,
 
 (16) A Hivatal engedélyezési eljárásai során hirdetményt tesz közzé az eljárás megindításáról.
 
-(17) A Hivatal eljárásai során az európai uniós csatlakozással összefüggő egyes törvénymódosításokról, törvényi rendelkezések hatályon kívül helyezéséről, valamint egyes törvényi rendelkezések megállapításáról szóló 2004. évi XXIX. törvény 141. §-a szerinti panaszok és közérdekű bejelentések esetében a 2004. évi XXIX. törvény 141–143. §-aiban meghatározott rendelkezések alapján jár el azzal az eltéréssel, hogy az elbírálási határidő három hónap.
+(17) A Hivatal eljárásai során a panaszok és a közérdekű bejelentések tekintetében a panaszokról és a közérdekű bejelentésekről szóló törvény rendelkezései alapján jár el azzal az eltéréssel, hogy az elbírálási határidő három hónap.

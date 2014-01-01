@@ -36,7 +36,7 @@
 
 16. az egyetemes szolgáltatásra vonatkozó engedélykérelemben feltüntethető legkisebb szolgáltatási terület szabályait, valamint az egyetemes szolgáltatás bármely villamosenergia-kereskedő általi végzését lehetővé tevő részletes szabályokat,
 
-17. a folyamatos ellátás érdekében, valamint az átviteli rendszerirányító ismételt súlyos kötelezettségszegése esetén más engedélyes kijelölésére vonatkozó részletes szabályokat,
+17. a folyamatos ellátás, a folyamatos közvilágítás biztosítása érdekében, valamint az átviteli rendszerirányító ismételt súlyos kötelezettségszegése esetén más engedélyes kijelölésére, a más engedélyes jogaira és kötelezettségeire vonatkozó részletes szabályokat, valamint a korábbi engedélyes működési engedélyében meghatározott jogai és kötelezettségeinek gyakorlásának korlátozására vonatkozó részletes szabályokat,
 
 18. a jelentős piaci erő megállapítása szempontjából releváns piacok területi meghatározására, a piaci verseny hatékonyságának elemzésére, a nem kellően hatékony piacokon a jelentős piaci erővel rendelkező engedélyesek azonosítására és a 110–111. §-ok szerinti kötelezettségek tartalmára, alkalmazási feltételeire,
 
@@ -172,7 +172,7 @@ rendeletben állapítsa meg.
 
 rendeletben állapítsa meg.
 
-(4) Felhatalmazást kap az energiapolitikáért felelős miniszter, hogy – a számviteli szabályozásért felelős miniszterrel, valamint a fogyasztóvédelemért felelős miniszterrel egyetértésben – rendeletben szabályozza az egyetemes szolgáltatók által alkalmazható számlaképet.
+(4)
 
 (5) Felhatalmazást kap a Hivatal elnöke, hogy rendeletben állapítsa meg
 

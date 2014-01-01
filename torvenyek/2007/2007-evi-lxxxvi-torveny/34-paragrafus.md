@@ -1,6 +1,6 @@
 ## Közvilágítás
 
-34. § (1) Jogszabályban közvilágításra kötelezett (a továbbiakban: közvilágításra kötelezett), továbbá az e kötelezettséget átvállaló személy jogosult közvilágítási berendezést az elosztóhálózat tartószerkezetén és létesítményeiben elhelyezni és üzemben tartani. Az elosztó köteles ezt tűrni és együttműködni. Az elosztó az e rendelkezés szerinti tűrésért és együttműködésért a közvilágítási elosztási díjon felül külön ellenszolgáltatásra nem jogosult.
+34. § (1) A külön törvényben közvilágításról való gondoskodásra kötelezett (a továbbiakban: közvilágításra kötelezett), továbbá az e kötelezettséget átvállaló személy jogosult közvilágítási berendezést az elosztóhálózat tartószerkezetén és létesítményeiben elhelyezni és üzemben tartani. Az elosztó köteles ezt tűrni és együttműködni. Az elosztó az e rendelkezés szerinti tűrésért és együttműködésért a közvilágítási elosztási díjon felül külön ellenszolgáltatásra nem jogosult.
 
 (2) A közvilágítási elosztó hálózat használata után közvilágítási elosztási díjat kell fizetni, amely fedezetet nyújt az elosztónak a közvilágítási elosztó hálózattal összefüggésben keletkezett költségeire.
 

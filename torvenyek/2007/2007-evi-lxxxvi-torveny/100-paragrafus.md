@@ -10,7 +10,7 @@
 
 (3) A (2) bekezdésben megfogalmazott függetlenség biztosítása érdekében legalább a következő követelmények teljesítése szükséges:
 
-a) a hálózati engedélyes e törvény szerint engedélyköteles más tevékenységet nem folytathat;
+a) a hálózati engedélyes a közvilágítási üzemeltetési tevékenység kivételével e törvény szerint engedélyköteles más tevékenységet nem folytathat;
 
 b) a hálózati engedélyes – a szervezett villamosenergia-piaci engedélyest és más hálózati engedélyest kivéve – nem szerezhet részesedést más engedélyesben;
 

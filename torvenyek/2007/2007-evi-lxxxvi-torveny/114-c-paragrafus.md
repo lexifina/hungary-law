@@ -2,6 +2,6 @@
 
 a) a jogkövetkezményre való utalás mellett felszólítja az előírások betartására, illetve
 
-b) a Vhr.-ben meghatározott mértékű bírságot szab ki.
+b) ha az a) pont szerinti felszólításnak a kötelezett határidőben nem tett eleget, a Vhr.-ben meghatározott mértékű bírságot szab ki.
 
 (2) Bírság kiszabása esetén a 98. § rendelkezéseit megfelelően alkalmazni kell.
