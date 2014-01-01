@@ -24,7 +24,7 @@ g) a birtok-összevonási célú önkéntes földcsere keretében létrejött me
 
 h) a végrehajtási eljárásban az árverés, nyilvános pályázat kitűzése tényének és időpontjának feljegyzésére, valamint az árverés sikertelensége és a pályázat eredménytelensége esetén annak törlésére irányuló eljárás;
 
-i) a közérdekű bejelentés, javaslat és a panasz elbírálására, valamint a közigazgatási hatóság és a büntetőügyben eljáró bíróság által elrendelt zárlat, a büntető ügyben eljáró bíróság által elrendelt zár alá vétel, továbbá az ügyész és a nyomozó hatóság által elrendelt zár alá vételt megelőző biztosítási intézkedés tényének feljegyzésére és törlésére, továbbá a büntetőeljárás megindításának feljegyzésére és törlésére irányuló eljárás;
+i) a közérdekű bejelentés, javaslat és a panasz elbírálására, valamint a közigazgatási hatóság és a büntetőügyben eljáró bíróság által elrendelt zárlat, az ügyész, a nyomozó hatóság és a büntető ügyben eljáró bíróság által elrendelt zár alá vétel tényének feljegyzésére és törlésére, továbbá a büntetőeljárás megindításának feljegyzésére és törlésére irányuló eljárás;
 
 j) a költségmentesség engedélyezése iránti eljárás;
 
@@ -38,6 +38,12 @@ lb) a visszavásárlási jog bejegyzésére irányuló eljárás,
 
 lc) a Nemzeti Eszközkezelő Zrt. javára történő vagyonkezelői jog bejegyzésére irányuló eljárás;
 
-m) az ingatlan közigazgatási címének közterületnév-változás miatt történő átvezetése iránti megkeresés alapján indult eljárás díja, ha az eljárás megindítására a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 14. § (2) bekezdésébe foglalt tilalomba ütközés miatti közterületnév-változás miatt kerül sor.
+m) az ingatlan közigazgatási címének közterületnév-változás miatt történő átvezetése iránti megkeresés alapján indult eljárás díja, ha az eljárás megindítására a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 14. § (2) bekezdésébe foglalt tilalomba ütközés miatti közterületnév-változás miatt kerül sor;
+
+n) a nagyvízi mederben való elhelyezkedés tényének mint jogi jellegnek a feljegyzése,
+
+o) a vízfolyás mint művelés alól kivett terület bejegyzése, valamint a parti sáv mint jogi jelleg feljegyzése,
+
+p) vizek és vízilétesítmények vagyonkezelői jogának vízügyi igazgatási szerv vagy a helyi önkormányzat részére történő bejegyzése.
 
 (2) A mentesség fennállásáról a kérelmező az eljárás megindításakor köteles nyilatkozni.
