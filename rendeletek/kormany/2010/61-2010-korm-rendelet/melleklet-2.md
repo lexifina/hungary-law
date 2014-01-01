@@ -8,13 +8,13 @@
 
 | 3. |  |  | építésügyi hatósági eljárások (a telekalakítási eljárás kivételével) | Debreceni Járási Hivatal járási építésügyi és örökségvédelmi hivatala | Hajdú-Bihar Megyei Kormányhivatal építésügyi és örökségvédelmi hivatala |
 
-| 4. |  |  | környezetvédelmi hatósági eljárások | Tiszántúli Környezetvédelmi Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség |
+| 4. |  |  | környezetvédelmi hatósági eljárások | Tiszántúli Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Felügyelőség |
 
 | 5. |  |  | útügyi hatósági eljárások gyorsforgalmi út és 30 méter szabad nyílást meghaladó közúti híd esetében | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
 
 | 6. |  |  | útügyi hatósági eljárások a C:5 mezőben foglaltakon kívüli egyéb országos közút, a helyi közút és a közforgalom elől el nem zárt magánút esetében | Hajdú-Bihar Megyei Kormányhivatal Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
-| 7. |  |  | vízjogi hatósági eljárások | Tiszántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség |
+| 7. |  |  | vízjogi hatósági eljárások | Tiszántúli Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
 | 8. |  |  | földvédelmi hatósági eljárások | illetékes járási földhivatal | Hajdú-Bihar Megyei kormányhivatal földhivatala |
 
@@ -50,7 +50,7 @@
 
 | 24. |  |  | egészségügyi eljárások | Jász-Nagykun-Szolnok Megyei Kormányhivatal Népegészségügyi Szakigazgatási Szerve | Országos Tisztifőorvosi Hivatal |
 
-| 25. |  |  | üvegházhatású gázkibocsátással járó tevékenység hatósági engedélyezési eljárása | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |  |
+| 25. |  |  | üvegházhatású gázkibocsátással járó tevékenység hatósági engedélyezési eljárása | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |  |
 
 2. melléklet a 61/2010. (III. 18.) Korm. rendelethez[^4]
 
@@ -62,7 +62,9 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 2. | építésügy | Debreceni Járási Hivatal járási építésügyi és örökségvédelmi hivatala | Hajdú-Bihar Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
-| 3. | környezetvédelem, természetvédelem és vízügy | Tiszántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 3. | környezetvédelem, természetvédelem | Tiszántúli Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+
+| 3a. | vízügy | Tiszántúli Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
 | 4. | közlekedés gyorsforgalmi út és 30 méter szabad nyílást meghaladó közúti híd esetében | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
 
@@ -102,4 +104,4 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 22. | élelmiszer-biztonság | Hajdú-Bihar Megyei Kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-[^4]: A 2. melléklet a 351/2010. (XII. 30.) Korm. rendelet 275. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 33. §-a, a 23/2012. (II. 29.) Korm. rendelet 53. §-a, a 296/2012. (X. 17.) Korm. rendelet 44. §-a, a 394/2012. (XII. 20.) Korm. rendelet 39. §-a szerint módosított szöveg.
+[^4]: A 2. melléklet a 351/2010. (XII. 30.) Korm. rendelet 275. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 33. §-a, a 23/2012. (II. 29.) Korm. rendelet 53. §-a, a 296/2012. (X. 17.) Korm. rendelet 44. §-a, a 394/2012. (XII. 20.) Korm. rendelet 39. §-a, az 527/2013. (XII. 30.) Korm. rendelet 86. § (2) bekezdése szerint módosított szöveg.
