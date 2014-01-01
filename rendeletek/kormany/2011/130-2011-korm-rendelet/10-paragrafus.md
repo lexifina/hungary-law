@@ -1,1 +1,3 @@
-## 9. § Amennyiben a Szolgálatok alaptevékenységük ellátása érdekében saját felhasználás céljából eszközöket, illetve termékeket állítanak elő, ezen eszközök, illetve termékek vonatkozásában nem kell az államháztartás szervezetei beszámolási és könyvvezetési kötelezettségének sajátosságairól szóló 249/2000. (XII. 24.) Korm. rendelet 8. § (14) bekezdése szerinti, önköltségszámítás rendjére vonatkozó szabályokat alkalmazni.
+## 9. §[^5] Ha a Szolgálatok alaptevékenységük ellátása érdekében saját felhasználás céljából eszközöket, illetve termékeket állítanak elő, ezen eszközök, illetve termékek vonatkozásában nem kell az Áhsz. 50. § (3) bekezdésében meghatározott önköltségszámítás rendjére vonatkozó szabályokat alkalmazni.
+
+[^5]: A 9. § az 553/2013. (XII. 31.) Korm. rendelet 5. §-ával megállapított szöveg.

@@ -1,3 +1,1 @@
-## 12. §[^2] A Szolgálatokat érintő belső ellenőrzésekre vonatkozóan a fejezetet irányító szerv vezetője az éves ellenőrzési terv, valamint az összeállított összefoglaló éves ellenőrzési terv, továbbá a belső ellenőrzési vezető az éves ellenőrzési jelentés és összefoglaló éves ellenőrzési jelentés elkészültéről a költségvetési szervek belső ellenőrzéséről szóló kormányrendeletben meghatározott határidőig tájékoztatja az államháztartásért felelős minisztert, valamint a Kormányzati Ellenőrzési Hivatal elnökét.
-
-[^2]: A 12. § a 370/2011. (XII. 31.) Korm. rendelet 61. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 58. §-át.
+13. §

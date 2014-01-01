@@ -1,35 +1,53 @@
 ## 4. Beszámolási rendszer és adatszolgáltatás
 
-7. § (1) A Szolgálatok költségvetését (kiadásait és bevételeit) az éves költségvetési törvény és az éves költségvetés végrehajtásáról szóló törvény előkészítése és az Országgyűlés elé terjesztése során Szolgálatonként, a költségvetési törvényben szereplő kiemelt előirányzatok szerinti bontásban kell szerepeltetni. A törvényjavaslatok indoklását is ezen részletezés szerint kell elkészíteni.
+7. §[^3] (1) A Szolgálatok költségvetését a központi költségvetési tervezésnél Szolgálatonként, kiemelt előirányzatok szerinti bontásban kell szerepeltetni.
 
-(2) A Szolgálatok a Nemzetgazdasági Minisztérium előírásai szerinti éves költségvetési javaslat és az éves költségvetési törvény végrehajtásáról szóló éves elemi költségvetési beszámoló tervezetét, továbbá a jogszabályokban előírt adatszolgáltatásokat (elemi költségvetés, éves és féléves elemi költségvetési beszámoló) a fejezetet irányító szerv részére küldik meg.
+(2) A Szolgálatok a jogszabályokban meghatározott adatszolgáltatásokat a fejezetet irányító szerv részére küldik meg.
 
-(3) A fejezetet irányító szerv a Nemzetgazdasági Minisztérium előírásai szerinti éves költségvetés javaslatát és az éves költségvetési törvény végrehajtásáról szóló éves elemi költségvetési beszámoló tervezetét a Nemzetgazdasági Minisztérium illetékes szervének, valamint az Országgyűlés Nemzetbiztonsági Bizottságának küldi meg. Az elemi költségvetést és az elemi beszámolót a fejezetet irányító szerv a Nemzetgazdasági Minisztérium illetékes szervének küldi meg.
+(3) A fejezetet irányító szerv a Szolgálatokra vonatkozó éves költségvetés javaslatát, az elemi költségvetést és az éves beszámolót az államháztartásért felelős miniszternek és az Országgyűlés nemzetbiztonsági ügyekkel foglalkozó bizottságának küldi meg. Az elemi költségvetést és az éves költségvetési beszámolót a Kincstárhoz a (8) bekezdésben meghatározott adattartalommal kell benyújtani. Az éves költségvetési beszámolóhoz a Szolgálatok szöveges indokolást készítenek, és azt a fejezetet irányító szerv részére megküldik.
 
-(4) A fejezetet irányító szerv a jogszabályokban előírt, a (2) bekezdésben fel nem sorolt adatszolgáltatásokat a (8) bekezdés szerint meghatározott összevont formában a Nemzetgazdasági Minisztérium illetékes szervének küldi meg. Az államháztartás működési rendjéről szóló 292/2009. (XII. 19.) Korm. rendelet (a továbbiakban: Ámr.) 230. § (3) bekezdése szerinti adategyeztetés is csak az e bekezdés szerinti adatokkal történhet.
+(4) A fejezetet irányító szerv a Szolgálatokra vonatkozó, jogszabályban meghatározott adatszolgáltatásokat a (8) bekezdésben meghatározott összevont adattartalommal a Kincstárnak és az államháztartásért felelős miniszternek küldi meg.
 
-(5) A (3) bekezdés szerinti részletezések nem tartalmazhatnak a Szolgálatok létszámára és személyi juttatásaira vonatkozóan „hivatásos” és „közalkalmazott” felosztásnál részletesebb bontású adatokat.
+(5) A kincstári költségvetési jelentéshez a Szolgálatok az államháztartás számviteléről szóló 4/2013. (I. 11.) Korm. rendelet (a továbbiakban: Áhsz.) szerint a költségvetési számvitelben elszámolt adataikról a (8) bekezdés szerinti tartalommal szolgáltatnak adatot a Kincstárnak a tárgyhónapot követő hónap tízedik napjáig.
 
-(6) A Szolgálatok a költségvetésük végrehajtásáról saját módosított teljesítés szemléletű adataikból a vonatkozó jogszabály szerinti havi pénzforgalmi jelentést készítenek, és a Kincstárnak, valamint a fejezetet irányító szervnek a tárgyhónapot követő hónap tizedik napjáig küldik meg.
+(6) Az államháztartás végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) 169. § (1) bekezdése szerinti időközi költségvetési jelentést a Szolgálatok az (5) bekezdésében meghatározott adattartalommal készítik el.
 
 (7) A Szolgálatok időközi mérlegjelentéseit a fejezetet irányító szerv a Kincstárnak nem továbbítja.
 
 (8) Az adatszolgáltatásokról készített összesítésekben a Szolgálatok által megadott
 
-a) személyi juttatások kiemelt előirányzatot az „Alapilletmények”,
+1. személyi juttatások kiemelt előirányzatot a „K1101. Törvény szerinti illetmények, munkabérek” rovaton,
 
-b) a munkaadókat terhelő járulékok kiemelt előirányzatot a „Társadalombiztosítási járulék”,
+2. a munkaadókat terhelő járulékok és szociális hozzájárulási adó kiemelt előirányzatot a „K2. Munkaadókat terhelő járulékok és szociális hozzájárulási adó” rovaton,
 
-c) a dologi kiadások kiemelt előirányzatot az „Egyéb dologi kiadások”,
+3. a dologi kiadások kiemelt előirányzatot a „K355. Egyéb dologi kiadások” rovaton,
 
-d) az ellátottak pénzbeli juttatásai kiemelt előirányzatot a „Támogatásértékű működési kiadás társadalombiztosítási alapok kezelőinek”,
+4. az ellátottak pénzbeli juttatásai előirányzatot a „K48. Egyéb nem intézményi ellátások” rovaton,
 
-e) az intézményi beruházások kiemelt előirányzatot a „Gépek, berendezések és felszerelések vásárlása, létesítése”,
+5. az egyéb működési célú kiadások kiemelt előirányzatot „K511. Egyéb működési célú támogatások államháztartáson kívülre”, és „K506. Egyéb működési célú támogatások államháztartáson belülre” rovaton,
 
-f) a felújítások kiemelt előirányzatot az „Ingatlanok felújítása”,
+6. a beruházások kiemelt előirányzatot a „K64. Egyéb tárgyi eszközök beszerzése, létesítése” rovaton,
 
-g) kölcsönök kiemelt előirányzatot a „Felhalmozási célú támogatási kölcsön nyújtása államháztartáson kívülre”,
+7. a felújítások kiemelt előirányzatot a „K71. Ingatlanok felújítása” rovaton,
 
-h) az intézményi működési bevételek kiemelt előirányzatot az „Egyéb sajátos bevétel”,
+8. az egyéb felhalmozási célú kiadások kiemelt előirányzatot a „K88 Egyéb felhalmozási célú támogatások államháztartáson kívülre”, és „K84 Egyéb felhalmozási célú támogatások államháztartáson belülre” rovaton,
 
-i) a felhalmozási bevételek kiemelt előirányzatot a „Gépek, berendezések, felszerelések értékesítése”
+9. a működési célú támogatások államháztartáson belülről kiemelt előirányzatot a „B16 Egyéb működési célú támogatások bevételei államháztartáson belülről” rovaton,
+
+10. a felhalmozási célú támogatások államháztartáson belülről kiemelt előirányzatot a „B25 Egyéb felhalmozási célú támogatások bevételei államháztartáson belülről” rovaton,
+
+11. működési bevételek kiemelt előirányzatot a „B410 Egyéb működési bevételek” rovaton,
+
+12. a felhalmozási bevételek előirányzatot a „B53. Egyéb tárgyi eszközök értékesítése” rovaton,
+
+13. a működési célú átvett pénzeszközök kiemelt előirányzatot a „B63 Egyéb működési célú átvett pénzeszközök” rovaton,
+
+14. a felhalmozási célú átvett pénzeszközök kiemelt előirányzatot a „B73 Egyéb felhalmozási célú átvett pénzeszközök” rovaton,
+
+15. a finanszírozási bevételek kiemelt előirányzatot a maradvány igénybevétele kivételével a „B816. Központi, irányító szervi támogatás” rovaton,
+
+16. a maradvány igénybevételt a „B813 Maradvány igénybevétele” rovaton
+
+kell megjeleníteni.
+
+[^3]: A 7. § az 553/2013. (XII. 31.) Korm. rendelet 3. §-ával megállapított szöveg.

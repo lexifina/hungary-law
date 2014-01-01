@@ -7,3 +7,5 @@ a) az Információs Hivatalra,
 b) az Alkotmányvédelmi Hivatalra, és
 
 c) a Nemzetbiztonsági Szakszolgálatra
+
+(a továbbiakban együtt: Szolgálatok).
