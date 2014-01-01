@@ -6,10 +6,10 @@
 
 a) a továbbképzés szervezőjét a nyilvántartási számról,
 
-b)[^10] az EEKH-t a nyilvántartási számról, valamint a 3. melléklet szerinti adatokról
+b)[^12] az EEKH-t a nyilvántartási számról, valamint a 3. melléklet szerinti adatokról
 
 értesíti. A GYEMSZI a nyilvántartásba vett továbbképzéseket a honlapján közzéteszi. A nyilvántartás a 3. melléklet szerinti adatokat tartalmazza.
 
 (3) A (2) bekezdés alapján nyilvántartásba vett továbbképzéseket a MESZK a honlapján folyamatosan hozzáférhetővé teszi.
 
-[^10]: A 12. § (2) bekezdés b) pontja a 2/2013. (I. 2.) EMMI rendelet 25. § e) pontja szerint módosított szöveg.
+[^12]: A 12. § (2) bekezdés b) pontja a 2/2013. (I. 2.) EMMI rendelet 25. § e) pontja szerint módosított szöveg.
