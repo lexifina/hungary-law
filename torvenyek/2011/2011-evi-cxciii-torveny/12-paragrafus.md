@@ -20,9 +20,7 @@ a) olyan személyes ügylet végrehajtása, amely
 
 aa) bennfentes kereskedelmet vagy piacbefolyásolást valósítana meg,
 
-ab) üzleti titok, értékpapírtitok, biztosítási titok, banktitok vagy az adatvédelemről szóló jogszabályok által védett információ jogszerűtlen feltárásával vagy felhasználásával jár, vagy
-
-ac) ügylet ellentétben áll a befektetési alapkezelő e törvényben vagy a Bszt.-ben meghatározott kötelezettségeivel;
+ab) üzleti titok, értékpapírtitok, biztosítási titok, fizetési titok, banktitok vagy az adatvédelemről szóló jogszabályok által védett információ jogszerűtlen feltárásával vagy felhasználásával jár, vagy
 
 b) harmadik személy részére történő, az érintett személy munkaköri kötelezettségét meghaladó tanácsadás vagy harmadik személy bíztatása arra, hogy pénzügyi eszközökre vonatkozó olyan ügyletbe kezdjen, amely ha az érintett személy személyes ügylete lenne, vonatkozna rá az a) pont vagy a Bszt. 77. §-ának (1)–(2) bekezdése, illetve a folyamatban lévő megbízásokra vonatkozó információkkal való visszaélésnek minősülne;
 

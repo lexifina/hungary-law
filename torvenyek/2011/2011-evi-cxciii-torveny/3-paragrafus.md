@@ -148,7 +148,7 @@ c) létesítő okirat, megállapodás alapján döntő befolyást gyakorolhat a 
 
 62. származtatott ügylet: a Tpt.-ben meghatározott fogalom;
 
-63. szavatoló tőke: a Hpt. 5. számú melléklete szerint meghatározott fogalom;
+63. szavatoló tőke: a hitelintézetekre és befektetési vállalkozásokra vonatkozó prudenciális követelményekről és a 648/2012/EU rendelet módosításáról szóló 575/2013/EU rendelet 25–91. cikk szerint meghatározott fogalom;
 
 64. szoros kapcsolat:
 
