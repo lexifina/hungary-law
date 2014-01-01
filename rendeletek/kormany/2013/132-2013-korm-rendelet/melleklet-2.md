@@ -504,7 +504,7 @@
 
 | 10. | Azon beépített tűzoltó berendezések létesítésével és használatbavételi ügyeivel kapcsolatos eljárások, amelyek tervezése, kivitelezése jogszabályban, nemzeti szabványban teljes körűen nem szabályozott | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-2. melléklet a 132/2013. (V. 9.) Korm. rendelethez
+2. melléklet a 132/2013. (V. 9.) Korm. rendelethez[^4]
 
 A nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításához szükséges hatósági engedélyezési eljárásokban közreműködő, hatáskörrel rendelkező szakhatóságok az egyes megyékben és Budapesten
 
@@ -516,7 +516,9 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósí
 
 | 2. | építésügy | Debreceni Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Hajdú-Bihar Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
-| 3. | környezetvédelem, természetvédelem és vízügy | Tiszántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 3. | környezetvédelem, természetvédelem | Tiszántúli Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+
+| 3a. | vízügy | Tiszántúli Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
 | 4. | közlekedés (közút) | Hajdú-Bihar Megyei Kormányhivatal Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
@@ -546,7 +548,9 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósí
 
 | 2. | építésügy | Szekszárdi Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Tolna Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
-| 3. | környezetvédelem, természetvédelem és vízügy | Dél-dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 3. | környezetvédelem és természetvédelem | Dél-dunántúli Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+
+| 3a. | vízügy | Dél-dunántúli Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
 | 4. | közlekedés (közút) | Tolna Megyei Kormányhivatal Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
@@ -576,7 +580,9 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósí
 
 | 2. | építésügy | Szegedi Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Csongrád Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
-| 3. | környezetvédelem, természetvédelem és vízügy | Alsó-Tisza-vidéki Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 3. | környezetvédelem és természetvédelem | Alsó-Tisza-vidéki Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+
+| 3a. | vízügy | Alsó-Tisza-vidéki Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
 | 4. | közlekedés (közút) | Csongrád Megyei Kormányhivatal Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
@@ -606,7 +612,9 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósí
 
 | 2. | építésügy | Egri Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Heves Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
-| 3. | környezetvédelem, természetvédelem és vízügy | Észak-magyarországi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 3. | környezetvédelem és természetvédelem | Észak-magyarországi Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+
+| 3a. | vízügy | Észak-magyarországi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
 | 4. | közlekedés (közút) | Heves Megyei Kormányhivatal Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
@@ -636,7 +644,9 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósí
 
 | 2. | építésügy | Békéscsabai Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Békés Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
-| 3. | környezetvédelem, természetvédelem és vízügy | Alsó-Tisza-vidéki Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 3. | környezetvédelem és természetvédelem | Alsó-Tisza-vidéki Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+
+| 3a. | vízügy | Alsó-Tisza-vidéki Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
 | 4. | közlekedés (közút) | Békés Megyei Kormányhivatal Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
@@ -666,7 +676,9 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósí
 
 | 2. | építésügy | Tatabányai Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Komárom-Esztergom Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
-| 3. | környezetvédelem, természetvédelem és vízügy | Közép-dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 3. | környezetvédelem és természetvédelem | Közép-dunántúli Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+
+| 3a. | vízügy | Közép-dunántúli Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
 | 4. | közlekedés (közút) | Komárom-Esztergom Megyei Kormányhivatal Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
@@ -696,7 +708,9 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósí
 
 | 2. | építésügy | Szombathelyi Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Vas Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
-| 3. | környezetvédelem, természetvédelem és vízügy | Észak-dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 3. | környezetvédelem és természetvédelem | Észak-dunántúli Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+
+| 3a. | vízügy | Észak-dunántúli Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
 | 4. | közlekedés (közút) | Vas Megyei Kormányhivatal Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
@@ -726,7 +740,9 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósí
 
 | 2. | építésügy | Nyíregyházi Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Szabolcs-Szatmár-Bereg Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
-| 3. | környezetvédelem, természetvédelem és vízügy | Tiszántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 3. | környezetvédelem és természetvédelem | Tiszántúli Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+
+| 3a. | vízügy | Tiszántúli Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
 | 4. | közlekedés (közút) | Szabolcs-Szatmár-Bereg Megyei Kormányhivatal Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
@@ -756,7 +772,9 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósí
 
 | 2. | építésügy | Salgótarjáni Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Nógrád Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
-| 3. | környezetvédelem, természetvédelem és vízügy | Észak-magyarországi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 3. | környezetvédelem és természetvédelem | Észak-magyarországi Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+
+| 3a. | vízügy | Észak-magyarországi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
 | 4. | közlekedés (közút) | Nógrád Megyei Kormányhivatal Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
@@ -786,7 +804,9 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósí
 
 | 2. | építésügy | Kecskeméti Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Bács-Kiskun Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
-| 3. | környezetvédelem, természetvédelem és vízügy | Közép-Tisza-vidéki Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 3. | környezetvédelem és természetvédelem | Közép-Tisza-vidéki Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+
+| 3a. | vízügy | Közép-Tisza-vidéki Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
 | 4. | közlekedés (közút) | Bács-Kiskun Megyei Kormányhivatal Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
@@ -816,7 +836,9 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósí
 
 | 2. | építésügy | Veszprémi Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Veszprém Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
-| 3. | környezetvédelem, természetvédelem és vízügy | Észak-dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 3. | környezetvédelem és természetvédelem | Észak-dunántúli Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+
+| 3a. | vízügy | Észak-dunántúli Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
 | 4. | közlekedés (közút) | Veszprém Megyei Kormányhivatal Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
@@ -846,7 +868,9 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósí
 
 | 2. | építésügy | Szolnoki Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Jász-Nagykun-Szolnok Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
-| 3. | környezetvédelem, természetvédelem és vízügy | Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 3. | környezetvédelem és természetvédelem | Közép-Duna-völgyi Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+
+| 3a. | vízügy | Közép-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
 | 4. | közlekedés (közút) | Jász-Nagykun-Szolnok Megyei Kormányhivatal Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
@@ -876,7 +900,9 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósí
 
 | 2. | építésügy | Budapest Főváros Kormányhivatala I. Kerületi Hivatalának Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
-| 3. | környezetvédelem, természetvédelem és vízügy | Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 3. | környezetvédelem és természetvédelem | Közép-Duna-völgyi Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+
+| 3a. | vízügy | Közép-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
 | 4. | közlekedés (közút) | Budapest Főváros Kormányhivatala Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
@@ -906,7 +932,9 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósí
 
 | 2. | építésügy | Budapest Főváros Kormányhivatala V. Kerületi Hivatalának Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
-| 3. | környezetvédelem, természetvédelem és vízügy | Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 3. | környezetvédelem és természetvédelem | Közép-Duna-völgyi Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+
+| 3a. | vízügy | Közép-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
 | 4. | közlekedés (közút) | Budapest Főváros Kormányhivatala Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
@@ -936,7 +964,9 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósí
 
 | 2. | építésügy | Pécsi Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Baranya Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
-| 3. | környezetvédelem, természetvédelem és vízügy | Dél-dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 3. | környezetvédelem és természetvédelem | Dél-dunántúli Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+
+| 3a. | vízügy | Dél-dunántúli Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
 | 4. | közlekedés (közút) | Baranya Megyei Kormányhivatal Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
@@ -966,7 +996,9 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósí
 
 | 2. | építésügy | Miskolci Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Borsod-Abaúj-Zemplén Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
-| 3. | környezetvédelem, természetvédelem és vízügy | Felső-Tisza-vidéki Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 3. | környezetvédelem és természetvédelem | Felső-Tisza-vidéki Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+
+| 3a. | vízügy | Felső-Tisza-vidéki Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
 | 4. | közlekedés (közút) | Borsod-Abaúj-Zemplén Megyei Kormányhivatal Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
@@ -996,7 +1028,9 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósí
 
 | 2. | építésügy | Székesfehérvári Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Fejér Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
-| 3. | környezetvédelem, természetvédelem és vízügy | Közép-dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 3. | környezetvédelem és természetvédelem | Közép-dunántúli Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+
+| 3a. | vízügy | Közép-dunántúli Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
 | 4. | közlekedés (közút) | Fejér Megyei Kormányhivatal Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
@@ -1026,7 +1060,9 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósí
 
 | 2. | építésügy | Zalaegerszegi Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Zala Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
-| 3. | környezetvédelem, természetvédelem és vízügy | Nyugat-dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 3. | környezetvédelem és természetvédelem | Nyugat-dunántúli Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+
+| 3a. | vízügy | Nyugat-dunántúli Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
 | 4. | közlekedés (közút) | Zala Megyei Kormányhivatal Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
@@ -1056,7 +1092,9 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósí
 
 | 2. | építésügy | Győri Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Győr-Moson-Sopron Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
-| 3. | környezetvédelem, természetvédelem és vízügy | Közép-dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 3. | környezetvédelem és természetvédelem | Közép-dunántúli Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+
+| 3a. | vízügy | Közép-dunántúli Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
 | 4. | közlekedés (közút) | Győr-Moson-Sopron Kormányhivatal Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
@@ -1086,7 +1124,9 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósí
 
 | 2. | építésügy | Kaposvári Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Somogy Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
-| 3. | környezetvédelem, természetvédelem és vízügy | Nyugat-dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 3. | környezetvédelem és természetvédelem | Nyugat-dunántúli Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+
+| 3a. | vízügy | Nyugat-dunántúli Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
 | 4. | közlekedés (közút) | Somogy Megyei Kormányhivatal Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
@@ -1116,7 +1156,9 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósí
 
 | 2. | építésügy | Érdi Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Pest Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
-| 3. | környezetvédelem, természetvédelem és vízügy | Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 3. | környezetvédelem és természetvédelem | Közép-Duna-völgyi Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+
+| 3a. | vízügy | Közép-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
 | 4. | közlekedés (közút) | Pest Megyei Kormányhivatal Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
@@ -1137,3 +1179,5 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósí
 | 12. | régészet és műemlékvédelem | Érdi Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Pest Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala vagy régészet esetén a régészeti örökség és műemléki érték védelméért felelős miniszter |
 
 | 13. | honvédelem | Honvédelmi Minisztérium Hatósági Hivatal igazgatója | honvédelemért felelős miniszter |
+
+[^4]: A 2. melléklet az 527/2013. (XII. 30.) Korm. rendelet 141. §-a szerint módosított szöveg.
