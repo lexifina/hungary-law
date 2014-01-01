@@ -12,7 +12,7 @@ c) az igazságügyi szakértői intézménnyel (a továbbiakban: egyéb igazság
 
 létesített szolgálati jogviszonyra (a továbbiakban: szolgálati jogviszony) terjed ki.
 
-(2) Az (1) bekezdésben megjelölt igazságügyi szerv (a továbbiakban: igazságügyi szerv) által fenntartott üdülők, bölcsődék és óvodák dolgozói a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény hatálya alá tartoznak.
+(2) Az (1) bekezdésben megjelölt igazságügyi szerv (a továbbiakban: igazságügyi szerv) által fenntartott bölcsődék és óvodák dolgozói a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény hatálya alá tartoznak.
 
 (3) A katonai tanácsokkal rendelkező bíróságokon igazságügyi alkalmazottként hivatásos szolgálati viszonyban álló katonák, az OBH-nál – honvédelmi és polgári védelmi feladatok ellátására – a Magyar Honvédség, illetve a rendvédelmi szervek, valamint a Nemzeti Adó- és Vámhivatal hivatásos szolgálati viszonyban álló tagjai vezénylés alapján teljesíthetnek szolgálatot.
 

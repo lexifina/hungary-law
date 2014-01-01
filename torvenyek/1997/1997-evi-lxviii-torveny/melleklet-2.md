@@ -36,7 +36,7 @@ Az igazságügyi alkalmazottak személyi nyilvántartásának adatköre
 
 – a korábbi tevékenységek és a vonatkozó munkahelyek megnevezése, a belépés és kilépés időpontjai, a beosztások (munkakörök) megjelölése, a beszámított jogviszonyok megszűnésének jogcímei,
 
-– a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány száma és kelte.
+– a bűnügyi nyilvántartó szerv által kiállított hatósági erkölcsi bizonyítvány száma és kelte.
 
 5. Az igazságügyi szervnél a kinevezés utáni beosztások,
 

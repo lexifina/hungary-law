@@ -10,7 +10,7 @@
 
 (6) Az irányadó időszakban kifizetett, de az irányadó időszakot meghaladó, meghatározott időtartamra járó javadalmazásnak, továbbá az irányadó időszakon kívüli időben kifizetett, de az irányadó időszak alatti munkavégzés alapján járó javadalmazásnak csak az átlagszámítás alapjául figyelembe vehető időszakra eső – a (8) bekezdés szerinti osztószám figyelembevételével számított – (időarányos) részét kell az átlagszámításnál a kifizetett javadalmazás összegébe beszámítani.
 
-(7) Ha az igazságügyi alkalmazott szolgálati viszonya egy naptári hónapnál rövidebb, átlagilletményének a távolléti díjával azonos összeg tekintendő.
+(7) Ha az igazságügyi alkalmazott szolgálati viszonya egy naptári hónapnál rövidebb, átlagilletményének az illetményével azonos összeg tekintendő.
 
 (8) Az egy órára, illetve az egy munkanapra járó átlagilletményt úgy kell kiszámítani, hogy az igazságügyi alkalmazott irányadó időszaki javadalmazásának együttes összegét osztani kell az adott időszakban munkában töltött, valamint az illetménnyel fizetett, de munkában nem töltött órák, illetve munkanapok számával (együtt: osztószám).
 
