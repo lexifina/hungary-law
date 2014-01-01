@@ -26,6 +26,6 @@
 
 ## A DOKUMENTUM ÉRVÉNYESSÉGÉRE VONATKOZÓ SPECIÁLIS FELTÉTELEK / SPECIAL CONDITIONS FOR THE VALIDITY OF THE DOCUMENT:
 
-3. számú melléklet a 292/2008. (XII. 10.) Korm. rendelethez[^51]
+3. számú melléklet a 292/2008. (XII. 10.) Korm. rendelethez[^52]
 
-[^51]: A 3. számú melléklet a 41/2013. (II. 14.) Korm. rendelet 10. § g) pontja szerint módosított szöveg.
+[^52]: A 3. számú melléklet a 41/2013. (II. 14.) Korm. rendelet 10. § g) pontja, az 527/2013. (XII. 30.) Korm. rendelet 67. § b) pontja szerint módosított szöveg.
