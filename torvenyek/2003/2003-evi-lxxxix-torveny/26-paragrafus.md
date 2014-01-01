@@ -6,4 +6,6 @@
 
 (3) Felhatalmazást kap a Kormány, hogy az egyes környezetterhelési díjkedvezmények igénybevételére, a díjak díjvisszaigénylésének alkalmazására, a kibocsátott terhelő anyag mennyiség meghatározásának pontos módjára, valamint a díjfizetés áthárítására vonatkozó részletes szabályokat rendeletben állapítsa meg.
 
+(3a) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki a vízvédelmi hatóságot.
+
 (4) A települési önkormányzatok rendeletben állapítják meg a helyi vízgazdálkodási hatósági jogkörbe tartozó szennyvízelhelyezéshez kapcsolódó talajterhelési díjjal kapcsolatban a 12. §-ban meghatározott általány megállapításának szempontjait, valamint a 21/A. §-ban meghatározottakat.

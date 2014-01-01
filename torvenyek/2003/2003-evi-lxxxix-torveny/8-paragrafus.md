@@ -10,4 +10,4 @@ d) a nehézfémek csoportjába tartozó vízterhelő anyag kibocsátása után, 
 
 e) az extenzív módon üzemeltetett halastavak esetén.
 
-(2) Az (1) bekezdés a) és b) pontja szerinti vízterhelő anyagok mennyiségét a vízszolgáltató köteles hiteles mérésekkel igazolt módon a kibocsátó rendelkezésére bocsátani. Amennyiben nem teljesíti fenti kötelezettségét, akkor az illetékes környezetvédelmi hatóság a méréseket elvégzi és a mérési díj ötszörösében állapítja meg a vízszolgáltatót ezért terhelő térítési kötelezettséget.
+(2) Az (1) bekezdés a) és b) pontja szerinti vízterhelő anyagok mennyiségét a vízszolgáltató köteles hiteles mérésekkel igazolt módon a kibocsátó rendelkezésére bocsátani. Ha nem teljesíti fenti kötelezettségét, akkor a vízvédelmi hatóság a méréseket elvégzi vagy elvégezteti, és a mérési díj ötszörösében állapítja meg a vízszolgáltatót ezért terhelő térítési kötelezettséget.
