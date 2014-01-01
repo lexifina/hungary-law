@@ -1,0 +1,63 @@
+17. § (1) Halászati engedély
+
+a) kereskedelmi célú halászat,
+
+b) ökológiai célú, szelektív halászat, illetve
+
+c) más hasznos víziállat kereskedelmi célú gyűjtése
+
+céljából 1 naptári évre adható ki. A halászati engedélyben meg kell jelölni a kiadás célját.
+
+(2) Az (1) bekezdés c) pontjára vonatkozó halászati engedély kiadásához nem szükséges a 16. § (1) bekezdés szerinti feltétel teljesülése.
+
+(3) A halászati engedély kiadásának feltétele, hogy a kérelmező rendelkezzen az érintett nyilvántartott halgazdálkodási vízterület halgazdálkodásra jogosultjával kötött, a halászati tevékenység végzésének részletes feltételeit tartalmazó szerződéssel (a továbbiakban: halászati szerződés). A halászati szerződés megszűnése esetén a halászati engedélyt a halgazdálkodási hatóság visszavonja.
+
+(4) A halászati szerződésben a halgazdálkodásra jogosult meghatározza a Hhvtv. és e rendelet előírásainak keretében azokat a fogási eszközöket és módokat, amelyeket a halászati engedélyes használhat, továbbá meghatározza a kifogható halak fajonkénti és összesített mennyiségét, valamint azt az ellenértéket, amellyel a halászati engedélyesnek évenként hozzá kell járulnia a nyilvántartott halgazdálkodási vízterület halgazdálkodási tevékenységéhez, a haltelepítésekhez.
+
+(5) A halászati engedély iránti kérelemhez mellékelni kell
+
+a) a halászati szerződés egy eredeti példányát, kivéve, ha az kérelmező a halgazdálkodásra jogosult is egyben, és
+
+b) a 16. § (2) bekezdésben foglalt feltételeknek való megfelelés igazolására szolgáló dokumentumok másolatát.
+
+(6) Ha a halászati engedélyt igénylő jogi személy, az engedély kiadásának előfeltételeivel a jogi személy szervezetében a halászatért felelős vezetőnek vagy legalább egy fő munkatársnak kell rendelkeznie. A jogi személy halászati engedélyében meg kell határozni, hogy az engedély birtokában hány halász folytathat halászati tevékenységet.
+
+(7) A jogi személy részére kiadott halászati engedély alapján, az engedélyben rögzített eszközök alkalmazására, a jogi személy által munkavállalói jogviszonyban alkalmazott, halász munkakörben vagy beosztásban lévő munkavállalók jogosultak.
+
+(8) Jogi személy számára kiadott halászati engedélyben az engedélyező halgazdálkodási hatóság e rendelet figyelembevételével állapítja meg az alkalmazható eszközök méretét és mennyiségét.
+
+(9) A Hhvtv. 38. § (4) bekezdése szerinti fogási tanúsítvány nyomtatványtömbön fel kell tüntetni a halászati engedélyes azonosító adatait, aki kizárólagosan jogosult az engedéllyel fogott hal kereskedelmi forgalomba hozatalára. A fogási tanúsítvány nyomtatványtömb és a halászati engedély egyéb adattartalmát a 2. melléklet tartalmazza. A fogási tanúsítvány nélküli vagy a nem valós adatokkal kitöltött fogási tanúsítvánnyal igazolt hal vagy haltermék igazolatlan eredetűnek minősül.
+
+(10) Kereskedelmi célú halászati engedéllyel csak az abban foglalt méretű és darabszámú eszköz használható, amelynek meghatározásakor a következő előírásokat kell betartani:
+
+a) egyedileg használatos aktív eszköz esetében a hálóterület dobó- és emelőhálók esetében nem lehet több, mint 16 m2, egyéb hálók esetében 150 m2,
+
+b) csoportosan használatos aktív eszköz esetében az egy időben halfogásra használt hálóterület nem lehet több, mint 300 m2,
+
+c) passzív eszközből adott nyilvántartott halgazdálkodási vízterületen hektáronként legfeljebb 1 db engedélyezhető, ami
+
+ca) varsa esetén legfeljebb 2 m első karika-átmérőjű,
+
+cb) egyéb eszköz esetén pedig legfeljebb 21 m2 hálóterületű halászeszköz lehet.
+
+(11) A kereskedelmi célú halászati engedéllyel rendelkező az általa használt valamennyi passzív halászeszközt úgy köteles jól látható módon megjelölni, hogy abból egyértelműen azonosítható legyen az eszközt használó halászati engedélyes. Az azonosításhoz fel kell tüntetni a halász nevét, a halászati engedély számát. A halászati engedélyes az általa használt jelölést a kormányhivatal földművelésügyi igazgatósága felé köteles bejelenteni.
+
+(12) A kereskedelmi célú halászati engedélyes köteles bejelenteni a halgazdálkodásra jogosultnak
+
+a) legkésőbb a halászat megkezdése előtt 24 órával, hogy hol és mikor halászik,
+
+b) a fogási zsákmány GPS koordinátákkal meghatározott kirakodási helyét, valamint idejét.
+
+(13) A halászati engedélyes kizárólag a (12) bekezdés szerint bejelentett helyen és időben rakodhatja ki a fogási zsákmányt.
+
+(14) Passzív halászeszközök csak úgy helyezhetők ki, hogy az eszközök között mért távolság sehol nem lehet kevesebb az alkalmazott varsa és terelő elemei teljes hosszának tízszeresénél, de minimum 50 méternél.
+
+(15) A halászati szerződésben a halgazdálkodásra jogosult kereskedelmi célú halászati engedély esetében a (9)–(14) bekezdésben meghatározottaktól szigorúbb korlátozásokat írhat elő, ha ezt halgazdálkodási tervében rögzíti.
+
+(16) Más hasznos víziállat gyűjtése során a halgazdálkodásra jogosult a halászati szerződésben köteles meghatározni a gyűjthető hasznos víziállat megnevezését, a használható gyűjtőeszközt és módszert, valamint a gyűjtés engedélyezett időszakát és a más hasznos víziállat gyűjthető mennyiségét.
+
+(17) Nyilvántartott halgazdálkodási vízterületenként legfeljebb 10 db vagy 2000 hektárnál nagyobb nyilvántartott halgazdálkodási vízterület esetén legfeljebb 200 hektáronként 1 db kereskedelmi célú halászatra jogosító halászati engedély adható ki.
+
+(18) Nem jogi személy számára kiadott halászati engedéllyel a halászati szerződésben meghatározott mennyiségű hal fogható, amely őshonos halakból nem haladhatja meg a kistermelői élelmiszer-termelés, -előállítás és -értékesítés feltételeiről szóló miniszteri rendelet szerint értékesíthető mennyiséget.
+
+(19) Jogi személy számára kiadott halászati engedélyben legfeljebb hektáronként 20 kg őshonos hal kifogása engedélyezhető évente.

@@ -1,0 +1,45 @@
+## 8. A halászat és a horgászat rendje alcímhez
+
+28. § (1) A védett és a fokozottan védett növény- és állatfajokról, a fokozottan védett barlangok köréről, valamint az Európai Közösségben természetvédelmi szempontból jelentős növény- és állatfajok közzétételéről szóló miniszteri rendeletben szereplő halfajok, körszájúak és más hasznos víziállatok nem foghatóak. E fajokra és a velük végzett tevékenységekre a természet védelmére vonatkozó jogszabályok előírásait kell alkalmazni.
+
+(2) A halgazdálkodási vízterületeken fogható és az (1) bekezdés hatálya alá nem tartozó, nem fogható őshonos halfajok felsorolását, valamint a vizeinkben rendszeresen előforduló idegenhonos halfajok jegyzékét a 8. melléklet tartalmazza.
+
+(3) A halgazdálkodási vízterületeken az egyes halfajok kifogható mérettartományát a 9. melléklet tartalmazza.
+
+(4) A halgazdálkodási vízterületeken egyes halfajok szerinti tilalmi idők meghatározását a 9. melléklet tartalmazza.
+
+(5) A Hhvtv. 15. § és 16. § alapján, a 9. mellékletben rögzítettektől egyes halgazdálkodási vízterületeken a kormányhivatal földművelésügyi igazgatósága – hivatalból vagy a jogosult kérelmére – határozatában eltérhet.
+
+(6) Az (5) bekezdés szerinti eltéréseket a kormányhivatal földművelésügyi igazgatósága meghatározott időre, de legfeljebb egyéves – a ponty esetében 10. § (5) bekezdés szerint legfeljebb 5 éves – időtartamra állapíthatja meg, amelyet a jogosultnak az adott évi területi jegyen vagy a 27. § (3) bekezdés szerinti területi jegy mellékleten fel kell tüntetnie.
+
+(7) Az (1)–(4) bekezdésben foglalt korlátozások, valamint az azoktól való, az (5) bekezdés szerinti eltérés a halászati és horgászati módszerekkel történő halfogásra érvényesek. A Hhvtv. 67. § (1) bekezdés k) pontja szerinti jogosulatlan kifogás az (5) bekezdésben meghatározott eltérésekben rögzített fogási korlátozások és tilalmi idők megszegésével is megvalósul.
+
+(8) Valamely fogási tilalom alá eső faj véletlenül megfogott egyedét vagy a méret- és mennyiségi korlátozások által tiltott halat – a halászeszközből kíméletesen eltávolítva vagy a horogtól óvatosan és gyorsan megszabadítva, vagy ha ez sérülésmentesen nem lehetséges, akkor a zsinórt a szájnyílás előtt elvágva – haladéktalanul vissza kell helyezni élőhelyére, akkor is, ha sérült, beteg vagy elpusztult.
+
+(9) A 9. mellékletben megállapított fajlagos tilalmi idők az első nap nulla órakor kezdődnek és az utolsó nap huszonnegyedik órájában végződnek. Ha az első nap szombatra vagy pihenőnapra esik, a tilalom az azt követő munkanapon lép érvénybe. Ha a tilalmi idő utolsó napja esik szombatra vagy pihenőnapra, a tilalom a közvetlenül megelőző munkanapon végződik.
+
+(10) Állami halászjeggyel vagy állami horgászjeggyel rendelkező személy nyilvántartott halgazdálkodási vízterületen e rendelet 9. melléklete szerinti napi darabszám-korlátozás alá tartozó őshonos halfajokból naponta fajonként 3 darabot, összesen legfeljebb 5 darabot foghat ki. A kifogott halat – a (13) bekezdés esetét is ideértve – korábban kifogottal kicserélni tilos.
+
+(11) Állami halászjeggyel vagy állami horgászjeggyel rendelkező személy nyilvántartott halgazdálkodási vízterületen a napi darabszám-korlátozással nem érintett őshonos halfajokból naponta összesen 10 kg-ot foghat ki.
+
+(12) A Hhvtv. 40. § (3) és (5) bekezdés szerinti horgász a 9. melléklet szerinti napi darabszám-korlátozás alá tartozó halfajokból naponta összesen 1 darabot, a napi darabszám-korlátozás alá nem eső őshonos halfajokból naponta összesen 5 kg-ot foghat ki.
+
+(13) Ha a horgász vagy a rekreációs halász olyan őshonos, napi darabszám-korlátozással nem érintett halat fog, amellyel a (11) és (12) bekezdésben megszabott súlyhatárt átlépi, a halat megtarthatja, de aznap további napi darabszám-korlátozással nem érintett őshonos halat nem foghat ki.
+
+(14) Tilos a megfogott halak kínzása. A megfogott és kifogott halakkal úgy kell bánni, hogy az azok számára okozott fizikai sérülés ne haladja meg a horgászmódszerből adódó szükséges minimumot. A megtartani nem kívánt halat – a 30. § (1) bekezdés alá eső horgászverseny kivételével – azonnal vissza kell helyezni a vízbe. A kifogott halakat azok elpusztításáig maradandó sérülést nem okozó módon élve kell tartani, vagy azonnal le kell ölni.
+
+(15) Horogra kívülről akadt halat megtartani tilos.
+
+(16) A szabályosan kifogott és elvinni kívánt halat a vízpartról elszállítani gyorsan és kíméletesen leölve szabad. A 30 cm-nél kisebb testhosszúságú hal elszállítható élve is, kizárólag olyan tárolóedényben, amely biztosítja a számára a szükséges oxigéntartalmú vizet, és minimalizálja az állatot érő stressz hatásokat.
+
+(17) Az őshonos halállomány védelme érdekében idegenhonos halakat a vízbe engedni, és az inváziós idegenhonos halakat visszaengedni tilos. Idegenhonos hallal csalizni kizárólag azon a halgazdálkodási vízterületen szabad, ahol a nem őshonos hal kifogásra került.
+
+(18) Tilos a szemetelés, vízi és vízparti növényzet csonkítása, kiirtása, a partvédelmet szolgáló építmények megbontása, károsítása.
+
+(19) November 1. és március 15. közötti időszakban a vermelő halállományok védelme érdekében szonár használata a halfogási tevékenységhez tilos.
+
+(20) A horgászat vagy a halászat megkezdésekor a horgász vagy a halász köteles megjelölni a fogási naplóban szereplő éves naptárban a horgászati vagy a halászati tevékenység megkezdésének napját. Vízi járműből végzett horgászat esetén a vízi jármű indulása számít a horgászat megkezdésének.
+
+(21) A horgászat vagy a halászat megkezdése előtt a fogási napló fogás összesítő táblázatában fel kell tüntetni a nyilvántartott halgazdálkodási vízterület megnevezését, valamint a területi jegyen szereplő víztérkódját.
+
+(22) A horgászatra jogosító okmányok birtokában a horgász más hasznos víziállatot saját használatra csalizás céljából gyűjthet.
