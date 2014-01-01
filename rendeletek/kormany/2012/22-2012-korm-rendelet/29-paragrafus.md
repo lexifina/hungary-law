@@ -1,6 +1,6 @@
-## 10. [^33] A halgazdálkodási hatósági eljárásokban közreműködő szakhatóságok
+## 10. [^49] A halgazdálkodási hatósági eljárásokban közreműködő szakhatóságok
 
-29. § (1) A Kormány
+29. § (1)[^50] A Kormány
 
 a) a védett természeti területen, Natura 2000 területen található halgazdálkodási vízterületen vagy annak egy részén az őshonos halfajokra meghatározott tilalmi idő megrövidítésére és a tilalmi idő alóli felmentés engedélyezésére irányuló,
 
@@ -20,8 +20,10 @@ h) a halgazdálkodási kíméleti területté nyilvánítás feloldására irán
 
 i) a védett természeti területen található halgazdálkodási vízterületen vagy annak egy részén a Hhvtv. 47. § (1) bekezdésében meghatározott
 
-másodfokú eljárásban az Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőséget természetvédelmi szakhatóságként jelöli ki.
+másodfokú eljárásban az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőséget, valamint Országos Vízügyi Hatóságot természetvédelmi szakhatóságként jelöli ki.
 
-(2) A Kormány a halgazdálkodási terv jóváhagyására, a jóváhagyott halgazdálkodási terv módosításának jóváhagyására, valamint a halgazdálkodási terv hivatalból történő módosítására irányuló másodfokú eljárásban vízilétesítmény esetén az Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőséget vízügyi szakhatóságként jelöli ki.
+(2)[^51] A Kormány a halgazdálkodási terv jóváhagyására, a jóváhagyott halgazdálkodási terv módosításának jóváhagyására, valamint a halgazdálkodási terv hivatalból történő módosítására irányuló másodfokú eljárásban vízilétesítmény esetén az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőséget, valamint Országos Vízügyi Hatóságot vízügyi szakhatóságként jelöli ki.
 
-[^33]: A 10. alcím (29. §) a 323/2013. (VIII. 28.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^49]: A 10. alcím (29. §) a 323/2013. (VIII. 28.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^50]: A 29. § (1) bekezdés záró szövegrésze az 527/2013. (XII. 30.) Korm. rendelet 112. § c) pontja szerint módosított szöveg.
+[^51]: A 29. § (2) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 112. § c) pontja szerint módosított szöveg.

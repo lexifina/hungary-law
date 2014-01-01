@@ -1,10 +1,10 @@
 ## 7. A talajvédelmi hatósági eljárásokban közreműködő szakhatóságok
 
-24. § (1) A Kormány a hígtrágya nitrátérzékeny területen történő mezőgazdasági felhasználása engedélyezésére irányuló másodfokú eljárásban – a felszín alatti vizek minőségének védelme kérdésében – az Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőséget szakhatóságként jelöli ki.
+24. § (1)[^33] A Kormány a hígtrágya nitrátérzékeny területen történő mezőgazdasági felhasználása engedélyezésére irányuló másodfokú eljárásban – a felszín alatti vizek minőségének védelme kérdésében – az Országos Vízügyi Hatóságot szakhatóságként jelöli ki.
 
 (2) A Kormány a szennyvíz és szennyvíziszap mezőgazdasági felhasználásának engedélyezése és az engedély meghosszabbítása iránti másodfokú eljárásban, továbbá a nem mezőgazdasági eredetű nem veszélyes hulladék mezőgazdasági felhasználásának engedélyezési és az engedély meghosszabbítása iránti másodfokú eljárásban,
 
-a) – a talajvédelmi tervnek és a tervezett tevékenységnek a felszín alatti vizek minősége és az ivóvízbázisok védelme követelményeinek való megfelelősége, továbbá annak elbírálása kérdésében, hogy a szennyvíziszap mezőgazdasági felhasználása során 5 méteren belüli talajvízszint esetén a talajvízszint figyelemmel kísérése érdekében szükséges-e észlelőkút létesítése, és a tevékenység a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e –, az Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőséget, valamint
+a)[^34] – a talajvédelmi tervnek és a tervezett tevékenységnek a felszín alatti vizek minősége és az ivóvízbázisok védelme követelményeinek való megfelelősége, továbbá annak elbírálása kérdésében, hogy a szennyvíziszap mezőgazdasági felhasználása során 5 méteren belüli talajvízszint esetén a talajvízszint figyelemmel kísérése érdekében szükséges-e észlelőkút létesítése, és a tevékenység a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e –, az Országos Vízügyi Hatóságot, valamint
 
 b) a vizek minőségét, egészségkárosítás nélküli fogyaszthatóságát, felhasználhatóságát befolyásoló körülmények, tényezők vizsgálatával kapcsolatos szakkérdésben a megyei kormányhivatal népegészségügyi szakigazgatási szervét
 
@@ -23,3 +23,6 @@ a) a bányatelek, a bányatelekkel nem rendelkező felhagyott bánya, meddőhán
 b) a tereprendezés során kitermelt ásványi nyersanyag felhasználása, értékesítése, hasznosítása feltételeinek és a fizetendő bányajáradék mértékének meghatározásával
 
 kapcsolatos szakkérdésben a Magyar Bányászati és Földtani Hivatalt szakhatóságként jelöli ki.
+
+[^33]: A 24. § (1) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 112. § b) pontja szerint módosított szöveg.
+[^34]: A 24. § (2) bekezdés a) pontja az 527/2013. (XII. 30.) Korm. rendelet 112. § b) pontja szerint módosított szöveg.
