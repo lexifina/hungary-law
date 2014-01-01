@@ -1,0 +1,5 @@
+14. § (1) Ha a felkutatott személy cselekvőképtelen vagy bármely ügycsoportban korlátozottan cselekvőképes, egészségi állapota, kora vagy más ok miatt magáról gondoskodni képtelen, törvényes képviselőjét, gondnokát is tájékoztatni kell arról, hogy eltűnt személyként körözés hatálya alatt áll, valamint – ha a bejelentést nem ő tette – nyilatkoztatni kell arról, hogy a felkutatott személy tartózkodási helye közölhető-e a bejelentővel.
+
+(2) Az (1) bekezdés alapján tett nyilatkozatot, vagy a nyilatkozattétel megtagadása esetén ennek tényét írásba kell foglalni, és azt a nyilatkozatot tévő, vagy a nyilatkozattételt megtagadó személlyel alá kell íratni. A nyilatkozat, vagy a nyilatkozat megtagadásának ténye a helyszínen az igazoltató lapra is rávezethető.
+
+(3) Ha a felkutatott személy – a (1) bekezdésben meghatározott esetben törvényes képviselője – nem járult hozzá a tartózkodási hely közléséhez, vagy ebben a kérdésben nem nyilatkozott, úgy erre az eljárást lezáró iratban – a felkutatott tartózkodási hely megjelölése nélkül – utalni kell.
