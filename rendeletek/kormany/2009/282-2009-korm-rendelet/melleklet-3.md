@@ -20,13 +20,13 @@
 
 | f) földtani veszélyforrás területe | Magyar Bányászati és Földtani Hivatal bányakapitánysága |
 
-| 3. A Balaton-törvény által egyedileg meghatározott övezetek | a) ökológiai rehabilitációt igénylő terület | nemzeti park igazgatóság |
+| 3. A Balaton-törvény által egyedileg meghatározott övezetek | a) ökológiai rehabilitációt igénylő terület | nemzeti park igazgatóság |
 
-| b) felszíni szennyezésre fokozottan érzékeny terület | környezetvédelmi, természetvédelmi és vízügyi felügyelőség |
+| b) felszíni szennyezésre fokozottan érzékeny terület | környezetvédelmi és természetvédelmi felügyelőség |
 
-| c) felszíni vízminőség-védelmi terület | környezetvédelmi, természetvédelmi és vízügyi felügyelőség |
+| c) felszíni vízminőség-védelmi terület | környezetvédelmi és természetvédelmi felügyelőség |
 
-| d) tómeder | Országos Vízügyi Főigazgatóság |
+| d) tómeder | Országos Vízügyi Főigazgatóság |
 
 3. melléklet a 282/2009. (XII. 11.) Korm. rendelethez[^20]
 
@@ -36,9 +36,9 @@ Az Agglomerációs törvény hatálya alá tartozó település településrende
 
 | 1. Az Országos Területrendezési Tervről szóló törvény szerinti országos övezetek | a) kiváló termőhelyi adottságú erdőterület | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| b) kiemelten érzékeny felszín alatti vízminőség-védelmi terület | Nemzeti Környezetügyi Intézet |
+| b) kiemelten érzékeny felszín alatti vízminőség-védelmi terület | Országos Vízügyi Főigazgatóság |
 
-| c) felszíni vizek vízminőség-védelmi vízgyűjtő területe | Nemzeti Környezetügyi Intézet |
+| c) felszíni vizek vízminőség-védelmi vízgyűjtő területe | Országos Vízügyi Főigazgatóság |
 
 | d) ásványi nyersanyag-gazdálkodási terület | Magyar Bányászati és Földtani Hivatal bányakapitánysága |
 
@@ -60,4 +60,4 @@ Az Agglomerációs törvény hatálya alá tartozó település településrende
 
 | h) honvédelmi terület | honvédelemért felelős miniszter |
 
-[^20]: A 3. melléklet a 237/2011. (XI. 15.) Korm. rendelet 1. §-ával megállapított, a 300/2011. (XII. 22.) Korm. rendelet 12. § (3) bekezdése, a 23/2012. (II. 29.) Korm. rendelet 49. §-a, a 314/2012. (XI. 8.) Korm. rendelet 63. § e) pontja szerint módosított szöveg.
+[^20]: A 3. melléklet a 237/2011. (XI. 15.) Korm. rendelet 1. §-ával megállapított, a 300/2011. (XII. 22.) Korm. rendelet 12. § (3) bekezdése, a 23/2012. (II. 29.) Korm. rendelet 49. §-a, a 314/2012. (XI. 8.) Korm. rendelet 63. § e) pontja, az 527/2013. (XII. 30.) Korm. rendelet 82. § (2) bekezdése szerint módosított szöveg.

@@ -30,4 +30,4 @@
 
 2. melléklet a 282/2009. (XII. 11.) Korm. rendelethez[^19]
 
-[^19]: A 2. melléklet a 351/2010. (XII. 30.) Korm. rendelet 264. §-a, a 300/2011. (XII. 22.) Korm. rendelet 12. § (2) bekezdése, a 314/2012. (XI. 8.) Korm. rendelet 63. § d) pontja szerint módosított szöveg. [Ez utóbbi módosító rendelet 63. § d) pontjával elrendelt módosítás, amely szerint a „Mezőgazdasági Szakigazgatási Hivatal erdészeti igazgatási feladatokat ellátó területi szerve” szövegrész helyébe a „megyei kormányhivatal erdészeti igazgatósága” szöveg lép, nem vezethetó át.]
+[^19]: A 2. melléklet a 351/2010. (XII. 30.) Korm. rendelet 264. §-a, a 300/2011. (XII. 22.) Korm. rendelet 12. § (2) bekezdése, a 314/2012. (XI. 8.) Korm. rendelet 63. § d) pontja szerint módosított szöveg. [Ez utóbbi módosító rendelet 63. § d) pontjával elrendelt módosítás, amely szerint a „Mezőgazdasági Szakigazgatási Hivatal erdészeti igazgatási feladatokat ellátó területi szerve” szövegrész helyébe a „megyei kormányhivatal erdészeti igazgatósága” szöveg lép, nem vezethetó át.] A 2. melléklet az 527/2013. (XII. 30.) Korm. rendelet 82. § (1) bekezdése szerint módosított szöveg.
