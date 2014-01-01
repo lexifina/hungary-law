@@ -7,3 +7,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-213-00-00
 | 2013-12-20 | 2013. évi CCXIII. törvény | 2013-213-00-00.0 (közlönyállapot) |
 | 2013-12-20 | Nemzeti Jogszabálytár (egységes szerkezet) | 2013-213-00-00.1 |
 | 2013-12-21 | 2010. évi CXXX. törvény | 2013-213-00-00.2 |
+| 2014-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2013-213-00-00.3 |
