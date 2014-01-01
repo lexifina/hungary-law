@@ -1,0 +1,9 @@
+4. § (1) Az igazgatóság a támogatás iránti kérelemről, a pótigényről, a lemondásról és az elszámolásról hatósági eljárásban dönt, a támogatásokról hatósági határozatot hoz, és a támogatásokkal kapcsolatban hatósági ellenőrzést folytat le.
+
+(2) Az e rendelet szerinti eljárásokban a fenntartó számára hiánypótlásra nyitva álló határidő a felhívás közlését követő nyolc nap.
+
+(3) Ha a fenntartó a támogatás iránti kérelmet, a kérelem módosítását, a pótigényt, a lemondást vagy az elszámolást hibásan nyújtja be, az igazgatóság a felhívás közlésétől számított nyolc napos határidővel nyilatkozattételre hívja fel.
+
+(4) Az igazgatóság a támogatás ügyében hozott jogerős határozat és a lefolytatott ellenőrzésről készített jegyzőkönyv másolatát elektronikus levélben megküldi a szociális, gyermekjóléti és gyermekvédelmi szolgáltatók, intézmények és hálózatok hatósági nyilvántartásáról és ellenőrzéséről szóló kormányrendelet alapján az engedélyes ügyeiben általános illetékességgel rendelkező első fokú működést engedélyező szervnek.
+
+(5) Az e rendelet szerinti, hivatalból indult eljárásokban a fenntartó, a szolgáltató és az engedélyes köteles átadni, illetve megküldeni az érdemi döntéshez szükséges adatokat és iratokat az igazgatóságnak.

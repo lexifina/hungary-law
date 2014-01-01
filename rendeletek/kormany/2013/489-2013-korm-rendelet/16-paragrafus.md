@@ -1,0 +1,3 @@
+16. § (1) A fenntartó a támogatás felhasználását, nem önállóan gazdálkodó szolgáltatók esetén a fenntartó és az egyes szolgáltatók gazdálkodását, továbbá a szolgáltató a támogatás és a térítési díj felhasználását a számviteli rendjében feladatonkénti bontásban, elkülönítetten köteles kezelni. Az egyházi kiegészítő támogatást a számviteli rendben a többi támogatástól elkülönítetten kell kezelni.
+
+(2) Az igazgatóságok a fel nem használt vagy a fenntartók által visszafizetett támogatást és a megfizetett kamatot – a felfüggesztés alapján visszatartott támogatás kivételével – december 31-éig utalják át a minisztériumnak.

@@ -1,0 +1,5 @@
+31. § (1) A 2014. évet megelőző időszakra járó normatív állami hozzájárulás, illetve támogatás igénylésére – ideértve a pótigényt és a lemondást is –, megállapítására, elszámolására, ellenőrzésére és – a részletfizetés kivételével – visszafizetésére, továbbá a kamatfizetésre és a késedelem jogkövetkezményeire az egyházi és nem állami fenntartású szociális, gyermekjóléti és gyermekvédelmi szolgáltatók normatív állami támogatásáról szóló 213/2009. (IX. 29.) Korm. rendelet 2014. január 1-jét megelőzően hatályos szabályait kell alkalmazni azzal az eltéréssel, hogy a fenntartó székhelyének megváltozása esetén az új székhely szerinti igazgatóság rendeli el az ellenőrzést.
+
+(2) E rendelet szabályait a 2013. évi egyházi kiegészítő támogatás korrekciójára is alkalmazni kell.
+
+(3) A 2014. január 1-jén hatályos 7. §-ban foglaltakat a 2013. december 31-ét követően benyújtott, 2014. évi támogatás iránti kérelmek esetén kell alkalmazni. A 2014. november 1-jén hatályos 7. §-ban foglaltakat először csak a 2015. évi támogatás iránti kérelmek esetén kell alkalmazni.
