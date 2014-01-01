@@ -4,11 +4,11 @@
 
 | 1. | Az 1. mellékletben megjelölt beruházások megvalósításával kapcsolatos engedélyezési eljárások | Első fokon eljáró hatóság | Másodfokon eljáró hatóság |
 
-| 2. | vízügyi hatósági eljárások | illetékes környezetvédelmi, természetvédelmi és vízügyi felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 2. | vízügyi hatósági eljárások | illetékes területi vízügyi hatóság | Országos Vízügyi Hatóság |
 
-| 3. | környezetvédelmi hatósági eljárások | illetékes környezetvédelmi, természetvédelmi és vízügyi felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 3. | környezetvédelmi hatósági eljárások | illetékes környezetvédelmi és természetvédelmi felügyelőség | Országos Környezetvédelmi, és Természetvédelmi Főfelügyelőség |
 
-| 4. | természetvédelmi hatósági eljárások | illetékes környezetvédelmi, természetvédelmi és vízügyi felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 4. | természetvédelmi hatósági eljárások | illetékes környezetvédelmi és természetvédelmi felügyelőség | Országos Környezetvédelmi, és Természetvédelmi Főfelügyelőség |
 
 | 5. | területrendezési hatósági eljárások | illetékes megyei kormányhivatal építésügyi és örökségvédelmi hivatalának állami főépítésze | nincs |
 
@@ -28,7 +28,7 @@
 
 | 13. | erdő igénybevétele és fakitermelés bejelentése | illetékes megyei kormányhivatal erdészeti igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-3. melléklet a 12/2013. (I. 22.) Korm. rendelethez
+3. melléklet a 12/2013. (I. 22.) Korm. rendelethez[^2]
 
 A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárásokban közreműködő hatáskörrel rendelkező szakhatóságok
 
@@ -38,7 +38,9 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 | 2. | építésügy | illetékes járási hivatal járási építésügyi hivatala vagy járási építésügyi és örökségvédelmi hivatala, műemléket és műemléki jelentőségű területen a hatáskörébe tartozó építményt érintő ügyben a járási építésügyi és örökségvédelmi hivatal | illetékes megyei kormányhivatal építésügyi és örökségvédelmi hivatala |
 
-| 3. | környezetvédelem, természetvédelem, tájvédelem és vízügy | illetékes környezetvédelmi, természetvédelmi és vízügyi felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 3. | környezetvédelem, természetvédelem, tájvédelem | illetékes környezetvédelmi és természetvédelmi felügyelőség | Országos Környezetvédelmi, és Természetvédelmi Főfelügyelőség |
+
+| 3a. | vízügy | illetékes területi vízügyi hatóság | Országos Vízügyi Hatóság |
 
 | 4. | katasztrófavédelem és tűzvédelem | illetékes megyei katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
@@ -65,3 +67,5 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 | 15. | földtan és bányászat | illetékes bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
 | 16. | honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
+
+[^2]: A 3. melléklet az 527/2013. (XII. 30.) Korm. rendelet 136. § (2) bekezdése szerint módosított szöveg.

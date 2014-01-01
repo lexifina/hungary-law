@@ -24,4 +24,4 @@
 
 2. melléklet a 12/2013. (I. 22.) Korm. rendelethez[^1]
 
-[^1]: A 2. melléklet a 67/2013. (III. 8.) Korm. rendelet 21. §-a szerint módosított szöveg.
+[^1]: A 2. melléklet a 67/2013. (III. 8.) Korm. rendelet 21. §-a, az 527/2013. (XII. 29.) Korm. rendelet 136. § (1) bekezdése szerint módosított szöveg.
