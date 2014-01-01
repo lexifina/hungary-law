@@ -30,4 +30,6 @@ b) a (3) bekezdés szerinti átvevő-, gyűjtő- és kezelőhálózaton kereszt�
 
 (6) A gyártó a nyilvántartást legalább 5 éven keresztül megőrzi.
 
-(7) A gyártó az (5) bekezdés szerint nyilvántartásba vett adatokról a tárgyévet követő év március 1. napjáig a környezetvédelmi, természetvédelmi és vízügyi felügyelőség részére (a továbbiakban: felügyelőség) adatot szolgáltat (adatszolgáltatási kötelezettség). Az adatszolgáltatásban a telephelyek adatait összesítve kell megadni.
+(7)[^2] A gyártó az (5) bekezdés szerint nyilvántartásba vett adatokról a tárgyévet követő év március 1. napjáig a környezetvédelmi és természetvédelmi felügyelőség részére (a továbbiakban: felügyelőség) adatot szolgáltat (adatszolgáltatási kötelezettség). Az adatszolgáltatásban a telephelyek adatait összesítve kell megadni.
+
+[^2]: A 4. § (7) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 132. § a) pontja szerint módosított szöveg.
