@@ -1,4 +1,4 @@
-## 4–5. §[^1]
+## 4–5. §[^2]
 
 1. melléklet a 310/2013. (VIII. 16.) Korm. rendelethez
 
@@ -8,7 +8,9 @@ A hulladékgazdálkodási terv és a megelőzési program előkészítése sorá
 
 1. az erdővédelem vonatkozásában a megyei kormányhivatal erdészeti igazgatóságát,
 
-2. a környezetvédelemre, természetvédelemre és vízügyre vonatkozó szakkérdések vonatkozásában a területileg illetékes környezetvédelmi, természetvédelmi és vízügyi felügyelőséget,
+2.[^3] a környezetvédelemre, természetvédelemre szakkérdések vonatkozásában a területileg illetékes környezetvédelmi és természetvédelmi felügyelőséget,
+
+2a.[^4] a vízügyre vonatkozó szakkérdések vonatkozásában a területileg illetékes vízügyi hatóságot,
 
 3. a földtani és az ásványvagyon védelmére kiterjedő, valamint a bányászati szakkérdések vonatkozásában a Magyar Bányászati és Földtani Hivatalt,
 
@@ -40,4 +42,6 @@ A hulladékgazdálkodási terv és a megelőzési program előkészítése sorá
 
 17. a környezetbiztonsági és a közegészségügyi szakkérdések vonatkozásában a területileg illetékes fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szervét.
 
-[^1]: A 4–5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 4–5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1. melléklet 2. pontja az 527/2013. (XII. 30.) Korm. rendelet 150. § (2) bekezdésével megállapított szöveg.
+[^4]: Az 1. melléklet 2a. pontját az 527/2013. (XII. 30.) Korm. rendelet 150. § (2) bekezdése iktatta be.
