@@ -2,7 +2,7 @@
 
 a) a pénzforgalmi szolgáltatásból, valamint külön a kapcsolódó pénzügyi szolgáltatásból származó(an)
 
-aa) eszközeit, követelések, értékpapírok, készletek, pénzeszközök, aktív időbeli elhatárolások bontásban, ezekből külön kiemelten bemutatva a hitel és pénzkölcsönügyletből eredő követeléseket, a Hpt. szerint elkülönített letéti számlára helyezett ügyfélpénzek összegét, valamint a Hpt. 76/A. §-a alkalmazásában nulla százalékos kockázati súlyú kitettségnek minősülő eszközbe helyezett összeget,
+aa)[^13] eszközeit, követelések, értékpapírok, készletek, pénzeszközök, aktív időbeli elhatárolások bontásban, ezekből külön kiemelten bemutatva a hitel és pénzkölcsönügyletből eredő követeléseket, valamint a Hpt. szerint elkülönített letéti számlára helyezett ügyfélpénzek összegét,
 
 ab) kötelezettségeit, külön kiemelten bemutatva a fizetési számla kapcsán az ügyféllel szemben fennálló tartozást, a céltartalékokat és a passzív időbeli elhatárolásokat,
 
@@ -23,3 +23,5 @@ ai) be nem folyt kamatokat;
 b) a 6. § (3) bekezdés a) pontja szerinti számbavételnél figyelembe vett általános igazgatási költségeket;
 
 c) a Hitkr. 25. §-ának 7., 28., 40., 42., és 43. pontjai szerinti adatokat a pénzforgalmi szolgáltató vonatkozásában, továbbá, ha az a nemzetközi számviteli standardok szerinti konszolidált beszámolót készítő anyavállalatnak minősül, akkor a Hitkr. 26. §-ának (10) bekezdése szerinti adatokat a pénzforgalmi szolgáltatóra vonatkozóan.
+
+[^13]: A 7. § a) pont aa) alpontja az 518/2013. (XII. 30.) Korm. rendelet 61. §-ával megállapított szöveg.

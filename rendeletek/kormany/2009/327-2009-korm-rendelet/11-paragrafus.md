@@ -1,4 +1,4 @@
-11. § (1)[^8] Az árutőzsdei szolgáltatónak belső számviteli rendjét oly módon kell kialakítania, hogy annak adataiból év közben is kielégíthesse a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank információs igényeit.
+11. § (1)[^14] Az árutőzsdei szolgáltatónak belső számviteli rendjét oly módon kell kialakítania, hogy annak adataiból év közben is kielégíthesse a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank információs igényeit.
 
 (2) Az árutőzsdei szolgáltató a megfelelő főkönyvi számlák bontásával vagy az analitikus nyilvántartások részletezésével köteles biztosítani, hogy az árutőzsdei szolgáltatásból, ezen belül a saját számlás és a bizományi ügyletből, valamint az egyéb árutőzsdei szolgáltatásból, illetve az egyéb más tevékenységekből származó eszközei és kötelezettségei, bevételei, költségei és ráfordításai elkülönítetten megállapíthatók legyenek.
 
@@ -52,4 +52,4 @@ a) a Bkr. hivatkozott rendelkezéseiben említett kereskedési tevékenység bev
 
 b) amennyiben az ügylet leszállítási ügylet és tárgya áru, vagy saját termelésű készlet, akkor azt – az (5) bekezdés a) és b) pontját, valamint a (7) bekezdés a) és b) pontját is figyelembe véve – az ügylet zárásakor jellegétől függően a Tv. áru beszerzésére, illetve áru vagy saját termelésű készlet értékesítésére vonatkozó általános szabályai szerint kell elszámolni.
 
-[^8]: A 11. § (1) bekezdése a 345/2013. (IX. 30.) Korm. rendelet 58. § b) pontja szerint módosított szöveg.
+[^14]: A 11. § (1) bekezdése a 345/2013. (IX. 30.) Korm. rendelet 58. § b) pontja szerint módosított szöveg.

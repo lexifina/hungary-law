@@ -6,7 +6,7 @@
 
 2. pénzforgalmi szolgáltató: pénzforgalmi intézmény, valamint a Posta Elszámoló Központot működtető intézmény;
 
-3. kapcsolódó pénzügyi szolgáltatások: a pénzforgalmi szolgáltatáshoz kapcsolódóan a Hpt. alapján végzett más pénzügyi vagy kiegészítő pénzügyi szolgáltatások;
+3.[^2] kapcsolódó pénzügyi szolgáltatások: a pénzforgalmi szolgáltatáshoz kapcsolódóan az Fsztv. alapján végzett más pénzügyi vagy kiegészítő pénzügyi szolgáltatások;
 
 4. árutőzsdei szolgáltatás: a Bszt. 9. §-ának (1) bekezdése szerinti tevékenységek a Bszt. 9. §-a (2) bekezdésében meghatározott eszközökre és ügyletekre vonatkozóan;
 
@@ -24,11 +24,18 @@
 
 11.[^4] Pénzügyi szolgáltatás közvetítése: a Hpt-ben meghatározott fogalom;
 
-12.[^5] elektronikuspénz-kibocsátó intézmény: a Hpt-ben meghatározott intézmény;
+12.[^5] elektronikuspénz-kibocsátó intézmény: az Fsztv.-ben meghatározott intézmény;
 
-13.[^6] pénzügyi szolgáltatást közvetítő: a Hpt-ben meghatározott közvetítő.
+13.[^6] pénzügyi szolgáltatást közvetítő: a Hpt-ben meghatározott közvetítő;
 
+14.[^7] utalványkibocsátó: az Fsztv.-ben meghatározott utalványkibocsátó;
+
+15.[^8] központi szerződő fél: a Tpt.-ben meghatározott központi szerződő fél, ide nem értve a szakosított hitelintézetként működő központi szerződő felet.
+
+[^2]: A 2. § 3. pontja az 518/2013. (XII. 30.) Korm. rendelet 66. § 1. pontja szerint módosított szöveg.
 [^3]: A 2. § 10. pontját a 345/2010. (XII. 28.) Korm. rendelet 30. §-a iktatta be.
 [^4]: A 2. § 11. pontját a 345/2010. (XII. 28.) Korm. rendelet 30. §-a iktatta be.
-[^5]: A 2. § 12. pontját a 345/2010. (XII. 28.) Korm. rendelet 30. §-a iktatta be.
+[^5]: A 2. § 12. pontját a 345/2010. (XII. 28.) Korm. rendelet 30. §-a iktatta be, szövege az 518/2013. (XII. 30.) Korm. rendelet 66. § 2. pontja szerint módosított szöveg.
 [^6]: A 2. § 13. pontját a 345/2010. (XII. 28.) Korm. rendelet 30. §-a iktatta be.
+[^7]: A 2. § 14. pontját az 518/2013. (XII. 30.) Korm. rendelet 60. §-a iktatta be.
+[^8]: A 2. § 15. pontját az 518/2013. (XII. 30.) Korm. rendelet 60. §-a iktatta be.
