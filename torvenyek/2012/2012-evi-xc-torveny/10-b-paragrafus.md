@@ -2,4 +2,6 @@
 
 (2) A közszolgáltató a tárgyhónapot követő hónap 15. napjáig köteles írásban igazolni a fogyasztóvédelmi hatóságnak az (1) bekezdésben foglalt előírások teljesülését.
 
-(3) Az (1) és (2) bekezdésben foglalt rendelkezések a fogyasztóvédelemről szóló törvény alkalmazásában fogyasztóvédelmi rendelkezések.
+(3) A fogyasztóvédelmi hatóság ellenőrzi a közszolgáltató számlázására vonatkozó előírások megtartását.
+
+(4) Az (1)–(3) bekezdésben foglalt rendelkezések a fogyasztóvédelemről szóló törvény alkalmazásában fogyasztóvédelmi rendelkezések.
