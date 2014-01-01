@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-30-00-00
 | 2012-01-01 | 2011. évi CCI. törvény | 1997-30-00-00.26 |
 | 2013-06-29 | 2013. évi LXXXVI. törvény | 1997-30-00-00.27 |
 | 2013-10-01 | 2013. évi CXLIII. törvény | 1997-30-00-00.28 |
+| 2014-01-01 | 2013. évi CCXXXVI. törvény | 1997-30-00-00.29 |

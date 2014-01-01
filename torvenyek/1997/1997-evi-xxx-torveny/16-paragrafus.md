@@ -4,7 +4,7 @@
 
 (2) Vagyonellenőri megbízatást csak könyvvizsgáló társaság vagy természetes személy kaphat.
 
-(3) Vagyonellenőri feladatokkal csak olyan könyvvizsgáló társaság bízható meg, amely rendelkezik a Hpt. 133. § (1) bekezdésében meghatározott feltételekkel és a jelzálog-hitelintézet számára nem végez más könyvvizsgálói feladatot.
+(3) Vagyonellenőri feladatokkal csak olyan könyvvizsgáló társaság bízható meg, amely rendelkezik a Hpt. 260. § (1) bekezdésében meghatározott feltételekkel és a jelzálog-hitelintézet számára nem végez más könyvvizsgálói feladatot.
 
 (4) Vagyonellenőri megbízást csak olyan természetes személy kaphat, aki
 
