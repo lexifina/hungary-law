@@ -4,7 +4,7 @@ a) a pénzforgalmi szolgáltatás nyújtásáról szóló törvény szerinti pé
 
 b) a Tpt. szerinti elszámolóházi tevékenységet végző szervezet,
 
-c) a Hpt. szerinti fizetési rendszer működtetése tevékenységet végző szervezet,
+c) az egyes fizetési szolgáltatókról szóló 2013. évi CCXXXV. törvény (a továbbiakban: Fszt.) szerinti fizetési rendszer működtetése tevékenységet végző szervezet,
 
 d) a pénzfeldolgozási tevékenységet végző szervezet,
 

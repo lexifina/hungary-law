@@ -2,7 +2,7 @@
 
 a) az ügyfél EGT-tagállamon kívüli lakcímmel vagy székhellyel rendelkezik,
 
-b) az ügyfél képviselőt vagy kézbesítési megbízottat nem nevezett meg, és
+b) az ügyfél képviselőt, kézbesítési meghatalmazottat vagy kézbesítési megbízottat nem nevezett meg, és
 
 c) elektronikus kapcsolattartásnak sincs helye,
 

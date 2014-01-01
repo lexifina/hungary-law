@@ -2,7 +2,7 @@
 
 (2) A 2013. szeptember 30-án a PSZÁF vagyonkezelésében lévő állami tulajdonú ingatlanok e törvény erejénél fogva ingyenesen az MNB vagyonkezelésébe kerülnek. A vagyonkezelői jogviszonyra a továbbiakban a Magyar Nemzeti Vagyonkezelő Zrt. által kötött vagyonkezelési szerződésekre vonatkozó jogszabályi rendelkezéseket kell alkalmazni.
 
-(3) 2013. október 1-jétől a Hitelintézeti Felszámoló Nonprofit Kft. üzletrésze feletti tulajdonosi jogokat az állam nevében az MNB gyakorolja, amely az MNB eredménytartalékát növeli.
+(3) 2013. október 1-jétől a Hitelintézeti Felszámoló Nonprofit Kft. üzletrésze feletti tulajdonosi jogokat az állam nevében az MNB gyakorolja.
 
 (4) Az (1) bekezdés alapján az MNB tulajdonába kerülő vagyonelemek bekerülési értéke megegyezik az eszköznek az átadáskori nyilvántartási értékével. A PSZÁF 176. § szerinti megszűnése, valamint a vagyonkezelésében álló vagyon tulajdonának és vagyonkezelési jogának átszállása az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 17. § (3) bekezdés h) pontjában foglalt átalakítással esik egy tekintet alá.
 

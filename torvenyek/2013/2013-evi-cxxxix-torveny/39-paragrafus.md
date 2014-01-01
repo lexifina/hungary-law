@@ -38,7 +38,9 @@ p) a kötelező gépjármű-felelősségbiztosításról szóló törvény (a to
 
 q) a központi hitelinformációs rendszerről szóló törvény,
 
-r) a fizetési, illetve értékpapír-elszámolási rendszerekben történő teljesítés véglegességéről szóló törvény
+r) a fizetési, illetve értékpapír-elszámolási rendszerekben történő teljesítés véglegességéről szóló törvény,
+
+s) az egyes fizetési szolgáltatókról szóló törvény
 
 hatálya alá tartozó szervezetek, személyek és tevékenységek felügyeletét.
 

@@ -1,0 +1,1 @@
+183/C. § A PSZÁF 176. § szerinti megszűnése előtt a pénzügyi felügyeleti feladatainak ellátásával összefüggésben keletkezett, a PSZÁF nyilvántartásában, irattárában 2013. szeptember 30. napján fellelhető iratokat az MNB jogosult kezelni.

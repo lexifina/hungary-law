@@ -12,13 +12,13 @@ e) felügyeli a pénzügyi piacok működését a 39. §-ban meghatározott tör
 
 f) segíti az Országos Betétbiztosítási Alap igazgatótanácsa működését, annak döntései előkészítését és végrehajtását,
 
-g) piacfelügyeleti eljárást indít a 236/2012/EU európai parlamenti és tanácsi rendelet 5–8. cikkében előírt bejelentési és közzétételi kötelezettségre és 12–14. cikkében előírt fedezetlen ügyletek korlátozására vonatkozó szabályok ellenőrzése, valamint a vállalatfelvásárlásra vonatkozó szabályok ellenőrzése során észlelt a bennfentes kereskedelem és piacbefolyásolás ideértve a továbbiakban a 1031/2010/EU bizottsági rendelet 37–42. cikkében írt bennfentes kereskedelmet, piaci manipulációt, engedély vagy bejelentés nélküli tevékenység végzésének gyanúja esetén,
+g) piacfelügyeleti eljárást indít az engedély nélkül vagy bejelentés hiányában végzett tevékenység észlelése esetén; a bennfentes kereskedelem vagy piacbefolyásolás (a továbbiakban ideértve a 1031/2010/EU bizottsági rendelet 37–42. cikkében írt bennfentes kereskedelmet, illetve piaci manipulációt) gyanúja esetén; a bennfentes személyre vonatkozó bejelentési és közzétételi kötelezettségre vonatkozó szabályok ellenőrzése céljából; továbbá a 236/2012/EU európai parlamenti és tanácsi rendelet 5–8. cikkében előírt bejelentési és közzétételi kötelezettségre és 12–14. cikkében előírt fedezetlen ügyletek korlátozására vonatkozó szabályok ellenőrzése céljából,
 
-h) együttműködik a külföldi pénzügyi felügyeleti hatóságokkal, különösen az Európai Gazdasági Térség államainak pénzügyi felügyeleti hatóságaival,
+h) együttműködik a külföldi pénzügyi felügyeleti hatóságokkal, különösen az EGT államainak pénzügyi felügyeleti hatóságaival,
 
 i) teljesíti a 4. § (9) bekezdésében meghatározott feladatkörében a nyilvánosságra hozatali és az Európai Bizottság felé fennálló bejelentési kötelezettségeket,
 
-j) teljesíti a fióktelep létesítésével és a határon átnyúló tevékenység végzésével kapcsolatos értesítési és tájékoztatási kötelezettséget, valamint együttműködik a fióktelepek működésével kapcsolatos szükséges vizsgálatok elvégzése érdekében az Európai Gazdasági Térség államainak pénzügyi felügyeleti feladatokat ellátó hatóságaival,
+j) teljesíti a fióktelep létesítésével és a határon átnyúló tevékenység végzésével kapcsolatos értesítési és tájékoztatási kötelezettséget, valamint együttműködik a fióktelepek működésével kapcsolatos szükséges vizsgálatok elvégzése érdekében az EGT államainak pénzügyi felügyeleti feladatokat ellátó hatóságaival,
 
 k) közreműködik az önkéntes kölcsönös biztosító pénztárak, a magánnyugdíjpénztárak és a pénztárak garanciaalapja fejlődését akadályozó tényezők feltárásában és feloldásában, valamint e szervezetek társadalombiztosítással való együttműködésének koordinálásában,
 

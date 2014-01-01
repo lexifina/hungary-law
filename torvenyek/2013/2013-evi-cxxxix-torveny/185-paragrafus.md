@@ -14,11 +14,11 @@ e) az Európai Parlament és a Tanács 2005/14/EK irányelve (2005. május 11.) 
 
 f) az Európai Parlament és a Tanács 2005/68/EK irányelve (2005. november 16.) a viszontbiztosításról és a 73/239/EGK, a 92/49/EGK tanácsi irányelv, valamint a 98/78/EK és a 2002/83/EK irányelv módosításáról,
 
-g) az Európai Parlament és a Tanács 2006/48/EK irányelve (2006. június 14.) a hitelintézetek tevékenységének megkezdéséről és a folytatásáról (átdolgozott szöveg), 144. cikk,
+g) az Európai Parlament és a Tanács 2013/36/EU irányelve (2013. június 26.) a hitelintézetek tevékenységéhez való hozzáférésről és a hitelintézetek és befektetési vállalkozások prudenciális felügyeletéről, a 2002/87/EK irányelv módosításáról, a 2006/48/EK és a 2006/EK irányelv hatályon kívül helyezéséről,
 
-h) az Európai Parlament és a Tanács 2006/49/EK irányelve (2006. június 14.) a befektetési vállalkozások és hitelintézetek tőkemegfeleléséről (átdolgozott szöveg), 37. cikk,
+h)
 
-i) az Európai Parlament és Tanács 2009/11/EK irányelve (2009. szeptember 16.) a 2006/48/EK, a 2006/49/EK és a 2006/74/EK irányelvnek a központi hitelintézetek kapcsolt bankjai, egyes szavatolótőke elemek, nagykockázat-vállalások, felügyeletei szabályok és válságkezelés tekintetében történő módosításáról, 1. cikk,
+i) az Európai Parlament és Tanács 2009. szeptember 16-i 2009/111/EK irányelve a 2006/48/EK, a 2006/49/EK és a 2006/74/EK irányelvnek a központi hitelintézetek kapcsolt bankjai, egyes szavatolótőke-elemek, nagykockázat-vállalások, felügyeletei szabályok és válságkezelés tekintetében történő módosításáról, 1. cikk,
 
 j) az Európai Parlament és Tanács 2009/65/EK irányelve (2010. július 13.) az átruházható értékpapírokkal foglalkozó kollektív befektetési vállalkozásokra (ÁÉKBV) vonatkozó törvényi, rendeleti és közigazgatási rendelkezések összehangolásáról (átdolgozás),
 
@@ -32,4 +32,8 @@ n) az Európai Parlament és a Tanács 236/2012/EU rendelete (2012. március 14.
 
 o) az 1031/2010/EU bizottsági rendelete az üvegházhatást okozó gázok kibocsátási egységei Közösségen belüli kereskedelmi rendszerének létrehozásáról szóló 2003/87/EK európai parlamenti és tanácsi irányelv alapján az üvegházhatást okozó gázok kibocsátási egységei árverés útján történő értékesítésének időbeli ütemezéséről, lebonyolításáról és egyéb vonatkozásairól,
 
-p) az Európai Parlament és a Tanács 2011. november 16-i 2011/89/EU irányelve a 98/78/EK, a 2002/87/EK, a 2006/48/EK és a 2009/138/EK irányelvnek a pénzügyi konglomerátumhoz tartozó pénzügyi vállalkozások kiegészítő felügyelete tekintetében történő módosításáról.
+p) az Európai Parlament és a Tanács 2011. november 16-i 2011/89/EU irányelve a 98/78/EK, a 2002/87/EK, a 2006/48/EK és a 2009/138/EK irányelvnek a pénzügyi konglomerátumhoz tartozó pénzügyi vállalkozások kiegészítő felügyelete tekintetében történő módosításáról,
+
+q) az Európai Parlament és a Tanács 2012. március 14-i 260/2012/EK rendelete az euróátutalások és -beszedések technikai és üzleti követelményeinek megállapításáról és a 924/2009/EK rendelet módosításáról,
+
+r) az Európai Parlament és a Tanács 2013. június 26-i 575/2013/EU rendelete a hitelintézetekre és befektetési vállalkozásokra vonatkozó prudenciális követelményekről és a 648/2012/EU rendelet módosításáról.

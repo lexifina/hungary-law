@@ -1,6 +1,6 @@
-75. § (1) Ha az MNB a 62. § (2) bekezdése szerinti ellenőrzés végén vagy az általa hivatalosan ismert tények alapján megállapítja a 62. § (1) bekezdésében meghatározott jogszabályokban vagy az MNB hatósági határozatában meghatározott kötelezettségek megszegését, elkerülését, elmulasztását, késedelmes vagy hiányos teljesítését – ha törvény eltérően nem rendelkezik –
+75. § (1) Ha az MNB a 62. § (2) bekezdése szerinti ellenőrzés végén vagy az általa hivatalosan ismert tények alapján megállapítja a 62. § (1) bekezdésében meghatározott jogszabályok vagy az MNB hatósági határozatában meghatározott kötelezettség megszegését, elkerülését, elmulasztását, késedelmes vagy hiányos teljesítését, – ha törvény eltérően nem rendelkezik –
 
-a) a 39. §-ban meghatározott törvények hatálya alá tartozó személy, szervezet esetén – a c) pontban foglalt eltéréssel – a 39. §-ban meghatározott, az adott tevékenységre vonatkozó jogszabály szerinti intézkedést, kivételes intézkedést alkalmazza, illetve bírságot szab ki,
+a) a 39. §-ban meghatározott törvények hatálya alá tartozó személy, szervezet esetén a 39. §-ban meghatározott, az adott tevékenységre vonatkozó jogszabály szerinti intézkedést, kivételes intézkedést alkalmazza, illetve bírságot szab ki, vagy
 
 b) az a) pont hatálya alá nem tartozó személlyel, szervezettel szemben a következő intézkedéseket alkalmazza:
 
@@ -12,23 +12,13 @@ bc) kötelezi intézkedési terv kidolgozására és végrehajtására, akár a 
 
 bd) előírja rendkívüli, illetve visszamenőleges adatszolgáltatás teljesítését,
 
-be) elrendeli a forgalomban lévő törvényes fizetőeszközről, valamint az MNB által fogalomból bevont, de törvényes fizetőeszközre beváltható bankjegyről és érméről engedély nélkül készített utánzatok megsemmisítését,
+be) elrendeli a forgalomban lévő törvényes fizetőeszközről, valamint az MNB által forgalomból bevont, de törvényes fizetőeszközre beváltható bankjegyről és érméről engedély nélkül készített utánzatok megsemmisítését,
 
-bf) bírságot szab ki,
+bf) bírságot szab ki, vagy
 
-bg) fegyelmi, szabálysértési, büntető-, polgári vagy egyéb eljárást kezdeményez,
+bg) fegyelmi, szabálysértési, büntető-, polgári vagy egyéb eljárást kezdeményez
 
-c) forgatható utalvány kibocsátására irányuló tevékenységet végzővel szemben a következő intézkedéseket alkalmazza:
-
-ca) b) pont ba)–bd), bf) és bg) alpontokban foglalt intézkedések,
-
-cb) megtiltja a forgatható utalványok további kibocsátását,
-
-cc) elrendeli a kibocsátott forgatható utalványok forgalomból való kivonását,
-
-cd) elrendeli a forgatható utalványok megsemmisítését
-
-[az a)–c) pont a továbbiakban együtt: intézkedés].
+[az a) és b) pont a továbbiakban együtt: intézkedés.]
 
 (2) Az MNB abban az esetben is alkalmazhat intézkedést, ha azt külföldi pénzügyi hatóság kezdeményezi.
 

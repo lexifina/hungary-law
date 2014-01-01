@@ -18,4 +18,4 @@
 
 a) a fogyasztóvédelemről szóló törvényben meghatározott, fogyasztói érdekek képviseletét ellátó egyesületeket, továbbá
 
-b) azokat az Európai Gazdasági Térség bármely államának joga alapján létrejött feljogosított egységeket az általuk védett fogyasztói érdekek védelme körében, amelyek a 2009/22/EK európai parlamenti és tanácsi irányelv 4. cikk (3) bekezdése alapján az Európai Unió Hivatalos Lapjában közzétett jegyzéken szerepelnek, feltéve, hogy a keresetben érvényesített igény a 41. § (1) bekezdésében meghatározott irányelveket átültető jogszabályi rendelkezések megsértésén alapul.
+b) azokat az EGT bármely államának joga alapján létrejött feljogosított egységeket az általuk védett fogyasztói érdekek védelme körében, amelyek a 2009/22/EK európai parlamenti és tanácsi irányelv 4. cikk (3) bekezdése alapján az Európai Unió Hivatalos Lapjában közzétett jegyzéken szerepelnek, feltéve, hogy a keresetben érvényesített igény a 41. § (1) bekezdésében meghatározott irányelveket átültető jogszabályi rendelkezések megsértésén alapul.

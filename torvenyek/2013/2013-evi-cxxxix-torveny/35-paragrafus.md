@@ -1,5 +1,17 @@
 ## 23. A rendszerszinten jelentős intézmények csődvalószínűségét csökkentő intézkedések
 
-35. § (1) Az MNB meghatározza és évente felülvizsgálja a rendszerszinten jelentős hitelintézetek és befektetési vállalkozások (a továbbiakban: rendszerszinten jelentős intézmények) körét, valamint folyamatosan figyelemmel kíséri azok működését. A rendszerszinten jelentős intézmények meghatározásának módszertanára vonatkozó adatok nem nyilvánosak.
+35. § (1) Az MNB meghatározza, és évente felülvizsgálja a Magyarországon székhellyel rendelkező,
 
-(2) Amennyiben a rendszerszintű kockázatok kialakulásának megelőzése, a pénzügyi közvetítőrendszer ellenálló képességének növelése indokolja, az MNB elnöke a Monetáris Tanács által meghatározott stratégiai keretek között, a Pénzügyi Stabilitási Tanács döntése alapján a 171. § (1) bekezdés k) pont kd) alpontja alapján kibocsátott rendeletében a fennálló tőkemegfelelési szabályokon felül rendszerkockázati tőkepuffert állapít meg. A rendszerkockázati tőkepuffer olyan, a Hpt. 76. § (1) bekezdése szerinti tőkekövetelményen felüli, elsődleges alapvető tőkeelemekben a rendszerkockázatok által indokolt alanyi körben és időtartamig teljesítendő tőkekövetelmény, amelynek nagyságát az MNB által meghatározott rendszerkockázati tőkepuffer ráta és a Hpt. 76. § (1) bekezdés a) pontjában meghatározott kockázattal súlyozott kitettség érték szorzata határozza meg, és amelyet konszolidált szinten kell a Magyarországon székhellyel rendelkező hitelintézetnek és befektetési vállalkozásnak teljesítenie. A rendszerkockázati tőkepuffer ráta mértéke legfeljebb 3 százalék.
+a) globálisan rendszerszinten jelentős hitelintézetek és befektetési vállalkozások körét összevont alapon, valamint
+
+b) egyéb rendszerszinten jelentős hitelintézetek és befektetési vállalkozások körét egyedi, szubkonszolidált vagy összevont alapon,
+
+és folyamatosan figyelemmel kíséri azok működését.
+
+(2) Ha az MNB a Hpt. 90. § és a Bszt. 110/E. § alapján tőkepuffert határoz meg vagy mértékét módosítja az egyéb rendszerszinten jelentős hitelintézetekre és befektetési vállalkozásokra vonatkozóan, akkor az arról szóló határozat nyilvánosságra hozatala előtt egy hónappal tájékoztatnia kell az érintett tagállamok illetékes és kijelölt hatóságait a következőkről:
+
+a) indoklás arról, hogy várhatóan miért fogja a tőkepuffer hatékonyan és arányosan csökkenteni az egyéb rendszerszinten jelentős hitelintézetek és befektetési vállalkozások rendszerszintű kockázatát,
+
+b) a tőkepuffer belső piacra gyakorolt várható hatása,
+
+c) az egyéb rendszerszinten jelentős hitelintézetekre és befektetési vállalkozásokra vonatkozó tőkepufferráta mértéke.

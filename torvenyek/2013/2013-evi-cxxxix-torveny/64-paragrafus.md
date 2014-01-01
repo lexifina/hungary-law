@@ -1,4 +1,4 @@
-64. § (1) Az ellenőrzési eljárás során az MNB a 39. §-ban meghatározott törvények hatálya alá tartozó személynél és szervezetnél
+64. § (1) Az ellenőrzési eljárás során az MNB
 
 a) átfogó vizsgálatot,
 

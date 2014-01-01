@@ -15,3 +15,5 @@
 (8) Az MNB – a 28. § (4) bekezdésében meghatározottak mellett – a 4. § (9) bekezdésében meghatározott feladatkörében a 648/2012/EU rendelet 2. cikk 13. pontja szerinti illetékes hatóságként látja el a 648/2012/EU rendelet végrehajtásához kapcsolódó feladatokat.
 
 (9) Az MNB látja el a 4. § (9) bekezdésében meghatározott feladatkörében az üvegházhatást okozó gázok kibocsátási egységei Közösségen belüli kereskedelmi rendszerének létrehozásáról szóló 2003/87/EK európai parlamenti és tanácsi irányelv alapján az üvegházhatást okozó gázok kibocsátási egységei árverés útján történő értékesítésének időbeli ütemezéséről, lebonyolításáról és egyéb vonatkozásairól szóló 1031/2010/EU bizottsági rendelet (2010. november 12.) (a továbbiakban: a 1031/2010/EU bizottsági rendelet) 43. cikke szerinti illetékes hatóságként a 1031/2010/EU bizottsági rendelet 37–42. cikkének végrehajtását.
+
+(10) Az MNB látja el a 4. § (9) bekezdésében meghatározott feladatkörében az 575/2013/EU rendelet végrehajtását.

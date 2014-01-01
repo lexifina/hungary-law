@@ -10,7 +10,7 @@
 
 (5) A 2013. október 1-je előtt indult, folyamatban lévő közbeszerzési eljárásokban a PSZÁF helyébe az MNB lép.
 
-(6) A 2013. október 1-je előtt indult, folyamatban lévő peres és nemperes eljárásokban a PSZÁF helyébe az MNB lép.
+(6) A 2013. október 1-je előtt indult, folyamatban lévő peres és nemperes eljárásokban a PSZÁF helyébe az MNB, továbbá a PSZÁF által működtetett Pénzügyi Békéltető Testület helyébe a Pénzügyi Békéltető Testület lép.
 
 (7) A PSZÁF által 2013. október 1-jét megelőzően hozott hatósági döntéssel szemben bírósági felülvizsgálati eljárás megindítására irányuló keresetet 2013. szeptember 30-át követően az MNB ellen kell benyújtani.
 

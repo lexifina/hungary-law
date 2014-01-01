@@ -28,7 +28,7 @@ c) az a)–b) pontban foglalt esetekben piacfelügyeleti bírságot szab ki.
 
 (5) Piacfelügyeleti eljárás során
 
-a) az engedély nélkül vagy bejelentés hiányában végzett szolgáltatás esetén a piacfelügyeleti bírság összege százezer forinttól ötszázmillió forintig,
+a) az engedély nélkül vagy bejelentés hiányában végzett szolgáltatás esetén a bírság összege százezer forinttól ötszázmillió forintig,
 
 b) a bennfentes kereskedelemre, piacbefolyásolásra és a vállalatfelvásárlásra vonatkozó szabályok megsértése esetén a bírság összege százezer forinttól ötszázmillió forintig,
 

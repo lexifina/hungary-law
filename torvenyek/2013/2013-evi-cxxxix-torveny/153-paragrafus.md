@@ -10,7 +10,7 @@ b) a hagyatékátadó végzés jogerőre emelkedését követően haladéktalanu
 
 pénzügyi intézményben, kiegészítő pénzügyi szolgáltatást végző jogi személyben, befektetési vállalkozásban lévő befolyásáról és a befolyását az MNB-vel létrejövő jogviszonya keletkezésének az időpontjától számított, illetve az öröklés esetén a hagyatékátadó végzés jogerőre emelkedését követő három hónapon belül megszünteti.
 
-(4) Az MNB-nek az (1) bekezdésben meghatározott alkalmazottja a Bszt. szerinti pénzügyi eszköz szerzését – az állampapír, a nyilvános, nyílt végű befektetési alap által kibocsátott befektetési alapjegy kivételével – a megszerzést követő három munkanapon belül bejelenti.
+(4) Az MNB-nek az (1) bekezdésben meghatározott alkalmazottja a Bszt. szerinti pénzügyi eszköz szerzését – az állampapír, a nyilvános, nyílt végű befektetési alap által kibocsátott befektetési jegy kivételével – a megszerzést követő három munkanapon belül bejelenti.
 
 (5) Az MNB-nek az (1) bekezdésben meghatározott alkalmazottja az (1)–(3) bekezdésben foglalt jogviszonya, befolyása megszüntetéséig, valamint a (4) bekezdésben foglalt kötelezettsége teljesítéséig nem vehet részt olyan döntés előkészítésében és meghozatalában, amely az érintett szervezetre vonatkozik.
 

@@ -4,4 +4,4 @@
 
 (3) Az MNB részt vállal a 39. §-ban meghatározott törvények hatálya alá tartozó személyek és szervezetek ügyfeleinek tájékoztatásával, a pénzügyi kultúra erősítésével, terjesztésével, valamint a felügyeleti, illetve a felügyelt tevékenységgel kapcsolatos tanulmányok készítésének és közzétételének, valamint a civil fogyasztóvédelmi szervezetek tevékenységének támogatásában.
 
-(4) Az MNB a 4. § (8) és (9) bekezdésében meghatározott feladatkörének ellátása során mérlegeli döntéseinek a többi érintett tagállam pénzügyi rendszerének stabilitására gyakorolt hatását.
+(4) Az MNB a 4. § (7)–(9) bekezdésében meghatározott feladatai ellátása során mérlegeli döntéseinek a többi érintett tagállam pénzügyi rendszerének stabilitására gyakorolt hatását.
