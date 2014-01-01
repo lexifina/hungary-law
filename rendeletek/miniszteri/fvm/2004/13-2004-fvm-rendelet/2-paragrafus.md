@@ -1,1 +1,0 @@
-## 1. § Ezt a rendeletet az Európai Gazdasági Közösségben működő mezőgazdasági üzemek jövedelmére és üzleti tevékenységére vonatkozó számviteli adatok gyűjtésére szolgáló hálózat létrehozásáról szóló 79/65/EGK tanácsi rendelettel (a továbbiakban: TR) együtt kell alkalmazni.
