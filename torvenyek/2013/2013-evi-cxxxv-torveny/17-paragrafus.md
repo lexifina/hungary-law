@@ -6,7 +6,7 @@
 
 (4) A működési engedély visszavonásáról szóló felügyeleti határozat kézhez vételét követő 3. munkanap végéig a szövetkezeti hitelintézet köteles a betéteseinek személyes adatait, a betétek összegét és egyéb jellemzőit, valamint a (3) bekezdés szerinti eljárás (betétállomány átvétele) lefolytatása szempontjából szükséges adatokat valamint a likvid vagyonra vonatkozó minden információt elektronikus állomány és fizikai dokumentum formájában is eljuttatni a Felügyelet és a Takarékbank Zrt. részére, oly módon, hogy abban a betétállomány átvétele szempontjából fontos adatok világosan és elkülöníthetően szerepeljenek.
 
-(5) A szövetkezeti hitelintézethez a Felügyelet – a szövetkezeti hitelintézet működési engedélyét visszavonó határozattal egyidejűleg – felügyeleti biztost jelöl ki. A szövetkezeti hitelintézethez kirendelt felügyeleti biztos a Hpt. 165. § szerinti jogkörében eljárva a szövetkezeti hitelintézet által a (4) bekezdés szerint rendelkezésre bocsátott adatok alapján haladéktalanul megvizsgálja a szövetkezeti hitelintézet betétállományának átvétele szempontjából fontos alábbi adatokat:
+(5) A szövetkezeti hitelintézethez a Felügyelet – a szövetkezeti hitelintézet működési engedélyét visszavonó határozattal egyidejűleg – felügyeleti biztost jelöl ki. A szövetkezeti hitelintézethez kirendelt felügyeleti biztos a Hpt. 196. § szerinti jogkörében eljárva a szövetkezeti hitelintézet által a (4) bekezdés szerint rendelkezésre bocsátott adatok alapján haladéktalanul megvizsgálja a szövetkezeti hitelintézet betétállományának átvétele szempontjából fontos alábbi adatokat:
 
 a) a szövetkezeti hitelintézet jegybankképes értékpapír-állománya;
 

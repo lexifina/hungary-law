@@ -6,8 +6,8 @@
 
 (3) A felügyeleti biztos a Felügyelet (2) bekezdésben foglalt szabályoknak megfelelően kiadott jóváhagyását követő 10 napon belül felméri, hogy a szövetkezeti hitelintézet esetében végelszámolásnak vagy felszámolásnak van-e helye, és a javaslatát haladéktalanul megküldi a Felügyelet részére. Amennyiben a felügyeleti biztos javaslata alapján felszámolási eljárás kezdeményezésének vagy egyébként végelszámolásnak lenne helye, akkor javaslatáról egyidejűleg tájékoztatja az Országos Betétbiztosítási Alapot is.
 
-(4) A Felügyelet a szövetkezeti hitelintézet jogutód nélküli megszűnésének kezdeményezésére vonatkozó határozatát a felügyeleti biztos javaslata alapján, a Hpt. végelszámolásra illetve felszámolásra vonatkozó szabályai szerint hozza meg.
+(4) A Felügyelet a szövetkezeti hitelintézet jogutód nélküli megszűnésének kezdeményezésére vonatkozó határozatát a felügyeleti biztos javaslata alapján, a Hpt. 47-66. §-ának rendelkezései szerint hozza meg.
 
-(5) Amennyiben a Felügyelet a szövetkezeti hitelintézet végelszámolásának elhatározásáról dönt, és a szövetkezeti hitelintézet működési engedélyének visszavonására egyébként a Hpt. 30.§ (1) bekezdés b) pontja alapján is helye lett volna, akkor ezt a tényt a Felügyelet a végelszámolást kimondó határozatában feltünteti és a határozatát haladéktalanul megküldi az Országos Betétbiztosítási Alap számára is.
+(5) Amennyiben a Felügyelet a szövetkezeti hitelintézet végelszámolásának elhatározásáról dönt, és a szövetkezeti hitelintézet működési engedélyének visszavonására egyébként a Hpt. 33. § (1) bekezdés a) pontja alapján is helye lett volna, akkor ezt a tényt a Felügyelet a végelszámolást kimondó határozatában feltünteti és a határozatát haladéktalanul megküldi az Országos Betétbiztosítási Alap számára is.
 
-(6) A szövetkezeti hitelintézet végelszámolására vagy felszámolására egyebekben a Hpt. rendelkezései alkalmazandóak.
+(6) A szövetkezeti hitelintézet végelszámolására vagy felszámolására egyebekben a Hpt. 47-66. §-ainak rendelkezései alkalmazandóak.

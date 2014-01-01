@@ -1,3 +1,1 @@
-## „(5) Az átváltoztatható vagy átváltozó kötvény esetén az egyesüléssel létrejövő részvénytársaságnak a kötvénytulajdonos számára olyan jogosultságokat kell biztosítania, amelyek legalább egyenértékűek azokkal a jogosultságokkal, amelyekkel a jogelőd gazdasági társaságban rendelkeztek, kivéve, ha a kötvénytulajdonosok mindegyike hozzájárul jogosultsága csökkenéséhez. A tulajdonos az egyesülő társaságok által kibocsátott átváltoztatható, átváltozó vagy jegyzési jogot biztosító kötvény visszavásárlását is igényelheti a jogutód részvénytársaságtól. Az e bekezdésben foglalt szabályokat nem kell alkalmazni, ha az értékpapír kibocsátásakor előre meghatározták a kötvénytulajdonosok helyzetét egy esetleges egyesülés esetére.”
-
 ### 45–47. §

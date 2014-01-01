@@ -10,4 +10,4 @@
 
 ## (5) Az átváltozó kötvény előre meghatározott objektív ok alapján alakul át részvénnyé, ennek megfelelően tulajdonosa számára elsőbbségi jogot nem biztosít”
 
-42. § A polgári törvénykönyvről szóló 2013. évi V. tv. 3:303. § (1)–(3) bekezdése a következő szöveggel lép hatályba:
+### 42–44. §

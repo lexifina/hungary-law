@@ -12,7 +12,7 @@
 
 (6) Az Integrációs Szervezet pénzeszközeit a Takarékbank Zrt.-ben helyezi el.
 
-(7) Az Integrációs Szervezet saját vagyona, bevételei és jövedelme után társasági nyereségadó, helyi adó, tranzakciós illeték és egyéb illeték fizetésére nem köteles.
+(7) Az Integrációs Szervezet és a Szövetkezeti Hitelintézetek Tőkefedezeti Alapja saját vagyona, bevételei, jövedelme és ügyletei után társasági nyereségadó, általános forgalmi adó helyi adó, tranzakciós illeték és egyéb illeték fizetésére nem köteles.
 
 (8) Az Integrációs Szervezet saját tőkéje nem osztható fel, kivéve az Integrációs Szervezet megszűnésekor.
 

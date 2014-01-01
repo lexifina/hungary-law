@@ -1,6 +1,6 @@
 ## 8/C. Tőkekövetelmények
 
-17/C. § (1) Szövetkezeti hitelintézet legalább kétszázötvenmillió forint induló részjegytőkével alapítható. Működési formájától függetlenül a szövetkezeti hitelintézet szavatoló tőkéje nem süllyedhet az Integrációs Szervezet által egyedi (nem konszolidált) alapon időről-időre megállapított szint alá.
+17/C. § (1) Szövetkezeti hitelintézet – kizárólag szövetkezeti formában – legalább háromszázmillió forint induló részjegytőkével alapítható. Működési formájától függetlenül a szövetkezeti hitelintézet szavatoló tőkéje nem süllyedhet az Integrációs Szervezet által egyedi (nem konszolidált) alapon időről-időre megállapított szint alá. Az Integrációs Szervezet szabályzatban határozza meg az egyedi alapon megállapított szavatoló tőke meghatározásának elveit és folyamatát.
 
 (2) Amennyiben a szövetkezeti hitelintézet szavatoló tőkéje az (1) bekezdésben meghatározott szint alá süllyed vagy a 19. § (13) bekezdésében meghatározott esetben, az Integrációs Szervezet jogosult – a Felügyelet jogait, feladatait és hatásköreit nem érintve, és amennyiben a Felügyelet ilyen intézkedést még nem tett –, a Felügyeletet előzetesen értesítve az alábbi kivételes intézkedésekkel élni:
 
@@ -10,7 +10,7 @@ aa) nem banküzemi célú eszközeinek eladását,
 
 ab) az általa megállapított határidőn belül és követelményeknek megfelelően – ideértve az eszközök eladását is – rendezze tőkeszerkezetét,
 
-ac) a pénzügyi intézmény által végzett pénzügyi szolgáltatásokra, a pénzügyi intézmény által vállalt kockázatokra tekintettel az (1) bekezdésben írtnál magasabb, a Hpt. 76. § (1) bekezdésében meghatározott tőkekövetelmény értékét elérő egyedi tőkekövetelményt határozhat meg;
+ac) a pénzügyi intézmény által végzett pénzügyi szolgáltatásokra, a pénzügyi intézmény által vállalt kockázatokra tekintettel az (1) bekezdésben írtnál magasabb, az Európai Parlament és a Tanács 575/2013/EU rendeletének 92. cikkében meghatározott tőkekövetelmények értékét elérő vagy meghaladó egyedi tőkekövetelményt határozhat meg;
 
 b) korlátozhatja, illetőleg megtilthatja a szövetkezeti hitelintézet számára
 

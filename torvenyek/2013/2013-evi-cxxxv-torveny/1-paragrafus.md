@@ -26,7 +26,7 @@ k) könyvvizsgáló: könyvvizsgálattal főtevékenységként foglalkozó, pén
 
 l) kormánybiztos: az 1554/2012. (XII. 5.) számú kormányhatározatban a hazai illetve szövetkezeti pénzügyi szolgáltatásokért felelős kormánybiztos;
 
-m) likvid eszköz-állomány: a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény (a továbbiakban: Hpt.) 2. számú mellékletében ilyen néven meghatározott eszközök állománya;
+m) likvid eszköz-állomány: a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény (a továbbiakban: Hpt.) 6. § (1) bekezdés 80. pontjában ilyen néven meghatározott eszközök állománya;
 
 n) likvid vagyon: a likvid eszközök összessége;
 
@@ -44,7 +44,7 @@ t) szövetkezeti hitelintézet: a takarékszövetkezet, a hitelszövetkezet és 
 
 u) Takarékbank Zrt.: a Magyar Takarékszövetkezeti Bank Zártkörűen Működő Részvénytársaság;
 
-v) Tőkepozíciója rossz: a tőkemegfelelési mutatója nem éri el a Hpt-ben meghatározott legkisebb mértéket;
+v) Tőkepozíciója rossz: nem felel meg az Európai Parlament és a Tanács 575/2013/EU rendeletének 92. cikkében meghatározott tőkekövetelményeknek;
 
 w) Tőkepozíciója romlik: a tőkemegfelelési mutatója a tárgyhónapot megelőző három naptári hónap átlagában csökkent;
 
@@ -52,7 +52,7 @@ x) Törzsrészvény: a Takarékbank Zrt. által a jelen törvény hatálybalép�
 
 y) válsághelyzetben van: egy szövetkezeti hitelintézet, amennyiben tőkepozíciói rosszak vagy romlanak, vagy hitelezési mutatói rosszak vagy romlanak vagy nem jogszabályszerűen vagy szabályzatainak megfelelően működik.
 
-z) Vezető tisztségviselő: a Hpt 2. számú mellékletében „Vezető állású személyként” meghatározott személy.
+z) Vezető tisztségviselő: a Hpt. 6. § (1) bekezdésének 122. pontjában „vezető állású személyként” meghatározott személy.
 
 (2) A szövetkezeti hitelintézetek hosszú távú prudens működésének intézményi garantálása és a szövetkezeti hitelintézetek szavatoló tőkéjének biztosítása érdekében az e törvényben meghatározottak szerint létrejön a szövetkezeti hitelintézetek integrációja. A szövetkezeti hitelintézetek integrációjának szervei az Integrációs Szervezet és a Takarékbank Zrt. A szövetkezeti hitelintézetek integrációjának központi bankja a Takarékbank Zrt.
 

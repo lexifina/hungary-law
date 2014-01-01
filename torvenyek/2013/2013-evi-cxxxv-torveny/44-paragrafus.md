@@ -1,9 +1,0 @@
-## „3:305. § [Átváltoztatható kötvény helyett részvény igénylése és átváltozó kötvény átalakulása]
-
-## (1) Az átváltoztatható kötvény tulajdonosai a kötvény futamidején belül, a közgyűlés által meghatározott időtartam alatt írásban – nyomdai úton előállított kötvények esetén a kötvényeknek az igazgatóság részére történő benyújtásával – kötvényeik helyébe részvényt igényelhetnek. Ha a kötvényeket a részvények névértékénél, illetve kibocsátási értékénél alacsonyabb összeggel bocsátották ki, a kötvénytulajdonos a bejelentéssel egyidejűleg köteles a kötvény és a részvény névértéke, illetve kibocsátási értéke közötti különbözetet a részvénytársaságnak megfizetni. A nyilatkozat megtételével a kötvénytulajdonos jogosulttá válik részvényutalványra.
-
-## (2) Az átváltozó kötvény az alaptőke felemelését átváltozó kötvény kibocsátása útján elhatározó közgyűlési határozatban foglalt objektív feltételek bekövetkezte alapján alakul át részvénnyé. Az átváltozó kötvény tulajdonosai az objektív feltétel bekövetkeztét követően belül, a közgyűlés által meghatározott időtartam alatt írásban – nyomdai úton előállított kötvények esetén a kötvényeknek az igazgatóság részére történő benyújtásával – kötvényeik helyébe részvényt igényelhetnek. A kötvénytulajdonos az objektív feltétel bekövetkeztével jogosulttá válik részvényutalványra. A kötvény átváltozása a törvény erejénél fogva következik be.
-
-## (3) A kötvényt kibocsátó közgyűlési határozatban foglaltaknak megfelelően az (1) és (2) bekezdés szerinti bejelentés megtételére rendelkezésre álló időtartam lejártát, ill. az objektív feltétel bekövetkeztét követő első közgyűlésen vagy a közgyűlési határozatban meghatározott időpontban kell az alaptőke felemeléséről dönteni, és ennek megfelelően a részvénytársaság alapszabályát módosítani.”
-
-44. § A polgári törvénykönyvről szóló 2013. évi V. tv. 3:319. § (5) bekezdése a következő szöveggel lép hatályba:

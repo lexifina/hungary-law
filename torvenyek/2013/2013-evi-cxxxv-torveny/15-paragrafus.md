@@ -16,7 +16,7 @@ d) az egységes informatikai rendszer kialakításáról.
 
 (4) Amennyiben a szövetkezeti hitelintézet nem tesz eleget az utasításnak vagy nem jogszabályoknak vagy a szabályzatoknak megfelelően működik:
 
-a) a Takarékbank Zrt. igazgatósága dönthet a szövetkezeti hitelintézet vezető tisztségviselői megbízatásának a felfüggesztéséről legfeljebb 180 napra, mely felfüggesztést legfeljebb további 180 napra meghosszabbíthat vagy – különösen indokolt esetben – dönthet megbízatásuk megszüntetéséről illetve átmeneti időre vezető tisztségviselő vagy tisztségviselők megbízásáról;
+a) a Takarékbank Zrt. igazgatósága dönthet a szövetkezeti hitelintézet vezető tisztségviselői megbízatásának a felfüggesztéséről legfeljebb 180 napra, mely felfüggesztést legfeljebb további 180 napra meghosszabbíthat; azzal, hogy döntéséről haladéktalanul tájékoztatja a Felügyeletet, amely intézkedik felügyeleti biztos kinevezése iránt;
 
 b) a Takarékbank Zrt. Igazgatóságának kezdeményezése alapján vagy saját kezdeményezéséből az Integrációs Szervezet igazgatósága dönt a szövetkezeti hitelintézet Integrációs Szervezeti tagságának a felfüggesztéséről vagy – indokolt esetben – a szövetkezeti hitelintézet Integrációs Szervezetből történő kizárásáról.
 
@@ -46,11 +46,11 @@ b) a Takarékbank Zrt. Igazgatóságának kezdeményezése alapján vagy saját 
 
 (15) Ha a részvényesi jogok felfüggesztésével érintett elsőbbségi részvények aránya az elsőbbségi részvényeken belül elérik az 50%-ot, abban az esetben az érintett részvénysorozathoz kapcsolódó jogok szünetelnek, azaz a szünetelés ideje alatt nem létezőnek tekintendők.
 
-(16) Az Integrációs Szervezet által meghatározott esetekben és célokra a Takarékbank Zrt. az Integrációs Szervezet tagjainak eszközeit illetve kötelezettségeit időről-időre átvizsgálhatja, és a 19. §. (5) bekezdésben szereplő megállapításokat teheti, ill. intézkedéseket alkalmazhatja.
+(16) Az Integrációs Szervezet által szabályzatban meghatározott esetekben és célokra a Takarékbank Zrt. az Integrációs Szervezet tagjainak eszközeit, illetve kötelezettségeit időről időre átvizsgálhatja, és a 19. § (5) bekezdésben szereplő megállapításokat teheti, illetve intézkedéseket alkalmazhatja.
 
 (17) Azt a kérdést, hogy fennáll-e a 4. bekezdés a) és b) illetve a 7. bekezdés a) és b) pontjában írt körülmény az Integrációs Szervezet igazgatósága jogosult eldönteni.
 
-(18)
+(18) Ahol a fenti (4)–(8) bekezdések az Integrációs Szervezet igazgatósága javára nevesítenek hatáskört, ott a Takarékbank Zrt. igazgatóságának van hatásköre.
 
 (19) A Takarékbank Zrt. mint a szövetkezeti hitelintézetek és az integráció központi bankja, a prudens működés biztosítása érdekében kizárólagos jogkörrel jogosult előzetesen jóváhagyni az egyes szövetkezeti hitelintézeteknek és az Integrációs Szervezetnek más gazdálkodó szervezetben, illetve jogi személyben történő tulajdonszerzését vagy a szerzett tulajdon értékesítését, ha az értékesíteni vagy megszerezni tervezett tulajdon értéke, illetve vételára meghaladja az integráció konszolidált alapon számított szavatoló tőkéje 0,1%-át. A tizenkét hónapon belül végrehajtott ügyleteket ugyanazon tulajdoni részesedés vonatkozásában össze kell számítani.
 
