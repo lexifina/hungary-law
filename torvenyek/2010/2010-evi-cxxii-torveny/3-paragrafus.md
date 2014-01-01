@@ -2,4 +2,4 @@
 
 (2) A NAV központi szervei a Központi Hivatal, a bűnügyi főigazgatóság, az informatikai feladatokat ellátó intézet, valamint a humánerőforrás-fejlesztési feladatokat ellátó intézet.
 
-(3) A bűnügyi főigazgatóság és a humánerőforrás-fejlesztési feladatokat ellátó intézet jogi személyiséggel rendelkező, a NAV fejezetén belül önállóan működő és gazdálkodó költségvetési szervek.
+(3) A bűnügyi főigazgatóság és a humánerőforrás-fejlesztési feladatokat ellátó intézet költségvetési szervek.

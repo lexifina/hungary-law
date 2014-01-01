@@ -10,8 +10,8 @@
 
 (5) A határidő az utolsó napjának végén jár le. A határidő az általános munkarend szerinti következő munkanap végén jár le, ha az utolsó nap az általános munkarend szerint heti pihenőnap vagy munkaszüneti nap.
 
-(6) A határidőt – e törvény eltérő rendelkezése hiányában – akkor kell megtartottnak tekinteni, ha a lejárat napjának végéig a jognyilatkozatot közlik, vagy ezen időpontig az egyéb magatartás tanúsítása megtörténik.
+(6) A határidőt – e törvény eltérő rendelkezése hiányában – akkor kell megtartottnak tekinteni, ha a lejárat napjának végéig a jognyilatkozatot közlik, vagy postára adják, vagy ezen időpontig az egyéb magatartás tanúsítása megtörténik.
 
 (7) A határidő elmulasztása akkor menthető ki, ha a határidőt megállapító jogszabály ezt kifejezetten megengedi.
 
-(8) A jogszabályban vagy a felek megállapodásában meghatározott, határidőnek nem minősülő időtartam számítására a (4)–(7) bekezdés nem alkalmazható, az ilyen időtartam számításánál a naptár az irányadó.
+(8) A jogszabályban vagy a felek megállapodásában meghatározott, határidőnek nem minősülő időtartam számítására a (3)–(7) bekezdés nem alkalmazható, az ilyen időtartam számításánál a naptár az irányadó.

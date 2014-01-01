@@ -1,6 +1,6 @@
 ## Tanulmányi szerződés
 
-33/A. § (1) A tanulmányi szerződésben a munkáltató vállalja, hogy a tanulmányok alatt támogatást nyújt, a kormánytisztviselő, a pénzügyőr, az ügykezelő pedig arra kötelezi magát, hogy a megállapodás szerinti tanulmányokat folytatja és a képzettség megszerzése után a támogatás mértékével arányos időn – de legfeljebb öt éven – keresztül kormányzati szolgálati jogviszonyát, illetve hivatásos szolgálati jogviszonyát lemondással nem szünteti meg. A tanulmányi szerződést írásba kell foglalni.
+33/A. § (1) A tanulmányi szerződésben a munkáltató vállalja, hogy a tanulmányok alatt támogatást nyújt, a kormánytisztviselő, a pénzügyőr, az ügykezelő pedig arra kötelezi magát, hogy a megállapodás szerinti tanulmányokat folytatja és a végzettség megszerzése után a támogatás mértékével arányos időn – de legfeljebb öt éven – keresztül kormányzati szolgálati jogviszonyát, illetve hivatásos szolgálati jogviszonyát lemondással nem szünteti meg. A tanulmányi szerződést írásba kell foglalni.
 
 (2) Nem köthető tanulmányi szerződés
 
@@ -16,7 +16,7 @@ b) ha a tanulmányok elvégzésére a munkáltató kötelezte a kormánytisztvis
 
 (6) Amennyiben a munkáltató a támogatást nem biztosítja, vagy egyéb lényeges szerződésszegést követ el, a kormánytisztviselő, a pénzügyőr, az ügykezelő mentesül a szerződésből folyó kötelezettségei alól, és a szerződésszegésből eredő esetleges kárát érvényesítheti.
 
-(7) Amennyiben a támogatásban részesülő a tanulmányi szerződésbe foglalt tanulmányi kötelezettségeit nem teljesíti, nem lép a szerződés szerinti időpontban a munkáltatónál munkába, illetve a meghatározott időtartamot nem tölti le vagy egyéb lényeges szerződésszegést követ el, a munkáltató követelheti a ténylegesen nyújtott támogatásnak megfelelő összeg megtérítését.
+(7) Amennyiben a támogatásban részesülő a tanulmányi szerződésbe foglalt tanulmányi kötelezettségeit nem teljesíti, illetve a meghatározott időtartamot nem tölti le vagy egyéb lényeges szerződésszegést követ el, a munkáltató követelheti a ténylegesen nyújtott támogatásnak megfelelő összeg megtérítését.
 
 (8) Amennyiben a támogatásban részesülő a szerződésben kikötött időtartamnak csak egy részét nem tölti le, megtérítési kötelezettsége ezzel arányos.
 

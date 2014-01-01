@@ -1,17 +1,19 @@
-18/A. § (1) Kormányzati szolgálati jogviszony létesítésekor a Kttv.-ben meghatározott feltételeken túl a kijelölt miniszter által rendeletben meghatározott pszichikai alkalmasságra vonatkozó rendelkezéseket is alkalmazni kell az ott meghatározott munkakörök tekintetében.
+18/A. § (1) A munkáltatói jogkör gyakorlója a kijelölt miniszter rendeletében meghatározott szempontok figyelembevételével a kormányzati szolgálati jogviszony létesítését pszichikai alkalmassághoz kötheti.
 
-(2) A pszichikai alkalmassági vizsgálat során keletkezett adat kezelésének célja a kormányzati szolgálati jogviszony létesítéséhez a pszichikai alkalmassági feltételek fennállásának megállapítása.
+(2) A kormánytisztviselő – a kijelölt miniszter rendeletében meghatározottak szerint – soron kívüli pszichikai alkalmassági vizsgálatra kötelezhető. A pénzügyi nyomozói munkakörben foglalkoztatott kormánytisztviselő pszichikai alkalmasságát a kijelölt miniszter rendeletében meghatározott időszakonként ellenőrizni kell.
 
-(3) Az adatok köre
+(3) Amennyiben a kormánytisztviselő
 
-a) az alkalmassági minősítést megalapozó pszichikai állapotra vonatkozó, illetve
+a) a (2) bekezdés szerinti vizsgálat alapján feladatai ellátására alkalmatlan,
 
-b) az alkalmasság minősítését tartalmazó
+b) a (2) bekezdés szerinti vizsgálaton önhibájából nem vesz részt,
 
-adat.
+kormányzati szolgálati jogviszonyát felmentéssel meg kell szüntetni.
 
-(4) A (2) bekezdésben meghatározott célból a pszichikai állapotra vonatkozó vizsgálati adatokat, a vizsgálatok teljes egészségügyi dokumentációját kizárólag az alkalmasság megállapításában résztvevő pszichológus, valamint a vizsgálat lefolytatásában részt vevő asszisztens kezelheti.
+(4) A (3) bekezdés a) pontjában meghatározott okból bekövetkező alkalmatlanság esetén a kormánytisztviselő akkor menthető fel, ha a munkáltatónál a végzettségének és állapotának megfelelő betöltetlen munkakör nincs, vagy ha a felajánlott ilyen munkakört nem fogadja el.
 
-(5) A munkáltatói jogkör gyakorlója és a személyügyi igazgatási feladatokat ellátó szervezeti egység részére kizárólag a (3) bekezdés b) pontjában meghatározott adat továbbítható.
+(5) A pszichikai alkalmassági vizsgálat rendjét a kijelölt miniszter rendeletben határozza meg.
 
-(6) A (3) bekezdésben meghatározott adatok az egészségügyi és hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló törvényben meghatározott ideig kezelhetők.
+(6) A pszichikai állapotra vonatkozó vizsgálati adatokat, a vizsgálatok teljes egészségügyi dokumentációját kizárólag az alkalmasság megállapításában részt vevő pszichológus, a vizsgálat lefolytatásában részt vevő asszisztens, valamint orvosi bizottság kezelheti, illetve kizárólag részére továbbítható.
+
+(7) A munkáltatói jogkör gyakorlója és a személyügyi igazgatási feladatokat ellátó szervezeti egység részére kizárólag a pszichikai alkalmassági vizsgálat minősítése továbbítható a kormányzati szolgálati jogviszony létesítése, illetve fenntartása feltételeinek megállapítása érdekében.

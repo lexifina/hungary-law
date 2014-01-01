@@ -6,4 +6,6 @@
 
 (3) Az (1) bekezdés szerinti felfüggesztésnek akkor van helye, ha az a bűncselekmény, amely miatt az érintett ellen a büntetőeljárás indult, a NAV tekintélyét, működésébe vetett közbizalmat súlyosan veszélyezteti, vagy a büntetőeljárás miatt az érintettnek a munkahelytől való távoltartása indokolt.
 
-(4) Amennyiben az érintett a bűncselekmény elkövetését a büntetőeljárás során beismerte vagy tetten érték, és megfelelő bizonyítékok állnak rendelkezésre, a kormánytisztviselő, az ügykezelő Kttv. 64. § (1) bekezdés szerinti méltatlanná válását, a pénzügyőr Hszt. 56. § (2) bekezdés b) pont ba) alpontja szerinti hivatásos szolgálatra alkalmatlanná válását a büntetőeljárás jogerős befejezése előtt is meg lehet állapítani.
+(4) Amennyiben a rendelkezésre álló adatok az érintett méltatlanná válásának a megállapítását megalapozzák, a kormánytisztviselő, az ügykezelő Kttv. 63. § (2) bekezdés a) pontja szerinti méltatlanná válását, a pénzügyőr Hszt. 56. § (2) bekezdés e) pontja szerinti méltatlanná válását a büntetőeljárás jogerős befejezése előtt is meg lehet állapítani.
+
+(5) A (4) bekezdés szerinti esetben a 33/P. § (7)–(8) bekezdés alkalmazásának helye van.

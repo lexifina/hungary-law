@@ -30,7 +30,7 @@ h) a kormánytisztviselői, a kormányzati ügykezelői, a hivatásos állomány
 
 i) az informatikai rendszerek és az elektronikus ügyintézés fejlesztése érdekében gazdasági társaságot működtet, amelynél a tulajdonosi jogokat a NAV elnöke gyakorolja,
 
-j) végzi a szerencsejáték-szervezéssel, valamint a játékautomatával és ajándéksorsolással kapcsolatos engedélyezési, nyilvántartási, továbbá az engedélyben foglaltak és a szerencsejáték szervezéséről szóló törvény, valamint a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény rendelkezései betartásával kapcsolatos ellenőrzési, a központi szerver üzemeltetés hatósági felügyeleti feladatokat.
+j) végzi a szerencsejáték-szervezéssel, valamint a játékautomatával és ajándéksorsolással kapcsolatos engedélyezési, nyilvántartási, továbbá az engedélyben foglaltak és a szerencsejáték szervezéséről szóló törvény, valamint a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény rendelkezései betartásával kapcsolatos ellenőrzési, hatósági felügyeleti feladatokat.
 
 (3) A NAV
 
@@ -58,7 +58,7 @@ f)
 
 g) ellátja a munkáltatók és kifizetők által foglalkoztatott biztosítottak adatainak nyilvántartásával, továbbá az adatoknak az egészségbiztosítás biztosítotti nyilvántartása és a munkaügyi hatóság részére történő átadásával kapcsolatos, jogszabályban az állami adó- és vámhatóság feladataként meghatározott feladatokat,
 
-h) az államháztartásról szóló törvény végrehajtására kiadott jogszabályokban meghatározottak szerint ellátja a befolyt illetékbevételnek a központi költségvetést, illetve a fővárosi, megyei, megyei jogú városi önkormányzatokat megillető hányadának megállapításával kapcsolatos feladatokat, továbbá jogszabályban meghatározottak szerint elvégzi az illetékek zárási összesítését és végzi az azzal kapcsolatos, az adópolitikáért felelős miniszter részére teljesítendő adatszolgáltatást,
+h) jogszabályban meghatározottak szerint elvégzi az illetékek zárási összesítését és végzi az azzal kapcsolatos, az adópolitikáért felelős miniszter részére teljesítendő adatszolgáltatást,
 
 i) ellátja a csődeljárásban, a felszámolási eljárásban, a végelszámolásban, a kényszertörlési eljárásban, a vagyonrendezési és adósságrendezési eljárásban a NAV hatáskörébe tartozó követelések tekintetében a hitelezői feladatokat, és jogszabályban meghatározott esetben és módon egyéb hitelezők képviseletét; a végrehajtási eljárásban ellátja a végrehajtás foganatosítójaként a törvény által meghatározott feladatokat.
 
@@ -98,7 +98,7 @@ d) végzi az elfogott, előállított, őrizetbe vett, valamint fogva tartott sz
 
 e) jogszabályban meghatározott ellenőrzési kötelezettségeinek és jogosultságainak végrehajtása egyik formájaként mozgó egységekkel végzi Magyarország területén – az EU külső határán működő határátkelőhelyek kivételével – a mélységi ellenőrzési tevékenységet,
 
-f) végzi a közúti határátkelőhelyek üzemeltetését, a fenntartásukra és fejlesztésükre vonatkozó feladatok végrehajtását, az Európai Unió valamely tagállamával közös határszakaszon lévő, a Rendőrségnek üzemeltetésre átadott közúti határátkelőhelyek kivételével,
+f)
 
 g) a külön jogszabályban meghatározott rendvédelmi, igazgatási feladatokat.
 

@@ -6,7 +6,7 @@ a) a kormányzati szolgálati jogviszonyból, illetve a hivatásos szolgálati j
 
 b) a munkaszüneti és a pihenőnapról történő visszarendeléssel összefüggően,
 
-c) a pénzügyőr szolgálati érdekből történő áthelyezésével vagy vezénylésével kapcsolatosan, valamint az átköltözés folytán
+c) a pénzügyőr szolgálati érdekből történő belső áthelyezésével vagy vezénylésével kapcsolatosan, valamint az átköltözés folytán
 
 indokoltan merültek fel.
 

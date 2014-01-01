@@ -32,6 +32,8 @@ c) 21–30 éves jogviszonytól 4 munkanap,
 
 d) 30 éves jogviszony felett 5 munkanap.
 
+(4a) A (4) bekezdés alkalmazásában az ügykezelő és a munkavállaló jogviszonyát a 20/A. §-ban foglaltak szerint kell megállapítani.
+
 (5) Figyelemmel a 32/Q. § (3) bekezdésben foglaltakra is, a hosszabb tartamú pótszabadság a kormánytisztviselőnek, illetve a pénzügyőrnek abban az évben jár először, amelyben a (2), illetve (3) bekezdésben meghatározott besorolást eléri; az ügykezelőnek, illetve a munkavállalónak pedig abban az évben jár először, amelyben a (4) bekezdésben meghatározott időtartamú jogviszonyt betölti.
 
 (6) Vezetők esetében a pótszabadság mértéke évente:

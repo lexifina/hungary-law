@@ -26,7 +26,7 @@ besorolást kap.
 
 (4) A kormánytisztviselő és a pénzügyőr – a jogviszony időtartamától függetlenül – magasabb besorolási fokozatba, fizetési fokozatba sorolható, amennyiben "kiválóan megfelelt" minősítést kap, és kimagasló munkát végez.
 
-(5) Azt a kormánytisztviselőt, illetve pénzügyőrt, aki állam- és jogtudományi doktori, igazgatásszervezői, okleveles közgazdász képesítést, illetve a Nemzeti Közszolgálati Egyetem Rendészettudományi Karán oklevelet szerzett, valamint azt aki egyébként jeles minősítésű oklevéllel rendelkezik, a fogalmazó besorolási fokozat 2-es fizetési fokozatába kell sorolni, akkor is, ha a kormányzati szolgálati jogviszonyban, illetve a hivatásos szolgálati jogviszonyban töltött ideje az e besorolási fokozathoz előírt időtartamot nem éri el.
+(5) Azt a kormánytisztviselőt, illetve pénzügyőrt, aki jogász, igazgatásszervező, okleveles közgazdász szakképzettséget, illetve a Nemzeti Közszolgálati Egyetem Rendészettudományi Karán oklevelet szerzett, valamint azt aki egyébként jeles minősítésű oklevéllel rendelkezik, a fogalmazó besorolási fokozat 2-es fizetési fokozatába kell sorolni, akkor is, ha a kormányzati szolgálati jogviszonyban, illetve a hivatásos szolgálati jogviszonyban töltött ideje az e besorolási fokozathoz előírt időtartamot nem éri el.
 
 (6) Az (1) bekezdéstől eltérően azt a pályakezdő kormánytisztviselőt, illetve pénzügyőrt, aki bizonyítványát, oklevelét kiváló vagy annak megfelelő minősítéssel szerezte meg, a fogalmazó besorolási fokozat 2-es fizetési fokozatába, illetve előadó besorolási fokozat 2-es fizetési fokozatába kell sorolni.
 

@@ -10,11 +10,7 @@ c) munkáltatói jogkört gyakorló elöljáró: a munkáltatói jogkört gyakor
 
 d) pályakezdő: az a kormánytisztviselő, pénzügyőr, aki a besorolása alapjául szolgáló iskolai végzettségének megszerzését követően egy éven belül első foglalkoztatási jogviszonyként kormányzati szolgálati jogviszonyt, hivatásos szolgálati jogviszonyt létesít;
 
-e) pénzügyi nyomozó:
-
-ea) az a pénzügyőr, aki a NAV bűnmegelőzési, bűnüldözési, bűnfelderítési és nyomozati feladatait látja el,
-
-eb) a NAV állományában lévő azon személy, aki az ea) pont szerinti feladatokat kormánytisztviselőként látja el;
+e)
 
 f) munkavégzési hely/szolgálatteljesítési hely: a munkáltató székhelye, illetve azon telephelye (kihelyezett szervezeti egység, ügyfélkapcsolati hely/ügyfélszolgálat, kirendeltség), ahol az érintett munkáját szokásosan végzi, ha pedig a munkáját szokásosan a munkáltató székhelyén, telephelyén kívül végzi, ahol közvetlen vezetője felé beszámolási kötelezettségét teljesíti;
 
@@ -23,6 +19,12 @@ g) a munkáltató szervezetszerű működési területe: az a földrajzilag kör
 h) munkáltató: a NAV-nak az a központi, középfokú, illetve alsófokú szerve, amelynek állományába a kormánytisztviselő, a pénzügyőr, az ügykezelő, munkavállaló tartozik;
 
 i) szervezeti egység: a szerv azon szervezeti eleme, amelyet osztályvezető (ideértve az osztályt vezető főosztályvezető-helyettest is), illetve főosztályvezető vezet, valamint a kirendeltség.
+
+(1a) E törvény, valamint a NAV személyi állományának jogviszonyát szabályozó más jogszabályok alkalmazásában pénzügyi nyomozó:
+
+a) az a pénzügyőr, aki a NAV bűnmegelőzési, bűnüldözési, bűnfelderítési és nyomozati feladatait látja el,
+
+b) a NAV állományában lévő azon személy, aki az a) pont szerinti feladatokat kormánytisztviselőként látja el.
 
 (2) E törvény alkalmazásában:
 

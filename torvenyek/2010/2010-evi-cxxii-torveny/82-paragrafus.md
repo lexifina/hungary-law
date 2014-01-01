@@ -1,6 +1,6 @@
 82. § Felhatalmazást kap a kijelölt miniszter, hogy rendeletben állapítsa meg:
 
-a) a különleges eszközök és más módszerek engedélyezésével és igénybevételével kapcsolatos eljárási szabályokat,
+a)
 
 b) a váminformációs rendszerrel kapcsolatos részletszabályokat,
 
@@ -10,6 +10,6 @@ d) a rendészetért felelős miniszterrel egyetértésben a NAV-nál alkalmazás
 
 e) a rendészetért felelős miniszterrel egyetértésben az elfogott, előállított, őrizetbe vett és fogva tartott személyek őrzésének, kísérésének részletes eljárási szabályait,
 
-f) a NAV fontos és bizalmas, illetve az adathozzáférési szempontból védett munkakörei, beosztásai tekintetében kormánytisztviselőként kormányzati szolgálati jogviszony létesítéséhez szükséges, pszichikai alkalmassághoz kötött munkaköröket és a pszichikai alkalmassági vizsgálat szabályait,
+f) a kormányzati szolgálati jogviszony létesítése pszichikai alkalmassághoz kötésének szempontjait, a kormánytisztviselők, ügykezelők tekintetében az egészségi, pszichikai alkalmasság követelményeit, az egészségi, pszichikai alkalmassági követelmények felmérésének szabályait, az alkalmassági vizsgálatok fajtáit, a felmérést végző szervek, szervezetek kijelölését, az alkalmassági vizsgálatok eljárási rendjét, az egészségi, pszichikai alkalmassági követelményeknek való meg nem feleléssel kapcsolatos eljárást,
 
 g) a NAV bűnmegelőzési, bűnüldözési, valamint szabálysértési tevékenységével összefüggésben keletkezett adatok kezelésére jogosult szerveit és az adatok kezelésének technikai szabályait.

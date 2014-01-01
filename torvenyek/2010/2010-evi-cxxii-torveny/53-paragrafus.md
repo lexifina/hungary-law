@@ -14,7 +14,7 @@ e) a bűncselekmény elkövetőjének leleplezésére vagy a bizonyítás érdek
 
 f) mintavásárlás végzése érdekében informátort, bizalmi személyt, a felhatalmazott szervekkel titkosan együttműködő más személyt vagy fedett nyomozót, továbbá – az ügyész engedélyével – álvásárlás, bizalmi vásárlás, bűnszervezetbe való beépülés, illetve – a 37. § rendelkezéseinek figyelembevételével – ellenőrzött szállítás folytatása érdekében fedett nyomozót alkalmazhatnak,
 
-g) ha a bűncselekmény megelőzésére, felderítésére, az elkövető elfogására, kilétének megállapítására nincs más lehetőség, a sértettet szerepkörében – életének, testi épségének megóvása érdekében – pénzügyi nyomozó – ide nem értve a nem hivatásos pénzügyi nyomozót – igénybevételével helyettesíthetik.
+g) ha a bűncselekmény megelőzésére, megakadályozására, felderítésére, az elkövető elfogására, kilétének megállapítására nincs más lehetőség, a sértettet szerepkörében – életének, testi épségének megóvása érdekében – pénzügyi nyomozó – ide nem értve a nem hivatásos pénzügyi nyomozót – igénybevételével helyettesíthetik.
 
 h) hírközlési rendszerekből és egyéb adattároló eszközökből információt gyűjthetnek.
 

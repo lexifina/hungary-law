@@ -6,9 +6,9 @@
 
 a) ha a postai küldemény címzettje [a jognyilatkozat címzettje vagy a 16/E. § (3)–(4) bekezdés szerinti képviselője] a küldemény átvételét megtagadta, vagy
 
-b) a postai szolgáltatásokra vonatkozó jogszabály szerint a címzett küldeményeinek átvételére feljogosított meghatalmazottja a küldemény átvételét megtagadta, vagy
+b) a postai szolgáltatásokra vonatkozó jogszabály szerint a címzett küldeményeinek átvételére feljogosított meghatalmazottja a küldemény átvételét megtagadta,
 
-c) ha az a) pont szerinti címzett, vagy a b) pont szerinti meghatalmazott a kézbesítés időpontjában nem tartózkodik a címben megjelölt helyen, és az a) pont szerinti címzett 14. életévét betöltött közeli hozzátartozója vagy élettársa – kivéve, ha a címzett e hozzátartozókat a küldemények átvételéből kizárta – a küldemény átvételét megtagadta,
+c)
 
 a küldemény átvételének megtagadása napján közöltnek kell tekinteni.
 

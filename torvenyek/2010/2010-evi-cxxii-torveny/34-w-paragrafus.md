@@ -18,17 +18,17 @@ d) a minősítés és a teljesítményértékelés megállapításaival;
 
 e) a fizetési felszólítással kapcsolatos ügyben, kivéve, ha azt e törvény kizárja;
 
-f) a fegyelmi felelősséget megállapító határozattal;
+f) a fegyelmi ügyben hozott határozattal;
 
-g) a kártérítési felelősséget megállapító határozattal;
+g) a kártérítési ügyben hozott határozattal;
 
 h) a kártérítési felelősséget megállapító határozattal vagy önálló határozattal elbírált méltányossági, illetve fizetési könnyítési kérelem tárgyában hozott döntéssel;
 
-i) a 34/E. §-on alapuló állásból való felfüggesztéssel
+i) a 33/P. § (7) bekezdésén és a 34/E. §-on alapuló állásból való felfüggesztéssel
 
 kapcsolatos ügyekben, továbbá
 
-j) ha a pénzügyőr szolgálati panaszát, illetve az elsőfokú határozat elleni fellebbezését elutasították;
+j) ha a pénzügyőr szolgálati panaszát elutasították;
 
 k) ha a pénzügyőr ügyében a sérelmezett döntést a kijelölt miniszter hozta. A kijelölt miniszter fegyelmi ügyben hozott határozata az f) pont alapján támadható meg a bíróságnál.
 
@@ -38,7 +38,7 @@ k) ha a pénzügyőr ügyében a sérelmezett döntést a kijelölt miniszter ho
 
 (7) A munkavállaló a határozat közlésétől számított 30 napon belül fordulhat keresettel a bírósághoz
 
-a) a kártérítési felelősséget megállapító határozattal, illetve
+a) a kártérítési ügyben hozott határozattal, illetve
 
 b) a kártérítési felelősséget megállapító határozattal vagy önálló határozattal elbírált méltányossági, illetve fizetési könnyítési kérelem tárgyában hozott döntéssel
 
@@ -48,7 +48,17 @@ szemben.
 
 (9) A keresetlevél beadására megállapított határidőt megtartottnak kell tekinteni, ha a bírósághoz intézett keresetlevelet legkésőbb a határidő utolsó napján postára adták. Ha a fél a keresetlevél beadására megállapított határidőt elmulasztja, igazolással élhet.
 
-(10) A (4) bekezdés b)–k) pontjaiban foglalt esetekben a sérelmezett intézkedés a bíróság jogerős döntéséig nem hajtható végre, ide nem értve a 34/D. § (2) bekezdés utolsó mondata, és a (4)–(5) bekezdése szerinti esetet, továbbá ide nem értve a (4) bekezdés d) pontja szerinti esetben a megtámadott teljesítményértékelésen alapuló, 25. § szerinti eltérítést. Ha a teljesítményértékelés megállapításainak felülvizsgálata iránti perben hozott jogerős ítélet alapján az állapítható meg, hogy az eltérítésre nem kerülhetett volna sor, a különbözetet az eltérítés időpontjától számítva a Ptk. szerinti kamattal növelt összegben 15 napon belül ki kell fizetni.
+(10) A (4) bekezdés b)–g) és j)–k) pontjaiban foglalt esetekben a sérelmezett intézkedés a bíróság jogerős döntéséig nem hajtható végre, ide nem értve
+
+a) a 34/D. § (2) bekezdés utolsó mondata, és a (4)–(5) bekezdése szerinti esetet,
+
+b) a (4) bekezdés b) pontja szerinti esetet akkor,
+
+ba) ha az érintett munkavégzési helye, szolgálatteljesítési helye megszűnése miatt kerül sor a 18/B. § (2) bekezdés f) pont alkalmazására, illetve
+
+bb) ha a kinevezés, illetve a hivatásos szolgálati jogviszony egyoldalú módosítása a 18/B. § (3) bekezdésén vagy a 19/D. § (1) bekezdésén alapul,
+
+c) a (4) bekezdés d) pontja szerinti esetben a megtámadott teljesítményértékelésen alapuló, 25. § szerinti eltérítést; ha a teljesítményértékelés megállapításainak felülvizsgálata iránti perben hozott jogerős ítélet alapján az állapítható meg, hogy az eltérítésre nem kerülhetett volna sor, a különbözetet az eltérítés időpontjától számítva, a Ptk. szerinti kamattal növelt összegben 15 napon belül ki kell fizetni.
 
 (11) A (7) bekezdés a) pontjában foglalt esetben a sérelmezett határozat a bíróság jogerős döntéséig nem hajtható végre.
 

@@ -20,7 +20,7 @@ a) a rendfokozatot érintő fegyelmi büntetés, vagy bírósági ítélet végr
 
 b) ha ellene büntető, vagy fegyelmi eljárás van folyamatban,
 
-c) a részére meghatározott képzettség megszerzéséig, illetve képzési követelmény teljesítéséig.
+c) a részére meghatározott végzettség megszerzéséig, illetve képzési követelmény teljesítéséig, amennyiben a képzési követelményt a munkáltató kötelezése ellenére önhibájából nem teljesítette.
 
 (5) Ha a pénzügyőrt a (4) bekezdés b) pontja miatt nem léptették elő és az eljárás nem végződött rendfokozatot érintő büntetés kiszabásával, az eljárás jogerős befejezésekor a várakozási idő leteltének napjával elő kell léptetni.
 

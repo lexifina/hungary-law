@@ -1,8 +1,10 @@
-33/K. § (1) A 33/J. §-tól eltérően tábornok esetében a fegyelmi jogkör gyakorlója a NAV elnöke, de a vezetése alatt álló fegyelmi tanács rendfokozatban visszavetés, hivatásos szolgálati jogviszony megszüntetése, lefokozás fegyelmi büntetést nem szabhat ki.
+33/K. § (1) A 33/J. §-tól eltérően tábornok esetében a fegyelmi jogkör gyakorlója a NAV elnöke, de a vezetése alatt álló fegyelmi tanács rendfokozatot vagy szolgálati viszonyt érintő fegyelmi büntetést nem szabhat ki.
 
-(2) Tábornok esetében rendfokozatban visszavetés, hivatásos szolgálati jogviszony megszüntetése, lefokozás fegyelmi büntetés kiszabására az (1) bekezdés szerinti fegyelmi tanács javaslatot tesz a kijelölt miniszternek.
+(2) Tábornok esetében rendfokozatot vagy szolgálati viszonyt érintő fegyelmi büntetés kiszabására az (1) bekezdés szerinti fegyelmi tanács javaslatot tesz a kijelölt miniszternek.
 
-(3) A (2) bekezdés szerinti javaslat alapján a kijelölt miniszter tesz javaslatot a Köztársasági Elnöknek rendfokozatban visszavetés, hivatásos szolgálati jogviszony megszüntetése, lefokozás fegyelmi büntetés kiszabására.
+(3) A (2) bekezdés szerinti javaslat alapján a kijelölt miniszter tesz javaslatot a Köztársasági Elnöknek rendfokozatot vagy szolgálati viszonyt érintő fegyelmi büntetés kiszabására.
+
+(3a) Ha a kijelölt miniszter a javaslattal egyetért, a Hszt. 36. § (5)–(7) bekezdését kell alkalmazni.
 
 (4) Ha a kijelölt miniszter szerint egyik javasolt fegyelmi büntetés sem indokolt, az ügyet visszaküldi az (1) bekezdés szerinti fegyelmi tanács vezetőjének az eljárás folytatására, vagy – újabb fegyelmi tanács felállítása nélkül – 30 napon belül maga dönt az ügyben.
 

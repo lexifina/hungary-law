@@ -8,7 +8,7 @@ b) a munkaidőkereten felüli munkaidő, továbbá
 
 c) a készenlét alatt elrendelt munkavégzés esetén a munkahelyre érkezéstől a munkavégzés befejezéséig – ha az érintettnek több helyen kell munkát végeznie, az első helyre érkezéstől az utolsó helyen történő munkavégzés befejezéséig – terjedő időtartam.
 
-(2) A kormánytisztviselő, a pénzügyőr, az ügykezelő rendkívüli esetben, valamint a pénzügyőr a szolgálat érdekében kötelezhető arra, hogy a munkaidő-beosztáson felüli, vagy munkaidő-kereten felüli munkaidőben munkát végezzen (túlmunka).
+(2) A kormánytisztviselő, a pénzügyőr, az ügykezelő rendkívüli esetben, valamint a pénzügyőr a szolgálat érdekében kötelezhető arra, hogy a munkaidő-beosztáson felüli, vagy az (1) bekezdés b)–c) pontja szerinti időben munkát végezzen (túlmunka).
 
 (3) Nem minősül túlmunkának, ha a kormánytisztviselő, a pénzügyőr, az ügykezelő az engedélyezett távollét idejét a munkáltatóval történt megállapodás alapján ledolgozza.
 

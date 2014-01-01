@@ -2,7 +2,7 @@
 
 ## Az egyoldalú jognyilatkozat, a nyilatkozat, a megállapodás, a feltétel, a tájékoztatás
 
-16/B. § (1) Egyoldalú jognyilatkozatból csak törvényben, vagy törvény felhatalmazása alapján más jogszabályban, illetve a foglalkoztatási szabályzatban meghatározott esetben származhatnak jogok vagy kötelezettségek.
+16/B. § (1) Egyoldalú jognyilatkozatból csak az e törvényben, illetve a Kttv.-ben vagy a Hszt.-ben, vagy az e törvények felhatalmazása alapján más jogszabályban, illetve a foglalkoztatási szabályzatban meghatározott esetben származhatnak jogok vagy kötelezettségek.
 
 (2) Az egyoldalú jognyilatkozat a címzettel való közléssel válik hatályossá, és – e törvény, vagy a Kttv., illetve Hszt. eltérő rendelkezésének hiányában – csak a címzett hozzájárulásával módosítható, vagy vonható vissza.
 

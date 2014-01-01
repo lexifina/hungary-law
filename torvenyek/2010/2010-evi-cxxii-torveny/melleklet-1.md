@@ -6,7 +6,7 @@ I. BESOROLÁSI OSZTÁLY (felsőfokú iskolai végzettségű kormánytisztviselő
 
 II. BESOROLÁSI OSZTÁLY (középiskolai végzettségű kormánytisztviselők és pénzügyőrök)
 
-## | 1 | A | B | C | D | 2 | Besorolási fokozat megnevezése | Fizetési fokozat | Jogviszony időtartama (év) | Szorzószám | 3 | Gyakornok | 1 | 0–2 | 1,79 | 4 | Előadó | 2 | 2–4 | 1,90 | 5 | | 3 | 4–6 | 2,00 | 6 | | 4 | 6–8 | 2,20 | 7 | | 5 | 8–10 | 2,25 | 8 | | 6 | 10–12 | 2,30 | 9 | Főelőadó | 7 | 12–15 | 2,50 | 10 | | 8 | 15–18 | 2,60 | 11 | | 9 | 18–21 | 2,65 | 12 | | 10 | 21–24 | 2,70 | 13 | | 11 | 24–27 | 2,80 | 14 | | 12 | 27–29 | 2,85 | 15 | | 13 | 29–31 | 2,90 | 16 | Főmunkatárs | 14 | 31–33 | 3,30 | 17 | | 15 | 33–35 | 4,00 | 18 | | 16 | 35–37 | 4,20 | 19 | | 17 | 37 év felett | 4,40
+## | 1 | A | B | C | D | 2 | Besorolási fokozat megnevezése | Fizetési fokozat | Jogviszony időtartama (év) | Szorzószám | 3 | Gyakornok | 1 | 0-2 | 2,70 | 4 | Előadó | 2 | 2-4 | 2,80 | 5 | | 3 | 4-6 | 2,90 | 6 | | 4 | 6-8 | 3,10 | 7 | | 5 | 8-10 | 3,15 | 8 | | 6 | 10-12 | 3,20 | 9 | Főelőadó | 7 | 12-15 | 3,40 | 10 | | 8 | 15-18 | 3,50 | 11 | | 9 | 18-21 | 3,55 | 12 | | 10 | 21-24 | 3,60 | 13 | | 11 | 24-27 | 3,70 | 14 | | 12 | 27-29 | 3,75 | 15 | | 13 | 29-31 | 3,80 | 16 | Főmunkatárs | 14 | 31-33 | 4,00 | 17 | | 15 | 33-35 | 4,50 | 18 | | 16 | 35-37 | 4,70 | 19 | | 17 | 37-40 | 4,90 | 20 | | 18 | 40 év felett | 5,10
 
 III. BESOROLÁSI OSZTÁLY (ügykezelők)
 

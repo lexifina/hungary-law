@@ -23,3 +23,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-122-00-00
 | 2013-04-09 | 2012. évi CLXXXI. törvény | 2010-122-00-00.16 |
 | 2013-04-21 | 2013. évi XXXVII. törvény | 2010-122-00-00.17 |
 | 2013-09-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2010-122-00-00.18 |
+| 2014-01-01 | 2013. évi CC. törvény | 2010-122-00-00.19 |

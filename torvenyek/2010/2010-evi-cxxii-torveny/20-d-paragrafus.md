@@ -2,7 +2,7 @@
 
 20/D. § (1) A kormánytisztviselő, pénzügyőr, ügykezelő jogviszonya alapján havonta illetményre jogosult. Az illetményt száz forintra kerekítve kell megállapítani. A kerekítés nem minősül munkáltatói intézkedésen alapuló, az általánostól eltérő illetmény-megállapításnak.
 
-(2) Az illetmény a 21. § (1) bekezdése szerint megállapított alapilletményből, illetménykiegészítésből és – az e törvényben meghatározott feltételek esetén – illetménypótlékból, valamint pénzügyőr tekintetében rendfokozati illetményből áll. Az illetménypótlék mértékét az illetményalap százalékában kell meghatározni.
+(2) A kormánytisztviselő, pénzügyőr illetménye a 21. § (1) bekezdése szerint megállapított alapilletményből, illetménykiegészítésből és – az e törvényben meghatározott feltételek esetén – illetménypótlékból, valamint pénzügyőr tekintetében rendfokozati illetményből áll. Az illetménypótlék mértékét az illetményalap százalékában kell meghatározni.
 
 (3) Az alapilletmény, az illetménykiegészítés és a pénzügyőrök esetén a rendfokozati illetmény együttes összegének legalább a Kormány által meghatározott, garantált bérminimum összegét el kell érnie.
 

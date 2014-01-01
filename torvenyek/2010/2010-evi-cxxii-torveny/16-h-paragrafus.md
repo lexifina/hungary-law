@@ -1,6 +1,6 @@
 ## A semmisség, a megtámadhatóság és azok jogkövetkezménye
 
-16/H. § (1) Semmis az a megállapodás, amely jogszabályba vagy jó erkölcsbe ütközik, valamint amely jogszabály megkerülésével jött létre.
+16/H. § (1) Semmis az a megállapodás, amely jogszabályba vagy jóerkölcsbe ütközik, valamint amely jogszabály megkerülésével jött létre.
 
 (2) A színlelt megállapodás semmis, ha pedig más megállapodást leplez, azt a leplezett megállapodás alapján kell megítélni.
 

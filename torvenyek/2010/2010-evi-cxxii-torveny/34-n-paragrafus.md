@@ -20,4 +20,4 @@ b) a kárnak azt a részét, amelyet a károsult vétkes magatartása idézett e
 
 (6) A kár megtérítésére a 34/J. § (1)–(2) bekezdésében foglalt rendelkezéseket megfelelően alkalmazni kell.
 
-(7) Kormánytisztviselő, ügykezelő kirendelése, kormányzati érdekből történő kirendelése vagy határozott idejű áthelyezése esetén a munkáltatók felelőssége egyetemleges.
+(7) Kormánytisztviselő, ügykezelő kirendelése (Kttv. 53. §), kormányzati érdekből történő kirendelése (Kttv. 55. §) vagy határozott idejű áthelyezése (Kttv. 56. §) esetén a munkáltatók felelőssége egyetemleges.

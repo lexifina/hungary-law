@@ -16,6 +16,6 @@
 
 (8) Kiküldetés esetén a napidíjon túlmenően a munkáltató köteles a kormánytisztviselőnek, a pénzügyőrnek, az ügykezelőnek megfizetni a kiküldetés során felmerülő szükséges és igazolt többletköltségeit.
 
-(9) A NAV humánerőforrás-fejlesztési feladatokat ellátó intézete tanfolyami képzésén, továbbképzésén, valamint a NAV bármely szervénél megtartott oktatáson, tanfolyamon, képzésen való részvétel, amennyiben arra az érintett munkáltatójának szervezetszerű működési területén kívül, illetve a (2)–(3) bekezdés szerinti régió közigazgatási határain kívül kerül sor, kiküldetésnek minősül.
+(9) A NAV humánerőforrás-fejlesztési feladatokat ellátó intézete tanfolyami képzésén, továbbképzésén, valamint a NAV bármely szervénél, illetve a NAV valamely szerve által szervezett külső helyszínen megtartott oktatáson, tanfolyamon, képzésen való részvétel, amennyiben arra az érintett munkáltatójának szervezetszerű működési területén kívül, illetve a (2)–(3) bekezdés szerinti régió közigazgatási határain kívül kerül sor, kiküldetésnek minősül.
 
 (10) Az ideiglenes (három hónapot meg nem haladó) külföldi kiküldetést teljesítő pénzügyőrre a Kttv. 259. § (1) bekezdés 3. pont c) alpontja alapján kibocsátott kormányrendeletet megfelelően kell alkalmazni.

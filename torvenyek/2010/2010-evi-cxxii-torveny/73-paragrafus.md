@@ -1,6 +1,6 @@
-73. § (1) A NAV nyomozó hatósága a bűnüldözési feladatok teljesítése érdekében az adott bűncselekmény felderítése és nyomozása során – a (3) bekezdés szerinti eltéréssel – adótitoknak, vámtitoknak minősülő adatot, iratot vehet át a NAV adóztatási szervétől, illetve vámszervétől.
+73. § (1) A NAV nyomozó hatósága a bűnüldözési feladatok teljesítése érdekében az adott bűncselekmény felderítése és nyomozása során, illetve a 77. § szerinti feladatok ellátása érdekében – a (3) bekezdés szerinti eltéréssel – adótitoknak, vámtitoknak minősülő adatot, iratot vehet át a NAV adóztatási szervétől, illetve vámszervétől.
 
-(2) A NAV nyomozó hatósága a bűnüldözési feladatok teljesítése érdekében az adott bűncselekmény felderítése és nyomozása során bűnüldözési és egyéb rendszereit – a (4) bekezdés szerinti eltéréssel – egymással összekapcsolva egyedi adatkezelést végezhet.
+(2) A NAV nyomozó hatósága a bűnüldözési feladatok teljesítése érdekében az adott bűncselekmény felderítése és nyomozása során, illetve a 77. § szerinti feladatok ellátása érdekében a bűnüldözési rendszereit és a NAV egyéb rendszereit – a (4) bekezdés szerinti eltéréssel – egymással összekapcsolva egyedi adatkezelést végezhet.
 
 (3) Az 59. § (2) bekezdés szerinti esetben a NAV adóztatási szervétől, illetve vámszervétől csak ügyészi jóváhagyással vehető át adótitoknak, vámtitoknak minősülő adat, irat.
 

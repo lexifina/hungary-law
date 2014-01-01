@@ -6,7 +6,7 @@ a) a kormánytisztviselők, a pénzügyőrök, az ügykezelők vonatkozásában 
 
 b) a kormánytisztviselő, a pénzügyőr, az ügykezelő betegsége vagy a személyét érintő más elháríthatatlan akadály esetén az akadályoztatás megszűnésétől számított 30 napon belül adja ki, ha az esedékesség éve eltelt,
 
-c) ha a kormánytisztviselői jogviszony, illetve a hivatásos szolgálati jogviszony október 1-jén vagy azt követően kezdődött, az esedékességet követő év március 31-ig adhatja ki.
+c) ha a kormányzati szolgálati jogviszony, illetve a hivatásos szolgálati jogviszony október 1-jén vagy azt követően kezdődött, az esedékességet követő év március 31-ig adhatja ki.
 
 (3) A (2) bekezdés a) pontjában meghatározott szolgálati érdeknek minősül különösen
 
@@ -14,7 +14,7 @@ a) ha a szabadság kiadása miatt nem biztosítható a munkáltató alapfeladata
 
 b) ha a szabadság kiadása miatt nem biztosítható az előre nem tervezhető, rendkívüli feladatok határidőre történő ellátása,
 
-c) a NAVműködési körében fellépő veszélyhelyzet (baleset, elemi csapás, súlyos kár).
+c) a NAV működési körében fellépő veszélyhelyzet (baleset, elemi csapás, súlyos kár).
 
 (4) A tárgyévet követő hónap végéig a 32/N. § (1) bekezdés szerinti vezető megállapítja a kormánytisztviselő, a pénzügyőr, az ügykezelő tárgyévben igénybe vett, illetve ki nem adott szabadságának mértékét. A tárgyévben ki nem adott szabadságot a következő évben járó szabadság mértékéhez kell hozzászámítani.
 

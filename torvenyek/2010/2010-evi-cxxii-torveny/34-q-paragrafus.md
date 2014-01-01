@@ -1,6 +1,6 @@
 34/Q. § A kártérítés összegének kiszámításánál le kell vonni
 
-a) az elmaradt illetményre eső mindazon járulékot, amely a társadalombiztosítási szabályok szerint – mint jövedelmet pótló kártérítés (keresetpótló járadék) – nem képez járulékalapot,
+a) az elmaradt jövedelemre eső mindazon járulékot, amely a társadalombiztosítási szabályok szerint – mint jövedelmet pótló kártérítés (keresetpótló járadék) – nem képez járulékalapot,
 
 b) a társadalombiztosítás által nyújtott ellátást;
 

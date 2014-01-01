@@ -8,7 +8,7 @@
 
 (4) Az igény elévülése az igény érvényesítésének esedékessé válásától kezdődik. Az igény elévülését hivatalból kell figyelembe venni.
 
-(5) Az elévült igényt bírósági úton érvényesíteni nem lehet. Az elévülés utáni teljesítést elévülés címén visszakövetelni nem lehet.
+(5) Az elévült igényt bírósági úton érvényesíteni nem lehet, azonban az elévült követelés beszámítható, ha az elévülés az ellenkövetelés keletkezésekor még nem következett be. Az elévülés utáni teljesítést elévülés címén visszakövetelni nem lehet.
 
 (6) Ha a jogosult az igényét menthető okból nem tudta érvényesíteni, az akadály megszűnésétől számított 6 hónapon belül ezt akkor is megteheti, ha az elévülési idő már eltelt, vagy abból 6 hónapnál kevesebb van hátra.
 

@@ -1,6 +1,6 @@
-33/E. § (1) A 33/C. § (1) bekezdésében meghatározott jogviszony létesítésére, módosítására, illetve tevékenység folytatására vonatkozó kérelmet írásban, pénzügyőr esetében szolgálati úton kell benyújtani a 33/C. § szerinti engedélyezőhöz. Az engedély megszerzéséig az engedélyezni kért jogviszony nem létesíthető, arra irányuló tevékenység nem folytatható.
+33/E. § (1) A 33/C. § szerinti engedélyköteles jogviszony létesítésére, módosítására, illetve tevékenység folytatására vonatkozó kérelmet írásban, pénzügyőr esetében szolgálati úton kell benyújtani a 33/C. § szerinti engedélyezőhöz. Az engedély megszerzéséig az engedélyezni kért jogviszony nem létesíthető, arra irányuló tevékenység nem folytatható.
 
-(2) A kérelem tárgyában a munkáltatói jogkör gyakorlója 30 napon belül dönt.
+(2) A kérelem tárgyában az engedélyező 30 napon belül dönt.
 
 (3) Az engedélyezésről, illetve a kérelem elutasításáról írásban kell rendelkezni. Az elutasító döntést indokolni kell. Az engedélyezés határozott vagy határozatlan időtartamra történhet.
 

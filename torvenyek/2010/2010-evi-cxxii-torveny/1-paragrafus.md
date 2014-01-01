@@ -6,6 +6,6 @@
 
 1. § (1) A Nemzeti Adó- és Vámhivatal (a továbbiakban: NAV) államigazgatási és fegyveres rendvédelmi feladatokat is ellátó kormányhivatal. A NAV felügyeletét a miniszterelnök által kijelölt miniszter (a továbbiakban: kijelölt miniszter) látja el.
 
-(2) A NAV önállóan működő és gazdálkodó központi költségvetési szerv, amely a központi költségvetésben önálló fejezetet képez.
+(2) A NAV központi költségvetési szerv, amely a központi költségvetésben önálló fejezetet képez.
 
 (3) A NAV a részére a tárgyévi költségvetési törvényben meghatározott költségvetési támogatáson felül további – személyi juttatásokra, munkaadókat terhelő járulékokra és felhalmozási kiadásokra fordítható – támogatásra jogosult a költségvetési törvényben rögzített bevételi tervek teljesítésével összefüggésben. A bevételi követelményeket, a felhasználható forrás mértékét, jogcímét és ütemezését a költségvetési törvényben kell meghatározni.

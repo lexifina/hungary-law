@@ -1,6 +1,6 @@
-17/H. § (1) A Hszt. 56. § (1) bekezdés c) pontja alkalmazása során a legalább azonos szintű beosztás alatt a pénzügyőr képzettségének és végzettségének megfelelő munkakört kell érteni.
+17/H. § (1) A Hszt. 56. § (1) bekezdés c) pontja alkalmazása során a legalább azonos szintű beosztás alatt a pénzügyőr végzettségének megfelelő munkakört kell érteni.
 
-(2)
+(2) A Hszt. 75. § (4)–(5) bekezdését a NAV hivatásos állománya tekintetében azzal az eltéréssel kell alkalmazni, hogy ha a pénzügyőr az előírt egészségi, pszichikai és fizikai alkalmassági követelményeknek nem felel meg, úgy a Hszt. 75. § (4) bekezdés szerinti ismételt ellenőrzés mellőzésével a 17/C. § szerint kell eljárni.
 
 (3)
 

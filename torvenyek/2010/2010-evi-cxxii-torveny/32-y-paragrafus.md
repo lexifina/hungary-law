@@ -8,7 +8,7 @@
 
 (4) A kormánytisztviselőt és a pénzügyőrt soron kívül minősíteni kell, ha teljesítményértékelése alapján az állapítható meg, hogy feladatait nem, vagy nagyon csekély mértékben, illetve nagyon alacsony színvonalon teljesítette.
 
-(5) A minősítés – az érintett közvetlen vezetőjének javaslata alapján – a munkáltatói jogkör gyakorlójának a feladata.
+(5) A minősítés a munkáltatói jogkör gyakorlójának a feladata.
 
 (6) A minősítésben csak kellően alátámasztott, tényeken alapuló megállapítások szerepelhetnek. A minősített alkalmasságának megítélését írásban indokolni kell.
 

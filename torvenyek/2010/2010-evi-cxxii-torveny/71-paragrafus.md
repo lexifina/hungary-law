@@ -54,7 +54,7 @@ g) a természetes személy, jogi személy és egyéb szervezet által saját mag
 
 19. a szabálysértési nyilvántartásból.
 
-(3) A NAV nyomozó hatósága a bűnüldözési feladatok ellátása érdekében – a vonatkozó törvények rendelkezései szerint – a felhasználás céljának megjelölésével adatokat vehet át a banktitoknak, az értékpapírtitoknak és a pénztártitoknak, valamint más egyéb titoknak minősülő adatot törvény alapján kezelő szervtől, továbbá adótitoknak minősülő adatot, iratot vehet át az önkormányzati adóhatóságtól.
+(3) A NAV nyomozó hatósága a bűnüldözési feladatok, illetve a 77. § szerinti feladatok ellátása érdekében – a vonatkozó törvények rendelkezései szerint – a felhasználás céljának megjelölésével adatokat vehet át a banktitoknak, az értékpapírtitoknak és a pénztártitoknak, valamint más egyéb titoknak minősülő adatot törvény alapján kezelő szervtől, továbbá adótitoknak minősülő adatot, iratot vehet át az önkormányzati adóhatóságtól.
 
 (4) Az általános munkarend korlátaitól függetlenül kérhető adat a (2) bekezdés 1., 4., 9., 10., 11. és 12. pontjaiban felsorolt nyilvántartásokból, a közúti közlekedési nyilvántartások közül az engedély-nyilvántartásból és a járműnyilvántartásból, valamint a bűnügyi nyilvántartások közül a bűntettesek nyilvántartásából. Az adatkéréseket hiányos és töredékadatok esetén is teljesíteni kell.
 

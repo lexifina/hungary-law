@@ -30,6 +30,6 @@ g) a hozzáadottérték-adó területén történő közigazgatási együttműk�
 
 h) a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény szerinti pénzügyi információs egységként működő hatóságot,
 
-i) az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvény (a továbbiakban: Aktv.) 4. § (3) bekezdés 8. pontjában meghatározott központi kapcsolattartó irodát és szükség esetén az Aktv. 4. § (3) bekezdés 7. pontjában meghatározott kapcsolattartó szervet,
+i) az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvény (a továbbiakban: Aktv.) 4. § (3) bekezdés 8. pontjában meghatározott központi kapcsolattartó irodát és szükség esetén az Aktv. 4. § (3) bekezdés 7. pontjában meghatározott kapcsolattartó szervet, valamint az Aktv. 43. §-ában meghatározott illetékes hatóságot,
 
 j) az Aktv. 4. § (4) bekezdés 6. pontjában meghatározott központi kapcsolattartó irodát és szükség esetén az Aktv. 4. § (4) bekezdés 4. és 5. pontjaiban meghatározott kapcsolattartó irodát és kapcsolattartó szervet.

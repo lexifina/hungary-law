@@ -4,9 +4,9 @@
 
 a) a 33/G. § (3) bekezdés b)–c) pontjában meghatározott büntetésnél a várakozási idő meghosszabbításának ideje alatt;
 
-b) a 33/G. § (3) bekezdés f) pontjában meghatározott büntetésnél a visszavetés időtartamának elteltéig;
+b) a 33/G. § (3) bekezdés d) és f) pontjában meghatározott büntetésnél a visszavetés időtartamának elteltéig;
 
-c) a 33/G. § (3) bekezdés d)–e) és g)–h) pontjában meghatározott büntetésnél 2 évig;
+c) a 33/G. § (3) bekezdés e) és g)–h) pontjában meghatározott büntetésnél 2 évig;
 
 d) a 33/G. § (4)–(5) bekezdésben meghatározott büntetésnél 2 évig;
 

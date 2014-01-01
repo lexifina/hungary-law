@@ -1,4 +1,4 @@
-32/Q. § (1) A kormánytisztviselő, a pénzügyőr, az ügykezelő részére, ha a kormányzati szolgálati jogviszonya, illetve a hivatásos szolgálati jogviszonya év közben kezdődött vagy szűnt meg, a szabadság arányos része jár.
+32/Q. § (1) A kormánytisztviselő, a pénzügyőr, az ügykezelő részére, ha a kormányzati szolgálati jogviszonya, illetve a hivatásos szolgálati jogviszonya év közben kezdődött vagy szűnt meg, az alap- és a 32/K. § szerinti pótszabadság arányos része jár.
 
 (2) A fél napot elérő töredéknap egész munkanapnak számít.
 

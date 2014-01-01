@@ -20,7 +20,7 @@ d) munkavállalókból
 
 (2) A NAV személyi állományába tartozó
 
-a) kormánytisztviselőkre és ügykezelőkre a közszolgálati tisztviselőkről szóló törvény (a továbbiakban: Kttv.),
+a) kormánytisztviselőkre és ügykezelőkre a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény (a továbbiakban: Kttv.),
 
 b) pénzügyőrökre a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény (a továbbiakban: Hszt.),
 

@@ -22,6 +22,8 @@ d) a kár olyan – jogszabályba ütköző – utasítás, parancs, teljesíté
 
 (5) A károkozó munkavállaló a (4) bekezdés a)–b) pont szerinti esetben háromhavi távolléti díjának (ellátmányának) összege erejéig felel.
 
+(5a) A (3)–(5) bekezdés alkalmazásában illetmény, távolléti díj, ellátmány alatt a károkozónak a károkozás hónapja szerinti besorolása, illetve munkavállaló esetében a károkozás hónapjára érvényes munkaszerződése szerinti, teljes hónapra számított illetményének, távolléti díjának, ellátmányának az azt terhelő adókkal és járulékokkal csökkentett összegét kell érteni.
+
 (6) Szándékos károkozás esetén a károkozó a teljes kárt köteles megtéríteni.
 
 (7) Nem kell megtéríteni azt a kárt, amelynek bekövetkezése a károkozás idején a károkozó által nem volt előre látható vagy amelyet a munkáltató vétkes magatartása okozott, vagy amely abból származott, hogy a munkáltató kárenyhítési kötelezettségének nem tett eleget.

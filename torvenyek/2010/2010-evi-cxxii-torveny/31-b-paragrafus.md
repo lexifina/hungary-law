@@ -1,6 +1,6 @@
 ## Címzetes címek
 
-31/B. § (1) A NAV elnöke a tartósan kiemelkedő munkát végző felsőfokú iskolai végzettségű kormánytisztviselőnek, amennyiben közigazgatási szakvizsgával rendelkezik, valamint a tartósan kiemelkedő munkát végző pénzügyőrnek címzetes vezetőtanácsosi, címzetes főtanácsosi, címzetes vezető-főtanácsosi, a középiskolai végzettségű kormánytisztviselőnek és pénzügyőrnek címzetes főmunkatársi címet adományozhat.
+31/B. § (1) A NAV elnöke a tartósan kiemelkedő munkát végző felsőfokú iskolai végzettségű kormánytisztviselőnek, amennyiben közigazgatási szakvizsgával rendelkezik, valamint a tartósan kiemelkedő munkát végző felsőfokú iskolai végzettségű pénzügyőrnek címzetes vezetőtanácsosi, címzetes főtanácsosi, címzetes vezető-főtanácsosi, a középiskolai végzettségű kormánytisztviselőnek és pénzügyőrnek címzetes főmunkatársi címet adományozhat.
 
 (2) Címzetes vezető-tanácsosi cím a legalább öt, címzetes főtanácsosi cím a legalább tizenkettő, címzetes vezető-főtanácsosi cím a legalább húsz, címzetes főmunkatársi cím a legalább tizennyolc év kormányzati szolgálati jogviszonyban, hivatásos szolgálati jogviszonyban töltött idővel rendelkező kormánytisztviselőnek, illetve pénzügyőrnek adományozható.
 

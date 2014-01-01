@@ -1,4 +1,4 @@
-33/D. § (1) A 33/C. § alkalmazása során nem engedélyezhető a kormánytisztviselő, a pénzügyőr, illetve az ügykezelő részére a 33/C. § (1) bekezdésében meghatározott jogviszony létesítése, illetve tevékenység folytatása, ha
+33/D. § (1) A 33/C. § alkalmazása során nem engedélyezhető a kormánytisztviselő, a pénzügyőr, illetve az ügykezelő részére a 33/C. § szerinti engedélyköteles jogviszony létesítése, illetve tevékenység folytatása, ha
 
 a) az a 33/B. § (2) bekezdésébe ütközik,
 
@@ -12,7 +12,7 @@ e) a tevékenység folytán a kormánytisztviselő, a pénzügyőr, az ügykezel
 
 f) a tevékenység a kormánytisztviselő, a pénzügyőr, illetve az ügykezelő munkaköri kötelességéből fakadó feladata, szolgálati feladata,
 
-g) az engedélyezni kért tevékenység folytatása a kormánytisztviselő, az ügykezelő beosztás szerinti munkaidejébe, illetve a pénzügyőr esetében a hivatásos szolgálati jogviszony keretében történő rendszeres munkavégzés idejébe esik, ide nem értve a 33/C. § (5) bekezdése szerinti esetet,
+g) az engedélyezni kért tevékenység (jogviszony) folytatása a kormánytisztviselő, az ügykezelő beosztás szerinti munkaidejébe, illetve a pénzügyőr esetében a hivatásos szolgálati jogviszony keretében történő rendszeres munkavégzés idejébe esik, ide nem értve a 33/C. § (2a) bekezdés szerinti tevékenységek (jogviszonyok) engedélyezésének esetét, ha az az e törvény szerint engedélykötelesnek minősül, valamint ide nem értve a 33/C. § (5) bekezdése szerinti esetet,
 
 h) az a kormánytisztviselő, az ügykezelő kormányzati szolgálati jogviszonyából, illetve a pénzügyőr hivatásos szolgálati jogviszonyából fakadó és a munkakörével járó kötelezettségei, feladatai, szolgálati feladatai maradéktalan ellátását veszélyezteti.
 

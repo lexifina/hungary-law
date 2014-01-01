@@ -14,7 +14,7 @@ e) számítástechnikai eszköz vagy rendszer útján továbbított vagy azon t�
 
 (2) Az (1) bekezdés c)–e) pontjában meghatározott eszközök alkalmazása során gyűjtött, a titkos információgyűjtés alapjául szolgáló eljárásban nyilvánvalóan nem érintett személyekre vonatkozó adatokat haladéktalanul meg kell semmisíteni, azok a továbbiakban nem kezelhetők és nem használhatók fel.
 
-(3) A felhatalmazott szervek az (1) bekezdésben felsorolt titkos információgyűjtésre szolgáló eszközöket és módszereket (a továbbiakban: különleges eszközök) az ott meghatározottak szerint alkalmazhatják a bűncselekmény gyanúja miatt körözött személy felkutatására, továbbá
+(3) A felhatalmazott szervek az (1) bekezdésben felsorolt titkos információgyűjtésre szolgáló eszközöket és módszereket (a továbbiakban: különleges eszközök) az ott meghatározottak szerint alkalmazhatják
 
 a) az (1) bekezdésben nem említett, a NAV nyomozóhatósági hatáskörébe utalt, üzletszerűen vagy bűnszövetségben elkövetett, három évig terjedő szabadságvesztéssel büntetendő bűncselekmény,
 
@@ -24,6 +24,6 @@ esetén.
 
 (4) Az (1) bekezdés c)–e) pontjaiban foglaltak teljesítéséhez a hírközlési, illetve a távközlési szolgáltató, valamint a postai szervezet köteles a feladatkörébe tartozó esetben a segítséget megadni.
 
-(4a) Az (1) bekezdés a)–b) pontjának alkalmazásában magánlakásnak minősül a lakás (üdülő, nyaraló vagy a lakás céljára használt egyéb helyiség, létesítmény, tárgy), az ahhoz tartozó nem lakás céljára szolgáló helyiség, létesítmény, bekerített terület, továbbá a nyilvános vagy a közönség részére nyitva álló helyen kívül minden más helyiség vagy terület is.
+(4a) Az (1) bekezdés a)–b) pontjának alkalmazása során magánlakásnak minősül a lakás (üdülő, nyaraló vagy a lakás céljára használt egyéb helyiség, létesítmény, tárgy), az ahhoz tartozó nem lakás céljára szolgáló helyiség, létesítmény, bekerített terület, a nyilvános vagy a közönség részére nyitva álló helyen kívül minden más helyiség vagy terület, továbbá – a közösségi közlekedési eszköz kivételével – a jármű is.
 
 (5) A NAV felhatalmazott szervei a bírói engedélyhez kötött titkos információgyűjtő eszközök alkalmazását a Nemzetbiztonsági Szakszolgálattól rendelik meg.

@@ -10,7 +10,7 @@ d) a külszolgálat időtartamára, ha házastársa vagy élettársa külszolgá
 
 (2) Az (1) bekezdés b) pontja szerinti tartós ápolást és annak indokoltságát az ápolásra szoruló személy kezelőorvosa igazolja.
 
-(3) A kormánytisztviselő, a pénzügyőr, az ügykezelő kérelmére a NAV elnöke – mérlegelési jogkörében eljárva – illetmény nélküli szabadságot engedélyezhet méltányolható egyéni indokok alapján, így különösen:
+(3) A kormánytisztviselő, a pénzügyőr, az ügykezelő kérelmére a munkáltatói jogkör gyakorlója – mérlegelési jogkörében eljárva – illetmény nélküli szabadságot engedélyezhet méltányolható egyéni indokok alapján, így különösen:
 
 a) nemzetközi szervezetek által kiírt pályázatok elnyerése esetén, ha az a munkáltató érdekével nem esik egybe,
 
