@@ -1,0 +1,1 @@
+A Kormány az Alaptörvény 15. cikk (3) bekezdésében foglalt eredeti jogalkotói hatáskörében, a 7. § tekintetében a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény 81. § (1) bekezdés b) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében foglalt feladatkörében eljárva a következőket rendeli el:
