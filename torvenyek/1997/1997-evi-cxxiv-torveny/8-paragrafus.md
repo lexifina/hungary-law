@@ -2,4 +2,4 @@
 
 (2) A 3. § (1) bekezdése szerinti járadékot negyedévenként, az adott negyedév első hónapjának 10. napjáig, az első negyedévben az első hónap utolsó napjáig kell rendelkezésre bocsátani, a 3. § (2) bekezdésében előírt korrekciót pedig egy összegben kell rendezni a költségvetés végrehajtásáról szóló törvény elfogadását követő hónap utolsó napjáig.
 
-(3) A 4. § szerinti személyijövedelemadó-részesedést és annak kiegészítését a miniszter által vezetett minisztérium költségvetési fejezetében kell megtervezni, és a felajánlást követő év január 31-éig a bevett egyháznak átutalni.
+(3) A bevett egyházakat a 4. §-ban meghatározottak szerint megillető személyi jövedelemadó-részesedést és kiegészítő támogatást a miniszter által vezetett minisztérium költségvetési fejezetében kell megtervezni, és a felajánlásokat követő évben január 31-éig a bevett egyháznak átutalni.
