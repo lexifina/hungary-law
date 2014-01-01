@@ -2,8 +2,9 @@
 
 (2) Az Eximbank exporthitel garanciát csak abban az esetben nyújthat, ha legkésőbb a garanciaszerződés megkötésének időpontjáig:
 
-a) az ügyletben résztvevők írásban nyilatkoznak arról, hogy az OECD Vesztegetésről és a hivatalosan támogatott exporthitelekről szóló cselekvési nyilatkozatában meghatározottak értelmében nem vettek részt az ügylettel kapcsolatos vesztegetésben és nincs tudomásuk korrupcióról;
+a)[^7] az OECD Megállapodás hatálya alá tartozó ügyletek esetében azok megfelelnek az OECD Tanácsának vesztegetésről és a hivatalosan támogatott exporthitelekről szóló ajánlásában meghatározottaknak és
 
 b) az Eximbank által az OECD Tanácsának az Exporthitelekről és a kellő környezeti és társadalmi körültekintésről szóló Ajánlásának megfelelően elvégzett környezeti célú átvilágítás vagy környezeti és társadalmi hatástanulmány alapján a finanszírozott ügylet nem minősül a környezetre nézve károsnak.
 
 [^6]: A 7. § (1) bekezdése a 184/2013. (VI. 7.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^7]: A 7. § (2) bekezdés a) pontja az 537/2013. (XII. 30.) Korm. rendelet 79. §-ával megállapított szöveg.
