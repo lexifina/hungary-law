@@ -1,24 +1,24 @@
-1. melléklet a 329/2007 (XII. 13.) Korm. rendelethez[^112]
+1. melléklet a 329/2007 (XII. 13.) Korm. rendelethez[^117]
 
-## Az általános rendőri szerv egyes szerveinek elnevezése és székhelye[^113]
+## Az általános rendőri szerv egyes szerveinek elnevezése és székhelye[^118]
 
-1.[^114] Az általános rendőri szerv központi szervének székhelye
+1.[^119] Az általános rendőri szerv központi szervének székhelye
 
 1.1. Országos Rendőr-főkapitányság, Budapest
 
-2.[^115] Az általános rendőri szerv egyes feladatok ellátására létrehozott szerveinek székhelye
+2.[^120] Az általános rendőri szerv egyes feladatok ellátására létrehozott szerveinek székhelye
 
-2.1.[^116]
+2.1.[^121]
 
-2.2.[^117]
+2.2.[^122]
 
 2.3. Készenléti Rendőrség, Budapest
 
 2.4. Repülőtéri Rendőr Igazgatóság, Budapest
 
-2.5.[^118] Bűnügyi Szakértői és Kutatóintézet, Budapest
+2.5.[^123] Bűnügyi Szakértői és Kutatóintézet, Budapest
 
-2.6.[^119] Központi Gazdasági Ellátó Igazgatóság, Budapest
+2.6.[^124] Központi Gazdasági Ellátó Igazgatóság, Budapest
 
 3. A rendőr-főkapitányságok elnevezése és székhelye
 
@@ -62,11 +62,11 @@
 
 3.20. Zala Megyei Rendőr-főkapitányság, Zalaegerszeg
 
-[^112]: Az 1. melléklet a 148/2010. (IV. 29.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^113]: Az 1. melléklet címe a 361/2010. (XII. 30.) Korm. rendelet 11. §-ával módosított szöveg.
-[^114]: Az 1. melléklet 1. pontja a 361/2010. (XII. 30.) Korm. rendelet 11. §-ával megállapított szöveg.
-[^115]: Az 1. melléklet 2. pontja a 361/2010. (XII. 30.) Korm. rendelet 11. §-ával megállapított szöveg.
-[^116]: Az 1. melléklet 2. pont 2.1. alpontját a 102/2012. (V. 18.) Korm. rendelet 20. §-a hatályon kívül helyezte.
-[^117]: Az 1. melléklet 2. pont 2.2. alpontját a 227/2012. (VIII. 23.) Korm. rendelet 7. § d) pontja hatályon kívül helyezte.
-[^118]: Az 1. melléklet 2. pont 2.5. alpontját a 276/2010. (XII. 15.) Korm. rendelet 2. § (3) bekezdése iktatta be.
-[^119]: Az 1. melléklet 2. pont 2.6. alpontját a 8/2012. (II. 1.) Korm. rendelet 4. §-a iktatta be.
+[^117]: Az 1. melléklet a 148/2010. (IV. 29.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^118]: Az 1. melléklet címe a 361/2010. (XII. 30.) Korm. rendelet 11. §-ával módosított szöveg.
+[^119]: Az 1. melléklet 1. pontja a 361/2010. (XII. 30.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^120]: Az 1. melléklet 2. pontja a 361/2010. (XII. 30.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^121]: Az 1. melléklet 2. pont 2.1. alpontját a 102/2012. (V. 18.) Korm. rendelet 20. §-a hatályon kívül helyezte.
+[^122]: Az 1. melléklet 2. pont 2.2. alpontját a 227/2012. (VIII. 23.) Korm. rendelet 7. § d) pontja hatályon kívül helyezte.
+[^123]: Az 1. melléklet 2. pont 2.5. alpontját a 276/2010. (XII. 15.) Korm. rendelet 2. § (3) bekezdése iktatta be.
+[^124]: Az 1. melléklet 2. pont 2.6. alpontját a 8/2012. (II. 1.) Korm. rendelet 4. §-a iktatta be.
