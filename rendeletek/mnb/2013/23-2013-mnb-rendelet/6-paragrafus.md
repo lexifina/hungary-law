@@ -1,0 +1,1 @@
+## 5. § A 2013. évre mint tárgyidőszakra vonatkozó, 2014. január 1-jét követően teljesítendő adatszolgáltatásokra a jegybanki információs rendszerhez szolgáltatandó információk és az információt szolgáltatók köréről, a szolgáltatás módjáról és határidejéről szóló 20/2012. (X. 15.) MNB rendelet szabályait kell alkalmazni.
