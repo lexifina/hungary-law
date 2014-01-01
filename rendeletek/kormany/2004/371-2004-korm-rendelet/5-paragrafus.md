@@ -1,3 +1,0 @@
-5. § (1) A vámhatóság a közösségi rendelet 13. cikkében meghatározott határidő lejártát követő munkanapon köteles értesíteni az áru bejelentőjét, birtokosát vagy tulajdonosát, aki az értesítés közlésétől számított két munkanapon belül raktárdíj megfizetése nélkül kérheti az áru vámkezelését.
-
-(2) A vámhatósági intézkedés miatt felmerült raktározási díjat, illetve a lefoglalással összefüggésben felmerülő egyéb költséget a vámhatóság részére az (1) bekezdés szerinti értesítés közlésétől számított két munkanapig a jogosultnak, az ezt követő naptól felmerülő költségeket az áru bejelentőjének, birtokosának vagy tulajdonosának kell megfizetnie.
