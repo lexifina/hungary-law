@@ -1,0 +1,423 @@
+## A befektetési alap és a befektetési alapkezelő felügyeleti jelentéseire vonatkozó kitöltési előírások
+
+## I.
+
+## A felügyeleti jelentésre vonatkozó általános szabályok
+
+## 1. Kapcsolódó jogszabályok, fogalmak, rövidítések
+
+## A felügyeleti jelentés teljesítése során alkalmazandó jogszabályok körét az 1. melléklet 1. pontja, a táblákban és a kitöltési előírásokban használt rövidítéseket az 1. melléklet 2. pontja, a fogalmak értelmezésére vonatkozó rendelkezést az 1. melléklet 3. pontja határozza meg.
+
+## 2. A felügyeleti jelentés formai követelményei
+
+## 2.1. A befektetési alapok éves beszámolóját tartalmazó pdf formátumú fájlokat az április utolsó hetében esedékes napi jelentések egyikéhez, vagy a heti jelentéshez kell csatolni.
+
+## 2.2. A felügyeleti jelentés további formai követelményeit az 1. melléklet 4. pontja határozza meg.
+
+## 3. A felügyeleti jelentés tartalmi követelményei
+
+## A felügyeleti jelentés tartalmi követelményeit az 1. melléklet 5. pontja határozza meg.
+
+## II.
+
+## A táblákra vonatkozó részletes szabályok
+
+## Az 50A, 50W és 50B táblákat a nyilvánosan létrehozott befektetési alapokról kell jelenteni. A nettó eszközértéket hetente vagy annál ritkábban megállapító alapoknál a nettó eszközértéket az adatszolgáltatást megelőző hét utolsó munkanapjára kell megállapítani.
+
+## 50A Befektetési alap nettó eszközértékének megállapítása
+
+## A tábla a nettó eszközértéket és az egy jegyre jutó nettó eszközértéket befektetési jegy sorozatonként tartalmazza.
+
+## Az illikvid eszközök elkülönítésével képzett sorozatot nem sorozatként, hanem önálló alapként kell jelenteni.
+
+## A tábla vonatkozási ideje a forgalmazás-elszámolási nap.
+
+## A táblát az alap nyilvántartás szerinti devizanemében kell kitölteni. A nyilvántartás szerinti devizától eltérő devizában denominált pénzügyi eszközöket, pénzeszközöket, követeléseket és kötelezettségeket az alap kezelési szabályzatában rögzítettek szerint kell a nyilvántartás szerinti devizanemre átszámolni.
+
+## A táblában az 50A158 sorkódig az alap egészére vonatkozó adatokat kell jelenteni.
+
+## Az 50A21-50A29 sorkódú ismétlő blokkok a befektetési jegy sorozatonkénti adatokat tartalmazzák.
+
+## Az ismétlő blokkon belüli egyéb követelés sorba akkor kell adatot írni, ha az egyéb követelésekből a sorozatra jutó rész egyértelműen elkülöníthető.
+
+## A tábla tartalmazza mindazon eszközöket, amelyekbe az alapok a Batv. szerint befektethetnek.
+
+## Az állampapírok – a limiteknek megfelelően – OECD és nem OECD állampapírok csoportosításba kerültek.
+
+## A tábla oszlopai
+
+## 1. oszlop: A befektetési alapban lévő egyes eszközök neve, az 50A01 és 50A02 kezdetű soroknál a számlavezetők megnevezése, az 50A13 kezdetű soroknál az ingatlanok címe, az 50A1563 kezdetű soroknál a kölcsönnyújtó megnevezése.
+
+## 2. oszlop: Az értékpapírok esetén az ISIN kód; az 50A01 és az 50A02 kezdetű sorok esetében a számlavezető intézménynek, az 50A1563 kezdetű soroknál pedig a kölcsönnyújtónak az ISO 9362 nemzetközi szabvány szerint meghatározott azonosító kódja [SWIFT/Bank Identifier Code (11 karakter)]; az 50A13 kezdetű soroknál az ingatlanok helyrajzi száma.
+
+## 3. oszlop: Az alapban található eszközök darabszáma.
+
+## 4. oszlop: A befektetési és egyéb eszközöknek az alap kezelési szabályzatában foglalt értékelési elvek szerint kiszámított értéke. A nem az alap nyilvántartás szerinti devizanemében denominált eszközöket – az alap kezelési szabályzatában foglaltak szerint – nyilvántartás szerinti devizanemre átszámított értéken kell jelenteni.
+
+## 5. oszlop: Az eszközök nettósított kockázati kitettségének a Bakr. 22. § (2) bekezdés szerint kiszámított értéke.
+
+## 6. oszlop: Annak a devizának az ISO kódja, amelyikben az adott sorban szereplő eszköz denominált. Ha ugyanazon eszközre különböző devizákban is van az alapnak pozíciója, akkor devizánként külön sorban kell azokat jelenteni.
+
+## A tábla sorai
+
+## 50A051 sor: Megfelelően likvid értékpapírnak minősül a tőzsdén jegyzett vagy elismert értékpapírpiacon forgalmazott olyan értékpapír, amelynek az utolsó naptári negyedévben mért napi átlagos forgalma meghaladja a százmillió forintot.
+
+## 50A052 sor: Az a tőzsdei papír, ami nem minősül megfelelően likvid értékpapírnak.
+
+## 50A06 sor: Az itt szereplő értékpapírok a befektetési korlátok szempontjából nem képeznek önálló kategóriát, rájuk a tőzsdén nem jegyzett értékpapírok korlátjai az irányadók.
+
+## 50A07 sor: A befektetési korlátok szempontjából az itt szereplő értékpapírok is a tőzsdén nem jegyzett értékpapírok közé sorolandók.
+
+## 50A10 sor: A Batv. 3. § 15. és 42. pontjában meghatározott értékpapírok.
+
+## 50A14 kezdetű sorok: A követelések között szerepel minden, a nettó eszközértéket növelő követelés, függetlenül a követelés típusától (eredetétől).
+
+## 50A143 sor: Az óvadéki repó ügyletek azonnali lábából származó követelések és az óvadéki repóba vétel után járó kamat időarányos része.
+
+## 50A144 sor: A szállításos repó ügyletek határidős lábából származó követelések.
+
+## 50A145 sor: Az értékpapír-kölcsön ügyletek határidős lábából származó követelések aktuális piaci értéke.
+
+## 50A15 kezdetű sorok: A kötelezettségek között szerepel minden, a nettó eszközértéket csökkentő tartozás, függetlenül a tartozás típusától (eredetétől).
+
+## 50A153 sor: Az óvadéki repó ügyletek azonnali lábából származó kötelezettségek és az óvadéki repóba adás után fizetendő kamat időarányos része.
+
+## 50A154 sor: A szállításos repó ügyletek határidős lábából származó kötelezettségek.
+
+## 50A155 sor: Az értékpapír-kölcsön ügyletek határidős lábából származó kötelezettségek.
+
+## 50A1561 sor: Az ingatlan tranzakciókkal kapcsolatos kötelezettségek (vételárhátralék, adók, illetékek, jutalékok, tanácsadási díjak stb.) az ingatlanfinanszírozáshoz kapcsolódó hitelek nélkül.
+
+## 50A1562 sor: Az ingatlanhasznosításhoz kapcsolódó kötelezettségek (pl. karbantartási költség, közüzemi díjak, őrzés, káresemények, építményadó).
+
+## 50A1563 sor: Az ingatlanfinanszírozás, ingatlanberuházás finanszírozása céljából felvett kölcsönök.
+
+## 50A3 sor: A befektetési alap azonosítására szolgáló ISIN kód. Minden jelentésnél ugyanannak a befektetési jegy sorozatnak az ISIN kódját kell beírni.
+
+## 50A5 sor: A befektetési alap nyilvántartási devizanemének ISO kódja.
+
+## 50W Befektetési alap egy jegyre jutó nettó eszközértéke
+
+## A táblát az alap nyilvántartás szerinti devizanemében kell kitölteni.
+
+## 50W2 sor: A befektetési alap azonosítására szolgáló ISIN kód. Minden jelentésnél ugyanannak a befektetési jegy sorozatnak az ISIN kódját kell beírni. Megegyezik az 50A3 sorban szereplő kóddal.
+
+## 50B Nettósított értékpapírpozíciók
+
+## A táblát az alap nyilvántartás szerinti devizanemében kell kitölteni.
+
+## Az értékpapír-pozíciók nettósításának egyes kérdései
+
+## Az azonnali ügyletek esetében az értékpapír-pozíciót nettósítani kell a megkötött, de még nem teljesített eladási és vételi tranzakciók – kezelési szabályzat szerinti – piaci áron számított értékével.
+
+## A határidős eladási tranzakció értékpapír-mennyiségével (névérték, darabszám) csökkenteni, míg a határidős vételi pozíció mennyiségével növelni kell az azonnali pozíció mennyiségét, és az így kialakult nettó pozíciót aktuális piaci áron értékelni. Másik lehetőség a tábla logikáját követve, a határidős pozíciót az azonnali piaci árral számításba venni és így nettósítani. A piaci ár meghatározásánál – itt és minden további esetben is – az alap kezelési szabályzatában foglaltakat kell alkalmazni.
+
+## Opciós ügyletek
+
+## Kiírt opció esetén a pozíció piaci értéke és a delta tényező szorzatával korrigálni kell az azonnali pozíciót.
+
+## Opciós jogosultság esetén az eladási, illetve vételi opció kötési volumene piaci áron számított nagyságának és az opció delta tényezőjének szorzatát lehet a nettósításnál figyelembe venni.
+
+## Az adott opció delta tényezőjét az alap tájékoztatójában – vagy ennek hiányában az alapkezelő saját szabályzatában – foglaltaknak megfelelően kell kiszámítani.
+
+## Index-termékek
+
+## Index-termékeknél a fentiekhez hasonlóan kell eljárni. Az alapkezelőnek mindenkor képesnek kell lennie nyomon követni és bemutatni, hogy azonnali portfoliójának egy része a nettósításhoz használandó indexszel legalább 80%-ban megegyezik úgy, hogy a portfolió rész kizárólag az indexben is szereplő papírokat tartalmaz. (Az adatszolgáltató az MNB kérésére a nyilvántartást a rendszeres felügyeleti jelentés esedékessége naptári évének utolsó napjától számított második naptári év végéig bármikor köteles rendelkezésre bocsátani az MNB részére.) Az index esetében történő nettósításnál a 80% feletti részben szereplő értékpapíroknak a 80% feletti részben képviselt súlya sem lehet nagyobb az adott értékpapírnak az adott befektetési alapfajtában törvény által meghatározott súly felénél.
+
+## Összetett termékek
+
+## Az összetett származékos termékeket (pl. index-opció) elemekre bontva, az egyes termékeknél leírtak szerint kell a nettósításnál figyelembe venni.
+
+## A tábla oszlopai
+
+## 1. oszlop: A portfolióban levő egyes befektetési eszközök neve.
+
+## 3. oszlop: Az adott befektetési eszköz devizaneme. A 50B001 sornál az alap nyilvántartás szerinti devizanemét kell megadni.
+
+## 4-6. oszlopok: Az alap nyilvántartás szerinti devizanemében kell kitölteni.
+
+## 6. oszlop: Ha a nettósítás eredményeként rövid pozíció jön létre, azt negatív előjellel kell szerepeltetni.
+
+## A tábla sorai
+
+## 50B100 Származtatott ügyletekben meglévő teljes kockázati kitettség: az alapban lévő származtatott eszközök egyenértékesített piaci értékének abszolút értéken számított összege a devizakockázatok fedezése céljából kötött származtatott ügyletek figyelembe vétele nélkül.
+
+## 50B101 Származtatott ügyletekben meglévő teljes nettósított kockázati kitettség: az alapban lévő nettósított származtatott eszközök egyenértékesített piaci értékének abszolút értéken számított összege a devizakockázatok fedezése céljából kötött származtatott ügyletek figyelembe vétele nélkül.
+
+## 50B103: ISIN kód az alap azonosítására: Megegyezik az 50A3 sorban szereplő ISIN kóddal.
+
+## 50C Portfóliók hozama, költsége, az alapkezelő díjbevétele
+
+## A táblát a befektetési alapok esetében befektetési jegy sorozatonként kell kitölteni.
+
+## A befektetési alapok kategorizálása
+
+| A befektetési alapok kategóriái | A besorolás kritériumai |
+
+| Likviditási alapok (ide értve a rövid lejáratú pénzpiaci alapokat is) | A portfolióban lévő eszközök súlyozott átlagos hátralévő futamideje a 60 napot, az eszközök súlyozott átlagos hátralévő élettartama a 120 napot nem haladhatja meg. Emellett az egyes értékpapírok hátralévő futamideje legfeljebb 397 nap lehet. |
+
+| Pénzpiaci alapok | A portfolióban lévő eszközök súlyozott átlagos hátralévő futamideje a 6 hónapot, az eszközök súlyozott átlagos hátralévő élettartama a 12 hónapot nem haladhatja meg. Emellett az egyes értékpapírok hátralévő futamideje legfeljebb 2 év, a legközelebbi kamat-meghatározási időpontig legfeljebb 397 nap lehet. |
+
+| Rövid kötvényalapok | A portfolióban lévő eszközök átlagos hátralévő futamideje 6 hónap és 3 év közötti. |
+
+| Hosszú kötvényalapok | A portfolióban lévő eszközök átlagos hátralévő futamideje meghaladja a 3 évet. |
+
+| Szabad futamidejű kötvényalapok | Olyan alapok, amelyek nem ragaszkodnak egy előre meghatározott durációs limithez. |
+
+| Kötvénytúlsúlyos (vagy óvatos) vegyes alapok | A portfolióban lévő nem kötvény típusú eszközök aránya nem haladja meg a 35%-ot. A nem részvény típusú eszközök kategóriánként (pl. ingatlan- típusú, árupiaci típusú) legfeljebb 20 %-ot tehetnek ki – ebből a szempontból a befektetési jegyek teljes egészében a kategóriának megfelelő kitettséget jelentenek, függetlenül az alap feltöltöttségétől. |
+
+| Kiegyensúlyozott vegyes alapok | A portfolióban lévő nem kötvény típusú eszközök aránya 35-65%. A nem részvény típusú eszközök kategóriánként (pl. ingatlan-típusú, árupiaci típusú) legfeljebb 40 %-ot tehetnek ki – ebből a szempontból a befektetési jegyek teljes egészében a kategóriának megfelelő kitettséget jelentenek, függetlenül az alap feltöltöttségétől. |
+
+| Dinamikus vegyes alapok | A portfolióban lévő nem kötvény típusú eszközök aránya meghaladja a 65%- ot. A nem részvény típusú eszközök kategóriánként (pl. ingatlan-típusú, árupiaci típusú) legfeljebb 40 %-ot tehetnek ki – ebből a szempontból a befektetési jegyek teljes egészében a kategóriának megfelelő kitettséget jelentenek, függetlenül az alap feltöltöttségétől. |
+
+| Részvényalapok | A portfolióban lévő részvény-típusú eszközök aránya meghaladja a 80%-ot. |
+
+| Árupiaci alapok | Azon alapok, amelyek legalább 50%-ban árupiaci kitettséget jelenítenek meg (ami lehet alapokon vagy származékos ügyleteken keresztül). |
+
+| Abszolút hozamú alapok | Azon alapok, amelyek tőkepiaci környezettől független pozitív hozam elérésére törekednek, és kiinduló pontként a kockázatmentes hozam meghaladását tekintik. |
+
+| Tőkevédett alapok | A Batv. 23. §-a szerinti hozamot, illetve tőkemegóvást ígérő, illetve garantáló alapok. |
+
+| Származtatott alapok | Azon származtatott ügyletekbe fektető alapok, amelyek nem tartoznak a fenti alapok közé. |
+
+| Közvetlen ingatlanokba fektető alapok | Azon alapok, amelyek az ingatlankitettséget közvetlen ingatlanok tartásával valósítják meg. |
+
+| Közvetett ingatlanokba fektető alapok | Azon alapok, amelyek a 40 %-ot meghaladó ingatlankitettséget közvetett módon (alapokon, ingatlanrészvényeken stb. keresztül) valósítják meg. |
+
+## Az egyes alapok kategóriába sorolásának kiegészítő szabályai:
+
+## a) Kötvény- és pénzpiaci alapok nem tartalmazhatnak részvény-típusú eszközöket. A határidős eladással fedezett részvények ebből a szempontból kötvényjellegű eszköznek minősíthetők, az eszköz futamideje ilyenkor megegyezik a határidős ügylet hátralévő lejárati idejével.
+
+## b) A befektetési jegyeket az őket kibocsátó alap kategóriájának megfelelően kell figyelembe venni.
+
+## c) A befektetési alapokba fektető alapok besorolását a mögöttes termék kategóriájának megfelelően kell figyelembe venni.
+
+## A tábla oszlopai:
+
+## 1. oszlop: Az alapkezelő által kezelt egyes portfoliók neve (a tábla sorainak megfelelő bontásban).
+
+## 2. oszlop: Befektetési alapok esetében a befektetési jegy sorozat ISIN kódja, kezelt portfoliók esetében a portfolió egyedi azonosítója. Az egyedi azonosítót úgy kell kialakítani, hogy az egyértelműen lehetővé tegye az alátámasztó dokumentumokkal történő azonosítást.
+
+## 3. oszlop: A tárgynegyedév utolsó napjára (utolsó forgalmazási nap) a portfolió kiszámított értéke (nettó eszközérték), ezer forintban kifejezve. A nem forintban denominált befektetési alapok esetében a nettó eszközértéket a negyedév fordulónapján érvényes MNB deviza középárfolyamon kell átszámolni.
+
+## 4. oszlop: Az alapkezelő által megadott, az alap, a pénztári, biztosítói vagy egyéb portfolió teljesítményének összehasonlító értékelésére szolgáló, előre kiválasztott mutató (referenciaindex, benchmark) negyedéves, nem évesített értéke, 2 tizedesjegy pontossággal (pl. 2,14% esetén 2,14-et kell beírni). Több tőkepiaci indexből álló referenciahozam esetén a referenciahozam az egyes tőkepiaci indexek hozamának súlyozott átlaga.
+
+## 5. oszlop: Az alap vagy a pénztári, biztosítói, illetve egyéb portfolió nettó (vagyis mindenfajta költség levonása utáni) negyedéves, nem évesített hozama, 2 tizedesjegy pontossággal.
+
+## 6. oszlop: Az 1. oszlopban tételesen felsorolt befektetési jegy sorozatok, pénztárak, biztosítói portfoliók, illetve egyéb portfoliók száma.
+
+## 7. oszlop: Az alapkezelési, portfoliókezelési díjaknak, sikerdíjaknak az alapkezelőnél bevételként elszámolt tárgynegyedévi összege.
+
+## 8. oszlop: Az adott negyedévben a kezelt portfolióra terhelt költségek. Nem kell figyelembe venni a befektetéshez közvetlenül kapcsolódó költségeket (pl. értékpapír tranzakciós költségek, fizetett opciós díjak).
+
+## A tábla sorai:
+
+## 50C51 sor: Halmozódástól tisztított összesen I. = (alapok+pénztárak+biztosítói portfoliók+egyéb portfoliók) - (a pénztári, biztosítói, egyéb portfoliókban lévő saját befektetési alapok befektetési jegyei)
+
+## 50C511 sor: Halmozódástól tisztított összesen II. = (alapok+pénztárak+biztosítói portfoliók+egyéb portfoliók) - (az alapokban és a pénztári, biztosítói, egyéb portfoliókban lévő saját befektetési alapok befektetési jegyei)
+
+## 50C5111 sor: Halmozódástól tisztított összesen III. = (alapok+pénztárak+biztosítói portfoliók+egyéb portfoliók) - (az alapokban és a pénztári, biztosítói, egyéb portfoliókban lévő hazai befektetési alapok befektetési jegyei)
+
+## 50D A hozamra és a tőke megóvására tett ígéret miatti kötelezettségek
+
+## A táblát portfoliónkénti bontásban kell kitölteni, a Batv. 23. §-ában leírtak figyelembe vételével.
+
+## A tábla oszlopai:
+
+## 1. oszlop: Az alapkezelő által kezelt portfoliók neve (a tábla sorainak megfelelő bontásban).
+
+## 3. oszlop: Kizárólag a tőke megóvására vállalt kötelezettség összege, amelyet bankgaranciával fedeztek.
+
+## 4. oszlop: A hozamra (és vele együtt a tőke megóvására) vállalt kötelezettség összege, amelyet bankgaranciával fedeztek.
+
+## 5. oszlop: Bankgaranciával nem fedezett, kizárólag a tőke megóvására tett ígéret (mint függő kötelezettségvállalás) összege.
+
+## 6. oszlop: Bankgaranciával nem fedezett, a hozamra (és vele együtt a tőke megóvására) tett ígéret (mint függő kötelezettségvállalás) összege.
+
+## 50F A befektetési alap egyes jellemzői
+
+## Azokra az alapokra kell kitölteni a táblát, amelyek a tárgynegyedévben legalább egy napon működtek.
+
+## A tábla oszlopai:
+
+## 3. oszlop Az alap működési formája és fajtája: A lehetséges értékek: nyilvános nyíltvégű, nyilvános zártvégű, zártkörű nyíltvégű, zártkörű zártvégű.
+
+## 4. oszlop Az elsődleges eszközkategória típusa: A lehetséges értékek: ingatlanalap, értékpapíralap, de ha az adott értékpapíralap besorolható az alábbi kategóriák valamelyikébe, akkor oda kell sorolni: alapok alapja, indexkövető alap, származtatott alap, ÁÉKBV.
+
+## 5. oszlop Befektetési politika: Az 50C táblánál felsorolt kategóriák közül kell megadni a megfelelőt.
+
+## 6. oszlop: Annak a földrajzi, gazdasági régiónak, illetve devizának a megnevezése, ami az alap nettó eszközértékének az alakulására leginkább hatással van, pl. hazai; közép-kelet európai; globális/USD; európai/EUR; ázsiai/JPY. Ha több régió, illetve deviza is megnevezhető, akkor az arányokat is fel kell tüntetni.
+
+## 7. oszlop: Az ISO 4217 szerinti devizakód.
+
+## 50GA Fogyasztói panaszügyekre vonatkozó adatok I. és
+
+## 50GB Fogyasztói panaszügyekre vonatkozó adatok II.
+
+## A táblák kitöltése:
+
+## Az adatszolgáltató magatartására, tevékenységére vagy mulasztására vonatkozó, a panasznyilvántartó rendszerben rögzített azon panaszokat kell jelenteni, amelyek az adatszolgáltatóhoz (akár ügyfélszolgálaton keresztül) írásban, illetve elektronikus úton érkeztek be, vagy szóban (telefonon vagy személyesen) hangzottak el. Nem kell szerepeltetni azokat a szóbeli panaszokat, amelyeket a szolgáltató azonnal megvizsgált és szükség szerint orvosolt, amennyiben a fogyasztó nem jelezte, hogy panasza kezelését vitatja.
+
+## Ha egy panasz több panasztípusba is besorolható, akkor a panasz elsődleges témája szerint kell a besorolást elvégezni.
+
+## A táblákban használt fogalmak:
+
+## Fogyasztó: az önálló foglalkozásán és gazdasági tevékenységén kívül eső célok érdekében eljáró természetes személy.
+
+## Panasztípusok
+
+## Tájékoztatási hiányosság
+
+## - szerződéskötés előtt
+
+## Ha a panasz elsősorban arra vonatkozik, hogy az ügyfelet az adatszolgáltató hiányosan, tévesen, vagy bármilyen egyéb okból nem megfelelően tájékoztatta az adott konstrukcióról, annak kockázatairól, az ügyfelet terhelő többletköltségekről, vagy bármilyen olyan tényezőről, amely az ügyfél szempontjából lényeges lehet a megfelelő üzleti döntés meghozatalához.
+
+## - szerződéskötés után
+
+## Ha a panasz a szerződéskötés utáni időszakban történt tájékoztatási hiányosságra vonatkozik (pl. szerződéses feltételek változásával, kondícióváltozással, jogokkal és kötelezettségekkel kapcsolatos téves, illetve hiányos tájékoztatás, portfolió-kimutatás „hiányos” tartalma).
+
+## Árfolyam
+
+## - egyes tranzakcióknál az árfolyam konkrét mértékének kifogásolása,
+
+## - az ügyfél szerint nem megfelelő árfolyam alkalmazása a kalkulációban,
+
+## - az árfolyam nem megfelelő figyelembevétele vagy figyelmen kívül hagyása egy-egy pénzügyi instrumentum értékének meghatározásánál,
+
+## - árfolyamváltozás kifogásolása,
+
+## - minden egyéb, az árfolyammal kapcsolatos panasz.
+
+## Szolgáltatás minősége
+
+## Az ügyfelekkel szemben tanúsított magatartás, udvariatlan kiszolgálás, nehezen elérhető ügyintézők, ügyintézés lassúsága stb.
+
+## Jutalék, költség, díj mértéke
+
+## A portfolió-kezelési tevékenységhez kapcsolódóan vagy egyéb címen felszámított jutalék, költség, díj mértéke, vagy új díj bevezetése miatti panasz.
+
+## Kamat, hozam mértéke
+
+## A nettó eszközérték számításával, az egy jegyre jutó nettó eszközérték meghatározásával kapcsolatos kifogások.
+
+## Nyilvántartási hiányosság
+
+## A megbízható és naprakész nyilvántartást biztosító számviteli és informatikai háttér hibáira, valamint az ügykezelés, adminisztráció során előforduló hibák (hibás bizonylat, beadvány elvesztése stb.) miatti panaszok.
+
+## Elszámolás
+
+## Ide sorolandók azok a panaszok, amelyek elszámolási vitát eredményeznek egyes tranzakciókkal (átutalási-átvezetési megbízás, portfólió-kezelési megbízás stb.) kapcsolatosan.
+
+## Megbízás teljesítése
+
+## Azok a panaszok, amelyek egyes tranzakciók hibás vagy elmaradt teljesítéséből erednek.
+
+## Egyoldalú szerződésmódosítás
+
+## Az ügyféllel kötött szerződés kamatának, díjának, minden egyéb költségnek vagy feltételnek a módosítása.
+
+## Elektronikus szolgáltatás
+
+## Azok a panaszok, amelyek kifejezetten az elektronikus eszköz nem kielégítő működésére, rendszerbeli hiányosságára vonatkoznak.
+
+## Jogosulatlan tevékenység
+
+## Az MNB engedélyének hiányában végzett engedélyköteles tevékenységgel kapcsolatos panaszok.
+
+## Pénzügyi visszaélés
+
+## Minden olyan beadvány, amelynek tárgya bűncselekmény elkövetésének (pl. csalás, pénzmosás) gyanúját veti fel.
+
+## Ügynök
+
+## Az adatszolgáltató ügynökének tevékenységével kapcsolatos panaszok.
+
+## Egyéb ügyviteli hibák
+
+## Postázási hiba, kötelező értesítések elmulasztása stb.
+
+## Egyéb okok
+
+## Minden, a fenti kategóriákba nem sorolható panasz.
+
+## 50GA Fogyasztói panaszügyekre vonatkozó adatok I.
+
+## A tábla 50GA11-50GA17 sorai: a Batv. 4. § (2) bekezdés a)-c) pontjaiban, valamint a Batv. 4. § (3) bekezdés a)-d) pontjaiban felsorolt tevékenységek.
+
+## 50GB Fogyasztói panaszügyekre vonatkozó adatok II.
+
+## A tábla kitöltésénél a peresített panaszügyeket is számításba kell venni.
+
+## A tábla sorai:
+
+## 50GB1 Tárgyidőszakban lezárt panaszügyek száma összesen: Ezen összesített adat négy különböző szempont (szolgáltatási ágak, panasz típusa, panaszkezelés időtartama, panaszügyek megalapozottsága) szerinti megbontását tartalmazza a tábla első része.
+
+## 50GB111-50GB117 sorok: A Batv. 4. § (2) bekezdés a)-c) pontjaiban, valamint a Batv. 4. § (3) bekezdés a)-d) pontjaiban felsorolt tevékenységek.
+
+## 50GB31 sor: Azon személyek száma, akik teljes munkaidőben foglalkoznak az intézmény érdekében a panaszügyekkel, panaszkezeléssel (akár munkavállalóként, akár egyéb jogviszony keretében). A tárgynegyedév végi állományi létszámot kell megadni.
+
+## 50GB331 Aktív lakossági befektetők száma az időszak végén (fő): Azon lakossági ügyfelek száma, akik az elmúlt negyedévben valamilyen szolgáltatást (pl. befektetési tanácsadást) igénybe vettek, vagy akiknek ügyfélszámláján vagy értékpapírszámláján egyenleg szerepel.
+
+## 50GB332 Lakossági ügyfelek részére vezetett értékpapírszámlák száma (db): A lakossági ügyfelek részére vezetett, a Tpt. 5. § (1) bekezdés 46. pontja szerinti értékpapírszámlák száma.
+
+## 50GB333 Lakossági ügyfelek részére vezetett ügyfélszámlák száma (db): A lakossági ügyfelek részére vezetett, a Tpt. 5. § (1) bekezdés 130. pontja szerinti ügyfélszámlák száma.
+
+## 50GB341 sor: A befektetési alapkezelőt, mint panaszoltat érintő azon ügyek száma, amelyek kapcsán a Pénzügyi Békéltető Testület eljárását megindította és erről a tárgynegyedévben értesítette az alapkezelőt.
+
+## 50GB342 sor: Azon ügyek száma, amelyekkel kapcsolatban a befektetési alapkezelő a tárgynegyedévben igenlő alávetési nyilatkozatot tett, függetlenül attól, hogy az eljárás mikor indult.
+
+## 50GB343 sor: Azon ügyek száma, amelyekkel kapcsolatban az alapkezelő a tárgynegyedévben a Pénzügyi Békéltető Testület döntését (határozatát, ajánlását) végrehajtotta, függetlenül attól, hogy az eljárás mikor indult.
+
+## 50GB344 sor: A Pénzügyi Békéltető Testület elé került azon ügyek száma, amelyekkel kapcsolatban az alapkezelő a tárgynegyedévben egyezségre jutott a panaszossal, függetlenül attól, hogy az eljárás mikor indult.
+
+## 50H Kereskedési partnerek, letétkezelők
+
+## A tábla kitöltése:
+
+## A befektetési alapkezelő által, a befektetéskezelési tevékenysége során, az üzletkötéshez igénybe vett kereskedési partnereket, letétkezelőket kell a táblában felsorolni partnerenként, letétkezelőnként külön-külön sorban kimutatva a velük szemben fennálló kitettség értékét.
+
+## A külföldi pénznemben fennálló számlaegyenlegek értékét és a külföldi devizában denominált értékpapírokat forintban kell szerepeltetni. Az átváltási árfolyam a számviteli politikában, kezelési szabályzatban, egyéb dokumentumokban (szerződés) meghatározott árfolyam, illetve ha ilyen nincs, akkor a negyedév végén érvényes, MNB által közzétett hivatalos árfolyam.
+
+## Az értékpapírok piaci értékének meghatározásához (a 9. és 10. oszlopnál) az alapkezelő befektetési alapokra vonatkozó kezelési szabályzatában, illetve egyedi portfóliók esetében a szerződésben előírt értékelési szabályokat kell alkalmazni.
+
+## A tábla oszlopai:
+
+## 1. oszlop Kereskedési partner, letétkezelő megnevezése: Annak az intézménynek a neve, amelynek szolgáltatásait az alapkezelő igénybe veszi a befektetéskezelési tevékenységéhez kapcsolódóan.
+
+## 2. oszlop Kereskedési partner, letétkezelő azonosító kódja: Az intézmény ISO 9362 nemzetközi szabvány szerint meghatározott kódja [SWIFT/Bank Identifier Code (11 karakter)].
+
+## 3. oszlop Kereskedési partner, letétkezelő országa: Annak az országnak az ISO 3166 nemzetközi szabvány szerint meghatározott kétbetűs kódja, amelyikben a szolgáltató található.
+
+## 4. oszlop Kereskedési partner, letétkezelő intézmény típusa: A lehetséges értékek: „K” = központi bank; „H” = hitelintézet; „E” = elszámolóház, központi szerződő fél; „B” = befektetési vállalkozás; „X” = egyéb.
+
+## 5. oszlop Kockázati besorolás: Az adatszolgáltató által kialakított szempontrendszer szerinti belső besorolás eredménye.
+
+## 6. oszlop Pénzforgalmi számlán, pénzszámlán nyilvántartott pénzeszköz értéke: Az igénybe vett szolgáltatónál vezetett pénzforgalmi számlán, pénzszámlán, befektetési szolgáltatónál vezetett ügyfélszámlán nyilvántartott érték.
+
+## 7. oszlop Lekötött betét: Letétkezelőnél, egyéb hitelintézetnél lekötött betét értéke.
+
+## 8. oszlop Óvadékba, fedezetbe adott pénzeszközök: A származtatott ügyletek fedezetéül, egyéb óvadékba, fedezetként elhelyezett pénzeszközök értéke.
+
+## 9. oszlop Értékpapírszámlán, letétszámlán nyilvántartott értékpapírok: Az értékpapír piaci értékét kell megadni.
+
+## 10. oszlop Óvadékba, fedezetbe, kölcsönbe adott értékpapírok értéke: A származtatott ügyletek fedezetéül, egyéb óvadékba, fedezetként, kölcsönbe elhelyezett értékpapírok piaci értéke.
+
+## 50I A befektetési alapok nettó eszközértéke és száma a negyedév végén
+
+## A Batv. 47. § (1) bekezdésében szereplő bontásban szerepel az alapok nettó eszközértéke és száma.
+
+## 50I6 Összesen = 50I11+50I12 = 50I21+50I22 =50I31+50I32 =50I41+50I42 =50I51+50I52
+
+## 50EE Befektetési alapkezelő - mérleg / eszközök
+
+## A Számv.tv. vonatkozó előírásainak megfelelően kell kitölteni.
+
+## 50EF Befektetési alapkezelő - mérleg / források
+
+## A Számv.tv. vonatkozó előírásainak megfelelően kell kitölteni.
+
+## 50ER Befektetési alapkezelő - eredménykimutatás
+
+## A Számv.tv. vonatkozó előírásainak megfelelően kell kitölteni.
+
+6. melléklet a 42/2013. (XII. 29.) MNB rendelethez
