@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-209-20-
 | 2012-01-01 | 2005-209-20-22.8 | 343/2011. (XII. 29.) Korm. rendelet |
 | 2013-01-01 | 2005-209-20-22.9 | 441/2012. (XII. 29.) Korm. rendelet |
 | 2013-07-01 | 2005-209-20-22.10 | 203/2013. (VI. 14.) Korm. rendelet |
+| 2014-01-01 | 2005-209-20-22.11 | 182/2009. (IX. 10.) Korm. rendelet |
