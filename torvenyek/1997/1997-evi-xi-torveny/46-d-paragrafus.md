@@ -14,7 +14,9 @@ d) a gyorsított eljárás [64/A. § (1)–(6) bek.] és a különleges gyorsít
 
 e) a lajstromkivonat igénylésére vonatkozó kérelmet, és
 
-f) az iratbetekintésre vonatkozó kérelmet.
+f) az iratbetekintésre vonatkozó kérelmet,
+
+g) a nemzetközi védjegybejelentést, az annak továbbítására irányuló kérelmet, valamint a nemzetközi lajstromozásból eredő oltalommal kapcsolatos kérelmek továbbítására irányuló kérelmet.
 
 (3) Ha az ügyfél a (2) bekezdés b)–f) pontja alapján elektronikus úton, a Kormány által biztosított azonosítási szolgáltatáson keresztül kezdeményezett eljárást, a Szellemi Tulajdon Nemzeti Hivatala elektronikus úton közli vele a kérelem kapcsán hozott döntéseket, illetve küldi meg neki a hiteles elektronikus lajstromkivonatot.
 
