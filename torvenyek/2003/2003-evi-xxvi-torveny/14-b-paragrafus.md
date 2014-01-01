@@ -1,5 +1,11 @@
-## Kulturális örökség szempontjából kiemelten kezelendő terület övezete
+## Világörökségi és világörökségi várományos terület övezete
 
-14/B. § A kulturális örökség szempontjából kiemelten kezelendő terület övezetét a kiemelt térségi és a megyei területrendezési tervekben a világörökség és világörökség-várományos terület vagy a történeti települési terület övezetbe kell sorolni, továbbá az érintett települések közigazgatási területének megjelölésével kell meghatározni.
+14/B. § (1) A világörökségi és világörökségi várományos terület övezetét a településrendezési eszközökben kell tényleges kiterjedésének megfelelően lehatárolni.
 
-A fenti térségi övezetek tényleges kiterjedésének megfelelő határát a településrendezési tervben kell meghatározni.
+(2) Az (1) bekezdés szerint lehatárolt világörökségi és világörökségi várományos területen:
+
+a) a területfelhasználás módjának és mértékének összhangban kell lennie a világörökségi kezelési tervben meghatározott célokkal,
+
+b) új külszíni művelésű bányatelek nem létesíthető, meglévő külszíni művelésű bányatelek területe nem bővíthető,
+
+c) a közlekedési és energetikai infrastruktúra-hálózatokat, erőműveket és kiserőműveket a kulturális és természeti örökségi értékek sérelme nélkül, területi egységüket megőrizve, látványuk érvényesülését elősegítve és a világörökségi kezelési tervnek megfelelően kell elhelyezni.

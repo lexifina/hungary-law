@@ -2,44 +2,58 @@
 
 Atomerőmű és egyéb erőművek
 
-Érintett település:
+(A térség e mellékletben a település közigazgatási területét és annak 25 kilométeres környezetét jelenti)
 
-– Ajka
+1. Ajka
 
-– Almásfüzitő térsége
+2. Almásfüzitő térsége
 
-– Baktalórántháza térsége
+3. Budapest I.
 
-– Budapest
+4. Budapest II.
 
-– Debrecen
+5. Budapest III.
 
-– Dunaújváros
+6. Budapest IV.
 
-– Gönyű
+7. Debrecen
 
-– Kazincbarcika
+8. Dunaújváros
 
-– Litér
+9. Ercsi
 
-– Lőrinci
+10. Gönyű
 
-– Mohács térsége
+11. Kazincbarcika
 
-– Oroszlány
+12. Litér
 
-– Paks
+13. Lőrinci
 
-– Pécs
+14. Nyírtass
 
-– Sajószöged
+15. Mohács térsége
 
-– Százhalombatta térsége
+16. Oroszlány
 
-– Tatabánya
+17. Paks I.
 
-– Tiszaújváros
+18. Paks II.
 
-– Vásárosnamény térsége
+19. Pécs
 
-– Visonta
+20. Répcelak térsége
+
+21. Sajószöged
+
+22. Szeged
+
+23. Százhalombatta
+
+24. Tatabánya
+
+25. Tiszaújváros I.
+
+26. Tiszaújváros II.
+
+27. Visonta

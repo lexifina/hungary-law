@@ -1,185 +1,197 @@
 1/4. számú melléklet
 
-Az országos vasúti törzshálózat elemei
+Országos törzshálózati vasúti pályák
 
-Tervezett nagysebességű vasútvonalak:
+(A térség e mellékletben a település közigazgatási területét és annak 10 kilométeres környezetét jelenti)
 
-– (Ausztria és Szlovákia) – Hegyeshalom és Rajka – Budapest Liszt Ferenc Nemzetközi Repülőtér – Röszke és Kübekháza – (Szerbia és Románia) (IV. sz. transzeurópai közlekedési folyosó hazai szakasza)
+1. Nagy sebességű vasútvonalak
 
-– (Horvátország) – Gyékényes térsége – Budapest Liszt Ferenc Nemzetközi Repülőtér – Záhony térsége – (Ukrajna) (V. sz. transzeurópai közlekedési folyosó hazai szakasza)
+1.1. (Ausztria és Szlovákia) – Hegyeshalom térsége és Rajka térsége–Budapest [XI. kerület, Kelenföld] – Budapest [Budapest Liszt Ferenc Nemzetközi Repülőtér] – Röszke és Kübekháza – (Szerbia és Románia)
 
-A transzeurópai vasúti áruszállítási hálózat részeként működő országos törzshálózati vasútvonalak:
+1.2. (Horvátország) – Gyékényes térsége – Budapest [XI. kerület, Kelenföld] – Budapest [Budapest Liszt Ferenc Nemzetközi Repülőtér]–Záhony térsége – (Ukrajna)
 
-– Budapest – Hegyeshalom – (Ausztria)
+2. Egyéb országos törzshálózati vasúti pályák
 
-– Hegyeshalom – Rajka – (Szlovákia)
+2.1. Budapest [VIII. kerület, Keleti pu.] – Hegyeshalom – (Ausztria)
 
-– Győr – Sopron – (Ausztria)
+2.2. Hegyeshalom – Rajka – (Szlovákia)
 
-– Győr – Celldömölk
+2.3. Budapest [XIV. kerület, Rákosrendező] – Esztergom
 
-– Szombathely – Sopron – Ágfalva – (Ausztria)
+2.4. Komárom – Komárom – (Szlovákia)
 
-– Zalaszentiván – Nagykanizsa
+2.5. Esztergom – Almásfüzitő
 
-– Székesfehérvár – Szombathely
+2.6. Székesfehérvár – Komárom
 
-– Szombathely – Szentgotthárd – (Ausztria)
+2.7. Győr – Sopron – (Ausztria)
 
-– Boba – Zalaegerszeg – Bajánsenye – (Szlovénia)
+2.8. Fertőszentmiklós – (Ausztria)
 
-– Budapest – Székesfehérvár – Nagykanizsa – Murakeresztúr – (Horvátország)
+2.9. Győr – Celldömölk
 
-– Budapest – Pécs
+2.10. Győr – Veszprém
 
-– Dombóvár – Gyékényes – (Horvátország)
+2.11. Tatabánya – Oroszlány
 
-– Pusztaszabolcs – Adony
+2.12. Szombathely – Sopron – Ágfalva – (Ausztria)
 
-– Székesfehérvár – Pusztaszabolcs
+2.13. Hegyeshalom – Porpác
 
-– Murakeresztúr – Gyékényes
+2.14. Szombathely – Zalaszentiván
 
-– Pécs – Pécs külváros
+2.15. Zalaszentiván – Nagykanizsa
 
-– Pécs – Villány
+2.16. Székesfehérvár – Szombathely
 
-– Villány – Magyarbóly – (Horvátország)
+2.17. Szombathely – Szentgotthárd – (Ausztria)
 
-– Budapest – Szob – (Szlovákia)
+2.18. Boba – Zalaegerszeg – Őriszentpéter – (Szlovénia)
 
-– Budapest – Hatvan – Miskolc – Mezőzombor
+2.19. Balatonszentgyörgy – Tapolca – Ukk
 
-– Felsőzsolca – Hidasnémeti – (Szlovákia)
+2.20. Szabadbattyán – Tapolca
 
-– Budapest – Szolnok – Debrecen – Nyíregyháza – Záhony – (Ukrajna)
+2.21. Budapest [I. kerület, Déli pu.] – Székesfehérvár – Nagykanizsa – Murakeresztúr – (Horvátország)
 
-– Mezőzombor – Nyíregyháza
+2.22. Érdi elágazás – Tárnok
 
-– Püspökladány – Biharkeresztes – (Románia)
+2.23. Budapest [XI. kerület, Kelenföld] – Pécs
 
-– Budapest – Szolnok – Békéscsaba – Lőkösháza – (Románia)
+2.24. Dombóvár – Gyékényes – (Horvátország)
 
-– Szeged-Rendező – Röszke – (Szerbia)
+2.25. Pusztaszabolcs – Dunaújváros – Paks
 
-– Cegléd – Szeged
+2.26. Mezőfalva – Rétszilas
 
-– Budapest – Kelebia – (Szerbia)
+2.27. Székesfehérvár – Pusztaszabolcs
 
-– Komárom – Komárom – (Szlovákia)
+2.28. Sárbogárd – Börgönd
 
-– Záhony normál nyomtávú hálózat
+2.29. Rétszilas – Bátaszék
 
-– Záhony széles nyomtávú hálózat
+2.30. Murakeresztúr – Gyékényes
 
-– Eperjeske – (Ukrajna)
+2.31. Pécs – Villány
 
-Egyéb országos törzshálózati vasútvonalak:
+2.32. Villány – Magyarbóly – (Horvátország)
 
-– Budapest – Esztergom
+2.33. Budapest [VI. kerület, Nyugati pu.] – Szob – (Szlovákia)
 
-– Esztergom – Almásfüzitő
+2.34. Budapest [XV. kerület, Rákospalota-Újpest] – Vácrátót – Vác
 
-– Székesfehérvár – Komárom
+2.35. Nógrádszakál – (Szlovákia)
 
-– Fertőszentmiklós – (Ausztria)
+2.36. Aszód – Vácrátót
 
-– Győrszabadhegy – Veszprém
+2.37. Nógrádszakál – Ipolytarnóc – (Szlovákia)
 
-– Felsőgalla – Tatabánya – Oroszlány
+2.38. Budapest [VIII. kerület, Keleti pu.] – Hatvan – Miskolc – Mezőzombor
 
-– Hegyeshalom – Porpác
+2.39. Mezőzombor – Sátoraljaújhely – (Szlovákia)
 
-– Szombathely – Zalaszentiván
+2.40. Hatvan – Somoskőújfalu – (Szlovákia)
 
-– Körmend – Zalalövő
+2.41. Hatvan – Újszász
 
-– Tapolca – Ukk
+2.42. Vámosgyörk – Újszász
 
-– Szabadbattyán – Tapolca
+2.43. Füzesabony – Putnok
 
-– Balatonszentgyörgy – Tapolca
+2.44. Nyékládháza – Tiszapalkonya
 
-– Kaposvár – Fonyód
+2.45. Felsőzsolca – Hidasnémeti – (Szlovákia)
 
-– Adony – Dunaújváros
+2.46. Miskolc – Bánréve – (Szlovákia)
 
-– Dunaújváros – Paks
+2.47. Bánréve – Ózd
 
-– Mezőfalva – Rétszilas
+2.48. Sajóecseg – Tornanádaska – Hídvégardó – (Szlovákia)
 
-– Sárbogárd – Börgönd
+2.49. Budapest [VI. kerület, Nyugati pu.] – Cegléd – Szolnok – Záhony – (Ukrajna)
 
-– Rétszilas – Bátaszék
+2.50. Mezőzombor – Nyíregyháza
 
-– Dombóvár – Bátaszék
+2.51. Püspökladány – Biharkeresztes – (Románia)
 
-– Gyékényes – Barcs – Szentlőrinc
+2.52. Karcag – Tiszafüred
 
-– Villány – Mohács
+2.53. Debrecen – Nyírábrány – (Románia)
 
-– Budapest – Vácrátót – Vác
+2.54. Debrecen – Füzesabony
 
-– Galgamácsa – Vácrátót
+2.55. Apafa – Mátészalka
 
-– Aszód – Balassagyarmat – Ipolytarnóc – (Szlovákia)
+2.56. Mátészalka – Tiborszállás – Vállaj [Ágerdőmajor] – (Románia)
 
-– Mezőzombor – Sátoraljaújhely – (Szlovákia)
+2.57. Budapest [X. kerület, Rákos] – Újszász – Szolnok
 
-– Hatvan – Somoskőújfalu – (Szlovákia)
+2.58. Szajol – Lőkösháza – (Románia)
 
-– Hatvan – Újszász
+2.59. Szeged – Békéscsaba – Kötegyán – (Románia)
 
-– Vámosgyörk – Gyöngyös
+2.60. Szeged – Röszke – (Szerbia)
 
-– Füzesabony – Eger
+2.61. Cegléd – Szeged
 
-– Nyékládháza – Tiszapalkonya-Erőmű
+2.62. Budapest [X. kerület, Kőbánya-Kispest] – Lajosmizse – Kecskemét
 
-– Miskolc – Bánréve – (Szlovákia)
+2.63. Budapest [IX. kerület, Ferencváros] – Kelebia – (Szerbia)
 
-– Bánréve – Ózd
+2.64. Bátaszék – Baja – Kiskunhalas
 
-– Miskolc – Tornanádaska – Hídvégardó – (Szlovákia)
+2.65. Kiskunhalas – Kiskunfélegyháza
 
-– Debrecen – Nyírábrány – (Románia)
+2.66. Budapest [XXIII. kerület, Soroksár–Soroksár Terminál]
 
-– Debrecen – Füzesabony
+2.67. Záhony normál nyomtávú hálózat
 
-– Apafa – Mátészalka
+2.68. Nagybörzsöny [Nagyirtás] – Nagybörzsöny
 
-– Nyíregyháza – Nyírbátor
+2.69. Záhony széles nyomtávú hálózat
 
-– Mátészalka – Tiborszállás – Ágerdőmajor – (Románia)
+2.70. Budapesti körvasút vonalai közül:
 
-– Tiszatenyő – Szentes – Hódmezővásárhely – Makó
+2.70.1. Budapest [X. kerület, Kőbánya felső] – Budapest [XIV. kerület, Rákosrendező]
 
-– Szeged – Békéscsaba – Kötegyán – (Románia)
+2.70.2. Budapest [XV. kerület, Angyalföldi elágazás] – Budapest [XIII. kerület, Angyalföld]
 
-– Budapest – Lajosmizse – Kecskemét
+2.70.3. Budapest [XV. kerület, Angyalföldi elágazás – Rákospalota-Újpest]
 
-– Bátaszék – Baja – Kiskunhalas
+2.70.4. Budapest [X. kerület, Rákos – Rákosi elágazás]
 
-– Kiskunhalas – Kiskunfélegyháza
+2.70.5. Budapest [IX. kerület, Ferencváros] – Budapest [X. kerület, Kőbánya felső]
 
-– Budapesti körvasutak
+2.70.6. Budapest[IX. kerület, Ferencváros] – Budapest [X. kerület, Kőbánya-Kispest]
 
-Az országos vasúti törzshálózat tervezett elemei:
+2.70.7. Budapest [XIV. kerület, Rákosrendező] – Budapest [XV. kerület, Vasúttörténeti park]
 
-A transzeurópai vasúti áruszállítási hálózat részeként működő országos törzshálózati vasútvonalakhoz kapcsolódóan:
+2.70.8. Budapest [XIX. kerület, Kispesti elágazás] – Budapest [XVIII. kerület, Pestszentimre felső elágazás]
 
-– A Budapestet délről kerülő vasútvonal: Komárom, Kisbér, Mór, Bodajk, Székesfehérvár, Pusztaszabolcs, Ercsi, Szigetújfalu, Áporka, Kiskunlacháza, Bugyi, Dabas, Újhartyán, Pusztavacs, Cegléd településeket érintve, a Dunán és a ráckevei Duna-ágon új Duna-híddal,
+2.70.9. Budapest [X. kerület, Kőbánya teher – Kőbánya felső]
 
-– Hajmáskér – Balatonfűzfő kapcsolat.
+2.70.10. Budapest [X. kerület, Kőbánya felső elágazás – Kőbánya-Hizlaló]
 
-Egyéb országos törzshálózati vasútvonalakhoz kapcsolódóan:
+2.70.11. Budapest [X. kerület, Kőbánya felsői kiágazás – Rákos]
 
-– Záhony – (Szlovákia) kapcsolat,
+2.70.12. Budapest [XIV. kerület, Rákosrendező – Városligeti elágazás]
 
-– Bácsalmás – Csikéria – (Szerbia) – Röszke és Szeged – Nagylak – (Románia) összeköttetés,
+2.70.13. Budapest [XIV. kerület, Rákosrendező] – Budapest [XV. kerület, Istvántelki főműhely]
 
-– Szegednél deltavágány,
+2.70.14. Budapest [XXIII. kerület, Soroksár] – Budapest [XVIII. kerület, Szemeretelep mh.]
 
-– Szeged – (Szerbia) – (Románia) kapcsolat helyreállítása,
+2.71. Budapestet délről kerülő vasútvonal (V0): Szárliget – Szár – Bodmér – Vértesacsa – Vereb – Baracska – Ercsi – Szigetszentmárton – Kiskunlacháza – Bugyi – Dabas – Újhartyán – Albertirsa
 
-– Zalaszentivánnál 2 deltavágány.
+2.72. Hajmáskér – Balatonfűzfő kapcsolat
+
+2.73. Sopron – Ágfalva – (Ausztria)
+
+2.74. Kópházánál átkötés
+
+2.75. Bácsalmás – Csikéria – (Szerbia) – Röszke és Szeged – Nagylak – (Románia) összeköttetés
+
+2.76. Szegednél deltavágány
+
+2.77. Szeged – (Szerbia) – (Románia) kapcsolat helyreállítása
+
+2.78. Zalaszentivánnál 2 deltavágány.

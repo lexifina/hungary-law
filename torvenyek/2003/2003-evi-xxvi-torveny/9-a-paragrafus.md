@@ -1,1 +1,1 @@
-9/A. § A kiemelt térségi és megyei területrendezési tervben szereplő országos vasúti mellékvonalak területét a településszerkezeti tervben beépítésre nem szánt közlekedési terület területfelhasználási egységbe kell sorolni.
+9/A. § A kiemelt térségi és megyei területrendezési tervben szereplő regionális és egyéb vasúti pályák közül azok területét, amelyen a közszolgáltatás szünetel vagy megszűnt, a településszerkezeti tervben beépítésre nem szánt közlekedési terület területfelhasználási egységbe kell sorolni.

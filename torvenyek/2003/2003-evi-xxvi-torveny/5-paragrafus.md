@@ -34,11 +34,7 @@ ab) mezőgazdasági térség,
 
 ac) vegyes területfelhasználású térség,
 
-b) legalább 10 ha területű térségek:
-
-ba) városias települési térség,
-
-bb) hagyományosan vidéki települési térség,
+b) legalább 10 ha területű települési térség,
 
 c) területi korlát nélkül ábrázolt térségek:
 

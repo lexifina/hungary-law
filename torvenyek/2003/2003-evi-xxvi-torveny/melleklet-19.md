@@ -1,171 +1,201 @@
 1/9. számú melléklet
 
-A villamosenergia-átviteli hálózat távvezeték
+A villamosenergia-átviteli hálózat távvezetékelemei
 
-elemei
+(A térség e mellékletben a település közigazgatási területét és annak 25 kilométeres környezetét jelenti)
 
-a) 750 kV-os átviteli hálózat távvezeték elemei:
+1. 750 kV-os átviteli hálózat távvezetékelemei:
 
-– Albertirsa – országhatár – (Ukrajna)
+1.1. Albertirsa – Szolnok – Hajdúböszörmény – Kisvárda térsége – Barabás – (Ukrajna)
 
-– Baktalórántháza térségében tervezett erőmű – Albertirsa-országhatár-(Ukrajna távvezeték felhasítási pontja)
+1.2. Kisvárda térsége – Nyírkarász térsége
 
-– Debrecen – Albertirsa-országhatár-(Ukrajna távvezeték felhasítási pontja)
+2. 400 kV-os átviteli hálózat távvezetékelemei:
 
-b) 400 kV-os átviteli hálózat távvezeték elemei:
+2.1. Albertirsa – Göd
 
-– Albertirsa – Göd
+2.2. Albertirsa – Szigetcsép – Ercsi – Martonvásár
 
-– Albertirsa – Martonvásár
+2.3. Albertirsa – Cegléd – Szolnok
 
-– Albertirsa – Szolnok – Békéscsaba
+2.4. Albertirsa – Kecskemét
 
-– Almásfüzítő – Oroszlány
+2.5. Almásfüzitő – Dad térsége
 
-– Baktalórántháza térségében tervezett erőmű – Debrecen
+2.6. Békéscsaba – Elek – (Románia)
 
-– Baktalórántháza térségében tervezett erőmű – Sajószöged-országhatár-(Ukrajna távvezeték felhasítási pontja)
+2.7. Bicske – Pomáz – Göd
 
-– Békéscsaba – országhatár – (Románia)
+2.8. Detk térsége
 
-– Bicske – Győr-Martonvásár távvezeték felhasítási pontja
+2.9. Ercsi térsége
 
-– Bicske – Pomáz – Göd
+2.10. Felsőpáhok – Tornyiszentmiklós – Muraszemenye – (Horvátország)
 
-– Debrecen – Békéscsaba
+2.11. Felsőpáhok – Kaposvár
 
-– Debrecen – Szolnok
+2.12. Felsőzsolca – Sajóivánka
 
-– Debrecen – országhatár – (Románia)
+2.13. Göd – Bánk – Hont – (Szlovákia)
 
-– Detk – Sajószöged-Göd távvezeték felhasítási pontja
+2.14. Kerepes térsége
 
-– Dunaújváros – Martonvásár – Paks távvezeték felhasítási pontja
+2.15. Gönyű – Győr
 
-– Felsőzsolca – Sajóivánka
+2.16. Gönyű – (Szlovákia)
 
-– Göd – országhatár – (Szlovákia)
+2.17. Győr – Litér
 
-– Göd – Sajószöged
+2.18. Győr – Abda – Vámosszabadi – (Szlovákia)
 
-– Gödöllő – Albertirsa-Göd távvezeték felhasítási pontja
+2.19. Győr térsége – Abda – Vámosszabadi – (Szlovákia)
 
-– Gönyű – Győr
+2.20. Győr – Öttevény – Vép – Hegyeshalom – (Ausztria)
 
-– Győr – Litér
+2.21. Kisvárda térsége – Hajdúböszörmény
 
-– Győr – országhatár – (Ausztria)
+2.22. Kisvárda térsége
 
-– Győr – országhatár – (Ausztria távvezeték felhasítási pontja) – országhatár – (Szlovákia)
+2.23. Kisvárda térsége – Kisrozvágy – (Szlovákia)
 
-– Győr – országhatár – (Szlovákia)
+2.24. Kisvárda térsége – Nyírtelek térsége
 
-– Győr – Szombathely
+2.25. Hajdúböszörmény – Berettyóújfalu – Békéscsaba
 
-– Hévíz – Kaposvár
+2.26. Hajdúböszörmény – Létavértes – (Románia)
 
-– Hévíz – Litér
+2.27. Kecskemét – Nyárlőrinc
 
-– Hévíz – országhatár – (Horvátország)
+2.28. Litér – Felsőpáhok
 
-– Hévíz – országhatár – (Szlovénia)
+2.29. Martonvásár – Bicske
 
-– Kaposvár – Paks
+2.30. Martonvásár – Győr
 
-– Kecskemét – Szolnok – Szeged távvezeték felhasítási pontja
+2.31. Martonvásár – Litér
 
-– Litér – Martonvásár
+2.32. Martonvásár – Perkáta – Paks
 
-– Litér – Paks
+2.33. Mohács – Szederkény
 
-– Lőrinci – Sajószöged – Göd távvezeték felhasítási pontja
+2.34. Bogád – Hercegszántó – (Szerbia)
 
-– Martonvásár – Győr
+2.35. Bogád – Illocska – (Horvátország)
 
-– Martonvásár – Paks
+2.36. Nyírtelek térsége
 
-– Mohács – Pécs – országhatár – (Horvátország távvezeték felhasítási pontja)
+2.37. Oroszlány – Dad térsége
 
-– Nyíregyháza – Debrecen
+2.38. Paks – Albertirsa
 
-– Nyíregyháza – Sajószöged – országhatár – (Ukrajna távvezeték felhasítási pontja)
+2.39. Paks – Litér [I.]
 
-– Oroszlány – Martonvásár – Győr távvezeték felhasítási pontja
+2.40. Paks – Bogád
 
-– Paks – Albertirsa
+2.41. Paks – Szeged
 
-– Paks – Pécs
+2.42. Paks – Kaposvár
 
-– Paks – Sándorfalva
+2.43. Paks [I.]
 
-– Pécs – Kaposvár
+2.44. Paks – Litér [II.]
 
-– Pécs – országhatár – (Horvátország)
+2.45. Paks [II.]
 
-– Sajóivánka – Kazincbarcika
+2.46. Paks [III.]
 
-– Sajóivánka – országhatár – (Szlovákia)
+2.47. Bogád – Kaposvár
 
-– Sajószöged – Baktalórántháza térsége
+2.48. Perkáta
 
-– Sajószöged – Debrecen
+2.49. Répcelak térsége
 
-– Sajószöged – Felsőzsolca
+2.50. Sajóivánka – Kazincbarcika – Berente
 
-– Sajószöged – országhatár – (Ukrajna)
+2.51. Sajóivánka – Bánréve – (Szlovákia)
 
-– Sajószöged – Szolnok
+2.52. Sajószöged – Nyírtelek térsége – Lónya – (Ukrajna)
 
-– Sándorfalva – Békéscsaba
+2.53. Sajószöged – Hajdúböszörmény
 
-– Sándorfalva – országhatár – (Románia)
+2.54. Sajószöged – Felsőzsolca [I.]
 
-– Sándorfalva – országhatár – (Szerbia)
+2.55. Sajószöged – Felsőzsolca [II.]
 
-– Székesfehérvár – Litér-Martonvásár távvezeték felhasítási pontja
+2.56. Sajószöged – Göd
 
-– Szolnok – Albertirsa-Békéscsaba távvezeték felhasítási pontja
+2.57. Sajószöged – Nyírtelek térsége – Kisvárda térsége
 
-– Szolnok – Szeged
+2.58. Tiszaújváros – Sajószöged [II.]
 
-– Szombathely – Hévíz
+2.59. Szeged – Békéscsaba
 
-– Tiszaújváros – Sajószöged
+2.60. Szeged – Csanádpalota – (Románia)
 
-c) 220 kV-os átviteli hálózat távvezeték elemei:
+2.61. Szeged – Röszke [I.] – (Szerbia)
 
-– Budapest – Detk
+2.62. Szeged – Röszke [II.] – (Szerbia)
 
-– Detk – Sajószöged
+2.63. Szeged térsége
 
-– Detk – Szolnok
+2.64. Székesfehérvár térsége
 
-– Göd – Budapest
+2.65. Szigetcsép térsége
 
-– Győr – Oroszlány
+2.66. Szolnok – Mezőtúr – Békéscsaba
 
-– Győr – országhatár – (Ausztria)
+2.67. Szolnok – Nyárlőrinc
 
-– Ócsa – Budapest
+2.68. Tiszaújváros – Sajószöged [I.]
 
-– Oroszlány – Százhalombatta
+2.69. Vép – Vasvár – Felsőpáhok
 
-– Sajószöged – Debrecen
+3. 220 kV-os átviteli hálózat távvezetékelemei:
 
-– Sajószöged – országhatár – (Ukrajna)
+3.1. Budapest [XXI. kerület] – Budapest [XI. kerület]
 
-– Sajószöged – Szolnok
+3.2. Budapest [XV. kerület]
 
-– Sajószöged – Tiszaújváros
+3.3. Detk – Maklár – Mezőkövesd – Sajószöged
 
-– Százhalombatta – Budapest
+3.4. Detk – Szolnok
 
-– Százhalombatta – Dunaújváros
+3.5. Detk – Csány – Budapest [XV. kerület]
 
-– Százhalombatta – Martonvásár
+3.6. Detk – Ecséd – Budapest [XV. kerület]
 
-– Százhalombatta – Ócsa
+3.7. Göd – Budapest [XV. kerület]
 
-– Szeged – Szolnok
+3.8. Győr – Hegyeshalom – (Ausztria)
 
-– Visonta – Detk
+3.9. Kerepes térsége
+
+3.10. Kisvárda – Kisvárda térsége
+
+3.11. Győr – Százhalombatta
+
+3.12. Nagyút – Mezőtárkány – Sajószöged
+
+3.13. Ócsa – Maglód – Budapest [XV. kerület]
+
+3.14. Sajószöged – Debrecen
+
+3.15. Sajószöged – Szolnok
+
+3.16. Sajószöged – Tiszaújváros
+
+3.17. Sajószöged – Kisvárda térsége – Lónya – (Ukrajna)
+
+3.18. Százhalombatta – Budapest [XI. kerület]
+
+3.19. Százhalombatta – Dunaújváros
+
+3.20. Százhalombatta – Ócsa
+
+3.21. Szolnok – Szeged
+
+3.22. Tiszalök – Tiszadada
+
+3.23. Visonta – Detk [I.]
+
+3.24. Visonta – Detk [II.]”

@@ -10,23 +10,19 @@ a) országos ökológiai hálózat,
 
 b) kiváló termőhelyi adottságú szántóterület,
 
-c) kiváló termőhelyi adottságú erdőterület,
+c) jó termőhelyi adottságú szántóterület,
 
-d) országos komplex tájrehabilitációt igénylő terület,
+d) kiváló termőhelyi adottságú erdőterület,
 
 e) országos jelentőségű tájképvédelmi terület,
 
-f) kulturális örökség szempontjából kiemelten kezelendő terület,
+f) világörökségi és világörökségi várományos terület,
 
-g) kiemelten érzékeny felszín alatti vízminőség-védelmi terület,
+g) országos vízminőség-védelmi terület,
 
-h) felszíni vizek vízminőség-védelmi vízgyűjtő területe,
+h) nagyvízi meder és a Vásárhelyi-terv továbbfejlesztése keretében megvalósuló vízkár-elhárítási célú szükségtározók területe,
 
-i) ásványi nyersanyag-gazdálkodási terület,
-
-j) együtt tervezhető térségek,
-
-k) kiemelt fontosságú meglévő honvédelmi terület.
+i) kiemelt fontosságú honvédelmi terület.
 
 (2) Kiemelt térségi és megyei övezetek:
 
@@ -36,34 +32,34 @@ b) ökológiai folyosó,
 
 c) pufferterület,
 
-d) erdőtelepítésre alkalmas terület,
+d) erdőtelepítésre javasolt terület,
 
-e) térségi komplex tájrehabilitációt igénylő terület,
+e) ásványi nyersanyagvagyon-terület,
 
-f) térségi jelentőségű tájképvédelmi terület,
+f) rendszeresen belvízjárta terület,
 
-g) térségi hulladéklerakó hely kijelöléséhez vizsgálat alá vonható terület,
+g) földtani veszélyforrás területe,
 
-h) világörökség és világörökség-várományos terület,
+h) honvédelmi terület,
 
-i) történeti települési terület,
+i) térségi jelentőségű tájképvédelmi terület.
 
-j) rendszeresen belvízjárta terület,
+(3) Ajánlott megyei övezetek:
 
-k) nagyvízi meder,
+a) tanyás térség,
 
-l) földtani veszélyforrás területe,
+b) tájrehabilitációt igénylő terület,
 
-m) vízeróziónak kitett terület,
+c) szélerőműpark telepítéséhez vizsgálat alá vonható terület,
 
-n) széleróziónak kitett terület,
+d) térségi árvízi kockázatkezelési terület.
 
-o) honvédelmi terület.
+(4) Az (1) bekezdésben felsorolt országos övezeteket, továbbá a (2) bekezdésben felsorolt kiemelt térségi és megyei övezeteket területi érintettség esetén a kiemelt térségi és megyei területrendezési tervben alkalmazni kell.
 
-(3) Az (1)–(2) bekezdésben felsorolt országos övezeteket, továbbá kiemelt térségi és megyei övezeteket területi érintettség esetén a kiemelt térségi és megyei területrendezési tervben alkalmazni kell.
+(5) A kiemelt térségek területrendezési terve a (2) bekezdésben foglaltaktól eltérő, egyedileg meghatározott övezeteket is kijelölhet a térség elsődleges funkciójával, illetve a kiemelés okával összhangban.
 
-(4) A kiemelt térségek területrendezési terve a (2) bekezdésben foglaltaktól eltérő, egyedileg meghatározott övezeteket is kijelölhet a térség elsődleges funkciójával, illetve a kiemelés okával összhangban.
+(6) A megye területrendezési terve az (1) és (2) bekezdésben felsorolt térségi övezeteken kívül a (3) bekezdésben felsorolt ajánlott megyei övezetet is kijelölhet.
 
-(5) A térségi övezetek egymáshoz való viszonyát és kapcsolatrendszerét az 1/12. számú melléklet tartalmazza. A kiemelt térségi és megyei övezetek területén a rá vonatkozó országos övezetek előírásait is alkalmazni kell.
+(7) A térségi övezetek egymáshoz való viszonyát és kapcsolatrendszerét az 1/12. melléklet tartalmazza. A kiemelt térségi és megyei övezetek területén a rá vonatkozó országos övezetek előírásait is alkalmazni kell.
 
-(6) Ahol a törvény külön övezeti előírásokat nem tartalmaz, ott a vonatkozó ágazati szabályokat kell alkalmazni. Ahol a törvény övezeti előírásokat tartalmaz, ott azokat a vonatkozó ágazati jogszabályokkal együtt kell alkalmazni.
+(8) Ahol a törvény külön övezeti előírásokat nem tartalmaz, ott a vonatkozó ágazati szabályokat kell alkalmazni. Ahol a törvény övezeti előírásokat tartalmaz, ott azokat a vonatkozó ágazati jogszabályokkal együtt kell alkalmazni.

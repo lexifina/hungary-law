@@ -1,6 +1,20 @@
 1/12. számú melléklet
 
-Térségi övezetek és azok kapcsolata
+Térségi övezetek és az ajánlott megyei övezetek, valamint azok kapcsolata
+
+|
+
+|
+
+A
+
+|
+
+B
+
+|
+
+1.
 
 |
 
@@ -8,136 +22,194 @@ Országos Területrendezési Terv
 
 |
 
-Kiemelt térségi és megyei
-
-területrendezési terv
+Kiemelt térségi és megyei területrendezési terv
 
 |
 
-a) Országos ökológiai hálózat
+2.
+
+|
+
+a) Országos ökológiai hálózat
 
 |
 
 a) Magterület
 
-|
+b) Ökológiai folyosó
+
+c) Pufferterület
 
 |
 
-b) Ökológiai folyosó
+3.
 
 |
 
-|
-
-c) Pufferterület
+b) Kiváló termőhelyi adottságú szántóterület
 
 |
 
-b) Kiváló termőhelyi adottságú szántóterület
+4.
 
 |
 
-c) Kiváló termőhelyi adottságú erdőterület
+c) Jó termőhelyi adottságú szántóterület
 
 |
 
-|
-
-d) Erdőtelepítésre alkalmas terület
+5.
 
 |
 
-d) Országos komplex tájrehabilitációt igénylő terület
+d) Kiváló termőhelyi adottságú erdőterület
 
 |
 
-|
-
-e) Térségi komplex tájrehabilitációt igénylő terület
-
-|
-
-e) Országos jelentőségű tájképvédelmi terület
+6.
 
 |
 
 |
 
-f) Térségi jelentőségű tájképvédelmi terület
+d) Erdőtelepítésre javasolt terület
+
+|
+
+7.
+
+|
+
+e) Országos jelentőségű tájképvédelmi terület
+
+|
+
+8.
+
+|
+
+f) Világörökségi és világörökségi várományos terület
+
+|
+
+9.
+
+|
+
+g) Országos vízminőség-védelmi terület
+
+|
+
+10.
+
+|
+
+h) Nagyvízi meder és a Vásárhelyi-terv továbbfejlesztése keretében megvalósuló vízkár-elhárítási célú szükségtározók területe
+
+|
+
+11.
 
 |
 
 |
 
-g) Térségi hulladéklerakó hely kijelöléséhez vizsgálat alá vonható terület
+e) Ásványi nyersanyagvagyon-terület
 
 |
 
-f) Kulturális örökség szempontjából kiemelten kezelendő terület
-
-|
-
-h) Világörökség és világörökség-várományos terület
+12.
 
 |
 
 |
 
-i) Történeti települési terület
+f) Rendszeresen belvízjárta terület
 
 |
 
-g) Kiemelten érzékeny felszín alatti vízminőség- védelmi terület
-
-|
-
-h) Felszíni vizek vízminőség-védelmi vízgyűjtő területe
-
-|
-
-i) Ásványi nyersanyag-gazdálkodási terület
-
-|
-
-j) Együtt tervezhető térségek
+13.
 
 |
 
 |
 
-j) Rendszeresen belvízjárta terület
+g) Földtani veszélyforrás területe
+
+|
+
+14.
+
+|
+
+i) Kiemelt fontosságú honvédelmi terület
+
+|
+
+15.
 
 |
 
 |
 
-k) Nagyvízi meder
+h) Honvédelmi terület
+
+|
+
+16.
 
 |
 
 |
 
-l) Földtani veszélyforrás területe
+i) Térségi jelentőségű tájképvédelmi terület
+
+|
+
+17.
 
 |
 
 |
 
-m) Vízeróziónak kitett terület
+Megyei területrendezési terv
+
+|
+
+18.
 
 |
 
 |
 
-n) Széleróziónak kitett terület
+a) tanyás térség
 
 |
 
-k) Kiemelt fontosságú meglévő honvédelmi terület
+19.
 
 |
 
 |
 
-o) Honvédelmi terület
+b) tájrehabilitációt igénylő terület
+
+|
+
+20.
+
+|
+
+|
+
+c) szélerőműpark telepítéséhez vizsgálat alá vont terület
+
+|
+
+21.
+
+|
+
+|
+
+d) térségi árvízi kockázatkezelési terület

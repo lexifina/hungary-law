@@ -1,57 +1,53 @@
 1/5. számú melléklet
 
-A repülőterek besorolása
+Országos repülőterek
 
-Országos jelentőségű polgári repülőterek:
+1. Nemzetközi kereskedelmi repülőterek:
 
-– Budapest Liszt Ferenc Nemzetközi Repülőtér
+1.1. Budapest [Budapest Liszt Ferenc Nemzetközi Repülőtér],
 
-– Debrecen
+1.2. Debrecen [Debreceni Nemzetközi Repülőtér],
 
-– Sármellék
+1.3. Sármellék [Hévíz-Balaton Airport].
 
-Kereskedelmi (nemzetközi) repülőtérré fejleszthető repülőterek:
+2. Egyéb kereskedelmi repülőterek és kereskedelmi repülőtérré fejleszthető repülőterek:
 
-– Baracs – Kisapostag (Dunaújváros)
+2.1. Pécs – Pogány,
 
-– Békéscsaba
+2.2. Győr – Pér,
 
-– Budaörs
+2.3. Nyíregyháza,
 
-– Fertőszentmiklós
+2.4. Szeged,
 
-– Kalocsa
+2.5. Baracs – Kisapostag (Dunaújváros),
 
-– Kunmadaras
+2.6. Békéscsaba,
 
-– Mezőkövesd – Mezőkeresztes
+2.7. Budaörs,
 
-– Nyíregyháza
+2.8. Fertőszentmiklós,
 
-– Őcsény
+2.9. Kunmadaras,
 
-– Pécs – Pogány
+2.10. Mezőkövesd – Mezőkeresztes,
 
-– Pér (Győr)
+2.11. Őcsény,
 
-– Siófok – Kiliti
+2.12. Siófok (Kiliti),
 
-– Szeged
+2.13. Székesfehérvár [Alba Airport],
 
-– Székesfehérvár [Alba Airport]
+2.14. Vát – Porpác,
 
-– Vát-Porpác (Szombathely)
+2.15. Taszár,
 
-– Taszár
+2.16. Veszprém – Szentkirályszabadja.
 
-– Veszprém – Szentkirályszabadja
+3. Közös felhasználású katonai és polgári repülőtérré fejleszthető repülőterek:
 
-Közös felhasználású katonai és polgári repülőtér:
+3.1. Kecskemét,
 
-– Szolnok
+3.2. Pápa,
 
-Állami repülések céljára szolgáló repülőterek:
-
-– Kecskemét
-
-– Pápa
+3.3. Szolnok.

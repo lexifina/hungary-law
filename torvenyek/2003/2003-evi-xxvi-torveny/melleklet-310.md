@@ -1,1 +1,1 @@
-3/10. számú melléklet
+3/10–11. számú melléklet

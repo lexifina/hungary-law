@@ -1,3 +1,5 @@
-## Országos komplex tájrehabilitációt igénylő terület övezete
+## Kiváló termőhelyi adottságú erdőterület övezete
 
-14. § Az országos komplex tájrehabilitációt igénylő terület övezetben a területek újrahasznosítási célját a kiemelt térség és a megye területrendezési tervében, a települések helyi tájrendezési szabályainak vagy a helyi településrendezési eszközök figyelembevételével kell meghatározni.
+14. § (1) Kiváló termőhelyi adottságú erdőterület övezetében új beépítésre szánt terület nem jelölhető ki.
+
+(2) Az övezetben külszíni bányatelket megállapítani és bányászati tevékenységet engedélyezni a bányászati szempontból kivett helyekre vonatkozó szabályok szerint lehet.

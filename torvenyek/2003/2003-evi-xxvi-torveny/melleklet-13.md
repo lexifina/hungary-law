@@ -1,10 +1,38 @@
 1/3. számú melléklet
 
-Határátkelők és határátlépési pontok a gyorsforgalmi és főúthálózaton, valamint a vasúti törzshálózaton1
+Határmetszések a gyorsforgalmi és főúthálózaton, valamint az országos vasúti törzshálózaton
 
-Gyorsforgalmi- és főúthálózaton lévő határátkelők és határátlépési pontok
+(A térség e mellékletben a település közigazgatási területét és annak 10 kilométeres környezetét jelenti)
+
+1. Határmetszés a gyorsforgalmi és főúthálózaton
+
+|
+
+|
+
+|
+
+A
+
+|
+
+B
+
+|
+
+|
+
+1.
+
+|
 
 Szlovákia felé:
+
+|
+
+|
+
+2.
 
 |
 
@@ -16,6 +44,12 @@ M15
 
 |
 
+|
+
+3.
+
+|
+
 Rajka
 
 |
@@ -24,19 +58,23 @@ Rajka
 
 |
 
-Vámosszabadi
+|
+
+4.
 
 |
 
-14. sz. főút
+Vámosszabadi térsége
 
 |
 
-Komárom
+81. sz. főút
 
 |
 
-130. sz. főút
+|
+
+5.
 
 |
 
@@ -48,11 +86,23 @@ Komárom
 
 |
 
+|
+
+6.
+
+|
+
 Esztergom
 
 |
 
-M11
+M10
+
+|
+
+|
+
+7.
 
 |
 
@@ -64,6 +114,12 @@ Hont [Parassapuszta]
 
 |
 
+|
+
+8.
+
+|
+
 Hont térsége
 
 |
@@ -72,11 +128,23 @@ M2
 
 |
 
+|
+
+9.
+
+|
+
 Balassagyarmat
 
 |
 
-új főút
+222. sz. főút
+
+|
+
+|
+
+10.
 
 |
 
@@ -88,11 +156,23 @@ Nógrádszakál
 
 |
 
+|
+
+11.
+
+|
+
 Somoskőújfalu
 
 |
 
 21. sz. főút
+
+|
+
+|
+
+12.
 
 |
 
@@ -104,11 +184,23 @@ Bánréve
 
 |
 
-Hídvégardó
+|
+
+13.
+
+|
+
+Tornanádaska térsége
 
 |
 
 27. sz. főút
+
+|
+
+|
+
+14.
 
 |
 
@@ -120,11 +212,23 @@ M30
 
 |
 
+|
+
+15.
+
+|
+
 Tornyosnémeti
 
 |
 
 3. sz. főút
+
+|
+
+|
+
+16.
 
 |
 
@@ -136,13 +240,47 @@ Sátoraljaújhely
 
 |
 
+|
+
+17.
+
+|
+
 Pácin
 
 |
 
 új főút
 
+|
+
+|
+
+18.
+
+|
+
+Záhony térsége
+
+|
+
+M38
+
+|
+
+|
+
+19.
+
+|
+
 Ukrajna felé:
+
+|
+
+|
+
+20.
 
 |
 
@@ -154,11 +292,23 @@ Záhony
 
 |
 
+|
+
+21.
+
+|
+
 Záhony térsége
 
 |
 
 M34
+
+|
+
+|
+
+22.
 
 |
 
@@ -170,11 +320,23 @@ M3
 
 |
 
+|
+
+23.
+
+|
+
 Beregsurány
 
 |
 
 41. sz. főút
+
+|
+
+|
+
+24.
 
 |
 
@@ -184,7 +346,21 @@ Tiszabecs
 
 491. sz. főút
 
+|
+
+|
+
+25.
+
+|
+
 Románia felé:
+
+|
+
+|
+
+26.
 
 |
 
@@ -196,11 +372,23 @@ Csengersima
 
 |
 
+|
+
+27.
+
+|
+
 Csenger térsége
 
 |
 
 M49
+
+|
+
+|
+
+28.
 
 |
 
@@ -212,11 +400,23 @@ Vállaj
 
 |
 
+|
+
+29.
+
+|
+
 Nyírábrány
 
 |
 
 48. sz. főút
+
+|
+
+|
+
+30.
 
 |
 
@@ -228,6 +428,12 @@ M4
 
 |
 
+|
+
+31.
+
+|
+
 Ártánd
 
 |
@@ -236,7 +442,13 @@ M4
 
 |
 
-Méhkerék
+|
+
+32.
+
+|
+
+Körösnagyharsány
 
 |
 
@@ -244,11 +456,37 @@ Méhkerék
 
 |
 
+|
+
+33.
+
+|
+
+Méhkerék térsége
+
+|
+
+új főút
+
+|
+
+|
+
+34.
+
+|
+
 Gyula
 
 |
 
-44. sz. főút
+M44
+
+|
+
+|
+
+35.
 
 |
 
@@ -260,11 +498,23 @@ Battonya
 
 |
 
+|
+
+36.
+
+|
+
 Csanádpalota
 
 |
 
 M43
+
+|
+
+|
+
+37.
 
 |
 
@@ -276,6 +526,12 @@ Nagylak
 
 |
 
+|
+
+38.
+
+|
+
 Kiszombor
 
 |
@@ -284,13 +540,9 @@ Kiszombor
 
 |
 
-Kübekháza
-
 |
 
-új főút
-
-Szerbia felé:
+39.
 
 |
 
@@ -302,11 +554,47 @@ Kübekháza térsége
 
 |
 
+|
+
+40.
+
+|
+
+Szerbia felé:
+
+|
+
+|
+
+41.
+
+|
+
+Kübekháza térsége
+
+|
+
+új főút
+
+|
+
+|
+
+42.
+
+|
+
 Röszke
 
 |
 
 5. sz. főút
+
+|
+
+|
+
+43.
 
 |
 
@@ -318,11 +606,37 @@ M5
 
 |
 
+|
+
+44.
+
+|
+
 Tompa
 
 |
 
 53. sz. főút
+
+|
+
+|
+
+45.
+
+|
+
+Kunbaja
+
+|
+
+új főút
+
+|
+
+|
+
+46.
 
 |
 
@@ -332,7 +646,21 @@ Hercegszántó
 
 51. sz. főút
 
+|
+
+|
+
+47.
+
+|
+
 Horvátország felé:
+
+|
+
+|
+
+48.
 
 |
 
@@ -344,11 +672,23 @@ Udvar
 
 |
 
+|
+
+49.
+
+|
+
 Ivándárda térsége
 
 |
 
 M6
+
+|
+
+|
+
+50.
 
 |
 
@@ -360,11 +700,37 @@ Drávaszabolcs
 
 |
 
-Drávakeresztúr
+|
+
+51.
+
+|
+
+Zaláta
 
 |
 
 67. sz. főút
+
+|
+
+|
+
+52.
+
+|
+
+Drávatamási
+
+|
+
+M60
+
+|
+
+|
+
+53.
 
 |
 
@@ -376,11 +742,37 @@ Barcs
 
 |
 
+|
+
+54.
+
+|
+
+Berzence
+
+|
+
+681. sz. főút
+
+|
+
+|
+
+55.
+
+|
+
 Gyékényes térsége
 
 |
 
 új főút
+
+|
+
+|
+
+56.
 
 |
 
@@ -392,13 +784,33 @@ M7
 
 |
 
+|
+
+57.
+
+|
+
 Letenye
 
 |
 
 7. sz. főút
 
+|
+
+|
+
+58.
+
+|
+
 Szlovénia felé:
+
+|
+
+|
+
+59.
 
 |
 
@@ -410,11 +822,23 @@ M70
 
 |
 
+|
+
+60.
+
+|
+
 Rédics
 
 |
 
 86. sz. főút
+
+|
+
+|
+
+61.
 
 |
 
@@ -424,7 +848,21 @@ Bajánsenye
 
 új főút
 
+|
+
+|
+
+62.
+
+|
+
 Ausztria felé:
+
+|
+
+|
+
+63.
 
 |
 
@@ -436,13 +874,23 @@ M8
 
 |
 
-Szentgotthárd
+|
 
-[Rábafüzes]
+64.
+
+|
+
+Szentgotthárd [Rábafüzes]
 
 |
 
 8. sz. főút
+
+|
+
+|
+
+65.
 
 |
 
@@ -454,6 +902,12 @@ Bucsu
 
 |
 
+|
+
+66.
+
+|
+
 Kőszeg
 
 |
@@ -462,11 +916,9 @@ Kőszeg
 
 |
 
-Kőszeg térsége
-
 |
 
-M87
+67.
 
 |
 
@@ -478,11 +930,23 @@ Kópháza
 
 |
 
+|
+
+68.
+
+|
+
 Sopron
 
 |
 
 84. sz. főút
+
+|
+
+|
+
+69.
 
 |
 
@@ -494,11 +958,37 @@ M85
 
 |
 
+|
+
+70.
+
+|
+
 Fertőd
 
 |
 
 új főút
+
+|
+
+|
+
+71.
+
+|
+
+Jánossomorja
+
+|
+
+új főút
+
+|
+
+|
+
+72.
 
 |
 
@@ -510,19 +1000,35 @@ M1
 
 |
 
+|
+
+73.
+
+|
+
 Hegyeshalom
 
 |
 
 1. sz. főút
 
-A tervezett nagysebességű vasútvonalakon lévő határátkelők és határátlépési pontok
+2. Határmetszés a tervezett nagy sebességű vasútvonalakon
 
 |
 
-Hegyeshalom és Rajka
+|
+
+1.
 
 |
+
+Hegyeshalom térsége és Rajka térsége
+
+|
+
+|
+
+2.
 
 |
 
@@ -532,19 +1038,39 @@ Záhony térsége
 
 |
 
+3.
+
+|
+
 Röszke és Kübekháza
 
 |
 
 |
 
-Gyékényes térsége
+4.
 
 |
 
-Vasúti törzshálózaton lévő határátkelők és határátlépési pontok
+Gyékényes térsége
+
+3. Határmetszés az egyéb országos vasúti törzshálózaton
+
+|
+
+|
+
+1.
+
+|
 
 Szlovákia felé:
+
+|
+
+|
+
+2.
 
 |
 
@@ -554,9 +1080,17 @@ Rajka
 
 |
 
+3.
+
+|
+
 Komárom
 
 |
+
+|
+
+4.
 
 |
 
@@ -566,9 +1100,27 @@ Szob
 
 |
 
+5.
+
+|
+
+Nógrádszakál
+
+|
+
+|
+
+6.
+
+|
+
 Ipolytarnóc
 
 |
+
+|
+
+7.
 
 |
 
@@ -578,9 +1130,17 @@ Somoskőújfalu
 
 |
 
+8.
+
+|
+
 Bánréve
 
 |
+
+|
+
+9.
 
 |
 
@@ -590,9 +1150,17 @@ Hídvégardó
 
 |
 
+10.
+
+|
+
 Hidasnémeti
 
 |
+
+|
+
+11.
 
 |
 
@@ -602,11 +1170,17 @@ Sátoraljaújhely
 
 |
 
-Győröcske
+12.
 
 |
 
 Ukrajna felé:
+
+|
+
+|
+
+13.
 
 |
 
@@ -616,7 +1190,17 @@ Záhony
 
 |
 
+14.
+
+|
+
 Eperjeske
+
+|
+
+|
+
+15.
 
 |
 
@@ -624,9 +1208,19 @@ Románia felé:
 
 |
 
-Vállaj [Tiborszállás – Ágerdőmajor]
+|
+
+16.
 
 |
+
+Vállaj [Ágerdőmajor]
+
+|
+
+|
+
+17.
 
 |
 
@@ -636,9 +1230,17 @@ Nyírábrány
 
 |
 
+18.
+
+|
+
 Biharkeresztes
 
 |
+
+|
+
+19.
 
 |
 
@@ -648,9 +1250,17 @@ Kötegyán
 
 |
 
+20.
+
+|
+
 Lőkösháza
 
 |
+
+|
+
+21.
 
 |
 
@@ -658,7 +1268,19 @@ Nagylak
 
 |
 
+|
+
+22.
+
+|
+
 Szerbia felé:
+
+|
+
+|
+
+23.
 
 |
 
@@ -668,9 +1290,17 @@ Szeged
 
 |
 
+24.
+
+|
+
 Röszke
 
 |
+
+|
+
+25.
 
 |
 
@@ -680,11 +1310,27 @@ Kelebia
 
 |
 
+26.
+
+|
+
 Csikéria
 
 |
 
+|
+
+27.
+
+|
+
 Horvátország felé:
+
+|
+
+|
+
+28.
 
 |
 
@@ -694,9 +1340,17 @@ Magyarbóly
 
 |
 
+29.
+
+|
+
 Gyékényes
 
 |
+
+|
+
+30.
 
 |
 
@@ -704,7 +1358,19 @@ Murakeresztúr
 
 |
 
+|
+
+31.
+
+|
+
 Szlovénia felé:
+
+|
+
+|
+
+32.
 
 |
 
@@ -712,7 +1378,19 @@ Bajánsenye
 
 |
 
+|
+
+33.
+
+|
+
 Ausztria felé:
+
+|
+
+|
+
+34.
 
 |
 
@@ -722,9 +1400,17 @@ Szentgotthárd
 
 |
 
+35.
+
+|
+
 Ágfalva
 
 |
+
+|
+
+36.
 
 |
 
@@ -734,12 +1420,18 @@ Sopron
 
 |
 
+37.
+
+|
+
 Fertőd
 
 |
 
 |
 
-Hegyeshalom
+38.
 
 |
+
+Hegyeshalom

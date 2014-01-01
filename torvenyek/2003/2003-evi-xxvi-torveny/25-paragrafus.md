@@ -1,3 +1,5 @@
 ## Földtani veszélyforrás területének övezete
 
-25. § Földtani veszélyforrás területének övezetébe tartozó település veszélyeztetett területein a település településszerkezeti tervében beépítésre szánt terület csak kivételesen, geológiai szakvélemény alapján jelölhető ki.
+25. § (1) A földtani veszélyforrás területének övezetét a településrendezési eszközökben kell a tényleges kiterjedésnek megfelelően lehatárolni.
+
+(2) Az övezet területén új beépítésre szánt terület csak akkor jelölhető ki, ha ahhoz a bányafelügyelet a településrendezési eszközök egyeztetési eljárása során adott véleményében hozzájárul.

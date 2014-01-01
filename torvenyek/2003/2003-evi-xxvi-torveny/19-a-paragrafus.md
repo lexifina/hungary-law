@@ -1,3 +1,3 @@
-## Erdőtelepítésre alkalmas terület övezete
+## Erdőtelepítésre javasolt terület övezete
 
-19/A. § Az övezetbe tartozó területeken beépítésre szánt terület csak kivételesen, egyéb lehetőség hiányában területrendezési hatósági eljárás alapján jelölhető ki.
+19/A. § A településrendezési eszközökben az erdőtelepítésre javasolt terület övezetét az erdőterület területfelhasználási egység kijelölésénél figyelembe kell venni.
