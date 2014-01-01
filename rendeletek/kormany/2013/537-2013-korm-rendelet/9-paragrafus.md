@@ -1,0 +1,1 @@
+## 8. § A lakáscélú állami támogatásokról szóló 12/2001. (I. 31.) Korm. rendelet (a továbbiakban: 12/2001. Korm. rend.) 1. § (4) bekezdés 5. pontjában az „a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvényben” szövegrész helyébe az „a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényben” szöveg lép.

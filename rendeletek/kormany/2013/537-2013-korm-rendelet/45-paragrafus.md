@@ -1,0 +1,3 @@
+## 44. § A „Pályamódosító hitelprogram” keretében nyújtott hitel igénybevételének feltételeiről szóló 212/2006. (X. 27.) Korm. rendelet 1. § j) pontjában az „az – a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény 5. §-ában meghatározott –” szövegrész helyébe az „a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényben meghatározott” szöveg lép.
+
+## 18. A befektetési szolgáltatási tevékenységet, befektetési szolgáltatási tevékenységet kiegészítő szolgáltatást, valamint árutőzsdei szolgáltatást folytató gazdálkodó szervezet üzletszabályzatának kötelező tartalmi elemeiről szóló 22/2008. (II. 7.) Korm. rendelet módosítása
