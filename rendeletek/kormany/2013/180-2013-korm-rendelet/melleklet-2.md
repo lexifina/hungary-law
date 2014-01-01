@@ -10,13 +10,13 @@
 
 | 3 | örökségvédelmi hatósági eljárások | Győri Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Győr-Moson-Sopron Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
-| 4 | környezetvédelmi hatósági engedélyezési eljárások | Közép-Dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 4 |  |  | környezetvédelmi hatósági engedélyezési eljárások | Közép-Dunántúli Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
 | 5 | útügyi hatósági engedélyezési eljárások | Győr-Moson-Sopron Megyei Kormányhivatal Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
 | 6 | a Magyar Kereskedelmi Engedélyezési Hivatalról és a területi mérésügyi és műszaki biztonsági hatóságokról szóló 320/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdése és 13. § (2) bekezdése szerinti engedélyezési eljárások | Győr-Moson-Sopron Megyei Kormányhivatal Győri Mérésügyi és Műszaki Biztonsági Hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
-| 7 | vízjogi hatósági eljárások | Közép-Dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 7 | vízjogi hatósági eljárások | Közép-Dunántúli Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
 | 8 | hírközlési hatósági eljárások | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
@@ -30,7 +30,7 @@
 
 | 13 | tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-2. melléklet a 180/2013. (VI. 7.) Korm. rendelethez
+2. melléklet a 180/2013. (VI. 7.) Korm. rendelethez[^2]
 
 A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárásokban közreműködő hatáskörrel rendelkező szakhatóságok
 
@@ -50,6 +50,10 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 | 7 | műszaki biztonság | Győr-Moson-Sopron Megyei Kormányhivatal Győri Mérésügyi és Műszaki Biztonsági Hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
-| 8 | környezetvédelem, természetvédelem, tájvédelem és vízügy | Közép-Dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 8 | környezetvédelem, természetvédelem, tájvédelem | Közép-Dunántúli Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+
+| 8a. | vízügy | Közép-Dunántúli Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
 | 9 | rendészet | Veszprém Megyei Rendőr-főkapitányság | Országos Rendőr-főkapitányság |
+
+[^2]: A 2. melléklet az 527/2013. (XII. 30.) Korm. rendelet 144. § (2) bekezdése szerint módosított szöveg.
