@@ -1,6 +1,6 @@
 ## 5. § Egyedi környezetvédelmi azonosító adatokkal rendelkező ügyfélnek minden kérelmében, illetve környezetvédelmi adatszolgáltatásában fel kell azokat tüntetnie.
 
-## 6. § A KAR adatszolgáltatást az ügyfél az alapadatainak, illetve a környezetvédelmi objektumaihoz tartozó alapadatoknak az 1. mellékletben közölt formanyomtatvány kitöltésével teljesítheti. A formanyomtatványt a hozzá tartozó útmutatóval együtt a minisztérium hivatalos lapjában és honlapján, illetve a kormányzati portálon közzéteszi. Az adatszolgáltatás az alábbi módokon teljesíthető:
+## 6. §[^8] A KAR adatszolgáltatást az ügyfél az alapadatainak, illetve a környezetvédelmi objektumaihoz tartozó alapadatoknak az 1. mellékletben közölt formanyomtatvány kitöltésével teljesítheti. A formanyomtatványt a hozzá tartozó útmutatóval együtt a környezetvédelemért felelős miniszter a vízvédelemért felelős miniszter bevonásával dolgozza ki és a minisztérium hivatalos lapjában és honlapján, továbbá a kormányzati portálon közzéteszi. Az adatszolgáltatás az alábbi módokon teljesíthető:
 
 a) a mellékletben közölt formanyomtatvány kitöltésével papíron;
 
@@ -11,3 +11,5 @@ c) a minisztérium által meghatározott formátumban elkészített adatállomá
 d) külön jogszabályban meghatározottak szerinti, a közigazgatási eljárásban felhasználható legalább fokozott biztonságú elektronikus aláírással ellátott elektronikus dokumentum útján;
 
 e) külön jogszabályban előírtak szerint, elektronikus űrlap ügyfélkapun történő beküldésével.
+
+[^8]: A 6. § nyitó szövegrésze az 527/2013. (XII. 30.) Korm. rendelet 47. § (4) bekezdésével megállapított szöveg.

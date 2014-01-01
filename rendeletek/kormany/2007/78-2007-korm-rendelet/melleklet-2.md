@@ -56,7 +56,7 @@
 
 | 9. Cím: ……………….. ….…………………………………….............................. irányítószám település neve …………………….………………………………….… ……………… utca, út, tér házszám | 12. Értesítési cím: ………………. ………………….……………………………………........................... irányítószám település neve ………………………………….…………………………………….… ……………. utca, út, tér házszám |
 
-## Jogelőd ügyfél adatai[^8] (Az esetleges további jogelődöket a JOGE lapon kell felsorolni)
+## Jogelőd ügyfél adatai[^12] (Az esetleges további jogelődöket a JOGE lapon kell felsorolni)
 
 | 13. KÜJ (Környezetvédelmi Ügyfél Jel): ⬜⬜⬜⬜⬜⬜⬜⬜⬜ | 14. KSH statisztikai számjel: ⬜⬜⬜⬜⬜⬜⬜⬜- ⬜⬜⬜⬜- ⬜⬜⬜- ⬜⬜ |
 
@@ -254,7 +254,7 @@
 
 | 2. KTJ (Környezetvédelmi Terület Jel): ⬜⬜⬜⬜⬜⬜⬜⬜⬜ vagy KTJ lapsorszám: ⬜⬜⬜ |
 
-## Telephelyen található környezetvédelmi objektumok azonosítói[^9]
+## Telephelyen található környezetvédelmi objektumok azonosítói[^13]
 
 | 3. Változás kód | 4. KTJ (Környezetvédelmi Terület Jel) | vagy KTJ lapsorszám |
 
@@ -290,7 +290,7 @@
 
 | ⬜ | ⬜⬜⬜⬜⬜⬜⬜⬜⬜ | ⬜⬜⬜ |
 
-2. melléklet a 78/2007. (IV. 24.) Korm. rendelethez
+2. melléklet a 78/2007. (IV. 24.) Korm. rendelethez[^14]
 
 | MEGH lap | KÖRNYEZETVÉDELMI ALAPNYILVÁNTARTÁSHOZ SZÜKSÉGES ADATOK, VALAMINT AZ ADATOKBAN BEKÖVETKEZETT VÁLTOZÁSOK BEJELENTÉSE |
 
@@ -328,7 +328,7 @@ meghatalmazom
 
 | 12. E-mail cím (bejelentkezéshez): |
 
-hogy az illetékes környezetvédelmi, természetvédelmi és vízügyi felügyelőség felé, a fent nevezett környezetvédelmi adatszolgáltatásait, az adatszolgáltató nevében és helyette eljárva, elektronikus úton teljesítse.
+hogy az illetékes környezetvédelmi és természetvédelmi felügyelőség, illetve vízvédelmi hatóság felé, a fent nevezett környezetvédelmi adatszolgáltatásait, az adatszolgáltató nevében és helyette eljárva, elektronikus úton teljesítse.
 
 Jelen meghatalmazás a kiállítás dátumától kezdődően visszavonásig érvényes.
 
@@ -384,7 +384,7 @@ Meghatalmazott adatai:
 
 Meghatalmazás tárgya:
 
-Az illetékes környezetvédelmi, természetvédelmi és vízügyi felügyelőség felé, a fent nevezett környezetvédelmi adatszolgáltatásainak az adatszolgáltató nevében és helyette eljárva történő teljesítése.
+Az illetékes környezetvédelmi és természetvédelmi felügyelőség, illetve vízvédelmi hatóság felé, a fent nevezett környezetvédelmi adatszolgáltatásainak az adatszolgáltató nevében és helyette eljárva történő teljesítése.
 
 A fenti tartalmú meghatalmazás a kiállítás dátumától kezdődően érvénytelen!
 
@@ -396,5 +396,6 @@ P. H.
 
 cégszerű aláírás
 
-[^8]: Változásjelentés esetén a jogelőd ügyfél mezőket üresen kell hagyni! A jogelőd javításához vagy esetleges megváltozásának bejelentéséhez a JOGE pótlapot kell használni!
-[^9]: Az objektum KTJ száma és az objektum KTJ lapsorszáma közül egyszerre csak az egyik lehet kitöltve!
+[^12]: Változásjelentés esetén a jogelőd ügyfél mezőket üresen kell hagyni! A jogelőd javításához vagy esetleges megváltozásának bejelentéséhez a JOGE pótlapot kell használni!
+[^13]: Az objektum KTJ száma és az objektum KTJ lapsorszáma közül egyszerre csak az egyik lehet kitöltve!
+[^14]: A 2. melléklete az 527/2013. (XII. 30.) Korm. rendelet 47. § (5) bekezdése szerint módosított szöveg.
