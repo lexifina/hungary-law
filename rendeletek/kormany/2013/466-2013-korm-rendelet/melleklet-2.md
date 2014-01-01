@@ -6,9 +6,9 @@
 
 | 2. | Európai Rendőr-akadémia (CEPOL) székhelyének helyet adó épület felújítása | általános építésügyi és építésfelügyeleti hatósági eljárások | Budapest Főváros Kormányhivatala V. Kerületi Hivatalának Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
-| 3. | környezetvédelmi hatósági eljárások | Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 3. | környezetvédelmi hatósági eljárások | Közép-Duna-völgyi Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
-| 4. | természetvédelmi hatósági eljárások | Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 4. | természetvédelmi hatósági eljárások | Közép-Duna-völgyi Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
 | 5. | útügyi hatósági eljárások | Budapest Főváros Kormányhivatala Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
@@ -20,7 +20,7 @@
 
 | 9. | örökségvédelmi hatósági engedélyezési eljárások és régészeti feltárásokkal kapcsolatos eljárások (a további régészeti feladatellátás meghatározása kivételével) | Budapest Főváros Kormányhivatala V. Kerületi Hivatalának Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
-| 10. | vízügyi hatósági eljárások | Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 10. | vízügyi hatósági eljárások | Közép-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
 | 11. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | Fővárosi Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
@@ -30,7 +30,7 @@
 
 | 14. | azon beépített tűzoltó berendezések létesítésével és használatbavételi ügyeivel kapcsolatos eljárások, amelyek tervezése, kivitelezése jogszabályban, nemzeti szabványban teljes körűen nem szabályozott | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-2. melléklet a 466/2013. (XII. 5.) Korm. rendelethez
+2. melléklet a 466/2013. (XII. 5.) Korm. rendelethez[^2]
 
 Az Európai Rendőr-akadémia (CEPOL) székhelyének kialakítását célzó, nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósításához szükséges hatósági eljárásokban közreműködő hatáskörrel rendelkező szakhatóságok
 
@@ -40,7 +40,9 @@ Az Európai Rendőr-akadémia (CEPOL) székhelyének kialakítását célzó, ne
 
 | 2. | építésügy | Budapest Főváros Kormányhivatala V. Kerületi Hivatalának Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
-| 3. | környezetvédelem, természetvédelem és vízügy | Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 3. | környezetvédelem, természetvédelem | Közép-Duna-völgyi Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+
+| 3a. | vízügy | Közép-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
 | 4. | katasztrófavédelem és tűzvédelem | Fővárosi Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
@@ -57,3 +59,5 @@ Az Európai Rendőr-akadémia (CEPOL) székhelyének kialakítását célzó, ne
 | 10. | műszaki biztonság | Budapest Főváros Kormányhivatala Mérésügyi és Műszaki Biztonsági Hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
 | 11. | honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
+
+[^2]: A 2. melléklet az 527/2013. (XII. 30.) Korm. rendelet 160. § (2) bekezdése szerint módosított szöveg.
