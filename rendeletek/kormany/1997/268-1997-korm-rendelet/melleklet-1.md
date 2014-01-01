@@ -1,6 +1,6 @@
-## 28. §[^113]
+## 28. §[^114]
 
-1. számú melléklet a 268/1997. (XII. 22.) Korm. rendelethez[^114]
+1. számú melléklet a 268/1997. (XII. 22.) Korm. rendelethez[^115]
 
 1. A 2. § (1) bekezdése szerinti csoportokba a következők tartoznak:
 
@@ -32,7 +32,7 @@ d9) magyarországi helyi önkormányzat által nyilvánosan forgalomba hozott k�
 
 d10) külföldi önkormányzat által nyilvánosan forgalomba hozott kötvény;
 
-e)[^115] részvények:
+e)[^116] részvények:
 
 e1) a Budapesti Értéktőzsdére vagy más elismert értékpapírpiacra bevezetett, Magyarországon nyilvánosan forgalomba hozott részvény,
 
@@ -62,24 +62,24 @@ i) határidős ügyletek;
 
 j) opciós ügyletek;
 
-k)[^116] repo (fordított repo) ügyletek,
+k)[^117] repo (fordított repo) ügyletek,
 
-l)[^117] kockázati tőkealap-jegy,
+l)[^118] kockázati tőkealap-jegy,
 
-m)[^118] egyéb, tőzsdén vagy más szabályozott piacon jegyzett értékpapír.
+m)[^119] egyéb, tőzsdén vagy más szabályozott piacon jegyzett értékpapír.
 
 2. Az (1) bekezdésben leírtaktól eltérően a pénztár nem szabványosított határidős és opciós ügyletet csak devizaárfolyam-kockázat fedezeti céllal köthet.
 
 3. A pénztár nem köteles eladni a tulajdonában lévő, tőzsdéről kivezetésre kerülő részvényt az e rendelet befektetési kategóriáinak történő megfelelés céljából. Az ilyen értékpapírok aránya azonban nem haladhatja meg a befektetett pénztári eszközök 5%-át.
 
-4.[^119] A pénztár csak állampapír alapú repót (fordított repót) köthet, melynek értéke nem haladhatja meg a befektetett pénztári eszközök 20%-át. A fedezeti tartalék eszközfedezetének terhére repó ügyletek (ide nem értve a fordított repót) csak likviditási célból köthetők.
+4.[^120] A pénztár csak állampapír alapú repót (fordított repót) köthet, melynek értéke nem haladhatja meg a befektetett pénztári eszközök 20%-át. A fedezeti tartalék eszközfedezetének terhére repó ügyletek (ide nem értve a fordított repót) csak likviditási célból köthetők.
 
 5. Az egyéb kollektív befektetési értékpapírokra az e rendeletben a befektetési jegyekre meghatározott befektetési előírások az irányadók.
 
-[^113]: A 28. §-t a 330/2004. (XII. 11.) Korm. rendelet 11. §-a iktatta be, hatályon kívül helyezte a 118/2008. (V. 8.) Korm. rendelet 1. § 1300. pontja.
-[^114]: Az 1. számú melléklet a 263/2005. (XII. 14.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^115]: Az 1. számú melléklet 1. e) pontja a 235/2006. (XI. 24.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^116]: Az 1. számú melléklet 1. k) pontja a 235/2006. (XI. 24.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
-[^117]: Az 1. számú melléklet 1. l) pontját a 235/2006. (XI. 24.) Korm. rendelet 4. § (2) bekezdése iktatta be.
-[^118]: Az 1. számú melléklet 1. m) pontját a 235/2006. (XI. 24.) Korm. rendelet 4. § (2) bekezdése iktatta be.
-[^119]: Az 1. számú melléklet a 332/2009. (XII. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^114]: A 28. §-t a 330/2004. (XII. 11.) Korm. rendelet 11. §-a iktatta be, hatályon kívül helyezte a 118/2008. (V. 8.) Korm. rendelet 1. § 1300. pontja.
+[^115]: Az 1. számú melléklet a 263/2005. (XII. 14.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^116]: Az 1. számú melléklet 1. e) pontja a 235/2006. (XI. 24.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^117]: Az 1. számú melléklet 1. k) pontja a 235/2006. (XI. 24.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^118]: Az 1. számú melléklet 1. l) pontját a 235/2006. (XI. 24.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^119]: Az 1. számú melléklet 1. m) pontját a 235/2006. (XI. 24.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^120]: Az 1. számú melléklet a 332/2009. (XII. 29.) Korm. rendelet 1. §-ával megállapított szöveg.

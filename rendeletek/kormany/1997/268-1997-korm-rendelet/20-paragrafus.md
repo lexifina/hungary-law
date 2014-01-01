@@ -1,4 +1,4 @@
-## 19/F. §[^59] A pénztár ingatlankezelőjének ingatlankezelői szakképesítéssel kell rendelkeznie. Amennyiben az ingatlankezelést jogi személy végzi, akkor az ingatlankezelő legalább egy alkalmazottjának kell rendelkeznie ingatlankezelői szakképesítéssel.
+## 19/F. §[^60] A pénztár ingatlankezelőjének ingatlankezelői szakképesítéssel kell rendelkeznie. Amennyiben az ingatlankezelést jogi személy végzi, akkor az ingatlankezelő legalább egy alkalmazottjának kell rendelkeznie ingatlankezelői szakképesítéssel.
 
 ## III. RÉSZ
 
@@ -10,4 +10,4 @@
 
 (2) A felvett hitel vagy kölcsön kamatokkal növelt összege nem haladhatja meg a két alap együttes – a hitel vagy a kölcsön futamidejére tervezett, és a pénztár éves pénzügyi tervében meghatározott – bevételeinek 30%-át.
 
-[^59]: A 19/F. §-t a 367/2007. (XII. 23.) Korm. rendelet 6. §-a iktatta be.
+[^60]: A 19/F. §-t a 367/2007. (XII. 23.) Korm. rendelet 6. §-a iktatta be.

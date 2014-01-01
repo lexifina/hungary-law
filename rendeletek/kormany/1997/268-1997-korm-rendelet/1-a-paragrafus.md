@@ -4,7 +4,7 @@
 
 a)[^4] elektronikus számla: az elektronikus számlával kapcsolatos egyes rendelkezésekről szóló pénzügyminiszteri rendeletben (a továbbiakban Eszr.) meghatározott fogalom;
 
-b) készpénz-helyettesítő fizetési eszköz: a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény 2. számú mellékletének I. Pénzügyi szolgáltatások részének 5.1. pontjában meghatározott fogalom, kivéve a csekket;
+b)[^5] készpénz-helyettesítő fizetési eszköz: a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény 6. § (1) bekezdésében meghatározott fogalom, kivéve a csekket;
 
 c) pénztári kártya: olyan egészség-, vagy önsegélyező pénztár által kibocsátott eszköz, amely alkalmas a pénztártag azonosítására, az egyéni számlán meglévő fedezet igazolására, valamint az egyéni számlán zárolási művelet elvégzésére, valamint alkalmas lehet egészségügyi és egészségbiztosítási adatkezelés támogatására;
 
@@ -13,3 +13,4 @@ d) zárolás: a pénztártag egyéni számláján lévő összeg elkülönítés
 [^2]: Az 1. § a 281/2001. (XII. 26.) Korm. rendelet 38. §-ának (1) bekezdésével megállapított szöveg.
 [^3]: Az 1/A. §-t a 367/2007. (XII. 23.) Korm. rendelet 1. §-a iktatta be.
 [^4]: Az 1/A. § a) pontja a 182/2009. (IX. 10.) Korm. rendelet 131. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^5]: Az 1/A. § b) pontja az 537/2013. (XII. 30.) Korm. rendelet 3. §-ával megállapított szöveg.
