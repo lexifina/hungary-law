@@ -1,3 +1,3 @@
-## 16. §[^10]
+## 16. § E rendelet 3. § (4) bekezdése helyébe a következő rendelkezés lép:
 
-[^10]: A 16. § a 12. § (2) bekezdése alapján 2014. január 1-jén lép hatályba.
+## „(4) A motorhajtóanyag metilciklopentadienil-mangán-trikarbonil adalékának mangántartalma nem haladhatja meg a 2 mg/liter értéket.”
