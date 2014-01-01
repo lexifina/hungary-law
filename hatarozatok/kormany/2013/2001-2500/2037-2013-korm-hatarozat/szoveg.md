@@ -54,14 +54,6 @@ Határidő: kétévente, először 2015. március 30.
 
 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-3. A Kormány ügyrendjéről szóló 1144/2010. (VII. 7.) Korm. határozat „A közigazgatási államtitkári értekezlet” alcíme a következő 56/A. ponttal egészül ki:
+3–4.[^1]
 
-„56/A. A közigazgatási államtitkári értekezlet ellátja a Nemzeti Fenntartható Fejlődés Keretstratégiáról szóló 18/2013. (III. 28.) OGY határozat 3. pontjában foglalt, a Nemzeti Fenntartható Fejlődés Keretstratégia érvényesítését, megvalósítását elősegítő, a fenntartható fejlődés ügyét érintő kormányzati döntésekkel kapcsolatos koordinációs feladatokat.”
-
-4. A Kormány
-
-a) a fenntartható fejlődési stratégia kidolgozásának tartalmi és szervezeti kereteiről szóló 2053/2005. (IV. 8.) Korm. határozatát, valamint
-
-b) a Nemzeti Fenntartható Fejlődési Stratégia elfogadásáról szóló 1054/2007. (VII. 9.) Korm. határozatát,
-
-visszavonja.
+[^1]: A 3–4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
