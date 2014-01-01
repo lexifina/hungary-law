@@ -2,21 +2,12 @@
 
 ## A hatósági jogkörben eljáró szervek
 
-1. §[^1] (1)[^2] A vízgazdálkodásról szóló törvényben (a továbbiakban: Vgtv.), valamint e rendeletben meghatározott, a vízgazdálkodással összefüggő vízügyi hatósági hatásköröket és a hatósági jogkört
+1. §[^1] (1) A vízgazdálkodásról szóló törvényben (a továbbiakban: Vgtv.), valamint az e rendeletben meghatározott, a vízgazdálkodással összefüggő első fokú vízügyi hatósági jogkört a területi vízügyi hatóság (a továbbiakban: vízügyi hatóság), a másodfokú vízügyi hatósági jogkört az Országos Vízügyi Hatóság gyakorolja.
 
-a) a környezetvédelmi, természetvédelmi és vízügyi felügyelőségek (a továbbiakban: felügyelőség),
+(2) A helyi vízgazdálkodási hatósági jogkört első fokon a települési önkormányzat jegyzője, valamint a 25. § (2) bekezdésében foglaltak fennállása esetén a járási hivatal, másodfokon a fővárosi és megyei kormányhivatal gyakorolja.
 
-b) a helyi önkormányzatok jegyzői,
+(3) E rendelet alkalmazásában az állami tulajdonban álló ingatlan esetében tulajdonos alatt az állami tulajdonban álló ingatlan felett jogszabály vagy szerződés alapján tulajdonosi jogokat gyakorló személyt vagy szervezetet kell érteni.
 
-c) a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalai (a továbbiakban: járási hivatal)
+(4) A vízügyi hatósági eljárásban a vízimunkával, vízhasználattal vagy vízilétesítménnyel érintett ingatlan tulajdonosa, vagyonkezelője, továbbá az építtető – a közigazgatási hatósági eljárás általános szabályairól szóló törvényben az ügyféli jogállásra meghatározott előírások teljesülésének külön vizsgálata nélkül – ügyfélnek minősül. Ha a vízimunka, vízhasználat vagy vízilétesítmény állami tulajdonban lévő vizeket (felszíni vizeket, felszín alatti vizeket, a felszín alatti vizek természetes víztartó képződményeit), medret vagy vízilétesítményt érint, a működési területével érintett vízügyi igazgatóság a vízügyi hatósági eljárásban ügyfélnek minősül.
 
-## gyakorolják.
-
-(2)[^3] E rendelet alkalmazásában az állami tulajdonban álló ingatlan esetében tulajdonos alatt az állami tulajdonban álló ingatlan felett jogszabály vagy szerződés alapján tulajdonosi jogokat gyakorló személyt vagy szervezetet kell érteni.
-
-(3)[^4] A helyi vízgazdálkodási hatósági jogkört első fokon a települési önkormányzat jegyzője, valamint a 25. § (2) bekezdésében foglaltak fennállása esetén a járási hivatal, másodfokon a fővárosi és megyei kormányhivatal gyakorolja.
-
-[^1]: Az 1. § a 183/2003. (XI. 5.) Korm. rendelet 20. §-ának (3) bekezdésével megállapított szöveg, a módosító rendelet 20. §-ának (1) bekezdése alapján rendelkezéseit hatósági ügyekben a már megindult eljárásokra, egyebekben a folyamatban lévő ügyekre is alkalmazni kell.
-[^2]: Az 1. § (1) bekezdése az 51/2013. (II. 25.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^3]: Az 1. § (2) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 85. §-a hatályon kívül helyezte, újonnan a 242/2012. (VIII. 31.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^4]: Az 1. § (3) bekezdése az 51/2013. (II. 25.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^1]: Az 1. § az 527/2013. (XII. 30.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.

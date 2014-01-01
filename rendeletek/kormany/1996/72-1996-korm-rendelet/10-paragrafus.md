@@ -2,7 +2,7 @@
 
 ## megállapítása
 
-10. § (1) A felszíni vizek partvonalát – kérelemre vagy hivatalból a környezet- és természetvédelmi előírásokra is figyelemmel – a vízügyi hatóság állapítja meg. A partvonalat, ha a terepadottságok vagy egyéb körülmények indokolják természetben is ki kell tűzni.
+10. §[^76] (1) A felszíni vizek partvonalát – kérelemre vagy hivatalból a környezet- és természetvédelmi előírásokra is figyelemmel – a vízügyi hatóság határozattal állapítja meg. A partvonalat, ha a terepadottságok vagy egyéb körülmények indokolják természetben is ki kell tűzni.
 
 (2) A partvonal megállapításánál – a már állandósult partvonal kivételével – figyelemmel kell lenni különösen:
 
@@ -12,23 +12,28 @@ b) a közérdeket szolgáló, vízgazdálkodási, környezetvédelmi és termés
 
 c) az ökológiai értékek védelmére;
 
-d) a hordalék lerakódásra, a jégjárásra és a hullámverésre;
+d) a hordalék lerakódásra, a jégjárásra és a hullámverésre, a szakadó partok állapotára;
 
-e) a parti ingatlan tulajdonosának jogszabályban meghatározott jogaira és kötelezettségeire, továbbá az elfogadott településfejlesztési tervekre.
+e) a parti ingatlan tulajdonosának jogszabályban meghatározott jogaira és kötelezettségeire, továbbá
 
-(3) A parti ingatlan tulajdonosa az elhabolás elleni védelem, valamint az elhabolt rész vízjogi engedély alapján történő helyreállítása során a megállapított partvonalra jogosult a szükséges munkákat elvégezni.
+f) a hatályos településfejlesztési tervekre.
 
-(4) A megállapított partvonalat a településrendezési tervek elkészítése során is figyelembe kell venni.
+(3) A vízügyi hatóságnak a vizek partvonalát megállapító határozatában meg kell jelölni az ingatlan-nyilvántartási változás átvezetéshez szükséges bejegyzés jogcímét, a módosult partvonal következtében az egyes ingatlanok adatainak változását.
 
-(5)[^71] Ha a vízviszonyokba a meder feltöltésével jogellenesen beavatkoztak, a feltöltés fennmaradásáról vagy megszüntetéséről az (1) bekezdésben meghatározott eljárás során kell a partvonal módosításával vagy az eredeti partvonal fenntartásával határozni.
+(4) A folyóvizek természetes úton végzett munkája (elhabolás) során a parti ingatlan tulajdonosának (használójának) a mederré váló területért kártalanítás nem jár.
 
-(6)[^72] Amennyiben a partvonal nem módosítható, az eredeti állapot helyreállításához szükséges intézkedésekről – jogszabály eltérő rendelkezése hiányában – a határozatban külön rendelkezni kell.
+(5) A parti ingatlan tulajdonosa az elhabolás elleni védelem, valamint az elhabolt rész vízjogi engedély alapján történő helyreállítása során a megállapított partvonalig jogosult a szükséges munkákat elvégezni.
 
-(7)[^73] A partvonal módosítására irányuló kérelemhez – ideértve a jogellenesen megvalósított mederfeltöltés fennmaradására irányuló kérelmet is – a meder tulajdonosának (kezelőjének) hozzájárulását, továbbá az ingatlan-nyilvántartási átvezetéshez szükséges dokumentációt kell csatolni. Amennyiben a hozzájárulás hiányzik, a kérelem nem teljesíthető és a partvonal kizárólag hivatalból indított eljárás eredményeként módosítható.
+(6) A megállapított partvonalat a településrendezési eszközök elkészítése során is figyelembe kell venni.
 
-(8)[^74] A jogellenes mederfeltöltéssel kapcsolatos ügyekben egyebekben a rendeletnek a hatósági engedély nélkül vagy arról eltérően végzett létesítésre és üzemeltetésre vonatkozó rendelkezéseit kell megfelelően alkalmazni.
+(7) Ha a vízviszonyokba a meder feltöltésével jogellenesen beavatkoztak, a feltöltés fennmaradásáról vagy megszüntetéséről az (1) bekezdésben meghatározott eljárás során kell a partvonal módosításával vagy az eredeti partvonal fenntartásával határozni.
 
-[^71]: A 10. § (5) bekezdését a 120/1999. (VIII. 6.) Korm. rendelet 13. §-ának (4) bekezdése iktatta be.
-[^72]: A 10. § (6) bekezdését a 120/1999. (VIII. 6.) Korm. rendelet 13. §-ának (4) bekezdése iktatta be, szövege a 10/2000. (II. 2.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^73]: A 10. § (7) bekezdését a 120/1999. (VIII. 6.) Korm. rendelet 13. §-ának (4) bekezdése iktatta be, szövege a 10/2000. (II. 2.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^74]: A 10. § (8) bekezdését a 120/1999. (VIII. 6.) Korm. rendelet 13. §-ának (4) bekezdése iktatta be.
+(8) A jogellenesen megvalósított mederfeltöltés esetén a fennmaradási engedélyhez a meder tulajdonosának, állami tulajdon esetén vagyonkezelőjének hozzájárulását, továbbá az ingatlan-nyilvántartási átvezetéshez szükséges dokumentációt is csatolni kell. Hozzájárulás hiányában a kérelem nem teljesíthető és a partvonal kizárólag hivatalból indított eljárás eredményeként módosítható.
+
+(9) Ha a partvonal nem módosítható, az eredeti állapot helyreállításához szükséges intézkedésekről – jogszabály eltérő rendelkezése hiányában – a határozatban külön rendelkezni kell.
+
+(10) A partvonal módosítására irányuló kérelemhez – ideértve a jogellenesen megvalósított mederfeltöltés fennmaradására irányuló kérelmet is – a meder tulajdonosának, állami tulajdon esetén vagyonkezelőjének hozzájárulását, továbbá az ingatlan-nyilvántartási átvezetéshez szükséges dokumentációt kell csatolni. Hozzájárulás hiányában a kérelem nem teljesíthető és a partvonal kizárólag hivatalból indított eljárás eredményeként módosítható.
+
+(11) A jogellenes mederfeltöltéssel kapcsolatos ügyekben egyebekben e rendeletnek a hatósági engedély nélkül vagy attól eltérően végzett létesítésre és üzemeltetésre vonatkozó rendelkezéseit kell megfelelően alkalmazni.
+
+[^76]: A 10. § az 527/2013. (XII. 30.) Korm. rendelet 3. § (10) bekezdésével megállapított szöveg.
