@@ -1,0 +1,3 @@
+1. § (1) Az agrárgazdasági ágazat tekintetében a nemzeti létfontosságú rendszerelemmé történő kijelölést vagy a kijelölés visszavonását – az üzemeltetőn kívül – javaslattevő hatóságként a fővárosi és megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatósága, illetve a fővárosi és megyei kormányhivatal növény- és talajvédelmi igazgatósága kezdeményezheti.
+
+(2) A nemzeti létfontosságú rendszerelem és az európai létfontosságú rendszerelem kijelölése és a kijelölés visszavonása során az agrárgazdasági ágazat tekintetében ágazati kijelölő hatóságként a Nemzeti Élelmiszerlánc-biztonsági Hivatal jár el.

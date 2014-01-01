@@ -1,0 +1,1 @@
+## 6. § Növényi genetikai erőforrásokat megőrző génbank akkor jelölhető ki európai létfontosságú rendszerelemnek, ha egy esetleges katasztrófahelyzet közvetlenül veszélyeztetné az egyedi és pótolhatatlan biológiai alapok megtartását, és a létfontosságú létesítmény legalább harmincezer, szőlő és gyümölcstermő növények esetén legalább ötezer megőrzött tétellel rendelkezik.
