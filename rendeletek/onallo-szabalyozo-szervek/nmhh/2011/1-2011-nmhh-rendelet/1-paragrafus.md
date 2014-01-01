@@ -2,10 +2,11 @@
 
 (2) Az adott földrajzi helyen vagy körzetben engedélyezett rádiótávközlő hálózatok, rádióállomások és -berendezések (a továbbiakban: hálózatok, állomások és berendezések) frekvencialekötéséért és frekvenciahasználatáért az e rendeletben meghatározott díjat kell fizetni.
 
-(3) Nem terjed ki a rendelet hatálya arra a frekvenciadíjra, amelyet a jogosított a koncessziós szerződésben rögzített módon és mértékben fizet meg.
+(3)[^1] Nem terjed ki a rendelet hatálya arra a frekvenciadíjra, amelyet a frekvenciahasználati jogosultsággal rendelkező vállalkozás a hatósági szerződésben rögzített módon és mértékben fizet meg.
 
 (4) A frekvenciadíj a frekvenciakijelölésről, illetőleg a rádióengedélyről szóló határozatban, illetőleg annak módosításával is megállapítható.
 
-(5)[^1] A rendelet alkalmazásában a frekvenciadíjak megállapításához szükséges fogalmak jegyzékét a frekvenciasávok nemzeti felosztásának megállapításáról szóló kormányrendeletben és a frekvenciasávok felhasználási szabályainak megállapításáról szóló NMHH rendeletben meghatározottakon túlmenően a 10. számú melléklet tartalmazza.
+(5)[^2] A rendelet alkalmazásában a frekvenciadíjak megállapításához szükséges fogalmak jegyzékét a frekvenciasávok nemzeti felosztásának megállapításáról szóló kormányrendeletben és a frekvenciasávok felhasználási szabályainak megállapításáról szóló NMHH rendeletben meghatározottakon túlmenően a 10. számú melléklet tartalmazza.
 
-[^1]: Az 1. § (5) bekezdése a 8/2011. (XI. 3.) NMHH rendelet 1. § (1) bekezdése szerint módosított szöveg.
+[^1]: Az 1. § (3) bekezdése a 12/2013. (IX. 19.) NMHH rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. § (5) bekezdése a 8/2011. (XI. 3.) NMHH rendelet 1. § (1) bekezdése szerint módosított szöveg.

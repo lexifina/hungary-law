@@ -1,27 +1,31 @@
-9. számú melléklet az 1/2011. (III. 31.) NMHH rendelethez[^17]
+9. számú melléklet az 1/2011. (III. 31.) NMHH rendelethez[^22]
 
-1. Az értékesített frekvenciasávok esetében az egységdíj 7500 Ft/kHz/hó.
+1. Az értékesített, megszerzett frekvenciasávok esetében az egységdíj 7500 Ft/kHz/hó.
 
-2. Az egységdíjat meg kell szorozni az értékesített sávok kHz-ben kifejezett összegével és a sávszorzóval.
+2. Az egységdíjat meg kell szorozni az értékesített, megszerzett sávok kHz-ben kifejezett összegével és a sávszorzóval.
 
-3. Az értékesített sávok kHz-ben kifejezett összegének meghatározásakor duplex sáv esetén annak mindkét részét figyelembe kell venni.
+3. Az értékesített, megszerzett sávok kHz-ben kifejezett összegének meghatározásakor duplex sáv esetén annak mindkét részét figyelembe kell venni.
 
-4. A jogosítottnak minden olyan hónapra a teljes havi sávdíjat kell megfizetnie, amely hónapban a frekvenciahasználati jogosultsága keletkezett, fennállt, vagy megszűnt.
+4. A jogosítottnak minden olyan hónapra a teljes havi sávdíjat kell megfizetnie, amely hónapban a frekvenciahasználati jogosultsága, joga keletkezett, fennállt, vagy megszűnt.
 
 5. A sávszorzókat az alábbi táblázat tartalmazza:
 
-| Frekvencia tartomány | Sávszorzó értéke |
+|  | Frekvencia tartomány | Sávszorzó értéke |
 
-| 450–470 MHz | 0,7 |
+|  | 450–470 MHz | 0,4 |
 
-| 790–960 MHz | 1,0 |
+|  | 790–960 MHz | 1,0 |
 
-| 1710–2200 MHz | 0,5 |
+|  | 1710–2200 MHz frekvenciatartományban 2014. január 1. napján használatban lévő sávok esetén | 0,25 |
 
-| 2500–2690 MHz | 0,4 |
+|  | 1710–2200 MHz frekvenciatartományban 2014. január 1. napján használatban nem lévő sávok esetén | 0,5 |
 
-| 3400–3800 MHz | 0,0067 |
+|  | 2500–2690 MHz | 0,4 |
 
-| 24500–26500 MHz | 0,0033 |
+|  | 3400–3800 MHz frekvenciatartományban 2014. január 1. napján használatban lévő sávok esetén | 0,004 |
 
-[^17]: A 9. számú melléklet a 8/2011. (XI. 3.) NMHH rendelet 1. § (10) bekezdésével megállapított szöveg.
+|  | 3400–3800 MHz frekvenciatartományban 2014. január 1. napján használatban nem lévő sávok esetén | 0,0067 |
+
+|  | 24500–26500 MHz | 0,002 |
+
+[^22]: A 9. számú melléklet a 12/2013. (IX. 19.) NMHH rendelet 7. §-ával megállapított szöveg.

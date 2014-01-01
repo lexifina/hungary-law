@@ -12,7 +12,7 @@ e) az amatőr szolgálat, a meteorológiai segédszolgálat, a hiteles frekvenci
 
 f) a kísérleti céllal vagy bemutatás céljára engedélyezett és egy hónapnál rövidebb ideig üzemeltetett berendezések frekvenciái után,
 
-g) a műsorvétel minőségét javító rádiótávközlő berendezések frekvenciái után, ha azok műsorral ellátott, de rádióárnyékban lévő területen belül működnek, és a már engedélyezett frekvencián üzemelnek,
+g)[^3]
 
 h) a Nemzetközi Rádiószabályzat szerinti segélykérő frekvenciák után,
 
@@ -20,7 +20,7 @@ i) ha a külföldön engedélyezett CB és amatőr berendezéseket külföldiké
 
 j) a nemzetközi megállapodás alapján Magyarországra szabadon behozható állomások frekvenciahasználata után,
 
-k)[^2] azon rádióállomások, hálózatok frekvenciahasználata után, amelyek a frekvenciasávok felhasználási szabályainak megállapításáról szóló NMHH rendelet alapján az egyedi engedélyezési kötelezettség alól mentesülnek,
+k)[^4] azon rádióállomások, hálózatok frekvenciahasználata után, amelyek a frekvenciasávok felhasználási szabályainak megállapításáról szóló NMHH rendelet alapján az egyedi engedélyezési kötelezettség alól mentesülnek,
 
 l) rendkívüli állapot és szükségállapot, továbbá az élet- és vagyonbiztonságot veszélyeztető elemi csapás, illetőleg ezek következményeinek elhárítása érdekében a miniszter által átmenetileg korlátozott vagy szüneteltetett rádiótávközlési szolgálatok frekvenciái után, a korlátozás vagy szüneteltetés mértékéhez igazodóan,
 
@@ -32,7 +32,7 @@ o) ha törvényi felhatalmazás vagy nemzetközi szerződés alapján felmentés
 
 p) a kizárólag hullámterjedési jelenség vizsgálata és bemutatása céljából használt frekvenciák után,
 
-q)[^3] a frekvenciasávok nemzeti felosztásának megállapításáról szóló kormányrendelet alapján harmadlagos jelleggel használt frekvenciák után.
+q)[^5] a frekvenciasávok nemzeti felosztásának megállapításáról szóló kormányrendelet alapján harmadlagos jelleggel használt frekvenciák után.
 
 (2) Az állomások és berendezések rádióengedélyben rögzített szüneteltetésének időtartama alatt a jogosítottnak a frekvenciahasználati díj 50%-át kell megfizetnie.
 
@@ -64,5 +64,12 @@ l) közös frekvenciahasználatú polgárőr szervezeteknek és közgyűjtemény
 
 (4) A rendelet alapján megállapított frekvenciadíj 25%-át kell megfizetni a közoktatási és felsőoktatási intézményekben az oktatással közvetlen összefüggésben használt frekvenciák után, amelyek nem tartoznak az (1) bekezdés p) pontja alá.
 
-[^2]: A 2. § (1) bekezdés k) pontja a 7/2011. (X. 6.) NMHH rendelet 10. §-a szerint módosított szöveg.
-[^3]: A 2. § (1) bekezdés q) pontja a 8/2011. (XI. 3.) NMHH rendelet 1. § (1) bekezdése szerint módosított szöveg.
+(5)[^6] A rendelet alapján megállapított frekvenciadíj 50%-át kell megfizetni azon sávok után, amelyekben elsődlegesen kormányzati célú szolgáltatás megvalósítását támogató rádiórendszerek üzemelnek.
+
+(6)[^7] A rendelet alapján megállapított frekvenciadíj 10%-át kell megfizetni GSM-R rendszer frekvenciahasználatáért.
+
+[^3]: A 2. § (1) bekezdés g) pontját a 12/2013. (IX. 19.) NMHH rendelet 10. §-a hatályon kívül helyezte.
+[^4]: A 2. § (1) bekezdés k) pontja a 7/2011. (X. 6.) NMHH rendelet 10. §-a szerint módosított szöveg.
+[^5]: A 2. § (1) bekezdés q) pontja a 8/2011. (XI. 3.) NMHH rendelet 1. § (1) bekezdése szerint módosított szöveg.
+[^6]: A 2. § (5) bekezdését a 12/2013. (IX. 19.) NMHH rendelet 2. §-a iktatta be.
+[^7]: A 2. § (6) bekezdését a 12/2013. (IX. 19.) NMHH rendelet 2. §-a iktatta be.

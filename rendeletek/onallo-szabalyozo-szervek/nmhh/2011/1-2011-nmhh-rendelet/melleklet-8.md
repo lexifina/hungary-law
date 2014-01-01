@@ -4,17 +4,17 @@
 
 | Frekvenciasáv (F) | Díj (Ft/kHz/hó) |
 
-| 960 MHz<F≤10 GHz | 1,12 |
+| 960 MHz<F≤10 GHz | 0,672 |
 
-| 10 GHz<F≤13,25 GHz | 0,56 |
+| 10 GHz<F≤13,25 GHz | 0,336 |
 
-| 13,25 GHz<F≤21,2 GHz | 0,448 |
+| 13,25 GHz<F≤21,2 GHz | 0,267 |
 
-| 21,2 GHz<F≤30 GHz | 0,336 |
+| 21,2 GHz<F≤30 GHz | 0,202 |
 
-| 30 GHz<F≤55 GHz | 0,268 |
+| 30 GHz<F≤55 GHz | 0,161 |
 
-| 55 GHz<F | 0,134 |
+| 55 GHz<F | 0,08 |
 
 ## 1. táblázat
 
