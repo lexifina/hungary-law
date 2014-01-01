@@ -1,11 +1,11 @@
 10. § A hírközlési vezetékkel rendelkező adóalanynak a hírközlési vezeték utáni adó alapjának
 
-– 170 000 métert meg nem haladó része után az egyébként fizetendő adó 20%-át,
+a) 200 000 métert meg nem haladó része után az egyébként fizetendő adó 0%-át,
 
-– 170 000 métert meghaladó, de 250 000 métert meg nem haladó része után az egyébként fizetendő adó 40%-át,
+b) 200 000 métert meghaladó, de 350 000 métert meg nem haladó része után az egyébként fizetendő adó 30%-át,
 
-– 250 000 métert meghaladó, de 300 000 métert meg nem haladó része után az egyébként fizetendő adó 80%-át,
+c) 350 000 métert meghaladó, de 500 000 métert meg nem haladó része után az egyébként fizetendő adó 75%-át,
 
-– 300 000 métert meghaladó része után a fizetendő adó teljes összegét
+d) 500 000 métert meghaladó része után a fizetendő adó teljes összegét
 
 kell megfizetni.
