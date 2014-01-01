@@ -6,7 +6,7 @@
 
 (4) Az ismételten mulasztó hatóságtól az ügy nem vonható el, és az eljárásra más hatóság nem jelölhető ki, ha a hatóság hatásköre hatósági igazolvány vagy hatósági bizonyítvány kiadására, hatósági nyilvántartás vezetésére terjed ki, vagy ha hatásköre kizárólagos. A hatóság legkésőbb a felügyeleti szerv utasításától számított tizenöt napon belül köteles eleget tenni elmulasztott kötelezettségének. A felügyeleti szerv az utasítással egyidejűleg fegyelmi eljárást kezdeményez a mulasztó hatóság vezetője ellen, amely kezdeményezés alapján a fegyelmi eljárás megindítása kötelező.
 
-(5) Ha a képviselő-testület, a polgármester, a bizottság, a társulás vagy a jegyző (a továbbiakban együtt: önkormányzati hatóság) önkormányzati hatósági ügyben eljárási kötelezettségét elmulasztotta, a fővárosi és megyei kormányhivatal felhívja a mulasztó tisztségviselőt vagy testületet, hogy soron kívül, de legkésőbb harminc napon belül folytassa le az eljárást.
+(5) Ha a képviselő-testület, a polgármester, a bizottság, a társulás vagy a jegyző (a továbbiakban együtt: önkormányzati hatóság) önkormányzati hatósági ügyben eljárási kötelezettségét elmulasztotta, a fővárosi és megyei kormányhivatal felhívja a mulasztó tisztségviselőt vagy testületet, hogy soron kívül, de legkésőbb huszonegy napon belül folytassa le az eljárást.
 
 (6) Az (5) bekezdés alapján az önkormányzati hatósághoz intézett felhívás eredménytelensége esetén az ügyfél vagy a fővárosi és megyei kormányhivatal, továbbá ha az adott ügyben nincs felügyeleti szerv, vagy a felügyeleti szerv az intézkedési, eljárási kötelezettségének nem tesz eleget, az ügyfél kérelmére a közigazgatási ügyekben eljáró bíróság kötelezi a hatóságot az eljárás lefolytatására.
 

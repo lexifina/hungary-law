@@ -6,7 +6,7 @@
 
 (1b) A hatósági nyilvántartásba való bejegyzésre, valamint az onnan való törlésre irányuló eljárás során a hatóság csak jogszabályban e célból meghatározott bizonyítási eszközt használhat fel.
 
-(1c) Az (1a) és (1b) bekezdés tekintetében nem alkalmazható a 82. § (1) bekezdése.
+(1c)
 
 (2) A hatósági nyilvántartásba történő hivatalbóli, mérlegelés nélküli bejegyzésre a határozatra vonatkozó 71–73. §-okban és a 78. §-ban meghatározottakat nem kell alkalmazni, és a döntés a nyilvántartásba való bejegyzés napján jogerőre emelkedik.
 

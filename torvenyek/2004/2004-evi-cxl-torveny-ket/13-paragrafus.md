@@ -1,8 +1,4 @@
-13. § (1) E törvény hatálya nem terjed ki:
-
-a) a szabálysértési eljárásra, a választási eljárásra, a népszavazás előkészítésére és lebonyolítására, a területszervezési eljárásra, a felsőoktatási felvételi eljárásra és – az állampolgársági bizonyítvány kiadásának kivételével – az állampolgársági eljárásra,
-
-b)
+13. § (1) E törvény hatálya nem terjed ki a szabálysértési eljárásra, a választási eljárásra, a népszavazás előkészítésére és lebonyolítására, a területszervezési eljárásra, a helyi önkormányzatok törvényességi felügyeletével kapcsolatos eljárásra, a felsőoktatási felvételi eljárásra és – az állampolgársági bizonyítvány kiadásának kivételével – az állampolgársági eljárásra.
 
 (2) E törvény rendelkezéseit
 
@@ -32,7 +28,9 @@ k) a kutatás-fejlesztési tevékenység minősítésével kapcsolatos hatóság
 
 l) a fizetési, illetve értékpapír-elszámolási rendszerekben történő teljesítés véglegességéről szóló törvény szerinti eljárásokban, valamint a forgalomban lévő magyar törvényes fizetőeszközről utánzat készítésével kapcsolatos eljárásokban,
 
-m) a kisajátítási eljárásban
+m) a kisajátítási eljárásban,
+
+n) a mező- és erdőgazdasági földek forgalmáról szóló törvényben meghatározott, a föld tulajdonjogának vagy a földhasználati jogosultság megszerzésének a hatósági jóváhagyása iránti eljárásban, továbbá a szerzési korlátozások hatósági ellenőrzése során
 
 csak akkor kell alkalmazni, ha az ügyfajtára vonatkozó törvény eltérő szabályokat nem állapít meg.
 

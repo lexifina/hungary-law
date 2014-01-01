@@ -6,11 +6,11 @@
 
 71. § (1) A hatóság – az (5) és (6) bekezdésben meghatározott kivétellel – az ügy érdemében határozatot hoz, az eljárás során felmerült minden más kérdésben végzést bocsát ki.
 
-(2) Ha az ügyfél kérelme jog megszerzésére irányul, és ellenérdekű ügyfél az első fokú eljárásban nem vett részt, másik hatóság vagy szakhatóság eljárásra való kijelölése helyett jogszabály rendelkezhet úgy, hogy
+(2) Törvény vagy kormányrendelet eltérő rendelkezése hiányában, ha az ügyfél kérelme jog megszerzésére irányul és ellenérdekű ügyfél az első fokú eljárásban nem vett részt,
 
 a) az ügyfelet megilleti a kérelmezett jog gyakorlása, ha a hatóság az előírt határidőben nem hoz döntést,
 
-b) ha a szakhatóság az előírt határidőn belül nem ad ki állásfoglalást, a hozzájárulását megadottnak kell tekinteni.
+b) a szakhatóság hozzájárulását megadottnak kell tekinteni, ha a szakhatóság az előírt határidőn belül nem ad ki állásfoglalást.
 
 (3)
 

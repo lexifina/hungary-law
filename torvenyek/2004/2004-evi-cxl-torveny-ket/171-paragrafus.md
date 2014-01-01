@@ -49,3 +49,5 @@ b) hatálybalépését megelőzően a Felügyelet részére bejelentést tett sz
 (10) E törvénynek a fővárosi és megyei kormányhivatalok működésével összefüggő törvények, valamint a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény és egyes kapcsolódó törvények módosításáról szóló 2012. évi CCX. törvénnyel módosított rendelkezéseit az e rendelkezések hatálybalépését követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
 
 (11) E törvénynek az egyes törvényeknek a közigazgatási hatósági eljárásokkal, az egyes közhiteles hatósági nyilvántartásokkal összefüggő, valamint egyéb törvények módosításáról szóló 2013. évi LXXXIV. törvény 55. §-ával módosított 21. § (1) bekezdés a) pontját e rendelkezés hatálybalépését követően indult, illetve a megismételt eljárásokban kell alkalmazni.
+
+(12) E törvénynek a kormányablakok kialakításával, valamint a fővárosi és megyei kormányhivatalok működésével összefüggő egyes törvények módosításáról szóló 2013. évi CCXVIII. törvénnyel megállapított rendelkezéseit az e rendelkezések hatálybalépését követően indult ügyekben és a megismételt eljárásokban kell alkalmazni.

@@ -18,7 +18,7 @@ g) a hatóság a jogutódlásra tekintettel a teljesítési határidőt a végre
 
 h) a végrehajtást foganatosító szerv a kötelezettel szemben felszámolási eljárást kezdeményezett, illetve a kötelezett ellen felszámolási eljárás indult,
 
-i)
+i) a kötelezett az eljárás tárgyát képező kötelezettséget teljesítette,
 
 j) törvény vagy kormányrendelet a végrehajtás megszüntetését egyéb okból lehetővé teszi.
 

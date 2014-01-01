@@ -18,6 +18,8 @@ f) a jogsértést elkövető eljárást segítő, együttműködő magatartásá
 
 g) a jogsértést elkövető gazdasági súlyát.
 
+(1a) A helyi önkormányzat képviselő-testületének rendelete alapján megállapítható közigazgatási bírság felső határa – a jogsértő személyétől függően – természetes személyek esetén kétszázezer forint, jogi személyek és jogi személyiséggel nem rendelkező szervezetek esetén kétmillió forint lehet. A közigazgatási bírság felső határát az önkormányzati rendeletben a jogsértés jellegével arányban kell megállapítani.
+
 (2) Ha jogszabály eltérően nem rendelkezik, nem indítható a jogsértés megállapítására és bírság kiszabására eljárás, ha a jogsértő magatartásnak a bírság kiszabására jogosult hatóság tudomására jutásától számított egy év, vagy az elkövetéstől számított öt év eltelt. Az ötéves határidő kezdő napja
 
 a) az a nap, amikor a jogsértő magatartás megvalósul,

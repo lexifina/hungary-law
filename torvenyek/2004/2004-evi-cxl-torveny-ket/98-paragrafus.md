@@ -16,7 +16,7 @@ b) a kérelmet érdemi vizsgálat nélkül elutasító,
 
 c) az eljárást megszüntető,
 
-d) az eljárás felfüggesztése tárgyában hozott,
+d) az eljárás felfüggesztését kimondó vagy a felfüggesztésre irányuló kérelmet elutasító
 
 e) a 33/A. §-ban meghatározott fizetési kötelezettséggel kapcsolatos,
 

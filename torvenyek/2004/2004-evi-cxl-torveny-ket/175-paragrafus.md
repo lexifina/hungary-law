@@ -42,7 +42,7 @@ d) a szabályozott elektronikus ügyintézési szolgáltatások részletes köve
 
 e) a szabályozott elektronikus ügyintézési szolgáltató által teljesítendő személyi és pénzügyi feltételeket,
 
-f)
+f) az elektronikus ügyintézési szolgáltató regisztrációjának részletes szabályait,
 
 g) az elektronikus fizetésekre és elszámolásokra vonatkozó részletes szabályokat.
 

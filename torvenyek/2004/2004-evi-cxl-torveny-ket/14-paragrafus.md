@@ -16,7 +16,7 @@ a)–h)
 
 a) a hiánypótlásra,
 
-b) a kézbesítésre,
+b) a közlésre,
 
 c) az ügyfél tájékoztatására,
 

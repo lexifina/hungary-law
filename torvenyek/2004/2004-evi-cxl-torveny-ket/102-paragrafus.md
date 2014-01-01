@@ -22,4 +22,4 @@ d) a 98. § (1a) bekezdése megsértésével benyújtott fellebbezést.
 
 (6) Ha az ügyfél a fellebbezési határidő elmulasztása miatt igazolási kérelmet nyújtott be, a határidő az ennek helyt adó döntés jogerőssé válását követően kezdődik. Ha az ügyfél költségmentesség iránti kérelmet nyújtott be, a határidő a döntés jogerőssé válását követően kezdődik. Ha a fellebbezést a fellebbezés elbírálására jogosult hatóságnál nyújtották be, a felterjesztésre nyitva álló határidő a fellebbezésnek az első fokú döntést hozó hatósághoz érkezésével kezdődik.
 
-(7) Az első fokú döntést hozó hatóság az ügyfél erre irányuló kérelme esetén a fellebbezés és az iratok felterjesztését követően tájékoztatja a nem fellebbező ügyfelet arról, hogy a döntés fellebbezés benyújtása folytán nem vált jogerőssé.
+(7) Az elsőfokú döntést hozó hatóság a fellebbezés és az iratok felterjesztését követően tájékoztatja a nem fellebbező ügyfelet arról, hogy a döntés fellebbezés benyújtása folytán nem vált jogerőssé. Ha a fellebbezést valamennyi fellebbező ügyfél visszavonta, a hatóság erről tájékoztatja a nem fellebbező ügyfelet.

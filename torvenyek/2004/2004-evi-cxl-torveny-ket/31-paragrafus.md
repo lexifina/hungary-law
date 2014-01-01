@@ -20,7 +20,9 @@ h) a hatósági eljárásért illetéket vagy igazgatási szolgáltatási díjat
 
 i) hivatalbóli eljárásban a tényállás a határozat meghozatalához szükséges mértékben nem volt tisztázható, és további eljárási cselekménytől sem várható eredmény,
 
-j) a hivatalbóli eljárás jogsértést nem tárt fel.
+j) a hivatalbóli eljárás jogsértést nem tárt fel,
+
+k) hivatalbóli eljárás folyamán észleli, hogy az eljárás lefolytatására már az eljárás megindításakor sem volt joghatósága vagy hatásköre, és áttételnek nincs helye.
 
 (2) A hatóság az eljárást megszüntetheti, ha az ügyfél a kérelmére indult eljárásban a hiánypótlásra való felhívásnak nem tett eleget, és az erre megállapított határidő meghosszabbítását sem kérte, illetve nyilatkozattételének elmaradása megakadályozta a tényállás tisztázását.
 

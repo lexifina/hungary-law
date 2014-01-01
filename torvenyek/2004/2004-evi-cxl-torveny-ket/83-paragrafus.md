@@ -1,6 +1,6 @@
 ## Hatósági bizonyítvány
 
-83. § (1) Az ügyfél kérelmére a hatóság tény, állapot vagy egyéb adat igazolására hatósági bizonyítványt ad ki.
+83. § (1) A hatóság a jogszabályban meghatározott esetekben, valamint az egyébként hatáskörébe tartozó eljáráshoz kapcsolódóan az ügyfél kérelmére tény, állapot vagy egyéb adat igazolására hatósági bizonyítványt ad ki. E törvény hatósági bizonyítványra vonatkozó szabályait kell alkalmazni a hatóság által kiadott minden olyan okiratra, amelyet jogszabály nem hatósági bizonyítványként nevesít, de a hatósági bizonyítvány e törvényben meghatározott feltételeinek megfelel.
 
 (2) A hatósági bizonyítvány kiadására a 21. §-ban meghatározott hatóságok, továbbá az a hatóság is illetékes, amelynek
 

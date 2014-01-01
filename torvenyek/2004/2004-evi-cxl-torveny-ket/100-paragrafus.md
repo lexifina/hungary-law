@@ -12,7 +12,7 @@ e) törvény vagy kormányrendelet eltérő rendelkezése hiányában, ha az els
 
 f) a képviselő-testület önkormányzati hatósági ügyben hozott határozata ellen,
 
-g) a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 51. § (4) bekezdésében meghatározott közigazgatási bírság kiszabásával kapcsolatos eljárásokban az átruházott hatáskörben hozott határozatok ellen,
+g) a helyi önkormányzat képviselő-testületének rendeletében foglaltak szerint kiszabható közigazgatási bírság kiszabásával kapcsolatos eljárásokban az átruházott hatáskörben hozott határozatok ellen,
 
 h) a 98. § (1a) bekezdése alapján benyújtott fellebbezés érdemi vizsgálat nélküli elutasítása esetén.
 
