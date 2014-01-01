@@ -34,7 +34,7 @@
 
 | Útügy | Fővárosi kerületi önkormányzat tulajdonában lévő helyi közutak esetén: fővárosi kormányhivatal V. kerületi hivatala | Budapest Főváros Kormányhivatala Közlekedési Felügyelősége |
 
-| Fővárosi Önkormányzat tulajdonában lévő helyi közutak esetén: Budapest Főváros Kormányhivatala Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központja |
+|  | Fővárosi Önkormányzat tulajdonában lévő helyi közutak esetén: Budapest Főváros Kormányhivatala Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
 | Bányászat | Budapesti Bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
@@ -42,7 +42,9 @@
 
 | Építésügy | Budapest Főváros Kormányhivatala V. Kerületi Hivatalának Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
-| Környezetvédelem, természetvédelem, vízügy | Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| Környezetvédelem, természetvédelem | Közép-Duna-völgyi Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+
+| Vízügy | Közép-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
 2. Metróállomások építésügyi hatósági engedélyei
 
@@ -64,7 +66,7 @@
 
 | Útügy | Fővárosi kerületi önkormányzat tulajdonában lévő helyi közutak esetén: fővárosi kormányhivatal V. kerületi hivatala | Budapest Főváros Kormányhivatala Közlekedési Felügyelősége |
 
-| Fővárosi Önkormányzat tulajdonában lévő helyi közutak esetén: Budapest Főváros Kormányhivatala Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központja |
+|  | Fővárosi Önkormányzat tulajdonában lévő helyi közutak esetén: Budapest Főváros Kormányhivatala Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
 | Földtan | Budapesti Bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
@@ -72,7 +74,9 @@
 
 | Műszaki biztonság | Budapest Főváros Kormányhivatala Mérésügyi és Műszaki Biztonsági Hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
-| Környezetvédelem, természetvédelem és vízügy | Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| Környezetvédelem, természetvédelem | Közép-Duna-völgyi Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+
+| Vízügy | Közép-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
 3. Felszín feletti építmények általános építésügyi hatósági engedélyei
 
@@ -86,9 +90,9 @@
 
 | Egészségügy | Budapest Főváros Kormányhivatala Népegészségügyi Szakigazgatási Szerve | Országos Tisztifőorvosi Hivatal |
 
-| Környezetvédelem, természetvédelem, vízügy | Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| Környezetvédelem, természetvédelem | Közép-Duna-völgyi Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
-| Vízgazdálkodás | Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| Vízügy, vízgazdálkodás | Közép-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
 | Földvédelem | Budapest Főváros Kormányhivatala földhivatala | a földügyért felelős miniszter |
 
@@ -96,13 +100,13 @@
 
 | Honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | a honvédelemért felelős miniszter |
 
-| Útügy | Fővárosi kerületi önkormányzat tulajdonában lévő helyi közutak esetén: fővárosi kormányhivatal V. kerületi hivatala | Budapest Főváros Kormányhivatala Közlekedési Felügyelősége |
+| Útügy | Fővárosi kerületi önkormányzat tulajdonában lévő helyi közutak esetén: Budapest Főváros Kormányhivatala V. Kerületi Hivatala | Budapest Főváros Kormányhivatala Közlekedési Felügyelősége |
 
-| Fővárosi Önkormányzat tulajdonában lévő helyi közutak esetén: Budapest Főváros Kormányhivatala Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központja |
+|  | Fővárosi Önkormányzat tulajdonában lévő helyi közutak esetén: Budapest Főváros Kormányhivatala Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
 | Vasúthatósági ügyek | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
 
-| Hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
+|  | Hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
 | Műszaki biztonság | Budapest Főváros Kormányhivatala Mérésügyi és Műszaki Biztonsági Hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
@@ -130,4 +134,4 @@
 
 | Vasúti ügyek | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
 
-[^8]: A 2. számú melléklet a 111/2011. (VII. 4.) Korm. rendelet 8. § (2) bekezdésével megállapított, a 282/2011. (XII. 21.) Korm. rendelet 20. §-a, a 23/2012. (II. 29.) Korm. rendelet 24. §-a, a 296/2012. (X. 17.) Korm. rendelet 28. §-a, a 394/2012. (XII. 20.) Korm. rendelet 20. §-a, az 51/2013. (II. 25.) Korm. rendelet 13. §-a szerint módosított szöveg.
+[^8]: A 2. számú melléklet az 527/2013. (XII. 30.) Korm. rendelet 48. §-ával megállapított szöveg.
