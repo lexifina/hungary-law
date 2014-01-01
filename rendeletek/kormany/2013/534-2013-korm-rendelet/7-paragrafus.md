@@ -1,1 +1,0 @@
-## 6. § E rendelet tervezetének a csomagolásról és a csomagolási hulladékról szóló, 1994. december 20-i 94/62/EK európai parlamenti és tanácsi irányelv 16. cikk (1) és (2) bekezdése szerinti bejelentése megtörtént.
