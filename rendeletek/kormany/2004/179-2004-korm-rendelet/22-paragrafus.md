@@ -12,8 +12,8 @@
 
 (3) A (2) bekezdésben említett FEFK-számlák Schengen Alap támogatással kapcsolatos pénzügyi műveleteket alátámasztó valamennyi számlakivonatát, számlaforgalmi kimutatását a fejezet köteles a KPSZE rendelkezésére bocsátani.
 
-(4)[^62] Az (1) és (2) bekezdésben említett pénzforgalmi számlák vezetésével kapcsolatos forgalmi jutalék elszámolása közvetlenül a Központi költségvetés terhére történik a Pénzügyminisztérium fejezet, Egyéb költségvetési kiadások cím, Vegyes kiadások alcím terhére.
+(4)[^62] Az (1) és (2) bekezdésben említett pénzforgalmi számlák vezetésével kapcsolatos forgalmi jutalék elszámolása közvetlenül a központi költségvetés terhére.
 
 [^60]: A 21. § a 143/2006. (VI. 29.) Korm. rendelet 23. § b) pontja szerint módosított szöveg.
 [^61]: A 22. § (1) bekezdése a 314/2009. (XII. 28.) Korm. rendelet 26. §-a szerint módosított szöveg.
-[^62]: A 22. § (4) bekezdése a 314/2009. (XII. 28.) Korm. rendelet 26. §-a szerint módosított szöveg.
+[^62]: A 22. § (4) bekezdése a 314/2009. (XII. 28.) Korm. rendelet 26. §-a, az 550/2013. (XII. 30.) Korm. rendelet 6. § d) pontja szerint módosított szöveg.

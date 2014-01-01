@@ -6,7 +6,7 @@
 
 1. Schengen Alap támogatás: olyan támogatási eszköz, amely a 2004. május 1-jén az Európai Unióhoz csatlakozó új tagállamok beilleszkedését segíti elő a schengeni vívmányok alkalmazására történő felkészülésben, különös tekintettel a külső határok ellenőrzésére;
 
-2.[^2] Felelős Hatóság: feladatait a Nemzeti Fejlesztési Ügynökség (a továbbiakban: NFÜ) látja el, amely felelős a Schengen Alap támogatásból finanszírozott fejlesztési feladatok teljes körű megvalósításáért;
+2.[^2] Felelős Hatóság: feladatait a Széchenyi Programiroda Nonprofit Kft. (a továbbiakba: SZPI) látja el, amely felelős a Schengen Alap támogatásból finanszírozott fejlesztési feladatok teljes körű megvalósításáért;
 
 3.[^3] Központi Pénzügyi és Szerződéskötő Egység (a továbbiakban: KPSZE): a Schengen Alap támogatásból finanszírozott fejlesztési feladatok pénzügyi és adminisztratív lebonyolítására kijelölt szervezeti egység, amely a Szakmai Közreműködő Szervezetekkel (a továbbiakban: SzKSz) együttműködve ellátja a támogatások felhasználásával összefüggő közbeszerzési eljárások lebonyolítását, továbbá a szerződéskötési, nyilvántartási és egyéb pénzügyi adminisztrációs feladatokat;
 
@@ -40,7 +40,7 @@
 
 18.[^16] belső képzés: az Indikatív Programban rögzített, a rendészeti állományba tartozó személyek rendészeti saját tanintézetekben folytatott képzését célzó, nem a KPSZE lebonyolítói feladatkörébe tartozó fejlesztési feladat;
 
-19.[^17] tervezési körirat: a költségvetési törvényjavaslat (a központi költségvetés, az elkülönített állami pénzalapok és a társadalombiztosítás pénzügyi alapjai) Kormány, illetve Országgyűlés elé terjesztési kötelezettségének teljesítése érdekében a Pénzügyminisztérium (a továbbiakban: PM) által kiadott, a meghatározott év(ek) költségvetési tervezési feladatait, a költségvetési javaslat kidolgozásának és összeállításának szempontjait tartalmazó összefoglaló tájékoztató;
+19.[^17] tervezési körirat: a költségvetési törvényjavaslat (a központi költségvetés, az elkülönített állami pénzalapok és a társadalombiztosítás pénzügyi alapjai) Kormány, illetve Országgyűlés elé terjesztési kötelezettségének teljesítése érdekében az államháztartásért felelős miniszter által kiadott, a meghatározott év(ek) költségvetési tervezési feladatait, a költségvetési javaslat kidolgozásának és összeállításának szempontjait tartalmazó összefoglaló tájékoztató;
 
 20.[^18] Kincstár által működtetett monitoring rendszer: az államháztartás pénzügyi információs rendszerébe illeszkedő, a Magyar Államkincstárban (a továbbiakban: Kincstár) működő integrált nyilvántartási rendszer;
 
@@ -56,7 +56,7 @@
 
 26.[^24] Közbeszerzés: „közbeszerzés” és „közbeszerzési eljárás” alatt e rendelet alkalmazásában a közbeszerzésekről szóló 2003. évi CXXIX. törvény felhatalmazása alapján alkotott egyéb közbeszerzési és beszerzési eljárások is értelemszerűen értendőek.
 
-[^2]: A 2. § 2. pontja a 143/2006. (VI. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^2]: A 2. § 2. pontja a 143/2006. (VI. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított, az 550/2013. (XII. 30.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
 [^3]: A 2. § 3. pontja a 143/2006. (VI. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^4]: A 2. § 4. pontja a 273/2010. (XII. 9.) Korm. rendelet 103. § (1) bekezdésével megállapított szöveg.
 [^5]: A 2. § 5. pontját a 171/2010. (V. 13.) Korm. rendelet 1. § 6. pontja hatályon kívül helyezte.
@@ -71,7 +71,7 @@
 [^14]: A 2. § 16. pontja a 143/2006. (VI. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^15]: A 2. § 17. pontja a 143/2006. (VI. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított, valamint a 331/2007. (XII. 13.) Korm. rendelet 1. § 56. pontja szerint módosított szöveg.
 [^16]: A 2. § 18. pontja a 143/2006. (VI. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^17]: A 2. § 19. pontja a 143/2006. (VI. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^17]: A 2. § 19. pontja a 143/2006. (VI. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított, az 550/2013. (XII. 30.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
 [^18]: A 2. § 20. pontja a 143/2006. (VI. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 401/2007. (XII. 27.) Korm. rendelet 62. § (9) bekezdésének c) pontja szerint módosított szöveg.
 [^19]: A 2. § 21. pontja a 143/2006. (VI. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 304/2011. (XII. 23.) Korm. rendelet 18. §-a szerint módosított szöveg.
 [^20]: A 2. § 22. pontját a 143/2006. (VI. 29.) Korm. rendelet 1. § (2) bekezdése iktatta be.
