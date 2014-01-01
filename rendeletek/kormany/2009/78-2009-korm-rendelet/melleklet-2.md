@@ -1,30 +1,36 @@
-## A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyek és eljárások
-
-## lefolytatására hatáskörrel rendelkező hatóságok
+## A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyek és eljárások lefolytatására hatáskörrel rendelkező hatóságok
 
 |  | Projektelem, létesítmény | A létesítmény azonosító adatai | A beruházás megvalósításával kapcsolatos engedélyek | Első fokon eljáró hatóság | Másodfokon eljáró hatóság |
 
 | 1. A Dél-pesti szennyvíztisztító telep tisztított szennyvizének nagy-dunai átvezetése projektelem |
 
-| 1.1. | átemelő | Budapest XXIII. kerület, a szennyvíztelep kerítése és a Felső Duna part közötti részen | vízügyi hatósági engedély, környezetvédelmi engedély | Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 1.1. | átemelő | Budapest XXIII. kerület, a szennyvíztelep kerítése és a Felső Duna part közötti részen | vízügyi hatósági engedély | Közép-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
-| 1.2. | meder alatti átvezetés és csatornaépítés | Budapest XXIII–XXI. kerületek | vízügyi hatósági engedély, környezetvédelmi engedély | Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| környezetvédelmi engedély | Közép-Duna-völgyi Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+
+| 1.2. | meder alatti átvezetés és csatornaépítés | Budapest XXIII-XXI. kerületek | vízügyi hatósági engedély | Közép-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
+
+| környezetvédelmi engedély | Közép-Duna-völgyi Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
 | 2. Műtárgy-rekonstrukció projektelem |
 
-| 2.1. | többfunkciójú vízleeresztő műtárgy | Tass | vízügyi hatósági engedély, környezetvédelmi engedély | Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 2.1. | többfunkciójú vízleeresztő műtárgy | Tass | vízügyi hatósági engedély | Közép-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
-| 2.2. | többfunkciójú vízleeresztő műtárgy | Kvassay zsilip, Budapest IX. és XXI. kerületek | vízügyi hatósági engedély, környezetvédelmi engedély | Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| környezetvédelmi engedély | Közép-Duna-völgyi Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+
+| 2.2. | többfunkciójú vízleeresztő műtárgy | Kvassay zsilip, Budapest IX. és XXI. kerületek | vízügyi hatósági engedély | Közép-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
+
+| környezetvédelmi engedély | Közép-Duna-völgyi Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
 | 3. Szennyező anyagok kivezetése a parti sávból projektelem |
 
-| 3.1. | szennyvízcsatorna- hálózat bővítés az RSD-t terhelő, a parti sávban keletkező szennyező anyagok kivezetése érdekében | RSD menti parti sáv 14 település: Áporka, Dömsöd, Dunaharaszti, Kiskunlacháza, Majosháza, Makád, Ráckeve, Szigetbecse, Szigetcsép, Szigetszentmárton, Szigetszentmiklós, Taksony, Tass, Budapest XXIII. kerület | vízügyi hatósági engedély | Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 3.1. | szennyvízcsatorna- hálózat bővítés az RSD-t terhelő, a parti sávban keletkező szennyező anyagok kivezetése érdekében | RSD menti parti sáv 14 település: Áporka, Dömsöd, Dunaharaszti, Kiskunlacháza, Majosháza, Makád, Ráckeve, Szigetbecse, Szigetcsép, Szigetszentmárton, Szigetszentmiklós, Taksony, Tass, Budapest XXIII. kerület | vízügyi hatósági engedély | Közép-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
 | 4. Kotrás- és iszapelhelyezés projektelem |
 
-| 4.1. | mederkotrás és iszapszikkasztó zagykazetták | RSD főág teljes hosszán, illetve a mellékágakon, kijelölt területenként | vízügyi hatósági engedély, környezetvédelmi engedély | Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 4.1. | mederkotrás és iszapszikkasztó zagykazetták | RSD főág teljes hosszán, illetve a mellékágakon, kijelölt területenként | vízügyi hatósági engedély | Közép-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
-| építésügyi hatósági engedély | Budapest Főváros Közigazgatási Hivatala | építésügyért felelős miniszter |
+| környezetvédelmi engedély | Közép-Duna-völgyi Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
 | 5. Vízimunka, közlekedési korlátozás, rakodási tevékenység |
 
