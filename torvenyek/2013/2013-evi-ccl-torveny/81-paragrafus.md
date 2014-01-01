@@ -1,5 +1,0 @@
-81. § A Tfvt. 14/E. §-a helyébe a következő rendelkezés lép:
-
-„14/E. § (1) A 14/D. § (4) bekezdés a) pontja szerinti esetben a tulajdonos részére – az e törvény felhatalmazása alapján kiadott kormányrendelet szabályai szerint – meg kell téríteni a havária elhárítása során a termőföldben a 14/D. § szerinti okozott kárt, továbbá a termőföld eredeti állapotának helyreállításával, illetve az újrahasznosításával kapcsolatosan felmerült igazolt költségeket.
-
-(2) A kár és az igazolt költségek megtérítésével kapcsolatos eljárást a mezőgazdasági és vidékfejlesztési támogatási szerv a tulajdonos kérelmére az e törvény végrehajtására kiadott rendeletben meghatározottak szerint folytatja le. A kárt és az igazolt költségeket a központi költségvetésbe befizetett földvédelmi járulékok terhére kell megtéríteni.”

@@ -2,10 +2,8 @@
 
 a)
 
-b) 18. § (10) bekezdése,
+b)
 
 c)
 
-d) 38. § (3) bekezdés c) pontja,
-
-e) 38. § (6) bekezdése.
+d)–e)

@@ -1,5 +1,3 @@
 ## 18. A termőföld védelméről szóló 2007. évi CXXIX. törvény módosítása
 
-75. § A termőföld védelméről szóló 2007. évi CXXIX. törvény (a továbbiakban: Tfvt.) a következő 1/B. §-sal egészül ki:
-
-„1/B. § Ha e törvény hatálya alá tartozó eljárásokban közreműködő hatóság vesz részt, a közreműködő hatóság a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 38/A. § (3) bekezdésében meghatározott eljárási cselekmények foganatosítására, illetve döntés meghozatalára nem jogosult.”
+75–81. §

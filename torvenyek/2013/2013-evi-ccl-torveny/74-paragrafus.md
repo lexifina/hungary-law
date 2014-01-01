@@ -1,1 +1,0 @@
-74. § Hatályát veszti a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény 73/A. § (6) bekezdése.
