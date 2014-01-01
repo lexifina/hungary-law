@@ -14,7 +14,7 @@ b) a megyei könyvtár szolgáltatásainak igénybevételével teljesíti.
 
 (4) A fővárosban az (1) bekezdésben meghatározott feladatot Budapest Főváros Önkormányzata a kerületek könyvtári ellátását is biztosító nyilvános könyvtár fenntartásával teljesíti.
 
-(5) A megyei könyvtár és a Budapest Főváros Önkormányzata által fenntartott könyvtár nyilvános könyvtár, amely gazdálkodási besorolása szerint önállóan működő és gazdálkodó költségvetési szerv.
+(5) A megyei könyvtár és a Budapest Főváros Önkormányzata által fenntartott könyvtár költségvetési szervként működő nyilvános könyvtár.
 
 (6) A megyeszékhely megyei jogú város – Pest megyében Szentendre Város Önkormányzata – az (1) bekezdésben foglalt feladatait megyei könyvtár fenntartásával biztosítja.
 

@@ -4,7 +4,7 @@
 
 61. § (1) A nemzeti könyvtár az Országos Széchényi Könyvtár. A fenntartói jogokat és kötelezettségeket a miniszter gyakorolja.
 
-(2) A nemzeti könyvtár önállóan működő és gazdálkodó központi költségvetési szerv.
+(2) A nemzeti könyvtár központi költségvetési szerv.
 
 (3) A nemzeti könyvtár gyűjteménye a kulturális örökség része, ezért használatára a miniszter a nyilvános könyvtárakra vonatkozó szabályoktól eltérő rendelkezéseket állapíthat meg.
 

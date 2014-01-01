@@ -34,7 +34,7 @@ m) az állami vagy helyi önkormányzati fenntartású közgyűjteményekben őr
 
 a) a közművelődési intézmények és szervezetek, a könyvtárak és könyvtári tevékenységet folytató szervezetek, a muzeális intézmények és a levéltárak minősítési eljárását, a szakmai minősítő testület létrehozását és működését, a minősítési eljárásban szakértőként való közreműködés feltételeit, a minősítési eljárás során kiadható minősítést és a minőségi díjat, a minősítési eljárásért fizetendő díjra vonatkozó szabályokat és a befolyt összeg felhasználásának szabályait,
 
-b) az önállóan működő és gazdálkodó közgyűjtemény éves munkatervéhez szükséges, gyűjteményfejlesztéssel, gyűjteményfeltárással, kutatással, műtárgyvédelemmel, szolgáltatással, bemutatással kapcsolatos kiemelt szakmai mutatókat,
+b) a közgyűjtemények éves munkatervéhez szükséges, gyűjteményfejlesztéssel, gyűjteményfeltárással, kutatással, műtárgyvédelemmel, szolgáltatással, bemutatással kapcsolatos kiemelt szakmai mutatókat,
 
 c) a közművelődési intézmények működésének szakmai, személyi és infrastrukturális feltételeit,
 
