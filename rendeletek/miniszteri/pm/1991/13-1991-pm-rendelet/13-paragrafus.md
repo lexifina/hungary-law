@@ -1,4 +1,4 @@
-## Az adó, a gépjárműadó, a luxusadó, a jövedelemadó, a talajterhelési díj, a közigazgatási hatósági eljárási illeték és az adók módjára behajtandó köztartozások számítógépes adatfeldolgozásának rendje, a közterhek számítógépes nyilvántartására kifejlesztett programrendszerek használatára irányuló engedélyezés[^52]
+## Az adó, a gépjárműadó, a jövedelemadó, a talajterhelési díj, a közigazgatási hatósági eljárási illeték és az adók módjára behajtandó köztartozások számítógépes adatfeldolgozásának rendje, a közterhek számítógépes nyilvántartására kifejlesztett programrendszerek használatára irányuló engedélyezés[^52]
 
 13. §[^53] (1) Az adópolitikáért felelős miniszter az önkormányzati adóhatóság hatáskörébe tartozó közterhek számítógépes nyilvántartására szolgáló következő programrendszerek használatára irányuló engedélyek kiadása tárgyában dönt:
 
@@ -50,5 +50,5 @@ d) a díj megfizetését igazoló banki átutalási bizonylatot is.
 
 (14) Ha a jóváhagyott programrendszer használatára vonatkozó – határozatban rögzített – határidő letelik, a programrendszer jóváhagyását új eljárásban kell kezdeményezni.
 
-[^52]: A 13. §-t megelőző alcímet a 29/2009. (XII. 4.) PM rendelet 4. §-a iktatta be.
+[^52]: A 13. §-t megelőző alcímet a 29/2009. (XII. 4.) PM rendelet 4. §-a iktatta be, szövege a 77/2013. (XII. 31.) NGM rendelet 2. § c) pontja szerint módosított szöveg.
 [^53]: A 13. §-t a 29/2009. (XII. 4.) PM rendelet 4. §-a iktatta be.

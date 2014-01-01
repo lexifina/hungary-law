@@ -4,19 +4,19 @@
 
 a) az adózó, a talajterhelési díj fizetésére kötelezett (a továbbiakban együtt: adózó) azonosító adatait (nem vállalkozó magánszemélyeknél családi és utónév, nők esetében leánykori családi és utónév is, születési hely és idő, lakcím, adóazonosító jel; vállalkozóknál név, székhely, telephely, adószám és statisztikai számjel),
 
-b)[^12] az adó, a gépjárműadó, a jövedelemadó, a talajterhelési díj, a luxusadó adatait (a kivetett vagy a bevallott adók és az adóelőleg összegét, a bevallott talajterhelési díj összegét, valamint az ezek összegének megállapításához szükséges alapadatokat).
+b)[^12] az adó, a gépjárműadó, a jövedelemadó, a talajterhelési díj adatait (a kivetett vagy a bevallott adók és az adóelőleg összegét, a bevallott talajterhelési díj összegét, valamint az ezek összegének megállapításához szükséges alapadatokat).
 
 (2) Az adó (adótartozás) megállapításához szükséges nem állandó (változó) jellegű adatok nyilvántartása [2. § (2) bek. b) pontja] tartalmazza:
 
 a) az évközi adóváltozási tételeket (pótelőírást, törlést stb.), tételenként az adózó azonosító adatát, az adó nemét, a változás forint összegét, azt a megnevezést vagy jelölést, amely egyértelműen meghatározza a változás könyvelési tétel jellegét,
 
-b)[^13] az építményadó, a telekadó, a magánszemély kommunális adója, a vállalkozók kommunális adója, a tartózkodási idő utáni idegenforgalmi adó, az építmény utáni idegenforgalmi adó, az iparűzési adó, a jövedelemadó, a gépjárműadó, a talajterhelési díj, a luxusadó, az államigazgatási eljárási illeték, a pótlék és a bírság beszedési számlán jóváírt, de véglegesen el nem számolható befizetések (átfutó bevételek) adatait, a befizető nevét, a befizetett összeget, a befizetés dátumát és az átfutó tétel rendezése érdekében szükséges adatokat.
+b)[^13] az építményadó, a telekadó, a magánszemély kommunális adója, a vállalkozók kommunális adója, a tartózkodási idő utáni idegenforgalmi adó, az építmény utáni idegenforgalmi adó, az iparűzési adó, a jövedelemadó, a gépjárműadó, a talajterhelési díj, az államigazgatási eljárási illeték, a pótlék és a bírság beszedési számlán jóváírt, de véglegesen el nem számolható befizetések (átfutó bevételek) adatait, a befizető nevét, a befizetett összeget, a befizetés dátumát és az átfutó tétel rendezése érdekében szükséges adatokat.
 
 (3)[^14] Az adózó adószámlája [2. § (2) bek. c) pontja] tartalmazza:
 
 a) az (1) bekezdés a) pontjában szereplő adatokat,
 
-b)[^15] az (1) bekezdés b) pontjában feltüntetett adóazonosító adatokat, a kivetett vagy a bevallott adó, gépjárműadó, jövedelemadó, luxusadó, talajterhelési díj, a fizetendő államigazgatási eljárási illeték összegét, a bevallott adó és az előírt adóelőleg különbözetét, valamint a befizetések összegét,
+b)[^15] az (1) bekezdés b) pontjában feltüntetett adóazonosító adatokat, a kivetett vagy a bevallott adó, gépjárműadó, jövedelemadó, talajterhelési díj, a fizetendő államigazgatási eljárási illeték összegét, a bevallott adó és az előírt adóelőleg különbözetét, valamint a befizetések összegét,
 
 c) a (2) bekezdés a) pontjában meghatározott adatokat,
 
@@ -95,10 +95,10 @@ i) a levonás, átutalás, megfizetés elmulasztásának tényét.
 (9)[^22] A (3) bekezdésben felsorolt adatokat az elszámolás (számfejtés) elvégzéséhez szükséges részletezésben kell nyilvántartani, elkölönítve a saját, illetve az idegen tartozásokat, befizetéseket, változásokat.
 
 [^11]: A 3. § (1) bekezdése a 42/2003. (XII. 29.) PM rendelet 3. §-ának (1) bekezdésével megállapított szöveg.
-[^12]: A 3. § (1) bekezdésének b) pontja a 42/2005. (XII. 22.) PM rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^13]: A 3. § (2) bekezdésének b) pontja a 42/2005. (XII. 22.) PM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^12]: A 3. § (1) bekezdésének b) pontja a 42/2005. (XII. 22.) PM rendelet 3. § (1) bekezdésével megállapított, a 77/2013. (XII. 31.) NGM rendelet 2. § c) pontja szerint módosított szöveg.
+[^13]: A 3. § (2) bekezdésének b) pontja a 42/2005. (XII. 22.) PM rendelet 3. § (2) bekezdésével megállapított, a 77/2013. (XII. 31.) NGM rendelet 2. § c) pontja szerint módosított szöveg.
 [^14]: A 3. § (3) bekezdésének bevezető mondata az 54/2004. (XII. 29.) PM rendelet 3. §-ának (2) bekezdésével megállapított szöveg.
-[^15]: A 3. § (3) bekezdésének b) pontja a 42/2005. (XII. 22.) PM rendelet 3. § (3) bekezdésével megállapított szöveg.
+[^15]: A 3. § (3) bekezdésének b) pontja a 42/2005. (XII. 22.) PM rendelet 3. § (3) bekezdésével megállapított, a 77/2013. (XII. 31.) NGM rendelet 2. § d) pontja szerint módosított szöveg.
 [^16]: A 3. § új (4) bekezdését a 10/1995. (V. 4.) PM rendelet 2. §-a iktatta be, egyidejűleg az eredeti (4) bekezdésének számozását (5) bekezdésre változtatta. A 3. § (4) bekezdésének felvezető szövege a 29/1996. (XII. 17.) PM rendelet 3. §-ával megállapított, a 41/2006. (XII. 25.) PM rendelet 3. § (3) bekezdése szerint módosított szöveg.
 [^17]: A 3. § (4) bekezdésének a) pontja az 50/2001. (XII. 20.) PM rendelet 1. §-ának (2) bekezdésével megállapított szöveg.
 [^18]: A 3. § új (5) bekezdését a 42/2003. (XII. 29.) PM rendelet 3. §-ának (4) bekezdése iktatta a szövegbe, egyidejűleg az eredeti (5) bekezdés számozását (8) bekezdésre változtatta.

@@ -10,7 +10,7 @@
 
 (4) Az önkormányzatot megillető adók módjára behajtandó köztartozások befizetése az egyéb bevételek elszámolási számlára történik.
 
-(5)[^36] A luxusadót a luxusadó beszedési számlára kell befizetni.
+(5)[^36]
 
 (6)[^37] Más szerv által kimutatott adók módjára behajtandó köztartozások befizetése az idegen bevételek elszámolási számlára történik.
 
@@ -18,6 +18,6 @@
 
 [^34]: A 4/C. §-t az 52/2002. (XII. 29.) PM rendelet 2. §-a iktatta be, hatályon kívül helyezte a 42/2003. (XII. 29.) PM rendelet 8. §-ának (2) bekezdése, újonnan a 44/2007. (XII. 29.) PM rendelet 4. §-a iktatta be.
 [^35]: Az 5. § a 42/2003. (XII. 29.) PM rendelet 4. §-ával megállapított szöveg.
-[^36]: Az 5. § új (5) bekezdését a 42/2005. (XII. 22.) PM rendelet 4. §-a iktatta be, egyidejűleg az eredeti (5)–(6) bekezdésének számozását (6)–(7) bekezdésre változtatta.
+[^36]: Az 5. § új (5) bekezdését a 42/2005. (XII. 22.) PM rendelet 4. §-a iktatta be, egyidejűleg az eredeti (5)–(6) bekezdésének számozását (6)–(7) bekezdésre változtatta. Az 5. § (5) bekezdését a 77/2013. (XII. 31.) NGM rendelet 2. § e) pontja hatályon kívül helyezte.
 [^37]: Az 5. § eredeti (5) bekezdésének számozását (6) bekezdésre változtatta a 42/2005. (XII. 22.) PM rendelet 4. §-a.
 [^38]: Az 5. § (6) bekezdését az 54/2004. (XII. 29.) PM rendelet 6. §-a iktatta be, számozását (7) bekezdésre változtatta a 42/2005. (XII. 22.) PM rendelet 4. §-a.

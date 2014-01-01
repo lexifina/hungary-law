@@ -56,4 +56,4 @@
 
 10/a. számú melléklet a 13/1991. (V. 21.) PM rendelethez[^80]
 
-[^80]: Az új 10/a. számú mellékletet a 41/2006. (XII. 25.) PM rendelet 3. § (4) bekezdése iktatta be, egyidejűleg az eredeti 10/a. számú melléklet számozását 10/b. számú mellékletre változtatta, szövege a 44/2007. (XII. 29.) PM rendelet 6. § (4) bekezdésének h) pontjával megállapított szöveg.
+[^80]: Az új 10/a. számú mellékletet a 41/2006. (XII. 25.) PM rendelet 3. § (4) bekezdése iktatta be, egyidejűleg az eredeti 10/a. számú melléklet számozását 10/b. számú mellékletre változtatta, szövege a 77/2013. (XII. 31.) NGM rendelet 1. § (5) bekezdésével megállapított szöveg.

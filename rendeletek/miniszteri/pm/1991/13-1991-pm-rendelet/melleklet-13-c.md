@@ -144,4 +144,4 @@
 
 13/c. számú melléklet a 13/1991. (V. 21.) PM rendelethez[^87]
 
-[^87]: A 13/c. számú mellékletet az 52/2002. (XII. 29.) PM rendelet 4. § (2) bekezdésének k) pontja iktatta be, a melléklet a 42/2003. (XII. 29.) PM rendelet 8. §-ának (3) bekezdésével megállapított szöveg.
+[^87]: A 13/c. számú mellékletet az 52/2002. (XII. 29.) PM rendelet 4. § (2) bekezdésének k) pontja iktatta be, szövege a 77/2013. (XII. 31.) NGM rendelet 1. § (7) bekezdésével megállapított szöveg.

@@ -2,7 +2,7 @@
 
 ## Zárási összesítő I.
 
-## (az adó, a gépjárműadó, a luxusadó, a jövedelemadó, a talajterhelési díj, az egyéb bevételek, a pótlék és a bírság számlán szereplő adatok összesítéséhez)
+## (az adó, a gépjárműadó, a jövedelemadó, a talajterhelési díj, az egyéb bevételek, a pótlék és a bírság számlán szereplő adatok összesítéséhez)
 
 ## ( év hó nap)
 
@@ -62,17 +62,17 @@
 
 | 13 Gépjármüadó |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 15 Építményadó |  |  |  |  |  | ZÁRÁSI ÖSSZESÍTŐ III. |  |  |
+| 14 Utalás a Magyar Államkincstárhoz (gépjárműadó) |  |  |  |  |  | ZÁRÁSI ÖSSZESÍTŐ III. |  |  |
 
-| 16 Telekadó |  |  |  |  |  | (gépjárműadó zárási összesítőhöz) |  |  |
+| 15 Építményadó |  |  |  |  |  | (gépjárműadó zárási összesítőhöz) |  |  |
 
-| 17 Magánszemélyek kommunális adója |  |  |  |  |  |  |  |  |  |  | Ft-ban |  |
+| 16 Telekadó |  |  |  |  |  |  |  |  |  |  | Ft-ban |  |
 
-| 18 Vállalkozók kommunális adója |  |  |  |  |  | Adózók száma | Adótárgyak száma | Gjt. 8. § (2)-(4) bek. alapján adott kedvezmény (10. oszlopból) |  |
+| 17 Magánszemélyek kommunális adója |  |  |  |  |  | Adózók száma | Adótárgyak száma | Gjt. 8. § (2)-(4) bek. alapján adott kedvezmény (10. oszlopból) |  |
 
-| 19 Iparűzési adó |  |  |  |  |  |  |
+| 18 Vállalkozók kommunális adója |  |  |  |  |  |  |
 
-| 20 Luxusadó |  |  |  |  |  | 1. | 2. | 3. |  |
+| 19 Iparűzési adó |  |  |  |  |  | 1. | 2. | 3. |  |
 
 | 21 Egyéb utalás |  |  |  |  |  |  |  |
 

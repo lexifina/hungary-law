@@ -1,18 +1,12 @@
 ## Ideiglenes jelleggel végzett helyi iparűzési tevékenységről
 
-## 20.. évi feldolgozási összesítő
-
-## Ideiglenes jelleggel végzett helyi iparűzési tevékenységről
-
 ## 20..... évi feldolgozási összesítő
 
-| Tevékenység megnevezése | Adóköteles napok száma (A bevallás 8. sora) | Adó összeg Ft | Adókedvezmény összege Ft | Fizetendő adó Ft |
+| Tevékenység megnevezése | Adóköteles napok száma (A bevallás 5. sora) | Adó összeg Ft | Adókedvezmény összege Ft | Fizetendő adó Ft |
 
-| 1. Piaci és vásározó kiskereskedelmi tevékenység |  |  |  |  |
+| 1. Építőipari tevékenység, illetve természeti erőforrás feltárása vagy kutatása |  |  |  |  |
 
-| 2. Építőipari tevékenység, illetőleg természeti erőforrás feltárása vagy kutatása |  |  |  |  |
-
-| 3. Az 1990. évi C. törvény 37. § (2) bekezdésének c) pontja alá tartozó tevékenység |  |  |  |  |
+| 2. A Htv. 37. § (2) bekezdés b) pontja alá tartozó tevékenység |  |  |  |  |
 
 | 3. Összesen |  |  |  |  |
 

@@ -8,7 +8,7 @@ a) az adózó törzsadat (állandó adatok) nyilvántartása,
 
 b) az adózó nem állandó jellegű (változó) adatait tartalmazó nyilvántartás,
 
-c)[^7] az adózó egyedi adatait tartalmazó – folyamatosan vezetett – adószámla, külön az adóról, a gépjárműadóról, a jövedelemadóról, a talajterhelési díjról, a luxusadóról és az államigazgatási eljárási illetékről,
+c)[^7] az adózó egyedi adatait tartalmazó – folyamatosan vezetett – adószámla, külön az adóról, a gépjárműadóról, a jövedelemadóról, a talajterhelési díjról és az államigazgatási eljárási illetékről,
 
 d)[^8] az 10 000 forintot meg nem haladó, törölt adótartozások nyilvántartása,
 
@@ -23,7 +23,7 @@ h)[^9] műemléképület felújításához kapcsolódó építményadó-mentess�
 (3)[^10]
 
 [^6]: A 2. § (2) bekezdése a 42/2003. (XII. 29.) PM rendelet 2. §-ával megállapított szöveg.
-[^7]: A 2. § (2) bekezdésének c) pontja a 42/2005. (XII. 22.) PM rendelet 2. §-ával megállapított szöveg.
+[^7]: A 2. § (2) bekezdésének c) pontja a 42/2005. (XII. 22.) PM rendelet 2. §-ával megállapított, a 77/2013. (XII. 31.) NGM rendelet 2. § b) pontja szerint módosított szöveg.
 [^8]: A 2. § (2) bekezdésének d) pontja a 41/2006. (XII. 25.) PM rendelet 3. § (3) bekezdése szerint módosított szöveg.
 [^9]: A 2. § (2) bekezdésének h) pontját a 44/2007. (XII. 27.) PM rendelet 1. §-a iktatta be.
 [^10]: A 2. § (3) bekezdését az 54/2004. (XII. 29.) PM rendelet 10. §-ának (2) bekezdése hatályon kívül helyezte.

@@ -4,7 +4,7 @@
 
 ## 20... . évi kivetési összesítő
 
-| Megnevezés | Adóalanyok száma | Adó- tárgyak száma | Jellemző érték | Adómegál- lapítás |
+| Megnevezés | Adóalanyok száma | Adótárgyak száma | Jellemző érték | Adó- megállapítás |
 
 |  | magánszemély | vállalkozó | összesen |  |  |  |
 
@@ -16,19 +16,19 @@
 
 |  | 2. Htv. 13. § a) pontja alapján mentes |  |  |  |  |  |  |  |  |
 
-| L | 3. Htv. 13/A. § (7) bekezdése alapján mentes |  |  |  |  |  |  |  |  |
+|  | 3. Htv. 13. § b) pontja alapján mentes |  |  |  |  |  |  |  |  |
 
-| A | 4. Önkormányzati döntés alapján mentes |  |  |  |  |  |  |  |  |
+| L | 4. Htv. 13/A. § alapján mentes |  |  |  |  |  |  |  |  |
 
-| K | 5. LAKÁS ADÓKÖTELES TERÜLETE [1-(2+3+4)] |  |  |  |  |  |  |  |  |
+| A | 5. Önkormányzati döntés alapján mentes |  |  |  |  |  |  |  |  |
 
-| Á | 6. LAKÁS ADÓJA |  |  |  |  |  |  |  |  |
+| K | 6. LAKÁS ADÓKÖTELES TERÜLETE [1-(2+3+4+5)] |  |  |  |  |  |  |  |  |
 
-| S | 7. Önkormányzati döntés alapján kedvezmény |  |  |  |  |  |  |  |  |
+| Á | 7. LAKÁS ADÓJA |  |  |  |  |  |  |  |  |
 
-|  | 8. Az 1995. évi XCVIII. tv. 10. § (2) bekezdése alapján csökkentés |  |  |  |  |  |  |  |  |
+| S | 8. Önkormányzati döntés alapján kedvezmény |  |  |  |  |  |  |  |  |
 
-|  | 9. FIZETENDŐ ADÓ [6-(7+8)] |  |  |  |  |  |  |  |  |
+|  | 9. FIZETENDŐ ADÓ [7-8] |  |  |  |  |  |  |  |  |
 
 |  | 10. Üdülő |  |  |  |  |  |  |  |  |
 
@@ -42,46 +42,44 @@
 
 | Ő | 15. Önkormányzati döntés alapján kedvezmény |  |  |  |  |  |  |  |  |
 
-|  | 16. Az 1995. évi XCVIII tv. 10. § (2) bekezdése alapján csökkentés |  |  |  |  |  |  |  |  |
+|  | 16. FIZETENDŐ ADÓ [14-15] |  |  |  |  |  |  |  |  |
 
-|  | 17. FIZETENDŐ ADÓ 14-(15+16)] |  |  |  |  |  |  |  |  |
+| E | 17. Gépjárműtároló |  |  |  |  |  |  |  |  |
 
-|  | 18. Gépjárműtároló |  |  |  |  |  |  |  |  |
+| G | 18. Kereskedelmi egység |  |  |  |  |  |  |  |  |
 
-| 19. Kereskedelmi egység |  |  |  |  |  |  |  |  |
+| Y | 19. 18-ból szállásépület |  |  |  |  |  |  |  |  |
 
-| E | 20. 19-ből szállásépület |  |  |  |  |  |  |  |  |
+| É | 20. 18-ból kereskedelmi üzlethelyiség, vendéglátóipari egység |  |  |  |  |  |  |  |  |
 
-| G | 21. 19-ből kereskedelmi üzlethelyiség, vendéglátóipari egységek |  |  |  |  |  |  |  |  |
+| B | 21. Egyéb nem lakás céljára szolgáló épület |  |  |  |  |  |  |  |  |
 
-| Y | 22. Egyéb nem lakás céljára szolgáló épület |  |  |  |  |  |  |  |  |
+|  | 22. Htv. 13. § b) pontja alapján mentes |  |  |  |  |  |  |  |  |
 
-| É | 23. Htv. 13. § h) pontja alapján mentes |  |  |  |  |  |  |  |  |
+|  | 23. Htv. 13. § h) pontja alapján mentes |  |  |  |  |  |  |  |  |
 
-| B | 24. Htv. 13/A § (1) bekezdése alapján mentes |  |  |  |  |  |  |  |  |
+| É | 24. Htv. 13/A § (1) bekezdése alapján mentes |  |  |  |  |  |  |  |  |
 
-|  | 25. Önkormányzati döntés alapján mentes |  |  |  |  |  |  |  |  |
+| P | 25. Önkormányzati döntés alapján mentes |  |  |  |  |  |  |  |  |
 
-| É | 26. EGYÉB ÉPÜLET ADÓKÖTELES TERÜLETE |  |  |  |  |  |  |  |  |
+| Ü | 26. EGYÉB ÉPÜLET ADÓKÖTELES TERÜLETE |  |  |  |  |  |  |  |  |
 
-| P | [(18+19+22)-(23+24+25)] |  |  |  |  |  |  |  |  |
+| L | [(17+18+21)-(22+23+24+25)] |  |  |  |  |  |  |  |  |
 
-| Ü | 27. EGYÉB ÉPÜLET ADÓJA |  |  |  |  |  |  |  |  |
+| E | 27. EGYÉB ÉPÜLET ADÓJA |  |  |  |  |  |  |  |  |
 
-| L | 28. Önkormányzati döntés alapján kedvezmény |  |  |  |  |  |  |  |  |
+| T | 28. Önkormányzati döntés alapján kedvezmény |  |  |  |  |  |  |  |  |
 
-| E | 29. Az 1995. évi XCVIII. tv. 10. § (2) bekezdése alapján csökkentés |  |  |  |  |  |  |  |  |
+|  | 29. FIZETENDŐ ADÓ [27-28] |  |  |  |  |  |  |  |  |
 
-| T | 30. FIZETENDŐ ADÓ [27-(28+29)] |  |  |  |  |  |  |  |  |
+|  | 31. ÖSSZES TERÜLET (6+13+26) |  |  |  |  |  |  |  |  |
 
-|  | 31. ÖSSZES TERÜLET (5+13+26) |  |  |  |  |  |  |  |  |
+|  | 32. ÖSSZES ADÓ (7+14+27) |  |  |  |  |  |  |  |  |
 
-|  | 32. ÖSSZES ADÓ (6+14+27) |  |  |  |  |  |  |  |  |
+|  | 33. ÖSSZES MENTESSÉG, KEDVEZMÉNY (2+3+4+5+8+11+12+15+22+23+24+25+28) |  |  |  |  |  |  |  |  |
 
-|  | 33. ÖSSZES MENTESSÉG, KEDVEZMÉNY (2+3+4+7+8+11+12+15+16+23+24+25+28) |  |  |  |  |  |  |  |  |
-
-|  | 34. ÖSSZES FIZETENDŐ ADÓ (9+17+30) |  |  |  |  |  |  |  |  |
+|  | 34. ÖSSZES FIZETENDŐ ADÓ (9+16+29) |  |  |  |  |  |  |  |  |
 
 6. számú melléklet a 13/1991. (V. 21.) PM rendelethez[^75]
 
-[^75]: A 6. számú melléklet az 54/2011. (XII. 29.) NGM rendelet 31. § (2) bekezdésével megállapított szöveg.
+[^75]: A 6. számú melléklet a 77/2013. (XII. 31.) NGM rendelet 1. § (3) bekezdésével megállapított szöveg.
