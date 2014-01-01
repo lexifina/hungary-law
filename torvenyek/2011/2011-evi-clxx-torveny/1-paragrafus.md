@@ -22,9 +22,9 @@ fa) lakóház vagy lakás megnevezéssel nyilvántartott vagy ilyenként feltün
 
 fb) tanyaként feltüntetett lakó-, gazdasági épület, épületcsoport az azonos helyrajzi szám alatt hozzá tartozó földrészlettel,
 
-g) pénzügyi intézmény: a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvényben meghatározott fogalom, ideértve az Európai Unió más tagállamában vagy az Európai Gazdasági Térségről szóló megállapodásban részes más államban székhellyel rendelkező és ott jogszerűen tevékenységet végző, Magyarország területén határon átnyúló szolgáltatást nyújtó pénzügyi intézményt is,
+g) pénzügyi intézmény: a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényben meghatározott fogalom, ideértve az Európai Unió más tagállamában vagy az Európai Gazdasági Térségről szóló megállapodásban részes más államban székhellyel rendelkező és ott jogszerűen tevékenységet végző, Magyarország területén határon átnyúló szolgáltatást nyújtó pénzügyi intézményt is,
 
-h) lakhatási célú ingatlan: a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosítását szolgáló, erre a célra épített állami tulajdonú ingatlan,
+h) lakhatási célú ingatlan: az állam által épített és az állam tulajdonába tartozó olyan ingatlan, amely a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosítását szolgálja,
 
 i) természetes személy:
 
@@ -40,4 +40,10 @@ j) végrehajtás alá vont ingatlan: az a lakóingatlan, amelyet – a végrehaj
 
 k) zálogkötelezett: a hiteladós személyétől eltérő azon természetes személy, akinek lakóingatlanán pénzügyi intézménnyel kötött jelzáloghitel-szerződés biztosítékaként jelzálogjogot jegyeztek be az ingatlan-nyilvántartásba,
 
-l) tartalék ingatlan: a Nemzeti Eszközkezelő vagyonkezelésébe adott, az e törvény szerint nem lakóingatlannak és nem lakhatási célú ingatlannak minősülő egyéb ingatlan, valamint a Nemzeti Eszközkezelő vagyonkezelésében lévő lakóingatlan, amelyre nézve a bérleti jogviszony megszűnt és jogszabályban meghatározott módon hasznosításra kerül.
+l) tartalék ingatlan: a Nemzeti Eszközkezelő vagyonkezelésében lévő
+
+la) lakhatásra alkalmas olyan ingatlan, amely nem minősül lakóingatlannak és lakhatási célú ingatlannak,
+
+lb) olyan lakóingatlan, amelyre a bérleti jogviszony megszűnt vagy
+
+lc) olyan lakhatási célú ingatlan, amelyen bérleti jogviszony nem áll fenn és a Kormány által kihirdetett veszélyhelyzetben a károsultak átmeneti ingyenes elhelyezését szolgálja vagy jogszabályban meghatározott más módon hasznosításra kerül.

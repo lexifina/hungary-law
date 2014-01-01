@@ -8,7 +8,7 @@
 
 a) a hiteladóssal vagy – a 8. § (3) bekezdése szerinti esetben – a zálogkötelezettel az adásvételi szerződés megkötésével egyidejűleg a megvásárolt lakóingatlanra,
 
-b) a pályázat alapján kiválasztott, jogszabályban meghatározott feltételeknek megfelelő személlyel vagy személyekkel a lakhatási célú ingatlanra és
+b) pályázat alapján kiválasztott személlyel vagy személyekkel a lakhatási célú ingatlanra és
 
 c) az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott feltételeknek megfelelő személlyel vagy személyekkel – jogszabályban meghatározott feltételek mellett – a tartalék ingatlanra
 
@@ -19,3 +19,5 @@ c) az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott
 (1b) Az (1) bekezdés a) és b) pontjában meghatározott esetben kizárólag határozatlan időre szóló bérleti szerződés köthető.
 
 (2) A lakásbérleti szerződés alapján a bérlő köteles a megállapított lakbért a Nemzeti Eszközkezelő részére havi rendszerességgel megfizetni.
+
+(3) Az 1. § h) pont hb) alpontja alapján a lakhatási célú ingatlanban elhelyezett természetes személlyel a Nemzeti Eszközkezelő használati megállapodást köt.
