@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-140-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2012-07-03 | 2012-140-20-22.1 | 140/2012. (VII. 2.) Korm. rendelet |
+| 2014-01-01 | 2012-140-20-22.2 | 550/2013. (XII. 30.) Korm. rendelet |

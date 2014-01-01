@@ -12,10 +12,12 @@ e) dönt az egymilliárd forintot meghaladó támogatási igényű projektjavasl
 
 f) véleményezi a fejlesztéspolitikai szempontból kiemelt jelentőségű ügyeket, a komplex programokat, az operatív programok kiemelt projektjeit,
 
-g) állást foglal – a Nemzeti Fejlesztési Ügynökség által kialakított és működtetett – pályázati elbírálási szempontokról és eljárásrendi szabályokról és utasításokról,
+g)[^1] állást foglal a projektkiválasztás elbírálási szempontjairól, eljárásrendi szabályokról és utasításokról,
 
 h) az általa tárgyalt ügyekben nyomon követési tevékenységet végezhet, a végrehajtásról tájékoztatást kérhet,
 
 i) a fejlesztéspolitikai célok teljesülése érdekében jogszabály módosítást kezdeményez,
 
 j) a fejlesztések végrehajtásáért felelős szervezetektől beszámolót kérhet, és intézkedési javaslatot fogalmazhat meg.
+
+[^1]: Az 1. § g) pontja az 550/2013. (XII. 30.) Korm. rendelet 77. §-ával megállapított szöveg.
