@@ -26,7 +26,7 @@ b) aki a fizetési számla hiányában fizetési megbízást ad, vagy
 
 c) akinek a fizetési számláját hatósági átutalási megbízás vagy átutalási végzés alapján megterhelik,
 
-10. fogyasztó: a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvényben (a továbbiakban: Hpt.) meghatározott fogyasztó,
+10. fogyasztó: a Polgári Törvénykönyvről szóló törvényben meghatározott fogyasztó,
 
 11. hitelesítés: olyan eljárás, amely lehetővé teszi, hogy a pénzforgalmi szolgáltató ellenőrizze a készpénz-helyettesítő fizetési eszköz használatát, ideértve annak személyes biztonsági elemeit is,
 
@@ -34,7 +34,7 @@ c) akinek a fizetési számláját hatósági átutalási megbízás vagy átuta
 
 13. keretszerződés: a pénzforgalmi szolgáltató és az ügyfél között létrejött olyan a pénzforgalmi szolgáltatás nyújtására vonatkozó megállapodás, amely egy adott időszakra vonatkozóan meghatározza a keretszerződésen alapuló fizetési megbízások, illetve fizetési műveletek lényeges feltételeit, ideértve a fizetési számla megnyitását is,
 
-14. készpénzátutalás: a Hpt.-ben meghatározott készpénzátutalás,
+14. készpénzátutalás: a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényben (a továbbiakban: Hpt.) meghatározott készpénzátutalás,
 
 15. készpénz-helyettesítő fizetési eszköz: a Hpt.-ben meghatározott készpénz-helyettesítő fizetési eszköz,
 
