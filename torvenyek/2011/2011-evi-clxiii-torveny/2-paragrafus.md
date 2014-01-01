@@ -8,7 +8,7 @@ c) törvényben meghatározott egyéb jogokat gyakorol a nyomozással összefüg
 
 d) közvádlóként gyakorolja a vádemelés közhatalmi jogkörét; a bírósági eljárásban képviseli a vádat, továbbá gyakorolja a büntetőeljárási törvényben számára biztosított jogorvoslati jogokat;
 
-e) törvényességi felügyeletet lát el a büntetések, a mellékbüntetések, az intézkedések, a személyi szabadságot elvonó és azt korlátozó eljárási kényszerintézkedések, az utógondozás, valamint a bűnügyi, a szabálysértési és a körözési nyilvántartás végrehajtásáról szóló jogszabályi rendelkezések megtartása felett, továbbá közreműködik a büntetés-végrehajtási bíró eljárásában;
+e) törvényességi felügyeletet lát el a büntetések, a mellékbüntetések, az intézkedések, a személyi szabadságot elvonó és azt korlátozó eljárási kényszerintézkedések, az utógondozás, valamint a bűnügyi, a szabálysértési, a körözési nyilvántartás és a központi elektronikus hozzáférhetetlenné tételi határozatok adatbázisának végrehajtásáról szóló jogszabályi rendelkezések megtartása felett, továbbá közreműködik a büntetés-végrehajtási bíró eljárásában;
 
 f) közreműködik abban, hogy a bírósági eljárásban a törvényeket helyesen alkalmazzák (az ügyész részvétele a bíróságok polgári, munkaügyi, közigazgatási és gazdasági jogi peres és nemperes eljárásaiban);
 
