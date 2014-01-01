@@ -8,7 +8,7 @@
 
 | 2. | XIII. kerület | I. |
 
-| 3. | XIV. kerület | II. |
+| 3. | XIV. kerület | I |
 
 | 4. | XV. kerület | I. |
 
@@ -42,7 +42,7 @@
 
 | 4. | XX. kerület | I. |
 
-| 5. | XXIII. kerület | II. |
+| 5. | XXIII. kerület | I. |
 
 ## Észak-budai katasztrófavédelmi kirendeltség
 
@@ -344,7 +344,7 @@
 
 | 10. | Görcsönydoboka | III. |
 
-| 11. | Hásságy | III. |
+| 11. | Hásságy | II. |
 
 | 12. | Himesháza | III. |
 
@@ -382,7 +382,7 @@
 
 | 29. | Palotabozsok | II. |
 
-| 30. | Pócsa | III. |
+| 30. | Pócsa | II. |
 
 | 31. | Sárok | III. |
 
@@ -952,7 +952,7 @@
 
 | 4. | Biharugra | III. |
 
-| 5. | Csabaszabadi | II. |
+| 5. | Csabaszabadi | III. |
 
 | 6. | Csorvás | II. |
 
@@ -998,7 +998,7 @@
 
 | 27. | Tarhos | II. |
 
-| 28. | Telekgerendás | I. |
+| 28. | Telekgerendás | II. |
 
 | 29. | Újkígyós | II. |
 
@@ -1068,7 +1068,7 @@
 
 | 1. | Békésszentandrás | II. |
 
-| 2. | Bucsa | III. |
+| 2. | Bucsa | II. |
 
 | 3. | Csabacsűd | III. |
 
@@ -1628,7 +1628,7 @@
 
 | 9. | Bükkaranyos | III. |
 
-| 10. | Bükkszentkereszt | III. |
+| 10. | Bükkszentkereszt | II. |
 
 | 11. | Csobaj | II. |
 
@@ -1772,7 +1772,7 @@
 
 | 15. | Hejőkürt | II. |
 
-| 16. | Hejőpapi | III. |
+| 16. | Hejőpapi | II. |
 
 | 17. | Hejőszalonta | III. |
 
@@ -1866,7 +1866,7 @@
 
 | 12. | Dóc | II. |
 
-| 13. | Domaszék | II. |
+| 13. | Domaszék | III. |
 
 | 14. | Ferencszállás | II. |
 
@@ -1908,15 +1908,15 @@
 
 | 33. | Pusztamérges | III. |
 
-| 34. | Pusztaszer | II. |
+| 34. | Pusztaszer | III. |
 
 | 35. | Röszke | II. |
 
 | 36. | Ruzsa | III. |
 
-| 37. | Sándorfalva | II. |
+| 37. | Sándorfalva | III. |
 
-| 38. | Szatymaz | II. |
+| 38. | Szatymaz | III. |
 
 | 39. | Szeged | I. |
 
@@ -1962,7 +1962,7 @@
 
 | 14. | Székkutas | II. |
 
-| 15. | Szentes | II. |
+| 15. | Szentes | I. |
 
 | 16. | Tömörkény | II. |
 
@@ -2428,7 +2428,7 @@
 
 | 47. | Vadosfa | III. |
 
-| 48. | Vág | III. |
+| 48. | Vág | II. |
 
 | 49. | Vásárosfalu | III. |
 
@@ -2520,7 +2520,7 @@
 
 | 11. | Fertőendréd | III. |
 
-| 12. | Fertőrákos | II. |
+| 12. | Fertőrákos | III. |
 
 | 13. | Fertőszentmiklós | II. |
 
@@ -2864,7 +2864,7 @@
 
 | 52. | Sarud | II. |
 
-| 53. | Sirok | II. |
+| 53. | Sirok | I. |
 
 | 54. | Szajla | III. |
 
@@ -2896,11 +2896,11 @@
 
 | Sorszám | Település | Katasztrófavédelmi osztály |
 
-| 1. | Abasár | III. |
+| 1. | Abasár | II. |
 
 | 2. | Adács | III. |
 
-| 3. | Apc | III. |
+| 3. | Apc | II. |
 
 | 4. | Átány | II. |
 
@@ -3562,7 +3562,7 @@
 
 | 37. | Mátramindszent | III. |
 
-| 38. | Mátranovák | II. |
+| 38. | Mátranovák | III. |
 
 | 39. | Mátraszele | II. |
 
@@ -3892,7 +3892,7 @@
 
 | 25. | Tatárszentgyörgy | II. |
 
-| 26. | Újhartyán | III. |
+| 26. | Újhartyán | II. |
 
 | 27. | Újlengyel | III. |
 
@@ -4074,7 +4074,7 @@
 
 | 29. | Kutas | III. |
 
-| 30. | Lábod | III. |
+| 30. | Lábod | II. |
 
 | 31. | Lad | III. |
 
@@ -4412,11 +4412,11 @@
 
 | 15. | Bedegkér | II. |
 
-| 16. | Bonnya | III. |
+| 16. | Bonnya | II. |
 
 | 17. | Buzsák | II. |
 
-| 18. | Fiad | III. |
+| 18. | Fiad | II. |
 
 | 19. | Fonyód | I. |
 
@@ -4436,7 +4436,7 @@
 
 | 27. | Kereki | II. |
 
-| 28. | Kisbárapáti | III. |
+| 28. | Kisbárapáti | II. |
 
 | 29. | Kisberény | II. |
 
@@ -4496,7 +4496,7 @@
 
 | 57. | Szántód | I. |
 
-| 58. | Szólád | III. |
+| 58. | Szólád | II. |
 
 | 59. | Szorosad | III. |
 
@@ -4628,7 +4628,7 @@
 
 | 51. | Nemesborzova | II. |
 
-| 52. | Nyírmada | III. |
+| 52. | Nyírmada | II. |
 
 | 53. | Olcsva | II. |
 
@@ -4738,7 +4738,7 @@
 
 | 15. | Kékcse | III. |
 
-| 16. | Kisvárda | II. |
+| 16. | Kisvárda | I. |
 
 | 17. | Komoró | II. |
 
@@ -4830,7 +4830,7 @@
 
 | 17. | Máriapócs | II. |
 
-| 18. | Mátészalka | II. |
+| 18. | Mátészalka | I. |
 
 | 19. | Mérk | II. |
 
@@ -5728,7 +5728,7 @@
 
 | 24. | Gyulakeszi | III. |
 
-| 25. | Halimba | III. |
+| 25. | Halimba | I. |
 
 | 26. | Hegyesd | III. |
 
@@ -5834,7 +5834,7 @@
 
 | 77. | Szigliget | II. |
 
-| 78. | Szőc | III. |
+| 78. | Szőc | I. |
 
 | 79. | Taliándörögd | III. |
 
@@ -5896,7 +5896,7 @@
 
 | 13. | Döbrönte | III. |
 
-| 14. | Egyházaskesző | III. |
+| 14. | Egyházaskesző | II. |
 
 | 15. | Ganna | III. |
 
@@ -5936,7 +5936,7 @@
 
 | 33. | Nagytevel | II. |
 
-| 34. | Nemesgörzsöny | III. |
+| 34. | Nemesgörzsöny | II. |
 
 | 35. | Nemesszalók | III. |
 
