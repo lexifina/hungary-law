@@ -4,7 +4,7 @@
 
 a) elektronikus úton, kormányzati kézbesítési szolgáltatás igénybevételével (a továbbiakban: ügyfélkapu), vagy
 
-b) telefonos ügyfélszolgálaton keresztül telefonon teljesítheti.
+b) országos telefonos ügyfélszolgálaton keresztül telefonon teljesítheti.
 
 c)
 
