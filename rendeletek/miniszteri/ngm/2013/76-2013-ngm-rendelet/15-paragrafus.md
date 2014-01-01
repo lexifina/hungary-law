@@ -1,0 +1,3 @@
+## 14. § A PM rendelet 75. §-a a következő (5) bekezdéssel egészül ki:
+
+## „(5) Adóraktár olyan, más tagállamban kisüzemi bortermelőként elismert gazdálkodótól, amelyet az adott tagállam mentesített az e-TKO alkalmazása alól, e-TKO helyett a 479/2008/EK tanácsi rendeletnek a szőlőkataszter, a kötelező bejelentések, a piaci felügyelethez szükséges információgyűjtés, a borászati termékek fuvarozásához szükséges kísérőokmányok, valamint a borágazatban vezetendő nyilvántartás tekintetében történő alkalmazására vonatkozó részletes szabályok megállapításáról szóló, 2009. május 26-i 436/2009/EK bizottsági rendelet 24. cikk (1) bekezdés a) pont iii. alpontjában meghatározott követelményeknek megfelelő kísérőokmánnyal szállított szőlőbort is fogadhat adófelfüggesztéssel.”

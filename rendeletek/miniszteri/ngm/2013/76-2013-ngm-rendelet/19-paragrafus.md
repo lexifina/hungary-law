@@ -1,0 +1,3 @@
+## 18. § A PM rendelet 133. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) Az üzemanyagtöltő állomásnak a pénztárgép forgalmazója által kiállított igazolással kell rendelkeznie arról, hogy az általa használt pénztárgép a pénztárgépek műszaki követelményeiről, a nyugtakibocsátásra szolgáló pénztárgépek forgalmazásáról, használatáról és szervizeléséről, valamint a pénztárgéppel rögzített adatok adóhatóság felé történő szolgáltatásáról szóló miniszteri rendeletben meghatározott, ilyen célra kialakított és a Magyar Kereskedelmi és Engedélyezési Hivatal által engedélyezett, a kútoszlopok és a pénztárgépek közötti kétirányú kommunikációt biztosító pénztárgéprendszer (üzemanyagkút-kezelő pénztárgép).”
