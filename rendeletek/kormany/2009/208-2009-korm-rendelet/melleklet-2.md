@@ -26,9 +26,9 @@
 
 | 9. hírközlési terület | Nemzeti Média- és Hírközlési Hatóság |
 
-| 10.környezetvédelem és természetvédelem területei | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 10.környezetvédelem és természetvédelem területei | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
-| 11.vízügyi terület | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 11.vízügyi terület | Országos Vízügyi Hatóság |
 
 | 12.kulturális terület | kultúráért felelős miniszter |
 
