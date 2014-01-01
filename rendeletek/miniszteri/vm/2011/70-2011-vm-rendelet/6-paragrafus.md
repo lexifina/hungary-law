@@ -180,21 +180,21 @@ A betölthető munkakörök és beosztások, az azokhoz tartozó fizetési oszt�
 
 | 83. | Vízhasznosítási ügyintéző | D, F, G, H, I |  |
 
-| 84. | Víziközmű ügyintéző | D, F, G, H, I |  |
+| 84. |  | D, F, G, H, I |  |
 
-| 85. | Vízkészlet-gazdálkodási ügyintéző | D, F, G, H, I |  |
+| 85. |  |  |  |
 
 | 86. | Vízminőségvédelmi ügyintéző | D, E, F, G, H, I |  |
 
-| 87. | Vízrajzi adatfeldolgozó | B, C, D |  |
+| 87. |  |  |  |
 
-| 88. | Vízrajzi adatforgalmazó | C, D |  |
+| 88. |  |  |  |
 
-| 89. | Vízrajzi mérő (területfelelős technikus) | B, C, D, E |  |
+| 89. |  |  |  |
 
-| 90. | Vízrajzi ügyintéző | D, F, G, H, I |  |
+| 90. |  |  |  |
 
-| 91. | Vízrendezési ügyintéző | D, F, G, H, I |  |
+| 91. |  |  |  |
 
 2. Környezetvédelmi és Vízügyi Igazgatóságok
 
@@ -504,4 +504,4 @@ A betölthető munkakörök és beosztások, az azokhoz tartozó fizetési oszt�
 
 |  | 114 | Villanyszerelő | B, C, D |
 
-[^4]: A melléklet a 147/2011. (XII. 23.) VM rendelet 15. §-a, és a 17. § h) pont hd) alpontja szerint módosított szöveg.
+[^4]: A melléklet a 147/2011. (XII. 23.) VM rendelet 15. §-a, és a 17. § h) pont hd) alpontja, a 131/2013. (XII. 23.) VM rendelet 4. § (1) bekezdése szerint módosított szöveg.
