@@ -18,3 +18,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-38-00-00
 | 2013-03-01 | 2012. évi CCVII. törvény | 2010-38-00-00.11 |
 | 2013-10-25 | 2013. évi CLIX. törvény | 2010-38-00-00.12 |
 | 2013-12-15 | 2013. évi CCXII. törvény | 2010-38-00-00.13 |
+| 2014-01-01 | 2013. évi CC. törvény | 2010-38-00-00.14 |
