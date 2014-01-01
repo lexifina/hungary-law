@@ -94,4 +94,4 @@ d) a köznevelési intézményben folyó nevelő és oktató munka a közbiztons
 
 (11) Szakmai jogszabálysértés, ha az intézmény működése – az intézmény által ellátott feladatoktól függően – az Óvodai nevelés országos alapprogramja a Nat, az adott intézményre érvényes kerettanterv, vagy e törvény felhatalmazása alapján készített és jóváhagyott más nevelési, oktatási program, az érettségi vizsgaszabályzat, az érettségi vizsga részletes vizsgakövetelményeiről szóló jogszabály, a Kollégiumi nevelés országos alapprogramja, a nemzetiség óvodai nevelésének irányelve, a nemzetiség iskolai oktatásának irányelve, a Két tanítási nyelvű iskolai oktatás irányelve, a Sajátos nevelési igényű gyermekek óvodai nevelésének irányelve, a Sajátos nevelési igényű tanulók iskolai oktatásának irányelve, az Alapfokú művészetoktatás követelményei és tantervi programja rendelkezéseit sérti.
 
-(12) A kormányhivatal a nevelési-oktatási intézmény törléséről értesíti a költségvetési hozzájárulást folyósító szervet.
+(12) A kormányhivatal a köznevelési intézmény törléséről értesíti a költségvetési hozzájárulást folyósító szervet.

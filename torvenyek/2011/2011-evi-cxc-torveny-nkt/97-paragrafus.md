@@ -46,6 +46,8 @@ b) 157,8 százaléka alapfokozat esetén,
 
 c) 172,9 százaléka mesterfokozat esetén.
 
+(20b) E törvény 64. § (5) bekezdésének és 97. § (20) bekezdésének alkalmazásakor a közalkalmazottak jogállásáról szóló törvény közoktatási, valamint köznevelési intézményekben történő végrehajtásáról rendelkező kormányrendelet várakozási idő csökkentésre vonatkozó rendelkezéseit is figyelembe kell venni. Ha a 2013. szeptember 1-jei hatályú besoroláskor a munkáltató a várakozási idő csökkentésre vonatkozó rendelkezésre tekintet nélkül állapította meg a fizetési kategóriát, a besorolást 2014. január 31-ig ennek figyelembevételével módosítani kell, az ebből eredő illetménykülönbözetet a 2014. januári illetménnyel egyidejűleg kell a pedagógus számára kifizetni.
+
 (21) Nem vonatkozik a minősítési kötelezettség arra a pedagógus-munkakörben, valamint pedagógiai szakértő, pedagógiai előadó munkakörben foglalkoztatottra, aki a 2013. szeptember 1-jétől számított tizedik tanév végéig eléri a rá vonatkozó öregségi nyugdíjkorhatárt.
 
 (22) A 46. § (5) bekezdés szerinti térítésmentes tankönyvellátást első alkalommal a 2013/2014. tanévben az első évfolyamra beiratkozott tanulók számára, ezt követően felmenő rendszerben kell biztosítani.
@@ -67,3 +69,7 @@ b) a 74. § (4) és (5) bekezdése alkalmazásában a települési önkormányza
 (26) A 21. § (2) bekezdésben előírt, a nem állami szerv által alapított intézmények nyilvántartásba vételére vonatkozó feltételeket azon nevelési-oktatási intézmények esetében kell alkalmazni, amelyek működésüket 2013. szeptember 1-je után kezdik meg.
 
 (27) Amennyiben a 73. § (3) bekezdése szerinti intézményi tanács nem jött létre, a 73. § (4) bekezdése szerinti intézményi tanács alakuló ülését az érintett iskola intézményvezetője a nemzeti köznevelésről szóló 2011. évi CXC. törvény módosításáról szóló 2013. évi CXXXVII. törvény hatálybalépését követő negyvenöt napon belül hívja össze.
+
+(28) Az értelmi fogyatékos tanulók képességét fejlesztő szakiskola a 13. § (6) bekezdése szerinti előkészítő szakiskolai kilencedik évfolyamot utoljára a 2013/2014. tanévben, tizedik évfolyamot utoljára a 2014/2015. tanévben indíthat.
+
+(29) E törvénynek az egyes törvényeknek a gyermekek védelme érdekében történő módosításáról szóló 2013. évi CCXLV. törvénnyel megállapított 96. § (3) bekezdésében meghatározott ügyintézési határidőt az egyes törvényeknek a gyermekek védelme érdekében történő módosításáról szóló 2013. évi CCXLV. törvény hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.

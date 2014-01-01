@@ -6,11 +6,11 @@
 
 (3) A sajátos nevelési igényű gyermek óvodai nevelése, tanuló iskolai nevelés-oktatása, továbbá kollégiumi nevelése az e célra létrehozott gyógypedagógiai nevelési-oktatási intézményben, konduktív pedagógiai intézményben, óvodai csoportban, iskolai osztályban, vagy a többi gyermekkel, tanulóval részben vagy egészben együtt, azonos óvodai csoportban, iskolai osztályban (a továbbiakban: a sajátos nevelési igényű gyermekek, tanulók – külön vagy közös vagy részben közös – nevelésében és oktatásában részt vevő óvoda és iskola, kollégium együtt: gyógypedagógiai nevelésben, oktatásban részt vevő nevelési-oktatási intézmény) történhet.
 
-(4) A sajátos nevelési igényű gyermek, tanuló neveléséhez és oktatásához az alábbi feltételek szükségesek:
+(4) A sajátos nevelési igényű gyermek, tanuló neveléséhez és oktatásához a következő feltételek szükségesek:
 
-a) a gyermek, tanuló külön neveléséhez és oktatásához a sajátos nevelési igény típusának és súlyosságának megfelelő gyógypedagógus, konduktor foglalkoztatása, a neveléshez és oktatáshoz szükséges speciális tanterv, tankönyv és egyéb segédlet,
+a) a gyermek, tanuló külön neveléséhez és oktatásához a sajátos nevelési igény típusának és súlyosságának megfelelő gyógypedagógus, gyógypedagógiai tanár vagy terapeuta, konduktor, konduktor-tanító, konduktor-óvodapedagógus, konduktor(tanító) vagy konduktor(óvodapedagógus) foglalkoztatása, a neveléshez és oktatáshoz szükséges speciális tanterv, tankönyv és egyéb segédlet,
 
-b) egyéni előrehaladású képzéshez, integrált óvodai neveléshez, iskolai nevelés-oktatáshoz, fejlesztő neveléshez, fejlesztő nevelés-oktatáshoz, az illetékes szakértői bizottság által meghatározottak szerinti foglalkozáshoz szakirányú végzettségű gyógypedagógus, a foglalkozásokhoz speciális tanterv, tankönyv, valamint speciális gyógyászati és technikai eszközök,
+b) egyéni előrehaladású képzéshez, integrált óvodai neveléshez, iskolai nevelés-oktatáshoz, fejlesztő neveléshez, fejlesztő nevelés-oktatáshoz, az illetékes szakértői bizottság által meghatározottak szerinti foglalkozáshoz a sajátos nevelési igény típusának és súlyosságának megfelelő gyógypedagógus, gyógypedagógiai tanár vagy terapeuta, konduktor, konduktor-tanító, konduktor-óvodapedagógus, konduktor(tanító) vagy konduktor(óvodapedagógus), a foglalkozásokhoz speciális tanterv, tankönyv, valamint speciális gyógyászati és technikai eszközök,
 
 c) a fejlesztési területek szakértői bizottság által történő meghatározása.
 
@@ -24,11 +24,11 @@ c) a fejlesztési területek szakértői bizottság által történő meghatáro
 
 (9) A gyógypedagógiai nevelésben, oktatásban részt vevő nevelési-oktatási intézményben
 
-a) a fogyatékosság típusának megfelelő szakirányon szerzett gyógypedagógusi, gyógypedagógiai tanári, konduktori, konduktor-óvodapedagógusi, konduktor-tanítói, terapeuta szakképzettség kell, ha az óvodai foglalkozás, vagy a tanórai foglalkozás elsődleges célja
+a) a sajátos nevelési igény típusának megfelelő szakirányon szerzett gyógypedagógusi, gyógypedagógiai tanár vagy terapeuta, konduktor, konduktor-tanító, konduktor-óvodapedagógus, konduktor(tanító) vagy konduktor(óvodapedagógus) szakképzettség kell, ha
 
-aa) a sajátos nevelési igényből eredő hátrány csökkentése,
+aa) az óvodai foglalkozás vagy a tanórai foglalkozás elsődleges célja a sajátos nevelési igényből eredő hátrány csökkentése,
 
-ab) az egészségügyi és pedagógiai célú habilitáció, rehabilitáció,
+ab) az óvodai foglalkozás vagy a tanórai foglalkozás elsődleges célja az egészségügyi és pedagógiai célú habilitáció, rehabilitáció, valamint
 
 ac) az értelmi fogyatékossággal élő tanuló iskolai nevelés-oktatása a külön e célra létrehozott gyógypedagógiai nevelési-oktatási intézményben, óvodai csoportban, iskolai osztályban történik,
 

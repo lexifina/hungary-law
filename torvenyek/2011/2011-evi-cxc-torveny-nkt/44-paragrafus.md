@@ -1,6 +1,6 @@
 44. § (1) A köznevelés információs rendszere (a továbbiakban: KIR) központi nyilvántartás keretében a nemzetgazdasági szintű tervezéshez szükséges fenntartói, intézményi, foglalkoztatási, gyermek- és tanulói adatokat tartalmazza. A KIR keretében folyó adatkezelés tekintetében az adatkezelő a hivatal.
 
-(2) A köznevelési feladatokat ellátó intézmény, a jegyző, a közneveléssel összefüggő igazgatási, ellenőrzési tevékenységet végző közigazgatási szerv és az e törvényben meghatározott feladatok végrehajtásában közreműködő intézményfenntartók és intézmények adatokat szolgáltatnak a KIR-be.
+(2) A köznevelési feladatokat ellátó intézmény, a jegyző, a közneveléssel összefüggő igazgatási, ellenőrzési tevékenységet végző közigazgatási szerv és az e törvényben meghatározott feladatok végrehajtásában közreműködő intézményfenntartók, az intézmények és az intézményi tanácsok adatokat szolgáltatnak a KIR-be.
 
 (3) A KIR adatkezelője oktatási azonosító számot ad ki annak,
 
@@ -96,14 +96,46 @@ k) jogviszonya, munkaviszonya időtartamát,
 
 l) munkaidejének mértékét,
 
-m) tartós távollétének időtartamát.
+m) tartós távollétének időtartamát,
+
+n) lakcímét,
+
+o) elektronikus levelezési címét,
+
+p) előmenetelével, pedagógiai-szakmai ellenőrzésével, pedagógus-továbbképzési kötelezettségének teljesítésével kapcsolatos adatok közül
+
+pa) a szakmai gyakorlat idejét,
+
+pb) esetleges akadémiai tagságát,
+
+pc) munkaidő-kedvezményének tényét,
+
+pd) minősítő vizsgájának kinevezési okmányban, munkaszerződésben rögzített határidejét,
+
+pe) minősítő vizsgájának, minősítő eljárásra történő jelentkezésének időpontját, a minősítő vizsga és a minősítési eljárás időpontját és eredményét,
+
+pf) az alkalmazottat érintő pedagógiai-szakmai ellenőrzés időpontját, megállapításait.
 
 (8) Óraadó esetében a munkakörként az oktatott tantárgy, foglalkozás megnevezését kell megadni.
 
-(9) Az alkalmazotti nyilvántartásból személyes adat – az érintetten kívül – csak az egyes, a foglalkoztatáshoz kapcsolódó juttatások jogszerű igénybevételének megállapítása céljából továbbítható, a szolgáltatást nyújtó vagy az igénybevétel jogosságának ellenőrzésére hivatott részére, továbbá az adatok pontosságának, teljességének, időszerűségének biztosítása, valamint a pedagógusigazolvány igénylésével kapcsolatos eljárás keretében azonosítás céljából a személyiadat- és lakcímnyilvántartó szerv részére.
+(9) Az alkalmazotti nyilvántartásból személyes adat – az érintetten kívül – csak az egyes, a foglalkoztatáshoz kapcsolódó juttatások jogszerű igénybevételének megállapítása céljából továbbítható, a szolgáltatást nyújtó vagy az igénybevétel jogosságának ellenőrzésére hivatott részére, továbbá az adatok pontosságának, teljességének, időszerűségének biztosítása, valamint a pedagógusigazolvány igénylésével kapcsolatos eljárás keretében azonosítás céljából a személyiadat- és lakcímnyilvántartó szerv részére, valamint az országos pedagógiai-szakmai ellenőrzések, illetve a pedagógusok minősítő vizsgájának, minősítő eljárásának lefolytatása céljából a kormányhivatal részére.
 
 (10) A KIR-ben adatot az érintett foglalkoztatásának megszűnésére vonatkozó bejelentéstől számított tíz évig lehet kezelni, kivéve, ha ez alatt az idő alatt az érintettet ismét bejelentik a nyilvántartásba.
 
 (11) A KIR adatkezelője a KIR-ben nyilvántartott személyek természetes személyazonosító adatait és lakcímét azonosítás céljából elektronikus úton megküldi a személyi adat- és lakcímnyilvántartás központi szervének. A sikeres azonosítást követően a személyi adat- és lakcímnyilvántartás központi szerve kapcsolati kódot képez, amelyet azonosítás céljából megküld a KIR adatkezelőjének. A személyi adat- és lakcímnyilvántartás központi szerve az azonosított természetes személy természetes személyazonosító adatainak és lakcímének a személyi adat- és lakcímnyilvántartásban bekövetkezett változásáról a kapcsolati kódon értesíti a KIR adatkezelőjét. A KIR adatkezelője a jelen bekezdés szerint tudomására jutott adatváltozást a KIR-ben a köznevelési intézmény egyidejű értesítésével hivatalból vezeti át.
 
 (12) A társadalombiztosítási azonosító jel bejegyzésére irányuló kérelem esetén a társadalombiztosítási azonosító jel hitelességét a KIR adatkezelője az országos egészségbiztosítási szerv nyilvántartásával elektronikus úton megfelelteti. Eltérés esetén a személyi- és lakcím adatok helyességére vonatkozó rendelkezéseket kell alkalmazni.
+
+(13) Az e törvény alapján létrehozott intézményi tanácsról a 73. § (5) bekezdés a) pontja alapján vezetett nyilvántartás közhiteles hatósági nyilvántartásnak minősül. Az intézményi tanácsról vezetett nyilvántartás tartalmazza:
+
+a) az intézményi tanács nevét,
+
+b) az intézményi tanács székhelyét,
+
+c) az érintett iskola nevét, OM azonosítóját,
+
+d) az elnök nevét,
+
+e) az elnök elérhetőségeit (telefonszámát, telefax, elektronikus levelezési cím),
+
+f) nyilvántartásba vételi számát.

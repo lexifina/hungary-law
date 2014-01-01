@@ -10,13 +10,13 @@
 
 (3b) A 65. § (2) bekezdése 2017. szeptember 1-jén lép hatályba.
 
-(4) A 8. § (2) bekezdés, az 53. § (1) bekezdés, 95. § (9) bekezdés 2014. szeptember 1-jén lép hatályba.
+(4) Az 53. § (1) bekezdése 2014. szeptember 1-jén lép hatályba.
 
 (5) A 6. § (2) bekezdés e) pont „szakközépiskolában a szakközépiskola ágazatának megfelelő szakmai vizsgatárgy” szövegrésze 2017. január 1-jén lép hatályba.
 
 (6) A 67. § (2) bekezdése a 2014. évi általános önkormányzati választások napján lép hatályba.
 
-(7)
+(7) A 8. § (2) bekezdése és a 95. § (9) bekezdése 2015. szeptember 1-jén lép hatályba.
 
 (8)
 

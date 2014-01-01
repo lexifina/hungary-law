@@ -1,10 +1,12 @@
 ## 37. A köznevelésben történő alkalmazás feltételei
 
-66. § (1) A köznevelésben az alkalmazás feltétele, hogy az alkalmazott
+66. § (1) A köznevelésben az alkalmazás feltétele, hogy az alkalmazott, a megbízási jogviszonyban foglalkoztatott
 
 a) rendelkezzen az előírt iskolai végzettséggel, szakképesítéssel, szakképzettséggel,
 
-b) büntetlen előéletű és cselekvőképes legyen.
+b) ne álljon a tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt, büntetlen előéletű legyen és
+
+c) cselekvőképes legyen.
 
 (2) A pedagógus, valamint a nevelő és oktató munkát közvetlenül segítő alkalmazott az óvodai nevelőmunka, az iskolai és kollégiumi nevelő és oktató munka, valamint a pedagógiai szakszolgálat ellátása során a gyermekekkel, tanulókkal összefüggő tevékenységével kapcsolatban a büntetőjogi védelem szempontjából közfeladatot ellátó személy.
 

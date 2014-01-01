@@ -12,7 +12,9 @@ c) az óvodai, iskolai, kollégiumi felvétel, továbbá az óvodai elhelyezés,
 
 d) a fenntartó pályáztatás és további eljárás nélkül is adhat intézményvezetői megbízást, nem kell alkalmazni a 67. § (7) bekezdésében és a 83. § (3) bekezdés e) pontjában foglaltakat,
 
-e) a nevelési-oktatási intézmény – a fenntartó, óvoda esetében a települési önkormányzattal, más köznevelési intézmény esetében az oktatásért felelős miniszterrel kötött írásbeli szerződés (a továbbiakban: köznevelési szerződés) alapján – részt vehet az e törvényben meghatározott köznevelési közszolgálati feladatok megvalósításában.
+e) a nevelési-oktatási intézmény – a fenntartó, óvoda esetében a települési önkormányzattal, más köznevelési intézmény esetében az oktatásért felelős miniszterrel kötött írásbeli szerződés (a továbbiakban: köznevelési szerződés) alapján – részt vehet az e törvényben meghatározott köznevelési közszolgálati feladatok megvalósításában,
+
+f) nem kell alkalmazni a 73. § (4) bekezdését.
 
 (3) Ha a pedagógiai szakszolgálati intézményt vagy a pedagógiai-szakmai szolgáltató intézményt nem állami szerv, nem települési önkormányzat tartja fenn, az oktatásért felelős miniszter köthet a fenntartóval köznevelési szerződést.
 

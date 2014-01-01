@@ -18,7 +18,7 @@ dönt.
 
 (5) A tankötelezettség iskolába járással, vagy ha az a tanuló fejlődése, tanulmányainak eredményes folytatása és befejezése szempontjából nem hátrányos, a szülő kérelmére magántanulóként teljesíthető.
 
-(6) Ha az iskola igazgatójának megítélése szerint a tanulónak hátrányos, hogy tankötelezettségének magántanulóként tegyen eleget, vagy az így elkezdett tanulmányok eredményes folytatására vagy befejezésére nem lehet számítani, köteles erről értesíteni a gyermek lakóhelye, ennek hiányában tartózkodási helye szerint illetékes kormányhivatalt, amely a gyámhatóság és a gyermekjóléti szolgálat véleményének kikérése után dönt arról, hogy a tanuló milyen módon teljesítse tankötelezettségét. Halmozottan hátrányos helyzetű tanuló esetén az iskola igazgatójának döntéséhez be kell szereznie a gyermekjóléti szolgálat véleményét.
+(6) Ha az iskola igazgatójának megítélése szerint a tanulónak hátrányos, hogy tankötelezettségének magántanulóként tegyen eleget, vagy az így elkezdett tanulmányok eredményes folytatására vagy befejezésére nem lehet számítani, köteles erről értesíteni a gyermek lakóhelye, ennek hiányában tartózkodási helye szerint illetékes kormányhivatalt, amely a gyámhatóság és a gyermekjóléti szolgálat véleményének kikérése után dönt arról, hogy a tanuló milyen módon teljesítse tankötelezettségét. Hátrányos helyzetű tanuló esetén az iskola igazgatójának döntéséhez be kell szereznie a gyermekjóléti szolgálat véleményét.
 
 (7) A tankötelezettség általános iskolában, középfokú iskolában, Köznevelési Hídprogram keretében, valamint fejlesztő nevelés-oktatásban teljesíthető.
 

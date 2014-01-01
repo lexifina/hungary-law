@@ -28,11 +28,11 @@ bb) szétválasztással, amely lehet különválás vagy kiválás,
 
 c) a nevelési-oktatási intézmény megszüntetésével,
 
-d) az alapfokú művészeti iskolában a tanszak indításával és megszüntetésével
+d) a nevelési-oktatási intézmény átszervezésével
 
 kapcsolatban.
 
-(8) A (7) bekezdésben fel nem sorolt egyéb átszervezésre vonatkozó döntések határideje július utolsó munkanapja.
+(8)
 
 (9) A települési önkormányzat, az állami fenntartó az alapító okirata, szakmai alapdokumentuma szerint nemzetiségi óvodai nevelésben, iskolai nevelés-oktatásban, kollégiumi nevelésben közreműködő nevelési-oktatási intézmény, továbbá az érintett gyermekek, tanulók ellátásában közreműködő pedagógiai szakszolgálatot ellátó intézmény
 

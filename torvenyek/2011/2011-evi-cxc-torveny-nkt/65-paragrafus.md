@@ -14,6 +14,14 @@
 
 (8) A minősítő vizsga és a minősítési eljárás részletes szabályait, a sikeres minősítő vizsgához és minősítési eljáráshoz, az alkotói szabadság igénybevételéhez szükséges követelményeket külön jogszabály állapítja meg.
 
+(8a) A 64–65. § hatálya alá tartozó foglalkoztatottak tekintetében az Mt. 148–149. §-át, valamint 151. § (1)–(4) bekezdését és 152. §-át azzal az eltéréssel kell alkalmazni, hogy a távolléti díj megállapításakor az e törvény, valamint végrehajtási rendelete szerinti illetménypótlékot, továbbá az intézményvezetői kereset-kiegészítést is figyelembe kell venni. A távolléti díj megállapításakor az illetménypótlékok közül azokat, amelyek a foglalkoztatottat a munkavégzés esetén
+
+a) folyamatosan megilletik, az Mt. 149. §-ának megfelelően az alapbérre,
+
+b) folyamatosan nem illetik meg, az Mt. 151. § (4) bekezdésének megfelelően a bérpótlékra
+
+vonatkozó szabályok szerint kell figyelembe venni.
+
 (9) A 64–65. §-ban foglaltakat alkalmazni kell
 
 a) a pedagógiai-szakmai szolgáltatást nyújtó intézményben pedagógiai szakértő, pedagógiai előadó munkakörben,
@@ -21,3 +29,5 @@ a) a pedagógiai-szakmai szolgáltatást nyújtó intézményben pedagógiai sza
 b) a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény hatálya alá tartozó intézményben pedagógus-munkakörben
 
 foglalkoztatott tekintetében is.
+
+(10) Az egyházi köznevelési intézmény és a magán köznevelési intézmény munkaviszony keretében foglalkoztatott pedagógusainak rendkívüli munkavégzése díjazására, pótszabadságára a közalkalmazottakra vonatkozó rendelkezéseket kell alkalmazni. A pedagógiai asszisztens, szabadidő-szervező, gyermek- és ifjúságvédelmi felügyelő, gyógypedagógiai asszisztens, pszichopedagógus pótszabadságának meghatározására a pedagógus-munkakörben foglalkoztatott közalkalmazottakra vonatkozó rendelkezéseket kell alkalmazni.

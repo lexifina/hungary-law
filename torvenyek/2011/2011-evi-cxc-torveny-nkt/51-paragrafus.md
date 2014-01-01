@@ -1,4 +1,4 @@
-51. § (1) Ha az általános iskola a felvételi kötelezettsége teljesítése után további felvételi, átvételi kérelmeket is teljesíteni tud, a további felvételi kérelmek teljesítésénél előnyben kell részesíteni a halmozottan hátrányos helyzetű gyermekeket, tanulókat. A további felvételi kérelmekről az intézmény pedagógiai programjában foglaltak szerint kell dönteni.
+51. § (1) Ha az általános iskola a felvételi kötelezettsége teljesítése után további felvételi, átvételi kérelmeket is teljesíteni tud, a további felvételi kérelmek teljesítésénél előnyben kell részesíteni a hátrányos helyzetű gyermekeket, tanulókat. A további felvételi kérelmekről az intézmény pedagógiai programjában foglaltak szerint kell dönteni.
 
 (2) A további felvételi lehetőségről szóló tájékoztatót a helyben szokásos módon – legalább tizenöt nappal a felvételi, átvételi kérelmek benyújtására rendelkezésre álló időszak első napja előtt – nyilvánosságra kell hozni.
 

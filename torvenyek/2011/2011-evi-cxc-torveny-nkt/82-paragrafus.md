@@ -10,7 +10,7 @@ b) rendelkezik a hivatal engedélyével.
 
 (3) Az (1) bekezdés b) pontjában foglalt esetben a köznevelési szakértői tevékenység folytatását a hivatal annak engedélyezi, aki szakirányú felsőfokú végzettséggel és szakterületén szerzett tízéves gyakorlattal rendelkezik, és szakterületének elismert képviselője. A kérelemben meg kell jelölni a kérelmező természetes személyazonosító adatait, szakterületét, lakcímét és munkahelyét.
 
-(4) A hivatal az (1) bekezdés a) és b) pontja szerinti szakértőkről Országos szakértői névjegyzéket vezet. A nyilvántartásba vétel határozatlan időre szól. A névjegyzékből kizárólag a szakértői tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat. Az Országos szakértői névjegyzék tartalmazza a köznevelési szakértői tevékenység folytatására jogosult szakértő
+(4) A hivatal az (1) bekezdés a) és b) pontja szerinti szakértőkről Országos szakértői névjegyzéket vezet. A nyilvántartásba vétel határozatlan időre szól. A névjegyzékből adat kizárólag a szakértői tevékenység végzésére való jogosultság igazolása céljából, továbbá az országos pedagógiai-szakmai ellenőrzés, valamint a minősítő vizsga és a minősítési eljárás szervezése céljából a kormányhivatal részére szolgáltatható. Az Országos szakértői névjegyzék, valamint a KIR alkalmazotti nyilvántartásának adatállománya az Nkt. 44. § (7) bekezdés d)–g) és i)–j) pontjában foglalt adatok tekintetében az országos pedagógiai-szakmai ellenőrzés, valamint a minősítő vizsga és a minősítési eljárás során szakértői feladatok ellátására történő kirendelés céljából összekapcsolható. Az Országos szakértői névjegyzék tartalmazza a köznevelési szakértői tevékenység folytatására jogosult szakértő
 
 a) természetes személyazonosító és lakcímadatát,
 
@@ -20,7 +20,9 @@ c) jogszabályban meghatározott szakterületét, szakirányát,
 
 d) nyilvántartásba-vételi számát,
 
-e) szakértői igazolásának számát.
+e) szakértői igazolásának számát,
+
+f) oktatási azonosító számát.
 
 (4a) A (4) bekezdés szerinti névjegyzék a (4) bekezdés c)–e) pontjában foglalt adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
 

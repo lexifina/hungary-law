@@ -82,11 +82,7 @@ h) a köznevelés információs rendszerének létrehozását, működtetését,
 
 i) a pedagógusigazolvány igénybevételének feltételeit, az igazolvány kiadásának és kezelésének szabályait,
 
-j) a fenntartót
-
-ja) az egyházi köznevelési intézményre, a magánintézményre és az országos nemzetiségi önkormányzat által fenntartott köznevelési intézményre tekintettel a központi költségvetésről szóló törvény alapján megillető állami hozzájárulás megállapításának, folyósításának, elszámolásának rendjét, az igényléssel, elszámolással, felhasználással összefüggő adatszolgáltatást és ellenőrzés rendjét, valamint
-
-jb) az egyházi köznevelési intézményre és az országos nemzetiségi önkormányzat által fenntartott köznevelési intézményre tekintettel megillető kiegészítő támogatás igénylésének, megállapításának, folyósításának és elszámolásának rendjét, az igényléssel, elszámolással, felhasználással összefüggő adatszolgáltatás és ellenőrzés rendjét,
+j) a köznevelési közfeladatot ellátó intézményt fenntartó nemzetiségi önkormányzatot, egyházi jogi személyt, vallási tevékenységet végző szervezetet és a 2. § (3) bekezdés b) pont bd) alpontja szerinti fenntartót a központi költségvetésről szóló törvény alapján megillető támogatás megállapításának, folyósításának, elszámolásának rendjét, az igényléssel, elszámolással, felhasználással összefüggő adatszolgáltatás és ellenőrzés rendjét,
 
 k) kijelölje a hivatalt és a 79. § (1) bekezdése szerint átruházható feladatokat,
 

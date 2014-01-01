@@ -26,7 +26,9 @@ a) a kerettanterv testnevelés tantárgyra vonatkozó rendelkezéseiben meghatá
 
 b) iskolai sportkörben való sportolással,
 
-c) versenyszerűen sporttevékenységet folytató igazolt, egyesületi tagsággal rendelkező vagy amatőr sportolói sportszerződés alapján sportoló tanuló kérelme alapján a tanévre érvényes versenyengedélye és a sportszervezete által kiállított igazolás birtokában a sportszervezet keretei között szervezett edzéssel
+c) versenyszerűen sporttevékenységet folytató igazolt, egyesületi tagsággal rendelkező vagy amatőr sportolói sportszerződés alapján sportoló tanuló kérelme alapján a tanévre érvényes versenyengedélye és a sportszervezete által kiállított igazolás birtokában a sportszervezet keretei között szervezett edzéssel,
+
+d) egyesületben legalább heti két óra sporttevékenységet folytató tanuló kérelme alapján – amennyiben délután szervezett testnevelés órával ütközik – a félévre érvényes, az egyesület által kiállított igazolással
 
 váltható ki.
 

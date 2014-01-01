@@ -14,7 +14,7 @@ d) a nevelési-oktatási intézményben pedagógus-munkakörben fennálló, hat�
 
 (3) Ha a nevelési-oktatási intézményben az óvodai nevelés, iskolai nevelés és oktatás kizárólag nemzetiségi nyelven folyik, vagy a tanulók több mint fele két nyelven – nemzetiségi nyelven és magyarul – tanul, intézményvezetői megbízást az kaphat, aki a 3. mellékletben meghatározottak szerint a nemzetiségi óvodai nevelésben, iskolai nevelésben-oktatásban pedagógus-munkakört tölthet be. Azonos feltételek esetén előnyben kell részesíteni azt, aki a nemzetiséghez tartozik.
 
-(4) A kizárólag sajátos nevelési igényű gyermekek, tanulók nevelését, oktatását ellátó nevelési-oktatási intézményben intézményvezetői megbízást az kaphat, aki a gyermekek, tanulók sajátos nevelési igényének típusa szerinti gyógypedagógiai tanári vagy konduktori vagy konduktor-tanítói vagy terapeuta végzettséggel és szakképzettséggel, továbbá pedagógus-szakvizsgával rendelkezik.
+(4) A kizárólag sajátos nevelési igényű gyermekek, tanulók nevelését, oktatását ellátó nevelési-oktatási intézményben intézményvezetői megbízást az kaphat, aki a gyermekek, tanulók sajátos nevelési igényének típusa szerinti gyógypedagógusi, gyógypedagógiai tanár vagy terapeuta, konduktor, konduktor-tanító, konduktor-óvodapedagógus, konduktor(tanító) vagy konduktor(óvodapedagógus) végzettséggel és szakképzettséggel, továbbá pedagógus-szakvizsgával rendelkezik.
 
 (5) Ha nincs a képzés szakirányának megfelelő egyetemi szintű tanárképzés, szakközépiskola vezetésével megbízható az is, aki a képzés szakirányának megfelelő mesterképzésben szerzett szakképzettséggel rendelkezik.
 

@@ -18,7 +18,7 @@ a) a végzettség szintjének megfelelő tanári szakképzettségnek kell elfoga
 
 b) főiskolai szintű iskolai végzettségnek és pedagógus szakképzettségnek kell elfogadni az óvónőképző intézetben, tanítóképző intézetben, szaktanár képzőben, az állami zenekonzervatóriumban szerzett pedagógus szakképzettséget;
 
-c) pedagógus-munkakör betöltésére jogosító oklevélnek kell elfogadni a pedagógia szakos előadói, a nevelőtanári, konduktor-óvodapedagógusi és konduktor-tanítói szakképzettséget tanúsító felsőfokú iskolai oklevelet;
+c) pedagógus-munkakör betöltésére jogosító oklevélnek kell elfogadni a pedagógia szakos előadói, a nevelőtanári, konduktori, konduktor-óvodapedagógusi és konduktor-tanítói, valamint a konduktor (tanító) és a konduktor (óvodapedagógus) szakképzettséget tanúsító felsőfokú iskolai oklevelet;
 
 d) egyetemi végzettségnek és szakképzettségnek kell elfogadni a Magyar Testnevelési Főiskola által az 1975. évi 16. törvényerejű rendelet hatálybalépése előtt kiadott testnevelő-tanári szakképzettséget.
 
@@ -40,4 +40,8 @@ b) az a) pontban meghatározott szakirányú továbbképzés hiányában legalá
 
 (15) Szakképző iskolában tanított szakmai elméleti tantárgy esetén, ha nincs a szakképzés szakirányának megfelelő szakos hazai tanári képzés, az adott tantárgy tanítására határozatlan időre alkalmazható, valamint az érettségin, szakmai vizsgán vizsgáztató tanár lehet az is, aki a szakmai tantárgynak megfelelő szakmai területen szakirányú felsőfokú végzettséggel és bármely szakos tanári szakképzettséggel rendelkezik, továbbá, ha nincs a szakképzés szakirányának megfelelő hazai felsőfokú képzés, az is, aki bármely szakos tanári szakképzettséggel és a szakképzés szakirányának megfelelő szakirányú szakképesítéssel és mestervizsgával rendelkezik.
 
-(16) Ha az iskola megfelelő végzettségű és szakképzettségű pedagógussal nem tudja megszervezni a 27. § (11) bekezdés szerinti mindennapos testnevelést, akkor a testnevelés tantárgy tanítására határozott időre, legfeljebb a 2019/2020. tanév kezdetéig alkalmazható, aki felsőfokú végzettséggel és sportoktatói vagy sportedzői szakképzettséggel rendelkezik.
+(16) Ha az iskola megfelelő végzettségű és szakképzettségű pedagógussal nem tudja megszervezni a 27. § (11) bekezdés szerinti mindennapos testnevelést, akkor a testnevelés tantárgy tanítására határozott időre, legfeljebb a 2019/2020. tanév kezdetéig alkalmazható, aki testnevelő-edzői szakképzettséggel vagy felsőfokú végzettséggel és sportoktatói vagy sportedzői szakképesítéssel rendelkezik.
+
+(17) Az általános iskola 5–8. évfolyamán és az alapfokú művészeti iskolában a drámapedagógia tantárgyat tanítói és drámapedagógus szakirányú szakképzettséggel rendelkező pedagógus is taníthatja.
+
+(18) Ha az intézményvezetői megbízásra irányuló pályázati eljárás azért nem vezetett eredményre, mert egyetlen pályázó sem rendelkezett pedagógus-szakvizsga keretében szerzett intézményvezetői szakképzettséggel, akkor legfeljebb egyszeri alkalommal két évre szóló intézményvezetői megbízás adható olyan személynek is, aki az intézményvezetői megbízás többi feltételének megfelel, rendelkezik pedagógus-szakvizsgával és megbízásával egyidejűleg vállalja az intézményvezetői szakképzettség megszerzését. Az e bekezdés szerinti megbízás pályázat nélkül további három évvel meghosszabbítható, amennyiben az érintett az intézményvezetői megbízását követően az intézményvezetői szakképzettséget megszerezte.
