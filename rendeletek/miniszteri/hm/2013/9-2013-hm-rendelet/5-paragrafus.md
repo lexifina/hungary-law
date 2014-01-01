@@ -8,7 +8,11 @@ c) ha e rendelet eltérően nem rendelkezik, a miniszter hatáskörébe tartozó
 
 gyakorol.
 
-(2) A miniszter közvetlen alárendeltségébe tartozó szervezet vezetője, valamint a HM állományának azon tagja esetén, aki nem a Honvéd Vezérkarnál teljesít szolgálatot, a HVKF az (1) bekezdés b) pont szerinti jogköreit, valamint az ezredes rendfokozattal rendszeresített szolgálati beosztásba történő áthelyezést, továbbá az ezredes rendfokozattal rendszeresített szolgálati beosztással történő megbízást a HM közigazgatási államtitkára (a továbbiakban: HM KÁT) kezdeményezésére gyakorolja. A HVKF a HM KÁT kezdeményezésére gyakorolhatja a Honvéd Vezérkar kivételével a HM-ben a százados, az őrnagy vagy az alezredes rendfokozattal rendszeresített szolgálati beosztásba történő kinevezést.
+(2)[^2] A HVKF az (1) bekezdés b) pontja szerinti jogköreit a HM közigazgatási államtitkára (a továbbiakban: HM KÁT) kezdeményezésére gyakorolja a miniszter közvetlen alárendeltségébe tartozó szervezet vezetője, valamint a HM állományának azon tagja esetén, aki nem a Honvéd Vezérkarnál teljesít szolgálatot. A HVKF a HM KÁT kezdeményezésére gyakorolja továbbá
+
+a) az ezredes rendfokozattal rendszeresített szolgálati beosztásba történő áthelyezést, és az ezredes rendfokozattal rendszeresített szolgálati beosztással történő megbízást a miniszter közvetlen alárendeltségébe tartozó szervezet, valamint a HM állományának azon tagja esetén, aki nem a Honvéd Vezérkarnál teljesít szolgálatot, és
+
+b) a százados, az őrnagy vagy az alezredes rendfokozattal rendszeresített szolgálati beosztásba történő kinevezést a HM állományának azon tagja esetén, aki nem a Honvéd Vezérkarnál teljesít szolgálatot.
 
 (3) A HM KÁT kezdeményezése nélkül a (2) bekezdés szerinti munkáltatói döntés a HM KÁT előzetes egyetértésével hozható meg. A HM KÁT előzetes egyetértése szükséges továbbá a Honvéd Vezérkarnál az ezredes rendfokozattal rendszeresített szolgálati beosztásba történő áthelyezéshez, és az ezredes rendfokozattal rendszeresített szolgálati beosztással történő megbízáshoz.
 
@@ -17,3 +21,5 @@ gyakorol.
 (5) Ha a HVKF a HM KÁT-al, vagy ha a HM KÁT a HVKF-el nem ért egyet, indokolt álláspontjának megküldésével – az irat beérkezését követő 15 napon belül – egyeztetést kezdeményez. Az egyeztetés eredménytelensége esetén a (2) és a (3) bekezdés szerinti munkáltatói döntés meghozataláról a miniszter határoz, a (4) bekezdés szerinti javaslatot pedig az egyet nem értés megjelölésével kell felterjeszteni.
 
 (6) A Tábori Lelkészi Szolgálat állománya vonatkozásában a HM KÁT kezdeményezési és előzetes egyetértési jogköreit a HM parlamenti államtitkára gyakorolja.
+
+[^2]: Az 5. § (2) bekezdése a 24/2013. (XII. 20.) HM rendelet 7. §-ával megállapított szöveg.

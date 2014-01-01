@@ -1,7 +1,3 @@
-## 50. Kifogástalan életvitel
+## 50.[^13]
 
-178. § (1) A kifogástalan életvitel ellenőrzését a KNBSZ főigazgatója határozatban rendeli el.
-
-(2) Az ellenőrzést az elrendelésétől számított 30 napon belül be kell fejezni.
-
-(3) A (2) bekezdés szerinti határidőt a KNBSZ főigazgatója indokolt esetben, egy alkalommal 30 nappal meghosszabbíthatja.
+[^13]: Az 50. alcímet (178–180. §) a 24/2013. (XII. 20.) HM rendelet 18. § c) pontja hatályon kívül helyezte.

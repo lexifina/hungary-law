@@ -1,4 +1,4 @@
-## 118–120. §[^3]
+## 120/D. § A honvédségi szervezetek a szolgálatok megszervezésére vonatkozó intézkedésükben a 15. mellékletben felsorolt elnevezések használata mellett, a szolgálatok speciális jellegére zárójelek között feltüntetett szövegrésszel utalhatnak. Az intézkedésben pontosan meg kell határozni az elrendelt szolgálat jellegét, valamint fel kell tüntetni, hogy az mely szolgálattípusba sorolható.
 
 ## 33. Rész-szolgálatteljesítés
 
@@ -13,5 +13,3 @@ b) tájékoztatást arról, hogy a rész-szolgálatteljesítés kérelmezésére
 c) a szolgálatteljesítési idő egyenlőtlen beosztására vonatkozó javaslatot, ha az állomány tagja annak engedélyezését kezdeményezi.
 
 (3) A Hjt. 99. § (4) és (7) bekezdése esetén az illetmény nélküli szabadság megszüntetésével egyidejűleg a Hjt. 46. § (1) bekezdés j) pontja szerinti rendelkezési állományba helyezése megszűnik.
-
-[^3]: A 118–120. § a 277. § (2) bekezdése alapján 2014. január 1-jén lép hatályba.

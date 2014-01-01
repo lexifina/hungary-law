@@ -8,10 +8,8 @@ a) a Hjt. 32. § (1) bekezdés a) és b) pontja,
 
 b) a szerződéses állományba vétel, és
 
-c)[^1]
+c) a zászlós, a törzszászlós, a főtörzszászlós, a százados, az őrnagy, az alezredes, az ezredes vagy a tábornoki rendfokozattal rendszeresített szolgálati beosztásba történő kinevezés
 
 esetén.
 
 (3) Ha nem az állományilletékes parancsnok a munkáltatói jogkört gyakorló, akkor javaslatát – az érintett közvetlen szolgálati elöljárója előzetes véleményének figyelembe vételével – javaslati lapon terjeszti fel a munkáltatói jogkört gyakorló részére. Ha az állományilletékes parancsnok a munkáltatói jogkör gyakorlója, a javaslati lapok elkészítésének és felterjesztésének rendjét az alárendeltségébe tartozó honvédelmi szervezet vonatkozásában intézkedésben határozza meg.
-
-[^1]: A 6. § (2) bekezdés c) pontja a 277. § (2) bekezdése alapján 2014. január 1-jén lép hatályba.

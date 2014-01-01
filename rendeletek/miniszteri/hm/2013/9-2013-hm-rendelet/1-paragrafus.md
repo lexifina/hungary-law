@@ -18,7 +18,11 @@
 
 6. honvédelmi szervezet: a honvédek jogállásáról szóló 2012. évi CCV. törvény (a továbbiakban: Hjt.) 2. § 13. pontja szerinti honvédségi szervezet és a Katonai Nemzetbiztonsági Szolgálat (a továbbiakban: KNBSZ),
 
-7. honvédségi ösztöndíjas hallgató: az a honvédnek nem minősülő személy, akinek a felsőoktatási intézmény nappali munkarendű felsőfokú alapképzésében, mesterképzésében vagy osztatlan képzésében folytatott tanulmányait a honvédelemért felelős miniszter (a továbbiakban: miniszter) által alapított ösztöndíj elnyerését követően a Magyar Honvédség (a továbbiakban: Honvédség) ösztöndíjszerződés alapján támogatja, és ezért ösztöndíjszerződésben vállalja, hogy tanulmányait meghatározott időn belül befejezi, valamint ezt követően szolgálati viszonyt létesít, és azt meghatározott ideig fenntartja,
+7.[^1] honvédségi ösztöndíjas hallgató: az a honvédnek nem minősülő személy,
+
+a) aki felsőoktatási intézmény nappali munkarendű felsőfokú alapképzésében, mesterképzésében vagy osztatlan képzésében tanulmányokat folytat, vagy iskolai rendszerű, nappali munkarendű szakképzés keretében az Országos Képzési Jegyzékben szereplő államilag elismert szakképesítések közül a Honvédségben rendszeresített katonai beosztások betöltéséhez szükséges szakképesítést szerez meg, és
+
+b) akinek tanulmányait a honvédelemért felelős miniszter (a továbbiakban: miniszter) által alapított ösztöndíj elnyerését követően a Magyar Honvédség (a továbbiakban: Honvédség) ösztöndíjszerződés alapján támogatja, és ezért ösztöndíjszerződésben vállalja, hogy tanulmányait meghatározott időn belül befejezi, valamint ezt követően szolgálati viszonyt létesít, és azt meghatározott ideig fenntartja.
 
 8. katonai megfigyelő: a hivatásos és a szerződéses állomány (a továbbiakban együtt: állomány) műveleti területen fegyvertelen megfigyelői, szakértői, tanácsadói vagy összekötői feladatok végzésére irányuló külföldi szolgálatot teljesítő tagja,
 
@@ -65,3 +69,5 @@ n) a külföldi két- vagy többoldalú megbeszéléseken, szakmai egyeztetések
 15. szolgálati beosztás: az állomány tagja és az önkéntes tartalékos katona által betöltött munkakör,
 
 16. tanulmányi támogatás: a Honvédség által az állomány tagja részére vezénylés vagy tanulmányi szerződés alapján, tanulmányai folytatásához nyújtott támogatás.
+
+[^1]: Az 1. § 7. pontja a 24/2013. (XII. 20.) HM rendelet 6. §-ával megállapított szöveg.
