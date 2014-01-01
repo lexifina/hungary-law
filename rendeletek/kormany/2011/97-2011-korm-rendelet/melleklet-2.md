@@ -6,7 +6,7 @@
 
 | 1. | Kiemelt nagyberuházásként kutatási nagyberendezés és a hozzá tartozó építmények, valamint az ahhoz kapcsolódó logisztikai bázis és építményei | Szeged, 01392/19 | Általános építésügyi hatósági engedélyek | Szegedi Járási Hivatal járási építésügyi és örökségvédelmi hivatala | Csongrád Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
-| 2. | Környezetvédelmi hatósági engedélyezési eljárás a természetvédelmi kiegyenlítő intézkedés végrehajtásához szükséges környezetvédelmi hatósági engedélyezési eljárás kivételével | Alsó-Tisza-vidéki Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 2. | Környezetvédelmi hatósági engedélyezési eljárás a természetvédelmi kiegyenlítő intézkedés végrehajtásához szükséges környezetvédelmi hatósági engedélyezési eljárás kivételével | Alsó-Tisza-vidéki Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
 | 3. | A környezet- és település-egészségügyre, az egészségkárosító kockázatok és esetleges hatások felmérésére, a felszín alatti vizek minőségét, egészségkárosítás nélküli fogyaszthatóságát, felhasználhatóságát befolyásoló körülmények, tényezők vizsgálatára, lakott területtől (lakóépülettől) számított védőtávolságok véleményezésére, a talajjal, a szennyvizekkel, veszélyes hulladékokkal kapcsolatos közegészségügyi követelmények érvényesítésére, az emberi használatra szolgáló felszíni vizek védelmére, továbbá a levegő higiénés követelmények teljesülésére kiterjedően. | Csongrád Megyei Kormányhivatal Népegészségügyi Szakigazgatási Szerve | Országos Tisztifőorvosi Hivatal |
 
@@ -14,7 +14,7 @@
 
 | 5. | Útügyi hatósági engedélyek | Csongrád Megyei Kormányhivatal Közlekedési Felügyelőség | Nemzeti Közlekedési Hatóság Központ |
 
-| 6. | Vízjogi engedélyek | Alsó-Tisza-vidéki Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 6. | Vízügyi hatósági és vízvédelmi engedélyek | Alsó-Tisza-vidéki Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
 | 7. | A Magyar Kereskedelmi Engedélyezési Hivatalról és a területi mérésügyi és műszaki biztonsági hatóságokról szóló 320/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdése és 13. § (2) bekezdése szerinti engedélyek | Csongrád Megyei Kormányhivatal Szegedi Mérésügyi és Műszaki Biztonsági Hatósága (Szeged) | Magyar Kereskedelmi Engedélyezési Hivatal |
 
@@ -46,7 +46,7 @@
 
 | 21. | A jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos hatósági eljárások | Csongrád Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-2. melléklet a 97/2011. (VI. 29.) Korm. rendelethez[^10]
+2. melléklet a 97/2011. (VI. 29.) Korm. rendelethez[^11]
 
 A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárásokban közreműködő hatáskörrel rendelkező szakhatóságok
 
@@ -56,7 +56,9 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 1. | építésügyi | Szegedi Járási Hivatal járási építésügyi és örökségvédelmi hivatala | Csongrád Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
-| 2. | környezetvédelem, természetvédelem és vízügy | Alsó-Tisza-vidéki Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 2. | környezetvédelem és természetvédelem | Alsó-Tisza-vidéki Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+
+| 2a. | vízügy | Alsó-Tisza-vidéki Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
 | 3. | közlekedés |  |  |
 
@@ -102,6 +104,8 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 16. | területrendezés | Csongrád Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatalának Állami Főépítésze | területrendezésért felelős miniszter |
 
-| 17. | A radioaktív anyagoknak a levegőbe és vízbe történő kibocsátásának, a vizek és víztartó képződmények radioaktív és hőszennyezés elleni védelmének, valamint a levegő és a vízi környezet radioaktív szennyeződése ellenőrzésének vizsgálata, a kibocsátási határértékek, valamint az ellenőrzési követelményeknek és a környezetvédelmi, természetvédelmi és vízügyi felügyelőség részére adandó jelentések rendszerének a meghatározása | Alsó-Tisza-vidéki Környezetvédelmi és Természetvédelmi és Vízügyi felügyelőség | Országos Környezetvédelmi és Természetvédelmi és Vízügyi Főfelügyelőség |
+| 17. | A radioaktív anyagoknak a levegőbe történő kibocsátásának, valamint a levegő radioaktív szennyeződése ellenőrzésének vizsgálata, a kibocsátási határértékek, valamint az ellenőrzési követelményeknek és a környezetvédelmi és természetvédelmi felügyelőség részére adandó jelentések rendszerének a meghatározása | Alsó-Tisza-vidéki Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
-[^10]: A 2. melléklet a 249/2011. (XII. 1.) Korm. rendelet 3. §-a, a 166/2012. (VII. 19.) Korm. rendelet 5. §-a, a 296/2012. (X. 17.) Korm. rendelet 52. § b) pontja, a 394/2012. (XII. 20.) Korm. rendelet 46. §-a, a 67/2013. (III. 8.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
+| 18. | A radioaktív anyagoknak a vízbe történő kibocsátásának, a vizek és víztartó képződmények radioaktív és hőszennyezés elleni védelmének, valamint a vízi környezet radioaktív szennyeződése ellenőrzésének vizsgálata, a kibocsátási határértékek, valamint az ellenőrzési követelményeknek és a vízügyi hatóság részére adandó jelentések rendszerének a meghatározása | Alsó-Tisza-vidéki Vízügyi Hatóság | Országos Vízügyi Hatóság |
+
+[^11]: A 2. melléklet a 249/2011. (XII. 1.) Korm. rendelet 3. §-a, a 166/2012. (VII. 19.) Korm. rendelet 5. §-a, a 296/2012. (X. 17.) Korm. rendelet 52. § b) pontja, a 394/2012. (XII. 20.) Korm. rendelet 46. §-a, a 67/2013. (III. 8.) Korm. rendelet 10. § b) pontja, az 527/2013. (XII. 30.) Korm. rendelet 99. § (3) bekezdése szerint módosított szöveg.

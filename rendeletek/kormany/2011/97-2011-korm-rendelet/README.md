@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-97-20-2
 | 2013-01-01 | 2011-97-20-22.7 | 259/2011. (XII. 7.) Korm. rendelet |
 | 2013-03-09 | 2011-97-20-22.8 | 259/2011. (XII. 7.) Korm. rendelet |
 | 2013-06-25 | 2011-97-20-22.9 | 225/2013. (VI. 24.) Korm. rendelet |
+| 2014-01-01 | 2011-97-20-22.10 | 527/2013. (XII. 30.) Korm. rendelet |
