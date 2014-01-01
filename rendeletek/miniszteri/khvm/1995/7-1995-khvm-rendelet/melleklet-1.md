@@ -24,33 +24,9 @@ Közlekedési szervek:
 
 Vízügyi szervek:
 
-48. Országos Vízügyi Főigazgatóság
+48–60.[^9]
 
-49. Alsó-Duna-völgyi Vízügyi Igazgatóság
-
-50. Alsó-Tisza Vidéki Vízügyi Igazgatóság
-
-51. Dél-dunántúli Vízügyi Igazgatóság
-
-52. Észak-dunántúli Vízügyi Igazgatóság
-
-53. Észak-magyarországi Vízügyi Igazgatóság
-
-54. Felső-Tisza Vidéki Vízügyi Igazgatóság
-
-55. Körös Vidéki Vízügyi Igazgatóság
-
-56. Közép-dunántúli Vízügyi Igazgatóság
-
-57. Közép-Duna-völgyi Vízügyi Igazgatóság
-
-58. Közép-Tisza Vidéki Vízügyi Igazgatóság
-
-59. Nyugat-dunántúli Vízügyi Igazgatóság
-
-60. Tiszántúli Vízügyi Igazgatóság
-
-61.[^9]
+61.[^10]
 
 62. Vízügyi Múzeum, Levéltár és Könyvgyűjtemény
 
@@ -74,4 +50,5 @@ Vasútegészségügyi szervek:
 [^6]: Az 1. melléklet 5. pontja a 95/2006. (XII. 27.) GKM rendelet 17. §-ával megállapított szöveg.
 [^7]: Az 1. melléklet 6–25. pontját a 95/2006. (XII. 27.) GKM rendelet 75. § (2) bekezdésének b) pontja hatályon kívül helyezte.
 [^8]: Az 1. számú melléklet 27–46. pontját a 31/2001. (IX. 14.) KöViM rendelet 3. § c) pontja hatályon kívül helyezte.
-[^9]: Az 1. számú melléklet 61. pontját a 31/2001. (IX. 14.) KöViM rendelet 3. § c) pontja hatályon kívül helyezte.
+[^9]: Az 1. számú melléklet 48–60. pontját a 75/2013. (XII. 18.) BM rendelet 31. § h) pontja hatályon kívül helyezte. E módosító rendelet 27. §-a alapján rendelkezéseit a benyújtott, de még el nem bírált kérelmek esetén is alkalmazni kell.
+[^10]: Az 1. számú melléklet 61. pontját a 31/2001. (IX. 14.) KöViM rendelet 3. § c) pontja hatályon kívül helyezte.
