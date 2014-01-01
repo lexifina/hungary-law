@@ -8,12 +8,15 @@ a) az illetményszámfejtő hely megnevezését és címét,
 
 b) a munkáltató nevét, címét és törzsszámát,
 
-c) a szakfeladat megnevezését és számát,
+c)[^13] a kormányzati funkció, és szükség szerint a szakfeladat megnevezését és számát,
 
 d) a szervezeti egység megnevezését, számát és funkcionális bontás számát,
 
-e) a főkönyvi számlaszámot, témaszámot,
+e)[^14] a témaszámot,
 
 f) a munkahely nevét és címét, és
 
 g) a foglalkoztatott természetes személyazonosító adatait.
+
+[^13]: A 8. § (2) bekezdés c) pontja a 497/2013. (XII. 29.) Korm. rendelet 80. § 3. pontja szerint módosított szöveg.
+[^14]: A 8. § (2) bekezdés e) pontja a 497/2013. (XII. 29.) Korm. rendelet 76. §-ával megállapított szöveg.

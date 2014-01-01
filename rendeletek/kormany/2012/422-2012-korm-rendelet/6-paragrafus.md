@@ -2,7 +2,7 @@
 
 a) megküldi a központosított illetményszámfejtéshez szükséges adatokat, okiratokat és bizonylatokat,
 
-b) számfejti a nem rendszeres személyi juttatásokat, és erről adatszolgáltatást teljesít az illetményszámfejtő hely részére,
+b)[^12] számfejti az egyéb személyi juttatásokat, és erről adatszolgáltatást teljesít az illetményszámfejtő hely részére, ha az 5. § (3) bekezdés k) pontja szerinti külön megállapodás ettől eltérően nem rendelkezik,
 
 c) átutalja a nettó személyi juttatásokat és a levonásokat,
 
@@ -27,3 +27,5 @@ l) teljesíti az Art. 16. § (4) bekezdésében meghatározott, biztosítottak b
 (2) A központi költségvetési szerv esetében – eltérő megállapodás hiányában – az illetményszámfejtő hely gondoskodik a személyi jövedelemadó megállapításával és elszámolásával kapcsolatos feladatok ellátásáról, az adó és járulék megfizetéséről, a bevallások teljesítéséről, továbbá az általa kifizetett pénzbeli ellátások fedezetének igényléséről és elszámolásáról.
 
 (3) Az önkormányzatok nettó finanszírozása körébe tartozó szervek a nettó személyi juttatások és levonások átutalását jogszabályban meghatározottak szerint látják el.
+
+[^12]: A 6. § (1) bekezdés b) pontja a 497/2013. (XII. 29.) Korm. rendelet 75. §-ával megállapított szöveg.

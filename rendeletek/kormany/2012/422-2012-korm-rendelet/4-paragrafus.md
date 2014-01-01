@@ -1,4 +1,4 @@
-## 3. § A központosított illetményszámfejtés a kincstár központi szerve (a továbbiakban: központi szerv) által biztosított, fejlesztett és működtetett számítógépes programmal (a továbbiakban: illetményszámfejtő program) történik.
+## 3. §[^6] A központosított illetményszámfejtés a kincstár központi szerve (a továbbiakban: központi szerv) által biztosított, fejlesztett és működtetett számítógépes programmal (a továbbiakban: illetményszámfejtő program) – a Honvédelmi Minisztérium, az Országos Nyugdíjbiztosítási Főigazgatóság és intézményei, az Eötvös Loránd Tudományos Egyetem, valamint a Semmelweis Egyetem esetében a költségvetési szerv saját illetményszámfejtő programjával – történik.
 
 ## 4. § Az illetményszámfejtő program olyan egységes munkaügyi, ügyviteli, eljárási és információs rendszer, amelyen keresztül
 
@@ -12,7 +12,7 @@ d) a magán-nyugdíjpénztári tagság nyilvántartásával, az önkéntes kölc
 
 e) a személyi jövedelemadózással összefüggő munkáltatói, kifizetői feladatok ellátása,
 
-f) a számfejtett személyi juttatások tekintetében a központi költségvetést, a Nemzeti Foglalkoztatási Alapot, a társadalombiztosítás pénzügyi alapjait, az önkéntes kölcsönös biztosító pénztári számlákat megillető befizetési kötelezettségek megállapítása,
+f)[^7] a számfejtett személyi juttatások tekintetében a központi költségvetést, az önkéntes kölcsönös biztosító pénztári számlákat megillető befizetési kötelezettségek megállapítása,
 
 g) a nettó finanszírozáshoz szükséges információszolgáltatás teljesítése,
 
@@ -21,3 +21,6 @@ h) a bírósági végrehajtásról szóló törvény (a továbbiakban: Vht.) sze
 i) a bér- és munkaügyi statisztikai adatszolgáltatás teljesítése
 
 történik.
+
+[^6]: A 3. § a 497/2013. (XII. 29.) Korm. rendelet 73. §-ával megállapított szöveg.
+[^7]: A 4. § f) pontja a 497/2013. (XII. 29.) Korm. rendelet 81. § (1) bekezdése szerint módosított szöveg.

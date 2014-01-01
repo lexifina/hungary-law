@@ -16,9 +16,9 @@ c) biztosítja az illetményszámfejtő program jogszabályi megfelelőségét, 
 
 a) átveszi, alaki és tartalmi szempontból ellenőrzi és feldolgozza, valamint számfejti a személyi juttatásokra vonatkozó, a központosított illetményszámfejtéshez a munkáltató által megküldött okiratokat, bizonylatokat,
 
-b) ellátja a nettó személyi juttatások, közterhek megállapításával, a létszám, bér, társadalombiztosítási, személyi jövedelemadóztatási és egyéb információszolgáltatási feladatokat, az egészségbiztosítási statisztikai adatszolgáltatási kötelezettséget,
+b)[^8] ellátja az illetmények, munkabérek számfejtésével, a közterhek megállapításával, a létszám, bér, társadalombiztosítási, személyi jövedelemadóztatási és egyéb információszolgáltatási feladatokat, az egészségbiztosítási statisztikai adatszolgáltatási kötelezettséget,
 
-c) teljesíti az Áht. 83. § (1) bekezdése szerinti finanszírozású munkáltató esetében az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) 31. § (2) bekezdése szerinti bevallási kötelezettséget és elvégzi ezen bevallások önellenőrzését,
+c)[^9] teljesíti a helyi önkormányzat, helyi nemzetiségi önkormányzat munkáltató esetében az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) 31. § (2) bekezdése szerinti bevallási kötelezettséget és elvégzi ezen bevallások önellenőrzését,
 
 d) továbbítja a munkáltató Art. 16. § (4) bekezdése szerint teljesített biztosítotti bejelentési kötelezettségét,
 
@@ -26,7 +26,7 @@ e) átutalja a foglalkoztatott nettó személyi juttatásából a foglalkoztatot
 
 f) elkészíti a fizetési jegyzéket, előállítja a nettó személyi juttatások átutalásához szükséges adatállományokat a foglalkoztatottak fizetési számlájára történő utaláshoz,
 
-g) ellátja az Áht. 83. § (1) bekezdése szerinti finanszírozású szervek esetében a személyi jövedelemadó megállapításával és elszámolásával kapcsolatos feladatokat,
+g)[^10] ellátja a helyi önkormányzat, helyi nemzetiségi önkormányzat esetében a személyi jövedelemadó megállapításával és elszámolásával kapcsolatos feladatokat,
 
 h) ellátja a társadalombiztosítási kifizetőhelyi feladatokat,
 
@@ -41,3 +41,10 @@ l) gondoskodik az illetményszámfejtéssel, a társadalombiztosítási kifizet�
 m) gondoskodik az adatvédelmi, adatbiztonsági előírások betartásáról,
 
 n) gondoskodik a jelentőfelelős szakmai tájékoztatásáról.
+
+(4)[^11] Az illetményszámfejtő hely a (3) bekezdés c) pontja szerinti bevallásokat technikai adószámon teljesíti.
+
+[^8]: Az 5. § (3) bekezdés b) pontja a 497/2013. (XII. 29.) Korm. rendelet 74. § (1) bekezdésével megállapított szöveg.
+[^9]: Az 5. § (3) bekezdés c) pontja a 497/2013. (XII. 29.) Korm. rendelet 80. § 1. pontja szerint módosított szöveg.
+[^10]: Az 5. § (3) bekezdés g) pontja a 497/2013. (XII. 29.) Korm. rendelet 80. § 2. pontja szerint módosított szöveg.
+[^11]: Az 5. § (4) bekezdését a 74. § (2) bekezdése iktatta be.

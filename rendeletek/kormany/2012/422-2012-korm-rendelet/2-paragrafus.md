@@ -2,7 +2,7 @@
 
 ## 2. § E rendelet alkalmazásában
 
-1. bér: a jogviszony alapján a foglalkoztatott megillető bér, illetmény,
+1.[^2]
 
 2. bér változó elemei: helyettesítési díj, műszakpótlék, éjszakai munkavégzés pótléka, ügyeleti díj, nem rendszeres bérpótlék, vagy a nem rendszeres munkavégzésért járó egyéb díjazás, távolléti díj,
 
@@ -18,6 +18,15 @@
 
 8. nettó személyi juttatás: az elszámolt személyi juttatás levonásokkal csökkentett összege,
 
-9. személyi juttatás: a jogviszonyra vonatkozó jogszabály, a felek megállapodása, illetve a munkáltató rendelkezése alapján járó bér, illetmény, egyéb juttatás és költségtérítés,
+9.[^3] személyi juttatás: az egységes rovatrend K1. Személyi juttatások rovatain elszámolandó kiadások, ide nem értve a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 1. melléklet 8.19.b) pontja szerinti adómentes reprezentációs és üzleti ajándék kiadásokat, valamint az államháztartás valamely alrendszerébe nem tartozó szervezetnél a foglalkoztatottat megillető díjazás, költségtérítés,
 
 10. teljesítési időszak: az az időtartam, amely alatt rendkívüli, illetve a bér változó elemeinek alapját képező munkavégzés történt.
+
+11.[^4] illetmény, munkabér: az egységes rovatrend K1101. Törvény szerinti illetmények, munkabérek rovatán elszámolt személyi juttatások, az államháztartás valamely alrendszerébe nem tartozó szervezetnél a foglalkoztatottat megillető munkabér, költségtérítés,
+
+12.[^5] egyéb személyi juttatás: a 11. pont hatálya alá nem tartozó személyi juttatás.
+
+[^2]: A 2. § 1. pontját a 497/2013. (XII. 29.) Korm. rendelet 81. § (2) bekezdése hatályon kívül helyezte.
+[^3]: A 2. § 9. pontja a 497/2013. (XII. 29.) Korm. rendelet 72. § (1) bekezdésével megállapított szöveg.
+[^4]: A 2. § 11. pontját a 497/2013. (XII. 29.) Korm. rendelet 72. § (2) bekezdése iktatta be.
+[^5]: A 2. § 12. pontját a 497/2013. (XII. 29.) Korm. rendelet 72. § (2) bekezdése iktatta be.
