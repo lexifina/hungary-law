@@ -4,7 +4,7 @@
 
 (2) E rendelet alkalmazásában
 
-a)[^2] fenntartó: a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 4. § (1) bekezdés m) pontja, illetve a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 5. § s) pontja szerinti személy vagy szervezet;
+a)[^2] fenntartó: a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 4. § (1) bekezdés m) pontja, illetve a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 5. § s) pontja szerinti személy vagy szervezet, a Szociális és Gyermekvédelmi Főigazgatóság kivételével;
 
 b) szolgáltatás:
 
@@ -55,7 +55,7 @@ l)[^10] igazgatóság: a Magyar Államkincstár területi szerve.
 (4)[^12] A támogató szolgáltatás, a közösségi ellátások, az utcai szociális munka, a krízisközpont és a Biztos Kezdet Gyerekház támogatására szolgáló fejezeti kezelésű előirányzat (a továbbiakban: fejezeti kezelésű előirányzat) terhére elszámolhatók a támogatási rendszer működtetésével összefüggő kiadások, amelyek mértéke nem haladhatja meg a fejezeti kezelésű előirányzat három százalékát.
 
 [^1]: Az 1. § (1) bekezdése a 369/2013. (X. 24.) Korm. rendelet 56. § (5) bekezdés a) pontja szerint módosított szöveg.
-[^2]: Az 1. § (2) bekezdés a) pontja a 140/2011. (VII. 21.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § (2) bekezdés a) pontja a 140/2011. (VII. 21.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 89/2013. (III. 28.) Korm. rendelet 3. § (2) bekezdése szerint módosított szöveg.
 [^3]: Az 1. § (2) bekezdés b) pont be) alpontját újonnan a 322/2013. (VIII. 28.) Korm. rendelet 1. §-a iktatta be.
 [^4]: Az 1. § (2) bekezdés b) pont bf) alpontját a 140/2011. (VII. 21.) Korm. rendelet 1. § (2) bekezdése iktatta be.
 [^5]: Az 1. § (2) bekezdés b) pont bg) alpontját a 140/2011. (VII. 21.) Korm. rendelet 1. § (2) bekezdése iktatta be.

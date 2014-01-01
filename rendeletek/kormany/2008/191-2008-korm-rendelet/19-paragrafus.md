@@ -10,11 +10,13 @@
 
 (3b)[^136] Ha a Biztos Kezdet Gyerekházban a szolgáltatást adott hónapban átlagosan napi
 
-a) hétnél kevesebb gyermek veszi igénybe olyan településen, ahol legfeljebb ezer állandó lakos él,
+a) ötnél kevesebb gyermek veszi rendszeresen igénybe olyan településen, ahol legfeljebb ezer állandó lakos él,
 
-b) tíznél kevesebb gyermek veszi igénybe olyan településen, ahol ezernél több állandó lakos él,
+b) hétnél kevesebb gyermek veszi rendszeresen igénybe olyan településen, ahol ezernél több, de legfeljebb kétezer állandó lakos él,
 
-## a tárgyévi működési támogatás adott hónapra számított részét vissza kell fizetni.
+c) tíznél kevesebb gyermek veszi rendszeresen igénybe olyan településen, ahol kétezernél több állandó lakos él,
+
+a tárgyévi működési támogatás adott hónapra számított részét vissza kell fizetni.
 
 (4) Ha kiegészítő működési támogatás biztosítása esetén annak feltételeit nem vagy csak részben teljesítik, a tárgyévi kiegészítő működési támogatás arányos részét vissza kell fizetni.
 
@@ -32,6 +34,6 @@ b)[^137] a pályázatban vagy az ahhoz csatolt, illetve a finanszírozási szerz
 [^133]: A 19. § (2) bekezdése a 89/2013. (III. 28.) Korm. rendelet 3. § (1) bekezdés e) pontja szerint módosított szöveg.
 [^134]: A 19. § (3) bekezdése a 140/2011. (VII. 21.) Korm. rendelet 14. § v) pontja szerint módosított szöveg.
 [^135]: A 19. § (3a) bekezdését a 140/2011. (VII. 21.) Korm. rendelet 11. § (1) bekezdése iktatta be.
-[^136]: A 19. § (3b) bekezdését a 322/2013. (VIII. 28.) Korm. rendelet 5. §-a iktatta be.
+[^136]: A 19. § (3b) bekezdését a 322/2013. (VIII. 28.) Korm. rendelet 5. §-a iktatta be, szövege a 489/2013. (XII. 18.) Korm. rendelet 33. §-ával megállapított szöveg.
 [^137]: A 19. § (6) bekezdés b) pontja a 140/2011. (VII. 21.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
 [^138]: A 19. § (7) bekezdése a 332/2010. (XII. 27.) Korm. rendelet 30. § (2) bekezdés b) pontja szerint módosított szöveg.
