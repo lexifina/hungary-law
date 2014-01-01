@@ -4,4 +4,6 @@
 
 (2) Az új egyen- vagy formaruhák biztosításáig az e rendelet hatálybalépését megelőzően használt egyen- vagy formaruhák tovább használhatók azok viselési idejének lejártáig.
 
-(3) A rendészeti feladatokat ellátó szerv vagy személy irányításáért vagy felügyeletéért felelős miniszter a 2. § (11) bekezdésben meghatározott feladatainak ellátásáról 2013. december 31-ig gondoskodik.
+(3)[^1] A rendészeti feladatokat ellátó szerv vagy személy irányításáért vagy felügyeletéért felelős miniszter az 1. § (11) bekezdésben meghatározott feladatainak ellátásáról 2014. február 28-ig gondoskodik.
+
+[^1]: A 4. § (3) bekezdése a 74/2013. (XII. 18.) BM rendelet 4. §-a szerint módosított szöveg.
