@@ -56,7 +56,8 @@ c) engedélyezését a polgármester a településképi véleményében nem java
 
 (6)[^9] Az építésügyi hatóság azt a személyt, aki tervezői jogosultság nélkül, vállalkozás nyilvántartási jelölés nélkül végzett építési engedélyhez kötött építészeti-műszaki tervezési tevékenységet, 100 000 forintig terjedő közigazgatási bírsággal sújtja.
 
-(7) Az építésügyi hatóság a Ket. alapján az eljárást felfüggeszti, ha az eljárásban a környezetvédelmi, természetvédelmi és vízügyi felügyelőség szakhatósági állásfoglalásában megállapította, hogy a tevékenység várható környezeti hatásai jelentősek. A felfüggesztésről szóló végzésnek tartalmaznia kell a szakhatóságként eljáró környezetvédelmi, természetvédelmi és vízügyi felügyelőség megnevezését, valamint állásfoglalása rendelkező részét és indokolását.
+(7)[^10] Az építésügyi hatóság a Ket. alapján az eljárást felfüggeszti, ha az eljárásban a környezetvédelmi és természetvédelmi felügyelőség szakhatósági állásfoglalásában megállapította, hogy a tevékenység várható környezeti hatásai jelentősek. A felfüggesztésről szóló végzésnek tartalmaznia kell a szakhatóságként eljáró környezetvédelmi és természetvédelmi felügyelőség megnevezését, valamint állásfoglalása rendelkező részét és indokolását.
 
 [^8]: A 18. § (1) bekezdés f) pontja a 266/2013. (VII. 11.) Korm. rendelet 53. § (4) bekezdés a) pontja szerint módosított szöveg.
 [^9]: A 18. § (6) bekezdése a 266/2013. (VII. 11.) Korm. rendelet 53. § (4) bekezdés b) pontja szerint módosított szöveg.
+[^10]: A 18. § (7) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 123. § a) pontja szerint módosított szöveg.

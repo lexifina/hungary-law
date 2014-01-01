@@ -1,16 +1,16 @@
-## 59. §[^61] A 60. § (1) bekezdésében meghatározott bontási tevékenység csak akkor kezdhető meg, ha a kérelmező a tevékenység megkezdése előtt legalább tizenöt nappal a bontási szándékára irányuló kérelmét az építésfelügyeleti hatósághoz benyújtotta, és a bontási tevékenység megkezdését az építésfelügyeleti hatóság jogszerű hallgatással tudomásul véve az eljárás megindulásától számított tíz napon belül nem tiltotta meg.
+## 59. §[^65] A 60. § (1) bekezdésében meghatározott bontási tevékenység csak akkor kezdhető meg, ha a kérelmező a tevékenység megkezdése előtt legalább tizenöt nappal a bontási szándékára irányuló kérelmét az építésfelügyeleti hatósághoz benyújtotta, és a bontási tevékenység megkezdését az építésfelügyeleti hatóság jogszerű hallgatással tudomásul véve az eljárás megindulásától számított tíz napon belül nem tiltotta meg.
 
 60. § (1) Bontás tudomásulvételéhez kötött minden olyan bontási tevékenység, amely nem tartozik a 45. § (1) bekezdésében felsorolt bontási engedély köteles és a 2. mellékletben felsorolt – bontási engedélyhez vagy bontás tudomásulvételéhez nem kötött – bontási tevékenységek körébe.
 
-(2)[^62] Az (1) bekezdés szerinti bontási tevékenységet az építésfelügyeleti hatóság bontás tudomásul vételéről szóló döntésétől számított egy évig lehet végezni.
+(2)[^66] Az (1) bekezdés szerinti bontási tevékenységet az építésfelügyeleti hatóság bontás tudomásul vételéről szóló döntésétől számított egy évig lehet végezni.
 
-(3)[^63] Az (1) bekezdés szerinti tevékenység tudomásulvételére irányuló kérelmet papír alapon vagy elektronikus úton az ÉTDR rendszeren keresztül lehet benyújtani.
+(3)[^67] Az (1) bekezdés szerinti tevékenység tudomásulvételére irányuló kérelmet papír alapon vagy elektronikus úton az ÉTDR rendszeren keresztül lehet benyújtani.
 
 (4) A bontási tevékenység tudomásulvételére irányuló kérelem tartalmáról az eljárás megindulásától számított három napon belül értesíteni kell az építmény tulajdonosát, ha az nem egyezik a bontást kérő személyével.
 
 (5) A bontási tevékenység megkezdésének tudomásulvételére irányuló kérelem tartalmazza:
 
-a)[^64] az építtető nevét, megnevezését, lakcímét, szervezet esetén székhelyét, az Épkiv. 29. § (2) bekezdésében meghatározott adatokat,
+a)[^68] az építtető nevét, megnevezését, lakcímét, szervezet esetén székhelyét, az Épkiv. 29. § (2) bekezdésében meghatározott adatokat,
 
 b) a bontási tevékenységgel érintett telek címét, helyrajzi számát,
 
@@ -20,9 +20,9 @@ d) a kérelemhez csatolt mellékletek felsorolását,
 
 e) az építtető aláírását.
 
-(6)[^65] A bontási tevékenység megkezdésének tudomásulvételére irányuló kérelemhez mellékelni kell
+(6)[^69] A bontási tevékenység megkezdésének tudomásulvételére irányuló kérelemhez mellékelni kell
 
-a)[^66] a 8. melléklet III. rész 6. pontjában meghatározott építészeti-műszaki dokumentációt,
+a)[^70] a 8. melléklet III. rész 6. pontjában meghatározott építészeti-műszaki dokumentációt,
 
 b) műemléki jelentőségű területen végzett bontás tudomásulvételéhez kötött tevékenységek esetében az örökségvédelmi hatóság hozzájáruló nyilatkozatát,
 
@@ -38,7 +38,7 @@ c) az építmény elbontását jogszabály vagy ingatlan-nyilvántartási bejegy
 
 (8) Az építésfelügyeleti hatóság a bontási tevékenység megkezdését határozattal megtiltja, ha
 
-a)[^67] a kérelem nem elégíti ki az Épkiv.-ben előírtakat,
+a)[^71] a kérelem nem elégíti ki az Épkiv.-ben előírtakat,
 
 b) a kivitelezés megkezdésére, végzésére vonatkozó előírások nem teljesülnek.
 
@@ -52,7 +52,7 @@ db) a tervezett bontási tevékenység veszélyezteti-e az életet vagy a vagyon
 
 dc) az építmény elbontását jogszabály vagy ingatlan-nyilvántartási bejegyzés tiltja.
 
-(9)[^68] A határozat rendelkező része a Ket. 72. § (1) bekezdésében foglaltakon kívül tartalmazza:
+(9)[^72] A határozat rendelkező része a Ket. 72. § (1) bekezdésében foglaltakon kívül tartalmazza:
 
 a) az ÉTDR ügy- és iratazonosítóját,
 
@@ -82,22 +82,22 @@ bb) műemléki jelentőségű terület esetén az örökségvédelmi hatóságga
 
 (13) A jogerős döntést az építtetővel vagy meghatalmazottjával, a jogerőre emelkedés időpontjának tudomásra jutásától számított három napon belül a rendelkezésének megfelelő módon kell közölni.
 
-(14)[^69] Az építésfelügyeleti hatóság bontás, vagy az építőipari kivitelezési tevékenység megkezdésének tudomásulvétele esetén:
+(14)[^73] Az építésfelügyeleti hatóság bontás, vagy az építőipari kivitelezési tevékenység megkezdésének tudomásulvétele esetén:
 
-a)[^70] a munkaügyi ellenőrzésről szóló 1996. évi LXXV. törvény 3/A. § (2) bekezdésében meghatározott adatokat a bontás, vagy az építőipari kivitelezési tevékenység megkezdésének helye szerint illetékes fővárosi és megyei kormányhivatal munkaügyi felügyelőségének továbbítja,
+a)[^74] a munkaügyi ellenőrzésről szóló 1996. évi LXXV. törvény 3/A. § (2) bekezdésében meghatározott adatokat a bontás, vagy az építőipari kivitelezési tevékenység megkezdésének helye szerint illetékes fővárosi és megyei kormányhivatal munkaügyi felügyelőségének továbbítja,
 
 b) az adózás rendjéről szóló 2003. évi XCII. törvény 3. számú melléklete G) részének 6. pontja szerinti adatokat a Nemzeti Adó- és Vámhivatalnak minden hónap 5. napjáig megküldi és egyidejűleg a lakás bontásának tudomásulvétele esetén a Központi Statisztikai Hivatalt, továbbá a Magyar Állam javára szóló jelzáloggal terhelt lakás bontásának tudomásulvétele esetén a Magyar Államkincstárt tájékoztatja.
 
-(15)[^71] Az építtető a bontási tevékenység befejezésének tényét, a befejezéstől számított tizenöt napon belül az építésfelügyeleti hatósággal közli, és azt a hatóság az ÉTDR rendszerben nyilvántartja. A közlésnek melléklete nincs.
+(15)[^75] Az építtető a bontási tevékenység befejezésének tényét, a befejezéstől számított tizenöt napon belül az építésfelügyeleti hatósággal közli, és azt a hatóság az ÉTDR rendszerben nyilvántartja. A közlésnek melléklete nincs.
 
-[^61]: Az 59. § a 109/2013. (IV. 9.) Korm. rendelet 4. § (9) bekezdésével megállapított szöveg.
-[^62]: A 60. § (2) bekezdése a 67/2013. (III. 8.) Korm. rendelet 18. § (6) bekezdés 11. pontja szerint módosított szöveg.
-[^63]: A 60. § (3) bekezdése a 67/2013. (III. 8.) Korm. rendelet 18. § (6) bekezdés 12. pontja szerint módosított szöveg.
-[^64]: A 60. § (5) bekezdés a) pontja a 109/2013. (IV. 9.) Korm. rendelet 4. § (11) bekezdés k) pont ka) alpontja szerint módosított szöveg.
-[^65]: A 60. § (6) bekezdés nyitó szövegrésze a 67/2013. (III. 8.) Korm. rendelet 18. § (6) bekezdés 13. pontja szerint módosított szöveg.
-[^66]: A 60. § (6) bekezdés a) pontja a 67/2013. (III. 8.) Korm. rendelet 18. § (6) bekezdés 14. pontja szerint módosított szöveg.
-[^67]: A 60. § (8) bekezdés a) pontja a 67/2013. (III. 8.) Korm. rendelet 18. § (6) bekezdés 15. pontja szerint módosított szöveg.
-[^68]: A 60. § (9) bekezdés nyitó szövegrésze a 67/2013. (III. 8.) Korm. rendelet 18. § (7) bekezdés g) pontja szerint módosított szöveg.
-[^69]: A 60. § (14) bekezdés nyitó szövegrésze a 109/2013. (IV. 9.) Korm. rendelet 4. § (11) bekezdés k) pont kb) alpontja szerint módosított szöveg.
-[^70]: A 60. § (14) bekezdés a) pontja a 109/2013. (IV. 9.) Korm. rendelet 4. § (11) bekezdés k) pont kb) alpontja szerint módosított szöveg.
-[^71]: A 60. § (15) bekezdése a 109/2013. (IV. 9.) Korm. rendelet 4. § (11) bekezdés k) pont kc) alpontja szerint módosított szöveg.
+[^65]: Az 59. § a 109/2013. (IV. 9.) Korm. rendelet 4. § (9) bekezdésével megállapított szöveg.
+[^66]: A 60. § (2) bekezdése a 67/2013. (III. 8.) Korm. rendelet 18. § (6) bekezdés 11. pontja szerint módosított szöveg.
+[^67]: A 60. § (3) bekezdése a 67/2013. (III. 8.) Korm. rendelet 18. § (6) bekezdés 12. pontja szerint módosított szöveg.
+[^68]: A 60. § (5) bekezdés a) pontja a 109/2013. (IV. 9.) Korm. rendelet 4. § (11) bekezdés k) pont ka) alpontja szerint módosított szöveg.
+[^69]: A 60. § (6) bekezdés nyitó szövegrésze a 67/2013. (III. 8.) Korm. rendelet 18. § (6) bekezdés 13. pontja szerint módosított szöveg.
+[^70]: A 60. § (6) bekezdés a) pontja a 67/2013. (III. 8.) Korm. rendelet 18. § (6) bekezdés 14. pontja szerint módosított szöveg.
+[^71]: A 60. § (8) bekezdés a) pontja a 67/2013. (III. 8.) Korm. rendelet 18. § (6) bekezdés 15. pontja szerint módosított szöveg.
+[^72]: A 60. § (9) bekezdés nyitó szövegrésze a 67/2013. (III. 8.) Korm. rendelet 18. § (7) bekezdés g) pontja szerint módosított szöveg.
+[^73]: A 60. § (14) bekezdés nyitó szövegrésze a 109/2013. (IV. 9.) Korm. rendelet 4. § (11) bekezdés k) pont kb) alpontja szerint módosított szöveg.
+[^74]: A 60. § (14) bekezdés a) pontja a 109/2013. (IV. 9.) Korm. rendelet 4. § (11) bekezdés k) pont kb) alpontja szerint módosított szöveg.
+[^75]: A 60. § (15) bekezdése a 109/2013. (IV. 9.) Korm. rendelet 4. § (11) bekezdés k) pont kc) alpontja szerint módosított szöveg.

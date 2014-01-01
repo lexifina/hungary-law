@@ -1,4 +1,4 @@
-## 75. §[^82] E rendeletnek a környezeti hatások jelentőségének vizsgálatával összefüggésben egyes kormányrendeletek módosításáról szóló 281/2013. (VII. 24.) Korm. rendelettel (a továbbiakban: Mód Kr.) megállapított rendelkezéseit a Mód Kr. hatálybalépését[^83] követően indult vagy megismételt eljárásokban kell alkalmazni.
+## 75. §[^87] E rendeletnek a környezeti hatások jelentőségének vizsgálatával összefüggésben egyes kormányrendeletek módosításáról szóló 281/2013. (VII. 24.) Korm. rendelettel (a továbbiakban: Mód Kr.) megállapított rendelkezéseit a Mód Kr. hatálybalépését[^88] követően indult vagy megismételt eljárásokban kell alkalmazni.
 
-[^82]: A 75. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 281/2013. (VII. 24.) Korm. rendelet 8. §-a iktatta be.
-[^83]: A hatálybalépés időpontja 2013. augusztus 1.
+[^87]: A 75. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 281/2013. (VII. 24.) Korm. rendelet 8. §-a iktatta be.
+[^88]: A hatálybalépés időpontja 2013. augusztus 1.

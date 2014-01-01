@@ -12,7 +12,7 @@
 
 a) kérelemre hatósági eljárást folytat le
 
-aa)[^59]
+aa)[^63]
 
 ab) a bontási tevékenység
 
@@ -48,4 +48,4 @@ c) az építési engedély nélkül végezhető építési tevékenység esetén
 
 (7) A speciális vizsgálatok elvégzése érdekében az építésfelügyeleti hatóság az Étv. 53/A. § (3) bekezdésében meghatározott szakértő vagy minőség-ellenőrző szerv közreműködését is igénybe veheti.
 
-[^59]: Az 58. § (2) bekezdés a) pont aa) alpontját a 109/2013. (IV. 9.) Korm. rendelet 4. § (12) bekezdés c) pontja hatályon kívül helyezte.
+[^63]: Az 58. § (2) bekezdés a) pont aa) alpontját a 109/2013. (IV. 9.) Korm. rendelet 4. § (12) bekezdés c) pontja hatályon kívül helyezte.

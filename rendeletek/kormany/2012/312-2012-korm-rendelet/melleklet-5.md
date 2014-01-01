@@ -1,4 +1,4 @@
-5. melléklet a 312/2012. (XI. 8.) Korm. rendelethez[^89]
+5. melléklet a 312/2012. (XI. 8.) Korm. rendelethez[^94]
 
 ## Szakhatósági dokumentációk tartalma építésügyi hatósági engedélyezéshez
 
@@ -104,7 +104,9 @@ IV. A műszaki biztonsági szakhatóság állásfoglalásának megkéréséhez s
 
 2.6. Nyilatkozat az építtetőtől a nem megvalósított berendezésekről (más berendezések beépítéséről).
 
-V.
+V. A bányafelügyelet szakhatósági állásfoglalásának megkéréséhez szükséges dokumentáció
+
+1. Építési, összevont építési és fennmaradási engedélyezési eljárás esetén, ha az építési terület felszínmozgás-veszélyes, illetve bányászati tevékenységgel (alábányászott) érintett, a talajvizsgálati jelentés és geotechnikai vizsgálat összefoglalása.
 
 VI. A tűzvédelmi szakhatóság állásfoglalásának megkéréséhez szükséges dokumentáció
 
@@ -162,4 +164,4 @@ A tűzvédelmi dokumentáció tartalma
 
 2.2. Helyszínrajz, melyen feltüntetik az engedélyezéssel érintett építményt és a szomszédos építményeket, valamint a közöttük lévő távolságot.
 
-[^89]: Az 5. melléklet a 76. §, a 358/2013. (X. 9.) Korm. rendelet 6. § (3) bekezdés c) pontja szerint módosított szöveg.
+[^94]: Az 5. melléklet a 76. §, a 358/2013. (X. 9.) Korm. rendelet 6. § (3) bekezdés c) pontja, az 559/2013. (XII. 31.) Korm. rendelet 71. §-a szerint módosított szöveg.
