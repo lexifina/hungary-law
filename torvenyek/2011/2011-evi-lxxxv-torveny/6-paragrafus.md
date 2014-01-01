@@ -1,6 +1,10 @@
-6. § (1) A kötelezett dönthet úgy, hogy tárgyévtől fennálló termékdíj-fizetési kötelezettsége a termékdíjköteles termék készletre történő felvételének napján keletkezzen (készletre vétel).
+6. § (1) A kötelezett ilyen tartalmú bejelentése esetén a tárgyévtől fennálló termékdíj-kötelezettsége a termékdíjköteles termék készletre történő felvételének napján keletkezik (a továbbiakban: készletre vétel). A készletre történő felvétel napja
 
-(2) A termékdíj-kötelezettség készletre vétellel történő teljesítése esetén a kötelezett köteles a tárgyévet megelőző év december 31-én készleten levő termékdíjköteles termékeiről leltárt készíteni, amely egyben a tárgyév nyitókészlete, és a termékdíjat – a tárgyévben érvényes termékdíjtétel mértékével – tárgyév január 20-ig bevallani és megfizetni.
+a) termékbeszerzés esetén a termék beszerzéséről kiállított számlán, számlakibocsátás hiányában az ügylet teljesítését tanúsító egyéb bizonylaton feltüntetett teljesítés napja vagy ennek hiányában
+
+b) az a nap, amelyen a terméket a számviteli szabályoknak megfelelően a számviteli nyilvántartásba eszközként fel kell venni.
+
+(2) A termékdíj-kötelezettség készletre vétellel történő teljesítésének a naptári év fordulójával történő választása esetén a kötelezett köteles a tárgyév első napján készleten lévő termékdíjköteles termékeiről leltárt készíteni, amely egyben a termékdíjköteles termékek nyitókészlete, és a termékdíjat – a tárgyévben érvényes termékdíjtétel mértékével – tárgyév első termékdíj megállapítási időszakának bevallásában bevallani és megfizetni.
 
 (3) A termékdíj-kötelezettség készletre vétellel történő teljesítése esetén a kötelezett a termékdíj-fizetési kötelezettsége keletkezésének időpontját a tárgyéven belül nem változtathatja meg.
 

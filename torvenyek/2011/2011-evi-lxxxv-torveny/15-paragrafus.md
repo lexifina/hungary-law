@@ -6,7 +6,7 @@
 
 (3) A csekély mennyiségű csomagolást forgalomba hozó kötelezett termékdíjátalánya 12 000 Ft/év, .
 
-(4) A tárgyévet megelőző évben legfeljebb évi tíz millió forintos értékesítési nettó árbevételt elérő mezőgazdasági termelő termékdíjátalánya 2000 Ft/év. A tárgyévet megelőző évben évi tíz millió forintot meghaladó, azonban legfeljebb évi ötven millió forintos árbevételt elérő mezőgazdasági termelő termékdíjátalánya 7000 Ft/év, a tárgyévben kötelezetté váló mezőgazdasági termelő termékdíjátalánya 5000 Ft/év.
+(4) A tárgyévet megelőző évben legfeljebb évi tíz millió forintos értékesítési nettó árbevételt elérő mezőgazdasági termelő termékdíjátalánya 2000 Ft/év. A tárgyévet megelőző évben évi tíz millió forintot meghaladó, azonban legfeljebb évi ötven millió forintos értékesítési nettó árbevételt elérő mezőgazdasági termelő termékdíjátalánya 7000 Ft/év, a tárgyévben kötelezetté váló mezőgazdasági termelő termékdíjátalánya 5000 Ft/év.
 
 (5) A kötelezett a termékdíjátalány-fizetési kötelezettségre vonatkozó választását – a (7) bekezdésben meghatározott kivétellel – nem változtathatja meg a tárgyéven belül.
 

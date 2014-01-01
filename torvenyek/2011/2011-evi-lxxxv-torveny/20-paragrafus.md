@@ -4,23 +4,21 @@ a) közvetíti és szervezi a termékdíjköteles termékekből keletkező hulla
 
 b) előkészíti az Országos Gyűjtési és Hasznosítási Tervet (a továbbiakban: OGyHT) és gondoskodik a jóváhagyott OGyHT végrehajtásáról;
 
-c) nyomon követi és értékeli a hulladékgazdálkodás – tevékenységi körébe tartozó – folyamatait;
+c) figyelemmel kíséri és értékeli a hulladékgazdálkodás – tevékenységi köréhez kapcsolódó – folyamatait;
 
-d) támogatja a termékdíjköteles termékekkel kapcsolatos hulladékgazdálkodás fejlesztését;
+d) nyomon követi és ellenőrzi a vele szerződéses kapcsolatban állók, a pályázatok, illetve szolgáltatás megrendelések kedvezményezettjei által a termékdíjköteles termékből képződött hulladékokkal kapcsolatban folytatott tevékenységét, szükség szerint informatikai rendszerrel;
 
-e) közreműködik a lakosság környezettudatos nevelésével kapcsolatos teendők ellátásában;
+e) közreműködik – a törvény végrehajtására kiadott rendeletben foglaltak szerint – a kötelezettek, ellenőrzésében;
 
-f) ellenőrzi a vele szerződéses kapcsolatban állók, illetve a pályázatok, illetve szolgáltatás megrendelések kedvezményezettek által a termékdíjköteles termékből képződött hulladékokkal kapcsolatban folytatott tevékenységét;
+f) támogatja a termékdíjköteles termékekkel kapcsolatos hulladékgazdálkodás fejlesztését;
 
-g) közreműködik – a törvény végrehajtására kiadott rendeletben foglaltak szerint – a kötelezettek ellenőrzésében;
+g) közreműködik a lakosság környezettudatos nevelésével kapcsolatos teendők ellátásában.
 
-h) innovációs tevékenységet folytat a termékdíjköteles termékekkel kapcsolatos hulladékgazdálkodási tevékenység fejlesztése érdekében.
+(2) Az OHÜ az (1) bekezdés g) pontjának teljesítése érdekében a 37. § (1) bekezdése alapján befolyt összeg szerinti hulladékgazdálkodási feladatok támogatásának legalább 7%-át a lakosság környezettudatos nevelésére fordítja.
 
-(2) Az OHÜ az (1) bekezdés e) pontjának teljesítése érdekében a 37. § (1) bekezdése alapján befolyt összeg szerinti hulladékgazdálkodási feladatok támogatásának legalább 7%-át a lakosság környezettudatos nevelésére fordítja.
+(3) Az OHÜ az (1) bekezdés d) pontjában foglalt ellenőrzése során, az ellenőrzés alá vont az ellenőrzés tűrésére, illetve az ellenőrzést végzőkkel való együttműködésre, az ellenőrzés eredményes végrehajtásának segítésére köteles.
 
-(3) Az OHÜ az (1) bekezdés f) pontjában foglalt ellenőrzése során, az ellenőrzés alá vont az ellenőrzés tűrésére, illetve az ellenőrzést végzőkkel való együttműködésre, az ellenőrzés eredményes végrehajtásának segítésére köteles.
-
-(4) Az (1) bekezdés f) pontja keretében végzett ellenőrzés során az OHÜ jogosult:
+(4) Az (1) bekezdés d) pontja keretében végzett ellenőrzés során az OHÜ jogosult:
 
 a) az ellenőrzött székhelyére, telephelyére, az ott található építményekbe, műszaki létesítményekbe belépni,
 

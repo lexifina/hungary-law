@@ -2,7 +2,7 @@
 
 ## A TERMÉKDÍJ VISSZAIGÉNYLÉSE
 
-25. § (1) A befizetett termékdíj
+25. § (1) A befizetett termékdíj, az átalány-termékdíj kivételével
 
 a) a termékdíjköteles termék külföldre történő igazolt kiszállítása;
 
@@ -22,4 +22,10 @@ esetén visszaigényelhető.
 
 (2) A kötelezett az általa befizetett egyéb kőolajtermék termékdíjának visszaigényelheti azon részét, amelyre vonatkozóan a használt vagy hulladékká vált, a kötelezettnél termékdíjköteles egyéb kőolajtermék anyagában történő hasznosításra történő átadás-átvételének tényét és a hasznosítás tényét igazolja.
 
+(2a) Visszaigényelhető a növényvédőszerrel közvetlenül érintkező, a növényvédőszer csomagolását képező csomagolószerek után megfizetett termékdíjnak azon része, amelyet a visszaigénylő a hulladékkezelés szervezését ellátó non-profit szervezet részére szolgáltatási díjként – a hulladékká vált csomagolást alkotó csomagolószer tömegére vonatkozóan – igazoltan megfizetett.
+
+(2b) A (2a) bekezdés alapján visszaigényelhető termékdíj alapja a tárgynegyedévben hulladékkezelésre igazoltan átadott növényvédőszerrel szennyezett csomagolási hulladékot képező csomagolószerek tömege.
+
 (3) A külföldre történő értékesítés számlával vagy az ügylet teljesítését igazoló egyéb okirattal és szállítólevéllel vagy fuvarokmánnyal igazolható. A visszaigénylés további feltétele a termék beszerzéséről kiállított számla vagy az ügylet teljesítését igazoló egyéb okirat, amely tartalmazza a termék első belföldi forgalomba hozatalakor a kötelezett által kibocsátott számla vagy az ügylet teljesítését igazoló egyéb okirat számát, azonosító adatát, a kötelezett nevét, címét, adószámát, és a kötelezett által kiállított számlán vagy annak mellékletében, illetve az ügylet teljesítését igazoló egyéb okiraton feltüntetett termékdíj mértékét és összegét.
+
+(4) A befizetett termékdíjat e § alapján visszaigénylőre, a kötelezettre vonatkozó bejelentéssel, változás-bejelentéssel, termékdíj megállapítással termékdíj bevallással és nyilvántartás-vezetéssel, továbbá az ellenőrzéssel kapcsolatos szabályokat kell alkalmazni.

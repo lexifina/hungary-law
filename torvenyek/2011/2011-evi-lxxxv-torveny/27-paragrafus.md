@@ -10,6 +10,6 @@ c) ha az fizikai módon összetevőire szét nem választható és nincs olyan �
 
 kell alkalmazni.
 
-(2) Az újrahasználható csomagolószert belföldi előállítású csomagolás részeként forgalomba hozó vagy csomagolásra felhasználó kötelezettnek nem keletkezik termékdíj-kötelezettsége, ha a termékdíjköteles termék az újrahasználható csomagolószerek – a törvény végrehajtási rendeletében meghatározott – nyilvántartásában szerepel, és a csomagolást végző a csomagolószerre betétdíjat alkalmaz. A betétdíjas újrahasználható csomagolást kibocsátót és a betétdíjas újrahasználati rendszer működtetésében közreműködőket az állami adó- és vámhatóság ellenőrizheti.
+(2) A környezetvédelmi hatóság a kötelezett, vagy a csomagolószer felhasználójának kérelmére akkor veszi fel a csomagolószert az újrahasználható csomagolószerek nyilvántartásába, ha az alkalmas – az MSZ EN 13429:2004 Csomagolás – Újrahasználat szerinti szabvány, vagy azzal egyenértékű megoldás alapján – a csomagolásra történő többszöri felhasználásra.
 
-(3) A külföldről behozott csomagolás részét képező újrahasználható csomagolószer után nem keletkezik termékdíjkötelezettség, amennyiben a kötelezett nyilvántartásával, bizonylatokkal alá tudja támasztani, hogy az újrahasználható csomagolószert a behozatal időpontjának a termékdíj-megállapítási időszakában a kötelezett megbízása alapján közvetlenül külföldre visszaszállították.
+(3)

@@ -1,8 +1,8 @@
-29/A. § (1) A vámhatóság az OHÜ által finanszírozott hulladékhasznosítási szolgáltatások körébe tartozó ügyletek tényleges megvalósulását, illetve azok végrehajtásának szabályszerűségét ellenőrzi. Az ellenőrzést azon személyek vonatkozásában indítja meg, amelyek számára az OHÜ a kifizetést teljesítette (a továbbiakban: kifizetés jogosultja). Az OHÜ által történő kifizetés költségvetési támogatásnak (a továbbiakban: támogatás) minősül.
+29/A. § (1) A vámhatóság az OHÜ által finanszírozott, a 22/A. § (6) bekezdésében meghatározott hulladékkezelési közszolgáltatás és hulladékhasznosítási szolgáltatások körébe tartozó ügyletek tényleges megvalósulását, illetve azok végrehajtásának szabályszerűségét ellenőrzi. Az ellenőrzést azon személyek vonatkozásában indítja meg, amelyek számára az OHÜ a kifizetést teljesítette (a továbbiakban: kifizetés jogosultja). Az OHÜ által történő kifizetés költségvetési támogatásnak (a továbbiakban: támogatás) minősül.
 
-(2) A vámhatóság az Art. szerinti ellenőrzés szabályai szerint ellenőrzi a hulladékgazdálkodásra vonatkozó jogszabályokban meghatározott, a környezetvédelmi vagy más hatóságok hatáskörébe tartozó hatósági ügy, illetve eljárás kivételével, a környezetvédelmi termékdíjköteles termékből keletkezett hulladék előkezelését, feldolgozását, ártalmatlanítását, hasznosítását.
+(2)
 
-(3) Az (1)–(2) bekezdés szerinti ellenőrzésre az Art. szabályait a jelen §-ban meghatározott eltérésekkel kell alkalmazni.
+(3) Az (1) bekezdés szerinti ellenőrzésre az Art. szabályait a jelen §-ban meghatározott eltérésekkel kell alkalmazni.
 
 (4) A támogatás igénybevételének jogszerűségét a vámhatóság – a kifizetések alapjául szolgáló bizonylatok adatai alapján – támogatásonként (kifizetésenként) vagy meghatározott időszak tekintetében is vizsgálhatja.
 
@@ -56,7 +56,7 @@ c) az ellenőrzés kezdő időpontját,
 
 d) az ellenőrzés tárgyát, az annak alapját képező jogszabályok felsorolását, az ellenőrzéssel érintett időszakot,
 
-e) az ellenőrzést végzők megállapításait, különös tekintettel a támogatás igénybevételének jogszerűségére, a tisztázott tényállást a vonatkozó jogszabályok megjelölésével, és annak bizonyítékait, az ellenőrzött személy vagy szervezet által felajánlott és visszautasított bizonyítékok felsorolását, annak indokait,
+e) az ellenőrzést végzők megállapításait, a tisztázott tényállást a vonatkozó jogszabályok megjelölésével, és annak bizonyítékait, az ellenőrzött személy vagy szervezet által felajánlott és visszautasított bizonyítékok felsorolását, annak indokait,
 
 f) utalást arra, hogy a jegyzőkönyvben foglaltakra az ellenőrzött a törvényben meghatározott határidőn belül észrevételeket tehet,
 

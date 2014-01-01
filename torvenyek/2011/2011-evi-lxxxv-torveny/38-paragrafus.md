@@ -18,7 +18,9 @@ e) a csomagolószerként is felhasználható áruk katalógusát (csomagolószer
 
 f) a hulladékhasznosítási szolgáltatások körébe tartozó, és az egyéni hulladékkezelést teljesítő kötelezett által teljesített ügyletek megvalósulására, azok végrehajtása szabályszerűségére vonatkozó ellenőrzési szempontrendszer szabályait,
 
-g) az egyéni hulladékkezelésre, annak bejelentésére, bevallására, illetve teljesítésére vonatkozó részletes szabályokat
+g) az egyéni hulladékkezelésre, annak bejelentésére, bevallására, illetve teljesítésére vonatkozó részletes szabályokat,
+
+h) az újrahasználható csomagolószer bérleti rendszerének részletes szabályait.
 
 (2) Felhatalmazást kap a környezetvédelemért felelős miniszter, hogy rendeletben állapítsa meg
 

@@ -14,7 +14,13 @@
 
 (5) Szerződés alapján a termékdíj-kötelezettséget a kötelezettől
 
-a) az első belföldi vevő, ha a kötelezettől megvásárolt termékdíjköteles termék legalább 60%-át külföldre értékesíti,
+a) a termékdíjköteles termék
+
+aa) első belföldi vevője, vagy
+
+ab) a d) pont szerinti értékesítés belföldi vevője,
+
+ha a megvásárolt termékdíjköteles termék legalább 60%-át külföldre értékesíti,
 
 b) a bérgyártó,
 

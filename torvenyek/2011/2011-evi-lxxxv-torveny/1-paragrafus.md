@@ -23,3 +23,5 @@ e) a gumiabroncs;
 f) a reklámhordozó papír.
 
 (4) A (3) bekezdés a) és c)–f) pontja szerinti termékdíjköteles termékek vámtarifaszámok alá osztályozott körét a 2010. január 1-jén hatályos Kombinált Nomenklatúra szerint az 1. melléklet határozza meg. A (3) bekezdés b) pontja szerinti termékdíjköteles termékek az e törvény végrehajtására kiadott kormányrendeletben szereplő csomagolószer-katalógus kódszámaival kerülnek meghatározásra.
+
+(5) Új termékdíjköteles termék jön létre, ha a feldolgozás, megmunkálás következtében a termék 1. mellékletben meghatározott vámtarifaszáma, az e törvény végrehajtására kiadott kormányrendeletben meghatározott környezetvédelmi termékdíjkódjának vagy csomagolószer esetében a csomagolószer-katalógus szerinti kódszámának első három jegye megváltozik.

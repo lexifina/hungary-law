@@ -2,11 +2,11 @@
 
 2. § E törvény alkalmazásában:
 
-1. anyagában történő hasznosítás: a hulladéknak a hulladékgazdálkodásról szóló törvény (a továbbiakban: Hgt.) szerinti újrafeldolgozása vagy visszanyerése, illetve biológiailag lebomló szerves anyagok aerob vagy anaerob lebontása és további felhasználásra alkalmassá tétele;
+1. anyagában történő hasznosítás: a hulladéknak a hulladékról szóló törvény (a továbbiakban: Ht.) szerinti anyagában történő hasznosítása;
 
 2. anyagáram: az egyes termékáramokon belül elkülönülő önálló hasznosítási kötelezettséggel rendelkező anyag, illetve termék;
 
-3. ártalmatlanítás: a hulladék Hgt. szerinti ártalmatlanítása;
+3. ártalmatlanítás: a hulladéknak a Ht. szerinti ártalmatlanítása;
 
 4. belföld: a Magyarország területe, ideértve a vámszabad és tranzitterületeket, valamint a vámszabad raktárakat is;
 
@@ -30,15 +30,13 @@ g) 300 kg egyéb,
 
 azonban a b)–g) pontok esetén mindösszesen legfeljebb 1000 kg csomagolást kiskereskedelmi értékesítés során a fogyasztó számára forgalomba hozó vagy saját célra felhasználó kötelezett;
 
-7. csomagolás:
+7. csomagolás: valamennyi olyan, bármilyen tulajdonságú anyagból készült termék, amelyet áru tartására, megóvására, átadására, átvételére, szállítására, valamint bemutatására használnak, beleértve minden terméket a nyersanyagoktól kezdve a feldolgozott árucikkekig, továbbá az ugyanilyen célra használt egyutas árucikkek; így:
 
-a) valamennyi olyan tétel, amelyet a termelő vagy a felhasználó valamely termék (a nyersanyagtól a feldolgozott termékig) befogadására, megóvására, kezelésére, szállítására és bemutatására (csomagolási funkció) használ, ideértve az ugyanilyen célra használt egyszer használatos tételt,
+a) a fogyasztói vagy elsődleges csomagolás, amely értékesítési egységet képez a fogyasztó számára az értékesítés helyszínén;
 
-b) az a) pontban meghatározottaknak – a csomagolás által biztosított egyéb funkciók sérelme nélkül – megfelelő tételek, kivéve, ha az adott tétel a termék szerves részét képezi és a termék tárolásához, eltartásához vagy megőrzéséhez annak teljes élettartama alatt szükséges, és az egyes alkotóelemeket együttes felhasználásra, fogyasztásra vagy értékesítésre szánták,
+b) a gyűjtő- vagy másodlagos csomagolás, amely az értékesítés helyszínén meghatározott számú értékesítési egységet foglal magában, ha ezeket az egységeket a fogyasztó részére értékesítik, vagy ezek az egységek csupán a polcok feltöltésére szolgálnak, és a csomagolást a termékről a termék tulajdonságainak megváltoztatása nélkül el lehet távolítani, valamint
 
-c) a forgalmazás helyén történő megtöltésre tervezett és szánt, illetve a forgalmazási helyen eladott vagy megtöltött, csomagolási funkciót ellátó egyszer használatos tételek,
-
-d) a termékre közvetlenül ráakasztott vagy ahhoz rögzített, csomagolási funkciót ellátó kiegészítő elemek, kivéve, ha azok a termékek szerves részét képezik, és az egyes alkotóelemeket együttes fogyasztásra vagy értékesítésre szánták; a csomagolásba beépülő egyéb összetevőket és kiegészítő elemeket azon csomagolás részének kell tekinteni, amelyikbe azokat beépítették;
+c) a szállítási vagy harmadlagos csomagolás, amely megkönnyíti a fogyasztói vagy gyűjtőcsomagolás átadását, átvételét és szállítását annak érdekében, hogy a fizikai átadásnál, átvételnél és szállításnál megóvja az árut a károsodástól, ide nem értve a közúti, vasúti, vízi és légi közlekedésben használatos tartályokat;
 
 8. csomagolóanyag: a csomagolóeszközök előállítására, illetve az ideiglenes védőburkolat kialakítására közvetlenül alkalmazható szerkezeti anyagok gyűjtőfogalma;
 
@@ -60,17 +58,21 @@ c) végfelhasználó vevőtől csomagolószer hulladékának hajléktalan-ellát
 
 13. elektromos, elektronikai berendezés: legfeljebb 1000 V váltakozó feszültségű, illetve 1500 V egyenfeszültségű árammal működő berendezés, amelynek rendeltetésszerű működése elektromágneses mezőktől vagy villamos áramtól függ, ideértve az elektromágneses mező, illetve villamos áram előállítását, mérését, átvitelét biztosító eszközöket is;
 
-14. forgalomba hozatal: termékdíjköteles termék tulajdonjogának első belföldi ingyenes vagy visszterhes átruházása, ideértve a más termék tartozékaként vagy alkotórészeként való átruházást, továbbá a csomagolószer csomagolás részekénti átruházását, nem minősül forgalomba hozatalnak a termékdíjköteles terméknek a természetes személy által nem gazdasági tevékenység keretében végzett átruházása;
+14. forgalomba hozatal: a termékdíjköteles termék tulajdonjogának
+
+a) belföldi ingyenes vagy visszterhes átruházása, ideértve a más termék tartozékaként vagy alkotórészeként való átruházását és a csomagolószer csomagolás részekénti átruházását,
+
+b) belföldön gazdasági céllal letelepedett vagy belföldön nyilvántartásba vett kötelezett általi átruházása, ha a külföldön küldeményként vagy a fuvarozásra feladott termék a küldeményként való megérkezésekor, vagy a fuvarozás befejezésekor belföldön van.
 
 15. harmadik ország: az Európai Közösségen kívüli állam;
 
-16. hasznosítás: a termékdíjköteles termékből képződő hulladéknak vagy valamely összetevőjének termelésben vagy szolgáltatásban a Hgt. szerinti hasznosítása;
+16. hasznosítás: a termékdíjköteles termékből képződő hulladéknak a Ht. szerinti hasznosítása;
 
-17. hasznosíttatás: a kötelezett 1. § (3) bekezdés a), b), d), e) pontja szerinti termékdíjköteles terméknek a termék- és anyagáramából keletkezett – 12. pont a)–b) alpontjai szerint gyűjtött – hulladéka vállalkozási szerződés keretében más, erre feljogosított gazdálkodó szervezetnél történő hasznosítása;
+17. hasznosíttatás: a kötelezett 1. § (3) bekezdés a), b), d), e) pontja szerinti termékdíjköteles terméknek a termék- és anyagáramából keletkezett – 12. pont szerint gyűjtött – hulladéka vállalkozási szerződés keretében más, erre feljogosított gazdálkodó szervezetnél történő hasznosítása;
 
 18. jármű: a légi közlekedésről szóló külön törvény szerinti légi jármű, valamint a motorral meghajtott közúti szállító- vagy vontatóeszköz, ideértve az önjáró vagy vontatott munkagépet is, kivéve a kerekes szék;
 
-19. kereskedelmi csomagolás: a vám- és a statisztikai nómenklatúráról, valamint a Közös Vámtarifáról szóló, a Tanács 1987. július 23-i 2658/87/EGK tanácsi rendelete 2009. január 1-jén hatályos I. melléklete szerinti
+19. kereskedelmi csomagolás: a vám- és statisztikai nómenklatúráról, valamint a Közös Vámtarifáról szóló, a Tanács 1987. július 23-i 2658/87/EGK tanácsi rendelete 2010. január 1-jén hatályos I. melléklete szerinti
 
 a) 2009 vámtarifaszámú gyümölcslé (beleértve a szőlőmustot is) és zöldséglé, nem erjesztve, hozzáadott alkoholtartalom nélkül, cukor vagy más édesítőanyag hozzáadásával is,
 
@@ -84,23 +86,23 @@ e) 2203 vámtarifaszámú malátából készült sör,
 
 f) 2204 vámtarifaszámú bor friss szőlőből, beleértve a szeszezett bort is; szőlőmust, a 2009 vtsz. alá tartozó kivételével,
 
-g) 2205 vámtarifaszámú vermut és friss szőlőből készült más bor növényekkel vagy aromatikus anyagokkal ízesítve, a 2206 vámtarifaszámú más erjesztett ital (pl. almabor, körtebor, mézbor); erjesztett italok keverékei, és erjesztett italok és alkoholmentes italok másutt nem említett keverékei, a 2207 10 00 vámtarifaszámú nem denaturált etil-alkohol legalább 80 térfogatszázalék alkoholtartalommal, valamint a 2208 vámtarifaszámú nem denaturált etil-alkohol, kevesebb mint 80 térfogatszázalék alkoholtartalommal; szesz, likőr és más szeszes ital,
+g) 2205 vámtarifaszámú vermut és friss szőlőből készült más bor növényekkel vagy aromatikus anyagokkal ízesítve, a 2206 vámtarifaszámú más erjesztett ital (pl. almabor, körtebor, mézbor); erjesztett italok keverékei, és erjesztett italok és alkoholmentes italok másutt nem említett keverékei, a 2207 10 00 vámtarifaszámú nem denaturált etil-alkohol legalább 80 térfogatszázalék alkoholtartalommal, valamint a 2208 vámtarifaszámú nem denaturált etil-alkohol, kevesebb mint 80 térfogatszázalék alkoholtartalommal; szesz, likőr és más szeszes ital
 
-a csomagolásról és a csomagolási hulladék kezelésének részletes szabályairól szóló külön jogszabály szerinti fogyasztói (elsődleges) csomagolása – a címke, kupak és az egyszer használatos ivópohár kivételével –, továbbá a műanyag bevásárló-reklám táska;
+termékek fogyasztói (elsődleges) közvetlen csomagolása, a címke (ide nem értve a polivinilklorid műanyagból készült címkét) és a záróelem, továbbá az egyszerhasználatos ivópohár kivételével, továbbá a műanyag bevásárló reklám táska;
 
-20. kereskedelmi csomagolószer: olyan csomagolószer, amely alkalmas kereskedelmi csomagolás létrehozására;
+20. kereskedelmi csomagolószer: olyan csomagolószer, amely rendeltetésszerű felhasználása esetén és további feldolgozás nélkül alkalmas kereskedelmi csomagolás létrehozására, a csomagolni kívánt termék befogadására, továbbá a csomagolószer ilyen jellege a csomagolószer fogalomba hozatala vagy saját célú felhasználása során megállapítható;
 
 21. kiskereskedelmi értékesítés: a kereskedelemről szóló törvény szerinti kiskereskedelmi tevékenység;
 
 22. környezetvédelmi termékdíj nettó összege: a termékdíj megállapítási időszakban keletkezett termékdíj-fizetési kötelezettség és a visszaigényelhető termékdíj különbözete;
 
-23. közvetítő: olyan gazdálkodó szervezet, amely más nevében szervez hasznosítást, ideértve azt a közvetítőt is, aki nem lesz a közvetítés tárgyát képező dolog tényleges birtokosa;
+23. közvetítő: a Ht. szerinti közvetítő;
 
 24. külföld: az Európai Közösség Magyarországon kívüli állama és a harmadik ország;
 
 25. műanyag bevásárló-reklám táska: a csomagolásról és a csomagolási hulladék kezelésének részletes szabályairól szóló jogszabály szerinti fogyasztói (elsődleges) vagy gyűjtőcsomagolt, illetve csomagolatlanul forgalmazott termékek, áruk, reklámanyagok szállítására szolgáló, hajlékonyfalú műanyag hordtasak vagy hordtáska;
 
-26. reklámhordozó papír: a gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló törvényben meghatározott gazdasági reklámot tartalmazó, a médiaszolgáltatásokról és a tömegkommunikációról szóló törvény által meghatározott sajtótermékek közül az időszaki lap egyes lapszámai, a röplap és az egyéb szöveges kiadvány, a grafikát, rajzot vagy fotót tartalmazó kiadvány – beleértve azt is, ha mindezek más, nem termékdíjköteles kiadvány külön mellékletét képezik –, továbbá a térkép. Nem tartozik a reklámhordozó papír fogalmába:
+26. reklámhordozó papír: a gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló törvényben meghatározott gazdasági reklámot tartalmazó, a médiaszolgáltatásokról és a tömegkommunikációról szóló törvény által meghatározott sajtótermékek közül az időszaki lap egyes számai, az egyéb nyomtatott anyagok közül a grafikát, rajzot vagy fotót tartalmazó kiadvány, a térkép, a nyomtatott képeslap, az üdvözlő- és más hasonló kártya – a névjegykártya kivételével –, a nyomtatott naptár, a nyomtatott üzleti reklámanyag, a katalógus, a prospektus, a reklámposzter és hasonlók, a röplap és az egyéb szöveges kiadvány – ideértve azt is, ha mindezek más kiadvány külön mellékletét képezik. Nem tartozik a reklámhordozó papír fogalmába:
 
 a) a kiadványonként, annak teljes nyomtatott felületére vetítve legalább 50%-ában nem gazdasági reklám terjesztésére szolgáló kiadvány, időszaki lap,
 
@@ -108,7 +110,7 @@ b) a közhasznú szervezet, állami, önkormányzati szerv által, alapfeladata 
 
 c) a könyv, tankönyv;
 
-27. rétegzett italkarton: az a legalább 75%-ban papír alapanyagú (karton) csomagolószer, amely alkalmas folyékony élelmiszer csomagolására;
+27. rétegzett italkarton: az a legalább 70%-ban papír alapanyagú (karton) csomagolószer, amely alkalmas folyékony élelmiszer csomagolására;
 
 28. termékáram: az egyes termékek hulladékgazdálkodási szempontok alapján képzett termékcsoportonkénti összessége;
 
@@ -136,4 +138,6 @@ kötelezettség;
 
 30. termékdíjátalány: a csekély mennyiségű csomagolást forgalomba hozó kötelezett, továbbá a 73/2009/EK tanácsi rendelet szerinti mezőgazdasági termelő kötelezett számára meghatározott díjfizetési kötelezettség;
 
-31. újrahasználat: a terméknek az eredeti célra történő ismételt felhasználása, mely során a többször felhasználható, újratölthető termék a forgási ciklusból történő kilépésekor válik hulladékká.
+31. újrahasználat: a termékdíjköteles termék Ht. szerinti újrahasználata;
+
+32. újbóli felhasználásra előkészítés: a hulladékká nem vált termékdíjköteles termék, illetve alkotórészének vagy tartozékának ellenőrzése, tisztítása, valamint javítása az eredeti felhasználási célra való alkalmassá tétel érdekében;

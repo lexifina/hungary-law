@@ -34,9 +34,9 @@ bf) karbantartás keretében való felhasználása;
 
 c) megsemmisítése, alaktalanítása, elfogyasztása;
 
-d) minden más, az a)–c) pontokban nem említett használata, ami nem a számvitelről szóló törvényben meghatározott saját termelésű készlet létrehozását eredményezi.
+d) minden más, az a)–c) pontokban nem említett használata, ideértve a szolgáltatásnyújtás keretében történő használatot, felhasználást vagy használatba adást is, ami nem a számvitelről szóló törvényben meghatározott saját termelésű készlet létrehozását eredményezi.
 
-(4) Külföldi előállítású csomagolás esetén a csomagolószer saját célú felhasználásának minősül a csomagolás elválasztása a terméktől.
+(4) A külföldön előállított csomagolás esetén a csomagolószer saját célú felhasználásának minősül a csomagolás végleges elválasztása a termékről, kivéve a belföldi gazdálkodó tulajdonában lévő újrahasználható csomagolószer elválasztását.
 
 (5) Saját célú felhasználás címén keletkezik termékdíj-kötelezettség:
 
@@ -46,20 +46,42 @@ aa) felszámolás esetén a felszámolási zárómérleg fordulónapján,
 
 ab) végelszámolás esetén a végelszámolást lezáró beszámoló fordulónapján, vagy
 
-ac) a kötelezett felszámolás vagy végelszámolás nélküli megszűnése esetén a megszűnés időpontjában
+ac) a kötelezett felszámolás vagy végelszámolás nélküli megszűnése esetén a megszűnés időpontjában,
+
+ad) kényszertörlési eljárás esetén a kényszertörlés időpontjában
 
 olyan termékdíjköteles terméket tart tulajdonában, amelyre a termékdíj nem került megfizetésre,
 
 b) a termékdíjköteles termék mennyiségében bekövetkezett, a törvény végrehajtási rendeletében meghatározott elszámolható hiányt meghaladó hiány és a termékdíjköteles termék megsemmisülése esetén – az elháríthatatlan külső okból bekövetkezett megsemmisülés kivételével – a megsemmisült mennyiségre.
 
-(6) A csomagolószer termékdíját nem kell megfizetni, ha – e törvény végrehajtási rendeletében meghatározottak szerint – nyilatkozik a kötelezett belföldi vevője (a továbbiakban: nyilatkozó) arról, hogy
+(6) A termékdíjköteles termék termékdíját nem kell megfizetni, ha – e törvény végrehajtására kiadott kormányrendeletben meghatározottak szerint – a kötelezett belföldi vevője (a továbbiakban: nyilatkozó) nyilatkozik arról, hogy
 
-a) a csomagolószert csomagolás előállítására használja fel és a 15. § (4) bekezdés szerinti termékdíjátalány fizetésére jogosult, vagy
+a) a csomagolószert termékdíjátalány fizetésre jogosult mezőgazdasági termelőként csomagolás előállítására használja fel,
 
-b) a csomagolószert csomagolás előállítására a 27. § (2) bekezdése feltételeinek megfelelő újrahasználható csomagolóeszközként használja fel, vagy
+b) az újrahasználható csomagolószerek nyilvántartásába a felhasználó kérelmére felvett
 
-c) az egyéb csomagolószert, mint annak végfelhasználója nem csomagolás előállítására használja fel.
+ba) újrahasználható csomagolószert a betétdíj alkalmazásának szabályairól szóló kormányrendelet szerinti betétdíjas rendszerben, vagy
+
+bb) újrahasználható raklapot a beszerzéstől számított legalább 365 napig újrahasználható csomagolóeszközként csomagolás létrehozására,
+
+használja fel,
+
+c) a csomagolóanyagot vagy a csomagolási segédanyagot
+
+ca) mint annak végfelhasználója nem csomagolás előállítására, vagy
+
+cb) más termék előállításához közvetlen anyagként (alapanyagként)
+
+használja fel.
 
 (7) A (6) bekezdés szerinti nyilatkozó kötelezettnek minősül, ha a nyilatkozatával ellentétesen jár el, egyébként a kötelezett ellenőrzésére vonatkozó szabályokat kell rá alkalmazni.
 
-(8) Amennyiben a (6) bekezdés szerinti nyilatkozó a csomagolószert nem, vagy nem a nyilatkozat tartalma szerinti mértékben, nem a nyilatkozat tartalma szerint használja fel, illetőleg a felhasználás tényét nem tudja igazolni, az erre eső termékdíjat, és a csomagolószer beszerzésének időpontjától számított késedelmi pótlékot köteles megfizetni.
+(8) Amennyiben a (6) bekezdés szerinti nyilatkozó nem, vagy nem a nyilatkozat tartalma szerint jár el vagy ezt nem tudja igazolni, a termékdíjköteles termék termékdíját és a termékdíj-kötelezettség keletkezésének 5. § (1) bekezdésben meghatározott időpontjától számított késedelmi pótlékot a nyilatkozó köteles megfizetni. E bekezdés szerinti jogkövetkezmény a hulladékhasznosítási teljesítménybe el nem számolható gyártási selejt vagy hulladék esetén nem alkalmazható.
+
+(9) A termékdíjat
+
+a) az egyéb kőolajtermék alapanyagként történő felhasználása, vagy
+
+b) a Magyarországon hulladékká vált egyéb kőolajtermékből a Ht.-ben meghatározott R9 eljárással előállított termékdíjköteles termék belföldi forgalomba hozatala vagy első saját célú felhasználása,
+
+esetén nem kell megfizetni.
