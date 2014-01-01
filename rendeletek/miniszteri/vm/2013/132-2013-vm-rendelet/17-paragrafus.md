@@ -1,0 +1,1 @@
+## 16. § Az Edelényi Magyar Nőszirmos Természetvédelmi Terület létesítéséről szóló 8/2005. (III. 23.) KvVM rendelet Mellékletének 3. pontjában a „környezetvédelmi, természetvédelmi és vízügyi felügyelőség” szövegrész helyébe a „környezetvédelmi és természetvédelmi felügyelőség” szöveg lép.

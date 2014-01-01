@@ -1,0 +1,1 @@
+## 17. § A fokozottan védett növény-, illetve állatfajok élőhelyén és élőhelye körüli korlátozás elrendelésének részletes szabályairól szóló 12/2005. (VI. 17.) KvVM rendelet 2. §-ában a „környezetvédelmi, természetvédelmi és vízügyi felügyelőség” szövegrész helyébe a „környezetvédelmi és természetvédelmi felügyelőség” szöveg lép.

@@ -1,0 +1,1 @@
+## 27. § A vizek hasznosítását, védelmét és kártételeinek elhárítását szolgáló tevékenységekre és létesítményekre vonatkozó műszaki szabályokról szóló 30/2008. (XII. 31.) KvVM rendelet 27. § (2) bekezdésében az „Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség” szövegrész helyébe az „Országos Vízügyi Hatóság” szöveg lép.

@@ -1,0 +1,1 @@
+## 18. § A kármentesítési tényfeltárás szűrővizsgálatával kapcsolatos szabályokról szóló 14/2005. (VI. 28.) KvVM rendelet 7. §-ában az „Az illetékes környezetvédelmi, természetvédelmi és vízügyi felügyelőség” szövegrész helyébe az „Az illetékes környezetvédelmi és természetvédelmi felügyelőség” szöveg lép.

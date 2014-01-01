@@ -1,0 +1,1 @@
+## 14. § A felszíni vizek megfigyelésének és állapotértékelésének egyes szabályairól szóló 31/2004. (XII. 30.) KvVM rendelet 3. § (2) bekezdésében a „környezetvédelmi és vízügyi miniszter” szövegrész helyébe a „vízvédelemért felelős miniszter” szöveg lép.

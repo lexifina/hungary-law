@@ -1,0 +1,1 @@
+## 31. § A növényvédelmi tevékenységről szóló 43/2010. (IV. 23.) FVM rendelet 31. § (2) bekezdés b) pontjában a „környezetvédelmi, természetvédelmi és vízügyi felügyelőséget” szövegrész helyébe a „környezetvédelmi és természetvédelmi felügyelőséget” szöveg lép.
