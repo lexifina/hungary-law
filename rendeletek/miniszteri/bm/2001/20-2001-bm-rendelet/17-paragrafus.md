@@ -1,3 +1,0 @@
-## Tárgy felkutatására irányuló
-
-## körözés
