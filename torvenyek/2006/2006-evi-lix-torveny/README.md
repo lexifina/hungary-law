@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2006-59-00-00
 | 2013-01-01 | 2012. évi CLXXVIII. törvény | 2006-59-00-00.15 |
 | 2013-11-30 | 2013. évi CC. törvény | 2006-59-00-00.16 |
 | 2013-12-29 | 2013. évi CC. törvény | 2006-59-00-00.17 |
+| 2014-01-01 | 2013. évi CC. törvény | 2006-59-00-00.18 |

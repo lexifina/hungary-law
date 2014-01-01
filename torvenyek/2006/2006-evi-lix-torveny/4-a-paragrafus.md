@@ -1,10 +1,10 @@
 ## Pénzügyi szervezetek különadója
 
-4/A. § (1) A pénzügyi szervezet 2013-ban különadó megállapítására, bevallására és fizetésére kötelezett.
+4/A. § (1) A pénzügyi szervezet 2014-ben különadó megállapítására, bevallására és fizetésére kötelezett.
 
-(2) A pénzügyi szervezet a különadót 2013. március 10-éig megállapítja és az esedékességének megfelelő részletezésben külön nyomtatványon bevallja, valamint negyedévenként, a negyedév utolsó hónapjának 10. napjáig négy egyenlő részletben megfizeti.
+(2) A pénzügyi szervezet a különadót 2014. március 10-éig megállapítja és az esedékességének megfelelő részletezésben külön nyomtatványon bevallja, valamint negyedévenként, a negyedév utolsó hónapjának 10. napjáig négy egyenlő részletben megfizeti.
 
-(3) A 2010–2012. között jogelőd nélkül létrejött pénzügyi szervezet, valamint a naptári évtől eltérő üzleti évet alkalmazó adózó a különadót az utolsó rendelkezésre álló beszámolóval lezárt üzleti év adatai alapján 2013. szeptember 10-éig megállapítja, az esedékességének megfelelő részletezésben külön nyomtatványon bevallja, valamint két egyenlő részletben – szeptember 10-éig és december 10-éig – megfizeti.
+(3) A 2010–2013. között jogelőd nélkül létrejött pénzügyi szervezet, valamint a naptári évtől eltérő üzleti évet alkalmazó adózó a különadót az utolsó rendelkezésre álló beszámolóval lezárt üzleti év adatai alapján 2014. szeptember 10-éig megállapítja, az esedékességének megfelelő részletezésben külön nyomtatványon bevallja, valamint két egyenlő részletben – szeptember 10-éig és december 10-éig – megfizeti.
 
 (4) A különadó alapja
 
@@ -160,6 +160,6 @@ b) a fogyasztóval kötött, Magyarország területén lévő lakóingatlanra vo
 
 (37) A (21) bekezdés szerinti adóvisszatérítést az előzőek szerint csökkentett adó terhére veheti igénybe a pénzügyi intézmény.
 
-(38) A hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény (a továbbiakban: Hpt.) szerinti önkéntes intézményvédelmi alaphoz csatlakozott hitelintézet csökkentheti az (1)–(7) bekezdés szerint fizetendő különadó összegét az önkéntes intézményvédelmi alapba az adóévben befizetett összeggel, ha az önkéntes intézményvédelmi alap és tagjai együttesen megfelelnek a Hpt. 76/A. § (8) bekezdése szerinti követelményeknek. A különadó megfizetése alól e bekezdés szerint mentesülő összeg kizárólag az önkéntes intézményvédelmi alap létesítő okiratában meghatározott intézményvédelmi célokra használható fel.
+(38) A hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény (a továbbiakban: Hpt.) szerinti önkéntes intézményvédelmi alaphoz csatlakozott hitelintézet csökkentheti az (1)–(7) bekezdés szerint fizetendő különadó összegét az önkéntes intézményvédelmi alapba az adóévben befizetett összeggel, ha az önkéntes intézményvédelmi alap és tagjai együttesen megfelelnek a hitelintézetekre és befektetési vállalkozásokra vonatkozó prudenciális követelményekről és a 648/2012/EU rendelet módosításáról szóló, 2013. június 26-i 575/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 575/2013/EU rendelet) 113. cikk (7) bekezdése szerinti követelményeknek. A különadó megfizetése alól e bekezdés szerint mentesülő összeg kizárólag az önkéntes intézményvédelmi alap létesítő okiratában meghatározott intézményvédelmi célokra használható fel.
 
-(39) A Hpt. 80. § (1) bekezdés m) pontjában meghatározott, készpénz-elszámolási műveletekért felelős hitelintézet csökkentheti a különadó alapját képező módosított mérlegfőösszeg összegét az általa, mint levelező tartalékköteles hitelintézet által a Magyar Nemzeti Banknál vezetett forint pénzforgalmi számláján elhelyezett levelezett tartalékköteles hitelintézetek kötelező jegybanki tartalékával.
+(39) A 575/2013/EU rendelet 400. cikk (2) bekezdés d) pontjában meghatározott, készpénz-elszámolási műveletekért felelős hitelintézet csökkentheti a különadó alapját képező módosított mérlegfőösszeg összegét az általa, mint levelező tartalékköteles hitelintézet által a Magyar Nemzeti Banknál vezetett forint pénzforgalmi számláján elhelyezett levelezett tartalékköteles hitelintézetek kötelező jegybanki tartalékával.

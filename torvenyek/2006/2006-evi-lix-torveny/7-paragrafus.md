@@ -8,7 +8,7 @@
 
 3. pénzügyi szervezet: a hitelintézet és az egyéb pénzügyi szervezet, ideértve a fióktelep formában működő pénzügyi szervezeteket is;
 
-4. hitelintézet: a hitelintézetekről és pénzügyi vállalkozásokról szóló törvény (a továbbiakban: Hpt.) szerinti hitelintézet;
+4. hitelintézet: a Hpt. szerinti hitelintézet;
 
 5–6.
 
