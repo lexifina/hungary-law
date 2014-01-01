@@ -1,0 +1,7 @@
+## 4. § Az R. 60/A. §-a helyébe a következő rendelkezés lép:
+
+## „60/A. § (1) Közvetlen képviselőként való eljárásra – ha jogszabály eltérően nem rendelkezik – csak olyan egyszerűsített nyilatkozattételi és helyi vámkezelési eljárásra vonatkozó engedély felhasználásával van lehetőség, amely tartalmazza az engedélyező alsó fokú vámszerv záradékát arról, hogy az engedély mellékletében feltüntetett képviselt személyekre nézve a képviselet vállalását jóváhagyja. Az engedélyes nyilatkozatát a képviselni kívánt személyekről az egyszerűsített nyilatkozattételi és a helyi vámkezelési eljárásra vonatkozó engedélyek kiadásakor, illetve a meglévő engedélyek módosításakor kell az engedélyező alsó fokú vámszervnél megtenni.
+
+## (2) A vámhatóság az engedélyes konkrét vámhatósági ügyben közvetlen képviselőként való eljárását akkor engedélyezi, ha az engedélyes a Vámkódex 189. cikk alapján biztosítékot nyújt a felmerülő vámtartozás, illetve – a Vtv. 48. § (1) bekezdése, valamint e rendelet 50. §-a alapján – a felmerülő nem közösségi adók és díjak teljes összegére.
+
+## (3) Az egyszerűsített nyilatkozattételi és a helyi vámkezelési eljárásra vonatkozó engedély közvetlen képviselőként való használatakor az engedélyező alsó fokú vámszerv a képviselni kívánt személyek tekintetében kockázatelemzést végez, és ennek alapján dönt arról, hogy az engedély a közvetlen képviselettel bevonni kívánt személyek érdekében milyen feltételekkel használható.”
