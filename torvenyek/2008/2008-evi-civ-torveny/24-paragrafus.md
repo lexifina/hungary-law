@@ -16,7 +16,7 @@
 
 4. Gt.: a gazdasági társaságokról szóló 2006. évi IV. törvény,
 
-5. Hpt.: a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény,
+5. Hpt.: a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény,
 
 6. MNB tv.: a Magyar Nemzeti Bankról szóló törvény,
 

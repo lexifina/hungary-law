@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2008-104-00-00
 | 2012-03-23 | 2011. évi CXCIII. törvény | 2008-104-00-00.10 |
 | 2012-10-28 | 2012. évi CLI. törvény | 2008-104-00-00.11 |
 | 2013-10-01 | 2013. évi CXLIII. törvény | 2008-104-00-00.12 |
+| 2014-01-01 | 2013. évi CCXXXVI. törvény | 2008-104-00-00.13 |
