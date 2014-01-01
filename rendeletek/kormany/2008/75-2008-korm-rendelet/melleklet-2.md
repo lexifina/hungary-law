@@ -12,11 +12,11 @@
 
 | 5 | Felszíni sajátos építmények, így különösen utak, járdák, forgalomtechnika, zöldterületek építési munkái | Közúthatósági engedélyek | Építmény helye szerint illetékes fővárosi és megyei kormányhivatal közlekedési felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
-| 6 | Valamennyi, megvalósításhoz szükséges építmény | Környezetvédelmi hatósági eljárások, engedélyek | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség | nincs |
+| 6 | Valamennyi, megvalósításhoz szükséges építmény | Környezetvédelmi hatósági eljárások, engedélyek | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség | nincs |
 
-| 7 | Valamennyi, megvalósításhoz szükséges építmény | Természetvédelmi hatósági eljárások, engedélyek | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség | nincs |
+| 7 | Valamennyi, megvalósításhoz szükséges építmény | Természetvédelmi hatósági eljárások, engedélyek | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség | nincs |
 
-| 8 | Valamennyi, megvalósításhoz szükséges építményhez kapcsolódó vízilétesítmény, illetve vízimunka | vízjogi engedélyek | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség | nincs |
+| 8 | Valamennyi, megvalósításhoz szükséges építményhez kapcsolódó vízilétesítmény, illetve vízimunka | vízjogi engedélyek | Országos Vízügyi Hatóság | nincs |
 
 2. számú melléklet a 75/2008. (IV. 3.) Korm. rendelethez[^10]
 
