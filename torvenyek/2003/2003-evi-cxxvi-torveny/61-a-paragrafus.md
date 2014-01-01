@@ -26,19 +26,21 @@ esetén az eljáró vámszerv vámigazgatási bírságot szab ki.
 
 (5) Ha az EUR.1 vagy EUR-MED szállítási bizonyítványt vagy származási nyilatkozatot tartalmazó számlát a külföldi vámhatóság a rajta lévő adatok ellenőrzése céljából visszaküldi Magyarországra, illetve külföldi megkeresés nélkül a magyar vámhatóság az előzőekben nevesített okmányokat, valamint a „Beszállítói Nyilatkozat”-okat vizsgálat tárgyává teszi és az utólagos vizsgálat során az adatok valótlannak bizonyulnak, az exportőr vagy a beszállító az eladási ár, annak hiányában az áru értékének egy százalékát, de legalább százezer, legfeljebb
 
-a) vámhiány keletkezése esetén a (6) bekezdésben,
+a) vámhiány keletkezése esetén a (6)–(6a) bekezdésekben,
 
 b) ha vámhiány nem keletkezik, a (7) bekezdésben
 
 meghatározott vámigazgatási bírságot köteles fizetni. Hosszú távú beszállítói nyilatkozat esetében a mindenkori maximálisan kiszabható bírságot kell megállapítani.
 
-(6) Ha a mulasztás vagy tevékenység következtében vámhiány keletkezik, vámigazgatási bírságként – a (8) bekezdésben foglaltak kivételével – a vámhiány ötven százalékát kell kiszabni. Nem kell a vámigazgatási bírságot kiszabni és beszedni, ha annak összege kevesebb 2500 Ft-nál.
+(6) Ha a mulasztás vagy tevékenység következtében vámhiány keletkezik, vámigazgatási bírságként – a (8) bekezdésben foglaltak kivételével – a vámhiány ötven százalékát kell kiszabni.
+
+(6a) Amennyiben a (6) bekezdés szerint kiszámított bírság összege nem éri el az EK végrehajtási rendelet 868. cikkében meghatározott értékhatárt, a fizetendő vámigazgatási bírság összege 3000 forint.
 
 (7) Amennyiben a mulasztás vagy tevékenység következtében vámhiány nem keletkezik, a vámigazgatási bírság szervezet esetében egymillió forintig, természetes személy esetében százezer forintig terjedhet. Ez esetben a bírság kiszabásánál a vámhatóság mérlegeli az eset összes körülményét, az ügyfél jogellenes magatartásának (tevékenységének vagy mulasztásának) súlyát, gyakoriságát, továbbá azt, hogy az ügyfél, illetve intézkedő képviselője, alkalmazottja, tagja vagy megbízottja az adott helyzetben a tőle elvárható körültekintéssel járt-e el.
 
-(8) A vámigazgatási bírságot nem lehet kiszabni, ha természetes személy esetében a kötelezettségszegés következtében büntető- vagy szabálysértési eljárás indult.
+(8) A vámigazgatási bírságot nem lehet kiszabni, ha természetes személy esetében a kötelezettségszegés következtében büntető- vagy szabálysértési eljárás indult, továbbá a 61/B. § (7)–(8) bekezdésének alkalmazása esetén.
 
-(9) Ha az ügyfél a gyűjtő vámáru-nyilatkozat vagy a vámáru-nyilatkozat adatainak a vámkódex 65. cikke vagy 78. cikk (1) bekezdése szerinti módosítását a korrekcióra okot adó okmány kiállításától számított 60 napon belül a vámhatóságnál kérelmezi, a vámhatóság a módosítás elfogadásakor a vámigazgatási bírság kiszabását mellőzi. Ha az ügyfél a vámáru-nyilatkozat módosítását a fenti időponton túl vagy egyéb okból, de még a vámhatóságnak a vámkódex 78. cikk (2) bekezdése szerinti vagy utólagos ellenőrzésről szóló értesítés kézhezvétele, illetve az előzetes értesítés mellőzése estén az ellenőrzés megkezdése előtt kérelmezi, a vámigazgatási bírság mértéke a (6) bekezdés szerint kiszabható bírság huszonöt százaléka.
+(9)
 
 (10) A vámigazgatási bírságot – a fizetésre kötelezett kérelmére – a külön jogszabályban meghatározott vámszerv elengedheti vagy mérsékelheti, ha
 
@@ -49,5 +51,7 @@ b) a vámigazgatási bírság megfizetése a fizetésre kötelezett és vele egy
 c) az utólagos ellenőrzés alkalmazásában – az a)–b) pontban foglaltak figyelmen kívül hagyásával – a fizetésre kötelezett vizsgálati időszakban nyilvántartott vámigazgatási bírságainak összege nem haladja meg az ezen időszakban kiszabott vámtartozás összegének három százalékát.
 
 (11) Nincs helye a bírság elengedésének, mérséklésének, ha a vámhiány a vámtartozás megállapításához szükséges adatok eltitkolásával, meghamisításával vagy egyéb rosszhiszemű magatartással függ össze.
+
+(11a) A vámigazgatási bírság késedelmes megfizetése esetén az 57. § szerinti kamatot kell felszámítani.
 
 (12)

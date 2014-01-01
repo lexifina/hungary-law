@@ -18,7 +18,7 @@ h) az ellenőrzést végzők aláírását.
 
 (2) Az utólagos ellenőrzés megállapításai alapján részjegyzőkönyv készül, ha az utólagos ellenőrzéssel érintett vámkezelések, vámeljárások, és az ügyfél külkereskedelmi tevékenysége egy részével kapcsolatban a tényállás megfelelően tisztázásra került. A részjegyzőkönyvre a jegyzőkönyv szabályait kell értelemszerűen alkalmazni.
 
-(3) Az utólagos ellenőrzés megállapításait tartalmazó jegyzőkönyvet az ellenőrzött ügyfél részére az ellenőrzés megkezdésétől számított 60 napon belül át kell adni. Indokolt esetben az utólagos ellenőrzést lefolytató hatóság vezetője – az ügyfél értesítésével – a határidőt egy alkalommal, 30 nappal meghosszabbíthatja.
+(3) Az utólagos ellenőrzés megállapításait tartalmazó jegyzőkönyvet az ellenőrzött ügyfél részére az ellenőrzés megkezdésétől számított 90 napon belül át kell adni. Indokolt esetben az utólagos ellenőrzést lefolytató hatóság vezetője – az ügyfél értesítésével – a határidőt egy alkalommal, 30 nappal meghosszabbíthatja.
 
 (4) Az ellenőrzésre előírt határidőt, ha a tényállás további tisztázása szükségessé teszi, a vámhatóság másodfokú szerve egyszer, legfeljebb további 30 napig terjedő időtartammal meghosszabbíthatja.
 

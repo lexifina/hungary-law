@@ -2,7 +2,7 @@
 
 (2) Ha a vámkódex 221. cikke szerint a vámösszeget az adóssal nem kell közölni, akkor ezt az összeget a könyvszerinti nyilvántartásba sem kell felvenni.
 
-(3) A könyvszerinti nyilvántartásba vett vámösszegről és nem közösségi adókról és díjakról szóló, a kérelemnek helyt adó döntés egyszerűsített határozatba foglalható.
+(3) A könyvszerinti nyilvántartásba vett vámösszegről és nem közösségi adókról és díjakról, valamint a korrekciós pótlékról szóló, a kérelemnek helyt adó döntés egyszerűsített határozatba foglalható.
 
 (4) A vámkódex 224. cikkében említett halasztott fizetés szabályait kell alkalmazni a vámmal együtt fizetendő nem közösségi adókra és díjakra is.
 

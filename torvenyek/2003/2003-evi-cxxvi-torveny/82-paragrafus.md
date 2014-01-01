@@ -20,33 +20,35 @@ i) a hitelkamat felszámításának részletes szabályait,
 
 j) a szemledíjra és egyéb díjakra vonatkozó részletes – ideértve annak mértékét is – szabályokat,
 
-k) az egyszerűsített vámeljárásokra vonatkozó részletes szabályokat,
+k) az egyszerűsített eljárásokra vonatkozó részletes szabályokat,
 
 l) az adatfeldolgozási technika alkalmazásához szükséges feltételeket,
 
 m) az integrált postaforgalomra vonatkozó részletes vámszabályokat,
 
-n)
+n) a fizetési halasztás, részletfizetés iránti kérelmek intézése rendjének módját és technikai feltételeit,
 
 o) a vámáru-nyilatkozat ellenőrzés nélküli elfogadásának feltételeit,
 
 p) az engedélyezett gazdálkodó státuszra vonatkozó részletes szabályokat,
 
-q) a vámigazgatási bírságra vonatkozó részletes szabályokat.
+q) a vámigazgatási bírságra vonatkozó részletes szabályokat,
+
+r) a korrekciós pótlékra vonatkozó részletes eljárási szabályokat.
 
 (2) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy a vámkódex 97. cikke (2) bekezdésének a) pontjában meghatározott nemzetközi szerződéseket megkösse.
 
-(3) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy az illetékes miniszterrel egyetértésben rendeletben szabályozza:
+(3) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy rendeletben szabályozza:
 
-a) az 1979. évi 12. tvr.-rel kihirdetett, az oktatási, tudományos és kulturális jellegű tárgyak behozataláról szóló, Lake Success-ben, 1950. november 22-én kelt megállapodás alapján vámmentes vámkezelésre jogosultak körét,
+a) az 1979. évi 12. törvényerejű rendelettel kihirdetett, az oktatási, tudományos és kulturális jellegű tárgyak behozataláról szóló, Lake Success-ben, 1950. november 22-én kelt megállapodás alapján vámmentes vámkezelésre jogosultak körét az oktatásért, a kultúráért és a kormányzati tudománypolitikáért felelős miniszterrel egyetértésben,
 
-b) a szövettipizáló reagensek vámmentes vámkezelésére jogosult laboratóriumokat,
+b) a szövettipizáló reagensek vámmentes vámkezelésére jogosult laboratóriumokat az oktatásért, a kultúráért és a kormányzati tudománypolitikáért felelős miniszterrel egyetértésben,
 
-c) az alapfeladatoktól eltérő külön feladatokat és ellenőrzési kötelezettségeket,
+c) az alapfeladatoktól eltérő külön feladatokat és ellenőrzési kötelezettségeket, az agrárpolitikáért felelős miniszterrel egyetértésben,
 
-d) a katonai csapat- és árumozgásra vonatkozó vámeljárás különös szabályait,
+d) a katonai csapat- és árumozgásra vonatkozó vámeljárás különös szabályait a honvédelemért felelős miniszterrel egyetértésben,
 
-e) a nemzetközi posta- és gyorspostaforgalomra vonatkozó részletes vámeljárási szabályokat.
+e) a nemzetközi posta- és gyorspostaforgalomra vonatkozó részletes vámeljárási szabályokat a postaügyért felelős miniszterrel egyetértésben.
 
 (4) Felhatalmazást kap külpolitikáért felelős miniszter, hogy az adópolitikáért felelős miniszter egyetértésével kiadott rendeletben szabályozza a Vámtarifa Bizottság összetételét és ügyrendjét.
 

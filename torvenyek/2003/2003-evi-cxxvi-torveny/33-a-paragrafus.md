@@ -50,7 +50,7 @@ p) az energiaadó összege;
 
 q)–s)
 
-Az adatszolgáltatás formáját a Nemzeti Adó- és Vámhivatal elnöke tájékoztatóban teszi közzé.
+Az adatszolgáltatás formáját a Nemzeti Adó- és Vámhivatal elnöke tájékoztatásban teszi közzé.
 
 (7) A vámhatóság a nem közösségi adókat és díjakat az adónyilatkozat alapján állapítja meg.
 

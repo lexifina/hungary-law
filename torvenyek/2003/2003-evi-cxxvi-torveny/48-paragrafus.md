@@ -1,12 +1,12 @@
 48. § (1) A nem közösségi adókat és díjakat a vám biztosítására vonatkozó szabályok szerint, a (2)–(4) bekezdésekben meghatározott eltérésekkel kell biztosítani.
 
-(2) Mentes az általános forgalmi adó biztosítása alól a vámigazgatási eljárásban az az adóalany,
+(2) A vámhatóság kérelemre engedélyezi az áfa biztosítása alóli mentességet a vámigazgatási eljárásban annak az adóalanynak,
 
 a) aki megbízható vámadós, és
 
-b) akinek folyamatos működés mellett a tárgyévet megelőző kettő egymást követő naptári éven belül nem keletkezett az állami adóhatóságnál általános forgalmi adó jogcímen tartozása, illetőleg a vámhatóságnál tartozása.
+b) akinek folyamatos működés mellett a tárgyévet megelőző kettő egymást követő naptári éven belül nem keletkezett az állami adóhatóságnál áfa jogcímen tartozása, illetőleg a vámhatóságnál tartozása.
 
-(3) Az általános forgalmi adó összegének ötven százalékát kell biztosítania a vámigazgatási eljárásban annak az adóalanynak, akire folyamatos működés mellett csak a tárgyévet megelőző naptári évre teljesül a (2) bekezdésben előírt feltétel.
+(3) A vámhatóság kérelemre engedélyezi, hogy az áfa összegének ötven százalékát kell biztosítania a vámigazgatási eljárásban annak az adóalanynak, akire folyamatos működés mellett csak a tárgyévet megelőző naptári évre teljesül a (2) bekezdésben előírt feltétel.
 
 (4) A (2)–(3) bekezdésben meghatározott mentesség, illetve kedvezmény vonatkozik az energiaadó biztosítására is.
 
@@ -18,8 +18,8 @@ b) akinek folyamatos működés mellett a tárgyévet megelőző kettő egymást
 
 a) az állami adóhatóságnál a tárgyévet megelőző kettő egymást követő naptári éven belül az adóalany általános forgalmi adó jogcímen nyilvántartott késedelmesen megfizetett tartozása nem haladta meg az ezen időszakban e jogcímen keletkezett kötelezettségeinek három százalékát;
 
-b) a vámhatóságnál a tárgyévet megelőző kettő egymást követő naptári éven belül az adóalany a vámhatóság hatáskörébe tartozó fizetési kötelezettségek tekintetében nyilvántartott késedelmesen megfizetett tartozásainak összege nem haladta meg az ezen időszakban e jogcímeken mindösszesen keletkezett kötelezettségeinek három százalékát.
+b) a vámhatóságnál a tárgyévet megelőző kettő egymást követő naptári éven belül az adóalany a vámhatóság hatáskörébe tartozó fizetési kötelezettségek tekintetében nyilvántartott késedelmesen megfizetett tartozásainak összege nem haladta meg az ezen időszakban e jogcímeken mindösszesen keletkezett és fel nem függesztett kötelezettségeinek három százalékát.
 
 (8) A Vtv. 48. § (3) bekezdése alkalmazásában a (7) bekezdés a) és b) pontját azzal az eltéréssel kell alkalmazni, hogy a vizsgálandó időszak a tárgyévet megelőző naptári év.
 
-(9) Mentes továbbá az általános forgalmi adó biztosítása alól a vámigazgatási eljárásban az EK végrehajtási rendelet 14a. cikke (1) bekezdés a) vagy c) pontja szerinti engedélyezett gazdálkodói tanúsítvánnyal rendelkező gazdálkodó.
+(9) Mentes továbbá az áfa és az energiaadó biztosítása alól a vámigazgatási eljárásban az EK végrehajtási rendelet 14a. cikke (1) bekezdés a) vagy c) pontja szerinti engedélyezett gazdálkodói tanúsítvánnyal rendelkező gazdálkodó.

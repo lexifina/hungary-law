@@ -17,3 +17,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-126-00-00
 | 2013-01-01 | 2012. évi CLXXVIII. törvény | 2003-126-00-00.31 |
 | 2013-04-04 | 2013. évi XXII. törvény | 2003-126-00-00.32 |
 | 2013-07-01 | 2012. évi CCXXIII. törvény | 2003-126-00-00.33 |
+| 2014-01-01 | 2013. évi CC. törvény | 2003-126-00-00.34 |
