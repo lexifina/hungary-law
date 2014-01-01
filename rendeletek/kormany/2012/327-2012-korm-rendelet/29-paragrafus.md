@@ -4,19 +4,19 @@
 
 (2) A hatályos keretszerződés időtartama – a 16. § szerinti ellenőrzés eredményét is figyelembe véve – évente, további 1 évvel hosszabbítható meg.
 
-(3)[^47] A keretszerződés megkötése, illetve meghosszabbítása minden évben november 30-ig – meghívásos pályázat esetén a pályázatokról való miniszteri döntést követő 8 munkanapon belül – történik.
+(3)[^51] A keretszerződés megkötése, illetve meghosszabbítása minden évben november 30-ig – meghívásos pályázat esetén a pályázatokról való miniszteri döntést követő 8 munkanapon belül – történik.
 
 (4) A keretszerződésben
 
 a) a munkáltató vállalja, hogy a munkavállaló rehabilitációs foglalkoztatásának e rendeletben meghatározott személyi és tárgyi feltételeit biztosítja, amennyiben a munkavállaló után egyéni támogatásban részesül;
 
-b)[^48] a Hivatal vállalja, hogy az éves támogatási szerződésben meghatározott számú munkavállaló rehabilitációs foglalkoztatásához az egyéni támogatást – a költségvetési források függvényében – biztosítja.
+b)[^52] a Hivatal vállalja, hogy az éves támogatási szerződésben meghatározott számú munkavállaló rehabilitációs foglalkoztatásához az egyéni támogatást – a költségvetési források függvényében – biztosítja.
 
 (5) A keretszerződésnek tartalmaznia kell különösen
 
-a)[^49] a tranzit foglalkoztatást, illetve tartós foglalkoztatást biztosító munkahelyek számát, a foglalkoztatás jellemzőit, személyi és tárgyi feltételeit,
+a)[^53] a tranzit foglalkoztatást, illetve tartós foglalkoztatást biztosító munkahelyek számát, a foglalkoztatás jellemzőit, személyi és tárgyi feltételeit,
 
-b)[^50]
+b)[^54]
 
 c) a munkáltató bejelentési és adatszolgáltatási kötelezettségét,
 
@@ -30,7 +30,7 @@ g) a keretszerződés módosításának és felmondásának eseteit és módját
 
 h) a szerződésszegés következményeit.
 
-[^47]: A 29. § (3) bekezdése a 335/2013. (IX. 20.) Korm. rendelet 27. § h) pontja szerint módosított szöveg.
-[^48]: A 29. § (4) bekezdés b) pontja a 335/2013. (IX. 20.) Korm. rendelet 27. § i) pontja szerint módosított szöveg.
-[^49]: A 29. § (5) bekezdés a) pontja a 335/2013. (IX. 20.) Korm. rendelet 28. § (1) bekezdés j) pontja szerint módosított szöveg.
-[^50]: A 29. § (5) bekezdés b) pontját a 335/2013. (IX. 20.) Korm. rendelet 28. § (1) bekezdés k) pontja hatályon kívül helyezte.
+[^51]: A 29. § (3) bekezdése a 335/2013. (IX. 20.) Korm. rendelet 27. § h) pontja szerint módosított szöveg.
+[^52]: A 29. § (4) bekezdés b) pontja a 335/2013. (IX. 20.) Korm. rendelet 27. § i) pontja szerint módosított szöveg.
+[^53]: A 29. § (5) bekezdés a) pontja a 335/2013. (IX. 20.) Korm. rendelet 28. § (1) bekezdés j) pontja szerint módosított szöveg.
+[^54]: A 29. § (5) bekezdés b) pontját a 335/2013. (IX. 20.) Korm. rendelet 28. § (1) bekezdés k) pontja hatályon kívül helyezte.

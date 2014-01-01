@@ -16,8 +16,8 @@ g) az e rendelet szerinti ellenőrzések során 12 negatív értékelőpontot ö
 
 h) az akkreditációs eljárás, illetve ellenőrzés során olyan lényeges tényt vagy körülményt hallgatott el, vagy olyan tényről nyilatkozott valótlan tartalommal, amely a rehabilitációs akkreditációs tanúsítvány kiadását kizárja, illetve visszavonását megalapozza,
 
-i)[^16] a 2. és a 3. § szerinti, az akkreditációs tanúsítvány kiadásához kapcsolódó valamely feltételt nem teljesíti, amennyiben a hiánypótlásra vagy a jogsértő állapot vagy magatartás megszüntetésére felhívó végzésben biztosított határidő eredménytelenül telt el.
+i)[^19] a 2. és a 3. § szerinti, az akkreditációs tanúsítvány kiadásához kapcsolódó valamely feltételt nem teljesíti, amennyiben a hiánypótlásra vagy a jogsértő állapot vagy magatartás megszüntetésére felhívó végzésben biztosított határidő eredménytelenül telt el.
 
 (2) Ha a rehabilitációs akkreditációs tanúsítvány visszavonására az (1) bekezdés h) pontjában megjelölt okból kerül sor, az érintett munkáltató, illetve jogutódja az új rehabilitációs akkreditációs tanúsítvány iránti kérelmet legkorábban a tanúsítvány visszavonásáról rendelkező határozat jogerőre emelkedésétől számított két év elteltével nyújthatja be. Az ezt megelőzően benyújtott rehabilitációs akkreditációs tanúsítvány iránti kérelmet érdemi vizsgálat nélkül el kell utasítani.
 
-[^16]: A 8. § (1) bekezdés i) pontját a 335/2013. (IX. 20.) Korm. rendelet 7. §-a iktatta be.
+[^19]: A 8. § (1) bekezdés i) pontját a 335/2013. (IX. 20.) Korm. rendelet 7. §-a iktatta be.

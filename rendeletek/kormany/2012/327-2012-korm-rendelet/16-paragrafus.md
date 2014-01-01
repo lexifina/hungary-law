@@ -18,11 +18,11 @@ d) az illetékes hatóság által kiszabott munkaügyi, munkavédelmi, illetve a
 
 e) ha a rehabilitációs akkreditációs tanúsítvány hatálya alatt az állami adó- és vámhatóság, illetve a telephely tekintetében illetékes önkormányzati adóhatóság által nyilvántartott, 60 napon túl folyamatosan fennálló, túlfizetéssel csökkentett adótartozással rendelkezik vagy rendelkezett, 1–3 pontig terjedő mértékben,
 
-f)[^24] ha a csődeljárással kapcsolatos bejelentési kötelezettségének határidőben nem tett eleget, 2 pont mértékben,
+f)[^27] ha a csődeljárással kapcsolatos bejelentési kötelezettségének határidőben nem tett eleget, 2 pont mértékben,
 
 g) a 3. melléklet szerinti esetekben az ott meghatározott keretek között,
 
-h)[^25] a 2. és a 3. § szerinti, az akkreditációs tanúsítvány kiadásához kapcsolódó feltétel megsértése esetén 1–4 pontig terjedő mértékben.
+h)[^28] a 2. és a 3. § szerinti, az akkreditációs tanúsítvány kiadásához kapcsolódó feltétel megsértése esetén 1–4 pontig terjedő mértékben.
 
 (5) A negatív értékelőpont megállapításának feltétele, hogy
 
@@ -44,12 +44,12 @@ b) a szabályszegés ismétlése,
 
 c) az ismételt szabályszegés gyakorisága.
 
-(7)[^26]
+(7)[^29]
 
 (8) A kiszabott negatív értékelőpontokat a Hivatal a munkáltatóval végzésben közli.
 
 (9) A negatív értékelőpontot a kiszabásáról rendelkező döntés jogerőre emelkedését követő 3 év elteltével az e rendelet szerinti valamennyi eljárásban figyelmen kívül kell hagyni.
 
-[^24]: A 16. § (4) bekezdés f) pontja a 335/2013. (IX. 20.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^25]: A 16. § (4) bekezdés h) pontját a 335/2013. (IX. 20.) Korm. rendelet 11. § (2) bekezdése iktatta be.
-[^26]: A 16. § (7) bekezdését a 335/2013. (IX. 20.) Korm. rendelet 28. § (1) bekezdés h) pontja hatályon kívül helyezte.
+[^27]: A 16. § (4) bekezdés f) pontja a 335/2013. (IX. 20.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^28]: A 16. § (4) bekezdés h) pontját a 335/2013. (IX. 20.) Korm. rendelet 11. § (2) bekezdése iktatta be.
+[^29]: A 16. § (7) bekezdését a 335/2013. (IX. 20.) Korm. rendelet 28. § (1) bekezdés h) pontja hatályon kívül helyezte.

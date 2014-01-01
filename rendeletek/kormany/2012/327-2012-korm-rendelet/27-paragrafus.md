@@ -1,4 +1,4 @@
-27. § (1)[^44] A pályázati eljárást a Hivatal bonyolítja le. A Hivatal a pályázatokat a benyújtási határidőt követő 8 munkanapon belül javaslattételre előkészíti és megküldi a pályázati bíráló bizottság (a továbbiakban: bizottság) részére.
+27. § (1)[^48] A pályázati eljárást a Hivatal bonyolítja le. A Hivatal a pályázatokat a benyújtási határidőt követő 8 munkanapon belül javaslattételre előkészíti és megküldi a pályázati bíráló bizottság (a továbbiakban: bizottság) részére.
 
 (2) A bizottság 5 tagból áll, elnöke a Hivatal főigazgatója,
 
@@ -12,7 +12,7 @@ d) 1 tagját a Hivatal főigazgatója
 
 jelöli ki minden évben az általa vezetett szervezet kormánytisztviselői közül, a pályázati felhívás közzétételét követő 5 munkanapon belül. A bizottsági tag akadályoztatása esetén helyettesítő tagot kell kijelölni. A bizottság a döntéseit az összes tag részvételével, ellenszavazat nélkül hozza. A bizottság a működési rendjét – e rendelet keretei között – maga határozza meg. A bizottság működésének feltételeit a Hivatal biztosítja.
 
-(3)[^45] A bizottság 2 munkanapon belül javaslatot tesz a miniszter részére a nyertes pályázatokra. A bizottság a javaslatát köteles indokolni.
+(3)[^49] A bizottság 2 munkanapon belül javaslatot tesz a miniszter részére a nyertes pályázatokra. A bizottság a javaslatát köteles indokolni.
 
 (4) A bizottság a javaslatát a következő szempontok alapján alakítja ki:
 
@@ -40,7 +40,7 @@ k) a miniszter által a pályázati kiírásban meghatározott egyéb szempontok
 
 (5) A bizottsági ülésről készített jegyzőkönyvnek tartalmaznia kell a bizottság tagjainak nevét, a bizottsági javaslat meghozatalának napját, a pályázatokról kialakított bizottsági javaslatot és annak indokolását. A jegyzőkönyv a pályázati eljárás lezárását követően nyilvános, abba bárki betekinthet.
 
-(6)[^46] A miniszter a bizottság javaslatának beérkezését követő 3 munkanapon belül dönt a nyertes pályázókról, és döntéséről tájékoztatja a Hivatalt.
+(6)[^50] A miniszter a bizottság javaslatának beérkezését követő 3 munkanapon belül dönt a nyertes pályázókról, és döntéséről tájékoztatja a Hivatalt.
 
 (7) A Hivatal a döntésről értesíti a pályázókat. Az értesítés tartalmazza
 
@@ -52,6 +52,6 @@ ab) a keretszerződés megkötésének időpontját, a benyújtandó dokumentumo
 
 b) elutasított pályázat esetén az elutasítás indokát.
 
-[^44]: A 27. § (1) bekezdése a 335/2013. (IX. 20.) Korm. rendelet 27. § e) pontja szerint módosított szöveg.
-[^45]: A 27. § (3) bekezdése a 335/2013. (IX. 20.) Korm. rendelet 27. § f) pontja szerint módosított szöveg.
-[^46]: A 27. § (6) bekezdése a 335/2013. (IX. 20.) Korm. rendelet 27. § g) pontja szerint módosított szöveg.
+[^48]: A 27. § (1) bekezdése a 335/2013. (IX. 20.) Korm. rendelet 27. § e) pontja szerint módosított szöveg.
+[^49]: A 27. § (3) bekezdése a 335/2013. (IX. 20.) Korm. rendelet 27. § f) pontja szerint módosított szöveg.
+[^50]: A 27. § (6) bekezdése a 335/2013. (IX. 20.) Korm. rendelet 27. § g) pontja szerint módosított szöveg.
