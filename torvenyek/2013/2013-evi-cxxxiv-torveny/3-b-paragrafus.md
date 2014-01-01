@@ -1,0 +1,3 @@
+3/B. § (1) A 3/A. § (2) bekezdése szerinti hatósági döntéshez szükséges, a tüzelőberendezésekre és égéstermék-elvezetőkre vonatkozó műszaki adatokat, valamint az érintett ingatlanok címeit az ellátásért felelős települési önkormányzat és a kéményseprő-ipari közszolgáltatást korábban biztosító közszolgáltató az állami szerv kérésére haladéktalanul szolgáltatja.
+
+(2) Az átmeneti ellátás során végzett kéményseprő-ipari közszolgáltatásnak az ellátásért felelős települési önkormányzat által megállapított díját a kéményseprő-ipari közszolgáltatásról szóló 2012. évi XC. törvény szerint az ingatlan használója fizeti meg.
