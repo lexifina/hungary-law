@@ -1,1 +1,0 @@
-A biztosítóintézetekről és biztosítási tevékenységről szóló – többször módosított – 1995. évi XCVI. törvény 168. § (1) bekezdésének g) pontjában kapott felhatalmazás alapján a Kormány a következőket rendeli el:
