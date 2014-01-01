@@ -1,0 +1,3 @@
+## 11. § Az R2. 123. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) A Hjt. 109. § (4) bekezdése szerinti pótszabadságra való jogosultságot a 10. melléklet szerint kell megállapítani. A pótszabadságra való jogosultság megállapításakor a pótszabadság mértékébe be kell számítani azokat a napokat, amelyeken az állománynak a kondicionáló-kiképzési, valamint a katonai kiképzési és oktatási célú rendezvényekről, továbbá a regeneráló pihenés és a rekreáció rendjéről szóló 13/2013. (VIII. 21.) HM rendelet (a továbbiakban: HM rendelet) 4. § (1) bekezdése szerinti tagja a HM rendelet 4. és 5. §-a alapján kondicionáló-kiképzési rendezvényen vett részt.”

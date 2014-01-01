@@ -1,0 +1,3 @@
+## „(2) Azt a katonát, aki a honvédek jogállásáról szóló 2012. évi CCV. törvény egyes rendelkezéseinek végrehajtásáról szóló 9/2013. (VIII. 12.) HM rendeletnek és egyes honvédelmi miniszteri rendeleteknek az egyes törvényeknek az új Polgári Törvénykönyv hatálybalépésével összefüggő módosításáról szóló törvénnyel összefüggő módosításáról szóló 24/2013. (XII. 20.) HM rendelet (a továbbiakban: HM rendelet) hatályba lépésekor egy évet meghaladó külföldi katonai szolgálatot teljesít, a HM rendelet hatálybalépését követően e külföldi szolgálatteljesítése vonatkozásában nem kell ismételt alkalmasság vizsgálatra rendelni.”
+
+## 2. A Magyar Honvédség élelmezési ellátásáról szóló 22/2006. (VIII. 8.) HM rendelet módosítása
