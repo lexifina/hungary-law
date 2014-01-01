@@ -76,9 +76,9 @@
 
 | ..................................... cégszerű aláírás |
 
-| Küldendő: 1 példányban, az Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőséghez (1539 Budapest, Pf. 675). Beküldési határidő: a hulladéklerakási járulék fizetési kötelezettség keletkezésétől számított 15 napon belül. |
+| Küldendő: 1 példányban, az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőséghez (1539 Budapest, Pf. 675). Beküldési határidő: a hulladéklerakási járulék fizetési kötelezettség keletkezésétől számított 15 napon belül. |
 
-2. melléklet a 318/2013. (VIII. 28.) Korm. rendelethez
+2. melléklet a 318/2013. (VIII. 28.) Korm. rendelethez[^4]
 
 Hulladéklerakási járulék adatszolgáltatási lap
 
@@ -178,4 +178,6 @@ P. H.
 
 | ..................................... cégszerű aláírás |
 
-| Küldendő: 1 példányban az OKTVF részére. Beadási határidő: a tárgynegyedévet követő hónap 20. napjáig, a hulladéklerakási járulék befizetésével egyidejűleg. |
+| Küldendő: 1 példányban az OKTF részére. Beadási határidő: a tárgynegyedévet követő hónap 20. napjáig, a hulladéklerakási járulék befizetésével egyidejűleg. |
+
+[^4]: A 2. melléklet az 527/2013. (XII. 30.) Korm. rendelet 152. § c) pontja szerint módosított szöveg.
