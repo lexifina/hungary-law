@@ -6,9 +6,9 @@
 
 | 2. | a hatvani Grassalkovich-kastély főépületének és parkjának rekonstrukciója | Hatvan, belterület 2713/4 hrsz.; 2713/6 hrsz. | műemléki védelem alatt álló építmények építésügyi hatósági engedélye | Egri Járási Hivatal járási építésügyi és örökségvédelmi hivatala | Heves Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
-| 3. | környezetvédelmi hatósági engedélyezési eljárások | Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 3. | környezetvédelmi hatósági engedélyezési eljárások | Közép-Duna-völgyi Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
-| 4. | vízjogi hatósági eljárások | Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 4. | vízjogi hatósági eljárások | Közép-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
 | 5. | ingatlan-nyilvántartási hatósági eljárások | Illetékes járási földhivatal | Heves Megyei Kormányhivatal Földhivatala |
 
@@ -42,6 +42,8 @@ A beruházással összefüggő kiemelt jelentőségű üggyé minősített ható
 
 | 6. | egészségügy | Heves Megyei Kormányhivatal Népegészségügyi Szakigazgatási Szerve | Országos Tisztifőorvosi Hivatal |
 
-| 7. | környezetvédelem, természetvédelem és vízügy | Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 7. | környezetvédelem és természetvédelem | Közép-Duna-völgyi Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
-[^2]: A 2. melléket a 394/2012. (XII. 20.) Korm. rendelet 50. §-a szerint módosított szöveg.
+| 8. | vízügy | Közép-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
+
+[^2]: A 2. melléklet a 394/2012. (XII. 20.) Korm. rendelet 50. §-a, az 527/2013. (XII. 30.) Korm. rendelet 106. § (2) bekezdése szerint módosított szöveg.
