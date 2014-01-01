@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-16-20-2
 | 2013-06-04 | 2013-16-20-2X.1 | 16/2013. (VI. 3.) NGM rendelet |
 | 2013-06-05 | 2013-16-20-2X.2 | 2010: CXXX. törvény |
 | 2013-09-14 | 2013-16-20-2X.3 | 37/2013. (IX. 13.) NGM rendelet |
+| 2014-01-01 | 2013-16-20-2X.4 | 74/2013. (XII. 30.) NGM rendelet |

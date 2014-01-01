@@ -2,11 +2,11 @@
 
 ## 2. A támogatás mértéke, igénybevételének feltételei
 
-4. § (1) Az előirányzat terhére vissza nem térítendő támogatás (a továbbiakban: támogatás) a Rendeletnek megfelelő, online kapcsolatra képes, adóügyi ellenőrző egységgel rendelkező pénztárgép 2013. évi beszerzéséhez nyújtható. A támogatást
+4. § (1)[^2] Az előirányzat terhére vissza nem térítendő támogatás (a továbbiakban: támogatás) a Rendeletnek megfelelő, online kapcsolatra képes, adóügyi ellenőrző egységgel rendelkező pénztárgép 2013. és 2014 évi beszerzéséhez nyújtható. A támogatást
 
 a) a Rendelet 1. § (1) bekezdése alapján pénztárgép használatra kötelezett adóalany a saját tulajdonában álló és általa üzemeltetett, 2013. március 20-át megelőzően engedélyezett pénztárgép cseréje esetén,
 
-b) a Rendelet 76/A. § szerinti felmentéssel rendelkező adóalany,
+b)[^3] a Rendelet 76. § szerinti felmentéssel rendelkező adóalany,
 
 c) a Rendelet 1. § (1) bekezdése alapján pénztárgép használatra nem kötelezett, pénztárgépet saját döntése alapján üzemeltető adóalany a saját tulajdonában álló, és általa üzemeltetett, 2013. március 20-át megelőzően engedélyezett pénztárgép cseréje esetén,
 
@@ -29,3 +29,6 @@ bb) nem áll végelszámolási-, felszámolási-, csőd- vagy kényszertörlési
 bc) nem rendelkezik az állami adó- és vámhatóságnál nyilvántartott, az állami adó- és vámhatóság által nyilvántartott túlfizetés összegével csökkentett, 180 napon keresztül folyamatosan fennálló 1 millió forintot meghaladó adó- és vámtartozással, kivéve ha arra az állami adó- és vámhatóság részletfizetést vagy fizetési halasztást engedélyezett, és
 
 bd) nem rendelkezik munkáltatóként, kifizetőként levont adó tekintetében 10 ezer forintot meghaladó adótartozással.
+
+[^2]: A 4. § (1) bekezdés nyitó szövegrésze a 74/2013. (XII. 30.) NGM rendelet 9. § 2. pontja szerint módosított szöveg.
+[^3]: A 4. § (1) bekezdés b) pontja a 74/2013. (XII. 30.) NGM rendelet 9. § 3. pontja szerint módosított szöveg.
