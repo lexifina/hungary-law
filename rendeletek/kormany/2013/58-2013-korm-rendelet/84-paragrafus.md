@@ -28,6 +28,4 @@ f) víziközmű-fejlesztési hozzájárulás fizetésére kötelezett felhaszná
 
 (8) A mellékszolgáltatási szerződést az elkülönített vízhasználó 30 napos határidővel, a víziközmű-szolgáltató pedig 60 napot meghaladó díjtartozás esetén további 15 napos határidővel felmondhatja. A mellékszolgáltatási szerződés felmondásáról a bekötési vízmérő felhasználóját a víziközmű-szolgáltató a felmondással egyidejűleg tájékoztatja.
 
-(9)[^2]
-
-[^2]: A 84. § (9) bekezdése a 95. § (2) bekezdése alapján 2014. január 1. napján lép hatályba.
+(9) A mellékszolgáltatási szerződés alapját képező mellékvízmérő beépítése (felszerelése), cseréje esetén, azzal egyidejűleg a mellékvízmérőt üzembe kell helyezni és az illetéktelen beavatkozás, leszerelés megakadályozása céljából plombával vagy záró bélyeggel kell ellátni. Az üzembe helyezésről, valamint a plombával vagy záró bélyeggel való ellátásról a víziközmű-szolgáltató gondoskodik. A mellékvízmérő üzembe helyezését, valamint plombával vagy záró bélyeggel való ellátását a szolgáltató üzletszabályzatában meghatározott feltételeknek megfelelő vállalkozó is elvégezheti.

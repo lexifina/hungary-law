@@ -18,7 +18,7 @@
 
 (8) A Hivatal a közérdekű üzemeltető kijelölésére irányuló eljárást (e fejezet alkalmazásában a továbbiakban: kijelölési eljárás) a Vksztv. 32. § (1) bekezdésében meghatározott feltételek fennállása esetén a tudomásszerzést követő három munkanapon belül, hivatalból megindítja.
 
-(9) A kijelölési eljárás megindításáról a Hivatal – az ellátásért felelősön kívül – értesíti az érintett ellátási terület szerint illetékes fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szervét (a továbbiakban: népegészségügyi szakigazgatási szerv), környezetvédelmi, természetvédelmi és vízügyi, valamint katasztrófavédelmi hatóságot.
+(9)[^1] A kijelölési eljárás megindításáról a Hivatal – az ellátásért felelősön kívül – értesíti az érintett ellátási terület szerint illetékes fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szervét (a továbbiakban: népegészségügyi szakigazgatási szerv), vízügyi, valamint katasztrófavédelmi hatóságot.
 
 (10) A kijelölési eljárás során a víziközmű-szolgáltatás fenntartása érdekében a Hivatal mind a víziközmű-szolgáltatót, mind az ellátásért felelőst haladéktalanul intézkedések megtételére kötelezheti, egyidejűleg kísérletet tesz a víziközmű-szolgáltatás zavartalan működésének helyreállítására.
 
@@ -41,3 +41,5 @@ e) a feladatok átvételéhez szükséges előkészület időigényét.
 (14) Amennyiben a víziközmű-szolgáltatás a (13) bekezdés szerinti víziközmű-szolgáltatókkal nem biztosítható, a Hivatal a (12) bekezdésben foglalt szempontok alapján, bármely, a lajstromban nem szereplő víziközmű-szolgáltatót kijelölheti közérdekű üzemeltetőnek, amelynek a működési engedélyét nem a Vksztv. 84. § (1) bekezdése szerinti bocsátotta ki.
 
 (15) A Hivatal a közérdekű üzemeltető kijelölését szükségessé tevő, a Vksztv. 32. § (1) bekezdésében rögzített körülményeket, az addigi víziközmű-szolgáltató és az ellátásért felelős ezzel összefüggő tevékenységét a kijelölési eljárással egyidejűleg megvizsgálja, és ha jogszabálysértést állapít meg, bírságot szab ki.
+
+[^1]: A 17. § (9) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 139. § a) pontja szerint módosított szöveg.

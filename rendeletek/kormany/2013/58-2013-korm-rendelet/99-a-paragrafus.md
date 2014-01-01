@@ -1,4 +1,4 @@
-99/A. §[^4] (1) E rendelet hatálybalépésekor folyamatban lévő szennyvízberuházások esetében a 85/A. § rendelkezéseit a (2)–(4) bekezdésben foglalt eltérésekkel kell alkalmazni.
+99/A. §[^7] (1) E rendelet hatálybalépésekor folyamatban lévő szennyvízberuházások esetében a 85/A. § rendelkezéseit a (2)–(4) bekezdésben foglalt eltérésekkel kell alkalmazni.
 
 (2) A jogerős és hatályos elvi vízjogi engedéllyel vagy jogerős és hatályos vízjogi létesítési engedéllyel rendelkező, folyamatban lévő szennyvízberuházás esetén a beruházó – legfeljebb a (7) bekezdésben meghatározott időpontig – mentesül a szennyvíz beemelő és a felhasználási helytől független energiaellátás kiépítésének kötelezettsége alól, ha
 
@@ -26,4 +26,4 @@ b) a vízjogi létesítési engedélye még nem jogerős,
 
 (9) A (8) bekezdés szerinti megállapodás hatálya az abban részes felek jogutódaira is kiterjed.
 
-[^4]: A 99/A. §-t a 458/2013. (XII. 2.) Korm. rendelet 2. §-a iktatta be.
+[^7]: A 99/A. §-t a 458/2013. (XII. 2.) Korm. rendelet 2. §-a iktatta be.
