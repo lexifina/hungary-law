@@ -14,6 +14,4 @@ a) az Értékesítőknek a következő hónapot követő 12 hónapra várható, 
 
 b) a következő hónapot követő 12 hónapra várható, összesített KÁT átadási menetrend mennyiségi értékeit.
 
-(4)[^5]
-
-[^5]: A 7. § (4) bekezdése a 13. § (4) bekezdés 2. pontja alapján 2014. január 1-jén lép hatályba.
+(4) A Befogadó köteles minden naptári napon honlapján nyilvánosságra hozni az általa az előző napon a szervezett villamosenergia-piacon ténylegesen értékesített villamos energia mennyiségét órás bontásban.
