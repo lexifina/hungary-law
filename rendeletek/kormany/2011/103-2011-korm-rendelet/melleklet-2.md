@@ -26,9 +26,9 @@
 
 | 11. | A tervezett koncessziós tevékenység érint-e helyi természetvédelmi oltalom alatt álló (önkormányzati rendeletben meghatározott) területet, és a helyi építési szabályzatnak való megfelelése. | Települési önkormányzat jegyzője, fővárosban a főjegyző |
 
-| 12. | A területen található régészeti lelőhelyre, régészeti védőövezetre, műemlékre és műemléki területre vonatkozó követelmények. | Megyei, fővárosi kormányhivatal kulturális örökségvédelmi irodája |
+| 12. | A területen található régészeti lelőhelyre, régészeti védőövezetre, műemlékre és műemléki területre vonatkozó követelmények. | Járási (fővárosi kerületi) hivatal járási építésügyi és örökségvédelmi hivatala |
 
-2. melléklet a 103/2011. (VI. 29.) Korm. rendelethez
+2. melléklet a 103/2011. (VI. 29.) Korm. rendelethez[^9]
 
 A komplex érzékenységi és terhelhetőségi vizsgálati tanulmány tartalma
 
@@ -68,6 +68,10 @@ A komplex érzékenységi és terhelhetőségi vizsgálati tanulmány tartalma
 
 3.1. A terület, térrész azon környezeti jellemzőinek meghatározása, melyet a tevékenység jelentősen befolyásolhat.
 
-3.2. A bányászati tevékenység értékelése a felszíni és felszín alatti víztestekre, ivóvízbázisra, védett természeti és Natura 2000 területekre vonatkozóan, a várható állapotváltozások megadása, a várható regionális vagy országhatáron átnyúló hatások bemutatása.
+3.2. A bányászati tevékenység értékelése a felszíni és felszín alatti víztestekre, ivóvízbázisokra vonatkozóan a várható állapotváltozások megadása, a várható regionális vagy országhatáron átnyúló hatások bemutatása.
 
 3.3. A területen és térrészen a környezeti hatások miatti korlátozás vagy tiltás alá eső bányászati technológiák felsorolása.
+
+3.4. A bányászati tevékenység értékelése a védett természeti és NATURA 2000 területekre vonatkozóan a várható állapotváltozások megadása, a várható regionális vagy országhatáron átnyúló hatások bemutatása.
+
+[^9]: A 2. melléklet az 527/2013. (XII. 30.) Korm. rendelet 100. § (6) bekezdése szerint módosított szöveg.

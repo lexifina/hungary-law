@@ -1,4 +1,4 @@
-5. § (1)[^4] Az MBFH az MFGI bevonásával a tanulmány, valamint a megkeresett közigazgatási szervek által szolgáltatott adatok és vélemény alapján a véleményezésre megállapított határidő leteltétől számított 15 napon belül elkészíti a vizsgálat eredményét tartalmazó jelentés (a továbbiakban: jelentés) tervezetét.
+5. § (1)[^6] Az MBFH az MFGI bevonásával a tanulmány, valamint a megkeresett közigazgatási szervek által szolgáltatott adatok és vélemény alapján a véleményezésre megállapított határidő leteltétől számított 15 napon belül elkészíti a vizsgálat eredményét tartalmazó jelentés (a továbbiakban: jelentés) tervezetét.
 
 (2) A jelentés tervezete tartalmazza a koncessziós pályázatban kiírni javasolt
 
@@ -16,4 +16,4 @@ f) területen és térrészen belül annak a területnek vagy térrésznek a meg
 
 (3) A jelentés tervezetében ismertetni kell a vizsgálat elvégzéséhez felhasznált adatok forrását, a kutatások irodalomjegyzékét, a vizsgálat korlátait és a bizonytalanságokat.
 
-[^4]: Az 5. § (1) bekezdése a 320/2011. (XII. 27.) Korm. rendelet 3. § c) pontja szerint módosított szöveg.
+[^6]: Az 5. § (1) bekezdése a 320/2011. (XII. 27.) Korm. rendelet 3. § c) pontja szerint módosított szöveg.
