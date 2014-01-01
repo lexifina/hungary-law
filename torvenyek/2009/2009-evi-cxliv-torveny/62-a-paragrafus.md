@@ -1,0 +1,3 @@
+62/A. § (1) Az állami tulajdonnak minősülő, az 1992. január 1-jei rendező mérleg és rendező eredménykimutatás készítéséről szóló miniszteri rendelet alapján a vízitársulat jegyzett tőkéjébe átsorolt közcélú vizek és vízilétesítmények könyv szerinti értékét 2014. december 31-ig a vízitársulati jegyzett tőkéből ellentételezés nélkül, adó-, járulék- és illetékmentesen ki kell vonni, és a közcélú vizek és vízilétesítmények könyv szerinti értékével a jegyzett tőkét le kell szállítani.
+
+(2) Ha az európai uniós támogatással megvalósuló vízgazdálkodási beruházás kedvezményezettje a vízitársulat, az eddigi kedvezményezett helyébe a forgalomképes állami tulajdonban lévő vizeket és vízilétesítményeket érintő beruházásoknál a vízügyi igazgatási szerv lép.

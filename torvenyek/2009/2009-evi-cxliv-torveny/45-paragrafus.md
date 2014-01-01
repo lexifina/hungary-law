@@ -1,1 +1,1 @@
-45. § A társulati művek körébe tartozó állami, önkormányzati és egyéb tulajdonú vizekre és vízilétesítményekre használati (üzemeltetői) szerződést köt a tulajdonossal.
+45. § A települési önkormányzati és a magántulajdonba tartozó társulati művekre a tulajdonos köthet a vízitársulattal – versenyeztetés nélkül – üzemeltetési szerződést.

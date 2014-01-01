@@ -74,6 +74,6 @@
 
 36. törvényességi felügyeletet gyakorló szerv: a területileg illetékes cégbíróság;
 
-37. vízitársulati jegyzett tőke: a vízitársulatok saját vagyona;
+37.
 
 38. közgyűlés: a társulati tagok összessége.
