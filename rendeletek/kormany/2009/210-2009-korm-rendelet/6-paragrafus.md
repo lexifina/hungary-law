@@ -20,15 +20,17 @@ g) a Kertv. 2. §-ának 30. pontja szerinti vendéglátás folytatása esetén �
 
 (2a)[^9] A jegyző a (2) bekezdés c) pontjában foglalt kötelezettséget elektronikus úton teljesíti.
 
-(3)[^10] Ha a kereskedelmi tevékenység a 7. § (4) bekezdés a), b) és d) pontjában meghatározott hatóságok feladat- és hatáskörét az ott megjelölt szempontok szerint érinti, az érintett hatóság, továbbá takarmány, állatgyógyászati készítménynek nem minősülő állatgyógyászati termék forgalmazása esetén a járási állat-egészségügyi hivatal, termésnövelő anyag forgalmazása esetén a növény- és talajvédelmi igazgatóság, a bejelentés kézhezvételét követő naptól számított harminc napon belül hatósági ellenőrzést folytat le.
+(2b)[^10] Az üzleten kívüli kereskedelem keretében a termék forgalmazása céljából a vásárlónak szervezett utazást vagy rendezvényt a kereskedő köteles – az utazás vagy rendezvény helyének és időpontjának megjelölésével – legkésőbb tizenöt nappal megelőzően az 1. melléklet 4a. pontja szerinti adattartalommal a jegyző részére bejelenteni. A jegyző a bejelentés másolatát soron kívül, de legkésőbb a bejelentés beérkezését követő három napon belül megküldi az utazás vagy a rendezvény helye szerint illetékes fogyasztóvédelmi felügyelőségnek.
 
-(4)[^11] A (3) bekezdés szerint lefolytatott ellenőrzés eredményéről a hatóságok az ellenőrzést követő nyolc napon belül tájékoztatják a jegyzőt.
+(3)[^11] Ha a kereskedelmi tevékenység a 7. § (4) bekezdés a), b) és d) pontjában meghatározott hatóságok feladat- és hatáskörét az ott megjelölt szempontok szerint érinti, az érintett hatóság, továbbá takarmány, állatgyógyászati készítménynek nem minősülő állatgyógyászati termék forgalmazása esetén a járási állat-egészségügyi hivatal, termésnövelő anyag forgalmazása esetén a növény- és talajvédelmi igazgatóság, a bejelentés kézhezvételét követő naptól számított harminc napon belül hatósági ellenőrzést folytat le.
 
-(5)[^12] A kereskedő az 1. melléklet A) pontja szerinti adatokban bekövetkezett változást haladéktalanul, illetve a nyitva tartási idő változását az azt megelőző nyolc napon belül köteles bejelenteni a jegyzőnek.
+(4)[^12] A (3) bekezdés szerint lefolytatott ellenőrzés eredményéről a hatóságok az ellenőrzést követő nyolc napon belül tájékoztatják a jegyzőt.
+
+(5)[^13] A kereskedő az 1. melléklet A) pontja szerinti adatokban bekövetkezett változást haladéktalanul, illetve a nyitva tartási idő változását az azt megelőző nyolc napon belül köteles bejelenteni a jegyzőnek.
 
 (6) A jegyző a nyilvántartásban foglalt adatokban bekövetkezett változásról haladéktalanul tájékoztatja a (2) és (3) bekezdésben megjelölteket.
 
-(7) A kereskedelmi tevékenység végzésével kapcsolatos – a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 97. § (2) bekezdésében meghatározott – figyelemfelhívás esetében az illetékes környezetvédelmi, természetvédelmi és vízügyi felügyelőség szükség szerint megteszi a hatáskörébe tartozó intézkedéseket, illetve megkeresi a jegyzőt.
+(7)[^14] A kereskedelmi tevékenység végzésével kapcsolatos – a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 97. § (2) bekezdésében meghatározott – figyelemfelhívás esetében az illetékes környezetvédelmi és természetvédelmi felügyelőség szükség szerint megteszi a hatáskörébe tartozó intézkedéseket, illetve megkeresi a jegyzőt.
 
 [^4]: A 6. § (1) bekezdése a 203/2013. (VI. 14.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.
 [^5]: A 6. § (2) bekezdés a) pontja a 402/2012. (XII. 28.) Korm. rendelet 12. § (1) bekezdése szerint módosított szöveg.
@@ -36,6 +38,8 @@ g) a Kertv. 2. §-ának 30. pontja szerinti vendéglátás folytatása esetén �
 [^7]: A 6. § (2) bekezdés c) pontja a 351/2010. (XII. 30.) Korm. rendelet 256. § (1) bekezdésével megállapított szöveg.
 [^8]: A 6. § (2) bekezdés f) pontja a 351/2010. (XII. 30.) Korm. rendelet 256. § (2) bekezdésével megállapított, a 418/2012. (XII. 29.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
 [^9]: A 6. § (2a) bekezdését a 176/2013. (VI. 3.) Korm. rendelet 6. § (1) bekezdése iktatta be.
-[^10]: A 6. § (3) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 256. § (3) bekezdésével megállapított, a 402/2012. (XII. 28.) Korm. rendelet 12. § (1) bekezdése, a 418/2012. (XII. 29.) Korm. rendelet 3. § b) pontja, a 8/2013. (I. 18.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
-[^11]: A 6. § (4) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (126) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
-[^12]: A 6. § (5) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (126) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^10]: A 6. § (2b) bekezdését az 524/2013. (XII. 30.) Korm. rendelet 2. §-a iktatta be.
+[^11]: A 6. § (3) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 256. § (3) bekezdésével megállapított, a 402/2012. (XII. 28.) Korm. rendelet 12. § (1) bekezdése, a 418/2012. (XII. 29.) Korm. rendelet 3. § b) pontja, a 8/2013. (I. 18.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
+[^12]: A 6. § (4) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (126) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^13]: A 6. § (5) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (126) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^14]: A 6. § (7) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 79. § a) pontja szerint módosított szöveg.

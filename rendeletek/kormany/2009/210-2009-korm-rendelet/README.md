@@ -24,3 +24,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-210-20-
 | 2013-07-20 | 2009-210-20-22.17 | 255/2013. (VII. 5.) Korm. rendelet |
 | 2013-08-01 | 2009-210-20-22.18 | 297/2013. (VII. 29.) Korm. rendelet |
 | 2013-12-31 | 2009-210-20-22.19 | 524/2013. (XII. 30.) Korm. rendelet |
+| 2014-01-01 | 2009-210-20-22.20 | 524/2013. (XII. 30.) Korm. rendelet |

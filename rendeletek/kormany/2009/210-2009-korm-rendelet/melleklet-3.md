@@ -18,7 +18,9 @@
 
 ## 5.3. üzleten kívüli kereskedés és csomagküldő kereskedelem esetében a működési terület jegyzéke, a működési területével érintett települések, vagy – ha a tevékenység egy egész megyére vagy az ország egészére kiterjed – a megye, illetve az országos jelleg megjelölése,
 
-## 5.4. csomagküldő kereskedelem esetében a működési területével érintett települések, vagy – ha a tevékenység egy egész megyére vagy az ország egészére kiterjed – a megye, illetve az országos jelleg megjelölése;
+## 5.4.[^49] a közlekedési eszközön folytatott értékesítés esetén annak a közlekedési eszköznek a megjelölése (a jármű azonosítására használt jelzés feltüntetésével), amelyen kereskedelmi tevékenységet folytatnak;
+
+## 5a.[^50] üzleten kívüli kereskedelem esetén a termék forgalmazása céljából szervezett utazás vagy tartott rendezvény helyének és időpontjának, illetve a szervezett utazás keretében tartott rendezvény esetén az utazás indulási és célhelyének, valamint az utazás időpontjának megjelölése;
 
 ## 6. a kereskedelmi tevékenység helye szerinti bontásban a kereskedelmi tevékenység formája a Kertv. 3. § (4) bekezdése szerint;
 
@@ -100,15 +102,15 @@
 
 ## A kizárólag üzletben forgalmazható termékek
 
-1.[^43]
+1.[^51]
 
-2.[^44] a kémiai biztonságról szóló törvény szerinti veszélyes anyagok és keverékek, kivéve a Jöt. szerinti tüzelőolaj, propán vagy propán-bután gáz és az üzemanyag;
+2.[^52] a kémiai biztonságról szóló törvény szerinti veszélyes anyagok és keverékek, kivéve a Jöt. szerinti tüzelőolaj, propán vagy propán-bután gáz és az üzemanyag;
 
 3. az egyes festékek, lakkok és járművek javító fényezésére szolgáló termékek szerves oldószer tartalmának szabályozásáról szóló kormányrendelet hatálya alá tartozó termékek;
 
 4. állatgyógyászati készítmények és hatóanyagaik;
 
-5.[^45] fegyver, lőszer, robbanó- és robbantószer, gázspray, pirotechnikai termék, a polgári célú pirotechnikai tevékenységekről szóló kormányrendelet szerinti 1., 2. és 3. pirotechnikai osztályba tartozó termékek, az ott meghatározott kivételekkel;
+5.[^53] fegyver, lőszer, robbanó- és robbantószer, gázspray, pirotechnikai termék, a polgári célú pirotechnikai tevékenységekről szóló kormányrendelet szerinti 1., 2. és 3. pirotechnikai osztályba tartozó termékek, az ott meghatározott kivételekkel;
 
 6. növényvédő szerek és hatóanyagaik;
 
@@ -116,6 +118,8 @@
 
 8. „A” és „B” tűzveszélyességi osztályba sorolt anyag, kivéve a Jöt. szerinti tüzelőolaj, propán vagy propán-bután gáz és az üzemanyag.
 
-[^43]: A 3. melléklet 1. pontját a 8/2013. (I. 18.) Korm. rendelet 1. § c) pontja hatályon kívül helyezte.
-[^44]: A 3. melléklet 2. pontja a 163/2010. (V. 11.) Korm. rendelet 18. §-a szerint módosított szöveg.
-[^45]: A 3. melléklet 5. pontja a 173/2011. (VIII. 24.) Korm. rendelet 114. § (3) bekezdésével megállapított szöveg.
+[^49]: A 2. melléklet A) cím 5. pont 5.4. alpontja az 524/2013. (XII. 30.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^50]: A 2. melléklet A) cím 5a. pontját az 524/2013. (XII. 30.) Korm. rendelet 6. § (2) bekezdése iktatta be.
+[^51]: A 3. melléklet 1. pontját a 8/2013. (I. 18.) Korm. rendelet 1. § c) pontja hatályon kívül helyezte.
+[^52]: A 3. melléklet 2. pontja a 163/2010. (V. 11.) Korm. rendelet 18. §-a szerint módosított szöveg.
+[^53]: A 3. melléklet 5. pontja a 173/2011. (VIII. 24.) Korm. rendelet 114. § (3) bekezdésével megállapított szöveg.

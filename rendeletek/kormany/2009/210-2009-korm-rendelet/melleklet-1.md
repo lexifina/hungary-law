@@ -20,6 +20,10 @@ I.
 
 4.3. üzleten kívüli kereskedés és csomagküldő kereskedelem esetében a működési terület jegyzéke, a működési területével érintett települések, vagy – ha a tevékenység egy egész megyére vagy az ország egészére kiterjed – a megye, illetve az országos jelleg megjelölése;
 
+4.4.[^47] a közlekedési eszközön folytatott értékesítés esetén annak a közlekedési eszköznek a megjelölése (a jármű azonosítására használt jelzés feltüntetésével), amelyen kereskedelmi tevékenységet kívánnak folytatni;
+
+4a.[^48] üzleten kívüli kereskedelem esetén a termék forgalmazása céljából szervezett utazás vagy tartott rendezvény helyének és időpontjának, illetve a szervezett utazás keretében tartott rendezvény esetén az utazás indulási és célhelyének, valamint az utazás időpontjának megjelölése;
+
 5. a kereskedelmi tevékenység helye szerinti bontásban a folytatni kívánt kereskedelmi tevékenység formája a Kertv. 3. § (4) bekezdése szerint;
 
 6. amennyiben a kereskedelmi tevékenység üzletben történik, az üzlet
@@ -127,3 +131,6 @@ II.
 3. közös tulajdonban álló üzlet esetében, ha nem a tulajdonostársak közössége a kérelmező, a tulajdonostársak hozzájárulását igazoló okirat.
 
 III.
+
+[^47]: Az 1. melléklet A) cím I. alcím 4. pont 4.4. alpontját az 524/2013. (XII. 30.) Korm. rendelet 6. § (1) bekezdése iktatta be.
+[^48]: Az 1. melléklet A) cím I. alcím 4a. pontját az 524/2013. (XII. 30.) Korm. rendelet 6. § (1) bekezdése iktatta be.
