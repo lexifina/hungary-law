@@ -1,3 +1,5 @@
-## 28. § Az önkormányzati tűzoltóság a központi költségvetés által biztosított tárgyévi hozzájárulás összegének legfeljebb 70%-át fordíthatja az egyes beosztásokhoz szükséges személyi juttatásokkal kapcsolatos kiadásokra.
+## 28. §[^5]
 
 ## 6. Záró rendelkezések
+
+[^5]: A 28. §-t a 82/2013. (XII. 23.) BM rendelet 16. §-a hatályon kívül helyezte.

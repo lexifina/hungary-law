@@ -1,4 +1,4 @@
-## Az önkormányzati tűzoltók tépőzáras rangfokozati, valamint rangfokozati vállap jelzései[^6]
+## Az önkormányzati tűzoltók tépőzáras rangfokozati, valamint rangfokozati vállap jelzései[^7]
 
 ## Önkormányzati tűzoltóság elnöke
 
@@ -164,4 +164,4 @@ Azon tűzoltó számára, aki súlyos veseelégtelenségben szenved, egészségi
 
 11.3. Azon tűzoltók esetében, akik átmenetileg vagy véglegesen olyan, a fenti pontokban nem említett valamely betegségben szenvednek, amely a tűzoltásban való részvétel biztonságát hátrányosan befolyásoló funkcionális alkalmatlanságot idéz vagy idézhet elő, az egészségi alkalmasság az erre felhatalmazott orvos szakvéleménye és – szükség esetén – rendszeres orvosi felülvizsgálat előírása mellett állapítható meg.
 
-[^6]: E mellékletben szereplő rajzok tájékoztató jellegűek, nem méretarányosak.
+[^7]: E mellékletben szereplő rajzok tájékoztató jellegűek, nem méretarányosak.
