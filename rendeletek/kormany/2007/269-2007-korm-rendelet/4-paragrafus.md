@@ -4,12 +4,13 @@
 
 (3) Napnyugtától napkeltéig a gépi munkavégzés tilos.
 
-(4) A Natura 2000 gyepterületeken a környezetvédelmi, természetvédelmi és vízügyi felügyelőség (a továbbiakban: felügyelőség), helyi jelentőségű védett természeti területnek minősülő Natura 2000 gyepterület esetében a települési önkormányzat jegyzőjének, a fővárosban a főjegyzőnek az engedélye szükséges, amelyet természetvédelmi hatósági jogkörében eljárva ad ki:
+(4)[^2] A Natura 2000 gyepterületeken a környezetvédelmi és természetvédelmi felügyelőség (a továbbiakban: felügyelőség), helyi jelentőségű védett természeti területnek minősülő Natura 2000 gyepterület esetében a települési önkormányzat jegyzőjének, a fővárosban a főjegyzőnek az engedélye szükséges, amelyet természetvédelmi hatósági jogkörében eljárva ad ki:
 
 a) a nád irtásához, valamint
 
 b) az október 31. és április 23. között történő legeltetéshez.
 
-(5)[^1] Vadgazdálkodási létesítmények, berendezések kialakításához a vadászati hatóság engedélye szükséges.
+(5)[^3] Vadgazdálkodási létesítmények, berendezések kialakításához a vadászati hatóság engedélye szükséges.
 
-[^1]: A 4. § (5) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 6. pontja szerint módosított szöveg, e módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^2]: A 4. § (4) bekezdés nyitó szövegrésze az 527/2013. (XII. 30.) Korm. rendelet 53. § b) pontja szerint módosított szöveg.
+[^3]: A 4. § (5) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 6. pontja szerint módosított szöveg, e módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
