@@ -10,7 +10,7 @@
 
 ## Az érzékeny felszíni vizek vízgyűjtő területét kijelölő települések listája
 
-## I.[^2] Balaton vízgyűjtője
+## I.[^3] Balaton vízgyűjtője
 
 ## Ábrahámhegy
 
@@ -686,4 +686,4 @@ II. Velencei-tó vízgyűjtője
 
 III. Fertő-tó vízgyűjtője
 
-[^2]: A 2. számú melléklet I. pontja a 351/2010. (XII. 30.) Korm. rendelet 79. §-ával megállapított szöveg.
+[^3]: A 2. számú melléklet I. pontja a 351/2010. (XII. 30.) Korm. rendelet 79. §-ával megállapított szöveg.
