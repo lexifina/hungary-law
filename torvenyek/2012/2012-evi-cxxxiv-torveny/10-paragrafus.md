@@ -12,10 +12,6 @@ a dohánytermékek kiskereskedelmére vonatkozó jogosultságot az állam a rés
 
 (4) A (3) bekezdésben foglaltaktól eltérően, ha az állam a dohánytermék-kiskereskedelmi jogosultságot a részvénytársaság által feljogosított személy útján gyakorolja, és a (2) bekezdés alapján kiírt új pályázat is bármely okból eredménytelen, úgy az új pályázat eredménytelenségének kihirdetését követő 12 hónapon belül kell legkésőbb új pályázatot kiírni.
 
-## III. Fejezet
+3. CÍM
 
-## A DOHÁNYTERMÉK-KISKERESKEDELEM FOLYTATÁSA
-
-1. CÍM
-
-A dohánytermékek értékesítési helye
+A koncessziós szerződés alapján keletkező bevételek

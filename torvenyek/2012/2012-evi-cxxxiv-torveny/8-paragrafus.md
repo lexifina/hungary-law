@@ -1,6 +1,6 @@
 8. § (1) A miniszter, illetve a miniszter által megbízott és a nevében eljáró természetes személy a pályázat nyertesével köti meg a koncessziós szerződést a pályázat eredményének kihirdetését követő 30 napon belül.
 
-(2) A koncessziós díj összegéről, megfizetésének módjáról, valamint az ellentételezésről a koncessziós szerződésben rendelkezni kell. A koncessziós díj éves összege mindenkor legfeljebb az e törvényben foglalt éves állami feladatok ellátásához szükséges mértékig, arányosan határozható meg. A koncessziós díj teljes mértékben a részvénytársaságot illeti meg a törvényben foglalt feladatainak ellátására.
+(2) A koncessziós szerződésben a koncesszióról szóló 1991. évi XVI. törvény 13. § (2) bekezdésében meghatározottakon túl a koncessziós díj ellentételezéséről is rendelkezni kell.
 
 (3) Egy személlyel egy időpontban legfeljebb öt megkötött koncessziós szerződés lehet hatályban. Azoknál az egy közigazgatási egységet képező településeknél, ahol egynél több dohánytermék-kiskereskedelmi jogosultság kerül kiadásra, egy személy nem birtokolhatja az összes dohánytermék-kiskereskedelmi jogosultság több mint kétharmadát.
 
