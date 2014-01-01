@@ -1,1 +1,1 @@
-### 48. §
+48. § A Magyarország 2014. évi központi költségvetéséről szóló törvény alapján átvállalással érintett önkormányzati adósságot keletkeztető ügyletekre vonatkozó, az átvállalás miatt szükségessé vált szerződésmódosításokhoz nem szükséges a Kormány 10. § (13) bekezdés szerinti hozzájárulása.
