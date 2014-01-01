@@ -8,7 +8,7 @@ c) a harmadik országbeli állampolgárok beutazásáról és tartózkodásáró
 
 d) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény szerinti résznyilvántartásokban szereplő valamennyi adat,
 
-e) a körözési nyilvántartásból a nyilvántartásban szereplő valamennyi adat,
+e) a körözési nyilvántartási rendszerből a nyilvántartásban szereplő valamennyi adat,
 
 f) az európai vagy a nemzetközi elfogatóparancsot kibocsátó bíróságtól a 12. §-ban meghatározott adatok, illetve feltételezések, valamint a 14–15. §-ban meghatározott adatok,
 

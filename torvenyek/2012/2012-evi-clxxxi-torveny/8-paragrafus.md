@@ -1,6 +1,6 @@
-8. § (1) Ha a körözést folytató rendőri szerv a körözés tényét a nyilvántartásba bejegyezte, a körözési információs rendszert működtető központi rendőri szerv haladéktalanul elhelyezi a figyelmeztető jelzést, valamint a kiegészítő adatot a CS.SIS-ben arról a személyről,
+8. § (1) Ha a körözés tényét a nyilvántartásba bejegyezték, a körözési nyilvántartási rendszert működtető szerv haladéktalanul elhelyezi a figyelmeztető jelzést, valamint a kiegészítő adatot a CS.SIS-ben arról a személyről,
 
-a) akit a személy- és tárgykörözésről szóló törvény szerint eltűnt személynek kell tekinteni,
+a) akit eltűnés miatt köröznek,
 
 b) akit a büntetőeljárásban terheltként vagy tanúként kívánnak idézni, vagy akinek büntetőeljárásban okiratot kívánnak kézbesíteni, de lakó- vagy tartózkodási helye ismeretlen, vagy
 
@@ -14,4 +14,4 @@ b) a személyt védelem alá kell helyezni mások biztonsága érdekében, vagy
 
 c) a személyt nem kell védelem alá helyezni.
 
-(3) A bíróság – ideértve a büntetés-végrehajtási bírót is – és az ügyészség az (1) bekezdés b) és c) pontja szerinti, általa hozott körözést elrendelő határozatot elektronikus úton megküldi a körözést folytató rendőri szervnek.
+(3) A bíróság – ideértve a büntetés-végrehajtási bírót is – és az ügyészség az (1) bekezdés b) és c) pontja szerinti, általa hozott körözést elrendelő határozatot elektronikus úton rögzíti a körözési nyilvántartási rendszerben.

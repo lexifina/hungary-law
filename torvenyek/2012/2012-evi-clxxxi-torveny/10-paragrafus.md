@@ -1,4 +1,4 @@
-10. § (1) Ha a körözést folytató rendőri szerv a körözés tényét a nyilvántartásba bejegyezte, a körözési információs rendszert működtető központi rendőri szerv haladéktalanul elhelyezi a figyelmeztető jelzést a CS.SIS-ben a lefoglalás vagy büntetőeljárásban bizonyítékként való felhasználás céljából körözött alábbi tárgyakról:
+10. § (1) Ha a körözés tényét a nyilvántartásba bejegyezték, a körözési nyilvántartási rendszert működtető szerv haladéktalanul elhelyezi a figyelmeztető jelzést a CS.SIS-ben a lefoglalás vagy büntetőeljárásban bizonyítékként való felhasználás céljából körözött alábbi tárgyakról:
 
 a) 50 cm3-t meghaladó hengerűrtartalmú gépjármű,
 
@@ -18,4 +18,4 @@ ga) úti okmány, személyazonosító igazolvány, tartózkodásra jogosító ok
 
 gb) gépjármű hatósági jelzése és forgalmi engedélye.
 
-(2) Ha az érintett személy a külföldi kiállítású okmányai elvesztéséről, eltulajdonításáról nem a rendőrségen tesz bejelentést, a bejelentést fogadó hatóság haladéktalanul értesíti a rendőrséget a körözés elrendelése érdekében.
+(2) Ha az érintett személy a külföldi kiállítású okmányai elvesztéséről, eltulajdonításáról nem a rendőrségen tesz bejelentést, a bejelentést fogadó hatóság haladéktalanul értesíti a rendőrséget.
