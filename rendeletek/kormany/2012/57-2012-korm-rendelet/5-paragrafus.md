@@ -8,7 +8,7 @@ c) a kamattámogatás iránti kérelem benyújtásának időpontját.
 
 (2) Az (1) bekezdés b) pontja szerinti adatban bekövetkezett változásokról a közszférában dolgozó támogatott a változás bekövetkezését követő 5 napon belül tájékoztatja a munkáltatói jogkör gyakorlóját.
 
-(3)[^4] Ha a támogatott közszférában való foglalkoztatási jogviszonya megszűnik és a közszférában való foglalkoztatási jogviszonya megszűnésétől számított 60 napon belül a hitelintézet részére
+(3)[^5] Ha a támogatott közszférában való foglalkoztatási jogviszonya megszűnik és a közszférában való foglalkoztatási jogviszonya megszűnésétől számított 60 napon belül a hitelintézet részére
 
 a) az újabb, közszférában való foglalkoztatási jogviszony létesítését nem igazolja, és
 
@@ -16,7 +16,7 @@ b) a munkáltató 16. § (1) bekezdés g) pontja szerinti adatait nem jelenti be
 
 az állam – a (4) és (5) bekezdés szerinti kivétellel – az eredeti devizakölcsön közszférában való foglalkoztatási jogviszony megszűnésétől számított 60 napos határidő lejártát követő első törlesztési esedékességének napjától az újabb, közszférában való foglalkoztatási jogviszony létesítéséig nem nyújt kamattámogatást.
 
-(3a)[^5] Amennyiben a (3) bekezdés esetén a támogatott a közszférában való foglalkoztatási jogviszonya megszűnésétől számított 60 napon túl a közszférában újabb foglalkoztatási jogviszony létesítését a hitelintézet részére igazolja, az állam az eredeti devizakölcsönnek az újabb foglalkoztatási jogviszony bejelentését követő második törlesztő részlete esedékessége napjától kamattámogatást nyújt.
+(3a)[^6] Amennyiben a (3) bekezdés esetén a támogatott a közszférában való foglalkoztatási jogviszonya megszűnésétől számított 60 napon túl a közszférában újabb foglalkoztatási jogviszony létesítését a hitelintézet részére igazolja, az állam az eredeti devizakölcsönnek az újabb foglalkoztatási jogviszony bejelentését követő második törlesztő részlete esedékessége napjától kamattámogatást nyújt.
 
 (4) A közszférában dolgozó foglalkoztatási jogviszonya megszűnését követően is jogosult a kamattámogatásra, ha
 
@@ -38,5 +38,5 @@ b) a devizakölcsönért helytállni köteles.
 
 (8) Ha a közszférában dolgozó támogatott az eredeti devizakölcsön rögzített árfolyamon való törlesztéséből eredő fizetési kötelezettségeinek 90 napot meghaladóan nem tesz eleget, ezt követően részére a kamattámogatás nem nyújtható. A kamattámogatás folyósításának megszüntetéséről a pénzügyi intézmény 8 napon belül írásban értesíti a közszférában dolgozó munkáltatóját.
 
-[^4]: Az 5. § (3) bekezdése a 379/2012. (XII. 19.) Korm. rendelet 45. § (1) bekezdésével megállapított szöveg.
-[^5]: Az 5. § (3a) bekezdését a 379/2012. (XII. 19.) Korm. rendelet 45. § (2) bekezdése ikatta be.
+[^5]: Az 5. § (3) bekezdése a 379/2012. (XII. 19.) Korm. rendelet 45. § (1) bekezdésével megállapított szöveg.
+[^6]: Az 5. § (3a) bekezdését a 379/2012. (XII. 19.) Korm. rendelet 45. § (2) bekezdése ikatta be.
