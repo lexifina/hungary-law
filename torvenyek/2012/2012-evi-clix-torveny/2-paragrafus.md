@@ -68,7 +68,7 @@ f) a küldeménynek a feladó lakóhelyén, tartózkodási helyén, székhelyén
 
 27. postabélyeg: az egyetemes postai szolgáltató által kibocsátott, a postai küldemények bérmentesítési díjának megfizetésére használható, a névértékére utaló jelöléssel ellátott olyan bélyeg, amely tartalmazza a „Magyarország” feliratot vagy annak idegen nyelvű megfelelőjét;
 
-28. Posta Elszámoló Központ: egyetemes postai szolgáltató által lebonyolított pénzforgalmi szolgáltatások feldolgozását, pénzforgalmi szolgáltatókkal történő elszámolását, valamint fizetési rendszeren keresztüli pénzügyi rendezését végző, a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény (a továbbiakban: Hpt.) szerinti fizetési rendszer működtetőjének nem minősülő szervezet;
+28. Posta Elszámoló Központ: egyetemes postai szolgáltató által lebonyolított pénzforgalmi szolgáltatások feldolgozását, pénzforgalmi szolgáltatókkal történő elszámolását, valamint fizetési rendszeren keresztüli pénzügyi rendezését végző, az egyes fizetési szolgáltatókról szóló 2013. évi CCXXXV. törvény szerinti fizetési rendszer működtetőjének nem minősülő szervezet;
 
 29. postacsomag: kereskedelmi értékekkel rendelkező vagy nem rendelkező árut, tárgyat tartalmazó könyvelt postai küldemény;
 
@@ -100,6 +100,6 @@ b) a küldeményen „címzett”-ként feltüntetett, gazdálkodó szervezetnek
 
 41. többletszolgáltatás: a postai küldemény felvételéhez, gyűjtéséhez, feldolgozásához, szállításához vagy kézbesítéséhez kapcsolódó, a postai szolgáltatási szerződésben vállalt olyan további szolgáltatás, amelyet a postai szolgáltató a postai szolgáltatás részeként a feladó külön rendelkezése alapján vagy postai szolgáltatáscsomagba foglaltan nyújt;
 
-42. utánvétel-szolgáltatás: az a – könyvelt küldeményekhez igénybe vehető – többletszolgáltatás, amelynek teljesítése során a postai szolgáltató a postai küldeményt a feladó által meghatározott összeg készpénzben vagy egyéb módon történő beszedését követően kézbesíti, és az így beszedett összeget a címzett megbízásából a feladó részére a Hpt. 2. számú melléklet I. fejezet 9. pontja szerinti valamely pénzforgalmi szolgáltatás keretében juttatja el;
+42. utánvétel-szolgáltatás: az a – könyvelt küldeményekhez igénybe vehető – többletszolgáltatás, amelynek teljesítése során a postai szolgáltató a postai küldeményt a feladó által meghatározott összeg készpénzben vagy egyéb módon történő beszedését követően kézbesíti, és az így beszedett összeget a címzett megbízásából a feladó részére a a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény (a továbbiakban: Hpt.) 6. § (1) bekezdésében meghatározott valamely pénzforgalmi szolgáltatás keretében juttatja el;
 
 43. vakok írását tartalmazó küldemény: kizárólag a vakok és gyengén látók által használt dombornyomású írásokat, véseteket, hangfelvételeket, különleges papírokat vagy mágneslemezeket és egyéb információhordozókat tartalmazó, legfeljebb 7 kilogramm tömegű postai küldemény, amelynek feladója vagy címzettje vak személy vagy a vakok hivatalosan elismert intézete.
