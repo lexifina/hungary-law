@@ -19,3 +19,11 @@ c) az Mt. 95. § (4) bekezdés d) pontjában foglalt, a munkáltatónak a munkav
 kell érteni.
 
 (3) Az Mt. 95. § (4) bekezdését alkalmazni kell a 30. § (4) bekezdése szerinti felmentés esetén is.
+
+(4) A munkáltató a felek naptári évre kötött írásbeli megállapodása alapján
+
+a) az 57. § (1) bekezdés szerinti, a fizetési fokozat alapján, és
+
+b) az 57. § (2) bekezdés szerinti, a magasabb vezetői vagy vezetői megbízás alapján
+
+megállapított pótszabadságot az esedékesség évét követő év végéig adja ki.
