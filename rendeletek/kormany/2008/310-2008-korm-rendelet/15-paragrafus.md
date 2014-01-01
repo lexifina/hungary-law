@@ -1,8 +1,8 @@
-## 14. §[^21]
+## 14. §[^24]
 
 ## Halon
 
-15. § (1)[^22] Az ózonréteget lebontó anyagokkal és egyes fluortartalmú üvegházhatású gázokkal kapcsolatos tevékenységekről szóló kormányrendelet alapján kiadott, kritikus alkalmazási területeken történő felhasználásra vonatkozó engedéllyel rendelkezőknek a halonról évente, a tárgyévet követő év március 31-éig adatot kell szolgáltatniuk a Főigazgatóság, illetve a HM HH részére.
+15. § (1)[^25] Az ózonréteget lebontó anyagokkal és egyes fluortartalmú üvegházhatású gázokkal kapcsolatos tevékenységekről szóló kormányrendelet alapján kiadott, kritikus alkalmazási területeken történő felhasználásra vonatkozó engedéllyel rendelkezőknek a halonról évente, a tárgyévet követő év március 31-éig adatot kell szolgáltatniuk a Főigazgatóság, illetve a HM HH részére.
 
 (2) Az (1) bekezdés szerinti adatszolgáltatásban fel kell tüntetni halon-típusonként:
 
@@ -24,5 +24,5 @@ b) az adott célra új, az ózonréteget és általában a környezetet nem, vag
 
 (4) A 94/2003. (VII. 2.) Korm. rendelet 13. §-a alapján létrehozott halon-bank tárolja és biztosítja a kritikus alkalmazások utánpótlási igényét biztosító halon mennyiségét.
 
-[^21]: A 14. §-t és az azt megelőző alcímet a 34/2010. (II. 24.) Korm. rendelet 2. §-a hatályon kívül helyezte.
-[^22]: A 15. § (1) bekezdése a 158/2011. (VIII. 11.) Korm. rendelet 19. § (2) bekezdésével megállapított szöveg.
+[^24]: A 14. §-t és az azt megelőző alcímet a 34/2010. (II. 24.) Korm. rendelet 2. §-a hatályon kívül helyezte.
+[^25]: A 15. § (1) bekezdése a 158/2011. (VIII. 11.) Korm. rendelet 19. § (2) bekezdésével megállapított szöveg.
