@@ -1,5 +1,7 @@
-7. § (1) Az Országos Rendőr-főkapitányság legalább 90 fős, a közterület-felügyelet szabályozásáért felelős miniszter és a rendészetért felelős miniszter legalább 60 fős, valamint az agrárpolitikáért felelős miniszter, az erdőgazdálkodásért felelős miniszter, a vadgazdálkodásért felelős miniszter, a halgazdálkodásért felelős miniszter és a természetvédelemért felelős miniszter legalább 60 fős felsőfokú szakirányú végzettséggel rendelkező vizsgabizottsági tagokról szóló névjegyzékét elkészítik, majd a vizsgabizottsági tagok névsorát megküldik a BM OKTF-nek.
+7. § (1)[^1] Az Országos Rendőr-főkapitányság legalább 30 fős, a közterület-felügyelet szabályozásáért felelős miniszter és a rendészetért felelős miniszter legalább 20 fős, valamint az agrárpolitikáért felelős miniszter, az erdőgazdálkodásért felelős miniszter, a vadgazdálkodásért felelős miniszter, a halgazdálkodásért felelős miniszter és a természetvédelemért felelős miniszter legalább 20 fős felsőfokú szakirányú végzettséggel rendelkező vizsgabizottsági tagokról szóló névjegyzékét minden év február 1-jéig felülvizsgálják, majd a vizsgabizottsági tagok névsorát megküldik a BM OKTF-nek.
 
 (2) A vizsgaszervezők a vizsgák megkezdése előtt 10 nappal értesítik a BM OKFT-et a vizsga időpontjáról. A BM OKTF ezt követően háromtagú vizsgabizottságot jelöl ki a leadott névjegyzékből.
 
 (3) A vizsgabizottság munkáját szakértő segítheti. A vizsga előkészítésével és lebonyolításával kapcsolatos adminisztratív feladatokat, a vizsgajegyzőkönyv elkészítését a jegyzőkönyvvezető végzi el. A szakértőt és a jegyzőkönyvvezetőt a vizsgaszervező biztosítja.
+
+[^1]: A 7. § (1) bekezdése a rendelet 15. § (1) bekezdésével megállapított szöveg.
