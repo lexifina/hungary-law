@@ -1,3 +1,3 @@
-9. melléklet a 68/2013. (XI. 15.) EMMI rendelethez[^24]
+9. melléklet a 68/2013. (XI. 15.) EMMI rendelethez[^23]
 
-[^24]: A 9. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^23]: A 9. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
