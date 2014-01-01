@@ -4,7 +4,7 @@
 
 1. Követelés tárgyidőszak végén
 
-| Sor- szám | Megnevezés | Öröklési illeték (gépjármű, egyenes ági mentes és túlélő házastárs nélkül) | Ajándékozási illeték (gépjármű és egyenes ági mentes nélkül) | Gépjármű öröklési és ajándékozási illeték | Visszterhes vagyonátruházási illeték (gépjármű és egyenes ági mentes nélkül) | Visszterhes gépjármű- átruházási illeték | Bírósági eljárási illeték | Felügyeleti illeték | Közigazgatási hatósági eljárási illeték | Összesen |
+| Sor- szám | Megnevezés | Öröklési illeték (gépjármű, egyenes ági mentes és túlélő házastárs nélkül) | Ajándékozási illeték (gépjármű, egyenes ági mentes és házastárs nélkül) | Gépjármű öröklési és ajándékozási illeték | Visszterhes vagyonátruházási illeték (gépjármű és egyenes ági mentes nélkül) | Visszterhes gépjármű- átruházási illeték | Bírósági eljárási illeték | Felügyeleti illeték | Közigazgatási hatósági eljárási illeték | Összesen |
 
 |  |  | Ft | Tsz | Ft | Tsz | Ft | Tsz | Ft | Tsz | Ft | Tsz | Ft | Tsz | Ft | Tsz | Ft | Tsz | Ft | Tsz |
 
@@ -76,7 +76,7 @@
 
 6. Végrehajtási, biztosítási és egyéb cselekmények eredménye
 
-| Sor- szám | Megnevezés | Öröklési illeték (gépjármű, egyenes ági mentes és túlélő házastárs nélkül) | Ajándékozási illeték (gépjármű és egyenes ági mentes nélkül) | Gépjármű öröklési és ajándékozási illeték | Visszterhes vagyonátru- házási illeték (gépjármű és egyenes ági mentes nélkül) | Visszterhes gépjármű- átruházási illeték | Bírósági eljárási illeték | Felügyeleti illeték | Közigazgatási hatóságieljárási illeték | Összesen |
+| Sor- szám | Megnevezés | Öröklési illeték (gépjármű, egyenes ági mentes és túlélő házastárs nélkül) | Ajándékozási illeték (gépjármű, egyenes ági mentes és házastárs nélkül) | Gépjármű öröklési és ajándékozási illeték | Visszterhes vagyonátru- házási illeték (gépjármű, egyenes ági mentes és házastárs nélkül) | Visszterhes gépjármű- átruházási illeték | Bírósági eljárási illeték | Felügyeleti illeték | Közigazgatási hatósági eljárási illeték | Összesen |
 
 | Ft | Tsz | Ft | Tsz | Ft | Tsz | Ft | Tsz | Ft | Tsz | Ft | Tsz | Ft | Tsz | Ft | Tsz | Ft | Tsz |
 
@@ -86,7 +86,7 @@
 
 7. Ügyintézési idő
 
-| Sor- szám | Az adózás rendjéről szóló törvény szerinti ügyintézési idő alakulása | Öröklési illeték (gépjármű, egyenes ági mentes és túlélő házastárs nélkül) | Ajándékozási illeték (gépjármű és egyenes ági mentes nélkül) | Gépjármű öröklési és ajándékozási illeték | Visszterhes vagyonátruházási illeték (gépjármű és egyenes ági mentes nélkül) | Visszterhes gépjármű- átruházási illeték | Bírósági eljárási illeték | Felügyeleti illeték | Közigazgatási hatóságieljárási illeték | Összesen |
+| Sor- szám | Az adózás rendjéről szóló törvény szerinti ügyintézési idő alakulása | Öröklési illeték (gépjármű, egyenes ági mentes és túlélő házastárs nélkül) | Ajándékozási illeték (gépjármű, egyenes ági mentes és házastárs nélkül) | Gépjármű öröklési és ajándékozási illeték | Visszterhes vagyonátru- házási illeték (gépjármű, egyenes ági mentes és házastárs nélkül) | Visszterhes gépjármű- átruházási illeték | Bírósági eljárási illeték | Felügyeleti illeték | Közigazgatási hatósági eljárási illeték | Összesen |
 
 | Ft | Tsz | Ft | Tsz | Ft | Tsz | Ft | Tsz | Ft | Tsz | Ft | Tsz | Ft | Tsz | Ft | Tsz | Ft | Tsz |
 
@@ -148,4 +148,4 @@
 
 | 14. | egyéb nem lakás célú ingatlan |  |  |  |  |  |  |  |  |
 
-[^16]: Az 5. számú melléklet a 31/2007. (XII. 21.) PM rendelet 3. § (3) bekezdésével megállapított, a 17/2009. (IX. 29.) PM rendelet 89. § (2) bekezdése, a 31/2009. (XII. 18.) PM rendelet 11. § d) pontja, az 52/2011. (XII. 29.) NGM rendelet 8. §-a, a 46/2012. (XII. 27.) NGM rendelet 21. § 2–7. pontja szerint módosított szöveg.
+[^16]: Az 5. számú melléklet a 31/2007. (XII. 21.) PM rendelet 3. § (3) bekezdésével megállapított, a 17/2009. (IX. 29.) PM rendelet 89. § (2) bekezdése, a 31/2009. (XII. 18.) PM rendelet 11. § d) pontja, az 52/2011. (XII. 29.) NGM rendelet 8. §-a, a 46/2012. (XII. 27.) NGM rendelet 21. § 2–7. pontja, a 77/2013. (XII. 31.) NGM rendelet 4. § (2) bekezdése szerint módosított szöveg.

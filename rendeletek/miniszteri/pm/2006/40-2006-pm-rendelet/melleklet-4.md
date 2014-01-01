@@ -1,6 +1,6 @@
 ## Illetékek zárási összesítője
 
-| Sor- szám | Zárási összesítő | A) Öröklési illeték (gépjármű, egyenes ági mentes és túlélő házastárs nélkül) | B) Ajándékozási illeték (gépjármű és egyenes ági mentes nélkül) | C) Gépjármű öröklési és ajándékozási illeték | D) Visszterhes vagyonátruházási illeték (gépjármű nélkül) | E) Visszterhes gépjármű- átruházási illeték | F) Bírósági eljárási illeték | G) Felügyeleti illeték | H) Közigazgatási hatósági eljárási illeték | Összesen |
+| Sor- szám | Zárási összesítő | A) Öröklési illeték (gépjármű, egyenes ági mentes és túlélő házastárs nélkül) | B) Ajándékozási illeték (gépjármű, egyenes ági mentes és házastárs) | C) Gépjármű öröklési és ajándékozási illeték | D) Visszterhes vagyonátruházási illeték (gépjármű, egyenes ági mentes és házastárs nélkül) | E) Visszterhes gépjármű- átruházási illeték | F) Bírósági eljárási illeték | G) Felügyeleti illeték | H) Közigazgatási hatósági eljárási illeték | Összesen |
 
 | Ft | Tsz | Ft | Tsz | Ft | Tsz | Ft | Tsz | Ft | Tsz | Ft | Tsz | Ft | Tsz | Ft | Tsz | Ft | Tsz |
 
@@ -14,7 +14,7 @@
 
 | 5. | Tárgyévben jogerőssé vált összes törlés |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 6. | 5. sorból: elévülés címén |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 6. | 5. sorból: elévülés címén |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | 7. | méltányosságból |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 

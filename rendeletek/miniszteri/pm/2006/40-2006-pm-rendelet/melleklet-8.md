@@ -1,4 +1,4 @@
-8. számú melléklet a 40/2006. (XII. 25.) PM rendelethez[^69]
+8. számú melléklet a 40/2006. (XII. 25.) PM rendelethez[^74]
 
 Tárgyidőszak végén nyilvántartott követelés
 
@@ -26,4 +26,4 @@ Tárgyidőszak végén nyilvántartott követelés
 
 | 10. Összesen |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^69]: A 8. számú melléklet a 46/2012. (XII. 27.) NGM rendelet 20. § (3) bekezdésével megállapított szöveg.
+[^74]: A 8. számú melléklet a 46/2012. (XII. 27.) NGM rendelet 20. § (3) bekezdésével megállapított szöveg.
