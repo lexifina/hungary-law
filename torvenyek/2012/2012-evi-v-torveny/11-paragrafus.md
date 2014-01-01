@@ -1,1 +1,1 @@
-11. § A Kttv. hatálybalépésekor a Nemzeti Fejlesztési Ügynökségnél megállapított illetményekre a Kttv. 134. § (1) bekezdését kell alkalmazni azzal a feltétellel, hogy e szervnél foglalkoztatott kormánytisztviselő illetménye nem csökkenthető azon jogviszonya fennállásáig, amely alapján a Ktjv. hatálybalépése előtti illetményre jogosultságot szerzett.
+11. §

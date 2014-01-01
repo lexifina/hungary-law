@@ -7,3 +7,5 @@
 (4) E törvény hatálybalépését megelőzően a Ktjv. 19. § (1) bekezdésében foglaltak alapján Kormány által rendeletben kijelölt államigazgatási szerv esetében külön kormányrendeletben megállapított illetmény-kiegészítés mértéke 2012. évben nem csökkenhet.
 
 (5) E törvény hatálybalépését megelőzően a helyi önkormányzat által megállapított illetmény-kiegészítés mértéke 2012. évben nem csökkenthető.
+
+(6) A Kttv.-nek az egyes törvényeknek az új Polgári Törvénykönyv hatálybalépésével összefüggő módosításáról szóló 2013. évi CCLII. törvénnyel megállapított 134. § (1) bekezdés 16. pontját 2013. augusztus 1-jétől kell alkalmazni.
