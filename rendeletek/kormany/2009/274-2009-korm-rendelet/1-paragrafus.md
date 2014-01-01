@@ -1,7 +1,10 @@
 ## 1. § A fémhigany és egyes higanyvegyületek és -keverékek kiviteli tilalmáról, valamint a fémhigany biztonságos tárolásáról szóló 2008. október 22-i 1102/2008/EK európai parlamenti és a tanácsi rendelet (a továbbiakban: R.)
 
-a) 5. cikke (3) bekezdésének a) pontjában meghatározott adatszolgáltatási kötelezettség tekintetében az Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség (a továbbiakban: Főfelügyelőség),
+a)[^1] 5. cikke (3) bekezdésének a) pontjában meghatározott adatszolgáltatási kötelezettség tekintetében az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség (a továbbiakban: Főfelügyelőség),
 
-b) 6. cikkében meghatározott adatszolgáltatási kötelezettség tekintetében a létesítmény helye szerint illetékes környezetvédelmi, természetvédelmi és vízügyi felügyelőség (a továbbiakban: felügyelőség)
+b)[^2] 6. cikkében meghatározott adatszolgáltatási kötelezettség tekintetében a létesítmény helye szerint illetékes környezetvédelmi és természetvédelmi felügyelőség (a továbbiakban: felügyelőség)
 
 az illetékes hatóság.
+
+[^1]: Az 1. § a) pontja az 527/2013. (XII. 30.) Korm. rendelet 81. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § b) pontja az 527/2013. (XII. 30.) Korm. rendelet 81. § b) pontja szerint módosított szöveg.

@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-274-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-12-11 | 2009-274-20-22.1 | 274/2009. (XII. 3.) Korm. rendelet |
+| 2014-01-01 | 2009-274-20-22.2 | 527/2013. (XII. 30.) Korm. rendelet |
