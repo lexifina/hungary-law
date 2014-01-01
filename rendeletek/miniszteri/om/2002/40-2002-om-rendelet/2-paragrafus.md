@@ -1722,299 +1722,27 @@ Az értékelés központilag kidolgozott analitikus skála alapján történik, 
 
 A vizsgát mindig egy kérdező tanár bonyolítja le, a vizsgáztatói példány előírásainak megfelelően. A másik két vizsgáztató értékel a központi értékelési útmutató alapján. A vitás esetekben a három tanár szótöbbséggel dönt.
 
-ÁBRÁZOLÓ ÉS MŰVÉSZETI GEOMETRIA
-
-I. RÉSZLETES TARTALMI KÖVETELMÉNYEK
-
-A vizsga formája
-
-Középszinten: írásbeli.
-
-Emelt szinten: írásbeli.
-
-A részletes követelmények felépítése és használata
-
-A részletes vizsgakövetelmények az érettségi vizsgán számon kérhető tananyag tartalmi vonatkozásait, továbbá az adott ismeretek elsajátításának szintjét határozzák meg közép és emelt szinten.
-
-Az ábrázoló és művészeti geometria középszintű érettségi vizsga követelményeinek teljesítése azt tanúsítja, hogy a vizsgázó az általános műveltséghez szükséges szerkesztési ismeretek birtokában van. Megfelelő jártasságokkal, készségekkel, képességekkel rendelkezik, mely alkalmassá teszi a mindennapi életben szükséges ismeretek felhasználására és azok képesség szintű alkalmazására.
-
-Az emelt szintű érettségi vizsga követelményei – a tárgy iránt nagyobb érdeklődést feltételezve – a vizsgázónak középszintet meghaladó, komplexebb szakirányú ismereteit, jártasságait, készségeit, képességeit írja le.
-
-Az emelt szintű tudás az ismeretek mélysége – azaz összefüggések értelmezése, önálló alkalmazás, problémamegoldás – az alkotó gondolkodás magas szintű felhasználásának tekintetében arányosan növekszik a középszinthez képest.
-
-KOMPETENCIÁK
-
-– A vizuális jelenségek megfigyelése, széleskörű elemző vizsgálata.
-
-– A rajzi nyelv elemeinek ismerete és megfelelő használata.
-
-– Tárgyak, vizuálisan érzékelhető jelenségek ábrázolása, valamint elképzelt dolgok megjelenítése.
-
-– A látás törvényszerűségeinek ismerete és ezen ismeretekkel értelmezni a látványt.
-
-– Vetületekből képes legyen rekonstruálni a látványt, a különböző leképzési rendszerek segítségével.
-
-– A tanult fontosabb leképzési rendszerek sokrétű értelmezése, közös vonásainak bemutatása.
-
-– Megfelelő technikai készségek használata.
-
-– Értelmező, elemző munkája során a megfelelő közlésformák kiválasztása.
-
-– A tér geometriához kapcsolódó szakkifejezések helyes használata.
-
-– A szerkesztési problémák önálló, kreatív megoldások.
-
-RÉSZLETES VIZSGAKÖVETELMÉNYEK
-
-Támaszkodnak a kerettantervi követelményekre, de nagyobb gyakorlatot igényelnek a szerkesztési gyakorlatban, ezért javasolt a szabadon felhasználható órakeret terhére további óraszám biztosítása az érettségi vizsgára felkészülők számára a 11–12. évfolyamban.
-
-Az ábrázoló és művészeti geometria követelmény rendszer magvát mind a műszaki, mind a művészeti iránynak szükséges feladatcsoport adja, azonban fontos figyelembe venni az adott iskola sajátosságait is.
-
-| TÉMÁK | VIZSGASZINTEK |
-
-| középszint | emelt szint |
-
-| 1. A tárgy kultúrtörténete | A legjelentősebb alkotók ismerete és alkotásaik felismerése. |  |
-
-| 1.1. Életrajzok | Rövid életrajzi bemutatásuk során helyezze el őket történelmi korszakok szerint. | Életrajzi bemutatásuk során helyezze el őket történelmi korszakok szerint. |
-
-| 1.2. Műelemző módszerek | Műelemző módszerek ismerete és alkalmazása (pl. forma-tartalom). | Egy-egy szabadon választott hazai és külföldi alkotó munkáinak elemző bemutatása. |
-
-| 1.3. Szerepük korukban | Milyen szerepet töltöttek be az általuk közzétett szerkesztési, képi információk. | A művész és közönsége kapcsolatának ismerete a fő művészeti korszakokban. |
-
-| 1.4. Műfajok | A képzőművészet két dimenziós (festészet, fotó, grafika), három dimenziós műfajainak (szobrászat, installáció) és időbeli kifejezéssel bíró műfajainak (mobil szobor, video stb.) a térgeometriával kapcsolatos vonatkozásainak ismerete. | Különböző korszakok műveinek összehasonlítása. |
-
-| 1.5. Ipari kultúra | A katonai, műszaki pályákon való megjelenése hol és mikor volt jellemző. | Egy-egy konkrét életmű elbeszélése. |
-
-| 2. Két képsíkos (Monge-féle ábrázolás) | Függőlegesen és vizszintesen álló képsíkokon képes legyen egy adott testet vetületeivel megjeleníteni. A rendező egyeneseket rajzolja be. A képsíkok által meghatározott tér negyedeket számozza be. | A különböző térnegyedekben elhelyezkedő pontokat tudja beazonosítani. |
-
-| 2.1. A térelemek ábrázolása | Állapítsa meg a térelemek helyzetét (pont, egyenes stb.). A képsíkrendszert forgassa egybe. Az így kapott síkon mutassa meg egy pont képsíktól mért távolságát. Ábrázoljon egyenest. Mutassa meg egy pont és egy egyenes illeszkedését. Ismertesse a különleges helyzetű egyeneseket, az egyenesek kölcsönös helyzetéből adódó egyenes párokat (fedőegyenesek, kitérőegyenesek, metszőegyenesek). Ábrázoljon általános helyzetű síkot, síkra illeszkedő egyeneseket és pontokat. Ismertesse a különleges helyzetű síkokat. | Állapítsa meg a térelemek helyzetét (pont, egyenes stb.). A képsíkrendszert forgassa egybe. Az így kapott síkon mutassa meg egy pont képsíktól mért távolságát. Ábrázoljon egyenest. Mutassa meg egy pont és egy egyenes illeszkedését. Ismertesse a különleges helyzetű egyeneseket, az egyenesek kölcsönös helyzetéből adódó egyenes párokat (fedőegyenesek, kitérőegyenesek, metszőegyenesek). Ábrázoljon általános helyzetű síkot, síkra illeszkedő egyeneseket és pontokat. Ismertesse a különleges helyzetű síkokat. |
-
-| 2.2. A képsíkrendszer bővítése | Harmadik képsíkot vezessen be, és szerkesszen meg egy egyszerű épületet (határozza meg vetületeivel). |  |
-
-| 2.3. Transzformálás | Transzformáljon pontot, egyenest, síkot. Mutasson be szemléletesebben adott tárgyakat ezzel a módszerrel. Készítsen céltranszformációkat. Általános helyzetű egyenest transzformáljon főegyenessé, főegyenest vetítőegyenessé. Általános helyzetű síkot, vetítősíkká, fősíkká. | Összetett tárgyakat transzformáljon (pl. toronytető) |
-
-| 2.4. Forgásfelületek ábrázolása | Ábrázoljon gömböt, állapítsa meg a képhatárt. Egy ponton keresztül szeletelő síkkal állapítsa meg a pont tengely körüli pályáját. Készítsen vetítő egyenes tengelyű forgáskúpot, vetítőegyenes tengyelyű forgáshengert. Ismerjen olyan alapeseteket, mint vetítősík, és egyenes döféspontja, két sík metszésvonala, egyenes nyompontja, sík nyomvonala. Nyomvonalakkal adott síkok metszésvonala. |  |
-
-| 2.5. Síkmetszések | Mutassa meg a síkmetszet keletkezését. |  |
-
-| 2.5.1. Síklapú testek síkmetszete | Síklapú testeket (gúla és hasáb) metszen el vetítő síkkal, ismertesse a metszet sokszöget, négyzet alakú hasáb esetén. Készítsen el alaprajzi metszetet és függőleges metszetet. Ismertesse az építészeti alkalmazási lehetőségét. | Szerkessze meg a metszetsokszöget, ötszög alapú hasáb esetén. |
-
-| 2.5.2. Forgásfelületek síkmetszete | Forgáshenger, forgáskúp síkmetszése. Mutassa meg milyen metszetgörbék keletkeznek. | Szerkessze meg a metszetgörbét, forgáshenger és forgáskúp esetén. |
-
-| 2.6. Méretek szerkesztése | Alkalmazza a méretes feladatok megoldásának A módszereit, a sík és egyenes merőlegességének az ismertetőjegyeit. A síkokat első nyomvonaluk körül vízszintes helyzetbe forgassuk, így alakítsuk fősíkká. Szakaszokat forgasson főállásba. | Alkalmazza a méretes feladatok megoldásának a módszereit, a sík és egyenes merőlegességének az ismertetőjegyeit. A síkokat első nyomvonaluk körül vízszintes helyzetbe forgassuk, így alakítsuk fősíkká. Szakaszokat forgasson főállásba. |
-
-| 2.7. Áthatások | Két test egymáson való áthatásának fogalmát értelmezze. |  |
-
-| 2.7.1. Síklapú testek (felületének) áthatása | Ismertesse az áthatási sokszög keletkezését. A két test lapjainak metszésvonalai hogy csatlakoznak egymáshoz térbeli sokszöget alkotva. A keletkező csúcsokat mik adják meg. Tudja megszerkeszteni a gúla és vetítőhasáb áthatását. | Tudja megszerkeszteni két gúla áthatását. |
-
-| 2.7.2. Forgásfelületek áthatása | A forgásfelületek testáthatásánál keletkező görbét mutassa meg. Szerkesszen kúp és henger áthatást. | Szerkessze meg a kúp és gömb áthatását, hengerek áthatását, boltozatot, kupolát, dongaboltoztot, kolostorboltozatot. |
-
-| 3. Axonometrikus ábrázolás | Szemléltesse általános kép keletkezését. Térbeli derékszögű koordináta-rendszert alkosson, és vetítse az A képsíkra. Mutassa be a tengelykereszt, és a vele együtt létrehozott kép, hogy alkotja az axonometrikus képet. A tengelykereszt és a rövidülések ismeretében rajzoljon hasábot, és ezzel szemléltesse a rendszert, befoglaló hasábból csonkolva és axonometrikus nézetekkel. | Alkosson tengelykeresztet az axonometrikus ábrázolási nézetekkel. |
-
-| 3.1. Gyakorlati tengelykeresztek | Ismertesse a gyakorlati tengelykereszteket. A műszaki gyakorlatban kialakult a tengelyek és rövidülések felvételének néhány egyszerű módja: izometrikus tengelykereszt, két méretű tengelykereszt, kavalier tengelykereszt, katona perspektíva. |  |
-
-| 3.2. Alkalmazások | Elsősorban műszaki ábrázolásoknál történik. Soroljon fel alkalmazási területeket. Például csapolással kialakított gerendavég, fafedélszék taréj csomópontjának részlete. Dongaboltozat, épületek alaprajz alapján történő megjelenítése építészeti vonatkozásban. | Rajzokon szemléltesse a különféle alkalmazási területeken megjelenő formákat. |
-
-| 4. Perspektív kép szerkesztése | A centrális vetítés középpontja a szem, ezt az alaphelyzetet figyelembe véve fel kell tudni építeni a rendszert kialakító síkokat (perspektívikus képsík, alapsík, horizont sík, homloksík). Fel kell tudni venni a jelentősebb fontosságú pontokat (főpont, alappont, iránypont, nyompont) és a síkmetszetekből keletkező egyeneseket (horizontvonal, alapvonal, középvonal, distancia). Készítsen rajzot, hogy a képsíkok hogyan állnak. Helyezzen be egy alakot és mutassa meg egy ponton és egy egyenesen keresztül, hogy milyen változások történnek az összecsukás folyamán. | Készítsen rajzot, hogy a képsíkok hogyan állnak. Helyezzen be egy alakot, és mutassa meg egy ponton és egy egyenesen keresztül, hogy milyen változások történnek az összecsukás folyamán. |
-
-| 4.1. Egy iránypontos perspektív kép szerkesztése | Az egyiránypontos perspektíva mint legkorábbi leképzési rendszer hol, mikor alakult ki, hogyan használták fel, kik voltak a legnevesebb alkotók. Tisztában legyen vele, hogy ez egy speciális helyzet, mikor a képsíkra merőleges egyenesek iránypontja a főpont lesz. A képsíkkal párhuzamos egyeneseknél pedig nincs iránypont. Alakítson ki egyszerűbb belső teret egy iránypontos perspektívával. | Alakítson ki belső teret, és helyezzen bele különféle tárgyakat. |
-
-| 4.2. Kocka perspektív képe | Szerkesszen két iránypontos perspektív képeket a kocka különböző téri helyzeteiről (alálátás, rálátás). |  |
-
-| 4.3. A perspektív kép szerkesztési menete | Ismertesse egy forma perspektívikus szerkesztésének menetét. | Ismertesse egy összetettebb forma perspektívikus szerkesztésének menetét. |
-
-| 4.4. Perspektív árnyék szerkesztése | Ismerje a centrális és a természetes fény által kialakuló árnyékok kiszerkesztési módját (megemelt síkra, függőleges síkra és ferde síkra). | Összetett formák árnyékainak szerkesztése. |
-
-| 5. Vetületi ábrázolások |  |  |
-
-| 5.1. Tárgy és vetület kapcsolata | Ismerje a vetületi ábrázolás alapjait. Képes legyen szabadkézi rajzzal készült testek vetületeivel való bemutatására. Adott vetületek alapján tudjon megjeleníteni szintén szabadkézi rajzzal, különféle nézőpontokból összetett testeket. | Ismerje a vetületi ábrázolás alapjait. Képes legyen szabadkézi rajzzal készült testek vetületeivel való bemutatására. Adott vetületek alapján tudjon megjeleníteni szintén szabadkézi rajzzal, különféle nézőpontokból összetett testeket. |
-
-| 5.1.1. Rajzolvasás | Elengedhetetlenül fontos a vetületekben megadott rajz olvasása, képzeletben történő megjelenítése. A különböző vetületeket rajzolja le, valamint következtetni tudjon megadott vetületekből a lehetséges testekre. Az ábrázoló geometria rendszerében a megismert feladatokat tudja térben is megjeleníteni. | Az ábrázoló geometria rendszerében a megismert feladatokat tudja térben is megjeleníteni. Síkmetszéssel el tudjon szeletelni alapvető geometriai formákat (kocka, gúla stb.). |
-
-| 5.1.2. Két képsíkos ábrázolás | Tisztában legyen a két képsíkos ábrázolás felépülésével. Az egymásra merőlegesen álló két képsíkon lévő vetületekből el tudja képzelni a megadott tárgyat az első térnegyedben. A hozzám, szemlélőhöz közelebb lévő térelemek láthatóságával legyen tisztában. El tudja mondani a fedőpontok és fedőegyenesek lényegét. | Rajzolja le a képsíkokat, és szemléletesen tudja elmagyarázni az összefüggéseket a kapott ábrán. Tudja lerajzolni az adott szituációt. |
-
-| 5.1.3. A képsíkrendszer bővítése | Két ismert vetület alapján haradik kép megrajzolása, a részletek alapos tanulmányozása mellett. Hozzon létre a két képsík alapján harmadikat. | Rajzolja le adott tárgy három képét. |
-
-| 5.1.4. Rekonstrukció | Rajzolvasás alapján jelenítsen meg vetületekkel megadott tárgyakat. Ismertesse az összerakó, építő eljárást és a csonkoló, lebontó eljárást. Különböző nézőpontokat választva képes legyen megrajzolni vetületekkel megadott formákat. | Rajzokkal ismertesse és szemléltesse a módszerek lényegét. |
-
-| 5.2. Az európai vetítési módszer | A tárgyakat derékszögű vetítéssel kell ábrázolni. A vetületeket az európai vetítési módszer szerint kell elhelyezni. Ekkor az ábrázolandó tárgy a szemünk és a képsík között helyezkedik el. | Képes legyen adott tárgyról felmérő vetületi rajzot készíteni. |
-
-| 5.2.1. Tárgy típusok | Mindezet képes legyen mind síklapú testekkel, mind forgásfelületekkel létrehozni. A kiinduló formák csonkolással, hozzáadással és egymás mellé helyezéssel bonyolítódnak a feladatokban. | Mindezet képes legyen mind síklapú testekkel, mind forgásfelületekkel létrehozni. A kiinduló formák csonkolással, hozzáadással és egymás mellé helyezéssel bonyolítódnak a feladatokban. |
-
-| 5.2.2. Tervezési folyamat | A tervező, alkotó folyamat lépéseinek (kutatás,motívum gyűjtés, vázlatkészítés, modellezés, kipróbálás, tervdokumentáció-készítés) ismertetése egy konkrét példán keresztül. | A tárgytervezés szempontjainak ismertetése. |
-
-| 5.3. Látvány szerinti rajzolás |  |  |
-
-| 5.3.1. A látás törvényszerűségei | Ismerni kell a látás folyamatát. Anyag, élet és szellem látszólag egymásól távoleső fogalmak, de a látás szorosan egymáshoz kapcsolja őket. A látóteret és a tekintési teret el tudja magyarázni. A szem látóképességének ismertetése. | Le tudja rajzolni a látóteret és a tekintési teret. |
-
-| 5.3.2. Térlátás | Két szemmel történő látással tudjuk felismerni a tárgyak méretét, távolságát, ezért elemezni szükséges. | Rajzokkal mutassa be és értelmezze a folyamatot. |
-
-| 5.3.3. A középpontos vetítés | A középpontos vetítésnél rajzolás esetén a centrum az emberi szem. A térbeli jelenségekből síkbeli leképzést készítsen. | Szemléltetni tudjon egy kockával különféle téri helyzeteket. |
-
-| 5.3.4. Rálátás, a rálátás | A vizuális közlés meghatározó térélményeinek megfelelő értelmezése. A horizontvonal mint a látásban szerepet játszó tényezők lényegének ismerete (nézőpont stb.). Egyszerű rajzokon bemutatása. | Egy kockával bemutatni a téri helyzetet lehetséges formáit. Különféle látványszerű perspektívikus rajzokkal. |
-
-| 5.3.5. A felületosztás módozatai | Ismertesse milyen módon lehet egy adott kockát felosztani, tudjon erről egyszerű rajzokat készíteni. | Különféle felosztások szabályszerűségeit képes legyen felismerni. |
-
-| 5.3.6. Csonkolás | Miből áll, mit jelent? Hol szokták alkalmazni? Egyszerű geometriai formákból ( kocka, hasáb, gúla, henger, kúp stb.) képes legyen csonkolással előállítani bonyolultabb téri formákat. | Tudjon lerajzolni szabadkézzel csonkolt formákat. |
-
-| 5.3.7. A kör | A kör képeinek változatai. |  |
-
-| 5.3.7.1. Vízszintes négyzetlapba foglalt kör | A négyzetlappal mint befoglaló formával képes legyen létrehozni térbeforgatott körképet. A síkmértani igazságok és a térbeli látványközötti eltéréseket tudja értelmezni. Ismerje az ellipszis összetevőit, miből áll, hogy tudjuk megszerkeszteni. | Tudja lerajzolni, hogy hogyan tér el a térbeli befoglaló négyzet középpontja a befoglalt körből keletkezett ellipszis térbeli középpontjától. |
-
-| 5.3.8. Függőleges négyzetlapba foglalt kör | Ismertesse a függőleges négyzetlapba foglalt kör kinézetét. A látvány szerinti rajzolásnál a körből keletkezett ellipszis középpontjának és a befoglaló négyzet középpontjának eltérésével legyen tisztában. Tudja, hogy ezek a tanulságok axonometrikus kép esetben nem igazak. | Képes legyen megjeleníteni egy látvány szerinti képen ezeket a tanulságokat. |
-
-| 5.3.9. Forgástestek | Hogyan alakul ki képes legyen értelmezni, lerajzolni a folyamatot. A leíró görbének és az egyes pontok mozgásának a tengelyhez viszonyított helyzetét elemezni. | Vetületi rajzokkal tudja bemutatni a különféle forgásfelületek kialakulását, kinézetét. |
-
-| 5.4. Árnyékrajzolás | Az árnyékok jól tükrözik és magyarázzák a formákat, ezért elkészítésük fontos. Különválasztva tárgyaljuk a természetes és a mesterséges megvilágítást. Készítse el a vetítéssel létrejött árnyékát adott geometriai testnek. Ismertesse, hogy mi a tárgy megvilágított önárnyékos, vetettárnyékos része és üreges testek esetén a bevetett árnyékot. A térelemet (pont, egyenes, sík) árnyékainak kialakulását rajzolja le. Ezek az esetek következők: pont árnyéka, egyenes árnyéka, ferde egyenes árnyéka, függőleges egyenes árnyéka, vízszintes egyenes árnyéka, egyenesek árnyéka ferde síkon, síklap árnyéka, síklap árnyéka függőleges síkra, vízszintes helyzetű síklap árnyéka alapsíkra. | Rajzoljon egy tárgyat több fényforrásból megvilágítva. Ismertesse, hogy mi a tárgy megvilágított önárnyékos, vetettárnyékos része és üreges testek esetén a bevetett árnyékot. A térelemet (pont, egyenes, sík) árnyékainak kialakulását rajzolja le. Ezek az esetek következők: pont árnyéka, egyenes árnyéka, ferde egyenes árnyéka, függőleges egyenes árnyéka, vízszintes egyenes árnyéka, egyenesek árnyéka ferde síkon, síklap árnyéka, síklap árnyéka függőleges síkra, vízszintes helyzetű síklap árnyéka alapsíkra. |
-
-| 5.4.1. Forgástestek árnyékrajzolása | Egyszerűsítve egy-egy pont vizsgálatával kell megmutatni. Ismerje az egyenes körkúp, az egyenes körhenger álló és fekvő változatát és a gömb árnyékának kialakulását. Vázlatos rajzon jelenítse meg ezeket. | Pontosan mutassa be, hogy hogyan keletkeznek forgásfelületek árnyékai. Szemléletesen megrajzolva jelenítse meg ezeket. Tudja megrajzolni egy függőleges falhoz illesztett kocka vagy hasáb árnyékát. |
-
-| 5.5. Árnyékszerkesztés | A döféspont-szerkesztés, síkmetszés és forgásfelületek esetében az áthatás törvényszerűségeinek vizsgálatával szeresszük meg az árnyékot. Az árnyék formája függ az árnyékot vetőt tárgy alakjától és a megvilágítás irányától. Egyszerű megoldásként alkalmazható a 45 fokos párhuzamos világítás. Pont, egyenes és sík árnyéka. Kocka síkra és falra vetett árnyéka. Körlap, gömb, vetett árnyéka. Egyenes körkúp, egyenes körhenger árnyéka. | Kocka ferde falsíkra vetett árnyéka. Vetett és bevetett árnyék (falfülkék stb. ) Forgásfelületekre vetett árnyék. |
-
-II. A VIZSGA LEÍRÁSA
+BELÜGYI RENDÉSZETI ISMERETEK
 
 A vizsga részei
 
-| Középszint | Emelt szint |
+| Közép szint | Emelt szint |
 
-| Írásbeli vizsga | Írásbeli vizsga |
+| Írásbeli vizsga | Szóbeli vizsga | Írásbeli vizsga | Szóbeli vizsga |
 
-| 150 perc | 180 perc |
+| 120 perc | 15 perc | 180 perc | 20 perc |
 
-| 100 pont | 100 pont |
+| 100 pont | 50 pont | 100 pont | 50 pont |
 
 A vizsgán használható segédeszközök
 
 |  | Középszint | Emelt szint |
 
-| Írásbeli vizsga | Szóbeli vizsga | Írásbeli vizsga | Szóbeli vizsga |
+|  | Írásbeli vizsga | Szóbeli vizsga | Írásbeli vizsga | Szóbeli vizsga |
 
-| A vizsgázó biztosítja | Körző, ceruzák, vonalzók, radír | NINCS | Körző, ceruzák, vonalzók, radír | NINCS |
+| A vizsgázó biztosítja | körző, vonalzó, íróeszköz | NINCS | körző, vonalzó, íróeszköz | NINCS |
 
-| A vizsgabizottságot működtető intézmény biztosítja | NINCS | NINCS | NINCS | NINCS |
-
-Nyilvánosságra hozandó anyag nincs.
-
-KÖZÉPSZINTŰ VIZSGA
-
-Írásbeli vizsga
-
-Az írásbeli feladatlap tartalmi és formai jellemzői
-
-Az ábrázoló és művészeti geometria érettségi vizsgakövetelmények szerkezetét és formáját is meghatározza a műszaki és művészeti kompetencia terület.
-
-A térgeometria kompetencia területének olyannak kell lenni, hogy magába foglalja a két fő irányvonal összefogó alaptudásszintet, de lehetőséget teremtsen, hogy az iskolák sajátosságai is jelentkezhessenek.
-
-Az említett kompetenciaterületek mindkét irányt felölelő vizsgaformák segítségével kerüljenek lemérésre.
-
-Az írásbeli vizsgáztatás során elsődleges szerepet kap a rajzolás és szerkesztés folyamata, de bizonyos alapfogalmak kapcsán szöveges válaszok adandók.
-
-| Középszint |
-
-| Írásbeli vizsga |
-
-| 150 perc |
-
-| 100 pont |
-
-Az írásbeli vizsga feladatainak tartalmazniuk kell a főbb anyagrészekből (axonometria, perspektíva, két képsíkos rendszer) legalább kettőt.
-
-(A feladatoknak úgy kell felépülni, hogy tartalmazzák magukban az anyagrészek legfontosabb részeit.)
-
-A tananyag történeti részéből is kell kérdésnek szerepelni. A szakspecifikus sajátosságok természetesen alapvetően meghatározók.
-
-Az írásbeli feladatsor tartalmi arányainak eldöntése több szempontrendszer figyelembevételével történik, melyek a főbb – tartalmat meghatározó – kategóriák szerint külön-külön kerültek kijelölésre.
-
-A tárgy kultúrtörténete 10%
-
-Rajzi gyakorlat 20%
-
-Perspektíva 20%
-
-Axonometria 20%
-
-Két képsíkos vetítési rendszer 30%
-
-Az adott tárgy lényegéből következik, hogy a vizuális gondolkodás fejlettségének mérésére alkalmas írásbeli feladattípusok rajzi és szerkesztési képességeket mérnek fel.
-
-Az írásbeli feladatlap értékelése
-
-A középszintű írásbeli vizsgarészben az összpontszám 100 pont.
-
-Az értékelés részletes központi javítási és értékelési útmutató segítségével történik. Az írásbeli feladatsor értékelési útmutatójának minden egyes konkrét feladat esetében tartalmaznia kell a helyesnek tekinthető választ és a hozzájuk tartozó pontértékeket. Azoknál a feladatoknál, ahol nem egyértelmű az elfogadható válasz, a javításhoz olyan segítséget kap a javító, amely ismerteti az elfogadható lehetőségeket, tartalmi elemeket és azok pontozási eljárását.
-
-Műelemzés 10 pont
-
-Rekonstrukció 20 pont
-
-Perspektíva 20 pont
-
-Axonometria 20 pont
-
-Merőleges vetítés 30 pont
-
-EMELT SZINTŰ VIZSGA
-
-| Emelt szint |
-
-| Írásbeli vizsga |
-
-| 180 perc |
-
-| 100 pont |
-
-Írásbeli vizsga
-
-Az írásbeli feladatlap formai és tartalmi jellemzői
-
-A feladatok jellege és elosztása megegyezik a középszintűével, a nehézségi fok tér el.
-
-A kreatív feladatoknak nagyobb teret kell engedni.
-
-Az emelt szintű vizsgára jelentkezők körében mélyebb érdeklődést, sőt szakirányú felvételi szándékot feltételezünk, lehetőséget kell biztosítani a specializáltabb és mélyebb tudás mérésére. A vizsgázó emelt szinten alapvetően két különböző jellegű vizsgafeladatsort állíthat össze magának, attól függően, hogy az alkotói és befogadói ismereteket, készségeket, képességeket mérő, vegyesen összeállított feladatsorból mely szabadon választható feladatokat oldja meg.
-
-Mivel a feladatok száma és választásuk aránya csak dominanciát határoz meg, így a választástól függetlenül megtörténik mindkét kompetenciaterület mérése.
-
-A tárgy kultúrtörténete 10%
-
-Rajzi gyakorlat 20%
-
-Perspektíva 20%
-
-Axonometria 20%
-
-Két képsíkos vetítési rendszer 30%
-
-Az emelt szintű feladatsorban – a középszinthez képest – a feladatokat alaposabban meg kell tudni jeleníteni rajzolással, és összetettebb tárgyakról kell szerkesztéseket készíteni.
-
-Az emelt szintű írásbeli feladatok kapcsolódnak szervesen a középszintű feladatokhoz, de azoknak speciálisabb helyzetben való kinézetét kell bemutatni.
-
-A gyakorlati jellegű rajzi feladatok szorosan kapcsolódnak egy-egy szakterülethez.
-
-Az emelt szintű befogadói ismereteket, készségeket és képességeket mérő feladattípusok megegyeznek a középszinten felsorolt feladattípusokkal, a feladatsor összeválogatásánál viszont jellemző szempont a magasabb szinten való készség felmérés.
-
-Az adott tantárgy lényegéből következik, hogy mindkét feladattípusban meg kell jelenni mind a műszaki, mind a művészeti terület jellemző vonatkozásainak.
-
-Az írásbeli feladatlap értékelése
-
-Az emelt szintű írásbeli vizsgán az összpontszám 100 pont.
-
-Az értékelés részletes központi javítási és értékelési útmutató segítségével történik.
-
-Az írásbeli feladatok értékelési útmutatójának minden egyes konkrét feladat esetében tartalmaznia kell a helyesnek tekinthető választ és a hozzájuk tartozó pontértékeket. Azoknál a feladatoknál, ahol nem egyértelmű az elfogadható válasz, a javításhoz olyan segítséget kap a javító, amely ismerteti az elfogadható lehetőségeket, tartalmi elemeket és azok pontozási eljárását.
-
-Műelemzés 10 pont
-
-Rekonstrukció 20 pont
-
-Perspektíva 20 pont
-
-Axonometria 20 pont
-
-Merőleges vetítés 30 pont
-
-BELÜGYI RENDÉSZETI ISMERETEK
+| A vizsgabizott- ságot működtető intézmény biztosítja | NINCS | távcső, tájoló, iránytű, 1:40.000 méretarányú turistatérkép, közúti gépjárművekben rendszeresített elsősegély-csomag, a tanult szabálysértési és bűncselekményi tényállásokat tartalmazó jogszabály vagy azok kivonata (lásd. az írásbeli vizsgarész leírásánál). Rendfokozati jelzéseket, rendszámtáblákat és államjelzéseket bemutató képek, tablók. Nyomrögzítő eszközök, rendészeti technikai eszközök (könnygázszóró palack, rendőrbot, bilincs) vagy ezek hiányában az eszközök képei is felhasználhatók | NINCS | távcső, tájoló, iránytű, 1:40.000 méretarányú turistatérkép, közúti gépjárművekben rendszeresített elsősegély-csomag, a tanult szabálysértési és bűncselekményi tényállásokat tartalmazó jogszabály vagy azok kivonata (lásd. az írásbeli vizsgarész leírásánál). Rendfokozati jelzéseket, rendszámtáblákat és államjelzéseket bemutató képek, tablók. Nyomrögzítő eszközök, rendészeti technikai eszközök (könnygázszóró palack, rendőrbot, bilincs) vagy ezek hiányában az eszközök képei is felhasználhatók |
 
 A belügyi rendészeti ismeretek emelt és középszinten letehető írásbeli és szóbeli vizsga.
 
@@ -2224,23 +1952,23 @@ II. A VIZSGA LEÍRÁSA
 
 A vizsga részei
 
-| Közép szint | Emelt szint |
+| Középszint | Emelt szint |
 
-| Írásbeli vizsga | Szóbeli vizsga | Írásbeli vizsga | Szóbeli vizsga |
+| Szóbeli vizsga | Írásbeli vizsga | Szóbeli vizsga |
 
-| 120 perc | 15 perc | 180 perc | 20 perc |
+| 15 perc | 180 perc | 20 perc |
 
-| 100 pont | 50 pont | 100 pont | 50 pont |
+| 50 pont | 100 pont | 50 pont |
 
 A vizsgán használható segédeszközök
 
 |  | Középszint | Emelt szint |
 
-|  | Írásbeli vizsga | Szóbeli vizsga | Írásbeli vizsga | Szóbeli vizsga |
+| Szóbeli vizsga | Írásbeli vizsga | Szóbeli vizsga |
 
-| A vizsgázó biztosítja | körző, vonalzó, íróeszköz | NINCS | körző, vonalzó, íróeszköz | NINCS |
+| A vizsgázó biztosítja | NINCS | NINCS | NINCS |
 
-| A vizsgabizott- ságot működtető intézmény biztosítja | NINCS | távcső, tájoló, iránytű, 1:40.000 méretarányú turistatérkép, közúti gépjárművekben rendszeresített elsősegély-csomag, a tanult szabálysértési és bűncselekményi tényállásokat tartalmazó jogszabály vagy azok kivonata (lásd. az írásbeli vizsgarész leírásánál). Rendfokozati jelzéseket, rendszámtáblákat és államjelzéseket bemutató képek, tablók. Nyomrögzítő eszközök, rendészeti technikai eszközök (könnygázszóró palack, rendőrbot, bilincs) vagy ezek hiányában az eszközök képei is felhasználhatók | NINCS | távcső, tájoló, iránytű, 1:40.000 méretarányú turistatérkép, közúti gépjárművekben rendszeresített elsősegély-csomag, a tanult szabálysértési és bűncselekményi tényállásokat tartalmazó jogszabály vagy azok kivonata (lásd. az írásbeli vizsgarész leírásánál). Rendfokozati jelzéseket, rendszámtáblákat és államjelzéseket bemutató képek, tablók. Nyomrögzítő eszközök, rendészeti technikai eszközök (könnygázszóró palack, rendőrbot, bilincs) vagy ezek hiányában az eszközök képei is felhasználhatók |
+| A vizsgabizottságot működtető intézmény biztosítja | Biblia (Károli); Bibliai Atlasz (Aharoni-Avi Yonah) | A II. részhez Biblia (Károli) | Biblia (Károli); Bibliai Atlasz (Aharoni-Avi Yonah) |
 
 Nyilvánosságra hozandók
 
@@ -2267,6 +1995,8 @@ KÖZÉPSZINTŰ VIZSGA
 | 100 pont | 50 pont |
 
 Írásbeli vizsga
+
+Általános szabályok
 
 A szóbeli tétel 2 feladatból áll.
 
@@ -2560,21 +2290,21 @@ A vizsga részei
 
 | Középszint | Emelt szint |
 
-| Szóbeli vizsga | Írásbeli vizsga | Szóbeli vizsga |
+| Írásbeli vizsga | Szóbeli vizsga | Írásbeli vizsga | Szóbeli vizsga |
 
-| 15 perc | 180 perc | 20 perc |
+| 120 perc | 15 perc | 240 perc | 20 perc |
 
-| 50 pont | 100 pont | 50 pont |
+| 100 pont | 50 pont | 100 pont | 50 pont |
 
 A vizsgán használható segédeszközök
 
 |  | Középszint | Emelt szint |
 
-| Szóbeli vizsga | Írásbeli vizsga | Szóbeli vizsga |
+| Írásbeli vizsga | Szóbeli vizsga | Írásbeli vizsga | Szóbeli vizsga |
 
-| A vizsgázó biztosítja | NINCS | NINCS | NINCS |
+| A vizsgázó biztosítja | szöveges adatok tárolására és megjelenítésére nem alkalmas zsebszámológép | NINCS | szöveges adatok tárolására és megjelenítésére nem alkalmas zsebszámológép | NINCS |
 
-| A vizsgabizottságot működtető intézmény biztosítja | Biblia (Károli); Bibliai Atlasz (Aharoni-Avi Yonah) | A II. részhez Biblia (Károli) | Biblia (Károli); Bibliai Atlasz (Aharoni-Avi Yonah) |
+| A vizsgabizottságot működtető intézmény biztosítja | NINCS | Állat és Növényismeret c. könyv vagy ezzel egyenértékű információt tartalmazó egyéb kiadvány, illetve kísérlethez szükséges eszközök | NINCS | szöveges adatok tárolására és megjelenítésére nem alkalmas zsebszámológép |
 
 Nyilvánosságra hozandók
 
@@ -3312,9 +3042,19 @@ A vizsga részei
 
 | Írásbeli vizsga | Szóbeli vizsga | Írásbeli vizsga | Szóbeli vizsga |
 
-| 180 perc | 15 perc | 240 perc | 20 perc |
+| 120 perc | 15 perc | 240 perc | 20 perc |
 
-| 100 pont | 50 pont | 100 pont | 50 pont |
+| 90 pont | 60 pont | 100 pont | 50 pont |
+
+A vizsgán használható segédeszközök
+
+|  | Középszint | Emelt szint |
+
+|  | Írásbeli vizsga | Szóbeli vizsga | Írásbeli vizsga | Szóbeli vizsga |
+
+| A vizsgázó biztosítja | Függvénytáblázat, szöveges adatok tárolására és megjelenítésére nem alkalmas zsebszámológép | NINCS | Függvénytáblázat, szöveges adatok tárolására és megjelenítésére nem alkalmas zsebszámológép | NINCS |
+
+| A vizsgabizottságot működtető intézmény biztosítja | NINCS | Függvénytáblázat, szöveges adatok tárolására és megjelenítésére nem alkalmas zsebszámológép, tételeknek megfelelően csoportosított kísérleti eszközök vagy mérőműszerek | NINCS | Függvénytáblázat, szöveges adatok tárolására és megjelenítésére nem alkalmas zsebszámológép, tételeknek megfelelően csoportosított eszközök, mérőműszerek |
 
 A vizsgán semmilyen segédeszköz nem használható.
 
@@ -3642,5 +3382,251 @@ I. RÉSZLETES ÉRETTSÉGI VIZSGAKÖVETELMÉNY
 
 5. Egyed feletti szerveződési szintek
 
+2K00150M_4
+
+| TÉMÁK | VIZSGASZINTEK |
+
+| Középszint | Emelt szint |
+
+| 5.1. Populáció | Ismertesse a populáció ökológiai és genetikai értelmezését. Ismertesse a populáció egyedszámának korlátlan és korlátozott növekedési modelljeit, értelmezze a környezet eltartó képességének fogalmát. Mondjon példát hirtelen elszaporodó (gradáció) majd összeomló létszámú populációra. Ismertesse ezek mezőgazdasági szerepét (pl. sáskajárás), a védekezés módjait, a biológiai védekezés előnyeit. Értelmezzen emberi korfákat, vonjon le belőlük következtetéseket. | Értelmezze a statisztikus megközelítés, a valószínűség, az előfordulási gyakoriság fogalmát. Ismertesse a populáció jellemzőit (egyedszám, egyedsűrűség, koreloszlás, térbeli eloszlás). Hozza összefüggésbe az r- és a K-stratégia fogalmát a környezet állandóságával, az élőlény élettartamával és testnagyságával. Magyarázza ezeket grafikus ábrán. |
+
+| 5.1.1. Környezeti kölcsönhatások | Ismertesse a környezet fogalmát (élettelen és élő), a környezet időbeli (periodikus és előrehaladó) és térbeli (horizontális, vertikális) változását. Értelmezzen tűrőképességi görbéket: minimum, maximum, optimum, szűk és tág tűrés. Hozza összefüggésbe az indikátor szervezetekkel. Esettanulmány alapján ismerjen fel összefüggéseket a környezet és az élőlény tűrőképessége között. | Ismertesse a környezet kitettségtől függő változását. Értelmezze Liebig kísérleti eredményeit (minimum-elv). Ismertesse a niche fogalmát. Magyarázza az élettani és az ökológiai optimum, az élettani és ökológiai niche különbségét. Ismertesse és magyarázza a hasonló igényű populációk kizáródásának elvét (Gauze elv). Hozza összefüggésbe az elvet a biológiai sokféleséggel és az evolúciós folyamatokkal. Ismertesse a testtömeg, a testfelület és az élőhely átlag hőmérsékletének az összefüggését. |
+
+|  | Példákkal igazolja, hogy az élettelen környezet legfontosabb tényezői – a fény, a hő, a víz, a levegő és a talaj – hogyan szabják meg az élőlények elterjedését. Ismertesse a talaj kialakulásának feltételeit. Ismertesse a trágyázás jelentőségét, a szakszerűtlen műtrágyázás lehetséges következményeit. Mutassa be példán, hogy egy faj elterjedését több környezeti tényező is befolyásolja. Magyarázza a peszticidek, mérgek felhalmozódását a táplá-lékláncban. |  |
+
+| 5.1.2. Kölcsönhatások − Viselkedésbeli kölcsönhatások | Ismertesse a territórium, a rangsor, az önzetlen és az agresszív magatartás, a rituális harc, a behódolás fogalmát, a társas kapcsolatok, párosodási rendszerek (csoportszer-veződés) szaporodási viselkedés típusait. Tudjon ezekre példát hozni, illetve példákból ismerje fel ezeket. | Példákon keresztül mutassa be az állatok és az ember kommunikációja közötti különbségeket, az emberi nyelv sajátosságait. Ismertesse az agresszív és az önzetlen viselkedés kialakulásának csoportszelekciós és rokonszelekciós hipotézisét. Alkosson véleményt az emberi agresszivitás eredetéről, szerepéről, kiváltó okairól, megszüntethetőségéről. |
+
+| − Ökológiai kölcsönhatások | Ismertesse a szimbiózis, a versengés, az asztalközösség (kommenzalizmus,) az antibiózis, az élősködés és a táplálkozási kölcsönhatás (predáció) fogalmát, állati és növényi példákkal. | Hozza kapcsolatba a táplálkozási és élősködő kapcsolatokat a populációk létszámváltozásaival. Példákkal igazolja, hogy az egyes élőlénypopulációk közti kölcsönhatások sokrétűek. |
+
+| 5.2. Életközösségek (élőhelytípusok) |  |  |
+
+|  | 5.2.1. Az életközösségek jellemzői | Értelmezze a szintezettség kialakulásának okát. Magyarázza az életközösségek időbeni változásait. Értelmezze a változások természetes és ember által befolyásolt folyamatát, ismertesse a szennyezés csökkentésének lehetőségeit. | Ismertesse a mintázat kialakulásának okait, értelmezzen egy ökológiai mintázatot bemutató ábrát. Ismertesse a szukcesszió, az aszpektus, a kezdő (pionír), a zárótársulás és a leromlás (degradáció) fogalmát. Grafikonon vagy ábra segítségével értelmezze, hogyan változik az életközösség a szukcesszió folyamatában. Értse, hogy egy életközösség sokfélesége produktivitása és stabilitása összefügg. Értelmezze a szukcesszió tartós megszakadásának lehetséges okait (legeltetés, tavak kotrása). |
+
+|  | 5.2.2. Hazai életközösségek | Jellemezzen egy iskolájához vagy lakóhelyéhez közeli terület élővilágát (élőhelytípusok, környezeti tényezők, talaj, uralkodó állat- és növényfajok, szintezettség, időbeni változások). A fajok és életközösségek jellemzésére használja a növényismeret- és állatismeret könyveket. | Hasonlítsa össze az alábbi élőhely típusokat: cseres-tölgyes, gyertyános-tölgyes, bükkös ligeterdő, nyáras-borókás. Ismertesse és értékelje az ember szerepét átalakításukban (természetes erdők – faültetvények, folyószabályozás, legeltetés). |
+
+|  |  | Ismertesse a szikes puszták jellemzőit, a szikes talaj kialakulásának feltételeit, a másodlagos szikesedést |
+
+|  | Egy tó feltöltődésének folyamatán keresztül mutassa be az életközösségek előrehaladó változásait. Ismertesse a gyomnövény fogalmát, hozzon rá példát. | Ismertesse a sziklagyepek előfordulásait, jellemző környezeti sajátságaikat, az itt élő fajok természetvédelmi jelentőségét. Sorolja fel a sziklagyepeket fenyegető fontosabb károsító hatásokat. Ismertesse a fontosabb gyomtársulás-típusokat (vetési, útszéli, vágástársulások), kialakulásuk okait, jellemző fajait. |
+
+| 5.3. Bioszféra |  |  |
+
+| − Globális folyamatok | Értelmezze a bioszférát ökoszisztémaként (Gaia). Soroljon fel és magyarázzon civilizációs ártalmakat (helytelen életmód, kábítószer-fogyasztás, túlzott gyógyszerfogyasztás, vegyszerek károsító hatásai.) Tudjon példát mondani a természetes növény- és állatvilágot pusztító és védő emberi beavatkozásokra (pl. az esőerdők irtása, a monokultúrák hatása, kőolajszennyezés, nemzeti parkok, nemzetközi egyezmények). Hozzon példát hazai lehetőségeinkre és felelősségünkre (pl. vásárlási szokások). Tudja, hogy a globális problémák között tartjuk számon a népességrobbanást, globális felmelegedést, hulladék-problémát, a savasodást, a tengerek-óceánok, édesvizek problémáit, az ózonpajzs csökkenését. Ismertesse, miért lehetnek ezek ökológiai válság tényezői. Magyarázza, hogyan függ össze az ökológiai válság társadalmi és gazdasági kérdésekkel. | Ismertesse a városok ökológiai hatásait. Ismertesse a közlekedés (úthálózat) ökológiai hatásait. Tudja, hogy a mennyiségi növekedésnek a Földön anyagi- és energetikai korlátai vannak. Ismertesse a fenntartható fejlődés fogalmát. |
+
+| 5.4. Ökoszisztéma | Ismertesse az ökoszisztéma fogalmát, értelmezze az életközösséget ökoszisztémaként |  |
+
+|  | 5.4.1. Anyagforgalom | Értelmezze, és példák segítségével mutassa be a termelők, a lebontók és a fogyasztók szerepét az életközösségek anyagforgalmában és energiaáramlásában. Fogalmazza meg a táplálkozási lánc és hálózat különbségét. Értelmezze a szén és az oxigén körforgásának útját: az autotróf és heterotróf lények szerepét, a humuszképződés lényegét, a szénhidrogén- és kőszénképződés okát, a karbonát-kőzetek keletkezését. Értelmezze az élőlények szerepét e folyamatokban. | Értelmezze az ökoszisztéma tagjainak kölcsönös egymásra utaltságát, a ragadozók szerepét a társulás stabilitásának fenntartásában. Elemezzen táplálékhálózatot. Ismertesse a foszfor körforgásában a tengeri madarak szerepét, a biológiai ciklusból való kilépés lehetőségét (foszfátüledék). Ábra segítségével elemezze a lebontó szervezetek, a nitrogéngyűjtő, a nitrifikáló és a denitrifikáló baktériumok szerepét a nitrogén körforgásában. |
+
+|  | 5.4.2. Energiaáramlás |  | Hasonlítsa össze a produkció, biomassza és egyedszám fogalmát. Értelmezzen „ökológiai produkció és energia piramist”. Értelmezze a biomassza és a produkció függését a globális éghajlati tényezőktől. |
+
+| 5.4.3. Biológiai sokféleség |  | Értelmezze a sokféleséget (diverzitást) a gének szintjén (pl. a heterozigótaság mértéke a populációban), a faj szintjén (pl. a fajok száma) és az ökoszisztéma szintjén (pl. a tápláléklánc szintjeinek száma). |
+
+|  | 5.5. Környezet- és természetvédelem | Ismertesse a természetvédelem fogalmát, a mellette szóló etikai, egészségügyi, kulturális és gazdasági érveket. Ismertesse a biológiai sokféleség megőrzésének etikai, jogi és gyakorlati szükségességét, a természetvédelem lehetőségeit. Tudja, hogyan csoportosítjuk a védett területeket példákkal (természetvédelmi terület tájvédelmi körzet, nemzeti park) Térképen ismerje fel hazánk nemzeti parkjait. Ismertesse a lakóhelyéhez legközelebb fekvő nemzeti parkot, ennek fontosabb értékeit. |  |
+
+|  | Ismertesse a környezetvédelem fogalmát, a kibocsátás és ülepedés, a határérték fogalmát. |  |
+
+| − Levegő | Tudja a fontosabb légszennyező anyagokat, ezek eredetét és károsító hatását (CO, CO2, nitrogén-oxidok, ólom és ólomvegyületek, korom, por, halogénezett szénhidrogének). Ismertesse a savas esők okát és következményeit. Ismertesse az üvegházhatást, a hőszennyezést, a lehetséges következményeket. Foglaljon állást a teendőkről. Tudjon a teendőkről szmogriadó esetén. | Tudjon a szennyezés csökkentését ösztönző főbb gazdasági és jogi lehetőségekről (adók, tiltás, határérték, bírság, polgári per). Fogalmazza meg véleményét ezek hatékonyságáról. Magyarázzon kísérletet a környezetszennyezés káros hatásai bizonyítására. |
+
+| − Víz | Értelmezze a vizek öntisztuló képességének magyarázatát, korlátait. Ismertesse a fontosabb vízszennyező anyagokat. Ismertesse az ivóvíz nyerésének módjait, az ezeket a forrásokat fenyegető veszélyeket. Értelmezze a ,,közműolló” fogalmát, a mechanikai és biológiai víztisztítás lényegét, lehetőségeit. Fogalmazza meg álláspontját a legfontosabb teendőkről. |  |
+
+| − Energia, sugárzás | Ismertesse a hagyományos és az ,,alternatív” energiaforrásokat, a megújuló és a nem megújuló energia különbségét. Értelmezze az atomenergia felhasználásának lehetőségét és veszélyeit. Tudjon az energiatakarékosság lehetőségeiről. Fejtse ki álláspontját a hazai energiagazdálkodás lehetőségeiről. |  |
+
+| − Talaj | Magyarázza meg a talajerózió okait, csökkentésének lehetőségeit. Értelmezze a talaj romlásának, illetve javításának folyamatát. |  |
+
+| − Hulladék | Ismertesse a hulladék típusait, kezelésük lehetséges módját. Lássa a szelektív gyűjtés előnyét, összefüggését a feldolgozással, újrahasznosítással. |  |
+
+6. Öröklődés, változékonyság, evolúció
+
+2K00150M_5
+
+| TÉMÁK | VIZSGASZINTEK |
+
+| Középszint | Emelt szint |
+
+| 6.1. Molekuláris genetika 6.1.1. Alapfogalmak | Ismertesse a gén és allél, a genetikai kód, a kromoszóma, a rekombináció, a kromatinfonál és homológ kromoszóma fogalmakat. Fogalmazza meg az általános összefüggést a DNS bázissorendje, a fehérje aminosavsorrendje, térszerkezete és biológiai funkciója, valamint a tapasztalható jelleg között. Ábra alapján ismertesse a DNS megkettőződés folyamatát és a DNS → m RNS átírás (transzkripció) és a fehérje leolvasás (transzláció) főbb lépéseit. Ismerje annak jelentőségét, hogy a genetikai kód általános érvényű. Kösse a fehérjeszintézis fázisait az eukarióta sejt alkotó-részeihez. | Használja a kodonszótárt. Magyarázza a baktériumok felhasználását emberi fehérje előállítására. |
+
+| 6.1.2. Mutáció | Hasonlítsa össze a mutációt és ivaros szaporodást, mint a genetikai változékonyság forrásait. Ismertesse a mutáció fogalmát, evolúciós szerepét és lehetséges hatásait (hátrányos, közömbös, előnyös). Hozzon példát ezekre. Ismertessen példát az emberi népességben többféle génváltozat tartós jelenlétére. Hasonlítsa össze a mutagén hatásokat (kémiai és sugárzó), hatásuk felismerésének problémáját, csökkentésük vagy kivédésük lehetőségeit. Tudja, hogy a mutagén és a rákkeltő (karcinogén) hatás gyakran jár együtt. Tudja, hogy a Down-szindróma a kromoszómák számbeli rendellenessége. Ismertesse kialakulásának kockázati tényezőit. | A kodonszótár segítségével vezesse le különböző típusú pontmutációk következményeit az aminosavsorrendben. Ismertesse a sarlósejtes vérszegénység és az albinizmus genetikai hátterét, hatásait. Ismertesse a fenilketonúria öröklésmenetét, hatását, kezelésének módját (diéta). Hasonlítsa össze a gén-, kromoszóma- és genommutációkat (ploidiák). Tudja, hogy a kromoszómamutációk lehetnek szerkezetiek és számbeliek, hozzon ezekre példákat. |
+
+|  | 6.1.3. A génműködés szabályozása | Indokolja, hogy különböző felépítésű-és működésű testi sejtjeink miért hordoznak azonos genetikai információt. Magyarázza, hogy miért nem mindig aktív minden gén. Értelmezze, hogy a gének megnyilvánulását a hormonális állapot is befolyásolja. Ismertesse a jó és rosszindulatú daganat, az áttétel fogalmát, néhány daganattípusra utaló jeleket (bőr, emlő-, here- prosztata-, méhnyakrák), korai felismerésének jelentőségét. | Ismerje fel ábra alapján a laktóz–operon részeit, értelmezze szerepüket. Tudja, hogy az eukarióta sejt génműködésének a szabályozásában erősítő és kioltó faktorok vesznek részt. |
+
+| 6.2. Mendeli genetika |  |  |
+
+|  | 6.2.1. Minőségi jellegek | Ismertesse a haploid, diploid, homozigóta és heterozigóta, genotípus és fenotípus fogalmakat. Ismertesse az öröklésmenetek alaptípusait (domináns-recesszív, intermedier és kodomináns). Ismertesse a tesztelő keresztezésből levonható következtetéseket. Soroljon fel ember esetében dominánsan, illetve recesszíven öröklődő jellegeket. Tudja levezetni a dominanciaviszonyok ismeretében egy egygénes enzimbetegség, az Rh- és AB0-vércsoportok öröklődését. Ismertesse a humángenetikai sajátos módszereit (családfaelemzés). | Értelmezze Mendel kutatási módszerét, hozza összefüggésbe a valószínűség és gyakoriság fogalmával. Adja meg Mendel következtetéseinek érvényességi korlátait, ennek okait (kapcsoltság, sejtmagon kívüli öröklés). Magyarázza miért alkalmas alanya az ecetmuslica a genetikai vizsgálatoknak. Tudjon két gén két-két allél, illetve egy gén három-három alléljával, és letális alléllal kapcsolatos számításokat végezni. Legyen képes családfa alapján következtetni egy jelleg öröklésmenetére. |
+
+|  | Magyarázza az ivarsejtek szerepét az ivar meghatározásában. Ismertesse a génkölcsönhatás fogalmát, és azt, hogy a legtöbb tulajdonság csak így magyarázható. Ismertesse a génkapcsoltság tényét, magyarázatát (azonos kromoszóma). | Értelmezze és elemezze a nemhez kötött öröklést a vérzékenység és s színtévesztés példáján. Két gén kölcsönhatásának jellegére tudjon következtetni a második utódnemzedék arányaiból. Közölt adatok ismeretében következtessen 2 gén két allélos öröklésben a kapcsoltság és a rekombináció tényére. Értse a kapcsoltság, a rekombinációs gyakoriság és a genetikai térképezés módszerének összefüggését. |
+
+|  | 6.2.2.Mennyiségi jellegek | Ismertessen öröklődő mennyiségi tulajdonságokat és hajlamokat az élővilágban és az emberi öröklésben. Hasonlítsa össze a mennyiségi jellegeket és a minőségi jellegeket kialakító gének hatásait (sok gén, jelentős környezeti hatás). Hozza kapcsolatba a mennyiségi öröklődést a háziasítással és a hibridvetőmagok elterjedésével. | Ábrán ismerje fel és magyarázza, hogy a mennyiségi jellegek eloszlása a populációban normáleloszláshoz közelít. Ismertessen módszereket az öröklött és a környezeti hatások szétválasztására (ikervizsgálat, környezetváltoztatás). |
+
+| 6.3. Populációgenetika és evolúciós folyamatok |  |  |
+
+|  | 6.3.1. Ideális és reális populáció | Tudja, hogy a populációk genetikai szempontból allél- és genotípus gyakoriságokkal jellemezhetők. Értelmezze, hogy a mutációk jelentik a populációk genetikai változatosságának forrását. Ismertesse az irányító, a stabilizáló és a szétválasztó szelekció fogalmát, kapcsolja össze ezeket a fajkeletkezés elméletével. Értse a populáció nagyságának természetvédelmi jelentőségét. | Lássa a matematikai modell és a megfigyelhető biológiai folyamatok összefüggését. Értelmezze az ideális populáció fogalmát, feltételeit. Értelmezze a Hardy–Weinberg összefüggést 1 gén 2 allélos számítások esetén. Értelmezze a születési és halálozási ráta fogalmát, ezek függését a populációsűrűségtől. Értelmezze a kihalási küszöb fogalmát, kapcsolatát a genetikai sodródással és a beltenyészet következtében föllépő leromlással. Magyarázza el ennek természetvédelmi vonatkozásait (fajmegőrzés). |
+
+|  | 6.3.2. Adaptív és nem adaptív evolúciós folyamatok | Ismertesse a természetes szelekció darwini modelljét. Ismertessen adaptív és nem adaptív jellegű evolúciós folyamatokat, illetve egy példa alapján ítélje meg, hogy a folyamat milyen típusba sorolható. Ismertesse a homológ és analóg szerv fogalmát, a konvergens és divergens fejlődést, tudjon példaként ilyen fejlődésű szerveket, élőlényeket bemutatni. | Értse a beltenyésztés és a nem véletlenszerű párválasztás biológiai hatásait. |
+
+|  | Tudjon példákat említeni az evolúció közvetlen bizonyítékaira (zárvány, kövületek, lenyomat, lerakódás). | Ismertesse a relatív és az abszolút (C14/C12) kormeghatározás fogalmát. Ismertesse az élő kövület fogalmát, hozzon rá példát. Ismertesse a pollenanalízis és az évgyűrűelemzés módszerét, az ebből levonható következtetéseket. Ismertesse az ugrásszerű (pontozott) evolúció tényét az értelmezések lehetőségeit. Értse az evolúció közvetett bizonyítékait (DNS homológia, molekuláris törzsfák, genetikai kód, sejtes felépítés, homológ szervek, az embriók hasonlósága, funkciójukat vesztett szervek léte). |
+
+|  | 6.3.3. Biotechnológia | Ismertesse a klón fogalmát. Ismertessen néhány példát a genetikai technológia alkalmazására (inzulintermeltetés, génátvitel haszonnövénybe, klónozott fajták a mezőgazdaságban). Ismertessen néhány, a géntechnológia mellett és ellen felsorakoztatható érvet, álláspontot. | Értelmezze, hogy miért jelenthet a háziasítás genetikai beavatkozást. |
+
+|  | 6.3.4. Bioetika | Lássa a genetikai tanácsadás lehetőségeit, alkosson véleményt szerepéről. Ismertesse a humángenetika sajátos vizsgálati módszereit, a módszer korlátait (családfaelemzés, magzati diagnosztika), etikai megfontolásait. Lássa a biológiai alkalmasság (fittnes) és az emberi élet értéke közti különbséget. Ismerje a Human Genom Program célját. |  |
+
+| 6.4. A bioszféra evolúciója |  |  |
+
+|  | 6.4.1. Prebiológiai evolúció | Tudja, hogy a biológiai evolúciót fizikai és kémiai evolúció előzte meg. Ismertesse az élőlények anyagainak kialakulására vonatkozó elméleteket. | Indokolja az élő sejt kialakulásához vezető lehetséges lépéseket. Ismertesse Miller kísérletét és annak jelentőségét. Értse, hogy a szerves anyagok kialakulása nem jelenti automatikusan az élő rendszerek kialakulását. |
+
+|  | 6.4.2. Az ember evolúciója | Tudja összehasonlítani az emberszabású majmok és az ember vonásait. Ismertesse, hogy egy töredékes koponyából következtetéseket lehet levonni az adott emberelőd tulajdonságairól. Értse, hogy az ember evolúciója során kialakult nagyrasszok értékükben nem különböznek; a biológiai és kulturális örökség az emberiség közös kincse. | Ismertesse a korai emberfélék és a Homo nemzetség evolúciójának főbb lépéseire vonatkozó elképzeléseket. |
+
+II. A VIZSGA LEÍRÁSA
+
+A vizsga részei
+
+| Középszint | Emelt szint |
+
+| Írásbeli vizsga | Szóbeli vizsga | Írásbeli vizsga | Szóbeli vizsga |
+
+| projekt | 15 perc | 180 perc | 20 perc |
+
+| 80 pont | 70 pont | 100 pont | 50 pont |
+
+A vizsgán használható segédeszközök
+
+|  | Középszint | Emelt szint |
+
+| Írásbeli vizsga | Szóbeli vizsga | Írásbeli vizsga | Szóbeli vizsga |
+
+| A vizsgázó biztosítja | NINCS | NINCS | Egynyelvű szótár | NINCS |
+
+| A vizsgabizottságot működtető intézmény biztosítja | NINCS | A feladatok megjelölésével összefüggő segédeszköz (képi, nyomtatott, illetve elektronikus ismerethordozó) | NINCS | A feladatok megjelölésével összefüggő segédeszköz (képi, nyomtatott, illetve elektronikus ismerethordozó) |
+
+Nyilvánosságra hozandók
+
+|  | Középszint | Emelt szint |
+
+| Írásbeli vizsga | Szóbeli vizsga | Írásbeli vizsga | Szóbeli vizsga |
+
+| Anyag | NINCS | NINCS | NINCS | A) feladat témakörei |
+
+| Mikor? | NINCS | NINCS | NINCS | jogszabály szerint |
+
+KÖZÉPSZINTŰ VIZSGA
+
+| Írásbeli vizsga 120 perc | Szóbeli vizsga 15 perc |
+
+| 8–10 feladatból álló feladatsor (80 részfeladat) | A) feladat: projektmunka* vagy gyakorlati feladat | B) feladat: egy téma kifejtése |
+
+| 100 pont | 25 pont | 25 pont |
+
+*  Projektmunka készítését csak az a vizsgázó választhatja, aki érettségi bizonyítvánnyal nem rendelkezik, és tanulói jogviszonyban van.
+
+Írásbeli vizsga
+
+Általános szabályok
+
+Az írásbeli vizsgán a vizsgázónak egy központi feladatsort kell megoldaniuk. A vizsgázó a rendelkezésére álló időt tetszése szerint oszthatja meg az egyes feladatok között és megoldásuk sorrendjét is meghatározhatja. Az írásbeli vizsgán szöveges adatok tárolására és megjelenítésére nem alkalmas zsebszámológép használható.
+
+Az írásbeli feladatlap tartalmi jellemzői
+
+A vizsgafeladatok a középszintű követelményrendszerben megadott bármely témakört érinthetik. A vizsgakövetelményekben megfogalmazott kompetenciák közül az írásbeli vizsga az alábbiakra helyezi a hangsúlyt:
+
+– biológiai tények és elvek felidézésének képessége,
+
+– a jelenségek közti kapcsolatok felismerésének képessége,
+
+– a biológiai megfigyelések és kísérletek értelmezésének készsége,
+
+– szakmai szövegek, ill. ábrák értelmezésének a képessége.
+
+Az írásbeli feladatlap formai jellemzői
+
+A feladatlap 8–10 feladatból áll. Minden feladat több részfeladatot tartalmaz. Egy feladaton belül szerepelhetnek egyszerű (ismeretet felidéző) és értékelő (problémára irányuló) részfeladatok is. Ez utóbbiak kapcsolódhatnak kísérlet leírásához vagy szöveg, kép értelmezéséhez. A részfeladatok közel 50%-a egyszerű zárt végű feladat.
+
+Feladattípusok
+
+Feleletválasztós feladatok
+
+– igaz/hamis állítás;
+
+– egyszerű választás;
+
+– összetett választás (a helyes betűk felsorolásával);
+
+– többféle asszociáció;
+
+– struktúra-funkció, illetve ábraelemzés;
+
+– illesztés (párosítás, besorolás – két halmaz közti kapcsolat).
+
+Feleletalkotó feladatok
+
+– rövid válasz (nem meghatározás, hacsak a követelményrendszerben nem szerepel ez egyértelműen);
+
+– ábrakészítés vagy kiegészítés;
+
+– egyszerű számítás.
+
+Az írásbeli feladatlap értékelése
+
+A középszintű írásbeli vizsgán 100 vizsgapont szerezhető. A vizsgadolgozatot a szaktanár a központi javítási-értékelési útmutató alapján pontszámmal minősíti. A vizsgázó által elért dolgozatpontokat 1,25-tel szorozva kapjuk meg a vizsgapontok számát, pl. a dolgozatban szerzett 80 pont esetén 80 * 1,25 = 100 pont. Ha az így kiszámított vizsgapont nem egész szám, akkor a kerekítés szabályai alapján kell kerekíteni.
+
+Szóbeli vizsga
+
+Általános szabályok
+
+A középszintű szóbeli vizsga tételsorának és értékelési útmutatójának összeállításáról a vizsgabizottságot működtető intézmény gondoskodik. Amennyiben a vizsgázó a szóbeli első részében a projektmunkát választja, akkor ez a munka a vizsgázó által önállóan elvégzett és a projektmunkát segítő konzulens szaktanár által ellenőrzött vizsgálat (kísérlet vagy megfigyelés). Ennek eredménye a munkanapló, amely mindig tartalmazza a vizsgált probléma megfogalmazását, az alkalmazott módszert, a tapasztalatokat, a tapasztalatok értékelését és a felhasznált szakirodalom listáját. A projekt témáját a vizsgázó szabadon választhatja meg, majd konzulens szaktanárával egyezteti. A projektmunkát segítő konzulens szaktanárnak el kell utasítania a témaválasztást, amennyiben az megítélése szerint balesetveszélyes, egészségkárosító, környezetszennyező, törvénysértő vagy az iskolai munkát akadályozza.
+
+A középszintű szóbeli vizsgán a vizsgázó segédeszközként az Állat- és Növényismeret c. könyvet, vagy ezzel egyenértékű információt tartalmazó egyéb kiadványt, ezen kívül a kísérletekhez szükséges eszközöket veheti igénybe, amelyeket a vizsgabizottságot működtető intézménynek kell biztosítania.
+
+A vizsgázó a felkészülési idő alatt – a tételétől függően – elvégzi a vizsgálatot, illetve elemzést, majd – a tétel által megkívánt módon – rögzíti eredményeit. A vizsgázó a felkészülési idő alatt készített vázlatát használhatja.
+
+A tételt a vizsgázónak önállóan kell kifejtenie. A vizsgáztatónak lehetővé kell tennie, hogy a vizsgázó gondolatmenetét önállóan fejtse ki, majd – amennyiben a feladat ez – álláspontját is megfogalmazza és megvédje.
+
+A szóbeli tételsor tartalmi jellemzői
+
+A vizsgakövetelményekben megfogalmazott kompetenciák közül a szóbeli vizsga az alábbiakra helyezi a hangsúlyt:
+
+– a rendszeres biológiai megfigyelések, egyszerű kísérletek elvégzésének, értelmezésének készsége,
+
+– az ismeretek alapján az álláspont megfogalmazása, a mellette való érvelés képessége,
+
+– a helyi, ill. regionális problémák ismerete,
+
+– a biológiai ismeretek alkalmazásának képessége a helyes életmód kialakítása, a fontosabb betegségek és megelőzési módjaik, illetve a környezetvédelmi ismeretek összefüggésében.
+
+A tételsor jellemzői
+
+A tételsor legalább 20 tételből áll. Valamennyi tételhez két feladat – A) és B) – tartozik. Egy tétel két feladata nem vonatkozhat azonos témára.
+
+A tétel jellemzői
+
+Az A) feladat a vizsgázó választása szerint lehet
+
+projektmunka bemutatása
+
+vagy
+
+laboratóriumi vizsgálat (a részletes követelményekben dőlt betűvel szedett lehetőségek közül) vagy fajismerethez kapcsolódó feladat (ezek a lehetőségek 50-50% arányban szerepeljenek a feladatok között). Ez utóbbi lehet
+
+– növényfaj meghatározása és ökológiai igényeinek jellemzése a Növényismeret könyv segítségével
+
+vagy
+
+– több állat-, illetve növényfaj morfológiai és ökológiai jellemzésének összevetése
+
+vagy
+
+– nemzeti park, természetvédelmi terület, ill. az iskolához közeli életközösség élővilágának jellemzése segédanyag (például képanyag – videofilm, dia, fénykép, fajlista, térkép) alapján.
+
+Ha a vizsgázó a projektmunkát választja, az elkészített munkát legkésőbb az írásbeli vizsgaidőszak kezdetéig be kell adnia a vizsgabizottságot működtető intézménynek. Ha határidőre nem adja be, akkor a szóbeli vizsgán A) feladatot kell húznia. A leadott projektmunka írásbeli dolgozatként kezelendő.
+
+A B) feladat egy életközeli probléma egészségtani, környezetvédelmi, ökológiai vonatkozásairól szóló kifejtés. A B) feladatokat az ember szervezete és egészsége, valamint a természet- és a környezet védelme témakörből kell összeállítani. Amennyiben a téma ezt indokolja, a feladat igényelje a vizsgázó véleményének megfogalmazását is.
+
+A szóbeli vizsgarész értékelése
+
+A két feladatra 25–25 pont adható.
+
+Az A) feladat értékelése
+
+Projektmunka esetén:
+
+A beadott munka értékelése:
+
 [^5]: Az 1/A. §-t a 3/2007. (I. 24.) OKM rendelet 1. §-a iktatta be, szövege a 36/2012. (XI. 14.) EMMI rendelet 2. § e) pontja szerint módosított szöveg.
-[^7]: A melléklet a 14/2003. (V. 27.) OM rendelet 1. §-ával megállapított, valamint a 25/2003. (IX. 26.) OM rendelet 1. §-a, az 1/2005. (I. 21.) OM rendelet 1–2. §-a és 4. § (2) bekezdése, a 7/2006. (III. 7.) OM rendelet 1. §-a, a 3/2007. (I. 24.) OKM rendelet 2. §-a, 3. §-a és 4. §-a (2) bekezdésének a)–e) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 4. § (1) bekezdése alapján a „Dráma”, a „Filozófia” és a „Művészettörténet” vizsgatárgyakra vonatkozó vizsgaleírásokat a 2008-ban szervezett érettségi vizsgáktól kezdődően kell alkalmazni. A melléklet a 20/2007. (III. 23.) OKM rendelet 3. § (2) bekezdése, a 38/2007. (XI. 13.) OKM rendelet 1–84. §-a, a 22/2009. (IV. 22.) OKM rendelet 1–58. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 59. § (2) bekezdése alapján a 34–52. §-sal megállapított vizsgakövetelményeket a 2011/2012. tanév május–júniusi vizsgaidőszak vizsgáinak megszervezésekor kell először alkalmazni. A melléklet az 1/2012. (I. 3.) NEFMI rendelet 2. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 12. § (2) bekezdését. A melléklet a 36/2012. (XI. 14.) EMMI rendelet 2. § f) pontja szerint módosított szöveg.
+[^7]: A melléklet a 14/2003. (V. 27.) OM rendelet 1. §-ával megállapított, valamint a 25/2003. (IX. 26.) OM rendelet 1. §-a, az 1/2005. (I. 21.) OM rendelet 1–2. §-a és 4. § (2) bekezdése, a 7/2006. (III. 7.) OM rendelet 1. §-a, a 3/2007. (I. 24.) OKM rendelet 2. §-a, 3. §-a és 4. §-a (2) bekezdésének a)–e) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 4. § (1) bekezdése alapján a „Dráma”, a „Filozófia” és a „Művészettörténet” vizsgatárgyakra vonatkozó vizsgaleírásokat a 2008-ban szervezett érettségi vizsgáktól kezdődően kell alkalmazni. A melléklet a 20/2007. (III. 23.) OKM rendelet 3. § (2) bekezdése, a 38/2007. (XI. 13.) OKM rendelet 1–84. §-a, a 22/2009. (IV. 22.) OKM rendelet 1–58. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 59. § (2) bekezdése alapján a 34–52. §-sal megállapított vizsgakövetelményeket a 2011/2012. tanév május–júniusi vizsgaidőszak vizsgáinak megszervezésekor kell először alkalmazni. A melléklet az 1/2012. (I. 3.) NEFMI rendelet 2. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 12. § (2) bekezdését. A melléklet a 36/2012. (XI. 14.) EMMI rendelet 2. § f) pontja és 3. §-a szerint módosított szöveg.

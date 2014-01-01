@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-40-20-4
 | 2012-04-01 | 2002-40-20-45.11 | 14/2003. (V. 27.) OM rendelet |
 | 2012-11-15 | 2002-40-20-45.12 | 36/2012. (XI. 14.) EMMI rendelet |
 | 2013-01-01 | 2002-40-20-45.13 | 36/2012. (XI. 14.) EMMI rendelet |
+| 2014-01-01 | 2002-40-20-45.14 | 14/2003. (V. 27.) OM rendelet |
