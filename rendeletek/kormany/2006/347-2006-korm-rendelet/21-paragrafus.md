@@ -1,1 +1,0 @@
-## 20. § A Kvt. 49. § (3) bekezdésében foglalt környezetvédelmi igazgatási szervként a rendelet 1. számú mellékletének III. pontjában meghatározott felügyelőség jár el, az 1. számú melléklet IV. pontja szerinti területen.

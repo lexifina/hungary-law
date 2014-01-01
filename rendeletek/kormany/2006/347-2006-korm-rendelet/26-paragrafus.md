@@ -1,1 +1,0 @@
-## környezetvédelmi szakhatóságként jelöli ki.
