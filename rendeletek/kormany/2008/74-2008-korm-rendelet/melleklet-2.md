@@ -106,7 +106,7 @@
 
 |  |  |  | 40681 hrsz. |  |  |  |
 
-| 25 |  |  | Szennyvízcsatorna és csapadékvíz elvezetés: | Vízjogi engedélyek | Dél-dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezet- védelmi, Természet- védelmi és Vízügyi Főfelügyelőség Főigazgatója |
+| 25 |  |  | Szennyvízcsatorna és csapadékvíz elvezetés: | Vízjogi engedélyek | Dél-dunántúli Vízügyi Hatóság | Országos Vízügyi Hatóság vezetője |
 
 |  |  |  | 40670 hrsz., |  |  |  |
 
@@ -284,7 +284,7 @@
 
 | 44 |  |  | Vince utca (út rekonstrukció): 16961,16919 hrsz.-ek | Közúthatósági engedélyek | Baranya Megyei Kormányhivatal Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
-| 45 |  |  | Vince utca (patak részleges felszínre hozatala): 16961,16919 hrsz.-ek | Vízjogi engedélyek | Dél-dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezet- védelmi, Természet- védelmi és Vízügyi Főfelügyelőség Főigazgatója |
+| 45 |  |  | Vince utca (patak részleges felszínre hozatala): 16961,16919 hrsz.-ek | Vízjogi engedélyek | Dél-dunántúli Vízügyi Hatóság | Országos Vízügyi Hatóság vezetője |
 
 | 46 |  |  | Kálvária utca (út rekonstrukció): 17104 hrsz. | Közúthatósági engedélyek | Baranya Megyei Kormányhivatal Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
@@ -698,7 +698,7 @@
 
 |  |  |  | 40710 hrsz.-ek |  |  |  |
 
-| 69 |  |  | Szennyvízcsatorna és csapadékvíz elvezetés 40712 40711 40707 19147 19144 | Vízjogi engedélyek | Dél-dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezet- védelmi, Természet- védelmi és Vízügyi Főfelügyelőség Főigazgatója |
+| 69 |  |  | Szennyvízcsatorna és csapadékvíz elvezetés 40712 40711 40707 19147 19144 | Vízjogi engedélyek | Dél-dunántúli Vízügyi Hatóság | Országos Vízügyi Hatóság vezetője |
 
 |  |  |  | 19150/1 |  |  |  |
 
@@ -740,7 +740,9 @@
 
 |  | Első fokú szakhatóság | Másodfokú szakhatóság |
 
-| Környezetvédelem, természetvédelem és vízügy | illetékes Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| Környezetvédelem és természetvédelem | illetékes környezetvédelmi és természetvédelmi felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+
+| Vízügy | illetékes területi vízügyi hatóság | Országos Vízügyi Hatóság |
 
 | Közlekedés |  |  |
 
@@ -756,7 +758,7 @@
 
 | Rendészet |  |  |
 
-| - rendőrség: a) gyorsforgalmi utak esetében b) az egyéb országos közutak, helyi közutak és közforgalom elől el nem zárt magánutak esetében | a) Országos Rendőr-főkapitányság b) illetékes megyei rendőr-főkapitányság, a fővárosban a Budapesti Rendőr-főkapitányság | a) rendészetért felelős miniszter b) Országos Rendőr-főkapitányság |
+| - rendőrség: a) gyorsforgalmi utak esetében b) az egyéb országos közutak, helyi közutak és közforgalom elől el nem zárt magánutak esetében | a) Országos Rendőr-főkapitányság b) illetékes megyei rendőr-főkapitányság, a fővárosban a Budapesti Rendőr- főkapitányság | a) rendészetért felelős miniszter b) Országos Rendőr-főkapitányság |
 
 | Tűzvédelem | illetékes megyei katasztrófavédelmi igazgatóság, a fővárosban a Fővárosi Katasztrófavédelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
 
@@ -766,7 +768,7 @@
 
 | - termőföldvédelem | illetékes megyei kormányhivatal földhivatala, a fővárosban a fővárosi kormányhivatal földhivatala | földügyért felelős miniszter |
 
-| - talajvédelem | megyei kormányhivatal növény-és talajvédelmi igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
+| - talajvédelem | megyei kormányhivatal növény- és talajvédelmi igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
 | - erdővédelem | megyei kormányhivatal erdészeti igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
@@ -780,7 +782,9 @@
 
 |  | Első fokú szakhatóság | Másodfokú szakhatóság |
 
-| Környezetvédelem, természetvédelem és vízügy | illetékes Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| Környezetvédelem és természetvédelem | illetékes környezetvédelmi és természetvédelmi felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+
+| Vízügy | illetékes területi vízügyi hatóság | Országos Vízügyi Hatóság |
 
 | Építésügy | illetékes járási (fővárosi kerületi) hivatal járási építésügyi hivatala vagy járási építésügyi és örökségvédelmi hivatala, műemléket érintő ügyben a járási építésügyi és örökségvédelmi hivatal | illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala |
 
@@ -794,11 +798,11 @@
 
 | Földtan | illetékes bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
-| Bányászat | területileg illetékes bányakapitányság | Magyar Bányászati és Földtani Hivatal |
+| Bányászat | illetékes bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
 | Rendészet |  |  |
 
-| - rendőrség: a) gyorsforgalmi utak esetében b) az egyéb országos közutak, helyi közutak és közforgalom elől el nem zárt magánutak esetében | a) Országos Rendőr-főkapitányság b) illetékes megyei rendőr-főkapitányság, a fővárosban a Budapesti Rendőr-főkapitányság | a) rendészetért felelős miniszter b) Országos Rendőr-főkapitányság |
+| - rendőrség: a) gyorsforgalmi utak esetében b) az egyéb országos közutak, helyi közutak és közforgalom elől el nem zárt magánutak esetében | a) Országos Rendőr-főkapitányság b) illetékes megyei rendőr-főkapitányság, a fővárosban a Budapesti Rendőr- főkapitányság | a) rendészetért felelős miniszter b) Országos Rendőr-főkapitányság |
 
 | Tűzvédelem | illetékes megyei katasztrófavédelmi igazgatóság, a fővárosban a Fővárosi Katasztrófavédelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
 
@@ -808,7 +812,7 @@
 
 | - termőföldvédelem | megyei kormányhivatal földhivatala, a fővárosban a fővárosi kormányhivatal földhivatala | földügyért felelős miniszter |
 
-| - talajvédelem | megyei kormányhivatal növény-és talajvédelmi igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
+| - talajvédelem | megyei kormányhivatal növény- és talajvédelmi igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
 | - erdővédelem | megyei kormányhivatal erdészeti igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
@@ -862,4 +866,4 @@
 
 | Műszaki biztonság | fővárosi és megyei kormányhivatal mérésügyi és műszaki biztonsági hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
-[^2]: A 2. számú melléklet a 351/2010. (XII. 30.) Korm. rendelet 206. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 13. §-a, a 259/2011. (XII. 7.) Korm. rendelet 20. § (1) bekezdés b) pontja, a 23/2012. (II. 29.) Korm. rendelet 31. §-a, a 46/2013. (II. 19.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^2]: A 2. számú melléklet a 351/2010. (XII. 30.) Korm. rendelet 206. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 13. §-a, a 259/2011. (XII. 7.) Korm. rendelet 20. § (1) bekezdés b) pontja, a 23/2012. (II. 29.) Korm. rendelet 31. §-a, a 46/2013. (II. 19.) Korm. rendelet 1. §-a, az 527/2013. (XII. 30.) Korm. rendelet 60. § (2) bekezdése szerint módosított szöveg.
