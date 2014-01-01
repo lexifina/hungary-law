@@ -1,4 +1,4 @@
-## 8. §[^2]
+## 8. § E rendelet 1. alcíme a belső piaci szolgáltatásokról szóló 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
 1. melléklet az 522/2013. (XII. 30.) Korm. rendelethez
 
@@ -7,5 +7,3 @@
 „A beszámolóval végződő kötelező továbbképzés követelményrendszere”
 
 2. Az R. 1. melléklet első mondatában, a „jogosultsági követelmények” szövegrész helyébe a „beszámoló követelményei” szöveg lép.
-
-[^2]: A 8. § a 7. § (2) bekezdése alapján 2014. január 1-jén lép hatályba.
