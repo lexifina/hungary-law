@@ -4,9 +4,9 @@
 
 | 1 | Beruházás és azonosítója | A beruházás megvalósításával kapcsolatos engedélyek, engedélyezési eljárások | Első fokon eljáró hatóság | Fellebbezés elbírálására jogosult hatóság |
 
-| 2 | Magyar-horvát összekötő földgázszállító-vezeték és a kapcsolódó beruházások a Városföld - Bátmonostor szakaszon. | Városföld kompresszorállomásra vonatkozó előzetes környezetvédelmi és környezetvédelmi hatásvizsgálati engedélyezés, egységes környezethasználati engedély | Alsó-Tisza-vidéki Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 2 | Magyar-horvát összekötő földgázszállító-vezeték és a kapcsolódó beruházások a Városföld - Bátmonostor szakaszon. | Városföld kompresszorállomásra vonatkozó előzetes környezetvédelmi és környezetvédelmi hatásvizsgálati engedélyezés, egységes környezethasználati engedély | Alsó-Tisza-vidéki Környezetvédelmi, Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
-| 3 |  | vízjogi üzemeltetési engedély vezeték szilárdsági nyomás próbához | Alsó-Tisza-vidéki Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 3 |  | vízjogi üzemeltetési engedély vezeték szilárdsági nyomás próbához | Alsó-Tisza-vidéki Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
 | 4 |  | régészeti feltárási engedély | illetékes járási (fővárosi kerületi) hivatal járási építésügyi és örökségvédelmi hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
@@ -22,9 +22,9 @@
 
 | 10 |  | Városföld kompresszorállomás épületre vonatkozó építésügyi hatósági engedély | Kecskeméti Járási Hivatal járási építésügyi és örökségvédelmi hivatala | Bács-Kiskun Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
-| 11 | Magyar-horvát összekötő földgázszállító-vezeték és a kapcsolódó beruházások a Bátmonostor-Dráva keresztezés szakaszon. | Báta kompresszorállomásra vonatkozó előzetes környezetvédelmi és környezetvédelmi hatásvizsgálati engedélyezés, egységes környezethasználati engedély | Dél-dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 11 | Magyar-horvát összekötő földgázszállító-vezeték és a kapcsolódó beruházások a Bátmonostor-Dráva keresztezés szakaszon. | Báta kompresszorállomásra vonatkozó előzetes környezetvédelmi és környezetvédelmi hatásvizsgálati engedélyezés, egységes környezethasználati engedély | Dél-dunántúli Környezetvédelmi, Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
-| 12 |  | vízjogi engedély vezeték szilárdsági nyomás próbához vízjogi létesítési engedély kútfúráshoz | Dél-dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 12 |  | vízjogi engedély vezeték szilárdsági nyomás próbához vízjogi létesítési engedély kútfúráshoz | Dél-dunántúli Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
 | 13 |  | régészeti feltárási engedély | illetékes járási (fővárosi kerületi) hivatal járási építésügyi és örökségvédelmi hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
@@ -114,7 +114,7 @@
 
 | 2 | Termőföld minőségi védelme, erdővédelem | termőföld minőségi védelme esetében a megyei kormányhivatal növény- és talajvédelmi igazgatósága, erdővédelem esetében a megyei kormányhivatal erdészeti igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| 3 | Természetvédelem | környezetvédelmi, természetvédelmi és vízügyi felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 3 | Természetvédelem | környezetvédelmi és természetvédelmi felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
 5. Termőföld más célú hasznosításának engedélyeztetése
 
@@ -124,7 +124,9 @@
 
 | 2 | Talajvédelem | megyei kormányhivatal növény- és talajvédelmi igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| 3 | Természetvédelem és vízügy | környezetvédelmi, természetvédelmi és vízügyi felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 3 | Természetvédelem | környezetvédelmi és természetvédelmi felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+
+| 3a. | Vízügy | vízügyi hatóság | Országos Vízügyi Hatóság |
 
 | 4 | Helyi jelentőségű védett természeti terület | települési önkormányzat jegyzője | fővárosi és megyei kormányhivatal |
 
@@ -182,4 +184,4 @@
 
 | 2. | régészet és műemlékvédelem | illetékes járási (fővárosi kerületi) hivatal járási építésügyi és örökségvédelmi hivatala | illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
-[^4]: A 2. melléklet a 282/2011. (XII. 21.) Korm. rendelet 43. §-ával megállapított, a 23/2012. (II. 29.) Korm. rendelet 55. §-a, a 394/2012. (XII. 20.) Korm. rendelet 40. §-a szerint módosított szöveg.
+[^4]: A 2. melléklet a 282/2011. (XII. 21.) Korm. rendelet 43. §-ával megállapított, a 23/2012. (II. 29.) Korm. rendelet 55. §-a, a 394/2012. (XII. 20.) Korm. rendelet 40. §-a, az 527/2013. (XII. 30.) Korm. rendelet 89. § (2) bekezdése szerint módosított szöveg.
