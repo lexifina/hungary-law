@@ -1,1 +1,3 @@
-## 12. § A Hivatal ellátja a tankönyvpiac rendjéről szóló törvényben az oktatásért felelős miniszter köznevelési feladatkörében eljáró központi hivatala számára meghatározott feladatokat.
+## 12. §[^4] A Hivatal ellátja a nemzeti köznevelés tankönyvellátásáról szóló törvényben az oktatási hivatal számára meghatározott feladatokat.
+
+[^4]: A 12. § az 501/2013. (XII. 29.) Korm. rendelet 12. § (2) bekezdésvel megállapított szöveg.
