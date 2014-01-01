@@ -1,6 +1,6 @@
 ## 12. § A III. számú élelmezési norma szerinti térítésmentes természetbeni élelmezési ellátásra a személyi állomány a 3. számú mellékletben felsorolt esetekben jogosult.
 
-## 13. §[^20] A III. számú élelmezési normára jogosultak közül a repülőhajózó hivatásos, szerződéses és tényleges szolgálatteljesítésre behívott önkéntes tartalékos állományú katonák részére a természetbeni ellátás biztosítása helyett élelmiszer-utalványt kell kiadni:
+## 13. §[^21] A III. számú élelmezési normára jogosultak közül a repülőhajózó hivatásos, szerződéses és tényleges szolgálatteljesítésre behívott önkéntes tartalékos állományú katonák részére a természetbeni ellátás biztosítása helyett élelmiszer-utalványt kell kiadni:
 
 a) heti pihenőnapokon (szombat, vasárnap);
 
@@ -18,7 +18,7 @@ g) a repüléstől egészségügyi okok miatti távollét, lakáson történő k
 
 h) azoknak, akik olyan központi szervnél, parancsnokságon teljesítenek szolgálatot, ahol a III. számú élelmezési norma szerint nem gazdálkodnak. E személyek – ha szolgálati kiküldetésük során repülő szervezet étkezdéjében étkeznek – az igénybe vett étkezésért a III. számú élelmezési norma (résznorma) összegét kötelesek téríteni;
 
-i)[^21] külföldi repülőkiképzésen részt vevő hivatásos, szerződéses és tényleges szolgálatteljesítésre behívott önkéntes tartalékos repülőhajózó oktató és hallgató állománynak a kiképzése időtartamára.
+i)[^22] külföldi repülőkiképzésen részt vevő hivatásos, szerződéses és tényleges szolgálatteljesítésre behívott önkéntes tartalékos repülőhajózó oktató és hallgató állománynak a kiképzése időtartamára.
 
-[^20]: A 13. § bevezető szövegrésze a 20/2009. (XII. 29.) HM rendelet 10. § (1) bekezdés b) pontja szerint módosított szöveg.
-[^21]: A 13. § i) pontja a 3/2009. (III. 18.) HM rendelet 21. § (3) bekezdés 6. pontja, a 20/2009. (XII. 29.) HM rendelet 10. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^21]: A 13. § bevezető szövegrésze a 20/2009. (XII. 29.) HM rendelet 10. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^22]: A 13. § i) pontja a 3/2009. (III. 18.) HM rendelet 21. § (3) bekezdés 6. pontja, a 20/2009. (XII. 29.) HM rendelet 10. § (1) bekezdés b) pontja szerint módosított szöveg.
