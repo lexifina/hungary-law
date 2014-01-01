@@ -14,6 +14,8 @@ a) eljárni a jogtalanul igénybe vett vagy visszafizetésre meghatározott tám
 
 b) kiadni a felhatalmazó levélen alapuló beszedési megbízás visszavonására vonatkozó hozzájáruló nyilatkozatot,
 
-c) perbe lépni a Nemzeti Fejlesztési Ügynökség pernyertességét elősegítendően a folyamatban lévő peres eljárásokba.
+c)[^3] perbe lépni a támogató pernyertességét elősegítendően a folyamatban lévő peres eljárásokba.
 
 (3) Az Energia Központ Nonprofit Kft. jogutódként jogosult lefolytatni a KöFI által indított, folyamatban lévő közbeszerzési eljárásokat.
+
+[^3]: A 2. § (2) bekezdés c) pontja az 550/2013. (XII. 30.) Korm. rendelet 71. § b) pontja szerint módosított szöveg.
