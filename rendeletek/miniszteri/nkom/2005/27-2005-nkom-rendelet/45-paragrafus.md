@@ -2,6 +2,6 @@
 
 45. § Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
 
-Melléklet a 27/2005. (X. 7.) NKÖM rendelethez[^3]
+Melléklet a 27/2005. (X. 7.) NKÖM rendelethez[^4]
 
-[^3]: A mellékletet a 28/2005. (XI. 4.) NKÖM rendelet 18. § (3) bekezdése iktatta be.
+[^4]: A mellékletet a 28/2005. (XI. 4.) NKÖM rendelet 18. § (3) bekezdése iktatta be.

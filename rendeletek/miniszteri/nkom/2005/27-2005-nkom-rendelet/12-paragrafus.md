@@ -1,4 +1,4 @@
-## 11. §[^1]
+## 11. §[^2]
 
 12. § (1) Műemlékké nyilvánítom a Budapest II. kerület, Széher út 24/A–B és Kuruclesi út 15. szám alatti, 11018/8, 11018/9, 11018/10, 11018/11 helyrajzi számú ingatlant.
 
@@ -10,4 +10,4 @@
 
 (5) A védetté nyilvánítás célja Dohnányi Ernő zeneszerző 1927-ben épült késő szecessziós villája építészeti és történeti értékeinek, berendezésének, valamint kertjének megőrzése.
 
-[^1]: A 11. §-t a 28/2005. (XI. 4.) NKÖM rendelet 18. § (1) bekezdése hatályon kívül helyezte.
+[^2]: A 11. §-t a 28/2005. (XI. 4.) NKÖM rendelet 18. § (1) bekezdése hatályon kívül helyezte.
