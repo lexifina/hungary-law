@@ -1,1 +1,3 @@
-## 7. § Az e rendelet szerinti eredményelszámolást első alkalommal 2011. évre vonatkozóan a 2012-ben esedékes, a Kártalanítási Alap kezelője adatszolgáltatási kötelezettsége szabályairól szóló 13/2011. (IX. 29.) PSZÁF rendeletben meghatározott adatszolgáltatás keretében kell elkészíteni és a Felügyelet részére megküldeni.
+## 7. §[^4]
+
+[^4]: A 7. §-t az 57/2013. (XII. 5.) NGM rendelet 10. § b) pontja hatályon kívül helyezte.
