@@ -10,6 +10,6 @@
 
 | Aláírás: |  |  |  |
 
-3. számú melléklet a 99/2002. (XI. 5.) FVM rendelethez[^99]
+3. számú melléklet a 99/2002. (XI. 5.) FVM rendelethez[^105]
 
-[^99]: A 3. számú mellékletet a 119/2007. (X. 18.) FVM rendelet 15. § (11) bekezdése hatályon kívül helyezte.
+[^105]: A 3. számú mellékletet a 119/2007. (X. 18.) FVM rendelet 15. § (11) bekezdése hatályon kívül helyezte.

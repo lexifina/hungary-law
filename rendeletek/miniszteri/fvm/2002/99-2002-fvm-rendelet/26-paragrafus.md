@@ -1,15 +1,17 @@
-## 26. § Az ENAR-felelős köteles:
+## 26. §[^70] Az ENAR-felelős köteles:
 
-a)[^63] az elveszett, a házilag levágott és a közvetlenül a tenyészetből külföldre szállított állat ellenőrző szelvénnyel egybefüggő igazolólapját a kézhezvételétől számított 4 napon belül az ellenőrző szelvény rovatainak kitöltése után az országos adatbázisnak megküldeni;
+a) az elveszett vagy házilag levágott állat kikerülés- és beérkezés-bejelentő szelvénnyel egybefüggő marhalevelét a kézhezvételétől számított 4 napon belül a kikerülés-bejelentő szelvény rovatainak kitöltése után az Országos Adatbázisnak megküldeni, vagy a bejelentést elektronikus úton 4 napon belül elvégezni, és a marhalevelet a két szelvénnyel egybefüggően 30 napon belül megküldeni a tenyésztési hatóságnak;
 
-b)[^64] a más tenyészetből beérkezett szarvasmarha ellenőrző szelvény nélküli igazolólapját kitölteni, és 4 napon belül az országos adatbázisnak megküldeni;
+b) a közvetlenül a tenyészetből külföldre szállított állat egybefüggő kikerülés- és bekerülés-bejelentő szelvényét a kézhezvételétől számított 4 napon belül, a kikerülés-bejelentő szelvény rovatainak kitöltése után az Országos Adatbázisnak megküldeni, vagy a bejelentést elektronikus úton 4 napon belül elvégezni;
 
-c)[^65] a tenyészetéből kikerült, elhullott és leölt szarvasmarha igazolólapjának ellenőrző szelvényét a kézhezvételétől számított 4 napon belül kitölteni, és az országos adatbázishoz megküldeni;
+c) a más tenyészetből beérkezett szarvasmarha bekerülés-bejelentő szelvényét kitölteni, és azt a marhalevéllel egybefüggően 4 napon belül az Országos Adatbázisnak megküldeni, vagy a bejelentést elektronikus úton 4 napon belül elvégezni és a marhalevelet a szelvénnyel egybefüggően 30 napon belül megküldeni a tenyésztési hatóságnak;
 
-d) az igazolólap megsemmisülése vagy elvesztése esetén az országos adatbázistól haladéktalanul kezdeményezni új igazolólap kiadását;
+d) a tenyészetéből kikerült, elhullott és leölt szarvasmarha marhalevelének kikerülés-bejelentő szelvényét a kézhezvételétől számított 4 napon belül kitölteni, és az Országos Adatbázishoz megküldeni, vagy a kikerülést 4 napon belül elektronikus úton bejelenteni;
 
-e) az állattartóval információs összeköttetést fenntartani az országos adatbázis állományváltozást követő feladatainak ellátása érdekében.
+e) közvetetten (rakodóhelyen vagy gyűjtőállomáson keresztül) külföldre szállított állat esetén a 30. § (2) bekezdésében foglaltak szerint eljárni;
 
-[^63]: A 26. § a) pontja a 4/2009. (I. 16.) FVM rendelet 25. §-ával megállapított szöveg.
-[^64]: A 26. § b) pontja a 4/2009. (I. 16.) FVM rendelet 25. §-ával megállapított szöveg.
-[^65]: A 26. § c) pontja a 4/2009. (I. 16.) FVM rendelet 25. §-ával megállapított szöveg.
+f) a marhalevél megsemmisülése vagy elvesztése esetén az Országos Adatbázistól haladéktalanul kezdeményezni új marhalevél kiadását;
+
+g) az állattartóval információs összeköttetést fenntartani az Országos Adatbázis állományváltozást követő feladatainak ellátása érdekében.
+
+[^70]: A 26. § a 88/2013. (X. 2.) VM rendelet 15. §-ával megállapított szöveg.
