@@ -1,8 +1,9 @@
-## 59. § Ez a rendelet a belső piaci szolgáltatásokról szóló 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 9–10. cikkének való megfelelést szolgálja.
+## 60. §[^37] Az 1. § (2) bekezdés e) pontja, a 2. § u) pontja, és az 54/A. §-a a tagállamok költségvetési keretrendszerére vonatkozó követelményekről szóló, 2011. november 8-i 2011/85/EU tanácsi irányelvnek való megfelelést szolgálja.
 
-## 60.–62. §[^29]
+## 61.–62. §[^38]
 
-1. melléklet a 370/2011. (XII. 31.) Korm. rendelethez[^30]
+1. melléklet a 370/2011. (XII. 31.) Korm. rendelethez[^39]
 
-[^29]: A 60–62. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^30]: Az 1. melléklet a 264/2013. (VII. 11.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^37]: A 60. §-t 497/2013. (XII. 29.) Korm. rendelet 69. §-a iktatta be.
+[^38]: A 61–62. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^39]: Az 1. melléklet a 264/2013. (VII. 11.) Korm. rendelet 11. §-ával megállapított szöveg.

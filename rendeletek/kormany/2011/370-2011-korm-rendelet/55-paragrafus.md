@@ -1,4 +1,4 @@
-## 54. §[^26] A központi költségvetésben fejezetet alkotó, de a Kormány irányítási és felügyeleti jogkörébe nem tartozó szervek vonatkozásában a 23. § (1)–(4) bekezdésében, a 32. § (5) bekezdésében, valamint a 49. § (4) bekezdésében, az 51. § (1) bekezdés d) pontjában foglaltakat nem kell alkalmazni. E fejezetet irányító szervek vezetői a tárgyévet követő év április 15-ig tájékoztatják az államháztartásért felelős minisztert a 48. § a) pont ab) alpontjában és b) pont ba) alpontjában foglaltakról.
+## 54/A. §[^34] A kormányzati szektorba sorolt egyéb szervezetek vonatkozásában az 1–10. § rendelkezéseit kell alkalmazni azzal, hogy a költségvetési szerv vezetőjén a kormányzati szektorba sorolt egyéb szervezet 2. § u) pontja szerinti vezetőjét kell érteni.
 
 ## 27. Az országos nemzetiségi önkormányzatok költségvetési szerveire vonatkozó különös szabályok
 
@@ -14,4 +14,4 @@
 
 (6) Az országos nemzetiségi önkormányzati hivatal vezetője köteles a tárgyévre vonatkozó éves ellenőrzési jelentést, valamint a felügyelete alá tartozó országos nemzetiségi önkormányzati költségvetési szervek éves ellenőrzési jelentései alapján készített összefoglaló éves ellenőrzési jelentést megküldeni az országos nemzetiségi önkormányzat elnökének a tárgyévet követő év március 15-ig.
 
-[^26]: Az 54. § a 414/2012. (XII. 29.) Korm. rendelet 11. § (10) bekezdésével megállapított szöveg.
+[^34]: Az 54/A. §-t a 497/2013. (XII. 29.) Korm. rendelet 68. §-a iktatta be.

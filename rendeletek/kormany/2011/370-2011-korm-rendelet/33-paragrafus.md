@@ -14,7 +14,7 @@ d) az ellenőrzés tárgyát és célját;
 
 e) az ellenőrizendő időszakot;
 
-f)[^20] az ellenőrzés tervezett időtartamát, a jelentés elkészítésének határidejét;
+f)[^27] az ellenőrzés tervezett időtartamát, a jelentés elkészítésének határidejét;
 
 g) az ellenőrök, szakértők, valamint a vizsgálatvezető megnevezését, megbízólevelük számát, a feladatmegosztást;
 
@@ -26,4 +26,4 @@ j) a belső ellenőrzési vezető aláírását.
 
 (3) Az ellenőrzési program végrehajtását a belső ellenőrzési vezető felügyeli. A programtól eltérni a belső ellenőrzési vezető jóváhagyásával lehet, a program módosítását a vizsgálatvezető kezdeményezheti.
 
-[^20]: A 33. § (2) bekezdés f) pontja a 414/2012. (XII. 29.) Korm. rendelet 11. § (5) bekezdésével megállapított szöveg.
+[^27]: A 33. § (2) bekezdés f) pontja a 414/2012. (XII. 29.) Korm. rendelet 11. § (5) bekezdésével megállapított szöveg.

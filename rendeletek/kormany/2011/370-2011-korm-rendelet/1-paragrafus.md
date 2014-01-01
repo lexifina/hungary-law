@@ -11,3 +11,7 @@ b) a területfejlesztésről és területrendezésről szóló 1996. évi XXI. t
 c) a a)–b) pontban meghatározott szervek által alapított vagyonkezelő szervezetekre;
 
 d) a külön jogszabályban meghatározottakra.
+
+e)[^1] a kormányzati szektorba sorolt egyéb szervezetekre.
+
+[^1]: Az 1. § (2) bekezdés e) pontját a 497/2013, (XII. 29.) Korm. rendelet 64. §-a iktatta be.
