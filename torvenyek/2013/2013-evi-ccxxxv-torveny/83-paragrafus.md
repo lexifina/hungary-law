@@ -1,0 +1,1 @@
+83. § A Felügyelet a pénzforgalmi intézménytől, elektronikuspénz-kibocsátó intézménytől közbenső beszámoló, meghatározott formájú és tagolású kimutatás, könyvvizsgálati jelentés bemutatását kérheti, valamint a pénzforgalmi intézménytől, elektronikuspénz-kibocsátó intézménytől, annak szerveitől valamennyi üzleti ügyéről felvilágosítást kérhet.

@@ -1,0 +1,5 @@
+49. § (1) Az átlagosan kinnlevő elektronikuspénz módszer alkalmazásakor az elektronikuspénz-kibocsátó intézmény szavatoló tőkéje legalább az átlagosan kinnlevő elektronikuspénz két százaléka.
+
+(2) Ha az elektronikuspénz-kibocsátó intézmény a 7. § (3) bekezdésében foglalt, az elektronikuspénz-kibocsátáshoz nem kapcsolódó vagy a 7. § (2) és (4)–(5) bekezdésében megállapított tevékenységek bármelyikét végzi, és a kinnlevő elektronikuspénz mennyisége előre nem határozható meg, a Felügyelet engedélyezi ezen elektronikuspénz-kibocsátó intézmény számára, hogy a szavatolótőke-követelményét egy olyan reprezentatív hányad alapján számítsa ki, amely számítása szerint elektronikuspénz-kibocsátására kerül felhasználásra, feltéve hogy ez a reprezentatív hányad a korábbi adatok alapján és a Felügyelet számára reálisan megbecsülhető.
+
+(3) Ha az elektronikuspénz-kibocsátó intézmény működésének időtartama alapján a (2) bekezdésben meghatározott szavatolótőke-követelménye nem számítható ki, az üzleti terv által igazolt, tervezett kinnlevő elektronikuspénz alapján szükséges a kalkulációt elvégezni, figyelemmel a Felügyelet által a tervben kért esetleges kiigazításokra.

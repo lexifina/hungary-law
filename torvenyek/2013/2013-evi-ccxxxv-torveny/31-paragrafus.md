@@ -1,0 +1,1 @@
+31. § A pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény vezető állású személyei felelősek azért, hogy a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény az engedélyezett tevékenységeket a jogszabályokban foglalt előírásoknak megfelelően végezze.

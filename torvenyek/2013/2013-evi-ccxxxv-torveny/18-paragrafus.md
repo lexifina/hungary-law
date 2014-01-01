@@ -1,0 +1,1 @@
+18. § Az engedélyezési eljárás során a Felügyelet a kérelemmel összefüggő és rendelkezésre álló okiratokat és információkat gondosan mérlegeli, és meggyőződik arról, hogy az engedély kiadása nem ütközik jogszabályba. A Felügyelet az engedélyezési eljárás során az egyes engedélyezési feltételek meglétét a helyszínen is megvizsgálhatja.

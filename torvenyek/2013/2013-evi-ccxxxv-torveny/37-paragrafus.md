@@ -1,0 +1,5 @@
+37. § (1) A pénzforgalmi intézmény, az elektronikuspénz-kibocsátó intézmény a könyvvizsgálóval – az éves beszámoló könyvvizsgálatára – kötött szerződést és valamennyi, a könyvvizsgáló által az éves beszámolóval kapcsolatban készített jelentést a Felügyelet számára megküldi.
+
+(2) A Felügyelet jogosult a könyvvizsgáló jelentésének alapján – az éves beszámoló jóváhagyása előtt – a pénzforgalmi intézménynél, elektronikuspénz-kibocsátó intézménynél kezdeményezni, hogy a helytelen adatokat tartalmazó beszámolót felülvizsgáltassa, helyesbítse, gondoskodjon a helyesbített adatok könyvvizsgálóval történő hitelesítéséről.
+
+(3) Ha az éves beszámoló jóváhagyását követően jutott a Felügyelet tudomására, hogy az éves beszámoló lényeges hibát tartalmaz, a Felügyelet kötelezheti a pénzforgalmi intézményt, elektronikuspénz-kibocsátó intézményt az adatok módosítására és könyvvizsgálóval való felülvizsgálatára. A módosított és a könyvvizsgáló által felülvizsgált adatot a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény a Felügyeletnek bemutatja.

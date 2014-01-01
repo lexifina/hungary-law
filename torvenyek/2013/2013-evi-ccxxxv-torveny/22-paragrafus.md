@@ -1,0 +1,1 @@
+22. § Pénzforgalmi intézmény, elektronikuspénz-kibocsátási intézmény a pénzügyi szolgáltatási tevékenységi, kiegészítő pénzügyi szolgáltatási tevékenységi engedélyét a Felügyeletnek akkor adhatja vissza, ha bizonyítja, hogy a pénzügyi szolgáltatási tevékenységéből, kiegészítő pénzügyi szolgáltatási tevékenységéből származó semmilyen kötelezettsége nincs.

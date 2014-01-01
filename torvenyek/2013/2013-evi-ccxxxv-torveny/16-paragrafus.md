@@ -1,0 +1,1 @@
+16. § A fizetési rendszer működtetésére irányuló tevékenység végzése tekintetében az engedélyt a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény a Hpt. fizetési rendszer működtetésére vonatkozó engedélyezésre rögzített feltételek megléte esetén kaphatja meg.

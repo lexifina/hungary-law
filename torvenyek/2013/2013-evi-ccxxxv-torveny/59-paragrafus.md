@@ -1,0 +1,5 @@
+59. § (1) Fizetési titok minden olyan, az egyes ügyfelekről a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény rendelkezésére álló tény, információ, megoldás vagy adat, amely ügyfél személyére, adataira, vagyoni helyzetére, üzleti tevékenységére, gazdálkodására, tulajdonosi, üzleti kapcsolataira, valamint a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény által vezetett számlájának egyenlegére, forgalmára, továbbá a pénzforgalmi intézménnyel, elektronikuspénz-kibocsátó intézménnyel kötött szerződéseire vonatkozik.
+
+(2) E törvény fizetési titokra vonatkozó rendelkezései szempontjából a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény ügyfelének kell tekinteni mindenkit, aki a pénzforgalmi intézménytől, elektronikuspénz-kibocsátó intézménytől pénzügyi szolgáltatást, kiegészítő pénzügyi szolgáltatást vesz igénybe.
+
+(3) A fizetési titokra vonatkozó rendelkezéseket a pénzforgalmi közvetítő ügyfelének (1) bekezdésben meghatározott adataira is alkalmazni kell.

@@ -1,0 +1,5 @@
+50. § (1) A Felügyelet hatósági ellenőrzése keretében felülvizsgálja az elektronikuspénz-kibocsátó intézmény pénzforgalmi szolgáltatásokkal és elektronikuspénz-kibocsátással kapcsolatos szabályzatait, eljárásait és módszereit. A felülvizsgálat kiterjed az elektronikuspénz-kibocsátó intézmény kockázatkezelési folyamatának és belső ellenőrzési rendszere működésének értékelésére.
+
+(2) Az (1) bekezdés szerinti felülvizsgálat és értékelés alapján a Felügyelet meghatározza, hogy az elektronikuspénz-kibocsátó intézmény által alkalmazott szabályzatok, eljárások és módszerek, valamint az elektronikuspénz-kibocsátó intézmény szavatoló tőkéje biztosítja-e a kockázatok fedezetét és megbízható kezelését.
+
+(3) A felülvizsgálat és az értékelés gyakoriságát, mértékét és részletezettségét a Felügyelet az elektronikuspénz-kibocsátó intézmény mérete, az általa teljesített fizetési műveletének összértéke, tevékenységének jellege alapján határozza meg azzal, hogy a felülvizsgálatot és értékelést legalább évente egyszer elvégzi.
