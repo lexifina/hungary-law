@@ -280,7 +280,7 @@
 
 ## 1.108.[^112] államháztartási belső ellenőri igazolvány;
 
-## 1.109.[^113] környezetvédelmi, természetvédelmi és vízügyi hatósági igazolvány;
+## 1.109.[^113] környezetvédelmi és természetvédelmi hatósági igazolvány, valamint a vízügyi hatósági igazolvány;
 
 ## 1.110.[^114] biztonságtechnikai szerelő igazolvány;
 
@@ -471,7 +471,7 @@ Az e védelmi kategóriába tartozó biztonsági okmányok hamisítása ellen é
 [^110]: Az 1. számú melléklet III. rész 1. pont 1.106. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
 [^111]: Az 1. számú melléklet III. rész 1. pont 1.107. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
 [^112]: Az 1. számú melléklet III. rész 1. pont 1.108. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
-[^113]: Az 1. számú melléklet III. rész 1. pont 1.109. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
+[^113]: Az 1. számú melléklet III. rész 1. pont 1.109. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be, szövege az 527/2013. (XII. 30.) Korm. rendelet 4. §-ával megállapított szöveg.
 [^114]: Az 1. számú melléklet III. rész 1. pont 1.110. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
 [^115]: Az 1. számú melléklet III. rész 1. pont 1.111. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
 [^116]: Az 1. számú melléklet III. rész 1. pont 1.112. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
