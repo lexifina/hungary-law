@@ -46,7 +46,7 @@ i) a gyártó hivatalos záron alkalmazni kívánt egyedi azonosító jelének l
 
 (8)[^13] A vámszerv a hivatalos zár előállítójának a (6) bekezdés szerint kiadott engedélyét visszavonja, ha az engedély kiadásánál figyelembe vett, az 1. § a)–c) pontja és az e paragrafus (2) bekezdése szerinti feltételek nem állnak fenn, és azt a Bizottság megállapította.
 
-(9)[^14] A vámszerv a (6) bekezdés szerinti engedély kiadásáról az erre vonatkozó határozat egy példányának megküldésével – a határozat kiadásával egyidejűleg – tájékoztatja a Hegyközségek Nemzeti Tanácsát. A NAV a felügyeletét ellátó minisztérium hivatalos lapjában az engedéllyel rendelkező hivatalos zár gyártók listáját, továbbá az engedélyezett hivatalos zár típusokat, azok alkalmazási körét és felhelyezésének módját rendszeresen közzéteszi.
+(9)[^14] A vámszerv a (6) bekezdés szerinti engedély kiadásáról az erre vonatkozó határozat egy példányának megküldésével – a határozat kiadásával egyidejűleg – tájékoztatja a Hegyközségek Nemzeti Tanácsát.
 
 (10)[^15]
 
@@ -59,5 +59,5 @@ i) a gyártó hivatalos záron alkalmazni kívánt egyedi azonosító jelének l
 [^11]: A 3. § (6) bekezdése a 17/2009. (IX. 29.) PM rendelet 24. § (3) bekezdésével megállapított, 17/2011. (IV. 19.) NGM rendelet 16. § (1) bekezdése szerint módosított szöveg.
 [^12]: A 3. § (7) bekezdése a 17/2009. (IX. 29.) PM rendelet 25. §-a, a 17/2011. (IV. 19.) NGM rendelet 16. § (1) bekezdése szerint módosított szöveg.
 [^13]: A 3. § (8) bekezdése a 17/2011. (IV. 19.) NGM rendelet 16. § (1) bekezdése szerint módosított szöveg.
-[^14]: A 3. § (9) bekezdése a 17/2011. (IV. 19.) NGM rendelet 15. §-ával megállapított szöveg.
+[^14]: A 3. § (9) bekezdése a 76/2013. (XII. 31.) NGM rendelet 2. §-ával megállapított szöveg.
 [^15]: A 3. § (10) bekezdését a 17/2009. (IX. 29.) PM rendelet 24. § (4) bekezdése iktatta be, hatályon kívül helyezte a 17/2011. (IV. 19.) NGM rendelet 17. §-a.
