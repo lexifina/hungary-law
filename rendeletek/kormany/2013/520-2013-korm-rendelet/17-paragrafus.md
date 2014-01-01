@@ -1,0 +1,3 @@
+## 16. § Az Ebtv. Vhr. 38/A. §-a a következő (1a) bekezdéssel egészül ki:
+
+## „(1a) Az egészségbiztosítási szakigazgatási szerv, illetve az OEP a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény végrehajtásáról szóló 195/1997. (XI. 5.) Korm. rendelet 5/A. § (3) bekezdésében említett tájékoztatásban foglalt adatok alapján az ellátások utalását követő 15 napon belül – a Tbj. 52. § (2) bekezdésében meghatározott határozat kibocsátásával – gondoskodik a Tbj. 19. § (5) bekezdése szerinti táppénz-hozzájárulás érvényesítéséről.”

@@ -1,0 +1,1 @@
+## 93. § A Kábítószer Vhr. 25. § (1) és (2) bekezdésében a „tárgyi eljárás során lefoglalt, de elkobzásra nem került” szövegrész helyébe a „büntetőeljárásról szóló 1998. évi XIX. törvény 569. §-a szerinti eljárás alá vont” szöveg lép.

@@ -1,0 +1,9 @@
+## 54. § Az Eftv. Vhr. 15/A. §-a helyébe a következő rendelkezés lép:
+
+## „15/A. § (1) A befogadási javaslat kézhezvételét követő 10 napon belül az egészségügyért felelős miniszter megkéri a befogadáshoz az államháztartásért felelős miniszter előzetes hozzájárulását. Az államháztartásért felelős miniszter a megküldött befogadási javaslat kézhezvételét követő 15 napon belül értesíti az egészségügyért felelős minisztert a befogadáshoz való hozzájárulásáról, illetve annak elutasításáról és az elutasítás indoklásáról. Az egészségügyért felelős miniszter döntése akkor érvényes, ha ahhoz az államháztartásért felelős miniszter előzetesen hozzájárult.
+
+## (2) Az egészségügyért felelős miniszter a befogadási javaslatról az államháztartásért felelős miniszter értesítésének kézhezvételétől számított 15 napon belül, az éves pénzügyi kihatások és a rendelkezésre álló források figyelembevételével dönt. Az egészségügyért felelős miniszter a döntéséről – annak meghozatalától számított 5 napon belül – tájékoztatja a TBB-t és az OEP-et.
+
+## (3) Az OEP főigazgatója a befogadott többletkapacitásokról a döntésről való tudomásszerzéstől számított 5 napon belül az OEP honlapján közleményt ad ki és egyidejűleg tájékoztatja az OTH-t. A közlemény egészségügyi szolgáltatónként tartalmazza a befogadott többletkapacitás megjelölését, mértékét, valamint a finanszírozási szerződés megkötésének tervezett időpontját és időtartamát.
+
+## (4) A befogadott többletkapacitásra a finanszírozási szerződéskötési jogosultság hatályát veszti, ha az egészségügyi szolgáltató a közlemény közzétételét vagy a közleményben meghatározott befogadási időpontot követően egy éven belül nem kezdeményezi a finanszírozási szerződés megkötését.”

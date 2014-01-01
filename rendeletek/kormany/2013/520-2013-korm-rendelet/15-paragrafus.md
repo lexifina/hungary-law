@@ -1,0 +1,3 @@
+## 14. § Az Ebtv. Vhr. 37/A. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) Ha a biztosított a 2015. január 1-jét megelőzően született gyermekre tekintettel igényel terhességi-gyermekágyi segélyt vagy az Ebtv. 42/A. §-a alapján gyermekgondozási díjat, akkor az igény bejelentésével egyidejűleg a foglalkoztató rendelkezésére bocsátja az előző év első napjától az ellátás igényléséig minden más munkáltató által kibocsájtott jövedelemigazolást. Foglalkoztató hiányában a biztosított a terhességi-gyermekágyi segély, illetve a gyermekgondozási díj iránti kérelemmel együtt az irányadó időszak jövedelmét igazoló jövedelemigazolást közvetlenül az egészségbiztosítási szakigazgatási szervhez nyújtja be.”

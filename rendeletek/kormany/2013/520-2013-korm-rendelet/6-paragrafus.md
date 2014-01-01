@@ -1,0 +1,1 @@
+## „(4a) Az OEP a GYEMSZI által kiadott engedély, illetve nyilatkozat másolatát a (4) bekezdés szerinti határozattal együtt megküldi a (2) bekezdés b) pont bb) alpontja szerint rendelt gyógyszer támogatással történő kiszolgáltatására kijelölt, külön szerződéssel rendelkező gyógyszertárnak.”
