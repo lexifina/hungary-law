@@ -1,0 +1,1 @@
+## 52. § Az Uniós fejlesztések fejezetbe tartozó fejezeti kezelésű előirányzatok kezelésével és felhasználásával kapcsolatos, e rendelet által nem szabályozott kérdésekben az 50. § (2) bekezdése szerinti rendeleteket, illetve az 50. § (6) bekezdése szerinti szabályzatot kell alkalmazni.

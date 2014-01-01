@@ -1,0 +1,1 @@
+## 7. § Az európai uniós forrást tartalmazó előirányzatok felhasználása tekintetében a támogatási döntéseket a fejlesztéspolitikai célokkal és az átfogó kormányzati stratégiákkal való összhang biztosítását szolgáló szakmai ellenjegyzésre meg kell küldeni a fejezetet irányító szerv vezetője részére.
