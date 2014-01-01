@@ -1,0 +1,7 @@
+## szöveg lép.
+
+## 82. A kiemelt térségi és megyei területrendezési tervek, valamint a településrendezési tervek készítése során az országos, a kiemelt térségi és a megyei övezetek területi érintettségével kapcsolatosan állásfoglalásra kötelezett államigazgatási szervek köréről és az eljárás részletes szabályairól szóló 282/2009. (XII. 11.) Korm. rendelet módosítása
+
+82. § (1) A kiemelt térségi és megyei területrendezési tervek, valamint a településrendezési tervek készítése során az országos, a kiemelt térségi és a megyei övezetek területi érintettségével kapcsolatosan állásfoglalásra kötelezett államigazgatási szervek köréről és az eljárás részletes szabályairól szóló 282/2009. (XII. 11.) Korm. rendelet 2. melléklete a 28. melléklet szerint módosul.
+
+(2) A kiemelt térségi és megyei területrendezési tervek, valamint a településrendezési tervek készítése során az országos, a kiemelt térségi és a megyei övezetek területi érintettségével kapcsolatosan állásfoglalásra kötelezett államigazgatási szervek köréről és az eljárás részletes szabályairól szóló 282/2009. (XII. 11.) Korm. rendelet 3. mellékletében foglalt táblázat 1. pont b) és c) alpont az „Agglomerációs törvény hatálya alá tartozó település településrendezési tervének készítése vagy módosítása során előzetes adatszolgáltatásra kötelezett államigazgatási szervek” oszlopában a „Nemzeti Környezetügyi Intézet” szövegrész helyébe az „Országos Vízügyi Főigazgatóság” szöveg lép.
