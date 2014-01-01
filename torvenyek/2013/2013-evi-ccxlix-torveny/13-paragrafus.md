@@ -1,0 +1,3 @@
+13. § A Kttv. 21. §-a helyébe a következő rendelkezés lép:
+
+„21. § A díjfizetésre kötelezett kibocsátó köteles a külön jogszabályokban meghatározott adatszolgáltatás elvégzésére. Amennyiben a környezetvédelmi hatóság vagy a vízvédelmi hatóság a kibocsátási adatok ellenőrzése során az adatszolgáltatásban eltérést tapasztal, erről az adóhatóságot tájékoztatja.”
