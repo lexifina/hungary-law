@@ -10,9 +10,9 @@
 
 (5) Az útzár alkalmazását
 
-a)[^26] az országos rendőrfőkapitány, a rendészeti vagy a bűnügyi főigazgató, a Készenléti Rendőrség vagy a Terrorelhárítási Központ által védett létesítmények vagy biztosított rendezvények, továbbá a Készenléti Rendőrség vagy a Terrorelhárítási Központ által védett személyek programhelyszíneinek vonatkozásában a Készenléti Rendőrség parancsnoka vagy a Terrorelhárítási Központ főigazgatója, hatásköre szerint ellátott speciális feladatok végrehajtása során a Terrorelhárítási Központ főigazgatója vagy a Készenléti Rendőrség parancsnoka, továbbá
+a)[^27] az országos rendőrfőkapitány, a rendészeti vagy a bűnügyi főigazgató, a Készenléti Rendőrség vagy a Terrorelhárítási Központ által védett létesítmények vagy biztosított rendezvények, továbbá a Készenléti Rendőrség vagy a Terrorelhárítási Központ által védett személyek programhelyszíneinek vonatkozásában a Készenléti Rendőrség parancsnoka vagy a Terrorelhárítási Központ főigazgatója, hatásköre szerint ellátott speciális feladatok végrehajtása során a Terrorelhárítási Központ főigazgatója vagy a Készenléti Rendőrség parancsnoka, továbbá
 
-b)[^27] illetékességi területén – az autópálya és az autóút kivételével – a megyei (fővárosi) rendőrfőkapitány, a rendészeti vagy a bűnügyi rendőrfőkapitány-helyettes, a rendőrkapitány vagy a határrendészeti kirendeltség vezetője
+b)[^28] illetékességi területén – az autópálya és az autóút kivételével – a megyei (fővárosi) rendőrfőkapitány, a rendészeti vagy a bűnügyi rendőrfőkapitány-helyettes, a rendőrkapitány vagy a határrendészeti kirendeltség vezetője
 
 rendeli el.
 
@@ -20,5 +20,5 @@ rendeli el.
 
 (7) Ha az útzár telepítésének elrendelésére jogosult szolgálati elöljáró döntésének meghozatala indokolatlan késedelemmel járna, az útzár telepítésének engedélyezésére az illetékes ügyelet vezetője is jogosult.
 
-[^26]: A 44. § (5) bekezdés a) pontja a 31/2012. (VI. 28.) BM rendelet 14. § a) pontja, a 43/2012. (VIII. 23.) BM rendelet 13. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^27]: A 44. § (5) bekezdés b) pontja a 18/2013. (V. 9.) BM rendelet 10. §-ával megállapított szöveg.
+[^27]: A 44. § (5) bekezdés a) pontja a 31/2012. (VI. 28.) BM rendelet 14. § a) pontja, a 43/2012. (VIII. 23.) BM rendelet 13. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^28]: A 44. § (5) bekezdés b) pontja a 18/2013. (V. 9.) BM rendelet 10. §-ával megállapított szöveg.
