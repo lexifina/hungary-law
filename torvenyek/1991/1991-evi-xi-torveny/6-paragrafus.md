@@ -8,13 +8,13 @@ c) szakmai javaslatot tesz egészségügyi intézmények létesítése, fejleszt
 
 d) véleményezi az egészségügyi intézmények szervezetével és feladatával kapcsolatos módosító elképzeléseket;
 
-e) engedélyezi – ha jogszabály másként nem rendelkezik – az egészségügyi szolgáltató tevékenységének végzését, ellenőrzi a tevékenységet, valamint nyilvántartást vezet az egészségügyi szolgáltatókról, az egészségügyi szolgáltatók szervezeti egységeiről, az általuk végezhető, engedélyezett szakmákról, valamint az egy szakmán belül végezhető egyes tevékenységről, továbbá az egészségügyi szolgáltatás nyújtására jogosító működési engedélyekről;
+e) engedélyezi – ha jogszabály másként nem rendelkezik – az egészségügyi szolgáltató tevékenységének végzését, ellenőrzi a tevékenységet, valamint nyilvántartást vezet az egészségügyi szolgáltatókról, az egészségügyi szolgáltatók szervezeti egységeiről, az általuk végezhető, engedélyezett szakmákról, valamint az egy szakmán belül végezhető egyes tevékenységekről, az egészségügyi szolgáltatás nyújtására jogosító működési engedélyekről, valamint az egészségügyi szolgáltatók nevében és felelősségére egészségügyi tevékenységet végző egészségügyi dolgozóknak az egészségügyi tevékenység végzésével összefüggő adatairól;
 
 f) az egészségügyi szolgáltatók bejelentése alapján nyilvántartja, szükség esetén összehangolja, illetőleg az érintett egészségügyi szolgáltatók és fenntartóik véleményének kikérése után megállapítja és közzéteszi a megye (főváros) ügyeleti, készenléti ellátásának és betegbeutalásának területi rendjét, ideértve a gyógyszertári ügyeletet és készenlétet is ;
 
 g) ellátja a gyógyhelyek, gyógyfürdő intézmények és a természetes gyógytényezők vonatkozásában a külön jogszabályban meghatározott feladatokat;
 
-h) ellátja a gyógyszerellátással és a kábítószerekkel kapcsolatos szakfelügyeletet, ennek keretében biztosítja, hogy a forgalomból kivont gyógyszerkészítmények ne kerüljenek további felhasználásra;
+h) ellátja a gyógyszerellátással és a fokozottan ellenőrzött szerekkel, illetve kábítószer-prekurzorokkal kapcsolatos szakfelügyeletet, ennek keretében biztosítja, hogy a forgalomból kivont gyógyszerkészítmények ne kerüljenek további felhasználásra;
 
 i) kijelöli azokat a gyógyszertárakat és egészségügyi intézményeket, amelyek az egészségügyért felelős miniszter által meghatározott gyógyszereket és immunbiológiai készítményeket kötelesek készletükben tartani;
 
@@ -38,7 +38,7 @@ p) ellenőrzi, hogy az egészségügyi szolgáltató térítési díjszabályzat
 
 (2) Az egészségügyi államigazgatási szerv az (1) bekezdés h), i) és o) pontjaiban foglalt feladatokat külön jogszabályban foglaltak szerint látja el.
 
-(3) Az (1) bekezdés e) pontja szerinti nyilvántartás a (4) bekezdés a) pont ac) alpontja és b)–d) pontja szerinti adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
+(3) Az (1) bekezdés e) pontja szerinti nyilvántartás a (4) bekezdés a) pont ac) alpontja; b)–d) pontja, valamint e) pont eb) alpontja szerinti adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
 (4) Az (1) bekezdés e) pontja szerinti nyilvántartás az alábbi adatokat tartalmazza:
 
@@ -84,8 +84,24 @@ ck) a járóbeteg-szakellátásban és az alapellátásban a heti rendelési id�
 
 cl) a szervezeti egységhez tartozóan, ellátási formától függően az ügyeleti részvételt, készenléti rendszerben való részvétel tényét,
 
-d) a gyógyászati segédeszközök forgalmazásával, javításával, illetve kölcsönzésével foglalkozó szolgáltatók vonatkozásában a szolgáltató heti nyitvatartási rendjét, valamint annak megjelölését, hogy a szolgáltató – jogszabályban meghatározottak szerint – sorozatgyártású, egyedi méretvétel alapján készült vagy méretre igazított gyógyászati segédeszközt forgalmaz, javít, illetve kölcsönöz.
+d) a gyógyászati segédeszközök forgalmazásával, javításával, illetve kölcsönzésével foglalkozó szolgáltatók vonatkozásában a szolgáltató heti nyitvatartási rendjét, valamint annak megjelölését, hogy a szolgáltató – jogszabályban meghatározottak szerint – sorozatgyártású, egyedi méretvétel alapján készült vagy méretre igazított gyógyászati segédeszközt forgalmaz, javít, illetve kölcsönöz,
+
+e) az egészségügyi szolgáltató által foglalkoztatott egészségügyi dolgozók adatai:
+
+ea) az egészségügyi dolgozó neve, alap- és működési nyilvántartási száma, az egészségügyi tevékenység végzése során használt szakképesítése (szakképesítései),
+
+eb) a foglalkoztatásra irányuló jogviszonynak az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény (a továbbiakban: Eütev.) 7. § (2) bekezdése szerinti jogviszony típusa, kezdő időpontja, határozott idejű foglalkoztatás esetében annak végdátuma vagy a jogviszony határozatlan jellege,
+
+ec) az egészségügyi dolgozó által végzett egészségügyi tevékenység FEOR szám szerinti megjelölése, az Eütev. szerinti alkalmazott egészségügyi dolgozó esetében a munkakör megnevezése,
+
+ed) alkalmazott egészségügyi dolgozó esetén a teljes vagy részmunkaidős foglalkoztatás ténye, az Eütev. 12. §-ában meghatározott munkarendje, illetve munkavégzési formája, valamint az önként vállalt többletmunka ténye és mértéke, valamint a heti munkaidő, alapellátás esetében a helyettesítés ténye,
+
+ee) az egészségügyi dolgozó tartós távollétének ténye és indoka.
 
 (5) A (4) bekezdésben meghatározott adatok a szolgáltató azonosítójához rendelten szerepelnek a nyilvántartásban.
 
 (6) A (4) bekezdés szerinti nyilvántartásba történő bejegyzésre, valamint az onnan való törlésre irányuló eljárás során a hatóság kizárólag okirati bizonyítékot, valamint az ügyfél nyilatkozatát használhatja fel.
+
+(7) A (4) bekezdés szerinti nyilvántartás adataiban bekövetkezett változást az egészségügyi szolgáltató a (4) bekezdés e) pontja szerinti adatok tekintetében minden hónap 10. napjáig, kizárólag a változott adatok közlésével köteles bejelenteni az egészségügyi államigazgatási szerv részére.
+
+(8) Az egészségügyi államigazgatási szerv az egészségügyi dolgozók alapnyilvántartási száma alapján folyamatosan, elektronikus úton adategyeztetést folytat az egészségbiztosítási szervvel az egészségügyi szolgáltató nevében és felelősségére egészségügyi tevékenységet végző egészségügyi dolgozók (4) bekezdés e) pontja szerinti adatairól.

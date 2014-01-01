@@ -1,0 +1,1 @@
+14/C. § Az egészségügyi szolgáltató által a beteg részére nyújtott egészségügyi ellátással kapcsolatban tett, a panaszokról és a közérdekű bejelentésekről szóló törvény szerinti panasszal kapcsolatban az az egészségügyi államigazgatási szerv jár el, amely a panasszal érintett egészségügyi szolgáltató részére működési engedély kiadására jogosult.

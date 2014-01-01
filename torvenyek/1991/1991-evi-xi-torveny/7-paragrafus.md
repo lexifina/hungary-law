@@ -11,3 +11,5 @@ c) az engedélyezett termék, technológia megjelölését, valamint
 d) az alkalmazási engedélyben megadott alkalmazási feltételeket.
 
 (3) Az (1) bekezdés szerinti nyilvántartás a (2) bekezdés a), c) és d) pontja szerinti adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
+
+(4) Az (1) bekezdés szerinti nyilvántartást az egészségügyi államigazgatási szerv a honlapján közzéteszi.
