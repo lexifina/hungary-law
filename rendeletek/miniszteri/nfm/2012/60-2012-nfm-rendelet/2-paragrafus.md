@@ -1,1 +1,0 @@
-## 1. § A villamos energia rendszerhasználati díjak meghatározására és szabályozására vonatkozó keretszabályokat – a 2013. január 1. napjától 2016. december 31. napjáig tartó négyéves árszabályozási ciklus tekintetében – az 1. melléklet tartalmazza.
