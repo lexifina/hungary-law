@@ -1,14 +1,17 @@
-## 1–10. §[^1]
-
 ## 11. § A Kr.
 
-a)–f)[^2]
+a) 4. § (8) bekezdésében az „az ellátások igénybevételére jogosító igazolások mintáit az OEP tájékoztatóban közzéteszi” szövegrész helyébe az „az ellátások igénybevételére jogosító igazolások kötelezően alkalmazandó mintáit az OEP tájékoztatóban közzéteszi” szöveg,
 
-g) 64. § (1) bekezdésében az „az 5. számú melléklet szerinti” szövegrész helyébe az „a 2012. szeptember 15-én hatályos 5. számú melléklet szerinti” szöveg,
+b) 5/A. § (5) bekezdésében a „tárgyhavi elszámolási összegét” szövegrész helyébe a „tárgyhavi elszámolási összegét – az 5. § (1) bekezdésében foglaltak figyelembe vételével –” szöveg,
 
-h) 64. § (4) bekezdésében a „2013. december 31-ig” szövegrész helyébe a „2014. június 30-ig” szöveg, a „2014. március 1-jéig” szövegrész helyébe a „2014. szeptember 1-jéig” szöveg,
+c) 27. § (3) és (4) bekezdésében a „2012.” szövegrész helyébe a „2013.” szöveg,
 
-i) 64. § (5) bekezdésében a „2014. június 30-áig” szövegrész helyébe a „2014. december 31-éig” szöveg, a „2014. augusztus 31-éig” szövegrész helyébe a „2015. február 28-áig” szöveg
+d) 30/A. § (3) bekezdésében a „3. napjáig” szövegrész helyébe a „20. napjáig” szöveg,
 
-[^1]: Az 1–10. § a 13. § (2) bekezdése alapján 2014. január 1-jén lép hatályba.
-[^2]: A 11. § a)–f) pontja a 13. § (2) bekezdése alapján 2014. január 1-jén lép hatályba.
+e) 30/A. § (4) bekezdésében a „8 napon belül megküldi a felhasználó egészségügyi szolgáltatónak, és amennyiben a szolgáltató az értesítés kézhezvételétől számított 10 napon belül pénzügyi bizonylattal nem igazolja fizetési kötelezettségének teljesítését,” szövegrész helyébe az „a (3) bekezdés szerinti adatszolgáltatás alapján” szöveg,
+
+f) 40. § (11a) bekezdés b) pontjában az „a mozgásszervi rehabilitáció és a neurológiai rehabilitáció szakmákban” szövegrész helyébe az „az ellátásoknak megfelelő szakmákban” szöveg,
+
+g)–i)[^2]
+
+[^2]: A 11. § g)–i) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
