@@ -1,4 +1,4 @@
-## 1/A. §[^5] A Minisztérium az 1.1.1. Programmal kapcsolatos feladatait a Nemzeti Rehabilitációs és Szociális Hivatallal együttműködésben valósítja meg.
+## 1/A. §[^5] A foglalkoztatáspolitikáért felelős miniszter az 1.1.1. Programmal kapcsolatos feladatait a Nemzeti Rehabilitációs és Szociális Hivatallal együttműködésben valósítja meg.
 
 ## I.
 
@@ -46,7 +46,7 @@ d) akivel összefüggésben a munkaügyi központ által korábban indított bá
 
 e)[^13] aki a Társadalmi Megújulás Operatív Program keretében szakképesítést vagy munkakör betöltéséhez szükséges képesítést szerzett, és munkatapasztalat-szerzés céljából nyújtható bérköltség támogatásban vagy bértámogatásban vagy álláskeresők vállalkozóvá válását elősegítő támogatásban részesült.
 
-[^5]: Az 1/A. §-t a 332/2010. (XII. 27.) Korm. rendelet 32. § (1) bekezdése iktatta be.
+[^5]: Az 1/A. §-t a 332/2010. (XII. 27.) Korm. rendelet 32. § (1) bekezdése iktatta be, szövege az 550/2013. (XII. 30.) Korm. rendelet 48. § b) pontja szerint módosított szöveg.
 [^6]: A 2. § (2) bekezdés nyitó szövegrésze a 272/2012. (IX. 28.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
 [^7]: A 2. § (2) bekezdés e) pontja a 324/2011. (XII. 28.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
 [^8]: A 2. § (2) bekezdés f) pontját a 324/2011. (XII. 28.) Korm. rendelet 16. § (1) bekezdése iktatta be.
