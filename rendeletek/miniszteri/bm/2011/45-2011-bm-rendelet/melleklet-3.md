@@ -1,6 +1,6 @@
 ## Tűzvédelmi szakvizsga bizonyítvány
 
-## (Az oktatásszervező megnevezése, felnőttképzési és szolgáltatási nyilvántartási száma)
+## (Az oktatásszervező megnevezése, szolgáltatási nyilvántartási száma)
 
 ## Bizonyítványszám:
 

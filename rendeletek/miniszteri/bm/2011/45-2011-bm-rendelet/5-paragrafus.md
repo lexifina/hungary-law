@@ -1,6 +1,6 @@
 ## 4. § A szakvizsgabizottság elnöke a szakvizsga megkezdése előtt vizsgálja, hogy a szakvizsgabizottság megalakítása és a szakvizsga megszervezése az oktatásszervező jogosultságainak megfelelően, e rendelet előírásai szerint történt-e. A szakvizsga folyamán a szakvizsgabizottság elnöke köteles gondoskodni az e rendeletben foglaltak betartásáról. A szakvizsgabizottság tagjai felelősek a szakvizsga megfelelő szakmai színvonalának biztosításáért.
 
-5. § (1)[^6] Az oktatásszervező az oktatás és a szakvizsga megkezdése előtt írásban, vagy a székhelye szerint illetékes tűzvédelmi hatóság által megadott elektronikus levélcímre bejelenti
+5. § (1)[^9] Az oktatásszervező az oktatás és a szakvizsga megkezdése előtt írásban, vagy a székhelye szerint illetékes tűzvédelmi hatóság által megadott elektronikus levélcímre bejelenti
 
 a) oktatás esetén annak helyét (pontos címét), kezdő időpontját (év, hó, nap, óra, perc) és időtartamát,
 
@@ -12,14 +12,17 @@ d) a foglalkozási ág vagy munkakör 1. melléklet szerinti sorszámát és meg
 
 (2) A bejelentésben jelezni kell a felkészítés módját.
 
-(3)[^7] Az (1) és (2) bekezdésben meghatározott adatokat úgy kell közölni a tűzvédelmi hatósággal, hogy az a bejelentést legalább az oktatás időpontja előtt nyolc nappal korábban megkapja.
+(3)[^10] Az (1) és (2) bekezdésben meghatározott adatokat úgy kell közölni a tűzvédelmi hatósággal, hogy a tűzvédelmi hatóság a bejelentést legalább az oktatás vagy a tűzvédelmi szakvizsga időpontja előtt nyolc nappal korábban megkapja.
 
 (4) Az e rendeletben előírt feltételek hiányában az oktatást megtartani és a szakvizsgát lefolytatni nem lehet.
 
-(5)[^8] Az (1) bekezdés a)–c) pontjaiban bejelentett adatokban – az oktatás, szakvizsga időpontjának kivételével – bekövetkező esetleges változást, az illetékes tűzvédelmi hatósággal az oktatás vagy a szakvizsga időpontja előtt legalább egy munkanappal korábban, elektronikus levél útján és szóban is közölni kell. A szakvizsga helyszíne csak az adott településen belül változtatható, az oktatás, szakvizsga időpontja nem változtatható.
+(5)[^11] Az (1) bekezdés a)–c) pontjában bejelentett adatokban – az oktatás, szakvizsga időpontjának kivételével – bekövetkező esetleges változást, az illetékes tűzvédelmi hatósággal az oktatás vagy a szakvizsga időpontja előtt legalább egy munkanappal korábban, elektronikus levél útján és szóban is közölni kell. A szakvizsga helyszíne csak az adott településen belül változtatható, az oktatás, szakvizsga időpontja nem változtatható.
 
 (6) Az oktatásszervező bejelentésében – legfeljebb 3 fő – tartalék szakvizsgáztató személyt nevezhet meg – az (1) bekezdés c) pont szerinti adatok megadásával –, aki szükség esetén a vizsgabizottság elnökét, tagját helyettesítheti. A helyettesítés esetén az (5) bekezdésben foglaltakat nem kell alkalmazni.
 
-[^6]: Az 5. § (1) bekezdése a 24/2012. (V. 8.) BM rendelet 9. § (4) bekezdésével megállapított szöveg.
-[^7]: Az 5. § (3) bekezdése a 24/2012. (V. 8.) BM rendelet 9. § (5) bekezdésével megállapított szöveg.
-[^8]: Az 5. § (5) bekezdése a 24/2012. (V. 8.) BM rendelet 9. § (6) bekezdésével megállapított szöveg.
+(7)[^12] Az oktatásszervező a tűzvédelmi szakvizsgára való felkészítés vagy a tűzvédelmi szakvizsga elmaradását köteles a képzés vagy a vizsga bejelentett időpontját megelőzően legalább négy órával előbb bejelenteni a székhelye szerint illetékes tűzvédelmi hatóság által megadott elektronikus levélcímre.
+
+[^9]: Az 5. § (1) bekezdése a 24/2012. (V. 8.) BM rendelet 9. § (4) bekezdésével megállapított szöveg.
+[^10]: Az 5. § (3) bekezdése a 64/2013. (XII. 4.) BM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^11]: Az 5. § (5) bekezdése a 24/2012. (V. 8.) BM rendelet 9. § (6) bekezdésével megállapított, a 64/2013. (XII. 4.) BM rendelet 9. § (7) bekezdése szerint módosított szöveg.
+[^12]: Az 5. § (7) bekezdését a 64/2013. (XII. 4.) BM rendelet 4. § (2) bekezdése iktatta be.

@@ -1,8 +1,8 @@
-## 2. § Szakvizsgával összefüggő oktatásszervező (a továbbiakban: oktatásszervező) az a felnőttképzési tevékenységet folytató jogi személy, jogi személyiséggel nem rendelkező szervezet vagy egyéni vállalkozó lehet, amely a tűzvédelmi szakvizsgára történő felkészítést és a szakvizsgáztatást szervezi, a tűzvédelmi szakvizsgához szükséges oktatási segédanyaggal és oktatási tematikával rendelkezik és azt az oktatáshoz biztosítja. Az oktatási tematika és az oktatási segédanyag a szakvizsga típusához igazodó, törzsanyagon alapuló szakszerű és aktuális ismereteket tartalmazza.
+## 2. §[^6] Szakvizsgával összefüggő oktatásszervező (a továbbiakban: oktatásszervező) az a jogi személy, jogi személyiséggel nem rendelkező szervezet vagy egyéni vállalkozó lehet, amely a tűzvédelmi szakvizsgára történő felkészítést és a szakvizsgáztatást szervezi, a tűzvédelmi szakvizsgához szükséges oktatási segédanyaggal és oktatási tematikával rendelkezik és azt az oktatáshoz biztosítja. Az oktatási tematika és az oktatási segédanyag a szakvizsga típusához igazodó, törzsanyagon alapuló szakszerű és aktuális ismereteket tartalmazza.
 
 3. § (1) Szakvizsgáztatásra az jogosult, aki
 
-a)[^4] az 1. melléklet 1–5., 12. vagy 14. pontjában meghatározott foglalkozási ágakra (munkakörökre) előírt szakvizsgák esetében a felsőoktatásról szóló törvényben meghatározott felsőoktatási intézményben szerzett felsőfokú végzettséggel és legalább középszintű tűzvédelmi szakmai képesítéssel, továbbá tűzvédelmi szakterületen a szakmai képesítés megszerzésétől számított legalább ötéves szakmai gyakorlattal,
+a)[^7] az 1. melléklet 1–5., 12., 14., 15. vagy 16. pontjában meghatározott foglalkozási ágakra (munkakörökre) előírt szakvizsgák esetében a felsőoktatásról szóló törvényben meghatározott felsőoktatási intézményben szerzett felsőfokú végzettséggel és legalább középszintű tűzvédelmi szakmai képesítéssel, továbbá tűzvédelmi szakterületen a szakmai képesítés megszerzésétől számított legalább ötéves szakmai gyakorlattal,
 
 b) az 1. melléklet 6–11. és 13. pontja szerinti foglalkozási ágakra (munkakörökre) előírt szakvizsgák esetében műszaki képzési területen szerzett mérnöki szakképzettséggel, végzettséggel és felsőszintű tűzvédelmi szakmai képesítéssel, továbbá tűzvédelmi szakterületen a szakmai képesítés megszerzésétől számított legalább ötéves szakmai gyakorlattal
 
@@ -20,9 +20,10 @@ b) az oktatásszervezővel a szakvizsgáztatással összefüggő tevékenységen
 
 c) az oktatásszervező hozzátartozója.
 
-(5)[^5] A szakvizsgabizottság elnöke nem működhet közre közeli hozzátartozójának, valamint az ugyanannál a munkáltatónál alkalmazásban álló szakvizsgázónak a szakvizsgáztatásában, valamint egyéb olyan esetekben, ahol az elfogulatlan szakvizsgáztatás tőle nem várható el. A szakvizsgabizottság tagja nem lehet a szakvizsgabizottság elnökének közeli hozzátartozója, alkalmazottja vagy beosztottja.
+(5)[^8] A szakvizsgabizottság elnöke nem működhet közre közeli hozzátartozójának, valamint az ugyanannál a munkáltatónál alkalmazásban álló szakvizsgázónak a szakvizsgáztatásában, valamint egyéb olyan esetekben, ahol az elfogulatlan szakvizsgáztatás tőle nem várható el. A szakvizsgabizottság tagja nem lehet a szakvizsgabizottság elnökének közeli hozzátartozója, alkalmazottja vagy beosztottja.
 
 (6) A kizárási okot a szakvizsgabizottság tagjának, elnökének, vagy a szakvizsgázónak a szakvizsga előtti nyolc napig kell bejelentenie az oktatásszervezőnek. Az oktatásszervező módosított összetételű szakvizsgabizottság felkérésével köteles az összeférhetetlenségi okot megszüntetni.
 
-[^4]: A 3. § (1) bekezdés a) pontja a 67/2012. (XII. 14.) BM rendelet 14. § (3) bekezdésével megállapított szöveg.
-[^5]: A 3. § (5) bekezdése a 24/2012. (V. 8.) BM rendelet 9. § (3) bekezdésével megállapított szöveg.
+[^6]: A 2. § a 64/2013. (XII. 4.) BM rendelet 10. § a) pontja szerint módosított szöveg.
+[^7]: A 3. § (1) bekezdés a) pontja a 67/2012. (XII. 14.) BM rendelet 14. § (3) bekezdésével megállapított, a 64/2013. (XII. 4.) BM rendelet 9. § (2) bekezdése szerint módosított szöveg.
+[^8]: A 3. § (5) bekezdése a 24/2012. (V. 8.) BM rendelet 9. § (3) bekezdésével megállapított szöveg.

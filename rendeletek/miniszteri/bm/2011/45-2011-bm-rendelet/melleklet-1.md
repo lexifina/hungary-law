@@ -1,4 +1,4 @@
-## 12. §[^21]
+## 12. §[^29] Ez a rendelet a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
 1. melléklet a 45/2011. (XII. 7.) BM rendelethez
 
@@ -10,7 +10,7 @@
 
 3. Éghető gáz lefejtését, töltését, kiszolgálását, továbbá autógáz kiszolgálását végzők.
 
-4.[^22] Tűzgátló, füstgátló nyílászáró-szerkezetek, tűzgátló tömítések beépítését, felülvizsgálatát, karbantartását, javítását végzők.
+4.[^30] Tűzgátló, füstgátló nyílászáró-szerkezetek beépítését, felülvizsgálatát, karbantartását, javítását végzők.
 
 5. Tűzoltó-vízforrások felülvizsgálatát végzők.
 
@@ -28,11 +28,17 @@
 
 12. Tűzállóságot növelő bevonati rendszerek alkalmazását, karbantartását végzők.
 
-13.[^23] Beépített hő- és füstelvezető rendszerek telepítését, felülvizsgálatát, karbantartását, javítását végzők.
+13.[^31] Beépített hő- és füstelvezető rendszerek telepítését, felülvizsgálatát, karbantartását, javítását végzők.
 
-14.[^24] Erősáramú berendezések időszakos felülvizsgálatát végzők.
+14.[^32] Erősáramú berendezések időszakos felülvizsgálatát végzők.
 
-[^21]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^22]: Az 1. melléklet 4. pontja a 67/2012. (XII. 14.) BM rendelet 14. § (10) bekezdésével megállapított szöveg.
-[^23]: Az 1. melléklet 13. pontja a 67/2012. (XII. 14.) BM rendelet 14. § (11) bekezdésével megállapított szöveg.
-[^24]: Az 1. melléklet 14. pontját a 67/2012. (XII. 14.) BM rendelet 14. § (12) bekezdése iktatta be.
+15.[^33] Tűzgátló tömítések beépítését, felülvizsgálatát, karbantartását, javítását végzők.
+
+16.[^34] Tűzállóságot növelő burkolatok beépítését, karbantartását végzők.
+
+[^29]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 64/2013. (XII. 4.) BM rendelet 7. §-a iktatta be.
+[^30]: Az 1. melléklet 4. pontja a 67/2012. (XII. 14.) BM rendelet 14. § (10) bekezdésével megállapított, a 64/2013. (XII. 4.) BM rendelet 10. § b) pontja szerint módosított szöveg.
+[^31]: Az 1. melléklet 13. pontja a 67/2012. (XII. 14.) BM rendelet 14. § (11) bekezdésével megállapított szöveg.
+[^32]: Az 1. melléklet 14. pontját a 67/2012. (XII. 14.) BM rendelet 14. § (12) bekezdése iktatta be.
+[^33]: Az 1. melléklet 15. pontját a 64/2013. (XII. 4.) BM rendelet 8. §-a iktatta be.
+[^34]: Az 1. melléklet 16. pontját a 64/2013. (XII. 4.) BM rendelet 8. §-a iktatta be.
