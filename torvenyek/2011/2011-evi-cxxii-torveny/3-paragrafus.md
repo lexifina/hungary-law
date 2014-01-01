@@ -2,7 +2,7 @@
 
 3. § (1) A KHR-t kezelő pénzügyi vállalkozás létrehozásának, illetve működtetésének engedélyezésére, felügyeletére, engedélyének visszavonására, továbbá az üzleti titok és a banktitok megtartására, illetve a titoktartási kötelezettség alóli kivételekre a Hpt. rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
 
-(2) A KHR kezelésére engedélyt az kaphat, aki a Hpt. 17. §-ában foglalt feltételeken túl az alábbi feltételeknek is megfelel:
+(2) A KHR kezelésére engedélyt az kaphat, aki a Hpt. 16. §-ában foglalt feltételeken túl az alábbi feltételeknek is megfelel:
 
 a) részvénytársasági formában működő pénzügyi vállalkozás,
 

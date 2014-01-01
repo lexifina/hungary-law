@@ -6,7 +6,7 @@ a) nyilvántartott személy: valamennyi olyan természetes személy, illetve vá
 
 b) befektetési hitel: a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény (a továbbiakban: Bszt.) 4. § (2) bekezdés 7. pontja szerinti hitel;
 
-c) pénzügyi szolgáltatás: a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény (a továbbiakban: Hpt.) 3. § (1) bekezdés b)–c) és f)–g) pontjában foglalt tevékenységek, ideértve a biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvény 3. § (1) bekezdés 29. pontja és 5. § (6) bekezdés d) pontja szerinti jelzáloghitelezést és a közraktárakról szóló 1996. évi XLVIII. törvény 28. §-a szerinti kölcsönnyújtást is;
+c) pénzügyi szolgáltatás: a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény (a továbbiakban: Hpt.) 3. § (1) bekezdés b)–c) és f)–g) pontjában foglalt tevékenységek, ideértve a biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvény 3. § (1) bekezdés 29. pontja és 5. § (6) bekezdés d) pontja szerinti jelzáloghitelezést és a közraktárakról szóló 1996. évi XLVIII. törvény 28. §-a szerinti kölcsönnyújtást is;
 
 d) értékpapír-kölcsönzés: a tőkepiacról szóló 2001. évi CXX. törvény (a továbbiakban: Tpt.) 5. § (1) bekezdés 44. pontjában foglalt tevékenység;
 

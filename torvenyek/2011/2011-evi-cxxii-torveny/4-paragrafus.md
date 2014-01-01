@@ -8,9 +8,9 @@ b) a Magyar Nemzeti Bank kezdeményezi a pénzügyi vállalkozás felszámolás�
 
 c) a pénzügyi vállalkozás nem felel meg a 3. § (2) bekezdésében foglaltaknak.
 
-(2) A Magyar Nemzeti Bank a KHR kezelésére vonatkozó engedélyt a Hpt. 29. §-ában foglalt eseteken kívül akkor is visszavonhatja, ha
+(2) A Magyar Nemzeti Bank a KHR kezelésére vonatkozó engedélyt a Hpt. 32. §-ában foglalt eseteken kívül akkor is visszavonhatja, ha
 
-a) a Hpt.13/C. §-ában meghatározott, az informatikai rendszer biztonságával kapcsolatos szabályozási rendszer előírásainak nem tesz eleget,
+a) az informatikai rendszer biztonságával kapcsolatos szabályozási rendszer előírásainak nem tesz eleget,
 
 b) a pénzügyi vállalkozás – az arra jogosult szerv határozatával megállapított módon – súlyosan vagy ismételten megsérti az adatvédelemre vonatkozó jogszabályok előírásait,
 
