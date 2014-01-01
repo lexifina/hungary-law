@@ -1,0 +1,1 @@
+57/C. § A helyi önkormányzat kérelme alapján a fizetési számlájával szemben a kincstár által benyújtott beszedési megbízást legfeljebb hat hónapra a kincstár visszavonhatja, ha a kérelmező igazolja, hogy az általa fizetendő munkabérek és segélyek kifizetését a beszedési megbízás érvényesítése veszélyeztetné.

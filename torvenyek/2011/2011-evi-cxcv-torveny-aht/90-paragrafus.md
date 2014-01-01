@@ -34,9 +34,9 @@ j) az államháztartás központi alrendszerében és önkormányzati alrendszer
 
 a) a 21. § (6) bekezdésében és 33. § (1) bekezdésében meghatározottak szerint hozott,
 
-b) kötelezettségvállalással nem terhelt előirányzat-maradvány felhasználására vonatkozó,
+b) kötelezettségvállalással nem terhelt költségvetési maradvány felhasználására vonatkozó,
 
-c) kötelezettségvállalással terhelt, azonban a költségvetési évet követő év június 30-áig pénzügyileg nem teljesült előirányzat-maradvány felhasználására vonatkozó és
+c) kötelezettségvállalással terhelt, azonban a költségvetési évet követő év június 30-áig pénzügyileg nem teljesült költségvetési maradvány felhasználására vonatkozó és
 
 d) a központi költségvetésről szóló törvényben az előirányzatok átcsoportosításával, módosításával összefüggésben biztosított jogkörében hozott
 

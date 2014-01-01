@@ -19,3 +19,5 @@ b) faktoringot magában foglaló szerződést nem köthet, és
 c) garanciát és kezességet nem vállalhat.
 
 (5) A (4) bekezdés rendelkezéseit alkalmazni kell a fejezeti kezelésű előirányzatok, elkülönített állami pénzalapok és a társadalombiztosítás pénzügyi alapjai pénzeszközei terhére végzett ügyletekre is.
+
+(6) Központi költségvetési kiadási előirányzatok terhére olyan jogi személlyel, jogi személyiséggel nem rendelkező szervezettel nem köthető érvényesen visszterhes szerződés, illetve létrejött ilyen szerződés alapján nem teljesíthető kifizetés, amely szervezet nem minősül átlátható szervezetnek. A kötelezettségvállaló ezen feltétel ellenőrzése céljából, a szerződésből eredő követelések elévüléséig az 54/A. §-ban foglaltak szerint jogosult a jogi személy, jogi személyiséggel nem rendelkező szervezet átláthatóságával összefüggő, az 54/A. §-ban meghatározott adatokat kezelni, azzal, hogy ahol az 54/A. § kedvezményezettről rendelkezik, azon a jogi személyt, jogi személyiséggel nem rendelkező szervezetet kell érteni. Jogszabály más feltételeket is megállapíthat a visszterhes szerződések megkötésének, vagy azok alapján történő kifizetések feltételeként.

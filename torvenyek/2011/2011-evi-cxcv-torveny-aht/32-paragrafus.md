@@ -6,7 +6,7 @@ b) jogszabály által alanyi jogon összegszerűen megállapított, továbbá ma
 
 c) az állammal szemben folyamatban lévő peres ügyekkel és az állam által fizetendő kártérítésekkel, kártalanításokkal kapcsolatos költségvetési kiadás,
 
-d) a Kormány által egyedi határozatban biztosított beruházásösztönzési célú költségvetési kiadás,
+d) a Kormány által egyedi határozatban biztosított beruházás-ösztönzési célú költségvetési kiadás,
 
 e) az állami kezességekkel, állami garanciákkal, állami viszontgaranciákkal, kiállítási garanciákkal és viszontgaranciákkal kapcsolatos költségvetési kiadás,
 

@@ -26,4 +26,4 @@ e) köztestületi költségvetési szerv esetén a köztestület
 
 (7) A Kormány irányítása vagy felügyelete alá tartozó költségvetési szerv alapító okiratának kiadásához és módosításához – a miniszterelnök által kiadott alapító okirattal rendelkező költségvetési szerv és a honvédelemért felelős miniszter által alapított költségvetési szerv alapító okirata kivételével – az államháztartásért felelős miniszter előzetes egyetértése szükséges.
 
-(8) Az államháztartás központi alrendszerébe tartozó költségvetési szerv alapító okiratát a Hivatalos Értesítőben közzé kell tenni.
+(8)

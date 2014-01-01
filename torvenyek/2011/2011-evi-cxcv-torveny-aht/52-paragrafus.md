@@ -1,6 +1,6 @@
 ## 35. A költségvetési támogatások folyósítása
 
-52. § (1) A költségvetési támogatás igénybevétele utólagos elszámolás melletti előfinanszírozás vagy beszámolást követő utófinanszírozás formájában történhet.
+52. § (1)
 
 (2) A költségvetési támogatás folyósítása egy összegben vagy részletekben, időarányosan vagy teljesítésarányosan történhet.
 

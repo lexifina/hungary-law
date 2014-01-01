@@ -24,4 +24,4 @@ e) a nemzeti vagyonnal kapcsolatos kiadások, és
 
 f) az államháztartás alrendszereinek adósságával kapcsolatos kiadások.
 
-(3) A költségvetésben meg kell állapítani a költségvetési bevételek és költségvetési kiadások különbözeteként a költségvetési többletet vagy hiányt (a továbbiakban együtt: költségvetési egyenleg). A központi költségvetés hiányának finanszírozásáról az államháztartásért felelős miniszter gondoskodik. Az államháztartás önkormányzati alrendszerében a költségvetési hiány finanszírozásáról a költségvetési rendelet, költségvetési határozat rendelkezik.
+(3) A költségvetésben meg kell állapítani a költségvetési bevételek és költségvetési kiadások különbözeteként a költségvetési többletet vagy hiányt (a továbbiakban együtt: költségvetési egyenleg). A központi költségvetés hiányának finanszírozásáról, az államadósság kezeléséről az államháztartásért felelős miniszter gondoskodik. Az államháztartás önkormányzati alrendszerében a költségvetési hiány finanszírozásáról a költségvetési rendelet, költségvetési határozat rendelkezik.

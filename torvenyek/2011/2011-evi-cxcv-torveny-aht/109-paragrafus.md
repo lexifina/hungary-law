@@ -6,7 +6,7 @@
 
 109. § (1) Felhatalmazást kap a Kormány arra, hogy rendeletben állapítsa meg
 
-1. a költségvetési szervek alapítására, 10. § (3) bekezdés szerinti besorolására vonatkozó szabályokat, átalakításuk, megszüntetésük részletes szabályait, az alapító és a megszüntető okirat tartalmi kellékeit, az önállóan működő költségvetési szerv gazdálkodásának, az irányítói, középirányítói jogok átadásának, gyakorlásának, és a fejezeti jogosítványokkal felruházott költségvetési szerv jogállásának sajátos szabályait,
+1. a költségvetési szervek alapítására vonatkozó szabályokat, átalakításuk, megszüntetésük részletes szabályait, az alapító és a megszüntető okirat tartalmi kellékeit, az irányítói, középirányítói jogok átadásának, gyakorlásának, és a fejezeti jogosítványokkal felruházott költségvetési szerv jogállásának sajátos szabályait,
 
 2. a költségvetési szervek gazdasági szervezetének és gazdasági vezetőjének feladatait, a gazdasági szervezettel nem rendelkező költségvetési szerv pénzügyi-gazdasági feladatainak ellátását, a gazdasági vezető képesítési előírásait, továbbá a 10. § (5) bekezdése szerinti belső szabályzatok tartalmi követelményeire vonatkozó részletszabályokat,
 
@@ -20,7 +20,7 @@
 
 7. a fejezetet irányító szerv által az adott költségvetési évre az államháztartásért felelős miniszter egyetértésével kiadott rendelet, szabályzat tartalmi követelményeit,
 
-8. a kincstári költségvetés tartalmi és formai követelményeit, kiadásának rendjét, az elemi költségvetés készítésével kapcsolatos követelményeket, a bevételi kiemelt előirányzatokat,
+8. a kincstári költségvetés tartalmi és formai követelményeit, kiadásának rendjét, az elemi költségvetés készítésével kapcsolatos tartalmi és formai követelményeket, a bevételi kiemelt előirányzatokat, az egységes rovatrendet,
 
 9. a költségvetési szerv és a fejezeti kezelésű előirányzat többletbevétele felhasználása engedélyezésének eseteit, az engedélyezés szempontjait, eljárási szabályait, az engedélyezők körét, az engedély megadása, megtagadása esetén a többletbevétel további rendeltetését, a 33. § (2) bekezdése szerinti eseteket, valamint az előirányzatok módosításának és az előirányzatok átcsoportosításának módját, az előirányzat-csoportok közötti és a kiemelt előirányzatok közötti átcsoportosítás eseteit, módját és az arra jogosultak körét
 
@@ -60,13 +60,13 @@
 
 27. az államháztartás információs rendszerében vezetett nyilvántartások körét, tartalmát, az államháztartás információs rendszerébe teljesített adatszolgáltatások kötelezettjeit, az adatszolgáltatások gyakoriságát, módját, a szolgáltatandó adatok körét, az egyes adatszolgáltatási kötelezettségek teljesítésének elmulasztása esetén kiróható bírság mértékét és a kiszabás módját, valamint a 103. § (4) bekezdése szerint közzétett adatok körét és a közzétételre vonatkozó szabályokat,
 
-28. a honvédelemért felelős miniszter irányítása alá tartozó költségvetési szervek és a nemzetbiztonsági szolgálatok költségvetése tervezésének, pénzellátásának, előirányzat-felhasználásának, gazdálkodásának, beszámolásának a kincstári rendszer általános szabályaitól eltérő sajátos szabályait,
+28. a honvédelemért felelős miniszter irányítása alá tartozó költségvetési szervek és a nemzetbiztonsági szolgálatok költségvetése tervezésének, pénzellátásának, előirányzat-felhasználásának, gazdálkodásának, adatszolgáltatásainak, könyvvezetési és beszámoló készítési kötelezettségének a kincstári rendszer, illetve az államháztartási számvitel általános előírásaitól eltérő sajátos szabályait,
 
 29. a Kormány irányítása vagy felügyelete alatt álló rendvédelmi szervekről, a honvédelemért felelős miniszter irányítása alá tartozó költségvetési szervekről és a nemzetbiztonsági szolgálatokról a kincstárnál nyilvántartásba vehető adatok körét, a kincstári nyilvántartásba nem vehető adatokat nyilvántartó szerv kijelölését, továbbá az ezen adatokra vonatkozó nyilvántartás sajátos eljárási szabályait,
 
 30. a Magyar Honvédség szervei, valamint a rendvédelmi szervek tekintetében az irányítói jogok középirányító szervre történő átruházásának részletszabályait,
 
-31. a határon túli költségvetési támogatások, a bevett egyházak részére nyújtott költségvetési támogatások, továbbá az országos nemzetiségi önkormányzatok és intézményeik működési támogatása sajátos szabályait,
+31. a határon túli költségvetési támogatásoknak, az egyházi célú költségvetési támogatásoknak, a központi költségvetésből nyújtott nemzetiségi célú támogatásoknak, valamint a Civil Alap – 2014 pályázati program keretében nyújtott támogatásoknak a költségvetési támogatások nyújtásának e törvény végrehajtására kiadott rendeletben meghatározott rendjétől eltérő sajátos szabályait,
 
 32. az állami támogatási programokra és az egyedi állami támogatásokra vonatkozó szabályozásoknak az Európai Unió versenyjogi szabályaival való összehangolása rendjét, beleértve az intézményi és az eljárási szabályokat,
 
@@ -88,7 +88,9 @@
 
 a) által ellátott állami feladat központi költségvetési szerv részére történő átadását és a feladatátvétellel összefüggésben szükséges intézkedéseket,
 
-b) átvevő költségvetési szerv részére történő vagyonátadásával, iratátadásával összefüggő részletes feladatokat.
+b) átvevő költségvetési szerv részére történő vagyonátadásával, iratátadásával összefüggő részletes feladatokat,
+
+41. az európai uniós forrásból nyújtott támogatások tekintetében az uniós támogatásrészek fogadására és kifizetésére szolgáló fizetési számlák rendjére, az Európai Unióval és az Európai Gazdasági Térség Európai Unión kívüli tagállamával történő, a támogatások elszámolására és az elszámolható költségek igazolására vonatkozó szabályokat.
 
 (2) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki
 
@@ -100,29 +102,7 @@ c) az európai uniós és egyéb nemzetközi forrásból származó támogatáso
 
 és megállapítsa feladatát, hatáskörét, szervezetét, és ellenőrzései részletes szabályait.
 
-(3) Felhatalmazást kap az államháztartásért felelős miniszter arra, hogy
-
-1. a számviteli elszámolásokra vonatkozó szabályozás megváltozása esetén a beszámoló készítés és a könyvvezetés sajátos feladatait, az áttérés lebonyolításával kapcsolatos könyvviteli feladatokat, valamint az (1) bekezdés 33. és 34. pontjának felhatalmazása alapján kiadott kormányrendeletben meghatározott előírások alapján az államháztartásban felmerülő egyes gyakoribb gazdasági események kötelező elszámolási módját,
-
-2. a költségvetési szervek vezetői és gazdasági vezetői továbbképzésének részletes szabályait,
-
-3. az 57–60. § szerinti felülvizsgálatok részletes módszereit,
-
-4. a belső ellenőrzési tevékenység folytatásának részletes feltételeit, az e tevékenységre jogosító engedély kiadásának rendjét, az engedéllyel rendelkezőkről vezetett nyilvántartás személyes adatot nem tartalmazó adattartalmát, a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a belső ellenőrzési tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket, a kötelező szakmai továbbképzés és a kapcsolódó vizsgáztatás szabályait, továbbá a nyilvántartásba vétel iránti eljárásért, valamint a nyilvántartásba bejegyzett adatok módosítása vagy törlése iránti eljárásért fizetendő igazgatási szolgáltatási díj szabályait,
-
-5.
-
-6. a szakfeladatrendet, a szakfeladatok tartalmi meghatározását, azok mutatószámait és az államháztartás szakágazati rendjét,
-
-7. a 103. § (3) bekezdése szerinti adminisztratív osztályozás alapjául szolgáló államháztartási egyedi azonosítók alkalmazásának rendjét, és
-
-8. a kötelező gépjármű-felelősségbiztosítás 1991. július 1. előtti rendszeréből származó állami kötelezettségek teljesítésének feltételeit, módját, részletes eljárási szabályait, a járadékok emelésének mértékét, valamint a költségvetési szervek vagyonbiztosítása alapján az 1971. január 1. napja előtt gépjárművel okozott káreseményekkel összefüggésben a központi költségvetést terhelő keresetpótló baleseti, illetve költségpótló baleseti kártérítési járadékok folyósításával kapcsolatos kötelezettségek feltételeit, módját, részletes eljárási szabályait, a járadékok emelésének mértékét
-
-rendeletben szabályozza.
-
-(4) Felhatalmazást kap a foglalkoztatáspolitikáért felelős miniszter, hogy rendeletben megállapítsa a rendezett munkaügyi kapcsolatok feltételeit, a feltételek igazolásának módját és általános eljárási szabályait.
-
-(5) Felhatalmazást kap a Kormány tagja, hogy – a központi költségvetésről szóló törvény uniós fejlesztések fejezet tekintetében abban az esetben, ha annak meghatározására más nem kapott felhatalmazást – az államháztartásért felelős miniszter egyetértésével kiadott rendeletben – a költségvetési évre tekintet nélkül – állapítsa meg az általa irányított fejezetbe sorolt fejezeti kezelésű előirányzatok felhasználásával kapcsolatosan a támogatási igények benyújtásának, elbírálásának, a pályázatok lebonyolításának, a beszámolásnak, a visszakövetelésnek és a felhasználás ellenőrzésének szabályait, továbbá fejezeti kezelésű előirányzatonként
+(2a) Felhatalmazást kap a Kormány, hogy – a költségvetési évre tekintet nélkül – rendeletben állapítsa meg a központi költségvetésről szóló törvény uniós fejlesztések fejezetébe sorolt fejezeti kezelésű előirányzatok felhasználásával kapcsolatosan a támogatási igények benyújtásának, elbírálásának, a pályázatok lebonyolításának, a beszámolásnak, a visszakövetelésnek és a felhasználás ellenőrzésének szabályait, továbbá fejezeti kezelésű előirányzatonként
 
 a) a fejezeti kezelésű előirányzatok felhasználási célját,
 
@@ -140,7 +120,31 @@ cd) a kikötendő biztosítékokat, és
 
 d) a kezelő szerv esetleges kijelölését, a lebonyolító szerv igénybevételének lehetőségét.
 
-(5a) Felhatalmazást kap a helyi önkormányzatokért felelős miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben rendeletben megállapítsa a központi költségvetés 14. § (3) bekezdése szerinti fejezetébe tartozó olyan központi kezelésű előirányzat terhére nyújtott költségvetési támogatás
+(3) Felhatalmazást kap az államháztartásért felelős miniszter arra, hogy
+
+1. a számviteli elszámolásokra vonatkozó szabályozás megváltozása esetén a beszámoló készítés és a könyvvezetés sajátos feladatait, az áttérés lebonyolításával kapcsolatos könyvviteli feladatokat, valamint az (1) bekezdés 33. és 34. pontjának felhatalmazása alapján kiadott kormányrendeletben meghatározott előírások alapján az államháztartásban felmerülő egyes gyakoribb gazdasági események kötelező elszámolási módját, ha az (1) bekezdés 28. pontjának felhatalmazása alapján kiadott kormányrendelet eltérő elszámolási módot nem állapít meg,
+
+2. a költségvetési szervek vezetői és gazdasági vezetői továbbképzésének részletes szabályait,
+
+3. az 57–60. § szerinti felülvizsgálatok részletes módszereit,
+
+4. a belső ellenőrzési tevékenység folytatásának részletes feltételeit, az e tevékenységre jogosító engedély kiadásának rendjét, az engedéllyel rendelkezőkről vezetett nyilvántartás személyes adatot nem tartalmazó adattartalmát, a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a belső ellenőrzési tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket, a kötelező szakmai továbbképzés és a kapcsolódó vizsgáztatás szabályait, továbbá a nyilvántartásba vétel iránti eljárásért, valamint a nyilvántartásba bejegyzett adatok módosítása vagy törlése iránti eljárásért fizetendő igazgatási szolgáltatási díj szabályait,
+
+5.
+
+6. a bevételek és kiadások kormányzati funkciók szerinti besorolásának szabályait, a szakfeladatrendet, a szakfeladatok tartalmi meghatározását és azok mutatószámait,
+
+7. a 103. § (3) bekezdése szerinti adminisztratív osztályozás alapjául szolgáló államháztartási egyedi azonosítók alkalmazásának rendjét, és
+
+8. a kötelező gépjármű-felelősségbiztosítás 1991. július 1. előtti rendszeréből származó állami kötelezettségek teljesítésének feltételeit, módját, részletes eljárási szabályait, a járadékok emelésének mértékét, valamint a költségvetési szervek vagyonbiztosítása alapján az 1971. január 1. napja előtt gépjárművel okozott káreseményekkel összefüggésben a központi költségvetést terhelő keresetpótló baleseti, illetve költségpótló baleseti kártérítési járadékok folyósításával kapcsolatos kötelezettségek feltételeit, módját, részletes eljárási szabályait, a járadékok emelésének mértékét
+
+rendeletben szabályozza.
+
+(4) Felhatalmazást kap a foglalkoztatáspolitikáért felelős miniszter, hogy rendeletben megállapítsa a rendezett munkaügyi kapcsolatok feltételeit, a feltételek igazolásának módját és általános eljárási szabályait.
+
+(5) Felhatalmazást kap a Kormány tagja, hogy az általa irányított fejezetbe sorolt fejezeti kezelésű előirányzatok felhasználásának a (2a) bekezdés szerinti szabályait – a költségvetési évre tekintet nélkül – az államháztartásért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg.
+
+(5a) Felhatalmazást kap a helyi önkormányzatokért felelős miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben rendeletben megállapítsa a központi költségvetés 14. § (3) bekezdése szerinti fejezetébe tartozó olyan központi kezelésű előirányzat terhére nyújtott, normatív szabályozást igénylő költségvetési támogatás
 
 a) felhasználási célját és lehetséges kedvezményezettjei körét, továbbá
 

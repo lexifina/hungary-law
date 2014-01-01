@@ -1,4 +1,4 @@
-100. § (1) A fejezeti kezelésű előirányzatok, az elkülönített állami pénzalapok és a társadalombiztosítás pénzügyi alapjai javára elszámolandó, a kötelezett által nem teljesített befizetéseken alapuló követelések fejében gazdasági társaságban való érdekeltséget megtestesítő részvényt vagy üzletrészt, továbbá egyéb vagyontárgyakat elfogadni csak abban az esetben és mértékben lehet, ha a pénzbeli teljesítés nem vagy csak részben lehetséges.
+100. § (1) A fejezeti kezelésű előirányzatok, az elkülönített állami pénzalapok és a társadalombiztosítás pénzügyi alapjai javára elszámolandó, a kötelezett által nem teljesített befizetéseken alapuló követelések fejében gazdasági társaságban való érdekeltséget megtestesítő részvényt vagy üzletrészt, továbbá egyéb vagyont elfogadni csak abban az esetben és mértékben lehet, ha a pénzbeli teljesítés nem vagy csak részben lehetséges.
 
 (2) Az (1) bekezdés szerinti vagyont az MNV Zrt. részére készpénzes értékesítésre vagy az értékesítésig további hasznosításra át kell adni. A vagyon átadója és az MNV Zrt. az átadáskor megállapodásban rendelkezik a vagyon értékesítése, hasznosítása során felmerülő költségekről.
 

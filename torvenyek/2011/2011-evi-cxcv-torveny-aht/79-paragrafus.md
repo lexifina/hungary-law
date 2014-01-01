@@ -30,7 +30,7 @@ k) a Nemzeti Üdülési Szolgálat
 
 (3) A kincstári körön kívüli számlatulajdonosok – a Médiaszolgáltatás-támogató és Vagyonkezelő Alap kivételével – hitelintézetnél forintban vezetett fizetési számlával – az általuk foglalkoztatott személyek lakásépítésének, lakásvásárlásának munkáltatói támogatására szolgáló számla kivételével – nem rendelkezhetnek. A kincstári körön kívüli számlatulajdonosok – a megyei önkormányzatok önkormányzati hivatalai kivételével – átmenetileg szabad pénzeszközeiket a kincstár által értékesített, értékpapírszámlán, értékpapír-letéti számlán nyilvántartott állampapírok vásárlásával hasznosíthatják.
 
-(4) A kincstár vezeti a helyi önkormányzat megbízása esetén a helyi önkormányzat és költségvetési szervei, a nemzetiségi önkormányzat megbízása esetén a nemzetiségi önkormányzat és költségvetési szervei, valamint a társulás megbízása esetén a társulás és költségvetési szervei fizetési számláját.
+(4) A kincstár vezeti a helyi önkormányzat megbízása esetén a helyi önkormányzat és költségvetési szervei, a nemzetiségi önkormányzat megbízása esetén a nemzetiségi önkormányzat és költségvetési szervei, a társulás megbízása esetén a társulás és költségvetési szervei, valamint az (1) bekezdésben meghatározotton kívüli, más köztestület megbízása esetén a köztestület fizetési számláját.
 
 (4a) A kincstár a bevett egyház megbízása esetén a bevett egyház számára fizetési számlát vezet.
 

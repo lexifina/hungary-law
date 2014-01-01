@@ -4,7 +4,7 @@
 
 (2) A költségvetési szerv vezetője – helyettesítés kivételével – más költségvetési szervnél nem lehet vezető.
 
-(3) A költségvetési szerv gazdálkodási besorolása szerint önállóan működő vagy önállóan működő és gazdálkodó költségvetési szerv.
+(3)
 
 (4) A Kormány rendeletében meghatározott költségvetési szerv gazdasági szervezettel rendelkezik. A gazdasági szervezetet a Kormány rendeletében meghatározott képesítéssel rendelkező gazdasági vezető irányítja.
 

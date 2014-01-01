@@ -16,7 +16,7 @@
 
 (8)
 
-(9) A VI. fejezet szabályait az e törvény hatálybalépését követően benyújtott támogatási igényekre, pályázati úton biztosított költségvetési támogatás esetén az e törvény hatálybalépését követően megjelentetett pályázati kiírásokra, és az azok alapján nyújtott költségvetési támogatásokra kell először alkalmazni.
+(9) A VI. Fejezetet a 2012. január 1-jén vagy azt követően benyújtott támogatási igényekre, pályázati úton biztosított költségvetési támogatás esetén a 2012. január 1-jén vagy azt követően megjelentetett pályázati kiírásokra, valamint a 2012. január 1-jét megelőzően megjelentetett pályázati kiírások alapján 2014. január 1-jén vagy azt követően benyújtott pályázatokra és az azok alapján nyújtott költségvetési támogatásokra kell alkalmazni.
 
 (10)
 
@@ -49,3 +49,5 @@ b) a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvényben m
 (23) A helyi önkormányzat, a helyi nemzetiségi önkormányzat 2011. évben igénybevett hozzájárulásai, támogatásai elszámolásának 60. § szerinti felülvizsgálatára az e törvény 2012. december 31-én hatályos rendelkezéseit kell alkalmazni.
 
 (24) A helyi önkormányzat, helyi nemzetiségi önkormányzat 2012. évben igénybe vett hozzájárulásai, támogatásai elszámolásának 60. § szerinti felülvizsgálatára e törvény 2013. január 1-jén hatályos rendelkezéseit kell alkalmazni azzal, hogy a felülvizsgálat a helyi önkormányzat, helyi nemzetiségi önkormányzat általános működésének és ágazati feladatainak támogatásai helyett a normatív hozzájárulásaira, támogatásaira, illetve a települési önkormányzatok jövedelemkülönbségének mérséklését szolgáló támogatásra terjed ki.
+
+(25) A helyi nemzetiségi önkormányzat által 2013. évben a 14. § (3) bekezdése szerinti fejezetből igénybe vett támogatások elszámolására és kincstári felülvizsgálatára e törvény 2013. december 31-én hatályos 57/A. §-ában, 57/B. §-ában, 60. §-ában, 83. § (4)–(6) bekezdésében, 106. § (10) bekezdésében foglaltakat kell alkalmazni.
