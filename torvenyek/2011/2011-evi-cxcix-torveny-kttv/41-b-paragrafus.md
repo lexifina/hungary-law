@@ -1,0 +1,1 @@
+41/B. § Vezetői munkakör betöltésére irányuló pályázati eljárás esetén előnyben kell részesíteni azt a rendelkezési állományú katonát, aki a pályázati feltételeknek – ideértve a képesítési követelményeket is – teljes körűen megfelel.

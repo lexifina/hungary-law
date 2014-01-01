@@ -7,3 +7,5 @@ b) próbaidő kikötése nélkül.
 (2) Az (1) bekezdés a) pontjában meghatározott kétéves határidőbe nem számít be a harminc napot meghaladó fizetés nélküli szabadság, a keresőképtelenség, továbbá a harminc napot meghaladó hivatalos kiküldetés időtartama.
 
 (3) Ha a kormánytisztviselő az (1) bekezdés a) pontja szerinti képesítést határidőn belül nem szerzi meg, kormányzati szolgálati jogviszonya a törvény erejénél fogva megszűnik.
+
+(4) Ha a munkakör betöltéséhez szükséges képesítés megszerzésére irányuló képzés a kormányzati szolgálati jogviszony létesítésének időpontjához képest csak később indul, az (1) bekezdés a) pontja szerinti két évet a képzés indulásának időpontjától kell számítani.

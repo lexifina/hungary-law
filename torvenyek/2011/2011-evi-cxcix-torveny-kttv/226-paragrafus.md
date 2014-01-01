@@ -22,9 +22,11 @@ a) a 8. § (4) bekezdésében meghatározott 10%-os létszámkorlát,
 
 b) a Magyar Kormánytisztviselői Karra vonatkozó rendelkezések (28–35. §),
 
-c) a kormányzati érdekből történő kirendelés (55. §),
+c) a rendelkezési állományú katona továbbfoglalkoztatására vonatkozó rendelkezések (41/A–B. §)
 
-d) a jogvitára, valamint a Kormánytisztviselői Döntőbizottságra vonatkozó rendelkezések (190–191. §)
+d) a kormányzati érdekből történő kirendelés (55. §),
+
+e) a jogvitára, valamint a Kormánytisztviselői Döntőbizottságra vonatkozó rendelkezések (190–191. §)
 
 nem alkalmazható(k).
 
@@ -33,3 +35,5 @@ nem alkalmazható(k).
 (5) A 142. § azzal az eltéréssel alkalmazandó, hogy a közszolgálati jogviszonyban munkaköri pótlék nem állapítható meg.
 
 (6) Az Országgyűlés Hivatalánál és az Országgyűlési Őrségnél a 142. § azzal az eltéréssel alkalmazandó, hogy az Országgyűlés Hivatalának vezetője és az Országgyűlési Őrség parancsnoka az Országgyűlés elnöke által meghatározott rendben állapíthat meg képzettségi, munkaköri pótlékot.
+
+(7) A képviselő-testület hivatalánál foglalkoztatott köztisztviselő részére a 143. § (2) bekezdése szerinti bankszámla-hozzájárulás a helyi önkormányzat képviselő-testületének rendeletében meghatározott módon és mértékben nyújtható.

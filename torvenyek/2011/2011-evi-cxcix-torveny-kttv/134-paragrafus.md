@@ -26,9 +26,11 @@
 
 13. – azok belső igazgatási szervei kivételével – az egészségügyről szóló törvény szerinti egészségbiztosítási szerv központi szervénél és a Nyugdíjbiztosítási Alap kezeléséért felelős központi hivatalnál,
 
-14. a fejlesztéspolitikáért felelős miniszter irányítása alatt álló, az európai uniós támogatások igénybevételében közreműködő központi hivatalnál,
+14.
 
-15. a kormányzati tevékenység összehangolásáért felelős miniszter irányítása alatt álló, a kormányzással és közigazgatással kapcsolatos kutatásokat folytatató központi hivatalnál
+15. a kormányzati tevékenység összehangolásáért felelős miniszter irányítása alatt álló, a kormányzással és közigazgatással kapcsolatos kutatásokat folytatató központi hivatalnál,
+
+16. honvédelemért felelős miniszter irányítása alatt álló, a honvédelmi igazgatás központi döntés-előkészítő és végrehajtás-koordináló szakmai szervénél, valamint a honvédelmi ágazat országos illetékességű integrált katonai hatóságánál
 
 foglalkoztatott felsőfokú iskolai végzettségű kormánytisztviselő esetében az alapilletményének 50%-a, középiskolai végzettségű kormánytisztviselő esetében az alapilletményének 15%-a.
 

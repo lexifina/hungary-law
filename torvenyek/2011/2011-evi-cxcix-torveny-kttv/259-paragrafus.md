@@ -16,6 +16,8 @@ d) a tartalékállományba helyezésre, a tartalékállomány működtetésére,
 
 e) a kormánytisztviselői kártyára
 
+f) a rendelkezési állományú katona részére történő munkakör felajánlásra
+
 vonatkozó részletes szabályokat;
 
 2. a Kormány által alapított ösztöndíjra vonatkozó részletes szabályokat megállapítsa;

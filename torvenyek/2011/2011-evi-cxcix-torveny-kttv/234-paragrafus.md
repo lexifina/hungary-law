@@ -2,7 +2,7 @@
 
 ## Illetménykiegészítés
 
-234. § (1) Törvény eltérő rendelkezése hiányában a Gazdasági Versenyhivatalnál, a Nemzeti Adatvédelmi és Információszabadság Hatóságnál, a Magyar Energetikai és Közmű-szabályozási Hivatalnál, a Magyar Tudományos Akadémia Titkárságánál, a Magyar Művészeti Akadémia Titkárságánál, a Közbeszerzési Hatóságnál, az Állambiztonsági Szolgálatok Történeti Levéltáránál az illetménykiegészítés mértéke a felsőfokú iskolai végzettségű köztisztviselő esetében az alapilletményének 50%-a, középiskolai végzettségű köztisztviselő esetében az alapilletményének 15%-a.
+234. § (1) Törvény eltérő rendelkezése hiányában a Gazdasági Versenyhivatalnál, a Nemzeti Adatvédelmi és Információszabadság Hatóságnál, a Magyar Energetikai és Közmű-szabályozási Hivatalnál, a Magyar Tudományos Akadémia Titkárságánál, a Magyar Művészeti Akadémia Titkárságánál, a Közbeszerzési Hatóságnál, az Állambiztonsági Szolgálatok Történeti Levéltáránál és a Nemzeti Emlékezet Bizottságának Hivatalánál az illetménykiegészítés mértéke a felsőfokú iskolai végzettségű köztisztviselő esetében az alapilletményének 50%-a, középiskolai végzettségű köztisztviselő esetében az alapilletményének 15%-a.
 
 (2) Az Országgyűlés Hivatalánál, a Köztársasági Elnöki Hivatalnál, az Alkotmánybíróság Hivatalánál, az Alapvető Jogok Biztosának Hivatalában, az Állami Számvevőszéknél, a Nemzeti Választási Irodánál és a Nemzeti Média- és Hírközlési Hatóságnál, valamint az Országgyűlési Őrségnél az illetménykiegészítés mértéke a felsőfokú iskolai végzettségű köztisztviselő esetében az alapilletményének 80%-a, a középiskolai végzettségű köztisztviselő esetében az alapilletményének 35%-a.
 

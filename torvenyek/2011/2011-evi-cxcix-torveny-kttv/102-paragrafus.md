@@ -14,4 +14,12 @@ munkanap pótszabadság jár.
 
 (4) Az apának gyermeke születése esetén, legkésőbb a születést követő második hónap végéig, öt, ikergyermekek születése esetén hét munkanap pótszabadság jár, amelyet kérésének megfelelő időpontban kell kiadni. A szabadság akkor is jár, ha a gyermek halva születik vagy meghal.
 
-(5) A kormánytisztviselőnek, ha a rehabilitációs szakértői szerv legalább ötven százalékos mértékű egészségkárosodását megállapította, évenként öt munkanap pótszabadság jár.
+(5) A kormánytisztviselőnek, ha
+
+a) a rehabilitációs szakértői szerv legalább ötven százalékos mértékű egészségkárosodását megállapította,
+
+b) fogyatékossági támogatásra jogosult, vagy
+
+c) vakok személyi járadékára jogosult,
+
+évenként öt munkanap pótszabadság jár.

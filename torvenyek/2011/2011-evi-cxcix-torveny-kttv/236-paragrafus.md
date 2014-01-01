@@ -31,3 +31,5 @@ c) 10 000 feletti lakosú településen, valamint a megyei jogú városi önkorm
 (6) A (4) bekezdés a) pont és az (5) bekezdés alkalmazása során a költségvetési törvényben meghatározott normatív támogatásoknál figyelembe vett lakosságszám az irányadó. A lakosságszámtól függő illetményelemek változását a tárgyév január 1-jétől kell érvényesíteni.
 
 (7) A (6) bekezdés alkalmazása során a köztisztviselő illetménye csökkenhet is.
+
+(8) A Nemzeti Emlékezet Bizottságának Hivatala főigazgatója főosztályvezetői illetményre jogosult azzal, hogy alapilletménye az illetményalap 9,5-szerese, a közszolgálati tisztviselőkről szóló törvényben meghatározott juttatásán felüli egyéb juttatásait a Nemzeti Emlékezet Bizottságának elnöke szabályzatban állapítja meg.
