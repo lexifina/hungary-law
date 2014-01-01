@@ -1,5 +1,5 @@
 ## végrehajtásához szükséges rendelkezéseket állapítja meg.
 
-10. §[^1]
+10. §[^6]
 
-[^1]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
