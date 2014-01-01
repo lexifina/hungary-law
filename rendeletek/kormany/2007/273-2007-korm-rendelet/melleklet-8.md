@@ -20,11 +20,11 @@
 
 ## af) biomasszából közvetve vagy közvetlenül előállított energiaforrás,
 
-## ag)[^392] biogáz,
+## ag)[^394] biogáz,
 
-## ah)[^393] hulladéklerakóból származó gáz,
+## ah)[^395] hulladéklerakóból származó gáz,
 
-## ai)[^394] szennyvízkezelő létesítményből származó gáz;
+## ai)[^396] szennyvízkezelő létesítményből származó gáz;
 
 ## b) hulladékból nyert energia
 
@@ -54,13 +54,13 @@
 
 ## ea) földgáz (megszakítható vagy folyamatos),
 
-## eb)[^395] mesterséges gáznemű tüzelőanyagok (szénlepárlással vagy elgázosítással előállított);
+## eb)[^397] mesterséges gáznemű tüzelőanyagok (szénlepárlással vagy elgázosítással előállított);
 
 ## f) nukleáris fűtőanyag.
 
 8. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez
 
-Az 50 MW vagy azt meghaladó névleges teljesítőképességű erőmű villamosenergia-termelés szüneteltetésére vonatkozó engedély iránti kéreleméhez benyújtandó dokumentumok[^396]
+Az 50 MW vagy azt meghaladó névleges teljesítőképességű erőmű villamosenergia-termelés szüneteltetésére vonatkozó engedély iránti kéreleméhez benyújtandó dokumentumok[^398]
 
 1. Az engedély száma, lejártának dátuma (erőmű maradék élettartama),
 
@@ -86,8 +86,8 @@ Az 50 MW vagy azt meghaladó névleges teljesítőképességű erőmű villamose
 
 – Megállapítások, következtetések.
 
-[^392]: A Vhr. 7. számú melléklet a) pont ag) alpontja a 378/2011. (XII. 31.) Korm. rendelet 31. § (7) bekezdésével megállapított szöveg.
-[^393]: A Vhr. 7. számú melléklet a) pont ah) alpontját a 378/2011. (XII. 31.) Korm. rendelet 31. § (7) bekezdése iktatta be.
-[^394]: A Vhr. 7. számú melléklet a) pont ai) alpontját a 378/2011. (XII. 31.) Korm. rendelet 31. § (7) bekezdése iktatta be.
-[^395]: [A Vhr. 7. számú melléklet e) pont ec) alpontjának a 378/2011. (XII. 31.) Korm. rendelet 31. § (7) bekezdésével beiktatott, a 85. § (3) bekezdése alapján az Európai Bizottság jóváhagyó határozatának meghozatalát követő 10. munkanaptól hatályos szövege: „ec) termálvíz kísérőgáz;.]
-[^396]: A Vhr. 8. számú melléklet címe a 378/2011. (XII. 31.) Korm. rendelet 32. § (8) bekezdése szerint módosított szöveg.
+[^394]: A Vhr. 7. számú melléklet a) pont ag) alpontja a 378/2011. (XII. 31.) Korm. rendelet 31. § (7) bekezdésével megállapított szöveg.
+[^395]: A Vhr. 7. számú melléklet a) pont ah) alpontját a 378/2011. (XII. 31.) Korm. rendelet 31. § (7) bekezdése iktatta be.
+[^396]: A Vhr. 7. számú melléklet a) pont ai) alpontját a 378/2011. (XII. 31.) Korm. rendelet 31. § (7) bekezdése iktatta be.
+[^397]: [A Vhr. 7. számú melléklet e) pont ec) alpontjának a 378/2011. (XII. 31.) Korm. rendelet 31. § (7) bekezdésével beiktatott, a 85. § (3) bekezdése alapján az Európai Bizottság jóváhagyó határozatának meghozatalát követő 10. munkanaptól hatályos szövege: „ec) termálvíz kísérőgáz;.]
+[^398]: A Vhr. 8. számú melléklet címe a 378/2011. (XII. 31.) Korm. rendelet 32. § (8) bekezdése szerint módosított szöveg.
