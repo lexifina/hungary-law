@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-71-20-8
 | --- | --- | --- |
 | 2008-06-08 | 2008-71-20-82.3 | 71/2008. (VI. 3.) FVM rendelet |
 | 2013-12-31 | 2008-71-20-82.4 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2014-01-01 | 2008-71-20-82.5 | 88/2016. (XII. 29.) FM rendelet |
