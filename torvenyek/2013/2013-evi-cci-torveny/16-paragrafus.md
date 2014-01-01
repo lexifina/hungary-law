@@ -1,0 +1,3 @@
+16. § A Tpvt. 34. §-a helyébe a következő rendelkezés lép:
+
+„34. § A Gazdasági Versenyhivatal elnökének, elnökhelyetteseinek, valamint a Versenytanács tagjainak a jogviszonyára – az e törvényben foglalt eltérésekkel – a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény (a továbbiakban: Kttv.) rendelkezéseit kell alkalmazni.”

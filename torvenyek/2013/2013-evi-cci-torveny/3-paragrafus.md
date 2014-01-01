@@ -1,0 +1,3 @@
+3. § A Tpvt. 6. §-a helyébe a következő rendelkezés lép:
+
+„6. § Tilos valamely forgalomképes ingó dolgot (a továbbiakban: termék) vagy szolgáltatást a versenytárs hozzájárulása nélkül olyan jellegzetes külsővel, csomagolással, megjelöléssel – ideértve az eredetmegjelölést is – vagy elnevezéssel előállítani, forgalmazni vagy reklámozni, továbbá olyan nevet, árujelzőt vagy egyéb megjelölést használni, amelyről a versenytársat, illetve annak termékét, szolgáltatását szokták felismerni.”
