@@ -44,13 +44,13 @@ c) a b) pontjában rögzített feladatot a miniszter az államháztartásért fe
 
 d) a c) pontjában megállapított feladatot – feladatkörében – a miniszter, a külpolitikáért felelős miniszter és az egészségügyért felelős miniszter,
 
-e) a d) pontjában rögzített feladatot a miniszter a külpolitikáért felelős miniszterrel, a külgazdaságért és a Kárpát-medencei Gazdasági Övezet gazdaságfejlesztéséért felelős miniszterrel és a fejlesztéspolitikáért felelős miniszterrel egyetértésben,
+e) a d) pontjában rögzített feladatot a miniszter a külpolitikáért felelős miniszterrel, valamint a külgazdaságért és a Kárpát-medencei Gazdasági Övezet gazdaságfejlesztéséért felelős miniszterrel egyetértésben,
 
 f)
 
-g) az i) pontjában rögzített feladatot a miniszter a fejlesztéspolitikáért felelős miniszterrel, a gazdaságpolitikáért felelős miniszterrel és az államháztartásért felelős miniszterrel, a határkikötők tekintetében a határrendészetért felelős miniszterrel is együttesen,
+g) az i) pontjában rögzített feladatot a miniszter a gazdaságpolitikáért felelős miniszterrel és az államháztartásért felelős miniszterrel, a határkikötők tekintetében a határrendészetért felelős miniszterrel is együttesen,
 
-h) a j) pontjában rögzített feladatot a miniszter a fejlesztéspolitikáért felelős miniszterrel, a gazdaságpolitikáért felelős miniszterrel és az államháztartásért felelős miniszterrel együttesen,
+h) a j) pontjában rögzített feladatot a miniszter a Kormány európai uniós források felhasználásáért felelős tagjával, a gazdaságpolitikáért felelős miniszterrel és az államháztartásért felelős miniszterrel együttesen,
 
 i) a k) pontjában rögzített feladatot a honvédelemért felelős miniszter a katasztrófák elleni védekezésért felelős miniszterrel együttesen, a miniszterrel és a gazdaságpolitikáért felelős miniszterrel egyetértésben,
 
