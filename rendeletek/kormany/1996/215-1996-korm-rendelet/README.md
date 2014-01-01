@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1996-215-20-
 | 2011-01-01 | 1996-215-20-22.8 | 349/2010. (XII. 28.) Korm. rendelet |
 | 2012-11-10 | 1996-215-20-22.9 | 254/2012. (IX. 11.) Korm. rendelet |
 | 2013-01-01 | 1996-215-20-22.10 | 254/2012. (IX. 11.) Korm. rendelet |
+| 2014-01-01 | 1996-215-20-22.11 | 537/2013. (XII. 30.) Korm. rendelet |
