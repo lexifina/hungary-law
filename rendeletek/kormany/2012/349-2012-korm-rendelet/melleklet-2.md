@@ -164,7 +164,7 @@
 
 ## 1. Az átadási kötelezettség a teljes projektállomány dokumentációjára vonatkozik, figyelemmel a lezárt, valamint a fenntartási időszakban lévő projektekre is.
 
-## 2. A projektek átadás-átvétele, valamint a jogutódlás átvezetése során Felek a vonatkozó hatályos jogszabályok, miniszteri utasítások, valamint a Nemzeti Fejlesztési Ügynökség által készített eljárásrend szerint járnak el.
+## 2. A projektek átadás-átvétele, valamint a jogutódlás átvezetése során Felek a vonatkozó hatályos jogszabályok, miniszteri utasítások, valamint a feladatkörében érintett irányító hatóság által készített eljárásrend szerint járnak el.
 
 ## IV.
 
