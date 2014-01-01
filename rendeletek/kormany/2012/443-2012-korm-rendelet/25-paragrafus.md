@@ -2,11 +2,11 @@
 
 ## 14. Jogkövetkezmények
 
-25. § (1) Ha a gyártó és az átvevő között létrejött megállapodás alapján a gyártó, az átvevő a tárgyévi átvételi és gyűjtési kötelezettséggel érintett hulladékmennyiséget nem igazolja, az átvételi, gyűjtési, hasznosítási és ártalmatlanítási kötelezettségét nem teljesíti, az OKTVF a kötelezettséggel érintett hulladék kezeléséről a gyártó vagy az átvevő által nyújtott biztosíték terhére, az arra feljogosított hulladékkezelő útján gondoskodik.
+25. § (1)[^28] Ha a gyártó és az átvevő között létrejött megállapodás alapján a gyártó, az átvevő a tárgyévi átvételi és gyűjtési kötelezettséggel érintett hulladékmennyiséget nem igazolja, az átvételi, gyűjtési, hasznosítási és ártalmatlanítási kötelezettségét nem teljesíti, az OKTF a kötelezettséggel érintett hulladék kezeléséről a gyártó vagy az átvevő által nyújtott biztosíték terhére, az arra feljogosított hulladékkezelő útján gondoskodik.
 
-(2) Ha a gyártó és a közvetítő szervezet az e rendelet szerinti kötelezettségét nem teljesíti, az OKTVF a hulladékgazdálkodási bírság mértékéről, valamint kiszabásának és megállapításának módjáról szóló kormányrendeletben (a továbbiakban: Hbr.) meghatározott mértékű hulladékgazdálkodási bírságot szab ki.
+(2)[^29] Ha a gyártó és a közvetítő szervezet az e rendelet szerinti kötelezettségét nem teljesíti, az OKTF a hulladékgazdálkodási bírság mértékéről, valamint kiszabásának és megállapításának módjáról szóló kormányrendeletben (a továbbiakban: Hbr.) meghatározott mértékű hulladékgazdálkodási bírságot szab ki.
 
-(3) Az OKTVF a kötelezettet a Hbr.-ben megállapított hulladékgazdálkodási bírság megfizetésére
+(3)[^30] Az OKTF a kötelezettet a Hbr.-ben megállapított hulladékgazdálkodási bírság megfizetésére
 
 a) kötelezi, ha a nyilvántartási és adatszolgáltatási kötelezettségét nem teljesíti,
 
@@ -17,3 +17,7 @@ b) kötelezheti, ha a kötelezett nem az e rendeletben foglaltaknak megfelelő a
 (5) A (4) bekezdésben nem meghatározott, a gyártó, a forgalmazó számára a fogyasztókkal szembeni kötelezettséget megállapító rendelkezések megsértése esetén a fogyasztóvédelmi hatóság jár el, ha a jogsértés a fogyasztóvédelemről szóló 1997. évi CLV. törvény (a továbbiakban: Fgytv.) 2. § a) pontja értelmében vett fogyasztót érint. A fogyasztóvédelmi hatóság az Fgytv. szabályai szerint jár el.
 
 (6) A (4) és az (5) bekezdésben meghatározott rendelkezések az Fgytv. alkalmazásában fogyasztóvédelmi rendelkezések.
+
+[^28]: A 25. § (1) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 131. § c) pontja szerint módosított szöveg.
+[^29]: A 25. § (2) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 131. § c) pontja szerint módosított szöveg.
+[^30]: A 25. § (3) bekezdés nyitó szövegrésze az 527/2013. (XII. 30.) Korm. rendelet 131. § c) pontja szerint módosított szöveg.
