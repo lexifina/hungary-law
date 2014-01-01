@@ -1,14 +1,14 @@
-26/C. §[^179] (1) A program lehet:
+26/C. §[^164] (1) A program lehet:
 
-a) központi munkaerő-piaci program,
+a)[^165] központi munkaerő-piaci program,
 
 b) regionális munkaerő-piaci program,
 
-c)[^180] megyei munkaerőpiaci program.
+c)[^166] megyei munkaerőpiaci program.
 
-(2)[^181] A munkaerőpiaci program indításáról
+(2)[^167] A munkaerőpiaci program indításáról
 
-a) központi munkaerőpiaci program esetében – a MAT véleményének kikérését követően – a Nemzetgazdasági Minisztérium,
+a) központi munkaerőpiaci program esetében a Nemzetgazdasági Minisztérium,
 
 b) regionális munkaerőpiaci program esetében az érintett munkaügyi központok vezetőinek javaslatára a Nemzetgazdasági Minisztérium,
 
@@ -16,11 +16,12 @@ c) a megyei munkaerőpiaci program esetében az érintett munkaügyi központ ve
 
 ## dönt.
 
-(3)[^182] A Nemzetgazdasági Minisztérium, a munkaügyi központ csatlakozhat más szerv által indított, a munkaerő-piacot befolyásoló programhoz.
+(3)[^168] A Nemzetgazdasági Minisztérium, a munkaügyi központ csatlakozhat más szerv által indított, a munkaerő-piacot befolyásoló programhoz.
 
 (4) Az Flt. és e rendelet szabályai az irányadók a (3) bekezdésben meghatározott programok esetében is.
 
-[^179]: A 26/C. §-t a 4/2000. (IV. 12.) SZCSM rendelet 17. §-a iktatta be, szövege a 3/2007. (II. 9.) SZMM rendelet 14. §-ával megállapított szöveg. Ez utóbbi módosító rendelet 25. § (2) bekezdése alapján a rendelkezést a 2007. január 1. napját követően benyújtott kérelmek elbírálására megfelelően alkalmazni kell.
-[^180]: A 26/C. § (1) bekezdés c) pontját a 27/2010. (XII. 31.) NGM rendelet 8. § (5) bekezdése iktatta be.
-[^181]: A 26/C. § (2) bekezdése a 27/2010. (XII. 31.) NGM rendelet 8. § (6) bekezdésével megállapított szöveg.
-[^182]: A 26/C. § (3) bekezdése a 27/2010. (XII. 31.) Korm. rendelet 8. § (3) bekezdése szerint módosított szöveg.
+[^164]: A 26/C. §-t a 4/2000. (IV. 12.) SZCSM rendelet 17. §-a iktatta be, szövege a 3/2007. (II. 9.) SZMM rendelet 14. §-ával megállapított szöveg. Ez utóbbi módosító rendelet 25. § (2) bekezdése alapján a rendelkezést a 2007. január 1. napját követően benyújtott kérelmek elbírálására megfelelően alkalmazni kell.
+[^165]: A 26/C. § (2) bekezdés a) pontja a 66/2013. (XII. 23.) NGM rendelet 16. § i) pontja szerint módosított szöveg.
+[^166]: A 26/C. § (1) bekezdés c) pontját a 27/2010. (XII. 31.) NGM rendelet 8. § (5) bekezdése iktatta be.
+[^167]: A 26/C. § (2) bekezdése a 27/2010. (XII. 31.) NGM rendelet 8. § (6) bekezdésével megállapított szöveg.
+[^168]: A 26/C. § (3) bekezdése a 27/2010. (XII. 31.) Korm. rendelet 8. § (3) bekezdése szerint módosított szöveg.

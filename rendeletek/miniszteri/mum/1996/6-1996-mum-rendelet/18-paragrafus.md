@@ -18,7 +18,7 @@ d) kötelezettséget vállal arra, hogy
 
 da) a támogatási igényben megjelölt összegnél kevesebb támogatás megállapítása esetén a megvalósításhoz szükséges pénzügyi fedezet különbözetét pótolja, vagy a beruházás megvalósítására vonatkozó tervét a rendelkezésre álló összegek figyelembevételével átdolgozza,
 
-db)[^90] a beruházást a támogatási igényt elbíráló szerv által a kedvezményezett részére adott írásbeli tájékoztatást követően kezdi meg. Az írásbeli tájékoztatást a támogatási igényt elbíráló szerv akkor adja ki a pályázat, kérelem benyújtását követő 30 napon belül, ha a támogatási igény megfelel a jogszabályi feltételeknek, azaz a – további részletes vizsgálat tárgyát képező – pályázat, illetve kérelem megfelel a jelen rendeletben, valamint a pályázati felhívásban meghatározott jogosultsági feltételeknek,
+db)[^90] a beruházást a támogatási igény benyújtását követően kezdi meg,
 
 dc) a beruházást annak megkezdésétől számított két éven belül befejezi,
 
@@ -36,35 +36,15 @@ c)[^92] annak, aki a Nemzeti Foglalkoztatási Alapból a b) pontban meghatározo
 
 d)[^93] annak, aki a beruházás helye szerinti munkaügyi központ illetékességi területén a pályázat benyújtását megelőző féléves időszakban az Mt. 71–76. §-a szerinti csoportos létszámcsökkentést hajtott végre,
 
-e)[^94] annak, aki a támogatási igénnyel érintett beruházást a 18. § (2) bekezdés d) pont db) alpontjában foglalt írásbeli tájékoztatást megelőzően megkezdte,
+e)[^94] annak, aki a támogatási igénnyel érintett beruházást a támogatási igény benyújtását megelőzően megkezdte,
 
 f) csőd-, felszámolási eljárás vagy végelszámolás alatt álló szervezetnek.
 
 (5)[^95] A támogatási intenzitás mértéke – beleértve a más államháztartási forrásokból kapott állami támogatásokat – nem haladhatja meg az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet [a továbbiakban: 37/2011. (III. 22.) Korm. rendelet] 25. §-ában meghatározott százalékos mértéket.
 
-(6)[^96] A támogatás pályázati eljárás alapján vagy az államháztartás működési rendjéről szóló Korm. rendelet szerint – a Nemzetgazdasági Minisztériumhoz benyújtott kérelem alapján – meghozott egyedi kormánydöntést követően vehető igénybe.
+(6)[^96] A támogatás pályázati eljárás alapján, vagy az Ávr. szerint – a foglalkoztatáspolitikáért felelős miniszter által vezetett minisztériumhoz benyújtott kérelem alapján – meghozott egyedi kormánydöntést követően vehető igénybe.
 
-(7) A pályázati felhívásnak tartalmaznia kell:
-
-a) a pályázat kiírásának célját,
-
-b) a pályázaton történő részvétel feltételeit,
-
-c) a pályázat keretében nyújtható támogatás forrását, formáját és mértékét,
-
-d) a pályázó részéről rendelkezésre álló saját anyagi erő, továbbá az anyagi biztosíték mértékét, formáját,
-
-e) azokat az előírásokat, amelyeket az államháztartás működési rendjéről szóló külön jogszabály a pályázat tartalmi követelményeként előír, valamint a szükséges mellékleteket,
-
-f) a beruházás és a foglalkoztatás megvalósulásának határidejét, időtartamát,
-
-g) a támogatás folyósításának részletes feltételeit tartalmazó szerződés megkötésének feltételeit és határidejét,
-
-h)[^97] a szerződésszegésnek minősülő magatartásokat és azok jogkövetkezményeit,
-
-i) a pályázat benyújtásának helyét és határidejét, a pályázatot elbíráló szerv megnevezését, a pályázat elbírálásának főbb szempontjait és határidejét, továbbá
-
-j) az elszámolható költségek körét.
+(7)[^97] A pályázati felhívás tartalmára az Ávr. 66. §-ában foglaltakat kell megfelelően alkalmazni.
 
 (8)[^98] A pályázati felhívást, illetőleg a pályázati úton nyújtott támogatás feltételeit a Nemzetgazdasági Minisztérium az internetes honlapján közzéteszi.
 
@@ -84,14 +64,14 @@ b) a pályázat elbírálásáról a munkaerő-piaci programot indító szerv d�
 [^87]: A 18. §-t megelőző alcímet az 1/2002. (I. 25.) GM rendelet 1. §-a iktatta a szövegbe.
 [^88]: A 18. §-t a 4/2000. (IV. 12.) SZCSM rendelet 20. §-ának (1) bekezdése hatályon kívül helyezte, újonnan az 1/2002. (I. 25.) GM rendelet 1. §-a iktatta be, szövege a 3/2007. (II. 9.) SZMM rendelet 7. §-ával megállapított szöveg. Ez utóbbi módosító rendelet 25. § (2) bekezdése alapján a rendelkezést a 2007. január 1-jét követően benyújtott kérelmek elbírálására megfelelően alkalmazni kell.
 [^89]: A 18. § (1) bekezdése a 3/2009. (II. 18.) SZMM rendelet 5. § (1) bekezdésével megállapított, a 17/2012. (VII. 5.) NGM rendelet 3. § (10) bekezdés b) pontja szerint módosított szöveg.
-[^90]: A 18. § (2) bekezdés d) pont db) alpontja a 3/2012. (II. 10.) NGM rendelet 3. § (5) bekezdésével megállapított szöveg.
+[^90]: A 18. § (2) bekezdés d) pont db) alpontja a 66/2013. (XII. 23.) NGM rendelet 5. § (1) bekezdésével megállapított szöveg.
 [^91]: A 18. § (4) bekezdés b) pontja a 3/2012. (II. 10.) NGM rendelet 3. § (6) bekezdésével megállapított szöveg.
 [^92]: A 18. § (4) bekezdés c) pontja a 3/2012. (II. 10.) NGM rendelet 3. § (7) bekezdésével megállapított szöveg.
 [^93]: A 18. § (4) bekezdés d) pontja a 27/2010. (XII. 31.) NGM rendelet 75. § c) pontja, a 17/2012. (VII. 5.) NGM rendelet 3. § (10) bekezdés c) pontja szerint módosított szöveg.
-[^94]: A 18. § (4) bekezdés e) pontja a 3/2012. (II. 10.) NGM rendelet 3. § (8) bekezdésével megállapított szöveg.
+[^94]: A 18. § (4) bekezdés e) pontja a 66/2013. (XII. 23.) NGM rendelet 5. § (2) bekezdésével megállapított szöveg.
 [^95]: A 18. § (5) bekezdése a 3/2012. (II. 10.) NGM rendelet 3. § (9) bekezdésével megállapított szöveg.
-[^96]: A 18. § (6) bekezdése a 3/2012. (II. 10.) NGM rendelet 3. § (10) bekezdésével megállapított szöveg.
-[^97]: A 18. § (7) bekezdés h) pontja a 3/2009. (II. 18.) SZMM rendelet 5. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 12. § (5) bekezdését.
+[^96]: A 18. § (6) bekezdése a 66/2013. (XII. 23.) NGM rendelet 5. § (3) bekezdésével megállapított szöveg.
+[^97]: A 18. § (7) bekezdése a 66/2013. (XII. 23.) NGM rendelet 5. § (4) bekezdésével megállapított szöveg.
 [^98]: A 18. § (8) bekezdése a 27/2010. (XII. 31.) Korm. rendelet 8. § (3) bekezdése szerint módosított szöveg.
 [^99]: A 18. § (9) bekezdése a 27/2010. (XII. 31.) Korm. rendelet 8. § (3) bekezdése szerint módosított szöveg.
 [^100]: A 18. § (10) bekezdését a 27/2010. (XII. 31.) NGM rendelet 75. § c) pontja hatályon kívül helyezte.

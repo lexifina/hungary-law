@@ -1,8 +1,8 @@
-## 22–26. §[^166]
+## 22–26. §[^149]
 
 ## Munkaerőpiaci programok támogatása
 
-26/A. §[^167] (1)[^168] Az Flt. 19/B. §-ában meghatározott program (a továbbiakban: program) magában foglalhatja az Flt. és végrehajtási szabályai által tartalmazott munkaerőpiaci szolgáltatásokat, valamint a Nemzeti Foglalkoztatási Alap foglalkoztatási és rehabilitációs alaprészéből nyújtható foglalkoztatást elősegítő támogatásokat.
+26/A. §[^150] (1)[^151] Az Flt. 19/B. §-ában meghatározott program (a továbbiakban: program) magában foglalhatja az Flt. és végrehajtási szabályai által tartalmazott munkaerőpiaci szolgáltatásokat, valamint a Nemzeti Foglalkoztatási Alap foglalkoztatási alaprészéből nyújtható foglalkoztatást elősegítő támogatásokat.
 
 (2) A program indítása előtt programtervet kell készíteni, amelyben meg kell határozni
 
@@ -32,17 +32,15 @@ i) a program teljes költségvetését, amely tartalmazza a programot alkotó mu
 
 (6) A program költségei közül
 
-a) a program elemét képező támogatásokat a foglalkoztatási, illetőleg a rehabilitációs alaprész terhére,
+a)[^152] a program elemét képező támogatásokat a foglalkoztatási, alaprész terhére,
 
-b)[^169] a kirendeltség által nyújtott munkaerőpiaci szolgáltatások, valamint a program működtetésének a munkaügyi központnál és kirendeltségnél felmerült költségeit – kivéve az Flt. 39. §-a (4) bekezdésében meghatározott költségeket – az intézményi költségvetés terhére,
+b)[^153] a kirendeltség által nyújtott munkaerőpiaci szolgáltatások, valamint a program működtetésének a munkaügyi központnál és kirendeltségnél felmerült költségeit – kivéve az Flt. 39. §-a (4) bekezdésében meghatározott költségeket – az intézményi költségvetés terhére,
 
-c) a program kidolgozásáért, illetőleg részben vagy egészben történő megvalósításáért támogatásban részesülőnél felmerült költségek megtérítését
+c)[^154] a program kidolgozásért, illetőleg részben vagy egészben történő megvalósításáért támogatásban részesülőnél felmerült költségek megtérítését a foglalkoztatási alaprész terhére
 
-ca) a rehabilitációs alaprész terhére indított központi program esetében a rehabilitációs alaprész központi kerete terhére,
-
-cb) egyéb esetben a foglalkoztatási alaprész terhére
-
-[^166]: A 22–26. §-t a 20/2005. (X. 27.) FMM rendelet 29. § (2) bekezdése hatályon kívül helyezte.
-[^167]: A 26/A. §-t és az előtte lévő alcímet a 4/2000. (IV. 12.) SZCSM rendelet 17. §-a iktatta a szövegbe.
-[^168]: A 26/A. § (1) bekezdése a 3/2012. (II. 10.) NGM rendelet 3. § (18) bekezdés e) pontja szerint módosított szöveg.
-[^169]: A 26/A. § (6) bekezdés b) pontja a 48/2012. (XII. 28.) NGM rendelet 4. § (3) bekezdés g) pontja szerint módosított szöveg.
+[^149]: A 22–26. §-t a 20/2005. (X. 27.) FMM rendelet 29. § (2) bekezdése hatályon kívül helyezte.
+[^150]: A 26/A. §-t és az előtte lévő alcímet a 4/2000. (IV. 12.) SZCSM rendelet 17. §-a iktatta a szövegbe.
+[^151]: A 26/A. § (1) bekezdése a 3/2012. (II. 10.) NGM rendelet 3. § (18) bekezdés e) pontja, a 66/2013. (XII. 23.) NGM rendelet 16. § g) pontja szerint módosított szöveg.
+[^152]: A 26/A. § (6) bekezdés a) pontja a 66/2013. (XII. 23.) NGM rendelet 16. § h) pontja szerint módosított szöveg.
+[^153]: A 26/A. § (6) bekezdés b) pontja a 48/2012. (XII. 28.) NGM rendelet 4. § (3) bekezdés g) pontja szerint módosított szöveg.
+[^154]: A 26/A. § (6) bekezdés c) pontja a 66/2013. (XII. 23.) NGM rendelet 9. §-ával megállapított szöveg.

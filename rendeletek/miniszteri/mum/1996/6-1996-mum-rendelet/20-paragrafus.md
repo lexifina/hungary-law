@@ -1,11 +1,3 @@
-20. §[^151] (1) A megváltozott munkaképességű személyek foglalkoztatásához a támogatás
+## 19/C. §[^133]
 
-a) a 19/A. §-ban foglaltak alapján vissza nem térítendő, illetve visszatérítendő,
-
-b) a 19/B. §-ban foglaltak alapján vissza nem térítendő
-
-## formában nyújtható.
-
-(2) Az (1) bekezdés a) pontjában meghatározott támogatási formák együttesen is alkalmazhatók.
-
-[^151]: A 20. § a 31/2004. (XII. 21.) FMM rendelet 9. §-ával megállapított szöveg.
+[^133]: A 19/C. §-t a 31/2004. (XII. 21.) FMM rendelet 8. §-a iktatta be, hatályon kívül helyezte a 66/2013. (XII. 23.) NGM rendelet 16. § f) pontja.
