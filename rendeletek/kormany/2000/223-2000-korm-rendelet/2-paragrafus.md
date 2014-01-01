@@ -22,7 +22,7 @@ h)[^3] felhalmozott kamat: hitelviszonyt megtestesítő kamatozó értékpapíro
 
 i)[^4] könyv szerinti érték: hitelviszonyt megtestesítő kamatozó értékpapírok, tulajdoni részesedést jelentő befektetések, diszkont értékpapírok, valamint a továbbértékesítés céljára beszerzett, áruk között kimutatott ingatlanok esetében a számviteli törvény szerinti beszerzési érték, tartós befektetési célú ingatlanok esetében a 28. § (2) bekezdésében meghatározott amortizációs kulcs figyelembevételével megállapított értékcsökkenéssel csökkentett beszerzési érték;
 
-j)[^5] értékpapír-kölcsönzés: a tőkepiacról szóló 2001. évi CXX. törvény (a továbbiakban: Tpt.) 5. §-a (1) bekezdésének 37. pontjában meghatározott fogalom;
+j)[^5] értékpapír-kölcsönzés: a tőkepiacról szóló 2001. évi CXX. törvény (a továbbiakban: Tpt.) 5. §-a (1) bekezdésének 44. pontjában meghatározott fogalom;
 
 k)[^6] kölcsönbe adott értékpapír kölcsönszerződés szerinti értéke: a kölcsönbe adott értékpapír kölcsönbe adó által közölt könyv szerinti értéke;
 
@@ -32,6 +32,6 @@ l)[^7] értékelés napja a napi értékelés vonatkozásában: minden munkanap,
 [^2]: A 2. § g) pontja a 288/2002. (XII. 23.) Korm. rendelet 1. §-ával, első mondata a 396/2007. (XII. 27.) Korm. rendelet 39. §-ával megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 77. § (1) bekezdését.
 [^3]: A 2. § h) pontját a 288/2002. (XII. 23.) Korm. rendelet 1. §-a iktatta a szövegbe, e módosító rendelet 28. §-ának (1) bekezdése alapján rendelkezéseit először a 2003. évről készített negyedéves és éves pénztári beszámolóra kell alkalmazni.
 [^4]: A 2. § i) pontját a 288/2002. (XII. 23.) Korm. rendelet 1. §-a iktatta a szövegbe, e módosító rendelet 28. §-ának (1) bekezdése alapján rendelkezéseit először a 2003. évről készített negyedéves és éves pénztári beszámolóra kell alkalmazni.
-[^5]: A 2. § j) pontját a 285/2005. (XII. 20.) Korm. rendelet 14. §-a iktatta be. E módosító rendelet 32. § (1) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+[^5]: A 2. § j) pontját a 285/2005. (XII. 20.) Korm. rendelet 14. §-a iktatta be, szövege az 518/2013. (XII. 30.) Korm. rendelet 12. §-a szerint módosított szöveg.
 [^6]: A 2. § k) pontját a 285/2005. (XII. 20.) Korm. rendelet 14. §-a iktatta be. E módosító rendelet 32. § (1) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni.
 [^7]: A 2. § l) pontját a 325/2009. (XII. 29.) Korm. rendelet 35. §-a iktatta be; alkalmazására lásd e módosító rendelet 46. § (1) és (3) bekezdését.
