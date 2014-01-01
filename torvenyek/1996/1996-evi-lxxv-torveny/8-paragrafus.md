@@ -10,7 +10,7 @@ a munkaügyi hatóság a szükséges intézkedések megtétele céljából megke
 
 (3) A munkaügyi hatóság tevékenysége során együttműködik a tevékenységével érintett más hatóságokkal.
 
-(4) A foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvényben meghatározott álláskeresési ellátásokra, illetőleg a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvényben meghatározott aktív korúak ellátására való jogosultság fennállásának ellenőrzése céljából a munkaügyi hatóság hivatalból eljárva, havi rendszerességgel, elektronikusan adatot szolgáltat az állami foglalkoztatási szerv részére azokról a munkavállalókról, akik tekintetében a foglalkoztató részéről
+(4) Az Flt.-ben meghatározott álláskeresési ellátásokra, illetőleg a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvényben meghatározott aktív korúak ellátására való jogosultság fennállásának ellenőrzése céljából a munkaügyi hatóság hivatalból eljárva, havi rendszerességgel, elektronikusan adatot szolgáltat az állami foglalkoztatási szerv részére azokról a munkavállalókról, akik tekintetében a foglalkoztató részéről
 
 a) e törvény 3. §-a (1) bekezdésének a) pontja alapján a foglalkoztatásra irányuló jogviszony létesítéséhez szükséges jognyilatkozatok alakszerűségére vonatkozó rendelkezések [Mt. 22–23. §, 42–44. §] megsértését,
 

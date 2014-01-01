@@ -4,7 +4,7 @@ a) megtiltja a további foglalkoztatást, ha az alkalmazás vagy a foglalkoztat�
 
 b) kötelezi a foglalkoztatót a szabálytalanság meghatározott időn belül történő megszüntetésére,
 
-c) kötelezi a harmadik országbeli állampolgárt érvényes munkavállalási engedély vagy EU Kék Kártya nélkül foglalkoztatót a központi költségvetésbe történő befizetésre a 7/A. §-ban foglaltak szerint,
+c) kötelezi a foglalkoztatót a központi költségvetésbe történő befizetésre a harmadik országbeli állampolgár magyarországi foglalkoztatásának engedélyezésére vonatkozó szabályok megértése miatt, a 7/A. §-ban foglaltak szerint,
 
 d)
 

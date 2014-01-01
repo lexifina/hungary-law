@@ -26,4 +26,6 @@ l) az Európai Parlament és a Tanács 2003. november 4-i 2003/88/EK irányelve 
 
 m) az illegálisan tartózkodó harmadik országbeli állampolgárokat foglalkoztató munkáltatókkal szembeni szankciókra és intézkedésekre vonatkozó minimumszabályokról szóló, 2009. június 18-i 2009/52/EK európai parlamenti és tanácsi irányelv szerinti illegális foglalkoztatás tilalmának, a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény irányadó rendelkezéseivel együtt,
 
-n) a munkaerő-kölcsönzés keretében történő munkavégzésről szóló 2008. november 17-i 2008/104/EK európai parlamenti és tanácsi irányelvnek.
+n) a munkaerő-kölcsönzés keretében történő munkavégzésről szóló 2008. november 17-i 2008/104/EK európai parlamenti és tanácsi irányelvnek,
+
+o) a harmadik országbeli állampolgárok valamely tagállam területén való tartózkodására és munkavállalására vonatkozó összevont engedélyre irányuló összevont kérelmezési eljárásról, valamint a harmadik országból származó, valamely tagállam területén jogszerűen tartózkodó munkavállalók közös jogairól szóló, 2011. december 13-i, 2011/98/EU európai parlamenti és tanácsi irányelv.

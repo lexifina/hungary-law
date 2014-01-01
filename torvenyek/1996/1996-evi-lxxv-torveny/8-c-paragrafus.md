@@ -28,4 +28,4 @@ b) – amennyiben a (4)–(5) bekezdés szerinti adatok nyilvánosságra hozatal
 
 (7) A munkaügyi hatóság nyilvántartásba vételi és közzétételi kötelezettségét nem érinti, ha a foglalkoztató a jogerős közigazgatási határozatban vagy jogerős bírósági határozattal elbírált közigazgatási határozatban foglalt kötelezettségét az előírt határidőben vagy határnapon teljesíti.
 
-(8) A munkaügyi hatóság a 6/B. § (1) bekezdése szerinti határozat esetében a munkáltatóra vonatkozó adatokat a határozat jogerőssé válásának napján hozza nyilvánosságra a honlapján történő közzététel útján, és a határozat jogerőre emelkedésének napjától számított két év elteltével törli. E határozatok esetében a (6) bekezdés nem alkalmazható.
+(8)

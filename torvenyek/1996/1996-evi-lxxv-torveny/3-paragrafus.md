@@ -38,7 +38,7 @@ r) a harmadik országbeli állampolgár és a szabad mozgás és tartózkodás j
 
 s) a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény (a továbbiakban: Harm.tv.) 71. §-ának (1)–(2) bekezdése szerinti kötelezettségek foglalkoztató általi
 
-t) a költségvetési szerv, valamint nevelési-oktatási, egészségügyi vagy kulturális tevékenysége tekintetében az egyházi jogi személy munkáltató kivételével, a bruttó 300 000 forint alatti munkabérek nettó értékének megőrzéséhez szükséges munkabéremelés – kormányrendeletben meghatározott – elvárt mértéke megfelelő végrehajtásának
+t)
 
 megtartására.
 

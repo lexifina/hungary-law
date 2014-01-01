@@ -1,4 +1,4 @@
-7/A. § (1) Amennyiben a 3. § (1) bekezdés i) pontjában foglaltak ellenőrzése során a munkaügyi hatóság azt állapítja meg, hogy a foglalkoztató harmadik országbeli állampolgárt érvényes munkavállalási engedély, illetve EU Kék Kártya nélkül foglalkoztat, kötelezni kell a központi költségvetésbe történő befizetésre a (2)–(7) bekezdésben foglaltak szerint. A kötelezettség a foglalkoztatót minden olyan általa foglalkoztatott harmadik országbeli állampolgár tekintetében terheli, akire nézve az engedély vagy EU Kék Kártya nélkül történő foglalkoztatást megállapították.
+7/A. § (1) Ha a 3. § (1) bekezdés i) pontjában foglaltak megtartásának ellenőrzése során a munkaügyi hatóság azt állapítja meg, hogy a foglalkoztató harmadik országbeli állampolgárt a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény (a továbbiakban: Flt.) 7. § (1) bekezdés a) pontja szerinti összevont kérelmezési eljárás alapján kiadott tartózkodási engedély, illetve b) pontja szerinti munkavállalási engedély nélkül foglalkoztat, kötelezi a központi költségvetésbe történő befizetésre a (2)–(5) bekezdésben foglaltak szerint.
 
 (2) A központi költségvetésbe történő befizetés mértéke
 
@@ -28,6 +28,6 @@ c) a (4) bekezdésben foglalt esetben a minimálbér kétszeresének
 
 megfelelő összeg terheli a foglalkoztatót.
 
-(6) Amennyiben a munkaügyi hatóság a munkáltatót harmadik országbeli állampolgár engedély nélkül történő foglalkoztatása miatt a központi költségvetésbe történő befizetésre kötelezte, ugyanezen jogsértésre tekintettel munkaügyi bírság egyidejűleg nem alkalmazható.
+(6) Ha a munkaügyi hatóság a foglalkoztatót az (1)–(5) bekezdés alapján a központi költségvetésbe történő befizetésre kötelezte, ugyanezen jogsértés miatt munkaügyi bírság nem szabható ki.
 
-(7) A munkaügyi hatóság a harmadik országbeli állampolgár foglalkoztatásával összefüggő engedély, illetve EU Kék Kártya nélküli foglalkoztatást megállapító, illetve befizetésre kötelező jogerős határozatát közli az idegenrendészeti hatósággal.
+(7) A munkaügyi hatóság a 3. § (1) bekezdés i) pontja szerinti, a harmadik országbeli állampolgár magyarországi foglalkoztatását érintő jogsértés megállapítása esetén a jogerős határozatát közli az idegenrendészeti hatósággal.
