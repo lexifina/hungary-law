@@ -8,7 +8,7 @@
 
 a) a környezeti célkitűzések elérését;
 
-b) az érintett víztestre jogszabályban, illetve a külön jogszabály[^82] szerinti vízgyűjtő-gazdálkodási tervben megállapított intézkedések megvalósítását.
+b) az érintett víztestre jogszabályban, illetve a külön jogszabály[^87] szerinti vízgyűjtő-gazdálkodási tervben megállapított intézkedések megvalósítását.
 
 (2) Nem ivóvízminőségű vízigény kielégítésére jó minőségű felszín alatti víz vízkivétele csak akkor engedhető meg, ha a vízigény felszíni vízből történő kielégítése a költség-haszon elemzés eredménye szerinti aránytalanul magas költség, illetve a természeti viszonyok miatt nem valósítható meg.
 
@@ -18,4 +18,4 @@ b) az érintett víztestre jogszabályban, illetve a külön jogszabály[^82] sz
 
 (5) A vízkivételt folytató feladata az igénybevétel felszín alatti vízre gyakorolt hatásának monitorozása az engedélyben előírt módon. Az engedélyben meg kell határozni a mérési eredmények szolgáltatásának rendjét is.
 
-[^82]: 221/2004. (VII. 21.) Korm. rendelet a vízgyűjtő-gazdálkodás egyes szabályairól.
+[^87]: 221/2004. (VII. 21.) Korm. rendelet a vízgyűjtő-gazdálkodás egyes szabályairól.

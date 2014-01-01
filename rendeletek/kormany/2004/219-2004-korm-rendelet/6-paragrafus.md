@@ -1,6 +1,6 @@
-6. §[^57] (1) A környezetvédelmi, természetvédelmi és vízügyi felügyelőség (a továbbiakban: felügyelőség) intézkedéseket tesz:
+6. §[^57] (1)[^58] A vízvédelmi hatóság és a vízügyi hatóság önállóan, illetve a vízügyi igazgatóság bevonásával intézkedéseket tesz:
 
-a) a szennyező anyagok felszín alatti vízbe, illetve a földtani közegbe történő bevezetésének megelőzésére vagy korlátozására a 10–11. §-ok figyelembevételével,
+a) a szennyező anyagok felszín alatti vízbe, illetve a földtani közegbe történő bevezetésének megelőzésére vagy korlátozására a 10–11. § figyelembevételével,
 
 b) a felszín alatti víztestek állapotromlásának megakadályozására,
 
@@ -8,21 +8,21 @@ c) a romló tendenciák megfordítására, ha az érintett felszín alatti vízt
 
 d) a gyenge és a veszélyeztetett helyzetű víztestek állapotának javítására
 
-## a környezethasználatokra vonatkozó engedélyek felülvizsgálata, illetve más hatóság által történő felülvizsgálatának kezdeményezése által.
+a környezethasználatokra vonatkozó engedélyek felülvizsgálata, illetve más hatóság által történő felülvizsgálatának kezdeményezése által.
 
-(2) Az (1) bekezdésben foglalt intézkedések érdekében a felügyelőség:
+(2)[^59] Az (1) bekezdésben foglalt intézkedések érdekében:
 
-a) áttekinti, mi veszélyezteti a jó állapot elérését, illetve megőrzését;
+a) a vízvédelmi hatóság, illetve a vízügyi igazgatóság áttekinti, hogy mi veszélyezteti a jó állapot elérését és megőrzését;
 
-b)[^58] ellenőrzi a felszín alatti vizek állapotát befolyásoló tevékenységeket, és ha indokolt, intézkedik az engedélyek módosításáról, visszavonásáról, amennyiben szükséges a Kvt. 73. §-a szerinti környezetvédelmi felülvizsgálattal;
+b) a vízvédelmi hatóság ellenőrzi a felszín alatti vizek állapotát befolyásoló tevékenységeket, és ha indokolt, a vízügyi hatóság felé intézkedik a vízjogi engedélyek módosítása, visszavonása érdekében, és amennyiben szükséges, a környezetvédelmi hatóságnál kezdeményezi a Kvt. 73. §-a szerinti környezetvédelmi felülvizsgálat elrendelését;
 
-c) intézkedik a környezethasználók felelősségébe tartozó környezethasználati monitoring kiegészítéséről, módosításáról, illetve kezdeményezi az 5. § (5) bekezdésben foglaltakat figyelembe véve az országos monitoring, valamint a települési monitoring érintett elemeinek felülvizsgálatát;
+c) a vízvédelmi hatóság intézkedik a környezethasználók felelősségébe tartozó környezethasználati monitoring kiegészítéséről, módosításáról, illetve kezdeményezi az 5. § (5) bekezdésében foglaltakat figyelembe véve az országos monitoring, valamint a települési monitoring érintett elemeinek felülvizsgálatát;
 
-d) ha szükséges, módosítja az általa megállapított környezeti követelményeket, illetve kezdeményezi a környezeti követelményekre, határértékekre vonatkozó előírások módosítását;
+d) a vízvédelmi hatóság módosítja az általa megállapított környezeti követelményeket, illetve kezdeményezi a környezeti követelményekre, határértékekre vonatkozó előírások módosítását;
 
-e) felülvizsgálja a vízkivételekre vonatkozó engedélyeket.
+e) a vízügyi hatóság felülvizsgálja a vízkivételekre vonatkozó vízjogi engedélyeket.
 
-(3) Amennyiben az (A) háttér-koncentráció vagy az (Ab) bizonyított háttér-koncentráció meghaladja a megfordítási pontot – figyelembe véve a külön jogszabály szerinti vízgyűjtő-gazdálkodási tervben foglaltakat is – a felügyelőség mérlegelheti az intézkedések szükségességét.
+(3)[^60] Amennyiben az (A) háttér-koncentráció vagy az (Ab) bizonyított háttér-koncentráció meghaladja a megfordítási pontot – figyelembe véve a külön jogszabály szerinti vízgyűjtő-gazdálkodási tervben foglaltakat is – a vízvédelmi hatóság mérlegelheti az intézkedések szükségességét.
 
 (4) A vizek mezőgazdasági eredetű nitrát szennyezéssel szembeni védelméről szóló külön jogszabály hatálya alá tartozó tevékenységek esetében a jelentős és tartósan emelkedő szennyezettségi tendencia megfordítására irányuló intézkedések végrehajtásának kezdőpontját az említett jogszabállyal és a külön jogszabály szerinti vízgyűjtő-gazdálkodási tervvel összhangban kell megállapítani úgy, hogy az ne veszélyeztesse a környezeti célkitűzések elérését.
 
@@ -31,4 +31,6 @@ e) felülvizsgálja a vízkivételekre vonatkozó engedélyeket.
 (6) Az (5) bekezdés szerinti monitoring létesítése és üzemeltetése annak a kötelessége, aki a szennyezésért, károsodásért a felelős.
 
 [^57]: A 6. § a 302/2008. (XII. 17.) Korm. rendelet 5. §-ával megállapított szöveg. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
-[^58]: A 6. § (2) bekezdésének b) pontja a 182/2009. (IX. 10.) Korm. rendelet 358. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^58]: A 6. § (1) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 26. § (1) bekezdésével megállapított szöveg.
+[^59]: A 6. § (2) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 26. § (1) bekezdésével megállapított szöveg.
+[^60]: A 6. § (3) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 26. § (15) bekezdés a) pontja szerint módosított szöveg.

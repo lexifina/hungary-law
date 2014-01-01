@@ -1,3 +1,3 @@
-## 42–44. §[^251]
+## 42–44. §[^267]
 
-[^251]: A 42–44. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 655. pontja hatályon kívül helyezte.
+[^267]: A 42–44. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 655. pontja hatályon kívül helyezte.

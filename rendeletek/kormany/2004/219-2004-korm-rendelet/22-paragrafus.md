@@ -4,13 +4,13 @@
 
 a) vizsgálni kell minden olyan szennyező anyag térbeli előfordulását, melynek jelenléte a területen végzett addigi tevékenységek vagy alkalmazott technológiák alapján valószínűsíthető;
 
-b)[^150] külön jogszabály szerinti szűrővizsgálatot és ennek eredményeitől függő részletes kémiai vizsgálatot kell végezni mind a földtani közegre, mind a felszín alatti vízre vonatkozóan annak érdekében, hogy valamennyi, a szennyezettséget okozó szennyező anyag előfordulása megállapítható legyen.
+b)[^163] külön jogszabály szerinti szűrővizsgálatot és ennek eredményeitől függő részletes kémiai vizsgálatot kell végezni mind a földtani közegre, mind a felszín alatti vízre vonatkozóan annak érdekében, hogy valamennyi, a szennyezettséget okozó szennyező anyag előfordulása megállapítható legyen.
 
 (2) Az (1) bekezdés b) pontban említett vizsgálattól a hatóság eltekinthet, ha megalapozottan bizonyítható, hogy a vizsgált területen az (1) bekezdés a) pontja szerint vizsgált komponenseken kívül más – (B) szennyezettségi határértéket meghaladó – szennyező anyag a földtani közegben, illetve a felszín alatti vízben nem található.
 
 (3) A hatóság a 21. § (4) bekezdés a) pontja szerinti felderítő és részletes tényfeltárást – a 19. § (9) bekezdés d) pontja alapján – elrendelő határozatának tartalmaznia kell:
 
-a)[^151]
+a)[^164]
 
 b) a valószínű szennyezettség által feltételezhetően érintett terület megjelölését;
 
@@ -24,10 +24,11 @@ f) a 21. § (9) bekezdés alapján a külön jogszabály szerinti adatlap benyú
 
 (4) A tényfeltárási tervnek tartalmaznia kell a tényfeltárással kapcsolatos mindazon munkát, amely a tényfeltárási záródokumentáció megalapozott összeállításához szükséges, beleértve a tényfeltáráshoz kapcsolódó monitoring rendszer tervét.
 
-(5) A tényfeltárási tervet a (3) bekezdés szerinti határozatban megjelölt határidőre engedélyezésre be kell nyújtani a felügyelőséghez. A hatóság a tényfeltárási terv engedélyezésre történő benyújtásától eltekinthet, ha a kármentesítés sürgőssége, a várható költség alacsony szintje, a szennyező anyagok kis száma, illetve csak a kötelezett tulajdonában álló területek érintettsége valószínűsíthető.
+(5)[^165] A tényfeltárási tervet a (3) bekezdés szerinti határozatban megjelölt határidőre jóváhagyásra be kell nyújtani a vízvédelmi hatósághoz. A jóváhagyást követően a hatóság engedélyezi a tényfeltárást. A hatóság a tényfeltárási terv jóváhagyásra történő benyújtásától eltekinthet, ha a kármentesítés sürgőssége, a várható költség alacsony szintje, a szennyező anyagok kis száma, illetve csak a kötelezett tulajdonában álló területek érintettsége valószínűsíthető.
 
-(6)[^152]
+(6)[^166]
 
-[^150]: A 22. § (1) bekezdésének b) pontja e rendelet 41. § (2) bekezdésének b) pontja alapján 2005. május 1. napján lépett hatályba.
-[^151]: A 22. § (3) bekezdésének a) pontját a 92/2007. (IV. 26.) Korm. rendelet 9. § (1) bekezdése hatályon kívül helyezte.
-[^152]: A 22. § (6) bekezdését a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 35. pontja hatályon kívül helyezte, e módosító rendelet 45. § (1) bekezdése alapján a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^163]: A 22. § (1) bekezdésének b) pontja e rendelet 41. § (2) bekezdésének b) pontja alapján 2005. május 1. napján lépett hatályba.
+[^164]: A 22. § (3) bekezdésének a) pontját a 92/2007. (IV. 26.) Korm. rendelet 9. § (1) bekezdése hatályon kívül helyezte.
+[^165]: A 22. § (5) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 26. § (8) bekezdésével megállapított szöveg.
+[^166]: A 22. § (6) bekezdését a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 35. pontja hatályon kívül helyezte, e módosító rendelet 45. § (1) bekezdése alapján a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.

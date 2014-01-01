@@ -6,7 +6,7 @@ a) nem okozhatja (Mi) igénybevételi határérték túllépését,
 
 b) nem vezethet a felszín alatti víztest kémiai és fizikai állapotromlásához, beleértve a káros víz(nyomás)szint (a továbbiakban: vízszint) emelkedését.
 
-(2)[^64] A víztest egyes, hidrogeológiai, hidraulikai szempontból elkülönülő részeire, a Kvt. 19. §-ával és a vízgazdálkodásról szóló 1995. évi LVII. törvény 15. §-ával összhangban az (Mi) igénybevételi határértéket a külön jogszabály szerinti vízgyűjtő-gazdálkodási tervben úgy kell meghatározni, hogy az annak megfelelő vízkivétel:
+(2)[^67] A víztest egyes, hidrogeológiai, hidraulikai szempontból elkülönülő részeire, a Kvt. 19. §-ával és a vízgazdálkodásról szóló 1995. évi LVII. törvény 15. §-ával összhangban az (Mi) igénybevételi határértéket a külön jogszabály szerinti vízgyűjtő-gazdálkodási tervben úgy kell meghatározni, hogy az annak megfelelő vízkivétel:
 
 a) ne veszélyeztesse a felszín alatti vizekre vonatkozó környezeti célkitűzéseket, és
 
@@ -14,9 +14,9 @@ b) ne okozzon statisztikailag és környezeti szempontból jelentős és tartós
 
 c) ne eredményezzen a felszíni vizekből vagy más kémiai összetételű felszín alatti víztestből történő beszivárgással összefüggő kedvezőtlen és tartós változásokat.
 
-(3)[^65] A felszíni vizek mederanyagának kitermelése, illetve a mederviszonyok megváltoztatása a felszín alatti vizekre vonatkozó környezeti és külön jogszabály[^66] szerinti vízbázisvédelmi célkitűzések figyelembevételével végezhető.
+(3)[^68] A felszíni vizek mederanyagának kitermelése, illetve a mederviszonyok megváltoztatása a felszín alatti vizekre vonatkozó környezeti és külön jogszabály[^69] szerinti vízbázisvédelmi célkitűzések figyelembevételével végezhető.
 
-(4)[^67] A felszín alatti víz állapota szempontjából fokozottan érzékeny területeken a 41. § (8) bekezdésének c) pontjában foglaltak kivételével tilos
+(4)[^70] A felszín alatti víz állapota szempontjából fokozottan érzékeny területeken a 41. § (8) bekezdésének c) pontjában foglaltak kivételével tilos
 
 a) a felszíni vizek pótlása felszín alatti vízből;
 
@@ -24,15 +24,15 @@ b) olyan tevékenység végzése, amelynek következtében a fedőrétegek eltá
 
 c) olyan bányászati tevékenység végzése, amelynek következtében a külszín megbontásával kialakított bányatalp a maximális karsztvízszintet 10 m-en belül megközelíti;
 
-d)[^68] a szén-dioxid geológiai tárolása.
+d)[^71] a szén-dioxid geológiai tárolása.
 
-(5)[^69] A felszín alatti víz állapota szempontjából érzékeny területeken:
+(5)[^72] A felszín alatti víz állapota szempontjából érzékeny területeken:
 
-a) a felszíni vizek pótlása felszín alatti vízből a külön jogszabály[^70] szerinti vízgyűjtő-gazdálkodási tervben foglaltak szerint történhet;
+a) a felszíni vizek pótlása felszín alatti vízből a külön jogszabály[^73] szerinti vízgyűjtő-gazdálkodási tervben foglaltak szerint történhet;
 
 b) akkor végezhető olyan tevékenység, amelynek következtében a fedőréteg eltávolítása révén felszínre kerül a felszín alatti víz, ha biztosított az (1) bekezdés és a 10. § (1) bekezdés szerinti előírások teljesülése.
 
-(6)[^71] A 13. §-ban foglaltak figyelembevételével engedélyezhető:
+(6)[^74] A 13. §-ban foglaltak figyelembevételével engedélyezhető:
 
 a) a felszín alatti vízdúsítás, azaz a víz közvetlen vagy közvetett bevezetése a felszín alatti vízbe a kitermelhető felszín alatti víz mennyiségének szennyezés nélküli növelése érdekében;
 
@@ -44,14 +44,14 @@ bb) a szilárd ásványi nyersanyagok bányászatához kapcsolódó, az ásvány
 
 bc) a mélyépítési, illetve fenntartási munkák során.
 
-(7)[^72] A (6) bekezdés szerinti kivételek akkor alkalmazhatók, ha a felügyelőség meggyőződött róla, hogy a felszín alatti vízre – különösen annak minőségére – gyakorolt hatás hatékony figyelemmel kísérése megfelelő módon biztosított.
+(7)[^75] A (6) bekezdés szerinti kivételek akkor alkalmazhatók, ha a vízvédelmi hatóság meggyőződött róla, hogy a felszín alatti vízre – különösen annak minőségére – gyakorolt hatás hatékony figyelemmel kísérése megfelelő módon biztosított.
 
-[^64]: A 9. § új (2) bekezdését a 302/2008. (XII. 17.) Korm. rendelet 6. §-a iktatta be, egyidejűleg az eredeti (2)–(5) bekezdés számozását (3)–(6) bekezdésre változtatva. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
-[^65]: A 9. § eredeti (2) bekezdésének számozását a 302/2008. (XII. 17.) Korm. rendelet 6. §-a (3) bekezdésre változtatta.
-[^66]: A vízbázisok, a távlati vízbázisok, valamint az ivóvízellátást szolgáló vízilétesítmények védelméről szóló 123/1997. (VII. 18.) Korm. rendelet.
-[^67]: A 9. § eredeti (3) bekezdésének számozását a 302/2008. (XII. 17.) Korm. rendelet 6. §-a (4) bekezdésre változtatta.
-[^68]: A 9. § (4) bekezdés d) pontját a 145/2012. (VII. 3.) Korm. rendelet 41. § (1) bekezdése iktatta be.
-[^69]: A 9. § eredeti (4) bekezdésének számozását a 302/2008. (XII. 17.) Korm. rendelet 6. §-a (5) bekezdésre változtatta.
-[^70]: 221/2004. (VII. 21.) Korm. rendelet a vízgyűjtő-gazdálkodás egyes szabályairól.
-[^71]: A 9. § eredeti (5) bekezdésének számozását a 302/2008. (XII. 17.) Korm. rendelet 6. §-a (6) bekezdésre változtatta.
-[^72]: A 9. § (7) bekezdését a 124/2012. (VI. 26.) Korm. rendelet 1. §-a iktatta be.
+[^67]: A 9. § új (2) bekezdését a 302/2008. (XII. 17.) Korm. rendelet 6. §-a iktatta be, egyidejűleg az eredeti (2)–(5) bekezdés számozását (3)–(6) bekezdésre változtatva. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
+[^68]: A 9. § eredeti (2) bekezdésének számozását a 302/2008. (XII. 17.) Korm. rendelet 6. §-a (3) bekezdésre változtatta.
+[^69]: A vízbázisok, a távlati vízbázisok, valamint az ivóvízellátást szolgáló vízilétesítmények védelméről szóló 123/1997. (VII. 18.) Korm. rendelet.
+[^70]: A 9. § eredeti (3) bekezdésének számozását a 302/2008. (XII. 17.) Korm. rendelet 6. §-a (4) bekezdésre változtatta.
+[^71]: A 9. § (4) bekezdés d) pontját a 145/2012. (VII. 3.) Korm. rendelet 41. § (1) bekezdése iktatta be.
+[^72]: A 9. § eredeti (4) bekezdésének számozását a 302/2008. (XII. 17.) Korm. rendelet 6. §-a (5) bekezdésre változtatta.
+[^73]: 221/2004. (VII. 21.) Korm. rendelet a vízgyűjtő-gazdálkodás egyes szabályairól.
+[^74]: A 9. § eredeti (5) bekezdésének számozását a 302/2008. (XII. 17.) Korm. rendelet 6. §-a (6) bekezdésre változtatta.
+[^75]: A 9. § (7) bekezdését a 124/2012. (VI. 26.) Korm. rendelet 1. §-a iktatta be, szövege az 527/2013. (XII. 30.) Korm. rendelet 26. § (15) bekezdés a) pontja szerint módosított szöveg.
