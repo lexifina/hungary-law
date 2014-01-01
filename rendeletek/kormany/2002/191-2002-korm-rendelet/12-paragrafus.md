@@ -1,3 +1,3 @@
-## 10–11. §[^34]
+## 10–11. §[^40]
 
-[^34]: A 10–11. §-t a 18/2013. (I. 30.) Korm. rendelet 10. § b) pontja hatályon kívül helyezte.
+[^40]: A 10–11. §-t a 18/2013. (I. 30.) Korm. rendelet 10. § b) pontja hatályon kívül helyezte.

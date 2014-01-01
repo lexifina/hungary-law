@@ -2,12 +2,12 @@
 
 ## A robbanóanyag forgalomba hozatala
 
-17. §[^40] (1)[^41] A robbanóanyag akkor hozható forgalomba, illetve forgalmazható, ha az e rendelet által megállapított követelményeknek megfelel, és megfelelőségét a 19. § szerinti megfelelőség-értékelési eljárásban bejelentett szervezet tanúsítja, továbbá megfelelőségi jelöléssel ellátták.
+17. §[^46] (1)[^47] A robbanóanyag akkor hozható forgalomba, illetve forgalmazható, ha az e rendelet által megállapított követelményeknek megfelel, és megfelelőségét a 19. § szerinti megfelelőség-értékelési eljárásban bejelentett szervezet tanúsítja, továbbá megfelelőségi jelöléssel ellátták.
 
 (2) Ha a robbanóanyagra több olyan jogszabály is vonatkozik, amely szintén előírja a megfelelőségi jelölés feltüntetését, a megfelelőségi jelölés egyben azt is jelenti, hogy az adott robbanóanyag megfelel mindezen jogszabályok előírásainak.
 
-(3)[^42] Magyaroszág területén csak olyan robbanóanyag gyártható, forgalmazható, használható fel, vagy tárolható, amely a plasztikus robbanóanyagok megjelöléséről, azok felderítése céljából Montreálban, 1991. március 1. napján létrehozott Egyezmény kihirdetéséről szóló 2003. évi LXVI. törvény szerint megjelölésre került.
+(3)[^48] Magyaroszág területén csak olyan robbanóanyag gyártható, forgalmazható, használható fel, vagy tárolható, amely a plasztikus robbanóanyagok megjelöléséről, azok felderítése céljából Montreálban, 1991. március 1. napján létrehozott Egyezmény kihirdetéséről szóló 2003. évi LXVI. törvény szerint megjelölésre került.
 
-[^40]: A 17. § a 101/2004. (IV. 27.) Korm. rendelet 17. §-ával megállapított szöveg.
-[^41]: A 17. § (1) bekezdése a 163/2010. (V. 11.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
-[^42]: A 17. § (3) bekezdése a 276/2011. (XII. 20.) Korm. rendelet 7. § (3) bekezdése szerint módosított szöveg.
+[^46]: A 17. § a 101/2004. (IV. 27.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^47]: A 17. § (1) bekezdése a 163/2010. (V. 11.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^48]: A 17. § (3) bekezdése a 276/2011. (XII. 20.) Korm. rendelet 7. § (3) bekezdése szerint módosított szöveg.

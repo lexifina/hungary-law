@@ -12,9 +12,9 @@ a) a 2. számú melléklet 1. fejezetének megfelelő típusvizsgálat (B-modul)
 
 b) egyedi vizsgálat (G-modul) a 2. számú melléklet 6. fejezete szerint.
 
-(2)[^45]
+(2)[^51]
 
-(3)[^46]
+(3)[^52]
 
-[^45]: A 19. § (2) bekezdését a 163/2010. (V. 11.) Korm. rendelet 5. § b) pontja hatályon kívül helyezte.
-[^46]: A 19. § (3) bekezdését a 101/2004. (IV. 27.) Korm. rendelet 27. §-ának (1) bekezdése hatályon kívül helyezte.
+[^51]: A 19. § (2) bekezdését a 163/2010. (V. 11.) Korm. rendelet 5. § b) pontja hatályon kívül helyezte.
+[^52]: A 19. § (3) bekezdését a 101/2004. (IV. 27.) Korm. rendelet 27. §-ának (1) bekezdése hatályon kívül helyezte.
