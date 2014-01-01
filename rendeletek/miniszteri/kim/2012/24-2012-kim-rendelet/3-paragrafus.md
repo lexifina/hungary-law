@@ -6,7 +6,7 @@ a) a közérdekű önkéntes tevékenység nyilvántartásáért felelős szerve
 
 b) a személyi jövedelemadó meghatározott részének az adózó rendelkezése szerinti felhasználásáról szóló 1996. évi CXXVI. törvény (a továbbiakban: Szf.) 6/A. § (3) bekezdése és a 6/C. § (1) bekezdése szerinti,
 
-c)[^2] a megszűnt egyesület vagyona felhasználásának módjával kapcsolatban a Civil tv. 6. § szerinti, valamint a megszűnt alapítvány vagyona felhasználásának módjával kapcsolatban a Polgári törvénykönyv 74/E. § (5) bekezdése szerinti,
+c)[^3] a megszűnt egyesület vagyona felhasználásának módjával kapcsolatban a Civil tv. 6. § szerinti, valamint a megszűnt alapítvány vagyona felhasználásának módjával kapcsolatban a Polgári törvénykönyv 74/E. § (5) bekezdése szerinti,
 
 d) a civil információs centrumok tevékenységére vonatkozóan az általuk a Civil tv. 52. § (1) bekezdés f) pontja szerint szolgáltatott,
 
@@ -18,7 +18,7 @@ g) az Alap működésével kapcsolatos, a Civil tv. 67. § (2) bekezdése, a 69.
 
 h) a Civil tv. 30. § (3) bekezdése szerinti beszámolóban és annak mellékleteiben foglalt,
 
-i)[^3] a civil szervezetre vonatkozó, országos névjegyzékben szereplő,
+i)[^4] a civil szervezetre vonatkozó, országos névjegyzékben szereplő,
 
 j) a rendezett munkaügyi kapcsolatok feltételeiről és az igazolás módjáról szóló 1/2012. (I. 26.) NGM rendelet 13. § (1) bekezdése szerint nyilvánosságra hozott,
 
@@ -32,5 +32,5 @@ k) a civil szervezet döntése alapján közzétett további – így különös
 
 (4) A vezető tisztségviselő vagyonnyilatkozatának kezelésére, nyilvántartására, a vagyonnyilatkozatban foglalt személyes adatok védelmére vonatkozó részletes szabályokat a miniszter által kiadott szabályzat határozza meg.
 
-[^2]: A 3. § (1) bekezdés c) pontja az 56/2012. (XII. 29.) EMMI rendelet 21. §-ával megállapított szöveg.
-[^3]: A 3. § (1) bekezdés i) pontja az 56/2012. (XII. 29.) EMMI rendelet 22. §-ával megállapított szöveg.
+[^3]: A 3. § (1) bekezdés c) pontja az 56/2012. (XII. 29.) EMMI rendelet 21. §-ával megállapított szöveg.
+[^4]: A 3. § (1) bekezdés i) pontja az 56/2012. (XII. 29.) EMMI rendelet 22. §-ával megállapított szöveg.
