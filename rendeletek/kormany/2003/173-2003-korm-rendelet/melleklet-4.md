@@ -42,6 +42,6 @@
 
 | 5 | 1 = állandó jelleggel nyitva tartó szálláshely 2 = idényjelleggel nyitva tartó szálláshely 3 = eseti jelleggel nyitva tartó szálláshely |  | (A Nomád táborhelyeket nem kell nyilvántartásba venni!) |
 
-4. számú melléklet a 173/2003. (X. 28.) Korm. rendelethez[^96]
+4. számú melléklet a 173/2003. (X. 28.) Korm. rendelethez[^98]
 
-[^96]: A 4. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 306. § (5) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján rendelkezéseit a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^98]: A 4. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 306. § (5) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján rendelkezéseit a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
