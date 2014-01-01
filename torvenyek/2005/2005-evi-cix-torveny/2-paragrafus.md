@@ -8,7 +8,7 @@
 
 (2) Nem végezhető olyan tevékenység, mely Magyarország nemzetközi kötelezettségvállalásába ütközik.
 
-(3) Nem kell külön engedélyt beszerezniük a Magyar Honvédség, valamint a polgári nemzetbiztonsági szolgálatok, a rendvédelmi és rendészeti szervek – e törvény alkalmazásában ideértve a Nemzeti Adó- és Vámhivatalt is – kutatással és fejlesztéssel, javítással és karbantartással foglalkozó, valamint hatástalanítást és megsemmisítést végző szervezeti egységeinek.
+(3) Nem kell külön engedélyt beszerezniük a Magyar Honvédség, a nemzetbiztonsági szolgálatok, a rendvédelmi szervek – e törvény alkalmazásában ideértve a Nemzeti Adó- és Vámhivatalt is – kutatással és fejlesztéssel, javítással és karbantartással foglalkozó, valamint hatástalanítást, megsemmisítést, múzeumi tevékenységet végző szervezeti egységeinek. Nem kell külön engedélyt beszerezniük az állam nevében eladóként eljáró, honvédelmi szempontból feleslegesnek nyilvánított haditechnikai termékek elidegenítését végző szerveknek azonban az elidegenített haditechnikai termékek köréről, illetve a vásárlók személyéről kötelesek tájékoztatni a hadiipari gyártás- és szolgáltatásfelügyeletet.
 
 (4) Az engedély kiadására a hadiipari gyártás- és szolgáltatásfelügyelet jogosult kormányrendeletben meghatározott szervek véleménye alapján.
 

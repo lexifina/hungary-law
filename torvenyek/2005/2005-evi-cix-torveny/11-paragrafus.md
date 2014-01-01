@@ -1,3 +1,9 @@
-11. § Ez a törvény a belső piaci szolgáltatásokról szóló 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+11. § Ez a törvény
+
+a) a belső piaci szolgáltatásokról szóló 2006/123/EK európai parlamenti és tanácsi irányelvnek,
+
+b) az Egyesült Nemzeteknek a nemzetközi szervezett bűnözés elleni egyezményét kiegészítő, a tűzfegyverek, részeik, alkotóelemeik és a lőszerek tiltott gyártásáról és kereskedelméről szóló jegyzőkönyve 10. cikkének végrehajtásáról, valamint a tűzfegyverek, tűzfegyverdarabok, alkotóelemeik és lőszereik kiviteli engedélyezési, behozatali és tranzit szabályainak létrehozásáról szóló, 2012. március 14-ei 258/2012/EU európai parlamenti és tanácsi rendeletének
+
+való megfelelést szolgálja.
 
 ## Melléklet a 2005. évi CIX. törvényhez
