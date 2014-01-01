@@ -1,6 +1,6 @@
 95. § (1) A magyarországi megélhetés különösen a következő okiratokkal igazolható:
 
-a)[^206] magyarországi hitelintézetnél készpénz-megtakarítást igazoló, hitelintézeti igazolással;
+a)[^211] magyarországi hitelintézetnél készpénz-megtakarítást igazoló, hitelintézeti igazolással;
 
 b) a megélhetést biztosító magyarországi vagyon, vagyoni értékű jog, vagyoni érték meglétét igazoló közokirattal vagy teljes bizonyító erejű magánokirattal;
 
@@ -8,11 +8,11 @@ c) a magyar jog hatálya alá tartozó rendszeres, munkavégzésre irányuló jo
 
 d) egyéb magyarországi rendszeres, jövedelemszerző tevékenységből származó, közokirattal vagy más módon igazolt adóköteles jövedelemmel;
 
-e)[^207] külföldről folyósított rendszeres jövedelemről szóló magyar hitelintézeti igazolással;
+e)[^212] külföldről folyósított rendszeres jövedelemről szóló magyar hitelintézeti igazolással;
 
-f)[^208] a Magyarországon élő családtag által tett, közjegyzői okiratba foglalt, a kérelmező eltartását és ellátását biztosító nyilatkozattal, valamint a tartást vállaló személy tartási képességét igazoló okirattal.
+f)[^213] a Magyarországon élő családtag által tett, közjegyzői okiratba foglalt, a kérelmező eltartását és ellátását biztosító nyilatkozattal, valamint a tartást vállaló személy tartási képességét igazoló okirattal.
 
-(1a)[^209] A regionális igazgatóság a Tv. 35. § (1) bekezdés e) pontja alapján előterjesztett nemzeti letelepedési engedély kiadása iránti kérelem elbírálása során a megélhetés igazolása vonatkozásában a Tv. 28. § (4) bekezdésében meghatározott feltételek igazolására benyújtott okiratokat veszi figyelembe.
+(1a)[^214] A regionális igazgatóság a Tv. 35. § (1) bekezdés e) pontja alapján előterjesztett nemzeti letelepedési engedély kiadása iránti kérelem elbírálása során a megélhetés igazolása vonatkozásában a Tv. 28. § (4) bekezdésében meghatározott feltételek igazolására benyújtott okiratokat veszi figyelembe.
 
 (2) A magyarországi megélhetés értékelésekor különösen az alábbi szempontokat kell figyelembe venni:
 
@@ -50,12 +50,12 @@ a) a kérelmező magyarországi lakásának tulajdonjogát igazoló, három hón
 
 b) lakásbérleti jogviszonyt igazoló lakásbérleti szerződéssel; illetőleg
 
-c)[^210] a Magyarországon élő családtag közjegyzői okiratba foglalt, a kérelmező lakhatását biztosító nyilatkozatával.
+c)[^215] a Magyarországon élő családtag közjegyzői okiratba foglalt, a kérelmező lakhatását biztosító nyilatkozatával.
 
 (6) Nem kell csatolni a lakhatás feltételeit igazoló okiratot, ha a tartózkodási engedély kiadása vagy meghosszabbítása iránti eljárásban a kérelmező azt már csatolta, és a harmadik országbeli állampolgár bejelentett szálláshelye nem változott meg.
 
-[^206]: A 95. § (1) bekezdés a) pontja a 314/2009. (XII. 28.) Korm. rendelet 45. §-a szerint módosított szöveg.
-[^207]: A 95. § (1) bekezdés e) pontja a 314/2009. (XII. 28.) Korm. rendelet 45. §-a szerint módosított szöveg.
-[^208]: A 95. § (1) bekezdés f) pontja a 276/2011. (XII. 20.) Korm. rendelet 11. § (5) bekezdése szerint módosított szöveg.
-[^209]: A 95. § (1a) bekezdését a 446/2013. (XI. 28.) Korm. rendelet 9. §-a iktatta be.
-[^210]: A 95. § (5) bekezdés c) pontja a 276/2011. (XII. 20.) Korm. rendelet 11. § (5) bekezdése szerint módosított szöveg.
+[^211]: A 95. § (1) bekezdés a) pontja a 314/2009. (XII. 28.) Korm. rendelet 45. §-a szerint módosított szöveg.
+[^212]: A 95. § (1) bekezdés e) pontja a 314/2009. (XII. 28.) Korm. rendelet 45. §-a szerint módosított szöveg.
+[^213]: A 95. § (1) bekezdés f) pontja a 276/2011. (XII. 20.) Korm. rendelet 11. § (5) bekezdése szerint módosított szöveg.
+[^214]: A 95. § (1a) bekezdését a 446/2013. (XI. 28.) Korm. rendelet 9. §-a iktatta be.
+[^215]: A 95. § (5) bekezdés c) pontja a 276/2011. (XII. 20.) Korm. rendelet 11. § (5) bekezdése szerint módosított szöveg.

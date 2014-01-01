@@ -4,9 +4,9 @@
 
 (2) A jogszerű tartózkodás megszakítása esetén a tartózkodási idő számítása újra kezdődik.
 
-(3)[^236] A Tv. 38. §-a alkalmazásában jogszerű tartózkodásnak minősül
+(3)[^241] A Tv. 38. §-a alkalmazásában jogszerű tartózkodásnak minősül
 
-a)[^237] a kilencven napot meghaladó tartózkodásra jogosító vízummal,
+a)[^242] a kilencven napot meghaladó tartózkodásra jogosító vízummal,
 
 b) a tartózkodási engedéllyel,
 
@@ -16,14 +16,14 @@ d) a bevándorlási engedéllyel, letelepedési engedéllyel vagy nemzeti letele
 
 e) a Tv. 30. § (1) bekezdés a) pontja alapján kiállított ideiglenes tartózkodásra jogosító igazolással,
 
-f)[^238] a külön törvény szerinti tartózkodási kártyával vagy állandó tartózkodási kártyával
+f)[^243] a külön törvény szerinti tartózkodási kártyával vagy állandó tartózkodási kártyával
 
-g)[^239] a menekült státuszt vagy kiegészítő védelem fennállását igazoló okmánnyal,
+g)[^244] a menekült státuszt vagy kiegészítő védelem fennállását igazoló okmánnyal,
 
-h)[^240] a menekültként történő elismerést vagy a kiegészítő védelemben való részesítést megelőzően a menedékjogi kérelem elbírálásának idejére kiadott okmánnyal
+h)[^245] a menekültként történő elismerést vagy a kiegészítő védelemben való részesítést megelőzően a menedékjogi kérelem elbírálásának idejére kiadott okmánnyal
 
-[^236]: A 107. § (3) bekezdés záró szövegrésze a 276/2011. (XII. 20.) Korm. rendelet 11. § (2) bekezdése szerint módosított szöveg.
-[^237]: A 107. § (3) bekezdés a) pontja a 447/2013. (XI. 28.) Korm. rendelet 5. § (9) bekezdése szerint módosított szöveg.
-[^238]: A 107. § (3) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 57. §-ával megállapított szöveg.
-[^239]: A 107. § (3) bekezdés g) pontját a 81/2012. (IV. 18.) Korm. rendelet 7. §-a iktatta be.
-[^240]: A 107. § (3) bekezdés h) pontját a 81/2012. (IV. 18.) Korm. rendelet 7. §-a iktatta be.
+[^241]: A 107. § (3) bekezdés záró szövegrésze a 276/2011. (XII. 20.) Korm. rendelet 11. § (2) bekezdése szerint módosított szöveg.
+[^242]: A 107. § (3) bekezdés a) pontja a 447/2013. (XI. 28.) Korm. rendelet 5. § (9) bekezdése szerint módosított szöveg.
+[^243]: A 107. § (3) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 57. §-ával megállapított szöveg.
+[^244]: A 107. § (3) bekezdés g) pontját a 81/2012. (IV. 18.) Korm. rendelet 7. §-a iktatta be.
+[^245]: A 107. § (3) bekezdés h) pontját a 81/2012. (IV. 18.) Korm. rendelet 7. §-a iktatta be.

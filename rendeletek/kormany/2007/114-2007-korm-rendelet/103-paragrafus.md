@@ -1,12 +1,12 @@
 ## Nemzeti letelepedési engedély
 
-103. §[^226] (1) A Tv. 35. § (1) bekezdés a) pontjában foglalt feltételnek az a harmadik országbeli állampolgár felel meg, aki a nemzeti letelepedési engedély iránti kérelem benyújtásáig – a Tv. 35. § (2) bekezdésében foglaltak figyelembevételével – hároméves jogszerű tartózkodását nem szakította meg.
+103. §[^231] (1) A Tv. 35. § (1) bekezdés a) pontjában foglalt feltételnek az a harmadik országbeli állampolgár felel meg, aki a nemzeti letelepedési engedély iránti kérelem benyújtásáig – a Tv. 35. § (2) bekezdésében foglaltak figyelembevételével – hároméves jogszerű tartózkodását nem szakította meg.
 
 (2) A jogszerű tartózkodás megszakítása esetén a tartózkodási idő számítása újra kezdődik.
 
-(3)[^227] A Tv. 35. §-a alkalmazásában jogszerű tartózkodásnak minősül
+(3)[^232] A Tv. 35. §-a alkalmazásában jogszerű tartózkodásnak minősül
 
-a)[^228] a kilencven napot meghaladó tartózkodásra jogosító vízummal,
+a)[^233] a kilencven napot meghaladó tartózkodásra jogosító vízummal,
 
 b) a tartózkodási engedéllyel,
 
@@ -26,9 +26,9 @@ a) külföldi intézményben történő gyógykezelésről szóló igazolással;
 
 b) a gyakori külföldi kiküldetéssel járó munkakör betöltéséről szóló igazolással, illetve a kiküldetések – a munkáltatói jogkör gyakorlója által hitelesített – listájával.
 
-(6)[^229] A Tv. 35. § (1) bekezdés f) pontjában foglalt nemzetgazdasági érdek fennállását a harmadik országbeli állampolgárnak okirattal kell igazolnia.
+(6)[^234] A Tv. 35. § (1) bekezdés f) pontjában foglalt nemzetgazdasági érdek fennállását a harmadik országbeli állampolgárnak okirattal kell igazolnia.
 
-[^226]: [A 103. §-nak a 409/2012. (XII. 28.) Korm. rendelet 19. §-ával 2012. december 28-ával elrendelt módosítása – mivel a módosító rendelet 2012. december 29-én lépett hatályba – nem vezethető át.]
-[^227]: A 103. § (3) bekezdés záró szövegrésze a 276/2011. (XII. 20.) Korm. rendelet 11. § (2) bekezdése szerint módosított szöveg.
-[^228]: A 103. § (3) bekezdés a) pontja a 447/2013. (XI. 28.) Korm. rendelet 5. § (9) bekezdése szerint módosított szöveg.
-[^229]: A 103. § (6) bekezdését a 142/2013. (V. 13.) Korm. rendelet 5. §-a iktatta be.
+[^231]: [A 103. §-nak a 409/2012. (XII. 28.) Korm. rendelet 19. §-ával 2012. december 28-ával elrendelt módosítása – mivel a módosító rendelet 2012. december 29-én lépett hatályba – nem vezethető át.]
+[^232]: A 103. § (3) bekezdés záró szövegrésze a 276/2011. (XII. 20.) Korm. rendelet 11. § (2) bekezdése szerint módosított szöveg.
+[^233]: A 103. § (3) bekezdés a) pontja a 447/2013. (XI. 28.) Korm. rendelet 5. § (9) bekezdése szerint módosított szöveg.
+[^234]: A 103. § (6) bekezdését a 142/2013. (V. 13.) Korm. rendelet 5. §-a iktatta be.

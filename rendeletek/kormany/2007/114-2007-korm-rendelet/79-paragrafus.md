@@ -1,4 +1,4 @@
-## 78. §[^186]
+## 78. §[^191]
 
 79. § (1) Ha a befogadott, illetve az emberkereskedelem áldozatává vált harmadik országbeli állampolgár nem áll társadalombiztosítási jogviszonyban, betegsége esetén a 138. §-ban meghatározott egészségügyi szolgáltatásokat jogosult térítésmentesen igénybe venni.
 
@@ -8,4 +8,4 @@
 
 (4) Az egészségügyi szakellátást a területi ellátási kötelezettséggel működő egészségügyi szolgáltatónál lehet igénybe venni.
 
-[^186]: A 78. §-t a 221/2013. (VI. 24.) Korm. rendelet 28. § b) pontja hatályon kívül helyezte.
+[^191]: A 78. §-t a 221/2013. (VI. 24.) Korm. rendelet 28. § b) pontja hatályon kívül helyezte.
