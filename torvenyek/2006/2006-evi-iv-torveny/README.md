@@ -20,3 +20,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2006-4-00-00
 | 2013-03-28 | 2013. évi XXV. törvény | 2006-4-00-00.34 |
 | 2013-06-30 | 2013. évi CIII. törvény | 2006-4-00-00.35 |
 | 2013-07-13 | 2013. évi CXXXV. törvény | 2006-4-00-00.36 |
+| 2014-01-01 | 2013. évi CCXXXVI. törvény | 2006-4-00-00.37 |

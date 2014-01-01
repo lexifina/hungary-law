@@ -28,7 +28,7 @@ f) a területfejlesztésről és a területrendezésről szóló 1996. évi XXI.
 
 g) a tervező- és szakértő mérnökök, valamint építészek szakmai kamaráiról szóló 1996. évi LVIII. törvény 24. §-ának (3)–(5) bekezdésében;
 
-h) a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény 139. §-a (5) bekezdésének e) pontjában, valamint 176/A. §-ának (2)–(3) bekezdésében;
+h) a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény 47. §-ának (2) és (3) bekezdésében;
 
 i) az Országos Magyar Vadászkamaráról szóló 1997. évi XLVI. törvény 27. §-a (4) bekezdésében;
 
