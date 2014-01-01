@@ -4,4 +4,4 @@
 
 [^4]: Az 5. § a 61/2013. (II. 28.) Korm. rendelet 1. §-a iktatta be.
 [^5]: A hatálybalépés időpontja 2013. március 1.
-[^6]: Az 1. melléklet a 36/2012. (III. 9.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 70/2012. (IV. 11.) Korm. rendelet 3. §-a, a 166/2012. (VII. 19.) Korm. rendelet 11. § (1) bekezdése, a 296/2012. (X. 17.) Korm. rendelet 57. §-a, a 394/2012. (XII. 20.) Korm. rendelet 53. §-a, a 19/2013. (I. 30.) Korm. rendelet 2. §-a, a 61/2013. (II. 28.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^6]: Az 1. melléklet a 36/2012. (III. 9.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 70/2012. (IV. 11.) Korm. rendelet 3. §-a, a 166/2012. (VII. 19.) Korm. rendelet 11. § (1) bekezdése, a 296/2012. (X. 17.) Korm. rendelet 57. §-a, a 394/2012. (XII. 20.) Korm. rendelet 53. §-a, a 19/2013. (I. 30.) Korm. rendelet 2. §-a, a 61/2013. (II. 28.) Korm. rendelet 2. §-a, az 527/2013. (XII. 30.) Korm. rendelet 110. § (2) bekezdése szerint módosított szöveg.

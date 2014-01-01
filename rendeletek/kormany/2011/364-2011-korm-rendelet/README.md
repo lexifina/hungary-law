@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-364-20-
 | 2013-01-01 | 2011-364-20-22.7 | 36/2012. (III. 9.) Korm. rendelet |
 | 2013-01-31 | 2011-364-20-22.8 | 19/2013. (I. 30.) Korm. rendelet |
 | 2013-03-01 | 2011-364-20-22.9 | 61/2013. (II. 28.) Korm. rendelet |
+| 2014-01-01 | 2011-364-20-22.10 | 36/2012. (III. 9.) Korm. rendelet |
