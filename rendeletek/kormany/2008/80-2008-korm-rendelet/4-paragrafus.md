@@ -1,4 +1,4 @@
-## 3. §[^4] Az MVH az ügyfél részére az elektronikus szolgáltatás használatához a szakmai segítséget, illetve a technikai feltételeket a Nemzeti Élelmiszerlánc-biztonsági Hivatallal és a Magyar Agrárkamarával kötött megállapodás alapján is biztosíthatja térítésmentes szolgáltatásként, a falugazdász hálózat, illetve a Magyar Agrárkamara által működtetett ügyfélszolgálati hálózat útján.
+## 3. §[^4] Az MVH az ügyfél részére az elektronikus szolgáltatás használatához a szakmai segítséget, illetve a technikai feltételeket a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamarával kötött megállapodás alapján is biztosíthatja térítésmentes szolgáltatásként, a falugazdász-hálózat mint technikai közreműködő útján.
 
 4. § (1) Ez a rendelet – a (2) bekezdésben foglalt kivételekkel – a kihirdetését követő harmadik napon lép hatályba.
 
@@ -16,7 +16,7 @@
 
 (8)[^9] E rendelet 4. § (3), (5) és (7) bekezdése 2008. május 2-án hatályát veszti.
 
-[^4]: A 3. § a 23/2012. (II. 29.) Korm. rendelet 32. §-a szerint módosított szöveg.
+[^4]: A 3. § az 543/2013. (XII. 30.) Korm. rendelet 4. §-ával megállapított szöveg.
 [^5]: A 4. § (3) bekezdése hatályát vesztette e rendelet 4. § (8) bekezdése alapján.
 [^6]: A 4. § (4) bekezdése a 99/2008. (IV. 29.) Korm. rendelet 2. § (3) bekezdése, a 182/2009. (IX. 10.) Korm. rendelet 619. §-a, a 264/2012. (IX. 17.) Korm. rendelet 1. §-a szerint módosított szöveg.
 [^7]: A 4. § (5) bekezdése hatályát vesztette e rendelet 4. § (8) bekezdése alapján.
