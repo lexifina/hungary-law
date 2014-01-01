@@ -1,4 +1,4 @@
-1. melléklet a 67/2007. (XII. 28.) IRM rendelethez[^8]
+1. melléklet a 67/2007. (XII. 28.) IRM rendelethez[^13]
 
 1. BARANYA MEGYEI RENDŐR-FŐKAPITÁNYSÁG
 
@@ -2196,9 +2196,9 @@
 
 6.7.7. Szeged
 
-6.7.8. Tiszasziget
+6.7.8.
 
-6.7.9. Újszentiván
+6.7.9.
 
 6.7.10. Zákányszék
 
@@ -2230,7 +2230,15 @@
 
 6.8.7. Maroslele
 
-6.8.8. Kiszombor közúti határátkelőhely
+6.8.8. Tiszasziget
+
+6.8.9. Újszentiván
+
+6.8.10. Kiszombor küzúti határátkelőhely
+
+6.8.11. Tiszasziget küzúti határátkelőhely
+
+6.8.12. Szőreg közigazgatási területe a Tisza folyó vonaláig
 
 6.9. Határrendészeti Kirendeltség Nagylak
 
@@ -5504,57 +5512,59 @@
 
 16.10.17. Kisnamény
 
-16.10.18. Kisszekeres
+16.10.18. Kispalád
 
-16.10.19. Kocsord
+16.10.19. Kisszekeres
 
-16.10.20. Komlódtótfalu
+16.10.20. Kocsord
 
-16.10.21. Mátészalka
+16.10.21. Komlódtótfalu
 
-16.10.22. Méhtelek
+16.10.22. Mátészalka
 
-16.10.23. Nagydobos
+16.10.23. Méhtelek
 
-16.10.24. Nagyhódos
+16.10.24. Nagydobos
 
-16.10.25. Nagyszekeres
+16.10.25. Nagyhódos
 
-16.10.26. Nyírcsaholy
+16.10.26. Nagyszekeres
 
-16.10.27. Ököritófülpös
+16.10.27. Nyírcsaholy
 
-16.10.28. Pátyod
+16.10.28. Ököritófülpös
 
-16.10.29. Porcsalma
+16.10.29. Pátyod
 
-16.10.30. Rápolt
+16.10.30. Porcsalma
 
-16.10.31. Rozsály
+16.10.31. Rápolt
 
-16.10.32. Szamosangyalos
+16.10.32. Rozsály
 
-16.10.33. Szamosbecs
+16.10.33. Szamosangyalos
 
-16.10.34. Szamossályi
+16.10.34. Szamosbecs
 
-16.10.35. Szamostatárfalva
+16.10.35. Szamossályi
 
-16.10.36. Szamosújlak
+16.10.36. Szamostatárfalva
 
-16.10.37. Tisztaberek
+16.10.37. Szamosújlak
 
-16.10.38. Tunyogmatolcs
+16.10.38. Tisztaberek
 
-16.10.39. Tyukod
+16.10.39. Tunyogmatolcs
 
-16.10.40. Ura
+16.10.40. Tyukod
 
-16.10.41. Zajta
+16.10.41. Ura
 
-16.10.42. Zsarolyán
+16.10.42. Zajta
 
-16.10.43. Csengersima közúti határátkelőhely
+16.10.43. Zsarolyán
+
+16.10.44. Csengersima közúti határátkelőhely
 
 16.11. Határrendészeti Kirendeltség Kölcse
 
@@ -5570,7 +5580,7 @@
 
 16.11.6. Kisar
 
-16.11.7. Kispalád
+16.11.7.
 
 16.11.8. Kölcse
 
@@ -7414,10 +7424,10 @@
 
 21.1.2. Budapest Liszt Ferenc Nemzetközi Repülőtér 1. terminál légi határátkelőhely
 
-21.1.3. Budapest Liszt Ferenc Nemzetközi Repülőtér 2/A. terminál légi határátkelőhely
+21.1.3. Budapest Liszt Ferenc Nemzetközi Repülőtér 2/A terminál légi határátkelőhely
 
-21.1.4. Budapest Liszt Ferenc Nemzetközi Repülőtér 2/B. terminál légi határátkelőhely
+21.1.4. Budapest Liszt Ferenc Nemzetközi Repülőtér 2/B terminál légi határátkelőhely
 
 21.1.5. A légiforgalmi szolgálat központi létesítménye
 
-[^8]: Az 1. melléklet a 16/2010. (IV. 27.) IRM rendelet 2. § (1) bekezdésével megállapított, a 16/2010. (IV. 27.) IRM rendelet 2. § (2) bekezdése, a 23/2011. (VII. 21.) BM rendelet 6. §-a, a 87/2012. (XII. 29.) BM rendelet 1. §-a, a 24/2013. (VI. 20.) BM rendelet 2–3. §-a és 6. §-a szerint módosított szöveg.
+[^13]: Az 1. melléklet a 16/2010. (IV. 27.) IRM rendelet 2. § (1) bekezdésével megállapított, a 16/2010. (IV. 27.) IRM rendelet 2. § (2) bekezdése, a 23/2011. (VII. 21.) BM rendelet 6. §-a, a 87/2012. (XII. 29.) BM rendelet 1. §-a, a 24/2013. (VI. 20.) BM rendelet 2–7. §-a, a 74/2013. (XII. 18.) BM rendelet 2. §-a szerint módosított szöveg.
