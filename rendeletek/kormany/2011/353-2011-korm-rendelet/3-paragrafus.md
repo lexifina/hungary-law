@@ -1,6 +1,6 @@
 ## 2. Az önkormányzat ügyleteinek engedélyezése
 
-3. § (1)[^3] A tárgyévben várható fejlesztési célú, kormányzati hozzájáruláshoz kötött ügyletekről az önkormányzat a költségvetési rendeletének, határozatának elfogadását követően, de legkésőbb március 15-éig a kincstár által üzemeltetett elektronikus rendszerben szereplő adatlapon – e rendszeren keresztül – adatot szolgáltat a kincstár önkormányzat székhelye szerint illetékes területi szervének (a továbbiakban: Igazgatóság).
+3. § (1)[^3] A tárgyévben várható adósságot keletkeztető ügyleteiről – a likvid hitel, az adósságrendezési eljárás során a hitelezői egyezség megkötéséhez szükséges reorganizációs hitel és a stabilitási törvény 10. § (10) bekezdése szerinti adósságmegújító ügylet kivételével – az önkormányzat a költségvetési rendeletének, határozatának elfogadását követően, de legkésőbb március 16-áig a kincstár által üzemeltetett elektronikus rendszerben szereplő adatlapon – e rendszeren keresztül – adatot szolgáltat a kincstár önkormányzat székhelye szerint illetékes területi szervének (a továbbiakban: Igazgatóság).
 
 (2) Az (1) bekezdésben meghatározott adatszolgáltatásban meg kell jelölni
 
@@ -22,5 +22,5 @@ h) ha az adatszolgáltatás benyújtásakor ismert, az ügylet típusát, futami
 
 (3) Az (1) bekezdés szerinti adatszolgáltatás nem minősül hozzájárulás iránti kérelemnek. E kérelmét az önkormányzat az 5. § (1) bekezdése alapján nyújtja be.
 
-[^3]: A 3. § (1) bekezdése a 271/2012. (IX. 26.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^3]: A 3. § (1) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^4]: A 3. § (2) bekezdés g) pontja az 56/2012. (III. 30.) Korm. rendelet 21. §-ával megállapított szöveg.
