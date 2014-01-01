@@ -8,7 +8,7 @@
 
 | Budapest VIII. kerület Diószeghy Sámuel utca 26. Hrsz. 35983; Budapest VIII. kerület Diószeghy Sámuel utca 28. Hrsz. 35996; Budapest VIII. kerület Diószeghy Sámuel utca 30. Hrsz. 35997; Budapest VIII. kerület Sárkány utca 8. Hrsz. 35995; Budapest VIII. kerület Nagyvárad tér Hrsz. 36806/3; Budapest VIII. kerület Üllői út |
 
-| 3 | Hrsz. 36806/2; Budapest VIII. kerület Ludovika tér Hrsz. 36179; Budapest VIII. kerület Korányi Sándor utca Hrsz. 36031; Budapest VIII. kerület Diószeghy Sámuel utca Hrsz. 35903; Budapest VIII. kerület Dugonics utca Hrsz. 36054; Budapest VIII. kerület Orczy út Hrsz. 35929/2. | környezetvédelmi és vízjogi hatósági engedélyezési eljárások | Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 3 | Hrsz. 36806/2; Budapest VIII. kerület Ludovika tér Hrsz. 36179; Budapest VIII. kerület Korányi Sándor utca Hrsz. 36031; Budapest VIII. kerület Diószeghy Sámuel utca Hrsz. 35903; Budapest VIII. kerület Dugonics utca Hrsz. 36054; Budapest VIII. kerület Orczy út Hrsz. 35929/2. | környezetvédelmi és vízjogi hatósági engedélyezési eljárások | a környezetvédelmi hatósági eljárások vonatkozásában a Közép- Duna-völgyi Környezetvédelmi és Természetvédelmi Felügyelőség, a vízügyi hatósági eljárások vonatkozásában a Közép- Duna-völgyi Vízügyi Hatóság | a környezetvédelmi hatósági eljárások vonatkozásában az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség, a vízügyi hatósági eljárások vonatkozásában az Országos Vízügyi Hatóság |
 
 | 4 | útügyi hatósági engedélyezési eljárások | Budapest Főváros Kormányhivatala Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
@@ -44,7 +44,9 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 | 2 | Építésügy | Budapest Főváros Kormányhivatala V. Kerületi Hivatalának Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
-| 3 | Környezetvédelem, természetvédelem és vízügy | Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 3 | környezet- és természetvédelem | Közép-Duna-völgyi Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+
+| 3a. | vízügy | Közép-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
 | 4 | Katasztrófavédelem | Fővárosi Katasztrófavédelmi Igazgatóság | Belügyminisztérium |
 
@@ -82,4 +84,4 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 | 19 | Honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
 
-[^11]: A 2. melléklet a 296/2012. (X. 17.) Korm. rendelet 61. §-a, a 394/2012. (XII. 20.) Korm. rendelet 58. §-a szerint módosított szöveg.
+[^11]: A 2. melléklet a 296/2012. (X. 17.) Korm. rendelet 61. §-a, a 394/2012. (XII. 20.) Korm. rendelet 58. §-a, az 527/2013. (XII. 30.) Korm. rendelet 116. § (1) bekezdése szerint módosított szöveg.
