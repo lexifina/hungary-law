@@ -66,7 +66,7 @@
 
 31. a földgázrendszerek egymás közötti, valamint a földgázrendszerek és a földgáztermelő közötti átadás- átvételi elszámolási mérési helyek és eszközök kiépítésében és üzemeltetésében érintettek együttműködési kötelezettségét,
 
-32. a földgázellátási válsághelyzet minősítését, kihirdetésének és megszüntetésének szabályait, valamint az intézkedésre jogosult szervezeteket, azok felelősségi és hatáskörét, a földgázellátási válsághelyzet esetére létrehozott bizottság összetételére, eljárására vonatkozó részletes szabályokat,
+32. a földgázellátási válsághelyzet minősítését, kihirdetésének és megszüntetésének szabályait, valamint az intézkedésre jogosult szervezeteket, azok felelősségi és hatáskörét,
 
 33. a korlátozásra vonatkozó részletes rendelkezéseket, ezen belül a korlátozási kategóriákat, a besorolás szabályait, valamint a korlátozható felhasználókra vonatkozó jogokat és kötelezettségeket,
 
@@ -106,4 +106,6 @@
 
 51. a földgázellátásból történő kikapcsolás alkalmazása alóli mentesítésre jogosult közintézményi felhasználók körét, a mentesítés feltételeit, a moratórium részletes szabályait, valamint a moratóriummal érintett felek jogait és kötelezettségeit,
 
-52. a földgázkereskedő által a földgáz biztonsági készletezéséről szóló törvény szerinti tagi hozzájárulás visszaigénylése és a 141/C. § alapján felajánlott földgázforrás felhasználása céljából az egyetemes szolgáltatásra jogosult felhasználó részére biztosítandó szolgáltatásokat.
+52. a földgázkereskedő által a földgáz biztonsági készletezéséről szóló törvény szerinti tagi hozzájárulás visszaigénylése és a 141/C. § alapján felajánlott földgázforrás felhasználása céljából az egyetemes szolgáltatásra jogosult felhasználó részére biztosítandó szolgáltatásokat,
+
+53. az e törvény szerinti, a PB-gáz tartályban vagy palackban történő forgalmazásának, valamint a PB-gáz turista palackba történő átfejtésének szabályait és hatósági felügyeletét, az e tevékenységekre jogosító engedély kiadásának rendjét, az e tevékenységeket folytatókról vezetett nyilvántartás személyes adatot nem tartalmazó adattartalmát, valamint a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá az e tevékenységekre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket.

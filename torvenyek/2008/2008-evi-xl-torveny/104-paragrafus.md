@@ -16,10 +16,4 @@
 
 (8) A hatósági ártól lefelé megkülönböztetés mentesen, előre nyilvánosságra hozott módon el lehet térni.
 
-(9) A hatósági árra vonatkozó rendelkezések betartását a Hivatal ellenőrzi. A Hivatal a hatósági árra vonatkozó rendelkezések megsértése esetén
-
-a) megtiltja a jogszabálysértő árajánlat, díj vagy ár alkalmazását, és egyidejűleg kötelezi az engedélyest a jogszerű ellenérték alkalmazására, valamint
-
-b) kötelezi az engedélyest a rendelkezések megsértésével elért többletbevétel – a többletbevétel realizálása és visszatérítése közötti időszakra vonatkozóan a jegybanki alapkamat tárgyévi éves átlagával megnövelt – összegének a sérelmet szenvedett fél részére történő visszatérítésére, ha pedig ennek személye nem állapítható meg, az engedélyes által ellátott valamennyi felhasználó, felhasználó hiányában az engedélyessel jogviszonyban álló rendszerhasználók részére történő visszatérítésére, és
-
-c) bírságot szabhat ki.
+(9)

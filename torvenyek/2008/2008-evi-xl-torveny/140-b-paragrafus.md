@@ -1,1 +1,1 @@
-140/B. § A Hivatal az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló 2012. évi CCXVII. törvénnyel (a továbbiakban: Mód. 2. törvény) megállapított 104/A. § (1) bekezdése szerinti költség-felülvizsgálatot 2013. december 31-ig folytatja le.
+### 140/B. §

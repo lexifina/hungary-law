@@ -8,6 +8,6 @@
 
 (5)
 
-(6) Az egyetemes szolgáltatás árának meghatározása során az egyes ágazatokat terhelő különadóról szóló 2010. évi XCIV. törvény szerinti különadó nem minősül indokolt költségnek és nem képezheti indokolt árbevételi igény alapját.
+(6)
 
 (6)

@@ -2,6 +2,6 @@
 
 a) a jogkövetkezményre való utalás mellett felszólítja az előírások betartására, illetve
 
-b) a földgázellátásról szóló 2008. évi XL. törvény rendelkezéseinek végrehajtásáról szóló kormányrendeletben meghatározott mértékű bírságot szab ki.
+b) ha az a) pont szerinti felszólításnak a kötelezett határidőben nem tett eleget, a földgázellátásról szóló 2008. évi XL. törvény rendelkezéseinek végrehajtásáról szóló kormányrendeletben meghatározott mértékű bírságot szab ki.
 
 (2) Bírság kiszabása során a földgázellátásról szóló 2008. évi XL. törvény rendelkezéseinek végrehajtásáról szóló kormányrendelet rendelkezéseit megfelelően alkalmazni kell.

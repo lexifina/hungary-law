@@ -26,6 +26,14 @@ c) a határidő eredménytelen eltelte után más engedélyest jelölhet ki a jo
 
 (2b) A Hivatal a szállítóvezeték tulajdonosával szemben az (1) bekezdésben meghatározott jogszabályokban és uniós jogi aktusokban, valamint a Hivatal által kiadott határozatokban foglalt kötelezettségeinek megszegése esetén az (1) bekezdés a) és b) pontjában foglalt jogkövetkezményeket alkalmazhatja.
 
+(2c) A Hivatal az (1) bekezdés a) és b) pontja szerinti jogkövetkezményeket alkalmazza, ha
+
+a) a PB-gáz forgalmazó a 125. § (17) bekezdésében, vagy
+
+b) a PB-gáz forgalmazó vagy a PB-gáz kiskereskedő a 127. § s) pontjában
+
+foglalt kötelezettségét nem teljesíti.
+
 (3) A Hivatal az (1)–(2) bekezdésekben felsorolt intézkedéseket egyidejűleg is alkalmazhatja. A (2) bekezdés c) pontja szerinti kijelölés esetén a Hivatal dönt az engedélyes tevékenység felfüggesztéséről, vagy az engedély teljes vagy részleges visszavonásáról. A bírság ismételten kiszabható. A kiszabható bírság legmagasabb összegét külön jogszabály határozza meg.
 
 (3a) A Hivatal kormányrendeletben meghatározott eljárás keretében más engedélyest is kijelölhet a tevékenység folytatására, ha az engedélyben foglalt tevékenységet nem a jogszabályi előírásoknak megfelelően folytatják, és ez közvetlenül veszélyezteti a folyamatos és biztonságos földgázellátást, illetve közvetlenül a földgázrendszer jelentős zavarát idézheti elő.

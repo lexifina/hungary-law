@@ -10,11 +10,11 @@ a) a 105. § (1) bekezdése szerinti rendszerhasználati díj – kivéve a 105/
 
 b) a 108. § (1) bekezdése szerinti csatlakozási díj,
 
-c) a rendszerüzemeltető vagy az egyetemes szolgáltató által a felhasználók igénye alapján végzett alapszolgáltatásokon túli egyéb szolgáltatások 106. § szerinti díja,
+c) a rendszerüzemeltető vagy az egyetemes szolgáltató által a felhasználók vagy az engedélyesek igénye alapján végzett alapszolgáltatásokon túli egyéb szolgáltatások 106. § szerinti díja,
 
 d) az egyetemes szolgáltatás 107. § (3) bekezdése szerinti ára
 
-e) a 141. § (3) bekezdés és a 141/A. § szerinti felajánlási ár, valamint
+e) a 141. § (3) bekezdése, a 141/A. § és a 141/C. § szerinti felajánlási ár,
 
 f) az 1998. január 1. előtt termelésbe állított szénhidrogén mezőkből termelt földgáz (a továbbiakban: hazai termelésű földgáz) ára az egyetemes szolgáltatás keretében földgázt vételező felhasználók ellátásához szükséges – miniszteri rendeletben meghatározott – mennyiség mértékéig,
 
@@ -36,7 +36,7 @@ c) miniszteri rendeletben meghatározott személyek a (2) bekezdés c) pontjába
 
 d) az egyetemes szolgáltatás keretében ellátott felhasználó a (2) bekezdés d) pontjában,
 
-e) az egyetemes szolgáltató a (2) bekezdés e) pontjában, és
+e) az egyetemes szolgáltató és a földgázkereskedő a (2) bekezdés e) pontjában,
 
 f) az egyetemes szolgáltató és a volt közüzemi nagykereskedő a (2) bekezdés f) pontjában
 

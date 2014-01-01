@@ -4,4 +4,4 @@
 
 2. a csatlakozási díjakat és alkalmazásuk szabályait,
 
-3. a 104/A. § szerinti árszabályozási ciklus kezdetének időpontját.
+3. a 104/A. § szerinti árszabályozási ciklus kezdetének időpontját és időtartamát.

@@ -88,7 +88,7 @@
 
 36. Gázév: a tárgyév július 1-jei gáznap kezdetétől a következő év június 30-ai gáznap végéig terjedő időszak.
 
-37. Gázfogyasztó készülék: földgázzal, valamint propán- vagy butángázzal és ezek elegyeivel üzemeltetett készülék.
+37. Gázfogyasztó készülék: földgázzal, valamint PB-gázzal üzemeltetett készülék.
 
 38. Gáznap: az adott nap reggel 06:00-tól a következő nap reggel 06:00-ig tartó időszak.
 
@@ -174,14 +174,16 @@ b) Horizontálisan integrált vállalkozás: olyan földgázipari vállalkozás,
 
 69. Végső menedékes szolgáltatás: ideiglenes földgázellátás, amelyet a Hivatal által kijelölt földgázkereskedő biztosít azon egyetemes szolgáltatók vagy egyetemes szolgáltatásra jogosult felhasználók részére, akiket földgázkereskedőjük valamilyen okból nem képes ellátni.
 
-70. Vezetékes PB-gáz szolgáltatás: a felhasználók részére propán-, butángázok és ezek elegyeiből álló gázok csővezetéken keresztül történő elosztása és értékesítése.
+70. Vezetékes PB-gáz szolgáltatás: a felhasználók részére PB-gáz csővezetéken keresztül történő elosztása és értékesítése.
 
 71. Lakossági PB-gáz fogyasztó: aki saját háztartása – egy felhasználási helyet képező egy vagy több lakóépület, lakás, üdülő vagy hétvégi ház, továbbá lakossági célra használt garázs – fogyasztása céljára vásárol tartályban forgalmazott PB-gázt vagy vezetékes PB-gázt, és az így vásárolt PB-gázzal nem folytat jövedelemszerzés céljából gazdasági tevékenységet. Ha a lakóépületben a műszakilag megosztott, önálló lakások száma meghaladja az épületben lévő önálló nem lakás céljára szolgáló helyiségek számát, a felhasználót úgy kell tekinteni, hogy saját háztartás céljára vásárol, és a vásárolt, tartályban forgalmazott vagy vezetékes PB-gázzal nem folytat jövedelemszerzés céljából gazdasági tevékenységet.
 
-72. PB-gáz forgalmazó: aki PB-gáz forgalmazási tevékenység végzésére a bányafelügyelet által kiadott, érvényes engedéllyel rendelkezik.
+72. PB-gáz forgalmazó: aki PB-gáz forgalmazási tevékenység végzésére a műszaki-biztonsági hatóság által kiadott, hatályos engedéllyel rendelkezik, vagy a forgalmazási tevékenység folytatására irányuló szándékát a műszaki-biztonsági hatóságnak bejelentette.
 
 73. PB-gáz kiskereskedő: aki
 
 a) a PB-gáz palackos PB-gáz értékesítőhelyen vagy üzemanyagtöltő állomáson történő értékesítéséhez szükséges, a kereskedelmi tevékenység folytatásának feltételeiről szóló jogszabály szerinti bejelentést megtette, illetve a PB-gáz palackból turista használatú palackba történő átfejtés végzésére engedéllyel rendelkezik, vagy
 
 b) önálló kereskedelmi ügynöki tevékenység keretében, a PB-gáz forgalmazóval fennálló szerződéses kapcsolat alapján a PB-gáz forgalmazó tulajdonában lévő palackos PB-gázt értékesít, és a kereskedelmi tevékenység folytatásának feltételeiről szóló jogszabály szerint a tevékenységét bejelentette.
+
+74. PB-gáz: propán-, butángázok és ezek elegyei.
