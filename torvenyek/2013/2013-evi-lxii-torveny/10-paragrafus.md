@@ -1,13 +1,13 @@
 10. § (1) Hatályát veszti a Fot.
 
-a)
+a) 7/B. § (1), (2) és (4) bekezdése,
 
 b)
 
-c)
+c) 29/B. §-a,
 
 d)
 
-e)
+e) melléklete.
 
 (2)
