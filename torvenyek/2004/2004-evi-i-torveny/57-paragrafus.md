@@ -24,7 +24,7 @@ g) az a sportszövetség, amely az e törvényben és a sport területén képes
 
 h) az a sportszövetség, amely nem rendelkezik a sportágára vonatkozóan stratégiai fejlesztési koncepcióval,
 
-i) az a szervezet, amely a sportigazgatási szerv által a látvány-csapatsport támogatását biztosító szabályokról szóló kormányrendeletben meghatározottak szerinti támogatásból kizárás hatálya alatt áll,
+i) az a szervezet, amely a sportpolitikáért felelős miniszter által a látvány-csapatsport támogatását biztosító szabályokról szóló kormányrendeletben meghatározottak szerinti támogatásból kizárás hatálya alatt áll,
 
 j) az a sportszövetség, amelyik az (5) bekezdés szerinti kötelezettségét határidőre nem teljesíti.
 

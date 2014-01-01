@@ -1,4 +1,4 @@
-51. § (1) A sport irányításával, szabályozásával és ellenőrzésével kapcsolatos, e törvényben és külön jogszabályokban meghatározott feladatok ellátásáról a miniszter gondoskodik.
+51. § (1) A sport irányításával, szabályozásával és ellenőrzésével kapcsolatos, e törvényben és külön jogszabályokban meghatározott feladatok ellátásáról a sportpolitikáért felelős miniszter gondoskodik.
 
 (2) A sportpolitikáért felelős miniszter:
 
@@ -14,23 +14,23 @@ e) együttműködik az Országos Területfejlesztési Tanáccsal, az érintett m
 
 f) együttműködik a MOB-bal, valamint kapcsolatot tart a sport területén működő civil, érdek-képviseleti szervekkel,
 
-g) – a (2a) bekezdésben foglaltakra is figyelemmel – ellátja a látvány-csapatsportok támogatásával összefüggő következő közigazgatási hatósági és szolgáltatási, valamint a látvány-csapatsport támogatás felhasználásának ellenőrzésével kapcsolatos elszámolással, részelszámolással összefüggő feladatokat:
+g) ellátja a látvány-csapatsportok támogatásával összefüggő következő közigazgatási hatósági és szolgáltatási, valamint a látvány-csapatsport támogatás felhasználásának ellenőrzésével kapcsolatos elszámolással, részelszámolással összefüggő feladatokat:
 
-ga) a Tao. 22/C. § (1) bekezdés a) és e) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelme esetén dönt a Tao. 4. § 44. pontjában és 22/C. §-ában meghatározott támogatás feltételét képező sportfejlesztési program jóváhagyásáról,
+ga) a Tao. 22/C. § (1) bekezdés a) és e) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelme esetén dönt a Tao. 4. § 44. pontjában és 22/C. §-ában meghatározott támogatás feltételét képező sportfejlesztési program, valamint a Tao. 22/C. § (9) bekezdés szerinti sportfejlesztési program jóváhagyásáról,
 
-gb) a Tao. 22/C. § (1) bekezdés a) és e) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelme esetén igazolja a támogatások igénybevételére vonatkozó jogosultságot, valamint kiállítja az adókedvezményekre jogosító, a Tao. 4. § 45. pontja és 22/C. §-a szerinti támogatási igazolást,
+gb) a Tao. 22/C. § (1) bekezdés a) és e) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelme esetén igazolja a támogatások igénybevételére vonatkozó jogosultságot, továbbá kiállítja az adókedvezményekre jogosító, a Tao. 22/C. §-a szerinti támogatási igazolást,
 
 gc) a látvány-csapatsportok támogatásával összefüggő adatszolgáltatási tevékenységet végez,
 
-gd) valamennyi támogatott szervezet vonatkozásában ellenőrzi a Tao. 4. § 44. pontjában és 22/C. §-ában meghatározott támogatás rendeltetésszerű felhasználását, a támogatással megvalósuló beruházásokkal érintett sportcélú ingatlanok és a támogatásból megvalósuló tárgyi eszköz felújítások sportcélú hasznosításának fenntartását,
+gd) a Tao. 22/C. § (1) bekezdés a) és e) pontjában, valamint a Tao. 22/C. § (9a) bekezdése szerinti esetben a Tao. 22/C. § (1) bekezdés b)–d) pontjában meghatározott támogatott szervezetek jóváhagyott sportfejlesztési programjai vonatkozásában ellenőrzi a Tao. 4. § 44. pontjában és 22/C. §-ában meghatározott támogatás rendeltetésszerű felhasználását, a támogatással megvalósuló beruházásokkal érintett sportcélú ingatlanok és a támogatásból megvalósuló tárgyi eszköz felújítások sportcélú hasznosításának fenntartását, valamint a 22.§ (2) bekezdés f) pont ff) alpontja szerinti, a szakszövetség által készített, ellenőrzésre vonatkozó összesítő elszámolást jóváhagyja,
 
-ge) kötelezi a támogatott szervezetet a Tao. 4. § 44. pontja és 22/C. §-a szerinti támogatás, valamint annak a Tao. felhatalmazása alapján kiadott kormányrendeletben meghatározottak szerinti kamata állam részére történő befizetésére, amennyiben a támogatás felhasználásának ellenőrzése során megállapítja, hogy a támogatott szervezet a támogatást nem rendeltetésszerűen vette igénybe,
+ge) a szakszövetség kezdeményezésére intézkedik a Tao. 22/C. § (6) bekezdés a) és d) pontjában meghatározott jelzálogjognak az állam javára az ingatlan-nyilvántartásba történő bejegyeztetésére vonatkozó kérelem benyújtásáról;
 
-gf) kezdeményezi az adók módjára behajtandó köztartozásnak minősülő, szabálytalanul igénybe vett és be nem fizetett támogatás, valamint annak a Tao. felhatalmazása alapján kiadott kormányrendeletben meghatározottak szerint megnövelt összege és kamata behajtását, ha a ge) pont szerinti kötelezés ellenére a támogatott szervezet a nem rendeltetésszerűen igénybe vett támogatást és annak kamatát nem fizeti be az állam részére,
+gf) kötelezi a támogatott szervezetet a Tao. 4. § 44. pontja és 22/C. §-a szerinti támogatás, valamint annak a Tao. felhatalmazása alapján kiadott kormányrendeletben meghatározottak szerinti kamata állam részére történő befizetésére, ha a támogatás felhasználásának ellenőrzése során megállapítja, hogy a támogatott szervezet a támogatást nem rendeltetésszerűen vette igénybe;
 
-gg) intézkedik a Tao. 22/C. § (6) bekezdés a) és d) pontjában meghatározott jelzálogjognak a magyar állam javára történő bejegyeztetéséről az ingatlan-nyilvántartásba;
+gg) kezdeményezi az adók módjára behajtandó köztartozásnak minősülő, szabálytalanul igénybe vett és be nem fizetett támogatás, valamint annak a Tao. felhatalmazása alapján kiadott kormányrendeletben meghatározottak szerint megnövelt összege és kamata behajtását, ha a gf) pont szerinti kötelezés ellenére a támogatott szervezet a nem rendeltetésszerűen igénybe vett támogatást és annak kamatát nem fizeti be az állam részére;
 
-gh) ellátja a jogszabályokban meghatározott egyéb feladatokat,
+gh) ellátja a jogszabályokban meghatározott egyéb feladatokat;
 
 gi) kapcsolatot tart az állami adóhatósággal, a Tao. szerint nyújtott támogatás ellenőrzésére jogosult más szervekkel, valamint a 22. § (2) bekezdés f) pontjában meghatározott jogkörében eljáró látvány-csapatsportág országos sportági szakszövetségével, ennek keretében a kérelem elbírálását követő 8 napon belül tájékoztatja a látvány-csapatsportág országos sportági szakszövetségét az általa kiadott támogatási igazolásokról;
 
@@ -66,8 +66,8 @@ k) közreműködik a sportszakember-képzésben és -továbbképzésben a hatás
 
 l) a MOB-bal együttműködésben meghatározza az állami sportcélú támogatásban részesülő kiemelkedő jelentőségű sportegészségügyi és sporttudományos feladatokat, javaslatot tesz a sportegészségügyi és a sporttudományos feladatok ellátásának szervezeti kereteire, és figyelemmel kíséri a feladatok megvalósítását.
 
-(2a) Az (1) bekezdés g) pontjában meghatározott feladatot a sportpolitikáért felelős miniszter az irányítása alatt álló, a látvány-csapatsport támogatását biztosító támogatási igazolás kiállításáról, felhasználásáról, a támogatás elszámolásának és ellenőrzésének, valamint visszafizetésének szabályairól szóló kormányrendeletben az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló kormányrendelet vonatkozó rendelkezéseire figyelemmel meghatározott sportigazgatási szerv útján látja el.
+(2a)
 
 (3) A (2) bekezdés g) pontja alapján végzett közigazgatási hatósági és szolgáltatási feladatokért jogszabályban meghatározott mértékű igazgatási szolgáltatási díjat kell fizetni.
 
-(4) A sportigazgatási szerv által a (2) bekezdés g) pont ga) és gb) alpontja szerinti közigazgatási hatósági eljárásban hozott döntés ellen közigazgatási eljárás keretében fellebbezésnek helye nincs.
+(4) A sportpolitikáért felelős miniszter által a (2) bekezdés g) pont ga) és gb) alpontja szerinti közigazgatási hatósági eljárásban hozott döntés ellen közigazgatási eljárás keretében fellebbezésnek helye nincs.

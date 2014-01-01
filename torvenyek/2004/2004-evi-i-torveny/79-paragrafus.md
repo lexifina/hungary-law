@@ -2,7 +2,7 @@
 
 79. § (1) Felhatalmazást kap a Kormány, hogy
 
-a) rendeletben jelölje ki a sportigazgatási szervet vagy szerveket, és
+a)
 
 b) rendeletben állapítsa meg
 
@@ -32,7 +32,7 @@ bl) a biztonságtechnikai fejlesztésre kötelezettek körét, és
 
 bm) a 18. életévét be nem töltött versenyző javára a sporttevékenységével összefüggő biztosításra vonatkozó részletes szabályokat.
 
-(2) Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg
+(2) Felhatalmazást kap a sportpolitikáért felelős miniszter, hogy rendeletben állapítsa meg
 
 a) az egyes sportcélú ingatlanok tulajdoni helyzetének rendezéséről szóló 1996. évi LXV. törvény 5. §-ának (5) bekezdésében meghatározott méltányossági hozzájárulás iránti kérelemhez csatolandó okiratok, tervek és adatok körét, valamint a méltányossági eljárás szabályait,
 
@@ -42,8 +42,8 @@ c) az amatőr és a hivatásos sportolói versenyengedély kiadásának feltéte
 
 (3)
 
-(4) Felhatalmazást kap az oktatásért felelős miniszter, hogy a miniszter egyetértésével kiadott rendeletben határozza meg az iskolai sportkörök tevékenységének szervezésével, a sportiskolák létrehozásával és működésével kapcsolatos részletes szabályokat, és a tornateremmel nem rendelkező iskolák fenntartója által kötelezően biztosítandó sportolási lehetőségeket.
+(4) Felhatalmazást kap az oktatásért felelős miniszter, hogy a sportpolitikáért felelős miniszter egyetértésével kiadott rendeletben határozza meg az iskolai sportkörök tevékenységének szervezésével, a sportiskolák létrehozásával és működésével kapcsolatos részletes szabályokat, és a tornateremmel nem rendelkező iskolák fenntartója által kötelezően biztosítandó sportolási lehetőségeket.
 
 (5) Felhatalmazást kap a rendészetért felelős miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben rendeletben állapítsa meg a kiemelt biztonsági kockázatú sportrendezvények közfeladatként történő rendőri biztosításához nyújtható támogatások felhasználásának részletes szabályait.
 
-(6) Felhatalmazást kap a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben rendeletben állapítsa meg a 22. § (5) bekezdésében és az 51. § (3) bekezdésében meghatározott igazgatási szolgáltatási díj mértékét.
+(6) Felhatalmazást kap a sportpolitikáért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben rendeletben állapítsa meg a 22. § (5) bekezdésében és az 51. § (3) bekezdésében meghatározott igazgatási szolgáltatási díj mértékét.

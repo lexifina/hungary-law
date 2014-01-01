@@ -32,13 +32,19 @@ e) meghatározza a sportlétesítmények használatával, illetve a sportesemén
 
 f) a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény (a továbbiakban: Tao.) 4. § 41. pontja szerinti látvány-csapatsportban működő szakszövetség az a)–e) pontban meghatározott feladatok mellett
 
-fa) a Tao. 22/C. § (1) bekezdés b), c) és d) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelme esetén dönt a Tao. 4. § 44. pontjában és 22/C. §-ában meghatározott támogatás feltételét képező sportfejlesztési program jóváhagyásáról,
+fa) a Tao. 22/C. § (1) bekezdés b)–d) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelme esetén dönt a Tao. 4. § 44. pontjában és 22/C. §-ában meghatározott támogatás feltételét képező sportfejlesztési program, valamint a Tao. 22/C. § (9a) bekezdés szerinti sportfejlesztési program jóváhagyásáról,
 
-fb) a Tao. 22/C. § (1) bekezdés b), c) és d) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelme esetén igazolja a támogatások igénybevételére vonatkozó jogosultságot, valamint kiállítja az adókedvezményekre jogosító, a Tao. 4. § 45. pontja és 22/C. §-a szerinti támogatási igazolást,
+fb) a Tao. 22/C. § (1) bekezdés b)–d) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelme esetén igazolja a támogatások igénybevételére vonatkozó jogosultságot, valamint kiállítja az adókedvezményekre jogosító, a Tao. 22/C. §-a szerinti támogatási igazolást,
 
-fc) kezdeményezi a sportigazgatási szervnél a Tao. 22/C. § (6) bekezdés a) és d) pontjában meghatározott jelzálogjognak a magyar állam javára történő bejegyeztetését az ingatlan-nyilvántartásba,
+fc) kezdeményezi a sportpolitikáért felelős miniszternél a Tao. 22/C. § (6) bekezdés a) és d) pontjában meghatározott jelzálogjognak az állam javára történő bejegyeztetését az ingatlan-nyilvántartásba,
 
-fd) az fa)–fb) alpontban meghatározott feladatai ellátása során kapcsolatot tart a sportigazgatási szervvel, ennek keretében a kérelem elbírálását követő 8 napon belül tájékoztatja a sportigazgatási szervet az általa kiadott támogatási igazolásokról,
+fd) az fa) és fb) alpontban meghatározott feladatai ellátása során kapcsolatot tart a sportpolitikáért felelős miniszterrel, ennek keretében a kérelem elbírálását követő 8 napon belül tájékoztatja a sportpolitikáért felelős minisztert az általa kiadott támogatási igazolásokról,
+
+fe) a Tao. 22/C. § (1) bekezdés b)–d) pontjában meghatározott támogatás igénybevételére jogosult szervezet vonatkozásában – kivéve a Tao. 22/C. § (9a) bekezdés szerinti esetet – ellenőrzi a Tao. 4. § 44. pontjában és 22/C. §-ában meghatározott támogatás rendeltetésszerű felhasználását, a támogatással megvalósuló beruházásokkal érintett sportcélú ingatlanok és a támogatásból megvalósuló tárgyi eszköz felújítások sportcélú hasznosításának fenntartását,
+
+ff) az fe) alpontban meghatározott feladata ellátása során összesítő elszámolást készít az ellenőrzés eredményéről az ellenőrzést követő 8 napon belül a sportpolitikáért felelős miniszter részére,
+
+fg) a látvány-csapatsportok támogatásával összefüggő adatszolgáltatási tevékenységet végez.
 
 g) sportágában elláthatja a sportág fogyatékosok sportjával összefüggő feladatait, amit az állami sportcélú támogatás elosztásáról szóló döntés során figyelembe kell venni,
 
