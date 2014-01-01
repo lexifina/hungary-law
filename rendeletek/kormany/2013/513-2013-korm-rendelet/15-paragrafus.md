@@ -1,0 +1,5 @@
+15. § (1) A működtető a nevelőszülő számára a személyes gondoskodást végző személyek továbbképzését szabályozó miniszteri rendeletben meghatározott továbbképzésen felül évente legalább hatórás, legfeljebb tizenkét órás továbbképzést tart (a továbbiakban: működtetői továbbképzés).
+
+(2) A nevelőszülő a működtetői továbbképzésen köteles részt venni. A működtetői továbbképzéssel összefüggésben felmerülő költségek – az utazási költség kivételével – a működtetőt terhelik.
+
+(3) A működtetői továbbképzés időpontjáról a működtető legalább harminc nappal korábban értesíti a nevelőszülőt.
