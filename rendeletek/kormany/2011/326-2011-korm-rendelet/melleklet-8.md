@@ -394,4 +394,4 @@
 [^125]: A 7. melléklet I. fejezet 11. pont záró szövegrésze az 5/2013. (I. 16.) Korm. rendelet 22. § g) pontja szerint módosított szöveg.
 [^126]: A 7. melléklet II. pont 6. alpontja az 5/2013. (I. 16.) Korm. rendelet 21. § (2) bekezdésével megállapított szöveg.
 [^127]: A 7. melléklet II. pont 9. alpontja az 5/2013. (I. 16.) Korm. rendelet 21. § (2) bekezdésével megállapított szöveg.
-[^128]: A 8. melléklet a 228/2012. (VIII. 23.) Korm. rendelet 7. § (18) bekezdése, az 544/2013. (XII. 30.) Korm. rendelet 43. § b) pontja szerint módosított szöveg.
+[^128]: A 8. melléklet a 228/2012. (VIII. 23.) Korm. rendelet 7. § (18) bekezdése, az 544/2013. (XII. 30.) Korm. rendelet 41. § (2) bekezdése és a 43. § b) pontja szerint módosított szöveg.

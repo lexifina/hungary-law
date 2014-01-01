@@ -386,12 +386,13 @@ B) A vezetői engedélyekkel kapcsolatos ügyintézés során be kell mutatni:
 
 a) a személyazonosításra alkalmas okmányt,
 
-b) a személyi azonosítót és a lakcímet igazoló hatósági igazolványt,
+b)[^136] a személyi azonosítót és lakcímet igazoló hatósági igazolványt,
 
 c) külföldi esetén a szokásos tartózkodási hely országát igazoló okmányt,
 
-d)[^136]
+d)[^137]
 
 [^134]: A 19. melléklet I. rész 2. pont e) alpontja a 355/2012. (XII. 13.) Korm. rendelet 44. § (2) bekezdésével megállapított szöveg.
 [^135]: A 19. melléklet IV. fejezet 1. pont a) alpontját az 544/2013. (XII. 30.) Korm. rendelet 43. § g) pontja hatályon kívül helyezte.
-[^136]: A 19. melléklet VI. fejezet B) pont d) alpontját az 5/2013. (I. 16.) Korm. rendelet 23. § (2) bekezdés b) pontja hatályon kívül helyezte.
+[^136]: A 19. melléklet VI. alcím B) pont b) alpontja az 515/2013. (XII. 30.) Korm. rendelet 29. § (2) bekezdése szerint módosított szöveg.
+[^137]: A 19. melléklet VI. fejezet B) pont d) alpontját az 5/2013. (I. 16.) Korm. rendelet 23. § (2) bekezdés b) pontja hatályon kívül helyezte.
