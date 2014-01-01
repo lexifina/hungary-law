@@ -4,7 +4,9 @@
 
 (2) A vezető tisztségviselői feladatokat nem munkaviszony keretében ellátó, a kisadózó vállalkozással megbízási jogviszonyban álló és a személyes közreműködésre köteles tagokat a kisadózó vállalkozás köteles bejelenteni kisadózóként. A kisadózó vállalkozás tevékenységében a betéti társaság, közkereseti társaság kisadózóként be nem jelentett tagja kizárólag munkaviszony keretében működhet közre. E szabály megsértésével a kisadózó vállalkozás tevékenységében részt vevő tag közreműködését be nem jelentett alkalmazott foglalkoztatásának kell tekinteni.
 
-(3) A bejelentésben nyilatkozni kell arról, hogy a kisadózó főállású kisadózónak minősül-e.
+(3) A bejelentésben nyilatkozni kell arról, hogy a kisadózó főállású kisadózónak minősül-e, valamint nyilatkozni lehet arról, ha a kisadózó vállalkozás a főállású kisadózó után magasabb összegű tételes adó [8. § (4a) bekezdés] megfizetését választja.
+
+(3a) A magasabb összegű tételes adó a bejelentést követően is választható. A magasabb összegű fizetési kötelezettséget a választásról szóló nyilatkozat megtételének hónapjától kell teljesíteni. A magasabb összegű tételes adót a választás visszavonása hónapjáig, a kisadózó vállalkozó főállású jogállásának megszűnése hónapjáig, vagy a kisadózó vállalkozás e fejezet szerinti adóalanyiságának megszűnése hónapjáig kell teljesíteni.
 
 (4) Az adóalanyiság akkor jöhet létre, ha a kisadózó vállalkozások tételes adóját választó kisadózó vállalkozás legalább egy kisadózót bejelent.
 

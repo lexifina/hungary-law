@@ -1,6 +1,6 @@
 ## 14. A kisvállalati adó alapja
 
-20. § (1) A kisvállalati adó alapja a (2)–(19) bekezdésre figyelemmel:
+20. § (1) A kisvállalati adó alapja a (2)–(20) bekezdésre figyelemmel:
 
 a) az adózó pénzforgalmi szemléletű eredményének
 
@@ -8,7 +8,7 @@ b) személyi jellegű kifizetésekkel
 
 növelt összege, de legalább a b) pont szerinti összeg.
 
-(2) A III. Fejezet alkalmazásában az adózó pénzforgalmi szemléletű eredménye a pénzeszközök Szt. szerinti beszámolóban kimutatott tárgy üzleti évi összege, csökkentve a pénzeszközök tárgyévet megelőző üzleti évben kimutatott összegével, korrigálva a (4)–(19) bekezdés szerinti tételekkel. A kisvállalati adóalanyiság első adóévében a kisvállalati adó hatálya alá bejelentkező, az Szt. hatálya alá nem tartozó, bevételi nyilvántartást vezető egyszerűsített vállalkozói adóalany pénzforgalmi szemléletű eredménye a pénzeszközök Szt. szerinti beszámolóban kimutatott tárgy üzleti évi összege, csökkentve a pénzeszközök Szt. 2/A. § (4) bekezdése szerinti nyitó mérlegben kimutatott összegével, korrigálva a (4)–(19) bekezdés szerinti tételekkel. Az ügyvédi iroda az e rendelkezésben foglaltakat azzal az eltéréssel alkalmazza, hogy nem minősül pénzeszköznek az ügyvédi letétként kezelt pénzeszköz.
+(2) A III. Fejezet alkalmazásában az adózó pénzforgalmi szemléletű eredménye a pénzeszközök Szt. szerinti beszámolóban kimutatott tárgy üzleti évi összege, csökkentve a pénzeszközök tárgyévet megelőző üzleti évben kimutatott összegével, korrigálva a (4)–(20) bekezdés szerinti tételekkel. A kisvállalati adóalanyiság első adóévében a kisvállalati adó hatálya alá bejelentkező, az Szt. hatálya alá nem tartozó, bevételi nyilvántartást vezető egyszerűsített vállalkozói adóalany vagy kisadózó vállalkozás pénzforgalmi szemléletű eredménye a pénzeszközök Szt. szerinti beszámolóban kimutatott tárgy üzleti évi összege, csökkentve a pénzeszközök Szt. 2/A. § (4) bekezdése szerinti nyitó mérlegben kimutatott összegével, korrigálva a (4)–(20) bekezdés szerinti tételekkel. Az ügyvédi iroda az e rendelkezésben foglaltakat azzal az eltéréssel alkalmazza, hogy nem minősül pénzeszköznek az ügyvédi letétként kezelt pénzeszköz.
 
 (3) A III. Fejezet alkalmazásában személyi jellegű kifizetésnek azon személyi jellegű ráfordítás minősül, amely a Tbj. szerint járulékalapot képez az adóévben (ide nem értve a kedvezményezett foglalkoztatott után érvényesíthető kedvezmény éves összegét). A tag esetében személyi jellegű kifizetésként (Tbj. szerint járulékalapot képező összes jövedelemként) a minimálbér 112,5%-át kell figyelembe venni, ha a tagra jutó személyi jellegű ráfordítás ennél alacsonyabb. E bekezdés alkalmazásában
 
@@ -32,7 +32,9 @@ e) tőkebevonás (különösen jegyzett tőke emelése),
 
 f) osztalék és osztalékelőleg megszerzése,
 
-g) elszámolásra kiadott előleg visszafizetése.
+g) elszámolásra kiadott előleg visszafizetése,
+
+h) az e törvény alapján megfizetett adó visszatérítése.
 
 (5) A pénzforgalmi szemléletű eredményt növeli
 
@@ -46,9 +48,11 @@ d) a hitelviszonyt megtestesítő értékpapír vagy tulajdoni részesedést jel
 
 e) a tőkekivonás (különösen jegyzett tőke leszállítása),
 
-f) az osztalék fizetése (ide nem értve a kisvállalati adóalanyiságot megelőző adóévek adózott eredménye és eredménytartaléka terhére a kisvállalati adóalanyiság időszakában kifizetésre kerülő osztalékot), osztalékelőleg fizetése és
+f) az osztalék fizetése (ide nem értve a kisvállalati adóalanyiságot megelőző adóévek adózott eredménye és eredménytartaléka terhére a kisvállalati adóalanyiság időszakában kifizetésre kerülő osztalékot), osztalékelőleg fizetése,
 
-g) az elszámolásra kiadott előleg kifizetése
+g) az elszámolásra kiadott előleg kifizetése és,
+
+h) az e törvény alapján megfizetett adó és adóelőleg
 
 miatt a tárgyévben teljesített pénzeszköz kifizetés.
 
@@ -70,7 +74,7 @@ bűncselekmény elkövetése érdekében vagy azzal összefüggésben merült fe
 
 e) az ellenőrzött külföldi társasággal szemben teljesített kifizetés,
 
-f) az adóalanyiság időszakát megelőző időszakra megállapított, az adóalanyiság időszaka alatt teljesített adófizetési kötelezettség, továbbá az adóalanyiság időszakában bármely időszakra megállapított és megfizetett bírság, pótlék, valamint az e törvény alapján megfizetett adó és adóelőleg,
+f) az adóalanyiság időszakát megelőző időszakra megállapított, az adóalanyiság időszaka alatt teljesített adófizetési kötelezettség, továbbá az adóalanyiság időszakában bármely időszakra megállapított és megfizetett bírság, pótlék,
 
 g) a jegyzett tőke, a tőketartalék, az eredménytartalék és a lekötött tartalék napi átlagos állományának háromszorosát meghaladó, napi átlagos állományon meghatározott kötelezettségrészre jutó kamatkifizetés (ide nem értve a pénzügyi intézménnyel szemben fennálló kötelezettség alapján elszámolt kamatkifizetést), függetlenül attól, hogy azt az adóalany eszköz bekerülési értékének részeként számolja-e el, azzal, hogy e rendelkezés alkalmazásában kötelezettség a kapott kölcsön, a zárt körben forgalomba hozott hitelviszonyt megtestesítő értékpapír miatt fennálló tartozás és a váltótartozás (kivéve a szállítói tartozás kiegyenlítése miatt fennálló váltótartozást), valamint minden más, a mérlegben kimutatott kölcsönnek, hitelviszonyt megtestesítő értékpapírnak, illetve váltótartozásnak nem minősülő kötelezettség.
 
@@ -90,7 +94,7 @@ d) eszköz hiányának elszámolása, ha egyértelműen megállapítható, hogy 
 
 e) tartozás térítés nélküli átvállalása.
 
-(8) Amennyiben az adózó kapcsolt vállalkozásával kötött szerződésében (megállapodásában) olyan ellenértéket (ügyleti értéket) határoz meg, amely nem felel meg a szokásos piaci árnak,– az (1)–(7) bekezdésben foglaltaktól függetlenül, és függetlenül attól, hogy az ügylet az adózó pénzeszközeinek változásával jár-e – az adóalapot a szokásos piaci ár és az ügyleti érték különbségével úgy módosítja, hogy az olyan adóalapnak feleljen meg, mint ha független vállalkozással kötött volna szerződést (megállapodást), feltéve, hogy az adóévben a szerződés (megállapodás) alapján az adóévben teljesítés történt. A szokásos piaci árat a Tao. tv. 18. § (2) bekezdésében meghatározott módszer szerint kell megállapítani.
+(8) Amennyiben az adózó kapcsolt vállalkozásával kötött szerződésében (megállapodásában) olyan ellenértéket (ügyleti értéket) határoz meg, amely nem felel meg a szokásos piaci árnak,– az (1)–(7) bekezdésben foglaltaktól függetlenül, és függetlenül attól, hogy az ügylet az adózó pénzeszközeinek változásával jár-e – az adóalapot a szokásos piaci ár és az ügyleti érték különbségével úgy módosítja, hogy az olyan adóalapnak feleljen meg, mint ha független vállalkozással kötött volna szerződést (megállapodást), feltéve, hogy a szerződés (megállapodás) alapján az adóévben teljesítés történt. A szokásos piaci árat a Tao. tv. 18. § (2) bekezdésében meghatározott módszer szerint kell megállapítani.
 
 (9) Ha a pénzforgalmi szemléletű eredmény bármely adóévben negatív, ezzel az összeggel az adózó a következő adóévekben – a (10)–(12) bekezdésekben foglaltakat figyelembe véve – csökkentheti a pénzforgalmi szemléletű pozitív eredményét, feltéve, hogy a pénzforgalmi szemléletű eredmény csökkenése a rendeltetésszerű joggyakorlás elvének betartásával keletkezett (a továbbiakban: elhatárolt veszteség). A kisvállalati adó alanya elhatárolt veszteségként veheti figyelembe az e törvény szerint meghatározott adóalanyiság időszaka előtt, a társasági adóalanyiság alatt keletkezett negatív társasági adóalapjának azt a részét, amelyet a társasági adóalap csökkentéseként korábban nem vett figyelembe.
 
@@ -104,7 +108,9 @@ e) tartozás térítés nélküli átvállalása.
 
 a) az olyan bevételt, kiadást, amelyet az adózó az adóévet megelőző időszakra vonatkozó eredménykimutatásában bevételként, ráfordításként számol el,
 
-b) a megelőző időszakra vonatkozóan teljesített kiadást, elszámolt bevételt, ha az adóévet megelőző adóévben az adóalany az Szt. hatálya alá nem tartozott.
+b) a megelőző időszakra vonatkozóan teljesített kiadást, elszámolt bevételt, ha az adóévet megelőző adóévben az adóalany az Szt. hatálya alá nem tartozott,
+
+c) az e törvény szerinti adóalanyiság időszakát megelőző időszakban teljesített és az adóalanyiság időszaka alatt visszatérített pótbefizetést.
 
 (14) Az e törvény hatálya alá kerülés időpontjában állományban lévő hitel- és kölcsöntartozásokkal, kötvénykibocsátásból származó kötelezettségekkel, hitelviszonyt megtestesítő értékpapírokkal, tulajdoni részesedést jelentő befektetésekkel kapcsolatos, (4) bekezdés b) és d) pontja, valamint az (5) bekezdés a) és c) pontja szerinti pénzforgalmi szemléletű eredményt módosító tételek helyett módosító tételként ezen eszközök, kötelezettségek e törvény hatálya alá kerülés időpontjában kimutatott nyilvántartás szerinti (arányos) értékét kell figyelembe venni.
 

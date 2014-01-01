@@ -8,6 +8,8 @@
 
 (4) A bejelentett kisadózók után a bejelentés hatálya alatt megkezdett minden naptári hónapra a tételes adó egészét meg kell fizetni azzal, hogy amennyiben a kisadózó a tárgyhónap bármelyik napján főállású kisadózónak minősül, a fizetendő tételes adó mértéke 50 ezer forint.
 
+(4a) A (4) bekezdés rendelkezésétől eltérően a kisadózó vállalkozás választhatja, hogy a főállású kisadózó után magasabb összegű tételes adót fizet. Az e választás alapján fizetendő adó minden megkezdett naptári hónapra 75 ezer forint.
+
 (5) A kisadózó vállalkozások tételes adóját a kisadózó vállalkozás a tárgyhónapot követő hónap 12. napjáig megfizeti.
 
 (6) Azon kisadózó vállalkozás, mely a naptári év minden hónapjára köteles az (1)–(2) bekezdés szerinti adót megfizetni, a kisadózó vállalkozás bevételének naptári évben elért összegéből a 6 millió forintot meghaladó rész után 40 százalékos mértékű adót fizet. Ha a kisadózó vállalkozás nem köteles a naptári év minden hónapjára az (1)–(2) bekezdés szerinti adót megfizetni, a 40 százalékos mértékű adót a kisadózó vállalkozás bevételének a kisadózó vállalkozási jogállás fennállásának az (1)–(2) bekezdés szerinti adófizetési kötelezettséggel érintett hónapjai és 500 ezer forint szorzatát meghaladó része után fizeti meg.

@@ -18,7 +18,7 @@ d) az adóelőleg-megállapítási időszakban kifizetett osztalék (ide nem ér
 
 együttes összegének a 16 százaléka.
 
-(5) A (4) bekezdéstől eltérően az adóelőleg összege – az adózó választása esetén – a (4) bekezdés a) és b) pontja szerint megállapított összeg, módosítva az e törvény 20. § (4)–(19) bekezdésében meghatározott – a 20. § (9)–(12) és (16) bekezdése esetében az adóelőleg-megállapítási időszakra jutó arányosított – módosító tételekkel. Ha az adózó valamely adóelőleg-megállapítási időszakban e bekezdés szerint állapítja meg az adóelőleg-fizetési kötelezettségét, akkor az adóelőleg összegét az adóév végéig minden esetben e bekezdés alkalmazásával állapítja meg.
+(5) A (4) bekezdéstől eltérően az adóelőleg összege – az adózó választása esetén – a (4) bekezdés a) és b) pontja szerint megállapított összeg, módosítva az e törvény 20. § (4)–(20) bekezdésében meghatározott – a 20. § (9)–(12) és (16) bekezdése esetében az adóelőleg-megállapítási időszakra jutó arányosított – módosító tételekkel. Ha az adózó valamely adóelőleg-megállapítási időszakban e bekezdés szerint állapítja meg az adóelőleg-fizetési kötelezettségét, akkor az adóelőleg összegét az adóév végéig minden esetben e bekezdés alkalmazásával állapítja meg.
 
 (6) A (4)–(5) bekezdéstől függetlenül az adóelőleg összege legalább az adóelőleg-megállapítási időszakban az adóalany által fizetendő – a kedvezményezett foglalkoztatott után érvényesíthető kedvezménnyel csökkentett – Tbj. szerint járulékalapot képező összes jövedelem 16 százaléka.
 
@@ -26,4 +26,4 @@ együttes összegének a 16 százaléka.
 
 (8) Az adóalany az adóévre e törvény szerint megállapított adót – az adóévben már megfizetett adóelőlegek beszámításával – a bevallás benyújtására előírt határidőig megfizeti. Ha az adóévben már megfizetett adóelőlegek összege meghaladja az adóévre megállapított adó összegét, a különbözetet az adóalany bevallásában, az igény (bevallás) beérkezésének napjától, de legkorábban a bevallás benyújtására előírt határidő napjától (esedékességtől) jogosult visszaigényelni.
 
-(9) A kisvállalati adó hatálya alá bejelentkező, az Szt. hatálya alá nem tartozó, bevételi nyilvántartást vezető egyszerűsített vállalkozói adóalany a kisvállalati adóalanyiság első adóévében a kisvállalati adóelőleg megállapítási, bevallási és fizetési kötelezettségének az Szt. 2/A. § (4) bekezdése szerinti nyitó mérlegében kimutatott pénzeszközök figyelembevételével tesz eleget.
+(9) A kisvállalati adó hatálya alá bejelentkező, az Szt. hatálya alá nem tartozó, bevételi nyilvántartást vezető egyszerűsített vállalkozói adóalany vagy kisadózó vállalkozás a kisvállalati adóalanyiság első adóévében a kisvállalati adóelőleg megállapítási, bevallási és fizetési kötelezettségének az Szt. 2/A. § (4) bekezdése szerinti nyitó mérlegében kimutatott pénzeszközök figyelembevételével tesz eleget.

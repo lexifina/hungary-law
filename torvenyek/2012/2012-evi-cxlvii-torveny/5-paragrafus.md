@@ -10,7 +10,7 @@ d) a kisadózó vállalkozásnak minősülő egyéni cég, betéti társaság va
 
 e) a gazdasági társaság bejelentett kisadózó tagjának halálát követő nappal, ha a kisadózó vállalkozás tevékenységében más bejelentett kisadózó nem működik közre, és 90 napon belül más kisadózó nem kerül bejelentésre;
 
-f) a gazdasági társaság bejelentett kisadózó tagjának a gazdasági társaságból való kilépését követő nappal, ha a kisadózó vállalkozás tevékenységében más bejelentett kisadózó nem működik közre, és ezen időpontig más kisadózó nem kerül bejelentésre;
+f) a gazdasági társaság bejelentett kisadózó tagjának a gazdasági társaságból való kilépését követő nappal, ha a kisadózó vállalkozás tevékenységében más bejelentett kisadózó nem működik közre, és a kisadózó tag kilépését követő napig más kisadózó nem kerül bejelentésre;
 
 g) a tagsági jogviszony keletkezésének napjával, ha a betéti társaság vagy közkereseti társaság kisadózó vállalkozásnak nem magánszemély tagja lesz;
 
@@ -18,7 +18,7 @@ h) a mulasztási bírságot megállapító határozat jogerőre emelkedésének 
 
 i) az adószám alkalmazását felfüggesztő vagy törlő határozat jogerőre emelkedésének napjával, ha a kisadózó vállalkozás adószámának alkalmazását az adóhatóság az adóalanyiság ideje alatt jogerősen felfüggeszti vagy törli;
 
-j) a naptári negyedév utolsó napjával, ha a kisadózó vállalkozás állami adóhatóságnál nyilvántartott, végrehajtható adótartozása a naptári negyedév utolsó napján meghaladja a 100 ezer forintot;
+j) a naptári negyedév utolsó napjával, ha a kisadózó vállalkozás állami adóhatóságnál nyilvántartott, végrehajtható, nettó módon számított adótartozása a naptári negyedév utolsó napján meghaladja a 100 ezer forintot;
 
 k) a végelszámolás, a felszámolás, a kényszertörlési eljárás kezdő időpontját megelőző nappal;
 
