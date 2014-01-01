@@ -1,0 +1,1 @@
+36. § A munkaügyi ellenőrzésről szóló 1996. évi LXXV. törvény 8. § (4) bekezdésében az „A foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvényben” szövegrész helyébe az „Az Flt.-ben” szöveg lép.
