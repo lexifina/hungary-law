@@ -14,7 +14,7 @@
 
 (2) E rendelet 2. § (3) bekezdése, 3. § (2) bekezdése, 4. § (1) bekezdése, 5. § (1) bekezdése, 6. §-a, 7. § (3) bekezdése, 8. § (2) bekezdése, 9–11. §-a és 34. § (1) bekezdése 2009. október 1-jén lép hatályba.
 
-(3)–(9)[^2]
+(3)–(9)[^3]
 
 (10) Az Szfr. e rendelettel megállapított szabályait – a (11) bekezdésben foglaltak kivételével – a hatálybalépéskor folyamatban lévő ügyekben is alkalmazni kell.
 
@@ -24,12 +24,12 @@
 
 (13) A személyes gondoskodás igénybevételével kapcsolatos eljárásokban közreműködő szakértőkre, szakértői szervekre vonatkozó részletes szabályokról szóló 340/2007. (XII. 15.) Korm. rendelet e rendelettel megállapított szabályait a hatálybalépést követően benyújtott gondozási szükséglet vizsgálata iránti kérelmek esetében kell alkalmazni.
 
-(14)[^3]
+(14)[^4]
 
-(15)[^4]
+(15)[^5]
 
 (16) E rendelet hatálybalépését követően nappali ellátásban részesülő ellátottal szociális foglalkoztatásra megállapodás, illetve munkaszerződés akkor köthető, ha az ellátott vizsgálatát az Fvr. e rendelettel megállapított szabályai szerint lefolytatták. Ennek érdekében – ha a szociális foglalkoztatási alkalmassági vizsgálatot e rendelet hatálybalépése előtt folytatták le – az intézményvezető térítésmentesen szociális foglalkoztatási felülvizsgálatot kezdeményezhet.
 
-[^2]: A 35. § (3)–(9) bekezdését a 320/2009. (XII. 29.) Korm. rendelet 21. § (1) bekezdés p) pont pb) alpontja hatályon kívül helyezte.
-[^3]: A 35. § (14) bekezdését a 357/2010. (XII. 30.) Korm. rendelet 27. §-a hatályon kívül helyezte.
-[^4]: A 35. § (15) bekezdését a 279/2009. (XII. 9.) Korm. rendelet 33. § (1) bekezdés d) pontja hatályon kívül helyezte.
+[^3]: A 35. § (3)–(9) bekezdését a 320/2009. (XII. 29.) Korm. rendelet 21. § (1) bekezdés p) pont pb) alpontja hatályon kívül helyezte.
+[^4]: A 35. § (14) bekezdését a 357/2010. (XII. 30.) Korm. rendelet 27. §-a hatályon kívül helyezte.
+[^5]: A 35. § (15) bekezdését a 279/2009. (XII. 9.) Korm. rendelet 33. § (1) bekezdés d) pontja hatályon kívül helyezte.
