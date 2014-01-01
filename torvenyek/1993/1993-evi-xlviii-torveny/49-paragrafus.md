@@ -72,7 +72,7 @@ E törvény alkalmazásában feltárás
 
 14. ,,Ipari vagyon'' a földtani vagyonnak az a része, amely az adott időpontban gazdaságosan kitermelhető.
 
-15. ,,Kitermelés'' az ásványi nyersanyag természetes előfordulási helyéről történő lefejtése, elválasztása, felszínre hozatala. E törvény alkalmazásában kitermelésnek minősül az elhagyott meddőhányókból történő ásványi nyersanyag kitermelése is.
+15. ,,Kitermelés'' az ásványi nyersanyag természetes előfordulási helyéről történő lefejtése, elválasztása, felszínre hozatala. E törvény alkalmazásában kitermelésnek minősül az elhagyott meddőhányókból történő ásványi nyersanyag kitermelése és a szén föld alatti elgázosítása is.
 
 16. „Kivett hely”: ahol bányászati tevékenységet a kivettség tárgya szerint hatáskörrel rendelkező illetékes hatóság hozzájárulásával, az általa előírt külön feltételek megtartásával szabad folytatni. Kivett helynek minősül a belterület, a külterület beépítésre szánt része, a közlekedési célt szolgáló terület, temető, vízfolyás vagy állóvíz medre, függőpálya vagy vezeték biztonsági, illetve védő övezete, vízi létesítmény, ivóvíz, ásvány-, gyógyvíz, bármely forrás és kijelölt védőterülete, védőerdő, gyógy- és üdülőhely védőövezete, a védett természeti terület, a műemléki, illetve régészeti védettség alatt álló ingatlan, továbbá a honvédelmi létesítmények területe, a külfejtés vonatkozásában a termőföld, valamint amit jogszabály a bányászati tevékenység tekintetében annak minősít.
 
@@ -185,3 +185,5 @@ c) a szociálpolitikai (szociális biztonsági) egyezmény hatálya alá tartoz�
 50. Használaton kívüli bányászati célú mélyfúrás, kút: a meddő szénhidrogén kutatófúrás, kút, illetve a termelésből kivont, a mező termeltetéséhez már nem szükséges vagy műszakilag alkalmatlanná vált szénhidrogénkút.
 
 51. Meddő szénhidrogén kutatófúrás, kút: olyan kutatófúrás (kút), amely szénhidrogén-indikációt nem eredményezett vagy olyan mértékben eredményezett, amely alapján a szénhidrogén nem termelhető ki gazdaságosan.
+
+52. „Föld alatti szénelgázosítás”: olyan bányaművelési technológia, amely a felszín alatt feltárt széntelep fúrólyukon keresztül végzett részleges oxidációja során képződő szintézisgáz fúrólyukon való, szabályozott kitermelésével történik.

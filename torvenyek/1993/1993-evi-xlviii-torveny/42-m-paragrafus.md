@@ -2,7 +2,7 @@
 
 42/M. § (1) Az üzemeltető a jelentős változást annak bekövetkezésétől számított 24 órán belül köteles bejelenteni a bányafelügyeletnek.
 
-(2) Szivárgás vagy jelentős rendellenesség esetén az üzemeltető köteles haladéktalanul értesíteni a bányafelügyeletet, a környezetvédelmi hatóságot és a hivatásos katasztrófavédelmi szervet, valamint megtenni a korrekciós intézkedési tervben meghatározott intézkedéseket.
+(2) Szivárgás vagy jelentős rendellenesség esetén az üzemeltető köteles haladéktalanul értesíteni a bányafelügyeletet, a környezetvédelmi hatóságot, a vízvédelmi hatóságot és a hivatásos katasztrófavédelmi szervet, valamint megtenni a korrekciós intézkedési tervben meghatározott intézkedéseket.
 
 (3) Ha az üzemeltető a (2) bekezdésben foglalt intézkedéseket nem teszi meg, a bányafelügyelet kötelezi az üzemeltetőt azok megtételére. A bányafelügyelet az üzemeltetőt szivárgás vagy jelentős rendellenesség esetén – azok megszüntetése érdekében – a korrekciós intézkedési tervben foglaltaktól eltérő intézkedések megtételére is kötelezheti.
 

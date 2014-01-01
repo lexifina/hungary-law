@@ -1,14 +1,14 @@
 ## A szénhidrogén-kutatás, -feltárás és -kitermelés engedélyezésének sajátos szabályai
 
-22/A. § (1) A miniszter a 9. §-ban foglaltak alapján kijelöli azokat a zárt területeket, amelyeken a szénhidrogének kutatásának, feltárásának és kitermelésének koncesszió keretében történő engedélyezése a területeknek két országos terjesztésű napilapban, a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben és az Európai Unió Hivatalos Lapjában történt közzétételét (hirdetmény) követő 90 nap elteltével, a benyújtott pályázatok egyidejű elbírálásával kezdődik meg.
+22/A. § (1) A miniszter a 9. §-ban foglaltak alapján kijelöli azokat a zárt területeket, amelyeken a szénhidrogének kutatásának, feltárásának és kitermelésének koncesszió keretében történő engedélyezése a területeknek két országos terjesztésű napilapban és az Európai Unió Hivatalos Lapjában történt közzétételét (hirdetmény) követő 90 nap elteltével, a benyújtott pályázatok egyidejű elbírálásával kezdődik meg.
 
-(2) A hirdetmény közzétételéről a bányafelügyelet intézkedik.
+(2)
 
 (3) A hirdetményben meg kell határozni, hogy a koncesszió milyen tevékenységekre vonatkozik, azt a földrajzi területet, amelyre pályázatot lehet benyújtani, továbbá az elbírálás tervezett időpontját vagy határidejét, illetőleg az előnyben részesítés esetleges szempontjait. E szempontok meghatározásánál az egyenlő bánásmód követelményét meg kell tartani. A hirdetményben fel kell tüntetni azt is, hogy a területre és az engedélyezési eljárásra vonatkozóan hol lehet részletes információkat kapni.
 
 (4)
 
-(5) A bányafelügyelet gondoskodik azon területeknek a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben és az Európai Unió Hivatalos Lapjában történő közzétételéről is,
+(5) A bányafelügyelet gondoskodik azon területeknek a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben és az Európai Unió Hivatalos Lapjában történő közzétételéről,
 
 a) amelyek nem tartoznak az (1)–(3) bekezdés szerint kijelölt területek közé, mert ezek bármely vállalkozás részére kutatási engedélykérelem szempontjából állandóan rendelkezésre álló területnek minősülnek;
 
@@ -46,4 +46,4 @@ c) a bányafelügyelet olyan eljárás keretében hozott határozata, amely a te
 
 (12) Ha egyes szénhidrogén-bányászati tevékenységek megkezdéséhez, illetve e tevékenységek végzéséhez szükséges létesítmények megépítéséhez jogszabály környezetvédelmi-, vagy egységes környezethasználati engedély megszerzését írja elő, akkor e tevékenységeket, illetve ilyen létesítmények megépítését a bányafelügyelet csak jogerős és végrehajtható környezetvédelmi-, illetve egységes környezethasználati engedély megléte esetén engedélyezi.
 
-(13) Szénhidrogének esetében egy bányavállalkozó kutatási joga vagy kutatási engedélye összesen legfeljebb 12 000 km2 hagyományos kitermelésű szénhidrogén kutatási területre, továbbá összesen 12 000 km2 nem hagyományos eredetű és különleges eljárással kitermelhető szénhidrogén kutatási területre terjedhet ki. A kutatási terület megállapítása során a kutatási jogot vagy a kutatási engedélyt megszerezni kívánó bányavállalkozóban a Polgári Törvénykönyv szerinti többségi befolyással rendelkező bányavállalkozó kutatási területét is figyelembe kell venni.
+(13) Szénhidrogének esetében egy bányavállalkozó kutatási joga vagy kutatási engedélye összesen legfeljebb 15 000 km2 szénhidrogén kutatási területre terjedhet ki. A kutatási terület megállapítása során a kutatási jogot vagy a kutatási engedélyt megszerezni kívánó bányavállalkozóban a Polgári Törvénykönyv szerinti többségi befolyással rendelkező bányavállalkozó kutatási területét is figyelembe kell venni.

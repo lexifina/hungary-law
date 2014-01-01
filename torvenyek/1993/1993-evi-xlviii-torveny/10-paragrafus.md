@@ -1,6 +1,6 @@
 ## A koncessziós pályázat
 
-10. § (1) A koncessziós szerződések megkötésére a miniszter — a 22. § (7) bekezdésében, valamint az 50. § (6) bekezdésében meghatározott esetek kivételével — nyilvános pályázatot ír ki.
+10. § (1) A koncessziós szerződések megkötésére a miniszter nyilvános pályázatot ír ki.
 
 (2) A pályázati kiírásnak a koncesszióról szóló 1991. évi XVI. törvény 8. §-ában foglaltakra is figyelemmel, tartalmaznia kell:
 
@@ -8,7 +8,7 @@ a) a pályázatban meghirdetett terület vagy térrész meghatározását annak 
 
 b) a koncessziós tevékenység szakmai követelményeit, valamint az érzékenységi és terhelhetőségi vizsgálat eredménye alapján meghatározott követelményeket, és a követelmények teljesítéséhez szükséges biztosíték-adási kötelezettséget,
 
-c) a benyújtandó munkaprogram tartalmi követelményeit,
+c) a benyújtandó kutatási munkaprogram tartalmi követelményeit,
 
 d) a pályázó gazdálkodási, pénzügyi helyzetének bemutatására vonatkozó követelményre, a részvételi díjra vonatkozó tájékoztatást, valamint
 

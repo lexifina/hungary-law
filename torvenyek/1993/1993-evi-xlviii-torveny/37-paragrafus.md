@@ -12,4 +12,4 @@
 
 (6) A károsult az esedékessé vált, de az előírt határidőn belül nem teljesített kártalanítási követelését, továbbá a már kifizetett kártalanítást meghaladó többletkártalanítási igényét a bányavállalkozó ellen indított polgári peres eljárás keretében érvényesítheti.
 
-(7) Szolgalmi jog vagy kisajátítás alapján [38. § (3) és (4) bekezdések] elhelyezett bányászati létesítmény által az ingatlan rendeltetésszerű használatában keletkezett hátrány nem bányakár. Az akadályoztatásért vagy egyéb hátrányért (pl. az ingatlan forgalmi értékében bekövetkezett csökkenésért) járó kártalanítást az ingatlan tulajdonosa (kezelője, használója) részére a szolgalom alapításakor, illetőleg a kisajátítási eljárás során kell megállapítani.
+(7) Szolgalmi jog vagy kisajátítás alapján elhelyezett bányászati létesítmény által az ingatlan rendeltetésszerű használatában keletkezett hátrány nem bányakár. Az akadályoztatásért vagy egyéb hátrányért (pl. az ingatlan forgalmi értékében bekövetkezett csökkenésért) járó kártalanítást az ingatlan tulajdonosa (kezelője, használója) részére a szolgalom alapításakor, illetőleg a kisajátítási eljárás során kell megállapítani.

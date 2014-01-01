@@ -28,7 +28,7 @@ b) a felszíni ingatlanok igénybevételének összehangolását,
 
 c) az egymás tevékenységének kölcsönös biztosítására vonatkozó kifejezett rendelkezést.
 
-(12) A kutatási jogadományt vagy a kutatási engedélyt szerző fél iránti kérelmet benyújtó fél köteles a megállapodást a kutatási műszaki üzemi terv jóváhagyása iránti kérelméhez mellékelni. Megállapodás hiányában az együttműködés szükségességéről és tartalmáról a bányafelügyelet a kutatási műszaki üzemi terv jóváhagyási eljárás során dönt.
+(12) A kutatási jogadományt vagy a kutatási engedélyt szerző fél köteles a megállapodást a kutatási műszaki üzemi terv jóváhagyása iránti kérelméhez mellékelni. Megállapodás hiányában az együttműködés szükségességéről és tartalmáról a bányafelügyelet a kutatási műszaki üzemi terv jóváhagyási eljárás során dönt.
 
 (13) A bányavállalkozó a kutatási tevékenység befejezésétől, de legkésőbb az engedélyezett kutatási időszak utolsó napjától számított öt hónapon belül köteles kutatási zárójelentést benyújtani a bányafelügyelethez. A határidő elmulasztása esetén a bányavállalkozó kutatási joga megszűnik.
 

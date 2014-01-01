@@ -2,6 +2,8 @@
 
 38. § (1) Az ingatlan tulajdonosa (kezelője, használója) köteles tűrni, hogy a bányavállalkozó vagy a földtani kutatásra jogosult szervezet az ingatlanon megfigyeléseket, méréseket végezzen, jeleket helyezzen el. A bányavállalkozó, valamint a földtani kutatásra jogosult szervezet e tevékenységével és az ingatlan rendeltetésszerű használatának ideiglenes akadályozásával vagy zavarásával okozott károkat a bányakárokra vonatkozó szabályok szerint köteles megtéríteni.
 
+(1a) Az ingatlan tulajdonosa köteles tűrni, hogy a használaton kívüli mélyfúrás 36. § (4) bekezdése szerinti tulajdonosa a mélyfúrás tájrendezését elvégezze. A tájrendezés során okozott károkat a mélyfúrás tulajdonosa a bányakárokra vonatkozó szabályok szerint köteles megtéríteni.
+
 (2) Az (1) bekezdés szerinti tevékenységnek kell tekinteni a szeizmikus mérések helyszínére történő behajtást, a mérési pontok és nyomvonalak kitűzését, a mérések elvégzését, ideértve a többdimenziós szeizmikus méréseket és a felvételezést is. A geofizikai mérések elvégzése nem minősül a termőföld védelméről szóló törvényben meghatározott termőföld időleges más célú hasznosításának.
 
 (3) Az ingatlan rendeltetésszerű használatát akadályozó bányászati létesítmény, szénhidrogén-szállítóvezeték, egyéb gáz- és gáztermékvezeték, valamint a kutatási műveletekhez szükséges berendezés elhelyezése érdekében – megállapodás hiányában – a bányavállalkozó és az egyéb gáz- és gáztermékvezeték üzemeltetője az ingatlan használatára az építés, kutatás végzéséhez, annak befejezéséig, az ingatlan tulajdonosának fizetendő kártalanítás ellenében szolgalom alapítását igényelheti. Az okozott kárt a bányakárokra vonatkozó szabályok szerint kell megtéríteni.
@@ -16,4 +18,12 @@
 
 (7) A koncessziós szerződésben az állam által vállalt kisajátítással kapcsolatban felmerült kiadásokat (kártalanítás, eljárási költségek stb.) a bányavállalkozó köteles viselni. A kiadások összegét a bányavállalkozó köteles a kisajátítási eljárásban az állam képviseletében eljáró szervezetnek megelőlegezni. Egyéb esetben a bányászati célból történő kisajátítást a bányavállalkozó harmadik személy kisajátítást kérőként kérheti, a kisajátítással kapcsolatos kártalanítást, költségeket a bányavállalkozó köteles megfizetni. A kisajátított ingatlan mindkét esetben az állam tulajdonába kerül, a kisajátított ingatlanon – a bányászati jogosultság időtartama alatt – a bányavállalkozót megilletik az ingatlan birtoklására és ingyenes használatára vonatkozó jogok.
 
-(8)
+(8) A bányászati célú kisajátítás esetén a bányavállalkozó kisajátított ingatlanra vonatkozó használati jogát az ingatlanügyi hatóság a jogerős kisajátítási határozat alapján jegyzi be az ingatlan-nyilvántartásba.
+
+(9) Ha a bányászati célú kisajátítás feltételei állami tulajdonban álló ingatlan tekintetében állnak fenn, akkor az ingatlan tekintetében szolgalomalapítási eljárást kell lefolytatni a bányavállalkozó kérelmére attól függetlenül, hogy a bányászati célú igénybevétel az ingatlan rendeltetésszerű használatát kizárja.
+
+(10) Közterületen elhelyezendő bányászati létesítmény, szénhidrogén-szállítóvezeték és egyéb gáz- és gáztermékvezeték elhelyezésére vagy üzemeltetésére szolgalmi jogot alapítani nem lehet. A bányászati létesítmény, szénhidrogén-szállítóvezeték és egyéb gáz- és gáztermékvezeték közterületen történő elhelyezését, illetve üzemeltetését a közterület tulajdonosa tűrni köteles. A közterület igénybevételével – beleértve a közterület használati korlátázását is – okozott károkért az építtető köteles kártalanítást fizetni.
+
+(11) Nem lehet szolgalmi jogot alapítani akkor sem, ha a bányászati létesítmény, a szénhidrogén-szállítóvezeték és az egyéb gáz- és gáztermékvezeték közutat, vasúti pályát, folyóvizek, csatornák területét érinti. Az ilyen terület igénybevételére az érintetteknek megállapodást kell kötni.
+
+(12) A (11) bekezdés szerinti megállapodás nem korlátozhatja az (5) bekezdésben foglalt jogokat.

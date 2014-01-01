@@ -10,6 +10,8 @@
 
 (5) Szén-dioxid geológiai tárolása vízoszlopban, valamint ivó-, ásvány-, gyógy- és hévízcélú hasznosításra már igénybevett, valamint ivóvíz, ásványvíz, gyógyvízhasznosításra alkalmas rétegekben, vízadókban, víztestekben nem engedélyezhető.
 
+(5a) A bányafelügyelet – nemzetközi szerződés eltérő rendelkezése hiányában – nem engedélyezheti a szén-dioxid tárolását olyan tárolókomplexummal rendelkező tárolóhelyen, amely legalább részben az Európai Unió tagállamának határán kívül esik.
+
 (6) A (7) bekezdésben foglaltak kivételével a tárolási engedély hatályát veszti, ha a tárolási engedély engedélyese a szén-dioxid besajtolását a tárolási engedély jogerőre emelkedésétől számított két éven belül nem kezdi meg. A határidő az üzemeltető kérelmére legfeljebb egy évvel meghosszabbítható.
 
 (7) A tárolási engedély nem veszti hatályát, ha az engedélyes bizonyítja, hogy a szén-dioxid besajtolását rajta kívülálló okból nem tudta megkezdeni a (6) bekezdésben megállapított határidőn belül.

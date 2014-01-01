@@ -8,13 +8,13 @@
 
 (2) Bányajáradékot köteles fizetni:
 
-a) a bányavállalkozó, továbbá
+a) a bányavállalkozó,
 
-b) az 1. § (2) és (7) bekezdés szerinti tevékenységet végző,
+b) az 1. § (2) és (7) bekezdése szerinti tevékenységet végző,
 
-c) a geotermikus energiát kitermelő.
+c) a geotermikus energiát kitermelő jogalany
 
-d)
+az általa kitermelt ásványi nyersanyag és geotermikus energia, illetve szilárd ásványi energiahordozók föld alatti szénelgázosítással történő kitermelése esetében az általa igénybevett ásványi nyersanyag után.
 
 (3) A bányajáradék mértéke a hatósági engedély alapján kitermelt ásványi nyersanyag mennyisége után keletkező értéknek:
 
@@ -53,6 +53,8 @@ g) szilárd ásványi energiahordozók mélyműveléses bányászata esetén 0%-
 h) egyéb szilárd ásványi nyersanyagok esetében 2%-a.
 
 (3a) A bányajáradék mértéke az 1. § (7) bekezdése szerinti engedély alapján kitermelt és az engedélyben foglalt tevékenységgel össze nem függő célra felhasznált, hasznosított ásványi nyersanyag mennyisége után keletkező értéknek az 50%-a.
+
+(3b) A föld alatti szénelgázosítással történő kitermelés esetében a bányajáradék mértéke az igénybevett ásványi nyersanyag mennyisége után keletkező értéknek a 2%-a.
 
 (4) Ha a Brent kőolaj tőzsdei jegyzésárának havi átlaga a 80 USD/bbl árat eléri vagy meghaladja, a (3) bekezdés a)–c) pontok szerinti bányajáradék mértéke 3-3 százalékponttal emelkedik. Ha a Brent kőolaj tőzsdei jegyzésárának havi átlaga a 90 USD/bbl árat eléri vagy meghaladja, a (3) bekezdés a)–c) pontok szerinti bányajáradék mértéke további 3-3 százalékponttal emelkedik.
 
