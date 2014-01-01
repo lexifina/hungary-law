@@ -122,7 +122,7 @@
 
 ## A vizsgálat során kioldódó anyagok mennyiségét felületegységre átszámítva értékelik attól is függően, hogy milyen a felhasználás módja. Műanyagok esetén a kioldódó összes szerves széntartalmat (TOC) minden esetben mérni és értékelni kell. A minősítés szempontjait az OKI a honlapján közzéteszi.
 
-6. számú melléklet a 201/2001. (X. 25.) Korm. rendelethez[^84]
+6. számú melléklet a 201/2001. (X. 25.) Korm. rendelethez[^85]
 
 Az ivóvízbiztonsági terv tartalmi követelményei
 
@@ -178,4 +178,4 @@ A vízellátórendszer főbb elemein végigvezetve kell a szükséges adatokat, 
 
 5. A fogyasztásra szánt ivóvíz egészségre és fogyaszthatóságra vonatkozó veszélyeinek kezelésére, kockázatuk csökkentésére beállított egyedi szabályzó dokumentumok és munkautasítások.
 
-[^84]: A 6. számú mellékletet a 22/2013. (II. 1.) Korm. rendelet 3. § c) pontja hatályon kívül helyezte, újonnan a 430/2013. (XI. 15.) Korm. rendelet 12. § (5) bekezdése iktatta be.
+[^85]: A 6. számú mellékletet a 22/2013. (II. 1.) Korm. rendelet 3. § c) pontja hatályon kívül helyezte, újonnan a 430/2013. (XI. 15.) Korm. rendelet 12. § (5) bekezdése iktatta be.

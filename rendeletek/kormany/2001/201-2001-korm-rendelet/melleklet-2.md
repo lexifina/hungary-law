@@ -326,6 +326,6 @@
 
 ## * Az ideiglenes határérték első életévüket be nem töltött csecsemők és várandós anyák ivóvízellátásában nem alkalmazható.
 
-2. számú melléklet a 201/2001. (X. 25.) Korm. rendelethez[^80]
+2. számú melléklet a 201/2001. (X. 25.) Korm. rendelethez[^81]
 
-[^80]: A 2. számú melléklet a 430/2013. (XI. 15.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^81]: A 2. számú melléklet a 430/2013. (XI. 15.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.

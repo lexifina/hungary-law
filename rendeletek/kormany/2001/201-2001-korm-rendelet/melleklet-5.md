@@ -304,6 +304,6 @@
 
 ## 1 Csak a kormányrendelet szerinti, az elosztó hálózati (fogyasztói) pontokon vett mintákra vonatkozó adatokat szabad jelenteni!
 
-5. számú melléklet a 201/2001. (X. 25.) Korm. rendelethez[^83]
+5. számú melléklet a 201/2001. (X. 25.) Korm. rendelethez[^84]
 
-[^83]: Az 5. számú melléklet a 430/2013. (XI. 15.) Korm. rendelet 12. § (4) bekezdésével megállapított szöveg.
+[^84]: Az 5. számú melléklet a 430/2013. (XI. 15.) Korm. rendelet 12. § (4) bekezdésével megállapított szöveg.
