@@ -64,6 +64,6 @@
 
 | 28 |  |  |  |  |  |  |  |
 
-2. számú melléklet a 27/2002. (II. 27.) Korm. rendelethez[^10]
+2. számú melléklet a 27/2002. (II. 27.) Korm. rendelethez[^11]
 
-[^10]: A 2. számú mellékletet a 165/2004. (V. 21.) Korm. rendelet 3. §-ának b) pontja hatályon kívül helyezte.
+[^11]: A 2. számú mellékletet a 165/2004. (V. 21.) Korm. rendelet 3. §-ának b) pontja hatályon kívül helyezte.

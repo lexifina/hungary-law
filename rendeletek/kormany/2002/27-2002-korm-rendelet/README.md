@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-27-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2008-05-16 | 2002-27-20-22.5 | 27/2002. (II. 27.) Korm. rendelet |
+| 2014-01-01 | 2002-27-20-22.6 | 379/2015. (XII. 8.) Korm. rendelet |
