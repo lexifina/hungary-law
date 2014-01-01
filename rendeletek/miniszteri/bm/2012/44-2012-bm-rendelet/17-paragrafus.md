@@ -32,7 +32,7 @@ e) szolgálati jogviszonya létszámcsökkentés miatt szűnt meg,
 
 f) szolgálati jogviszonya a dolgozónak fel nem róható egészségi, pszichikai, fizikai állapot miatti alkalmatlanság miatt szűnt meg,
 
-g) az e rendelet hatálya alá tartozó szervhez kerül át, vagy
+g)[^5] az e rendelet hatálya alá tartozó szervhez, vagy az Országgyűlési Őrséghez kerül át, vagy
 
 h) a szolgálati jogviszonya azért szűnik meg, mert a vezetői kinevezés visszavonását követően a munkáltató a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény 245/D. § (2) bekezdése szerinti munkakört nem tud felajánlani.
 
@@ -45,3 +45,5 @@ h) a szolgálati jogviszonya azért szűnik meg, mert a vezetői kinevezés viss
 a) az (1) bekezdés a), c), f), g) és h) pontjában meghatározott esetekben a szerződésszegés időpontjától,
 
 b) az (1) bekezdés b), d) és e) pontjában meghatározott esetben a felmondásban meghatározott időponttól
+
+[^5]: A 17. § (3) bekezdés g) pontja a 75/2013. (XII. 18.) BM rendelet 30. §-ával megállapított szöveg, e módosító rendelet 27. §-a alapján rendelkezéseit a benyújtott, de még el nem bírált kérelmek esetén is alkalmazni kell.
