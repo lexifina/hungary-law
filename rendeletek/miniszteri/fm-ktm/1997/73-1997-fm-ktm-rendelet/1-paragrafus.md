@@ -1,3 +1,0 @@
-1. § (1) A halászati vízterületeken az 1. számú mellékletben felsorolt halfajok és víziállatok egyedének halászati vagy horgász eszközzel történő fogása egész éven át tilos. A tilalom a felsorolt fajok valamennyi egyedfejlődési alakjára vonatkozik.
-
-(2) Az 1. számú mellékletben felsorolt védett faj véletlenül kifogott egyedét – a horogtól óvatosan megszabadítva, vagy ha ez nem lehetséges, akkor a zsinórt a szájnyílás előtt elvágva – haladéktalanul vissza kell helyezni élőhelyére. Amennyiben a zsákmányban a védett faj egyede ismételten kifogásra kerül, a halászati (horgászati) tevékenységet azonnal be kell szüntetni.
