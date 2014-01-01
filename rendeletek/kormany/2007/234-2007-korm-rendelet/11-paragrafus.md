@@ -1,1 +1,0 @@
-## összesített adataira is vonatkozik.
