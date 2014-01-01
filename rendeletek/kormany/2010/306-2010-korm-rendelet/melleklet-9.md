@@ -12,11 +12,11 @@
 
 ## f) a környezettel kapcsolatos egyes tervek és programok kidolgozásánál a nyilvánosság részvételéről, valamint a nyilvánosság részvétele és az igazságszolgáltatáshoz való jog tekintetében a 85/337/EGK és a 96/61/EK tanácsi irányelv módosításáról szóló, 2003. május 26-i 2003/35/EK európai parlamenti és tanácsi irányelv 6. cikke;
 
-## g) a környezeti levegő egyes szennyező anyagainak határértékeivel kapcsolatban a 96/62/EK tanácsi irányelv szerint előírt tervekre vagy programokra vonatkozó információ benyújtását szabályozó rendelkezések megállapításáról szóló, 2004. február 20-i 2004/224/EK bizottsági határozat;
+## g)[^13]
 
 ## h) a környezeti levegőben található arzénről, kadmiumról, higanyról, nikkelről és policiklusos aromás szénhidrogénekről szóló, 2004. december 15-i 2004/107/EK európai parlamenti és tanácsi irányelv 4. cikk (14) bekezdése, valamint 5. cikk (1) és (2) bekezdése;
 
-## i) a környezeti levegő minőségének a 96/62/EK és az 1999/30/EK tanácsi irányelvvel, valamint a 2000/69/EK és a 2002/3/EK európai parlamenti és tanácsi irányelvvel összhangban történő vizsgálatára vonatkozó éves jelentéshez használandó kérdőív meghatározásáról szóló, 2004. április 29-i 2004/461/EK bizottsági határozat;
+## i)[^14]
 
 ## j) a környezeti levegő minőségéről és a Tisztább levegőt Európának elnevezésű programról szóló, 2008. május 21-i 2008/50/EK európai parlamenti és tanácsi irányelv 6. cikk (5) bekezdése, 11. cikk (2) bekezdése, 19. cikke, 20. cikk (1) és (2) bekezdése, 21. cikk (2) és (3) bekezdése, 22. cikk (4) bekezdése, 23. cikk (1) bekezdése, valamint 27. cikke;
 
@@ -83,3 +83,6 @@ A levegővédelmi követelmények megsértéséhez kapcsolódó levegőtisztasá
 | 25. | Gazdasági tevékenység keretében végzett, lakosságot zavaró bűzhatást okozó technológia vagy berendezés üzemeltetése; | 200 000 Ft |
 
 | 26. | Nem gazdasági tevékenység keretében végzett, lakosságot zavaró bűzhatást okozó tevékenység folytatása, technológia vagy berendezés üzemeltetése; | 50 000 Ft |
+
+[^13]: A 8. melléklet g) pontját a 378/2013. (X. 25.) Korm. rendelet 5. § (1) bekezdése hatályon kívül helyezte.
+[^14]: A 8. melléklet i) pontját a 378/2013. (X. 25.) Korm. rendelet 5. § (1) bekezdése hatályon kívül helyezte.

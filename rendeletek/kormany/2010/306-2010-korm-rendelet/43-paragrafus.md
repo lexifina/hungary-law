@@ -2,7 +2,7 @@
 
 ## 25. Jogharmonizációs záradék
 
-43. §[^7] (1) Ez a rendelet
+43. §[^8] (1) Ez a rendelet
 
 a) a szerves oldószerek egyes tevékenységeknél és berendezésekben történő felhasználása során keletkező illékony szerves vegyületek kibocsátásának korlátozásáról szóló, 1999. március 11-i 1999/13/EK tanácsi irányelv 6. cikk (3) bekezdésének, valamint 11. cikk (1) és (2) bekezdésének,
 
@@ -26,12 +26,11 @@ h) az ipari kibocsátásokról (a környezetszennyezés integrált megelőzése 
 
 a) a veszélyes hulladékégetésről szóló 94/67/EK tanácsi irányelv végrehajtásáról szóló tagállami jelentések alapjául szolgáló kérdőívről szóló, 1998. február 25-i 98/184/EK bizottsági határozatnak,
 
-b) a környezeti levegő egyes szennyező anyagainak határértékeivel kapcsolatban a 96/62/EK tanácsi irányelv szerint előírt tervekre vagy programokra vonatkozó információ benyújtását szabályozó rendelkezések megállapításáról szóló, 2004. február 20-i 2004/224/EK bizottsági határozatnak,
-
-c) a környezeti levegő minőségének a 96/62/EK és az 1999/30/EK tanácsi irányelvvel, valamint a 2000/69/EK és a 2002/3/EK európai parlamenti és tanácsi irányelvvel összhangban történő vizsgálatára vonatkozó éves jelentéshez használandó kérdőív meghatározásáról szóló, 2004. április 29-i 2004/461/EK bizottsági határozatnak,
+b)–c)[^9]
 
 d) az Európai Szennyezőanyag-kibocsátási és -szállítási Nyilvántartás létrehozásáról, valamint a 91/689/EGK és a 96/61/EK tanácsi irányelv módosításáról szóló, 2006. január 18-i 166/2006/EK európai parlamenti és tanácsi rendelet 7. cikkének, továbbá
 
 e) az ózonréteget lebontó anyagokról szóló, 2009. szeptember 16-i 1005/2009/EK európai parlamenti és tanácsi rendelet 26. cikkének
 
-[^7]: A 43. § a 378/2013. (X. 25.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^8]: A 43. § a 378/2013. (X. 25.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^9]: A 43. § (2) bekezdés b)–c) pontját a 378/2013. (X. 25.) Korm. rendelet 5. § (1) bekezdése hatályon kívül helyezte.
