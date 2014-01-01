@@ -36,7 +36,9 @@ p) a hontalanság megállapítására irányuló eljárás részletes szabályai
 
 q) a harmadik országbeli állampolgárok úti okmánnyal történő ellátásának részletes szabályait;
 
-r) az önálló beutazási és tartózkodási tilalom kezdeményezésére, valamint az önálló beutazási és tartózkodási tilalom időtartama tekintetében javaslattételre jogosult rendvédelmi szerveket.
+r) az önálló beutazási és tartózkodási tilalom kezdeményezésére, valamint az önálló beutazási és tartózkodási tilalom időtartama tekintetében javaslattételre jogosult rendvédelmi szerveket;
+
+s) az összevont engedély adattartalmát és kiállításának feltételeit, valamint az összevont kérelmezési eljárás szabályait.
 
 (1a) Felhatalmazást kap a Kormány, hogy kijelölje a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló, 2002. június 13-i 1030/2002/EK tanácsi rendelet, valamint a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendelet alapján kiállított tartózkodásra jogosító okmányok biometrikus adatait tartalmazó tároló elemek hitelesítését végző hatóságokat, és az egyes idegenrendészeti eljárásokban szakhatóságként eljáró rendvédelmi szerveket.
 

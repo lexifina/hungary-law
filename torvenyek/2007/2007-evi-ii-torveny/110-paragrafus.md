@@ -17,3 +17,5 @@
 (8) A 2013. szeptember 1-jét megelőzően közösségi szálláson és befogadó állomáson kijelölt helyen való tartózkodásra kötelezett harmadik országbeli állampolgár 2013. október 31-ig tartózkodhat az erre vonatkozó határozat alapján a közösségi szálláson vagy a befogadó állomáson.
 
 (9) Az idegenrendészeti hatóság 2013. október 31-ig köteles megvizsgálni, hogy a (8) bekezdés szerinti harmadik országbeli állampolgárok esetében a kijelölt helyen való tartózkodás elrendelésének feltételei fennállnak-e, és – ha ezek a feltételek fennállnak – más tartózkodási helyet kijelölni.
+
+(10) A 2013. december 31. napját követően indult tartózkodási engedély kiadása vagy meghosszabbítása iránti kérelem ügyében, ha a harmadik országbeli állampolgár a hatálybalépést megelőzően kiadott munkavállalási engedéllyel rendelkezik, részére – a tartózkodási feltételek teljesítése esetén – összevont engedélyt kell kiadni, és az eljárás során mellőzni kell annak vizsgálatát, hogy a harmadik országbeli állampolgár foglalkoztatása jogszabályban meghatározott szempontok alapján, valamint hazai foglalkoztatáspolitikai érdekből támogatott-e.

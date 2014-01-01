@@ -44,7 +44,9 @@ t) a menedékkérők befogadása minimumszabályainak megállapításáról szó
 
 u) a harmadik országok állampolgárainak, illetve a hontalan személyeknek menekültként vagy a más okból nemzetközi védelemre jogosultként való elismerésének feltételeiről és az e státuszok tartalmára vonatkozó minimumszabályokról szóló, 2004. április 29-i 2004/83/EK tanácsi irányelv;
 
-v) a menekültstátusz megadására és visszavonására vonatkozó tagállami eljárások minimumszabályairól szóló, 2005. december 1-jei 2005/85/EK tanácsi irányelv.
+v) a menekültstátusz megadására és visszavonására vonatkozó tagállami eljárások minimumszabályairól szóló, 2005. december 1-jei 2005/85/EK tanácsi irányelv;
+
+w) a harmadik országbeli állampolgárok valamely tagállam területén való tartózkodására és munkavállalására vonatkozó összevont engedélyre irányuló összevont kérelmezési eljárásról, valamint a harmadik országból származó, valamely tagállam területén jogszerűen tartózkodó munkavállalók közös jogairól szóló, 2011. december 13-i, 2011/98/EU európai parlamenti és tanácsi irányelv.
 
 (2) E törvény
 

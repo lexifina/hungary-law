@@ -48,4 +48,8 @@ s) különösen kizsákmányoló foglalkoztatási feltételek: olyan feltételek
 
 t) különleges bánásmódot igénylő személy: a kísérő nélküli kiskorú vagy olyan kiszolgáltatott személy – különösen a kiskorú, az idős, a fogyatékkal élő személy, a várandós nő, a kiskorú gyermeket egyedül nevelő szülő, valamint a kínzást, nemi erőszakot vagy a pszichikai, fizikai vagy szexuális erőszak más súlyos formáját elszenvedett személy –, akiről helyzetének egyedi értékelését követően megállapítható, hogy sajátos szükségletekkel rendelkezik;
 
-u) őrzött szállás: a személyes szabadságában korlátozott külföldi elhelyezésére szolgáló, az idegenrendészeti eljárásban elrendelt őrizet céljaira sajátosan kialakított létesítmény.
+u) őrzött szállás: a személyes szabadságában korlátozott külföldi elhelyezésére szolgáló, az idegenrendészeti eljárásban elrendelt őrizet céljaira sajátosan kialakított létesítmény;
+
+v) összevont engedély: olyan tartózkodási engedély, amely a harmadik országbeli állampolgárt Magyarország területén meghatározott foglalkoztatóval foglalkoztatási jogviszony létesítésére és tartózkodásra jogosítja;
+
+w) összevont kérelmezési eljárás: olyan eljárás, amely az általa benyújtott kérelem alapján a harmadik országbeli állampolgárnak Magyarország területén való száznyolcvan napon belül kilencven napot meghaladó tartózkodása és meghatározott foglalkoztatóval foglalkoztatási jogviszony létesítése engedélyezésére irányul.

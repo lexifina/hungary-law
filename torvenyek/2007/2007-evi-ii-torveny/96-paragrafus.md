@@ -23,3 +23,13 @@ j) a harmadik országok állampolgárai tartózkodási engedélye egységes form
 (2) Az (1) bekezdés a)–i) pontjában meghatározott adatokat az idegenrendészeti hatóság a tartózkodási engedély iránti kérelem elutasítása esetén annak időpontjától, a kiadott (meghosszabbított) tartózkodási engedély esetén annak érvényességi idejének lejártát, illetve visszavonását követő öt évig kezeli.
 
 (3) Az (1) bekezdés j) pontjában meghatározott adatokat az idegenrendészeti hatóság a tartózkodási engedély iránti kérelem tárgyában hozott jogerős és végrehajtható döntésig, illetve a 29. § (1) bekezdés a)–b) és d)–f) pontjában, illetve (1a) bekezdésében meghatározott humanitárius tartózkodási engedély kiadásáig kezelheti, azt követően haladéktalanul törölni kell.
+
+(4) Az (1) bekezdés e) pontjában meghatározott adatok az összevont kérelmezési eljárás vonatkozásában különösen a következők:
+
+a) a foglalkoztató adatai (név, cím, székhely, telephely, gazdálkodási forma, adószám, KSH-szám),
+
+b) a munkavégzés helye,
+
+c) a munkakör (FEOR-szám), valamint
+
+d) a foglalkoztatásra irányuló jogviszony időtartama.

@@ -22,4 +22,4 @@ rendelkezik.
 
 (4) A keresőtevékenység folytatása céljából kiadott tartózkodási engedély érvényességi ideje legfeljebb három év, amely alkalmanként legfeljebb három évvel meghosszabbítható.
 
-(5) Munkavállalási engedélyhez kötött tevékenység esetén a tartózkodási engedély érvényességi ideje a munkavállalási engedély érvényességi időtartamához igazodik.
+(5)
