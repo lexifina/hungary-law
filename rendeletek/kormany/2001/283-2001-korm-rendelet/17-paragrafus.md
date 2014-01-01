@@ -1,10 +1,10 @@
-## 16. §[^8]
+## 16. §[^10]
 
 ## Hatálybalépés
 
 17. § (1) Ez a rendelet 2002. január 1-jén lép hatályba.
 
-(2)[^9]
+(2)[^11]
 
 Melléklet a 283/2001. (XII. 26.) Korm. rendelethez
 
@@ -40,5 +40,5 @@ A rendelet alkalmazásában:
 
 14. védendő helyiség: a szolgáltató, az elszámolóházi tevékenységet végző szervezet minden olyan helyisége, ahol készpénzzel vagy értékpapírokkal, azok forgalomba hozatalával, átváltásával, tárolásával kapcsolatos műveleteket végeznek, továbbá minden olyan – a titokvédelem szempontjából fontos – helyiség, ahol üzleti, személyes, értékpapír- vagy pénztártitkot tartalmazó iratokat, információkat tárolnak, dolgoznak fel vagy használnak.
 
-[^8]: A 16. §-t és az azt megelőző alcímet a 118/2008. (V. 8.) Korm. rendelet 1. § 1006. pontja hatályon kívül helyezte.
-[^9]: A 17. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1006. pontja hatályon kívül helyezte.
+[^10]: A 16. §-t és az azt megelőző alcímet a 118/2008. (V. 8.) Korm. rendelet 1. § 1006. pontja hatályon kívül helyezte.
+[^11]: A 17. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1006. pontja hatályon kívül helyezte.
