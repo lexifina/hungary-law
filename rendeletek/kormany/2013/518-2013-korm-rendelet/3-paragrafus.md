@@ -1,0 +1,3 @@
+## 2. § Az Mnbkr. 4. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+## „(3) Az egyéb követelések között úton levő tételként kell nyilvántartani – tartozik egyenleg esetén – a Posta Elszámoló Központot működtető intézmény által végzett pénzforgalmi szolgáltatási tevékenységgel kapcsolatos, valamint a GIRO Elszámolásforgalmi Zártkörűen Működő Részvénytársaság (a továbbiakban: GIRO Zrt.) elszámolásával összefüggő tételeket. Az egyéb követelések között kell kimutatni többek között a felügyeleti tevékenységből származó követeléseket (felügyeleti díjelőírásokat, kiszabott bírságokat) és a dolgozói kölcsönöket.”

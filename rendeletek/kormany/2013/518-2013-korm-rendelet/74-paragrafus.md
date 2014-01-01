@@ -1,0 +1,3 @@
+## „(3) A mikrogazdálkodói beszámolót első üzleti évre készítő vállalkozó üzleti évének első napján állományban lévő, az Szt. 33. § (2) bekezdése szerinti halasztott ráfordítást az (1) bekezdés b) pontjától eltérően, az első üzleti év végén és az azt követő két üzleti évben, három egyenlő részletben is megszüntetheti, ha annak összege az 1 millió forintot meghaladja.
+
+## (4) A mikrogazdálkodói beszámolót első üzleti évre készítő vállalkozó képviseletére jogosult személynek a mikrogazdálkodói beszámoló választásáról legkésőbb az üzleti év első napjával írásban nyilatkoznia kell. A nyilatkozatot a bizonylatok megőrzésére vonatkozó határidőig meg kell őrizni.”

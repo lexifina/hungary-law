@@ -1,0 +1,3 @@
+## 27. § A Hitkr. 11. § (8) bekezdése helyébe a következő rendelkezés lép:
+
+## „(8) Az eredménykimutatásban külön be kell mutatni – ezért az egyéb pénzügyi szolgáltatás ráfordításai, illetve az egyéb ráfordítások az eredménykimutatásban nem tartalmazzák – a befektetett eszközök közé tartozó, hitelviszonyt megtestesítő értékpapírok és tulajdoni részesedést jelentő befektetések után elszámolt, illetve a követelések után elszámolt értékvesztést, valamint a függő és a biztos (jövőbeni) kötelezettségek után elszámolt kockázati céltartalék összegét. Az eredménykimutatásban az általános kockázati céltartalék felhasználásának összegét kell bemutatni.”
