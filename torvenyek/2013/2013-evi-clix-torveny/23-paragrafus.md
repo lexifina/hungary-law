@@ -1,1 +1,5 @@
-23. §
+23. § Az Szjt. „A törvény hatálybalépésére vonatkozó és az átmeneti rendelkezéseket megállapító szabályok” alcíme a következő 111/F. §-sal egészül ki:
+
+„111/F. § (1) E törvénynek a szellemi tulajdonra vonatkozó egyes törvények módosításáról szóló 2013. évi CLIX. törvénnyel megállapított 89. § (11) és (11b) bekezdésében foglaltakat az NKA számára 2014. január 1-jét követően átadott bevételekre kell alkalmazni.
+
+(2) E törvénynek a szellemi tulajdonra vonatkozó egyes törvények módosításáról szóló 2013. évi CLIX. törvénnyel megállapított 89. § (11a) bekezdésében foglaltakat első alkalommal a 2013. évben beszedett bevételekre kell alkalmazni. A közös jogkezelő szervezet által a 20. és 21. §-ban meghatározott díjakból származó, 2013. évben beszedett bevételéből 2014. január 1-jét megelőzően az NKA részére kulturális célú felhasználásra átadott összeget a 89. § (11a) bekezdésében előírt átadási kötelezettség teljesítése során be kell számítani.”
