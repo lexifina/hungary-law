@@ -1,4 +1,4 @@
-14. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^540]
+14. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^546]
 
 „ADATLAP kórházi (osztályos) ápolási esetről
 
@@ -158,6 +158,8 @@ V. magyar biztosított külföldi ellátása a szociális biztonsági rendszerek
 
 Y. magyar biztosított külföldi ellátása a határon átnyúló egészségügyi ellátás keretében
 
+W. magyar biztosítás alapján magyarországi szolgáltató által a külföldön történő gyógykezelések részletes szabályairól szóló 340/2013. (IX. 25.) Korm. rendelet 5. § (3) bekezdése szerint végzett ellátás
+
 0. élsportoló speciális ellátása
 
 4/A. Részleges térítés jogcíme
@@ -194,68 +196,4 @@ R térítési kategória esetén a maximum érték eléréséig kitöltése köt
 
 TAJ szám, illetve a személyazonosító típusának megfelelő egyéb azonosító
 
-7. Törzsszám
-
-A beteg 9 jegyű törzsszámát kell megadni
-
-8. A beteg neve
-
-(Elektronikusan nem továbbítandó)
-
-9. Érvényes biztosítás országa vagy a beteg állampolgársága
-
-Elsődlegesen, ha a beteg érvényes egészségbiztosítással rendelkezik, akkor az egészségbiztosítási rendszert fenntartó állam kódját, egyébként a beteg állampolgárságának kódját kell megadni
-
-10. Anyja neve
-
-(Elektronikusan nem továbbítandó)
-
-A beteg anyjának a nevét kell megadni
-
-11. A beteg születési neve
-
-(Elektronikusan nem továbbítandó)
-
-A beteg születési nevét kell megadni
-
-12. A beteg neme
-
-1. férfi
-
-2. nő
-
-Amennyiben nem állapítható meg, akkor a felvételkori vagy a nyilvántartott vagy a születéskori neme adandó meg
-
-13. Születési dátuma
-
-A beteg születési dátuma évszázaddal együtt
-
-14. A kísért beteg törzsszáma
-
-14/A. A beteg kíséretének oka
-
-1. Beteggel érkező hozzátartozó
-
-2. Anya – újszülött kapcsolat (a kitöltést végző osztályos ellátás során történő szülések esetén kell alkalmazni)
-
-3. Donor – transzplantált beteg kapcsolat
-
-4. Egyéb
-
-16. Lakcím
-
-A beteg lakcíme (irányítószám, város/község, utca, házszám), amennyiben a dokumentált lakcímtől eltér a tartózkodási hely, akkor bemondás alapján az utóbbit kell figyelembe venni
-
-16/A. Lakcím típusa
-
-1. Lakóhely
-
-2. Tartós elhelyezést biztosító szociális intézmény
-
-17/A. Beutaló orvos munkahelyének azonosítója
-
-Finanszírozott egészségügyi szolgáltató orvosának beutalása esetén a szerződés szerinti szervezeti egység azonosító kódja, nem finanszírozott egészségügyi szolgáltató orvosának beutalása esetén a működési engedély szerinti szervezeti egységkód, a OEP ellenőrző orvosainak beutalása esetén 999999991, az orvos saját maga vagy közeli hozzátartozója beutalása esetén 999999992
-
-17/B. Beutaló orvos kódja
-
-[^540]: A 14. számú melléklet a 291/2009. (XII. 18.) Korm. rendelet 14. § (3) bekezdésével megállapított, a 365/2010. (XII. 30.) Korm. rendelet 13. § (7) bekezdése és 19. § (1) bekezdés g) pontja és (2) bekezdés c) pontja, a 73/2011. (IV. 29.) Korm. rendelet 6. § (5) bekezdése, a 139/2011. (VII. 21.) Korm. rendelet 19. § (3) bekezdése, a 227/2011. (X. 28.) Korm. rendelet 6. § (2) bekezdése, a 325/2011. (XII. 28.) Korm. rendelet 26. § (1) bekezdés k) pontja, a 164/2012. (VII. 19.) Korm. rendelet 1. §-a, a 447/2012. (XII. 29.) Korm. rendelet 27. § (4) bekezdése és 29. § i) pontja, a 254/2013. (VII. 5.) Korm. rendelet 26. § (2) bekezdése, a 339/2013. (IX. 25.) Korm. rendelet 12. § (3) bekezdése szerint módosított szöveg.
+[^546]: A 14. számú melléklet a 291/2009. (XII. 18.) Korm. rendelet 14. § (3) bekezdésével megállapított, a 365/2010. (XII. 30.) Korm. rendelet 13. § (7) bekezdése és 19. § (1) bekezdés g) pontja és (2) bekezdés c) pontja, a 73/2011. (IV. 29.) Korm. rendelet 6. § (5) bekezdése, a 139/2011. (VII. 21.) Korm. rendelet 19. § (3) bekezdése, a 227/2011. (X. 28.) Korm. rendelet 6. § (2) bekezdése, a 325/2011. (XII. 28.) Korm. rendelet 26. § (1) bekezdés k) pontja, a 164/2012. (VII. 19.) Korm. rendelet 1. §-a, a 447/2012. (XII. 29.) Korm. rendelet 27. § (4) bekezdése és 29. § i) pontja, a 254/2013. (VII. 5.) Korm. rendelet 26. § (2) bekezdése, a 339/2013. (IX. 25.) Korm. rendelet 12. § (3) bekezdése, az 519/2013. (XII. 20.) Korm. rendelet 10. § (5) bekezdése szerint módosított szöveg.

@@ -1,9 +1,9 @@
-24. § (1)[^219] A finanszírozó által finanszírozott fogászati alapellátási szolgálatok a területükhöz tartozó lakosok részére – a külön jogszabály előírásai szerint – kötelesek fogászati szűrővizsgálatot végezni a szakmai előírásoknak megfelelően, és arról igazolást adni.
+24. § (1)[^225] A finanszírozó által finanszírozott fogászati alapellátási szolgálatok a területükhöz tartozó lakosok részére – a külön jogszabály előírásai szerint – kötelesek fogászati szűrővizsgálatot végezni a szakmai előírásoknak megfelelően, és arról igazolást adni.
 
-(2)[^220] A finanszírozó által finanszírozott fogorvosi szolgálat a rendelésén ellátott területen kívül lakó biztosított részére is térítésmentesen köteles nyújtani az Eb. tv. 12. §-ában meghatározott fogászati szolgáltatásokat.
+(2)[^226] A finanszírozó által finanszírozott fogorvosi szolgálat a rendelésén ellátott területen kívül lakó biztosított részére is térítésmentesen köteles nyújtani az Eb. tv. 12. §-ában meghatározott fogászati szolgáltatásokat.
 
-(3)[^221]
+(3)[^227]
 
-[^219]: A 24. § (1) bekezdése a 293/2002. (XII. 27.) Korm. rendelet 26. §-ának (3) bekezdése szerint módosított szöveg.
-[^220]: A 24. § (2) bekezdése a 264/2003. (XII. 24.) Korm. rendelet 11. §-ával megállapított, a 291/2009. (XII. 18.) Korm. rendelet 16. § (5) bekezdése szerint módosított szöveg.
-[^221]: A 24. § (3) bekezdését a 264/2003. (XII. 24.) Korm. rendelet 11. §-a iktatta be, hatályon kívül helyezte a 318/2006. (XII. 23.) Korm. rendelet 25. § (2) bekezdése.
+[^225]: A 24. § (1) bekezdése a 293/2002. (XII. 27.) Korm. rendelet 26. §-ának (3) bekezdése szerint módosított szöveg.
+[^226]: A 24. § (2) bekezdése a 264/2003. (XII. 24.) Korm. rendelet 11. §-ával megállapított, a 291/2009. (XII. 18.) Korm. rendelet 16. § (5) bekezdése szerint módosított szöveg.
+[^227]: A 24. § (3) bekezdését a 264/2003. (XII. 24.) Korm. rendelet 11. §-a iktatta be, hatályon kívül helyezte a 318/2006. (XII. 23.) Korm. rendelet 25. § (2) bekezdése.

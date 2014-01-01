@@ -1,0 +1,5 @@
+6/E. §[^75] (1) Az egészségügyi szolgáltató az általa külföldön történő gyógykezelésre beutalt beteg részére végzett külföldön történő gyógykezelésről a 4. § (2) bekezdése szerint adatot szolgáltat az OEP részére a külföldön történő gyógykezelések részletes szabályairól szóló kormányrendelet alapján, ha a beteg a külföldön történő gyógykezelést a külföldön történő gyógykezelések részletes szabályairól szóló kormányrendelet szerint vette igénybe.
+
+(2) A magyar biztosítás alapján magyarországi szolgáltató által a külföldön történő gyógykezelések részletes szabályairól szóló 340/2013. (IX. 25.) Korm. rendelet 5. § (3) bekezdése szerint végzett ellátást az egészségügyi szolgáltató „W” térítési kategóriában jelenti. Az így jelentett ellátások fedezetéül az Egészségbiztosítási Alap „Külföldön tervezett egészségügyi ellátások megtérítése” előirányzata szolgál.
+
+[^75]: A 6/E. §-t újonnan a 339/2013. (IX. 25.) Korm. rendelet 9. §-a iktatta be, szövege az 519/2013. (XII. 30.) Korm. rendelet 3. §-ával megállapított szöveg.

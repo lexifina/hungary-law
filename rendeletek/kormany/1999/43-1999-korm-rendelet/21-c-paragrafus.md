@@ -1,3 +1,3 @@
-## 21/B. §[^182] Az anyatejgyűjtő állomás finanszírozása a tárgyévi előirányzat-növekedés mértékével emelt összegű fix díjjal történik.
+## 21/B. §[^188] Az anyatejgyűjtő állomás finanszírozása a tárgyévi előirányzat-növekedés mértékével emelt összegű fix díjjal történik.
 
-[^182]: A 21/B. §-t a 329/2005. (XII. 29.) Korm. rendelet 7. §-a iktatta be.
+[^188]: A 21/B. §-t a 329/2005. (XII. 29.) Korm. rendelet 7. §-a iktatta be.
