@@ -1,6 +1,6 @@
-## Az elektronikus építési napló[^164]
+## Az elektronikus építési napló[^165]
 
-25. §[^165] (1)–(2)[^166]
+25. §[^166] (1)–(2)[^167]
 
 (3) Az e-napló része az elektronikus építési főnapló (a továbbiakban: e-főnapló) és az elektronikus építési alnapló (a továbbiakban: e-alnapló).
 
@@ -28,9 +28,9 @@ db) közbeszerzés hatálya alá tartozó, de építési, bontási engedélyhez 
 
 (9) A fővállalkozó kivitelező az e-főnaplót, az alvállalkozó kivitelező az e-alnaplót az építési munkaterület átvételekor az átvétel időpontjának rögzítésével nyitja meg, és az építőipari kivitelezési tevékenység befejezését követően az építési munkaterületről levonulás időpontjának rögzítésével zárja le.
 
-(10)[^167] Az építésügyi vagy az építésfelügyeleti hatóság a (4) bekezdés a)–c) pontja szerinti e-építési napló készenlétbe helyezésének megszüntetését és a (4) bekezdés d) pontja, valamint az (5) bekezdés szerint az e-építési napló lezárását az LLTK ilyen tartalmú megkeresésével teljesíti.
+(10)[^168] Az építésügyi vagy az építésfelügyeleti hatóság a (4) bekezdés a)–c) pontja szerinti e-építési napló készenlétbe helyezésének megszüntetését és a (4) bekezdés d) pontja, valamint az (5) bekezdés szerint az e-építési napló lezárását az LLTK ilyen tartalmú megkeresésével teljesíti.
 
-(11)[^168] Az e-építési napló mellékletei:
+(11)[^169] Az e-építési napló mellékletei:
 
 a) készenléti tárhely,
 
@@ -38,8 +38,8 @@ b) a jogerős építésügyi hatósági engedélyt és a hozzá tartozó, enged�
 
 c) építtetői fedezetkezelő közreműködése esetén a fedezetkezelő által kezelt elektronikus alvállalkozói nyilvántartás.
 
-[^164]: A 25. §-t megelőző alcím a 109/2013. (IV. 9.) Korm. rendelet 2. § (9) bekezdésével megállapított szöveg.
-[^165]: A 25. § a 109/2013. (IV. 9.) Korm. rendelet 2. § (9) bekezdésével megállapított szöveg.
-[^166]: A 25. § (1)–(2) bekezdése a 336/2013. (IX. 20.) Korm. rendelet 17. § b) pont bb) alpontja alapján nem lép hatályba.
-[^167]: A 25. § (10) bekezdését a 336/2013. (IX. 20.) Korm. rendelet 12. §-a iktatta be.
-[^168]: A 25. § (11) bekezdését a 336/2013. (IX. 20.) Korm. rendelet 12. §-a iktatta be.
+[^165]: A 25. §-t megelőző alcím a 109/2013. (IV. 9.) Korm. rendelet 2. § (9) bekezdésével megállapított szöveg.
+[^166]: A 25. § a 109/2013. (IV. 9.) Korm. rendelet 2. § (9) bekezdésével megállapított szöveg.
+[^167]: A 25. § (1)–(2) bekezdése a 336/2013. (IX. 20.) Korm. rendelet 17. § b) pont bb) alpontja alapján nem lép hatályba.
+[^168]: A 25. § (10) bekezdését a 336/2013. (IX. 20.) Korm. rendelet 12. §-a iktatta be.
+[^169]: A 25. § (11) bekezdését a 336/2013. (IX. 20.) Korm. rendelet 12. §-a iktatta be.

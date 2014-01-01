@@ -1,10 +1,10 @@
-26. §[^169] (1) Az e-főnaplót és az e-alnaplót a 2. melléklet szerinti tartalommal és formában kell vezetni.
+26. §[^170] (1) Az e-főnaplót és az e-alnaplót a 2. melléklet szerinti tartalommal és formában kell vezetni.
 
 (2) Az e-főnapló vezetése a fővállalkozó kivitelezőnek vagy megbízása esetén a fővállalkozó kivitelező felelős műszaki vezetőjének, az e-alnapló vezetése az alvállalkozó kivitelezőnek vagy megbízása esetén az alvállalkozó kivitelező felelős műszaki vezetőjének a feladata.
 
 (3) A fő- vagy megrendelő vállalkozó kivitelező a vele szerződéses viszonyban álló alvállalkozó e-alnaplójának vezetését átvállalhatja. A fő- vagy megrendelő vállalkozó kivitelező, az alvállalkozó e-alnapló vezetésének átvállalása esetén ezen alvállalkozóval szerződéses viszonyban álló további alvállalkozó e-alnaplójának a vezetését is átvállalhatja. Az e-főnapló vagy az e-alnapló vezetésének átvállalását, átadását mindkét fél jóváhagyásával kell rögzíteni az e-főnaplóban vagy e-alnaplóban. A naplóvezetés átvállalása nem vonatkozhat azokra a naplórészekre és mellékletekre, amelyet kizárólag a naplóvezetésre kötelezett tölthet ki, így a teljesítésigazolási naplóra, az elektronikus alvállalkozói nyilvántartásra és a gyűjtőnaplóra.
 
-(4)[^170]
+(4)[^171]
 
 (5) Az a vállalkozó kivitelező, amely vagy aki a saját építési naplójának vezetését átadta, az átadás időtartama alatt nem vállalhatja át az alvállalkozója építési naplójának vezetését.
 
@@ -18,5 +18,5 @@
 
 (10) Az építési napló vezetésére kötelezett – az építőipari kivitelezési tevékenység végzésének ideje alatt, az építési munkaterületen – kérésre hozzáférést biztosít az e-főnaplóhoz, az e-alnaplóhoz és ezek mellékleteihez a bejegyzésre vagy betekintésre jogosultak részére.
 
-[^169]: A 26. § a 109/2013. (IV. 9.) Korm. rendelet 2. § (9) bekezdésével megállapított szöveg.
-[^170]: A 26. § (4) bekezdése a 336/2013. (IX. 20.) Korm. rendelet 17. § b) pont bb) alpontja alapján nem lép hatályba.
+[^170]: A 26. § a 109/2013. (IV. 9.) Korm. rendelet 2. § (9) bekezdésével megállapított szöveg.
+[^171]: A 26. § (4) bekezdése a 336/2013. (IX. 20.) Korm. rendelet 17. § b) pont bb) alpontja alapján nem lép hatályba.

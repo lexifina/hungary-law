@@ -1,12 +1,12 @@
 ## A kivitelező
 
-12. § (1)[^61] Építőipari kivitelezési tevékenységet – az Étv. 39/A. § (5) bekezdésében foglaltakon túlmenően – a vállalkozó kivitelező akkor vállalhat, ha
+12. § (1)[^58] Építőipari kivitelezési tevékenységet – az Étv. 39/A. § (5) bekezdésében foglaltakon túlmenően – a vállalkozó kivitelező akkor vállalhat, ha
 
 a) a vállalkozó kivitelezői tevékenységre jogosultak névjegyzéke a vállalkozó kivitelezőre vonatkozóan tartalmazza a vállalt tevékenységet, és
 
 b) a vállalkozó kivitelező a vállalt kivitelezői tevékenység végzésében közvetlenül részt vesz.
 
-(1a)[^62] A vállalkozó kivitelező az általa vállalt tevékenységből olyan építőipari kivitelezési tevékenységet végezhet
+(1a)[^59] A vállalkozó kivitelező az általa vállalt tevékenységből olyan építőipari kivitelezési tevékenységet végezhet
 
 a) amelyhez
 
@@ -28,7 +28,7 @@ d) amelynek végzését az építésügyi vagy építésfelügyeleti hatóság n
 
 (2) A vállalkozó kivitelező feladata az Étv. 40. § (1) bekezdésében és 43. § (2) bekezdésében foglaltakon túlmenően:
 
-a)[^63] az építőipari kivitelezési tevékenység megkezdésekor az építtetőtől [alvállalkozó kivitelező esetében a megrendelő vállalkozó kivitelezőtől] az építési munkaterület átvétele, annak szükség szerinti lőszermentesítése,
+a)[^60] az építőipari kivitelezési tevékenység megkezdésekor az építtetőtől [alvállalkozó kivitelező esetében a megrendelő vállalkozó kivitelezőtől] az építési munkaterület átvétele, annak szükség szerinti lőszermentesítése,
 
 b) az építési napló megnyitása az e rendeletben meghatározottak szerint,
 
@@ -42,21 +42,21 @@ f) annak biztosítása, hogy az építési munkaterületen csak olyan személyek
 
 g) a műszaki átadás-átvételi eljárás során a berendezések, rendszerek működési próbája és a tapasztalt rendellenességek, hiányosságok megszüntetése, szükség esetén a próba megismétlése,
 
-h)[^64] a kivitelezés befejezésével a mérési jegyzőkönyvek kiállítása, az alkalmazott építési termékek teljesítménynyilatkozatainak rendelkezésre bocsátása,
+h)[^61] a kivitelezés befejezésével a mérési jegyzőkönyvek kiállítása, az alkalmazott építési termékek teljesítménynyilatkozatainak rendelkezésre bocsátása,
 
-i)[^65] az építési szerződés szerint az építési munkaterület visszaadása az építtetőnek, alvállalkozói szerződés esetén a megrendelő vállalkozó kivitelezőnek,
+i)[^62] az építési szerződés szerint az építési munkaterület visszaadása az építtetőnek, alvállalkozói szerződés esetén a megrendelő vállalkozó kivitelezőnek,
 
 j) az építési munkaterület őrzésének biztosítása,
 
 k) az építési munkák befejeztével az építési területről való levonulás végrehajtása,
 
-l)[^66] fővállalkozó kivitelezőként az építési műszaki ellenőr vagy eltérő megállapodás esetén az építtető által kiadott teljesítésigazolásnak és a teljesítésigazolás alapján a szerződés szerinti teljesítésről (részteljesítésről) kiállított számlának az építtető, valamint építtetői fedezetkezelő közreműködése esetén az építtetői fedezetkezelő részére történő eljuttatása,
+l)[^63] fővállalkozó kivitelezőként az építési műszaki ellenőr vagy eltérő megállapodás esetén az építtető által kiadott teljesítésigazolásnak és a teljesítésigazolás alapján a szerződés szerinti teljesítésről (részteljesítésről) kiállított számlának az építtető, valamint építtetői fedezetkezelő közreműködése esetén az építtetői fedezetkezelő részére történő eljuttatása,
 
-m)[^67] építtetői fedezetkezelő közreműködése esetén, ha a kivitelezési tevékenység megvalósításában alvállalkozóként vesz részt, a szerződése adatainak felvitele – legkésőbb a kivitelezési tevékenységének megkezdéséig – a fedezetkezelő által internetes alapon működtetett alvállalkozói nyilvántartásba.
+m)[^64] építtetői fedezetkezelő közreműködése esetén, ha a kivitelezési tevékenység megvalósításában alvállalkozóként vesz részt, a szerződése adatainak felvitele – legkésőbb a kivitelezési tevékenységének megkezdéséig – a fedezetkezelő által internetes alapon működtetett alvállalkozói nyilvántartásba.
 
 (3) A kivitelezőnek a (2) bekezdés e) pontjában meghatározott feladat teljesítésével kapcsolatos költségeit annak elszámolása esetén az építtető köteles megtéríteni.
 
-(4)[^68] A (2) bekezdésben foglaltakon túlmenően a fővállalkozó kivitelező feladata
+(4)[^65] A (2) bekezdésben foglaltakon túlmenően a fővállalkozó kivitelező feladata
 
 a) ha az építtető nem jelölte ki, az alvállalkozó kivitelezők kiválasztása,
 
@@ -64,14 +64,14 @@ b) az alvállalkozó kivitelezőkkel történő egyeztetések koordinálása, te
 
 c) az építési napló vezetése, külön megállapodás esetén az alvállalkozói építési napló vezetése.
 
-(5)[^69] A vállalkozó kivitelező a saját elektronikus építési naplójának a vezetésével megbízhatja a felelős műszaki vezetőjét. Az erre irányuló megállapodást mindkét fél elfogadásával a vállalkozó kivitelező elektronikus építési naplójában kell rögzíteni.
+(5)[^66] A vállalkozó kivitelező a saját elektronikus építési naplójának a vezetésével megbízhatja a felelős műszaki vezetőjét. Az erre irányuló megállapodást mindkét fél elfogadásával a vállalkozó kivitelező elektronikus építési naplójában kell rögzíteni.
 
-[^61]: A 12. § (1) bekezdése a 109/2013. (IV. 9.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
-[^62]: A 12. § (1a) bekezdését a 109/2013. (IV. 9.) Korm. rendelet 2. § (3) bekezdése iktatta be.
-[^63]: A 12. § (2) bekezdés a) pontja a 322/2012. (XI. 16.) Korm. rendelet 92. § e) pont ea) alpontja szerint módosított szöveg.
-[^64]: A 12. § (2) bekezdés h) pontja a 322/2012. (XI. 16.) Korm. rendelet 67. § (3) bekezdésével megállapított szöveg.
-[^65]: A 12. § (2) bekezdés i) pontja a 109/2013. (IV. 9.) Korm. rendelet 2. § (4) bekezdésével megállapított szöveg.
-[^66]: A 12. § (2) bekezdés l) pontja a 182/2010. (V. 14.) Korm. rendelet 7. § 7. pontja, a 322/2012. (XI. 16.) Korm. rendelet 92. § e) pont eb) alpontja szerint módosított szöveg.
-[^67]: A 12. § (2) bekezdés m) pontja a 182/2010. (V. 14.) Korm. rendelet 7. § 8. pontja szerint módosított szöveg.
-[^68]: A 12. § (4) bekezdés nyitó szövegrésze a 322/2012. (XI. 16.) Korm. rendelet 92. § e) pont ec) alpontja szerint módosított szöveg.
-[^69]: A 12. § (5) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 68. § (2) bekezedésével megállapított szöveg.
+[^58]: A 12. § (1) bekezdése a 109/2013. (IV. 9.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^59]: A 12. § (1a) bekezdését a 109/2013. (IV. 9.) Korm. rendelet 2. § (3) bekezdése iktatta be.
+[^60]: A 12. § (2) bekezdés a) pontja a 322/2012. (XI. 16.) Korm. rendelet 92. § e) pont ea) alpontja szerint módosított szöveg.
+[^61]: A 12. § (2) bekezdés h) pontja a 322/2012. (XI. 16.) Korm. rendelet 67. § (3) bekezdésével megállapított szöveg.
+[^62]: A 12. § (2) bekezdés i) pontja a 109/2013. (IV. 9.) Korm. rendelet 2. § (4) bekezdésével megállapított szöveg.
+[^63]: A 12. § (2) bekezdés l) pontja a 182/2010. (V. 14.) Korm. rendelet 7. § 7. pontja, a 322/2012. (XI. 16.) Korm. rendelet 92. § e) pont eb) alpontja szerint módosított szöveg.
+[^64]: A 12. § (2) bekezdés m) pontja a 182/2010. (V. 14.) Korm. rendelet 7. § 8. pontja szerint módosított szöveg.
+[^65]: A 12. § (4) bekezdés nyitó szövegrésze a 322/2012. (XI. 16.) Korm. rendelet 92. § e) pont ec) alpontja szerint módosított szöveg.
+[^66]: A 12. § (5) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 68. § (2) bekezedésével megállapított szöveg.

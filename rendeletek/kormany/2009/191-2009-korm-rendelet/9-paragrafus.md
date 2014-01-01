@@ -1,6 +1,6 @@
 ## A tervező
 
-9. § (1)[^44] Az építtető, vagy nevében a beruházáslebonyolító, illetve erre irányuló megállapodás esetén a fővállalkozó kivitelező a jogosultsággal rendelkező tervezővel a kivitelezési dokumentáció elkészítésére írásbeli tervezési szerződést köt.
+9. § (1)[^44] Az építtető, illetve erre irányuló megállapodás esetén a fővállalkozó kivitelező a jogosultsággal rendelkező tervezővel a kivitelezési dokumentáció elkészítésére írásbeli tervezési szerződést köt.
 
 (2) A tervezési szerződés tartalmazza
 
@@ -52,13 +52,13 @@ f) annak ismertetését, ha az engedélyezési dokumentációtól – a jogszab�
 
 (8)[^52] A kivitelezési dokumentációt a tervező, szerződésben meghatározottak szerint felhasználás céljából az (1) bekezdés szerinti szerződő fél birtokába adja.
 
-(9)[^53] Aki tervezői, beruházáslebonyolítói és építési műszaki ellenőri jogosultsággal is rendelkezik, az e három feladatkört együtt – külön jogszabály szerint szabályozott – beruházási tanácsadó címen láthatja el.
+(9)[^53] Aki tervezői és építési műszaki ellenőri jogosultsággal is rendelkezik, az e három feladatkört együtt – külön jogszabály szerint szabályozott – beruházási tanácsadó címen láthatja el.
 
 (10)[^54] A tervező a kivitelezési tervek készítése során a tervezési programban vagy az építési engedélyezési építészeti-műszaki dokumentációban meghatározott elvárt műszaki teljesítményeket – az építtető egyetértése mellett – legalább az elvárt teljesítményadatokkal rendelkező építési termékek kiválasztásával teljesíti.
 
 (11)[^55] Ha a tervezési program vagy az építési engedélyezési építészeti-műszaki dokumentáció nem vagy nem teljes körűen tartalmaz információt az alkalmazandó építési termékek elvárt műszaki teljesítményére vagy azok nem felelnek meg a szabványokban vagy jogszabályokban foglalt követelményeknek, a kivitelezési terveket készítő tervező az építményre vonatkozó alapvető követelmények teljesülése érdekében jogosult az elvárt teljesítményadatok módosítására.
 
-[^44]: A 9. § (1) bekezdése a 182/2010. (V. 14.) Korm. rendelet 5. § (5) bekezdésével megállapított, a 109/2013. (IV. 9.) Korm. rendelet 2. § (20) bekezdés 5. pont 5.1. alpontja szerint módosított szöveg.
+[^44]: A 9. § (1) bekezdése a 182/2010. (V. 14.) Korm. rendelet 5. § (5) bekezdésével megállapított, a 109/2013. (IV. 9.) Korm. rendelet 2. § (20) bekezdés 5. pont 5.1. alpontja, a 266/2013. (VII. 11.) Korm. rendelet 55. § g) pont gd) alpontja szerint módosított szöveg.
 [^45]: A 9. § (2) bekezdés d) pontját a 322/2012. (XI. 16.) Korm. rendelet 93. § f) pontja hatályon kívül helyezte.
 [^46]: A 9. § (3) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 92. § c) pont ca) alpontja szerint módosított szöveg.
 [^47]: A 9. § (5) bekezdés nyitó szövegrésze a 322/2012. (XI. 16.) Korm. rendelet 92. § c) pont cb) alpontja szerint módosított szöveg.
@@ -67,6 +67,6 @@ f) annak ismertetését, ha az engedélyezési dokumentációtól – a jogszab�
 [^50]: A 9. § (6) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 65. §-ával megállapított szöveg.
 [^51]: A 9. § (7) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 65. §-ával megállapított szöveg.
 [^52]: A 9. § (8) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 65. §-ával megállapított, a 109/2013. (IV. 9.) Korm. rendelet 2. § (21) bekezdés b) pontja szerint módosított szöveg.
-[^53]: A 9. § (9) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 65. §-ával megállapított, a 109/2013. (IV. 9.) Korm. rendelet 2. § (20) bekezdés 5. pont 5.3. alpontja szerint módosított szöveg.
+[^53]: A 9. § (9) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 65. §-ával megállapított, a 109/2013. (IV. 9.) Korm. rendelet 2. § (20) bekezdés 5. pont 5.3. alpontja, a 266/2013. (VII. 11.) Korm. rendelet 51. § (3) bekezdése szerint módosított szöveg.
 [^54]: A 9. § (10) bekezdését a 322/2012. (XI. 16.) Korm. rendelet 65. §-a iktatta be.
 [^55]: A 9. § (11) bekezdését a 322/2012. (XI. 16.) Korm. rendelet 65. §-a iktatta be.

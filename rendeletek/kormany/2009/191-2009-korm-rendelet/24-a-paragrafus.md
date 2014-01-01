@@ -2,17 +2,13 @@
 
 (2) Az építőipari kivitelezési tevékenység végzésének ideje alatt az elektronikus építési naplót
 
-a) az építtető megbízása alapján
-
-aa) az építési műszaki ellenőr vagy a beruházási tanácsadó a 16. §-ban meghatározott feladatok ellátása érdekében, vagy
-
-ab) a beruházáslebonyolító a 8. §-ban meghatározott feladatai ellátása érdekében, valamint
+a)[^160] az építtető megbízása alapján az építési műszaki ellenőr vagy a beruházási tanácsadó a 16. §-ban meghatározott feladatok ellátása érdekében, valamint
 
 b) alvállalkozói elektronikus építési napló esetén a megrendelő vállalkozó kivitelező vagy felelős műszaki vezetője
 
 folyamatosan ellenőrzi, és abban észrevételeit, megállapításait rögzíti.
 
-(3)[^160]
+(3)[^161]
 
 (4) Építtetői fedezetkezelő közreműködése esetén az elektronikus építési napló melléklete a fedezetkezelő által kezelt elektronikus alvállalkozói nyilvántartás.
 
@@ -22,8 +18,9 @@ a) a fővállalkozó kivitelező az építtetővel a pótmunka műszaki szüksé
 
 b) az építtető a fővállalkozó kivitelezővel a pótmunka igényét.
 
-(6)[^161]
+(6)[^162]
 
 [^159]: A 24/A. §-t a 109/2013. (IV. 9.) Korm. rendelet 2. § (8) bekezdése iktatta be.
-[^160]: A 24/A. § (3) bekezdése a 336/2013. (IX. 20.) Korm. rendelet 17. § b) pont ba) alpontja alapján nem lép hatályba.
-[^161]: A 24/A. § (6) bekezdése a 336/2013. (IX. 20.) Korm. rendelet 17. § b) pont ba) alpontja alapján nem lép hatályba.
+[^160]: A 24/A. § (2) bekezdés a) pontja a 266/2013. (VII. 11.) Korm. rendelet 51. § (2) bekezdése iktatta be.
+[^161]: A 24/A. § (3) bekezdése a 336/2013. (IX. 20.) Korm. rendelet 17. § b) pont ba) alpontja alapján nem lép hatályba.
+[^162]: A 24/A. § (6) bekezdése a 336/2013. (IX. 20.) Korm. rendelet 17. § b) pont ba) alpontja alapján nem lép hatályba.

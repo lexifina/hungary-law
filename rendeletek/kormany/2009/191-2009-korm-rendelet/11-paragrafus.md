@@ -1,16 +1,5 @@
 ## Összeférhetetlenségi szabályok
 
-11. § (1)[^57] A beruházáslebonyolító, a felelős műszaki vezető, az építési műszaki ellenőr nem lehet az építészeti-műszaki dokumentáció engedélyezésében részt vevő hatóság, valamint a tevékenység és az engedélyező hatóság felügyeletét ellátó szerv köztisztviselője vagy kormánytisztviselője.
+11. §[^57]
 
-(2)[^58] A beruházáslebonyolító nem lehet tervező, felelős műszaki vezető az adott építési beruházásnál.
-
-(3)[^59] Az építési műszaki ellenőr nem végezhet építésügyi műszaki szakértői, vállalkozói kivitelezői, anyagbeszállítói és felelős műszaki vezetői tevékenységet az általa ellenőrzött építési-szerelési munka vonatkozásában. Az építési műszaki ellenőr nem láthat el további építési műszaki ellenőri feladatokat olyan építési-szerelési munka esetében, ahol építésügyi műszaki szakértői, vállalkozói kivitelezői vagy anyagbeszállítói tevékenységet olyan gazdálkodó szervezet végzi, amelynek az építési műszaki ellenőr tagja, illetve amellyel munkavégzésre irányuló jogviszonyban áll. A Kbt. hatálya alá tartozó építési beruházások esetében nem lehet építési műszaki ellenőr az építésügyi műszaki szakértői, a vállalkozói kivitelezői, az anyagbeszállítói és a felelős műszaki vezetői tevékenységet folytatóknak a Ptk. szerinti hozzátartozója, illetve nem állhat velük munkavégzésre irányuló jogviszonyban.
-
-(4) A felelős műszaki vezető nem végezhet építésügyi műszaki szakértői és építési műszaki ellenőri tevékenységet azon kivitelezési tevékenység esetében, ahol részben vagy egészben építési-szerelési munkát vezet. A felelős műszaki vezető nem láthat el felelős műszaki vezetői feladatokat olyan építési-szerelési munka esetében, ahol az építésügyi műszaki szakértői vagy építési műszaki ellenőri tevékenységet olyan gazdálkodó szervezet végzi, amelynek tagja, illetve amellyel munkavégzésre irányuló jogviszonyban áll. A Kbt. hatálya alá tartozó építési beruházások esetében nem lehet felelős műszaki vezető az építésügyi műszaki szakértői vagy építési műszaki ellenőri tevékenységeket folytatóknak a Ptk. szerinti hozzátartozója, illetve nem állhat velük munkavégzésre irányuló jogviszonyban.
-
-(5)[^60]
-
-[^57]: A 11. § (1) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 66. §-ával megállapított szöveg.
-[^58]: A 11. § (2) bekezdése a 109/2013. (IV. 9.) Korm. rendelet 2. § (20) bekezdés 6. pontja szerint módosított szöveg.
-[^59]: A 11. § (3) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 92. § d) pontja szerint módosított szöveg.
-[^60]: A 11. § (5) bekezdését a 322/2012. (XI. 16.) Korm. rendelet 93. § i) pontja hatályon kívül helyezte.
+[^57]: A 11. §-t a 266/2013. (VII. 11.) Korm. rendelet 55. § g) pont ge) alpontja hatályon kívül helyezte.

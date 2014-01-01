@@ -12,7 +12,7 @@
 
 | 6. | 2000 millió Ft felett | 200 000 Ft |
 
-8. melléklet a 191/2009. (IX. 15.) Korm. rendelethez[^227]
+8. melléklet a 191/2009. (IX. 15.) Korm. rendelethez[^230]
 
 Nyilvántartásba vett vállalkozó kivitelezők teljesítésre való alkalmasságának megítélése
 
@@ -54,4 +54,4 @@ II. A műszaki és szakmai alkalmasság területén
 
 | 8. | 7. | önkéntes | minőségbiztosítási szabványnak való megfelelőség tanúsítása | független szerveztet által kiállított tanúsítvány vagy az EU más tagállamában bejegyzett szervezettől származó egyenértékű tanúsítvány vagy az egyenértékű minőségbiztosítási intézkedés bizonyítékainak benyújtása |
 
-[^227]: A 8. mellékletet a 322/2012. (XI. 16.) Korm. rendelet 91. § e) pontja iktatta be.
+[^230]: A 8. mellékletet a 322/2012. (XI. 16.) Korm. rendelet 91. § e) pontja iktatta be.
