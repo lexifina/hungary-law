@@ -38,7 +38,7 @@
 
 ## 12. A bejelentés kelte
 
-2. melléklet a 80/2012. (XII. 28.) BM rendelethez[^7]
+2. melléklet a 80/2012. (XII. 28.) BM rendelethez[^8]
 
 ADATLAP
 
@@ -122,4 +122,4 @@ A térkép (vetület) fajtája: A térképszelvény száma:
 
 18.3. Egyéb mellékletek (pl. rajz, archív fénykép, irodalom):
 
-[^7]: A 2. mellékletet a 70/2013. (XII. 16.) BM rendelet 54. § (3) bekezdése iktatta be.
+[^8]: A 2. mellékletet a 70/2013. (XII. 16.) BM rendelet 54. § (3) bekezdése iktatta be.
