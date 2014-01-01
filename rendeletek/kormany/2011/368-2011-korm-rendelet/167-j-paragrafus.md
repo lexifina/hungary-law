@@ -8,9 +8,7 @@
 
 4. a törzskönyvi jogi személy államháztartási egyedi azonosító száma,
 
-5. költségvetési szerv esetében annak gazdálkodási besorolása,
-
-6. önállóan működő költségvetési szerv költségvetési kapcsolatának PIR száma, megnevezése,
+5–6.[^389]
 
 7. az államháztartás központi alrendszerébe tartozó költségvetési szerv esetében annak fejezetrend szerinti besorolása;
 
@@ -37,3 +35,5 @@
 18. a szociális, gyermekjóléti és gyermekvédelmi törzskönyvi jogi személy ágazati azonosítója,
 
 19. a költségvetési szerv módosításokkal egységes szerkezetbe foglalt alapító okirata vagy megszüntető okirata szkennelt formában.
+
+[^389]: Az Ávr. 167/J. § 5–6. pontját a 497/2013. (XII. 29.) Korm. rendelet 63. § (1) bekezdés 23. pontja hatályon kívül helyezte.

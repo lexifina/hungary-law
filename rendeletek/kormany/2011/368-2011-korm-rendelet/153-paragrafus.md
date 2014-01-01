@@ -1,9 +1,15 @@
-153. § (1) Az államháztartás központi alrendszerébe tartozó költségvetési szerv és a fejezeti kezelésű előirányzat kötelezettségvállalással terhelt, azonban a költségvetési évet követő év június 30-áig pénzügyileg nem teljesült, továbbá meghiúsult kötelezettségvállalás miatt kötelezettségvállalással nem terhelt előirányzat-maradványának elvonásáról vagy felhasználásának további engedélyezéséről a Kormány dönt. Az elvont előirányzat-maradvány a központi költségvetést illeti meg.
+153. § (1)[^363] Az államháztartás központi alrendszerébe tartozó költségvetési szerv és a fejezeti kezelésű előirányzat kötelezettségvállalással terhelt, azonban a költségvetési évet követő év június 30-áig pénzügyileg nem teljesült, továbbá meghiúsult kötelezettségvállalás miatt kötelezettségvállalással nem terhelt költségvetési maradványának elvonásáról vagy felhasználásának további engedélyezéséről – a (2) és (2a) bekezdés figyelembevételével – a Kormány dönt. Az elvont költségvetési maradvány a központi költségvetést illeti meg.
 
-(2)[^247] Az államháztartásért felelős miniszter az (1) bekezdés szerinti előirányzat-maradványról előterjesztést készít a Kormánynak, amely rendelkezik annak elvonásáról, változatlan vagy eltérő célú felhasználásának engedélyezéséről, valamint az eltérő célú felhasználáshoz szükséges előirányzat-átcsoportosításról. A Kormány a 150. § c), g), h), i), j) és l) pontja szerinti előirányzat-maradvány további, változatlan célú felhasználását mérlegelés nélkül engedélyezi, annak terhére a költségvetési évet követő év június 30-át követően, a Kormány engedélyét megelőzően is vállalható kötelezettség és teljesíthető kifizetés.
+(2)[^364] Az államháztartásért felelős miniszter az (1) bekezdés szerinti költségvetési maradványról előterjesztést készít a Kormánynak, amely rendelkezik annak elvonásáról, változatlan vagy eltérő célú felhasználásának engedélyezéséről.
 
-(3) Az államháztartásért felelős miniszter a Kormány döntése alapján szeptember 15-éig hagyja jóvá az előirányzat-maradványt, melyről értesíti a fejezetet irányító szervet és a Kincstárt.
+(2a)[^365] A 150. § (1) bekezdés c), g), h), i), j) és l) pontja szerinti költségvetési maradvány terhére a költségvetési évet követő év június 30-át követően a Kormány döntése nélkül vállalható kötelezettség és teljesíthető kifizetés, kivéve a 150. § (1) bekezdés c), h), i), j) pontja szerinti költségvetési maradványok azon részét, amelyet a fejezetet irányító szerv elvonásra felajánlott vagy amely eltérő célú felhasználásának engedélyezését kérte.
 
-(4) Az államháztartás központi alrendszerébe tartozó költségvetési szerv előirányzat-maradványát a fejezetet irányító szerv – a Kincstár egyidejű tájékoztatásával – az államháztartásért felelős miniszter jóváhagyását követő tizenöt napon belül állapítja meg.
+(3)[^366] Az államháztartásért felelős miniszter a Kormány döntése alapján szeptember 15-éig hagyja jóvá a költségvetési maradványt, melyről értesíti a fejezetet irányító szervet és a Kincstárt.
 
-[^247]: Az Ávr. 153. § (2) bekezdése a 332/2012. (XI. 28.) Korm. rendelet 2. §-ával megállapított, a 307/2013. (VIII. 14.) Korm. rendelet 29. § 23. pontja szerint módosított szöveg.
+(4)[^367] Az államháztartás központi alrendszerébe tartozó költségvetési szerv költségvetési maradványát a fejezetet irányító szerv – a Kincstár egyidejű tájékoztatásával – az államháztartásért felelős miniszter jóváhagyását követő tizenöt napon belül állapítja meg.
+
+[^363]: Az Ávr. 153. § (1) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 52. § (1) bekezdésével megállapított szöveg.
+[^364]: Az Ávr. 153. § (2) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 52. § (1) bekezdésével megállapított szöveg.
+[^365]: Az Ávr. 153. § (2a) bekezdését a 497/2013. (XII. 29.) Korm. rendelet 52. § (2) bekezdése iktatta be.
+[^366]: Az Ávr. 153. § (3) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 62. § (1) bekezdés 50. pontja szerint módosított szöveg.
+[^367]: Az Ávr. 153. § (4) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 62. § (1) bekezdés 51. pontja szerint módosított szöveg.

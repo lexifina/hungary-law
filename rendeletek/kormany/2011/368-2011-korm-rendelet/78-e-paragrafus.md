@@ -1,0 +1,5 @@
+78/E. §[^175] (1) Az Európai Unió strukturális alapjainak és Kohéziós Alapjának támogatásával megvalósuló programok esetén az operatív program vagy a közösségi kezdeményezés irányító hatósága – a 4/2011. (I. 28.) Korm. rendelet 56. § (1) bekezdése szerinti szállítói finanszírozás esetén – előleget nyújthat a 4/2011. (I. 28.) Korm. rendelet szerinti közszféra szervezet kedvezményezettek számára, ha az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 142. §-ában foglalt feltételek teljesülnek.
+
+(2) A támogatási előleg legfeljebb a keletkező fizetendő adó mértékéig terjedhet. Az általános forgalmi adó előleget az adóval érintett számla elszámolásra benyújtásával egyidejűleg lehet igényelni. A támogató az előleget tizenöt napon belül folyósítja. Az általános forgalmi adó előleget a kedvezményezett a folyósítást követő harminc napon belül köteles az adó befizetésére fordítani, kivéve, ha az Art. ennél rövidebb határidőt állapít meg, továbbá köteles azzal a befizetését követő öt munkanapon belül a támogató felé elszámolni.
+
+[^175]: Az Ávr. 78/E. §-át a 497/2013. (XII. 29.) Korm. rendelet 36. §-a iktatta be.

@@ -6,8 +6,10 @@ b) egy évre számított értéke a költségvetési évet követő három év b
 
 eléri vagy meghaladja.
 
-(2) Nem szükséges az államháztartásért felelős miniszter vagy a fejezetet irányító szerv engedélyét kérni
+(2)[^95] Nem szükséges az államháztartásért felelős miniszter vagy a fejezetet irányító szerv engedélyét kérni
 
-a) a személyi juttatások, valamint a munkaadókat terhelő járulékok és szociális hozzájárulási adó felhasználása során, ide nem értve a külső személyi juttatások előirányzata terhére kötött, az (1) bekezdésben meghatározott feltételeknek megfelelő szerződéseket, és
+a) az egységes rovatrend K1. Személyi juttatások, és K2. Munkaadókat terhelő járulékok és szociális hozzájárulási adó rovatain megtervezett előirányzatok felhasználása során, ide nem értve a K122. Munkavégzésre irányuló egyéb jogviszonyban nem saját foglalkoztatottnak fizetett juttatások rovat előirányzata terhére kötött, az (1) bekezdésben meghatározott feltételeknek megfelelő szerződéseket, és
 
-b) a dologi előirányzatok felhasználása során az üzemeltetéshez-fenntartáshoz, a költségvetési szerv alapvető közszolgáltatásokkal történő ellátásához kapcsolódó olyan, az (1) bekezdésben meghatározott feltételeknek egyébként megfelelő szerződések megkötéséhez, amelyek esetében a költségvetési szervnek – akár jogszabály, akár a piaci viszonyok miatt – nincs érdemi mérlegelési lehetősége a szerződés megkötése, feltételeinek, ellenértékének meghatározása terén.
+b) az egységes rovatrend K331. Közüzemi díjak rovaton megtervezett előirányzat felhasználása során.
+
+[^95]: Az Ávr. 48. § (2) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 20. §-ával megállapított szöveg.

@@ -2,12 +2,14 @@
 
 ## A KÖLTSÉGVETÉSI SZERVEK JOGÁLLÁSA
 
-## [Az Áht. 7. § (2) bekezdéséhez][^8]
+## [Az Áht. 7. § (2) bekezdéséhez][^6]
 
-3. § (1) A költségvetési szerv államháztartáson kívülről származó bevételei közül a közhatalmi bevétel, továbbá az intézményi működési bevételeken belül az ellátási díjak és az alkalmazottak térítése címen befolyt bevétel vállalkozási tevékenységre nem használható fel.
+3. §[^7] A költségvetési szervnél az egységes rovatrend B3. Közhatalmi bevételek és a B405. Ellátási díjak rovatain elszámolandó bevételek vállalkozási tevékenységre nem használhatók fel.
 
 (2) A költségvetési szerv adott vállalkozási tevékenysége bevételének fedeznie kell legalább az adott tevékenységgel összefüggő valamennyi közvetlen kiadást, valamint az ahhoz hozzárendelhető közvetett kiadásokat, továbbá az amortizációt.
 
-(3) Ha adott vállalkozási tevékenységnek a 64. § szerint megállapított maradványa három éven túl negatív, és arra az adott tevékenységgel összefüggésben keletkezett vállalkozási tartalék nem nyújt fedezetet, a költségvetési szerv érintett vállalkozási tevékenységét meg kell szüntetni.
+(3)[^8] Ha a vállalkozási tevékenység maradványa egymást követő három évben negatív, a vállalkozási tevékenységet meg kell szüntetni.
 
-[^8]: Az Ávr. 3. §-át megelőző alcím címe a 307/2013. (VIII. 14.) Korm. rendelet 30. § (2) bekezdés 1. pontja szerint módosított szöveg.
+[^6]: Az Ávr. 3. §-át megelőző alcím címe a 307/2013. (VIII. 14.) Korm. rendelet 30. § (2) bekezdés 1. pontja szerint módosított szöveg.
+[^7]: Az Ávr. 3. § (1) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^8]: Az Ávr. 3. § (3) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.

@@ -16,7 +16,7 @@ b) előzetes véleményéről szóló okirat a megyei hatókörű városi múzeu
 
 6. közös működtetésű vagy fenntartású költségvetési szerv esetében – ha a létesítő okirat nem tartalmazza azt – megállapodás arról, hogy a törzskönyvi jogi személy költségvetése melyik irányító szerv költségvetésében szerepel,
 
-7. a helyi önkormányzat, a nemzetiségi önkormányzat és a társulás bankszámla-szerződése,
+7.[^387] a helyi önkormányzat, a nemzetiségi önkormányzat bankszámla-szerződése,
 
 8. az államháztartás önkormányzati alrendszerébe tartozó törzskönyvi jogi személy esetében a feladat-, illetve intézményátadás esetén az átadó és átvevő közötti megállapodás, továbbá az átadásra-átvételre vonatkozó képviselő-testületi, közgyűlési határozatok kivonata,
 
@@ -59,3 +59,5 @@ fogadható el.
 (4) A 167/C. § (1) bekezdésében és a 167/D. §-ban meghatározott okiratot, dokumentumot közokiratként vagy annak hiteles másolataként kell benyújtani. A törzskönyvi jogi személy nyilvántartásba vételéhez, adatai változásának nyilvántartásba vételéhez és a nyilvántartásból való törléséhez szükséges létesítő okiraton és megszüntető okiraton kívül a 167/A. §-ban meghatározott adatok igazolására szolgáló okiratok egyszerű másolatként is benyújthatóak.
 
 (5) A bejegyzési kérelmet, a törlési kérelmet, a változás-bejelentési kérelmet és azok mellékleteit egy példányban kell benyújtani.
+
+[^387]: Az Ávr. 167/E. § (1) bekezdés 7. pontja a 497/2013. (XII. 29.) Korm. rendelet 63. § (3) bekezdés 20. pontja szerint módosított szöveg.

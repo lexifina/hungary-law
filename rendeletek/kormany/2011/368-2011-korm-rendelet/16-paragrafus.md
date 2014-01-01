@@ -1,10 +1,8 @@
-## [Az Áht. 13. § (3) bekezdéséhez]
-
-16. § (1) A fejezetet irányító szerv az Áht. 13. § (3) bekezdése szerinti tervezett bevételek és kiadások megállapításához meghatározza
+16. §[^44] (1)[^45] A fejezetet irányító szerv az Áht. 13. § (2) bekezdése szerinti tervezett bevételek és kiadások megállapításához meghatározza
 
 a) az általános és kötelezően érvényesítendő tervezési követelményeket, előfeltételeket, módszertant, előírásokat,
 
-b) a fejezetbe sorolt költségvetési szervek, központi kezelésű előirányzatok, fejezeti kezelésű előirányzatok tervezett bevételi és kiadási előirányzatainak értékeit az Áht. 29. § (2) bekezdése alapján lebontott tervszámok 15. § szerinti szerkezeti változásokkal és a szintrehozásokkal módosított összegeként,
+b)[^46] a fejezetbe sorolt költségvetési szervek, központi kezelésű előirányzatok, fejezeti kezelésű előirányzatok tervezett bevételi és kiadási előirányzatainak értékeit a 33/B. § (3) bekezdése alapján lebontott tervszámok 15. § szerinti szerkezeti változásokkal és a szintrehozásokkal módosított összegeként,
 
 c) a b) pontban megjelölt adatokhoz igazodóan a közfeladatok ellátása körében a szakmai, működtetési, foglalkoztatási, díjazási követelményekben, feltételekben érvényesítendő változásokat, és
 
@@ -21,3 +19,7 @@ b) a tapasztalatok alapján rendszeresen előfordulnak, vagy eseti jelleggel vá
 c) jogszabályon, magánjogi kötelmen alapulnak, vagy
 
 d) az eszközök hasznosításával függenek össze.
+
+[^44]: Az Ávr. 16. §-át megelőző jogszabályi hivatkozást a 497/2013. (XII. 29.) Korm. rendelet 63. § (1) bekezdés 6. pontja hatályon kívül helyezte.
+[^45]: Az Ávr. 16. § (1) bekezdés nyitó szövegrésze a 497/2013. (XII. 29.) Korm. rendelet 62. § (1) bekezdés 8. pontja szerint módosított szöveg.
+[^46]: Az Ávr. 16. § (1) bekezdés b) pontja a 497/2013. (XII. 29.) Korm. rendelet 62. § (1) bekezdés 9. pontja szerint módosított szöveg.

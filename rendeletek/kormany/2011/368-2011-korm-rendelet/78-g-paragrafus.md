@@ -1,0 +1,3 @@
+78/G. §[^177] Támogatási előleg igénybevétele esetén – az általános forgalmi adó és az Európai Unió strukturális alapjainak és Kohéziós Alapjának támogatásával megvalósuló tevékenység keretében nyújtott támogatási előleg kivételével – a költségvetési támogatás fennmaradó része csak akkor folyósítható, ha a kedvezményezett a saját forrás, valamint egyéb források adott évi ütemezés szerinti összegét igazoltan felhasználta, a támogatási előleggel elszámolt, és az elszámolás elfogadásáról a támogató írásban értesítette.
+
+[^177]: Az Ávr. 78/G. §-át a 497/2013. (XII. 29.) Korm. rendelet 36. §-a iktatta be.

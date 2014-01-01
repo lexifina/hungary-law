@@ -1,28 +1,18 @@
-## [Az Áht. 52. § (1) és (2) bekezdéséhez]
+## [Az Áht. 52. § (2) bekezdéséhez][^169]
 
-78. § (1) A költségvetési támogatás Áht. 52. § (1) és (2) bekezdése szerinti módjára vonatkozó döntés meghozatala során figyelemmel kell lenni a költségvetési támogatás céljára, a támogatott tevékenység megvalósítási időszakának hosszára, a kedvezményezett saját forrásának mértékére.
+78. §[^170] (1) A költségvetési támogatás folyósítására a beszámoló, vagy – ha e rendelet szerint előírásra került – a részbeszámoló elfogadását követően kerülhet sor. A költségvetési támogatás a beszámoló vagy a részbeszámoló elfogadását megelőzően is folyósítható (a továbbiakban: támogatási előleg).
 
-(2)[^102] Előfinanszírozás esetén az egyösszegű kifizetésre a záró beszámoló elfogadása előtt kerül sor.
+(2) A költségvetési támogatás Áht. 52. § (2) bekezdése szerinti módjára vonatkozó döntés meghozatala során figyelemmel kell lenni a költségvetési támogatás céljára, a támogatott tevékenység megvalósítási időszakának hosszára, a kedvezményezett saját forrásának mértékére.
 
-(3) Utófinanszírozás esetén az egyösszegű kifizetésre a záró beszámoló elfogadását követően kerülhet sor.
+(3) A 73. § (1) bekezdés d) pontja szerinti költségterv szerint részletekben kell folyósítani azt a támogatási előleget, amely az ötmillió forintot meghaladja. E rendelkezést nem kell alkalmazni
 
-(4)[^103] Részletekben történő kifizetés esetén előfinanszírozásnál a támogatói okiratban, támogatási szerződésben meghatározott finanszírozási időszak költségeit a támogató megelőlegezi. A támogató a megelőlegezés feltételéül szabhatja, hogy a már lezárult finanszírozási időszakoknak a támogatói okiratban, támogatási szerződésben meghatározott köréről – az azokban meghatározott időpontokban – a kedvezményezett beszámolót készítsen.
+a) az olyan költségvetési támogatásokra, melyek esetén a támogatott tevékenység időtartama a hatvan napot nem haladja meg,
 
-(5)[^104] Részletekben történő kifizetés esetén utófinanszírozásnál a költségvetési támogatás részleteinek átutalására – az első finanszírozási időszak kivételével – a támogatói okiratban, támogatási szerződésben meghatározott finanszírozási időszakot lezáró beszámoló elfogadását követően kerülhet sor.
+b) a kincstári körbe tartozó kedvezményezettek részére nyújtott költségvetési támogatásokra, valamint a Kincstárnál vezetett fizetési számlára folyósított költségvetési támogatásokra,
 
-(5a)[^105] Kizárólag a (4) bekezdés szerint részletekben lehet az olyan előfinanszírozással biztosított költségvetési támogatást kifizetni, amelynek összege meghaladja a három millió forintot. E rendelkezést nem kell alkalmazni
+c) a központi költségvetésről szóló törvény Áht. 14. § (3) bekezdése szerinti fejezetéből biztosított költségvetési támogatásokra.
 
-a)[^106] az egyházi jogi személyek részére nyújtott költségvetési támogatásokra,
-
-b) az európai uniós forrásból finanszírozott költségvetési támogatásokra,
-
-c)[^107] a központi költségvetésről szóló törvény Áht. 14. § (3) bekezdése szerinti fejezetéből biztosított költségvetési támogatásokra és az önkormányzati tűzoltóságok normatív állami támogatására,
-
-d)[^108] az olyan költségvetési támogatásokra, amelyek esetén a támogatott tevékenység időtartama nem éri el a hatvan napot, és
-
-e)[^109] a kincstári körbe tartozó kedvezményezettek részére nyújtott költségvetési támogatásokra, valamint a Kincstárnál vezetett fizetési számlára folyósított költségvetési támogatásokra.
-
-(6) A költségvetési támogatás folyósítása
+(4) A költségvetési támogatás folyósítása
 
 a) a kedvezményezett fizetési számlájára, vagy
 
@@ -34,25 +24,13 @@ bb) a támogatói okiratban, támogatási szerződésben megjelölt személy ál
 
 történő kifizetéssel lehetséges.
 
-(7) A (6) bekezdés b) pont bb) alpontja szerinti esetben a kifizetés feltétele, hogy a kedvezményezett a számla költségvetési támogatáson felüli összege kifizetését igazolja.
+(5) A (4) bekezdés b) pont bb) alpontja szerinti esetben a kifizetés feltétele, hogy a kedvezményezett a számla költségvetési támogatáson felüli összege kifizetését igazolja.
 
-(8) A költségvetési támogatásnak az államháztartás központi alrendszerébe tartozó költségvetési szerv kedvezményezett részére történő rendelkezésre bocsátása e rendelet szabályai szerint előirányzat-átcsoportosítással vagy a fizetési számlájára történő kifizetéssel történik.
+(6) A költségvetési támogatásnak az államháztartás központi alrendszerébe tartozó költségvetési szerv kedvezményezett részére történő rendelkezésre bocsátása előirányzat-átcsoportosítással vagy a 34. § (2) bekezdése szerint átutalással történik.
 
-(9)[^110] Indokolt esetben az utófinanszírozással biztosított költségvetési támogatás esetén támogatási előleg nyújtható, ha ezt a támogatói okirat vagy a támogatási szerződés tartalmazza. Az előleg folyósítására több részletben, a támogatói okiratban, támogatási szerződésben meghatározott ütemezéssel is sor kerülhet.
+(7) Fel kell függeszteni a költségvetési támogatás folyósítását, ha azt jogszabály előírja, vagy a támogatói okirat kiadását, támogatási szerződés megkötését követően a kedvezményezett olyan nyilatkozatot tesz, vagy a támogatás folyósítója olyan körülményről szerez tudomást, amely a költségvetési támogatás visszavonását, a támogatási szerződés felmondását vagy az attól történő elállást teheti szükségessé. A felfüggesztésről és annak okáról a kedvezményezettet haladéktalanul tájékoztatni kell.
 
-(9a)[^111] A három millió forintot meghaladó összegű utófinanszírozással biztosított költségvetési támogatások esetén előleg kifizetésére egy vagy több részletben is sor kerülhet. Ha az előleg kifizetésére több részletben kerül sor, a kifizetés feltétele az előző előleg felhasználásának igazolása vagy a 84. § (4a) bekezdése szerint visszafizetési kötelezettség teljesítése. E rendelkezést nem kell alkalmazni az (5a) bekezdés a)–e) pontjában nevesített költségvetési támogatásokra.
+(8) A központi költségvetésről szóló törvény Áht. 14. § (3) bekezdése szerinti fejezetéből biztosított költségvetési támogatások tekintetében az (1) bekezdést nem kell alkalmazni, a (2) és (4)–(7) bekezdést akkor kell alkalmazni, ha a 140–142. § és a 144. § eltérően nem rendelkezik.
 
-(10) Fel kell függeszteni a költségvetési támogatás folyósítását abban az esetben, ha azt jogszabály előírja vagy a támogatói okirat kiadását, támogatási szerződés megkötését követően a kedvezményezett olyan nyilatkozatot tesz, vagy a támogatás folyósítója olyan körülményről szerez tudomást, amely a költségvetési támogatás visszavonását, a támogatási szerződés felmondását vagy az attól történő elállást teheti szükségessé. A felfüggesztésről és annak okáról a kedvezményezettet soron kívül tájékoztatni kell.
-
-(11) A központi költségvetésről szóló törvény Áht. 14. § (3) bekezdése szerinti fejezetéből biztosított költségvetési támogatásokra e § rendelkezéseit akkor kell alkalmazni, ha a 140–142. és 144. § másként nem rendelkezik.
-
-[^102]: Az Ávr. 78. § (2) bekezdése az 56/2012. (III. 30.) Korm. rendelet 27. §-a szerint módosított szöveg.
-[^103]: Az Ávr. 78. § (4) bekezdése a 413/2012. (XII. 29.) Korm. rendelet 39. § 24. pontja szerint módosított szöveg.
-[^104]: Az Ávr. 78. § (5) bekezdése a 413/2012. (XII. 29.) Korm. rendelet 39. § 25. pontja, a 307/2013. (VIII. 14.) Korm. rendelet 29. § 2. pontja szerint módosított szöveg.
-[^105]: Az Ávr. 78. § (5a) bekezdését a 413/2012. (XII. 29.) Korm. rendelet 16. § (1) bekezdése iktatta be, szövege a 74/2013. (III. 11.) Korm. rendelet 28. § (1) bekezdésével megállapított szöveg.
-[^106]: A 78. § (5a) bekezdés a) pontja a 297/2013. (VII. 29.) Korm. rendelet 74. §-a szerint módosított szöveg.
-[^107]: Az Ávr. 78. § (5a) bekezdés c) pontja a 307/2013. (VIII. 14.) Korm. rendelet 29. § 3. pontja szerint módosított szöveg.
-[^108]: Az Ávr. 78. § (5a) bekezdés d) pontja a 307/2013. (VIII. 14.) Korm. rendelet 29. § 4. pontja szerint módosított szöveg.
-[^109]: Az Ávr. 78. § (5a) bekezdés e) pontját a 307/2013. (VIII. 14.) Korm. rendelet 8. §-a iktatta be.
-[^110]: Az Ávr. 78. § (9) bekezdése a 413/2012. (XII. 29.) Korm. rendelet 16. § (2) bekezdésével megállapított, a 307/2013. (VIII. 14.) Korm. rendelet 29. § 5. pontja szerint módosított szöveg.
-[^111]: Az Ávr. 78. § (9a) bekezdését a 413/2012. (XII. 29.) Korm. rendelet 16. § (3) bekezdése iktatta be, szövege a 74/2013. (III. 11.) Korm. rendelet 28. § (2) bekezdésével megállapított, a 307/2013. (VIII. 14.) Korm. rendelet 29. § 6. pontja szerint módosított szöveg.
+[^169]: Az Ávr. 78. §-át megelőző jogszabályi hivatkozás a 497/2013. (XII. 29.) Korm. rendelet 63. § (3) bekezdés 9. pontja szerint módosított szöveg.
+[^170]: Az Ávr. 78. §-a a 497/2013. (XII. 29.) Korm. rendelet 36. §-ával megállapított szöveg.

@@ -1,7 +1,8 @@
-## [Az Áht. 24. § (2) bekezdéséhez]
+## [Az Áht. 24. § (3) bekezdéséhez][^62]
 
 27. § (1) A jegyző a költségvetési rendelettervezetet a költségvetési szervek vezetőivel egyezteti, annak eredményét írásban rögzíti, majd a rendelettervezetet és az egyeztetés eredményét a polgármester a szervezeti és működési szabályzatban foglaltak szerint a képviselő-testület bizottságai elé terjeszti.
 
-(2)[^46] A polgármester a képviselő-testület elé terjeszti a bizottságok által megtárgyalt rendelettervezetet, amelyhez csatolja legalább a pénzügyi bizottság írásos véleményét.
+(2)[^63] A polgármester a képviselő-testület elé terjeszti a bizottságok által megtárgyalt rendelettervezetet, amelyhez csatolja legalább a pénzügyi bizottság írásos véleményét.
 
-[^46]: Az Ávr. 27. § (2) bekezdése a 413/2012. (XII. 29.) Korm. rendelet 40. § (2) bekezdés 5. pontja szerint módosított szöveg.
+[^62]: Az Ávr. 27. §-át megelőző jogszabályi hivatkozás a 497/2013. (XII. 29.) Korm. rendelet 62. § (1) bekezdés 15. pontja szerint módosított szöveg.
+[^63]: Az Ávr. 27. § (2) bekezdése a 413/2012. (XII. 29.) Korm. rendelet 40. § (2) bekezdés 5. pontja szerint módosított szöveg.

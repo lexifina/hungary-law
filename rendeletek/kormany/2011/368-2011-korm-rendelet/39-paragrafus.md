@@ -1,5 +1,3 @@
-39. §[^59] (1) Ha a 101. § (4) bekezdése szerinti lemondás az ellátott feladat átadásával függ össze és a feladat átvevője a központi költségvetésről szóló törvény alapján támogatás igénybevételére jogosult, az érintett összeget a központi költségvetésről szóló törvény Áht. 14. § (3) bekezdése szerinti fejezetének előirányzatairól a támogatás további folyósítását biztosító előirányzatra kell átcsoportosítani a központi költségvetésről szóló törvényben meghatározott igényjogosultsági szabályok szerint.
+39. §[^84]
 
-(2) Ha a központi költségvetésről szóló törvény alapján támogatás igénybevételére jogosult év közben az ellátott feladatot annak a helyi önkormányzatnak, helyi nemzetiségi önkormányzatnak átadja, amelynek az kötelező feladat-ellátási körébe tartozik, az érintett előirányzatot a támogatást addig folyósító előirányzatról a központi költségvetésről szóló törvény Áht. 14. § (3) bekezdése szerinti fejezetének előirányzataira át kell csoportosítani a központi költségvetésről szóló törvényben meghatározott igényjogosultsági szabályok szerint.
-
-[^59]: Az Ávr. 39. § a 413/2012. (XII. 29.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^84]: Az Ávr. 39. §-át a 497/2013. (XII. 29.) Korm. rendelet 63. § (1) bekezdés 8. pontja hatályon kívül helyezte.

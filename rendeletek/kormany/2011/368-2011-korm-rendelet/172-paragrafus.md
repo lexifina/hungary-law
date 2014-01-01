@@ -1,3 +1,3 @@
-172. §[^257]
+172. §[^399]
 
-[^257]: Az Ávr. 172. §-t az 56/2012. (III. 30.) Korm. rendelet 29. § (1) bekezdése hatályon kívül helyezte.
+[^399]: Az Ávr. 172. §-t az 56/2012. (III. 30.) Korm. rendelet 29. § (1) bekezdése hatályon kívül helyezte.

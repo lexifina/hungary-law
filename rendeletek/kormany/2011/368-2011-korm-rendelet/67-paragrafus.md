@@ -1,4 +1,4 @@
-67. § (1) A pályázó által benyújtott pályázatnak – szükség szerint a pályázati kiírásban közölt formában elkészítve – tartalmaznia kell
+67. § (1)[^138] A benyújtott pályázatnak – szükség szerint a pályázati kiírásban közölt formában elkészítve – tartalmaznia kell
 
 a) a pályázó azonosító adatait, így különösen cégnevét (nevét), székhelyét (címét),
 
@@ -14,14 +14,20 @@ f) az igényelt költségvetési támogatás általános forgalmi adót is tarta
 
 g) a megvalósítás és a finanszírozás tervezett időbeni ütemezését,
 
-h) a rendelkezésre álló saját és egyéb forrás összegét, ezen belül
+h)[^139] a rendelkezésre álló saját és egyéb forrás összegét, ezen belül
 
-ha) az államháztartás központi alrendszeréből igényelt, kapott egyéb költségvetési támogatásból, valamint külföldi forrásokból származó összeget,
+ha) az államháztartás központi alrendszeréből igényelt, kapott egyéb költségvetési támogatásból, valamint külföldi forrásokból származó összeget, és
 
-hb) az állam, az Országgyűlés, a Kormány, a miniszter, illetve költségvetési szerv által alapított vagy tulajdonolt alapítványtól, közalapítványtól, köztestülettől, nonprofit vagy más gazdasági társaságtól igényelt, kapott támogatás összeget, és
+hb) az államháztartáson belüli szervezettől, a kormányzati szektorba sorolt egyéb szervezettől, ezen szervezetek tulajdonosi joggyakorlása alá tartozó gazdálkodó szervezettől vagy alapítói joggyakorlása alá tartozó alapítványtól, közalapítványtól igényelt és kapott egyéb támogatás összegét, és
 
 i) a pályázati kiírásban előírt egyéb adatokat.
+
+(1a)[^140] A pályázat befogadását jogszabály vagy a pályázati kiírás a 72. § (2) és (3) bekezdése szerinti nyilatkozatok, dokumentumok benyújtásától teheti függővé.
 
 (2) Ha a benyújtott pályázat nem felel meg a pályázati kiírásban meghatározott formai követelményeknek, és a pályázati kiírás lehetőséget nyújt a hiánypótlásra, megfelelő határidő kitűzésével – a hibák, hiányosságok egyidejű megjelölése mellett – fel kell szólítani a pályázót pályázatának kijavítására.
 
 (3) Ha a pályázó a hiánypótlást hibásan, hiányosan nyújtja be, a hiányosságokat nem pótolja a megadott határidőn belül, vagy a pályázati kiírás nem ad lehetőséget hiánypótlásra, a hibás, hiányos pályázat további vizsgálat nélkül elutasítható.
+
+[^138]: Az Ávr. 67. § (1) bekezdés nyitó szövegrésze a 497/2013. (XII. 29.) Korm. rendelet 63. § (3) bekezdés 5. pontja szerint módosított szöveg.
+[^139]: Az Ávr. 67. § (1) bekezdés h) pontja a 497/2013. (XII. 29.) Korm. rendelet 27. § (1) bekezdésével megállapított szöveg.
+[^140]: Az Ávr. 67. § (1a) bekezdését a 497/2013. (XII. 29.) Korm. rendelet 27. § (2) bekezdése iktatta be.

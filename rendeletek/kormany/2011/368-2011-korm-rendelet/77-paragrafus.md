@@ -1,29 +1,30 @@
 ## [Az Áht. 50. § (5) bekezdéséhez]
 
-77. § (1) A támogató az Áht. 50. § (5) bekezdése szerinti biztosíték kikötésétől
+77. § (1)[^163] A támogató az Áht. 50. § (5) bekezdése szerinti biztosíték kikötésétől
 
-a) a természetes személy kedvezményezett részére utófinanszírozással,
+a) a beszámoló elfogadását követően,
 
-b)[^97] az előleg igénybevételére nem jogosult, utófinanszírozással,
+b) az állam 100%-os tulajdonában lévő gazdasági társaság kedvezményezett részére,
 
-c)[^98]
+c) a támogató irányítása alá tartozó költségvetési szerv kedvezményezett részére
 
-d) a támogató irányítása alá tartozó költségvetési szerv részére
+folyósított költségvetési támogatás esetén eltekinthet.
 
-biztosított költségvetési támogatás esetén eltekinthet.
+(1a)[^164] A 4/2011. (I. 28.) Korm. rendelet 57/A. § (1) bekezdés b) pontja szerinti esetben a közbeszerzési eljárás során kiválasztott szállító a közbeszerzési eljárás alapján megkötött szerződés elszámolható összegének 10%-a erejéig mentesül a biztosítéknyújtás kötelezettsége alól.
 
-(1a)[^99] A 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alapból, az Európai Szociális Alapból és a Kohéziós Alapból származó támogatások felhasználásának rendjéről szóló 4/2011. (I. 28.) Korm. rendelet [a továbbiakban: 4/2011. (I. 28.) Korm. rendelet] 57. § (1b) bekezdésében foglalt szállítói finanszírozás alkalmazása esetén a közbeszerzési eljárás során kiválasztott szállító a közbeszerzési eljárás alapján megkötött szerződés elszámolható összegének 10%-a erejéig mentesül a biztosítéknyújtás kötelezettsége alól.
+(1b)[^165] Az (1) bekezdés b) pontja szerinti esetben a biztosíték kikötésétől akkor lehet eltekinteni, ha az nem minősül állami támogatásnak, vagy arra a 37/2011. Korm. rendelettel összhangban kerül sor.
 
-(2)[^100] Biztosíték lehet a kedvezményezett valamennyi – jogszabály alapján beszedési megbízással megterhelhető – fizetési számlájára vonatkozó, a támogató javára szóló beszedési megbízás benyújtására vonatkozó felhatalmazó nyilatkozata a pénzügyi fedezethiány miatt nem teljesíthető fizetési megbízás esetére a követelés legfeljebb harmincöt napra való sorba állítására vonatkozó rendelkezéssel együtt, vagy bármely olyan eszköz – így különösen zálogjog kikötése, bankgarancia, óvadék –, amely biztosítja, hogy a támogató a költségvetési támogatás visszafizetésére vonatkozó igényét maradéktalanul, a lehető legrövidebb időn belül eredményesen tudja érvényesíteni.
+(2)[^166] Biztosíték lehet a kedvezményezett valamennyi – jogszabály alapján beszedési megbízással megterhelhető – fizetési számlájára vonatkozó, a támogató javára szóló beszedési megbízás benyújtására vonatkozó felhatalmazó nyilatkozata a pénzügyi fedezethiány miatt nem teljesíthető fizetési megbízás esetére a követelés legfeljebb harmincöt napra való sorba állítására vonatkozó rendelkezéssel együtt, vagy bármely olyan eszköz – így különösen zálogjog kikötése, bankgarancia, óvadék –, amely biztosítja, hogy a támogató a költségvetési támogatás visszafizetésére vonatkozó igényét maradéktalanul, a lehető legrövidebb időn belül eredményesen tudja érvényesíteni.
 
-(3)[^101] A helyi önkormányzatoknak, helyi nemzetiségi önkormányzatoknak a központi költségvetésről szóló törvény Áht. 14. § (3) bekezdése szerinti fejezetéből biztosított költségvetési támogatások esetén az Áht. 83. § (5) bekezdése alapján adott felhatalmazáson felül más biztosítékot nem lehet előírni.
+(3)[^167] A helyi önkormányzatoknak a központi költségvetésről szóló törvény Áht. 14. § (3) bekezdése szerinti fejezetéből biztosított költségvetési támogatások esetén az Áht. 83. § (5) bekezdése alapján adott felhatalmazáson felül más biztosítékot nem lehet előírni.
 
-(4) A kikötött biztosíték rendelkezésre állását legkésőbb a költségvetési támogatás első folyósítását megelőzően kell biztosítani. A biztosítéknak a támogatási jogviszony alapján fennálló kötelezettségek megszűnéséig rendelkezésre kell állniuk.
+(4)[^168] A kikötött biztosíték rendelkezésre állását legkésőbb a költségvetési támogatás folyósítását megelőzően kell biztosítani. A biztosítéknak a támogatási jogviszony alapján fennálló kötelezettségek megszűnéséig rendelkezésre kell állniuk.
 
 (5) Más fejezetbe tartozó központi költségvetési szerv kedvezményezett esetén a kedvezményezett irányító szervének a 41. § (3) bekezdése szerinti nyilatkozatát a visszafizetés biztosítékának kell tekinteni.
 
-[^97]: Az Ávr. 77. § (1) bekezdés b) pontja a 413/2012. (XII. 29.) Korm. rendelet 39. § 22. pontja szerint módosított szöveg.
-[^98]: Az Ávr. 77. § (1) bekezdés c) pontját a 98/2012. (V. 15.) Korm. rendelet 6. § (2) bekezdése hatályon kívül helyezte, alkalmazására lásd e hatályon kívül helyező rendelet 4. § (2) bekezdését.
-[^99]: Az Ávr. 77. § (1a) bekezdését a 3/2013. (I. 10.) Korm. rendelet 1. §-a iktatta be.
-[^100]: Az Ávr. 77. § (2) bekezdése a 413/2012. (XII. 29.) Korm. rendelet 39. § 23. pontja szerint módosított szöveg.
-[^101]: Az Ávr. 77. § (3) bekezdése a 413/2012. (XII. 29.) Korm. rendelet 40. § (2) bekezdés 10. pontja szerint módosított szöveg.
+[^163]: Az Ávr. 77. § (1) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 35. § (1) bekezdésével megállapított szöveg.
+[^164]: Az Ávr. 77. § (1a) bekezdését a 3/2013. (I. 10.) Korm. rendelet 1. §-a iktatta be, szövege a 497/2013. (XII. 29.) Korm. rendelet 62. § (1) bekezdés 29. pontja szerint módosított szöveg.
+[^165]: Az Ávr. 77. § (1b) bekezdését a 497/2013. (XII. 29.) Korm. rendelet 35. § (2) bekezdése iktatta be.
+[^166]: Az Ávr. 77. § (2) bekezdése a 413/2012. (XII. 29.) Korm. rendelet 39. § 23. pontja szerint módosított szöveg.
+[^167]: Az Ávr. 77. § (3) bekezdése a 413/2012. (XII. 29.) Korm. rendelet 40. § (2) bekezdés 10. pontja, a 497/2013. (XII. 29.) Korm. rendelet 63. § (3) bekezdés 7. pontja szerint módosított szöveg.
+[^168]: Az Ávr. 77. § (4) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 63. § (3) bekezdés 8. pontja szerint módosított szöveg.

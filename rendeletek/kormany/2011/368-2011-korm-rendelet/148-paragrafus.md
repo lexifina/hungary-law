@@ -4,8 +4,22 @@
 
 (2) A házipénztárból felvett készpénzelőleggel a készpénzt felvevőnek el kell számolnia a költségvetési szerv belső szabályzatában meghatározottak szerint.
 
-(3) Az államháztartás központi alrendszerébe tartozó költségvetési szerv a következő készpénzes kifizetésekre igényelheti készpénz felvételét a Kincstártól:
+(3)[^349] Az államháztartás központi alrendszerébe tartozó költségvetési szerv
 
-a) a készlet- és kis értékű tárgyi eszköz beszerzésekre, a kiküldetési, reprezentációs kiadásokra, továbbá egyes kisösszegű szolgáltatási kiadások készpénzben történő teljesítésére a költségvetési szerv pénzkezelési szabályzatában meghatározott házipénztári keret nagyságára is figyelemmel, és
+a) a közfoglalkoztatásban résztvevők bére,
 
-b) a társadalom- és szociálpolitikai juttatások, az ellátottak pénzbeli juttatásainak készpénzben kifizetendő összegére.
+b) az egységes rovatrend és K41. Társadalombiztosítási ellátások és K47. Intézményi ellátottak pénzbeli juttatásai rovaton elszámolandó kiadások,
+
+c) az egységes rovatrend K31. Készletbeszerzés és K34. Kiküldetések, reklám- és propagandakiadások rovatain elszámolandó kiadások,
+
+d) az egységes rovatrend K61. Immateriális javak beszerzése, létesítése, K63. Informatikai eszközök beszerzése, létesítése és K64. Egyéb tárgyi eszközök beszerzése, létesítése rovatain elszámolandó, kisértékű immateriális javak, tárgyi eszközök beszerzésére irányuló kiadások,
+
+e) az egységes rovatrend K33. Szolgáltatási kiadások és K123. Egyéb külső személyi juttatások rovatain elszámolandó, százezer forint értéket el nem érő kiadások,
+
+f) a c)–e) pont szerinti kiadásokhoz kapcsolódóan az egységes rovatrend K351. Működési célú előzetesen felszámított általános forgalmi adó és a K67. Beruházási célú előzetesen felszámított általános forgalmi adó rovatain elszámolandó kiadások, és
+
+g) az a)–f) pont szerinti kiadásokra a foglalkoztatottaknak elszámolási kötelezettséggel adott előlegek
+
+készpénzben történő teljesítésére igényelheti – a költségvetési szerv pénzkezelési szabályzatában meghatározott házipénztári keret nagyságára is figyelemmel – készpénz felvételét a Kincstártól, és teljesíthet készpénzben kifizetést.
+
+[^349]: Az Ávr. 148. § (3) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 49. §-ával megállapított szöveg.
