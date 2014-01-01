@@ -1,8 +1,8 @@
-13. §[^25] (1) E rendelet 10/A. §-a a versenyképtelen szénbányák bezárását elősegítő állami támogatásról szóló, 2010. december 10-i 2010/787/EU tanácsi határozat 7. cikkének végrehajtásához szükséges rendelkezéseket állapítja meg.
+13. §[^27] (1) E rendelet 10/A. §-a a versenyképtelen szénbányák bezárását elősegítő állami támogatásról szóló, 2010. december 10-i 2010/787/EU tanácsi határozat 7. cikkének végrehajtásához szükséges rendelkezéseket állapítja meg.
 
 (2) E rendelet a versenyképtelen szénbányák bezárását elősegítő állami támogatásról szóló, 2010. december 10-i 2010/787/EU tanácsi határozat hatálya alá tartozó támogatást tartalmaz.
 
-Melléklet a 278/2007. (X. 20.) Korm. rendelethez[^26]
+Melléklet a 278/2007. (X. 20.) Korm. rendelethez[^28]
 
 1. Az üzembezárási támogatás tárgyévenként megállapítható maximális összege
 
@@ -36,5 +36,5 @@ Melléklet a 278/2007. (X. 20.) Korm. rendelethez[^26]
 
 |  | 2. | 2011–2018. összesen | 19 596 755 605 |
 
-[^25]: A 13. § a 211/2011. (X. 12.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^26]: A melléklet a 13/2013. (I. 25.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^27]: A 13. § a 211/2011. (X. 12.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^28]: A melléklet a 13/2013. (I. 25.) Korm. rendelet 6. §-ával megállapított szöveg.
