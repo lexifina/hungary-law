@@ -4,4 +4,4 @@
 
 (3) A 8. § (3) bekezdését akkor is alkalmazni kell, ha a személygépkocsit 2004. február 1. napja előtt helyezték forgalomba, de 2004. február 1. napját követően alakították át. Ha az átalakítás révén különbözeti vámteher is keletkezik, a 8. § (3) bekezdésében foglaltakat akkor is alkalmazni kell azzal, hogy a különbözeti vámteher megállapítása során az e törvényben megállapított regisztrációs adót is figyelembe kell venni.
 
-(4) A 13. § (6) bekezdése alapján az adó visszafizetése kizárólag olyan személygépkocsi átalakítása során történhet, amelynek a forgalomba helyezésekor az e törvény szerinti adót fizették meg.
+(4) A 14. § (1) bekezdése alapján az adó visszafizetése kizárólag olyan személygépkocsi átalakítása során történhet, amelynek a forgalomba helyezésekor az e törvény szerinti adót fizették meg.

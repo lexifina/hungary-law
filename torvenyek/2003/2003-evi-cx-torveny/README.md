@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-110-00-00
 | 2012-06-20 | 2012. évi LXIX. törvény | 2003-110-00-00.16 |
 | 2012-11-30 | 2012. évi CLXXVIII. törvény | 2003-110-00-00.17 |
 | 2013-01-01 | 2012. évi CLXXVIII. törvény | 2003-110-00-00.18 |
+| 2014-01-01 | 2013. évi CC. törvény | 2003-110-00-00.19 |

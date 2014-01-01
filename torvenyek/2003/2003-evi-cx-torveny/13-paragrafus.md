@@ -1,6 +1,6 @@
 ## Az adó visszaigénylése
 
-13. § (1) A forgalomba helyezés előtt megfizetett adó a vámhatósághoz benyújtott kérelemmel visszaigényelhető, ha
+13. § (1) A forgalomba helyezés előtt megfizetett adót az adóalany a vámhatósághoz benyújtott kérelemmel visszaigényelheti, ha
 
 a) a gépjárművet – forgalomba helyezés nélkül – végleges rendeltetéssel belföldről kiszállítják vagy kiviszik;
 
@@ -30,7 +30,7 @@ bd) a Közösség más tagállamában történő forgalomba helyezés esetén a 
 
 kell igazolni.
 
-(3) Az adó visszaigénylésének feltétele az is, hogy a gépjármű adóigazolását legkésőbb a kérelem benyújtásával egyidejűleg a vámhatóságnak visszaszolgáltassák.
+(3)
 
 (4) Abban az esetben, ha az (1) bekezdésben meghatározottakhoz képest a gépjárművet utóbb mégis forgalomba helyezik, újból adókötelezettség keletkezik.
 
