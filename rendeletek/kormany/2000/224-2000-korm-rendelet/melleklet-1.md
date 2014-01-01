@@ -1,6 +1,6 @@
-## 27. §[^103] A lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény 33. § (1) bekezdése szerinti vallási közösség a 2012. és 2013. üzleti évi beszámolókészítési és könyvvezetési kötelezettségének e rendelet szerint is eleget tehet.
+## 29. §[^110] A 2. § (2) bekezdés és 3. § (1) bekezdés az európai területi együttműködési csoportosulásról szóló 2006. július 5-i 1082/2006/EK európai parlamenti és tanácsi rendelet 16. cikk (1) bekezdésének végrehajtásához szükséges rendelkezéseket állapít meg.
 
-1. számú melléklet a 224/2000. (XII. 19.) Korm. rendelethez[^104]
+1. számú melléklet a 224/2000. (XII. 19.) Korm. rendelethez[^111]
 
-[^103]: A 27. §-t a 297/2013. (VII. 29.) Korm. rendelet 14. §-a iktatta be.
-[^104]: Az 1. számú melléklet a 342/2011. (XII. 29.) Korm. rendelet 38. § (1) bekezdése szerint módosított szöveg.
+[^110]: A 29. §-t az 518/2013. (XII. 30.) Korm. rendelet 18. §-a iktatta be.
+[^111]: Az 1. számú melléklet a 342/2011. (XII. 29.) Korm. rendelet 38. § (1) bekezdése szerint módosított szöveg.

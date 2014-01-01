@@ -1,6 +1,6 @@
-## 22. §[^98] E rendeletnek a 345/2010. (XII. 28.) Korm. rendelet 34. §-ával megállapított 2. §-a (1) bekezdésének c) és h) pontját, (2) bekezdését, 35. §-ával megállapított 3. §-a (1) bekezdését, 36. §-ával megállapított 15. §-a (8) bekezdését, 37. §-ával megállapított 17/B. §-a (2) bekezdését és 39. §-ával megállapított 3. számú mellékletét először a 2011. évben induló üzleti évről készített beszámolóra kell alkalmazni, azzal, hogy azok a 2010. évben induló üzleti évről készített beszámolóra is alkalmazhatók.
+## 22. §[^102] E rendeletnek a 345/2010. (XII. 28.) Korm. rendelet 34. §-ával megállapított 2. §-a (1) bekezdésének c) és h) pontját, (2) bekezdését, 35. §-ával megállapított 3. §-a (1) bekezdését, 36. §-ával megállapított 15. §-a (8) bekezdését, 37. §-ával megállapított 17/B. §-a (2) bekezdését és 39. §-ával megállapított 3. számú mellékletét először a 2011. évben induló üzleti évről készített beszámolóra kell alkalmazni, azzal, hogy azok a 2010. évben induló üzleti évről készített beszámolóra is alkalmazhatók.
 
-23. §[^99] (1) A számviteli törvényhez kapcsolódó, sajátos számviteli szabályokat tartalmazó kormányrendeletek módosításáról szóló 342/2011. (XII. 29.) Korm. rendelet
+23. §[^103] (1) A számviteli törvényhez kapcsolódó, sajátos számviteli szabályokat tartalmazó kormányrendeletek módosításáról szóló 342/2011. (XII. 29.) Korm. rendelet
 
 1. 24. §-ával megállapított 2. § (1) bekezdésének c), e) pontját,
 
@@ -38,5 +38,5 @@ először a 2012. évben induló üzleti évről készített beszámolóra kell 
 
 (3) A számviteli törvényhez kapcsolódó, sajátos számviteli szabályokat tartalmazó kormányrendeletek módosításáról szóló 342/2011. (XII. 29.) Korm. rendelet 39. § (2) bekezdésének 1. pontjával megállapított 19. § (1) bekezdését először a 2014. évben induló üzleti évről készített beszámolóra kell alkalmazni.
 
-[^98]: A 22. §-t a 345/2010. (XII. 28.) Korm. rendelet 38. §-a iktatta be.
-[^99]: A 23. §-t a 342/2011. (XII. 29.) Korm. rendelet 37. §-a iktatta be.
+[^102]: A 22. §-t a 345/2010. (XII. 28.) Korm. rendelet 38. §-a iktatta be.
+[^103]: A 23. §-t a 342/2011. (XII. 29.) Korm. rendelet 37. §-a iktatta be.

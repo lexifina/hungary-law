@@ -70,6 +70,6 @@
 
 ## F. Közszolgáltatási bevétel
 
-6. számú melléklet a 224/2000. (XII. 19.) Korm. rendelethez[^109]
+6. számú melléklet a 224/2000. (XII. 19.) Korm. rendelethez[^116]
 
-[^109]: A 6. számú mellékletet a 342/2011. (XII. 29.) Korm. rendelet 40. § 5. pontja hatályon kívül helyezte.
+[^116]: A 6. számú mellékletet a 342/2011. (XII. 29.) Korm. rendelet 40. § 5. pontja hatályon kívül helyezte.

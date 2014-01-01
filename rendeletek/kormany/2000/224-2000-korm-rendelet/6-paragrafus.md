@@ -1,8 +1,8 @@
-## 5. §[^20] Az egyéb szervezet, az alapszabályában (alapító okiratában) foglaltaknak megfelelően, a külön jogszabályokban meghatározott alaptevékenységet (tevékenység célja szerinti, lakásszövetkezeti, közhasznú, alapítványi célú tevékenység stb.), valamint ha jogszabály lehetővé teszi, vállalkozási tevékenységet is folytathat.
+## 5. §[^23] Az egyéb szervezet, az alapszabályában (alapító okiratában) foglaltaknak megfelelően, a külön jogszabályokban meghatározott alaptevékenységet (tevékenység célja szerinti, lakásszövetkezeti, közhasznú, alapítványi célú tevékenység stb.), valamint ha jogszabály lehetővé teszi, vállalkozási tevékenységet is folytathat.
 
 ## Beszámolási kötelezettség
 
-6. §[^21] (1) Az egyéb szervezet működéséről, vagyoni, pénzügyi és jövedelmi helyzetéről az üzleti év könyveinek lezárását követően az üzleti év utolsó napjával, illetve a megszűnés napjával, mint mérlegfordulónappal a Tv.-ben és e rendeletben meghatározottak szerint köteles beszámolót készíteni.
+6. §[^24] (1) Az egyéb szervezet működéséről, vagyoni, pénzügyi és jövedelmi helyzetéről az üzleti év könyveinek lezárását követően az üzleti év utolsó napjával, illetve a megszűnés napjával, mint mérlegfordulónappal a Tv.-ben és e rendeletben meghatározottak szerint köteles beszámolót készíteni.
 
 (2) Az egyéb szervezetnél az üzleti év azonos a naptári évvel, kivéve az év közben alakuló, illetve megszűnő egyéb szervezetnél. A mérleg fordulónapja – a megszűnést kivéve – december 31.
 
@@ -24,5 +24,5 @@ c) az egyéb szervezet választása alapján a Tv. szerinti éves beszámoló.
 
 (8) Az egyéb szervezet az egyszerűsített mérleg, a mérleg, továbbá az eredménylevezetés, az eredménykimutatás tételeit – amennyiben azt más jogszabály előírja – továbbtagolja, valamint saját igényei szerint továbbtagolhatja.
 
-[^20]: Az 5. § a 350/2004. (XII. 22.) Korm. rendelet 3. §-ával megállapított, a 342/2011. (XII. 29.) Korm. rendelet 39. § (1) bekezdés 2. pontja szerint módosított szöveg.
-[^21]: A 6. § a 342/2011. (XII. 29.) Korm. rendelet 27. §-ával megállapított szöveg.
+[^23]: Az 5. § a 350/2004. (XII. 22.) Korm. rendelet 3. §-ával megállapított, a 342/2011. (XII. 29.) Korm. rendelet 39. § (1) bekezdés 2. pontja szerint módosított szöveg.
+[^24]: A 6. § a 342/2011. (XII. 29.) Korm. rendelet 27. §-ával megállapított szöveg.
