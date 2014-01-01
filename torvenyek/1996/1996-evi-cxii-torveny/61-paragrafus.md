@@ -1,3 +1,0 @@
-## Kapcsolódó hitel
-
-61. §

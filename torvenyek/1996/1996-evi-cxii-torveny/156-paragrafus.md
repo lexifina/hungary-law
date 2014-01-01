@@ -1,1 +1,0 @@
-156. § Az MNB a pénzügyi intézmény részére a helyreállítási tervben foglaltak végrehajtása érdekében, meghatározott időre, de legfeljebb egy évre a 76. §-ban, valamint a 79–81. §-okban, valamint a 83–85. §-okban foglalt kötelezettségek teljesítése alól felmentést adhat. Ezt a felmentést az MNB egy alkalommal, legfeljebb hat hónapra meghosszabbíthatja.

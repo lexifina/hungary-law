@@ -1,1 +1,0 @@
-185/B. § Az Európai Unió tagállamaiban székhellyel rendelkező hitelintézettel szemben lefolytatott csődeljárás, felszámolás és végelszámolás joghatásai tekintetében a hitelintézet székhelye szerinti jog az irányadó. Az ilyen eljárásokban hozott határozatokat minden további eljárás nélkül el kell ismerni.

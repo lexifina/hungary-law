@@ -1,1 +1,0 @@
-34. § A külföldi székhelyű hitelintézet bankképviseletének Magyarországon történő létesítését az MNB-nek be kell jelenteni. Az MNB engedélye szükséges magyarországi székhelyű hitelintézet bankképviseletének külföldön történő létesítéséhez és a bankképviselet működésének megkezdéséhez.

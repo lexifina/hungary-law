@@ -1,1 +1,0 @@
-143. § A pénzügyi intézmény és magyarországi fióktelepe, a pénzforgalmi intézmény és magyarországi fióktelepe, az elektronikuspénz-kibocsátó intézmény és magyarországi fióktelepe és a kiegészítő pénzügyi szolgáltatást végző egyéb jogi személy – jogszabályban meghatározott tartalommal, módon és formában, rendszeres időközönként – az MNB-nek adatszolgáltatást teljesít.

@@ -1,1 +1,0 @@
-234/G. § A kölcsönök kamatai és a teljes hiteldíj mutató korlátozása, valamint az átlátható árazás biztosítása érdekében az egyes pénzügyi tárgyú törvények módosításáról szóló 2011. évi CXLVIII. törvény 3. §-ával megállapított 199. §-t a hatálybalépését követően megkötött szerződésekre kell alkalmazni.

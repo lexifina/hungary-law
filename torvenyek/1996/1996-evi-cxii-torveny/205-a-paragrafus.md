@@ -1,1 +1,0 @@
-205/A. § Tilos a betétbiztosításra, az Alapra, illetőleg az önkéntes betét- és intézményvédelmi alapra vonatkozó információt a betétállomány növelése céljából, így különösen reklámtevékenységre felhasználni.

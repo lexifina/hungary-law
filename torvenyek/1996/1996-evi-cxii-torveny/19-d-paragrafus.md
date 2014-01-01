@@ -1,1 +1,0 @@
-19/D. § Az MNB az engedélyt meghatározott időre, feltételhez kötötten, valamint korlátozott tevékenységi körrel, területi korlátozással, a szolgáltatási tevékenységen belül pedig üzletági vagy termékkorlátozással is megadhatja.

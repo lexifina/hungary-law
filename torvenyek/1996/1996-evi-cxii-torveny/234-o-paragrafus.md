@@ -1,5 +1,0 @@
-234/O. § Az egyes pénzügyi tárgyú törvények módosításáról szóló 2013. évi XCVIII. törvény (a továbbiakban: Módtv2.) 116. § (2) bekezdésében meghatározott időpontban forgatható utalvány kibocsátására irányuló tevékenységet végző utalványkibocsátó
-
-a) a Módtv2.-vel megállapított 6/G. § (1) bekezdés szerinti bejelentési kötelezettségének a 6/G. § (2) bekezdés a)–c) pontja szerinti adattartalom, valamint a bejelentés napján az utalványkibocsátóval szembeni pénzkövetelésként fennálló forgatható utalvány állomány hazai hivatalos pénznemben kifejezett összesített névértékének közlésével a Módtv2. 116. § (2) bekezdésében meghatározott időponttól számított 15 napon belül köteles eleget tenni,
-
-b) a Módtv2.-vel megállapított 6/F. § (2) bekezdésében, 87/R. §-ában és 220/A. §-ában foglalt követelményeknek a Módtv2. 116. § (2) bekezdésében meghatározott időponttól számított három hónapon belül köteles megfelelni, és a 87/R. § (4) bekezdésében foglalt kötelezettség teljesülésére vonatkozó igazolást eddig az időpontig az MNB-nek megküldeni.

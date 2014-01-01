@@ -1,1 +1,0 @@
-78/A. § Értékpapírosítást kezdeményezőtől vagy szponzortól eltérő hitelintézet kizárólag a külön jogszabályban meghatározottak szerinti nettó gazdasági érdekeltség megtartása esetén vállalhat értékpapírosítási pozícióval kapcsolatos hitelkockázatot.

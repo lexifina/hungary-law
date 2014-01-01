@@ -1,1 +1,0 @@
-234/Q. § 2013. december 31-ig már megképzett általános kockázati céltartalékot vagy annak egy részét – ha az veszteség fedezésére nem kerül felhasználásra – a hitelintézet 2013. december 31-i fordulónappal átvezetheti az eredménytartalékba.

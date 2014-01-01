@@ -1,1 +1,0 @@
-144/A. § A magyarországi bejegyzésű hitelintézet köteles bejelenteni, ha anyavállalata vegyes tevékenységű holding társaság, illetőleg vegyes pénzügyi holding társaság lett, vagy ezen viszony módosul, illetőleg megszűnik.

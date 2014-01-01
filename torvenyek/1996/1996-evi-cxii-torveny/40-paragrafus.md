@@ -1,1 +1,0 @@
-40. § Az előírt engedély iránti kérelem benyújtásának elmulasztása, a kérelem elutasítása, az előírt bejelentési kötelezettség elmulasztása, illetőleg az adatszolgáltatás megtagadása esetén a részesedésszerzésre vagy az előny biztosítására irányuló szerződésből származó szavazati jogok gyakorlását az MNB a megfelelő törvényes feltételek biztosításáig megtilthatja.

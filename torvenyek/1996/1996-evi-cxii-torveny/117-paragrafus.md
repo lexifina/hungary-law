@@ -1,1 +1,0 @@
-117. § Kártérítési igény az Alappal szemben a jogellenesen okozott kár miatt csak akkor érvényesíthető, ha megállapítható, hogy az Alap eljárása vagy mulasztása törvénysértő volt, és a bekövetkezett kárt ez idézte elő.

@@ -1,1 +1,0 @@
-234/E. § Az egyes pénzügyi tárgyú törvények módosításáról szóló 2010. évi CLIX. törvény hatálybalépésekor már meglévő, a hitelintézet által visszavásárolt és a mérlegben eszközök között kimutatott saját kibocsátású alapvető kölcsöntőke, járulékos vagy alárendelt kölcsöntőke könyv szerinti értékét 2011. december 31-ig nem kell levonni a szavatoló tőke kiszámításakor.

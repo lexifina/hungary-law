@@ -1,5 +1,0 @@
-137. § (1) A pénzügyi intézmény, a pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény köteles a könyvvizsgálóval – az éves beszámoló könyvvizsgálatára – kötött szerződést és valamennyi, a könyvvizsgáló által az éves beszámolóval kapcsolatban készített jelentést az MNB számára megküldeni.
-
-(2) Az MNB jogosult a könyvvizsgáló jelentésének alapján – az éves beszámoló jóváhagyása előtt – a pénzügyi intézménynél, a pénzforgalmi intézménynél és az elektronikuspénz-kibocsátó intézménynél kezdeményezni, hogy a helytelen adatokat tartalmazó beszámolót vizsgáltassa felül, helyesbítse, gondoskodjon a helyesbített adatok könyvvizsgálóval történő hitelesítéséről.
-
-(3) Ha az éves beszámoló jóváhagyását követően jutott az MNB tudomására, hogy az éves beszámoló lényeges hibát tartalmaz, az MNB kötelezheti a pénzügyi intézményt, a pénzforgalmi intézményt és az elektronikuspénz-kibocsátó intézményt az adatok módosítására és könyvvizsgálóval való felülvizsgálatára. A módosított és a könyvvizsgáló által felülvizsgált adatot a pénzügyi intézmény, a pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény köteles az MNB-nek bemutatni.

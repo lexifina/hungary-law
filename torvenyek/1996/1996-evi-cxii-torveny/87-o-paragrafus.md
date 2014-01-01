@@ -1,5 +1,0 @@
-87/O. § (1) Az átlagosan kinnlevő elektronikus pénz módszer alkalmazásakor az elektronikuspénz-kibocsátó intézmény szavatoló tőkéjének el kell érnie az átlagosan kinnlevő elektronikus pénz két százalékát.
-
-(2) Amennyiben az elektronikuspénz-kibocsátó intézmény a 6/C. § (3) bekezdésében foglalt, az elektronikuspénz-kibocsátáshoz nem kapcsolódó vagy a 6/C. § (2) és (4)–(5) bekezdéseiben megállapított tevékenységek bármelyikét végzi, és a kinnlevő elektronikus pénz mennyisége előre nem határozható meg, az MNB engedélyezi ezen elektronikuspénz-kibocsátó intézmény számára, hogy a szavatolótőke-követelményét egy olyan reprezentatív hányad alapján számítsa ki, mely számítása szerint elektronikus pénz kibocsátására kerül felhasználásra, feltéve hogy ez a reprezentatív hányad a korábbi adatok alapján és az MNB számára reálisan megbecsülhető.
-
-(3) Amennyiben az elektronikuspénz-kibocsátó intézmény működésének időtartama alapján a (2) bekezdésben meghatározott szavatolótőke-követelménye nem számítható, az üzleti terv által igazolt, tervezett kinnlevő elektronikus pénz alapján kell a kalkulációt elvégezni, figyelemmel az MNB által a tervben kért esetleges kiigazításokra.

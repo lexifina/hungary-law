@@ -1,1 +1,0 @@
-127. § Az Alap a 124. §-ban foglalt kizárás esetén – huszonnégy órán belül – írásban tájékoztatja a kizárás tényéről és okáról az MNB-t. Az Alap erről negyvennyolc órán belül legalább két országos napilapban felhívást tesz közzé.

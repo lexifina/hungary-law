@@ -1,1 +1,0 @@
-234/M. § Az egyes törvényeknek a kormányzati ellenőrzéssel összefüggő módosításáról szóló 2012. évi CLXXXIX. törvénnyel megállapított 51. § (2) bekezdés a) és p) pontot, valamint 53. § (1) bekezdést az egyes törvényeknek a kormányzati ellenőrzéssel összefüggő módosításáról szóló 2012. évi CLXXXIX. törvény hatálybalépésekor folyamatban lévő adatátadások során is alkalmazni kell.

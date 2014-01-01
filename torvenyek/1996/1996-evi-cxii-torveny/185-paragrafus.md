@@ -1,1 +1,0 @@
-185. § Hitelintézet tevékenységi engedélyének 30. § (1) bekezdés b) pontja alapján történt visszavonását követően engedményezett, a hitelintézettel szemben fennálló követelések beszámításának a végelszámolási eljárás során nincs helye.
