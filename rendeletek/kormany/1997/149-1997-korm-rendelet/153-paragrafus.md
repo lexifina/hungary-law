@@ -4,14 +4,14 @@ a) az ingatlanra vonatkozó szerződés egy eredeti és három másolati példá
 
 b) 3 hónapnál nem régebbi adó- és értékbizonyítványt, vagy az ingatlanközvetítésre feljogosított bármely szerv értékbecslését, kivéve, ha az ingatlan értékét az illetékhivatal 6 hónapnál nem régebben már megállapította,
 
-c)[^747] az ingatlan tulajdoni lapjának 15 napnál nem régebbi másolatát, amennyiben a kérelmező nem él a (3) bekezdésben foglalt lehetőséggel.
+c)[^741] az ingatlan tulajdoni lapjának 15 napnál nem régebbi másolatát, amennyiben a kérelmező nem él a (3) bekezdésben foglalt lehetőséggel.
 
 (2) A közös tulajdon megállapodás alapján történő megszüntetésének jóváhagyása iránti kérelemhez az (1) bekezdésben foglaltak mellett mellékelni kell az elvi telekmegosztási engedélyt, továbbá a megosztás után kialakításra kerülő ingatlanrészekre vonatkozó értékbecslést.
 
-(3)[^748] Ha az ügyfél az (1) bekezdés c) pontja szerinti iratot nem csatolja, a gyámhivatal az adat beszerzése érdekében az azt nyilvántartó hatósághoz fordul.
+(3)[^742] Ha az ügyfél az (1) bekezdés c) pontja szerinti iratot nem csatolja, a gyámhivatal az adat beszerzése érdekében az azt nyilvántartó hatósághoz fordul.
 
-(4)[^749] A jóváhagyási kérelemhez nem kell mellékelni az (1) bekezdés b) pontjában meghatározott iratot, ha az ingatlan tulajdonjogának átruházása a Nemzeti Eszközkezelő Zrt. részére jogszabályban meghatározott módon történt.
+(4)[^743] A jóváhagyási kérelemhez nem kell mellékelni az (1) bekezdés b) pontjában meghatározott iratot, ha az ingatlan tulajdonjogának átruházása a Nemzeti Eszközkezelő Zrt. részére jogszabályban meghatározott módon történt.
 
-[^747]: A 153. § (1) bekezdésének c) pontját a 315/2005. (XII. 25.) Korm. rendelet 78. § (4) bekezdésének h) pontja hatályon kívül helyezte, újonnan a 251/2006. (XII. 6.) Korm. rendelet 18. §-a iktatta be. Ez utóbbi módosító rendelet 21. § (3) bekezdése alapján a rendelkezést a 2007. január 1. napja után indult ügyekben és a megismételt eljárásokban kell alkalmazni.
-[^748]: A 153. § (3) bekezdését a 315/2005. (XII. 25.) Korm. rendelet 70. §-a iktatta be, szövege a 173/2009. (VIII. 29.) Korm. rendelet 40. §-ával megállapított szöveg. Ez utóbbi módosító rendelet 61. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 30-át követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^749]: A 153. § (4) bekezdését a 385/2012. (XII. 19.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^741]: A 153. § (1) bekezdésének c) pontját a 315/2005. (XII. 25.) Korm. rendelet 78. § (4) bekezdésének h) pontja hatályon kívül helyezte, újonnan a 251/2006. (XII. 6.) Korm. rendelet 18. §-a iktatta be. Ez utóbbi módosító rendelet 21. § (3) bekezdése alapján a rendelkezést a 2007. január 1. napja után indult ügyekben és a megismételt eljárásokban kell alkalmazni.
+[^742]: A 153. § (3) bekezdését a 315/2005. (XII. 25.) Korm. rendelet 70. §-a iktatta be, szövege a 173/2009. (VIII. 29.) Korm. rendelet 40. §-ával megállapított szöveg. Ez utóbbi módosító rendelet 61. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 30-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^743]: A 153. § (4) bekezdését a 385/2012. (XII. 19.) Korm. rendelet 2. § (1) bekezdése iktatta be.

@@ -1,20 +1,24 @@
-## 91/U. §[^525]
+## 91/U. §[^568]
 
 ## XIII. Fejezet
 
 ## Családba fogadással kapcsolatos ügyek
 
-## 92. § A családba fogadás iránti eljárás során a gyámhivatal
+92. §[^569] (1) A családbafogadás iránti eljárás során a gyámhivatal
 
-a)[^526] meghallgatja a Gyvt. 128. §-ában meghatározott személyeken kívül a családba fogadó személyt, illetve személyeket,
+a) az eljárás megindulását követő nyolc napon belül
+
+aa) meghallgatásra idézi a Gyvt. 70. § (1) bekezdésében és 128. §-ában meghatározott személyeken kívül a családbafogadó személyt, illetve személyeket, valamint a kérelmezőt értesíti a meghallgatás időpontjáról,
+
+ab) intézkedik a környezettanulmány beszerzése érdekében, ha azt nem a gyámhivatal végzi el,
 
 b) tájékoztatja a feleket nyilatkozataik jogkövetkezményéről,
 
-c) megvizsgálja a családba fogadás okát és várható időtartamát,
+c) megvizsgálja a családbafogadás okát és várható időtartamát,
 
-d) megvizsgálja a szülő(k) által megnevezett családba fogadó személy(ek) alkalmasságát, valamint azt, hogy viselhet(nek)-e gyámságot,
+d) megvizsgálja a szülő(k) által megnevezett családbafogadó személy(ek) alkalmasságát, valamint azt, hogy viselhet(nek)-e gyámságot.
 
-e) környezettanulmányt készít.
+(2) A gyámhivatal abban az esetben is engedélyezheti a családbafogadást, ha a különélő másik szülő a szabályszerű idézés ellenére nem jelent meg a meghallgatáson, különösen amennyiben a különélő szülő nem tart kapcsolatot a gyermekével.
 
-[^525]: A 91/U. §-t a 21/2012. (II. 29.) Korm. rendelet 11. §-a iktatta be, hatályon kívül helyezte a 236/2012. (VIII. 30.) Korm. rendelet 6. § (1) bekezdés d) pontja.
-[^526]: A 92. § a) pontja a 14/2003. (II. 12.) Korm. rendelet 53. §-ával megállapított szöveg. E módosító rendelet 98. §-ának (1) bekezdése alapján a 2003. február 15. napja után indult ügyekben kell alkalmazni, a folyamatban lévő első és másodfokú ügyekben a korábbi rendelkezések az irányadóak.
+[^568]: A 91/U. §-t a 21/2012. (II. 29.) Korm. rendelet 11. §-a iktatta be, hatályon kívül helyezte a 236/2012. (VIII. 30.) Korm. rendelet 6. § (1) bekezdés d) pontja.
+[^569]: A 92. § a 97/2013. (III. 29.) Korm. rendelet 24. §-ával megállapított szöveg.

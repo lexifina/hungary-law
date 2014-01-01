@@ -1,4 +1,4 @@
-91/H. §[^507] (1)[^508] A gyámhivatal az iskoláztatási támogatás szüneteltetése szükségességének felülvizsgálata során tájékoztatást kér a nevelési-oktatási intézmény igazgatójától arról, hogy
+91/H. §[^550] (1)[^551] A gyámhivatal az iskoláztatási támogatás szüneteltetése szükségességének felülvizsgálata során tájékoztatást kér a nevelési-oktatási intézmény igazgatójától arról, hogy
 
 a) a felülvizsgálattal érintett időszakban a gyermek (fiatal felnőtt) hány kötelező tanórai foglalkozást mulasztott igazolatlanul és
 
@@ -12,8 +12,8 @@ b) a tárgyév szeptember 1-je, ha a szüneteltetést elrendelő döntés joger�
 
 (3) A Gyvt. 68/A. § (2) bekezdése b) pontjának alkalmazásában az utolsó felülvizsgálattól számított egy hónapot az utolsó felülvizsgálattal érintett időszak utolsó napját követő naptól kell számítani.
 
-(4)[^509] A gyámhivatal a felülvizsgálati eljárás során hozott határozatáról – védelembe vett gyermek esetén – tájékoztatja a kirendelt családgondozót.
+(4)[^552] A gyámhivatal a felülvizsgálati eljárás során hozott határozatáról – védelembe vett gyermek esetén – tájékoztatja a kirendelt családgondozót.
 
-[^507]: A 91/H. §-t a 237/2010. (IX. 13.) Korm. rendelet 8. §-a iktatta be, szövege a 236/2012. (VIII. 30.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^508]: A 91/H. § (1) bekezdés nyitó szövegrésze a 236/2012. (VIII. 10.) Korm. rendelet 7. § (2) bekezdés c) pontja szerint módosított szöveg.
-[^509]: A 91/H. § (4) bekezdése a 236/2012. (VIII. 10.) Korm. rendelet 7. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^550]: A 91/H. §-t a 237/2010. (IX. 13.) Korm. rendelet 8. §-a iktatta be, szövege a 236/2012. (VIII. 30.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^551]: A 91/H. § (1) bekezdés nyitó szövegrésze a 236/2012. (VIII. 10.) Korm. rendelet 7. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^552]: A 91/H. § (4) bekezdése a 236/2012. (VIII. 10.) Korm. rendelet 7. § (2) bekezdés c) pontja szerint módosított szöveg.

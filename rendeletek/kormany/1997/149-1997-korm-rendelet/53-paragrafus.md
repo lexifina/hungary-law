@@ -1,6 +1,6 @@
-## A származás megismerésével kapcsolatos eljárás általános szabályai[^259]
+## A származás megismerésével kapcsolatos eljárás általános szabályai[^300]
 
-53. §[^260] (1) A tizennegyedik életévét be nem töltött örökbefogadott gyermek törvényes képviselője, a tizennegyedik életévét betöltött örökbefogadott gyermek önállóan vagy törvényes képviselője hozzájárulásával és a nagykorú örökbefogadott tájékoztatást kérhet a kijelölt gyámhivataltól a Csjt. 53/A. § (2) bekezdés a) pontjában meghatározott, a származásával kapcsolatos tényekről.
+53. §[^301] (1) A tizennegyedik életévét be nem töltött örökbefogadott gyermek törvényes képviselője, a tizennegyedik életévét betöltött örökbefogadott gyermek önállóan vagy törvényes képviselője hozzájárulásával és a nagykorú örökbefogadott tájékoztatást kérhet a kijelölt gyámhivataltól a Csjt. 53/A. § (2) bekezdés a) pontjában meghatározott, a származásával kapcsolatos tényekről.
 
 (2) A tizennegyedik életévét betöltött örökbefogadott gyermek és a nagykorú örökbefogadott tájékoztatást kérhet a kijelölt gyámhivataltól a Csjt. 53/A. § (2) bekezdés b) pontjában meghatározott vér szerinti hozzátartozóinak adatairól.
 
@@ -12,5 +12,5 @@
 
 (6) A gyámhivatal a származás megismerésére vonatkozó tájékoztatást személyes meghallgatás keretében adja meg, amelyet jegyzőkönyvben rögzít. Ha az ügyfél számára aránytalan nehézséggel járna a személyes megjelenés, kérelmére a gyámhivatal írásban ad tájékoztatást.
 
-[^259]: Az 53. §-t megelőző alcím a 349/2012. (XII. 12.) Korm. rendelet 14. §-ával megállapított szöveg.
-[^260]: Az 53. § a 349/2012. (XII. 12.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^300]: Az 53. §-t megelőző alcím a 349/2012. (XII. 12.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^301]: Az 53. § a 349/2012. (XII. 12.) Korm. rendelet 14. §-ával megállapított szöveg.

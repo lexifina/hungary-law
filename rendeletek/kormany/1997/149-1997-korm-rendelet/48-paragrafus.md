@@ -1,6 +1,6 @@
 ## Az örökbefogadás felbontása
 
-48. § (1)[^223] A kijelölt gyámhivatal az örökbefogadás felbontása iránti kérelem elbírálása során
+48. § (1)[^258] A kijelölt gyámhivatal az örökbefogadás felbontása iránti kérelem elbírálása során
 
 a) meghallgatja a Gyvt. 128. §-ában meghatározott személyen kívül az örökbefogadott gyermek vér szerinti szüleit is,
 
@@ -22,7 +22,7 @@ e) azokat az adatokat, amelyekből megállapítható, hogy az örökbefogadás f
 
 (3) Az örökbefogadást felbontó határozat rendelkező részének a 14. §-ban foglaltakon kívül tartalmaznia kell
 
-a)[^224] az örökbefogadást engedélyező kijelölt gyámhivatal megnevezését, a határozat számát és keltét,
+a)[^259] az örökbefogadást engedélyező kijelölt gyámhivatal megnevezését, a határozat számát és keltét,
 
 b) az örökbefogadottnak az örökbefogadás előtti és utáni nevét, továbbá az örökbefogadottnak, valamint az örökbefogadás felbontásával érintetteknek az örökbefogadás felbontása utáni nevét,
 
@@ -32,11 +32,11 @@ d) az örökbefogadás felbontása iránti kérelem beadásának napját,
 
 e) annak megállapítását, hogy az örökbefogadás kinek a vonatkozásában szűnt meg [Csjt. 58. § (1) bek.],
 
-f)[^225] annak a megállapítását, hogy az örökbefogadás felbontásával a vér szerinti szülők szülői felügyeleti joga nem áll vissza [Csjt. 56. § (3) bek.].
+f)[^260] annak a megállapítását, hogy az örökbefogadás felbontásával a vér szerinti szülők szülői felügyeleti joga nem áll vissza [Csjt. 56. § (3) bek.].
 
-(4)[^226] Az örökbefogadás felbontásáról szóló határozatát a kijelölt gyámhivatal közli a családtámogatási ellátást folyósító szervvel.
+(4)[^261] Az örökbefogadás felbontásáról szóló határozatát a kijelölt gyámhivatal közli a családtámogatási ellátást és szükség esetén az árvaellátást folyósító szervvel.
 
-[^223]: A 48. § (1) bekezdés nyitó szövegrésze a 174/2012. (VII. 26.) Korm. rendelet 12. § (16) bekezdés 7. pontja szerint módosított szöveg.
-[^224]: A 48. § (3) bekezdés a) pontja a 174/2012. (VII. 26.) Korm. rendelet 12. § (16) bekezdés 7. pontja szerint módosított szöveg.
-[^225]: A 48. § (3) bekezdés f) pontját a 349/2012. (XII. 12.) Korm. rendelet 13. §-a iktatta be.
-[^226]: A 48. § (4) bekezdését a 275/2008. (XI. 21.) Korm. rendelet 5. §-a iktatta be, szövege a 173/2009. (VIII. 29.) Korm. rendelet 66. § (1) bekezdés 24. pontja, a 174/2012. (VII. 26.) Korm. rendelet 12. § (16) bekezdés 7. pontja szerint módosított szöveg.
+[^258]: A 48. § (1) bekezdés nyitó szövegrésze a 174/2012. (VII. 26.) Korm. rendelet 12. § (16) bekezdés 7. pontja szerint módosított szöveg.
+[^259]: A 48. § (3) bekezdés a) pontja a 174/2012. (VII. 26.) Korm. rendelet 12. § (16) bekezdés 7. pontja szerint módosított szöveg.
+[^260]: A 48. § (3) bekezdés f) pontját a 349/2012. (XII. 12.) Korm. rendelet 13. §-a iktatta be.
+[^261]: A 48. § (4) bekezdését a 275/2008. (XI. 21.) Korm. rendelet 5. §-a iktatta be, szövege a 97/2013. (III. 29.) Korm. rendelet 16. §-ával megállapított szöveg.

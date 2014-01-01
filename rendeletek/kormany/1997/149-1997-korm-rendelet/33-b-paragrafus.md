@@ -1,12 +1,12 @@
-## 33/A. §[^137]
+## 33/A. §[^151]
 
-33/B. §[^138] (1)[^139] Ha a kapcsolattartás a 14. életévét betöltött gyermek befolyásmentes, önálló akaratnyilvánítása miatt hiúsul meg, a gyámhivatal – kérelemre – a végrehajtási eljárást felfüggeszti, feltéve, hogy
+33/B. §[^152] (1)[^153] Ha a kapcsolattartás a 14. életévét betöltött gyermek befolyásmentes, önálló akaratnyilvánítása miatt hiúsul meg, a gyámhivatal – kérelemre – a végrehajtási eljárást felfüggeszti, feltéve, hogy
 
 a) a felek igénybe veszik a 30/A–30/D. § szerinti gyermekvédelmi közvetítői eljárást, vagy
 
-b)[^140] a felek bármelyike kéri a kapcsolattartás újraszabályozását, illetve megvonását.
+b)[^154] a felek bármelyike kéri a kapcsolattartás újraszabályozását, illetve megvonását.
 
-(2)[^141]
+(2)[^155]
 
 (3) Az eljárás felfüggesztésére
 
@@ -18,8 +18,8 @@ b) az (1) bekezdés b) pontja szerinti esetben a kapcsolattartás újraszabályo
 
 (4) A gyámhivatal a végrehajtási eljárást, amennyiben az (1) bekezdés a) vagy b) pontja szerinti eljárás sikerrel zárul, végzéssel megszünteti.
 
-[^137]: A 33/A. §-t a 315/2005. (XII. 25.) Korm. rendelet 33. §-a iktatta be, hatályon kívül helyezte az 57/2006. (III. 21.) Korm. rendelet 16. § (7) bekezdése a) pontjának ad) alpontja.
-[^138]: A 33/B. §-t a 315/2005. (XII. 25.) Korm. rendelet 33. §-a iktatta be.
-[^139]: A 33/B. § (1) bekezdése a 173/2009. (VIII. 29.) Korm. rendelet 63. § (1) bekezdés l) pontja szerint módosított szöveg. E módosító rendelet 61. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 30-át követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^140]: A 33/B. § (1) bekezdésének b) pontja az 57/2006. (III. 21.) Korm. rendelet 16. § (12) bekezdésének c) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 16. § (4) bekezdését.
-[^141]: A 33/B. § (2) bekezdését a 173/2009. (VIII. 29.) Korm. rendelet 63. § (1) bekezdés m) pontja hatályon kívül helyezte. E módosító rendelet 61. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 30-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^151]: A 33/A. §-t a 315/2005. (XII. 25.) Korm. rendelet 33. §-a iktatta be, hatályon kívül helyezte az 57/2006. (III. 21.) Korm. rendelet 16. § (7) bekezdése a) pontjának ad) alpontja.
+[^152]: A 33/B. §-t a 315/2005. (XII. 25.) Korm. rendelet 33. §-a iktatta be.
+[^153]: A 33/B. § (1) bekezdése a 173/2009. (VIII. 29.) Korm. rendelet 63. § (1) bekezdés l) pontja szerint módosított szöveg. E módosító rendelet 61. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 30-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^154]: A 33/B. § (1) bekezdésének b) pontja az 57/2006. (III. 21.) Korm. rendelet 16. § (12) bekezdésének c) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 16. § (4) bekezdését.
+[^155]: A 33/B. § (2) bekezdését a 173/2009. (VIII. 29.) Korm. rendelet 63. § (1) bekezdés m) pontja hatályon kívül helyezte. E módosító rendelet 61. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 30-át követően indult vagy megismételt eljárásokban kell alkalmazni.

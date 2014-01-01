@@ -1,4 +1,4 @@
-30. §[^103] (1) A gyámhivatal, illetőleg a bíróság a kapcsolattartást elsősorban egyezség létrehozásával – tárgyalás megtartásával – rendezi. Ennek során a gyermeket gondozó szülő, más személy (a továbbiakban: kapcsolattartásra kötelezett) és a kapcsolattartásra jogosult megegyeznek
+30. §[^108] (1) A gyámhivatal, illetőleg a bíróság a kapcsolattartást elsősorban egyezség létrehozásával – tárgyalás megtartásával – rendezi. Ennek során a gyermeket gondozó szülő, más személy (a továbbiakban: kapcsolattartásra kötelezett) és a kapcsolattartásra jogosult megegyeznek
 
 a) a folyamatos, valamint az időszakos kapcsolattartás gyakoriságáról, időtartamáról,
 
@@ -28,21 +28,21 @@ d) a 31–33/B. §-ban meghatározott jogkövetkezményekről való tájékoztat
 
 (6) A gyámhivatal, illetve a bíróság a kapcsolattartás helyszíneként a gyermekjóléti központ vagy a kapcsolattartási ügyeletet működtető gyermekjóléti szolgálat helyiségét is megjelölheti, egyben előírhatja a kapcsolattartásra kötelezett számára a gyermeknek ezen a helyen történő átadását, illetve a kapcsolattartásra jogosult számára a gyermeknek ezen a helyen történő átvételét.
 
-(7)[^104] A kapcsolattartást akadályozó körülményekről a felek előzetesen, lehetőleg írásban vagy egyéb igazolható módon tájékoztatják egymást.
+(7)[^109] A kapcsolattartást akadályozó körülményekről a felek előzetesen, lehetőleg írásban vagy egyéb igazolható módon tájékoztatják egymást.
 
-(8)[^105] Az elmaradt kapcsolattartást pótolni kell, ha
+(8)[^110] Az elmaradt kapcsolattartást pótolni kell, ha
 
 a) az a kapcsolattartásra kötelezett miatt maradt el,
 
-b)[^106] az a kapcsolattartásra jogosultnak fel nem róható okból maradt el, feltéve, hogy a kapcsolattartást szabályozó döntésben foglaltak szerint eleget tett előzetes értesítési kötelezettségének, illetve az előre nem látható akadályok felmerülését utólag igazolja.
+b)[^111] az a kapcsolattartásra jogosultnak fel nem róható okból maradt el, feltéve, hogy a kapcsolattartást szabályozó döntésben foglaltak szerint eleget tett előzetes értesítési kötelezettségének, illetve az előre nem látható akadályok felmerülését utólag igazolja.
 
-(9)[^107] Nem tekinthető elmaradt kapcsolattartásnak az időszakos kapcsolattartás idejével, illetve a gyermeket gondozó szülőt a 27. § (5) bekezdésének b) pontja alapján megillető, a gyermekkel folyamatosan együtt tölthető időtartammal részben vagy teljesen egybeeső folyamatos kapcsolattartás. Az ünnepnapokra eső elmaradt időszakos kapcsolattartás nem pótolható.
+(9)[^112] Nem tekinthető elmaradt kapcsolattartásnak az időszakos kapcsolattartás idejével, illetve a gyermeket gondozó szülőt a 27. § (5) bekezdésének b) pontja alapján megillető, a gyermekkel folyamatosan együtt tölthető időtartammal részben vagy teljesen egybeeső folyamatos kapcsolattartás. Az ünnepnapokra eső elmaradt időszakos kapcsolattartás nem pótolható.
 
-(10)[^108] Az elmaradt kapcsolattartás pótlása nem veszélyeztetheti a gyermek egészséges fejlődését.
+(10)[^113] Az elmaradt kapcsolattartás pótlása nem veszélyeztetheti a gyermek egészséges fejlődését.
 
-[^103]: A 30. § a 315/2005. (XII. 25.) Korm. rendelet 27. §-ával megállapított szöveg.
-[^104]: A 30. § (7) bekezdését az 57/2006. (III. 21.) Korm. rendelet 2. §-a iktatta be, alkalmazására lásd e módosító rendelet 16. §-ának (4) bekezdését.
-[^105]: A 30. § (8) bekezdését az 57/2006. (III. 21.) Korm. rendelet 2. §-a iktatta be, szövege a 360/2010. (XII. 30.) Korm. rendelet 24. § b) pontja szerint módosított szöveg.
-[^106]: A 30. § (8) bekezdésének b) pontja a 251/2006. (XII. 6.) Korm. rendelet 21. § (6) bekezdése b) pontjának ba) alpontja szerint módosított szöveg. E módosító rendelet 21. § (3) bekezdése alapján a rendelkezést a 2007. január 1. napja után indult ügyekben és a megismételt eljárásokban kell alkalmazni.
-[^107]: A 30. § (9) bekezdését az 57/2006. (III. 21.) Korm. rendelet 2. §-a iktatta be, szövege a 251/2006. (XII. 6.) Korm. rendelet 7. §-ával megállapított szöveg. Ez utóbbi módosító rendelet 21. § (3) bekezdése alapján a rendelkezést a 2007. január 1. napja után indult ügyekben és a megismételt eljárásokban kell alkalmazni.
-[^108]: A 30. § (10) bekezdését a 360/2010. (XII. 30.) Korm. rendelet 3. §-a iktatta be.
+[^108]: A 30. § a 315/2005. (XII. 25.) Korm. rendelet 27. §-ával megállapított szöveg.
+[^109]: A 30. § (7) bekezdését az 57/2006. (III. 21.) Korm. rendelet 2. §-a iktatta be, alkalmazására lásd e módosító rendelet 16. §-ának (4) bekezdését.
+[^110]: A 30. § (8) bekezdését az 57/2006. (III. 21.) Korm. rendelet 2. §-a iktatta be, szövege a 360/2010. (XII. 30.) Korm. rendelet 24. § b) pontja szerint módosított szöveg.
+[^111]: A 30. § (8) bekezdésének b) pontja a 251/2006. (XII. 6.) Korm. rendelet 21. § (6) bekezdése b) pontjának ba) alpontja szerint módosított szöveg. E módosító rendelet 21. § (3) bekezdése alapján a rendelkezést a 2007. január 1. napja után indult ügyekben és a megismételt eljárásokban kell alkalmazni.
+[^112]: A 30. § (9) bekezdését az 57/2006. (III. 21.) Korm. rendelet 2. §-a iktatta be, szövege a 251/2006. (XII. 6.) Korm. rendelet 7. §-ával megállapított szöveg. Ez utóbbi módosító rendelet 21. § (3) bekezdése alapján a rendelkezést a 2007. január 1. napja után indult ügyekben és a megismételt eljárásokban kell alkalmazni.
+[^113]: A 30. § (10) bekezdését a 360/2010. (XII. 30.) Korm. rendelet 3. §-a iktatta be.

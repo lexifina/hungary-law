@@ -1,34 +1,62 @@
-## A gyermek gondozási helyének meghatározása
+## A gondozási hely meghatározása és a járulékos kérdések eldöntése[^595]
 
-103. §[^577] (1)[^578] A gyámhivatal a gyermek átmeneti nevelésbe vételének elrendelése előtt a gyermek gondozási helye szerint illetékes gyermekvédelmi szakértői bizottság szakvéleményére alapozott elhelyezési javaslatot szerez be a gyermekvédelmi szakszolgálattól [Gyvt. 82. § (9) bek.].
+103. §[^596] (1) A gyámhivatal a nevelésbe vétel kezdő időpontját követő harmincöt napon belül a gyermekvédelmi gyám, a gyermek gondozási helye, a vér szerinti családot gondozó gyermekjóléti szolgálat tájékoztatása, javaslata, a gyermekvédelmi szakszolgálat elhelyezési javaslata és egyéni elhelyezési terve, valamint a megyei (fővárosi) gyermekvédelmi szakértői bizottság szakvéleménye alapján – az ítélőképessége birtokában lévő gyermek véleményének figyelembevételével – meghatározza a gondozási helyet és dönt a Gyvt. 79. § (5) bekezdése szerinti járulékos kérdésekről.
 
-(1a)[^579] Ha az illetékes megyei (fővárosi) gyermekvédelmi szakértői bizottság nem tud húsz napon belül szakvéleményt készíteni az elhelyezési javaslathoz, azt a gyermekvédelmi szakszolgálat haladéktalanul jelzi a gyámhivatal számára. Ebben az esetben a gyámhivatal az illetékességi területén kívüli, más megyei (fővárosi) gyermekvédelmi szakértői bizottságot kér fel a szakvélemény elkészítésére, ha annak a megkereséstől számított húsz napon belüli elkészítését az újonnan felkért megyei (fővárosi) szakértői bizottság vállalja. A gyámhivatal a felkérésről haladéktalanul tájékoztatja
+(2) A gyámhivatal a gyermek ideiglenes hatályú elhelyezését vagy a gyermek nevelésbe vételére irányuló eljárás megindítását követő öt napon belül, vagy a gyermek nevelésbe vételével egyidejűleg megkeresi a gyermekvédelmi szakszolgálatot, hogy készítse elő az elhelyezési javaslatot és az egyéni elhelyezési tervet, kivéve, ha ideiglenes hatályú elhelyezés esetén a gyermek másik szülőnél vagy más személynél történő elhelyezésének vizsgálata még folyamatban van.
+
+(3) A gyermekvédelmi szakszolgálat a gyámhivatal megkeresését követően haladéktalanul intézkedik a megyei (fővárosi) gyermekvédelmi szakértői bizottságnál a Gyvt. 79. § (1) bekezdése szerinti szakvélemény elkészítése érdekében.
+
+(4) Ha az illetékes megyei (fővárosi) gyermekvédelmi szakértői bizottság nem tud húsz napon belül szakvéleményt készíteni az elhelyezési javaslathoz, azt a gyermekvédelmi szakszolgálat haladéktalanul jelzi a gyámhivatal számára. Ebben az esetben a gyámhivatal az illetékességi területén kívüli, más megyei (fővárosi) gyermekvédelmi szakértői bizottságot kér fel a szakvélemény elkészítésére, ha annak a megkereséstől számított húsz napon belüli elkészítését az újonnan felkért megyei (fővárosi) szakértői bizottság vállalja. A gyámhivatal a felkérésről haladéktalanul tájékoztatja
 
 a) a gyermek elhelyezése kérdésében elhelyezési javaslatot és egyéni elhelyezési tervet készítő gyermekvédelmi szakszolgálatot és
 
 b) az újonnan felkért megyei (fővárosi) szakértői bizottság helye szerinti gyermekvédelmi szakszolgálatot.
 
-(1b)[^580] A gyámhivatal, valamint a gyermekvédelmi szakszolgálat és a gyermekvédelmi szakértői bizottság – ha technikai felkészültségük lehetővé teszi – elektronikus levél útján tartanak kapcsolatot. A felkért gyermekvédelmi szakértői bizottság a gyermek elhelyezése kérdésében elhelyezési javaslatot és egyéni elhelyezési tervet készítő gyermekvédelmi szakszolgálatnak küldi meg közvetlenül a szakvéleményét, és erről értesíti a gyámhivatalt.
+(5) A gyámhivatal, valamint a gyermekvédelmi szakszolgálat és a gyermekvédelmi szakértői bizottság – ha technikai felkészültségük lehetővé teszi – elektronikus levél útján tartanak kapcsolatot. A felkért gyermekvédelmi szakértői bizottság a gyermek elhelyezése kérdésében elhelyezési javaslatot és egyéni elhelyezési tervet készítő gyermekvédelmi szakszolgálatnak küldi meg közvetlenül a szakvéleményét, és erről értesíti a gyámhivatalt.
 
-(2)[^581] Amennyiben a gyermekvédelmi szakszolgálat a 99. § (1) bekezdésében foglaltak miatt a nevelésbe vételt nem javasolja, véleményéről írásban tájékoztatja a gyámhivatalt. A gyámhivatal ismételten megvizsgálja az átmeneti nevelésbe vétel feltételeit, és amennyiben azok
+(6) A gyermekvédelmi szakszolgálat a megyei (fővárosi) szakértői bizottság szakvéleményének megérkezését követő tíz napon belül elkészíti az elhelyezési javaslatot, valamint az egyéni elhelyezési tervet, és azokat megküldi a gyámhivatalnak.
 
-a) nem állnak fenn, a 99. § (2) bekezdése szerint jár el,
+(7) A gyámhivatal a gyermek gondozási helyének meghatározása érdekében tárgyalást tart. A tárgyaláson részt vesz
 
-b) fennállnak, beszerzi az (1) bekezdés szerinti elhelyezési javaslatot.
+a) az ítélőképessége birtokában lévő gyermek,
 
-(3) A gyámhivatal a gyermek alapellátásban keletkezett iratainak megküldésével felhívja a gyermekvédelmi szakszolgálatot az egyéni elhelyezési terv elkészítésére, és a Gyvt. 141. §-a (1) bekezdésének a) pontja alapján vezetett nyilvántartásra figyelemmel javaslatot szerez be a gyermek gondozási helyére vonatkozóan.
+b) a szülő, feltéve, hogy szülői felügyeleti jogát nem szüntették meg, valamint a lakó- vagy tartózkodási helye szerint illetékes gyermekjóléti szolgálat képviselője,
 
-(4)[^582] Ha a megyei (fővárosi) gyermekvédelmi szakértői bizottság a Szociális és Gyermekvédelmi Főigazgatóság létrehozásáról szóló Korm. rendelet 1. melléklete szerinti speciális gyermekotthonban történő elhelyezésre tesz javaslatot, egyidejűleg felkéri az országos gyermekvédelmi szakértői bizottságot a szakvélemény elkészítésére.
+c) szükség szerint a gyermek más hozzátartozója,
 
-(5)[^583] Ha az érdemi határozat elleni fellebbezésben a megyei (fővárosi) gyermekvédelmi szakértői bizottság szakvéleményének felülvizsgálatát kérték, a szociális és gyámhivatal a szakvélemény felülvizsgálata érdekében megkeresi az országos gyermekvédelmi szakértői bizottságot.
+d) a családot korábban gondozó gyermekjóléti szolgálat képviselője,
 
-(6)[^584] A gyermekvédelmi szakszolgálat a javaslatát az egyéni elhelyezési terv elkészítésével egyidejűleg az általa összehívott elhelyezési értekezleten, a megyei (fővárosi), illetve országos gyermekvédelmi szakértői bizottság véleményére alapozva alakítja ki.
+e) a kirendelt vagy javasolt gyermekvédelmi gyám,
 
-[^577]: A 103. § a 14/2003. (II. 12.) Korm. rendelet 62. §-ával megállapított szöveg. E módosító rendelet 98. §-ának (1) bekezdése alapján a 2003. február 15. napja után indult ügyekben kell alkalmazni, a folyamatban lévő első és másodfokú ügyekben a korábbi rendelkezések az irányadóak.
-[^578]: A 103. § (1) bekezdése a 251/2006. (XII. 6.) Korm. rendelet 21. § (6) bekezdése b) alpontjának be) alpontja szerint módosított szöveg. E módosító rendelet 21. § (3) bekezdése alapján a rendelkezést a 2007. január 1. napja után indult ügyekben és a megismételt eljárásokban kell alkalmazni.
-[^579]: A 103. § (1a) bekezdését a 257/2013. (VII. 5.) Korm. rendelet 5. §-a iktatta be.
-[^580]: A 103. § (1b) bekezdését a 257/2013. (VII. 5.) Korm. rendelet 5. §-a iktatta be.
-[^581]: A 103. § (2) bekezdése a 203/2003. (XII. 10.) Korm. rendelet 6. §-ával megállapított szöveg, e módosító rendelet 16. § (1) bekezdése alapján a rendelkezést a 2004. január 1-jét követően indult ügyekben kell alkalmazni.
-[^582]: A 103. § új (4) bekezdését a 315/2005. (XII. 25.) Korm. rendelet 57. §-a iktatta be, egyidejűleg az eredeti (4) bekezdésének számozását (6) bekezdésre változtatta. Az új (4) bekezdés szövege a 349/2012. (XII. 12.) Korm. rendelet 19. § c) pontja szerint módosított szöveg.
-[^583]: A 103. § (5) bekezdését a 315/2005. (XII. 25.) Korm. rendelet 57. §-a iktatta be, szövege a 174/2012. (VII. 26.) Korm. rendelet 12. § (16) bekezdés 23. pontja szerint módosított szöveg.
-[^584]: A 103. § eredeti (4) bekezdésének számozását (6) bekezdésre változtatta a 315/2005. (XII. 25.) Korm. rendelet 57. §-a.
+f) az ideiglenes gondozási helyet biztosító nevelőszülő és működtetőjének vagy a gondozó intézménynek a képviselője,
+
+g) a javasolt nevelőszülő és működtetőjének képviselője, a javasolt gondozó intézmény képviselője,
+
+h) – speciális ellátást igénylő gyermek esetén – a gyermekjogi képviselő.
+
+(8) A tárgyalásra speciális ellátást nem igénylő gyermek esetén is meg kell hívni a gyermekjogi képviselőt, aki részt vehet a tárgyaláson.
+
+(9) A tárgyalás csak akkor hívható össze ismételten, ha az a döntés meghozatalához nélkülözhetetlen.
+
+(10) A tárgyaláson a gyermekvédelmi gyám ismerteti a gyermekvédelmi szakszolgálat által elkészített elhelyezési javaslatot és egyéni elhelyezési tervet. Ha a gyermekvédelmi gyám nem tud személyesen részt venni a tárgyaláson, a gyermekvédelmi szakszolgálat legkésőbb a tárgyalás időpontjáig megküldi a gyámhivatalnak az elkészített elhelyezési javaslatot és egyéni elhelyezési tervet.
+
+(11) A tárgyalás során a résztvevők kialakítják az elhelyezési javaslatra és az egyéni elhelyezési tervre vonatkozó véleményüket, melyet a gyámhivatal jegyzőkönyvben rögzít. A tárgyalást úgy kell megtartani, hogy az hozzásegítse a gyermeket és a szülőt a nevelésbe vétel okának, céljának és jogkövetkezményének megismeréséhez.
+
+(12) A gyámhatóság a gondozási hely meghatározására irányuló döntése meghozatala során mérlegeli
+
+a) a megyei, fővárosi, illetve országos gyermekvédelmi szakértői bizottság szakvéleményében foglaltakat,
+
+b) a gyermekvédelmi szakszolgálat elhelyezési javaslatában és egyéni elhelyezési tervében foglaltakat,
+
+c) a gyermek szülőjének vagy a gyermeket korábban gondozó más személynek a véleményét a javasolt gondozási helyről, a kapcsolattartásról és az őt érintő egyéb kérdésekről,
+
+d) az ítélőképessége birtokában lévő gyermek véleményét a számára javasolt gondozási helyről és kapcsolattartásról, amelyet
+
+da) a gyermek személyes meghallgatása útján szerez be, ha az szükséges és nem ellentétes a gyermek érdekeivel,
+
+db) a gyermeket gondozó intézmény, személy útján vagy a megyei (fővárosi), illetve országos gyermekvédelmi szakértői bizottság szakvéleményéből szerez be, ha a gyermek meghallgatása szükségtelen vagy ellentétes az érdekeivel.
+
+(13) A gondozási hely meghatározására irányuló eljárás során a szülő – ha szülői felügyeleti jogát nem szüntették meg – kérheti, hogy a gyermeket nevelőszülőnél, gyermekotthonban, fogyatékosok vagy pszichiátriai betegek otthonában helyezzék el. A kért elhelyezési módtól különösen akkor lehet eltérni, ha az ellentétes a gyermek érdekével vagy az elhelyezés feltételei nem állnak fenn.
+
+[^595]: A 103. §-t megelőző alcím a 257/2013. (VII. 5.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^596]: A 103. § a 257/2013. (VII. 5.) Korm. rendelet 6. §-ával megállapított szöveg.

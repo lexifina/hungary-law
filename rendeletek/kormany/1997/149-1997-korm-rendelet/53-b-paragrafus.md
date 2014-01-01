@@ -1,6 +1,6 @@
-## 53/A. §[^262] Az örökbefogadott származásával kapcsolatos tények megismerésére irányuló kérelem esetén a gyámhivatal a vér szerinti szülő, illetve a testvér, féltestvér meghallgatása nélkül tájékoztatja a kérelmezőt arról, hogy örökbe fogadták-e, él-e a vér szerinti szülője, és a felderíthető adatok szerint van-e testvére, féltestvére. A tájékoztatás megadásához a gyámhivatal szükség esetén megkeresi az örökbefogadásban közreműködő területi gyermekvédelmi szakszolgálatot és az örökbefogadást engedélyező gyámhivatalt.
+## 53/A. §[^303] Az örökbefogadott származásával kapcsolatos tények megismerésére irányuló kérelem esetén a gyámhivatal a vér szerinti szülő, illetve a testvér, féltestvér meghallgatása nélkül tájékoztatja a kérelmezőt arról, hogy örökbe fogadták-e, él-e a vér szerinti szülője, és a felderíthető adatok szerint van-e testvére, féltestvére. A tájékoztatás megadásához a gyámhivatal szükség esetén megkeresi az örökbefogadásban közreműködő területi gyermekvédelmi szakszolgálatot és az örökbefogadást engedélyező gyámhivatalt.
 
-53/B. §[^263] (1) A vér szerinti szülő, testvér, féltestvér természetes személyazonosító adatainak megismerésére irányuló kérelem esetén a gyámhivatal – a vér szerinti szülő, testvér, féltestvér felkutatása érdekében – megkeresi az örökbefogadásban közreműködő területi gyermekvédelmi szakszolgálatot, illetve az örökbefogadást engedélyező gyámhivatalt azzal, hogy a nyilvántartásukban, illetve irataik között van-e adat az örökbefogadott gyermek szülőjére, testvérére, féltestvérére vonatkozóan. Indokolt esetben több területi gyermekvédelmi szakszolgálat is megkereshető.
+53/B. §[^304] (1) A vér szerinti szülő, testvér, féltestvér természetes személyazonosító adatainak megismerésére irányuló kérelem esetén a gyámhivatal – a vér szerinti szülő, testvér, féltestvér felkutatása érdekében – megkeresi az örökbefogadásban közreműködő területi gyermekvédelmi szakszolgálatot, illetve az örökbefogadást engedélyező gyámhivatalt azzal, hogy a nyilvántartásukban, illetve irataik között van-e adat az örökbefogadott gyermek szülőjére, testvérére, féltestvérére vonatkozóan. Indokolt esetben több területi gyermekvédelmi szakszolgálat is megkereshető.
 
 (2) A gyámhivatal az 53. § (5) bekezdése és az (1) bekezdés szerint beszerzett adatok alapján
 
@@ -18,5 +18,5 @@ b) az örökbefogadott kiskorú örökbefogadó szülőjét vagy más törvénye
 
 (5) A gyámhivatal tájékoztatást nyújt a kért adatokról, feltéve, hogy azt a Csjt. 53/A. § (5) bekezdése nem zárja ki a kért adatok közlését. Ebben az esetben a gyámhivatal elutasítja a tájékoztatás megadását.
 
-[^262]: Az 53/A. §-t a 349/2012. (XII. 12.) Korm. rendelet 15. §-a iktatta be.
-[^263]: Az 53/B. §-t a 349/2012. (XII. 12.) Korm. rendelet 15. §-a iktatta be.
+[^303]: Az 53/A. §-t a 349/2012. (XII. 12.) Korm. rendelet 15. §-a iktatta be.
+[^304]: Az 53/B. §-t a 349/2012. (XII. 12.) Korm. rendelet 15. §-a iktatta be.

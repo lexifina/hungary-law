@@ -1,15 +1,11 @@
-104. §[^585] (1) A gyámhivatalnak a gyermek gondozási helyének meghatározásához be kell szereznie a gyermekjóléti szolgálat javaslatát, feltéve, hogy nem vett részt a gyermekvédelmi szakszolgálat által összehívott elhelyezési értekezleten.
+104. §[^597] (1) A gyámhivatal az elhelyezési javaslatot és egyéni elhelyezési tervet akkor fogadja el, ha az megfelel a megyei, fővárosi gyermekvédelmi szakértői bizottság egyéni elhelyezési tervre vonatkozó javaslatának és a 107. §-ban foglaltaknak.
 
-(2) A gyermek gondozási helyének meghatározásánál figyelemmel kell lenni a Gyvt. 82. §-ának (2)–(3) bekezdésében meghatározott szempontokra.
+(2) Ha a gyámhivatal a gyermekvédelmi szakszolgálat elhelyezési javaslatával és egyéni elhelyezési tervével nem ért egyet, a gyermekvédelmi szakszolgálat a gyermek gondozási helyének meghatározására irányuló tárgyalást követő nyolc napon belül új elhelyezési javaslatot és egyéni elhelyezési tervet terjeszt elő.
 
-(3) A megyei (fővárosi), illetve országos gyermekvédelmi szakértői bizottság véleménye alapján a speciális ellátást igénylő gyermek számára az állapotának megfelelő gondozási helyet kell kijelölni.
+(3) Ha a gyámhivatal nem ért egyet a gyermek személyiségállapotához, illetve a megállapított ellátási szükségletéhez igazodó gondozási hely vonatkozásában az új elhelyezési javaslattal és egyéni elhelyezési tervvel sem, kikéri az országos gyermekvédelmi szakértői bizottság szakvéleményét.
 
-(4) A tartósan beteg vagy fogyatékos, valamint a kora miatt sajátos szükségletekkel bíró gyermek számára különleges ellátást biztosító gondozási helyet kell kijelölni. Ennek érdekében a gyámhivatal beszerzi a Gyvt. 132. §-ának (3) és (5) bekezdésében meghatározott szerv vagy személy szakvéleményét.
+(4) A gyámhivatal a gyermekvédelmi szakszolgálat új elhelyezési javaslatának és egyéni elhelyezési tervének előterjesztését vagy az országos gyermekvédelmi szakértői bizottság véleményének kikérését követően az elhelyezési tervet módosítja és megküldi a gyermekvédelmi szakszolgálatnak.
 
-(5) A gyermek nemzetiségi, vallási és kulturális hovatartozásának az a gondozási hely felel meg, amely biztosítja
+(5) Ha az érdemi határozat elleni fellebbezésben a megyei, fővárosi gyermekvédelmi szakértői bizottság szakvéleményének felülvizsgálatát kérték, a szociális és gyámhivatal a szakvélemény felülvizsgálata érdekében megkeresi az országos gyermekvédelmi szakértői bizottságot.
 
-a) a nemzetiségi és kulturális hovatartozásának megfelelő nyelvi és egyéb ismeretek megszerzését és gyakorlását, továbbá a megfelelő társadalmi kapcsolatok fenntartását,
-
-b) a vallási hovatartozásnak megfelelő vallási oktatás igénybevételét és a vallás gyakorlását.
-
-[^585]: A 104. § a 14/2003. (II. 12.) Korm. rendelet 63. §-ával megállapított szöveg. E módosító rendelet 98. §-ának (1) bekezdése alapján a 2003. február 15. napja után indult ügyekben kell alkalmazni, a folyamatban lévő első és másodfokú ügyekben a korábbi rendelkezések az irányadóak.
+[^597]: A 104. § a 97/2013. (III. 29.) Korm. rendelet 35. §-ával megállapított szöveg.

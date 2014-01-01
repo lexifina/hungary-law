@@ -1,34 +1,45 @@
 ## A határozat tartalma
 
-## 125. § Az utógondozói ellátásról szóló határozat rendelkező része a 14. §-ban foglaltakon kívül tartalmazza
+## 125. §[^637] Az utógondozói ellátásról szóló határozat rendelkező része a 14. §-ban foglaltakon kívül tartalmazza
 
-a)[^649] az utógondozói ellátást biztosító nevelőszülő, gyermekotthon, utógondozói otthon vagy lakhatást nyújtó külső férőhely megnevezését,
+a) az utógondozói ellátást biztosító
 
-b)[^650] az utógondozói ellátás jogcímét és kezdő időpontját,
+aa) nevelőszülőnek és a nevelőszülői hálózat működtetőjének,
 
-c)[^651] a fiatal felnőtt számára meghatározott magatartási szabályokat, így különösen:
+ab) gyermekotthonnak és működtetőjének,
 
-ca) a munkaügyi központtal való együttműködést, ha nappali tagozaton tanulmányokat nem folytat és munkaképes,
+ac) utógondozó otthonnak és működtetőjének,
 
-cb) a nevelőszülőjével szembeni megfelelő magatartásra való felhívást,
+ad) lakhatást nyújtó külső férőhelynek és működtetőjének
 
-cc) a gyermekotthon, utógondozói otthon házirendjének betartására való felhívást,
+a megnevezését;
 
-cd) a lakhatást nyújtó külső férőhelyen a férőhely működtetőjével kötött megállapodásban foglaltak betartására való felhívást,
+b) az utógondozói ellátás elrendelésének a Gyvt. 93. § (1) bekezdésében meghatározott okát és kezdő időpontját;
 
-ce)[^652] az utógondozóval való együttműködési kötelezettségre történő felhívást.
+c) a fiatal felnőtt számára meghatározott magatartási szabályokat, így különösen felhívást
 
-d) a fiatal felnőttnek az utógondozói ellátás igénybevétele elmulasztásából származó jogkövetkezményekre való figyelmeztetését,
+ca) a munkavállalással járó kötelezettségek maradéktalan teljesítésére,
 
-e) az utógondozói ellátásban részesülő felhívását arra, hogy a jogosultság feltételeinek megváltozását vagy megszűnését a gyámhivatalnak 15 napon belül jelentse be,
+cb) a munkavállaláshoz szükséges lépések megtételére,
 
-f)[^653] az utógondozás elrendelését,
+cc) tanulmányi és vizsgakötelezettségeinek teljesítésére,
 
-g)[^654] annak megállapítását, hogy a tanulói vagy hallgatói jogviszonyban álló fiatal felnőtt halmozottan hátrányos helyzetű.
+cd) a nevelőszülőjével, utógondozójával, az utógondozói ellátást nyújtó intézmény munkatársaival és az intézményben ellátott társaival szembeni megfelelő magatartásra,
 
-[^649]: A 125. § a) pontja a 14/2003. (II. 12.) Korm. rendelet 79. §-ával megállapított szöveg. E módosító rendelet 98. §-ának (1) bekezdése alapján a 2003. február 15. napja után indult ügyekben kell alkalmazni, a folyamatban lévő első és másodfokú ügyekben a korábbi rendelkezések az irányadóak.
-[^650]: Az 125. § b) pontja a 224/1998. (XII. 30.) Korm. rendelet 17. §-ával megállapított szöveg.
-[^651]: A 125. § c) pontja a 14/2003. (II. 12.) Korm. rendelet 79. §-ával megállapított szöveg. E módosító rendelet 98. §-ának (1) bekezdése alapján a 2003. február 15. napja után indult ügyekben kell alkalmazni, a folyamatban lévő első és másodfokú ügyekben a korábbi rendelkezések az irányadóak.
-[^652]: A 125. § c) pontjának ce) alpontját a 315/2005. (XII. 25.) Korm. rendelet 63. § (1) bekezdése iktatta be.
-[^653]: A 125. § f) pontját a 315/2005. (XII. 25.) Korm. rendelet 63. § (2) bekezdése iktatta be.
-[^654]: A 125. § g) pontját a 97/2013. (III. 29.) Korm. rendelet 47. §-a iktatta be.
+ce) a gyermekotthon, utógondozó otthon, külső férőhely házirendjének betartására,
+
+cf) az utógondozói ellátást nyújtó nevelőszülővel és működtetőjével, a gyermekotthonnal, utógondozó otthonnal kötött megállapodásban foglalt kötelezettségei megtartására,
+
+cg) a lakhatást nyújtó külső férőhelyen a férőhely működtetőjével, tulajdonosával kötött megállapodásban foglaltak betartására,
+
+ch) a nevelőszülőjével, utógondozójával, az utógondozói ellátást nyújtó intézmény munkatársaival való együttműködési kötelezettség betartására;
+
+d) a fiatal felnőttnek az utógondozói ellátás igénybevétele elmulasztásából származó jogkövetkezményekre vonatkozó figyelmeztetését;
+
+e) a fiatal felnőtt felhívását arra, hogy a jogosultság feltételeinek megváltozását vagy megszűnését a gyámhivatalnak 15 napon belül jelentse be;
+
+f) az utógondozói ellátást nyújtó intézmény vezetőjének felhívását arra, hogy 15 napon belül tájékoztassa a gyámhivatalt az utógondozó személyéről, illetve az utógondozó személyében vagy az utógondozói ellátás helyében bekövetkező változásról;
+
+g) annak megállapítását, hogy a tanulói vagy hallgatói jogviszonyban álló fiatal felnőtt halmozottan hátrányos helyzetű.
+
+[^637]: A 125. § a 97/2013. (III. 29.) Korm. rendelet 48. §-ával megállapított szöveg.

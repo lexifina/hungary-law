@@ -1,6 +1,6 @@
-## Természetbeni támogatás[^307]
+## Természetbeni támogatás[^348]
 
-68. §[^308] (1) A Gyvt. 20/A. §-ában meghatározott természetbeni támogatás (a továbbiakban: támogatás) nyújtásáról nem kell döntést hozni.
+68. §[^349] (1) A Gyvt. 20/A. §-ában meghatározott természetbeni támogatás (a továbbiakban: támogatás) nyújtásáról nem kell döntést hozni.
 
 (2) A jegyző a 4. számú melléklet szerinti adatlapon
 
@@ -10,7 +10,7 @@ b) a tárgyév november hónapjára tekintettel járó támogatás nyújtásáho
 
 ## értesíti a Magyar Államkincstár területi szervét (a továbbiakban: Igazgatóság) a Gyvt. 20/A. §-a alapján megállapított támogatás összegéről.
 
-(3)[^309] Az Igazgatóság a beérkezett adatokat feldolgozza, és a Magyar Államkincstár az összesített adatok alapján
+(3)[^350] Az Igazgatóság a beérkezett adatokat feldolgozza, és a Magyar Államkincstár az összesített adatok alapján
 
 a) a tárgyév augusztus hónapjára tekintettel járó támogatás nyújtásához tárgyév augusztus 15-éig,
 
@@ -18,11 +18,11 @@ b) a tárgyév november hónapjára tekintettel járó támogatás nyújtásáho
 
 rendelkezik a 4. számú melléklet szerint igényelt támogatási összegnek az Erzsébet Utalványforgalmazó és Gazdasági Szolgáltató Korlátolt Felelősségű Társaság (a továbbiakban: Erzsébet Utalványforgalmazó Kft.) részére történő átutalásáról, és ezzel egyidejűleg az adatokat – tájékoztatás céljából – megyénként, önkormányzatonkénti bontásban – számítógépes hálózaton – megküldi a miniszter által vezetett minisztériumnak (a továbbiakban: Minisztérium).
 
-(4)[^310] Az Igazgatóság a (2) bekezdés szerinti adatokat – településsoros bontásban –, a (3) bekezdésben meghatározott határidőig továbbítja az Erzsébet Utalványforgalmazó Kft. részére az Erzsébet-utalványok előállítása érdekében.
+(4)[^351] Az Igazgatóság a (2) bekezdés szerinti adatokat – településsoros bontásban –, a (3) bekezdésben meghatározott határidőig továbbítja az Erzsébet Utalványforgalmazó Kft. részére az Erzsébet-utalványok előállítása érdekében.
 
-(5)–(6)[^311]
+(5)–(6)[^352]
 
-(7)[^312] Az Erzsébet Utalványforgalmazó Kft.
+(7)[^353] Az Erzsébet Utalványforgalmazó Kft.
 
 a) a tárgyév augusztus hónapjára tekintettel járó támogatás nyújtásához tárgyév augusztus 24-éig,
 
@@ -32,7 +32,7 @@ eljuttatja a települési önkormányzatok részére az Erzsébet-utalványokat.
 
 (8) Az Erzsébet-utalvány jogosultak részére történő haladéktalan kézbesítéséről – igazolható módon – a jegyző postai úton, személyes átadás vagy hatósági kézbesítő útján gondoskodik.
 
-(9)[^313] Az Erzsébet Utalványforgalmazó Kft., illetve a települési önkormányzat az Erzsébet-utalvány jogosultak részére történő közvetlen kézbesítéséről harmadik féllel kötött megállapodás alapján is gondoskodhat.
+(9)[^354] Az Erzsébet Utalványforgalmazó Kft., illetve a települési önkormányzat az Erzsébet-utalvány jogosultak részére történő közvetlen kézbesítéséről harmadik féllel kötött megállapodás alapján is gondoskodhat.
 
 (10) A jegyző
 
@@ -46,7 +46,7 @@ pótigényt nyújthat be azzal, hogy pótigény különösen azon jogosult tekin
 
 (12) A pótigény teljesítésére irányadó határidők a (3)–(7) bekezdésben meghatározott hónapot követő hónap azonos napján járnak le.
 
-(13)[^314] Az Erzsébet Utalványforgalmazó Kft. az Erzsébet-utalványt térítésmentesen – az utalvány ellenértékének a Magyar Államkincstár részére történő visszatérítése mellett – visszaváltja, ha az utalványt nem lehet kézbesíteni, mert
+(13)[^355] Az Erzsébet Utalványforgalmazó Kft. az Erzsébet-utalványt térítésmentesen – az utalvány ellenértékének a Magyar Államkincstár részére történő visszatérítése mellett – visszaváltja, ha az utalványt nem lehet kézbesíteni, mert
 
 a) a jogosultságot a kézbesítést megelőzően – a Gyvt. 20/A. § (1) bekezdése szerinti időpontra visszamenőlegesen – meg kellett szüntetni,
 
@@ -54,7 +54,7 @@ b) a jegyző illetékessége az igénylést követően megszűnt, vagy
 
 c) a jogosult az Erzsébet-utalványt annak a települési önkormányzathoz történő megérkezését vagy – a (9) bekezdés szerinti megállapodás alapján közvetlenül kézbesített utalvány esetében – a kézbesítés megkísérlését követő két hónapon belül nem vette át.
 
-(14)[^315] A jegyző a (13) bekezdés szerint visszaváltással érintett Erzsébet-utalványt – ideértve a (9) bekezdés szerinti megállapodás alapján megkísérelt közvetlen kézbesítés meghiúsulását követően a települési önkormányzatnál letétbe helyezett utalványt is –
+(14)[^356] A jegyző a (13) bekezdés szerint visszaváltással érintett Erzsébet-utalványt – ideértve a (9) bekezdés szerinti megállapodás alapján megkísérelt közvetlen kézbesítés meghiúsulását követően a települési önkormányzatnál letétbe helyezett utalványt is –
 
 a) a tárgyév augusztus hónapjára tekintettel járó támogatás esetén tárgyév december 10-éig,
 
@@ -64,7 +64,7 @@ az Erzsébet Utalványforgalmazó Kft. részére – igazolható módon – elju
 
 (15) A visszaváltási adatközlés keretében a jegyző megjelöli az Erzsébet-utalványok tömb szerinti darabszámát, és az érintett tömb(ök) sorszámát. A visszaváltott utalványok ellenértékéről a jegyző az Igazgatóságot a visszaváltási adatközlés teljesítésével egyidejűleg elektronikus úton is tájékoztatja.
 
-(16)[^316] Az Erzsébet Utalványforgalmazó Kft. a (13) bekezdés szerint átvett Erzsébet-utalványok ellenértékét a Magyar Államkincstár részére
+(16)[^357] Az Erzsébet Utalványforgalmazó Kft. a (13) bekezdés szerint átvett Erzsébet-utalványok ellenértékét a Magyar Államkincstár részére
 
 a) a (14) bekezdés a) pontja szerinti esetben tárgyév december 20-áig,
 
@@ -74,13 +74,13 @@ b) a (14) bekezdés b) pontja szerinti esetben a tárgyévet követő év márci
 
 (17) A Magyar Államkincstár a (16) bekezdés szerinti határidők lejártát követő 10 munkanapon belül tájékoztatja a Minisztériumot a visszaváltott utalványok ellenértékéről.
 
-[^307]: A 68. §-t megelőző alcím a 236/2012. (VIII. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^308]: A 68. § a 236/2012. (VIII. 30.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^309]: A 68. § (3) bekezdése a 98/2013. (III. 29.) Korm. rendelet 8. §-ával megállapított, záró szövegrésze a 257/2013. (VII. 5.) Korm. rendelet 13. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^310]: A 68. § (4) bekezdése a 257/2013. (VII. 5.) Korm. rendelet 13. § (1) bekezdés b) pontja szerint módosított szöveg.
-[^311]: A 68. § (5)–(6) bekezdését a 98/2013. (III. 29.) Korm. rendelet 24. § (1) bekezdés b) pontja hatályon kívül helyezte.
-[^312]: A 68. § (7) bekezdés nyitó szövegrésze a 257/2013. (VII. 5.) Korm. rendelet 13. § (1) bekezdés b) pontja szerint módosított szöveg.
-[^313]: A 68. § (9) bekezdése a 257/2013. (VII. 5.) Korm. rendelet 13. § (1) bekezdés b) pontja szerint módosított szöveg.
-[^314]: A 68. § (13) bekezdése a 257/2013. (VII. 5.) Korm. rendelet 13. § (1) bekezdés b) pontja szerint módosított szöveg.
-[^315]: A 68. § (14) bekezdés záró szövegrésze a 257/2013. (VII. 5.) Korm. rendelet 13. § (1) bekezdés b) pontja szerint módosított szöveg.
-[^316]: A 68. § (16) bekezdés nyitó szövegrésze a 257/2013. (VII. 5.) Korm. rendelet 13. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^348]: A 68. §-t megelőző alcím a 236/2012. (VIII. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^349]: A 68. § a 236/2012. (VIII. 30.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^350]: A 68. § (3) bekezdése a 98/2013. (III. 29.) Korm. rendelet 8. §-ával megállapított, záró szövegrésze a 257/2013. (VII. 5.) Korm. rendelet 13. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^351]: A 68. § (4) bekezdése a 257/2013. (VII. 5.) Korm. rendelet 13. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^352]: A 68. § (5)–(6) bekezdését a 98/2013. (III. 29.) Korm. rendelet 24. § (1) bekezdés b) pontja hatályon kívül helyezte.
+[^353]: A 68. § (7) bekezdés nyitó szövegrésze a 257/2013. (VII. 5.) Korm. rendelet 13. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^354]: A 68. § (9) bekezdése a 257/2013. (VII. 5.) Korm. rendelet 13. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^355]: A 68. § (13) bekezdése a 257/2013. (VII. 5.) Korm. rendelet 13. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^356]: A 68. § (14) bekezdés záró szövegrésze a 257/2013. (VII. 5.) Korm. rendelet 13. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^357]: A 68. § (16) bekezdés nyitó szövegrésze a 257/2013. (VII. 5.) Korm. rendelet 13. § (1) bekezdés b) pontja szerint módosított szöveg.

@@ -1,1 +1,0 @@
-## A tartós nevelésbe vétel

@@ -1,4 +1,4 @@
-## XI/A. Fejezet[^426]
+## XI/A. Fejezet[^469]
 
 ## A hátrányos, halmozottan hátrányos helyzet fennállásának megállapítása
 
@@ -26,4 +26,4 @@ alapján állapítja meg.
 
 (6) A települési önkormányzat jegyzője a hátrányos, halmozottan hátrányos helyzet fennállását megállapító határozatát, a határozat jogerőre emelkedését követő öt napon belül tájékoztatásul megküldi annak a bölcsődének, nevelési-oktatási vagy felsőoktatási intézménynek, ahol a gyermek bölcsődei ellátásban részesül, vagy amellyel a gyermek (nagykorúvá vált gyermek) óvodai, tanulói vagy hallgatói jogviszonyban áll.
 
-[^426]: A XI/A. Fejezetet (83/A. §) a 257/2013. (VII. 5.) Korm. rendelet 4. §-a iktatta be.
+[^469]: A XI/A. Fejezetet (83/A. §) a 257/2013. (VII. 5.) Korm. rendelet 4. §-a iktatta be.

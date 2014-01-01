@@ -1,20 +1,13 @@
-## 124. § A gyámhivatal a fiatal felnőtt kérelmének benyújtását követően az utógondozói ellátás elrendeléséhez beszerzi
+124. §[^636] (1) A fiatal felnőtt az utógondozói ellátásra irányuló kérelméhez csatolja
 
-a) a fiatal felnőtt jövedelemigazolását vagy a munkaügyi központnak a nyilvántartásba vételéről szóló értesítését,
+a) jövedelemnyilatkozatát az azt alátámasztó igazolásokkal együtt, vagy igazolást az álláskeresőként való nyilvántartásba vételéről,
 
-b) a középfokú, felsőfokú tanulói, hallgatói jogviszonyról a képző intézmény igazolását,
+b) a köznevelési, felsőoktatási intézmény igazolását a tanulói, hallgatói jogviszonyról vagy a felnőttképzési intézménnyel kötött felnőttképzési szerződés másolatát,
 
 c) a szociális bentlakásos intézménybe történő elhelyezéséről szóló határozatot vagy a szociális bentlakásos intézmény értesítését a felvétel várható időpontjáról,
 
-d)[^645]
+d) az ellátást biztosító nevelőszülő és működtetője együttes, a gyermekotthon, utógondozó otthon vagy külső férőhelyet működtető befogadó nyilatkozatát, vagy a befogadás megtagadásáról szóló nyilatkozatot.
 
-e)[^646] a fiatal felnőtt nagykorúvá válásának időpontjában a rendelkezésére bocsátott készpénz vagyon összegéről szóló igazolást,
+(2) A befogadás megtagadása esetén a gyámhivatal kikérheti az intézmény érdekképviseleti fórumának véleményét.
 
-f)[^647] a fiatal felnőtt és a közeli hozzátartozó nyilatkozatát arról, hogy lakhatása saját vagy közeli hozzátartozójának lakókörnyezetében nem megoldható,
-
-g)[^648] a környezettanulmányt.
-
-[^645]: A 124. § d) pontját a 28/2005. (II. 15.) Korm. rendelet 7. §-a (2) bekezdésének f) pontja hatályon kívül helyezte.
-[^646]: A 124. § e) pontját a 14/2003. (II. 12.) Korm. rendelet 78. §-a iktatta a szövegbe. E módosító rendelet 98. §-ának (1) bekezdése alapján a 2003. február 15. napja után indult ügyekben kell alkalmazni, a folyamatban lévő első és másodfokú ügyekben a korábbi rendelkezések az irányadóak.
-[^647]: A 124. § f) pontját a 14/2003. (II. 12.) Korm. rendelet 78. §-a iktatta a szövegbe. E módosító rendelet 98. §-ának (1) bekezdése alapján a 2003. február 15. napja után indult ügyekben kell alkalmazni, a folyamatban lévő első és másodfokú ügyekben a korábbi rendelkezések az irányadóak.
-[^648]: A 124. § g) pontját a 14/2003. (II. 12.) Korm. rendelet 78. §-a iktatta a szövegbe. E módosító rendelet 98. §-ának (1) bekezdése alapján a 2003. február 15. napja után indult ügyekben kell alkalmazni, a folyamatban lévő első és másodfokú ügyekben a korábbi rendelkezések az irányadóak.
+[^636]: A 124. § a 97/2013. (III. 29.) Korm. rendelet 46. §-ával megállapított szöveg.

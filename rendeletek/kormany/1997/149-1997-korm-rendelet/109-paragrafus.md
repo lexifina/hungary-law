@@ -1,28 +1,27 @@
-## 108. § A gyámhivatal szükség szerint a 107. § (2) bekezdésének a) pontjában foglaltak érdekében felhívja a szülőt a gyermekelhelyezési vagy a gyermekelhelyezés megváltoztatására irányuló per megindítására, vagy maga intézkedik a per megindítása iránt. Ha a bíróság a keresetet jogerősen elutasítja, a gyermek elhelyezésének más módját kell választani.
+## 108. §[^607] A gyámhivatal szükség szerint a 107. § (2) bekezdésének a) pontjában foglaltak érdekében felhívja a szülőt a gyermekelhelyezési vagy a gyermekelhelyezés megváltoztatására irányuló per megindítására, vagy maga intézkedik a per megindítása iránt. Ha a bíróság a keresetet jogerősen elutasítja, a gyermek elhelyezési javaslatát és egyéni elhelyezési tervét módosítani kell.
 
-## Az átmeneti nevelésbe vétel felülvizsgálata
+## A nevelésbe vétel felülvizsgálata[^608]
 
-109. §[^599] (1) A gyámhivatal az átmeneti nevelésbe vétel éves – a 3 éven aluli gyermek esetében féléves – felülvizsgálata során tájékoztatást kér a gyámtól, a gyermekjóléti szolgálattól, a gyermekvédelmi szakszolgálattól, a nevelőszülői hálózat működtetőjétől, illetve a gyermekotthontól, továbbá szükség esetén a megyei (fővárosi), illetve országos gyermekvédelmi szakértői bizottságtól.
+109. §[^609] (1) A gyámhivatal a nevelésbe vétel felülvizsgálata során tájékoztatást kér a gyermekvédelmi gyámtól, a vér szerinti családot gondozó gyermekjóléti szolgálattól, a gyermekvédelmi szakszolgálattól, a nevelőszülői hálózat vezetőjétől, illetve a gyermekotthontól, továbbá szükség szerint a megyei, fővárosi, illetve országos gyermekvédelmi szakértői bizottságtól.
 
-(2)[^600] A gyámhivatal a felülvizsgálat során tárgyalást tart, amelyre meghívhatja a szülőt, az ítélőképessége birtokában lévő gyermeket, valamint a gyermek gyámját, gondozóját, nevelőszülőjét, a gyermekjóléti szolgálat, a területi gyermekvédelmi szakszolgálat és a megyei (fővárosi), illetve országos gyermekvédelmi szakértői bizottság képviselőjét.
+(2) A gyámhivatal a felülvizsgálat során, szükség esetén tárgyalást tart, amelyen – a felülvizsgálat céljától függően – részt vesz a kapcsolattartásra jogosult szülő, a gyermek más hozzátartozója, az ítélőképessége birtokában lévő gyermek, valamint a gyermekvédelmi gyám, a gyermek gondozója, nevelőszülője, a gyermekjóléti szolgálat, a gyermekvédelmi szakszolgálat és a megyei, fővárosi, illetve országos gyermekvédelmi szakértői bizottság képviselője.
 
-(3) A gyámhivatal a gyermekvédelmi szakszolgálat, a gyám és a gyermekjóléti szolgálat javaslata, esetleg a megyei (fővárosi), illetve országos gyermekvédelmi szakértői bizottság szakvéleménye alapján
+(3) A gyámhivatal a gyermekvédelmi szakszolgálat, a gyermekvédelmi gyám és a gyermekjóléti szolgálat javaslata, szükség esetén a megyei, fővárosi, illetve országos gyermekvédelmi szakértői bizottság szakvéleménye alapján
 
-a) fenntartja vagy megszünteti a gyermek átmeneti nevelését [Gyvt. 79. § (1) bek.],
+a) fenntartja vagy megszünteti a gyermek nevelésbe vételét,
 
-b)[^601] dönt az egyéni elhelyezési terv fenntartásáról vagy módosításáról [Gyvt. 83. § (1) bek.],
+b) dönt az egyéni elhelyezési terv fenntartásáról vagy módosításáról,
 
-c) megváltoztatja a gyermek gondozási helyét [Gyvt. 83. § (3) bek.],
+c) szükség esetén megváltoztatja a gyermek gondozási helyét, a szülővel vagy más hozzátartozóval való kapcsolattartás szabályait, és dönt a Gyvt. 79. § (5) bekezdése szerinti járulékos kérdésekről,
 
-d) felmenti, vagy elmozdítja a gyámot és új gyámot rendel [Gyvt. 83. § (5) és 85. § (6) bek.],
+d) a gyermekvédelmi gyám javaslatára dönt a nevelőszülőnek egyes gyámi feladatok ellátására történő felhatalmazásáról,
 
-e) a feltételek fennállása esetén a szülői felügyelet megszüntetése iránt pert indít, vagy, ha ez nem szükséges, a gyermek örökbefogadhatónak nyilvánításáról dönt [Gyvt. 79. § (1) bek.].
+e) a feltételek fennállása esetén pert indít a szülői felügyelet megszüntetése vagy a gyermek elhelyezésének megváltoztatása iránt, vagy ha ez nem szükséges, a gyermek örökbefogadhatónak nyilvánítása céljából az iratanyagot megküldi a 37. § (2) bekezdése szerinti kijelölt gyámhivatalnak.
 
-(4) Az átmeneti nevelésbe vétel fenntartása esetén a határozatban rendelkezik a következő felülvizsgálat határidejéről.
+(4) A nevelésbe vétel fenntartása esetén a gyámhivatal határozatban rendelkezik a következő felülvizsgálat időpontjáról.
 
-(5)[^602] Ha a gyámhivatal illetékessége a gyermek lakóhelyének megváltozása miatt változik meg, erről az újonnan illetékes gyámhivatal értesíti az (1) bekezdésben felsorolt szerveket, valamint személyeket, és indokolt esetben elvégzi a felülvizsgálatot.
+(5) Ha a gyámhivatal illetékessége megváltozik, erről az újonnan illetékes gyámhivatal értesíti az (1) bekezdésben felsorolt szerveket és személyeket, valamint indokolt esetben elvégzi a felülvizsgálatot.
 
-[^599]: A 109. § a 14/2003. (II. 12.) Korm. rendelet 68. §-ával megállapított szöveg. E módosító rendelet 98. §-ának (1) bekezdése alapján a 2003. február 15. napja után indult ügyekben kell alkalmazni, a folyamatban lévő első és másodfokú ügyekben a korábbi rendelkezések az irányadóak.
-[^600]: A 109. § (2) bekezdése a 275/2008. (XI. 21.) Korm. rendelet 23. § (4) bekezdés b) pontja szerint módosított szöveg.
-[^601]: A 109. § (3) bekezdés b) pontja a 275/2008. (XI. 21.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^602]: A 109. § (5) bekezdése a 315/2005. (XII. 25.) Korm. rendelet 59. §-ával megállapított szöveg.
+[^607]: A 108. § a 97/2013. (III. 29.) Korm. rendelet 65. § (3) bekezdés 13. pontja szerint módosított szöveg.
+[^608]: A 109. §-t megelőző alcím a 97/2013. (III. 29.) Korm. rendelet 40. §-ával megállapított szöveg.
+[^609]: A 109. § a 97/2013. (III. 29.) Korm. rendelet 40. §-ával megállapított szöveg.

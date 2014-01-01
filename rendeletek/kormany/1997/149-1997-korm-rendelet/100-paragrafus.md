@@ -1,28 +1,21 @@
-100. § (1) Ha a gyámhivatal a Gyvt. 77. §-ának (1) bekezdése alapján a gyermeket átmeneti nevelésbe veszi, a gyermek az otthont nyújtó ellátás keretében teljes körű ellátást és segítséget kap a fejlődését veszélyeztető körülmények elhárításához, a családi környezetébe történő visszahelyezéséhez.
+## egy eljárás keretében, harmincöt napon belül, fellebbezésre tekintet nélkül végrehajthatóvá nyilvánított határozatban dönt.
 
-(2) A gyámhivatal a gyermek átmeneti nevelésbe vételére irányuló eljárása során
+100. §[^592] (1) Ha a gyámhivatal a Gyvt. 78. § (1) bekezdése alapján a gyermeket nevelésbe veszi, a gyermek jogosult az otthont nyújtó ellátásra.
 
-a) feltárja azokat a körülményeket, amelyek a szülőt akadályozzák a gyermek nevelésében és a veszélyeztetettség elhárításában, így különösen a szülők, más családtagok személyiségével, egészségi állapotával, a gyermekhez fűződő viszonyával, életvitelével és szociális helyzetével kapcsolatos lényeges körülményeket,
+(2) A gyámhivatal a gyermek nevelésbe vételére irányuló eljárása során feltárja azokat a körülményeket, amelyek a szülőt akadályozzák a gyermek nevelésében és a veszélyeztetettség elhárításában, így különösen a szülők, más családtagok személyiségével, egészségi állapotával, a gyermekhez fűződő viszonyával, életvitelével és szociális helyzetével kapcsolatos lényeges körülményeket, valamint tájékozódik a gyermek vagyoni helyzetéről, ennek érdekében
 
-b) feltárja a gyermek személyiségével, neveltségi és egészségi állapotával kapcsolatos körülményeket,
+a) lehetőség szerint meghallgatja a szülőt, kivéve, ha a bíróság megszüntette a szülő szülői felügyeleti jogát,
 
-c)[^557] beszerzi a gyermekjóléti szolgálatnál keletkezett iratokat, valamint felkéri a hagyatéki ügyben eljáró hatóságot a gyermek ingó- és ingatlanvagyonának leltározására,
+b) megkeresi a gyermekjóléti szolgálatot, hogy végezzen környezettanulmányt, küldje meg az előzményi iratokat és tegyen javaslatot a nevelésbe vétel tárgyában,
 
-d)[^558] meghallgatja a szülőt a gyermek iskolájának, életpályájának, illetve tartózkodási helyének kijelölésével kapcsolatban és nyilatkoztatja azokról az adatokról, amelyek a gyermek után járó ellátások igénybevételéhez szükségesek,
+c) a szükséges iratok megküldésével megkeresi a gyermekvédelmi szakszolgálatot, hogy tegyen javaslatot
 
-e) javaslatot szerez be a gyermek gondozási helyének meghatározásához,
+ca) a gyermek gondozási helyére és a gyermekvédelmi gyám személyére,
 
-f) beszerzi a szülő vagy tartásra köteles más személy jövedelmi és vagyoni helyzetére vonatkozó igazolásokat,
+cb) a kapcsolattartás módjára, formájára és helyére,
 
-g) a gyermek tartózkodási helyén környezettanulmányt készít,
+d) szükség esetén háziorvosi igazolást szerez be a gyermek tartós vagy fertőző betegségéről,
 
-h)[^559] beszerzi a gyermek születési anyakönyvi másolatát, és ha szükséges eljár az 54. § (1) bekezdése alapján.
+e) megvizsgálja, hogy a gyermek részesül-e a Gyvt. 19. §-a szerinti rendszeres gyermekvédelmi kedvezményben.
 
-i)[^560]
-
-(3) A gyámhivatal a (2) bekezdés b) pontjában foglaltak vizsgálata során szükség esetén beszerzi a Gyvt. 132. §-ának (1) bekezdésében meghatározott szerv vagy személy szakvéleményét. A gyámhivatal indokolt esetben a szakértőket közös szakvélemény elkészítésére kérheti fel vagy őket együttesen hallgathatja meg.
-
-[^557]: A 100. § (2) bekezdés c) pontja a 174/2012. (VII. 26.) Korm. rendelet 12. § (14) bekezdésével megállapított szöveg.
-[^558]: A 100. § (2) bekezdésének d) pontja a 14/2003. (II. 12.) Korm. rendelet 59. §-ával megállapított szöveg. E módosító rendelet 98. §-ának (1) bekezdése alapján a 2003. február 15. napja után indult ügyekben kell alkalmazni, a folyamatban lévő első és másodfokú ügyekben a korábbi rendelkezések az irányadóak.
-[^559]: A 100. § (2) bekezdésének h) pontja a 14/2003. (II. 12.) Korm. rendelet 59. §-ával megállapított szöveg. E módosító rendelet 98. §-ának (1) bekezdése alapján a 2003. február 15. napja után indult ügyekben kell alkalmazni, a folyamatban lévő első és másodfokú ügyekben a korábbi rendelkezések az irányadóak.
-[^560]: A 100. § (2) bekezdésének i) pontját a 14/2003. (II. 12.) Korm. rendelet 99. §-a (1) bekezdésének b) pontja hatályon kívül helyezte.
+[^592]: A 100. § a 97/2013. (III. 29.) Korm. rendelet 32. §-ával megállapított szöveg.
