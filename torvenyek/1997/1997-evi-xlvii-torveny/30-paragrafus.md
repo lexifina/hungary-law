@@ -24,7 +24,7 @@ részére kell átadni.
 
 (6a) A betegjogi, ellátottjogi és gyermekjogi képviselő eljárása során keletkezett – egészségügyi és személyazonosító adatot is tartalmazó – dokumentációt az eljárás befejezését követően át kell adni a (4) bekezdés b) pontja szerinti szervnek.
 
-(7) A gyógyszertár a vényeket 5 évig őrzi meg. A kötelező őrzési időt követően a vényeket meg kell semmisíteni.
+(7) A gyógyszer, gyógyászati segédeszköz és gyógyászati ellátás kiszolgáltatója, illetve nyújtója a vényeket 5 évig őrzi meg. Gyógyászati segédeszköz szaküzletben kiszolgáltatott olyan gyógyászati segédeszköz esetén, amelynek kihordási ideje 5 évnél hosszabb, a vény megőrzési ideje a kihordási idővel azonos. A kötelező őrzési időt követően a vényeket meg kell semmisíteni.
 
 (8) Az adatmegőrzés érdekében folyamatosan biztosítani kell, hogy az adathordozó az adott technikai feltételek mellett olvasható maradjon, vagy olvasható állapotba kerüljön.
 

@@ -1,1 +1,15 @@
-22/B–22/D. §
+## Központi implantátumregiszter
+
+22/B. § (1) Az egészségügyről szóló 1997. évi CLIV. törvény 101/C. § (1) bekezdése szerinti adatokat tartalmazó nyilvántartás adatainak az implantátum beültetésével, kivételével és cseréjével kapcsolatos beavatkozáson átesett érintett további gyógykezelése, egészségi állapotának nyomon követése, váratlan esemény gyors elhárítása, valamint a beültethető orvostechnikai eszközök megfelelőségének ellenőrzése céljából vezetett központi implantátumregiszter részére történő továbbítását követően a központi implantátumregisztert működtető egészségbiztosítási szerv a személyazonosító adatok tekintetében kapcsolati kódot képez. A kapcsolati kódot az egészségbiztosítási szerv minden személyazonosító adat tekintetében azonos kódképzési módszer alapján hozza létre úgy, hogy az a személyes adatokra történő visszafejtést ne tegye lehetővé és ugyanazon beteg tekintetében valamennyi adattovábbítás – függetlenül a beavatkozást végző egészségügyi szolgáltatótól – azonos kapcsolati kódhoz kapcsolódjon.
+
+(2) Az (1) bekezdés szerinti kapcsolati kódot az egészségbiztosítási szerv az általa működtetett informatikai alkalmazás útján megküldi a nyilvántartást vezető egészségügyi szolgáltatónak. A kapcsolati kódot fel kell tüntetni az egészségügyi dokumentációban.
+
+(3) Az orvostechnikai eszközökkel kapcsolatos hatósági feladatok ellátására kijelölt szerv az orvostechnikai eszközökkel kapcsolatos hatósági feladatok ellátása céljából a központi implantátumregiszterben kapcsolati kóddal ellátott, személyazonosításra alkalmatlan adatokat megismerheti.
+
+(4) Az egészségbiztosítási szerv a központi implantátumregiszterben tárolt, személyazonosításra alkalmatlan adatokról kapcsolati kóddal ellátva, kérelemre 8 napon belül, illetve ha az implantátumot viselő személyek egészségének védelme érdekében szükséges, haladéktalanul, elektronikus úton tájékoztatást nyújt az egészségügyi államigazgatási szerv és a szakmai minőségértékelésért felelős szerv részére.
+
+(5) Az egészségügyi szolgáltatónak a betegdokumentációban feltüntetett kapcsolati kódot tartalmazó kérelemére az egészségbiztosítási szerv a központi implantátumregiszterben tárolt adatokról kapcsolati kóddal ellátva haladéktalanul elektronikus úton tájékoztatást nyújt az egészségügyi szolgáltató által kezelt személyen korábban végzett, implantátumot érintő beavatkozással kapcsolatban.
+
+(6) Ha az implantátumot viselő személy tekintetében sürgős szükség vagy veszélyeztető állapot megelőzése vagy elhárítása érdekében szükséges, és a legutolsó, implantációval kapcsolatos ellátást végző egészségügyi szolgáltató jogutód nélkül megszűnt vagy az egészségügyi dokumentáció nem vagy jelentős késedelemmel szerezhető be, az orvostechnikai eszközökkel kapcsolatos hatósági feladatok ellátására kijelölt szerv megismerheti az Eütv. 101/C. § (1) bekezdés a) pontja szerinti adatokat annak érdekében, hogy az érintettel kapcsolatba lépjen és tájékoztassa az egészsége védelmében szükséges teendőkről.
+
+(7) A központi implantátumregiszterben tárolt adatokat az érintettre vonatkozó utolsó adattovábbítástól számított 50 év elteltével törölni kell.

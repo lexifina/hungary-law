@@ -14,8 +14,18 @@ e) a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve
 
 f) az egészségügyi dolgozóval szemben folyamatban lévő etikai eljárás során az eljárás lefolytatása hatáskörrel és illetékességgel rendelkező kamarai szerv,
 
-g) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó, valamint a terrorizmust elhárító szervek a törvényben meghatározott feladatok ellátása érdekében, az abban kapott felhatalmazás körében.
+g) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó, valamint a terrorizmust elhárító szervek a törvényben meghatározott feladatok ellátása érdekében, az abban kapott felhatalmazás körében,
+
+h) halottvizsgálat során a halottvizsgálatot végző orvos.
 
 (2) A megkeresésben az adatkezelés pontos célját és a kért adatok körét meg kell jelölni.
 
 (3) A kezelést végző orvos a nyomozó hatóságot a ,,halaszthatatlan intézkedés'' jelzéssel ellátott, külön jogszabályban előírt ügyészi jóváhagyást nélkülöző megkeresésére is köteles tájékoztatni az általa kezelt, az adott üggyel összefüggő egészségügyi és személyazonosító adatokról.
+
+(4) Ha az egészségügyi adatokra a halottvizsgálat során soron kívül van szükség,
+
+a) büntetőügyben a nyomozó hatóság, valamint az ügyészség halaszthatatlan nyomozási cselekmény keretében,
+
+b) a rendkívüli halállal kapcsolatos hatósági eljárás során a bűncselekményre utaló adat kizárása érdekében az eljáró hatóság
+
+az (1) bekezdés szerinti megkeresést rövid úton is előterjesztheti, a kezelőorvos a megkeresést soron kívül teljesíti.

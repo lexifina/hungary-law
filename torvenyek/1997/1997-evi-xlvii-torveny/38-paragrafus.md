@@ -8,7 +8,7 @@ b) a járványügyi érdekből felügyelet alá vont kórokozók, valamint a fer
 
 c) a halál tényének és okának bejelentésére vonatkozó részletes szabályokat,
 
-d) a veleszületett rendellenességek bejelentésére vonatkozó részletes szabályokat,
+d) a veleszületett rendellenességek bejelentésére és nyilvántartására vonatkozó részletes szabályokat,
 
 e) a 20. § (4) bekezdés szerinti adatok körének meghatározására, gyűjtésére, feldolgozására, bejelentésére és közzétételére vonatkozó részletes szabályokat,
 
@@ -20,9 +20,11 @@ h) az elektronikus vényre vonatkozó részletszabályokat,
 
 i) a Betegségregiszterre vonatkozó részletes szabályokat,
 
-j) a 18. § (1) bekezdés és a 18/A. § szerinti egészségügyi adatok körének meghatározására, az adatok átadására, továbbítására, a kapcsolati kód képzésére vonatkozó részletes szabályokat
+j) a 18. § (1) bekezdés és a 18/A. § szerinti egészségügyi adatok körének meghatározására, az adatok átadására, továbbítására, a kapcsolati kód képzésére vonatkozó részletes szabályokat,
 
-k) a térségi betegút-szervezésért felelős szerv által a 4. § (2) bekezdés w) pontja szerinti célból, a 19. § (1) bekezdése szerint kezelt egészségügyi adatok körének meghatározására, az adatok átadására, továbbítására vonatkozó részletes szabályokat
+k) a térségi betegút-szervezésért felelős szerv által a 4. § (2) bekezdés w) pontja szerinti célból, a 19. § (1) bekezdése szerint kezelt egészségügyi adatok körének meghatározására, az adatok átadására, továbbítására vonatkozó részletes szabályokat,
+
+l) a Nemzeti Szívinfarktus Regisztert vezető szervet kijelölje, valamint a szívinfarktussal kapcsolatos megbetegedések bejelentésére és nyilvántartására vonatkozó részletes szabályokat
 
 rendeletben állapítsa meg.
 

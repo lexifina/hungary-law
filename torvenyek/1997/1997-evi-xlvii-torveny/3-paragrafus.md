@@ -10,7 +10,7 @@ d) orvosi titok: a gyógykezelés során az adatkezelő tudomására jutott egé
 
 e) egészségügyi dokumentáció: a gyógykezelés során a betegellátó tudomására jutott egészségügyi és személyazonosító adatokat tartalmazó feljegyzés, nyilvántartás vagy bármilyen más módon rögzített adat, függetlenül annak hordozójától vagy formájától;
 
-f) kezelést végző orvos: az érintett gyógykezelését végző vagy abban közreműködő orvos;
+f) kezelést végző orvos: az egészségügyről szóló 1997. évi CLIV. törvény 3. § b) pontja szerinti kezelőorvos,
 
 g) betegellátó: a kezelést végző orvos, az egészségügyi szakdolgozó, az érintett gyógykezelésével kapcsolatos tevékenységet végző egyéb személy, a gyógyszerész;
 
