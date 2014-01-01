@@ -1,0 +1,1 @@
+## „(7) A kincstár a lebonyolítási fizetési számlára vonatkozó számlakivonatot három eredeti példányban állítja elő, amelyből az egyik példányt a pénzügyi átutalási egységnek, a másik példányt a fejezetet irányító szerv vezetőjének, a harmadik példányt a Közös Irányító Hatóságnak küldi meg.”

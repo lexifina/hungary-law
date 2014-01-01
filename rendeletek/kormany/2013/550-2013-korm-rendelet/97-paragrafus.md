@@ -1,0 +1,3 @@
+## „(7) Ha a támogatást nyújtó szerv az MVH által rendelkezésre bocsátott, (2) bekezdésben meghatározott nyilvántartási rendszer szerinti adatok alapján észleli, hogy az adott kedvezményezett vonatkozásában a (6) bekezdésben meghatározott feltételek a nyújtani tervezett agrár állami támogatás vonatkozásában nem teljesülnek, úgy a támogatást nyújtó szerv megtagadja a tervezett támogatás nyújtását.
+
+## (8) Ha egy agrár állami támogatás a csekély összegű (de minimis) rendeletek valamelyikének hatálya alá tartozik, úgy a támogatást nyújtó szerv köteles az ilyen címen juttatott támogatás jogcíméről és támogatástartalmáról a kedvezményezettet írásban értesíteni.”

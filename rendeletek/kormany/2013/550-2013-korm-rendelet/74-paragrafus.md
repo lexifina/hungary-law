@@ -1,5 +1,3 @@
-## 73. §[^29]
+## 73. § A megyei intézményfenntartó központokról, valamint a megyei önkormányzatok konszolidációjával, a megyei önkormányzati intézmények és a Fővárosi Önkormányzat egészségügyi intézményeinek átvételével összefüggő egyes kormányrendeletek módosításáról szóló 258/2011. (XII. 7.) Korm. rendelet 1. melléklet IV.3.2. pontjában és 6. melléklet III.2.2. pontjában az „a Nemzeti Fejlesztési Ügynökség” szövegrész helyébe az „a feladatkörében érintett irányító hatóság” szöveg lép.
 
 ## 30. A megyei önkormányzat egészségügyi intézményei és a Fővárosi Önkormányzat egészségügyi intézményei átvételének részletes szabályairól szóló 372/2011. (XII. 31.) Korm. rendelet módosításáról
-
-[^29]: A 73. § a 102. § (2) bekezdése alapján 2014. január 1-jén lép hatályba.

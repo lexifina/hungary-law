@@ -1,0 +1,1 @@
+## „33. vidékfejlesztési és halászati európai uniós fejlesztési programokhoz kapcsolódó állami támogatás: a mindenkori vidékfejlesztési és halászati társfinanszírozott fejlesztési programokról szóló uniós rendeletek állami támogatásokra vonatkozó cikke szerinti támogatás.”

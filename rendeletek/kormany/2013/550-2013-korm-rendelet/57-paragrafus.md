@@ -1,5 +1,3 @@
-## 56. §[^19]
+## 56. § Az Országos Statisztikai Adatgyűjtési Program adatgyűjtéseiről és adatátvételeiről szóló 288/2009. (XII. 15.) Korm. rendelet 1. mellékletében foglalt „Országos Statisztikai Adatgyűjtési Program Adatgyűjtések és Adatátvételek” című táblázat 2125. nyilvántartási számú adatátvétel sorában és „Országos Statisztikai Adatgyűjtési Program Adatkörök” című táblázat 2125. nyilvántartási adatátvétel sorában a „Nemzeti Fejlesztési Ügynökség” szövegrész helyébe „Kormány európai uniós források felhasználásáért felelős tagja” szöveg lép.
 
 ## 20. A Társadalmi Megújulás Operatív Program 1. prioritás 1.1.4. konstrukció „A hátrányos helyzetűek foglalkoztatásáért a Közép-magyarországi Régióban” keretében nyújtható támogatásokról szóló 175/2010. (V. 13.) Korm. rendelet módosítása
-
-[^19]: Az 56. § a 102. § (2) bekezdése alapján 2014. január 1-jén lép hatályba.

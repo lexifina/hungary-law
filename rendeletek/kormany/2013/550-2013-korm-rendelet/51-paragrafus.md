@@ -1,0 +1,1 @@
+## „(4) A Kincstár a fizetési számla kivonatát három eredeti példányban állítja elő, amelyből az egyik példányt a pénzügyi átutalási egységnek, a másik példányt az Irányító Hatóságnak, a harmadik példányt a forrásgazdának küldi meg.”
