@@ -14,7 +14,7 @@ c) arra vonatkozó kérést, hogy megadott határidőn belül a másik ország j
 
 (4) Ha a másik ország értesítése alapján vagy egyéb módon felmerül, hogy egy másik ország kidolgozás alatt álló, a 2001/42/EK európai parlamenti és tanácsi irányelv hatálya alá tartozó – nem EU tagállam esetén annak megfelelő – terve, illetve programja megvalósítása következtében Magyarországon jelentős káros környezeti hatás várható, a nemzetközi eljárással kapcsolatos koordinációs feladatokat
 
-a)[^6] az ország egészét vagy több környezetvédelmi, természetvédelmi és vízügyi felügyelőség (a továbbiakban: felügyelőség) illetékességi területét érintő tervnél, illetve programnál az Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség (a továbbiakban: eljáró szerv)
+a)[^6] az ország egészét vagy több környezetvédelmi és természetvédelmi felügyelőség (a továbbiakban: felügyelőség) illetékességi területét érintő tervnél, illetve programnál az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség (a továbbiakban: eljáró szerv)
 
 b) egy felügyelőség illetékességi területét érintő tervnél, illetve programnál, az érintett felügyelőség
 
@@ -24,4 +24,4 @@ b) egy felügyelőség illetékességi területét érintő tervnél, illetve pr
 
 (6) Az eljáró szerv, illetve a felügyelőség a (2) bekezdés szerinti konzultálási szándékkal kapcsolatos döntés meghozásába bevonja a környezet védelméért felelős érintett szerveket.
 
-[^6]: A 9. § (4) bekezdésének a) pontja a 377/2007. (XII. 23.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^6]: A 9. § (4) bekezdésének a) pontja a 377/2007. (XII. 23.) Korm. rendelet 19. §-ával megállapított, az 527/2013. (XII. 30.) Korm. rendelet 31. § (1) bekezdése szerint módosított szöveg.

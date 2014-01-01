@@ -6,7 +6,7 @@
 
 ## a)[^13] a környezet, a természet és a táj védelmére kiterjedően:
 
-## az Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség;
+## az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség;
 
 ## b) környezet- és település-egészségügyre kiterjedően:
 
@@ -190,7 +190,7 @@
 
 7. Közérthető összefoglaló.
 
-[^13]: A 3. számú melléklet I.1. pontjának a) alpontja a 377/2007. (XII. 23.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^13]: A 3. számú melléklet I.1. pontjának a) alpontja a 377/2007. (XII. 23.) Korm. rendelet 20. §-ával megállapított, az 527/2013. (XII. 30.) Korm. rendelet 31. § (2) bekezdése szerint módosított szöveg.
 [^14]: A 3. számú melléklet I.2. pont f) alpontja a 97/2008. (IV. 29.) Korm. rendelet 7. §-ának 20. pontja szerint módosított szöveg.
 [^15]: A 3. számú melléklet II. cím 1. pont c) alpontja a 351/2010. (XII. 30.) Korm. rendelet 131. §-a szerint módosított szöveg.
 [^16]: A 3. számú melléklet II. cím 1. pont c) alpontja ca alpontját a 351/2010. (XII. 30.) Korm. rendelet 131. §-a iktatta be, hatályon kívül helyezte a 137/2012. (VI. 29.) Korm. rendelet 97. § g) pontja.
