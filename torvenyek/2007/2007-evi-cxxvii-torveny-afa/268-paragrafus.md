@@ -38,7 +38,9 @@ gg) a Tanács 2009/162/EU irányelve (2009. december 22.) a közös hozzáadott�
 
 gh) a Tanács 2010/23/EU irányelve (2010. március 16.) a közös hozzáadottértékadó-rendszerről szóló 2006/112/EK irányelvnek a fordított adózási mechanizmus bizonyos csalásra alkalmas szolgáltatásokra vonatkozó választható és ideiglenes alkalmazása tekintetében történő módosításáról;
 
-gi) a Tanács 2010/45/EU irányelve (2010. június 13.) a közös hozzáadottértékadó-rendszerről szóló 2006/112/EK irányelvnek a számlázás szabályai tekintetében történő módosításáról.
+gi) a Tanács 2010/45/EU irányelve (2010. június 13.) a közös hozzáadottértékadó-rendszerről szóló 2006/112/EK irányelvnek a számlázás szabályai tekintetében történő módosításáról;
+
+gj) a Tanács 2013/43/EU irányelve (2013. július 22.) a közös hozzáadottértékadó-rendszerről szóló 2006/112/EK irányelvnek a fordított adózás bizonyos, csalásra alkalmas termékek és szolgáltatások értékesítésére vonatkozó fakultatív és ideiglenes alkalmazása tekintetében történő módosításáról;
 
 h) a Tanács 2008/9/EK irányelve (2008. február 12.) a nem a visszatérítés helye szerinti tagállamban, hanem egy másik tagállamban letelepedett adóalanyok részére a 2006/112/EK irányelvben előírt hozzáadottértékadó-visszatérítés részletes szabályainak megállapításáról, valamint annak a következő irányelvvel történt módosítása:
 

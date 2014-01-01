@@ -14,6 +14,6 @@ f) a terméknek a 19. § b) és c) pontja szerinti Közösségen belüli beszerz
 
 g) termék importja esetében.
 
-(2) Az adóalany nem járhat el alanyi adómentes minőségében abban az esetben sem, ha az alanyi adómentesség időszakát megelőzően keletkezett levonható előzetesen felszámított adó összegét meghatározó tényezőkben utólag, az alanyi adómentesség időszakában olyan változás következik be, amelynek eredményeként az eredetileg levonható előzetesen felszámított adó összegét a különbözet csökkenti, és amelynek rendezésére a 132. § (2) bekezdése alkalmazandó.
+(2) Az adóalany nem járhat el alanyi adómentes minőségében abban az esetben sem, ha az alanyi adómentesség időszakát megelőzően keletkezett levonható előzetesen felszámított adó összegét meghatározó tényezőkben utólag, az alanyi adómentesség időszakában olyan változás következik be, amelynek eredményeként az eredetileg levonható előzetesen felszámított adó összegét a különbözet csökkenti, és amelynek rendezésére a 153/C. § (1) bekezdése alkalmazandó.
 
 (3) Az adóalany az alanyi adómentesség időszakában szintén nem járhat el alanyi adómentes minőségében a 139–141., 146., 147. és 150. §-okban említett esetekben.

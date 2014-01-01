@@ -1,23 +1,19 @@
-78. § (1) A 77. § alkalmazásának feltétele, hogy a kötelezett az ügylet teljesítését tanúsító számla
+78. § (1) A 77. § (1)–(3) bekezdése alkalmazásának feltétele, hogy a kötelezett az ügylet teljesítését tanúsító számla
 
-a) érvénytelenítéséről gondoskodjon
-
-aa) a 77. § (1) bekezdés aa) és ba) alpontjában említett esetekben, valamint a (2) bekezdésének a) pontjában említett esetben, feltéve, hogy az előleg teljes összegét visszafizetik;
-
-ab) a 77. § (2) bekezdés b) pontjában említett esetben, ha a felek az ügylet kötése előtt fennálló helyzetet állítják helyre;
+a) érvénytelenítéséről gondoskodjon azokban az esetekben, amikor az előleg vagy az ellenérték teljes összegét visszatérítik;
 
 b) adattartalmának módosításáról gondoskodjon az a) pont alá nem tartozó esetekben.
 
-(2) Abban az esetben, ha az ügylet teljesítését számla azért nem tanúsítja, mert e törvény szerint számla kibocsátásáról nem kellett a kötelezettnek gondoskodnia, a 77. § (1) és (2) bekezdése szerinti esetekben az adó alapja utólagos csökkentésének nem akadálya az (1) bekezdés nem teljesülése.
+(2) Abban az esetben, ha az ügylet teljesítését számla azért nem tanúsítja, mert e törvény szerint számla kibocsátásáról nem kellett a kötelezettnek gondoskodnia, a 77. § (1) és (2) bekezdése szerinti esetben az adó alapja utólagos csökkenésének nem akadálya az (1) bekezdés nem teljesülése.
 
-(3) Abban az esetben, ha az adó alapjának utólagos csökkenése a korábban fizetendő adóként megállapított és bevallott adót is csökkenti, a kötelezett jogosult azt, mint a 131. § (1) bekezdése szerint megállapított fizetendő adót csökkentő tételt legkorábban abban az adómegállapítási időszakban figyelembe venni, amelyben
+(3) A 77. § (4) bekezdés alkalmazásának feltétele, hogy a pénzt visszatérítő adóalany az alábbiakkal rendelkezzen:
 
-a) az eredeti számlát érvénytelenítő számla vagy az azt módosító számla a jogosult személyes rendelkezésére áll;
+a) a pénzvisszatérítésre jogosult nevére szóló, a pénzvisszatérítésre jogosító ügylet teljesítését tanúsító számla másolati példánya, amely egyértelműen igazolja, hogy az adott ügylet belföldön teljesített adóköteles ügylet, valamint
 
-b) a kötelezett a jogosultnak az ellenértéket visszatéríti, az előleget visszafizeti, vagy a betétdíjat visszatéríti az a) pont alá nem tartozó esetekben.
+b) a pénz átutalásáról vagy a készpénz kifizetéséről szóló bizonylat, amely egyértelműen igazolja, hogy a pénzt visszatérítő adóalany a pénzvisszatérítés jogosultja részére az üzletpolitikájában rögzített összeget megtérítette.
 
-(4) A (3) bekezdést kell megfelelően alkalmazni abban az esetben is, ha
+(4) A (3) bekezdés b) pontja szerinti bizonylatnak a következő adatokat kell tartalmaznia:
 
-a) az adó alapjának utólagos csökkenése azért nem eredményez fizetendőadó-csökkenést, mert az ügylet – e törvény rendelkezései szerint – mentes az adó alól, vagy
+a) a pénzvisszatérítésre jogosult neve, lakcíme és – adóalany esetén – adószáma,
 
-b) a fizetendő adó csökkenését nem az adóalap utólagos csökkentése eredményezte.
+b) a pénzvisszatérítésre jogosult nyilatkozata alapján az adólevonási jogára vonatkozó tájékoztatás az adott ügylet vonatkozásában.

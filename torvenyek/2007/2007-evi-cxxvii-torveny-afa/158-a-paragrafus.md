@@ -8,7 +8,7 @@
 
 (2) A számlára vonatkozó kötelezettségekre – a (3) bekezdésben foglalt eltéréssel – annak a tagállamnak a szabályait kell alkalmazni, amelyben a terméket értékesítő vagy a szolgáltatást nyújtó gazdasági tevékenységének székhelye vagy a teljesítéssel legközvetlenebbül érintett állandó telephelye van, vagy ezek hiányában, amelyben állandó lakóhelye vagy szokásos tartózkodási helye van, és
 
-a) a terméket értékesítő vagy a szolgáltatást nyújtó nem telepedett le gazdasági céllal a termékértékesítés vagy szolgáltatásnyújtás teljesítési helye szerinti tagállamban, és az adó fizetésére a terméket beszerző vagy a szolgáltatást igénybevevő kötelezett, vagy
+a) a terméket értékesítő vagy a szolgáltatást nyújtó nem telepedett le gazdasági céllal a termékértékesítés, szolgáltatásnyújtás teljesítési helye szerinti tagállamban, vagy az ezen tagállamban lévő állandó telephelye a 137/A. § szerint nem érintett a termékértékesítés vagy szolgáltatásnyújtás teljesülésében, és az adó fizetésére a terméket beszerző vagy a szolgáltatást igénybevevő kötelezett, vagy
 
 b) a termékértékesítés vagy szolgáltatásnyújtás teljesítési helye a Közösség területén kívül van.
 

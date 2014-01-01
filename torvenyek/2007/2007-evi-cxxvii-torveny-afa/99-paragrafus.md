@@ -32,7 +32,7 @@ b) bemutatja a termékértékesítés teljesítését tanúsító számla eredet
 
 (8) A termék értékesítője köteles egyúttal gondoskodni arról is, hogy a termékértékesítés teljesítését tanúsító számla ismételt adó-visszatéríttetésre ne jogosítson. Ennek érdekében a visszaszolgáltatást megelőzően a számla eredeti példányán az „áfa elszámolva” jelölést kötelezően fel kell tüntetni, és az így megjelölt számláról a termék értékesítőjének fotómásolatot kell készítenie, amelyet köteles nyilvántartásában megőrizni.
 
-(9) Abban az esetben, ha a (4) bekezdés b) pontja szerint adó felszámítása történt, és azt a termék értékesítője korábban fizetendő adóként megállapította és bevallotta, jogosult arra, hogy legkorábban abban az adómegállapítási időszakban, amelyben a külföldi utas részére az adó visszatérítése megtörtént, csökkentse a 131. § (1) bekezdése szerint megállapított fizetendő adót a visszatérített adó összegével, feltéve, hogy ezt az összeget nyilvántartásában elkülönítetten mutatja ki.
+(9) Abban az esetben, ha a (4) bekezdés b) pontja szerint adó felszámítása történt, és azt a termék értékesítője korábban fizetendő adóként megállapította és bevallotta, jogosult arra, hogy legkorábban abban az adómegállapítási időszakban, amelyben a külföldi utas részére az adó visszatérítése megtörtént, csökkentse a 153/A. § (1) bekezdése szerint megállapított fizetendő adót a visszatérített adó összegével, feltéve, hogy ezt az összeget nyilvántartásában elkülönítetten mutatja ki.
 
 (10) Az adó-visszaigénylő lap kötelező adattartalma a következő:
 

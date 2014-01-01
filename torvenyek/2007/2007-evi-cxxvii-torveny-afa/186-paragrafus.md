@@ -1,4 +1,4 @@
-186. § (1) A 131. § (1) bekezdése szerint megállapított negatív előjelű különbözet összege legkorábban az Art.-ban meghatározott esedékességtől kezdődően igényelhető vissza, ha
+186. § (1) A 153/A. § (1) bekezdése szerint megállapított negatív előjelű különbözet összege legkorábban az Art.-ban meghatározott esedékességtől kezdődően igényelhető vissza, ha
 
 a) azt a 184. § szerinti bevallás benyújtásával egyidejűleg a belföldön nyilvántartásba vett adóalany az állami adóhatóságtól kérelmezi; továbbá
 

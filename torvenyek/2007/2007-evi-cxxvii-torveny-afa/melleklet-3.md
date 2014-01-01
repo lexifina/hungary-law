@@ -252,6 +252,78 @@ A 15. és 17. pontban meghatározott termékek bármely más fizikai adathordoz�
 
 |
 
+|
+
+19.
+
+|
+
+Fajtiszta tenyészsertés
+
+|
+
+0103 1000
+
+|
+
+20.
+
+|
+
+Háziasított sertés, 50 kg-nál kisebb súlyú (a fajtiszta tenyészsertés kivételével)
+
+|
+
+0103 9110
+
+|
+
+21.
+
+|
+
+Élő, háziasított koca, legalább egyszer ellett, legalább 160 kg súlyú (a fajtiszta tenyészsertés kivételével)
+
+|
+
+0103 9211
+
+|
+
+22.
+
+|
+
+Élő, háziasított sertés, legalább 50 kg súlyú (a legalább egyszer ellett, legalább 160 kg súlyú koca, valamint a fajtiszta tenyészsertés kivételével)
+
+|
+
+0103 9219
+
+|
+
+23.
+
+|
+
+Házi sertés egészben vagy félben, frissen vagy hűtve
+
+|
+
+0203 1110
+
+|
+
+24.
+
+|
+
+Házi sertés egészben vagy félben, fagyasztva
+
+|
+
+0203 2110
+
 I/A. rész: termékek a gyógyászati segédeszközök társadalombiztosítási támogatásba történő befogadásáról, támogatással történő rendeléséről, forgalmazásáról, javításáról és kölcsönzéséről szóló 14/2007. (III. 14.) EüM rendelet 2012. január 1. napján hatályos 10. számú mellékletében meghatározott gyógyászati segédeszközök közül
 
 |

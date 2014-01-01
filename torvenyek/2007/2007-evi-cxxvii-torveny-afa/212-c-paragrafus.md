@@ -12,7 +12,7 @@ b) a kivonandó tag megegyezik az utazásszervező által a 206. § (1) bekezdé
 
 a) köteles az (1) bekezdésben meghatározott adómegállapítási időszakban a különbözetre jutó adót fizetendő adóként megállapítani, ha a különbözet pozitív előjelű;
 
-b) jogosult arra, hogy legkorábban az (1) bekezdésben meghatározott adómegállapítási időszakban a 131. § (1) bekezdése szerint megállapított adót a különbözetre jutó adó összegével csökkentse, ha a különbözet negatív előjelű.
+b) jogosult arra, hogy legkorábban az (1) bekezdésben meghatározott adómegállapítási időszakban a 153/A. § (1) bekezdése szerint megállapított adót a különbözetre jutó adó összegével csökkentse, ha a különbözet negatív előjelű.
 
 (5) Az önálló pozíciószám megszűnik, ha az utazásszervező
 

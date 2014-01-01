@@ -8,7 +8,7 @@ b) az a) pontban nem említett egyéb üzemanyagot terhelő előzetesen felszám
 
 c) az a) és b) pontban nem említett egyéb terméket terhelő előzetesen felszámított adó, feltéve, hogy az személygépkocsi üzemeltetéséhez, fenntartásához szükséges;
 
-d) a személygépkocsit terhelő előzetesen felszámított adó;
+d) a személygépkocsit (ide nem értve a halottszállító személygépkocsit) terhelő előzetesen felszámított adó;
 
 e) a 125 cm3-nél nagyobb hengerűrtartalmú motorkerékpárt (vtsz. 8711-ből) terhelő előzetesen felszámított adó;
 

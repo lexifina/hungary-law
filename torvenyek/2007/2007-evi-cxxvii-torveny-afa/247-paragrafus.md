@@ -8,4 +8,4 @@ a belföldön nem letelepedett adóalany jogosult a termék beszerzését, impor
 
 (2) Az (1) bekezdéstől függetlenül a belföldön nem letelepedett adóalany adó-visszatéríttetési joga kiterjed a 203. § szerint megállapított előzetesen felszámított adóra is.
 
-(3) Az előzetesen felszámított adó levonására vonatkozó rendelkezések közül a 119., 124–128., 132. és 133. §-okat, valamint a 204. § (2) bekezdését az adó-visszatéríttetési jogra is megfelelően alkalmazni kell.
+(3) Az előzetesen felszámított adó levonására vonatkozó rendelkezések közül a 119., 124–128., 153/C. és 153/D. §-okat, valamint a 204. § (2) bekezdését az adó-visszatéríttetési jogra is megfelelően alkalmazni kell.
