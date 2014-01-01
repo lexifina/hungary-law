@@ -1,4 +1,4 @@
-## 15. §[^1]
+## 15. § Hatályát veszti az Európai Mezőgazdasági Garancia Alapból finanszírozott egységes területalapú támogatás (SAPS), valamint az ahhoz kapcsolódó kiegészítő nemzeti támogatások (top up) 2012. évi igénybevételével kapcsolatos egyes kérdésekről szóló 32/2012. (IV. 2.) VM rendelet alapján nyújtható kiegészítő nemzeti támogatások jogcímeihez kapcsolódó támogatási összegekről szóló 131/2012. (XII. 20.) VM rendelet.
 
 1. melléklet a 111/2013. (XII. 7.) VM rendelethez
 
@@ -27,5 +27,3 @@ A 2013. évi támogatások számítása során alkalmazandó maximális fajlagos
 | 10. Anyajuh kiegészítő – termeléstől elválasztott átmeneti nemzeti támogatás | 7,00 EUR/történelmi bázisjogosultság |
 
 | 11. Tej – termeléstől elválasztott átmeneti nemzeti támogatás | 27,23 EUR/1000 történelmi bázisjogosultság |
-
-[^1]: A 15. § a 14. § (2) bekezdése alapján 2014. január 1-jén lép hatályba.
