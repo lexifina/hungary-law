@@ -12,19 +12,17 @@ ab) rendszeres szociális segélyt,
 
 ac) lakásfenntartási támogatást;
 
-b) a települési önkormányzat képviselő-testülete az e törvényben, illetve az önkormányzat rendeletében meghatározott feltételek szerint
+b) a települési önkormányzat képviselő-testülete az e törvényben, illetve a települési önkormányzat rendeletében meghatározott feltételek szerint
 
-ba) a 43/B. § (1) bekezdésében foglalt ápolási díjat,
+ba) a 43/B. § (1) bekezdése szerinti ápolási díjat (a továbbiakban: méltányossági ápolási díj),
 
-bb) átmeneti segélyt,
-
-bc) temetési segélyt;
+bb) önkormányzati segélyt;
 
 c) a járási hivatal az e törvényben meghatározott feltételek szerint
 
 ca) időskorúak járadékát,
 
-cb) a 41. § (1) bekezdésében és a 43/A. § (1) bekezdésében foglalt ápolási díjat;
+cb) a 41. § (1) bekezdése szerinti ápolási díjat, a 43. § szerinti ápolási díjat (a továbbiakban: kiemelt ápolási díj) vagy a 43/A. § (1) bekezdése szerinti ápolási díjat (a továbbiakban: emelt összegű ápolási díj)
 
 állapít meg (a továbbiakban együtt: szociális rászorultságtól függő pénzbeli ellátások).
 

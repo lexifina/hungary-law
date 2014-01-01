@@ -18,7 +18,9 @@ d) közösségfejlesztő, valamint egyéni és csoportos terápiás programok sz
 
 e) a tartós munkanélküliek, a fiatal munkanélküliek, az adósságterhekkel és lakhatási problémákkal küzdők, a fogyatékossággal élők, a krónikus betegek, a szenvedélybetegek, a pszichiátriai betegek, a kábítószer-problémával küzdők, illetve egyéb szociálisan rászorult személyek és családtagjaik részére tanácsadás nyújtását,
 
-f) a családokon belüli kapcsolaterősítést szolgáló közösségépítő, családterápiás, konfliktuskezelő mediációs programokat és szolgáltatásokat, valamint a nehéz élethelyzetben élő családokat segítő szolgáltatásokat.
+f) a családokon belüli kapcsolaterősítést szolgáló közösségépítő, családterápiás, konfliktuskezelő mediációs programokat és szolgáltatásokat, valamint a nehéz élethelyzetben élő családokat segítő szolgáltatásokat,
+
+g) a menedékjogi törvényben meghatározott integrációs szerződésbe foglalt társadalmi beilleszkedés elősegítését.
 
 (5) A családsegítés keretében végzett tevékenységnek – a szolgáltatást igénybe vevő érdekében, mások személyiségi jogainak sérelme nélkül – a szükséges mértékig ki kell terjednie az igénybe vevő környezetére, különösen családjának tagjaira. Kiskorú személyre a családsegítés akkor terjedhet ki, ha
 

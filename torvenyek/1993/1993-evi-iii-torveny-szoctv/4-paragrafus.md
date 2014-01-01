@@ -44,7 +44,7 @@ l) egyedülálló: az a személy, aki hajadon, nőtlen, özvegy, elvált vagy h�
 
 m) fenntartó:
 
-ma) az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv, a helyi önkormányzat, a helyi önkormányzatok társulása, a települési nemzetiségi önkormányzat és a területi nemzetiségi önkormányzat (a továbbiakban együtt: állami fenntartó),
+ma) az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv, a helyi önkormányzat, a helyi önkormányzatok társulása (a továbbiakban együtt: állami fenntartó),
 
 mb) az egyházi jogi személy (a továbbiakban együtt: egyházi fenntartó),
 
@@ -60,7 +60,7 @@ n)
 
 (1a) Az (1) bekezdés a) pontjában foglaltaktól eltérően e törvény alkalmazásában nem minősül jövedelemnek
 
-1. a temetési segély, az alkalmanként adott átmeneti segély, a lakásfenntartási támogatás, az adósságcsökkentési támogatás,
+1. a temetési segély, az alkalmanként adott átmeneti segély, az önkormányzati segély, a lakásfenntartási támogatás, az adósságcsökkentési támogatás,
 
 2. a rendkívüli gyermekvédelmi támogatás, a Gyvt. 20/A. §-a szerinti támogatás, a Gyvt. 20/B. §-ának (4)–(5) bekezdése szerinti pótlék, a nevelőszülők számára fizetett nevelési díj és külön ellátmány,
 

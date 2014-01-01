@@ -1,4 +1,4 @@
-43/A. § (1) A járási hivatal a fokozott ápolást igénylő súlyosan fogyatékos személy gondozását, ápolását végző személy kérelmére a 44. § (1) bekezdésének b) pontjában foglalt összegű ápolási díjat állapít meg.
+43/A. § (1) A járási hivatal a fokozott ápolást igénylő súlyosan fogyatékos személy gondozását, ápolását végző, de a kiemelt ápolási díjra való jogosultság feltételeinek meg nem felelő személy kérelmére emelt összegű ápolási díjat állapít meg.
 
 (2) Az (1) bekezdés alkalmazása során fokozott ápolást igénylő az a személy, aki mások személyes segítsége nélkül önállóan nem képes
 

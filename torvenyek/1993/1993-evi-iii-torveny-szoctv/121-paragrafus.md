@@ -22,10 +22,10 @@ i) az önkormányzat, illetve a társulás részére történő beszámolás, t�
 
 j) a külön jogszabályban meghatározott adatszolgáltatási kötelezettség teljesítésének módját, a statisztikai adatgyűjtéshez szükséges adatok rendelkezésre bocsátását;
 
-k) az ellátási szerződés alapján végzett feladat ellátásához kapcsolódóan a szolgáltatásért járó ellenérték összegét,
+k) az ellátási szerződés alapján végzett feladat ellátásához kapcsolódóan a szolgáltatáshoz való hozzájárulás összegét,
 
-l) az ellenérték megfizetésével kapcsolatos eljárási kérdéseket, határidőket,
+l) a hozzájárulás megfizetésével kapcsolatos eljárási kérdéseket, határidőket,
 
-m) az ellenértékkel történő elszámolással kapcsolatos kötelezettségeket.
+m) a hozzájárulással történő elszámolással kapcsolatos kötelezettségeket.
 
 (3)

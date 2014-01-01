@@ -6,7 +6,7 @@ b) bevándoroltakra és letelepedettekre,
 
 c) hontalanokra,
 
-d) a magyar hatóság által menekültként elismert személyekre.
+d) a magyar hatóság által menekültként vagy oltalmazottként elismert személyekre.
 
 (2) E törvény hatálya a 7. § (1) bekezdésében meghatározott ellátások tekintetében az (1) bekezdésben foglaltakon túlmenően kiterjed az Európai Szociális Kartát megerősítő országoknak Magyarország területén jogszerűen tartózkodó állampolgáraira is.
 
@@ -31,6 +31,8 @@ c) idegenrendészeti vagy menekültügyi eljárásban az idegenrendészeti vagy 
 és a 4. § (3) bekezdése alapján hajléktalannak minősül.
 
 (4b) A 84. §-ban meghatározott ellátásokat a (4a) bekezdésben felsorolt külföldiek az idegenrendészeti vagy a menekültügyi hatóság által kiállított ideiglenes tartózkodásra jogosító igazolás, vagy humanitárius tartózkodási engedély és a (4a) bekezdésben foglalt feltételek fennállását tanúsító hatósági igazolás birtokában vehetik igénybe.
+
+(4c) A 32/B. § (1) bekezdésében meghatározott időskorúak járadéka tekintetében a törvény hatálya kiterjed az összevont engedéllyel rendelkező, Magyarország területén jogszerűen tartózkodó harmadik országbeli állampolgárra.
 
 (5) E törvény meghatározza a pénzbeli, a természetben nyújtott és a személyes gondoskodást nyújtó szociális ellátások egyes formáit, a jogosultság feltételeit, annak megállapítását, a szociális ellátás finanszírozásának elveit és intézményrendszerét, a szociális ellátást nyújtó szervezet és a jogosult közötti jogviszony főbb elemeit, továbbá a fenntartónak a szolgáltatóval, illetve intézménnyel kapcsolatos feladat- és jogkörét, valamint a személyes gondoskodást nyújtó szociális, gyermekjóléti, gyermekvédelmi tevékenységet végző személy adatainak működési nyilvántartására vonatkozó szabályokat.
 

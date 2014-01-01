@@ -90,6 +90,8 @@ a) a szakmai szabályok szerint elsőként választandó, legalacsonyabb napi te
 
 b)
 
+(3a) Felhatalmazást kap a szociál- és nyugdíjpolitikáért felelős miniszter, hogy annak a személynek, aki olyan hozzátartozójának a gondozását, ápolását végzi, aki után magasabb összegű családi pótlékot folyósítanak, a kiemelt ápolási díjra való jogosultságát megalapozó betegségek és fogyatékosságok körét és súlyossági fokát az egészségügyért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg.
+
 (4) Felhatalmazást kap a települési önkormányzat, hogy rendeletben szabályozza
 
 a) az aktív korúak ellátására jogosult személyek részére a lakókörnyezet rendezettségének biztosítása körében előírt részletes szabályokat,

@@ -1,0 +1,1 @@
+140/V. § A 88. § (1) bekezdés a) és b) pontja szerinti intézmények 2014. évi intézményi térítési díja megegyezik a 2013. évben megállapított intézményi térítési díjjal. A fenntartó az intézményi térítési díjat a 2013. évi fogyasztói árnövekedésnek megfelelő mértékben korrigálhatja.

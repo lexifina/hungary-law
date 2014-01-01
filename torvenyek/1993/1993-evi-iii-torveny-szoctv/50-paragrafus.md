@@ -16,7 +16,7 @@ g) az, aki
 
 ga) rokkantsági ellátásban részesül és az egészségi állapota a rehabilitációs hatóság komplex minősítése alapján nem haladja meg a 30%-os mértéket,
 
-gb) a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény (a továbbiakban: Mmtv.) 30. § (4) bekezdés b) pont ba) alpontjának vagy 32. § (1) bekezdés a) pontjának alkalmazásával rokkantsági ellátásban részesül és 2011. december 31-én I. vagy II. csoportú rokkantsági, baleseti rokkantsági nyugdíjra volt jogosult,
+gb) az Mmtv. 30. § (4) bekezdés b) pont ba) alpontjának vagy 32. § (1) bekezdés a) pontjának alkalmazásával rokkantsági ellátásban részesül és 2011. december 31-én I. vagy II. csoportú rokkantsági, baleseti rokkantsági nyugdíjra volt jogosult,
 
 gc) rokkantsági ellátásban részesül, de nem tartozik a ga) és gb) alpont hatálya alá és a közgyógyellátásra való jogosultságát 2012. április 15-éig megállapították,
 
@@ -36,7 +36,7 @@ b) a havi rendszeres gyógyító ellátás költségének mértékeként az öre
 
 jogosultsági feltételként nem lehet előírni; a szociális rászorultság további feltételeit az önkormányzat a helyi viszonyoknak megfelelően szabályozza.
 
-(4) Az alanyi és a normatív közgyógyellátásra való jogosultságról a járási hivatal, a méltányossági közgyógyellátásra való jogosultságról a jegyző dönt. Az alanyi közgyógyellátásra való jogosultságot két évre, a normatív és a méltányossági közgyógyellátásra való jogosultságot egy évre állapítják meg. A közgyógyellátásra való jogosultság kezdő időpontja – az (5) bekezdésben foglaltak kivételével – a jogosultságot megállapító határozat meghozatalát követő 15. nap.
+(4) Az alanyi és a normatív közgyógyellátásra való jogosultságról a járási hivatal, a méltányossági közgyógyellátásra való jogosultságról a települési önkormányzat képviselő-testülete dönt. Az alanyi közgyógyellátásra való jogosultságot két évre, a normatív és a méltányossági közgyógyellátásra való jogosultságot egy évre állapítják meg. A közgyógyellátásra való jogosultság kezdő időpontja – az (5) bekezdésben foglaltak kivételével – a jogosultságot megállapító határozat meghozatalát követő 15. nap.
 
 (4a) A közgyógyellátásra való jogosultság ugyanazon időszakra vonatkozóan csak egy jogcímen állapítható meg azzal, hogy méltányossági közgyógyellátásra való jogosultság csak abban az esetben állapítható meg, ha a kérelmező alanyi vagy normatív jogcímen nem jogosult az ellátásra.
 
