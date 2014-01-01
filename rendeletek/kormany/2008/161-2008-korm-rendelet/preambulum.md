@@ -1,1 +1,0 @@
-A Kormány a Magyar Köztársaság Alkotmányáról szóló 1949. évi XX. törvény 35. §-a (1) bekezdésének b) pontja szerinti feladatkörében eljárva, az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 62. §-a (1) bekezdésének e) és p) pontjában kapott felhatalmazás alapján a következőket rendeli el:
