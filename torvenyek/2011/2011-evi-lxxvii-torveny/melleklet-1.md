@@ -48,7 +48,7 @@ a Budai Várnegyed és az Andrássy út
 
 |
 
-Fejlesztéspolitikáért felelős miniszter
+Kormány európai uniós források felhasználásáért felelős tagja
 
 |
 
@@ -124,7 +124,7 @@ Agrárpolitikáért felelős miniszter
 
 |
 
-Fejlesztéspolitikáért felelős miniszter
+Kormány európai uniós források felhasználásáért felelős tagja
 
 |
 
@@ -184,7 +184,7 @@ Az Aggteleki-karszt és a Szlovák-karszt barlangjai
 
 |
 
-Fejlesztéspolitikáért felelős miniszter
+Kormány európai uniós források felhasználásáért felelős tagja
 
 Közigazgatás-szervezésért felelős miniszter
 
@@ -232,7 +232,7 @@ Az ezeréves Pannonhalmi Bencés Főapátságés természeti környezete
 
 Építésügyért felelős miniszter
 
-Fejlesztéspolitikáért felelős miniszter
+Kormány európai uniós források felhasználásáért felelős tagja
 
 Közigazgatás-szervezésért felelős miniszter
 
@@ -302,7 +302,7 @@ Agrárpolitikáért felelős miniszter
 
 |
 
-Fejlesztéspolitikáért felelős miniszter
+Kormány európai uniós források felhasználásáért felelős tagja
 
 |
 
@@ -370,7 +370,7 @@ Pécs (Sopianae) ókeresztény temetője
 
 |
 
-Fejlesztéspolitikáért felelős miniszter
+Kormány európai uniós források felhasználásáért felelős tagja
 
 |
 
@@ -434,7 +434,7 @@ Agrárpolitikáért felelős miniszter
 
 |
 
-Fejlesztéspolitikáért felelős miniszter
+Kormány európai uniós források felhasználásáért felelős tagja
 
 |
 
@@ -504,7 +504,7 @@ Agrárpolitikáért felelős miniszter
 
 |
 
-Fejlesztéspolitikáért felelős miniszter
+Kormány európai uniós források felhasználásáért felelős tagja
 
 |
 

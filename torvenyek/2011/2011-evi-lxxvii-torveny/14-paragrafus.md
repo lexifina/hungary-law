@@ -18,4 +18,4 @@ f)
 
 a) a világörökségi gondnokság kiválasztásának részletes szabályait, a világörökségi gondnokság feladatait és működését; valamint
 
-b)
+b) a Világörökségi Várományos Helyszínek Jegyzékét.
