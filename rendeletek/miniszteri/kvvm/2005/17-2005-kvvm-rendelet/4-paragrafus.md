@@ -34,11 +34,11 @@ A Nyirádi Sár-álló Természetvédelmi Terület természetvédelmi kezelési 
 
 – Természetvédelmi kezeléseket megalapozó és azokat továbbfejlesztő kutatások végzése.
 
-3. Természetvédelmi kezelési módok, korlátozások és tilalmak
+3.[^1] Természetvédelmi kezelési módok, korlátozások és tilalmak
 
 A természetvédelmi kezelési módokra, korlátozásokra és tilalmakra vonatkozó előírásokat – a természetvédelmi kezelési tervek készítésére, készítőjére és tartalmára vonatkozó szabályokról szóló 30/2001. (XII. 28.) KöM rendelet 2. § (2) bekezdés c) pontjában, illetve a rendelet mellékletének 7. pontjában meghatározottak szerint – a 3.1. és a 3.2. fejezet tartalmazza.
 
-A természetvédelmi kezelési tervben nem részletezett, vagy nem szabályozott kezelési előírásokat az igazgatóság kezdeményezésére az illetékes környezetvédelmi, természetvédelmi és vízügyi felügyelőség egyedi államigazgatási eljárásban határozza meg.
+A természetvédelmi kezelési tervben nem részletezett, vagy nem szabályozott kezelési előírásokat az igazgatóság kezdeményezésére a környezetvédelmi és természetvédelmi felügyelőség egyedi államigazgatási eljárásban határozza meg.
 
 3.1. Művelési ághoz köthető természetvédelmi kezelési módok, korlátozások és tilalmak
 
@@ -103,3 +103,5 @@ A természetvédelmi kezelési tervben nem részletezett, vagy nem szabályozott
 3.2.3. Látogatás
 
 – Látogatás során csak a meglévő utakon lehet közlekedni. A tulajdonosok (kezelők) számára gazdálkodási, kezelési célból a belépést biztosítani kell. A Balaton-felvidéki Nemzeti Park Igazgatóság engedélyével és koordinálásával kutatók is látogathatják a területet.
+
+[^1]: A melléklet 3. pontja a 132/2013. (XII. 23.) VM rendelet 19. §-a szerint módosított szöveg.
