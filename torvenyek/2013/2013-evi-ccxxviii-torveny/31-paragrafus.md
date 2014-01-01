@@ -6,4 +6,4 @@
 
 (3) A 3. § és a 6. § (3) bekezdése 2014. május 1. napján lép hatályba.
 
-(4)
+(4) Hatályát veszti a Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény 44/B. §-a, 44/C. §-a, valamint 77. § (1) bekezdés g) pontja.
