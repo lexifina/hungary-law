@@ -2,7 +2,7 @@
 
 (2) A elszámolóházi tevékenységből adódó kötelezettségként kell kimutatni:
 
-a) az árutőzsdén, illetve az értéktőzsdén kötött azonnali és határidős ügyletek esetén a befektetési szolgáltató részére végzett klíring tevékenységgel, a klíringelt ügylet nem pénzben (termékkel) történő teljesítésének lebonyolításával összefüggésben keletkezett kötelezettséget;
+a)[^9] az árutőzsdén, illetve az értéktőzsdén kötött azonnali és határidős ügyletek esetén a befektetési szolgáltató részére végzett, tőzsdén, tőzsdén kívül, vagy külön törvény által meghatározott szervezett piacon pénzügyi eszközökre kötött ügylet elszámolásával, az elszámolt ügylet nem pénzben (termékkel) történő teljesítésének lebonyolításával összefüggésben keletkezett kötelezettséget;
 
 b) az értékpapír-kölcsönzési rendszer működtetésével összefüggésben felmerült kötelezettséget.
 
@@ -13,3 +13,5 @@ b) az értékpapír-kölcsönzési rendszer működtetésével összefüggésben
 (5) Egyéb kötelezettségként kell kimutatni a rövid lejáratú kölcsönök, hitelek, a vevőtől kapott előlegek miatti kötelezettségek, a szállítói tartozások, a váltótartozások, a tőzsdével szembeni kötelezettségek, az elszámolóházi tevékenységből és értéktári szolgáltatásból adódó kötelezettségek, a kapcsolt vállalkozással, az egyéb részesedési viszonyban lévő vállalkozással szembeni rövid lejáratú kötelezettségek közé nem tartozó kötelezettségek összegét.
 
 (6) A céltartalékokon belül az egyéb céltartalékok között kell a mérlegben szerepeltetni a Tpt. szerint a jövőbeni veszteség fedezetére – külön rendelet alapján – képzett céltartalékot.
+
+[^9]: A 10. § (2) bekezdés a) pontja az 518/2013. (XII. 30.) Korm. rendelet 56. § 3. pontja szerint módosított szöveg.

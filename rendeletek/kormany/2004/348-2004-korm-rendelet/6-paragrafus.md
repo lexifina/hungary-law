@@ -10,6 +10,8 @@ b) a tőzsde szolgáltatásaiért járó díjakat,
 
 c) a tőzsdén kötött ügyletek után a szabályzatokban meghatározott mértékben járó forgalmi jutalékokat,
 
-d) az elszámolóházi klíringjog biztosításával összefüggésben beszedett díjat.
+d)[^5] a tőzsdén, tőzsdén kívül, vagy külön törvény által meghatározott szervezett piacon pénzügyi eszközökre kötött ügylet elszámolására szóló jogosultság biztosításával összefüggésben beszedett díjat.
 
 (3) Az egyéb bevételek között elkülönítetten kell bemutatni a tőzsde részére befolyt felajánlások és hozzájárulások összegét.
+
+[^5]: A 6. § (2) bekezdés d) pontja az 518/2013. (XII. 30.) Korm. rendelet 56. § 1. pontja szerint módossított szöveg.
