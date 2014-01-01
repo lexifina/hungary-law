@@ -1,4 +1,4 @@
-8. § (1)[^9] E rendelet – a menedékjogról szóló 2007. évi LXXX. törvénnyel, valamint a menedékjogról szóló 2007. évi LXXX. törvény végrehajtásáról szóló 301/2007. (XI. 9.) Korm. rendelettel együtt – a következő közösségi jogi aktusoknak történő megfelelést szolgálja:
+8. § (1)[^11] E rendelet – a menedékjogról szóló 2007. évi LXXX. törvénnyel, valamint a menedékjogról szóló 2007. évi LXXX. törvény végrehajtásáról szóló 301/2007. (XI. 9.) Korm. rendelettel együtt – a következő közösségi jogi aktusoknak történő megfelelést szolgálja:
 
 a) a lakóhelyüket elhagyni kényszerült személyek tömeges beáramlása esetén nyújtandó átmeneti védelem minimumkövetelményeiről, valamint a tagállamok e személyek befogadása és a befogadás következményeinek viselése tekintetében tett erőfeszítései közötti egyensúly előmozdítására irányuló intézkedésekről szóló, 2001. július 20-i 2001/55/EK tanácsi irányelv 27. cikke;
 
@@ -10,11 +10,11 @@ c) a harmadik országbeli állampolgárok és hontalan személyek nemzetközi v�
 
 a) a Tanács 2725/2000/EK (2000. december 11.) rendelete a dublini egyezmény hatékony alkalmazása érdekében az ujjlenyomatok összehasonlítására irányuló „Eurodac” létrehozásáról;
 
-b)[^10]
+b)[^12]
 
-c)[^11] az Európai Parlament és a Tanács 767/2008/EK (2008. július 9.) rendelete a vízuminformációs rendszerről (VIS) és a rövid távú tartózkodásra jogosító vízumokra vonatkozó adatok tagállamok közötti cseréjéről (VIS-rendelet);
+c)[^13] az Európai Parlament és a Tanács 767/2008/EK (2008. július 9.) rendelete a vízuminformációs rendszerről (VIS) és a rövid távú tartózkodásra jogosító vízumokra vonatkozó adatok tagállamok közötti cseréjéről (VIS-rendelet);
 
-d)[^12] az Európai parlament és a Tanács 439/2010/EU (2010. május 19.) rendelete az Európai Menekültügyi Támogatási hivatal létrehozásáról 19. cikk.
+d)[^14] az Európai parlament és a Tanács 439/2010/EU (2010. május 19.) rendelete az Európai Menekültügyi Támogatási hivatal létrehozásáról 19. cikk.
 
 Melléklet az 52/2007. (XII. 11.) IRM rendelethez
 
@@ -56,7 +56,7 @@ A befogadó állomás házirendje
 
 18. A befogadó állomáson elhelyezett, valamint a látogató az általa a befogadó állomásnak okozott kárt köteles megtéríteni.
 
-[^9]: A 8. § (1) bekezdése a 33/2013. (VI. 28.) BM rendelet 8. §-ával megállapított szöveg.
-[^10]: A 8. § (2) bekezdés b) pontját a 33/2013. (VI. 28.) BM rendelet 9. §-a hatályon kívül helyezte.
-[^11]: A 8. § (2) bekezdés c) pontját a 12/2010. (IV. 2.) IRM rendelet 1. § (2) bekezdése iktatta be.
-[^12]: A 8. § (2) bekezdés d) pontját a 12/2010. (XII. 23.) BM rendelet 23. §-a iktatta be, szövege a 23/2011. (VII. 21.) BM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^11]: A 8. § (1) bekezdése a 33/2013. (VI. 28.) BM rendelet 8. §-ával megállapított szöveg.
+[^12]: A 8. § (2) bekezdés b) pontját a 33/2013. (VI. 28.) BM rendelet 9. §-a hatályon kívül helyezte.
+[^13]: A 8. § (2) bekezdés c) pontját a 12/2010. (IV. 2.) IRM rendelet 1. § (2) bekezdése iktatta be.
+[^14]: A 8. § (2) bekezdés d) pontját a 12/2010. (XII. 23.) BM rendelet 23. §-a iktatta be, szövege a 23/2011. (VII. 21.) BM rendelet 4. § (2) bekezdésével megállapított szöveg.
