@@ -1,1 +1,0 @@
-A Kormány a Magyar Köztársaság 2010. évi költségvetéséről szóló 2009. évi CXXX. törvény 91. § (1) bekezdés d) pontjában, valamint a Magyar Köztársaság 2011. évi költségvetéséről szóló 2010. évi CLXIX. törvény 80. § (1) bekezdés d) pontjában kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:

@@ -1,3 +1,0 @@
-## 1. § A vis maior tartalék felhasználásának részletes szabályairól szóló 8/2010. (I. 28.) Korm. rendelet (a továbbiakban: R1.) 7. §-a a következő (4a) bekezdéssel egészül ki:
-
-## „(4a) A (4) bekezdésben meghatározott határidő módosítására egy alkalommal, legfeljebb az elszámolási határidő 24 hónapra történő megváltoztatásával van lehetőség, amennyiben az önkormányzaton kívül álló szervezet tevékenysége vagy időjárási körülmények akadályozzák a határidő betartását. A kérelemhez csatolni kell a határidő módosítás indokoltságát alátámasztó dokumentumokat, továbbá a polgármester nyilatkozatát, melyben megjelöli a munkálatok megkezdését, a helyreállítás befejezésének várható új időpontját, és részletezi az elszámolást akadályozó körülményeket.”
