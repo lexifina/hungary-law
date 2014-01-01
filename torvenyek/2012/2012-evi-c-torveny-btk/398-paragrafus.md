@@ -32,7 +32,7 @@ ad) cukorcefre esetén a 10 000 litert,
 
 ae) cukor- vagy keményítőtartalmú mezőgazdasági eredetű termékből készült cefre esetén a 25 000 litert,
 
-af) vágott dohány esetén a 450 kilogrammot,
+af) szárított dohány, fermentált dohány vagy vágott dohány esetén az 5 kilogrammot,
 
 b) a zárjegy jelentős mennyiségű, ha az 5000 darabot
 

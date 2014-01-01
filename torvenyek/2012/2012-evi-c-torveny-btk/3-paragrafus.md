@@ -14,7 +14,7 @@ a) a nem magyar állampolgár által külföldön elkövetett cselekményre is, 
 
 aa) a magyar törvény szerint bűncselekmény, és az elkövetés helyének törvénye szerint is büntetendő,
 
-ab) állam elleni bűncselekmény, – a szövetséges fegyveres erő ellen elkövetett kémkedést kivéve – tekintet nélkül arra, hogy az az elkövetés helyének törvénye szerint büntetendő-e,
+ab) állam elleni bűncselekmény, – kivéve a szövetséges fegyveres erő ellen elkövetett kémkedést és a kémkedést az Európai Unió intézményei ellen – tekintet nélkül arra, hogy az az elkövetés helyének törvénye szerint büntetendő-e,
 
 ac) a XIII. vagy a XIV. Fejezetben meghatározott bűncselekmény, vagy egyéb olyan bűncselekmény, amelynek üldözését törvényben kihirdetett nemzetközi szerződés írja elő,
 

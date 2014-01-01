@@ -31,3 +31,19 @@ c) tetrahidro-kannabinol (THC) esetén a tiszta és savformában együttesen jel
 mennyiséget nem haladja meg.
 
 (2) A 176–180. § alkalmazásában a kábítószer csekély mennyiségű, ha kannabisz növény esetén a növényegyedek száma legfeljebb öt.
+
+(3) A 176–180. § alkalmazásában az (1)–(2) bekezdés szerinti kábítószer
+
+a) jelentős mennyiségű, ha az adott kábítószerre meghatározott csekély mennyiség felső határának hússzoros,
+
+b) különösen jelentős mennyiségű, ha az adott kábítószerre meghatározott csekély mennyiség felső határának kétszázszoros
+
+mértékét meghaladja.
+
+(4) A 176–180. § alkalmazásában az (1)–(2) bekezdésben nem szereplő kábítószer esetén a kábítószer
+
+a) csekély mennyiségű, ha annak tiszta hatóanyag-tartalma a hozzá nem szokott fogyasztó átlagos hatásos adagjának hétszeres mértékét nem haladja meg,
+
+b) jelentős mennyiségű, ha annak tiszta hatóanyag-tartalma a hozzá nem szokott fogyasztó átlagos hatásos adagjának száznegyvenszeres mértékét meghaladja,
+
+c) különösen jelentős mennyiségű, ha annak tiszta hatóanyag-tartalma a hozzá nem szokott fogyasztó átlagos hatásos adagjának ezernégyszázszoros mértékét meghaladja.

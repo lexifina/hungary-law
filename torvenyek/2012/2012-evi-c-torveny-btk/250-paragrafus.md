@@ -12,6 +12,6 @@ bűntett miatt egy évtől öt évig terjedő szabadságvesztéssel büntetendő
 
 (3) Aki radioaktív anyaggal való visszaélésre irányuló előkészületet követ el, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
 
-(4) Aki az (1) bekezdés a) pontjában meghatározott bűncselekményt gondatlanságból követi el, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
+(4) Aki az (1) bekezdésben meghatározott bűncselekményt gondatlanságból követi el, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
 
 (5) E § alkalmazásában veszélyes radioaktív anyag: a természetben előforduló vagy mesterségesen előállított anyag, amelynek egy vagy több összetevője ionizáló sugárzást bocsát ki, és amely az emberi életre és egészségre, vagy az élő és élettelen környezetre veszélyes.

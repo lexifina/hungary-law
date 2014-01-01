@@ -6,7 +6,7 @@ a) a hatósági eljárás során elrendelt lefoglalásnál, zárlatnál vagy zá
 
 b) a lefoglalt, zárolt vagy zár alá vett dolog megőrzésére szolgáló, lezárt helyiséget felnyitja,
 
-c) az információs rendszer útján rögzített adatok megőrzésére kötelezéssel érintett adatot jogosulatlan személy számára hozzáférhetővé teszi, illetve azt az eljárás alól elvonja vagy módosítja,
+c) az információs rendszerben tárolt adatok megőrzésére kötelezéssel érintett adatot jogosulatlan személy számára hozzáférhetővé teszi, illetve azt az eljárás alól elvonja vagy módosítja,
 
 d) a büntetőeljárás során hozzáférhetetlenné tett adatot jogosulatlan személy számára hozzáférhetővé teszi, illetve azt az eljárás alól elvonja vagy módosítja,
 
