@@ -1,24 +1,32 @@
 ## A Hatóság keretében működő Tanács tagjai, tisztségviselői
 
-168. § (1) A Közbeszerzési Hatóság keretében Tanács (a továbbiakban: Tanács) működik, amely tíz tagból áll. A Tanácsban az egyes közérdekű célokat, az ajánlatkérőket és az ajánlattevőket azonos számú tag képviseli.
+168. § (1) A Közbeszerzési Hatóság keretében Tanács (a továbbiakban: Tanács) működik, amely tizennégy tagból áll. A Tanács tagjai az egyes közérdekű célokat, az ajánlatkérőket és az ajánlattevőket képviselik.
 
-(2) A törvény alapelveinek és egyes közérdekű céloknak az érvényesítése a Tanácsban a következő szervezetek vagy személyek által kijelölt személyek feladata:
+(2) A törvény alapelveinek, az egyes közérdekű céloknak, az ajánlatkérők, valamint az ajánlattevők érdekeinek az érvényesítése a Tanácsban a következő személyek feladata:
 
-a) a Gazdasági Versenyhivatal elnöke;
+a) az állami vagyon felügyeletéért felelős miniszter által kijelölt személy;
 
-b) az állami vagyon felügyeletéért felelős miniszter;
+b) a gazdaságpolitikáért felelős miniszter által kijelölt személy;
 
-c) a gazdaságpolitikáért felelős miniszter.
+c) az agrár-vidékfejlesztésért felelős miniszter és a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara elnöke által közösen kijelölt személy;
 
-(3) A közbeszerzési eljárás ajánlatkérőinek általános érdekeit a Tanácsban a következő szervezetek vagy személyek által kijelölt személyek képviselik:
+d) az építésügyért felelős miniszter által kijelölt személy;
 
-a) a Nemzeti Fejlesztési Ügynökség által kijelölt személy;
+e) a Miniszterelnökséget vezető államtitkár által kijelölt személy;
 
-b) a helyi önkormányzatok országos szövetségei által együttesen kijelölt személy;
+f) az Állami Számvevőszék elnöke vagy az általa kijelölt személy;
 
-c) az építésügyért felelős miniszter által kijelölt személy.
+g) a Gazdasági Versenyhivatal elnöke vagy az általa kijelölt személy;
 
-(4) A közbeszerzési eljárás ajánlattevőinek általános érdekeit a Tanácsban a munkáltatók országos érdekképviseletei és az országos gazdasági kamarák által kijelölt három személy képviseli.
+h) a Kormányzati Ellenőrzési Hivatal elnöke vagy az általa kijelölt személy;
+
+i) a Nemzeti Fogyasztóvédelmi Hatóság vezetője vagy az általa kijelölt személy;
+
+j) a helyi önkormányzatok országos szövetségei által együttesen kijelölt személy;
+
+k) a munkáltatók országos érdekképviseletei és az országos gazdasági kamarák által kijelölt három személy.
+
+(3)–(4)
 
 (5) A Tanács elnöke a Tanács tagjává válik akkor is, ha nem a tagok közül választották. Ha a Tanács elnökét a Tanács tagjai közül választották, az elnök a továbbiakban nem képviseli az őt kijelölő (kijelölők) szerinti általános célokat vagy érdekeket, a kijelölő (kijelölők) pedig jogosult a Tanácsba új tagot kijelölni. A kijelölő (kijelölők) a Tanács elnökével szemben nem élhet a 170. § (6) bekezdésének b) pontjában és (7) bekezdésében biztosított jogával.
 

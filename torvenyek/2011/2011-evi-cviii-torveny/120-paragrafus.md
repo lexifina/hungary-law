@@ -2,7 +2,7 @@
 
 120. § E törvényt nem kell alkalmazni az uniós értékhatárt el nem érő
 
-a) tankönyv beszerzésére, amennyiben arra a tankönyvpiac rendjéről szóló törvényben meghatározottak szerint, az iskolai tankönyvellátás keretében kerül sor és a tankönyv szerepel a tankönyvjegyzékben;
+a) tankönyv beszerzésére, amennyiben arra a nemzeti köznevelés tankönyvellátásáról szóló törvényben meghatározottak szerint, az iskolai tankönyvellátás keretében kerül sor és a tankönyv szerepel a tankönyvjegyzékben;
 
 b) a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény alapján gyermekotthonban, illetve lakásotthonban elhelyezett gyermekek teljes ellátására, illetőleg utógondozói ellátásban részesülők, valamint a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 59–85/A. §-aiban szabályozott szociális szolgáltatások körében ellátottak teljes ellátására szolgáló árubeszerzés és szolgáltatás megrendelése esetén;
 
@@ -22,7 +22,7 @@ i) fogvatartottak kötelező foglalkoztatása keretében előállított áruk va
 
 j) közfoglalkoztató által közfoglalkoztatási jogviszony keretében előállított áruk, vagy teljesített szolgáltatások, illetve építési beruházások beszerzésére;
 
-k) a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény szerinti hitel és pénzkölcsön, valamint pénzforgalmi szolgáltatás igénybevételére;
+k) a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerinti hitel és pénzkölcsön, valamint pénzforgalmi szolgáltatás igénybevételére;
 
 l) a 114. § (2) bekezdés d) pontjában meghatározott szolgáltatást nyújtó szervezet beszerzései vonatkozásában;
 
