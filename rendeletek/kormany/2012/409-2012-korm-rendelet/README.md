@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-409-20-
 | 2012-12-30 | 2012-409-20-22.2 | 2010: CXXX. törvény |
 | 2013-01-01 | 2012-409-20-22.3 | 2010. évi I. törvény |
 | 2013-01-02 | 2012-409-20-22.4 | 2010: CXXX. törvény |
+| 2014-01-01 | 2012-409-20-22.5 | Nemzeti Jogszabálytár (egységes szerkezet) |
