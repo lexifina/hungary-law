@@ -1,6 +1,6 @@
-9. § (1) Az átmeneti vagy tartós nevelésbe vett gyermek joga különösen, hogy életkorához, egészségi állapotához, fejlettségéhez, valamint egyéb szükségleteihez igazodóan
+9. § (1) A nevelésbe vett gyermek joga különösen, hogy életkorához, egészségi állapotához, fejlettségéhez, valamint egyéb szükségleteihez igazodóan
 
-a) állandóságot, érzelmi biztonságot nyújtó teljes körű ellátásban, gondozásban, – nemzetiségi, etnikai és vallási hovatartozását figyelembe vevő – megfelelő nevelésben, oktatásban részesüljön,
+a) állandóságot, érzelmi biztonságot nyújtó teljes körű ellátásban, gondozásban, – nemzetiségi, etnikai és vallási hovatartozását figyelembe vevő – megfelelő nevelésben, oktatásban és érdekei érvényesítésére megfelelő törvényes képviseletben részesüljön,
 
 b) gondozási helyének megváltoztatását, gyermekével vagy testvéreivel való együttes elhelyezését kezdeményezze
 

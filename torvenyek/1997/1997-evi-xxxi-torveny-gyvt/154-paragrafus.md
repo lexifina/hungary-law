@@ -2,7 +2,7 @@
 
 a) a szülő gyermeke ismeretlen személy általi örökbefogadásához járult hozzá, illetve a hatodik életévét betöltött vagy egészségileg károsodott gyermek esetében a szülői nyilatkozatot a gyámhatóság jóváhagyta,
 
-b) a szülő a gyermekotthonban a gyermekéről személyesen gondoskodik,
+b) a szülő a nevelőszülőnél vagy a gyermekotthonban a gyermekéről személyesen gondoskodik,
 
 c) a kötelezett rendszeres jövedelemmel nem rendelkezik.
 

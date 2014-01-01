@@ -1,3 +1,3 @@
 74. § (1) Ha a gyámhatóság az ideiglenes hatályú elhelyezés alapján azt állapítja meg, hogy a szülői felügyelet megszüntetésének okai nem állnak fenn, de a gyermek fejlődése a korábbi környezetében nincs biztosítva, két hónapon belül pert indít a szülő (szülők) ellen a gyermeknek a különélő másik szülőnél vagy harmadik személynél történő elhelyezése iránt.
 
-(2) A gyámhatóság a per megindításával egyidejűleg megállapítja a szülő felügyeleti jogának szünetelését, a különélő másik szülő felügyeleti jogának feléledését, vagy azt a személyt, akinél a gyermeket ideiglenes hatállyal elhelyezték, a gyermek gyámjául rendeli.
+(2) A gyámhatóság a per megindításával egyidejűleg megállapítja a szülő felügyeleti jogának szünetelését, a különélő másik szülő felügyeleti jogának feléledését, vagy azt a személyt, akinél a gyermeket ideiglenes hatállyal elhelyezték, a gyermek családbafogadó gyámjául rendeli.

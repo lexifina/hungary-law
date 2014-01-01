@@ -1,6 +1,6 @@
 ## Utógondozói ellátás
 
-93. § (1) A gyámhatóság a fiatal felnőtt kérelmére –, illetve a gyermek nagykorúságának elérése előtt a gyám (hivatásos gyám) javaslatának figyelembevételével – elrendeli az utógondozói ellátást, ha a gyermek, illetve a fiatal felnőtt átmeneti vagy tartós nevelésbe vétele nagykorúvá válásával szűnt meg, és
+93. § (1) A gyámhatóság a gyermek vagy a fiatal felnőtt kérelmére – a gyermek nagykorúságának elérése előtt a gyermekvédelmi gyám javaslatának figyelembevételével – elrendeli az utógondozói ellátást, ha a gyermek, illetve a fiatal felnőtt nevelésbe vétele nagykorúvá válásával szűnt meg, és
 
 a) létfenntartását önállóan biztosítani nem tudja, vagy
 
@@ -8,54 +8,50 @@ b) köznevelési, felsőoktatási vagy felnőttképzési intézménnyel (szolgá
 
 c) szociális bentlakásos intézménybe felvételét várja.
 
-d)
-
 (2) Az utógondozói ellátást a fiatal felnőtt, ha
 
-a) az (1) bekezdés a) pontja szerinti ok miatt részesül ellátásban, a huszonegyedik életévének,
+a) az (1) bekezdés a) pontja szerinti ok miatt részesül ellátásban, a 21. életévének, vagy ha speciális vagy különleges ellátási szükségletűként töltötte be nagykorúságát, 22. életévének,
 
-b) az (1) bekezdés b) vagy c) pontja szerinti ok miatt részesül ellátásban, a huszonnegyedik életévének
+b) az (1) bekezdés b) pontja szerinti ok miatt részesül ellátásban, a 22. életévének, ha felsőoktatási intézménnyel áll hallgatói jogviszonyban, 25. életévének,
+
+c) az (1) bekezdés c) pontja szerinti ok miatt részesül ellátásban, a felvétel időpontjáig, de legkésőbb 22. életévének
 
 betöltéséig kérheti.
 
-(3) Az (1) bekezdés a) és d) pontjának alkalmazásában akkor nem biztosított a fiatal felnőtt létfenntartása, ha
+(3) Az (1) bekezdés a) pontjának alkalmazásában akkor nem biztosított a fiatal felnőtt létfenntartása, ha
 
 a) a havi jövedelme az öregségi nyugdíj legkisebb összegének háromszorosát nem haladja meg, vagy
 
-b) a nagykorúvá válásának időpontjában a rendelkezésére bocsátott készpénzvagyonának értéke az öregségi nyugdíj legkisebb összegének negyvenszeresét nem haladja meg,
+b) a nagykorúvá válásának időpontjában a rendelkezésére bocsátott készpénzvagyonának értéke az öregségi nyugdíj legkisebb összegének negyvenszeresét nem haladja meg.
 
-feltéve, ha lakhatása saját vagy közeli hozzátartozója lakókörnyezetében nem megoldható.
+(4) Az utógondozói ellátás elrendeléséről a gyámhatóság fellebbezésre tekintet nélkül végrehajtható határozatban dönt.
 
-(4) Az otthonteremtési támogatásban részesült fiatal felnőtt utógondozói ellátását a gyámhatóság akkor rendeli el, ha a fiatal felnőtt létfenntartását vagy lakhatását veszélyeztető, rendkívüli élethelyzetbe került.
+(5) Az otthonteremtési támogatásban részesült fiatal felnőtt utógondozói ellátását a gyámhatóság akkor rendeli el, ha a fiatal felnőtt létfenntartását vagy lakhatását veszélyeztető, rendkívüli élethelyzetbe került.
 
-(5) Az utógondozói ellátás elrendelése előtt a gyámhatóság megkéri az ellátást biztosító nevelőszülő, gyermekotthon, utógondozói otthon befogadó nyilatkozatát vagy a területi gyermekvédelmi szakszolgálat külső férőhelyre vonatkozó nyilatkozatát. A befogadó nyilatkozat megtagadása esetén a gyámhatóság köteles kikérni az intézmény érdekképviseleti fórumának véleményét.
+(6) Az utógondozói ellátás ismételten elrendelhető az (1) bekezdésben meghatározott ok fennállása esetén, legfeljebb a (2) bekezdésben meghatározott időtartamig.
 
-(6) Az utógondozói ellátás ismételten elrendelhető
+(7) Nincs helye az utógondozói ellátás ismételt elrendelésének, ha az utógondozói ellátás megszüntetésére a (10) bekezdés b)–f) pontjában foglaltak miatt került sor és a megszüntető határozat jogerőre emelkedésétől számítva egy év még nem telt el.
 
-a) a (2) bekezdés a) pontja szerinti esetben a fiatal felnőtt huszonegyedik életévének betöltéséig,
+(8) Az (1) bekezdés a) és c) pontjában meghatározott ok alapján elrendelt utógondozói ellátásban részesülő munkaképes fiatal felnőtt köteles a munkaügyi központtal együttműködni.
 
-b) a (2) bekezdés b) pontja szerinti esetben a fiatal felnőtt huszonnegyedik életévének betöltéséig. Nincs helye az ismételt elrendelésnek, ha az utógondozói ellátás megszüntetésére a (10) bekezdés c) vagy d) pontjában foglaltak miatt került sor, és a megszüntető határozat jogerőre emelkedésétől számított egy év még nem telt el.
+(9) Megszűnik az utógondozói ellátás, ha a fiatal felnőtt
 
-(7) Az utógondozói ellátásban részesülő, tanintézményben nappali tagozaton tanulmányokat nem folytató munkaképes fiatal felnőtt köteles az állami foglalkoztatási szervvel együttműködni.
+a) az (1) bekezdés a) pontja szerinti ok miatt részesül ellátásban, az utógondozói ellátás elrendelése okának megszűnésével, de legkésőbb a fiatal felnőtt 21. életévének betöltésével, vagy ha speciális vagy különleges ellátási szükségletűként érte el nagykorúságát, a 22. életévének betöltésével,
 
-(8) Az utógondozói ellátást nyújtó az utógondozói ellátásról szóló gyámhatósági határozat közlésétől számított tizenöt napon belül megkeresi a gyámhatóságot, és kezdeményezi az ellátás megszüntetését, ha a fiatal felnőtt az ellátást nem veszi igénybe, és ennek okáról nem értesíti az ellátást nyújtót.
+b) az (1) bekezdés b) pontja szerinti ok miatt részesül ellátásban, a tanulói, hallgatói vagy felnőttképzési jogviszony megszűnését követő 120. napon, de tanulói vagy felnőttképzési jogviszony fennállása esetén legkésőbb a 22., hallgatói jogviszony fennállása esetén legkésőbb a 25. életévének betöltésével,
 
-(9) Megszűnik az utógondozói ellátás
-
-a) a fiatal felnőttnek, az ellátás megszüntetésére vonatkozó bejelentését követő – a házirendben meghatározott – idő elteltével,
-
-b) – ha a fiatal felnőtt az (1) bekezdés a) pontja szerinti ok miatt részesül ellátásban – a fiatal felnőtt huszonegyedik életévének betöltésével,
-
-c) – ha a fiatal felnőtt az (1) bekezdés b) pontja szerinti ok miatt részesül ellátásban – a fiatal felnőtt huszonnegyedik évének betöltésével, illetve a felsőfokú iskola nappali tagozatán tanulmányokat folytató fiatal felnőtt esetén a tanulmányok befejezésével, de legkésőbb huszonötödik életévének betöltésével,
-
-d) – ha a fiatal felnőtt az (1) bekezdés c) pontja szerinti ok miatt részesül ellátásban – a fiatal felnőtt huszonnegyedik életévének betöltésével.
+c) az (1) bekezdés c) pontja szerinti ok miatt részesül ellátásban, a szociális intézménybe való felvételével, de legkésőbb a 22. életévének betöltésével.
 
 (10) A gyámhatóság az utógondozói ellátást megszünteti, ha a fiatal felnőtt
 
-a) ellátásának feltételei már nem állnak fenn,
+a) utógondozói ellátásának jogosultsági feltételei már nem állnak fenn,
 
-b) ellátását szociális bentlakásos intézmény biztosítja,
+b) a nevelőszülőjével, utógondozójával, az utógondozói ellátást nyújtó intézmény munkatársával, illetve az intézményben ellátott társával szemben elfogadhatatlan, az együttélés szabályait súlyosan sértő magatartást tanúsít,
 
-c) a nevelőszülőjével vagy más utógondozói ellátást nyújtóval szemben elfogadhatatlan, az együttélés szabályait súlyosan sértő magatartást tanúsít,
+c) a házirendet többször súlyosan megsérti,
 
-d) a házirendet többször súlyosan megsérti és az ellátás megszüntetésével az intézmény érdekképviseleti fóruma is egyetért.
+d) azt kéri,
+
+e) az (1) bekezdés b) pontja alapján elrendelt utógondozói ellátás esetén a tanulmányi vagy vizsgakötelezettségét önhibájából nem teljesíti,
+
+f) az ellátás megállapításáról szóló gyámhatósági határozat közlésétől számított 15 napon belül az ellátást nem vette igénybe és ennek okáról önhibájából nem értesítette az ellátást nyújtót.

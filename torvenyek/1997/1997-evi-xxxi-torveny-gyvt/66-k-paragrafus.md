@@ -1,5 +1,5 @@
-66/K. § (1) A hivatásos nevelőszülő szabadsága, betegsége vagy egyéb akadályoztatása esetén a gyermek – lehetőség szerint megszokott környezetében való – teljes körű ellátásáról a működtető gyermekgondozó alkalmazásával vagy megbízásával gondoskodik.
+66/K. § (1) A helyettes szülői jogviszony fennállása alatt a helyettes szülő együttműködik a működtetővel, a gyermek ügyében illetékes gyámhatósággal, a gyermekjóléti szolgálattal, a gyermek törvényes képviselőjével, továbbá a helyettes szülő tevékenységét ellenőrző gyámhatósággal.
 
-(2) Ha a hivatásos nevelőszülő legalább öt, a speciális hivatásos nevelőszülő három gyermek teljes körű ellátását biztosítja, a működtetőnek gyermekgondozó alkalmazásával vagy megbízásával kell gondoskodnia a nevelőszülő segítéséről.
+(2) A helyettes szülő az együttműködés keretében köteles haladéktalanul tájékoztatni a működtetőt, ha feladatainak ellátásában akadályoztatva van vagy életkörülményeiben jelentős változás várható.
 
-(3) A gyermekgondozó személyére a hivatásos nevelőszülő tesz javaslatot. Gyermekgondozóként elsősorban a nevelőszülő házastársa vagy egyenesági rokona foglalkoztatható.
+(3) A helyettes szülő – a működtető hozzájárulásával – nevelőszülői feladatot vagy a gyermekek napközbeni ellátását biztosító feladatokat is végezhet. Ilyen esetben reá nézve a 66/A–66/I. §-ban vagy a 43. §-ban meghatározottakat alkalmazni kell.

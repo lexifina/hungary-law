@@ -1,4 +1,4 @@
-55. § (1) A nevelőszülő – a működtető által elkészített egyéni gondozási-nevelési terv alapján – a saját háztartásában nyújt teljes körű ellátást az ideiglenes hatállyal elhelyezett, az átmeneti és a tartós nevelésbe vett gyermeknek.
+55. § (1) A nevelőszülő – egyéni gondozási-nevelési terv alapján – a saját háztartásában nyújt teljes körű ellátást az ideiglenes hatállyal elhelyezett, a nevelésbe vett gyermeknek.
 
 Ennek érdekében különösen
 
@@ -12,7 +12,7 @@ d) felkészíti a gyermeket az önálló életvezetésre, alapvető személyes �
 
 e)
 
-(2) A nevelőszülő a gyámhatóság kirendelése alapján ellátja a gyámi feladatokat.
+(2)
 
 (3) A nevelőszülő a gyámhatóság határozata alapján biztosítja az általa nevelt gyermek kapcsolatát a kapcsolattartásra feljogosított szülőjével és közeli hozzátartozóival.
 
@@ -22,7 +22,7 @@ a) elláthatja a tartósan beteg vagy fogyatékos gyermekek, a három év alatti
 
 b) részt vállalhat az egyéni elhelyezési tervben foglaltak szerint a vér szerinti család komplex gondozásában,
 
-c) elláthatja a helyettes szülői feladatokat, azzal, hogy a nevelőszülőnél elhelyezhető gyermekek száma ebben az esetben sem haladhatja meg az 54. § (5)–(7) bekezdésében meghatározott létszámot,
+c) elláthatja a helyettes szülői feladatokat, azzal, hogy a nála elhelyezhető gyermekek száma nem haladhatja meg a 49. § (3) bekezdésében meghatározott létszámot,
 
 feltéve, hogy személyében, valamint körülményeiben alkalmas e feladatok végzésére és a működtető biztosítja számára a speciális szakmai támogatást.
 
@@ -30,12 +30,12 @@ feltéve, hogy személyében, valamint körülményeiben alkalmas e feladatok v�
 
 a) külön jogszabályban meghatározott követelmények figyelembevételével kiválasztja, felkészíti, nyilvántartásba veszi, és
 
-b) szakmai tanácsadással, családgondozással és utógondozással segíti, továbbá
+b) szakmai tanácsadással és utógondozással segíti, továbbá
 
-c) folyamatosan segíti és ellenőrzi a nevelési díj és az ellátmány felhasználásában, a szakmai tevékenysége ellátásában,
+c) folyamatosan segíti és ellenőrzi a nevelési díj, az ellátmány és a családi pótlék felhasználásában, a szakmai tevékenysége ellátásában.
 
 d)
 
-(6) A nevelőszülő tevékenységét e törvényben meghatározott nevelőszülői jogviszonyban végzi – legalább öt nevelőszülőt foglalkoztató – nevelőszülői hálózat keretében. A nevelőszülői hálózat nevelési alapdokumentuma a nevelőszülők és a nevelőszülői tanácsadók által elfogadott, a nevelőszülői hálózatban folyó nevelés célját, alapelvét és módszereit tartalmazó szakmai program.
+(6)
 
-(7) A nevelőszülő a saját háztartásában teljes körű ellátást nyújt a nála elhelyezett utógondozói ellátásban részesülő fiatal felnőttnek. Ennek keretében különösen segítséget nyújt a fiatal felnőtt önálló életvezetéséhez, társadalmi beilleszkedéséhez, hozzátartozóival való kapcsolattartásához.
+(7) A nevelőszülő a saját háztartásában – a működtetője közreműködésével – utógondozói ellátást nyújt.

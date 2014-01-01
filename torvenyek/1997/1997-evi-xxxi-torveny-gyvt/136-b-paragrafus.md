@@ -1,0 +1,1 @@
+136/B. § A gyámhatóság a fiatalok életkezdési támogatásának megállapítása céljából a gyermeknek a fiatalok életkezdési támogatásáról szóló 2005. évi CLXXIV. törvény 9/B. §-ában foglalt adatait az ott meghatározott gyakorisággal átadja a kincstárnak.

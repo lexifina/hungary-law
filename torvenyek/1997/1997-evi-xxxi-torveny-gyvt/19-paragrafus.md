@@ -46,7 +46,7 @@ e) korhatárra való tekintet nélkül a tartósan beteg és a fogyatékos gyerm
 
 f) az a)–e) pontokba nem tartozó, a Csjt. alapján a szülő vagy házastársa által eltartott rokont.
 
-(5)
+(5) A (4) bekezdés alkalmazásában szülő alatt a családbafogadó gyámot kell érteni, ha a családbafogadó gyám a gyámsága alá helyezett gyermek tartására köteles.
 
 (6) A vagyoni helyzet vizsgálata kiterjed a (4) bekezdésben meghatározott közös háztartásban élő közeli hozzátartozók vagyonára.
 

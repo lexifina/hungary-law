@@ -16,7 +16,7 @@ tekintetében látja el.
 
 (3) A területi gyermekvédelmi szakszolgálat szolgáltatási, szervezési, tanácsadói és gondozási feladatokat végez. Tevékenysége körében a 60–65. §-okban foglaltakon túl
 
-a) eseti gondnoki, vagyonkezelő gondnoki, hivatásos gyámi hálózatot működtet,
+a) gyermekvédelmi gyámi, eseti gondnoki hálózatot működtet,
 
 b) az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv döntése alapján a gyermekek ideiglenes hatályú elhelyezését biztosító otthont működtet,
 

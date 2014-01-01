@@ -40,7 +40,7 @@ cc) egészségügyi ellátások igénybevételét,
 
 cd) pedagógiai szakszolgálatok igénybevételét, vagy
 
-ce) a gyermek védelembe vételét vagy súlyosabb fokú veszélyeztetettség esetén a gyermek ideiglenes hatályú elhelyezését, átmeneti vagy tartós nevelésbe vételét.
+ce) a gyermek védelembe vételét vagy súlyosabb fokú veszélyeztetettség esetén a gyermek ideiglenes hatályú elhelyezését, nevelésbe vételét.
 
 d) javaslat készítése a veszélyeztetettség mértékének megfelelően
 
@@ -54,4 +54,4 @@ dc) a gyermek családjából történő kiemelésére, a leendő gondozási hely
 
 a) a családgondozás biztosítása – az otthont nyújtó ellátást, illetve a területi gyermekvédelmi szakszolgáltatást végző intézménnyel együttműködve – a család gyermeknevelési körülményeinek megteremtéséhez, javításához, a szülő és a gyermek közötti kapcsolat helyreállításához,
 
-b) utógondozó szociális munka (a továbbiakban: utógondozás) biztosítása – az otthont nyújtó ellátást, illetve a területi gyermekvédelmi szakszolgáltatást végző intézménnyel együttműködve – a gyermek családjába történő visszailleszkedéséhez.
+b) utógondozás biztosítása – az otthont nyújtó ellátást, illetve a területi gyermekvédelmi szakszolgáltatást végző intézménnyel együttműködve – a gyermek családjába történő visszailleszkedéséhez.

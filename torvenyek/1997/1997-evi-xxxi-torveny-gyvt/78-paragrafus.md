@@ -1,5 +1,53 @@
-78. § (1) A gyámhatóság az átmeneti nevelésbe vett gyermek és a szülő kapcsolatát, a szülőnek a nevelőszülővel, gyermekotthonnal, illetve fogyatékosok és pszichiátriai betegek otthonával való együttműködését, továbbá a szülő magatartásában, életvitelében és körülményeiben beálló változásokat folyamatosan figyelemmel kíséri.
+78. § (1) A gyámhatóság a gyermeket nevelésbe veszi, ha
 
-(2) Ha az átmeneti nevelésbe vett gyermek szülője kapcsolattartási jogával a gyermek vagy a gyermeket gondozó személy sérelmére visszaél és magatartásával a gyermek nevelését, testi, értelmi, érzelmi és erkölcsi fejlődését veszélyezteti, a gyermeket gondozó személy, illetve a gyermek gyámja (hivatásos gyámja) kezdeményezheti a gyámhatóságnál, illetve a bíróságnál a kapcsolattartási jog korlátozását, szüneteltetését vagy megvonását.
+a) a gyermek számára családbafogadó gyám rendelésére nem kerülhet sor, és
 
-(3) Ha az átmeneti nevelésbe vett gyermek szülője neki felróhatóan, a gyermek érdekét súlyosan sértő módon nem működik együtt a gyermekét gondozó nevelőszülővel vagy intézménnyel, a gyermekével nem tart kapcsolatot, továbbá magatartásán, életvitelén, körülményein a gyermek átmeneti nevelésének megszüntetése céljából nem változtat, illetőleg, ha a szülői felügyelet megszüntetésének egyéb oka valósult meg, a gyámhatóság pert indít a szülő ellen felügyeleti jogának megszüntetése iránt.
+aa) a gyermek fejlődését családi környezete veszélyezteti, és veszélyeztetettségét az alapellátás keretében biztosított szolgáltatásokkal, valamint a védelembe vétellel nem lehetett megszüntetni, illetve attól eredmény nem várható, továbbá, ha a gyermek megfelelő gondozása a családján belül nem biztosítható, vagy
+
+ab) a szülő vagy mindkét szülő szülői felügyeleti jogát a bíróság megszüntette, vagy
+
+ac) a szülő vagy mindkét szülő elhalálozott, vagy
+
+ad) a gyermeknek az ab) és ac) alponton kívül más okból nincs szülői felügyeletet gyakorló szülője,
+
+b) a gyermek ideiglenes hatállyal nem helyezhető el a leendő örökbefogadó szülőnél, és
+
+ba) a gyermek ismeretlen szülőktől származik, vagy
+
+bb) a szülő gyermeke örökbefogadásához az örökbefogadó személyének és személyi adatainak ismerete nélkül tett hozzájáruló nyilatkozatot.
+
+(2) A nevelésbe vétel elrendelésével egyidejűleg a gyámhatóság
+
+a) a gyermek ideiglenes gondozási helyéül
+
+aa) 12. életévét be nem töltött gyermek esetén – a 7. § (2) bekezdés szerinti kivételekkel – minden esetben, 12. életévét betöltött gyermek esetén lehetőség szerint nevelőszülőt, vagy – ha ez nem lehetséges, illetve a gyermek egészségi vagy személyiségállapota indokolja – ,
+
+ab) gyermekotthont, vagy
+
+ac) fogyatékosok vagy pszichiátriai betegek otthonát
+
+jelöli ki,
+
+b) a gyermek számára gyermekvédelmi gyámot rendel,
+
+c) hivatalból dönt a szülővel vagy más hozzátartozóval való kapcsolattartás szabályozásáról, vagy arról, hogy a szülő vagy más hozzátartozó nem jogosult kapcsolattartásra,
+
+d) három év alatti gyermek esetében megállapítja a különleges ellátási szükségletet,
+
+e) megállapítja, ha a gyermek örökbe fogadható.
+
+(3) A nevelésbe vett gyermek szülőjének szülői felügyeleti joga
+
+a) az (1) bekezdés a) pont aa) és ad) alpontja szerinti esetben,
+
+b) az (1) bekezdés b) pont bb) alpontja szerinti esetben a gyermek hathetes életkorának betöltéséig
+
+szünetel.
+
+(4) A gyámhatóság a gyermek nevelésbe vételéről soron kívül, fellebbezésre tekintet nélkül végrehajtható határozatban dönt.
+
+(5) A gyermeknek az ideiglenes gondozási helyre viteléről a gyámhatóság rendelkezése alapján a gyermek szülője, gyámja, a gyermeket gondozó más személy, a nevelőszülői hálózatot működtető, a gyermekjóléti szolgálat vagy a gyámhatóság gondoskodik.
+
+(6) Ha a gyámhatóság a nevelésbe vételi eljárás során vagy azt követően azt állapítja meg, hogy a szülői felügyelet megszüntetésének okai fennállnak, haladéktalanul pert indít a szülő ellen a szülői felügyeleti jog megszüntetése iránt.
+
+(7) A gyámhatóság – ha arra a nevelésbe vételi eljárás során nem került sor – a nevelésbe vételt követően haladéktalanul eljárást indít a gyermek gondozási helyének meghatározása és a 79. § (5) bekezdés b)–g) pontjai szerinti járulékos kérdések eldöntése érdekében.

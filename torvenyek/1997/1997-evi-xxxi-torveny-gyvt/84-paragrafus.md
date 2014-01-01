@@ -1,25 +1,35 @@
 ## XII. Fejezet
 
-## A gyermekvédelmi gondoskodás alatt álló egyes gyermek gyámsága
+## A GYERMEKVÉDELMI GONDOSKODÁS ALATT ÁLLÓ GYERMEK GYÁMSÁGA
 
-## A gyám kirendelése és jogállása
+## A gyermekvédelmi gyám kirendelése és jogállása
 
-84. § (1) A gyámhatóság a gyermek részére gyámot rendel, ha
+84. § (1) A gyámhatóság a gyermek részére gyermekvédelmi gyámot rendel, ha
 
 a) ideiglenes hatállyal nevelőszülőnél, gyermekotthonban vagy más bentlakásos intézményben helyezte el a gyermeket, és pert indított a szülői felügyelet megszüntetése iránt,
 
-b) átmeneti vagy tartós nevelésbe vette a gyermeket.
+b) a gyermek szülei hozzájárultak a gyermek ismeretlen személy által történő örökbefogadásához,
 
-(2) Gyámi feladatokat lát el a nevelőszülő – feltéve, ha a gyámságot vállalja –, továbbá a gyermekotthon vezetője. A Kormány rendeletében kijelölt szerv központi szerve útján fenntartott országos ellátási területű speciális gyermekotthon vezetője a gyermekotthonban elhelyezett gyermekek gyámjául nem rendelhető.
+c) a gyermek szülei ismeretlen helyen tartózkodnak, a gyermek a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény, valamint a menedékjogról szóló törvény szerint kísérő nélküli kiskorúnak minősül vagy a szülők bármilyen más okból nem gyakorolják szülői felügyeleti jogukat, és egyik esetben sem lehetséges családbafogadó gyám kirendelése,
 
-(3) A gyámhatóság a gyermek számára – a (4) bekezdésben meghatározott kivétellel – a területi gyermekvédelmi szakszolgálat részéről erre kijelölt hivatásos gyámot rendeli ki, ha
+d) nevelésbe vette a gyermeket.
 
-a) az ideiglenes hatállyal elhelyezett, az átmeneti vagy tartós nevelésbe vett gyermeket az Szt. hatálya alá tartozó fogyatékosok és pszichiátriai betegek otthonában helyezte el,
+(2) A gyámhatóság a gyermek számára – gondozási helyétől függetlenül – a területi gyermekvédelmi szakszolgálat javaslata alapján gyermekvédelmi gyámot rendel. A gyermek gondozási helyének megváltozása esetén a gyámhatóság kizárólag akkor rendelhet ki másik gyermekvédelmi gyámot a gyermek részére, ha az új gondozási helyen a gyámság ellátása másként nem biztosítható.
 
-b) a nevelőszülő a gyámságot nem vállalta,
+(3) A gyermekvédelmi gyám a feladatait a területi gyermekvédelmi szakszolgálattal létesített közalkalmazotti jogviszony keretében, önálló munkakörben látja el.
 
-c) a szülő hozzájárult gyermeke ismeretlen személy általi örökbefogadásához és a gyermeket a gyámhatóság ideiglenesen a leendő örökbefogadó szülőnél helyezte el.
+(4) Nem lehet gyermekvédelmi gyám
 
-(4) Ha a nevelőszülői hálózatot nem állami szerv működteti, a gyámhatóság a (3) bekezdés b) pontjában meghatározott esetben a gyermek számára elsősorban a működtető által kijelölt hivatásos gyámot rendeli ki.
+a) a gyámhatóság vezetője vagy ügyintézője,
 
-(5) A hivatásos gyám egyidejűleg legfeljebb negyvennyolc gyermek gyámságát láthatja el.
+b) a területi gyermekvédelmi szakszolgálat vezetője,
+
+c) a gyermekotthon és a nevelőszülői hálózat vezetője vagy foglalkoztatottja,
+
+d) a gyermek nevelőszülője.
+
+(5) A gyermekvédelmi gyám munkavégzéssel járó egyéb jogviszonyt – tudományos, oktatói, művészeti, lektori, szerkesztői, valamint jogi oltalom alá eső szellemi tevékenység kivételével – csak a munkáltatói jogkör gyakorlójának engedélyével létesíthet.
+
+(6) A gyermekvédelmi gyám egyidejűleg legfeljebb harminc gyermek gyámságát láthatja el.
+
+(7) A gyermekvédelmi gyám mellett a gyámhatóság egyes, e törvényben meghatározott gyámi feladatok ellátására gyámként kirendelheti a nevelőszülőt, feltéve hogy a nevelőszülő a gyámságot vállalja.

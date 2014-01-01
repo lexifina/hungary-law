@@ -6,7 +6,7 @@ b)
 
 c) a gyermekjóléti alapellátást és gyermekvédelmi szakellátást nyújtó szolgáltatás, intézmény fenntartója, vezetője,
 
-d) a helyettes szülő, nevelőszülő,
+d) a befogadó szülő,
 
 e) a gyermekjogi képviselő, illetve amennyiben a gyermek panaszának orvoslása érdekében feltétlenül szükséges a betegjogi képviselő, illetve az ellátottjogi képviselő,
 
@@ -18,7 +18,7 @@ g) a gyermekvédelmi szakértői bizottság.
 
 a) a gyermek
 
-aa) személyazonosító adatainak és társadalombiztosítási azonosító jelére vonatkozó,
+aa) személyazonosító adatainak, társadalombiztosítási azonosító jelére és adóazonosító jelére vonatkozó,
 
 ab) anyanyelvére vonatkozó,
 
@@ -36,7 +36,7 @@ ah) kóros szenvedélyére vonatkozó,
 
 ai) áldozattá válásának körülményeire vonatkozó, a bűncselekmények áldozatainak segítéséről és az állami kárenyhítésről szóló 2005. évi CXXXV. törvény (a továbbiakban: Ást.) 16. § (2) bekezdés a)–c) pontjában meghatározott;
 
-b) a szülő, törvényes képviselő, helyettes szülő, nevelőszülő
+b) a szülő, törvényes képviselő, befogadó szülő
 
 ba) személyazonosító, és a társadalombiztosítási azonosító jelére vonatkozó,
 
@@ -82,36 +82,156 @@ vonatkozó adatokat kezelhet.
 
 a) a családba fogadó személy személyazonosító adatait, valamint az egészségi állapotára és a vagyoni helyzetére vonatkozó adatokat,
 
-b) az örökbe fogadni szándékozó személy családi állapotára, fennálló házasságára, élettársi, bejegyzett élettársi kapcsolatának tényére, gyermekei számára és az arra vonatkozó adatokat, hogy kivel él egy háztartásban és gyermekei kinek a gondozásában nevelkednek (a továbbiakban együtt: családi helyzetre vonatkozó adatok), személyazonosító adatait, vagyoni helyzetére, az egészségi állapotára, Csjt. 47. §-a szerinti alkalmasságára és az örökbe fogadandó gyermekkel kapcsolatos elvárásaira vonatkozó adatokat,
+b) az örökbe fogadni szándékozó személy
+
+ba) személyazonosító adatait, társadalombiztosítási azonosító jelét,
+
+bb) egészségi állapotára vonatkozó adatokat,
+
+bc) családi állapotára, fennálló házasságára, élettársi, bejegyzett élettársi kapcsolatának tényére, gyermekei számára, nevére, nemére, születési idejére és az arra vonatkozó adatokat, hogy az örökbe fogadni szándékozó személy kivel él egy háztartásban, a gyermekei kivel élnek egy háztartásban és kinek a gondozásában nevelkednek (a továbbiakban együtt: családi helyzetre vonatkozó adatok),
+
+bd) vagyoni helyzetére vonatkozó adatokat,
+
+be) Csjt. 47. §-a szerinti örökbefogadásra való alkalmasságára vonatkozó adatokat,
+
+bf) örökbe fogadandó gyermekkel kapcsolatos elvárásaira vonatkozó adatokat,
+
+bg) örökbe fogadható gyermekhez történő kiválasztásának a személyes gondoskodást nyújtó gyermekjóléti, gyermekvédelmi intézmények, valamint személyek szakmai feladatairól és működésük feltételeiről szóló miniszteri rendelet szerinti folyamatával és eredményével összefüggő adatokat,
+
+bh) – hozzájárulása esetén – fényképét,
+
+bi) hozzájárulását ahhoz, hogy az e pont szerinti adatait – az országos örökbefogadást elősegítő szerv közreműködésével – az örökbefogadható gyermek szerinti másik területi gyermekvédelmi szakszolgálat a gyermek örökbefogadásának elősegítése céljából kezelje.
 
 c) az örökbe fogadó szülő személyazonosító adatait, családi helyzetére, egészségi állapotára, vagyoni helyzetére vonatkozó adatokat,
 
 d) a válsághelyzetben lévő várandós anya, a vér szerinti szülő személyazonosító adatait, az egészségi állapotára vonatkozó adatokat és – önkéntes adatszolgáltatása alapján – a vagyoni helyzetére, a családi helyzetére és a terhesség eltitkolásának tényére, okára vonatkozó adatokat,
 
-e) az örökbe adható gyermek személyazonosító adatait és az egészségi állapotára vonatkozó adatokat.
+e) az örökbe fogadható gyermek
+
+ea) személyazonosító adatait, társadalombiztosítási azonosító jelét,
+
+eb) egészségi állapotára vonatkozó adatokat,
+
+ec) családi jogállására és képzelt szülőjére vonatkozó adatait,
+
+ed) törvényes képviselőjének személyazonosító adatait,
+
+ee) vér szerinti szülőjének személyazonosító adatait, társadalombiztosítási azonosító jelére, vagyoni helyzetére, munkahelyére, iskolai végzettségére, kapcsolataira, gyermekneveléssel összefüggő, így különösen életvezetésére, nevelési magatartására vonatkozó, egészségi állapotára vonatkozó és büntetlen előéletére vonatkozó adatokat,
+
+ef) – ha gyermekvédelmi szakellátásban részesül – gyermekvédelmi gondoskodással összefüggő adatait,
+
+eg) testvéreinek, féltestvéreinek személyazonosító adatait, egészségi állapotukra vonatkozó adatokat és – ha gyermekvédelmi szakellátásban részesülnek vagy részesültek – gyermekvédelmi gondoskodással összefüggő adataikat,
+
+eh) személyiségére, magatartására, személyes kapcsolataira, szokásaira, tanulmányi eredményeire, neveltségi állapotára vonatkozó adatokat,
+
+ei) számára megfelelő örökbe fogadni szándékozó személyek kiválasztásának a személyes gondoskodást nyújtó gyermekjóléti, gyermekvédelmi intézmények, valamint személyek szakmai feladatairól és működésük feltételeiről szóló miniszteri rendelet szerinti folyamatával és eredményével összefüggő adatokat,
+
+ej) fényképét, róla készített mozgóképet,
+
+ek) ea)–ej) alpontba tartozó adatain kívül a vele kapcsolatos gyámhatósági és a családi helyzetére vonatkozó bírósági döntésekben foglalt adatokat.
 
 (6) Az (1) bekezdésben felsorolt szervek, illetve személyek az érintett személyazonosító adatait, valamint a gyermek (2) bekezdésben meghatározott adatait a 15. § (1)–(4) bekezdései szerinti célból egymásnak átadhatják.
 
 (7) Gyámhatóság, a gyermekjóléti szolgálat vezetője és a területi gyermekvédelmi szakszolgálat vezetője kezelheti a 135. § (2) bekezdés ai) és bf) alpontjában meghatározott adatokat. Ezeket a felsorolt szervek és személyek a 15. § (1)–(4) bekezdésében meghatározott szolgáltatások nyújtása és intézkedések megtétele vagy azok ellenőrzése, illetve az áldozatsegítő szolgálat tevékenységének elősegítése céljából egymásnak, illetve az áldozatsegítő szolgálatnak átadhatják.
 
-(8) Az országos örökbefogadási nyilvántartást vezető szerv a gyermek belföldön történő örökbefogadásának elősegítése, az átmeneti vagy tartós nevelésbe vett gyermek belföldi örökbefogadására tett intézkedések eredménytelenségének megállapítása és a származás megismeréséhez való jog érvényesülésének biztosítása céljából kezeli
+(8) Az országos örökbefogadást elősegítő szerv a gyermek belföldön történő örökbefogadásának elősegítése, a nevelésbe vett gyermek belföldi örökbefogadására tett intézkedések eredménytelenségének megállapítása és a származás megismeréséhez való jog érvényesülésének biztosítása céljából kezeli
 
-a) az örökbe adható gyermek személyazonosító adatait és az egészségi állapotára vonatkozó adatokat,
+a) az örökbe fogadható gyermek
 
-b) az örökbe fogadni szándékozó személy személyazonosító adatait, családi helyzetére, egészségi állapotára, vagyoni helyzetére, Csjt. 47. §-a szerinti alkalmasságára és az örökbe fogadandó gyermekkel kapcsolatos elvárásaira vonatkozó adatokat,
+aa) személyazonosító adatait, társadalombiztosítási azonosító jelét,
 
-c) a válsághelyzetben lévő várandós anya, a vér szerinti szülő személyazonosító adatait, az egészségi állapotára vonatkozó adatokat és – önkéntes adatszolgáltatása alapján – a vagyoni helyzetére, családi helyzetére és a terhesség eltitkolásának tényére, okára vonatkozó adatokat.
+ab) egészségi állapotára vonatkozó adatokat,
 
-(9) A központi hatóság az átmeneti vagy tartós nevelésbe vett gyermek külföldre történő örökbefogadásának elősegítése, a külföldi örökbefogadások utánkövetése és a származás megismeréséhez való jog érvényesülésének biztosítása céljából kezeli
+ac) családi jogállására és képzelt szülőjére vonatkozó adatait,
 
-a) a Csjt. 49. § (3) bekezdése alapján külföldre örökbe adható gyermek személyazonosító adatait és az egészségi állapotára vonatkozó adatokat, valamint a külföldre örökbe adott gyermek személyazonosító adatait,
+ad) törvényes képviselőjének személyazonosító adatait,
 
-b) a külföldön élő örökbe fogadni szándékozó személy személyazonosító adatait, családi helyzetére, egészségi állapotára, vagyoni helyzetére, Csjt. 47. §-a szerinti alkalmasságára és az örökbe fogadandó gyermekkel kapcsolatos elvárásaira vonatkozó adatokat,
+ae) vér szerinti szülőjének személyazonosító adatait, társadalombiztosítási azonosító jelére, vagyoni helyzetére, munkahelyére, iskolai végzettségére, kapcsolataira, gyermekneveléssel összefüggő, így különösen életvezetésére, nevelési magatartására vonatkozó, egészségi állapotára vonatkozó és büntetlen előéletére vonatkozó adatokat,
+
+af) – ha gyermekvédelmi szakellátásban részesül – gyermekvédelmi gondoskodással összefüggő adatait,
+
+ag) testvéreinek, féltestvéreinek személyazonosító adatait, egészségi állapotukra vonatkozó adatokat és – ha gyermekvédelmi szakellátásban részesülnek vagy részesültek – gyermekvédelmi gondoskodással összefüggő adataikat,
+
+ah) személyiségére, magatartására, személyes kapcsolataira, szokásaira, tanulmányi eredményeire, neveltségi állapotára vonatkozó adatokat,
+
+ai) számára megfelelő örökbe fogadni szándékozó személyek kiválasztásának a személyes gondoskodást nyújtó gyermekjóléti, gyermekvédelmi intézmények, valamint személyek szakmai feladatairól és működésük feltételeiről szóló miniszteri rendelet szerinti folyamatával és eredményével összefüggő adatokat,
+
+aj) fényképét, róla készített mozgóképet,
+
+ak) aa)–aj) alpontba tartozó adatain kívül a vele kapcsolatos gyámhatósági és a családi helyzetére vonatkozó bírósági döntésekben foglalt adatokat,
+
+b) az örökbe fogadni szándékozó személy
+
+ba) személyazonosító adatait, társadalombiztosítási azonosító jelét,
+
+bb) egészségi állapotára vonatkozó adatokat,
+
+bc) családi helyzetére vonatkozó adatokat,
+
+bd) vagyoni helyzetére vonatkozó adatokat,
+
+be) Csjt. 47. §-a szerinti örökbefogadásra való alkalmasságára vonatkozó adatokat,
+
+bf) örökbe fogadandó gyermekkel kapcsolatos elvárásaira vonatkozó adatokat,
+
+bg) örökbe fogadható gyermekhez történő kiválasztásának a személyes gondoskodást nyújtó gyermekjóléti, gyermekvédelmi intézmények, valamint személyek szakmai feladatairól és működésük feltételeiről szóló miniszteri rendelet szerinti folyamatával és eredményével összefüggő adatokat,
+
+bh) – hozzájárulása esetén – fényképét,
+
+bi) hozzájárulását ahhoz, hogy a 135. § (5) bekezdés b) pont szerinti adatait – az országos örökbefogadást elősegítő szerv közreműködésével – az örökbefogadható gyermek szerinti másik területi gyermekvédelmi szakszolgálat a gyermek örökbefogadásának elősegítése céljából kezelje,
+
+c) a válsághelyzetben lévő várandós anya, a vér szerinti szülő személyazonosító adatait, társadalombiztosítási azonosító jelét, az egészségi állapotára vonatkozó adatokat és – önkéntes adatszolgáltatása alapján – a vagyoni helyzetére, családi helyzetére és a terhesség eltitkolásának tényére, okára vonatkozó adatokat.
+
+(9) A központi hatóság a nevelésbe vett gyermek külföldre történő örökbefogadásának elősegítése, a külföldi örökbefogadások utánkövetése és a származás megismeréséhez való jog érvényesülésének biztosítása céljából kezeli
+
+a) a Csjt. 49. § (3) bekezdése alapján külföldre örökbe adható gyermek
+
+aa) személyazonosító adatait, társadalombiztosítási azonosító jelét,
+
+ab) egészségi állapotára vonatkozó adatokat,
+
+ac) családi jogállására és képzelt szülőjére vonatkozó adatait,
+
+ad) törvényes képviselőjének személyazonosító adatait,
+
+ae) vér szerinti szülőjének személyazonosító adatait, társadalombiztosítási azonosító jelére, vagyoni helyzetére, munkahelyére, iskolai végzettségére, kapcsolataira, gyermekneveléssel összefüggő, így különösen életvezetésére, nevelési magatartására vonatkozó, egészségi állapotára vonatkozó és büntetlen előéletére vonatkozó adatokat,
+
+af) gyermekvédelmi gondoskodással összefüggő adatait,
+
+ag) testvéreinek, féltestvéreinek személyazonosító adatait, egészségi állapotukra vonatkozó adatokat és – ha gyermekvédelmi szakellátásban részesülnek vagy részesültek – gyermekvédelmi gondoskodással összefüggő adataikat,
+
+ah) személyiségére, magatartására, személyes kapcsolataira, szokásaira, tanulmányi eredményeire, neveltségi állapotára vonatkozó adatokat,
+
+ai) számára megfelelő örökbe fogadni szándékozó személyek kiválasztásának a személyes gondoskodást nyújtó gyermekjóléti, gyermekvédelmi intézmények, valamint személyek szakmai feladatairól és működésük feltételeiről szóló miniszteri rendelet szerinti folyamatával és eredményével összefüggő adatokat,
+
+aj) fényképét, róla készített mozgóképet,
+
+ak) aa)–aj) alpontba tartozó adatain kívül a vele kapcsolatos gyámhatósági és a családi helyzetére vonatkozó bírósági döntésekben foglalt adatokat,
+
+b) a külföldön élő örökbe fogadni szándékozó személy
+
+ba) személyazonosító adatait,
+
+bb) egészségi állapotára vonatkozó adatokat,
+
+bc) családi helyzetére vonatkozó adatokat,
+
+bd) vagyoni helyzetére vonatkozó adatokat,
+
+be) Csjt. 47. §-a szerinti örökbefogadásra való alkalmasságára vonatkozó adatokat,
+
+bf) örökbe fogadandó gyermekkel kapcsolatos elvárásaira vonatkozó adatokat,
+
+bg) az örökbe fogadható gyermekhez történő kiválasztásának a személyes gondoskodást nyújtó gyermekjóléti, gyermekvédelmi intézmények, valamint személyek szakmai feladatairól és működésük feltételeiről szóló miniszteri rendelet szerinti folyamatával és eredményével összefüggő adatokat,
+
+bh) – hozzájárulása esetén – fényképét,
 
 c) a külföldön élő örökbe fogadó szülő személyazonosító adatait, családi helyzetére, egészségi állapotára, vagyoni helyzetére vonatkozó adatokat,
 
-d) a külföldre örökbe adott gyermek helyzetéről, beilleszkedéséről szóló jelentésben foglalt adatokat.
+d) a külföldre örökbe adott gyermek helyzetéről, beilleszkedéséről szóló jelentésben foglalt adatokat,
 
-(10) A területi gyermekvédelmi szakszolgálat, az országos örökbefogadási nyilvántartást vezető szerv és a központi hatóság a gyermek örökbefogadásának elősegítése céljából az (5) bekezdés b) és e) pontjában, a (8) bekezdés a) és b) pontjában, valamint a (9) bekezdés a) és b) pontjában meghatározott adatokat egymásnak átadhatják.
+e) a külföldre örökbe adott gyermek személyazonosító adatait.
 
-(11) A területi gyermekvédelmi szakszolgálat és az országos örökbefogadási nyilvántartást vezető szerv a gyermek örökbefogadásának elősegítése céljából az (5) bekezdés d) pontjában és a (8) bekezdés c) pontjában meghatározott adatokat egymásnak átadhatják. Az önkéntes adatszolgáltatás alapján kezelhető adatok az érintett hozzájárulásával adhatók át.
+(10) A területi gyermekvédelmi szakszolgálat, az országos örökbefogadást elősegítő szerv és a központi hatóság a gyermek örökbefogadásának elősegítése céljából az (5) bekezdés b) és e) pontjában, a (8) bekezdés a) és b) pontjában, valamint a (9) bekezdés a) és b) pontjában meghatározott adatokat egymásnak átadhatják.
+
+(11) A területi gyermekvédelmi szakszolgálat és az országos örökbefogadást elősegítő szerv a gyermek örökbefogadásának elősegítése céljából az (5) bekezdés d) pontjában és a (8) bekezdés c) pontjában meghatározott adatokat egymásnak átadhatják. Az önkéntes adatszolgáltatás alapján kezelhető adatok az érintett hozzájárulásával adhatók át.

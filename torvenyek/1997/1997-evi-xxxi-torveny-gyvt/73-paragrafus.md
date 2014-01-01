@@ -2,7 +2,7 @@
 
 a) harminc napon belül megszünteti az ideiglenes hatályú elhelyezést, ha annak okai nem állnak fenn, vagy
 
-b) harmincöt napon belül elrendeli a gyermek átmeneti vagy tartós nevelésbe vételét, vagy
+b) harmincöt napon belül elrendeli a gyermek nevelésbe vételét, valamint egyidejűleg meghatározza a gyermek gondozási helyét és dönt a 79. § (5) bekezdés b)–g) pontjai szerinti járulékos kérdésekről, vagy
 
 c) két hónapon belül pert indít az ideiglenes hatályú elhelyezés fenntartása vagy megváltoztatása mellett a gyermekelhelyezés megváltoztatása, illetve a szülői felügyelet megszüntetése iránt.
 

@@ -8,7 +8,7 @@ a) a szülő vagy a családbafogadó gyám alacsony iskolai végzettsége, ha a 
 
 b) a szülő vagy a családbafogadó gyám alacsony foglalkoztatottsága, ha a gyermeket nevelő szülők bármelyikéről vagy a családbafogadó gyámról megállapítható, hogy a rendszeres gyermekvédelmi kedvezmény igénylésekor az Szt. 33. §-a szerinti aktív korúak ellátására jogosult vagy a rendszeres gyermekvédelmi kedvezmény igénylésének időpontját megelőző 16 hónapon belül legalább 12 hónapig álláskeresőként nyilvántartott személy,
 
-c) a gyermek elégtelen lakókörnyezete, illetve lakáskörülményei, ha megállapítható, hogy a gyermek a településre vonatkozó integrált városfejlesztési stratégiában szegregátumnak nyilvánított lakókörnyezetben vagy félkomfortos, komfort nélküli vagy szükséglakásban, illetve olyan lakáskörülmények között él, ahol korlátozottan biztosítottak az egészséges fejlődéséhez szükséges feltételek.
+c) a gyermek elégtelen lakókörnyezete, illetve lakáskörülményei, ha megállapítható, hogy a gyermek a településre vonatkozó integrált településfejlesztési stratégiában szegregátumnak nyilvánított lakókörnyezetben vagy félkomfortos, komfort nélküli vagy szükséglakásban, illetve olyan lakáskörülmények között él, ahol korlátozottan biztosítottak az egészséges fejlődéséhez szükséges feltételek.
 
 (2) Halmozottan hátrányos helyzetű
 

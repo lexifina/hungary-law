@@ -28,7 +28,7 @@ e) hatósági döntéssel elhelyezett gyermek, illetve fiatal felnőtt esetén
 
 ea) a határozatot hozó szerv nevét, a határozat számát, keltét, jogerőre emelkedésének napját,
 
-eb) a hatósági döntés jellegét (ideiglenes hatályú elhelyezés, átmeneti nevelésbe vétel, tartós nevelésbe vétel, utógondozói ellátás elrendelése),
+eb) a hatósági döntés jellegét (ideiglenes hatályú elhelyezés, nevelésbe vétel, utógondozói ellátás elrendelése),
 
 ec) a gyermek ellátási szükségletét,
 

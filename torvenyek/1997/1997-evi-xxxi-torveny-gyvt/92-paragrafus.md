@@ -2,14 +2,38 @@
 
 ## Utógondozás
 
-92. § (1) Az átmeneti vagy tartós nevelés megszűnése után – kivéve, ha a gyermeket örökbe fogadták – a gyámhatóság legalább egy év időtartamra elrendeli a gyermek és a fiatal felnőtt utógondozását feltéve, hogy az utógondozást a fiatal felnőtt maga is kéri.
+92. § (1) Utógondozásnak van helye
 
-(2) Az utógondozás célja, hogy elősegítse a gyermek, illetve a fiatal felnőtt családi környezetébe való visszailleszkedését, önálló életének megkezdését.
+a) a nevelésbe vétel megszüntetését követően – kivéve ha a gyermeket örökbe fogadták – legalább egy év időtartamra, de legfeljebb a gyermek 18. életévének betöltéséig,
 
-(3) A gyermek utógondozását a gyermek lakóhelye szerinti gyermekjóléti szolgálat, a fiatal felnőtt utógondozását a gyermekotthon, a nevelőszülői hálózatot működtető vagy – az Szt. hatálya alá tartozó fogyatékosok és pszichiátriai betegek otthonában elhelyezett gyermek esetén – a területi gyermekvédelmi szakszolgálat látja el.
+b) a nevelésbe vétel megszűnését követően a fiatal felnőtt kérelmére legfeljebb egy év időtartamra,
+
+c) az otthonteremtési támogatás igénylésének, felhasználásának és elszámolásának időtartamára.
+
+(2) Az utógondozást
+
+a) a gyermek tekintetében a lakóhelye szerinti gyermekjóléti szolgálat,
+
+b) a fiatal felnőtt tekintetében a befogadó szülői hálózatot működtető, a gyermekotthon, az utógondozó otthon vagy a külső férőhely működtetőjének
+
+utógondozója látja el.
+
+(3) A gyámhatóság elrendeli az utógondozást az otthonteremtési támogatás iránti kérelem előterjesztésekor, valamint meghosszabbítja az utógondozást az annak időtartama alatt nyújtott otthonteremtési támogatás elszámolásának időpontjáig.
 
 (4) Az utógondozás feladatainak ellátásába önkéntesek, egyesületek, alapítványok és bevett egyházak is bevonhatók.
 
-(5) A gyámhatóság az utógondozást az otthonteremtési támogatás iránti kérelem előterjesztésekor ismételten elrendeli, melynek során elsősorban a fiatal felnőtt volt utógondozóját, ha ez nem lehetséges, a fiatal felnőtt választása szerint a lakóhelye vagy a tartózkodási helye szerinti területi gyermekvédelmi szakszolgálat utógondozóját rendeli ki.
+(5) Megszűnik az utógondozás
 
-(6) A gyámhatóság az utógondozást az annak időtartama alatt nyújtott otthonteremtési támogatás elszámolásának időpontjáig meghosszabbítja.
+a) az (1) bekezdés a) pontja szerinti esetben a határozatban megjelölt időtartam elteltével,
+
+b) az (1) bekezdés b) pontja szerinti esetben a határozatban megjelölt időtartam elteltével, de legkésőbb a fiatal felnőtt 24. életévének betöltésével,
+
+c) az (1) bekezdés c) pontja szerinti esetben az otthonteremtési támogatással való elszámolással, kivéve ha a gyámhatóság az otthonteremtési támogatást kizárólag ingatlanvásárlás céljára engedte felhasználni.
+
+(6) A gyámhatóság az utógondozást megszünteti, ha
+
+a) egyéb gyermekvédelmi intézkedést rendeltek el,
+
+b) azt a fiatal felnőtt kéri, kivéve ha otthonteremtési támogatásban részesül,
+
+c) a fiatal felnőtt az utógondozóval önhibájából legalább három hónapja nem működik együtt.

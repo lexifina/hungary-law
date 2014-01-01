@@ -1,25 +1,9 @@
-## Tartós nevelésbe vétel
+## A nevelésbe vétel megvalósulása
 
-80. § (1) A gyámhatóság a gyermeket tartós nevelésbe veszi, ha
+80. § (1) A nevelésbe vételhez kapcsolódó, a gyermek véleményét figyelembe vevő egyéni elhelyezési terv megvalósításában, a feladatok teljesítésében a gyermek gyermekvédelmi gyámja, gondozója, valamint – ha szülői felügyeleti joga nem szűnt meg – a szülője, a szülő lakóhelye szerint illetékes gyermekjóléti szolgálat és települési önkormányzat együttműködik.
 
-a) a szülő vagy mindkét szülő felügyeleti jogát a bíróság megszüntette,
+(2) A gyámhatóság a nevelésbe vett gyermek és a kapcsolattartásra jogosult szülő, illetve más hozzátartozó kapcsolatát, a szülőnek, más hozzátartozónak a nevelőszülővel, a gyermekotthonnal, a fogyatékosok vagy pszichiátriai betegek otthonával és a gyermekvédelmi gyámmal való együttműködését, továbbá a szülő, más hozzátartozó magatartásában, életvitelében és körülményeiben beálló változásokat folyamatosan figyelemmel kíséri.
 
-b) a szülő vagy mindkét szülő elhalálozott, és a gyermeknek nincs felügyeletet gyakorló szülője,
+(3) Ha a nevelésbe vett gyermek szülője vagy más hozzátartozója a gyámhatósági határozatban biztosított kapcsolattartási jogával a gyermek vagy a gyermeket gondozó személy sérelmére visszaél és magatartásával a gyermek nevelését, testi, értelmi, érzelmi és erkölcsi fejlődését veszélyezteti, a gyermeket gondozó személy, illetve a gyermekvédelmi gyám kezdeményezheti a gyámhatóságnál, illetve a bíróságnál a kapcsolattartási jog korlátozását, a felügyelt kapcsolattartás elrendelését, a kapcsolattartás szüneteltetését vagy megvonását.
 
-c) a gyermek ismeretlen szülőktől származik,
-
-feltéve, hogy az a)–c) pontokban meghatározott esetekben a gyermek neveléséről a Csjt. 95–97. §-ai alapján kirendelt gyám útján nem lehet gondoskodni,
-
-d) a szülő gyermeke örökbefogadásához az örökbefogadó személyének és természetes személyazonosító adatainak ismerete nélkül tett hozzájáruló nyilatkozatot, feltéve, hogy a gyermek ideiglenes hatállyal nem helyezhető el leendő örökbefogadó szülőnél.
-
-(2) A tartós nevelésbe vétellel egyidejűleg a gyámhatóság a gyermeket nevelőszülőnél vagy ha ez nem lehetséges gyermekotthonban, illetőleg az Szt. hatálya alá tartozó fogyatékosok és pszichiátriai betegek otthonában helyezi el és gyámot (hivatásos gyámot) rendel.
-
-(3) Ha az (1) bekezdés d) pontja alapján a gyámhatóság a 6 hetesnél fiatalabb gyermeket ideiglenes hatállyal leendő örökbefogadó szülőnél helyezi el, akkor az elhelyezéssel egyidejűleg hivatásos gyámot rendel, figyelemmel a Csjt. 91. §-a (2) bekezdésének d) pontja alapján szünetelő szülői felügyeleti jogra.
-
-(4) A tartós nevelésbe vétel a gyermek otthont nyújtó ellátását egyéni elhelyezési terv szerint biztosítja, és felkészíti a gyermeket az örökbefogadásra, illetve az önálló életre.
-
-(5) A gyámhatóság a gyermek tartós nevelésbe vételéről soron kívül határoz. A határozat fellebbezésre tekintet nélkül végrehajthatóvá nyilvánítható.
-
-(6) A gyermeknek nevelőszülőhöz, gyermekotthonba vagy az Szt. hatálya alá tartozó fogyatékosok és pszichiátriai betegek otthonába viteléről a gyámhatóság gondoskodik.
-
-(7) A gyámhatóság a tartós nevelésbe vételt a gyám (hivatásos gyám), a nevelőszülő vagy intézmény, valamint a területi gyermekvédelmi szakszolgálat tájékoztatása, illetve javaslata alapján évente – a három éven aluli gyermek esetében félévente – felülvizsgálja annak érdekében, hogy elősegítse a gyermek mihamarabbi örökbefogadását, vagy ha ez nem lehetséges, tartós családot pótló – nevelőszülői, gyermekotthoni – környezetbe kerülését.
+(4) Ha a nevelésbe vett gyermek kapcsolattartásra jogosult szülője neki felróhatóan, a gyermek érdekét súlyosan sértő módon nem működik együtt a gyermekét gondozó nevelőszülővel vagy intézménnyel, a gyermekével nem tart kapcsolatot, továbbá magatartásán, életvitelén, körülményein a gyermek nevelésbe vételének megszüntetése céljából nem változtat, illetőleg, ha a szülői felügyelet megszüntetésének egyéb oka valósul meg, a gyámhatóság pert indít a szülő ellen szülői felügyeleti jogának megszüntetése iránt, vagy a Csjt. 48/A. §-ában foglalt feltételek fennállása esetén örökbe fogadhatóvá nyilvánítja a gyermeket.

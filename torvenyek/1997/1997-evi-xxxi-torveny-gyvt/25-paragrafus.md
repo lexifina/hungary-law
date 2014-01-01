@@ -1,6 +1,6 @@
 ## Otthonteremtési támogatás
 
-25. § (1) Az otthonteremtési támogatás célja, hogy az átmeneti vagy tartós nevelésből kikerült fiatal felnőtt lakáshoz jutását, tartós lakhatása megoldását elősegítse.
+25. § (1) Az otthonteremtési támogatás célja, hogy a nevelésbe vételből kikerült fiatal felnőtt lakáshoz jutását, tartós lakhatása megoldását elősegítse.
 
 (2) Otthonteremtési támogatásra jogosult az a fiatal felnőtt, akinek
 
@@ -10,9 +10,23 @@ b) készpénzének, biztosításra vagy más célból lekötött betétjének, v
 
 (3) A készpénz vagyonba a fiatal felnőtt árvaellátásából és keresményéből származó megtakarítást nem lehet beszámítani. A nevelésbe vétel időtartamába az ideiglenes hatályú elhelyezés időtartamát is be kell számítani, feltéve, ha a gyermeket ideiglenesen nevelőszülőnél vagy gyermekotthonban helyezték el.
 
-(4) Akkor is jogosult a fiatal felnőtt a támogatásra, ha a három évnél rövidebb időtartamú nevelésbe vételére a 80. § (1) bekezdésének a)–c) pontjában meghatározott okból került sor.
+(4) Akkor is jogosult a fiatal felnőtt a támogatásra, ha a három évnél rövidebb időtartamú nevelésbe vételére a 78. § (1) bekezdés a) pont ab), ac), ad) és b) pont ba) alpontjában meghatározott okból került sor.
 
-(5) A támogatás felhasználható részben vagy egészben a fiatal felnőtt tulajdonába kerülő építési telek, életvitelszerű lakhatásra alkalmas lakás, családi ház, tanya vásárlására, illetve építésére, lakhatóvá tételére, tulajdon vagy tulajdonrész szerzéssel járó felújítására vagy bővítésére, bérlakás bérleti díjának kifizetésére, önkormányzati bérlakásának felújítására, bérlői jogviszony megvásárlására, államilag támogatott lakásprogramban vagy lakás-előtakarékossági programban való részvételre, valamint otthonteremtést elősegítő hitelintézeti kölcsön egyösszegű törlesztésére. Indokolt esetben az otthonteremtési támogatás felhasználható a tartósan beteg vagy fogyatékos fiatal felnőtt megfelelő ellátását biztosító, az Szt. hatálya alá tartozó bentlakásos szociális intézménybe fizetendő egyszeri hozzájárulásra is.
+(5) A támogatás Magyarország területén használható fel
+
+a) részben vagy egészben a fiatal felnőtt tulajdonába kerülő vagy már a fiatal felnőtt tulajdonában lévő lakás lakhatóvá tételére,
+
+b) építési telek, életvitelszerű lakhatásra alkalmas lakás, családi ház, tanya vásárlására, építésére, tulajdon- vagy tulajdonrészszerzéssel járó felújítására vagy bővítésére,
+
+c) bérleti jogviszony létesítéséhez szükséges összeg megfizetésére, lakás bérleti díjának kifizetésére,
+
+d) önkormányzati bérlakás felújítására,
+
+e) államilag támogatott lakásprogramban vagy lakás-előtakarékossági programban való részvételre,
+
+f) otthonteremtést elősegítő hitelintézeti kölcsön egyösszegű törlesztésére,
+
+g) indokolt esetben a tartósan beteg vagy fogyatékos fiatal felnőtt megfelelő ellátását biztosító, az Szt. hatálya alá tartozó bentlakásos szociális intézménybe fizetendő egyszeri hozzájárulásra.
 
 (6) Az otthonteremtési támogatás iránti kérelemben nyilatkozni kell a (2)–(4) bekezdésben meghatározott feltételekről, valamint arról, hogy a fiatal felnőtt az otthonteremtési támogatás felhasználása során az utógondozójával együttműködik.
 

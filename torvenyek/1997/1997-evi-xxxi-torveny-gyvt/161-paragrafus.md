@@ -2,7 +2,7 @@
 
 a) védő-óvó intézkedést említ, azon védelembe vételt,
 
-b) intézeti vagy állami nevelésbe vételt említ, azon átmeneti vagy tartós nevelésbe vételt,
+b) intézeti vagy állami nevelésbe vételt említ, azon nevelésbe vételt,
 
 c) ideiglenes hatályú intézeti beutalást említ, azon ideiglenes hatályú elhelyezést,
 

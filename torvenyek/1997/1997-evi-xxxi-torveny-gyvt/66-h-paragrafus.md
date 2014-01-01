@@ -1,23 +1,15 @@
-66/H. § (1) Ha a hivatásos nevelőszülői jogviszony a működtető jogutód nélküli megszűnésével vagy – 66/E. § (3) bekezdésének e) pontjában és (6)–(8) bekezdéseiben meghatározott eseteket kivéve – a működtető részéről történő felmondással szűnik meg, a hivatásos nevelőszülőt végkielégítés illeti meg.
+## A nevelőszülői foglalkoztatási jogviszonyban végzett tevékenység díjazása
 
-(2) A (1) bekezdéstől eltérően nem jár végkielégítés a hivatásos nevelőszülőnek, ha – a hivatásos nevelőszülői jogviszonya megszűnése időpontjában – öregségi nyugdíjra jogosult vagy saját jogú nyugellátásban részesül.
+66/H. § (1) A nevelőszülőt tevékenységéért a foglalkoztatási jogviszony fennállásának időtartama alatt – a 66/B. § (1) bekezdése szerinti megállapodásokban meghatározott – díjazás illeti meg.
 
-(3) A végkielégítésre való jogosultság feltétele, hogy a működtetőnél a hivatásos nevelőszülői jogviszony a (4) bekezdésben meghatározott időtartamban fennálljon.
+(2) A nevelőszülő díjazása az alapdíjból, a kiegészítő díjból és a többletdíjból áll.
 
-(4) A végkielégítés mértéke
+(3) A nevelőszülőt a foglalkoztatási jogviszonyának fennállása alatt – függetlenül attól, hogy helyeztek-e el nála gyermeket, fiatal felnőttet – alapdíjként havonta legalább a kötelező legkisebb munkabér (a továbbiakban: minimálbér) 30%-a illeti meg.
 
-a) legalább három év hivatásos nevelőszülői jogviszony esetén: egyhavi,
+(4) A nevelőszülőt az alapdíjon felül minden egyes nála elhelyezett gyermek, fiatal felnőtt után kiegészítő díjként havonta legalább a minimálbér 20%-a illeti meg.
 
-b) legalább öt év hivatásos nevelőszülői jogviszony esetén: kéthavi,
+(5) A nevelőszülőt az alap- és kiegészítő díjon felül minden egyes nála elhelyezett speciális vagy különleges ellátási szükségletű gyermek után többletdíjként havonta legalább a minimálbér 5%-a illeti meg.
 
-c) legalább tíz év hivatásos nevelőszülői jogviszony esetén: háromhavi,
+(6) A nevelőszülőt kizárólag az alapdíj illeti meg a gyermek, fiatal felnőtt kollégiumi, diákotthoni elhelyezésének időtartamára. Ha a gyermek, fiatal felnőtt a tanítás nélküli pihenőnapok kivételével tanítási szünet, betegség vagy egyéb ok miatt nem a kollégiumban, diákotthonban, hanem a nevelőszülő háztartásában tartózkodik, a nevelőszülő az alapdíjon felül a kiegészítő díjra, valamint az (5) bekezdésben meghatározott szükségletű gyermek után a többletdíjra is jogosult.
 
-d) legalább tizenöt év hivatásos nevelőszülői jogviszony esetén: négyhavi,
-
-e) legalább húsz év hivatásos nevelőszülői jogviszony esetén: öthavi,
-
-f) legalább huszonöt év hivatásos nevelőszülői jogviszony esetén: hathavi
-
-hivatásos nevelőszülői díjnak megfelelő összeg.
-
-(5) A végkielégítés mértéke háromhavi hivatásos nevelőszülői díjnak megfelelő összeggel emelkedik, ha a hivatásos nevelőszülői jogviszony a (2) bekezdésben meghatározott módon az öregségi nyugdíjjogosultság megszerzését megelőző öt éven belül szűnik meg.
+(7) A nevelőszülői foglalkoztatási jogviszonyban végzett tevékenység díjazása tekintetében egyebekben az Mt. 154. és 155. §-át, 157. § (1) bekezdését, 158. §-át, 159. § (1)–(5) bekezdését, 161. § (1) és (2) bekezdését, valamint 162–164. §-át alkalmazni kell.

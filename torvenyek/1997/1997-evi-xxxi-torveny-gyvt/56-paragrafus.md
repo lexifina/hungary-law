@@ -1,4 +1,4 @@
-56. § (1) A nevelőszülőt az ideiglenes hatállyal elhelyezett, az átmeneti vagy tartós nevelésbe vett gyermek, valamint a volt gondozott fiatal felnőtt (1a) bekezdésben foglaltak szerinti ellátására nevelési díj illeti meg. A nevelési díj legalacsonyabb összege – gyermekenként, fiatal felnőttenként – az öregségi nyugdíj legkisebb összegének 120%-a.
+56. § (1) A nevelőszülőt az ideiglenes hatállyal elhelyezett, a nevelésbe vett gyermek, valamint a volt gondozott fiatal felnőtt (1a) bekezdésben foglaltak szerinti ellátására nevelési díj illeti meg. A nevelési díj legalacsonyabb összege – gyermekenként, fiatal felnőttenként – az öregségi nyugdíj legkisebb összegének 120%-a.
 
 (1a) A nevelési díj a gyermek, fiatal felnőtt élelmezésére, ruházkodására, tankönyvére, tanszerére, a tanulmányai végzéséhez és munkavégzéséhez szükséges egyéb eszközökre, a gyermek, fiatal felnőtt költőpénzére, egészségügyi ellátására fordítható a nevelőszülőt megillető családi pótlékkal együtt.
 

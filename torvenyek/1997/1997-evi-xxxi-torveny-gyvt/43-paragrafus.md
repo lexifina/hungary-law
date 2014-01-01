@@ -1,6 +1,6 @@
 ## Családi napközi
 
-43. § (1) A gyermekek napközbeni ellátásának minősül a bölcsődei és óvodai ellátásban nem részesülő, továbbá az iskolai oktatásban részesülő gyermeknek az iskola nyitvatartási idején kívüli, valamint az iskolai napközit vagy tanulószobai ellátást igénybe nem vevő gyermek családi napköziben történő, nem közoktatási célú ellátása.
+43. § (1) Családi napköziben – nem nevelési-oktatási céllal – ellátható a bölcsődei és óvodai ellátásban nem részesülő gyermek, továbbá az iskolai oktatásban részesülő gyermek az iskola nyitvatartási idején kívül, valamint az Nktv. rendelkezései szerint az általános iskolában a tizenhat óra előtt megszervezett egyéb foglalkozás alól felmentett gyermek, valamint a magántanuló.
 
 (2) A családi napközi a családban nevelkedő gyermekek számára nyújt életkoruknak megfelelő nappali felügyeletet, gondozást, nevelést, étkeztetést és foglalkoztatást. A fogyatékos gyermekek számára sajátos szükségleteikhez igazodó ellátást kell nyújtani.
 

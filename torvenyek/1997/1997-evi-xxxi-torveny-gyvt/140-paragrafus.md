@@ -2,7 +2,7 @@
 
 a) az általa megállapított és folyósított pénzbeli ellátásokról,
 
-b) az ideiglenes hatállyal elhelyezett, valamint az átmeneti és a tartós nevelésbe vett gyermekekről, a gyámság és gondnokság alatt állókról a 139. § (1) bekezdésében meghatározott adattartalommal,
+b) az ideiglenes hatállyal elhelyezett, valamint a nevelésbe vett gyermekekről, a gyámság és gondnokság alatt állókról a 139. § (1) bekezdésében meghatározott adattartalommal,
 
 c) az a) és b) pontban megjelölt személyek, valamint a gyermekek minden olyan vagyonáról, amely nem tartozik a szülő kezelésébe, amelyet a gyámhatóság rendszeres felügyelete alá vont, vagy amelyet a gyámhatósághoz beszolgáltattak,
 

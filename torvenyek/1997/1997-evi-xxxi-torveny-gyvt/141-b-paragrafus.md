@@ -4,15 +4,15 @@
 
 a) az örökbe fogadni szándékozó személy
 
-aa) személyazonosító adatait,
+aa) személyazonosító adatait, társadalombiztosítási azonosító jelét,
 
 ab) Csjt. 47. §-a szerinti alkalmasságára vonatkozó adatokat,
 
 ac) örökbe fogadandó gyermekkel kapcsolatos elvárásaira vonatkozó adatokat,
 
-b) az örökbe fogadandó gyermek
+b) az örökbe fogadható gyermek
 
-ba) személyazonosító adatait,
+ba) személyazonosító adatait, társadalombiztosítási azonosító jelét,
 
 bb) egészségi állapotára vonatkozó adatokat.
 

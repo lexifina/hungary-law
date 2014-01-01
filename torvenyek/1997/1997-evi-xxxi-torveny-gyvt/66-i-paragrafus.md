@@ -1,33 +1,7 @@
-66/I. § (1) A hivatásos nevelőszülő feladatainak és idejének beosztását – a gyermeknevelés követelményeinek megfelelően – maga határozza meg.
+## Kártérítési felelősség, jogvita
 
-(2) A hivatásos nevelőszülőt évi huszonnyolc nap szabadság illeti meg.
+66/I. § (1) A nevelőszülő a nevelőszülői foglalkoztatási jogviszonyából eredő kötelezettségeinek vétkes megszegésével okozott kárért az Mt. 179. §-a szerint tartozik kártérítési felelősséggel.
 
-(3) A (2) bekezdésben meghatározott szabadság a hivatásos nevelőszülő
+(2) A működtető a nevelőszülői foglalkoztatási jogviszonnyal összefüggésben a nevelőszülőnek okozott kárért az Mt. 166. § (1) és (2) bekezdése, 167. §-a és 177. §-a szerint tartozik kártérítési felelősséggel.
 
-a) huszonötödik életévétől huszonkilenc,
-
-b) huszonnyolcadik életévétől harminc,
-
-c) harmincegyedik életévétől harmincegy,
-
-d) harmincharmadik életévétől harminckettő,
-
-e) harmincötödik életévétől harminchárom,
-
-f) harminchetedik életévétől harmincnégy,
-
-g) harminckilencedik életévétől harmincöt,
-
-h) negyvenegyedik életévétől harminchat,
-
-i) negyvenharmadik életévétől harminchét,
-
-j) negyvenötödik életévétől harmincnyolc
-
-napra emelkedik.
-
-(4) A hosszabb tartamú szabadság abban az évben illeti meg először a hivatásos nevelőszülőt, amelyben a (3) bekezdésben meghatározott életkort betölti.
-
-(5) A szabadság időtartamára a teljes hivatásos nevelőszülői díj jár.
-
-(6) A szabadság kiadására és pénzbeli megváltására a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) vonatkozó szabályait kell megfelelően alkalmazni.
+(3) A nevelőszülő és a működtető között a nevelőszülői foglalkoztatási jogviszonyból származó jogokkal és kötelezettségekkel összefüggésben keletkezett jogvitára az Mt. 285. § (1)–(3) bekezdését, 286. §-át, 287. § (1), (4) és (5) bekezdését kell alkalmazni.

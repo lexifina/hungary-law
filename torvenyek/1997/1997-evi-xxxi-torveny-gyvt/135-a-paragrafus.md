@@ -2,7 +2,7 @@
 
 a) a válsághelyzetben lévő várandós anya, a vér szerinti szülő
 
-aa) személyazonosító adatait,
+aa) személyazonosító adatait, társadalombiztosítási azonosító jelét,
 
 ab) egészségi állapotára vonatkozó adatokat,
 
@@ -14,13 +14,13 @@ ae) – önkéntes adatszolgáltatása alapján – a terhesség eltitkolásána
 
 b) a gyermek
 
-ba) személyazonosító adatait,
+ba) személyazonosító adatait, társadalombiztosítási azonosító jelét, fényképét,
 
 bb) egészségi állapotára vonatkozó adatokat;
 
 c) az örökbe fogadni szándékozó személy
 
-ca) személyazonosító adatait,
+ca) személyazonosító adatait, társadalombiztosítási azonosító jelét és hozzájárulása esetén a fényképét,
 
 cb) családi helyzetére vonatkozó adatokat,
 
@@ -34,7 +34,7 @@ cf) örökbe fogadandó gyermekkel kapcsolatos elvárásaira vonatkozó adatokat
 
 d) az örökbe fogadó szülő
 
-da) személyazonosító adatait,
+da) személyazonosító adatait, társadalombiztosítási azonosító jelét,
 
 db) családi helyzetére vonatkozó adatokat,
 
@@ -54,7 +54,7 @@ a) személyazonosításra alkalmatlan módon az (1) bekezdés a) pontjában fogl
 
 b) az (1) bekezdés b) pontjában foglaltakról.
 
-(5) Az örökbefogadást elősegítő közhasznú szervezet az örökbefogadást elősegítő magánszervezetek tevékenységéről és működésük engedélyezéséről szóló kormányrendeletben meghatározott formában – a gyermek belföldön történő örökbefogadásának elősegítése, az átmeneti vagy tartós nevelésbe vett gyermek belföldi örökbefogadására tett intézkedések eredménytelenségének megállapítása és a származás megismeréséhez való jog érvényesülésének biztosítása céljából – folyamatosan továbbítja az országos örökbefogadási nyilvántartást vezető szerv számára
+(5) Az örökbefogadást elősegítő közhasznú szervezet az örökbefogadást elősegítő magánszervezetek tevékenységéről és működésük engedélyezéséről szóló kormányrendeletben meghatározott formában – a gyermek belföldön történő örökbefogadásának elősegítése, a nevelésbe vett gyermek belföldi örökbefogadására tett intézkedések eredménytelenségének megállapítása és a származás megismeréséhez való jog érvényesülésének biztosítása céljából – folyamatosan továbbítja az országos örökbefogadást elősegítő szerv számára
 
 a) az (1) bekezdés a) pontja szerinti adatokat,
 

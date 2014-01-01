@@ -4,7 +4,7 @@
 
 a) segít a gyermeknek panasza megfogalmazásában, kezdeményezheti annak kivizsgálását,
 
-b) segíti a gyermeket az állapotának megfelelő ellátáshoz való hozzájutásban, a gyermekjóléti szolgálat esetmegbeszélésén, illetve a területi gyermekvédelmi szakszolgálat elhelyezési értekezletén az ezzel kapcsolatos megjegyzések, kérdések megfogalmazásában,
+b) segíti a gyermeket az állapotának megfelelő ellátáshoz való hozzájutásban, a gyermekjóléti szolgálat esetmegbeszélésén, illetve a gyámhatóság által tartott tárgyaláson az ezzel kapcsolatos megjegyzések, kérdések megfogalmazásában,
 
 c) a 36. § (2) bekezdése szerinti esetben eljár a gyermek szülője vagy más törvényes képviselője, a gyermek, illetve fiatal felnőtt, valamint a gyermek-önkormányzat felkérése alapján,
 
@@ -50,6 +50,6 @@ c) aki a b) pontban meghatározott bűncselekmény miatt büntetőeljárás hat�
 
 d) aki a szakmai gyakorlata meglétének vizsgálata során figyelembe veendő foglalkozás tekintetében foglalkoztatástól eltiltás hatálya alatt áll, valamint
 
-e) akinek szülői felügyeleti jogát a bíróság jogerős ítéletével megszüntette, valamint – ha külön jogszabály másképp rendelkezik – akinek szülői felügyeleti joga a gyermek átmeneti nevelésbe vétele miatt szünetel.
+e) akinek szülői felügyeleti jogát a bíróság jogerős ítéletével megszüntette, valamint – ha külön jogszabály másképp rendelkezik – akinek szülői felügyeleti joga a gyermek nevelésbe vétele miatt szünetel.
 
 (9) Megszűnik a gyermekjogi képviselő megbízatása, ha vele szemben a (8) bekezdésben meghatározott kizáró okok valamelyike fennáll, vagy ha a gyermekjogi képviselő a 11/B. § (3) bekezdésben meghatározott igazolási kötelezettségének ismételt szabályszerű felhívásra sem tesz eleget, és nem bizonyítja, hogy a kötelezettség elmulasztása rajta kívülálló ok következménye.

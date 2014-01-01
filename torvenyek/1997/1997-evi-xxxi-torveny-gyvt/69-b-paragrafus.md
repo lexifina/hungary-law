@@ -8,7 +8,7 @@ irányulhat.
 
 (2) A szolgáltatás nem terjedhet ki
 
-a) a gyermekvédelmi gondoskodásban részesülő átmeneti vagy tartós nevelésbe vett gyermek örökbefogadásának elősegítésére,
+a) a gyermekvédelmi gondoskodásban részesülő nevelésbe vett gyermek örökbefogadásának elősegítésére,
 
 b) az örökbe fogadható gyermek vagy az örökbe fogadni szándékozó személy személyazonosító adatainak, képmásának hirdetés útján történő közzétételére,
 

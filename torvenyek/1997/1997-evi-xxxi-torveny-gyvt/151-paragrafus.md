@@ -16,9 +16,27 @@ g) a szociális nyári gyermekétkeztetés keretében
 
 nyújtott étkeztetésre.
 
-(2) Ha a szülő (törvényes képviselő) eltérően nem rendelkezik, a nem állami fenntartó az általa fenntartott nevelési-oktatási intézményben, a települési önkormányzat az általa fenntartott óvodában és a közigazgatási területén az állami intézményfenntartó központ által fenntartott nevelési-oktatási intézményben, a fenntartó az egyéb állami fenntartású intézményben a gyermekek és a tanulók számára az óvodai nevelési napokon, illetve az iskolai tanítási napokon biztosítja a déli meleg főétkezést és két további étkezést. A főváros közigazgatási területén lévő tankerületekben az állami intézményfenntartó központ által fenntartott nevelési-oktatási intézményben – a fővárosi önkormányzat saját tulajdonában álló ingatlanban működő nevelési-oktatási intézmények kivételével – az étkeztetést a kerületi önkormányzat biztosítja. A fővárosi önkormányzat köteles biztosítani az étkeztetést azon nevelési-oktatási intézményben, amely saját tulajdonában álló ingatlanban működik. Az étkeztetés biztosítására kötelezett önkormányzat e feladatának ellátásához a közigazgatási területén kívülről érkező gyermek, tanuló lakóhelye szerinti önkormányzattól hozzájárulást kérhet. Iskolai étkeztetésben részesülhet az a tanuló is, aki a napközit nem veszi igénybe. Az étkezések közül az ebéd külön is igényelhető.
+(2) Ha a szülő (törvényes képviselő) eltérően nem rendelkezik, a gyermekek és a tanulók számára az óvodai nevelési napokon, valamint az iskolai tanítási napokon
 
-(2a) Ha a (2) bekezdés szerinti gyermekétkeztetést a települési önkormányzat biztosítja, úgy az intézményi térítési díjat a települési önkormányzat állapítja meg.
+a) a nem állami fenntartó az általa fenntartott nevelési-oktatási intézményben,
+
+b) a települési önkormányzat az általa fenntartott óvodában és a közigazgatási területén az állami intézményfenntartó központ által fenntartott nevelési-oktatási intézményben,
+
+c) a fenntartó az egyéb állami fenntartású intézményben
+
+biztosítja a déli meleg főétkezést és két további étkezést.
+
+(2a) Ha a gyermek, tanuló szakosított szociális ellátást nyújtó, gyermekvédelmi szakellátást nyújtó vagy bentlakásos nevelési-oktatási intézményben van elhelyezve, a (2) bekezdésben szereplő napokon kívül, valamint a déli meleg főétkezésen és a két további étkezésen felül a gyermekek, tanulók számára az étkeztetést az elhelyezést nyújtó intézmény fenntartója biztosítja, a (2b) bekezdésben foglaltak kivételével.
+
+(2b) A települési önkormányzat biztosítja a közigazgatási területén az állami intézményfenntartó központ által fenntartott kollégiumban a (2) bekezdésben foglalt étkezésen kívüli további étkezést.
+
+(2c) A főváros közigazgatási területén lévő tankerületekben az állami intézményfenntartó központ által fenntartott nevelési-oktatási intézményben – a fővárosi önkormányzat saját tulajdonában álló ingatlanban működő nevelési-oktatási intézmények kivételével – a (2) és a (2b) bekezdés szerinti étkeztetést a kerületi önkormányzat biztosítja. A fővárosi önkormányzat köteles biztosítani a (2) és a (2b) bekezdés szerinti étkeztetést azon nevelési-oktatási intézményben, amely saját tulajdonában álló ingatlanban működik.
+
+(2d) Az étkeztetés biztosítására kötelezett önkormányzat e feladatának ellátásához a közigazgatási területén kívülről érkező gyermek, tanuló lakóhelye szerinti önkormányzattól hozzájárulást kérhet.
+
+(2e) Iskolai étkeztetésben részesülhet az a tanuló is, aki a napközit nem veszi igénybe. Az étkezések közül az ebéd külön is igényelhető.
+
+(2f) Ha a (2), a (2b) és a (2c) bekezdés szerinti gyermekétkeztetést a települési önkormányzat biztosítja, úgy az intézményi térítési díjat a települési önkormányzat állapítja meg.
 
 (3) A gyermekétkeztetés intézményi térítési díjának alapja az élelmezés nyersanyag költségének egy ellátottra jutó napi összege.
 
@@ -50,7 +68,7 @@ kedvezményként kell biztosítani [az a)–e) pont a továbbiakban együtt: nor
 
 (7) Nem jár a tanulónak kedvezmény azon étkeztetésére, amely kedvezményre – a szakképzésre vonatkozó rendelkezések szerint létrejött – tanulószerződése alapján már jogosult.
 
-(8) A gyermekvédelmi gondoskodásban részesülő – nevelőszülőnél, gyermekotthonban vagy más bentlakásos intézményben nevelkedő – ideiglenes hatállyal elhelyezett, átmeneti vagy tartós nevelésbe vett gyermek után nem vehető igénybe a normatív kedvezmény.
+(8) A gyermekvédelmi gondoskodásban részesülő – nevelőszülőnél, gyermekotthonban vagy más bentlakásos intézményben nevelkedő – ideiglenes hatállyal elhelyezett, nevelésbe vett gyermek után nem vehető igénybe a normatív kedvezmény.
 
 (9) A gyermek lakóhelye szerint illetékes önkormányzat, illetve – ha a gyermek nem állami fenntartású nevelési-oktatási intézményben részesül étkezésben – a nevelési-oktatási intézmény vezetője – a nem állami fenntartó által megállapított szabályok keretei között – a gyermek egyéni rászorultsága alapján további gyermekenkénti kedvezményt állapíthat meg.
 
@@ -65,3 +83,5 @@ c) életkortól függetlenül a tartósan beteg vagy súlyos fogyatékos
 gyermekeket.
 
 (11) A normatív kedvezményt a tanuló után a nappali rendszerű oktatásban való részvétele befejezéséig kell biztosítani.
+
+(12) Gyermekétkeztetés esetén a 146. §-t, a 147. § (4) bekezdését, a 148. § (1), (4), (5), (8) és (9) bekezdését alkalmazni kell.

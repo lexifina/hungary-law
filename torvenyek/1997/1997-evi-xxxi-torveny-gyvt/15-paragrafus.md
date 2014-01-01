@@ -2,7 +2,7 @@
 
 a) a rendszeres gyermekvédelmi kedvezmény,
 
-b) a rendkívüli gyermekvédelmi támogatás,
+b)
 
 c) a gyermektartásdíj megelőlegezése,
 
@@ -50,9 +50,9 @@ h) az utógondozói ellátás elrendelése.
 
 (7) A gyermekvédelmi rendszerben foglalkoztatott
 
-a) nevelő, gyermekfelügyelő, gondozó, csecsemő- és gyermekgondozó, helyettes szülő vagy nevelőszülő, családgondozó, utógondozó, gyermekjóléti és gyermekvédelmi intézmény vezetője, a gyermek, illetve a fiatal felnőtt közvetlen gondozása, családgondozása és utógondozása során,
+a) nevelő, gyermekfelügyelő, gondozó, csecsemő- és gyermekgondozó, befogadó szülő, családgondozó, utógondozó, gyermekjóléti és gyermekvédelmi intézmény vezetője, a gyermek, illetve a fiatal felnőtt közvetlen gondozása, családgondozása és utógondozása során,
 
-b) nevelőszülői tanácsadó, gyám, gyámi tanácsadó a gyermek közvetlen gondozásának ellenőrzése, illetve törvényes képviseletének ellátása során
+b) befogadó szülői tanácsadó, gyám a gyermek közvetlen gondozásának ellenőrzése, illetve törvényes képviseletének ellátása során
 
 hivatalból jár el, és e tevékenységével kapcsolatban a büntetőjogi védelem szempontjából közfeladatot ellátó személynek minősül.
 

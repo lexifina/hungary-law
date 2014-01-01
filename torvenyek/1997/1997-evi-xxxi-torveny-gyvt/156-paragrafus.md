@@ -4,9 +4,9 @@
 
 (2)–(3)
 
-(4) Ha a diákotthonban és kollégiumban ideiglenes hatállyal elhelyezett, átmeneti vagy tartós nevelésbe vett gyermeket helyeztek el, az 53. § (5) bekezdése alapján a gyermek számára otthont nyújtó ellátást kell biztosítani
+(4) Ha a diákotthonban és kollégiumban ideiglenes hatállyal elhelyezett, nevelésbe vett gyermeket helyeztek el, az 53. § (5) bekezdése alapján a gyermek számára otthont nyújtó ellátást kell biztosítani
 
-a) a nevelési-oktatási intézménynek – feltéve, hogy legalább tizenöt átmeneti vagy tartós nevelésbe vett gyermekről gondoskodik – át kell alakulnia a (3) bekezdésben meghatározott időpontig többcélú – iskolai, diákotthoni vagy kollégiumi és gyermekotthoni feladatot ellátó – közoktatási intézménnyé, vagy
+a) a nevelési-oktatási intézménynek – feltéve, hogy legalább tizenöt nevelésbe vett gyermekről gondoskodik – át kell alakulnia a (3) bekezdésben meghatározott időpontig többcélú – iskolai, diákotthoni vagy kollégiumi és gyermekotthoni feladatot ellátó – közoktatási intézménnyé, vagy
 
 b) amennyiben az a) pontban foglaltak szerint az otthont nyújtó ellátás nem biztosítható, a kollégiumi, diákotthoni ellátás fenntartása mellett gondoskodni kell a gyermek nevelőszülőnél vagy gyermekotthonban történő elhelyezéséről.
 

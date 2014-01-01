@@ -4,6 +4,6 @@
 
 (3) Ha e törvényből, illetve az eljárás nemperes jellegéből más nem következik, a bírósági eljárásban a Polgári perrendtartásról szóló 1952. évi III. törvény (a továbbiakban: Pp.) szabályait megfelelően kell alkalmazni.
 
-(4) A bírósági eljárásban biztosítani kell a gyermek megfelelő képviseletét. A gyermek képviseletére a gyermekjogi képviselő is jogosult. Ha a gyermeknek az eljárás során nincs képviselője, részére a bíróság ügygondnokot rendel ki.
+(4) A bírósági eljárásban a gyermeket a gyermekjogi képviselő képviseli. A gyermek képviseletére a gyámhatóság döntése alapján a gyermekvédelmi gyám is jogosult.
 
 (5) A bírósági eljárásban hozott érdemi határozat ellen fellebbezésnek helye nincs.

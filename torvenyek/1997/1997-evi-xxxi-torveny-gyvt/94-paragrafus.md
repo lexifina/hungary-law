@@ -10,7 +10,7 @@
 
 94. § (1) A települési önkormányzat, fővárosban a fővárosi kerületi önkormányzat, illetve a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi önkormányzat feladata a gyermekek védelme helyi ellátó rendszerének kiépítése és működtetése, a területén lakó gyermekek ellátásának megszervezése.
 
-(2) A települési önkormányzat az e törvényben foglaltak szerint biztosítja a rendkívüli gyermekvédelmi támogatást, a személyes gondoskodást nyújtó alapellátások keretében – a (3)–(4) bekezdésben meghatározottak figyelembevételével – a gyermekjóléti szolgáltatást, a gyermekek napközbeni ellátását, a gyermekek átmeneti gondozását, szervezi és közvetíti a máshol igénybe vehető ellátásokhoz való hozzájutást.
+(2) A települési önkormányzat az e törvényben foglaltak szerint biztosítja a személyes gondoskodást nyújtó alapellátások keretében – a (3)–(4) bekezdésben meghatározottak figyelembevételével – a gyermekjóléti szolgáltatást, a gyermekek napközbeni ellátását, a gyermekek átmeneti gondozását, szervezi és közvetíti a máshol igénybe vehető ellátásokhoz való hozzájutást.
 
 (2a) A települési önkormányzat, a fővárosban a fővárosi kerületi önkormányzat, illetve a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi önkormányzat lakosságszámtól függetlenül köteles gyermekjóléti szolgálatot működtetni.
 

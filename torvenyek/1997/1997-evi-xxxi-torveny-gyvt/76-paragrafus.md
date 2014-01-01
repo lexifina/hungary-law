@@ -2,15 +2,15 @@
 
 a) megállapítja, hogy az ideiglenes hatályú elhelyezés feltételei nem álltak fenn, és a gyermek fejlődése korábbi környezetében – szükség esetén védelembe vétel mellett – biztosítható,
 
-b) a gyermeket átmeneti nevelésbe veszi,
+b) a gyermeket nevelésbe veszi,
 
 c) a bíróság a szülői felügyelet megszüntetése, illetve a gyermek elhelyezésének megváltoztatása iránti perben jogerősen döntött,
 
 d) a gyermeket családba fogadják,
 
-e) a gyermeket örökbe fogadják,
+e) a gyermeket örökbe fogadják.
 
-f) a gyermeket tartós nevelésbe veszi.
+f)
 
 (2) A gyámhatóság az ideiglenes hatályú elhelyezés során a gyermek gondozási helyét megváltoztatja, ha megállapítja, hogy az ideiglenes hatályú elhelyezés feltételei fennállnak, azonban
 

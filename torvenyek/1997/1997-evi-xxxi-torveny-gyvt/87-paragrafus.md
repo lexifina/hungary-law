@@ -1,15 +1,31 @@
 ## A gyermek képviselete
 
-87. § (1) A gyám joga és kötelessége, hogy a gyermeket személyi és – ha erre a nevelőszülőt a gyámhatóság felhatalmazta – vagyoni ügyeiben képviselje.
+87. § (1) A gyermekvédelmi gyám joga és kötelessége, hogy a gyermeket személyi és vagyoni ügyeiben képviselje. Ennek érdekében a gyermekvédelmi gyám különösen
 
-(2) A gyám nem adhat hozzájáruló nyilatkozatot a gyermek örökbefogadásához. A gyám jognyilatkozatainak érvényességéhez szükséges a gyámhatóság jóváhagyása, ha a jognyilatkozat a gyermek családi jogállására és az ezzel kapcsolatos perindításra vonatkozik.
+a) eljár a gyermek személyes okmányainak beszerzése érdekében, kéri a gyermek közgyógyellátásra való jogosultságának megállapítását és a gyermek tartózkodási engedélyének meghosszabbítását,
 
-(3) A gyám kötelessége az otthonteremtési támogatás, valamint az utógondozói ellátás iránti igény benyújtásának figyelemmel kísérése és segítése.
+b) törvényes képviselőként nyilatkozatot tesz a gyermeken végzendő egészségügyi beavatkozásokhoz,
 
-(4) A gyámhatóság a gyermek vagy a gyám kérésére, továbbá hivatalból eseti gondnokot rendel ki a gyermek képviseletének ellátására, ha a gyám, mint törvényes képviselő, a gyermeket a Csjt. szerint nem képviselheti, vagy ha a különleges szakértelmet igénylő ügyekben a gyám nem vállalkozik a gyermek képviseletének ellátására. Nem minősül különleges szakértelmet igénylő ügynek a gyermeket megillető családi pótlék, illetve árvaellátás igénylése, valamint annak gyámhatósági betétben való elhelyezése és kezelése.
+c) eljár a gyermek iskolai beíratása, tanulói jogviszonyának, magántanulói jogállásának létesítése, megszüntetése ügyében,
 
-(5) A gyámhatóság a (4) bekezdésben foglalt eseti gondnokot elsősorban a területi gyermekvédelmi szakszolgálatnak, illetve – ha a gyermekotthont vagy nevelőszülői hálózatot nem állami szerv tartja fenn, illetve működteti – a működtetőnek ezzel a munkakörrel megbízott munkatársai közül jelöli ki.
+d) kérelmezi a gyámhatóságnál a gyermek és szülei kapcsolattartásának szabályozását, módosítását, a gyermek örökbefogadhatóvá nyilvánítását, a gondozási hely megváltoztatását, a gondokság alá helyezés iránt eljárás megindítását, a nevelésbe vétel megszüntetését, ha azok feltételei fennállnak,
 
-(6) A gyám nem képviselheti a gyermeket a nevelési felügyelettel kapcsolatos eljárásban. A gyermek képviselőjeként a gyámhatóság a gyermekjogi képviselőt rendeli ki.
+e) a gyermek örökbefogadásának előkészítése során a gyermekvédelmi szakszolgálattal együttműködve – a szülő-gyermek kapcsolat kialakulása érdekében – a kötelező gondozásba kihelyezést megelőzően engedélyezheti, hogy a gyermek az örökbe fogadni szándékozó szülőnél tartózkodjon, amelyről egyidejűleg értesíti a gyámhatóságot,
 
-(7) Ha a nevelőszülő a gyermek gyámja, a gyám nem képviselheti a gyermeket annak örökbefogadhatóvá nyilvánítására irányuló eljárásban. Ebben az esetben a gyermek képviseletében a gyámhatóság által kirendelt eseti gondnok jár el.
+f) képviseli a gyermeket a hatósági ügyeiben,
+
+g) szükség esetén kérelmezi a gyermek tanulási képességét érintő vizsgálatát.
+
+(2) A gyermekvédelmi gyám nem adhat hozzájáruló nyilatkozatot a gyermek örökbefogadásához. A gyermekvédelmi gyám jognyilatkozatainak érvényességéhez a gyámhatóság jóváhagyása szükséges, ha a jognyilatkozat a gyermek családi jogállására és az ezzel kapcsolatos perindításra vonatkozik.
+
+(3) A gyermekvédelmi gyám tájékoztatja a gyermeket az otthonteremtési támogatás és az utógondozói ellátás iránti kérelem benyújtásának lehetőségéről és elősegíti a gyermek kérelmének benyújtását.
+
+(4) A gyámhatóság a gyermek képviseletének ellátására eseti gondnokot rendel
+
+a) hivatalból, ha a gyermekvédelmi gyám a gyermek törvényes képviseletét a Csjt. szabályai szerint nem láthatja el,
+
+b) kérelemre, ha a különleges szakértelmet igénylő ügyekben a gyermekvédelmi gyám nem vállalkozik a gyermek képviseletének ellátására.
+
+(5) A gyámhatóság a (4) bekezdés a) pontjában meghatározott esetben elsősorban a területi gyermekvédelmi szakszolgálatnak ezzel a feladattal megbízott munkatársai közül jelöli ki az eseti gondnokot.
+
+(6) A nevelési felügyelettel kapcsolatos eljárásban a gyermek képviselőjeként a gyámhatóság a gyermekjogi képviselőt rendeli ki. Ha a gyermekjogi képviselő kirendelése akadályokba ütközik, a nevelési felügyelettel kapcsolatos eljárásban a gyermeket a gyermekvédelmi gyám képviseli.

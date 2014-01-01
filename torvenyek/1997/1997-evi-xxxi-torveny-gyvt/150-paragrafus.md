@@ -32,6 +32,6 @@ b) a tartósan beteg vagy fogyatékos gyermek,
 
 c) a három- vagy többgyermekes család gyermekének,
 
-d) az átmeneti gondozásban lévő, az ideiglenes hatállyal nevelőszülőnél vagy gyermekotthonban elhelyezett, az átmeneti vagy tartós nevelésbe vett gyermek
+d) az átmeneti gondozásban lévő, az ideiglenes hatállyal nevelőszülőnél vagy gyermekotthonban elhelyezett, a nevelésbe vett gyermek
 
 gondozását térítésmentesen kell biztosítani. Ezekben az esetekben személyi térítési díj – a 151. § (5) bekezdésében foglaltak figyelembevételével – csak az étkezésért kérhető. A c) pont szerinti gyermekszámot a 151. § (10) bekezdésében foglaltak szerint kell meghatározni.

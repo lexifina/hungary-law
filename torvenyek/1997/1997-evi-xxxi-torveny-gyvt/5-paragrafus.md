@@ -44,7 +44,7 @@ r) jövedelem: a szociális igazgatásról és szociális ellátásokról szól�
 
 s) fenntartó:
 
-sa) az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv, a helyi önkormányzat, a helyi önkormányzatok társulása, a nemzetiségi önkormányzat (a továbbiakban együtt: állami fenntartó),
+sa) az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv, a helyi önkormányzat, a helyi önkormányzatok társulása (a továbbiakban együtt: állami fenntartó),
 
 sb) az egyházi jogi személy (a továbbiakban: egyházi fenntartó),
 
@@ -66,4 +66,10 @@ x) államilag támogatott lakás-előtakarékossági programban való részvéte
 
 y) családi pótlék: a családok támogatásáról szóló 1998. évi LXXXIV. törvény (a továbbiakban: Cst.) 5. §-ának a) pontja szerinti nevelési ellátás és iskoláztatási támogatás,
 
-z) rendszeres jövedelem: a legalább három egymást követő hónapban keletkezett jövedelem.
+z) rendszeres jövedelem: a legalább három egymást követő hónapban keletkezett jövedelem,
+
+zs) utógondozás: a nevelésbe vétel megszüntetését, megszűnését követően
+
+zsa) a gyermek családjába való visszailleszkedését elősegítő utógondozó szociális munka,
+
+zsb) a fiatal felnőttnek az önálló élet megkezdéséhez szükséges személyre szóló tanácsadás és a társadalomba való beilleszkedéshez történő segítségnyújtás.

@@ -8,7 +8,13 @@ a) személyisége, egészségi állapota és körülményei alapján alkalmas a 
 
 b) a külön jogszabályban meghatározott tanfolyamon eredménnyel részt vett.
 
-(3) A helyettes szülő egyidejűleg – saját gyermekeit is beszámítva – legfeljebb négy gyermek gondozását végezheti.
+(3) A helyettes szülő egyidejűleg – saját gyermekeit is beszámítva – legfeljebb négy gyermek gondozását végezheti. A működtető gyermekgondozó alkalmazásával vagy megbízásával segíti a helyettes szülő munkáját, ha
+
+a) a helyettes szülőnél elhelyezett gyermek rendszeres gyermekpszichiátriai kezelés alatt áll,
+
+b) a helyettes szülő gondozásában kettőnél több három éven aluli gyermek van,
+
+c) a helyettes szülő szabadságon van, beteg vagy feladatai ellátásában egyéb okból akadályozott.
 
 (4) A helyettes szülőket a működtető
 

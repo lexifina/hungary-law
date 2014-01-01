@@ -2,7 +2,7 @@
 
 a) a gyermek családban történő nevelkedése védelembe vétel nélkül is biztosítható,
 
-b) a gyermek ideiglenes hatályú elhelyezését, átmeneti vagy tartós nevelésbe vételét rendelték el,
+b) a gyermek ideiglenes hatályú elhelyezését vagy nevelésbe vételét rendelték el,
 
 c)
 

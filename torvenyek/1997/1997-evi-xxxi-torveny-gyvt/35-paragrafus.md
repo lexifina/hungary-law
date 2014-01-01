@@ -14,7 +14,7 @@ d) az intézményt fenntartó képviselői.
 
 (3) A (2) bekezdés a) és b) pontjában meghatározott személyek száma nem lehet kevesebb a (2) bekezdés c)–d) pont szerinti személyek összlétszámánál.
 
-(4) Az érdekképviseleti fórum megvizsgálja a hozzá benyújtott panaszokat és a hatáskörébe tartozó ügyekben dönt, továbbá intézkedéseket kezdeményezhet a fenntartónál, a gyermekjogi képviselőnél, illetve más hatáskörrel rendelkező szervnél.
+(4) Az érdekképviseleti fórum megvizsgálja a hozzá benyújtott panaszokat és a hatáskörébe tartozó ügyekben dönt, továbbá intézkedéseket kezdeményezhet a fenntartónál, a gyermekvédelmi gyámnál, a gyermekjogi képviselőnél, illetve más hatáskörrel rendelkező szervnél.
 
 (5) Az érdekképviseleti fórum az intézmény vezetőjénél véleményt nyilváníthat a gyermeket, fiatal felnőttet érintő ügyekben, valamint javaslatot tehet az intézmény alaptevékenységével összhangban végzett szolgáltatások tervezéséről, működtetéséről, valamint az ebből származó bevételek felhasználásáról. Az érdekképviseleti fórum egyetértési jogot gyakorol a házirend jóváhagyásánál.
 

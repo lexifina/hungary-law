@@ -1,6 +1,6 @@
-13. § (1) Az átmeneti nevelésbe vett gyermek szülője jogosult arra, hogy
+13. § (1) A nevelésbe vett gyermek szülője, ha szülői felügyeleti joga nem szűnt meg, jogosult arra, hogy
 
-a) a gyermeke gondozójától, gyámjától, hivatásos gyámjától a gyermeke elhelyezéséről, neveléséről, fejlődéséről rendszeres tájékoztatást kapjon,
+a) a gyermeke gondozójától, gyermekvédelmi gyámjától a gyermeke elhelyezéséről, neveléséről, fejlődéséről rendszeres tájékoztatást, a kapcsolattartáshoz segítséget kapjon,
 
 b) a gyámhatóságtól gyermeke gondozási helyének megváltoztatását kérje,
 
@@ -8,13 +8,13 @@ c) a gyermeke családba történő visszahelyezése érdekében a települési �
 
 d) a Csjt.-nek megfelelően a gyermeke sorsát érintő lényeges kérdésekben – a gyermeke nevének meghatározásáról, illetve megváltoztatásáról, tartózkodási helyének kijelöléséről, iskolájának, valamint életpályájának megválasztásáról – meghallgassák.
 
-(2) Az átmeneti nevelésbe vett gyermek szülője jogosult és köteles
+(2) A nevelésbe vett gyermek kapcsolattartásra feljogosított szülője jogosult és köteles
 
-a) a gyermeke gondozását ellátó személyekkel, intézményekkel – a nevelés érdekében – együttműködni,
+a) a gyermeke gondozását ellátó személyekkel, intézményekkel, a gyermekvédelmi gyámmal – a nevelés érdekében – együttműködni,
 
 b) gyermekével – törvényben meghatározott módon – kapcsolatot tartani.
 
-(3) Az átmeneti nevelésbe vett gyermek szülője köteles
+(3) A nevelésbe vett gyermek szülője – a gyámhatóság eltérő rendelkezése hiányában – köteles
 
 a) minden tőle elvárhatót megtenni gyermeke családba történő visszahelyezéséért,
 

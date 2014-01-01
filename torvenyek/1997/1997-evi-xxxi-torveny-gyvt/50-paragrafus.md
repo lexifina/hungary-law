@@ -1,6 +1,6 @@
 ## Gyermekek átmeneti otthona
 
-50. § (1) A gyermekek átmeneti otthonában az a családban élő gyermek helyezhető el, aki átmenetileg ellátás és felügyelet nélkül marad, vagy elhelyezés hiányában ezek nélkül maradna, valamint akinek ellátása a család életvezetési nehézségei miatt veszélyeztetett.
+50. § (1) A gyermekek átmeneti otthonában az a családban élő, tizenkettedik életévét betöltött vagy tizenkettedik életévét be nem töltött, nem helyettes szülőnél elhelyezett gyermek helyezhető el, aki átmenetileg ellátás és felügyelet nélkül marad, vagy elhelyezés hiányában ezek nélkül maradna, valamint akinek ellátása a család életvezetési nehézségei miatt veszélyeztetett.
 
 (2) A gyermekek átmeneti otthona segítséget nyújt – a gyermekjóléti szolgálattal együttműködve – a gyermek családjába történő visszatéréséhez.
 

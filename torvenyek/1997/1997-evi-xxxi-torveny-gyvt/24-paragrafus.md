@@ -26,7 +26,7 @@ a) a gyermek – a gyámhatóság, illetve a bíróság végrehajtható határoz
 
 b) a gyermek nagykorúvá vált, és nappali oktatás munkarendje szerint tanulmányokat nem folytat,
 
-c) a gyermeket a gyámhatóság átmeneti vagy tartós nevelésbe vette,
+c) a gyermeket a gyámhatóság nevelésbe vette,
 
 d) a kötelezett meghalt.
 
@@ -42,4 +42,6 @@ kell kifizetni.
 
 (8) A megelőlegezett gyermektartásdíjat a kötelezett a Polgári Törvénykönyvben meghatározott kamattal az államnak megtéríti. A megelőlegezett gyermektartásdíjnak meg nem térült összegét adók módjára kell behajtani az adózás rendjéről szóló törvény rendelkezései szerint.
 
-(9) A megelőlegezett gyermektartásdíj behajtása során a hátralékra a települési önkormányzat jegyzője adóügyi hatáskörében indokolt esetben méltányosságból részletfizetést vagy kamatelengedést engedélyezhet. A települési önkormányzat jegyzője adóügyi hatáskörében a hátralék teljes összegét akkor engedheti el, ha a kötelezett gyermeke a reá tekintettel megelőlegezett gyermektartásdíjat hagyatéki teherként megörökli.
+(9) A gyámhatóság a megelőlegezett gyermektartásdíj kötelezett által meg nem térített összegét a kötelezett kérelmére és a 133. § (5) bekezdésében foglalt feltételek fennállása esetén méltányosságból elengedheti, csökkentheti vagy részletfizetést engedélyezhet.
+
+(10) A megelőlegezett gyermektartásdíj meg nem térített összege tekintetében fennálló tartozás a kötelezett halála esetén megszűnik.

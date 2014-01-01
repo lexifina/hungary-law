@@ -2,7 +2,7 @@
 
 57. § (1) A gyermekotthon
 
-a) otthont nyújtó ellátást biztosít az ideiglenes hatállyal elhelyezett, az átmeneti és a tartós nevelésbe vett gyermek számára,
+a) otthont nyújtó ellátást biztosít annak az ideiglenes hatállyal elhelyezett vagy nevelésbe vett gyermeknek, akit nem nevelőszülőnél helyeztek el,
 
 b) utógondozói ellátást biztosít a fiatal felnőtt számára,
 
@@ -16,17 +16,23 @@ b) a 46. § szerint ellátást igénylő gyermeket legfeljebb három napra, és 
 
 c) a tartós betegsége, illetve fogyatékossága miatt ellátást igénylő, első életévét be nem töltött gyermeket,
 
-d) az otthont nyújtó ellátás keretében – ideiglenes jelleggel – azon átmeneti vagy tartós nevelésbe vett gyermeket, aki gondozási helyéről önkényesen eltávozott és kezdeményezi a szükséges intézkedéseket.
+d) az otthont nyújtó ellátás keretében – ideiglenes jelleggel – azon nevelésbe vett gyermeket, aki gondozási helyéről önkényesen eltávozott és kezdeményezi a szükséges intézkedéseket.
 
 (3) A gyermekotthon az (1) és (2) bekezdésben foglaltak érdekében
 
-a) gondoskodik az ideiglenes hatállyal elhelyezett, az átmeneti és tartós nevelésbe vett gyermek felvételéről, és erről tájékoztatja a gyámhatóságot, a gyermekjóléti szolgálatot és a területi gyermekvédelmi szakszolgálatot,
+a) tájékoztatja
+
+aa) az ideiglenes hatállyal elhelyezett, a nevelésbe vett gyermek befogadásáról a gyámhatóságot, a gyermekvédelmi gyámot, a gyermekjóléti szolgálatot és a területi gyermekvédelmi szakszolgálatot,
+
+ab) a 46. § alapján ellátott gyermek befogadásáról a szülőt vagy más törvényes képviselőt, a gyámhatóságot, a gyermekjóléti szolgálatot és a területi gyermekvédelmi szakszolgálatot,
+
+ac) az utógondozói ellátott befogadásáról a gyámhatóságot és a területi gyermekvédelmi szakszolgálatot.
 
 b) gondoskodik az utógondozói ellátásban részesülő fiatal felnőtt, valamint az átmeneti gondozásban részesülő gyermekének felvételéről, és erről értesíti a területi gyermekvédelmi szakszolgálatot,
 
-c) biztosítja az otthont nyújtó ellátást, a gyámhatóság által jóváhagyott egyéni elhelyezési terv, valamint az általa elkészített egyéni gondozási-nevelési terv szerint,
+c) biztosítja az otthont nyújtó ellátást, a gyámhatóság által jóváhagyott egyéni elhelyezési terv, valamint az egyéni gondozási-nevelési terv szerint,
 
-d) biztosítja továbbá a gyámhatóság határozata alapján a gyámi feladatok ellátását és az otthont nyújtó ellátás rendszeres felülvizsgálatának előkészítését, és ennek megfelelően
+d) együttműködik a gyámhatóság határozata alapján kirendelt gyermekvédelmi gyámmal, elősegíti a gyámi feladatok ellátását, az otthont nyújtó ellátás rendszeres felülvizsgálatának előkészítését, és ennek megfelelően
 
 da) elősegíti a gyermek és családja kapcsolattartását, a gyermek családjába történő visszatérését, ennek érdekében együttműködik a családdal, a gyermekjóléti szolgálattal, a területi gyermekvédelmi szakszolgálattal, valamint a gyámhatósággal,
 
@@ -38,7 +44,7 @@ dd) felkészíti a gyermeket a családi életre és az önálló életvezetésre
 
 de) elősegíti, hogy a gyermek iskolai tanulmányai sikeres befejezésével, szakképzettség megszerzésével, illetve előtakarékossággal készüljön az önálló életre,
 
-df) utógondozást biztosít a volt átmeneti vagy tartós nevelésbe vett gyermekeknek, illetve az utógondozói ellátásban részesült fiatal felnőttnek.
+df) utógondozást biztosít a volt nevelésbe vett gyermeknek, illetve az utógondozói ellátásban részesült fiatal felnőttnek.
 
 (4) A gyermekotthon nevelőszülői hálózatot működtethet. Nevelőszülői hálózat működtetése esetén ellátja az 55. § (5) bekezdésében meghatározott feladatokat.
 

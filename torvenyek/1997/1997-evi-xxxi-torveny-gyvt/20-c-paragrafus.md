@@ -6,7 +6,7 @@
 
 a) tekintetében a halmozottan hátrányos helyzet fennállását a jegyző a 67/A. § (3) bekezdésében foglaltak szerint megállapította, és
 
-b) legkésőbb annak az óvodai nevelési évnek a kezdetéig, amelyben az ötödik életévét betölti, megkezdi az óvodai nevelésben való tényleges részvételt és a kérelem benyújtását közvetlenül megelőző időszakban legalább két hónapon keresztül a gyámhatóságokról, valamint a gyermekvédelmi és gyámügyi eljárásról szóló kormányrendeletben foglaltak szerint rendszeresen jár óvodába.
+b) legkésőbb annak az óvodai nevelési évnek a kezdetéig, amelyben az ötödik életévét betölti, megkezdi az óvodai nevelésben való tényleges részvételt és a kérelem benyújtását megelőző időszakban legalább két hónapon keresztül a gyámhatóságokról, valamint a gyermekvédelmi és gyámügyi eljárásról szóló kormányrendeletben foglaltak szerint rendszeresen jár óvodába.
 
 (3) Az óvodáztatási támogatás iránti kérelmet a szülői felügyeletet gyakorló szülő vagy a családbafogadó gyám legfeljebb annak az óvodai nevelési évnek a kezdetéig terjesztheti elő, amely évben a gyermek az ötödik életévét betölti.
 

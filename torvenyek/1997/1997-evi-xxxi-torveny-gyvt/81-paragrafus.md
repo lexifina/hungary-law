@@ -1,19 +1,5 @@
-81. § (1) Megszűnik a tartós nevelésbe vétel, ha
+## A nevelésbe vétel megszüntetése és megszűnése
 
-a) a bíróság a szülői felügyeletet visszaállította,
+81. § (1) A gyámhatóság – kivéve ha a szülő szülői felügyeleti jogát megszüntették vagy az megszűnt – a szülő kérelmére, vagy a szülő és a gyermekvédelmi gyám együttes kérelmére, vagy hivatalból a gyermek nevelésbe vételét megszünteti, ha annak okai már nem állnak fenn. Ha a nevelésbe vétel megszüntetését a szülő kéri, a megszüntetéssel egyidejűleg hatályát veszti a szülőnek a Csjt. 48. § (3) bekezdése alapján tett jognyilatkozata.
 
-b) a gyermek a bíróság gyermekelhelyezési döntését követően más személy gyámsága alá került,
-
-c) a gyermeket örökbe fogadták,
-
-d) a gyermek nagykorúvá vált.
-
-(2) A gyámhatóság a Csjt. 92. §-ának (3) bekezdése alapján kapcsolattartásra feljogosított szülő kérelmére a tartós nevelésbe vételt megszünteti, ha
-
-a) a gyermek örökbefogadására nem került sor, és
-
-b) a szülő személye és környezete alkalmas a gyermek nevelésére,
-
-feltéve, hogy a megszüntetés a gyermek érdekében áll.
-
-(3) A tartós nevelésbe vétel megszüntetésével egyidejűleg hatályát veszti a szülőnek a Csjt. 48. §-ának (3) bekezdése alapján tett jognyilatkozata.
+(2) A nevelésbe vétel megszűnik, ha a gyermeket családbafogadták, örökbe fogadták, nagykorúvá vált, vagy a bíróságnak a gyermekelhelyezésre vonatkozó döntését követően a gyermek a különélő másik szülőhöz vagy harmadik személyhez került.
