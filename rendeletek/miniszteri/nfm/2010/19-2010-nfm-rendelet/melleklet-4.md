@@ -1,13 +1,11 @@
-## A volt közüzemi nagykereskedőre vonatkozó, a 3. § szerinti hazai termelésű földgáz
-
-## legmagasabb hatósági ára és mennyisége 2013. negyedik negyedévre
+## A volt közüzemi nagykereskedőre vonatkozó, a 3. § szerinti hazai termelésű földgáz legmagasabb hatósági ára és mennyisége 2014. első negyedévre
 
 |  | A | B | C |
 
 | 1. | A volt közüzemi nagykereskedő | Földgázforrás mennyisége (TJ) | Földgázforrás ára (forint/MJ) |
 
-| 2. | E.ON Földgáz Trade Zrt. | 2983 | 0,781 |
+| 2. | Magyar Földgázkereskedő Zrt. | 4301 | 0,662 |
 
 4. melléklet a 19/2010. (XII. 3.) NFM rendelethez[^27]
 
-[^27]: A 4. melléklet az 58/2013. (IX. 27.) NFM rendelet 3. § (4) bekezdésével megállapított szöveg.
+[^27]: A 4. melléklet a 75/2013. (XII. 16.) NFM rendelet 4. §-ával megállapított szöveg.
