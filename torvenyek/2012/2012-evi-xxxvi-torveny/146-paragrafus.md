@@ -8,7 +8,7 @@
 
 (4) A 10. alcím és a 147. § (1) bekezdése az Alaptörvény 7. cikk (3) bekezdése alapján sarkalatosnak minősül.
 
-(5) Az Első rész, a 11. alcím és a 13. alcím, a 15–19. alcím, a IV–V. Fejezet, a XII. Fejezet, a 41–42. alcím, az 50. alcím, a 145. § (1)–(3), (7) és (9) bekezdése, valamint a 2. melléklet az Alaptörvény 5. cikk (4) és (7) bekezdése alapján a jelen lévő országgyűlési képviselők kétharmadának szavazatával elfogadandó házszabályi rendelkezésnek minősül.
+(5) Az Első rész, a 11. alcím és a 13. alcím, a 15–19. alcím, a IV–V/A. Fejezet, a XII. Fejezet, a 41–42. alcím, az 50. alcím, a 145. § (1)–(3), (7) és (9) bekezdése, valamint a 2. melléklet az Alaptörvény 5. cikk (4) és (7) bekezdése alapján a jelen lévő országgyűlési képviselők kétharmadának szavazatával elfogadandó házszabályi rendelkezésnek minősül.
 
 (6) E törvény
 

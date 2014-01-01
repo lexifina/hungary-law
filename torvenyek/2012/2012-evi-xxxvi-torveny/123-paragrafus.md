@@ -6,7 +6,7 @@
 
 ## AZ ORSZÁGGYŰLÉS HIVATALA
 
-123. § (1) Az Országgyűlés Hivatala ellátja az Országgyűlés szervezeti működtetési, ügyviteli és döntés-előkészítési feladatait. Az Országgyűlés Hivatala önállóan működő és gazdálkodó központi költségvetési szerv, az Országgyűlés költségvetési fejezetén belül önálló cím. Az Országgyűlés Hivatala jogi személy.
+123. § (1) Az Országgyűlés Hivatala az Országgyűlés szervezeti, működtetési, ügyviteli és döntés-előkészítési feladatait ellátó központi költségvetési szerv, amely az Országgyűlés költségvetési fejezetén belül önálló címet képez.
 
 (2) Az Országgyűlés Hivatalát a főigazgató vezeti.
 
