@@ -14,15 +14,16 @@ cb) a járványügy (fertőzőjárvány-ügy) területén, mely feladatok ellát
 
 cc) az egészségfejlesztés (egészségvédelem, egészségnevelés és egészségmegőrzés, népegészségügyi szűrések szervezése és koordinálása, egészségmonitorozás, beleértve a nem fertőző betegségek epidemiológiáját, az egészséghatás-értékelést) területén,
 
-cd) az egészségügyi, gyógyszerügyi igazgatás és koordináció területén,
+cd)[^30] az egészségügyi igazgatás és koordináció területén,
 
-d)[^30] ellátja a jogszabályban a feladatkörébe utalt, az egészségügyi szolgáltatók feletti szakfelügyelet működtetésével összefüggő feladatokat.
+d)[^31] ellátja a jogszabályban a feladatkörébe utalt, az egészségügyi szolgáltatók feletti szakfelügyelet működtetésével összefüggő feladatokat.
 
 (2) A megyei népegészségügyi szakigazgatási szerv részt vesz a lakosság egészségének megőrzését célzó népegészségügyi programok kidolgozásában, irányítja, szervezi és koordinálja a programok végrehajtását.
 
-(3)[^31] A megyei népegészségügyi szakigazgatási szerv alaptevékenységének teljes körű ellátása mellett, a szabad kapacitása kihasználásával – az alapító okiratában meghatározott arányban – vállalkozási tevékenységet végezhet.
+(3)[^32] A megyei népegészségügyi szakigazgatási szerv alaptevékenységének teljes körű ellátása mellett, a szabad kapacitása kihasználásával – az alapító okiratában meghatározott arányban – vállalkozási tevékenységet végezhet.
 
 [^28]: A 10. § (1) bekezdés a) pontja a 174/2012. (VII. 26.) Korm. rendelet 78. § (4) bekezdés a) pontja szerint módosított szöveg.
 [^29]: A 10. § (1) bekezdés c) pont ca) alpontja a 7/2013. (I. 18.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 14. §-át.
-[^30]: A 10. § (1) bekezdés d) pontja a 136/2013. (V. 10.) Korm. erndelet 2. § (1) bekezdésével megállapított szöveg.
-[^31]: A 10. § (3) bekezdése a 73/2011. (IV. 29.) Korm. rendelet 15. § e) pontja szerint módosított szöveg.
+[^30]: A 10. § (1) bekezdés c) pont cd) alpontja az 520/2013. (XII. 30.) Korm. rendelet 79. § a) pontja szerint módosított szöveg.
+[^31]: A 10. § (1) bekezdés d) pontja a 136/2013. (V. 10.) Korm. erndelet 2. § (1) bekezdésével megállapított szöveg.
+[^32]: A 10. § (3) bekezdése a 73/2011. (IV. 29.) Korm. rendelet 15. § e) pontja szerint módosított szöveg.
