@@ -4,9 +4,9 @@
 
 | 1. | Beruházás és azonosítója | A beruházás megvalósításával kapcsolatos engedélyek, engedélyezési eljárások | Első fokon eljáró hatóság | Fellebbezés elbírálására jogosult hatóság |
 
-| 2. | A magyar–szlovák összekötő földgázszállító- vezeték Vecsés– Balassagyarmat közötti szakasza kiépítéséhez, és a vezeték üzemszerű működtetéséhez kapcsolódó beruházások | Előzetes konzultáció, előzetes vizsgálat, környezeti hatásvizsgálati eljárás, egységes környezethasználati engedélyezési eljárás | Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 2. | A magyar–szlovák összekötő földgázszállító- vezeték Vecsés– Balassagyarmat közötti szakasza kiépítéséhez, és a vezeték üzemszerű működtetéséhez kapcsolódó beruházások | Előzetes konzultáció, előzetes vizsgálat, környezeti hatásvizsgálati eljárás, egységes környezethasználati engedélyezési eljárás | Közép-Duna-völgyi Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
-| 3. |  | Vízjogi engedély vezeték szilárdsági nyomáspróbához, vízjogi létesítési engedély kútfúráshoz | Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 3. |  | Vízjogi engedély vezeték szilárdsági nyomáspróbához, vízjogi létesítési engedély kútfúráshoz | Közép-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
 | 4. | Régészeti feltárási engedély | Érdi Járási Hivatal járási építésügyi és örökségvédelmi hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
@@ -88,7 +88,7 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 |  | 12. | Honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
 
-|  | 13. | Környezet- és természetvédelem | Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség |
+|  | 13. | Környezet- és természetvédelem | Közép-Duna-völgyi Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
 |  | 14. | Gyógyhelyek | Országos Tisztifőorvosi Hivatal | Egészségügyi Engedélyezési és Közigazgatási Hivatal |
 
@@ -112,7 +112,7 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 |  | 3. | Fenntartható erdőgazdálkodás és erdővédelem | Pest Megyei Kormányhivatal Erdészeti Igazgatósága | Nemzeti Élelmiszerlánc- biztonsági Hivatal |
 
-|  | 4. | Természetvédelem | Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+|  | 4. | Természetvédelem | Közép-Duna-völgyi Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
 5. Termőföld más célú hasznosításának engedélezése
 
@@ -122,7 +122,9 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 |  | 2. | Talajvédelem | Pest Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatósága | Nemzeti Élelmiszerlánc- biztonsági Hivatal |
 
-|  | 3. | Természetvédelem és vízügy | Közép- Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+|  | 3. | Természetvédelem | Közép-Duna-völgyi Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+
+|  | 3a. | Vízügy | Közép-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
 |  | 4. | Helyi jelentőségű védett természeti terület | települési önkormányzat jegyzője | illetékes megyei (fővárosi) kormányhivatal |
 
@@ -178,7 +180,7 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 |  | 6. | Honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
 
-|  | 7. | Környezet és természetvédelem, ha a tevékenység megkezdéséhez egységes környezethasználati engedély vagy környezetvédelmi engedély nem szükséges | Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség |
+|  | 7. | Környezet és természetvédelem, ha a tevékenység megkezdéséhez egységes környezethasználati engedély vagy környezetvédelmi engedély nem szükséges | Közép-Duna-völgyi Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
 |  | 8. | Víziközlekedés | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
 
@@ -200,4 +202,4 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 |  | 3. | Honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
 
-[^6]: A 2. melléklet a 296/2012. (X. 17.) Korm. rendelet 54. § a)–b) pontja, a 394/2012. (XII. 20.) Korm. rendelet 49. §-a szerint módosított szöveg.
+[^6]: A 2. melléklet a 296/2012. (X. 17.) Korm. rendelet 54. § a)–b) pontja, a 394/2012. (XII. 20.) Korm. rendelet 49. §-a, az 527/2013. (XII. 30.) Korm. rendelet 105. § (2) bekezdése szerint módosított szöveg.
