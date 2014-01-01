@@ -1,6 +1,6 @@
 ## Általános rendelkezések
 
-4. § (1)[^1] A környezetvédelmi, természetvédelmi és vízügyi felügyelőség (a továbbiakban: felügyelőség) az 5. § (1) bekezdés szerinti kivizsgálás során, valamint a kármentesítés minden szakaszában a természetben okozott károsodás helye szerinti nemzeti park igazgatóság, illetve vízügyi igazgatóság és a Nemzeti Környezetügyi Intézet területi kirendeltsége szakvéleményét beszerzi.
+4. § (1)[^1] A környezetvédelmi és természetvédelmi felügyelőség (a továbbiakban: felügyelőség) az 5. § (1) bekezdés szerinti kivizsgálás során, valamint a kármentesítés minden szakaszában a természetben okozott károsodás helye szerinti nemzeti park igazgatóság, illetve vízügyi igazgatóság és a Nemzeti Környezetügyi Intézet területi kirendeltsége szakvéleményét beszerzi.
 
 (2) A felügyelőség a kivizsgálás során, valamint a kármentesítés bármely szakaszában azonnali beavatkozást igénylő természetben okozott károsodás esetén a szükséges környezetvédelmi megelőző és kárelhárítással összefüggő, külön jogszabály[^2] szerinti intézkedésről rendelkezik.
 
@@ -14,7 +14,7 @@
 
 (7) Amennyiben a kármentesítés több környezeti elemet érint és a kármentesítést az érintett környezeti elemekre nézve csak együttesen, egymásra tekintettel lehet elvégezni a tényfeltárásnak, (ennek keretében a tényfeltárási tervnek és a tényfeltárási záródokumentációnak) a beavatkozásnak (ennek keretében a beavatkozási tervnek és a beavatkozási záródokumentációnak) valamennyi érintett környezeti elemre ki kell terjednie, illetve az összes érintett környezeti elemre kiterjedő egységes határozatot kell hozni.
 
-[^1]: A 4. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 542. §-a, a 300/2011. (XII. 22.) Korm. rendelet 16. § a) pontja szerint módosított szöveg.
+[^1]: A 4. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 542. §-a, a 300/2011. (XII. 22.) Korm. rendelet 16. § a) pontja, az 527/2013. (XII. 30.) Korm. rendelet 50. §-a szerint módosított szöveg.
 [^2]: A környezetkárosodás megelőzésének és elhárításának rendjéről szóló 90/2007. (IV. 26.) Korm. r.
 [^3]: A 4. § (3) bekezdése a 300/2011. (XII. 22.) Korm. rendelet 16. § a) pontja szerint módosított szöveg.
 [^4]: A 4. § (5) bekezdése a 300/2011. (XII. 22.) Korm. rendelet 16. § b) pontja szerint módosított szöveg.
