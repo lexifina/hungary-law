@@ -36,6 +36,6 @@
 
 ## ** Ha a folyósított támogatási összeg kisebb a ténylegesen kifizetett összegnél, úgy a különbözet nem igényelhető meg. Ha a folyósított támogatási összeg nagyobb a ténylegesen kifizetett összegnél, úgy a különbözetet vissza kell fizetni a központi költségvetés részére.
 
-4. melléklet 5/2013. (III. 14.) BM rendelethez[^5]
+4. melléklet 5/2013. (III. 14.) BM rendelethez[^4]
 
-[^5]: A 4. melléklet a 12/2013. (IV. 23.) BM rendelet 10. §-ával megállapított szöveg.
+[^4]: A 4. melléklet a 12/2013. (IV. 23.) BM rendelet 10. §-ával megállapított szöveg.

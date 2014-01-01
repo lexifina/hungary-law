@@ -28,6 +28,6 @@
 
 |  | jegyző |  | polgármester |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-3. melléklet 5/2013. (III. 14.) BM rendelethez[^4]
+3. melléklet 5/2013. (III. 14.) BM rendelethez[^3]
 
-[^4]: A 3. melléklet a 12/2013. (IV. 23.) BM rendelet 10. §-ával megállapított szöveg.
+[^3]: A 3. melléklet a 12/2013. (IV. 23.) BM rendelet 10. §-ával megállapított szöveg.
