@@ -2,7 +2,7 @@
 
 11. § (1) A 4. § (2) bekezdése szerinti szakhatósági eljárásban a pénz- és adóügyi biztonság vonatkozásában a Nemzeti Adó- és Vámhivatal területi, illetve központi szerve, a közrend, a közbiztonság, a lakosságvédelem, az alkotmányvédelem, a nemzetbiztonság, a terrorelhárítás vonatkozásában az általános rendőrségi feladatok ellátására létrehozott szerv területi, illetve központi szerve, az Alkotmányvédelmi Hivatal területi, illetve központi szerve, valamint a Terrorelhárítási Központ véleményt nyilvánít.
 
-(2) Az 1. melléklet szerinti politikai hatás kritériuma teljesülésének lehetősége tekintetében az illetékes kormánymegbízott, a környezeti hatás kérdésében a környezetvédelmi, természetvédelmi és vízügyi felügyelőség, illetve az Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség véleményt nyilvánít.
+(2)[^2] Az 1. melléklet szerinti politikai hatás kritériuma teljesülésének lehetősége tekintetében az illetékes kormánymegbízott, a környezeti hatás kérdésében a környezetvédelmi és természetvédelmi felügyelőség, az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség véleményt nyilvánít.
 
 (3) Az (1) bekezdésben meghatározott szervek ellenőrzési tevékenységük során a kijelölés alapjául szolgáló körülmények változatlan fennállásán kívül vizsgálják a létfontosságú rendszerelemek, az azokhoz tartozó közterületek, valamint az azokat felügyelő, működtető személyek azon fizikai, humán és informatikai biztonsági feltételeinek meglétét, amelyek garantálják az azonosított kockázatokkal szembeni védelmet, a rendeltetésszerű működést, a szándékos és nem szándékos károkozás elkerülését.
 
@@ -21,3 +21,5 @@ c) a rendkívüli eseményre való reagálás, a mentés megszervezése, irány�
 d) a szükséges erők, eszközök bevonására az érintett kijelölő hatóság tesz javaslatot;
 
 e) a kiváltó okok azonosításában, a tett intézkedések értékelésében, az érintett kijelölő hatóság, a beavatkozást végző szervek és a biztonsági összekötő személy együtt vesz részt.
+
+[^2]: A 11. § (2) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 140. §-ával megállapított szöveg.

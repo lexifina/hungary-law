@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-65-20-2
 | --- | --- | --- |
 | 2013-03-11 | 2013-65-20-22.1 | 65/2013. (III. 8.) Korm. rendelet |
 | 2013-07-01 | 2013-65-20-22.2 | 233/2013. (VI. 30.) Korm. rendelet |
+| 2014-01-01 | 2013-65-20-22.3 | 527/2013. (XII. 30.) Korm. rendelet |
