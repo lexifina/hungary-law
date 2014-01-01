@@ -2,7 +2,7 @@
 
 (2) A terhességi-gyermekágyi segély alapjául szolgáló jövedelem naptári napi átlagát a 48. § (1)–(3) bekezdésében foglaltak szerint kell megállapítani.
 
-(3) A (2) bekezdésben nem említett biztosított terhességi-gyermekágyi segélyének naptári napi összegét a jogosultság kezdő napján érvényes minimálbér kétszerese harmincad részének figyelembevételével kell megállapítani. Ha azonban a biztosított pénzbeli egészségbiztosítási járulék alapját képező jövedelme a minimálbér kétszeresét nem éri el, a tényleges jövedelmet kell figyelembe venni.
+(3) A (2) bekezdésben nem említett biztosított terhességi-gyermekágyi segélyének naptári napi összegét a jogosultság kezdő napján érvényes minimálbér kétszerese harmincad részének figyelembevételével kell megállapítani. Ha azonban a biztosított pénzbeli egészségbiztosítási járulék alapját képező jövedelme a minimálbér kétszeresét nem éri el, a tényleges jövedelmet kell figyelembe venni. Tényleges jövedelem hiányában a szerződés szerinti jövedelmet kell figyelembe venni, azzal, hogy a terhességi-gyermekágyi segély naptári napi összege a jogosultság kezdő napján érvényes minimálbér kétszeresének harmincad részét nem haladhatja meg.
 
 (3a) A terhességi-gyermekágyi segély megállapításakor határozatban kell rendelkezni az ellátás folyósításának időtartamáról és naptári napi összegéről.
 

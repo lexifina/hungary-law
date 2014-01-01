@@ -68,4 +68,6 @@ sa) a Magyarországon vagy magyar egészségügyi szolgáltató által uniós be
 
 sb) a biztosított által – ide nem értve a megállapodás alapján egészségügyi ellátásra jogosultakat – az Európai Unió más tagállamában vagy az ott letelepedett szolgáltatónál igénybevett egészségügyi ellátás, amelyet a biztosított nem az uniós rendeletek alapján vesz igénybe.
 
-t) jövedelem: az egészségbiztosítás pénzbeli ellátásai összegének kiszámításánál az e törvényben meghatározott időszakban a biztosított által elért, a Tbj. 19. § (3) bekezdése szerint fizetendő pénzbeli egészségbiztosítási járulék alapját képező jövedelem.
+t) jövedelem: az egészségbiztosítás pénzbeli ellátásai összegének kiszámításánál az e törvényben meghatározott időszakban a biztosított által elért, a Tbj. 19. § (3) bekezdése szerint fizetendő pénzbeli egészségbiztosítási járulék alapját képező jövedelem,
+
+u) intézményi előjegyzési lista: a fekvőbeteg-szakellátást végző egészségügyi szolgáltatónál adott ellátások tekintetében az intézményi várólistától elkülönítetten vezetett lista, amelyen a biztosított kérésére a betegellátás tervezett időpontja legalább 14 nappal későbbi, mint az intézményi várólista alapján meghatározható legkorábbi időpont.

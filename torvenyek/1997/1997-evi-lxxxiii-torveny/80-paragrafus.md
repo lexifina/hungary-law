@@ -2,11 +2,17 @@
 
 (2) Az egészségbiztosító felhívására a társadalombiztosítási feladatok ellátásához szükséges adatokat tizenöt napon belül kell közölni.
 
-(3) Az ellátásban részesülő – ha a jogszabály kivételt nem tesz – köteles az egészségbiztosítónak bejelenteni minden olyan tényt, illetőleg adatot, amely az ellátásra jogosultságát vagy ellátása folyósítását érinti.
+(3) Az ellátásban részesülő – ha a jogszabály kivételt nem tesz – köteles 15 napon belül az egészségbiztosítónak bejelenteni minden olyan tényt, illetőleg adatot, amely az ellátásra jogosultságát vagy ellátása folyósítását érinti.
 
-(4) A társadalombiztosítási kifizetőhellyel rendelkező munkáltató a biztosítás megszűnését követően folyósított terhességi-gyermekágyi segélyről és gyermekgondozási díjról az Art. 16. §-ának (4) bekezdésében meghatározott adatok feltüntetésével a folyósított ellátás kezdő és befejező időpontját követő 8 napon belül elektronikus úton köteles bejelentést tenni az egészségbiztosítónak.
+(4) A társadalombiztosítási kifizetőhellyel rendelkező munkáltató a biztosítás megszűnését követően folyósított terhességi-gyermekágyi segélyről és a 42/A. §, illetve a 42/E. § alapján megállapított gyermekgondozási díjról az Art. 16. § (4) bekezdésében meghatározott adatok feltüntetésével a folyósított ellátás kezdő és befejező időpontját követő 8 napon belül elektronikus úton köteles bejelentést tenni az egészségbiztosítónak.
 
-(5) Ha az uniós rendeletek vagy a Magyarország által kötött nemzetközi egyezmény hatálya alá tartozó személy, valamint a Tbj. 11. §-a a) pontjának hatálya alá tartozó magyar állampolgár TAJ számmal rendelkezik, köteles a külföldön, illetve a nemzetközi szervezet szociális biztonsági rendszerében létrejött biztosítását és annak megszűnését 15 napon belül bejelenteni az egészségbiztosítónak.
+(5) Az a TAJ számmal rendelkező személy, aki
+
+a) valamely EGT tagállamban, illetve Svájcban, valamint a Magyarország által kötött nemzetközi egyezmény hatálya alá tartozó államban biztosított, vagy
+
+b) a Tbj. 11. § a) pont hatálya alá tartozó magyar állampolgár,
+
+köteles a külföldön, illetve a nemzetközi szervezet szociális biztonsági rendszerében létrejött biztosítását és annak megszűnését 15 napon belül bejelenteni az egészségbiztosítónak.
 
 (6) Az e törvényben meghatározott bejelentési, nyilvántartási, adatszolgáltatási kötelezettséget nem vagy késedelmesen teljesítő, annak nem az előírt módon eleget tevő vagy valótlan adatokat közlő
 

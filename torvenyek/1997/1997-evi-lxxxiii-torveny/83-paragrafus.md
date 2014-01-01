@@ -56,7 +56,7 @@ y) az elszámolási nyilatkozattal kapcsolatos részletes szabályok,
 
 z) az Európai Egészségbiztosítási Kártya érvényességi idejének és kibocsátása szabályainak
 
-zs) az országos várólista nyilvántartásra, a központi várólistára, a transzplantációs várólistára, a térségi várólistára, az intézményi előjegyzésre, intézményi várólistára és a betegfogadási listára vonatkozó szabályok
+zs) az országos várólista nyilvántartásra, a központi várólistára, a transzplantációs várólistára, a térségi várólistára, az intézményi előjegyzési listára, intézményi várólistára és a betegfogadási listára vonatkozó szabályok
 
 meghatározására.
 
@@ -68,7 +68,7 @@ b) jelölje ki a térségi betegút-szervezésért felelős szervet,
 
 c) jelölje ki az országos várólista nyilvántartást vezető szervet,
 
-d) határozza meg a térségi várólista alapján történő ellátás-igénybevétel, az annak érdekében szükséges kapcsolattartás és a térségi várólista alapján történő szolgáltató-választás, valamint a térségi várólista alapján, az intézményi előjegyzés alapján, intézményi várólista alapján, illetve a betegfogadási lista alapján végzett ellátásokkal kapcsolatos jelentés szabályait.
+d) határozza meg a térségi várólista alapján történő ellátás-igénybevétel, az annak érdekében szükséges kapcsolattartás és a térségi várólista alapján történő szolgáltató-választás, valamint a térségi várólista alapján, intézményi várólista alapján, illetve a betegfogadási lista alapján végzett ellátásokkal, továbbá az intézményi előjegyzési listával kapcsolatos jelentés szabályait.
 
 (2b) Felhatalmazást kap a Kormány arra, hogy rendeletben határozza meg az egészségbiztosító által a 31. § (11) bekezdése alapján kiszabható bírság mértékét.
 
@@ -79,6 +79,10 @@ d) határozza meg a térségi várólista alapján történő ellátás-igénybe
 (2e) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg azoknak az eseteknek a körét, amikor nem köthető a nem finanszírozott egészségügyi szolgáltató orvosával gyógyszer, illetve gyógyászati segédeszköz támogatással történő rendelésére jogosító szerződés.
 
 (2f) Felhatalmazást kap a Kormány, hogy a társadalombiztosítási támogatással rendelhető gyógyszerek és a gyógyászati segédeszközök rendelése, kiadása és felhasználása ellenőrzésének szabályait rendeletben állapítsa meg.
+
+(2g) Felhatalmazást kap a Kormány, hogy az e törvény szerinti belföldi költségek mértékét, azok megtérítésének módját és feltételeit rendeletben meghatározza.
+
+(2h) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg a várólistával, intézményi előjegyzéssel, illetve betegfogadási listával kapcsolatos nyilvántartási, jelentési vagy adatszolgáltatási kötelezettség nem teljesítése esetén az egészségügyi szolgáltató finanszírozásából a 20/A. § (10) bekezdése alapján visszatartásra, illetve levonásra kerülő összeg mértékét, a visszatartás időtartamát, továbbá a visszatartással és a levonással kapcsolatos eljárási szabályokat.
 
 (3) Felhatalmazást kap az egészségbiztosításért felelős miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben rendeletben határozza meg
 
@@ -112,7 +116,7 @@ e)
 
 f) a betegszállításra jogosító kúraszerű kezeléseket,
 
-g) a központi várólista, a transzplantációs várólista, a térségi várólista, az intézményi előjegyzés, intézményi várólista, valamint a betegfogadási lista tekintetében a sorrend kialakításának és az eltérés lehetőségének feltételeit és szabályait, továbbá a várólista, illetve az intézményi előjegyzés, intézményi várólista adatainak honlapon történő közzétételére vonatkozó szabályokat,
+g) a központi várólista, a transzplantációs várólista, a térségi várólista, az intézményi előjegyzési lista, intézményi várólista, valamint a betegfogadási lista tekintetében a sorrend kialakításának és az eltérés lehetőségének feltételeit és szabályait, továbbá a várólista, illetve az intézményi előjegyzési lista, intézményi várólista adatainak honlapon történő közzétételére vonatkozó szabályokat,
 
 h) a beutalás szakmai szabályait,
 

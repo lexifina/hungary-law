@@ -2,4 +2,4 @@
 
 (2) A táppénzfolyósítás időtartamát és a táppénz összegét jogviszonyonként kell megállapítani.
 
-(3) A kifizetőhellyel nem rendelkező munkáltatóknak az igénybejelentéssel kapcsolatos kötelezettségeit, továbbá a kifizetőhelyeknek a terhességi-gyermekágyi segély, a táppénz, a baleseti táppénz megállapításával, folyósításával és elszámolásával összefüggő részletes feladatait és eljárási szabályait a Kormány rendeletben határozza meg.
+(3) A kifizetőhellyel nem rendelkező munkáltatóknak az igénybejelentéssel kapcsolatos kötelezettségeit, továbbá a kifizetőhelyeknek a terhességi-gyermekágyi segély, a gyermekgondozási díj, a táppénz, a baleseti táppénz megállapításával, folyósításával és elszámolásával összefüggő részletes feladatait és eljárási szabályait a Kormány rendeletben határozza meg.

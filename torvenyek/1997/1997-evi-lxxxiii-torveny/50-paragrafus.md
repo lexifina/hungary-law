@@ -10,7 +10,7 @@
 
 a) terhességi-gyermekágyi segély esetén a 42. § (3) bekezdése szerinti összeget,
 
-b) gyermekgondozási díj esetén a 48. § (4) bekezdése szerinti összeget,
+b) gyermekgondozási díj esetén a 48. § (6b) bekezdése szerinti összeget,
 
 c) az (1) bekezdés szerinti táppénz esetén – a biztosítási idő figyelembevételével – a 48. § (8) bekezdése szerinti összeget.
 

@@ -34,6 +34,8 @@ lehet. Az eltérés lehetőségének feltételeit és szabályait az egészségb
 
 (3b) A finanszírozási szerződéssel rendelkező egészségügyi szolgáltatónál a biztosítottnak nem minősülő betegek ellátása – a sürgős szükség esetének kivételével – nem eredményezheti a biztosítottak – várólista illetve betegfogadási lista szerinti – várakozási idejének meghosszabbodását.
 
+(3c) A (3a) bekezdés e) pontja szerinti esetben a biztosítottat intézményi előjegyzési listára kell felvenni.
+
 (4) A keresőképtelen biztosítottat – a (3) bekezdés szerinti miniszteri rendeletben meghatározott esetben – a beutaló orvos kezdeményezése alapján az ellátásra kötelezett szolgáltató az (1) bekezdés b) pontja szerinti ellátások tekintetében a (3) bekezdésben foglaltaktól eltérően – a várólista alapján nyújtható ellátások szabályairól szóló kormányrendeletben foglaltak figyelembevételével – köteles soron kívül fogadni, amennyiben a keresőképtelen biztosított az ellátást a keresőképtelenségét okozó betegsége miatt diagnosztikus vagy terápiás célból veszi igénybe. A keresőképtelenség miatti soron kívüli ellátás nem előzheti meg a (3) bekezdés szerinti szakmai indokoltság, valamint az ellátás várható eredménye miatti soron kívüli ellátásokat.
 
 (5) A transzplantációs várólistára való felvételre jogosult:
@@ -55,3 +57,7 @@ c) az a)–b) pont hatálya alá nem tartozó személyek közül az, akinek egé
 (7c) Az országos várólista-nyilvántartást vezető szerv havonta tájékoztatja a térségi betegútszervezésért felelős szervet az intézményi várólistát vezető szolgáltatók köréről, szolgáltatónkénti bontásban az intézményi várólista alapján igénybe vehető ellátások köréről, a tervezett várakozási időről és a várólistán a tárgyhónapot megelőző hónap utolsó napján lévő betegek számáról.
 
 (8) A biztosítottat a várólistáról vagy betegfogadási listáról törölni kell, ha egészségi állapotában olyan változás áll be, amely az adott beavatkozás elvégzését véglegesen lehetetlenné vagy orvosszakmai szempontból indokolatlanná teszi.
+
+(9) Az intézményi várólistát vezető személy gondoskodik a biztosított intézményi várólistára történő felvételéről és az intézményi előjegyzési listából történő egyidejű törléséről, ha az intézményi várólista szerint adható legkorábbi időpont eléri vagy meghaladja a beteg kérésére az intézményi előjegyzési listában rögzített időpontot.
+
+(10) Az intézményi előjegyzési lista tekintetében a (3c) és (9) bekezdésben nem szabályozott kérdésekben a (2)–(2b), (3b), (6) és (8) bekezdésében, valamint a 20/A. § (1)–(6) bekezdésében foglaltak szerint kell eljárni.

@@ -8,7 +8,7 @@ b) a biztosítás megszűnését követően negyvenkét napon túl baleseti táp
 
 (2) A terhességi-gyermekágyi segélyre jogosultsághoz szükséges előzetes 365 napi biztosítási időbe be kell számítani
 
-a) a biztosítás megszűnését követő baleseti táppénz, terhességi-gyermekágyi segély, gyermekgondozási díj folyósításának az idejét,
+a) a biztosítás megszűnését követő baleseti táppénz, terhességi-gyermekágyi segély, gyermekgondozási díj – kivéve a 42/E. § alapján megállapított gyermekgondozási díj – folyósításának az idejét,
 
 b) közép- vagy felsőfokú oktatási intézmény nappali tagozatán egy évnél hosszabb ideje folytatott tanulmányok idejéből 180 napot,
 
