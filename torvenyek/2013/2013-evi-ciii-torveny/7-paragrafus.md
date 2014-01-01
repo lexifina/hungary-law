@@ -4,7 +4,7 @@
 
 a)–b)
 
-c)
+c) 153. § (3) bekezdésének c) pontjában az „az e törvényben megállapított alapszabadságra” szövegrész helyébe az „a szabadság egyötödére” szöveg,
 
 d)
 
