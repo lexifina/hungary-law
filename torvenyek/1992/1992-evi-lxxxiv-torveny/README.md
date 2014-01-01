@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1992-84-00-00
 | 2012-09-01 | 2012. évi CXII. törvény | 1992-84-00-00.35 |
 | 2012-10-01 | 2012. évi CXL. törvény | 1992-84-00-00.36 |
 | 2013-01-01 | 2012. évi CXCVI. törvény | 1992-84-00-00.37 |
+| 2014-01-01 | 2013. évi CCIII. törvény | 1992-84-00-00.38 |

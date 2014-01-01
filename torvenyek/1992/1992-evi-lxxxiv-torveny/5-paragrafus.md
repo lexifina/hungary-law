@@ -10,11 +10,11 @@ c) a természetben nyújtott ellátások, ideértve a gyógyító-megelőző ell
 
 kiadásainak fedezetére szolgál.
 
-(2) Az Egészségbiztosítási Alap az (1) bekezdésben megjelölt ellátásokon túl, azok finanszírozásával összefüggésben közvetlenül felmerült kamatkiadásra, bankköltségre, postaköltségre, a társadalombiztosítási kifizetőhely fenntartóját megillető, a társadalombiztosítási ellátások kifizetőhely által folyósított összegének 1%-ával azonos költségtérítésre, a jóváhagyott működési kiadások külső forrásból nem biztosított összegének fedezetére, továbbá az ellátások fedezetére szolgáló vagyongazdálkodási tevékenység költségeinek és törvényben meghatározott egyéb kiadásnak a fedezetére szolgál. Az Egészségbiztosítási Alap működési költségvetését a 10. § (2) bekezdése szerinti kiadások terhelik.
+(2) Az Egészségbiztosítási Alap az (1) bekezdésben megjelölt ellátásokon túl, azok finanszírozásával összefüggésben közvetlenül felmerült kamatkiadásra, bankköltségre, postaköltségre, a társadalombiztosítási kifizetőhely fenntartóját megillető, a társadalombiztosítási ellátások kifizetőhely által folyósított összegének 1%-ával azonos költségtérítésre, a jóváhagyott működési kiadások külső forrásból nem biztosított összegének fedezetére, továbbá az ellátások fedezetére szolgáló vagyongazdálkodási tevékenység költségeinek és törvényben meghatározott egyéb kiadásnak a fedezetére szolgál.
 
 (3) A kiadások fedezetét a következő bevételek képezik:
 
-a) a munkáltatói egészségbiztosítási járulék (ezen belül természetbeni és pénzbeli egészségbiztosítási járulék);
+a) a szociális hozzájárulási adónak az Egészségbiztosítási Alapot a központi költségvetésről szóló törvényben meghatározottak szerinti arányban megillető része, a munkáltatói egészségbiztosítási járulék (ezen belül természetbeni és pénzbeli egészségbiztosítási járulék);
 
 b) a biztosított által fizetett egészségbiztosítási járulék (ezen belül természetbeni és pénzbeli egészségbiztosítási járulék);
 
@@ -54,7 +54,7 @@ h) az Egészségbiztosítási Alap részére tartozás fejében átadott vagyon 
 
 i) az Egészségbiztosítási Alaphoz tartozó állami vagyon értékesítéséből és egyéb bevételeiből származó összeg;
 
-j) a 10. § (1) bekezdésében meghatározott működési bevételek;
+j) a 10. §-ban meghatározott működési bevételek;
 
 k)
 
