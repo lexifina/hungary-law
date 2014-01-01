@@ -2,4 +2,8 @@
 
 ## FOGYASZTÓI CSOPORT SZERVEZÉSÉNEK TILALMA
 
-16/B. § Fogyasztói csoport 2014. január 1-jéig nem hozható létre.
+16/B. § (1) Tilos fogyasztói csoportot létrehozni.
+
+(2) Az (1) bekezdésben foglalt tilalom megsértésével vagy megkerülésével kötött szerződés semmis.
+
+(3) Tilos fogyasztói csoportba fogyasztókat nyilvános felhívás útján gyűjteni. A 2012. január 1-je előtt létrehozott fogyasztói csoportba új fogyasztó kizárólag a – szerződés felmondással történő megszüntetése következtében – kieső fogyasztó helyére vehető fel.

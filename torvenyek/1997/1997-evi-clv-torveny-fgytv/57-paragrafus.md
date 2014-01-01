@@ -12,7 +12,11 @@ d)
 
 e) a Bizottság 98/257/EK ajánlása (1998. március 30.) a fogyasztói jogviták bírósági eljáráson kívüli rendezésére hatáskörrel rendelkező testületekre vonatkozó elvekről (a 18–37/A. §).
 
-f)–h)
+f) az Európai Parlament és a Tanács 2006/123/EK irányelve (2006. december 12.) a belső piaci szolgáltatásokról
+
+[a 2. § i) pontja, a 16/B. § (1) és (3) bekezdése, a 17/D. § (4) bekezdése].
+
+g–h)
 
 (2) Ez a törvény a következő uniós jogi aktusok végrehajtásához szükséges rendelkezéseket állapítja meg a fogyasztóvédelmi hatóság feladatkörében és eljárásában:
 

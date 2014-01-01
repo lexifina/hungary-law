@@ -11,3 +11,5 @@ b) a 43/A. § (1) bekezdés a)–c), e) és f), valamint h)–k) pontjában eml�
 (3) A fogyasztóvédelmi hatóság eljárása a jogsértés bekövetkezését követő három éven túl nem indítható meg. Ha a jogsértő magatartás folyamatos, a határidő a magatartás abbahagyásakor kezdődik. Ha a jogsértő magatartás azzal valósul meg, hogy valamely helyzetet vagy állapotot nem szüntetnek meg, a határidő mindaddig nem kezdődik el, amíg ez a helyzet vagy állapot fennáll.
 
 (4) A fogyasztóvédelmi hatóság a termék biztonságosságával és megfelelőségével kapcsolatos piacfelügyeleti feladat- és hatáskörét e törvény, a termékek piacfelügyeletéről szóló törvény, valamint külön jogszabály alapján gyakorolja.
+
+(5) A fogyasztóvédelmi hatóság közszolgáltatással kapcsolatos eljárásában az ügyintézési határidő 90 nap.
