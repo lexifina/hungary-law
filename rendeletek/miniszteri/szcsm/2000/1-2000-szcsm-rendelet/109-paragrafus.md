@@ -18,10 +18,10 @@ e) kulturális integrációjában, szabadidős tevékenységek gyakorlásában.
 
 a) települési önkormányzat, a fővárosban a kerületi önkormányzat jegyzőjével a családi, illetve lakóhelyi környezetbe történő visszahelyezés előkészítése,
 
-b)[^254] megyei, fővárosi munkaügyi központtal, illetve a járási (fővárosi kerületi) hivatal munkaügyi kirendeltségével az esetleges munkavállalás előkészítése,
+b)[^255] megyei, fővárosi munkaügyi központtal, illetve a járási (fővárosi kerületi) hivatal munkaügyi kirendeltségével az esetleges munkavállalás előkészítése,
 
 c) települési önkormányzat, a fővárosban a kerületi önkormányzat illetékes szervezeti egységével a szükséges és jogos ellátások biztosítása, lakhatási lehetőségek és a lakhatás megtartását segítő támogatások nyújtása,
 
 d) szociális és más szervezetekkel, intézményekkel a szociális és mentális támogatás biztosítása
 
-[^254]: A 109. § (3) bekezdés b) pontja a 11/2013. (II. 7.) EMMI rendelet 47. § d) pontja szerint módosított szöveg.
+[^255]: A 109. § (3) bekezdés b) pontja a 11/2013. (II. 7.) EMMI rendelet 47. § d) pontja szerint módosított szöveg.

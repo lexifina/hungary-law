@@ -502,7 +502,7 @@
 
 ## 12. A támogatott lakhatás tekintetében a fenntartónak a működés megkezdésének időpontjában, illetve az azt követő három hónapban a II. 2. G) pont szerinti személyi feltételekkel kell rendelkeznie. Ezt követően a létszámfeltételeket a 14. számú melléklet szerint a szolgáltatás biztosításához szükséges óraszám/létszámnak az összes ellátottra számított összege határozza meg. A személyi feltételekben történő változást – a bentlakásos intézményekre a 10. pontban meghatározottak szerint – a működést engedélyező szervnek be kell jelenteni.
 
-3. számú melléklet az 1/2000. (I. 7.) SZCSM rendelethez[^266]
+3. számú melléklet az 1/2000. (I. 7.) SZCSM rendelethez[^267]
 
 A személyes gondoskodást nyújtó szociális intézményekben foglalkoztatottaknak az adott munkakör betöltéséhez szükséges képesítési minimumelőírásai
 
@@ -1708,4 +1708,4 @@ A személyes gondoskodást nyújtó szociális intézményekben foglalkoztatotta
 
 10.3. Szenvedélybetegek ápoló-gondozó otthona, átmeneti intézménye, rehabilitációs intézménye, rehabilitációs célú lakóotthona
 
-[^266]: A 3. számú melléklet a 26/2010. (XII. 30.) NEFMI rendelet 9. § (1) bekezdésével megállapított, a 78/2011. (XII. 30.) NEFMI rendelet 8. §-a szerint módosított szöveg.
+[^267]: A 3. számú melléklet a 26/2010. (XII. 30.) NEFMI rendelet 9. § (1) bekezdésével megállapított, a 78/2011. (XII. 30.) NEFMI rendelet 8. §-a szerint módosított szöveg.

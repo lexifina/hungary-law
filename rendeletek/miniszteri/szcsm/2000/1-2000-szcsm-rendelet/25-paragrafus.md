@@ -1,6 +1,6 @@
 ## 3. CÍM
 
-## HÁZI SEGÍTSÉGNYÚJTÁS[^76]
+## HÁZI SEGÍTSÉGNYÚJTÁS[^77]
 
 25. § (1) A házi segítségnyújtás olyan gondozási forma, amely az igénybe vevő önálló életvitelének fenntartását – szükségleteinek megfelelően – lakásán, lakókörnyezetében biztosítja.
 
@@ -20,9 +20,9 @@ a) az ellátást igénybe vevővel segítő kapcsolat kialakítása és fenntart
 
 b) az orvos előírása szerinti alapvető gondozási, ápolási feladatok ellátása,
 
-c)[^77] közreműködés a személyi és lakókörnyezeti higiéné megtartásában,
+c)[^78] közreműködés a személyi és lakókörnyezeti higiéné megtartásában,
 
-d)[^78] közreműködés az ellátást igénybe vevő háztartásának vitelében,
+d)[^79] közreműködés az ellátást igénybe vevő háztartásának vitelében,
 
 e) segítségnyújtás az ellátást igénybe vevőnek a környezetével való kapcsolattartásában,
 
@@ -34,12 +34,12 @@ h) az ellátást igénybe vevő segítése a számukra szükséges szociális el
 
 i) az előgondozást végző személlyel való együttműködés,
 
-j)[^79] szükség esetén a bentlakásos szociális intézménybe történő beköltözés segítése.
+j)[^80] szükség esetén a bentlakásos szociális intézménybe történő beköltözés segítése.
 
-(4)[^80] A házigondozó a házi segítségnyújtás során együttműködik az egészségügyi és szociális alap- és szakellátást nyújtó intézményekkel.
+(4)[^81] A házigondozó a házi segítségnyújtás során együttműködik az egészségügyi és szociális alap- és szakellátást nyújtó intézményekkel.
 
-[^76]: A 25. §-t megelőző cím a 2/2006. (IV. 14.) ICSSZEM rendelet 17. § (1) bekezdésével megállapított szöveg.
-[^77]: A 25. § (3) bekezdésének c) pontja a 2/2006. (IV. 14.) ICSSZEM rendelet 17. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 39. § (2)–(3) bekezdését.
-[^78]: A 25. § (3) bekezdésének d) pontja a 2/2006. (IV. 14.) ICSSZEM rendelet 39. § (4) bekezdésének d) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 39. § (2)–(3) bekezdését.
-[^79]: A 25. § (3) bekezdésének j) pontját a 4/2004. (I. 28.) ESZCSM rendelet 7. §-ának (1) bekezdése iktatta be.
-[^80]: A 25. § (4) bekezdése a 4/2004. (I. 28.) ESZCSM rendelet 7. §-ának (2) bekezdésével megállapított szöveg.
+[^77]: A 25. §-t megelőző cím a 2/2006. (IV. 14.) ICSSZEM rendelet 17. § (1) bekezdésével megállapított szöveg.
+[^78]: A 25. § (3) bekezdésének c) pontja a 2/2006. (IV. 14.) ICSSZEM rendelet 17. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 39. § (2)–(3) bekezdését.
+[^79]: A 25. § (3) bekezdésének d) pontja a 2/2006. (IV. 14.) ICSSZEM rendelet 39. § (4) bekezdésének d) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 39. § (2)–(3) bekezdését.
+[^80]: A 25. § (3) bekezdésének j) pontját a 4/2004. (I. 28.) ESZCSM rendelet 7. §-ának (1) bekezdése iktatta be.
+[^81]: A 25. § (4) bekezdése a 4/2004. (I. 28.) ESZCSM rendelet 7. §-ának (2) bekezdésével megállapított szöveg.

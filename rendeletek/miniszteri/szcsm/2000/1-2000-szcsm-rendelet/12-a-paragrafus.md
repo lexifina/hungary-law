@@ -1,6 +1,6 @@
-## Az egyéni szolgáltatási terv[^52]
+## Az egyéni szolgáltatási terv[^53]
 
-12/A. §[^53] (1) A támogatott lakhatást igénybevevők esetében egyéni szolgáltatási tervet kell készíteni.
+12/A. §[^54] (1) A támogatott lakhatást igénybevevők esetében egyéni szolgáltatási tervet kell készíteni.
 
 (2) Az egyéni szolgáltatási terv a 110/B–110/C. § szerinti komplex szükségletfelmérés eredményén és tartalmán alapul.
 
@@ -24,5 +24,5 @@ g) az Szt. 75. § (3) bekezdése alapján a más szervezet által biztosított s
 
 (5) Az egyéni szolgáltatási tervet és a (4) bekezdés szerinti módosításait az intézményvezető, a támogatott lakhatást igénybevevő személy, valamint az Szt. 75. § (1) bekezdés b)–d) pontja szerinti szolgáltatásokat nyújtó intézmény, szolgáltató vezetője által kijelölt személy írja alá.
 
-[^52]: A 12/A. §-t megelőző alcímet az 55/2013. (VII. 29.) EMMI rendelet 6. §-a iktatta be.
-[^53]: A 12/A. §-t az 55/2013. (VII. 29.) EMMI rendelet 6. §-a iktatta be.
+[^53]: A 12/A. §-t megelőző alcímet az 55/2013. (VII. 29.) EMMI rendelet 6. §-a iktatta be.
+[^54]: A 12/A. §-t az 55/2013. (VII. 29.) EMMI rendelet 6. §-a iktatta be.
