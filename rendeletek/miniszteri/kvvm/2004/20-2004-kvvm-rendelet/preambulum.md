@@ -1,1 +1,0 @@
-A műszaki termékek megfelelőségét vizsgáló ellenőrző és tanúsító szervezetek kijelöléséről szóló 182/1997. (X. 17.) Korm. rendelet (a továbbiakban: kormányrendelet) 11. §-ában kapott felhatalmazás alapján a következőket rendelem el:
