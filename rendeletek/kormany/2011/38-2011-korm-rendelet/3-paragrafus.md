@@ -42,7 +42,7 @@ A nemzeti adatvagyon körébe tartozó állami nyilvántartások adatfeldolgozó
 
 | 16. | A Nemzeti Adó- és Vámhivatal által kezelt, a 15. pont alá nem tartozó adatok nyilvántartása | Pillér Pénzügyi és Számítástechnikai Kft. | teljes adatfeldolgozás | az adatkezelő döntésétől függő |
 
-| 17. | Cégnyilvántartás | Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala | teljes adatfeldolgozás | kötelező |
+| 17. | Cégnyilvántartás | Magyar Közlöny Lap- és Könyvkiadó Kft. | teljes adatfeldolgozás | kötelező |
 
 | 18. | Központi idegenrendészeti nyilvántartás | Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala és Bűnügyi Szakértői és Kutatóintézet | teljes adatfeldolgozás | kötelező |
 
@@ -56,4 +56,6 @@ A nemzeti adatvagyon körébe tartozó állami nyilvántartások adatfeldolgozó
 
 | 23. | Bűnügyi nyilvántartási rendszer | Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala | teljes adatfeldolgozás | kötelező |
 
-[^1]: A melléklet a 404/2012. (XII. 28.) Korm. rendelet 9. §-ával megállapított, a 43/2013. (II. 19.) Korm. rendelet 24. §-a szerint módosított szöveg.
+| 24. | Egységes örökbefogadási nyilvántartás | Nemzeti Rehabilitációs és Szociális Hivatal | elektronikus adatfeldolgozás | kötelező |
+
+[^1]: A melléklet a 404/2012. (XII. 28.) Korm. rendelet 9. §-ával megállapított, a 43/2013. (II. 19.) Korm. rendelet 24–25. §-a, az 513/2013. (XII. 29.) Korm. rendelet 32. §-a szerint módosított szöveg.
