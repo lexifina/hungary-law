@@ -1,1 +1,0 @@
-## 2. § A Kezelő Szervezet köteles számviteli politikájában a kötelező gépjármű-felelősségbiztosításra vonatkozó bevétele és ráfordítása felosztásának elvét a szokásos vállalkozási eredmény szintjéig rögzíteni.

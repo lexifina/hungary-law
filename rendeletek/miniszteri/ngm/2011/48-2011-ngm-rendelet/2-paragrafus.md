@@ -1,3 +1,0 @@
-## 1. §[^2] A Kártalanítási Számlát kezelő szervezet (a továbbiakban: Kezelő Szervezet) köteles a kötelező gépjármű-felelősségbiztosítás eredményelszámolását az 1. melléklet szerint elkészíteni és a tárgyévet követő évben a Magyar Nemzeti Bank elnökének a Kártalanítási Számla kezelője adatszolgáltatási kötelezettségének a részletes szabályait megállapító rendeletében meghatározott adatszolgáltatás keretében a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank (a továbbiakban: Felügyelet) részére megküldeni.
-
-[^2]: Az 1. § a 40/2013. (IX. 30.) NGM rendelet 18. §-ával megállapított szöveg.
