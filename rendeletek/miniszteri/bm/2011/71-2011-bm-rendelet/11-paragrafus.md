@@ -12,7 +12,7 @@ e) figyelemmel kíséri a szabályzatok, szakmai utasítások végrehajtását;
 
 f) nyilvántartja a ruházati anyagok és felszerelési cikkek műszaki leírásait;
 
-g)[^9] meghatározza a ruházati fejlesztés irányát, jóváhagyja és felügyeli a Központi Beszerző és Ellátó Szerv, valamint a középfokú szakirányító szerv fejlesztéseit.
+g)[^10] meghatározza a ruházati fejlesztés irányát, jóváhagyja és felügyeli a Központi Beszerző és Ellátó Szerv, valamint a középfokú szakirányító szerv fejlesztéseit.
 
 (2) A ruházati szakszolgálat középfokú szakirányító szervezeti egysége:
 
@@ -24,13 +24,13 @@ c) megtervezi az igényjogosult állomány ellátási szükségleteit, elkészí
 
 d) gondoskodik az igényjogosultak egyenruházatának és felszerelési cikkeinek folyamatos biztosításáról, forgalmazásáról, ennek érdekében saját üzemeltetésű egyenruházati bolto(ka)t hoz létre, vagy szerződést köt – cikkeinek forgalmazására, valamint méretre készítésére – az egyenruházati bolto(ka)t és a méretes ruhákat, valamint lábbeliket készítő egysége(ke)t üzemeltető szervekkel, cégekkel;
 
-e)[^10] szabályozza a saját üzemeltetésű egyenruházati bolt(ok) működési rendjét, valamint minden évben elkészíti és megküldi a Központi Beszerző és Ellátó Szerv és a Beszerző Szerv részére az ellátáshoz és a bolt(ok) üzemeltetéséhez szükséges következő évi cikkenkénti igénybejelentést;
+e)[^11] szabályozza a saját üzemeltetésű egyenruházati bolt(ok) működési rendjét, valamint minden évben elkészíti és megküldi a Központi Beszerző és Ellátó Szerv és a Beszerző Szerv részére az ellátáshoz és a bolt(ok) üzemeltetéséhez szükséges következő évi cikkenkénti igénybejelentést;
 
 f) a szervezeti és működési szabályzatban meghatározottak szerint irányítja és ellenőrzi a saját üzemeltetésű egyenruházati bolt(ok) tevékenységét;
 
 g) a Központi Beszerző és Ellátó Szervtől és a Beszerző Szervtől folyamatosan igényli a saját üzemeltetésű egyenruházati bolt működéséhez szükséges egyenruházati és felszerelési cikkeket;
 
-h)[^11] kialakítja és az érintett szerveknek megküldi a következő évre érvényes bolti árjegyzéket;
+h)[^12] kialakítja és az érintett szerveknek megküldi a következő évre érvényes bolti árjegyzéket;
 
 i) meghatározza a központi beszerzésű ruházati termékeken kívüli termékek körét, méretmegoszlását; ellátja a központi beszerzésű termékeken kívül, a közbeszerzési törvényben, más jogszabályokban, illetve a közjogi szervezetszabályozó eszközökben foglaltak szerint az egyenruházati termékek és felszerelési cikkek beszerzését, valamint tárolását, kiadását;
 
@@ -40,7 +40,7 @@ k) irányítja a ruházati szakszolgálat végrehajtó szervezeti egysége szakm
 
 l) meghatározza a ruházati szolgálatoknak – az e rendeletben nem szabályozott – feladatait;
 
-m)[^12] összeállítja a ruházati termékek fejlesztési javaslatait, a felsőfokú szakirányító szerv jóváhagyása esetén intézkedik a fejlesztések lebonyolításáról.
+m)[^13] összeállítja a ruházati termékek fejlesztési javaslatait, a felsőfokú szakirányító szerv jóváhagyása esetén intézkedik a fejlesztések lebonyolításáról.
 
 (3) A ruházati szakszolgálat végrehajtó szervezeti egysége:
 
@@ -84,7 +84,7 @@ j) a hivatásos állomány alap- és utánpótlási egyenruházati igényeinek b
 
 k) a hivatásos állomány utánpótlási egyenruházati igényeinek biztosítása érdekében csomagküldő szolgáltatást üzemeltethet;
 
-l)[^13] összeállítja a ruházati termékek fejlesztési javaslatait, a felsőfokú szakirányító szerv jóváhagyása esetén intézkedik a fejlesztések lebonyolításáról.
+l)[^14] összeállítja a ruházati termékek fejlesztési javaslatait, a felsőfokú szakirányító szerv jóváhagyása esetén intézkedik a fejlesztések lebonyolításáról.
 
 (6) A Beszerző Szerv feladatai:
 
@@ -114,8 +114,8 @@ l) a Beszerző Szerv az éves igénybejelentés alapján igényli a Központi Be
 
 (7) A központi szervnél működő ruházati szakszolgálati szervezeti egység folyamatosan karban tartja a ruházati termékek és felszerelési cikkek műszaki leírásait.
 
-[^9]: A 11. § (1) bekezdés g) pontját a 35/2012. (VII. 13.) BM rendelet 2. § (1) bekezdése iktatta be.
-[^10]: A 11. § (2) bekezdés e) pontja a 35/2012. (VII. 13.) BM rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^11]: A 11. § (2) bekezdés h) pontja a 35/2012. (VII. 13.) BM rendelet 2. § (3) bekezdésével megállapított szöveg.
-[^12]: A 11. § (2) bekezdés m) pontját a 35/2012. (VII. 13.) BM rendelet 2. § (4) bekezdése iktatta be.
-[^13]: A 11. § (5) bekezdés l) pontját a 35/2012. (VII. 13.) BM rendelet 2. § (5) bekezdése iktatta be.
+[^10]: A 11. § (1) bekezdés g) pontját a 35/2012. (VII. 13.) BM rendelet 2. § (1) bekezdése iktatta be.
+[^11]: A 11. § (2) bekezdés e) pontja a 35/2012. (VII. 13.) BM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^12]: A 11. § (2) bekezdés h) pontja a 35/2012. (VII. 13.) BM rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^13]: A 11. § (2) bekezdés m) pontját a 35/2012. (VII. 13.) BM rendelet 2. § (4) bekezdése iktatta be.
+[^14]: A 11. § (5) bekezdés l) pontját a 35/2012. (VII. 13.) BM rendelet 2. § (5) bekezdése iktatta be.

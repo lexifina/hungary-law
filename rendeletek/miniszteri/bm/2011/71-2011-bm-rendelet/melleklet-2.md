@@ -238,25 +238,7 @@
 
 |  | dc) | 10M Kutyavezetői védődzseki | 1 db |
 
-## e) Akció alegységeknél szolgálatot ellátók speciális szolgálati egyenruházata
-
-|  |  | Megnevezés | Mennyiség |
-
-|  | ea) | Szövetsapka (pilotka), fekete, szerelve | 1 db |
-
-|  | eb) | Speciális, bevetési zubbony, fekete | 1 db |
-
-|  | ec) | Speciális, bevetési nadrág, fekete | 1 db |
-
-|  | ed) | Speciális, bevetési téli dzseki, fekete | 1 db |
-
-|  | ee) | Speciális, bevetési póló, fekete | 2 db |
-
-|  | ef) | Speciális, bevetési bakancs, fekete | 1 pár |
-
-|  | eg) | Hímzett, tépőzáras rendfokozati jelzés, sötétkék | 2 db |
-
-|  | eh) | Karjelvény | 2 db |
+## e)
 
 ## f) Szemle bizottságvezető, bűnügyi technikai osztályvezető, bűnügyi technikus és segéd technikus, baleseti helyszínelő, baleseti helyszínelő és vizsgáló munkakörben szolgálatot ellátók speciális szolgálati egyenruházata
 
@@ -368,9 +350,7 @@
 
 |  | 15. | Szalagsáv |
 
-## 10. A Díszőrség Alosztályon szolgálatot ellátók részére az e pontban meghatározott speciális szolgálati egyenruházatot kell a szerv költségvetése terhére kiadni.
-
-## A Díszőrség Alosztály speciális szolgálati egyenruházati normái
+## 10. A Készenléti Rendőrség díszőri szolgálatot ellátó kijelölt hivatásos állománya részére az e pontban meghatározott speciális szolgálati egyenruházatot kell a szerv költségvetése terhére kiadni.
 
 ## a) Tiszti állomány egyenruházata
 
@@ -396,7 +376,7 @@
 
 |  | 10. | Fekete fonott vállszíjas derékszíj, kardtartó csatlékkal | 1 db | 5 év |
 
-|  | 11. | Fonott kardtartó, rejtett | 1 db | 5 év |
+|  | 11. | Rejtett kardtartó | 1 db | 5 év |
 
 |  | 12. | Kardbojt (arany) | 1 db | 3 év |
 
@@ -407,6 +387,8 @@
 |  | 15. | Köpenytartó zsák | 1 db | szükség szerint |
 
 |  | 16. | Ingpótló fehérgallér | 3 db | 1 év |
+
+|  | 17. | Kardtartó tok | 1 db | szükség szerint |
 
 ## b) Zászlósi állomány egyenruházata
 
@@ -448,113 +430,121 @@
 
 ## 11. A Készenléti Rendőrség hivatásos állományának ruházati alapellátási normái
 
-|  | Sorszám | Termék megnevezése | mennyiségi egység | csökkentett alapellátási norma | egyenruhás alapellátási norma | vegyes ruhás alapellátási norma | polgári ruhás alapellátási norma | vegyes ruhás alapellátási norma | vegyes ruhás alapellátási norma |
+|  |  | A | B | C | D | E | F | G | H | I | J |
 
-| Normakód |  |  |  | CS | E | V | P | T1 | T2 |
+|  | 1 |  | Sorszám | Termék megnevezése | mennyiségi egység | csökkentett alapellátási norma | egyenruhás alapellátási norma | vegyes ruhás alapellátási norma | polgári ruhás alapellátási norma | vegyes ruhás alapellátási norma | vegyes ruhás alap- ellátási norma |
 
-| 1. Gyakorló ruházat | a) | 10M e. rendészeti gyakorló bakancs | pár | 1 | 1 | 1 | 1 | 1 | 1 |
+|  | 2 | Normakód |  |  |  | CS | E | V | P | T1 | T2 |
 
-| b) | 10M e. rendészeti gyakorló nadrág | db | 1 | 1 | 1 | 1 | 1 | 1 |
+|  | 3 | 1. Gyakorló ruházat | a) | 10M e. rendészeti gyakorló bakancs | pár | 1 | 1 | 1 | 1 | 1 | 1 |
 
-| c) | KR köznapi teniszing, sötétkék | db | 2 | 2 | 1 | 1 | 1 | 1 |
+|  | 4 |  | b) | 10M e. rendészeti gyakorló nadrág | db | 1 | 1 | 1 | 1 | 1 | 1 |
 
-| d) | KR ünnepi teniszing, fehér | db | 2 | 2 | 1 | 1 | 1 | 1 |
+|  | 5 |  | c) | KR köznapi teniszing, sötétkék | db | 2 | 2 | 1 | 1 | 1 | 1 |
 
-| e) | 10M e. rendészeti gyakorló zubbony (KR felirattal) | db | 1 | 1 | 1 | 1 | 1 | 1 |
+|  | 6 |  | d) | KR ünnepi teniszing, fehér | db | 2 | 2 | 1 | 1 | 1 | 1 |
 
-| f) | 10M e. rendészeti gyakorló dzseki (KR felirattal) | db | 1 | 1 | 1 | 1 | 1 | 1 |
+|  | 7 |  | e) | 10M e. rendészeti gyakorló zubbony (KR felirattal) | db | 1 | 1 | 1 | 1 | 1 | 1 |
 
-| 2. Szolgálati ruházat | a) | 12M e. r. szolgálati félcipő | pár |  |  | 1 |  |  |  |
+|  | 8 |  | f) | 10M e. rendészeti gyakorló dzseki (KR felirattal) | db | 1 | 1 | 1 | 1 | 1 | 1 |
 
-| b) | 12M e. r. szolgálati nyári pantalló* | db |  |  | 1 |  |  |  |
+|  | 9 |  | g) | 10M e. rendészeti gyakorló bakancs (könnyített) | pár |  | 1 | 1 |  |  |  |
 
-| c) | 12M e. r. szolgálati ing/blúz, rövid ujjú, v. kék | db |  |  | 2 |  |  |  |
+|  | 10 |  | h) | 10M e. rendészeti gyakorló nadrág | db |  | 1 | 1 |  |  |  |
 
-|  | d) | 12M e. r. szolgálati ing/blúz, hosszú ujjú, v. kék | db |  |  | 1 |  |  |  |
+|  | 11 |  | i) | 10M e. rendészeti gyakorló zubbony (KR felirattal) | db |  | 1 | 1 |  |  |  |
 
-| e) | 12M e. r. szolgálati pulóver | db |  |  | 1 |  |  |  |
+|  | 12 | 2. Szolgálati ruházat | a) | 12M e. r. szolgálati félcipő | pár |  |  |  |  |  |  |
 
-| f) | 12M e. r. szolgálati nyári dzseki* | db |  |  | 1 |  |  |  |
+|  | 13 |  | b) | 12M e. r. szolgálati nyári pantalló | db |  |  |  |  |  |  |
 
-| g) | Szolgálati garbó, sötétkék | db | 1 | 1 |  |  |  |  |
+|  | 14 |  | c) | 12M e. r. szolgálati ing/blúz, rövid ujjú, v. kék | db |  |  |  |  |  |  |
 
-| 3. Társasági/ ünnepi ruházat | a) | Félcipő, normál bőrtalpú, fekete | pár |  |  |  |  | 1 |  |
+|  | 15 |  | d) | 12M e. r. szolgálati ing/blúz, hosszú ujjú, v. kék | db |  |  |  |  |  |  |
 
-| b) | Félcipő, ünnepi, fekete | pár |  |  |  |  |  | 1 |
+|  | 16 |  | e) | 12M e. r. szolgálati pulóver | db |  |  |  |  |  |  |
 
-| c) | Női csizma, fekete | pár |  |  |  |  |  | 1 |
+|  | 17 |  | f) | 12M e. r. szolgálati nyári dzseki | db |  |  |  |  |  |  |
 
-| d) | Társasági öltöny, sötétkék, szerelve | db |  |  |  |  | 2 |  |
+|  | 18 |  | g) | Szolgálati garbó, sötétkék | db | 1 | 1 |  |  |  |  |
 
-| e) | Társasági kosztüm, sötétkék, szerelve | db |  |  |  |  |  | 2 |
+|  | 19 | 3. Társasági/ ünnepi ruházat | a) | Félcipő, normál bőrtalpú, fekete | pár |  |  |  |  | 1 |  |
 
-| f) | Fehér ing/blúz, rövid ujjú* | db |  |  | 2 |  | 2 | 2 |
+|  | 20 |  | b) | Félcipő, ünnepi, fekete | pár |  |  |  |  |  | 1 |
 
-| g) | Fehér ing/blúz, hosszú ujjú* | db |  |  | 1 |  | 2 | 2 |
+|  | 21 |  | c) | Női csizma, fekete | pár |  |  |  |  |  | 1 |
 
-| h) | Ingblúz, hosszú ujjú, világoskék, szerelve | db |  |  |  |  | 1 | 1 |
+|  | 22 |  | d) | Társasági öltöny, sötétkék, szerelve | db |  |  |  |  | 2 |  |
 
-| i) | Ingblúz, rövid ujjú, világoskék, szerelve | db |  |  |  |  | 1 | 1 |
+|  | 23 |  | e) | Társasági kosztüm, sötétkék, szerelve | db |  |  |  |  |  | 2 |
 
-|  | j) | Ingblúz, rövid ujjú, fehér, szerelve | db |  |  |  |  | 1 | 1 |
+|  | 24 |  | f) | Fehér ing/blúz, rövid ujjú* | db |  |  | 2 |  | 2 | 2 |
 
-| k) | Ballonkabát, 4/4-es, sötétkék | db |  |  |  |  | 1 | 1 |
+|  | 25 |  | g) | Fehér ing/blúz, hosszú ujjú* | db |  |  | 1 |  | 2 | 2 |
 
-| l) | Társasági felöltő, női, sötétkék, szerelve | db |  |  |  |  |  | 1 |
+|  | 26 |  | h) | Ingblúz, hosszú ujjú, világoskék, szerelve | db |  |  |  |  | 1 | 1 |
 
-| m) | Társasági felöltő, férfi, sötétkék, szerelve | db |  |  |  |  | 1 |  |
+|  | 27 |  | i) | Ingblúz, rövid ujjú, világoskék, szerelve | db |  |  |  |  | 1 | 1 |
 
-| 4. Ruházati kiegészítők | a) | Hímzett szövetsapka (pilotka), bordó | db | 1 | 1 | 1 | 1 | 1 | 1 |
+|  | 28 |  | j) | Ingblúz, rövid ujjú, fehér, szerelve | db |  |  |  |  | 1 | 1 |
 
-| b) | Szolgálati télisapka, szerelve, fekete | db | 1 | 1 | 1 | 1 | 1 | 1 |
+|  | 29 |  | k) | Ballonkabát, 4/4-es, sötétkék | db |  |  |  |  | 1 | 1 |
 
-| c) | Szolgálati tányérsapka, sötétkék, szerelve | db |  |  | 1 |  |  |  |
+|  | 30 |  | l) | Társasági felöltő, női, sötétkék, szerelve | db |  |  |  |  |  | 1 |
 
-| d) | Társasági tányérsapka, sötétkék, szerelve | db |  |  |  |  | 1 |  |
+|  | 31 |  | m) | Társasági felöltő, férfi, sötétkék, szerelve | db |  |  |  |  | 1 |  |
 
-| e) | Társasági női kalap, sötétkék, szerelve | db |  |  |  |  |  | 1 |
+|  | 32 | 4. Ruházati kiegészítők | a) | Hímzett szövet- sapka (pilotka), bordó | db | 1 | 1 | 1 | 1 | 1 | 1 |
 
-| f) | 12M e. r. taktikai öv klt. | db | 1 | 1 | 1 | 1 | 1 | 1 |
+|  | 33 |  | b) | Szolgálati télisapka, szerelve, fekete | db | 1 | 1 | 1 | 1 | 1 | 1 |
 
-| g) | Társasági nadrágszíj, fekete | db |  |  |  |  | 1 | 1 |
+|  | 34 |  | c) | Szolgálati tányérsapka, sötétkék, szerelve | db |  |  | 1 |  |  |  |
 
-|  | h) | Szolgálati nyakkendő, sötétkék | db |  |  | 1 |  | 1 | 1 |
+|  | 35 |  | d) | Társasági tányér- sapka, sötétkék, szerelve | db |  |  |  |  | 1 |  |
 
-| i) | Nyaksál, sötétkék | db |  |  |  |  | 1 | 1 |
+|  | 36 |  | e) | Társasági női kalap, sötétkék, szerelve | db |  |  |  |  |  | 1 |
 
-| j) | Szolgálati bőrkesztyű, fekete | pár | 1 | 1 | 1 | 1 | 1 | 1 |
+|  | 37 |  | f) | 12M e. r. taktikai öv klt. | db | 1 | 1 | 1 | 1 | 1 | 1 |
 
-| k) | Szolgálati, csapadék ellen védő kabát, sötétkék | db | 1 | 1 |  |  | 1 | 1 |
+|  | 38 |  | g) | Társasági nadrágszíj, fekete | db |  |  |  |  | 1 | 1 |
 
-| l) | Téli ing** | db | 1 | 1 | 1 | 1 | 1 | 1 |
+|  | 39 |  | h) | Szolgálati nyak- kendő, sötétkék | db |  |  | 1 |  | 1 | 1 |
 
-| m) | Téli alsó** | db | 1 | 1 | 1 | 1 | 1 | 1 |
+|  | 40 |  | i) | Nyaksál, sötétkék | db |  |  |  |  | 1 | 1 |
 
-| n) | Szolgálati téli zokni, sötétkék** | pár | 2 | 2 | 2 | 2 | 2 | 2 |
+|  | 41 |  | j) | Szolgálati bőr- kesztyű, fekete | pár | 1 | 1 | 1 | 1 | 1 | 1 |
 
-| o) | Szolgálati, nyári zokni, sötétkék** | pár | 2 | 2 | 2 | 2 | 2 | 2 |
+|  | 42 |  | k) | Szolgálati, csapadék ellen védő kabát, sötétkék | db | 1 | 1 |  |  | 1 | 1 |
 
-| p) | Hímzett névkitűző | db | 2 | 2 | 1 | 1 | 1 | 1 |
+|  | 43 |  | l) | Téli ing** | db | 1 | 1 | 1 | 1 | 1 | 1 |
 
-| q) | Névkitűző fém | db |  |  | 1 |  | 1 | 1 |
+|  | 44 |  | m) | Téli alsó** | db | 1 | 1 | 1 | 1 | 1 | 1 |
 
-| r) | Tépőzáras karszalag, bordó | db | 1 | 1 | 1 | 1 | 1 | 1 |
+|  | 45 |  | n) | Szolgálati téli zokni, sötétkék** | pár | 2 | 2 | 2 | 2 | 2 | 2 |
 
-| 5. Ékítmények | a) | Hímzett tépőzáras rendfokozati jelzés, sötétkék | db | 2 | 2 | 2 | 2 | 2 | 2 |
+|  | 46 |  | o) | Szolgálati, nyári zokni, sötétkék** | pár | 2 | 2 | 2 | 2 | 2 | 2 |
 
-| b) | Hímzett váll-lap, sötétkék | pár | 1 | 1 | 2 |  |  |  |
+|  | 47 |  | p) | Hímzett névkitűző | db | 2 | 2 | 1 | 1 | 1 | 1 |
 
-| c) | Váll-lap tábornoki szerelve | pár |  |  |  |  | 2 | 2 |
+|  | 48 |  | q) | Névkitűző fém | db |  |  | 1 |  | 1 | 1 |
 
-| d) | Karjelvény | db | 2 | 2 | 2 | 2 | 2 | 2 |
+|  | 49 |  | r) | Tépőzáras karszalag, bordó | db | 1 | 1 | 1 | 1 | 1 | 1 |
 
-| 6. Személyi felszerelés | a) | Málhazsák | db | 1 | 1 | 1 | 1 | 1 | 1 |
+|  | 50 | 5. Ékítmények | a) | Hímzett tépőzáras rendfokozati jelzés, sötétkék | db | 2 | 2 | 2 | 2 | 2 | 2 |
 
-| b) | Akciómellény | db |  |  |  | 1 |  |  |
+|  | 51 |  | b) | Hímzett váll-lap, sötétkék | pár | 1 | 1 | 2 |  |  |  |
 
-| 7. Költségtérítés | a) | Polgári ruhapénz | db |  |  |  | 1 |  |  |
+|  | 52 |  | c) | Váll-lap tábornoki szerelve | pár |  |  |  |  | 2 | 2 |
 
-| b) | Alsóruházati költségtérítés*** | db | 1 | 1 | 1 | 1 | 1 | 1 |
+|  | 53 |  | d) | Karjelvény | db | 2 | 2 | 2 | 2 | 2 | 2 |
+
+|  | 54 | 6. Személyi felszerelés | a) | Málhazsák | db | 1 | 1 | 1 | 1 | 1 | 1 |
+
+|  | 55 |  | b) | Akciómellény | db |  |  |  | 1 |  |  |
+
+|  | 56 | 7. Költség- térítés | a) | Polgári ruhapénz | db |  |  |  | 1 |  |  |
+
+|  | 57 |  | b) | Alsóruházati költségtérítés*** | db | 1 | 1 | 1 | 1 | 1 | 1 |
 
 ## * Csak a rendszeresítést követően adható ki, alapellátás és alapellátás-kiegészítésként az új felszerelők és átminősítettek részére.
 
@@ -582,12 +572,16 @@
 
 ## Fehér ing, hosszú ujjú, vállpántos
 
-## Szolgálati, nyári pantalló, sötétkék
+## 13. A CS, E, V és P normába sorolt állomány részére – alegységkészletként – rohamsisakot kell biztosítani.
 
-## Szolgálati, nyári dzseki, sötétkék
+## 12. A 11. pontban *-gal megjelölt termékek rendszeresítéséig az állomány ellátása érdekében, a terméknek megfelelő, alábbi ruházati cikkek is kiadhatóak. A felsorolt cikkek megengedett öltözetként viselhetőek.
+
+## Fehér ing, hosszú ujjú, vállpántos
+
+## Fehér ing, hosszú ujjú, vállpántos
 
 ## 13. A CS, E, V és P normába sorolt állomány részére – alegységkészletként – rohamsisakot kell biztosítani.
 
-2–3. melléklet a 71/2011. (XII. 31.) BM rendelethez[^39]
+2–3. melléklet a 71/2011. (XII. 31.) BM rendelethez[^51]
 
-[^39]: A 2–3. mellékletet a 35/2012. (VII. 13.) BM rendelet 14. § c)–d) pontja hatályon kívül helyezte.
+[^51]: A 2–3. mellékletet a 35/2012. (VII. 13.) BM rendelet 14. § c)–d) pontja hatályon kívül helyezte.

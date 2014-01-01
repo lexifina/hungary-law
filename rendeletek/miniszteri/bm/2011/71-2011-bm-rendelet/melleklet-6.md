@@ -118,29 +118,27 @@
 
 ## T2: Vegyes ruhás alapellátási norma Tábornoki állomány részére / női)
 
-## 2. A *-al megjelölt termékek esetében, rendszeresítésig, a terméknek megfelelő, alábbi ruházati cikkek kiadhatóak. A felsorolt cikkek megengedett öltözetként viselhetőek.
+## 2.
 
-## Fehér ing/blúz, rövid ujjú, vállpántos (társasági)
+## 3. A hivatásos állomány az alább felsorolt termékeket megengedett öltözetként viselheti.
 
-## Hímzett névkitűző, tépőzáras (fekete)
+| Sorszám | Megnevezés |
 
-## 3. A hivatásos állomány az alább felsorolt termékeket megengedett öltözetként 2013. december 31-ig viselheti.
+| 1. | Fehér ing/blúz, rövid ujjú, vállpántos (társasági) |
 
-| 1. | Gyakorló derekas nadrág, fekete |
+| 2. | 10M e. rendészeti gyakorló bakancs (könnyített) |
 
-| 2. | Gyakorló zubbony, fekete |
+| 3. | 10M e. rendészeti gyakorló nadrág (könnyített) |
 
-| 3. | Téli dzseki, fekete |
+| 4. | 10M e. rendészeti gyakorló zubbony (könnyített) |
 
-| 4. | Pulóver |
+| 5. | 10M e. rendészeti gyakorló dzseki (könnyített) |
 
-| 5. | Gyakorló bakancs, magasított szárú, fekete |
+| 6. | 12M e. rendészeti szolgálati félcipő (nyári) |
 
-| 6. | Baseball sapka, fekete, emblémázott |
+| 7. | 13M e. rendészeti szolgálati szoknya* |
 
-| 7. | Gyakorló póló, galléros, sötétkék |
-
-| 8. | Gyakorló póló, galléros, sötétkék |
+## *a rendszeresítést követően.
 
 ## 4. Amennyiben a tiszthelyettesi állomány tagja az 1. pont szerinti táblázatban megnevezett társasági öltözettel nem rendelkezik, az alább felsorolt termékeket megengedett öltözetként 2014. december 31-ig viselheti.
 
@@ -174,8 +172,8 @@
 
 | 15. | Társasági nadrágszíj, fekete |
 
-## 5. A hivatásos állomány a 10M rendészeti gyakorló nadrág, a 10M rendészeti gyakorló zubbony és 10M rendészeti gyakorló dzseki helyett, annak könnyített (polifoam betét nélküli) változatát is viselheti.
+## 5.
 
-6. melléklet a 71/2011. (XII. 31.) BM rendelethez[^42]
+6. melléklet a 71/2011. (XII. 31.) BM rendelethez[^54]
 
-[^42]: A 6. melléklet a 35/2012. (VII. 13.) BM rendelet 13. § d) pontjával megállapított szöveg.
+[^54]: A 6. melléklet a 35/2012. (VII. 13.) BM rendelet 13. § d) pontjával megállapított szöveg.

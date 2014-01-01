@@ -1,4 +1,4 @@
-## 40. § A használatra (természetben vagy készpénzben) kiadott munkaruházatot munkaruha-nyilvántartó lapon, a természetben kiadott egyéni védőfelszerelést felszerelési lapon kell – mennyiségben és értékben – nyilvántartani.
+## 40. §[^45] A használatra – természetben vagy készpénzben – kiadott munkaruházatot, továbbá a természetben kiadott egyéni védőeszközt, vagy védőruházatot – mennyiségben és értékben – kell nyilvántartani. A nyilvántartás vezethető nyilvántartó lap, felszerelési lap, vagy elektronikus nyilvántartás alkalmazásával.
 
 ## V. Fejezet
 
@@ -23,3 +23,5 @@
 (8) A hallgatói állomány részére az alapellátási (vagy csökkentett) normában szereplő cikkeket – a kinevezési parancs alapján – a beosztásba történő kinevezéskor, hallgatói jogviszony megszűnését követően a fogadó szerv biztosítja.
 
 (9) Az igényjogosult a ruházati utánpótlási ellátmányra, a hallgatói jogviszony megszűnését és a beosztásba történő kinevezést követő 13. hónap első napjától jogosult.
+
+[^45]: A 40. § a 76/2013. (XII. 18.) BM rendelet 3. §-ával megállapított szöveg.

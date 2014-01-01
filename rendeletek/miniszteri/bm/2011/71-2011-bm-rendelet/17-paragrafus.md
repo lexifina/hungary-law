@@ -18,4 +18,6 @@
 
 (6) A közvetlen szolgálati elöljáró folyamatosan ellenőrzi a beosztott ruházatát, és mindazon termékeket és cikkeket pótoltatja, amelyek az alapellátási normában előírt mennyiséggel szemben hiányoznak, vagy amelyek utánpótlása elhasználtság miatt szükséges, továbbá amelyek beszerzését központilag elrendelték.
 
-(7) Az alapellátásban részesültek a besorolásuknak megfelelő, az előírt alapellátási normában meghatározott ruházati termékekkel és felszerelési cikkekkel, valamint a beszerzésükre kifizetett vagy ruházati utalványfüzetben jóváírt alapellátási egyenruházati ellátmány és a ruházati utánpótlási ellátmány összegével kötelesek elszámolni.
+(7)[^17] Az alapellátásban részesültek a besorolásuknak megfelelő, az előírt alapellátási normában meghatározott ruházati termékekkel és felszerelési cikkekkel, valamint a beszerzésükre kifizetett vagy ruházati utalványfüzetben, vagy felszerelési lapon jóváírt alapellátási egyenruházati ellátmány és a ruházati utánpótlási ellátmány összegével kötelesek elszámolni.
+
+[^17]: A 17. § (7) bekezdése a 76/2013. (XII. 18.) BM rendelet 4. § d) pontja szerint módosított szöveg.

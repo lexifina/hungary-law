@@ -14,21 +14,23 @@
 
 | e) | 10M e. rendészeti gyakorló dzseki, felirattal | db | 1 | 1 | 1 | 1 | 1 | 1 |
 
-| 2. Szolgálati ruházat | a) | 12M e. r. szolgálati félcipő* | pár |  | 1 | 1 | 1 |  |  |
+| 2. Szolgálati ruházat | a) | 12M e. r. szolgálati félcipő | pár |  | 1 | 1 | 1 |  |  |
 
 | b) | 12M e. r. szolgálati nyári pantalló* | db |  | 1 | 1 | 1 |  |  |
 
-| c) | 12M e. r. szolgálati téli pantalló* | db |  | 1 | 1 | 1 |  |  |
+| c) | 12M e. r. szolgálati téli pantalló | db |  | 1 | 1 | 1 |  |  |
 
-| d) | 12M e. r. szolgálati ing/blúz, rövid ujjú, v. kék* | db |  | 2 | 1 | 1 |  |  |
+| d) | 12M e. r. szolgálati ing/blúz, rövid ujjú, v. kék | db |  | 2 | 1 | 1 |  |  |
 
-| e) | 12M e. r. szolgálati ing/blúz, hosszú ujjú, v. kék* | db |  | 2 | 1 | 1 |  |  |
+| e) | 12M e. r. szolgálati ing/blúz, hosszú ujjú, v. kék | db |  | 2 | 1 | 1 |  |  |
 
-| f) | 12M e. r. szolgálati pulóver* | db |  | 2 | 1 | 1 |  |  |
+| f) | 12M e. r. szolgálati pulóver | db |  | 2 | 1 | 1 |  |  |
 
 | g) | 12M e. r. szolgálati nyári dzseki* | db |  | 1 | 1 | 1 |  |  |
 
-| h) | 12M e. r. szolgálati télikabát* | db |  | 1 | 1 | 1 |  |  |
+| h) | 12M e. r. szolgálati télikabát | db |  | 1 | 1 | 1 |  |  |
+
+| i) | 12M e. r. szolgálati félcipő (nyári) | pár |  | 1 | 1 | 1 |  |  |
 
 | 3. Társasági/ ünnepi ruházat | a) | Félcipő, fekete (ffi/női) | pár |  |  |  | 1 | 1 | 1 |
 
@@ -56,39 +58,39 @@
 
 | 4. Ruházati kiegészítők | a) | Barett sapka, szerelve | db | 1 | 1 | 1 | 1 | 1 | 1 |
 
-| b) | 12M e. r. téli sapka, szerelve* | db | 1 | 1 | 1 | 1 | 1 | 1 |
+| b) | 12M e. r. téli sapka, szerelve | db | 1 | 1 | 1 | 1 | 1 | 1 |
 
-| c) | Társasági tányérsapka, sötétkék, szerelve | db |  | 1 | 1 | 1 | 1 | 1 |
+| c) | Kistársasági tányérsapka/kalap, szerelve, szürke | db |  |  |  |  | 1 | 1 |
 
-| d) | Kistársasági tányérsapka/kalap, szerelve, szürke | db |  |  |  |  | 1 | 1 |
+| d) | Társasági tányérsapka/kalap, szerelve, sötétkék | db |  |  |  | 1 | 1 | 1 |
 
-| e) | Társasági tányérsapka/kalap, szerelve, sötétkék | db |  |  |  | 1 | 1 | 1 |
+| e) | Szolgálati derékszíj, fekete | db |  | 1 | 1 | 1 | 1 | 1 |
 
-| f) | Szolgálati derékszíj, fekete | db |  | 1 | 1 | 1 | 1 | 1 |
+| f) | 12M e. r. taktikai öv | klt | 1 | 1 | 1 | 1 | 1 | 1 |
 
-| g) | Málhaöv | db | 1 | 1 | 1 | 1 | 1 | 1 |
+| g) | Szolgálati bőrkesztyű, fekete | pár | 1 | 1 | 1 | 1 | 1 | 1 |
 
-| h) | Szolgálati bőrkesztyű, fekete | pár | 1 | 1 | 1 | 1 | 1 | 1 |
+| h) | Szolgálati nyakkendő, sötétkék | db |  | 1 | 1 | 1 | 1 | 1 |
 
-| i) | Szolgálati nyakkendő, sötétkék | db |  | 1 | 1 | 1 | 1 | 1 |
+| i) | Selyem nyakkendő, fekete | db |  |  |  |  | 1 | 1 |
 
-| j) | Selyem nyakkendő, fekete | db |  |  |  |  | 1 | 1 |
+| j) | Nyakkendőtű | db |  | 1 | 1 | 1 | 1 | 1 |
 
-| k) | Nyakkendőtű | db |  | 1 | 1 | 1 | 1 | 1 |
+| k) | Nyaksál, sötétkék | db |  | 1 | 1 | 1 | 1 | 1 |
 
-| l) | Nyaksál, sötétkék | db |  | 1 | 1 | 1 | 1 | 1 |
+| l) | Nyaksál, fekete | db |  |  |  |  | 1 | 1 |
 
-| m) | Nyaksál, fekete | db |  |  |  |  | 1 | 1 |
+| m) | Téli ing*** | db |  |  |  |  |  |  |
 
-| n) | Téli ing*** | db |  |  |  |  |  |  |
+| n) | Téli alsó*** | db | 1 | 1 | 1 | 1 | 1 | 1 |
 
-| o) | Téli alsó*** | db | 1 | 1 | 1 | 1 | 1 | 1 |
+| o) | Szolgálati téli zokni, sötétkék*** | pár | 2 | 1 | 2 | 1 | 1 | 1 |
 
-| p) | Szolgálati téli zokni, sötétkék*** | pár | 2 | 1 | 2 | 1 | 1 | 1 |
+| p) | Szolgálati, nyári zokni, sötétkék*** | pár | 2 | 2 | 2 | 2 | 2 | 2 |
 
-| q) | Szolgálati, nyári zokni, sötétkék*** | pár | 2 | 2 | 2 | 2 | 2 | 2 |
+| q) | Hímzett tépőzáras azonosító szám | db | 2 | 2 | 2 | 2 | 2 | 2 |
 
-| r) | Hímzett tépőzáras azonosító szám | db | 2 | 2 | 2 | 2 | 2 | 2 |
+| r) | 12M azonosító szám tépőzáras | db | 2 | 2 | 2 | 2 | 2 | 2 |
 
 | s) | Felsőfokú végzettséget tanúsító jelvény | db |  |  |  | 2 | 2 | 2 |
 
@@ -102,15 +104,13 @@
 
 | 6. Személyi felszerelés | a) | Málhazsák | db | 1 | 1 | 1 | 1 | 1 | 1 |
 
-| b) | Szolgálati jelvény réz, bőr alátéttel | db | 1 | 1 | 1 | 1 | 1 | 1 |
-
 | c) | Igazolványtok sorszámozott szolgálati jelvénnyel | db |  | 1 | 1 | 1 | 1 | 1 |
 
 | 7. Költségtérítés | a) | Alsóruházati költségtérítés**** | db | 1 | 1 | 1 | 1 | 1 | 1 |
 
 ## * Csak a rendszeresítést követően adható ki, alapellátás és alapellátás-kiegészítésként az új felszerelők és átminősítettek részére.
 
-## ** Az állománynak a norma szerinti 2 db termékkel 2014. január 1-étől kell rendelkezni.
+## ** A norma szerinti 2 db termékkel az E alapellátási normás állománynak 2015. december 31-étől kell rendelkeznie.
 
 ## *** A termékek természetbeni biztosítása helyett alsóruházati költségtérítés kerül kifizetésre.
 
@@ -154,15 +154,19 @@
 
 ## ¾-es kabát kapucnival, sötétkék
 
-## 3. Az alábbi ruházatot az állomány megengedett viseletként 2013. december 31-ig hordhatja.
+## 3. A hivatásos állomány az alább felsorolt termékeket megengedett öltözetként a meghatározott időpontig viselheti.
 
-| Sorszám | Megnevezés |
+| A | B | C |
 
-| 1. | Gyakorló zubbony, sötétkék |
+| Sorszám | Megnevezés | Viselési határidő |
 
-| 2. | Gyakorló nadrág, sötétkék |
+| 1. | Szolgálati jelvény réz, bőr alátéttel | 2014. december 31. |
 
-| 3. | 65M gyakorló bakancs |
+| 2. | Gyakorló zubbony, sötétkék | 2015. december 31. |
+
+| 3. | Gyakorló nadrág, sötétkék | 2015. december 31. |
+
+| 4. | Málha öv | 2016. december 31. |
 
 ## 4. a) Társasági (ünnepi) öltözet cikkösszetétele a büntetés-végrehajtás hivatásos tiszti és tiszthelyettesi (férfi) állománya részére. Amennyiben az állomány alapellátási normájában a felsorolt cikkek nem szerepelnek, azokat megengedett öltözetként viselheti.
 
@@ -188,7 +192,7 @@
 
 | 10. | Szolgálati bőrkesztyű, fekete |
 
-| 11. | Hímzett váll-lap, sötétkék |
+| 11. | Paroli |
 
 | 12. | Névkitűző fém |
 
@@ -230,6 +234,6 @@
 
 ## 6. A hivatásos állomány a 10M rendészeti gyakorló nadrág, a 10M rendészeti gyakorló zubbony és 10M rendészeti gyakorló dzseki helyett, annak könnyített (polifoam betét nélküli) változatát is viselheti.
 
-5. melléklet a 71/2011. (XII. 31.) BM rendelethez[^41]
+5. melléklet a 71/2011. (XII. 31.) BM rendelethez[^53]
 
-[^41]: Az 5. melléklet a 35/2012. (VII. 13.) BM rendelet 13. § c) pontjával megállapított szöveg.
+[^53]: Az 5. melléklet a 35/2012. (VII. 13.) BM rendelet 13. § c) pontjával megállapított, a 76/2013. (XII. 18.) BM rendelet 6. § (3) bekezdése, 7. § c) pontja szerint módosított szöveg.

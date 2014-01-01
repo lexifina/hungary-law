@@ -12,13 +12,13 @@
 
 (5) Nem szünetel az ellátás azon igényjogosult részére:
 
-a)[^28] akit állományviszonya fenntartása mellett a Hszt. 49/B–49/G. §-ában meghatározottak szerint más szervhez vezényeltek,
+a)[^39] akit állományviszonya fenntartása mellett a Hszt. 49/B–49/G. §-ában meghatározottak szerint más szervhez vezényeltek,
 
 b) aki szülési szabadságát tölti, valamint
 
 c) aki betegállományban van.
 
-(6)[^29] Az igényjogosult a Hszt. 49/C. §-a alapján más szervhez történő vezénylése esetén az ellátást az állományilletékes szerv és a vezénylés helye szerinti szerv megállapodása alapján kell folyósítani. Amennyiben nem születik megállapodás, abban az esetben a ruházati utánpótlási ellátmány kifizetése az állományilletékes szervet terheli.
+(6)[^40] Az igényjogosult a Hszt. 49/C. §-a alapján más szervhez történő vezénylése esetén az ellátást az állományilletékes szerv és a vezénylés helye szerinti szerv megállapodása alapján kell folyósítani. Amennyiben nem születik megállapodás, abban az esetben a ruházati utánpótlási ellátmány kifizetése az állományilletékes szervet terheli.
 
-[^28]: A 25. § (5) bekezdés a) pontja a 81/2012. (XII. 28.) BM rendelet 31. § (1) bekezdés c) pontja és (2) bekezdés c) pontja szerint módosított szöveg.
-[^29]: A 25. § (6) bekezdése a 35/2012. (VII. 13.) BM rendelet 8. §-ával megállapított és a 81/2012. (XII. 28.) BM rendelet 31. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^39]: A 25. § (5) bekezdés a) pontja a 81/2012. (XII. 28.) BM rendelet 31. § (1) bekezdés c) pontja és (2) bekezdés c) pontja szerint módosított szöveg.
+[^40]: A 25. § (6) bekezdése a 35/2012. (VII. 13.) BM rendelet 8. §-ával megállapított és a 81/2012. (XII. 28.) BM rendelet 31. § (1) bekezdés d) pontja szerint módosított szöveg.

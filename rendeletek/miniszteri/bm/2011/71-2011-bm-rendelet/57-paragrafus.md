@@ -6,6 +6,6 @@
 
 (3) A büntetés-végrehajtási szervezetnél rendszerben lévő felöltő gallérján parolit kell viselni.
 
-(4)[^35]
+(4)[^47]
 
-[^35]: Az 57. § (4) bekezdését a 35/2012. (VII. 13.) BM rendelet 14. § b) pontja hatályon kívül helyezte.
+[^47]: Az 57. § (4) bekezdését a 35/2012. (VII. 13.) BM rendelet 14. § b) pontja hatályon kívül helyezte.
