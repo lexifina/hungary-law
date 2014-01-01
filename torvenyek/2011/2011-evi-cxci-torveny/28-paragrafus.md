@@ -2,7 +2,7 @@
 
 28. § (1) Felhatalmazást kap a Kormány arra, hogy
 
-a) a megváltozott munkaképességű személyek ellátásai megállapításával, folyósításával, szüneteltetésével, megszüntetésével kapcsolatos eljárási szabályokat,
+a) a megváltozott munkaképességű személyek ellátásai megállapításával, folyósításával, szüneteltetésével, felülvizsgálatával, megszüntetésével, továbbá a jogosulatlanul felvett ellátás visszafizetésével és a megtérítéssel kapcsolatos eljárási szabályokat,
 
 b) a komplex minősítésre vonatkozó részletes eljárási szabályokat,
 
@@ -12,7 +12,7 @@ d) a megváltozott munkaképességű személyeket foglalkoztató munkaadók akkr
 
 e) a megváltozott munkaképességű személyek foglalkoztatásához nyújtható bér- és költségtámogatás feltételeit, mértékét, a támogatás megállapításával, folyósításával, nyilvántartásával, megszüntetésével, visszakövetelésével és ellenőrzésével kapcsolatos szabályokat, valamint az európai uniós források felhasználásával nyújtható foglalkoztatást elősegítő támogatások szabályait,
 
-f) a rehabilitációs hozzájárulás fizetésének kötelezettsége alóli mentesülés e törvényben nem szabályozott eseteit és részletes feltételeit
+f)
 
 rendeletben állapítsa meg.
 

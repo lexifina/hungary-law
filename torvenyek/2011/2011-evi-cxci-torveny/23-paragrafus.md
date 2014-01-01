@@ -1,5 +1,13 @@
 23. § (1) A munkaadó a megváltozott munkaképességű személyek foglalkozási rehabilitációjának elősegítése érdekében rehabilitációs hozzájárulás fizetésére köteles, ha az általa foglalkoztatottak létszáma a 25 főt meghaladja, és az általa foglalkoztatott megváltozott munkaképességű személyek száma nem éri el a létszám 5 százalékát (a továbbiakban: kötelező foglalkoztatási szint).
 
+(1a) Az (1) bekezdésben foglaltak alkalmazásakor a több munkáltató által létesített munkaviszonnyal érintett
+
+a) munkavállalót az adózás rendjéről szóló törvény szerint az adókötelezettségek teljesítésére kijelölt munkáltatónál foglalkoztatottak létszámánál,
+
+b) megváltozott munkaképességű személyt az adózás rendjéről szóló törvény szerint az adókötelezettségek teljesítésére kijelölt munkáltatónál foglalkoztatott megváltozott munkaképességű személyek számának megállapítása során
+
+kell figyelembe venni.
+
 (2) A munkaadó létszámának megállapításakor figyelmen kívül kell hagyni
 
 a) a közfoglalkoztatási jogviszonyban, valamint a közfoglalkoztatás támogatásáról szóló kormányrendelet szerint támogatott munkaviszonyban foglalkoztatott személyeket,

@@ -12,7 +12,7 @@ részesülő személy ellátását a Kormány által kijelölt szerv 2012. janu�
 
 (1a)
 
-(2) Az (1) bekezdés alapján rokkantsági ellátásban részesülő személy ellátását meg kell szüntetni, ha keresőtevékenységet folytat és a jövedelme 3 egymást követő hónapra vonatkozó havi átlaga meghaladja a minimálbér 150 százalékát. E bekezdés alkalmazása során a 2012. július 1-jétől szerzett jövedelem vehető figyelembe.
+(2) Az (1) bekezdés alapján rokkantsági ellátásban részesülő személy ellátását meg kell szüntetni, ha keresőtevékenységet folytat és a jövedelme 3 egymást követő hónapon keresztül meghaladja a minimálbér 150 százalékát. E bekezdés alkalmazása során a 2012. július 1-jétől szerzett jövedelem vehető figyelembe.
 
 (3) Az (1) bekezdés szerint megállapított rokkantsági ellátást a Tny. nyugdíjemelésre vonatkozó szabályai szerint, azzal megegyező arányban emelni kell.
 
