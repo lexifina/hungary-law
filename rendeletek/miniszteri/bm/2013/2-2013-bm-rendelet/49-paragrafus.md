@@ -8,12 +8,11 @@ c) aki a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 3. § (1)
 
 d) aki rendelkezik angol, német, vagy francia nyelvből legalább középfokú C típusú nyelvvizsgával,
 
-e)[^12]
+e) aki a jelentkezését megelőző utolsó minősítésén kiváló értékelést kapott, vagy akinek a három éven belüli teljesítményértékelései a két legmagasabb értékelési kategória valamelyikébe tartoztak,
 
-f)[^13] aki a kiválasztási eljárás során jogosultságot szerzett a rendészeti tehetséggondozási programra történő jelentkezésre,
+f)[^12] aki a kiválasztási eljárás során jogosultságot szerzett a rendészeti tehetséggondozási programra történő jelentkezésre,
 
-g)[^14]
+g)[^13]
 
-[^12]: A 49. § e) pontja a 63. § (2) bekezdése alapján 2014. január 1-jén lép hatályba.
-[^13]: A 49. § f) pontja a 45/2013. (VIII. 15.) BM rendelet 13. § f) pontja szerint módosított szöveg.
-[^14]: A 49. § g) pontját a 45/2013. (VIII. 15.) BM rendelet 13. § g) pontja hatályon kívül helyezte.
+[^12]: A 49. § f) pontja a 45/2013. (VIII. 15.) BM rendelet 13. § f) pontja szerint módosított szöveg.
+[^13]: A 49. § g) pontját a 45/2013. (VIII. 15.) BM rendelet 13. § g) pontja hatályon kívül helyezte.
