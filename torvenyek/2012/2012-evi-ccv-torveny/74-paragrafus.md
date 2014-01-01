@@ -28,7 +28,7 @@ l) 14. év után további 0,6 havi,
 
 m) 15–20. évek után évenként további 0,2 havi
 
-távolléti díjjal azonos.
+távolléti díjjal azonos. Tört időszak esetén a leszerelési segély mértékét időarányosan kell megállapítani.
 
 (3) A leszerelési segély mértékét csökkenteni kell az állomány tagjának korábban kifizetett toborzópénz és szerződés-hosszabbítási díj mértékével. Ismételten létesített szerződéses szolgálati viszony megszűnésekor, vagy a később létesített hivatásos szolgálati viszony felmentéssel történt megszüntetésekor a leszerelési segély – hivatásos szolgálati viszony esetében a végkielégítés – alapjául csak az újabb szolgálati viszonyban eltöltött időt lehet figyelembe venni.
 

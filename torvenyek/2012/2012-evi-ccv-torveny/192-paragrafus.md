@@ -1,6 +1,6 @@
 ## 107. A II. és a III. Fejezethez kapcsolódó rendelkezések
 
-192. § (1) A hivatásos állomány tagja a nemzetbiztonsági érdek elsődlegessége alapján teljesíti szolgálatát. A hivatásos állomány tagjával szemben elvárás a kifogástalan életvitel.
+192. § (1) A hivatásos állomány tagja a nemzetbiztonsági érdek elsődlegessége alapján teljesíti szolgálatát.
 
 (2) A hivatásos állomány tagja jognyilatkozatot csak személyesen tehet.
 

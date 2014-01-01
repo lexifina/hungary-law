@@ -16,4 +16,4 @@ b) akciószolgálati pótlék
 
 (5) A (3) bekezdés b) pontja szerinti pótlék mértéke óránként az illetményalap 0,5%-a.
 
-(6) A kiemelt idegennyelv-tudási pótlékra jogosító további idegen-nyelveket a főigazgató határozza meg.
+(6) Az idegennyelv-tudás igazolásának a 127. § (2) bekezdésétől eltérő szabályait és a kiemelt idegennyelv-tudási pótlékra jogosító további idegen-nyelveket a főigazgató határozza meg.

@@ -14,7 +14,7 @@ tényleges szolgálati viszonyban töltött időnek kell elismerni. A jubileumi 
 
 (4) 1998. január 1-jét megelőzően az illetmény nélküli szabadság 30 napot meghaladó tartama a társadalombiztosítási szabályok szerint számít jogszerző időnek.
 
-(5) A szolgálati időpótlékra jogosultság szempontjából szolgálati időként kizárólag a tényleges szolgálati viszonyban töltött, kedvezmények nélkül számított idő vehető figyelembe.
+(5) A szolgálati időpótlékra jogosultság szempontjából szolgálati viszonyban töltött időként kizárólag a hivatásos, a szerződéses, továbbá a 216. § (3) és (4) bekezdése alapján önkéntes tartalékos katonai szolgálati viszonyban töltött tényleges, szorzószámok nélkül számított szolgálati időt kell figyelembe venni.
 
 (6) Ha a szerződéses állomány tagja hivatásos szolgálati viszonyt létesít, az addig szerződéses szolgálati viszonyban eltöltött ideje hivatásos szolgálati viszonyban töltött időnek számít.
 

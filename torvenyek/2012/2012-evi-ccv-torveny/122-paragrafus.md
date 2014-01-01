@@ -4,7 +4,7 @@
 
 ## 69. A beosztási illetmény és a honvédelmi pótlék
 
-122. § (1) Az állomány tagja szolgálati viszonya alapján havonta illetményre jogosult. Az illetmény
+122. § (1) Az állomány tagja szolgálati viszonya alapján, ha e törvény eltérően nem rendelkezik, az állományba vétel napjától a szolgálati viszony megszűnésének napjáig, havonta illetményre jogosult. Az illetmény
 
 a) beosztási illetményből,
 

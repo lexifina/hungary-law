@@ -156,11 +156,11 @@ B. A munkáltatói jogkör megnevezése
 
 |
 
-8.2. Kifogástalan életvitel ellenőrzésének elrendelése tábornokkal szemben
+8.2.
 
 |
 
-8.3. Köztársasági elnök értesítése a tábornokkal szemben elrendelt kifogástalan életvitel ellenőrzéséről
+8.3.
 
 |
 

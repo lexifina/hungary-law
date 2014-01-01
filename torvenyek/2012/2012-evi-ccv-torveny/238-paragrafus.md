@@ -48,7 +48,7 @@ f) a 47. § (4) bekezdése szerinti együttműködés rendjét.
 
 14. a speciális, a fokozott igénybevétellel és veszéllyel járó, valamint az egészségkárosítás veszélyének kitett beosztások körét, az azokhoz kapcsolódó részletes szabályokat,
 
-15. a katonai szolgálathoz, valamint a szolgálati beosztásokhoz kapcsolódó szakmai, egészségi, pszichikai, fizikai alkalmassági követelményeket, a szolgálati beosztások betöltéséhez szükséges iskolai végzettségi, szakképzettségi, szakképesítési, tanfolyami, idegennyelv-ismereti és egyéb követelményeket,
+15. a katonai szolgálathoz, valamint a szolgálati beosztásokhoz kapcsolódó szakmai, egészségi, pszichikai, fizikai alkalmassági követelményeket, a szolgálati beosztások betöltéséhez szükséges iskolai végzettségi, szakképzettségi, szakképesítési, tanfolyami, és egyéb követelményeket,
 
 16. az egészségi, pszichikai, fizikai alkalmassági követelmények felmérésének szabályait, a felmérést végző szervezetek kijelölését, az egészségi követelmények felmérésének költségeit, továbbá az egészségügyi szabadságra és szolgálatmentességre, valamint a hosszabb betegséget követő – lábadozási időszak alatti – csökkentett napi szolgálati időre vonatkozó szabályokat,
 
@@ -78,17 +78,17 @@ f) a 47. § (4) bekezdése szerinti együttműködés rendjét.
 
 29. a ruházati ellátások rendszerét, módját, fajtáit, összegét, az egyenruházati utánpótlási ellátmány kötelező felhasználásának mértékét, a ruházati ellátással, valamint az ellátásra jogosultság megszűnésével összefüggő elszámolás rendjét és okmányait, a ruházati ellátási normák kialakítását, kiadását és tartalmi követelményeit,
 
-30. a különféle típusú külföldi szolgálatot teljesítők külszolgálati ellátmányát, külön pótlékát, és egyéb költségtérítését, az ideiglenes külföldi szolgálatot teljesítők részére nyújtható külföldi napidíj mértékét, a napidíj-kiegészítés folyósításának eseteit és mértékét, továbbá mindezek megállapításának, kifizetésének, és elszámolásának rendjét,
+30. a különféle típusú külföldi szolgálatot teljesítők külszolgálati ellátmányát és egyéb költségtérítését, az ideiglenes külföldi szolgálatot teljesítők részére nyújtható külföldi napidíj mértékét, a külföldi napidíj-kiegészítés folyósításának eseteit és mértékét, továbbá mindezek megállapításának, kifizetésének, és elszámolásának rendjét,
 
 31. a fegyelmi eljárás lefolytatásának, az előzetes vizsgálat elrendelésének és lefolytatásának szabályait, az eljárási cselekményekre nyitva álló határidőket, az elmulasztásuk jogkövetkezményeit, az értesítésre és a felhívásra irányadó szabályokat, a határozatok formai és tartalmi követelményeit, a vizsgáló, a bizottság kijelölésének és eljárásának, a kizárás és az elfogultság bejelentésének és elbírálásának rendjét, a képviseletre, a tényállás tisztázására, a fenyítés kiszabására irányadó szabályokat,
 
 32. a méltatlansági eljárás elrendelésének és lefolytatásának szabályait, az eljárási cselekményekre nyitva álló határidőket, az elmulasztásuk jogkövetkezményeit, az értesítésre és a felhívásra irányadó szabályokat, a határozatok formai és tartalmi követelményeit, a vizsgáló, a bizottság kijelölésének és eljárásának, a kizárás és az elfogultság bejelentésének és elbírálásának rendjét, a képviseletre, a tényállás tisztázására, a méltatlanság megállapítására irányadó szabályokat,
 
-33. a kifogástalan életvitel ellenőrzésének végrehajtási szabályait,
+33.
 
 34. a kártérítési eljárás rendjére, a szakértő kijelölésére, az eljárási határidőkre, a tényállás tisztázására, a képviseletre vonatkozó szabályokat, a kártérítési igény elbírálására jogosult honvédségi szervezetet, a kártérítésre kötelezésre vagy annak mellőzésére, a kártérítés megállapítására, az eljárás felfüggesztésére és megszüntetésére, az utólagos mérsékelésre, az elengedésre, a végrehajtás elhalasztására, a részletfizetés engedélyezésére vonatkozó szabályokat, a határozatok formai és tartalmi követelményeit, a honvéd tisztjelöltre és a honvéd altiszt-jelöltre, valamint a külföldi szolgálatra irányadó szabályokat,
 
-35. a hadkötelezettség alapján teljesített szolgálattal összefüggő balesetekkel, a hadkötelezettség alapján teljesített szolgálattal összefüggésben kialakult vagy súlyosbodott betegségekkel kapcsolatos kárigények elbírálásának rendjét,
+35. a szolgálattal összefüggő balesetekkel, a szolgálattal összefüggésben kialakult vagy súlyosbodott betegségekkel kapcsolatos kárigények elbírálásának rendjét,
 
 36. a kérelem, a szolgálati panasz és a fellebbezés elbírálásának rendjét,
 

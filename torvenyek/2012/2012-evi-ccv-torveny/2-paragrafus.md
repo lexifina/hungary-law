@@ -44,7 +44,7 @@ c) az előmeneteli rendek közötti váltás esetén az a) és b) pontok összev
 
 16. illetmény-megállapítás: a szolgálati viszony létesítésekor, módosításakor, valamint új illetményelemre való jogosultság esetén az állomány tagja 122. § (1) bekezdése szerinti illetményelemeinek megállapítása, a beosztási illetménynek a 123. § (3) bekezdése szerinti magasabb összegben történő megállapítása, az illetménypótlékra való jogosultságnak, valamint az alsó-felső határral rendelkező illetménypótlék esetén a pótlék összegének megállapítása, felemelése, valamint a kiegészítő illetményre való jogosultság megállapítása,
 
-17. jognyilatkozat: a 29. pont a), b), és d) alpontja szerinti munkáltatói döntések, a döntési lapról készített határozat, a szerződés, az ösztöndíjszerződés, valamint minden olyan nyilatkozat, amelyből jogok és kötelezettségek származnak,
+17. jognyilatkozat: a 29. pont a), b), és d) alpontja szerinti munkáltatói döntések, a döntési lapról készített határozat, a megállapodás, a szerződés, a tanulmányi szerződés, az ösztöndíjszerződés, valamint minden olyan nyilatkozat, amelyből jogok és kötelezettségek származnak,
 
 18. képzés: iskolai végzettség, szakképzettség, szakképesítés, tanfolyami végzettség vagy képzettség megszerzésére irányuló, hazai vagy külföldi, iskolarendszerű vagy iskolarendszeren kívüli oktatás, továbbképzés és átképzés,
 

@@ -1,6 +1,6 @@
 ## 104. A jogerő és a végrehajthatóság
 
-188. § (1) A jognyilatkozat jogerős és végrehajtható, ha
+188. § (1) A fegyelmi, a méltatlansági és a kártérítési határozat jogerős és végrehajtható, ha
 
 a) az állomány tagja a jogorvoslati jogáról írásban lemond, a lemondás napján,
 

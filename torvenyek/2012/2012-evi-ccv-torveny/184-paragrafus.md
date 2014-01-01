@@ -10,4 +10,4 @@ c) a határozatot visszavonja, és új határozatot hoz.
 
 (3) A fellebbezés elbírálásáig az első fokú határozat nem hajtható végre.
 
-(4) A (3) bekezdéstől eltérően a fellebbezésnek nincs halasztó hatálya a 152. § és a 163. § (5) bekezdés szerinti határozat végrehajtására.
+(4) A (3) bekezdéstől eltérően a fellebbezésnek nincs halasztó hatálya a 152. §, a 161. § és a 163. § (5) bekezdés szerinti határozat végrehajtására.
