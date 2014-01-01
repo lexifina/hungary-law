@@ -6,7 +6,7 @@
 
 2. adóév: az a naptári év, amelyre az adókötelezettség vonatkozik, továbbá a számvitelről szóló törvényben meghatározott beszámoló adataira épülő adó és adó jellegű kötelezettségek tekintetében a számvitelről szóló törvény szerinti üzleti év,
 
-3. adókülönbözet: a bevallott (bejelentett), bevallani (bejelenteni) elmulasztott vagy a bevallás (bejelentés) alapján kivetett, kiszabott és az adóhatóság által utólag megállapított adó, költségvetési támogatás különbözete, vagy a büntető bíróság által jogerősen megállapított adóbevétel-csökkenés, illetőleg a jogosulatlanul igénybe vett költségvetési támogatás,
+3. adókülönbözet: a bevallott (bejelentett), bevallani (bejelenteni) elmulasztott vagy a bevallás (bejelentés) alapján kivetett, kiszabott és az adóhatóság által utólag megállapított adó, költségvetési támogatás különbözete, vagy a büntetőeljárás során jogerősen megállapított – és a bíróság jogerős határozata alapján az adóhatóság által határozattal megfizetni rendelt – adóbevétel csökkenés, vagyoni hátrány, és a jogosulatlanul igénybe vett költségvetési támogatás,
 
 4. adótartozás: az esedékességkor meg nem fizetett adó és a jogosulatlanul igénybe vett költségvetési támogatás; az adóhatóságnál nyilvántartott adótartozás összegét – nettó módon számítva – csökkenteni kell az ugyanazon adóhatóságnál nyilvántartott túlfizetés összegével az adóigazolás kiállítása iránti eljárásban vagy ha jogszabály valamely, az adózó által érvényesíthető kedvezmény igénybevételét adóhatóságnál nyilvántartott adótartozás hiányához köti,
 
@@ -104,6 +104,6 @@ g) nem minősül adó megfizetésére kötelezettnek.
 
 36. kutatás-fejlesztési tevékenység: a kutatás-fejlesztésről és a technológiai innovációról szóló törvényben meghatározott kutatás-fejlesztés.
 
-38. szerződéscsomag: a kérelemben megjelölt konkrét gazdasági cél elérését közvetlenül szolgáló, egymással közvetlen kapcsolatban lévő ügyletek (szerződések) összessége,
+38.
 
-39. szerződéstípus: az adózó és előre meg nem határozható számú, vagy előre meghatározható számú, de nem azonosítható személy(ek) közötti ügylet (szerződés).
+39.

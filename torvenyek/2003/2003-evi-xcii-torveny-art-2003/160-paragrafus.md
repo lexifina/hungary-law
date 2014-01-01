@@ -1,6 +1,6 @@
 ## A végrehajtási eljárás felfüggesztése és szünetelése
 
-160. § (1) Az adóhatóság felfüggesztheti vagy felettes szerve rendelkezésére a határozat (végzés) végrehajtását felfüggeszti, ha a fizetési kötelezettséget előíró határozat (végzés) megváltoztatása vagy megsemmisítése várható.
+160. § (1) Az adóhatóság hivatalból felfüggesztheti vagy felettes szerve rendelkezésére a határozat (végzés) végrehajtását felfüggeszti, ha a fizetési kötelezettséget előíró határozat (végzés) megváltoztatása vagy megsemmisítése várható.
 
 (2) Az állami adóhatóság – a pénzügyi tranzakciós illeték kivételével – illetékügyekben a végrehajtási eljárást kérelemre felfüggesztheti, ha az illetékfizetési kötelezettség megszűnése várható.
 
@@ -20,7 +20,9 @@ d) az adóhatósági határozat bírósági felülvizsgálata során az első al
 
 e) az adó megfizetésére való kötelezésre e törvény 35. § (2) bekezdésének f) pontja alapján került sor és az adózóval szemben felszámolási eljárás indult, a felszámolási eljárás megindításának közzétételétől a felszámolás jogerős befejezéséig,
 
-f) külön törvény így rendelkezik.
+f) külön törvény így rendelkezik,
+
+g) az adótartozás érvényesítése érdekében az adóhatóság polgári peres eljárást kezdeményezett, a peres eljárás jogerős befejeződéséig.
 
 (5) Nem eredményezi a végrehajtási eljárás szünetelését az adózó fizetési könnyítésre vagy adótartozás mérséklésre irányuló kérelmének benyújtása, ha
 

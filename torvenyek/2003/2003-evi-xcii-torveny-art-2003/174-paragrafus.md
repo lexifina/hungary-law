@@ -4,7 +4,9 @@ a) be nem jelentett alkalmazottat foglalkoztat vagy foglalkoztatott,
 
 b) igazolatlan eredetű árut forgalmaz,
 
-c) az adóköteles tevékenység célját szolgáló ugyanazon helyiségében (műhely, üzlet, telep stb.) az első ellenőrzéstől számított egy éven belül második alkalommal mulasztotta el számla- vagy nyugtakibocsátási kötelezettségét.
+c) az adóköteles tevékenység célját szolgáló ugyanazon helyiségében (műhely, üzlet, telep stb.) az első ellenőrzéstől számított egy éven belül második alkalommal mulasztotta el számla- vagy nyugtakibocsátási kötelezettségét,
+
+d) a pénztárgép üzemeltetésével kapcsolatos, jogszabályban meghatározott kötelezettségét megszegte.
 
 (2) Az (1) bekezdésben meghatározott mulasztás ismételt előfordulása esetén a lezárás időtartama 30, majd minden további esetben 60 nyitvatartási nap. Az ismétlődésre vonatkozó szabályok nem alkalmazhatóak, ha két egymást követő ugyanolyan mulasztás között 3 év eltelt.
 

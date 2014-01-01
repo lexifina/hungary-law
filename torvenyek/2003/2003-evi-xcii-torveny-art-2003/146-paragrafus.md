@@ -2,9 +2,13 @@
 
 146. § (1) A végrehajtást – a vámhatóság elsőfokú szervei kivételével – az első fokon eljáró adóhatóság folytatja le.
 
+(1a) Az (1) bekezdéstől eltérően a vámhatóság elsőfokon eljáró szervei az állami adó- és vámhatóságnál nyilvántartott tartozás erejéig ingófoglalást foganatosíthatnak.
+
+(1b) Az (1a) bekezdés szerinti eljárás során a vámhatóság eljáró alkalmazottjára a végrehajtóra vonatkozó rendelkezések az irányadók.
+
 (2) Az adók módjára behajtandó köztartozás jogosultjának megkeresése alapján
 
-a) magánszemély esetében a belföldi lakóhely, szokásos tartózkodási hely vagy szokásos fellelhetőségi helye, ennek hiányában utolsó ismert belföldi lakóhelye szerint illetékes önkormányzati adóhatóság,
+a) magánszemély esetében a belföldi lakóhely, szokásos tartózkodási hely vagy szokásos fellelhetőségi helye, ennek hiányában utolsó ismert belföldi lakóhelye, egyéni vállalkozó esetében a székhelye szerint illetékes önkormányzati adóhatóság,
 
 b) jogi személy és egyéb szervezet esetében az illetékes állami adóhatóság
 

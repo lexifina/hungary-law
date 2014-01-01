@@ -60,6 +60,8 @@ c) az adóköteles tevékenysége során (piaci árusítóhely, mozgóbolt stb.)
 
 A fenti jogsértések ismételt elkövetése esetén az üzletlezárást helyettesítő bírságot ismételten (alkalmanként) meg kell állapítani. A kiszabható bírság felső határa magánszemély adózó esetében 200 ezer forint, más adózó esetén 500 ezer forint.
 
+(8b) Az adóhatóság mulasztási bírság kiszabása mellett az üzlethelyiség nélkül végzett tevékenység esetén üzletlezárást helyettesítő bírságot állapíthat meg, ha az adózó a pénztárgép üzemeltetésével kapcsolatos, jogszabályban meghatározott kötelezettségét megszegte. Az e bekezdés szerinti jogsértés ismételt elkövetése esetén az üzletlezárást helyettesítő bírságot minden alkalommal meg kell állapítani. A kiszabható bírság felső határa magánszemély adózó esetében 200 ezer forint, más adózó esetén 500 ezer forint.
+
 (9) Az ellenőrzés, az üzletlezárás, illetve a végrehajtási eljárás akadályozásáért az (1) bekezdés l) pontja alapján adózónak nem minősülő magánszemély is szankcionálható. Ha törvény az üzletlezárás alkalmazását kizárja vagy az adózó az üzletlezárás foganatosítását meghiúsítja, valamint a lezárt üzletet kinyitja, a mulasztási bírság felső határa az üzletlezárás határozatban meghatározott napjai számának, illetve a bírság adózóra egyébként vonatkozó, törvényben rögzített legmagasabb értékének szorzata.
 
 (10) Hibásan benyújtott bevallás esetén a magánszemély 20 ezer forintig, más adózó 100 ezer forintig terjedő mulasztási bírsággal sújtható. Ha a késedelmesen benyújtott bevallás hibás, az adózó csak a késedelemért szankcionálható.
@@ -102,7 +104,7 @@ terjedő mulasztási bírsággal sújtható.
 
 (20f) A pénzforgalmi számla nyitására kötelezett adózó a 38. § (3a) bekezdésében foglalt előírás megsértése esetén a készpénzszolgáltatásnak az 1,5 millió forintot meghaladó része után 20% mértékű mulasztási bírságot fizet. A 38. § (3a) bekezdésében foglalt előírás megsértésével teljesített kifizetés jogosultja, ha a szabálytalan kifizetést elfogadja, a készpénzszolgáltatásnak az 1,5 millió forintot meghaladó része után 20% mértékű mulasztási bírságot fizet.
 
-(20g) Az állami adóhatóság a 176/F. § szerinti ellenőrzés során
+(20g) Az állami adóhatóság
 
 a) pénztárgép, taxaméter forgalmazási engedély nélküli forgalmazása, a forgalmazási engedély visszavonását követő továbbforgalmazása, továbbá engedélyezettől eltérő pénztárgép, taxaméter forgalmazása esetén 10 millió forintig terjedő mulasztási bírságot szab ki,
 

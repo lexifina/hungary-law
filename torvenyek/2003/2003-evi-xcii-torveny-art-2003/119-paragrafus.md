@@ -16,7 +16,9 @@ e) az adózónál az adómegállapítás alapját képező statisztikai állomá
 
 f) a bejelentett tények, adatok, körülmények valódiságát,
 
-g) termék előállítását, raktározását, szállítását, felhasználását, valamint a termékekkel kapcsolatosan végzett tevékenységeket
+g) termék előállítását, raktározását, szállítását, felhasználását, valamint a termékekkel kapcsolatosan végzett tevékenységeket,
+
+h) az adózó által a könyvei, nyilvántartásai vezetéséhez, valamint a bizonylatok feldolgozásához alkalmazott szoftvereket, informatikai rendszereket, számításokat
 
 vizsgálja.
 

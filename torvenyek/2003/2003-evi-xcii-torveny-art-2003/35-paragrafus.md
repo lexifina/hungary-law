@@ -4,7 +4,7 @@
 
 (2) Ha az adózó az esedékes adót nem fizette meg és azt tőle nem lehet behajtani, az adó megfizetésére határozattal kötelezhető:
 
-a) az adózó örököse az örökrésze erejéig, több örökös esetében örökrészük arányában,
+a) az állam kivételével az adózó örököse az örökrésze erejéig, több örökös esetében örökrészük arányában,
 
 b) a megajándékozott, az adózó által az adókötelezettsége keletkezését követően okirattal juttatott ajándék erejéig, kivéve, ha az ingyenes előnytől neki fel nem róható módon elesett,
 

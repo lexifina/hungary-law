@@ -20,6 +20,8 @@ a) az elkövető azért nem büntethető, vagy büntetése korlátlanul enyhíth
 
 b) az eljárást az elkövetővel szemben a Btk. 64. §-ában, illetve a 2013. június 30-ig hatályban volt 1978. évi IV. törvény 71. §-ában meghatározott megrovás alkalmazásával szüntették meg.
 
+(1c) Az adó megállapításához való jog elévülése az (1a)–(1b) pontok szerinti büntetőeljárás esetében a büntetőeljárás kezdő időpontjától annak jogerős befejezéséig nyugszik.
+
 (2) Az önellenőrzés bevallása – ha az adókülönbözet az adózó javára mutatkozik – az (1) bekezdésben meghatározott elévülést megszakítja.
 
 (3) Ha az adómegállapításhoz való jog elévülését követően az adóhatóság vagy a felettes szerv megállapítja, hogy az adómegállapítás részben vagy egészben jogszabálysértő, akkor az adótartozás végrehajtásához való jog elévülési idején belül a jogszabálysértő adómegállapítás tekintetében az adóvégrehajtáshoz való jogot korlátozza vagy megszünteti.
@@ -28,7 +30,7 @@ b) az eljárást az elkövetővel szemben a Btk. 64. §-ában, illetve a 2013. j
 
 (5) Ha az adóhatóság határozatát a bíróság felülvizsgálja, a másodfokú adóhatósági határozat jogerőre emelkedésétől a bíróság határozatának jogerőre emelkedéséig, felülvizsgálati kérelem esetén a felülvizsgálati kérelem elbírálásáig az adó megállapításához való jog elévülése nyugszik.
 
-(6) Az adótartozás végrehajtásához, a költségvetési támogatás kiutalásához való jog az esedékesség naptári évének az utolsó napjától számított 5 év elteltével évül el. Amennyiben az adóhatóság végrehajtási cselekményt foganatosított, az elévülés 6 hónappal meghosszabbodik. Az adóbevallás késedelmes benyújtása esetén az adótartozás végrehajtásához való jog elévülése megszakad. Ha az adózó ellen felszámolási eljárás indul, az adótartozás végrehajtásához való jog elévülése a felszámolás kezdő időpontjával megszakad, és az elévülés a felszámolási eljárás befejezéséről hozott döntés jogerőre emelkedését követő napon újból megkezdődik. Ha az adó, a bírság és a jogosulatlanul igénybe vett költségvetési támogatás végrehajtásához való jog elévült, a tartozást terhelő késedelmi pótlékot is elévültnek kell tekinteni.
+(6) Az adótartozás végrehajtásához való jog az esedékesség naptári évének az utolsó napjától számított 5 év elteltével évül el. Amennyiben az adóhatóság végrehajtási cselekményt foganatosított, az elévülés 6 hónappal meghosszabbodik. Az adóbevallás késedelmes benyújtása esetén az adótartozás végrehajtásához való jog elévülése megszakad. Ha az adózó ellen felszámolási eljárás indul, az adótartozás végrehajtásához való jog elévülése a felszámolás kezdő időpontjával megszakad, és az elévülés a felszámolási eljárás befejezéséről hozott döntés jogerőre emelkedését követő napon újból megkezdődik. Ha az adó, a bírság és a jogosulatlanul igénybe vett költségvetési támogatás végrehajtásához való jog elévült, a tartozást terhelő késedelmi pótlékot is elévültnek kell tekinteni.
 
 (7) Nyugszik az elévülés a végrehajtási eljárás felfüggesztésének és szünetelésének, az adózó vagyonának egészére elrendelt bűnügyi zárlatnak, továbbá törvényben biztosított fizetési kedvezménynek vagy feltételhez kötött adómentességnek az időtartama alatt. A jelzálogjog bejegyzése az elévülés nyugvása szempontjából a végrehajtási eljárás felfüggesztésével esik egy tekintet alá.
 

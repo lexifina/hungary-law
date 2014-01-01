@@ -10,7 +10,7 @@ c) a behajtási eljárás során a behajtást kérő megkeresése,
 
 d) az adózóval közölt adóhatósági adómegállapítás,
 
-e) a bírósági eljárási illetéket megállapító bírósági határozat,
+e) a bírósági eljárási illetéket megállapító bírósági határozat, valamint a bírósági eljárási illeték tárgyában küldött bírósági megkeresés és értesítés,
 
 f) az egészségügyi szolgáltatási járulék kötelezettséget tartalmazó bejelentés.
 

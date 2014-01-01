@@ -2,6 +2,6 @@
 
 (2)
 
-(3) Az iratok a hivatali helyiségben történő tanulmányozás végett más esetben is bevonhatók, ilyen esetekben azok 60 napon túl csak az adóhatóság vezetőjének engedélyével és az adózó egyidejű értesítésével tarthatók az adóhatóságnál.
+(3) Az iratok a hivatali helyiségben történő tanulmányozás végett más esetben is bevonhatók, ilyen esetekben azok az ellenőrzés befejezéséig tarthatók az adóhatóságnál.
 
 (4)

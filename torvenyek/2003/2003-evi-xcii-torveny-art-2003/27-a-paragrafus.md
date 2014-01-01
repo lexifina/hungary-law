@@ -6,7 +6,7 @@
 
 a) a természetes személyazonosító adatokat, a lakcímet és az adóazonosító jelet,
 
-b) a magánszemély összevont adóalapjának és valamennyi, bevallási kötelezettséggel járó külön adózó jövedelmének együttes összegét,
+b) a magánszemély családi kedvezménnyel nem csökkentett összevont adóalapjának és valamennyi, bevallási kötelezettséggel járó külön adózó jövedelmének együttes összegét,
 
 c) az adózó személyi jövedelemadó-kötelezettségét,
 

@@ -1,6 +1,6 @@
 ## Az adó feltételes megállapítása
 
-132. § (1) Az adópolitikáért felelős miniszter kétfokú eljárásban az adózó (kérelmező) kérelmére –az általa közölt, jövőbeni ügyletre, vagy jövőbeni ügyletnek nem minősülő ügyletre vonatkozó részletes tényállás alapján – a kérelemben megjelölt, adókötelezettségre vagy annak hiányára vonatkozó konkrét kérdés(ek) vonatkozásában megállapítja az adózó (kérelmező) és – jövőbeni ügyletre vonatkozó kérelem esetén – az általa megvalósítandó jövőbeni ügylettel közvetlenül érintett adózó(k) adókötelezettségét vagy annak hiányát. Feltételes adómegállapítás iránti kérelemként nem terjeszthető elő szokásos piaci ár megállapítására irányuló kérelem. Jövőbeni és jövőbeni ügyletnek nem minősülő ügyletre vonatkozó feltételes adómegállapítás iránti kérelem egy kérelemben nem terjeszthető elő.
+132. § (1) Az adópolitikáért felelős miniszter az adózó kérelmére – az általa közölt, jövőbeni ügyletre, vagy jövőbeni ügyletnek nem minősülő ügyletre vonatkozó részletes tényállás alapján – a kérelemben megjelölt adókötelezettségre vagy annak hiányára vonatkozó konkrét kérdés(ek) vonatkozásában megállapítja az adózó adókötelezettségét vagy annak hiányát. Az adó feltételes megállapítására irányuló kérelemként nem terjeszthető elő szokásos piaci ár megállapítására irányuló kérelem. Jövőbeni és jövőbeni ügyletnek nem minősülő ügyletre vonatkozó kérelem egy kérelemként nem terjeszthető elő.
 
 (1a) A kérelem benyújtásakor jövőbeni ügyletnek nem minősülő ügylet vonatkozásában feltételes adómegállapítás csak a társasági adóval, a személyi jövedelemadóval, a kisvállalati adóval és a helyi iparűzési adóval összefüggésben kérhető és a kérelem csak a kérelemmel érintett adónemre és adómegállapítási időszakra vonatkozó bevallás benyújtásáig, de legkésőbb a bevallás határidejéig nyújtható be. A határidő elmulasztása esetén igazolási kérelem benyújtásának nincsen helye.
 
@@ -14,7 +14,7 @@ b) az adózó mérlegfőösszege az adóévet megelőző adóévben – az adó�
 
 (3) A feltételes adómegállapítás az adóhatóságra csak változatlan tényállás mellett, az adott ügyben kötelező. A feltételes adómegállapítást érdemben érintő jövőbeni jogszabályváltozás vagy tényállásváltozás (tartalmi változás) esetén – annak hatálybalépésétől, illetve időpontjától kezdődően – a feltételes adómegállapítás nem alkalmazható. A tartós feltételes adómegállapítás alkalmazhatóságát – a (2a) bekezdés kivételével – a jogszabályváltozás nem, csak a tényállás megváltozása érinti.
 
-(4) A határozathozatalra nyitva álló határidő az elsőfokú eljárásban a kérelem benyújtásától számított 60 nap, hiánypótlás esetén a hiánypótlástól számított 60 nap. A határidő 60 nappal meghosszabbítható. A feltételes adómegállapítás iránti kérelem az elsőfokú határozat meghozataláig visszavonható. Az adózó (kérelmező) a kérelmében kezdeményezheti a feltételes adómegállapítás sürgősségi eljárásban történő elbírálását, amelynek során az elsőfokú eljárás ügyintézési határideje 30 nap, hiánypótlás esetén a hiánypótlástól számított 30 nap. A sürgősségi eljárás határideje 30 nappal meghosszabbítható.
+(4) A határozathozatalra nyitva álló határidő a kérelem benyújtásától számított 75 nap, amely egy alkalommal 60 nappal meghosszabbítható. Az adózó a kérelmében kezdeményezheti a feltételes adómegállapítás sürgősségi eljárásban történő elbírálását, amelynek során a határozathozatalra nyitva álló határidő 45 nap, amely 30 nappal meghosszabbítható. Amennyiben az adózó a kérdés(eke)t módosítja, további kérdést tesz fel vagy a tényállást módosítja, az ügyintézési határidőt a módosítás vagy kiegészítés adópolitikáért felelős miniszterhez történő beérkezésétől kell számítani. A feltételes adómegállapítás iránti kérelem az elsőfokú határozat meghozataláig visszavonható.
 
 (5) A kérelem jogszabályban előírt nyomtatványon nyújtható be. A kérelemhez csatolni kell az adózó nyilatkozatát arról, hogy a kérelem vagy hasonló kérelme ügyében nincs és korábban sem volt folyamatban tudomása szerint ellenőrzés, hatósági eljárás vagy bírósági eljárás.
 
@@ -22,17 +22,9 @@ b) az adózó mérlegfőösszege az adóévet megelőző adóévben – az adó�
 
 (6) A kérelem díjköteles, a díj mértéke:
 
-a) az ügylet értékének 1%-a, de legalább 1 millió, legfeljebb 8 millió forint, vagy
+a) 5 millió forint, a kérelem sürgősségi eljárásban történő elbírálása esetén 8 millió forint,
 
-b) szerződéscsomag esetén 10 millió forint, vagy
-
-c) szerződéstípus esetén 10 millió forint, vagy
-
-d) tartós feltételes adómegállapítási kérelem esetén az a)–c) pont alapján a kérelemre irányadó díj kétszerese, de legfeljebb 15 millió forint, vagy
-
-e) jövőbeni ügyletnek nem minősülő ügyletre vonatkozó kérelem esetén az a)–c) pont alapján a kérelemre irányadó díj kétszerese, de legfeljebb 15 millió forint, vagy
-
-f) a feltételes adómegállapítás iránti kérelem sürgősségi eljárásban történő elbírálása esetén az a)–c) pont alapján a kérelemre irányadó díj kétszerese, de legfeljebb 15 millió forint, a d)–e) pont alapján a kérelemre irányadó díj kétszerese, de legfeljebb 20 millió forint.
+b) tartós feltételes adómegállapítás iránti kérelem esetén 8 millió forint, a tartós feltételes adómegállapítás iránti kérelem sürgősségi eljárásban történő elbírálása esetén 11 millió forint.
 
 (6a) Ha az adózó feltételes adómegállapítás iránti kérelmében tartós feltételes adómegállapítás iránti kérelmet is előterjeszt, a díj fizetésére a tartós feltételes adómegállapítási kérelem elbírálásának díjára irányadó rendelkezéseket kell alkalmazni.
 
@@ -50,9 +42,11 @@ e) a feltételes adómegállapítás külföldi jog értelmezését igényli.
 
 (7a) Az eljárás érdemi vizsgálat nélküli elutasítása, az eljárás megszüntetése, vagy a kérelem elutasítása esetén az adópolitikáért felelős miniszter a befizetett díj 85%-át a döntés jogerőre emelkedését követően haladéktalanul visszatéríti az adózó (kérelmező) részére. A sürgősségi eljárás határidejének túllépése esetén az adópolitikáért felelős miniszter a befizetett díj és a kérelemre a sürgősségi eljárás hiányában fizetendő díj különbözetét a döntés jogerőre emelkedését követően haladéktalanul visszatéríti az adózó (kérelmező) részére.
 
+(7b) Az adózó a kérelem benyújtását megelőzően személyes konzultációt kezdeményezhet, amely során az adózó és az adópolitikáért felelős miniszter előzetesen egyeztethet az eljárás feltételeiről, a határidejéről, a megfizetendő díj mértékéről, a jogorvoslati lehetőségekről, a feltételes adómegállapítás hatályáról, vagy bármely más eljárási kérdésről. A konzultáció során az adózó bemutathatja a tervezett kérelem tárgyát képező ügyletet, az alapul szolgáló tényállást, az adókötelezettségre, vagy annak hiányára vonatkozó tervezett konkrét kérdés(ek)et. Az előzetes egyeztetés eredménye az adózót vagy az adópolitikáért felelős minisztert az adó feltételes megállapítására irányuló eljárásban nem köti. A konzultációról jegyzőkönyv készül. A konzultáció díjköteles, a díj mértéke konzultációnként 100 ezer forint.
+
 (8) A díjat a kérelem, a fellebbezés díját a kérelem alapján induló eljárás során hozott döntés elleni fellebbezés benyújtásáig hiánytalanul meg kell fizetni. Ennek elmulasztása esetén az adópolitikáért felelős miniszter – 8 napos határidő tűzésével – a díj hiánytalan megfizetésére hívja fel az adózót (kérelmezőt). Ha az adózó a felhívás ellenére az abban foglalt határidőig a díjat hiánytalanul nem fizeti meg, az adópolitikáért felelős miniszter az eljárást megszünteti.
 
-(9) A feltételes adómegállapítás tárgyában hozott határozattal szemben bírósági felülvizsgálatnak nincs helye.
+(9) Az adó feltételes megállapítására irányuló eljárás során hozott határozattal, vagy a 136. § (3) bekezdése alapján önálló fellebbezéssel megtámadható végzéssel szemben fellebbezésnek nincs helye, bírósági felülvizsgálata kérhető.
 
 (10) A feltételes adómegállapítás iránti kérelemmel érintett ügylettel összefüggésben ellenőrzés nem rendelhető el a kérelem benyújtásától a feltételes adómegállapítási eljárás során hozott határozat jogerőre emelkedésétől számított 15. nap elteltéig. A korlátozás a jövőbeni ügyletnek nem minősülő ügyletre vonatkozó feltételes adómegállapítás esetén csak a kérelmet benyújtó adózó vonatkozásában alkalmazandó. A jövőbeni ügyletnek nem minősülő ügylet vonatkozásában benyújtott bevallásban igényelt költségvetési támogatás kiutalására nyitva álló határidő kezdő napja nem lehet korábbi, mint a feltételes adómegállapításról hozott határozat jogerőre emelkedésétől számított 16. nap.
 
@@ -60,6 +54,6 @@ e) a feltételes adómegállapítás külföldi jog értelmezését igényli.
 
 (12) Az adópolitikáért felelős miniszter a feltételes adómegállapítást a kérelem benyújtásakor hatályos jogszabályok alapján adja ki. Ha a kérelem benyújtását követően, a határozat kiadmányozásának időpontjáig a feltételes adómegállapítást érdemben érintő jogszabályváltozás lép hatályba, – a tartós feltételes adómegállapítás esetén a társasági adót érintő megállapítás kivételével – a határozat tartalmazza mind a kérelem benyújtásakor, mind a határozat kiadmányozásakor hatályos jogszabályoknak megfelelő adómegállapítást. Az adózó (kérelmező) kérelmére az adópolitikáért felelős miniszter – a tartós feltételes adómegállapítás kivételével – a nemzetközi szerződésekkel összefüggő adókötelezettséget érintő feltételes adómegállapítást a határozat kiadmányozásakor kihirdetett, azonban hatályba nem lépett jogszabályok alapján is kiadhatja. E § vonatkozásában a nemzetközi szerződés érvényes, ha a kötelező hatályának elismerésére Magyarország részéről a határozat kiadmányozásáig sor került.
 
-(13) A feltételes adómegállapítási eljárás során hozott határozat ellen benyújtott fellebbezés díja 100 ezer forint. A feltételes adómegállapítási határozat ellen benyújtott kiegészítés, kijavítás iránti kérelem díja 15 ezer forint.
+(13)
 
 (14) Külföldi illetőségű személy feltételes adómegállapítás iránti kérelmét kizárólag belföldi képviselője útján terjesztheti elő.

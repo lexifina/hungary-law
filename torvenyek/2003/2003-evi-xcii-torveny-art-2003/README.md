@@ -61,3 +61,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-92-00-00
 | 2013-12-15 | 2013. évi CCXII. törvény | 2003-92-00-00.112 |
 | 2013-12-26 | 2013. évi CCXXXVI. törvény | 2003-92-00-00.113 |
 | 2013-12-29 | 2013. évi CC. törvény | 2003-92-00-00.114 |
+| 2014-01-01 | 2013. évi CC. törvény | 2003-92-00-00.115 |

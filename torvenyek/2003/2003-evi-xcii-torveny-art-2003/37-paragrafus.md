@@ -10,7 +10,7 @@
 
 a) ha az adózó bevallásának, igénylésének kijavítását az adóhatóság a 34. § (6) bekezdésének alkalmazásával rendelte el, az adóbevallás kijavításának napjától,
 
-b) ha az ellenőrzés befejezését az adózó érdekkörében felmerült ok akadályozza vagy késlelteti, az akadály megszűnésének napjától,
+b) ha az ellenőrzés megkezdését vagy befejezését az adózó érdekkörében felmerült ok akadályozza vagy késlelteti, az akadály megszűnésének napjától,
 
 c) ha a kiutalási igény jogosságának ellenőrzése az igény (bevallás) beérkezésének napjától számított 30 napon belül megkezdődik, és az ellenőrzés akadályozása miatt mulasztási bírság kiszabására vagy elővezetésre kerül sor, az ellenőrzésről felvett jegyzőkönyv átadásának napjától
 
