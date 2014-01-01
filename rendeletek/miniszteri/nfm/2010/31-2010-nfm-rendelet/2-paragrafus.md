@@ -20,7 +20,7 @@
 
 9. járműtípus: azon vasúti járművek összessége, amelyeknek valamennyi típusmeghatározó adata megegyezik;
 
-10. karbantartással megbízott szervezet: a nemzeti járműnyilvántartásba felvett, a vasúti jármű karbantartásáért felelős szervezet;
+10.[^2] karbantartásért felelős szervezet: a nemzeti vasúti járműnyilvántartásba felvett, a vasúti jármű karbantartásért felelős olyan szervezet, amelynek a tevékenységére vonatkozó előírásokat a 25. § tartalmazza;
 
 11. kétéltű vasúti jármű: olyan vasúti jármű, amelyet közúti járműből, közúti munkagépből, vagy mezőgazdasági vontatóból segédszerkezet beépítésével tesznek alkalmassá vasúti pályán történő közlekedésre;
 
@@ -30,7 +30,7 @@
 
 14. pályaszám: a vasúti jármű egyedi azonosítására szolgáló hatósági jelzés;
 
-15. prototípus jármű: az előzetes típusengedély vagy átalakítási engedély alapján gyártott jármű vagy járművek, amelyek a típusvizsgálatok teljes körű elvégzéséhez szükségesek;
+15.[^3] prototípus jármű: az előzetes típusengedély vagy átalakítási engedély alapján gyártott, átalakított jármű vagy járművek, amelyek a típusvizsgálatok teljes körű elvégzéséhez szükségesek;
 
 16. prototípus- vagy típusvizsgálat: új gyártású vagy átalakított vasúti jármű vasúti közlekedésben való részvétele alkalmasságának igazolására irányuló, bejelentett szervezet és a vasúti közlekedési hatóság által felügyelt mérések és próbák;
 
@@ -44,6 +44,11 @@
 
 21. üzembentartó: vasúti jármű tulajdonosa, vagy a tulajdonos által üzemeltetésre átadott, szerződésben felhatalmazott jogi vagy természetes személy vagy szervezet, amely a jármű közlekedés- és üzletbiztonsági állapotáért felelős, amely a nemzeti járműnyilvántartásban nyilvántartott.
 
-22.[^2] történelmi, muzeális vasúti jármű: az a közszolgáltatásban részt nem vevő vasúti jármű, amelyet muzeális intézmény nyilvántartásba vett, vagy amelynek gyártása 50 évnél régebben történt.
+22.[^4] történelmi, muzeális vasúti jármű: az a közszolgáltatásban részt nem vevő vasúti jármű, amelyet muzeális intézmény nyilvántartásba vett, vagy amelynek gyártása 50 évnél régebben történt;
 
-[^2]: A 2. § 22. pontját a 9/2012. (II. 15.) NFM rendelet 1. §-a iktatta be.
+23.[^5] szériavizsgálat: az egy szériába tartozó vasúti járműveken a vonatkozó ÁME-nak megfelelő alrendszerre (részegység, alkatrész) irányuló, a vasúti járművek üzembehelyezésének engedélyezése során elvégzendő vizsgálat.
+
+[^2]: A 2. § 10. pontja a 82/2013. (XII. 29.) NFM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^3]: A 2. § 15. pontja a 82/2013. (XII. 29.) NFM rendelet 23. § a) pontja szerint módosított szöveg.
+[^4]: A 2. § 22. pontját a 9/2012. (II. 15.) NFM rendelet 1. §-a iktatta be.
+[^5]: A 2. § 23. pontját a 82/2013. (XII. 29.) NFM rendelet 1. § (2) bekezdése iktatta be.

@@ -6,8 +6,11 @@
 
 (3) Ugyanazon járműtípushoz tartozó vasúti járművek azonos jellemzők szerinti átalakítása egy átalakítási engedély alapján végezhető.
 
-(4) Az átalakítási engedély-köteles átalakítás elvégzését követően a vasúti jármű új üzembehelyezési engedély kiadását követően közlekedtethető. Ha az átalakítás során a jármű típus-meghatározó adataiban változás következik be, az üzembehelyezési engedély új típusengedély alapján kérhető.
+(4)[^36] Amennyiben a hatóság döntése szerint az átalakítás átalakítási engedélyköteles és új típusengedély kiadása vagy a típusengedély módosítása szükséges, az átalakítás elvégzését követően a vasúti jármű az új üzembehelyezési engedély kiadását követően közlekedtethető.
 
-(5) Az átalakítási engedély iránti kérelmet a vasúti jármű tulajdonosa, vagy a tulajdonos írásbeli hozzájárulásával a jármű üzemeltetője nyújthat be.
+(5)[^37] Az átalakítási engedély iránti kérelmet a vasúti jármű tulajdonosa, vagy a tulajdonos írásbeli hozzájárulásával a jármű üzembentartója nyújthat be.
 
 (6) Az átalakítási engedély iránti kérelemhez mellékelni kell a 2. melléklet 5. pontjában megjelölt dokumentumokat, továbbá a külön jogszabályban meghatározott igazgatási szolgáltatási díj befizetésének igazolását.
+
+[^36]: A 22. § (4) bekezdése a 82/2013. (XII. 29.) NFM rendelet 11. §-ával megállapított szöveg.
+[^37]: A 22. § (5) bekezdése a 82/2013. (XII. 29.) NFM rendelet 23. § f) pontja szerint módosított szöveg.

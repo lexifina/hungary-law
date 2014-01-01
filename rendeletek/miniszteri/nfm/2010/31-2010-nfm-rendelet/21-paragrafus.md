@@ -2,7 +2,7 @@
 
 (2) Az üzembehelyezési engedély hatályát veszti
 
-a) a tulajdonos, az üzembentartó, vagy üzemeltető személyének megváltozása esetén (átírás),
+a)[^33] a tulajdonos vagy az üzembentartó személyének megváltozása esetén (átírás),
 
 b) pályaszám (hatósági jelzés) változása esetén,
 
@@ -20,6 +20,10 @@ g) a bérleti szerződés alapján határozott idejű üzembehelyezési engedél
 
 (4) A különleges menetet lebonyolító vasúti járműre a hatóság a különleges menet időtartamára szóló, határozott időre adja ki az üzembehelyezési engedélyt.
 
-(5)[^13] A hatóság az üzembehelyezési engedélyt felfüggeszti, ha a nemzeti vasúti járműnyilvántartásban vezetett üzembentartó, karbantartással megbízott szervezet adatainak változása esetén az előző üzembentartó, karbantartással megbízott szervezet nyilvántartásból való törlésének időpontjáig új üzembentartó, karbantartással megbízott szervezet nem ismeri el üzembentartói, karbantartással megbízott szervezeti jogállását.
+(5)[^34] A hatóság az üzembehelyezési engedélyt felfüggeszti, ha a nemzeti vasúti járműnyilvántartásban vezetett üzembentartó, karbantartásért felelős szervezet adatainak változása esetén az előző üzembentartó, karbantartásért felelős szervezet nyilvántartásból való törlésének időpontjáig új üzembentartó, karbantartásért felelős szervezet nem ismeri el üzembentartói, karbantartásért felelős szervezeti jogállását.
 
-[^13]: A 21. § (5) bekezdését a 9/2012. (II. 15.) NFM rendelet 6. §-a iktatta be.
+(6)[^35] A jármű üzembentartója vagy annak meghatalmazottja köteles a karbantartásért felelős szervezetnek bejelenteni a jogosultság első napját megelőző 8 napon belül, hogy a járművel ki jogosult Magyarországon közlekedni.
+
+[^33]: A 21. § (2) bekezdés a) pontja a 82/2013. (XII. 29.) NFM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^34]: A 21. § (5) bekezdését a 9/2012. (II. 15.) NFM rendelet 6. §-a iktatta be, szövege a 82/2013. (XII. 29.) NFM rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^35]: A 21. § (6) bekezdését a 82/2013. (XII. 29.) NFM rendelet 10. § (3) bekezdése iktatta be.
