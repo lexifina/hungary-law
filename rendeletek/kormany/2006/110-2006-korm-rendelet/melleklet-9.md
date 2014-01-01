@@ -1,4 +1,4 @@
-9. számú melléklet a 110/2006. (V. 5.) Korm. rendelethez[^139]
+9. számú melléklet a 110/2006. (V. 5.) Korm. rendelethez[^147]
 
 KÖTELEZVÉNY
 
@@ -52,4 +52,4 @@ Budapest, [dátum]
 
 Garantőr
 
-[^139]: A 9. számú melléklet a 109/2009. (V. 20.) Korm. rendelet 19. § (6) bekezdésével megállapított szöveg.
+[^147]: A 9. számú melléklet a 109/2009. (V. 20.) Korm. rendelet 19. § (6) bekezdésével megállapított szöveg.

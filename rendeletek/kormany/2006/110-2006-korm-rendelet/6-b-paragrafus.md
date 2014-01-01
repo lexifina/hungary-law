@@ -1,4 +1,6 @@
-6/B. §[^57] (1) A kölcsönt nyújtó hitelintézet a szerződéskötéskor ellenőrzi, hogy a benyújtott dokumentumok alapján – a köztisztviselő, a fegyveres szervek hivatásos állományú tagja, a Magyar Honvédség hivatásos állományú tagja, a közalkalmazott, az ügyész, a bíró, az igazságügyi alkalmazott esetében a kezességvállalás alapjául szolgáló – a Ktv. 49/I. § (2), a Hszt. 115/A. § (2), a Hjt. 126/A. § (2), a Kjt. 78/A. § (2), az Üsztv. 50/C. § (4), a Bjt. 119/A. § (2) és az Isztv. 121/A. § (2) bekezdésében foglaltak fennállnak-e, és a jogosultság fennállását igazoló dokumentumokat iratanyagában megőrzi.
+6/B. §[^62] (1)[^63] A kölcsönt nyújtó hitelintézet a szerződéskötéskor ellenőrzi, hogy a benyújtott dokumentumok alapján – a közszolgálati tisztviselő, a fegyveres szervek hivatásos állományú tagja, a honvéd, a közalkalmazott, az ügyész, a bíró, az igazságügyi alkalmazott esetében a kezességvállalás alapjául szolgáló feltételek – a Hszt. 115/A. § (2) bekezdésében, a Kjt. 78/A. § (2) bekezdésében, az Isztv. 121/A. § (2) bekezdésében, a Bjt. 190. § (2) bekezdésében, az Üjt. 74. § (2) bekezdésében, a Kttv. 153. § (2) bekezdésében, a Hjt. 138. § (3) bekezdésében foglaltak – fennállnak-e, és a jogosultság fennállását igazoló dokumentumokat iratanyagában megőrzi.
+
+(1a)[^64] Nem kell az (1) bekezdésben meghatározott ellenőrzést elvégezni a szerződés 6/A. § (2) bekezdésében foglalt módosítása esetén.
 
 (2) A Magyar Állam készfizető kezessége a 6/A. § (1) bekezdése szerinti lakáscélú kölcsönrész első folyósítási napjától a 8/C. § (2) bekezdésében foglalt határidőig áll fenn a kölcsön tőkeösszegére, valamint ügyleti kamatára és kezelési költségére.
 
@@ -10,4 +12,6 @@
 
 (6) Az állami készfizető kezességgel érintett kölcsönrész összegének és arányának megállapításánál a hitelintézet a fedezetül szolgáló ingatlan hitelbiztosítéki értékét csökkenti az olyan kölcsön tőkeösszegével, amelyet a támogatott hitelcél megvalósításához nyújtottak és az állami készfizető kezességgel érintett kölcsönt biztosító jelzálogjogot megelőző ranghelyen bejegyzett jelzálogjog biztosít.
 
-[^57]: A 6/B. §-t a 118/2009. (VI. 4.) Korm. rendelet 2. §-a iktatta be.
+[^62]: A 6/B. §-t a 118/2009. (VI. 4.) Korm. rendelet 2. §-a iktatta be.
+[^63]: A 6/B. § (1) bekezdése az 537/2013. (XII. 30.) Korm. rendelet 40. § (1) bekezdésével megállapított szöveg.
+[^64]: A 6/B. § (1a) bekezdését az 537/2013. (XII. 30.) Korm. rendelet 40. § (2) bekezdése iktatta be.

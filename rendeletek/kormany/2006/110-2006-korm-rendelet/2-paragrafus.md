@@ -18,7 +18,7 @@ g)[^20] a 3. § (4) bekezdése szerinti biztosítékokról, fedezetekről és fe
 
 h)[^21] minden egyéb olyan tényt, adatot, amely az állami kezesség szempontjából jelentős, ideértve a beváltás valószínűségéről, illetve ehhez kapcsolódóan az adók módjára történő behajtás valószínűsíthető eredményéről szóló tájékoztatást is;
 
-i)[^22] a fejlesztéspolitikáért felelős miniszternek az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló kormányrendelet szerinti álláspontját;
+i)[^22] a Kormány európai uniós források felhasználásáért felelős tagjának az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló kormányrendelet szerinti álláspontját;
 
 j)[^23] a kötelezett pénzügyi helyzetére vonatkozó információkat (különösen pénzügyi, számviteli kimutatásokat és előrejelzéseket), amelyekből megítélhető, hogy a hitel, kölcsön vagy hitelviszonyt megtestesítő értékpapír visszafizetése kellően megalapozott-e.
 
@@ -31,6 +31,6 @@ j)[^23] a kötelezett pénzügyi helyzetére vonatkozó információkat (külön
 [^19]: A 2. § (2) bekezdés f) pontja a 68/2010. (III. 19.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
 [^20]: A 2. § (2) bekezdésének g) pontja a 109/2009. (V. 20.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^21]: A 2. § (2) bekezdésének h) pontja a 40/2007. (III. 13.) Korm. rendelet 19. § (2) bekezdése szerint módosított szöveg.
-[^22]: A 2. § (2) bekezdésének i) pontját a 40/2007. (III. 13.) Korm. rendelet 2. § (4) bekezdése iktatta be, szövege a 37/2011. (III. 22.) Korm. rendelet 39. § (19) bekezdésével megállapított szöveg.
+[^22]: A 2. § (2) bekezdésének i) pontját a 40/2007. (III. 13.) Korm. rendelet 2. § (4) bekezdése iktatta be, szövege a 37/2011. (III. 22.) Korm. rendelet 39. § (19) bekezdésével megállapított, az 550/2013. (XII. 30.) Korm. rendelet 19. §-a szerint módosított szöveg.
 [^23]: A 2. § (2) bekezdésének j) pontját a 109/2009. (V. 20.) Korm. rendelet 1. § (2) bekezdése iktatta be.
 [^24]: A 2. § (3) bekezdését a 40/2007. (III. 13.) Korm. rendelet 2. § (5) bekezdése iktatta be, szövege a 109/2009. (V. 20.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.

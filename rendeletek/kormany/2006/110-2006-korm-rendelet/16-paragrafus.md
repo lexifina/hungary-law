@@ -1,6 +1,6 @@
-16. § (1)[^103] A kiállítási garancia-, illetve a kiállítási viszontgarancia-vállalás érdekében a kiállító a garancia igénybevételének tervezett kezdő időpontja előtt legkésőbb 25 munkanappal kérelmet nyújt be a kultúráért felelős miniszterhez. Amennyiben az egy kiállítás kapcsán benyújtott igények száma meghaladja a 15 darabot, a benyújtási határidő – a 16. kérelemtől kezdődően az egy kiállításhoz kapcsolódó összes kérelem esetében – kérelmenként 1 munkanappal nő.
+16. § (1)[^110] A kiállítási garancia-, illetve a kiállítási viszontgarancia-vállalás érdekében a kiállító a garancia igénybevételének tervezett kezdő időpontja előtt legkésőbb 25 munkanappal kérelmet nyújt be a kultúráért felelős miniszterhez. Amennyiben az egy kiállítás kapcsán benyújtott igények száma meghaladja a 15 darabot, a benyújtási határidő – a 16. kérelemtől kezdődően az egy kiállításhoz kapcsolódó összes kérelem esetében – kérelmenként 1 munkanappal nő.
 
-(2)[^104] A kiállítási garancia vállalására irányuló kérelemnek tartalmaznia kell a következőket:
+(2)[^111] A kiállítási garancia vállalására irányuló kérelemnek tartalmaznia kell a következőket:
 
 a) az e rendelet 7. számú melléklete szerinti Adatlap kiállítási garancia- vagy kiállítási viszontgarancia-vállaláshoz című – kitöltött – adatlapot;
 
@@ -16,7 +16,7 @@ f) a jogosult arról szóló – az e rendelet 10. számú mellékletében szere
 
 g) minden olyan tényt, adatot, amely a garancia szempontjából jelentős, ideértve a hatályos biztosításról, illetve garanciáról szóló szerződést is.
 
-(3)[^105] A kiállítási viszontgarancia vállalására irányuló kérelemnek tartalmaznia kell a következőket:
+(3)[^112] A kiállítási viszontgarancia vállalására irányuló kérelemnek tartalmaznia kell a következőket:
 
 a) a kiállítási viszontgarancia indokoltságát;
 
@@ -28,12 +28,12 @@ d) a kiállító által kötött biztosítási szerződést, benne a kiállítá
 
 e) a jogosult arról szóló – az e rendelet 10. számú mellékletében szereplő minta alapján kibocsátott – nyilatkozatát, hogy elfogadja a kiállítási viszontgarancia vállalására vonatkozó feltételeket.
 
-(4)[^106] Amennyiben egy kiállítás kapcsán több kérelmet nyújt be a kiállító, a (2) bekezdés b) és c) pontjaiban foglalt dokumentumokat csak egyszer kell benyújtani.
+(4)[^113] Amennyiben egy kiállítás kapcsán több kérelmet nyújt be a kiállító, a (2) bekezdés b) és c) pontjaiban foglalt dokumentumokat csak egyszer kell benyújtani.
 
-(5)–(6)[^107]
+(5)–(6)[^114]
 
-[^103]: A 16. § (1) bekezdése a 109/2009. (V. 20.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^104]: A 16. § (2) bekezdése a 109/2009. (V. 20.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg. E módosító rendelet 20. § (7) bekezdése alapján a rendelkezést a 2009. június 4. napját követően benyújtott kiállítási garancia- és viszontgarancia-kérelmek esetében kell alkalmazni.
-[^105]: A 16. § (3) bekezdése a 109/2009. (V. 20.) Korm. rendelet 13. § (3) bekezdésével megállapított szöveg. E módosító rendelet 20. § (7) bekezdése alapján a rendelkezést a 2009. június 4. napját követően benyújtott kiállítási garancia- és viszontgarancia-kérelmek esetében kell alkalmazni.
-[^106]: A 16. § (4) bekezdése a 109/2009. (V. 20.) Korm. rendelet 13. § (4) bekezdésével megállapított szöveg. E módosító rendelet 20. § (7) bekezdése alapján a rendelkezést a 2009. június 4. napját követően benyújtott kiállítási garancia- és viszontgarancia-kérelmek esetében kell alkalmazni.
-[^107]: A 16. § (5)–(6) bekezdését a 109/2009. (V. 20.) Korm. rendelet 20. § (3) bekezdése hatályon kívül helyezte.
+[^110]: A 16. § (1) bekezdése a 109/2009. (V. 20.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^111]: A 16. § (2) bekezdése a 109/2009. (V. 20.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg. E módosító rendelet 20. § (7) bekezdése alapján a rendelkezést a 2009. június 4. napját követően benyújtott kiállítási garancia- és viszontgarancia-kérelmek esetében kell alkalmazni.
+[^112]: A 16. § (3) bekezdése a 109/2009. (V. 20.) Korm. rendelet 13. § (3) bekezdésével megállapított szöveg. E módosító rendelet 20. § (7) bekezdése alapján a rendelkezést a 2009. június 4. napját követően benyújtott kiállítási garancia- és viszontgarancia-kérelmek esetében kell alkalmazni.
+[^113]: A 16. § (4) bekezdése a 109/2009. (V. 20.) Korm. rendelet 13. § (4) bekezdésével megállapított szöveg. E módosító rendelet 20. § (7) bekezdése alapján a rendelkezést a 2009. június 4. napját követően benyújtott kiállítási garancia- és viszontgarancia-kérelmek esetében kell alkalmazni.
+[^114]: A 16. § (5)–(6) bekezdését a 109/2009. (V. 20.) Korm. rendelet 20. § (3) bekezdése hatályon kívül helyezte.

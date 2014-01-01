@@ -1,4 +1,4 @@
-8/E. §[^88] (1) A 8/C. § rendelkezéseitől eltérően a 8. § (4) bekezdésében megjelölt állami kezességvállalások esetében az állami kezesség érvényesítését a jogosult az államháztartásért felelős miniszternél kezdeményezheti írásban
+8/E. §[^95] (1) A 8/C. § rendelkezéseitől eltérően a 8. § (4) bekezdésében megjelölt állami kezességvállalások esetében az állami kezesség érvényesítését a jogosult az államháztartásért felelős miniszternél kezdeményezheti írásban
 
 a) a kötelezett megnevezésének,
 
@@ -26,4 +26,4 @@ d) a folyósítási feltételek teljesítésének dokumentumait.
 
 (4) A 8. § (4) bekezdésében megjelölt állami kezességvállalásból származó beváltás várható időpontjáról és a beváltás mértékéről a kötelezett a kezest, a várható beváltást megelőzően legalább 15 naptári nappal, előre nem látható esetben a beváltást indokló körülmények bekövetkezésével egyidejűleg vagy a beváltásról való tudomásszerzésről haladéktalanul értesíteni köteles.
 
-[^88]: A 8/E. §-t a 68/2010. (III. 19.) Korm. rendelet 7. §-a iktatta be.
+[^95]: A 8/E. §-t a 68/2010. (III. 19.) Korm. rendelet 7. §-a iktatta be.
