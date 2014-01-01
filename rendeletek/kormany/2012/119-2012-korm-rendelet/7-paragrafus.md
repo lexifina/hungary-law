@@ -4,12 +4,14 @@
 
 ## 6. A törvényességi felhívás
 
-## 7. § A fővárosi és megyei kormányhivatal a törvényességi felhívást a törvényességi felhívás érintettjén kívül tájékoztatásul megküldi
+## 7. §[^5] A törvényességi felhívás tartalmáról
 
-a) települési önkormányzat esetén a polgármesternek, aki tájékoztatja a törvényességi felhívás tartalmáról a képviselő-testületet,
+a) települési önkormányzat esetén a polgármester tájékoztatja a képviselő-testületet,
 
-b) megyei önkormányzat esetén a megyei közgyűlés elnökének, aki tájékoztatja a törvényességi felhívás tartalmáról a közgyűlést,
+b) megyei önkormányzat esetén a megyei közgyűlés elnöke tájékoztatja a közgyűlést,
 
-c) fővárosi önkormányzat esetén a főpolgármesternek, aki tájékoztatja a törvényességi felhívás tartalmáról a közgyűlést,
+c) fővárosi önkormányzat esetén a főpolgármester tájékoztatja a közgyűlést,
 
-d) társulás esetén a társulás elnökének, aki tájékoztatja a törvényességi felhívás tartalmáról a társulási tanácsot.
+d) társulás esetén a társulás elnöke tájékoztatja a társulási tanácsot.
+
+[^5]: A 7. § a 492/2013. (XII. 18.) Korm. rendelet 5. §-ával megállapított szöveg.

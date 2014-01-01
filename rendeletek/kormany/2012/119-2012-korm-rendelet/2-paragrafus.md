@@ -2,7 +2,7 @@
 
 2. § (1) Amennyiben a fővárosi és megyei kormányhivatal egy önkormányzati intézkedéssel összefüggésben egy vagy több jogszabálysértést észlel, vagy az Mhötv. 132. § (2) bekezdése szerinti érintett (a továbbiakban: érintett) nem tesz eleget a fővárosi és megyei kormányhivatal információkérésre irányuló megkeresésének, a fővárosi és megyei kormányhivatal haladéktalanul megkezdi a törvényességi felügyeleti eszközök alkalmazását.
 
-(2)[^1] A fővárosi és megyei kormányhivatal a törvényességi felügyeleti eszközök közül – a (3) bekezdésben és a 15. § (5) bekezdésében meghatározott kivétellel – elsőként a törvényességi felhívást alkalmazza.
+(2)[^1] A fővárosi és megyei kormányhivatal a törvényességi felügyeleti eszközök közül – a (3) bekezdésben, a 15. § (5) bekezdésében és az Mhötv. 132. § (1) bekezdés k) pontjában meghatározott kivétellel – elsőként a törvényességi felhívást alkalmazza.
 
 (3) A fővárosi és megyei kormányhivatal törvényességi felhívás kibocsátása nélkül kezdeményezheti az Állami Számvevőszéknél a helyi önkormányzat gazdálkodását érintő vizsgálat lefolytatását, mellyel egyidejűleg a kezdeményezés másolatát az érintett helyi önkormányzatnak megküldi.
 
@@ -20,4 +20,4 @@ eredménytelenné válását követő 30 napon belül alkalmazza.
 
 (7) Amennyiben a fővárosi és megyei kormányhivatal elmulasztja a törvényességi felügyeleti eszköz határidőben történő alkalmazását, ismételten törvényességi felhívást bocsát ki.
 
-[^1]: A 2. § (2) bekezdése a 127/2013. (IV. 30.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
+[^1]: A 2. § (2) bekezdése a 492/2013. (XII. 18.) Korm. rendelet 2. §-ával megállapított szöveg.

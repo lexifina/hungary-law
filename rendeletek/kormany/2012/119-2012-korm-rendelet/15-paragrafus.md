@@ -1,6 +1,6 @@
 ## 10. Törvényességi felügyeleti bírság megállapítása
 
-15. § (1)[^8] A törvényességi felügyeleti bírságot (a továbbiakban: bírság) a fővárosi és megyei kormányhivatal az Mhötv. 141. § (1) bekezdés a)–d) pontjaiban meghatározott kötelezettségszegések esetén – a 2. § (6) bekezdésében meghatározott időponttól eltérően – 45 napon belül határozattal szabja ki.
+15. § (1)[^11] A törvényességi felügyeleti bírságot (a továbbiakban: bírság) a fővárosi és megyei kormányhivatal az Mhötv. 141. § (1) bekezdés a)–d) pontjaiban meghatározott kötelezettségszegések esetén – a 2. § (6) bekezdésében meghatározott időponttól eltérően – 45 napon belül határozattal szabja ki.
 
 (2) A fővárosi és megyei kormányhivatal jogosult
 
@@ -14,7 +14,7 @@ a polgármester méltányossági kérelme alapján a bírságot a bírság legki
 
 (4) A bírságot ugyanazon kötelezettség ismételt megszegése esetén a fővárosi és megyei kormányhivatal nem szabhatja ki, ha az érintett a bírságot megállapító döntés bírósági felülvizsgálatát kérte.
 
-(5)[^9] Az Mhötv. 141. § (1) bekezdés e) pontja szerinti kötelezettségszegés esetén a bírság a törvényességi felhívással korábban jelzett jogszabályi kötelezettség ismételt megsértése esetén – külön törvényességi felhívás kibocsátása nélkül – szabható ki.
+(5)[^12] Az Mhötv. 141. § (1) bekezdés e) pontja szerinti kötelezettségszegés esetén a bírság a törvényességi felhívással korábban jelzett jogszabályi kötelezettség ismételt megsértése esetén – külön törvényességi felhívás kibocsátása nélkül – szabható ki.
 
-[^8]: A 15. § (1) bekezdése a 127/2013. (IV. 30.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^9]: A 15. § (5) bekezdését a 127/2013. (IV. 30.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^11]: A 15. § (1) bekezdése a 127/2013. (IV. 30.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^12]: A 15. § (5) bekezdését a 127/2013. (IV. 30.) Korm. rendelet 4. § (2) bekezdése iktatta be.
