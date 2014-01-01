@@ -1,3 +1,0 @@
-10. § (1) A Kormány az állami vagyon felügyeletéért felelős miniszter részére a 3. § (1) bekezdés szerint megküldött éves beszámolók alapján teljesíti a Vtv. 19. §-ának (3) bekezdése szerinti beszámolási kötelezettségét az Országgyűlés felé.
-
-(2) A tulajdonosi joggyakorló szervezetek rábízott állami vagyonról készített pénzügyi beszámolóit, éves beszámolóit a részvényesi jogok gyakorlója – a jóváhagyásra vonatkozó tulajdonosi döntést követően haladéktalanul –, a döntéshozatal során keletkezett dokumentumokkal együtt – a cégbírósági benyújtás szerinti tartalommal – megküldi az Állami Számvevőszéknek.
