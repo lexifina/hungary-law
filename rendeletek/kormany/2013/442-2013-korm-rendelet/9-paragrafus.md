@@ -1,14 +1,11 @@
-## 7–8. §[^4]
+## 8. § A Kjtvhr. 3. melléklete az 1. melléklet szerint módosul.
 
 ## 9. § Hatályát veszti a Kjtvhr.
 
-a)[^5]
+a) 6/A. § (1) bekezdés b) pontja
 
-b)–c)[^6]
+b)–c)[^4]
 
-d)[^7]
+d) 23. § (7) bekezdése.
 
-[^4]: A 7–8. § a 10. § (2) bekezdése alapján 2014. január 1-jén lép hatályba.
-[^5]: A 9. § a) pontja a 10. § (2) bekezdése alapján 2014. január 1-jén lép hatályba.
-[^6]: A 9. § b)–c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^7]: A 9. § d) pontja a 10. § (2) bekezdése alapján 2014. január 1-jén lép hatályba.
+[^4]: A 9. § b)–c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
