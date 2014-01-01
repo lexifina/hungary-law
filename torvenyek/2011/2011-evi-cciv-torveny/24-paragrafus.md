@@ -16,7 +16,7 @@
 
 (4) Az alkalmazottak foglalkoztatására költségvetési szervként működő felsőoktatási intézmény esetén a közalkalmazottak jogállásáról szóló törvényt, más felsőoktatási intézményekben a munka törvénykönyvét az e törvényben meghatározott eltérésekkel kell alkalmazni.
 
-(5) A felsőoktatásban az alkalmazás feltétele, hogy az alkalmazott büntetlen előéletű legyen és rendelkezzen az előírt végzettséggel és szakképzettséggel.
+(5) A felsőoktatásban az alkalmazás feltétele, hogy az alkalmazott büntetlen előéletű legyen, ne álljon a tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt, és rendelkezzen az előírt végzettséggel és szakképzettséggel.
 
 (6) A közalkalmazottak jogállásáról szóló törvény
 

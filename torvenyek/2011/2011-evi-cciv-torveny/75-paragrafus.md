@@ -14,7 +14,7 @@ b) hagyja jóvá a rektor munkaköri leírásának az oktatói, kutatói feladat
 
 a) a 12. § (3) bekezdés g) pontjában meghatározott egyetértési jogot az állami vagyon felügyeletéért felelős miniszter,
 
-b) a (2) bekezdésben a gazdasági vezető juttatásai, munkaköri leírása tekintetében meghatározott fenntartói döntési jogkört, a 73. § (3) bekezdés f) pontjában a gazdasági vezető, belső ellenőrzési vezető tekintetében meghatározott fenntartói döntési jogosultságot, valamint a – a 13. § (2) bekezdésétől eltérően – a gazdasági vezetővel kapcsolatos munkáltatói jogokat, a 37. § (5) bekezdésben foglaltak szerint, – a miniszter előzetes egyetértésével – az államháztartásért felelős miniszter
+b) a 13. § (2) bekezdésétől eltérően, a gazdasági vezetővel kapcsolatos munkáltatói jogokat a fenntartó önállóan, a 73. § (3) bekezdés f) pontjában a gazdasági vezető, belső ellenőrzési vezető tekintetében meghatározott fenntartói döntési jogot pedig az államháztartásért felelős miniszter előzetes egyetértésével a 37. § (5) bekezdésben foglaltak szerint
 
 gyakorolja.
 

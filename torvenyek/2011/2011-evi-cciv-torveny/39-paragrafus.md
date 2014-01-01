@@ -12,7 +12,7 @@
 
 a) a külön törvény szerint a szabad mozgás és tartózkodás jogával rendelkező személyeket,
 
-b) az a) pont hatálya alá nem tartozó, Magyarország területén élő menekültet, menedékest, befogadottat, bevándoroltat, letelepedettet,
+b) az a) pont hatálya alá nem tartozó, Magyarország területén élő hontalant, menekültet, menedékest, befogadottat, bevándoroltat, letelepedettet,
 
 c) nemzetközi megállapodás alapján a magyar állampolgárokkal azonos elbírálás alá eső külföldit,
 
@@ -22,7 +22,9 @@ e) a szomszédos államokban élő magyarokról szóló törvény (a továbbiakb
 
 f) a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben meghatározott – magát magyar nemzetiségűnek valló – harmadik országbeli állampolgárt, feltéve, hogy nem áll a kedvezménytörvény hatálya alatt és magyar állampolgársággal sem rendelkezik
 
-g) a magas szintű képzettséget igénylő munkavállalás és tartózkodás céljából kiállított engedéllyel (EU Kék Kártyával) rendelkező harmadik országbeli állampolgárt.
+g) a magas szintű képzettséget igénylő munkavállalás és tartózkodás céljából kiállított engedéllyel (EU Kék Kártyával) rendelkező harmadik országbeli állampolgárt,
+
+h) az összevont engedéllyel rendelkező harmadik országbeli állampolgárokat.
 
 (2) Az (1) bekezdésben nem említett személy tanulmányait kizárólag önköltséges formában folytathatja.
 

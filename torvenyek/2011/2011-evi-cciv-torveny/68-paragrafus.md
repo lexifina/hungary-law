@@ -16,4 +16,4 @@ d) külföldi felsőoktatási intézmények esetében ellenőrzésének eredmén
 
 (3) A magyarországi felsőoktatási intézmények által kötelezően használt, központilag kibocsátásra kerülő nyomtatványok előállítását és forgalomba hozatalát az oktatási hivatal engedélyezi. Az engedély a jogszabályi előírásoknak történő megfelelés hiányában tagadható meg.
 
-(4) A 67. §-ban és e § (1)–(3) bekezdésében szabályozott eljárásokra, hatósági ellenőrzésekre a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény rendelkezéseit kell alkalmazni.
+(4) A 67. §-ban és e § (1)–(3) bekezdésében szabályozott eljárásokra, hatósági ellenőrzésekre a Ket. rendelkezéseit kell alkalmazni.

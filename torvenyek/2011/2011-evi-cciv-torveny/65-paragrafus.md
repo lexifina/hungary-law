@@ -6,4 +6,4 @@
 
 (4) A miniszter a törvényességi ellenőrzés eredményeképpen felfüggesztheti a felsőoktatási intézmény vizsgaszervezési jogát, ha a (2) bekezdésében szabályozott felhívása nem vezetett eredményre. A felfüggesztéssel egyidejűleg kezdeményeznie kell a bíróságnál a fenntartó mulasztásának megállapítását. A miniszter döntésének ki kell terjednie az érintett hallgatók tanulmányainak folytatásával, vizsgáival kapcsolatos kérdésekre.
 
-(5) Az e §-ban meghatározott eljárásokra a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvényt kell megfelelően alkalmazni. Az eljárásban közreműködik az oktatási hivatal. A (3) és a (4) bekezdésben meghatározott bírósági ügyekben a Polgári perrendtartásról szóló 1952. évi III. törvény XX. fejezetét kell alkalmazni. A bíróság a soron kívül elbírált döntést megváltoztathatja.
+(5) Az e §-ban meghatározott eljárásokra a Ket.-et kell megfelelően alkalmazni. Az eljárásban közreműködik az oktatási hivatal. A (3) és a (4) bekezdésben meghatározott bírósági ügyekben a Polgári perrendtartásról szóló 1952. évi III. törvény XX. fejezetét kell alkalmazni. A bíróság a soron kívül elbírált döntést megváltoztathatja.

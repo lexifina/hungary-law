@@ -1,4 +1,4 @@
-114/D. § (1) E törvénynek a 2012. évi CCVIII. törvénnyel megállapított 85/A. § (1) bekezdése alapján a 2013. évben
+114/D. § (1) E törvénynek a 2012. évi CCVIII. törvénnyel megállapított 85/A. § (1) bekezdése alapján
 
 a) az egy főre megállapított hallgatói normatíva 119 000 Ft/év,
 

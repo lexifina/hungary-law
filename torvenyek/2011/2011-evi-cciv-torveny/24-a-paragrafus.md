@@ -1,0 +1,5 @@
+24/A. § (1) A 24. § (5) bekezdésében meghatározott, a büntetlen előéletre és a foglalkozástól eltiltás hiányára vonatkozó feltétellel összefüggésben a felsőoktatásban alkalmazottra – ha a jogviszonyával összefüggésben törvény eltérően nem rendelkezik – a (2) és (3) bekezdést kell alkalmazni.
+
+(2) Azt a tényt, hogy a felsőoktatásban alkalmazni kívánt személy vagy a felsőoktatásban alkalmazott az (1) bekezdésben meghatározott feltételnek megfelel, a felsőoktatásban alkalmazni kívánt személy vagy a felsőoktatásban alkalmazott hatósági bizonyítvánnyal igazolja.
+
+(3) A felsőoktatási intézmény az (1) bekezdés szerinti feltétel ellenőrzése céljából kezeli a felsőoktatásban a (2) bekezdés szerinti személy azon személyes adatait, amelyeket a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány tartalmaz. A megismert személyes adatokat a felsőoktatási intézmény az alkalmazás létesítésével összefüggésben meghozott döntés időpontjáig vagy – alkalmazás esetén – annak megszűnését vagy megszüntetését követő hatodik hónap végéig kezeli.

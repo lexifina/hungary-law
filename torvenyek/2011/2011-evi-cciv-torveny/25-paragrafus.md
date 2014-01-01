@@ -20,6 +20,8 @@ b) a megbízási jogviszony fennállása alatt a megbízott a rektornak – a mu
 
 haladéktalanul igazolja.
 
+(5a) Nem kell alkalmazni az (5) bekezdés a) pontja szerinti rendelkezést, ha a megbízási jogviszonyt megbízottként létesíteni kívánó személy az (5) bekezdés szerinti kizáró ok hiányát a felsőoktatási intézménnyel fennállt korábbi megbízási vagy foglalkoztatási jogviszonyára tekintettel már igazolta és a korábbi jogviszony megszűnése óta legfeljebb hat hónap telt el.
+
 (6) Ha a megbízott igazolja, hogy vele szemben nem áll fenn a (4) bekezdésben meghatározott kizáró ok, a felsőoktatási intézmény az igazolás céljából a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány kiadása iránti eljárásért megfizetett igazgatási szolgáltatási díjat a megbízott részére megtéríti.
 
 (7) A megbízási jogviszonyt a felsőoktatási intézmény azonnali hatállyal megszünteti, ha

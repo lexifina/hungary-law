@@ -1,6 +1,6 @@
 48/P. § (1) Amennyiben a magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szerv megállapítja, hogy a volt magyar állami (rész)ösztöndíjas hallgató visszatérítési kötelezettsége fennáll, erről határozatot hoz. A visszatérítendő állami ösztöndíj összegét a határozat jogerőre emelkedését követő harminc napon belül kell megfizetni (esedékesség).
 
-(2) A (1) bekezdésben meghatározott határozatnak – a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény által előírt kötelező tartalmi elemeken kívül – tartalmaznia kell
+(2) A (1) bekezdésben meghatározott határozatnak – a Ket. által előírt kötelező tartalmi elemeken kívül – tartalmaznia kell
 
 a) a visszatérítendő állami ösztöndíj összegét, annak kiszámítási módjával együtt,
 

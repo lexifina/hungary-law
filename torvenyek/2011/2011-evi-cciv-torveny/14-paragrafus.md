@@ -2,6 +2,6 @@
 
 (2) A felsőoktatási intézmény könyvtára, könyvtári rendszere szakirodalmi, információs, oktatási és kutatási feladatokat ellátó nyilvános tudományos közgyűjtemény, amely múzeumi, levéltári funkciót is elláthat. Az állami egyetemi könyvtárak ellátják a muzeális intézményekről, a nyilvános könyvtári ellátásról, és a közművelődésről szóló törvényben meghatározott nyilvános könyvtári, valamint szak- és felsőoktatási könyvtári feladatokat. Az egyetemi könyvtárak az országos Dokumentum-ellátási Rendszerből – jogszabályban meghatározottak szerint – támogatást kapnak.
 
-(3) A felsőoktatási intézmény szervezeti egységei centrummá, főiskolai, egyetemi központtá szervezhetők. Az állami felsőoktatási intézmény által fenntartott köznevelési intézmény a költségvetési szervek gazdálkodására vonatkozó szabályokat alkalmazó jogi személy.
+(3) A felsőoktatási intézmény nem oktatási szervezeti egységei intézményi központtá szervezhetők. Az állami felsőoktatási intézmény által fenntartott köznevelési intézmény a költségvetési szervek gazdálkodására vonatkozó szabályokat alkalmazó jogi személy.
 
 (4) A felsőoktatási intézményben – szervezeti és működési szabályzatában meghatározottak szerint – gazdasági tanács működtethető.
