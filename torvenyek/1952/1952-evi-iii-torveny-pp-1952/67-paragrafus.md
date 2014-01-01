@@ -28,7 +28,7 @@ g) az érdek-képviseleti célra alapított szervezet saját tagjának olyan per
 
 h) a szövetkezet ügyintézésre jogosult tagja vagy alkalmazottja a szövetkezet pereiben;
 
-i) a jogi személy és egyéb gazdálkodó szervezet (396. §) alkalmazottja munkáltatójának gazdasági tevékenységével kapcsolatos pereiben, a jogi személy és egyéb gazdálkodó szervezet jogtanácsosa (jogi előadója) pedig azokban a perekben is, amelyekben külön jogszabály a képviseletre feljogosítja;
+i) a jogi személy és egyéb gazdálkodó szervezet alkalmazottja munkáltatójának gazdasági tevékenységével kapcsolatos pereiben, a jogi személy és egyéb gazdálkodó szervezet jogtanácsosa (jogi előadója) pedig azokban a perekben is, amelyekben külön jogszabály a képviseletre feljogosítja;
 
 j) akit erre külön jogszabály feljogosít.
 

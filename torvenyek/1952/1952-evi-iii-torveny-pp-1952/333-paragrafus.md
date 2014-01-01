@@ -8,13 +8,13 @@ b) megállapítja a szülői felügyeleti jog feléledését,
 
 c) dönt a más szerv által alkalmazott ideiglenes hatályú elhelyezés megszüntetéséről vagy megváltoztatásáról,
 
-d) átmeneti nevelésbe veszi a gyermeket és egyidejűleg gyámot (hivatásos gyámot) rendel,
+d) nevelésbe veszi a gyermeket és egyidejűleg gyámot (hivatásos gyámot) rendel,
 
-e) tartós nevelésbe veszi a gyermeket és egyidejűleg gyámot (hivatásos gyámot) rendel,
+e)
 
 f) dönt átmeneti vagy tartós nevelésbe vett gyermek kapcsolattartásáról,
 
-g) dönt a gyermek átmeneti vagy tartós nevelésbe vételének megszüntetéséről,
+g) dönt a gyermek nevelésbe vételének megszüntetéséről,
 
 a bíróság a (3)–(5) bekezdésekben meghatározottak szerint soron kívül jár el.
 

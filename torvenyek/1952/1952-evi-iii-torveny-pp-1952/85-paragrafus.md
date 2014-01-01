@@ -1,6 +1,10 @@
 85. § (1) Az a fél, akinek eltartásáról szülője köteles gondoskodni, vagy aki házastársával együtt él, csak akkor részesíthető költségmentességben, ha annak előfeltételei mind őrá, mindpedig szülőjére, illetőleg házastársára nézve fennállnak. A fél és szülője, illetőleg házastársa között folyó perekre ez a szabály nem terjed ki.
 
-(2)
+(2) Ha a bíróság az eljárást megindító beadványt idézés kibocsátása – nemperes eljárás esetén érdemi vizsgálat – nélkül, hivatalból elutasítja,
+
+a) költségmentesség nem engedélyezhető, és
+
+b) a megfizetett mérsékelt illeték összege nem számítható be a 132. §-nak megfelelően ismételten benyújtott kérelem előterjesztésével keletkező eljárási illetékbe.
 
 (3) Nem részesíthető költségmentességben a fél, ha perlekedése rosszhiszeműnek vagy már előre teljesen eredménytelennek látszik, úgyszintén akkor sem, ha mint engedményes lép fel, és valószínűnek mutatkozik, hogy az engedményezés a költségmentes perlés lehetővé tételét célozta.
 

@@ -8,7 +8,7 @@ c) a külön törvényben meghatározott személyeket (pl. szabadalmi ügyvivő)
 
 (2) A 73/A. § alkalmazásában – ha törvény eltérően nem rendelkezik – jogi képviselőnek kell tekinteni továbbá:
 
-a) a természetes személy, jogi személy, jogi személyiség nélküli gazdasági társaság törvényes képviselőjét,
+a) a természetes személy, jogi személy törvényes képviselőjét,
 
 b) a 67. § (1) bekezdésének a), b), d), e) és h) pontjában meghatározottak szerint az ott megjelölt személyeket,
 

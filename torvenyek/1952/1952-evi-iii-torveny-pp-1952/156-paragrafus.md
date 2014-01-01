@@ -15,3 +15,11 @@
 (7) A teljesítési határidő – ha a bíróság másként nem rendelkezik – a végzés írásbeli közlését követő napon kezdődik.
 
 (8) A végzés előzetesen végrehajtható (231–232. §). A végzés mindaddig hatályban marad, amíg azt a bíróság a felek bármelyikének kérelmére – a másik fél meghallgatása (113. §) után – hozott végzésével vagy ítéletében hatályon kívül nem helyezi. Ha az elsőfokú bíróság az ideiglenes intézkedésről szóló határozatát ítéletében (permegszüntető végzésében) nem helyezte hatályon kívül, az elsőfokú ítélet (permegszüntető végzés) jogerőre emelkedésével az ideiglenes intézkedés a hatályát veszti.
+
+(9) A Be. 214. § (1a) bekezdése vagy 284. § (3) bekezdése alapján a bíróságnak megküldött polgári jogi igény esetén az ideiglenes intézkedés elbírálása során az (1)–(8) bekezdés szabályait kell alkalmazni azzal az eltéréssel, hogy
+
+a) az ideiglenes intézkedés elrendelése nem köthető biztosítékadáshoz, és
+
+b) a bíróság az ideiglenes intézkedés elrendelésére vonatkozó végzését – hivatalból – maga is egváltoztathatja abban az esetben is, ha a nyomozást vagy a büntetőeljárást jogerősen megszüntették, vagy a terheltet a vád alól jogerősen felmentették, továbbá
+
+c) az ideiglenes intézkedés hatályon kívül helyezése vagy hatályvesztése esetén rendelkezni kell az ideiglenes intézkedést megelőző birtokállapot helyreállításáról, ha az ítélet eltérően nem rendelkezik.

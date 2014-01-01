@@ -56,7 +56,7 @@ l) a Magyarország címerének és zászlajának használatáról, valamint áll
 
 m) a külföldre utazásról szóló törvény,
 
-n) a tankönyvpiac rendjéről szóló törvény,
+n) a nemzeti köznevelés tankönyvellátásáról szóló törvény,
 
 o) a szomszédos államokban élő magyarokról szóló törvény,
 

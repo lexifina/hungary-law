@@ -12,7 +12,7 @@
 
 (6) Ha a külföldi félnek a per vitelére magyarországi lakóhellyel vagy székhellyel rendelkező meghatalmazottja van, a 97. § második mondatában foglalt korlátozás nem alkalmazható. A felet vagy törvényes képviselőjét személyes megjelenésére kötelező idézés tekintetében a meghatalmazott eljárására és a kézbesítésre a (8) bekezdést kell megfelelően alkalmazni.
 
-(7) A kézbesítési megbízott magyarországi lakóhellyel, illetve székhellyel rendelkező természetes vagy jogi személy (jogi személyiséggel nem rendelkező gazdasági társaság), így különösen ügyvéd (ügyvédi iroda) lehet.
+(7) A kézbesítési megbízott magyarországi lakóhellyel, illetve székhellyel rendelkező természetes vagy jogi személy, így különösen ügyvéd (ügyvédi iroda) lehet.
 
 (8) A kézbesítési megbízott feladata, hogy az eljárásban keletkezett, a megbízó részére kézbesítendő iratokat átvegye, és azokat a megbízó részére továbbítsa; e tevékenységért a megbízóval szemben a polgári jog szabályai szerint felelős. A fél részére szóló, a kézbesítési megbízottnak szabályszerűen kézbesített iratot úgy kell tekinteni, hogy az a kézbesítést követő tizenötödik napon a fél számára ismertté vált.
 

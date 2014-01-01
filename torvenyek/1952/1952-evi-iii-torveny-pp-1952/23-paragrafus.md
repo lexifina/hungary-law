@@ -4,7 +4,7 @@ a) azok a vagyonjogi perek, amelyek tárgyának értéke a harmincmillió forint
 
 b) azok a perek, amelyeket a közigazgatási jogkörben eljáró személyek által hivatalos eljárásukban okozott károk megtérítése iránt indítanak;
 
-c) a szerzői és a szomszédos jogi perek – ideértve a közös jogkezelés körébe tartozó jogok és díjigények érvényesítése iránt indított pereket is –, valamint az iparjogvédelmi perek és a Ptk. 86. § (3)–(4) bekezdésében meghatározott jogokkal kapcsolatos perek;
+c) a szerzői és a szomszédos jogi perek – ideértve a közös jogkezelés körébe tartozó jogok és díjigények érvényesítése iránt indított pereket is –, valamint az iparjogvédelmi perek;
 
 d) a nemzetközi árufuvarozási vagy szállítmányozási szerződéssel kapcsolatos perek;
 
@@ -36,11 +36,11 @@ i)
 
 j) a sajtóhelyreigazítási perek (XXI. fejezet);
 
-k) a tisztességtelen szerződési feltételek érvénytelensége tárgyában [Ptk. 209/A. § (1) és (2) bek., 209/B. §, 301/A. § (4)–(6) bek.] indított perek;
+k) a tisztességtelen szerződési feltételek érvénytelensége tárgyában indított perek;
 
 l) azok a megállapításra irányuló (123. §) perek, amelyek esetében a per tárgyának értéke – ha a marasztalás kérhető lenne – meghaladná az a) pontban meghatározott értéket;
 
-m) a 2. § (3) bekezdésében meghatározott kártérítési perek;
+m) a 2. § (3) bekezdésében meghatározott perek;
 
 n) az egészségügyi szolgáltatókkal kötött finanszírozási szerződésből eredő perek;
 

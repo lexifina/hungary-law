@@ -35,3 +35,7 @@ g) – ha a beadványnak másik bíróságon előzménye van és a beadvány ada
 (7) A fél az iratot az iratra mutató internetes hivatkozás megnyitásával veheti át. Az internetes hivatkozás megnyitásával elektronikus tértivevény jön létre, amely automatikusan megküldésre kerül a bíróság és a fél részére; az elektronikus tértivevény igazolja, hogy az iratot átvették. Az internetes hivatkozás megnyitását megelőzően a kézbesítési rendszer útján a fél számára megismerhetővé kell tenni legalább a bíróság nevét, a bírósági irat érkezésének időpontját, és az ügy számát.
 
 (8) Ha a fél a bíróság által megküldött bírósági iratot az elektronikus kézbesítési tárhelyén történő elhelyezését követő ötödik munkanapon sem veszi át, akkor a bírósági iratot az ezt követő munkanapon kézbesítettnek kell tekinteni (kézbesítési vélelem). Ha a kézbesítési vélelem beállta megállapításának van helye, a bíróság és a fél a kézbesítési rendszer útján automatikus tájékoztatást kap.
+
+(9) Ha az iratot azért nem lehetett kézbesíteni, mert a fél vagy képviselője a kézbesítési rendszer azon szolgáltatását megszüntette, melyen keresztül a részére a bírósági iratok kézbesítésre kerülhetnek, a felet vagy képviselőjét a bíróság pénzbírsággal (120. §) sújtja és a bírósági iratot papír alapon kézbesíti.
+
+(10) A kézbesítésre a 99. § (5) bekezdését nem lehet alkalmazni.

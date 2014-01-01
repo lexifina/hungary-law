@@ -6,4 +6,8 @@
 
 (4) A 6. §-ban meghatározott esetekben alkalmazott tolmács költségeit az állam előlegezi, illetve viseli.
 
+(4a) A 6. §-ban meghatározott esetekben felmerülő fordítások költségét az anyanyelvének, regionális vagy nemzetiségi nyelvének használatára jogosult fél helyett az állam előlegezi, míg annak viselésére – a (4b) bekezdésben meghatározott kivétellel – a perköltségviselés általános szabályai az irányadóak.
+
+(4b) A 6. §-ban meghatározott esetekben a bírósági határozatok és megkeresések fordításával felmerülő költségeket az állam viseli.
+
 (5) A feleket nem lehet kötelezni olyan költségek viselésére, amelyek a bíróság érdekkörében felmerült – egyébként elhárítható – ok következtében keletkeztek. Ezeket a költségeket – külön jogszabályban meghatározott módon – az állam viseli.

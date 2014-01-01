@@ -43,3 +43,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1952-3-00-00
 | 2013-08-01 | 2013. évi CXXXI. törvény | 1952-3-00-00.109 |
 | 2013-09-01 | 2013. évi XXXIV. törvény | 1952-3-00-00.110 |
 | 2013-12-31 | 2013. évi CCXLIII. törvény | 1952-3-00-00.111 |
+| 2014-01-01 | 2013. évi CCLII. törvény | 1952-3-00-00.112 |

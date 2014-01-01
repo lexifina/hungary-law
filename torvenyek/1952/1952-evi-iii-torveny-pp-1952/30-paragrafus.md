@@ -2,6 +2,6 @@
 
 (2) Ha a jogi személynek belföldön nincs székhelye, belföldi jogi személy felperes által indított perben az illetékességet a felperes jogi személynek a székhelye alapítja meg. Ha a felperes belföldi természetes személy, a bíróság illetékességét a felperes lakóhelye, illetve ennek hiányában a tartózkodási helye is megalapítja.
 
-(3) A jogi személyiséggel nem rendelkező gazdasági társaságok elleni perekben a bíróság illetékességének megállapítására az (1) és (2) bekezdések rendelkezéseit kell megfelelően alkalmazni.
+(3)
 
-(4) Ha a (3) bekezdés hatálya alá nem tartozó jogi személyiséggel nem rendelkező szervezetet törvény jogképesnek nyilvánít, az e szervezet elleni perben a bíróság illetékességének megállapítására az (1) és (2) bekezdésben foglalt rendelkezések megfelelően irányadóak.
+(4) Ha jogi személyiséggel nem rendelkező szervezetet törvény jogképesnek nyilvánít, az e szervezet elleni perben a bíróság illetékességének megállapítására az (1) és (2) bekezdésben foglalt rendelkezések megfelelően irányadóak.

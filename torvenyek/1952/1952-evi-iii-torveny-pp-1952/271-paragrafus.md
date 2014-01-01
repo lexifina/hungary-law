@@ -12,7 +12,7 @@ e) ha a határozatot a Kúria hozta;
 
 f) a házasságot érvénytelenítő vagy felbontó ítélet ellen az érvénytelenítés vagy a felbontás kérdésében;
 
-g) az apaság vélelmét megdöntő ítélet ellen – az apaság vélelmét megdöntő részében –, ha az apaság vélelmének megdöntését követően a gyermeket valamely személy teljes hatályú apai elismeréssel a magáénak ismerte el, vagy az apaságot jogerős bírói ítélet állapította meg, illetve ha a gyermek anyjának utólagos házasságkötése folytán az anya férjét kell a gyermek apjának tekinteni;
+g) az apaság vélelmét megdöntő ítélet ellen – az apaság vélelmét megdöntő részében –, ha az apaság vélelmének megdöntését követően a gyermeket valamely személy teljes hatályú apai elismeréssel a magáénak ismerte el, vagy az apaságot jogerős bírói ítélet állapította meg;
 
 h) az egyezséget jóváhagyó végzés ellen;
 
