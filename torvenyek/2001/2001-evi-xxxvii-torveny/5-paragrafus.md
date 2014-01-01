@@ -1,1 +1,0 @@
-5. § A tankönyvvé nyilvánítás és a tankönyvjegyzék elkészítésének költségei a kérelem benyújtóját terhelik, melyet az oktatásért felelős miniszter által – az adópolitikáért felelős miniszterrel egyetértésben – meghatározott igazgatási szolgáltatási díj befizetésével kell megfizetni.
