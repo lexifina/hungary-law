@@ -1,0 +1,5 @@
+92. § (1) Nem rendelhető el a túlszolgálat az állomány azon tagja részére, akit a teljesítendő túlszolgálatért távolléti díj illetne meg, azonban a túlszolgálat pénzbeli ellentételezéséhez szükséges fedezet a honvédelmi szervezet meglévő túlszolgálati díjkerete terhére nem biztosított.
+
+(2) A honvédelmi szervezet részére rendelkezésre álló túlszolgálati díjkeretet a Honvédség központi pénzügyi és számviteli feladatokat ellátó szervezete biztosítja, amelynek felhasználásáról a honvédelmi szervezetnél részletes nyilvántartást kell vezetni.
+
+(3) A Hjt. 104. § (7) bekezdése szerinti nyilvántartásban a túlszolgálatot teljesítő személy nevét, rendfokozatát, személyügyi törzsszámát, az általa teljesített túlszolgálat időpontját és óraszámát, az ellentételezés formáját, mértékét és kiadásának vagy kifizetésének időpontját is fel kell tüntetni. A nyilvántartást az állomány tagja munkaköri leírásában rögzített szolgálati rend alapján irányadó szolgálatteljesítési idő és a szolgálatteljesítési helyre való beérkezés és az onnan történő eltávozás időpontjáról egyénenként vezetett napi munkaidő-nyilvántartásban foglaltak alapján kell vezetni.
