@@ -10,15 +10,15 @@
 
 a)[^5] jövedékiadó-bevallási kötelezettség esetén
 
-aa)[^6] a Jöt. 48/B. § (1) bekezdés a)–b) pontja szerinti esetben az első adóbevallás benyújtása hónapjának 3. munkanapjáig, illetve az eseti bejegyzett kereskedő és a Jöt. 27. § szerinti adóalany esetében az adófizetési kötelezettség, a 28. § szerinti adó-visszaigénylő esetében az adó-visszaigénylési jogosultság keletkezésének napjáig,
+aa)[^6] a Jöt. 48/B. § (1) bekezdés a)–c) pontja szerinti esetben az első adóbevallás benyújtása hónapjának 3. munkanapjáig, illetve az eseti bejegyzett kereskedő és a Jöt. 27. § szerinti adóalany esetében az adófizetési kötelezettség, a 28. § szerinti adó-visszaigénylő esetében az adó-visszaigénylési jogosultság keletkezésének napjáig,
 
-ab) a Jöt. 48/B. § (1) bekezdés c) pontja szerinti esetben az első esetben elektronikus úton teljesíteni kívánt adóbevallási kötelezettség alapját képező adóbevallási időszakot követő hónap 5. munkanapjáig
+ab)[^7] a Jöt. 48/B. § (1) bekezdés d) pontja szerinti esetben az első esetben elektronikus úton teljesíteni kívánt adóbevallási kötelezettség alapját képező adóbevallási időszakot követő hónap 5. munkanapjáig
 
-b)[^7]
+b)[^8]
 
 c) adatszolgáltatás esetén az első, elektronikus úton történő teljesítést megelőzően, az adatszolgáltatás teljesítésére a jogszabályban előírt időpontot megelőző 3. munkanapig,
 
-d)[^8] zárjegy- vagy adójegymegrendelés esetén az annak benyújtására jogszabályban meghatározott időpontot megelőző 3. munkanapig
+d)[^9] zárjegy- vagy adójegymegrendelés esetén az annak benyújtására jogszabályban meghatározott időpontot megelőző 3. munkanapig
 
 ## kell megtennie.
 
@@ -28,6 +28,7 @@ d)[^8] zárjegy- vagy adójegymegrendelés esetén az annak benyújtására jogs
 
 [^4]: A 3. § (1) bekezdése e rendelet 10. § (3) bekezdése, továbbá a 17/2009. (IX. 29.) PM rendelet 28. § (2) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.
 [^5]: A 3. § (3) bekezdés a) pontja a 17/2009. (IX. 29.) PM rendelet 27. §-ával megállapított szöveg. E módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.
-[^6]: A 3. § (3) bekezdés a) pont aa) alpontja a 44/2009. (XII. 29.) PM rendelet 47. § (2) bekezdése szerint módosított szöveg.
-[^7]: A 3. § (3) bekezdés b) pontját a 47/2013. (XI. 7.) NGM rendelet 31. § 3. pontja hatályon kívül helyezte.
-[^8]: A 3. § (3) bekezdés d) pontja a 44/2009. (XII. 29.) PM rendelet 43. §-ával megállapított szöveg.
+[^6]: A 3. § (3) bekezdés a) pont aa) alpontja a 44/2009. (XII. 29.) PM rendelet 47. § (2) bekezdése, a 76/2013. (XII. 31.) NGM rendelet 24. § 1. pontja szerint módosított szöveg.
+[^7]: A 3. § (3) bekezdés a) pont ab) alpontja a 76/2013. (XII. 31.) NGM rendelet 24. § 2. pontja szerint módosított szöveg.
+[^8]: A 3. § (3) bekezdés b) pontját a 47/2013. (XI. 7.) NGM rendelet 31. § 3. pontja hatályon kívül helyezte.
+[^9]: A 3. § (3) bekezdés d) pontja a 44/2009. (XII. 29.) PM rendelet 43. §-ával megállapított szöveg.
