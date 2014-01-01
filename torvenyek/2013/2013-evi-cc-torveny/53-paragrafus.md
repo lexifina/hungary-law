@@ -1,0 +1,9 @@
+53. § A Katv. a következő 32. §-sal egészül ki:
+
+„32. § (1) E törvénynek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2013. évi CC. törvénnyel megállapított, illetve módosított rendelkezéseit a hatálybalépésük napjától megszerzett jövedelemre és keletkezett adókötelezettségre kell alkalmazni a (2)–(3) bekezdésben foglaltak figyelembevételével.
+
+(2) E törvénynek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2013. évi CC. törvénnyel megállapított 4. § (2) bekezdését az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2013. évi CC. törvény hatálybalépésekor folyamatban lévő ügyekre is alkalmazni kell.
+
+(3) E törvénynek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2013. évi CC. törvénnyel megállapított 13. §, 20. § (1), (2) bekezdés, (4) bekezdés h) pont, (5) bekezdés f) pont, g) pont, h) pont, (6) bekezdés f) pont, (13) bekezdés c) pont, 26. § (2) bekezdés és 28/A. § rendelkezését a 2013. adóévre vonatkozóan is alkalmazni kell.
+
+(4) E törvénynek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2013. évi CC. törvénnyel megállapított 23. § (5) bekezdés rendelkezését a 2013. adóévre az adózó választása szerint alkalmazza.”

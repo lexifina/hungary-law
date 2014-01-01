@@ -1,0 +1,7 @@
+74. § (1) A Jöt. 110. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A nem jövedéki engedélyes kereskedő dohánygyártmány beszerzésekor a Dohánytörvény szerinti dohánytermék-kiskereskedelmi engedélyét vagy a dohánytermékek kiskereskedelmére vonatkozó jogosultságát igazoló okiratot (kijelölési okirat), egyéb jövedéki termék beszerzésekor – ideértve a Dohánytörvény hatálya alá nem tartozó területen létesített, dohánygyártmányt forgalmazó üzletek üzemeltetői által végzett dohánygyártmány beszerzését is – a működési engedélyét vagy a működési engedélyről szóló igazolást, illetve a Kertv. szerinti bejelentésről kapott igazolást vagy ezek másolatát az eladó kérésére köteles bemutatni.”
+
+(2) A Jöt. 110. §-a a következő (7a) bekezdéssel egészül ki:
+
+„(7a) A (7) bekezdésben foglaltaktól eltérően a vendéglátó-ipari üzlet, kereskedelmi szálláshely által, – a kereskedelmi tevékenységek végzésének feltételeiről szóló kormányrendeletben meghatározott – alkalmi rendezvényen végzett értékesítés során megmaradt 2 liter alatti kiszerelésű alkoholtermékből és borból választékonként legfeljebb öt-öt, a 2 literes vagy annál nagyobb kiszerelésből pedig választékonként legfeljebb egy-egy bontott palackot, kannát, hordót lehet tartani az üzlethelyiség elkülönített részében. A nem jövedéki engedélyes kereskedő az adópolitikáért felelős miniszter rendeletében meghatározott tartalmú nyilvántartást vezet az alkalmi rendezvényen értékesítés során visszamaradt, az üzlethelyiség elkülönített részében tartott bontott alkoholtermékről és borról.”

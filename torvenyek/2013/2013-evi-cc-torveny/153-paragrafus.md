@@ -1,0 +1,3 @@
+153. § Az Art. 24. § (7) bekezdése helyébe a következő rendelkezés lép:
+
+„(7) Az adózó – kivéve a 4. számú melléklet szerinti, adóazonosító számmal nem rendelkező külföldi illetőségű magánszemélyt – költségvetési támogatást csak akkor igényelhet, a túlfizetés kiutalását csak akkor kérheti, ha rendelkezik adóazonosító számmal, illetve – ha e törvény, illetve törvény vagy törvény felhatalmazása alapján jogszabály eltérően nem rendelkezik – adó-visszaigénylést, adó-visszatérítést csak a bejelentkezési, bejelentési kötelezettség teljesítését követően és olyan időszakra érvényesíthet, amely időszakra vonatkozóan adóazonosító számmal rendelkezett.”

@@ -1,0 +1,3 @@
+163. § Az Art. 92. § (6) bekezdése helyébe a következő rendelkezés lép:
+
+„(6) Felszámolás esetén a tevékenységet lezáró adóbevallások, a felszámolást lezáró adóbevallások, a tevékenységet lezáró adóbevallások és a felszámolást lezáró bevallások közötti időszakról benyújtott bevallás(ok) utólagos ellenőrzését, valamint a tevékenységet lezáró adóbevallások időszakait megelőző időszak utólagos ellenőrzését a felszámolást lezáró adóbevallások kézhezvételétől, a felszámolást lezáró adóbevallások eltérő időpontban történő benyújtása esetén az egyes adókötelezettségekről szóló bevallás kézhezvételétől számított 60 napon belül, egyszerűsített felszámolás esetén 45 napon belül kell befejezni.”

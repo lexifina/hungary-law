@@ -1,1 +1,5 @@
-267. §
+267. § A Ktdt. a következő 3/A. §-sal egészül ki:
+
+„3/A. § (1) Az újrahasználható csomagolószerek első belföldi bérbeadójának az újrahasználható csomagolószer termékdíját az első saját célú felhasználás során – ide nem értve a hulladékká válást – nem kell megfizetni, ha a csomagolószer belföldi tulajdonosa vagy külföldi tulajdonos esetén első belföldi bérbeadója, az e törvény végrehajtására kiadott kormányrendeletben meghatározott, a környezetvédelmi hatóság által kiadott engedéllyel rendelkezik, amely tanúsítja, hogy olyan bérleti rendszert üzemeltet, amelyből a csomagolószerek belföldi felhasználása nyomon követhető.
+
+(2) Az e törvényben és a végrehajtásáról kiadott kormányrendeletben meghatározott bérleti rendszer szabályainak megtartását a környezetvédelmi hatóság és az állami adó- és vámhatóság a közreműködőknél ellenőrizheti.”

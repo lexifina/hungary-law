@@ -1,1 +1,3 @@
-27–29. §
+27. § A Tao. törvény 17. § (7) bekezdése helyébe a következő rendelkezés lép:
+
+„(7) Átalakulás esetén a jogutód a jogelődnél keletkezett elhatárolt veszteségnek a jogelőd vagyonából a vagyonmérleg szerinti részesedése arányában számított, az adózás előtti eredmény csökkentéseként még el nem számolt részére, valamint kedvezményezett eszközátruházás esetén az átvevő társaság az átruházó társaságnál keletkezett, az önálló szervezeti egységnek betudható elhatárolt veszteségre – a jogelődnél, illetve az átruházó társaságnál eltelt időt is beszámítva – az (1)–(3) bekezdés rendelkezéseit a (8) bekezdésre figyelemmel alkalmazza. Ez a rész kiválás esetén a jogelőd, kedvezményezett eszközátruházás esetén az átruházó társaság elhatárolt veszteségét csökkenti. A jogutód a jogelődnek a beolvadás adóévében keletkezett negatív adóalapjával első alkalommal a beolvadás napját magában foglaló adóévének adózás előtti eredményét csökkentheti.”

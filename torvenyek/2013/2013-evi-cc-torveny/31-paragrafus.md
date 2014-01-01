@@ -1,1 +1,9 @@
-31. §
+31. § A Tao. törvény a következő 29/V. §-sal egészül ki:
+
+„29/V. § (1) E törvénynek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2013. évi CC. törvénnyel megállapított 17. § (7) bekezdését az adózó a 2013. adóévi adókötelezettségének megállapítása során választása szerint alkalmazza.
+
+(2) E törvénynek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2013. évi CC. törvénnyel megállapított 22/C. § (1) bekezdés a) pont af) alpontját első ízben a 2011. adóévi adókötelezettségre lehet alkalmazni.
+
+(3) E törvénynek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2013. évi CC. törvénnyel megállapított 22. § (1), (3) és (4) bekezdését, (6)–(8) bekezdését, 22/C. § (3) bekezdés a) pontját, (3a), (3c) és (4a) bekezdését, a 3. számú melléklet A) rész 12. pontját a 2013. december 31-ét követően nyújtott támogatásra (juttatásra) kell alkalmazni.
+
+(4) E törvénynek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2013. évi CC. törvénnyel megállapított 22/C. § (2) bekezdését a hatálybalépése napját követően nyújtott támogatásra (juttatásra) kell alkalmazni.”

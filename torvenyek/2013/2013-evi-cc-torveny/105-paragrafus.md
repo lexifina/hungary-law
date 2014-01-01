@@ -1,1 +1,5 @@
-105–107. §
+105. § Az Áfa tv. a következő 286. §-sal egészül ki:
+
+„286. § (1) E törvénynek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2013. évi CC. törvénnyel megállapított 135. § (5) bekezdését abban az esetben kell először alkalmazni, amikor a vagyoni értékű jog adóalany általi szerzése 2014. január 1. napján vagy azt követően történt meg.
+
+(2) Az adóalany dönthet úgy is, hogy a 2014. január 1. napját megelőzően szerzett vagyoni értékű jogra is az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2013. évi CC. törvénnyel megállapított 135. § (5) bekezdését alkalmazza. Az adóalany köteles ezen döntését adónyilvántartásában megfelelően rögzíteni. Ilyen esetben az önellenőrzés pótlékmentesen végezhető el.”

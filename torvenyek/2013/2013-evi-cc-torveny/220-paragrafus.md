@@ -1,1 +1,3 @@
-220. §
+220. § Az Szt. 20. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) A (3) bekezdésben foglaltakon túlmenően, bármely vállalkozó euróban vagy USA dollárban készítheti el éves beszámolóját, ha erre vonatkozó döntését a számviteli politikájában az üzleti év első napját megelőzően rögzítette és a létesítő okirata szerinti devizaként az eurót, illetve az USA dollárt jelölte meg. A vállalkozó – az (5) bekezdésben foglaltak alkalmazását kivéve – e döntését legkorábban a döntést követő ötödik üzleti évre vonatkozóan változtathatja meg, amennyiben a számviteli politikáját és a létesítő okiratát ennek megfelelően módosítja.”

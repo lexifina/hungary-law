@@ -1,0 +1,5 @@
+152. § Az Art. 20/B. §-a helyébe a következő rendelkezés lép:
+
+„20/B. § (1) Az általános forgalmi adóról szóló törvény szerinti adómentes termékimportot megalapozó közösségi adómentes termékértékesítést közvetett vámjogi képviselő igénybevételével teljesítő importáló mentesül a bejelentkezési kötelezettség teljesítése alól, ha belföldön más adóköteles tevékenységet nem folytat.
+
+(2) Az általános forgalmi adóról szóló törvény szerint belföldön nem letelepedett, illetve belföldön letelepedésre nem kötelezett adóalany mentesül a bejelentkezési kötelezettség teljesítése alól abban az esetben, ha belföldön kizárólag az általános forgalmi adóról szóló törvény szerinti adóraktározási eljárás hatálya alatt álló terméket értékesít, feltéve, hogy a termék az értékesítés közvetlen következményeként nem kerül ki ezen eljárás hatálya alól, vagy a terméket a vámhatóság a Közösség területén kívülre kilépteti.”
