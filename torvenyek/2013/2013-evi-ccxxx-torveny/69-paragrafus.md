@@ -1,1 +1,3 @@
-69–75. §
+69. § (1) A Paksi Atomerőmű Zrt. 2014. évi befizetési kötelezettsége a Központi Nukleáris Pénzügyi Alapba 21 294,1 millió forint, amelyet havonta egyenlő részletekben köteles átutalni az Alap számlájára.
+
+(2) A XXXIII. Magyar Tudományos Akadémia fejezet, 3. MTA kutatóközpontok, kutatóintézetek címen az MTA Energiatudományi Kutatóközpontban a kutatások során keletkezett kiégett üzemanyag és radioaktív hulladék kezelésének költségére a központi költségvetés 450,0 millió forint költségvetési támogatást biztosít, melyet az MTA Energiatudományi Kutatóközpont az atomenergiáról szóló 1996. évi CXVI. törvény 63. § (4) bekezdése szerinti engedélyesként köteles a Központi Nukleáris Pénzügyi Alapba befizetni a feladatot teljesítő harmadik féllel kötött szerződésben meghatározott fizetési határidőt megelőzően.

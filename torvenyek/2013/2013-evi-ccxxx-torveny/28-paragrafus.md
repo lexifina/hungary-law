@@ -1,0 +1,1 @@
+28. § A helyi önkormányzatokért felelős miniszter az általa üzemeltetett elektronikus rendszeren keresztül 2014. január 5-éig a települési önkormányzatok számára elérhetővé teszi a települési önkormányzatokat a 2. melléklet – I. pont 2. és 3. alpont, III. pont 1. alpont, IV. pont szerinti támogatások kivételével – alapján megillető támogatások összegét.
