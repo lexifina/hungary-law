@@ -18,9 +18,13 @@
 
 8. vízügyi igazgatóságok,
 
-9. Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség,
+9.[^1] Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség,
 
-10. környezetvédelmi, természetvédelmi és vízügyi felügyelőségek,
+9a.[^2] Országos Vízügyi Hatóság,
+
+10.[^3] környezetvédelmi és természetvédelmi felügyelőségek,
+
+10a.[^4] területi vízügyi hatóságok,
 
 11. nemzeti park igazgatóságok,
 
@@ -57,3 +61,8 @@
 27. médiatartalom-szolgáltatók,
 
 28. távközlési szolgáltatók (vezetékes telefon, mobiltelefon, internet).
+
+[^1]: Az 1. melléklet 9. pontja az 527/2013. (XII. 30.) Korm. rendelet 153. §-ával megállapított szöveg.
+[^2]: Az 1. melléklet 9a. pontját az 527/2013. (XII. 30.) Korm. rendelet 153. §-a iktatta be.
+[^3]: Az 1. melléklet 10. pontja az 527/2013. (XII. 30.) Korm. rendelet 153. §-ával megállapított szöveg.
+[^4]: Az 1. melléklet 10a. pontját az 527/2013. (XII. 30.) Korm. rendelet 153. §-a iktatta be.
