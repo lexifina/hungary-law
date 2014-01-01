@@ -1,7 +1,7 @@
-69. §[^38] (1)[^39]
+69. §[^40] (1)[^41]
 
-(2)[^40]
+(2)[^42]
 
-[^38]: A 69. §-t megelőző alcím a 69. § (2) bekezdése alapján hatályát vesztette.
-[^39]: A 69. § (1) bekezdése a (2) bekezdés alapján hatályát vesztette.
-[^40]: A 69. § (2) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
+[^40]: A 69. §-t megelőző alcím a 69. § (2) bekezdése alapján hatályát vesztette.
+[^41]: A 69. § (1) bekezdése a (2) bekezdés alapján hatályát vesztette.
+[^42]: A 69. § (2) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
