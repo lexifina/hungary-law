@@ -14,11 +14,11 @@
 
 ## 2. Létesítménybiztosítási intézkedés céljából kijelölt létesítmények és értékek
 
-## 1.[^87] A Miniszterelnökség Markó utcai és Nagysándor József utcai épületei
+## 1.[^87] A Miniszterelnökség Markó utcai, Nagysándor József utcai és Wesselényi utcai épületei
 
 ## 2. A Sándor-palota épülete
 
-## 3.[^88] A Nemzeti Fejlesztési Ügynökség központi épülete
+## 3.[^88]
 
 ## 4. Az Alkotmánybíróság épülete
 
@@ -181,8 +181,8 @@
 [^84]: Az 1. melléklet 1. pont 2. alpontját a 102/2012. (V. 18.) Korm. rendelet 9. § (1) bekezdése hatályon kívül helyezte.
 [^85]: Az 1. melléklet 1. pont 5. alpontja a 314/2011. (XII. 23.) Korm. rendelet 5. § (2) bekezdés c) pontja szerint módosított szöveg.
 [^86]: Az 1. melléklet 1. pont 6. alpontját a 376/2011. (XII. 31.) Korm. rendelet 10. §-a iktatta be.
-[^87]: Az 1. melléklet 2. pont 1. alpontját a 102/2012. (V. 18.) Korm. rendelet 9. § (1) bekezdése hatályon kívül helyezte, újonnan a 304/2013. (VII. 31.) Korm. rendelet 2. §-a iktatta be.
-[^88]: Az 1. melléklet 2. pont 3. alpontját a 102/2012. (V. 18.) Korm. rendelet 9. § (1) bekezdése hatályon kívül helyezte, újonnan a 330/2013. (IX. 5.) Korm. rendelet 1. §-a iktatta be.
+[^87]: Az 1. melléklet 2. pont 1. alpontját a 102/2012. (V. 18.) Korm. rendelet 9. § (1) bekezdése hatályon kívül helyezte, újonnan a 304/2013. (VII. 31.) Korm. rendelet 2. §-a iktatta be, szövege az 550/2013. (XII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^88]: Az 1. melléklet 2. pont 3. alpontját az 550/2013. (XII. 30.) Korm. rendelet 1. §-a hatályon kívül helyezte.
 [^89]: Az 1. melléklet 2. pont 5. alpontja a 314/2011. (XII. 23.) Korm. rendelet 5. § (2) bekezdés c) pontja szerint módosított szöveg.
 [^90]: Az 1. melléklet 2. pont 7. alpontja a 232/2010. (VIII. 19.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
 [^91]: Az 1. melléklet 2. pont 9. alpontja a 232/2010. (VIII. 19.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
