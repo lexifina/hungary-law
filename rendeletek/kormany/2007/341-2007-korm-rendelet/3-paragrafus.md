@@ -10,15 +10,16 @@ c) az 1. § (1) bekezdés c) pontja szerinti mezőgazdasági termelő vonatkozá
 
 (2) A földművelésügyi hatóság és a vízügyi hatóság a mezőgazdasági munka elvégzésének igazolása céljából a mezőgazdaságilag meg nem munkált termőföldterületekről, halastóterületekről nyilvántartást vezet, amely nyilvántartásból szolgáltatja az (1) bekezdés a) és c) pontja szerinti információkat a vámhatóság részére. Amennyiben a nyilvántartás nem tartalmazza a vámhatóság megkeresésével érintett termőföldterületet vagy annak egy részét, úgy a nyilvántartásban nem szereplő termőföldterületet a jövedékiadó-visszatérítés szempontjából megmunkáltnak kell tekinteni, kivéve, ha ennek ellenkezője hitelt érdemlően a hatóság tudomására jutott.
 
-(3)[^5] A földművelésügyi hatóság a meg nem munkált termőföldterületek nyilvántartását a járási állat-egészségügyi és élelmiszer-ellenőrző hivatal (a továbbiakban: falugazdász) által szolgáltatott adatok alapján vezeti. A nyilvántartás vezetéséhez szükséges helyszíni ellenőrzéseket a földművelésügyi hatóság a falugazdász bevonásával végzi.
+(3)[^5] A földművelésügyi hatóság a meg nem munkált termőföldterületek nyilvántartását a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara (a továbbiakban: NAK) által is szolgáltatott adatok alapján vezeti. A nyilvántartás vezetéséhez szükséges helyszíni ellenőrzéseket a földművelésügyi hatóság szükség esetén a NAK bevonásával végzi.
 
 (4) A vámhatóság a jövedékiadó-visszatérítésre vonatkozó igényjogosultság megállapítása érdekében a (2) bekezdés szerinti megmunkált termőföldterület nagyságát és az 1. § (1) bekezdés a) pontja szerinti mezőgazdasági termelő tekintetében a jogszerű földhasználat tényét a TakarNet Földhivatali Információs Rendszerben szereplő adatok alapján ellenőrizheti.
 
 (5) A jövedékiadó-visszatérítésre vonatkozó igényjogosultság (1)–(4) bekezdések szerinti ellenőrzése a termőföldről szóló 1994. évi LV. törvény 25/C. § (3a) bekezdés a) pontja szerint hatóság megkeresésére történő, hivatalból indított eljárásnak minősül.
 
-(6) A vámhatóság (1) bekezdés szerinti megkeresésére a földművelésügyi hatóság, az erdészeti hatóság, és a vízügyi hatóság a megkeresés beérkezését követő 10 napon belül hatósági bizonyítvány elektronikus úton történő megküldésével adatot szolgáltat a vámhatóság részére. A falugazdász (3) bekezdés szerinti adatszolgáltatása beleszámít az e bekezdés szerinti ügyintézési határidőbe.
+(6)[^6] A vámhatóság (1) bekezdés szerinti megkeresésére a földművelésügyi hatóság, az erdészeti hatóság, és a vízügyi hatóság a megkeresés beérkezését követő 10 napon belül hatósági bizonyítvány elektronikus úton történő megküldésével adatot szolgáltat a vámhatóság részére.
 
 (7) A jövedékiadó-visszatérítéssel érintett termőföldterület, erdő, halastó nagyságát – a kerekítés általános szabályainak figyelembevételével – hektárban, kéttizedes pontossággal kell meghatározni.
 
 [^4]: A 3. § a 281/2012. (X. 1.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^5]: A 3. § (3) bekezdése a 296/2012. (X. 17.) Korm. rendelet 32. §-a szerint módosított szöveg.
+[^5]: A 3. § (3) bekezdése az 543/2013. (XII. 30.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^6]: A 3. § (6) bekezdése az 543/2013. (XII. 30.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
