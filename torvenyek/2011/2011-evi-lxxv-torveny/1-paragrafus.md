@@ -60,7 +60,7 @@ k) a polgármesteri tisztség ellátásának egyes kérdéseiről és az önkorm
 
 l) az állam többségi befolyása alatt álló gazdasági társaságnál munkavégzésre irányuló jogviszonyban foglalkoztatott személy.
 
-8. lakáshitel-szerződés: magyarországi lakóingatlanra alapított jelzálogjog – ideértve az önálló zálogjogként alapított jelzálogjogot is – fedezete mellett a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény 2. számú melléklet III. Egyéb meghatározások 4. pontja szerinti fogyasztó és pénzügyi intézmény által kötött hitel- vagy kölcsönszerződés;
+8. lakáshitel-szerződés: magyarországi lakóingatlanra alapított jelzálogjog – ideértve az önálló zálogjogként alapított jelzálogjogot is – fedezete mellett a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény (a továbbiakban: Hpt.) 6. § (1) bekezdése szerinti fogyasztó és pénzügyi intézmény által kötött hitel- vagy kölcsönszerződés;
 
 9. lakóingatlan: lakás céljára létesített és az ingatlan-nyilvántartásban lakóház vagy lakás megnevezéssel nyilvántartott vagy ilyenként feltüntetésre váró ingatlan – ha arra használatbavételi engedélyt adtak ki – a hozzá tartozó földrészlettel, továbbá az ingatlan-nyilvántartásban tanyaként feltüntetett lakó-, illetőleg gazdasági épület, épületcsoport és az azonos helyrajzi szám alatt hozzá tartozó föld együttese;
 
@@ -68,7 +68,7 @@ l) az állam többségi befolyása alatt álló gazdasági társaságnál munkav
 
 9b. mentesített követelésrész: a devizakölcsön aktuális törlesztőrészletének a rögzített árfolyam alkalmazási időszaka alatt a rögzített árfolyam feletti – de legfeljebb a legmagasabb árfolyammal számolt – összegéből az aktuális törlesztőrészlet kamat- és kamatjellegű díj vagy költség arányával megegyező mértékben számított ügyleti kamat vagy bármilyen más – késedelmi kamatnak nem minősülő – kamatjellegű díj vagy költség jogcímén számítható követelésrész;
 
-10. pénzügyi intézmény: a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvényben meghatározott fogalom, ideértve az Európai Unió más tagállamában vagy az Európai Gazdasági Térségről szóló megállapodásban részes más államban székhellyel rendelkező és ott jogszerűen tevékenységet végző, Magyarország területén határon átnyúló szolgáltatást nyújtó pénzügyi intézményt is;
+10. pénzügyi intézmény: a Hpt.-ben meghatározott fogalom, ideértve az Európai Unió más tagállamában vagy az Európai Gazdasági Térségről szóló megállapodásban részes más államban székhellyel rendelkező és ott jogszerűen tevékenységet végző, Magyarország területén határon átnyúló szolgáltatást nyújtó pénzügyi intézményt is;
 
 11. rögzített árfolyam: a devizakölcsön törlesztése körében a pénzügyi intézmény által a forinttal szemben alkalmazott átváltási árfolyam;
 
@@ -90,6 +90,6 @@ a) kezdő időpontja a felek által kötött, a gyűjtőszámlahitelre vonatkoz�
 
 b) záró időpontja a kezdő időponttól számított 60 hónap vagy – amennyiben az korábbi időpontra esik – a devizakölcsön végső lejáratának időpontja, amennyiben a hiteladós devizakölcsönből eredő – a rögzített árfolyam figyelembevételével fennálló – tartozása megfizetésével 180 napot meghaladó késedelembe esik, akkor a késedelem 181. napja, amennyiben pedig a fedezeti ingatlannal szemben megindított végrehajtási eljárás miatt a devizakölcsönt és a gyűjtőszámlahitelre vonatkozó hitelkeret-szerződést a hitelező felmondta, a felmondás napja.
 
-(3) Amennyiben a hitelező a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény alapján összevont alapú felügyelet hatálya alá tartozik, akkor a 6–9. §-ban foglaltak alkalmazása során az összevont alapú felügyelet hatálya alá tartozó hitelezők egyetlen hitelezőnek minősülnek.
+(3) Amennyiben a hitelező a Hpt. alapján összevont alapú felügyelet hatálya alá tartozik, akkor a 6–9. §-ban foglaltak alkalmazása során az összevont alapú felügyelet hatálya alá tartozó hitelezők egyetlen hitelezőnek minősülnek.
 
 (4) A (2) bekezdés b) pontjában, a 2. § (3) bekezdésében foglaltak alkalmazása során devizakölcsönből eredő tartozásnak minősül az életbiztosítási szerződéssel kombinált devizakölcsön esetén az életbiztosítási szerződésben, a lakás-előtakarékossági szerződéssel kombinált devizakölcsön esetén a lakás-előtakarékossági szerződésben vállalt, lejárt és nem teljesített fizetési kötelezettségből eredő tartozás is.
