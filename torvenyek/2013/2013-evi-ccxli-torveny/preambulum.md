@@ -1,0 +1,1 @@
+Az Országgyűlés a kommunista diktatúrával kapcsolatos emlékezet állami megőrzése és a kommunista diktatúra hatalmi működésének feltárása, a kommunista hatalombirtokosok előjogainak lebontása és a még köztünk élő bűnösök felelősségre vonása érdekében az Alaptörvény végrehajtására az Alaptörvény U) cikk (3) bekezdése alapján a következő törvényt alkotja:

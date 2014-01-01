@@ -1,0 +1,1 @@
+17. § A lemondást a Bizottság választott tagja a Bizottság elnökével, a Bizottság elnöke az Országgyűlés elnökével, a megbízott tag a Bizottság elnökével és a megbízást adó, 9. § (1) bekezdése szerinti személlyel írásban közli. A lemondás érvényességéhez elfogadó nyilatkozat nem szükséges. A lemondást nem kell indokolni, a megbízatás a lemondás benyújtásának napjával szűnik meg.
