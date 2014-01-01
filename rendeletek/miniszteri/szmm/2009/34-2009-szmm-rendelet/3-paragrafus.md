@@ -84,13 +84,13 @@ Magyarázat az egyes pontokhoz
 
 15. pont: A munkaviszony megszűnésének időpontját megelőző négy teljes naptári negyedév kezdő napjának meghatározása során az aktuális naptári negyedév (az a naptári negyedév, melynek időtartamára a munkaviszony megszűnésének időpontja esik), nem tartozik bele a megelőző négy teljes naptári negyedévbe, ideértve azt az esetet is, amikor a munkaviszony a naptári negyedév utolsó napján szűnik meg.
 
-16. pont: A vizsgált időszak 16. pontban meghatározott kezdetétől számított négy teljes naptári negyedévben elért munkaerő-piaci járulékalap összege.
+16. pont: A vizsgált időszak 15. pontban meghatározott kezdetétől számított négy teljes naptári negyedévben elért munkaerő-piaci járulékalap összege.
 
 A munkaerő-piaci járulékalap meghatározásánál a következőket kell figyelembe venni:
 
 a) Amennyiben a vizsgált időszakban vannak 2010. január 1-jénél korábbi időszakok (ebben az időszakban munkaerő-piaci járulékfizetési kötelezettség nem állt fent), akkor adott időszak vonatkozásában a munkavállaló társadalombiztosítási járulékalapját kell figyelembe venni.
 
-b) Amennyiben a munkavállalónak a vizsgált időszakban egyáltalán nem volt járulékalapja, akkor az igazolás 17. pontjához 0 Ft-ot kell írni.
+b) Amennyiben a munkavállalónak a vizsgált időszakban egyáltalán nem volt járulékalapja, akkor az igazolás 16. pontjához 0 Ft-ot kell írni.
 
 17. pont: Az érintett hónapok számát a következőképpen kell meghatározni:
 
@@ -100,7 +100,7 @@ b) törthónap: olyan hónap, amelyben a munkavállalónak nem volt a teljes hó
 
 Az érintett hónapok számának meghatározásakor a teljes hónapot 1 hónapszámmal kell figyelembe venni. A törthónapok esetében a hónapszám számítási módja: az aktuális hónapon belül azoknak a naptári napoknak a számát, amelyekre vonatkozóan a munkavállalónak volt járulékalapja, el kell osztani az aktuális hónap naptári napjainak számával. A törthónaphoz tartozó hónapszám az így kapott törtszám – a kerekítés általános szabályai szerint – két tizedesre kerekített értéke.
 
-Az igazolólap 18. pontjához a vizsgált időszakba tartozó hónapok fenti módon kiszámolt egész és tört hónapok hónapszámainak összegét kell írni.
+Az igazolólap 17. pontjához a vizsgált időszakba tartozó hónapok fenti módon kiszámolt egész és tört hónapok hónapszámainak összegét kell írni.
 
 19. pont: A munkaviszony időtartama alatt igénybe vett 30 napot meghaladó mértékű fizetés nélküli szabadság időtartama.
 
@@ -112,4 +112,4 @@ Ebben a részben a munkaviszony ideje alatt igénybe vett 30 napot meghaladó m�
 [^3]: A 3. § (3) bekezdése a 16/2011. (IV. 15.) Korm. rendelet 4. §-ával megállapított szöveg.
 [^4]: A 3. § (4) bekezdését az (5) bekezdés hatályon kívül helyezte.
 [^5]: A 3. § (5) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
-[^6]: A melléklet a 35/2012. (XII. 14.) NGM rendelet 2. §-ával megállapított szöveg.
+[^6]: A melléklet a 35/2012. (XII. 14.) NGM rendelet 2. §-ával megállapított, a 66/2013. (XII. 23.) NGM rendelet 19. §-a szerint módosított szöveg.
