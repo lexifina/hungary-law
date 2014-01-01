@@ -1,0 +1,1 @@
+17. § Az Ebtv.-nek az egyes egészségügyi és egészségbiztosítási tárgyú törvények módosításáról szóló 2013. évi CXXVII. törvény 53. §-ával megállapított 82/G. § (1) bekezdése a „42. §-t, 42/D. §-t,” szövegrész helyett „42. §-t” szöveggel lép hatályba.
