@@ -4,7 +4,7 @@
 
 1.
 
-1/a. adomány: a közhasznú szervezet részére törvényben meghatározott közhasznú tevékenysége támogatására, valamint az egyházi jogi személy részére törvényben meghatározott tevékenysége támogatására, továbbá a közérdekű kötelezettségvállalás céljára az adóévben visszafizetési kötelezettség nélkül adott támogatás, juttatás, térítés nélkül átadott eszköz könyv szerinti értéke, térítés nélkül nyújtott szolgáltatás bekerülési értéke, feltéve hogy az nem jelent az e törvényben és a személyi jövedelemadóról szóló törvényben meghatározottakon túl vagyoni előnyt az adományozónak, az adományozó tagjának vagy részvényesének, vezető tisztségviselőjének, felügyelőbizottsága vagy igazgatósága tagjának, könyvvizsgálójának, illetve ezen személyek vagy a természetes személy tag vagy részvényes közeli hozzátartozójának azzal, hogy nem minősül vagyoni előnynek az adományozó nevére, tevékenységére történő utalás;
+1/a. adomány: a közhasznú szervezet részére törvényben meghatározott közhasznú tevékenysége támogatására, valamint az egyházi jogi személy részére törvényben meghatározott tevékenysége támogatására, továbbá a közérdekű kötelezettségvállalás céljára az adóévben visszafizetési kötelezettség nélkül adott támogatás, juttatás, térítés nélkül átadott eszköz könyv szerinti értéke, térítés nélkül nyújtott szolgáltatás bekerülési értéke, feltéve hogy az nem jelent az e törvényben meghatározottakon túl vagyoni előnyt az adományozónak, az adományozó tagjának vagy részvényesének, vezető tisztségviselőjének, felügyelőbizottsága vagy igazgatósága tagjának, könyvvizsgálójának, illetve ezen személyek vagy a természetes személy tag vagy részvényes közeli hozzátartozójának azzal, hogy nem minősül vagyoni előnynek az adományozó nevére, tevékenységére történő utalás;
 
 2. adózó: a 2. § (2)–(4) bekezdésében megnevezett belföldi és külföldi személy, a 2. § (5) bekezdésében meghatározottak kivételével;
 
@@ -24,7 +24,7 @@ e)
 
 4/a. behajthatatlan követelés: a számvitelről szóló törvény szerinti behajthatatlan követelés, valamint azon követelés bekerülési értékének 20 százaléka, amelyet a fizetési határidőt követő 365 napon belül nem egyenlítettek ki, kivéve, ha a követelés elévült vagy bíróság előtt nem érvényesíthető;
 
-5. bejelentett részesedés: a belföldi jogszabályok alapján létrejött jogi személyben, jogi személyiséggel nem rendelkező társas cégben és külföldi személyben (kivéve az ellenőrzött külföldi társaságot) szerzett legalább 30 százalék mértékű, valamint minden további megszerzett részesedés (részesedés értékének a növekedése), feltéve, hogy az adózó a részesedés megszerzését (ide nem értve a részesedés értékének a növekedését) a szerzést követő 60 napon belül bejelenti az adóhatóságnak; a határidő elmulasztása esetén igazolási kérelem előterjesztésének nincs helye; a 30 százalékot meghaladóan szerzett részesedés bejelentésének feltétele, hogy az adózó a legalább 30 százalékos mértékű részesedését bejelentette az adóhatósághoz; e rendelkezés alkalmazásában szerzés időpontjának a cégbírósági bejegyzés napja, cégbírósági bejegyzés hiányában az alapul szolgáló jogügylet hatályosulásának napja minősül; az üzletvezetés helyére tekintettel belföldi illetőségű adózó e rendelkezést azzal az eltéréssel alkalmazza, hogy az első jognyilatkozat megtételének napját követő 60 napon belül jogosult bejelentést tenni azokról a részesedésekről, amelyeket a belföldi illetőség megszerzése előtt szerzett;
+5. bejelentett részesedés: a belföldi jogszabályok alapján létrejött jogi személyben, jogi személyiséggel nem rendelkező társas cégben és külföldi személyben (kivéve az ellenőrzött külföldi társaságot) szerzett legalább 10 százalék mértékű, valamint minden további megszerzett részesedés (részesedés értékének a növekedése), feltéve, hogy az adózó a részesedés megszerzését (ide nem értve a részesedés értékének a növekedését) a szerzést követő 75 napon belül bejelenti az adóhatóságnak; a határidő elmulasztása esetén igazolási kérelem előterjesztésének nincs helye; a 10 százalékot meghaladóan szerzett részesedés bejelentésének feltétele, hogy az adózó a legalább 10 százalékos mértékű részesedését bejelentette az adóhatósághoz; e rendelkezés alkalmazásában szerzés időpontjának a cégbírósági bejegyzés napja, cégbírósági bejegyzés hiányában az alapul szolgáló jogügylet hatályosulásának napja minősül; az üzletvezetés helyére tekintettel belföldi illetőségű adózó e rendelkezést azzal az eltéréssel alkalmazza, hogy az első jognyilatkozat megtételének napját követő 75 napon belül jogosult bejelentést tenni azokról a részesedésekről, amelyeket a belföldi illetőség megszerzése előtt szerzett;
 
 5/a. bejelentett immateriális jószág: jogdíjbevételre jogosító immateriális jószág (szellemi termék, vagyoni értékű jog) szerzése, előállítása feltéve, hogy az adózó a szerzést, előállítást követő 60 napon belül bejelenti az adóhatóságnak; a határidő elmulasztása esetén igazolási kérelem előterjesztésének nincs helye; e rendelkezés alkalmazásában szerzés időpontjának a cégbírósági bejegyzés napja, cégbírósági bejegyzés hiányában az alapul szolgáló jogügylet hatályosulásának napja, előállítás napjának a használatba vétel napja minősül; az üzletvezetés helyére tekintettel belföldi illetőségű adózó e rendelkezést azzal az eltéréssel alkalmazza, hogy az első jognyilatkozat megtételének napját követő 60 napon belül jogosult bejelentést tenni azokról a jogdíjbevételre jogosító immateriális jószágokról, amelyeket a belföldi illetőség megszerzése előtt szerzett vagy állított elő;
 
@@ -68,7 +68,7 @@ h) e rendelkezésben foglaltakat – az f) pont szerinti tényleges tulajdonosi 
 
 14.
 
-15. építkezés befejezésének napja: a használatbavételi, fennmaradási engedély jogerőre emelkedésének a napja, alvállalkozó esetében az általa végzett tevékenység befejezésének a napja;
+15. építkezés befejezésének napja: a használatbavételi, fennmaradási engedély jogerőre emelkedésének a napja, a használatbavétel tudomásulvételének a napja, alvállalkozó esetében az általa végzett tevékenység befejezésének a napja;
 
 16. építkezés kezdetének napja: az építési, szerelési naplóban az építkezés kezdő napjaként megjelölt nap, alvállalkozó esetén az építési, szerelési naplóban megjelölt kezdési időpont;
 
@@ -82,7 +82,7 @@ h) e rendelkezésben foglaltakat – az f) pont szerinti tényleges tulajdonosi 
 
 18/a. ingatlannal rendelkező társaság: az adózó, amennyiben
 
-1. a beszámolójában vagy a belföldi illetőségű adózónak vagy külföldi vállalkozónak minősülő kapcsolt vállalkozásaival együttesen (a továbbiakban: csoport), az egyes beszámolókban kimutatott eszközök mérlegfordulónapi piaci értékének (együttes) összegéből a belföldön fekvő ingatlan értéke több mint 75 százalék és
+1. a beszámolójában vagy a belföldi illetőségű adózónak vagy külföldi vállalkozónak minősülő kapcsolt vállalkozásaival együttesen (a továbbiakban: csoport), az egyes beszámolókban kimutatott eszközök mérlegfordulónapi könyv szerinti értékének (együttes) összegéből a belföldön fekvő ingatlan értéke több mint 75 százalék és
 
 2. tagja (részvényese) vagy a csoport valamelyikének tagja (részvényese) az adóév legalább egy napján olyan államban rendelkezik külföldi illetőséggel, amellyel Magyarország nem kötött a kettős adóztatás elkerüléséről egyezményt vagy az egyezmény lehetővé teszi az árfolyamnyereség Magyarországon történő adóztatását
 
@@ -100,7 +100,7 @@ e) nem kell e rendelkezéseket alkalmazni, ha az adózó vagy a csoporthoz tarto
 
 18/b. termőföldből átminősített ingatlanvagyont tulajdonában tartó társaság: az adózó, amennyiben a beszámolójában az eszközök mérlegforduló-napi értékének a követelések, értékpapírok és pénzeszközök összegének figyelembevétele nélkül számított összegéből a belföldön fekvő, termőföldből átminősített ingatlan értéke több mint 75 százalék;
 
-18/c. termőföldből átminősített ingatlan: a művelési ág változás ingatlan-nyilvántartási átvezetéséről szóló döntés meghozatalának a napjától számított öt adóéven keresztül az az ingatlan, amely a művelési ág változás átvezetése eredményeként az ingatlan-nyilvántartásban termőföldből művelés alól kivett területté vált (ideértve az ingatlan alrészletében bekövetkező ilyen változást is), kivéve, ha a termőföld tulajdonjogának megszerzésére a termőföld végleges más célú hasznosításának engedélyezéséről szóló ingatlanügyi hatósági döntés jogerőre emelkedése napját legalább öt adóévvel megelőzően került sor;
+18/c. termőföldből átminősített ingatlan: a művelési ág változás ingatlan-nyilvántartási átvezetéséről szóló döntés meghozatalának a napjától számított öt adóéven keresztül az a külterületi ingatlan, amely a művelési ág változás átvezetése eredményeként az ingatlan-nyilvántartásban termőföldből művelés alól kivett területté vált (ideértve az ingatlan alrészletében bekövetkező ilyen változást is), kivéve, ha a termőföld tulajdonjogának megszerzésére a termőföld végleges más célú hasznosításának engedélyezéséről szóló ingatlanügyi hatósági döntés jogerőre emelkedése napját legalább öt adóévvel megelőzően került sor;
 
 19. ipari park: infrastruktúrával ellátott, jogszabályban meghatározott feltételekkel ipari vállalkozási célra kialakított, behatárolt terület, amely pályázati úton ,,ipari park'' minősítést kap;
 
@@ -198,7 +198,7 @@ b) az építkezés vagy az összeszerelő tevékenység (a továbbiakban együtt
 
 c) a külföldi személyt telephellyel rendelkezőnek kell tekinteni belföldön lévő természeti erőforrás közvetlen hasznosítása esetén,
 
-d) a külföldi személyt telephellyel rendelkezőnek kell tekinteni ingatlan és természeti erőforrás térítés ellenében történő hasznosítása, ingatlanhoz és természeti erőforráshoz kapcsolódó vagyoni értékű jog térítés ellenében történő átadása, értékesítése, apportálása (a továbbiakban: ingatlan hasznosítása) esetén,
+d) a külföldi személyt telephellyel rendelkezőnek kell tekinteni ingatlan és természeti erőforrás térítés ellenében történő hasznosítása, ingatlanhoz és természeti erőforráshoz kapcsolódó vagyoni értékű jog térítés ellenében történő átadása, értékesítése, apportálása (a továbbiakban együtt: ingatlan hasznosítása), továbbá ingatlan értékesítése esetén,
 
 e) a külföldi személyt telephellyel rendelkezőnek kell tekinteni – kivéve, ha csak a g) pontban említett tevékenységet végzi – azon tevékenységek esetében, amelyeket más személy a külföldi személy nevében vállal, ha a külföldi személy nevében szerződést köthet belföldön – és e jogával rendszeresen él –, illetve áru- vagy termékkészletet tart fenn, amelyből rendszeresen szállít a külföldi személy nevében,
 

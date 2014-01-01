@@ -38,7 +38,7 @@ bűncselekmény elkövetése érdekében vagy azzal összefüggésben merült fe
 
 11. A gazdasági társaságokról szóló törvényben előírt saját tőke jegyzett tőke arány, vagy a veszteség fedezetét szolgáló tőkeemelés révén szerzett tulajdoni részesedésre elszámolt értékvesztés.
 
-12. az adóévben szponzori vagy támogatási szerződés keretében nyújtott, a 22/C. § (3a)–(3b) bekezdés szerinti kiegészítő sportfejlesztési támogatás adóévi adózás előtti eredmény terhére elszámolt összege;
+12. a 22. § (6)–(8) bekezdésében meghatározott kiegészítő támogatás és a 22/C. § (3a)–(3b) bekezdésében meghatározott kiegészítő sportfejlesztési támogatás adóévi adózás előtti eredmény terhére elszámolt összege;
 
 13. az adózó által (a közhasznú szervezet kivételével) az adóévben nem adomány céljából, visszafizetési kötelezettség nélkül adott támogatás, juttatás, véglegesen átadott pénzeszköz, a térítés nélkül átadott eszköz könyv szerinti értéke (ide nem értve az általános forgalmi adóról szóló törvény szerinti árumintát), az adózó által ellenérték nélkül átvállalt kötelezettségnek az adóévi adózás előtti eredmény terhére elszámolt összege, az adóévben térítés nélkül nyújtott szolgáltatás bekerülési értéke, valamint e juttatásokkal kapcsolatban ráfordításként elszámolt általános forgalmi adó, ha a juttatás külföldi személy vagy az üzletvezetés helye alapján külföldi illetőségű részére történik vagy az adózó nem rendelkezik a juttatásban részesülő nyilatkozatával, amely szerint a juttatás adóévében az eredmény e juttatás következtében elszámolt bevétel nélkül számítva nem lesz negatív, amelyet a beszámoló elkészítését követően nyilatkozat útján igazol;
 
@@ -92,4 +92,6 @@ A 8. § (1) bekezdés d) pontjának alkalmazásában a vállalkozási tevékenys
 
 19. az adóévben visszafizetési kötelezettség nélkül adott támogatás, juttatás, térítés nélkül átadott eszköz könyv szerinti értéke, térítés nélkül nyújtott szolgáltatás bekerülési értéke, feltéve, hogy annak átadása, nyújtása jogszabályon alapul.
 
-20. a munka törvénykönyvében előírt rendelkezések alapján a kijelölt munkáltató által a több munkáltató által létesített munkaviszony keretében személyi jellegű ráfordításként – más munkáltatóra tekintettel – elszámolt összeg, feltéve, hogy azt a munkaviszonnyal érintett munkáltatók a részére megtérítik, továbbá a kijelölt munkáltató részére a munkaviszonnyal érintett munkáltatók által megtérített összeg.
+20.
+
+21. éttermi szolgáltatás igénybevétele esetén a bankkártyával, hitelkártyával történő fizetésre tekintettel kapott nyugta alapján elszámolt költség, ráfordítás, feltéve, hogy a szolgáltatás igénybevétele a személyi jövedelemadóról szóló törvény szerinti reprezentáció céljából történik.

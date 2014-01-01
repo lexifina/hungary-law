@@ -20,7 +20,7 @@ a) döntése szerint, a fedezeti ügylettel nem fedezett, külföldi pénzérté
 
 b) az eszköznek (kivéve a bejelentett részesedést) a befektetett pénzügyi eszközök közül történő kikerülésekor (ideértve az értékvesztés elszámolását is), a kötelezettségnek a könyvekből történő kikerülésekor a megelőző adóévekben a 8. § (1) bekezdés dzs) pont a) alpontja alapján adózás előtti eredmény növeléseként elszámolt összeggel, részbeni kikerülése esetén a külföldi pénzértékben kimutatott könyv szerinti érték csökkenésének a megelőző adóév utolsó napján kimutatott könyv szerinti értékkel arányosan számított összeggel, azzal, hogy e rendelkezést valamennyi olyan értékelt eszközre, kötelezettségre alkalmazni kell, amelyeknek az árfolyam különbözetét bevételként el kell számolni,
 
-e) a bejelentett immateriális jószág értékesítése, nem pénzbeli vagyoni hozzájárulásként történő kivezetése következtében az elszámolt bevételnek az elszámolt ráfordítást meghaladó része, feltéve, hogy az adózó (ideértve a jogelődjét is) az immateriális jószágot az értékesítést (kivezetést) megelőzően legalább egy éven át folyamatosan eszközei között tartotta nyilván, és feltéve, hogy a bejelentés adóévét megelőző adóévben az immateriális jószág értékesítéséből, kivezetéséből származó eredményre nem alkalmazta a 7. § (1) bekezdés c) pontját,
+e) a bejelentett immateriális jószág értékesítése, nem pénzbeli vagyoni hozzájárulásként történő kivezetése következtében az elszámolt bevételnek az elszámolt ráfordítást meghaladó része, feltéve, hogy az adózó (ideértve a jogelődjét is) az immateriális jószágot az értékesítést (kivezetést) megelőzően legalább egy éven át folyamatosan eszközei között tartotta nyilván, és feltéve, hogy a bejelentés adóévét megelőző adóévben az ugyanazon immateriális jószág értékesítéséből, kivezetéséből származó eredményre nem alkalmazta a 7. § (1) bekezdés c) pontját,
 
 f) az eredménytartaléknak az adóévben lekötött tartalékba átvezetett és az adóév utolsó napján lekötött tartalékként kimutatott összege, de legfeljebb az adóévi adózás előtti nyereség 50 százaléka és legfeljebb adóévenként 500 millió forint (a továbbiakban: fejlesztési tartalék), figyelemmel a (15) bekezdésben foglaltakra,
 
@@ -72,7 +72,7 @@ u) az adóellenőrzés, önellenőrzés során megállapított, adóévi bevéte
 
 v) legalább 50 százalékban megváltozott munkaképességű munkavállaló foglalkoztatása esetén személyenként, havonta a megváltozott munkaképességű munkavállalónak kifizetett munkabér, de legfeljebb az adóév első napján érvényes minimálbér, feltéve, hogy az adózó által foglalkoztatottak átlagos állományi létszáma az adóévben nem haladja meg a 20 főt,
 
-w)
+w) a (21) bekezdésben foglaltakra is figyelemmel, az adózó választása szerint az e törvény hatálya alá tartozó kapcsolt vállalkozása saját tevékenységi körében végzett kutatás-fejlesztési tevékenységének közvetlen költségére tekintettel a t) pont szerint megállapított, de választása szerint nem érvényesített összeg [ide nem értve a (17) bekezdés szerinti összeget], azzal, hogy a 3. számú melléklet A) rész 15. pontja szerinti körülmények fennállását az adózó vonatkozásában is vizsgálni kell,
 
 x)
 
@@ -86,7 +86,7 @@ z) a közhasznú szervezetnek, a közhasznú szervezettel kötött adományozás
 
 de együttesen legfeljebb az adózás előtti eredmény összege,
 
-zs) az adóév utolsó napján kis- és középvállalkozásnak minősülő adózónál – ha igénybe kívánja venni a kedvezményt – a korábban még használatba nem vett ingatlan, valamint a korábban még használatba nem vett, a műszaki berendezések, gépek, járművek közé sorolandó tárgyi eszköz üzembe helyezése érdekében elszámolt adóévi beruházások értéke, továbbá az ingatlan bekerülési értékét növelő adóévi felújítás, bővítés, rendeltetés-változtatás, átalakítás értéke, valamint az immateriális javak között az adóévben állományba vett, korábban még használatba nem vett szellemi termék bekerülési értéke, figyelemmel a (11)–(12) bekezdésben foglaltakra.
+zs) az adóév utolsó napján kis- és középvállalkozásnak minősülő adózónál – ha igénybe kívánja venni a kedvezményt – a korábban még használatba nem vett ingatlan, valamint a korábban még használatba nem vett, a műszaki berendezések, gépek, járművek közé sorolandó tárgyi eszköz üzembe helyezése érdekében elszámolt adóévi beruházások értéke, továbbá az ingatlan bekerülési értékét növelő adóévi felújítás, bővítés, rendeltetés-változtatás, átalakítás értéke, valamint az immateriális javak között az adóévben állományba vett, korábban még használatba nem vett szoftvertermékek felhasználási joga, szellemi termék bekerülési értéke, figyelemmel a (11)–(12) bekezdésben foglaltakra.
 
 (2) Az adózó az adóévre vonatkozóan választhatja, hogy az (1) bekezdés dzs) pontjának a) alpontjában és a 8. § (1) bekezdés dzs) pontjának a) alpontjában foglaltakat kizárólag a fedezeti ügylettel nem fedezett, külföldi pénzértékre szóló befektetett pénzügyi eszközei között kimutatott tulajdoni részesedést jelentő befektetései értékének módosításaként a mérlegfordulónapi értékeléskor a devizaárfolyam változása alapján eszközönként elszámolt összeg tekintetében (a más befektetett pénzügyi eszközei és hosszú lejáratú kötelezettségei értékének módosításaként elszámolt összeget figyelmen kívül hagyva) alkalmazza, feltéve, hogy e választása nem eredményezi, hogy adóalapja alacsonyabb lesz az (1) bekezdés dzs) pontjának és a 8. § (1) bekezdés dzs) pontjának alkalmazása nélkül az adóévre kiszámított adóalapnál.
 
@@ -114,9 +114,9 @@ b) a részesedés könyv szerinti értéke, vagy – a tag (részvényes, üzlet
 
 a) abban az adóévben alkalmazhatja, amely adóév egészében valamennyi tagja (részvényese, üzletrész-tulajdonosa) az adózón kívül kizárólag magánszemély (ideértve az MRP-t is) volt,
 
-b) nem alkalmazhatja az üzemkörön kívüli ingatlan, az ültetvény bekerülési értékére, az üzemkörön kívüli ingatlan, az ültetvény bekerülési értékét növelő adóévi felújítás, bővítés, rendeltetés-változtatás, átalakítás értékére, valamint a hibás teljesítés miatt a jótállási időn belül cserébe kapott tárgyi eszköz, szellemi termék bekerülési értékére, ha a cserére visszaadott tárgyi eszközre, szellemi termékre az adózó alkalmazta az (1) bekezdés zs) pontjának előírását.
+b) nem alkalmazhatja az üzemkörön kívüli ingatlan, az ültetvény bekerülési értékére, az üzemkörön kívüli ingatlan, az ültetvény bekerülési értékét növelő adóévi felújítás, bővítés, rendeltetés-változtatás, átalakítás értékére, valamint a hibás teljesítés miatt a jótállási időn belül cserébe kapott tárgyi eszköz, szoftvertermékek felhasználási joga, szellemi termék bekerülési értékére, ha a cserére visszaadott tárgyi eszközre, szoftvertermékek felhasználási jogára, szellemi termékre az adózó alkalmazta az (1) bekezdés zs) pontjának előírását.
 
-(12) Az (1) bekezdés zs) pontja szerinti összeg nem haladhatja meg az adózás előtti eredményt, és nem lehet több 30 millió forintnál. Ennek az összegnek a 19. § (1) bekezdése szerinti adókulccsal számított értéke az állami támogatásokra vonatkozó rendelkezések alkalmazásában, ha a beruházás elsődleges mezőgazdasági termelést szolgál, az EK-Szerződés 87. és 88. cikkének a mezőgazdasági termékek előállításával foglalkozó kis- és középvállalkozásoknak nyújtott állami támogatásra történő alkalmazásáról szóló 1857/2006/EK rendelet 4. cikkében foglalt támogatásként vehető igénybe, minden más esetben az adózó választása szerint
+(12) Az (1) bekezdés zs) pontja szerinti összeg nem haladhatja meg az adózás előtti eredményt, és nem lehet több 30 millió forintnál. Ennek az összegnek a 19. § (1) bekezdése szerinti adókulccsal számított értéke az állami támogatásokra vonatkozó rendelkezések alkalmazásában, ha a beruházás elsődleges mezőgazdasági termelést szolgál, az Európai Közösséget Létrehozó Szerződés 107. és 108. cikkének a mezőgazdasági termékek előállításával foglalkozó kis- és középvállalkozásoknak nyújtott állami támogatásra történő alkalmazásáról szóló rendeletben foglalt támogatásként vehető igénybe, minden más esetben az adózó választása szerint
 
 a) az adóévben igénybe vett csekély összegű (de minimis) támogatásnak minősül, vagy
 
@@ -144,6 +144,6 @@ végezte.
 
 (20) Az (1) bekezdés y) pontjában foglaltak szerinti összegnek a 19. § (1) bekezdés szerinti adókulccsal számított értéke az állami támogatásokra vonatkozó rendelkezések alkalmazásában az adóévben igénybevett csekély összegű (de minimis) támogatásnak minősül.
 
-(21)
+(21) Az (1) bekezdés w) pontjában foglaltak akkor alkalmazhatóak, ha az adózó rendelkezik az adóbevallás benyújtásáig a kapcsolt vállalkozása írásos nyilatkozatával, amely tartalmazza a kapcsolt vállalkozás adóévi saját tevékenységi körében végzett kutatás-fejlesztési tevékenysége közvetlen költségének összegét, valamint az összegre tekintettel az adózó(k) által érvényesíthető összeget. A kapcsolt vállalkozás által adott nyilatkozat(ok)ban meghatározott összeg(ek) nem haladhatják meg a nyilatkozat kiállítója által az (1) bekezdés t) pontja alapján érvényesíthető összeget. A nyilatkozatban foglaltak teljesüléséért az adózó és kapcsolt vállalkozása egyetemlegesen felel. A nyilatkozatban szereplő adatokról a nyilatkozat kiállítója, valamint a kedvezményezett a társasági adóbevallásban adatszolgáltatásra kötelezett.
 
 (22)
