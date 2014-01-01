@@ -1,0 +1,1 @@
+## „g) a marhalevél beérkezés-bejelentő szelvényre rávezeti a vágóhíd tenyészetkódját, a vágás típusának megfelelő kikerülési kódot, valamint az állat vágóhídra érkezésének időpontját, kivéve, ha az elektronikus jelentési rendszeren keresztül küldi be ezen adatokat.”

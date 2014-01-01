@@ -1,9 +1,14 @@
-## 11. §[^11]
+## 11. §[^7]
 
-12. § (1)–(2)[^12]
+12. § (1) A 99/2002. (XI. 5.) FVM rendelet 23. § (1) bekezdésének nyitó szövegrésze helyébe a következő rendelkezés lép:
 
-(3)[^13]
+## „(1) A marhalevél első oldalának perforációval elválasztott felső – más tagállamba, illetve harmadik országba történő kiszállításkor útlevélként funkcionáló – része legalább az alábbi adatokat tartalmazza:”
 
-[^11]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^12]: A 12. § (1)–(2) bekezdése a 71. § (2) bekezdése alapján 2014. január 1-jén lép hatályba.
-[^13]: A 12. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+(2) A 99/2002. (XI. 5.) FVM rendelet 23. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) A marhalevél első oldalának középső része a beérkezés-bejelentő szelvény, első oldalának alsó része a kikerülés-bejelentő szelvény.”
+
+(3)[^8]
+
+[^7]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 12. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

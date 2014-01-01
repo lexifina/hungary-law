@@ -1,20 +1,22 @@
-## 20–22. §[^19]
+## 20–22. §[^12]
 
 ## 23. § A 99/2002. (XI. 5.) FVM rendelet
 
-1–13.[^20]
+1–13.[^13]
 
-14–16.[^21]
+14. 23. §-t megelőző alcímében az „A belföldi marhalevél-igazolólap” szövegrész helyébe az „A marhalevél” szöveg,
 
-17–19.[^22]
+15. 24. § (2) bekezdésében az „Az igazolólap” szövegrész helyébe az „A marhalevél” szöveg,
 
-20.[^23]
+16. 27. § (1) bekezdés a) pontjában az „igazolólapjait” szövegrész helyébe a „marhalevelét” szöveg,
 
-21–23.[^24]
+17–19.[^14]
 
-[^19]: A 20–22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^20]: A 23. § 1–13. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^21]: A 23. § 14–16. pontja a 71. § (2) bekezdése alapján 2014. január 1-jén lép hatályba.
-[^22]: A 23. § 17–19. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^23]: A 23. § 20. pontja a 71. § (2) bekezdése alapján 2014. január 1-jén lép hatályba.
-[^24]: A 23. § 21–23. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+20. 31. § (3) bekezdésében az „az igazolólapok” szövegrész helyébe az „a marhalevél” szöveg, az „az igazolólapot” szövegrész helyébe az „a marhalevelet” szöveg,
+
+21–23.[^15]
+
+[^12]: A 20–22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 23. § 1–13. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 23. § 17–19. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 23. § 21–23. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
