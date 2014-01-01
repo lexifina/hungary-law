@@ -1,14 +1,13 @@
-## 8. §[^12]
+## 8. §[^8]
 
 ## 9. §
 
-a)–d)[^13]
+a)–d)[^9]
 
-e)[^14]
+e) a 11. § (2) bekezdés b) pontjában „a rendes, az előrehozott, a kiegészítő” szövegrész helyébe „a rendes, a kiegészítő”,
 
-f)–u)[^15]
+f)–u)[^10]
 
-[^12]: A 8. § a 10. § (3) bekezdése alapján 2015. január 1. napjával lép hatályba.
-[^13]: A 9. § a)–d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^14]: A 9. § e) pontja a 10. § (2) bekezdése alapján 2014. január 1-jén lép hatályba.
-[^15]: A 9. § f)–u) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 8. § a 10. § (3) bekezdése alapján 2015. január 1. napjával lép hatályba.
+[^9]: A 9. § a)–d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 9. § f)–u) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
