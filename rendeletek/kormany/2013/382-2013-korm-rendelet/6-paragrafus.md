@@ -1,9 +1,13 @@
-## 5. §[^5]
+## „(4c) A (4a) bekezdésében foglaltak alkalmazásáról a közfoglalkoztatásért felelős miniszter dönthet. Ennek feltétele, hogy a közfoglalkoztatási program folytatása
 
-6. § (1)[^6]
+## a) költséghatékonyabb módon biztosítható, mint az azonos tevékenységre irányuló új közfoglalkoztatási program indítása és
 
-(2)[^7]
+## b) nem veszélyezteti a közfoglalkoztatásba vonható személyek esélyét a közfoglalkoztatásba való bekerülésre.”
 
-[^5]: Az 5. § a 9. § (2) bekezdése alapján 2014. január 1-jén lép hatályba.
-[^6]: A 6. § (1) bekezdése a 9. § (2) bekezdése alapján 2014. január 1-jén lép hatályba.
-[^7]: A 6. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+6. § (1) A Rendelet 7/B. §-a a következő (2a) bekezdéssel egészül ki:
+
+## „(2a) A közfoglalkoztatási mintaprogramok esetében a 7. § (4a)–(4c) bekezdését megfelelően alkalmazni kell.”
+
+(2)[^3]
+
+[^3]: A 6. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
