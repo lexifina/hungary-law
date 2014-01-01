@@ -1,3 +1,3 @@
-## 8. §[^5]
+## 8. § A 24/2010. (III. 19.) FVM rendelet 9. §-a a következő (8) bekezdéssel egészül ki:
 
-[^5]: A 8. § a 35. § (2) bekezdése alapján 2014. január 1-jén lép hatályba.
+## „(8) Az ügyfélnek a beruházás pénzügyi rendezését, használatba vételét, üzembe helyezését, illetve tulajdonba kerülését igazoló dokumentumokat legkésőbb a (6) bekezdésben biztosított ügyintézési határidő letelte előtt 60 nappal kell az MVH részére benyújtania azzal, hogy a pénzügyi rendezésnek eddig az időpontig kell megtörténnie, valamint a fenti dokumentumok megszerzéséhez szükséges legelső hatósági eljárás megindítását az (1) bekezdés szerinti összevont támogatási kérelem MVH-hoz történő benyújtását megelőzően kérelmezni kell. Az igazoló dokumentumok benyújtására nyitva álló határidő jogvesztő.”
