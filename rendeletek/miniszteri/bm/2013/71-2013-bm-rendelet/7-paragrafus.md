@@ -1,3 +1,3 @@
-## 5–6. §[^2]
+## 6. § Az R. 18. §-a a következő (5) bekezdéssel egészül ki:
 
-[^2]: Az 5–6. § a 13. § (2) bekezdése alapján 2014. január 1-jén lép hatályba.
+## „(5) Ha a személyi állomány tagja az NM rendelet szerinti kontaktszemélyként vesz részt a kötelező tüdőszűrő vizsgálaton, úgy annak eredményét haladéktalanul köteles az alapellátó orvosnak bemutatni.”
