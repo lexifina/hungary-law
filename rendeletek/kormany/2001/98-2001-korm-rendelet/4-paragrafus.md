@@ -6,4 +6,4 @@
 
 [^3]: A 4. § a 192/2003. (XI. 26.) Korm. rendelet 1. §-ának (1) bekezdésével megállapított szöveg, e módosító rendelet 11. §-ának (1) bekezdése alapján rendelkezéseit az első fokon még el nem bírált ügyekben is alkalmazni kell.
 [^4]: 16/2001. (VII. 18.) KöM rendelet.
-[^5]: A 4. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 230. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^5]: A 4. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 230. §-a szerint módosított szöveg. [A 4. § (2) bekezdésében az 527/2013. (XII. 30.) Korm. rendelet 16. § a) pontjával elrendelt módosítás, amely szerint a „környezetvédelmi, természetvédelmi és vízügyi felügyelőség” szövegrészek helyébe a „környezetvédelmi és természetvédelmi felügyelőség” lép, nem vezethető át.]

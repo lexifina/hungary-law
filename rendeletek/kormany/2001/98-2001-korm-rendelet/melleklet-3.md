@@ -20,7 +20,7 @@
 
 ## 2.4. A termelőnek a veszélyes hulladékot tartalmazó csomagolóeszközön láthatóan fel kell tüntetnie az „SZ” kísérőjegy számát és a hulladék EWC kódszámát.
 
-## 2.5. Ha a veszélyes hulladék kísérőjegyének megfelelő példánya a szállítmány útnak indítását követő 30 napon belül nem kerül vissza a termelőhöz, akkor ezt a körülményt a termelőnek jelentenie kell a környezetvédelmi felügyelőség részére.
+## 2.5. Ha a veszélyes hulladék kísérőjegyének megfelelő példánya a szállítmány útnak indítását követő 30 napon belül nem kerül vissza a termelőhöz, akkor ezt a körülményt a termelőnek jelentenie kell a környezetvédelmi és természetvédelmi felügyelőség részére.
 
 ## 3. Szállító, begyűjtő
 
@@ -378,6 +378,6 @@
 
 |  | Összes hulladékmennyiség: | ⬜ ⬜ ⬜ ⬜ | ⬜ ⬜ ⬜ ⬜ |  |
 
-3. számú melléklet a 98/2001. (VI. 15.) Korm. rendelethez[^63]
+3. számú melléklet a 98/2001. (VI. 15.) Korm. rendelethez[^73]
 
-[^63]: A 3. számú melléklet a 377/2007. (XII. 23.) Korm. rendelet 10. §-ának – a Magyar Közlöny 2007. évi 187. számában megjelenő helesbítésnek megfelelő – (1) bekezdése szerint módosított szöveg. A 3. számú melléklet nyitó szövegrésze a 289/2010. (XII. 21.) Korm. rendelet 3. § (26) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^73]: A 3. számú melléklet a 377/2007. (XII. 23.) Korm. rendelet 10. §-ának – a Magyar Közlöny 2007. évi 187. számában megjelenő helesbítésnek megfelelő – (1) bekezdése szerint módosított szöveg. A 3. számú melléklet a 289/2010. (XII. 21.) Korm. rendelet 3. § (26) bekezdése, az 527/2013. (XII. 30.) Korm. rendelet 16. § a)–b) pontja szerint módosított szöveg.
