@@ -1,0 +1,3 @@
+## „(4) A szénhidrogénre, valamint a szén-dioxid gázra vonatkozó első feltárási, kitermelési vagy földgáztárolási, továbbá a föld alatti szénelgázosítással történő ásványi nyersanyag kitermelésre vonatkozó feltárási és kitermelési műszaki üzemi terv jóváhagyása iránti kérelemhez mellékelni kell a 11/A. § (2) bekezdés a) pontja szerinti határozatot.
+
+## (4a) Szénhidrogén, valamint szén-dioxid gáz feltárás, kitermelés vagy földgáztárolás esetében a kérelemhez mellékelni kell a kőolaj és földgázbányászati biztonsági szabályzat szerinti művelési tervet. Az első benyújtott művelési tervet követően a további kitermelési műszaki üzemi terv jóváhagyási eljárásokban csak a művelési terv módosítását kell benyújtani.”

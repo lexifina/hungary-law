@@ -1,0 +1,9 @@
+# 559/2013. (XII. 31.) Korm. rendelet
+
+a bányászattal és a távhőszolgáltatással összefüggő kormányrendeletek módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-559-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2014-01-01 | 2013-559-20-22.1 | 559/2013. (XII. 31.) Korm. rendelet |
