@@ -1,3 +1,3 @@
-39. §[^49]
+39. §[^50]
 
-[^49]: A 38–39. §-t a 41. § (3) bekezdése hatályon kívül helyezte.
+[^50]: A 38–39. §-t a 41. § (3) bekezdése hatályon kívül helyezte.

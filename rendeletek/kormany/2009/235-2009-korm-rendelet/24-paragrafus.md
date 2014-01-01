@@ -40,8 +40,8 @@ d) rendkívüli, az engedélyező által megjelölt soron kívüli eljárást me
 
 (5) Az etikai bizottság multicentrikus klinikai vizsgálat esetében szakhatósági állásfoglalásának kialakítása során figyelembe veszi az Európai Gazdasági Térségről szóló megállapodásban (a továbbiakban: EGT-megállapodás) részes valamely állam etikai bizottsága által a vizsgálatról már kiadott véleményt is, amennyiben a megbízó ennek teljes szövegét – szükség esetén magyar fordításban – rendelkezésre bocsátja.
 
-(6)[^32]
+(6)[^33]
 
 (7) Az engedélyező az etikai bizottság eljárásainak dokumentációs rendjét a Helyes Klinikai Gyakorlat (a továbbiakban: GCP) elvei alapján legalább évente egyszer minőségbiztosítási szempontból ellenőrzi.
 
-[^32]: A 24. § (6) bekezdését a 308/2012. (XI. 6.) Korm. rendelet 13. § (1) bekezdés d) pontja hatályon kívül helyezte.
+[^33]: A 24. § (6) bekezdését a 308/2012. (XI. 6.) Korm. rendelet 13. § (1) bekezdés d) pontja hatályon kívül helyezte.
