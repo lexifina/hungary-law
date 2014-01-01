@@ -4,6 +4,10 @@
 
 (2) A kormányrendeletben meghatározott nem kereskedelmi célú klinikai vizsgálat engedélyezése iránti eljárások díjmentesek.
 
+(2a) Nem kell az (1) és (5) bekezdés szerinti igazgatási szolgáltatási díjat, fenntartási díjat megfizetni a Gyftv. szerinti kedvezményezetti státusszal rendelkező gyógyszerekkel kapcsolatos eljárásokért.
+
+(2b) A Gyftv. 21. § (1c) bekezdése szerinti esetben a forgalomba hozatali engedély jogosultja köteles az (1) és (5) bekezdés szerinti igazgatási szolgáltatási díj, fenntartási díj megfizetésére.
+
 (3) A díjat az 1. számú melléklet I., II. és III/A–G. pontjaiban felsorolt eljárások esetén klinikai vizsgálatonként és gyógyszerenként kell megfizetni.
 
 (4) Az 1. számú melléklet szerinti díj megállapításánál az alábbiakat kell figyelembe venni:
@@ -16,6 +20,6 @@ b) amennyiben hasonszenvinek jelzett és ilyen eljárással készült gyógyszer
 
 (6) A díjat a kérelem benyújtásakor, az évenkénti fenntartási díjat a tárgyév január hó 31-ig kell az egészségügyért felelős miniszter rendeletében meghatározott módon a gyógyszerészeti államigazgatási szerv részére megfizetni.
 
-(7) A befizetett díj – jogszabályban foglaltak kivételével – a gyógyszerészeti államigazgatási szerv, valamint az eljárásában jogszabály szerint közreműködő szakhatóság bevétele, és a díjak nyilvántartására, elszámolására az államháztartás alrendszerébe tartozó költségvetés alapján gazdálkodó szervek beszámolási és könyvvezetési kötelezettségéről szóló hatályos jogszabályi előírásokat kell alkalmazni. A befizetett díjból a szakhatóság az egészségügyért felelős miniszter rendeletében meghatározott díjmegosztás szerint részesül. A gyógyszerészeti államigazgatási szervnél az egészségügyért felelős miniszter rendelete alapján maradó bevétel jogszabály szerinti intézményfenntartási feladatai ellátására felhasználható.
+(7) A befizetett díj – jogszabályban foglaltak kivételével – a gyógyszerészeti államigazgatási szerv, valamint az eljárásában jogszabály szerint közreműködő szakhatóság bevétele. A díjak nyilvántartására, elszámolására az államháztartás számviteléről szóló jogszabályokat kell alkalmazni. A befizetett díjból a gyógyszerészeti államigazgatási szerv és a szakhatóság az egészségügyért felelős miniszter rendeletében meghatározott megosztás szerint részesül.
 
 (8) A díjfizetés tárgya tekintetében az illetékekről szóló 1990. évi XCIII. törvény (a továbbiakban: Itv.) 28. § (2)–(3) bekezdésében foglaltakat, a díjfizetésre kötelezettek tekintetében az Itv. 31. § (1) bekezdés első mondatában foglaltakat kell megfelelően alkalmazni azzal, hogy ahol az Itv. illetéket említ, azon díjat kell érteni.

@@ -13,3 +13,5 @@
 (6) A gyógyszerészeti államigazgatási szerv e törvényben foglaltak alapján hozott, valamint a gyógyszernek nem minősülő gyógyhatású készítmények nyilvántartása és forgalomba hozatala tárgyában hozott döntései ellen fellebbezésnek helye nincs.
 
 (7) A gyógyszerészeti államigazgatási szerv a Magyarországon forgalomba hozatalra engedélyezett, gyógyszernek nem minősülő gyógyhatású készítmények nevéről és az engedélyezés dátumáról közhiteles hatósági nyilvántartást vezet.
+
+(8) Az e törvényben, illetve az e törvény felhatalmazása alapján kiadott jogszabályokban meghatározott engedélyezési és ellenőrzési eljárásokban hozott döntés végrehajtás felfüggesztése iránti kérelemre tekintet nélkül végrehajtható.
