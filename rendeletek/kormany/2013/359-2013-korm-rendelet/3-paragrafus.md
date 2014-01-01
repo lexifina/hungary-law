@@ -16,7 +16,7 @@
 
 6. pénzügyi átutalási egység: az Irányító Hatóság által megbízott azon szervezet, amely a közösségi támogatás partnerek felé történő kifizetését végzi,
 
-7. programszámla: a közösségi támogatás fogadása céljából az Irányító Hatóság által euróban nyitott közös fizetési számla,
+7.[^1] programszámla: a közösségi támogatás fogadása céljából a központi költségvetésről szóló törvény uniós fejlesztések költségvetési fejezetét irányító szerv vezetője (a továbbiakban: fejezetet irányító szerv vezetője) által euróban nyitott közös fizetési számla,
 
 8. rendszerjellegű szabálytalanság: a Program irányítási és ellenőrzési rendszeréből fakadó szabálytalanság,
 
@@ -25,3 +25,5 @@
 10. technikai segítségnyújtás projekt: azon projektek, melyek célja a Program hatékony, eredményes, szabályszerű és átlátható megvalósításának biztosítása, valamint a végrehajtásáért felelős intézményrendszer magas színvonalú működése,
 
 11. technikai segítségnyújtás projekt kedvezményezettje: technikai segítségnyújtás projekt esetén a projekt megvalósításának egészéért felelősséget viselő önálló jogi személyiséggel rendelkező szervezet.
+
+[^1]: A 3. § 7. pontja az 550/2013. (XII. 30.) Korm. rendelet 100. § a) pontja szerint módosított szöveg.

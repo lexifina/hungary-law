@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-359-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2013-10-14 | 2013-359-20-22.1 | 359/2013. (X. 11.) Korm. rendelet |
+| 2014-01-01 | 2013-359-20-22.2 | 550/2013. (XII. 30.) Korm. rendelet |

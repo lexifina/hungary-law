@@ -8,4 +8,6 @@
 
 (3) A projektrészek mintavételes ellenőrzését az ellenőrzési tervnek megfelelően a kijelölt ellenőrző intézménytől eltérő szerv is végezheti. A kijelölt ellenőrző intézmény köteles gondoskodni az ellenőrzést végző szerv függetlenségéről, továbbá arról, hogy az ellenőrzést végző szerv nem vesz részt a Programkomponens keretében finanszírozott projektek költségeinek hitelesítésében.
 
-(4) A kijelölt ellenőrző intézmény minden év május 15-ig jelentést készít az előző évi ellenőrzési terv végrehajtásáról. A jelentést az Irányító Hatóság megküldi az Európai Bizottság részére.
+(4)[^8] A kijelölt ellenőrző intézmény minden év május 15-ig jelentést készít az előző évi ellenőrzési terv végrehajtásáról. A jelentést az Irányító Hatóság megküldi az Európai Bizottság és a Miniszterelnökség részére.
+
+[^8]: A 24. § (4) bekezdése az 550/2013. (XII. 30.) Korm. rendelet 100. § f) pontja szerint módosított szöveg.
