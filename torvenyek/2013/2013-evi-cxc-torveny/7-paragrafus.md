@@ -1,1 +1,3 @@
-7–8. §
+7. § A Fétám tv. 9/B. §-a helyébe a következő rendelkezés lép:
+
+„9/B. § A gyámhatóság adatot szolgáltat a kincstár részére azon gyermekek természetes személyazonosító adatairól, továbbá – ha az ismert – adóazonosító jeléről, akik a tárgyévben a 7. vagy 14. életévük betöltésének napján, jogerős határozat alapján nevelésbe vett gyermekek voltak. Az adatszolgáltatás tartalmazza annak tényét, hogy a 2005. december 31-ét követően született gyermek nevelésbe vételének időtartama elérte-e a hat hónapot. Az adatszolgáltatást a tárgyévet követő év március 20-áig kell elektronikus úton teljesíteni. A rendszeres gyermekvédelmi kedvezményre jogosult gyermekek adatait a kiutaló a szociális és gyermekvédelmi ellátások országos nyilvántartásából kéri be.”
