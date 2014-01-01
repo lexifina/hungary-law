@@ -8,4 +8,6 @@
 
 (4) A (2) és a (3) bekezdésben meghatározott rendelkezések az Fgytv. alkalmazásában fogyasztóvédelmi rendelkezések.
 
-(5) Az (1)–(3) bekezdés hatálya alá nem tartozó egyéb kötelezettségek ellenőrzésére az OKTVF jogosult.
+(5)[^13] Az (1)–(3) bekezdés hatálya alá nem tartozó egyéb kötelezettségek ellenőrzésére az OKTF jogosult.
+
+[^13]: A 14. § (5) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 130. § b) pontja szerint módosított szöveg.

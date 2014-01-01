@@ -1,6 +1,6 @@
-## 18. §[^7]
+## 18. §[^15]
 
-1. melléklet a 442/2012. (XII. 29.) Korm. rendelethez[^8]
+1. melléklet a 442/2012. (XII. 29.) Korm. rendelethez[^16]
 
 ## Szemléltető példák
 
@@ -114,5 +114,5 @@ Közvetlenül a termékre akasztott vagy rögzített címkék
 
 Rádiófrekvenciás azonosító (RFID) címkék
 
-[^7]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^8]: Az 1. melléklet az 534/2013. (XII. 30.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^15]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: Az 1. melléklet az 534/2013. (XII. 30.) Korm. rendelet 3. §-ával megállapított szöveg.

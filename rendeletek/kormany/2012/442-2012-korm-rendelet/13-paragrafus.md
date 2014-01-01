@@ -1,4 +1,4 @@
-13. § (1) Az adatszolgáltatás, valamint a hatósági ellenőrzés alapján rendelkezésre álló adatokból az OKTVF a csomagolással, valamint a csomagolási hulladékkal kapcsolatos nyilvános információs rendszert hoz létre, és azt honlapján közzéteszi.
+13. § (1)[^12] Az adatszolgáltatás, valamint a hatósági ellenőrzés alapján rendelkezésre álló adatokból az OKTF a csomagolással, valamint a csomagolási hulladékkal kapcsolatos nyilvános információs rendszert hoz létre, és azt honlapján közzéteszi.
 
 (2) Az információs rendszer – anyagfajtánként és összesítve –
 
@@ -13,3 +13,5 @@ d) a hasznosításra, ártalmatlanításra kerülő csomagolási hulladék jelle
 tartalmazza.
 
 (3) A nyilvántartásokban, az adatszolgáltatásnál és az adatfeldolgozásnál a csomagolási hulladék jellemzésére a hulladékok jegyzékéről szóló 16/2001. (VII. 18.) KöM rendelet 1. számú melléklet 15. főcsoportjának 15 01 alcsoportjában meghatározott azonosító kódok szerinti besorolást kell alkalmazni. A forgalmazott csomagolás jellemzésére fel kell tüntetni a hulladékká válásakor alkalmazandó besorolásnak megfelelő azonosító kódot.
+
+[^12]: A 13. § (1) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 130. § b) pontja szerint módosított szöveg.

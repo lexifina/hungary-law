@@ -10,7 +10,7 @@ c) a csomagolásról és a csomagolási hulladékról szóló 94/62/EK irányelv
 
 d) a hulladékokról és egyes irányelvek hatályon kívül helyezéséről szóló, 2008. november 19-i 2008/98/EK európai parlamenti és tanácsi irányelvnek
 
-e)[^6] a csomagolásról és a csomagolási hulladékról szóló 94/62/EK európai parlamenti és tanácsi irányelv I. mellékletének módosításáról szóló, 2013. február 7-i 2013/2/EU bizottsági irányelvnek
+e)[^14] a csomagolásról és a csomagolási hulladékról szóló 94/62/EK európai parlamenti és tanácsi irányelv I. mellékletének módosításáról szóló, 2013. február 7-i 2013/2/EU bizottsági irányelvnek
 
 ## való megfelelést szolgálja.
 
@@ -32,4 +32,4 @@ g) a csomagolásról és a csomagolási hulladékról szóló 94/62/EK európai 
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^6]: A 17. § (1) bekezdés e) pontját az 534/2013. (XII. 30.) Korm. rendelet 2. §-a iktatta be.
+[^14]: A 17. § (1) bekezdés e) pontját az 534/2013. (XII. 30.) Korm. rendelet 2. §-a iktatta be.
