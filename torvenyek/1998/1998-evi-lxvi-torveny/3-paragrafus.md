@@ -28,7 +28,13 @@ után 14 százalékos mértékű egészségügyi hozzájárulást fizet mindaddi
 
 (4) A kifizető a béren kívüli juttatás (Szja tv. 71. §) adóalapként meghatározott összege után 14 százalékos mértékű egészségügyi hozzájárulást fizet.
 
-(5) Mentes a százalékos mértékű egészségügyi hozzájárulás alól az a jövedelem és járulék alapjául szolgáló azon összeg, amely után a Tbj. szabályai szerint járulékot kell fizetni, valamint a szociális hozzájárulási adó alapját képező összeg, továbbá az a jövedelem, amely után az adót nem kell megállapítani és/vagy megfizetni.
+(5) Mentes a százalékos mértékű egészségügyi hozzájárulás alól az olyan jövedelem vagy jövedelemnek nem minősülő összeg, amely
+
+a) a Tbj. szerint járulék alapját képezi,
+
+b) szociális hozzájárulási adó alapját képezi, vagy
+
+c) az Szja tv. alapján adómentes vagy nem kell a jövedelemszámítás során figyelembe venni.
 
 (6) Az Szja tv. 70. § (4) bekezdés második mondata szerinti egyes meghatározott juttatás utáni 27 százalékos mértékű egészségügyi hozzájárulás összegét az adóévet követő év május hónapjának kötelezettségeként kell bevallani és megfizetni, azzal, hogy a fizetési kötelezettséget csökkenti az ugyanazon alap (Szja tv. 70. § (4) bekezdés második mondata) után számított, a (4) bekezdés alapján megállapított egészségügyi hozzájárulás.
 
