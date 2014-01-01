@@ -1,0 +1,11 @@
+52. § A Gyvt. 80. §-a és az azt megelőző alcím helyébe a következő alcím és rendelkezés lép:
+
+„A nevelésbe vétel megvalósulása
+
+80. § (1) A nevelésbe vételhez kapcsolódó, a gyermek véleményét figyelembe vevő egyéni elhelyezési terv megvalósításában, a feladatok teljesítésében a gyermek gyermekvédelmi gyámja, gondozója, valamint – ha szülői felügyeleti joga nem szűnt meg – a szülője, a szülő lakóhelye szerint illetékes gyermekjóléti szolgálat és települési önkormányzat együttműködik.
+
+(2) A gyámhatóság a nevelésbe vett gyermek és a kapcsolattartásra jogosult szülő, illetve más hozzátartozó kapcsolatát, a szülőnek, más hozzátartozónak a nevelőszülővel, a gyermekotthonnal, a fogyatékosok vagy pszichiátriai betegek otthonával és a gyermekvédelmi gyámmal való együttműködését, továbbá a szülő, más hozzátartozó magatartásában, életvitelében és körülményeiben beálló változásokat folyamatosan figyelemmel kíséri.
+
+(3) Ha a nevelésbe vett gyermek szülője vagy más hozzátartozója a gyámhatósági határozatban biztosított kapcsolattartási jogával a gyermek vagy a gyermeket gondozó személy sérelmére visszaél és magatartásával a gyermek nevelését, testi, értelmi, érzelmi és erkölcsi fejlődését veszélyezteti, a gyermeket gondozó személy, illetve a gyermekvédelmi gyám kezdeményezheti a gyámhatóságnál, illetve a bíróságnál a kapcsolattartási jog korlátozását, a felügyelt kapcsolattartás elrendelését, a kapcsolattartás szüneteltetését vagy megvonását.
+
+(4) Ha a nevelésbe vett gyermek kapcsolattartásra jogosult szülője neki felróhatóan, a gyermek érdekét súlyosan sértő módon nem működik együtt a gyermekét gondozó nevelőszülővel vagy intézménnyel, a gyermekével nem tart kapcsolatot, továbbá magatartásán, életvitelén, körülményein a gyermek nevelésbe vételének megszüntetése céljából nem változtat, illetőleg, ha a szülői felügyelet megszüntetésének egyéb oka valósul meg, a gyámhatóság pert indít a szülő ellen szülői felügyeleti jogának megszüntetése iránt, vagy a Csjt. 48/A. §-ában foglalt feltételek fennállása esetén örökbe fogadhatóvá nyilvánítja a gyermeket.”
