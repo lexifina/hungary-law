@@ -1,3 +1,3 @@
-2. melléklet az 54/2008. (III. 20.) Korm. rendelethez[^42]
+2. melléklet az 54/2008. (III. 20.) Korm. rendelethez[^50]
 
-[^42]: A 2. melléklet a 64/2013. (III. 4.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^50]: A 2. melléklet a 64/2013. (III. 4.) Korm. rendelet 11. § (2) bekezdésével megállapított, az 54/2008. (III. 20.) Korm. rendelet 6. §-a szerint módosított szöveg.

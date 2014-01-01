@@ -1,10 +1,10 @@
-## 3K03575_0
+## 3K89939M_0
 
 |  | A | B | C | D | E | F | G | H | I |
 
 | 1 | Főcsoport | Csoport | Alcsoport |  |  |  |  |
 
-| 2 | Megnevezése és a főcsoporthoz tartozó típusos kőzet általános földtani leírása | Megnevezése | A csoporthoz tartozó típusos kőzet általános földtani leírása | Megnevezése | Az alcsoporthoz tartozó típusos kőzet általános földtani leírása | Kód | A nyersanyag fajlagos értéke | Mérték- egység | A 2012. október 1. előtt bevallott ásványi nyersanyag kódszáma és megnevezése |
+| 2 | Megnevezése és a főcsoporthoz tartozó típusos kőzet általános földtani leírása | Megnevezése | A csoporthoz tartozó típusos kőzet általános földtani leírása | Megnevezése | Az alcsoporthoz tartozó típusos kőzet általános földtani leírása | Kód | A nyersanyag fajlagos értéke | Mérték- egység | A 64/2013. (III. 4.) Korm. rendelet hatálybalépését megelőzően bevallott ásványi nyersanyag kódszáma és megnevezése |
 
 | 3 | 1. Mélységi magmás (intruzív) kőzetek. A magma felszín alatti, több km mélységben történő megszilárdulásával létrejött kőzetek. | 1. Gránit | Olyan mélységi magmás (intruzív) kőzet amelynek SiO2 tartalma 70% körüli, (± 10%) kőzetalkotó ásványok csökkenő mennyiségi sorrendben: K-földpát, kvarc, Na-Ca-plagioklász, biotit, esetleg amfibólés/vagy rombos piroxén. Szövete durvaszemcsés, holokristályos, ekvigranuláris. | 1. Tömb gránit | Azon gránit nyersanyag, amely ép, tömör legalább 40%-ban 0,25m3-nél nagyobb tömbökben fejthető. | 1011 | 6 620 | Ft/m3 |  |
 
@@ -200,7 +200,7 @@
 
 | 99 | 2. Barnakőszén (szubbitumenes kőszén) | Olyan alacsony szénültségű kőszén – beleértve a kőszénhez adszorbtíve kötött metán (CH4) tartalmat is –, amelynek színe fekete, vagy barna, karcolata barna. Szárazanyagra számított hamutartalma 50%-nál kisebb, vitrinitreflexió értéke 0,30-0,60% közötti, elemi szén (karbon) tartalma 65-80%, égéshője 16,0-24,0 MJ/kg. (Qsdaf) |  |  | 2020 | 11 000 | Ft/m3 | 900 Barnaszén a Borsodi és Nógrádi medence kőszenei kivételével |
 
-| 100 | 3. Lignit | Olyan alacsony szénültségű kőszén – beleértve a kőszénhez adszorbtíve kötött metán (CH4) tartalmat is –, amelynek színe világosbarnától a feketéig változhat a típustól függően, felismerhetők a növényi maradványok. Szárazanyagra számított hamutartalma (Ad) 50%-nál kisebb, elemi szén (karbon) tartalma (Ctd)35-50%, összes nedvességtartalma (Wtr) kisebb, mint 35% és égéshője (Qsd)14-16 MJ/kg. |  |  | 2030 | 8000 | Ft/m3 | 900 Barnaszén a Borsodi és Nógrádi medence kőszenei kivételével |
+| 100 | 3. Lignit | Olyan alacsony szénültségű kőszén – beleértve a kőszénhez adszorbtíve kötött metán (CH4) tartalmat is –, amelynek színe világosbarnától a feketéig változhat a típustól függően, felismerhetők a növényi maradványok. Szárazanyagra számított hamutartalma (Ad) 50%-nál kisebb, elemi szén (karbon) tartalma (Ctd)35-50%, összes nedvességtartalma (Wtr) kisebb, mint 35% és égéshője (Qsd)14-16 MJ/kg. |  |  | 2030 | 8000 | Ft/m3 | 900 Barnaszén a Borsodi és Nógrádi medence kőszenei |
 
 | 101 | 4. Lignit II. (ortho-lignit) | Olyan alacsony szénültségű kőszén – beleértve a kőszénhez adszorbtíve kötött metán (CH4) tartalmat is –, amelynek színe világosbarnától a feketéig változhat a típustól függően, felismerhetők a növényi maradványok. Szárazanyagra számított hamutartalma (Ad) 50%-nál kisebb, elemi szén (karbon) tartalma (Ctd)35-50%, összes nedvességtartalma (Wtr) 35%-nál nagyobb és égéshője (Qsd) kisebb, mint14,0 MJ/kg. |  |  | 2040 | 5400 | Ft/m3 | 900 Lignit |
 
@@ -218,10 +218,10 @@
 
 | 108 | 2. Hőközvetítő anyag recirkulációjával nyert geotermikus energia | Azon geotermikus energia, amelynek kinyerése hőközvetítő anyagnak a földkéregben történő recirkuláltatásával történik. | 2212 | 400 | Ft/GJ | 2200    Hőközvetítő anyag recirkulációjával nyert geotermikus energia |
 
-| 109 | 14. Egyéb nyersanyagok | 1. Meddőhányóból illetve zagytározóból nyert nyersanyagok | Az 1-101. sorszám egyikébe sem besorolható vegyes, kevert ásványi (nyers)anyagok. | 1. BányameddőI. | Azon bányameddő anyag, amely földtani szakértő szakvéleménye alapján a mellékletben szereplő valamelyik nyersanyagot 60%-nál nagyobb mennyiségben tartalmazza. | 2311 | Az adott nyersanyagnál megjelölt fajlagos érték | Ft/m3 | 0000 Vegyes, kevert és meddőhányóból nyert nyersanyagok |
+| 109 | 14. Egyéb nyersanyagok | 1. Vegyes, kevert nyersanyagok | Azon ásványi (nyers)anyagok, melyek vegyes, kevert összetételük révén az 1–101. sorszám egyikébe sem sorolhatók be. | 1. Kevert ásványi nyersanyag I. | Azon ásványi nyersanyag, amely földtani szakértő szakvéleménye alapján a mellékletben szereplő valamelyik nyersanyagot 60%-nál nagyobb mennyiségben tartalmazza. | 2311 | Az adott nyersanyagnál megjelölt fajlagos érték | Ft/m3 |  |
 
-| 110 | 2. Bányameddő II. | Azon bányameddő anyag, amely földtani szakértő szakvéleménye alapján a mellékletben szereplő valamelyik nyersanyagot 60%-nál kisebb mennyiségben tartalmazza. | 2312 | 660 | Ft/m3 |
+| 110 | 2. Kevert ásványi nyersanyag II. | Azon ásványi nyersanyag, amely földtani szakértő szakvéleménye alapján a mellékletben szereplő valamelyik nyersanyagot 60%-nál kisebb mennyiségben tartalmazza. | 2312 | 660 | Ft/m3 | 0000 Vegyes, kevert és meddő-hányóból nyert nyersanyagok |
 
-1/b. melléklet az 54/2008. (III. 20.) Korm. rendelethez[^41]
+1/b. melléklet az 54/2008. (III. 20.) Korm. rendelethez[^49]
 
-[^41]: Az 1/B. mellékletet a 64/2013. (III. 4.) Korm. rendelet 13. § (1) bekezédés f) pontja hatályon kívül helyezte.
+[^49]: Az 1/B. mellékletet a 64/2013. (III. 4.) Korm. rendelet 13. § (1) bekezédés f) pontja hatályon kívül helyezte.

@@ -18,14 +18,12 @@
 
 ## 2.1. A 8/A. § (3) bekezdés d) pontjában előírt t/2 °C értéket a következő képlet alapján kell megállapítani:
 
-| t/2 °C = | kútfejen mért hőmérséklet (°C) - a hőcserélő kimenetén mért hőmérséklet (°C) |
-
-| 2 |
+## 3K89921N_2
 
 ## 2.2. A 8/A. § (3) bekezdés e) pontjában előírt kinyert energia mennyiséget a következő képlet alapján kell megállapítani:
 
 | kinyert energia mennyisége (GJ) = | az energiahordozó térfogata (m3) × t/2 (°C) × 0,004186 |
 
-3/a. melléklet az 54/2008. (III. 20.) Korm. rendelethez[^43]
+3/a. melléklet az 54/2008. (III. 20.) Korm. rendelethez[^51]
 
-[^43]: A 3/a. mellékletet a 251/2011. (XII. 1.) Korm. rendelet 34. §-a hatályon kívül helyezte.
+[^51]: A 3/a. mellékletet a 251/2011. (XII. 1.) Korm. rendelet 34. §-a hatályon kívül helyezte.
