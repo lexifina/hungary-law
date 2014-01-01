@@ -1,14 +1,16 @@
+## 61/N. §[^147] Az integrációs szerződés alapján biztosított 61/K. § (3) bekezdésében meghatározott támogató szolgáltatásokat a családsegítő szolgálat vagy közreműködő civil szervezet a Tv. 32/D. § (1)–(2) bekezdésében meghatározott, integrációs szerződésbe foglalt okok alapján, a menekültügyi hatóság egyetértésével függesztheti fel vagy szüntetheti meg. A felfüggesztés vagy megszüntetés ténye a más jogszabály alapján biztosított családsegítő szolgáltatások igénybevételének lehetőségét nem zárja ki. A családsegítő szolgálat a felfüggesztésről vagy megszüntetésről a menekültügyi hatóságot írásban értesíti.
+
 ## VI. Fejezet
 
 ## A MENEKÜLTÜGYI ELJÁRÁS ÁLTALÁNOS SZABÁLYAI
 
 ## Az elismerés iránti kérelem benyújtása
 
-62. § (1)[^135] Az írásban benyújtott kérelmet az elismerését kérőnek saját kezűleg alá kell írnia.
+62. § (1)[^148] Az írásban benyújtott kérelmet az elismerését kérőnek saját kezűleg alá kell írnia.
 
 (2) Ha a Tv. vagy e rendelet írásbeliséget követel meg, és az elismerését kérő írásképtelen, az elismerését kérő nyilatkozatát és az írásképtelenség tényét jegyzőkönyvbe kell foglalni.
 
-(3)[^136]
+(3)[^149]
 
 (4) A szóbeli kérelemről készült jegyzőkönyvben rögzíteni kell:
 
@@ -18,7 +20,7 @@ b) az elismerését kérő rendelkezésére álló, a személyazonosságát igaz
 
 c) az elismerés iránti kérelmet.
 
-(5)[^137] Az elismerését kérőnek elismerés iránti kérelméhez mellékelnie kell a Tv. 41. § (1) bekezdés a) pontjában meghatározott iratokat, valamint át kell adnia a Tv. 41. § (1) bekezdés b) pontjában meghatározott okmányait.
+(5)[^150] Az elismerését kérőnek elismerés iránti kérelméhez mellékelnie kell a Tv. 41. § (1) bekezdés a) pontjában meghatározott iratokat, valamint át kell adnia a Tv. 41. § (1) bekezdés b) pontjában meghatározott okmányait.
 
 (6) Családtagok közös kérelmezése esetén a jegyzőkönyvnek a (4) bekezdésben meghatározott adatokat minden családtagra vonatkozóan tartalmaznia kell.
 
@@ -26,9 +28,10 @@ c) az elismerés iránti kérelmet.
 
 (8) A menekültügyi hatóság a fogva tartott külföldi számára a kérelem benyújtásának lehetőségét a fogva tartás helyén biztosítja.
 
-(9)[^138] A menekültügyi hatóság ügygondnok kirendelése iránt a járási (fővárosi kerületi) gyámhivatalt (a továbbiakban: járási gyámhivatal) keresi meg.
+(9)[^151] A menekültügyi hatóság ügygondnok kirendelése iránt a járási (fővárosi kerületi) gyámhivatalt (a továbbiakban: járási gyámhivatal) keresi meg.
 
-[^135]: A 62. § (1) bekezdés első mondatát a 182/2009. (IX. 10.) Korm. rendelet 588. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^136]: A 62. § (3) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 588. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^137]: A 62. § (5) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 110. §-ával megállapított szöveg.
-[^138]: A 62. § (9) bekezdése a 296/2012. (X. 17.) Korm. rendelet 31. § a) pontja szerint módosított szöveg.
+[^147]: A 61/N. §-t a 446/2013. (XI. 28.) Korm. rendelet 34. §-a iktatta be.
+[^148]: A 62. § (1) bekezdés első mondatát a 182/2009. (IX. 10.) Korm. rendelet 588. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^149]: A 62. § (3) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 588. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^150]: A 62. § (5) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 110. §-ával megállapított szöveg.
+[^151]: A 62. § (9) bekezdése a 296/2012. (X. 17.) Korm. rendelet 31. § a) pontja szerint módosított szöveg.

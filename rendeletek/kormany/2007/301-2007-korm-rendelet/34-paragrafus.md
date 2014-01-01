@@ -1,5 +1,5 @@
-34. § (1)[^60] A különleges bánásmódot igénylő elismerését kérő – amennyiben egyéni helyzetére tekintettel és szakorvosi vélemény alapján is szükséges – a 26–27. §-ban foglaltak mellett térítésmentesen jogosult az egészségi állapotára figyelemmel indokolt egészségügyi szolgáltatások igénybevételére, rehabilitációs, pszichológiai, valamint klinikai szakpszichológiai ellátásra, továbbá pszichoterápiás kezelésre.
+34. § (1)[^73] A különleges bánásmódot igénylő elismerését kérő – amennyiben egyéni helyzetére tekintettel és szakorvosi vélemény alapján is szükséges – a 26–27. §-ban foglaltak mellett térítésmentesen jogosult az egészségi állapotára figyelemmel indokolt egészségügyi szolgáltatások igénybevételére, rehabilitációs, pszichológiai, valamint klinikai szakpszichológiai ellátásra, továbbá pszichoterápiás kezelésre.
 
 (2) Az (1) bekezdés szerinti ellátások költségeinek megtérítésére a 28. § rendelkezései megfelelően irányadók.
 
-[^60]: A 34. § (1) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 94. §-ával megállapított szöveg.
+[^73]: A 34. § (1) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 94. §-ával megállapított szöveg.

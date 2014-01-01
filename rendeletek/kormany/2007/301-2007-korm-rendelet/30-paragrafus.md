@@ -1,13 +1,14 @@
 ## Beiskolázási támogatás
 
-30. §[^54] (1)[^55] A nemzeti köznevelésről szóló törvény hatálya alá tartozó nappali rendszerű iskolai oktatás keretében vagy nappali oktatás munkarendje szerinti köznevelési intézményben tanulmányokat folytató elismerését kérő a tanulmányai folytatása érdekében – 21. életéve betöltéséig – beiskolázási támogatásra jogosult. A beiskolázási támogatás iránti kérelmet a menekültügyi hatósághoz kell benyújtani.
+30. §[^66] (1)[^67] A nemzeti köznevelésről szóló törvény hatálya alá tartozó iskolai oktatás keretében tanulmányokat folytató elismerését kérő a tanulmányai folytatása érdekében – 21. életéve betöltéséig – beiskolázási támogatásra jogosult. A beiskolázási támogatás iránti kérelmet a menekültügyi hatósághoz kell benyújtani.
 
-(1a)[^56] Az (1) bekezdésben foglaltakat a súlyos betegség miatt magántanulóként tanulmányokat folytatók vonatkozásában is megfelelően alkalmazni kell.
+(1a)[^68] Az (1) bekezdésben foglaltakat a súlyos betegség miatt magántanulóként tanulmányokat folytatók vonatkozásában is megfelelően alkalmazni kell.
 
-(2) A beiskolázási támogatás tanévenként egyszer vehető igénybe, tankönyvre, tantárgyi munkafüzetre, tanszerre, tanfelszerelésre és ruházatra fordítható. A beiskolázási támogatás mértéke az öregségi nyugdíj mindenkori legkisebb összege.
+(2)[^69] A beiskolázási támogatás tanévenként egyszer vehető igénybe, tankönyvre, tantárgyi munkafüzetre, tanszerre, tanfelszerelésre és ruházatra fordítható. A beiskolázási támogatás mértéke az öregségi teljes nyugdíj legkisebb összege.
 
 (3) A kérelemhez csatolni kell a tanszer, tanfelszerelés, tankönyv, tantárgyi munkafüzet, illetve a ruházat költségeit feltüntető számlát, amely alapján a beiskolázási támogatást a menekültügyi hatóság utólag téríti meg.
 
-[^54]: A 30. § a 290/2010. (XII. 21.) Korm. rendelet 92. §-ával megállapított szöveg.
-[^55]: A 30. § (1) bekezdése a 221/2013. (VI. 24.) Korm. rendelet 39. §-ával megállapított szöveg.
-[^56]: A 30. § (1a) bekezdését a 81/2012. (IV. 18.) Korm. rendelet 13. § (2) bekezdése iktatta be.
+[^66]: A 30. § a 290/2010. (XII. 21.) Korm. rendelet 92. §-ával megállapított szöveg.
+[^67]: A 30. § (1) bekezdése a 446/2013. (XI. 28.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^68]: A 30. § (1a) bekezdését a 81/2012. (IV. 18.) Korm. rendelet 13. § (2) bekezdése iktatta be.
+[^69]: A 30. § (2) bekezdése a 446/2013. (XI. 28.) Korm. rendelet 36. § (1) bekezdés a) pontja szerint módosított szöveg.

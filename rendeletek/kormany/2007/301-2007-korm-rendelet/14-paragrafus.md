@@ -1,22 +1,18 @@
-## Szerződés alapján teljesített ellátások
+## Szerződés alapján vagy adomány felhasználása útján teljesített ellátások[^25]
 
-14. § (1) A befogadással összefüggő feladatok hatékonyabb végrehajtása érdekében a menekültügyi hatóság az egyes ellátási és társadalmi beilleszkedést célzó feladatok teljesítésére a (2) bekezdésben felsorolt szervezetekkel szerződést köthet.
+14. § (1)[^26] A befogadással összefüggő feladatok hatékonyabb végrehajtása érdekében a menekültügyi hatóság az egyes ellátást és támogatást célzó feladatok teljesítésére a (2) bekezdésben felsorolt szervezetekkel szerződést köthet.
 
-(2)[^25] A menekültügyi hatóság társadalmi szervezettel, helyi önkormányzattal, egyházi jogi személlyel, alapítvánnyal, ezek intézményével, gazdálkodó szervezettel, valamint egyéb jogi személlyel (a továbbiakban: szolgáltató) szerződést köthet
+(2)[^27] A menekültügyi hatóság különösen civil szervezettel, helyi önkormányzattal, egyházi jogi személlyel, alapítvánnyal, ezek intézményével, gazdálkodó szervezettel, valamint egyéb jogi személlyel (a továbbiakban: szolgáltató) szerződést köthet
 
-a) az elismerését kérő befogadási feltételeinek biztosítására;
+a) az elismerését kérő számára a befogadás anyagi feltételeinek biztosítására;
 
 b) a menekültet, az oltalmazottat és a menedékest megillető ellátások biztosítására;
 
 c) az elismerését kérő, a menekült, az oltalmazott és a menedékes szociális és mentálhigiénés gondozására;
 
-d) az elismerését kérő, a menekült, az oltalmazott és a menedékes jogaira és kötelezettségeire irányuló tájékoztatására;
+d) az elismerését kérő, a menekült, az oltalmazott és a menedékes jogaira és kötelezettségeire irányuló tájékoztatására; valamint
 
-e) a menekült és az oltalmazott szak- és átképzésére;
-
-f) a menekült, az oltalmazott és a menedékes magyar nyelvi oktatására;
-
-g) a menekült, az oltalmazott és a menedékes társadalmi beilleszkedésének elősegítésére.
+e) a menedékes magyar nyelvoktatására.
 
 (3) A (2) bekezdésben meghatározott feladatokra – a közbeszerzésekről szóló 2003. évi CXXIX. törvény előírásaira is figyelemmel – pályázat útján kell kiválasztani a szolgáltatót. A pályázati felhívást a menekültügyi hatóság teszi közzé. A pályázati felhívásnak tartalmaznia kell az ellátásban részesítendők körét és tervezett számát, valamint a nyújtandó ellátás megnevezését és biztosításának időtartamát.
 
@@ -34,4 +30,6 @@ e) a szerződés érvényességi idejét, felmondásának módját, valamint az 
 
 (5) A szerződéshez – szükség esetén – mellékelni kell a szolgáltató jogállására vonatkozó bírósági határozat, illetve a szerződésben vállalt feladatok ellátásához szükséges hatósági engedély másolatát.
 
-[^25]: A 14. § (2) bekezdés nyitó szövegrésze a 297/2013. (VII. 29.) Korm. rendelet 42. §-a szerint módosított szöveg.
+[^25]: A 14. §-át megelőző alcím a 446/2013. (XI. 28.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^26]: A 14. § (1) bekezdése a 446/2013. (XI. 28.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
+[^27]: A 14. § (2) bekezdése a 446/2013. (XI. 28.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.

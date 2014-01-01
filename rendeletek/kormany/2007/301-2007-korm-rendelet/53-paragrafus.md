@@ -1,3 +1,10 @@
-53. § (1) A menedékesnek rendszeres létfenntartási támogatás jár, ha a 41. §-ban meghatározott ellátásra és támogatásra jogosult, de azt nem veszi igénybe.
+## A menedékes rendszeres létfenntartási támogatása[^111]
 
-(2) A menedékesnek járó rendszeres létfenntartási támogatás havi mértéke az öregségi nyugdíj mindenkori legkisebb összege. A támogatás megállapítására, folyósítására, annak visszaigénylésére egyebekben az 52. §-ban foglaltak az irányadók.
+53. §[^112] (1) A menedékes az ideiglenes védelem teljes időtartama alatt – a befogadó állomás végleges elhagyását követően, kérelmére – rendszeres létfenntartási támogatásban részesülhet, ha a 41. §-ban meghatározott ellátásra és támogatásra jogosult, de azt nem veszi igénybe.
+
+(2) A menedékesnek járó rendszeres létfenntartási támogatás havi mértéke az öregségi teljes nyugdíj legkisebb összege.
+
+(3) A rendszeres létfenntartási támogatást a menedékes kérelmére a menekültügyi hatóság állapítja meg, és azt a menekültügyi hatóság havonta – a hónap 15. napjáig – folyósítja.
+
+[^111]: Az 53. §-át megelőző alcímet a 446/2013. (XI. 28.) Korm. rendelet 30. §-a iktatta be.
+[^112]: Az 53. § a 446/2013. (XI. 28.) Korm. rendelet 30. §-ával megállapított szöveg.

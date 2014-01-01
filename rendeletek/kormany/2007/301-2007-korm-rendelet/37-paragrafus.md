@@ -1,53 +1,42 @@
 ## V. Fejezet
 
-## A MENEKÜLT, AZ OLTALMAZOTT, VALAMINT
-
-## A MENEDÉKES ELLÁTÁSA ÉS TÁMOGATÁSA
+## A MENEKÜLT, AZ OLTALMAZOTT, VALAMINT A MENEDÉKES ELLÁTÁSA ÉS TÁMOGATÁSA; AZ INTEGRÁCIÓS SZERZŐDÉS[^85]
 
 ## A menekült, az oltalmazott, valamint a menedékes számára nyújtott ellátások és támogatások rendszere
 
-37. § (1) A menekültet, az oltalmazottat és – az (5) bekezdésben foglalt kivétellel – a menedékest az alábbi ellátások és támogatások illetik meg:
+37. §[^86] (1) A befogadó állomáson tartózkodó menekültet és oltalmazottat az alábbi ellátások és támogatások illetik meg:
 
 a) a befogadás anyagi feltételeinek további biztosítása,
 
-b) egészségügyi ellátás,
+b) az egészségügyi ellátás,
 
-c)[^71] oktatási, nevelési költségek megtérítése,
+c) az oktatási, nevelési költségek megtérítése,
 
-d) pénzbeli támogatások,
+d) a beiskolázási támogatás, valamint
 
-e) társadalmi beilleszkedést elősegítő támogatások.
+e) az ország végleges elhagyásának támogatása.
 
 (2) A befogadás anyagi feltételeinek formái:
 
 a) a befogadó állomáson nyújtott elhelyezés és ellátás,
 
-b) szabad felhasználású havi költőpénz,
+b) a szabad felhasználású havi költőpénz, valamint
 
-c) részesítés adományokból,
+c) az utazási kedvezmények igénybevétele.
 
-d) utazási kedvezmények igénybevétele.
+(3) A magánszálláson tartózkodó menekültet és oltalmazottat az alábbi ellátások és támogatások illetik meg:
 
-(3) Pénzbeli támogatások:
+a) az egészségügyi ellátás,
 
-a) a beiskolázási támogatás,
+b) az ország végleges elhagyásának támogatása,
 
-b) a letelepedéshez nyújtott egyszeri támogatás,
+c) a menekültek és oltalmazottak kiegészítő támogatása,
 
-c) az okmányok fordítási költségeinek megtérítése,
+d) a menekültek és oltalmazottak lakáscélú támogatása,
 
-d) az ország végleges elhagyásának támogatása.
+e) az integrációs szerződés alapján nyújtott támogató szolgáltatások, valamint
 
-(4) Társadalmi beilleszkedést elősegítő támogatások:
+f) az integrációs támogatás.
 
-a) az ingyenes magyar nyelvoktatás,
-
-b) a rendszeres létfenntartási támogatás,
-
-c) a lakhatási támogatás,
-
-d) menekültek és oltalmazottak lakáscélú támogatása.
-
-(5) A menedékes nem jogosult a letelepedéshez nyújtott egyszeri támogatásra, lakhatási támogatásra, valamint a menekültek és oltalmazottak lakáscélú támogatására.
-
-[^71]: A 37. § (1) bekezdés c) pontja a 81/2012. (IV. 18.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^85]: Az V. Fejezet címe a 446/2013. (XI. 28.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^86]: A 37. § a 446/2013. (XI. 28.) Korm. rendelet 19. §-ával megállapított szöveg.

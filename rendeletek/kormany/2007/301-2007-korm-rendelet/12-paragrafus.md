@@ -6,9 +6,9 @@
 
 ## Általános rendelkezések
 
-12. § (1)[^20] Az elismerését kérő egészségének megfelelő és alapszükségleteit kielégítő életszínvonalat biztosító feltételek megteremtése, továbbá a menekült, az oltalmazott, valamint a menedékes társadalmi beilleszkedésének elősegítése állami feladat.
+12. § (1)[^20] A befogadás során az elismerését kérő testi és szellemi egészségének megfelelő és az alapszükségleteket kielégítő életszínvonalat biztosító feltételeket kell biztosítani. Ugyanezen feltételeket kell biztosítani a menekült, oltalmazott és menedékes befogadó állomáson történő elhelyezése során.
 
-(2)[^21] Az (1) bekezdés szerinti feladatokat a menekültügyi hatóság közvetlenül, a befogadó állomás, valamint a menekült vagy az oltalmazott lakóhelye, illetve a menedékes szálláshelye szerint illetékes fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal) útján látja el.
+(2)[^21] Az (1) bekezdés szerinti feladatokat a menekültügyi hatóság közvetlenül a befogadó állomás, vagy a menekültügyi őrzött befogadó központ útján látja el.
 
 (3) A befogadó állomás az elismerését kérő, a menekült, az oltalmazott, valamint a menedékes elhelyezését és ellátását biztosító, a menekültügyi hatóság által fenntartott létesítmény.
 
@@ -20,7 +20,7 @@
 
 [^18]: A 11/A. §-t a 15/2013. (I. 28.) Korm. rendelet 36. § (1) bekezdése iktatta be.
 [^19]: A III. Fejezet címe a 221/2013. (VI. 24.) Korm. rendelet 30. §-ával megállapított szöveg.
-[^20]: A 12. § (1) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 81. § (1) bekezdésével megállapított szöveg.
-[^21]: A 12. § (2) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 50. § a) pontja szerint módosított szöveg.
+[^20]: A 12. § (1) bekezdése a 446/2013. (XI. 28.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^21]: A 12. § (2) bekezdése a 446/2013. (XI. 28.) Korm. rendelet 12. §-ával megállapított szöveg.
 [^22]: A 12. § (4) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 81. § (2) bekezdésével megállapított szöveg.
 [^23]: A 12. § (6) bekezdését a 290/2010. (XII. 21.) Korm. rendelet 81. § (3) bekezde iktatta be.
