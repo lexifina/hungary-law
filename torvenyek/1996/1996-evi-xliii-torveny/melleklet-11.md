@@ -45,5 +45,3 @@ III.*
 2. a korábbi közigazgatási jellegű munkáltató vagy korábbi fegyveres szerv munkáltató megnevezése, tevékenységi területe, valamint az ott jogviszonyban töltött időtartamok
 
 3. szakmai tapasztalat
-
-4. beosztás
