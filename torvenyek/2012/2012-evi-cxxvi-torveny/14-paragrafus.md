@@ -65,3 +65,5 @@ a) a szakmaközi szervezetet nyilatkozat tételi, valamint a taggal szembeni int
 b) etikai intézkedésként a külön jogszabályban meghatározottak szerint termelési, feldolgozási, forgalmazási tevékenység korlátozásának érintett hatóság általi elrendelése is kezdeményezhető.
 
 (6) A kamarát a törvényben, illetve alapszabályban meghatározott feladatai ellátása érdekében a fogyasztóvédelemre vonatkozó szabályok fogyasztói érdekek képviseletét ellátó egyesületetekre vonatkozó szabályok megfelelő alkalmazása mellett közérdekű keresetindítási jog illeti meg.
+
+(7) Az agrárkamara külön jogszabályban meghatározott egyes igazgatási feladatait a falugazdász hálózat útján látja el.

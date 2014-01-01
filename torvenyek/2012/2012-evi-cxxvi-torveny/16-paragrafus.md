@@ -2,19 +2,21 @@
 
 16. § (1) Az agrárkamara szolgáltatási közfeladatai keretében
 
-a)–b)
+a) országos szaktanácsadói hálózatot működtet;
+
+b) tájékoztatást nyújt a gazdasággal összefüggő magyar és külföldi jogszabályokról, valamint a gazdálkodó szervezetek tevékenységét érintő gazdaságpolitikai döntésekről és intézkedésekről, előmozdítja a gazdasági együttműködés fejlődését;
 
 c) a szakképzésről szóló törvényben és végrehajtási rendeletében foglaltak szerint ellátja a tanulószerződés és hallgatói szerződés szervezésével kapcsolatos feladatokat, a gyakorlati képzőhelyek ellenőrzését, felügyeletét, segíti a szakképzés képzési és beiskolázási szerkezetének, a hiány-szakképesítések körének meghatározását, a fiatalok pályaválasztását, pályaorientációját, továbbá szervezi és végzi a mesterképzést és mestervizsgáztatást.
 
 (2) A kamara tagjai részére térítésmentes alapszolgáltatásként
 
-a) általános agrometeorológiai tájékoztatást ad;
+a) biztosítja a kamarai ügyfélszolgálat igénybevételét;
 
-b) tájékoztatást nyújt földügyekkel kapcsolatosan a földtulajdonnal, földhasználattal és földforgalmazással összefüggő kérdésekben, valamint a Nemzeti Földalapkezelő Szervezet által kiírt pályázatokkal kapcsolatosan;
+b) az alapszabályban rögzített feltételek szerint biztosítja az agrárkamara által szervezett szakmai konferenciákon való részvételt;
 
 c) általános növényvédelmi előrejelzést ad;
 
-d)
+d) általános piaci információkat ad;
 
 e) nyilvános adatbázisok alapján általános információt szolgáltat a piaci szereplők minősítéséről;
 
