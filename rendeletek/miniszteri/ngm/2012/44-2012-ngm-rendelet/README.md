@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-44-20-2
 | 2013-01-02 | 2012-44-20-2X.2 | 2010: CXXX. törvény |
 | 2013-07-01 | 2012-44-20-2X.3 | 27/2013. (VI. 30.) NGM rendelet |
 | 2013-07-02 | 2012-44-20-2X.4 | 27/2013. (VI. 28.) NGM rendelet |
+| 2014-01-01 | 2012-44-20-2X.5 | 27/2013. (VI. 28.) NGM rendelet |
