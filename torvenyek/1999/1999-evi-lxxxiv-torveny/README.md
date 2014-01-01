@@ -24,3 +24,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1999-84-00-00
 | 2013-07-01 | 2013. évi LXXXI. törvény | 1999-84-00-00.38 |
 | 2013-07-20 | 2013. évi LXXXVIII. törvény | 1999-84-00-00.39 |
 | 2013-08-01 | 2013. évi LXXXIV. törvény | 1999-84-00-00.40 |
+| 2014-01-01 | 2013. évi CC. törvény | 1999-84-00-00.41 |
