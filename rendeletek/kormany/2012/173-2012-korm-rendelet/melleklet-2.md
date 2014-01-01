@@ -8,7 +8,7 @@
 
 | 2. | Az új ferencvárosi labdarúgó stadion, és a megépítéséhez kapcsolódó beruházások. | A Budapest IX. kerület 38293/75 hrsz. alatt nyilvántartott, természetben a Budapest IX. kerület, Üllői út 129. és a Budapest IX. kerület, Könyves Kálmán körút 34–36. szám alatt található ingatlan. A Budapest IX. kerület 38293/15 hrsz. (Könyves Kálmán körút); a Budapest IX. kerület 38298 hrsz. (Üllői út); a Budapest IX. kerület 38291 hrsz. (Gyáli út) alatt nyilvántartott ingatlan. A Budapest IX. kerület 38293/33 hrsz. alatt nyilvántartott, és ott található ingatlan. | építésügyi hatósági engedélyezési eljárások: – általános építmények, – műemléki védelem alatt álló építmények, – építményen belül, építménybe beépített felvonók, mozgólépcsők (beleértve a mozgójárdát is) esetében | Budapest Főváros Kormányhivatala V. Kerületi Hivatalának Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
-| 3. | környezetvédelmi hatósági engedélyezési eljárások | Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 3. | környezetvédelmi hatósági engedélyezési eljárások | Közép-Duna-völgyi Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
 | 4. | útügyi hatósági engedélyezési eljárások | Budapest Főváros Kormányhivatala Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
@@ -44,7 +44,9 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 | 2. | Építésügy | Budapest Főváros Kormányhivatala V. Kerületi Hivatalának Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
-| 3. | Környezetvédelem, természetvédelem és vízügy | Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 3. | környezet- és természetvédelem | Közép-Duna-völgyi Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+
+| 3a. | vízügy | Közép-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
 | 4. | Katasztrófavédelem | Fővárosi Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
@@ -76,4 +78,4 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 | 18. | Bányászat | Budapesti Bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
-[^4]: A 2. melléklet a 296/2012. (X. 17.) Korm. rendelet 63. §-a, a 394/2012. (XII. 20.) Korm. rendelet 60. §-a szerint módosított szöveg.
+[^4]: A 2. melléklet a 296/2012. (X. 17.) Korm. rendelet 63. §-a, a 394/2012. (XII. 20.) Korm. rendelet 60. §-a, az 527/2013. (XII. 30.) Korm. rendelet 118. § (1) bekezdése szerint módosított szöveg.
