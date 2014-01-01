@@ -1,4 +1,4 @@
-## 78. §[^27]
+## 78. §[^23]
 
 ## 19. Záró rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) A 73. § (2) bekezdése 2014. július 1-jén lép hatályba.
 
-[^27]: A 78. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^23]: A 78. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
