@@ -70,6 +70,6 @@ e) az Európai Együttműködő Államok Terve (PECS) programban való részvét
 
 (9) Az (1) bekezdés f) pontja szerinti kutatói tehetséggondozás, kutatói, oktatói továbbképzés, továbbá a (4) bekezdésben meghatározott jogcímek, feladatok éves támogatására együttesen a 2. § b) pontja szerinti tárgyévi központi költségvetési támogatás 8%-át meg nem haladó mértékben kerülhet sor.
 
-(10) Az Alap kiadási előirányzatairól a tárgyévi költségvetési törvény rendelkezik. Az Alap költségvetési címei között a fejlesztéspolitikáért felelős miniszter (a továbbiakban: miniszter) – amennyiben a felhasználás, illetve a kötelezettségállomány alakulása indokolja – előirányzat-átcsoportosítást hajthat végre.
+(10) Az Alap kiadási előirányzatairól a tárgyévi költségvetési törvény rendelkezik. Az Alap költségvetési címei között a kutatás-fejlesztésért és technológiai innovációért felelős miniszter (a továbbiakban: miniszter) – amennyiben a felhasználás, illetve a kötelezettségállomány alakulása indokolja – előirányzat-átcsoportosítást hajthat végre.
 
 (11) Az Alapból nyújtott támogatások igénybevételének feltételeiről a kedvezményezettel szerződésben kell megállapodni.
