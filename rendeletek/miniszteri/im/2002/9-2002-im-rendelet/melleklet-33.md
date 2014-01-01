@@ -230,6 +230,6 @@
 
 ## .................../20............/................. szám
 
-33. melléklet a 9/2002 (IV. 9.) IM rendelethez[^355]
+33. melléklet a 9/2002 (IV. 9.) IM rendelethez[^359]
 
-[^355]: A 33. mellékletet a 9/2013. (VI. 29.) KIM rendelet 59. § (2) bekezdése iktatta be.
+[^359]: A 33. mellékletet a 9/2013. (VI. 29.) KIM rendelet 59. § (2) bekezdése iktatta be.

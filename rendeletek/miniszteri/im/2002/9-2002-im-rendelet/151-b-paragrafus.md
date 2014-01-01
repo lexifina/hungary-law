@@ -1,6 +1,8 @@
-## Az elektronikus adat ideiglenes hozzáférhetetlenné tétele az elektronikus adat eltávolításával[^307]
+## 151/A. §[^308]
 
-151/B. §[^308] (1) Ha a bíróság határozatában a tárhelyszolgáltatót az elektronikus adat ideiglenes eltávolításának visszaállítható módon történő végrehajtására kötelezi, az elektronikus adatot és a kötelezettet a 127/A. § (1) és (4) bekezdésében meghatározott adatokkal tünteti fel.
+## Az elektronikus adat ideiglenes hozzáférhetetlenné tétele az elektronikus adat eltávolításával[^309]
+
+151/B. §[^310] (1) Ha a bíróság határozatában a tárhelyszolgáltatót az elektronikus adat ideiglenes eltávolításának visszaállítható módon történő végrehajtására kötelezi, az elektronikus adatot és a kötelezettet a 127/A. § (1) és (4) bekezdésében meghatározott adatokkal tünteti fel.
 
 (2) A bíróság az elektronikus adat ideiglenes hozzáférhetetlenné tételének az elektronikus adat ideiglenes eltávolításával történő elrendeléséről szóló határozata meghozatalával egyidejűleg, tekintet nélkül arra, hogy a határozata jogerőre emelkedett-e, a határozatának eredeti bírói aláírással ellátott két kiadmányát megküldi a Vht. 32. §-a szerint illetékes törvényszéki végrehajtói irodának. A bíróság a határozat kiadmányokra felhívást vezet, amelyben a kötelezettet azonnali – de legfeljebb a határozat közlésétől számított egy munkanapon belüli – önkéntes teljesítésre hívja fel, a felhívást eredeti bírói aláírással kell ellátni.
 
@@ -20,5 +22,6 @@ a) az eljárás befejezéséről hozott határozatában, vagy
 
 b) ha az erről szóló határozatot az ügyész vagy a nyomozó hatóság hozta – és a Be. 569. § alkalmazására nincs lehetőség – az ügyész indítványára külön határozattal
 
-[^307]: A 151/B. §-t megelőző alcímet a 9/2013. (VI. 29.) KIM rendelet 53. §-a iktatta be.
-[^308]: A 151/B. §-t a 9/2013. (VI. 29.) KIM rendelet 53. §-a iktatta be.
+[^308]: A 151/A. §-t és az azt megelőző alcímet a 35/2013. (XII. 23.) KIM rendelet 7. § c)–d) pontja hatályon kívül helyezte.
+[^309]: A 151/B. §-t megelőző alcímet a 9/2013. (VI. 29.) KIM rendelet 53. §-a iktatta be.
+[^310]: A 151/B. §-t a 9/2013. (VI. 29.) KIM rendelet 53. §-a iktatta be.

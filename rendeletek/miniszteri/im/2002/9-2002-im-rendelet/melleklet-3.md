@@ -32,6 +32,6 @@
 
 | 206. | Értesítés lakhelyelhagyási tilalom elrendeléséről, fenntartásáról, megszüntetéséről. |
 
-3. melléklet a 9/2002 (IV. 9.) IM rendelethez[^324]
+3. melléklet a 9/2002 (IV. 9.) IM rendelethez[^328]
 
-[^324]: A 3. mellékletet a 9/2013. (VI. 29.) KIM rendelet 59. § (2) bekezdése iktatta be.
+[^328]: A 3. mellékletet a 9/2013. (VI. 29.) KIM rendelet 59. § (2) bekezdése iktatta be.

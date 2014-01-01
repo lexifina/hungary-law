@@ -48,6 +48,6 @@
 
 | 320. | Értesítés a pénzbüntetés átváltoztatásáról. |
 
-9. melléklet a 9/2002 (IV. 9.) IM rendelethez[^330]
+9. melléklet a 9/2002 (IV. 9.) IM rendelethez[^334]
 
-[^330]: A 9. mellékletet a 9/2013. (VI. 29.) KIM rendelet 59. § (2) bekezdése iktatta be.
+[^334]: A 9. mellékletet a 9/2013. (VI. 29.) KIM rendelet 59. § (2) bekezdése iktatta be.

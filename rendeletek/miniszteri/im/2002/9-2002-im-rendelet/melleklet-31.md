@@ -38,6 +38,6 @@
 
 ## a tanács elnöke - bíró
 
-31. melléklet a 9/2002 (IV. 9.) IM rendelethez[^353]
+31. melléklet a 9/2002 (IV. 9.) IM rendelethez[^357]
 
-[^353]: A 31. mellékletet a 9/2013. (VI. 29.) KIM rendelet 59. § (2) bekezdése iktatta be.
+[^357]: A 31. mellékletet a 9/2013. (VI. 29.) KIM rendelet 59. § (2) bekezdése iktatta be.

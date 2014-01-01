@@ -38,6 +38,6 @@
 
 | 206/a. | Értesítés házi őrizet elrendeléséről, fenntartásáról, megszüntetéséről. |
 
-4. melléklet a 9/2002 (IV. 9.) IM rendelethez[^325]
+4. melléklet a 9/2002 (IV. 9.) IM rendelethez[^329]
 
-[^325]: A 4. mellékletet a 9/2013. (VI. 29.) KIM rendelet 59. § (2) bekezdése iktatta be.
+[^329]: A 4. mellékletet a 9/2013. (VI. 29.) KIM rendelet 59. § (2) bekezdése iktatta be.

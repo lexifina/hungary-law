@@ -58,6 +58,6 @@
 
 | 335. | Értesítés összbüntetés kiszabásáról olyan esetben, amikor a feltételes szabadság kizárt. |
 
-17. melléklet a 9/2002 (IV. 9.) IM rendelethez[^338]
+17. melléklet a 9/2002 (IV. 9.) IM rendelethez[^342]
 
-[^338]: A 17. mellékletet a 9/2013. (VI. 29.) KIM rendelet 59. § (2) bekezdése iktatta be.
+[^342]: A 17. mellékletet a 9/2013. (VI. 29.) KIM rendelet 59. § (2) bekezdése iktatta be.

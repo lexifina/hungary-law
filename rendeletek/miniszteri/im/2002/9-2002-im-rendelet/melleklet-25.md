@@ -24,6 +24,6 @@
 
 | ................................................. tanácselnöke, bíró |
 
-25. melléklet a 9/2002 (IV. 9.) IM rendelethez[^346]
+25. melléklet a 9/2002 (IV. 9.) IM rendelethez[^350]
 
-[^346]: A 25. mellékletet a 9/2013. (VI. 29.) KIM rendelet 59. § (2) bekezdése iktatta be.
+[^350]: A 25. mellékletet a 9/2013. (VI. 29.) KIM rendelet 59. § (2) bekezdése iktatta be.

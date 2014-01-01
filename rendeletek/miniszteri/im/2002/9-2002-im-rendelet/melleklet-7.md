@@ -42,6 +42,6 @@
 
 | 309. | Értesítés előzetes fogvatartás, házi őrizet utólagos beszámításáról. |
 
-7. melléklet a 9/2002 (IV. 9.) IM rendelethez[^328]
+7. melléklet a 9/2002 (IV. 9.) IM rendelethez[^332]
 
-[^328]: A 7. mellékletet a 9/2013. (VI. 29.) KIM rendelet 59. § (2) bekezdése iktatta be.
+[^332]: A 7. mellékletet a 9/2013. (VI. 29.) KIM rendelet 59. § (2) bekezdése iktatta be.

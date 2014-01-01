@@ -60,6 +60,6 @@
 
 | 905. | Értesítés előzetes letartóztatás elrendeléséről, meghosszabbításáról a vádirat benyújtása előtt. |
 
-10. melléklet a 9/2002 (IV. 9.) IM rendelethez[^331]
+10. melléklet a 9/2002 (IV. 9.) IM rendelethez[^335]
 
-[^331]: A 10. mellékletet a 9/2013. (VI. 29.) KIM rendelet 59. § (2) bekezdése iktatta be.
+[^335]: A 10. mellékletet a 9/2013. (VI. 29.) KIM rendelet 59. § (2) bekezdése iktatta be.

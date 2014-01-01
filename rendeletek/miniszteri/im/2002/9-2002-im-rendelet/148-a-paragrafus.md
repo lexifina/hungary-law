@@ -1,8 +1,8 @@
 ## A házi őrizet
 
-148/A. §[^287] (1)[^288] A terhelt házi őrizetének elrendelése, fenntartása és megszüntetése esetén a bíróság határozatát megküldi a terhelt házi őrizet céljára kijelölt lakásának helye szerint illetékes rendőrkapitányságnak, egyebekben a házi őrizet végrehajtásáról szóló külön jogszabály szerint jár el.
+148/A. §[^289] (1)[^290] A terhelt házi őrizetének elrendelése, fenntartása és megszüntetése esetén a bíróság határozatát megküldi a terhelt házi őrizet céljára kijelölt lakásának helye szerint illetékes rendőrkapitányságnak, egyebekben a házi őrizet végrehajtásáról szóló külön jogszabály szerint jár el.
 
 (2) Ha a bíróság a Be. 130. §-ának (2) bekezdése szerinti eljárásban az előzetes letartóztatás helyett házi őrizetet rendelt el, és az ügyész fellebbezést jelentett be, a határozatot nem kell megküldeni. Ebben az esetben a határozatot az a bíróság küldi meg, amelynek eljárásában a határozat jogerőre emelkedett.
 
-[^287]: A 148/A. §-t és az azt megelőző alcímet a 23/2003. (VI. 26.) IM rendelet 58. §-a iktatta a szövegbe.
-[^288]: A 148/A. § (1) bekezdése a 11/2006. (VII. 25.) IRM rendelet 27. §-ával megállapított szöveg.
+[^289]: A 148/A. §-t és az azt megelőző alcímet a 23/2003. (VI. 26.) IM rendelet 58. §-a iktatta a szövegbe.
+[^290]: A 148/A. § (1) bekezdése a 11/2006. (VII. 25.) IRM rendelet 27. §-ával megállapított szöveg.

@@ -30,6 +30,6 @@
 
 | 290. | Értesítés kényszergyógykezelés elrendeléséről és megszüntetéséről. |
 
-6. melléklet a 9/2002 (IV. 9.) IM rendelethez[^327]
+6. melléklet a 9/2002 (IV. 9.) IM rendelethez[^331]
 
-[^327]: A 6. mellékletet a 9/2013. (VI. 29.) KIM rendelet 59. § (2) bekezdése iktatta be.
+[^331]: A 6. mellékletet a 9/2013. (VI. 29.) KIM rendelet 59. § (2) bekezdése iktatta be.

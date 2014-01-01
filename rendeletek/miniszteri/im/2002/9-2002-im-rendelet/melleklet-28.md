@@ -70,6 +70,6 @@
 
 | 317. | Egységes értesítés. |
 
-28. melléklet a 9/2002 (IV. 9.) IM rendelethez[^350]
+28. melléklet a 9/2002 (IV. 9.) IM rendelethez[^354]
 
-[^350]: A 28. mellékletet a 9/2013. (VI. 29.) KIM rendelet 59. § (2) bekezdése iktatta be.
+[^354]: A 28. mellékletet a 9/2013. (VI. 29.) KIM rendelet 59. § (2) bekezdése iktatta be.

@@ -1,16 +1,38 @@
 ## rendelkezik az elektronikus adat visszaállításáról, egyebekben a bíróság a (4) bekezdés alkalmazásával jár el.
 
-## Az elektronikus adat ideiglenes hozzáférhetetlenné tétele az elektronikus adathoz való hozzáférés ideiglenes megakadályozásával[^309]
+## Az elektronikus adat ideiglenes hozzáférhetetlenné tétele az elektronikus adathoz való hozzáférés ideiglenes megakadályozásával[^311]
 
-151/C. §[^310] (1) A bíróság az elektronikus adat ideiglenes hozzáférhetetlenné tételének az elektronikus adathoz való hozzáférés ideiglenes megakadályozásával történő elrendelésével egyidejűleg intézkedik a határozat hirdetményi kézbesítése és a hirdetménynek a bíróságok központi internetes honlapján való közzététele érdekében.
+151/C. §[^312] (1) A bíróság az elektronikus adat ideiglenes hozzáférhetetlenné tételének az elektronikus adathoz való hozzáférés ideiglenes megakadályozásával történő elrendeléséről szóló határozata meghozatalával egyidejűleg, tekintet nélkül arra, hogy a határozata jogerőre emelkedett-e, a határozatról értesítőlapot állít ki és azt a határozattal együtt elektronikus úton megküldi az NMHH-nak.
 
-(2) Ha a fellebbezés elbírálásakor a másodfokú bíróság a határozatot megváltoztatva az elektronikus adathoz való hozzáférés ideiglenes megakadályozásának elrendelését mellőzi, azzal egyidejűleg intézkedik a határozat hirdetményi kézbesítése és a hirdetménynek a bíróságok központi internetes honlapján való közzététele érdekében.
+(2) Az értesítőlap a 3. §-ban foglaltakon túl tartalmazza
 
-(3) A bíróság az elektronikus adathoz való hozzáférés végleges megakadályozását elrendelő jogerős határozatát megküldi a törvényszéki végrehajtói irodának.
+a) az elektronikus adatra vonatkozó, a 127/A. § (1) bekezdése szerinti adatokat,
 
-(4) A bíróság a kijavítást elrendelő határozat meghozatalát követően haladéktalanul intézkedik a határozat hirdetményi kézbesítése és a hirdetménynek a bíróságok központi internetes honlapján való közzététele érdekében. Ha a kijavítás érinti a 127/A. § (1) bekezdésében meghatározott adatokat, a bíróság a határozat jogerőre emelkedését követően haladéktalanul intézkedik a határozat hirdetményi kézbesítése és a hirdetménynek a bíróságok központi internetes honlapján való közzététele érdekében.
+b) az elektronikus adathoz való hozzáférés ideiglenes megakadályozása teljesítésével az elektronikus adattartalom helyén a hozzáférést biztosító elektronikus hírközlési szolgáltatók által megjelenítendő tájékoztatás szövegét,
 
-(5) Ha a bíróság az elektronikus adathoz való hozzáférés ideiglenes megakadályozását rendelte el, de a büntetőeljárás befejezésekor az elektronikus adat végleges hozzáférhetetlenné tételének elrendelésére nem kerül sor, a bíróság az eljárás befejezéséről hozott határozatában, abban az esetben, ha a bíróság érdemi határozattal döntött, vagy ha az eljárás befejezéséről szóló határozatot az ügyész vagy a nyomozó hatóság hozta, az ügyész indítványára – és a Be. 569. § alkalmazására nincs lehetőség – külön határozattal rendelkezik az elektronikus adathoz való hozzáférés újbóli biztosításáról. A bíróság haladéktalanul intézkedik a határozat hirdetményi kézbesítése és a hirdetménynek a bíróságok központi internetes honlapján való közzététele érdekében.
+c) az eljárás típusára (új eljárás, fellebbezési eljárás, rendkívüli jogorvoslat) és a jogorvoslat eredményére vonatkozó adatokat.
 
-[^309]: A 151/C. §-t megelőző alcímet a 9/2013. (VI. 29.) KIM rendelet 53. §-a iktatta be.
-[^310]: A 151/C. §-t a 9/2013. (VI. 29.) KIM rendelet 53. §-a iktatta be.
+(3) Ha a fellebbezés elbírálásakor a másodfokú bíróság a határozatot megváltoztatva az elektronikus adathoz való hozzáférés ideiglenes megakadályozásának elrendelését mellőzi és
+
+a) a hozzáférést biztosító elektronikus hírközlési szolgáltatókat az elektronikus adathoz való hozzáférés újbóli biztosítására kötelezi, vagy
+
+b) amennyiben a tárhelyszolgáltató eltávolítási kötelezettségének a másodfokú határozat meghozataláig eleget tett, az elektronikus adathoz való hozzáférés végleges megakadályozásának a KEHTA-ból való törlése érdekében
+
+erről értesítőlapot állít ki, és azt a határozatával együtt elektronikus úton haladéktalanul megküldi az NMHH-nak.
+
+(4) A bíróság az elektronikus adathoz való hozzáférés végleges megakadályozását elrendelő jogerős határozatát megküldi a törvényszéki végrehajtói irodának.
+
+(5) A bíróság, ha a kijavítás érinti a 127/A. § (1) bekezdésében meghatározott adatokat, a kijavítást elrendelő határozat jogerőre emelkedését követően új értesítőlapot állít ki és azt határozatával együtt elektronikus úton haladéktalanul megküldi az NMHH-nak. Az értesítőlap megjegyzés rovatában fel kell tüntetni a kijavítás tényét, a kijavítás elrendeléséről határozatot hozó bíróság megnevezését, határozatának számát és keltét.
+
+(6) Ha tárhelyszolgáltató az elektronikus adat ideiglenes eltávolítására vonatkozó kötelezettségét utóbb teljesíti és a bíróság az elektronikus adathoz való hozzáférés ideiglenes magakadályozásának megszüntetéséről rendelkezik, a határozat jogerőre emelkedését követően az erről kiállított értesítőlapot a határozattal együtt elektronikus úton haladéktalanul megküldi az NMHH-nak.
+
+(7) A bíróság az elektronikus adathoz való hozzáférés ideiglenes megakadályozásának egyéb okból történő megszüntetéséről értesítőlapot állít ki és azt a határozatával együtt elektronikus úton haladéktalanul megküldi az NMHH-nak.
+
+(8) Ha a bíróság az elektronikus adathoz való hozzáférés ideiglenes megakadályozását rendelte el, de a büntetőeljárás befejezésekor az elektronikus adat végleges hozzáférhetetlenné tételének elrendelésére nem kerül sor, a bíróság az eljárás befejezéséről hozott határozatában, abban az esetben, ha a bíróság érdemi határozattal döntött, vagy ha az eljárás befejezéséről szóló határozatot az ügyész vagy a nyomozó hatóság hozta, az ügyész indítványára – és a Be. 569. § alkalmazására nincs lehetőség – külön határozattal rendelkezik az elektronikus adathoz való hozzáférés újbóli biztosításáról. A bíróság ez esetben is értesítőlapot állít ki és azt a határozatával együtt elektronikus úton haladéktalanul megküldi az NMHH-nak.
+
+(9) Ha az NMHH értesítése alapján valamely hozzáférést biztosító elektronikus hírközlési szolgáltatóval szemben rendbírság kiszabásának van helye, a bíróság az erről szóló határozat jogerőre emelkedését követően a 91. § (1) bekezdése, halasztás vagy részletfizetés engedélyezése esetén a 92. § szerint jár el.
+
+(10) A bíróság az elektronikus adathoz való hozzáférés végleges megakadályozásával kapcsolatos értesítőlapot számítógépes program segítségével állítja ki. Az értesítőlapot és a határozat elektronikus kiadmányát a bíróság fokozott biztonságú elektronikus aláírással látja el és hivatali kapun keresztül küldi meg az NMHH-nak. A bíróság a hibásan kiállított értesítőlapot kijavítása esetén az előbbiek szerint jár el.
+
+[^311]: A 151/C. §-t megelőző alcímet a 9/2013. (VI. 29.) KIM rendelet 53. §-a iktatta be.
+[^312]: A 151/C. §-t a 9/2013. (VI. 29.) KIM rendelet 53. §-a iktatta be, szövege e módosító rendelet 54. §-ával megállapított szöveg.

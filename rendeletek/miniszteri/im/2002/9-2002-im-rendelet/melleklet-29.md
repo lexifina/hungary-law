@@ -10,6 +10,6 @@
 
 | 340. | Végrehajtási értesítőlap elektronikus adat végleges hozzáférhetetlenné tételének az elektronikus adat eltávolításával történő végrehajtásának elrendeléséről. |
 
-29. melléklet a 9/2002 (IV. 9.) IM rendelethez[^351]
+29. melléklet a 9/2002 (IV. 9.) IM rendelethez[^355]
 
-[^351]: A 29. mellékletet a 9/2013. (VI. 29.) KIM rendelet 59. § (2) bekezdése iktatta be.
+[^355]: A 29. mellékletet a 9/2013. (VI. 29.) KIM rendelet 59. § (2) bekezdése iktatta be.

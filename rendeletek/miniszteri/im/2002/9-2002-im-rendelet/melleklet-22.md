@@ -46,6 +46,6 @@
 
 |  | ....................................................... bv. irodavezető |
 
-22. melléklet a 9/2002 (IV. 9.) IM rendelethez[^343]
+22. melléklet a 9/2002 (IV. 9.) IM rendelethez[^347]
 
-[^343]: A 22. mellékletet a 9/2013. (VI. 29.) KIM rendelet 59. § (2) bekezdése iktatta be.
+[^347]: A 22. mellékletet a 9/2013. (VI. 29.) KIM rendelet 59. § (2) bekezdése iktatta be.

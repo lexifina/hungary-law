@@ -48,6 +48,6 @@
 
 | 316. | Értesítés kiutasításról. |
 
-21. melléklet a 9/2002 (IV. 9.) IM rendelethez[^342]
+21. melléklet a 9/2002 (IV. 9.) IM rendelethez[^346]
 
-[^342]: A 21. mellékletet a 9/2013. (VI. 29.) KIM rendelet 59. § (2) bekezdése iktatta be.
+[^346]: A 21. mellékletet a 9/2013. (VI. 29.) KIM rendelet 59. § (2) bekezdése iktatta be.
