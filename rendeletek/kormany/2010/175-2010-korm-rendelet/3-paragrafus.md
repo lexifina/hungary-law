@@ -22,9 +22,9 @@ bc) a munkába járáshoz, munkatapasztalat-szerzéshez kapcsolódó utazási k�
 
 bd) a munkába járáshoz, munkatapasztalat-szerzéshez kapcsolódó csoportos személyszállítás támogatása;
 
-be)[^12] lakhatási támogatás;
+be)[^13] lakhatási támogatás;
 
-c)[^13] vállalkozóvá válás támogatása;
+c)[^14] vállalkozóvá válás támogatása;
 
 d) munkaerőpiaci szolgáltatások igénybevételével kapcsolatos támogatások:
 
@@ -40,5 +40,5 @@ de) hozzájárulás a szolgáltatás időtartama alatt a hozzátartozó ápolás
 
 e) a foglalkozás-egészségügyi és munkaköri alkalmassági vizsgálatok költségének megtérítése.
 
-[^12]: A 3. § b) pont be) alpontját a 272/2012. (IX. 28.) Korm. rendelet 12. § (5) bekezdése iktatta be.
-[^13]: A 3. § c) pontja a 168/2011. (VIII. 24.) Korm. rendelet 21. § (5) bekezdésével megállapított szöveg.
+[^13]: A 3. § b) pont be) alpontját a 272/2012. (IX. 28.) Korm. rendelet 12. § (5) bekezdése iktatta be.
+[^14]: A 3. § c) pontja a 168/2011. (VIII. 24.) Korm. rendelet 21. § (5) bekezdésével megállapított szöveg.

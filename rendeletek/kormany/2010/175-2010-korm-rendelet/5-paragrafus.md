@@ -1,22 +1,22 @@
-5. § (1)[^16] A Programot a Minisztérium koordinálásával kedvezményezettként a munkaügyi központok hajtják végre. A Programok keretében nyújtott támogatással kapcsolatos ügyekben a Program célcsoportjába tartozó személy lakóhelye, tartózkodási helye vagy ennek hiányában szálláshelye szerint illetékes kirendeltség jár el.
+5. § (1)[^17] A Programot a foglalkoztatáspolitikáért felelős miniszter koordinálásával kedvezményezettként a munkaügyi központok hajtják végre. A Programok keretében nyújtott támogatással kapcsolatos ügyekben a Program célcsoportjába tartozó személy lakóhelye, tartózkodási helye vagy ennek hiányában szálláshelye szerint illetékes kirendeltség jár el.
 
-(2)[^17] A Program keretében, e rendeletben meghatározott támogatás nyújtásával kapcsolatos mérlegelésre, a támogatások visszakövetelésére, a munkaügyi központnak a támogatások odaítélésével, és visszakövetelésével kapcsolatos eljárására megfelelően alkalmazni kell a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény, valamint a végrehajtására kiadott jogszabály, a Nemzeti Foglalkoztatási Alap foglalkoztatási alaprészéből nyújtott támogatásokra vonatkozó szabályait.
+(2)[^18] A Program keretében, e rendeletben meghatározott támogatás nyújtásával kapcsolatos mérlegelésre, a támogatások visszakövetelésére, a munkaügyi központnak a támogatások odaítélésével, és visszakövetelésével kapcsolatos eljárására megfelelően alkalmazni kell a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény, valamint a végrehajtására kiadott jogszabály, a Nemzeti Foglalkoztatási Alap foglalkoztatási alaprészéből nyújtott támogatásokra vonatkozó szabályait.
 
-(3)[^18] Az e rendelet által szabályozott támogatások nyújtása során az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális térképről szóló kormányrendelet szabályait alkalmazni kell.
+(3)[^19] Az e rendelet által szabályozott támogatások nyújtása során az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális térképről szóló kormányrendelet szabályait alkalmazni kell.
 
-(4)[^19] A Program keretében támogatás a – Nemzeti Fejlesztési Ügynökség, a Minisztérium mint a Nemzeti Foglalkoztatási Alap kezelője és a munkaügyi központok között létrejött – támogatási szerződésekkel összhangban nyújthatók.
+(4)[^20] A Program keretében támogatás – a Társadalmi Megújulás Operatív Program irányító hatósága, a foglalkoztatáspolitikáért felelős miniszter és a munkaügyi központok között létrejött – támogatási szerződésekkel összhangban nyújthatók.
 
 (5) A 3. § b) pont ba) alpontjában meghatározott támogatás az Európai Közösséget létrehozó Szerződés 87. és 88. cikke alkalmazásában a támogatások bizonyos fajtáinak a közös piaccal összeegyeztethetőnek nyilvánításáról szóló 2008. augusztus 6-i 800/2008/EK bizottsági rendelet (a továbbiakban: 800/2008/EK bizottsági rendelet) alapján nyújthatók.
 
 (6) A 3. § b) pont bb)-bd) alpontjaiban meghatározott támogatások a Szerződés 87. és 88. cikkének a de minimis támogatásokra való alkalmazásáról szóló, 2006. december 15-i 1998/2006/EK bizottsági rendelet szerinti csekély összegű (de minimis) támogatásoknak minősülnek.
 
-(7)[^20] A Programok keretében meghatározott csoportos személyszállítással kapcsolatos ügyekben a munkaadó székhelye szerint illetékes kirendeltség jár el.
+(7)[^21] A Programok keretében meghatározott csoportos személyszállítással kapcsolatos ügyekben a munkaadó székhelye szerint illetékes kirendeltség jár el.
 
-(8)[^21] A Program keretében nyújtható szolgáltatások megrendelésére a közbeszerzésekről szóló 2011. évi CVIII. törvény rendelkezéseit kell alkalmazni.
+(8)[^22] A Program keretében nyújtható szolgáltatások megrendelésére a közbeszerzésekről szóló 2011. évi CVIII. törvény rendelkezéseit kell alkalmazni.
 
-[^16]: Az 5. § (1) bekezdése a 272/2012. (IX. 28.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^17]: Az 5. § (2) bekezdése a 324/2011. (XII. 28.) Korm. rendelet 26. § c) pontja szerint módosított szöveg.
-[^18]: Az 5. § (3) bekezdése a 37/2011. (III. 22.) Korm. rendelet 39. § (2) bekezdésével megállapított szöveg.
-[^19]: Az 5. § (4) bekezdése a 196/2011. (IX. 29.) Korm. rendelet 5. § (8) bekezdésével megállapított, a 324/2011. (XII. 28.) Korm. rendelet 26. § c) pontja szerint módosított szöveg.
-[^20]: Az 5. § (7) bekezdése a 272/2012. (IX. 28.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
-[^21]: Az 5. § (8) bekezdése a 272/2012. (IX. 28.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
+[^17]: Az 5. § (1) bekezdése a 272/2012. (IX. 28.) Korm. rendelet 13. § (1) bekezdésével megállapított, az 550/2013. (XII. 30.) Korm. rendelet 58. § b) pontja szerint módosított szöveg.
+[^18]: Az 5. § (2) bekezdése a 324/2011. (XII. 28.) Korm. rendelet 26. § c) pontja szerint módosított szöveg.
+[^19]: Az 5. § (3) bekezdése a 37/2011. (III. 22.) Korm. rendelet 39. § (2) bekezdésével megállapított szöveg.
+[^20]: Az 5. § (4) bekezdése az 550/2013. (XII. 30.) Korm. rendelet 57. §-ával megállapított szöveg.
+[^21]: Az 5. § (7) bekezdése a 272/2012. (IX. 28.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
+[^22]: Az 5. § (8) bekezdése a 272/2012. (IX. 28.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
