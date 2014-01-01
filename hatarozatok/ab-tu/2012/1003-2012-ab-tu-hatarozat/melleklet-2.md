@@ -1,4 +1,4 @@
-2. számú melléklet az 1003/2012. (III. 9.) AB Tü. határozathoz
+2. számú melléklet az 1003/2012. (III. 9.) AB Tü. határozathoz[^1]
 
 Állománytábla
 
@@ -30,7 +30,9 @@
 
 | Informatika | Informatikus | 3 |
 
-| Kezelőiroda | Ügyintéző | 3 |
+| Kezelőiroda | Irodavezető | 1 |
+
+|  | Ügyintéző | 2 |
 
 |  | Ügykezelő | 1 |
 
@@ -59,3 +61,5 @@
 |  | Gépkocsivezető | 17 |
 
 | Összesen | 136 |
+
+[^1]: A 2. számú melléklet az 1003/2013. (XII. 21.) AB Tü. határozat 11. §-a szerint módosított szöveg.
