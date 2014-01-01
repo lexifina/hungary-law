@@ -24,3 +24,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-338-20-
 | 2013-06-20 | 2006-338-20-22.26 | 206/2013. (VI. 17.) Korm. rendelet |
 | 2013-07-20 | 2006-338-20-22.27 | 246/2009. (XI. 3.) Korm. rendelet |
 | 2013-11-01 | 2006-338-20-22.28 | 371/2013. (X. 24.) Korm. rendelet |
+| 2014-01-01 | 2006-338-20-22.29 | 560/2013. (XII. 31.) Korm. rendelet |

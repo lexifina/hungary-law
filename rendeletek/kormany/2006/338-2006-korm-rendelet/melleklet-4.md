@@ -30,7 +30,7 @@
 
 4. melléklet a
 
-338/2006. (XII. 23.) Korm. rendelethez[^88]
+338/2006. (XII. 23.) Korm. rendelethez[^89]
 
 A földhivatal telekalakítási eljárásában közreműködő szakhatóságok
 
@@ -58,8 +58,8 @@ A földhivatal telekalakítási eljárásában közreműködő szakhatóságok
 
 | 6. 2. | Ha a telekalakítás olyan ingatlant érint, amelyre az ingatlan-nyilvántartásban – jogi jellegként – műemlék, illetve műemléki terület jogi jelleg ténye van feljegyezve, vagy amelynek helyrajzi száma a Budapest Főváros Kormányhivatalának örökségvédelmi irodája által vezetett műemléki területeket és műemlékeket tartalmazó adatbázisban szerepel. | Annak elbírálása kérdésében, hogy a telekalakítás a kulturális örökség védelme jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. | területileg illetékes járási hivatal járási építésügyi és örökségvédelmi hivatala | a területileg illetékes fővárosi vagy a megyei kormányhivatal szakigazgatási szerveként működő építésügyi és örökségvédelmi hivatala |
 
-| 7. | Ha a telekalakítás olyan ingatlant érint, amelyre az ingatlan-nyilvántartásban országos jelentőségű védett természeti terület, törvény erejénél fogva védett forrás, láp, barlang, víznyelő, szikes tó, kunhalom, földvár, természeti terület, Natura 2000 terület, ökológiai folyosó, természetvédelmi terület, nemzeti park, tájvédelmi körzet, természeti emlék, barlang felszíni védőövezet jogi jelleg ténye van feljegyezve. | Annak elbírálása kérdésében, hogy a telekalakítás a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. | környezetvédelmi, természetvédelmi és vízügyi felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 7. | Ha a telekalakítás olyan ingatlant érint, amelyre az ingatlan-nyilvántartásban országos jelentőségű védett természeti terület, törvény erejénél fogva védett forrás, láp, barlang, víznyelő, szikes tó, kunhalom, földvár, természeti terület, Natura 2000 terület, ökológiai folyosó, természetvédelmi terület, nemzeti park, tájvédelmi körzet, természeti emlék, barlang felszíni védőövezet jogi jelleg ténye van feljegyezve. | Annak elbírálása kérdésében, hogy a telekalakítás a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. | első fokon eljáró természetvédelmi hatóság | másodfokon eljáró természetvédelmi hatóság |
 
 | 8. | Ha a telekalakítás olyan ingatlant érint, amelyre az ingatlan-nyilvántartásban – jogi jellegként – helyi jelentőségű védett természeti terület, természetvédelmi terület, természeti emlék jogi jelleg ténye van feljegyezve. | Annak elbírálása kérdésében, hogy a telekalakítás a helyi önkormányzati rendeletben meghatározott természetvédelmi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. | települési önkormányzat jegyzője, fővárosban főjegyző | fővárosi, megyei kormányhivatal |
 
-[^88]: A 4. mellékletet a 246/2009. (XI. 3.) Korm. rendelet 3. §-a iktatta be, szövege a 404/2012. (XII. 28.) Korm. rendelet 8. § (2) bekezdésével megállapított, a 70/2013. (III. 8.) Korm. rendelet 16. §-a, a 255/2013. (VII. 5.) Korm. rendelet 20. §-a szerint módosított szöveg.
+[^89]: A 4. mellékletet a 246/2009. (XI. 3.) Korm. rendelet 3. §-a iktatta be, szövege a 404/2012. (XII. 28.) Korm. rendelet 8. § (2) bekezdésével megállapított, a 70/2013. (III. 8.) Korm. rendelet 16. §-a, a 255/2013. (VII. 5.) Korm. rendelet 20. §-a, az 527/2013. (XII. 30.) Korm. rendelet 43. § (2) bekezdése szerint módosított szöveg.
