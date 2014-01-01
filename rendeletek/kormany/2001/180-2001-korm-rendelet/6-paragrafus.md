@@ -10,7 +10,7 @@ a) a végrehajtó nevét, irodája címét és telefonszámát, a végrehajtói 
 
 b) a végrehajtási ügy számát,
 
-c) az adós és a betét azonosítására szolgáló adatokat (Hpt. 3. számú melléklet),
+c)[^2] az adós és a betét azonosítására szolgáló adatokat (Hpt. 2. melléklet),
 
 d) a végrehajtandó, biztosítandó összeget,
 
@@ -23,3 +23,5 @@ g) a betét kifizetésének határidejét, lekötött betétre a lekötési idő
 h) a végrehajtó aláírását és bélyegzőjének lenyomatát.
 
 (4) A pénzügyi intézmény a végrehajtói felhívás átvételének időpontját rögzíti nyilvántartásaiban.
+
+[^2]: A 6. § (3) bekezdés c) pontja az 537/2013. (XII. 30.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
