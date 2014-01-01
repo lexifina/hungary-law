@@ -40,6 +40,6 @@ db) az a) pontban említett határidő eredménytelenül telt el és a felügyel
 
 dc) a felügyeleti bírság – egyszeri vagy ismételt – kiszabása nem járt eredménnyel.
 
-(7) Ha az igazságügyért felelős miniszter a közös jogkezelő egyesületek díjszabásaival kapcsolatos feladata körében az (1) bekezdésben meghatározott jogszabályok megsértését észleli, a Hivatalnál felügyeleti intézkedést kezdeményez.
+(7) Ha az igazságügyért felelős miniszter a közös jogkezelő egyesületek díjszabásaival kapcsolatos feladata körében az (1) bekezdésben meghatározott jogszabályok megsértését észleli, a Hivatalnál felügyeleti intézkedést kezdeményez. Ha az NKA elnöke vagy alelnöke a közös jogkezelő egyesületek jogdíj- és más bevételeinek kulturális célra történő felhasználásával kapcsolatos feladata [89. § (11) és (11a) bekezdés] körében az (1) bekezdésben meghatározott jogszabályok megsértését észleli, a Hivatalnál felügyeleti intézkedést kezdeményez.
 
-(8) A Hivatal a (3) bekezdésben meghatározott iratokat rendszeres időközönként, de legalább évente megküldi az igazságügyért felelős miniszternek a szellemi tulajdon védelmével összefüggő feladatai ellátásához szükséges tájékoztatás céljából, továbbá a kultúráért felelős miniszternek a kultúrával kapcsolatos feladatai ellátásához szükséges tájékoztatás céljából.
+(8)
