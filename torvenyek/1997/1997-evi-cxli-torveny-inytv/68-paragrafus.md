@@ -4,7 +4,7 @@
 
 (2) A közjegyző a közjegyzőkről szóló 1991. évi XLI. törvény 136. §-a (1) bekezdésének i) pontjában meghatározott jogkörében eljárva a tulajdoni lap tartalmáról tanúsítványt állíthat ki, amely a hiteles tulajdonilap-másolattal azonos hatályú.
 
-(3)
+(3) Az integrált ügyfélszolgálat (a továbbiakban: kormányablak) külön jogszabályban meghatározottak szerint hiteles tulajdonilap-másolatot adhat ki.
 
 (4) A tulajdoni lapról kiállított hiteles másolat kizárólag papír alapon szolgáltatható. Elektronikus dokumentumként hiteles és nem hiteles másolat közvetlenül, illetve a Kormány által biztosított azonosítási szolgáltatáson keresztül a számítógépes ingatlan-nyilvántartási rendszerből szolgáltatható.
 

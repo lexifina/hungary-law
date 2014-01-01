@@ -41,3 +41,13 @@ c) annak, akinek a kérelmére (megkeresésére) valamely jogilag jelentős tén
 (4) A jogorvoslati kérelem benyújtása tényének bejegyzését a beadványra vezetett határozattal (záradékkal) kell igazolni. Erről a kérelmezőt értesíteni nem kell.
 
 (5) Hirdetményi úton kézbesíti az ingatlanügyi hatóság a döntését azon jogosult részére, akinek az ingatlan-nyilvántartásba lakcíme nincs bejegyezve, vagy a személyiadat- és lakcímnyilvántartásban szereplő adattal történő összevetés alapján megállapítható, hogy az ingatlan-nyilvántartásba felvett lakcím időközben megszűnt.
+
+(5) Az elsőfokú döntést hozó hatóság a fellebbezés és az iratok felterjesztését követően
+
+a) az ügyfélnek az elsőfokú eljárást lezáró döntés meghozataláig előterjesztett írásbeli kérelmére a nem fellebbező ügyfelet, és
+
+b) tulajdoni hányadot érintő tulajdonjog-bejegyzés esetén a nem fellebbező tulajdonostársat
+
+tájékoztatja arról, hogy a döntés fellebbezés benyújtása folytán nem vált jogerőssé, illetve arról, hogy a fellebbezést valamennyi fellebbező ügyfél visszavonta.
+
+(6) Nem kell az (5) bekezdés b) pontját alkalmazni abban az esetben, ha az elővásárlási jog jogosultjával a tulajdonjog megszerzésére irányuló szerződést, vételi ajánlatot kizárólag a külön jogszabályban meghatározott hirdetményi úton kell közölni.
