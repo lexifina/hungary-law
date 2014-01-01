@@ -1,10 +1,10 @@
 A Kormány az Európai Unió Duna Makro Regionális Stratégia (a továbbiakban: DMRS) magyar programjának koordinátori feladatai kapcsán az alábbiakról határoz:
 
-1. A Kormány üdvözli a DMRS tanácsi következtetések Általános Ügyek Tanácsa általi elfogadását és támogatja a DMRS végrehajtásának előkészítése érdekében tett lépéseket.
+1.[^2] A Kormány üdvözli a DMRS tanácsi következtetések Általános Ügyek Tanácsa általi elfogadását.
 
-2. a) A Kormány megerősíti, hogy Magyarország társkoordinátori feladatot vállalt három átfogó prioritási területen. Ezek: „A vízminőség védelme és megőrzése” (közösen Szlovákiával) és „A környezeti kockázatok kezelése” (közösen Romániával), valamint „A fenntartható energia használatának ösztönzése” (közösen Csehországgal).
+2. a)[^3] A Kormány megerősíti, hogy Magyarország társkoordinátori feladatot lát el az „A vízminőség védelme és megőrzése” (közösen Szlovákiával), az „A környezeti kockázatok kezelése” (közösen Romániával), valamint az „A fenntartható energia használatának ösztönzése” (közösen Csehországgal) elnevezésű átfogó prioritási területeken.
 
-b) A Kormány felhívja a három magyar társkoordinációs prioritási terület koordinációs feladatainak ellátása érdekében a vidékfejlesztési minisztert, a belügyminisztert és a nemzeti erőforrás minisztert „A vízminőség védelme és megőrzése” és „A környezeti kockázatok kezelése” területen, a nemzeti fejlesztési minisztert és a külügyminisztert „A fenntartható energia használatának ösztönzése” területen, hogy a három prioritási terület vonatkozásában nevezze ki a koordinátorokat, és hajtsa végre a prioritási területek makro-regionális koordinációs programját, valamint az ahhoz kapcsolódó feladatokat.
+b)[^4] A Kormány felhívja a három magyar társkoordinációs prioritási terület koordinációs feladatainak ellátása érdekében a vidékfejlesztési minisztert, a belügyminisztert és az emberi erőforrások miniszterét „A vízminőség védelme és megőrzése” és „A környezeti kockázatok kezelése” területen, a nemzeti fejlesztési minisztert és a külügyminisztert „A fenntartható energia használatának ösztönzése” területen, hogy a három prioritási terület vonatkozásában nevezze ki a koordinátorokat, és hajtsa végre a prioritási területek makro-regionális koordinációs programját, valamint az ahhoz kapcsolódó feladatokat.
 
 Felelős: EU Duna Régió Stratégiáért felelős kormánybiztos
 
@@ -20,7 +20,7 @@ nemzeti erőforrás miniszter
 
 Határidő: azonnal
 
-3. A Kormány tudomásul veszi a három magyar társkoordinációs prioritási terület koordinációjának költségvonzatát. A Kormány a 2012–2013. évi költségek fedezéséhez 75 millió forint hazai forrást biztosít. A Kormány felhívja az EU Duna Régió Stratégiáért felelős kormánybiztost, a nemzetgazdasági minisztert, a nemzeti fejlesztési minisztert és a vidékfejlesztési minisztert, hogy a koordinációs rendszer működtetési forrásaihoz 2011–2012–2013-ban összesen szükséges további 291 millió forintot az európai uniós finanszírozási forrásokat bevonva biztosítsa. Az EU Duna Régió Stratégiáért felelős kormánybiztos rendelkezésére bocsátott forrás a DMRS koordinációs rendszerének működtetésére használható fel, azon belül a magyar társkoordinációs prioritási területek koordinációs feladatainak ellátására.
+3.[^5] A Kormány tudomásul veszi a három magyar társkoordinációs prioritási terület koordinációjának költségvonzatát és egyetért az EU 2007–2013-as és 2014–2020-as pénzügyi keretei közti átmeneti időszak forrásainak biztosításával. Az EU Duna Régió Stratégiáért felelős kormánybiztos rendelkezésére bocsátott forrás a DMRS koordinációs rendszerének működtetésére használható fel, azon belül a magyar társkoordinációs prioritási területek koordinációs feladatainak ellátására. Az EU Duna Régió Stratégiáért felelős kormánybiztos az érintett miniszterek közreműködésével a 2014–2020-as uniós költségevetési időszakra megtervezi a koordinációhoz szükséges forrásokat az uniós finanszírozási források bevonásával.
 
 Felelős: EU Duna Régió Stratégiáért felelős kormánybiztos
 
@@ -70,14 +70,12 @@ feladatkörükben érintett miniszterek
 
 Határidő: azonnal
 
-7. A Kormány felhívja a nemzetgazdasági minisztert, a nemzeti fejlesztési minisztert, és az EU Duna Régió Stratégiáért felelős kormánybiztost, hogy dolgozzon ki javaslatot az Európai Beruházási Bank és Magyarország közötti együttműködés kereteiről a DMRS megvalósításának elősegítése érdekében, különös tekintettel a finanszírozási kérdésekre.
-
-Felelős: nemzetgazdasági miniszter
-
-nemzeti fejlesztési miniszter
-
-EU Duna Régió Stratégiáért felelős kormánybiztos
-
-Határidő: 2011. június 30.
+7.[^6]
 
 8. Ez a határozat a közzététele napján lép hatályba.
+
+[^2]: Az 1. pont az 1971/2013. (XII. 18.) Korm. határozat 7. pontjával megállapított szöveg.
+[^3]: A 2. pont a) alpontja az 1971/2013. (XII. 18.) Korm. határozat 8. pontjával megállapított szöveg.
+[^4]: A 2. pont b) pontja az 1971/2013. (XII. 18.) Korm. határozat 11. pontja szerint módosított szöveg.
+[^5]: A 3. pont az 1971/2013. (XII. 18.) Korm. határozat 9. pontjával megállapított szöveg.
+[^6]: A 7. pontot az 1971/2013. (XII. 18.) Korm. határozat 13. pontja hatályon kívül helyezte.
