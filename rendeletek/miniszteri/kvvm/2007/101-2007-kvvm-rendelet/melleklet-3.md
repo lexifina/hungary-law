@@ -294,7 +294,7 @@
 
 ## A magmintavételt és a mintával elvégzett vizsgálatokat a vízföldtani napló tartalomjegyzékében kell megadni az „egyéb mérési adatok” pont alatt van lehetőség a részletezésre (M1.6.).
 
-3. melléklet a 101/2007. (XII. 23.) KvVM rendelethez
+3. melléklet a 101/2007. (XII. 23.) KvVM rendelethez[^15]
 
 ## Adatlap
 
@@ -302,7 +302,7 @@ a helyi önkormányzat jegyzőjének [a vízgazdálkodási hatósági jogkör gy
 
 72/1996. (V. 22.) korm. rendelet 24. §] engedélyéhez kötött,
 
-valamint a környezetvédelmi, természetvédelmi és vízügyi felügyelőség engedélyéhez kötött,
+valamint a vízügyi hatóság engedélyéhez kötött,
 
 de nem vízföldtani napló köteles kutak kivitelezéséről
 
@@ -367,3 +367,5 @@ Kelt:
 …………………………….…….. ……………….…………….…………..
 
 kivitelező tulajdonos
+
+[^15]: A 3. melléklet címe a 132/2013. (XII. 23.) VM rendelet 26. § b) pontja szerint módosított szöveg.

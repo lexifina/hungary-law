@@ -1,10 +1,10 @@
-4. melléklet a 101/2007. (XII. 23.) KvVM rendelethez
+4. melléklet a 101/2007. (XII. 23.) KvVM rendelethez[^16]
 
 Melléklet a vízjogi engedélyezési eljáráshoz szükséges kérelemről és mellékleteiről szóló 18/1996. (VI. 13.) KHVM rendelethez
 
 I. Felszín alatti vizek feltárására, használatára (igénybevételére, illetve külön jogszabály szerinti engedélyezhető közvetlen bevezetésre vonatkozó engedélyezési tervdokumentáció esetén
 
-I/A. A KÖRNYEZETVÉDELMI, TERMÉSZETVÉDELMI ÉS VÍZÜGYI FELÜGYELŐSÉG ENGEDÉLYÉHEZ KÖTÖTT KUTAK LÉTESÍTÉSÉHEZ SZÜKSÉGES TERV TARTALMA
+I/A. A VÍZÜGYI HATÓSÁG ENGEDÉLYÉHEZ KÖTÖTT KUTAK LÉTESÍTÉSÉHEZ SZÜKSÉGES TERV TARTALMA
 
 1. műszaki leírás
 
@@ -129,3 +129,5 @@ I/B.) A HELYI ÖNKORMÁNYZAT JEGYZŐJÉNEK [A VÍZGAZDÁLKODÁSI HATÓSÁGI JOGK
 5. Kútfejakna méretei (m):
 
 6. Megjegyzés:
+
+[^16]: A 4. melléklet I/A pont címe a 132/2013. (XII. 23.) VM rendelet 26. § c) pontja szerint módosított szöveg.

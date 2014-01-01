@@ -1,6 +1,6 @@
 ## A hévíz- és geotermikus energiahasznosítást szolgáló vízilétesítményekkel kapcsolatos egyes rendelkezések
 
-10. §[^8] (1) A hévízművek üzemeltetéséhez üzemeltetési szabályzat szükséges.
+10. §[^9] (1) A hévízművek üzemeltetéséhez üzemeltetési szabályzat szükséges.
 
 (2) A műszaki átadás-átvétel során jegyzőkönyvet kell felvenni, melynek tartalmaznia kell különösen:
 
@@ -38,9 +38,9 @@ d) a kifolyó víz jellemző hőmérsékletét, illetőleg a hőmérséklet megh
 
 e) a kútjavítási munkák időpontját, ideértve az üzemeltetéssel kapcsolatos feljegyzéseket, figyelemmel az üzemeltetési szabályzatra.
 
-(9)[^9] A termelő-, visszatápláló- és megfigyelő kutakon elvégzett rendszeres üzemi méréseket évente értékelni kell, és azt a Nemzeti Környezetügyi Intézet területi kirendeltségének, valamint a vízügyi hatóságnak meg kell küldeni.
+(9)[^10] A termelő-, visszatápláló- és megfigyelő kutakon elvégzett rendszeres üzemi méréseket évente értékelni kell, és azt a Nemzeti Környezetügyi Intézet területi kirendeltségének, valamint a vízügyi hatóságnak meg kell küldeni.
 
 (10) Amennyiben a termelési és visszatáplálási adatokban év közben nem várt változás következik be, az értékelést soron kívül el kell végezni. A változás mértékére vonatkozó szakmai megítélés körülményeit, illetve azok figyelembevételét az üzemeltetési szabályzatban kell meghatározni.
 
-[^8]: A 10. § a 30/2008. (XII. 31.) KvVM rendelet 90. § (5) bekezdésével megállapított szöveg. E módosító rendelet 90. § (2)–(3) bekezdése alapján a rendelkezést a 2009. január 1. napját követően indult eljárásokban kell alkalmazni, kivéve, ha a vízimunka, vízilétesítmény vagy a vízhasználat elvi vagy létesítési vízjogi engedélyét a vízügyi hatóság már kiadta; 90. § (6) bekezdése alapján az érvényes üzemeltetési engedélyeket 2011. január 1. napjáig módosítani kell.
-[^9]: A 10. § (9) bekezdése a 147/2011. (XII. 23.) VM rendelet 12. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^9]: A 10. § a 30/2008. (XII. 31.) KvVM rendelet 90. § (5) bekezdésével megállapított szöveg. E módosító rendelet 90. § (2)–(3) bekezdése alapján a rendelkezést a 2009. január 1. napját követően indult eljárásokban kell alkalmazni, kivéve, ha a vízimunka, vízilétesítmény vagy a vízhasználat elvi vagy létesítési vízjogi engedélyét a vízügyi hatóság már kiadta; 90. § (6) bekezdése alapján az érvényes üzemeltetési engedélyeket 2011. január 1. napjáig módosítani kell.
+[^10]: A 10. § (9) bekezdése a 147/2011. (XII. 23.) VM rendelet 12. § (2) bekezdés b) pontja szerint módosított szöveg.

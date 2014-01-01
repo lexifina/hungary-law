@@ -6,6 +6,8 @@
 
 (3) Minden olyan esetben, amikor a környezet földtani kora, a képződmény mélységbeli határa bizonytalan vagy ismeretlen, magmintavétel tervezése is szükséges.
 
-(4) A tervezésnél figyelemmel kell lenni arra, hogy a kút különböző víztesteket, illetve egymástól jelentősen eltérő hidrodinamikai és vízkémiai tulajdonságú vizeket ne kapcsoljon össze egymással. Kivételes esetben, amennyiben a szennyeződés veszélye nem áll fenn, környezetvédelmi, természetvédelmi és vízügyi felügyelőség mint vízügyi hatóság (a továbbiakban: vízügyi hatóság) ez alól felmentést adhat.
+(4)[^1] A tervezésnél figyelemmel kell lenni arra, hogy a kút különböző víztesteket, illetve egymástól jelentősen eltérő hidrodinamikai és vízkémiai tulajdonságú vizeket ne kapcsoljon össze egymással. Kivételes esetben, amennyiben a szennyeződés veszélye nem áll fenn, a vízügyi hatóság ez alól felmentést adhat.
 
 (5) Öntözővíz beszerzésére irányuló tervezés során felszín alatti vizet felszíni vízbeszerzési lehetőség hiányában lehet figyelembe venni.
+
+[^1]: A 3. § (4) bekezdése a 132/2013. (XII. 23.) VM rendelet 26. § a) pontja szerint módosított szöveg.
