@@ -1,0 +1,9 @@
+# 554/2013. (XII. 31.) Korm. rendelet
+
+a civil szervezetek által igénybe vehető infrastruktúra-támogatásról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-554-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2014-01-01 | 2013-554-20-22.1 | 554/2013. (XII. 31.) Korm. rendelet |
