@@ -42,7 +42,7 @@
 
 Szakvélemény adására feljogosított szervek
 
-3K49425M_0
+3K89271M_0
 
 | A szakterület és az ahhoz kapcsolódó szakkérdés (vizsgálat) megjelölése | A szakvélemény adására feljogosított szervezet |
 
@@ -128,7 +128,7 @@ Szakvélemény adására feljogosított szervek
 
 | 8. | Zenei és irodalmi művek műfaji elhatárolási és átdolgozási kérdései | ARTISJUS Magyar Szerzői Jogvédő Iroda Egyesület |
 
-| 9. | A felszíni és a felszín alatti vizek mennyiségi és minőségi állapotával összefüggö szakkérdés | Nemzeti Környezetügyi Intézet (NeKI) |
+| 9. | A felszíni és a felszín alatti vizek mennyiségi és minőségi állapotával összefüggö szakkérdés | Országos Vízügyi Főigazgatóság |
 
 | 10. | Régészeti örökség és műemléki érték védelme |  |
 
@@ -136,4 +136,4 @@ Szakvélemény adására feljogosított szervek
 
 |  |  | 2. | Régészeti örökséggel kapcsolatos szakkérdések | Lechner Lajos Tudásközpont Területi, Építésügyi, Örökségvédelmi és Informatikai Nonprofit Korlátolt Felelősségű Társaság |
 
-[^9]: A 4. számú melléklet a 273/2010. (XII. 9.) Korm. rendelet 123. §-a, a 250/2011. (XII. 1.) Korm. rendelet 1. §-a, a 259/2011. (XII. 7.) Korm. rendelet 19. §-a, a 300/2011. (XII. 22.) Korm. rendelet 15. §-a, a 324/2011. (XII. 28.) Korm. rendelet 13. §-a, a 310/2012. (XI. 6.) Korm. rendelet 17. §-a, a 394/2012. (XII. 20.) Korm. rendelet 22. §-a, a 107/2013. (IV. 5.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^9]: A 4. számú melléklet a 273/2010. (XII. 9.) Korm. rendelet 123. §-a, a 250/2011. (XII. 1.) Korm. rendelet 1. §-a, a 259/2011. (XII. 7.) Korm. rendelet 19. §-a, a 300/2011. (XII. 22.) Korm. rendelet 15. §-a, a 324/2011. (XII. 28.) Korm. rendelet 13. §-a, a 310/2012. (XI. 6.) Korm. rendelet 17. §-a, a 394/2012. (XII. 20.) Korm. rendelet 22. §-a, a 107/2013. (IV. 5.) Korm. rendelet 6. §-a, az 527/2013. (XII. 20.) Korm. rendelet 54. §-a szerint módosított szöveg.
