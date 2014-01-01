@@ -4,7 +4,7 @@ ADATLAP
 
 a Bérgarancia Alapból a munkaerő-kölcsönzés díja megfizetésének elmaradása miatt igényelhető támogatás számításához
 
-(A........... év........................ hó.........-i bérfizetési napon – a kölcsönbeadónál – fennálló adatok alapján)
+(A ........... év ........................ hó .........-i bérfizetési napon – a kölcsönbeadónál – fennálló adatok alapján)
 
 |
 
@@ -16,49 +16,47 @@ szám
 
 1.
 
+Kölcsönzött munkavállaló neve
+
 |
 
 2.
-
-|
-
-3.
-
-|
-
-4.
-
-|
-
-5.
-
-|
-
-Kölcsönzött
-
-munkavállaló neve
-
-|
 
 A kölcsönzés időszaka
 
 |
 
-Társadalom-
+2.
 
-biztosítási
-
-azonosító jel
+Társadalombiztosítási azonosító jel
 
 |
 
-A bér és végkielégítés együttes
+3.
+
+A szolgáltatási
+
+díjnak a bértartozás
+
+fedezésére szolgáló
+
+összege
 
 |
+
+4.
 
 A támogatásnak
 
-a Nemzeti Foglalkoztatási Alap bérgarancia alaprészéből igényelhető összege
+a Nemzeti
+
+Foglalkoztatási
+
+Alap bérgarancia
+
+alaprészéből
+
+igényelhető összege
 
 |
 
@@ -172,12 +170,14 @@ a Nemzeti Foglalkoztatási Alap bérgarancia alaprészéből igényelhető össz
 
 |
 
-Kelt: .............................., ....... év................... hó..... nap
+Kelt: .............................. hely, ....... év ................... hó .... nap
 
-...................................................................
+.......................................................................
 
-(a kölcsönbe adó cégszerű aláírása)
+(a kölcsönbeadó cégszerű aláírása)
 
 Melléklet:
 
-– A felszámoló Bgat. 12. § (1) bekezdése szerinti tájékoztatása.
+- A felszámoló 12. § (1) bekezdése szerinti tájékoztatása.
+
+- A felszámoló 11. § (1) bekezdése szerinti tartozás elismerése.

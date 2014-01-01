@@ -6,7 +6,7 @@ a) nem magyarországi szokásos munkavégzési hellyel rendelkezik,
 
 b) a felszámolóval a felszámolás elrendelésekor vagy azt megelőző fél éven belül tagsági (részvényesi) jogviszonyban, vagy foglalkoztatásra irányuló jogviszonyban áll, illetőleg állt, vagy
 
-c) a felszámolónak, vagy a felszámoló szervezet (1) bekezdés b) pontjában meghatározott munkavállalójának a Polgári Törvénykönyvről szóló törvény szerinti közeli hozzátartozója.
+c) a felszámolónak vagy a felszámoló szervezet b) pontban meghatározott munkavállalójának a Polgári Törvénykönyvről szóló törvény szerinti közeli hozzátartozója.
 
 (3) Vitás esetben az állami foglalkoztatási szerv, a felszámoló, vagy a munkavállaló kérelmére a közigazgatási és munkaügyi bíróság tizenöt napon belül, nemperes eljárásban dönt arról, hogy a munkavállaló szokásos munkavégzési helye Magyarországon található-e.
 

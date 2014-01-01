@@ -1,4 +1,4 @@
-8. § (1) A jogosulatlanul igénybe vett vagy nem jogszerűen felhasznált támogatást a támogatás iránti kérelem benyújtásának időpontjában hatályos jegybanki alapkamat kétszeresével megnövelt összegben kell visszafizetni.
+8. § (1) A jogosulatlanul igénybe vett vagy nem jogszerűen felhasznált támogatást a támogatás iránti kérelem időpontjában hatályos jegybanki alapkamat kétszeresével növelt összegben kell visszafizetni. Ilyennek kell tekinteni, ha az állami foglalkoztatási szerv az 5. § (2) bekezdésében meghatározott kifizetést – a felszámoló valóságnak nem megfelelő adatszolgáltatása miatt – olyan munkavállaló részére is teljesíti, akinek nem állt fenn bértartozása vagy a munkavállaló fennálló bértartozásánál nagyobb mértékű támogatási összeg került kifizetésre.
 
 (2) Az (1) bekezdés szerinti visszafizetésből a kamatrész a felszámolót, a támogatás összege a felszámolás alatt álló gazdálkodó szervezet vagyonát terheli.
 

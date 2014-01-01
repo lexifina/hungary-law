@@ -12,17 +12,19 @@ I. A kölcsönbeadó (ideértve az iskola szövetkezetet is) adatai:
 
 3. Székhelye:
 
-4. A tevékenység megkezdésének időpontja: ........... év................................. hó .............. nap
+4. A tevékenység megkezdésének időpontja: ........... év ......................... hó ........... nap
 
-5. A pénzforgalmi számlaszáma:
+5. pénzforgalmi számlaszáma:
 
 6. A számlavezető pénzforgalmi szolgáltató megnevezése, címe:
 
-7. A kérelem alapjaként szereplő bérkifizetés napja: ......... év......................... hó ............ nap
+7. A kérelem alapjaként szereplő bérkifizetés napja: ......... év ................... hó ......... nap
 
-8. A bérfizetés napján és az azt követően – a kérelem benyújtásáig – rendelkezésre álló saját forrás összege: ................................... Ft
+8. A bérfizetés napján és az azt követően – a kérelem benyújtásáig – a törvény 4. mellékletében megjelölt munkavállalók
 
-9. Az igényelt támogatás összege: ...................................... Ft
+munkabérére fordított saját forrás összege: ................................... Ft
+
+9. Az igényelt támogatás összege: .................................. Ft
 
 II. A kölcsönvevő adatai:
 
@@ -32,11 +34,13 @@ II. A kölcsönvevő adatai:
 
 3. Székhelye:
 
-4. A tevékenység megkezdésének időpontja: ........... év................................. hó .............. nap
+4. A tevékenység megkezdésének időpontja: ...................... év............................................. hó .................. nap
 
-5. A pénzforgalmi számlaszáma:
+5. pénzforgalmi számlaszáma:
 
 6. A számlavezető pénzforgalmi szolgáltató megnevezése, címe:
+
+7. A felszámolás kezdő időpontja: ........................ év.................................................... hó .................... nap
 
 III. A kölcsönvevő felszámolójának adatai:
 
@@ -48,16 +52,10 @@ A felszámoló megbízottjának neve, címe, telefonszáma:
 
 3. Székhelye:
 
-IV. A kérelem mellékletei:
+Nyilatkozom, hogy a kérelemben és az elektronikusan rögzített adatok a valóságnak megfelelnek.
 
-1. A kölcsönbevevő felszámolását elrendelő jogerős végzés másolata csatolva: igen nem
+Kelt: .............................., ....... év ................... hó ..... nap
 
-2. A támogatás igénybevételéről készített – a törvény 4. melléklete szerinti – nyomtatvány csatolva: igen nem
-
-Nyilatkozom, hogy a kérelemben és a csatolt mellékleteiben közölt adatok a valóságnak megfelelnek.
-
-Kelt: .............................., ....... év................... hó..... nap
-
-...................................................................
+.....................................................................
 
 a kölcsönbe adó cégszerű aláírása
