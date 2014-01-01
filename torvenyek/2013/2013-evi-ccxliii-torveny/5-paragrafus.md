@@ -4,7 +4,7 @@
 
 (2) A Ttv.
 
-a) 3. §-ában az „A hivatásos tűzoltóság, az önkormányzati és a létesítményi tűzoltóság (a továbbiakban együtt: tűzoltóság)” szövegrész helyébe az „A hivatásos tűzoltóság, az önkormányzati tűzoltóság, a létesítményi tűzoltóság és a beavatkozó önkéntes tűzoltó egyesület (a továbbiakban együtt: tűzoltóság)” szöveg,
+a)
 
 b)–d)
 
