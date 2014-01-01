@@ -2,9 +2,9 @@
 
 a) vízjárta, pangóvizes területen, valamint alagcsövezett táblán,
 
-b)[^11] október 31. és február 15. között mezőgazdasági művelés alatt álló táblán, valamint fagyott, vízzel telített, összefüggő hótakaróval borított talajon.
+b)[^12] október 31. és február 15. között mezőgazdasági művelés alatt álló táblán, valamint fagyott, vízzel telített, összefüggő hótakaróval borított talajon.
 
-(2)[^12] Az (1) bekezdésben foglaltak figyelembevételével ideiglenes trágyakazal mezőgazdasági táblán csak abban az esetben létesíthető, ha:
+(2)[^13] Az (1) bekezdésben foglaltak figyelembevételével ideiglenes trágyakazal mezőgazdasági táblán csak abban az esetben létesíthető, ha:
 
 a) felszíni víz nincs 100 m távolságon belül,
 
@@ -18,5 +18,5 @@ c) a talajvíz legmagasabb szintje a MePAR szerinti egységben 1,5 méter felett
 
 (5) Ideiglenes trágyakazalban a trágya maximum 2 hónapig tárolható.
 
-[^11]: A 9. § (1) bekezdés b) pontja az 55/2009. (IV. 29.) FVM rendelet 3. § (1) bekezdésével megállapított, a 147/2012. (XII. 27.) VM rendelet 2. § b) pontja szerint módosított szöveg.
-[^12]: A 9. § (2) bekezdése az 55/2009. (IV. 29.) FVM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^12]: A 9. § (1) bekezdés b) pontja az 55/2009. (IV. 29.) FVM rendelet 3. § (1) bekezdésével megállapított, a 147/2012. (XII. 27.) VM rendelet 2. § b) pontja szerint módosított szöveg.
+[^13]: A 9. § (2) bekezdése az 55/2009. (IV. 29.) FVM rendelet 3. § (2) bekezdésével megállapított szöveg.

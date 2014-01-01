@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-59-20-8
 | 2013-01-11 | 2008-59-20-82.4 | 147/2012. (XII. 27.) VM rendelet |
 | 2013-08-01 | 2008-59-20-82.5 | 70/2013. (VII. 31.) VM rendelet |
 | 2013-09-01 | 2008-59-20-82.6 | 43/2013. (V. 29.) VM rendelet |
+| 2014-01-01 | 2008-59-20-82.7 | 132/2013. (XII. 23.) VM rendelet |

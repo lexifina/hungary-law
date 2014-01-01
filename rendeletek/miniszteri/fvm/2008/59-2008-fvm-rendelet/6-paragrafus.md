@@ -2,7 +2,7 @@
 
 (2) A kijuttatandó tápanyagok mennyiségének kiszámításánál az alkalmazott értékek nem haladhatják meg az 1–4. számú mellékleteiben szereplő értékeket.
 
-(3) Hígtrágyázott területen, ahol az engedélykérelemhez készült talajvédelmi terv szerint a talajvíz a felszínhez képest 5 méteren belül van, a termőföld védelméről szóló 2007. évi CXXIX. törvény 49. § (1) bekezdés d) pontja alapján kiadott engedély kiadását követő harmadik évben a talajvíz szintjét és minőségét – elsősorban nitráttartalmát – az engedélyesnek meg kell vizsgáltatni, és az eredményeket a talajvédelmi hatóság részére meg kell küldeni. A talajvédelmi hatóság a talajvíz minőségére vonatkozó adatokat a külön jogszabály szerint évente egy alkalommal megküldi a környezetvédelmi, természetvédelmi és vízügyi felügyelőség (a továbbiakban: felügyelőség) részére.
+(3)[^7] Hígtrágyázott területen, ahol az engedélykérelemhez készült talajvédelmi terv szerint a talajvíz a felszínhez képest 5 méteren belül van, a termőföld védelméről szóló 2007. évi CXXIX. törvény 49. § (1) bekezdés d) pontja alapján kiadott engedély kiadását követő harmadik évben a talajvíz szintjét és minőségét – elsősorban nitráttartalmát – az engedélyesnek meg kell vizsgáltatni, és az eredményeket a talajvédelmi hatóság részére meg kell küldeni. A talajvédelmi hatóság a talajvíz minőségére vonatkozó adatokat a külön jogszabály szerint évente egy alkalommal megküldi a környezetvédelmi és természetvédelmi felügyelőség (a továbbiakban: felügyelőség) részére.
 
 (4) A kijuttatott istállótrágyát haladéktalanul, egyenletesen a talajba kell dolgozni.
 
@@ -23,3 +23,5 @@ d) a trágyakijuttatást csak rendszeresen karbantartott munkagépekkel lehet el
 (8) Intenzív legeltetéses állattartás esetén szakaszos vagy pásztoroló legeltetést kell alkalmazni kivéve, ha az állattartó telepen az állománysűrűség meghatározásánál a figyelembe veendő állatok száma nem több mint 15 ÁE.
 
 (9) Adott területen betakarítás után a megfelelő talajfedettséget biztosító növény alá csak abban az esetben juttatható ki könnyen oldódó nitrogéntrágya, így különösen hígtrágya, trágyalé, ammónium- és nitráttartalmú műtrágya, ha a trágyázás és vetés közötti időszak a 15 napot nem haladja meg. A kijuttatott hatóanyag nem haladhatja meg a csírázáshoz és az őszi–téli növekedéshez szükséges mennyiséget. Ezen kívül betakarítás után nitrogéntrágyát a szármaradványok lebomlásának elősegítéséhez lehet alkalmazni, legfeljebb a 3. számú melléklet C) pontjában meghatározott mennyiség figyelembevételével.
+
+[^7]: A 6. § (3) bekezdése a 132/2013. (XII. 23.) VM rendelet 29. § (1) bekezdése szerint módosított szöveg.
