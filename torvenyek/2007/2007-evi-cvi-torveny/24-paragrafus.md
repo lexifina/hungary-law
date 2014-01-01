@@ -1,16 +1,16 @@
-24. § (1) Állami vagyon használatát biztosító – így különösen bérleti, haszonbérleti, megbízási – szerződés nyilvános, kivételesen, indokolt esetben zártkörű versenyeztetés útján köthető.
+24. § (1) Állami vagyon használatát biztosító – így különösen bérleti, haszonbérleti, megbízási – szerződés – a (2) bekezdésében foglalt kivételeken kívül – nyilvános, kivételesen, indokolt esetben zártkörű versenyeztetés útján köthető.
 
-(2) Mellőzhető a versenyeztetés, ha:
+(2) Mellőzhető a versenyeztetés:
 
-a) a szerződő partner államháztartási körbe tartozó szervezet, legalább többségi állami részesedéssel működő gazdálkodó szervezet, vagy jogszabályban előírt állami, önkormányzati feladatot ellátó más gazdálkodó szervezet,
+a) nemzeti vagyonról szóló 2011. évi CXCVI. törvény 11. § (17) bekezdésében foglalt esetekben, továbbá
 
-b) nemzetközi szerződésben vállalt kötelezettség a külföldön lévő ingatlan esetében a versenyeztetés alkalmazását kizárja,
+b) ha nemzetközi szerződésben vállalt kötelezettség a külföldön lévő ingatlan esetében a versenyeztetés alkalmazását kizárja,
 
-c) jogszabály rendelkezései vagy a használat átengedésének egyéb körülményei a lehetséges hasznosító személyének megválasztását olyan jelentős módon vagy mértékben korlátozzák, hogy a versenyeztetésből származó előnyök nem biztosíthatók,
+c) ha jogszabály rendelkezései vagy a használat átengedésének egyéb körülményei a lehetséges hasznosító személyének megválasztását olyan jelentős módon vagy mértékben korlátozzák, hogy a versenyeztetésből származó előnyök nem biztosíthatók,
 
-d) a határozott időre kötendő szerződés tartama a kilencven napot nem haladja meg,
+d) ha a határozott időre kötendő szerződés tartama a kilencven napot nem haladja meg,
 
-e) társadalom-, fejlesztéspolitikai vagy egyéb szempontok szerinti közérdekű cél érdekében az adott ügylet megvalósítása kiemelten indokolt, és a Kormány erre figyelemmel nyilvános határozatban döntött a versenyeztetés mellőzéséről.
+e) ha társadalom-, fejlesztéspolitikai vagy egyéb szempontok szerinti közérdekű cél érdekében az adott ügylet megvalósítása kiemelten indokolt, és a Kormány erre figyelemmel nyilvános határozatban döntött a versenyeztetés mellőzéséről.
 
 (3) Zártkörű pályázat kiírására különösen akkor kerülhet sor, ha a vagyontárgy nyilvános pályáztatásának reális, tervezett költségei jelentősen csökkentenék a hasznosításból éves szinten elérhető bevételt, vagy ha a korábbi nyilvános pályázat eredménytelenül zárult és ezen eljárással is biztosítható az állami vagyon gazdaságos – a 23. § (3) bekezdésében foglaltaknak megfelelő – hasznosítása.
 

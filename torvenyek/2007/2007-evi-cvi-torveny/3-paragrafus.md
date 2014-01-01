@@ -17,3 +17,5 @@ gyakorolja.
 (3) Az állami vagyon meghatározott köre felett tulajdonosi jogokat és kötelezettségeket a (2) bekezdés alapján a Magyar Állam nevében gyakorló szervezet e tevékenységét a jelen törvény és a végrehajtási rendelete, valamint a (2) bekezdés szerinti miniszteri rendelet szabályai szerint végezheti.
 
 (4) Az állami vagyon feletti – a 3. § (1)–(2) bekezdése szerinti – tulajdonosi joggyakorlással kapcsolatos tevékenységet az Állami Számvevőszék évente ellenőrzi.
+
+(5) A 3. § (1) bekezdés a) pontjában és a 3. § (1b) bekezdésében meghatározott tulajdonosi joggyakorlók a rábízott vagyon körében a miniszter jóváhagyásával köthetnek olyan megállapodást, melynek eredményeként valamely vagyonelem könyv szerinti értéken, ingyenesen más tulajdonosi joggyakorló tulajdonosi joggyakorlása alá kerül. Az erre vonatkozó kezdeményezést az ügyletben résztvevő tulajdonosi joggyakorlók együttesen nyújtják be a miniszterhez, a vagyonelem átadására irányuló megállapodás egyidejű megküldésével.
