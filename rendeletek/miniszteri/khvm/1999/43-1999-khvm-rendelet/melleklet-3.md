@@ -1,24 +1,26 @@
 ## A VKJ kiszámításának szempontjából:
 
-## a) gazdasági célú vízhasználat: az ipari, mezőgazdasági, kereskedelmi és egyéb gazdasági, szolgáltatási tevékenységgel összefüggő teljes vízhasználat, beleértve a foglalkoztatottak szociális vízigényét is, a gyógyvizeknek nem minősülő ásványvizek palackozását.
+## a)[^14] gazdasági célú vízhasználat: az ipari, mezőgazdasági, kereskedelmi és egyéb gazdasági, szolgáltatási tevékenységgel összefüggő teljes vízhasználat, beleértve a foglalkoztatottak szociális vízigényét is, a gyógyvizeknek nem minősülő ásványvizek palackozását.
 
 ## Ezen belül:
 
 ## aa) állattartó telepi vízhasználat: üzemi körülmények között végzett állattartás vízigényének kielégítése,
 
-## ab)[^13] ivóvízhasználat: annál a tevékenységnél jelentkező vízhasználat, ahol a közegészségügyi előírások alapján a fővárosi és megyei kormányhivatal járási hivatala járási (fővárosi kerületi) népegészségügyi intézete a technológiai vízhasznosítás több mint 50%-ára vonatkozóan kötelezően előírja az ivóvízminőség használatát, ideértve a gyógyvíznek minősülő ásványvizek palackozását is,
+## ab) ivóvízhasználat: annál a tevékenységnél jelentkező vízhasználat, ahol a közegészségügyi előírások alapján a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala járási (fővárosi kerületi) népegészségügyi intézete a technológiai vízhasznosítás több mint 50%-ára vonatkozóan kötelezően előírja az ivóvízminőség használatát, ideértve a gyógyvíznek minősülő ásványvizek palackozását is,
 
-## ac) egyéb vízhasználat: minden más, gazdálkodási tevékenységgel összefüggő vízhasználat,
+## ac) egyéb vízhasználat: minden más, a gazdasági célú vízhasználat jellegek között az 1. számú melléklet 1. pont d) alpontjában szereplő táblázatban külön nem nevesített gazdasági célú vízhasználat,
 
-## ad) energetikai vízhasználat: villamos energia termeléséhez kapcsolódó felszíni vízigénybevétellel járó vízhasználat,
+## ad) energetikai vízhasználat: a villamos energia termeléséhez kapcsolódó felszíni vízigénybevétellel járó vízhasználat,
 
 ## ae) fürdővízhasználat: a nem gyógyfürdők teljes, valamint a gyógyfürdők egyéb – a gyógykezeléssel közvetlenül összefüggésben nem álló – vízfelhasználása,
 
-## af) halgazdasági és rizstermelési vízhasználat: a felszíni vizekből kizárólag e célokból történő vízhasználat,
+## af) halgazdasági és rizstermelési vízhasználat: a felszíni és felszín alatti vizekből halgazdasági és rizstermelési célokból vízkivétellel járó vízhasználat,
 
-## ag) öntözési célú vízhasználat: a felszíni és felszín alatti vizekből kizárólag öntözési célú vízkivétellel járó vízhasználat,
+## ag) öntözési célú vízhasználat: a felszíni és felszín alatti vizekből öntözési célú vízkivétellel járó vízhasználat,
 
-## ah) vízerőművi vízhasználat: vízerőműveken keresztül bocsátott vízmennyiség;
+## ah) vízerőművi vízhasználat: vízerőműveken keresztül bocsátott vízmennyiség,
+
+## ai) hőellátási vízhasználat: felszín alatti vízkészlet vízilétesítménnyel történő igénybevétele fűtés vagy hűtés céljából, annak hőmérsékletétől függetlenül;
 
 ## b) gyógyászati vízhasználat: a vizek gyógykezeléssel közvetlenül összefüggő (gyógymedence feltöltéssel, speciális gyógykezelésekkel kapcsolatos) igénybevétele;
 
@@ -34,35 +36,37 @@
 
 ## h) vízkészlet: meghatározott helyen, térrészben, adott időpontban vagy időszakban mérhető, vagy különféle feltételekkel meghatározható vízmennyiség (m3), vagy időegység alatti vízforgalom (m3/év, m3/s stb.).
 
-3. számú melléklet a 43/1999. (XII. 26.) KHVM rendelethez[^14]
+3. számú melléklet a 43/1999. (XII. 26.) KHVM rendelethez[^15]
 
-| Intézmények | Számla megnevezése | Számlaszámok |
+|  | A | B | C |
 
-| Alsó-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Kövice Bajai Felügyelőség | 10025004-01850626-00000000 |
+| Sorszám | Intézmények | Számla megnevezése | Számlaszámok |
 
-| Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Kövice Budapesti Felügyelőség | 10032000-01850729-00000000 |
+| 1. | Észak-dunántúli Vízügyi Hatóság | Észak-dunántúli Vízügyi Igazgatóság előirányzat felhasználási keretszámla | 10033001-01712027-00000000 |
 
-| Tiszántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Kövice Debreceni Felügyelőség | 10034002-01850688-00000000 |
+| 2. | Közép-Duna-völgyi Vízügyi Hatóság | Közép-Duna-völgyi Vízügyi Igazgatóság előirányzat felhasználási keretszámla | 10032000-01712010-00000000 |
 
-| Észak-dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Kövice Győri Felügyelőség | 10033001-01850671-00000000 |
+| 3. | Alsó-Duna-völgyi Vízügyi Hatóság | Alsó-Duna-völgyi Vízügyi Igazgatóság előirányzat felhasználási keretszámla | 10025004-01712120-00000000 |
 
-| Körös-vidéki Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Kövice Gyulai Felügyelőség | 10026005-01850633-00000000 |
+| 4. | Közép-dunántúli Vízügyi Hatóság | Közép-dunántúli Vízügyi Igazgatóság előirányzat felhasználási keretszámla | 10029008-01712041-00000000 |
 
-| Észak-magyarországi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Kövice Miskolci Felügyelőség | 10027006-01850640-00000000 |
+| 5. | Dél-dunántúli Vízügyi Hatóság | Dél-dunántúli Vízügyi Igazgatóság előirányzat felhasználási keretszámla | 10024003-01712058-00000000 |
 
-| Felső-Tisza-vidéki Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Kövice Nyíregyházi Felügyelőség | 10044001-01850695-00000000 |
+| 6. | Nyugat-dunántúli Vízügyi Hatóság | Nyugat-dunántúli Vízügyi Igazgatóság előirányzat felhasználási keretszámla | 10047004-01712034-00000000 |
 
-| Dél-dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Kövice Pécsi Felügyelőség | 10024003-01850619-00000000 |
+| 7. | Felső-Tisza-vidéki Vízügyi Hatóság | Felső-Tisza-vidéki Vízügyi Igazgatóság előirányzat felhasználási keretszámla | 10044001-01712065-00000000 |
 
-| Alsó-Tisza-vidéki Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Kövice Szegedi Felügyelőség | 10028007-01850657-00000000 |
+| 8. | Észak-magyarországi Vízügyi Hatóság | Észak-magyarországi Vízügyi Igazgatóság előirányzat felhasználási keretszámla | 10027006-01712072-00000000 |
 
-| Közép-dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Kövice Székesfehérvári Felügyelőség | 10029008-01850664-00000000 |
+| 9. | Tiszántúli Vízügyi Hatóság | Tiszántúli Vízügyi Igazgatóság előirányzat felhasználási keretszámla | 10034002-01712089-00000000 |
 
-| Közép-Tisza-vidéki Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Kövice Szolnoki Felügyelőség | 10045002-01850705-00000000 |
+| 10. | Közép-Tisza-vidéki Vízügyi Hatóság | Közép-Tisza-vidéki Vízügyi Igazgatóság előirányzat felhasználási keretszámla | 10045002-01712096-00000000 |
 
-| Nyugat-dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Kövice Szombathelyi Felügyelőség | 10047004-01850712-00000000 |
+| 11. | Alsó-Tisza-vidéki Vízügyi Hatóság | Alsó-Tisza-vidéki Vízügyi Igazgatóság előirányzat felhasználási keretszámla | 10028007-01712106-00000000 |
 
-| Környezetvédelmi és Vízügyi Minisztérium | KvVM Kövice Budapest | 10032000-01220263-53000004 |
+| 12. | Körös-vidéki Vízügyi Hatóság | Körös-Vidéki Vízügyi Igazgatóság előirányzat felhasználási keretszámla | 10026005-01712113-00000000 |
 
-[^13]: A 2. számú melléklet a) pont ab) alpontja a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdés 80. pontja, a 151/2012. (XII. 29.) VM rendelet 65. §-a szerint módosított szöveg.
-[^14]: A 3. számú mellékletet a 33/2006. (VII. 26.) KvVM rendelet 2. §-a iktatta be.
+| 13. | Országos Vízügyi Hatóság | Országos Vízügyi Főigazgatóság előirányzat felhasználási keretszámla | 10032000-00319841-00000000 |
+
+[^14]: A 2. számú melléklet a) pontja a 136/2013. (XII. 31.) VM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^15]: A 3. számú melléklet a 132/2013. (XII. 23.) VM rendelet 9. §-ával megállapított szöveg.

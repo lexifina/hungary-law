@@ -1,38 +1,40 @@
 ## A vízkészletjárulék mértéke
 
-## 1. A VKJ kiszámításának szabálya: VKJ = ,,V'' (m3) X ,,A'' (Ft/m3) X ,,m'' X ,,g''
+## 1.
 
-## a) A ,,V'' a vízhasználó által igénybe venni tervezett vagy igénybe vett vízmennyiség.
+## 1. A VKJ kiszámításának szabálya: VKJ = ,,V” (m3) X ,,A” (Ft/m3) X ,,m” X ,,g”
 
-## b) Az ,,A'' alapjárulék mértékét külön jogszabály4 határozza meg.
+## a) A ,,V” a vízhasználó által igénybe venni tervezett vagy igénybe vett vízmennyiség.
 
-## c) Az alapjárulékot a vízhasználat mértségétől függően módosító szorzószám ,,m'' értéke:
+## b) Az ,,A” alapjárulék mértékét külön jogszabály határozza meg.
 
-## ca) nem mért vízhasználat esetén: 2,0,
+## c) Az alapjárulékot a vízhasználat mértségétől függően módosító szorzószám ,,m” értéke:
 
-## cb) mért vízhasználat esetén: 1,0.
+## ca) nem mért vízhasználat esetében: 2,0,
 
-## d) Az alapjárulékot a vízhasználat és a vízkészlet jellegétől, valamint az adott térség vízkészletgazdálkodási helyzetétől függően a ,,g'' szorzószám módosítja. A ,,g'' szorzószám értékei a következők:
+## cb) mért vízhasználat esetében: 1,0.
+
+## d) Az alapjárulékot a vízhasználat és a vízkészlet jellegétől, valamint az adott térség vízkészletgazdálkodási helyzetétől függően a ,,g” szorzószám módosítja. A ,,g” szorzószám értékei a következők:
 
 | Vízkészlet jellege | Vízhasználat jellege |
 
 | gyógyá- szati célú | közcélú | gazdasági célú |
 
-| ivóvíz | öntözés | halg. és rizsterm. | állattar- tó telep | energe- tika | víz- erőmű | fürdő | egyéb |
+| ivóvíz | öntözés | halg. és rizsterm. | állattar- tó telep | ener- ge- tika | hőel- látási | víz- erő- mű | fürdő | egyéb |
 
-| Fel- szín alatti víz | gyógyvíz | minősített | 1,0 | 5,0 | 5,0 |  |  |  |  |  | 5,0 | 10,0 |
+| Fel- szín alatti víz | gyógyvíz | minősített | 1,0 | 5,0 | 5,0 | 0 | 0 |  |  |  |  | 5,0 | 10,0 |
 
-| termálvíz | >vagy=30 °C | 1,0 | 1,0 | 3,0 |  |  |  |  |  | 3,0 | 7,5 |
+| termálvíz | > vagy=30 °C | 1,0 | 1,0 | 3,0 | 0 | 0 |  |  | 2,0 |  | 3,0 | 7,5 |
 
-| karszt- és hasadék- víz | I. oszt. II. oszt. III. oszt. |  | 1,2 1,0 0,5 | 3,0 2,0 1,0 |  |  | 4,0 3,0 2,0 |  |  | 3,0 2,0 1,0 | 6,0 5,0 4,0 |
+| karszt- és hasadék- víz | I. oszt. II. oszt. III. oszt. |  | 1,2 1,0 0,5 | 3,0 2,0 1,0 | 0 | 0 0 0 | 4,0 3,0 2,0 |  |  |  | 3,0 2,0 1,0 | 6,0 5,0 4,0 |
 
-| rétegvíz | I. oszt. II. oszt. III. oszt. |  | 1,0 0,8 0,5 | 3,0 2,0 1,0 | 4,0 3,0 2,0 |  | 3,5 2,0 1,0 |  |  | 3,0 2,0 1,0 | 5,0 4,0 2,0 |
+| rétegvíz | I. oszt. II. oszt. III. oszt. |  | 1,0 0,8 0,5 | 3,0 2,0 1,0 | 0 0 0 | 0 0 0 | 3,5 2,0 1,0 |  |  |  | 3,0 2,0 1,0 | 5,0 4,0 2,0 |
 
-| partiszű- résű víz | I. oszt. II. oszt. III. oszt. |  | 1,0 0,8 0,5 | 3,0 2,0 1,0 | 3,5 2,0 1,0 |  | 3,5 2,0 1,0 |  |  | 3,0 2,0 1,0 | 4,0 3,0 1,0 |
+| partiszű- résű víz | I. oszt. II. oszt. III. oszt. |  | 1,0 0,8 0,5 | 3,0 2,0 1,0 | 0 0 0 | 0 0 0 | 3,5 2,0 1,0 |  |  |  | 3,0 2,0 1,0 | 4,0 3,0 1,0 |
 
-| talajvíz | I. oszt. II. oszt. III. oszt. |  | 1,0 0,7 0,5 | 1,5 1,1 1,0 | 2,0 1,5 1,0 |  | 1,5 1,1 1,0 |  |  | 1,5 1,1 1,0 | 3,0 2,0 1,5 |
+| talajvíz | I. oszt. II. oszt. III. oszt. |  | 1,0 0,7 0,5 | 1,5 1,1 1,0 | 0 0 0 | 0 0 0 | 1,5 1,1 1,0 |  |  |  | 1,5 1,1 1,0 | 3,0 2,0 1,5 |
 
-| Felszíni víz | I. kat. II. kat. III. kat. IV. kat. |  | 0,6 0,7 0,8 0,8 | 1,0 1,1 1,2 1,2 | 0,1 0,1 0,2 0,3 | 0,02 0,02 0,04 0,06 |  | 0,4 0,4 0,4 0,5 | 0,001 0,001 0,001 0,001 | 1,0 1,1 1,2 1,2 | 1,0 2,0 2,5 3,0 |
+| Felszíni víz | I. kat. II. kat. III. kat. IV. kat. |  | 0,6 0,7 0,8 0,8 | 1,0 1,1 1,2 1,2 | 0 0 0 0 | 0 0 0 0 |  | 0,4 0,4 0,4 0,5 |  | 0,001 0,001 0,001 0,001 | 1,0 1,1 1,2 1,2 | 1,0 2,0 2,5 3,0 |
 
 ## 2. A felszín alatti vizek osztályba sorolása az MSZ 450/1 ivóvíz szabványnak megfelelően:
 
