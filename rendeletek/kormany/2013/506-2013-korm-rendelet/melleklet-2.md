@@ -8,7 +8,7 @@
 
 | 3 | örökségvédelmi hatósági eljárások | Debreceni Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Hajdú-Bihar Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
-| 4 | környezetvédelmi hatósági engedélyezési eljárások | Közép-Tisza-vidéki Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 4 | környezetvédelmi hatósági engedélyezési eljárások | Közép-Tisza-vidéki Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
 | 5 | fakivágási engedélyezési eljárások | Karcag Város Önkormányzatának jegyzője | Hajdú-Bihar Megyei Kormányhivatal |
 
@@ -16,7 +16,7 @@
 
 | 7 | a Magyar Kereskedelmi Engedélyezési Hivatalról és a területi mérésügyi és műszaki biztonsági hatóságokról szóló 320/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdése és 13. § (2) bekezdése szerinti engedélyezési eljárások | Hajdú-Bihar Megyei Kormányhivatal Debreceni Mérésügyi és Műszaki Biztonsági Hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
-| 8 |  |  | vízjogi hatósági eljárások | Közép-Tisza-vidéki Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 8 |  |  | vízjogi hatósági eljárások | Közép-Tisza-vidéki Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
 | 9 | hírközlési hatósági eljárások | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
@@ -30,7 +30,7 @@
 
 | 14 | területrendezési eljárások | Hajdú-Bihar Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatalának állami főépítésze | nincs |
 
-2. melléklet az 506/2013. (XII. 29.) Korm. rendelethez
+2. melléklet az 506/2013. (XII. 29.) Korm. rendelethez[^3]
 
 A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárásokban közreműködő hatáskörrel rendelkező szakhatóságok
 
@@ -50,8 +50,10 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 | 7 | műszaki biztonság | Hajdú-Bihar Megyei Kormányhivatal Debreceni Mérésügyi és Műszaki Biztonsági Hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
-| 8 | környezetvédelem, természetvédelem és tájvédelem | Közép-Tisza-vidéki Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 8 | környezetvédelem, természetvédelem és tájvédelem | Közép-Tisza-vidéki Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
-| 9 | vízügy | Közép-Tisza-vidéki Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 9 | vízügy | Közép-Tisza-vidéki Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
 | 10 | rendészet | Hajdú-Bihar Megyei Rendőr-főkapitányság | Országos Rendőr-főkapitányság |
+
+[^3]: A 2. melléklet a 7. § (2) bekezdése szerint módosított szöveg.

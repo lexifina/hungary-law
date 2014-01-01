@@ -1,5 +1,5 @@
-## 7. §[^2]
+## lép.
 
-1. melléklet az 506/2013. (XII. 29.) Korm. rendelethez
+1. melléklet az 506/2013. (XII. 29.) Korm. rendelethez[^2]
 
-[^2]: A 7. § a 4. § (2) bekezdése alapján 2014. január 1-jén lép hatályba.
+[^2]: Az 1. melléklet a 7. § (1) bekezdése szerint módosított szöveg.
