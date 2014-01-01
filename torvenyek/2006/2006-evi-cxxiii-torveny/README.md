@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2006-123-00-00
 | 2011-01-07 | 2010. évi CLXXXIII. törvény | 2006-123-00-00.7 |
 | 2012-01-01 | 2011. évi CL. törvény | 2006-123-00-00.8 |
 | 2013-07-01 | 2012. évi CCXXIII. törvény | 2006-123-00-00.9 |
+| 2014-01-01 | 2013. évi CLXXXVI. törvény | 2006-123-00-00.10 |

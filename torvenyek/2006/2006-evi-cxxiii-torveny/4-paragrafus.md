@@ -1,6 +1,6 @@
 4. § (1) Közvetítőként nem járhat el,
 
-a) aki az ügyben mint bíró, ügyész vagy a nyomozó hatóság tagja járt el, valamint az ügyben eljárt vagy eljáró bíró, ügyész, illetőleg a nyomozó hatóság tagjának hozzátartozója [Büntető Törvénykönyvről szóló 1978. évi IV. törvény (Btk.) 137. § 6. pont],
+a) aki az ügyben mint bíró, ügyész vagy a nyomozó hatóság tagja járt el, valamint az ügyben eljárt vagy eljáró bíró, ügyész, illetőleg a nyomozó hatóság tagjának hozzátartozója [Büntető Törvénykönyvről szóló 2012. évi C. törvény (Btk.) 459. § (1) bekezdés 14. pont],
 
 b) aki az ügyben mint terhelt, védő, továbbá sértett, magánfél, feljelentő vagy mint ezek képviselője vesz vagy vett részt, valamint aki ezek hozzátartozója,
 
