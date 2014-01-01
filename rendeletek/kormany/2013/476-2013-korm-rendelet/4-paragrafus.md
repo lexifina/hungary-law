@@ -1,3 +1,3 @@
-## 3. §[^2]
+## 3. § Az R. 5. §-a a következő (5) bekezdéssel egészül ki:
 
-[^2]: A 3. § a 26. § (2) bekezdése alapján 2014. január 1-jén lép hatályba.
+## „(5) Ha a hatóság az előírt határidőben nem hoz döntést, az üzemeltetőt nem illeti meg a kérelmezett jog gyakorlása.”
