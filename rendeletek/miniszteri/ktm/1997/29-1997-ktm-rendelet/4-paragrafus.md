@@ -2,7 +2,7 @@
 
 4. § (1) A Szervezet a minősítő-tanúsító rendszer működtetése érdekében gazdasági tevékenységet folytat.
 
-(2)[^7] Az (1) bekezdésben meghatározott gazdasági tevékenység körében a Szervezet feladata:
+(2)[^9] Az (1) bekezdésben meghatározott gazdasági tevékenység körében a Szervezet feladata:
 
 a) a minősítő-tanúsító rendszer működésének szervezése;
 
@@ -20,23 +20,24 @@ g) a nyertes pályázóval a védjegyhasználati szerződés megkötése;
 
 h) a védjegyhasználatra kötött szerződés teljesítésének ellenőrzése;
 
-i) a minősítő-tanúsító rendszerrel kapcsolatos információk rendszeres közzététele a Környezetvédelmi és Vízügyi Minisztérium hivatalos lapjában;
+i)[^10] a minősítő-tanúsító rendszerrel kapcsolatos információk rendszeres közzététele a Vidékfejlesztési Minisztérium hivatalos lapjában;
 
 j) nyilvántartás vezetése a védjegyjogosultakról;
 
 k) a környezetbarát termékminősítő rendszerrel kapcsolatos reklám tevékenység szervezése.
 
-(3)[^8] A Szervezet képviselője látja el a Bizottság elnöki feladatait. E minőségében
+(3)[^11] A Szervezet képviselője látja el a Bizottság elnöki feladatait. E minőségében
 
 a) előkészíti a Bizottság számára a javaslatot;
 
 b) szervezi, összehívja és levezeti a Bizottság üléseit.
 
-c)[^9]
+c)[^12]
 
-(4)[^10]
+(4)[^13]
 
-[^7]: A 4. § (2) bekezdése a 9/2004. (V. 25.) KvVM rendelet 4. §-ával megállapított szöveg.
-[^8]: A 4. § (3) bekezdése a 9/2004. (V. 25.) KvVM rendelet 6. §-ának b) pontja szerint módosított szöveg.
-[^9]: A 4. § (3) bekezdésének c) pontját a 9/2004. (V. 25.) KvVM rendelet 6. §-ának a) pontja hatályon kívül helyezte.
-[^10]: A 4. § (4) bekezdését a 9/2004. (V. 25.) KvVM rendelet 6. §-ának a) pontja hatályon kívül helyezte.
+[^9]: A 4. § (2) bekezdése a 9/2004. (V. 25.) KvVM rendelet 4. §-ával megállapított szöveg.
+[^10]: A 4. § (2) bekezdés i) pontja a 132/2013. (XII. 23.) VM rendelet 6. § d) pontja szerint módosított szöveg.
+[^11]: A 4. § (3) bekezdése a 9/2004. (V. 25.) KvVM rendelet 6. §-ának b) pontja szerint módosított szöveg.
+[^12]: A 4. § (3) bekezdésének c) pontját a 9/2004. (V. 25.) KvVM rendelet 6. §-ának a) pontja hatályon kívül helyezte.
+[^13]: A 4. § (4) bekezdését a 9/2004. (V. 25.) KvVM rendelet 6. §-ának a) pontja hatályon kívül helyezte.

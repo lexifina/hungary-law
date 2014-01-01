@@ -1,6 +1,6 @@
 ## A minősítő eljárás, a védjegyhasználati szerződés, valamint az Értékelő és Minősítő Bizottság
 
-3. §[^5] (1) Termékcsoportra vonatkozó minősítési feltételek meghatározását – a Szervezethez benyújtott indoklással ellátott javaslattal – bárki kezdeményezheti. A kezdeményezés alapján a Szervezet javaslatot készít az Értékelő és Minősítő Bizottság (a továbbiakban: Bizottság) részére. A Szervezet javaslata alapján a minősítési feltételek kidolgozásáról a Bizottság dönt.
+3. §[^6] (1) Termékcsoportra vonatkozó minősítési feltételek meghatározását – a Szervezethez benyújtott indoklással ellátott javaslattal – bárki kezdeményezheti. A kezdeményezés alapján a Szervezet javaslatot készít az Értékelő és Minősítő Bizottság (a továbbiakban: Bizottság) részére. A Szervezet javaslata alapján a minősítési feltételek kidolgozásáról a Bizottság dönt.
 
 (2) A Bizottság döntése alapján a Szervezet szakértők bevonásával az adott termékcsoportra – az Európai Közösségben már elfogadott kritériumok figyelembevételével – kidolgozza a minősítési feltételek tervezetét, valamint biztosítja a szakmai szövetségek számára a véleménynyilvánítás lehetőségét. A Szervezet a javaslatot – a miniszter egyetértésével – a Bizottság elé terjeszti. A Bizottság dönt a minősítési feltételek elfogadásáról.
 
@@ -30,7 +30,7 @@ c) a Földművelésügyi és Vidékfejlesztési Minisztérium,
 
 d) a Gazdasági és Közlekedési Minisztérium,
 
-e) a Környezetvédelmi és Vízügyi Minisztérium,
+e)[^7] a Vidékfejlesztési Minisztérium,
 
 f) az Oktatási Minisztérium,
 
@@ -56,7 +56,8 @@ o) a Szervezet
 
 (12) A Bizottság az ügyrendjét maga állapítja meg.
 
-(13) A Bizottság külön jogszabály alapján[^6] közreműködik a közösségi öko-címkével kapcsolatos feladatok ellátásában.
+(13) A Bizottság külön jogszabály alapján[^8] közreműködik a közösségi öko-címkével kapcsolatos feladatok ellátásában.
 
-[^5]: A 3. § és az azt megelőző alcím a 9/2004. (V. 25.) KvVM rendelet 3. §-ával megállapított szöveg.
-[^6]: A közösségi öko-címke odaítélését ellátó szerv kijelöléséről szóló 83/2003. (VI. 7.) Korm. rendelet.
+[^6]: A 3. § és az azt megelőző alcím a 9/2004. (V. 25.) KvVM rendelet 3. §-ával megállapított szöveg.
+[^7]: A 3. § (11) bekezdés e) pontja a 132/2013. (XII. 23.) VM rendelet 6. § c) pontjával megállapított szöveg.
+[^8]: A közösségi öko-címke odaítélését ellátó szerv kijelöléséről szóló 83/2003. (VI. 7.) Korm. rendelet.
