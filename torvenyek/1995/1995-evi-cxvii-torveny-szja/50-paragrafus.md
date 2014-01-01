@@ -22,4 +22,4 @@ c) az egyéni vállalkozói bevétele az adóévben nem haladja meg a 15 millió
 
 (8) A tevékenységét év közben kezdő vagy megszüntető egyéni vállalkozó az (1) bekezdésben meghatározott bevételi értékhatárt a tevékenység folytatásának napjaival időarányosan veheti figyelembe.
 
-(9) A tevékenységét szüneteltető egyéni vállalkozó a szünetelés időtartama alatt mentesül az (1) bekezdés b) pontjában foglalt feltétel teljesítése alól.
+(9)

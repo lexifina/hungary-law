@@ -16,7 +16,7 @@ c) kizárólag a kifizető tevékenységével összefüggésben, a tevékenység
 
 d) az osztalékelőlegnek az a része, amely a kifizetését követő első beszámoló elfogadásával osztalékká vált;
 
-e) az adó, az adóelőleg, a járulék, társadalombiztosítási és családtámogatási ellátás megállapításával (elszámolásával) összefüggésben, valamint a munkaviszonyból származó jövedelem elszámolása (számfejtése) során az elszámolás szokásszerű rendjéből adódóan keletkezett követelés; e rendelkezés nem alkalmazható a munkáltató, a bér kifizetője, a társas vállalkozás, a polgári jogi társaság által megfizetett, de le nem vont adóelőleg miatt keletkezett követelésnek arra a részére, amelynek beszámítására az adóelőleg megfizetésének hónapját követő hatodik hónap elteltével nem került sor;
+e) az adó, az adóelőleg, a járulék, társadalombiztosítási és családtámogatási ellátás megállapításával (elszámolásával) összefüggésben, valamint a munkaviszonyból származó jövedelem elszámolása (számfejtése) során az elszámolás szokásszerű rendjéből adódóan keletkezett követelés; e rendelkezés nem alkalmazható a munkáltató, a bér kifizetője, a társas vállalkozás által megfizetett, de le nem vont adóelőleg miatt keletkezett követelésnek arra a részére, amelynek beszámítására az adóelőleg megfizetésének hónapját követő hatodik hónap elteltével nem került sor;
 
 f) lakás célú hitel, ha azt a munkáltató munkavállalójának vagy helyi önkormányzat a magánszemélynek hitelintézet vagy a Magyar Államkincstár útján, annak igazolása alapján olyan lakása építéséhez, vásárlásához, bővítéséhez, korszerűsítéséhez, vagy bármely, az említett célra hitelintézettől, vagy bármely, az említett célra korábbi munkáltatótól felvett hitel visszafizetéséhez, törlesztéséhez nyújtotta, amely lakás nem haladja meg a lakás célú támogatásokról szóló jogszabályban meghatározott, méltányolható lakásigény mértékét; lakáskorszerűsítés a lakás célú állami támogatásokról szóló kormányrendeletben meghatározott korszerűsítés;
 
@@ -36,4 +36,4 @@ m) a Munka Törvénykönyve szerint a munkavállaló kártérítési felelőssé
 
 n) a külföldi kiküldetésre, külszolgálatra tekintettel adott előleg, elszámolásra kiadott összeg, feltéve, hogy annak a kifizetővel való elszámolása a visszaérkezést követő 30 napon belül megtörténik.
 
-o)
+o) a pénzügyi intézmény által független félnek üzletszerű pénzügyi szolgáltatása keretében nyújtott olyan hitel vagy kölcsön, amellyel összefüggésben az adós fizetőképességének helyreállítását vagy megőrzését célzó intézkedések kerültek végrehajtásra.

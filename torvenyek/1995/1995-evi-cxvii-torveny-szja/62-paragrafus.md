@@ -12,7 +12,7 @@ a) az átruházásról szóló szerződés (okirat, bírósági, hatósági hat�
 
 b) a cserébe kapott ingatlan, illetve vagyoni értékű jog esetében a csereszerződésben rögzített érték;
 
-c) a kárpótlásról szóló törvényekben szabályozott vételi jog gyakorlása során szerzett termőföld esetében – ha a jövedelmet nem a 64. § (1) bekezdés rendelkezése szerint kell megállapítani – a vételi jog gyakorlása során vételárként szereplő összeg;
+c) a kárpótlásról szóló törvényekben szabályozott vételi jog gyakorlása során szerzett termőföld esetében a vételi jog gyakorlása során vételárként szereplő összeg;
 
 d) helyi önkormányzattól vásárolt lakás estében a szerződésben szereplő tényleges vételár;
 
@@ -42,7 +42,7 @@ vagy
 
 (3a) Ha az ingatlan értékesítése – kivéve, ha a magánszemély a bevételt egyéni vállalkozói tevékenysége keretében szerzi meg – gazdasági tevékenység [3. § 46. pont] keretében történik, az (1)–(3) bekezdés rendelkezései szerint megállapított jövedelem önálló tevékenységből származó jövedelemnek minősül.
 
-(4) Az ingatlan átruházásából származó jövedelem, ha az átruházás a megszerzés évében vagy az azt követő öt évben történik, az (1)–(2) bekezdés rendelkezései szerint kiszámított összeg (e § alkalmazásában: számított összeg). Ezt követően a jövedelmet úgy kell megállapítani, hogy a számított összeget csökkenteni kell, ha az átruházás – a megszerzés évét követő évet első évnek tekintve –,
+(4) Az ingatlan, ingatlanra vonatkozó vagyoni értékű jog átruházásából származó jövedelem, ha az átruházás a megszerzés évében vagy az azt követő öt évben történik, az (1)–(2) bekezdés rendelkezései szerint kiszámított összeg (e § alkalmazásában: számított összeg). Ezt követően a jövedelmet úgy kell megállapítani, hogy a számított összeget csökkenteni kell, ha az átruházás – a megszerzés évét követő évet első évnek tekintve –,
 
 a) a hatodik évben történik, a számított összeg 10 százalékával,
 
@@ -64,7 +64,7 @@ i) a tizennegyedik évben történik, a számított összeg 90 százalékával,
 
 j) a tizenötödik évben vagy később történik, a számított összeg 100 százalékával.
 
-(5) A vagyoni értékű jog átruházásából származó jövedelem az (1)–(3) bekezdés rendelkezései szerint kiszámított összeg, azzal, hogy nem számít bevételnek az 1982. január 1-je előtt szerzett vagyoni értékű jog átruházásából származó vagyoni ellenérték.
+(5)
 
 (6) A (4)–(5) bekezdés rendelkezéseitől eltérően, az ingatlanügyi hatóság nyilvántartása szerint
 

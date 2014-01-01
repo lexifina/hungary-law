@@ -24,7 +24,7 @@ dc) szokásos tartózkodási helye belföldön található, ha egyáltalán nem 
 
 azzal, hogy a létérdekek központja az az állam, amelyhez a magánszemélyt a legszorosabb személyes, családi és gazdasági kapcsolatok fűzik.
 
-3. Külföldi illetőségű magánszemély: a belföldi illetőségű magánszemélynek nem minősülő természetes személy.
+3. Külföldi illetőségű magánszemély: a belföldi illetőségű magánszemélynek nem minősülő természetes személy, valamint – a 2. pont c) alpontjában foglaltaktól eltérően – a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 35. § (1) bekezdésének e) pontja hatálya alá tartozó letelepedett jogállású személy, feltéve, hogy bármely 12 hónapos időszakban – a ki- és beutazás napját is egész napnak tekintve – kevesebb, mint 183 napot tartózkodik Magyarország területén.
 
 4. Jövedelemszerzés helye:
 
@@ -160,7 +160,9 @@ d) a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról 
 
 e) a Magyar Honvédségnél tartalékos katonai szolgálatot teljesítő magánszemély illetménye;
 
-f) az a)–e) pontban meghatározott jövedelmet pótló kártérítés (keresetpótló járadék), ideértve a felelősségbiztosítás alapján ilyen címen fizetett kártérítést is, de ide nem értve a nyugdíjban részesülő magánszemélyt megillető baleseti járadékot.
+f) az a)–e) pontban meghatározott jövedelmet pótló kártérítés (keresetpótló járadék), ideértve a felelősségbiztosítás alapján ilyen címen fizetett kártérítést is, de ide nem értve a nyugdíjban részesülő magánszemélyt megillető baleseti járadékot;
+
+g) a nevelőszülői foglalkoztatási jogviszonyban végzett tevékenység díjazása.
 
 22. Munkaviszonyból származó jövedelem: a magánszemélyt munkaviszonyára (ideértve a munkaviszonynak megfelelő, külföldi jog szerinti jogviszonyt is) tekintettel megillető adóköteles bevétel.
 
@@ -232,7 +234,7 @@ b) ingatlan átruházása esetében az átruházást megelőző 24 hónapon bel�
 
 39–40.
 
-41. Agrár csekély összegű (agrár de minimis) támogatás: az EK-Szerződés 87. és 88. cikkének a halászati ágazatban nyújtott csekély összegű (de minimis) támogatásokra való alkalmazásáról és az 1860/2004/EK bizottsági rendelet módosításáról szóló 875/2007/EK bizottsági rendelet (2007. július 24.) vagy az EK-Szerződés 87. és 88. cikkének a mezőgazdasági termelőágazatban nyújtott csekély összegű (de minimis) támogatásokra való alkalmazásáról szóló 1535/2007/EK bizottsági rendelet (2007. december 20.) által csekély összegű (de minimis) támogatásnak minősített támogatás.
+41. Agrár csekély összegű (de minimis) támogatás: az Európai Unió valamely, a mezőgazdasági vagy halászati termelő ágazatban nyújtott csekély összegű (de minimis) támogatásokra vonatkozó uniós jogi aktusában meghatározott támogatás, mely mértéke, illetve intenzitása alapján nem teljesíti az Európai Unió Működéséről szóló szerződés 107. cikk (1) bekezdésében foglalt valamennyi feltételt és így nem tartozik a 108. cikk (3) bekezdésében foglalt bejelentési kötelezettség alá.
 
 42. Költségek fedezetére vagy fejlesztési célra folyósított támogatás: a költségek fedezetére vagy fejlesztési célra folyósított olyan támogatás, amelyet a magánszemély kizárólag a ténylegesen felmerült, igazolt kiadásainak a folyósítóval történő elszámolási kötelezettsége mellett kap.
 
@@ -264,7 +266,7 @@ azzal, hogy az a)–c) pontokban foglalt feltételek fennállása szempontjábó
 
 52.
 
-53. Termőföld haszonbérbeadása: a termőföld magánszemély tulajdonosa vagy haszonélvezője által egy vagy több évre, írásban kötött megállapodás alapján, bérleti díj ellenében mező-, erdőgazdasági, illetve halászati hasznosításra történő földterület-bérbeadás.
+53. Termőföld haszonbérbeadása: a termőföld, illetve halastó magánszemély tulajdonosa vagy haszonélvezője által egy vagy több évre, írásban kötött megállapodás alapján, bérleti díj ellenében mező-, erdőgazdasági, illetve halászati hasznosításra történő földterület-bérbeadás.
 
 54. Beruházási költség: az e törvény szerint költségként elismert, igazolt, a tárgyi eszköz, a nem anyagi javak üzembe helyezése érdekében az üzembe helyezés napjáig felmerült, az előírt nyilvántartásban feltüntetett kiadás.
 
@@ -342,7 +344,7 @@ azzal, hogy egyidejűleg négynél kevesebb munkavállaló szállítása is csop
 
 90. Személybiztosítás: az élet-, a baleset- és a betegségbiztosítás.
 
-91. Kockázati biztosítás: az olyan személybiztosítás, amelynek nincs lejárati szolgáltatása és visszavásárlási értéke, azzal, hogy kockázati biztosításnak minősül a kockázati biztosítási elemeket is magában foglaló biztosítások esetében az igazoltan elkülönített kockázati biztosítási rész is.
+91. Kockázati biztosítás: az olyan személybiztosítás, amely esetében biztosítási esemény bekövetkezése nélkül vagyoni érték kivonására nincs lehetőség (így különösen nincs lejárati szolgáltatása és visszavásárlási értéke), azzal, hogy kockázati biztosításnak minősül a kockázati biztosítási elemeket is magában foglaló biztosítások esetében az igazoltan elkülönített kockázati biztosítási rész is, de nem minősül kockázati biztosításnak az olyan biztosítás – akkor sem, ha a biztosító teljesítését biztosítási esemény váltja ki –, ha az adott biztosítási szerződés vonatkozásában a biztosítási feltételek szerint a biztosító teljesítésének összege nem haladhatja meg az adott biztosítási szerződésre befizetett biztosítási díj és az azzal kapcsolatosan képződő hozam együttes összegét; e rendelkezés alkalmazásában nem minősül vagyoni érték kivonásának az a biztosítási esemény bekövetkezése nélküli biztosítói teljesítés (így különösen a díjkedvezmény, díjengedmény, díjvisszatérítés), amelyre a díjat fizető személy jogosult, de vagyoni érték kivonásának minősül, ha a személybiztosítás díját más személy – ide nem értve a kifizetőnek nem minősülő magánszemélyt – fizette és a biztosítási esemény bekövetkezése nélküli biztosítói teljesítésre a biztosítás feltételei szerint magánszemély jogosult, ez utóbbi esetben azzal, hogy amennyiben a magánszemély erre a szerződéskötést követően egy későbbi időpontban válik jogosulttá, akkor a biztosítás a teljes tartam alatt nem minősül kockázati biztosításnak.
 
 92. Életbiztosítás: az olyan személybiztosítás, amely alapján a biztosító a természetes személy halála, meghatározott életkor vagy időpont elérése vagy más esemény bekövetkezése esetére a szerződésben meghatározott biztosítási összeg kifizetésére, járadék élethosszig tartó vagy meghatározott időszakra történő folyósítására vállal kötelezettséget.
 
@@ -350,7 +352,7 @@ azzal, hogy egyidejűleg négynél kevesebb munkavállaló szállítása is csop
 
 94. Betegségbiztosítás (vagy egészségbiztosítás): az olyan személybiztosítás, amely alapján a biztosító a biztosított megbetegedése esetén a szerződésben meghatározott szolgáltatások teljesítésére vállal kötelezettséget, azzal, hogy betegségbiztosítás esetében a biztosító szolgáltatása kiterjedhet a szerződésben meghatározott, biztosítási eseménnyel kapcsolatban álló egészségügyi szolgáltatások miatt felmerült költségek egészségügyi szolgáltató számára történő megtérítésére is.
 
-95. Balesetbiztosítás: az olyan személybiztosítás, amely alapján a biztosító a biztosított baleset miatt bekövetkező halála, egészségkárosodása vagy rokkantsága esetére a szerződésben meghatározott biztosítási összeg vagy járadék fizetésére, valamint a szerződésben meghatározott egyéb szolgáltatásra vállal kötelezettséget.
+95. Balesetbiztosítás: az olyan betegségbiztosítás (vagy egészségbiztosítás), amely alapján a biztosító a biztosított baleset miatt bekövetkező halála, egészségkárosodása vagy rokkantsága esetére a szerződésben meghatározott biztosítási összeg vagy járadék fizetésére, valamint a szerződésben meghatározott egyéb szolgáltatásra vállal kötelezettséget.
 
 96. Járadékbiztosítás: az olyan életbiztosítás – ideértve az azonnal induló, nem csökkenő összegű járadékbiztosítást is –, ahol a járadékszolgáltatást legalább a folyósítás megkezdésétől számított 10. év végéig, vagy a biztosított haláláig nyújtják, feltéve, hogy a járadék nem csökkenő összegű és legalább évente vagy annál gyakoribb kifizetéssel valósul meg.
 

@@ -24,13 +24,7 @@ fd) az értékelési különbözetet,
 
 g) a törvény eltérő rendelkezésének hiányában a társas vállalkozás tagja által az e jogviszonyára tekintettel megszerzett vagyoni érték, azzal, hogy a bevételnek nem része a megszerzése érdekében a magánszemély által viselt, szabályszerűen igazolt kiadás.
 
-(2) Ha a biztosítás más személy, jogi személyiséggel nem rendelkező szervezet (kivéve az egyéni vállalkozónak nem minősülő magánszemélyt) által fizetett díja részben vagy egészben a magánszemély adómentes bevétele volt, egyéb jövedelem a kockázati biztosításnak nem minősülő, határozatlan idejű, kizárólag halál esetére szóló életbiztosítás
-
-a) alapján a biztosító nem haláleseti teljesítéséből a magánszemélynek juttatott vagyoni értékből a biztosított által megfizetett biztosítási díjak és az adóköteles biztosítási díjak együttes összegét meghaladó része;
-
-b) visszavásárlási értékéből a biztosított által megfizetett biztosítási díjak és az adóköteles biztosítási díjak együttes összegét meghaladó rész a biztosítási szerződés módosításának időpontjában az eredeti biztosított magánszemélynél, ha a biztosítási szerződésben meghatározott biztosított személyében változás következik be, illetve ha a szerződésmódosítás következtében a biztosítás már nem minősül kockázati biztosításnak nem minősülő határozatlan idejű, kizárólag halál esetre szóló életbiztosításnak
-
-azzal, hogy az ily módon megállapított egyéb jövedelemmel összefüggésben a biztosító a kifizetőre irányadó rendelkezések szerint jár el, továbbá az egyéb jövedelmet adóköteles biztosítási díjként lehet figyelembe venni a biztosító további teljesítése adókötelezettségének megállapításakor.
+(2) Ha a biztosítás más személy által fizetett díja az 1. számú melléklet 6. pont 6.9. alpontja alapján vagy a kockázati biztosításnak nem minősülő, határozatlan idejű, kizárólag halál esetére szóló életbiztosítás más személy által 2013. január 1-jét megelőzően fizetett díja az 1. számú mellékletnek a befizetés időpontjában hatályos 6. pont 6.3. alpontja alapján részben vagy egészben adómentes volt, akkor – függetlenül a biztosítási szerződés esetleges módosításától – a biztosító teljesítéséből (kivéve, ha a biztosító teljesítése a 1. számú melléklet 6. pont 6.6. alpontja alapján haláleseti, betegségbiztosítási vagy balesetbiztosítási szolgáltatásként adómentes) a kifizetőnek nem minősülő magánszemély által fizetett biztosítási díj, valamint az adóköteles biztosítási díj együttes összegét meghaladó rész egyéb jövedelemnek minősül. A biztosítói teljesítést megelőzően bevételcsökkentő tételként már figyelembe vett díjrészeket figyelmen kívül kell hagyni az egyéb jövedelem biztosítói teljesítés időpontjában történő további megállapítása során.
 
 (3)–(4)
 

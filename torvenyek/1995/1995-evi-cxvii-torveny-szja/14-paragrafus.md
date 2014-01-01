@@ -1,6 +1,6 @@
 ## Munkáltatói adómegállapítás
 
-14. § (1) A munkáltatói adómegállapításra nyilatkozatot adó magánszemély adóját – az e §-ban foglalt feltételek fennállása esetén – az adózás rendjéről szóló törvény szerint a munkáltató (az adó elszámolását vállaló munkáltató) állapítja meg és számolja el. E § alkalmazásában az adó elszámolását vállaló munkáltató a társas vállalkozás, a polgári jogi társaság is, amellyel a munkáltatói adómegállapítást kérő nyilatkozattétel napján a magánszemély tagi jogviszonyban áll, feltéve, hogy e napon nem áll más kifizetővel munkaviszonyban, és tagi jogviszonya alapján a társas vállalkozásnál, illetve a polgári jogi társaságnál díj ellenében személyes közreműködésre köteles.
+14. § (1) A munkáltatói adómegállapításra nyilatkozatot adó magánszemély adóját – az e §-ban foglalt feltételek fennállása esetén – az adózás rendjéről szóló törvény szerint a munkáltató (az adó elszámolását vállaló munkáltató) állapítja meg és számolja el. E § alkalmazásában az adó elszámolását vállaló munkáltató a társas vállalkozás is, amellyel a munkáltatói adómegállapítást kérő nyilatkozattétel napján a magánszemély tagi jogviszonyban áll, feltéve, hogy e napon nem áll más kifizetővel munkaviszonyban, és tagi jogviszonya alapján a társas vállalkozásnál díj ellenében személyes közreműködésre köteles.
 
 (2) Az adó elszámolását vállaló munkáltató – az adóévben megszerzett összes olyan bevétel figyelembevételével, amelyet a magánszemély az (1) bekezdésben említett nyilatkozat hiányában köteles lenne önadózóként bevallani – a magánszemély jövedelmét és az azt terhelő adót megállapítja és bevallja, az adót megfizeti, túlfizetés esetén az adókülönbözetet a magánszemélynek visszatéríti, valamint az előzőek elszámolásáról bizonylatot állít ki a magánszemély számára.
 
@@ -18,7 +18,7 @@ c) az adóévben – az a)–b) pontban említett bevétel(ek) mellett – kizá
 
 (4) Nem zárja ki a munkáltatói adómegállapítást, ha
 
-a) a magánszemély adókedvezményt érvényesít, az adójáról önkéntes kölcsönös pénztári nyilatkozatban rendelkezik, feltéve, hogy az adókedvezményre jogosító igazolást, valamint a rendelkező nyilatkozatát az adózás rendjéről szóló törvényben előírt határidőig az adó elszámolását vállaló munkáltatónak átadja, továbbá ha az adójáról külön törvényben előírtak szerint rendelkezik;
+a) a magánszemély adókedvezményt érvényesít, az adójáról önkéntes kölcsönös pénztári nyilatkozatban, nyugdíjbiztosítási nyilatkozatban (ide nem értve, ha a nyugdíjbiztosítási nyilatkozat megtételére külföldi biztosítóval megkötött nyugdíjbiztosítási szerződés alapján jogosult a magánszemély) rendelkezik, feltéve, hogy az adókedvezményre jogosító igazolást, valamint a rendelkező nyilatkozatát az adózás rendjéről szóló törvényben előírt határidőig az adó elszámolását vállaló munkáltatónak átadja, továbbá ha az adójáról külön törvényben előírtak szerint rendelkezik;
 
 b) a tételes költségelszámolást alkalmazó mezőgazdasági őstermelő az e törvény rendelkezései szerinti nemleges bevallási nyilatkozatát az adó elszámolását vállaló munkáltatónak adja át.
 

@@ -173,3 +173,5 @@ V. A jövedelem megállapításakor költségként figyelembe nem vehető kiadá
 11. a magánszemély bevétele (jövedelme) után külföldön megfizetett, a személyi jövedelemadónak megfelelő adó.
 
 12. az egyszerűsített foglalkoztatásról szóló törvény szabályai szerint létesített munkaviszonyban foglalkoztatott részére a magánszemély által az egy napi munkáért kifizetett munkabérből a minimálbér napi összegének kétszeresét meghaladó mértékű kifizetés.
+
+13. a jövedelem után a magánszemély által fizetendő 14 százalékos mértékű egészségügyi hozzájárulás.

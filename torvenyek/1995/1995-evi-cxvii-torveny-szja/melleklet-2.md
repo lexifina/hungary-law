@@ -36,7 +36,7 @@ b) a terméket, a szolgáltatást elemi károk, katasztrófák esetén közadako
 
 8. az adó, a társadalombiztosítási járulék stb. különbözetének a visszatérítése, ha a befizetést a magánszemély költségként bármely évben elszámolta;
 
-9. a mezőgazdasági őstermelő esetében a káreseménnyel összefüggésben kapott kártérítés, ideértve a felelősségbiztosítás alapján felvett összeget;
+9. a mezőgazdasági őstermelő esetében a káreseménnyel összefüggésben kapott kártalanítás, kártérítés, ideértve a felelősségbiztosítás alapján felvett összeget;
 
 10. azon biztosítási szolgáltatás értéke, amely esetében az arra jogosító biztosítási díjat a mezőgazdasági őstermelő költségként elszámolta;
 
@@ -52,7 +52,7 @@ A tevékenység megszüntetésének évében bevétel
 
 3. az éves adóbevallás benyújtásának határnapjáig (illetve a benyújtás napjáig) rendelkezésre álló, a megszüntetésről beadott adóbevallást követően befolyt összeg december 31-i időponttal.
 
-A megszüntetés évéről készített adóbevallás benyújtását, egyszerűsített bevallási nyilatkozat esetén a munkáltatói elszámolást vagy az adóhatósági adómegállapítást követően érkező bevételre az önálló tevékenységből származó jövedelemre vonatkozó rendelkezéseket kell alkalmazni, azzal, hogy ha kiadás is jelentkezik az említett időpontot követően, akkor az a bevételből levonható, illetőleg a le nem vonható rész ezen adóbevallás önellenőrzésével számolható el.
+A megszüntetés évéről készített adóbevallás benyújtását, egyszerűsített bevallási nyilatkozat esetén a munkáltatói adómegállapítást követően érkező bevételre az önálló tevékenységből származó jövedelemre vonatkozó rendelkezéseket kell alkalmazni, azzal, hogy ha kiadás is jelentkezik az említett időpontot követően, akkor az a bevételből levonható, illetőleg a le nem vonható rész ezen adóbevallás önellenőrzésével számolható el.
 
 III. Egyéb rendelkezések
 

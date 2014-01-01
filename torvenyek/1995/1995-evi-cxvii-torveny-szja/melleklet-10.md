@@ -38,7 +38,7 @@ b) a terméket, a szolgáltatást elemi károk, katasztrófák esetén közadako
 
 8. az adó, a társadalombiztosítási járulék stb. különbözetének a visszatérítése, ha a befizetést az egyéni vállalkozó költségként bármely évben elszámolta;
 
-9. a káreseménnyel összefüggésben kapott kártérítés, ideértve a felelősségbiztosítás alapján felvett összeget;
+9. a káreseménnyel összefüggésben kapott kártalanítás, kártérítés, ideértve a felelősségbiztosítás alapján felvett összeget;
 
 10. azon biztosítási szolgáltatás értéke, amely esetében az arra jogosító biztosítási díjat az egyéni vállalkozó költségként elszámolta;
 

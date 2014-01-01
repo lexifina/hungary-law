@@ -28,7 +28,7 @@ l) az adóévben nem szerzett külföldön (is) adóztatható jövedelmet;
 
 m) az adóévben nem szerzett osztalékká nem váló osztalékelőleget, továbbá a jóváhagyott osztalék adójával szemben az adóévet megelőzően felvett osztalékelőlegből levont adót nem számol el; és
 
-n) az adójáról rendelkező önkéntes kölcsönös pénztári nyilatkozatot, valamint nyugdíj-előtakarékossági nyilatkozatot nem ad.
+n) az adójáról rendelkező önkéntes kölcsönös pénztári nyilatkozatot, nyugdíj-előtakarékossági nyilatkozatot, valamint nyugdíjbiztosítási nyilatkozatot nem ad.
 
 (2) A magánszemély az (1) bekezdésre is figyelemmel adónyilatkozatot akkor tehet, ha
 

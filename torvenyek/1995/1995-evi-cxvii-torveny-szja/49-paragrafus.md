@@ -23,3 +23,5 @@ bb) az egyéni vállalkozót – az adóévben már megfizetett, igazolt kamat a
 összegét azzal, hogy a vállalkozói személyi jövedelemadó-előleget az adóelőleg-alap 500 millió forintot meg nem haladó összegére 10 százalékkal, a meghaladó részre 19 százalékkal állapítja meg.
 
 (5) Ha a magánszemély saját maga köteles az adóelőleg megállapítására és megfizetésére, az (1) bekezdés szerint megállapított összeget csökkenti a személyi kedvezmény.
+
+(6) Ha az egyéni vállalkozó családi járulékkedvezményt kíván igénybe venni, akkor – saját döntése alapján, az e fejezetben előírtaktól eltérően – a vállalkozói kivét vagy az átalányban megállapított jövedelem adóelőlegét havonta állapítja meg és vallja be.

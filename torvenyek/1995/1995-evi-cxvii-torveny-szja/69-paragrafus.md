@@ -8,7 +8,7 @@
 
 (2) Az (1) bekezdés hatálya alá tartozó juttatás esetében jövedelemnek minősül a juttatás értéke, ingyenesen vagy kedvezményesen juttatott termék, szolgáltatás esetén annak szokásos piaci értéke, illetőleg abból az a rész, amelyet a magánszemély nem köteles megfizetni. A kifizetőt terhelő adó alapja az előzőek szerinti jövedelem 1,19-szerese.
 
-(3) Ha a juttatás utalvány, készpénz-helyettesítő fizetési eszköz, e törvény külön rendelkezése alapján vagy annak hiányában is akkor minősül e § szerinti juttatásnak, ha a juttatási feltételek alapján megállapítható, hogy az mely termékre, szolgáltatásra, vagy milyen termék- vagy szolgáltatáskörben használható fel, és egyebekben a juttatás körülményei megfelelnek a 70–71. § rendelkezéseinek.
+(3) Ha a juttatás utalvány, készpénz-helyettesítő fizetési eszköz, e törvény külön rendelkezése alapján vagy annak hiányában is akkor minősül e § szerinti juttatásnak, ha a juttatási feltételek alapján megállapítható, hogy az mely termékre, szolgáltatásra, vagy milyen termék- vagy szolgáltatáskörben használható fel, továbbá ha az utalvány – a magánszemélynek ki nem osztott (nem juttatott) utalványok visszaváltása kivételével – nem visszaváltható, és egyebekben a juttatás körülményei megfelelnek a 70–71. § rendelkezéseinek.
 
 (4) Az (1) bekezdés rendelkezése nem alkalmazható, ha a juttatás
 

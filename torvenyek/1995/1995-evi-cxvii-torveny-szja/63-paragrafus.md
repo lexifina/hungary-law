@@ -10,7 +10,7 @@
 
 (6) A (2) bekezdés szerinti célra történő felhasználás igazolására a férőhely megszerzése alapjául szolgáló okirat, az összeg felhasználását igazoló okirat, a rokonsági fokot bizonyító közokirat, valamint az élettársi kapcsolatra vonatkozó teljes bizonyító erejű magánokirat szolgál, amelyre az adózás rendjéről szóló törvénynek az elévülésre, illetőleg a bizonylatmegőrzésre vonatkozó szabályait alkalmazni kell.
 
-(7) Az állami adóhatóság az adó fizetésére kötelezett magánszemély kérelmére jövedelmi, vagyoni és szociális körülményeire, valamint az ingatlan vagyoni értékű jog átruházásából származó jövedelem felhasználási körülményeire figyelemmel (különös tekintettel, ha a felhasználás saját maga, közeli hozzátartozója, a vele egy háztartásban élő élettársa, volt házastársa lakhatását biztosító célra történik), az (1) bekezdés szerinti adót mérsékelheti, vagy elengedheti.
+(7) Az állami adóhatóság az adó fizetésére kötelezett magánszemély kérelmére jövedelmi, vagyoni és szociális körülményeire, valamint az ingatlan, vagyoni értékű jog átruházásából származó jövedelem felhasználási körülményeire figyelemmel (különös tekintettel, ha a felhasználás saját maga, közeli hozzátartozója, a vele egy háztartásban élő élettársa, volt házastársa lakhatását biztosító célra történik), az (1) bekezdés szerinti adót mérsékelheti, vagy elengedheti.
 
 (8) A 60. § (1) bekezdését és a 61. § (1)–(2) bekezdését az olyan ingatlanlízing-ügylet esetében, ahol az ingatlan tulajdonjoga a futamidő végén vételi jog gyakorlása útján száll át a magánszemélyre, a következő eltérésekkel kell alkalmazni:
 

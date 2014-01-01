@@ -38,7 +38,7 @@ ba) a magánszemély vele munkaviszonyban áll –
 
 bb) a magánszemély részére bért (is) fizet –
 
-bc) társas vállalkozás, polgári jogi társaság, és a magánszemély a tevékenységében személyesen közreműködő tag –
+bc) társas vállalkozás és a magánszemély a tevékenységében személyesen közreműködő tag –
 
 (az adóelőleg-fizetési kötelezettségre vonatkozó rendelkezések alkalmazásában: adóelőleget megállapító munkáltató) a rendszeresen ismétlődő bevételszerzést (különösen havi/heti bért, munkadíjat, tiszteletdíjat, személyes közreműködés ellenértékét, egyéb juttatást) eredményező jogviszonyban álló magánszemély helyett a megállapított adóelőleget megfizeti, és a magánszeméllyel szembeni követelésként nyilvántartásba veszi;
 

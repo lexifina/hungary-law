@@ -10,7 +10,7 @@ c) azt a kapott vagyoni értéket, amelyet az adóalany köteles visszaszolgált
 
 d) a magánszemély által fizetett tagdíjra, hozzájárulásra, felajánlásra tekintettel a vállalkozási tevékenységet nem folytató egyesület, köztestület által a magánszemély részére nyújtott szolgáltatást, amennyiben azt a társadalmi szervezet, a köztestület az alapszabálya alapján, a cél szerinti tevékenységével összefüggésben, a rendeltetésszerű joggyakorlás keretében nyújtja;
 
-e) a visszatérített adót, adóelőleget, feltéve, hogy azt korábban költségként nem érvényesítették, továbbá a magánszemély jogszerűen tett önkéntes kölcsönös pénztári nyilatkozata alapján kiutalt, illetőleg az önkéntes kölcsönös biztosító pénztár által a magánszemély egyéni számláján jóváírt kiutalt összeget; valamint a magánszemély nyugdíj-előtakarékossági nyilatkozata alapján kiutalt, a nyugdíj-előtakarékossági számláján jóváírt összeget;
+e) a visszatérített adót, adóelőleget, feltéve, hogy azt korábban költségként nem érvényesítették, továbbá a magánszemély jogszerűen tett önkéntes kölcsönös pénztári nyilatkozata alapján kiutalt, illetve az önkéntes kölcsönös biztosító pénztár által a magánszemély egyéni számláján jóváírt kiutalt összeget; a magánszemély nyugdíj-előtakarékossági nyilatkozata alapján kiutalt, a nyugdíj-előtakarékossági számláján jóváírt összeget, továbbá a magánszemély nyugdíjbiztosítási nyilatkozata alapján kiutalt, a biztosító által a magánszemély nyugdíjbiztosítási szerződésén jóváírt kiutalt összeget;
 
 f) a jogerős bírói ítélettel megállapított bűncselekmény révén szerzett vagyoni értéket, ha azt ténylegesen elvonták;
 
@@ -32,13 +32,13 @@ ja) a magánnyugdíjpénztár, az önkéntes kölcsönös biztosító pénztár 
 
 jb) az önkéntes kölcsönös biztosító pénztár a kedvezményezett rendelkezése alapján annak egyéni számlája javára vagy kedvezményezett hiányában a pénztár tagjainak egyéni számlái javára jóváír;
 
-jc) a magánszemély nyugdíj-előtakarékossági számlájáról teljesített átutalás, átvezetés esetén a külön törvény nyugdíjszolgáltatásnak minősít;
+jc)
 
 jd) a magánszemély kérelmére, munkaviszonyának megszűnése esetén a foglalkoztatói nyugdíjszolgáltató intézményben fennálló követelésének terhére az intézmény más ilyen intézménybe utal át;
 
 je) a foglalkoztatói nyugdíjszolgáltató intézmény a tagot megillető követelése javára jóváír;
 
-jf) az Európai Unió tisztviselőinek és más alkalmazottainak nyugdíjbiztosítási átutalásáról és visszautalásáról szóló törvény alapján a Nyugdíjbiztosítási Alapnak utalnak át, vagy önkéntes kölcsönös nyugdíjpénztárban vezetett egyéni számlán, foglalkoztatói nyugdíjszolgáltató intézményben tagi kiegészítésként vagy nyugdíj-előtakarékossági számlán jóváírnak azzal, hogy az így jóváírt összeg a 28. § (17) bekezdésének alkalmazásában nem tekinthető a számlatulajdonos által teljesített befizetésnek, és nem jogosít az adó feletti rendelkezésre;
+jf) az Európai Unió tisztviselőinek és más alkalmazottainak nyugdíjbiztosítási átutalásáról és visszautalásáról szóló törvény alapján a Nyugdíjbiztosítási Alapnak utalnak át, vagy önkéntes kölcsönös nyugdíjpénztárban vezetett egyéni számlán, foglalkoztatói nyugdíjszolgáltató intézményben tagi kiegészítésként, nyugdíj-előtakarékossági számlán vagy nyugdíjbiztosítási szerződésen jóváírnak azzal, hogy az így jóváírt összeg a 28. § (17) bekezdésének alkalmazásában nem tekinthető a számlatulajdonos által teljesített befizetésnek, és nem jogosít az adó feletti rendelkezésre;
 
 k) azt az összeget, amelyet a magánnyugdíjról és a magánnyugdíjpénztárakról szóló törvény rendelkezései szerint
 

@@ -1,0 +1,9 @@
+44/D. § (1) Ha a magánszemély az adója meghatározott részének átutalásáról önkéntes kölcsönös pénztári nyilatkozatban, nyugdíj-előtakarékossági nyilatkozatban és nyugdíjbiztosítási nyilatkozatban is rendelkezik, az adóhatóság által átutalt összeg (együttesen) nem haladhatja meg a 280 ezer forintot.
+
+(2) Ha a magánszemély adóalapja adójának az adókedvezmények levonása után fennmaradó része a nyilatkozatokban megjelölt együttes összeg teljes átutalását nem teszi lehetővé, vagy a nyilatkozatokban megjelölt együttes összeg a 280 ezer forintot meghaladja, az adóhatóság az átutalásnál a nyilatkozatokban jogszerűen megjelölt összegek arányát veszi figyelembe azzal, hogy az egyes átutalások jogcím szerinti összege ebben az esetben sem haladhatja meg az adott rendelkezési jogcímre irányadó összeghatárt.
+
+(3) Utólag nem befolyásolja az önkéntes kölcsönös pénztári nyilatkozat, a nyugdíj-előtakarékossági nyilatkozat, illetve a nyugdíjbiztosítási nyilatkozat szerint utalandó összeg nagyságát, ha a magánszemély önellenőrzése, vagy az adóhatóság utólagos adómegállapítása a magánszemély összevont adóalapja adójának az adókedvezmények levonása után fennmaradó részét megváltoztatja. Ha azonban az önellenőrzés vagy az utólagos adómegállapítás a magánszemély összevont adóalapja adójának az adókedvezmények levonása után fennmaradó részét olyan mértékben lecsökkenti, hogy az már nem éri el az átutalt összeget, az így mutatkozó különbözetet az adóhatóság személyi jövedelemadó kötelezettségként írja elő.
+
+(4) A (3) bekezdésben említett különbözetről az adóhatóság nem hoz határozatot, ha az ötezer forintot az nem haladja meg.
+
+(5) Az önkéntes kölcsönös biztosítópénztárnak, a nyugdíj-előtakarékossági számla vezetőjének, valamint a biztosítónak a magánszemély számára kiadott igazoláson saját pénzforgalmi számlaszámát is fel kell tüntetnie.
