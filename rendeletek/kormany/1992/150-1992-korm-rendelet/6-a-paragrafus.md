@@ -12,7 +12,7 @@ aa) felsőfokú közművelődési végzettséggel és szakképzettséggel vagy
 
 ab) nem szakirányú egyetemi végzettséggel és felsőfokú szakirányú munkaköri szakvizsgával,
 
-b) a kulturális szakemberek szervezett képzési rendszeréről, követelményeiről és a képzés finanszírozásáról szóló 1/2000. (I. 14.) NKÖM rendelet szerint akkreditált vezetési-szervezési, pénzügyi-gazdasági, államháztartási ismereteket is nyújtó közművelődési intézmény-vezető tanfolyam eredményes elvégzését okirattal igazolja,
+b)[^32]
 
 c) a felsőfokú közművelődési végzettségének és szakképzettségének vagy az ab) alpontban megnevezett szakvizsgájának megfelelő feladatkörben legalább öt éves szakmai gyakorlatot szerzett, és
 
@@ -45,3 +45,4 @@ b) a végzettségének és szakképzettségének vagy az ab) alpontban megneveze
 [^29]: A 6. §-t és az azt megelőző hivatkozást a 150/2010. (IV. 30.) Korm. rendelet 16. § d) pontja hatályon kívül helyezte.
 [^30]: A 6/A. §-t megelőző hivatkozást a 150/2010. (IV. 30.) Korm. rendelet 7. §-a iktatta be.
 [^31]: A 6/A. §-t a 150/2010. (IV. 30.) Korm. rendelet 7. §-a iktatta be.
+[^32]: A 6/A. § (1) bekezdés b) pontját a 442/2013. (XI. 27.) Korm. rendelet 9. § a) pontja hatályon kívül helyezte.

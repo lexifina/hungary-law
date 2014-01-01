@@ -1,4 +1,4 @@
-## 6/D. §[^34]
+## 6/D. §[^35]
 
 (1) Levéltárban magasabb vezető beosztás ellátásával csak olyan közalkalmazott bízható meg, aki
 
@@ -20,4 +20,4 @@ b) a végzettségének és szakképzettségének vagy az intézmény alaptevéke
 
 c) szakirányú tudományos tevékenységet végez.
 
-[^34]: A 6/D. §-t a 150/2010. (IV. 30.) Korm. rendelet 7. §-a iktatta be.
+[^35]: A 6/D. §-t a 150/2010. (IV. 30.) Korm. rendelet 7. §-a iktatta be.

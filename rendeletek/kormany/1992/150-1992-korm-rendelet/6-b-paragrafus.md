@@ -1,4 +1,4 @@
-## 6/B. §[^32]
+## 6/B. §[^33]
 
 (1) Könyvtárban magasabb vezető beosztás ellátásával csak olyan közalkalmazott bízható meg, aki
 
@@ -34,4 +34,4 @@ b) a felsőfokú szakirányú végzettségének és szakképzettségének vagy a
 
 (4) Könyvtárban magasabb vezető beosztáshoz a 2009 után szerzett főiskolai könyvtárosi képzettség esetén az (1) bekezdés c) pontjától eltérően legalább tíz éves szakmai gyakorlat, vezető beosztáshoz a (2) bekezdés b) pontjától eltérően legalább öt éves szakmai gyakorlat szükséges.
 
-[^32]: A 6/B. §-t a 150/2010. (IV. 30.) Korm. rendelet 7. §-a iktatta be.
+[^33]: A 6/B. §-t a 150/2010. (IV. 30.) Korm. rendelet 7. §-a iktatta be.

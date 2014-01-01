@@ -1,4 +1,4 @@
-## 6/E. §[^35]
+## 6/E. §[^36]
 
 (1) Múzeumban magasabb vezető beosztás ellátásával csak olyan közalkalmazott bízható meg, aki
 
@@ -44,4 +44,4 @@ ab) 2009 előtt szerzett szakirányú főiskolai végzettséggel és szakképzet
 
 b) a végzettségnek és szakképzettségnek és egyben az intézmény alaptevékenységének megfelelő jogviszonyban legalább három éves szakmai gyakorlatot szerzett.
 
-[^35]: A 6/E. §-t a 150/2010. (IV. 30.) Korm. rendelet 7. §-a iktatta be.
+[^36]: A 6/E. §-t a 150/2010. (IV. 30.) Korm. rendelet 7. §-a iktatta be.

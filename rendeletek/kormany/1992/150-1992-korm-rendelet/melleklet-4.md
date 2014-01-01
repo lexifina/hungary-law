@@ -78,13 +78,17 @@
 
 |  | egyetemi könyvtár, országos múzeum főigazgató-helyettese, igazgatóhelyettese |  |
 
-| 3.1.3 | Országos (fővárosi) intézmény, országos szakkönyvtár és közművelődési intézmény, országos múzeum főosztályvezetője (tudományos titkára) | 225 |
+| 3.1.3 | Országos (fővárosi) intézmény, országos szakkönyvtár és közművelődési intézmény, országos múzeum főosztályvezetője (tudományos titkára), a Magyar Nemzeti Levéltár megyei tagintézménye igazgatóhelyettese | 225 |
 
-| 3.1.4 | Megyei intézmény, főiskolai könyvtár, megyei múzeumigazgató | 275 |
+| 3.1.3.1 | Országos intézmény megyei tagintézményének igazgatója | 250 |
 
-| 3.1.5 | Megyei intézmény, főiskolai könyvtár, megyei múzeumigazgató-helyettes | 250 |
+| 3.1.3.2 | Országos intézmény megyei tagintézményének igazgató-helyettese | 225 |
 
-| 3.1.6 | Minisztérium, országos hatáskörű szerv szaklevéltárának, országos szakmúzeum igazgatója | 250 |
+| 3.1.4 | Megyei könyvtár, főiskolai könyvtár, megyei hatókörű városi múzeum igazgatója | 275 |
+
+| 3.1.5 | Megyei könyvtár, főiskolai könyvtár, megyei hatókörű városi múzeum igazgató-helyettese | 250 |
+
+| 3.1.6 | Minisztérium vagy országos hatáskörű szerv szaklevéltára, országos szakmúzeum, Magyar Nemzeti Levéltár megyei tagintézményének igazgatója | 250 |
 
 | 3.1.7 | Fővárosi könyvtár-igazgató | 250 |
 
@@ -146,9 +150,9 @@
 
 | 3.2.10 | Területi múzeum, tematikus múzeum egyéb vezetője | 100 |
 
-| 3.2.11 | Megyei, fővárosi kerületi intézmény, megyei múzeum osztályvezetője (tudományos titkára) | 150 |
+| 3.2.11 | Megyei könyvtár, fővárosi kerületi intézmény, megyei hatókörű városi múzeum, Magyar Nemzeti Levéltár megyei tagintézménye osztályvezetője (tudományos titkára) | 150 |
 
-| 3.2.12 | Megyei, fővárosi kerületi intézmény, megyei múzeum egyéb vezetője | 100 |
+| 3.2.12 | Megyei könyvtár, fővárosi kerületi intézmény, megyei hatókörű városi múzeum, Magyar Nemzeti Levéltár megyei tagintézménye egyéb vezetője | 100 |
 
 | 3.2.13 | Fővárosi kerületi közművelődési intézmény osztályvezetője | 150 |
 
@@ -172,7 +176,7 @@
 
 | 4.2.3 | A munkamegosztás szempontjából elkülönült gazdasági, műszaki, üzemeltetési és igazgatási szervezeti egység irányítója | 100 |
 
-4. számú melléklet a 150/1992. (XI. 20.) Korm. rendelethez[^94]
+4. számú melléklet a 150/1992. (XI. 20.) Korm. rendelethez[^98]
 
 A honvédelmi ágazatba tartozó közgyűjteményi intézményekben foglalkoztatott közalkalmazottak munkaköreinek megnevezése, fizetési osztályokba sorolása és a vezetői pótlék mértéke
 
@@ -342,4 +346,4 @@ A honvédelmi ágazatba tartozó közgyűjteményi intézményekben foglalkoztat
 
 | 5.4.2 |  | kutató |  |  |  |  |  | * | * | * | * | * |  |
 
-[^94]: A 4. számú melléklet a 150/2010. (IV. 30.) Korm. rendelet 14. § (4) bekezdésével megállapított szöveg.
+[^98]: A 4. számú melléklet a 150/2010. (IV. 30.) Korm. rendelet 14. § (4) bekezdésével megállapított szöveg.
