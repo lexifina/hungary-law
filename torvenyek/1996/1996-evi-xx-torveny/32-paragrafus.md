@@ -36,4 +36,6 @@ p) a közúti közlekedési nyilvántartást vezető szerv a nyilvántartási el
 
 q) a lakáscélú állami támogatás nyilvántartását vezető és ellenőrzést végző kincstár feladatai ellátásához;
 
-r) a szabálysértési hatóság, valamint a szabálysértési nyilvántartó szerv az eljárás alá vont személy személyazonosságának ellenőrzéséhez.
+r) a szabálysértési hatóság, valamint a szabálysértési nyilvántartó szerv az eljárás alá vont személy személyazonosságának ellenőrzéséhez;
+
+s) a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló törvényben meghatározott földhasználati összesítő igénylése céljából az ingatlanügyi hatóság, az ügyész, a mezőgazdasági igazgatási szerv, valamint a mezőgazdasági és vidékfejlesztési támogatási szerv.
