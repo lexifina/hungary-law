@@ -1,0 +1,3 @@
+## 1. § Az önkormányzati rendeleteknek és jegyzőkönyveknek a fővárosi és megyei kormányhivatalok részére történő megküldésének rendjéről szóló 23/2012. (IV. 25.) KIM rendelet (a továbbiakban: R.) 1. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) A jegyző a képviselő-testület által megalkotott, a polgármester és a jegyző által aláírt és a szervezeti és működési szabályzatban meghatározott módon kihirdetett önkormányzati rendeletet a kihirdetést követően a (3) bekezdésben meghatározott módon és időben küldi meg az illetékes fővárosi és megyei kormányhivatalnak (a továbbiakban: kormányhivatal).”
