@@ -12,7 +12,7 @@ c) a fizetési igény bejelentésére az engedélyező vámszervet kizárólagos
 
 d) visszavonhatatlan vagy kizárólag a kedvezményezett jóváhagyásával visszavonható.
 
-(4) Nem fogadható el a bankgarancia, ha a bankgaranciát nyújtó hitelintézettel szemben a hitelintézetekről és pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény 157. §-a szerinti kivételes intézkedésre kerül sor.
+(4)[^1] Nem fogadható el a bankgarancia, ha a bankgaranciát nyújtó hitelintézettel szemben a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény 189. §-a szerinti kivételes intézkedésre kerül sor.
 
 (5) A bankgaranciának tartalmazni kell:
 
@@ -35,3 +35,5 @@ e) a (3) bekezdés b), c) és d) pontjában foglalt kötelezettségvállalást.
 (9) A tevékenységi biztosíték összegének csökkentése vagy – a tevékenység megszűnése miatt – a tevékenységi biztosíték felszabadítása, illetve visszafizetése esetén a fémkereskedelmi hatóság a tevékenységi biztosíték összegének csökkentéséről, vagy a fémkereskedelmi engedély visszavonásáról szóló határozat jogerőre emelkedésétől számított 8 napon belül intézkedik a különbözet felszabadításáról, illetve visszafizetéséről.
 
 (10) Amennyiben a tevékenységi biztosíték csökkentésének feltételei már nem állnak fenn, az engedélyező hatóság hivatalból megállapítja az e rendelet 8. § (1) bekezdése szerinti tevékenységi biztosíték összegét és felszólítja a fémkereskedőt a tevékenységi biztosíték összegének 10 napon belüli kiegészítésére.
+
+[^1]: A 9. § (4) bekezdése az 537/2013. (XII. 30.) Korm. rendelet 81. §-a szerint módosított szöveg.

@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-443-20-
 | --- | --- | --- |
 | 2013-11-28 | 2013-443-20-22.1 | 443/2013. (XI. 27.) Korm. rendelet |
 | 2013-11-29 | 2013-443-20-22.2 | 2010: CXXX. törvény |
+| 2014-01-01 | 2013-443-20-22.3 | 537/2013. (XII. 30.) Korm. rendelet |
