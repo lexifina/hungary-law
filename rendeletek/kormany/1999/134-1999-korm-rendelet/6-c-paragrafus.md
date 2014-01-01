@@ -1,6 +1,6 @@
-6/C. §[^41] (1)[^42] A biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény (a továbbiakban: Gyftv.) 41. §-a szerinti közforgalmú gyógyszertárat működtető vállalkozás negyedévente működési célú támogatásban részesül, amennyiben azt az illetékes elsőfokú állami adóhatóságnál kérelmezi,
+6/C. §[^40] (1)[^41] A biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény (a továbbiakban: Gyftv.) 41. §-a szerinti közforgalmú gyógyszertárat működtető vállalkozás negyedévente működési célú támogatásban részesül, amennyiben azt az illetékes elsőfokú állami adóhatóságnál kérelmezi,
 
-a) egy adott település vagy egy település közigazgatási egységéhez csatolt, de földrajzilag elkülönülő településrész gyógyszerellátását egyedül biztosítja,
+a)[^42] egy adott település vagy egy település közigazgatási egységéhez csatolt, de földrajzilag és építészetileg elkülönülő településrész gyógyszerellátását egyedül biztosítja,
 
 b) a tárgyévet megelőző év január 1-je és június 30-a közötti időszakban elszámolt gyógyszerforgalmi adataiból számított, közfinanszírozott gyógyszer forgalmazásából származó árréstömege nem haladja meg a 7,2 millió forintot, és
 
@@ -24,8 +24,9 @@ c) legalább heti – fiókgyógyszertár üzemeltetése esetén a fiókgyógysz
 
 (9)[^51] A gyógyszertáraknak kiutalt támogatás gyógyszertárankénti és összesített tényadatait az állami adóhatóság negyedévente elektronikus úton az egészségügyért felelős miniszter által vezetett minisztériumnak megküldi.
 
-[^41]: A 6/C. §-t a 33/2003. (III. 27.) Korm. rendelet 7. §-a iktatta be, a 37/2005. (III. 10.) Korm. rendelet 8. §-ának (4) bekezdése hatályon kívül helyezte, újonnan a 288/2006. (XII. 23.) Korm. rendelet 6. §-a iktatta be. Ez utóbbi módosító rendelet 10. § (2) bekezdése alapján a rendelkezést a 2007. január 1. napját követően beváltott vények esetén kell alkalmazni.
-[^42]: A 6/C. § (1) bekezdése a 325/2011. (XII. 28.) Korm. rendelet 31. § (1) bekezdésével megállapított szöveg.
+[^40]: A 6/C. §-t a 33/2003. (III. 27.) Korm. rendelet 7. §-a iktatta be, a 37/2005. (III. 10.) Korm. rendelet 8. §-ának (4) bekezdése hatályon kívül helyezte, újonnan a 288/2006. (XII. 23.) Korm. rendelet 6. §-a iktatta be. Ez utóbbi módosító rendelet 10. § (2) bekezdése alapján a rendelkezést a 2007. január 1. napját követően beváltott vények esetén kell alkalmazni.
+[^41]: A 6/C. § (1) bekezdése a 325/2011. (XII. 28.) Korm. rendelet 31. § (1) bekezdésével megállapított szöveg.
+[^42]: A 6/C. § (1) bekezdés a) pontja az 520/2013. (XII. 30.) Korm. rendelet 23. §-a szerint módosított szöveg.
 [^43]: A 6/C. § (2) bekezdése a 325/2011. (XII. 28.) Korm. rendelet 31. § (1) bekezdésével megállapított, a 254/2013. (VII. 5.) Korm. rendelet 59. §-a szerint módosított szöveg.
 [^44]: A 6/C. § (2a) bekezdését a 325/2011. (XII. 28.) Korm. rendelet 31. § (2) bekezdése iktatta be.
 [^45]: A 6/C. § (3) bekezdését a 325/2011. (XII. 28.) Korm. rendelet 32. §-a hatályon kívül helyezte.
