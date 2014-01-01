@@ -46,23 +46,23 @@ i) az Oktatási Hivatal – Magyar Ekvivalencia és Információs Központ (1 f�
 
 j) az Országgyűlés oktatásért felelős bizottságának elnöke (1 fő);
 
-3. Természettudományi Szakbizottság:
+3.[^7] Természettudományi Szakbizottság:
 
 3.1. állandó, szavazati joggal rendelkező tagot delegál:
 
-a) a Magyar Tudományos Akadémia (2 fő)
+a) a Magyar Tudományos Akadémia (2 fő),
 
-b) a vidékfejlesztésért felelős miniszter (1 fő)
+b) a vidékfejlesztésért felelős miniszter (1 fő),
 
 c) a vidékfejlesztésért felelős miniszter által vezetett minisztérium környezet- és természetvédelemért felelős szervezeti egysége (2 fő),
 
-d) az Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség (1 fő),
+d) az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség (1 fő),
 
 e) az Országos Meteorológiai Szolgálat (1 fő),
 
-f) a vidékfejlesztésért felelős miniszter által vezetett minisztérium vízügyért felelős szervezeti egysége (1 fő),
+f) a vízgazdálkodásért felelős miniszter által vezetett minisztérium vízügyért felelős szervezeti egysége (1 fő),
 
-g) a Nemzeti Környezetügyi Intézet (1 fő),
+g) az Országos Vízügyi Főigazgatóság (1 fő),
 
 h) az Országgyűlés fenntartható fejlődésért felelős bizottságának elnöke (1 fő);
 
@@ -202,7 +202,7 @@ h) a helyi önkormányzatokért felelős miniszter (1 fő),
 
 i) az állami vagyon felügyeletéért felelős miniszter (1 fő),
 
-j) a fejlesztéspolitikáért felelős miniszter (1 fő),
+j)[^8] a Kormány európai uniós források felhasználásáért felelős tagja (1 fő),
 
 k) a turizmusért felelős miniszter (1 fő),
 
@@ -225,3 +225,5 @@ c) a Magyar Építészek Szövetsége (1 fő),
 d) a Magyar Építész Kamara (1 fő).
 
 [^6]: A 15–16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A melléklet 3. pontja az 527/2013. (XII. 30.) Korm. rendelet 111. §-ával megállapított szöveg.
+[^8]: A melléklet 8.1. pont j) alpontja az 550/2013. (XII. 30.) Korm. rendelet 75. §-a szerint módosított szöveg.
