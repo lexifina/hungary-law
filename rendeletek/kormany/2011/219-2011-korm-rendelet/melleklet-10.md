@@ -2,7 +2,7 @@
 
 A lakossági tájékoztatás követelményei
 
-1.[^102] A veszélyes anyagokkal kapcsolatos súlyos balesetek vonatkozásában a hatóság helyi szerve a polgármesterrel együttműködésben a lakosság részére tájékoztató kiadványt készít, amely a következőket tartalmazza:
+1.[^105] A veszélyes anyagokkal kapcsolatos súlyos balesetek vonatkozásában a hatóság helyi szerve a polgármesterrel együttműködésben a lakosság részére tájékoztató kiadványt készít, amely a következőket tartalmazza:
 
 1.1. A veszélyes anyagokkal foglalkozó üzemről szóló információkat.
 
@@ -60,11 +60,11 @@ c) arról szóló felhívás, hogy a biztonsági jelentéssel, vagy a biztonság
 
 d) a polgármester a veszélyes anyagokkal foglalkozó üzemmel kapcsolatosan hol és mikor tart közmeghallgatást.
 
-7.[^103] A külső védelmi terv közzétételéről szóló hirdetmény tartalma:
+7.[^106] A külső védelmi terv közzétételéről szóló hirdetmény tartalma:
 
 a) a külső védelmi terv hol és milyen időpontokban tekinthető meg;
 
 b) arról szóló felhívás, hogy a megadott határidőig a külső védelmi tervvel kapcsolatosan a település jegyzőjénél írásbeli észrevételeket lehet tenni.
 
-[^102]: A 10. melléklet 1. pontja a 476/2013. (XII. 17.) Korm. rendelet 23. § (7) bekezdése szerint módosított szöveg.
-[^103]: A 10. melléklet 7. pontját a 476/2013. (XII. 17.) Korm. rendelet 23. § (7) bekezdése iktatta be.
+[^105]: A 10. melléklet 1. pontja a 476/2013. (XII. 17.) Korm. rendelet 23. § (7) bekezdése szerint módosított szöveg.
+[^106]: A 10. melléklet 7. pontját a 476/2013. (XII. 17.) Korm. rendelet 23. § (7) bekezdése iktatta be.

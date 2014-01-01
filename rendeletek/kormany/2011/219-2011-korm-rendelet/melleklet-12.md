@@ -6,7 +6,7 @@ A veszélyes anyagokkal kapcsolatos üzemzavar bejelentésének kötelező tarta
 
 a) Üzem megnevezése:
 
-b)[^104] Üzem státusza (küszöbérték alatti üzem, alsó küszöbértékű veszélyes anyagokkal foglalkozó üzem vagy felső küszöbértékű veszélyes anyagokkal foglalkozó üzem):
+b)[^107] Üzem státusza (küszöbérték alatti üzem, alsó küszöbértékű veszélyes anyagokkal foglalkozó üzem vagy felső küszöbértékű veszélyes anyagokkal foglalkozó üzem):
 
 c) Üzem tevékenységi köre:
 
@@ -38,7 +38,7 @@ b) Vége (dátum, időpont):
 
 7. Esemény típusa (veszélyes anyaggal kapcsolatos tűz; veszélyes anyaggal kapcsolatos robbanás; mérgező, rákkeltő tulajdonságú veszélyes anyag kibocsátása; oxidáló, tűz- vagy környezetre veszélyes tulajdonságú veszélyes anyag kibocsátása):
 
-8.[^105] Eseményben részt vevő veszélyes anyag(ok) megnevezése, tulajdonsága (R-mondatok, halmazállapot) és mennyisége:
+8.[^108] Eseményben részt vevő veszélyes anyag(ok) megnevezése, tulajdonsága (R-mondatok, halmazállapot) és mennyisége:
 
 9. Esemény részletes leírása:
 
@@ -58,5 +58,5 @@ d) Elzárkóztatás történt (igen, nem):
 
 e) Kitelepítés történt (igen, nem):
 
-[^104]: A 12. melléklet 1. pont b) alpontja a 476/2013. (XII. 17.) Korm. rendelet 23. § (8) bekezdésével megállapított szöveg.
-[^105]: A 12. melléklet 8. pontja a 476/2013. (XII. 17.) Korm. rendelet 23. § (8) bekezdésével megállapított szöveg.
+[^107]: A 12. melléklet 1. pont b) alpontja a 476/2013. (XII. 17.) Korm. rendelet 23. § (8) bekezdésével megállapított szöveg.
+[^108]: A 12. melléklet 8. pontja a 476/2013. (XII. 17.) Korm. rendelet 23. § (8) bekezdésével megállapított szöveg.

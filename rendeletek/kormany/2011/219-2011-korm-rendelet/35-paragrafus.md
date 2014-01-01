@@ -1,8 +1,8 @@
 ## 15. Súlyos káresemény elhárítási terv
 
-35. § (1)[^72] A küszöbérték alatti üzem üzemeltetője – ha számára a hatóság előírja – a biztonságos üzemeltetés bizonyítása érdekében a veszélyek azonosítására, a feltárt veszélyek megelőzésére és elhárítására az 5. mellékletben meghatározott tartalmi és formai követelményeknek megfelelő súlyos káresemény elhárítási tervet készít, melynek védendő adatokat nem tartalmazó változatát is benyújtja a veszélyes tevékenység végzéséhez, folytatásához szükséges katasztrófavédelmi engedély iránti kérelme mellékleteként a hatóság részére.
+35. § (1)[^75] A küszöbérték alatti üzem üzemeltetője – ha számára a hatóság előírja – a biztonságos üzemeltetés bizonyítása érdekében a veszélyek azonosítására, a feltárt veszélyek megelőzésére és elhárítására az 5. mellékletben meghatározott tartalmi és formai követelményeknek megfelelő súlyos káresemény elhárítási tervet készít, melynek védendő adatokat nem tartalmazó változatát is benyújtja a veszélyes tevékenység végzéséhez, folytatásához szükséges katasztrófavédelmi engedély iránti kérelme mellékleteként a hatóság részére.
 
-(1a)[^73] Az üzemeltető a küszöbérték alatti üzemet a súlyos káresemény elhárítási tervben foglaltak szerint köteles működtetni.
+(1a)[^76] Az üzemeltető a küszöbérték alatti üzemet a súlyos káresemény elhárítási tervben foglaltak szerint köteles működtetni.
 
 (2) A súlyos káresemény elhárítási tervben a veszélyes anyagokkal kapcsolatos súlyos balesetek veszélyének azonosítása és részletes elemzése alapján az üzemeltető
 
@@ -20,11 +20,11 @@ b) bemutatja a veszélyes anyagokkal kapcsolatos súlyos baleset megelőzéséve
 
 (7) Az üzemeltető a veszélyes anyagokkal kapcsolatos súlyos baleset vagy üzemzavar bekövetkezése esetén a súlyos káresemény elhárítási tervben foglalt intézkedéseket azonnal foganatosítja.
 
-(8)[^74]
+(8)[^77]
 
-(9)[^75]
+(9)[^78]
 
-[^72]: A 35. § (1) bekezdése a 476/2013. (XII. 17.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
-[^73]: A 35. § (1a) bekezdését a 476/2013. (XII. 17.) Korm. rendelet 16. § (2) bekezdése iktatta be.
-[^74]: A 35. § (8) bekezdését a 74/2012. (IV. 13.) Korm. rendelet 11. § (2) bekezdés i) pontja hatályon kívül helyezte.
-[^75]: A 35. § (9) bekezdését a 74/2012. (IV. 13.) Korm. rendelet 11. § (2) bekezdés i) pontja hatályon kívül helyezte.
+[^75]: A 35. § (1) bekezdése a 476/2013. (XII. 17.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^76]: A 35. § (1a) bekezdését a 476/2013. (XII. 17.) Korm. rendelet 16. § (2) bekezdése iktatta be.
+[^77]: A 35. § (8) bekezdését a 74/2012. (IV. 13.) Korm. rendelet 11. § (2) bekezdés i) pontja hatályon kívül helyezte.
+[^78]: A 35. § (9) bekezdését a 74/2012. (IV. 13.) Korm. rendelet 11. § (2) bekezdés i) pontja hatályon kívül helyezte.

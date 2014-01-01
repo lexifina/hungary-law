@@ -50,7 +50,7 @@
 
 ## 2. Az üzemeltető a felmentés iránti kérelmet úgy küldi meg a hatóságnak, hogy annak vizsgálatára és elbírálására, esetleges kiegészítésére elegendő idő álljon a hatóság, valamint a kérelmező rendelkezésére. Ha a hatóság a kérelmet elfogadja, akkor az üzemeltető a biztonsági jelentést, vagy a biztonsági elemzést a felmentésre vonatkozó korlátozott tartalommal nyújthatja be. A kérelem elutasítása esetén az üzemeltetőnek teljes tartalmú biztonsági jelentést, vagy a biztonsági elemzést kell előírt határidőig benyújtania.
 
-7. melléklet a 219/2011. (X. 20.) Korm. rendelethez[^98]
+7. melléklet a 219/2011. (X. 20.) Korm. rendelethez[^101]
 
 A hatósági engedélyezési és felügyeleti tevékenység során alkalmazott követelmények,
 
@@ -286,4 +286,4 @@ e) a belső védelmi terv pontosításáról, felülvizsgálatáról és gyakoro
 
 f) részt vesz a hatósági ellenőrzéseken és a helyszíni szemléken.
 
-[^98]: A 7. melléklet a 476/2013. (XII. 17.) Korm. rendelet 23. § (5) bekezdése szerint módosított szöveg.
+[^101]: A 7. melléklet a 476/2013. (XII. 17.) Korm. rendelet 23. § (5) bekezdése szerint módosított szöveg.

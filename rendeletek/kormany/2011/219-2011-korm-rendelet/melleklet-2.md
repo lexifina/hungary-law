@@ -312,6 +312,6 @@
 
 ## 3. folyadék-halmazállapotú, kevésbé tűzveszélyes és tűzveszélyes anyagok és készítmények, melyeket forráspontjuknál magasabb hőmérsékleten tárolnak.
 
-2. melléklet a 219/2011. (X. 20.) Korm. rendelethez[^94]
+2. melléklet a 219/2011. (X. 20.) Korm. rendelethez[^97]
 
-[^94]: A 2. melléklet a 476/2013. (XII. 17.) Korm. rendelet 23. § (2) bekezdése szerint módosított szöveg.
+[^97]: A 2. melléklet a 476/2013. (XII. 17.) Korm. rendelet 23. § (2) bekezdése szerint módosított szöveg.
