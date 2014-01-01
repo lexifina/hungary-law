@@ -18,4 +18,6 @@ c) kármentesítési eljárás során
 
 ## kell felhasználni.
 
-(3) Ha a környezetvédelmi, természetvédelmi és vízügyi felügyelőség (a továbbiakban: felügyelőség) az R. szerinti elővizsgálat, illetve a tényfeltárási záródokumentáció alapján megállapítja, hogy az e rendeletben foglalt határértékek előírása esetén a tevékenység veszélyeztetné a felszíni vizekre vonatkozó határértékek teljesülését, az R. szerinti veszélyes anyagokra vonatkozóan a 2. mellékletben és a 3. melléklet B) részében megadott (B) szennyezettségi határértéknél szigorúbb határértéket is megállapíthat. E határértékek nem lehetnek szigorúbbak, mint a külön jogszabályban meghatározott felszíni vizekre vonatkozó határértékek.
+(3)[^1] Ha a környezetvédelmi és természetvédelmi felügyelőség (a továbbiakban: felügyelőség) az R. szerinti elővizsgálat, illetve a tényfeltárási záródokumentáció alapján megállapítja, hogy az e rendeletben foglalt határértékek előírása esetén a tevékenység veszélyeztetné a felszíni vizekre vonatkozó határértékek teljesülését, az R. szerinti veszélyes anyagokra vonatkozóan a 2. mellékletben és a 3. melléklet B) részében megadott (B) szennyezettségi határértéknél szigorúbb határértéket is megállapíthat. E határértékek nem lehetnek szigorúbbak, mint a külön jogszabályban meghatározott felszíni vizekre vonatkozó határértékek.
+
+[^1]: Az 1. § (3) bekezdése a 129/2013. (XII. 21.) VM rendelet 1. §-a szerint módosított szöveg.
