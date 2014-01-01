@@ -430,15 +430,87 @@
 
 ## Tengeri általános és korlátozott rádiókezelő bizonyítvány (hátoldal)
 
-## 3. Nemzetközi kedvtelési célú hajóvezetői bizonyítvány
+## 3. Nemzetközi kedvtelési célú hajóvezetői bizonyítvány (ID-1, kártya)
 
-## Nemzetközi kedvtelési célú hajóvezetői bizonyítvány (előoldal)
+## A bizonyítvány adattartalma a kártya előoldalán:
 
-## Nemzetközi kedvtelési célú hajóvezetői bizonyítvány (hátoldal)
+## Az egyes adatokhoz tartozó megjelölések magyar és angol nyelven, a következők:
 
-## Megjegyzés: 1. Kártya az ISO/IEC 7810 számú szabvány szerint.
+## NEMZETKÖZI KEDVTELÉSI CÉLÚ HAJÓVEZETŐI BIZONYÍTVÁNY
 
-## 2. A „feltételek” rovatba kell bejegyezni az esetleges korlátozásokat, így különösen a parttól való eltávolodás távolságát tengeri mérföldben a tengeri kedvtelési célú képesítés osztályának megfelelően.
+## INTERNATIONAL CERTIFICATE FOR OPERATORS OF PLEASURE CRAFT
+
+## MAGYARORSZÁG – HU
+
+## / HUNGARY
+
+## 1. (Családi név helye)
+
+## 2. (Utónév helye)
+
+## 3. (Születési idő és hely)
+
+## 4. (Kiállítás keltezésének helye)
+
+## 5. (A bizonyítvány számának a helye)
+
+## 6. (Tulajdonos fényképének helye)
+
+## 7. (Tulajdonos aláírásának helye)
+
+## 8. (Tulajdonos állampolgárságának helye)
+
+## 9. (Érvényességi terület és hajótípus helye)
+
+## 10. (Hajóra vonatkozó méretkorlátozás helye)
+
+## 11. (Érvényességi idő helye)
+
+## 12. (Kiállító hatóság megnevezésének helye)
+
+## 13. (Felhatalmazás helye)
+
+## 14. (Feltételek helye)
+
+## A bizonyítvány adattartalma a kártya hátoldalán:
+
+## NEMZETKÖZI KEDVTELÉSI CÉLÚ HAJÓVEZETŐI BIZONYÍTVÁNY
+
+## (Az ENSZ Európai Gazdasági Bizottság Belvízi Közlekedési Munkacsoportjának 40. számú határozata)
+
+## INTERNATIONAL CERTIFICATE FOR OPERATORS OF PLEASURE CRAFT
+
+## (Resolution No. 40 of the UNECE Working Party on Inland Water Transport)
+
+## Az egyes adatokhoz tartozó megjelölések magyar és angol nyelven a következők:
+
+## 1. A tulajdonos családi neve – Surname of the holder
+
+## 2. A tulajdonos utóneve(i) – Other name(s) of the holder
+
+## 3. Születési idő és hely – Date and place of birth
+
+## 4. Kiállítás kelte – Date of issue
+
+## 5. A bizonyítvány száma – Number of the certificate
+
+## 6. A tulajdonos fényképe – Photograph of the holder
+
+## 7. A tulajdonos aláírása – Signature of the holder
+
+## 8. A tulajdonos állampolgársága – Nationality of the holder
+
+## 9. Érvényes: I (belvizekre), C (parti tengerre), M (géphajóra), S (vitorlás hajóra) – Valid for: I (Inland Waterways), C (Coastal Waters), M (Motorized craft), S (Sailing craft)
+
+## 10. Kedvtelési célú hajóra legfeljebb (hossz, vízkiszorítás, teljesítmény) – Pleasure craft not exceeding (lenght, deadweight, power)
+
+## 11. Érvényességi idő – Date of Expiry
+
+## 12. Kiállította – Issued
+
+## 13. Felhatalmazás – Authorized by
+
+## 14. Feltételek – Conditions
 
 7. számú melléklet a 15/2001. (IV. 27.) KöViM rendelethez[^237]
 

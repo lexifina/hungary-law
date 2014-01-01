@@ -101,4 +101,4 @@
 6. számú melléklet a 15/2001. (IV. 27.) KöViM rendelethez[^236]
 
 [^235]: Az 5. számú melléklet A. része a 9/2009. (III. 6.) KHEM rendelet 6. §-ával megállapított szöveg.
-[^236]: A 6. számú melléklet a 3/2008. (VI. 3.) KHEM rendelet 10. § (5) bekezdésével megállapított szöveg. E módosító rendelet 13. § (3) bekezdése alapján a 6. számú melléklet 3. pontja 2009. május 1-jén lépett hatályba; az ezen időpont előtt kiállított kedvtelési célú hajóvezetői bizonyítványok érvényességük lejártáig maradnak érvényesek. A 6. számú melléklet a 9/2009. (III. 6.) KHEM rendelet 7. §-a szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 10. § (5)–(15) bekezdését.
+[^236]: A 6. számú melléklet a 3/2008. (VI. 3.) KHEM rendelet 10. § (5) bekezdésével megállapított, a 9/2009. (III. 6.) KHEM rendelet 7. §-a, a 42/2013. (VII. 19.) NFM rendelet 2. § b) pontja szerint módosított szöveg.
