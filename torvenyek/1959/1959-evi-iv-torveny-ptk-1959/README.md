@@ -26,3 +26,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1959-4-00-00
 | 2013-06-21 | 2013. évi LXXXIX. törvény | 1959-4-00-00.105 |
 | 2013-07-01 | 2013. évi XXXIV. törvény | 1959-4-00-00.106 |
 | 2013-08-01 | 2013. évi CLXXVII. törvény | 1959-4-00-00.107 |
+| 2014-01-01 | 2013. évi CCLII. törvény | 1959-4-00-00.108 |

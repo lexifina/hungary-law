@@ -123,7 +123,3 @@ az alapítványokra vonatkozó kérdések szabályozásáról szóló 1949. évi
 a volt kereskedelem- és szövetkezetügyi miniszter szövetkezeti hatáskörének átszállásáról szóló 4.325/1949. (XI. 20.) MT rendelet;
 
 a bírói úton érvényesíthető kamat legmagasabb mértékének megállapításáról szóló 4.360/1949. (XII. 30.) MT rendelet;
-
-az egyesülésekről szóló 102/1950. (IV. 4.) MT rendelet 1. §-ának (3) bekezdése, 10. §-a, 12–14. §-a;
-
-a holtnak nyilvánítási eljárás során kibocsátott hirdetmény közzétételének korlátozásáról szóló 130/1950. (V. 3.) MT rendelet;

@@ -11,3 +11,5 @@ Ptk.74/C. § (1) Az alapító – az alapító okiratban – kijelölheti a ke
 (6) Ha a kezelő szerv (szervezet) tevékenységével az alapítvány célját veszélyezteti, az alapító a kijelölést visszavonhatja és kezelőként más szervet (szervezetet) jelölhet ki.
 
 (7) Az alapító az alapító okiratban az e törvényben biztosított jogainak gyakorlására – különösen halála, megszűnése esetére – maga helyett más személyt is kijelölhet. E személyre az alapítóra vonatkozó rendelkezések az irányadók. A kijelölést a nyilvántartásba vétel után az alapító nem vonhatja vissza. Alapító vagy a jogainak gyakorlására kijelölt más személy hiányában – a kezelő szerv (szervezet) vagy az ügyészség erre vonatkozó bejelentése alapján – az alapítói jogosultságok a bíróságot illetik meg.
+
+(8) A bíróság az alapító jogainak gyakorlása során e jogok gyakorlására maga helyett – a kezelő szerv (szervezet) javaslatának figyelembevételével – más személyt jelölhet ki. E személyre az alapítóra vonatkozó rendelkezések az irányadóak. A kezelő szerv (szervezet) által egyhangú döntéssel javasolt személy kijelölése nem tagadható meg, ha ennek törvényi akadálya nincs.
