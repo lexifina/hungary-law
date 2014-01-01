@@ -18,7 +18,7 @@ f) az agrár-vidékfejlesztésért felelős miniszter és a természetvédelemé
 
 g) a turizmusért felelős miniszter által delegált 1,
 
-h) a fejlesztéspolitikáért felelős miniszter által delegált 1,
+h) a Kormány európai uniós források felhasználásáért felelős tagja által delegált 1,
 
 i) a Magyar Tudományos Akadémia (a továbbiakban: MTA) elnöke által delegált 1,
 
