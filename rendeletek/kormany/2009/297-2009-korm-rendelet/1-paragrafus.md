@@ -10,10 +10,10 @@ a) eljáró hatóság:
 
 aa) az 1. számú melléklet 1. pontjában meghatározott környezetvédelmi szakértői szakterület, valamint részterületei, illetve az 1. számú melléklet 3. pontjában meghatározott vízgazdálkodási szakértői szakterület és részterületei vonatkozásában a tervező- és szakértő mérnökök, valamint építészek szakmai kamaráiról szóló törvényben meghatározott területi mérnöki kamara (a továbbiakban: területi kamara),
 
-ab)[^1] az 1. számú melléklet 2. és 4. pontjában meghatározott természetvédelmi és tájvédelmi szakértői szakterület, illetve részterület vonatkozásában az Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség (a továbbiakban: főfelügyelőség);
+ab)[^1] az 1. számú melléklet 2. és 4. pontjában meghatározott természetvédelmi és tájvédelmi szakértői szakterület, illetve részterület vonatkozásában az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség (a továbbiakban: főfelügyelőség);
 
 b) szakértői tevékenység: a környezeti elemek védelmével, a természeti erőforrásokkal való gazdálkodással kapcsolatos műszaki, természettudományi jelenségek ok-okozati összefüggéseinek értékelése, az ehhez szükséges adatgyűjtési tevékenység végzése, környezetvédelmi, természetvédelmi és tájvédelmi dokumentációk összeállítása, továbbá a vizek hasznosításával, a vízkészletekkel történő gazdálkodással, kártételeik elhárításával és a vízilétesítmények létesítésével, üzemeltetésével, működtetésével kapcsolatos dokumentáció összeállítása, szakvélemény készítése, kivéve a vízgazdálkodási tervezői tevékenységet;
 
 c) harmadik ország: az Európai Unió tagállamán és az Európai Gazdasági Térségről szóló megállapodásban részes más államon kívüli állam, kivéve azt az államot, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján a letelepedés szabadsága tekintetében az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez.
 
-[^1]: Az 1. § (3) bekezdés ab) pontja a 300/2011. (XII. 22.) Korm. rendelet 10. §-a szerint módosított szöveg.
+[^1]: Az 1. § (3) bekezdés a) pont ab) alpontja a 300/2011. (XII. 22.) Korm. rendelet 10. §-a, az 527/2013. (XII. 30.) Korm. rendelet 83. §-a szerint módosított szöveg.
