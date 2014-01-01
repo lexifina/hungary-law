@@ -1,17 +1,17 @@
 ## 11. Az egyedi támogatási kérelemre vonatkozó különös szabályok
 
-13. § (1) A Civil tv. 56. § (2) bekezdés c) pontja szerinti egyedi támogatási kérelmet a miniszter felé postai úton kell benyújtani.
+13. § (1) A Civil tv. 56. § (2) bekezdés c) pontja szerinti egyedi támogatási kérelmet a miniszter részére postai úton kell benyújtani.
 
-(2) Az (1) bekezdés szerinti egyedi támogatási kérelemnek tartalmaznia kell a 3. § (1) bekezdés szerinti adatokat, továbbá a benyújtást megelőző két évben az Alaphoz benyújtott támogatási igények azonosítóját.
+(2) Az egyedi támogatási kérelemnek tartalmaznia kell az Ávr. 67. § (1) bekezdés szerinti adatokat.
 
-(3) Ha a miniszter az (1) bekezdés szerinti adatok alapján annak kézhezvételétől számított harminc napon belül
+(3) A miniszter az (2) bekezdés szerinti adatok alapján a tárgyévben rendelkezésre álló támogatási forrás figyelembevételével minden negyedévet követő hónap utolsó napjáig az adott negyedévben a (2) bekezdés szerinti előírásnak megfelelően benyújtott támogatási kérelmek vonatkozásában
 
-a) a támogatási igényt tartalmazó kérelmet befogadja és a támogatási igény elfogadásáról, a támogatás összegéről, ütemezéséről, a támogatás feltételeiről értesíti az Alapkezelőt, vagy
+a) dönt a támogatási kérelem befogadásáról és a döntésről, valamint a benyújtott kérelemről tájékoztatja az Alapkezelőt, vagy
 
-b) a támogatási igény elutasításáról dönt, amelyet indoklással lát el.
+b) a támogatási igény elutasításáról dönt, amelyet indoklással lát el és értesíti a támogatási kérelem benyújtóját.
 
-(4)[^14] Az Alapkezelő a (3) bekezdés szerinti értesítés kézhezvételét követő öt napon belül rögzíti a (2) bekezdés szerinti adatokat az internetes támogatáskezelő rendszerben és az 5. §-nak megfelelő támogatási szerződést, vagy támogatói okiratot az Alapkezelő részéről a kötelezettségvállaláshoz szükséges aláírásokkal ellátva, 15 napon belül terjeszti elő a miniszter vagy az általa kijelölt állami vezető részére ellenjegyzés céljából.
+(4) Az Alapkezelő a (3) bekezdés a) pontja szerinti értesítés kézhezvételét követő tizenöt napon belül intézkedik a támogatási szerződés megkötéséhez e rendelet szerint szükséges további adatok és dokumentumok beszerzéséről, amelyeket az Alapkezelő formai szempontból megvizsgál. Alapkezelő a támogatási szerződést haladéktalanul – az Alapkezelő részéről a kötelezettségvállaláshoz szükséges aláírásokkal ellátva – előterjeszti a miniszter vagy az általa kijelölt állami vezető részére ellenjegyzés céljából.
 
-(5) A (3) bekezdés szerinti támogatási összeg megállapítása során figyelembe kell venni a 11. § szerinti támogatást.
+(5) A (3) bekezdés szerinti döntés keretében a támogatási összeg megállapítása során figyelembe kell venni a 11. § szerinti támogatást.
 
-[^14]: A 13. § (4) bekezdése az 56/2012. (XII. 29.) EMMI rendelet 24. § (13) bekezdése szerint módosított szöveg.
+(6) Az egyedi támogatási kérelmekkel kapcsolatos támogatási döntés meghozatala során a 4. §-ban meghatározott eljárást nem kell alkalmazni.

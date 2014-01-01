@@ -1,45 +1,37 @@
-## Nyilatkozat
-
-## a költségtérítés, költségátalány érvényesítéséről, annak módjáról
+## Nyilatkozat a költségtérítés, költségátalány érvényesítéséről, annak módjáról
 
 ## A nyilatkozatot adó testületi tag
 
-| neve: | ............................................................................................................................................. |
+## neve:
 
-| adóazonosító jele: | ............................................................................................................................................. |
+## adóazonosító jele:
 
-| testületének megnevezése: | ............................................................................................................................................. |
+## testületének megnevezése:
 
-## A költségtérítést, költségáltalányt ……… évben
+## ......... évben
 
-## a) igénybe kívánom venni*
+## a) költségtérítést kívánok igénybe venni*
 
-## b) nem kívánom igénybe venni*
+## b) költségátalányt kívánok igénybe venni*
 
-## A költségtérítést ………… évben
+## c) a testületi tagsághoz kapcsolódó juttatást nem kívánok igénybe venni*
 
-## a) tárgyhavi költségeket igazoló bizonylat(ok)kal elszámolt összegként kívánom igénybe venni*
+## Kelt: ............................................................
 
-## b) költségátalányként, a költségeket igazoló bizonylat(ok)kal tárgyév december 10. napjáig elszámolt összegként kívánom igénybe venni*
-
-## Kelt: ……………………………………………
-
-## ………..…………………………
+## ...........................................................
 
 ## a testületi tag aláírása
 
 ## * A megfelelő rész aláhúzandó
 
-| 1. Tanú: | 2. Tanú: |
+## 1. Tanú: 2. Tanú:
 
-| Név: | Név: |
+## Név: Név:
 
-| lakcím: | lakcím: |
+## Lakcím: Lakcím:
 
-| Aláírás: | Aláírás: |
+## Aláírás: Aláírás:
 
-| A testületi tag magánszemély nyilatkozatának tartalmát tudomásul vettem. A magánszemély költségtérítését a nyilatkozat figyelembevételével állapítom meg. Kelt: …………………………………………… |
+6. melléklet az 5/2012. (II. 16.) KIM rendelethez[^36]
 
-|  | …………………………………………… Alapkezelő |
-
-6. melléklet az 5/2012. (II. 16.) KIM rendelethez
+[^36]: A 6. mellékletet a 74/2013. (XII. 2.) EMMI rendelet 10. §-a hatályon kívül helyezte.

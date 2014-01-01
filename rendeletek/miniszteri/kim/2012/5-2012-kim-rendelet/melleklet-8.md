@@ -1,72 +1,46 @@
-## Bevételek
+|  | A | B | C | D | E | F |
 
-| ADATOK | ÖSSZEG (Ft) |
+| 1. | A költség/kiadásnem megnevezése | Eredeti támogatási igény szerinti tétel részletezése | Támogatásból fedezett kiadások (Ft-ban) | Más forrásból fedezett kiadások (Ft-ban) | Összesen (Ft-ban) | Elszámolható költségek |
 
-| 1. Támogatási összeg: | Ft |
+| 2. | DOLOGI KIADÁSOK (2=3+4+5+6+7+8+9) |  |  |  |  |  |
 
-| 2. Önrész: | Ft |
+| 3. | Ingatlan, jármű, egyéb eszközök üzemeltetésének költségei |  |  |  |  | Bérleti díj, közüzemi díjak, fűtőanyag, javítás, karbantartás költségei, üzemeltetés költsége, biztosítás, üzemanyag, parkolási, úthasználati díj, számítástechnikai fogyóeszközök, egyéb. |
 
-| – Saját forrás: | Ft |
+| 4. | Adminisztráció költségei |  |  |  |  | Nyomtatvány, irodaszer, adminisztrációs szolgáltatások, jogszabályi megfelelést segítő szolgáltatások, pénzügyi szolgáltatások díja, hatósági díjak, illetékek, kamat, egyéb. |
 
-| – Egyéb forrás: | Ft |
+| 5. | PR, marketing, kommunikációs költségek |  |  |  |  | PR, marketing költségek, hirdetés, reklámköltségek, PR, marketing kiadványok, arculati elemek, PR, marketingszolgáltatások, Postaköltség, telefon költség, internet költsége, honlap fenntartás, üzemeltetés költsége, belső kommunikációs kiadványok, egyéb. |
 
-| ÖSSZESEN (=1+2) | Ft |
+| 6. | Szervezet- és humánerőforrás fejlesztés költségei |  |  |  |  | Oktatás, továbbképzés költsége, konferenciák, szemináriumok, szakmai találkozók részvételi díja, szervezet munkatársainak /önkénteseinek szervezett saját képzés költségei, szakkönyvek, előfizetési díjak,komplex szervezetfejlesztés, stratégiai tervezés, vezetés, irányítás fejlesztése, belső-, külső kommunikáció fejlesztése, minőségirányítási rendszer, egyéb. |
 
-## Kiadások
+| 7. | Szállítás, utazás-, kiküldetés költségei |  |  |  |  | Szállásdíj, utazási költség, személygépkocsi költségtérítés, személyszállítás, fuvarozás, raktározás, logisztikai szolgáltatások, egyéb |
 
-| A költség/kiadásnem megnevezése | 1. Támogatásból fedezett kiadások (Ft-ban) | 2. Más forrásból fedezett kiadások (Ft-ban) | 3. Összesen (1+2) (Ft-ban) |
+| 8. | Munka- és védőruha, védőfelszerelés költségei |  |  |  |  | Védőruházat, védőfelszerelés, munkaruha, jelmez, formaruha, javítás, karbantartás, készítés költségei, egyéb. |
 
-| A. DOLOGI KIADÁSOK |  |  |  |
+| 9. | Egyéb beszerzések, szolgáltatások |  |  |  |  | Egyéb anyagok, tagdíjak, nevezési díjak, közhasznú tevékenységben foglalkoztatott állatok költségei, egyéb anyagjellegű szolgáltatások, biztosítási díjak, reprezentáció, vállalkozási szerződés alkalmi feladatok ellátására, egyéb nem magánszeméllyel kötött megbízási és vállalkozási szerződés díja, egyéb. |
 
-| A.1 Ingatlan üzemeltetés költségei |  |  |  |
+| 10. | SZEMÉLYI JELLEGŰ KIADÁSOK (10=11+12+13+14+15) |  |  |  |  |  |
 
-| A.2 Jármű üzemeltetés költségei |  |  |  |
+| 11. | Bérköltség |  |  |  |  | Munkavállaló bére, betegszabadság, járulékok, táppénz-hozzájárulás, munkavállaló munkába járásának költsége, béren kívüli juttatások, egyéb. |
 
-| A.3 Egyéb eszközök üzemeltetésének költségei |  |  |  |
+| 12. | Ösztöndíj |  |  |  |  | Ösztöndíj (2004. évi CXXIII. törvény III/A. fejezet szerint), járulékok, egyéb. |
 
-| A.4 Adminisztráció költségei |  |  |  |
+| 13. | Egyszerűsített foglalkoztatás költsége |  |  |  |  | Egyszerűsített foglalkoztatás díja, egyszerűsített foglalkoztatás járulékai, egyéb. |
 
-| A.5 PR, marketing költségek |  |  |  |
+| 14. | Munkavégzésre irányuló egyéb jogviszony |  |  |  |  | Magánszeméllyel kötött megbízási szerződés szakmai feladat ellátására, magánszeméllyel kötött vállalkozási szerződés szakmai feladatok ellátására, járulékok, egyéb. |
 
-| A.6 Humánerőforrás fejlesztésének költségei |  |  |  |
+| 15. | Önkéntes foglalkoztatott költségei (A közérdekű önkéntes tevékenységről szóló 2005. évi LXXXVIII. tv. alapján, önkéntes tevékenysége ellátása közben/érdekében felmerült költségek) |  |  |  |  | Önkéntes foglalkoztatott költségei, étkezés,egészségügyi szolgáltatás, használt saját eszközök költségének megtérítése, élet-, egészség- és balesetbiztosítás díja, napidíj, egyéb. |
 
-| A.7 Kommunikációs költségek |  |  |  |
+| 16. | FELHALMOZÁSI KIADÁSOK (16=17+18+19) |  |  |  |  |  |
 
-| A.8 Utazás-, kiküldetés költségei |  |  |  |
+| 17. | Tárgyi eszköz beszerzés |  |  |  |  | Igazgatási eszköz, berendezés, célszerinti tevékenység eszközei, berendezései, egyéb. |
 
-| A.9 Szállítás költségei |  |  |  |
+| 18. | Immateriális javak beszerzése |  |  |  |  | Immateriális javak beszerzése, szellemi termék, vagyoni értékű jogok, egyéb. |
 
-| A.10 Munka- és védőruha, védőfelszerelés költségei |  |  |  |
+| 19. | Saját tulajdonú ingatlan felújítása |  |  |  |  | Vállalkozási és megbízási szerződés díja, engedélyek beszerzésének díja, fuvarozási, szállítmányozási díj, raktározás, egyéb. |
 
-| A.11 Szervezetfejlesztés (Kizárólag a támogatott szervezet fejlesztésének költségei.) |  |  |  |
+| 20. | TÉRÍTÉSMENTES HOZZÁJÁRULÁS |  |  |  |  | Közérdekű önkéntes tevékenységről szóló törvény szerinti munka, dologi feltételek, szolgáltatások ellentételezés nélküli biztosításának értéke. |
 
-| A.12 Egyéb beszerzések, szolgáltatások |  |  |  |
-
-| B. FOGLALKOZTATÁS ÉS EMBERI ERŐFORRÁS KÖLTSÉGEI |  |  |  |
-
-| B.1 Bérköltség |  |  |  |
-
-| B.2 Megbízási díj |  |  |  |
-
-| B.3 Ösztöndíj |  |  |  |
-
-| B.4 Egyszerűsített foglalkoztatás költsége |  |  |  |
-
-| B.5 Foglalkoztatás vállalkozói szerződéssel |  |  |  |
-
-| B.6 Önkéntes foglalkoztatott költségei (A közérdekű önkéntes tevékenységről szóló 2005. évi LXXXVIII. tv. alapján, önkéntes tevékenysége ellátása közben/érdekében felmerült költségek) |  |  |  |
-
-| C. TÁRGYI ESZKÖZÖK, IMMATERIÁLIS JAVAK BESZERZÉSE |  |  |  |
-
-| C.1 Tárgyi eszköz beszerzés |  |  |  |
-
-| C.2 Immateriális javak beszerzése |  |  |  |
-
-| T. TÉRÍTÉSMENTES HOZZÁJÁRULÁS (társadalmi munka, dologi feltételek és szolgáltatás biztosítása) |  |  |  |
-
-| ÖSSZESEN (=A + B + C) |  |  |  |
-
-| (A Bevételek táblázat összesen összegének meg kell egyeznie az itt szereplő végösszeggel.) |  |  |  |
+| 21. | ÖSSZESEN (21=2+10+16+20) |  |  |  |  |  |
 
 8. melléklet az 5/2012. (II. 16.) KIM rendelethez
 
