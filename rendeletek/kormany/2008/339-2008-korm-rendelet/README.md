@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-339-20-
 | 2011-05-01 | 2008-339-20-22.3 | 59/2011. (IV. 12.) Korm. rendelet |
 | 2013-01-01 | 2008-339-20-22.4 | 447/2012. (XII. 29.) Korm. rendelet |
 | 2013-05-25 | 2008-339-20-22.5 | 136/2013. (V. 10.) Korm. rendelet |
+| 2014-01-01 | 2008-339-20-22.6 | 520/2013. (XII. 30.) Korm. rendelet |
