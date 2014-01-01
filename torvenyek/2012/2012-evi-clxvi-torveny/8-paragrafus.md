@@ -1,6 +1,6 @@
 8. § (1) A hivatásos katasztrófavédelmi szerv központi szerve – a (2) bekezdésben meghatározott kivétellel – az ellenőrzést koordináló szerv. A hivatásos katasztrófavédelmi szerv központi szerve az európai létfontosságú rendszerelemet vagy a nemzeti létfontosságú rendszerelemet rendszeresen ellenőrzi.
 
-(2) A honvédelmi létfontosságú rendszerelemek tekintetében az ellenőrzést koordináló szervet és a helyszíni ellenőrzést lefolytató szervet a Kormány rendeletben jelöli ki.
+(2) A honvédelmi létfontosságú rendszerelemek és a hivatásos katasztrófavédelmi szerv létfontosságú rendszerelemei tekintetében az ellenőrzést koordináló szervet és a helyszíni ellenőrzést lefolytató szervet a Kormány rendeletben jelöli ki.
 
 (3) A helyszíni ellenőrzést lefolytató szerv az európai létfontosságú rendszerelemet vagy a nemzeti létfontosságú rendszerelemet legalább kétévenként helyszíni ellenőrzéssel ellenőrzi. A helyszíni ellenőrzést a nemzetbiztonsági szempontok figyelembevételével kell lefolytatni.
 
