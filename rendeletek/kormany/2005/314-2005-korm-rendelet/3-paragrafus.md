@@ -32,9 +32,9 @@ g)[^32] az elektronikus úton közzétett kérelem és mellékletek elérési he
 
 (5) Katonai titokvédelem alá eső tevékenység esetén a kérelemről és az előzetes vizsgálati dokumentációról a felügyelőség csak a telepítés helye szerinti, valamint a feltételezetten érintett települések jegyzőjét tájékoztatja.
 
-(6) A bányászatról szóló 1993. évi XLVIII. törvény 14. §-ának (2) bekezdése szerinti egyéves időtartamba nem számít bele az előzetes vizsgálati eljárás időtartama.
+(6)[^34]
 
-(7)[^34] A környezethasználó előzetes vizsgálat iránti kérelmet nyújthat be a felügyelőséghez, ha olyan tevékenység megvalósítását tervezi, amely megfelel a 3. számú mellékletben szereplő tevékenységnek, azonban az abban meghatározott küszöbértéket nem éri el vagy az ott szereplő kritériumot nem teljesíti, feltéve, hogy a tevékenység nem tartozik a 2. számú mellékletbe. Ha a felügyelőség az előzetes vizsgálat során az 5. § (2) bekezdés a) pont aa) alpontja szerint dönt, akkor a tevékenység megkezdéséhez környezetvédelmi engedély szükséges.
+(7)[^35] A környezethasználó előzetes vizsgálat iránti kérelmet nyújthat be a felügyelőséghez, ha olyan tevékenység megvalósítását tervezi, amely megfelel a 3. számú mellékletben szereplő tevékenységnek, azonban az abban meghatározott küszöbértéket nem éri el vagy az ott szereplő kritériumot nem teljesíti, feltéve, hogy a tevékenység nem tartozik a 2. számú mellékletbe. Ha a felügyelőség az előzetes vizsgálat során az 5. § (2) bekezdés a) pont aa) alpontja szerint dönt, akkor a tevékenység megkezdéséhez környezetvédelmi engedély szükséges.
 
 [^26]: A 3. § (1) bekezdése a 12/2011. (II. 22.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^27]: A 3. § (1) bekezdés c) pontját a 82/2011. (V. 18.) Korm. rendelet 15. §-a iktatta be.
@@ -44,4 +44,5 @@ g)[^32] az elektronikus úton közzétett kérelem és mellékletek elérési he
 [^31]: A 3. § (3) bekezdés f) pontját a 371/2012. (XII. 17.) Korm. rendelet 2. § (2) bekezdése iktatta be.
 [^32]: A 3. § (3) bekezdés g) pontját a 371/2012. (XII. 17.) Korm. rendelet 2. § (2) bekezdése iktatta be.
 [^33]: A 3. § (4) bekezdése a 371/2012. (XII. 17.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
-[^34]: A 3. § (7) bekezdését a 110/2010. (IV. 9.) Korm. rendelet 2. §-a iktatta be, szövege a 228/2010. (VIII. 13.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd a 29. §-t.
+[^34]: A 3. § (6) bekezdését az 559/2013. (XII. 31.) Korm. rendelet 31. §-a hatályon kívül helyezte.
+[^35]: A 3. § (7) bekezdését a 110/2010. (IV. 9.) Korm. rendelet 2. §-a iktatta be, szövege a 228/2010. (VIII. 13.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd a 29. §-t.

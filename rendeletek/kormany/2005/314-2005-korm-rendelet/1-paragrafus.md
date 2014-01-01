@@ -24,7 +24,7 @@ eb) nem jelentősek, egységes környezethasználati engedélyezési eljárás
 
 ## alapján egységes környezethasználati
 
-f)[^3] a 3. számú mellékletben szerepel, azonban nem éri el a 3. számú mellékletben meghatározott küszöbértéket, vagy a 3. számú mellékletben a tevékenységre megállapított feltétel nem teljesül, de a környezetvédelmi, természetvédelmi és vízügyi felügyelőség (a továbbiakban: felügyelőség) más hatósági, szakhatósági eljárásban megállapította, hogy a tevékenység várható környezeti hatásai jelentősek, akkor környezeti hatásvizsgálati eljárás alapján környezetvédelmi
+f)[^3] a 3. számú mellékletben szerepel, azonban nem éri el a 3. számú mellékletben meghatározott küszöbértéket, vagy a 3. számú mellékletben a tevékenységre megállapított feltétel nem teljesül, de a környezetvédelmi és természetvédelmi (a továbbiakban: felügyelőség) más hatósági, szakhatósági eljárásban megállapította, hogy a tevékenység várható környezeti hatásai jelentősek, akkor környezeti hatásvizsgálati eljárás alapján környezetvédelmi
 
 ## engedély szükséges.
 
@@ -38,7 +38,7 @@ f)[^3] a 3. számú mellékletben szerepel, azonban nem éri el a 3. számú mel
 
 [^1]: Az 1. § (2) bekezdése a 145/2012. (VII. 3.) Korm. rendelet 40. § (5) bekezdése szerint módosított szöveg.
 [^2]: Az 1. § (3) bekezdés b) pontja a 281/2013. (VII. 24.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^3]: Az 1. § (3) bekezdés f) pontját a 82/2011. (V. 18.) Korm. rendelet 12. §-a iktatta be.
+[^3]: Az 1. § (3) bekezdés f) pontját a 82/2011. (V. 18.) Korm. rendelet 12. §-a iktatta be, szövege az 527/2013. (XII. 30.) Korm. rendelet 34. §-a szerint módosított szöveg.
 [^4]: Az 1. § (4) bekezdése a 281/2013. (VII. 24.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^5]: Az 1. § (5) bekezdését a 228/2010. (VIII. 13.) Korm. rendelet 3. §-a hatályon kívül helyezte, újonnan a 12/2011. (II. 22.) Korm. rendelet 1. §-a iktatta be.
 [^6]: Az 1. § (6) bekezdését a 266/2008. (XI. 6.) Korm. rendelet 8. § (1) bekezdése iktatta be.

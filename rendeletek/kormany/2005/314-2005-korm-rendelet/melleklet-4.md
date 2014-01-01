@@ -50,7 +50,7 @@
 
 | Bányászat |
 
-| 10. | Szénbányászat (amennyiben nem tartozik az 1. számú mellékletbe) | a) méretmegkötés nélkül |
+| 10. | Szénbányászat, illetve föld alatti szénelgázosítással megvalósított szénbányászati kitermelési kísérlet (amennyiben nem tartozik az 1. számú mellékletbe) | a) méretmegkötés nélkül |
 
 | b) felhagyása |
 

@@ -1,6 +1,6 @@
-## 29/G. §[^156] E rendeletnek a környezeti hatások jelentőségének vizsgálatával összefüggésben egyes kormányrendeletek módosításáról szóló 281/2013. (VII. 24.) Korm. rendelettel (a továbbiakban: Mkr9.) megállapított rendelkezéseit az Mkr9. hatálybalépését[^157] követően indult vagy megismételt eljárásokban kell alkalmazni.
+## 29/G. §[^157] E rendeletnek a környezeti hatások jelentőségének vizsgálatával összefüggésben egyes kormányrendeletek módosításáról szóló 281/2013. (VII. 24.) Korm. rendelettel (a továbbiakban: Mkr9.) megállapított rendelkezéseit az Mkr9. hatálybalépését[^158] követően indult vagy megismételt eljárásokban kell alkalmazni.
 
-## 30. §[^158] Ez a rendelet a Kvt.-vel együtt
+## 30. §[^159] Ez a rendelet a Kvt.-vel együtt
 
 a) az egyes köz- és magánprojektek környezetre gyakorolt hatásainak vizsgálatáról szóló, 2011. december 13-i 2011/92/EU európai parlamenti és a tanács irányelvnek,
 
@@ -10,6 +10,6 @@ c) a szén-dioxid geológiai tárolásáról, valamint a 85/337/EGK tanácsi ir�
 
 való megfelelést szolgálja.
 
-[^156]: A 29/G. §-t a 281/2013. (VII. 24.) Korm. rendelet 4. §-a iktatta be.
-[^157]: A hatálybalépés időpontja 2013. augusztus 1.
-[^158]: A 30. § a 145/2012. (VII. 3.) Korm. rendelet 40. § (1) bekezdésével megállapított szöveg.
+[^157]: A 29/G. §-t a 281/2013. (VII. 24.) Korm. rendelet 4. §-a iktatta be.
+[^158]: A hatálybalépés időpontja 2013. augusztus 1.
+[^159]: A 30. § a 145/2012. (VII. 3.) Korm. rendelet 40. § (1) bekezdésével megállapított szöveg.
