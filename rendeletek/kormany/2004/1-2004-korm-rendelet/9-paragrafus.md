@@ -4,6 +4,6 @@ a) a strukturális alapok által finanszírozott intézkedésekről a végrehajt
 
 b) a Közösségi Támogatási Keret végrehajtásában érintett intézményrendszer folyamatos továbbfejlesztésével összefüggésben az érintett szerveknél elkészült dokumentumokat megismerni,
 
-c)[^14] amennyiben az operatív program végrehajtása a 8. § l) pontjában meghatározott munkatervtől eltér, a strukturális alapok végrehajtásában érintett szervezetek számára intézkedési terv elkészítését előírni, és annak végrehajtását ellenőrizni.
+c)[^15] amennyiben az operatív program végrehajtása a 8. § l) pontjában meghatározott munkatervtől eltér, a strukturális alapok végrehajtásában érintett szervezetek számára intézkedési terv elkészítését előírni, és annak végrehajtását ellenőrizni.
 
-[^14]: A 9. § c) pontját az 53/2005. (III. 26.) Korm. rendelet 3. §-a iktatta a szövegbe.
+[^15]: A 9. § c) pontját az 53/2005. (III. 26.) Korm. rendelet 3. §-a iktatta a szövegbe.
