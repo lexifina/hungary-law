@@ -2,7 +2,7 @@
 
 | Létesítmény | A létesítmény azonosító adatai | A beruházás megvalósításához szükséges engedély | Első fokú eljáró hatóság | Másodfokú eljáró hatóság |
 
-| Kis és közepes aktivitású radioaktív hulladéktároló | Bátaapáti hrsz.: 0112/2, 0114/1, 0115, 0119, 0123/1, 0124/4, 0124/8 | környezetvédelmi engedély | Közép-dunántúli Környezetvédelmi, Területvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség [OKTVFF] |
+| Kis és közepes aktivitású radioaktív hulladéktároló | Bátaapáti hrsz.: 0112/2, 0114/1, 0115, 0119, 0123/1, 0124/4, 0124/8 | környezetvédelmi engedély | Közép-dunántúli Környezetvédelmi és Területvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség [OKTF] |
 
 |  |  | tároló létesítési engedély | Tolna Megyei Kormányhivatal Népegészségügyi Szakigazgatási Szerve | Országos Tisztifőorvosi Hivatal |
 
@@ -42,7 +42,7 @@ Az 1. § (3) bekezdésében hivatkozott szakhatóságok
 
 |  | Első fokú szakhatóság | Másodfokú szakhatóság |
 
-| környezetvédelem | Közép-dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség [OKTVFF] |
+| környezetvédelem | Közép-dunántúli Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség [OKTF] |
 
 | építésügy | Szekszárdi Járási Hivatal járási építésügyi és örökségvédelmi hivatala | Tolna Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
@@ -54,9 +54,9 @@ Az 1. § (3) bekezdésében hivatkozott szakhatóságok
 
 | - állategészségügy | Tolna Megyei Kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| - talaj (termőföld) védelem | Tolna Megyei Kormányhivatal Növény-és Talajvédelmi Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
+| - talaj (termőföld) védelem | Tolna Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| közlekedés | Baranya Megyei Kormányhivatal közlekedési felügyelősége | Nemzeti Közlekedési Hatóság Központi |
+| közlekedés | Baranya Megyei Kormányhivatal közlekedési felügyelősége | Nemzeti Közlekedési Hatóság Központ |
 
 | rendészet: |  |  |
 
@@ -66,7 +66,7 @@ Az 1. § (3) bekezdésében hivatkozott szakhatóságok
 
 | földtan, bányászat | Pécsi Bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
-| vízügy | Közép-dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség [OKTVFF] |
+| vízügy | Közép-dunántúli Vízügyi Hatóság | Országos Vízügyi Hatóság [OVH] |
 
 3. Radioaktív anyag közúti szállítási engedély:
 
@@ -78,4 +78,4 @@ Az 1. § (3) bekezdésében hivatkozott szakhatóságok
 
 | - rendőrség | ORFK Igazgatásrendészeti Főosztály | országos rendőrfőkapitány |
 
-[^2]: A 2. melléklet a 351/2010. (XII. 30.) Korm. rendelet 156. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 7. §-a, a 23/2012. (II. 29.) Korm. rendelet 16. §-a, a 296/2012. (X. 17.) Korm. rendelet 21. §-a, a 394/2012. (XII. 20.) Korm. rendelet 13. §-a szerint módosított szöveg.
+[^2]: A 2. melléklet a 351/2010. (XII. 30.) Korm. rendelet 156. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 7. §-a, a 23/2012. (II. 29.) Korm. rendelet 16. §-a, a 296/2012. (X. 17.) Korm. rendelet 21. §-a, a 394/2012. (XII. 20.) Korm. rendelet 13. §-a, az 527/2013. (XII. 30.) Korm. rendelet 39. § (2) bekezdése szerint módosított szöveg.
