@@ -1,4 +1,4 @@
-4. §[^15] (1) A fogyasztó a szerződéstől nyolc munkanapon belül indokolás nélkül elállhat.
+4. §[^16] (1) A fogyasztó a szerződéstől nyolc munkanapon belül indokolás nélkül elállhat.
 
 (2) A fogyasztó az (1) bekezdés szerinti elállási jogát
 
@@ -16,4 +16,4 @@ b) szolgáltatás nyújtására irányuló szerződés esetében a szerződésk�
 
 (6) A fogyasztó viseli az elállási jog gyakorlása miatt a termék visszaszolgáltatásával kapcsolatban felmerült költségeket. A fogyasztót ezenfelül egyéb költség nem terheli. A vállalkozás azonban követelheti a termék nem rendeltetésszerű használatából eredő kárának megtérítését.
 
-[^15]: A 4. § a 217/2008. (VIII. 29.) Korm. rendelet 3. § (7) bekezdésével megállapított szöveg.
+[^16]: A 4. § a 217/2008. (VIII. 29.) Korm. rendelet 3. § (7) bekezdésével megállapított szöveg.
