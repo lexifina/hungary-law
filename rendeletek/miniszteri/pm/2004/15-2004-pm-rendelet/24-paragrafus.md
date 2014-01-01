@@ -1,4 +1,4 @@
-## 23/C. §[^17] A Közösségi Vámkódex létrehozásáról szóló 2913/92/EGK rendelet (a továbbiakban: vámkódex) 29. cikkének alkalmazásával összhangban, a vámhatóság elfogadhat olyan árat vámértékként, amellyel kapcsolatban bizonyítják, hogy az az OECD Transzferár Irányelv alkalmazása szerinti szokásos piaci ár, feltéve, hogy azt is bemutatják, hogy az ár milyen módon tesz eleget a 29. cikk (2) bekezdésben megadott feltételeknek, vagy másképp mutatják be, hogy az értékelendő áru árát nem befolyásolta a kapcsolat.
+## 23/C. §[^17] A vámkódex 29. cikkének alkalmazásával összhangban, a vámhatóság elfogadhat olyan árat vámértékként, amellyel kapcsolatban bizonyítják, hogy az az OECD Transzferár Irányelv alkalmazása szerinti szokásos piaci ár, feltéve, hogy azt is bemutatják, hogy az ár milyen módon tesz eleget a 29. cikk (2) bekezdésben megadott feltételeknek, vagy másképp mutatják be, hogy az értékelendő áru árát nem befolyásolta a kapcsolat.
 
 ## III. AZ ÁRUNYILATKOZAT NEM FORMANYOMTATVÁNYON TÖRTÉNŐ KITÖLTÉSÉNEK ÉS BENYÚJTÁSÁNAK FELTÉTELEI
 
@@ -16,7 +16,7 @@ a) az engedélyezés feltételei már nem állnak fenn,
 
 b) az engedélyes az engedélyben előírt feltételeknek nem tesz eleget.
 
-[^17]: A 23/C. §-t a 44/2008. (XII. 31.) PM rendelet 1. §-a iktatta be.
+[^17]: A 23/C. §-t a 44/2008. (XII. 31.) PM rendelet 1. §-a iktatta be, szövege a 67/2013. (XII. 23.) NGM rendelet 9. § 1. pontja szerint módosított szöveg.
 [^18]: A 24. § (1) bekezdése a 17/2011. (IV. 19.) NGM rendelet 63. §-ával megállapított szöveg.
 [^19]: A 24. § (2) bekezdése a 13/2012. (VI. 25.) NGM rendelet 10. § (7) bekezdés a) pontja szerint módosított szöveg.
 [^20]: A 24. § (3) bekezdése a 13/2012. (VI. 25.) NGM rendelet 10. § (2) bekezdés a) pontja szerint módosított szöveg.

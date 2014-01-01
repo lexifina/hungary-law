@@ -1,8 +1,8 @@
-## 52. §[^72] A NAV vámszerve által kezelt államháztartási számlák a NAV internetes honlapján kerülnek közzétételre.
+## 52. §[^73] A NAV vámszerve által kezelt államháztartási számlák a NAV internetes honlapján kerülnek közzétételre.
 
-53. §[^73] (1) Az ügyfél a folyószámlán található rendezetlen tételeinek egyeztetése érdekében egy példányban a 3. melléklet szerinti Folyószámla Feletti Rendelkezés Bizonylatot köteles benyújtani a vámhatósághoz. A benyújtott Folyószámla Feletti Rendelkezés Bizonylat a számla feletti rendelkezésnek minősül.
+53. §[^74] (1) Az ügyfél a folyószámlán található rendezetlen tételeinek egyeztetése érdekében egy példányban a 3. melléklet szerinti Folyószámla Feletti Rendelkezés Bizonylatot köteles benyújtani a vámhatósághoz. A benyújtott Folyószámla Feletti Rendelkezés Bizonylat a számla feletti rendelkezésnek minősül.
 
 (2) A vámhatóság a számla rendezésének elvégzése után a Korrekciós Bizonylat egy példányának a megküldésével igazolja az ügyfélnek a folyószámla művelet végrehajtását.
 
-[^72]: Az 52. § a 17/2011. (IV. 19.) NGM rendelet 67. §-ával megállapított szöveg.
-[^73]: Az 53. § a 20/2010. (V. 12.) PM rendelet 1. §-ával megállapított szöveg.
+[^73]: Az 52. § a 17/2011. (IV. 19.) NGM rendelet 67. §-ával megállapított szöveg.
+[^74]: Az 53. § a 20/2010. (V. 12.) PM rendelet 1. §-ával megállapított szöveg.

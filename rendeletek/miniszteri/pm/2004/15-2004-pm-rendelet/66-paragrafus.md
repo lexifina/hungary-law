@@ -1,3 +1,3 @@
-## 65. §[^115]
+## 65. §[^121]
 
-[^115]: A 65. §-t a 13/2012. (VI. 25.) NGM rendelet 12. § b) pontja hatályon kívül helyezte.
+[^121]: A 65. §-t a 13/2012. (VI. 25.) NGM rendelet 12. § b) pontja hatályon kívül helyezte.

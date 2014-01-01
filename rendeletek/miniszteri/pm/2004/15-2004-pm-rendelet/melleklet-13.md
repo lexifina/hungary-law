@@ -1,4 +1,4 @@
-13. számú melléklet a 15/2004. (IV. 5.) PM rendelethez[^202]
+13. számú melléklet a 15/2004. (IV. 5.) PM rendelethez[^211]
 
 | Díjjegyzék |
 
@@ -20,7 +20,7 @@
 
 | 8. Akonitsav kimutatás | 8 715 |
 
-| 9. Alapdíj | 14 500 |
+| 9. |  |
 
 | 10. Alkoholok fémtatalmának meghatározása AAS technikával | 9 526 |
 
@@ -490,4 +490,4 @@
 
 | 243. Zsírtartalom meghatározása Soxhlet extrakcióval | 10 392 |
 
-[^202]: A 13. számú mellékletet a 17/2011. (IV. 19.) NGM rendelet 79. § (2) bekezdése iktatta be, szövege a 32/2013. (VIII. 14.) NGM rendelet 3. §-ával megállapított szöveg.
+[^211]: A 13. számú mellékletet a 17/2011. (IV. 19.) NGM rendelet 79. § (2) bekezdése iktatta be, szövege a 32/2013. (VIII. 14.) NGM rendelet 3. §-ával megállapított, a 67/2013. (XII. 23.) NGM rendelet 10. § c) pontja szerint módosított szöveg.
