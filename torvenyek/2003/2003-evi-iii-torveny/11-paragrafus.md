@@ -15,3 +15,7 @@
 (8) A Levéltár kezelésében levő, a minősített adatot tartalmazó irat megismeréséhez a Ttv. 2. § (1) bekezdésének 7. pontjában meghatározott engedély szükséges.
 
 (9) A törvény hatálya alá tartozó iratok a törvény hatálybalépésének napjától kizárólag az Ltv. szabályai alapján, a Levéltárban selejtezhetőek.
+
+(10) A közfeladatot ellátó szervnél őrzött olyan iratot, amely a Levéltár illetékességébe tartozik – ha szükséges, másolat elkészítését követően –, a Levéltárnak át kell adni. Amennyiben az irat más dokumentumoktól fizikailag nem választható szét, másolati példányt kell kiadni.
+
+(11) A Levéltár megőrzésébe került olyan iratot, amely más szerv már közlevéltárban vagy nyilvános magánlevéltárban őrzött irattári anyagának szerves részét képezi, és nem tartozik a Levéltár illetékességébe tartozó iratok körébe, a Levéltár – a szükséges másolatok elkészítését követően – az iratokat őrző levéltárnak adja át. Amennyiben az irat más dokumentumtól fizikailag nem választható szét, másolati példányt kell kiadni.

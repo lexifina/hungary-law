@@ -10,7 +10,7 @@ c) olyan személyre vonatkozik, akinek az 1. §-ban meghatározott szerveknél v
 
 d) olyan hálózati személy vagy operatív kapcsolat személyazonosságának felfedéséhez vezet, akinek megismerése nyilvánvalóan vagy kimutathatóan sértené Magyarország nemzetbiztonsági érdekeit,
 
-e) az egyes fontos, valamint közbizalmi és közvélemény-formáló tisztségeket betöltő személyek ellenőrzését végző bírák eljárása során keletkezett, amennyiben az eljárás eredményeként annak alanya lemondott vagy felmentését kezdeményezte.
+e)
 
 (3) Fenntartható továbbá az államtitok minősítése a Ttv. alapján az államtitokkörbe tartozó azon adat tekintetében, amely
 
