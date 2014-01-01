@@ -1,6 +1,6 @@
 ## Ügyfélszámla
 
-15. § (1)[^5] Az ügyfélszámláról a befektetési szolgáltatás és árutőzsdei szolgáltatás igénybevételéből vagy értékpapír hozamából, elidegenítéséből származó összeg bankszámlára vagy ügyfélszámlára átutalható.
+15. § (1)[^6] Az ügyfélszámláról a befektetési szolgáltatás és árutőzsdei szolgáltatás igénybevételéből vagy értékpapír hozamából, elidegenítéséből származó összeg bankszámlára vagy ügyfélszámlára átutalható.
 
 (2) Ha törvény vagy kormányrendelet másként nem rendelkezik, akkor az ügyfélszámlával kapcsolatban a fizetési módok közül csak egyszerű átutalás vagy készpénzfizetés alkalmazható.
 
@@ -24,4 +24,4 @@ b) készpénzfelvételi utalvány útján történő készpénzkifizetéssel
 
 (9) A csőd-, felszámolási és adósságrendezési eljárás esetén a pénzforgalomról szóló előírásokat az ügyfélszámlára is alkalmazni kell.
 
-[^5]: A 15. § (1) bekezdése a 292/2002. (XII. 27.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^6]: A 15. § (1) bekezdése a 292/2002. (XII. 27.) Korm. rendelet 1. §-ával megállapított szöveg.
