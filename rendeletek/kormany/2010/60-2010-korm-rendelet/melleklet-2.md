@@ -8,13 +8,13 @@
 
 | 3. |  |  | építésügyi hatósági eljárások (a telekalakítási eljárás kivételével) | Tatabányai Járási Hivatal járási építésügyi és örökségvédelmi hivatala | Komárom-Esztergom Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
-| 4. |  |  | környezetvédelmi hatósági eljárások | Észak-dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 4. |  |  | környezetvédelmi hatósági eljárások | Észak-dunántúli Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
 | 5. |  |  | útügyi hatósági eljárások gyorsforgalmi út és 30 méter szabad nyílást meghaladó közúti híd esetében | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
 
 | 6. |  |  | útügyi hatósági eljárások a C:5 mezőben foglaltakon kívüli egyéb országos közút, a helyi közút és a közforgalom elől el nem zárt magánút esetében | Komárom-Esztergom Megyei Kormányhivatal Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
-| 7. |  |  | vízjogi hatósági eljárások | Észak-dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 7. |  |  | vízjogi hatósági eljárások | Észak-dunántúli Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
 | 8. |  |  | földvédelmi hatósági eljárások | illetékes járási földhivatal | Komárom- Esztergom Megyei Kormányhivatal Földhivatala |
 
@@ -50,7 +50,7 @@
 
 | 24. |  |  | egészségügyi eljárások | Komárom-Esztergom Megyei Kormányhivatal Népegészségügyi Szakigazgatási Szerve | Országos Tisztifőorvosi Hivatal |
 
-| 25. |  |  | üvegházhatású gázkibocsátással járó tevékenység hatósági engedélyezési eljárása | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség | környezetvédelemért felelős miniszter |
+| 25. |  |  | üvegházhatású gázkibocsátással járó tevékenység hatósági engedélyezési eljárása | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség | környezet- védelemért felelős miniszter |
 
 2. melléklet a 60/2010. (III. 18.) Korm. rendelethez[^2]
 
@@ -62,7 +62,9 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 2. | építésügy | Tatabányai Járási Hivatal járási építésügyi és örökségvédelmi hivatala | Komárom-Esztergom Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
-| 3. | környezetvédelem, természetvédelem és vízügy | Észak-dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 3. | környezetvédelem, természetvédelem | Észak-dunántúli Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+
+| 3a. | vízügy | Észak-dunántúli Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
 | 4. | közlekedés gyorsforgalmi út és 30 méter szabad nyílást meghaladó közúti híd esetében | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
 
@@ -102,4 +104,4 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 22. | élelmiszer-biztonság | Komárom-Esztergom Megyei Kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-[^2]: A 2. melléklet a 351/2010. (XII. 30.) Korm. rendelet 274. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 32. §-a, a 23/2012. (II. 29.) Korm. rendelet 52. §-a, a 296/2012. (X. 17.) Korm. rendelet 43. §-a, a 394/2012. (XII. 20.) Korm. rendelet 38. §-a szerint módosított szöveg.
+[^2]: A 2. melléklet a 351/2010. (XII. 30.) Korm. rendelet 274. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 32. §-a, a 23/2012. (II. 29.) Korm. rendelet 52. §-a, a 296/2012. (X. 17.) Korm. rendelet 43. §-a, a 394/2012. (XII. 20.) Korm. rendelet 38. §-a, az 527/2013. (XII. 30.) Korm. rendelet 85. § (2) bekezdése szerint módosított szöveg.
