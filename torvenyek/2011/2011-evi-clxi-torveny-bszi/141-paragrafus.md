@@ -1,4 +1,4 @@
-141. § (1) Ha a Kúria elnökhelyettesének, az ítélőtábla és a törvényszék elnökének, valamint helyettesének, továbbá a kollégiumvezetőnek a tisztsége a megbízatási időtartam leteltével szűnik meg, őt pályázat kiírása nélkül, a vezetői tevékenységével azonos szintű bíróságra tanácselnöknek kell kinevezni.
+141. § (1) Ha a Kúria elnökhelyettesének, főtitkárának, főtitkár-helyettesének, az ítélőtábla és a törvényszék elnökének, valamint helyettesének, továbbá a kollégiumvezetőnek a tisztsége a megbízatási időtartam leteltével szűnik meg, őt pályázat kiírása nélkül a vezetői tevékenységével azonos szintű bíróságra tanácselnöknek kell kinevezni.
 
 (2) Ha a közigazgatási és munkaügyi regionális kollégium kollégiumvezetőjének a tisztsége a megbízatási időtartam leteltével szűnik meg, őt pályázat kiírása nélkül, törvényszékre tanácselnöknek kell kinevezni.
 

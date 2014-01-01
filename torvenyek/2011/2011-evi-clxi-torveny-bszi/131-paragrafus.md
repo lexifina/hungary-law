@@ -4,7 +4,7 @@ a) a Kúria elnökhelyettese és kollégiumvezetője esetén a Kúria teljes ül
 
 b) az ítélőtábla, továbbá a törvényszék elnöke, elnökhelyettese és kollégiumvezetője esetén a megfelelő szintű összbírói értekezlet,
 
-c) a Kúria, az ítélőtábla, továbbá a törvényszék kollégiumvezető-helyettese, tanácselnöke, valamint a törvényszék csoportvezetője, csoportvezető-helyettese esetében a megfelelő szintű és ügyszakú kollégium,
+c) a Kúria, az ítélőtábla, továbbá a törvényszék kollégiumvezetője, kollégiumvezető-helyettese, tanácselnöke, valamint a törvényszék csoportvezetője, csoportvezető-helyettese esetében a megfelelő szintű és ügyszakú kollégium,
 
 d) a közigazgatási és munkaügyi regionális kollégium kollégiumvezetője és kollégiumvezető-helyettese esetén a közigazgatási és munkaügyi regionális kollégium,
 

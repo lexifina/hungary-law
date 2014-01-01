@@ -8,7 +8,9 @@ b) indítványozza az OBH elnökénél a 76. § (1) bekezdés d) pontjában fogl
 
 c) véleményezi az OBH elnöke által kiadott szabályzatokat, ajánlásokat,
 
-d) jóváhagyja a szolgálati bíróság ügyrendjét és közzéteszi azt a központi honlapon.
+d) jóváhagyja a szolgálati bíróság ügyrendjét és közzéteszi azt a központi honlapon, továbbá jóváhagyja a szolgálati bíróság előző évi ügyforgalmáról, valamint ítélkezési gyakorlatáról szóló tájékoztatóját és közzéteszi azt az intraneten,
+
+e) elfogadja a bírák Etikai Kódexét és közzéteszi azt a központi honlapon.
 
 (2) Az OBT a költségvetés területén
 

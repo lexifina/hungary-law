@@ -40,7 +40,7 @@ g) az érdek-képviseleti szervekkel együttműködve megállapítja az egyéb j
 
 (4) Az OBH elnöke a statisztikai adatgyűjtéssel, az ügyelosztással és a munkateherméréssel kapcsolatos feladatkörében
 
-a) a központi költségvetésről szóló törvény bíróságokra vonatkozó költségvetési fejezetének létszám-előirányzata, valamint a peres és nemperes eljárások átlagos országos munkaterhének mutatói alapján meghatározza a bíróságok – a törvényszékek esetében az illetékességi területükön működő közigazgatási és munkaügyi bírósággal, valamint járásbíróságokkal együttes – szükséges bírói létszámát,
+a) a központi költségvetésről szóló törvény bíróságokra vonatkozó költségvetési fejezetének létszám-előirányzata, valamint a peres és nemperes eljárások átlagos országos munkaterhének mutatói alapján meghatározza a bíróságok – a törvényszékek esetében az illetékességi területükön működő közigazgatási és munkaügyi bírósággal, valamint járásbíróságokkal együttes – szükséges bírói és igazságügyi alkalmazotti létszámát,
 
 b)
 
@@ -60,7 +60,7 @@ c) a bírót első kinevezésekor – a bírák jogállásáról és javadalmaz�
 
 d) beosztja a katonai bírót a katonai tanácsba, valamint a Magyar Honvédségnél fennálló hivatásos szolgálati viszonyának megszűnésekor más bírói munkakörbe,
 
-e) kijelöli – a bírák jogállásáról és javadalmazásáról szóló törvényben foglaltak szerint – a Be. 17. §-ának (5) és (6) bekezdésében, továbbá 448. §-ának (2) bekezdésében meghatározott ügyekben ítélkező bírákat, valamint a törvényszék elnökének javaslatára a törvényszéken közigazgatási és munkaügyi ügyekben eljáró bírákat,
+e) kijelöli – a bírák jogállásáról és javadalmazásáról szóló törvényben foglaltak szerint – a Be. 17. § (5) és (6) bekezdésében, továbbá 448. § (2) bekezdésében meghatározott ügyekben ítélkező bírákat és a bírósági közvetítői tevékenységet végző bírákat, valamint a törvényszék elnökének javaslatára a törvényszéken közigazgatási és munkaügyi ügyekben eljáró bírákat, továbbá dönt a bírák jogállásáról és javadalmazásáról szóló törvényben foglaltak szerint a kijelölés megszüntetéséről,
 
 f) beoszthatja a bírót a Kúriára, az OBH-ba, továbbá az igazságügyért felelős miniszter által vezetett a minisztériumba, illetve dönt a beosztás megszüntetéséről és a bírónak ismét tényleges bírói álláshelyre történő beosztásáról,
 
@@ -98,9 +98,9 @@ a) dönt a központi oktatási feladatokról és felügyeli azok végrehajtásá
 
 b) meghatározza a bírák képzési rendszerének és a képzési kötelezettség teljesítésének szabályait,
 
-c) a legfőbb ügyész előzetes véleményének kikérését követően kinevezi a Magyar Igazságügyi Akadémia vezetőjét,
+c) kinevezi a Magyar Igazságügyi Akadémia vezetőjét,
 
-d) a legfőbb ügyésszel együtt meghatározza a bírósági és ügyészségi fogalmazók egységes központi képzésének rendszerét.
+d) meghatározza a bírósági fogalmazók egységes központi képzésének rendszerét.
 
 (8) Az OBH elnöke a tájékoztatással kapcsolatos feladatkörében
 
@@ -125,3 +125,21 @@ b) ha a bírák jogállásáról és javadalmazásáról szóló törvény szeri
 c) biztosítja az érdek-képviseleti szervek jogainak gyakorlását, és
 
 d) ellátja a jogszabály által hatáskörébe utalt egyéb feladatokat.
+
+(10) Az OBH elnökét
+
+a) az általános központi igazgatással,
+
+b) a létszámgazdálkodással,
+
+c) a bíróságok költségvetésével,
+
+d) a statisztikai adatgyűjtéssel, az ügyelosztással és a munkateher méréssel,
+
+e) a személyzeti kérdésekkel,
+
+f) a bíróságok igazgatásával és
+
+g) a képzéssel
+
+kapcsolatos feladatai ellátásához szükséges mértékben megilleti a fejezethez tartozó költségvetési szerveknél kezelt adatok kezelésének joga.

@@ -47,3 +47,5 @@ s) kezdeményezheti az Alkotmánybíróságnál a jogszabályok Alaptörvénnyel
 t) ellátja azokat az egyéb feladatokat, amelyeket jogszabály, az OBH elnökének szabályzata vagy az OBH elnökének határozata a hatáskörébe utal.
 
 (2) Az (1) bekezdés b) és c) pontjában meghatározott beszámolókat és tájékoztatókat a központi honlapon, továbbá a bíróságok hivatalos lapjában közzé kell tenni.
+
+(3) A Kúria elnöke az (1) bekezdés e), g)–j), n), r) és t) pontjában meghatározott feladatait a Kúria főtitkára, valamint a Kúria főtitkár-helyettese közreműködése útján is gyakorolhatja a szervezeti és működési szabályzatban meghatározottak szerint.

@@ -8,6 +8,10 @@ b) a bírói szolgálati viszony megszűnésével,
 
 c) közös megegyezéssel,
 
-d) lemondással, vagy
+d) lemondással,
 
-e) felmentéssel.
+e) felmentéssel,
+
+f) ha a határozott időre kinevezett bírósági vezető által vezetett bírói testület, szervezeti egység vagy szervezet megszűnik, vagy
+
+g) ha a bírót kérelmére rendelkezési állományba helyezik.
