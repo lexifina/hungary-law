@@ -1,5 +1,3 @@
-## 7. § Ahol az elektronikus kapcsolattartás lehetősége biztosított, az ügyfél eltérő tartalmú ügyintézési rendelkezése hiányában elektronikus kapcsolattartás keretében beadványát e jogszabály szerint, hatósági ügyintézés során használható elektronikus aláírással ellátott elektronikus dokumentumként vagy a jogszabályban meghatározott körben a külön jogszabály szerinti ÁNYK űrlap benyújtás támogatási szolgáltatás keretében nyújthatja be. Az ügyfél az ügyintézési rendelkezésben további kapcsolattartási módot jelölhet meg, amelynek keretében az általa előterjesztett beadványokat a hatóság – amennyiben az adott kapcsolattartási módot biztosítja – köteles az ügyféltől elfogadni.
-
 8. § (1) A hatóság az elektronikus kapcsolattartás lehetőségét a következő módon biztosíthatja:
 
 a) olyan ügyintézési felület útján, amely az eljárási cselekmény végzése során feltételezi az ügyfél és a hatóság közötti kölcsönös és összefüggő adatcserét és kétirányú kapcsolatot (a továbbiakban: párbeszédre épülő elektronikus ügyintézés); vagy

@@ -1,4 +1,4 @@
-## 21. § A hatóság az azonosítás ellenőrzés SZEÜSZ keretében olyan azonosítási szolgáltatások elfogadását is biztosíthatja, melynek szolgáltatói nem szerepelnek az azonosítási szolgáltatások nyilvántartásában, ha a rendelkezésére álló dokumentumokból egyértelműen megállapítható, hogy az azonosítási szolgáltatás az azonosítás elfogadás SZEÜSZ feltételeinek megfelel.
+## 21. §[^6]
 
 ## 2. Dokumentumhitelesítés
 
@@ -10,6 +10,13 @@ a) jogszabályban meghatározott követelményeknek megfelelő, legalább fokozo
 
 b) az azonosításra visszavezetett dokumentumhitelesítés szabályai szerint,
 
-c) az iratérvényességi nyilvántartásban történő elhelyezéssel, az iratérvényességi nyilvántartásra vonatkozó szabályok szerint, vagy
+c)[^7] az iratérvényességi nyilvántartásban történő elhelyezéssel, az iratérvényességi nyilvántartásra vonatkozó szabályok szerint,
 
-d) kizárólag a hatóság zárt informatikai rendszerében történő felhasználás esetén az ilyen esetekre az informatikáért felelős miniszter által kiadott rendeletben meghatározott módon és feltételekkel.
+d)[^8] kizárólag a hatóság zárt informatikai rendszerében történő felhasználás esetén az ilyen esetekre az informatikáért felelős miniszter által kiadott rendeletben meghatározott módon és feltételekkel, vagy
+
+e)[^9] valamely SZEÜSZ tekintetében jogszabály által megengedett további hitelesítési mód alkalmazásával.
+
+[^6]: A 21. §-t az 515/2013. (XII. 30.) Korm. rendelet 32. § (8) bekezdés b) pontja hatályon kívül helyezte.
+[^7]: A 22. § (2) bekezdés c) pontja az 515/2013. (XII. 30.) Korm. rendelet 32. § (5) bekezdésével megállapított szöveg.
+[^8]: A 22. § (2) bekezdés d) pontja az 515/2013. (XII. 30.) Korm. rendelet 32. § (5) bekezdésével megállapított szöveg.
+[^9]: A 22. § (2) bekezdés e) pontját az 515/2013. (XII. 30.) Korm. rendelet 32. § (5) bekezdése iktatta be.

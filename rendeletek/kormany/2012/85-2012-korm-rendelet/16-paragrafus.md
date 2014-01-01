@@ -1,5 +1,3 @@
-## 15. § Az ügyintézési rendelkezésben tett meghatalmazást a hatóság köteles elfogadni akkor is, ha egyébként az adott eljárástípusban a meghatalmazásra jogszabály űrlap alkalmazását írja elő, feltéve, hogy az űrlap által megkövetelt adatokat az ügyintézési rendelkezésben tett meghatalmazás tartalmazza.
-
 ## V. Fejezet
 
 ## AZONOSÍTÁS ÉS DOKUMENTUMHITELESÍTÉS
@@ -27,3 +25,7 @@ c) az ügyintézési rendelkezésben rögzített azonosító adatokkal,
 d) olyan, a hatóság informatikai rendszerében kezelt személyazonosító adatokkal, amelyekből a rendszer valamely közhiteles nyilvántartáson keresztüli ellenőrzés útján az ügyfél személyének az adott személyhez rendeltségét ellenőrizheti, vagy
 
 e) a hatóság saját nyilvántartásában szereplő, egyértelmű hozzárendeléshez elegendő adatokkal.
+
+(7)[^5] A hatóság a párbeszédre épülő elektronikus ügyintézés során indokolt esetben, különösen biztonsági szempontból kiemelt eljárási cselekmények elvégzését megelőzően köteles gondoskodni az azonosság ismételt ellenőrzéséről.
+
+[^5]: A 16. § (7) bekezdését az 515/2013. (XII. 30.) Korm. rendelet 32. § (4) bekezdése iktatta be.

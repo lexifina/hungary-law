@@ -4,10 +4,12 @@
 
 (3) A hatóság – ha azzal rendelkezik vagy azt használja – közzétehet olyan nyilvános kulcsú infrastruktúrára épülő nyilvános kulcsot vagy az ilyen kulcsot tartalmazó tanúsítványa nyilvántartásának elérhetőségére történő hivatkozást, amely lehetővé teszi, hogy az ügyfél vagy az eljárás egyéb résztvevője (a továbbiakban: ügyfél) a hatóság részére küldendő beadványait a felügyelet által kiadott ajánlásban meghatározott formátumban titkosítva beküldje.
 
-(4) Az ügyfél elektronikus kapcsolattartás keretében a hatóság által a Ket. 169. § (1) bekezdés a) pontja szerint közzétett tájékoztatásban foglaltaknak megfelelő elektronikus utat alkalmazhatja.
+(4)[^1] Az ügyfél elektronikus kapcsolattartás keretében a hatóság által közzétett tájékoztatásban foglaltaknak megfelelő elektronikus utat alkalmazhatja.
 
 (5) A hatóság elektronikus ügyintézése során alkalmazott elektronikus út keretében szükség szerint
 
 a) a papír alapon beérkező iratról hiteles elektronikus másolatot,
 
 b) az elektronikus úton meghozott döntésről hiteles papír alapú kiadmányt vagy másolatot készít vagy készíttet.
+
+[^1]: A 3. § (4) bekezdése az 515/2013. (XII. 30.) Korm. rendelet 32. § (8) bekezdés a) pontja szerint módosított szöveg.
