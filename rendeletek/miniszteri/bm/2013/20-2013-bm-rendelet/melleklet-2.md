@@ -92,7 +92,19 @@
 
 | 45. | 44. | 53 | 861 | 10 | Tűzvédelmi főelőadó | Közszolgálat |
 
-2. melléklet a 20/2013. (V. 28.) BM rendelethez
+| 46. | 45. | 31 | 853 | 01 | Csatornamű-kezelő | Vízgazdálkodás |
+
+| 47. | 46. | 31 | 853 | 02 | Fürdőüzemi gépész | Vízgazdálkodás |
+
+| 48. | 47. | 34 | 853 | 01 | Víz- és csatornaműkezelő | Vízgazdálkodás |
+
+| 49. | 48. | 51 | 853 | 01 | Víz- és szennyvízkezelő | Vízgazdálkodás |
+
+| 50. | 49. | 31 | 853 | 04 | Vízműkezelő | Vízgazdálkodás |
+
+| 51. | 50. | 54 | 853 | 01 | Vízügyi technikus | Vízgazdálkodás |
+
+2. melléklet a 20/2013. (V. 28.) BM rendelethez[^4]
 
 Az 1. sorszámú Biztonságszervező megnevezésű szakképesítés szakmai és vizsgakövetelménye
 
@@ -6024,40 +6036,4 @@ A szakképesítéssel kapcsolatos előírások az állami szakképzési és feln
 
 7.3. A szakképző intézménybe – a munkáltató által támogatott szakképesítésre – történő jelentkezést a Belügyminisztériumban és a rendvédelmi szerveknél hivatásos szolgálati jogviszonyban, kormányzati szolgálati jogviszonyban, közalkalmazotti jogviszonyban, továbbá munkaviszonyban lévő, az állam által elismert felsőfokú (egyetemi vagy főiskolai) végzettséggel rendelkező nyújthat be.
 
-7.4. A Rendészeti szervező (Iparbiztonsági szervező, Katasztrófavédelmi szervező és Tűzvédelmi szervező) szakmairányok esetén a képzésben részt vevők és a vizsgázók részére az egyéni védőfelszereléseket a beiskolázó biztosítja.
-
-A 23. sorszámú Rendőr tiszthelyettes (a szakmairány megjelölésével) megnevezésű szakképesítés
-
-szakmai és vizsgakövetelménye
-
-1. AZ ORSZÁGOS KÉPZÉSI JEGYZÉKBEN SZEREPLŐ ADATOK
-
-1.1. A szakképesítés azonosító száma: 54 861 01
-
-1.2. Szakképesítés megnevezése: Rendőr tiszthelyettes (Bűnügyi rendőr; Határrendészeti rendőr; Közlekedési rendőr; Közrendvédelmi rendőr)
-
-1.3. Iskolai rendszerű szakképzésben a szakképzési évfolyamok száma: 2
-
-1.4. Iskolarendszeren kívüli szakképzésben az óraszám: 1800-2500
-
-2. EGYÉB ADATOK
-
-2.1. A képzés megkezdésének feltételei:
-
-2.1.1. Iskolai előképzettség: érettségi végzettség
-
-2.1.2. Bemeneti kompetenciák: -
-
-2.2. Szakmai előképzettség: -
-
-2.3. Előírt gyakorlat: -
-
-2.4. Egészségügyi alkalmassági követelmények: szükségesek
-
-2.5. Pályaalkalmassági követelmények: szükségesek
-
-2.6. Elméleti képzési idő aránya: 50%
-
-2.7. Gyakorlati képzési idő aránya: 50%
-
-2.8. Szintvizsga: -
+[^4]: A 2. melléklet a 83/2013. (XII. 31.) BM rendelet 2. § b) pontja szerint módosított szöveg.
