@@ -2460,6 +2460,8 @@
 
 ## (3) A termálvíz termálfürdőben való hasznosítása (ill. gyógyászati célú hasznosítása) után a használt termálvíz a hidegvizes medencék vizével keverve is a befogadóba vezethető.
 
+## (4) A Nátrium-egyenérték % követelményt kizárólag az öntözési hasznosítású befogadók esetén és azok esetében az öntözési időszakban kell alkalmazni.
+
 ## 35. Fejezet
 
 ## Hulladéklerakás
@@ -2618,7 +2620,7 @@
 
 | BTEX (benzol, toluol, etil-benzol, xilol) | 0,2 |
 
-2. számú melléklet a 28/2004. (XII. 25.) KvVM rendelethez[^4]
+2. számú melléklet a 28/2004. (XII. 25.) KvVM rendelethez[^5]
 
 ## A szennyvizek befogadóba való közvetlen bevezetésére vonatkozó, vízminőségvédelmi területi kategóriák szerint meghatározott kibocsátási határértékek
 
@@ -2718,7 +2720,7 @@
 
 ## (8) A 2000 LE alatti települési szennyvíztisztító telepek esetében a november 15. és április 30. közötti időszakban a kibocsátásra határérték nem vonatkozik.
 
-## (9) Települési szennyvíztisztító telepeknél teljesítése alól felmentés adható.
+## (9) Kizárólag az öntözési hasznosítású vízfolyás befogadók esetén és az öntözési időszakban alkalmazható, települési szennyvíztisztító telepeknél a teljesítése alól felmentés adható.
 
 ## (10) Befogadó vízfolyásba történő bevezetés esetén a határérték csak a befogadó terhelhetőségére alapozott indoklással adható ki. Egyéb indokolt esetben a hatóság enyhébb határértéket engedélyezhet.
 
@@ -2769,4 +2771,4 @@ A felszín alatti vizek védelméről szóló 219/2004. (VII. 21.) Korm. rendele
 4. Általánosan védett befogadók: minden az 1., 2. és 3. kategóriába nem tartozó felszíni víz befogadó.”
 
 [^*,]: Természetes anyagú bioszűrőt, mikro és makro élő szervezeteket, esetenként növényeket és napfényt is igénybevevő szennyvíztisztítási eljárás, amely a természet öntisztulási folyamataira alapoz, a szennyező anyag lebontásához szükséges oxigén mesterséges bevitele nélkül, a szennyvizek és szennyvíziszapok mezőgazdasági felhasználásának és kezelésének szabályairól szóló 50/2001. (IV. 3.) Korm. rendelet hatálya alá tartozó tevékenységek kivételével.
-[^4]: A 2. számú melléklet a Magyar Közlöny 2005. évi 12. számában megjelent helyesbítésnek megfelelő szöveg.
+[^5]: A 2. számú melléklet a Magyar Közlöny 2005. évi 12. számában megjelent helyesbítésnek megfelelő szöveg. A 2. számú melléklet a 136/2013. (XII. 31.) VM rendelet 1. § (3) bekezdése szerint módosított szöveg.

@@ -6,7 +6,7 @@ a) technológiai határérték: egyes gazdasági, háztartási, település-üze
 
 b) területi határérték: a vízszennyező anyag közvetlen bevezetésére, a vízminőség-védelmi területi kategóriák figyelembevételével a 2. számú melléklet szerint megállapított kibocsátási koncentráció érték,
 
-c) egyedi határérték: közvetlen bevezetés esetén, az illetékes környezetvédelmi felügyelőség (a továbbiakban: hatóság ) által az 5. számú melléklet szerint megállapítható, egy adott szennyező anyagra vonatkozó ideiglenes kibocsátási koncentráció érték,
+c)[^1] egyedi határérték: közvetlen bevezetés esetén, az illetékes környezetvédelmi felügyelőség (a továbbiakban: hatóság) által az 5. számú melléklet szerint megállapítható, egy adott szennyező anyagra vonatkozó kibocsátási koncentráció érték,
 
 d) egyedi küszöbérték: közcsatornára való vezetés esetén, a hatóság által megállapítható, egy adott szennyező anyagra vonatkozó ideiglenes bebocsátási koncentráció érték,
 
@@ -19,3 +19,5 @@ g) keletkezési hely: olyan mintavételi pont, ahol egy adott kibocsátó hely s
 h) egyesített szennyvíz: különböző kibocsátó helyekről származó szennyvizek közösen elvezetett elegye,
 
 i) keverék (elegy) számítás: egyesített szennyvizek megengedhető határértékének meghatározása.
+
+[^1]: A 2. § c) pontja a 136/2013. (XII. 31.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.

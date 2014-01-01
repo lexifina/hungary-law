@@ -6,7 +6,7 @@
 
 (2) Azon határértékeket megállapító határozatok érvényességét, melyeket a hatóság a 9/2002. (III. 22.) KöM–KöViM együttes rendelet és a 203/2001. (X. 26.) Korm. rendelet alapján állapított meg, e rendelet hatálybalépése nem érinti.
 
-(3)[^2]
+(3)[^3]
 
 (4) Ez a rendelet a következő irányelveknek való megfelelést szolgálja:
 
@@ -32,4 +32,4 @@ j) az elérhető legjobb technika alapján meghatározott kibocsátási határé
 
 k) a Tanács a vízpolitika területén a közösségi cselekvés kereteinek meghatározásáról szóló 2000/60/EK irányelve 11. cikk, 3. bekezdése; IX és X. melléklet.
 
-[^2]: A 7. § (3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 31. §-ának 68. pontja hatályon kívül helyezte.
+[^3]: A 7. § (3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 31. §-ának 68. pontja hatályon kívül helyezte.
