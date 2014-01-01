@@ -16,7 +16,7 @@ b) az (1) bekezdés szerinti kérelemben az ellátásban részesülővel közös
 
 c) az a) és b) pontban meghatározott személyek személyi jövedelemadóról szóló bevallásában kedvezményezett eltartottként megjelölt személyek természetes személyazonosító adatait és lakóhelyét, illetve a várandósságról szóló nyilatkozat tényét, valamint
 
-d) az a) és b) pontban megjelölt személyek által az adóévben igénybe vett családi kedvezmény összegét.
+d)[^4] az a) és b) pontban megjelölt személyek által az adóévben igénybe vett családi kedvezmény és családi járulékkedvezmény összegét.
 
 (4) A családi pótlékot folyósító szerv az ellátásban részesülőnek vagy vele közös háztartásban élő házastársának, élettársának – az adóévet követően benyújtott – kérelmére igazolást állít ki a családi pótlék adóévi jogosultságáról. Az igazolás tartalmazza
 
@@ -30,9 +30,9 @@ c) azoknak az Szja. tv. 29/A. § (5) bekezdés b) pontja szerinti eltartottaknak
 
 a) az ellátásban részesülő, vele közös háztartásban élő házastársa, élettársa és az eltartottak természetes személyazonosító adatait, lakóhelyét, tartózkodási helyét és Társadalombiztosítási Azonosító Jelét,
 
-b) a nyilatkozatot a családi kedvezmény jogcíméről,
+b)[^5] a nyilatkozatot a családi kedvezmény, családi járulékkedvezmény jogcíméről,
 
-c) a nyilatkozatot a családi kedvezmény feltételeinek való megfelelésről, és
+c)[^6] a nyilatkozatot a családi kedvezmény, családi járulékkedvezmény feltételeinek való megfelelésről, és
 
 d) a T. 4. § (4) bekezdése, illetve 5. § (5) bekezdése alapján igényelt összeget.
 
@@ -47,3 +47,7 @@ c) az Szja. tv. 29/A. § (4) bekezdés b) pontja szerinti kedvezményezett eltar
 (7) A T. 4. § (4) bekezdése, illetve 5. § (5) bekezdése alapján járó összeget az Szja. tv. 29/A. §-ának és 29/B. § (1) bekezdésének megfelelő alkalmazásával kell megállapítani azzal, hogy ez az összeg nem lehet magasabb az ellátás – a T. 4. § (2) bekezdése, illetve 5. § (2) bekezdése szerinti – csökkentésének az adóévre számított teljes összegénél.
 
 (8) Az (5) bekezdés szerinti kérelemről a Nyugdíjfolyósító Igazgatóság dönt. Az ellátásban részesülőnek a T. 4. § (4) bekezdése, illetve 5. § (5) bekezdése alapján megállapított összeget a Nyugdíjfolyósító Igazgatóság a határozat végrehajthatóvá válásától számított tíz munkanapon belül folyósítja.
+
+[^4]: A 9. § (3) bekezdés d) pontja az 500/2013. (XII. 29.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
+[^5]: A 9. § (5) bekezdés b) pontja az 500/2013. (XII. 29.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
+[^6]: A 9. § (5) bekezdés c) pontja az 500/2013. (XII. 29.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.

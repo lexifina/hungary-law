@@ -6,17 +6,20 @@
 
 a) a szolgálati járandóság megállapításával kapcsolatos hatósági ügyekben, és
 
-b) a korhatár előtti ellátás, a balettművészeti életjáradék és az átmeneti bányászjáradék megállapításával kapcsolatos hatósági ügyekben, ha
+b)[^2] a korhatár előtti ellátás, a balettművészeti életjáradék és az átmeneti bányászjáradék megállapításával kapcsolatos hatósági ügyekben, ha
 
 ba) a kérelmező utolsó biztosítással járó jogviszonya hivatásos szolgálati viszony volt,
 
-bb) a korhatár előtti ellátást, a balettművészeti életjáradékot, illetve az átmeneti bányászjáradékot a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló európai uniós rendeletek vagy szociális biztonsági (szociálpolitikai) egyezmények alkalmazásával kell megállapítani, vagy
+bb) a kérelmező korábban szolgálati viszonyban állt valamelyik nemzetbiztonsági szolgálattal,
 
-bc) a kérelmező magyarországi lakóhellyel nem rendelkezik.
+bc) a korhatár előtti ellátást, a balettművészeti életjáradékot, illetve az átmeneti bányászjáradékot a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló európai uniós rendeletek vagy szociális biztonsági (szociálpolitikai) egyezmények alkalmazásával kell megállapítani, vagy
 
-(3)[^2]
+bd) a kérelmező magyarországi lakóhellyel nem rendelkezik.
+
+(3)[^3]
 
 (4) A büntetőeljárásban részt vevők és az igazságszolgáltatást segítők Védelmi Programjában részt vevő kérelmező esetén a korhatár előtti ellátás, a szolgálati járandóság, a balettművészeti életjáradék és az átmeneti bányászjáradék (a továbbiakban együtt: ellátás) megállapításával kapcsolatos ügyekben a Tanúvédelmi Szolgálat jár el első fokon.
 
 [^1]: Az 1. § (2) bekezdés nyitó szövegrésze a 60/2012. (III. 30.) Korm. rendelet 16. §-a, a 91/2013. (III. 28.) Korm. rendelet 6. §-a szerint módosított szöveg.
-[^2]: Az 1. § (3) bekezdését a 91/2013. (III. 28.) Korm. rendelet 7. §-a hatályon kívül helyezte.
+[^2]: Az 1. § (2) bekezdés b) pontja az 500/2013. (XII. 29.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^3]: Az 1. § (3) bekezdését a 91/2013. (III. 28.) Korm. rendelet 7. §-a hatályon kívül helyezte.
