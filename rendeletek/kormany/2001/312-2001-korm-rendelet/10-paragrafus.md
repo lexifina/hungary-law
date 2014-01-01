@@ -1,6 +1,6 @@
 ## Minősítés
 
-10. §[^79] (1) A Mehib Rt. az ügylethez közvetlenül vagy közvetve kapcsolódó kockázatok minősítésének módját és az alkalmazandó eljárásokat belső szabályzataiban rögzíti. A kockázatokat első alkalommal a biztosítási szerződés megkötése előtt minősíti. A Mehib Rt. e minősítés alapján határozza meg az esetleg szükséges kockázati felárat, amelynek módosítására a kockázatviselés megkezdése után nem kerülhet sor. A Mehib Rt. az ügyleteihez kapcsolódó kockázatait köteles szükség szerint, de legalább évente minősíteni.
+10. §[^82] (1) A Mehib Rt. az ügylethez közvetlenül vagy közvetve kapcsolódó kockázatok minősítésének módját és az alkalmazandó eljárásokat belső szabályzataiban rögzíti. A kockázatokat első alkalommal a biztosítási szerződés megkötése előtt minősíti. A Mehib Rt. e minősítés alapján határozza meg az esetleg szükséges kockázati felárat, amelynek módosítására a kockázatviselés megkezdése után nem kerülhet sor. A Mehib Rt. az ügyleteihez kapcsolódó kockázatait köteles szükség szerint, de legalább évente minősíteni.
 
 (2) Az adós minősítésekor a Mehib Rt. figyelembe veszi az adós tényleges jogi és pénzügyi státuszát.
 
@@ -10,4 +10,4 @@
 
 (5) A Mehib Rt. igazgatósága a mindenkori éves költségvetési törvényben rögzített biztosítási állomány felső határát és az országkockázati besorolást alapul véve félévenként vagy szükség szerint megállapítja az országlimiteket.
 
-[^79]: A 10. § a 437/2012. (XII. 29.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^82]: A 10. § a 437/2012. (XII. 29.) Korm. rendelet 11. §-ával megállapított szöveg.

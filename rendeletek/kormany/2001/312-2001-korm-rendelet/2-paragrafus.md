@@ -54,11 +54,13 @@ t)[^19] közép- és hosszú lejáratú ügylet: azon ügylet, amely esetén a b
 
 u)[^20] forgalmi típusú módozat: az a biztosításai módozat, amely esetén a Mehib Rt. kockázatviselése a biztosított vagy exportőr és az adós vagy megrendelő közötti külkereskedelmi kapcsolatokból eredő követelésekre terjed ki;
 
-v)[^21] egyéb módozat: az o), q), r), d), g) pontban meghatározott termékekhez nyújtott biztosítás és az olyan biztosítási módozatok, amelyek nem tartoznak sem az egyedi, sem a forgalmi típusú módozatokba vagy ezek egyes feltételeit vegyesen tartalmazzák.
+v)[^21] egyéb módozat: az o), q), r), d), g) pontban meghatározott termékekhez nyújtott biztosítás és az olyan biztosítási módozatok, amelyek nem tartoznak sem az egyedi, sem a forgalmi típusú módozatokba vagy ezek egyes feltételeit vegyesen tartalmazzák;
+
+w)[^22] faktoring biztosítás: a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény 3. § (1) bekezdés l) pontjában meghatározott pénzügyi szolgáltatási tevékenységhez az Etv. 3. § (3) bekezdés a) és b) pontjában foglaltaknak megfelelően nyújtott biztosítási vagy viszontbiztosítási fedezet.
 
 (2) Az állami adósra vonatkozó előírásokat kell alkalmazni az (1) bekezdés b) pontja szerinti szervezet esetében, ha a kötelezettségeiért az állami adós, mint kezes vállal felelősséget.
 
-(3)[^22] Jelen rendelet alkalmazásában a külföldi vállalkozásnak nyújtott tulajdonosi hitel, illetve a tulajdonos által a külföldi vállalkozás hitelfelvételéhez vállalt jogszabályban nevesített fizetési kötelezettség ugyanolyan megítélés alá esik, mint a 2. § (1) bekezdés da) pontja szerinti befektetett tőke;
+(3)[^23] Jelen rendelet alkalmazásában a külföldi vállalkozásnak nyújtott tulajdonosi hitel, illetve a tulajdonos által a külföldi vállalkozás hitelfelvételéhez vállalt jogszabályban nevesített fizetési kötelezettség ugyanolyan megítélés alá esik, mint a 2. § (1) bekezdés da) pontja szerinti befektetett tőke;
 
 [^2]: A 2. § (1) bekezdés c) pontja az 50/2010. (III. 9.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^3]: A 2. § (1) bekezdésének d) pontja a 303/2005. (XII. 25.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg. E módosító rendelet 19. § (1) bekezdése alapján a rendelkezés a 2006. január 1. napja után kötött szerződésekre irányadó.
@@ -80,4 +82,5 @@ v)[^21] egyéb módozat: az o), q), r), d), g) pontban meghatározott termékekh
 [^19]: A 2. § (1) bekezdés t) pontját a 437/2012. (XII. 29.) Korm. rendelet 2. § (3) bekezdése iktatta be.
 [^20]: A 2. § (1) bekezdés u) pontját a 437/2012. (XII. 29.) Korm. rendelet 2. § (3) bekezdése iktatta be.
 [^21]: A 2. § (1) bekezdés v) pontját a 185/2013. (VI. 7.) Korm. rendelet 2. §-a iktatta be.
-[^22]: A 2. § (3) bekezdését a 303/2005. (XII. 25.) Korm. rendelet 2. §-a iktatta be. E módosító rendelet 19. § (1) bekezdése alapján a rendelkezés a 2006. január 1. napja után kötött szerződésekre irányadó.
+[^22]: A 2. § (1) bekezdés w) pontját az 537/2013. (XII. 30.) Korm. rendelet 31. §-a iktatta be.
+[^23]: A 2. § (3) bekezdését a 303/2005. (XII. 25.) Korm. rendelet 2. §-a iktatta be. E módosító rendelet 19. § (1) bekezdése alapján a rendelkezés a 2006. január 1. napja után kötött szerződésekre irányadó.
