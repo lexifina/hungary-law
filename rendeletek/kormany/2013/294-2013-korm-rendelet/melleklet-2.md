@@ -6,9 +6,9 @@
 
 | 2. | a) Normafa Park történelmi sportterület kialakításához szükséges éwpítmények, építményrészek építése, átalakítása, bővítése, felújítása, bontása; b) a Normafa Park történelmi sportterületén fogadó épület, engesztelő kápolna, sípályák felvonókkal, hóágyúkkal, térvilágítással; szánkó pályák; sífutó pályák; játszóterek; nyári bobpálya; kocogó és kerékpár pályák és további szabadtéri sportolási lehetőségek kialakítása és kiszolgáló funkciójú építmények, létesítmények, infrastruktúra megvalósítása, üzembe helyezése; c) közlekedési területek, tömegközlekedési bázisterületek kialakítása, felújítása, parkolók létesítése; d) fogaskerekű vasút korszerűsítése, nyomvonalának meghosszabbítása. | általános építésügyi és építésfelügyeleti hatósági eljárások | Budapest Főváros Kormányhivatala I. Kerületi Hivatalának Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
-| 3. | környezetvédelmi hatósági eljárások | Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 3. | környezetvédelmi hatósági eljárások | Közép-Duna-völgyi Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
-| 4. | természetvédelmi hatósági eljárások | Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 4. | természetvédelmi hatósági eljárások | Közép-Duna-völgyi Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
 | 5. | területrendezési hatósági eljárások | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatalának állami főépítésze | nincs |
 
@@ -26,7 +26,7 @@
 
 | 12. | erdészeti hatósági eljárások, erdő igénybevétele és fakitermelés bejelentése | Pest Megyei Kormányhivatal Erdészeti Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| 13. | vízügyi hatósági eljárások | Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 13. | vízügyi hatósági eljárások | Közép-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
 | 14. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | Fővárosi Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
@@ -40,7 +40,7 @@
 
 | 19. | üzletek működési engedélyezési eljárása | Budapest Főváros XII. kerület Hegyvidéki Önkormányzat jegyzője | Budapest Főváros Kormányhivatala |
 
-2. melléklet a 294/2013. (VII. 26.) Korm. rendelethez
+2. melléklet a 294/2013. (VII. 26.) Korm. rendelethez[^2]
 
 A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósításához szükséges hatósági eljárásokban közreműködő hatáskörrel rendelkező szakhatóságok
 
@@ -50,7 +50,9 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 | 2. | építésügy | Budapest Főváros Kormányhivatala I. Kerületi Hivatalának Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
-| 3. | környezetvédelem, természetvédelem és vízügy | Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 3. | környezetvédelem, természetvédelem | Közép-Duna-völgyi Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+
+| 3a. | vízügy | Közép-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
 | 4. | katasztrófavédelem és tűzvédelem | Fővárosi Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
@@ -83,3 +85,5 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 | 18. | a településrendezési követelményeknek és a helyi építési szabályzatnak való megfelelőség | Budapest Főváros XII. kerület Hegyvidéki Önkormányzat jegyzője | Budapest Főváros Kormányhivatala |
 
 | 19. | helyi környezet- és természetvédelem | Budapest Főváros II. Kerületi Önkormányzat jegyzője | Budapest Főváros Kormányhivatala |
+
+[^2]: A 2. melléklet az 527/2013. (XII. 30.) Korm. rendelet 149. § (2) bekezdése szerint módosított szöveg.
