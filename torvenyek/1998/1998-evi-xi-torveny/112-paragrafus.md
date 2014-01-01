@@ -6,7 +6,7 @@ b) az ügyvédi névhasználatról,
 
 c) a kamarai felvétel eljárási szabályairól,
 
-d) a gondnok jogköréről és eljárásáról,
+d) az irodagondnok jogköréről, feladatairól, valamint eljárásának és díjazásának részletszabályairól,
 
 e) a felelősségbiztosítás legalacsonyabb összegéről,
 
@@ -18,7 +18,7 @@ h) a kamarai tisztségviselők választásáról és visszahívásáról,
 
 i) a meghalt ügyvéd iratainak rendezéséről,
 
-j) a letét- és pénzkezelés szabályairól,
+j) a letét- és pénzkezelés, valamint a letétnyilvántartás részletes szabályairól,
 
 k) az 5. § (3) bekezdésének h) pontjában meghatározott tevékenység végzésének technikai feltételeiről, az ilyen tevékenységet végző ügyvédek, ügyvédi irodák nyilvántartásáról, az eredeti papíralapú okiratok őrzésének – ideértve az ügyvédi tevékenység szüneteltetése esetén követendő eljárást is – részletes szabályairól, az ügyvédi levéltár működéséről és az okiratok ügyvédi levéltárban történő elhelyezésének, kezelésének, továbbá a cégbíróság felhívására történő bemutatásának szabályairól,
 
@@ -30,7 +30,9 @@ n) az ügyvédjelöltek képzésének szabályairól, az ügyvédek és ügyvéd
 
 o) az ügyvédjelöltek foglalkoztatásának tárgyi feltételeiről,
 
-p) minden olyan kérdésben, amelyre az Alapszabály feljogosítja.
+p) a biztonsági jel gyártásával, beszerzésével, rendelkezésre bocsátásával, kezelésével, felhasználásával, a biztonsági jel felhasználásának nyilvántartásával, a biztonsági jel ellenértékének megfizetésével és nyilvántartásával, valamint az ezekkel összefüggő kamarai feladatok ellátásával kapcsolatos részletes szabályokról, továbbá a biztonsági jel ellenértékének összegéről,
+
+q) minden olyan kérdésben, amelyre az Alapszabály feljogosítja.
 
 (2) A teljes ülés az ügyvédi működésre vonatkozóan iránymutatást adhat ki.
 

@@ -2,7 +2,7 @@
 
 96/A. § (1) A kamara a tagjairól vezetett névjegyzékbe az ügyvédjelölt foglalkoztatására való jogosultságot az ügyvéd részére – kérelemre – bejegyzi, ha
 
-a) a kérelem benyújtását megelőzően legalább két évig folyamatosan ügyvédi tevékenységet folytatott anélkül, hogy tevékenységét szüneteltette volna,
+a) legalább két évig ügyvédi tevékenységet folytatott,
 
 b) nem áll fegyelmi büntetés hatálya alatt,
 

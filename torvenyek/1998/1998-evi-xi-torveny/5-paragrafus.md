@@ -36,7 +36,7 @@ h)
 
 i) külön törvényben szabályozott közbeszerzési békéltetői tevékenység, valamint hivatalos közbeszerzési tanácsadói tevékenység,
 
-j)
+j) bejelentővédelmi ügyvédi tevékenység.
 
 k)
 
