@@ -1,4 +1,4 @@
-19. §[^47] (1) A felügyelőség a kibocsátó kérelmére vagy hivatalból egyedi határértéket állapíthat meg
+19. §[^49] (1)[^50] A vízvédelmi hatóság a kibocsátó kérelmére vagy hivatalból egyedi határértéket állapíthat meg
 
 a) a 2. számú melléklet 2.9. pontjában meghatározott anyagok tekintetében a kibocsátásra, vagy
 
@@ -8,13 +8,13 @@ b) a vízszennyező anyagok kibocsátásaira vonatkozó határértékekről és 
 
 a) a befogadó terhelhetőségét,
 
-b)[^48]
+b)[^51]
 
 c) a jó kémiai és ökológiai állapot megőrzésének, szükség szerinti elérésének szempontjait, valamint
 
-d)[^49]
+d)[^52]
 
-(2a)[^50] Ha a termálvíz hasznosításából keletkező szennyvíz bevezetése a hatásterületen lévő befogadó vízfolyás-rendszer hasznosítását veszélyezteti, a szennyvizet a hatóság által meghatározott időszakban és módon, a vízhasználat veszélyeztetése nélkül lehet bevezetni a vízfolyásba.
+(2a)[^53] Ha a termálvíz hasznosításából keletkező szennyvíz bevezetése a hatásterületen lévő befogadó vízfolyás-rendszer hasznosítását veszélyezteti, a szennyvizet a hatóság által meghatározott időszakban és módon, a vízhasználat veszélyeztetése nélkül lehet bevezetni a vízfolyásba.
 
 (3) A vízszennyező anyagok kibocsátásaira vonatkozó határértékekről és alkalmazásuk egyes szabályairól szóló miniszteri rendeletben meghatározott legkisebb és legnagyobb határértéktől eltérni nem lehet. Nem lehet enyhébb határértéket megállapítani
 
@@ -22,9 +22,11 @@ a) azokra a felszíni vizeket szennyező elsőbbségi és egyéb veszélyes anya
 
 b) a vízszennyező anyagok kibocsátásaira vonatkozó határértékekről és alkalmazásuk egyes szabályairól szóló miniszteri rendeletben meghatározott, települések szennyvízelvezetésére és -tisztítására vonatkozó technológiai határértékeknél a 2000 LE feletti terhelési kapacitású települési szennyvíztisztító telepek esetében.
 
-(4) A kibocsátó külön kérelmére a felügyelőség által e rendelet szerint megállapított egyedi határérték felülvizsgálható, amennyiben a kérelmet a kibocsátó a befogadó terhelhetőségére vonatkozó mérésekkel és számításokkal alátámasztja. A felülvizsgálat következtében az egyedi határérték megállapítása a (2) bekezdésben foglaltakra figyelemmel történik.
+(4)[^54] A kibocsátó külön kérelmére a vízvédelmi hatóság által e rendelet szerint megállapított egyedi határérték felülvizsgálható, amennyiben a kérelmet a kibocsátó a befogadó terhelhetőségére vonatkozó mérésekkel és számításokkal alátámasztja. A felülvizsgálat következtében az egyedi határérték megállapítása a (2) bekezdésben foglaltakra figyelemmel történik.
 
-[^47]: A 19. § a 230/2010. (VIII. 18.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^48]: A 19. § (2) bekezdés b) pontját a 182/2013. (VI. 7.) Korm. rendelet 5. §-a hatályon kívül helyezte.
-[^49]: A 19. § (2) bekezdés d) pontját a 182/2013. (VI. 7.) Korm. rendelet 5. §-a hatályon kívül helyezte.
-[^50]: A 19. § (2a) bekezdését a 307/2010. (XII. 23.) Korm. rendelet 1. §-a iktatta be, szövege a 182/2013. (VI. 7.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^49]: A 19. § a 230/2010. (VIII. 18.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^50]: A 19. § (1) bekezdés nyitó szövegrésze az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg.
+[^51]: A 19. § (2) bekezdés b) pontját a 182/2013. (VI. 7.) Korm. rendelet 5. §-a hatályon kívül helyezte.
+[^52]: A 19. § (2) bekezdés d) pontját a 182/2013. (VI. 7.) Korm. rendelet 5. §-a hatályon kívül helyezte.
+[^53]: A 19. § (2a) bekezdését a 307/2010. (XII. 23.) Korm. rendelet 1. §-a iktatta be, szövege a 182/2013. (VI. 7.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^54]: A 19. § (4) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg.

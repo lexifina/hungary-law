@@ -1,6 +1,6 @@
-## Tényfeltárás[^127]
+## Tényfeltárás[^154]
 
-39/C. §[^128] (1) A tényfeltárás
+39/C. §[^155] (1) A tényfeltárás
 
 a) amennyiben a környezetkárosodás megállapításának bonyolultsága azt szükségessé teszi, tényfeltárási terv készítéséből,
 
@@ -22,15 +22,15 @@ d) a tényfeltárási záródokumentáció benyújtási határidejét.
 
 (3) A tényfeltárási tervnek tartalmaznia kell a tényfeltárással kapcsolatos mindazon munkát, amely a tényfeltárási záródokumentáció megalapozott összeállításához szükséges, beleértve a tényfeltáráshoz kapcsolódó monitoring tervét.
 
-(4) A tényfeltárási tervet a (2) bekezdés szerinti határozatban megjelölt határidőre engedélyezésre be kell nyújtani a felügyelőséghez. A felügyelőség nem kötelezi a kötelezettet tényfeltárási terv készítésére, ha a kármentesítés sürgőssége, a várható költség alacsony szintje, a szennyező anyagok kis száma valószínűsíthető.
+(4)[^156] A tényfeltárási tervet a (2) bekezdés szerinti határozatban megjelölt határidőre engedélyezésre be kell nyújtani a vízvédelmi hatósághoz. A vízvédelmi hatóság nem kötelezi a kötelezettet tényfeltárási terv készítésére, ha a kármentesítés sürgőssége, a várható költség alacsony szintje, a szennyező anyagok kis száma valószínűsíthető.
 
-(5) A (4) bekezdés szerinti tényfeltárási terv elfogadásáról a felügyelőség dönt.
+(5)[^157] A (4) bekezdés szerinti tényfeltárási terv elfogadásáról a vízvédelmi hatóság dönt.
 
-(6)[^129] A tényfeltárási munkák megkezdését nyolc napon belül, a tényfeltárás során észlelt bármilyen rendkívüli körülményt haladéktalanul be kell jelenteni a felügyelőségnek.
+(6)[^158] A tényfeltárási munkák megkezdését nyolc napon belül, a tényfeltárás során észlelt bármilyen rendkívüli körülményt haladéktalanul be kell jelenteni a vízvédelmi hatóságnak.
 
-(7)[^130] A tényfeltárás során észleltek alapján, a tényfeltárásra kötelezett kezdeményezésére indokolt esetben, a felügyelőség nyolc napon belül dönt a tényfeltárási terv módosításának elfogadásáról vagy elutasításáról.
+(7)[^159] A tényfeltárás során észleltek alapján, a tényfeltárásra kötelezett kezdeményezésére indokolt esetben, a vízvédelmi hatóság nyolc napon belül dönt a tényfeltárási terv módosításának elfogadásáról vagy elutasításáról.
 
-(8) A tényfeltárást és annak eredményeit dokumentálni kell. A tényfeltárási záródokumentációt a (9) bekezdés szerint kell összeállítani és benyújtani a felügyelőséghez.
+(8)[^160] A tényfeltárást és annak eredményeit dokumentálni kell. A tényfeltárási záródokumentációt a (9) bekezdés szerint kell összeállítani és benyújtani a vízvédelmi hatósághoz.
 
 (9) A tényfeltáró záródokumentáció az alábbiakat tartalmazza:
 
@@ -46,7 +46,7 @@ e) a természetes regenerálódás esélyét, mértékét, várható időtartam�
 
 f) a tényfeltárás alatt működtetett monitoring bemutatását, továbbá monitoring tervet a tényfeltárást követő szakaszra.
 
-(10) A felügyelőség dönt a tényfeltárási záródokumentáció elfogadásáról, valamint a környezetkárosodással kapcsolatos további feladatokról, így:
+(10)[^161] A vízvédelmi hatóság dönt a tényfeltárási záródokumentáció elfogadásáról, valamint a környezetkárosodással kapcsolatos további feladatokról, így:
 
 a) a tényfeltárás folytatásáról;
 
@@ -56,7 +56,11 @@ c) a tényfeltárást követő monitorozás elrendeléséről;
 
 d) a kármentesítés befejezéséről, ha minden körülmény együttes mérlegelése azt mutatja, hogy a további kármentesítési munkára nincs szükség.
 
-[^127]: A 39/C. §-t megelőző alcímet a 93/2007. (IV. 26.) Korm. rendelet 5. §-a iktatta be.
-[^128]: A 39/C. §-t a 93/2007. (IV. 26.) Korm. rendelet 5. §-a iktatta be. Alkalmazására lásd e módosító rendelet 8. §-át.
-[^129]: A 39/C. § (6) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (57) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
-[^130]: A 39/C. § (7) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (57) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^154]: A 39/C. §-t megelőző alcímet a 93/2007. (IV. 26.) Korm. rendelet 5. §-a iktatta be.
+[^155]: A 39/C. §-t a 93/2007. (IV. 26.) Korm. rendelet 5. §-a iktatta be. Alkalmazására lásd e módosító rendelet 8. §-át.
+[^156]: A 39/C. § (4) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) és (6) bekezdése szerint módosított szöveg.
+[^157]: A 39/C. § (5) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg.
+[^158]: A 39/C. § (6) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (57) bekezdése, az 527/2013. (XII. 30.) Korm. rendelet 27. § (5) bekezdése szerint módosított szöveg.
+[^159]: A 39/C. § (7) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (57) bekezdése, az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg.
+[^160]: A 39/C. § (8) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 27. § (6) bekezdése szerint módosított szöveg.
+[^161]: A 39/C. § (10) bekezdés nyitó szövegrésze az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg.

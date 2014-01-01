@@ -1,34 +1,38 @@
 ## Vízvédelmi bírság
 
-35. § (1) Azt a kibocsátót vagy tulajdonost, aki
+35. § (1)[^109] Azt a kibocsátót vagy tulajdonost, aki
 
-a)[^94] a használt és szennyvizek kibocsátásának ellenőrzésére vonatkozó részletes szabályokról szóló miniszteri rendelet szerinti önellenőrzési terv készítését és annak jóváhagyását elmulasztotta,
+a)[^110] a használt és szennyvizek kibocsátásának ellenőrzésére vonatkozó részletes szabályokról szóló miniszteri rendelet szerinti önellenőrzési terv készítését és annak jóváhagyását elmulasztotta,
 
-b)[^95] az önellenőrzési tervét a felügyelőség általi felszólításra sem készíti el,
+b)[^111] az önellenőrzési tervét a vízvédelmi hatóság általi felszólításra sem készíti el,
 
-c)[^96] a jóváhagyott önellenőrzési terv a használt és szennyvizek kibocsátásának ellenőrzésére vonatkozó részletes szabályokról szóló miniszteri rendelet szerinti teljesítését elmulasztotta,
+c)[^112] a jóváhagyott önellenőrzési terv a használt és szennyvizek kibocsátásának ellenőrzésére vonatkozó részletes szabályokról szóló miniszteri rendelet szerinti teljesítését elmulasztotta,
 
 d) vízhasználatáról és a kibocsátott szennyvizéről szándékosan valótlan adatot közöl,
 
-e) szennyezéscsökkentési ütemtervét a felügyelőség által előírt határidőig (települési szennyvízelvezetés esetén ez a kötelezettség a tulajdonost terheli) nem készíti el,
+e)[^113] szennyezéscsökkentési ütemtervét a vízvédelmi hatóság által előírt határidőig (települési szennyvízelvezetés esetén ez a kötelezettség a tulajdonost terheli) nem készíti el,
 
 f) szennyezéscsökkentési ütemtervét nem a jóváhagyott ütemezés szerint végzi,
 
-g) a szennyvízkibocsátására vonatkozó (jogszabályban, illetve hatósági kötelezésben előírt) adatszolgáltatási kötelezettségét határidőre, illetve a felügyelőség felszólítására sem teljesíti,
+g)[^114] a szennyvízkibocsátására vonatkozó (jogszabályban, illetve hatósági kötelezésben előírt) adatszolgáltatási kötelezettségét határidőre, illetve a vízvédelmi hatóság felszólítására sem teljesíti,
 
-h)[^97] engedélyköteles tevékenységet, illetve az ehhez tartozó technológia üzemeltetését engedély nélkül kezdi meg és szennyvízkibocsátást folytat,
+h)[^115] engedélyköteles tevékenységet, illetve az ehhez tartozó technológia üzemeltetését engedély nélkül kezdi meg és szennyvízkibocsátást folytat,
 
-i) engedélyezéshez szükséges adatokban bekövetkezett változást nem jelent be a felügyelőségnek, illetve nem kéri az engedély módosítását, valamint a felügyelőség felszólítására a módosításhoz szükséges meglévő engedélyét, továbbá a kibocsátására jellemző szennyező anyagokra vonatkozó nyilatkozatát az előírt határidőre nem küldi meg,
+i)[^116] engedélyezéshez szükséges adatokban bekövetkezett változást nem jelent be a vízvédelmi hatóságnak, illetve nem kéri az engedély módosítását, valamint a vízvédelmi hatóság felszólítására a módosításhoz szükséges meglévő engedélyét, továbbá a kibocsátására jellemző szennyező anyagokra vonatkozó nyilatkozatát az előírt határidőre nem küldi meg,
 
-j)[^98] felszíni vízbe, csapadékvíz elvezető hálózatba engedély nélküli szennyvíz (használt víz) bevezetését a felügyelőség által előírt határidőre nem szünteti meg, illetve a 12. § (5) bekezdés szerinti tilalmat megszegi és közcsatornába hulladékot (így különösen: élelmiszer hulladékot) bocsát
+j)[^117] felszíni vízbe, csapadékvíz elvezető hálózatba engedély nélküli szennyvíz (használt víz) bevezetését a vízvédelmi hatóság által előírt határidőre nem szünteti meg, illetve a 12. § (5) bekezdés szerinti tilalmat megszegi és közcsatornába hulladékot (így különösen: élelmiszer hulladékot) bocsát
 
-## a felügyelőség az e rendelet 2. számú melléklete 2/II. pontjában meghatározott vízvédelmi bírság megfizetésére kötelezi.
+## a vízvédelmi hatóság az e rendelet 2. számú melléklete 2/II. pontjában meghatározott vízvédelmi bírság megfizetésére kötelezi.
 
-(2)[^99] A vízvédelmi bírságot az erről rendelkező határozat jogerőre emelkedését követő harminc napon belül kell a határozatban megjelölt számlára a felügyelőség részére befizetni.
+(2)[^118] A vízvédelmi bírságot az erről rendelkező határozat jogerőre emelkedését követő harminc napon belül kell a határozatban megjelölt számlára a vízvédelmi hatóság részére befizetni.
 
-[^94]: A 35. § (1) bekezdés a) pontja a 230/2010. (VIII. 18.) Korm. rendelet 19. §-a szerint módosított szöveg.
-[^95]: Alkalmazására lásd a 19/2009. (XII. 22.) KvVM rendelet 1. § e) pontját.
-[^96]: A 35. § (1) bekezdés c) pontja a 230/2010. (VIII. 18.) Korm. rendelet 19. §-a szerint módosított szöveg.
-[^97]: Alkalmazására lásd a 19/2009. (XII. 22.) KvVM rendelet 1. § e) pontját.
-[^98]: Alkalmazására lásd a 19/2009. (XII. 22.) KvVM rendelet 1. § e) pontját.
-[^99]: A 35. § (2) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (57) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^109]: A 35. § (1) bekezdés zár szövegrésze az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg.
+[^110]: A 35. § (1) bekezdés a) pontja a 230/2010. (VIII. 18.) Korm. rendelet 19. §-a szerint módosított szöveg.
+[^111]: A 35. § (1) bekezdés b) pontja az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg.
+[^112]: A 35. § (1) bekezdés c) pontja a 230/2010. (VIII. 18.) Korm. rendelet 19. §-a szerint módosított szöveg.
+[^113]: A 35. § (1) bekezdés e) pontja az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg.
+[^114]: A 35. § (1) bekezdés g) pontja az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg.
+[^115]: Alkalmazására lásd a 19/2009. (XII. 22.) KvVM rendelet 1. § e) pontját.
+[^116]: A 35. § (1) bekezdés i) pontja az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) és (5) bekezdése szerint módosított szöveg.
+[^117]: A 35. § (1) bekezdés j) pontja az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg.
+[^118]: A 35. § (2) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (57) bekezdése, az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg.

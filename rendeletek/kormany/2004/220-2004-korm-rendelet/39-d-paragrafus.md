@@ -1,8 +1,8 @@
-## Beavatkozás[^131]
+## Beavatkozás[^162]
 
-39/D. §[^132] (1) A beavatkozási terv tartalmi követelményeit a 4. számú melléklet tartalmazza.
+39/D. §[^163] (1) A beavatkozási terv tartalmi követelményeit a 4. számú melléklet tartalmazza.
 
-(2) A felügyelőség a 4. számú mellékletben meghatározottak figyelembevételével a beavatkozási terv alapján dönt az abban megjelölt lehetséges beavatkozás kiválasztásáról és végrehajtásának elrendeléséről.
+(2)[^164] A vízvédelmi hatóság a 4. számú mellékletben meghatározottak figyelembevételével a beavatkozási terv alapján dönt az abban megjelölt lehetséges beavatkozás kiválasztásáról és végrehajtásának elrendeléséről.
 
 (3) A beavatkozást elrendelő határozatnak tartalmaznia kell, a kötelezett által benyújtott beavatkozási tervből kiválasztott beavatkozásra alapozottan:
 
@@ -22,17 +22,17 @@ g) a beavatkozás időtartama alatt üzemelő kármentesítési monitoring kivit
 
 h) az ügy szempontjából fontos egyéb feladatok elrendelését (így például: a károsodott terület megjelölését figyelmeztető táblákkal).
 
-(4)[^133] A beavatkozási munkák megkezdését az azt megelőző tíz nappal be kell jelenteni a felügyelőségnek, amely a munkálatokat ellenőrzi. A beavatkozási munkákat dokumentálni kell.
+(4)[^165] A beavatkozási munkák megkezdését az azt megelőző tíz nappal be kell jelenteni a vízvédelmi hatóságnak, amely a munkálatokat ellenőrzi. A beavatkozási munkákat dokumentálni kell.
 
-(5) A beavatkozás során észleltek alapján, a kötelezett kezdeményezésére indokolt esetben a felügyelőség engedélyezi a beavatkozási terv módosítását.
+(5)[^166] A beavatkozás során észleltek alapján, a kötelezett kezdeményezésére indokolt esetben a vízvédelmi hatóság engedélyezi a beavatkozási terv módosítását.
 
-(6)[^134] A beavatkozás befejezését nyolc napon belül be kell jelenteni a felügyelőségnek.
+(6)[^167] A beavatkozás befejezését nyolc napon belül be kell jelenteni a vízvédelmi hatóságnak.
 
 (7) A (6) bekezdés szerinti bejelentésnek tartalmaznia kell a beavatkozást elrendelő határozat számát, tárgyát, a munka befejezésének időpontját, valamint a hatósági ellenőrző mintavétel biztosításának módját.
 
-(8) A felügyelőség ellenőrzésére a beavatkozási záródokumentáció elbírálásáig kerülhet sor.
+(8)[^168] A vízvédelmi hatóság ellenőrzésére a beavatkozási záródokumentáció elbírálásáig kerülhet sor.
 
-(9) A kötelezett a beavatkozási munkák befejezését követően a (10) bekezdés szerint összeállított beavatkozási záródokumentációt köteles benyújtani a felügyelőséghez.
+(9)[^169] A kötelezett a beavatkozási munkák befejezését követően a (10) bekezdés szerint összeállított beavatkozási záródokumentációt köteles benyújtani a vízvédelmi hatósághoz.
 
 (10) A beavatkozási záródokumentáció tartalmazza:
 
@@ -46,7 +46,7 @@ d) a beavatkozás során működtetett monitoring bemutatását, továbbá a bea
 
 e) a Kvt. 56. §-ának (1) bekezdés c) pontja szerinti esetekben a beavatkozással felmerült költségek ismertetését.
 
-(11)[^135] A felügyelőség a beavatkozási záródokumentáció kézhezvételét követő két hónapon belül dönt:
+(11)[^170] A vízvédelmi hatóság a beavatkozási záródokumentáció kézhezvételét követő két hónapon belül dönt:
 
 a) a beavatkozás elégtelensége esetén annak folytatásáról,
 
@@ -58,8 +58,12 @@ d) a kármentesítési monitoringról, illetve
 
 e) a kármentesítés befejezéséről.
 
-[^131]: A 39/D. §-t megelőző alcímet a 93/2007. (IV. 26.) Korm. rendelet 5. §-a iktatta be.
-[^132]: A 39/D. §-t a 93/2007. (IV. 26.) Korm. rendelet 5. §-a iktatta be. Alkalmazására lásd e módosító rendelet 8. §-át.
-[^133]: A 39/D. § (4) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (57) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
-[^134]: A 39/D. § (6) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (57) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
-[^135]: A 39/D. § (11) bekezdésének bevezető szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 361. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^162]: A 39/D. §-t megelőző alcímet a 93/2007. (IV. 26.) Korm. rendelet 5. §-a iktatta be.
+[^163]: A 39/D. §-t a 93/2007. (IV. 26.) Korm. rendelet 5. §-a iktatta be. Alkalmazására lásd e módosító rendelet 8. §-át.
+[^164]: A 39/D. § (2) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg.
+[^165]: A 39/D. § (4) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (57) bekezdése, az 527/2013. (XII. 30.) Korm. rendelet 27. § (5) bekezdése szerint módosított szöveg.
+[^166]: A 39/D. § (5) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg.
+[^167]: A 39/D. § (6) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (57) bekezdése, az 527/2013. (XII. 30.) Korm. rendelet 27. § (5) bekezdése szerint módosított szöveg.
+[^168]: A 39/D. § (8) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg.
+[^169]: A 39/D. § (9) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 27. § (6) bekezdése szerint módosított szöveg.
+[^170]: A 39/D. § (11) bekezdés nyitó szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 361. §-a, az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg.

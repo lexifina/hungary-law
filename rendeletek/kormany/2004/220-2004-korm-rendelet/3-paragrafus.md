@@ -14,7 +14,7 @@
 
 6. befogadó: a felszíni víz, valamint annak medre;
 
-7.[^7] befogadó terhelhetősége: előzetes vízszennyezettségi vizsgálatok és a vonatkozó vízszennyezettségi határérték alapján az illetékes környezetvédelmi, természetvédelmi és vízügyi felügyelőség (a továbbiakban: felügyelőség) által megállapított olyan mértékű, még megengedhető terhelés, amely mellett még biztosítható a környezeti célkitűzés elérése;
+7.[^7] befogadó terhelhetősége: előzetes vízszennyezettségi vizsgálatok és a vonatkozó vízszennyezettségi határérték alapján az illetékes vízvédelmi hatóság által megállapított olyan mértékű, még megengedhető terhelés, amely mellett még biztosítható a környezeti célkitűzés elérése;
 
 8. vízszennyezettség: a felszíni vízben a vízszennyező anyaggal történő terhelés (vízterhelés) hatására kialakult vízszennyező anyag koncentráció;
 
@@ -98,7 +98,7 @@
 
 [^5]: A 3. § 3. pontja a 230/2010. (VIII. 18.) Korm. rendelet 19. §-a szerint módosított szöveg.
 [^6]: A 3. § 5. pontja a 230/2010. (VIII. 18.) Korm. rendelet 19. §-a szerint módosított szöveg.
-[^7]: A 3. § 7. pontja a 340/2004. (XII. 22.) Korm. rendelet 29. §-ának (1) bekezdésével megállapított szöveg, e módosító rendelet 30. §-ának (1) bekezdése alapján rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.
+[^7]: A 3. § 7. pontja a 340/2004. (XII. 22.) Korm. rendelet 29. §-ának (1) bekezdésével megállapított, az 527/2013. (XII. 30.) Korm. rendelet 27. § (2) bekezdése szerint módosított szöveg.
 [^8]: A 3. § 9. pontja a 230/2010. (VIII. 18.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^9]: A 3. § 20. pontja a 368/2004. (XII. 26.) Korm. rendelet 1. § (1) bekezdése szerint módosított szöveg.
 [^10]: A 3. § 22. pontja a 230/2010. (VIII. 18.) Korm. rendelet 19. §-a szerint módosított szöveg.

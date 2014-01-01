@@ -254,7 +254,7 @@
 
 ## vi A fluorantin egyéb, veszélyesebb poliaromás szénhidrogének képviselőjeként szerepel a jegyzékben.
 
-2. számú melléklet a 220/2004. (VII. 21.) Korm. rendelethez[^156]
+2. számú melléklet a 220/2004. (VII. 21.) Korm. rendelethez[^196]
 
 ## 2/I. A csatornabírság és a vízszennyezési bírság számítása
 
@@ -472,191 +472,191 @@ _____________
 
 2.9. A „k” fajlagos bírságtétel megállapítása:
 
-| Sor- szám |  | A szennyezés neme | Bírságtétel Ft/kg |
+| Sor- szám | A szennyezés neme | Bírságtétel Ft/kg |
 
 | A) Szennyező anyagok, közcsatornát károsító anyagok |
 
-| 1. | Dikromátos oxigénfogyasztás KOIk | 140 |
+| 1. | Dikromátos oxigénfogyasztás KOIk | 70 |
 
-| 2. | Ötnapos biokémiai oxigénigény BOI5 | 525 |
+| 2. | Ötnapos biokémiai oxigénigény BOI5 | 210 |
 
-| 3. | Összes nitrogén N összes | 700 |
+| 3. | Összes nitrogén N összes | 350 |
 
-| 4. | Összes szervetlen nitrogén (ammónium, nitrit, nitrát) | 700 |
+| 4. | Összes szervetlen nitrogén (ammónium, nitrit, nitrát) | 350 |
 
 | 5. | pH |  |
 
-|  | – határérték alatt | 700 |
+|  | – határérték alatt | 350 |
 
-|  | – határérték felett | 700 |
+|  | – határérték felett | 350 |
 
 | 6. | Összes só |  |
+
+|  | – természetes eredetű | 14 |
+
+|  | – technológiai eredetű | 70 |
+
+| 7. | Nátrium-egyenérték* (%) |  |
 
 |  | – természetes eredetű | 28 |
 
 |  | – technológiai eredetű | 140 |
 
-| 7. | Nátrium-egyenérték* (%) |  |
+| 8. | Összes lebegőanyag | 70 |
 
-|  | – természetes eredetű | 56 |
+| 9. | Ammónia-ammónium-nitrogén | 350 |
 
-|  | – technológiai eredetű | 280 |
+| 10. | Összes vas | 140 |
 
-| 8. | Összes lebegőanyag | 140 |
+| 11. | Összes mangán | 1 400 |
 
-| 9. | Ammónia-ammónium-nitrogén | 700 |
+| 12. | Szulfid | 7 000 |
 
-| 10. | Összes vas | 280 |
+| 13. | Aktív klór | 3 500 |
 
-| 11. | Összes mangán | 2 800 |
+| 14. | Összes foszfor | 2 300 |
 
-| 12. | Szulfid | 14 000 |
+| 15. | Foszfát foszfor | 2 300 |
 
-| 13. | Aktív klór | 7 000 |
+| 16. | Szulfit | 437 |
 
-| 14. | Összes foszfor | 5 600 |
+| 17. | Szulfát | 70 |
 
-| 15. | Foszfát foszfor | 5 600 |
+| 18. | Szerves oldószer extrakt (olajok, zsírok) | 1 400 |
 
-| 16. | Szulfit | 875 |
+| 19. | Coliform szám** | 0,025×2nFt/m3 |
 
-| 17. | Szulfát | 140 |
+| 20. | Nitrát-nitrogén | 70 |
 
-| 18. | Szerves oldószer extrakt (olajok, zsírok) | 2 800 |
+| 21. | Nitrit-nitrogén | 70 |
 
-| 19. | Coliform szám** | 0,05×2n Ft/m3 |
+| 22. | Klorid | 3 500 |
 
-| 20. | Nitrát-nitrogén | 140 |
+| 23. | Kátrány | 8 400 |
 
-| 21. | Nitrit-nitrogén | 140 |
+| 24. | Fenolok (fenol index) | 3 500 |
 
-| 22. | Klorid | 7 000 |
+| 25. | Fluoridok | 3 500 |
 
-| 23. | Kátrány | 16 800 |
-
-| 24. | Fenolok (fenol index) | 7 000 |
-
-| 25. | Fluoridok | 7 000 |
-
-| 26. | Összes alifás szénhidrogén (TPH) C5-C40, ill. alifás szénhidrogének fűtőolajként kimutatva C10-C32 | 17 500 |
+| 26. | Összes alifás szénhidrogén (TPH) C5–C40, ill. alifás szénhidrogének fűtőolajként kimutatva C10–C32 | 8 750 |
 
 | B) Veszélyes és mérgező anyagok |
 
-| 27. | Adszorbeálható szerves halogén vegyületek, klórban kifejezve (AOX) | 140 000 |
+| 27. | Adszorbeálható szerves halogén vegyületek, klórban kifejezve (AOX) | 70 000 |
 
-| 28. | Alaklór | 190 000 |
+| 28. | Alaklór | 85 000 |
 
-| 29. | Aldrin | 1 000 000 |
+| 29. | Aldrin | 500 000 |
 
-| 30. | Alumínium (összes) | 7 000 |
+| 30. | Alumínium (összes) | 3 500 |
 
-| 31. | Antimon (összes) | 28 000 |
+| 31. | Antimon (összes) | 14 000 |
 
-| 32. | Antracén | 480 000 |
+| 32. | Antracén | 240 000 |
 
-| 33. | Arzén (összes) | 28 000 |
+| 33. | Arzén (összes) | 14 000 |
 
-| 34. | Atrazin | 90 000 |
+| 34. | Atrazin | 45 000 |
 
-| 35. | Azbeszt | 28 000 |
+| 35. | Azbeszt | 14 000 |
 
-| 36. | Bárium (összes) | 17 500 |
+| 36. | Bárium (összes) | 8 750 |
 
-| 37. | Benz(g,h,i)perilén | 30 000 |
+| 37. | Benz(g,h,i)perilén | 15 000 |
 
 | 38. | Brómozott difenil-éterek (PBDE)**** | – |
 
-| 39. | BTEX (benzol, toluol, etilbenzol, xilol) | 10 000 |
+| 39. | BTEX (benzol, toluol, etilbenzol, xilol) | 5 000 |
 
-| 40. | Cianidok (könnyen felszabaduló) | 700 000 |
+| 40. | Cianidok (könnyen felszabaduló) | 350 000 |
 
-| 41. | Cianid (összes) | 7 000 |
+| 41. | Cianid (összes) | 3 500 |
 
-| 42. | Cink (összes) | 7 000 |
+| 42. | Cink (összes) | 3 500 |
 
-| 43. | Dieldrin | 1 000 000 |
+| 43. | Dieldrin | 500 000 |
 
-| 44. | Dioxinok és furánok | 1 400 000 |
+| 44. | Dioxinok és furánok | 700 000 |
 
-| 45. | Di(2-etilhexil)ftalát | 30 000 |
+| 45. | Di(2-etilhexil)ftalát | 15 000 |
 
-| 46. | 1,2-diklór-etán | 28 000 |
+| 46. | 1,2-diklór-etán | 14 000 |
 
-| 47. | DDT | 1 000 000 |
+| 47. | DDT | 500 000 |
 
-| 48. | Diuron | 200 000 |
+| 48. | Diuron | 100 000 |
 
-| 49. | Diklórmetán (DCM) | 14 000 |
+| 49. | Diklórmetán (DCM) | 7 000 |
 
-| 50. | Endoszulfán | 1 400 000 |
+| 50. | Endoszulfán | 700 000 |
 
-| 51. | Endrin | 1 000 000 |
+| 51. | Endrin | 500 000 |
 
-| 52. | Etilén oxid | 10 000 |
+| 52. | Etilén oxid | 5 000 |
 
-| 53. | Ezüst (összes) | 140 000 |
+| 53. | Ezüst (összes) | 70 000 |
 
-| 54. | Fluorantén | 400 000 |
+| 54. | Fluorantén | 200 000 |
 
-| 55. | Heptaklór | 1 000 000 |
+| 55. | Heptaklór | 500 000 |
 
-| 56. | Hexabróm-bifenil | 1 000 000 |
+| 56. | Hexabróm-bifenil | 500 000 |
 
-| 57. | Hexaklórbenzol (HCB) | 140 000 |
+| 57. | Hexaklórbenzol (HCB) | 70 000 |
 
-| 58. | Hexaklórbutadién (HCBD) | 70 000 |
+| 58. | Hexaklórbutadién (HCBD) | 35 000 |
 
-| 59. | Hexaklór-ciklohexán (HCH) | 1 000 000 |
+| 59. | Hexaklór-ciklohexán (HCH) | 500 000 |
 
-| 60. | Higany (összes) | 1 400 000 |
+| 60. | Higany (összes) | 700 000 |
 
-| 61. | Isodrin | 1 000 000 |
+| 61. | Isodrin | 500 000 |
 
-| 62. | Izoproturon | 160 000 |
+| 62. | Izoproturon | 80 000 |
 
-| 63. | Kadmium (összes) | 140 000 |
+| 63. | Kadmium (összes) | 70 000 |
 
-| 64. | Klór-alkánok, C10-C13**** |  |
+| 64. | Klór-alkánok, C10–C13**** |  |
 
-| 65. | Klórdán | 1 000 000 |
+| 65. | Klórdán | 500 000 |
 
 | 66. | Klórdekon |  |
 
-| 67. | Klórfenvinfosz | 520 000 |
+| 67. | Klórfenvinfosz | 260 000 |
 
-| 68. | Kloroform (triklór-metán) | 70 000 |
+| 68. | Kloroform (triklór-metán) | 35 000 |
 
-| 69. | Klórpirifosz | 1 400 000 |
+| 69. | Klórpirifosz | 700 000 |
 
-| 70. | Kobalt (összes) | 28 000 |
+| 70. | Kobalt (összes) | 14 000 |
 
-| 71. | Króm (VI) | 28 000 |
+| 71. | Króm (VI) | 14 000 |
 
-| 72. | Króm (összes) | 7 000 |
+| 72. | Króm (összes) | 3 500 |
 
-| 73. | Mirex | 1 000 000 |
+| 73. | Mirex | 500 000 |
 
-| 74. | Molibdén | 28 000 |
+| 74. | Molibdén | 14 000 |
 
-| 75. | Naftalin | 16 000 |
+| 75. | Naftalin | 8 000 |
 
-| 76. | Nikkel (összes) | 28 000 |
+| 76. | Nikkel (összes) | 14 000 |
 
-| 77. | Nonil-fenolok és nonil-fenol-etoxilátok | 140 000 |
+| 77. | Nonil-fenolok és nonil-fenol-etoxilátok | 70 000 |
 
-| 78. | Oktil-fenolok és oktil-fenol-etoxilátok | 960 000 |
+| 78. | Oktil-fenolok és oktil-fenol-etoxilátok | 480 000 |
 
-| 79. | Ólom (összes) | 28 000 |
+| 79. | Ólom (összes) | 14 000 |
 
-| 80. | Ón (összes) | 7 000 |
+| 80. | Ón (összes) | 3 500 |
 
-| 81. | Pentaklór-benzol | 1 400 000 |
+| 81. | Pentaklór-benzol | 700 000 |
 
-| 82. | Pentaklórfenol | 1 000 000 |
+| 82. | Pentaklórfenol | 500 000 |
 
-| 83. | Perklóretilén (tetraklóretilén) | 140 000 |
+| 83. | Perklóretilén (tetraklóretilén) | 70 000 |
 
-| 84. | Policiklikus aromás szénhidrogének (PAH-k)***** | 14 000 |
+| 84. | Policiklikus aromás szénhidrogének (PAH-k)***** | 7 000 |
 
 |  | Benz(a)pirén |  |
 
@@ -668,39 +668,39 @@ _____________
 
 |  | Indeno(1,2,3-cd)pirén |  |
 
-| 85. | Poliklórozott bifenilek (PCB-k) | 1 000 000 |
+| 85. | Poliklórozott bifenilek (PCB-k) | 500 000 |
 
-| 86. | Réz (összes) | 7 000 |
+| 86. | Réz (összes) | 3 500 |
 
-| 87. | Simazin | 50 000 |
+| 87. | Simazin | 25 000 |
 
-| 88. | Szelén (összes) | 28 000 |
+| 88. | Szelén (összes) | 14 000 |
 
-| 89. | Széntetraklorid (tetraklór-metán TCM) | 47 000 |
+| 89. | Széntetraklorid (tetraklór-metán TCM) | 23 500 |
 
-| 90. | Tallium (összes) | 28 000 |
+| 90. | Tallium (összes) | 14 000 |
 
-| 91. | Toxafén | 1 000 000 |
+| 91. | Toxafén | 500 000 |
 
-| 92. | Toxicitás | 140 Ft/m3 |
+| 92. | Toxicitás | 70 Ft/m3 |
 
-| 93. | Tributil-ón és vegyületei | 1 400 000 |
+| 93. | Tributil-ón és vegyületei | 700 000 |
 
-| 94. | Trifenil-ón és vegyületei | 1 400 000 |
+| 94. | Trifenil-ón és vegyületei | 700 000 |
 
-| 95. | Trifluralin | 1 000 000 |
+| 95. | Trifluralin | 500 000 |
 
-| 96. | Triklórbenzolok (TCB) | 140 000 |
+| 96. | Triklórbenzolok (TCB) | 70 000 |
 
-| 97. | Triklóretilén | 70 000 |
+| 97. | Triklóretilén | 35 000 |
 
-| 98. | Vinilklorid | 20 000 |
+| 98. | Vinilklorid | 10 000 |
 
 | C) Egyebek |
 
-| 100. | 10 perces ülepedő anyag | 140 |
+| 99. | 10 perces ülepedő anyag | 70 |
 
-| 101. | Hőterhelés *** | 10 Ft/°C/m3 |
+| 100. | Hőterhelés *** | 5 Ft/°C/m3 |
 
 | * | A víz kalcium-, magnézium- és káliumtartalmával 45 egyenérték%-ban egyensúlyt tartó nátrium kg-ban kifejezett értékét meghaladó mennyiség. |
 
@@ -708,9 +708,9 @@ _____________
 
 | *** | A hőterhelés bírságtényezője Ft/°C/m3, mely a kibocsátott vízmennyiségnek csak a hőfokára értelmezhető. |
 
-| **** | Ez az anyagcsoport számos egyedi komponenst tartalmaz. Jelenleg konkrét vegyület, mint indikatív paraméter, még nem adható meg. |
+| **** | Ez az anyagcsoport számos egyedi komponenst tartalmaz. Jelenleg konkrét vegyület mint indikatív paraméter még nem adható meg. |
 
-| ***** | A bírságtétel a felsorolt egyedi PAH-k összességére vonatkozik. |
+| ***** | A bírságtétel a felsorolt egyedi PAH-k összességére vonatkozik.” |
 
 2.10. Többszörös bírságolás elkerülésére vonatkozó előírás
 
@@ -722,22 +722,22 @@ A vízvédelmi bírság mértéke, ha a kibocsátó
 
 | a) a külön jogszabály alapján elkészítendő önellenőrzési terv készítését és annak jóváhagyását elmulasztotta | 300 000 Ft/év |
 
-| b) az önellenőrzési tervét a felügyelőség általi felszólításra sem készíti el | 1 000 000 Ft/eset |
+| b) az önellenőrzési tervét a vízvédelmi hatóság általi felszólításra sem készíti el | 1 000 000 Ft/eset |
 
 | c) a jóváhagyott önellenőrzési terv teljesítését elmulasztotta | 300 000 Ft/eset |
 
 | d) vízhasználatáról és a kibocsátott szennyvizéről szándékosan valótlan adatot közöl | 1 000 000 Ft/eset |
 
-| e) nem készíti el szennyezéscsökkentési ütemtervét, a felügyelőség által előírt határidőig | 200 000 Ft/év és 10 000 000 Ft/év között (a telepü- lési szennyvíz el- vezetése esetében a bírságot a tele- pülés LE terhelés nagyságrendje függvényében egyedileg kell megállapítani) |
+| e) nem készíti el szennyezéscsökkentési ütemtervét, a vízvédelmi hatóság által előírt határidőig | 200 000 Ft/év és 10 000 000 Ft/év között (a telepü- lési szennyvíz el- vezetése esetében a bírságot a tele- pülés LE terhelés nagyságrendje függvényében egyedileg kell megállapítani) |
 
 | f) szennyezéscsökkentési ütemtervét nem a jóváhagyott ütemezés szerint végzi | 500 000 Ft/ellenőrzés |
 
-| g) a szennyvízkibocsátására vonatkozó (jogszabályban, illetve hatósági kötelezésben előírt) adatszolgáltatási kötelezettségét határidőre, illetve a felügyelőség felszólítására sem teljesíti | 1 000 000 Ft/eset |
+| g) a szennyvízkibocsátására vonatkozó (jogszabályban, illetve hatósági kötelezésben előírt) adatszolgáltatási kötelezettségét határidőre, illetve a vízvédelmi hatóság felszólítására sem teljesíti | 1 000 000 Ft/eset |
 
 | h) engedélyköteles tevékenységet, illetve az ehhez tartozó technológia üzemeltetését hatósági engedély nélkül kezdi meg, és szennyvízkibocsátást folytat | 100 000 Ft/nap |
 
-| i) engedélyezéshez szükséges adatokban bekövetkezett változást nem jelenti be a területileg illetékes felügyelőségnek és nem kéri az engedély módosítását, valamint a felügyelőség általi felszólításra a módosításhoz szükséges meglévő engedélyét, továbbá a kibocsátására jellemző szennyező anyagokra vonatkozó nyilatkozatát a hatóság részére az előírt határidőre nem küldi meg | 200 000 Ft/eset |
+| i) engedélyezéshez szükséges adatokban bekövetkezett változást nem jelenti be a területileg illetékes vízvédelmi hatóságnak és nem kéri az engedély módosítását, valamint a vízvédelmi hatóság általi felszólításra a módosításhoz szükséges meglévő engedélyét, továbbá a kibocsátására jellemző szennyező anyagokra vonatkozó nyilatkozatát a hatóság részére az előírt határidőre nem küldi meg | 200 000 Ft/eset |
 
 | j) vagy felszíni vízbe, csapadékvízelvezető hálózatba engedély nélküli szennyvíz- (használtvíz) bevezetését a hatóság által előírt határidőre nem szünteti meg, illetve a 12. § (5) bekezdés szerinti tilalmat megszegi és közcsatornába hulladékot (így különösen: élelmiszer hulladékot) bocsát | 200 000 Ft/eset |
 
-[^156]: A 2. számú melléklet a Magyar Közlöny 2004. évi 116. számában megjelent helyesbítésnek megfelelő szöveg. A 2. számú melléklet a 208/2006. (X. 16.) Korm. rendelet 12. §-a és 13. §-ának a) pontja szerint módosított szöveg.
+[^196]: A 2. számú melléklet a Magyar Közlöny 2004. évi 116. számában megjelent helyesbítésnek megfelelő szöveg. A 2. számú melléklet a 208/2006. (X. 16.) Korm. rendelet 12. §-a és 13. §-ának a) pontja, az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) és (5) bekezdése, az 558/2013. (XII. 31.) Korm. rendelet 4. §-a szerint módosított szöveg.

@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-220-20-
 | 2013-01-01 | 2004-220-20-22.17 | 441/2012. (XII. 29.) Korm. rendelet |
 | 2013-06-06 | 2004-220-20-22.18 | 170/2013. (V. 29.) Korm. rendelet |
 | 2013-06-10 | 2004-220-20-22.19 | 182/2013. (VI. 7.) Korm. rendelet |
+| 2014-01-01 | 2004-220-20-22.20 | 527/2013. (XII. 30.) Korm. rendelet |
