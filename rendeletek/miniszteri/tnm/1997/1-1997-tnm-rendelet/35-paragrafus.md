@@ -2,7 +2,7 @@
 
 35. § (1) Nemzetbiztonsági szempontból való alkalmatlanság esetén az alkalmatlanságot jelentő oknak az állományilletékes parancsnok tudomására jutását követően haladéktalanul intézkedni kell a szolgálati viszony megszüntetéséről.
 
-(2)[^38] A Hszt. 56. § (6) bekezdésében meghatározott esetben a hivatásos szolgálatra alkalmatlanná válás miatt az állományilletékes parancsnok
+(2)[^39] A Hszt. 56. § (6) bekezdésében meghatározott esetben a hivatásos szolgálatra alkalmatlanná válás miatt az állományilletékes parancsnok
 
 a) a büntetőeljárásban hozott jogerős ítélet (ítéleti értesítő) kézhezvételét követően, vagy
 
@@ -10,4 +10,4 @@ b) a kifogástalan életvitel ellenőrzés befejezéséről szóló indokolt hat
 
 haladéktalanul intézkedik a szolgálati viszony megszüntetésére.
 
-[^38]: A 35. § (2) bekezdését a 2/2010. (IV. 28.) PTNM rendelet 9. §-a hatályon kívül helyezte, újonnan a 8/2010. (XII. 22.) BM rendelet 7. §-a iktatta be.
+[^39]: A 35. § (2) bekezdését a 2/2010. (IV. 28.) PTNM rendelet 9. §-a hatályon kívül helyezte, újonnan a 8/2010. (XII. 22.) BM rendelet 7. §-a iktatta be.

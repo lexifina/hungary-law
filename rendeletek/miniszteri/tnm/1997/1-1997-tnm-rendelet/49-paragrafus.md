@@ -1,4 +1,4 @@
-## 48. §[^42]
+## 48. §[^43]
 
 ## A hivatásos állomány előmenetele
 
@@ -14,4 +14,4 @@ b) a szolgálati beosztáshoz, várakozási időhöz és végzettséghez kötöt
 
 c) magasabb beosztási kategóriába, illetve fizetési fokozatba sorolás.
 
-[^42]: A 48. §-t megelőző alcímet, hivatkozást és a 48. §-t a 2/2010. (IV. 28.) PTNM rendelet 9. §-a hatályon kívül helyezte.
+[^43]: A 48. §-t megelőző alcímet, hivatkozást és a 48. §-t a 2/2010. (IV. 28.) PTNM rendelet 9. §-a hatályon kívül helyezte.

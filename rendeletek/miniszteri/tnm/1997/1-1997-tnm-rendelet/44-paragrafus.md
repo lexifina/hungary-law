@@ -1,4 +1,4 @@
-## 43. §[^41]
+## 43. §[^42]
 
 ## Összeférhetetlenség
 
@@ -6,4 +6,4 @@
 
 (2) Amennyiben ilyen – a (1) bekezdésben említett – összeférhetetlenség a szolgálati viszony fennállása során jön létre, az érintettet fel kell szólítani az összeférhetetlenségi ok megszüntetésére, illetve a főigazgató intézkedik az összeférhetetlenség megszüntetésére.
 
-[^41]: A 43. §-t megelőző alcímet és a 43. §-t a 2/2010. (IV. 28.) PTNM rendelet 9. §-a hatályon kívül helyezte.
+[^42]: A 43. §-t megelőző alcímet és a 43. §-t a 2/2010. (IV. 28.) PTNM rendelet 9. §-a hatályon kívül helyezte.

@@ -2,6 +2,6 @@
 
 ## A SZOLGÁLATI VISZONY MÓDOSÍTÁSA
 
-## (Hszt. 15., 44., 46–50., 60–60/A., 285–287. §-aihoz)[^13]
+## (Hszt. 15., 44., 46–50., 60–60/A., 285–287. §-aihoz)[^14]
 
-[^13]: A 10. §-t megelőző alcím a 2/2010. (IV. 28.) PTNM rendelet 7. §-a szerint módosított szöveg.
+[^14]: A 10. §-t megelőző alcím a 2/2010. (IV. 28.) PTNM rendelet 7. §-a szerint módosított szöveg.

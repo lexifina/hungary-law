@@ -1,4 +1,4 @@
-## 32. §[^37] A hivatásos szolgálati viszonyról (illetve ezzel egyidejűleg a rendfokozatról) történő lemondást – a Hszt. 245/D. §-a (5) bekezdésében foglalt eset kivételével – írásban kell előterjeszteni.
+## 32. §[^38] A hivatásos szolgálati viszonyról (illetve ezzel egyidejűleg a rendfokozatról) történő lemondást – a Hszt. 245/D. §-a (5) bekezdésében foglalt eset kivételével – írásban kell előterjeszteni.
 
 ## Felmentés
 
@@ -8,4 +8,4 @@
 
 (3) Az állományparancsot legkésőbb a felmentés kezdő időpontja előtti munkanapon az állomány tagjának át kell adni.
 
-[^37]: A 32. § az 5/2001. (XI. 23.) TNM rendelet 11. §-ával megállapított szöveg.
+[^38]: A 32. § az 5/2001. (XI. 23.) TNM rendelet 11. §-ával megállapított szöveg.
