@@ -1,6 +1,6 @@
 ## Kamarai hozzájárulás
 
-34/A. § (1) A kamarai közfeladatok ellátásához történő hozzájárulásként a gazdálkodó szervezet köteles kamarai hozzájárulást fizetni.
+34/A. § (1) A kamarai közfeladatok ellátásához történő hozzájárulásként a gazdálkodó szervezet köteles kamarai hozzájárulást fizetni. Nem köteles kamarai hozzájárulást fizetni az egyéni vállalkozó, ha vállalkozási tevékenységét a naptári év teljes időszakában szünetelteti és ezt a nyilvántartását vezető területi gazdasági kamarának bejelenti.
 
 (2) A kamarai hozzájárulás összege évi 5000 forint.
 

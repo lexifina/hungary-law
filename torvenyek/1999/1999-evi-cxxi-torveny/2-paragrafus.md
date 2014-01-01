@@ -1,6 +1,10 @@
 2. § E törvény alkalmazásában
 
-a) gazdálkodó szervezet: a gazdasági társaság, az egyéni cég, az egyesülés, az egyes jogi személyek vállalata, a leányvállalat, a külföldi székhelyű vállalkozás magyarországi fióktelepe, a lakásszövetkezet kivételével a szövetkezet, az egyéni vállalkozó, amely nem minősül a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamaráról szóló 2012. évi CXXVI. törvény 2. § c) pontja alapján az agrárkamara tagjának;
+a) gazdálkodó szervezet:
+
+aa) a gazdasági társaság, az egyéni cég, az egyesülés, az egyes jogi személyek vállalata, a leányvállalat, a külföldi székhelyű vállalkozás magyarországi fióktelepe, a lakásszövetkezet kivételével a szövetkezet, az egyéni vállalkozó, amely nem minősül a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamaráról szóló 2012. évi CXXVI. törvény 2. § c) pontja alapján az agrárkamara tagjának;
+
+ab) az élelmiszerlánc-felügyeleti információs rendszerben nyilvántartott és az agrárgazdasági tevékenységet nem főtevékenységként folytató gazdálkodó szervezet is, az egyéni vállalkozót is beleértve;
 
 b) gazdasági kamara tagja: az a gazdálkodó szervezet, amely a tagsággal járó jogokat és kötelezettségeket önkéntesen vállalja, a gazdasági kamarába tagként felvették és a tagokról vezetett nyilvántartásba bejegyezték;
 
@@ -8,7 +12,7 @@ c) kézműipari tevékenység: az a tevékenység, amely a gazdálkodó szerveze
 
 d)
 
-e) országos gazdasági érdekképviseleti szervezet: az egyesülési jogról szóló törvény alapján gazdasági érdekképviseleti célra létrehozott az az egyesület, illetve ezek szövetsége, amelynek legalább 10 megyére (fővárosra) kiterjedően van tagsága;
+e) országos gazdasági érdek-képviseleti szervezet: gazdasági érdek-képviseleti célra létrehozott olyan egyesület, illetve egyesületek szövetsége, amelynek legalább 10 megyére vagy legalább 9 megyére és a fővárosra kiterjedően van tagsága;
 
 f) képviseletre jogosult természetes személy: az egyéni vállalkozó, a gazdálkodó szervezet tagja (részvényese), vezető tisztségviselője, illetőleg alkalmazottja, továbbá az egyéni vállalkozó alkalmazottja és segítő családtagja;
 
