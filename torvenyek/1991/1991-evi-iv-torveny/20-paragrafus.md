@@ -1,12 +1,12 @@
 ## A foglalkoztatást elősegítő támogatások közös szabályai
 
-20. § (1) A 13/A. § (3) bekezdésében, a 14–16/A. §-ban, a 17–19/C. §-ban, valamint a 22. §-ban meghatározott támogatások a Nemzeti Foglalkoztatási Alap foglalkoztatási alaprészéből nyújthatók.
+20. § (1) A 13/A. § (2) bekezdésében, a 14–16. §-ban, a 17–19/C. §-ban, valamint a 22. §-ban meghatározott támogatások a Nemzeti Foglalkoztatási Alap foglalkoztatási alaprészéből nyújthatók.
 
 (2)
 
-(3) A 13/A. § (1)–(2) bekezdésében meghatározott szolgáltatások, a 14. §-ban, a 16–18. §-okban, valamint a 19/B–19/C. §-okban meghatározott támogatások a Társadalmi Megújulás Operatív Program keretében az állami foglalkoztatási szerv közreműködésével megvalósításra kerülő munkaerő-piaci programokban is nyújthatók.
+(3) A 14. §-ban, a 16–18. §-okban, a 19/B–19/C. §-okban meghatározott támogatások, valamint az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott szolgáltatások és támogatások európai uniós forrásból megvalósuló program keretében, az állami foglalkoztatási szerv közreműködésével megvalósításra kerülő munkaerő-piaci programokban is nyújthatók.
 
-(4) A miniszter rendeletben határozza meg a 14–19. §-ban, valamint a 19/B–19/C. §-ban meghatározott támogatások további feltételeit, odaítélésének, megszüntetésének és visszakövetelésének részletes szabályait. A miniszter a 45. életévüket betöltött, valamint a roma származású személyek munkaerőpiaci helyzetének javítása, foglalkoztatásának elősegítése érdekében e törvényben foglaltaknál kedvezőbb szabályokat állapíthat meg.
+(4) Felhatalmazást kap a miniszter, hogy rendeletben határozza meg a 14–18. §-ban, valamint a 19/B–19/C. §-ban meghatározott támogatások további feltételeit, odaítélésének, megszüntetésének és visszakövetelésének részletes szabályait. A miniszter a 25 év alatti fiatalok, az 50. életévüket betöltött, valamint a roma származású személyek munkaerőpiaci helyzetének javítása, foglalkoztatásának elősegítése érdekében e törvényben foglaltaknál kedvezőbb szabályokat állapíthat meg.
 
 (5) Felhatalmazást kap a miniszter, hogy rendeletben határozza meg
 

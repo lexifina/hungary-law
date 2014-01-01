@@ -12,13 +12,13 @@ a) az alábbi adatokat:
 
 aa) a jogosult természetes személyazonosító adatai,
 
-ab) a jogosult állampolgársága, illetőleg bevándorolt, letelepedett vagy menekült státusza,
+ab) a jogosult állampolgársága, illetve bevándorolt, letelepedett, menekült vagy oltalmazott státusza,
 
-ac) a jogosult belföldi lakó-, illetőleg tartózkodási helye,
+ac) a jogosult belföldi lakó-, illetve tartózkodási helye,
 
 ad) az ellátás megállapítására, megváltoztatására és megszüntetésére vonatkozó adatok,
 
-ae) a jogosult Társadalombiztosítási Azonosító Jele (TAJ szám),
+ae) a jogosult társadalombiztosítási azonosító jele (taj-szám),
 
 af) a foglalkoztatást helyettesítő támogatásra jogosult személy iskolai végzettsége, szakképesítése,
 

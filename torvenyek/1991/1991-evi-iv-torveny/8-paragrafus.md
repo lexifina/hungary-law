@@ -1,6 +1,14 @@
 8. § (1) Az Országgyűlés szabályozza a munkanélküliség megelőzését, illetőleg csökkentését szolgáló foglalkoztatási eszközöket, az álláskeresőket megillető juttatásokat, a munkaerőpiaci szervezetrendszert, valamint ezek finanszírozásának módját.
 
-(2) A Kormány döntéseinek előkészítése, valamint végrehajtása során figyelembe veszi azok foglalkoztatáspolitikai összefüggéseit és következményeit. Ennek megfelelően gondoskodik e döntések összehangolásáról, valamint arról, hogy a munkavállaláshoz és a foglalkoztatáshoz fűződő alapvető hazai érdekek ne szenvedjenek sérelmet. A Kormány az Európai Unió foglalkoztatási stratégiájához igazodóan Nemzeti Foglalkoztatási Akció Tervet készít. A Kormány meghatározza a kormányzati szerveknek a foglalkoztatáspolitika megvalósításával kapcsolatos feladatait.
+(2) A Kormány döntéseinek előkészítése, valamint végrehajtása során figyelembe veszi azok foglalkoztatáspolitikai összefüggéseit és következményeit. Ennek megfelelően feladatainak ellátása során
+
+a) gondoskodik döntéseinek összehangolásáról, valamint arról, hogy a munkavállaláshoz és a foglalkoztatáshoz fűződő alapvető hazai érdekek ne szenvedjenek sérelmet,
+
+b) az Európai Unió foglalkoztatási stratégiájához igazodóan évente foglalkoztatási akciótervet készít,
+
+c) a feladatának eredményes ellátása érdekében a munkaerő-piaci folyamatok naprakész megfigyelésére és ennek nyomán a munkaerő-piaci politikák hatékony alakítására és alkalmazására alkalmas foglalkoztatási mutatószámot alakít ki,
+
+d) meghatározza a kormányzati szerveknek a foglalkoztatáspolitika megvalósításával kapcsolatos feladatait.
 
 (3)
 

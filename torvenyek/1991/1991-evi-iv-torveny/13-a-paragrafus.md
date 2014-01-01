@@ -4,24 +4,22 @@
 
 ## Munkaerőpiaci szolgáltatások
 
-13/A. § (1) Az állami foglalkoztatási szerv és az állami felnőttképzési intézmény a munkahelykeresést, a munkához, valamint megfelelő munkaerőhöz jutást, továbbá a munkahely megtartását szolgáltatások nyújtásával is elősegíti.
+13/A. § (1) Az állami foglalkoztatási szerv a munkahelykeresést, a munkához, valamint a megfelelő munkaerőhöz jutást, továbbá a munkahely megtartást munkaerőpiaci szolgáltatásokkal is elősegíti.
 
-(2) A munkaerőpiaci szolgáltatások formái a következők:
+(2) A munkaerő-piaci szolgáltatást az álláskereső és a szolgáltatást kérő részére az állami foglalkoztatási szerv közvetlenül, illetve a nyilvántartásba vett munkaerőpiaci-szolgáltatást nyújtó szervezeteken keresztül nyújtja.
 
-a) munkaerőpiaci és foglalkozási információ nyújtása,
+(3) Az állami foglalkoztatási szerv az (1) bekezdésben meghatározott célokat az álláskeresővel és a munkaerő-piaci szolgáltatást kérővel készített egyéni cselekvési tervvel is elősegíti.
 
-b) munka-, pálya-, álláskeresési, rehabilitációs, helyi (térségi) foglalkoztatási tanácsadás,
+(4) Felhatalmazást kap a miniszter, hogy rendeletben határozza meg
 
-c) munkaközvetítés.
+a) a munkaerő-piaci szolgáltatásokat nyújtó szervezetek és az általuk nyújtott szolgáltatások nyilvántartásának, valamint a nyilvántartott szervezetek ellenőrzésének szabályait,
 
-(3) Az állami foglalkoztatási szerv a (2) bekezdés a)–b) pontjában meghatározott munkaerőpiaci szolgáltatást a (4) bekezdés szerinti jogszabályban meghatározott feltételekkel az alábbiak szerint biztosítja:
+b) a munkaerőpiaci szolgáltatásokat, – ideértve az egyes munkavállalói csoportok számára nyújtható speciális szolgáltatásokat is –,
 
-a) pályázati eljárás eredményeként támogatást nyújt, vagy
+c) a munkaerő-piaci szolgáltatások tartalmát, csoportosítását és a szolgáltatások szakmai követelményeit,
 
-b) a 41. § (3)–(4) bekezdése szerinti uniós források bevonásával megvalósuló programok esetében a 2011. évi CVIII. törvény rendelkezései alapján, közbeszerzési eljárás keretében vásárol.
+d) az egyéni cselekvési tervre vonatkozó részletes szabályokat,
 
-(4) Felhatalmazást kap a
+e) a szolgáltatások igénybevételének, valamint e bekezdés a) pontjában meghatározott szervezetek részére történő támogatás nyújtásának feltételeit, valamint
 
-a) Kormány, hogy rendeletben határozza meg a munkaerő-piaci szolgáltatásokat nyújtó szervezetek akkreditációjának, valamint az akkreditált szervezetek ellenőrzésének szabályait,
-
-b) miniszter, hogy rendeletben határozza meg az egyes munkaerő-piaci szolgáltatásokat – ideértve az egyes munkavállalói csoportok számára nyújtható speciális szolgáltatásokat –, a szolgáltatások szakmai követelményeit, a szolgáltatások igénybevételének időtartama alatt a keresetpótló juttatás nyújtásának feltételeit és a szolgáltatások, valamint a (3) bekezdésben meghatározott támogatás nyújtásának feltételeit.
+f) a szolgáltatások igénybevételének időtartama alatt a keresetpótló juttatás nyújtásának feltételeit és szabályait.

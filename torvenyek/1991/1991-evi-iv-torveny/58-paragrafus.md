@@ -94,6 +94,8 @@ va) az a természetes személy, aki az állami foglalkoztatási szerv szolgálta
 
 vb) az a munkaadó, aki harmadik országbeli állampolgár magyarországi foglalkoztatásának engedélyezése érdekében munkaerőigényt jelent be és közvetítést is kér,
 
+v) harmadik országból származó munkavállaló: az a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben meghatározott harmadik országbeli állampolgár, aki a magyar idegenrendészeti hatóságok által összevont engedélyként kiállított tartózkodási engedély birtokában jogszerűen tartózkodik Magyarország területén, és foglalkoztatásra irányuló jogviszony keretében munkát vállalhat.
+
 w) kedvezményezett: az a támogatást igénylő, aki 2014–2020 közötti programozási időszakban az Európai Szociális Alapból támogatásban részesül.
 
 (6) A törvény alkalmazásában a
@@ -120,7 +122,7 @@ d) a rendbírság kiszabásának, megfizetésének és kezelésének,
 
 e) az e törvényben meghatározott nyilvántartások vezetésének
 
-f)
+f) a gyermek- és ifjúságpolitikáért felelős miniszterrel egyetértésben a kedvezményezett által az adatbázisba történő adatrögzítés eljárásának, az adatszolgáltatás technikai feltételeit, továbbá az ellenőrzés szakmai tartalmát.
 
 g)
 

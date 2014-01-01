@@ -64,7 +64,7 @@ a) a külön jogszabályban meghatározott járulékkedvezmény megtérítésér
 
 b) az európai uniós operatív programok előfinanszírozásának céljára szolgáló pénzeszközöket,
 
-c) az európai uniós társfinanszírozásra szolgáló pénzeszközöket,
+c) a Társadalmi Megújulás Operatív Program társfinanszírozásra szolgáló pénzeszközöket,
 
 d) a külön jogszabályban meghatározott közfoglalkoztatás támogatására fordítható pénzeszközöket,
 

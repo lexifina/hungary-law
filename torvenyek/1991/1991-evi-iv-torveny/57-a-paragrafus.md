@@ -46,7 +46,7 @@ e) a rehabilitációs hatóság a megváltozott munkaképességű személyek ell
 
 szerinti adatok igénylésére jogosult.
 
-(4)
+(4) A rehabilitációs hatóság a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény alapján rehabilitációs ellátásban vagy rehabilitációs járadékban részesülő személyek számára történő rehabilitációs szolgáltatások biztosítása céljából e személyeknek az (1) bekezdés alapján kezelt, a (2) bekezdés a–d) és f) pontjában meghatározott adatait közvetlen hozzáféréssel átveheti.
 
 (5) Az (1) bekezdésben megjelölt szervek más szerv és természetes személy részére adatot csak jogszabályban meghatározott módon szolgáltathatnak.
 
