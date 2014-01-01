@@ -46,4 +46,4 @@
 
 3. melléklet a 4/2011. (I. 31.) NFM rendelethez[^14]
 
-[^14]: A 3. melléklet a 78/2012. (XII. 22.) NFM rendelet 42. §-ával megállapított szöveg.
+[^14]: A 3. melléklet a 64/2013. (X. 30.) NFM rendelet 11. § (4) bekezdésével megállapított szöveg.
