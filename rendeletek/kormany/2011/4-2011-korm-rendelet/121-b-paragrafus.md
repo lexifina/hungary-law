@@ -1,0 +1,3 @@
+## 121/A. §[^505] A MAG – Magyar Gazdaságfejlesztési Központ Zrt. kizárólagos joggal végzi el a 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alapból, az Európai Szociális Alapból és a Kohéziós Alapból származó támogatások felhasználásához kapcsolódó, a központi koordinációs szerv és a MAG – Magyar Gazdaságfejlesztési Központ Zrt. közötti külön megállapodásban meghatározott dokumentumok digitalizálását és dokumentumkezelését.
+
+[^505]: A 121/A. §-t a 25/2012. (II. 29.) Korm. rendelet 56. §-a iktatta be, szövege az 548/2013. (XII. 30.) Korm. rendelet 43. § 222. pontja szerint módosított szöveg.

@@ -1,6 +1,6 @@
 ## Azon adatok köre, amelyeket a pályázati adatlapon, a szerződés adatlapon, és a kifizetési igényen alkalmazni lehet
 
-## (A *-gal jelölt adatokat már nem szükséges bekérni és rögzíteni, mivel az EMIR az első rögzítést követően az adatot megjeleníti minden szükséges helyen)
+## (A *-gal jelölt adatokat már nem szükséges bekérni és rögzíteni, mivel a monitoring és információs rendszer az első rögzítést követően az adatot megjeleníti minden szükséges helyen)
 
 |  | A | B | C |
 

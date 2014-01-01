@@ -1,7 +1,8 @@
-31. § (1) Nagyprojekt esetében a támogatási szerződés megkötését követően az NFÜ jóváhagyás céljából megküldi az Európai Bizottságnak a támogatási kérelmet. Kivételesen az NFÜ a támogatási szerződés megkötését megelőzően is megküldheti az Európai Bizottságnak a támogatási kérelmet, azonban ha a támogatási szerződés megkötésére a támogatási kérelem megküldését követő 40 napon belül nem kerül sor, az NFÜ kezdeményezi az Európai Bizottságnál a jóváhagyás folyamatának felfüggesztését.
+31. § (1)[^162] Nagyprojekt esetében a támogatási szerződés megkötését követően az irányító hatóság jóváhagyás céljából megküldi az Európai Bizottságnak a támogatási kérelmet, amelyről a központi koordinációs szervet is tájékoztatja. Kivételesen az irányító hatóság a támogatási szerződés megkötését megelőzően is megküldheti az Európai Bizottságnak a támogatási kérelmet, azonban ha a támogatási szerződés megkötésére a támogatási kérelem megküldését követő 40 napon belül nem kerül sor, az irányító hatóság kezdeményezi az Európai Bizottságnál a jóváhagyás folyamatának felfüggesztését.
 
-(2)[^141] Az NFÜ tájékoztatja a közreműködő szervezetet, a minisztert, a kedvezményezettet és az igazoló hatóságot a támogatási kérelem Európai Bizottság által történő befogadásáról, valamint jóváhagyásáról vagy elutasításáról.
+(2)[^163] Az irányító hatóság tájékoztatja a közreműködő szervezetet, az ágazati fejlesztésért felelős minisztert, a kedvezményezettet, az igazoló hatóságot, valamint a központi koordinációs szervet a támogatási kérelem Európai Bizottság által történő befogadásáról, valamint jóváhagyásáról vagy elutasításáról.
 
 (3) Ha az Európai Bizottság döntése alapján a projekt tartalma, illetve költségvetése megváltozik, a támogatási szerződést a bizottsági határozattal összhangban módosítani kell.
 
-[^141]: A 31. § (2) bekezdése a 25/2012. (II. 29.) Korm. rendelet 62. § (1) bekezdés 10. pontja szerint módosított szöveg.
+[^162]: A 31. § (1) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^163]: A 31. § (2) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 13. §-ával megállapított szöveg.

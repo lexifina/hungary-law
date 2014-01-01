@@ -6,7 +6,7 @@ a) a szabálytalanságok nyilvántartásáról,
 
 b) a szabálytalanságokkal kapcsolatos negyedéves jelentések összeállításáról,
 
-c) az EMIR szabálytalanságokkal kapcsolatos adatokkal történő feltöltéséről,
+c)[^393] a monitoring és információs rendszer szabálytalanságokkal kapcsolatos adatokkal történő feltöltéséről,
 
 d) az OLAF Koordinációs Irodával történő együttműködésről,
 
@@ -14,7 +14,7 @@ e) az igazoló hatósággal történő együttműködésről, és
 
 f) döntési javaslatot terjeszt a szervezet vezetője elé a szabálytalansági eljárás megindításával kapcsolatban.
 
-(3) A lebonyolításban érintett szervezet szabálytalanság-felelőse a kézhezvételtől számított 3 napon belül a szabálytalanság gyanúját rögzíti az EMIR-ben, és megküldi a szervezet vezetőjének a szabálytalansági gyanúról kapott tájékoztatást, a kapcsolódó dokumentumokat és véleményét, javaslatot téve az ügy kivizsgálására vagy annak mellőzésére.
+(3)[^394] A lebonyolításban érintett szervezet szabálytalanság-felelőse a kézhezvételtől számított 3 napon belül a szabálytalanság gyanúját rögzíti a monitoring és információs rendszerben, és megküldi a szervezet vezetőjének a szabálytalansági gyanúról kapott tájékoztatást, a kapcsolódó dokumentumokat és véleményét, javaslatot téve az ügy kivizsgálására vagy annak mellőzésére.
 
 (4) A lebonyolításban érintett szervezet vezetője a kézhezvételtől számított 3 napon belül dönt – az (5) bekezdésben meghatározott kivétellel – a szabálytalansági eljárás megindításáról vagy az arra irányuló javaslat elutasításáról.
 
@@ -22,7 +22,7 @@ f) döntési javaslatot terjeszt a szervezet vezetője elé a szabálytalansági
 
 a) a szabálytalansággal érintett összeg nem haladja meg a százezer forintot,
 
-b)[^281] a kedvezményezett ellen adósságrendezési, felszámolási, végelszámolási, kényszertörlési vagy a megszüntetésére irányuló egyéb eljárás, vagy csődeljárás indult,
+b)[^395] a kedvezményezett ellen adósságrendezési, felszámolási, végelszámolási, kényszertörlési vagy a megszüntetésére irányuló egyéb eljárás, vagy csődeljárás indult,
 
 c) a cégbíróság a kedvezményezett céget a törvényességi felügyeleti eljárásban hozott intézkedés vagy megszüntetési eljárás következtében hivatalból törli a cégjegyzékből,
 
@@ -30,6 +30,9 @@ d) a kedvezményezett elismeri a szabálytalanság tényét,
 
 e) a szabálytalanság ténye még azelőtt derült ki, hogy a kedvezményezett részére bármilyen kifizetés történt volna,
 
-f) az NFÜ vezetője az Európai Bizottság, a belső ellenőrzési részleg, az igazoló hatóság vagy bármely, ellenőrzést végző szervezet megállapításait elfogadja.
+f)[^396] az irányító hatóság az Európai Bizottság, a belső ellenőrzési részleg, az igazoló hatóság vagy bármely, ellenőrzést végző szervezet megállapításait elfogadja.
 
-[^281]: A 84. § (5) bekezdés b) pontja a 302/2013. (VII. 29.) Korm. rendelet 39. §-ával megállapított szöveg.
+[^393]: A 84. § (2) bekezdés c) pontja az 548/2013. (XII. 30.) Korm. rendelet 43. § 157. pontja szerint módosított szöveg.
+[^394]: A 84. § (3) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 43. § 158. pontja szerint módosított szöveg.
+[^395]: A 84. § (5) bekezdés b) pontja a 302/2013. (VII. 29.) Korm. rendelet 39. §-ával megállapított szöveg.
+[^396]: A 84. § (5) bekezdés f) pontja az 548/2013. (XII. 30.) Korm. rendelet 43. § 159. pontja szerint módosított szöveg.
