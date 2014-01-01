@@ -2,4 +2,6 @@
 
 (2) A halva született magzat sírhelyét jelzőfával kell megjelölni, amelyen a temetés napját és a temetési hely sorszámát kell feltüntetni.
 
-(3) Ha a halva született magzat eltemetéséről – kérésére – közeli hozzátartozója gondoskodott, a sírhelyen kereszt vagy fejfa is elhelyezhető, és azon utónevet is fel lehet tüntetni.
+(3)[^18] Halva született magzat, korai és középidős elhalt magzat eltemetése esetén a sírhelyen kereszt, fejfa vagy egyéb síremlék is elhelyezhető, és azon utónevet is fel lehet tüntetni.
+
+[^18]: A 14. § (3) bekezdése a 351/2013. (X. 4.) Korm. rendelet 49. § (2) bekezdésével megállapított szöveg.

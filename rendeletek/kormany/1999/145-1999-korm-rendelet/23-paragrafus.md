@@ -2,7 +2,7 @@
 
 ## Temetői munkák
 
-23. § (1)[^30] A temetőben történő munkavégzést – a hozzátartozók részéről történő sírgondozás, a temetési hely növénnyel való beültetése és díszítése kivételével – a temető üzemeltetője részére a munkavégzés megkezdését megelőzően a temetőszabályzatban meghatározott módon be kell jelenteni. Egy méternél magasabbra növő növények ültetésére a szabályzat az irányadó.
+23. § (1)[^32] A temetőben történő munkavégzést – a hozzátartozók részéről történő sírgondozás, a temetési hely növénnyel való beültetése és díszítése kivételével – a temető üzemeltetője részére a munkavégzés megkezdését megelőzően a temetőszabályzatban meghatározott módon be kell jelenteni. Egy méternél magasabbra növő növények ültetésére a szabályzat az irányadó.
 
 (2) Az üzletszerű tevékenység során a vállalkozó köteles betartani a szabályzatban meghatározott feltételeket.
 
@@ -10,7 +10,7 @@
 
 (4) Búcsúztatás alatt a munkavégzéssel keletkezett hang vagy egyéb hatás nem zavarhatja a szertartást.
 
-(5)[^31] A munkavégzés temetőbeli helye és ideje a folyamatban levő temetésre, búcsúztatásra, kegyeleti szertartások végzésére tekintettel és a temetőszabályzatban meghatározott előírások be nem tartása esetén korlátozható. A munkavégzés előzetes bejelentésének hiányában a temető üzemeltetője a temető területére munkavégzés céljából történő belépést megtilthatja.
+(5)[^33] A munkavégzés temetőbeli helye és ideje a folyamatban levő temetésre, búcsúztatásra, kegyeleti szertartások végzésére tekintettel és a temetőszabályzatban meghatározott előírások be nem tartása esetén korlátozható. A munkavégzés előzetes bejelentésének hiányában a temető üzemeltetője a temető területére munkavégzés céljából történő belépést megtilthatja.
 
-[^30]: A 23. § (1) bekezdése a 379/2013. (X. 25.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^31]: A 23. § (5) bekezdését a 379/2013. (X. 25.) Korm. rendelet 9. § (2) bekezdése iktatta be.
+[^32]: A 23. § (1) bekezdése a 379/2013. (X. 25.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^33]: A 23. § (5) bekezdését a 379/2013. (X. 25.) Korm. rendelet 9. § (2) bekezdése iktatta be.

@@ -10,6 +10,6 @@ a) az eltemettető az ország más hamvasztóüzemét jelöli meg a hamvasztáso
 
 b) az elhalálozás helye szerinti legközelebbi hamvasztóüzemben a szállítás és a hamvasztás együttes díja magasabb a távolabbi üzembe való szállítás és hamvasztás együttes díjánál.
 
-(4)[^40] A hamvasztóüzem a temetkezési szolgáltató kérésére az egységesen érvényesített árairól tájékoztatást ad. A hamvasztásos temetés felvételekor a szolgáltató a felvételi irodában kifüggesztett árjegyzékben tájékoztatja az eltemettetőt a Magyarország területén található minden hamvasztó üzem, és a rendelkezésére álló információk alapján egyéb hamvasztó üzemek hamvasztási és szállítási díjáról. Az eltemettetőt külön tájékoztatni kell a legolcsóbb és legközelebbi hamvasztóüzemek díjairól. A tételes számlában a hamvasztóüzem által számlázott díjat kell érvényesíteni.
+(4)[^42] A hamvasztóüzem a temetkezési szolgáltató kérésére az egységesen érvényesített árairól tájékoztatást ad. A hamvasztásos temetés felvételekor a szolgáltató a felvételi irodában kifüggesztett árjegyzékben tájékoztatja az eltemettetőt a Magyarország területén található minden hamvasztó üzem, és a rendelkezésére álló információk alapján egyéb hamvasztó üzemek hamvasztási és szállítási díjáról. Az eltemettetőt külön tájékoztatni kell a legolcsóbb és legközelebbi hamvasztóüzemek díjairól. A tételes számlában a hamvasztóüzem által számlázott díjat kell érvényesíteni.
 
-[^40]: A 32. § (4) bekezdése a 379/2013. (X. 25.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^42]: A 32. § (4) bekezdése a 379/2013. (X. 25.) Korm. rendelet 13. §-ával megállapított szöveg.

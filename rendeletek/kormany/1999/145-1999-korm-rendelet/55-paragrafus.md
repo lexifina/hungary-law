@@ -1,6 +1,6 @@
-55. §[^86] (1)[^87] A temető üzemeltetője is köteles a szabályzatban meghatározott, a temetkezési szolgáltatókat terhelő díjakat megfizetni, és a könyvelésében elkülönítetten szerepeltetni, ha az üzemeltetés mellett temetkezési szolgáltató tevékenységet is végez.
+55. §[^91] (1)[^92] A temető üzemeltetője is köteles a szabályzatban meghatározott, a temetkezési szolgáltatókat terhelő díjakat megfizetni, és a könyvelésében elkülönítetten szerepeltetni, ha az üzemeltetés mellett temetkezési szolgáltató tevékenységet is végez.
 
-(2)[^88]
+(2)[^93]
 
 (3) Ha a temető üzemeltetése kegyeleti közszolgáltatási szerződés alapján történik, az üzemeltető köteles
 
@@ -8,6 +8,6 @@ a) az üzemeltetés, illetőleg a temetkezési szolgáltatás költségeinek meg
 
 b) az üzemeltetéssel összefüggő bevételeiről és kiadásairól az önkormányzatot évente tájékoztatni.
 
-[^86]: Az 55. § a 121/2005. (VI. 28.) Korm. rendelet 22. §-ával megállapított szöveg.
-[^87]: Az 55. § (1) bekezdése a 379/2013. (X. 25.) Korm. rendelet 25. §-ával megállapított szöveg.
-[^88]: Az 55. § (2) bekezdését a 379/2013. (X. 25.) Korm. rendelet 31. § b) pontja hatályon kívül helyezte.
+[^91]: Az 55. § a 121/2005. (VI. 28.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^92]: Az 55. § (1) bekezdése a 379/2013. (X. 25.) Korm. rendelet 25. §-ával megállapított szöveg.
+[^93]: Az 55. § (2) bekezdését a 379/2013. (X. 25.) Korm. rendelet 31. § b) pontja hatályon kívül helyezte.
