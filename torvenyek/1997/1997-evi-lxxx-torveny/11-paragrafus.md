@@ -6,4 +6,4 @@ b) a magyar jogszabályok szerint be nem jegyzett külföldi munkáltató által
 
 c) az európai parlamenti képviselőre.
 
-d)
+d) a hallgatói munkaszerződés alapján képzési program keretében vagy a képzés részeként megszervezett szakmai gyakorlat vagy gyakorlati képzés keretében foglalkoztatott hallgatóra.

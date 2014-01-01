@@ -4,6 +4,10 @@ a) keresőképtelen, gyermekgondozási segélyben részesül,
 
 b) fogvatartott,
 
-c) ügyvédként, szabadalmi ügyvivőként, közjegyzőként fennálló kamarai tagsága szünetel,
+c) állat-egészségügyi szolgáltató tevékenysége szünetel,
 
-d) egyéni vállalkozói tevékenysége szünetel.
+d) ügyvédi tevékenysége, közjegyzői vagy szabadalmi ügyvivői kamarai tagsága szünetel,
+
+e) egyéni vállalkozói tevékenysége szünetel,
+
+f) foglalkoztatása a munkaviszonyában vagy egyidejűleg fennálló több munkaviszonyában együttesen eléri a heti 36 órát.

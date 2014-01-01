@@ -10,7 +10,7 @@ Tbj. 50. § (1) A foglalkoztató a biztosítottnak a tárgyhónapban kifizetet
 
 (5) A foglalkoztató a biztosítottat terhelő járulékot akkor is köteles bevallani és befizetni, ha annak levonása a tárgyhónapban kifizetett jövedelemből nem lehetséges. A megelőlegezett járulékot a foglalkoztató a biztosítottal szemben fennálló követelésként veszi nyilvántartásba.
 
-(6) A foglalkoztató írásban tájékoztatja a biztosítottat a tárgyhavi jövedelem kifizetésével egyidejűleg a biztosított jövedelméből levont egészségbiztosítási- és munkaerő-piaci járulékról, valamint nyugdíjjárulékról, illetőleg a részére túlvonás miatt visszafizetett (átutalt) járulékokról, a társas vállalkozás a kiegészítő tevékenységet folytató társas vállalkozót az egészségügyi szolgáltatási járulékról.
+(6) A foglalkoztató írásban tájékoztatja a biztosítottat a tárgyhavi jövedelem kifizetésével egyidejűleg a biztosított jövedelméből levont egészségbiztosítási- és munkaerő-piaci járulékról, nyugdíjjárulékról, valamint az egyes járulékokból érvényesített családi járulékkedvezményről, illetőleg a részére túlvonás miatt visszafizetett (átutalt) járulékokról, a társas vállalkozás a kiegészítő tevékenységet folytató társas vállalkozót az egészségügyi szolgáltatási járulékról.
 
 (7)
 

@@ -38,7 +38,7 @@ p) egészségügyi szolgáltatás megszerzése érdekében kötött megállapod�
 
 r) a 39. § (2) bekezdése szerint egészségügyi szolgáltatási járulék fizetésére kötelezett,
 
-s) nevelőszülői tevékenységet folytat, és az e tevékenységéből származó tárgyhavi járulékalapot képező jövedelme nem éri el a minimálbér 30 százalékát, naptári napokra annak harmincad részét.
+s)
 
 t) hajléktalan,
 

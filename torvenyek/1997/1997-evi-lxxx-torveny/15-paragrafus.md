@@ -10,7 +10,7 @@ a) nevelési-oktatási és felsőoktatási intézmény, iskola, iskolarendszeren
 
 b) szocioterápiás intézetben gyógykezelt elmebeteg, illetőleg szenvedélybeteg,
 
-c) őrizetbe vett, előzetesen letartóztatott, elzárásra utalt, szabadságvesztés büntetést töltő személy (a továbbiakban: fogvatartott),
+c) őrizetbe vett, előzetesen letartóztatott, elzárásra utalt, szabadságvesztés büntetést töltő személy,
 
 d) közcélú munkát végez, különösen, aki életmentés, baleset-, illetőleg katasztrófa-elhárítás vagy véradás során szenved, balesetet vagy egészségkárosodást.
 
