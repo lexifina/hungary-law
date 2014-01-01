@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-345-20-
 | 2011-01-01 | 2009-345-20-22.4 | 362/2010. (XII. 30.) Korm. rendelet |
 | 2012-01-01 | 2009-345-20-22.5 | 378/2011. (XII. 31.) Korm. rendelet |
 | 2013-01-01 | 2009-345-20-22.6 | 378/2011. (XII. 31.) Korm. rendelet |
+| 2014-01-01 | 2009-345-20-22.7 | 528/2013. (XII. 30.) Korm. rendelet |
