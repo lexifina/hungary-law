@@ -28,6 +28,8 @@ ja) ellátja a munkavállalók kölcsönös foglalkoztatásának cseréjéről s
 
 jb)[^10] elbírálja a munkaügyi központok által hozott határozatok ellen benyújtott fellebbezéseket,
 
+jc)[^11] ellátja az idegenrendészeti hatóság által a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben meghatározott összevont kérelmezési eljárás alá tartozó tartózkodási engedélyhez szükséges szakhatósági állásfoglalással kapcsolatos másodfokú hatósági feladatokat,
+
 k) adatokat gyűjt és elemez
 
 ka) a munkabérek és keresetek alakulására vonatkozóan,
@@ -62,7 +64,7 @@ ob) a miniszter által megadott szempontok alapján irányítja, koordinálja a 
 
 oc) véleményezi a munkaügyi központ által indítandó programok tervezetét,
 
-p)[^11]
+p)[^12]
 
 q) ellátja a miniszter által meghatározott ügyfélszolgálati feladatokat, valamint
 
@@ -70,9 +72,9 @@ r) ellátja a jogszabályok által meghatározott nyilvántartások vezetéséve
 
 s) munkaügyi kutatásokat kezdeményez és végez, valamint
 
-t)[^12] koordinálja a munkaügyi központok és kirendeltségek EU-támogatással megvalósuló tevékenységeit,
+t)[^13] koordinálja a munkaügyi központok és kirendeltségek EU-támogatással megvalósuló tevékenységeit,
 
-u)[^13] koordinálja a munkaügyi központok és kirendeltségek megváltozott munkaképességű személyek foglalkoztatásával kapcsolatos tevékenységét.
+u)[^14] koordinálja a munkaügyi központok és kirendeltségek megváltozott munkaképességű személyek foglalkoztatásával kapcsolatos tevékenységét.
 
 (2) A Hivatal a munkaügyi kapcsolatok feladatkörében
 
@@ -105,6 +107,7 @@ d) egyéb szervezetekkel.
 [^8]: A 6. § (1) bekezdés g) pontja a 174/2012. (VII. 26.) Korm. rendelet 89. § (5) bekezdésével megállapított szöveg.
 [^9]: A 6. § (1) bekezdés i) pontja a 7/2013. (I. 18.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^10]: A 6. § (1) bekezdés j) pont jb) alpontja a 174/2012. (VII. 26.) Korm. rendelet 89. § (6) bekezdésével megállapított szöveg.
-[^11]: A 6. § (1) bekezdés p) pontját a 265/2013. (VII. 11.) Korm. rendelet 4. § (17) bekezdés a) pontja hatályon kívül helyezte.
-[^12]: A 6. § (1) bekezdés t) pontja a 174/2012. (VII. 26.) Korm. rendelet 89. § (7) bekezdésével megállapított szöveg.
-[^13]: A 6. § (1) bekezdés u) pontja a 174/2012. (VII. 26.) Korm. rendelet 89. § (7) bekezdésével megállapított szöveg.
+[^11]: A 6. § (1) bekezdés j) pont jc) alpontját a 445/2013. (XI. 28.) Korm. rendelet 27. § (1) bekezdése iktatta be.
+[^12]: A 6. § (1) bekezdés p) pontját a 265/2013. (VII. 11.) Korm. rendelet 4. § (17) bekezdés a) pontja hatályon kívül helyezte.
+[^13]: A 6. § (1) bekezdés t) pontja a 174/2012. (VII. 26.) Korm. rendelet 89. § (7) bekezdésével megállapított szöveg.
+[^14]: A 6. § (1) bekezdés u) pontja a 174/2012. (VII. 26.) Korm. rendelet 89. § (7) bekezdésével megállapított szöveg.

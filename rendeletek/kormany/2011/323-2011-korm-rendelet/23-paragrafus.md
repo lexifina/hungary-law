@@ -6,10 +6,10 @@ a) a munkaadók és munkavállalók érdek-képviseleti szerveivel, gazdasági �
 
 b) nemzetközi szervezetekkel,
 
-c)[^54] oktatási és felnőttképzési tevékenységet folytató intézményekkel,
+c)[^56] oktatási és felnőttképzési tevékenységet folytató intézményekkel,
 
 d) oktatási intézményt fenntartókkal,
 
 e) kutató, fejlesztő szolgáltató intézetekkel.
 
-[^54]: A 23. § (2) bekezdés c) pontja a 393/2013. (XI. 12.) Korm. rendelet 36. § (2) bekezdése szerint módosított szöveg.
+[^56]: A 23. § (2) bekezdés c) pontja a 393/2013. (XI. 12.) Korm. rendelet 36. § (2) bekezdése szerint módosított szöveg.
