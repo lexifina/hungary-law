@@ -1,6 +1,6 @@
 ## 19. Általános kamattámogatás
 
-29. §[^27] (1) A kötött felhasználású hitelt igénybe vevő hallgatónak hitelszerződése fennállásának időszaka alatt az állam általános kamattámogatást biztosít a központi költségvetés terhére. Az általános kamattámogatás mértéke a hitelfelvevő által fizetendő a 6. § (7) bekezdésében meghatározott kamatot meghaladó összeg.
+29. §[^28] (1) A kötött felhasználású hitelt igénybe vevő hallgatónak hitelszerződése fennállásának időszaka alatt az állam általános kamattámogatást biztosít a központi költségvetés terhére. Az általános kamattámogatás mértéke a hitelfelvevő által fizetendő a 6. § (7) bekezdésében meghatározott kamatot meghaladó összeg.
 
 (2) Az általános kamattámogatás összegét az államháztartásról szóló 2011. évi CXCV. törvény 14. § (4) bekezdés d) pontja szerinti költségvetési fejezetben kell elszámolni.
 
@@ -20,4 +20,4 @@ d) annak a felsőoktatási intézménynek a megjelölését, amelyben az egyes h
 
 (6) A Diákhitel szervezet negyedévente, a negyedév 10. napjáig elektronikus úton személyes adatokat nem tartalmazó adatszolgáltatást teljesít az államháztartásért felelős miniszter által vezetett minisztérium részére a tárgyévre és a következő három naptári évre várható kamattámogatás összegéről, a kötött felhasználású hitelekre vonatkozó szerződések számáról, a támogatott hitelállományról és az addig lehívott támogatások összegéről.
 
-[^27]: A 29. § a 224/2012. (VIII. 15.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^28]: A 29. § a 224/2012. (VIII. 15.) Korm. rendelet 11. §-ával megállapított szöveg.
