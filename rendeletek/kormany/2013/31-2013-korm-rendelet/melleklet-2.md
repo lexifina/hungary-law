@@ -6,13 +6,13 @@
 
 | 2. | Kiemelt beruházásként kipufogó rendszerekhez kapcsolódó újgenerációs termékek gyártását eredményező gyártóüzem és annak építményei | Az 1. § (1) bekezdése szerinti terület | általános építésügyi és örökségvédelmi hatósági eljárások (a további régészeti feladatellátás meghatározása kivételével) | Érdi Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Pest Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala, régészet esetén: Budapest Főváros Kormányhivatalának Építésügyi és Örökségvédelmi Hivatala |
 
-| 3. |  |  | környezetvédelmi hatósági engedélyezési eljárás | Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 3. |  |  | környezetvédelmi hatósági engedélyezési eljárás | Közép-Duna-völgyi Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
-| 4. |  |  | természetvédelmi hatósági engedélyezési eljárás | Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 4. |  |  | természetvédelmi hatósági engedélyezési eljárás | Közép-Duna-völgyi Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
 | 5. |  |  | útügyi hatósági engedélyezési eljárás | Pest Megyei Kormányhivatal Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központ |
 
-| 6. |  |  | vízjogi engedélyezési eljárás | Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 6. |  |  | vízjogi engedélyezési eljárás | Közép-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
 | 7. |  |  | A Magyar Kereskedelmi Engedélyezési Hivatalról és a területi mérésügyi és műszaki biztonsági hatóságokról szóló 320/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdése és 13. § (2) bekezdése szerinti engedélyezési eljárás | Budapest Főváros Kormányhivatala Mérésügyi és Műszaki Biztonsági Hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
@@ -38,7 +38,7 @@
 
 | 18. |  |  | a jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos hatósági eljárások | Pest Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-2. melléklet a 31/2013. (II. 13.) Korm. rendelethez
+2. melléklet a 31/2013. (II. 13.) Korm. rendelethez[^2]
 
 Az 1. melléklet szerinti kiemelt jelentőségű ügyekben közreműködő szakhatóságok
 
@@ -48,7 +48,9 @@ Az 1. melléklet szerinti kiemelt jelentőségű ügyekben közreműködő szakh
 
 | 2. | építésügy, műemlékvédelem és régészet | Érdi Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Pest Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala, régészet esetén: Budapest Főváros Kormányhivatalának Építésügyi és Örökségvédelmi Hivatala |
 
-| 3. | környezetvédelem, természetvédelem és vízügy | Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 3. | környezetvédelem, természetvédelem | Közép-Duna-völgyi Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+
+| 3a. | vízügy | Közép-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
 | 4. | közúti közlekedés | Pest Megyei Kormányhivatal Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központ |
 
@@ -79,3 +81,5 @@ Az 1. melléklet szerinti kiemelt jelentőségű ügyekben közreműködő szakh
 | 17. | műszaki biztonság | Budapest Főváros Kormányhivatala Mérésügyi és Műszaki Biztonsági Hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
 | 18. | területrendezési előírásokkal való összhang | Pest Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatalának Állami Főépítésze | területrendezésért felelős miniszter |
+
+[^2]: A 2. melléklet az 527/2013. (XII. 30.) Korm. rendelet 137. § (2) bekezdése szerint módosított szöveg.
