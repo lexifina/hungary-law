@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-33-20-0
 | 2013-08-01 | 2005-33-20-0N.14 | 4/2010. (II. 25.) KvVM rendelet |
 | 2013-11-14 | 2005-33-20-0N.15 | 95/2013. (X. 14.) VM rendelet |
 | 2013-12-30 | 2005-33-20-0N.16 | 24/2006. (IV. 24.) KvVM rendelet |
+| 2014-01-01 | 2005-33-20-0N.17 | 131/2013. (XII. 23.) VM rendelet |

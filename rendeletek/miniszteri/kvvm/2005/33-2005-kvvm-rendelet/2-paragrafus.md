@@ -1,4 +1,4 @@
-## 1. §[^1] E rendelet hatálya a Vidékfejlesztési Minisztérium, az Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség, valamint a környezetvédelmi, természetvédelmi és vízügyi felügyelőségek (a továbbiakban együtt: eljáró hatóságok) hatáskörébe tartozó környezetvédelmi, természetvédelmi és vízügyi hatósági és szakhatósági eljárásokra, a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti bejelentésekre és a környezethasználat bejelentésére, valamint az eljáró hatóságok igazgatási jellegű szolgáltatásaira (a továbbiakban – a szakhatósági eljárás kivételével – együttesen: eljárás) terjed ki.
+## 1. §[^1] E rendelet hatálya a Vidékfejlesztési Minisztérium, az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség, az Országos Vízügyi Hatóság, a környezetvédelmi és természetvédelmi felügyelőségek, a területi vízügyi hatóságok (a továbbiakban együtt: eljáró hatóságok) hatáskörébe tartozó környezetvédelmi és természetvédelmi hatósági, szakhatósági eljárásokra, valamint vízügyi hatósági és szakhatósági eljárásokra, a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti bejelentésekre és a környezethasználat bejelentésére, valamint az eljáró hatóságok igazgatási jellegű szolgáltatásaira (a továbbiakban – a szakhatósági eljárás kivételével – együttesen: eljárás) terjed ki.
 
 2. §[^2] (1) Igazgatási szolgáltatási díjat (a továbbiakban: díj) kell fizetni az 1. melléklet I-V. pontjában meghatározott eljárásokért.
 
@@ -48,7 +48,7 @@ g) az a)–f) pontokhoz kapcsolódóan 51. és 52. pontja
 
 alá tartozó tevékenységekre terjed ki.
 
-[^1]: Az 1. § a 4/2010. (II. 25.) KvVM rendelet 1. §-ával megállapított, a 70/2013. (VII. 31.) VM rendelet 49. § a) pontja szerint módosított szöveg.
+[^1]: Az 1. § a 131/2013. (XII. 23.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 2. § a 4/2010. (II. 25.) KvVM rendelet 2. §-ával megállapított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2010. április 11. napját követően indult eljárásokban kell alkalmazni.
 [^3]: A 2. § (2) bekezdését a 136/2012. (XII. 21.) VM rendelet 3. §-a hatályon kívül helyezte.
 [^4]: A 2. § (9) bekezdését a 149/2011. (XII. 31.) VM rendelet 1. §-a iktatta be.

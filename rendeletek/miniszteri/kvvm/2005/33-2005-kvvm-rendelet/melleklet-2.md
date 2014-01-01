@@ -898,34 +898,6 @@
 
 | 15.4.2. | Kizárólag környezeti hatások jelentőségének vizsgálata | 133 000 |
 
-2. melléklet a 33/2005. (XII. 27.) KvVM rendelethez[^27]
+2. melléklet a 33/2005. (XII. 27.) KvVM rendelethez[^29]
 
-A közigazgatási szervek előirányzat-felhasználási számláinak megnevezése
-
-| Sorszám | Eljáró szerv | Előirányzat-felhasználási számlák megnevezése |
-
-| 1. | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség | 10032000-00287261-00000000 |
-
-| 2. | Észak-Dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | 10033001-01711899-00000000 |
-
-| 3. | Közép-Duna-Völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | 10032000-01711806-00000000 |
-
-| 4. | Közép-Dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | 10029008-01711882-00000000 |
-
-| 5. | Dél-Dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | 10024003-01711837-00000000 |
-
-| 6. | Nyugat-Dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | 10047004-01711947-00000000 |
-
-| 7. | Felső-Tisza-Vidéki Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | 10044001-01711923-00000000 |
-
-| 8. | Észak-Magyarországi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | 10027006-01711868-00000000 |
-
-| 9. | Tiszántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | 10034002-01711916-00000000 |
-
-| 10. | Közép-Tisza-Vidéki Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | 10045002-01711930-00000000 |
-
-| 11. | Alsó-Tisza-Vidéki Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | 10028007-01711875-00000000 |
-
-| 12. | Vidékfejlesztési Minisztérium | 10032000-01494549 |
-
-[^27]: A 2. melléklet a 20/2007. (VI. 8.) KvVM rendelet 2. §-ának b) pontjával megállapított, a 149/2011. (XII. 31.) VM rendelet 3. §-a szerint módosított szöveg.
+[^29]: A 2. melléklet a 131/2013. (XII. 23.) VM rendelet 1. § (3) bekezdésével megállapított szöveg.
