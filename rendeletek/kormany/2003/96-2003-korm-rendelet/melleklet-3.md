@@ -16,44 +16,44 @@
 
 ## Magánszolgáltatás – vagy a területi ellátási kötelezettség keretében meghatározott ellátási területen kívüli – működési területe.
 
-## Amennyiben az egészségügyi szolgáltatás nem orvosi vagy ápolási szakma végzésére irányul, a szakmai program tartalmi elemeit a szolgáltatás jellege szerinti értelemszerű alkalmazással kell elkészíteni.
+## Amennyiben az egészségügyi szolgáltatás nem orvosi vagy ápolási szakma végzésére, illetve kizárólag járóbeteg-szakellátás keretében végzett tevékenységre irányul, a szakmai program tartalmi elemeit a szolgáltatás jellege szerinti értelemszerű alkalmazással kell elkészíteni.
 
-3. melléklet a 96/2003. (VII. 15.) Korm. rendelethez[^101]
+3. melléklet a 96/2003. (VII. 15.) Korm. rendelethez[^124]
 
 Fekvőbeteg-szakellátás
 
 | engedélyező hatóság fejléce |
 
-| .......... (egészségügyi szolgáltató megnevezése) | ........... számú melléklet a ........... iktatószámú határozathoz |
+| .............. (egészségügyi szolgáltató megnevezése, egyedi azonosító száma) | ........... számú melléklet a ........... iktatószámú határozathoz |
 
-| telephely | osztály megnevezése | szervezeti egység azonosítója | szakma neve | szakmakód | ágyszám | ellátási forma | progresz- szivitási szint | szolgáltatás típusa | ügyelet/ készenlét | engedély státusza | közreműködés ténye | ellátási körzet |
+| telephely | osztály megnevezése | szervezeti egység azonosítója | szakma neve | szakma- kód | ágyszám | ellátási forma | progresz- szivitási szint | ügyelet/ készenlét | engedély státusza | ellátási körzet |
 
-dátum
+| dátum |
 
-alaírás
+| aláírás |
 
 Járóbeteg-szakellátás
 
 | engedélyező hatóság fejléce |
 
-| .......... (egészségügyi szolgáltató megnevezése) | ........... számú melléklet a ........... iktatószámú határozathoz |
+| .......... (egészségügyi szolgáltató megnevezése, egyedi azonosító száma) | ........... számú melléklet a ......... iktatószámú határozathoz |
 
-| telephely | rendelés megnevezése | szervezeti egység azonosítója | szakma neve | szakmakód | szakorvosi óra | nem szakorvosi óra | rendelési idő | ellátási forma | progresz- szivitási szint | szolgáltatási típus | engedély státusza | közreműködés ténye | ellátási körzet |
+| telephely | szak- rendelés megne- vezése | szervezeti egység azonosító-ja | szakma neve | szakma- kód | szak- orvosi óra | nem szak- orvosi óra | ellátási forma | progresz- szivitási szint | engedély státusza | ellátási körzet |
 
-dátum
+| dátum |
 
-alaírás
+| aláírás |
 
 Alapellátás
 
 | engedélyező hatóság fejléce |
 
-| .......... (egészségügyi szolgáltató megnevezése) | ........... számú melléklet a ........... iktatószámú határozathoz |
+| .......... (egészségügyi szolgáltató megnevezése, egyedi azonosító száma) | ........... számú melléklet a ........... iktatószámú határozathoz |
 
-| telephely | rendelés megnevezése | szervezeti egység azonosítója | szakma neve | szakmakód | rendelési idő | rendel- kezésre állási idő | ellátási forma | szolgáltatási típus | helyettesítés helye | helyettesítő neve, nyvt száma | ügyelet/ készenlét | engedély státusza | közremű- ködés ténye | ellátási körzet |
+| telephely | rendelés megne- vezése | szervezeti egység azonosító-ja | szakma neve | szakma-kód | ellátási forma | ügyelet/ készenlét | engedély státusza | ellátási körzet |
 
-dátum
+| dátum |
 
-alaírás
+| aláírás |
 
-[^101]: A 3. mellékletet a 325/2011. (XII. 28.) Korm. rendelet 47. (2) bekezdése iktatta be, szövege a 13/2012. (II. 14.) Korm. rendelet 22. §-a szerint módosított szöveg.
+[^124]: A 3. mellékletet a 325/2011. (XII. 28.) Korm. rendelet 47. (2) bekezdése iktatta be, szövege az 520/2013. (XII. 30.) Korm. rendelet 34. §-ával megállapított szöveg.

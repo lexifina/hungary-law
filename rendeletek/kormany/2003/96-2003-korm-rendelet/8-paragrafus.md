@@ -1,4 +1,4 @@
-8. §[^35] (1) A kérelemben fel kell tüntetni
+8. §[^40] (1) A kérelemben fel kell tüntetni
 
 a) a kérelmező telephelyét;
 
@@ -22,7 +22,9 @@ j) a jogszabály szerint gyógyászati segédeszköznek minősülő termék forg
 
 k) az egészségügyi szolgáltató fenntartójának nevét;
 
-l) a jogszabályban meghatározott egyéb adatokat.
+l) a jogszabályban meghatározott egyéb adatokat;
+
+m)[^41] az egészségügyi alapellátásban folytatott szakmák esetén a helyettesítés helyét, a helyettesítő személyek nevét és orvosi bélyegzője számát vagy működési nyilvántartási számát.
 
 (2) A kérelemmel érintett szakmákat a szolgáltató által létrehozott szervezeti egységen belül, az adott szakmát jellemző (1) bekezdés c)–i) pontja szerinti adatokkal kell feltüntetni.
 
@@ -30,7 +32,7 @@ l) a jogszabályban meghatározott egyéb adatokat.
 
 (4) A kérelemhez mellékelni kell
 
-a) ha az egészségügyi közszolgáltatásáért felelős szerv az egészségügyi ellátási kötelezettségét más egészségügyi közszolgáltatásért felelős szervvel kötött megállapodás vagy egészségügyi szolgáltatóval kötött szerződés útján teljesíti, az erre vonatkozó megállapodást, szerződést;
+a)[^42] ha az egészségügyi közszolgáltatást az egészségügyi szolgáltató megállapodás vagy szerződés útján teljesíti, az erre vonatkozó megállapodást, szerződést;
 
 b) az (1) bekezdés h) pontja szerinti közreműködő egészségügyi szolgáltató igénybevétele esetén a közreműködésről szóló szerződést;
 
@@ -52,10 +54,20 @@ i) alapellátás esetén a helyettesítő személy nyilatkozatát arról, hogy v
 
 a) a cégbírósági, bírósági nyilvántartásba bejegyzett kérelmező jogi személy vagy jogi személyiséggel nem rendelkező gazdasági társaság létrejöttének igazolását (cégbejegyzés, cégjegyzékszám, bírósági nyilvántartásba vétel száma központi, illetve nyilvánosan hozzáférhető adatbázis útján),
 
-b) amennyiben a kérelmező egészségügyi szolgáltató már rendelkezik működési engedéllyel, az egészségügyi szolgáltatók nyilvántartásában kapott azonosító számát, továbbá működési engedélye (engedélyei) számát.
+b) amennyiben a kérelmező egészségügyi szolgáltató már rendelkezik működési engedéllyel, az egészségügyi szolgáltatók nyilvántartásában kapott azonosító számát, továbbá működési engedélye (engedélyei) számát,
 
-(6) Amennyiben az egyéni vállalkozó a kérelem benyújtásakor nem rendelkezik KSH törzsszámmal, azt az annak megszerzését követő nyolc napon belül bejelenti az egészségügyi államigazgatási szervnek.
+c)[^43] a tevékenységet végző egészségügyi dolgozók vonatkozásában a működési nyilvántartásban szereplő alábbi adatokat központi vagy nyilvánosan hozzáférhető adatbázis útján:
+
+ca) szakképesítések, valamint szakirányú továbbképzések megnevezése, az erről kiállított bizonyítvány vagy oklevél száma, a kiállítás helye és időpontja, továbbá a kiállító intézmény megnevezése,
+
+cb) a működési nyilvántartási ciklus megújításának és lejártának időpontja, valamint az egészségügyi dolgozó által megszerzett és a működési nyilvántartásban szereplő valamennyi szakképesítés és szakképzettség tekintetében fennálló, az Eütv. és más jogszabály szerinti továbbképzési kötelezettség teljesítése vagy továbbképzési kötelezettség alóli mentesülés ténye.
+
+(6)[^44]
 
 (7) A működési engedélyezési eljárásban az egészségügyi államigazgatási szerv döntésének fellebbezéssel meg nem támadott rendelkezései tekintetében beáll a jogerő, ha a döntés egyes rendelkezései ellen nyújtottak be fellebbezést, és a fellebbezés elbírálása nem hat ki a fellebbezéssel meg nem támadott rendelkezésekre.
 
-[^35]: A 8. § a 325/2011. (XII. 28.) Korm. rendelet 35. §-ával megállapított szöveg.
+[^40]: A 8. § a 325/2011. (XII. 28.) Korm. rendelet 35. §-ával megállapított szöveg.
+[^41]: A 8. § (1) bekezdés m) pontját az 520/2013. (XII. 30.) Korm. rendelet 28. § (1) bekezdése iktatta be.
+[^42]: A 8. § (4) bekezdés a) pontja az 520/2013. (XII. 30.) Korm. rendelet 28. § (2) bekezdésével megállapított szöveg.
+[^43]: A 8. § (5) bekezdés c) pontját az 520/2013. (XII. 30.) Korm. rendelet 28. § (3) bekezdése iktatta be.
+[^44]: A 8. § (6) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 35. § c) pontja hatályon kívül helyezte.
