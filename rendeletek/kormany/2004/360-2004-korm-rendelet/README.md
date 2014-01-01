@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-360-20-
 | 2011-03-23 | 2004-360-20-22.14 | 127/2009. (VI. 15.) Korm. rendelet |
 | 2011-07-08 | 2004-360-20-22.15 | 113/2011. (VII. 7.) Korm. rendelet |
 | 2012-01-01 | 2004-360-20-22.16 | 202/2006. (X. 5.) Korm. rendelet |
+| 2014-01-01 | 2004-360-20-22.17 | 209/2007. (VIII. 7.) Korm. rendelet |

@@ -22,9 +22,9 @@ d) a kifizetések engedélyezéséhez.
 
 (8) Az operatív program irányító hatóság és a közreműködő szervezet, az EQUAL program irányító hatóság és közreműködő szervezetei, illetve a Kohéziós Alap közreműködő szervezet és a kedvezményezett közötti megállapodásokban rögzíteni kell a folyamatba épített ellenőrzések végrehajtásának kötelezettségét a delegált feladatok vonatkozásában.
 
-(9)[^118] A Magyar Államkincstár a Nemzeti Fejlesztési Ügynökség által meghatározott közreműködő szervezetekkel közösen, illetve a Nemzeti Fejlesztési Ügynökség által meghatározott projekteknél önállóan is, elsőszintű helyszíni ellenőrzéseket végez.
+(9)[^118] A Magyar Államkincstár az irányító hatóság által meghatározott közreműködő szervezetekkel közösen, illetve az irányító hatóság által meghatározott projekteknél önállóan is, elsőszintű helyszíni ellenőrzéseket végez.
 
 [^115]: Az 52. § (1) bekezdése a 202/2006. (X. 5.) Korm. rendelet 33. § (1) bekezdésével megállapított szöveg.
 [^116]: Az 52. § (3) bekezdését a 202/2006. (X. 5.) Korm. rendelet 48. §-a hatályon kívül helyezte.
 [^117]: Az 52. § (4) bekezdése a 403/2007. (XII. 27.) Korm. rendelet 16. §-ával megállapított szöveg. E módosító rendelet 24. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^118]: Az 52. § (9) bekezdését a 138/2008. (V. 16.) Korm. rendelet 2. §-a iktatta be.
+[^118]: Az 52. § (9) bekezdését a 138/2008. (V. 16.) Korm. rendelet 2. §-a iktatta be, szövege az 550/2013. (XII. 30.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
