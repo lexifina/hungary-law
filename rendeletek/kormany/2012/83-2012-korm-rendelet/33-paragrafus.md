@@ -1,9 +1,11 @@
 ## 17. Azonosítási szolgáltatás
 
-33. § (1) Az azonosítási szolgáltatás olyan SZEÜSZ, amelynek keretében a SZEÜSZ szolgáltató az elektronikus ügyintézés során megállapítja, hogy egy adott személy megegyezik-e egy korábban regisztrált személlyel.
+## 33. §[^7] Az azonosítási szolgáltatás részszolgáltatásai
 
-(2) Az azonosítási szolgáltatás során az azonosítást végző SZEÜSZ szolgáltató (a továbbiakban: azonosítási szolgáltató) az ügyfelet az azonosítást kérő szervezet számára azonosítja, ennek részeként
+a) teljeskörű azonosítás szolgáltatás (a továbbiakban: TASZ),
 
-a) az ügyfél hozzájárulása alapján az azonosítást kérő szervezet rendelkezésére bocsátja az ügyfél azonosításához feltétlenül szükséges adatot vagy nyilatkozatot, és
+b) egyedi azonosság ellenőrzés szolgáltatás (a továbbiakban: EASZ), valamint
 
-b) az azonosítás céljából alkalmazott műszaki megoldásnak megfelelően az elektronikus nyilatkozatot tevő személy és az azonosított ügyfél közötti kapcsolatot hitelesíti.
+c) azonosság ellenőrző ügynöki szolgáltatás (a továbbiakban: AESZ).
+
+[^7]: A 33. § az 515/2013. (XII. 30.) Korm. rendelet 30. § (4) bekezdésével megállapított szöveg.

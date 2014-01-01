@@ -1,13 +1,17 @@
-38. § (1) A TASZ az azonosítás elvégezhetőségéhez szükséges valamennyi elemet magában foglaló azonosítási szolgáltatás, amely magában foglalja
+38. §[^12] (1) Az ügyfél szervezetek regisztrációjára a természetes személy ügyfél regisztrációjára vonatkozó szabályokat a (2) és (3) bekezdésben meghatározott eltérésekkel kell alkalmazni.
 
-a) a természetes személy vagy szervezet regisztrációját,
+(2) Valamely szervezet képviseletére vonatkozó regisztráció esetén a regisztrációt végző szerv a regisztrációt kezdeményező természetes személy képviseleti jogosultságát
 
-b) a természetes személyhez vagy szervezethez az azonosításhoz szükséges kód, eszköz vagy más elem hozzárendelését, ahol ez értelmezhető,
+a) közhiteles nyilvántartásban rögzített képviseleti jogosultság esetén a közhiteles nyilvántartásban,
 
-c) az egyedi esetben történő azonosítás lefolytatásához szükséges hitelesítési és egyéb információk biztosítását az azonosítást kérő felé,
+b) közhiteles nyilvántartásban szereplő képviseleti joggal rendelkező személy meghatalmazottja esetén a meghatalmazó jogosultságának a közhiteles nyilvántartásban történő ellenőrzésével, valamint a meghatalmazás érvényességi kellékeinek a vizsgálata útján,
 
-d) a sikeres azonosítás esetén a jogosult által kért információ szolgáltatását.
+c) közhiteles nyilvántartásban nem szereplő szervezet esetében a regisztrációt kezdeményező által benyújtott, legalább teljes bizonyítóerejű magánokirat alapján,
 
-(2) A TASZ keretében természetes személyek és szervezetek, továbbá informatikai rendszerek regisztrációja és azonosítása egyaránt elvégezhető.
+d) ha az a)–c) pont nem alkalmazható, a bejelentő egyoldalú nyilatkozata alapján
 
-(3) A TASZ keretében természetes személyek regisztrációjához és azonosításához szükséges adatkezeléshez, beleértve a szervezetek képviselőinek nyilvánosnak nem minősülő, azonosításhoz szükséges adatainak kezelését, amennyiben az azonosításuk nem törvényi kötelezés alapján elektronikusan végzendő elektronikus ügyintézési eljáráshoz szükséges, az érintett természetes személyek hozzájárulása szükséges.
+## ellenőrzi.
+
+(3) A regisztrációról a regisztrációt végző szerv a szervezetet annak a közhiteles nyilvántartásban szereplő, ennek hiányában a regisztrációs kérelemben bejelentett székhelyén vagy egyéb címén írásban értesíti.
+
+[^12]: A 38. § az 515/2013. (XII. 30.) Korm. rendelet 30. § (4) bekezdésével megállapított szöveg.

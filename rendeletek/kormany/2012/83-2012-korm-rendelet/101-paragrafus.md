@@ -8,8 +8,12 @@ a) az ügyfelek, hatóságok, illetve hatóságon belül az ügyintézésben ér
 
 b) olyan gépi és szoftver eszközöket biztosít és üzemeltet, amelyek közvetlenül nem részesei az elektronikus ügyintézési szolgáltatásnak, de annak nyújtásának feltételét képezik.
 
+(1a)[^40] Az (1) bekezdés alá tartozó szolgáltatás akkor nyújtandó SZEÜSZ-ként, a SZEÜSZ-re vonatkozó rendelkezések szerint, ha az adott szolgáltatás tekintetében jogszabály kifejezetten előírja, hogy a szolgáltatás az informatikai háttér szolgáltatása SZEÜSZ szabályai szerint nyújtandó.
+
 (2) Az (1) bekezdés a) pontja szerinti szolgáltatás a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter által kiadott rendeletben meghatározott feltételek és műszaki előírások szerint nyújtható.
 
 (3) A hatóság az (1) bekezdés b) pontja alá tartozó eszközök, rendszerek üzemeltetése során a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter által kiadott rendeletben meghatározott műszaki, technikai és biztonsági előírások szerint jár el.
 
 (4) Amennyiben technikai sajátosság, vagy nyilvánvaló gazdaságossági szempont mást nem indokol, az informatikai háttér szolgáltatása kapcsán szükséges hálózati feltételeket a Nemzeti Távközlési Gerinchálózat igénybevételével kell megteremteni.
+
+[^40]: A 101. § (1a) bekezdését az 515/2013. (XII. 30.) Korm. rendelet 30. § (11) bekezdése iktatta be.

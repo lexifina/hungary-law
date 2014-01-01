@@ -1,4 +1,4 @@
-## 10. § A SZEÜSZ-t – az adott SZEÜSZ-re vonatkozó eltérő rendelkezés hiányában – legalább félévente a biztonsági felelős útján, évente pedig az ellenőr útján az általános szerződési feltételeknek megfelelés szempontjából ellenőrizni kell. Az ellenőrzés tényét és eredményét jegyzőkönyvben kell rögzíteni.
+## 10. §[^5] A SZEÜSZ-t – az adott SZEÜSZ-re vonatkozó eltérő rendelkezés hiányában – legalább félévente a biztonsági felelős útján, évente pedig az ellenőr útján az általános szerződési feltételeknek vagy szolgáltatási szabályzatnak megfelelés szempontjából ellenőrizni kell. Az ellenőrzés tényét és eredményét jegyzőkönyvben kell rögzíteni.
 
 ## 7. A szolgáltatásnyújtásra vonatkozó biztonsági követelmények
 
@@ -55,3 +55,5 @@ h) jóváhagyja a SZEÜSZ-ök biztonsági irányelveit, szabályzatait és eljá
 i) határidő tűzésével felhívja az érintett szervezetek vezetőit az ellenőrzés során vagy egyéb úton tudomására jutott eltérések felszámolására, ellenőrzi a követelmények megvalósítását,
 
 j) az informatikai biztonsági követelmények hiányos teljesítése esetén megfelelő határidő tűzésével felszólítja az érintettet a hiba elhárítására, illetve hiányosság pótlására.
+
+[^5]: A 10. § az 515/2013. (XII. 30.) Korm. rendelet 30. § (20) bekezdés b) pontja szerint módosított szöveg.

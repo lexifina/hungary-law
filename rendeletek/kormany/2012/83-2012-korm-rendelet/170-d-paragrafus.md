@@ -1,0 +1,7 @@
+170/D. § (1) Az iratáthelyezésről a címzett közfeladatot ellátó szerv az iratkezelési rendszerén keresztül igazolást ad a SZEÜSZ szolgáltató részére, amely igazolást vagy – annak három napon túli elmaradása esetén – az iratáthelyezés sikertelenségéről szóló, a SZEÜSZ szolgáltató által kiállított igazolást a SZEÜSZ szolgáltató az átadást kezdeményező közfeladatot ellátó szervnek megküldi. A jelen bekezdés szerinti igazolások nem érintik az iratátadás 170/C. § (4) bekezdés szerinti minősítését.
+
+(2) Az iratot átadó közfeladatot ellátó szerv az iratáthelyezés megtörténtére vonatkozó (1) bekezdés szerinti igazolás átvételét követően az iratáthelyezés sikerességét iratkezelő rendszerében rögzíti.
+
+(3) Az iratot átvevő közfeladatot ellátó szerv az átvett iratot az elektronikus iratkezelő rendszer átadott adatai alapján a saját iratkezelő rendszerében – ha ezt az iratáthelyezésben érintett közfeladatot ellátó szervek iratkezelési szabályzata lehetővé teszi, automatikus iktatás útján – elhelyezi.
+
+(4) Az elektronikus iktatórendszernek az irattal átküldött adatait az iratot átvevő szerv által közvetlenül értelmezhető formában kell az irathoz mellékelni. A szolgáltatás a metaadatok kódolt, valamely törzsadattárra vagy kódszótárra alapuló formájának kiegészítő információként történő továbbítását is lehetővé teheti, ha a kódszótár a SZEÜSZ szolgáltatónál bejelentett és egyértelműen azonosított.

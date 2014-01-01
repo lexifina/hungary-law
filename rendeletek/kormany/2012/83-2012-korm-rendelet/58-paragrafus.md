@@ -1,3 +1,5 @@
+## 53–57. §
+
 ## 20. Kézbesítési szolgáltatás
 
 58. § (1) A kézbesítési szolgáltatás keretében a SZEÜSZ szolgáltató közreműködik valamely elektronikus nyilatkozat (jelen alcím alkalmazásában a továbbiakban: üzenet) kézbesítésének az alábbiakban meghatározott egy vagy több tevékenységében, illetve ezen tevékenységek bizonyításában:

@@ -1,3 +1,0 @@
-55. § (1) Az elektronikus űrlapot úgy kell kialakítani, hogy valamennyi, hasonló feladatot ellátó vagy egyébként hasonló elektronikus űrlapot használó hatóság azonos elektronikus űrlapot használhasson.
-
-(2) Az (1) bekezdés szerinti követelmény teljesítettnek tekintendő, ha a SZEÜSZ szolgáltató változatlan módon alkalmaz a felügyelet által korábban engedélyezett SZEÜSZ-öknél alkalmazott megoldásokat. Az (1) bekezdés szerinti követelmény továbbá teljesítettnek tekintendő az 53. § (1) bekezdés a) pontja szerinti szolgáltatás tekintetében a felügyelet által ajánlásban közzétett elektronikus űrlapok vonatkozásában.

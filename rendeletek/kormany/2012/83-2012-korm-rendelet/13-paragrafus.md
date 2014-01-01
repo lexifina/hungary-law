@@ -1,41 +1,35 @@
-## 9. Elektronikus ügyintézési szabályozást előkészítő bizottság
+## 9. [^6] Elektronikus ügyintézési szolgáltató regisztrációja
 
-13. § (1) A SZEÜSZ-ök és más, az elektronikus ügyintézéssel kapcsolatos szolgáltatások állami és önkormányzati kialakítása során az együttműködés biztosítása érdekében a felügyelet elektronikus ügyintézési szabályozást előkészítő bizottságot (a továbbiakban: előkészítő bizottság) hoz létre.
+13. § (1) A Ket. 172. § d) pontja szerinti elektronikus ügyintézéssel kapcsolatos szolgáltatást nyújtó szolgáltató (a továbbiakban: elektronikus ügyintézési szolgáltató) a szolgáltatás nyújtásának megkezdése előtt köteles elektronikus úton regisztrálni a felügyelet erre a célra kialakított on-line felületén (a továbbiakban: eüsz szolgáltatói regisztráció). Az eüsz szolgáltatói regisztráció nem kötelezi az elektronikus ügyintézési szolgáltatót az elektronikus ügyintézéssel kapcsolatos szolgáltatás nyújtásra.
 
-(2) Az előkészítő bizottságnak 6 tagja van. Az előkészítő bizottság elnökét a Nemzeti Média- és Hírközlési Hatóság delegálja. A további tagok közül egy-egy tagot
+(2) Az eüsz szolgáltatói regisztráció során a következő adatokat kell bejelenteni:
 
-a) a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter,
+a) az elektronikus ügyintézési szolgáltató nevét, székhelyét, elektronikus levélcímét,
 
-b) a közigazgatásért felelős miniszter,
+b) az elektronikus ügyintézési szolgáltató kapcsolattartójának nevét és elektronikus levélcímét, amennyiben a kapcsolattartó az adatai kezeléséhez hozzájárult,
 
-c) az önkormányzatokért felelős miniszter,
+c) amennyiben az elektronikus ügyintézési szolgáltató rendelkezik a központi elektronikus szolgáltató rendszerben hivatali kapuval, annak az azonosítóját, valamint
 
-d) a Nemzeti Biztonsági Felügyelet, valamint
+d) az elektronikus ügyintézési szolgáltató által nyújtott elektronikus ügyintézéssel kapcsolatos szolgáltatások körét.
 
-e) a Nemzeti Hírközlési és Informatikai Tanács
+(3) A felügyelet névjegyzéket vezet a regisztrált elektronikus ügyintézési szolgáltatókról, amely a (2) bekezdésben felsorolt adatokat tartalmazza. A névjegyzék a (2) bekezdés a) és d) pontja tekintetében elektronikus úton bárki számára kereshető módon hozzáférhető.
 
-## delegál.
+(4) A felügyelet az elektronikus ügyintézési szolgáltató kérelmére, vagy, amennyiben hivatalos eljárása során tudomására jut, hivatalból módosíthatja a (2) bekezdésben felsorolt adatokat.
 
-(3) Az előkészítő bizottság a felügyelet számára döntés-előkészítő tevékenységet végez. Ennek keretében az előkészítő bizottság az alábbi feladatokat látja el:
+(5) A felügyelet
 
-a) javaslattétel a hatóságok közötti együttműködés műszaki és szervezési feltételeinek egységes szabályozására,
+a) az elektronikus ügyintézési szolgáltató kérelmére,
 
-b) az ügyfelek és a hatóságok számára biztosított SZEÜSZ-ökkel kapcsolatos részletes ajánlások előkészítése,
+b) az elektronikus ügyintézési szolgáltató megszűnése esetén, vagy
 
-c) javaslattétel az elektronikus ügyintézés során írásbelinek minősülő elektronikus iratok formátumával, egyéb műszaki jellemzőivel kapcsolatos követelményekre,
+c) az elektronikus ügyintézési szolgáltató valamennyi elektronikus ügyintézéssel kapcsolatos szolgáltatása megszűnése esetén
 
-d) javaslattétel az elektronikus ügyintézés során rendszeresített űrlapok elvárt elektronikus adatszerkezetével, és egyéb műszaki jellemzőivel kapcsolatos követelményekre,
+törli a szolgáltatót a névjegyzékből.
 
-e) az a)–d) pontban foglaltak érdekében ajánlások tervezetének előkészítése,
+(6) A felügyelet a névjegyzék természetes személyre vonatkozó adatait a regisztráció megszüntetését követő öt év múlva törli.
 
-f) az elfogadott és közzétett ajánlások érvényesülésének vizsgálata,
+(7) A felügyelet a névjegyzékbe vételről, az adatok módosításáról és az (5) bekezdésben meghatározott névjegyzékből való törlésről értesíti az elektronikus ügyintézési szolgáltatót.
 
-g) az ajánlásoknak a változó jogszabályi, műszaki és közigazgatási működési környezetnek megfelelő felülvizsgálata, szükség szerint javaslattétel az ajánlások módosítására,
+(8) Az eüsz szolgáltatói regisztráció díjmentes.
 
-h) a feladatai ellátása során észlelt szabályozási problémák, hiányosságok esetén javaslattétel megfelelő jogszabály-módosítás kezdeményezésére.
-
-(4) Az előkészítő bizottságot az elnök szükség szerint, de legalább évente hívja össze. A felügyelet kezdeményezésére az elnök köteles összehívni az előkészítő bizottságot.
-
-(5) Az előkészítő bizottság akkor határozatképes, ha tagjainak több mint a fele, és az elnök jelen van. Határozatait – az összeférhetetlenségről való döntés kivételével – szótöbbséggel hozza, szavazategyenlőség esetében az elnök szavazata dönt.
-
-(6) Az előkészítő bizottság működésének rendjét maga állapítja meg.
+[^6]: A 9. alcím (13. §) az 515/2013. (XII. 30.) Korm. rendelet 30. § (3) bekezdésével megállapított szöveg.

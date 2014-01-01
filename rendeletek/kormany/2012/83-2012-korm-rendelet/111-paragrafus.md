@@ -1,19 +1,8 @@
-111. § (1) A nyilvántartás a papír alapú iratról tartalmazhatja
+## 110. §[^52] Ha az iratérvényességi nyilvántartás az elektronikus irat teljes tartalmát tartalmazza, azt – a kizárólag közérdekű adatot vagy közérdekből nyilvános adatot tartalmazó iratok kivételével – titkosítva tárolja. Az okirat kiállítója köteles elhelyezni az iraton a titkosítás feloldásához szükséges kulcsot, valamint az iratnak a nyilvántartásban történő megtekintéséhez szükséges elérési adatokat. Ilyen esetben az irat hitelesnek tekintendő, ha annak az iratérvényességi nyilvántartás igénybevételével történő ellenőrzése sikeres volt.
 
-a) az irat képi formáját,
+111. §[^53] (1) Elektronikus irat hiteles papír alapú irattá alakítása kijelölt SZEÜSZ szolgáltató általi nyújtása során a nyilvántartás az irat titkosított változata helyett tartalmazhatja az eredeti elektronikus irat elérhetőségi adatait, az irat lenyomatát, valamint az irat szöveges tartalmának lenyomatát is. Ebben az esetben az eredeti elektronikus irat megőrzéséről és elérhetőségéről az elektronikus irat hiteles papír alapú irattá alakítása SZEÜSZ-t igénybe vevő hatóság gondoskodik. Az elektronikus irat hiteles papír alapú irattá alakítása kijelölt SZEÜSZ szolgáltatója a hiteles másolaton köteles elhelyezni az irat lenyomatát, az irat szöveges tartalmának lenyomatát, valamint az eredeti elektronikus irat, illetve az iratérvényességi nyilvántartásban tárolásra kerülő lenyomatok elérhetőségi adatait. A lenyomatokat és a dokumentum elérhetőségét az iratérvényességi nyilvántartásban is el kell helyeznie.
 
-b) ha van, az irat egyedi hitelesítő elemét, vagy
+(2) Az (1) bekezdés szerinti esetben a papír alapú másolat hitelesnek tekintendő, ha az ellenőrzési folyamat során a papír alapú irat egyezése megállapítható az eredeti elektronikus dokumentummal, és az eredeti irat lenyomatának és az iratérvényességi nyilvántartásban rögzített lenyomatnak egyezése is megállapítható. Ha az ellenőrzés során az egyezés nem állapítható meg, úgy a hatóság által tárolt elektronikus dokumentum, valamint a papír alapú másolat hitelessége a hatóság által tárolt elektronikus dokumentum tartalma, a papír alapú másolat tartalma, valamint az ezek alapján képzett, illetve a nyilvántartásban tárolt lenyomatok összevetése alapján állapítandó meg.
 
-c) lényeges tartalmi kellékeit.
-
-(2) A nyilvántartásban szereplő papír alapú irat esetében a SZEÜSZ szolgáltató köteles az iraton véletlen kódot tartalmazó, az ellenőrzéshez szükséges, a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter által rendeletben meghatározott tartalmú és formátumú záradékot elhelyezni.
-
-(3) Ha a nyilvántartás
-
-a) az irat képi formáját tartalmazza, a hatóság annak papír alakú másolatát további hitelesítés nélkül hitelesnek fogadja el, amennyiben a SZEÜSZ szolgáltató által lefolytatott ellenőrzés az iratok egyezőségét állapítja meg,
-
-b) az irat egyes tartalmi elemeit tartalmazza és a tárolt adatok kiterjednek a hitelesítő kellékekre, akkor a hatóság a tárolt elemek dokumentumban szereplését fogadja el hitelesen igazoltnak.
-
-(4) Az irat adatainak megtekintését az ügyfél az iraton feltüntetett, véletlen elemet tartalmazó módon létrehozott ellenőrző kód megadásával kezdeményezheti.
-
-(5) Az irat tartalmi elemeinek tárolása esetén az irat ellenőrizhetősége érdekében – ahol ez értelmezhető – a papír alapú iraton a tartalmi elemeket automatikusan beolvasható kód formájában is rögzíteni kell. Ilyen esetben a nyilvántartás a kódban szereplő adatokat tartalmazza.
+[^52]: A 110. § az 515/2013. (XII. 30.) Korm. rendelet 30. § (14) bekezdésével megállapított szöveg.
+[^53]: A 111. § az 515/2013. (XII. 30.) Korm. rendelet 30. § (14) bekezdésével megállapított szöveg.

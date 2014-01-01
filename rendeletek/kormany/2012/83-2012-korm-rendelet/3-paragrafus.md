@@ -17,3 +17,21 @@ b) az eszközökhöz, rendszerekhez és termékekhez arra jogosulatlan személye
 c) a rendszerek, berendezések és termékek biztosítják, hogy a SZEÜSZ nyújtása során keletkezett adatokhoz arra jogosulatlan személyek nem férhetnek hozzá.
 
 (3) A SZEÜSZ szolgáltató a bekövetkezett biztonsági eseményekről megfelelő részletességgel köteles haladéktalanul értesíteni az elektronikus ügyintézési felügyeletet (a továbbiakban: felügyelet). A felügyelet a biztonsági eseményről tájékoztatja az érintett ügyfeleket vagy hatóságot.
+
+(4)[^1] A Ket. 168/A. § alkalmazásában az alábbi SZEÜSZ-ök igénybevétele kötött előzetes ügyfél-regisztrációs eljáráshoz:
+
+a) az ügyfél ügyintézési rendelkezésének nyilvántartása,
+
+b) az ügyfél időszaki értesítése az elektronikus ügyintézési cselekményekről,
+
+c) azonosítási szolgáltatás, ide nem értve az egyedi azonosság ellenőrzés szolgáltatás, azonosság ellenőrző ügynöki szolgáltatás részszolgáltatásokat,
+
+d) biztonságos kézbesítési szolgáltatás,
+
+e) hitelesítés-szolgáltatás,
+
+f) személyre szabott ügyintézési felület,
+
+g) ÁNYK űrlap benyújtás támogatási szolgáltatás részeként működő ügyfélkapu.
+
+[^1]: A 3. § (4) bekezdését az 515/2013. (XII. 30.) Korm. rendelet 30. § (1) bekezdése iktatta be.

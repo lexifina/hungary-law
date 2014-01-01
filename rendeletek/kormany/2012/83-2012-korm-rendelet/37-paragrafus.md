@@ -1,31 +1,25 @@
-37. § (1) Az EASZ az azonosítást végző által az azonosítási szolgáltatások által biztosított azonosítás egyedi esetben történő elvégzése.
+37. §[^11] (1) Az AESZ olyan azonosítási szolgáltatás, amelynek keretében az azonosítási szolgáltató az azonosítást kérő szervezet számára – más TASZ, illetve EASZ szolgáltatásokat igénybe véve – elvégzi az azonosítást, beleértve
 
-(2) Az ügyfél rendelkezése és az elektronikus ügyintézés sajátosságai szerint az EASZ-t biztosító azonosítási szolgáltató az azonosítási szolgáltatás keretében az azonosítást kérő szervezet számára
+a) az azonosítandó személlyel történő adategyeztetés lefolytatását,
 
-a) nyilatkozik arról, hogy az általa megadott azonosító adatok által egyértelműen meghatározott személy az általa azonosított személlyel azonos-e, vagy
+b) az azonosítási mód azonosítandó személy általi megválasztásának lehetővé tételét, és
 
-b) a megadott azonosító adatok által egyértelműen meghatározott személy azonosítás során kért adatait rendelkezésre bocsátja.
+c) az azonosítandó személy által kiválasztott azonosítási szolgáltatónál a konkrét azonosítás szükség szerinti végrehajtatását.
 
-(3) Az EASZ-t biztosító azonosítási szolgáltató nyújthat olyan szolgáltatást, amelynek keretében az ügyfél erre irányuló igénye esetén az azonosításhoz feltétlenül szükséges adaton vagy nyilatkozaton kívül
+(2) Az AESZ igénybevételével történő azonosítás során szükség szerint
 
-a) az ügyfél értesítési címét,
+a) az ügyfél az AESZ által kezelt lehetőségek közül az igénybe venni kívánt azonosítási módot megválasztja,
 
-b) az ügyfél által adott meghatalmazással kapcsolatos adatokat,
+b) az ügyfél az általa megválasztott módon azonosítja magát, amelyhez a TASZ, illetve az EASZ bevonását szükség szerint az AESZ-t biztosító azonosítási szolgáltató biztosítja,
 
-c) nem természetes személy ügyfél esetén a szervezeti képviseletével kapcsolatos adatokat,
+c) az AESZ-t biztosító azonosítási szolgáltató megadja az azonosítást kérő felé az azonosítás eredményeképpen megkapott azonosítót, vagy jelzi az azonosítás sikertelenséget az azonosítást kérőnek,
 
-d) vagy más, az ügyfél által megjelölt, elektronikus ügyintézés során felhasználni kívánt adatokat
+d) az AESZ-t biztosító azonosítási szolgáltató az ügyfél ügyintézési rendelkezésében erre feljogosította, és az azonosítást kérő ezt igényli, az összerendelési nyilvántartás, a rendelkezési nyilvántartás és az egyedi azonosítást nyilvántartó szerv adatszolgáltatása alapján az azonosítást kérőnek az igényelt egyedi azonosítót vagy az annak megfelelő összerendelési nyilvántartásban szereplő bejegyzés elemet adja meg.
 
-## is a hatóság rendelkezésére bocsátja.
+(3) Az AESZ nyújtása során az AESZ az általa nyújtott azonosítási mozzanatok és kapcsolódó szolgáltatások megfelelőségéért felel. A szolgáltatás nyújtása során
 
-(4) Az azonosítási szolgáltató az EASZ részeként olyan azonosítást is végezhet, ahol a hatóság számára az ügyfél tényleges azonosítóinak megismerését nem teszi lehetővé, hanem csupán az ismeretlen, nem azonosított ügyfél és egy korábban eljárt vagy regisztrált személy azonosságát igazolja (a továbbiakban: anonim azonosítás).
+a) TASZ igénybevétele esetén az azonosítás megfelelőségéért a TASZ szolgáltató felel,
 
-(5) A szolgáltató az általános szerződési feltételeiben rögzíti, hogy az adott azonosítási formánál
+b) EASZ igénybevétele során az azonosítás elfogadhatóságára, valamint az EASZ és az ügyfél felelősségére az EASZ-ra vonatkozó rendelkezések irányadók.
 
-a) az azonosítás milyen mozzanatokból áll,
-
-b) mely cselekménynél mely személy vagy szervezet működik közre, és ennek során milyen adatot kell szolgáltatnia,
-
-c) az adatok milyen ellenőrzésen és feldolgozáson esnek át,
-
-d) mi jelenti az ellenőrzés sikeres és sikertelen lefolytatását.
+[^11]: A 37. § az 515/2013. (XII. 30.) Korm. rendelet 30. § (4) bekezdésével megállapított szöveg.

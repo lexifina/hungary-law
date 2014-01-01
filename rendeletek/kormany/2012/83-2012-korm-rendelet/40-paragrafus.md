@@ -1,23 +1,9 @@
-40. § (1) A hatóság képviseletében eljáró természetes személyre vonatkozó azonosításhoz szükséges regisztráció történhet
+## 40. §[^14] Természetes személy ügyfél, valamint ügyfél szervezet regisztrációja megvalósítható a jelen § szerinti feltételes regisztrációval is. Feltételes regisztráció során
 
-a) a természetes személy által, a regisztrációt végző szervnél kezdeményezett regisztrációval, vagy
+a) az azonosításhoz szükséges információt az azonosítási szolgáltató saját nyilvántartása, valamely hatóság adatszolgáltatása vagy ügyfél elektronikus kérelme alapján előre elkészíti,
 
-b) a hatóság által kezdeményezett regisztrációval.
+b) az azonosítási szolgáltató az azonosításhoz szükséges információkat postán hivatalos iratként személyes kézbesítés kikötésével a regisztrálandó természetes személy ügyfél vagy a szervezet ügyfél képviselője részére megküldi úgy, hogy a postai szolgáltató csak a regisztrálandó természetes személy ügyfél vagy a szervezet ügyfél képviselője azonosítása után adja át a küldeményt,
 
-(2) A hatóság képviseletében eljáró természetes személy által kezdeményezett regisztrációt a természetes személy ügyfelekre vonatkozó szabályok szerint kell lefolytatni, az alábbi eltérésekkel:
+c) az azonosítási lehetőség tényleges alkalmazásához az ügyfélnek a szolgáltatást egy előírt kivárási időt követően külön eljárásrendben aktiválnia kell.
 
-a) a természetes személy a hivatalos minőségét a feladat- és hatáskörrel rendelkező hatóság által kiállított közhiteles okmánnyal igazolja,
-
-b) a regisztrációt végző szerv az okmány érvényességét szükség szerint a kibocsátó hatóság megkeresésével ellenőrzi, továbbá
-
-c) a regisztrációról a kibocsátó hatóságot a regisztrációt végző szerv írásban értesíti.
-
-(3) A hatóság által kezdeményezett regisztráció esetében
-
-a) a természetes személy személyes adatainak rögzítéséről és a szükséges nyilatkozatok megtételéről a hatóság gondoskodik, ideértve a regisztrációhoz szükséges személyes adatok kezelésére vonatkozó hozzájáruló nyilatkozatot,
-
-b) a hatóság együttes listán is megküldheti a regisztráció eredményét közhiteles okmányba foglalva,
-
-c) az azonosítási szolgáltató az azonosítás eseti lefolytatásához szükséges adatokat, eszközöket a hatóságon keresztül is eljuttathatja az érintett személyekhez, ha az adattovábbítás során az adatok illetéktelen személyek általi megismerhetetlenségét oly módon biztosítja, hogy az esetleges illetéktelen megismerés ténye egyértelműen felfedhetővé váljon,
-
-d) ha az illetéktelen megismerésre utaló körülmény merül fel, a hatóság köteles az azonosítási szolgáltatót közvetlenül értesíteni, aki az azonosításhoz szükséges ismeretet, eszközöket soron kívül lecseréli, és a szükséges intézkedéseket megteszi.
+[^14]: A 40. § az 515/2013. (XII. 30.) Korm. rendelet 30. § (4) bekezdésével megállapított szöveg.
