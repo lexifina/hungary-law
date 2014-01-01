@@ -1,5 +1,9 @@
-## 22. §[^9]
+## 22. § Az R2. 1. számú melléklete a 4. melléklet szerint módosul.
 
 ## 3. A személyes gondoskodást végző személyek adatainak működési nyilvántartásáról szóló 8/2000. (VIII. 4.) SZCSM rendelet módosítása
 
-[^9]: A 22. § a 37. § (3) bekezdése alapján 2014. január 1-jén lép hatályba.
+## 23. § A személyes gondoskodást végző személyek adatainak működési nyilvántartásáról szóló 8/2000. (VIII. 4.) SZCSM rendelet (a továbbiakban: R3.)
+
+a) 1. számú melléklete az 5. melléklet szerint módosul,
+
+b) 7. számú melléklete a 6. melléklet szerint módosul.
