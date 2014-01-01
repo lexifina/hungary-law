@@ -16,9 +16,10 @@ b) „B” típusú mezőgazdasági biztosítási szerződések,
 
 c) „C” típusú mezőgazdasági biztosítási szerződések.
 
-(3) A (2) bekezdésben foglalt mezőgazdasági biztosítási szerződésekhez 2012-ben legfeljebb 9,33 millió eurónak, 2013-ban legfeljebb 10,67 millió eurónak megfelelő forintösszeg használható fel.
+(3)[^30] A (2) bekezdésben foglalt mezőgazdasági biztosítási szerződésekhez 2012-ben legfeljebb 9,33 millió eurónak, 2013-ban legfeljebb 10,67 millió eurónak, 2014-ben 10,67 millió eurónak megfelelő forintösszeg használható fel.
 
-(4)[^30] A (3) bekezdésben rögzített, a mezőgazdasági biztosítási szerződésekhez 2012-ben felhasználható legfeljebb 9,33 millió euró keretösszege 6,2419 millió euróval csökken.
+(4)[^31] A (3) bekezdésben rögzített, a mezőgazdasági biztosítási szerződésekhez 2012-ben felhasználható legfeljebb 9,33 millió euró keretösszege 6,2419 millió euróval csökken.
 
 [^29]: A 9. § (1) bekezdése a 125/2012. (XII. 10.) VM rendelet 5. §-ával megállapított szöveg.
-[^30]: A 9. § (4) bekezdését a 27/2013. (IV. 26.) VM rendelet 6. §-a iktatta be.
+[^30]: A 9. § (3) bekezdése a 130/2013. (XII. 21.) VM rendelet 29. §-a iktatta be.
+[^31]: A 9. § (4) bekezdését a 27/2013. (IV. 26.) VM rendelet 6. §-a iktatta be.
