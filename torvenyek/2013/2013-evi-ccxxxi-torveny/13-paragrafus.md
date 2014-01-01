@@ -16,6 +16,4 @@ f) kéményseprő-ipari közszolgáltatás esetén #FFFF00 kódszámú (pantone 
 
 színárnyalatot kell használni.”
 
-(2) A Számlaképtv. 8. §-a az alábbi (8) bekezdéssel egészül ki:
-
-„(8) Az 1–12. melléklet első oldalán a címzés feltüntetésének keretezése nem kötelező formai eleme a számlaképnek.”
+(2)
