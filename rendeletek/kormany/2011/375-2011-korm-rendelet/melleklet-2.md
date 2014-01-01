@@ -1,6 +1,6 @@
-## A jogosultsági vizsga követelményrendszere
+## A beszámolóval végződő kötelező továbbképzés követelményrendszere[^12]
 
-## A jogosultsági követelmények két főrészből állnak: általános és különös követelmények.
+## A beszámoló követelményei két főrészből állnak: általános és különös követelmények.
 
 ## Az általános rész a tűzvédelmi tervezői tevékenység közös ismeretanyagát tartalmazza.
 
@@ -116,7 +116,7 @@
 
 ## A vizsgázótól számon kérhető követelményekre vonatkozó jogszabályok, jogszabályrészek, szabványok és segédanyagok jegyzéke a szakmai kamarák honlapján találhatók. A listát a szakmai kamarák évente aktualizálják a jogszabályok és szabványok változásainak megfelelően.
 
-2. melléklet a 375/2011. (XII. 31.) Korm. rendelethez[^8]
+2. melléklet a 375/2011. (XII. 31.) Korm. rendelethez[^13]
 
 I. A MÉRNÖKI KAMARÁK HATÁSKÖRÉBE TARTOZÓ TŰZVÉDELMI SZAKTERÜLETEK
 
@@ -204,4 +204,5 @@ k) építmények elektromos, villámvédelmi és gépészeti rendszerei tűzvéd
 
 l) építmények tűzoltásának tűzoltási feltételeinek tervezése.
 
-[^8]: A 2. melléklet a 74/2012. (IV. 13.) Korm. rendelet 22. § (2) bekezdésével megállapított szöveg.
+[^12]: Az 1. melléklet címe az 522/2013. (XII. 30.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^13]: A 2. melléklet a 74/2012. (IV. 13.) Korm. rendelet 22. § (2) bekezdésével megállapított szöveg.

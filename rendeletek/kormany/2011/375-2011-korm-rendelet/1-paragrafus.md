@@ -1,6 +1,6 @@
 1. §[^1] (1) E rendelet hatálya kiterjed minden, az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény (a továbbiakban: Étv.) 2. § 8. pontjában meghatározott építmény (építmény, építményrész, építményegyüttes), külön jogszabály szerinti építésügyi hatósági (létesítési) engedélyezéséhez és műszaki megvalósításához (kivitelezéséhez) szükséges tűzvédelmi dokumentáció, valamint a beépített tűzjelző és tűzoltó berendezés létesítéséhez, tűzvédelmi hatósági engedélyezéséhez szükséges tervdokumentáció készítésére.
 
-(2) A tűzvédelmi tervezői tevékenység folytatására a településtervezési és az építészeti-műszaki tervezési, valamint az építésügyi műszaki szakértői jogosultság szabályairól szóló 104/2006. (IV. 28.) Korm. rendeletben foglalt előírásokat, a tűzvédelmi tervezők továbbképzésére az építésüggyel kapcsolatos egyes szabályozott szakmák gyakorlásához kapcsolódó szakmai továbbképzési rendszer részletes szabályairól szóló 103/2006. (IV. 28.) Korm. rendelet előírásait az e rendeletben foglalt eltérésekkel kell alkalmazni.
+(2)[^2] A tűzvédelmi tervezői tevékenység folytatására és a tűzvédelmi tervezők továbbképzésére az építésügyi és az építésüggyel összefüggő szakmagyakorlási tevékenységekről szóló 266/2013. (VII. 11.) Korm. rendelet előírásait az e rendeletben foglalt eltérésekkel kell alkalmazni.
 
 (3) E rendelet alkalmazásában:
 
@@ -19,3 +19,4 @@
 7. tűzvédelmi szakvizsga bizonyítvány: a tűzvédelmi szakvizsgára kötelezett foglalkozási ágakról, munkakörökről, a tűzvédelmi szakvizsgával összefüggő oktatásszervezésről és a tűzvédelmi szakvizsga részletes szabályairól szóló 45/2011. (XII. 7.) BM rendeletben foglalt érvényes tűzvédelmi szakvizsga bizonyítvány.
 
 [^1]: Az 1. § a 74/2012. (IV. 13.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § (2) bekezdése az 522/2013. (XII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
