@@ -1,0 +1,13 @@
+6. § (1) Az a tag, aki meghatározott dolog tulajdonjogának megszerzésére lehetőséget szerzett, a szerződést rendes felmondással nem szüntetheti meg mindaddig, amíg a szerződésben meghatározott valamennyi kötelezettségének maradéktalanul eleget nem tett.
+
+(2) A szerződés rendes felmondása esetén a fogyasztói csoportot működtető vállalkozás a tag által a szerződés alapján – a meghatározott dolog megszerzése érdekében – a felmondásig teljesített befizetések összegét a szerződésben meghatározott időtartam lejártát megelőzően a szerződésben foglalt rendelkezéseknek megfelelően és kizárólag a fogyasztói csoportot működtető vállalkozás saját pénzeszközei terhére fizetheti vissza. Ha a fogyasztói csoportot működtető vállalkozás visszafizetést saját pénzeszköze terhére nem teljesít, a taggal való elszámolásra a szerződésben rögzített időtartam végén kerül sor.
+
+(3) A fogyasztói csoportot működtető vállalkozás a szerződést rendes felmondással nem szüntetheti meg.
+
+(4) A tag a szerződést azonnali hatállyal felmondhatja, ha a fogyasztói csoportot működtető vállalkozás az e rendeletben foglalt – taggal szembeni – kötelezettségét megszegi. A szerződés azonnali hatállyal történő felmondása esetén a fogyasztói csoportot működtető vállalkozás a tag által az azonnali hatályú felmondásig teljesített befizetések összegét köteles a saját pénzeszközei terhére a felmondás közlésétől számított hatvan napon belül visszafizetni.
+
+(5) A fogyasztói csoportot működtető vállalkozás a szerződést azonnali hatállyal felmondhatja, ha a tag a szerződésben foglalt rendelkezéseket súlyosan megszegi, így különösen, ha ismételt felszólítás ellenére legalább három alkalommal határidőben nem tesz eleget a szerződés szerinti fizetési kötelezettségének. A szerződés azonnali hatállyal történő felmondása esetén a taggal való elszámolásra – a felmondástól függetlenül – a szerződésben rögzített időtartam végén kerül sor, a fogyasztói csoportot működtető vállalkozás azonban jogosult a (2) bekezdés szerinti visszafizetési lehetőséggel élni.
+
+(6) Ha a szerződés azonnali hatályú felmondására olyan taggal szemben kerül sor, aki a meghatározott dolog tulajdonjogát már megszerezte, a fogyasztói csoportot működtető vállalkozás jogosult arra, hogy a még hátralévő részletek teljes összegét azonnal lejárttá tegye, és a követelést a taggal szemben érvényesítse.
+
+(7) Ha a tag a szerződésben megjelölt valamennyi fizetési kötelezettségét esedékesség előtt teljesíti, valamint a meghatározott dolog tulajdonjogát megszerezte, a szerződés teljesítettnek tekintendő, a fogyasztói csoportot működtető vállalkozás további befizetéseket a tagtól nem követelhet.
