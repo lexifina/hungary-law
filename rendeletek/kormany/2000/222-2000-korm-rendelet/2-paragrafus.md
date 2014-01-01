@@ -20,7 +20,7 @@ g)[^3] felhalmozott kamat: hitelviszonyt megtestesítő kamatozó értékpapíro
 
 h)[^4] könyv szerinti érték: hitelviszonyt megtestesítő kamatozó értékpapírok, tulajdoni részesedést jelentő befektetések, diszkont értékpapírok, valamint a továbbértékesítés céljára beszerzett, áruk között kimutatott ingatlanok esetében a számviteli törvény szerinti beszerzési érték, tartós befektetési célú ingatlanok esetében a 28. § (2) bekezdésében meghatározott amortizációs kulcs figyelembevételével megállapított értékcsökkenéssel csökkentett beszerzési érték;
 
-i)[^5] értékpapír-kölcsönzés: a tőkepiacról szóló 2001. évi CXX. törvény (a továbbiakban: Tpt.) 5. §-a (1) bekezdésének 37. pontjában meghatározott fogalom;
+i)[^5] értékpapír-kölcsönzés: a tőkepiacról szóló 2001. évi CXX. törvény (a továbbiakban: Tpt.) 5. §-a (1) bekezdésének 44. pontjában meghatározott fogalom;
 
 j)[^6] kölcsönbe adott értékpapír kölcsönszerződés szerinti értéke: a kölcsönbe adott értékpapír kölcsönbe adó által közölt könyv szerinti értéke;
 
@@ -38,7 +38,7 @@ o)[^11]
 [^2]: A 2. § f) pontja a 325/2009. (XII. 29.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg; alkalmazására lásd e módosító rendelet 46. § (1) és (3) bekezdését.
 [^3]: A 2. § g) pontját a 287/2002. (XII. 23.) Korm. rendelet 1. §-a iktatta be, e módosító rendelet 28. § (1) bekezdése alapján a rendelkezést először a 2003. évről készített negyedéves és éves pénztári beszámolóra kell alkalmazni.
 [^4]: A 2. § h) pontját a 287/2002. (XII. 23.) Korm. rendelet 1. §-a iktatta be, e módosító rendelet 28. § (1) bekezdése alapján a rendelkezést először a 2003. évről készített negyedéves és éves pénztári beszámolóra kell alkalmazni.
-[^5]: A 2. § i) pontját a 285/2005. (XII. 20.) Korm. rendelet 1. §-a iktatta be. E módosító rendelet 32. § (1) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+[^5]: A 2. § i) pontját a 285/2005. (XII. 20.) Korm. rendelet 1. §-a iktatta be, szövege az 518/2013. (XII. 30.) Korm. rendelet 11. §-a szerint módosított szöveg.
 [^6]: A 2. § j) pontját a 285/2005. (XII. 20.) Korm. rendelet 1. §-a iktatta be. E módosító rendelet 32. § (1) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni.
 [^7]: A 2. § k) pontját a 396/2007. (XII. 27.) Korm. rendelet 1. § (2) bekezdése iktatta be, hatályon kívül helyezte a 342/2011. (XII. 29.) Korm. rendelet 22. § 1. pontja.
 [^8]: A 2. § l) pontját a 325/2009. (XII. 29.) Korm. rendelet 13. § (2) bekezdése iktatta be; alkalmazására lásd e módosító rendelet 46. § (1) és (3) bekezdését.
