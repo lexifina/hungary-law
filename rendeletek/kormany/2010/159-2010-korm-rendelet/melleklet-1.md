@@ -1,6 +1,6 @@
-## 48. §[^47]
+## 48. §[^49]
 
-1. melléklet a 159/2010. (V. 6.) Korm. rendelethez[^48]
+1. melléklet a 159/2010. (V. 6.) Korm. rendelethez[^50]
 
 ## A repülőtér területén lévő általános építmények
 
@@ -16,5 +16,5 @@
 
 6. Navigációs berendezések antennái
 
-[^47]: A 48. § a (3) bekezdés alapján hatályát vesztette.
-[^48]: Az 1. melléklet a 309/2010. (XII. 23.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^49]: A 48. § a (3) bekezdés alapján hatályát vesztette.
+[^50]: Az 1. melléklet a 309/2010. (XII. 23.) Korm. rendelet 11. §-ával megállapított szöveg.
