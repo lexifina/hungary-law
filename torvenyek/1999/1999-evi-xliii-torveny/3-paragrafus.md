@@ -18,4 +18,6 @@ g) kegyeleti emlékhely: elhunytak emlékének megjelölésére és megőrzésé
 
 h) kegyeleti közszolgáltatás: a köztemető fenntartását, továbbá üzemeltetését magába foglaló egyéni és közösségi kegyeleti célú, az elhunyt emlékének megőrzésére irányuló önkormányzati tevékenységek összessége;
 
-i) egészségügyi intézmény: egészségügyi szolgáltatás nyújtására jogosító működési engedéllyel rendelkező személy, illetőleg intézmény.
+i) egészségügyi intézmény: egészségügyi szolgáltatás nyújtására jogosító működési engedéllyel rendelkező személy, illetőleg intézmény;
+
+j) korai vagy középidős magzati halál: az egészségügyről szóló 1997. évi CLIV. törvény 216. § e) pontjában meghatározott haláleset.

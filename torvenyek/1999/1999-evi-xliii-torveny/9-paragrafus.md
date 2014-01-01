@@ -6,7 +6,7 @@ b) ravatalozót,
 
 c) a halottak ideiglenes elhelyezésére szolgáló tárolót és hűtőt,
 
-d) boncolóhelyiség-csoportot,
+d)
 
 e) a temető bekerítését vagy élősövénnyel való lehatárolását,
 
