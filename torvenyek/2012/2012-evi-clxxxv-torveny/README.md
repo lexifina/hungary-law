@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-185-00-00
 | 2013-10-22 | 2013. évi CLXVII. törvény | 2012-185-00-00.8 |
 | 2013-11-19 | 2013. évi CLXXXIII. törvény | 2012-185-00-00.9 |
 | 2013-12-31 | 2013. évi CCL. törvény | 2012-185-00-00.10 |
+| 2014-01-01 | 2013. évi CXXV. törvény | 2012-185-00-00.11 |

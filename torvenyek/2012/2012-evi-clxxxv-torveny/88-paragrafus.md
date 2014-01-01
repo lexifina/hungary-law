@@ -104,7 +104,7 @@ bb) a hulladékgazdálkodási közszolgáltatás díjait, a díjalkalmazási fel
 
 bc) a Hivatal miniszter részére történő adatszolgáltatási és javaslattételi kötelezettségének rendjére, módjára, tartalmára, formájára és időpontjára vonatkozó részletes szabályokat,
 
-bd) a számviteli szabályozásért felelős miniszterrel, valamint a fogyasztóvédelemért felelős miniszterrel egyetértésben a közszolgáltatók által alkalmazható számlaképet
+bd)
 
 rendeletben állapítsa meg.
 

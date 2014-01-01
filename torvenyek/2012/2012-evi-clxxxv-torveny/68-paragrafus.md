@@ -6,7 +6,7 @@
 
 (3) A járulékfizetésre kötelezett a járulékfizetési kötelezettségét annak keletkezésétől számított 15 napon belül a környezetvédelmi hatóságnak – az e célra készített formanyomtatványon – bejelenti (bejelentés).
 
-(4) A hulladéklerakási járulékot a járulékfizetésre kötelezett negyedévente, a tárgynegyedévet követő hónap 20. napjáig a környezetvédelmi hatóság által megjelölt számlára befizeti. A befizetett hulladéklerakási járulékot a környezetvédelmi hatóság a befizetést követő hónap 25. napjáig a környezetvédelemért felelős miniszter által megjelölt fejezeti kezelésű előirányzat számlájára átutalja.
+(4) A hulladéklerakási járulékot a járulékfizetésre kötelezett negyedévente, a tárgynegyedévet követő hónap 20. napjáig az e célra vezetett központi költségvetési fizetési számlára forintban fizeti be.
 
 (5) A járulékfizetésre kötelezett a hulladéklerakóban elhelyezett hulladékról naprakész nyilvántartást vezet. A nyilvántartás tartalmazza
 
@@ -18,6 +18,6 @@ vonatkozó adatokat.
 
 (6) A járulékfizetésre kötelezett a bejelentésen és a hulladéklerakási járulék befizetésén túlmenően az (5) bekezdésben meghatározott tartalommal a környezetvédelmi hatóság részére negyedévente, a tárgynegyedévet követő hónap 20. napjáig adatot szolgáltat. Az adatokat igazoló dokumentumokhoz csatolja a járulék megfizetését igazoló okiratok másolatát.
 
-(7) A hulladéklerakási járulékból befolyt összeg e törvény végrehajtására kiadott kormányrendeletben meghatározott célra fordítható.
+(7)
 
 (8)
