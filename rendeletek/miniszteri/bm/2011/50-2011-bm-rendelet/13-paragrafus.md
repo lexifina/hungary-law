@@ -12,10 +12,10 @@ b) a szakképesítést igazoló irat,
 
 c) a szakmai gyakorlatot igazoló irat,
 
-d)[^20]
+d)[^18]
 
 ## másolatát.
 
 (4) A bejelentésben foglalt adatokban bekövetkezett változást a tudomásra jutást követően haladéktalanul, de legkésőbb 8 napon belül a 8. melléklet szerinti adattartalommal kell megtenni, melyhez tűzvédelmi szakvizsga bizonyítványt abban az esetben kell mellékelni, amennyiben a vizsgáztató tevékenységi körét új foglalkozási ággal, munkakörrel bővíti, vagy a szakvizsga bizonyítvány száma, érvényességi ideje változott.
 
-[^20]: A 13. § (3) bekezdés d) pontja a 15. § (2) bekezdése alapján 2012. május 1-jén lép hatályba.
+[^18]: A 13. § (3) bekezdés d) pontja a 15. § (2) bekezdése alapján 2012. május 1-jén lép hatályba.

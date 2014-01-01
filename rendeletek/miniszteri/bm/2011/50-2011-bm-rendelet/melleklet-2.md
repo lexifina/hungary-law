@@ -10,10 +10,6 @@
 
 |  | M: | tűzoltó technika felülvizsgálata, javítása, |
 
-|  | F: | beépített tűzjelző vagy tűzoltó berendezés kivitelezése, karbantartása, javítása, telepítése vagy felülvizsgálata, |
-
-|  | T: | tűzátjelzés fogadása, tűzjelző vagy tűzoltó központok távfelügyelete, |
-
 |  | SZ: | tűzvédelmi szakvizsgával összefüggő oktatásszervezés, |
 
 |  | V: | tűzvédelmi szakvizsgáztatás; |
@@ -72,6 +68,6 @@
 
 |  | 21 | BM Országos Katasztrófavédelmi Főigazgatóság |
 
-2. melléklet az 50/2011. (XII. 20.) BM rendelethez[^29]
+2. melléklet az 50/2011. (XII. 20.) BM rendelethez[^23]
 
-[^29]: A 2. melléklet a 24/2012. (V. 8.) BM rendelet 14. § (2) bekezdésével megállapított szöveg.
+[^23]: A 2. melléklet a 24/2012. (V. 8.) BM rendelet 14. § (2) bekezdésével megállapított szöveg.

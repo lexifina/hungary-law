@@ -24,6 +24,6 @@
 
 ## Nyilvántartási szám (adatváltozás esetén)
 
-5. melléklet az 50/2011. (XII. 20.) BM rendelethez[^32]
+5–6. melléklet az 50/2011. (XII. 20.) BM rendelethez[^26]
 
-[^32]: Az 5. melléklet a 24/2012. (V. 8.) BM rendelet 14. § (4) bekezdésével megállapított szöveg.
+[^26]: Az 5–6. mellékletet a 64/2013. (XII. 4.) BM rendelet 12. § e) pontja hatályon kívül helyezte.

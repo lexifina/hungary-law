@@ -1,8 +1,5 @@
-16. § (1) A tűzvédelmi hatóság nyilvántartásában már szereplő tűzoltó készülék karbantartó szervezet legkésőbb 2012. április 1-jéig a tűzvédelmi hatóság részére köteles az adatváltozást bejelenteni a 2. melléklet szerinti adattartalommal.
+16. §[^19] (1) A szakvizsga rendelet 1. melléklet 16. pontjában meghatározott foglalkozási ág vonatkozásában a tűzvédelmi szakvizsgáztató tevékenység 2014. május 1-jéig érvényes tűzvédelmi szakvizsga bizonyítvány nélkül végezhető.
 
-(2)[^21]
+(2) A tűzvédelmi hatóság a beépített tűzjelző berendezés vagy tűzoltó berendezés kivitelezése, karbantartása, javítása, telepítése vagy felülvizsgálata, továbbá a tűzátjelzés fogadása, tűzjelző vagy tűzoltó központok távfelügyelete tevékenységet végző szolgáltatókról vezetett nyilvántartását 2014. január 31. napjával törli.
 
-(3)[^22] Azok az OKF azonosító jelek (hologramok), amelyek 10 karakterből álló sorozatszámot tartalmaznak, a készlet erejéig, de legkésőbb 2012. december 31-ig használhatóak fel.
-
-[^21]: A 16. § (2) bekezdését a 24/2012. (V. 8.) BM rendelet 16. § b) pontja hatályon kívül helyezte.
-[^22]: A 16. § (3) bekezdése a 67/2012. (XII. 14.) BM rendelet 15. § (3) bekezdésével megállapított szöveg.
+[^19]: A 16. § a 64/2013. (XII. 4.) BM rendelet 11. §-ával megállapított szöveg.
