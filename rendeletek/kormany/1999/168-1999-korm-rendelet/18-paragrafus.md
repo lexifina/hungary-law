@@ -10,8 +10,9 @@ b) doktori cím viselésére irányuló szándék esetén a doktori cím viselé
 
 c) a magyarországi letelepedés szándékával külföldről hazatért magyar állampolgár esetén a személyi azonosítót és lakcímet igazoló hatósági igazolványát,
 
-d) a bevándorolt, a menekült, az oltalmazott és a letelepedett jogállású kérelmező esetében a bevándorlási engedélyt, a menekültkénti vagy oltalmazottkénti elismerését igazoló okiratot, a letelepedett jogállást igazoló okmányt, továbbá a személyi azonosítót és a lakcímet igazoló hatósági igazolványt.
+d)[^61] a bevándorolt, a menekült, az oltalmazott és a letelepedett jogállású kérelmező esetében a bevándorlási engedélyt, a menekültkénti vagy oltalmazottkénti elismerését igazoló okiratot, a letelepedett jogállást igazoló okmányt, továbbá a személyi azonosítót és lakcímet igazoló hatósági igazolványt.
 
 (4) A kérelemhez nem kell bemutatni a születési anyakönyvi kivonatot, ha a születést Magyarországon anyakönyvezték, illetve a névviselés megállapítására alkalmas házassági anyakönyvi kivonatot, ha a házasságkötést Magyarországon anyakönyvezték.
 
 [^60]: A 18. § a 417/2012. (XII. 29.) Korm. rendelet 52. §-ával megállapított szöveg.
+[^61]: A 18. § (3) bekezdés d) pontja az 515/2013. (XII. 30.) Korm. rendelet 18. § (4) bekezdés b) pontja szerint módosított szöveg.
