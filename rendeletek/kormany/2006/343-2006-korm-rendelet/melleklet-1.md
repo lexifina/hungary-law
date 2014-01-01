@@ -1,4 +1,4 @@
-1. melléklet a 343/2006. (XII. 23.) Korm. rendelethez[^73]
+1. melléklet a 343/2006. (XII. 23.) Korm. rendelethez[^69]
 
 I. rész
 
@@ -132,8 +132,8 @@ II. rész
 
 | 20. | Budapest | I. kerület | az 1. § (2)–(3) bekezdésében meghatározott feladatok tekintetében: I. kerület, II. kerület, III. kerület, XI. kerület, XII. kerület, XX. kerület, XXI. kerület, XXII. kerület, XXIII. kerület |
 
-|  |  | V. kerület | az 1. § (2)–(3) bekezdésében meghatározott feladatok tekintetében: IV. kerület, V. kerület, VI. kerület, VII. kerület, VIII. kerület, IX. kerület, X. kerület, XIII. kerület, XIV. kerület, XV. kerület, XVI. kerület, XVII. kerület, XVIII. kerület, XIX. kerület |
+| V. kerület | az 1. § (2)–(3) bekezdésében meghatározott feladatok tekintetében: IV. kerület, V. kerület, VI. kerület, VII. kerület, VIII. kerület, IX. kerület, X. kerület, XIII. kerület, XIV. kerület, XV. kerület, XVI. kerület, XVII. kerület, XVIII. kerület, XIX. kerület, Fővárosi Önkormányzat által közvetlenül igazgatott terület |
 
 III. rész
 
-[^73]: Az 1. mellékletet a 69/2007. (IV. 13.) Korm. rendelet 3. §-a hatályon kívül helyezte, újonnan a 322/2012. (XI. 16.) Korm. rendelet 41. § a) pontja iktatta be, szövege a 394/2012. (XII. 20.) Korm. rendelet 66. § (2) és (5) bekezdése szerint módosított szöveg.
+[^69]: Az 1. mellékletet a 69/2007. (IV. 13.) Korm. rendelet 3. §-a hatályon kívül helyezte, újonnan a 322/2012. (XI. 16.) Korm. rendelet 41. § a) pontja iktatta be, szövege a 394/2012. (XII. 20.) Korm. rendelet 66. § (2) és (5) bekezdése, a 487/2013. (XII. 17.) Korm. rendelet 11. § (2) bekezdése szerint módosított szöveg.
