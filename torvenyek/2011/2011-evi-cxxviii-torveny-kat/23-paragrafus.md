@@ -1,6 +1,6 @@
 ## 17. A hivatásos katasztrófavédelmi szerv központi szerve
 
-23. § (1) A hivatásos katasztrófavédelmi szerv központi szerve önállóan működő és gazdálkodó költségvetési szerv.
+23. § (1) A hivatásos katasztrófavédelmi szerv központi szerve költségvetési szerv.
 
 (2) A hivatásos katasztrófavédelmi szerv központi szerve vezetője vezeti a központi szervet, irányítja a hivatásos katasztrófavédelmi szerv területi és helyi szervei működését és szakmai tevékenységét.
 
