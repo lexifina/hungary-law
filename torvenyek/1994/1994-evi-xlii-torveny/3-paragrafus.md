@@ -51,3 +51,5 @@ b) magánadós: az a) pontba nem tartozó szervezet.
 (9) A (4) bekezdés a) pontjában foglalt kockázatok az exportcélú szerződések gyártási és teljesítési szakaszaira biztosíthatóak, illetőleg viszontbiztosíthatók.
 
 (10) A Mehib Rt.-nek az általa megkötött piacképes kockázatú biztosításokból eredő fizetési kötelezettségei még abban az esetben sem teljesíthetőek a központi költségvetés terhére, ha az ügylethez kapcsolódó besorolási feltételek későbbi megváltozása nem-piacképes kockázatú biztosítás megkötését tenné lehetővé.
+
+(11) A Mehib Rt. az e § alapján folytatott tevékenységéhez a központi költségvetés terhére, valamint a központi költségvetésből folyósított előirányzatokból kapott támogatás felhasználásával kötött ügyletekre rögzíti az ügyfél azonosítási eljárásról szóló belső szabályzatában azokat a speciális, fokozott körültekintést biztosító megfelelési eljárásokat is, amelyeket azon szervezetek esetében alkalmaz a kockázatok csökkentésére, amelyek az államháztartásról szóló 2011. évi CXCV. törvény alapján nem minősülnek átláthatónak.

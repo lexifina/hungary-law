@@ -1,10 +1,10 @@
 ## Hitelnyújtás
 
-21. § (1) Az Eximbank esetében a Hpt. 79. § (1) bekezdésében foglaltaktól eltérően nagykockázat vállalásának minősül az egy ügyféllel vagy ügyfélcsoporttal szembeni kitettség, ha annak értéke eléri vagy meghaladja az Eximbank szavatoló tőkéjének huszonöt százalékát.
+21. § (1) Az Eximbank esetében az 575/2013/EU rendelet 392. cikkében foglaltaktól eltérően nagykockázat vállalásának minősül az egy ügyféllel vagy ügyfélcsoporttal szembeni kitettség, ha annak értéke eléri vagy meghaladja az Eximbank szavatoló tőkéjének huszonöt százalékát.
 
-(2) A Hpt. 79. § (2) bekezdésétől eltérően hitelintézetnek nem minősülő egy ügyféllel vagy ügyfélcsoport nem hitelintézet tagjával szembeni kitettség értékének az együttes összege nem haladhatja meg az Eximbank szavatoló tőkéjének harmincöt százalékát.
+(2) Az 575/2013/EU rendelet 395. cikk (1) bekezdésétől eltérően hitelintézetnek nem minősülő egy ügyféllel vagy ügyfélcsoport nem hitelintézet tagjával szembeni kitettség értékének az együttes összege nem haladhatja meg az Eximbank szavatoló tőkéjének harmincöt százalékát.
 
-(3) Az (1)–(2) bekezdésben foglalt rendelkezéseket nem kell alkalmazni – a Hpt. 80. §-ának (1) bekezdésében meghatározottakon túlmenően –
+(3) Az (1)–(2) bekezdésben foglalt rendelkezéseket nem kell alkalmazni – az 575/2013/EU rendelet 400. cikk (1) bekezdésében meghatározottakon túlmenően –
 
 a) az Eximbank által a bel- és külföldi hitelintézet számára nyújtott exportcélú hitelnél és pénzkölcsönnél,
 
