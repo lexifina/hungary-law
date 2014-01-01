@@ -68,6 +68,6 @@
 
 | Tojótyúk | R. 3. számú mellékletében foglalt férőhelyre vonatkozó előírások |
 
-2. számú melléklet a 139/2004. (IX. 24.) FVM rendelethez[^54]
+2. számú melléklet a 139/2004. (IX. 24.) FVM rendelethez[^56]
 
-[^54]: A 2. számú melléklet rendelkezéseit a 112/2005. (XI. 29.) FVM rendelet 13. § (2) bekezdése alapján a 2006. január 1-jét megelőzően benyújtott támogatási és a hozzá kapcsolódó kifizetési kérelmekre kell alkalmazni.
+[^56]: A 2. számú melléklet rendelkezéseit a 112/2005. (XI. 29.) FVM rendelet 13. § (2) bekezdése alapján a 2006. január 1-jét megelőzően benyújtott támogatási és a hozzá kapcsolódó kifizetési kérelmekre kell alkalmazni.

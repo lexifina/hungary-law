@@ -34,7 +34,7 @@
 
 5. számú melléklet
 
-139/2004. (IX. 24.) FVM rendelethez[^56]
+139/2004. (IX. 24.) FVM rendelethez[^58]
 
 Támogatási jogcímek és az igénybe vehető támogatás mértéke
 
@@ -134,4 +134,4 @@ Támogatási jogcímek és az igénybe vehető támogatás mértéke
 
 | borjú | 64,7 |
 
-[^56]: Az 5. számú mellékletet a 112/2005. (XI. 29.) FVM rendelet 13. § (1) bekezdése iktatta be. E módosító rendelet 14. § (2) bekezdése alapján a melléklet rendelkezéseit csak a 2006. január 1-jét követően benyújtott támogatási és a hozzá kapcsolódó kifizetési kérelmekre kell alkalmazni.
+[^58]: Az 5. számú mellékletet a 112/2005. (XI. 29.) FVM rendelet 13. § (1) bekezdése iktatta be. E módosító rendelet 14. § (2) bekezdése alapján a melléklet rendelkezéseit csak a 2006. január 1-jét követően benyújtott támogatási és a hozzá kapcsolódó kifizetési kérelmekre kell alkalmazni.

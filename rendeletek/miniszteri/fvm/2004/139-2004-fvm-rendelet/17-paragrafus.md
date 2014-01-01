@@ -1,6 +1,6 @@
 ## Jogkövetkezmények
 
-17. §[^51] (1) Amennyiben,
+17. §[^53] (1) Amennyiben,
 
 a) a támogatásra jogosult valamely jogosultsági feltételnek nem tesz eleget, vagy az állatjóléti és -higiéniai célú jövedelempótló támogatás esetében a kötelezően betartandó előírást megszegi, az adott és a további évekre vonatkozó, támogatási határozatba foglalt jogosultsága visszavonásra kerül;
 
@@ -30,7 +30,7 @@ b) az állatjóléti és -higiéniai célú jövedelempótló támogatás igény
 
 (6) Ha a helyszíni ellenőrzés során megállapításra kerül, hogy a támogatásra jogosult a támogatási időszak bármely évében valamely jogosultsági feltételnek nem tett eleget, az adott évben kifizetett támogatás jogosulatlanul igénybe vett támogatásnak minősül.
 
-(7)[^52] Amennyiben a támogatásra jogosult kötelező állatlétszám tartására vállalt kötelezettségét – ide nem értve a szakmailag indokolt állományváltás időszakát – nem teljesíti,
+(7)[^54] Amennyiben a támogatásra jogosult kötelező állatlétszám tartására vállalt kötelezettségét – ide nem értve a szakmailag indokolt állományváltás időszakát – nem teljesíti,
 
 a) környezetvédelmi célú beruházáshoz, valamint az állatjóléti és -higiéniai célú beruházáshoz nyújtott támogatás esetében:
 
@@ -44,5 +44,5 @@ ba) amennyiben tíz százaléknál kisebb a csökkenés a bejelentett és az ell
 
 bb) amennyiben tíz százaléknál nagyobb a csökkenés a bejelentett és az ellenőrzés során fellelt állatlétszám között, az adott és a további évekre vonatkozó, támogatási határozatban foglalt jogosultsága visszavonásra kerül.
 
-[^51]: A 17. § a 86/2005. (IX. 27.) FVM rendelet 10. §-ával megállapított szöveg, e módosító rendelet 12. § (1) bekezdése alapján a rendelkezést a 2005. szeptember 30. napján folyamatban lévő eljárásokban is alkalmazni kell.
-[^52]: A 17. § (7) bekezdését a 112/2005. (XI. 29.) FVM rendelet 12. §-a iktatta be. E módosító rendelet 14. § (2) bekezdése alapján a rendelkezést csak a 2006. január 1-jét követően benyújtott támogatási és a hozzá kapcsolódó kifizetési kérelmekre kell alkalmazni.
+[^53]: A 17. § a 86/2005. (IX. 27.) FVM rendelet 10. §-ával megállapított szöveg, e módosító rendelet 12. § (1) bekezdése alapján a rendelkezést a 2005. szeptember 30. napján folyamatban lévő eljárásokban is alkalmazni kell.
+[^54]: A 17. § (7) bekezdését a 112/2005. (XI. 29.) FVM rendelet 12. §-a iktatta be. E módosító rendelet 14. § (2) bekezdése alapján a rendelkezést csak a 2006. január 1-jét követően benyújtott támogatási és a hozzá kapcsolódó kifizetési kérelmekre kell alkalmazni.

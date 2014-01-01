@@ -1,6 +1,6 @@
 15. § (1) A környezetvédelmi célú, valamint az állatjóléti és -higiéniai célú beruházáshoz igényelt támogatás esetén a támogatási kérelem nem minősül az első évi kifizetési kérelemnek.
 
-(2)[^49] A környezetvédelmi célú beruházáshoz, valamint az állatjóléti és -higiéniai célú beruházáshoz igényelt támogatás esetén a kifizetési kérelmet az adott évre ütemezett beruházás megvalósulását követően a 14. § (1) bekezdésében szereplő időtartamon belül és módon lehet benyújtani. A kifizetési kérelemhez a támogatási kérelemben meghatározott ütemezés szerint mellékelni kell:
+(2)[^51] A környezetvédelmi célú beruházáshoz, valamint az állatjóléti és -higiéniai célú beruházáshoz igényelt támogatás esetén a kifizetési kérelmet az adott évre ütemezett beruházás megvalósulását követően a 14. § (1) bekezdésében szereplő időtartamon belül és módon lehet benyújtani. A kifizetési kérelemhez a támogatási kérelemben meghatározott ütemezés szerint mellékelni kell:
 
 a) engedélyköteles beruházás esetén az illetékes hatóság által kiállított használatbavételi engedélyt, nyilatkozatot;
 
@@ -12,4 +12,4 @@ bb) környezetvédelmi célú beruházás esetén – kivéve a trágyatárolás
 
 (3) Állatjóléti és -higiéniai célú jövedelempótló támogatási kérelem magában foglalja az első évre vonatkozó kifizetési kérelmet.
 
-[^49]: A 15. § (2) bekezdése a 112/2005. (XI. 29.) FVM rendelet 11. §-ával megállapított szöveg.
+[^51]: A 15. § (2) bekezdése a 112/2005. (XI. 29.) FVM rendelet 11. §-ával megállapított szöveg.

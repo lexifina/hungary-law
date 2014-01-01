@@ -18,6 +18,6 @@
 
 ## Célszerű és előremutató lenne a nagy létszámú állatfajok (szarvasmarha, sertés, juh) esetében az országos adatbázisokat (pl. ENAR) egységesen, illetve összehangoltan alkalmazni.
 
-4. számú melléklet a 139/2004. (IX. 24.) FVM rendelethez[^55]
+4. számú melléklet a 139/2004. (IX. 24.) FVM rendelethez[^57]
 
-[^55]: A 4. számú mellékletet a 86/2005. (IX. 27.) FVM rendelet 11. § (2) bekezdése iktatta be, szövege a 62/2007. (VII. 13.) FVM rendelet 9. §-ával megállapított szöveg.
+[^57]: A 4. számú mellékletet a 86/2005. (IX. 27.) FVM rendelet 11. § (2) bekezdése iktatta be, szövege a 62/2007. (VII. 13.) FVM rendelet 9. §-ával megállapított szöveg.
