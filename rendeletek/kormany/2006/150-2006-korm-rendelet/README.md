@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-150-20-
 | 2012-01-01 | 2006-150-20-22.11 | 351/2010. (XII. 30.) Korm. rendelet |
 | 2012-03-15 | 2006-150-20-22.12 | 351/2010. (XII. 30.) Korm. rendelet |
 | 2013-01-01 | 2006-150-20-22.13 | 351/2010. (XII. 30.) Korm. rendelet |
+| 2014-01-01 | 2006-150-20-22.14 | 527/2013. (XII. 30.) Korm. rendelet |
