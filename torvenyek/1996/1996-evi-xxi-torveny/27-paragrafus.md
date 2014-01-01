@@ -26,7 +26,7 @@ k) a területfejlesztést közvetlenül és közvetve szolgáló pénzeszközök
 
 l) a területfejlesztés intézményeinek a fejlesztési elképzelések összegyűjtésével, számbavételével, megvalósításának kidolgozásával, és ezzel kapcsolatos adatszolgáltatás rendjével kapcsolatos feladatait és eljárás rendjét;
 
-m) az Európai Regionális Fejlesztési Alapból, az Európai Szociális Alapból és a Kohéziós Alapból származó támogatások felhasználásának rendjét;
+m)
 
 n) a kormányhivatal, a kistérségi, térségi és regionális fejlesztési tanácsok, a megyei területfejlesztési tanácsok és a Budapesti Agglomerációs Fejlesztési Tanács létrehozásával, átalakulásával és megszüntetésével kapcsolatos feladatait, a megalakulással, átalakulással és megszüntetéssel kapcsolatos eljárás rendjét;
 

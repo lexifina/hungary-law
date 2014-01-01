@@ -4,7 +4,17 @@
 
 (2) A településrendezési terv hiányában vagy a tervi elem településrendezési mélységű lehatárolásának hiányában a kiemelt térségi vagy a megyei területrendezési terv övezeti tervlapjain meghatározott övezeti határok és a térségi szerkezeti tervben meghatározott műszaki infrastruktúrahálózatok nyomvonalainak településrendezési mélységű pontosítása az állami főépítész térségi területfelhasználási engedélye alapján történik.
 
-(3) A kiváló termőhelyi adottságú szántóterület övezetében, a kiváló termőhelyi adottságú erdőterület övezetében, a magterület övezetében, az ökológiai folyosó övezetében és az erdőtelepítésre alkalmas terület övezetében, valamint a kiemelt térség területrendezési tervére vonatkozó törvény hatálya alá tartozó település közigazgatási határától számított 200 méternél közelebbi területen a beépítésre szánt terület kivételes kijelölése, továbbá a Budapesti Agglomeráció területrendezési tervéről szóló törvény hatálya alá tartozó települések területén a területcsere az állami főépítész térségi területfelhasználási engedélye alapján történik.
+(3) A kiváló termőhelyi adottságú szántóterület övezetében, a magterület övezetében, az ökológiai folyosó övezetében és valamint a kiemelt térség területrendezési tervére vonatkozó törvény hatálya alá tartozó település közigazgatási határától számított 200 méternél közelebbi területen a beépítésre szánt terület kivételes kijelölése, továbbá a Budapesti Agglomeráció területrendezési tervéről szóló törvény hatálya alá tartozó települések területén a területcsere az állami főépítész térségi területfelhasználási engedélye alapján történik.
+
+(3a) Az országos, a kiemelt térségi vagy a megyei területrendezési tervben nem szereplő, de más rendelkezéseinek megfelelő,
+
+a) az energiaellátás biztonságának biztosításához szükséges atomerőműnek nem minősülő erőmű, villamosenergia-átviteli hálózat távvezeték elemei, nemzetközi és hazai szénhidrogén- és szén-dioxid-szállítóvezeték elemei,
+
+b) a közlekedési infrastruktúra-hálózat elemei közül a gyorsforgalmi utak, főutak és az országos vasúti törzshálózat elemei,
+
+c) az egyedi építmények közül a gyorsforgalmi úton, főúton és vasúti törzshálózaton lévő híd a Dunán és a Tiszán, valamint a Vásárhelyi-terv továbbfejlesztése keretében megvalósuló vízkárelhárítási célú szükségtározók
+
+területi elhelyezése az állami főépítész térségi területfelhasználási engedélye alapján történik.
 
 (4) A térségi területfelhasználási engedély kiadása csak akkor tagadható meg, ha a térségi területfelhasználási kérelemben szereplő javaslat nincs összhangban az elfogadott országos vagy az adott térségre vonatkozó területrendezési terv előírásaival.
 
