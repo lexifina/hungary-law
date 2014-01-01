@@ -6,7 +6,7 @@ A rendszerhasználati díjak megállapításának keretszabályai
 
 1.1. Rendszeres ármegállapítás
 
-2013. december 31-ig a Hivatal rendszeres ármegállapítást gázévente végez a jelen mellékletben meghatározottak szerint. A rendszeres ármegállapítás során figyelemmel kell lenni az előző gázévben megállapított díjak szintjére. A GET 105. § (3) bekezdése szerinti országosan egységes rendszerhasználati díjak számításánál nem kell figyelemmel lenni azon engedélyesekre, amelyekre a 2009. évi eszköz- és költségfelülvizsgálat nem terjedt ki.
+A Hivatal rendszeres ármegállapítást gázévente végez a jelen mellékletben meghatározottak szerint. A rendszeres ármegállapítás során figyelemmel kell lenni az előző gázévben megállapított díjak szintjére. A GET 105. § (3) bekezdése szerinti országosan egységes rendszerhasználati díjak számításánál nem kell figyelemmel lenni azon engedélyesekre, amelyekre a 2009. évi eszköz- és költségfelülvizsgálat nem terjedt ki.
 
 1.1.1. Inflációs kritérium
 
@@ -188,4 +188,4 @@ zh: a tárgyidőszaki rendszeres ármegállapításnál számított hibakorrekci
 
 zhf: a tárgyidőszaki rendszeres ármegállapításnál figyelembe veendő, hibakorrekciós tényezővel korrigált felülvizsgált inflációkövetési tényező.
 
-[^21]: A 4. mellékletet a 18/2010. (XII. 3.) NFM rendelet 16. §-a iktatta be, szövege a 28/2012. (V. 31.) NFM rendelet 15. §-ával megállapított, a 78/2012. (XII. 22.) NFM rendelet 25. §-a, a 13/2013. (IV. 3.) NFM rendelet 7. §-a, a 43/2013. (VII. 25.) NFM rendelet 13. § (2) bekezdés d) pontja és (3) bekezdése, az 58/2013. (IX. 27.) NFM rendelet 2. §-a, a 60/2013. (X. 16.) NFM rendelet 1. §-a szerint módosított szöveg.
+[^21]: A 4. mellékletet a 18/2010. (XII. 3.) NFM rendelet 16. §-a iktatta be, szövege a 28/2012. (V. 31.) NFM rendelet 15. §-ával megállapított, a 78/2012. (XII. 22.) NFM rendelet 25. §-a, a 13/2013. (IV. 3.) NFM rendelet 7. §-a, a 43/2013. (VII. 25.) NFM rendelet 13. § (2) bekezdés d) pontja és (3) bekezdése, az 58/2013. (IX. 27.) NFM rendelet 2. §-a, a 60/2013. (X. 16.) NFM rendelet 1. §-a, a 75/2013. (XII. 16.) NFM rendelet 1. §-a szerint módosított szöveg.
