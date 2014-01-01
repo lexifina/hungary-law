@@ -18,4 +18,6 @@ h) a vállalkozás végrehajtási politikája,
 
 i) a vállalkozás összeférhetetlenségi politikájának összefoglaló leírása.
 
-(2) A vállalkozás az üzletszabályzatát – az ügyvezető szerv jóváhagyását követő 8 napon belül – oldalanként cégszerűen aláírva, módosításokkal egységes szerkezetben tájékoztatás végett a Felügyelethez benyújtja.
+(2)[^2]
+
+[^2]: A 6. § (2) bekezdését az 537/2013. (XII. 30.) Korm. rendelet 45. §-a hatályon kívül helyezte.
