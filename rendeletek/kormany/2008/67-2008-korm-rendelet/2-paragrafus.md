@@ -1,4 +1,4 @@
-2. § (1)[^2] A pályázati eljárásokkal kapcsolatos adatok közzétételének helyéül szolgáló honlapot a fejlesztéspolitikáért felelős miniszter működteti.
+2. § (1)[^2] A pályázati eljárásokkal kapcsolatos adatok közzétételének helyéül szolgáló honlapot a Kormány európai uniós források felhasználásáért felelős tagja működteti.
 
 (2) A honlap létrehozását és üzemeltetését a KOPINT-DATORG Infokommunikációs Zrt. végzi.
 
@@ -6,7 +6,7 @@
 
 (4)[^4] A pályázatot befogadó szerv és a kiemelt adatszolgáltató a www.kozpenzpalyazat.gov.hu honlapon előírt módon és a honlapról letölthető nyomtatványokon tesz eleget adatszolgáltatási és tájékoztatási kötelezettségének.
 
-(5)[^5] A pályázatot befogadó szerv a Knyt.-ben meghatározott adatszolgáltatási feladatait az Új Magyarország Fejlesztési Terv pályázatai tekintetében a Nemzeti Fejlesztési Ügynökség útján látja el.
+(5)[^5] A pályázatot befogadó szerv a Knyt.-ben meghatározott adatszolgáltatási feladatait az Új Magyarország Fejlesztési Terv pályázatai tekintetében a kormány európai források felhasználásáért felelős tagja útján látja el.
 
 (6)[^6] A pályázati elszámolás közzététele keretében a pályázatot befogadó szerv közli a honlap üzemeltetőjével:
 
@@ -18,8 +18,8 @@ ba) lezárás időpontját,
 
 bb) lezárás összegét.
 
-[^2]: A 2. § (1) bekezdése a 62/2009. (III. 28.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^2]: A 2. § (1) bekezdése a 62/2009. (III. 28.) Korm. rendelet 2. §-ával megállapított, az 550/2013. (XII. 30.) Korm. rendelet 33. § a) pontja szerint módosított szöveg.
 [^3]: A 2. § (3) bekezdése a 62/2009. (III. 28.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^4]: A 2. § (4) bekezdését a 62/2009. (III. 28.) Korm. rendelet 3. §-a iktatta be.
-[^5]: A 2. § (5) bekezdését a 62/2009. (III. 28.) Korm. rendelet 3. §-a iktatta be.
+[^5]: A 2. § (5) bekezdését a 62/2009. (III. 28.) Korm. rendelet 3. §-a iktatta be, szövege az 550/2013. (XII. 30.) Korm. rendelet 33. § b) pontja szerint módosított szöveg.
 [^6]: A 2. § (6) bekezdését a 62/2009. (III. 28.) Korm. rendelet 3. §-a iktatta be.
