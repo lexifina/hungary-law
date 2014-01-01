@@ -1,1 +1,0 @@
-## „(3) A vezetésre jogosító okmányok helyszíni elvételére és visszavonására, az előzetes eredetiségvizsgálatra, a származás-ellenőrzési eljárásra és a jármű hivatalból indított forgalomból történő kivonására vonatkozó szabályok a Magyarországon működő diplomáciai és konzuli képviseletek tagjaira nem alkalmazhatóak.”

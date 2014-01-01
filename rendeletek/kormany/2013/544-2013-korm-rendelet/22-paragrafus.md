@@ -1,3 +1,3 @@
-## 21. §[^2]
+## 21. §[^6]
 
-[^2]: A 21. § a 44. § (2) bekezdése alapján 2014.március 15-én lép hatályba.
+[^6]: A 21. § a 44. § (2) bekezdés alapján 2014. március 15-én lép hatályba.

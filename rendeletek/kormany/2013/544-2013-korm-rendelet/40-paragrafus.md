@@ -1,1 +1,0 @@
-## „(3) A vezetési jogosultság szünetelése esetén a közlekedési igazgatási hatóság döntésével visszavont okmányt a döntés jogerőre emelkedését, a döntés a fellebbezés halasztó hatályának kizárásával végrehajthatóvá nyilvánítása esetén pedig a döntés közlését követő nyolc napon belül a közlekedési igazgatási hatóságnál le kell adni.”

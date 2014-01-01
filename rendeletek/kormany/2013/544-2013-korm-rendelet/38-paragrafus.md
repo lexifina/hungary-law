@@ -1,3 +1,0 @@
-## 37. § A KR. 108. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-## „(5) A forgalomból kivonást kezdeményező hatóság a 101. § (1) bekezdés j) pontban meghatározott esetben a kivonásra okot adó körülmény megszűnéséről elektronikus úton haladéktalanul értesíti a közlekedési igazgatási hatóságot. Az értesítés alapján a forgalomból kivont járművet, a forgalomba helyezés igazgatási szolgáltatási díjának megfizetése nélkül hivatalból forgalomba kell helyezni. Az értesítéssel egyenértékű, ha a közlekedés igazgatási hatóság az ellenőrző hatóság által vezetett nyilvántartásba történő bekérdezéssel értesül a bírság megfizetésének tényéről.”

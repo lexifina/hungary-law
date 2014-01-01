@@ -1,3 +1,3 @@
-## 34. §[^3]
+## 34. §[^8]
 
-[^3]: A 34. § a 44. § (2) bekezdése alapján 2014.március 15-én lép hatályba.
+[^8]: A 34. § a 44. § (2) bekezdés alapján 2014. március 15-én lép hatályba.
