@@ -1,0 +1,1 @@
+36/J. § Az állami adóhatóság a jogkövető magatartás elősegítése és a játékosok tájékoztatása érdekében honlapján az ezen alcím szerinti intézkedés végrehajtásának időtartama alatt közzéteszi a jogerős ideiglenes hozzáférhetetlenné tétel elrendelésével érintett honlap elnevezését.
