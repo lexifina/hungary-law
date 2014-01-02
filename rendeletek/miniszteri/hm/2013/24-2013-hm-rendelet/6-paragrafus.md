@@ -1,3 +1,5 @@
-## 5. § Hatályát veszti az R1. 2. § (4) bekezdésében az „a miniszteri előterjesztés előkészítése érdekében” szövegrész.
+## 3–5. §[^3]
 
 ## 4. A honvédek jogállásáról szóló 2012. évi CCV. törvény egyes rendelkezéseinek végrehajtásáról szóló 9/2013. (VIII. 12.) HM rendelet módosítása
+
+[^3]: A 3–5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,4 +1,4 @@
-## 24. §[^5]
+## 24. §[^15]
 
 ## 10. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) A 17. § a), b) és f) pontja, a 19. §, a 20. § és a 24. § 2014. március 15-én lép hatályba.
 
-[^5]: A 24. § a 25. § (2) bekezdése alapján 2014. március 15-én lép hatályba.
+[^15]: A 24. § a 25. § (2) bekezdése alapján 2014. március 15-én lép hatályba.

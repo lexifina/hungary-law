@@ -1,7 +1,0 @@
-## 14. § Az R2. 281. §-a a következő (4)–(6) bekezdéssel egészül ki:
-
-## „(4) Az állománytáblákban, munkaköri jegyzékekben rögzített idegennyelv-ismereti követelményt a honvédek jogállásáról szóló 2012. évi CCV. törvény egyes rendelkezéseinek végrehajtásáról szóló 9/2013. (VIII. 12.) HM rendeletnek és egyes honvédelmi miniszteri rendeleteknek az egyes törvényeknek az új Polgári Törvénykönyv hatálybalépésével összefüggő módosításáról szóló törvénnyel összefüggő módosításáról szóló 24/2013. (XII. 20.) HM rendelet (a továbbiakban: HM rendelet) hatálybalépését követő szolgálati beosztásba történő kinevezésre és áthelyezésre kell alkalmazni.
-
-## (5) Ha a szolgálati beosztásra az állománytáblákban, munkaköri jegyzékekben rögzített idegennyelv-ismereti követelmény eltér az adott beosztásra a HM rendelet hatálybalépését megelőző napon érvényes idegennyelv-ismereti követelménytől, vagy az állomány e beosztást betöltő tagja a (2) bekezdés szerint került továbbfoglalkoztatásra, akkor a HM rendelet hatálybalépésekor az állomány e szolgálati beosztást betöltő tagja a szolgálati beosztásban továbbfoglalkoztatható.
-
-## (6) A munkáltatói jogkör gyakorlója a 27. § (2) bekezdése szerinti esetben, a HM rendelet hatálybalépését követő szolgálati beosztásba történő kinevezéskor és áthelyezéskor, idegennyelv-ismereti követelményként – a 282. §-ban meghatározott állománytáblák és munkaköri jegyzékek hatálybalépéséig – a hatályos állománytáblákban, munkaköri jegyzékekben rögzített idegennyelv-ismereti követelményeket alkalmazza.”
