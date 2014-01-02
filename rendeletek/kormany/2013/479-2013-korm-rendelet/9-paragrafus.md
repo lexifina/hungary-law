@@ -1,3 +1,0 @@
-## 8. § A NAV Korm. r. 44. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-## „(3) Ha a vámszervek hatáskörébe tartozó ügyben az (1) bekezdés b) és c) pontja alapján az eljárásra illetékes vámszerv nem állapítható meg, az eljárásra a jogi személyiség nélküli vállalkozó, a vállalkozó magánszemély, jogi személy, illetve egyéb szervezet számviteli nyilvántartásának helye szerinti megyei (fővárosi) vám- és pénzügyőri igazgatóság, illetve az 1. és 2. számú Repülőtéri Igazgatóság az illetékes. Ha a számviteli nyilvántartás helye nem állapítható meg vagy az nem Magyarországon van, úgy – az eljárás lefolytatására illetékes vámszervet meghatározó jogszabályi rendelkezés hiányában – az Észak-budapesti Vám- és Pénzügyőri Igazgatóság az illetékes.”
