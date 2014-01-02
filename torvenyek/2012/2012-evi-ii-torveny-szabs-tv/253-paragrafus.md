@@ -1,4 +1,4 @@
-## 207. Módosító rendelkezések
+## 207.
 
 ## 207. Az Európai Unió Jogának való megfelelés
 
