@@ -1,3 +1,3 @@
-## 3. § Az R. 5. §-a a következő (5) bekezdéssel egészül ki:
+## 3. §[^2]
 
-## „(5) Ha a hatóság az előírt határidőben nem hoz döntést, az üzemeltetőt nem illeti meg a kérelmezett jog gyakorlása.”
+[^2]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
