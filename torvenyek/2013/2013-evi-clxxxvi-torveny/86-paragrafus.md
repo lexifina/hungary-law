@@ -1,1 +1,0 @@
-86. § Hatályát veszti a Bnytv. 44. § (1) bekezdésében a Büntető Törvénykönyvről szóló 2012. évi C. törvény hatályba lépéséhez kapcsolódó átmeneti rendelkezésekről és egyes törvények módosításáról szóló 2012. évi CCXXIII. törvény 207. §-ával megállapított „miatt büntetőeljárás alá vontak.” szövegrész.
