@@ -1,5 +1,0 @@
-## 20. §[^17]
-
-## 17. A Védelmi Programban résztvevők, valamint reájuk tekintettel más személyek támogatásáról és az egyes támogatási formákról, továbbá a büntetőeljárásban résztvevők, valamint az eljárást folytató hatóság tagjai személyi védelme elrendelésének feltételeiről és végrehajtásának szabályairól szóló 34/1999. (II. 26.) Korm. rendelet módosításáról szóló 28/2002. (II. 27.) Korm. rendelet módosítása
-
-[^17]: A 20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

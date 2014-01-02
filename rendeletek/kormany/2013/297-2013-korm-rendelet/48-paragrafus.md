@@ -1,5 +1,0 @@
-## 46–47. §[^37]
-
-## 37. A 2007–2013. programozási időszakban az Európai Szomszédsági és Partnerségi Támogatási Eszközből társfinanszírozott Magyarország–Szlovákia–Románia–Ukrajna ENPI Határon Átnyúló Együttműködési Program végrehajtásáról szóló 228/2008. (IX. 12.) Korm. rendelet módosítása
-
-[^37]: A 46–47. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
