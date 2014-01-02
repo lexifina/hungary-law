@@ -1,3 +1,0 @@
-## 8. § Az R1. 21/A. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) A Nemzeti Foglalkoztatási Alap foglalkoztatási alaprészéből támogatás nyújtható az Mt., a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény, a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény, valamint a honvédek jogállásáról szóló 2012. évi CCV. törvény hatálya alá tartozó munkaadó részére az előzőekben felsorolt törvényekben szabályozott, általa végrehajtandó csoportos létszámcsökkentésnek a munkavállalókat, köztisztviselőket, kormánytisztviselőket, közalkalmazottakat, továbbá hivatásos és szerződéses katonákat (ezen alcím alkalmazásában a továbbiakban együtt: munkavállalók) érintő hátrányos következményei enyhítéséhez.”
