@@ -1,5 +1,0 @@
-4. § Az Mmtv. 20. §-a helyébe a következő rendelkezés lép:
-
-„20. § (1) A jogosulatlanul felvett rehabilitációs pénzbeli ellátás és rokkantsági ellátás visszafizetésére, a megtérítési kötelezettségre, az ellátások késedelmes kifizetésére, a követelés érvényesítésére, a tartozás elengedésére, mérséklésére és a részletfizetés engedélyezésére – ha e törvény vagy jogszabály másként nem rendelkezik – az Ebtv. rendelkezéseit kell alkalmazni azzal, hogy az egészségbiztosítás pénzbeli ellátásai alatt a megváltozott munkaképességű személyek ellátásait, az egészségbiztosító alatt a rehabilitációs hatóságot kell érteni.
-
-(2) A jogalap nélkül felvett rehabilitációs pénzbeli ellátást és rokkantsági ellátást – a felróhatóságtól függetlenül – akkor is vissza kell fizetni, ha a felvételtől számított kilencven nap eltelt, és a jogalap nélküli felvételre azért került sor, mert az ellátott EGT-államból ugyanazon időszakra azonos típusú ellátásban részesült.”
