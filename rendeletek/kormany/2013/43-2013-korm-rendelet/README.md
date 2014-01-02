@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-43-20-2
 | 2013-02-20 | 2013-43-20-22.1 | 43/2013. (II. 19.) Korm. rendelet |
 | 2013-02-21 | 2013-43-20-22.2 | 2010: CXXX. törvény |
 | 2014-01-01 | 2013-43-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2014-01-02 | 2013-43-20-22.4 | 2010: CXXX. törvény |
