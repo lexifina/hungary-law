@@ -1,3 +1,0 @@
-55. § A Gytv. 15/C. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Ha a kockázatértékelés nem támasztja alá azt, hogy a vizsgált új pszichoaktív anyag hasonló kockázatot jelenthet, mint az 1. § 4. pontjában meghatározott kábítószerek vagy a pszichotróp anyagokról szóló, Bécsben az 1971. évi február hó 21. napján aláírt egyezmény kihirdetéséről szóló 1979. évi 25. törvényerejű rendelet I–II. jegyzékén, valamint az emberi felhasználásra kerülő gyógyszerekről szóló törvény mellékletének jegyzékein szereplő anyagok, akkor törölni kell az új pszichoaktív anyagok jegyzékéről és kormányrendeletben meghatározott más jegyzékre kell helyezni.”

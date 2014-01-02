@@ -1,7 +1,0 @@
-74. § (1) A Gyftv. 53/A. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A gyógyszertár működtetője minden olyan tervezett változást, amely érinti a működési engedély kiadásának feltételeit, illetve a működési engedélyben szereplő adatokat, köteles előzetesen írásban bejelenteni az egészségügyi államigazgatási szervnek. Az előre nem tervezhető eseményeket azok észlelését követő öt munkanapon belül kell bejelenteni. Amennyiben a változás érinti a működési engedély előírt kötelező tartalmát, a bejelentéssel egyidejűleg – ide nem értve a (4a) bekezdésben foglaltakat, továbbá a gyógyszertár működtetője felelősségi körén kívül eső, előre nem látható, elháríthatatlan külső okból eredő eseteket – kérni kell a működési engedély módosítását.”
-
-(2) A Gyftv. 53/A. § (4a) bekezdése helyébe a következő rendelkezés lép:
-
-„(4a) A település gyógyszerellátását egyedül biztosító gyógyszertár, továbbá a jogszabályon alapuló munkaszüneti napok miatti változtatással összefüggésben bármely gyógyszertár működtetője a gyógyszertár szolgálati rendjétől a nyitvatartási idő tekintetében naptári évente legfeljebb 10 napon térhet el. Az e bekezdés szerinti szolgálati rendtől történő eltérést előzetesen két munkanappal, illetve az előre nem tervezhető eltérés esetén az arra okot adó körülményről való tudomásszerzést követően haladéktalanul, de legkésőbb a szolgálati rend szerinti következő munkanapon be kell jelenteni az egészségügyi államigazgatási szervnek.”

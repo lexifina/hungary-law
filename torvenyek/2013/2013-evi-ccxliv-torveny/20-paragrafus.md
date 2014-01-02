@@ -1,5 +1,0 @@
-20. § Az Ebtv. 31. §-a a következő (9a) bekezdéssel egészül ki, és a § (10) bekezdése helyébe a következő rendelkezés lép:
-
-„(9a) A fekvőbeteg-szakellátást és a heti 200 szakorvosi óránál magasabb óraszámmal rendelkező járóbeteg-szakellátást nyújtó, érvényes finanszírozási szerződéssel rendelkező egészségügyi szolgáltató a kötelezettségei állományára vonatkozó, üzleti titoknak nem minősülő adatokat – a fizetési határidő lejártától eltelt idő szerint csoportosított bontásban – havonta, a tárgyhónapot követő hónap ötödik napjáig megküldi az egészségbiztosító számára, az egészségbiztosító által meghatározott formai követelmények szerint. Az egészségbiztosító köteles a beérkezett adatokat a beérkezést követő 5 napon belül továbbítani az egészségbiztosításért felelős miniszter részére.
-
-(10) Amennyiben az egészségügyi szolgáltató a (9) és a (9a) bekezdés szerinti kötelezettségét határidőn belül nem teljesíti, az egészségbiztosító új határidő kitűzésével felszólítja az egészségügyi szolgáltatót a (9) és a (9a) bekezdés szerinti kötelezettsége teljesítésére. A felszólítással egyidejűleg – annak tényéről – értesíteni kell az egészségügyi szolgáltató fenntartóját is.”
