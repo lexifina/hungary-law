@@ -1,3 +1,1 @@
-48. § A Katv. 13. §-a helyébe a következő rendelkezés lép:
-
-„13. § Az Art. szerinti adózó (ide nem értve az egyéni vállalkozónak nem minősülő magánszemélyt és a kisadózó vállalkozások tételes adójának alanyát) a tárgyévet követő év március 31-ig adatot szolgáltat az állami adóhatóság részére a kisadózó vállalkozás nevéről, címéről, adószámáról, és a kisadózó vállalkozás részére a naptári évben juttatott, a kisadózó vállalkozás bevételének minősülő összegről, ha az meghaladja az 1 millió forintot. Az adatszolgáltatás teljesítése során nem kell figyelembe venni a kisadózó vállalkozás olyan bevételét, melyről a kisadózó vállalkozás nem számlát állított ki.”
+48. §

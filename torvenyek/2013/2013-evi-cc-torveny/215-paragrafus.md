@@ -1,3 +1,1 @@
-215. § Az Eat. a következő 467/C. §-sal egészül ki:
-
-„467/C. § Az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2013. évi CC. törvénnyel megállapított 464/D. § és 466. § 9. pontja visszamenőlegesen 2013. augusztus 29-étől alkalmazható.”
+215. §

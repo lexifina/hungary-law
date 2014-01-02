@@ -1,5 +1,3 @@
 ## 19. A szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló 2011. évi CLV. törvény módosítása
 
-218. § A szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló 2011. évi CLV. törvény 4. § (1b) bekezdése helyébe a következő rendelkezés lép:
-
-„(1b) A szakképzési hozzájárulás alapját csökkenti az azon foglalkoztatott természetes személyeknek (munkavállalóknak) a szociális hozzájárulási adó alapjának megállapításánál figyelembe vett, a munkavállalót terhelő közterhekkel és más levonásokkal nem csökkentett (bruttó) munkabérének összege, de legfeljebb a kedvezménnyel érintett munkavállalónként havonta 500 ezer forint, amely munkavállalók munkaviszonyára tekintettel a tárgyhónapban a szociális hozzájárulási adó alanya az Eat. 462/F. §-ában meghatározott, kutatók foglalkoztatása után járó 27 százalékos szociális hozzájárulási adókedvezményt érvényesít. Részmunkaidős foglalkoztatott esetén legfeljebb 500 ezer forint arányosan csökkentett része vehető figyelembe. E bekezdés alkalmazásában részmunkaidős foglalkoztatásnak minősül az a foglalkoztatás, amelynek munkaszerződésben meghatározott időtartama nem éri el a betöltött munkakörre érvényes teljes munkaidőt.”
+218. §

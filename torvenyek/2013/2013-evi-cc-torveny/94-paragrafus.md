@@ -1,3 +1,0 @@
-94. § Az Áfa tv. 98. §-a a következő (5) bekezdéssel egészül ki:
-
-„(5) Amennyiben a termék értékesítése során az adó alóli mentesség kizárólag a (2) bekezdés a) pontjában meghatározott feltétel teljesítése hiányában nem alkalmazható, azonban a termék az értékesítés teljesítését követő 360 napon belül elhagyja a Közösség területét, és ezt a tényt a terméket a Közösség területéről kiléptető hatóság igazolja, az adóalany jogosult az ezen termékértékesítését terhelő fizetendő adóval megegyező összegben csökkenteni a fizetendő adóját. A fizetendő adó csökkentésének feltétele az ügylet teljesítését tanúsító számla megfelelő módosítása.”

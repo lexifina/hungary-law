@@ -1,1 +1,1 @@
-216. § Az Eat. 462/C. § (3) bekezdésében a „9 hónapon belül legalább 6 hónapig” szövegrész helyébe a „275 napon belül legalább 183 napig” szöveg, a „9 hónap, valamint a 6 hónap” szövegrész helyébe a „275 nap és a 183 nap” szöveg lép.
+216–217. §
