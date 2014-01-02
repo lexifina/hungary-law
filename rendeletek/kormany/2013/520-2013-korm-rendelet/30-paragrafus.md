@@ -1,3 +1,0 @@
-## „(7) Ha a kérelmező nem felel meg a jogszabályban előírt követelményeknek, a működési engedély iránti kérelmet – a 13. §-ban meghatározott eset kivételével – az egészségügyi államigazgatási szerv elutasítja. Az elutasító határozatot közölni kell az (5) bekezdésben foglalt szervekkel.
-
-## (8) Ha a kérelem olyan tevékenységre, szolgáltatásra irányul, amely az egészségügyi szakmai kollégium véleménye szerint nem azonosítható a jogszabályban meghatározott szakmák egyikével sem, illetve az Egészségügyi Tudományos Tanács állásfoglalása szerint a szakma által el nem fogadott és Magyarországon be nem vezetett eljárások végzésére irányul, a kérelmet az egészségügyi államigazgatási szerv elutasítja.”

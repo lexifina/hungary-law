@@ -1,1 +1,0 @@
-## „(11) A biztosítási jogviszony megszűnését követően megállapított ellátások esetében szerződés szerinti jövedelemként a megszűnt biztosítási jogviszony alapjául szolgáló szerződés szerinti jövedelmet kell figyelembe venni.”

@@ -1,1 +1,0 @@
-## 23. § A járóbeteg-ellátás keretében rendelt gyógyszerek, gyógyászati segédeszközök és gyógyfürdőellátások árához nyújtott támogatások elszámolásáról és folyósításáról szóló 134/1999. (VIII. 31.) Korm. rendelet (a továbbiakban: Gyr.) 6/C. § (1) bekezdés a) pontjában a „földrajzilag” szövegrész helyébe a „földrajzilag és építészetileg” szöveg lép.

@@ -1,3 +1,0 @@
-## 60. § Az egészségügyi felsőfokú szakirányú szakképzési rendszerről szóló 122/2009. (VI. 12.) Korm. rendelet (a továbbiakban: Fr.) 2. §-a a következő (1a) bekezdéssel egészül ki:
-
-## „(1a) Az (1) bekezdésben foglaltaktól eltérően a szakképzésbe az adott képzésre akkreditációval nem rendelkező egészségügyi szolgáltató által foglalkoztatott jelölt is bekapcsolódhat, ha az egészségügyi szolgáltató megállapodást köt a képzés teljes időtartamára a képzés lebonyolítására egy akkreditált egészségügyi szolgáltatóval és biztosítja, hogy a jelölt a képzését az akkreditált egészségügyi szolgáltatónál tölthesse.”
