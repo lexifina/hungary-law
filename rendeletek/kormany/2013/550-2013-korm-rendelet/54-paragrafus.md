@@ -1,3 +1,0 @@
-## 53. § A 160/2009. (VIII. 3.) Korm. r. 29. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-## „(4) Ha az Európai Bizottság, az Ellenőrzési Hatóság, az Igazoló Hatóság vagy más, ellenőrzést végző szervezet szabálytalanság gyanújáról értesíti az Irányító Hatóságot és a Nemzeti Hatóságot, a szervezet vezetője (vagy döntése alapján a hitelesítési tevékenység ellátására kijelölt szervezet vezetője) szabálytalansági vizsgálatot rendel el. A szabálytalansági vizsgálat a hitelesítési tevékenységre kijelölt szervezet útján is lefolytatható. Ha az Irányító Hatóság és a Nemzeti Hatóság az ellenőrzést végző szervezet megállapításait elfogadja, további vizsgálat lefolytatása nélkül megállapíthatja a szabálytalanságot és egyben dönthet a szükséges intézkedésekről.”

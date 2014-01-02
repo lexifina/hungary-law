@@ -1,3 +1,5 @@
-## lép.
+## 33. §[^14]
 
 ## 14. A 2007–2013. programozási időszakban az Európai Szomszédsági és Partnerségi Támogatási Eszközből társfinanszírozott Magyarország–Szlovákia–Románia–Ukrajna ENPI Határon Átnyúló Együttműködési Program végrehajtásáról szóló 228/2008. (IX. 12.) Korm. rendelet módosítása
+
+[^14]: A 33. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

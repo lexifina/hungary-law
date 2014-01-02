@@ -1,4 +1,4 @@
-## 101. § Hatályát veszti az Új Magyarország Fejlesztési Terv keretében megvalósuló beruházások forint árfolyamának változásából eredő költségnövekményének kompenzációjáról szóló 2/2010. (I. 8.) NFGM rendelet.
+## 101. §[^42]
 
 ## III. Fejezet
 
@@ -15,3 +15,5 @@
 (5) A 87–90. § egyrészről Izland, a Liechtensteini Hercegség, a Norvég Királyság, és másrészről a Magyar Köztársaság között az EGT Finanszírozási Mechanizmus 2009–2014-es időszakának végrehajtásáról szóló együttműködési megállapodás, valamint a Norvég Királyság és a Magyar Köztársaság között a Norvég Finanszírozási Mechanizmus 2009–2014-es időszakának végrehajtásáról szóló együttműködési megállapodás módosítását kihirdető kormányrendeletek hatálybalépését követő napon lép hatályba.
 
 (6) A 20–27. §, a 38–45. § és a 87–90. § hatálybalépésének naptári napját a külpolitikáért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.
+
+[^42]: A 101. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
