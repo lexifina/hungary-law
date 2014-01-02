@@ -4,4 +4,6 @@ A Kormány az Alaptörvény 47. cikk (3) bekezdésében meghatározott hatáskö
 
 2. Ez a határozat 2014. január 1-jén lép hatályba.
 
-3. Hatályát veszti az Európai Uniónak a szomáliai biztonsági erők kiképzésére irányuló missziójához („EUTM Somalia”) történő további magyar katonai hozzájárulásról szóló 1227/2011. (VII. 4.) Korm. határozat.
+3.[^2]
+
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
