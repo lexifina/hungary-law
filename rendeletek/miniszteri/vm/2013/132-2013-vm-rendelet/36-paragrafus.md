@@ -1,1 +1,0 @@
-## 35. § Az egyes állat-járványügyi intézkedésekről és az azokkal összefüggő állami kártalanításról szóló 74/2013. (VIII. 30.) VM rendelet 3. § (3) bekezdés d) pontjában az „illetékes környezetvédelmi, természetvédelmi és vízügyi hatósággal” szövegrész helyébe az „illetékes környezetvédelmi és természetvédelmi hatósággal” szöveg lép.

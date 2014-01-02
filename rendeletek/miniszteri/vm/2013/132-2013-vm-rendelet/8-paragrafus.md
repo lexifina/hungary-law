@@ -1,3 +1,0 @@
-## 7. § A barlangok nyilvántartásáról, a barlangok látogatásának és kutatásának egyes feltételeiről, valamint a barlangok kiépítéséről szóló 13/1998. (V. 6.) KTM rendelet 4. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-## „(5) A környezetvédelmi és természetvédelmi felügyelőség (a továbbiakban: felügyelőség), az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség (a továbbiakban: Főfelügyelőség) és az igazgatóság az alapadatok, valamint az alapadatokhoz kapcsolódó mellékletek vonatkozásában a Minisztérium részére adatszolgáltatásra köteles, ha újonnan feltáruló barlangról vagy meglévő barlang adataiban történő változásról szerez tudomást.”

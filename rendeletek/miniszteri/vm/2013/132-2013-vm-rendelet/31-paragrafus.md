@@ -1,1 +1,0 @@
-## 30. § Az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény végrehajtásáról szóló 153/2009. (XI. 13.) FVM rendelet 62/A. § (1) és (2) bekezdésében a „környezetvédelmi, természetvédelmi és vízügyi felügyelőség” szövegrészek helyébe a „környezetvédelmi és természetvédelmi felügyelőség” szöveg lép.

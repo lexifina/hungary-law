@@ -1,1 +1,0 @@
-## 22. § A hulladéklerakással, valamint a hulladéklerakóval kapcsolatos egyes szabályokról és feltételekről szóló 20/2006. (IV. 5.) KvVM rendelet 3. § (4) bekezdésében az „az illetékes környezetvédelmi, természetvédelmi és vízügyi felügyelőség” szövegrész helyébe az „a környezetvédelmi és természetvédelmi felügyelőség” szöveg lép.

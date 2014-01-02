@@ -1,1 +1,0 @@
-## 8. § A vízügyi igazgatási szervezet vízgazdálkodási nyilvántartásáról szóló 23/1998. (XI. 6.) KHVM rendelet [a továbbiakban: 23/1998. (XI. 6.) KHVM rendelet] 2. § (5) bekezdésében a „környezetvédelmi, természetvédelmi és vízügyi felügyelőségeknek” szövegrész helyébe a „vízügyi hatóságoknak” szöveg lép.

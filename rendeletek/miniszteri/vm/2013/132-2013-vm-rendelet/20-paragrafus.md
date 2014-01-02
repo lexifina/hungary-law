@@ -1,1 +1,0 @@
-## 19. § A Nyirádi Sár-álló Természetvédelmi Terület létesítéséről szóló 17/2005. (VII. 14.) KvVM rendelet mellékletének 3. pontjában az „az illetékes környezetvédelmi, természetvédelmi és vízügyi felügyelőség” szövegrész helyébe az „a környezetvédelmi és természetvédelmi felügyelőség” szöveg lép.
