@@ -6,6 +6,6 @@
 
 a)
 
-b) 64. §-ban az „önálló” szövegrész.
+b)
 
 (5)

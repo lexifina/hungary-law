@@ -12,6 +12,6 @@ szöveg lép.
 
 a)
 
-b) 4. § (2) és (2a) bekezdése,
+b)
 
 c)
