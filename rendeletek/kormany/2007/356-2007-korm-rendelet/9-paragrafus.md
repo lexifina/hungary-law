@@ -18,12 +18,15 @@ ea) az előhaszonbérleti jog fennállása ellenére a szerződés a Földforgal
 
 eb) a szerződésnek az előhaszonbérletre jogosultakkal való közlése során az előhaszonbérleti jog gyakorlására nyitva álló határidő biztosítása rövidebb volt a Földforgalmi tv.-ben meghatározott határidőnél, vagy
 
-ec) az elővásárlási és előhaszonbérleti jog gyakorlása érdekében az adás-vételi és a haszonbérleti szerződés hirdetményi úton történő közlésére vonatkozó eljárási szabályokról szóló jogszabályban meghatározott, a jegyző által elmulasztott eljárási cselekményt, vagy igazolást kellene pótolni, ide nem értve a jegyzőnek az elektronikus tájékoztató közzététele érdekében tett intézkedését.
+ec) az elővásárlási és előhaszonbérleti jog gyakorlása érdekében az adás-vételi és a haszonbérleti szerződés hirdetményi úton történő közlésére vonatkozó eljárási szabályokról szóló jogszabályban meghatározott, a jegyző által elmulasztott eljárási cselekményt, vagy igazolást kellene pótolni, ide nem értve a jegyzőnek az elektronikus tájékoztató közzététele érdekében tett intézkedését,
 
-(4)[^32] Abban az esetben, ha a (3) bekezdés d) pontja szerinti jogok bejegyzésére irányuló kérelem benyújtására az ingatlan-nyilvántartásban széljegy utal, a földhivatal az eljárást az ingatlan-nyilvántartási eljárás befejezéséig felfüggeszti.
+f)[^32] a földhasználati szerződés a Fétv. 108. § (1) bekezdése szerint megszűnő haszonélvezeti jog jogosultjával jön létre és a hatálya 2014. április 30-a után jár le.
+
+(4)[^33] Abban az esetben, ha a (3) bekezdés d) pontja szerinti jogok bejegyzésére irányuló kérelem benyújtására az ingatlan-nyilvántartásban széljegy utal, a földhivatal az eljárást az ingatlan-nyilvántartási eljárás befejezéséig felfüggeszti.
 
 [^28]: A 9. § a 23/2012. (II. 29.) Korm. rendelet 30. § (2) bekezdésével megállapított szöveg.
 [^29]: A 9. § (1) bekezdése a 473/2013. (XII. 12.) Korm. rendelet 14. § (1) bekezdés d) pontja szerint módosított szöveg.
 [^30]: A 9. § (2) bekezdése a 473/2013. (XII. 12.) Korm. rendelet 14. § (1) bekezdés e) pontja szerint módosított szöveg.
 [^31]: A 9. § (3) bekezdése a 473/2013. (XII. 12.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^32]: A 9. § (4) bekezdését a 473/2013. (XII. 12.) Korm. rendelet 7. § (2) bekezdése iktatta be.
+[^32]: A 9. § (3) bekezdés f) pontját az 504/2013. (XII. 29.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^33]: A 9. § (4) bekezdését a 473/2013. (XII. 12.) Korm. rendelet 7. § (2) bekezdése iktatta be.

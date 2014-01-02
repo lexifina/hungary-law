@@ -1,4 +1,4 @@
-17/A. §[^56] (1) A Fétv.-ben meghatározott földhasználati összesítőt – papír alapon vagy elektronikusan – a földhivatal a Földmérési és Távérzékelési Intézet által üzemeltetett országos földhivatali rendszerből való lekérdezés útján szolgáltatja.
+17/A. §[^57] (1) A Fétv.-ben meghatározott földhasználati összesítőt – papír alapon vagy elektronikusan – a földhivatal a Földmérési és Távérzékelési Intézet által üzemeltetett országos földhivatali rendszerből való lekérdezés útján szolgáltatja.
 
 (2) Földhasználati összesítő a Fétv. 99. § (2) bekezdésében meghatározott azonosító adatok alapján kérdezhető le.
 
@@ -24,4 +24,4 @@ e) a papír alapon kiállított földhasználati összesítő esetében az azt k
 
 (8) Ha a földhasználati összesítő lekérdezése a lekérdező által megadott azonosító adat alapján eredménytelen volt, erről a lekérdezéshez felhasznált adatokat és a lekérdezés eredményét tartalmazó, „A megadott azonosító adat alapján földhasználati összesítő nem készíthető.” szövegű záradékkal ellátott igazolást kell kiadni. Ennek az igazolásnak tartalmaznia kell az azt kiállító földhivatal megnevezését is.
 
-[^56]: A 17/A. §-t a 473/2013. (XII. 12.) Korm. rendelet 11. §-a iktatta be.
+[^57]: A 17/A. §-t a 473/2013. (XII. 12.) Korm. rendelet 11. §-a iktatta be.
