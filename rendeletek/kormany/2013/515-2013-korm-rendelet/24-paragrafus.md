@@ -1,1 +1,0 @@
-## 23. § A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény végrehajtásáról szóló 114/2007. (V. 24.) Korm. rendelet 111. § (1) bekezdésében és 116. §-ában az „és a lakcímet” szövegrész helyébe az „és lakcímet” szöveg lép.
