@@ -30,7 +30,7 @@
 
 | 14 | területrendezési eljárások | Hajdú-Bihar Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatalának állami főépítésze | nincs |
 
-2. melléklet az 506/2013. (XII. 29.) Korm. rendelethez[^3]
+2. melléklet az 506/2013. (XII. 29.) Korm. rendelethez[^4]
 
 A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárásokban közreműködő hatáskörrel rendelkező szakhatóságok
 
@@ -56,4 +56,4 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 | 10 | rendészet | Hajdú-Bihar Megyei Rendőr-főkapitányság | Országos Rendőr-főkapitányság |
 
-[^3]: A 2. melléklet a 7. § (2) bekezdése szerint módosított szöveg.
+[^4]: A 2. melléklet a 7. § (2) bekezdése szerint módosított szöveg.
