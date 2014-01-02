@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-127-00-00
 | 2013-10-26 | 2010. évi CXXX. törvény | 2013-127-00-00.8 |
 | 2013-12-31 | Nemzeti Jogszabálytár (egységes szerkezet) | 2013-127-00-00.9 |
 | 2014-01-01 | 2010. évi CXXX. törvény | 2013-127-00-00.10 |
+| 2014-01-02 | 2010. évi CXXX. törvény | 2013-127-00-00.11 |
