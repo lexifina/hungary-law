@@ -1,4 +1,4 @@
-## 5. §[^1]
+## 5. §[^5]
 
 ## 6. Hatálybalépés
 
@@ -6,4 +6,4 @@
 
 (2) Az 5. § 2014. január 31. napján lép hatályba.
 
-[^1]: Az 5. § a 6. § (2) bekezdése alapján 2014. január 31. napján lép hatályba.
+[^5]: Az 5. § a 6. § (2) bekezdése alapján 2014. január 31. napján lép hatályba.
