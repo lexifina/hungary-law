@@ -8,7 +8,7 @@
 
 ## 5. Ez a határozat 2014. január 1-jén lép hatályba.
 
-## 6. Hatályát veszti a 2013. évi határátlépéssel járó csapatmozgások engedélyezéséről szóló 1640/2012. (XII. 19.) Korm. határozat.
+## 6.[^1]
 
 1. melléklet az 1918/2013. (XII. 11.) Korm. határozathoz
 
@@ -295,3 +295,5 @@ A 2014. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 | 8. | ENSZ UNFIL békefenntartó misszió keretében történő áthaladások | 2014. I–IV. n. é. | egyidejűleg legfeljebb 1000 fő |
 
 | 9. | A Pápán települő NATO Stratégiai Légiszállítási tevékenységgel kapcsolatos csapatmozgások | 2014. I–IV. n. é. | egyidejűleg legfeljebb 1000 fő |
+
+[^1]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
