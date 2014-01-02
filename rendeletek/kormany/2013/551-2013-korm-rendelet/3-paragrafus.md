@@ -8,4 +8,6 @@
 
 (3) Az Egyezmény – az Egyezmény I. melléklete módosításában foglalt módosításokkal – egységes szerkezetbe foglalt hiteles szövege és annak hivatalos magyar nyelvű fordítása közzétételéről a sportpolitikáért felelős miniszter gondoskodik.
 
-(4) Hatályát veszti az UNESCO által 2005. október 19-én elfogadott, a sportbeli dopping elleni nemzetközi egyezmény melléklete módosításának kihirdetéséről szóló 82/2013. (III. 21.) Korm. rendelet.
+(4)[^2]
+
+[^2]: A 3. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
