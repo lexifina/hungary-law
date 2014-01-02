@@ -1,1 +1,0 @@
-## „(6) A vámhatóság (1) bekezdés szerinti megkeresésére a földművelésügyi hatóság, az erdészeti hatóság, és a vízügyi hatóság a megkeresés beérkezését követő 10 napon belül hatósági bizonyítvány elektronikus úton történő megküldésével adatot szolgáltat a vámhatóság részére.”
