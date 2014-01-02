@@ -12,9 +12,9 @@
 
 4.
 
-5. egyes pénzügyi tárgyú törvények módosításáról szóló 2006. évi LXI. törvény,
+5.
 
-6. egyes pénzügyi tárgyú törvények módosításáról szóló 2006. évi CXXXI. törvény,
+6.
 
 7.
 
