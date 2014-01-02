@@ -1,3 +1,3 @@
-## 3–5. §[^2]
+## 2–5. §[^3]
 
-[^2]: A 3–5. § a 473/2013. (XII. 12.) Korm. rendelet 16. §-a alapján nem lép hatályba.
+[^3]: A 2–5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
