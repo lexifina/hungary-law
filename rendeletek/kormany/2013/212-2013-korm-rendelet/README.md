@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-212-20-
 | --- | --- | --- |
 | 2013-07-01 | 2013-212-20-22.1 | 212/2013. (VI. 19.) Korm. rendelet |
 | 2013-07-02 | 2013-212-20-22.2 | 2010: CXXX. törvény |
+| 2014-01-02 | 2013-212-20-22.3 | 537/2013. (XII. 30.) Korm. rendelet |

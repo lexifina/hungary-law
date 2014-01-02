@@ -10,7 +10,7 @@ d) Patika Hitelprogram: az MFB Magyar Fejlesztési Bank Zártkörűen Működő 
 
 e) kedvezményes hitel vagy kölcsön: a Patika Hitelprogram keretében felvehető, kedvezményes kamatozású hitel vagy kölcsön;
 
-f) pénzügyi intézmény: a Vállalkozásfinanszírozási Programban részt vevő, az MFB Zrt. honlapján közzétett, a hitelprogramhoz csatlakozott, a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény 4. § (1) bekezdése szerinti pénzügyi intézmény;
+f)[^1] pénzügyi intézmény: a Vállalkozásfinanszírozási Programban részt vevő, az MFB Zrt. honlapján közzétett, a hitelprogramhoz csatlakozott, a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerinti pénzügyi intézmény;
 
 g) köztartozás: az adózás rendjéről szóló 2003. évi XCII. törvény 178. § 20. pontjában foglaltak szerinti tartozás;
 
@@ -25,3 +25,5 @@ k) kamattámogatás: a támogatást nyújtó szerv által a gyógyszerészek ré
 l) támogatástartalom: a kedvezményezett számára nyújtott állami támogatás forint fizetőeszközben számolt támogatási egyenértéke;
 
 m) támogatástartalomról szóló igazolás: a kamattámogatás támogatástartalmáról szóló, a támogatás nyújtó szerv által kiállított igazolás, amely a támogatás „de minimis” jellegét is megjelöli.
+
+[^1]: Az 1. § f) pontja az 537/2013. (XII. 30.) Korm. rendelet 80. §-a szerint módosított szöveg.
