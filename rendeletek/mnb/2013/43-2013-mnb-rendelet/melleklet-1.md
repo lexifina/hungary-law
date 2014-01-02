@@ -1,3 +1,5 @@
-## 16. § Hatályát veszti a pénzügyi közvetítőrendszer felügyelete alá tartozó személyeknek és szervezeteknek a Magyar Nemzeti Bank részére teljesítendő egyes kötelezettségeiről, valamint a jegybanki információs rendszerhez szolgáltatandó információk és az információt szolgáltatók köréről, a szolgáltatás módjáról és határidejéről szóló 20/2012. (X. 15.) MNB rendelet módosításáról szóló 19/2013. (IX. 27.) MNB rendelet.
+## 16. §[^1]
 
 1. melléklet a 43/2013. (XII. 29.) MNB rendelethez
+
+[^1]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
