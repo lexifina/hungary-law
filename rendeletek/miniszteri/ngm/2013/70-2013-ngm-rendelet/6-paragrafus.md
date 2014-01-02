@@ -1,3 +1,0 @@
-## „(12) A nyilvántartásba vételt végző szervezet a (10) bekezdés szerinti pályázati eljárással kapcsolatos döntés-előkészítési feladatok ellátása érdekében szakértői bizottságot hoz létre.
-
-## (13) A (12) bekezdés szerinti bizottság 7 tagból áll, amelyből 5 főt, köztük a bizottság elnökét, a nyilvántartásba vételt végző szervezet saját hatáskörben, 2 főt a Nemzeti Adó- és Vámhivatal elnöke ajánlása alapján megbízólevéllel bíz meg. A bizottság ügyrendjét, amely tartalmazza a (7) bekezdésben meghatározott pályázati minősítési szempontoknak megfelelő bírálati rendszer leírását, maga állapítja meg, azt a nyilvántartásba vételt végző szervezet hagyja jóvá, és teszi közzé az egységes Kormányzati Portálon.”

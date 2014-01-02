@@ -1,7 +1,3 @@
-## 1. A Rendelet 3. mellékletében foglalt 13. táblázat 13.17. sor 3. oszlopában az „a PSZÁF-nak” szövegrész helyébe az „az MNB-nek” szöveg lép.
-
-## 2. Hatályát veszti a Rendelet 3. mellékletében foglalt 4. táblázat 4. 01. sor 3. oszlopában a „PSZÁF,” szövegrész.
-
 2. melléklet a 70/2013. (XII. 30.) NGM rendelethez
 
 A Rendelet 3. mellékletében foglalt
