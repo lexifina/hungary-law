@@ -1,5 +1,9 @@
-50. § (1)[^7]
+## 49. §[^7]
 
-(2) Az R1. 9. § (1) bekezdésében az „egyes építésügyi” szövegrész helyébe az „építésügyi és építésüggyel összefüggő” szöveg lép.
+50. § (1)[^8]
 
-[^7]: Az 50. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+(2)[^9]
+
+[^7]: A 49. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: Az 50. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: Az 50. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
