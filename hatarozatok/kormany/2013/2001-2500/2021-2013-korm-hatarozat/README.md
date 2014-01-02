@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-2021-30
 | --- | --- | --- |
 | 2013-12-31 | 2013-2021-30-22.1 | 2021/2013. (XII. 29.) Korm. határozat |
 | 2014-01-01 | 2013-2021-30-22.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2014-01-02 | 2013-2021-30-22.3 | 1046/2015. (II. 11.) Korm. határozat |
