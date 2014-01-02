@@ -31,3 +31,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-195-00-00
 | 2013-12-06 | 2013. évi CCIII. törvény | 2011-195-00-00.24 |
 | 2013-12-21 | 2013. évi CCXXII. törvény | 2011-195-00-00.25 |
 | 2014-01-01 | 2013. évi CCIII. törvény | 2011-195-00-00.26 |
+| 2014-01-02 | 2013. évi CCIII. törvény | 2011-195-00-00.27 |
