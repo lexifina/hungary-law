@@ -1,3 +1,3 @@
-## 17. §[^1]
+## 17. §[^2]
 
-[^1]: A 17. § a 15. § (3) bekezdése alapján 2014. március 15-én lép hatályba.
+[^2]: A 17. § a 15. § (3) bekezdése alapján 2014. március 15-én lép hatályba.
