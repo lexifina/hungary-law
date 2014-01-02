@@ -186,4 +186,4 @@ a) 3:329. § (3) bekezdése,
 
 b) 3:404. § (4) bekezdése.
 
-(32) Hatályát veszti a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgyú jogszabályok módosításáról szóló 2013. évi CXXXV. törvény 39. §-a, valamint 42–44. §-a.
+(32)
