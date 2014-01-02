@@ -1,1 +1,0 @@
-## „12/A. § Az 1. melléklet 4.2. pontjában, illetve a 3. melléklet 1.2. pontjában meghatározott sajátos építmény esetében az építési tevékenység az építésügyi engedély birtokában is csak akkor kezdhető meg, ha a telephely vizsgálati és értékelési programot a feladat- és hatáskörrel rendelkező hatóság jóváhagyta.”

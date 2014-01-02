@@ -1,1 +1,3 @@
-## 75. § Hatályát veszti a villamos energia és a földgáz egyetemes szolgáltató által alkalmazható számlaképről szóló 4/2013. (II. 4.) NFM rendelet.
+## 75. §[^20]
+
+[^20]: A 75. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

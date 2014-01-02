@@ -1,1 +1,0 @@
-## 30. § Az R2. 3. számú melléklet B:10 mezőjében a „Szénbányászat” szövegrész helyébe a „Szénbányászat, illetve föld alatti szénelgázosítással megvalósított szénbányászati kitermelési kísérlet” szöveg lép.
