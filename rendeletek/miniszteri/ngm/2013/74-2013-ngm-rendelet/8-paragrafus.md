@@ -1,3 +1,0 @@
-## 7. § A nyugtaadási kötelezettség pénztárgéppel való teljesítésére kötelezett adóalanyoknak a pénztárgép jogszabályban meghatározott, online kapcsolatra képes, adóügyi ellenőrzési egységgel rendelkező pénztárgépre való 2013. évi cseréjéhez nyújtott támogatásról, valamint ezzel és az online kapcsolatra képes, adóügyi ellenőrzési egységgel rendelkező pénztárgép bevezetésével összefüggésben egyes miniszteri rendeletek módosításáról szóló 16/2013. (VI. 3.) NGM rendelet (a továbbiakban: Rendelet) 11. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) Az üzemeltetőnek a támogatás igénylésére jogosító egyedi kódot a pénztárgép beszerzésekor kell átadnia az eladónak.”
