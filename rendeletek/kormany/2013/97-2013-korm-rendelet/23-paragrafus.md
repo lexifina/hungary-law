@@ -1,1 +1,0 @@
-## „(3) A korábbi, elidegenítési tilalommal terhelt ingatlan vételárának felhasználásával megszerzett új ingatlan esetén a gyámhivatal – az előzőleg előírt időtartam lejártáig – bejegyezteti az elidegenítési tilalmat az új ingatlanra.”
