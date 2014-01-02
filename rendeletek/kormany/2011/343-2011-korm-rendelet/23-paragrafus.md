@@ -4,7 +4,7 @@
 
 23. § (1) A termékdíjat azon termékek után lehet visszaigényelni, amelyekre vonatkozóan a termékdíj megfizetése ténylegesen és igazolható módon megtörtént.
 
-(2)[^41] Az állami adóhatóság jár el a hulladékká vált egyéb kőolajtermék anyagában történő hasznosítása után történő termékdíj visszaigénylése során. Az anyagában történő hasznosítás esetében a hasznosítás tényére, körülményeire vonatkozó szakkérdések eldöntése érdekében állami adóhatóság megkeresi a környezetvédelmi hatóságot.
+(2)[^41] Az állami adó- és vámhatóság jár el a hulladékká vált egyéb kőolajtermék anyagában történő hasznosítása után történő termékdíj visszaigénylése során. Az anyagában történő hasznosítás esetében a hasznosítás tényére, körülményeire vonatkozó szakkérdések eldöntése érdekében az állami adó- és vámhatóság megkeresi a Főfelügyelőséget. A Főfelügyelőség az állami adó- és vámhatóság részére a felkérés keretében a szakkérdésre vonatkozó véleményét 15 napon belül köteles megadni.
 
 (3) A termékdíj visszaigénylésére – a használt vagy hulladékká vált kenőolaj hasznosításával kapcsolatos visszaigénylés kivételével – a visszaigénylésre való jogosultság keletkezésének időpontja szerinti tárgyidőszakra vonatkozó bevallásban kerülhet sor.
 
@@ -84,7 +84,7 @@ c) a nem csomagolási célú felhasználás megnevezését.
 
 (10) Használt vagy hulladékká vált termékdíjköteles termék után – az újrahasználható csomagolószer-nyilvántartásban található csomagolószer és az egyéb kőolajtermék hulladékának kivételével – nem lehet a termékdíjat külföldre történő értékesítés esetén visszaigényelni.
 
-[^41]: A 23. § (2) bekezdése a 366/2012. (XII. 17.) Korm. rendelet 42. § (1) bekezdése, az 527/2013. (XII. 30.) Korm. rendelet 109. § b) pontja szerint módosított szöveg.
+[^41]: A 23. § (2) bekezdése az 529/2013. (XII. 30.) Korm. rendelet 8. §-ával megállapított szöveg.
 [^42]: A 23. § (5) bekezdés a) pontja a 366/2012. (XII. 17.) Korm. rendelet 42. § (3) bekezdése szerint módosított szöveg.
 [^43]: A 23. § (5) bekezdés e) pontja a 366/2012. (XII. 17.) Korm. rendelet 42. § (4) bekezdése szerint módosított szöveg.
 [^44]: A 23. § (6) bekezdés a) pontja a 366/2012. (XII. 17.) Korm. rendelet 42. § (3) bekezdése szerint módosított szöveg.
