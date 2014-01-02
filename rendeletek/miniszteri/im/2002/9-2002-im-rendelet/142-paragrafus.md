@@ -1,11 +1,11 @@
-142. § (1)[^276] Ha az előzetes letartóztatás tartama a vádirat benyújtása után az elrendeléstől vagy a fenntartástól számítva egy évet meghalad, a bíróság a határidő lejárta előtt egy hónappal az ügy iratait az előzetes letartóztatás indokoltságának felülvizsgálata végett a másodfokú bíróságnak küldi meg. [Be. 132. § (1) bek. b) pont]
+142. § (1)[^277] Ha az előzetes letartóztatás tartama a vádirat benyújtása után az elrendeléstől vagy a fenntartástól számítva egy évet meghalad, a bíróság a határidő lejárta előtt egy hónappal az ügy iratait az előzetes letartóztatás indokoltságának felülvizsgálata végett a másodfokú bíróságnak küldi meg. [Be. 132. § (1) bek. b) pont]
 
 (2) Ha az iratok megküldése a büntetőeljárás befejezését jelentősen késleltetné, csak az előzetes letartóztatás felülvizsgálathoz szükséges iratokat vagy ezek másolatát kell megküldeni.
 
-(3)[^277] A másodfokú bíróság az előzetes letartóztatás felülvizsgálata alapján hozott határozatról értesítőlapot állít ki, amelyet a bv. intézetnek küld meg.
+(3)[^278] A másodfokú bíróság az előzetes letartóztatás felülvizsgálata alapján hozott határozatról értesítőlapot állít ki, amelyet a bv. intézetnek küld meg.
 
-(4)[^278] Ha az előzetes letartóztatás felülvizsgálata a harmadfokú bíróság feladata [Be. 132. § (2) bekezdés], a bíróság a (3) bekezdés szerint jár el.
+(4)[^279] Ha az előzetes letartóztatás felülvizsgálata a harmadfokú bíróság feladata [Be. 132. § (2) bekezdés], a bíróság a (3) bekezdés szerint jár el.
 
-[^276]: A 142. § (1) bekezdése a 23/2003. (VI. 26.) IM rendelet 54. §-ának (1) bekezdésével megállapított szöveg.
-[^277]: A 142. § (3) bekezdése a 23/2003. (VI. 26.) IM rendelet 54. §-ának (2) bekezdésével megállapított szöveg.
-[^278]: A 142. § (4) bekezdését a 11/2006. (VII. 25.) IRM rendelet 24. §-a iktatta be.
+[^277]: A 142. § (1) bekezdése a 23/2003. (VI. 26.) IM rendelet 54. §-ának (1) bekezdésével megállapított szöveg.
+[^278]: A 142. § (3) bekezdése a 23/2003. (VI. 26.) IM rendelet 54. §-ának (2) bekezdésével megállapított szöveg.
+[^279]: A 142. § (4) bekezdését a 11/2006. (VII. 25.) IRM rendelet 24. §-a iktatta be.

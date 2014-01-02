@@ -62,6 +62,6 @@
 
 |  | ........................................................... bv. nyilvántartó vezetője |
 
-24. melléklet a 9/2002 (IV. 9.) IM rendelethez[^349]
+24. melléklet a 9/2002 (IV. 9.) IM rendelethez[^352]
 
-[^349]: A 24. mellékletet a 9/2013. (VI. 29.) KIM rendelet 59. § (2) bekezdése iktatta be.
+[^352]: A 24. mellékletet a 9/2013. (VI. 29.) KIM rendelet 59. § (2) bekezdése iktatta be.

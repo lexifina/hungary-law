@@ -14,8 +14,8 @@
 
 | 331. | Jegyzék a szabadságvesztés végrehajtására behívott elítéltekről. |
 
-35. melléklet a 9/2002 (IV. 9.) IM rendelethez[^361]
+35. melléklet a 9/2002 (IV. 9.) IM rendelethez[^364]
 
 A pártfogó felügyelet alá helyezettek ügykönyve
 
-[^361]: A 35. mellékletet a 9/2013. (VI. 29.) KIM rendelet 59. § (2) bekezdése iktatta be.
+[^364]: A 35. mellékletet a 9/2013. (VI. 29.) KIM rendelet 59. § (2) bekezdése iktatta be.

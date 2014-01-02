@@ -38,6 +38,6 @@
 
 ## büntetés-végrehajtási irodája
 
-34. melléklet a 9/2002 (IV. 9.) IM rendelethez[^360]
+34. melléklet a 9/2002 (IV. 9.) IM rendelethez[^363]
 
-[^360]: A 34. mellékletet a 9/2013. (VI. 29.) KIM rendelet 59. § (2) bekezdése iktatta be.
+[^363]: A 34. mellékletet a 9/2013. (VI. 29.) KIM rendelet 59. § (2) bekezdése iktatta be.

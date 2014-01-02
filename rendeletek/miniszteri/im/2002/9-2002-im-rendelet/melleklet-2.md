@@ -112,6 +112,6 @@
 
 | 203. | Értesítés előzetes letartóztatás elrendeléséről, fenntartásáról, megszüntetéséről. |
 
-2. melléklet a 9/2002 (IV. 9.) IM rendelethez[^327]
+2. melléklet a 9/2002 (IV. 9.) IM rendelethez[^330]
 
-[^327]: A 2. mellékletet a 9/2013. (VI. 29.) KIM rendelet 59. § (2) bekezdése iktatta be.
+[^330]: A 2. mellékletet a 9/2013. (VI. 29.) KIM rendelet 59. § (2) bekezdése iktatta be.

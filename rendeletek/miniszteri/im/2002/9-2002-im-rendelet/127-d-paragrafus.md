@@ -20,6 +20,8 @@ b) amennyiben az elrendelés feltételi egyéb okból nem állnak fenn, az elekt
 
 ## erről értesítőlapot állít ki, és azt a határozatával együtt elektronikus úton haladéktalanul megküldi az NMHH-nak.
 
+(3a)[^248] Ha a fellebbezés elbírálásakor a másodfokú bíróság az első fokú határozatot hatályon kívül helyezi, erről értesítőlapot állít ki, és azt a határozatával együtt elektronikus úton haladéktalanul megküldi az NMHH-nak. A bíróság az értesítőlap megjegyzés rovatában feltünteti, hogy az első fokú határozat hatályon kívül helyezése folytán az elektronikus adathoz való hozzáférés végleges megakadályozását a KEHTA-ból törölni kell.
+
 (4) A bíróság az elektronikus adathoz való hozzáférés végleges megakadályozását elrendelő jogerős határozatát megküldi a törvényszéki végrehajtói irodának és a bv. csoportnak.
 
 (5) Az ügyben első fokon eljárt bíróság, ha a kijavítás érinti a 127/A. § (1) bekezdésében meghatározott adatokat, a kijavítást elrendelő határozat jogerőre emelkedését, követően új értesítőlapot állít ki és azt a határozatával együtt elektronikus úton haladéktalanul megküldi az NMHH-nak. Az értesítőlap megjegyzés rovatában fel kell tüntetni a kijavítás tényét, a kijavítás elrendeléséről határozatot hozó bíróság megnevezését, határozatának számát és keltét.
@@ -31,3 +33,4 @@ b) amennyiben az elrendelés feltételi egyéb okból nem állnak fenn, az elekt
 (8) A bíróság az elektronikus adathoz való hozzáférés végleges megakadályozásával kapcsolatos értesítőlapot számítógépes program segítségével állítja ki. Az értesítőlapot és a határozat elektronikus kiadmányát a bíróság fokozott biztonságú elektronikus aláírással látja el és a hivatali kapun keresztül küldi meg az NMHH-nak. A bíróság a hibásan kiállított értesítőlapot kijavítása esetén is az előbbiek szerint jár el.
 
 [^247]: A 127/D. § a 9/2013. (VI. 29.) KIM rendelet 50. §-ával megállapított szöveg.
+[^248]: A 127/D. § (3a) bekezdését a 35/2013. (XII. 23.) KIM rendelet 4. § (1) bekezdése iktatta be.

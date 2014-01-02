@@ -36,6 +36,6 @@
 
 | 342. | Értesítés pártfogó felügyelet elrendeléséről. |
 
-27. melléklet a 9/2002 (IV. 9.) IM rendelethez[^353]
+27. melléklet a 9/2002 (IV. 9.) IM rendelethez[^356]
 
-[^353]: A 27. mellékletet a 9/2013. (VI. 29.) KIM rendelet 59. § (2) bekezdése iktatta be.
+[^356]: A 27. mellékletet a 9/2013. (VI. 29.) KIM rendelet 59. § (2) bekezdése iktatta be.

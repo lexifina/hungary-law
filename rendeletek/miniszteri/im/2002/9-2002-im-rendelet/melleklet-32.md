@@ -30,6 +30,6 @@
 
 ## A beadványokban erre a számra kell hivatkozni.
 
-32. melléklet a 9/2002 (IV. 9.) IM rendelethez[^358]
+32. melléklet a 9/2002 (IV. 9.) IM rendelethez[^361]
 
-[^358]: A 32. mellékletet a 9/2013. (VI. 29.) KIM rendelet 59. § (2) bekezdése iktatta be.
+[^361]: A 32. mellékletet a 9/2013. (VI. 29.) KIM rendelet 59. § (2) bekezdése iktatta be.

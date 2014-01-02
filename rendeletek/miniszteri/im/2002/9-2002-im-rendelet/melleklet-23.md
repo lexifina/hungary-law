@@ -50,6 +50,6 @@
 
 | 319/b | Értesítés sportrendezvények látogatásától való eltiltásról. |
 
-23. melléklet a 9/2002 (IV. 9.) IM rendelethez[^348]
+23. melléklet a 9/2002 (IV. 9.) IM rendelethez[^351]
 
-[^348]: A 23. mellékletet a 9/2013. (VI. 29.) KIM rendelet 59. § (2) bekezdése iktatta be.
+[^351]: A 23. mellékletet a 9/2013. (VI. 29.) KIM rendelet 59. § (2) bekezdése iktatta be.

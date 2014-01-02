@@ -36,6 +36,6 @@
 
 | 905/a. | Értesítés előzetes letartóztatás megszüntetéséről a vádirat benyújtása előtt. |
 
-11. melléklet a 9/2002 (IV. 9.) IM rendelethez[^336]
+11. melléklet a 9/2002 (IV. 9.) IM rendelethez[^339]
 
-[^336]: A 11. mellékletet a 9/2013. (VI. 29.) KIM rendelet 59. § (2) bekezdése iktatta be.
+[^339]: A 11. mellékletet a 9/2013. (VI. 29.) KIM rendelet 59. § (2) bekezdése iktatta be.

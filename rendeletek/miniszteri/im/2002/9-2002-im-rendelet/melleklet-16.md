@@ -62,6 +62,6 @@
 
 | 334. | Értesítés összbüntetés jogerős megállapításáról. |
 
-16. melléklet a 9/2002 (IV. 9.) IM rendelethez[^341]
+16. melléklet a 9/2002 (IV. 9.) IM rendelethez[^344]
 
-[^341]: A 16. mellékletet a 9/2013. (VI. 29.) KIM rendelet 59. § (2) bekezdése iktatta be.
+[^344]: A 16. mellékletet a 9/2013. (VI. 29.) KIM rendelet 59. § (2) bekezdése iktatta be.
