@@ -1,3 +1,0 @@
-## 126. § A régészeti örökség és a műemléki érték védelmével kapcsolatos szabályokról szóló 393/2012. (XII. 20.) Korm. rendelet 24. § (2) bekezdés záró szövegrészében a „környezetvédelmi, természetvédelmi és vízügyi felügyelőséget” szövegrész helyébe a „környezetvédelmi és természetvédelmi felügyelőséget”, valamint az „Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőséget” szövegrész helyébe az „Országos Környezetvédelmi és Természetvédelmi Főfelügyelőséget” szöveg lép.
-
-## 127. Az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában való részvételről szóló 2012. évi CCXVII. törvény végrehajtásának egyes szabályairól szóló 410/2012. (XII. 28.) Korm. rendelet módosítása
