@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-64-20-0
 | --- | --- | --- |
 | 2013-12-05 | 2013-64-20-0A.1 | 64/2013. (XII. 4.) BM rendelet |
 | 2014-01-01 | 2013-64-20-0A.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2014-01-02 | 2013-64-20-0A.3 | 2010: CXXX. törvény |

@@ -1,1 +1,0 @@
-## „(7) Az oktatásszervező a tűzvédelmi szakvizsgára való felkészítés vagy a tűzvédelmi szakvizsga elmaradását köteles a képzés vagy a vizsga bejelentett időpontját megelőzően legalább négy órával előbb bejelenteni a székhelye szerint illetékes tűzvédelmi hatóság által megadott elektronikus levélcímre.”
