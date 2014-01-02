@@ -26,4 +26,6 @@ Határidő: folyamatos
 
 4. Ez a határozat 2014. január 1-jén lép hatályba.
 
-5. Hatályát veszti a 2012. és 2013. évi költségvetési hiánycél biztosításához szükséges további intézkedésekről szóló 1036/2012. (II. 21.) Korm. határozat.
+5.[^1]
+
+[^1]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
