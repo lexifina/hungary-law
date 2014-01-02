@@ -1,1 +1,0 @@
-## „(11) A javasolni kívánt gondozási helyet a gyermek lakóhelyéhez igazodóan, elsősorban az adott megyén (a fővároson) belül kell meghatározni, kivéve, ha a gyermek érdekében más gondozási hely megállapítása látszik indokoltnak.”
