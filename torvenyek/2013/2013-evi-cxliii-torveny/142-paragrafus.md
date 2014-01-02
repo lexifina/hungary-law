@@ -1,3 +1,0 @@
-142. § A Pft. „Átmeneti rendelkezések” alcíme a következő 66/A. §-sal egészül ki:
-
-„66/A. § Az egyes törvényeknek a Magyar Nemzeti Bankról szóló törvénnyel összefüggő, valamint egyéb célú módosításáról szóló 2013. évi CXLIII. törvénnyel megállapított 35/A. §-ban foglalt követelményeknek a 2014. január 1-jén és ezt követően kezdeményezett belföldi fizetési műveletek tekintetében kell megfelelni.”
