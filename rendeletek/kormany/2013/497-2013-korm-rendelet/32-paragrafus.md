@@ -1,1 +1,0 @@
-## „(7) Ha a (2) és (3) bekezdés szerinti nyilatkozatokat, dokumentumokat a támogatási igényhez csatolták, és a nyilatkozat, dokumentum tartalma a befogadást követően további vizsgálatot nem igényel, azok ismételt benyújtása a támogatói okirat kiadásához, támogatási szerződés megkötéséhez nem szükséges.”

@@ -1,1 +1,0 @@
-## „(1b) Az (1) bekezdés b) pontja szerinti esetben a biztosíték kikötésétől akkor lehet eltekinteni, ha az nem minősül állami támogatásnak, vagy arra a 37/2011. Korm. rendelettel összhangban kerül sor.”
