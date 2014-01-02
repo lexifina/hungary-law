@@ -1,3 +1,3 @@
-## 7. § A Vhr. 18. § (3) bekezdése helyébe a következő rendelkezés lép:
+## 7. §[^6]
 
-## „(3) Ha az OHÜ ellenőre a környezet védelmével kapcsolatos jogszabályok megszegését észleli, értesíti a környezetvédelmi hatóságot.”
+[^6]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

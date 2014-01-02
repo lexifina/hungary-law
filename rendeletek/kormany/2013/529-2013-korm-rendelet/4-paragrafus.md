@@ -1,5 +1,3 @@
-## 3. § A Vhr. 2. alcíme a következő 2/A. §-sal egészül ki:
+## 1–3. §[^1]
 
-## „2/A. § (1) A csomagolószer újrahasználható csomagolószerek nyilvántartásába történő felvételére vonatkozó kérelem adattartalmát a 8. melléklet tartalmazza. Az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség (a továbbiakban: Főfelügyelőség) az újrahasználható csomagolószerek nyilvántartásba vételéről szóló döntését, és az annak alapjául szolgáló adatokat tájékoztatásul az állami adó- és vámhatóság részére megküldi.
-
-## (2) A Ktdt. 4. § (2) bekezdés d) pontja szerinti újrahasználható csomagolószer külföldre történő visszaszállításának igazolására a csomagolószer CsK kódja, GTIN száma, vagy GTIN szám hiányában a 8. mellékletben foglalt adatok szerinti mennyiségi alapú nyilvántartás is alkalmas. A külföldre történő visszaszállítás igazoltnak tekintendő, ha a behozó nyilvántartása tartalmazza legalább a termékdíjköteles csomagolószer megnevezését, CsK kódját, GTIN számát, vagy GTIN szám hiányában a 8. mellékletben foglalt adatokat, mennyiségét, a kiszállításának dátumát és a kiszállítást igazoló fuvarokmányt, vagy fuvarokmány hiányában a visszavételt igazoló adatokat.”
+[^1]: Az 1–3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

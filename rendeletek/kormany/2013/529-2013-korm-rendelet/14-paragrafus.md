@@ -1,17 +1,8 @@
-## szöveg lép.
-
 ## 14. § Hatályát veszti a Vhr.
 
-1. 3. § (4) bekezdése,
+1–5.[^17]
 
-2. 5. §-a,
+6.[^18]
 
-3. 24. § (1) bekezdése,
-
-4. 13. alcíme,
-
-5. 34. § (8) bekezdése és
-
-6.[^9]
-
-[^9]: A 14. § 6. pontja a 15. § (4) bekezdése alapján 2015. július 2-án lép hatályba.
+[^17]: A 14. § 1–5. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 14. § 6. pontja a 15. § (4) bekezdése alapján 2015. július 2-án lép hatályba.
