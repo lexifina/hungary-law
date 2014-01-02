@@ -28,3 +28,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-100-00-00
 | 2013-10-01 | 2013. évi CXLIII. törvény | 2003-100-00-00.43 |
 | 2013-12-03 | 2013. évi CCII. törvény | 2003-100-00-00.44 |
 | 2014-01-01 | 2013. évi LXXVIII. törvény | 2003-100-00-00.45 |
+| 2014-01-02 | 2013. évi CXXVI. törvény | 2003-100-00-00.46 |
