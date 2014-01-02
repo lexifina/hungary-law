@@ -1,1 +1,0 @@
-## „(5) Az (1) bekezdés g) pontjának megfelelő technikai eszköz telepítését a pénzváltási tevékenységet közvetítőnek a rendszer telepítőjével vagy üzemeltetőjével kötött szerződéssel, illetve saját telepítés esetén a pénzváltási tevékenységet közvetítő vezető tisztségviselőjének nyilatkozatával kell igazolnia.”

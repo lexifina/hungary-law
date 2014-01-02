@@ -1,10 +1,11 @@
-## 76–77. §[^7]
+## 76–77. §[^33]
 
 ## 78. § Az 57/2012. Korm. rend.
 
-a) 1. § (2) bekezdésében az „a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvényben” szövegrész helyébe az „a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényben” szöveg,
+a)[^34]
 
-b)–d)[^8]
+b)–d)[^35]
 
-[^7]: A 76–77. § a 83. § (3) bekezdése alapján 2014. február 28-án lép hatályba.
-[^8]: A 78. § b)–d) pontja a 83. § (3) bekezdése alapján 2014. február 28-án lép hatályba.
+[^33]: A 76–77. § a 83. § (3) bekezdése alapján 2014. február 28-án lép hatályba.
+[^34]: A 78. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^35]: A 78. § b)–d) pontja a 83. § (3) bekezdése alapján 2014. február 28-án lép hatályba.
