@@ -278,7 +278,7 @@
 
 | 3 | Z03 | A fogyasztói árindex számításához felhasznált bolti szintű, anonimizált áradatok | KSH | megállapodás szerint | elektronikus úton | megállapodás szerint | MNB Kutatási főosztály |
 
-2. melléklet a 23/2013. (XI. 6.) MNB rendelethez[^1]
+2. melléklet a 23/2013. (XI. 6.) MNB rendelethez[^2]
 
 I. AZ INFORMÁCIÓK SZOLGÁLTATÁSÁRA VONATKOZÓ ÁLTALÁNOS RENDELKEZÉSEK
 
@@ -2744,4 +2744,4 @@ A BÉT-es részvények kapitalizációja és forgalma, részvények tőzsdei be-
 
 02. tábla: Részvények tőzsdei bevezetésére és kivezetésére vonatkozó havi adatok
 
-[^1]: A 2. melléklet a 43/2013. (XII. 29.) MNB rendelet 15. §-a szerint módosított szöveg.
+[^2]: A 2. melléklet a 43/2013. (XII. 29.) MNB rendelet 15. §-a szerint módosított szöveg.

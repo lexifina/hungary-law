@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-23-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2014-01-01 | 2013-23-20-2C.1 | 23/2013. (XI. 6.) MNB rendelet |
+| 2014-01-02 | 2013-23-20-2C.2 | 2010: CXXX. törvény |
