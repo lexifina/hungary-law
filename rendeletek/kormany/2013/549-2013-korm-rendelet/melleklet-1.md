@@ -1,3 +1,5 @@
+## 54–55. §[^1]
+
 1. melléklet az 549/2013. (XII. 30.) Korm. rendelethez
 
 |  | A | B |
@@ -59,3 +61,5 @@
 | 28. | Emberi Erőforrás Fejlesztési Operatív Program | Emberi Erőforrások Minisztériuma |
 
 | 29. | Koordinációs Operatív Program | Miniszterelnökség |
+
+[^1]: Az 54–55. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
