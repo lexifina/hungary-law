@@ -1,1 +1,0 @@
-A munkavédelemről szóló 1993. évi XCIII. törvény 88. § (4) bekezdés a) pont ad) alpontjában foglalt felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 73. § m) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
