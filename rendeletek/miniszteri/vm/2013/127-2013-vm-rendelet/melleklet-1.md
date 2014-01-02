@@ -1,5 +1,3 @@
-## 20. § Hatályát veszti a piaci árinformációs rendszer működéséről és az ehhez kapcsolódó feladatokról szóló 173/2004. (XII. 30.) FVM rendelet, valamint a számviteli-üzemgazdasági adatok gyűjtésére szolgáló mezőgazdasági tesztüzemi információs rendszerről szóló 13/2004. (I. 31.) FVM rendelet.
-
 1. melléklet a 127/2013. (XII. 18.) VM rendelethez
 
 ## Azonosító lap adattartalma:
