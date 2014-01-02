@@ -14,7 +14,7 @@ e) nemzetközi jogsegély keretében,
 
 f) a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény és végrehajtási rendeletében szabályozott biztonságos kézbesítési szolgáltatás útján,
 
-g) az elektronikus adathoz való hozzáférés ideiglenes és végleges megakadályozásáról szóló határozat esetén a Nemzeti Média- és Hírközlési Hatóság (a továbbiakban: NMHH) elektronikus kézbesítési rendszerén keresztül.
+g) az elektronikus adathoz való hozzáférés ideiglenes és végleges megakadályozásáról szóló határozat esetén az NMHH elektronikus kézbesítési rendszerén keresztül.
 
 (2) A címzett az iratot az azt küldőnél is átveheti.
 

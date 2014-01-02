@@ -48,7 +48,7 @@ q) az elektronikus bírósági iratkezelés részletes szabályait rendeletben �
 
 r) az ügyészség és a Rendőrség szerveinek az ügyészségi nyomozásban való együttműködése, és az ennek kapcsán felmerült költségek viselése részletes szabályait,
 
-s) a tizennegyedik életévét be nem töltött személy meghallgatására szolgáló rendőrségi helyiség kialakítására vonatkozó szabályokat a rendészetért felelős miniszter egyetértésével kiadott
+s) a tizennegyedik életévét be nem töltött személy meghallgatására szolgáló rendőrségi helyiség kialakítására és ellenőrzésére vonatkozó szabályokat a rendészetért felelős miniszter egyetértésével kiadott
 
 rendeletben szabályozza.
 
