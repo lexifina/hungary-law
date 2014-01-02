@@ -1,3 +1,3 @@
-32. melléklet a 76/2013. (XII. 31.) NGM rendelethez[^38]
+32. melléklet a 76/2013. (XII. 31.) NGM rendelethez[^56]
 
-[^38]: A 32. melléklet a 27. § (2) bekezdése alapján 2014. július 1-jén lép hatályba.
+[^56]: A 32. melléklet a 27. § (2) bekezdése alapján 2014. július 1-jén lép hatályba.

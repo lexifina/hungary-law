@@ -1,3 +1,3 @@
-34. melléklet a 76/2013. (XII. 31.) NGM rendelethez[^40]
+34. melléklet a 76/2013. (XII. 31.) NGM rendelethez[^58]
 
-[^40]: A 34. melléklet a 27. § (2) bekezdése alapján 2014. július 1-jén lép hatályba.
+[^58]: A 34. melléklet a 27. § (2) bekezdése alapján 2014. július 1-jén lép hatályba.

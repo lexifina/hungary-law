@@ -1,3 +1,3 @@
-7. melléklet a 76/2013. (XII. 31.) NGM rendelethez[^16]
+7. melléklet a 76/2013. (XII. 31.) NGM rendelethez[^31]
 
-[^16]: A 7. melléklet a 27. § (2) bekezdése alapján 2014. július 1-jén lép hatályba.
+[^31]: A 7. melléklet a 27. § (2) bekezdése alapján 2014. július 1-jén lép hatályba.

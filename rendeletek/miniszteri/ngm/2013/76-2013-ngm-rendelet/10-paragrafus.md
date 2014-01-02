@@ -1,3 +1,0 @@
-## 9. § A PM rendelet 48. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-## „(3) Rendeltetésszerűen szesz előállítására használt desztillálóberendezést – kivéve a magánfőző desztillálóberendezését, valamint a kizárólag tudományos és oktatási célra használt nem üveg desztillálóberendezést – csak szeszüzem, szeszfőzde, alkoholregeneráló és -denaturáló üzem, valamint alkoholtermék regenerálását végző adómentes felhasználó tarthat birtokában. Azok a szeszgyártásra alkalmas desztillálóberendezések, amelyeket rendeltetésszerűen nem szesz előállítására használnak, a hatósági felügyeletet ellátó vámszerv ellenőrzése mellett működtethetők.”

@@ -1,3 +1,3 @@
-11. melléklet a 76/2013. (XII. 31.) NGM rendelethez[^19]
+11. melléklet a 76/2013. (XII. 31.) NGM rendelethez[^35]
 
-[^19]: A 11. melléklet a 27. § (2) bekezdése alapján 2014. július 1-jén lép hatályba.
+[^35]: A 11. melléklet a 27. § (2) bekezdése alapján 2014. július 1-jén lép hatályba.

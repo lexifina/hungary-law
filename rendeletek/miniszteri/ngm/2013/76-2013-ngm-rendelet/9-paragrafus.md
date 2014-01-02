@@ -1,3 +1,0 @@
-## 8. § A PM rendelet 42. § (8) bekezdése helyébe a következő rendelkezés lép:
-
-## „(8) Amennyiben gyümölcsökből és bogyókból, szőlőborból és borászati melléktermékekből erjesztéssel és lepárlással a Jöt. 3. számú mellékletében meghatározott kihozatalt meghaladó mennyiségben történt az alkoholtermék előállítása – a (9) bekezdésben foglalt eltéréssel –, az alkoholterméket meg kell semmisíteni, vagy az alkoholtermékben lévő etilalkohol vonatkozó rendelkezések szerinti eredetét a szeszfőzdének akkreditált laboratóriumi vizsgálattal igazolnia kell. Az alkoholterméket abban az esetben is meg kell semmisíteni, ha a vizsgálati eredmény szerint az alkoholtermékben lévő etilalkohol nem a vonatkozó rendelkezések szerint keletkezett. E bekezdés bérfőzés esetén nem alkalmazandó.”
