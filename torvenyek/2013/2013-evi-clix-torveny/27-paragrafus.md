@@ -4,4 +4,4 @@ a)
 
 b)
 
-c) 92/K. § (8) bekezdése.
+c)
