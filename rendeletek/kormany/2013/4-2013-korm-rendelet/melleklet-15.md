@@ -1,3 +1,3 @@
-15. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^149]
+15. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^150]
 
-[^149]: Az 15. melléklet a 297/2013. (VII. 29.) Korm. rendelet 90. §-a szerint módosított szöveg.
+[^150]: Az 15. melléklet a 297/2013. (VII. 29.) Korm. rendelet 90. §-a szerint módosított szöveg.

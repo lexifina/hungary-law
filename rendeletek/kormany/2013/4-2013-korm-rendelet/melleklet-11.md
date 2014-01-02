@@ -1,4 +1,4 @@
-11. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^147]
+11. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^148]
 
 ## Konszolidált mérleg
 
@@ -64,4 +64,4 @@ II. Költségvetési évet követően esedékes kötelezettségek
 
 III. Kötelezettség jellegű sajátos elszámolások
 
-[^147]: A 11. melléklet a 497/2013. (XII. 29.) Korm. rendelet 111. § (1) bekezdés 4. pontja szerint módosított szöveg.
+[^148]: A 11. melléklet a 497/2013. (XII. 29.) Korm. rendelet 111. § (1) bekezdés 4. pontja szerint módosított szöveg.

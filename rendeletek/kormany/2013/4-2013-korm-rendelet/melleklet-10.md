@@ -8,7 +8,7 @@
 
 – kifizetésben részesülők száma
 
-2.[^139] Munkáltató által levont és átutalt
+2.[^140] Munkáltató által levont és átutalt
 
 - személyi jövedelemadó
 
@@ -28,7 +28,7 @@
 
 4. Kifizetőhelynél a kifizetett ellátások után kapott térítés
 
-5.[^140] Személyi juttatások
+5.[^141] Személyi juttatások
 
 - a költségvetési év január hónapban elszámolt, a megelőző év december hónapra járó bruttó személyi juttatás (az adó- és járuléklevonások január hónapot követően teljesített összegével együtt)
 
@@ -46,9 +46,9 @@
 
 - ennek járulékai (a járulékok január hónapot követően teljesített összegével együtt)
 
-6.[^141] a költségvetési év január hónapban elszámolt, a megelőző év december havi szociális hozzájárulási adó összege (a szociális hozzájárulási adó január hónapot követően teljesített összegével együtt)
+6.[^142] a költségvetési év január hónapban elszámolt, a megelőző év december havi szociális hozzájárulási adó összege (a szociális hozzájárulási adó január hónapot követően teljesített összegével együtt)
 
-7.[^142] a költségvetési év január hónapban elszámolt, a megelőző év december havi egészségügyi hozzájárulás összege (a szociális hozzájárulási adó január hónapot követően teljesített összegével együtt)
+7.[^143] a költségvetési év január hónapban elszámolt, a megelőző év december havi egészségügyi hozzájárulás összege (a szociális hozzájárulási adó január hónapot követően teljesített összegével együtt)
 
 8. A kiadások áfa-adóalapja és kompenzációs felára
 
@@ -68,7 +68,7 @@
 
 – vásárolt termékekhez és szolgáltatásokhoz kapcsolódó
 
-10.[^143] Tárgyévben behajthatatlan követelésként leírt összeg és elengedett követelés összege
+10.[^144] Tárgyévben behajthatatlan követelésként leírt összeg és elengedett követelés összege
 
 - ebből: behajthatatlan követelésként leírt összeg
 
@@ -222,21 +222,21 @@
 
 (ahány devizafajtában kötelezettség fennáll)
 
-40.[^144] A Stabilitási tv. 3. § (2) bekezdése szerinti előfinanszírozás összege
+40.[^145] A Stabilitási tv. 3. § (2) bekezdése szerinti előfinanszírozás összege
 
 - forintban
 
 - devizában a devizanem megjelölésével (ahány devizafajtában kötelezettség fennáll)
 
-41.[^145] A 3656. Nem társadalombiztosítás pénzügyi alapjait terhelő kifizetett ellátások megtérítésének elszámolása könyvviteli számla forgalmának és egyenlegének levezetése ellátási jogcímenként a társadalombiztosítás pénzügyi alapjainál
+41.[^146] A 3656. Nem társadalombiztosítás pénzügyi alapjait terhelő kifizetett ellátások megtérítésének elszámolása könyvviteli számla forgalmának és egyenlegének levezetése ellátási jogcímenként a társadalombiztosítás pénzügyi alapjainál
 
-42.[^146] A függő kötelezettségek 041. Kezességgel-, garanciavállalással kapcsolatos függő kötelezettségek, 042. Peres ügyekkel kapcsolatos függő kötelezettségek, 043. El nem ismert tartozások nyilvántartási számlák év végi állománya, kezességgel, garanciavállalással kapcsolatos függő kötelezettségek és egyéb függő kötelezettségek bontásban
+42.[^147] A függő kötelezettségek 041. Kezességgel-, garanciavállalással kapcsolatos függő kötelezettségek, 042. Peres ügyekkel kapcsolatos függő kötelezettségek, 043. El nem ismert tartozások nyilvántartási számlák év végi állománya, kezességgel, garanciavállalással kapcsolatos függő kötelezettségek és egyéb függő kötelezettségek bontásban
 
-[^139]: A 10. melléklet 2. pontja a 307/2013. (VIII. 14.) Korm. rendelet 39. § (1) bekezdés c) pontjával megállapított szöveg.
-[^140]: A 10. melléklet 5. pontja a 497/2013. (XII. 29.) Korm. rendelet 111. § (1) bekezdés 3. pontjával megállapított szöveg.
-[^141]: A 10. melléklet 6. pontja a 497/2013. (XII. 29.) Korm. rendelet 111. § (1) bekezdés 3. pontjával megállapított szöveg.
-[^142]: A 10. melléklet 7. pontja a 497/2013. (XII. 29.) Korm. rendelet 111. § (1) bekezdés 3. pontjával megállapított szöveg.
-[^143]: A 10. melléklet 10. pontja a 307/2013. (VIII. 14.) Korm. rendelet 39. § (1) bekezdés c) pontjával megállapított szöveg.
-[^144]: A 10. melléklet 40. pontja a 307/2013. (VIII. 14.) Korm. rendelet 39. § (1) bekezdés c) pontjával megállapított szöveg.
-[^145]: A 10. melléklet 41. pontja a 497/2013. (XII. 29.) Korm. rendelet 111. § (1) bekezdés 3. pontjával megállapított szöveg.
-[^146]: A 10. melléklet 42. pontját a 497/2013. (XII. 29.) Korm. rendelet 111. § (1) bekezdés 3. pontja iktatta be.
+[^140]: A 10. melléklet 2. pontja a 307/2013. (VIII. 14.) Korm. rendelet 39. § (1) bekezdés c) pontjával megállapított szöveg.
+[^141]: A 10. melléklet 5. pontja a 497/2013. (XII. 29.) Korm. rendelet 111. § (1) bekezdés 3. pontjával megállapított szöveg.
+[^142]: A 10. melléklet 6. pontja a 497/2013. (XII. 29.) Korm. rendelet 111. § (1) bekezdés 3. pontjával megállapított szöveg.
+[^143]: A 10. melléklet 7. pontja a 497/2013. (XII. 29.) Korm. rendelet 111. § (1) bekezdés 3. pontjával megállapított szöveg.
+[^144]: A 10. melléklet 10. pontja a 307/2013. (VIII. 14.) Korm. rendelet 39. § (1) bekezdés c) pontjával megállapított szöveg.
+[^145]: A 10. melléklet 40. pontja a 307/2013. (VIII. 14.) Korm. rendelet 39. § (1) bekezdés c) pontjával megállapított szöveg.
+[^146]: A 10. melléklet 41. pontja a 497/2013. (XII. 29.) Korm. rendelet 111. § (1) bekezdés 3. pontjával megállapított szöveg.
+[^147]: A 10. melléklet 42. pontját a 497/2013. (XII. 29.) Korm. rendelet 111. § (1) bekezdés 3. pontja iktatta be.
