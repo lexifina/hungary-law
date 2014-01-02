@@ -1,3 +1,3 @@
-## 11. §[^1]
+## 11. §[^2]
 
-[^1]: A 11. §-t a 16. § hatályon kívül helyezte.
+[^2]: A 11. §-t a 16. § hatályon kívül helyezte.
