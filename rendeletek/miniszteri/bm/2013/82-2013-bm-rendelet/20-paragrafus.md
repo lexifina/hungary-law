@@ -1,4 +1,4 @@
-## 18–19. §[^4]
+## 18–19. §[^5]
 
 ## 5. Záró rendelkezések
 
@@ -10,4 +10,4 @@
 
 (4) A 18. §, a 19. §, a 3. melléklet és a 4. melléklet a kihirdetését követő nyolcadik napon lép hatályba.
 
-[^4]: A 18–19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 18–19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
