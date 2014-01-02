@@ -1,5 +1,5 @@
-## 60. § A bírósági ügyvitel szabályairól szóló 14/2002. (VIII. 1.) IM rendelet 75/H. §-a a következő (3) bekezdéssel egészül ki:
-
-## „(3) A büntető ügyszakban a bíróság és a Nemzeti Média- és Hírközlési Hatóság elektronikus kapcsolattartása körében az elektronikus adathoz való hozzáférés ideiglenes és végleges elrendeléséről szóló határozat kiadmányozásakor a 75/E. § (4) bekezdését azzal az eltéréssel kell alkalmazni, hogy a másolatot az arra feljogosított személy hitelesítési záradékkal látja el és azon fokozott biztonságú elektronikus aláírást és időbélyegzőt helyez el (kiadmány). Az elektronikus adathoz való hozzáférés ideiglenes és végleges elrendeléséről számítógépes program segítségével előállított értesítőlapot papír alapú iratként be kell mutatni a tanács elnökének (bírónak), aki azt ellenőrzi és – ha ez szükséges a javítások elvégzését követően – intézkedik annak továbbítása iránt, ezt követően az arra feljogosított személy az elektronikusan kiállított értesítőlapon fokozott biztonságú elektronikus aláírást és időbélyegzőt helyez el.”
+## 60. §[^15]
 
 ## 10. Az anyakönyvekről, a házasságkötési eljárásról és a névviselésről szóló 6/2003. (III. 7.) BM rendelet módosítása
+
+[^15]: A 60. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
