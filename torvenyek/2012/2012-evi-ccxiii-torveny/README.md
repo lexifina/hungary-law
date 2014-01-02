@@ -14,3 +14,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-213-00-00
 | 2013-07-01 | 2013. évi CVII. törvény | 2012-213-00-00.7 |
 | 2013-07-02 | Nemzeti Jogszabálytár (egységes szerkezet) | 2012-213-00-00.8 |
 | 2014-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2012-213-00-00.9 |
+| 2014-01-02 | 2010. évi CXXX. törvény | 2012-213-00-00.10 |
