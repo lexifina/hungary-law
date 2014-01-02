@@ -1,3 +1,0 @@
-## 44. § A könyvviteli szolgáltatást végzők nyilvántartásba vételéről szóló 93/2002. (V. 5.) Korm. rendelet (a továbbiakban: Kszvr.) 5. § (10) bekezdése helyébe a következő rendelkezés lép:
-
-## „(10) Ha az adatváltozás érinti a 8. § (1) bekezdése szerinti igazolványon szereplő adatokat is, akkor – a (9) bekezdésben foglalt bejelentési kötelezettségen túlmenően – a bejelentéshez csatolni kell az igazolványt, az adatváltozást igazoló, valamint a (2) bekezdés c) és d) pontjában meghatározott dokumentumot is. A beküldött igazolványt a nyilvántartásba vételt végző szervezet az adatváltozás átvezetését követően haladéktalanul megsemmisíti.”

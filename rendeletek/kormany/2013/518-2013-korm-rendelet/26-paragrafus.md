@@ -1,3 +1,0 @@
-## 25. § A Hitkr. 8. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) Jegyzett tőkeként kell kimutatni a Tv. 35. § (3) bekezdése szerinti tőke összegét. A jegyzett tőke a külföldi székhelyű vállalkozás magyarországi fióktelepeként működő pénzügyi intézmény esetében a Hpt. 12. § (5) és (6) bekezdése szerinti dotációs tőkét foglalja magában. Azon befektetési szolgáltatási tevékenységet végző hitelintézetnek, amely nem külföldi székhelyű vállalkozás fióktelepe, a jegyzett tőkén belül a főkönyvi, illetve az analitikus nyilvántartásokban elkülönítetten kell kimutatni az olyan befektetési szolgáltató tulajdoni részesedését, amelynek más befektetési szolgáltatóban is van részesedése.”
