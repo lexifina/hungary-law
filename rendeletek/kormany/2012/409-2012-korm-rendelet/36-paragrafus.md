@@ -1,5 +1,5 @@
-## 32–35. §[^14]
+## 32–35. §[^17]
 
 ## 5. A közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló 326/2011. (XII. 28.) Korm. rendelet módosítása
 
-[^14]: A 32–35. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 32–35. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
