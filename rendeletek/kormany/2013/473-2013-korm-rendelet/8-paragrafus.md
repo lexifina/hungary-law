@@ -1,1 +1,0 @@
-## „(4) Abban az esetben, ha a (3) bekezdés d) pontja szerinti jogok bejegyzésére irányuló kérelem benyújtására az ingatlan-nyilvántartásban széljegy utal, a földhivatal az eljárást az ingatlan-nyilvántartási eljárás befejezéséig felfüggeszti.”
