@@ -1,4 +1,4 @@
-## 36. §[^7]
+## 36. §[^15]
 
 ## 9. Záró rendelkezések
 
@@ -10,4 +10,4 @@
 
 (4) A 18. § (2) bekezdése 2014. március 15-én lép hatályba.
 
-[^7]: A 36. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 36. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
