@@ -1,3 +1,0 @@
-## 2. § A RUSZ 22. § (6) bekezdése helyébe a következő rendelkezés lép:
-
-## „(6) Ugyanazon igényjogosultnak szervek közötti vagy szerven belüli, két éven belül történt ismételt – többszöri – áthelyezésekor, átsorolásakor vagy leszerelését követő ismételt állományba vételekor, valamint időkorlát nélkül az utánpótlás átmeneti szüneteltetésekor az igényjogosult újbóli ellátásához, indokolt esetben – a ruházati elszámolási könyv egyidejű felterjesztésével – a ruházati szakszolgálat állásfoglalását kell kérni. Az állományilletékes parancsnoka ruházati szakszolgálat állásfoglalásának figyelembevételével dönt az igényjogosult újbóli ellátásáról.”
