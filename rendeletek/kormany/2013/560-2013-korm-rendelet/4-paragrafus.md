@@ -1,4 +1,4 @@
-## 3. §[^2]
+## 3. §[^4]
 
 ## 4. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) Az 1. § (2) bekezdése és a 3. § 2014. május 1-jén lép hatályba.
 
-[^2]: A 3. § a 4. § (2) bekezdése alapján 2014. május 1-jén lép hatályba.
+[^4]: A 3. § a 4. § (2) bekezdése alapján 2014. május 1-jén lép hatályba.
