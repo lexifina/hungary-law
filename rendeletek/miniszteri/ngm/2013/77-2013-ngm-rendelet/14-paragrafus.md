@@ -1,1 +1,0 @@
-## 13. § Az önkormányzati adóhatóság hatáskörébe tartozó közterhek nyilvántartását segítő számítógépes programrendszer engedélyezésének igazgatási szolgáltatási díjáról szóló 42/2006. (XII. 25.) PM rendelet 2. § (2) bekezdésében az „10032000-01454055-00000000” szövegrész helyébe az „10032000-01460658” szöveg lép.
