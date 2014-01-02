@@ -6,4 +6,8 @@
 
 (3) Az (1) bekezdés szerinti kezességvállalások során az állam nevében az államháztartásért felelős miniszter jár el.
 
-(4)–(6)
+(4)
+
+(5)
+
+(6)
