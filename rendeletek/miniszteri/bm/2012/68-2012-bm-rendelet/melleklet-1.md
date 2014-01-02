@@ -1,3 +1,5 @@
+## 15. §[^3]
+
 1. melléklet a 68/2012. (XII. 14.) BM rendelethez
 
 ## Jelentkezési lap képzésre/kiegészítő képzésre/segédfelügyelői képzésre
@@ -39,3 +41,5 @@ Kelt: ............................................, ............... év ........
 .......................................................
 
 olvasható aláírása
+
+[^3]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
