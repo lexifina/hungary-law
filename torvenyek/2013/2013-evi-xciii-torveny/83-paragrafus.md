@@ -1,5 +1,5 @@
-83. § Hatályát veszti a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény
+83. §
 
 a)
 
-b) 20. § (5) bekezdése.
+b)
