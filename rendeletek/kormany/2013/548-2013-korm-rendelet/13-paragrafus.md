@@ -1,3 +1,0 @@
-## 12. § Az R. 28. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) A Kormány európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt tagja a kiemelt projektek esetében az akciótervi nevesítést megelőzően – ha a kiemelt projekt szakmai tartalma tekintetében a 212/2010. (VII. 1.) Korm. rendelet alapján nem rendelkezik felelősséggel az ágazati fejlesztésért felelős miniszterrel együtt – előterjesztést készít a Nemzeti Fejlesztési Kormánybizottság számára azon projektötletek bemutatására, amelyeket az akciótervben nevesítésre javasol. Az akciótervi nevesítés nem eredményezi a támogatási szerződés megkötésének kötelezettségét.”

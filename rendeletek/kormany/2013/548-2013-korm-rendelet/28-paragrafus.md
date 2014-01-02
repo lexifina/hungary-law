@@ -1,3 +1,0 @@
-## 27. § Az R. 74. §-a helyébe a következő rendelkezés lép:
-
-## „74. § A központi koordinációs szerv köteles a pályáztatás, a szerződéskötés, a pénzügyi lebonyolítás, a közbeszerzési eljárás lefolytatásának, a fizikai megvalósítás ellenőrzése, a monitoring és – az államháztartásért felelős miniszter által közzétett módszertani útmutatónak megfelelő – folyamatba épített ellenőrzés teljes folyamatára részletes eljárásrendet kidolgozni, és előírni annak alkalmazását valamennyi hitelesítést végző szervezet számára. Az irányító hatóság a folyamatba épített ellenőrzés elemeit előzetes és utólagos ellenőrzési tevékenységekre oszthatja.”

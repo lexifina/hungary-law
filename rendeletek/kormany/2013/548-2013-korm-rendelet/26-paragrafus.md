@@ -1,3 +1,0 @@
-## 25. § Az R. 69. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-## „(3) Az irányító hatóságnak biztosítania kell, hogy a lebonyolításban érintett szervezet európai uniós támogatások lebonyolításával kapcsolatos feladataihoz kötődő számviteli bizonylatok – a banki kivonatok kivételével – a számviteli feladatokat ellátó kincstárnál rendelkezésre álljanak. A számviteli nyilvántartással kapcsolatosan a központi koordinációs szerv és a kincstár kötelezettségeit külön együttműködési megállapodásban kell rögzíteni. Az irányító hatóság által megküldendő számviteli bizonylatok felsorolását az együttműködési megállapodásnak tartalmaznia kell.”
