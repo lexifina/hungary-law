@@ -1,3 +1,0 @@
-87. § A Bszt. 37. §-a a következő (7) bekezdéssel egészül ki:
-
-„(7) Egyesüléshez, minősített befolyás megszerzéséhez, valamint az alapszabálynak az igazgatóság jogkörét megváltoztató módosításához szükséges engedély megadása előtt, ha a befektetési vállalkozás összevont alapú felügyelet alá tartozik, illetve a befektetési vállalkozásra az összevont alapú felügyelet kiterjed, a Felügyelet – ha az összevont alapú felügyeleti feladatok ellátása miatt szükséges – a határozat meghozatala előtt egyeztet azon EGT-állam hatáskörrel rendelkező felügyeleti hatóságával, amelynek székhelyén olyan befektetési vállalkozás található, amelyre az engedélyezési kérelmet benyújtó befektetési vállalkozással együttesen az összevont alapú felügyelet kiterjed.”

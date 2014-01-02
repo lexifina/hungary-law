@@ -1,5 +1,3 @@
 ## 19. A haditechnikai termékek gyártásának és a haditechnikai szolgáltatások nyújtásának engedélyezéséről szóló 2005. évi CIX. törvény módosítása
 
-64. § A haditechnikai termékek gyártásának és a haditechnikai szolgáltatások nyújtásának engedélyezéséről szóló 2005. évi CIX. törvény (a továbbiakban: Httv.) 2. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Nem kell külön engedélyt beszerezniük a Magyar Honvédség, a nemzetbiztonsági szolgálatok, a rendvédelmi szervek – e törvény alkalmazásában ideértve a Nemzeti Adó- és Vámhivatalt is – kutatással és fejlesztéssel, javítással és karbantartással foglalkozó, valamint hatástalanítást, megsemmisítést, múzeumi tevékenységet végző szervezeti egységeinek. Nem kell külön engedélyt beszerezniük az állam nevében eladóként eljáró, honvédelmi szempontból feleslegesnek nyilvánított haditechnikai termékek elidegenítését végző szerveknek azonban az elidegenített haditechnikai termékek köréről, illetve a vásárlók személyéről kötelesek tájékoztatni a hadiipari gyártás- és szolgáltatásfelügyeletet.”
+64–66. §
