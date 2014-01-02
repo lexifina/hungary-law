@@ -1,1 +1,0 @@
-24. § A Cst. 27. § (1) bekezdés a) pont ab) alpontjában az „átmeneti bányászjáradékot” szövegrész helyébe az „átmeneti bányászjáradékot, a terhességi-gyermekágyi segélyt valamint a gyermekgondozási díjat” szöveg lép.
