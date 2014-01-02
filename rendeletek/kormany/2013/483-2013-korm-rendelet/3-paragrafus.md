@@ -12,4 +12,6 @@ c) alapbéren a közalkalmazotti jogviszonyban állók esetében illetményt, ko
 
 ## is érteni kell.
 
-(3) Hatályát veszti a kötelező legkisebb munkabér (minimálbér) és a garantált bérminimum megállapításáról szóló 390/2012. (XII. 20.) Korm. rendelet.
+(3)[^2]
+
+[^2]: A 3. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
