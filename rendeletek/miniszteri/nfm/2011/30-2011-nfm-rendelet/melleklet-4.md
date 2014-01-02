@@ -54,7 +54,7 @@
 
 | Foszfortartalom | mg/kg |  | 4,0 |
 
-4. melléklet a 30/2011. (VI. 28.) NFM rendelethez[^13]
+4. melléklet a 30/2011. (VI. 28.) NFM rendelethez[^14]
 
 A forgalmazott E85 minőségi követelményei
 
@@ -94,4 +94,4 @@ A forgalmazott E85 minőségi követelményei
 
 | 17. | Szulfáttartalom | mg/kg |  | 4,0 |
 
-[^13]: A 4. melléklet az 54/2012. (IX. 17.) NFM rendelet 5. § (4) bekezdésével megállapított szöveg.
+[^14]: A 4. melléklet az 54/2012. (IX. 17.) NFM rendelet 5. § (4) bekezdésével megállapított szöveg.

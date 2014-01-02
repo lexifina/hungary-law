@@ -18,6 +18,6 @@
 
 ## * A FAME-nek ki kell elégítenie az MSZ EN 14214 szabvány követelményeit
 
-3. melléklet a 30/2011. (VI. 28.) NFM rendelethez[^12]
+3. melléklet a 30/2011. (VI. 28.) NFM rendelethez[^13]
 
-[^12]: A 3. melléklet az 54/2012. (IX. 17.) NFM rendelet 5. § (3) bekezdése szerint módosított szöveg.
+[^13]: A 3. melléklet az 54/2012. (IX. 17.) NFM rendelet 5. § (3) bekezdése szerint módosított szöveg.
