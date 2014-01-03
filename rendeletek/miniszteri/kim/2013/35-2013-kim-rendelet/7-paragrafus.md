@@ -1,1 +1,3 @@
-## 6. § A 9/2002. (IV. 9.) IM rendelet 151/C. § (4) bekezdésében a „végleges megakadályozását” szövegrész helyébe az „ideiglenes megakadályozását” szöveg lép.
+## 6. §[^7]
+
+[^7]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

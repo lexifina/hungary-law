@@ -1,4 +1,4 @@
-## 16. §[^10]
+## 16. §[^12]
 
 ## 9. Záró rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) E rendelet 1. §-a 2014. május 1-jén lép hatályba.
 
-[^10]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
