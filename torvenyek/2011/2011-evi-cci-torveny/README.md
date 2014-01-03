@@ -19,3 +19,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-201-00-00
 | 2012-06-27 | 2012. évi LXXVI. törvény | 2011-201-00-00.12 |
 | 2012-12-31 | 2013. évi XX. törvény | 2011-201-00-00.13 |
 | 2013-07-01 | 2013. évi LXXVI. törvény | 2011-201-00-00.14 |
+| 2014-01-03 | 2012. évi LXXVI. törvény | 2011-201-00-00.15 |
