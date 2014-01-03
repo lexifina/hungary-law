@@ -1,3 +1,3 @@
-## 9. §[^7]
+## 9. §[^8]
 
-[^7]: A 9. § a 15. § (3) bekezdése alapján 2014. július 1-jén lép hatályba.
+[^8]: A 9. § a 15. § (3) bekezdése alapján 2014. július 1-jén lép hatályba.
