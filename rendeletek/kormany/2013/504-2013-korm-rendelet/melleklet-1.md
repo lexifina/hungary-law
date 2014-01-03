@@ -1,4 +1,4 @@
-## „23. § E rendeletnek a mezőgazdasági vagy erdészeti szakirányú képzettségekről szóló 504/2013. (XII. 29.) Korm. rendelettel (a továbbiakban: Mr.3.) megállapított rendelkezéseit az Mr.3. hatálybalépésekor folyamatban lévő, 2013. december 15-e után indított, valamint a megismételt eljárásokban is alkalmazni kell.”
+## 3. §[^1]
 
 1. melléklet az 504/2013. (XII. 29.) Korm. rendelethez
 
@@ -687,3 +687,5 @@ Mezőgazdasági vagy erdészeti szakirányú képzettségek
 |  | Növénytermesztő mérnök felsőoktatási szakképzés |
 
 |  | Szőlész-borász mérnök felsőoktatási szakképzés |
+
+[^1]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
