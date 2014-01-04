@@ -2,7 +2,7 @@
 
 (2)
 
-(3) Hatályát veszti az egyes egészségügyi tárgyú törvények módosításáról szóló 2011. évi CLXXVI. törvény.
+(3)
 
 (4)
 

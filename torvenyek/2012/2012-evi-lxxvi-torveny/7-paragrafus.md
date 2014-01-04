@@ -1,4 +1,4 @@
-7. § (1) Hatályát veszti az alacsony keresetű munkavállalók bérének emelését ösztönző egyes törvények módosításáról szóló 2011. évi XCIX. törvény.
+7. § (1)
 
 (2)
 
