@@ -1,1 +1,0 @@
-Az Országgyűlés a területfejlesztésről és a területrendezésről szóló 1996. évi XXI. törvény 6. § e) pontja alapján, ezen országgyűlési határozat hatálybalépése, és 2013. december 31-e közötti időszakra a területfejlesztési támogatások és a decentralizáció elveiről, a kedvezményezett térségek besorolásának feltételrendszeréről a következő határozatot hozza:
