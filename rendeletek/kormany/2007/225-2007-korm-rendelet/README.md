@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-225-20-
 | 2013-02-02 | 2007-225-20-22.15 | 7/2013. (I. 18.) Korm. rendelet |
 | 2013-07-01 | 2007-225-20-22.16 | 7/2013. (I. 18.) Korm. rendelet |
 | 2013-10-01 | 2007-225-20-22.17 | 345/2013. (IX. 30.) Korm. rendelet |
+| 2014-01-04 | 2007-225-20-22.18 | 531/2013. (XII. 30.) Korm. rendelet |
