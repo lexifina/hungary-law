@@ -11,3 +11,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-203-00-00
 | 2014-01-01 | 2010. évi CXXX. törvény | 2013-203-00-00.4 |
 | 2014-01-02 | 2010. évi CXXX. törvény | 2013-203-00-00.5 |
 | 2014-01-03 | 2010. évi CXXX. törvény | 2013-203-00-00.6 |
+| 2014-01-05 | 2013. évi CCXXXVI. törvény | 2013-203-00-00.7 |
