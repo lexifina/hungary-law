@@ -1,1 +1,3 @@
-9. § Hatályát veszti a felnőttképzést folytató intézmények és a felnőttképzési programok akkreditációs eljárási díjának mértékéről és felhasználásának szabályairól szóló 7/2002. (XII. 6.) FMM rendelet.
+9. §[^1]
+
+[^1]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
