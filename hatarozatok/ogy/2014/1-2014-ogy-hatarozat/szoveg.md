@@ -122,14 +122,10 @@ e) területi integráció, térségi és helyi fejlesztések a helyi gazdaság b
 
 9. Ez a határozat a közzétételét követő napon lép hatályba.
 
-10. Hatályát veszti
-
-a) az Országgyűlés Fejlesztéspolitikai Koncepcióról szóló 96/2005. (XII. 25.) OGY határozat,
-
-b) az Országos Területfejlesztési Koncepcióról szóló 97/2005. (XII. 25.) OGY határozat,
-
-c) a területfejlesztési támogatások és a decentralizáció elveiről, a kedvezményezett térségek besorolásának feltételrendszeréről szóló 67/2007. (VI. 28.) OGY határozat.
+10.[^2]
 
 Melléklet az 1/2014. (I. 3.) OGY határozathoz
 
 20144130000001_1
+
+[^2]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
