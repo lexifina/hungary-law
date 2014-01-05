@@ -26,3 +26,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-368-20-
 | 2013-10-15 | 2011-368-20-22.18 | 347/2013. (IX. 30.) Korm. rendelet |
 | 2013-12-30 | 2011-368-20-22.19 | 497/2013. (XII. 29.) Korm. rendelet |
 | 2014-01-01 | 2011-368-20-22.20 | 497/2013. (XII. 29.) Korm. rendelet |
+| 2014-01-05 | 2011-368-20-22.21 | 497/2013. (XII. 29.) Korm. rendelet |

@@ -2,7 +2,15 @@
 
 140. § (1) Az Áht. 83. § (1) bekezdése szerinti személyi juttatásokat terhelő közterheknek a személyi juttatásokat, valamint az egyéb kifizetéseket terhelő adók, járulékok, magánnyugdíjpénztári tagdíjak minősülnek.
 
-(2)[^307] Az Áht. 83. § (1) bekezdése szerinti egyéb kötelezettségnek a helyi önkormányzat, továbbá az Egészségbiztosítási Alapból finanszírozott helyi önkormányzati költségvetési szerv által az Igazgatóság részére engedményezett forgótőke, a nemzeti köznevelésről szóló 2011. évi CXC. törvény 74. § (6) bekezdése szerinti hozzájárulás, ha azt a helyi önkormányzat két egymást követő hónapban nem fizette meg, és jogszabály alapján érvényesített más levonási kötelezettség minősül.
+(2)[^307] Az Áht. 83. § (1) bekezdése szerinti egyéb kötelezettségnek minősül:
+
+a) a helyi önkormányzat, továbbá az Egészségbiztosítási Alapból finanszírozott helyi önkormányzati költségvetési szerv által az Igazgatóság részére engedményezett forgótőke,
+
+b) a nemzeti köznevelésről szóló 2011. évi CXC. törvény 74. § (6) bekezdése szerinti hozzájárulás, ha azt a helyi önkormányzat két egymást követő hónapban nem fizette meg,
+
+c) az Áht. 108. § (4) bekezdése szerinti bírság, és
+
+d) jogszabály alapján érvényesített más levonási kötelezettség.
 
 (3)[^308] Az Áht. 83. § (1) bekezdése szerinti támogatások összegét az e § és a 143. § (2) bekezdése szerinti összegek hozzáadásával és levonásával, továbbá a helyi önkormányzat által folyósított (megelőlegezett) társadalombiztosítási és az e körben folyósítandó családtámogatási ellátások megtérítendő összege hozzáadásával, – ha a központi költségvetésről szóló törvény eltérően nem rendelkezik – a 6. melléklet szerinti ütemezésben kell folyósítani. A megyei önkormányzat esetén a helyi önkormányzatokért felelős miniszter ettől – a megyei önkormányzatnak a tárgyhó ötödik napjáig benyújtott kérelmére – eltérést engedélyezhet.
 
@@ -34,7 +42,7 @@ e) a pótlólagos igénylés során jelentkező finanszírozási különbözetet
 
 (10)[^317] A forgótőke tárgyhavi visszapótlására csak addig a mértékig kerülhet sor, ameddig arra a helyi önkormányzatot, továbbá az Egészségbiztosítási Alapból nettó módon finanszírozott helyi önkormányzati költségvetési szervet megillető, a nettó finanszírozásnál figyelembe vett támogatások (3) bekezdés szerinti levonásokkal – ide nem értve az engedményezett forgótőkét – csökkentett összege fedezetet nyújt.
 
-[^307]: Az Ávr. 140. § (2) bekezdése a 307/2013. (VIII. 14.) Korm. rendelet 21. § (1) bekezdésével megállapított, a 497/2013. (XII. 29.) Korm. rendelet 63. § (3) bekezdés 10. pontja szerint módosított szöveg.
+[^307]: Az Ávr. 140. § (2) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 47. §-ával megállapított szöveg.
 [^308]: Az Ávr. 140. § (3) bekezdése az 56/2012. (III. 30.) Korm. rendelet 13. § (1) bekezdésével megállapított és a 413/2012. (XII. 29.) Korm. rendelet 39. § 32. pontja, a 497/2013. (XII. 29.) Korm. rendelet 63. § (3) bekezdés 10. pontja szerint módosított szöveg.
 [^309]: Az Ávr. 140. § (4) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 62. § (1) bekezdés 40. pontja szerint módosított szöveg.
 [^310]: Az Ávr. 140. § (5) bekezdése a 413/2012. (XII. 29.) Korm. rendelet 39. § 33. pontja, a 497/2013. (XII. 29.) Korm. rendelet 63. § (3) bekezdés 17. pontja szerint módosított szöveg.

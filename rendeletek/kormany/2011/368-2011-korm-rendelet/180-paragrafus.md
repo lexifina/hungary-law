@@ -1,4 +1,4 @@
-180. §[^415] (1) A 2014. január 1-jén a törzskönyvi nyilvántartásba bejegyzett költségvetési szervek alapító okiratának a szerv alaptevékenységei kormányzati funkciók szerinti besorolására vonatkozó, 2014. január 1-je előtt keletkezett bejegyzései tekintetében a (2)–(5) bekezdés szerint kell eljárni.
+180. §[^416] (1) A 2014. január 1-jén a törzskönyvi nyilvántartásba bejegyzett költségvetési szervek alapító okiratának a szerv alaptevékenységei kormányzati funkciók szerinti besorolására vonatkozó, 2014. január 1-je előtt keletkezett bejegyzései tekintetében a (2)–(5) bekezdés szerint kell eljárni.
 
 (2) A költségvetési szerv irányító szerve – a (3) és (4) bekezdésben foglaltak figyelembevételével – 2014. február 28-ig gondoskodik az (1) bekezdés szerinti költségvetési szerv alaptevékenységei kormányzati funkciók szerinti besorolására vonatkozó, jogszabályban meghatározott adatok alapító okiratban történő módosításáról.
 
@@ -10,4 +10,4 @@
 
 (6) Az (1)–(5) bekezdésben foglaltak az egyéb törzskönyvi jogi személyek tekintetében is alkalmazandók.
 
-[^415]: Az Ávr. 180. §-át a 497/2013. (XII. 29.) Korm. rendelet 60. § (1) bekezdése iktatta be.
+[^416]: Az Ávr. 180. §-át a 497/2013. (XII. 29.) Korm. rendelet 60. § (1) bekezdése iktatta be.
