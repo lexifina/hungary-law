@@ -1,15 +1,15 @@
-63. § (1)[^17]
+63. § (1)[^14]
 
-(2)[^18]
+(2)[^15]
 
-(3)[^19]
+(3)[^16]
 
-(4)[^20]
+(4)[^17]
 
-(5)[^21]
+(5)[^18]
 
-[^17]: A 63. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^18]: A 63. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^19]: A 63. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^20]: A 63. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^21]: A 63. § (5) bekezdése a 117. § (4) bekezdése alapján 2014. március 15-én lép hatályba.
+[^14]: A 63. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 63. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 63. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 63. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 63. § (5) bekezdése a 117. § (4) bekezdése alapján 2014. március 15-én lép hatályba.
