@@ -24,7 +24,7 @@ fb) az adózóra vonatkozóan a bejelentési (változás-bejelentési) köteleze
 
 fc) a pótléklevezetés adatainak megjelenítésére,
 
-fd)[^1]
+fd) megbízólevél és értesítés érvényességének ellenőrzésére,
 
 fe) foglalkoztatottakról, illetve biztosítottakról az állami adóhatósághoz teljesített bejelentések lekérdezésére,
 
@@ -32,11 +32,11 @@ ff) az állandó meghatalmazások és az adóügyek elektronikus ügyintézésé
 
 fg) a bevallási kötelezettségekkel kapcsolatos lekérdezésekre,
 
-fh)[^2]
+fh) a kérelemre indult ügyek, különösen a fizetési könnyítési és mérséklési kérelmek állapotáról szóló tájékoztatásra,
 
 fi) munkáltatók vagy kifizetők által a magánszemélyekről beadott járulékkötelezettség adatok lekérdezésére,
 
-fj)[^3]
+fj) a személyi jövedelemadó meghatározott része felajánlásának lekérdezésére,
 
 fk) adóhatósági igazolásokkal kapcsolatos információk megjelenítésére,
 
@@ -53,7 +53,3 @@ i) az egyes adóügyek telefonon keresztül történő ügyintézésére.
 a) az Európai Unió más tagállamában és az általános forgalmi adóról szóló törvény szerint elismert harmadik államban letelepedett adóalanynak belföldön, az Art. 9. számú melléklet II. cím 2. pont a) alpontja szerinti elektronikus kapcsolattartás útján érvényesített általános forgalmiadó-visszatéríttetési kérelmével, kiigazítási nyilatkozatával, valamint
 
 b) a belföldön letelepedett adóalanynak az Európai Unió más tagállamában érvényesített hozzáadottértékadó-visszatéríttetési kérelmével, kiigazítási nyilatkozatával
-
-[^1]: A 2. § (1) bekezdés f) pont fd) alpontja a 26. § (2) bekezdése alapján 2014. január 6-án lép hatályba.
-[^2]: A 2. § (1) bekezdés f) pont fh) alpontja a 26. § (2) bekezdése alapján 2014. január 6-án lép hatályba.
-[^3]: A 2. § (1) bekezdés f) pont fj) alpontja a 26. § (2) bekezdése alapján 2014. január 6-án lép hatályba.
