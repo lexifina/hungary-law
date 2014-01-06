@@ -1,18 +1,9 @@
-## 59. § Az Ávr. XII. Fejezete a következő alcímmel egészül ki:
+## 59. §[^8]
 
-## „[Az Áht. 108. § (4) bekezdéséhez]
+60. § (1)[^9]
 
-## 171. § (1) z Áht. 108. § (4) bekezdése szerinti bírság mértéke – elmulasztott adatszolgáltatásonként – legfeljebb a helyi önkormányzatot a helyi önkormányzatok általános működéséhez és ágazati feladataihoz kapcsolódó támogatások eredeti igénylése alapján megillető támogatás 0,1%-ának megfelelő összeg, de legalább 50 000 forint. A bírság összegének megállapításakor – e §-ban foglaltak figyelembevételével – a Kincstár a kötelezettségszegés súlyát és ismétlődő jellegét mérlegeli.
+(2)[^10]
 
-## (2) Ha az adatszolgáltatási késedelem a harminc napot nem haladja meg, a bírság összege az (1) bekezdés szerint megállapított összeg fele.
-
-## (3) Az (1) bekezdés szerinti bírság az adatszolgáltatási késedelem harmincadik napját követően, majd ezt követően minden újabb eltelt harminc napot követően ismételten kiszabásra kerül azzal, hogy a késedelem hatvanadik napjától ismételten kiszabott bírság összege az (1) bekezdés szerint megállapított összeg kétszerese.
-
-## (4) A helyi önkormányzat a bírság mérséklése vagy részletekben történő megfizetése tekintetében a határozat kézhezvételét követő nyolc napon belül kérelmet terjeszthet elő.”
-
-60. § (1)[^7]
-
-(2)[^8]
-
-[^7]: A 60. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^8]: A 60. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: Az 59. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 60. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 60. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
