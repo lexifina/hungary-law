@@ -1,0 +1,1 @@
+87. § E törvény 44. § (4)–(7) bekezdésének az egyes agrártárgyú törvények módosításáról szóló 2013. évi CCXLVI. törvénnyel megállapított rendelkezéseit először a 2014. évben beadott egységes kérelmekre induló eljárásokban kell alkalmazni.
