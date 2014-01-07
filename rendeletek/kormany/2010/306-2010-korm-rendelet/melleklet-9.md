@@ -2,9 +2,7 @@
 
 ## a) a veszélyes hulladékégetésről szóló 94/67/EK tanácsi irányelv végrehajtásáról szóló tagállami jelentések alapjául szolgáló kérdőívről szóló, 1998. február 25-i 98/184/EK bizottsági határozat;
 
-## b) a szerves oldószerek egyes tevékenységeknél és berendezésekben történő felhasználása során keletkező illékony szerves vegyületek kibocsátásának korlátozásáról szóló, 1999. március 11-i 1999/13/EK tanácsi irányelv 6. cikk (3) bekezdése, 11. cikk (1) és (2) bekezdése;
-
-## c) a hulladékok égetéséről szóló, 2000. december 4-i 2000/76/EK európai parlamenti és tanácsi irányelv 15., 19. és 21. cikke;
+## b)–c)[^14]
 
 ## d) a nagy tüzelőberendezésekből származó egyes szennyező anyagok levegőbe történő kibocsátásának korlátozásáról szóló, 2001. október 23-i 2001/80/EK európai parlamenti és tanácsi irányelv 4. cikk (1)–(3) és (6) bekezdése, valamint 15. és 16. cikke;
 
@@ -12,11 +10,11 @@
 
 ## f) a környezettel kapcsolatos egyes tervek és programok kidolgozásánál a nyilvánosság részvételéről, valamint a nyilvánosság részvétele és az igazságszolgáltatáshoz való jog tekintetében a 85/337/EGK és a 96/61/EK tanácsi irányelv módosításáról szóló, 2003. május 26-i 2003/35/EK európai parlamenti és tanácsi irányelv 6. cikke;
 
-## g)[^13]
+## g)[^15]
 
 ## h) a környezeti levegőben található arzénről, kadmiumról, higanyról, nikkelről és policiklusos aromás szénhidrogénekről szóló, 2004. december 15-i 2004/107/EK európai parlamenti és tanácsi irányelv 4. cikk (14) bekezdése, valamint 5. cikk (1) és (2) bekezdése;
 
-## i)[^14]
+## i)[^16]
 
 ## j) a környezeti levegő minőségéről és a Tisztább levegőt Európának elnevezésű programról szóló, 2008. május 21-i 2008/50/EK európai parlamenti és tanácsi irányelv 6. cikk (5) bekezdése, 11. cikk (2) bekezdése, 19. cikke, 20. cikk (1) és (2) bekezdése, 21. cikk (2) és (3) bekezdése, 22. cikk (4) bekezdése, 23. cikk (1) bekezdése, valamint 27. cikke;
 
@@ -84,5 +82,6 @@ A levegővédelmi követelmények megsértéséhez kapcsolódó levegőtisztasá
 
 | 26. | Nem gazdasági tevékenység keretében végzett, lakosságot zavaró bűzhatást okozó tevékenység folytatása, technológia vagy berendezés üzemeltetése; | 50 000 Ft |
 
-[^13]: A 8. melléklet g) pontját a 378/2013. (X. 25.) Korm. rendelet 5. § (1) bekezdése hatályon kívül helyezte.
-[^14]: A 8. melléklet i) pontját a 378/2013. (X. 25.) Korm. rendelet 5. § (1) bekezdése hatályon kívül helyezte.
+[^14]: A 8. melléklet b)–c) pontját a 378/2013. (X. 25.) Korm. rendelet 5. § (2) bekezdése hatályon kívül helyezte.
+[^15]: A 8. melléklet g) pontját a 378/2013. (X. 25.) Korm. rendelet 5. § (1) bekezdése hatályon kívül helyezte.
+[^16]: A 8. melléklet i) pontját a 378/2013. (X. 25.) Korm. rendelet 5. § (1) bekezdése hatályon kívül helyezte.
