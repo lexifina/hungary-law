@@ -2,10 +2,9 @@
 
 5. § (1)[^2]
 
-(2)[^3]
+(2) Hatályát veszti az Lvr. 43. § (1) bekezdés a) és b) pontja, valamint 8. melléklet b) és c) pontja.
 
-(3)[^4]
+(3)[^3]
 
 [^2]: Az 5. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: Az 5. § (2) bekezdése a 3. § (3) bekezdése alapján 2014. január 7-én lép hatályba.
-[^4]: Az 5. § (3) bekezdése a 3. § (4) bekezdése alapján 2016. január 1-jén lép hatályba.
+[^3]: Az 5. § (3) bekezdése a 3. § (4) bekezdése alapján 2016. január 1-jén lép hatályba.
