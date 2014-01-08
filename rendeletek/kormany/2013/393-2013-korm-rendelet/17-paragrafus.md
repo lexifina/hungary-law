@@ -1,5 +1,3 @@
-## igazolja.
-
 ## 3. Minőségcélok meghatározása, külső értékelés
 
 17. § (1) A felnőttképzési tevékenység folytatására irányuló engedély kiadása iránti kérelem benyújtása esetén a kérelmezőnek – a (3) bekezdésben foglalt eltéréssel – a minőségcélokat képzésenként és indokolással ellátva az alábbiak szerint kell meghatároznia:

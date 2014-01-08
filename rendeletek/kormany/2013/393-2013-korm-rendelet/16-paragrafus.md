@@ -48,6 +48,8 @@ cc) a magyar mint idegen nyelv oktatása esetén magyar mint idegen nyelv szakos
 
 ## rendelkező oktatók alkalmazása.
 
+(7a)[^5] Az Fktv. 1. § (2) bekezdés c) pontja szerinti képzési körbe tartozó képzés esetén – a (7) bekezdés c) pont ca) és cb) alpontjában foglaltaktól eltérően – a képzési program óraszámának maximum ötven százalékában anyanyelvi oktató alkalmazható, aki a tanulmányait a képzési program szerinti nyelven, azt hivatalos vagy kisebbségi nyelvként elismerő országban legalább tizenkét évfolyamon elvégezte és rendelkezik felsőfokú végzettséggel.
+
 (8) A (7) bekezdés a) pont ab) alpontjának alkalmazásában felnőttképzési szakmai gyakorlatnak minősül a felnőttképzést folytató intézménynél munkaviszonyban vagy munkaviszony jellegű egyéb jogviszonyban eltöltött idő, továbbá a közszolgálati tisztviselőkről szóló törvény hatálya alá tartozó munkáltatónál – felnőttképzési tevékenységgel összefüggő munkakör ellátására – létesített kormánytisztviselői, köztisztviselői jogviszony.
 
 (9) A felnőttképzést folytató intézmény a (7) bekezdés
@@ -57,3 +59,10 @@ a) a) pontjában a szakmai vezetőre előírt alkalmazási feltételt munkaszerz
 b) b) és c) pontjában az oktatóra előírt alkalmazási feltételt munkaszerződéssel, megbízási szerződéssel vagy az oktató alkalmazását bizonyító más szerződéssel és
 
 c) b) és c) pontja szerinti képesítési feltételt az oktató végzettségét bizonyító oklevéllel és a nyelvismeretét igazoló dokumentummal
+
+## igazolja.
+
+(10)[^6] A felnőttképzést folytató intézmény a (7a) bekezdés szerinti anyanyelvi oktató alkalmazásának a (7a) bekezdésben meghatározott feltételeit az anyanyelvi oktató tanulmányainak elvégzését és a felsőfokú végzettségét bizonyító dokumentummal igazolja.
+
+[^5]: A 16. § (7a) bekezdését az 562/2013. (XII. 31.) Korm. rendelet 11. § (1) bekezdése iktatta be.
+[^6]: A 16. § (10) bekezdését az 562/2013. (XII. 31.) Korm. rendelet 11. § (2) bekezdése iktatta be.
