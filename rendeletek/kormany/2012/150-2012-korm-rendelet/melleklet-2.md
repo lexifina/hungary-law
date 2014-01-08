@@ -676,7 +676,7 @@
 
 | 336 | 55 | 850 | 03 | Nukleáris környezetvédelmi szaktechnikus | 14 | XXIII | 0,5 év | 240-360 óra | N, E, L, TK | környezetvédelemért és vízgazdálkodásért felelős miniszter |
 
-| 337 | 35 | 542 | 02 | Szíjgyártó és nyerges | 10 | XVII | - | 320-480 óra | TK | szakképzésért és felnőttképzésért felelős miniszter |
+| 337 | 35 | 542 | 02 | Szíjgyártóés nyerges | 10 | XVII | - | 320-480 óra | TK | szakképzésért és felnőttképzésért felelős miniszter |
 
 | 338 | 52 | 345 | 03 | Nyilvántartási és okmányügyintéző | 22 | XXV | - | 640-960 óra | TK | közigazgatás-fejlesztésért felelős miniszter |
 
@@ -756,7 +756,7 @@
 
 | 376 | 52 | 213 | 02 | Rendezvénytechnikus | 4 | VI | - | 480-720 óra | TK | kultúráért felelős miniszter |
 
-| 377 | 54 | 861 | 01 | Rendőr tiszthelyettes (a szakmairány megjelölésével) | 22 | XXVIII. | 2 év | 1800-2500 óra | N, E, TK | rendészetért felelős miniszter |
+| 377 | 54 | 861 | 01 | Rendőr tiszthelyettes (a szakmairány megjelölésével) | 22 | XXXVIII. | 2 év | 1800-2500 óra | N, E, TK | rendészetért felelős miniszter |
 
 | 378 | 55 | 861 | 07 | Rendőr zászlós | 22 | - | - | 400-600 óra | TK | rendészetért felelős miniszter |
 
@@ -985,6 +985,8 @@
 | 490 | 32 | 720 | 01 | Egészségfejlesztési segítő | 1 | I | - | 480-720 óra | TK | egészségügyért felelős miniszter |
 
 | 491 | 32 | 815 | 01 | Kézápoló és műkörömépítő | 19 | XXX | - | 350-520 óra | TK | szakképzésért és felnőttképzésért felelős miniszter |
+
+| 492 | 34 | 544 | 01 | Vájár | 5 | VII | 3 év | 960-1440 óra | N, E, TK | szakképzésért és felnőttképzésért felelős miniszter |
 
 ## 2. táblázat: részszakképesítések
 

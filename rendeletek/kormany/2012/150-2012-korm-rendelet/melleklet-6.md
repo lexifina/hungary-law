@@ -80,7 +80,7 @@ Az államilag támogatott iskolai rendszerű oktatás tekintetében agrárágaza
 
 | 18 | 55 541 03 | Erjedés- és üdítőitalipari szaktechnikus |
 
-| 19 | 54 581 01 | Földmérő, földügyi és térinformatikai technikus |
+| 19 |  |  |
 
 | 20 | 34 621 01 | Gazda |
 
@@ -126,7 +126,7 @@ Az államilag támogatott iskolai rendszerű oktatás tekintetében agrárágaza
 
 | 41 | 55 541 08 | Tejipari szaktechnikus |
 
-| 42 | 55 581 01 | Térképész szaktechnikus |
+| 42 |  |  |
 
 | 43 | 55 581 02 | Vidékfejlesztési szaktechnikus |
 
@@ -136,4 +136,4 @@ Az államilag támogatott iskolai rendszerű oktatás tekintetében agrárágaza
 
 | 46 | 35 622 02 | Zöldség- és gyümölcstermesztő |
 
-[^12]: A 6. melléklet a 84/2013. (III. 21.) Korm. rendelet 3. § (5) bekezdése szerint módosított szöveg.
+[^12]: A 6. melléklet a 84/2013. (III. 21.) Korm. rendelet 3. § (5) bekezdése, az 562/2013. (XII. 31.) Korm. rendelet 8. §-a szerint módosított szöveg.
