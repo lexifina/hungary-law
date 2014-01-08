@@ -1,0 +1,1 @@
+## 5. § Az Szt. 82. § b) pontja szerint tett javaslat alapján megyénként és a fővárosra tekintettel meghatározott, a szakiskolai tanulmányi ösztöndíjról szóló kormányrendelet alapján ösztöndíjra jogosító hiány-szakképesítéseket az 5. melléklet tartalmazza.
