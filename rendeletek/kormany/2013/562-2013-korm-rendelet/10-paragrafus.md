@@ -1,3 +1,0 @@
-## 9. § A felnőttképzési tevékenység folytatásához szükséges engedélyezési eljárásra és követelményrendszerre, a felnőttképzést folytató intézmények nyilvántartásának vezetésére, valamint a felnőttképzést folytató intézmények ellenőrzésére vonatkozó részletes szabályokról szóló 393/2013. (XI. 12.) Korm. rendelet (a továbbiakban: R.) 2. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-## „(2) Az NMH-nak a felnőttképzési tevékenység folytatásához szükséges engedélyezési eljárásban, valamint a felnőttképzést folytató intézmények ellenőrzése során meghozott döntése ellen a szakképzésért és felnőttképzésért felelős miniszterhez lehet fellebbezést benyújtani.”

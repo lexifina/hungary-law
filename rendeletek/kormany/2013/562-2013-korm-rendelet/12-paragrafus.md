@@ -1,1 +1,0 @@
-## „(10) A felnőttképzést folytató intézmény a (7a) bekezdés szerinti anyanyelvi oktató alkalmazásának a (7a) bekezdésben meghatározott feltételeit az anyanyelvi oktató tanulmányainak elvégzését és a felsőfokú végzettségét bizonyító dokumentummal igazolja.”
