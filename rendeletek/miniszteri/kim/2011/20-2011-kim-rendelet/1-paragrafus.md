@@ -8,7 +8,7 @@ b) a jogszabály alapján Kormány, illetve miniszter irányítása vagy felügy
 
 c) a jogszabály alapján miniszter szakmai irányítása vagy felügyelete alá tartozó, illetve minisztérium vagyonkezelésében lévő, kizárólagos állami tulajdonú gazdasági társaságok;
 
-d)[^1] a Köztársasági Elnök Hivatala, az Országgyűlés Hivatala, az Alkotmánybíróság Hivatala, az Országgyűlési Biztos Hivatala, az Állami Számvevőszék, a Közbeszerzések Tanácsa, a Nemzeti Média- és Hírközlési Hatóság Hivatala, a Gazdasági Versenyhivatal, a Magyar Energetikai és Közmű-szabályozási Hivatal, az Állambiztonsági Szolgálatok Történeti Levéltára (a továbbiakban az a)–d) pontok együtt: üdültető szervek);
+d)[^2] a Köztársasági Elnöki Hivatal, az Országgyűlés Hivatala, az Alkotmánybíróság Hivatala, az Alapvető Jogok Biztosának Hivatala, az Állami Számvevőszék, a Közbeszerzési Hatóság, a Nemzeti Média- és Hírközlési Hatóság Hivatala, a Gazdasági Versenyhivatal, a Magyar Energetikai és Közmű-szabályozási Hivatal, az Állambiztonsági Szolgálatok Történeti Levéltára és az Országgyűlési Őrség [a továbbiakban az a)–d) pontok együtt: üdültető szervek];
 
 e) az üdültető szervekkel foglalkoztatásra irányuló jogviszonyban álló személyek, ideértve az üdültető szervektől és jogelődeiktől nyugdíjba vonult személyeket is (a továbbiakban együtt: igényjogosult);
 
@@ -22,4 +22,4 @@ b) gyermeke az (1) bekezdés f) pontja szerinti kiskorú és – a nappali rends
 
 esik egy tekintet alá.
 
-[^1]: Az 1. § (1) bekezdés d) pontja a 25/2013. (X. 14.) KIM rendelet 3. §-ával megállapított szöveg.
+[^2]: Az 1. § (1) bekezdés d) pontja az 1/2014. (I. 10.) KIM rendelet 1. §-ával megállapított szöveg.
