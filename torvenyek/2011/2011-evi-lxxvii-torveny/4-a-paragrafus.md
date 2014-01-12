@@ -2,4 +2,6 @@
 
 (2) Ha a kultúráért felelős miniszter a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény szerinti hatósági eljárásában megállapítja, hogy az állami vagyonelem használata vagy hasznosítása nem felel meg a 3. § (3)–(4) bekezdéseiben foglalt követelményeknek, közigazgatási hatósági határozatban kötelezi az állami vagyonelemet használó vagy hasznosító személyt, jogi személyt, illetve jogi személyiséggel nem rendelkező gazdálkodó szervezetet arra, hogy a vagyonelemet 30 napon belül az állam tulajdonosi jogait gyakorló szerv birtokába adja. A határozat jogerőssé válásával egyidejűleg az állami vagyonelem használatára illetve hasznosítására vonatkozó, a határozat jogerőssé válása időpontjában érvényes jogviszony a törvény erejénél fogva megszűnik. A kultúráért felelős miniszter a határozatában döntését a végrehajtás felfüggesztése iránti kérelemre tekintet nélkül végrehajthatónak nyilváníthatja.
 
+(2a) Ha a (2) bekezdés szerinti hatósági eljárás jelentős számú ügyfelet érint, akkor a hatóságként eljáró kultúráért felelős miniszter az ügyféllel hirdetményi úton is kapcsolatot tarthat.
+
 (3) A (2) bekezdés szerinti határozat végrehajtását az állam tulajdonosi jogait gyakorló szerv foganatosítja.
