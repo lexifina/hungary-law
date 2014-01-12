@@ -1,22 +1,32 @@
 2. melléket a 2001. évi LXIV. törvényhez
 
-Kiemelt nemzeti emlékhely
+I. Kiemelt nemzeti emlékhely
 
 |
 
 |
 
-Kiemelt nemzeti emlékhely
+|
 
-megnevezése
+A
 
 |
 
-cím
+B
 
 |
 
-helyrajzi szám
+|
+
+|
+
+A kiemelt nemzeti emlékhely megnevezése
+
+|
+
+A kiemelt nemzeti emlékhely lehatárolása
+
+|
 
 |
 
@@ -24,43 +34,51 @@ helyrajzi szám
 
 |
 
-Budapest, V. kerület, Kossuth Lajos tér
+Budapest V. kerület, Kossuth Lajos tér
 
 |
 
-Budapest, V. kerület, Kossuth Lajos tér
+A Kossuth Lajos tér
+
+és az Országház épülete
+
+cím: 1055 Budapest, Kossuth Lajos tér 1–3.
+
+a Néprajzi Múzeum épülete
+
+cím: 1055 Budapest, Kossuth Lajos tér 12.
+
+a Vidékfejlesztési Minisztérium épülete
+
+cím: 1055 Budapest, Kossuth Lajos tér 11.
+
+II. Nemzeti emlékhely
 
 |
 
-Országház épülete – Hrsz: 24894
-
-Kossuth Lajos tér – Hrsz: 24983
+|
 
 |
 
-Néprajzi Múzeum épülete – Hrsz: 24898
+A
 
 |
 
-Vidékfejlesztési Minisztérium épülete – Hrsz: 24891
-
-Nemzeti emlékhely
+B
 
 |
 
 |
 
-Nemzeti emlékhely
+|
 
-megnevezése
+A nemzeti emlékhely megnevezése
 
 |
 
-cím
+A nemzeti emlékhely lehatárolása
 
 |
-
-helyrajzi szám
 
 |
 
@@ -68,91 +86,31 @@ helyrajzi szám
 
 |
 
-Budapest, I. kerület, Várnegyed
+Budapest I. kerület, Várnegyed
 
 |
 
-A várfalon belüli összes közterület,
+A várfalon belüli közterületek közül a Szentháromság tér, a Dísz tér és a Szent György tér, valamint
 
-|
+a Budai Vár (Királyi Palota) épülete
 
-Budai Vár (Királyi Palota) – Hrsz: 6452/1; 6462; 6452/3
+cím: 1014 Budapest, Szent György tér 2.
 
-|
+a Sándor-palota épülete
 
-Budai Vár (Királyi Palota)
+cím: 1014 Budapest, Szent György tér 1.
 
-|
+a Mátyás-templom épülete cím:
 
-Sándor palota – Hrsz: 6457
+1014 Budapest, Szentháromság tér 2.
 
-|
+a volt József-kaszárnya épülete
 
-Budapest,
+cím: 1014 Budapest, Táncsics Mihály utca 9.
 
-|
+a Hadtörténeti Intézet és Múzeum épülete
 
-Mátyás templom – Hrsz: 6532
-
-|
-
-Szent György tér 2.
-
-|
-
-volt József kaszárnya – Hrsz: 6546
-
-|
-
-Sándor palota
-
-|
-
-Hadtörténeti Intézet és Múzeum – Hrsz: 6636
-
-|
-
-Budapest,
-
-|
-
-továbbá:
-
-|
-
-Szent György tér 1.
-
-Mátyás templom
-
-Budapest,
-
-Szentháromság tér 2.
-
-volt József kaszárnya
-
-Budapest,
-
-Táncsics Mihály utca 9.
-
-|
-
-Hrsz: (6632); (6622); (6638); (6634); (6611); (6551); (6563); (6554); (6564); (6593); (6548); (6542); (14210); (6469); (6691); (6493); (6592); (6682); (6652); (6531); (6588); (6539); (6533); (6513); (6493); (6469); (6675); (6498); (6503); (6508); (6478); (6514); (14339/3); (14362); (6464); (6461); (6430/1); (6456/1); (14363/1); (14369); (6351); (6350)
-
-|
-
-Hadtörténeti Intézet és Múzeum
-
-|
-
-|
-
-Budapest,
-
-|
-
-|
-
-Kapisztrán tér 2–4. Halászbástya
+cím: 1014 Budapest, Kapisztrán tér 2–4.
 
 |
 
@@ -162,17 +120,15 @@ Kapisztrán tér 2–4. Halászbástya
 
 |
 
-Budapest, VIII. kerület, Magyar Nemzeti Múzeum
+Budapest VIII. kerület, Fiumei úti temető
 
 |
 
-Budapest,
+A Fiumei úti temető, kivéve a Nemzeti Sírkert részévé nem nyilvánított temetési helyeket
 
-Múzeum krt. 14–16.
+cím: 1086 Budapest, Fiumei út 16.
 
 |
-
-Hrsz: 36560
 
 |
 
@@ -180,19 +136,15 @@ Hrsz: 36560
 
 |
 
-Budapest, Rákoskeresztúri Újköztemető, 298., 300. és 301. parcella
+Budapest VIII. kerület, Magyar Nemzeti Múzeum
 
 |
 
-Budapest,
+A Magyar Nemzeti Múzeum épülete és a Múzeumkert
 
-Kozma u. 8–10.
+cím: 1088 Budapest, Múzeum krt. 14–16.
 
 |
-
-A parcelláknak nincs külön helyrajzi száma.
-
-A temető – Hrsz: 42536/1; 42563/3
 
 |
 
@@ -200,21 +152,15 @@ A temető – Hrsz: 42536/1; 42563/3
 
 |
 
-Budapest, XIV. kerület, Hősök tere
+Budapest X. kerület, Rákoskeresztúri Újköztemető, 298., 300. és 301. parcella
 
 |
 
-Budapest, XIV. kerület, Hősök tere
+A parcellák, kivéve a Nemzeti Sírkert részévé nem nyilvánított temetési helyeket
+
+cím: 1108 Budapest, Kozma u. 8–10.
 
 |
-
-Hősök tere (egy helyrajzi szám a Városligettel):
-
-A (29732/1) helyrajzi számmal jelölt területnek az Állatkerti út tengelye, az Állatkerti körút tengelye,
-
-a Millenniumi emlékmű mögött vezető út tengelye, az Olof Palme sétány tengelye, valamint a
-
-Dózsa György út tengelye által lehatárolt része a nemzeti emlékhely.
 
 |
 
@@ -222,23 +168,15 @@ Dózsa György út tengelye által lehatárolt része a nemzeti emlékhely.
 
 |
 
-Debrecen,
-
-Református Nagytemplom és Kollégium
+Budapest XIV. kerület, Hősök tere
 
 |
 
-Nagytemplom: Debrecen, Piac u. 4–6.
+A tér közutak által körbefogott területe
 
-Kollégium:
-
-Debrecen, Kálvin tér 16.
+cím: 1146 Budapest, Hősök tere
 
 |
-
-Nagytemplom épülete: Hrsz: 8326
-
-Kollégium épülete – Hrsz: 8324
 
 |
 
@@ -246,17 +184,21 @@ Kollégium épülete – Hrsz: 8324
 
 |
 
-Mohács,
+Debrecen, Református Nagytemplom
 
-Történelmi Emlékhely
-
-|
-
-Mohács, Sátorhely-Mohács út mellett
+és Kollégium
 
 |
 
-Hrsz: 0266 (Sátorhely)
+A Református Nagytemplom épülete
+
+cím: 4026 Debrecen, Piac u. 4–6.
+
+a Debreceni Református Kollégium épülete
+
+cím: 4026 Debrecen, Kálvin tér 16.
+
+|
 
 |
 
@@ -264,19 +206,13 @@ Hrsz: 0266 (Sátorhely)
 
 |
 
-Ópusztaszer,
-
-Történelmi Emlékpark
+Mohácsi Nemzeti Emlékhely
 
 |
 
-Ópusztaszer,
-
-Szoborkert 68.
+cím: 7785 Sátorhely, Törökdomb
 
 |
-
-Hrsz: 055/4; 055/10; 055/11; 055/12; 055/12a
 
 |
 
@@ -284,17 +220,13 @@ Hrsz: 055/4; 055/10; 055/11; 055/12; 055/12a
 
 |
 
-Pákozdi
-
-Katonai Emlékhely
+Ópusztaszeri Nemzeti Történeti Emlékpark
 
 |
 
-Pákozd, Mészeg-hegy
+cím: 6767 Ópusztaszer, Szoborkert 68.
 
 |
-
-Hrsz: 087; 086/f.
 
 |
 
@@ -302,15 +234,13 @@ Hrsz: 087; 086/f.
 
 |
 
-Somogyvár-Kupavár
+Pannonhalma, Bencés Főapátság
 
 |
 
-Somogyvár 0149/1 hrsz; 0149/2 hrsz; 0150 hrsz; 0151 hrsz
+cím: 9090 Pannonhalma, Vár 1.
 
 |
-
-0149/1 hrsz; 0149/2 hrsz; 0150 hrsz; 0151 hrsz
 
 |
 
@@ -318,16 +248,40 @@ Somogyvár 0149/1 hrsz; 0149/2 hrsz; 0150 hrsz; 0151 hrsz
 
 |
 
+Katonai Emlékpark Pákozd
+
+|
+
+Katonai Emlékpark Pákozd
+
+cím: 8095 Mészeg-hegy
+
+|
+
+|
+
+11.
+
+|
+
+Somogyvár-Kupavár
+
+|
+
+Szent Egyed-bazilika és bencés apátság romjai
+
+cím: 8698 Somogyvár, Kupavár-hegy
+
+|
+
+|
+
+12.
+
+|
+
 Székesfehérvár, Romkert
 
 |
 
-Székesfehérvár, Koronázó tér
-
-|
-
-Épület – Hrsz: 399
-
-Romterület – Hrsz: 134
-
-Déli mellékhajó és kerengő: Hrsz: 282/4
+cím: 8000 Székesfehérvár, Koronázó tér

@@ -1,4 +1,12 @@
-44. § (1) Az állami tulajdonban álló műemlék bármely jogcímen való átruházásához, megterheléséhez, továbbá a vagyonkezelő kijelöléséhez vagy megváltoztatásához, illetve bármely jogügylethez, amelynek következtében az állam tulajdonjoga megszűnik a műemlék felett, a kultúráért felelős miniszter jóváhagyása szükséges.
+44. § (1) A kultúráért felelős miniszter jóváhagyása szükséges
+
+a) az állami tulajdonban álló műemlék bármely jogcímen való átruházásához és megterheléséhez,
+
+b) az állami tulajdonban álló műemlék vagyonkezelőjének kijelöléséhez vagy annak megváltoztatásához,
+
+c) vagyonkezelő hiányában az állami tulajdonban álló műemlék hasznosítására irányuló bármely jogügylethez, valamint
+
+d) bármely olyan jogügylethez, amelynek következtében az állam tulajdonjoga megszűnik a műemlék felett.
 
 (2) Jóváhagyás hiányában a jogügylet érvénytelen.
 

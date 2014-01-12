@@ -2,14 +2,14 @@
 
 47. § (1) A kulturális örökség – a 46. § hatálya alá nem tartozó – pótolhatatlan és kiemelkedő jelentőségű javait, gyűjteményeit, azok megőrzése érdekében a hatóság védetté nyilvánítja.
 
-(2) Nem lehet védetté nyilvánítani az
+(2) Nem lehet védetté nyilvánítani
 
-a) alkotójuk tulajdonában levő,
+a) az alkotójuk tulajdonában lévő,
 
-b) az országba visszaviteli kötelezettséggel behozott, valamint
+b) az országba visszaviteli kötelezettséggel behozott,
 
-c) az Ltv. 33. §-ának (2) bekezdésében felsorolt
+c) az Ltv. 33. § (2) bekezdésében meghatározott, valamint
 
-d) 50 évnél nem régebben az ország területére került, magyar kultúrtörténeti vonatkozással nem rendelkező
+d) a magyar kultúrtörténeti vonatkozással nem rendelkező, a tulajdonos (birtokos) által bizonyítottan 50 évnél nem régebben az ország területére került
 
 kulturális javakat.

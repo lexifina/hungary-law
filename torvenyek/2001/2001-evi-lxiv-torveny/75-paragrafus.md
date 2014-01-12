@@ -6,9 +6,9 @@
 
 (3) Az ügyintézési határidő:
 
-a) ha a hatóság kulturális javak védetté nyilvánításában jár el, három hónap;
+a) ha a hatóság kulturális javak védetté nyilvánításában vagy védettségének megszüntetésében jár el, három hónap;
 
-b) az előzetes nyilatkozat, valamint ha a hatóság műemlékhez kapcsolódó örökségvédelmi hatósági jogkörében jár el, két hónap;
+b)
 
 c)
 

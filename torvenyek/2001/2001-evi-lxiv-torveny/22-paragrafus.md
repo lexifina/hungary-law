@@ -14,7 +14,7 @@ c) teljes felületű feltárást kell előírni, ha a beruházással érintett l
 
 (4) A próbafeltárásra és a teljes felületű feltárásra vonatkozóan a feltárásra jogosult szerv és a beruházó írásbeli szerződést köt. A szerződés tartalmazza a feltárás időtartamát, a feltárásra jogosult szerv által végzendő régészeti szolgáltatás és a beruházó által végzendő kapcsolódó régészeti földmunka költségét, valamint a kormányrendeletben meghatározott egyéb szakmai feltételeket.
 
-(5) A (4) bekezdés szerinti szerződést a feltárásra jogosult szerv ajánlattételéhez szükséges – kormányrendeletben meghatározott – adattartalomnak a beruházó által történő rendelkezésre bocsátásától számított 30 napon belül kell megkötni. Ha a szerződés e határidőn belül – a feltárásra jogosult szervnek felróható okból – nem jön létre, a hatóság határozatban jelöli ki a feltárást elvégző szervet.
+(5) A (4) bekezdés szerinti szerződést a feltárásra jogosult szerv ajánlattételéhez szükséges – kormányrendeletben meghatározott – adattartalomnak a beruházó által történő rendelkezésre bocsátásától számított 15 napon belül kell megkötni. Ha a szerződés e határidőn belül – a feltárásra jogosult szervnek felróható okból – nem jön létre, a hatóság határozatban jelöli ki a feltárást elvégző szervet.
 
 (6) A hatóság az (5) bekezdés szerinti kijelöléssel egyidejűleg hivatalból lefolytatja a feltárás engedélyezési eljárását is.
 

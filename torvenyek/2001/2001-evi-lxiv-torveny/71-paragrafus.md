@@ -12,16 +12,28 @@ d) a műemlékek, műemléki jelentőségű területek, műemléki környezetek 
 
 központi, közhiteles nyilvántartását, amely tartalmazza az a)–d) pontokban meghatározottakkal összefüggő, az örökségvédelem szempontjából fontos adatokat.
 
-(2) A kultúráért felelős miniszter szakmai irányítása alatt álló hatóság központi nyilvántartást vezet:
+(2) A kultúráért felelős miniszter szakmai irányítása alatt álló hatóság központi nyilvántartást vezet
 
 a) a védetté nyilvánított kulturális javakról,
 
 b) a kiviteli engedélyekről és igazolásokról,
 
-c) a jogtalanul eltulajdonított, eltűnt védett kulturális örökségi elemekről, valamint a jogellenesen kivitt kulturális javak visszaszolgáltatásáról szóló 2001. évi LXXX. törvény 2. § 1. pontjában meghatározott kulturális javakról,
+c) a Magyarország területén jogellenesen eltulajdonított, valamint a Magyarországról jogtalanul kivitt vagy ilyen módon behozott kulturális javakról,
 
-d) jogszabályban meghatározott egyéb adatokról, valamint
+d) a jogellenesen kivitt kulturális javak visszaszolgáltatásáról szóló 2001. évi LXXX. törvény 2. § 1. pontjában meghatározott kulturális javakról,
 
-e) az a)–d) pontokban meghatározottakkal összefüggő, a kulturális örökség szempontjából fontos adatokról,
+e) a kölcsönzött kulturális javak különleges védelméről szóló tanúsítványokról,
 
-f) az ideiglenesen védetté nyilvánított kulturális javakról.
+f) az ideiglenesen védetté nyilvánított kulturális javakról,
+
+g) a nemzeti érdekű nyilvános gyűjteményekről,
+
+h) a közérdekű kulturális értékekről,
+
+i) azokról a kulturális javakról, amelyek védettségét megszüntették,
+
+j) a védetté nyilvánításra javasolt kulturális javakról,
+
+k) a 64. § d) pontja szerint a kulturális javak körébe sorolt kulturális javakról, valamint
+
+l) jogszabályban meghatározott egyéb adatokról.

@@ -10,7 +10,7 @@ soron kívül legfeljebb egyéves időtartamra ideiglenes védelem alá helyezhe
 
 (2) Az ideiglenes védelem kormányrendeletben meghatározott feltételek mellett indokolt esetben egyszer és legfeljebb további egy évre meghosszabbítható.
 
-(3) Az ideiglenes védelem alatt álló ingatlanokra – a 44. § (1) bekezdésének b) pontja és a 67. § (1) bekezdésének a) és b) pontjai, valamint a 68. § kivételével – a műemlékekre vonatkozó rendelkezéseket kell alkalmazni.
+(3) Az ideiglenes védelem alatt álló ingatlanokra – a 67. § (1) bekezdésének a) és b) pontjai, valamint a 68. § kivételével – a műemlékekre vonatkozó rendelkezéseket kell alkalmazni.
 
 (4) Az ideiglenes védelem megszűnik a határozatban megjelölt időtartam elteltével, illetve a védetté nyilvánításról szóló rendelet hatálybalépésével.
 

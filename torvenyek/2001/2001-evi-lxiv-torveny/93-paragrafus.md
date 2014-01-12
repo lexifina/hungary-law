@@ -10,7 +10,7 @@ c) szabályozza a kulturális örökség hozzáférhetővé tételének szabály
 
 d) állapítsa meg az örökségvédelmi hatástanulmányra vonatkozó szabályokat;
 
-e) szabályozza a Bizottság emlékhelyekkel kapcsolatos feladatait;
+e) szabályozza a Bizottság és a NÖRI emlékhelyekkel kapcsolatos feladatait;
 
 f) szabályozza a nemzeti emlékhelyek – köznapi, ünnepi, idegenforgalmi és protokolláris, a nemzeti emlékhely szellemével összhangban álló – használati rendjét;
 
@@ -92,7 +92,7 @@ a) kulturális javak védetté nyilvánítására és a védettség megszüntet�
 
 b) a kulturális javakkal kapcsolatos hatósági eljárás részletes szabályait,
 
-c) a kulturális javak hatósági nyilvántartásának szabályait és – az adópolitikáért felelős miniszterrel egyetértésben – az ezzel összefüggő igazgatási szolgáltatási díj mértékét és a fizetésre vonatkozó egyéb szabályokat,
+c) a kulturális javak nyilvántartásának szabályait és – az adópolitikáért felelős miniszterrel egyetértésben – az ezzel összefüggő igazgatási szolgáltatási díj mértékét és a fizetésre vonatkozó egyéb szabályokat,
 
 d) a könyvtárakban levő muzeális dokumentumok kezelésével és nyilvántartásával kapcsolatos külön szabályokat,
 
