@@ -1,4 +1,4 @@
-71. § (1) A kultúráért felelős miniszter által vezetett minisztérium fejezetéből kell támogatni a nyilvános könyvtári ellátási rendszer működtetésének alábbi feladatait:
+71. § (1) A miniszter által vezetett minisztérium fejezetéből kell támogatni a nyilvános könyvtári ellátási rendszer működtetésének alábbi feladatait:
 
 a) a 60. §-ban felsorolt szolgáltatásokban való részvétel,
 

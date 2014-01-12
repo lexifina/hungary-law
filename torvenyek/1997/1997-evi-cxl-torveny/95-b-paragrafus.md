@@ -2,9 +2,35 @@
 
 (6)–(8)
 
-(9) Az országos és a megyei hatókörű muzeális intézmény, valamint országos vagy megyei könyvtár közgyűjtemény az éves munkatervét gyűjteményfejlesztéssel, gyűjteményfeltárással, kutatással, műtárgyvédelemmel, szolgáltatással, bemutatással kapcsolatos szakmai mutatók alapján készíti el.
+(9) A múzeum éves munkatervét
 
-(10)
+a) a szolgáltatási feladatokkal,
+
+b) a kiállítási tevékenységgel,
+
+c) a gyűjtemények gyarapításával és nyilvántartásával,
+
+d) a tudományos kutatással és
+
+e) a műtárgyvédelemmel
+
+kapcsolatos szakmai mutatók alapján készíti el.
+
+(10) Az országos szakkönyvtár és a megyei könyvtár éves munkatervét
+
+a) a szolgáltatási feladatokkal,
+
+b) a gyűjteményfejlesztéssel,
+
+c) a gyűjteményfeltárással,
+
+d) a tudományos kutatással,
+
+e) a rendezvénnyel, kiállítással és
+
+f) az állományvédelemmel
+
+kapcsolatos szakmai mutatók alapján készíti el.
 
 (11) A miniszter
 

@@ -8,9 +8,11 @@ aa) a muzeális intézmények működésének szakmai szabályait,
 
 ab) a szakfelügyelet rendjét,
 
-ac) a muzeális intézményi alkalmazottak képesítési feltételeit,
+ac) a muzeális intézményekben alkalmazottak képesítési feltételeit,
 
 ad) a muzeális intézmények éves munkatervéhez szükséges kiemelt szakmai mutatókat,
+
+ae) a muzeális intézmények nyilvántartásában szereplő kulturális javak revíziójával és selejtezésével összefüggő kérdéseket,
 
 b) gondoskodik:
 

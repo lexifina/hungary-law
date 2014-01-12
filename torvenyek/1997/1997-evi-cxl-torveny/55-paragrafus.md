@@ -18,6 +18,8 @@ h) segíti az oktatásban, képzésben részt vevők információellátását, a
 
 i) kulturális, közösségi, közművelődési rendezvényeket és egyéb programokat szervez,
 
-j) tudás-, információ- és kultúraközvetítő tevékenységével hozzájárul az életminőség javításához, az ország versenyképességének növeléséhez.
+j) tudás-, információ- és kultúraközvetítő tevékenységével hozzájárul az életminőség javításához, az ország versenyképességének növeléséhez,
+
+k) a szolgáltatásait a könyvtári minőségirányítás szempontjait figyelembe véve szervezi.
 
 (2) A fenntartó kiegészítő feladatokat is meghatározhat.

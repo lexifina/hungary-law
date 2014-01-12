@@ -28,7 +28,7 @@ cd) a kutatási tevékenység biztosítása .
 
 (3) A múzeum kifejezés csak a múzeum besorolású muzeális intézmény működési engedélyén feltüntetett elnevezésben szerepelhet.
 
-(4) Az állam és a települési önkormányzat fenntartásában működő múzeum:
+(4) A múzeum:
 
 a) szabad kapacitásai terhére kiállítások megrendezésével, kulturális javak kölcsönzésével, valamint tudományos, állományvédelmi és közönségkapcsolati tevékenységgel kapcsolatos szolgáltatást nyújthat,
 

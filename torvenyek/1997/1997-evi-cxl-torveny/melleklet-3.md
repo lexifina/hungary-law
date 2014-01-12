@@ -4,7 +4,7 @@ Országos szakkönyvtár:
 
 a) a Budapesti Műszaki Egyetem Országos Műszaki Információs Központ és Könyvtár,
 
-b) az Országos Egészségpolitikai Szakkönyvtár,
+b) az Országos Egészségtudományi Szakkönyvtár,
 
 c) a Magyar Tudományos Akadémia Könyvtára,
 

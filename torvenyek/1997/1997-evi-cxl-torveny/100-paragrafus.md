@@ -2,7 +2,7 @@
 
 100. § (1) Felhatalmazást kap a Kormány, hogy a törvény végrehajtásaként rendeletben szabályozza
 
-a) a könyvtári intézet vagy intézetek, a muzeális intézményeket nyilvántartó hatóság vagy hatóságok, valamint a közművelődési szakmai szolgálató szerv vagy szervek kijelölését,
+a) a könyvtári intézet, valamint a közművelődési szakmai szolgáltató szerv vagy szervek kijelölését,
 
 b) a muzeális intézmények látogatóit és a könyvtárhasználókat megillető kedvezményeket,
 
@@ -34,7 +34,7 @@ m) az állami vagy helyi önkormányzati fenntartású közgyűjteményekben őr
 
 a) a közművelődési intézmények és szervezetek, a könyvtárak és könyvtári tevékenységet folytató szervezetek, a muzeális intézmények és a levéltárak minősítési eljárását, a szakmai minősítő testület létrehozását és működését, a minősítési eljárásban szakértőként való közreműködés feltételeit, a minősítési eljárás során kiadható minősítést és a minőségi díjat, a minősítési eljárásért fizetendő díjra vonatkozó szabályokat és a befolyt összeg felhasználásának szabályait,
 
-b) a közgyűjtemények éves munkatervéhez szükséges, gyűjteményfejlesztéssel, gyűjteményfeltárással, kutatással, műtárgyvédelemmel, szolgáltatással, bemutatással kapcsolatos kiemelt szakmai mutatókat,
+b) a múzeum, valamint az országos szakkönyvtár és a megyei könyvtár éves munkatervéhez szükséges szakmai mutatókat,
 
 c) a közművelődési intézmények működésének szakmai, személyi és infrastrukturális feltételeit,
 
@@ -68,7 +68,7 @@ q) a beiratkozási díjra és a könytári szolgáltatások térítési díjára
 
 r) az e törvény szerinti szakértői tevékenység folytatásának részletes feltételeit, a szakértői tevékenység bejelentésének és a szakértők nyilvántartásának személyes adatot nem tartalmazó adattartalmát, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, a szakértők igénybevételének eseteit, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
 
-s) a könyvtári szakemberek képesítési feltételeit, illetőleg az e feltételek alóli felmentésre vonatkozó szabályokat, továbbá a könyvtári alkalmazottak kedvezményeit,
+s) a muzeális intézményben, a könyvtárban, valamint a közművelődési intézményben nem közalkalmazotti jogviszonyban foglalkoztatottak munkaköreinek betöltéséhez szükséges képesítési feltételeket,
 
 t) az összevont önkormányzati intézmények működését,
 
@@ -78,11 +78,11 @@ v) a közművelődési és közgyűjteményi feladatfinanszírozás és a közm�
 
 w) a közép- és felsőfokú közművelődési továbbképzés, a minősített szakmai továbbképzés és a szervezett képzés rendszerét és követelményeit,
 
-x) az egyes közművelődési munkakörök betöltéséhez szükséges képesítési feltételeket, illetőleg az e feltételek alóli felmentésre vonatkozó szabályokat,
+x) az országos múzeum, az országos szakmúzeum, a nemzeti könyvtár, az országos szakkönyvtár és az állami egyetem könyvtárának kiemelt feladatait, a kiemelt feladatok ellátásának rendjét, valamint a kiemelt feladatok végrehajtásával összefüggésben a muzeális intézmények és a nyilvános könyvtárak kötelezettségeit,
 
-y) a muzeális intézményekben foglalkoztatottak munkaköreinek betöltéséhez szükséges képesítési feltételeket, illetőleg az e feltételek alóli felmentésre vonatkozó szabályokat,
+y) a muzeális intézmény nyilvántartásában szereplő kulturális javak revíziójára és selejtezésére vonatkozó részletes szabályokat.
 
-z) az országos múzeumok, az országos szakmúzeumok, a nemzeti könyvtár és az országos szakkönyvtárak kiemelt feladatait.
+z)
 
 (4)
 

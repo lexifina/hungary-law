@@ -12,13 +12,15 @@ e) helyben nyújtott alapszolgáltatásai ingyenesek,
 
 f) statisztikai adatokat szolgáltat,
 
-g) ellátja az 55. § (1) bekezdésében felsorolt alapfeladatokat.
+g) ellátja az 55. § (1) bekezdésében felsorolt alapfeladatokat,
 
-(2) A nyilvános könyvtárakról a muzeális intézményeket nyilvántartó hatóság jegyzéket vezet.
+h) elnevezésében megjelenik a könyvtár kifejezés.
 
-(3) A fenntartónak az (1) bekezdésben foglaltak teljesítésére vonatkozó nyilatkozata és kérelme nélkül bekerülnek a nyilvános könyvtárak jegyzékébe: a nemzeti könyvtár, a helyi önkormányzatok által fenntartott települési könyvtárak, a megyei könyvtárak, a 3. számú melléklet szerinti országos szakkönyvtárak, illetőleg az állami egyetemek könyvtárai.
+(2) A nyilvános könyvtárakról a miniszter jegyzéket vezet.
 
-(4) A fenntartó az (1) bekezdésben foglaltak teljesítésével és az erről szóló nyilatkozat csatolásával kérheti a minisztertől könyvtárai felvételét a nyilvános könyvtárak jegyzékébe.
+(3) A nemzeti könyvtár, a helyi önkormányzatok által fenntartott települési könyvtár, a megyei könyvtár, a 3. számú melléklet szerinti országos szakkönyvtár, továbbá az állami egyetem könyvtára nyilvános könyvtár, amely a fenntartónak az (1) bekezdésben foglaltak teljesítésére vonatkozó nyilatkozata, valamint a nyilvános könyvtárak jegyzékének vezetéséről szóló kormányrendeletben meghatározott adatok benyújtásával kerül be a nyilvános könyvtárak jegyzékébe.
+
+(4) A (3) bekezdés hatálya alá nem tartozó könyvtár fenntartója az (1) bekezdésben foglaltak teljesítésével, valamint az erről szóló nyilatkozat és a jogszabályban meghatározott adatok benyújtásával kérheti a minisztertől a könyvtár felvételét a nyilvános könyvtárak jegyzékébe.
 
 (5) Az (1) bekezdésben felsorolt követelmények betartását a miniszter ellenőrzi. Ha a könyvtár nem felel meg az (1) bekezdésben foglalt követelmények valamelyikének, a miniszter elrendeli a hiány pótlását, aminek elmaradása esetén a könyvtárat törli a nyilvános könyvtárak jegyzékéből.
 

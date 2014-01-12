@@ -32,7 +32,7 @@ e) együttműködik a nevelési-oktatási intézményekkel és múzeumpedagógia
 
 f) elvégzi a kulturális javak múzeumpedagógiai célú feldolgozását, folyamatosan megújuló múzeumpedagógiai és múzeumandragógiai programkínálatot biztosít,
 
-g) az intézmény turisztikai vonzerejének felhasználásával, a látogatóknak nyújtandó szolgáltatásokkal helyi és országos szinten elősegíti a gazdaság élénkítését.
+g) turisztikai vonzerejének felhasználásával, a látogatóknak nyújtandó szolgáltatásokkal helyi és országos szinten elősegíti a gazdaság élénkítését.
 
 (5) A muzeális intézmény a kulturális javakhoz való hozzáférés feltételeit a működési engedélyében meghatározott szakmai besorolásnak megfelelő követelményszint szerint biztosítja.
 
