@@ -16,4 +16,6 @@ b) amelyek a melléklet szerinti kategóriák valamelyikébe tartoznak vagy egyi
 
 5. kérelmezett állam: az a tagállam, amelynek területén egy másik tagállam területéről jogellenesen kivitt kulturális javak megtalálhatóak;
 
-6. visszaszolgáltatás: a kulturális javak visszaszállítása a kérelmező állam területére.
+6. visszaszolgáltatás: a kulturális javak visszaszállítása a kérelmező állam területére;
+
+7. művészeti, történelmi vagy régészeti értéket képviselő nemzeti kincs: védett kulturális javak, valamint a régészeti leletek és a műemlékek műemléki értékkel rendelkező alkotórészei, tartozékai és berendezési tárgyai.
