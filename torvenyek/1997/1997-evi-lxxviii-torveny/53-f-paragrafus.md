@@ -1,4 +1,4 @@
-53/F. § (1) 300 m2-nél nagyobb alapterületű kereskedelmi építmény nem létesíthető vagy ezt meghaladó méretre nem bővíthető.
+53/F. § (1) 300 m2-nél nagyobb bruttó alapterületű kereskedelmi építmény nem létesíthető – ideértve a kereskedelmi építmény kialakítása érdekében az építmény engedélyköteles átalakítását is –, vagy ezt meghaladó méretre nem bővíthető.
 
 (2) Az (1) bekezdésben foglalt tilalom alól a kereskedelemért, a környezetvédelemért és a vidékfejlesztésért felelős miniszterek részvételével működtetett Bizottság véleményének kikérésével a kereskedelemért felelős miniszter felmentést adhat.
 
