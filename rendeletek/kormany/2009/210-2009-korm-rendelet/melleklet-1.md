@@ -44,6 +44,8 @@ I.
 
 6.8. a 25. § (4) bekezdés szerinti esetben a vásárlók könyve nyomtatvány azonosító adatai és használatba vételének időpontja;
 
+6.9.[^49] napi fogyasztási cikket értékesítő üzlet esetén az árusítótér nettó alapterülete, az üzlethez létesített gépjármű-várakozóhelyek száma, azok telekhatártól mért távolsága és elhelyezése (saját telken vagy más telken parkolóban, parkolóházban vagy közterületek közlekedésre szánt területe egy részén, illetve a közforgalom céljára átadott magánút egy részén);
+
 7. az egyes kereskedelmi formák és helyek szerinti bontásban a forgalmazni kívánt
 
 7.1. termékek megnevezése és sorszáma a 6. melléklet alapján, illetve ebből
@@ -134,3 +136,4 @@ III.
 
 [^47]: Az 1. melléklet A) cím I. alcím 4. pont 4.4. alpontját az 524/2013. (XII. 30.) Korm. rendelet 6. § (1) bekezdése iktatta be.
 [^48]: Az 1. melléklet A) cím I. alcím 4a. pontját az 524/2013. (XII. 30.) Korm. rendelet 6. § (1) bekezdése iktatta be.
+[^49]: Az 1. melléklet A) cím I. alcím 6. pont 6.9. alpontját az 524/2013. (XII. 30.) Korm. rendelet 7. § (1) bekezdése iktatta be.
