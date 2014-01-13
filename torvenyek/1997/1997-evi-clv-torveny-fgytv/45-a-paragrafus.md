@@ -2,7 +2,19 @@
 
 ## A fogyasztóvédelmi hatóság eljárása
 
-45/A. § (1) A fogyasztóvédelmi hatóság ellenőrzi az e törvényben és – a szerződés létrejöttére, érvényességére, joghatásaira és megszűnésére vonatkozó rendelkezések kivételével – a végrehajtására kiadott jogszabályokban foglalt rendelkezések betartását, és eljár azok megsértése esetén.
+45/A. § (1) A fogyasztóvédelmi hatóság ellenőrzi – a szerződés létrejöttére, érvényességére, joghatásaira és megszűnésére vonatkozó rendelkezések kivételével –
+
+a) a forgalmazással, szolgáltatásnyújtással,
+
+b) a gyermek- és fiatalkorúak védelmével,
+
+c) a fogyasztói csoporttal,
+
+d) a panaszkezeléssel, ügyfélszolgálattal, fogyasztóvédelmi referens foglalkoztatásával, valamint
+
+e) a vállalkozás válaszirat küldésére vonatkozó – békéltető testületi eljárásban fennálló – kötelezettségével
+
+összefüggő, e törvényben és a végrehajtására kiadott jogszabályokban foglalt rendelkezések betartását, és eljár azok megsértése esetén.
 
 (2) A fogyasztóvédelmi hatóság ellenőrzi a külön jogszabályban fogyasztóvédelmi rendelkezésként meghatározott rendelkezések betartását, és – ha a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló törvény eltérően nem rendelkezik – eljár azok megsértése esetén.
 

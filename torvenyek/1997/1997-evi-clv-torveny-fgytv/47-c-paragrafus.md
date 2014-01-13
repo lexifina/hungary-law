@@ -1,6 +1,6 @@
 47/C. § (1) A bírság összege 15 ezer forinttól
 
-a) a számvitelről szóló 2000. évi C. törvény (a továbbiakban: Szt.) hatálya alá tartozó, 100 millió forintot meghaladó éves nettó árbevétellel rendelkező, a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvény hatálya alá nem tartozó vállalkozás esetében a vállalkozás éves nettó árbevételének 5%-áig, de legfeljebb 100 millió forintig, illetve a fogyasztók széles körének testi épségét, egészségét sértő vagy veszélyeztető, továbbá a fogyasztók széles körének jelentős vagyoni hátrányt okozó jogsértés esetén legfeljebb 2 milliárd forintig,
+a) az Szt. hatálya alá tartozó, 100 millió forintot meghaladó éves nettó árbevétellel rendelkező, a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvény hatálya alá nem tartozó vállalkozás esetében a vállalkozás éves nettó árbevételének 5%-áig, de legfeljebb 500 millió forintig, illetve a fogyasztók széles körének testi épségét, egészségét sértő vagy veszélyeztető, továbbá a fogyasztók széles körének jelentős vagyoni hátrányt okozó jogsértés esetén legfeljebb 2 milliárd forintig,
 
 b) az a) pont hatálya alá nem tartozó vállalkozás esetében 500 ezer forintig, illetve a fogyasztók széles körének testi épségét, egészségét sértő vagy veszélyeztető, továbbá a fogyasztók széles körének jelentős vagyoni hátrányt okozó jogsértés esetén a vállalkozás éves nettó árbevételének 5%-áig, az Szt. hatálya alá nem tartozó vállalkozás esetén 5 millió forintig
 
@@ -30,6 +30,8 @@ bb) pénzügyi műveletek bevételeinek
 
 a) a fogyasztóvédelmi hatóságnak a jogsértést megállapító jogerős határozatában a vállalkozás számára előírt kötelezettség teljesítésére megállapított határnap elteltét, illetve határidő lejártát követő hat hónapon belül a vállalkozás – amennyiben a jogsértést telephelyen követték el, ugyanazon telephelyen – ugyanazon jogszabályi rendelkezést ismételten megsértette,
 
-b) a jogsértés a fogyasztók széles körét érinti, továbbá
+b) a jogsértés a fogyasztók széles körét érinti,
 
-c) a tizennyolcadik életévüket be nem töltött személyek védelmét célzó jogszabályi rendelkezés megsértésére került sor.
+c) a tizennyolcadik életévüket be nem töltött személyek védelmét célzó jogszabályi rendelkezés megsértésére került sor, továbbá
+
+d) a 45/A. § (1)–(3) bekezdésében meghatározott fogyasztóvédelmi rendelkezés megsértésére a fogyasztóknak koruk, hiszékenységük, szellemi vagy fizikai fogyatkozásuk miatt különösen kiszolgáltatott, egyértelműen azonosítható csoportjához tartozó fogyasztóval szemben került sor.

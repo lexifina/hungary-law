@@ -27,3 +27,5 @@ b) a Bizottság 2007/76/EK határozata (2006. december 22.) a fogyasztóvédelmi
 c) a Bizottság 2008/282/EK határozata (2008. március 17.) a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló 2006/2004/EK európai parlamenti és tanácsi rendeletnek a kölcsönös jogsegély vonatkozásában való végrehajtásáról szóló 2007/76/EK határozat módosításáról [a 43/A. § (4) bek.].
 
 (3)
+
+(4) A 19. § a fogyasztói jogviták online rendezéséről, valamint a 2006/2004/EK rendelet és a 2009/22/EK irányelv módosításáról szóló, 2013. május 21-i 524/2013/EU európai parlamenti és tanácsi rendelet 7. cikk (1) bekezdésének végrehajtásához szükséges rendelkezést állapít meg.

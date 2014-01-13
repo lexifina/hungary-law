@@ -36,6 +36,8 @@ i) fogyasztóvédelmi bírságot (a továbbiakban: bírság) szabhat ki.
 
 (9) A hatósági ellenőrzés, illetve a fogyasztóvédelmi hatóság eljárása során a vállalkozás köteles közölni a tevékenységével kapcsolatos – az ellenőrzés lefolytatásához, illetve az érdemi döntéshez szükséges – adatokat a nyilvános vagy valamely hatóság, bíróság vagy a Magyar Országos Közjegyzői Kamara jogszabállyal rendszeresített nyilvántartásában szereplő adatok kivételével. Ha a fogyasztóvédelmi hatóság felhívására a vállalkozás az adatokat nem közli, vagy valótlan adatot közöl, vele szemben eljárási bírság kiszabásának van helye.
 
+(9a) Az ügyfélszolgálati ügyintéző élőhangos bejelentkezésére vonatkozó, a 17/B. § (3) bekezdésében előírt kötelezettség ellenőrzése érdekében az az elektronikus hírközlési szolgáltató, akinek hálózatából a hívást kezdeményezték, a fogyasztóvédelmi hatóság felhívására köteles közölni a hívás kezdő időpontjára és időtartamára vonatkozó, általa kezelt adatokat.
+
 (10) A fogyasztóvédelmi hatóság – jegyzőkönyv felvétele mellett – jogosult minta és ellenminta vételére a termék, minőségének vagy összetételének vizsgálata céljából. A minta költségét is tartalmazó mintavételi költség, továbbá a laboratóriumi vagy az egyéb vizsgálatok költsége eljárási költség.
 
 (11) A (10) bekezdés szerinti eljárási költséget a jogsértésért felelős vállalkozás viseli, ha a minta az előírt követelményeknek nem felel meg.
