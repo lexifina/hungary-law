@@ -1,6 +1,8 @@
 2. § E törvény alkalmazásában:
 
-1. beszállító: aki a terméket, szolgáltatást kereskedelmi tevékenységet folytatónak forgalmazási céllal értékesíti;
+1. árusítótér: az üzleten belül a termék vásárlóknak történő bemutatására és értékesítésére szolgáló terület;
+
+1a. beszállító: aki a terméket, szolgáltatást kereskedelmi tevékenységet folytatónak forgalmazási céllal értékesíti;
 
 2. beszerzési szövetség: két vagy több vállalkozás által a beszerzési vagy értékesítési stratégiájuk érvényesítésére, beszerzési vagy értékesítési tevékenységük részének vagy egészének végzésére, koordinálására kötött megállapodás;
 
@@ -39,6 +41,10 @@
 17. mozgóbolt: kiskereskedelmi tevékenység folytatására kialakított jármű, illetve járműre szerelt vagy általa vontatott eszköz;
 
 18. nagykereskedelmi tevékenység: üzletszerű gazdasági tevékenység keretében termékek átalakítás (feldolgozás) nélküli továbbforgalmazása és az ezzel közvetlenül összefüggő raktározási, szállítási és egyéb kapcsolódó szolgáltatások nyújtása kereskedő, feldolgozó részére, ideértve a nagybani piaci tevékenységet, valamint a felvásárló tevékenységet is;
+
+18a. napi fogyasztási cikk: a vendéglátó tevékenység keretében értékesített termékek kivételével olyan, a lakosság napi szükségleteinek, igényeinek kielégítésére szolgáló élelmiszer, illatszer, drogériai termék, háztartási tisztítószer és vegyi áru, higiéniai papírtermék, amelyet a fogyasztó jellemzően legfeljebb egy éven belül elfogyaszt, elhasznál vagy lecserél;
+
+18b. napi fogyasztási cikket értékesítő üzlet: olyan üzlet, amely forgalmának döntő hányadát napi fogyasztási cikknek minősülő termékek árusítása teszi ki;
 
 19. piac: olyan épület, épületegyüttes vagy terület, ahol állandó vagy rendszeres jelleggel többen általában napi, esetenként heti rendszerességgel folytatnak kiskereskedelmi tevékenységet;
 

@@ -1,0 +1,1 @@
+5/A. § A napi fogyasztási cikket értékesítő új üzlet működését akkor kezdheti meg, ha biztosítja az országos településrendezési és építési követelményekről szóló kormányrendeletben az árusítótér nagysága alapján meghatározott számú személygépkocsi elhelyezésére szolgáló várakozóhelyet, és megfelel a járművek elhelyezésével kapcsolatos szabályoknak.
