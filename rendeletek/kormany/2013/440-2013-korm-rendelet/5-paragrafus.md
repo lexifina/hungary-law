@@ -1,3 +1,5 @@
+## 4. §[^6]
+
 ## 4. Záró rendelkezések
 
 5. § (1) Ez a rendelet – a (2)–(6) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
@@ -11,3 +13,5 @@
 (5) A 4. § (1) bekezdése 2019. január 1-jén lép hatályba.
 
 (6) A 4. § (2) bekezdése 2021. január 1-jén lép hatályba.
+
+[^6]: A 4. § a 262/2015. (IX. 14.) Korm. rendelet 11. §-a alapján nem lép hatályba.
