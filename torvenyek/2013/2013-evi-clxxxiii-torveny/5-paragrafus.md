@@ -1,3 +1,1 @@
-5. § Az Fgytv. a következő 19. §-sal egészül ki:
-
-„19. § A fővárosi kereskedelmi és iparkamara mellett működő békéltető testület látja el a fogyasztói jogviták online rendezéséről, valamint a 2006/2004/EK rendelet és a 2009/22/EK irányelv módosításáról szóló, 2013. május 21-i 524/2013/EU európai parlamenti és tanácsi rendelet szerinti tagállami online vitarendezési kapcsolattartó pont feladatait.”
+5–9. §
