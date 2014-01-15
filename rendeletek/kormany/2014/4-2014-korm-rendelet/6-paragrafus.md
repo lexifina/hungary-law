@@ -1,0 +1,3 @@
+6. § (1) A Kormány a Terrorelhárítási Központ vonatkozásában az elsőfokú közegészségügyi-járványügyi hatósági jogkör gyakorlójaként a büntetés-végrehajtás országos parancsnokát jelöli ki, aki hatósági jogkörét a büntetés-végrehajtási szervezet rendvédelmi tisztiorvosa útján látja el.
+
+(2) A Kormány az Információs Hivatal, az Alkotmányvédelmi Hivatal, a Nemzeti Védelmi Szolgálat és a Nemzetbiztonsági Szakszolgálat vonatkozásában az elsőfokú közegészségügyi-járványügyi hatósági jogkör gyakorlójaként a Terrorelhárítási Központ főigazgatóját jelöli ki, aki hatósági jogkörét a Terrorelhárítási Központ rendvédelmi tisztiorvosa útján látja el.

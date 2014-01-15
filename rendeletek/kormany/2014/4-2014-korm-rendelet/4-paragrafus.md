@@ -1,0 +1,3 @@
+4. § (1) A Kormány a büntetés-végrehajtási szervezet személyi állománya vonatkozásában az elsőfokú közegészségügyi-járványügyi hatósági jogkör gyakorlójaként a büntetés-végrehajtás országos parancsnokát jelöli ki, aki hatósági jogkörét a büntetés-végrehajtási szervezet rendvédelmi tisztiorvosa útján látja el.
+
+(2) A Kormány a Büntetés-végrehajtás Országos Parancsnoksága vonatkozásában az elsőfokú közegészségügyi-járványügyi hatósági jogkör gyakorlójaként a Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság (a továbbiakban: BM OKF) főigazgatóját jelöli ki, aki hatósági jogkörét a BM OKF rendvédelmi tisztiorvosa útján látja el.
