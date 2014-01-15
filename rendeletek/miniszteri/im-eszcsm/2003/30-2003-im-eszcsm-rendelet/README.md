@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-30-20-0
 | --- | --- | --- |
 | 2009-03-01 | 2003-30-20-06.4 | 30/2003. (VII. 18.) IM–ESZCSM együttes rendelet |
 | 2013-01-01 | 2003-30-20-06.5 | 71/2012. (XII. 14.) BM rendelet |
+| 2014-01-15 | 2003-30-20-06.6 | 1/2014. (I. 10.) BM rendelet |

@@ -1,8 +1,8 @@
-8. § (1)[^3] A bv. szervek tevékenységének közegészségügyi-járványügyi ellenőrzését – a 9. §-ban foglalt kivétellel – a megyei népegészségügyi szakigazgatási szerv végzi.
+8. § (1)[^4] A bv. szervek tevékenységének közegészségügyi-járványügyi ellenőrzését – a 9. §-ban foglalt kivétellel – a megyei népegészségügyi szakigazgatási szerv végzi.
 
-(2)[^4] Az első fokú eljárás a megyei népegészségügyi szakigazgatási szerv hatáskörébe tartozik.
+(2)[^5] Az első fokú eljárás a megyei népegészségügyi szakigazgatási szerv hatáskörébe tartozik.
 
-(3)[^5] A büntetés-végrehajtási szervezet keretében végzett közegészségügyi – járványügyi tevékenység szakmai felügyeletét az országos tisztifőorvos az Országos Tisztifőorvosi Hivatal (a továbbiakban: OTH) útján látja el. Az OTH
+(3)[^6] A büntetés-végrehajtási szervezet keretében végzett közegészségügyi – járványügyi tevékenység szakmai felügyeletét az országos tisztifőorvos az Országos Tisztifőorvosi Hivatal (a továbbiakban: OTH) útján látja el. Az OTH
 
 a) tájékoztatást, adatot, egyéb információt kérhet az Egészségügyi Főosztálytól a büntetés-végrehajtás közegészségügyi tevékenységéről,
 
@@ -24,9 +24,9 @@ b) a bv. intézetek orvosai
 
 ## közreműködnek.
 
-(5)[^6]
+(5)[^7]
 
-[^3]: A 8. § (1) bekezdése a 71/2012. (XII. 14.) BM rendelet 5. § (2) bekezdés d) pontja szerint módosított szöveg.
-[^4]: A 8. § (2) bekezdése a 71/2012. (XII. 14.) BM rendelet 5. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^5]: A 8. § (3) bekezdés nyitó szövegrésze a 71/2012. (XII. 14.) BM rendelet 5. § (1) bekezdésével megállapított, záró szövegrésze e módosító rendelet 5. § (2) bekezdés c) pontja szerint módosított szöveg.
-[^6]: A 8. § (5) bekezdését a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdésének 49. pontja hatályon kívül helyezte. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1. napját követően indult eljárásokban kell alkalmazni.
+[^4]: A 8. § (1) bekezdése a 71/2012. (XII. 14.) BM rendelet 5. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^5]: A 8. § (2) bekezdése a 71/2012. (XII. 14.) BM rendelet 5. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^6]: A 8. § (3) bekezdés nyitó szövegrésze a 71/2012. (XII. 14.) BM rendelet 5. § (1) bekezdésével megállapított, záró szövegrésze e módosító rendelet 5. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^7]: A 8. § (5) bekezdését a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdésének 49. pontja hatályon kívül helyezte. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1. napját követően indult eljárásokban kell alkalmazni.
