@@ -1,0 +1,27 @@
+## 7. A szakmai együttműködésekre irányadó szabályok
+
+10. § (1) A Rendvédelmi Közegészségügyi-Járványügyi Szolgálatban közreműködők feladataik ellátásában az Országos Tisztiorvosi Hivatallal, valamint az NSZSZ-szel szakmailag együttműködnek.
+
+(2) Az országos tisztifőorvos és a rendvédelmi tisztifőorvos, illetve a kormánymegbízott az e rendeletben nem szabályozott szakmai kérdésekről együttműködési megállapodást köt.
+
+(3) Az együttműködési megállapodás minimális tartalmát képezik:
+
+a) az együttműködés területei,
+
+b) a közös feladatok ellátásának rendje,
+
+c) a közegészségügyi-járványügyi feladatokat ellátó személy tevékenysége ellátásáról, annak körülményeiről nyújtandó tájékoztatás módja és tartalma,
+
+d) a kapcsolattartás módja, valamint
+
+e) az együttműködést segítő további rendelkezések.
+
+(4) Az együttműködési megállapodás megszűnik, ha
+
+a) azt határozott időre kötötték és az időtartam letelt, valamint az együttműködést nem hosszabbították meg,
+
+b) abban a felek közösen megállapodtak,
+
+c) azt az együttműködő fél felmondja, vagy
+
+d) az együttműködők valamelyike jogutód nélkül megszűnik.
