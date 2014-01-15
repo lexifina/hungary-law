@@ -12,7 +12,7 @@ c) szociális bentlakásos intézménybe felvételét várja.
 
 a) az (1) bekezdés a) pontja szerinti ok miatt részesül ellátásban, a 21. életévének, vagy ha speciális vagy különleges ellátási szükségletűként töltötte be nagykorúságát, 22. életévének,
 
-b) az (1) bekezdés b) pontja szerinti ok miatt részesül ellátásban, a 22. életévének, ha felsőoktatási intézménnyel áll hallgatói jogviszonyban, 25. életévének,
+b) az (1) bekezdés b) pontja szerinti ok miatt részesül ellátásban, a 24. életévének, ha felsőoktatási intézménnyel áll hallgatói jogviszonyban, 25. életévének,
 
 c) az (1) bekezdés c) pontja szerinti ok miatt részesül ellátásban, a felvétel időpontjáig, de legkésőbb 22. életévének
 
@@ -38,7 +38,7 @@ b) a nagykorúvá válásának időpontjában a rendelkezésére bocsátott kés
 
 a) az (1) bekezdés a) pontja szerinti ok miatt részesül ellátásban, az utógondozói ellátás elrendelése okának megszűnésével, de legkésőbb a fiatal felnőtt 21. életévének betöltésével, vagy ha speciális vagy különleges ellátási szükségletűként érte el nagykorúságát, a 22. életévének betöltésével,
 
-b) az (1) bekezdés b) pontja szerinti ok miatt részesül ellátásban, a tanulói, hallgatói vagy felnőttképzési jogviszony megszűnését követő 120. napon, de tanulói vagy felnőttképzési jogviszony fennállása esetén legkésőbb a 22., hallgatói jogviszony fennállása esetén legkésőbb a 25. életévének betöltésével,
+b) az (1) bekezdés b) pontja szerinti ok miatt részesül ellátásban, a tanulói, hallgatói vagy felnőttképzési jogviszony megszűnését követő 120. napon, de tanulói vagy felnőttképzési jogviszony fennállása esetén legkésőbb a 24., hallgatói jogviszony fennállása esetén legkésőbb a 25. életévének betöltésével,
 
 c) az (1) bekezdés c) pontja szerinti ok miatt részesül ellátásban, a szociális intézménybe való felvételével, de legkésőbb a 22. életévének betöltésével.
 
@@ -46,7 +46,7 @@ c) az (1) bekezdés c) pontja szerinti ok miatt részesül ellátásban, a szoci
 
 a) utógondozói ellátásának jogosultsági feltételei már nem állnak fenn,
 
-b) a nevelőszülőjével, utógondozójával, az utógondozói ellátást nyújtó intézmény munkatársával, illetve az intézményben ellátott társával szemben elfogadhatatlan, az együttélés szabályait súlyosan sértő magatartást tanúsít,
+b) a nevelőszülőjével, az utógondozói ellátást nyújtó intézmény munkatársával, illetve az intézményben ellátott társával szemben elfogadhatatlan, az együttélés szabályait súlyosan sértő magatartást tanúsít,
 
 c) a házirendet többször súlyosan megsérti,
 

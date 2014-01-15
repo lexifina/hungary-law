@@ -75,7 +75,3 @@ g) a külföldi alap-, közép- és felsőfokú szakképzés, valamint szakirán
 h) a módszertani feladatokat ellátó szerv feladataira vonatkozó részletes szabályokat,
 
 i) az örökbefogadás előtti tanácsadás és felkészítő tanfolyam részletes szabályait és az azokért fizetendő díjat,
-
-j) a gyermekvédelmi szakértői bizottság eljárásának részletes szabályait,
-
-k) a bölcsődében a nevelés-gondozás nélküli munkanapok számát, célját, időpontját, valamint az e napokon nyújtott ellátás tartalmát,

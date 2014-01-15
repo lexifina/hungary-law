@@ -28,6 +28,6 @@ f) otthonteremtést elősegítő hitelintézeti kölcsön egyösszegű törleszt
 
 g) indokolt esetben a tartósan beteg vagy fogyatékos fiatal felnőtt megfelelő ellátását biztosító, az Szt. hatálya alá tartozó bentlakásos szociális intézménybe fizetendő egyszeri hozzájárulásra.
 
-(6) Az otthonteremtési támogatás iránti kérelemben nyilatkozni kell a (2)–(4) bekezdésben meghatározott feltételekről, valamint arról, hogy a fiatal felnőtt az otthonteremtési támogatás felhasználása során az utógondozójával együttműködik.
+(6) Az otthonteremtési támogatás iránti kérelemben nyilatkozni kell a (2)–(4) bekezdésben meghatározott feltételekről, valamint arról, hogy a fiatal felnőtt az otthonteremtési támogatás felhasználása során az utógondozó intézménnyel együttműködik.
 
-(7) A gyámhatóság az otthonteremtési támogatás iránti kérelem megérkezését követő naptól számított tizenöt napon belül az utógondozás vagy utógondozói ellátás alatt nem álló fiatal felnőtt részére a lakcím szerinti területi gyermekvédelmi szakszolgálat utógondozóját rendeli ki. Az otthonteremtési támogatás céljának megvalósulásához az utógondozó a támogatással való elszámolásig segítséget nyújt.
+(7) A gyámhatóság az otthonteremtési támogatás iránti kérelem alapján az utógondozás vagy utógondozói ellátás alatt nem álló fiatal felnőtt részére elrendeli az utógondozást. Az otthonteremtési támogatás céljának megvalósulásához az utógondozást biztosító intézmény a támogatással való elszámolásig segítséget nyújt.

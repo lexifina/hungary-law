@@ -14,9 +14,9 @@ c) az otthonteremtési támogatás igénylésének, felhasználásának és elsz
 
 a) a gyermek tekintetében a lakóhelye szerinti gyermekjóléti szolgálat,
 
-b) a fiatal felnőtt tekintetében a befogadó szülői hálózatot működtető, a gyermekotthon, az utógondozó otthon vagy a külső férőhely működtetőjének
+b) a fiatal felnőtt tekintetében a nevelőszülői hálózatot működtető, a gyermekotthon, az utógondozó otthon vagy a külső férőhely működtetője
 
-utógondozója látja el.
+látja el.
 
 (3) A gyámhatóság elrendeli az utógondozást az otthonteremtési támogatás iránti kérelem előterjesztésekor, valamint meghosszabbítja az utógondozást az annak időtartama alatt nyújtott otthonteremtési támogatás elszámolásának időpontjáig.
 
@@ -36,4 +36,4 @@ a) egyéb gyermekvédelmi intézkedést rendeltek el,
 
 b) azt a fiatal felnőtt kéri, kivéve ha otthonteremtési támogatásban részesül,
 
-c) a fiatal felnőtt az utógondozóval önhibájából legalább három hónapja nem működik együtt.
+c) a fiatal felnőtt az utógondozó intézménnyel önhibájából legalább három hónapja nem működik együtt.
