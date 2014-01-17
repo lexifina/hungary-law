@@ -6,7 +6,11 @@
 
 (3) Az engedély iránti kérelemnek a következőket kell tartalmaznia:
 
-a) a szerelést végző eredeti vagy hiteles cégkivonatát, egyéni vállalkozó esetén a vállalkozói igazolvány hiteles másolatát vagy az arra irányuló kifejezett kérelmet, hogy azt a területi hatóság szerezze be,
+a)[^2] a szerelést végző
+
+aa) egyéni vállalkozó vállalkozói igazolványának hiteles másolatát vagy az arra irányuló kifejezett kérelmet, hogy azt a területi hatóság szerezze be vagy
+
+ab) cég cégkivonatát, amelyet a területi hatóság a cégnyilvántartásból elektronikus úton, közvetlenül kérdez le,
 
 b) nyilatkozatot arra vonatkozóan, hogy a tevékenységet szolgáltatásként vagy saját üzemeltetésű munkagépen, esetleg mindkét vonatkozásban végzi-e,
 
@@ -19,3 +23,4 @@ d) ha az ingatlan tulajdonosa és az üzemeltetője nem azonos, akkor a tulajdon
 (5) Az engedély nem mentesíti a munkáltatót a munkavédelemről szóló 1993. évi XCIII. törvény 21. §-ának (3) bekezdésében rögzített munkavédelmi szempontú előzetes vizsgálat kötelezettsége alól.
 
 [^1]: A 2. § a 27/2010. (XII. 31.) NGM rendelet 60. § (1) bekezdésével megállapított szöveg.
+[^2]: A 3. § (3) bekezdés a) pontja a 64/2013. (XII. 18.) NGM rendelet 9. §-ával megállapított szöveg.
