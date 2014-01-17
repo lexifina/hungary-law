@@ -1,1 +1,0 @@
-## Adatfeldolgozás, -elemzés és -értékelés
