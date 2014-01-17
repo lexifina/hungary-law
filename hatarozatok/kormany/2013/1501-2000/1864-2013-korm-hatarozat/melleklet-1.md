@@ -6,11 +6,11 @@
 
 ## Határidő: azonnal
 
-## Az elszámolás és visszatérítési kötelezettség tekintetében
+## Az elszámolás és visszatérítési kötelezettség tekintetében[^2]
 
 ## Felelős: Miniszterelnökséget vezető államtitkár
 
-## Határidő: 2013. december 31.
+## Határidő: 2014. június 30.
 
 1. melléklet az 1864/2013. (XI. 19.) Korm. határozathoz
 
@@ -61,3 +61,5 @@
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^2]: A határidő az 1003/2014. (I. 17.) Korm. határozat 2. pontja szerint módosított szöveg.
