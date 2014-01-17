@@ -1,12 +1,12 @@
-10. § (1)[^73] A felügyelőség az érintett nyilvánosságtól, valamint a 12–15. §-ok szerint kapott, a környezeti hatás szempontjából lényeges észrevételeket a szakhatóságok bevonásával érdemben megvizsgálja. A felügyelőség határozatának indoklása tartalmazza az észrevételek értékelését és a nyilvánosság bevonásának folyamatáról szóló információt. Az észrevételek értékelése magában foglalja az észrevételek ténybeli megítélését, szakterületi elemzését és a jogi következtetéseket.
+10. § (1)[^74] A felügyelőség az érintett nyilvánosságtól, valamint a 12–15. §-ok szerint kapott, a környezeti hatás szempontjából lényeges észrevételeket a szakhatóságok bevonásával érdemben megvizsgálja. A felügyelőség határozatának indoklása tartalmazza az észrevételek értékelését és a nyilvánosság bevonásának folyamatáról szóló információt. Az észrevételek értékelése magában foglalja az észrevételek ténybeli megítélését, szakterületi elemzését és a jogi következtetéseket.
 
-(2)[^74]
+(2)[^75]
 
-(3)[^75] A határozat nyilvánosságra hozatalára az 5. § (6) bekezdése az irányadó.
+(3)[^76] A határozat nyilvánosságra hozatalára az 5. § (6) bekezdése az irányadó.
 
 (4) A környezetvédelmi engedély megadásáról szóló határozatban az engedély feltételei között:
 
-a)[^76] elő kell írni azokat az intézkedéseket, amelyek a káros környezeti hatások elkerülésére, csökkentésére és – ha lehetséges – megszüntetésére vonatkoznak, továbbá szükség szerint az 5. § (2) bekezdés c) pont cb) alpontjában foglaltakat;
+a)[^77] elő kell írni azokat az intézkedéseket, amelyek a káros környezeti hatások elkerülésére, csökkentésére és – ha lehetséges – megszüntetésére vonatkoznak, továbbá szükség szerint az 5. § (2) bekezdés c) pont cb) alpontjában foglaltakat;
 
 b) előírhatók:
 
@@ -22,7 +22,7 @@ bd) a tevékenység szüneteltetésének és felhagyásának feltételei, ideér
 
 (6) Olyan tevékenység esetén, amelynek megvalósításához nyomvonalas létesítmény telepítése szükséges, a tervezett nyomvonal egyes önállóan használható szakaszai önálló engedélyezés tárgyát képezik, amennyiben a nyomvonal környezet- és természetvédelmi követelményekkel összeegyeztethető továbbvezetése a benyújtott dokumentáció szerinti információk alapján valószínűsíthető.
 
-(6a)[^77] Olyan tevékenység esetén, amelynek megvalósításához nyomvonalas létesítmény telepítése szükséges, a hatásvizsgálatnak ki kell terjednie a nyomvonalas létesítmény, a kapcsolódó létesítmények, az összetartozó tevékenységek, valamint a nyomvonalas létesítmény által érintett egyéb létesítmények (különösen keresztező utak, közművek) hatásainak a vizsgálatára is.
+(6a)[^78] Olyan tevékenység esetén, amelynek megvalósításához nyomvonalas létesítmény telepítése szükséges, a hatásvizsgálatnak ki kell terjednie a nyomvonalas létesítmény, a kapcsolódó létesítmények, az összetartozó tevékenységek, valamint a nyomvonalas létesítmény által érintett egyéb létesítmények (különösen keresztező utak, közművek) hatásainak a vizsgálatára is.
 
 (7) A környezetvédelmi engedély megadására irányuló kérelmet el kell utasítani, ha a tervezett tevékenység gyakorlása akadályozná
 
@@ -30,16 +30,16 @@ a) a Nemzeti Környezetvédelmi Programban [Kvt. 40. §] meghatározott környez
 
 vagy
 
-b)[^78] Magyarország nemzetközi szerződésben vállalt környezet- vagy természetvédelmi kötelezettségeinek teljesítését.
+b)[^79] Magyarország nemzetközi szerződésben vállalt környezet- vagy természetvédelmi kötelezettségeinek teljesítését.
 
 (8) A felügyelőség a környezetvédelmi engedélyt – hivatalból vagy kérelemre – módosíthatja, ha az engedélyezéskor fennálló feltételek megváltozása a korábban kiadott engedély visszavonását nem teszi szükségessé.
 
-(9)[^79] A felügyelőség a környezetvédelmi engedély módosítására irányuló eljárása során a kijelölt szakhatóságok közül azokat keresi meg, amelyek hatáskörét a módosítás érinti.
+(9)[^80] A felügyelőség a környezetvédelmi engedély módosítására irányuló eljárása során a kijelölt szakhatóságok közül azokat keresi meg, amelyek hatáskörét a módosítás érinti.
 
-[^73]: A 10. § (1) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 29. pontja szerint módosított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
-[^74]: A 10. § (2) bekezdését a 371/2012. (XII. 17.) Korm. rendelet 16. § b) pontja hatályon kívül helyezte.
-[^75]: A 10. § (3) bekezdése a 371/2012. (XII. 17.) Korm. rendelet 17. § 5. pontja szerint módosított szöveg.
-[^76]: A 10. § (4) bekezdés a) pontja a 371/2012. (XII. 17.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^77]: A 10. § (6a) bekezdését a 371/2012. (XII. 17.) Korm. rendelet 7. § (2) bekezdése iktatta be.
-[^78]: A 10. § (7) bekezdés b) pontja a 322/2011. (XII. 27.) Korm. rendelet 8. §-a szerint módosított szöveg.
-[^79]: A 10. § (9) bekezdését a 371/2012. (XII. 17.) Korm. rendelet 7. § (3) bekezdése iktatta be.
+[^74]: A 10. § (1) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 29. pontja szerint módosított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^75]: A 10. § (2) bekezdését a 371/2012. (XII. 17.) Korm. rendelet 16. § b) pontja hatályon kívül helyezte.
+[^76]: A 10. § (3) bekezdése a 371/2012. (XII. 17.) Korm. rendelet 17. § 5. pontja szerint módosított szöveg.
+[^77]: A 10. § (4) bekezdés a) pontja a 371/2012. (XII. 17.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^78]: A 10. § (6a) bekezdését a 371/2012. (XII. 17.) Korm. rendelet 7. § (2) bekezdése iktatta be.
+[^79]: A 10. § (7) bekezdés b) pontja a 322/2011. (XII. 27.) Korm. rendelet 8. §-a szerint módosított szöveg.
+[^80]: A 10. § (9) bekezdését a 371/2012. (XII. 17.) Korm. rendelet 7. § (3) bekezdése iktatta be.

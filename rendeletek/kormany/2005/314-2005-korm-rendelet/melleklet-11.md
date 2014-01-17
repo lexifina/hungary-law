@@ -50,17 +50,17 @@
 
 ## 12. Az oxigén-háztartásra kedvezőtlenül ható anyagok (és amelyeket mérni lehet a BOI, KOI stb. jellemzőkkel).
 
-11. számú melléklet a 314/2005. (XII. 25.) Korm. rendelethez
+11. számú melléklet a 314/2005. (XII. 25.) Korm. rendelethez[^194]
 
 ## Az egységes környezethasználati engedély tartalmi követelményei
 
-Az engedélynek a 2004. évi CXL. törvény 72. § (1) bekezdésben foglaltakon kívül tartalmaznia kell különösen az alábbiakat:
+1. Az engedély a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 72. § (1) bekezdésében foglaltakon kívül tartalmazza:
 
-1. a) A jogosult ügyfél azonosító adatait (KÜJ számmal),
+a) a jogosult ügyfél azonosító adatait (KÜJ számmal),
 
-b) a telephely, létesítmény, tevékenység telepítési helyének jellemzői (KTJ számmal és létesítmény azonosító számmal),
+b) a telephely, létesítmény, tevékenység telepítési helyének jellemzőit (KTJ számmal és létesítmény azonosító számmal),
 
-c) a telephely helyrajzi számát, illetve a létesítmény szennyező forrásai egységes országos vetületi rendszer (EOV) koordinátáit,
+c) a telephely helyrajzi számát és a létesítmény szennyező forrásai egységes országos vetületi rendszer (EOV) koordinátáit,
 
 d) a tevékenység és a kapcsolódó tevékenységek megnevezését, TEÁOR és NOSE-P kódjait,
 
@@ -68,50 +68,52 @@ e) a tevékenység 2. melléklet szerinti besorolását,
 
 f) a kiépített termelési kapacitást.
 
-2. A felügyelőség
-
-a) az engedélyben kibocsátási határértéket állapít meg, különösen az 10. mellékletben felsorolt szennyező anyagokra, továbbá azon szennyező anyagokra, amelyekre külön jogszabály alapján határérték megállapítása kötelező,
-
-b) amennyiben valamely szennyező anyagra jogszabály kibocsátási határértéket állapít meg, az engedélyben csak a jogszabályban előírt vagy annál szigorúbb határértéket állapíthat meg,
-
-c) a kibocsátási határérték megállapításánál figyelembe veszi a szennyező anyagok azon természetét és azon képességét, hogy egyik környezeti elemből a másikba szennyezést közvetíthetnek,
-
-d) a kibocsátási határértékeket, illetve indokolt esetben az azzal egyenértékű környezetvédelmi és műszaki követelményeket az elérhető legjobb technika alapján meghatározza, figyelembe véve a létesítmény műszaki jellemzőit, annak földrajzi elhelyezkedését és a környezet jelenlegi és célállapotát,
-
-e) az engedélyben nem állapít meg kibocsátási határértéket a 272/2004. (IX. 29.) Korm. rendelet 1. számú mellékletében szereplő tevékenységek üvegházhatású gáz kibocsátásaira, amennyiben biztosított, hogy jelentős helyi szennyezés nem következik be.
+2. A felügyelőség az engedélyben kibocsátási határértéket állapít meg a 20. § (4)–(10) bekezdésben foglaltak alapján.
 
 3. Az engedélyben feltételeket kell előírni az egyes környezeti elemekre, valamint a hulladékokra vonatkozó külön jogszabályok szerint, különösen
 
-a) a levegő, a felszíni, illetve a felszín alatti vizek, a talaj védelmére, valamint a zajkibocsátás mérséklésére;
+a) a levegő, a felszíni és a felszín alatti vizek, a földtani közeg védelmére, valamint a zajkibocsátás mérséklésére;
 
-b) szükség esetén a létesítmény üzemeltetése során keletkezett hulladék hasznosítására, illetve ártalmatlanítására;
+b) a létesítmény üzemeltetése során keletkezett hulladék ellenőrzésére, hasznosítására, ártalmatlanítására;
 
 c) – amennyiben szükséges – a nagy távolságra jutó vagy országhatáron átterjedő szennyezés megelőzésére, illetve a lehető legkisebb értékre történő csökkentésére;
 
 d) amelyek biztosítják a 17. §-ban meghatározott követelmények teljesülését.
 
-4. A fentieken túlmenően, az engedély tartalmazza
+4. Az 1–3. pontban foglaltakon túl az engedély tartalmazza:
 
-a) a tevékenység környezetre gyakorolt hatásának figyelemmel kíséréséhez szükséges megfelelő mérés-ellenőrzési (monitoring) feltételeket, meghatározva a mérési módszert és gyakoriságot, az értékelési eljárást és a hatóságok részére történő kötelező adatszolgáltatás módját, tartalmát és gyakoriságát. Amennyiben a felügyelőség másképp nem rendelkezik, az engedélyes köteles évente legalább egyszer adatot szolgáltatni;
+a) a tevékenység környezetre gyakorolt hatásának figyelemmel kíséréséhez szükséges – a vonatkozó elérhető legjobb technika-következtetések megjelenését követően azokon alapuló – mérés-ellenőrzési (monitoring) feltételeket, meghatározva
 
-b) feltételeket a rendeltetésszerű üzemeltetéstől eltérő üzemi állapotok (pl. indítás, azonnali leállítás, üzemzavar és a tevékenység megszüntetése) esetén betartandó követelményekre;
+aa) a mérési módszert és gyakoriságot, valamint az értékelési eljárást, beleértve a kibocsátási határértékeknek való megfelelés értékelésének feltételeit,
 
-c) intézkedéseket, amelyek a rendkívüli, váratlan szennyezések megelőzéséhez, illetve annak bekövetkezése esetén, elhárításához szükségesek, valamint a hatóságok erről történő tájékoztatásának módját, tartalmát;
+ab) a 20. § (7) bekezdés b) pontjának alkalmazása esetén előírást arra vonatkozóan, hogy a kibocsátások ellenőrzésének eredményei ugyanazon időszakok és referenciafeltételek mellett álljanak rendelkezésre, mint amelyeket az elérhető legjobb technikákhoz kapcsolódó kibocsátási szintek esetében alkalmaztak;
 
-d) a 20. § (3) bekezdés esetében a külön jogszabályokban meghatározott engedélyek tartalmi követelményeit;
+b) a hatóságok részére történő kötelező adatszolgáltatás módját, tartalmát és gyakoriságát;
 
-e) biztosítékadási és céltartalék képzéssel kapcsolatos, külön jogszabályban meghatározott előírásokat;
+c) a követelményeket a földtani közegbe és a felszín alatti vizekbe történő kibocsátások 3. pont a) alpontja szerinti mérséklését célzó intézkedések rendszeres felülvizsgálatára vonatkozóan, valamint a földtani közegnek és a felszín alatti vizeknek a telephelyen valószínűsíthetően előforduló, az alapállapot-jelentés alapján meghatározott, valamint a tevékenységből származó veszélyes anyagokkal kapcsolatos monitoringjára vonatkozóan;
 
-f) amennyiben szükséges
+d) a feltételeket a rendeltetésszerű üzemeltetéstől eltérő üzemi állapotok (pl. indítás, azonnali és időszakos leállítás, üzemzavar, szivárgási hibák és a tevékenység megszüntetése) esetén betartandó követelményekre;
 
-fa) a próbaüzem időtartamát,
+e) az intézkedéseket, amelyek a rendkívüli, váratlan szennyezések megelőzéséhez, – azok bekövetkezése esetén – elhárításához szükségesek, valamint a hatóságok erről történő tájékoztatásának módját, tartalmát;
 
-fb) az előírt követelmények teljesítését biztosító intézkedési tervkészítési, végrehajtási kötelezettséget és a teljesítés határidejét,
+f) a 20. § (3) bekezdése esetében a külön jogszabályokban meghatározott engedélyek tartalmi követelményeit;
 
-fc) a környezeti vezetési rendszerekkel kapcsolatos előírásokat.
+g) a biztosítékadási és céltartalék képzéssel kapcsolatos, külön jogszabályban meghatározott előírásokat;
 
-5. Az elérhető legjobb technika alkalmazására vonatkozó rendelkezések
+h) amennyiben szükséges
 
-a) az engedélyben egyedileg meghatározott technika, illetve technológia használata nem írható elő;
+ha) a próbaüzem időtartamát,
 
-b) amennyiben az elérhető legjobb technika használata nem biztosítja a környezet célállapota által megkövetelt valamely igénybevételi, illetve szennyezettségi határérték betartását, akkor az engedélyben kiegészítő feltételt kell előírni, amely biztosítja az adott határérték betartását.
+hb) az előírt követelmények teljesítését biztosító intézkedési tervkészítési, végrehajtási kötelezettséget és a teljesítés határidejét,
+
+hc) a környezeti vezetési rendszerekkel kapcsolatos előírásokat;
+
+i) a 20. § (8) bekezdése alkalmazása esetében az értékelés eredményeit és az előírt feltételek indokolását;
+
+j) a 20/C. § (2) bekezdése alkalmazása esetén a kockázat megszüntetése érdekében előírt intézkedéseket;
+
+k) a 20. § (13) bekezdés alkalmazása esetén olyan kiegészítő feltételt, amely biztosítja az adott határérték betartását.
+
+5. Az elérhető legjobb technika alkalmazására vonatkozó rendelkezések, a vonatkozó elérhető legjobb technika referenciadokumentum megnevezésével.
+
+[^194]: A 11. melléklet a 480/2013. (XII. 17.) Korm. rendelet 11. § (4) bekezdésével megállapított szöveg.
