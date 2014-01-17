@@ -2,4 +2,4 @@
 
 1. melléklet a 63/2012. (VII. 2.) VM rendelethez[^17]
 
-[^17]: Az 1. melléklet a 87/2013. (X. 1.) VM rendelet 6. § (1) bekezdése szerint módosított szöveg.
+[^17]: Az 1. melléklet a 87/2013. (X. 1.) VM rendelet 6. § (1) bekezdése, a 126/2013. (XII. 17.) VM rendelet 18. §-a szerint módosított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 16. § (2) bekezdését.
