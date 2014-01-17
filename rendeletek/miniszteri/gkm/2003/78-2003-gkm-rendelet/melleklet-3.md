@@ -1,4 +1,4 @@
-3. számú melléklet a 78/2003. (XI. 27.) GKM rendelethez[^23]
+3. számú melléklet a 78/2003. (XI. 27.) GKM rendelethez[^26]
 
 ## A megfelelőségi tanúsítvány tartalmi követelményei
 
@@ -18,4 +18,4 @@
 
 8. A tanúsítvány hitelességét igazoló aláírások.
 
-[^23]: A 3. melléklet a 7/2012. (IV. 18.) NGM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^26]: A 3. melléklet a 7/2012. (IV. 18.) NGM rendelet 7. § (1) bekezdésével megállapított szöveg.
