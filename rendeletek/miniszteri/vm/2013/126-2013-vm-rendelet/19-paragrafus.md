@@ -1,0 +1,1 @@
+## 18. § A Nemzeti Élelmiszerlánc-biztonsági Hivatal, valamint a megyei kormányhivatalok mezőgazdasági szakigazgatási szervei előtt kezdeményezett eljárásokban fizetendő igazgatási szolgáltatási díjak mértékéről, valamint az igazgatási szolgáltatási díj fizetésének szabályairól szóló 63/2012. (VII. 2.) VM rendelet 1. melléklete a 10. melléklet szerint módosul.
