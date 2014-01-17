@@ -1,0 +1,1 @@
+## „(9) A felügyelőség a határozat meghozatalát követő öt napon belül a hivatalos honlapján is nyilvánosságra hozza az egységes környezethasználati engedély köteles tevékenyég megkezdéséről, módosításáról vagy felülvizsgálatáról szóló határozatát.”
