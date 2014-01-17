@@ -6,6 +6,7 @@
 
 ## 4.[^1]
 
-1. melléklet a 2057/2013. (XII. 31.) Korm. határozathoz
+1. melléklet a 2057/2013. (XII. 31.) Korm. határozathoz[^2]
 
 [^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) pontja alapján hatályát vesztette.
+[^2]: Az 1. melléklet az 1006/2014. (I. 17.) Korm. határozat 3. pontja szerint módosított szöveg.
