@@ -1,4 +1,4 @@
-1. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^154]
+1. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^153]
 
 NYILVÁNTARTÁSI LAP
 
@@ -48,4 +48,4 @@ Csatolt dokumentumok: száma ............ db
 
 felsorolása:
 
-[^154]: A Vhr. 1. számú melléklete a 70/2013. (VII. 31.) VM rendelet 40. § d) pontja szerint módosított szöveg.
+[^153]: A Vhr. 1. számú melléklete a 70/2013. (VII. 31.) VM rendelet 40. § d) pontja szerint módosított szöveg.

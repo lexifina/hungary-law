@@ -1,4 +1,4 @@
-2. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^155]
+2. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^154]
 
 A VADÁSZATI JOG GYAKORLÁSÁNAK, HASZNOSÍTÁSÁNAK MÓDJÁRÓL ÉS FELTÉTELEIRŐL SZÓLÓ MŰKÖDÉSI SZABÁLYZAT AZ ALÁBBI ADATOKAT TARTALMAZZA:
 
@@ -34,4 +34,4 @@ A működési szabályzatban nem szabályozott kérdésekben az érintettek a Po
 
 10. Dátum, képviselő és hitelesítők aláírása
 
-[^155]: A Vhr. 2. számú melléklete a 7/2010. (II. 2.) FVM rendelet 46. § (1) bekezdésével megállapított szöveg.
+[^154]: A Vhr. 2. számú melléklete a 7/2010. (II. 2.) FVM rendelet 46. § (1) bekezdésével megállapított szöveg.

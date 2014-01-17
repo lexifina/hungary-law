@@ -1,6 +1,6 @@
-## I.[^173]
+## I.[^172]
 
-## II.[^174]
+## II.[^173]
 
 ## TRÓFEA KIVITELI ENGEDÉLY
 
@@ -20,8 +20,8 @@
 
 | vadászati hatóság |
 
-19. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^175]
+19. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^174]
 
-[^173]: A Vhr. 18. számú melléklet I. részét a 63/2012. (VII. 2.) VM rendelet 13. § (1) bekezdés k) pontja hatályon kívül helyezte.
-[^174]: A Vhr. 18. számú melléklet II. része a 70/2013. (VII. 31.) VM rendelet 40. § j) pontja szerint módosított szöveg.
-[^175]: A Vhr. 19. számú melléklete az 56/2005. (VI. 25.) FVM rendelet 29. § (1) bekezdése, a 7/2010. (II. 2.) FVM rendelet 46. § (7) bekezdése szerint módosított szöveg.
+[^172]: A Vhr. 18. számú melléklet I. részét a 63/2012. (VII. 2.) VM rendelet 13. § (1) bekezdés k) pontja hatályon kívül helyezte.
+[^173]: A Vhr. 18. számú melléklet II. része a 70/2013. (VII. 31.) VM rendelet 40. § j) pontja szerint módosított szöveg.
+[^174]: A Vhr. 19. számú melléklete az 56/2005. (VI. 25.) FVM rendelet 29. § (1) bekezdése, a 7/2010. (II. 2.) FVM rendelet 46. § (7) bekezdése szerint módosított szöveg.
