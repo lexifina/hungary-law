@@ -124,7 +124,9 @@ b) felszín alatti víz mennyiségi állapotában okozott jelentősen kedvezőtl
 
 51.[^33] romló tendencia: az a változás, amely során a felszín alatti víz mennyiségi vagy minőségi állapota, hosszabb időszakot tekintve, folyamatosan romlik; ilyen tendenciának minősül a jelentős és tartósan emelkedő szennyezettségi tendencia, a hőmérséklet tartós csökkenése, vagy a statisztikailag és környezeti szempontból jelentős és tartósan süllyedő víznyomás, illetve vízszint;
 
-52.[^34] küszöbérték: a felszínalatti vizek minőségi állapotának értékelését szolgáló előírás, amelynek szennyező anyagokra, azok egy csoportjára, vagy szennyezési indikátorokra vonatkozó megállapítása a jelen rendelet 12. számú mellékletében szereplő útmutatás figyelembevételével történik.
+52.[^34] küszöbérték: a felszínalatti vizek minőségi állapotának értékelését szolgáló előírás, amelynek szennyező anyagokra, azok egy csoportjára, vagy szennyezési indikátorokra vonatkozó megállapítása a jelen rendelet 12. számú mellékletében szereplő útmutatás figyelembevételével történik;
+
+53.[^35] alapállapot-jelentés: a földtani közeg és a felszín alatti vizek veszélyes anyagok általi szennyeződésének mértékére vonatkozó információ.
 
 [^2]: A 3. § 1. pontja a 302/2008. (XII. 17.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^3]: A 3. § 2. pontja a 302/2008. (XII. 17.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
@@ -159,3 +161,4 @@ b) felszín alatti víz mennyiségi állapotában okozott jelentősen kedvezőtl
 [^32]: A 3. § 50. pontját a 302/2008. (XII. 17.) Korm. rendelet 1. § (5) bekezdése iktatta be.
 [^33]: A 3. § 51. pontját a 302/2008. (XII. 17.) Korm. rendelet 1. § (5) bekezdése iktatta be.
 [^34]: A 3. § 52. pontját a 302/2008. (XII. 17.) Korm. rendelet 1. § (5) bekezdése iktatta be.
+[^35]: A 3. § 53. pontját a 480/2013. (XII. 17.) Korm. rendelet 13. §-a iktatta be.

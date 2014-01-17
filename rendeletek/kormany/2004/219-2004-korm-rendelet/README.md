@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-219-20-
 | 2012-07-28 | 2004-219-20-22.20 | 300/2011. (XII. 22.) Korm. rendelet |
 | 2013-01-01 | 2004-219-20-22.21 | 182/2009. (IX. 10.) Korm. rendelet |
 | 2014-01-01 | 2004-219-20-22.22 | 527/2013. (XII. 30.) Korm. rendelet |
+| 2014-01-17 | 2004-219-20-22.23 | 480/2013. (XII. 17.) Korm. rendelet |

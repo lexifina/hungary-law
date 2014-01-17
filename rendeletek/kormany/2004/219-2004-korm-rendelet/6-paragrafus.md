@@ -1,4 +1,4 @@
-6. §[^57] (1)[^58] A vízvédelmi hatóság és a vízügyi hatóság önállóan, illetve a vízügyi igazgatóság bevonásával intézkedéseket tesz:
+6. §[^58] (1)[^59] A vízvédelmi hatóság és a vízügyi hatóság önállóan, illetve a vízügyi igazgatóság bevonásával intézkedéseket tesz:
 
 a) a szennyező anyagok felszín alatti vízbe, illetve a földtani közegbe történő bevezetésének megelőzésére vagy korlátozására a 10–11. § figyelembevételével,
 
@@ -10,7 +10,7 @@ d) a gyenge és a veszélyeztetett helyzetű víztestek állapotának javítás�
 
 a környezethasználatokra vonatkozó engedélyek felülvizsgálata, illetve más hatóság által történő felülvizsgálatának kezdeményezése által.
 
-(2)[^59] Az (1) bekezdésben foglalt intézkedések érdekében:
+(2)[^60] Az (1) bekezdésben foglalt intézkedések érdekében:
 
 a) a vízvédelmi hatóság, illetve a vízügyi igazgatóság áttekinti, hogy mi veszélyezteti a jó állapot elérését és megőrzését;
 
@@ -22,7 +22,7 @@ d) a vízvédelmi hatóság módosítja az általa megállapított környezeti k
 
 e) a vízügyi hatóság felülvizsgálja a vízkivételekre vonatkozó vízjogi engedélyeket.
 
-(3)[^60] Amennyiben az (A) háttér-koncentráció vagy az (Ab) bizonyított háttér-koncentráció meghaladja a megfordítási pontot – figyelembe véve a külön jogszabály szerinti vízgyűjtő-gazdálkodási tervben foglaltakat is – a vízvédelmi hatóság mérlegelheti az intézkedések szükségességét.
+(3)[^61] Amennyiben az (A) háttér-koncentráció vagy az (Ab) bizonyított háttér-koncentráció meghaladja a megfordítási pontot – figyelembe véve a külön jogszabály szerinti vízgyűjtő-gazdálkodási tervben foglaltakat is – a vízvédelmi hatóság mérlegelheti az intézkedések szükségességét.
 
 (4) A vizek mezőgazdasági eredetű nitrát szennyezéssel szembeni védelméről szóló külön jogszabály hatálya alá tartozó tevékenységek esetében a jelentős és tartósan emelkedő szennyezettségi tendencia megfordítására irányuló intézkedések végrehajtásának kezdőpontját az említett jogszabállyal és a külön jogszabály szerinti vízgyűjtő-gazdálkodási tervvel összhangban kell megállapítani úgy, hogy az ne veszélyeztesse a környezeti célkitűzések elérését.
 
@@ -30,7 +30,7 @@ e) a vízügyi hatóság felülvizsgálja a vízkivételekre vonatkozó vízjogi
 
 (6) Az (5) bekezdés szerinti monitoring létesítése és üzemeltetése annak a kötelessége, aki a szennyezésért, károsodásért a felelős.
 
-[^57]: A 6. § a 302/2008. (XII. 17.) Korm. rendelet 5. §-ával megállapított szöveg. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
-[^58]: A 6. § (1) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 26. § (1) bekezdésével megállapított szöveg.
-[^59]: A 6. § (2) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 26. § (1) bekezdésével megállapított szöveg.
-[^60]: A 6. § (3) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 26. § (15) bekezdés a) pontja szerint módosított szöveg.
+[^58]: A 6. § a 302/2008. (XII. 17.) Korm. rendelet 5. §-ával megállapított szöveg. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
+[^59]: A 6. § (1) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 26. § (1) bekezdésével megállapított szöveg.
+[^60]: A 6. § (2) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 26. § (1) bekezdésével megállapított szöveg.
+[^61]: A 6. § (3) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 26. § (15) bekezdés a) pontja szerint módosított szöveg.

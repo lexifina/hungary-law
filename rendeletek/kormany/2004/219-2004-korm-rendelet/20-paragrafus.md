@@ -2,7 +2,7 @@
 
 ## AZ ORSZÁGOS KÖRNYEZETI KÁRMENTESÍTÉSI PROGRAM
 
-20. § (1)[^150] Az Országos Környezeti Kármentesítési Program (a továbbiakban: OKKP) célja:
+20. § (1)[^151] Az Országos Környezeti Kármentesítési Program (a továbbiakban: OKKP) célja:
 
 a) a felszín alatti víz, a földtani közeg veszélyeztetésének, szennyezettségének, károsodásának megismerése, nyilvántartásba vétele, valamint a szennyezettség kockázatának csökkentése, és a szennyezettség csökkentésének vagy megszüntetésének elősegítése;
 
@@ -18,7 +18,7 @@ c) a természetben okozott károk kármentesítése.
 
 (5) A (4) bekezdés szerinti szervezet összeállítja és évente aktualizálja a felelősségi körébe tartozó kármentesítési feladat-végrehajtás ütemtervét. Ezt a feladatot az OKKP által kialakított módszer szerint, előzetes egyszerűsített relatív kockázatbecslés és előminősítés alapján meghatározott fontossági sorrend figyelembevételével végzi.
 
-(6)[^151] Ha a 21. § (3) bekezdés alapján az állami szerv köteles a kármentesítésre, akkor a vízvédelmi hatóság a kármentesítésre vonatkozó határozatok teljesítési határidejének megállapításakor, a (4) bekezdés szerinti szervezettel köteles egyeztetni, figyelembe véve az alprogramok ütemtervét is.
+(6)[^152] Ha a 21. § (3) bekezdés alapján az állami szerv köteles a kármentesítésre, akkor a vízvédelmi hatóság a kármentesítésre vonatkozó határozatok teljesítési határidejének megállapításakor, a (4) bekezdés szerinti szervezettel köteles egyeztetni, figyelembe véve az alprogramok ütemtervét is.
 
 (7) A települési önkormányzat a település belterületére a földtani közeg és a felszín alatti víz további terhelésének megszüntetésére a Kvt. 46. §-a szerinti környezetvédelmi program keretében:
 
@@ -26,5 +26,5 @@ a) alprogramot dolgoz ki, amelyet szabályozással, saját beruházással, illet
 
 b) belterületi állattartás esetén figyelemmel kíséri a külön jogszabályban meghatározott jó mezőgazdasági gyakorlat szabályainak alkalmazását, és ennek megvalósítását e rendelet hatálybalépését követő egy éven belül helyi állattartási rendelet megalkotásával, meglévő rendeletek esetén három éven belüli felülvizsgálatával is segíti.
 
-[^150]: A 20. § (1) bekezdése a 92/2007. (IV. 26.) Korm. rendelet 4. §-ával megállapított szöveg. E módosító rendelet 9. § (3) bekezdése alapján a rendelkezést a 2007. április 30. napja után megvalósított környezetkárosításokra, valamint környezetveszélyeztető magatartásokra kell alkalmazni. Mulasztás által megvalósított környezetkárosítás vagy környezetveszélyeztetés esetén az akkor hatályos szabályokat kell alkalmazni, amikor a környezethasználó a környezetkárosodást vagy környezetveszélyeztetést megakadályozhatta volna.
-[^151]: A 20. § (6) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 26. § (15) bekezdés a) pontja szerint módosított szöveg.
+[^151]: A 20. § (1) bekezdése a 92/2007. (IV. 26.) Korm. rendelet 4. §-ával megállapított szöveg. E módosító rendelet 9. § (3) bekezdése alapján a rendelkezést a 2007. április 30. napja után megvalósított környezetkárosításokra, valamint környezetveszélyeztető magatartásokra kell alkalmazni. Mulasztás által megvalósított környezetkárosítás vagy környezetveszélyeztetés esetén az akkor hatályos szabályokat kell alkalmazni, amikor a környezethasználó a környezetkárosodást vagy környezetveszélyeztetést megakadályozhatta volna.
+[^152]: A 20. § (6) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 26. § (15) bekezdés a) pontja szerint módosított szöveg.
