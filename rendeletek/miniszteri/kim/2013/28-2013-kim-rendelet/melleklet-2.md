@@ -10,9 +10,9 @@
 
 | 3. | Mozgóurnát igénylő választópolgárok jegyzéke az országgyűlési képviselők választására |  | X | X |  |
 
-| 4. | Névjegyzék a kijelölt szavazókörben az országgyűlési képviselők választására |  | X | X |  |
+| 4. | Az átjelentkezett választópolgárok adatait tartalmazó névjegyzékrész az országgyűlési képviselők választására |  | X | X |  |
 
-| 5. | Mozgóurnát igénylő választópolgárok jegyzéke a kijelölt szavazókörben az országgyűlési képviselők választására |  | X | X |  |
+| 5. | Az átjelentkezett, mozgóurnát igénylő választópolgárok jegyzéke a kijelölt szavazókörben az országgyűlési képviselők választására |  | X | X |  |
 
 | 6. | Külképviseleti névjegyzék az országgyűlési képviselők választására |  | X | X |  |
 
@@ -122,6 +122,8 @@
 
 | 59. | Jegyzőkönyv a választás eredményéről az Európai Parlament tagjainak az országgyűlési képviselők választásával azonos napon tartott választásán | X |  | X |  |
 
-2–59. melléklet a 28/2013. (XI. 15.) KIM rendelethez
+2–59. melléklet a 28/2013. (XI. 15.) KIM rendelethez[^7]
 
-20132T20000028_1
+20132T20000028_2
+
+[^7]: A 2–59. melléklet a 2/2014. (I. 16.) KIM rendelet 7. §-a szerint módosított szöveg.
