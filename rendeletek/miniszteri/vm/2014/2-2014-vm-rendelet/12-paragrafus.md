@@ -1,0 +1,1 @@
+## 11. § Az adatbázisok tartalma tekintetében a 10. § (1) bekezdésében előírt műszaki dokumentáció alapján meghatározott valamennyi objektumosztály egyenlő fontosságú, és azok összhangját biztosítani kell.

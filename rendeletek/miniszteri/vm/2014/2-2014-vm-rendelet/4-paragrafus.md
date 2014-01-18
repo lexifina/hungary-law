@@ -1,0 +1,1 @@
+## 3. § Az Fttv. 18. § (3) bekezdésében meghatározott feladatkörében a honvédelemért felelős miniszter gondoskodik a közepes és kis méretarányú állami topográfiai térképi adatbázisok és térképek előállításáról, adattartalmáról és szolgáltatásának szabályozásáról.

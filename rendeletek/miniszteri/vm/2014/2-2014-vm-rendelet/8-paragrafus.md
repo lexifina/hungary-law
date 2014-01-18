@@ -1,0 +1,1 @@
+## 7. § Az állami topográfiai térképi adatbázisok a földfelszín természetes és mesterséges alakzatainak – a természetbeni állapotuknak megfelelően – síkrajzi, magassági, vízrajzi és domborzati elemeit, továbbá a mindezekhez tartozó elnevezéseket, magyarázatokat és adatokat tartalmazzák a tulajdoni viszonyokra vonatkozó információ nélkül.

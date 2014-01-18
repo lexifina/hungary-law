@@ -1,0 +1,1 @@
+## 2. § A földmérési és térképészeti tevékenységről szóló 2012. évi XLVI. törvény (a továbbiakban: Fttv.) 18. § (3) bekezdésében meghatározott feladatkörében a térképészetért felelős miniszter (a továbbiakban: miniszter) a nagy méretarányú állami topográfiai térképi adatbázis műszaki alapjait, adattartalmát, aktualizálását és megjelenítését szabályozza.
