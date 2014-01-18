@@ -30,7 +30,7 @@ n) a terrorcselekmény (Btk. 314–316. §), a terrorcselekmény feljelentésén
 
 o) a nemzetközi gazdasági tilalom megszegése (Btk. 327. §), a nemzetközi gazdasági tilalom megszegése feljelentésének elmulasztása (Btk. 328. §), a haditechnikai termékkel vagy szolgáltatással visszaélés (Btk. 329. §), a kettős felhasználású termékkel visszaélés (Btk. 330. §);
 
-p) a választás, a népszavazás, a népi kezdeményezés és az európai polgári kezdeményezés rendje elleni bűncselekmény (Btk. 350. §);
+p) a választás, a népszavazás és az európai polgári kezdeményezés rendje elleni bűncselekmény (Btk. 350. §);
 
 q) a különösen nagy vagy ezt meghaladó értékre elkövetett kifosztás [Btk. 366. § (3) bekezdés a) pont];
 

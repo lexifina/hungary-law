@@ -39,3 +39,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1998-19-00-00
 | 2013-11-19 | 2013. évi CLXXXVI. törvény | 1998-19-00-00.68 |
 | 2014-01-01 | 2013. évi CLXXXVI. törvény | 1998-19-00-00.69 |
 | 2014-01-02 | 2013. évi CCXLV. törvény | 1998-19-00-00.70 |
+| 2014-01-18 | 2013. évi CCXXXVIII. törvény | 1998-19-00-00.71 |
