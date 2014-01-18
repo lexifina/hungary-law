@@ -26,3 +26,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1990-65-00-00
 | 2012-12-08 | 2012. évi CXC. törvény | 1990-65-00-00.61 |
 | 2013-01-01 | 2011. évi CLXXXIX. törvény | 1990-65-00-00.62 |
 | 2013-10-01 | 2013. évi CXLIII. törvény | 1990-65-00-00.63 |
+| 2014-01-18 | 2013. évi CCXXXVIII. törvény | 1990-65-00-00.64 |
