@@ -20,7 +20,7 @@
 
 ## Határidő: 2014. december 15.
 
-## 2. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1864/2013. (XI. 19.) Korm. határozatban a „2013. december 31.” szöveg helyébe a „2014. június 30.” szöveg lép.
+## 2.[^1]
 
 1. melléklet az 1003/2014. (I. 17.) Korm. határozathoz
 
@@ -183,3 +183,5 @@
 | Nemzetgazdasági Minisztérium | 2 példány |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
