@@ -6,7 +6,7 @@
 
 ## Határidő: a határozat közzétételét követő 30 napon belül
 
-## 3. visszavonja a regionális operatív programok 2011–2013. évekre szóló akcióterveinek módosításáról és a Nyugat-Dunántúli Operatív Program 5. prioritás keretének növeléséről szóló 2057/2013. (XII. 31.) Korm. határozat 1. mellékletének 3. prioritásra vonatkozó részét.
+## 3.[^1]
 
 1. melléklet az 1006/2014. (I. 17.) Korm. határozathoz
 
@@ -55,3 +55,5 @@
 | 3.1.4. | E-közigazgatás fejlesztése | 0,00 | 0,00 | 0,00 | Térségi közigazgatási és közszolgáltatási rendszerek informatikai fejlesztése. | emberi erőforrások minisztere | közigazgatási és igazságügyi miniszter |
 
 | 3. Prioritás összesen | 4,72 | 3,94 | 2,52 |  |  |  |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
