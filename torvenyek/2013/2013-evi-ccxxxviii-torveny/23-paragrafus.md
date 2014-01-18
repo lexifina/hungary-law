@@ -1,0 +1,1 @@
+23. § Ha az érvényes aláírások száma legalább százezer, az aláírások ellenőrzésének eredményéről – az azt megállapító határozat jogerőre emelkedésétől számított nyolc napon belül – a Nemzeti Választási Bizottság elnöke tájékoztatja az Országgyűlés elnökét.

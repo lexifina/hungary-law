@@ -1,0 +1,7 @@
+58. § (1) A képviselő-testület helyi népszavazást elrendelő, valamint kötelezően elrendelendő helyi népszavazás elrendelését elutasító határozata elleni felülvizsgálati kérelmet – a törvényszékhez címezve – úgy kell benyújtani, hogy az a határozat közzétételét követő tizenöt napon belül megérkezzen a helyi választási bizottsághoz.
+
+(2) A helyi választási bizottság a felülvizsgálati kérelmet a beérkezését követő öt napon belül megküldi a törvényszéknek. A helyi választási bizottság elnöke a felülvizsgálati kérelem benyújtásáról haladéktalanul tájékoztatja a polgármestert.
+
+(3) Az (1) bekezdésben meghatározott eljárásban a törvényszék a határozat érdemében csak akkor folytat vizsgálatot, ha az aláírásgyűjtő ív hitelesítése és a helyi népszavazás elrendelése között a körülményekben olyan lényeges változás következett be, amelyet a kérdés hitelesítéséről, vagy az azzal szembeni felülvizsgálati kérelemről hozott döntés során a helyi választási bizottság, illetve az 57. § szerinti eljárásban a törvényszék nem vehetett figyelembe, és a döntést érdemben befolyásolhatja. A törvényszék nem vizsgálja érdemben azt a felülvizsgálati kérelmet, amelyben a kérelmező a kérdés tartalmát illető, valamint a hitelesítéssel összefüggő alkotmányossági aggályokra hivatkozik.
+
+(4) A törvényszék a felülvizsgálati kérelmet harminc napon belül bírálja el. A törvényszék a képviselő-testület határozatát helybenhagyja, vagy azt megsemmisíti, és a képviselő-testületet új határozat meghozatalára kötelezi.

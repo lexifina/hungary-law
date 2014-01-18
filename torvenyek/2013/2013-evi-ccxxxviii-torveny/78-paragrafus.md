@@ -1,0 +1,1 @@
+78. § A népszavazás eredményének megállapítása során az Alaptörvény 8. cikk (4) bekezdésében foglalt érvényességi feltétel vizsgálatakor a szavazás napján a központi névjegyzékben szereplő, a népszavazáson részt venni jogosult választópolgároknak a számát kell figyelembe venni.

@@ -1,0 +1,1 @@
+50. § Ha az érvényes aláírások száma eléri a helyi népszavazás kezdeményezéséhez szükséges számot, az aláírások ellenőrzésének eredményéről – az azt megállapító határozat jogerőre emelkedésétől számított nyolc napon belül – a helyi választási bizottság elnöke tájékoztatja a polgármestert.

@@ -1,0 +1,1 @@
+63. § Az online gyűjtési rendszer megfelelőségéről szóló igazolás kiállítása, a támogató nyilatkozatok ellenőrzése és az érvényes támogató nyilatkozatok számát tartalmazó igazolás kiállítása a Nemzeti Választási Bizottság hatáskörébe tartozik.
