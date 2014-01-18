@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-151-00-00
 | 2013-08-01 | 2013. évi CXXXI. törvény | 2011-151-00-00.3 |
 | 2013-12-11 | 2013. évi CCVII. törvény | 2011-151-00-00.4 |
 | 2013-12-19 | 2013. évi CCXXIII. törvény | 2011-151-00-00.5 |
+| 2014-01-18 | 2013. évi CCXXXVIII. törvény | 2011-151-00-00.6 |

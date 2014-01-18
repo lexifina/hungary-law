@@ -1,6 +1,6 @@
 ## 11. Az Országgyűlés népszavazás elrendelésével összefüggő határozatának vizsgálata
 
-33. § (1) Az Országgyűlés népszavazást elrendelő, valamint kötelezően elrendelendő népszavazás elrendelését elutasító határozatát az Alkotmánybíróság az elrendelés vagy elutasítás Alaptörvénnyel való összhangja és törvényessége tekintetében bárki indítványára felülvizsgálja. Az indítványnak az Országgyűlés határozatának közzétételét követő tizenöt napon belül be kell érkeznie.
+33. § (1) Az Országgyűlés népszavazást elrendelő, valamint kötelezően elrendelendő népszavazás elrendelését elutasító határozatát az Alkotmánybíróság az elrendelés vagy elutasítás Alaptörvénnyel való összhangja és törvényessége tekintetében bárki indítványára harminc napon belül felülvizsgálja. Az indítványnak az Országgyűlés határozatának közzétételét követő tizenöt napon belül be kell érkeznie.
 
 (2) Az (1) bekezdésben meghatározott eljárásban az Alkotmánybíróság a határozat érdemében csak akkor folytat vizsgálatot, ha az aláírásgyűjtő ív hitelesítése és a népszavazás elrendelése között a körülményekben olyan lényeges változás következett be, amelyet a kérdés hitelesítéséről, illetve az azzal szembeni felülvizsgálati kérelemről hozott döntés során a Nemzeti Választási Bizottság, illetve a Kúria nem vehetett figyelembe, és a döntést érdemben befolyásolhatja.
 
