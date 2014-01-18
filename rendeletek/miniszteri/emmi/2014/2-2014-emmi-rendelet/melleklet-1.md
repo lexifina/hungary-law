@@ -1,3 +1,5 @@
-## 10. § Hatályát veszti az egységes egészségügyi ágazati humánerőforrás-monitoringrendszer működésének részletes szabályairól szóló 36/2009. (XI. 3.) EüM rendelet.
+## 10. §[^1]
 
 1. melléklet a 2/2014. (I. 16.) EMMI rendelethez
+
+[^1]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
