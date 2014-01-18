@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-36-00-00
 | 2013-05-04 | 2010. évi CXXX. törvény | 2013-36-00-00.2 |
 | 2013-06-21 | 2013. évi LXXXIX. törvény | 2013-36-00-00.3 |
 | 2013-12-11 | 2013. évi CCVII. törvény | 2013-36-00-00.4 |
+| 2014-01-18 | 2013. évi CCXXXVIII. törvény | 2013-36-00-00.5 |
