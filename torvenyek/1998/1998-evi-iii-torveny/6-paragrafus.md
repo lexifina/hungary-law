@@ -1,1 +1,0 @@
-6. § Az Országgyűlés elnöke a törvényben foglalt feltételeknek megfelelő kezdeményezést a 4. § (3) bekezdése, illetőleg a 9. § (2) bekezdése szerinti tájékoztatás kézhezvételét követő legközelebbi ülésnapon bejelenti.

@@ -1,1 +1,0 @@
-19. § A népi kezdeményezést – az aláírásgyűjtésnek a Ve. 118/A. §-a szerinti szünetelése kivételével – az aláírásgyűjtő ív hitelesítését követő két hónapon belül egyszer lehet benyújtani az Országos Választási Bizottság elnökéhez. A pótlólag benyújtott, a kezdeményezést kiegészítő aláírások érvénytelenek.
