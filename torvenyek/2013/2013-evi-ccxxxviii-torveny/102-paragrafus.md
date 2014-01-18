@@ -13,11 +13,3 @@ d) a büntetőeljárásról szóló 1998. évi XIX. törvény 16. § (1) bekezd�
 e) a menedékjogról szóló 2007. évi LXXX. törvény 10. § (2) bekezdés a) pontjában az „és népi kezdeményezés” szövegrész,
 
 f) a Ve. 9. §-a.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
