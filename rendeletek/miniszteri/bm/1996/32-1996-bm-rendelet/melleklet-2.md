@@ -118,6 +118,6 @@
 
 ## – férje családi nevének második tagját összekapcsolja saját családi nevének második tagjával; és ehhez hozzáfűzi saját utónevét (Pl.: Szabó-Varga Mária).
 
-2. számú melléklet a 32/1996. (XII. 22.) BM rendelethez[^16]
+2. számú melléklet a 32/1996. (XII. 22.) BM rendelethez[^22]
 
-[^16]: A 2. számú melléklet a 9/2004. (III. 31.) BM rendelet 5. §-ával megállapított, a 6/2012. (II. 21.) KIM rendelet 3. § e)–h) pontja és 4. § (2) bekezdés f) pontja szerint módosított szöveg.
+[^22]: A 2. számú melléklet a 9/2004. (III. 31.) BM rendelet 5. §-ával megállapított, a 6/2012. (II. 21.) KIM rendelet 3. § e)–h) pontja és 4. § (2) bekezdés f) pontja szerint módosított szöveg.

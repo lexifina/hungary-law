@@ -40,7 +40,7 @@
 
 ## * A file névben az xxxx karakterek az adott évet és a hetet jelölik. Pl.: NE9602.txt; NE9651.txt
 
-3. számú melléklet a 32/1996. (XII. 22.) BM rendelethez[^17]
+3. számú melléklet a 32/1996. (XII. 22.) BM rendelethez[^23]
 
 Adatszerkezet
 
@@ -92,4 +92,4 @@ korlátozott belátási képességű személy adatairól
 
 | 19. | Bizonylat száma | A | 10 |  |
 
-[^17]: A 3. számú mellékletet az 50/2012. (XII. 4.) KIM rendelet 8. § (2) bekezdése iktatta be.
+[^23]: A 3. számú mellékletet az 50/2012. (XII. 4.) KIM rendelet 8. § (2) bekezdése iktatta be.
