@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-384-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2013-11-07 | 2013-384-20-22.1 | 384/2013. (XI. 6.) Korm. rendelet |
+| 2014-01-18 | 2013-384-20-22.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
