@@ -1,3 +1,3 @@
-## 23. § A gyógyászati segédeszközök társadalombiztosítási támogatásba történő befogadásáról, támogatással történő rendeléséről, forgalmazásáról, javításáról és kölcsönzéséről szóló 14/2007. (III. 14.) EüM rendelet (a továbbiakban: 14/2007. EüM rendelet) 12. §-a a következő (3a) bekezdéssel egészül ki:
+## 23. §[^9]
 
-## „(3a) A forgalmazó a 24. számú mellékletben meghatározott, támogatással rendelt gyógyászati segédeszközök házhoz szállítása esetén közreműködőt vehet igénybe.”
+[^9]: A 23. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
