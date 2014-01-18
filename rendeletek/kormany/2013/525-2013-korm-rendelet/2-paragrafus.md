@@ -1,1 +1,3 @@
-## 1. § A személyi jövedelemadóról szóló 1995. évi CXVII. törvény 81/A. §-ában foglaltak tekintetében – adóhatóság, valamint a mezőgazdasági és vidékfejlesztési támogatási szerv felé történő adatszolgáltatás, továbbá a mezőgazdasági őstermelők adatainak országos nyilvántartása kivételével – a Kormány mezőgazdasági igazgatási szervként a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamarát (a továbbiakban: NAK) jelöli ki.
+## 1/A. §[^1] A helyi adókról szóló 1990. évi C. törvény 19. § b) pontjában foglaltak tekintetében a Kormány mezőgazdasági igazgatási szervként a NAK-ot jelöli ki.
+
+[^1]: Az 1/A. §-t a 6/2014. (I. 17.) Korm. rendelet 1. §-a iktatta be.
