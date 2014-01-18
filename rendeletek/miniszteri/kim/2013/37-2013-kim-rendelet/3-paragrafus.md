@@ -1,0 +1,1 @@
+## 2. § A Nemzeti Választási Iroda a választások hivatalos honlapján, más választási iroda a helyben szokásos módon hozza nyilvánosságra a benyújtott kérdést, a benyújtás időpontját, valamint a szervező nevét.
