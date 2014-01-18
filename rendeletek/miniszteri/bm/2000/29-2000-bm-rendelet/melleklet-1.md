@@ -1,3 +1,3 @@
-1. számú melléklet a 29/2000. (X. 27.) BM rendelethez[^25]
+1. számú melléklet a 29/2000. (X. 27.) BM rendelethez[^30]
 
-[^25]: Az 1. számú melléklet a 10/2006. (XII. 7.) ÖTM rendelet 12. § (1) bekezdésével megállapított, a 16/2007. (VI. 28.) ÖTM rendelet 1. § (1) bekezdése, az 5/2008. (I. 22.) ÖTM rendelet 35. § (3) bekezdésének b) pontja, a 17/2008. (XII. 31.) ÖM rendelet 1. §-ának 6. pontja, az 50/2012. (XII. 4.) KIM rendelet 12. § (2) bekezdése, a 18/2013. (VII. 17.) KIM rendelet 10. § a) pont ac)–ad) alpontja szerint módosított szöveg.
+[^30]: Az 1. számú melléklet a 10/2006. (XII. 7.) ÖTM rendelet 12. § (1) bekezdésével megállapított, a 16/2007. (VI. 28.) ÖTM rendelet 1. § (1) bekezdése, az 5/2008. (I. 22.) ÖTM rendelet 35. § (3) bekezdésének b) pontja, a 17/2008. (XII. 31.) ÖM rendelet 1. §-ának 6. pontja, az 50/2012. (XII. 4.) KIM rendelet 12. § (2) bekezdése, a 18/2013. (VII. 17.) KIM rendelet 10. § a) pont ac)–ad) alpontja szerint módosított szöveg.

@@ -150,6 +150,6 @@
 
 |  |  | HVI vezetője |
 
-2. számú melléklet a 29/2000. (X. 27.) BM rendelethez[^26]
+2. számú melléklet a 29/2000. (X. 27.) BM rendelethez[^31]
 
-[^26]: A 2. számú melléklet a 10/2006. (XII. 7.) ÖTM rendelet 12. § (2) bekezdésével megállapított, a 18/2013. (VII. 17.) KIM rendelet 10. § a) pont ae)–af) alpontja szerint módosított szöveg.
+[^31]: A 2. számú melléklet a 10/2006. (XII. 7.) ÖTM rendelet 12. § (2) bekezdésével megállapított, a 18/2013. (VII. 17.) KIM rendelet 10. § a) pont ae)–af) alpontja szerint módosított szöveg.
