@@ -4,7 +4,7 @@
 
 (2) A menekült
 
-a) a helyi önkormányzati képviselők és polgármesterek választása, valamint a helyi népszavazás és népi kezdeményezés kivételével nem rendelkezik választójoggal;
+a) a helyi önkormányzati képviselők és polgármesterek választása, valamint a helyi népszavazás kivételével nem rendelkezik választójoggal;
 
 b) nem tölthet be olyan munkakört, illetve feladatkört, továbbá nem viselhet olyan tisztséget, amelynek ellátását jogszabály magyar állampolgársághoz köti.
 
