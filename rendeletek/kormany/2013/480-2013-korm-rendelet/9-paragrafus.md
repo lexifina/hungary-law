@@ -1,1 +1,0 @@
-## „(5) Az ipari kibocsátásokról (a környezetszennyezés integrált megelőzése és csökkentése) című, 2010. november 24-i 2010/75/EU európai parlamenti és tanácsi irányelv szerinti, valamint a Szennyezőanyag Kibocsátási és Szállítási Nyilvántartással kapcsolatos adatszolgáltatási és jelentésadási kötelezettség teljesítése a miniszter feladata.”
