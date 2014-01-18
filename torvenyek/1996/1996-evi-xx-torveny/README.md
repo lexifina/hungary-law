@@ -18,3 +18,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-20-00-00
 | 2013-10-01 | 2012. évi CXVIII. törvény | 1996-20-00-00.40 |
 | 2013-12-31 | 2013. évi CCL. törvény | 1996-20-00-00.41 |
 | 2014-01-01 | 2013. évi CCXII. törvény | 1996-20-00-00.42 |
+| 2014-01-18 | 2013. évi CCXXXVIII. törvény | 1996-20-00-00.43 |

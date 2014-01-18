@@ -8,11 +8,11 @@ b) a 32. § b) pontja szerint adatot szolgáltató szerv vagy polgár, a személ
 
 c) az adatkezelő, ha törvény alapján a személyi azonosító alkalmazásával a személyiadat- és lakcímnyilvántartásból adatszolgáltatás igénylésére jogosult, a személyiadat- és lakcímnyilvántartástól történő adatszolgáltatás igényléséhez;
 
-d) a népszavazási kezdeményezést, népi kezdeményezést, európai polgári kezdeményezést szervező az összegyűjtött aláírásoknak az Országos Választási Bizottság elnöke, illetőleg a polgármester (főpolgármester) részére történő átadásakor;
+d) a népszavazási kezdeményezést, európai polgári kezdeményezést szervező az összegyűjtött aláírásoknak a Nemzeti Választási Bizottság, illetve a helyi választási bizottság részére történő átadásakor;
 
 e) a választójoggal nem rendelkező polgárok nyilvántartásának vezetéséhez adatszolgáltatásra kötelezett szerv, e kötelezettsége teljesítésekor;
 
-f) a választójoggal nem rendelkezők nyilvántartását vezető szerv, a népi kezdeményezést, a népszavazás-kezdeményezést aláírók adatai hitelesítéséhez, a választások lebonyolításához a választási szervnek és a bíróságnak teljesített adatszolgáltatáskor;
+f) a választójoggal nem rendelkezők nyilvántartását vezető szerv, az európai polgári kezdeményezést, a népszavazás-kezdeményezést aláírók adatai hitelesítéséhez, a választások lebonyolításához a választási szervnek és a bíróságnak teljesített adatszolgáltatáskor;
 
 g) a polgármester (főpolgármester) a népiülnök-választási eljárásban, a választójoggal nem rendelkezők nyilvántartását vezető szervtől történő adatszolgáltatás igényléséhez;
 
@@ -28,7 +28,7 @@ l) a külképviseleti hatóság, a hatáskörébe utalt ügyek intézése keret�
 
 m)
 
-n) a helyi népi kezdeményezés, népszavazás-kezdeményezés összegyűjtött aláírásainak átvételére önkormányzati rendeletben feljogosított személy, az aláírások hitelesítésre történő megküldésekor,
+n)
 
 o) a jelöltajánlást gyűjtő szerv és személy, az ajánlásoknak vagy aláírásgyűjtő íveknek a választási szervhez történő továbbításakor;
 
