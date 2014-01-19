@@ -1,11 +1,9 @@
 ## 2. § Az örökségvédelmi hatástanulmány elkészítéséről a településfejlesztési koncepció vagy a településrendezési eszköz készíttetője köteles gondoskodni.
 
-3. § (1) A Kötv. 66. §-ában meghatározott örökségvédelmi hatástanulmány elkészítésére jogosult:
+## 3. §[^3] A Kötv. 66. §-ában meghatározott örökségvédelmi hatástanulmány elkészítésére jogosult:
 
-a) a régészeti szakterületi munkarész vonatkozásában kizárólag a kulturális szakértői tevékenység folytatásának feltételeiről és a kulturális szakértői nyilvántartás vezetéséről szóló miniszteri rendelet szerint régészet részszakterületen szakértői tevékenység végzésére jogosult szakértő;
+a) az örökségvédelmi hatástanulmány régészeti szakterületi munkarésze vonatkozásában a régészeti örökséggel és a műemléki értékkel kapcsolatos szakértői tevékenységről szóló kormányrendelet szerint régészeti területen szakértői tevékenység végzésére jogosult szakértő;
 
-b) az, aki az örökségvédelmi hatástanulmány alapjául szolgáló tervfajta elkészítésére egyébként jogosultsággal bír;
+b) az örökségvédelmi hatástanulmány műemléki szakterületi munkarésze vonatkozásában a régészeti örökséggel és a műemléki értékkel kapcsolatos szakértői tevékenységről szóló kormányrendelet szerint műemléki terület műemléki érték dokumentálása szakterületen szakértői tevékenység végzésére jogosult szakértő vagy az, aki a hatástanulmány alapjául szolgáló tervfajta elkészítésére egyébként jogosultsággal bír.
 
-c) az a jogi személy, amely az a) vagy b) pontban előírtak szerinti munkatársak részvételét az örökségvédelmi hatástanulmány elkészítésében biztosítja.
-
-(2) Az örökségvédelmi hatástanulmányban szereplő műemléki szakterületi részeket csak az adott szakterületen felsőfokú szakirányú végzettséggel rendelkező személy készítheti.
+[^3]: A 3. § a 439/2013. (XI. 20.) Korm. rendelet 17. § (2) bekezdésével megállapított szöveg.
