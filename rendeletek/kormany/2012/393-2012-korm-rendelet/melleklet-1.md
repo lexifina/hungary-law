@@ -1,5 +1,5 @@
-## 47. §[^4]
+## 47. §[^10]
 
 1. melléklet a 393/2012. (XII. 20.) Korm. rendelethez
 
-[^4]: A 47. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 47. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

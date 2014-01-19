@@ -24,7 +24,7 @@ c) külső és belső burkolat, díszítmény felújítása, átalakítása, elh
 
 d) épületgépészeti és elektromos rendszer elhelyezése, átalakítása, cseréje, eltávolítása;
 
-e) beépített berendezés, bútor, liturgikus berendezési tárgy elhelyezése, felújítása, átalakítása, átszínezése;
+e)[^2] beépített berendezés, bútor, liturgikus berendezési tárgy elhelyezése, bontása, felújítása, átalakítása, átszínezése;
 
 f) lépcsők átalakítása, felújítása;
 
@@ -38,7 +38,7 @@ j) külső, belső nyílászáró cseréje, felújítása;
 
 k) falfelület és födém színezése, felületképzésének megváltoztatása, felújítása, cseréje;
 
-l) épület bármely külső felületén reklámtábla, reklám, felirat, dísz, szerelvény, gépészeti egység, napkollektor, napelem elhelyezése, cseréje, átalakítása, bontása (eltávolítása), eltakarása;
+l)[^3] épület bármely külső felületén reklámtábla, reklám, felirat, dísz, szerelvény, gépészeti egység, napkollektor, napelem elhelyezése, cseréje, átalakítása, bontása (eltávolítása), eltakarása, valamint állvány építése, rögzítése;
 
 m) történeti kertben vagy műemlék telkén végzett építési vagy kertépítészeti munkák (építmény, kertépítészeti alkotóelemek építése);
 
@@ -68,7 +68,7 @@ c) külső és belső fal-, padló, födémburkolat, álmennyezet, díszítmény
 
 d) épületgépészeti és elektromos szerelvény cseréje, eltávolítása;
 
-e) beépített berendezés, bútor elhelyezése, felújítása, átalakítása, átszínezése;
+e)[^4] beépített berendezés, bútor elhelyezése, bontása, felújítása, átalakítása, átszínezése;
 
 f) lépcsők szerkezeti beavatkozással nem járó átalakítása, felújítása;
 
@@ -85,3 +85,7 @@ k) műemlék telkén végzett kertépítészeti munkák;
 l) műemlék telkén lévő parkban fás szárú növényzet telepítése és eltávolítása;
 
 m) a műemlék rendeltetésének megváltoztatása.
+
+[^2]: A 3. § (4) bekezdés e) pontja a 439/2013. (XI. 20.) Korm. rendelet 18. § (5) bekezdés a) pontja szerint módosított szöveg.
+[^3]: A 3. § (4) bekezdés l) pontja a 439/2013. (XI. 20.) Korm. rendelet 18. § (5) bekezdés b) pontja szerint módosított szöveg.
+[^4]: A 3. § (5) bekezdés e) pontja a 439/2013. (XI. 20.) Korm. rendelet 18. § (5) bekezdés c) pontja szerint módosított szöveg.

@@ -54,7 +54,7 @@ a) műemlék egész homlokzatának felújítása;
 
 b) műemlék egészének vagy épületrészének teljes belső felújítása.
 
-(6)[^2] Az alábbi tevékenységekre irányuló kérelemhez mellékelni kell a Lechner Lajos Tudásközpont Területi, Építésügyi, Örökségvédelmi és Informatikai Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: örökségvédelmi iroda) által a tervezett tevékenységre vonatkozóan készített szakvéleményt:
+(6)[^5] Az alábbi tevékenységekre irányuló kérelemhez mellékelni kell a Lechner Lajos Tudásközpont Területi, Építésügyi, Örökségvédelmi és Informatikai Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: örökségvédelmi iroda) által a tervezett tevékenységre vonatkozóan készített szakvéleményt:
 
 a) műemlék vagy annak képző- vagy iparművészeti alkotórésze, tartozéka roncsolásos vizsgálata;
 
@@ -64,4 +64,4 @@ c) épületgépészeti és elektromos rendszer elhelyezése, átalakítása, cse
 
 d) történeti kertben vagy műemlék telkén végzett építési vagy kertépítészeti munkák.
 
-[^2]: Az 5. § (6) bekezdés nyitó szövegrésze a 107/2013. (IV. 5.) Korm. rendelet 16. §-a szerint módosított szöveg.
+[^5]: Az 5. § (6) bekezdés nyitó szövegrésze a 107/2013. (IV. 5.) Korm. rendelet 16. §-a szerint módosított szöveg.
