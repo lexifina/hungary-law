@@ -1,4 +1,4 @@
-## 108. §[^444] A miniszter a halgazdálkodásért való felelőssége körében
+## 108. §[^445] A miniszter a halgazdálkodásért való felelőssége körében
 
 a) irányítja a halgazdálkodási szakigazgatást,
 
@@ -8,4 +8,4 @@ c) ellátja az államot megillető halgazdálkodási jogok pályáztatásával k
 
 d) működteti az Országos Halgazdálkodási Adattárat, valamint a halgazdálkodásról és a hal védelméről szóló törvényben meghatározott, halgazdálkodási kérdésekkel foglalkozó testületet.
 
-[^444]: A 108. § a 323/2013. (VIII. 28.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^445]: A 108. § a 323/2013. (VIII. 28.) Korm. rendelet 3. §-ával megállapított szöveg.

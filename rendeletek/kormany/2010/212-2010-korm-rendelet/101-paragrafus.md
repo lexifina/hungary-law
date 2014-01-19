@@ -1,4 +1,4 @@
-## 100/A. §[^439] A miniszter a Hungarikum Bizottság elnökeként ellátott feladatkörében közzéteszi a magyar nemzeti értékekről és a hungarikumokról szóló 2012. évi XXX. törvény 17. § (2) bekezdés f) pontja szerinti pályázatokat és a Hungarikum Bizottság javaslata alapján dönt a pályázatokról.
+## 100/A. §[^440] A miniszter a Hungarikum Bizottság elnökeként ellátott feladatkörében közzéteszi a magyar nemzeti értékekről és a hungarikumokról szóló 2012. évi XXX. törvény 17. § (2) bekezdés f) pontja szerinti pályázatokat és a Hungarikum Bizottság javaslata alapján dönt a pályázatokról.
 
 ## 101. § A miniszter az élelmiszerlánc-felügyeletért való felelőssége körében növényegészségügyi feladatai keretében felel
 
@@ -8,4 +8,4 @@ b) a növényi károsítók járványos fellépésének megelőzésével és lek
 
 c) a növényvédelmi célú termékek és eszközök forgalmazásának és felhasználásának ellenőrzéséért.
 
-[^439]: A 100/A. §-t a 114/2013. (IV. 16.) Korm. rendelet 19. §-a iktatta be.
+[^440]: A 100/A. §-t a 114/2013. (IV. 16.) Korm. rendelet 19. §-a iktatta be.

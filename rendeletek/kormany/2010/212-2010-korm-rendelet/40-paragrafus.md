@@ -160,7 +160,7 @@ ea) dönt a műemléki értékek, védetté nyilvánításáról, illetve annak 
 
 eb) a műemlékek, és a védelem alá vont területek védelméről, megőrzéséről és nyilvántartásáról,
 
-ec) ellátja a Műemléki Tanácsadó Testület működtetésével kapcsolatos feladatokat.
+ec)[^171] ellátja a központi éptészeti tervtanács műemléki testület működtetésével kapcsolatos feladatokat.
 
 (6) A miniszter továbbá
 
@@ -170,11 +170,11 @@ b) kialakítja az önkormányzati érdekszövetségekkel való kapcsolattartás 
 
 c) működteti és irányítja az Európai Unió Szolidaritás és a Migrációs áramlások igazgatása általános programból származó támogatások felhasználásának rendszerét és közreműködik a Strukturális Alapok, valamint a Kohéziós Alap hazai felhasználásához kapcsolódó Új Magyarország Fejlesztési Terv előkészítésében és nyomon követésében,
 
-d)[^171]
+d)[^172]
 
 e) ellátja az Európai Unió Bűnmegelőzési Hálózat magyar kapcsolattartó pontjának feladatait,
 
-f)[^172]
+f)[^173]
 
 g) a szabálysértési szabályozásért való felelőssége keretében:
 
@@ -182,9 +182,9 @@ ga) összehangolja a szabálysértési hatóságok tevékenységét,
 
 gb) ellátja a hatáskörbe utalt szabálysértési méltányossági ügyeket,
 
-h)[^173] működteti a Duna Palota Kulturális Nonprofit Kft.-t.
+h)[^174] működteti a Duna Palota Kulturális Nonprofit Kft.-t.
 
-i)[^174]
+i)[^175]
 
 [^150]: A 40. § (1) bekezdés nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 41. § (16) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
 [^151]: A 40. § (1) bekezdés a) pontja a 363/2011. (XII. 30.) Korm. rendelet 28. § (1) bekezdésével megállapított szöveg.
@@ -207,7 +207,8 @@ i)[^174]
 [^168]: A 40. § (5c) bekezdését a 266/2012. (IX. 18.) Korm. rendelet 23. § (4) bekezdése iktatta be.
 [^169]: A 40. § (5c) bekezdés a) pontja a 310/2012. (XI. 6.) Korm. rendelet 18. § (2) bekezdésével megállapított szöveg. E módosító rendelet 11. §-a alapján a folyamatban levő ügyekben is alkalmazni kell.
 [^170]: A 40. § (5c) bekezdés c) pontja a 107/2013. (IV. 5.) Korm. rendelet 10. § (4) bekezdés c) pontja szerint módosított szöveg.
-[^171]: A 40. § (6) bekezdés d) pontját a 266/2010. (XI. 30.) Korm. rendelet 5. § b) pontja hatályon kívül helyezte.
-[^172]: A 40. § (6) bekezdés f) pontját a 276/2010. (XII. 15.) Korm. rendelet 5. §-a hatályon kívül helyezte.
-[^173]: A 40. § (6) bekezdés h) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (26) bekezdés f) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^174]: A 40. § (6) bekezdés i) pontját a 94/2011. (VI. 28.) Korm. rendelet 5. § (4) bekezdése hatályon kívül helyezte, e módosító rendelet 6. §-a alapján 2011. július 6-tól a folyamatban lévő ügyekre is alkalmazni kell.
+[^171]: A 40. § (5c) bekezdés e) pont ec) alpontja a 439/2013. (XI. 20.) Korm. rendelet 18. § (2) bekezdése szerint módosított szöveg.
+[^172]: A 40. § (6) bekezdés d) pontját a 266/2010. (XI. 30.) Korm. rendelet 5. § b) pontja hatályon kívül helyezte.
+[^173]: A 40. § (6) bekezdés f) pontját a 276/2010. (XII. 15.) Korm. rendelet 5. §-a hatályon kívül helyezte.
+[^174]: A 40. § (6) bekezdés h) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (26) bekezdés f) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^175]: A 40. § (6) bekezdés i) pontját a 94/2011. (VI. 28.) Korm. rendelet 5. § (4) bekezdése hatályon kívül helyezte, e módosító rendelet 6. §-a alapján 2011. július 6-tól a folyamatban lévő ügyekre is alkalmazni kell.

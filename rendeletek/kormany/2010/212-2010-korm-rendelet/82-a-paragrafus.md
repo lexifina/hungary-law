@@ -1,4 +1,4 @@
-82/A. §[^359] (1) A miniszter az európai uniós fejlesztési források felhasználásához kapcsolódó felelőssége körében
+82/A. §[^360] (1) A miniszter az európai uniós fejlesztési források felhasználásához kapcsolódó felelőssége körében
 
 a) biztosítja az európai fejlesztési források felhasználásával megvalósuló, külön jogszabályban meghatározott operatív programok irányító hatósági feladatainak ellátását,
 
@@ -22,4 +22,4 @@ bh) Pro Regio Közép-Magyarországi Regionális Fejlesztési és Szolgáltató 
 
 tevékenységét.
 
-[^359]: A 82/A. §-t az 550/2013. (XII. 30.) Korm. rendelet 63. §-a iktatta be.
+[^360]: A 82/A. §-t az 550/2013. (XII. 30.) Korm. rendelet 63. §-a iktatta be.

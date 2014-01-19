@@ -1,4 +1,4 @@
-## 55. §[^219] A miniszter az oktatásért való felelőssége körében előkészíti különösen
+## 55. §[^220] A miniszter az oktatásért való felelőssége körében előkészíti különösen
 
 a) a közoktatással,
 
@@ -18,4 +18,4 @@ h) a külhoni magyarok oktatásával
 
 összefüggő jogszabályokat, továbbá e tárgykörökben törvény vagy kormányrendelet felhatalmazása alapján miniszteri rendeletet ad ki.
 
-[^219]: Az 55. § záró szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (35) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^220]: Az 55. § záró szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (35) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
