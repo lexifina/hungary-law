@@ -12,7 +12,7 @@ d) az engedély nélkül vagy engedélytől eltérően telepített faállomány 
 
 e) az erdőtelepítési-kivitelezési terv jóváhagyása iránti másodfokú eljárásban
 
-## – annak elbírálása kérdésében, hogy a tevékenység, a beruházás vagy a terv a kulturális örökség védelme jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e –, a fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatalát szakhatóságként jelöli ki.
+## – annak elbírálása kérdésében, hogy a tevékenység, a beruházás vagy a terv a kulturális örökség védelme jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e –, az illetékes fővárosi és a megyei kormányhivatal építésügyi és örökségvédelmi hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala.
 
 (2)[^53] A Kormány védett természeti területen található erdő esetén
 
@@ -104,7 +104,7 @@ f) az erdő elsődleges rendeltetése megváltoztatására vonatkozó másodfok�
 
 g) cserjék kivágásának engedélyezése iránti másodfokú eljárásban,
 
-[^52]: A 30. § (1) bekezdés nyitó és záró szövegrésze a 394/2012. (XII. 20.) Korm. rendelet 54. §-a, nyitó szövegrésze a 107/2013. (IV. 5.) Korm. rendelet 14. §-a szerint módosított szöveg.
+[^52]: A 30. § (1) bekezdés nyitó és záró szövegrésze a 394/2012. (XII. 20.) Korm. rendelet 54. §-a, nyitó szövegrésze a 107/2013. (IV. 5.) Korm. rendelet 14. §-a, záró szövegrésze a 439/2013. (XI. 20.) Korm. rendelet 18. § (6) bekezdése szerint módosított szöveg.
 [^53]: A 30. § (2) bekezdés záró szövegrésze az 527/2013. (XII. 30.) Korm. rendelet 112. § a) pontja szerint módosított szöveg.
 [^54]: A 30. § (3) bekezdése a 176/2013. (VI. 3.) Korm. rendelet 14. §-ával megállapított szöveg.
 [^55]: A 30. § (4) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 112. § a) pontja szerint módosított szöveg.
