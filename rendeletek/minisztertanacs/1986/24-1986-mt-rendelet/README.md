@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1986-24-20-6
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2008-09-01 | 1986-24-20-65.5 | 24/1986. (VI. 26.) MT rendelet |
+| 2014-01-19 | 1986-24-20-65.6 | 182/2009. (IX. 10.) Korm. rendelet |
