@@ -1,0 +1,1 @@
+## „(6) A 3. § a büntetőeljárás során igénybe vehető tolmácsoláshoz és fordításhoz való jogról szóló, 2010. október 20-i 2010/64/EU európai parlamenti és tanácsi irányelv 5. cikk (3) bekezdésének való megfelelést szolgálja.”
