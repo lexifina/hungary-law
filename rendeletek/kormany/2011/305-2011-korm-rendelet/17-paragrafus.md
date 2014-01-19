@@ -42,7 +42,7 @@ i) a tervpályázat hasznosításának módjára és lehetőségeire tett ajánl
 
 j) eredménytelen tervpályázat esetén az eredménytelenségnek a bíráló bizottság által megállapított indokát;
 
-k)[^4] a tervpályázatot követő hirdetmény nélküli tárgyalásos eljárásban ajánlattételre felhívásra vonatkozó ajánlásokat, illetve azt is, ha a bírálóbizottság arra tesz ajánlást, hogy ne kerüljön sor hirdetmény nélküli tárgyalásos eljárás lefolytatására.
+k)[^6] a tervpályázatot követő hirdetmény nélküli tárgyalásos eljárásban ajánlattételre felhívásra vonatkozó ajánlásokat, illetve azt is, ha a bírálóbizottság arra tesz ajánlást, hogy ne kerüljön sor hirdetmény nélküli tárgyalásos eljárás lefolytatására.
 
 (8) Az ajánlatkérő – a tervszolgáltatás megrendelésére szolgáló, a Kbt. 94. § (5) bekezdése szerinti hirdetmény nélküli tárgyalásos közbeszerzési eljárásban az árverseny biztosítása érdekében – a bírálóbizottság részére előírhatja, hogy több pályamű részesüljön díjazásban és a bírálóbizottság köteles legalább az első és a második helyen rangsorolt, díjazásban részesült pályázót a (7) bekezdés k) pontja szerint ajánlani ajánlattételre felhívni. A bírálóbizottság az ajánlatkérő ilyen előírása ellenére is jogosult kizárólag az első díjas pályázót ajánlani a közbeszerzési eljárásban részvételre, amennyiben a második díjas pályamű szakmai színvonalában az első díjazotthoz képest jelentősen alacsonyabb értéket képvisel, valamint ilyen esetben is jogosult olyan ajánlást tenni, hogy ne kerüljön sor hirdetmény nélküli tárgyalásos eljárás lefolytatására. Ha a bírálóbizottság több díjazásban részesült pályázót ajánl a közbeszerzési eljárásban részvételre, a bírálóbizottság által ajánlott összes pályázónak ajánlattételi felhívást kell küldeni.
 
@@ -54,4 +54,4 @@ k)[^4] a tervpályázatot követő hirdetmény nélküli tárgyalásos eljárás
 
 (12) Amennyiben a pályázókkal, szerzőkkel, vagy munkatársakkal kapcsolatban a zárójelentés elfogadása, vagy a lezárt boríték felbontása után merül fel a 12. § (3) bekezdése és a 13. § szerinti kizáró ok, az érintett pályaművet a tervpályázatból utólag ki kell zárni. A kizárás a korábban megállapított rangsorolást és díjakat nem befolyásolja, a kizárt pályázó díja nem kerül kiadásra, az ajánlattételre felhívni javasolt pályázó kizárása esetén a bírálóbizottság a rangsorban következő pályázót ajánlhatja ajánlattételre felhívni a tervpályázatot követő hirdetmény nélküli tárgyalásos közbeszerzési eljárásban.
 
-[^4]: A 17. § (7) bekezdés k) pontja a 220/2012. (VIII. 13.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^6]: A 17. § (7) bekezdés k) pontja a 220/2012. (VIII. 13.) Korm. rendelet 4. §-a szerint módosított szöveg.
