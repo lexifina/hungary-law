@@ -1,4 +1,4 @@
-## 19. § Hatályát veszti az R3 9. § (3) bekezdésében a „– műemlék esetén a kulturális örökség védelméért felelős miniszter egyetértésével –” szövegrész.
+## 14–19. §[^1]
 
 1. melléklet a 439/2013. (XI. 20.) Korm. rendelethez
 
@@ -141,3 +141,5 @@ Egy tevékenységtípusból legfeljebb 20 pont vehető figyelembe. Egy tevékeny
 | 4. | 1 db műemléki védelem alatt álló épület komplex talajnedvesség elleni védelme tervének önálló elkészítése | 4 pont |
 
 | 5. | 1 db műemléki védelem alatt álló épület komplex talajnedvesség elleni védelme tervének elkészítésében munkatársként való közreműködés | 3 pont |
+
+[^1]: A 14–19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
