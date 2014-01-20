@@ -1,4 +1,4 @@
-## 1.[^1]
+## 1.[^2]
 
 ## 2. jóváhagyja a 6. mellékletben szereplő, egymilliárd forintot meghaladó támogatási igényű projektet,
 
@@ -36,10 +36,10 @@
 
 ## Határidő: 2013. június 30.
 
-## 7.[^2]
+## 7.[^3]
 
-1–5. melléklet az 1312/2013. (VI. 7.) Korm. határozathoz[^3]
+1. melléklet az 1312/2013. (VI. 7.) Korm. határozathoz[^4]
 
-[^1]: Az 1. pontot a Kormány az 1635/2013. (IX. 10.) Korm. határozat 5. pont e) alpontjával visszavonta.
-[^2]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: Az 1–5. mellékletet a Kormány az 1635/2013. (IX. 10.) Korm. határozat 5. pont e) alpontjával visszavonta.
+[^2]: Az 1. pontot a Kormány az 1635/2013. (IX. 10.) Korm. határozat 5. pont e) alpontjával visszavonta.
+[^3]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 1–5. mellékletet a Kormány az 1635/2013. (IX. 10.) Korm. határozat 5. pont e) alpontjával visszavonta.
