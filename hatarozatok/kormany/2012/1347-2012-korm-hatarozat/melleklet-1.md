@@ -8,4 +8,6 @@
 
 ## 5. elutasítja a 2. mellékletben szereplő kiemelt projektek akciótervi nevesítését.
 
-1. melléklet az 1347/2012. (IX. 7.) Korm. határozathoz
+1. melléklet az 1347/2012. (IX. 7.) Korm. határozathoz[^1]
+
+[^1]: Az 1. melléklet az 1013/2014. (I. 20.) Korm. határozat 5. pont a) alpontja szerint módosított szöveg.
