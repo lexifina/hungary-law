@@ -14,10 +14,8 @@
 
 ## Határidő: 2014. február 28.
 
-## 5. visszavonja
-
-## a) a Regionális Operatív Programok keretében új kiemelt turisztikai projektek akciótervi nevesítéséről, valamint támogatásuk jóváhagyásáról szóló 1347/2012. (IX. 7.) Korm. határozat 1. mellékletének „Az Észak-Magyarországi Operatív Program 2011–2013-as Akciótervében nevesítésre kerülő kiemelt projektek” alcímébe foglalt táblázatnak az ÉMOP-2.1.1/A-12-k1-2012-0008 azonosító számú, „Poroszló és Tisza-folyó hídja közötti kerékpárút kiépítése, komplex kerékpáros turisztikai fejlesztés megvalósítása, a Tisza-tó kerékpáros körgyűrű Észak-Magyarországi szakaszának megvalósítása” című projektre vonatkozó részét, valamint
-
-## b) a Dél-Alföldi Operatív Program, a Dél-Dunántúli Operatív Program, az Észak-Alföldi Operatív Program, az Észak-Magyarországi Operatív Program és a Nyugat-Dunántúli Operatív Program 2011–2013. évekre szóló akcióterveinek turisztikai prioritásokat érintő módosításáról és egyes kiemelt projektek akciótervi nevesítéséről, támogatásuk emeléséről szóló 1312/2013. (VI. 7.) Korm. határozat 7. mellékletében foglalt táblázat 2. sorát.
+## 5.[^2]
 
 1. melléklet az 1013/2014. (I. 20.) Korm. határozathoz
+
+[^2]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
