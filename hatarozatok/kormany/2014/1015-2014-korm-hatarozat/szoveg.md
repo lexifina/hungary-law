@@ -10,4 +10,6 @@ Felelős: nemzeti fejlesztési miniszter
 
 Határidő: azonnal
 
-4. A KÖZOP-3.5.0-09-11-2013-0042 azonosító számú („M43 autópálya 43. sz. főúti lekötése Makó térségében, valamint a csatlakozó építmények kivitelezési munkáinak elvégzése” című) projektjavaslat akciótervi nevesítéséről és támogatásának jóváhagyásáról szóló 2005/2013. (XII. 29.) Korm. határozat 1. mellékletben foglalt táblázat D:1 mezőjében a „bruttó Ft” szövegrész helyébe a „bruttó Mrd Ft” szöveg lép.
+4.[^2]
+
+[^2]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
