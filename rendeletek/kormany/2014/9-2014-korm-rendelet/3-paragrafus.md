@@ -1,0 +1,1 @@
+## 2. § A Vet. Vhr. 7. § (6) bekezdésében a „felhasználó, illetve a termelői engedélyessel hosszú távú kapacitás-lekötési megállapodással rendelkező kereskedő” szövegrész helyébe az „a felhasználó, illetve a megállapodással rendelkező villamosenergia-kereskedő” szöveg lép.
