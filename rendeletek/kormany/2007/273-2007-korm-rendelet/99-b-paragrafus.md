@@ -1,4 +1,4 @@
-99/B. §[^302] (1) A megfelelési ellenőr
+99/B. §[^303] (1) A megfelelési ellenőr
 
 a) figyelemmel kíséri és ellenőrzi a megfelelési program végrehajtását;
 
@@ -54,4 +54,4 @@ d) a megfelelési ellenőrré való kinevezés előzetes jóváhagyására irán
 
 (5) A Hivatal a megfelelési ellenőr szakmai alkalmasságának hiányát állapítja meg, ha a megfelelési ellenőr feladatainak ellátása körében a megfelelési program végrehajtása és ellenőrzése szempontjából megtévesztő vagy valótlan adatot közöl, vagy a VET-ben vagy az e rendeletben előírt kötelezettségének megsértését jogerős hatósági határozat megállapította.
 
-[^302]: A Vhr. 99/B. §-t a 75/2011. (V. 2.) Korm. rendelet 6. §-a iktatta be.
+[^303]: A Vhr. 99/B. §-t a 75/2011. (V. 2.) Korm. rendelet 6. §-a iktatta be.

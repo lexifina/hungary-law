@@ -1,4 +1,4 @@
-94. §[^293] (1) A megfelelési programot a hálózati engedélyes legalább négyévenként aktualizálja, és az aktualizált megfelelési programmal érintett időszakot megelőző év szeptember 30-áig jóváhagyásra benyújtja a Hivatalnak.
+94. §[^294] (1) A megfelelési programot a hálózati engedélyes legalább négyévenként aktualizálja, és az aktualizált megfelelési programmal érintett időszakot megelőző év szeptember 30-áig jóváhagyásra benyújtja a Hivatalnak.
 
 (2) A jóváhagyott megfelelési programot, valamint a Hivatal jóváhagyó határozatát a hálózati engedélyes a honlapján közzéteszi.
 
@@ -42,4 +42,4 @@
 
 19. a megfelelési program összeállításáért felelős, a hálózati engedélyesnél található szervezeti egység kijelölése.
 
-[^293]: A Vhr. 94. § a 75/2011. (V. 2.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^294]: A Vhr. 94. § a 75/2011. (V. 2.) Korm. rendelet 6. §-ával megállapított szöveg.

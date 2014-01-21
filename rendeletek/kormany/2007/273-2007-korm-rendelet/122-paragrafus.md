@@ -1,1 +1,3 @@
-122. § Az e rendelet hatálybelépését megelőzően továbbadást folytató felhasználó a 38. § (2) bekezdése szerinti tájékoztatási kötelezettségének e rendelet hatálybalépését követő 60 napon belül eleget tesz.
+122. §[^353] Nem köthető 7. § (8) bekezdése szerinti szerződés olyan villamosenergia-kereskedővel, aki a 7. § (6a) bekezdésében foglaltaknak nem felel meg.
+
+[^353]: A Vhr. 122. §-a a 9/2014. (I. 20.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.

@@ -1,4 +1,4 @@
-13/D. §[^51] (1) A vételezővel vagy felhasználóval kötött, a magánvezetékhez történő kapcsolódásra, a magánvezetékes hálózati szolgáltatásra, valamint a vételező esetében a továbbadásra vonatkozó szerződésnek tartalmaznia kell
+13/D. §[^52] (1) A vételezővel vagy felhasználóval kötött, a magánvezetékhez történő kapcsolódásra, a magánvezetékes hálózati szolgáltatásra, valamint a vételező esetében a továbbadásra vonatkozó szerződésnek tartalmaznia kell
 
 a) a kapcsolódási pont helyét;
 
@@ -42,4 +42,4 @@ q) a jogorvoslatra vonatkozó rendelkezéseket.
 
 (2) Az (1) bekezdés n) pont nb) alpontja szerinti közvetett rendelkezésre állás biztosítása, valamint az (1) bekezdés p) pontja szerinti kikapcsolásra vonatkozó tartalmi elemekről a magánvezeték engedélyese a hálózati engedélyessel egyeztet, és a hálózati engedélyes észrevételeit az (1) bekezdés szerinti szerződések tartalmának kialakításához figyelembe veszi. Az egyeztetésről a magánvezeték engedélyese írásos emlékeztetőt készít.
 
-[^51]: A Vhr. 13/D. §-át a 378/2011. (XII. 31.) Korm. rendelet 5. §-a iktatta be.
+[^52]: A Vhr. 13/D. §-át a 378/2011. (XII. 31.) Korm. rendelet 5. §-a iktatta be.

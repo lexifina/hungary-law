@@ -1,6 +1,6 @@
-## Magánvezeték[^46]
+## Magánvezeték[^47]
 
-13. §[^47] (1) A magánvezeték engedélyese köteles a magánvezetéket a VET, e rendelet és a vonatkozó más jogszabályok rendelkezései szerint folyamatosan, a jogszabályokban, a hatósági előírásokban és a szabványokban rögzített minőségi és üzembiztonsági elvárásoknak megfelelő módon üzemeltetni.
+13. §[^48] (1) A magánvezeték engedélyese köteles a magánvezetéket a VET, e rendelet és a vonatkozó más jogszabályok rendelkezései szerint folyamatosan, a jogszabályokban, a hatósági előírásokban és a szabványokban rögzített minőségi és üzembiztonsági elvárásoknak megfelelő módon üzemeltetni.
 
 (2) A magánvezeték engedélyese üzemviteli naplót vezet a magánvezetékről ellátott vételezőt és felhasználót érintő üzemszünetről, hálózati kiesésről, üzemzavarról és feszültségingadozásról, továbbá a magánvezetékről ellátott vételezővel vagy felhasználóval a magánvezetékes szolgáltatással kapcsolatos levelezéséről.
 
@@ -12,5 +12,5 @@
 
 (6) A magánvezeték engedélyese a magánvezetékes szolgáltatási és a továbbadási tevékenységéről köteles olyan elkülönült nyilvántartást vezetni, amely biztosítja a tevékenységenkénti átláthatóságot, a diszkrimináció-mentességet, és – az egyéb tevékenységeivel szemben is – kizárja a keresztfinanszírozást.
 
-[^46]: A Vhr. 13. §-át megelőző alcímét a 378/2011. (XII. 31.) Korm. rendelet 5. §-a iktatta be.
-[^47]: A Vhr. 13. §-a a 378/2011. (XII. 31.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^47]: A Vhr. 13. §-át megelőző alcímét a 378/2011. (XII. 31.) Korm. rendelet 5. §-a iktatta be.
+[^48]: A Vhr. 13. §-a a 378/2011. (XII. 31.) Korm. rendelet 5. §-ával megállapított szöveg.
