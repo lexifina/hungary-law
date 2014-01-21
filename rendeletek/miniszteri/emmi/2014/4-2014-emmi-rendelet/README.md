@@ -1,0 +1,9 @@
+# 4/2014. (I. 20.) EMMI rendelet
+
+egyes egészségbiztosítási tárgyú miniszteri rendeletek módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-4-20-5H
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2014-01-21 | 2014-4-20-5H.1 | 4/2014. (I. 20.) EMMI rendelet |

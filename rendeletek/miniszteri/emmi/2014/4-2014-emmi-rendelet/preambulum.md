@@ -1,0 +1,7 @@
+A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 83. § (3) bekezdés d) pontjában, valamint (4) bekezdés k), l) és m) pontjában kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 41. § b) pontjában meghatározott feladatkörömben eljárva – az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 73. § b) pontjában meghatározott feladatkörében eljáró nemzetgazdasági miniszterrel egyetértésben –,
+
+a 2. alcím és a 14–15. melléklet tekintetében a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 83. § (6) bekezdés f) pontjában kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 41. § b) pontjában meghatározott feladatkörömben eljárva,
+
+a 3. alcím, valamint a 16–21. melléklet tekintetében a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 83. § (6) bekezdés a) és f) pontjában kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 41. § b) pontjában meghatározott feladatkörömben eljárva
+
+a következőket rendelem el:
