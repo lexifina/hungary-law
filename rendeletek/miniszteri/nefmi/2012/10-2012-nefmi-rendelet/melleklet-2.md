@@ -1,6 +1,6 @@
-## ”
+## 20122V20000010_1
 
-2. melléklet a 10/2012. (II. 28.) NEFMI rendelethez[^7]
+2. melléklet a 10/2012. (II. 28.) NEFMI rendelethez[^9]
 
 Az aktív fekvőbeteg-ellátás diagnózisainak és beavatkozásainak besorolási táblázatai
 
@@ -568,70 +568,6 @@ A főcsoportba tartozó bármely betegség
 
 81510 Agykamrai v. spinalis shunt leszívása, átöblítése
 
-**** 01 003F Agyállományi és kamrai vérömlenyek ellátása műtéttel és fibrinolysissel
-
-BETEGSÉGEK
-
-I6000 Subarachnoidealis vérzés a carotis szifonból és bifurcatióból
-
-I6010 Subarachnoidealis vérzés az arteria cerebri mediából
-
-I6020 Subarachnoidealis vérzés az arteria communicans anteriorból
-
-I6030 Subarachnoidealis vérzés az arteria communicans posteriorból
-
-I6040 Subarachnoidealis vérzés az arteria basilarisból
-
-I6050 Subarachnoidealis vérzés az arteria vertebralisból
-
-I6060 Subarachnoidealis vérzés egyéb koponyaűri artériákból
-
-I6070 Subarachnoidealis vérzés k.m.n. koponyaűri artériából
-
-I6080 Egyéb subarachnoidealis vérzés
-
-I6081 Agyi erek vérzett arteriovenosus rendellenessége - hemispheriális
-
-I6082 Agyi erek vérzett arteriovenosus rendellenessége - axiális supratentoriális
-
-I6083 Agyi erek vérzett arteriovenosus rendellenessége - infratentoriális
-
-I6090 Subarachnoidealis vérzés, k.m.n.
-
-I6100 Agyállományi vérzés féltekében, subcorticalis
-
-I6110 Agyállományi vérzés féltekében, corticalis
-
-I6120 Agyállományi vérzés féltekében, k.m.n.
-
-I6130 Agyállományi vérzés agytörzsben
-
-I6140 Agyállományi vérzés kisagyban
-
-I6150 Agyállományi vérzés agykamrában
-
-I6160 Agyállományi vérzés több lokalizációban
-
-I6180 Agyállományi vérzés, egyéb
-
-I6190 Agyállományi vérzés, k.m.n.
-
-ÉS BEAVATKOZÁSOK
-
-50100 Punctio ventriculi cerebri, drain
-
-50114 Subdur., subarachn. tér tartós drainage
-
-50119 Intracerebralis haematoma eltávolítása
-
-5011A Intracerebellaris haematoma eltávolítása
-
-50130 Műtét a törzsdúcok területén, incisio, roncsolás
-
-ÉS BEAVATKOZÁSOK
-
-88116 Agyállományi és agykamrai vérömleny helyi litikus kezelése
-
 **** 01 0040 Speciális gerinc-, gerincvelőműtétek
 
 BETEGSÉGEK
@@ -780,63 +716,7 @@ A főcsoportba tartozó bármely betegség
 
 84112 Crutchfield-húzás
 
-**** 01 007A Extracranialis érműtétek DSA-val
-
-BETEGSÉGEK
-
-A főcsoportba tartozó bármely betegség
-
-ÉS BEAVATKOZÁSOK
-
-53800 Carotis embolectomia
-
-53811 TEA subclavia
-
-5381A TEA vertebralis
-
-5381B TEA anonyma
-
-5381E EEA carotis
-
-5381F TEA carotis
-
-53820 Érresectiók, reimplantatiók carotis
-
-53821 Érresectiók, reimplantatiók subclavia
-
-53822 Érresectiók, reimplantatiók vertebralis
-
-5382E Supraaorticus aneurysma resectio
-
-5382F Subclavia-carotis transpositio
-
-5382G Carotis-subclavia transpositio
-
-5382H Vertebralis-carotis transpositio
-
-53830 Interpositio aorto-supraaorticus
-
-5383K Interpositio subclavia-caroticus
-
-5383L Interpositio axillo-caroticus
-
-5383M Interpositio subclavia-subclavianus
-
-5383N Interpositio carotico-subclavianus
-
-5383P Interpositio carotico-caroticus
-
-5383R Interpositio aorto-anonymalis
-
-5383S Interpositio aorto-anonymo-caroticus sin.
-
-5383T Interpositio aorto-subclavianus
-
-ÉS BEAVATKOZÁSOK
-
-33031 Központi IR extracranialis és intracranialis ereinek DSA-ja
-
-**** 01 007B Extracranialis érműtétek DSA nélkül
+**** 01 007B Extracranialis érműtétek
 
 BETEGSÉGEK
 
@@ -3382,15 +3262,11 @@ S0680 Egyéb koponyaűri sérülések
 
 S0690 Koponyaűri sérülés, k.m.n.
 
-**** 01 0270 Infantilis spinalis laesio
+**** 01 0282 Infantilis központi idegrendszeri laesio
 
 BETEGSÉGEK
 
 U9930 Infantilis spinalis laesio (ISL)
-
-**** 01 0282 Progresszív cerebralis laesio
-
-BETEGSÉGEK
 
 U9940 Laesio cerebri non-progressiva
 
@@ -5714,7 +5590,7 @@ A főcsoportba tartozó bármely betegség
 
 51550 Cryopexia transconj./transscl. retinae/chorioideae
 
-**** 02 0633 Neovascularisatióval járó időskori maculadegeneratio kezelése
+**** 02 0633 Neovascularisatióval járó idoskori maculadegeneratio kezelése
 
 BETEGSÉGEK "A"
 
@@ -5730,21 +5606,27 @@ H3530 Sárgafolt és hátsó pólus sorvadás
 
 BEAVATKOZÁSOK "B"
 
-12219 Fotodinámiás kezelés Verteporfin festékkel
+12219 Neovascularisatioval járó idoskori macula degeneráció fotodinámiás kezelése
 
-BEAVATKOZÁSOK "C"
+VAGY BEAVATKOZÁSOK "C"
 
-12220 Ranibizumab intravitreális injektálása
+12220 Neovascularisatioval járó idoskori macula degeneráció kezelése intravitreális injektálással
 
 BEAVATKOZÁSOK "D"
 
-06040 Ranibizumab
+06041 Verteporfin
 
 BEAVATKOZÁSOK "E"
 
-06041 Verteporfin
+06040 Ranibizumab
 
-"A" DIAGN. ÉS (("B" BEAV. ÉS "F" TÍPUSKÉNT "E" BEAV.) VAGY ("C" BEAV. ÉS "F" TÍPUSKÉNT "D" BEAV.))
+06029 Aflibercept
+
+BEAVATKOZÁSOK "F"
+
+12218 GYEMSZI-OGYI engedélye alapján végzett indikáción túli kezelés
+
+"A" DIAGN. ÉS (("B" BEAV. ÉS "F" TÍPUSKÉNT "D" BEAV.) VAGY ("C" BEAV. ÉS "F" TÍPUSKÉNT "E" BEAV.) VAGY "B" TÍPUSKÉNT "F"BEAV.)
 
 **** 02 0640 Orbita műtétek
 
@@ -5880,6 +5762,26 @@ A főcsoportba tartozó bármely betegség
 
 01203 Hajlítható műlencse
 
+**** 02 0671 Lencseműtétek műlencse beültetéssel, a műlencse ár térítése nélkül
+
+BETEGSÉGEK
+
+A főcsoportba tartozó bármely betegség
+
+ÉS BEAVATKOZÁSOK
+
+51470 Anterior Chamber Lens implantatio
+
+51471 Posterior Chamber Lens implantatio
+
+51475 Műlencse varrattal történő rögzítése
+
+ÉS ESZKÖZÖK
+
+01201 Műlencse
+
+01203 Hajlítható műlencse
+
 **** 02 0680 Szürkehályogműtét phakoemulsificatios módszerrel, hajlítható műlencse biztosításával
 
 BETEGSÉGEK
@@ -5895,6 +5797,22 @@ A főcsoportba tartozó bármely betegség
 ÉS ESZKÖZÖK
 
 01203 Hajlítható műlencse
+
+**** 02 0681 Szürkehályog műtét phacoemulsificatios módszerrel, hajlítható műlencse beültetéssel, a műlencse ár térítése nélkül
+
+BETEGSÉGEK
+
+A főcsoportba tartozó bármely betegség
+
+ÉS BEAVATKOZÁSOK
+
+51474 Szürkehályog műtét phacoemulsificatios módszerrel, hajl. műlencse-beültetéssel
+
+51475 Műlencse varrattal történő rögzítése
+
+ÉS ESZKÖZÖK
+
+1203 Hajlítható műlencse
 
 **** 02 069A Pars plana vitrectomia műlencse-beültetéssel
 
@@ -6864,224 +6782,6 @@ T2680 A szem és függelékei más részeit érintő maródás
 
 T2690 A szem és függelékeinek maródása, rész k.m.n.
 
-**** 02 084Z Szemműtétek (kivéve: szaruhártya-átültetés, pars plana vitrectomia) súlyos társult betegséggel
-
-BETEGSÉGEK
-
-A főcsoportba tartozó bármely betegség
-
-ÉS BEAVATKOZÁSOK
-
-37671 Intraocularis kontakt sugárkezelés
-
-39122 Laser iridotomia
-
-50810 Dacryoadenectomia
-
-50830 Canaliculus lacrimalis kő, idegentest eltávolítás
-
-50831 Dacryocysta kő, idegentest eltávolítás
-
-50832 Ductus nasolacrimalis kő, idegentest eltávolítás
-
-50850 Dacryocystectomia
-
-50860 Reconstructio canaliculi lacrimalis
-
-50870 Dacryocysto-rhinostomia
-
-50871 Canaliculo-(dacryocysto)-rhinostomia
-
-50880 Conjunctivo-rhinostomia
-
-50912 Tarsectomia
-
-50920 Epicanthus műtét
-
-50921 Szemrés helyreállítás
-
-50930 Ectropium ellenes műtét
-
-50931 Entropium ellenes műtét
-
-50932 Alsó szemhéj ectropium-ellenes műtétje
-
-50935 Punctum lacr.eversio elleni műtétje
-
-50941 Plastica palpebrae sec. Blaskovics
-
-50943 Plastica palpebrae gradualis
-
-50950 Blepharorraphia totalis
-
-50951 Blepharorraphia lateralis
-
-51000 Tenotomia seu myotomia musculi oculi
-
-51010 Resectio musc.oculi cum/sine retro-antepositionem
-
-51020 Retropositio musc. oculi
-
-51021 Antepositio musculi oculi
-
-51030 Transpositio musc.oculi
-
-51031 Hummelscheim-műtét
-
-51050 Szemizmok adhaesioinak megszüntetése
-
-51090 Myotomia globularis oculi
-
-51130 Reconstructio et plastica conjunctivae
-
-51140 Adhaesiolysis conjunctivae seu/et palpebrae
-
-51150 Sutura conjunctivae
-
-51151 Keratoplastica conjunctivalis
-
-51210 Keratotomia, keratectomia
-
-51211 Paracentesis corneae, Saemisch-metszés
-
-51220 Pterygium excisio
-
-51240 Sutura corneae
-
-51252 Keratoplastica perforans totalis
-
-51310 Extractio corp. alien. oc. cum magn. seu cum forc.
-
-51320 Trabeculectomia
-
-51321 Iridecleisis
-
-51322 Sclerectomia
-
-51323 Sclerotomia
-
-51331 Cyclodiathermia
-
-51333 Cyclodialysis
-
-51334 Iridectomia antiglauc.
-
-51335 Antiglaucoma implantatio
-
-51336 Gonioplastica
-
-51337 Gonioplastica c. laser
-
-51338 Trabeculoplastica
-
-51340 Excisio prolapsus iridis
-
-51351 Iridosclerostomia
-
-51352 Iridectomia optikai
-
-51353 Sphincterotomia iridis, sphincterolysis
-
-51354 Transfixio iridis
-
-51355 Iridotomia
-
-51356 Cyclectomia
-
-51357 Iridocyclectomia
-
-51358 Iridectomia
-
-51360 Iris plastica, varrat
-
-51361 Adhaesiolysis intraocularis segmentis anterioris
-
-51362 Repositio prolapsus iridis
-
-51370 Scleroplastica, sustentaculum sclerae
-
-51372 Sclerokeratoplastica
-
-51381 Adhaesiolysis intraocularis
-
-51382 Synechiolysis intraocularis
-
-51410 Idegentest eltávolítás szemlencséből (incisio, mágnes)
-
-51420 Lencse lineáris eltávolítása
-
-51440 Lencse intracapsularis eltávolítása
-
-51450 Lencse extracapsularis eltávolítása
-
-51460 Phakoemulsificatio
-
-51470 Anterior Chamber Lens implantatio
-
-51471 Posterior Chamber Lens implantatio
-
-51472 Anterior Chamber Lens igazítás
-
-51473 Posterior Chamber Lens igazítás
-
-51474 Szürkehályog műtét phacoemulsificatios módszerrel, hajl.műlencse-beült
-
-51475 Műlencse varrattal történő rögzítése
-
-51476 Pneumaticus retinopexia
-
-51480 Extractio pseudophacos anterioris
-
-51481 Extractio pseudophacos posterioris
-
-51491 Capsulectomia lentis
-
-51492 Capsulotomia lentis
-
-51493 Capsulorrhexis lentis oc.
-
-51501 Extr. corp. al. intraoc. (non magn.) cum forc.
-
-51510 Extr. corp. al. intraoc. cum magnetem
-
-51520 Scleralis plomb. implant.
-
-51534 Cerclage bulbi
-
-51550 Cryopexia transconj./transscl. retinae/chorioideae
-
-51574 Vitrectomia, open sky
-
-51590 Cyclophotocoagulatio
-
-51600 Decompressio orbitae
-
-51601 Orbita drainage
-
-51602 Krönlein-műtét
-
-51603 Orbita decompr. sin. maxillaris felé
-
-51620 Bulbus evisceratio
-
-51630 Bulbus enucleatio
-
-51631 Exenteratio et plastica orbitae
-
-51640 Orbitatartalom kimetszés
-
-51650 Szemgödri implant. behelyezés
-
-51660 Szemgödri implant. eltávolítás
-
-51670 Orbita reconstructio
-
-57650 Orbita törések nyílt repositiója
-
-59100 Cauterisatio conjuctivae, corneae, sclerae
-
-ÉS A SÚLYOS TÁRSULT BETEGSÉG FELTÉTELEI
-
 **** Főcsoport: 03 Fül-orr-gége és maxillofacialis régió megbetegedései
 
 **** 03 086B Nyaki blockdissectio rosszindulatú daganatos betegség miatt
@@ -7502,4 +7202,362 @@ C1013 A gégefedő mellső felszínének rosszindulatú daganata III. stádium
 
 C1014 A gégefedő mellső felszínének rosszindulatú daganata IV. stádium
 
-[^7]: A 2. melléklet a 24. § (2) bekezdésével megállapított és az 55/2012. (XII. 28.) EMMI rendelet 13. § (1) bekezdése, a 9/2013. (I. 31.) EMMI rendelet 5. § (2)–(3) bekezdése, a 24/2013. (III. 29.) EMMI rendelet 6. § (1)–(2) bekezdése, a 62/2013. (VIII. 27.) EMMI rendelet 2. § (1) bekezdése szerint módosított szöveg.
+C1023 A szájgarat oldalsó falának rosszindulatú daganata III. stádium
+
+C1024 A szájgarat oldalsó falának rosszindulatú daganata IV. stádium
+
+C1033 A szájgarat hátsó falának rosszindulatú daganata III. stádium
+
+C1034 A szájgarat hátsó falának rosszindulatú daganata IV. stádium
+
+C1043 Kopoltyúív (branchiogen) hasadék rosszindulatú daganata III. stádium
+
+C1044 Kopoltyúív (branchiogen) hasadék rosszindulatú daganata IV. stádium
+
+C1083 A szájgarat átfedő elváltozása, rosszindulatú daganata III. stádium
+
+C1084 A szájgarat átfedő elváltozása, rosszindulatú daganata IV. stádium
+
+C1093 Szájgarat rosszindulatú daganata, k.m.n. III. stádium
+
+C1094 Szájgarat rosszindulatú daganata, k.m.n. IV. stádium
+
+C1103 Az orrgarat felső falának rosszindulatú daganata III. stádium
+
+C1104 Az orrgarat felső falának rosszindulatú daganata IV. stádium
+
+C1113 Az orrgarat hátsó falának rosszindulatú daganata III. stádium
+
+C1114 Az orrgarat hátsó falának rosszindulatú daganata IV. stádium
+
+C1123 Az orrgarat oldalfalának rosszindulatú daganata III. stádium
+
+C1124 Az orrgarat oldalfalának rosszindulatú daganata IV. stádium
+
+C1133 Az orrgarat mellső falának rosszindulatú daganata III. stádium
+
+C1134 Az orrgarat mellső falának rosszindulatú daganata IV. stádium
+
+C1183 Az orrgarat átfedő elváltozása, rosszindulatú daganata III. stádium
+
+C1184 Az orrgarat átfedő elváltozása, rosszindulatú daganata IV. stádium
+
+C1193 Orrgarat rosszindulatú daganata, k.m.n. III. stádium
+
+C1194 Orrgarat rosszindulatú daganata, k.m.n. IV. stádium
+
+C1203 A sinus pyriformis rosszindulatú daganata III. stádium
+
+C1204 A sinus pyriformis rosszindulatú daganata IV. stádium
+
+C1303 Gyűrűporc mögötti terület rosszindulatú daganata III. stádium
+
+C1304 Gyűrűporc mögötti terület rosszindulatú daganata IV. stádium
+
+C1313 Aryepiglotticus redő hypopharynx felőli old. rosszind. dag. III. stád.
+
+C1314 Aryepiglotticus redő hypopharynx felőli old. rosszind. dag. IV. stád.
+
+C1323 A hypopharynx hátsó falának rosszindulatú daganata III. stádium
+
+C1324 A hypopharynx hátsó falának rosszindulatú daganata IV. stádium
+
+C1383 A hypopharynx átfedő elváltozása, rosszindulatú dag. III. stádium
+
+C1384 A hypopharynx átfedő elváltozása, rosszindulatú dag. IV. stádium
+
+C1393 Hypopharynx rosszindulatú daganata, k.m.n. III. stádium
+
+C1394 Hypopharynx rosszindulatú daganata, k.m.n. IV. stádium
+
+C1403 Garat rosszindulatú daganata, k.m.n. III. stádium
+
+C1404 Garat rosszindulatú daganata, k.m.n. IV. stádium
+
+C1413 Laryngopharynx rosszindulatú daganata III. stádium
+
+C1414 Laryngopharynx rosszindulatú daganata IV. stádium
+
+C1423 Waldeyer-gyűrű rosszindulatú daganata III. stádium
+
+C1424 Waldeyer-gyűrű rosszindulatú daganata IV. stádium
+
+C1483 Az ajak, a szájüreg és a garat átfedő elvált., rossz. dag. III.st.
+
+C1484 Az ajak, a szájüreg és a garat átfedő elvált., rossz. dag. IV.st.
+
+C3003 Orrüreg rosszindulatú daganata III. stádium
+
+C3004 Orrüreg rosszindulatú daganata IV. stádium
+
+C3013 Középfül rosszindulatú daganata III. stádium
+
+C3014 Középfül rosszindulatú daganata IV. stádium
+
+C3103 Arcüreg rosszindulatú daganata III. stádium
+
+C3104 Arcüreg rosszindulatú daganata IV. stádium
+
+C3113 Rostacsonti üreg rosszindulatú daganata III. stádium
+
+C3114 Rostacsonti üreg rosszindulatú daganata IV. stádium
+
+C3123 Homloküreg rosszindulatú daganata III. stádium
+
+C3124 Homloküreg rosszindulatú daganata IV. stádium
+
+C3133 Ékcsonti üreg rosszindulatú daganata III. stádium
+
+C3134 Ékcsonti üreg rosszindulatú daganata IV. stádium
+
+C3183 A melléküregek átfedő elváltozása, rosszind. dag. III. stádium
+
+C3184 A melléküregek átfedő elváltozása, rosszind. dag. IV. stádium
+
+C3193 Melléküreg rosszindulatú daganata, k.m.n. III. stádium
+
+C3194 Melléküreg rosszindulatú daganata, k.m.n. IV. stádium
+
+C3203 Glottis rosszindulatú daganata III.stádium
+
+C3204 Glottis rosszindulatú daganata IV. stádium
+
+C3213 Supraglotticus rész rosszindulatú daganata III. stádium
+
+C3214 Supraglotticus rész rosszindulatú daganata IV. stádium
+
+C3223 Subglotticus rész rosszindulatú daganata III. stádium
+
+C3224 Subglotticus rész rosszindulatú daganata IV. stádium
+
+C3233 Gégeporc rosszindulatú daganata III. stádium
+
+C3234 Gégeporc rosszindulatú daganata IV. stádium
+
+C3283 A gége átfedő elváltozása, rosszindulatú daganata III. stádium
+
+C3284 A gége átfedő elváltozása, rosszindulatú daganata IV. stádium
+
+C3293 Gége rosszindulatú daganata, k.m.n. III. stádium
+
+C3294 Gége rosszindulatú daganata, k.m.n. IV. stádium
+
+ÉS BEAVATKOZÁSOK
+
+54030 Lymphadenektomia collaris radicalis (PrRND,SRND)
+
+54034 Korlátozott kiterjesztésű nyaki blockdissectio
+
+ÉS BEAVATKOZÁSOK
+
+58935 Érnyeles bőr-izom lebeny
+
+58936 Érnyeles izomlebeny
+
+58937 Távoli nyeleslebeny
+
+58938 Kettős nyeleslebeny
+
+5893F Latissimus dorsi érnyeles bőr, izomlebeny
+
+58960 Lebeny vagy nyeles lebeny más helyhez erősítése
+
+**** 03 086D Fej-, nyaktájék egyéb nagyobb műtétei rosszindulatú daganat miatt
+
+BETEGSÉGEK
+
+C0000 Felső ajak, külső felszín rosszindulatú daganata
+
+C0010 Alsó ajak külső felszín rosszindulatú daganata
+
+C0020 Ajak, k.m.n. rosszindulatú daganata
+
+C0030 Felső ajak, belső felszín rosszindulatú daganata
+
+C0040 Alsó ajak, belső felszín rosszindulatú daganata
+
+C0050 Ajak, nem meghatározott belső felszín rosszindulatú daganata
+
+C0060 Ajakzug rosszindulatú daganata
+
+C0080 Az ajak átfedő elváltozása, rosszindulatú daganata
+
+C0090 Ajak rosszindulatú daganata, k.m.n.
+
+C0101 A nyelvgyök rosszindulatú daganata I. stádium
+
+C0102 A nyelvgyök rosszindulatú daganata II. stádium
+
+C0103 A nyelvgyök rosszindulatú daganata III. stádium
+
+C0104 A nyelvgyök rosszindulatú daganata IV. stádium
+
+C01H0 A nyelvgyök rosszindulatú daganata
+
+C0200 A nyelv háti felszínének rosszindulatú daganata
+
+C0201 A nyelv háti felszínének rosszindulatú daganata I. stádium
+
+C0202 A nyelv háti felszínének rosszindulatú daganata II. stádium
+
+C0203 A nyelv háti felszínének rosszindulatú daganata III. stádium
+
+C0204 A nyelv háti felszínének rosszindulatú daganata IV. stádium
+
+C0210 A nyelv szélének rosszindulatú daganata
+
+C0211 A nyelv szélének rosszindulatú daganata I. stádium
+
+C0212 A nyelv szélének rosszindulatú daganata II. stádium
+
+C0213 A nyelv szélének rosszindulatú daganata III. stádium
+
+C0214 A nyelv szélének rosszindulatú daganata IV. stádium
+
+C0220 A nyelv alsó felszínének rosszindulatú daganata
+
+C0221 A nyelv alsó felszínének rosszindulatú daganata I. stádium
+
+C0222 A nyelv alsó felszínének rosszindulatú daganata II. stádium
+
+C0223 A nyelv alsó felszínének rosszindulatú daganata III. stádium
+
+C0224 A nyelv alsó felszínének rosszindulatú daganata IV. stádium
+
+C0230 A nyelv első kétharmadának rosszindulatú daganata, k.m.n. része
+
+C0231 A nyelv első kétharmadának rosszindulatú dag., k.m.n. része I. stád.
+
+C0232 A nyelv első kétharmadának rosszindulatú dag., k.m.n. része II. stád.
+
+C0233 A nyelv első kétharmadának rosszindulatú dag., k.m.n. része III. stád.
+
+C0234 A nyelv első kétharmadának rosszindulatú dag., k.m.n. része IV. stád.
+
+C0240 Nyelvmandula rosszindulatú daganata
+
+C0241 Nyelvmandula rosszindulatú daganata I. stádium
+
+C0242 Nyelvmandula rosszindulatú daganata II. stádium
+
+C0243 Nyelvmandula rosszindulatú daganata III. stádium
+
+C0244 Nyelvmandula rosszindulatú daganata IV. stádium
+
+C0280 A nyelv átfedő elváltozása, rosszindulatú daganata
+
+C0281 A nyelv átfedő elváltozása, rosszindulatú daganata I. stádium
+
+C0282 A nyelv átfedő elváltozása, rosszindulatú daganata II. stádium
+
+C0283 A nyelv átfedő elváltozása, rosszindulatú daganata III. stádium
+
+C0284 A nyelv átfedő elváltozása, rosszindulatú daganata IV. stádium
+
+C0290 Nyelv rosszindulatú daganata, k.m.n.
+
+C0291 Nyelv rosszindulatú daganata, k.m.n. I. stádium
+
+C0292 Nyelv rosszindulatú daganata, k.m.n. II. stádium
+
+C0293 Nyelv rosszindulatú daganata, k.m.n. III. stádium
+
+C0294 Nyelv rosszindulatú daganata, k.m.n. IV. stádium
+
+C0300 Felső fogíny rosszindulatú daganata
+
+C0301 Felső fogíny rosszindulatú daganata I. stádium
+
+C0302 Felső fogíny rosszindulatú daganata II. stádium
+
+C0303 Felső fogíny rosszindulatú daganata III. stádium
+
+C0304 Felső fogíny rosszindulatú daganata IV. stádium
+
+C0310 Alsó fogíny rosszindulatú daganata
+
+C0311 Alsó fogíny rosszindulatú daganata I. stádium
+
+C0312 Alsó fogíny rosszindulatú daganata II. stádium
+
+C0313 Alsó fogíny rosszindulatú daganata III. stádium
+
+C0314 Alsó fogíny rosszindulatú daganata IV. stádium
+
+C0390 Fogíny rosszindulatú daganata, k.m.n.
+
+C0391 Fogíny rosszindulatú daganata, k.m.n. I. stádium
+
+C0392 Fogíny rosszindulatú daganata, k.m.n. II. stádium
+
+C0393 Fogíny rosszindulatú daganata, k.m.n. III. stádium
+
+C0394 Fogíny rosszindulatú daganata, k.m.n. IV. stádium
+
+C0400 A szájfenék első részének rosszindulatú daganata
+
+C0401 A szájfenék első részének rosszindulatú daganata I. stádium
+
+C0402 A szájfenék első részének rosszindulatú daganata II. stádium
+
+C0403 A szájfenék első részének rosszindulatú daganata III. stádium
+
+C0404 A szájfenék első részének rosszindulatú daganata IV. stádium
+
+C0410 A szájfenék oldalsó részének rosszindulatú daganata
+
+C0411 A szájfenék oldalsó részének rosszindulatú dag. I. stádium
+
+C0412 A szájfenék oldalsó részének rosszindulatú dag. II. stádium
+
+C0413 A szájfenék oldalsó részének rosszindulatú dag. III. stádium
+
+C0414 A szájfenék oldalsó részének rosszindulatú dag. IV. stádium
+
+C0480 A szájfenék határt átfedő elváltozása, rosszindulatú daganata
+
+C0481 A szájfenék határt átfedő elváltozása, rossz. dag. I. stádium
+
+C0482 A szájfenék határt átfedő elváltozása, rossz. dag. II. stádium
+
+C0483 A szájfenék határt átfedő elváltozása, rossz. dag. III. stádium
+
+C0484 A szájfenék határt átfedő elváltozása, rossz. dag. IV. stádium
+
+C0490 Szájfenék rosszindulatú daganata, k.m.n.
+
+C0491 Szájfenék rosszindulatú daganata, k.m.n. I. stádium
+
+C0492 Szájfenék rosszindulatú daganata, k.m.n. II. stádium
+
+C0493 Szájfenék rosszindulatú daganata, k.m.n. III. stádium
+
+C0494 Szájfenék rosszindulatú daganata, k.m.n. IV. stádium
+
+C0500 Kemény szájpad rosszindulatú daganata
+
+C0501 Kemény szájpad rosszindulatú daganata I. stádium
+
+C0502 Kemény szájpad rosszindulatú daganata II. stádium
+
+C0503 Kemény szájpad rosszindulatú daganata III. stádium
+
+C0504 Kemény szájpad rosszindulatú daganata IV. stádium
+
+C0510 Lágy szájpad rosszindulatú daganata
+
+C0511 Lágy szájpad rosszindulatú daganata I. stádium
+
+C0512 Lágy szájpad rosszindulatú daganata II. stádium
+
+C0513 Lágy szájpad rosszindulatú daganata III. stádium
+
+C0514 Lágy szájpad rosszindulatú daganata IV. stádium
+
+C0520 Nyelvcsap rosszindulatú daganata
+
+C0521 Nyelvcsap rosszindulatú daganata I. stádium
+
+C0522 Nyelvcsap rosszindulatú daganata II. stádium
+
+[^9]: A 2. melléklet a 24. § (2) bekezdésével megállapított és az 55/2012. (XII. 28.) EMMI rendelet 13. § (1) bekezdése, a 9/2013. (I. 31.) EMMI rendelet 5. § (2)–(3) bekezdése, a 24/2013. (III. 29.) EMMI rendelet 6. § (1)–(2) bekezdése, a 62/2013. (VIII. 27.) EMMI rendelet 2. § (1) bekezdése, a 4/2014. (I. 20.) EMMI rendelet 6. § (2) bekezdése szerint módosított szöveg.

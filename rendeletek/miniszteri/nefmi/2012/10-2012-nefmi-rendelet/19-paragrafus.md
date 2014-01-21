@@ -4,7 +4,7 @@
 
 a) két aktív osztályos esemény között 30 napot meghaladó krónikus ellátásra került sor,
 
-b) a kórházi felvételtől számított 10 napon túl történt az R. 8. számú mellékletének 1., 2., és 8–12. pontja szerinti nagy értékű beavatkozást tartalmazó ellátás és az azt megelőző ellátás önálló finanszírozási esetként számolható el.
+b)[^6] az R. 8. számú melléklet 1., 2., és 8–12. pontja szerinti nagy értékű beavatkozást tartalmazó ellátás és az azt megelőző ellátás önálló finanszírozási esetként számolható el.
 
 (2) Az összevonás – a R. 14. számú mellékletében meghatározott kivételektől eltekintve – az első ellátás elszámolási csoportjának felső határnapját megelőzően ugyanazon kórházba visszavett betegek ellátási eseteire is vonatkozik. Az összevonás elvégzése során érvényesíteni kell a legmagasabb díj elszámolásának szabályát.
 
@@ -39,3 +39,5 @@ i) a garanciális szabály alkalmazásakor az összevonás előtt történik ann
 (6) Ha egy adott kórházi eset a besorolási feltételeknek megfelelően a polirezisztens TBC csoportba tartozó, akkor–függetlenül az ellátó osztályok számától és jellegétől – a normatív napig mindenképpen aktív finanszírozási esetként kell elszámolni a „1360 Gümőkór polirezisztens kórokozóval” csoportban. Az összevonás során nem kell érvényesíteni a 30 napot meghaladó krónikus ellátás esetén új aktív finanszírozási eset elszámolására vonatkozó szabályt. Amennyiben az összes osztályos eset ellátási napjai együttesen meghaladják a fenti csoport normatív idejét, a normatív feletti napokra az ellátó osztály jellegétől függően vagy az aktív elszámolási szabályokat kell alkalmazni, vagy a krónikus ellátásra járó naparányos díjat kell elszámolni.
 
 (7) A HBCs összevonási és garanciális szabályt alkalmazni kell a kúraszerű ellátásra, valamint a fekvőbeteg- és kúraszerű ellátási események között is. A kúraszerű ellátási események kezelése ebben a tekintetben is azonos a kórházi ellátási eseményekkel.
+
+[^6]: A 19. § (1) bekezdés b) pontja a 4/2014. (I. 20.) EMMI rendelet 5. §-ával megállapított szöveg.
