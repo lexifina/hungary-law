@@ -18,9 +18,9 @@ I. Az egészségügyi eljárások egészségügyi szakmákra vonatkozó ellátá
 
 | 11054 |  | Szakorvosi vizsgálat és szakvélemény kiadása szociális ellátásra való jogosultság megállapításához | X |  | O |  | O |  | O | O | O |  |  |  |
 
-| 11055 |  | I. fokú orvosi bizottság szakvéleményének kialakítása és kiadása munkaképesség csökkenés elbírálása céljából |  |  |  |  |  |  |  |  |  |  |  |  |
+| 11055 |  | I. fokú bizottság komplex szakvéleményének kialakítása és kiadása a megváltozott munkaképességű személyek esetén |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 11056 |  | II. fokú orvosi bizottság szakvéleményének kialakítása és kiadása munkaképesség csökkenés elbírálása céljából |  |  |  |  |  |  |  |  |  |  |  |  |
+| 11056 |  | II. fokú bizottság komplex szakvéleményének kialakítása és kiadása a megváltozott munkaképességű személyek esetén |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | 11057 |  | Vizsgálat a szakmai alkalmasság I. fokon történő elbírálására |  |  |  |  |  |  |  |  |  |  |  |  |
 
@@ -29,6 +29,14 @@ I. Az egészségügyi eljárások egészségügyi szakmákra vonatkozó ellátá
 | 11059 |  | Vizsgálat a munkaköri alkalmasság II. fokon történő elbírálására |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | 11060 |  | Vizsgálat foglalkozási megbetegedés megelőzése vagy megállapítása céljából |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 11061 |  | Szakhatósági és szakértői feladatok ellátásához kapcsolódó vélemény kialakítása és kiadása I. és II. fokon, személyes megjelenéssel |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 11062 |  | Szakhatósági és szakértői feladatok ellátásához kapcsolódó vélemény kialakítása és kiadása I. és II. fokon irat alapján |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 11063 |  | Kiegészítő kód az I. és II. fokú komplex és egyéb szakértői vizsgálatok helyszínen történő végzéséhez |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 11064 | * | A felsőoktatásban részt vevő hallgatók fogyatékosságának megállapítására irányuló szakértői eljárás végzése |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | 11301 |  | Kontrollvizsgálat, konzílium | O | O | O | O | O | O | O | O | O | O | O | O |
 
@@ -114,11 +122,11 @@ I. Az egészségügyi eljárások egészségügyi szakmákra vonatkozó ellátá
 
 | 12085 |  | Elektromyographia, késői válasz (hullám) vizsgálat |  |  |  |  | O |  |  |  | X |  |  |  |
 
-| 12086 |  | Elektromyographia ismételt/páros ingerléssel |  |  |  |  | O |  |  |  | X |  |  |  |
+| 12086 |  | Repetitív ideg ingerlés |  |  |  |  | O |  |  |  | X |  |  |  |
 
-| 12087 |  | Elektromyographia, egyes rost vizsgálatok |  |  |  |  | O |  |  |  | X |  |  |  |
+| 12087 |  | Elektromyographia, egyes rost vizsgálatok, Jitter mérés |  |  |  |  | O |  |  |  | X |  |  |  |
 
-| 12088 |  | Elektromacromyographia |  |  |  |  | O |  |  |  | X |  |  |  |
+| 12088 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | 12089 |  | Motoros rendszer vizsgálata mágneses ingerléssel |  |  |  |  | O |  |  |  | X |  |  |  |
 
@@ -126,15 +134,17 @@ I. Az egészségügyi eljárások egészségügyi szakmákra vonatkozó ellátá
 
 | 1208C |  | Elektromyographia palati et laryngis |  |  |  |  | O | O |  |  | X |  |  |  |
 
-| 1208D |  | Impulzus diagnosztika spinalis eredetű motoros zavarnál |  |  |  |  | O |  |  |  | X |  |  |  |
+| 1208D |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 1208E |  | Impulzus diagnosztika a plexus brachialis ellátási területén |  |  |  |  | O |  |  |  | X |  |  |  |
+| 1208E |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 1208F |  | Impulzus diagnosztika a n. facialis ellátási területén |  |  |  |  | O | O |  |  | X |  |  |  |
+| 1208F |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 1208G |  | Impulzus diagnosztika a n. ischiadicus ellátási területén |  |  |  |  | O |  |  |  | X |  |  |  |
+| 1208G |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 1208H |  | Elektromyographia a tremor differenciáldiagnosztikájához, minimum 2 izomból |  |  |  |  | O |  |  |  | X |  |  |  |
+| 1208H |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 1208I |  | Blink reflex |  |  |  |  | O |  |  |  | X |  |  |  |
 
 | 13 | 14 | 16 | 18 | 19 | 22 | 24 | 26 | 28 | 29 | 31 | 32 | 33 | 34 | 38 | 39 | 40 | 46 | 48 | 50 | 51 | 54 | 55 | 56 | 59 | 601 | 604 | 65 | A2 | Oenokód2 |
 
@@ -163,6 +173,14 @@ I. Az egészségügyi eljárások egészségügyi szakmákra vonatkozó ellátá
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | X |  |  |  | 11059 |
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | X |  |  |  | 11060 |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | X |  |  | 11061 |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | X |  |  | 11062 |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | X |  |  | 11063 |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | X |  |  | 11064 |
 
 | O | O | O | O | O | O | O |  | O | O | O | O | O | O | O | O | O | O | O |  |  |  | O | O |  | O |  | O | O | 11301 |
 
@@ -252,23 +270,13 @@ I. Az egészségügyi eljárások egészségügyi szakmákra vonatkozó ellátá
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  | O |  |  |  |  |  |  | O |  |  | O |  |  |  |  |  | 12087 |
 
-|  |  |  |  |  |  |  |  |  |  |  |  |  | O |  |  |  |  |  |  | O |  |  | O |  |  |  |  |  | 12088 |
-
 |  |  |  |  |  |  |  |  |  |  |  |  |  | O |  |  |  |  |  |  |  |  |  | O |  |  |  |  |  | 12089 |
 
 |  | O |  |  |  |  |  |  |  |  |  |  |  | O |  |  |  |  |  |  | O |  |  | O |  |  |  |  |  | 1208A |
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  | O |  |  |  |  |  |  | O |  |  | O |  |  |  |  |  | 1208C |
 
-|  |  |  |  |  | O |  |  |  |  |  |  |  | O |  |  |  |  |  |  | O |  |  | O |  |  |  |  |  | 1208D |
-
-|  | O |  |  |  | O |  |  |  |  |  |  |  | O |  |  |  |  |  |  | O |  |  | O |  |  |  |  |  | 1208E |
-
-|  |  |  |  |  | O |  |  |  |  |  |  |  | O |  |  |  |  |  |  | O |  |  | O |  |  |  |  |  | 1208F |
-
-|  |  |  |  |  | O |  |  |  |  |  |  |  | O |  |  |  |  |  |  | O |  |  | O |  |  |  |  |  | 1208G |
-
-|  |  |  |  |  |  |  |  |  |  |  |  |  | O |  |  |  |  |  |  | O |  |  | O |  |  |  |  |  | 1208H |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | O |  |  |  |  |  | 1208I |
 
 | OENO kód | Cs | Egészségügyi eljárás | 01 | 02 | 03 | 04 | 05 | 06 | 07 | 08 | 09 | 10 | 11 | 12 |
 
@@ -418,4 +426,4 @@ I. Az egészségügyi eljárások egészségügyi szakmákra vonatkozó ellátá
 
 | 12310 |  | Impedancia audiometria (Tympanometria + stapedius refl.) |  |  |  |  | O | X |  |  |  |  |  |  |
 
-[^9]: A 2. melléklet az 55/2012. (XII. 28.) EMMI rendelet 10. § (2) bekezdése, a 24/2013. (III. 29.) EMMI rendelet 5. § (2) bekezdése szerint módosított szöveg.
+[^9]: A 2. melléklet az 55/2012. (XII. 28.) EMMI rendelet 10. § (2) bekezdése, a 24/2013. (III. 29.) EMMI rendelet 5. § (2) bekezdése, a 4/2014. (I. 20.) EMMI rendelet 3. § (1) bekezdése szerint módosított szöveg.
