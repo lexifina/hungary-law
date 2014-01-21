@@ -40,7 +40,7 @@
 
 | 0502 | Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház |
 
-| 0509 | MISEK, Miskolci Semmelweis Ignác Egészségügyi Központ és Egyetemi Oktató Kórház Nonprofit Kft. |
+| 0509 | MISEK, Miskolci Semmelweis Kórház és Egyetemi Oktatókórház |
 
 | 0643 | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
 
@@ -52,9 +52,9 @@
 
 | 1701 | Tolna Megyei Balassa János Kórház, Szekszárd |
 
-| 1801 | Vas Megyei Markusovszky Kórház Egyetemi Oktatókórház Nonprofit Zrt., Szombathely |
+| 1801 | Markusovszky Egyetemi Oktatókórház, Szombathely |
 
-| 1901 | Veszprém Megyei Csolnoky Ferenc Kórház Nonprofit Zrt., Veszprém |
+| 1901 | Csolnoky Ferenc Kórház, Veszprém |
 
 | 2001 | Zala Megyei Kórház, Zalaegerszeg |
 
@@ -88,7 +88,7 @@
 
 | 0502 | Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház |
 
-| 0509 | MISEK, Miskolci Semmelweis Ignác Egészségügyi Központ és Egyetemi Oktató Kórház Nonprofit Kft. |
+| 0509 | MISEK, Miskolci Semmelweis Kórház és Egyetemi Oktatókórház |
 
 | 0643 | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
 
@@ -100,9 +100,9 @@
 
 | 1701 | Tolna Megyei Balassa János Kórház, Szekszárd |
 
-| 1801 | Vas Megyei Markusovszky Kórház Egyetemi Oktatókórház Nonprofit Zrt., Szombathely |
+| 1801 | Markusovszky Egyetemi Oktatókórház, Szombathely |
 
-| 1901 | Veszprém Megyei Csolnoky Ferenc Kórház Nonprofit Zrt., Veszprém |
+| 1901 | Csolnoky Ferenc Kórház, Veszprém |
 
 | 2001 | Zala Megyei Kórház, Zalaegerszeg |
 
@@ -132,7 +132,7 @@
 
 | 0502 | Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház |
 
-| 0509 | MISEK, Miskolci Semmelweis Ignác Egészségügyi Központ és Egyetemi Oktató Kórház Nonprofit Kft. |
+| 0509 | MISEK, Miskolci Semmelweis Kórház és Egyetemi Oktatókórház |
 
 | 0643 | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
 
@@ -144,9 +144,9 @@
 
 | 1701 | Tolna Megyei Balassa János Kórház, Szekszárd |
 
-| 1801 | Vas Megyei Markusovszky Kórház Egyetemi Oktatókórház Nonprofit Zrt., Szombathely |
+| 1801 | Markusovszky Egyetemi Oktatókórház, Szombathely |
 
-| 1901 | Veszprém Megyei Csolnoky Ferenc Kórház Nonprofit Zrt., Veszprém |
+| 1901 | Csolnoky Ferenc Kórház, Veszprém |
 
 | 2001 | Zala Megyei Kórház, Zalaegerszeg |
 
@@ -176,7 +176,7 @@
 
 | 0502 | Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház |
 
-| 0509 | MISEK, Miskolci Semmelweis Ignác Egészségügyi Központ és Egyetemi Oktató Kórház Nonprofit Kft. |
+| 0509 | MISEK, Miskolci Semmelweis Kórház és Egyetemi Oktatókórház |
 
 | 0643 | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
 
@@ -188,9 +188,9 @@
 
 | 1701 | Tolna Megyei Balassa János Kórház, Szekszárd |
 
-| 1801 | Vas Megyei Markusovszky Kórház Egyetemi Oktatókórház Nonprofit Zrt., Szombathely |
+| 1801 | Markusovszky Egyetemi Oktatókórház, Szombathely |
 
-| 1901 | Veszprém Megyei Csolnoky Ferenc Kórház Nonprofit Zrt., Veszprém |
+| 1901 | Csolnoky Ferenc Kórház, Veszprém |
 
 | 2001 | Zala Megyei Kórház, Zalaegerszeg |
 
@@ -224,7 +224,7 @@
 
 | 0502 | Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház |
 
-| 0509 | MISEK, Miskolci Semmelweis Ignác Egészségügyi Központ és Egyetemi Oktató Kórház Nonprofit Kft. |
+| 0509 | MISEK, Miskolci Semmelweis Kórház és Egyetemi Oktatókórház |
 
 | 0643 | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
 
@@ -236,9 +236,9 @@
 
 | 1701 | Tolna Megyei Balassa János Kórház, Szekszárd |
 
-| 1801 | Vas Megyei Markusovszky Kórház Egyetemi Oktatókórház Nonprofit Zrt., Szombathely |
+| 1801 | Markusovszky Egyetemi Oktatókórház, Szombathely |
 
-| 1901 | Veszprém Megyei Csolnoky Ferenc Kórház Nonprofit Zrt., Veszprém |
+| 1901 | Csolnoky Ferenc Kórház, Veszprém |
 
 | 2001 | Zala Megyei Kórház, Zalaegerszeg |
 
@@ -278,23 +278,23 @@
 
 | 0801 | Petz Aladár Megyei Oktató Kórház, Győr |
 
-| 0901 | Kenézy Gyula Kórház-Rendelőintézet Egészségügyi Nonprofit Kft., Debrecen |
+| 0901 | Kenézy Gyula Kórház és Rendelőintézet, Debrecen |
 
 | 0940 | Debreceni Egyetem, Orvos- és Egészségtudományi Centrum |
 
-| 1011 | Markhot Ferenc Kórház Egészségügyi Szolgáltató Nonprofit Kiemelkedően Közhasznú Kft., Eger |
+| 1011 | Markhot Ferenc Oktatókórház és Rendelőintézet, Eger |
 
 | 1102 | Vaszary Kolos Kórház, Esztergom |
 
 | 1309 | Pest Megyei Flór Ferenc Kórház, Kistarcsa |
 
-| 1501 | Jósa András Oktató Kórház Nonprofit Kft., Nyíregyháza |
+| 1501 | Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház |
 
-| 1801 | Vas Megyei Markusovszky Kórház Egyetemi Oktatókórház Nonprofit Zrt., Szombathely |
+| 1801 | Markusovszky Egyetemi Oktatókórház, Szombathely |
 
-| 1901 | Veszprém Megyei Csolnoky Ferenc Kórház Nonprofit Zrt., Veszprém |
+| 1901 | Csolnoky Ferenc Kórház, Veszprém |
 
-| 2004 | Hévízgyógyfürdő és Szent András Reumakórház Nonprofit Kft. |
+| 2004 | Hévízgyógyfürdő és Szent András Reumakórház |
 
 | 2237 | Betegápoló Irgalmas Rend Kórház, Budapest |
 
@@ -336,23 +336,23 @@
 
 | 0801 | Petz Aladár Megyei Oktató Kórház, Győr |
 
-| 0901 | Kenézy Gyula Kórház-Rendelőintézet Egészségügyi Nonprofit Kft., Debrecen |
+| 0901 | Kenézy Gyula Kórház és Rendelőintézet, Debrecen |
 
 | 0940 | Debreceni Egyetem, Orvos- és Egészségtudományi Centrum |
 
-| 1011 | Markhot Ferenc Kórház Egészségügyi Szolgáltató Nonprofit Kiemelkedően Közhasznú Kft., Eger |
+| 1011 | Markhot Ferenc Oktatókórház és Rendelőintézet, Eger |
 
 | 1102 | Vaszary Kolos Kórház, Esztergom |
 
 | 1309 | Pest Megyei Flór Ferenc Kórház, Kistarcsa |
 
-| 1501 | Jósa András Oktató Kórház Nonprofit Kft., Nyíregyháza |
+| 1501 | Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház |
 
-| 1801 | Vas Megyei Markusovszky Kórház Egyetemi Oktatókórház Nonprofit Zrt., Szombathely |
+| 1801 | Markusovszky Egyetemi Oktatókórház, Szombathely |
 
-| 1901 | Veszprém Megyei Csolnoky Ferenc Kórház Nonprofit Zrt., Veszprém |
+| 1901 | Csolnoky Ferenc Kórház, Veszprém |
 
-| 2004 | Hévízgyógyfürdő és Szent András Reumakórház Nonprofit Kft. |
+| 2004 | Hévízgyógyfürdő és Szent András Reumakórház |
 
 | 2237 | Betegápoló Irgalmas Rend Kórház, Budapest |
 
@@ -384,7 +384,7 @@
 
 | 0301 | Bács-Kiskun Megyei Kórház, Kecskemét |
 
-| 0509 | MISEK, Miskolci Semmelweis Ignác Egészségügyi Központ és Egyetemi Oktató Kórház Nonprofit Kft. |
+| 0509 | MISEK, Miskolci Semmelweis Kórház és Egyetemi Oktatókórház |
 
 | 0643 | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
 
@@ -392,7 +392,7 @@
 
 | 1401 | Kaposi Mór Oktató Kórház, Kaposvár |
 
-| 1801 | Vas Megyei Markusovszky Kórház Egyetemi Oktatókórház Nonprofit Zrt., Szombathely |
+| 1801 | Markusovszky Egyetemi Oktatókórház, Szombathely |
 
 ## 6/a1.
 
@@ -404,7 +404,7 @@
 
 ## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
 
-## 06050 cetrolizumab
+## 06050 certolizumab pegol
 
 ## 06051 etanercept
 
@@ -438,23 +438,23 @@
 
 | 0801 | Petz Aladár Megyei Oktató Kórház, Győr |
 
-| 0901 | Kenézy Kórház Rendelőintézet Egészségügyi Nonprofit Kft., Debrecen |
+| 0901 | Kenézy Gyula Kórház és Rendelőintézet, Debrecen |
 
 | 0940 | Debreceni Egyetem Orvos- és Egészségtudományi Centrum |
 
-| 1011 | Markhot Ferenc Kórház Egészségügyi Szolgáltató Nonprofit Kiemelkedően Közhasznú Kft., Eger |
+| 1011 | Markhot Ferenc Oktatókórház és Rendelőintézet, Eger |
 
 | 1102 | Vaszary Kolos Kórház, Esztergom |
 
 | 1309 | Pest Megyei Flór Ferenc Kórház, Kistarcsa |
 
-| 1501 | Jósa András Oktató Kórház Nonprofit Kft., Nyíregyháza |
+| 1501 | Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház |
 
-| 1801 | Vas Megyei Markusovszky Kórház Egyetemi Oktatókórház Nonprofit Zrt., Szombathely |
+| 1801 | Markusovszky Egyetemi Oktatókórház |
 
-| 1901 | Veszprém Megyei Csolnoky Ferenc Kórház Nonprofit Zrt., Veszprém |
+| 1901 | Csolnoky Ferenc Kórház, Veszprém |
 
-| 2004 | Hévízgyógyfürdő és Szent András Reumakórház Nonprofit Kft. |
+| 2004 | Hévízgyógyfürdő és Szent András Reumakórház |
 
 | 2237 | Betegápoló Irgalmas Rend Kórház, Budapest |
 
@@ -490,23 +490,23 @@
 
 | 0801 | Petz Aladár Megyei Oktató Kórház, Győr |
 
-| 0901 | Kenézy Kórház Rendelőintézet Egészségügyi Nonprofit Kft., Debrecen |
+| 0901 | Kenézy Gyula Kórház és Rendelőintézet, Debrecen |
 
 | 0940 | Debreceni Egyetem Orvos- és Egészségtudományi Centrum |
 
-| 1011 | Markhot Ferenc Kórház Egészségügyi Szolgáltató Nonprofit Kiemelkedően Közhasznú Kft., Eger |
+| 1011 | Markhot Ferenc Oktatókórház és Rendelőintézet, Eger |
 
 | 1102 | Vaszary Kolos Kórház, Esztergom |
 
 | 1309 | Pest Megyei Flór Ferenc Kórház, Kistarcsa |
 
-| 1501 | Jósa András Oktató Kórház Nonprofit Kft., Nyíregyháza |
+| 1501 | Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház |
 
-| 1801 | Vas Megyei Markusovszky Kórház Egyetemi Oktatókórház Nonprofit Zrt., Szombathely |
+| 1801 | Markusovszky Egyetemi Oktatókórház, Szombathely |
 
-| 1901 | Veszprém Megyei Csolnoky Ferenc Kórház Nonprofit Zrt., Veszprém |
+| 1901 | Csolnoky Ferenc Kórház, Veszprém |
 
-| 2004 | Hévízgyógyfürdő és Szent András Reumakórház Nonprofit Kft. |
+| 2004 | Hévízgyógyfürdő és Szent András Reumakórház |
 
 | 2237 | Betegápoló Irgalmas Rend Kórház, Budapest |
 
@@ -552,23 +552,23 @@
 
 | 0801 | Petz Aladár Megyei Oktató Kórház, Győr |
 
-| 0901 | Kenézy Kórház Rendelőintézet Egészségügyi Nonprofit Kft., Debrecen |
+| 0901 | Kenézy Gyula Kórház és Rendelőintézet, Debrecen |
 
 | 0940 | Debreceni Egyetem Orvos- és Egészségtudományi Centrum |
 
-| 1011 | Markhot Ferenc Kórház Egészségügyi Szolgáltató Nonprofit Kiemelkedően Közhasznú Kft., Eger |
+| 1011 | Markhot Ferenc Oktatókórház és Rendelőintézet, Eger |
 
 | 1102 | Vaszary Kolos Kórház, Esztergom |
 
 | 1309 | Pest Megyei Flór Ferenc Kórház, Kistarcsa |
 
-| 1501 | Jósa András Oktató Kórház Nonprofit Kft., Nyíregyháza |
+| 1501 | Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház |
 
-| 1801 | Vas Megyei Markusovszky Kórház Egyetemi Oktatókórház Nonprofit Zrt., Szombathely |
+| 1801 | Markusovszky Egyetemi Oktatókórház, Szombathely |
 
-| 1901 | Veszprém Megyei Csolnoky Ferenc Kórház Nonprofit Zrt., Veszprém |
+| 1901 | Csolnoky Ferenc Kórház, Veszprém |
 
-| 2004 | Hévízgyógyfürdő és Szent András Reumakórház Nonprofit Kft. |
+| 2004 | Hévízgyógyfürdő és Szent András Reumakórház |
 
 | 2237 | Betegápoló Irgalmas Rend Kórház, Budapest |
 
@@ -602,7 +602,7 @@
 
 | 0401 | Pándy Kálmán Megyei Kórház, Gyula |
 
-| 0509 | MISEK, Miskolci Semmelweis Ignác Egészségügyi Központ és Egyetemi Oktató Kórház Nonprofit Kft. |
+| 0509 | MISEK, Miskolci Semmelweis Kórház és Egyetemi Oktatókórház |
 
 | 0643 | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
 
@@ -612,21 +612,21 @@
 
 | 0940 | Debreceni Egyetem, Orvos- és Egészségtudományi Centrum |
 
-| 1011 | Markhot Ferenc Kórház Egészségügyi Szolgáltató Nonprofit Kiemelkedően Közhasznú Kft., Eger |
+| 1011 | Markhot Ferenc Oktatókórház és Rendelőintézet, Eger |
 
 | 1101 | Szent Borbála Kórház, Tatabánya |
 
 | 1401 | Kaposi Mór Oktató Kórház, Kaposvár |
 
-| 1501 | Jósa András Oktató Kórház Nonprofit Kft., Nyíregyháza |
+| 1501 | Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház |
 
 | 1601 | Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet, Szolnok |
 
 | 1701 | Tolna Megyei Balassa János Kórház, Szekszárd |
 
-| 1801 | Vas Megyei Markusovszky Kórház Egyetemi Oktatókórház Nonprofit Zrt., Szombathely |
+| 1801 | Markusovszky Egyetemi Oktatókórház, Szombathely |
 
-| 1901 | Veszprém Megyei Csolnoky Ferenc Kórház Nonprofit Zrt., Veszprém |
+| 1901 | Csolnoky Ferenc Kórház, Veszprém |
 
 | 2001 | Zala Megyei Kórház, Zalaegerszeg |
 
@@ -658,7 +658,7 @@
 
 | 0401 | Pándy Kálmán Megyei Kórház, Gyula |
 
-| 0509 | MISEK, Miskolci Semmelweis Ignác Egészségügyi Központ és Egyetemi Oktató Kórház Nonprofit Kft. |
+| 0509 | MISEK, Miskolci Semmelweis Kórház és Egyetemi Oktatókórház |
 
 | 0643 | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
 
@@ -668,21 +668,21 @@
 
 | 0940 | Debreceni Egyetem, Orvos- és Egészségtudományi Centrum |
 
-| 1011 | Markhot Ferenc Kórház Egészségügyi Szolgáltató Nonprofit Kiemelkedően Közhasznú Kft., Eger |
+| 1011 | Markhot Ferenc Oktatókórház és Rendelőintézet, Eger |
 
 | 1101 | Szent Borbála Kórház, Tatabánya |
 
 | 1401 | Kaposi Mór Oktató Kórház, Kaposvár |
 
-| 1501 | Jósa András Oktató Kórház Nonprofit Kft., Nyíregyháza |
+| 1501 | Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház |
 
 | 1601 | Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet, Szolnok |
 
 | 1701 | Tolna Megyei Balassa János Kórház, Szekszárd |
 
-| 1801 | Vas Megyei Markusovszky Kórház Egyetemi Oktatókórház Nonprofit Zrt., Szombathely |
+| 1801 | Markusovszky Egyetemi Oktatókórház, Szombathely |
 
-| 1901 | Veszprém Megyei Csolnoky Ferenc Kórház Nonprofit Zrt., Veszprém |
+| 1901 | Csolnoky Ferenc Kórház, Veszprém |
 
 | 2001 | Zala Megyei Kórház, Zalaegerszeg |
 
@@ -714,7 +714,7 @@
 
 | 0401 | Pándy Kálmán Megyei Kórház, Gyula |
 
-| 0509 | MISEK, Miskolci Semmelweis Ignác Egészségügyi Központ és Egyetemi Oktató Kórház Nonprofit Kft. |
+| 0509 | MISEK, Miskolci Semmelweis Kórház és Egyetemi Oktatókórház |
 
 | 0643 | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
 
@@ -724,21 +724,21 @@
 
 | 0940 | Debreceni Egyetem, Orvos- és Egészségtudományi Centrum |
 
-| 1011 | Markhot Ferenc Kórház Egészségügyi Szolgáltató Nonprofit Kiemelkedően Közhasznú Kft., Eger |
+| 1011 | Markhot Ferenc Oktatókórház és Rendelőintézet, Eger |
 
 | 1101 | Szent Borbála Kórház, Tatabánya |
 
 | 1401 | Kaposi Mór Oktató Kórház, Kaposvár |
 
-| 1501 | Jósa András Oktató Kórház Nonprofit Kft., Nyíregyháza |
+| 1501 | Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház |
 
 | 1601 | Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet, Szolnok |
 
 | 1701 | Tolna Megyei Balassa János Kórház, Szekszárd |
 
-| 1801 | Vas Megyei Markusovszky Kórház Egyetemi Oktatókórház Nonprofit Zrt., Szombathely |
+| 1801 | Markusovszky Egyetemi Oktatókórház, Szombathely |
 
-| 1901 | Veszprém Megyei Csolnoky Ferenc Kórház Nonprofit Zrt., Veszprém |
+| 1901 | Csolnoky Ferenc Kórház, Veszprém |
 
 | 2001 | Zala Megyei Kórház, Zalaegerszeg |
 
@@ -774,7 +774,7 @@
 
 | 0502 | Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház, Miskolc |
 
-| 0509 | MISEK, Miskolci Semmelweis Ignác Egészségügyi Központ és Egyetemi Oktatókórház Nonprofit Kft. |
+| 0509 | MISEK, Miskolci Semmelweis Kórház és Egyetemi Oktatókórház |
 
 | 0643 | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
 
@@ -784,21 +784,21 @@
 
 | 0940 | Debreceni Egyetem, Orvos- és Egészségtudományi Centrum |
 
-| 1011 | Markhot Ferenc Kórház Egészségügyi Szolgáltató Nonprofit Kiemelkedően Közhasznú Kft., Eger |
+| 1011 | Markhot Ferenc Oktatókórház és Rendelőintézet, Eger |
 
 | 1101 | Szent Borbála Kórház, Tatabánya |
 
 | 1401 | Kaposi Mór Oktató Kórház, Kaposvár |
 
-| 1501 | Jósa András Oktató Kórház Nonprofit Kft., Nyíregyháza |
+| 1501 | Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház |
 
 | 1601 | Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet, Szolnok |
 
 | 1701 | Tolna Megyei Balassa János Kórház, Szekszárd |
 
-| 1801 | Vas Megyei Markusovszky Kórház Egyetemi Oktatókórház Nonprofit Zrt., Szombathely |
+| 1801 | Markusovszky Egyetemi Oktatókórház, Szombathely |
 
-| 1901 | Veszprém Megyei Csolnoky Ferenc Kórház Nonprofit Zrt., Veszprém |
+| 1901 | Csolnoky Ferenc Kórház, Veszprém |
 
 | 2001 | Zala Megyei Kórház, Zalaegerszeg |
 
@@ -830,7 +830,7 @@
 
 | 0401 | Pándy Kálmán Megyei Kórház, Gyula |
 
-| 0509 | MISEK, Miskolci Semmelweis Ignác Egészségügyi Központ és Egyetemi Oktató Kórház Nonprofit Kft. |
+| 0509 | MISEK, Miskolci Semmelweis Kórház és Egyetemi Oktatókórház |
 
 | 0643 | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
 
@@ -840,21 +840,21 @@
 
 | 0940 | Debreceni Egyetem, Orvos- és Egészségtudományi Centrum |
 
-| 1011 | Markhot Ferenc Kórház Egészségügyi Szolgáltató Nonprofit Kiemelkedően Közhasznú Kft., Eger |
+| 1011 | Markhot Ferenc Oktatókórház és Rendelőintézet, Eger |
 
 | 1101 | Szent Borbála Kórház, Tatabánya |
 
 | 1401 | Kaposi Mór Oktató Kórház, Kaposvár |
 
-| 1501 | Jósa András Oktató Kórház Nonprofit Kft., Nyíregyháza |
+| 1501 | Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház |
 
 | 1601 | Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet, Szolnok |
 
 | 1701 | Tolna Megyei Balassa János Kórház, Szekszárd |
 
-| 1801 | Vas Megyei Markusovszky Kórház Egyetemi Oktatókórház Nonprofit Zrt., Szombathely |
+| 1801 | Markusovszky Egyetemi Oktatókórház, Szombathely |
 
-| 1901 | Veszprém Megyei Csolnoky Ferenc Kórház Nonprofit Zrt., Veszprém |
+| 1901 | Csolnoky Ferenc Kórház, Veszprém |
 
 | 2001 | Zala Megyei Kórház, Zalaegerszeg |
 
@@ -878,7 +878,7 @@
 
 | 0242 | Pécsi Tudományegyetem Klinikai Központ |
 
-| 0509 | MISEK, Miskolci Semmelweis Ignác Egészségügyi Központ és Egyetemi Oktató Kórház Nonprofit Kft. |
+| 0509 | MISEK, Miskolci Semmelweis Kórház és Egyetemi Oktatókórház |
 
 | 0643 | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
 
@@ -904,6 +904,8 @@
 
 | 0502 | Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház, Miskolc |
 
+| 0509 | MISEK, Miskolci Semmelweis Kórház és Egyetemi Oktató Kórház |
+
 | 0643 | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
 
 | 0940 | Debreceni Egyetem, Orvos- és Egészségtudományi Centrum |
@@ -927,6 +929,8 @@
 | 0242 | Pécsi Tudományegyetem Klinikai Központ |
 
 | 0502 | Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház, Miskolc |
+
+| 0509 | MISEK, Miskolci Semmelweis Kórház és Egyetemi Oktató Kórház |
 
 | 0643 | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
 
@@ -1008,7 +1012,7 @@
 
 | 0940 | Debreceni Egyetem, Orvos- és Egészségtudományi Centrum |
 
-| 1011 | Markhot Ferenc Kórház Egészségügyi Szolgáltató Nonprofit Kiemelkedően Közhasznú Kft., Eger |
+| 1011 | Markhot Ferenc Oktatókórház és Rendelőintézet, Eger |
 
 | 1057 | Mátrai Állami Gyógyintézet, Mátraháza |
 
@@ -1022,15 +1026,15 @@
 
 | 1401 | Kaposi Mór Oktató Kórház, Kaposvár |
 
-| 1501 | Nyíregyháza, Jósa András Oktató Kórház Nonprofit Kft. |
+| 1501 | Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház |
 
 | 1601 | Megyei Hetényi Géza Kórház-Rendelőintézet, Szolnok |
 
 | 1701 | Tolna Megyei Balassa János Kórház, Szekszárd |
 
-| 1801 | Szombathely, Markusovszky Kórház Zrt. |
+| 1801 | Szombathely, Markusovszky Egyetemi Oktatókórház |
 
-| 1901 | Veszprém, Veszprém Megyei Csolnoky Ferenc Kórház Nonprofit Zrt. |
+| 1901 | Csolnoky Ferenc Kórház, Veszprém |
 
 | 1911 | Veszprém Megyei Tüdőgyógyintézet, Farkasgyepű |
 
@@ -1090,7 +1094,7 @@
 
 | 0940 | Debreceni Egyetem, Orvos- és Egészségtudományi Centrum |
 
-| 1011 | Markhot Ferenc Kórház Egészségügyi Szolgáltató Nonprofit Kiemelkedően Közhasznú Kft., Eger |
+| 1011 | Markhot Ferenc Oktatókórház és Rendelőintézet, Eger |
 
 | 1057 | Mátrai Állami Gyógyintézet, Mátraháza |
 
@@ -1104,15 +1108,15 @@
 
 | 1401 | Kaposi Mór Oktató Kórház, Kaposvár |
 
-| 1501 | Nyíregyháza, Jósa András Oktató Kórház Nonprofit Kft. |
+| 1501 | Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház |
 
 | 1601 | Megyei Hetényi Géza Kórház-Rendelőintézet, Szolnok |
 
 | 1701 | Tolna Megyei Balassa János Kórház, Szekszárd |
 
-| 1801 | Szombathely, Markusovszky Kórház Zrt. |
+| 1801 | Szombathely, Markusovszky Egyetemi Oktatókórház |
 
-| 1901 | Veszprém, Veszprém Megyei Csolnoky Ferenc Kórház Nonprofit Zrt. |
+| 1901 | Csolnoky Ferenc Kórház, Veszprém |
 
 | 1911 | Veszprém Megyei Tüdőgyógyintézet, Farkasgyepű |
 
@@ -1172,7 +1176,7 @@
 
 | 0940 | Debreceni Egyetem, Orvos- és Egészségtudományi Centrum |
 
-| 1011 | Markhot Ferenc Kórház Egészségügyi Szolgáltató Nonprofit Kiemelkedően Közhasznú Kft., Eger |
+| 1011 | Markhot Ferenc Oktatókórház és Rendelőintézet, Eger |
 
 | 1057 | Mátrai Állami Gyógyintézet, Mátraháza |
 
@@ -1186,15 +1190,15 @@
 
 | 1401 | Kaposi Mór Oktató Kórház, Kaposvár |
 
-| 1501 | Nyíregyháza, Jósa András Oktató Kórház Nonprofit Kft. |
+| 1501 | Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház |
 
 | 1601 | Megyei Hetényi Géza Kórház-Rendelőintézet, Szolnok |
 
 | 1701 | Tolna Megyei Balassa János Kórház, Szekszárd |
 
-| 1801 | Szombathely, Markusovszky Kórház Zrt. |
+| 1801 | Szombathely, Markusovszky Egyetemi Oktatókórház |
 
-| 1901 | Veszprém, Veszprém Megyei Csolnoky Ferenc Kórház Nonprofit Zrt. |
+| 1901 | Csolnoky Ferenc Kórház, Veszprém |
 
 | 1911 | Veszprém Megyei Tüdőgyógyintézet, Farkasgyepű |
 
@@ -1256,7 +1260,7 @@
 
 | 0940 | Debreceni Egyetem, Orvos- és Egészségtudományi Centrum |
 
-| 1011 | Markhot Ferenc Kórház Egészségügyi Szolgáltató Nonprofit Kiemelkedően Közhasznú Kft., Eger |
+| 1011 | Markhot Ferenc Oktatókórház és Rendelőintézet, Eger |
 
 | 1057 | Mátrai Állami Gyógyintézet, Mátraháza |
 
@@ -1270,15 +1274,15 @@
 
 | 1401 | Kaposi Mór Oktató Kórház, Kaposvár |
 
-| 1501 | Nyíregyháza, Jósa András Oktató Kórház Nonprofit Kft. |
+| 1501 | Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház |
 
 | 1601 | Megyei Hetényi Géza Kórház-Rendelőintézet, Szolnok |
 
 | 1701 | Tolna Megyei Balassa János Kórház, Szekszárd |
 
-| 1801 | Szombathely, Markusovszky Kórház Zrt. |
+| 1801 | Szombathely, Markusovszky Egyetemi Oktatókórház |
 
-| 1901 | Veszprém, Veszprém Megyei Csolnoky Ferenc Kórház Nonprofit Zrt. |
+| 1901 | Csolnoky Ferenc Kórház, Veszprém |
 
 | 1911 | Veszprém Megyei Tüdőgyógyintézet, Farkasgyepű |
 
@@ -1338,7 +1342,7 @@
 
 | 0940 | Debreceni Egyetem, Orvos- és Egészségtudományi Centrum |
 
-| 1011 | Markhot Ferenc Kórház Egészségügyi Szolgáltató Nonprofit Kiemelkedően Közhasznú Kft., Eger |
+| 1011 | Markhot Ferenc Oktatókórház és Rendelőintézet, Eger |
 
 | 1057 | Mátrai Állami Gyógyintézet, Mátraháza |
 
@@ -1352,15 +1356,15 @@
 
 | 1401 | Kaposi Mór Oktató Kórház, Kaposvár |
 
-| 1501 | Nyíregyháza, Jósa András Oktató Kórház Nonprofit Kft. |
+| 1501 | Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház |
 
 | 1601 | Megyei Hetényi Géza Kórház-Rendelőintézet, Szolnok |
 
 | 1701 | Tolna Megyei Balassa János Kórház, Szekszárd |
 
-| 1801 | Szombathely, Markusovszky Kórház Zrt. |
+| 1801 | Szombathely, Markusovszky Egyetemi Oktatókórház |
 
-| 1901 | Veszprém, Veszprém Megyei Csolnoky Ferenc Kórház Nonprofit Zrt. |
+| 1901 | Csolnoky Ferenc Kórház, Veszprém |
 
 | 1911 | Veszprém Megyei Tüdőgyógyintézet, Farkasgyepű |
 
@@ -1420,7 +1424,7 @@
 
 | 0940 | Debreceni Egyetem, Orvos- és Egészségtudományi Centrum |
 
-| 1011 | Markhot Ferenc Kórház Egészségügyi Szolgáltató Nonprofit Kiemelkedően Közhasznú Kft., Eger |
+| 1011 | Markhot Ferenc Oktatókórház és Rendelőintézet, Eger |
 
 | 1057 | Mátrai Állami Gyógyintézet, Mátraháza |
 
@@ -1434,15 +1438,15 @@
 
 | 1401 | Kaposi Mór Oktató Kórház, Kaposvár |
 
-| 1501 | Nyíregyháza, Jósa András Oktató Kórház Nonprofit Kft. |
+| 1501 | Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház |
 
 | 1601 | Megyei Hetényi Géza Kórház-Rendelőintézet, Szolnok |
 
 | 1701 | Tolna Megyei Balassa János Kórház, Szekszárd |
 
-| 1801 | Szombathely, Markusovszky Kórház Zrt. |
+| 1801 | Szombathely, Markusovszky Egyetemi Oktatókórház |
 
-| 1901 | Veszprém, Veszprém Megyei Csolnoky Ferenc Kórház Nonprofit Zrt. |
+| 1901 | Csolnoky Ferenc Kórház, Veszprém |
 
 | 1911 | Veszprém Megyei Tüdőgyógyintézet, Farkasgyepű |
 
@@ -1452,11 +1456,13 @@
 
 ## TÁMOGATOTT INDIKÁCIÓK:
 
-## IHC HER2 +++, illetve FISH pozitív emlőkarcinóma kezelésére. Lokalisan előrehaladott távoli áttétet nem adó emlőkarcinóma primer szisztémás kezelésének időtartama egy év, ami 3 hetes kezelési protokollnak megfelelően 17 kezelést, míg heti protokoll alkalmazása esetén 52 kezelést jelent.
+## IHC HER2+++, illetve FISH pozitív emlőkarcinóma kezelésére. Lokálisan előrehaladott távoli áttétet nem adó emlőkarcinóma primer szisztémás kezelésének időtartama egy év, ami 3 hetes kezelési protokollnak megfelelően 17 kezelést, míg heti protokoll alkalmazása esetén 52 kezelést jelent.
 
 ## Adjuváns terápia esetében egy év az alkalmazás időtartama, ami 3 hetes kezelési protokollok esetén szintén 17 kezelést, míg heti protokollok esetén 52 kezelést jelent. Adjuváns kezelést követően nem adható a trastuzumab metasztatikus rák kezelésében, kivéve, ha a metasztázisból vett biopsziás minta is IHC HER2+++, illetve FISH pozitív.
 
-## HER2+++, illetve FISH pozitív metasztatikus emlőkarcinoma esetén progresszióig folytatható a kezelés, illetve amennyiben a kezelés hatására két egymást követő képalkotó diagnosztikai kontroll során komplett klinikai remisszió igazolódik, a kezelést fel lehet függeszteni. Abban az esetben, ha a beteg a kezelés felfüggesztését követően újra progrediál, trastuzumab első választandó terápiaként ismét alkalmazható.
+## Neoadjuváns terápia esetében a neoadjuváns és adjuváns kezelés összesített időtartama egy év.
+
+## HER2+++, illetve FISH pozitív metasztatikus emlőkarcinóma esetén progresszióig folytatható a kezelés, illetve amennyiben a kezelés hatására két egymást követő képalkotó diagnosztikai kontroll során komplett klinikai remisszió igazolódik, a kezelést fel lehet függeszteni. Abban az esetben, ha a beteg a kezelés felfüggesztését követően újra progrediál, trastuzumab első választandó terápiaként ismét alkalmazható.
 
 ## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
 
@@ -1498,11 +1504,11 @@
 
 | 0801 | Petz Aladár Megyei Oktató Kórház, Győr |
 
-| 0901 | Kenézy Kórház Rendelőintézet Egészségügyi Nonprofit Kft., Debrecen |
+| 0901 | Kenézy Gyula Kórház és Rendelőintézet, Debrecen |
 
 | 0940 | Debreceni Egyetem, Orvos- és Egészségtudományi Centrum |
 
-| 1011 | Markhot Ferenc Kórház Egészségügyi Szolgáltató Nonprofit Kiemelkedően Közhasznú Kft., Eger |
+| 1011 | Markhot Ferenc Oktatókórház és Rendelőintézet, Eger |
 
 | 1101 | Szent Borbála Kórház, Tatabánya |
 
@@ -1512,15 +1518,15 @@
 
 | 1401 | Kaposi Mór Oktató Kórház, Kaposvár |
 
-| 1501 | Jósa András Oktató Kórház Nonprofit Kft., Nyíregyháza |
+| 1501 | Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház |
 
 | 1601 | Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet, Szolnok |
 
 | 1701 | Tolna Megyei Balassa János Kórház, Szekszárd |
 
-| 1801 | Vas Megyei Markusovszky Kórház Egyetemi Oktatókórház Nonprofit Zrt., Szombathely |
+| 1801 | Markusovszky Egyetemi Oktatókórház, Szombathely |
 
-| 1901 | Veszprém Megyei Csolnoky Ferenc Kórház Nonprofit Zrt., Veszprém |
+| 1901 | Csolnoky Ferenc Kórház, Veszprém |
 
 | 2001 | Zala Megyei Kórház, Zalaegerszeg |
 
@@ -1570,11 +1576,11 @@
 
 | 0801 | Petz Aladár Megyei Oktató Kórház, Győr |
 
-| 0901 | Kenézy Kórház Rendelőintézet Egészségügyi Nonprofit Kft., Debrecen |
+| 0901 | Kenézy Gyula Kórház és Rendelőintézet, Debrecen |
 
 | 0940 | Debreceni Egyetem, Orvos- és Egészségtudományi Centrum |
 
-| 1011 | Markhot Ferenc Kórház Egészségügyi Szolgáltató Nonprofit Kiemelkedően Közhasznú Kft., Eger |
+| 1011 | Markhot Ferenc Oktatókórház és Rendelőintézet, Eger |
 
 | 1101 | Szent Borbála Kórház, Tatabánya |
 
@@ -1584,15 +1590,15 @@
 
 | 1401 | Kaposi Mór Oktató Kórház, Kaposvár |
 
-| 1501 | Jósa András Oktató Kórház Nonprofit Kft., Nyíregyháza |
+| 1501 | Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház |
 
 | 1601 | Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet, Szolnok |
 
 | 1701 | Tolna Megyei Balassa János Kórház, Szekszárd |
 
-| 1801 | Vas Megyei Markusovszky Kórház Egyetemi Oktatókórház Nonprofit Zrt., Szombathely |
+| 1801 | Markusovszky Egyetemi Oktatókórház, Szombathely |
 
-| 1901 | Veszprém Megyei Csolnoky Ferenc Kórház Nonprofit Zrt., Veszprém |
+| 1901 | Csolnoky Ferenc Kórház, Veszprém |
 
 | 2001 | Zala Megyei Kórház, Zalaegerszeg |
 
@@ -1642,11 +1648,11 @@
 
 | 0801 | Petz Aladár Megyei Oktató Kórház, Győr |
 
-| 0901 | Kenézy Kórház Rendelőintézet Egészségügyi Nonprofit Kft., Debrecen |
+| 0901 | Kenézy Gyula Kórház és Rendelőintézet, Debrecen |
 
 | 0940 | Debreceni Egyetem, Orvos- és Egészségtudományi Centrum |
 
-| 1011 | Markhot Ferenc Kórház Egészségügyi Szolgáltató Nonprofit Kiemelkedően Közhasznú Kft., Eger |
+| 1011 | Markhot Ferenc Oktatókórház és Rendelőintézet, Eger |
 
 | 1101 | Szent Borbála Kórház, Tatabánya |
 
@@ -1656,15 +1662,15 @@
 
 | 1401 | Kaposi Mór Oktató Kórház, Kaposvár |
 
-| 1501 | Jósa András Oktató Kórház Nonprofit Kft., Nyíregyháza |
+| 1501 | Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház |
 
 | 1601 | Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet, Szolnok |
 
 | 1701 | Tolna Megyei Balassa János Kórház, Szekszárd |
 
-| 1801 | Vas Megyei Markusovszky Kórház Egyetemi Oktatókórház Nonprofit Zrt., Szombathely |
+| 1801 | Markusovszky Egyetemi Oktatókórház, Szombathely |
 
-| 1901 | Veszprém Megyei Csolnoky Ferenc Kórház Nonprofit Zrt., Veszprém |
+| 1901 | Csolnoky Ferenc Kórház, Veszprém |
 
 | 2001 | Zala Megyei Kórház, Zalaegerszeg |
 
@@ -1714,11 +1720,11 @@
 
 | 0801 | Petz Aladár Megyei Oktató Kórház, Győr |
 
-| 0901 | Kenézy Kórház Rendelőintézet Egészségügyi Nonprofit Kft., Debrecen |
+| 0901 | Kenézy Gyula Kórház és Rendelőintézet, Debrecen |
 
 | 0940 | Debreceni Egyetem, Orvos- és Egészségtudományi Centrum |
 
-| 1011 | Markhot Ferenc Kórház Egészségügyi Szolgáltató Nonprofit Kiemelkedően Közhasznú Kft., Eger |
+| 1011 | Markhot Ferenc Oktatókórház és Rendelőintézet, Eger |
 
 | 1101 | Szent Borbála Kórház, Tatabánya |
 
@@ -1728,15 +1734,15 @@
 
 | 1401 | Kaposi Mór Oktató Kórház, Kaposvár |
 
-| 1501 | Jósa András Oktató Kórház Nonprofit Kft., Nyíregyháza |
+| 1501 | Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház |
 
 | 1601 | Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet, Szolnok |
 
 | 1701 | Tolna Megyei Balassa János Kórház, Szekszárd |
 
-| 1801 | Vas Megyei Markusovszky Kórház Egyetemi Oktatókórház Nonprofit Zrt., Szombathely |
+| 1801 | Markusovszky Egyetemi Oktatókórház, Szombathely |
 
-| 1901 | Veszprém Megyei Csolnoky Ferenc Kórház Nonprofit Zrt., Veszprém |
+| 1901 | Csolnoky Ferenc Kórház, Veszprém |
 
 | 2001 | Zala Megyei Kórház, Zalaegerszeg |
 
@@ -1786,11 +1792,11 @@
 
 | 0801 | Petz Aladár Megyei Oktató Kórház, Győr |
 
-| 0901 | Kenézy Kórház Rendelőintézet Egészségügyi Nonprofit Kft., Debrecen |
+| 0901 | Kenézy Gyula Kórház és Rendelőintézet, Debrecen |
 
 | 0940 | Debreceni Egyetem, Orvos- és Egészségtudományi Centrum |
 
-| 1011 | Markhot Ferenc Kórház Egészségügyi Szolgáltató Nonprofit Kiemelkedően Közhasznú Kft., Eger |
+| 1011 | Markhot Ferenc Oktatókórház és Rendelőintézet, Eger |
 
 | 1101 | Szent Borbála Kórház, Tatabánya |
 
@@ -1800,15 +1806,15 @@
 
 | 1401 | Kaposi Mór Oktató Kórház, Kaposvár |
 
-| 1501 | Jósa András Oktató Kórház Nonprofit Kft., Nyíregyháza |
+| 1501 | Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház |
 
 | 1601 | Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet, Szolnok |
 
 | 1701 | Tolna Megyei Balassa János Kórház, Szekszárd |
 
-| 1801 | Vas Megyei Markusovszky Kórház Egyetemi Oktatókórház Nonprofit Zrt., Szombathely |
+| 1801 | Markusovszky Egyetemi Oktatókórház, Szombathely |
 
-| 1901 | Veszprém Megyei Csolnoky Ferenc Kórház Nonprofit Zrt., Veszprém |
+| 1901 | Csolnoky Ferenc Kórház, Veszprém |
 
 | 2001 | Zala Megyei Kórház, Zalaegerszeg |
 
@@ -1898,11 +1904,11 @@
 
 | 0801 | Petz Aladár Megyei Oktató Kórház, Győr |
 
-| 0901 | Kenézy Kórház Rendelőintézet Egészségügyi Nonprofit Kft., Debrecen |
+| 0901 | Kenézy Gyula Kórház és Rendelőintézet, Debrecen |
 
 | 0940 | Debreceni Egyetem, Orvos- és Egészségtudományi Centrum |
 
-| 1011 | Markhot Ferenc Kórház Egészségügyi Szolgáltató Nonprofit Kiemelkedően Közhasznú Kft., Eger |
+| 1011 | Markhot Ferenc Oktatókórház és Rendelőintézet, Eger |
 
 | 1101 | Szent Borbála Kórház, Tatabánya |
 
@@ -1912,15 +1918,15 @@
 
 | 1401 | Kaposi Mór Oktató Kórház, Kaposvár |
 
-| 1501 | Jósa András Oktató Kórház Nonprofit Kft., Nyíregyháza |
+| 1501 | Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház |
 
 | 1601 | Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet, Szolnok |
 
 | 1701 | Tolna Megyei Balassa János Kórház, Szekszárd |
 
-| 1801 | Vas Megyei Markusovszky Kórház Egyetemi Oktatókórház Nonprofit Zrt., Szombathely |
+| 1801 | Markusovszky Egyetemi Oktatókórház, Szombathely |
 
-| 1901 | Veszprém Megyei Csolnoky Ferenc Kórház Nonprofit Zrt., Veszprém |
+| 1901 | Csolnoky Ferenc Kórház, Veszprém |
 
 | 2001 | Zala Megyei Kórház, Zalaegerszeg |
 
@@ -2008,11 +2014,11 @@
 
 | 0801 | Petz Aladár Megyei Oktató Kórház, Győr |
 
-| 0901 | Kenézy Kórház Rendelőintézet Egészségügyi Nonprofit Kft., Debrecen |
+| 0901 | Kenézy Gyula Kórház és Rendelőintézet, Debrecen |
 
 | 0940 | Debreceni Egyetem, Orvos- és Egészségtudományi Centrum |
 
-| 1011 | Markhot Ferenc Kórház Egészségügyi Szolgáltató Nonprofit Kiemelkedően Közhasznú Kft., Eger |
+| 1011 | Markhot Ferenc Oktatókórház és Rendelőintézet, Eger |
 
 | 1101 | Szent Borbála Kórház, Tatabánya |
 
@@ -2022,15 +2028,15 @@
 
 | 1401 | Kaposi Mór Oktató Kórház, Kaposvár |
 
-| 1501 | Jósa András Oktató Kórház Nonprofit Kft., Nyíregyháza |
+| 1501 | Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház |
 
 | 1601 | Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet, Szolnok |
 
 | 1701 | Tolna Megyei Balassa János Kórház, Szekszárd |
 
-| 1801 | Vas Megyei Markusovszky Kórház Egyetemi Oktatókórház Nonprofit Zrt., Szombathely |
+| 1801 | Markusovszky Egyetemi Oktatókórház, Szombathely |
 
-| 1901 | Veszprém Megyei Csolnoky Ferenc Kórház Nonprofit Zrt., Veszprém |
+| 1901 | Csolnoky Ferenc Kórház, Veszprém |
 
 | 2001 | Zala Megyei Kórház, Zalaegerszeg |
 
@@ -2134,11 +2140,11 @@
 
 | 0801 | Petz Aladár Megyei Oktató Kórház, Győr |
 
-| 0901 | Kenézy Kórház Rendelőintézet Egészségügyi Nonprofit Kft., Debrecen |
+| 0901 | Kenézy Gyula Kórház és Rendelőintézet, Debrecen |
 
 | 0940 | Debreceni Egyetem, Orvos- és Egészségtudományi Centrum |
 
-| 1011 | Markhot Ferenc Kórház Egészségügyi Szolgáltató Nonprofit Kiemelkedően Közhasznú Kft., Eger |
+| 1011 | Markhot Ferenc Oktatókórház és Rendelőintézet, Eger |
 
 | 1101 | Szent Borbála Kórház, Tatabánya |
 
@@ -2148,15 +2154,15 @@
 
 | 1401 | Kaposi Mór Oktató Kórház, Kaposvár |
 
-| 1501 | Jósa András Oktató Kórház Nonprofit Kft., Nyíregyháza |
+| 1501 | Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház |
 
 | 1601 | Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet, Szolnok |
 
 | 1701 | Tolna Megyei Balassa János Kórház, Szekszárd |
 
-| 1801 | Vas Megyei Markusovszky Kórház Egyetemi Oktatókórház Nonprofit Zrt., Szombathely |
+| 1801 | Markusovszky Egyetemi Oktatókórház, Szombathely |
 
-| 1901 | Veszprém Megyei Csolnoky Ferenc Kórház Nonprofit Zrt., Veszprém |
+| 1901 | Csolnoky Ferenc Kórház, Veszprém |
 
 | 2001 | Zala Megyei Kórház, Zalaegerszeg |
 
@@ -2246,11 +2252,11 @@
 
 | 0801 | Petz Aladár Megyei Oktató Kórház, Győr |
 
-| 0901 | Kenézy Kórház Rendelőintézet Egészségügyi Nonprofit Kft., Debrecen |
+| 0901 | Kenézy Gyula Kórház és Rendelőintézet, Debrecen |
 
 | 0940 | Debreceni Egyetem, Orvos- és Egészségtudományi Centrum |
 
-| 1011 | Markhot Ferenc Kórház Egészségügyi Szolgáltató Nonprofit Kiemelkedően Közhasznú Kft., Eger |
+| 1011 | Markhot Ferenc Oktatókórház és Rendelőintézet, Eger |
 
 | 1101 | Szent Borbála Kórház, Tatabánya |
 
@@ -2260,15 +2266,15 @@
 
 | 1401 | Kaposi Mór Oktató Kórház, Kaposvár |
 
-| 1501 | Jósa András Oktató Kórház Nonprofit Kft., Nyíregyháza |
+| 1501 | Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház |
 
 | 1601 | Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet, Szolnok |
 
 | 1701 | Tolna Megyei Balassa János Kórház, Szekszárd |
 
-| 1801 | Vas Megyei Markusovszky Kórház Egyetemi Oktatókórház Nonprofit Zrt., Szombathely |
+| 1801 | Markusovszky Egyetemi Oktatókórház, Szombathely |
 
-| 1901 | Veszprém Megyei Csolnoky Ferenc Kórház Nonprofit Zrt., Veszprém |
+| 1901 | Csolnoky Ferenc Kórház, Veszprém |
 
 | 2001 | Zala Megyei Kórház, Zalaegerszeg |
 
@@ -2356,11 +2362,11 @@
 
 | 0801 | Petz Aladár Megyei Oktató Kórház, Győr |
 
-| 0901 | Kenézy Kórház Rendelőintézet Egészségügyi Nonprofit Kft., Debrecen |
+| 0901 | Kenézy Gyula Kórház és Rendelőintézet, Debrecen |
 
 | 0940 | Debreceni Egyetem, Orvos- és Egészségtudományi Centrum |
 
-| 1011 | Markhot Ferenc Kórház Egészségügyi Szolgáltató Nonprofit Kiemelkedően Közhasznú Kft., Eger |
+| 1011 | Markhot Ferenc Oktatókórház és Rendelőintézet, Eger |
 
 | 1101 | Szent Borbála Kórház, Tatabánya |
 
@@ -2370,15 +2376,15 @@
 
 | 1401 | Kaposi Mór Oktató Kórház, Kaposvár |
 
-| 1501 | Jósa András Oktató Kórház Nonprofit Kft., Nyíregyháza |
+| 1501 | Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház |
 
 | 1601 | Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet, Szolnok |
 
 | 1701 | Tolna Megyei Balassa János Kórház, Szekszárd |
 
-| 1801 | Vas Megyei Markusovszky Kórház Egyetemi Oktatókórház Nonprofit Zrt., Szombathely |
+| 1801 | Markusovszky Egyetemi Oktatókórház, Szombathely |
 
-| 1901 | Veszprém Megyei Csolnoky Ferenc Kórház Nonprofit Zrt., Veszprém |
+| 1901 | Csolnoky Ferenc Kórház, Veszprém |
 
 | 2001 | Zala Megyei Kórház, Zalaegerszeg |
 
@@ -2482,11 +2488,11 @@
 
 | 0801 | Petz Aladár Megyei Oktató Kórház, Győr |
 
-| 0901 | Kenézy Kórház Rendelőintézet Egészségügyi Nonprofit Kft., Debrecen |
+| 0901 | Kenézy Gyula Kórház és Rendelőintézet, Debrecen |
 
 | 0940 | Debreceni Egyetem, Orvos- és Egészségtudományi Centrum |
 
-| 1011 | Markhot Ferenc Kórház Egészségügyi Szolgáltató Nonprofit Kiemelkedően Közhasznú Kft., Eger |
+| 1011 | Markhot Ferenc Oktatókórház és Rendelőintézet, Eger |
 
 | 1101 | Szent Borbála Kórház, Tatabánya |
 
@@ -2496,15 +2502,15 @@
 
 | 1401 | Kaposi Mór Oktató Kórház, Kaposvár |
 
-| 1501 | Jósa András Oktató Kórház Nonprofit Kft., Nyíregyháza |
+| 1501 | Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház |
 
 | 1601 | Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet, Szolnok |
 
 | 1701 | Tolna Megyei Balassa János Kórház, Szekszárd |
 
-| 1801 | Vas Megyei Markusovszky Kórház Egyetemi Oktatókórház Nonprofit Zrt., Szombathely |
+| 1801 | Markusovszky Egyetemi Oktatókórház, Szombathely |
 
-| 1901 | Veszprém Megyei Csolnoky Ferenc Kórház Nonprofit Zrt., Veszprém |
+| 1901 | Csolnoky Ferenc Kórház, Veszprém |
 
 | 2001 | Zala Megyei Kórház, Zalaegerszeg |
 
@@ -2554,11 +2560,11 @@
 
 | 0801 | Petz Aladár Megyei Oktató Kórház, Győr |
 
-| 0901 | Kenézy Kórház Rendelőintézet Egészségügyi Nonprofit Kft., Debrecen |
+| 0901 | Kenézy Gyula Kórház és Rendelőintézet, Debrecen |
 
 | 0940 | Debreceni Egyetem, Orvos- és Egészségtudományi Centrum |
 
-| 1011 | Markhot Ferenc Kórház Egészségügyi Szolgáltató Nonprofit Kiemelkedően Közhasznú Kft., Eger |
+| 1011 | Markhot Ferenc Oktatókórház és Rendelőintézet, Eger |
 
 | 1101 | Szent Borbála Kórház, Tatabánya |
 
@@ -2568,15 +2574,15 @@
 
 | 1401 | Kaposi Mór Oktató Kórház, Kaposvár |
 
-| 1501 | Jósa András Oktató Kórház Nonprofit Kft., Nyíregyháza |
+| 1501 | Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház |
 
 | 1601 | Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet, Szolnok |
 
 | 1701 | Tolna Megyei Balassa János Kórház, Szekszárd |
 
-| 1801 | Vas Megyei Markusovszky Kórház Egyetemi Oktatókórház Nonprofit Zrt., Szombathely |
+| 1801 | Markusovszky Egyetemi Oktatókórház, Szombathely |
 
-| 1901 | Veszprém Megyei Csolnoky Ferenc Kórház Nonprofit Zrt., Veszprém |
+| 1901 | Csolnoky Ferenc Kórház, Veszprém |
 
 | 2001 | Zala Megyei Kórház, Zalaegerszeg |
 
@@ -2634,9 +2640,19 @@
 
 ## 06041 verteporfin
 
+## 06029 aflibercept
+
 ## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
 
-## 4. számú melléklet szerint
+## 0140 Semmelweis Egyetem, Budapest
+
+## 0242 Pécsi Tudományegyetem Klinikai Központ
+
+## 0643 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ
+
+## 0940 Debreceni Egyetem, Orvos- és Egészségtudományi Centrum
+
+## 1801 Markusovszky Egyetemi Oktató Kórház, Szombathely
 
 ## 11.
 
@@ -2662,9 +2678,9 @@
 
 | 0940 | Debreceni Egyetem, Orvos- és Egészségtudományi Centrum |
 
-| 1011 | Markhot Ferenc Kórház Egészségügyi Szolgáltató Nonprofit Kiemelkedően Közhasznú Kft., Eger |
+| 1011 | Markhot Ferenc Oktatókórház és Rendelőintézet, Eger |
 
-| 1801 | Vas Megyei Markusovszky Kórház Egyetemi Oktatókórház Nonprofit Zrt., Szombathely |
+| 1801 | Markusovszky Egyetemi Oktatókórház, Szombathely |
 
 ## 12.
 
@@ -2708,21 +2724,21 @@
 
 | 0940 | Debreceni Egyetem Orvos- és Egészségtudományi Centrum |
 
-| 1011 | Markhot Ferenc Kórház Egészségügyi Szolgáltató Nonprofit Kiemelkedően Közhasznú Kft., Eger |
+| 1011 | Markhot Ferenc Oktatókórház és Rendelőintézet, Eger |
 
 | 1101 | Szent Borbála Kórház, Tatabánya |
 
 | 1201 | Szent Lázár Megyei Kórház, Salgótarján |
 
-| 1501 | Jósa András Oktató Kórház Nonprofit Kft., Nyíregyháza |
+| 1501 | Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház |
 
 | 1601 | Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet, Szolnok |
 
 | 1701 | Tolna Megyei Balassa János Kórház, Szekszárd |
 
-| 1801 | Vas Megyei Markusovszky Kórház Egyetemi Oktatókórház Nonprofit Zrt., Szombathely |
+| 1801 | Markusovszky Egyetemi Oktatókórház, Szombathely |
 
-| 1901 | Veszprém Megyei Csolnoky Ferenc Kórház Nonprofit Zrt., Veszprém |
+| 1901 | Csolnoky Ferenc Kórház, Veszprém |
 
 | 2001 | Zala Megyei Kórház, Zalaegerszeg |
 
@@ -2730,7 +2746,7 @@
 
 ## TÁMOGATOTT INDIKÁCIÓK:
 
-## Primer immunhiányos állapotok immunglobulin szubsztitúciós kezelése.
+## Primer immunhiányos állapotok immunglobulin szubsztitúciós kezelése, valamint a Kawasaki szindróma kezelése.
 
 ## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
 
@@ -2752,12 +2768,12 @@
 
 | 0940 | Debreceni Egyetem Orvos- és Egészségtudományi Centrum |
 
-| 1501 | Nyíregyháza, Jósa András Oktató Kórház Nonprofit Kft. |
+| 1501 | Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház |
 
-| 1801 | Vas Megyei Markusovszky Kórház Egyetemi Oktatókórház Nonprofit Zrt., Szombathely |
+| 1801 | Markusovszky Egyetemi Oktatókórház, Szombathely |
 
 2. számú melléklet a 9/1993. (IV. 2.) NM rendelethez[^83]
 
 A járóbeteg-szakellátás tevékenységi kódjai
 
-[^83]: A 2. számú melléklet a 3/2004. (I. 15.) ESZCSM rendelet 4. § (1) bekezdésével megállapított, a 70/2004. (VIII. 6.) ESZCSM rendelet 2. §-a és a 7. § (2) bekezdésének b)–c) pontja, a 79/2004. (VIII. 27.) ESZCSM rendelet 1. §-a, a 26/2005. (VII. 13.) EüM rendelet 3. §-a, a 31/2005. (VIII. 2.) EüM rendelet 1. §-a, valamint a 38/2005. (IX. 13.) EüM rendelet 1. §-a szerint módosított és a Magyar Közlöny 2005. évi 135. számában megjelent helyesbítésnek megfelelő szöveg. A 2. számú melléklet a 48/2005. (XI. 8.) EüM rendelet 3. §-a, a 26/2006. (VI. 26.) EüM rendelet 4. §-a és 11. § (3)–(4) bekezdése, a 37/2006. (IX. 27.) EüM rendelet 1. §-a, a 13/2007. (III. 7.) EüM rendelet 2. § (1) bekezdése, a 33/2007. (VI. 28.) EüM rendelet 4. § (1) bekezdése, a 44/2007. (IX. 29.) EüM rendelet 3. § (1) bekezdése, a 62/2007. (XII. 29.) EüM rendelet 2. § (3)–(4) bekezdése szerint módosított, a Magyar Közlöny 2008. évi 6. számában megjelent helyesbítésnek megfelelő szöveg. A 2. számú melléklet a 22/2008. (V. 26.) EüM rendelet 4. § (2)–(3) bekezdése, a 35/2008. (IX. 16.) EüM rendelet 1. § (1) bekezdése, a 48/2008. (XII. 31.) EüM rendelet 1. § (2) bekezdése, a 29/2009. (VIII. 14.) EüM rendelet 2. § (2) bekezdése, a 35/2009. (X. 29.) EüM rendelet 2. § (2) bekezdése, a 35/2010. (V. 14.) EüM rendelet 6. § (3) bekezdése, a 29/2010. (XII. 30.) NEFMI rendelet 3. § (3)–(4) bekezdése, a 70/2011. (XII. 23.) NEFMI rendelet 4. § (2) bekezdése, az 55/2012. (XII. 28.) EMMI rendelet 2. § (2) bekezdése, a 24/2013. (III. 29.) EMMI rendelet 1. § (3) bekezdése és 2. §-a szerint módosított szöveg.
+[^83]: A 2. számú melléklet a 3/2004. (I. 15.) ESZCSM rendelet 4. § (1) bekezdésével megállapított, a 70/2004. (VIII. 6.) ESZCSM rendelet 2. §-a és a 7. § (2) bekezdésének b)–c) pontja, a 79/2004. (VIII. 27.) ESZCSM rendelet 1. §-a, a 26/2005. (VII. 13.) EüM rendelet 3. §-a, a 31/2005. (VIII. 2.) EüM rendelet 1. §-a, valamint a 38/2005. (IX. 13.) EüM rendelet 1. §-a szerint módosított és a Magyar Közlöny 2005. évi 135. számában megjelent helyesbítésnek megfelelő szöveg. A 2. számú melléklet a 48/2005. (XI. 8.) EüM rendelet 3. §-a, a 26/2006. (VI. 26.) EüM rendelet 4. §-a és 11. § (3)–(4) bekezdése, a 37/2006. (IX. 27.) EüM rendelet 1. §-a, a 13/2007. (III. 7.) EüM rendelet 2. § (1) bekezdése, a 33/2007. (VI. 28.) EüM rendelet 4. § (1) bekezdése, a 44/2007. (IX. 29.) EüM rendelet 3. § (1) bekezdése, a 62/2007. (XII. 29.) EüM rendelet 2. § (3)–(4) bekezdése szerint módosított, a Magyar Közlöny 2008. évi 6. számában megjelent helyesbítésnek megfelelő szöveg. A 2. számú melléklet a 22/2008. (V. 26.) EüM rendelet 4. § (2)–(3) bekezdése, a 35/2008. (IX. 16.) EüM rendelet 1. § (1) bekezdése, a 48/2008. (XII. 31.) EüM rendelet 1. § (2) bekezdése, a 29/2009. (VIII. 14.) EüM rendelet 2. § (2) bekezdése, a 35/2009. (X. 29.) EüM rendelet 2. § (2) bekezdése, a 35/2010. (V. 14.) EüM rendelet 6. § (3) bekezdése, a 29/2010. (XII. 30.) NEFMI rendelet 3. § (3)–(4) bekezdése, a 70/2011. (XII. 23.) NEFMI rendelet 4. § (2) bekezdése, az 55/2012. (XII. 28.) EMMI rendelet 2. § (2) bekezdése, a 24/2013. (III. 29.) EMMI rendelet 1. § (3) bekezdése és 2. §-a, a 4/2014. (I. 20.) EMMI rendelet 1. § (3) bekezdése szerint módosított szöveg.

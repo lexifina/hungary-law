@@ -18,13 +18,17 @@
 
 | 5. | 01062 | Érprotézisek gyűrűs vagy külső spirál erősítéssel (egyenes protézis, Y protézis) |
 
-| 6. |  | Felnőtt és gyermek-szívműtétekhez használt oxigenátor csőkészlettel, szívstabilizátor és tartozékai |
+| 6. |  | Keringéstámogató eszközök |
 
-|  | 01071 | Felnőtt és gyermek-szívműtétekhez használt szívstabilizátor és tartozékai |
+|  | 01080 | Felnőtt szívműtétekhez használt szívstabilizátor és tartozékai vagy oxigenátor csőkészlettel |
 
-|  | 01080 | Felnőtt szívműtétekhez használt oxigenátor csőkészlettel |
+|  | 01081 | Gyermek szívműtétekhez használt szívstabilizátor és tartozékai vagy oxigenátor csőkészlettel |
 
-|  | 01081 | Gyermek szívműtétekhez használt oxigenátor csőkészlettel |
+|  | 01504 | Rövidtávú keringéstámogató eszközök és tartozékai (IABP) |
+
+|  | 01521 | Hosszútávú keringéstámogató eszközök és tartozékai (műszív) |
+
+| ****** | 01523 | Középtávú keringéstámogató eszközök és tartozékai (ECMO) |
 
 | 7. | 01110 | Szívbillentyük (mű, biológiai) |
 
@@ -56,7 +60,7 @@
 
 | 21. | 01351 | Mély-rectum és nyelőcső műtétek során használt anatomosis-varrógépek és tárak |
 
-| 22. | 0135C | Tüdőműtét során használt varrógépek és tárak |
+| 22. | 0135C | Nyílt tüdőműtét során használt varrógépek és tárak |
 
 | 23. |  | Biológiai implantátum (konzerv csont, porc, ín, szaruhártya, keratinocyta, egyéb) |
 
@@ -82,7 +86,7 @@
 
 | 27. |  |  |
 
-| 28. | 01504 | Intraaortikus ballonpumpa |
+| 28. |  |  |
 
 | 29. | 01505 | Percután rádiófrekvenciás máj-tumor ablációs eszköz |
 
@@ -128,7 +132,7 @@
 
 |  | 01516 | Égési sérültek ellátásához használt Integra bőrpótló készítmény |
 
-| 43. | 01521 | Műszív egyszer használatos eszközei transzplantációra váró betegnél |
+| 43. |  |  |
 
 | 44. | 01517 | Vékonybél endoszkópos kapszula |
 
@@ -142,9 +146,15 @@
 
 | 47.** | 01600 | Beültethető szívmonitor |
 
-| 48.*** | 01700 | Caphosol szájöblítő |
+| 48.*** | 01700 | Radioterápia során fellépő orális mucositis gyógyítására és megelőzésére alkalmas bevonószer |
 
 | 49.**** | 01310 | Felszínpótló csípőízületi protézis |
+
+| 50.***** | 0135F | Video-thoracoscopos mellkasi (VATS) műtétek során használt varrógépek és tárak |
+
+| 51. | 0135G | Kolorectális laparoszkópos bélműtétek során használt varrógépek, tárak és kiegészítő eszközök |
+
+| 52. | 0135K | Húgyhólyag laparoszkópos műtétei során használt varrógépek, tárak és kiegészítő eszközök |
 
 | * | Elszámolásra jogosult intézetek |
 
@@ -172,9 +182,9 @@
 
 | 0940 | Debreceni Egyetem, Orvos- és Egészségtudományi Centrum |
 
-| 13B2 | Cegléd, Toldy Ferenc Kórház Kft. |
+| 13B2 | Cegléd, Toldy Ferenc Kórház és Rendelőintézet Kft. |
 
-| 1501 | Nyíregyháza, Jósa András Oktató Kórház Nonprofit Kft. |
+| 1501 | Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház |
 
 | 1601 | Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház - Rendelőintézet, Szolnok |
 
@@ -202,7 +212,7 @@
 
 | 0940 | Debreceni Egyetem, Orvos- és Egészségtudományi Centrum |
 
-| 1801 | Vas Megyei Markusovszky Kórház Egyetemi Oktatókórház Nonprofit Zrt., Szombathely |
+| 1801 | Markusovszky Egyetemi Oktatókórház, Szombathely |
 
 | **** | Elszámolásra jogosult intézetek |
 
@@ -214,6 +224,30 @@
 
 | 0940 | Debreceni Egyetem, Orvos- és Egészségtudományi Centrum |
 
+| ***** | Elszámolásra jogosult intézetek |
+
+| 0154 | Országos Onkológiai Intézet, Budapest |
+
+| 0156 | Országos Korányi TBC és Pulmonológiai Intézet, Budapest |
+
+| 0242 | Pécsi Tudományegyetem Klinikai Központ |
+
+| 0643 | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
+
+| 0940 | Debreceni Egyetem, Orvos- és Egészségtudományi Centrum |
+
+| 1601 | Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet, Szolnok |
+
+| 1801 | Markusovszky Egyetemi Oktatókórház, Szombathely |
+
+| 0122 | Heim Pál Gyermekkórház, Budapest |
+
+| ****** | Elszámolásra jogosult intézetek |
+
+| 0140 | Semmelweis Egyetem, Budapest |
+
+| 0162 | Gottsegen György Országos Kardiológiai Intézet, Budapest |
+
 1/A. számú melléklet a 9/1993. (IV. 2.) NM rendelethez[^82]
 
-[^82]: Az 1/A. számú mellékletet a 62/2007. (XII. 29.) EüM rendelet 2. § (2) bekezdése iktatta be, szövege a 9/2013. (I. 31.) EMMI rendelet 2. § (1) bekezdésével megállapított, a 24/2013. (III. 29.) EMMI rendelet 1. § (2) bekezdése és 2. §-a, a 76/2013. (XII. 10.) EMMI rendelet 1. §-a szerint módosított szöveg.
+[^82]: Az 1/A. számú mellékletet a 62/2007. (XII. 29.) EüM rendelet 2. § (2) bekezdése iktatta be, szövege a 9/2013. (I. 31.) EMMI rendelet 2. § (1) bekezdésével megállapított, a 24/2013. (III. 29.) EMMI rendelet 1. § (2) bekezdése és 2. §-a, a 76/2013. (XII. 10.) EMMI rendelet 1. §-a, a 4/2014. (I. 20.) EMMI rendelet 1. § (2) bekezdése szerint módosított szöveg.
