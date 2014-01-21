@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad az egyrészről az Európai Unió és tagállamai, másrészről a Svájci Államszövetség között az európai műholdas navigációs programokról szóló együttműködési megállapodás (a továbbiakban: megállapodás) kötelező hatályának elismerésére.
