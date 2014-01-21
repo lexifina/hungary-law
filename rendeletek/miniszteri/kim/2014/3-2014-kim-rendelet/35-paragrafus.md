@@ -1,0 +1,5 @@
+## 34. § A közvélemény-kutatást végző személy abba az épületbe, amelyben a szavazóhelyiség van, 2014. április 6-án nem léphet be. [Ve. 150. §]
+
+35. § (1) A Ve. 153. §-a szerinti adatszolgáltatás adatait a Ve. 132. §-a szerint nyilvántartásba vett jelöltnek és listát állító jelölő szervezetnek legkésőbb 2014. április 6-án 16.00 óráig kell megsemmisítenie, és az erről készült jegyzőkönyvet három napon belül, 2014. április 6-án történő megsemmisítés esetén 2014. április 9-én 16.00 óráig át kell adnia az adatszolgáltatást teljesítő választási irodának. [Ve. 155. § (2) bekezdés]
+
+(2) A Ve. 255. § (3) bekezdése szerinti adatszolgáltatás adatait a jelölő szervezetként jogerősen nyilvántartásba vett országos nemzetiségi önkormányzatnak legkésőbb 2014. április 6-án 16.00 óráig kell megsemmisítenie, és az erről készült jegyzőkönyvet három napon belül, 2014. április 6-án történő megsemmisítés esetén 2014. április 9-én 16.00 óráig át kell adnia a Nemzeti Választási Irodának. [Ve. 155. § (2) bekezdés, 255. § (4) bekezdés]

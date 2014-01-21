@@ -1,0 +1,1 @@
+## 46. § A magyarországi lakcímmel nem rendelkező választópolgárok levélben leadott szavazatainak megszámlálását 2014. április 6-án 19.00 órát megelőzően nem lehet megkezdeni. [Ve. 293. § (1) bekezdés]
