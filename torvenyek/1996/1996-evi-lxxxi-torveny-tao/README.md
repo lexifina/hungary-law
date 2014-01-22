@@ -31,3 +31,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-81-00-00
 | 2013-08-01 | 2013. évi CXXXIII. törvény | 1996-81-00-00.76 |
 | 2013-11-30 | 2013. évi CC. törvény | 1996-81-00-00.77 |
 | 2014-01-01 | 2013. évi CC. törvény | 1996-81-00-00.78 |
+| 2014-01-22 | 2013. évi CCXXXVI. törvény | 1996-81-00-00.79 |

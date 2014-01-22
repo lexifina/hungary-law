@@ -4,7 +4,7 @@
 
 (2) A mozgóképről szóló 2004. évi II. törvény (a továbbiakban: Mktv.) szerinti megrendelésre készült filmalkotás vagy nem megrendelésre készült filmalkotás támogatója (ideértve a Magyar Nemzeti Filmalap Közhasznú Nonprofit Zártkörűen Működő Részvénytársaságnak a kincstárnál e célra vezetett számlára befizető adózót) az (1) bekezdés szerinti adókedvezményt a mozgóképszakmai hatóság által kiállított támogatási igazolás alapján veheti igénybe. A támogatási igazolás tartalmazza a támogatást nyújtó adózó megnevezését, székhelyét, adószámát, illetve a kedvezményre jogosító támogatás összegét.
 
-(3) A mozgóképszakmai hatóság által egy filmalkotáshoz kiadott, kedvezményre való jogosultságot igazoló támogatási igazolások és a támogatási szerződés keretében megfizetett kiegészítő támogatások összértéke nem haladhatja meg a mozgóképszakmai hatóság által jóváhagyott közvetlen filmgyártási költség Mktv. 12. § (10) bekezdésében meghatározott részének 20 százalékát, azzal, hogy nem állítható ki igazolás, ha a filmalkotás az Mktv. rendelkezései szerint nem jogosult közvetett állami támogatásra.
+(3) A mozgóképszakmai hatóság által egy filmalkotáshoz kiadott, kedvezményre való jogosultságot igazoló támogatási igazolások összértéke, valamint az Mktv. 31/C. § (1) bekezdése alapján kiadott határozatban megállapított közvetett támogatás összege nem haladhatja meg a mozgóképszakmai hatóság által jóváhagyott közvetlen filmgyártási költség Mktv. 12. § (10) bekezdésében meghatározott részének 20 százalékát, azzal, hogy nem állítható ki igazolás, ha a filmalkotás az Mktv. rendelkezései szerint nem jogosult közvetett támogatásra.
 
 (4) Az előadó-művészeti szervezet támogatója az (1) bekezdés szerinti adókedvezményt az előadó-művészeti szervezetek működésével összefüggő közigazgatási hatósági és szolgáltatási feladatokat ellátó szerv által kiállított támogatási igazolás alapján veheti igénybe. Az egy előadó-művészeti szervezethez kapcsolódóan a tárgyévre vonatkozóan kiadott támogatási igazolások és a támogatási szerződés keretében megfizetett kiegészítő támogatások összértéke nem haladhatja meg az előadó-művészeti szervezet EGT-tagállamban a tárgyévet megelőző évben tartott előadásaiból származó jegybevétele 80%-át.
 
@@ -16,7 +16,7 @@
 
 (8) A támogatási igazolás alapján a (6) és (7) bekezdés szerint meghatározott kiegészítő támogatásra jogosult:
 
-a) a (2) és (3) bekezdés hatálya alá tartozó támogatási igazolás esetén – az adózó döntése szerint – vagy az Mktv.-ben meghatározott, a mozgóképszakmai célokra előirányzott források elosztását végző szervezet, vagy a támogatási igazolás kiállításának alapjául szolgáló támogatásban részesülő filmalkotás tekintetében filmelőállítónak minősülő jogi személy, jogi személyiséggel nem rendelkező gazdasági társaság;
+a) a (2) és (3) bekezdés hatálya alá tartozó támogatási igazolás esetén az Mktv. 8. § (1) bekezdésében meghatározott, a mozgóképszakmai célokra előirányzott források elosztását végző szervezet, azzal, hogy a kiegészítő támogatást a Magyar Nemzeti Filmalap Közhasznú Nonprofit Zártkörűen Működő Részvénytársaságnak a kincstárnál vezetett letéti számlájára kell megfizetni;
 
 b) a (4) és (5) bekezdés hatálya alá tartozó támogatási igazolás esetén – az adózó döntése szerint – vagy a kultúráért felelős miniszter által vezetett minisztérium vagy a támogatási igazolás kiállításának alapjául szolgáló támogatásban részesülő előadó-művészeti szervezet.
 
