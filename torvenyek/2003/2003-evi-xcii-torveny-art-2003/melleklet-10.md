@@ -39,3 +39,5 @@ c) a második adómegállapítási időszakot követő hó 20. napjával azt, ak
 8. Az adóbevallás tartalmazza az adózó:
 
 a) nevét,
+
+b) azonosító számát,

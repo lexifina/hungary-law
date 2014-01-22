@@ -26,7 +26,7 @@ j) több munkáltató által létesített munkaviszony esetén, az e törvény s
 
 k) több munkáltató által létesített munkaviszonnyal összefüggő adó tekintetében az, aki az adófizetési kötelezettség keletkezésekor a munkaviszonyban a munka törvénykönyvéről szóló törvény szerint munkáltatóként vett részt, ha a j) pont alapján adófizetésre kötelezett az adót nem fizette meg, és azt tőle nem lehet behajtani.
 
-(3) A (2) bekezdés szerinti határozat hiánya nem zárja ki a követelés peres vagy nemperes eljárásban történő érvényesítését azzal, hogy engedményezett követelés esetén a követelés érvényesítésére kizárólag akkor kerülhet sor, ha a követelésnek a behajtására jogosult szervezet általi engedményezésére 2005. július 10-ét követően került sor.
+(3)
 
 (4) Az adó megfizetésére kötelezett az állammal vagy az önkormányzattal szemben fennálló követelését az adótartozásába nem számíthatja be.
 
