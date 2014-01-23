@@ -1,5 +1,5 @@
-## 16. §[^12]
+## 16. §[^13]
 
 ## 6. Záró rendelkezések
 
-[^12]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
