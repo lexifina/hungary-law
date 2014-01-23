@@ -1,5 +1,3 @@
-16. § (1) A Tao. törvény a következő 29/W. §-sal egészül ki:
-
-„29/W. § A 22. § (8) bekezdés a) pontjának az egyes pénzügyi tárgyú törvények módosításáról szóló 2013. évi CCXXXVI. törvénnyel megállapított rendelkezéseit a hatálybalépése napját követően fizetett támogatásra (juttatásra) kell alkalmazni.”
+16. § (1)
 
 (2)
