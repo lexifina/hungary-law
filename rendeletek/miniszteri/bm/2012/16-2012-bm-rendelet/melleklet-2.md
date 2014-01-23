@@ -2,7 +2,7 @@
 
 | Sor- szám | Eljárás megnevezése | Díjak mértéke forintban |
 
-| 1. | Egyedileg tervezett számítógépes szimulációs programmal végzett műszaki megoldás jóváhagyására indított eljárás | 50 000 |
+| 1. | Számítógépes szimulációs programmal végzett, egyedileg tervezett megoldás jóváhagyására indított eljárás | 50 000 |
 
 | 2. | Tűzvédelmi szakértői engedélyezési és nyilvántartásba vételi eljárás, a nyilvántartás vezetése | 10 000 |
 
@@ -12,7 +12,7 @@
 
 | 5. | Gázveszélyes vízkészletet igénybevevő vízmű vízjogi létesítési, valamint üzemeltetési engedélyének kiadására irányuló eljárásában tűzvédelmi szakhatósági közreműködés | 13 000 |
 
-| 6. | Radioaktív anyag tárolása, használata, felhasználása, szállítása és átalakítása tekintetében nyitott sugárforrás esetében tűzvédelmi szakhatósági közreműködés | 13 000 |
+| 6. | A Sugáregészségügyi Decentrum és az Országos Tisztifőorvosi Hivatal atomenergiával kapcsolatos eljárásaiban tűzvédelmi szakhatósági közreműködés | 13 000 |
 
 | 7. | Telepengedély kiadása iránti eljárásokban tűzvédelmi szakhatósági közreműködés | 13 000 |
 
