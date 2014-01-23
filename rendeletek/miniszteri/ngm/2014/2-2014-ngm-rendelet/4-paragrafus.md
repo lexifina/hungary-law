@@ -1,0 +1,3 @@
+## 3. § A nyugtakibocsátásra szolgáló pénztárgépek üzemeltetésének, szervizelésének egyes, az adóügyi ellenőrző egységgel rendelkező pénztárgépekre való átállást elősegítő szabályokról szóló 50/2013. (XI. 15.) NGM rendelet (a továbbiakban: Rendelet2) 7. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+## „(4) A (3) bekezdést nem kell alkalmazni azon pénztárgép tekintetében, amely vonatkozásában az adóalany a Rendelet 3. §-a szerinti egyedi mentesítésben részesült, illetve amely vonatkozásában az adóalany a Rendelet 2. § (2) bekezdésében foglaltak szerint teljesíti az általános forgalmi adóról szóló 2007. évi CXXVII. törvény (a továbbiakban: Áfa tv.) 178. § (1a) bekezdése szerinti adatszolgáltatási kötelezettségét.”
