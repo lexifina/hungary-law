@@ -1,33 +1,21 @@
 ## 9. A beruházási támogatásokra vonatkozó szabályok
 
-10. § (1) E rendelet alapján regionális beruházási támogatás csak akkor ítélhető oda, ha a beruházás megkezdése előtt a kedvezményezett a beruházást bejelenti, és a Támogató írásban megerősíti, hogy a – további részletes vizsgálat tárgyát képező – projekt megfelel a programban meghatározott jogosultsági feltételeknek.
+10. §[^3] (1) E rendelet alapján regionális beruházási és foglalkoztatási támogatás csak abban az esetben nyújtható, ha a beruházás költségei a következő költségekből tevődnek össze:
 
-(2) A támogatás iránti kérelem 18. § (2) bekezdésében meghatározott megerősítését követően az alábbi költségek számolhatóak el:
+a) tárgyi eszközbe vagy immateriális javakba történő beruházás, amely új létesítmény létrehozásához, meglévő létesítmény bővítéséhez, egy létesítmény termelésének további új termékekkel történő diverzifikációjához vagy egy meglévő létesítmény termelési folyamatának alapvető megváltoztatásához kapcsolódik, vagy
 
-a) a beruházási költségek alapján számított támogatás esetén a beruházás célját szolgáló
+b) egy létesítményhez közvetlenül kapcsolódó befektetett eszközök beszerzése, ha a létesítmény bezárásra került vagy felvásárlás hiányában bezárásra került volna, és az eszközöket független beruházó vásárolja meg.
 
-aa) tárgyi eszköznek a számvitelről szóló 2000. évi C. törvény (a továbbiakban: Sztv.) 47–48. §-a, 51. §-a szerinti bekerülési értéke,
+(2) A támogatási intenzitást a tárgyi eszközökbe és immateriális javakba történő beruházás elszámolható költségeinek hányadaként vagy közvetlenül a beruházási projekttel létrehozott munkahelyek esetén az új munkavállaló két éves becsült bérköltségének hányadaként vagy a két módszer együttes alkalmazásával – feltéve, hogy a támogatás nem lépi túl a kétfajta számítás külön-külön történő alkalmazásából eredő kedvezőbb értéket – kell kiszámítani.
 
-ab) tárgyi eszköz vételára a létesítmény felvásárlásakor,
+(3) Az egyes, azonos elszámolható költségekkel rendelkező projektekhez nyújtható, bármely államháztartási forrásból származó összes támogatás – ideértve a projekthez nyújtott csekély összegű támogatásokat is – támogatási intenzitása nem haladhatja meg a Korm. rendelet 25. §-ában, valamint a (4) bekezdésben meghatározott mértékeket.
 
-ac) immateriális javak közül a találmány, a szabadalom, a szoftver, a licenc és a know-how Sztv. 47–48. §-a, 51. §-a szerinti bekerülési értéke, nagyvállalkozásnál legfeljebb az elszámolható költség 50%-áig (a továbbiakban: támogatható immateriális javak);
+(4) Ha egy vállalkozás a kis- és középvállalkozásokba történő kockázatitőke-befektetések előmozdítását célzó állami támogatásokról szóló közösségi iránymutatás alapján részesül állami támogatásnak minősülő kockázati tőkejuttatásban, a támogatási intenzitást a Korm. rendelet 5. § (2) bekezdése figyelembevételével kell meghatározni.
 
-b) bérköltség alapján számított támogatás esetén – ha a pályázati kiírás szigorúbban nem rendelkezik – a beruházás üzembe helyezését követő harmadik adóév végéig újonnan létrehozott munkakörökben foglalkoztatott munkavállalók Sztv. 79. §-a szerint elszámolható személyi jellegű ráfordításának 24 havi összege, a munkakör létrehozásának napjától számítva.
+(5) A mezőgazdasági termékek feldolgozásához, illetve forgalmazásához kapcsolódó beruházások esetén a maximális támogatási intenzitások a következők:
 
-(3) Az elszámolható költséget szokásos piaci áron kell figyelembe venni, ha a vállalkozás és a vele kapcsolt vállalkozási viszonyban lévő személy között a szokásos piaci ártól eltérő áron kötött szerződés alapján ettől eltérő költség merült fel.
+a) ha a kedvezményezett kis- és középvállalkozás, az EUMSZ 107. cikk (3) bekezdés a) pontja alapján támogatott területek esetében az elszámolható költségek 50%-a, az EUMSZ 107. cikk (3) bekezdés c) pontja alapján támogatott területek esetében az elszámolható költségek 40%-a,
 
-(4) Nem nyújtható támogatás az alábbi költségekre:
+b) ha a kedvezményezett által a 800/2008/EK bizottsági rendelet I. mellékletének megfelelően számított foglalkoztatottainak száma kevesebb, mint 750 fő, és árbevétele kevesebb, mint 200 millió eurónak megfelelő forintösszeg, az EUMSZ 107. cikk (3) bekezdés a) pontja alapján támogatott területek esetében az elszámolható költségek 25%-a, az EUMSZ 107. cikk (3) bekezdés c) pontja alapján támogatott területek esetében az elszámolható költségek 20%-a.
 
-a) a szinten tartást szolgáló tárgyi eszközök bekerülési értéke, illetve vételára létesítmény felvásárlásakor,
-
-b) a korábban már használatba vett olyan tárgyi eszköz bekerülési értéke, amelynek alapján a kedvezményezett, más társaság vagy egyéni vállalkozó állami támogatást vett igénybe,
-
-c) olyan tárgyi eszköz bekerülési értéke, amelyet a kedvezményezett csődeljárás vagy felszámolás alatt álló társaságtól szerzett be,
-
-d) szállítási ágazatban a járművek bekerülési értéke,
-
-e) nagyvállalkozásnál a korábban már bárki által használatba vett eszköz bekerülési értéke, kivéve létesítmény felvásárlásakor beszerzett tárgyi eszköz vételárát,
-
-f) támogatható immateriális javak bekerülési értéke, ha azt a kedvezményezett nem kizárólag a támogatásban részesülő létesítményben használja.
-
-(5) Regionális beruházási támogatás esetében a támogatási intenzitás mértéke – beleértve a más államháztartási forrásokból kapott állami támogatásokat – nem haladhatja meg a Korm. rendelet 25. §-ában meghatározott százalékos mértéket. Regionális beruházási támogatás esetében a Korm. rendelet 25. §-ában meghatározott támogatási intenzitást a beruházás elszámolható tárgyi és immateriális költségeinek hányadaként, – közvetlenül a beruházási projekttel létrehozott munkahelyek esetén – az alkalmazott személy két évre becsült bérköltségeinek hányadaként, vagy e fenti két módszer kombinált alkalmazásával kell kiszámítani, feltéve, hogy a támogatás nem lépi túl a kétfajta számítás alkalmazásából eredő kedvezőbb értéket.
+[^3]: A 10. § az 1/2014. (I. 24.) NFM rendelet 1. §-ával megállapított szöveg.
