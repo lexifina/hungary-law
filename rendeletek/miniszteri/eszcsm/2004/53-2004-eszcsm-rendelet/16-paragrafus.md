@@ -1,4 +1,4 @@
-## 16. §[^59] A párhuzamos importengedély iránti kérelmet a GYEMSZI-hez kell benyújtani. a kérelemnek tartalmaznia kell
+## 16. §[^70] A párhuzamos importengedély iránti kérelmet a GYEMSZI-hez kell benyújtani. a kérelemnek tartalmaznia kell
 
 a) a párhuzamos importtal behozni kívánt gyógyszer adatait:
 
@@ -34,4 +34,4 @@ g) a párhuzamos importtal behozni kívánt gyógyszer minden hatáserősségéb
 
 h) arra irányuló nyilatkozatot, hogy a párhuzamos importtal behozni kívánt gyógyszerrel kapcsolatos minőségi hibajelentési, mellékhatás-bejelentési és a származási országban kiadott forgalomba hozatali engedély módosításra vonatkozó bejelentési kötelezettségeknek eleget tesz.
 
-[^59]: A 16. § a 41/2011. (VII. 5.) NEFMI rendelet 13. §-ával megállapított szöveg.
+[^70]: A 16. § a 41/2011. (VII. 5.) NEFMI rendelet 13. §-ával megállapított szöveg.
