@@ -1,9 +1,17 @@
-## 24. §[^10]
+## 24. § A 14/2007. EüM rendelet 14. § (6) bekezdése helyébe a következő rendelkezés lép:
 
-25. § (1)[^11]
+## „(6) Nem helyettesíthető az orvos által felírt
 
-(2)[^12]
+## a) egyedi méretvétel alapján készült,
 
-[^10]: A 24. § a 42. § (2) bekezdése alapján 2014. január 26-án lép hatályba.
-[^11]: Az 25. § (1) bekezdése a 42. § (2) bekezdése alapján 2014. január 26-án lép hatályba.
-[^12]: A 25. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+## b) méltányossági kérelem alapján rendelt, valamint
+
+## c) a kötszerek kivételével az egészségbiztosítói ellenjegyzéshez kötött
+
+## gyógyászati segédeszköz.”
+
+25. § (1) A 14/2007. EüM rendelet 10. számú melléklete a 4. melléklet szerint módosul.
+
+(2)[^3]
+
+[^3]: A 25. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

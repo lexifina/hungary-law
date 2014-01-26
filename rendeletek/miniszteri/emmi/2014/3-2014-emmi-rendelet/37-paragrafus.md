@@ -1,0 +1,1 @@
+## „(3) Az in vitro diagnosztikai eszközökkel kapcsolatos megfelelőségértékelő szervezetként történő kijelölés és a kijelölés megújítása iránti kérelmet az Eur. II. mellékletében szereplő formanyomtatványon kell benyújtani a kijelölő hatósághoz.”
