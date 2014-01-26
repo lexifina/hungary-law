@@ -1,14 +1,14 @@
 ## A rendelet hatálya
 
-2. § (1)[^12] E rendelet hatálya kiterjed az egészségügyi szolgáltatóknál a fokozottan ellenőrzött szerekkel végzett tevékenységekre, valamint a 10. §-ban szabályozott, a külföldre távozó vagy külföldről érkező betegek fokozottan ellenőrzött szerrel történő ellátására.
+2. § (1)[^14] E rendelet hatálya kiterjed az egészségügyi szolgáltatóknál a fokozottan ellenőrzött szerekkel végzett tevékenységekre, valamint a 10. §-ban szabályozott, a külföldre távozó vagy külföldről érkező betegek fokozottan ellenőrzött szerrel történő ellátására.
 
-(2)[^13] Az egészségügyi szolgáltatók számára az Országos Tisztifőorvosi Hivatal vagy a fővárosi és megyei kormányhivatalnak az egészségügyi szolgáltató működési körzete szerint területileg illetékes járási (fővárosi kerületi) hivatala járási (fővárosi kerületi) népegészségügyi intézete (a továbbiakban együtt: egészségügyi államigazgatási szerv) által kiadott működési engedély kiterjed az e rendeletben meghatározott, fokozottan ellenőrzött szerekkel történő gyógyászati célú tevékenység végzésére is.
+(2)[^15] Az egészségügyi szolgáltatók számára az Országos Tisztifőorvosi Hivatal vagy a fővárosi és megyei kormányhivatalnak az egészségügyi szolgáltató működési körzete szerint területileg illetékes járási (fővárosi kerületi) hivatala járási (fővárosi kerületi) népegészségügyi intézete (a továbbiakban együtt: egészségügyi államigazgatási szerv) által kiadott működési engedély kiterjed az e rendeletben meghatározott, fokozottan ellenőrzött szerekkel történő gyógyászati célú tevékenység végzésére is.
 
-(3)[^14] A betegek a fokozottan ellenőrzött szereket kizárólag a nevükre szóló orvosi vény alapján, saját felhasználás céljából birtokolhatják, tárolhatják és alkalmazhatják.
+(3)[^16] A betegek a fokozottan ellenőrzött szereket kizárólag a nevükre szóló orvosi vény alapján, saját felhasználás céljából birtokolhatják, tárolhatják és alkalmazhatják.
 
-(4)[^15] Fokozottan ellenőrzött szer közforgalmú és közvetlen lakossági gyógyszerellátó tevékenységet is végző intézeti gyógyszertárban forgalmazható.
+(4)[^17] Fokozottan ellenőrzött szer közforgalmú és közvetlen lakossági gyógyszerellátó tevékenységet is végző intézeti gyógyszertárban forgalmazható.
 
-[^12]: A 2. § (1) bekezdése az 56/2013. (VII. 31.) EMMI rendelet 12. §-ával megállapított szöveg.
-[^13]: A 2. § (2) bekezdése a 10/2011. (III. 30.) NEFMI rendelet 54. § (1) bekezdésével megállapított, a 11/2013. (II. 7.) EMMI rendelet 30. §-a, az 56/2013. (VII. 31.) EMMI rendelet 24. § a) pontja és 25. § a) pontja szerint módosított szöveg.
-[^14]: A 2. § (3) bekezdése a 44/2008. (XI. 28.) EüM rendelet 8. § (4) bekezdése, a 41/2011. (VII. 5.) NEFMI rendelet 24. § b) pontja, az 56/2013. (VII. 31.) EMMI rendelet 24. § c) pontja szerint módosított szöveg.
-[^15]: A 2. § (4) bekezdését a 41/2011. (VII. 5.) NEFMI rendelet 18. §-a iktatta be, szövege az 56/2013. (VII. 31.) EMMI rendelet 24. § d) pontja szerint módosított szöveg.
+[^14]: A 2. § (1) bekezdése az 56/2013. (VII. 31.) EMMI rendelet 12. §-ával megállapított szöveg.
+[^15]: A 2. § (2) bekezdése a 10/2011. (III. 30.) NEFMI rendelet 54. § (1) bekezdésével megállapított, a 11/2013. (II. 7.) EMMI rendelet 30. §-a, az 56/2013. (VII. 31.) EMMI rendelet 24. § a) pontja és 25. § a) pontja szerint módosított szöveg.
+[^16]: A 2. § (3) bekezdése a 44/2008. (XI. 28.) EüM rendelet 8. § (4) bekezdése, a 41/2011. (VII. 5.) NEFMI rendelet 24. § b) pontja, az 56/2013. (VII. 31.) EMMI rendelet 24. § c) pontja szerint módosított szöveg.
+[^17]: A 2. § (4) bekezdését a 41/2011. (VII. 5.) NEFMI rendelet 18. §-a iktatta be, szövege az 56/2013. (VII. 31.) EMMI rendelet 24. § d) pontja szerint módosított szöveg.

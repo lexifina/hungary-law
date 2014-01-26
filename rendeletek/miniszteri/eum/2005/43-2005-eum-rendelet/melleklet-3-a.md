@@ -1,3 +1,3 @@
-3/A. számú melléklet a 43/2005. (X. 15.) EüM rendelethez[^123]
+3/A. számú melléklet a 43/2005. (X. 15.) EüM rendelethez[^125]
 
-[^123]: A 3/A. számú mellékletet a 41/2011. (VII. 5.) NEFMI rendelet 23. § (1) bekezdése iktatta be.
+[^125]: A 3/A. számú mellékletet a 41/2011. (VII. 5.) NEFMI rendelet 23. § (1) bekezdése iktatta be.
