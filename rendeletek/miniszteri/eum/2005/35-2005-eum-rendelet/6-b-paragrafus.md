@@ -1,4 +1,4 @@
-6/B. §[^18] (1) Amennyiben a klinikai vizsgálat során humángenetikai vizsgálat miatt mintát vesznek, erről külön beleegyezési nyilatkozatot kell készíteni.
+6/B. §[^21] (1) Amennyiben a klinikai vizsgálat során humángenetikai vizsgálat miatt mintát vesznek, erről külön beleegyezési nyilatkozatot kell készíteni.
 
 (2) A vizsgálati alany beleegyező nyilatkozata legalább a következőket tartalmazza:
 
@@ -28,4 +28,4 @@ l) a klinikai vizsgálat vezetőjének vagy a tájékoztatást adónak az aláí
 
 m) a beleegyező nyilatkozatot tevő aláírását.
 
-[^18]: A 6/B. §-t a 32/2009. (X. 20.) EüM rendelet 4. §-a iktatta be. E módosító rendelet 12. § (1) bekezdése alapján a 2009. október 21. napját megelőzően benyújtott, de el nem bírált vizsgálati kérelmek esetén a 32/2009. (X. 20.) EüM rendeletben foglaltakat kell alkalmazni.
+[^21]: A 6/B. §-t a 32/2009. (X. 20.) EüM rendelet 4. §-a iktatta be. E módosító rendelet 12. § (1) bekezdése alapján a 2009. október 21. napját megelőzően benyújtott, de el nem bírált vizsgálati kérelmek esetén a 32/2009. (X. 20.) EüM rendeletben foglaltakat kell alkalmazni.

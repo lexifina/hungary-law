@@ -32,11 +32,11 @@ k) a vizsgálati készítmény rövid hatástani ismertetését;
 
 l) azt, hogy a vizsgálat befejezése után a vizsgálati alany – amennyiben szükséges – milyen további egészségügyi ellátásban részesül;
 
-m)[^14]
+m)[^17]
 
-n)[^15] az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény 3. §-ának (5) bekezdése szerinti felelősségbiztosításban szereplő biztosító megnevezését.
+n)[^18] az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény 3. §-ának (5) bekezdése szerinti felelősségbiztosításban szereplő biztosító megnevezését.
 
-(5)[^16]
+(5)[^19]
 
 (6) A vizsgálati alany beleegyező nyilatkozata legalább a következőket tartalmazza:
 
@@ -62,6 +62,6 @@ h) a beleegyező nyilatkozatot tevő aláírását.
 
 (9) Amennyiben a klinikai vizsgálattal kapcsolatban olyan új, lényeges információ válik ismertté, amely érinti az írásos tájékoztatóban foglaltakat, az engedély módosítását kell kezdeményezni a 18. §-ban foglaltaknak megfelelően. A módosított írásos tájékoztatónak megfelelően a vizsgálati alanyt ismételten tájékoztatni kell, és beleegyezését kell kérni a klinikai vizsgálat folytatásához.
 
-[^14]: A 6. § (4) bekezdés m) pontját a 32/2009. (X. 20.) EüM rendelet 12. § (4) bekezdés a) pontja hatályon kívül helyezte. E módosító rendelet 12. § (1) bekezdése alapján a 2009. október 21. napját megelőzően benyújtott, de el nem bírált vizsgálati kérelmek esetén a 32/2009. (X. 20.) EüM rendeletben foglaltakat kell alkalmazni.
-[^15]: A 6. § (4) bekezdésének n) pontja e rendelet 25. §-ának (2) bekezdése alapján 2005. november 1. napján lépett hatályba.
-[^16]: A 6. § (5) bekezdését a 32/2009. (X. 20.) EüM rendelet 12. § (4) bekezdés a) pontja hatályon kívül helyezte. E módosító rendelet 12. § (1) bekezdése alapján a 2009. október 21. napját megelőzően benyújtott, de el nem bírált vizsgálati kérelmek esetén a 32/2009. (X. 20.) EüM rendeletben foglaltakat kell alkalmazni.
+[^17]: A 6. § (4) bekezdés m) pontját a 32/2009. (X. 20.) EüM rendelet 12. § (4) bekezdés a) pontja hatályon kívül helyezte. E módosító rendelet 12. § (1) bekezdése alapján a 2009. október 21. napját megelőzően benyújtott, de el nem bírált vizsgálati kérelmek esetén a 32/2009. (X. 20.) EüM rendeletben foglaltakat kell alkalmazni.
+[^18]: A 6. § (4) bekezdésének n) pontja e rendelet 25. §-ának (2) bekezdése alapján 2005. november 1. napján lépett hatályba.
+[^19]: A 6. § (5) bekezdését a 32/2009. (X. 20.) EüM rendelet 12. § (4) bekezdés a) pontja hatályon kívül helyezte. E módosító rendelet 12. § (1) bekezdése alapján a 2009. október 21. napját megelőzően benyújtott, de el nem bírált vizsgálati kérelmek esetén a 32/2009. (X. 20.) EüM rendeletben foglaltakat kell alkalmazni.
