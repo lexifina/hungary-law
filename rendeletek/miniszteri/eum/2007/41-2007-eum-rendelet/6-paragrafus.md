@@ -12,7 +12,7 @@
 
 a) a gyógyszertár elnevezését, címét,
 
-b) a gyógyszertár működtetőjét, működtetőjének székhelyét, adószámát, statisztikai számjelét, cégjegyzékszámát,
+b)[^26] a gyógyszertár működtetőjét, működtetőjének székhelyét, adószámát,, cégjegyzékszámát,
 
 c) a gyógyszertár vezetőjének nevét,
 
@@ -20,16 +20,17 @@ d) a gyógyszertár szolgálati rendjét,
 
 e) a gyógyszertár forgalmazási körét.
 
-(7)[^26] Az officinában a gyógyszereket – kivéve a tea formájú növényi gyógyszereket és a tea formájú hagyományos növényi gyógyszereket – úgy kell elhelyezni, hogy azok a betegek számára közvetlenül ne legyenek hozzáférhetőek.
+(7)[^27] Az officinában a gyógyszereket – kivéve a tea formájú növényi gyógyszereket és a tea formájú hagyományos növényi gyógyszereket – úgy kell elhelyezni, hogy azok a betegek számára közvetlenül ne legyenek hozzáférhetőek.
 
-(8)[^27] A gyógyszertárban termékbemutató nem tartható, felvilágosító, tanácsadó tevékenységet kizárólag a gyógyszertár alkalmazásában álló szakszemélyzet folytathat.
+(8)[^28] A gyógyszertárban termékbemutató nem tartható, felvilágosító, tanácsadó tevékenységet kizárólag a gyógyszertár alkalmazásában álló szakszemélyzet folytathat.
 
-(9)[^28] Az officinában jól látható és könnyen hozzáférhető helyen a betegnek a gyógyszertár szolgáltatásaival kapcsolatos írásbeli észrevételei, panaszai közléséhez szükséges eszközöket biztosítani kell.
+(9)[^29] Az officinában jól látható és könnyen hozzáférhető helyen a betegnek a gyógyszertár szolgáltatásaival kapcsolatos írásbeli észrevételei, panaszai közléséhez szükséges eszközöket biztosítani kell.
 
 [^22]: A 6. § (1) bekezdése a 31/2010. (XII. 30.) NEFMI rendelet 12. § (1) bekezdése szerint módosított szöveg.
 [^23]: A 6. § (2) bekezdése az 56/2009. (XII. 30.) EüM rendelet 5. § (1) bekezdésével megállapított, a 31/2010. (XII. 30.) NEFMI rendelet 12. § (1) bekezdése szerint módosított szöveg.
 [^24]: A 6. § (3) bekezdése a 31/2010. (XII. 30.) NEFMI rendelet 5. §-ával megállapított szöveg.
 [^25]: A 6. § (6) bekezdését az 56/2009. (XII. 30.) EüM rendelet 5. § (2) bekezdése iktatta be.
-[^26]: A 6. § (7) bekezdését az 56/2009. (XII. 30.) EüM rendelet 5. § (2) bekezdése iktatta be, szövege a 67/2011. (XIII. 13.) NEFMI rendelet 6. §-ával megállapított szöveg.
-[^27]: A 6. § (8) bekezdését az 56/2009. (XII. 30.) EüM rendelet 5. § (2) bekezdése iktatta be.
-[^28]: A 6. § (9) bekezdését az 56/2009. (XII. 30.) EüM rendelet 5. § (2) bekezdése iktatta be.
+[^26]: A 6. § (6) bekezdés b) pontja a 3/2014. (I. 16.) EMMI rendelet 29. § a) pontja szerint módosított szöveg.
+[^27]: A 6. § (7) bekezdését az 56/2009. (XII. 30.) EüM rendelet 5. § (2) bekezdése iktatta be, szövege a 67/2011. (XIII. 13.) NEFMI rendelet 6. §-ával megállapított szöveg.
+[^28]: A 6. § (8) bekezdését az 56/2009. (XII. 30.) EüM rendelet 5. § (2) bekezdése iktatta be.
+[^29]: A 6. § (9) bekezdését az 56/2009. (XII. 30.) EüM rendelet 5. § (2) bekezdése iktatta be.

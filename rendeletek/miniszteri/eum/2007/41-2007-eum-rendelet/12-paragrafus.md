@@ -1,10 +1,10 @@
 ## Fiókgyógyszertár
 
-12. §[^36] (1) Fiókgyógyszertár épületben, illetve mozgó egységként működtethető.
+12. §[^37] (1) Fiókgyógyszertár épületben, illetve mozgó egységként működtethető.
 
 (2) A fiókgyógyszertár hasznos alapterülete – a mozgó fiókgyógyszertár kivételével – minimum 25 m2.
 
-(3)[^37] A fiókgyógyszertár létesítése és működtetése során – a mozgó fiókgyógyszertár kivételével – a 4. §-ban, a 6. §-ban, valamint a 11. § (2) bekezdés a), f), i)–k) pontjában foglaltakat kell alkalmazni azzal, hogy
+(3)[^38] A fiókgyógyszertár létesítése és működtetése során – a mozgó fiókgyógyszertár kivételével – a 4. §-ban, a 6. §-ban, valamint a 11. § (2) bekezdés a), f), i)–k) pontjában foglaltakat kell alkalmazni azzal, hogy
 
 a) a fiókgyógyszertár bejáratánál fel kell tüntetni az ellátó közforgalmú gyógyszertár nevét, címét és elérhetőségét, továbbá szolgálati rendjét,
 
@@ -26,5 +26,5 @@ b) a fiókgyógyszertárnak nem kell elkülönített gazdasági bejárattal rend
 
 (11) Mozgó fiókgyógyszertárban fokozottan ellenőrzött szernek minősülő gyógyszer nem forgalmazható.
 
-[^36]: A 12. § a 31/2010. (XII. 30.) NEFMI rendelet 7. §-ával megállapított szöveg.
-[^37]: A 12. § (3) bekezdés nyitó szövegrésze az 56/2013. (VII. 31.) EMMI rendelet 35. § c) pontja szerint módosított szöveg.
+[^37]: A 12. § a 31/2010. (XII. 30.) NEFMI rendelet 7. §-ával megállapított szöveg.
+[^38]: A 12. § (3) bekezdés nyitó szövegrésze az 56/2013. (VII. 31.) EMMI rendelet 35. § c) pontja szerint módosított szöveg.
