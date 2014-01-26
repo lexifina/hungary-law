@@ -14,7 +14,9 @@ a) az Európai Parlament és a Tanács 2001/83/EK irányelve (2001. november 6.)
 
 b) az Európai Parlament és a Tanács 2004/27/EK irányelve (2004. március 31.) az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló 2001/83/EK irányelv módosításáról;
 
-c)[^129] a más tagállamban kiállított orvosi rendelvények elismerésének megkönnyítésére irányuló intézkedésekről szóló 2012. december 20-i 2012/52/EU bizottsági végrehajtási irányelv.
+c)[^129] a más tagállamban kiállított orvosi rendelvények elismerésének megkönnyítésére irányuló intézkedésekről szóló 2012. december 20-i 2012/52/EU bizottsági végrehajtási irányelv;
+
+d)[^130] a határon átnyúló egészségügyi ellátásra vonatkozó betegjogok érvényesítéséről szóló 2011. március 9-i 2011/24/EU európai parlamenti és a tanácsi irányelv 11. cikke.
 
 [^123]: A 23/B. §-t az 56/2013. (VII. 31.) EMMI rendelet 7. §-a iktatta be.
 [^124]: A 24. § (1) bekezdése a 67/2004. (VII. 29.) ESZCSM rendelet 1. § (1) bekezdése szerint módosított szöveg, amely módosítás az eredeti augusztus 1-jei hatálybalépést szeptember 1-jére változtatta.
@@ -23,3 +25,4 @@ c)[^129] a más tagállamban kiállított orvosi rendelvények elismerésének m
 [^127]: A 24. § (4) bekezdését a 47/2005. (XI. 4.) EüM rendelet 19. § (3) bekezdésének b) pontja hatályon kívül helyezte.
 [^128]: A 24. § (5) bekezdése a 47/2005. (XI. 4.) EüM rendelet 18. §-ával megállapított szöveg.
 [^129]: A 24. § (5) bekezdés c) pontját az 56/2013. (VII. 31.) EMMI rendelet 8. §-a iktatta be.
+[^130]: A 24. § (5) bekezdés d) pontját a 3/2014. (I. 16.) EMMI rendelet 9. §-a iktatta be.

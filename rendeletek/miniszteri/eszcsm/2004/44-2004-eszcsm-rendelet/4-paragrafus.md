@@ -16,6 +16,8 @@
 
 (8) Az (6)–(7) bekezdésben meghatározott esetekben a kérelemhez a 30 napra rendelt gyógyszeradagról szóló érvényes vényt is mellékelni kell.
 
+(9)[^40] Ha a GYEMSZI kiadja az (1) bekezdés szerinti engedélyt, a kezelőorvos – vényen történő rendelés esetén – a GYEMSZI engedélyének másolatát a vénnyel együtt átadja a betegnek.
+
 [^31]: A 4. §-t megelőző alcím a 47/2005. (XI. 4.) EüM rendelet 4. § (1) bekezdésével megállapított szöveg.
 [^32]: A 4. § a rendelet 24. §-ának (2) bekezdése alapján 2004. június 1. napján lépett hatályba.
 [^33]: A 4. § (1) bekezdése a 47/2005. (XI. 4.) EüM rendelet 4. § (1) bekezdésével megállapított, a 41/2011. (VII. 5.) NEFMI rendelet 2. § (1) bekezdés c) pontja, az 52/2012. (XII. 27.) EMMI rendelet 11. § b) pontja szerint módosított szöveg.
@@ -25,3 +27,4 @@
 [^37]: A 4. § (5) bekezdése a 41/2011. (VII. 5.) NEFMI rendelet 2. § (1) bekezdés d) pontja szerint módosított szöveg.
 [^38]: A 4. § (6) bekezdése a 47/2005. (XI. 4.) EüM rendelet 19. § (3) bekezdésének c) pontja, a 41/2011. (VII. 5.) NEFMI rendelet 2. § (1) bekezdés f) pontja szerint módosított szöveg.
 [^39]: A 4. § (7) bekezdése a 47/2005. (XI. 4.) EüM rendelet 19. § (3) bekezdésének c) pontja, az 52/2012. (XII. 27.) EMMI rendelet 11. § c) és d) pontja szerint módosított szöveg.
+[^40]: A 4. § (9) bekezdését a 3/2014. (I. 16.) EMMI rendelet 7. §-a iktatta be.

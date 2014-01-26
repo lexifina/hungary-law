@@ -1,4 +1,4 @@
-9/A. §[^68] (1) Megrendelőlapot az orvos az egészségügyi tevékenységének végzése során betegellátásra felhasznált gyógyszerek rendeléséhez használhat.
+9/A. §[^69] (1) Megrendelőlapot az orvos az egészségügyi tevékenységének végzése során betegellátásra felhasznált gyógyszerek rendeléséhez használhat.
 
 (2) Megrendelőlapon forgalomba hozatalra engedélyezett gyógyszer vagy magisztrális gyógyszerkészítmény rendelhető.
 
@@ -6,4 +6,4 @@
 
 (4) A gyógyszertár a megrendelőlapot a kiváltástól számított 5 évig lefűzve tárolja.
 
-[^68]: A 9/A. §-t az 52/2012. (XII. 27.) EMMI rendelet 7. §-a iktatta be.
+[^69]: A 9/A. §-t az 52/2012. (XII. 27.) EMMI rendelet 7. §-a iktatta be.
