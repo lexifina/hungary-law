@@ -1,4 +1,4 @@
-2. melléklet a 18/2010. (IV. 20.) EüM rendelethez[^13]
+2. melléklet a 18/2010. (IV. 20.) EüM rendelethez[^18]
 
 ## Szakmai követelmények
 
@@ -26,4 +26,4 @@
 
 1.2.2. igazolt részvétel legalább 2 sterilizálás validálási eljárásban.
 
-[^13]: A 2. melléklet a 67/2011. (XII. 13.) NEFMI rendelet 20. § (1) bekezdése szerint módosított szöveg.
+[^18]: A 2. melléklet a 67/2011. (XII. 13.) NEFMI rendelet 20. § (1) bekezdése szerint módosított szöveg.

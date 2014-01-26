@@ -1,3 +1,3 @@
-## 8.[^7]
+## 8.[^11]
 
-[^7]: A 8. §-t megelőző alcímet a 2/2012. (I. 3.) NEFMI rendelet 23. § b) pontja hatályon kívül helyezte.
+[^11]: A 8. §-t megelőző alcímet a 2/2012. (I. 3.) NEFMI rendelet 23. § b) pontja hatályon kívül helyezte.
