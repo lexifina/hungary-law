@@ -24,9 +24,12 @@ bb) a kutatáshoz felhasznált és a kutatás befejezését követően megsemmis
 
 (5)[^6] A kutatást végző a Gytv. 4/A. § (2) bekezdése alapján behozott gyógyszer felhasználásáról nyilvántartást vezet.
 
+(6)[^7] A gyógyszerek elsődleges és másodlagos csomagolásának gyártása és forgalmazása a forgalomba hozatali engedély jogosultjával kötött szerződés alapján lehetséges. A szerződés meglétét és a forgalmazás adatait a GYEMSZI a csomagolóanyagok gyártójánál és forgalmazóinál is ellenőrizheti.
+
 [^1]: Az 1. § (1) bekezdése a 2/2012. (I. 3.) NEFMI rendelet 16. §-a szerint módosított szöveg.
 [^2]: Az 1. § (2) bekezdése az 53/2012. (XII. 28.) EMMI rendelet 11. §-ával megállapított szöveg.
 [^3]: Az 1. § (3) bekezdését az 53/2008. (XII. 31.) EüM rendelet 3. § (1) bekezdése iktatta be.
 [^4]: Az 1. § (4) bekezdését a 2/2012. (I. 3.) NEFMI rendelet 15. §-a iktatta be, szövege a 10/2012. (VII. 19.) EMMI rendelet 15. § (1) bekezdésével megállapított szöveg.
 [^5]: Az 1. § (4) bekezdés a) pontja az 53/2012. (XII. 28.) EMMI rendelet 18. § (1) bekezdés a) pontja szerint módosított szöveg.
 [^6]: Az 1. § (5) bekezdését a 2/2012. (I. 3.) NEFMI rendelet 15. §-a iktatta be.
+[^7]: Az 1. § (6) bekezdését a 3/2014. (I. 16.) EMMI rendelet 20. §-a iktatta be.
