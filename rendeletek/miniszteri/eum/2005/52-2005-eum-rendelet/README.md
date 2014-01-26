@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-52-20-0
 | 2013-01-02 | 2005-52-20-0B.22 | 53/2012. (XII. 28.) EMMI rendelet |
 | 2013-01-31 | 2005-52-20-0B.23 | 52/2012. (XII. 27.) EMMI rendelet |
 | 2013-08-01 | 2005-52-20-0B.24 | 56/2013. (VII. 31.) EMMI rendelet |
+| 2014-01-26 | 2005-52-20-0B.25 | 3/2014. (I. 16.) EMMI rendelet |
