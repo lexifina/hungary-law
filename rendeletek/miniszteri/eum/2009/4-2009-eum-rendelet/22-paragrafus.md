@@ -1,6 +1,6 @@
 ## 21/B. §[^39] Az egészségügyi szolgáltató vezetőjének a balesetfelelős nevét, beosztását, elérhetőségeit, az egészségügyi szolgáltató megnevezését, az adatokban bekövetkezett változásokat 30 napon belül írásban vagy elektronikusan a Hivatalnak be kell jelentenie.
 
-## Piacfelügyeleti hatósági ellenőrző eljárások[^40]
+## Piacfelügyeleti és hatósági ellenőrző eljárások[^40]
 
 22. § (1) Ha a Hivatal megállapítja, hogy egy CE jelöléssel ellátott, helyesen felszerelt és karbantartott, rendeltetésszerűen használt eszköz veszélyeztetheti a beteg, a kezelő vagy más személy egészségét, illetve biztonságát, határozattal rendelkezik az eszköz
 
@@ -19,6 +19,6 @@ b) forgalomból történő kivonásáról, illetve a használatának megtiltás�
 (5)[^42]
 
 [^39]: A 21/B. §-t a 29/2011. (VI. 7.) NEFMI rendelet 18. §-a iktatta be.
-[^40]: A 22. §-t megelőző alcím a 29/2011. (VI. 7.) NEFMI rendelet 19. § (1) bekezdésével megállapított szöveg.
+[^40]: A 22. §-t megelőző alcím a 3/2014. (I. 16.) EMMI rendelet 32. §-ával megállapított szöveg.
 [^41]: A 22. § (4) bekezdése a 29/2011. (VI. 7.) NEFMI rendelet 19. § (2) bekezdésével megállapított szöveg.
 [^42]: A 22. § (5) bekezdését a 33/2012. (X. 11.) EMMI rendelet 10. § b) pontja hatályon kívül helyezte.
