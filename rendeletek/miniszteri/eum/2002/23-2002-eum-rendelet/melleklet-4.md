@@ -28,110 +28,74 @@
 
 | 13. Orvostechnikai eszközzel végzett beavatkozással nem járó vizsgálatok, az emberi felhasználásra kerülő vizsgálati készítmények klinikai vizsgálata, valamint az emberen történő alkalmazásra szolgáló, klinikai vizsgálatra szánt orvostechnikai eszközök klinikai vizsgálata engedélyezési eljárásának szabályairól szóló kormányrendeletben meghatározott esetekben | Egészségügyi Engedélyezési és Közigazgatási Hivatal | 10032000- 00285788- 00000000 |
 
-4. számú melléklet a 23/2002. (V. 9.) EüM rendelethez[^86]
+4. számú melléklet a 23/2002. (V. 9.) EüM rendelethez[^87]
 
 ## Az orvostechnikai eszközökkel végzett beavatkozással nem járó vizsgálat kérelméhez csatolandó dokumentumok
 
-1. A vizsgálat alapadatai
+1. A vizsgálat alapadatai:
 
-a) a vizsgálat címe, protokollszáma,
+a) a vizsgálat címe magyarul, protokollszáma (ha van),
 
-b) a vizsgálat típusa.
+b) a vizsgálat típusa,
 
-2. A kérelmező vizsgálattal kapcsolatos nyilatkozata, amely az alábbiakat tartalmazza
+c) a vizsgálat megbízójának adatai, elérhetősége,
 
-a) a vizsgálat vezetőjének neve, elérhetősége (telefon, fax),
+d) a vizsgálat magyarországi vezetőjének neve, elérhetősége (telefon, fax), szakirányú végzettségének és tudományos fokozatának igazolása, önéletrajza, szakmai munkájának összefoglalója,
 
-b) a vizsgálatot végző vállalkozás, intézmény neve, címe,
+e) a vizsgálatot végző egészségügyi szolgáltató(k) neve, címe,
 
-c) a vizsgálat magyarországi vezetőjének neve, elérhetősége (telefon, fax), ha az az a) ponttól eltérő személy,
+f) a vizsgálat megkezdésének tervezett időpontja,
 
-d) az eszköz gyártójától a vizsgálatot végző vállalkozásnak szóló meghatalmazás, ha a vizsgálatot nem maga a gyártó végzi,
+g) a vizsgálat tervezett időtartama, befejezésének időpontja,
 
-e) a vizsgálat megkezdésének tervezett időpontja,
+h) a vizsgálat tervezett helye és címe.
 
-f) a vizsgálat tervezett időtartama,
-
-g) a vizsgálat tervezett helye és a helyszín alkalmasságát alátámasztó dokumentumok másolatai.
-
-3. A vizsgálat tárgyát képező orvostechnikai eszközzel kapcsolatos alábbi információk:
+2. A vizsgálat tárgyát képező orvostechnikai eszközzel kapcsolatos dokumentációk:
 
 a) az eszköz neve, fantázianeve, gyári típusszáma,
 
-b) az alkalmazni kívánt eszköz egyedi azonosítója, sorozatszáma, ha van,
+b) a vizsgálat tárgyát képező orvostechnikai eszköz(ök) jogszerű forgalomba hozatalát igazoló dokumentumok,
 
-c) az eszköz orvostechnikai voltának bemutatása,
+c) az eszköz(ök) magyar nyelvű használati útmutatója,
 
-d) az eszköz kockázati osztályba sorolása és annak a vonatkozó szabályokból történő levezetése,
+d) az eszköz(ök) műszaki dokumentációja.
 
-e) a szándékolt alkalmazási cél leírása,
+3. Vizsgálati terv, amely a következőket tartalmazza:
 
-f) a szándékolt alkalmazási cél elérését befolyásoló tényezők felsorolása,
+a) rövid magyar nyelvű összefoglaló;
 
-g) az alkalmazás ellenjavallatai/kizáró tényezői,
+b) részletes vizsgálati terv, mely a következőkből áll:
 
-h) az alkalmazással kapcsolatos figyelmeztetések, szükséges elővigyázatosság, a működés alapelvének leírása,
+ba) a vizsgálat célja,
 
-i) a tervezett variánsok általános leírása, azok azonosító adatai,
+bb) a vizsgálati eszköz neve,
 
-j) tervrajzok, a gyártási módszerek, különös tekintettel a sterilizálásra, valamint alkatrészek, részegységek, áramkörök rajzai, fizikai leírása, műszaki adatai, sematikus/kapcsolási rajza, képe/fényképe,
+bc) a vizsgálati módszer ismertetése (például: kettős vak, randomizált stb.),
 
-k) az említett terveknek, illetve az eszköz működésének a megértéséhez szükséges leírások és magyarázatok,
+bd) a módszerhez kapcsolódó vizsgálati eljárás ismertetése,
 
-l) az eszköz kialakítása során alkalmazott szabványok jegyzéke,
+be) a vizsgálatban résztvevők számának meghatározása,
 
-m) az eszközre vonatkozó, de nem alkalmazott szabványok jegyzéke és azon megoldások leírása, melyek segítségével az alapvető követelmények vonatkozó előírásainak teljesítése a szabványtól eltérően elérhető,
+bf) a vizsgálatban résztvevők kiválasztásának vagy kizárásának feltételei,
 
-n) az eszköz tervdokumentációjának és kivitelének ellenőrzése és jóváhagyásának módja,
+bg) a vizsgálat kiértékeléséhez szükséges adatlapminta, algoritmus, írásos utasítás,
 
-o) az eszköz más eszközhöz való rendeltetésszerű csatlakoztatásának feltételei, műszaki és biztonsági követelményei, alkalmazásának egyéb feltételei és korlátai,
+bh) utánkövetési terv,
 
-p) a kockázatelemzés eredményei és a kockázatelemzéshez teljes mértékben vagy részben alkalmazott honosított harmonizált szabványok jegyzéke, valamint azon megoldásoknak a leírása, melyeket alkalmaztak, amennyiben nem a honosított harmonizált szabványokat alkalmazták,
+bi) a vizsgálat elvégzésének tudományos, orvosi indoklása,
 
-q) amennyiben az eszköz integráns részét alkotja valamely gyógyszer alkotóelem, gyógyszernek minősülő anyag vagy humán vérszármazék, ezek biztonságos voltának, minőségének és hasznosságának értékelésére elvégzett vizsgálatok adatai, figyelembe véve az eszköz rendeltetését,
+bj) a vizsgálatban résztvevő egyéb, a vizsgálat tárgyát nem képező, CE megfelelőségi jelöléssel rendelkező orvostechnikai eszközök jogszerű forgalomba hozatalát igazoló dokumentumok,
 
-r) amennyiben az eszköz állati eredetű szövet felhasználásával készült, a fertőzés kockázatának csökkentése érdekében az ezzel kapcsolatban megtett kockázatkezelési intézkedések,
+bk) váratlan esemény bekövetkezése esetén követendő eljárás,
 
-s) címke, használati útmutató.
+bl) a vizsgálat leállításának feltételei,
 
-4. Vizsgálati terv, amely a következőket tartalmazza:
+bm) a betegtájékoztató és a beleegyező nyilatkozat,
 
-a) a vizsgálat célja,
+bn) a vizsgálatot kezdeményező által megkötött, a kockázatoknak megfelelő felelősségbiztosítási szerződés visszaigazolása,
 
-b) a vizsgálati cél elérésének meghatározása,
+bo) a vizsgálatot befogadó egészségügyi szolgáltató nyilatkozata a vizsgálathoz való hozzájárulásról,
 
-c) a vizsgálati módszer ismertetése (például: kettős vak, randomizált stb.),
+bp) igazgatási szolgáltatási díj befizetését igazoló dokumentum.
 
-d) a módszerhez kapcsolódó vizsgálati eljárás ismertetése,
-
-e) a vizsgálat eredményét befolyásoló tényezők (például: más betegség) ismertetése,
-
-f) a vizsgálat kiértékeléséhez szükséges adatlapminta, algoritmus, írásos utasítás,
-
-g) utánkövetési terv,
-
-h) a vizsgálat elvégzésének tudományos, orvosi, műszaki indoklása,
-
-i) a vizsgálatban résztvevők kiválasztásának feltételei,
-
-j) a vizsgálatban résztvevők számának meghatározása és annak indoklása,
-
-k) a vizsgálatban résztvevő egyéb, a vizsgálat tárgyát nem képező, CE megfelelőségi jelöléssel rendelkező és azzal nem rendelkező orvostechnikai eszközök jogszerű forgalomba hozatalát igazoló dokumentumok,
-
-l) vizsgálatra vonatkozó kockázatelemzés és kockázatértékelés, a valószínűsíthető kockázatok és mellékhatások részletes felmérése, kiküszöbölésük vagy csökkentésük módja,
-
-m) a teljesítőképesség és a valószínűsíthető kockázatok és mellékhatások aránya elfogadhatóságának elemzése, indoklása,
-
-n) a vizsgálatot végző személyzet tagjainak önéletrajza,
-
-o) betegtájékoztató és a beleegyező nyilatkozat,
-
-p) váratlan esemény bekövetkezése esetén követendő eljárás, értesítendők listája, értesítés határideje,
-
-q) a vizsgálat leállításának feltételei,
-
-r) a vizsgálatot végző egészségügyi szolgáltatónak a kártérítés fedezetére a kutatási tevékenység megkezdését megelőzően a kutatásokra vonatkozó, a kockázatoknak megfelelő felelősségbiztosítási szerződésének visszaigazolása,
-
-s) a vizsgáló, a vizsgálatvezető, az egészségügyi szolgáltató, illetve a megbízó közötti, a beavatkozással nem járó vizsgálatra irányuló szerződés másolata.
-
-[^86]: A 4. számú mellékletet az 52/2012. (XII. 27.) EMMI rendelet 3. §-a iktatta be.
+[^87]: A 4. számú mellékletet az 52/2012. (XII. 27.) EMMI rendelet 3. §-a iktatta be, szövege a 3/2014. (I. 16.) EMMI rendelet 1. § (2) bekezdésével megállapított szöveg.
