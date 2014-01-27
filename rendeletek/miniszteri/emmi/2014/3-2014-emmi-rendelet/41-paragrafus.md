@@ -1,1 +1,0 @@
-## 40. § A 18/2010. EüM rendelet 7. § (2) bekezdésében az „(1) bekezdés szerinti ellenőrzés során a kijelölő” szövegrész helyébe az „in vitro diagnosztikai eszközök (1) bekezdés szerinti ellenőrzése során a kijelölő hatóság” szöveg lép.
