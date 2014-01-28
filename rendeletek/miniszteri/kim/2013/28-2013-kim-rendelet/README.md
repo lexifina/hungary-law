@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-28-20-2
 | 2013-11-23 | 2013-28-20-2T.1 | 28/2013. (XI. 15.) KIM rendelet |
 | 2013-12-31 | 2013-28-20-2T.2 | 38/2013. (XII. 30.) KIM rendelet |
 | 2014-01-17 | 2013-28-20-2T.3 | 2/2014. (I. 16.) KIM rendelet |
+| 2014-01-28 | 2013-28-20-2T.4 | 4/2014. (I. 27.) KIM rendelet |
