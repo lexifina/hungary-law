@@ -1,4 +1,4 @@
-## 15. §[^1]
+## 15. §[^2]
 
 1. melléklet a 111/2013. (XII. 7.) VM rendelethez
 
@@ -28,4 +28,4 @@ A 2013. évi támogatások számítása során alkalmazandó maximális fajlagos
 
 | 11. Tej – termeléstől elválasztott átmeneti nemzeti támogatás | 27,23 EUR/1000 történelmi bázisjogosultság |
 
-[^1]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
