@@ -1,4 +1,4 @@
-## 24/A. [^9] Örökségvédelmi emlékérmek
+## 24/A. [^10] Örökségvédelmi emlékérmek
 
 26/A. § (1) A Műemlékvédelemért – Forster Gyula-emlékérem a műemlékvédelem érdekében jelentős érdemeket szerzett személyek és társadalmi szervezetek részére adományozható.
 
@@ -10,4 +10,4 @@
 
 (5) A Műemlékvédelemért – Forster Gyula-emlékérem és a Régészeti örökségért – Schönvisner István-emlékérem leírását a 28. melléklet tartalmazza.
 
-[^9]: A 24/A. alcímet (26/A. §) a 17/2013. (V. 9.) BM rendelet 4. §-a iktatta be.
+[^10]: A 24/A. alcímet (26/A. §) a 17/2013. (V. 9.) BM rendelet 4. §-a iktatta be.

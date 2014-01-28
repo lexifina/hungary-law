@@ -12,6 +12,6 @@ e) 8. §-ban meghatározott díj leírását az 5. melléklet tartalmazza,
 
 f) 9. §-ban meghatározott díj leírását a 6. melléklet tartalmazza,
 
-g)[^4] 9/A. §-ban meghatározott díjak leírását a 27. melléklet tartalmazza.
+g)[^5] 9/A. §-ban meghatározott díjak leírását a 27. melléklet tartalmazza.
 
-[^4]: A 12. § g) pontját a 17/2013. (V. 9.) BM rendelet 3. §-a iktatta be.
+[^5]: A 12. § g) pontját a 17/2013. (V. 9.) BM rendelet 3. §-a iktatta be.
