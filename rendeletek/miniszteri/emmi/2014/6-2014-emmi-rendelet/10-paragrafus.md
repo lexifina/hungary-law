@@ -1,0 +1,5 @@
+## 9. § A kerettantervi rendelet 16. §-a helyébe a következő rendelkezés lép:
+
+## „16. § (1) A kerettantervek kiadásának és jóváhagyásának rendjéről, valamint egyes oktatási jogszabályok módosításáról szóló 17/2004. (V. 20.) OM rendelet (a továbbiakban: OM rendelet) 1. számú mellékletében a 9–13. évfolyamokra kiadott kerettanterveket, továbbá a 2. és 3. számú mellékletében kiadott kerettanterveket – a (2) bekezdésben foglalt kivétellel – 2022. augusztus 31-ig kifutó rendszerben lehet alkalmazni a nevelési-oktatási intézményekben a Nat. és az e rendelet alapján kiadott kerettantervek felmenő rendszerű bevezetéséhez igazodva.
+
+## (2) Az OM rendelet 1. számú melléklet II. Enyhén értelmi fogyatékos tanulók nevelését, oktatását ellátó általános iskolák (1–8. évfolyam) előkészítő szakiskolák (9–10. évfolyam) speciális szakiskolák 9–10. évfolyamai számára című kerettantervét kizárólag az enyhén értelmi fogyatékos tanulók nevelését, oktatását ellátó előkészítő szakiskolák alkalmazhatják a 9. évfolyam vonatkozásában 2014. augusztus 31-ig, a 10. évfolyam vonatkozásában 2015. augusztus 31-ig kifutó rendszerben.”
