@@ -1,4 +1,4 @@
-1. A Kormány az irányítása vagy felügyelete alá tartozó költségvetési szervnél beszerzési tilalmat rendel el a beruházások keretében – kivéve kisértékű tárgyi eszköz – történő informatikai eszközök beszerzése, létesítése (rovatszáma: K63), valamint az egyéb tárgyi eszközök beszerzése létesítésén (rovatszáma: K64) belül a bútorok, műszaki berendezések, gépek, személygépjárművek vonatkozásában.
+1.[^1] A Kormány az irányítása vagy felügyelete alá tartozó költségvetési szervnél beszerzési tilalmat rendel el a beruházások keretében – kivéve kisértékű tárgyi eszköz – történő informatikai eszközök beszerzése, létesítése (rovatszáma K63), valamint az egyéb tárgyi eszközök beszerzése létesítésén belül (rovatszáma K64) a bútorok, személygépjárművek, és telefon beszerzése vonatkozásában.
 
 Felelős: a Kormány irányítása alá tartozó fejezetet irányító szerv vezetője
 
@@ -26,6 +26,7 @@ Határidő: folyamatos
 
 4. Ez a határozat 2014. január 1-jén lép hatályba.
 
-5.[^1]
+5.[^2]
 
-[^1]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont az 1025/2014. (I. 30.) Korm. határozat 8. pontjával megállapított szöveg.
+[^2]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
