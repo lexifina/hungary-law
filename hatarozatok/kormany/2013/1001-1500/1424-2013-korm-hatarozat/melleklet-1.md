@@ -10,7 +10,7 @@
 
 ## Határidő: azonnal
 
-## 2. az Áht. 21. § (6) bekezdésében biztosított jogkörében a népegészségügyi szakigazgatási szerveknek az Európai Bizottság 2012. május 30-án kelt, a Magyarország által az emberi fogyasztásra szánt víz minőségéről szóló 98/83/EK tanácsi irányelv alapján kért eltérésről szóló határozatával érintett települések vonatkozásában felmerülő, az ivóvíz-minőség vizsgálatával összefüggő többletforrás-igényére 30,0 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet X. Közigazgatási és Igazságügyi Minisztérium fejezet, 8. Fővárosi, megyei kormányhivatalok és járási kormányhivatalok cím javára, a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 7. Rendkívüli kormányzati intézkedések cím terhére a 2. melléklet szerint;
+## 2.[^1] az Áht. 21. § (6) bekezdésében biztosított jogkörében a népegészségügyi szakigazgatási szerveknek az Európai Bizottság 2012. május 30-án kelt, a Magyarország által az emberi fogyasztásra szánt víz minőségéről szóló 98/83/EK tanácsi irányelv alapján kért eltérésről szóló határozatával érintett települések vonatkozásában felmerülő, az ivóvíz-minőség vizsgálatával összefüggő többletforrás-igényére 30,0 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet X. Közigazgatási és Igazságügyi Minisztérium fejezet, 8. Fővárosi, megyei kormányhivatalok és járási kormányhivatalok cím javára, a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 7. Rendkívüli kormányzati intézkedések cím terhére a 2. melléklet szerint;
 
 ## Az átcsoportosítás tekintetében
 
@@ -22,7 +22,7 @@
 
 ## Felelős: közigazgatási és igazságügyi miniszter
 
-## Határidő: 2014. április 30.
+## Határidő: 2014. június 30.
 
 ## 3. az Áht. 33. § (1) bekezdésében biztosított jogkörében eljárva a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezetben elrendeli
 
@@ -53,3 +53,5 @@
 ## Határidő: 2013. július 15.
 
 1. melléklet az 1424/2013. (VII. 10.) Korm. határozathoz
+
+[^1]: A 2. pont az 1025/2014. (I. 30.) Korm. határozat 14. pontja szerint módosított szöveg.

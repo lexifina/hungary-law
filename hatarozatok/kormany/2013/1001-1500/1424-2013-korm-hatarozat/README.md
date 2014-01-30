@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-1424-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2013-07-10 | 2013-1424-30-22.1 | 1424/2013. (VII. 10.) Korm. határozat |
+| 2014-01-30 | 2013-1424-30-22.2 | 1025/2014. (I. 30.) Korm. határozat |
