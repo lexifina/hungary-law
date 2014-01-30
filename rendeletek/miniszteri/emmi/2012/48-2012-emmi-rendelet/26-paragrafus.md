@@ -36,12 +36,60 @@ g) javaslatok megfogalmazása az intézmények belső önértékelésének fejle
 
 (3) A pedagógiai-szakmai szolgáltatások nyújtásában, az e rendeletben meghatározottak szerint, szaktanácsadók vehetnek részt.
 
-(4) A szaktanácsadói tevékenységet
+(4)[^6] A szaktanácsadói tevékenységet az alábbi szakterületeken kell megszervezni:
 
-a) szakrendszerű oktatás esetén tantárgyanként vagy tantárgycsoportonként, műveltségterületenként, szakonként, szakmánként vagy szakmacsoportonként, illetőleg tanszakonként, Magyar nyelv és irodalom, Idegen nyelvek, Matematika, Ember és társadalom, Ember és természet Földünk – környezetünk, Művészetek, Informatika, Életvitel és gyakorlat, Testnevelés és sport,
+a) Tantárgygondozói szakterületek:
 
-b) az óvodai nevelésre, a szakrendszerben oktatott tantárgyak kivételével az általános iskola alsó tagozatán folyó nevelő-oktató tevékenységre, kollégiumban végzett nevelő-oktató munkára, továbbá az iskolai könyvtárban folytatott tevékenységre (a továbbiakban együtt: szakterületek)
+aa) Óvodapedagógusi,
 
-külön kell megszervezni.
+ab) Tanítói,
+
+ac) Magyar nyelv és irodalom,
+
+ad) Idegen nyelv (a nyelv megjelölésével),
+
+ae) Matematika,
+
+af) Történelem társadalmi és állampolgári ismeretek, Társadalmi, állampolgári és gazdasági ismeretek, Hon- és népismeret,
+
+ag) Erkölcstan, Etika, Filozófia,
+
+ah) Biológia, Egészségtan, Természetismeret,
+
+ai) Fizika, Természetismeret,
+
+aj) Kémia, Természetismeret,
+
+ak) Földrajz, Természetismeret,
+
+al) Művészetek,
+
+am) Informatika,
+
+an) Technika, Életvitel és gyakorlat,
+
+ao) Testnevelés és sport,
+
+ap) Alapfokú művészetoktatási,
+
+ar) Szakképzési (a szakmacsoport megnevezésével),
+
+as) Kollégiumi,
+
+at) Iskolai könyvtári,
+
+b) Nemzetiségi szakterület (a nyelv megjelölésével),
+
+c) Intézményfejlesztési szakterület,
+
+d) Kiemelt figyelmet igénylő gyermek, tanuló nevelésének, oktatásának segítése szakterület,
+
+e) Konfliktuskezelési szakterület,
+
+f) Halmozottan hátrányos helyzetű gyermek, tanuló nevelésének, oktatásának segítése szakterület,
+
+g) Pedagógiai mérés-értékelési szakterület.
 
 (5) Szaktanácsadói tevékenységet az láthat el, aki pedagógiai intézetben pedagógiai szakértő vagy pedagógiai előadó munkakörben alkalmazásban áll, vagy aki erre megbízást kapott, és szerepel a szaktanácsadói névjegyzékben.
+
+[^6]: A 26. § (4) bekezdése a 6/2014. (I. 29.) EMMI rendelet 4. §-ával megállapított szöveg.

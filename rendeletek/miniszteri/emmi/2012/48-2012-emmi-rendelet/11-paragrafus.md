@@ -1,6 +1,6 @@
-11. § (1) Országos pedagógiai-szakmai szolgáltatásként kell megszervezni a hazai országos köznevelés-fejlesztési pályázatokhoz kapcsolódó szaktanácsadást.
+11. § (1)[^2] Országos pedagógiai-szakmai szolgáltatásként kell megszervezni az intézményfejlesztési szaktanácsadást.
 
-(2) A köznevelés-fejlesztési pályázati pedagógiai-szakmai szolgáltatás keretében szervezett szaktanácsadás területei elsősorban a következők:
+(2)[^3] Az intézményfejlesztési pedagógiai-szakmai szolgáltatás keretében szervezett szaktanácsadás területei elsősorban a következők:
 
 a) az intézményszervezési,
 
@@ -10,7 +10,7 @@ c) az intézményvezetés munkáját elemző, szervezetfejlesztő
 
 ## szaktanácsadás.
 
-(3) A köznevelés-fejlesztési pályázati pedagógiai-szakmai szolgáltatások keretében szervezett szaktanácsadás ellátására szaktanácsadó az lehet, aki az Nkt. 3. mellékletében meghatározott feltételeknek megfelel, pedagógus szakvizsgával rendelkezik, köznevelési intézményben pedagógus-munkakörben legalább tíz éves szakmai gyakorlatot szerzett, és pedagógus-továbbképzés keretében elsajátította az adott szakterülethez illeszkedően
+(3)[^4] Az intézményfejlesztési pedagógiai-szakmai szolgáltatások keretében szervezett szaktanácsadás ellátására szaktanácsadó az lehet, aki az Nkt. 3. mellékletében meghatározott feltételeknek megfelel, pedagógus szakvizsgával rendelkezik, köznevelési intézményben pedagógus-munkakörben legalább tíz éves szakmai gyakorlatot szerzett, és pedagógus-továbbképzés keretében elsajátította az adott szakterülethez illeszkedően
 
 a) az adott intézménytípusra a miniszter által kiadott kerettantervekben, valamint a Nemzeti alaptantervben, az Óvodai nevelés országos alapprogramjában meghatározott nevelési tevékenységeket, pedagógiai, tantárgyi tartalmakat, fejlesztési követelményeket támogató pedagógiai módszertant, vagy
 
@@ -19,3 +19,7 @@ b) a sajátos nevelési igényű, a nemzetiségi, a migráns és a tehetséggond
 c) a pedagógiai feladatok ellátásának nevelési, oktatás-szervezési, irányítási és szervezetalakítási ismereteit.
 
 (4) A (3) bekezdésben előírt feltételeket az is teljesíti, aki a pedagógus-továbbképzésről, a pedagógus-szakvizsgáról, valamint a továbbképzésben résztvevők juttatásairól és kedvezményeiről szóló 277/1997. (XII. 22.) Korm. rendeletben meghatározott akkreditált pedagógus-továbbképzésben oktatóként részt vett legalább húsz óra időtartamban, vagy az adott szakterület nemzetközileg vagy országosan elismert képviselője. Az adott szakterület nemzetközileg vagy országosan elismert képviselője feltételnek való megfelelést szakmai önéletrajzzal és legalább kettő szakmai ajánlással, továbbá publikációs jegyzékkel kell igazolni.
+
+[^2]: A 11. § (1) bekezdése a 6/2014. (I. 29.) EMMI rendelet 6. § a) pontja szerint módosított szöveg.
+[^3]: A 11. § (2) bekezdés nyitó szövegrésze a 6/2014. (I. 29.) EMMI rendelet 6. § b) pontja szerint módosított szöveg.
+[^4]: A 11. § (3) bekezdés nyitó szövegrésze a 6/2014. (I. 29.) EMMI rendelet 6. § b) pontja szerint módosított szöveg.

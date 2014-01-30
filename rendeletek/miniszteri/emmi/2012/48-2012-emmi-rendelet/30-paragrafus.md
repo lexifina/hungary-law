@@ -23,3 +23,7 @@ b) az NFT I. HEFOP 2.1. Hátrányos helyzetű tanulók esélyegyenlőségének b
 (6) Az egyházi, a nem állami, nem önkormányzati fenntartású pedagógiai intézeteknek 2013. szeptember 1-jéig kell az Nkt. 19. § (2) bekezdésben meghatározott pedagógiai-szakmai szolgáltatások teljes körének ellátására áttérni, és az ehhez szükséges dokumentumokat módosítani, ha a miniszter köznevelési szerződést kötött a fenntartójával.
 
 (7) Ha a közoktatásról szóló 1993. évi LXXIX. törvény alapján a pedagógiai szakmai szolgáltatást ellátó köznevelési intézmény a nyilvántartásba vételét követően megkezdhette működését, a fenntartó köteles 2013. április 30-ig működési engedély iránti kérelmet benyújtani, feltéve, ha a miniszter köznevelési szerződést kötött a fenntartójával vagy a köznevelési intézményt megszüntetni.
+
+(8)[^10] A „Pedagógusképzés támogatása” TÁMOP 3.1.5./12 elnevezésű kiemelt projekt megvalósítási időszakában az Oktatáskutató és Fejlesztő Intézet közreműködhet a szaktanácsadás, tantárgygondozás, valamint a pedagógusok képzésének, továbbképzésének és önképzésének segítse pedagógiai-szakmai szolgáltatások ellátásában.
+
+[^10]: A 30. § (8) bekezdését a 6/2014. (I. 29.) EMMI rendelet 5. §-a iktatta be.
