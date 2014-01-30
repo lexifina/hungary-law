@@ -1,6 +1,6 @@
 ## 1. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény (a továbbiakban: Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet, 11. Nemzeti Örökség Intézete cím létrehozását;
 
-## 2. az Áht. 21. § (6) bekezdése alapján a Nemzeti Örökség Intézete 2013. évi működéséhez 300,0 millió forint 1. melléklet szerinti egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 11. Nemzeti Örökség Intézete cím javára, a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 7. Rendkívüli kormányzati intézkedések cím terhére;
+## 2.[^1] az Áht. 21. § (6) bekezdése alapján a Nemzeti Örökség Intézete 2013. évi működéséhez és alaptevékenységként meghatározott programokhoz 300,0 millió forint 1. melléklet szerinti egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 11. Nemzeti Örökség Intézete cím javára, a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 7. Rendkívüli kormányzati intézkedések cím terhére;
 
 ## Az átcsoportosítás tekintetében
 
@@ -12,7 +12,7 @@
 
 ## Felelős: Miniszterelnökséget vezető államtitkár
 
-## Határidő: 2014. február 28.
+## Határidő: 2014. június 30.
 
 ## 3. felhívja a nemzetgazdasági minisztert, hogy a Miniszterelnökséget vezető államtitkárral együttműködve a 2014. évi központi költségvetés tervezése során gondoskodjon a Nemzeti Örökség Intézete működéséhez szükséges forrás rendelkezésre állásáról.
 
@@ -103,3 +103,5 @@
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+
+[^1]: A 2. pont az 1025/2014. (I. 30.) Korm. határozat 12. pontja szerint módosított szöveg.
