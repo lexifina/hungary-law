@@ -118,7 +118,7 @@
 
 | Elválasztó sáv, legalább | méter | 2 |
 
-| Szigetelési távolság rozs fajták között illetve idegentermékenyülő tritikálé fajták között | 500 | 300 | 250 | 200 |
+| Izolációs távolság rozs fajták között illetve idegentermékenyülő tritikálé fajták között | 500 | 300 | 250 | 200 |
 
 | csupasz árpa egyéb árpa fajtától, illetve csupasz zab egyéb zab fajtól | 100 |
 
@@ -190,7 +190,7 @@
 
 | Egyéb követelmények: | Zab, árpa, búza, durum búza, tönköly búza és önbeporzó tritikálé hibridjei esetén: |
 
-|  | – az anyai komponensnek ugyanazon fajtól való szigetelési távolsága: 25 méter, |
+|  | – az anyai komponensnek ugyanazon fajtól való izolációs távolsága: 25 méter, |
 
 |  | – az idegen kultúr- és gyomnövényekre, gombabetegségekre és kártevőkre vonatkozó követelményeket a B. rész 1. pontjában lévő, a nem hibrid fajtákra vonatkozó táblázata tartalmazza. |
 
@@ -202,11 +202,11 @@
 
 |  | – I. fokú (hibrid F1) vetőmag-szaporításkor az apai komponens növényeinek aránya nem lépheti túl a nemesítő által meghatározott szülőkomponens arányát, |
 
-|  | – elit szaporítási fokú anyai szülőkomponens vetőmag-előállítás esetén a szigetelési távolság 1000 méter a rozs más fajtájától vagy a szülőkomponenstől, ugyanazon szülőkomponenstől, amelyben a nem fajtaazonos növények száma e rendelet határértékeit meghaladják, |
+|  | – elit szaporítási fokú anyai szülőkomponens vetőmag-előállítás esetén a izolációs távolság 1000 méter a rozs más fajtájától vagy a szülőkomponenstől, ugyanazon szülőkomponenstől, amelyben a nem fajtaazonos növények száma e rendelet határértékeit meghaladják, |
 
-|  | – elit szaporítási fokú apai szülőkomponens vetőmag-előállítás esetén a szigetelési távolság 600 méter a rozs más fajtájától vagy a szülőkomponenstől, ugyanazon szülőkomponenstől, amelyben a nem fajtaazonos növények száma e rendelet határértékeit meghaladja, |
+|  | – elit szaporítási fokú apai szülőkomponens vetőmag-előállítás esetén a izolációs távolság 600 méter a rozs más fajtájától vagy a szülőkomponenstől, ugyanazon szülőkomponenstől, amelyben a nem fajtaazonos növények száma e rendelet határértékeit meghaladja, |
 
-|  | – I. fokú (hibrid F1) vetőmag-előállítás esetén a szigetelési távolság 500 méter ugyanazon faj szülőkomponensétől vagy más fajtától, ugyanazon fajtától, amely fajtatisztaságra nézve erős heterogenitást mutat. |
+|  | – I. fokú (hibrid F1) vetőmag-előállítás esetén a izolációs távolság 500 méter ugyanazon faj szülőkomponensétől vagy más fajtától, ugyanazon fajtától, amely fajtatisztaságra nézve erős heterogenitást mutat. |
 
 | A vizsgálat tárgya | Egység | Szuperelit Elit | I. (Hibrid F1) |
 
@@ -258,7 +258,7 @@
 
 | A mintaterek száma: | 20 ha-ig: 4 db, utána minden megkezdett 10 ha után: 2 db. |
 
-| Egyéb követelmények: | Egy kalitkán belül eltérő fajtájú és szaporítási fokú rizs nem szaporítható, kivéve, ha a keveredés mentesség valamely módon megoldható. Hibridfajták esetén a szigetelési távolság más rizsfajtáktól 25 méter. |
+| Egyéb követelmények: | Egy kalitkán belül eltérő fajtájú és szaporítási fokú rizs nem szaporítható, kivéve, ha a keveredés mentesség valamely módon megoldható. Hibridfajták esetén a izolációs távolság más rizsfajtáktól 25 méter. |
 
 | A vizsgálat tárgya | Egység | SE | Elit | I. | II. |
 
@@ -302,7 +302,7 @@
 
 | Elválasztó sáv, legalább | méter | 2 |
 
-| Szigetelési távolság más fajtától és rokon fajtól legalább | 500 | 300 | 250 |
+| Izolációs távolság más fajtától és rokon fajtól legalább | 500 | 300 | 250 |
 
 | Gyomosság, legfeljebb | minősítő szám | 2 |
 
@@ -374,17 +374,17 @@
 
 |  | – szántóföldi ellenőrzésben és minősítésben részesíthetők, |
 
-|  | – a szigetelési távolságon belül levő hibrid kukoricavetőmag-előállító táblákat egymásra nézve kölcsönösen szigeteltnek kell tekinteni, |
+|  | – a izolációs távolságon belül levő hibrid kukoricavetőmag-előállító táblákat egymásra nézve kölcsönösen szigeteltnek kell tekinteni, |
 
 |  | – elhelyezésekor az eltérő fajtájú anyasorokat elválasztó apasorok számát a két különböző anyai állományú táblarész között legalább 8 sorral meg kell növelni, |
 
 |  | – állományában apavisszafogással, mellévetéssel apai szülőkomponens elit, illetve szuperelit szaporítási fokú vetőmagját nem lehet minősítésben részesíteni, |
 
-|  | – állományában a virágport hullató anyai növényeket a közös szigetelési távolságon belül a virágport hullató idegen tő az apasorokban határértéke alapján kell minősíteni, |
+|  | – állományában a virágport hullató anyai növényeket a közös izolációs távolságon belül a virágport hullató idegen tő az apasorokban határértéke alapján kell minősíteni, |
 
-|  | – egyikének táblamegosztással történő alkalmatlan minősítésekor, ha helyrehozhatatlan hiba miatt az alkalmatlan minősítésű táblarész szigetelési távolsággal történő elkülönítése válik szükségessé, és ez érinti a másik anyai növényállománnyal előállított táblarészt, akkor a minősítést és az elkülönítést nem enyhíti az elválasztó 8 apai sor megléte, |
+|  | – egyikének táblamegosztással történő alkalmatlan minősítésekor, ha helyrehozhatatlan hiba miatt az alkalmatlan minősítésű táblarész izolációs távolsággal történő elkülönítése válik szükségessé, és ez érinti a másik anyai növényállománnyal előállított táblarészt, akkor a minősítést és az elkülönítést nem enyhíti az elválasztó 8 apai sor megléte, |
 
-|  | – vetőmag-előállítások állományában az időbeli izoláció figyelembevétele a szigetelési távolság elbírálásakor nem engedélyezett. |
+|  | – vetőmag-előállítások állományában az időbeli izoláció figyelembevétele a izolációs távolság elbírálásakor nem engedélyezett. |
 
 |  | Azonos apával, de eltérő anyával közvetlenül egymás mellett végzett elit és szuperelit szaporítási fokú hibrid kukorica alapanyag egyszeres keresztezésű vetőmag-előállítások |
 
@@ -394,13 +394,13 @@
 
 |  | – elhelyezésekor az eltérő fajtájú anyasorokat elválasztó apasorok számát a két különböző anyai állományú táblarész között legalább 4 sorral meg kell növelni, |
 
-|  | – egyikének táblamegosztással történő alkalmatlan minősítésekor, ha helyrehozhatatlan hiba miatt az alkalmatlan minősítésű táblarész szigetelési távolsággal történő elkülönítése válik szükségessé, és ez érinti a másik anyai növényállománnyal előállított táblarészt, akkor a minősítést és az elkülönítést nem enyhíti az elválasztó négy apai sor megléte, |
+|  | – egyikének táblamegosztással történő alkalmatlan minősítésekor, ha helyrehozhatatlan hiba miatt az alkalmatlan minősítésű táblarész izolációs távolsággal történő elkülönítése válik szükségessé, és ez érinti a másik anyai növényállománnyal előállított táblarészt, akkor a minősítést és az elkülönítést nem enyhíti az elválasztó négy apai sor megléte, |
 
-|  | – állományában a virágport hullató anyai növényeket a közös szigetelési távolságon belül a virágport hullató idegen tő az apasorokban határértéke alapján kell minősíteni, |
+|  | – állományában a virágport hullató anyai növényeket a közös izolációs távolságon belül a virágport hullató idegen tő az apasorokban határértéke alapján kell minősíteni, |
 
-|  | – vetőmag-előállítások állományában az időbeli izoláció figyelembevétele a szigetelési távolság elbírálásakor nem engedélyezett. |
+|  | – vetőmag-előállítások állományában az időbeli izoláció figyelembevétele a izolációs távolság elbírálásakor nem engedélyezett. |
 
-|  | Az árutermesztési célt szolgáló első szaporítási fokú vetőmag-előállítás esetén szigetelési távolságon belül időbeli izolációként figyelembe vehető a június 30. napja után elvetett másodvetésű kukorica növényállománya. Ebben az esetben az izolációs távolságon belüli másodvetésű kukorica növényállomány virágzásának kezdetére a vetőmag-előállító tábla anyasoraiból a még el nem virágzott fattyú és késői fejlődésű egyedeket el kell távolítani, ezen követelmény miatt további egy ellenőrzést kell végrehajtani. |
+|  | Az árutermesztési célt szolgáló első szaporítási fokú vetőmag-előállítás esetén izolációs távolságon belül időbeli izolációként figyelembe vehető a június 30. napja után elvetett másodvetésű kukorica növényállománya. Ebben az esetben az izolációs távolságon belüli másodvetésű kukorica növényállomány virágzásának kezdetére a vetőmag-előállító tábla anyasoraiból a még el nem virágzott fattyú és késői fejlődésű egyedeket el kell távolítani, ezen követelmény miatt további egy ellenőrzést kell végrehajtani. |
 
 |  | A kukoricanövények és termésük (cső, szem, csutka) megkülönböztető jegyeinek vizsgálata azokra a morfológiai bélyegekre és fenológiai eltérésekre vonatkozik, amelyeket a hivatalos fajtaleírás tartalmaz. |
 
@@ -526,7 +526,7 @@
 
 | 1 | 2 | 3 | 4 | 5 |
 
-| Szigetelési távolság, legalább | méter | 400 | 200 | 200 |
+| Izolációs távolság, legalább | méter | 400 | 200 | 200 |
 
 | Gyomosság, legfeljebb | minősítő szám | 2 |
 
@@ -568,7 +568,7 @@
 
 | 1 | 2 | 3 | 4 |
 
-| Szigetelési távolság más seprűcirok fajtáktól és Sorghum fajoktól legalább | méter | 400 |
+| Izolációs távolság más seprűcirok fajtáktól és Sorghum fajoktól legalább | méter | 400 |
 
 | Gyomosság, legfeljebb | minősítő szám | 2 |
 
@@ -610,7 +610,7 @@
 
 | 1 | 2 | 3 | 4 |
 
-| Szigetelési távolság a faj más fajtáitól és más Sorghum fajoktól, legalább | méter | 400 |
+| Izolációs távolság a faj más fajtáitól és más Sorghum fajoktól, legalább | méter | 400 |
 
 | Gyomosság, legfeljebb | minősítő szám | 2 |
 
@@ -664,9 +664,9 @@
 
 | Egyéb követelmények: | Szuperelit (SE) szaporítás esetén a határértékeknek legalább meg kell egyezniük az elit (E) fokú szaporítás határértékeivel. |
 
-|  | Szigetelési távolság nélküli szülői komponens – elit – vetőmag-előállító növényállománya szántóföldi ellenőrzésre és minősítésre nem kerülhet. |
+|  | Izolációs távolság nélküli szülői komponens – elit – vetőmag-előállító növényállománya szántóföldi ellenőrzésre és minősítésre nem kerülhet. |
 
-|  | Engedélyezett azonos apával, de eltérő anyával történő cirok vetőmag-előállítás esetén a szigetelési távolságon belül levő cirok vetőmag-előállító táblákat egymásra nézve kölcsönösen szigeteltnek kell tekinteni; ilyenkor az eltérő fajtájú anyasorokat elválasztó apasorok számát legalább négy sorral kell növelni. |
+|  | Engedélyezett azonos apával, de eltérő anyával történő cirok vetőmag-előállítás esetén a izolációs távolságon belül levő cirok vetőmag-előállító táblákat egymásra nézve kölcsönösen szigeteltnek kell tekinteni; ilyenkor az eltérő fajtájú anyasorokat elválasztó apasorok számát legalább négy sorral kell növelni. |
 
 |  | Álfertil anyai összetevő: az anyai összetevő azon növény egyedei, melyeknél ökológiai stressz hatására megjelenő – termékenyítésre nem alkalmas pollent tartalmazható – portokok csökevényes alakban észlelhetők, az anterák nem duzzadtak. |
 
@@ -678,7 +678,7 @@
 
 | 1 | 2 | 3 | 4 | 4 |
 
-| Szigetelési távolság, más fajtától, illetve egyéb Sorghum fajoktól, legalább | méter | 400 | 400 | a virágzás időpontjáig el kell távolítani |
+| Izolációs távolság, más fajtától, illetve egyéb Sorghum fajoktól, legalább | méter | 400 | 400 | a virágzás időpontjáig el kell távolítani |
 
 | Gyomosság, legfeljebb | minősítő szám | 2 |
 
@@ -722,11 +722,11 @@
 
 | Rozs (Secale cereale) | 30 | 10 | 10 | 1000 | 120 | 500 |
 
-| Cirok (Sorghum bicolor) | 30 | 5 | 5 | 1000 | 90 | 900 |
+| Cirok (Sorghum bicolor) | 30 | 5 | 5 | 900 | 90 | 900 |
 
-| Szudánifű (Sorghum sudanense) | 10 | 5 | 5 | 1000 | 25 | 900 |
+| Szudánifű (Sorghum sudanense) | 10 | 5 | 5 | 250 | 25 | 250 |
 
-| Hibrid szudánifű (Sorghum bicolor x Sorghum sudanense) | 30 | 5 | 5 | 1000 | 90 | 900 |
+| Hibrid szudánifű (Sorghum bicolor x Sorghum sudanense) | 30 | 5 | 5 | 300 | 90 | 300 |
 
 | Tritikálé (x Triticosecale) | 30 | 10 | 10 | 1000 | 120 | 500 |
 
@@ -736,7 +736,7 @@
 
 | Tönköly búza (Triticum spelta) | 30 | 10 | 10 | 1000 | 270 | 500 |
 
-| Kukorica (Zea mays) | 40 | 10 | 10 | 1000 (bázis bel-tenyész- tett vonal: 250 g) | 900 | 1000 (bázis bel-tenyész- tett vonal: 250 g) |
+| Kukorica (Zea mays) | 40 | 10 | 10 | 1000 (bázis bel- tenyésztett vonal: 250 g) | 900 | 1000 (bázis bel- tenyésztett vonal: 250 g) |
 
 ## II. Vetőmag-vizsgálati követelmények és minősítési határértékek
 
@@ -888,7 +888,7 @@
 
 | 1 | 2 | 3 | 4 | 5 |
 
-| Szigetelési távolság, más fajtától, ill. rokon fajtól, legalább | méter | 1000 |
+| Izolációs távolság, más fajtától, ill. rokon fajtól, legalább | méter | 1000 |
 
 | Gyomosság, legfeljebb | minősítő szám | 2 |
 
@@ -1082,7 +1082,7 @@
 
 |  | □ és II. szaporítási fok | 4,0% |
 
-2. számú melléklet a 48/2004. (IV. 21.) FVM rendelethez[^163]
+2. számú melléklet a 48/2004. (IV. 21.) FVM rendelethez[^172]
 
 ## A répafélék vetőmagvainak forgalomba hozatali feltételei
 
@@ -1166,7 +1166,7 @@ A vetőmagszaporításnak meg kell felelnie az alábbi táblázatba foglalt köv
 
 | Elválasztó sáv dugvány esetében más Beta fajtól vagy fajtától, legalább | m | 2 | 2 |
 
-| Szigetelési távolság maghozó esetében más Beta fajtól vagy fajtától, legalább | 1000 | 1000 |
+| Izolációs távolság maghozó esetében más Beta fajtól vagy fajtától, legalább | 1000 | 1000 |
 
 | Gyomosság, legfeljebb | minősítő szám | 1 | 2 |
 
@@ -1250,4 +1250,4 @@ b) a tömeg feltüntetésénél – ha bármilyen szemcsés növényvédőszer, 
 
 c) monogerm vetőmag esetében a „monogerm”, precíziós vetőmag esetében pedig a „precíziós” megjelölés.
 
-[^163]: A 2. számú melléklet a 16/2011. (III. 2.) VM rendelet 31. § (1) bekezdése szerint módosított szöveg.
+[^172]: A 2. számú melléklet a 16/2011. (III. 2.) VM rendelet 31. § (1) bekezdése, az 5/2014. (I. 27.) VM rendelet 4. § (2) bekezdése szerint módosított szöveg.

@@ -1,4 +1,4 @@
-3. számú melléklet a 48/2004. (IV. 21.) FVM rendelethez[^164]
+3. számú melléklet a 48/2004. (IV. 21.) FVM rendelethez[^173]
 
 A takarmánynövény-vetőmagvak forgalomba hozatali feltételei
 
@@ -186,7 +186,7 @@ A szántóföldi ellenőrzés és minősítés részletes követelményei
 
 | 1 | 2 | 3 | 4 | 5 |
 
-| Szigetelési távolság, legalább | méter | 200 | 200 | 200 |
+| Izolációs távolság, legalább | méter | 200 | 200 | 200 |
 
 | Gyomosság, legfeljebb | minősítő szám | 2 |
 
@@ -312,7 +312,7 @@ Magtermő évben:
 
 |  | Elhanyagolt árkok, árokpartok és dűlőutak által szegélyezett táblát körül kell kaszálni. |
 
-|  | A szigetelési távolságot a kalászolás kezdetéig biztosítani kell. |
+|  | Az izolációs távolságot a kalászolás kezdetéig biztosítani kell. |
 
 | A vizsgálat tárgya | Egység | Elit | I. |
 
@@ -322,7 +322,7 @@ Magtermő évben:
 
 | Elválasztó sáv, legalább | méter | 2 |
 
-| Szigetelési távolság, legalább Loliumnál fajok között máshol fajon belül fajták között | 200 | 100 |
+| Izolációs távolság, legalább Loliumnál fajok között máshol fajon belül fajták között | 200 | 100 |
 
 | Gyomosság, legfeljebb | minősítő szám | 2 |
 
@@ -414,7 +414,7 @@ Tavaszi bükköny (Vicia sativa L.)
 
 | 1 | 2 | 3 | 4 | 5 |
 
-| Szigetetési távolság, más fajtától, legalább | méter | 200 | 100 |
+| Izolációs távolság, más fajtától, legalább | méter | 200 | 100 |
 
 | Gyomosság, legfeljebb | minősítő szám | 2 |
 
@@ -466,7 +466,7 @@ Lóbab (Vicia faba L. /partim/)
 
 | Elválasztó sáv, legalább |  | 2 |
 
-| Szigetelési távolság, legalább | méter | 200 | 100 | 100 |
+| Izolációs távolság, legalább | méter | 200 | 100 | 100 |
 
 | Gyomosság, legfeljebb | minősítő szám | 2 |
 
@@ -504,7 +504,7 @@ Lóbab (Vicia faba L. /partim/)
 
 | 1 | 2 | 3 | 4 |
 
-| Szigetelési távolság, más fajtától és egyéb Brassica fajoktól, legalább | méter | 500 | 200 |
+| Izolációs távolság, más fajtától és egyéb Brassica fajoktól, legalább | méter | 500 | 200 |
 
 | Gyomosság, legfeljebb | minősítő szám | 2 |
 
@@ -540,7 +540,7 @@ Lóbab (Vicia faba L. /partim/)
 
 |  | minden további megkezdett 10 ha után: 2 db. |
 
-| Egyéb követelmények: | Szuperelit (SE) szaporítás esetén a határértékeknek legalább az elit (E) fokú szaporítás határértékeivel kell megegyezniük. A szigetelési távolságot a virágzás kezdetéig biztosítani kell. |
+| Egyéb követelmények: | Szuperelit (SE) szaporítás esetén a határértékeknek legalább az elit (E) fokú szaporítás határértékeivel kell megegyezniük. Az izolációs távolságot a virágzás kezdetéig biztosítani kell. |
 
 | A vizsgálat tárgya | Egység | Elit | I. |
 
@@ -548,7 +548,7 @@ Lóbab (Vicia faba L. /partim/)
 
 | 1 | 2 | 3 | 4 |
 
-| Szigetelési távolság más fajtáktól, legalább | méter | 500 | 200 |
+| Izolációs távolság más fajtáktól, legalább | méter | 500 | 200 |
 
 | Gyomosság, legfeljebb | minősítő szám | 2 |
 
@@ -586,7 +586,7 @@ Lóbab (Vicia faba L. /partim/)
 
 | 1 | 2 | 3 | 4 |
 
-| Szigetelési távolság más fajtáktól és más retek fajoktól, legalább | méter | 500 | 200 |
+| Izolációs távolság más fajtáktól és más retek fajoktól, legalább | méter | 500 | 200 |
 
 | Gyomosság, legfeljebb | minősítő szám | 2 |
 
@@ -616,7 +616,7 @@ Lóbab (Vicia faba L. /partim/)
 
 | A mintaterek száma: | 20 ha-ig: 4 db, minden további megkezdett 10 ha után: 2 db. |
 
-| Egyéb követelmények: | A szuperelit szaporítás esetén a határértékeknek legalább meg kell egyezniük az elit fokú szaporítás határértékeivel. A szigetelési távolságot a virágzás kezdetéig biztosítani kell. |
+| Egyéb követelmények: | A szuperelit szaporítás esetén a határértékeknek legalább meg kell egyezniük az elit fokú szaporítás határértékeivel. Az izolációs távolságot a virágzás kezdetéig biztosítani kell. |
 
 | A vizsgálat tárgya | Egység | Elit | I. | II. |
 
@@ -624,7 +624,7 @@ Lóbab (Vicia faba L. /partim/)
 
 | 1 | 2 | 3 | 4 | 5 |
 
-| Szigetelési távolság más fajtáktól, legalább | méter | 500 | 200 | 100 |
+| Izolációs távolság más fajtáktól, legalább | méter | 500 | 200 | 100 |
 
 | Gyomosság, legfeljebb | minősítő szám | 2 |
 
@@ -764,7 +764,7 @@ I. Mintavétel
 
 | Takarmányretek (olajretek) (Raphanus sativus var. oleiformis) | 10 | 5 | 2 | 300 | 30 | 300 |
 
-Megjegyzés: A maximális tételsúly 5%-nál nagyobb mértékben nem léphető túl. Nem takarmánynövények termesztésére szánt vetőmagkeverék esetén a kiszerelt egységek nettó tömege nem haladhatja meg a 2 kg-ot.
+Megjegyzés: A tétel maximális tömege 25 tonnára növelhető, amennyiben a szállító erre vonatkozó engedélyt kapott az illetékes hatóságtól.
 
 II. Vetőmag-vizsgálati követelmények és minősítési határértékek
 
@@ -904,6 +904,8 @@ A Vicia sativa, Vicia villosa és Vicia pannonica vetőmagjának csírázóképe
 
 Csillagfürt fajok esetében a címkén és a vetőmagminősítő bizonyítványon is jelölni kell, hogy a fajta édes vagy keserű.
 
+A Keleti kecskeruta (Galega orientalis) tekintetében valamennyi olyan friss és egészséges vetőmagot, amely az előkezelést követően nem csírázik ki, kicsírázott magnak kell tekinteni. A feltüntetett maximális mennyiségig a kemény magokat csírázásra képes magoknak kell tekinteni.
+
 I. fok, II. fok, kereskedelmi vetőmag
 
 | Faj | Csírázó- képesség legalább (%) | Kemény mag legfeljebb (%) | Tisztaság legalább (%) | Idegen mag legfeljebb (%) | Idegen mag legfeljebb (db/minta) | Nedves- ség- tartalom legfeljebb (%) |
@@ -1036,6 +1038,8 @@ A Vicia sativa, Vicia villosa és Vicia pannonica vetőmagjának csírázóképe
 
 Csillagfürt fajok esetében a címkén és a vetőmagminősítő bizonyítványon is jelölni kell, hogy a fajta édes vagy keserű.
 
+A Keleti kecskeruta (Galega orientalis) tekintetében valamennyi olyan friss és egészséges vetőmagot, amely az előkezelést követően nem csírázik ki, kicsírázott magnak kell tekinteni. A feltüntetett maximális mennyiségig a kemény magokat csírázásra képes magoknak kell tekinteni.
+
 D. rész
 
 I. Vetőmag-minősítésben részesíthető növényfajok
@@ -1128,7 +1132,7 @@ Orvosi somkóró (Melilotus officinalis /L./ Pallas)
 
 | 1 | 2 | 3 | 4 |
 
-| Szigetelési távolság, legalább | méter | 200 | 200 |
+| Izolációs távolság, legalább | méter | 200 | 200 |
 
 | Gyomosság, legfeljebb | minősítő szám | 2 |
 
@@ -1218,7 +1222,7 @@ Orvosi somkóró (Melilotus officinalis /L./ Pallas)
 
 | Elválasztó sáv, legalább | méter | 2 |
 
-| Szigetelési távolság, legalább Loliumnál fajok között máshol fajon belül fajták között | méter | 200 | 100 |
+| Izolációs távolság, legalább Loliumnál fajok között máshol fajon belül fajták között | méter | 200 | 100 |
 
 | Gyomosság, legfeljebb | minősítő szám | 2 |
 
@@ -1366,7 +1370,7 @@ Zöldtakarmány amaránt (Amaranthus caudatus convar. Ruber)
 
 | A mintaterek száma: | 20 ha-ig: 4 db, minden további megkezdett 10 ha után: 2 db. |
 
-| Egyéb követelmények: | A szuperelit szaporítás esetén a határértékeknek legalább meg kell egyezniük az elit fokú szaporítás határértékeivel. A szigetelési távolságot a virágzás kezdetéig biztosítani kell. |
+| Egyéb követelmények: | A szuperelit szaporítás esetén a határértékeknek legalább meg kell egyezniük az elit fokú szaporítás határértékeivel. Az izolációs távolságot a virágzás kezdetéig biztosítani kell. |
 
 | A vizsgálat tárgya | Egység | Elit | I. |
 
@@ -1374,7 +1378,7 @@ Zöldtakarmány amaránt (Amaranthus caudatus convar. Ruber)
 
 | 1 | 2 | 3 | 4 |
 
-| Szigetelési távolság legalább, más fajtáktól, legalább | méter | 500 | 300 |
+| Izolációs távolság legalább, más fajtáktól, legalább | méter | 500 | 300 |
 
 | Gyomosság, legfeljebb | minősítő szám | 2 |  |
 
@@ -1402,7 +1406,7 @@ Szümcső (Bunias orientalis)
 
 | A mintaterek száma: | 20 ha-ig: 4 db, minden további megkezdett 10 ha után: 2 db. |
 
-| Egyéb követelmények: | A szuperelit szaporítás esetén a határértékeknek legalább meg kell egyezniük az elit fokú szaporítás határértékeivel. A szigetelési távolságot a virágzás kezdetéig biztosítani kell. |
+| Egyéb követelmények: | A szuperelit szaporítás esetén a határértékeknek legalább meg kell egyezniük az elit fokú szaporítás határértékeivel. Az izolációs távolságot a virágzás kezdetéig biztosítani kell. |
 
 | A vizsgálat tárgya | Egység | Elit | I. | II. |
 
@@ -1410,7 +1414,7 @@ Szümcső (Bunias orientalis)
 
 | 1 | 2 | 3 | 4 | 5 |
 
-| Szigetelési távolság más fajtáktól, legalább | méter | 500 | 200 | 100 |
+| Izolációs távolság más fajtáktól, legalább | méter | 500 | 200 | 100 |
 
 | Gyomosság, legfeljebb | minősítő szám | 2 |
 
@@ -1452,7 +1456,7 @@ Magtermő évben
 
 | Elválasztósáv, legalább | méter | 2 |
 
-| Szigetelési távolság őszi rozstól és egyéb évelő rozs fajtától | 1000 | 1000 | 500 |
+| Izolációs távolság őszi rozstól és egyéb évelő rozs fajtától | 1000 | 1000 | 500 |
 
 | Gyomosság, legfeljebb | mintaszám | 2 |
 
@@ -1544,4 +1548,4 @@ Megjegyzés: A maximális tételsúlyt 5%-nál nagyobb mértékben nem szabad t�
 
 Megjegyzés: Melilotus spp. megengedett mennyisége SE-E: 0 db/minta; I–II. fok: 0,3%. Rumex spp.: Rumex spp. (Vadsóska fajok) a Rumex acetosella (Juhsóska) kivételével. A herefélék vetőmagjának arankatartalmát mintavételkor a teljes alapmintából külön is meg kell vizsgálni. A nagymagvú hereféléknél (alexandriai here, bíborhere, lucerna, vöröshere, nyúlszapuka, somkóró és tarka koronafürt) az arankavizsgálathoz az 1,12 mm (20-as) rostaalj összes mennyiségét a rosta fölével 400 g-ra kell kiegészíteni. Ha a rostaalj mennyisége 400 g-nál több, akkor is kell a rostaaljhoz még 100 g rostafölet keverni. Az így elkészített mintát finom vasporral összekeverve mágnesgépen kell átereszteni és a mágnesgépről lekerülő aljat arankára megvizsgálni. Arankavizsgálat alkalmával az első életképes arankamag megtalálásakor a vetőmagot arankafertőzöttnek kell nyilvánítani. A csírázóképesség vizsgálat és a biokémiai életképesség vizsgálat alkalmával megállapított keményhéjú és duzzadt magvak mennyiségét (db/100 db) a vetőmag-minősítő bizonyítványon külön is fel kell tüntetni.
 
-[^164]: A 3. számú melléklet a 16/2011. (III. 2.) VM rendelet 31. § (2) bekezdésével megállapított szöveg.
+[^173]: A 3. számú melléklet a 16/2011. (III. 2.) VM rendelet 31. § (2) bekezdésével megállapított, az 5/2014. (I. 27.) VM rendelet 4. § (2) bekezdése szerint módosított szöveg.
