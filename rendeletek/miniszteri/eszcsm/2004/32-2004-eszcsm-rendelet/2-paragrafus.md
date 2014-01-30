@@ -8,11 +8,11 @@ a)[^2] gyógyszer: az emberi alkalmazásra kerülő gyógyszerekről és egyéb,
 
 b) tápszer: olyan különleges táplálkozási igényt kielégítő élelmiszer, amelyet az anyatej-helyettesítő és az anyatej-kiegészítő tápszerekről szóló, valamint a speciális gyógyászati célra szánt tápszerekről szóló jogszabály meghatároz;
 
-c)[^3] gyógyszerhatóanyag: az emberi alkalmazásra kerülő gyógyszerek forgalomba hozataláról szóló 52/2005. (XI. 18.) EüM rendelet (a továbbiakban: Tfr.) 2. §-a (1) bekezdésének 1. pontja szerinti anyag;
+c)[^3] hatóanyag: a Gytv. 1. § 38. pontjában ekként meghatározott fogalom;
 
 d)[^4] ATC: a gyógyszereknek a biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény (a továbbiakban: Gyftv.) 3. § 13. pontja szerinti osztályozása;
 
-e)[^5] gyógyszerforma: a Tfr. 2. §-a (1) bekezdésének 3. pontja szerinti fogalom;
+e)[^5] gyógyszerforma: az emberi alkalmazásra kerülő gyógyszerek forgalomba hozataláról szóló 52/2005. (XI. 18.) EüM rendelet (a továbbiakban: Tfr.) 2. §-a (1) bekezdésének 3. pontja szerinti fogalom;
 
 f)[^6] forgalomba hozatalra engedélyezett gyógyszer: a Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézet (a továbbiakban: GYEMSZI), valamint a 726/2004/EK európai parlamenti és tanácsi rendelet alapján az Európai Unió Bizottsága (a továbbiakban: Bizottság) által forgalomba hozatalra engedélyezett gyógyszer;
 
@@ -73,9 +73,9 @@ z)[^24] különkeretes gyógyszer: a Gyftv. 3. § 3. pontja szerinti gyógyszer;
 zs)[^25] költséghatékonysági elemzés: olyan elemzés, amely összehasonlítja az azonos célú gyógyszerek vagy egészségügyi programok eredményességét és költségeit. Az eredményességet ún. természetes egységekben méri.
 
 [^2]: A 2. § a) pontja az 53/2006. (XII. 28.) EüM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^3]: A 2. § c) pontja az 53/2006. (XII. 28.) EüM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^3]: A 2. § c) pontja a 7/2014. (I. 29.) EMMI rendelet 1. §-ával megállapított szöveg.
 [^4]: A 2. § d) pontja az 53/2006. (XII. 28.) EüM rendelet 1. § (2) bekezdésével megállapított, a 30/2010. (XII. 30.) NEFMI rendelet 10. § b) pontja szerint módosított szöveg.
-[^5]: A 2. § e) pontja az 53/2006. (XII. 28.) EüM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^5]: A 2. § e) pontja az 53/2006. (XII. 28.) EüM rendelet 1. § (2) bekezdésével megállapított, a 7/2014. (I. 29.) EMMI rendelet 8. § a) pontja szerint módosított szöveg.
 [^6]: A 2. § f) pontja az 53/2006. (XII. 28.) EüM rendelet 1. § (2) bekezdésével megállapított, a 47/2011. (VII. 27.) NEFMI rendelet 13. § a) pontja szerint módosított szöveg.
 [^7]: A 2. § g) pontja az 53/2006. (XII. 28.) EüM rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^8]: A 2. § h) pontja az 53/2006. (XII. 28.) EüM rendelet 1. § (2) bekezdésével megállapított, a 10/2011. (III. 30.) NEFMI rendelet 38. § a) pontja szerint módosított szöveg.
