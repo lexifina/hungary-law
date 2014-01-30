@@ -10,7 +10,7 @@
 
 ## Felelős: közigazgatási és igazságügyi miniszter
 
-## Határidő: 2013. december 31.
+## Határidő: 2014. június 30.[^2]
 
 1. melléklet az 1930/2013. (XII. 11.) Korm. határozathoz
 
@@ -77,3 +77,5 @@ Költségvetési év: 2013.
 | Nemzetgazdasági Minisztérium | 2 példány |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+
+[^2]: A határozat az 1025/2014. (I. 30.) Korm. határozat 17. pontja szerint módosított szöveg.
