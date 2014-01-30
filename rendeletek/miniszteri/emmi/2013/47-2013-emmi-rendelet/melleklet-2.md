@@ -106,7 +106,7 @@
 
 | 23. | orosz nyelv beás nyelv, bolgár nyelv, horvát nyelv, lengyel nyelv, lovári nyelv, román nyelv, szerb nyelv, szlovák nyelv, szlovén nyelv, ukrán nyelv, újgörög nyelv, | orosz nyelv, egyéb nyelvek | május 26., 8.00 |
 
-| 24. | gazdasági ismeretek, katonai alapismeretek | gazdasági ismeretek, katonai alapismeretek, természettudomány és egyedileg akkreditált vizsgatárgyak | május 26., 14.00 |
+| 24. | gazdasági ismeretek, katonai alapismeretek | katonai alapismeretek, természettudomány és egyedileg akkreditált vizsgatárgyak | május 26., 14.00 |
 
 ## 4. A 2014. évi május-júniusi szóbeli érettségi vizsgák
 

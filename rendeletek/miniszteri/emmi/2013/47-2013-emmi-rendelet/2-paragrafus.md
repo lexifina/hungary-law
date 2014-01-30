@@ -17,3 +17,7 @@ d) szakképző iskolákban féléves, másfél éves, két és fél éves képz�
 (4) A tanítási év lezárásának, a tanuló minősítésének, a magasabb évfolyamra lépésnek nem akadálya, ha az iskola a rendkívüli tanítási szünet elrendelése miatt kieső tanítási napokat a nemzeti köznevelésről szóló 2011. évi CXC. törvény (a továbbiakban: köznevelésről szóló törvény) 30. §-ában meghatározottak szerint nem tudja teljes egészében pótolni. Az iskola indokolt esetben gondoskodik az elmaradt tananyag 2014/2015. tanítási évben történő feldolgozásáról.
 
 (5) A tanítási év lezárását követően az iskola – amennyiben az iskola fenntartója azzal egyetért és az ahhoz szükséges feltételeket biztosítja – a tanulói részére pedagógiai célú foglalkozásokat szervezhet, amelyeken a részvételt a tanuló, kiskorú tanuló esetén a szülő az iskola igazgatójához benyújtott kérelemében kezdeményezheti.
+
+(6)[^2] A 2013–2014. évi átmeneti időszak téli közfoglalkoztatásával összefüggő képzési programban felnőttoktatás keretében részt vevő tanulók a 2013/2014. tanévre az egyes köznevelési tárgyú miniszteri rendeletek módosításáról szóló 6/2014. (I. 29.) EMMI rendelet hatálybalépését követő három napon belül iratkozhatnak be.
+
+[^2]: A 2. § (6) bekezdését a 6/2014. (I. 29.) EMMI rendelet 20. §-a iktatta be.
