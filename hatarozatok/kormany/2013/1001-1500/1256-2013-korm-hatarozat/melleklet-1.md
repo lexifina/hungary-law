@@ -10,7 +10,7 @@
 
 ## Felelős: Miniszterelnökséget vezető államtitkár
 
-## Határidő: 2014. március 31.
+## Határidő: 2014. május 31.[^2]
 
 1. melléklet az 1256/2013. (V. 10.) Korm. határozathoz
 
@@ -97,3 +97,5 @@
 | Nemzetgazdasági Minisztérium | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+
+[^2]: A határozat az 1025/2014. (I. 30.) Korm. határozat 11. pontja szerint módosított szöveg.
