@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-17-20-4
 | 2011-06-04 | 2004-17-20-45.20 | 26/2011. (V. 27.) NEFMI rendelet |
 | 2012-08-07 | 2004-17-20-45.21 | 26/2011. (V. 27.) NEFMI rendelet |
 | 2012-12-29 | 2004-17-20-45.22 | 51/2012. (XII. 21.) EMMI rendelet |
+| 2014-01-30 | 2004-17-20-45.23 | 118/2008. (V. 8.) Korm. rendelet |
