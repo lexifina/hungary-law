@@ -1,7 +1,7 @@
 ## 20125H20000051_11
 
-12. melléklet az 51/2012. (XII. 21.) EMMI rendelethez[^16]
+12. melléklet az 51/2012. (XII. 21.) EMMI rendelethez[^23]
 
-20125H20000051_12
+20125H20000051_23
 
-[^16]: A 12. mellékletet a 23/2013. (III. 29.) EMMI rendelet 6. § e) pontja iktatta be.
+[^23]: A 12. mellékletet a 23/2013. (III. 29.) EMMI rendelet 6. § e) pontja iktatta be, szövege a 6/2014. (I. 29.) EMMI rendelet 13. §-a szerint módosított szöveg.

@@ -14,4 +14,11 @@
 
 (7) Az iskolában az emelt szintű ének-zene oktatásához szükséges tanórai foglalkozásokba az énekkari vagy a kórus foglalkozás összesen legfeljebb heti egy óra erejéig beszámítható.
 
+(7a)[^1] Az iskola a magyar nyelv és irodalom tantárgyat magyar nyelv és irodalom tantárgyakra bonthatja.
+
+(7b)[^2] Az iskola a nemzetiségi nyelv és irodalom tantárgyat nemzetiségi nyelv és irodalom tantárgyakra bonthatja.
+
 (8) A középiskolának a helyi tantervében kell meghatároznia a 11–12. évfolyamon az emelt szintű érettségire történő felkészítéshez és az emelt szintű oktatáshoz alkalmazott fejlesztési feladatokat és követelményeket a Nat, továbbá az érettségi vizsga részletes követelményeiről szóló 40/2002. (V. 24.) OM rendelet alapján.
+
+[^1]: A 2. § (7a) bekezdését a 6/2014. (I. 29.) EMMI rendelet 8. §-a iktatta be.
+[^2]: A 2. § (7b) bekezdését a 6/2014. (I. 29.) EMMI rendelet 8. §-a iktatta be.
