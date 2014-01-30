@@ -1,5 +1,5 @@
 ## 16. § A rendelet tervezetének a belső piaci szolgáltatásokról szóló 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 15. cikk (7) bekezdése szerinti előzetes bejelentése megtörtént.
 
-1. melléklet a 70/2013. (XII. 30.) NGM rendelethez[^5]
+1. melléklet a 70/2013. (XII. 30.) NGM rendelethez[^4]
 
-[^5]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
