@@ -1,4 +1,4 @@
-## 1. az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdésében biztosított jogkörében eljárva a magyar kulturális értékek megőrzése és fejlesztése ügyével összefüggő feladatokért felelős miniszterelnöki megbízott tevékenységét képező feladatok finanszírozása érdekében 336,9 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény (a továbbiakban: Kvtv.) 1. melléklet X. Közigazgatási és Igazságügyi Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 2. Célelőirányzatok alcím, 1. KIM felügyelete alá tartozó szervezetek és szakmai programok támogatása jogcímcsoport javára, a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 7. Rendkívüli kormányzati intézkedések cím terhére, az 1. melléklet szerint;
+## 1.[^1] az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdésében biztosított jogkörében eljárva a magyar kulturális értékek megőrzése és fejlesztése ügyével összefüggő feladatokért felelős miniszterelnöki megbízott tevékenységét képező feladatok finanszírozása érdekében 336,9 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény (a továbbiakban: Kvtv.) 1. melléklet X. Közigazgatási és Igazságügyi Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 2. Célelőirányzatok alcím, 1. KIM felügyelete alá tartozó szervezetek és szakmai programok támogatása jogcímcsoport javára, a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 7. Rendkívüli kormányzati intézkedések cím terhére, az 1. melléklet szerint;
 
 ## Az átcsoportosítás tekintetében
 
@@ -10,7 +10,7 @@
 
 ## Felelős: közigazgatási és igazságügyi miniszter
 
-## Határidő: 2014. június 30.
+## Határidő: 2014. december 31.
 
 ## 2. felhívja a nemzetgazdasági minisztert és a közigazgatási és igazságügyi minisztert, hogy a magyar kulturális értékek megőrzése és fejlesztése ügyével összefüggő feladatokért felelős miniszterelnöki megbízott tevékenységét képező feladatok finanszírozása érdekében 2014. évben további 281,1 millió forint összegű költségvetési támogatás Közigazgatási és Igazságügyi Minisztérium fejezetben történő biztosításáról gondoskodjon.
 
@@ -87,3 +87,5 @@
 | Nemzetgazdasági Minisztérium |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: Az 1. pont az 1025/2014. (I. 30.) Korm. határozat 16. pontja szerint módosított szöveg.
