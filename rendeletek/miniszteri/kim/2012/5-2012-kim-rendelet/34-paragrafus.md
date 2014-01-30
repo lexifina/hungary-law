@@ -16,6 +16,8 @@
 
 (6)[^30] E rendeletnek a Módr. hatálybalépését[^31] megelőző napon hatályos 1. melléklete szerint delegált kollégiumi tagok megbízását a Módr. hatálybalépése nem érinti.
 
+(7)[^32] Az olyan pályázatot, amelyre vonatkozó támogatási döntés meghozatalára a Módr. hatálybalépésekor[^33] még nem került sor, a Módr. hatálybalépését megelőző napon hatályos 11. § (5) bekezdése alapján akkor lehet elutasítani, ha annak a Módr.-rel megállapított 11. § (4) bekezdése szerinti esetben helye van, a támogatási szerződés pedig csak akkor köthető meg az igényelt támogatás legalább ötven százalékának megfelelő támogatási összeggel, ha a támogatás igénylője vállalja, hogy a támogatás célját ekként is megvalósítja vagy legalább a megítélt támogatás és az igényelt támogatás kétharmada közötti különbözetet önrész formájában biztosítja.
+
 [^25]: A 34. § (3) bekezdését a 28/2012. (IX. 18.) EMMI rendelet 6. §-a iktatta be.
 [^26]: A 34. § (4) bekezdését az 56/2012. (XII. 29.) EMMI rendelet 19. §-a iktatta be.
 [^27]: A hatálybalépés időpontja 2012. december 31.
@@ -23,3 +25,5 @@
 [^29]: A hatálybalépés időpontja 2013. december 3.
 [^30]: A 34. § (6) bekezdését a 74/2013. (XII. 2.) EMMI rendelet 5. §-a iktatta be.
 [^31]: A hatálybalépés időpontja 2013. december 3.
+[^32]: A 34. § (7) bekezdését a 7/2014. (I. 29.) EMMI rendelet 12. §-a ikatta be.
+[^33]: A hatálybalépés időpontja 2014. január 30.

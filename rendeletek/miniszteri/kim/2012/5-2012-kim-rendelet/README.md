@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-5-20-2T
 | 2013-01-01 | 2012-5-20-2T.4 | 56/2012. (XII. 29.) EMMI rendelet |
 | 2013-12-03 | 2012-5-20-2T.5 | 74/2013. (XII. 2.) EMMI rendelet |
 | 2014-01-01 | 2012-5-20-2T.6 | 74/2013. (XII. 2.) EMMI rendelet |
+| 2014-01-30 | 2012-5-20-2T.7 | 7/2014. (I. 29.) EMMI rendelet |
