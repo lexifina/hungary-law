@@ -2,7 +2,7 @@
 
 25. § (1)[^220] A Bt. 41. §-a alapján kiszabott bírság összegének felső határa 10 000 000 forint. Ha a bírság kiszabásának alapját képező jogellenes állapotot a kötelezett a határozatban megállapított határidőre nem szünteti meg vagy a jogsértést ismét elköveti, a bírság ismételten kiszabható, amelynek felső határa 30 000 000 forint.
 
-(1a)[^221] A Bt. 41/A. §-a alapján kiszabott bírság összege ötszázezer forintig terjedhet. A bírság ismételten is kiszabható, ha a bírság megállapításának alapját képező jogellenes állapotot a kötelezett határidőre nem szünteti meg. Az ismételten kiszabott bírság összegének felső határa egy millió forintig terjedhet.
+(1a)[^221] (1a) A Bt. 41/A. §-a alapján kiszabott bírság összege – a Bt. 41/A. § (1) bekezdés d) pontja kivételével – egymillió forintig terjedhet. A Bt. 41/A. § (1) bekezdés d) pontja alapján kiszabott bírság összege kétmillió forintig terjedhet.
 
 (1b)[^222] Az (1) és (1a) bekezdés szerinti bírságok mértékének megállapításánál figyelemmel kell lenni a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvényben meghatározottakon túl
 
@@ -57,7 +57,7 @@ figyelemmel.
 (12)[^236] Föld alatti szénelgázosítással történő ásványi nyersanyag kitermelése esetén a biztosíték összege nem lehet kevesebb kétszázmillió forintnál.
 
 [^220]: A Vhr. 25. § (1) bekezdése a 146/2012. (VII. 5.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
-[^221]: A Vhr. 25. § (1a) bekezdését a 146/2012. (VII. 5.) Korm. rendelet 15. § (1) bekezdése iktatta be, szövege a 411/2012. (XII. 28.) Korm. rendelet 21. § (1) bekezdésével megállapított szöveg.
+[^221]: A Vhr. 25. § (1a) bekezdését a 146/2012. (VII. 5.) Korm. rendelet 15. § (1) bekezdése iktatta be, szövege az 559/2013. (XII. 31.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.
 [^222]: A Vhr. 25. § (1b) bekezdését a 146/2012. (VII. 5.) Korm. rendelet 15. § (1) bekezdése iktatta be, szövege a 411/2012. (XII. 28.) Korm. rendelet 21. § (1) bekezdésével megállapított szöveg.
 [^223]: A Vhr. 25. § (1c) bekezdését a 411/2012. (XII. 28.) Korm. rendelet 21. § (1) bekezdése iktatta be, hatályon kívül helyezte az 559/2013. (XII. 31.) Korm. rendelet 24. § (1) bekezdés 6. pontja.
 [^224]: A Vhr. 25. § (2a) bekezdését a 251/2011. (XII. 1.) Korm. rendelet 19. §-a iktatta be.
