@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-34-20-2
 | --- | --- | --- |
 | 2014-01-01 | 2013-34-20-2T.1 | 34/2013. (XII. 23.) KIM rendelet |
 | 2014-01-02 | 2013-34-20-2T.2 | 2010: CXXX. törvény |
+| 2014-01-31 | 2013-34-20-2T.3 | 2010: CXXX. törvény |
