@@ -56,43 +56,7 @@
 
 ## Határidő: a 2015. évi, a 2016. évi és a 2017. évi központi költségvetés tervezése során
 
-## 8. A Kormány irányítása alá tartozó fejezetek költségvetési szerveinek eszközbeszerzéseiről szóló 1982/2013. (XII. 29.) Korm. határozat 1. pontja helyébe a következő rendelkezéslép:
-
-## „A Kormány az irányítása vagy felügyelete alá tartozó költségvetési szervnél beszerzési tilalmat rendel el a beruházások keretében – kivéve kisértékű tárgyi eszköz – történő informatikai eszközök beszerzése, létesítése (rovatszáma K63), valamint az egyéb tárgyi eszközök beszerzése létesítésén belül (rovatszáma K64) a bútorok, személygépjárművek, és telefon beszerzése vonatkozásában.
-
-## Felelős: a Kormány irányítása alá tartozó fejezetet irányító szerv vezetője
-
-## Határidő: azonnal”
-
-## 9. A budapest-gazdagréti Szent Angyalok plébánia temploma építési munkálatainak befejezéséhez és működési költségeihez szükséges, a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1258/2013. (V. 10.) Korm. határozatban a „2014. június 30.” szövegrész helyébe a „2015. október 20.” szöveg lép.
-
-## 10. A fertődi Esterházy-kastély rekonstrukciójához a kormány a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1542/2013. (VIII. 15.) Korm. határozatban a „2014. június 30.” szövegrész helyébe a „2014. december 31.” szöveg lép.
-
-## 11. A 2015. évi Milánói Világkiállításon való részvételhez kapcsolódó feladatok finanszírozása érdekében a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1256/2013. (V. 10.) Korm. határozatban a „2014. március 31.” szövegrész helyébe a „2014. május 31.” szöveg lép.
-
-## 12. A Nemzeti Örökség Intézete 2013. évi működésének biztosításához a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1255/2013. (V. 10.) Korm. határozat 2. pontjában
-
-## a) a „2013. évi működéséhez” szövegrész helyébe a „2013. évi működéséhez és alaptevékenységként meghatározott programokhoz”;
-
-## b) a „2014. február 28.” szövegrész helyébe a „2014. június 30.”
-
-## szöveg lép.
-
-## 13. A Rendszerváltás Történetét Kutató Intézet és Archívum 2013. évi működésének biztosításához a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1224/2013. (IV. 23.) Korm. határozat 2. pontjában
-
-## a) a „2013. évi működéséhez” szövegrész helyébe a „2013. évi működéséhez és alaptevékenységként meghatározott programokhoz”;
-
-## b) a „2014. február 28.” szövegrész helyébe a „2014. június 30.”
-
-## szöveg lép.
-
-## 14. Az emberi fogyasztásra szánt víz minőségéről szóló, 1998. november 3-i 98/83/EK tanácsi irányelv előírásainak megfelelő minőségű ivóvíz átmeneti biztosításának folyamatosságához szükséges előirányzat-átcsoportosításokról szóló 1424/2013. (VII. 10.) Korm. határozat 2. pontjában a „2014. április 30.” szövegrész helyébe a „2014. június 30.” szöveg lép.
-
-## 15. A Nagykovácsi Kastélypark Komplexum fejlesztéséhez a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1517/2013. (VIII. 1.) Korm. határozat 1. pontjában a „2014. március 31.” szövegrész helyébe a „2014. december 31.” szöveg lép.
-
-## 16. A magyar kulturális értékek megőrzése és fejlesztése ügyével összefüggő feladatokért felelős miniszterelnöki megbízott tevékenységét képező feladatok finanszírozása érdekében a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1753/2013. (X. 24.) Korm. határozat 1. pontjában a „2014. június 30.” szövegrész helyébe a „2014. december 31.” szöveg lép.
-
-## 17. Az életvitelszerű közterületi tartózkodás szabályainak megsértése szabálysértéssel összefüggő feladatok ellátására a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1930/2013. (XII. 11.) Korm. határozatban a „2013. december 31.” szövegrész helyébe a „2014. június 30.” szöveg lép.
+## 8–17.[^1]
 
 1. melléklet az 1025/2014. (I. 30.) Korm. határozathoz
 
@@ -267,3 +231,5 @@
 | Nemzetgazdasági Minisztérium | 2 példány |  |  |  |  |  |  |  |  |
 
 | Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+
+[^1]: A 8–17. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
