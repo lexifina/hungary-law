@@ -136,7 +136,7 @@
 
 3.2. sportegyesület
 
-3.3. alapcél szerint vallási tevékenységet végző egyesület
+3.3.[^16] vallási tevékenységet végző szervezet
 
 3.4. szakszervezet
 
@@ -144,4 +144,10 @@
 
 3.6. polgárőr szervezet
 
-3.7. egyéb, törvényben meghatározott egyesületi forma
+3.7.[^17] nemzetiségi egyesület
+
+3.8.[^18] egyéb, törvényben meghatározott egyesületi forma
+
+[^16]: A 40. melléklet 3.3. pontja a 34/2013. (XII. 23.) KIM rendelet 5. §-ával megállapított szöveg.
+[^17]: A 40. melléklet 3.7. pontja a 34/2013. (XII. 23.) KIM rendelet 5. §-ával megállapított szöveg.
+[^18]: A 40. melléklet 3.8. pontját a 34/2013. (XII. 23.) KIM rendelet 5. §-a iktatta be.
