@@ -1,1 +1,0 @@
-A Kormány a Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény 5. § (5) bekezdésében, és a 77. § (1) bekezdés a) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (3) bekezdésében megállapított feladatkörében eljárva a következő rendeletet alkotja:
