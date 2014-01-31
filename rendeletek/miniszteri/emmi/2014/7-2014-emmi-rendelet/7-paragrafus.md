@@ -1,16 +1,12 @@
-## 6. § Az R. 22. § (1) bekezdése a következő e) ponttal egészül ki:
+## 1–6. §[^1]
 
-## (Egyszerűsített eljárásrend alkalmazandó, amikor a kérelem)
+7. § (1)[^2]
 
-## „e) kedvezményezetti státusz megítélésére is”
+(2)[^3]
 
-## (érkezett.)
+(3)[^4]
 
-7. § (1)[^1]
-
-(2)[^2]
-
-(3) Az R. 25. §-a a következő (13) bekezdéssel egészül ki:
-
-[^1]: A 7. § (1) bekezdése a 13. § (2) bekezdése alapján 2014. február 1-jén lép hatályba.
-[^2]: A 7. § (2) bekezdése a 13. § (3) bekezdése alapján 2014. március 1-jén lép hatályba.
+[^1]: Az 1–6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 7. § (1) bekezdése a 13. § (2) bekezdése alapján 2014. február 1-jén lép hatályba.
+[^3]: A 7. § (2) bekezdése a 13. § (3) bekezdése alapján 2014. március 1-jén lép hatályba.
+[^4]: A 7. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
