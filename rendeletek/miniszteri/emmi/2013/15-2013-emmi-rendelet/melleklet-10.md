@@ -184,31 +184,9 @@
 
 | konduktív pedagógiai neveléshez megfelelő speciális bútorok | gyermek-, tanulói létszám figyelembevételével | konduktív pedagógiai ellátást nyújtó székhelyen, tagintézményben, telephelyen |
 
-## IV. A GYÓGYTESTNEVELÉS MEGSZERVEZÉSÉNEK TOVÁBBI ESZKÖZEI
+## IV. A GYÓGYTESTNEVELÉS MEGSZERVEZÉSÉNEK ESZKÖZEI
 
-| Eszközök, felszerelések | Mennyiségi mutató | Megjegyzés |
-
-| magnetofon | 1 |  |
-
-| video (lejátszó) televízióval vagy monitorral | 1 |  |
-
-| kézi szerek (ugrókötél, gumikötél, színes tornabot, karika, gumi- vagy műanyag labdák) | tanulói létszám figyelembevételével |  |
-
-| 1, 2, 3, 4 kg-os tömött labdák | 2-2 |  |
-
-| 1, 2 kg-os kézi súlyzók | 2-2 |  |
-
-| filcszőnyeg | 2 |  |
-
-| lengőkötél | 1 |  |
-
-| húzókötél | 1 |  |
-
-| ugrószekrény | 1 |  |
-
-| nyújtó | 1 |  |
-
-| szobakerékpár | 1 |  |
+| A gyógytestnevelés eszköz- és szerigénye a testnevelés eszköz- és szerigényével megegyezik. |
 
 ## V. EGÉSZSÉG- ÉS MUNKAVÉDELMI ESZKÖZÖK
 

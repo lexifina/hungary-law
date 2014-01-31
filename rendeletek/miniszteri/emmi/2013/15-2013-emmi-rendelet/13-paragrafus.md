@@ -1,4 +1,4 @@
-13. § (1) A szakértői vizsgálat – a (2) bekezdés a), b) és d) pontjaiban, valamint a 40. § (3) bekezdésében foglalt kivétellel – a szülő kérelmére, illetve, ha az eljárást nem a szülő kezdeményezi, a szülő egyetértésével indul. Az eljárás megindítása a pedagógiai szakszolgálati intézménynek a gyermek lakóhelye, ennek hiányában tartózkodási helye (a továbbiakban együtt: lakóhely) szerint illetékes székhelyintézménynél, illetve tagintézménynél kérhető vagy kezdeményezhető. A mozgásszervi fogyatékosság, az érzékszervi fogyatékosság, valamint a beszédfogyatékosság megállapítására vagy kizárására irányuló vizsgálat közvetlenül is kérhető, illetve kezdeményezhető a Központ által kijelölt, országos szintű területi ellátási kötelezettséggel rendelkező szakértői bizottságnál. Ha a gyermek óvodai nevelésben, iskolai nevelésben, oktatásban részesül, az óvoda, az iskola köteles közreműködni az 1. melléklet szerinti vizsgálat iránti kérelem elkészítésében.
+13. § (1)[^15] A szakértői vizsgálat – a (2) bekezdés a), b) és d) pontjaiban, valamint a 40. § (3) bekezdésében foglalt kivétellel – a szülő kérelmére, illetve, ha az eljárást nem a szülő kezdeményezi, a szülő egyetértésével indul. Az eljárás megindítása az Intézmény szakértői bizottságként eljáró azon feladatellátási helyénél kérhető vagy kezdeményezhető, amelynek működési körzetében a gyermek, tanuló lakóhellyel, ennek hiányában tartózkodási hellyel rendelkezik, vagy amelynek működési körzetében a gyermek, tanuló intézményes ellátásban részesül. A mozgásszervi fogyatékosság, az érzékszervi fogyatékosság, valamint a beszédfogyatékosság megállapítására vagy kizárására irányuló vizsgálat közvetlenül is kérhető, illetve kezdeményezhető az országos szakértői bizottságnál. Ha a gyermek óvodai nevelésben, iskolai nevelésben, oktatásban részesül, az óvoda, az iskola köteles közreműködni az 1. melléklet szerinti vizsgálat iránti kérelem elkészítésében.
 
 (2) A szakértői vizsgálat indítható:
 
@@ -16,7 +16,7 @@ db) a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény 
 
 dc) a szociális igazgatásról és szociális ellátásokról szóló törvény hatálya alá tartozó fogyatékosok ápoló, gondozó otthona, fogyatékosok rehabilitációs intézménye, fogyatékosok nappali intézménye
 
-## kezdeményezésére.
+kezdeményezésére.
 
 (3) Ha a nevelési-oktatási intézmény, vagy a gyermekjóléti, a gyermekvédelmi, a szociális intézmény, valamint a gyámhatóság megítélése szerint a gyermek, tanuló szakértői vizsgálata szükséges,
 
@@ -28,10 +28,13 @@ c) halmozottan hátrányos helyzetű gyermek, tanuló vizsgálatának kezdemény
 
 (4) A szülő egyetértése esetén a szakértői vélemény készítésére irányuló – a szülő által aláírt – kérelmet az óvoda, az iskola megküldi
 
-a) az Intézmény – a szülő lakóhelye szerint illetékes – tagintézményének,
+a)[^16] az (1) bekezdésben meghatározott szakértői bizottságnak,
 
 b) a halmozottan hátrányos helyzetű gyermek, tanuló vizsgálatának kezdeményezése esetén – az (5) bekezdésben foglalt kivétellel – az Oktatási Hivatalnak (a továbbiakban: Hivatal).
 
 (5) Szülői egyetértés hiányában a (3) bekezdésben foglalt, vizsgálatot kezdeményező intézmény a 40. § (3) bekezdés a) pontjában foglalt eljárás megindítását kéri.
 
 (6) Ha a halmozottan hátrányos helyzetű gyermek, tanuló szülője a szakértői vélemény készítésére irányuló kérelemnyomtatványon olyan nyilatkozatot tesz, hogy gyermeke vizsgálatánál szakszolgálati-esélyegyenlőségi szakértő ne legyen jelen, a (4) bekezdés b) pontjában foglaltakat nem kell alkalmazni.
+
+[^15]: A 13. § (1) bekezdése a 8/2014. (I. 30.) EMMI rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^16]: A 13. § (4) bekezdés a) pontja a 8/2014. (I. 30.) EMMI rendelet 8. § (2) bekezdésével megállapított szöveg.

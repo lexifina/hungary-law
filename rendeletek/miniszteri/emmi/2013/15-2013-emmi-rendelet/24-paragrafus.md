@@ -2,7 +2,7 @@
 
 24. § (1) Az Nkt. 18. § (2) bekezdés d) pontja szerinti nevelési tanácsadás feladata:
 
-a) az Intézménynél jelentkező gyermek, tanuló esetében a jelentkező nyilvántartásba vétele, a szülővel az első problémafeltáró beszélgetés lebonyolítása, a gyermek, a tanuló adaptív viselkedésének, szociális érettségének felmérése, ennek eredményeképpen tanácsadásban részesítés vagy a szakszolgálati ellátásba vétel szükségességének meghatározása,
+a)[^29] a szülővel az első problémafeltáró beszélgetés lebonyolítása, a gyermek, a tanuló adaptív viselkedésének, szociális érettségének felmérése, ennek eredményeképpen tanácsadásban részesítés vagy a szakszolgálati ellátásba vétel szükségességének meghatározása,
 
 b) az Intézmény nevelési tanácsadás feladatának keretében ellátásban részesülők esetében segítség nyújtása a gyermek családi-, és óvodai neveléséhez, a tanuló iskolai neveléséhez és oktatásához, ha a gyermek, tanuló egyéni adottsága, fejlettsége, képessége, tehetsége, fejlődésének üteme indokolja,
 
@@ -25,3 +25,5 @@ b) terápiás ellátást, korrektív megsegítést nyújt a szakértői bizotts�
 c) a gyermek, a tanuló fejlesztése során az állapotára irányuló változásokat a folyamatdiagnosztika során értékeli,
 
 d) pszichológiai, gyógypedagógiai, pedagógiai tanácsadást biztosít, és konzultációs lehetőséget nyújt a gyermekek, a tanulók szülei, pedagógusai részére.
+
+[^29]: A 24. § (1) bekezdés a) pontja a 8/2014. (I. 30.) EMMI rendelet 14. §-ával megállapított szöveg.

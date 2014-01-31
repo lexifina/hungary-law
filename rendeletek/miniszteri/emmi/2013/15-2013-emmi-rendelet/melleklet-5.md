@@ -4,6 +4,8 @@
 
 ## Kitöltése kötelező 5 éves életkorban. Az adatlap az iskolaegészségügyi dokumentáció része.
 
+## 3K02712_0
+
 | SZEMÉLYI ADATOK |
 
 | Gyermek neve: |  |
@@ -124,4 +126,6 @@
 
 ## aláírás, pecsét
 
-5. melléklet a 15/2013. (II. 26.) EMMI rendelethez
+5. melléklet a 15/2013. (II. 26.) EMMI rendelethez[^58]
+
+[^58]: Az 5. melléklet a 8/2014. (I. 30.) EMMI rendelet 27. §-ával megállapított szöveg.

@@ -1,5 +1,3 @@
-## A pedagógiai szakszolgálati intézmény irattári terve
-
 | Irattári tételszám | Ügykör megnevezése | Őrzési idő (év) |
 
 | Vezetési, igazgatási és személyi ügyek |
@@ -26,7 +24,7 @@
 
 | 11. | Panaszügyek | 5 |
 
-| 12. | Szakértői vélemény | 25 |
+| 12. | Szakértői vélemény, logopédiai vizsgálati vélemény | 25 |
 
 | 13. | Szakértői vélemény elkészíttetésével összefüggő ügyek | 10 |
 
@@ -38,7 +36,7 @@
 
 | 17. | Nyilvántartási lapok, jegyzőkönyvek | 5 |
 
-| 18. | Szaktanácsadói, szakértői vélemények, javaslatok és ajánlások | 5 |
+| 18. | Szaktanácsadói, egyéb szakértői vélemények, javaslatok és ajánlások | 5 |
 
 | Gazdasági ügyek |
 
@@ -50,4 +48,6 @@
 
 | 22. | Éves költségvetéshez, költségvetési beszámolókhoz kapcsolódó ügyek, könyvelési bizonylatok | 5 |
 
-9. melléklet a 15/2013. (II. 26.) EMMI rendelethez
+9. melléklet a 15/2013. (II. 26.) EMMI rendelethez[^62]
+
+[^62]: A 9. melléklet a 8/2014. (I. 30.) EMMI rendelet 30. §-a szerint módosított szöveg.

@@ -1,4 +1,4 @@
-42. § (1) A megyei szakértői bizottság adhat szakértői véleményt
+42. § (1)[^45] A megyei szakértői bizottság – mozgásszervi, érzékszervi (a látási, a hallási), valamint a beszédfogyatékosság esetén az országos szakértői bizottság – adhat szakértői véleményt
 
 a) a bölcsődei ellátásban hatéves korig való részvételhez sajátos nevelési igényű gyermekre vonatkozóan,
 
@@ -9,3 +9,5 @@ c) a testi, érzékszervi, értelmi, beszédfogyatékos, az autizmus spektrum za
 d) magasabb összegű családi pótlék megállapításához súlyos és középsúlyos értelmi fogyatékosság esetén.
 
 (2) A (1) bekezdés d) pontban meghatározott esetben a szakértői bizottság orvosa ad ki igazolást.
+
+[^45]: A 42. § (1) bekezdés nyitó szövegrésze a 8/2014. (I. 30.) EMMI rendelet 31. § 8. pontjával megállapított szöveg.

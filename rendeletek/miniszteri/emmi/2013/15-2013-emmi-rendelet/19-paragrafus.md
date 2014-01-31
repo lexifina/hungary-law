@@ -9,3 +9,5 @@ b) és a gyermeket, a tanulót a kijelölt óvoda, iskola nem tudja fogadni, ill
 a) a sajátos nevelési igény megállapítása esetén a kijelölt nevelési-oktatási intézménynek,
 
 b) abban az esetben, ha a gyermek az adott évben betölti az ötödik életévét vagy ennél idősebb, a lakóhely, ennek hiányában a tartózkodási hely szerint illetékes járási hivatalnak
+
+megküldi.

@@ -1,5 +1,3 @@
-## Tagintézmény több tagintézményi telephelyen is működhet.
-
 ## 2. A rendelet hatálya
 
 ## 2. § A rendelet hatálya – fenntartótól függetlenül – kiterjed
@@ -16,8 +14,10 @@ e) a pedagógus és a nevelő és oktató munkát közvetlenül segítő munkak�
 
 f) a gyermekek, tanulók törvényes képviselőire (a továbbiakban: szülők),
 
-g) az állami intézményfenntartó központra (a továbbiakban: Központ),
+g)[^2] a Központra,
 
 h) a fővárosi és megyei kormányhivatalokra (a továbbiakban: kormányhivatal), valamint a kormányhivatalok járási (fővárosi kerületi) hivatalaira (a továbbiakban: járási hivatal),
 
 i) az Eötvös Loránd Tudományegyetem Gyakorló Gyógypedagógiai és Logopédiai Szakszolgálat, Szakértői és Rehabilitációs Bizottság és Országos Gyógypedagógiai-szakmai Szolgáltató Intézményre (a továbbiakban: Szakmai Szolgáltató Intézmény).
+
+[^2]: A 2. § g) pontja a 8/2014. (I. 30.) EMMI rendelet 2. §-ával megállapított szöveg.

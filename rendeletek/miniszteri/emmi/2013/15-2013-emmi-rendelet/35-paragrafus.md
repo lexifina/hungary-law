@@ -6,4 +6,6 @@
 
 (4) Az Intézmény az általa lefolytatott vizsgálat, a gyermekkel, a tanulóval való közvetlen foglalkozás során figyelembe veszi a gyermek, tanuló anyanyelvi sajátosságait.
 
-(5) Az Intézmény, annak tagintézménye köteles ellátni azt a gyermeket, tanulót, akinek a lakóhelye, ennek hiányában tartózkodási helye a működési körzetében van, illetve aki az illetékességi területén jár óvodába, iskolába.
+(5)[^40]
+
+[^40]: A 35. § (5) bekezdését a 8/2014. (I. 30.) EMMI rendelet 32. § c) pontja hatályon kívül helyezte.

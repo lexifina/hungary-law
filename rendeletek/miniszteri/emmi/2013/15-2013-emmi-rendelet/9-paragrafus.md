@@ -1,3 +1,0 @@
-9. § (1) A szakértői bizottsági tevékenységet az Intézmény szakmailag önálló intézményegysége látja el, mely – a 10. § (3) bekezdésében foglalt kivétellel – a feladatok és a területi ellátási kötelezettség szempontjából a székhelyintézményben működő megyei, fővárosi illetékességű intézményegységre (a továbbiakban: megyei szakértői bizottság) és a tagintézményben működő, a megyében járási tankerületi, a fővárosban fővárosi kerületi tankerületi illetékességű intézményegységekre (a továbbiakban: tankerületi szakértői bizottság) tagolódik.
-
-(2) A Szakmai Szolgáltató Intézmény országos szintű területi ellátási kötelezettséggel látja el a 41. § (6) bekezdésben meghatározott szakértői feladatát.

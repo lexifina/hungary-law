@@ -6,19 +6,15 @@
 
 | 2. | Intézményvezető (főigazgató) | Intézményenként | 1 |
 
-| 3. | Székhelyintézmény-vezető (igazgató) | Intézményenként | 1 |
+| 3. | Intézményvezető-helyettes (főigazgató-helyettes) | Pedagógus munkakörben foglalkoztatottak létszáma legfeljebb 300 fő | 2 |
 
-| 4. | Székhelyintézmény-vezető helyettes (igazgató-helyettes) | Intézményenként | 1 |
+| 4. | Intézményvezető-helyettes (főigazgató-helyettes) | Pedagógus munkakörben foglalkoztatottak létszáma több mint 300 fő | 3 |
 
-| 5. | Tagintézmény-vezető (igazgató) | Tagintézményenként | 1 |
+| 5. | Tagintézmény-igazgató (Tagintézmény-vezető) | Tagintézményenként | 1 |
 
-| 6. | intézményvezető-helyettes (főigazgató-helyettes) | pedagógus munkakörben foglalkoztatottak létszáma legfeljebb 300 fő | 2 |
+| 6. | Tagintézményigazgató-helyettes (Tagintézményvezető-helyettes) | Tankerületi tagintézményenként, ha a foglalkoztatottak száma a tizenöt főt eléri | 1 |
 
-| 7. | intézményvezető-helyettes (főigazgató-helyettes) | pedagógus munkakörben foglalkoztatottak létszáma több mint 300 fő | 3 |
-
-| 8. | Tagintézmény-vezető- helyettes (igazgató- helyettes) | Amennyiben a tagintézmény több telephelyen működik, a fenntartó döntésétől függően legfeljebb | 5 |
-
-6. melléklet a 15/2013. (II. 26.) EMMI rendelethez
+6. melléklet a 15/2013. (II. 26.) EMMI rendelethez[^59]
 
 1. A pedagógus-munkakörben foglalkoztatottak végzettségi és szakképzettségi követelményei a megyében, fővárosban az Intézmény egyes tevékenységeinek ellátásához
 
@@ -26,35 +22,43 @@
 
 |  | A pedagógiai szakszolgálati tevékenység | Pedagógus-munkakör megnevezése | A tevékenység ellátásához szükséges végzettség és szakképzettség |
 
-| 1. | gyógypedagógiai tanácsadás, korai fejlesztés, és gondozás | gyógypedagógus | gyógypedagógus |
+| 1. | gyógypedagógiai tanácsadás, korai fejlesztés és gondozás | gyógypedagógus | gyógypedagógus |
 
 | pszichológus | klinikai gyermek szakpszichológus |
 
-| konduktor | konduktor (tanító), konduktor (óvodapedagógus), konduktor |
+| tanácsadó szakpszichológus |
+
+| konduktor | konduktor |
 
 | 2. | fejlesztő nevelés | gyógypedagógus | gyógypedagógus |
 
-| konduktor | konduktor (tanító), konduktor (óvodapedagógus), konduktor |
+| konduktor | konduktor |
 
 | 3. | szakértői bizottsági tevékenység | pszichológus | klinikai gyermek szakpszichológus |
 
-| pedagógiai (óvoda- és iskolapszichológiai) szakpszichológus |
+| pedagógiai szakpszichológus |
+
+| óvoda- és iskola szakpszichológus |
 
 | tanácsadó szakpszichológus |
 
 | gyógypedagógus | gyógypedagógus |
 
-|  | konduktor | konduktor (tanító), konduktor (óvodapedagógus), konduktor |
+| konduktor | konduktor |
 
-| 4. | nevelési tanácsadás | fejlesztő pedagógus | bármely pedagógus, és a beilleszkedési, a tanulási, a magatartási nehézségekkel küzdő gyermekek, tanulók szűrésére, csoportos és egyéni foglalkoztatására jogosító szakirányú továbbképzésben szerzett szakképzettség, gyógypedagógus a tanulásban akadályozottak vagy logopédia vagy pszichopedagógia szakiránnyal |
+| 4. | nevelési tanácsadás | fejlesztő pedagógus | bármely pedagógus, és a beilleszkedési, a tanulási, a magatartási nehézségekkel küzdő gyermekek, tanulók szűrésére, csoportos és egyéni foglalkoztatására jogosító szakirányú továbbképzésben szerzett szakképzettség |
 
-| gyógypedagógus | gyógypedagógus tanulásban akadályozottak, vagy logopédia, vagy pszichopedagógia szakiránnyal |
+| oligofrénpedagógia szakos gyógypedagógiai tanár, tanulásban akadályozottak pedagógiája vagy logopédia vagy pszichopedagógia szakos gyógypedagógus, gyógypedagógiai tanár vagy terapeuta, gyógypedagógus tanulásban akadályozottak pedagógiája vagy logopédia vagy pszichopedagógia szakirányon |
 
-|  |  | pszichológus | klinikai gyermek szakpszichológus |
+| gyógypedagógus | oligofrénpedagógia szakos gyógypedagógiai tanár, tanulásban akadályozottak pedagógiája vagy logopédia vagy pszichopedagógia szakos gyógypedagógus, gyógypedagógiai tanár vagy terapeuta, gyógypedagógus tanulásban akadályozottak pedagógiája vagy logopédia vagy pszichopedagógia szakirányon |
+
+| pszichológus | klinikai gyermek szakpszichológus |
 
 | tanácsadó szakpszichológus |
 
-| pedagógiai (óvoda- és iskolapszichológiai) szakpszichológus |
+| pedagógiai szakpszichológus |
+
+| óvoda- és iskola szakpszichológus |
 
 | klinikai és mentálhigiénés (felnőtt) szakpszichológus |
 
@@ -62,22 +66,38 @@
 
 | gyógypedagógus logopédia szakirányon |
 
-| 6. | továbbtanulási, pályaválasztási tanácsadás | pszichológus | tanácsadó szakpszichológus pedagógiai (óvoda- és iskolapszichológiai) szakpszichológus |
+| 6. | továbbtanulási, pályaválasztási tanácsadás | pszichológus | tanácsadó szakpszichológus |
 
-| tanácsadó pedagógus | bármely egyetemi szintű pedagógus végzettség és szakképzettség, bármely főiskolai szintű pedagógus végzettség és szakképzettség, diáktanácsadás, vagy iskolai tanácsadó és konzultáns pedagógus szakirányú továbbképzési szakképzettséggel |
+| pedagógiai szakpszichológus |
+
+| óvoda- és iskola szakpszichológus |
+
+| tanácsadó pedagógus | bármely egyetemi szintű pedagógus végzettség és szakképzettség |
+
+| bármely főiskolai szintű pedagógus végzettség és szakképzettség, diáktanácsadás, vagy iskolai tanácsadó és konzultáns pedagógus vagy tanulási és pályatanácsadás vagy pályaorientációs tanár szakirányú továbbképzési szakképzettséggel vagy pályaorientáció szakterületen szerzett szakvizsgával |
 
 | 7. | konduktív pedagógiai ellátás | konduktor | konduktor (tanító), konduktor (óvodapedagógus), konduktor |
 
-| 8. | gyógytestnevelés | gyógytestnevelő | gyógytestnevelő tanár, |
+| 8. | gyógytestnevelés | gyógytestnevelő tanár | gyógytestnevelő tanár |
 
-| 9. | iskolapszichológiai, óvodapszichológiai ellátás, | iskola- és óvodapszicholó-gia koordinátora | Pszichológus pedagógiai (óvoda- és iskolapszichológiai) szakpszichológus tanácsadó szakpszichológus |
+| 9. | iskolapszichológiai, óvodapszichológiai ellátás | iskola- és óvodapszichológia koordinátora | pedagógiai szakpszichológus |
 
-| 10. | kiemelten tehetséges gyermekek, tanulók gondozása | tehetséggondozó koordinátor | pedagógiai (óvoda- és iskolapszichológiai) szakpszichológus tanácsadó szakpszichológus |
+| óvoda- és iskola szakpszichológus |
+
+| tanácsadó szakpszichológus |
+
+| 10. | kiemelten tehetséges gyermekek, tanulók gondozása | tehetséggondozó koordinátor | pedagógiai szakpszichológus |
+
+| óvoda- és iskola szakpszichológus |
+
+| tanácsadó szakpszichológus |
 
 | pedagógus, tehetségfejlesztő szakirányú végzettséggel |
 
-2.A nem pedagógus munkakörben foglalkoztatottak
+2. A nem pedagógus munkakörben foglalkoztatottak
 
-| 1. Pedagógiai munkát segítő munkakörök | fogyatékosság típusának megfelelő szakorvos vagy gyermek- és ifjúsági pszichiátria, csecsemő és gyermekgyógyászat, illetve gyermekneurológia szakorvos, gyógytornász, gyógypedagógiai asszisztens |
+| 1. Nevelő és oktató munkát közvetlenül segítő munkakörök | fogyatékosság típusának megfelelő szakorvos vagy gyermek- és ifjúsági pszichiátria, csecsemő- és gyermekgyógyászat, illetve gyermekneurológia szakorvos, gyógytornász, pedagógiai asszisztens, gyógypedagógiai asszisztens, szakszolgálati titkár, rendszergazda |
 
-| 2. Technikai munkát végző munkakörök | informatikus/rendszergazda, adminisztrátor, ügyintéző, kisegítő |
+| 2. Egyéb munkakörök | ügyviteli dolgozó, kisegítő dolgozó, munkaügyi, személyzeti előadó, gazdasági dolgozó, műszaki dolgozó |
+
+[^59]: A 6. melléklet a 8/2014. (I. 30.) EMMI rendelet 28. §-a szerint módosított szöveg.

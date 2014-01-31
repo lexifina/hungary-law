@@ -1,10 +1,8 @@
-## A fővárosban, megyében működő Intézményekben foglalkoztatottak
-
 ## minimális létszáma
 
 |  | 1. Pedagógus munkakörben foglalkoztatottak létszáma | Nem pedagógus munkakörben foglalkoztatottak |
 
-| Megyenév | Korai fejlesztés, gondozás, és a fejlesztő nevelés | Szakértői bizottsági tevékenység, és a nevelési tanácsadás | Logopédia | Továbbtanulási, pályaválasztási tanácsadás | Konduktív pedagógia | Gyógytestnevelés | Iskolapszichológiai, óvodapszichológiai | Kiemelten tehetséges gyermekek, tanulók gondozása | Összesen |
+| Megyenév, főváros | Korai fejlesztés, gondozás, és a fejlesztő nevelés | Szakértői bizottsági tevékenység, és a nevelési tanácsadás | Logopédia | Továbbtanulási, pályaválasztási tanácsadás | Konduktív pedagógia | Gyógytestnevelés | Iskolapszichológiai, óvodapszichológiai | Kiemelten tehetséges gyermekek, tanulók gondozása | Összesen |
 
 |  | feladatainak ellátására |
 
@@ -16,7 +14,7 @@
 
 | Borsod-Abaúj- Zemplén | 21 | 199 | 136 | 5 | 16 | 59 | 16 | 16 | 468 | 51 |
 
-| Budapest | 40 | 427 | 264 | 10 | 23 | 115 | 23 | 23 | 925 | 105 |
+| Főváros | 40 | 427 | 264 | 10 | 23 | 115 | 23 | 23 | 925 | 105 |
 
 | Csongrád | 11 | 102 | 69 | 3 | 7 | 30 | 7 | 7 | 236 | 26 |
 
@@ -52,4 +50,8 @@
 
 ## Az Intézmény egyes tevékenységeinek ellátásához kapcsolódó munkakörökben a 6. mellékletben meghatározottak szerint a tevékenység ellátásához szükséges végzettséggel és szakképzettséggel rendelkező pedagógus foglalkoztatható.
 
-8. melléklet a 15/2013. (II. 26.) EMMI rendelethez
+8. melléklet a 15/2013. (II. 26.) EMMI rendelethez[^61]
+
+A pedagógiai szakszolgálati intézmény irattári terve
+
+[^61]: A 8. melléklet a 8/2014. (I. 30.) EMMI rendelet 29. §-a szerint módosított szöveg.

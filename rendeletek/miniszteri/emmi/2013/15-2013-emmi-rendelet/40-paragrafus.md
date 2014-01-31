@@ -18,4 +18,6 @@ d) a kijelölt nevelési-oktatási intézmény vezetője, ha a gyermeket a szak�
 
 (5) Ha a gyermeket, tanulót a gyámhivatal átmeneti vagy tartós nevelésbe vette a járási hivatal illetékességét a gyermek tartózkodási helye határozza meg.
 
-(6) A járási hivatal az eljárása megindításáról értesíti a szakértői bizottságot. A járási hivatal (1) bekezdés szerinti határozata egy példányát az eljárás megindítását követő 8 napon belül megküldi a szülőnek, az érintett nevelési-oktatási intézménynek, a szakértői bizottságnak.
+(6)[^41] A járási hivatal az eljárása megindításáról nyolc napon belül értesíti a szakértői bizottságot. A járási hivatal az (1) bekezdés szerinti döntés egy példányát a döntés jogerőre emelkedését követő nyolc napon belül megküldi az érintett nevelési-oktatási intézménynek és a szakértői bizottságnak.
+
+[^41]: A 40. § (6) bekezdése a 8/2014. (I. 30.) EMMI rendelet 20. §-ával megállapított szöveg.

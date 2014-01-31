@@ -24,6 +24,6 @@ a) otthoni ellátás keretében vagy
 
 b) a pedagógiai szakszolgálati intézmény fenntartójával infrastruktúra-használatra vonatkozó szerződést kötött intézményben
 
-## kerül sor.
+kerül sor.
 
 (9) Otthoni ellátás vagy a pedagógiai szakszolgálati intézmény fenntartójával infrastruktúra- használatra vonatkozó szerződést kötött intézményben történő ellátás esetén az (6) bekezdésben meghatározott időkeretet – a szülő egyetértésével és a gondozásba történő bevonásával – a fejlesztési év átlagában kell teljesíteni.

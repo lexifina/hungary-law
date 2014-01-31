@@ -1,1 +1,0 @@
-## 48. § Az Intézmény illetékességi területén 2013. augusztus 31-ig ellátja az e rendelet hatálybalépését megelőzően a pedagógiai szakszolgálatokról szóló 4/2010. (I. 19.) OKM rendelet 24. §-a alapján a nevelési tanácsadás keretében nyújtott iskolapszichológiai szolgáltatás feladatait.

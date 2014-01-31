@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-15-20-5
 | --- | --- | --- |
 | 2013-03-01 | 2013-15-20-5H.1 | 15/2013. (II. 26.) EMMI rendelet |
 | 2013-03-02 | 2013-15-20-5H.2 | 2010: CXXX. törvény |
+| 2014-01-31 | 2013-15-20-5H.3 | 8/2014. (I. 30.) EMMI rendelet |

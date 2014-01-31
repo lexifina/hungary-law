@@ -6,8 +6,10 @@
 
 (4) A folyamatos figyelemmel kísérés kezdetén a szakértői bizottság meghatározza a megfigyelésben közreműködő pedagógus feladatait.
 
-(5) A folyamatos figyelemmel kísérés ideje alatt a szakértői bizottság képviselője legalább három alkalommal, az óvodai foglalkozáson, illetve a tanítási órán megfigyeli a gyermeket, tanulót. A folyamatos figyelemmel kísérés végén a tanulási képességet vizsgáló szakértői bizottság megvizsgálja a gyermek, tanuló fejlődését, és tapasztalatai alapján – a vizsgálatok összegezésének eredményeként – készíti el szakértői véleményét.
+(5)[^27] A folyamatos figyelemmel kísérés ideje alatt a szakértői bizottság képviselője legalább két alkalommal, az óvodai foglalkozáson, illetve a tanítási órán megfigyeli a gyermeket, tanulót. A folyamatos figyelemmel kísérés végén a szakértői bizottság megvizsgálja a gyermek, tanuló fejlődését, és tapasztalatai alapján – a vizsgálatok összegzésének eredményeként – készíti el szakértői véleményét.
 
 (6) A folyamatos figyelemmel kísérés ideje alatt a pedagógus – a szakértői bizottság útmutatása szerint – a gyermek, tanuló fejlődéséről rendszeresen, de legalább kéthavonta részletes értékelést készít. A folyamatos figyelemmel kísérés ideje alatt a pedagógus legalább havonta egyszer ismerteti a szülővel megállapításait, és segítséget nyújt az otthoni neveléshez. A folyamatos figyelemmel kísérés végén a részletes értékelést a pedagógus átadja a szakértői bizottságnak.
 
 (7) Ha a szakértői eljárásban szakszolgálati-esélyegyenlőségi szakértő vesz részt, a szakértő részt vehet a (5)–(6) bekezdés alapján szervezett megfigyelésen, illetve a szülővel történő egyeztetésen.
+
+[^27]: A 21. § (5) bekezdése a 8/2014. (I. 30.) EMMI rendelet 12. §-ával megállapított szöveg.
