@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-488-20-
 | --- | --- | --- |
 | 2013-12-18 | 2013-488-20-22.1 | 488/2013. (XII. 17.) Korm. rendelet |
 | 2013-12-19 | 2013-488-20-22.2 | 2010: CXXX. törvény |
+| 2014-02-01 | 2013-488-20-22.3 | 2010: CXXX. törvény |
