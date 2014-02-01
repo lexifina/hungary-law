@@ -14,6 +14,4 @@ b) a bejelentés napján a kereskedelmi szabályzatban meghatározott feltétele
 
 termelési menetrendet adni a Befogadó részére.
 
-(5)[^1]
-
-[^1]: A 2. § (5) bekezdése a 13. § (5) bekezdés 1. pontja alapján 2014. február 1-jén lép hatályba.
+(5) A Befogadó minden hónap 8. munkanapjáig megállapítja az Értékesítőkre vonatkozó előző havi mérési-elszámolási tényadatokat, majd kiszámítja a megújuló energiaforrásból vagy hulladékból nyert energiával termelt villamos energia, valamint a kapcsoltan termelt villamos energia kötelező átvételéről és átvételi áráról szóló kormányrendeletben meghatározott szabályozási pótdíj és módosítási pótdíj értékeket.

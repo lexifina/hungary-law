@@ -4,13 +4,10 @@
 
 (2) Amennyiben az átvételre kötelezett mérlegkör felelős tény fogyasztási adata eltér a tervezett fogyasztási adatától, a Befogadó a soron következő allokáció során az 5. § (1) bekezdése szerinti KÁT szétosztási aránytényezőt ezen eltérés hatásának megfelelően korrigálja, és korrekciós kamatot számol el. A korrekciót úgy kell végrehajtani, hogy minden egyes átvételre kötelezett mérlegkör felelős a tény fogyasztási adata szerinti aránytényező alapján kiszámított terhet viselje.
 
-(3)[^2]
+(3) A Befogadó a korrekcióról minden hónap 10. munkanapjáig tájékoztatja a Magyar Energetikai és Közmű-szabályozási Hivatalt (a továbbiakban: Hivatal) és az átvételre kötelezett mérlegkör felelősöket az őket érintő adatok tekintetében.
 
 (4) A Befogadó a (2) bekezdés szerinti korrekció helyett korrekciós hozzájárulást számol el, amennyiben az átvételre kötelezett mérlegkör felelős a 3. § (1) bekezdés szerinti tervezett fogyasztási adatok meghatározása során valamely hónapra nulla tervezett fogyasztási adatot ad meg. A korrekciós hozzájárulást úgy kell meghatározni, hogy minden egyes átvételre kötelezett mérlegkör felelős a tény fogyasztási adata szerinti aránytényező alapján kiszámított terhet viselje.
 
-(5)[^3]
+(5) A korrekció és a korrekciós hozzájárulás meghatározása során előjelhelyesen figyelembe kell venni az átviteli rendszerirányító által, a rendszerszintű szabályozásba bevont felhasználóra vagy felhasználói csoportra adott utasítás fogyasztási mennyiségét.
 
 (6) A korrekció és a korrekciós hozzájárulás kiszámításának részletes szabályait a kereskedelmi szabályzat tartalmazza.
-
-[^2]: A 4. § (3) bekezdése a 13. § (5) bekezdés 2. pontja alapján 2014. február 1-jén lép hatályba.
-[^3]: A 4. § (5) bekezdése a 13. § (5) bekezdés 2. pontja alapján 2014. február 1-jén lép hatályba.
