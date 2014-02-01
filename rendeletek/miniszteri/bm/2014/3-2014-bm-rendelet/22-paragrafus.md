@@ -1,0 +1,1 @@
+## „(3) Az előirányzat felhasználása költségvetési támogatás nyújtása útján történik. A költségvetési támogatás támogatási előlegként is folyósítható. Az előirányzat felhasználása megbízási, vállalkozási szerződés megkötésével vagy előirányzat-átcsoportosításra szóló intézkedéssel is történhet.”

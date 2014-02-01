@@ -1,0 +1,1 @@
+## 1. A 2007–2013 közötti programozási időszakban a Szolidaritási programokból származó támogatások felhasználásának alapvető szabályairól, intézményrendszeréről, a pénzügyi irányítási és kontrollrendszerekről szóló 23/2012. (IV. 26.) BM rendelet módosítása
