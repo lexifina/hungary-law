@@ -2,7 +2,7 @@
 
 |  | A | B | C | D | E |
 
-|  | Település | Értékesítő megnevezése | Távhőszolgáltató megnevezése | Értékesítői teljesítmény díj (eFt/MW/év) | Értékesítői hődíj(Ft/GJ) |
+|  | Település | Értékesítő megnevezése | Távhőszolgáltató megnevezése | Értékesítői teljesítménydíj (eFt/MW/év) | Értékesítői hődíj (Ft/GJ) |
 
 | 1. | Ajka | Bakonyi Erőmű Zrt. | Primer Ajkai Távhőszolgáltatási Kft. | 7 286 | 2 332 |
 
@@ -18,15 +18,15 @@
 
 | 7. | Budaörs | Dalkia Energia Zrt. | BTG Budaörsi Településgazdálkodási Kft. | 0 | 4 536 |
 
-| 8. | Budapest | Alpiq Csepel Kft. - kombinált ciklusú erőmű | Budapesti Távhőszolgáltató Zrt. | 4 565 | 1 357 |
+| 8. | Budapest | Alpiq Csepel Kft. – kombinált ciklusú erőmű | Budapesti Távhőszolgáltató Zrt. | 4 565 | 1 357 |
 
-| 9. | Budapest | Alpiq Csepel Kft. - kazán | Budapesti Távhőszolgáltató Zrt. | 0 | 3 585 |
+| 9. | Budapest | Alpiq Csepel Kft. – kazán | Budapesti Távhőszolgáltató Zrt. | 0 | 3 585 |
 
-| 10. | Budapest | Budapesti Erőmű Zrt. - Kelenföldi Erőmű - 1117 Budapest, Budafoki út 52. | Budapesti Távhőszolgáltató Zrt. | 3 946 | 3 739 |
+| 10. | Budapest | Budapesti Erőmű Zrt. – Kelenföldi Erőmű – 1117 Budapest, Budafoki út 52. | Budapesti Távhőszolgáltató Zrt. | 3 946 | 3 739 |
 
-| 11. | Budapest | Budapesti Erőmű Zrt. - Kispesti Erőmű - 1184 Budapest, Nefelejcs utca 2. | Budapesti Távhőszolgáltató Zrt. | 3 345 | 3 600 |
+| 11. | Budapest | Budapesti Erőmű Zrt. – Kispesti Erőmű – 1184 Budapest, Nefelejcs utca 2. | Budapesti Távhőszolgáltató Zrt. | 3 345 | 3 600 |
 
-| 12. | Budapest | Budapesti Erőmű Zrt. - Újpesti Erőmű - 1045 Budapest, Tó utca 7. | Budapesti Távhőszolgáltató Zrt. | 3 574 | 3 912 |
+| 12. | Budapest | Budapesti Erőmű Zrt. – Újpesti Erőmű – 1045 Budapest, Tó utca 7. | Budapesti Távhőszolgáltató Zrt. | 3 574 | 3 912 |
 
 | 13. | Budapest | Központi Gazdasági Ellátó Igazgatóság | Budapesti Távhőszolgáltató Zrt. | 0 | 3 998 |
 
@@ -34,13 +34,13 @@
 
 | 15. | Budapest | CHP-Erőmű Kft. | Budapesti Távhőszolgáltató Zrt. | 0 | 4 105 |
 
-| 16. | Budapest | Főtáv-Komfort Kft. - 1141 Budapest, Mogyoródi út 41-43. | Budapesti Távhőszolgáltató Zrt. | 0 | 4 511 |
+| 16. | Budapest | Főtáv-Komfort Kft. – 1141 Budapest, Mogyoródi út 41–43. | Budapesti Távhőszolgáltató Zrt. | 0 | 4 511 |
 
-| 17. | Budapest | Főtáv-Komfort Kft. - 1184 Budapest, Lakatos utca 44/B | Budapesti Távhőszolgáltató Zrt. | 0 | 4 008 |
+| 17. | Budapest | Főtáv-Komfort Kft. – 1184 Budapest, Lakatos utca 44/B. | Budapesti Távhőszolgáltató Zrt. | 0 | 4 008 |
 
-| 18. | Budapest | Főtáv-Komfort Kft. - 1097 Budapest, Gyáli út 17-19. | Budapesti Távhőszolgáltató Zrt. | 0 | 3 991 |
+| 18. | Budapest | Főtáv-Komfort Kft. – 1097 Budapest, Gyáli út 17–19. | Budapesti Távhőszolgáltató Zrt. | 0 | 3 991 |
 
-| 19. | Budapest | Főtáv-Komfort Kft. - 1142 Budapest, Tatai út 95. | Budapesti Távhőszolgáltató Zrt. | 0 | 4 317 |
+| 19. | Budapest | Főtáv-Komfort Kft. – 1142 Budapest, Tatai út 95. | Budapesti Távhőszolgáltató Zrt. | 0 | 4 317 |
 
 | 20. | Budapest | Fővárosi Közterület-fenntartó Zrt. | Budapesti Távhőszolgáltató Zrt. | 0 | 1 000 |
 
@@ -98,9 +98,9 @@
 
 | 47. | Kapuvár | Zöld Láng Energetikai és Szolgáltató Kft. | Kapuvári Hőszolgáltató Kft. | 0 | 5 292 |
 
-| 48. | Kazincbarcika | Kazinc-Therm Fűtőerőmű Kft. | Barcika Szolg Vagyonkezelő és Szolgáltató Korlátolt Felelősségű Társaság | 6 072 | 3 705 |
+| 48. | Kazincbarcika | Kazinc-Therm Fűtőerőmű Kft. | TIMPANON Vagyonkezelő és Szolgáltató Kft. | 6 072 | 3 705 |
 
-| 49. | Kiskunfélegy- háza | Dalkia Energia Zrt. | Dunaújvárosi Hőszolgáltató Kft. | 0 | 4 971 |
+| 49. | Kiskunfélegyháza | Dalkia Energia Zrt. | Dunaújvárosi Hőszolgáltató Kft. | 0 | 4 971 |
 
 | 50. | Kiskunhalas | Halas-T Kft. | Halasi Városgazda Zrt. | 0 | 4 851 |
 
@@ -116,11 +116,11 @@
 
 | 56. | Miskolc | Miskolci Geotermia Zrt. | Miskolci Hőszolgáltató Kft. | 0 | 3 100 |
 
-| 57. | Miskolc | MVM MIFŰ Kft. - Hold u. hrsz. 23358/9 és Tatár u. 29/a. hrsz. 23358/8 | Miskolci Hőszolgáltató Kft. | 13 209 | 3 100 |
+| 57. | Miskolc | MVM MIFŰ Kft. – Hold u. hrsz. 23358/9 és Tatár u. 29/a. hrsz. 23358/8 | Miskolci Hőszolgáltató Kft. | 13 209 | 3 100 |
 
-| 58. | Miskolc | MVM MIFŰ Kft. - Miskolc, Bánki Donát u. 17. | Miskolci Hőszolgáltató Kft. | 0 | 4 025 |
+| 58. | Miskolc | MVM MIFŰ Kft. – Miskolc, Bánki Donát u. 17. | Miskolci Hőszolgáltató Kft. | 0 | 4 025 |
 
-| 59. | Miskolc | MVM MIFŰ Kft. - Miskolc, Szarkahegy u. 21. | Miskolci Hőszolgáltató Kft. | 0 | 4 237 |
+| 59. | Miskolc | MVM MIFŰ Kft. – Miskolc, Szarkahegy u. 21. | Miskolci Hőszolgáltató Kft. | 0 | 4 237 |
 
 | 60. | Mohács | Dalkia Energia Zrt. | MOHÁCS-HŐ Kft. | 0 | 4 536 |
 
@@ -156,17 +156,17 @@
 
 | 76. | Siklós | Perkons SKL Kft. | SIKLÓSI TÁVHŐ Nonprofit Kft. | 0 | 4 821 |
 
-| 77. | Sopron | Dalkia Energia Zrt. | Sopron Holding Zrt. | 0 | 3 308 |
+| 77. | Sopron | Dalkia Energia Zrt. | Sopron Holding Zrt. | 0 | 4 319 |
 
 | 78. | Sopron | Soproni Erőmű Kft. | Sopron Holding Zrt. | 4 432 | 4 674 |
 
-| 79. | Százhalombatta | Dunamenti Erőmű Zrt. | "SZÁKOM" Kft. | 2 679 | 3 332 |
+| 79. | Százhalombatta | Dunamenti Erőmű Zrt. | „SZÁKOM” Kft. | 2 679 | 3 332 |
 
-| 80. | Szeged | ALFA-NOVA Kft. - 6723 Szeged, Erős János u. 1. | Szegedi Hőszolgáltató Kft. | 0 | 4 637 |
+| 80. | Szeged | ALFA-NOVA Kft. – 6723 Szeged, Erős János u. 1. | Szegedi Hőszolgáltató Kft. | 0 | 4 637 |
 
-| 81. | Szeged | ALFA-NOVA Kft. - 6723 Szeged, Temető u. 2. | Szegedi Hőszolgáltató Kft. | 0 | 4 657 |
+| 81. | Szeged | ALFA-NOVA Kft. – 6723 Szeged, Temető u. 2. | Szegedi Hőszolgáltató Kft. | 0 | 4 657 |
 
-| 82. | Szeged | ALFA-NOVA Kft. - 6724 Szeged, Fűtőmű u. 1. | Szegedi Hőszolgáltató Kft. | 0 | 4 657 |
+| 82. | Szeged | ALFA-NOVA Kft. – 6724 Szeged, Fűtőmű u. 1. | Szegedi Hőszolgáltató Kft. | 0 | 4 657 |
 
 | 83. | Szeged | Szegedi Vízmű Zrt. | Szegedi Hőszolgáltató Kft. | 0 | 1 000 |
 
@@ -186,7 +186,7 @@
 
 | 91. | Tapolca | Tapolcai Kogenerációs Erőmű Kft. | Tapolcai Városgazdálkodási Kft. | 0 | 3 564 |
 
-| 92. | Tatabánya | Kórházi Energia Központ Kft. - Tatabánya Szent Borbála Kórház | T-Szol Tatabányai Szolgáltató Zrt. | 2 619 | 4 859 |
+| 92. | Tatabánya | Kórházi Energia Központ Kft. – Tatabánya Szent Borbála Kórház | T-Szol Tatabányai Szolgáltató Zrt. | 2 619 | 4 859 |
 
 | 93. | Tatabánya | Tatabánya Erőmű Kft. | T-Szol Tatabányai Szolgáltató Zrt. | 6 175 | 4 200 |
 
