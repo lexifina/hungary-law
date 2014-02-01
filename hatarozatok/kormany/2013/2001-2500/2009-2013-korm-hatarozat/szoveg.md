@@ -8,13 +8,13 @@ Felelős: nemzeti fejlesztési miniszter
 
 Határidő: azonnal
 
-2. A Kormány a Széchenyi Kártya Program keretében 2014. január 1. és 2014. december 31. között megkötött
+2.[^2] A Kormány a Széchenyi Kártya Program keretében 2014. január 1. és 2014. december 31. között megkötött
 
 a) Széchenyi Forgóeszközhitel hitelszerződések teljes összegéhez az adott ügylet futamidejének első három évére (1096 napra) évi 2 százalékpont kamattámogatást,
 
 b) a Széchenyi Beruházási Hitel, a Széchenyi Önerő Kiegészítő Hitel és a Széchenyi Támogatást Megelőlegező Hitel hitelszerződések teljes összegéhez az adott ügylet futamidejének első három évére (1096 napra) évi 5 százalékpont kamattámogatást,
 
-valamint a hitelekhez nyújtott készfizető kezességvállalás díjának 50%-áig terjedő támogatást biztosít azzal, hogy a támogatás nem haladhatja meg a kezességi díj vetítési alapjának 0,75%-át.
+valamint a hitelekhez nyújtott készfizető kezességvállalás díjának 50%-áig terjedő támogatást biztosít azzal, hogy a támogatás nem haladhatja meg a kezességi díj vetítési alapjának 0,75%-át. Kezességi díjtámogatás csak közvetlen állami viszontgarancia mellett vállalt készfizető kezességvállalás díjához kapcsolódhat.
 
 Felelős: nemzeti fejlesztési miniszter
 
@@ -31,3 +31,5 @@ nemzeti fejlesztési miniszter
 Határidő: a források 75%-ának lekötését követő 30 napon belül
 
 5. Ez a határozat a közzétételét követő napon lép hatályba azzal, hogy a támogatási feltételekre vonatkozó rendelkezéseket a 2014. január 1-jét követően kibocsátott kártyákra és a 2014. január 1-jét követően megkötött hitelszerződésekre kell alkalmazni.
+
+[^2]: A 2. pont az 1028/2014. (I. 31.) Korm. határozat 1. pontjával megállapított szöveg.
