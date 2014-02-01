@@ -34,7 +34,7 @@
 
 15. ingatlan: a föld és a földdel alkotórészi kapcsolatban álló minden dolog,
 
-16. telek: az építménnyel be nem épített földterület, ide nem értve
+16. telek: az épülettel, épületrésszel be nem épített földterület, ide nem értve
 
 a) a belterületen fekvő termőföldet, feltéve, ha az tényleges mezőgazdasági művelés alatt áll,
 
@@ -52,7 +52,7 @@ g) a halászatról és horgászatról szóló törvény szerinti víztározó te
 
 h) az erdőt,
 
-i) az ingatlan-nyilvántartásban mocsárként nyilvántartott földterületet;
+i) az ingatlan-nyilvántartásban mocsárként nyilvántartott földterületet,
 
 17. termőföld: az ingatlan-nyilvántartásban szántó, szőlő, gyümölcsös, kert, rét, legelő (gyep), nádas, fásított terület, halastó művelési ágban nyilvántartott földrészlet;
 
