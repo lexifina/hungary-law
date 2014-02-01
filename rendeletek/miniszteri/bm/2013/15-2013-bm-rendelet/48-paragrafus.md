@@ -1,5 +1,3 @@
-## 42. Új büntetés-végrehajtási objektum működtetése (20/16)
+## 42.[^51]
 
-48. § (1) Az előirányzat célja a fogvatartottak elhelyezési lehetőségének bővítését biztosító 500 fős büntetés-végrehajtási objektum működtetési kiadásainak biztosítása.
-
-(2) Az előirányzat átcsoportosításra kerül a Büntetés-végrehajtás cím javára.
+[^51]: A 42. alcímet (48. §) a 3/2014. (I. 31.) BM rendelet 38. § (2) bekezedése hatályon kívül helyezte.

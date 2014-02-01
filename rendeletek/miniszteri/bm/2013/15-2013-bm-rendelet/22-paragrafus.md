@@ -16,10 +16,18 @@ d) a szakmai kamarák tevékenységének törvényességi felügyelete,
 
 e) a tervtanácsok feladata,
 
-f) a településrendezéshez kapcsolódó feladat.
+f) a településrendezéshez kapcsolódó feladat,
 
-(4) Az előirányzat terhére költségvetési támogatás pályázat vagy egyedi támogatás keretében nyújtható a feladatterv alapján, előfinanszírozás vagy utófinanszírozás útján, utófinanszírozás esetén előleg nyújtása lehetséges. Az előirányzat felhasználása megbízási, vállalkozási szerződés megkötésével, vagy előirányzat-átcsoportosításra szóló intézkedéssel történhet.
+g)[^25] az Építésügyi Dokumentációs és Információs Központról, valamint az Országos Építésügyi Nyilvántartásról szóló 313/2012. (XI. 8.) Korm. rendelet alapján a Lechner Lajos Tudásközpont Területi, Építésügyi, Örökségvédelmi és Informatikai Nonprofit Korlátolt Felelősségű Társaság által ellátott feladatok,
+
+h)[^26] az építésügyi szabványokkal összefüggő feladatok.
+
+(4)[^27] Az előirányzat felhasználása költségvetési támogatás nyújtása útján történik a feladatterv alapján. A költségvetési támogatás támogatási előlegként is folyósítható. Az előirányzat felhasználása megbízási, vállalkozási szerződés megkötésével vagy előirányzat-átcsoportosításra szóló intézkedéssel is történhet.
 
 (5) A miniszter az előirányzatból az építésügyi és építésfelügyeleti hatóság által elrendelt munkálatok költségeire – ha a végrehajtás elmaradása az állékonyságot, az életet és egészséget, a köz- és vagyonbiztonságot veszélyezteti, és a végrehajtás önkéntes teljesítése, valamint a megelőlegezett költség behajtása nem várható – vissza nem térítendő költségvetési támogatást nyújthat. Egyéb esetben erre a célra – a támogatási szerződésben a visszafizetésre vonatkozó határidő meghatározásával – visszatérítendő költségvetési támogatás adható.
 
 (6) Vissza nem térítendő költségvetési támogatás esetén, ha a végrehajtást elrendelő hatóság a munkálatok költségeit a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szabályai szerint a kötelezettől utóbb behajtja, az így befolyt összeget kizárólag az Étv. 50. § (2) bekezdésében meghatározott célokra fordíthatja, amelynek felhasználását a miniszter ellenőrizheti.
+
+[^25]: A 22. § (3) bekezdés g) pontját a 3/2014. (I. 31.) BM rendelet 23. §-a iktatta be.
+[^26]: A 22. § (3) bekezdés h) pontját a 3/2014. (I. 31.) BM rendelet 23. §-a iktatta be.
+[^27]: A 22. § (4) bekezdése a 3/2014. (I. 31.) BM rendelet 24. §-ával megállapított szöveg.

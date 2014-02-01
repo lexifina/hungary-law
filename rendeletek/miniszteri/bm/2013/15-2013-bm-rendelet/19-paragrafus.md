@@ -1,5 +1,13 @@
-## 13. Építésügyi monitoring rendszer kialakítása, E-közmű kialakítása (20/1/40)
+## 18. §
 
-19. § (1) Az előirányzat célja az építésügyi monitoring rendszer létrehozásának támogatása. A monitoring rendszer biztosítja az építésügy, a településfejlesztés és -rendezés körébe tartozó adatok térbeli összefüggésekkel együtt történő kezelését, a tematikus információk kinyerését, összehasonlító elemzés megtételét, a változásvizsgálatokat mind a településrendezési, mind pedig az építésügyi hatósági feladatellátás tekintetében, továbbá az E-közmű kialakítását.
+## 13. [^22] Az e-közmű üzemeltetése, fenntartása és fejlesztése (20/1/40)
 
-(2) Az előirányzat-maradvány kifizetésére a maradvány-elszámolás és az arra vonatkozó döntés függvényében kerül sor.
+19. § (1) Az előirányzat célja az egységes elektronikus közműnyilvántartásról szóló 324/2013. (VIII. 29.) Korm. rendeletben meghatározott feladatok megvalósításának finanszírozása.
+
+(2) Az előirányzat terhére egyedi döntéssel nyújtható költségvetési támogatás.
+
+(3) Az előirányzat kedvezményezettje a Lechner Lajos Tudásközpont Területi, Építésügyi, Örökségvédelmi és Informatikai Nonprofit Korlátolt Felelősségű Társaság.
+
+(4) A költségvetési támogatás támogatási előlegként is folyósítható.
+
+[^22]: A 13. alcím (19. §) a 3/2014. (I. 31.) BM rendelet 22. §-ával megállapított szöveg.

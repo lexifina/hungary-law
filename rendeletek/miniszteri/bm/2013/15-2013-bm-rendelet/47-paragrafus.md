@@ -2,4 +2,6 @@
 
 47. § (1) Az előirányzat célja a terhelt mozgását nyomon követő rendszer bevezetési és üzemeltetési kiadásainak finanszírozása.
 
-(2) Az előirányzat átcsoportosításra kerül a Rendőrség cím javára.
+(2)[^50] A költségvetési maradvány kifizetésére a maradvány-elszámolás és az arra vonatkozó döntés függvényében kerül sor.
+
+[^50]: A 47. § (2) bekezdése a 3/2014. (I. 31.) BM rendelet 34. §-ával megállapított szöveg.

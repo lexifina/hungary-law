@@ -1,5 +1,3 @@
-## 21. Szociális Családiház-építési Program támogatása (20/1/52)
+## 21.[^34]
 
-27. § (1) Az előirányzat célja a Szociális Családiház-építési Program keretében az Ócsa területén megvalósuló építési beruházás költségeinek biztosítása.
-
-(2) Az előirányzat-maradvány kifizetésére a maradvány-elszámolás és az arra vonatkozó döntés függvényében kerül sor.
+[^34]: A 21. alcímet (27. §) a 3/2014. (I. 31.) BM rendelet 38. § (2) bekezedése hatályon kívül helyezte.

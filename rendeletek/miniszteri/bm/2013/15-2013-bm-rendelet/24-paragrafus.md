@@ -2,4 +2,6 @@
 
 24. § (1) Az előirányzat a nem kielégítő védképességű elsőrendű árvízvédelmi művek védbiztonságának fejlesztését, térségükben az elvárható árvízvédelmi biztonság megteremtését, az árvizek kártételei elleni megelőző tevékenység biztosítását szolgálja. Az előirányzat terhére az árvízvédelem infrastrukturális fejlesztései, továbbá a projekt típusú beruházásokon túli egyedi töltéserősítési és védelmi képesség fokozási munkák valósíthatók meg.
 
-(2) Az előirányzat-maradvány kifizetésére a maradvány-elszámolás és az arra vonatkozó döntés függvényében kerül sor.
+(2)[^29] A költségvetési maradvány kifizetésére a maradvány-elszámolás és az arra vonatkozó döntés függvényében kerül sor.
+
+[^29]: A 24. § (2) bekezdése a 3/2014. (I. 31.) BM rendelet 37. § b) pontja szerint módosított szöveg.

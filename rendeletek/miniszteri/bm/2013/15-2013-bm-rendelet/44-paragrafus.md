@@ -4,4 +4,6 @@
 
 (2) A kedvezményezett a költségvetési támogatást a kulturális közhasznú feladatokkal összefüggő, valamint ennek végrehajtása érdekében felmerült közvetlen és közvetett költségek, ráfordítások finanszírozására használhatja fel.
 
-(3) A támogatás előfinanszírozás vagy utófinanszírozás útján kerül rendelkezésre bocsátásra. Utófinanszírozás esetén előleg nyújtása lehetséges.
+(3)[^46] Az előirányzat terhére egyedi döntéssel költségvetési támogatás nyújtható. A költségvetési támogatás támogatási előlegként is folyósítható.
+
+[^46]: A 44. § (3) bekezdése a 3/2014. (I. 31.) BM rendelet 33. §-ával megállapított szöveg.

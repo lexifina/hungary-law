@@ -1,5 +1,3 @@
-## 14. Rendőrség informatikai fejlesztési feladatainak támogatása (20/1/41)
+## 14.[^23]
 
-20. § (1) Az előirányzat célja a Rendőrség, valamint a Rendőrség tevékenységéhez kapcsolódó belügyi szervek informatikai fejlesztéseinek és eszközbeszerzéseinek finanszírozása.
-
-(2) Az előirányzat-maradvány felhasználása a kötelezettségvállalások jogosultjai részére történő kifizetéssel valósul meg.
+[^23]: A 14. alcímet (20. §) a 3/2014. (I. 31.) BM rendelet 38. § (2) bekezedése hatályon kívül helyezte.
