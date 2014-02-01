@@ -4,4 +4,8 @@
 
 (3) A biztosító az egyedi szerződéseket díjmegállapítás céljából az új biztosítási időszakot közvetlenül megelőző biztosítási időszak és az új biztosítási időszak kezdő napjai közötti időtartam kártörténeti adatai alapján az 1. melléklet szerinti táblázatban meghatározott módon a bonus-malus osztály valamelyikéhez hozzárendeli (besorolás).
 
+(3a)[^1] A biztosító a kártörténeti adatokat a (3) bekezdés szerinti besorolás céljából történő felhasználás mellett a díjtarifa szerinti további korrekciós tényezőként is figyelembe veheti.
+
 (4) A biztosító köteles a kötelező gépjármű-felelősségbiztosítási egyedi szerződéseit a bonus-malus rendszer szerint nyilvántartani.
+
+[^1]: A 2. § (3a) bekezdését a 40/2013. (IX. 30.) NGM rendelet 14. §-a iktatta be.
