@@ -1,4 +1,4 @@
-## 12. §[^15]
+## 12. §[^10]
 
 ## 4. Záró rendelkezések
 
@@ -10,4 +10,4 @@
 
 (4) A 9. § (5) bekezdése, a 10. § c) pontja és az 5. melléklet 2014. május 1-jén lép hatályba.
 
-[^15]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,1 @@
-8–9. melléklet a 7/2014. (I. 29.) EMMI rendelethez[^21]
-
-[^21]: A 8–9. melléklet a 13. § (2) bekezdése alapján 2014. február 1-jén lép hatályba.
+8. melléklet a 7/2014. (I. 29.) EMMI rendelethez
