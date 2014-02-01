@@ -18,13 +18,13 @@
 
 | 4. | Almásfüzitő | ALFEN Almásfüzitői Energetikai és Szolgáltató Kft. | 3 404 |
 
-| 5. | Baj | KOMTÁVHŐ Zrt. | 1 997 |
+| 5. | Baj | T-Szol Tatabányai Szolgáltató Zrt. | 1 997 |
 
 | 6. | Baja | Baja Energetika Kft. | 4 457 |
 
 | 7. | Balatonfüred | Füredhő Távhőszolgáltatási Kft. | 3 106 |
 
-| 8. | Berettyóújfalu | Herpály-Team Építőipari és Szolgáltató Kft. | 816 |
+| 8. | Berettyóújfalu | Herpály-Team Építőipari és Szolgáltató Kft. | 2 454 |
 
 | 9. | Bokod | Oroszlányi Szolgáltató Zrt. | 2 366 |
 
@@ -40,11 +40,11 @@
 
 | 15. | Budapest | Csepeli Hőszolgáltató Kft. | 1 616 |
 
-| 16. | Cegléd | Dalkia Energia Zrt. | 2 092 |
+| 16. | Cegléd | Dalkia Energia Zrt. | 3 260 |
 
 | 17. | Celldömölk | Cellenergo Kft. | 1 446 |
 
-| 18. | Cserkeszőlő | Községi Önkormányzat Fürdő és Gyógyászati Központ | 0 |
+| 18. | Cserkeszőlő | Cserkeszőlő Fürdő és Gyógyászati Központ | 0 |
 
 | 19. | Csongrád | Csongrádi Közmű Szolgáltató Kft. | 3 611 |
 
@@ -54,13 +54,13 @@
 
 | 22. | Debrecen | DotEnergo Energetikai és Épületgépészeti Zrt. | 0 |
 
-| 23. | Dombóvár | Dalkia Energia Zrt. | 1 216 |
+| 23. | Dombóvár | Dalkia Energia Zrt. | 1 812 |
 
 | 24. | Dorog | PROMTÁVHŐ Szolgáltató Kft. | 2 932 |
 
-| 25. | Dunakeszi | Dunakeszi Közüzemi Kft. | 1 554 |
+| 25. | Dunakeszi | Dunakeszi Közüzemi Nonprofit Kft. | 1 834 |
 
-| 26. | Dunaújváros | Dunaújvárosi Víz-,Csatorna-Hőszolgáltató Kft. | 2 838 |
+| 26. | Dunaújváros | Dunaújvárosi Víz-, Csatorna-Hőszolgáltató Kft. | 2 838 |
 
 | 27. | Eger | EVAT Egri Vagyonkezelő és Távfűtő Zrt. | 2 003 |
 
@@ -68,7 +68,7 @@
 
 | 29. | Esztergom | PROMTÁVHŐ Szolgáltató Kft. | 1 927 |
 
-| 30. | Gödöllő | Gödöllői Távhőszolgáltató Kft. | 1 177 |
+| 30. | Gödöllő | Gödöllői Távhőszolgáltató Kft. | 2 020 |
 
 | 31. | Gyöngyös | Városgondozási Zrt. | 1 096 |
 
@@ -86,9 +86,9 @@
 
 | 38. | Kaposvár | Kaposvári Önkormányzati Vagyonkezelő és Szolgáltató Zrt. | 3 088 |
 
-| 39. | Kapuvár | Kapuvári Hőszolgáltató Kft. | 3 663 |
+| 39. | Kapuvár | Kapuvári Hőszolgáltató Kft. | 4 954 |
 
-| 40. | Kazincbarcika | Barcika Szolg Vagyonkezelő és Szolgáltató Korlátolt Felelősségű Társaság | 3 729 |
+| 40. | Kazincbarcika | Barcika Szolg Kft. | 3 729 |
 
 | 41. | Kecskemét | Kecskeméti Termostar Hőszolgáltató Kft. | 2 520 |
 
@@ -106,7 +106,7 @@
 
 | 48. | Körmend | RÉGIÓHŐ Regionális Hőszolgáltató Kft. | 1 626 |
 
-| 49. | Kőszeg | Kőszegi Távhőszolgáltató Kft. | 1 427 |
+| 49. | Kőszeg | Kőszegi Távhőszolgáltató Kft. | 2 392 |
 
 | 50. | Makó | Makói Kommunális Nonprofit Kft | 2 941 |
 
@@ -116,7 +116,7 @@
 
 | 53. | Miskolc | Miskolci Hőszolgáltató Kft. | 3 889 |
 
-| 54. | Mohács | MOHÁCS-HŐ Kft. | 2 942 |
+| 54. | Mohács | MOHÁCS-HŐ Kft. | 3 324 |
 
 | 55. | Mór | MÓRHŐ Kft. | 2 915 |
 
@@ -124,7 +124,7 @@
 
 | 57. | Nagyatád | Cothec Kft. | 3 042 |
 
-| 58. | Nagykőrös | Kőrösi Vagyonkezelő Zrt. | 1 372 |
+| 58. | Nagykőrös | Köva-Kom Nonprofit Zrt. | 1 372 |
 
 | 59. | Nyergesújfalu | DISTHERM Kft. | 1 182 |
 
@@ -136,13 +136,13 @@
 
 | 63. | Oroszlány | Oroszlányi Szolgáltató Zrt. | 972 |
 
-| 64. | Ózd | Ózdi Távhőtermelő és Szolgáltató Kft. | 2 481 |
+| 64. | Ózd | Ózdi Távhőtermelő és Szolgáltató Kft. | 3 133 |
 
 | 65. | Paks | Duna Center Therm Kft. | 575 |
 
 | 66. | Pécs | PÉTÁV Pécsi Távfűtő Kft. | 1 377 |
 
-| 67. | Pétfürdő | "PÉTKOMM" Kft. | 1 724 |
+| 67. | Pétfürdő | „PÉTKOMM” Kft. | 1 724 |
 
 | 68. | Pétfürdő | Nitrogénművek Zrt. | 0 |
 
@@ -164,15 +164,15 @@
 
 | 77. | Siklós | SIKLÓSI TÁVHŐ Nonprofit Kft. | 2 673 |
 
-| 78. | Siófok | Termofok Kft. | 3 243 |
+| 78. | Siófok | Balaton-parti Kft. | 3 243 |
 
-| 79. | Sopron | SOPRON Holding Zrt. | 1 873 |
+| 79. | Sopron | SOPRON Holding Zrt. | 2 875 |
 
 | 80. | Sopron | Soproni Erőmű Kft. | 0 |
 
 | 81. | Szarvas | Szarvasi Gyógy-Termál Kft. | 423 |
 
-| 82. | Százhalombatta | "SZÁKOM" Kft. | 1 279 |
+| 82. | Százhalombatta | „SZÁKOM” Kft. | 1 279 |
 
 | 83. | Szeged | Szegedi Hőszolgáltató Kft. | 2 034 |
 
@@ -188,7 +188,7 @@
 
 | 89. | Szentlőrinc | Szentlőrinci Közüzemi Közhasznú Nonprofit Kft. | 2 641 |
 
-| 90. | Szigetszentmiklós | ARIES Ipari, Kereskedelmi és Szolgáltató Kft. | 1 840 |
+| 90. | Szigetszentmiklós | ARIES Ipari, Kereskedelmi és Szolgáltató Kft. | 3 325 |
 
 | 91. | Szigetvár | Szigetvári Távhő Szolgáltató Kft. | 2 880 |
 
@@ -212,7 +212,7 @@
 
 | 101. | Veresegyház | Veresegyház Városi Önkormányzat Gazdasági Műszaki Ellátó Szervezet | 0 |
 
-| 102. | Veszprém | "VKSZ" Veszprémi Közüzemi Szolgáltató Zrt. | 2 904 |
+| 102. | Veszprém | „VKSZ” Veszprémi Közüzemi Szolgáltató Zrt. | 2 904 |
 
 | 103. | Záhony | Hőtáv Kft. | 3 177 |
 
@@ -257,4 +257,4 @@
 | 15. | Szombathely | Dalkia Energia Energiaszolgáltató Zrt. | Vas Megyei Markusovszky Kórház Nonprofit Zrt. | 1 553 |
 
 [^17]: A 10. § az 59/2012. (X. 31.) NFM rendelet 11. §-ával megállapított szöveg.
-[^18]: Az 1. melléklet a 83/2011. (XII. 29.) NFM rendelet 22. §-a, a 2/2012. (I. 31.) NFM rendelet 4. §-a, a 21/2012. (IV. 27.) NFM rendelet 3. §-a, az 59/2012. (X. 31.) NFM rendelet 12. § (1) bekezdése, a 78/2012. (XII. 22.) NFM rendelet 47. §-a, a 64/2013. (X. 30.) NFM rendelet 16. § (1) bekezdése szerint módosított szöveg.
+[^18]: Az 1. melléklet a 83/2011. (XII. 29.) NFM rendelet 22. §-a, a 2/2012. (I. 31.) NFM rendelet 4. §-a, a 21/2012. (IV. 27.) NFM rendelet 3. §-a, az 59/2012. (X. 31.) NFM rendelet 12. § (1) bekezdése, a 78/2012. (XII. 22.) NFM rendelet 47. §-a, a 64/2013. (X. 30.) NFM rendelet 16. § (1) bekezdése, a 4/2014. (I. 31.) NFM rendelet 3. §-a szerint módosított szöveg.
