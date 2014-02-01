@@ -1,0 +1,5 @@
+6. § (1) A támogatási igényeket a (3) bekezdés szerinti tárcaközi bizottság a 3. §-ban foglalt szempontok szerint megvizsgálja, és javaslatot tesz a lakossági ivóvíz- és csatornaszolgáltatás fajlagos ráfordításai támogatásának odaítélésénél figyelembe vehető tényleges küszöbértékekre, továbbá a támogatásban részesíthető települési önkormányzatok körére. A küszöbértékek nem lehetnek alacsonyabbak, mint az 1. § (1) bekezdés e) pontjában meghatározott értékek.
+
+(2) Ha az (1) bekezdés szerinti küszöbértékek alapján a támogatásban részesíthető települési önkormányzatok számára megítélhető összes támogatás meghaladja a rendelkezésre álló keretet, a tárcaközi bizottság javaslatot tesz a települési önkormányzatonkénti támogatási összegek egységes mértékben történő csökkentésére.
+
+(3) A tárcaközi bizottság a miniszter, az államháztartásért felelős miniszter, a víziközmű-szolgáltatásért felelős miniszter, az egészségügyért felelős miniszter és a MEKH elnöke által delegált egy-egy tagból áll. A tárcaközi bizottság elnöke a miniszter által delegált tag.
