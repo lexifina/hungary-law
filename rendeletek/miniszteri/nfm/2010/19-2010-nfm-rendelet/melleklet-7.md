@@ -16,8 +16,8 @@ A GET 141/B. § (15) bekezdés b) pontjában meghatározott engedélyes által f
 
 | 1. |  | 2014. január | 2014. február | 2014. március |
 
-| 2. | kapcsolt termelésszerkezet átalakítási hozzájárulás (milliárd forint) | 0 | 0 | 0 |
+| 2. | kapcsolt termelésszerkezet átalakítási hozzájárulás (milliárd forint) | 0 | 7,6 | 0 |
 
 | 3. | kiegyenlítő hozzájárulás (forint/MJ) | 0 | 0 | 0 |
 
-[^30]: A 7. mellékletet a 34/2013. (VI. 27.) NFM rendelet 1. § (7) bekezdése iktatta be, szövege a 75/2013. (XII. 16.) NFM rendelet 7. §-ával megállapított szöveg.
+[^30]: A 7. mellékletet a 34/2013. (VI. 27.) NFM rendelet 1. § (7) bekezdése iktatta be, szövege a 75/2013. (XII. 16.) NFM rendelet 7. §-ával megállapított, a 4/2014. (I. 31.) NFM rendelet 1. §-a szerint módosított szöveg.
