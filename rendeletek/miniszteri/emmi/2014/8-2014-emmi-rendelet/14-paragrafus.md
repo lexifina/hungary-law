@@ -1,3 +1,0 @@
-## 13. § A Rendelet 23. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-## „(4) A gyermek nevelését ellátó óvoda, nevelését, oktatását ellátó iskola a felülvizsgálati eljárást – tanévenként legfeljebb egy alkalommal – bármikor kezdeményezheti, amelyről – a felülvizsgálat szükségességének indokolásával – a szülőt tájékoztatni köteles. Sajátos nevelési igényű gyermek esetében, az óvodai vagy iskolai kezdeményezésre történő felülvizsgálat lefolytatásakor a felülvizsgálat részeként, a szakértői bizottság egy tagja legalább egy teljes napot a gyermek óvodai csoportjában, a tanuló iskolai osztályában hospitál, megfigyeléseiről feljegyzést készít.”
