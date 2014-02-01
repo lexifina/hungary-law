@@ -1,0 +1,1 @@
+## 16. § Az e rendelet hatálybalépését megelőzően a fertőző betegségek jelentésére és helyesbítésére használt papíralapú jelentőlapok 2014. december 31-ig használhatóak, ezen időpontig a jelentőlapok postai úton díjmentesítve is továbbíthatóak.

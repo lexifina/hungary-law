@@ -1,0 +1,1 @@
+## 17. § A 14. § (1) bekezdése az Európai Betegségmegelőzési és Járványvédelmi Központ létrehozásáról szóló 2004. április 21-i 851/2004/EK európai parlamenti és tanácsi rendelet 4., 8. és 11. cikkében foglaltak végrehajtásához szükséges rendelkezéseket állapít meg.
