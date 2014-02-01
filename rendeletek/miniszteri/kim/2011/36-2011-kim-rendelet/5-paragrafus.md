@@ -6,7 +6,9 @@ b) a vállalkozások statisztikai célú nyilvántartása közös keretének lé
 
 Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
-| ÖVTJ-kód 2013 | ÖVTJ 2013 megnevezés |
+Önálló vállalkozók tevékenységi jegyzéke (ÖVTJ)
+
+| ÖVTJ-kód 2014 | ÖVTJ 2014 megnevezés |
 
 | 01 | Növénytermesztés, állattenyésztés, vadgazdálkodás és kapcsolódó szolgáltatások |
 
@@ -358,31 +360,41 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 1011 | Húsfeldolgozás, -tartósítás |
 
-| 101101 | Húsfeldolgozás, -tartósítás m.n.s. |
+| 101101 | Húsfeldolgozás, -tartósítás m.n.s. (nem saját termelésű alapanyagból) |
 
 | 101102 | Vágóállatok vágása |
 
+| 101103 | Húsfeldolgozás, -tartósítás m.n.s. (saját termelésű alapanyagból) |
+
 | 1012 | Baromfihús feldolgozása, tartósítása |
 
-| 101201 | Baromfihús feldolgozása, tartósítása m.n.s. |
+| 101201 | Baromfihús feldolgozása, tartósítása m.n.s. (nem saját termelésű alapanyagból) |
 
 | 101202 | Baromfikopasztás |
 
+| 101203 | Baromfihús feldolgozása, tartósítása m.n.s. (saját termelésű alapanyagból) |
+
 | 1013 | Hús-, baromfihús-készítmény gyártása |
 
-| 101301 | Húskészítmény gyártása |
+| 101301 | Húskészítmény gyártása (nem saját termelésű alapanyagból) |
 
-| 101302 | Baromfihús-készítmény gyártása |
+| 101302 | Baromfihús-készítmény gyártása (nem saját termelésű alapanyagból) |
 
 | 101303 | Hús-, baromfihús-készítmény gyártástól elkülönült füstölése |
 
 | 101304 | Húskonzervek gyártása |
 
+| 101305 | Húskészítmény gyártása (saját termelésű alapanyagból) |
+
+| 101306 | Baromfihús-készítmény gyártása (saját termelésű alapanyagból) |
+
 | 102 | Halfeldolgozás, -tartósítás |
 
 | 1020 | Halfeldolgozás, -tartósítás |
 
-| 102001 | Halfeldolgozás, -tartósítás |
+| 102001 | Halfeldolgozás, -tartósítás (nem saját termelésű alapanyagból) |
+
+| 102002 | Halfeldolgozás, -tartósítás (saját termelésű alapanyagból) |
 
 | 103 | Gyümölcs-, zöldségfeldolgozás, -tartósítás |
 
@@ -498,13 +510,17 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 108301 | Tea, kávé feldolgozása |
 
-| 108302 | Gyógytea feldolgozása |
+| 108302 | Gyógytea feldolgozása (nem saját termelésű alapanyagból) |
+
+| 108303 | Gyógytea feldolgozása (saját termelésű alapanyagból) |
 
 | 1084 | Fűszer, ételízesítő gyártása |
 
-| 108401 | Fűszer, ételízesítő gyártása m.n.s. |
+| 108401 | Fűszer, ételízesítő gyártása m.n.s. (nem saját termelésű alapanyagból) |
 
 | 108402 | Paprika darálása, mesterséges szárítása |
+
+| 108403 | Fűszer, ételízesítő gyártása m.n.s. (saját termelésű alapanyagból) |
 
 | 1085 | Készétel gyártása |
 
@@ -1364,7 +1380,7 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 259903 | Népi iparművészeti és iparművészeti fémműves termék készítése |
 
-| 259904 | Háztartási és egyébfém tömegcikk gyártása |
+| 259904 | Háztartási és egyéb fém tömegcikk gyártása |
 
 | 259905 | Bronz, rézműves díszműáru és hasonló termék gyártása |
 
@@ -1614,9 +1630,9 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 293101 | Járművillamossági, -elektronikai készülékek gyártása |
 
-| 2932 | Közúti jármű, járműmotor alkatrészeinek gyártása |
+| 2932 | Közúti jármű alkatrészeinek gyártása |
 
-| 293201 | Közúti gépjármű, gépjárműmotor alkatrészeinek gyártása |
+| 293201 | Közúti gépjármű alkatrészeinek gyártása |
 
 | 30 | Egyéb jármű gyártása |
 
@@ -2068,7 +2084,7 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 3811 | Nem veszélyes hulladék gyűjtése |
 
-| 381101 | Szilárd hulladék gyűjtése, kezelése |
+| 381101 | Nem veszélyes hulladék gyűjtése, kezelése |
 
 | 381102 | Brikett, pellet gyártása nem veszélyes hulladékból (fafeldolgozás hulladékából, más ipari és háztartási hulladékból) |
 
@@ -3016,15 +3032,11 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 477601 | Virág-, koszorú-, dísznövény-kiskereskedelem |
 
-| 477602 | Hobbiállat eledel és takarmány kiskereskedelem |
+| 477602 | Hobbiállat, -eledel és takarmány kiskereskedelem |
 
 | 477603 | Dísznövényi szaporítóanyag kiskereskedelem |
 
 | 477604 | Műtrágya és agrokémiai termék kiskereskedelem |
-
-| 477605 | Mezőgazdasági felhasználású anyagok kiskereskedelme |
-
-| 477606 | Termény-, takarmány-, egyéb mezőgazdasági termék kiskereskedelme |
 
 | 477607 | Díszállat- és díszhal-kiskereskedelem |
 
@@ -3043,6 +3055,8 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 | 477804 | Háztartási vegyiáru kiskereskedelem |
 
 | 477806 | Pincegazdasági és felszerelési cikk kiskereskedelme |
+
+| 477807 | Mezőgazdasági felhasználású anyagok kiskereskedelme |
 
 | 477808 | Fotó-, optikai cikk kiskereskedelme |
 
@@ -3069,6 +3083,8 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 | 477821 | Szemléltetőeszköz kiskereskedelem |
 
 | 477822 | Szexuális áru kiskereskedelem |
+
+| 477823 | Termény-, takarmány-, egyéb mezőgazdasági termék kiskereskedelme |
 
 | 477824 | Palackosgáz-kiskereskedelem |
 
@@ -3102,6 +3118,8 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 478101 | Élelmiszer, alkoholmentes ital piaci kiskereskedelme |
 
+| 478102 | Élelmiszer, alkoholmentes ital kiskereskedelmi értékesítése közterületen |
+
 | 4782 | Textil, ruházat, lábbeli piaci kiskereskedelme |
 
 | 478201 | Textil, ruházat, lábbeli piaci kiskereskedelme |
@@ -3109,6 +3127,8 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 | 4789 | Egyéb áruk piaci kiskereskedelme |
 
 | 478901 | Egyéb áruk piaci kiskereskedelme |
+
+| 478902 | Egyéb áruk értékesítése közterületen |
 
 | 479 | Nem bolti, piaci kiskereskedelem |
 
@@ -3120,11 +3140,9 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 479901 | Egyéb nem bolti kiskereskedelem |
 
-| 479902 | Házaló kereskedelem |
-
 | 479903 | Értékesítés automatán keresztül |
 
-| 479904 | Ügynöki kiskereskedelem |
+| 479904 | Üzleten kivüli kiskereskedelem |
 
 | 479906 | Tüzelőanyag kiskereskedelme házhoz szállítással |
 
@@ -3337,6 +3355,8 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 | 552009 | Közösségi szálláshely-szolgáltatás: hegyi menedékház |
 
 | 552010 | Közösségi szálláshely-szolgáltatás: vendégszállás |
+
+| 552011 | Falusi szálláshely-szolgáltatás |
 
 | 553 | Kempingszolgáltatás |
 
@@ -3766,6 +3786,8 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 711110 | Területrendezési tervezés |
 
+| 711111 | Településrendezési szakértő |
+
 | 7112 | Mérnöki tevékenység, műszaki tanácsadás |
 
 | 711201 | Építészeti műszaki tervezés (kivéve: építészmérnökök) |
@@ -3774,7 +3796,7 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 711203 | Geológiai, geofizikai szolgáltatás |
 
-| 711204 | Földmérés, térképészet, távérzékelés |
+| 711204 | Földmérés, térképészet |
 
 | 711206 | Beruházás lebonyolítói tevékenység |
 
@@ -3794,11 +3816,13 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 711215 | Igazságügyi szakértés lakás- és építésügyi, területrendezési területen |
 
-| 711216 | Építésügyi műszaki ellenőrzés (technikus) |
+| 711216 | Építési műszaki ellenőrzés (technikus) |
 
 | 711217 | Felelős műszaki vezetés (technikus) |
 
 | 711218 | Ipari tevékenységhez kapcsolódó technikusi tevékenység |
+
+| 711219 | Távérzékelés |
 
 | 712 | Műszaki vizsgálat, elemzés |
 
@@ -3809,6 +3833,8 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 | 712002 | Közúti közlekedési eszközök műszaki vizsgálata |
 
 | 712003 | Energetikai tanúsító tevékenység |
+
+| 712004 | Gáz csatlakozó vezeték és felhasználói berendezés műszaki-biztonsági felülvizsgálata |
 
 | 72 | Tudományos kutatás, fejlesztés |
 
@@ -4079,18 +4105,6 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 | 7810 | Munkaközvetítés |
 
 | 781001 | Munkaközvetítés |
-
-| 782 | Munkaerőkölcsönzés |
-
-| 7820 | Munkaerőkölcsönzés |
-
-| 782001 | Munkaerőkölcsönzés |
-
-| 783 | Egyéb emberierőforrás-ellátás, -gazdálkodás |
-
-| 7830 | Egyéb emberierőforrás-ellátás, -gazdálkodás |
-
-| 783001 | Egyéb emberierőforrás-ellátás, -gazdálkodás |
 
 | 79 | Utazásközvetítés, utazásszervezés, egyéb foglalás |
 
@@ -4448,6 +4462,10 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 872005 | Szenvedélybetegek rehabilitációs intézményének működtetése |
 
+| 872006 | Támogatott lakhatás pszichiátriai betegek részére |
+
+| 872007 | Támogatott lakhatás szenvedélybetegek részére |
+
 | 873 | Idősek, fogyatékosok bentlakásos ellátása |
 
 | 8730 | Idősek, fogyatékosok bentlakásos ellátása |
@@ -4457,6 +4475,8 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 | 873002 | Fogyatékos személyek lakóotthona |
 
 | 873003 | Fogyatékos személyek rehabilitációs intézménye |
+
+| 873004 | Támogatott lakhatás fogyatékos személyek részére |
 
 | 879 | Egyéb bentlakásos ellátás |
 
@@ -4491,6 +4511,8 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 | 879014 | Speciális gyermek- és lakásotthon működtetése |
 
 | 879015 | Utógondozó otthon működtetése |
+
+| 879016 | Támogatott lakhatás hajléktalan személyek részére |
 
 | 88 | Szociális ellátás bentlakás nélkül |
 
@@ -4659,6 +4681,8 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 | 931905 | Sport- és szabadidős lovagoltatás |
 
 | 931906 | Sportszakemberek tevékenysége |
+
+| 931907 | Lovasterápia |
 
 | 932 | Egyéb szórakoztatás, szabadidős tevékenység |
 
@@ -4866,4 +4890,4 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 990002 | Adómentes termékimportot megalapozó közösségen belüli termékértékesítés |
 
-[^2]: A melléklet szövege a 14/2013. (VII. 9.) KIM rendelet 1. §-ával megállapított szöveg.
+[^2]: A melléklet szövege a 6/2014. (I. 29.) KIM rendelet 1. §-ával megállapított szöveg.
