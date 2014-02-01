@@ -34,10 +34,10 @@ távolságon belüli terület.
 
 (3) A nukleáris létesítmény nukleáris biztonságával kapcsolatos eljárás megindítására irányuló kérelmet kizárólag az eljárásra hatáskörrel rendelkező hatóságnál lehet előterjeszteni.
 
-(4) A kérelemre indult eljárásban – az eljárás megindítására irányuló kérelmet benyújtó ügyfelet kivéve – az ügyfelet értesíteni kell az eljárás megindításáról:
+(4) Az atomenergia-felügyeleti szerv az (1) bekezdés a) pontjában meghatározott eljárásaiban a döntése meghozatala előtt – a nyilvánosság véleményének megismerése érdekében – közmeghallgatást tart.
 
-a) a 17. § (2) bekezdés 1., 5. és 10. pontja szerinti kérelem beérkezésétől számított harminc napon belül,
+(5) Az atomenergia-felügyeleti szerv a közmeghallgatás helyéről és időpontjáról a közmeghallgatást megelőzően kormányrendeletben meghatározott határidőben
 
-b) a 17. § (2) bekezdés 3., 4., 6–9. pontja szerinti kérelem beérkezésétől számított tizenöt napon belül.
+a) hirdetményi úton, valamint a honlapján történő közzététel útján értesíti az érintetteket,
 
-(5) Ha az ügyfél a kérelmet hiányosan nyújtotta be, őt az atomenergia-felügyeleti szerv a 17. § (2) bekezdés 1. pont b) alpontja, 5. és 10. pontja szerinti eljárásoknál a kérelem beérkezésétől számított négy hónapon belül, a 17. § (2) bekezdés 1. pont a) alpontja, valamint 3., 4. és 6–9. pontja szerinti eljárásoknál a kérelem beérkezésétől számított harminc napon belül hiánypótlásra hívja fel.
+b) értesíti az eljárásban közreműködő szakhatóságot.
