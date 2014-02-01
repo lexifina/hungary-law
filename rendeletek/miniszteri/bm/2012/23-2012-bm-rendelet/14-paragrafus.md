@@ -1,3 +1,5 @@
+## 13/A. §[^22] A pályázati kiírás közzétételének időpontját a Felelős Személy határozza meg.
+
 14. § (1) Projekt többéves projektként akkor valósítható meg, ha
 
 a) a projekt célja érdekében megvalósítandó beruházás, tevékenység jellege és a lebonyolításához szükséges időtartama ezt feltétlenül indokolja, valamint
@@ -10,4 +12,7 @@ b) a pályázati felhívás lehetőséget ad rá és meghatározza az egyéb fel
 
 (4) A Felelős Hatóság kötelezettséget csak az Európai Bizottság által jóváhagyott allokáció terhére vállal.
 
-(5) A támogatási szerződés és a közvetlen támogatási szerződés évente kerül megkötésre, amelynek alkalmával az előző év tapasztalatai alapján a projektet a végrehajtás objektív körülményeire tekintettel felül kell vizsgálni. A felülvizsgálat eredményeképpen a projekt újraértékelésre kerül, melynek eredményétől függően tervezett költségvetése és indikátorai, valamint ezek alapján a tervezett támogatási összege módosíthatóak.
+(5)[^23] A támogatási szerződés évente kerül megkötésre, amelynek alkalmával az előző év tapasztalatai alapján a projektet a végrehajtás objektív körülményeire tekintettel felül kell vizsgálni. A felülvizsgálat eredményeképpen a projekt újraértékelésre kerül, melynek eredményétől függően tervezett költségvetése és indikátorai, valamint ezek alapján a tervezett támogatási összege módosíthatóak.
+
+[^22]: A 13/A. §-t a 3/2014. (I. 31.) BM rendelet 6. §-a iktatta be.
+[^23]: A 14. § (5) bekezdése a 3/2014. (I. 31.) BM rendelet 13. § (1) bekezdés b) pontja szerint módosított szöveg.

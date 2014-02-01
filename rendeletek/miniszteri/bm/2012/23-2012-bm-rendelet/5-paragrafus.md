@@ -1,11 +1,5 @@
-## 4. § A Felelős Személy a miniszter által kijelölt, a miniszter nevében eljáró személy, aki a Felelős Hatóság nevében meghozza a 2007/573/EK európai parlamenti és tanácsi határozat 27. cikkében, a 2007/575/EK európai parlamenti és tanácsi határozat 27. cikkében, a 2007/574/EK európai parlamenti és tanácsi határozat 29. cikkében, a 2007/435/EK tanácsi határozat 25. cikkében, továbbá e rendeletben meghatározott, a Felelős Hatóság feladatainak ellátása érdekében szükséges döntéseket, kötelezettséget vállal a Felelős Hatóság intézkedéseiért és jóváhagyja azok végrehajtását.
+5. §[^14] (1) A Hitelesítő Hatóság a miniszter által vezetett minisztériumnak a miniszter által a kiadásigazoló nyilatkozat Európai Bizottsághoz való benyújtását megelőző igazolására kijelölt, a Felelős Hatóságtól független szervezeti egysége.
 
-## 5. § A Hitelesítő Hatóság ellátja
+(2) A Felelős Hatóság ellátja a 2007/573/EK európai parlamenti és tanácsi határozat 29. cikkében, a 2007/575/EK európai parlamenti és tanácsi határozat 29. cikkében, a 2007/574/EK európai parlamenti és tanácsi határozat 31. cikkében és a 2007/435/EK tanácsi határozat 27. cikkében meghatározott feladatokat.
 
-a) a 2007/573/EK európai parlamenti és tanácsi határozat 29. cikkében,
-
-b) a 2007/575/EK európai parlamenti és tanácsi határozat 29. cikkében,
-
-c) a 2007/574/EK európai parlamenti és tanácsi határozat 31. cikkében, továbbá
-
-d) a 2007/435/EK tanácsi határozat 27. cikkében meghatározott feladatokat.
+[^14]: Az 5. § a 3/2014. (I. 31.) BM rendelet 3. §-ával megállapított szöveg.

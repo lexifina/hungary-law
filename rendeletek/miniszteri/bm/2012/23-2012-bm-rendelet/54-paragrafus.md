@@ -1,4 +1,4 @@
-54. § (1)[^20] A miniszter a jogorvoslati kérelem tárgyában a következő döntéseket hozhatja:
+54. § (1)[^50] A miniszter a jogorvoslati kérelem tárgyában a következő döntéseket hozhatja:
 
 a) a szabálytalansági döntést helybenhagyja,
 
@@ -14,4 +14,4 @@ d) a szabálytalansági döntést megsemmisíti, és új szabálytalansági elj�
 
 (4) A miniszter jogorvoslati kérelem tárgyában hozott döntése ellen további jogorvoslati kérelmet a miniszter részére előterjeszteni nem lehet.
 
-[^20]: Az 54. § (1) bekezdése a 12/2013. (IV. 23.) BM rendelet 9. §-ával megállapított szöveg.
+[^50]: Az 54. § (1) bekezdése a 12/2013. (IV. 23.) BM rendelet 9. §-ával megállapított szöveg.

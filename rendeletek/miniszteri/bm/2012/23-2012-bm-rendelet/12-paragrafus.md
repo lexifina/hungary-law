@@ -44,4 +44,9 @@ i) a pályázati adatlaphoz csatolandó mellékletek listáját.
 
 (4) A zárt kétfordulós kiválasztási eljárás első fordulója során benyújtott előzetes projekt adatlap az Ávr. 67. § (1) bekezdésében foglaltakon túl a (3) bekezdés a) és c)–d) pontjaiban szereplő elemeket tartalmazza azzal, hogy a (3) bekezdés c) pontja tekintetében a Külső Határok Alap esetében a Magyar Köztársaság Külső Határok Alap Nemzeti Program vonatkozó előírásaira is hivatkozni kell. Az előzetes projekt adatlap tartalmazza továbbá a projekt költségvetését és azt az indokot, amely alapján a végső kedvezményezett közvetlen támogatásra jogosult. Az Ávr. 67. § (1) bekezdésében foglaltakon túl a (3) bekezdés b) és e)–i) pontjaiban szereplő elemek részletes kidolgozását a második fordulóban kitöltendő részletes projekt adatlap tartalmazza.
 
-(5) Az egyszerűsített kiválasztási eljárás esetén a pályázati útmutató és a pályázati adatlap vonatkozásában a (2) és (3) bekezdésben foglaltakat kell alkalmazni azzal, hogy a pályázati útmutatónak nem kell tartalmaznia a (2) bekezdés e) pontjában meghatározott tartalmi elemeket, a pályázati adatlap pedig nem foglalja magában a (3) bekezdés c), e), g) pontjában szereplő elemeket.
+(5)[^19] Az egyszerűsített kiválasztási eljárás esetén a pályázati útmutató és a pályázati adatlap vonatkozásában a (2) és (3) bekezdésben foglaltakat kell alkalmazni azzal, hogy a pályázati útmutatónak nem kell tartalmaznia a (2) bekezdés e) pontjában meghatározott tartalmi elemeket, a pályázati adatlap pedig nem foglalja magában a (3) bekezdés c), e), pontjában szereplő elemeket.
+
+(6)[^20] A támogatási kérelem benyújtása esetén a (3) bekezdést kell alkalmazni azzal, hogy a támogatási kérelem a (3) bekezdés c), e) és i) pontjában foglaltak helyett a támogatás igénylőjének az Áht. 50. § (1) bekezdésének való megfelelésére vonatkozó nyilatkozatát tartalmazza.
+
+[^19]: A 12. § (5) bekezdése a 3/2014. (I. 31.) BM rendelet 13. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^20]: A 12. § (6) bekezdését a 3/2014. (I. 31.) BM rendelet 5. §-a iktatta be.

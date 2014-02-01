@@ -1,0 +1,1 @@
+## 61. § E rendeletet a 2007–2013. közötti programozási időszakban a Szolidaritási programokból származó támogatások felhasználásának alapvető szabályairól, intézményrendszeréről, a pénzügyi irányítási és ellenőrzési rendszerekről szóló 14/2011. (IV. 19.) BM rendelet alapján vállalt kötelezettségekre nézve is alkalmazni kell.
