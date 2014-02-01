@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-24-20-0
 | 2013-01-19 | 2005-24-20-0L.16 | 58/2011. (XI. 24.) NFM rendelet |
 | 2013-08-15 | 2005-24-20-0L.17 | 45/2013. (VIII. 7.) NFM rendelet |
 | 2013-10-01 | 2005-24-20-0L.18 | 45/2013. (VIII. 7.) NFM rendelet |
+| 2014-02-01 | 2005-24-20-0L.19 | 2/2014. (I. 24.) NFM rendelet |

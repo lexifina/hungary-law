@@ -1,3 +1,3 @@
-5. melléklet a 24/2005. (IV. 21.) GKM rendelethez[^225]
+5. melléklet a 24/2005. (IV. 21.) GKM rendelethez[^230]
 
-[^225]: Az 5. melléklet az 58/2011. (XI. 24.) NFM rendelet 39. § (5) bekezdésével megállapított szöveg.
+[^230]: Az 5. melléklet az 58/2011. (XI. 24.) NFM rendelet 39. § (5) bekezdésével megállapított szöveg.

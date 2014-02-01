@@ -1,24 +1,24 @@
 ## „A 2003. év december 1-jét követően oktatásba bevont járművekre vonatkozó előírások
 
-## 1.[^226] A járművek követelményei kategóriánként
+## 1.[^231] A járművek követelményei kategóriánként
 
 ## „A1” alkategória
 
-## olyan kétkerekű motorkerékpár, amely hengerűrtartalma a 125 cm3-t, teljesítménye a 11 kW-ot, teljesítmény/tömeg aránya pedig a 0,1 kW/kg-ot nem haladja meg.
+## Olyan kétkerekű motorkerékpár, amelynek teljesítménye a 11 kW-ot és teljesítmény/tömeg aránya a 0,1 kW/kg-ot nem haladja meg, továbbá legalább 90 km/h sebesség elérésére alkalmas. A belsőégésű motor hengerűrtartalma legalább 120 cm3, elektromos meghajtás esetében a teljesítmény/tömeg arány legalább 0,08 kW/kg.
 
 ## „AM” kategória:
 
-## AM kategóriába tartozó
+## „AM” kategóriába tartozó kétkerekű jármű, amelynek tervezési sebessége nem több mint 45 km/h (kivéve azokat a kétkerekű járműveket, amelyek tervezési sebessége 25 km/h-t nem haladja meg), a motor hengerűrtartalma nem nagyobb 50 cm3-nél vagy a motor legnagyobb hasznos motorteljesítménye nem több 4 kW-nál.
 
-## – két- vagy háromkerekű jármű, amelynek legnagyobb tervezési sebessége a 25 km/órát meghaladja, de nem több mint 45 km/óra, a motor hengerűrtartalma nem nagyobb 50 cm3-nél vagy a motor legnagyobb hasznos motorteljesítménye nem több 4 kW-nál,
+## „A” kategória:
 
-## – könnyű négykerekű motorkerékpár, amelyek terheletlen tömege (az akkumulátor tömegét nem számítva) kevesebb 350 kg-nál, amelynek legnagyobb tervezési sebessége a 25 km/órát meghaladja, de nem több mint 45 km/óra, a motor hengerűrtartalma nem nagyobb 50 cm3-nél vagy a motor legnagyobb hasznos motorteljesítménye nem több 4 kW-nál.
+## 2018. december 31-éig: „A” kategóriába tartozó oldalkocsi nélküli kétkerekű motorkerékpár, legalább 595 cm3 hengerűrtartalommal és legalább 40 kW motorteljesítménnyel.
 
-## „A” kategóriába tartozó oldalkocsi nélküli kétkerekű motorkerékpár, legalább 595 cm3 hengerűrtartalommal és legalább 40 kW motorteljesítménnyel.
+## 2019. január 1-jétől: „A” kategóriába tartozó oldalkocsi nélküli kétkerekű motorkerékpár, legalább 595 cm3 hengerűrtartalommal (amennyiben elektromos motorral van felszerelve, teljesítmény/tömeg aránya legalább 0,25 kW/kg), legalább 180 kg terheletlen tömeggel és legalább 50 kW motorteljesítménnyel.
 
 ## „A2” alkategória
 
-## „A2” alkategóriába tartozó oldalkocsi nélküli kétkerekű motorkerékpár, legalább 395 cm3 hengerűrtartalommal és legalább 25 kW motorteljesítménnyel.
+## Oldalkocsi nélküli motorkerékpár, amelynek hengerűrtartalma legalább 395 cm3, a motor teljesítménye legalább 20 kW, de nem több 35 kW-nál, a motorkerékpár teljesítmény/tömeg aránya nem haladja meg a 0,2 kW/kg-ot. Amennyiben a motorkerékpár elektromos motorral van felszerelve, annak teljesítmény/tömeg aránya legalább 0,15 kW/kg.
 
 ## „B1” alkategória
 
@@ -102,7 +102,9 @@
 
 ## ad) azonos légtérben legalább 3 személy befogadására alkalmas kialakítású vezetőfülke,
 
-## ae) a vezetőfülke szélességével és magasságával legalább azonos szélességű és magasságú, zárt, de nem különleges felépítmény;
+## ae) a vezetőfülke szélességével és magasságával legalább azonos szélességű és magasságú, zárt, de nem különleges felépítmény,
+
+## af) vezető által működtetett kézi sebességváltó karral rendelkezik;
 
 ## b) kötelező felszerelések és tartozékok:
 
@@ -328,7 +330,7 @@
 
 ## A felsorolt járművek teljesítmény- és sebességadatai hatósági bizonyítvány hiányában a gyártó által kiadott „Kezelési Útmutató”-val is igazolhatók.
 
-## 2.[^227] Egyéb követelmények
+## 2.[^232] Egyéb követelmények
 
 ## Az oktatásra használt valamennyi járművet – kétkerekű járműveket kivéve – fel kell szerelni kék alapszínű, 20 cm magasságú, 3 cm vonalvastagságú – elölről és hátulról egyaránt – jól látható, nyomtatott fehér „T” betűt ábrázoló, 25x25 cm oldalélű táblával, valamint jól láthatóan fel kell tüntetni az „Autósiskola” feliratot. A „B” kategória esetében ezen jelzéseket a jármű hossztengelyére merőlegesen felszerelt tetőtáblán kell elhelyezni. A tetőtáblán lévő „T” betűt oktatáson kívül le kell takarni.
 
@@ -336,5 +338,5 @@
 
 6. melléklet a 24/2005. (IV. 21.) GKM rendelethez
 
-[^226]: Az 5. melléklet 1. pontja a 45/2013. (VIII. 7.) NFM rendelet 19. § (4) bekezdése és 21. § j) pontja szerint módosított szöveg.
-[^227]: Az 5. melléklet 2. pontja a 45/2013. (VIII. 7.) NFM rendelet 19. § (4) bekezdése és 21. § j) pontja szerint módosított szöveg.
+[^231]: Az 5. melléklet 1. pontja a 45/2013. (VIII. 7.) NFM rendelet 19. § (4) bekezdése és 21. § j) pontja, a 2/2014. (I. 24.) NFM rendelet 3. § (1) bekezdése szerint módosított szöveg.
+[^232]: Az 5. melléklet 2. pontja a 45/2013. (VIII. 7.) NFM rendelet 19. § (4) bekezdése és 21. § j) pontja szerint módosított szöveg.

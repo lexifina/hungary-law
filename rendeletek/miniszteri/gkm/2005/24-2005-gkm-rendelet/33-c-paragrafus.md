@@ -1,6 +1,6 @@
-## Szakmai továbbképzés[^138]
+## Szakmai továbbképzés[^140]
 
-33/C. §[^139] (1)[^140] A 33/A. § a) pontjában meghatározott gépkocsivezető a közúton történő járművezetéshez
+33/C. §[^141] (1)[^142] A 33/A. § a) pontjában meghatározott gépkocsivezető a közúton történő járművezetéshez
 
 a) az alapképesítés megszerzését követő öt éven belül, vagy
 
@@ -24,6 +24,6 @@ c) EGT-államban szerzett alapképesítéssel rendelkezik vagy ennek megszerzés
 
 (4) A továbbképzési képesítés megszerzésével kapcsolatos rendelkezéseket a 13. melléklet tartalmazza.
 
-[^138]: A 33/C. §-t megelőző alcímet a 38/2007. (III. 28.) GKM rendelet 4. §-a iktatta be.
-[^139]: A 33/C. §-t a 38/2007. (III. 28.) GKM rendelet 4. §-a iktatta be.
-[^140]: A 33/C. § (1) bekezdése a 47/2012. (VIII. 23.) NFM rendelet 1. §-ával megállapított szöveg.
+[^140]: A 33/C. §-t megelőző alcímet a 38/2007. (III. 28.) GKM rendelet 4. §-a iktatta be.
+[^141]: A 33/C. §-t a 38/2007. (III. 28.) GKM rendelet 4. §-a iktatta be.
+[^142]: A 33/C. § (1) bekezdése a 47/2012. (VIII. 23.) NFM rendelet 1. §-ával megállapított szöveg.

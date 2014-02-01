@@ -72,7 +72,11 @@
 
 42. képző szerv azonosító: a közlekedési hatóság által meghatározott, a képző szervet egyértelműen azonosító szám,
 
-43.[^13] foglalkozás: az egyben – legfeljebb egy óra szünetet beiktatva – tartott oktatási órák összessége.
+43.[^13] foglalkozás: az egyben – legfeljebb egy óra szünetet beiktatva – tartott oktatási órák összessége,
+
+44.[^14] A kézi sebességváltóval rendelkező jármű: az a jármű, amely olyan tengelykapcsoló-pedállal (illetve az „A”, az „A2” és az „A1” kategóriákban kézi váltókarral) van felszerelve, amelynek működtetése a jármű elindításakor, megállításakor és sebességváltáskor a vezetőre hárul.
+
+45.[^15] Automata sebességváltóval rendelkező jármű: a 44. pontban előírt feltételeknek nem megfelelő jármű, amely tengelykapcsoló-pedállal vagy kézi váltókarral nem rendelkezik és ezeknek a működtetése a jármű elindításához nem szükséges.
 
 (2) E rendeletben az (1) bekezdésben nem meghatározott fogalmak értelmezésekor a közúti közlekedésről szóló törvényben, és a közúti járművezetők és a közúti közlekedési szakemberek képzésének és vizsgáztatásának általános szabályairól szóló kormányrendeletben foglalt értelmező rendelkezéseket kell megfelelően alkalmazni.
 
@@ -88,3 +92,5 @@
 [^11]: A 2. § (1) bekezdés 34. pontját a 45/2013. (VIII. 7.) NFM rendelet 21. § a) pontja hatályon kívül helyezte.
 [^12]: A 2. § (1) bekezdés 40. pontját a 45/2013. (VIII. 7.) NFM rendelet 21. § a) pontja hatályon kívül helyezte.
 [^13]: A 2. § (1) bekezdés 43. pontját a 45/2013. (VIII. 7.) NFM rendelet 1. § (3) bekezdése iktatta be.
+[^14]: A 2. § (1) bekezdés 44. pontját a 2/2014. (I. 24.) NFM rendelet 1. §-a iktatta be.
+[^15]: A 2. § (1) bekezdés 45. pontját a 2/2014. (I. 24.) NFM rendelet 1. §-a iktatta be.

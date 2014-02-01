@@ -2,39 +2,39 @@
 
 10. § (1) Elméleti vizsgára az bocsátható, aki
 
-a)[^43] a tanfolyam elméleti részét az 5. § (3) bekezdésében foglaltak szerint elvégezte és az első vizsgajelentésig az adott tanfolyam megkezdésétől számított kevesebb, mint kilenc hónap telt el, továbbá a 7. § szerinti igazolást a közlekedési hatóság részére a jelentkezési lapon bemutatta vagy annak elvégzése alól a 4. § (6) bekezdésében foglaltak alapján mentesült, továbbá aki a közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló rendelet alapján tanfolyammentes vizsgát tehet,
+a)[^45] a tanfolyam elméleti részét az 5. § (3) bekezdésében foglaltak szerint elvégezte és az első vizsgaeseményig az adott tanfolyam megkezdésétől számított kevesebb, mint kilenc hónap telt el, továbbá a 7. § szerinti igazolást a közlekedési hatóság részére a jelentkezési lapon bemutatta vagy annak elvégzése alól a 4. § (6) bekezdésében foglaltak alapján mentesült, továbbá aki a közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló rendelet alapján tanfolyammentes vizsgát tehet,
 
-b) megfelel a külön jogszabályokban[^44] meghatározott egészségügyi és pályaalkalmassági, valamint – írásbeli nyilatkozata alapján – a külön jogszabályban[^45] meghatározott közlekedésbiztonsági feltételeknek,
+b) megfelel a külön jogszabályokban[^46] meghatározott egészségügyi és pályaalkalmassági, valamint – írásbeli nyilatkozata alapján – a külön jogszabályban[^47] meghatározott közlekedésbiztonsági feltételeknek,
 
-c)[^46] nem gépjármű vezetésére jogosító vezetői engedély megszerzésére irányuló vizsga esetén, írni, olvasni tud,
+c)[^48] nem gépjármű vezetésére jogosító vezetői engedély megszerzésére irányuló vizsga esetén, írni, olvasni tud,
 
-d)[^47] a megszerezni kívánt vezetői engedély kiadásának feltételéül – a „K” kategóriás jármű vezetője kivételével – a jogszabályban előírt életkornál
+d)[^49] a megszerezni kívánt vezetői engedély kiadásának feltételéül – a „K” kategóriás jármű vezetője kivételével – a jogszabályban előírt életkornál
 
 da) tanfolyami képzés esetén legfeljebb három hónappal fiatalabb,
 
 db) közoktatási intézmény által végzett képzés esetén legfeljebb 6 hónappal fiatalabb,
 
-e)[^48] a gépjármű vezetésére jogosító vezetői engedély megszerzésére irányuló vizsga esetében az alapfokú iskolai végzettség meglétéről a jelentkezési lapon nyilatkozik,
+e)[^50] a gépjármű vezetésére jogosító vezetői engedély megszerzésére irányuló vizsga esetében az alapfokú iskolai végzettség meglétéről a jelentkezési lapon nyilatkozik,
 
-f)[^49] a vizsgára való jelentkezésig – a Bizonylati Album szerinti azonosítók szerepeltetésével – a külön jogszabályban meghatározott módon az igazgatási szolgáltatási díjat képző szerv útján vagy közvetlenül megfizette.
+f)[^51] a vizsgára való jelentkezésig – a Bizonylati Album szerinti azonosítók szerepeltetésével – a külön jogszabályban meghatározott módon az igazgatási szolgáltatási díjat képző szerv útján vagy közvetlenül megfizette.
 
-(2) Az (1) bekezdésben meghatározott feltételek teljesítése esetében is kizárólag az bocsátható elméleti vizsgára, akinek a közlekedési igazgatási hatóság vagy külön jogszabályban[^50] meghatározott külföldi hatóság által kiállított:
+(2) Az (1) bekezdésben meghatározott feltételek teljesítése esetében is kizárólag az bocsátható elméleti vizsgára, akinek a közlekedési igazgatási hatóság vagy külön jogszabályban[^52] meghatározott külföldi hatóság által kiállított:
 
-a)[^51] „C” kategóriás vizsgához „B” kategóriára érvényes vezetői engedélye van;
+a)[^53] „C” kategóriás vizsgához „B” kategóriára érvényes vezetői engedélye van;
 
 b) „D” kategóriás vizsgához „B” és „C” kategóriára érvényes vezetői engedélye van;
 
-c) a kombinált kategóriás vizsgákhoz a vonó jármű kategóriájára, alkategóriájára érvényes vezetői engedélye van, és a külön jogszabályban[^52] meghatározott kezdő vezetői minősítés megszűnt;
+c) a kombinált kategóriás vizsgákhoz a vonó jármű kategóriájára, alkategóriájára érvényes vezetői engedélye van, és a külön jogszabályban[^54] meghatározott kezdő vezetői minősítés megszűnt;
 
 d) a „Trolibusz” kategóriás vizsgához „B” kategóriára érvényes vezetői engedélye van;
 
-e)[^53] „C1” alkategóriás vizsgához „B” kategóriára érvényes vezetői engedélye van;
+e)[^55] „C1” alkategóriás vizsgához „B” kategóriára érvényes vezetői engedélye van;
 
 f) „D1” alkategóriás vizsgához „B” kategóriára érvényes vezetői engedélye van.
 
-(3)[^54] A (2) bekezdésben előírt, érvényes vezetői engedély helyett – a képzés és a vizsgáztatás tekintetében – egy évig el kell fogadni a feltételként meghatározott kategória megszerzését tanúsító, a közlekedési hatóság által kiállított, a forgalmi vizsga teljesítéséről szóló vizsgaigazolást. Az egy évet az adott kategóriára vonatkozó utolsó sikeres vizsga letételének időpontjától kell számítani.
+(3)[^56] A (2) bekezdésben előírt, érvényes vezetői engedély helyett – a képzés és a vizsgáztatás tekintetében – egy évig el kell fogadni a feltételként meghatározott kategória megszerzését tanúsító, a közlekedési hatóság által kiállított, a forgalmi vizsga teljesítéséről szóló vizsgaigazolást. Az egy évet az adott kategóriára vonatkozó utolsó sikeres vizsga letételének időpontjától kell számítani.
 
-(4)[^55] A 14. § (7) bekezdésében meghatározott feltétel igazolható:
+(4)[^57] A 14. § (7) bekezdésében meghatározott feltétel igazolható:
 
 a) a személyazonosító okmányokba Magyarországon bejegyzett, saját jogon szerzett doktori címmel,
 
@@ -42,19 +42,19 @@ b) az iskolai végzettség igazolására szóló okmány eredeti-, vagy közjegy
 
 c) a külföldi bizonyítványok és oklevelek esetén olyan – hatáskörrel rendelkező – magyar hatóság által hozott elismerő határozattal, honosítási záradékkal, hatósági bizonyítvánnyal, hatósági igazolással, tájékoztatással vagy három hónapnál nem régebbi Magyarországon felsőoktatási intézmény által kiállított hallgatói jogviszony igazolással, amely kimondja, hogy az adott bizonyítvány vagy oklevél legalább alapfokú végzettséget igazol vagy annak meglétét előfeltételezi.
 
-(5)[^56] Amennyiben a tanuló a tanfolyam kezdetétől számított tizenkét hónapon belül nem teszi le sikeresen az elméleti vizsgáit, akkor csak a teljes tanfolyam megismétlését követően jelenthető ismét elméleti vizsgára.
+(5)[^58] Amennyiben a tanuló a tanfolyam kezdetétől számított tizenkét hónapon belül nem teszi le sikeresen az elméleti vizsgáit, akkor csak a teljes tanfolyam megismétlését követően jelenthető ismét elméleti vizsgára.
 
-[^43]: A 10. § (1) bekezdés a) pontja a 45/2013. (VIII. 7.) NFM rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^44]: A közúti járművezetők egészségügyi alkalmasságának megállapításáról szóló 13/1992. (VI. 26.) NM rendelet 1. §-a és a közúti járművezetők pályaalkalmassági vizsgálatáról szóló 41/2004. (IV. 7.) GKM rendelet.
-[^45]: A közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló 35/2000. (XI. 30.) BM rendelet 15. §-a.
-[^46]: A 10. § (1) bekezdés c) pontja az 58/2011. (XI. 24.) NFM rendelet 11. § (2) bekezdésével megállapított szöveg.
-[^47]: A 10. § (1) bekezdés d) pontja az 58/2011. (XI. 24.) NFM rendelet 11. § (2) bekezdésével megállapított szöveg.
-[^48]: A 10. § (1) bekezdés e) pontját az 58/2011. (XI. 24.) NFM rendelet 11. § (3) bekezdése iktatta be, szövege a 45/2013. (VIII. 7.) NFM rendelet 7. § (2) bekezdésével megállapított szöveg.
-[^49]: A 10. § (1) bekezdés f) pontját a 45/2013. (VIII. 7.) NFM rendelet 7. § (3) bekezdése iktatta be.
-[^50]: A közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló 35/2000. (XI. 30.) BM rendelet 16. § (2) bekezdés b) pontja.
-[^51]: A 10. § (2) bekezdés a) pontja az 58/2011. (XI. 24.) NFM rendelet 11. § (4) bekezdésével megállapított szöveg.
-[^52]: A közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló 35/2000. (XI. 30.) BM rendelet 5. §-a.
-[^53]: A 10. § (2) bekezdés e) pontja az 58/2011. (XI. 24.) NFM rendelet 11. § (5) bekezdésével megállapított szöveg.
-[^54]: A 10. § (3) bekezdése az 58/2011. (XI. 24.) NFM rendelet 11. § (6) bekezdésével megállapított szöveg.
-[^55]: A 10. § (4) bekezdését az 58/2011. (XI. 24.) NFM rendelet 11. § (7) bekezdése iktatta be, nyitó szövegrésze a 45/2013. (VIII. 7.) NFM rendelet 20. § a) pontja szerint módosított szöveg.
-[^56]: A 10. § (5) bekezdését a 45/2013. (VIII. 7.) NFM rendelet 7. § (4) bekezdése iktatta be.
+[^45]: A 10. § (1) bekezdés a) pontja a 45/2013. (VIII. 7.) NFM rendelet 7. § (1) bekezdésével megállapított, a 2/2014. (I. 24.) NFM rendelet 4. § b) pontja szerint módosított szöveg.
+[^46]: A közúti járművezetők egészségügyi alkalmasságának megállapításáról szóló 13/1992. (VI. 26.) NM rendelet 1. §-a és a közúti járművezetők pályaalkalmassági vizsgálatáról szóló 41/2004. (IV. 7.) GKM rendelet.
+[^47]: A közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló 35/2000. (XI. 30.) BM rendelet 15. §-a.
+[^48]: A 10. § (1) bekezdés c) pontja az 58/2011. (XI. 24.) NFM rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^49]: A 10. § (1) bekezdés d) pontja az 58/2011. (XI. 24.) NFM rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^50]: A 10. § (1) bekezdés e) pontját az 58/2011. (XI. 24.) NFM rendelet 11. § (3) bekezdése iktatta be, szövege a 45/2013. (VIII. 7.) NFM rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^51]: A 10. § (1) bekezdés f) pontját a 45/2013. (VIII. 7.) NFM rendelet 7. § (3) bekezdése iktatta be.
+[^52]: A közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló 35/2000. (XI. 30.) BM rendelet 16. § (2) bekezdés b) pontja.
+[^53]: A 10. § (2) bekezdés a) pontja az 58/2011. (XI. 24.) NFM rendelet 11. § (4) bekezdésével megállapított szöveg.
+[^54]: A közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló 35/2000. (XI. 30.) BM rendelet 5. §-a.
+[^55]: A 10. § (2) bekezdés e) pontja az 58/2011. (XI. 24.) NFM rendelet 11. § (5) bekezdésével megállapított szöveg.
+[^56]: A 10. § (3) bekezdése az 58/2011. (XI. 24.) NFM rendelet 11. § (6) bekezdésével megállapított szöveg.
+[^57]: A 10. § (4) bekezdését az 58/2011. (XI. 24.) NFM rendelet 11. § (7) bekezdése iktatta be, nyitó szövegrésze a 45/2013. (VIII. 7.) NFM rendelet 20. § a) pontja szerint módosított szöveg.
+[^58]: A 10. § (5) bekezdését a 45/2013. (VIII. 7.) NFM rendelet 7. § (4) bekezdése iktatta be.

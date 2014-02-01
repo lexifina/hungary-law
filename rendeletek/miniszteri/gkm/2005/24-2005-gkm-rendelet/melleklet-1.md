@@ -10,9 +10,9 @@
 
 4. Az iskolavezető neve
 
-5.[^189] Engedélyes (képző szerv) azonosítója
+5.[^194] Engedélyes (képző szerv) azonosítója
 
-6.[^190]
+6.[^195]
 
 7. Az engedélyezett tevékenység meghatározása
 
@@ -26,5 +26,5 @@
 
 12. Az engedélyező hatóság bélyegzőlenyomata
 
-[^189]: Az 1. melléklet 5. pontja az 58/2011. (XI. 24.) NFM rendelet 39. § (1) bekezdésével megállapított szöveg.
-[^190]: Az 1. melléklet 6. pontját az 58/2011. (XI. 24.) NFM rendelet 41. § (5) bekezdése hatályon kívül helyezte.
+[^194]: Az 1. melléklet 5. pontja az 58/2011. (XI. 24.) NFM rendelet 39. § (1) bekezdésével megállapított szöveg.
+[^195]: Az 1. melléklet 6. pontját az 58/2011. (XI. 24.) NFM rendelet 41. § (5) bekezdése hatályon kívül helyezte.
