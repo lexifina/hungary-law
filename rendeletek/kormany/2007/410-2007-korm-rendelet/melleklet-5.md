@@ -1,3 +1,3 @@
-5. melléklet a 410/2007. (XII. 29.) Korm. rendelethez[^44]
+5. melléklet a 410/2007. (XII. 29.) Korm. rendelethez[^47]
 
-[^44]: Az 5. melléklet a 228/2012. (VIII. 23.) Korm. rendelet 3. § (9) bekezdésével megállapított, a 10. § (4) bekezdése szerint módosított szöveg.
+[^47]: Az 5. melléklet a 228/2012. (VIII. 23.) Korm. rendelet 3. § (9) bekezdésével megállapított, a 10. § (4) bekezdése szerint módosított szöveg.

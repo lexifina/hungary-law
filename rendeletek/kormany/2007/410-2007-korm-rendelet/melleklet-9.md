@@ -1,4 +1,4 @@
-9. melléklet a 410/2007. (XII. 29.) Korm. rendelethez[^47]
+9. melléklet a 410/2007. (XII. 29.) Korm. rendelethez[^50]
 
 |  | A | B |
 
@@ -14,4 +14,4 @@
 
 | 4. | ED törvény 14. § c) pontja | 140 000 | 150 000 | 165 000 |
 
-[^47]: A 9. mellékletet a 175/2013. (V. 31.) Korm. rendelet 2. §-a iktatta be, szövege e módosító rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^50]: A 9. mellékletet a 175/2013. (V. 31.) Korm. rendelet 2. §-a iktatta be, szövege e módosító rendelet 3. § (2) bekezdésével megállapított szöveg.

@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-410-20-
 | 2013-05-11 | 2007-410-20-22.18 | 138/2013. (V. 10.) Korm. rendelet |
 | 2013-07-01 | 2007-410-20-22.19 | 175/2013. (V. 31.) Korm. rendelet |
 | 2013-09-01 | 2007-410-20-22.20 | 175/2013. (V. 31.) Korm. rendelet |
+| 2014-02-01 | 2007-410-20-22.21 | 488/2013. (XII. 17.) Korm. rendelet |
