@@ -20,7 +20,7 @@
 
 (10)[^144] Azok az 1-es típusú cukorbetegek, akik a 2. számú melléklet 2013. április 30-án hatályos EÜ100 2. és EÜ100 3. pontja alapján nem jogosultak analóg inzulin készítmény alkalmazására, de kórtörténetük alapján korábban jogosultak voltak ilyen készítmény alkalmazására, a 2. számú mellékletnek a törzskönyvezett gyógyszerek és a különleges táplálkozási igényt kielégítő tápszerek társadalombiztosítási támogatásba való befogadásának szempontjairól és a befogadás vagy a támogatás megváltoztatásáról szóló 32/2004. (IV. 26.) ESZCSM rendelet módosításáról szóló 31/2013. (IV. 30.) EMMI rendelettel megállapított EÜ100 2. és EÜ100 3. pontjában foglalt indikációk teljesülése esetén jogosultak analóg inzulin készítmény alkalmazására, függetlenül attól, hogy korábban álltak-e legalább 3 hónapig humán intenzifikált inzulinkezelés alatt.
 
-(11)[^145]
+(11)[^145] A 3. számú melléklet EÜ70 21. pontja alapján 2014. február 1-jét megelőzően felírt vények 2014. február 1-jétől az egyes gyógyszerészeti tárgyú és egyéb, a civil szervezetek támogatásával kapcsolatos rendeletek módosításáról szóló 7/2014. (I. 29.) EMMI rendelet 3. melléklet 5. pontjával megállapított EÜ90 34. pont alapján válthatóak ki és számolhatóak el.
 
 (13)[^146] A 3. számú melléklet EÜ90 4/f. pontja alapján felírt vények EÜ 90 százalékos támogatással 2014. április 30-ig válthatóak ki és számolhatóak el.
 
@@ -33,5 +33,5 @@
 [^142]: A 25. § (8) bekezdését a 10/2013. (I. 31.) EMMI rendelet 11. § (2) bekezdése iktatta be.
 [^143]: A 25. § (9) bekezdését a 10/2013. (I. 31.) EMMI rendelet 11. § (2) bekezdése iktatta be.
 [^144]: A 25. § (10) bekezdését a 31/2013. (IV. 30.) EMMI rendelet 1. §-a iktatta be.
-[^145]: A 25. § (11) bekezdését a 31/2013. (IV. 30.) EMMI rendelet 1. §-a iktatta be, hatályon kívül helyezte e módosító rendelet 2. §-a.
+[^145]: A 25. § (11) bekezdését újonnan a 7/2014. (I. 29.) EMMI rendelet 7. § (1) bekezdése iktatta be.
 [^146]: A 25. § (13) bekezdését a 7/2014. (I. 29.) EMMI rendelet 7. § (3) bekezdése iktatta be.
