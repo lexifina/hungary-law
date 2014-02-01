@@ -558,7 +558,7 @@
 
 ## NA: Nukleoz(t)id analóg
 
-7. melléklet a 31/2010. (V. 13.) EüM rendelethez[^4]
+7. melléklet a 31/2010. (V. 13.) EüM rendelethez[^6]
 
 ## A felnőttkori luminális Crohn-betegség diagnosztikájának és kezelésének finanszírozási eljárásrendje
 
@@ -932,4 +932,4 @@ BNO: Betegségek nemzetközi osztályozása
 
 ECCO: European Crohn’s and Colitis Organisation
 
-[^4]: A 7. melléklet a 24/2013. (III. 29.) EMMI rendelet 3. § (1) bekezdése szerint módosított szöveg.
+[^6]: A 7. melléklet a 24/2013. (III. 29.) EMMI rendelet 3. § (1) bekezdése szerint módosított szöveg.

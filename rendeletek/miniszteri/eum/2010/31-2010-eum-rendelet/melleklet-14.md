@@ -208,7 +208,7 @@
 
 ## BNO: Betegségek nemzetközi osztályozása
 
-14. melléklet a 31/2010. (V. 13.) EüM rendelethez[^11]
+14. melléklet a 31/2010. (V. 13.) EüM rendelethez[^13]
 
 ## Az arthritis psoriatica diagnosztikájának és kezelésének finanszírozási eljárásrendje
 
@@ -496,4 +496,4 @@ BNO: Betegségek nemzetközi osztályozása
 
 EULAR: The European League Against Rheumatism
 
-[^11]: A 14. melléklet a 24/2013. (III. 29.) EMMI rendelet 3. § (7) bekezdése szerint módosított szöveg.
+[^13]: A 14. melléklet a 24/2013. (III. 29.) EMMI rendelet 3. § (7) bekezdése szerint módosított szöveg.

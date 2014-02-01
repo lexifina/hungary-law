@@ -1,4 +1,4 @@
-12. melléklet a 31/2010. (V. 13.) EüM rendelethez[^9]
+12. melléklet a 31/2010. (V. 13.) EüM rendelethez[^11]
 
 ## A juvenilis idiopathias arthritis diagnosztikájának és kezelésének finanszírozási eljárásrendje
 
@@ -266,4 +266,4 @@ ATC: Anatomical Therapeutic Chemical klasszifikáció
 
 BNO: Betegségek nemzetközi osztályozása
 
-[^9]: A 12. számú melléklet a 47/2011. (VII. 27.) NEFMI rendelet 11. § (1) bekezdése, a 24/2013. (III. 29.) EMMI rendelet 3. § (5) bekezdése szerint módosított szöveg.
+[^11]: A 12. számú melléklet a 47/2011. (VII. 27.) NEFMI rendelet 11. § (1) bekezdése, a 24/2013. (III. 29.) EMMI rendelet 3. § (5) bekezdése szerint módosított szöveg.

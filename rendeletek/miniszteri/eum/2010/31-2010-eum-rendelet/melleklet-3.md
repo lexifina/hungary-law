@@ -8,244 +8,326 @@
 
 ## Világossejtes daganatok
 
-## 2. Kórkép leírása
+## 1/A. Fogalmak, rövidítések
 
-## A vese rosszindulatú daganatainak előfordulási gyakorisága lassan emelkedik. 45-70 éves életkor között fordulnak elő, de egyre gyakrabban jelentkeznek fiatalabb életkorban. A malignus vesedaganatok között a vesesejtes ráknak 5 fő altípusát különböztethetjük meg, amelyek közül a leggyakoribb a világos sejtes carcinoma (RCC), az esetek 75-80%-a. A vesekéregben, a proximális kanyarulatos csatornákat bélelő sejtekből alakul ki. A szövettani diagnózis ismerete mindig kötelező. A betegség etiológiája pontosan még nem ismert, de mind a hazai, mind a jelentősebb nemzetközi szakmai társaságok kiemelik a dohányzás szerepét az RCC kialakulásában, továbbá az elhízást, kávéfogyasztást, állati zsiradékok fogyasztását is komoly rizikófaktornak tekinthetjük. Felfedezéskor 60-70%-ban szervre lokalizált, 5-10%-ban lokálisan előrehaladott, 15-20%-ban távoli áttétet képez. Relapszus a korai I-II klinikai stádiumban is előfordul. A vesedaganatok stádium beosztása során a következő TNM klasszifikáció kerül alkalmazásra (forrás: UICC):
+## ATC Anatomical Therapeutic Chemical klasszifikáció
+
+## BNO Betegségek nemzetközi osztályozása
+
+## BSC Best supportive care
+
+## CT Komputer tomográfia
+
+## EAU European Association of Urology
+
+## ECOG Eastern Cooperative Oncology Group
+
+## GFR Glomerulus filtráció arány
+
+## HBCS Homogén betegségcsoport
+
+## OENO Orvosi eljárások nemzetközi osztályzása
+
+## NCCN National Comprehensive Cancer Network
+
+## NYHA New York Heart Association
+
+## LDH Laktát-dehidrogenáz
+
+## RCC Vesesejtes carcinoma
+
+## UH Ultrahang
+
+## UICC International Union Against Cancer
+
+## TNM Tumor, node, metastasis (tumor, nyirokcsomó, metasztázis)
+
+## 2. A kórkép leírása
+
+## A vese rosszindulatú daganatainak előfordulási gyakorisága az utóbbi évtizedekben lassan emelkedik. 2002-ről 2006-ra a Magyar Rákregiszter adatai alapján a prevalencia 1875-ről 2025-re emelkedett. Leggyakrabban 45-70 éves életkor között fordulnak elő, de egyre gyakrabban jelentkezik fiatalabb életkorban. A férfi-nő arány 3:2.
+
+## A malignus vesedaganatok között a leggyakoribb a világossejtes carcinoma (RCC). A vesekéregben alakul ki, a proximális kanyarulatos csatornákat bélelő sejtekből. A vesesejtes ráknak 5 fő altípusa különböztethető meg, amelyek közül a leggyakoribb a világos sejtes veserák (az esetek 75–80%-a). A papilláris carcinoma I-II. 12-14%-ban, a cromophob carcinoma 4-6%-ban, az oncocyter típusú vesesejtes rák 2-4%-ban, míg a Bellini-féle carcinoma 1%-ban figyelhető meg. A szövettani diagnózis ismerete mindig kötelező. A tumor terjedése részben lokálisan, részben pedig a nyirok- és vérerek útján történik.
+
+## A betegség etiológiája pontosan még nem ismert, de mind a hazai, mind a jelentősebb nemzetközi szakmai társaságok kiemelik a dohányzás szerepét az RCC kialakulásában (2A evidencia szint). A szakmai evidenciák alapján az elhízás, kávéfogyasztás, állati zsiradékok fogyasztása is komoly rizikófaktornak tekinthető. Felfedezéskor 60-70%-ban szervre lokalizált, 5-10%-ban lokálisan előrehaladott, 15-20%-ban távoli áttétet képez. Relapszus a korai I-II klinikai stádiumban előfordul.
+
+## A vesedaganatok stádiumbeosztása során a következő TNM klasszifikációt alkalmazzuk:
 
 ## 2.1. TNM klinikai klasszifikáció, primer tumor
 
-|  | A | B | C |
+| T | Primer tumor |
 
-| 1 | T |  | Primer tumor |
+| TX | Primer tumor nem ítélhető meg |
 
-| 2 |  | TX | Primer tumor nem ítélhető meg |
+| T0 | Primer tumor nem mutatható ki |
 
-| 3 |  | T0 | Primer tumor nem mutatható ki |
+| T1 | A tumor a vese anatómiai határain belül helyezkedik el, a legnagyobb dimenziójában maximum 7 cm |
 
-| 4 |  | T1 | A tumor a vese anatómiai határain belül helyezkedik el, a legnagyobb dimenziójában maximum 7 cm |
+| T1a | 4 cm-es vagy kisebb tumor |
 
-| 5 |  | T1a | 4 cm-es vagy kisebb tumor |
+| T1b | 4 cm-nél nagyobb, 7 cm-nél nem nagyobb tumor |
 
-| 6 |  | T1b | 4 cm-nél nagyobb, 7 cm-nél nem nagyobb tumor |
+| T2a | A tumor a vese anatómiai határain belül helyezkedik el, a legnagyobb dimenziójában meghaladja a 7 cm-t, de 10 cm-nél nem nagyobb |
 
-| 7 |  | T2 | A tumor a vese anatómiai határain belül helyezkedik el, a legnagyobb dimenziójában meghaladja a 7 cm-t |
+| T2b | A tumor 10 cm-nél nagyobb, de a vese anatómai határait nem haladja meg |
 
-| 8 |  | T3 | A tumor ráterjed a nagyobb vénákra [vena renális (renálisok)], vagy közvetlenül infiltrálja a mellékvesét vagy a perirenalis (más szóval perinephricus) szöveteket, de nem terjed túl a Gerota-fascián |
+| T3 | A tumor ráterjed a nagyobb vénákra [vena renális(ok)], vagy közvetlenül infiltrálja a mellékvesét vagy a perirenalis (más szóval perinephriticus) szöveteket, de nem terjed túl a Gerota-fascián |
 
-| 9 |  | T3a | A tumor ráterjed a mellékvesére, vagy a perirenalis zsírszövetekre*, de nem terjed túl a Gerota-fascián |
+| pT3a: a daganat szabad szemmel látható módon a v. renalis-ban, vagy annak nagy szegmentális ágaiban terjed (szövettan: a venának van izmos fala), vagy a perinephricus és/vagy a vesemedencei zsírszövetbe terjed; pT3b: a daganat szabad szemmel észlelhetően beterjed a v. cava-ba, de a növedék nem haladja meg a rekeszizom szintjét; pT3c: a daganat szabad szemmel észlehetően beterjed a v. cava-ba, és a növedék a rekeszizom vonalát meghaladja, vagy a tumor beszűri a v. cava falát. |
 
-| 10 |  | T3b | A tumor nagy tömegben ráterjed a vena renálisra (renálisokra)**, vagy vena cavára, vagy annak falára a rekeszizom alatt |
+| T4 | pT4 stádium: a tumor túlterjed a Gerota-fascián vagy folyamatos terjedés révén beszűri a mellékvesét. |
 
-| 11 |  | T3c | A tumortömeg ráterjed vena cavára, vagy annak falára a rekeszizom felett |
-
-| 12 |  | T4 | A tumor ráterjed a Gerota-fascián túli területekre |
-
-## *Beleértve: vesesinus (peripelvicus) zsír.
-
-## **Beleértve a szegmentális (musculáris réteget is tartalmazó) ágakat.
+## Forrás: EAU Guidelines, renal cell carcinoma, 2013; Pathológiai irányelv 2010
 
 ## 2.2. TNM klinikai klasszifikáció, regionális nyirokcsomó
 
-|  | A | B | C |
+| N | Regionális nyirokcsomók |
 
-| 1 | N |  | Regionális nyirokcsomó |
+| NX | Regionális nyirokcsomóáttét nem igazolható |
 
-| 2 |  | NX | Regionális nyirokcsomóáttét nem igazolható |
+| N0 | Nincs regionális nyirokcsomóáttét |
 
-| 3 |  | N0 | Nincs regionális nyirokcsomóáttét |
+| N1 | Metastasis szoliter regionális nyirokcsomóban |
 
-| 4 |  | N1 | Metastasis szoliter regionális nyirokcsomóban |
+| N2 | Metastasis egynél több regionális nyirokcsomóban |
 
-| 5 |  | N2 | Metastasis egynél több regionális nyirokcsomóban |
+## 2.3. TNM klinikai klasszifikáció, Távoli áttétek
 
-## 2.3. TNM klinikai klasszifikáció, távoli áttétek
+| M | Távoli áttétek |
 
-|  | A | B | C |
+| M0 | Távoli áttét nincs |
 
-| 1 | M |  | Távoli áttétek |
+| M1 | Távoli áttét(ek) |
 
-| 2 |  | MX | Távoli áttét nem igazolható |
+## Forrás: EAU Guidelines, renal cell carcinoma 2013
 
-| 3 |  | M0 | Távoli áttét nincs |
+## 2.4. G Szövettani grading, Fuhrman szerinti felosztás
 
-| 4 |  | M1 | Távoli áttét (áttétek) |
+| G | Szövettani grading Sejtmag mérete, Sejtmag alakja, Nucleolus |
 
-## 2.4. pTNM patológiai klasszifikáció
+| G1 | Jól differenciált, kicsi (10 µm) Szabályos, Nem észlelhető |
 
-|  | A | B | C |
+| G2 | Mérsékelten differenciált, kicsi; valamivel nagyobb (15 µm) szabálytalan, 40x nagyításnál megfigyelhető |
 
-| 1 | pTNM |  | Patológiai klasszifikáció |
+| G3 | Gyengén differenciált, közepesen nagy (20 µm) szabálytalan, 10x nagyításnál megfigyelhető |
 
-| 2 |  | pN0 | A regionális lymphadenectomia útján nyert szövetmintából lehetőség szerint 8 vagy több nyirokcsomó szövettani vizsgálatát kell elvégezni. Amennyiben a vizsgált nyirokcsomók negatívnak bizonyulnak, de a megkívánt nyirokcsomószám nem áll rendelkezésre, a besorolás pN0. |
+| G4 | Differenciálatlan, nagy (>20 µm) bizarr, feltűnő |
 
-## 2.5. G Szövettani grading
+## Forrás: EAU Guidelines, Renal cell carcinoma 2013, Pathológiai irányelv 2010
 
-|  | A | B | C |
+## 4,5: IV. stádiumban nephrectomia, ha a beteg jó általános állapotú.
 
-| 1 | G |  | Szövettani grading |
+## 5,6: pT3-pT4 indokolt eseteiben (tumor műtéti sérülése); nem műthető csontáttét esetén irradiatió.
 
-| 2 |  | GX | A differenciáltság foka nem állapítható meg |
+## Csak azon III-IV stádiumú betegeknél, akiknél cytoreduktív nephrectomiat alkalmaztak, avagy nem operábilisek vagy daganatuk nem rezekeábilis kezdhető meg azonnal az elsővonalas tirozin kináz gátó vagy cytokin terápia (jó vagy közepes prognózis esetén) vagy temsirolimus terápia (rossz prognózis esetén). Egyéb esetekben a relapszus igazolását követően adhatóak a fent említett készítmények.
 
-| 3 |  | G1 | Jól differenciált |
+## 7, 11: Kontroll vizsgálat
 
-| 4 |  | G2 | Mérsékelten differenciált |
+## Alacsony kockázatú beteg esetén:
 
-| 5 |  | G3-4 | Gyengén differenciált/differenciálatlan |
+## Radikális nephrectomia vagy parcialis nephrectomia után: 6, 24, 48 hónap után ultrahang, 1 év, 3 év, 5 év után hasi CT, valamint laborvizsgálatok, mellkas Rtg, indokolt esetben mellkas CT, 5 év után nincs további vizsgálat.
 
-## 3.1. A finanszírozási algoritmus részletezése
+## Közepes kockázatú beteg esetén:
 
-## 3.1.1. (3,4): A sebészi beavatkozást követően az adjuváns gyógyszeres kezelés szakmailag nem megalapozott, ezért nem finanszírozott eljárás.
+## Radikális nephrectomia, parciális nephrectomia, cryoterápia, radiofrekvenciás tumorkezelés után: 6, 24, 48, 60 hónap után CT, 12, 36 hónapban ultrahang javasolt és laborvizsgálatok, mellkas Rtg, indokolt esetben mellkas CT, 5 év után kétévente hasi CT vizsgálat.
 
-## 3.1.2. (4,5): IV stádiumban nephrectomia, ha nincs csontáttét és a beteg jó általános állapotú.
+## Magas kockázatú beteg esetén:
 
-## 3.1.3. (5,6): pT3-pT4 indokolt eseteiben (pozitív rezekciós szél, tumor műtéti sérülése) posztoperatív irradiatió; nem műthető csontáttét esetén irradiatió. Csak azon III-IV stádiumú betegeknél, akiknél cytoreduktív nephrectomiat alkalmaztak, avagy nem operábilisek vagy daganatuk nem rezekeábilis, kezdhető meg azonnal az elsővonalas sunitinib vagy cytokin terápia (jó vagy közepes prognózis esetén) vagy temsirolimus terápia (rossz prognózis esetén). Egyéb esetekben a relapszus igazolását követően adhatóak a fent említett készítmények.
+## Radikális nephrectomia, parciális nephrectomia, cryoterápia, radiofrekvenciás tumorkezelés után 6, 12, 24, 36, 48, 60 hónapban kontroll CT, laborvizsgálatok, mellkas Rtg, indokolt esetben mellkas CT, 5 év után kétévente CT vizsgálat.
 
-## 3.1.4. (7,11): Kontroll vizsgálat az I-II stádiumban az első két évben legalább 6 havonta, majd a 3-5. évig legalább évente esedékes. Indokolt esetben az utánkövetés 5 év után is folytatható. A kontroll vizsgálat során fizikális vizsgálatot, teljes labort, mellkas rtg, hasi-kismedencei UH vizsgálatot kell végezni. Amennyiben indokolt, mellkas CT, hasi, kismedencei CT/MR javasolt.
+## A kontroll vizsgálat során fizikális vizsgálatot, teljes labort, mellkas Rtg, hasi-kismedencei ultrahang vizsgálatot kell végezni. Ha indokolt mellkas CT, hasi, kismedencei CT/MR javasolt.
 
-## 3.1.5. (8): A relapszust minden esetben igazolni kell (valamely képalkotó eljárással) és dokumentálni szükséges.
+## 8: A relapszust minden esetben igazolni kell (valamely képalkotó és szövettani eljárással) és dokumentálni szükséges.
 
-## 3.1.6. (9): Lokális recidíva esetén, amennyiben technikailag lehetséges, sebészi eltávolítás.
+## 9: Lokális recidíva esetén, ha technikailag lehetséges, sebészi eltávolítás szükséges.
 
-## Irrezekábilis esetekben, ha korábban nem volt sugárkezelés, irradiatió szóba jön. Amennyiben sebészi és sugárterápia nem megoldható, jó vagy közepes prognózis esetén sunitinib vagy cytokin alapú kezelés.
+## Jó vagy közepes prognózis esetén sunitinib vagy pazopanib vagy cytokin alapú első vonalbeli kezelés javasolt.
 
 ## A jó vagy közepes prognózis a következő kritériumok alapján határozható meg:
 
-## 3.1.6.1. LDH a normál érték másfélszerese alatt van,
+## – LDH a normál érték másfélszerese alatt van,
 
-## 3.1.6.2. A hemoglobin a normál értéken, vagy afelett van,
+## – a hemoglobin a normál értéken vagy afelett van,
 
-## 3.1.6.3. A korrigált kalcium szint kisebb, mint 10 mg/dl,
+## – a korrigált kalcium szint kisebb, mint 10 mmol/l,
 
-## 3.1.6.4. A diagnózistól az első kezelésig eltelt idő több, mint egy év,
+## – a diagnózistól az első kezelésig eltelt idő több, mint egy év,
 
-## 3.1.6.5. Az ECOG performance status 0, 1 (≈ Karnofsky score ≥ 80).
+## – az ECOG performance status 0, 1 (≈ Karnofsky score ≥ 80).
 
-## Amennyiben a felsorolt prognosztikai tényezők közül legalább 3 prognosztikai tényező fennáll, abban az esetben jó vagy közepes kockázatról beszélünk.
+## Ha a felsorolt kockázati tényezők közül legfeljebb 2 fennáll, akkor jó vagy közepes kockázatú csoportba sorolható a beteg.
 
-## 3.1.7. (10): Rossz prognózis esetén az előző pontban ismertetett kockázati tényezők közül legalább három nem teljesül, ekkor temsirolimus javasolt.
+## 10: Rossz prognózisú eset az, ha az előző pontban ismertetett kockázati tényezők közül legalább három nem teljesül, ekkor temsirolimus terápia javasolt.
 
-## 3.1.8. (12): A progressziót minden esetben igazolni kell (labor vizsgálattal és valamely képalkotó eljárással) és dokumentálni szükséges. Jó vagy közepes prognózis esetén másodvonalban, amennyiben a betegség cytokin terápia mellett igazoltan (labor vizsgálattal és valamely képalkotó eljárással) progrediál, sorafenib terápia alkalmazható.
+## 12: A progressziót minden esetben igazolni kell (labor vizsgálattal és valamely képalkotó és szövettani eljárással) és dokumentálni szükséges.
 
-## 3.2. A felsorolt terápiák hatástalansága esetén, illetve ha a terápiákra alkalmatlan a beteg, akkor a szakmai irányelvben megfogalmazott best supportív és palliatív care alkalmazandó.
+## 13: Alkalmazható cytokin terápia:
 
-## 3.3. Az utánkövetés a 3.1.4. (7,11) pontban leírtak szerint történik.
+## interferon alfa-2
 
-## 4. A finanszírozás szakmai ellenőrzésének alapját képező ellenőrzési sarokpontok
+## 14: Alkalmazható protein kináz inhibitor(ok):
 
-## A finanszírozás szakmai ellenőrzésének szempontjait az adminisztratív ellenőrzési pontok, a szakmai ellenőrzési pontok, valamint az eljárásrendben megjelenő finanszírozási döntési pontok együttesen képezik.
+## sunitinib
 
-## 5. A finanszírozási eljárásrend alkalmazásának hatását mérő minőségi indikátorok
+## pazopanib
 
-## 5.1. A területre fordított közkiadások alakulása.
+## 15: Alkalmazható protein kináz inhibitor(ok):
 
-## 5.2. A helyes, finanszírozott algoritmus szerint kezelt betegek aránya.
+## temsirolimus
 
-## 6. A finanszírozás szempontjából lényeges finanszírozási kódok
+## 16: Alkalmazható protein kináz inhibitor(ok):
 
-## 6.1. A releváns BNO kódok
+## sorafenib
 
-|  | A | B |
+## pazopanib
 
-| 1 | BNO | BNO megnevezés |
+## axitinib
 
-| 2 | C64H0 | A vese rosszindulatú daganata, kivéve a vesemedencét |
+## sunitinib
 
-## 6.2. A releváns OENO kódok
+## 17: Alkalmazható protein kináz inhibitor(ok):
 
-|  | A | B |
+## axitinib:
 
-| 1 | OENO | OENO megnevezése |
+## kizárólag sunitinib kezelést követően adható olyan esetekben, amikor a beteg a legkorábban a második sunitinib kezelési ciklust követően végzett képalkotó eljárással dokumentáltan reagált a sunitinib kezelésre.
 
-| 2 | 11041 | Vizsgálat |
+## everolimus:
 
-| 3 | 36135 | Vese UH vizsgálata |
+## sunitinib és pazopanib kezelést követően egyaránt adható, sunitinib kezelésre nem reagáló betegnek kizárólag everolimus adható.
 
-| 4 | 36130 | Hasi, kismedencei UH (áttekintő, komplex) UH vizsgálat |
+## 18: Alkalmazható protein kináz inhibitor(ok):
 
-| 5 | 34450 | Teljes has CT vizsgálata natív |
+## sunitinib
 
-| 6 | 31310 | Mellkasfelvétel, AP/PA |
+## pazopanib
 
-| 7 | 31311 | Mellkasfelvétel, oldalirányú |
+## 19: Alkalmazható protein kináz inhibitor(ok):
 
-| 8 | 31312 | Mellkasfelvétel, kétirányú |
+## temsirolimus
 
-| 9 | 31380 | Mellkasfelvétel, célzott |
+## 20: Alkalmazható protein kináz inhibitor(ok):
 
-| 10 | 3617D | Duplex UH, vese |
+## sorafenib
 
-| 11 | 34454 | Teljes has és medence CT vizsgálata natív és iv. kontrasztanyag adását követőleg |
+## pazopanib
 
-| 12 | 34442 | Mellkas CT vizsgálata natív plusz iv. kontrasztanyag adását követőleg |
+## axitinib
 
-| 13 | 34935 | Teljes has MR vizsgálata natív plusz iv. kontrasztanyag adását követőleg |
+## sunitinib
 
-| 14 | 3532G | Vese angioszcintigráfia (indokolt esetben) |
+## 21: Alkalmazható protein kináz inhibitor(ok):
 
-| 15 | 3533A | 3 fázisú csontszcintigráfia (indokolt esetben) |
+## axitinib:
 
-| 16 | 14810 | Biopsia parietis abdominis |
+## kizárólag sunitinib kezelést követően adható olyan esetekben, amikor a beteg a legkorábban a második sunitinib kezelési ciklust követően végzett képalkotó eljárással dokumentáltan reagált a sunitinib kezelésre.
 
-| 17 | 33345 | Angiographia selectiva arteriae suprarenalis |
+## everolimus:
 
-| 18 | 33353 | Embolizáció/sclerotisatio – szelektív |
+## sunitinib és pazopanib kezelést követően egyaránt adható, sunitinib kezelésre nem reagáló betegnek kizárólag everolimus adható.
 
-| 19 | 33360 | Embolizáció/sclerotisatio – szuperszelektív – egy ág |
+## 22: Az előbb felsorolt terápiák hatástalansága esetén és/vagy ha a terápiákra alkalmatlan a beteg, akkor a szakmai irányelvben megfogalmazott legjobb tüneti és palliatív ellátás alkalmazandó. Opcionálisan alkalmazható medroxyprogesterone palliatív kezelésként.
 
-| 20 | 33361 | Embolizáció/sclerotisatio – minden további ág |
+## Az utánkövetés a 7, 11 pontban leírtak szerint történik.
 
-| 21 |  | Laborvizsgálatok |
+## A betegek terápiájában harmadvonalban finanszírozott gyógyszerkészítmény nincsen. A készítmények együtt nem adhatók.
 
-## 6.3. A releváns HBCs kódok
+## 3. A finanszírozási szakmai ellenőrzés alapját képező ellenőrzési sarokpontok
 
-|  | A | B |
+## Adminisztratív ellenőrzési pontok (folyamatba épített ellenőrzés)
 
-| 1 | HBCs | HBCs megnevezés |
+## 1. Kompetencia szint: kijelölt intézmény, szakorvosi kompetencia ellenőrzése
 
-| 2 | 566C | Vese, ureter, húgyhólyag jelentős műtétei daganat miatt |
+## 2. Betegadatok (online TAJ ellenőrzés)
 
-| 3 | 577B | Vese-, húgyúti daganatok |
+## 3. Jogszabályban rögzített indikációs terület BNO ellenőrzése
 
-| 4 | 9430 | Sugárterápia |
+## Szakmai ellenőrzési pontok
 
-| 5 | 608Z | Vese-, húgyutak műtétei (kivéve: jelentős műtétek) súlyos társult betegséggel |
+## 1. A diagnózis kritériumainak felállítása megfelelő volt-e?
 
-## 6.4. A releváns ATC kódok
+## 2. A tumor invazivitásának ellenőrzése megtörtént-e?
 
-|  | A | B |
+## 3. Az utánkövetés a megfelelő időben megtörtént-e, és ezen minden szükséges vizsgálatot elvégeztek-e?
 
-| 1 | ATC | ATC megnevezés |
+## 4. A finanszírozási eljárásrend alkalmazásának hatását mérő minőségi indikátorok
 
-| 2 | L01XE05 | Sorafenib |
+## A finanszírozási eljárásrend hatását a következő indikátorok mérik.
 
-| 3 | L01XE04 | Sunitinib |
+## − A területre fordított közkiadások alakulása.
 
-| 4 | L01XE08 | Temsirolimus |
+## − A helyes, finanszírozott algoritmus szerint kezelt betegek aránya.
 
-| 5 | L03AB04 | Interferon alfa-2 |
+## 5. A finanszírozás szempontjából lényeges finanszírozási kódok
 
-| 6 | L03AC01 | Aldesleukin |
+## 5.1. Releváns BNO kódok
 
-## 7. Rövidítések:
+| BNO | BNO megnevezése |
 
-## ATC: Anatomical Therapeutic Chemical klasszifikáció
+| C64H0 | A vese rosszindulatú daganata, kivéve a vesemedencét |
 
-## BNO: Betegségek nemzetközi osztályozása
+## 5.2. Releváns OENO kódok
 
-## BSC: Best supportive care
+| OENO | OENO megnevezése |
 
-## HBCS: Homogén betegségcsoport
+| 11041 | Vizsgálat |
 
-## EAU: European Association of Urology
+| 36135 | Vese UH vizsgálata |
 
-## OENO: Orvosi eljárások nemzetközi osztályozása
+| 36130 | Hasi, kismedencei UH (áttekintő, komplex) UH vizsgálat |
 
-## NCCN: National Comprehensive Cancer Network
+| 34450 | Teljes has CT vizsgálata natív |
 
-## RCC: Vesesejtes carcinoma
+| 31310 | Mellkasfelvétel, AP/PA |
 
-## UICC: International Union Against Cancer
+| 31311 | Mellkasfelvétel, oldalirányú |
 
-## TNM: Tumor, node, metastasis (tumor, nyirokcsomó, metasztázis)
+| 31312 | Mellkasfelvétel, kétirányú |
+
+| 31380 | Mellkasfelvétel, célzott |
+
+| 3617D | Duplex UH, vese |
+
+| 34454 | Teljes has és medence CT vizsgálata natív és iv. kontrasztanyag adását követőleg |
+
+| 34442 | Mellkas CT vizsgálata natív plusz iv. kontrasztanyag adását követőleg |
+
+| 34935 | Teljes has MR vizsgálata natív plusz iv. kontrasztanyag adását követőleg |
+
+| 3532G | Vese angioszcintigráfia (indokolt esetben) |
+
+| 3533A | 3 fázisú csontszcintigráfia (indokolt esetben) |
+
+| 34410 | Agykoponya natív CT vizsgálata (agyi metasztázis tünetek esetén) |
+
+| 35240 | Vese szcintigráfia |
+
+## 5.3. Releváns HBCS kódok
+
+| HBCS | HBCS megnevezése |
+
+| 566C | Vese, ureter, húgyhólyag jelentős műtétei daganat miatt |
+
+| 577B | Vese-, húgyúti daganatok |
+
+| 9430 | Sugárterápia |
+
+| 608Z | Vese-, húgyutak műtétei (kivéve: jelentős műtétek) súlyos társult betegséggel |
+
+## 5.4. ATC kódok
+
+| ATC | ATC megnevezése |
+
+| L01XE05 | sorafenib |
+
+| L01XE04 | sunitinib |
+
+| L01XE09 | temsirolimus |
+
+| L03AB04 | interferon alfa-2 |
+
+| L01XE10 | everolimus |
+
+| L01XE11 | pazopanib |
+
+| L01XE17 | axitinib |
 
 3. melléklet a 31/2010. (V. 13.) EüM rendelethez

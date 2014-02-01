@@ -1,4 +1,4 @@
-11. melléklet a 31/2010. (V. 13.) EüM rendelethez[^8]
+11. melléklet a 31/2010. (V. 13.) EüM rendelethez[^10]
 
 ## Az rheumatoid arthritis diagnosztikájának és kezelésének finanszírozási eljárásrendje
 
@@ -282,4 +282,4 @@ ATC: Anatomical Therapeutic Chemical klasszifikáció
 
 BNO: Betegségek nemzetközi osztályozása
 
-[^8]: A 11. melléklet a 24/2013. (III. 29.) EMMI rendelet 3. § (4) bekezdése szerint módosított szöveg.
+[^10]: A 11. melléklet a 24/2013. (III. 29.) EMMI rendelet 3. § (4) bekezdése szerint módosított szöveg.

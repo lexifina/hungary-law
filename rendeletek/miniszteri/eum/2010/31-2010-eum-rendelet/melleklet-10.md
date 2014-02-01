@@ -1,4 +1,4 @@
-10. melléklet a 31/2010. (V. 13.) EüM rendelethez[^7]
+10. melléklet a 31/2010. (V. 13.) EüM rendelethez[^9]
 
 ## A plakkos psoriasis diagnosztikájának és kezelésének finanszírozási eljárásrendje
 
@@ -278,4 +278,4 @@ ATC: Anatomical Therapeutic Chemical klasszifikáció
 
 BNO: Betegségek nemzetközi osztályozása
 
-[^7]: A 10. melléklet a 24/2013. (III. 29.) EMMI rendelet 3. § (3) bekezdése szerint módosított szöveg.
+[^9]: A 10. melléklet a 24/2013. (III. 29.) EMMI rendelet 3. § (3) bekezdése szerint módosított szöveg.

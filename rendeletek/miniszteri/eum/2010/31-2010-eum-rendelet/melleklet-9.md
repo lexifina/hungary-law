@@ -1,4 +1,4 @@
-9. melléklet a 31/2010. (V. 13.) EüM rendelethez[^6]
+9. melléklet a 31/2010. (V. 13.) EüM rendelethez[^8]
 
 ## A colitis ulcerosa diagnosztikájának és kezelésének finanszírozási eljárásrendje
 
@@ -198,4 +198,4 @@ BNO: Betegségek nemzetközi osztályozása
 
 ECCO: European Crohn’s and Colitis Organisation
 
-[^6]: A 9. melléklet a 24/2013. (III. 29.) EMMI rendelet 3. § (2) bekezdése szerint módosított szöveg.
+[^8]: A 9. melléklet a 24/2013. (III. 29.) EMMI rendelet 3. § (2) bekezdése szerint módosított szöveg.
