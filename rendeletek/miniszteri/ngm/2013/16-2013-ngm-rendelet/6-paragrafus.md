@@ -1,6 +1,6 @@
 ## 5. § A támogatáshoz kapcsolódóan előleg nem folyósítható.
 
-6. § (1)[^4] A támogatás az állami adóhatóságtól a Rendelet 44. § (1) bekezdése szerinti bejelentés céljára rendszeresített nyomtatványon igényelhető (a továbbiakban: kérelem). A kérelmet az elektronikus bevallás benyújtására kötelezettek elektronikusan kötelesek benyújtani.
+6. § (1)[^5] A támogatás az állami adóhatóságtól a Rendelet 44. § (1) bekezdése szerinti bejelentés céljára rendszeresített nyomtatványon igényelhető (a továbbiakban: kérelem). A kérelmet az elektronikus bevallás benyújtására kötelezettek elektronikusan kötelesek benyújtani.
 
 (2) A kérelemben fel kell tüntetni
 
@@ -18,4 +18,4 @@ d) a 4. § (1) bekezdés b) pontja szerinti esetben a felmentést engedélyező 
 
 (5) A (4) bekezdés szerinti esetben az üzemeltetőnek a kérelemben nyilatkoznia kell arról is, hogy a 875/2007 EK bizottsági rendelet hatálya alá tartozó csekély összegű (de minimis) támogatásokra vonatkozó szabad de minimis keret ellenőrzéséhez szükséges adatok beszerzése érdekében, valamint az agrár- és vidékfejlesztési állami támogatásokkal kapcsolatos egyes eljárási kérdésekről szóló 353/2012. (XII. 13.) Korm. rendelet 11. § (2) bekezdése szerinti nyilvántartási rendszer működtetése céljából hozzájárul adatainak a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) részére történő átadásához.
 
-[^4]: A 6. § (1) bekezdése a 74/2013. (XII. 30.) NGM rendelet 9. § 4. pontja szerint módosított szöveg.
+[^5]: A 6. § (1) bekezdése a 74/2013. (XII. 30.) NGM rendelet 9. § 4. pontja szerint módosított szöveg.
