@@ -1,1 +1,0 @@
-## „(4) Ha a költségvetési támogatás hatékony felhasználása céljából szükséges, a költségvetési támogatás a miniszter vezetése vagy irányítása alá tartozó költségvetési szerv részére történő előirányzat-átcsoportosítással történik.”
