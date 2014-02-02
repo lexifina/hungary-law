@@ -1,4 +1,4 @@
-## 18. § Hatályát veszti a fertőző betegségek jelentésének rendjéről szóló 63/1997. (XII. 21.) NM rendelet.
+## 18. §[^1]
 
 1. melléklet az 1/2014. (I. 16.) EMMI rendelethez
 
@@ -41,3 +41,5 @@ a szövődmény, tartós szervi elváltozás diagnózisa: …………………�
 a halál oka: a megnevezett fertőző betegség vagy más, éspedig: .……………; BNO:
 
 Az orvos megjegyzései:
+
+[^1]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
