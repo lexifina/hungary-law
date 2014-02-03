@@ -1,0 +1,29 @@
+3. § (1) Elismerés adományozását – a (2) bekezdésben foglalt kivétellel – bárki kezdeményezheti.
+
+(2) Az adományozást kezdeményezheti:
+
+a) a Szent Borbála-érem esetében a szakma reprezentatív munkaadói és munkavállalói érdek-képviseleti szervezetei, valamint a bányász-kohász hagyományt őrző szakmai egyesület együttesen,
+
+b) a Magyar Polgári Repülésért Érdemérem esetében a polgári légiközlekedésben működő gazdálkodó szervezetek, országos sportági szakszövetség, sportági szövetségek vezetői együttesen,
+
+c) a Kiváló Bányász kitüntető cím esetében a szakma reprezentatív munkaadói és munkavállalói érdekképviseleti szervezetei együttesen,
+
+d) a Gyimesi Zoltán-díj esetében az OAH főigazgatója és az OAH Tudományos Tanácsának elnöke együttesen.
+
+(3) Az elismerés adományozására vonatkozó javaslatot az elismerés adományozásának tervezett időpontja előtt legalább 45 nappal a miniszternek címezve – az 1. melléklet szerinti formai és tartalmi követelmények szerint – kell benyújtani a minisztérium elismeréshez kapcsolódó szakterületért felelős önálló szervezeti egységénél.
+
+(4) A beérkezett javaslatokat – a szakterületért felelős önálló szervezeti egység felterjesztése alapján – a Kitüntetési Bizottság rangsorolja. A miniszter a Kitüntetési Bizottság javaslatainak figyelembevételével dönt az elismerések adományozásáról.
+
+(5) A Kitüntetési Bizottság elnöke a minisztérium gazdasági ügyekért felelős helyettes államtitkára, tagjai a minisztérium
+
+a) kabinetfőnöke által delegált személy,
+
+b) közigazgatási államtitkára által delegált személy,
+
+c) személyügyekért felelős főosztályának vezetője,
+
+d) jogi ügyekért felelős főosztályának vezetője.
+
+(6) Az elismeréshez kapcsolódó szakterületért felelős államtitkár képviselője az üléseken meghívottként részt vehet.
+
+(7) A Kitüntetési Bizottság működését ügyrend szabályozza.

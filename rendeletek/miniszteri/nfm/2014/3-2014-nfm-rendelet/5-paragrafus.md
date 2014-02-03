@@ -1,0 +1,31 @@
+5. § (1) Elismerés adományozására a következő alkalmakból kerül sor:
+
+a) március 15-i nemzeti ünnep,
+
+b) Űrhajózás Világnapja (április 12.),
+
+c) Közszolgálati Tisztviselők Napja (július 1.),
+
+d) Vasutasnap (július 10.),
+
+e) augusztus 20-i állami ünnep,
+
+f) Bányásznap (minden év szeptember hónap első vasárnapja),
+
+g) október 23-i nemzeti ünnep,
+
+h) Borbála-nap (december 4.),
+
+i) Nemzetközi Polgári Repülés Világnapja (december 7.),
+
+j) kiemelkedő szakmai alkalom, esemény, évforduló.
+
+(2) Az elismerést a miniszter vagy az általa megbízott személy ünnepélyes keretek között adja át. Ha az elismerésben részesített az adományozás és az átadás közötti időben elhalálozik, az elismerést a törvényes örökösnek kell kiadni.
+
+(3) A posztumusz elismerés átvételére a Kitüntetési Bizottság javaslatában megjelölt hozzátartozó jogosult.
+
+(4) Elismerésben ugyanaz a személy vagy szervezet az előző elismerés adományozásától számított három éven belül ismételten csak kivételesen, legfeljebb egy alkalommal, és csak abban az esetben részesíthető, ha az előző elismerés adományozását követően szerzett, kimagasló érdemek azt indokolják.
+
+(5) Az elismerések adományozásáról és visszavonásáról a minisztérium nyilvántartást vezet. A nyilvántartás tartalmazza az elismerésben részesített 1. mellékletben foglalt adatait, az elismerés megnevezését, az elismerés adományozásának időpontját, valamint az elismerés esetleges visszavonásának tényét és időpontját.
+
+(6) A Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben és a minisztérium honlapján közzé kell tenni az elismerés tényét, az elismerésben részesített nevét, beosztását és érdemeit, az elismerés megnevezését, továbbá az elismerés esetleges visszavonásának tényét és időpontját.
