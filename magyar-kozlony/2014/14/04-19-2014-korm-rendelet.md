@@ -1,0 +1,62 @@
+# A Kormány 19/2014. (II. 3.) Korm. rendelete
+
+Magyar Közlöny 2014. évi 14. szám, 2014. február 3. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/a09bbb16474e3b6bcde36326769ad578051042a5/dokumentumok/1e303ac0080cdad99ac397968925fcbab820f78a/letoltes)
+
+---
+
+A Kormány 19/2014. (II. 3.) Korm. rendelete
+a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvénynek a szociális, valamint a gyermekjóléti
+és gyermekvédelmi ágazatban történő végrehajtásáról szóló 257/2000. (XII. 26.) Korm. rendelet
+módosításáról
+A Kormány a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 85. § (2) bekezdés g) pontjában kapott felhatalmazás
+alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. §
+A közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvénynek a szociális, valamint a gyermekjóléti és
+gyermekvédelmi ágazatban történő végrehajtásáról szóló 257/2000. (XII. 26.) Korm. rendelet (a továbbiakban:
+Kjtvhr.) a következő 15/A. §-sal egészül ki:
+„15/A. § (1) A közalkalmazottat – a (2) bekezdésben foglalt kivétellel – a besorolása alapján ágazati pótlék illeti meg,
+melynek mértékét az 5. számú melléklet tartalmazza.
+(2) Nem illeti meg az ágazati pótlék a 2. számú melléklet V. pontja szerinti pedagógus munkakörben foglalkoztatott
+közalkalmazottat.
+(3) Az ágazati pótlékot nem kell figyelembe venni az adó- és járulékváltozások ellentételezésére szolgáló,
+a közalkalmazottat megillető, kormányrendeletben meghatározott kompenzációra való jogosultság és
+a kompenzáció összegének számítása tekintetében.”
+2. §
+A Kjtvhr. a következő 18. §-sal egészül ki:
+„18. § (1) A 15/A. § szerinti ágazati pótlékot első alkalommal 2014. március hónapban kell kifizetni, 2014. január
+hónapra visszamenőleg.
+(2) Ha a közalkalmazotti jogviszony 2014. január 1-jét követően, de 2014. március 1-jét megelőzően létesül, vagy
+2013. december 31-ét követően, de 2014. március 1-jét megelőzően megszűnik, akkor az (1) bekezdés szerinti
+kifizetés időarányosan történik.
+(3) Nem illeti meg az ágazati pótlék a gyermekvédelmi gyámot, ha illetményét a 17. § (5) bekezdése alapján
+állapítják meg.”
+
+3. §
+A Kjtvhr. az 1. melléklet szerinti 5. számú melléklettel egészül ki.
+4. §
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+1. melléklet a 19/2014. (II. 3.) Korm. rendelethez
+„5. számú melléklet a 257/2000. (XII. 26.) Korm. rendelethez
+Az ágazati pótlék mértéke a pótlékalap %-ában
+Fizetési
+fokozatok
+Fizetési osztályok
+A B C D E F G H I J
+1 30,00% 30,50% 31,50% 32,00% 32,50% 37,50% 40,00% 45,00% 47,50% 60,00%
+2 32,00% 32,50% 33,50% 34,00% 34,50% 39,50% 42,00% 47,00% 49,50% 62,00%
+3 34,00% 34,50% 35,50% 36,00% 36,50% 41,50% 44,00% 49,00% 51,50% 64,00%
+4 36,00% 36,50% 37,50% 38,00% 38,50% 43,50% 46,00% 51,00% 53,50% 66,00%
+5 38,00% 38,50% 39,50% 40,00% 40,50% 45,50% 48,00% 53,00% 55,50% 68,00%
+6 40,00% 40,50% 41,50% 42,00% 42,50% 47,50% 50,00% 55,00% 57,50% 70,00%
+7 42,00% 42,50% 43,50% 44,00% 44,50% 49,50% 52,00% 57,00% 59,50% 72,00%
+8 44,00% 44,50% 45,50% 46,00% 46,50% 51,50% 54,00% 59,00% 61,50% 74,00%
+9 46,00% 46,50% 47,50% 48,00% 48,50% 53,50% 56,00% 61,00% 63,50% 76,00%
+10 48,00% 48,50% 49,50% 50,00% 50,50% 55,50% 58,00% 63,00% 65,50% 78,00%
+11 50,00% 50,50% 51,50% 52,00% 52,50% 57,50% 60,00% 65,00% 67,50% 80,00%
+12 52,00% 52,50% 53,50% 54,00% 54,50% 59,50% 62,00% 67,00% 69,50% 82,00%
+13 54,00% 54,50% 55,50% 56,00% 56,50% 61,50% 64,00% 69,00% 71,50% 84,00%
+14 56,00% 56,50% 57,50% 58,00% 58,50% 63,50% 66,00% 71,00% 73,50% 86,00%
+”
