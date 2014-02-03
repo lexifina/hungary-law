@@ -1,6 +1,6 @@
 ## 9. § E rendelet 2010. január 1-jén lép hatályba.
 
-1. melléklet a 155/2009. (XI. 16.) FVM rendelethez[^8]
+1. melléklet a 155/2009. (XI. 16.) FVM rendelethez[^11]
 
 |  | A | B |
 
@@ -48,4 +48,4 @@
 
 | 21. | Budapest Főváros Kormányhivatalának Földhivatala | 10023002-00301208-00000000 |
 
-[^8]: A melléklet a 70/2013. (VII. 31.) VM rendelet 113. § b) pontjával megállapított szöveg.
+[^11]: A melléklet a 70/2013. (VII. 31.) VM rendelet 113. § b) pontjával megállapított szöveg.
