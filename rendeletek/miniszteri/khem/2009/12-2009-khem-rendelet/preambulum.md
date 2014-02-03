@@ -1,1 +1,0 @@
-A Magyar Köztársaság kitüntetéseiről szóló 1991. évi XXXI. törvény 10. §-ának (2) bekezdésében kapott felhatalmazás alapján – figyelemmel a kormányhivatalokat felügyelő miniszterek kijelöléséről szóló 8/2006. (XII. 23.) ME rendelet 1. §-ának e) pontjában foglaltakra – a következőket rendelem el:
