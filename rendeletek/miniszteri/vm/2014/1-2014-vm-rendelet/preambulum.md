@@ -1,0 +1,3 @@
+A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény 104. § (2) bekezdés b) pontjában kapott felhatalmazás alapján,
+
+az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 94. § h) pontjában meghatározott feladatkörömben eljárva, – az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 73. § c) pontjában meghatározott feladatkörében eljáró nemzetgazdasági miniszterrel egyetértésben – a következőket rendelem el:
