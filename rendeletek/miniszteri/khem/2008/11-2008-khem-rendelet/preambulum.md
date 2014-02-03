@@ -1,1 +1,0 @@
-A Magyar Köztársaság kitüntetéseiről szóló 1991. évi XXXI. törvény 7. §-ának (1) bekezdésében kapott felhatalmazás alapján, a közlekedési, hírközlési és energiaügyi miniszter feladat- és hatásköréről szóló 133/2008. (V. 14.) Korm. rendelet 1. §-ában meghatározott feladatkörömben a következőket rendelem el:
