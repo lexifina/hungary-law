@@ -14,7 +14,7 @@
 
 | 5. | Útügyi hatósági engedélyek | Csongrád Megyei Kormányhivatal Közlekedési Felügyelőség | Nemzeti Közlekedési Hatóság Központ |
 
-| 6. | Vízügyi hatósági és vízvédelmi engedélyek | Alsó-Tisza-vidéki Vízügyi Hatóság | Országos Vízügyi Hatóság |
+| 6. | Vízügyi hatósági engedélyek | Alsó-Tisza-vidéki Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
 | 7. | A Magyar Kereskedelmi Engedélyezési Hivatalról és a területi mérésügyi és műszaki biztonsági hatóságokról szóló 320/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdése és 13. § (2) bekezdése szerinti engedélyek | Csongrád Megyei Kormányhivatal Szegedi Mérésügyi és Műszaki Biztonsági Hatósága (Szeged) | Magyar Kereskedelmi Engedélyezési Hivatal |
 
