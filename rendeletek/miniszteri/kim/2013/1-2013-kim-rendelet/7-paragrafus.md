@@ -11,3 +11,7 @@ b) nyilatkozat, melyben a jelentkező hozzájárul ahhoz, hogy a tanulmányok me
 (2) Nappali munkarendben folyó alapképzés esetén további feltétel a foglalkoztatásra irányuló jogviszony létesítésének vállalása a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló törvény hatálya alá tartozó fegyveres szervnél (a továbbiakban: fegyveres szerv), a biztonsági és a migrációs szakirány kivételével.
 
 (3) A rendészeti igazgatás és a bűnügyi igazgatás szak levelező munkarendben folyó alapképzései esetén további feltétel a fegyveres szervnél fennálló hivatásos szolgálati viszony, a biztonsági, és a migrációs szakirány kivételével.
+
+(4)[^3] Az Egyetem a nappali munkarendben folyó alapképzésre jelentkezővel – a hivatásos állományú jelentkező, valamint a biztonsági szakirány és a migrációs szakirány kivételével – az alkalmassági vizsgálat részeként pályaalkalmassági orientációs beszélgetést folytat le, melynek keretében bizottság vizsgálja a felvételiző pálya iránti elkötelezettségét.
+
+[^3]: A 7. § (4) bekezdését az 5/2014. (I. 27.) KIM rendelet 1. §-a iktatta be.
