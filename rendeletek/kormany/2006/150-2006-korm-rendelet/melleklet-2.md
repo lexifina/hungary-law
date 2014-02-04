@@ -98,7 +98,7 @@
 
 | Környezetvédelem | illetékes Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
-| Vízvédelem | területi vízügyi hatóság | Országos Vízügyi Hatóság |
+| Vízügy | területi vízügyi hatóság | Országos Vízügyi Hatóság |
 
 | Közlekedés |  |  |
 
@@ -142,7 +142,7 @@
 
 | Környezetvédelem | illetékes Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
-| Vízvédelem | területi vízügyi hatóság | Országos Vízügyi Hatóság |
+| Vízügy | területi vízügyi hatóság | Országos Vízügyi Hatóság |
 
 | Építésügy | illetékes járási (fővárosi kerületi) hivatal járási építésügyi hivatala vagy járási építésügyi és örökségvédelmi hivatala, műemléket érintő ügyben a járási építésügyi és örökségvédelmi hivatal | illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala |
 
@@ -182,4 +182,4 @@
 
 | Műszaki biztonság | fővárosi és megyei kormányhivatal mérésügyi és műszaki biztonsági hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
-[^2]: A 2. számú melléklet a 351/2010. (XII. 30.) Korm. rendelet 150. §-ával megállapított, a 111/2011. (VII. 4.) Korm. rendelet 5. §-a, a 158/2011. (VIII. 11.) Korm. rendelet 4. §-a, a 259/2011. (XII. 7.) Korm. rendelet 20. § (1) bekezdés a) pontja, a 23/2012. (II. 29.) Korm. rendelet 13. §-a, a 394/2012. (XII. 20.) Korm. rendelet 9. §-a, az 527/2013. (XII. 30.) Korm. rendelet 37. § (2) bekezdése szerint módosított szöveg.
+[^2]: A 2. számú melléklet a 351/2010. (XII. 30.) Korm. rendelet 150. §-ával megállapított, a 111/2011. (VII. 4.) Korm. rendelet 5. §-a, a 158/2011. (VIII. 11.) Korm. rendelet 4. §-a, a 259/2011. (XII. 7.) Korm. rendelet 20. § (1) bekezdés a) pontja, a 23/2012. (II. 29.) Korm. rendelet 13. §-a, a 394/2012. (XII. 20.) Korm. rendelet 9. §-a, az 527/2013. (XII. 30.) Korm. rendelet 37. § (2) bekezdése, a 22/2014. (II. 3.) Korm. rendelet 5. §-a szerint módosított szöveg.
