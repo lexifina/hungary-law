@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-257-20-
 | 2013-01-01 | 2000-257-20-22.15 | 349/2012. (XII. 12.) Korm. rendelet |
 | 2013-09-01 | 2000-257-20-22.16 | 257/2013. (VII. 5.) Korm. rendelet |
 | 2014-01-01 | 2000-257-20-22.17 | 517/2013. (XII. 30.) Korm. rendelet |
+| 2014-02-04 | 2000-257-20-22.18 | 19/2014. (II. 3.) Korm. rendelet |

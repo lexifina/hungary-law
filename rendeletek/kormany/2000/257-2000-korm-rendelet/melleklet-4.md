@@ -16,7 +16,7 @@
 
 | a 2. számú melléklet szerinti bármely munkakör | amennyiben a munkáltató kötelezte a közalkalmazottat a további képesítés megszerzésére, és az nem biztosít magasabb fizetési osztályba sorolást; vagy a további szakképesítés hasznosítását a munkáltató foglalkozási feltételként a közalkalmazott kinevezésében (kinevezés-módosításában, átsorolásában) előírja |
 
-4. számú melléklet a 257/2000. (XII. 26.) Korm. rendelethez[^79]
+4. számú melléklet a 257/2000. (XII. 26.) Korm. rendelethez[^81]
 
 ## A magasabb vezető, illetve vezető megbízással rendelkező közalkalmazott vezetői pótléka
 
@@ -52,24 +52,4 @@ II. Vezető megbízással rendelkező közalkalmazott vezetői pótléka
 
 III. A Nemzeti Család- és Szociálpolitikai Intézetnél magasabb vezető, vezető megbízással rendelkező közalkalmazott vezetői pótléka
 
-|  |  | Beosztás megnevezése | Vezetői pótlék mértéke (a pótlékalap %-ában) |
-
-|  | 1. | főigazgató | 350% |
-
-|  | 2. | főigazgató-helyettes | 300% |
-
-|  | 2. | igazgató | 250% |
-
-|  | 3. | igazgatóhelyettes | 200% |
-
-|  | 4. | főosztályvezető | 200% |
-
-|  | 5. | főosztályvezető-helyettes | 150% |
-
-|  | 6. | osztályvezető | 150% |
-
-|  | 7. | osztályvezető-helyettes | 100% |
-
-|  | 8. | csoportvezető | 100% |
-
-[^79]: A 4. számú melléklet a 60/2011. (IV. 12.) Korm. rendelet 8. § (3) bekezdésével megállapított, a 258/2011. (XII. 7.) Korm. rendelet 44. § (7) bekezdése, a 349/2012. (XII. 12.) Korm. rendelet 29. § (2) bekezdése szerint módosított szöveg.
+[^81]: A 4. számú melléklet a 60/2011. (IV. 12.) Korm. rendelet 8. § (3) bekezdésével megállapított, a 258/2011. (XII. 7.) Korm. rendelet 44. § (7) bekezdése, a 349/2012. (XII. 12.) Korm. rendelet 29. § (2) bekezdése szerint módosított szöveg.
