@@ -6,13 +6,13 @@
 
 | 2. | A székesfehérvári stadion-rekonstrukciós program keretében UEFA IV. kategóriájú labdarúgó stadion megépítésére és a kapcsolódó infrastruktúra kialakítására irányuló beruházás | Székesfehérvár 7329 helyrajzi számú ingatlan | általános építésügyi és építésfelügyeleti hatósági engedélyezési eljárások | Székesfehérvári Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Fejér Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
-| 3. | környezetvédelmi hatósági engedélyezési eljárások | Közép-Dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 3. | környezetvédelmi hatósági engedélyezési eljárások | Közép-dunántúli Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
 | 4. | útügyi hatósági engedélyezési eljárások | Fejér Megyei Kormányhivatal Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
 | 5. | a Magyar Kereskedelmi Engedélyezési Hivatalról és a területi mérésügyi és műszaki biztonsági hatóságokról szóló 320/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdése és 13. § (2) bekezdése szerinti engedélyezési eljárások | Fejér Megyei Kormányhivatal Székesfehérvári Mérésügyi és Műszaki Biztonsági Hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
-| 6. | vízjogi hatósági eljárások | Közép-Dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 6. | vízügyi hatósági eljárások | Közép-dunántúli Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
 | 7. | hírközlési hatósági eljárások | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
@@ -28,7 +28,7 @@
 
 | 13. | azon beépített tűzoltó berendezések létesítésével és használatbavételi ügyeivel kapcsolatos eljárások, amelyek tervezése, kivitelezése jogszabályban, nemzeti szabványban nem szabályozott | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-2. melléklet a 472/2013. (XII. 11.) Korm. rendelethez
+2. melléklet a 472/2013. (XII. 11.) Korm. rendelethez[^2]
 
 Az 1. § (1) bekezdése szerinti nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárásokban közreműködő hatáskörrel rendelkező szakhatóságok
 
@@ -40,7 +40,9 @@ Az 1. § (1) bekezdése szerinti nemzetgazdasági szempontból kiemelt jelentős
 
 | 3. | a településrendezési követelményeknek és a helyi építési szabályzatnak való megfelelőség | Székesfehérvár Megyei Jogú Város Önkormányzatának jegyzője | Fejér Megyei Kormányhivatal |
 
-| 4. | környezetvédelem, természetvédelem és vízügy | Közép-Dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 4. | környezetvédelem és természetvédelem | Közép-dunántúli Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+
+| 4a. | vízügy | Közép-dunántúli Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
 | 5. | közlekedés: közút | Fejér Megyei Kormányhivatal Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
@@ -61,3 +63,5 @@ Az 1. § (1) bekezdése szerinti nemzetgazdasági szempontból kiemelt jelentős
 | 13. | egészségügy | Fejér Megyei Kormányhivatal Népegészségügyi Szakigazgatási Szerve | Országos Tisztifőorvosi Hivatal |
 
 | 14. | régészet és örökségvédelem | Székesfehérvári Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Fejér Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala, régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
+
+[^2]: A 2. melléklet a 22/2014. (II. 3.) Korm. rendelet 2. § (2) bekezdése szerint módosított szöveg.
