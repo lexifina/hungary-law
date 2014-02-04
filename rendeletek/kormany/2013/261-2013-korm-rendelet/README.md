@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-261-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2013-07-11 | 2013-261-20-22.1 | 261/2013. (VII. 10.) Korm. rendelet |
+| 2014-02-04 | 2013-261-20-22.2 | 22/2014. (II. 3.) Korm. rendelet |

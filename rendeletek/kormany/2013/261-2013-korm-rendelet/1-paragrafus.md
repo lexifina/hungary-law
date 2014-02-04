@@ -1,4 +1,4 @@
-1. § (1) A Kormány nemzetgazdasági szempontból kiemelt jelentőségűvé nyilvánítja a Budapest II. kerület közigazgatási területén lévő, 13204/5 helyrajzi számú, természetben a 1025 Budapest, Margit körút 85–87. szám alatt található ingatlant érintő, az 1. mellékletben felsorolt közigazgatási hatósági ügyeket, amelyek az ingatlan bontásával és közpark létesítésével függenek össze.
+1. § (1)[^1] A Kormány nemzetgazdasági szempontból kiemelt jelentőségűvé nyilvánítja a Budapest II. kerület közigazgatási területén lévő, 13204/5 helyrajzi számú, természetben a 1025 Budapest, Margit körút 85–87. szám alatt található ingatlant érintő, az 1. mellékletben felsorolt közigazgatási hatósági ügyeket, amelyek az ingatlan bontásával és rendőrségi építmény megvalósításával, továbbá a telek be nem épített területén közhasználatú zöldfelület létesítésével függenek össze.
 
 (2) A Kormány az (1) bekezdés szerinti közigazgatási hatósági ügyben eljáró
 
@@ -11,3 +11,5 @@ b) elsőfokú szakhatóságként azt a hatóságot jelöli ki, amely az adott ü
 a) másodfokú hatóságként azt a hatóságot jelöli ki, amely az adott ügyfajtára vonatkozó jogszabály szerint másodfokú hatóságként jár el,
 
 b) másodfokú szakhatóságként azt a hatóságot jelöli ki, amely az adott ügyfajtára vonatkozó jogszabály szerint másodfokú szakhatóságként jár el.
+
+[^1]: Az 1. § (1) bekezdése a 22/2014. (II. 3.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
