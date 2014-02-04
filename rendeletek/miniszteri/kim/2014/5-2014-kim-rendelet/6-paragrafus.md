@@ -1,0 +1,3 @@
+## 5. § Az R. 13. §-a helyébe a következő rendelkezés lép:
+
+## „13. § A részidős (levelező munkarendű) közszolgálati ösztöndíjas közigazgatás-szervező képzésre a Kormányablakkal összefüggő feladatokat ellátó személyek kiválasztásának és képzésének szabályairól szóló 148/2012. (VII. 6.) Korm. rendelet 11. § (1) bekezdés b) pontjában meghatározott tanfolyamot megkezdett vagy a tanfolyamot elvégzett azon személyek jelentkezhetnek, akik rendelkeznek munkáltatói támogató nyilatkozattal. A hallgatói jogviszony létesítésének feltétele a tanfolyam elvégzését igazoló bizonyítvány megléte, és a kormánytisztviselői vagy köztisztviselői jogviszony fennállása.”
