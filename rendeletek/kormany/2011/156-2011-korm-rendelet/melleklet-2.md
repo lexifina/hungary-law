@@ -12,7 +12,7 @@
 
 | 5. | a Magyar Kereskedelmi Engedélyezési Hivatalról és a területi mérésügyi és műszaki biztonsági hatóságokról szóló 320/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdése és 13. § (2) bekezdése szerinti engedélyezési eljárások | Budapest Főváros Kormányhivatala Mérésügyi és Műszaki Biztonsági Hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
-| 6. | vízügyi hatósági és vízvédelmi eljárások | Közép-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
+| 6. | vízügyi hatósági eljárások | Közép-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
 | 7. | hírközlési hatósági eljárások | Nemzeti Média és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
