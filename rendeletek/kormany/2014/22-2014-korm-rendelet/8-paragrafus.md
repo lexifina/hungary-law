@@ -1,0 +1,1 @@
+## 7. § Hatályát veszti az ELI (Extreme Light Infrastructure) integrált európai kutatási nagyberendezés magyarországi megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 97/2011. (VI. 29.) Korm. rendelet 1. mellékletében foglalt táblázat C:6 mezőjében az „és vízvédelmi” szövegrész.
