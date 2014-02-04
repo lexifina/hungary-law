@@ -1,11 +1,11 @@
-5. § (1)[^11] A vizsgált személy a Vizsgáló Bizottság, illetve a Felülvizsgáló Bizottság Elnökétől a kijelölt bizottság helyett más bizottság kijelölését kérheti.
+5. § (1)[^12] A vizsgált személy a Vizsgáló Bizottság, illetve a Felülvizsgáló Bizottság Elnökétől a kijelölt bizottság helyett más bizottság kijelölését kérheti.
 
 (2) A vizsgálat során az igazságügyi szakértők – ha e rendelet eltérően nem rendelkezik – az igazságügyi szakértőkre vonatkozó külön jogszabályokban foglalt rendelkezéseknek megfelelően kötelesek eljárni.
 
-(3)[^12] A bizottság a bírói pályára való alkalmasságot megállapító döntését egyhangúlag hozza.
+(3)[^13] A bizottság a bírói pályára való alkalmasságot megállapító döntését egyhangúlag hozza.
 
-(4)[^13] A vizsgálatról részletes értékelést tartalmazó szakmai véleményt (a továbbiakban: szakmai vélemény) kell készíteni. A szakmai véleménynek tartalmaznia kell az egyes részvizsgálatoknak az alkalmasságot érintő megállapításait, valamint a kompetenciákra vonatkozó értékelést, a kompetenciák tekintetében elért összesített pontszám megadásával. Ha a bizottság döntése szerint a vizsgált személy a bírói munka ellátására nem alkalmas, a szakmai véleményben köteles a döntését indokolni.
+(4)[^14] A vizsgálatról részletes értékelést tartalmazó szakmai véleményt (a továbbiakban: szakmai vélemény) kell készíteni. A szakmai véleménynek tartalmaznia kell az egyes részvizsgálatoknak az alkalmasságot érintő megállapításait, valamint a kompetenciákra vonatkozó értékelést, a kompetenciák tekintetében elért összesített pontszám megadásával. Ha a bizottság döntése szerint a vizsgált személy a bírói munka ellátására nem alkalmas, a szakmai véleményben köteles a döntését indokolni.
 
-[^11]: Az 5. § (1) bekezdése a 8/2011. (III. 4.) KIM rendelet 13. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^12]: Az 5. § (3) bekezdése a 8/2011. (III. 4.) KIM rendelet 3. §-ával megállapított szöveg.
-[^13]: Az 5. § (4) bekezdését a 8/2011. (III. 4.) KIM rendelet 3. §-a iktatta be.
+[^12]: Az 5. § (1) bekezdése a 8/2011. (III. 4.) KIM rendelet 13. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^13]: Az 5. § (3) bekezdése a 8/2011. (III. 4.) KIM rendelet 3. §-ával megállapított szöveg.
+[^14]: Az 5. § (4) bekezdését a 8/2011. (III. 4.) KIM rendelet 3. §-a iktatta be.
