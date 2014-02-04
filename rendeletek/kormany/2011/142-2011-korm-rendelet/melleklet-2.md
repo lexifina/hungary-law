@@ -8,7 +8,7 @@
 
 | 3. | környezetvédelmi hatósági engedélyezési eljárások | Közép-Duna-völgyi Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
-| 4. | vízügyi hatósági és vízvédelmi eljárások | Közép-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi hatóság |
+| 4. | vízügyi hatósági eljárások | Közép-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi hatóság |
 
 | 5. | ingatlan-nyilvántartási hatósági eljárások | Budapesti 2. sz. Körzeti Földhivatal | Budapest Főváros Kormányhivatalának Földhivatala |
 
