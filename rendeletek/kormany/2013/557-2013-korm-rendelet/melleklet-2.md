@@ -66,7 +66,15 @@
 
 ## IV. A bejelentő adóazonosító jele:
 
-2. melléklet az 557/2013. (XII. 31.) Korm. rendelethez
+## V. Az 1/A. § szerinti
+
+## 1. külföldi partner neve:
+
+## 2. Magyarország területén kívüli teljesítési hely címe:
+
+## 3. szerződés megkötésének ideje:
+
+2. melléklet az 557/2013. (XII. 31.) Korm. rendelethez[^3]
 
 IGAZOLÁS
 
@@ -92,4 +100,8 @@ V. A dohány típusa(i) (szárított és/vagy fermentált):
 
 A vámhatósági regisztrációs számot minden módosításnál, illetve bejelentésnél kötelező feltüntetni.
 
+VI. Külföldi partner neve:
+
 Kelt: ………………………………
+
+[^3]: A 2. melléklet a 21/2014. (II. 3.) Korm. rendelet 2. § (2) bekezdése szerint módosított szöveg.
