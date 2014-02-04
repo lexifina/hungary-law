@@ -14,7 +14,7 @@
 
 | 5. |  |  | útügyi hatósági engedélyek | Győr-Moson- Sopron Megyei Kormányhivatal Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központ |
 
-| 6. |  |  | vízügyi hatósági és vízvédelmi engedélyek | Észak-dunántúli Vízügyi Hatóság | Országos Vízügyi Hatóság |
+| 6. |  |  | vízügyi hatósági engedélyek | Észak-dunántúli Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
 | 7. |  |  | A Magyar Kereskedelmi Engedélyezési Hivatalról és a területi mérésügyi és műszaki biztonsági hatóságokról szóló 320/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdése és 13. § (2) bekezdése szerinti engedélyek | Győr-Moson- Sopron Megyei Kormányhivatal Győri Mérésügyi és Műszaki Biztonsági Hatósága (Győr) | Magyar Kereskedelmi Engedélyezési Hivatal |
 
