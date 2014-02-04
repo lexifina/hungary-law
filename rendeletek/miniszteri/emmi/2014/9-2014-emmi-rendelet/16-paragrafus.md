@@ -1,0 +1,3 @@
+16. § (1) A települési önkormányzat, ha a támogatási szerződéstől való elállásra vagy annak felmondására okot adó bármely körülmény bekövetkezik, a támogatott tevékenység összköltsége a tervezetthez képest csökken, a muzeális intézmény adólevonási jogosultságában, a saját vagy a muzeális intézmény adataiban, vagy a szakmai támogatás egyéb – az e rendeletben vagy a támogatási szerződésben meghatározott – feltételeinek teljesítésére vonatkozó változás következik be, a tudomására jutástól számított 8 napon belül azt írásban a miniszternek bejelenti.
+
+(2) A szerződéstől való elállás esetén a miniszter 20 napon belül a támogatási igényt benyújtott önkormányzatok között dönt a támogatás összegének felhasználásáról.

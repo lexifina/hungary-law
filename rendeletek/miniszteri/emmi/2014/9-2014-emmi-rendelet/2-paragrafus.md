@@ -1,0 +1,3 @@
+2. § (1) A települési önkormányzat gondoskodik arról, hogy a támogatás az e rendeletben előírt célra kerüljön felhasználásra, valamint arról, hogy a támogatáshoz az a nyilvános könyvtár, közművelődési intézmény vagy közösségi színtér, valamint muzeális intézmény, amelyre tekintettel a települési önkormányzat a támogatást kapja, a támogatásnak a települési önkormányzat fizetési számlájára történő megérkezésétől számított nyolc napon belül hozzáférjen.
+
+(2) A települési önkormányzat biztosítja a támogatás elkülönített kezelését és analitikus nyilvántartását annak érdekében, hogy azok felhasználása tételesen ellenőrizhető legyen.
