@@ -1,1 +1,0 @@
-## „(5) A biztonság- és védelempolitikai alapképzési szak és mesterszak tekintetében jelentkezési feltétel egy idegen nyelvből államilag elismert B2 szintű (korábban középfokú) komplex (korábban C típusú) nyelvvizsga vagy azzal egyenértékű okirat.”

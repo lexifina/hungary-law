@@ -1,1 +1,0 @@
-## „14. § E rendeletnek az egyes igazságügyi tárgyú miniszteri rendeletek módosításáról szóló 5/2014. (I. 27.) KIM rendelettel (a továbbiakban: Módr1.) megállapított 4. § (2a) bekezdését a Módr1. hatálybalépését megelőzően 3 hónapon belül lejárt kijelölésekre is alkalmazni kell.”
