@@ -1,1 +1,0 @@
-## 6. § Hatályát veszti az AUDI HUNGÁRIA MOTOR KFT. Győr közigazgatási területén megvalósuló nagyberuházásával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 16/2011. (II. 24.) Korm. rendelet 1. mellékletében foglalt táblázat 6. sor, „A beruházás megvalósításával kapcsolatos engedélyek” megjelölésű oszlopában az „és vízvédelmi” szövegrész.

@@ -1,3 +1,3 @@
-## 4. §[^1]
+## 4. §[^2]
 
-[^1]: A 4. § a 10. § (2) bekezdése alapján 2014. március 15-én lép hatályba.
+[^2]: A 4. § a 10. § (2) bekezdése alapján 2014. március 15-én lép hatályba.

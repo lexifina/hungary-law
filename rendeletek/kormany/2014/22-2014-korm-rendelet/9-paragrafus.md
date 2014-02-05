@@ -1,1 +1,0 @@
-## 8. § Hatályát veszti a Pesti Vigadó épületének rekonstrukciójával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 142/2011. (VII. 21.) Korm. rendelet 1. mellékletében foglalt táblázat C:4 mezőjében az „és vízvédelmi ” szövegrész.
