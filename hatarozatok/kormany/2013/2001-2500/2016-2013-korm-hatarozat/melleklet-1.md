@@ -6,7 +6,7 @@
 
 ## történő növelését,
 
-## 2. felhívja
+## 2.[^2] felhívja
 
 ## a) a Miniszterelnökséget vezető államtitkárt és a nemzeti fejlesztési minisztert, hogy az 1. pont a) alpontjában meghatározott projekt, valamint
 
@@ -20,9 +20,9 @@
 
 ## nemzetgazdasági miniszter
 
-## Határidő: 2014. március 31.
+## Határidő: 2014. augusztus 29.
 
-## 3. felhívja a Miniszterelnökséget vezető államtitkárt, a nemzeti fejlesztési minisztert és a nemzetgazdasági minisztert, hogy végezzék el az 1. pontban meghatározott projektek az Európai Unió felé elszámolható költségei közötti lehatárolást,
+## 3.[^3] felhívja a Miniszterelnökséget vezető államtitkárt, a nemzeti fejlesztési minisztert és a nemzetgazdasági minisztert, hogy végezzék el az 1. pontban meghatározott projektek az Európai Unió felé elszámolható költségei közötti lehatárolást,
 
 ## Felelős: Miniszterelnökséget vezető államtitkár
 
@@ -30,15 +30,15 @@
 
 ## nemzetgazdasági miniszter
 
-## Határidő: 2014. március 31.
+## Határidő: 2014. augusztus 29.
 
-## 4. felhívja a Miniszterelnökséget vezető államtitkárt, hogy ha a 2. pontban meghatározottak szerint elvégzett vizsgálat alapján az Európai Unió felé el nem számolható költségek merülnek fel, azok fedezetét Magyarország központi költségvetésének Uniós fejlesztések fejezete terhére biztosítsa,
+## 4.[^4] felhívja a Miniszterelnökséget vezető államtitkárt, hogy ha a 2. pontban meghatározottak szerint elvégzett vizsgálat alapján az Európai Unió felé el nem számolható költségek merülnek fel, azok fedezetét Magyarország központi költségvetésének Uniós fejlesztések fejezete terhére biztosítsa,
 
 ## Felelős: Miniszterelnökséget vezető államtitkár
 
-## Határidő: 2014. március 31.
+## Határidő: 2014. augusztus 29.
 
-## 5. hozzájárul ahhoz, hogy
+## 5.[^5] hozzájárul ahhoz, hogy
 
 ## a) az 1. pont a) alpontjában meghatározott projekt tekintetében a nemzeti fejlesztési miniszter,
 
@@ -50,7 +50,7 @@
 
 ## a b) alpont tekintetében: nemzetgazdasági miniszter
 
-## Határidő: 2014. március 31.
+## Határidő: 2014. augusztus 29.
 
 1. melléklet a 2016/2013. (XII. 29.) Korm. határozathoz
 
@@ -61,3 +61,8 @@
 | 2. | KÖZOP- 5.5.0-09-11-2011- 0027 | Budai Vár és környéke közlekedés fejlesztése | Budapest I. kerület Budavári Önkormányzat | 2012. 02. 22. | 100 | Bruttó | 1 157 351 189 | 9 214 892 192 | 10 372 243 381 |
 
 | 3. | KMOP- 3.1.1/E-12-k-2012- 0001 | Várkert Bazár fejlesztése | Várgondnokság Nonprofit Korlátolt Felelősségű Társaság | 2012. 10. 12 | 100 | Nettó | 388 699 851 | 6 711 300 149 | 7 100 000 000 |
+
+[^2]: A 2. pont az 1040/2014. (II. 6.) Korm. határozat 4. pontja szerint módosított szöveg.
+[^3]: A 3. pont az 1040/2014. (II. 6.) Korm. határozat 4. pontja szerint módosított szöveg.
+[^4]: A 4. pont az 1040/2014. (II. 6.) Korm. határozat 4. pontja szerint módosított szöveg.
+[^5]: Az 5. pont az 1040/2014. (II. 6.) Korm. határozat 4. pontja szerint módosított szöveg.
