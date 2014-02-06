@@ -1,10 +1,10 @@
 1. A Kormány egyetért azzal, hogy
 
-a) a Várbazárnak, mint a Világörökség részeként védett Duna-parti panoráma egyik legjelentősebb műemlékének rekonstrukciója történjen meg;
+a)[^2] a Várbazárnak, mint a Világörökség részeként védett Duna-parti panoráma egyik legjelentősebb műemlékének rekonstrukciója történjen meg;
 
 Felelős: nemzeti fejlesztési miniszter
 
-Határidő: 2014. március 30.
+Határidő: 2014. augusztus 29.
 
 b) a Budai Várnegyed hosszú távú (25 évre szóló) fejlesztésről stratégiai terv készüljön;
 
@@ -56,8 +56,9 @@ Felelős: nemzeti fejlesztési miniszter
 
 Határidő: a szükséges intézkedéseket követően haladéktalanul
 
-3–4.[^1]
+3–4.[^3]
 
 5. Ez a határozat a közzétételét követő napon lép hatályba.
 
-[^1]: A 3–4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. pont a) pontja az 1040/2014. (II. 6.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^3]: A 3–4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
