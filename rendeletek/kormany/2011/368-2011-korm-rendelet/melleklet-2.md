@@ -1,8 +1,8 @@
 ## A fejezetet irányító szerv és annak vezetője
 
-## 1.[^420] a központi költségvetésről szóló törvény I. fejezeténél az Országgyűlés Hivatala és annak főigazgatója, a Közbeszerzési Hatóság tekintetében a Közbeszerzési Hatóság és annak elnöke, a Nemzeti Adatvédelmi és Információszabadság Hatóság tekintetében a Nemzeti Adatvédelmi és Információszabadság Hatóság és annak elnöke, az Egyenlő Bánásmód Hatóság tekintetében az Egyenlő Bánásmód Hatóság és annak elnöke, a 8–10. címek tekintetében a Nemzetgazdasági Minisztérium és a nemzetgazdasági miniszter, a Magyar Energetikai és Közmű-szabályozási Hivatal tekintetében a Magyar Energetikai és Közmű-szabályozási Hivatal és annak elnöke, a Nemzeti Választási Iroda tekintetében a Nemzeti Választási Iroda és annak elnöke,
+## 1.[^422] a központi költségvetésről szóló törvény I. fejezeténél az Országgyűlés Hivatala és annak főigazgatója, a Közbeszerzési Hatóság tekintetében a Közbeszerzési Hatóság és annak elnöke, a Nemzeti Adatvédelmi és Információszabadság Hatóság tekintetében a Nemzeti Adatvédelmi és Információszabadság Hatóság és annak elnöke, az Egyenlő Bánásmód Hatóság tekintetében az Egyenlő Bánásmód Hatóság és annak elnöke, a 8–10. címek tekintetében a Nemzetgazdasági Minisztérium és a nemzetgazdasági miniszter, a Magyar Energetikai és Közmű-szabályozási Hivatal tekintetében a Magyar Energetikai és Közmű-szabályozási Hivatal és annak elnöke, a Nemzeti Választási Iroda tekintetében a Nemzeti Választási Iroda és annak elnöke,
 
-## 2.[^421] a központi költségvetésről szóló törvény II. fejezeténél a Köztársasági Elnöki Hivatal és annak főigazgatója,
+## 2.[^423] a központi költségvetésről szóló törvény II. fejezeténél a Köztársasági Elnöki Hivatal és annak főigazgatója,
 
 ## 3. a központi költségvetésről szóló törvény III. fejezeténél az Alkotmánybíróság és annak elnöke,
 
@@ -16,19 +16,19 @@
 
 ## 8. a központi költségvetésről szóló törvény IX. fejezeténél a Belügyminisztérium és a belügyminiszter,
 
-## 9.[^422] a központi költségvetésről szóló törvény X. fejezeténél a Közigazgatási és Igazságügyi Minisztérium és a közigazgatási és igazságügyi miniszter, a Szellemi Tulajdon Nemzeti Hivatala tekintetében a Szellemi Tulajdon Nemzeti Hivatala és annak elnöke, a 24. cím tekintetében a Nemzetgazdasági Minisztérium és a nemzetgazdasági miniszter,
+## 9.[^424] a központi költségvetésről szóló törvény X. fejezeténél a Közigazgatási és Igazságügyi Minisztérium és a közigazgatási és igazságügyi miniszter, a Szellemi Tulajdon Nemzeti Hivatala tekintetében a Szellemi Tulajdon Nemzeti Hivatala és annak elnöke, a 24. cím tekintetében a Nemzetgazdasági Minisztérium és a nemzetgazdasági miniszter,
 
-## 10.[^423] a központi költségvetésről szóló törvény XI. fejezeténél a Miniszterelnökség és a Miniszterelnökséget vezető államtitkár, a Kormányzati Ellenőrzési Hivatal tekintetében a Kormányzati Ellenőrzési Hivatal és annak elnöke, a 7. és a 8. cím tekintetében a Nemzetgazdasági Minisztérium és a nemzetgazdasági miniszter,
+## 10.[^425] a központi költségvetésről szóló törvény XI. fejezeténél a Miniszterelnökség és a Miniszterelnökséget vezető államtitkár, a Kormányzati Ellenőrzési Hivatal tekintetében a Kormányzati Ellenőrzési Hivatal és annak elnöke, a 7. és a 8. cím tekintetében a Nemzetgazdasági Minisztérium és a nemzetgazdasági miniszter,
 
 ## 11. a központi költségvetésről szóló törvény XII-XV. és a XVIII. fejezeténél a minisztérium és a miniszter,
 
 ## 12. a központi költségvetésről szóló törvény XVI. fejezeténél a Nemzeti Adó- és Vámhivatal és annak elnöke,
 
-## 13.[^424] a központi költségvetésről szóló törvény XVII. fejezeténél a Nemzeti Fejlesztési Minisztérium és a nemzeti fejlesztési miniszter, az Országos Atomenergia Hivatal tekintetében az Országos Atomenergia Hivatal és annak főigazgatója,
+## 13.[^426] a központi költségvetésről szóló törvény XVII. fejezeténél a Nemzeti Fejlesztési Minisztérium és a nemzeti fejlesztési miniszter, az Országos Atomenergia Hivatal tekintetében az Országos Atomenergia Hivatal és annak főigazgatója,
 
-## 14.[^425] a központi költségvetésről szóló törvény XIX. fejezeténél a Miniszterelnökség és a Miniszterelnökséget vezető államtitkár,
+## 14.[^427] a központi költségvetésről szóló törvény XIX. fejezeténél a Miniszterelnökség és a Miniszterelnökséget vezető államtitkár,
 
-## 15.[^426] a központi költségvetésről szóló törvény XX. fejezeténél az Emberi Erőforrások Minisztériuma és az emberi erőforrások minisztere, a 21. cím tekintetében a Nemzetgazdasági Minisztérium és a nemzetgazdasági miniszter,
+## 15.[^428] a központi költségvetésről szóló törvény XX. fejezeténél az Emberi Erőforrások Minisztériuma és az emberi erőforrások minisztere, a 21. cím tekintetében a Nemzetgazdasági Minisztérium és a nemzetgazdasági miniszter,
 
 ## 16. a központi költségvetésről szóló törvény XXX. fejezeténél a Gazdasági Versenyhivatal és annak elnöke,
 
@@ -50,38 +50,23 @@
 
 ## 25. az elkülönített állami pénzalapok tekintetében az alappal való rendelkezésre jogosult, a felhasználásért felelős miniszter.
 
-2. melléklet a 368/2011. (XII. 31.) Korm. rendelethez
+2. melléklet a 368/2011. (XII. 31.) Korm. rendelethez[^429]
 
-ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA x/
+Fejezetek megnevezése:
+
+ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA
 
 a Kormány hatáskörében
 
-Költségvetési év: …………..
+Költségvetési év: ……..
 
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  | Millió forintban, egy tizedessel |
+| Millió forintban |
 
-| Államház-tartási egyedi azonosító | Feje- zet szám | Cím szám | Al- cím szám | Jog- cím csop. szám | Jog- cím szám | Előir. csop. szám | Kie- melt előir. szám | Fejezet név | Cím név | Alcím név | Jogcím csop. név | Jogcím név | Előir. csop. név | Kiemel előirányzat név | K I A D Á S O K | A módosítás jogcíme | Módosítás ( + / - ) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/határozat száma |
-
-| Előirányzat neve |
-
-| Az előirányzatmódosítás érvényessége: a) a költségvetési évben egyszeri jellegű b) a következő év költségvetésébe beépülő (nem kívánt törlendő!) |  |
-
-x/ Az összetartozó előirányzat változásokat (+/-) egymást követően kell szerepeltetni.
-
-1M41778_1
-
-| Államház-tartási egyedi azonosító | Feje- zet szám | Cím szám | Al- cím szám | Jog- cím csop. szám | Jog- cím szám | Előir. csop. szám | Kie- melt előir. szám | Fejezet név | Cím név | Alcím név | Jogcím csop. név | Jogcím név | Előir. csop. név | BEVÉTELEK | A módosítás jogcíme | Módosítás ( + / - ) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/határozat száma |
-
-| Előirányzat neve |
-
-| Az előirányzatmódosítás érvényessége: a) a költségvetési évben egyszeri jellegű b) a következő év költségvetésébe beépülő (nem kívánt törlendő!) |  |  |
-
-x/ Az összetartozó előirányzat változásokat (+/-) egymást követően kell szerepeltetni.
-
-[^420]: Az Ávr. 1. melléklet 1. pontja a 413/2012. (XII. 29.) Korm. rendelet 38. § (1) bekezdésével megállapított, a 307/2013. (VIII. 14.) Korm. rendelet 29. § 24. pontja, a 345/2013. (IX. 30.) Korm. rendelet 67. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^421]: Az Ávr. 1. melléklet 2. pontja a 245/2012. (VIII. 31.) Korm. rendelet 19. §-a szerint módosított szöveg.
-[^422]: Az Ávr. 1. melléklet 9. pontja a 413/2012. (XII. 29.) Korm. rendelet 38. § (1) bekezdésével megállapított szöveg.
-[^423]: Az Ávr. 1. melléklet 10. pontja a 413/2012. (XII. 29.) Korm. rendelet 38. § (1) bekezdésével megállapított szöveg.
-[^424]: Az Ávr. 1. melléklet 13. pontja a 307/2013. (VIII. 14.) Korm. rendelet 30. § (2) bekezdés 5. pontja szerint módosított szöveg.
-[^425]: Az Ávr. 1. melléklet 14. pontja a 497/2013. (XII. 29.) Korm. rendelet 61. § (1) bekezdésével megállapított szöveg.
-[^426]: Az Ávr. 1. melléklet 15. pontja a 413/2012. (XII. 29.) Korm. rendelet 38. § (1) bekezdésével megállapított szöveg.
+[^422]: Az Ávr. 1. melléklet 1. pontja a 413/2012. (XII. 29.) Korm. rendelet 38. § (1) bekezdésével megállapított, a 307/2013. (VIII. 14.) Korm. rendelet 29. § 24. pontja, a 345/2013. (IX. 30.) Korm. rendelet 67. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^423]: Az Ávr. 1. melléklet 2. pontja a 245/2012. (VIII. 31.) Korm. rendelet 19. §-a szerint módosított szöveg.
+[^424]: Az Ávr. 1. melléklet 9. pontja a 413/2012. (XII. 29.) Korm. rendelet 38. § (1) bekezdésével megállapított szöveg.
+[^425]: Az Ávr. 1. melléklet 10. pontja a 413/2012. (XII. 29.) Korm. rendelet 38. § (1) bekezdésével megállapított szöveg.
+[^426]: Az Ávr. 1. melléklet 13. pontja a 307/2013. (VIII. 14.) Korm. rendelet 30. § (2) bekezdés 5. pontja szerint módosított szöveg.
+[^427]: Az Ávr. 1. melléklet 14. pontja a 497/2013. (XII. 29.) Korm. rendelet 61. § (1) bekezdésével megállapított szöveg.
+[^428]: Az Ávr. 1. melléklet 15. pontja a 413/2012. (XII. 29.) Korm. rendelet 38. § (1) bekezdésével megállapított szöveg.
+[^429]: Az Ávr. 2. melléklete a 23/2014. (II. 6.) Korm. rendelet 4. §-ával megállapított szöveg.

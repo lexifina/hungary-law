@@ -1,4 +1,4 @@
-181. §[^417] A Magyarország 2014. évi központi költségvetését megalapozó egyes törvények módosításáról szóló 2013. évi CCIII. törvény 8. § (1) bekezdésének hatálybalépését[^418] követő 60 napon belül a Kincstár hivatalból törli a költségvetési szerv gazdálkodási besorolására vonatkozó törzskönyvi bejegyzéseket. A gazdálkodási besorolásra vonatkozó, 2014. január 1-je előtt keletkezett alapító okiratban lévő bejegyzések törlését az alapító okiratok soron következő módosításakor az egységes szerkezetbe foglalt okiraton át kell vezetni.
+181. §[^419] A Magyarország 2014. évi központi költségvetését megalapozó egyes törvények módosításáról szóló 2013. évi CCIII. törvény 8. § (1) bekezdésének hatálybalépését[^420] követő 60 napon belül a Kincstár hivatalból törli a költségvetési szerv gazdálkodási besorolására vonatkozó törzskönyvi bejegyzéseket. A gazdálkodási besorolásra vonatkozó, 2014. január 1-je előtt keletkezett alapító okiratban lévő bejegyzések törlését az alapító okiratok soron következő módosításakor az egységes szerkezetbe foglalt okiraton át kell vezetni.
 
-[^417]: Az Ávr. 181. §-át a 497/2013. (XII. 29.) Korm. rendelet 60. § (1) bekezdése iktatta be.
-[^418]: A hatálybalépés időpontja 2014. január 1.
+[^419]: Az Ávr. 181. §-át a 497/2013. (XII. 29.) Korm. rendelet 60. § (1) bekezdése iktatta be.
+[^420]: A hatálybalépés időpontja 2014. január 1.
