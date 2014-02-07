@@ -50,10 +50,11 @@ d) a családi gazdálkodó, akkor is, ha a földhasználati nyilvántartásba �
 
 20. támogatható terület: a MePAR rendelet 1. § g) pontja szerinti terület;
 
-21. technikai közreműködő: a megyei kormányhivatal mezőgazdasági szakigazgatási szervének munkatársa, a kerületi állat-egészségügyi és élelmiszer-ellenőrző hivatal falugazdász munkatársa vagy a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara tanácsadója;
+21.[^2] technikai közreműködő: a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara falugazdász munkatársa;
 
 22. terménycsoport: a 1122/2009/EK bizottsági rendelet 56. cikk (1) bekezdés b) és c) pontjában meghatározottak;
 
 23. vélelmezett örökös: a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény (a továbbiakban: Tv.) 45. § (9) bekezdésének megfelelően az ügyféllel annak halálakor együtt élt azon házastársa vagy törvényes rend szerinti örököse, aki e rendelet szerinti eljárást megindítja.
 
 [^1]: Az 1. § 9. pontja a 31/2013. (V. 2.) VM rendelet 28. §-ával megállapított szöveg.
+[^2]: Az 1. § 21. pontja a 8/2014. (II. 6.) VM rendelet 3. §-ával megállapított szöveg.
