@@ -1,5 +1,3 @@
-## 18. § Az egyházi jogi személy a 17. § (1) bekezdés a)–c) pontja szerinti támogatás felhasználásáról a jogszabályok keretei között a bevett egyház belső szabályában meghatározott módon önállóan dönt a támogatás céljának megfelelően.
-
 ## 10. A tábori lelkészi szolgálat végzése
 
 19. § (1) A bevett egyház a katonai szervezeten belüli csoportos és egyéni vallásgyakorlás, valamint lelki gondozás biztosítása érdekében a Magyar Honvédségnél végezhet tábori lelkészi szolgálatot. A tábori lelkészi szolgálat működése a katonai tevékenységet, a kiképzés rendjét nem zavarhatja.
