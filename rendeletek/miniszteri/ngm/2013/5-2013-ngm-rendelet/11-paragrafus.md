@@ -1,1 +1,0 @@
-## 10. § Költségvetési támogatás pénzügyi teljesítésére kizárólag a pénzforgalmi szolgáltatónál nyitott fizetési számlára történő átutalással, az államháztartás központi alrendszerébe tartozó költségvetési szerv kedvezményezett esetében előirányzat-átcsoportosítással vagy átutalással kerülhet sor.
