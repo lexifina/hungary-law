@@ -38,6 +38,6 @@
 
 18. támogatható terület: a MePAR rendelet 1. § g) pontja szerinti terület;
 
-19.[^1] technikai közreműködő: a megyei kormányhivatal mezőgazdasági szakigazgatási szervének munkatársa, a falugazdász vagy a Magyar Agrárkamara agrárkamarai tanácsadója.
+19.[^2] technikai közreműködő: a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara falugazdász munkatársa.
 
-[^1]: Az 1. § 19. pontja a 151/2012. (XII. 29.) VM rendelet 55. §-a szerint módosított szöveg.
+[^2]: Az 1. § 19. pontja a 8/2014. (II. 6.) VM rendelet 2. §-ával megállapított szöveg.

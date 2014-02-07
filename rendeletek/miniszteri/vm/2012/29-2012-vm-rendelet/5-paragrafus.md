@@ -12,8 +12,8 @@ c) az egységes kérelem alapján a 2011. évben megállapított területe nem h
 
 (4) A technikai közreműködés megszüntetését az erre rendszeresített nyomtatványon az ügyfél és a technikai közreműködést ellátó szervezet köteles bejelenteni az MVH-nak. A megszüntetés bejelentéséről szóló nyomtatványt a technikai közreműködést ellátó szervezetnek elektronikus úton kell elküldenie az MVH részére, az ügyfélnek pedig – aláírásával ellátva – postai úton kell megküldenie az MVH ügyfél lakóhelye vagy székhelye szerint illetékes megyei kirendeltségére. Bejelentés hiányában a technikai közreműködés megszüntetése érvénytelen.
 
-(5)[^3] Amennyiben az ügyfél az MVH döntése ellen fellebbezést nyújt be, a fellebbezéshez csatolni kell – a (3) bekezdés, valamint a 4. § (11) bekezdése szerint – megőrzésre köteles dokumentumot, valamint az ügyfél által választott kapcsolattartási formának megfelelően meg kell küldeni az adott kérelem utolsó beadásához kapcsolódó, 1. § 11. pontja szerinti KR dokumentum azonosító számát.
+(5)[^4] Amennyiben az ügyfél az MVH döntése ellen fellebbezést nyújt be, a fellebbezéshez csatolni kell – a (3) bekezdés, valamint a 4. § (11) bekezdése szerint – megőrzésre köteles dokumentumot, valamint az ügyfél által választott kapcsolattartási formának megfelelően meg kell küldeni az adott kérelem utolsó beadásához kapcsolódó, 1. § 11. pontja szerinti KR dokumentum azonosító számát.
 
 (6) Több technikai közreműködő igénybevétele esetén az ügyfél bármelyik technikai közreműködőt igénybe veheti, egy-egy eljárási vagy ügyintézési cselekménynél azonban csak egyikük járhat el, az ezzel ellentétes kikötés hatálytalan.
 
-[^3]: Az 5. § (5) bekezdése a 70/2012. (VII. 16.) VM rendelet 26. §-ával megállapított szöveg.
+[^4]: Az 5. § (5) bekezdése a 70/2012. (VII. 16.) VM rendelet 26. §-ával megállapított szöveg.
