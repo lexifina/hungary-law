@@ -16,7 +16,7 @@ tartalmazza.
 
 (5)[^15] A társadalombiztosítás pénzügyi alapjaiból folyósított egyes ellátások és támogatások tervezett összegeiről és teljesítéséről szóló adatszolgáltatás a 4. melléklet szerinti adatokat tartalmazza.
 
-(6) Az önkormányzati alrendszer sajátos gazdálkodásához kapcsolódó elszámolásokat az Áht. 14. § (3) bekezdése szerinti fejezetből kapott hozzájárulások, támogatások folyósítása évében hatályos központi költségvetésről szóló törvényben szereplő jogcímek és mutatószámok szerinti bontásban, a Kincstár által az Áht. 107. § (2) bekezdése alapján kiadott űrlapokon kell bemutatni.
+(6)[^16] Az önkormányzati alrendszer sajátos gazdálkodásához kapcsolódó elszámolásokat az Áht. 14. § (3) bekezdése szerinti fejezetből kapott támogatások folyósítása évében hatályos központi költségvetésről szóló törvényben szereplő jogcímek és mutatószámok szerinti bontásban, a Kincstár által az Áht. 107. § (2) bekezdése alapján kiadott űrlapokon kell bemutatni.
 
 [^10]: A 8. § (1) bekezdés a) pontja a 307/2013. (VIII. 4.) Korm. rendelet 40. § 3. pontja szerint módosított szöveg.
 [^11]: A 8. § (1) bekezdés b) pontja a 497/2013. (XII. 29.) Korm. rendelet 85. §-ával megállapított szöveg.
@@ -24,3 +24,4 @@ tartalmazza.
 [^13]: A 8. § (3) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 86. §-ával megállapított szöveg.
 [^14]: A 8. § (4) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 112. § 6. pontja szerint módosított szöveg.
 [^15]: A 8. § (5) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 112. § 7. pontja szerint módosított szöveg.
+[^16]: A 8. § (6) bekezdése a 23/2014. (II. 6.) Korm. rendelet 10. § 1. pontja szerint módosított szöveg.

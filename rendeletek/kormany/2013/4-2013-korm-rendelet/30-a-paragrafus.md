@@ -1,6 +1,6 @@
-## 14/A. [^80] A mérlegkészítés időpontja
+## 14/A. [^82] A mérlegkészítés időpontja
 
-## 30/A. §[^81] A mérlegkészítés időpontja
+## 30/A. §[^83] A mérlegkészítés időpontja
 
 a) a költségvetési szerv és a fejezeti kezelésű előirányzat esetén a költségvetési évet követő év február 15-e,
 
@@ -14,5 +14,5 @@ e) a Kincstár által a 6. § (1) bekezdés d) pontja szerint elkészített éve
 
 f) a tulajdonosi joggyakorló szervezet által a 6. § (1) bekezdés e) pontja szerint elkészített éves beszámoló esetén a költségvetési évet követő év május 31-e.
 
-[^80]: A 14/A. alcímet (30/A. §) a 497/2013. (XII. 29.) Korm. rendelet 97. §-a iktatta be.
-[^81]: A 30/A. §-t és az előtte lévő alcímet a 497/2013. (XII. 29.) Korm. rendelet 97. §-a iktatta be.
+[^82]: A 14/A. alcímet (30/A. §) a 497/2013. (XII. 29.) Korm. rendelet 97. §-a iktatta be.
+[^83]: A 30/A. §-t és az előtte lévő alcímet a 497/2013. (XII. 29.) Korm. rendelet 97. §-a iktatta be.

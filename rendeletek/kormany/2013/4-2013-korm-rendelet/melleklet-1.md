@@ -1,4 +1,4 @@
-## 58. §[^128] Az 56. § 2015. január 1-jén hatályát veszti.
+## 58. §[^133] Az 56. § 2015. január 1-jén hatályát veszti.
 
 1. melléklet a 4/2013. (I. 11.) Korm. rendelethez
 
@@ -8,21 +8,21 @@
 
 2. az Áht. 14. § (4) bekezdés c) és d) pontja szerinti fejezetekbe tartozó központi kezelésű előirányzatok,
 
-3.[^129] a központi költségvetésről szóló törvény I. fejezet 8-11. címébe tartozó központi kezelésű előirányzatok,
+3.[^134] a központi költségvetésről szóló törvény I. fejezet 8-11. címébe tartozó központi kezelésű előirányzatok,
 
 4. a központi költségvetésről szóló törvény X. fejezet 24. címébe tartozó központi kezelésű előirányzatok,
 
-5.[^130] a központi költségvetésről szóló törvény XI. fejezet 17. és 18. címébe tartozó központi kezelésű előirányzatok,
+5.[^135] a központi költségvetésről szóló törvény XI. fejezet 17. és 18. címébe tartozó központi kezelésű előirányzatok,
 
-6.[^131] a központi költségvetésről szóló törvény XVII. fejezet 21., 24. és 25. címébe tartozó központi kezelésű előirányzatok,
+6.[^136] a központi költségvetésről szóló törvény XVII. fejezet 21., 24. és 25. címébe tartozó központi kezelésű előirányzatok,
 
-7.[^132] a központi költségvetésről szóló törvény XX. fejezet 21. és 22. címébe tartozó központi kezelésű előirányzatok, és
+7.[^137] a központi költségvetésről szóló törvény XX. fejezet 21. és 22. címébe tartozó központi kezelésű előirányzatok, és
 
-8.[^133] a központi költségvetésről szóló törvény XLIII. fejezet 1. cím 2. alcím 4. jogcímcsoportjába és a 2. cím 4. alcím 3. jogcímcsoportjába tartozó központi kezelésű előirányzatok.
+8.[^138] a központi költségvetésről szóló törvény XLIII. fejezet 1. cím 2. alcím 4. jogcímcsoportjába és a 2. cím 4. alcím 3. jogcímcsoportjába tartozó központi kezelésű előirányzatok.
 
-[^128]: Az 58. §-t a 497/2013. (XII. 29.) Korm. rendelet 110. §-a iktatta be.
-[^129]: Az 1. melléklet 3. pontja a 497/2013. (XII. 29.) Korm. rendelet 111. § (1) bekezdés 1. pontjával megállapított szöveg.
-[^130]: Az 1. melléklet 5. pontja a 497/2013. (XII. 29.) Korm. rendelet 111. § (1) bekezdés 1. pontjával megállapított szöveg.
-[^131]: Az 1. melléklet 6. pontja a 497/2013. (XII. 29.) Korm. rendelet 111. § (1) bekezdés 1. pontjával megállapított szöveg.
-[^132]: Az 1. melléklet 7. pontja a 497/2013. (XII. 29.) Korm. rendelet 111. § (1) bekezdés 1. pontjával megállapított szöveg.
-[^133]: Az 1. melléklet 8. pontját a 497/2013. (XII. 29.) Korm. rendelet 111. § (1) bekezdés 1. pontja iktatta be.
+[^133]: Az 58. §-t a 497/2013. (XII. 29.) Korm. rendelet 110. §-a iktatta be.
+[^134]: Az 1. melléklet 3. pontja a 497/2013. (XII. 29.) Korm. rendelet 111. § (1) bekezdés 1. pontjával megállapított szöveg.
+[^135]: Az 1. melléklet 5. pontja a 497/2013. (XII. 29.) Korm. rendelet 111. § (1) bekezdés 1. pontjával megállapított szöveg.
+[^136]: Az 1. melléklet 6. pontja a 497/2013. (XII. 29.) Korm. rendelet 111. § (1) bekezdés 1. pontjával megállapított szöveg.
+[^137]: Az 1. melléklet 7. pontja a 497/2013. (XII. 29.) Korm. rendelet 111. § (1) bekezdés 1. pontjával megállapított szöveg.
+[^138]: Az 1. melléklet 8. pontját a 497/2013. (XII. 29.) Korm. rendelet 111. § (1) bekezdés 1. pontja iktatta be.

@@ -6,6 +6,6 @@
 
 (3) A jogszabályban előírt adatszolgáltatási kötelezettségek alátámasztásáról a könyvviteli számlák további tagolásával vagy a könyvviteli számlákhoz kapcsolódó részletező nyilvántartások vezetésével kell gondoskodni. A részletező nyilvántartások kötelező minimum tartalmát a 14. melléklet állapítja meg.
 
-(4)[^102] A pénzügyi könyvvezetés során a 40. § (2) és (3) bekezdése szerinti eseteket nettó módon, a korábban elszámolt eszközzel, eredményszemléletű bevétellel, ráfordítással szemben kell elszámolni.
+(4)[^107] A pénzügyi könyvvezetés során a 40. § (2) és (3) bekezdése szerinti eseteket nettó módon, a korábban elszámolt eszközzel, eredményszemléletű bevétellel, ráfordítással szemben kell elszámolni.
 
-[^102]: A 45. § (4) bekezdése a 307/2013. (VIII. 14.) Korm. rendelet 41. § 4. pontja szerint módosított szöveg.
+[^107]: A 45. § (4) bekezdése a 307/2013. (VIII. 14.) Korm. rendelet 41. § 4. pontja szerint módosított szöveg.

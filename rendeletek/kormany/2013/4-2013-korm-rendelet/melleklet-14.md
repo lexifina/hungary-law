@@ -1,4 +1,4 @@
-14. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^149]
+14. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^154]
 
 ## A részletező nyilvántartások tartalma
 
@@ -340,4 +340,4 @@ e) a leltározással kapcsolatos feljegyzéseket.
 
 4. Az átsorolt, követelés fejében átvett készletekről olyan nyilvántartást kell vezetni, amelyet e rendelet az eszköz jellemzője szerint megkövetelne abban az esetben, ha azt nem értékesítenék.
 
-[^149]: A 14. melléklet a 307/2013. (VIII. 14.) Korm. rendelet 39. § (1) bekezdés d) pontja, a 497/2013. (XII. 29.) Korm. rendelet 113. § 14. pontja szerint módosított szöveg.
+[^154]: A 14. melléklet a 307/2013. (VIII. 14.) Korm. rendelet 39. § (1) bekezdés d) pontja, a 497/2013. (XII. 29.) Korm. rendelet 113. § 14. pontja szerint módosított szöveg.

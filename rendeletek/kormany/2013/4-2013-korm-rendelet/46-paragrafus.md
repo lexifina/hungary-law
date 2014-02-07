@@ -22,6 +22,6 @@ f) a 66. Központi irányítás költségei számlacsoport tartalmazza a szervez
 
 (6) Az eszközök és szolgáltatások értékesítése nettó eredményszemléletű bevételei, az egyéb működési célú támogatások eredményszemléletű bevételei és a felhalmozási célú támogatások eredményszemléletű bevételei elszámolására szolgáló könyvviteli számlákat a tevékenység során használt szakfeladatok szerint tovább kell tagolni.
 
-(7)[^103] Nem kötelező a 6. és 7. számlaosztály használata, és a (6) bekezdés szerinti tagolás elvégzése, ha a tevékenység egy szakfeladatot sem vagy kizárólag egy szakfeladatot érint.
+(7)[^108] Nem kötelező a 6. és 7. számlaosztály használata, és a (6) bekezdés szerinti tagolás elvégzése, ha a tevékenység egy szakfeladatot sem vagy kizárólag egy szakfeladatot érint.
 
-[^103]: A 46. § (7) bekezdését a 497/2013. (XII. 29.) Korm. rendelet 103. §-a iktatta be.
+[^108]: A 46. § (7) bekezdését a 497/2013. (XII. 29.) Korm. rendelet 103. §-a iktatta be.
