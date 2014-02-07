@@ -130,6 +130,6 @@
 
 ## A műszaki előírások alkalmazása esetén követendő hitelesítési eljárás tanúsítványát kísérő műszaki dokumentációnak a 2.4. szakaszban említett műszaki dokumentáció részét kell képeznie, és tartalmaznia kell az alrendszer műszaki előírásoknak való megfelelésének értékelésére vonatkozó műszaki adatokat.
 
-5. melléklet a 30/2010. (XII. 23.) NFM rendelethez[^10]
+5. melléklet a 30/2010. (XII. 23.) NFM rendelethez[^12]
 
-[^10]: Az 5. melléklet a 8/2012. (II. 15.) NFM rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^12]: Az 5. melléklet a 8/2012. (II. 15.) NFM rendelet 4. § (3) bekezdésével megállapított szöveg.

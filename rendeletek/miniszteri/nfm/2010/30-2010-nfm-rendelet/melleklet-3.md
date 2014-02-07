@@ -42,6 +42,12 @@
 
 ## Amennyiben a hálózat bizonyos szakaszain a megfelelőség biztosítása nehezen valósítható meg, a jövőbeni összeegyeztethetőséget lehetővé tevő ideiglenes megoldásokat lehet bevezetni.
 
+## 1.6. Hozzáférés biztosítása
+
+## 1.6.1. Az infrastruktúra és járművek alrendszernek hozzáférhetőnek kell lennie a fogyatékossággal élő és a csökkent mozgásképességű személyek számára, így biztosítva részükre a másokéval egyenlő mértékű hozzáférést előzetes vagy utólagos akadálymentesítéssel és egyéb megfelelő intézkedésekkel. Ezt a mindenki számára hozzáférhető releváns részek tervezésénél, kivitelezésénél, felújításánál, korszerűsítésénél, valamint karbantartásánál és üzemeltetésénél egyaránt érvényesíteni kell.
+
+## 1.6.2. A működés és telematikai alkalmazások személyszállítási szolgáltatásokhoz alrendszernek rendelkeznie kell azon szükséges funkciókkal, amelyek a fogyatékossággal élő és a csökkent mozgásképességű személyek számára előzetes vagy utólagos akadálymentesítéssel és egyéb megfelelő intézkedésekkel megkönnyítik a másokéval egyenlő mértékű hozzáférést.
+
 ## 2. Az egyes alrendszerekre vonatkozó követelmények
 
 ## 2.1. Infrastruktúra
@@ -55,6 +61,10 @@
 ## A mindenki számára hozzáférhető infrastruktúra berendezéseket úgy kell megtervezni és kialakítani, hogy az csökkentse a személyi biztonságot veszélyeztető kockázatokat (stabilitás, tűzvédelem, átjárás, evakuálás, peronok stb.).
 
 ## Meg kell hozni a szükséges rendelkezéseket a nagyon hosszú alagutak és aluljárók sajátos biztonsági feltételeinek figyelembevétele érdekében.
+
+## 2.1.2. Hozzáférés biztosítása
+
+## 2.1.2.1. Az infrastruktúra mindenki számára hozzáférhető alrendszereinek az 1.6. ponttal összhangban hozzáférhetőknek kell lenniük a fogyatékossággal élő és a csökkent mozgásképességű személyek számára.
 
 ## 2.2. Energia
 
@@ -126,6 +136,10 @@
 
 ## A vontató járműveket, beleértve a motorvonatok és ingavonati szerelvények vezérlőkocsijait, adatrögzítő berendezéssel kell felszerelni, és gondoskodni kell a berendezés által rögzített adatok egységes feldolgozásáról.
 
+## 2.4.5. Hozzáférés biztosítása
+
+## 2.4.5.1. A járművek mindenki számára hozzáférhető alrendszereinek az 1.6. ponttal összhangban hozzáférhetőknek kell lenniük a fogyatékossággal élő és a csökkent mozgásképességű személyek számára.
+
 ## 2.5. Karbantartás
 
 ## 2.5.1. Egészségvédelem és biztonság
@@ -156,6 +170,10 @@
 
 ## A hálózatüzemeltetési szabályokat, valamint a járművezetők és az utazószemélyzet, illetve a forgalomirányító személyzet képesítését oly módon kell összehangolni, hogy az biztosítsa a vasúti rendszer hatékony üzemeltetését, tekintetbe véve a határátlépéssel járó és a belföldi szolgáltatások követelményeinek eltéréseit.
 
+## 2.6.4. Hozzáférés biztosítása
+
+## 2.6.4.1. Megfelelő intézkedésekkel gondoskodni kell arról, hogy az üzemeltetési szabályok előírják azokat a szükséges funkciókat, amelyekkel a fogyatékossággal élő és a csökkent mozgásképességű személyek részére biztosítható a hozzáférés.
+
 ## 2.7. Telematikai alkalmazások személyszállítási és árufuvarozási szolgáltatásokhoz
 
 ## 2.7.1. Műszaki összeegyeztethetőség
@@ -179,5 +197,9 @@
 ## 2.7.4. Biztonság
 
 ## Garantálni kell az adatok megfelelő integritását és megbízhatóságát a biztonsággal kapcsolatos információk tárolása és továbbítása során.
+
+## 2.7.5. Hozzáférés biztosítása
+
+## 2.7.5.1. Megfelelő intézkedésekkel gondoskodni kell arról, hogy a személyszállítási szolgáltatásokkal kapcsolatos telematikai alkalmazások alrendszerei rendelkezzenek azokkal a funkciókkal, amelyekkel a fogyatékossággal élő és a csökkent mozgásképességű személyek számára biztosítható a hozzáférés.
 
 3. melléklet a 30/2010. (XII. 23.) NFM rendelethez
