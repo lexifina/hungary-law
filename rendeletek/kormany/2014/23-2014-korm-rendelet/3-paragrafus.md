@@ -1,3 +1,0 @@
-## 2. § Az Ávr. 80. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-## „(2) A központi költségvetésről szóló törvény Áht. 14. § (3) bekezdése szerinti fejezetéből biztosított költségvetési támogatások esetén az Áht. 57. § (4) bekezdése szerinti beszámolóban a költségvetési évben nyújtott valamennyi költségvetési támogatásnak az éves költségvetési beszámoló által érintett időszakban felhasznált részéről a Kincstár által az Áht. 107. § (2) bekezdése alapján kiadott űrlap szerinti tartalommal kell beszámolni. Az ilyen tartalmú beszámolás nem érinti a kedvezményezett jogszabályban, támogatói okiratban vagy támogatási szerződésben előírt, e § szerinti beszámolási kötelezettségét.”
