@@ -48,19 +48,19 @@ be) a természeti erőforrások mennyiségi és minőségi megőrzése, a körny
 
 bf) megtermelt értékek hasznosulása a helyi közösség javára, kedvezményezettség,
 
-bg) a területfejlesztési szempontból kedvezményezett, ezen belül a leghátrányosabb helyzetű kistérségek és települések fejlesztésére rendelkezésre álló forrásokat meghatározott támogatási szabályok alapján indokolt felhasználni,
+bg)[^2] a területfejlesztési szempontból kedvezményezett, ezen belül a leghátrányosabb helyzetű járások és települések fejlesztésére rendelkezésre álló forrásokat meghatározott támogatási szabályok alapján indokolt felhasználni,
 
-bh) a területfejlesztési szempontból kedvezményezett, ezen belül a leghátrányosabb helyzetű kistérségekből és településekről benyújtott pályázatokat a pályázatok értékelése során a felzárkóztatás elősegítése érdekében indokolt előnyben részesíteni;
+bh)[^3] a területfejlesztési szempontból kedvezményezett, ezen belül a leghátrányosabb helyzetű járásokból és településekről benyújtott pályázatokat a pályázatok értékelése során a felzárkóztatás elősegítése érdekében indokolt előnyben részesíteni;
 
-c) a kedvezményezett térségek-települések besorolásának alapelvei:
+c)[^4] a kedvezményezett járások, települések besorolásának alapelvei:
 
 ca) a rendszernek koherensnek kell lennie,
 
 cb) csak olyan mutatók használata fogadható el, amelyek mérhetőek, ellenőrizhetőek, nyilvánosak, azaz minden érintett számára hozzáférhetőek és dinamikus összehasonlításra alkalmasak,
 
-cc) a felhasznált mutatók száma korlátlanul nem bővíthető, és csak a települések és térségek fejlettségét ténylegesen megragadó, azaz a besorolását ténylegesen differenciáló mutatókat indokolt figyelembe venni,
+cc) a felhasznált mutatók száma korlátlanul nem bővíthető, és csak a települések és járások fejlettségét ténylegesen megragadó, azaz a besorolását ténylegesen differenciáló mutatókat indokolt figyelembe venni,
 
-cd) a komplex mutató kiszámításánál használt módszernek egyszerűnek, átláthatónak kell lennie, hogy a besorolást a települések, térségek képviselői könnyen ellenőrizhessék.
+cd) a komplex mutató kiszámításánál használt módszernek egyszerűnek, átláthatónak kell lennie, hogy a besorolást a települések, járások képviselői könnyen ellenőrizhessék.
 
 4. Az Országgyűlés a nemzeti jövőkép elérése érdekében a Koncepcióban foglalt négy hosszú távú, 2030-ig szóló átfogó fejlesztési célt jelöl ki. A négy cél a társadalom és gazdaság egészének szól, beleértve a társadalom és a gazdasági környezethez való viszonyulást és a környezeti szempontokat is. Az átfogó célok a gazdasági és társadalmi fordulatot célozzák meg, az alábbiak szerint:
 
@@ -116,16 +116,24 @@ d) népesedési és közösségi fordulat,
 
 e) területi integráció, térségi és helyi fejlesztések a helyi gazdaság bázisán.
 
-7. Az Országgyűlés megerősíti, hogy az ország 19 megyei önkormányzata és Budapest Főváros Önkormányzata, mint területi önkormányzat a Koncepcióban megfogalmazott célok, mint kötelező keretek következetes figyelembevétele mellett jelölték ki a fejlesztési terveikben, programjaikban saját céljaikat, illetve határozták meg prioritásaikat és intézkedéseiket.
+7.[^5] Az Országgyűlés megerősíti, hogy
+
+a) az ország 19 megyei önkormányzata és Budapest Főváros Önkormányzata, mint területi önkormányzat a Koncepcióban megfogalmazott célok, mint kötelező keretek következetes figyelembevétele mellett jelölték ki a fejlesztési terveikben, programjaikban saját céljaikat, illetve határozták meg prioritásaikat és intézkedéseiket,
+
+b) a régió határokon, illetve a megyehatárokon túlterjedő, továbbá egyes kiemelt területfejlesztési feladatai ellátására kiemelt térségként nevesíti a Balaton Kiemelt Üdülőkörzetet, a Budapesti Agglomerációt és a Tokaji Borvidéket.
 
 8. Az Országgyűlés felkéri a Kormányt, hogy kísérje figyelemmel a Koncepcióban meghatározott célok és prioritások megvalósulásának folyamatát és háromévente adjon tájékoztatást megvalósításáról és szükség esetén kezdeményezze felülvizsgálatát.
 
 9. Ez a határozat a közzétételét követő napon lép hatályba.
 
-10.[^2]
+10.[^6]
 
 Melléklet az 1/2014. (I. 3.) OGY határozathoz
 
 20144130000001_1
 
-[^2]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont b) pont bg) alpontja a 6/2014. (II. 7.) OGY határozat 1. pontjával megállapított szöveg.
+[^3]: A 3. pont b) pont bh) alpontja a 6/2014. (II. 7.) OGY határozat 1. pontjával megállapított szöveg.
+[^4]: A 3. pont c) pontja a 6/2014. (II. 7.) OGY határozat 2. pontjával megállapított szöveg.
+[^5]: A 7. pont a 6/2014. (II. 7.) OGY határozat 3. pontjával megállapított szöveg.
+[^6]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
