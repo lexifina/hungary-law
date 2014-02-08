@@ -1,3 +1,5 @@
 4. § (1) Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-(2) Hatályát veszti a termésbecslésről szóló 109/2007. (IX. 28.) FVM rendelet.
+(2)[^1]
+
+[^1]: A 4. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
