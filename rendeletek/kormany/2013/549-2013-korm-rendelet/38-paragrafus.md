@@ -16,6 +16,8 @@ cb) a program előkészítési költség vagy a program menedzsment költség te
 
 cc) az egyes programok keretében projektek részére nyújtott támogatás esetén a program operátor vezetője vagy az általa írásban kijelölt személy
 
-d) érvényesítő: a fejezetet irányító szerv gazdasági vezetője által írásban kijelölt személy,
+d)[^7] érvényesítő: a fejezetet irányító szerv gazdasági vezetője vagy az általa írásban kijelölt személy,
 
 e) utalványozó: a fejezetet irányító szerv vezetője vagy az általa írásban kijelölt személy.
+
+[^7]: A 38. § d) pontja a 27/2014. (II. 7.) Korm. rendelet 19. § g) pontja szerint módosított szöveg.

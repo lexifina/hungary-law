@@ -1,4 +1,4 @@
-## 54–55. §[^1]
+## 54–55. §[^19]
 
 1. melléklet az 549/2013. (XII. 30.) Korm. rendelethez
 
@@ -62,4 +62,4 @@
 
 | 29. | Koordinációs Operatív Program | Miniszterelnökség |
 
-[^1]: Az 54–55. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: Az 54–55. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
