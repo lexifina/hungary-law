@@ -2,4 +2,6 @@
 
 ## 41. Hatályon kívül helyező rendelkezések
 
-47. § Hatályát veszti a fejezeti kezelésű előirányzatok kezelésének és felhasználásának szabályairól szóló 5/2013. (II. 20.) NGM rendelet.
+47. §[^1]
+
+[^1]: A 47. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
