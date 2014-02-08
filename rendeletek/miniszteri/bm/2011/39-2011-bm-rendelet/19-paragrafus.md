@@ -1,6 +1,6 @@
 ## 18. § A tűzoltás vezetését végzők a biztonsági és a munkavédelmi szabályok alapján a tűzoltásban résztvevők baleset- és életvédelméről minden helyzetben intézkednek, annak megtartásáról és megtartatásáról gondoskodnak.
 
-19. § (1)[^1] A tűzoltásvezető a megállapított riasztási fokozat alapján meghatározza a vonulási útvonalat és a vonulási sorrendet.
+19. § (1)[^7] A tűzoltásvezető a megállapított riasztási fokozat alapján meghatározza a vonulási útvonalat és a vonulási sorrendet.
 
 (2) A tűzoltásvezető a tűzoltás érdekében intézkedik a rendelkezésre álló erők és eszközök szakszerű alkalmazásáról, meghatározza a tűzoltásban résztvevők számára a személyi és csapat védőfelszerelések körét és használatát.
 
@@ -60,7 +60,7 @@ ch) sérültek, elhunytak számát,
 
 ci) az egyéb rendkívüli eseményeket.
 
-(5) A tűzoltásvezető a helyszíni felderítést követően a tűz elleni védekezésről, a műszaki mentésről és a tűzoltóságról szóló törvényben foglaltak alapján – indokolt esetben – elvégezteti a terület lezárását a rendőrség, a honvédség, a katasztrófavédelmi, a létesítményi tűzvédelmi szervezet tagjai, vagy más szervezetek és a polgári személyek bevonásával. Annak indokoltsága esetén gondoskodik a biztonsági zóna határának, ellenőrző áteresztő pontok jelöléséről, a kiürítés végrehajtásáról, a biztonsági zónán belüli mozgásról.
+(5)[^8] A tűzoltásvezető a helyszíni felderítést követően a Ttv.-ben foglaltak alapján – indokolt esetben – elvégezteti a terület lezárását a rendőrség, a honvédség, a katasztrófavédelmi, a létesítményi tűzvédelmi szervezet tagjai, vagy más szervezetek és a polgári személyek bevonásával. Annak indokoltsága esetén gondoskodik a biztonsági zóna határának, ellenőrző áteresztő pontok jelöléséről, a kiürítés végrehajtásáról, a biztonsági zónán belüli mozgásról.
 
 (6) A tűzoltásvezető a beavatkozás során – a személyi állomány igénybevételétől függően –gondoskodik
 
@@ -80,10 +80,12 @@ a) intézkedést, javaslatot tesz anyagi, technikai, tűzvédelmi hatósági és
 
 b) szükség estén tűzvizsgálót kér a helyszínre,
 
-c) jelentést tesz a tűzeset helyszínére kiérkező – a 8. § a)–c) pontban meghatározott – elöljárónak a kialakult helyzetről, a tett intézkedésekről, a várható eseményekről,
+c)[^9] jelentést tesz a tűzeset helyszínére kiérkező – a 8. § a)–d) pontban meghatározott – elöljárónak a kialakult helyzetről, a tett intézkedésekről, a várható eseményekről,
 
 d) azokban az esetekben, ha a keletkezett tűznek nemzetgazdasági szempontból nincs jelentősége vagy eloltása a megmentett értékkel nem jár, dönt – a gazdasági és környezetvédelmi szempontok figyelembevételével – a tűz oltásáról vagy a teljes elégés felügyeletéről úgy, hogy a tűzesettel összefüggésben járulékos kár ne keletkezzen,
 
 e) zárt térbe történő behatolás elrendelésével egy időben intézkedik a létszám és a felszerelések ellenőrzéséről és annak nyilvántartásáról.
 
-[^1]: A 19. § (1) bekezdése a 24/2012. (V. 8.) BM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^7]: A 19. § (1) bekezdése a 24/2012. (V. 8.) BM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^8]: A 19. § (5) bekezdése a 9/2014. (II. 7.) BM rendelet 7. § g) pontja szerint módosított szöveg.
+[^9]: A 19. § (7) bekezdés c) pontja a 9/2014. (II. 7.) BM rendelet 7. § b) pontja szerint módosított szöveg.

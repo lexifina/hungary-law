@@ -1,25 +1,29 @@
 ## 2. A tűzoltás, műszaki mentés vezetésére jogosultak köre
 
-## 8. § Tűzoltásvezetői feladatokat az alábbi szolgálati beosztásban szolgálatot ellátó személyek láthatnak el:
+## 8. §[^3] Tűzoltásvezetői feladatokat az alábbi szolgálati beosztásban szolgálatot ellátó személyek láthatnak el:
 
-a) a létesítményi tűzoltóság
+a) a tűz elleni védekezésről, a műszaki mentésről és a tűzoltóságról szóló 1996. évi XXXI. törvény (a továbbiakban: Ttv.) 33/E. §-a szerinti együttműködési megállapodásban meghatározott személy,
 
-aa) rajparancsnoka,
-
-ab) szolgálatparancsnoka,
-
-ac) tűzoltási szakterület vezetője,
-
-ad) parancsnok-helyettese,
-
-ae) parancsnoka;
-
-b) az önkormányzati tűzoltóság
+b) a létesítményi tűzoltóság
 
 ba) rajparancsnoka,
 
-bb) parancsnok-helyettese,
+bb) szolgálatparancsnoka,
 
-bc) parancsnoka;
+bc) tűzoltási szakterület vezetője,
 
-c) a hivatásos katasztrófavédelmi szervek tekintetében a főigazgató által meghatározott személyek.
+bd) parancsnok-helyettese,
+
+be) parancsnoka,
+
+c) az önkormányzati tűzoltóság
+
+ca) rajparancsnoka,
+
+cb) parancsnok-helyettese,
+
+cc) parancsnoka,
+
+d) a hivatásos katasztrófavédelmi szervek tekintetében a főigazgató által meghatározott személyek.
+
+[^3]: A 8. § a 9/2014. (II. 7.) BM rendelet 5. §-ával megállapított szöveg.

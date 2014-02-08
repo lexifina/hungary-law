@@ -1,8 +1,8 @@
-## 34/A. §[^3] A megyei műveletirányító ügyeletes:
+## 34/A. §[^13] A megyei műveletirányító ügyeletes:
 
 a) ellátja a KI illetékességi területén lévő tűzoltóságok működési területéről beérkező tűzjelzések fogadásával, értékelésével és a riasztással kapcsolatos, valamint a jelentési és hír-összeköttetési feladatait, irányítja az adatszolgáltatás elvégzését,
 
-b) intézkedik a tűz elleni védekezésről, a műszaki mentésről és a tűzoltóságról szóló 1996. évi XXXI. törvény 7. § (2) bekezdésében meghatározott más szervek erőinek, eszközeinek igénybevételéről,
+b)[^14] intézkedik a Ttv. 7. § (2) bekezdésében meghatározott más szervek erőinek, eszközeinek igénybevételéről,
 
 c) törekszik a jelző személy megnyugtatására, célirányos kérdéseivel elősegíti az értékelhető jelzés felvételét,
 
@@ -16,4 +16,5 @@ g) tevékenységét a műveletirányítás rendje és a megyei főügyelet ügyr
 
 h) végrehajtja a megyei főügyelet és az OKF Központi Főügyeletének utasításait a riasztások és jelentések végrehajtásával kapcsolatosan.
 
-[^3]: A 34/A. §-t a 24/2012. (V. 8.) BM rendelet 3. § (3) bekezdése iktatta be.
+[^13]: A 34/A. §-t a 24/2012. (V. 8.) BM rendelet 3. § (3) bekezdése iktatta be.
+[^14]: A 34/A. § b) pontja a 9/2014. (II. 7.) BM rendelet 7. § e) pontja szerint módosított szöveg.
