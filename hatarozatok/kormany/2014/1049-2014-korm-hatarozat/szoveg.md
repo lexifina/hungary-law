@@ -6,4 +6,6 @@ Felelős: nemzetgazdasági miniszter
 
 Határidő: azonnal
 
-2. visszavonja a GOP-1.1.1/B konstrukció kódú [az „ELI lézer kutatóközpont megvalósítása (ELI-ALPS) nagyprojekt 1. fázis” című] projekt forráskeretének módosításáról szóló 1037/2013. (II. 1.) Korm. határozat 2. pontját.
+2.[^2]
+
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
