@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-1-20-22
 | 2011-07-01 | 2004-1-20-22.12 | 86/2011. (V. 31.) Korm. rendelet |
 | 2012-01-01 | 2004-1-20-22.13 | 304/2011. (XII. 23.) Korm. rendelet |
 | 2014-01-01 | 2004-1-20-22.14 | 550/2013. (XII. 30.) Korm. rendelet |
+| 2014-02-08 | 2004-1-20-22.15 | 550/2013. (XII. 30.) Korm. rendelet |
