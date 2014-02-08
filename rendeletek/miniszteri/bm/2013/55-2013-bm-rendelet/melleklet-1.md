@@ -1,6 +1,6 @@
 ## 6. § Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-1. melléklet az 55/2013. (X. 2.) BM rendelethez
+1. melléklet az 55/2013. (X. 2.) BM rendelethez[^7]
 
 A nyilatkozat tartalma
 
@@ -8,19 +8,19 @@ Nyilatkozat száma:
 
 Nyilatkozat:
 
-Alulírott ……………… tűzvédelmi szakértő, igazolom, hogy a ……………… címen létrehozott, ……………… építményszerkezet a ……………… műszaki előírásban meghatározott, alább felsorolt tűzvédelmi követelményeknek megfelel.
+Alulírott .................. tűzvédelmi szakértő / tűzvédelmi tervező, igazolom, hogy a .................. címen létrehozott, .................. építményszerkezet a .................. műszaki előírásban meghatározott, alább felsorolt tűzvédelmi követelményeknek megfelel.
 
-Tűzvédelmi szakértőre vonatkozó adatok:
+Tűzvédelmi szakértőre / tűzvédelmi tervezőre vonatkozó adatok:
 
-Tűzvédelmi szakértő neve.
+Tűzvédelmi szakértő / tűzvédelmi tervező neve.
 
-Tűzvédelmi szakértő címe.
+Tűzvédelmi szakértő / tűzvédelmi tervező címe.
 
-Tűzvédelmi szakértő engedélyének száma.
+Tűzvédelmi szakértő / tűzvédelmi tervező engedélyének száma.
 
-Tűzvédelmi szakértő engedélyének érvényességi ideje.
+Tűzvédelmi szakértő / tűzvédelmi tervező engedélyének érvényességi ideje.
 
-Tűzvédelmi szakértői szakterület.
+Tűzvédelmi szakértői / tűzvédelmi tervezői szakterület.
 
 Az építtetőre, kivitelezőre, építkezésre vonatkozó adatok:
 
@@ -77,3 +77,5 @@ Kiadás helye.
 Kiadás dátuma.
 
 Aláírás.
+
+[^7]: Az 1. melléklet a 9/2014. (II. 7.) BM rendelet 4. § (2) bekezdésével megállapított szöveg.

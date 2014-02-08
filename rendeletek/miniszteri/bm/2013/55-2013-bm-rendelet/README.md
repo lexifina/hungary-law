@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-55-20-0
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2013-10-03 | 2013-55-20-0A.1 | 55/2013. (X. 2.) BM rendelet |
+| 2014-02-08 | 2013-55-20-0A.2 | 9/2014. (II. 7.) BM rendelet |
