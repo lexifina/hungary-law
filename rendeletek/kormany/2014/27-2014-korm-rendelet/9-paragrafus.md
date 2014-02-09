@@ -2,12 +2,12 @@
 
 ## 6. A Széchenyi Programirodákról szóló 68/2011. (IV. 28.) Korm. rendelet módosítása
 
-9. § (1) A Széchenyi Programirodákról szóló 68/2011. (IV. 28.) Korm. rendelet [a továbbiakban: 68/2011. (IV. 28.) Korm. rendelet] 2. § (1) bekezdése helyébe a következő rendelkezés lép:
+9. § (1)[^13]
 
-## „(1) Az Irodákat a Miniszterelnökséget vezető államtitkár (a továbbiakban: államtitkár) felügyeli.”
+(2)–(3)[^14]
 
-(2)–(3)[^9]
+(4)[^15]
 
-(4) A 68/2011. (IV. 28.) Korm. rendelet 2. §-a a következő (5) bekezdéssel egészül ki:
-
-[^9]: A 9. § (2)–(3) bekezdése a 20. § (2) bekezdése alapján 2014. február 10-én lép hatályba.
+[^13]: A 9. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 9. § (2)–(3) bekezdése a 20. § (2) bekezdése alapján 2014. február 10-én lép hatályba.
+[^15]: A 9. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

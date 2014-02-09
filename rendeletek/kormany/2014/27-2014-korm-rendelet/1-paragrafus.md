@@ -4,6 +4,7 @@
 
 a)[^1]
 
-b) 33. § (3) bekezdésében a „Kormányirányító” szövegrész helyébe a „Kormány irányító” szöveg
+b)[^2]
 
 [^1]: Az 1. § a) pontja a 20. § (2) bekezdése alapján 2014. február 10-én lép hatályba.
+[^2]: Az 1. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
