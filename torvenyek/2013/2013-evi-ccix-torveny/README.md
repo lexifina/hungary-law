@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-209-00-00
 | --- | --- | --- |
 | 2013-12-13 | 2013. évi CCIX. törvény | 2013-209-00-00.0 (közlönyállapot) |
 | 2013-12-13 | Nemzeti Jogszabálytár (egységes szerkezet) | 2013-209-00-00.1 |
+| 2014-02-10 | Nemzeti Jogszabálytár (egységes szerkezet) | 2013-209-00-00.2 |
