@@ -1,6 +1,6 @@
-## 54–55. §[^19]
+## 54–55. §[^21]
 
-1. melléklet az 549/2013. (XII. 30.) Korm. rendelethez
+1. melléklet az 549/2013. (XII. 30.) Korm. rendelethez[^22]
 
 |  | A | B |
 
@@ -30,9 +30,9 @@
 
 | 13. | Társadalmi Infrastruktúra Operatív Program | Emberi Erőforrások Minisztériuma |
 
-| 14. | Területi Együttműködés előirányzatai | Széchenyi Programiroda Nonprofit Kft. |
+| 14. |  |  |
 
-| 15. | INTERREG | Széchenyi Programiroda Nonprofit Kft. |
+| 15. |  |  |
 
 | 16. | Norvég Alap | Széchenyi Programiroda Nonprofit Kft. |
 
@@ -60,6 +60,7 @@
 
 | 28. | Emberi Erőforrás Fejlesztési Operatív Program | Emberi Erőforrások Minisztériuma |
 
-| 29. | Koordinációs Operatív Program | Miniszterelnökség |
+| 29. |  |  |
 
-[^19]: Az 54–55. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: Az 54–55. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^22]: Az 1. melléklet a 27/2014. (II. 7.) Korm. rendelet 18. §-a szerint módosított szöveg.

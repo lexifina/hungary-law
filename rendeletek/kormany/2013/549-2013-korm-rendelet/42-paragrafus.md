@@ -6,8 +6,8 @@ b) pénzügyi ellenjegyző: a fejezetet irányító szerv gazdasági vezetője v
 
 c) teljesítés igazoló: az érintett, európai uniós forrással rendelkező program irányító hatóságának vezetője vagy az általa írásban kijelölt személy,
 
-d)[^11] érvényesítő: a fejezetet irányító szerv gazdasági vezetője vagy az általa írásban kijelölt személy,
+d)[^13] érvényesítő: a fejezetet irányító szerv gazdasági vezetője vagy az általa írásban kijelölt személy,
 
 e) utalványozó: a fejezetet irányító szerv vezetője vagy az általa írásban kijelölt személy.
 
-[^11]: A 42. § d) pontja a 27/2014. (II. 7.) Korm. rendelet 19. § k) pontja szerint módosított szöveg.
+[^13]: A 42. § d) pontja a 27/2014. (II. 7.) Korm. rendelet 19. § k) pontja szerint módosított szöveg.
