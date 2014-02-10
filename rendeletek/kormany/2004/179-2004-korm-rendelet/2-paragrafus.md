@@ -6,7 +6,7 @@
 
 1. Schengen Alap támogatás: olyan támogatási eszköz, amely a 2004. május 1-jén az Európai Unióhoz csatlakozó új tagállamok beilleszkedését segíti elő a schengeni vívmányok alkalmazására történő felkészülésben, különös tekintettel a külső határok ellenőrzésére;
 
-2.[^2] Felelős Hatóság: feladatait a Széchenyi Programiroda Nonprofit Kft. (a továbbiakba: SZPI) látja el, amely felelős a Schengen Alap támogatásból finanszírozott fejlesztési feladatok teljes körű megvalósításáért;
+2.[^2] Felelős Hatóság: feladatait a Miniszterelnökség látja el, amely felelős a Schengen Alap támogatásból finanszírozott fejlesztési feladatok teljes körű megvalósításáért;
 
 3.[^3] Központi Pénzügyi és Szerződéskötő Egység (a továbbiakban: KPSZE): a Schengen Alap támogatásból finanszírozott fejlesztési feladatok pénzügyi és adminisztratív lebonyolítására kijelölt szervezeti egység, amely a Szakmai Közreműködő Szervezetekkel (a továbbiakban: SzKSz) együttműködve ellátja a támogatások felhasználásával összefüggő közbeszerzési eljárások lebonyolítását, továbbá a szerződéskötési, nyilvántartási és egyéb pénzügyi adminisztrációs feladatokat;
 
@@ -56,7 +56,7 @@
 
 26.[^24] Közbeszerzés: „közbeszerzés” és „közbeszerzési eljárás” alatt e rendelet alkalmazásában a közbeszerzésekről szóló 2003. évi CXXIX. törvény felhatalmazása alapján alkotott egyéb közbeszerzési és beszerzési eljárások is értelemszerűen értendőek.
 
-[^2]: A 2. § 2. pontja a 143/2006. (VI. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított, az 550/2013. (XII. 30.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
+[^2]: A 2. § 2. pontja a 143/2006. (VI. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 27/2014. (II. 7.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
 [^3]: A 2. § 3. pontja a 143/2006. (VI. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^4]: A 2. § 4. pontja a 273/2010. (XII. 9.) Korm. rendelet 103. § (1) bekezdésével megállapított szöveg.
 [^5]: A 2. § 5. pontját a 171/2010. (V. 13.) Korm. rendelet 1. § 6. pontja hatályon kívül helyezte.
