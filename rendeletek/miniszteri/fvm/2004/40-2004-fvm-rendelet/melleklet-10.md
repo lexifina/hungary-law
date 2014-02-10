@@ -1,125 +1,135 @@
-10. számú melléklet a 40/2004. (IV. 7.) FVM rendelethez[^92]
+10. számú melléklet a 40/2004. (IV. 7.) FVM rendelethez[^94]
 
 I. RÉSZ
 
-## A Közösségi Növényfajta-hivatal vizsgálati iránymutatásai a szántóföldi növényfajok DUS vizsgálatára
+## A Közösségi Növényfajta-hivatal vizsgálati iránymutatásai a szántóföldi növényfajok
 
-| Tudományos név | Közönséges név | CPVO előírás |
+## DUS vizsgálatára
 
-| Festuca filiformis Pourr. | Fonalas csenkesz | 2011.6.23-i 67/1 |
+|  | A | B | C |
 
-| Festuca ovina L. | Juhcsenkesz | 2011.6.23-i 67/1 |
+|  | Tudományos név | Közismert elnevezés | CPVO előírás |
 
-| Festuca rubra L. | Vörös csenkesz | 2011.6.23-i 67/1 |
+| 1. | Festuca filiformis Pourr. | Finomlevelű juhcsenkesz | TP 67/1 2011. 6. 23. |
 
-| Festuca trachyphylla (Hack.) Krajina | Keménylevelű csenkesz | 2011.6.23-i 67/1 |
+| 2. | Festuca ovina L. | Juhcsenkesz | TP 67/1 2011. 6. 23. |
 
-| Lolium multiflorum Lam. | Olasz perje, holland perje | 2011.6.23-i 4/1 |
+| 3. | Festuca rubra L. | Vörös csenkesz | TP 67/1 2011. 6. 23. |
 
-| Lolium perenne L. | Angol perje | 2011.6.23-i 4/1 |
+| 4. | Festuca trachyphylla (Hack.) Krajina | Keménylevelű csenkesz (Krajina-csenkesz) | TP 67/1 2011. 6. 23. |
 
-| Lolium x boucheanum Kunth | Hibrid perje | 2011.6.23-i 4/1 |
+| 5. | Lolium multiflorum Lam. | Olasz perje | TP 4/1 2011. 6. 23. |
 
-| Pisum sativum L. | Takarmányborsó | 2010.3.11-i 7/2 |
+| 6. | Lolium perenne L. | Évelő perje | TP 4/1 2011. 6. 23. |
 
-| Brassica napus L. | Káposztarepce | 2011.11.16-i 36/2 |
+| 7. | Lolium x boucheanum Kunth | Hibrid perje | TP 4/1 2011. 6. 23. |
 
-| Helianthus annuus L. | Napraforgó | 2002.10.31-i 81/1 |
+| 8. | Pisum sativum L. | Takarmányborsó | TP 7/2 2010. 3. 11. |
 
-| Linum usitatissimum L. | Len | 2007.3.21-i 57/1 |
+| 9. | Brassica napus L. | Káposztarepce | TP 36/2 2011. 11. 16. |
 
-| Avena nuda L. | Csupasz zab | 2003.11.6-i 20/1 |
+| 10. |  |  |  |
 
-| Avena sativa L. (includes A. byzantina K. Koch) | Zab és bizánci zab | 2003.11.6-i 20/1 |
+| 11. | Helianthus annuus L. | Napraforgó | TP 81/1 2002. 10. 31. |
 
-| Hordeum vulgare L. | Árpa | 2010.3.11-i TP/19/2rev. |
+| 12. | Linum usitatissimum L. | Len/olajlen | TP 57/1 2007. 3. 21. |
 
-| Oryza sativa L. | Rizs | 2004.11.18-i 16/1 |
+| 13. | Avena nuda L. | Csupasz zab | TP 20/1 2003. 11. 6. |
 
-| Secale cereale L. | Rozs | 2002.10.31-i 58/1 |
+| 14. | Avena sativa L. (továbbá A. byzantina K. Koch) | Zab és bizánci zab | TP 20/1 2003. 11. 6. |
 
-| xTriticosecale Wittm. ex A. Camus | Tritikálé | 2011.2.16-i TP/121/2rev.1. |
+| 15. | Hordeum vulgare L. | Árpa | TP 19/3 2012. 3. 21. |
 
-| Triticum aestivum L. | Búza | 2011.2.16-i TP/3/4rev.2. |
+| 16. | Oryza sativa L. | Rizs | TP 16/2 2012. 3. 21. |
 
-| Triticum durum Desf. | Durumbúza | 2003.11.6-i 120/2 |
+| 17. | Secale cereale L. | Rozs | TP 58/1 2002. 10. 31. |
 
-| Zea mays L. | Kukorica | 2010.3.11-i 2/3 |
+| 18. | xTriticosecale Wittm. ex A. Camus | A Triticum nemzetség valamely fajának és a Secale nemzetség valamely fajának keresztezéséből származó hibridek | TP 121/2rev.1. 2011. 2. 16. |
 
-| Solanum tuberosum L. | Burgonya | 2005.12.1-jei 23/2 |
+| 19. | Triticum aestivum L. | Búza | TP 3/4rev.2. 2011. 2. 16. |
+
+| 20. | Triticum durum Desf. | Durumbúza | TP 120/2 2003. 11. 6. |
+
+| 21. | Zea mays L. | Kukorica | TP 2/3 2010. 3. 11. |
+
+| 22. | Solanum tuberosum L. | Burgonya | TP 23/2 2005. 12. 1. |
 
 II. RÉSZ
 
 ## Az UPOV vizsgálati irányelvei a szántóföldi növényfajok DUS vizsgálatára
 
-| Tudományos név | Közönséges név | CPVO előírás |
+|  | A | B | C |
 
-| Beta vulgaris L. | Takarmányrépa/Cukorrépa | 1994.11.4-i TG/150/3 |
+|  | Tudományos név | Közismert elnevezés | UPOV előírás |
 
-| Agrostis canina L. | Ebtippan | 1990.10.12-i TG/30/6 |
+| 1. | Beat vulgaris L. | Takarmányrépa | TG/150/3 1994. 11. 4. |
 
-| Agrostis gigantea Roth. | Óriás tippan | 1990.10.12-i TG/30/6 |
+| 2. | Agrostis canina L. | Ebtippan | TG/30/6 1990. 10. 12. |
 
-| Agrostis stolonifera L. | Tarackos tippan | 1990.10.12-i TG/30/6 |
+| 3. | Agrostis gigantea Roth. | Óriás tippan | TG/30/6 1990. 10. 12. |
 
-| Agrostis capillaris L. | Cérnatippan | 1990.10.12-i TG/30/6 |
+| 4. | Agrostis stolonifera L. | Tarackos tippan | TG/30/6 1990. 10. 12. |
 
-| Bromus catharticus Vahl | Prérifű | 2001.4.4-i TG/180/3 |
+| 5. | Agrostis capillaris L. | Cérnatippan | TG/30/6 1990. 10. 12. |
 
-| Bromus sitchensis Trin. | Alaszkai rozsnok | 2001.4.4-i TG/180/3 |
+| 6. | Bromus catharticus Vahl | Prérifű | TG/180/3 2001. 4. 4. |
 
-| Dactylis glomerata L. | Csomós ebír | 2002.4.17-i TG/31/8 |
+| 7. | Bromus sitchensis Trin. | Alaszkai rozsnok | TG/180/3 2001. 4. 4. |
 
-| Festuca arundinacea Schreber | Nádképű csenkesz | 2002.4.17-i TG/39/8 |
+| 8. | Dactylis glomerata L. | Csomós ebír | TG/31/8 2002. 4. 17. |
 
-| Festuca pratensis Huds. | Réti csenkesz | 2002.4.17-i TG/39/8 |
+| 9. | Festuca arundinacea Schreber | Nádképű csenkesz | TG/39/8 2002. 4. 17. |
 
-| xFestulolium Asch. et Graebn. | Csenkesz-perje fajhibrid | 2008.4.9-i TG/243/1 |
+| 10. | Festuca pratensis Huds. | Réti csenkesz | TG/39/8 2002. 4. 17. |
 
-| Phleum nodosum L. | Kis komócsin | 1984.11.7-i TG/34/6 |
+| 11. | xFestulolium Asch. et Graebn. | A Festuca nemzetség valamely fajának és a Lolium nemzetség valamely fajának keresztezéséből származó hibridek. | TG/243/1 2008. 4. 9. |
 
-| Phleum pratense L. | Réti (mezei) komócsin | 1984.11.7-i TG/34/6 |
+| 12. | Phleum nodosum L. | Kis komócsin | TG/34/6 1984. 11. 7. |
 
-| Poa pratensis L. | Réti perje | 1990.10.12-i TG/33/6 |
+| 13. | Phleum pratense L. | Gumós komócsin | TG/34/6 1984. 11. 7. |
 
-| Lupinus albus L. | Fehérvirágú csillagfürt | 2004.3.31-i TG/66/4 |
+| 14. | Poa pratensis L. | Réti perje | TG/33/6 1990. 10. 12. |
 
-| Lupinus angustifolius L. | Keskenylevelű csillagfürt | 2004.3.31-i TG/66/4 |
+| 15. |  |  |  |
 
-| Lupinus luteus L. | Sárgavirágú csillagfürt | 2004.3.31-i TG/66/4 |
+| 16. | Lupinus albus L. | Fehér csillagfürt | TG/66/4 2004. 3. 31. |
 
-| Medicago sativa L. | Lucerna | 2005.4.6-i TG/6/5 |
+| 17. | Lupinus angustifolius L. | Keskenylevelű csillagfürt | TG/66/4 2004. 3. 31. |
 
-| Medicago x varia T. Martyn | Tarkavirágú lucerna | 2005.4.6-i TG/6/5 |
+| 18. | Lupinus luteus L. | Sárga csillagfürt | TG/66/4 2004. 3. 31. |
 
-| Trifolium pratense L. | Vöröshere | 2001.4.4-i TG/5/7 |
+| 19. | Medicago sativa L. | Lucerna | TG/6/5 2005. 4. 6. |
 
-| Trifolium repens L. | Fehérhere | 2003.4.9-i TG/38/7 |
+| 20. | Medicago x varia T. Martyn | Tarkavirágú lucerna | TG/6/5 2005. 4. 6. |
 
-| Vicia faba L. | Lóbab | 2002.4.17-i TG/8/6 |
+| 21. | Trifolium pratense L. | Vöröshere | TG/5/7 2001. 4. 4. |
 
-| Vicia sativa L. | Tavaszi bükköny | 1988.10.21-i TG/32/6 |
+| 22. | Trifolium repens L. | Fehérhere | TG/38/7 2003. 4. 9. |
 
-| Brassica napus L. var. napobrassica (L.) Rchb. | Karórépa | 2001.4.4-i + 2009.4.1-jei TG/89/6rev. |
+| 23. | Vicia faba L. | Lóbab | TG/8/6 2002. 4. 17. |
 
-| Raphanus sativus L. var. oleiformis Pers. | Takarmányretek | 2001.4.4-i TG/178/3 |
+| 24. | Vicia sativa L. | Tavaszi bükköny | a) TG/32/6 1988. 10. 21 |
 
-| Arachis hypogea L. | Földimogyoró | 1985.11.13-i TG/93/3 |
+| 25. | Brassica napus L. var. napobrassica (L.) Rchb. | Karórépa | TG/89/6rev. 2001. 4. 4. + 2009. 4. 1. |
 
-| Brassica rapa L. var. silvestris (Lam.) Briggs | Réparepce | 2002.4.17-i TG/185/3 |
+| 26. | Raphanus sativus L. var. oleiformis Pers. | Takarmányretek | TG/178/3 2001. 4. 4. |
 
-| Carthamus tinctorius L. | Sáfrányos szeklice | 1990.10.12-i TG/134/3 |
+| 27. | Arachis hypogea L. | Földimogyoró | TG/93/3 1985. 11. 13. |
 
-| Gossypium spp. | Gyapot | 2001.4.4-i TG/88/6 |
+| 28. | Brassica rapa L. var. silvestris (Lam.) Briggs | Réparepce | TG/185/3 2002. 4. 17. |
 
-| Papaver somniferum L. | Mák | 1999.3.24-i TG/166/3 |
+| 29. | Carthamus tinctorius L. | Sáfrányos szeklice | TG/134/3 1990. 10. 12. |
 
-| Sinapis alba L. | Fehér mustár | 2001.4.4-i TG/179/3 |
+| 30. | Gossypium spp. | Gyapot | TG/88/6 2001. 4. 4. |
 
-| Glycine max (L.) Merrill | Szója | 1998.4.1-jei TG/80/6 |
+| 31. | Papaver somniferum L. | Mák | TG/166/3 1999. 3. 24. |
 
-| Sorghum bicolor (L.) Moench | Cirok | 1989.10.6-i TG/122/3 |
+| 32. | Sinapis alba L. | Fehér mustár | TG/179/3 2001. 4. 4. |
+
+| 33. | Glycine max (L.) Merrill | Szójabab | TG/80/6 1998. 4. 1. |
+
+| 34. | Sorghum bicolor (L.) Moench | Cirok | TG/122/3 1989. 10. 6. |
 
 III. RÉSZ
 
-[^92]: A 10. számú mellékletet a 70/2006. (IX. 27.) FVM rendelet 3. §-a iktatta be, szövege a 105/2012. (X. 11.) VM rendelet 4. §-ával megállapított szöveg.
+[^94]: A 10. számú mellékletet a 70/2006. (IX. 27.) FVM rendelet 3. §-a iktatta be, szövege a 9/2014. (II. 7.) VM rendelet 2. §-ával megállapított szöveg.

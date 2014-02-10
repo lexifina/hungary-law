@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-40-20-8
 | 2012-01-21 | 2004-40-20-82.14 | 70/2006. (IX. 27.) FVM rendelet |
 | 2012-09-30 | 2004-40-20-82.15 | 68/2010. (V. 12.) FVM rendelet |
 | 2012-10-14 | 2004-40-20-82.16 | 105/2012. (X. 11.) VM rendelet |
+| 2014-02-10 | 2004-40-20-82.17 | 9/2014. (II. 7.) VM rendelet |

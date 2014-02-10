@@ -690,6 +690,6 @@
 
 ## Megjegyzés: Szőlő és szőlőalany klónok bejelentésekor csak vírustesztelt szaporítóanyag fogadható el.
 
-5. számú melléklet a 40/2004. (IV. 7.) FVM rendelethez[^82]
+5. számú melléklet a 40/2004. (IV. 7.) FVM rendelethez[^84]
 
-[^82]: Az 5. számú melléklet a 42/2011. (V. 26.) VM rendelet 3. §-ával megállapított szöveg.
+[^84]: Az 5. számú melléklet a 42/2011. (V. 26.) VM rendelet 3. §-ával megállapított szöveg.
