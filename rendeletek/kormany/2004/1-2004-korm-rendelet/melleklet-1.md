@@ -16,7 +16,7 @@ E rendeletben meghatározott egyes intézmények működtetéséért felelős sz
 
 | 6 | Regionális Fejlesztési Operatív Program Irányító Hatóság | területfejlesztés stratégiai tervezéséért miniszter |
 
-| 7 | INTERREG Közösségi Kezdeményezés Irányító Hatóság | Széchenyi Programiroda Nonprofit Korlátolt Felelősségű Társaság vezetője |
+| 7 | INTERREG Közösségi Kezdeményezés Irányító Hatóság | Miniszterelnökséget vezető államtitkár |
 
 | 8 | Kohéziós Alap Irányító Hatóság | közlekedésért, energetikapolitikáért felelős miniszter |
 
@@ -26,4 +26,4 @@ E rendeletben meghatározott egyes intézmények működtetéséért felelős sz
 
 | 11 | Kifizető Hatóság | államháztartásért felelős miniszter |
 
-[^64]: Az 1. melléklet az 550/2013. (XII. 30.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^64]: Az 1. melléklet az 550/2013. (XII. 30.) Korm. rendelet 4. §-ával megállapított, a 27/2014. (II. 7.) Korm. rendelet 2. §-a szerint módosított szöveg.
