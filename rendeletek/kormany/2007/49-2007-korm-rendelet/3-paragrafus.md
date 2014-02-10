@@ -2,7 +2,7 @@
 
 3. § (1) Az 1. § (3) bekezdésének a), b), valamint h) pontjában meghatározott program vonatkozásában
 
-a)[^5] a közös irányító hatóság: a Széchenyi Programiroda Nonprofit Kft. nemzetközi együttműködési programokért felelős szervezeti egysége;
+a)[^5] a közös irányító hatóság: a Miniszterelnökség;
 
 b)[^6] az 1080/2006/EK rendelet 16. cikkében foglalt feladat ellátásával megbízott szerv: a VÁTI Magyar Regionális Fejlesztési és Urbanisztikai Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: VÁTI);
 
@@ -10,11 +10,11 @@ c)[^7] közös igazoló hatóság: Magyar Államkincstár;
 
 d)[^8] közös ellenőrzési hatóság: a az Európai Támogatásokat Auditáló Főigazgatóság;
 
-e)[^9] nemzeti hatóság: a Széchenyi Programiroda Nonprofit Kft. nemzetközi együttműködési programokért felelős szervezeti egysége.
+e)[^9] nemzeti hatóság: a Miniszterelnökség.
 
 (2)[^10] Az 1. § (3) bekezdésének e)–f) pontjában meghatározott program vonatkozásában
 
-a)[^11] a közös irányító hatóság: a Széchenyi Programiroda Nonprofit Kft. nemzetközi együttműködési programokért felelős szervezeti egysége;
+a)[^11] a közös irányító hatóság: a Miniszterelnökség;
 
 b)[^12] a közös igazoló hatóság: Magyar Államkincstár;
 
@@ -22,19 +22,19 @@ c)[^13] a közös ellenőrzési hatóság: az Európai Támogatásokat Auditál�
 
 d)[^14] az előcsatlakozási támogatási eszköz (IPA) létrehozásáról szóló 1085/2006/EK tanácsi rendelet végrehajtásáról szóló 2007. június 12-i 718/2007/EK bizottsági rendelet 108. cikkében foglalt feladat ellátásával megbízott szerv: a VÁTI;
 
-e)[^15] nemzeti hatóság: a Széchenyi Programiroda Nonprofit Kft. nemzetközi együttműködési programokért felelős szervezeti egysége.
+e)[^15] nemzeti hatóság: a Miniszterelnökség.
 
 (3)[^16] Az 1. § (3) bekezdésének g) pontjában meghatározott program vonatkozásában
 
-a)[^17] a közös irányító hatóság: a Széchenyi Programiroda Nonprofit Kft. nemzetközi együttműködési programokért felelős szervezeti egysége;
+a)[^17] a közös irányító hatóság: a Miniszterelnökség;
 
 b)[^18] az európai szomszédsági és partnerségi támogatási eszköz létrehozására vonatkozó általános rendelkezések meghatározásáról szóló 1638/2006/EK európai parlamenti és tanácsi rendelet keretében finanszírozott, határokon átnyúló együttműködési programok végrehajtási szabályainak megállapításáról szóló 2007. augusztus 9-i 951/2007/EK bizottsági rendelet 39. cikkében foglalt feladat ellátásával megbízott szerv: a VÁTI;
 
-c)[^19] nemzeti hatóság: a Széchenyi Programiroda Nonprofit Kft. nemzetközi együttműködési programokért felelős szervezeti egysége.
+c)[^19] nemzeti hatóság: a Miniszterelnökség.
 
 (4)[^20] Az 1. § (3) bekezdésének c), d), valamint i)–k) pontjában meghatározott program vonatkozásában
 
-a)[^21] a nemzeti hatóság: a Széchenyi Programiroda Nonprofit Kft. nemzetközi együttműködési programokért felelős szervezeti egysége;
+a)[^21] a nemzeti hatóság: a Miniszterelnökség;
 
 b)[^22] az ellenőri csoport magyar tagja: az Európai Támogatásokat Auditáló Főigazgatóság;
 
@@ -66,23 +66,23 @@ c) az 1080/2006/EK rendelet 16. cikkében foglalt feladat ellátásával megbíz
 
 d) az ellenőri csoport magyar tagja: az Európai Támogatásokat Auditáló Főigazgatóság.
 
-[^5]: A 3. § (1) bekezdés a) pontja az 550/2013. (XII. 30.) Korm. rendelet 29. § a) pontja szerint módosított szöveg.
+[^5]: A 3. § (1) bekezdés a) pontja a 27/2013. (II. 7.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
 [^6]: A 3. § (1) bekezdés b) pontja a 16/2010. (II. 5.) Korm. rendelet 9. § (2) bekezdése szerint módosított szöveg.
 [^7]: A 3. § (1) bekezdés c) pontja a 113/2011. (VII. 7.) Korm. rendelet 38. §-a szerint módosított szöveg.
 [^8]: A 3. § (1) bekezdés d) pontja a 210/2010. (VI. 30.) Korm. rendelet 15. § (5) bekezdése szerint módosított szöveg.
-[^9]: A 3. § (1) bekezdés e) pontját az 550/2013. (XII. 30.) Korm. rendelet 28. § (1) bekezdése iktatta be.
+[^9]: A 3. § (1) bekezdés e) pontját az 550/2013. (XII. 30.) Korm. rendelet 28. § (1) bekezdése iktatta be, szövege a 27/2013. (II. 7.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
 [^10]: A 3. § (2) bekezdése a 35/2008. (II. 23.) Korm. rendelet 51. § (4) bekezdésével megállapított szöveg.
-[^11]: A 3. § (2) bekezdés a) pontja az 550/2013. (XII. 30.) Korm. rendelet 29. § a) pontja szerint módosított szöveg.
+[^11]: A 3. § (2) bekezdés a) pontja a 27/2013. (II. 7.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.
 [^12]: A 3. § (2) bekezdés b) pontja a 113/2011. (VII. 7.) Korm. rendelet 38. §-a szerint módosított szöveg.
 [^13]: A 3. § (2) bekezdés c) pontja a 210/2010. (VI. 30.) Korm. rendelet 15. § (5) bekezdése szerint módosított szöveg.
 [^14]: A 3. § (2) bekezdés d) pontja a 16/2010. (II. 5.) Korm. rendelet 9. § (2) bekezdése szerint módosított szöveg.
-[^15]: A 3. § (2) bekezdés e) pontját az 550/2013. (XII. 30.) Korm. rendelet 28. § (2) bekezdése iktatta be.
+[^15]: A 3. § (2) bekezdés e) pontját az 550/2013. (XII. 30.) Korm. rendelet 28. § (2) bekezdése iktatta be, szövege a 27/2013. (II. 7.) Korm. rendelet 5. § (4) bekezdésével megállapított szöveg.
 [^16]: A 3. § új (3) bekezdését a 35/2008. (II. 23.) Korm. rendelet 51. § (5) bekezdése iktatta be, egyidejűleg az eredeti (3)–(5) bekezdés számozását (4)–(6) bekezdésre változtatva.
-[^17]: A 3. § (3) bekezdés a) pontja az 550/2013. (XII. 30.) Korm. rendelet 29. § a) pontja szerint módosított szöveg.
+[^17]: A 3. § (3) bekezdés a) pontja a 27/2013. (II. 7.) Korm. rendelet 5. § (5) bekezdésével megállapított szöveg.
 [^18]: A 3. § (3) bekezdés b) pontja a 16/2010. (II. 5.) Korm. rendelet 9. § (2) bekezdése szerint módosított szöveg.
-[^19]: A 3. § (3) bekezdés c) pontját az 550/2013. (XII. 30.) Korm. rendelet 28. § (3) bekezdése iktatta be.
+[^19]: A 3. § (3) bekezdés c) pontját az 550/2013. (XII. 30.) Korm. rendelet 28. § (3) bekezdése iktatta be, szövege a 27/2013. (II. 7.) Korm. rendelet 5. § (6) bekezdésével megállapított szöveg.
 [^20]: A 3. § eredeti (3) bekezdésének számozását a 35/2008. (II. 23.) Korm. rendelet 51. § (5) bekezdése (4) bekezdésre változtatta.
-[^21]: A 3. § (4) bekezdés a) pontja az 550/2013. (XII. 30.) Korm. rendelet 29. § a) pontja szerint módosított szöveg.
+[^21]: A 3. § (4) bekezdés a) pontja a 27/2013. (II. 7.) Korm. rendelet 5. § (7) bekezdésével megállapított szöveg.
 [^22]: A 3. § (4) bekezdésének b) pontja a 35/2008. (II. 23.) Korm. rendelet 51. § (6) bekezdésével megállapított, a 210/2010. (VI. 30.) Korm. rendelet 15. § (5) bekezdése szerint módosított szöveg.
 [^23]: A 3. § (4) bekezdés c) pontja a 16/2010. (II. 5.) Korm. rendelet 9. § (2) bekezdése szerint módosított szöveg.
 [^24]: A 3. § eredeti (4) bekezdésének számozását a 35/2008. (II. 23.) Korm. rendelet 51. § (5) bekezdése (5) bekezdésre változtatta.
