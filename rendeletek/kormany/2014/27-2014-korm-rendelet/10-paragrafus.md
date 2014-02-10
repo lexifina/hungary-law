@@ -1,6 +1,7 @@
-10. § (1)[^16]
+10. § (1) A 68/2011. (IV. 28.) Korm. rendelet 2/A. § (1) bekezdése helyébe a következő rendelkezés lép:
 
-(2)[^17]
+## „(1) A Társaságot – a 2. § (4) bekezdése szerinti feladatok kivételével – az államtitkár felügyeli. A Társaság a 2. § (4) bekezdése szerinti feladatok tekintetében nem utasítható.”
 
-[^16]: A 10. § (1) bekezdése a 20. § (2) bekezdése alapján 2014. február 10-én lép hatályba.
-[^17]: A 10. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+(2)[^8]
+
+[^8]: A 10. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

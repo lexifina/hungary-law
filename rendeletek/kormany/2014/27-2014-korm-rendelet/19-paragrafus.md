@@ -1,3 +1,1 @@
-## 18. §[^22]
-
-[^22]: A 18. § a 20. § (2) bekezdése alapján 2014. február 10-én lép hatályba.
+## 18. § Az 549/2013. (XII. 30.) Korm. rendelet 1. melléklete a 3. melléklet szerint módosul.
