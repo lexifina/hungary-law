@@ -56,7 +56,7 @@
 
 | TÁMOP-5.2.9. | Legyen más a szenvedélyed |  |  | 0,25 | A veszélyeztetett korosztály tagjainak káros szenvedélyektől való távol tartása prevenciós programok elterjesztését szolgáló akcióprogramok által és a reintegráció, reszocializáció elősegítése. | emberi erőforrások minisztere |  |
 
-2. melléklet az 1736/2013. (X. 11.) Korm. határozathoz
+2. melléklet az 1736/2013. (X. 11.) Korm. határozathoz[^2]
 
 A Társadalmi Infrastruktúra Operatív Program 2011–2013. évekre szóló akcióterve 1. és 3. prioritásának módosítása
 
@@ -72,4 +72,6 @@ A Társadalmi Infrastruktúra Operatív Program 2011–2013. évekre szóló akc
 
 | TIOP-3.2.3A | Lakhatási beruházások támogatása |  | 1,50 | 1,08 | A szegregátumokban és a hátrányos helyzetű kistérségekben élők lakhatási körülményeinek javítása – új szociális bérlakások építésével, illetve a nem szegregált lakókörnyezetben lévő lakások felújításával. | emberi erőforrások minisztere |  |
 
-| TIOP-3.4.2 | Önkormányzati, állami, egyházi, nonprofit fenntartású bentlakásos intézmények korszerűsítése |  | 6,80 | 3,65 | A bentlakásos intézmények korszerűsítésének célja a lakók életminőségének javítása az intézményekben uralkodó rossz infrastrukturális adottságok és a hiányos felszereltség leküzdése, illetve az életviszonyok humanizálása és modernizálása révén. | emberi erőforrások minisztere |  |
+| TIOP-3.4.2 |  |  |  |  |  |  |  |
+
+[^2]: A 2. melléklet az 1060/2014. (II. 11.) Korm. határozat 2. pont b) alpontja szerint módosított szöveg.
