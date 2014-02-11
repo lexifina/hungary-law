@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-237-20-
 | --- | --- | --- |
 | 2009-10-29 | 2009-237-20-22.2 | 237/2009. (X. 20.) Korm. rendelet |
 | 2012-04-13 | 2009-237-20-22.3 | 40/2012. (III. 14.) Korm. rendelet |
+| 2014-02-11 | 2009-237-20-22.4 | 17/2014. (II. 3.) Korm. rendelet |
