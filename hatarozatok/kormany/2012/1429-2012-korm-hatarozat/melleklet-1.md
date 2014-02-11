@@ -190,7 +190,7 @@
 
 | 3.5.2. | Fogyatékos rehabilitációs fejlesztő központ létrehozása | 0.00 | 2,25 | 0,00 | Fogyatékos rehabilitációs fejlesztő központ létrehozása. | Emberi Erőforrások Miniszter |  |
 
-| 3.5.3. | Korai életszakaszban feltárt fejlődésbeli rendellenességek, lemaradások kezeléséhez szükséges infrastrukturális fejlesztések | 0,00 | 1,24 | 0,00 | A korai életszakaszban feltárt fejlődésbeli rendellenességek, lemaradások kezeléséhez történő hozzáférés javítása érdekében az ellátás infrastrukturális fejlesztése. | Emberi Erőforrások Miniszter |  |
+| 3.5.3. |  |  |  |  |  |  |  |
 
 | 3. | Prioritás | 8,77 | 38,42 | 1,24 |  |  |  |
 
@@ -203,4 +203,4 @@
 | A közszolgáltatásokhoz való egyenlő esélyű hozzáférés megteremtése: akadálymentesítés | 0,00 | 4,00 | A fogyatékos emberek, továbbá az időskorú, járókerettel, babakocsival közlekedő, nagycsaládos, mozgásukban vagy kommunikációjukban egyéb okból átmenetileg akadályozott személyek életminőségének javítása a közszolgáltatásokhoz való egyenlő esélyű hozzáférés megvalósítása útján. A kormányzati felelősségi körbe tartozó épületek komplex akadálymentesítése, és az abban nyújtott közszolgáltatások egyenlő esélyű hozzáférhetővé tétele. | Emberi Erőforrások Miniszter |  |  |
 
 [^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: Az 1. melléklet az 1736/2013. (X. 11.) Korm. határozat 5. pont d) alpontja szerint módosított szöveg.
+[^2]: Az 1. melléklet az 1736/2013. (X. 11.) Korm. határozat 5. pont d) alpontja, az 1060/2014. (II. 11.) Korm. határozat 2. pont a) alpontja szerint módosított szöveg.
