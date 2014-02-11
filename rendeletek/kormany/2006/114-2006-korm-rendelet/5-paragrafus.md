@@ -30,7 +30,7 @@ h)[^44] ha a felszámoló szervezet a nyilvántartó szerv felhívására sem te
 
 (2)[^45] Az új névjegyzék felállítására irányuló eljárásokat lezáró utolsó határozat jogerőre emelkedésével egyidejűleg kell határozatot hozni azon felszámoló szervezetek névjegyzékből való törléséről, amelyeknek az új névjegyzékbe vételére nem került sor. A határozatban a törlés időpontja megegyezik az új névjegyzék felállításának időpontjával.
 
-(3)[^46] A névjegyzékből való törlésről szóló jogerős határozatot a nyilvántartó szerv elektronikus úton, haladéktalanul megküldi minden törvényszéknek, az ítélőtábláknak, továbbá az Országos Bírósági Hivatalnak. Az (1) bekezdés e) pontja szerinti esetben azt is fel kell tüntetni, hogy az új névjegyzékbe vételre a jogszabályi feltételek teljesítésének hiánya miatt vagy a keretszám miatt nem került sor.
+(3)[^46] A névjegyzékből való törlésről, illetve a névjegyzékbe történő felvételről szóló jogerős határozatot a nyilvántartó szerv elektronikus úton, haladéktalanul megküldi az Országos Bírósági Hivatalnak, továbbá eljuttatja a felszámolási eljárásban az adós vagyontárgyainak elektronikus értékesítéséről szóló kormányrendeletben az értékesítési rendszer működtetőjének. Az (1) bekezdés e) pontja szerinti esetben azt is fel kell tüntetni, hogy az új névjegyzékbe vételre a jogszabályi feltételek teljesítésének hiánya miatt vagy a keretszám miatt nem került sor.
 
 (4)[^47] Ha a bíróság a Cstv. 27/A. § (7) bekezdése alapján a felszámoló szervezet felmentéséről döntött, a nyilvántartó szervet döntéséről a jogerős határozat megküldésével, haladéktalanul, elektronikus úton értesíti.
 
@@ -45,5 +45,5 @@ h)[^44] ha a felszámoló szervezet a nyilvántartó szerv felhívására sem te
 [^43]: Az 5. § (1) bekezdés g) pontját a 169/2012. (VII. 20.) Korm. rendelet 6. § (2) bekezdése iktatta be.
 [^44]: Az 5. § (1) bekezdés h) pontját a 113/2013. (IV. 12.) Korm. rendelet 5. § (1) bekezdése iktatta be.
 [^45]: Az 5. § (2) bekezdése a 113/2013. (IV. 12.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
-[^46]: Az 5. § (3) bekezdése a 169/2012. (VII. 20.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^46]: Az 5. § (3) bekezdése a 17/2014. (II. 3.) Korm. rendelet 29. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 28. § (2) bekezdését.
 [^47]: Az 5. § (4) bekezdését a 169/2012. (VII. 20.) Korm. rendelet 6. § (4) bekezdése iktatta be.
