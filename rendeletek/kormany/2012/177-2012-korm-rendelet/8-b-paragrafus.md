@@ -1,4 +1,4 @@
-## 4/B. [^2] A Közigazgatási és Igazságügyi Hivatal közigazgatás-szervezéssel összefüggő feladatai
+## 4/B. [^3] A Közigazgatási és Igazságügyi Hivatal közigazgatás-szervezéssel összefüggő feladatai
 
 8/B. § (1) A Hivatal a fővárosi és megyei kormányhivatalok középirányító szerveként
 
@@ -44,7 +44,7 @@ g) közreműködik a helyi önkormányzatok törvényességi felügyeletének sz
 
 h) az intézményi működés biztosítását szolgáló feladatkörében megvalósítja a fővárosi és megyei kormányhivatalok feladatainak ellátásához szükséges, a központosított közbeszerzési rendszer hatálya alá nem tartozó jelentősebb értékű beszerzéseket, eszközpark üzemeltetésével összefüggő egyes feladatköröket lát el.
 
-(3)[^3] A Hivatal a kormányablak jogszabályban meghatározott feladatainak ellátása érdekében egyes, az elektronikus ügyintézéshez kapcsolódó szervezetek kijelöléséről szóló jogszabályban meghatározottak szerint központi iratkezelő rendszert biztosít a kormányhivatalok részére.
+(3)[^4] A Hivatal a kormányablak jogszabályban meghatározott feladatainak ellátása érdekében egyes, az elektronikus ügyintézéshez kapcsolódó szervezetek kijelöléséről szóló jogszabályban meghatározottak szerint központi iratkezelő rendszert biztosít a kormányhivatalok részére.
 
-[^2]: A 4/B. alcímet (8/B. §) az 56/2013. (II. 27.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^3]: A 8/B. § (3) bekezdését a 252/2013. (VII. 4.) Korm. rendelet 4. §-a iktatta be.
+[^3]: A 4/B. alcímet (8/B. §) az 56/2013. (II. 27.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^4]: A 8/B. § (3) bekezdését a 252/2013. (VII. 4.) Korm. rendelet 4. §-a iktatta be.

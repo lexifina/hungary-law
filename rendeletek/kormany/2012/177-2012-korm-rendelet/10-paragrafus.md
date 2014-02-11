@@ -1,6 +1,6 @@
-## 6. [^5] A Közigazgatási és Igazságügyi Hivatal egyéb feladatai
+## 6. [^6] A Közigazgatási és Igazságügyi Hivatal egyéb feladatai
 
-## 10. §[^6] A Hivatal
+## 10. §[^7] A Hivatal
 
 a) módszertani és tudásközpontként önálló elemzési, hatásvizsgálati, módszertan-fejlesztési tevékenységeket lát el,
 
@@ -18,5 +18,5 @@ g) közzétételre előkészíti a Magyar Közlöny és a Hivatalos Értesítő 
 
 h) gondoskodik a formatervezési tevékenységet előmozdító programok, kiállítások, más rendezvények kezdeményezéséről, szervezéséről, valamint irányítja a formatervezéssel kapcsolatos ismeretek összehangolt terjesztését, a hazai formatervezési kultúra fejlesztését, közreműködik a formatervezők iparjogvédelmi és szerzői jogi ismereteinek gyarapításában, amely tevékenységeihez a Forum Hungaricum Közhasznú Nonprofit Kft. szolgáltatásait veszi igénybe.
 
-[^5]: A 6. alcím (10. §) az 56/2013. (II. 27.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^6]: A 10. § az 515/2013. (XII. 30.) Korm. rendelet 33. §-ával megállapított szöveg.
+[^6]: A 6. alcím (10. §) az 56/2013. (II. 27.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^7]: A 10. § az 515/2013. (XII. 30.) Korm. rendelet 33. §-ával megállapított szöveg.
