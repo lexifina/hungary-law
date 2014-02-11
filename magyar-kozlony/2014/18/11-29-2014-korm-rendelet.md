@@ -1,0 +1,59 @@
+# A Kormány 29/2014. (II. 11.) Korm. rendelete
+
+Magyar Közlöny 2014. évi 18. szám, 2014. február 11. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/edc1a976ffe3e22cc9683b50e6ce461a1986bcf4/dokumentumok/197eab1f7dd169dece5c77eb06145e5879ad4a25/letoltes)
+
+---
+
+A Kormány 29/2014. (II. 11.) Korm. rendelete
+a kábítószer-prekurzorokkal kapcsolatos egyes hatósági eljárási szabályok, valamint a hatósági feladat- és
+hatáskörök megállapításáról szóló 159/2005. (VIII. 16.) Korm. rendelet módosításáról
+A Kormány az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében, az Alaptörvény 15. cikk
+(1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. §
+A kábítószer-prekurzorokkal kapcsolatos egyes hatósági eljárási szabályok, valamint a hatósági feladat- és
+hatáskörök megállapításáról szóló 159/2005. (VIII. 16.) Korm. rendelet (a továbbiakban: R.) 5. §-a a következő (4) és
+(5) bekezdéssel egészül ki:
+„(4) Annak a 273/2004/EK európai parlamenti és tanácsi rendelet 2. cikk d) pontjában, illetve a 111/2005/EK tanácsi
+rendelet 2. cikk f) pontjában meghatározott gazdasági szereplőnek, aki a tevékenység folytatása során
+a) a kábítószer-prekurzor felhasználási céljáról szóló, a 273/2004/EK európai parlamenti és tanácsi rendelet 4. cikke
+szerinti vevői nyilatkozatot dokumentációjában nem őrzi meg, vagy
+b) az e rendelet szerinti hatósági ellenőrzést akadályozza,
+a Hivatal a kábítószer-prekurzorokkal kapcsolatos tevékenység folytatását három éves időtartamra megtilthatja.
+(5) A Hivatal a (4) bekezdésben foglalt jogkövetkezményt
+a) a jogsértés súlyát, ismétlődését, a jogsértő állapot időtartamát, a jogsértőnek való felróhatóságát, az ellenőrzés
+alá vont gazdasági szereplő eljárást segítő, együttműködő magatartását mérlegelve alkalmazza,
+b) más jogkövetkezményekkel együtt is alkalmazhatja.”
+2. §
+Az R. 10. §-a a következő (3) bekezdéssel egészül ki:
+„(3) A 6. § (1) bekezdése szerinti hatóságok a jegyzékben nem szereplő anyagok vonatkozásában a 273/2004/EK
+európai parlamenti és tanácsi rendelet 10. cikk (2) bekezdésében, illetve a 111/2005/EK tanácsi rendelet 26. cikk
+(3b) bekezdésében meghatározott célból ellenőrzést folytathatnak a jegyzékben nem szereplő anyagot birtokló,
+vagy birtokolni szándékozó, a szakmája, önálló foglalkozása vagy üzleti tevékenysége körében eljáró személy
+(vállalkozás) tekintetében. Ennek során a vállalkozás köteles a hatóságokkal együttműködni és a hatóságok
+rendelkezésére bocsátani mindazon információkat, bizonyítékokat, amelyek a törvényes felhasználási célt igazolják.”
+3. §
+Az R. 13. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) Ez a rendelet a következő közösségi rendeletek végrehajtásához szükséges rendelkezéseket állapítja meg:
+a) a kábítószer-prekurzorokról szóló, 2004. február 11-i 273/2004/EK európai parlamenti és tanácsi rendelet 3. cikk
+(2) és (6) bekezdése, 4. cikke, 5. cikk (3) és (5) bekezdése, 8. cikk (2) bekezdése, 9. cikk (3) bekezdése, 10. cikk (1) és
+(2) bekezdése, 11. cikk (1) bekezdése, 12. cikke, valamint 13. cikk (1) bekezdése;
+b) a kábítószer-prekurzoroknak a Közösség és harmadik országok közötti kereskedelme nyomon követésére
+vonatkozó szabályok megállapításáról szóló, 2004. december 22-i 111/2005/EK tanácsi rendelet 6. cikk
+(1) bekezdése, 7. cikk (1) bekezdése, 9. cikk (2) bekezdése 10. cikk (3) bekezdése, 26. cikk (3) és (3b) bekezdése,
+31. cikke, valamint 32. cikke;
+c) a kábítószer-prekurzorokról szóló 273/2004/EK európai parlamenti és tanácsi rendeletre, valamint a kábítószer-
+prekurzoroknak a Közösség és harmadik országok közötti kereskedelme ellenőrzésére vonatkozó szabályok
+megállapításáról szóló 111/2005/EK tanácsi rendeletre vonatkozó végrehajtási szabályok megállapításáról szóló,
+2005. július 27-i 1277/2005/EK bizottsági rendelet 17–19. cikke, valamint 28–29. cikke.”
+4. §
+Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
+5. §
+Ez a rendelet a kábítószer-prekurzorokról szóló, 2004. február 11-i 273/2004/EK európai parlamenti és tanácsi
+rendelet 5. cikk (3) és (5) bekezdésének, 9. cikk (3) bekezdésének, 10. cikk (2) bekezdésének és 12. cikkének, valamint
+a kábítószer-prekurzoroknak a Közösség és harmadik országok közötti kereskedelme nyomon követésére vonatkozó
+szabályok megállapításáról szóló, 2004. december 22-i 111/2005/EK tanácsi rendelet 10. cikk (3) bekezdésének,
+26. cikk (3b) bekezdésének és 31. cikkének végrehajtáshoz szükséges rendelkezéseket állapít meg.
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+V. A Kormány tagjainak rendeletei
