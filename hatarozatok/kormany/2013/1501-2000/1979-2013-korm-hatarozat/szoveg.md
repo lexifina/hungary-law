@@ -90,4 +90,6 @@ a c) pont tekintetében közigazgatási és igazságügyi miniszter,
 
 nemzetgazdasági miniszter
 
-Határidő: 2014. január 31.
+Határidő: az a) pont, a ba) és bc)–be) alpont, valamint a c) pont tekintetében 2014. január 31., a b) pont bb) alpont tekintetében 2014. július 31.[^1]
+
+[^1]: Az 1052/2014. (II. 11.) Korm. határozat 2. pontja szerint módosított szöveg.
