@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad az INTERSZPUTNYIK Nemzetközi Űrtávközlési Rendszer és Szervezet létrehozásáról szóló megállapodás módosításáról szóló Jegyzőkönyv (a továbbiakban: Módosító Jegyzőkönyv) kötelező hatályának elismerésére.

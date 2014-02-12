@@ -1,0 +1,1 @@
+4. § Az Országgyűlés e törvénnyel felhatalmazást ad az INTERSZPUTNYIK Nemzetközi Űrtávközlési Szervezet Üzemeltetési Megállapodása (a továbbiakban: Üzemeltetési Megállapodás) kötelező hatályának elismerésére.
