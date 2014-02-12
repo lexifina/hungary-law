@@ -36,9 +36,11 @@
 
 | 20103 | A külképviseleti szavazatoknak és az átjelentkezők szavazatainak megszámlálására kijelölt szavazatszámláló bizottság 3 választott tagjának többletdíja OEVK-nként, OEVK székhely településre. Legkésőbb a szavazást követő 6. napon elvégzi a külképviseleti szavazatok és átjelentkezők szavazatainak megszámlálásával kapcsolatos feladatokat (Ve. 292. §). | 3 | 5 000 |
 
-| 202 | A szavazatszámláló bizottság mellett működő jegyzőkönyvvezető díja. Szavazás napján 05 órától 24 óráig az SZSZB mellett elvégzendő adminisztratív feladatok. | 1 | 20 000 |
+| 202 | A szavazatszámláló bizottság mellett működő jegyzőkönyvvezető díja. |  |  |
 
-| 20204 | A külképviseleti szavazatok és az átjelentkezők szavazatainak megszámlálására kijelölt szavazatszámláló bizottság mellett működő jegyzőkönyvvezető többletdíja OEVK-nként, OEVK székhely településre. Legkésőbb a szavazást követő 6. napon elvégzi a külképviseleti szavazatok és átjelentkezők szavazatainak megszámlálására kijelölt SZSZB melletti adminisztratív feladatokat. | 1 | 5 000 |
+| 20201 | A szavazatszámláló bizottság mellett működő jegyzőkönyvvezető díja. A szavazás napján 05 órától 24 óráig a szavazatszámláló bizottság mellett elvégzendő adminisztratív feladatok. | 1 | 20 000 |
+
+| 20202 | A külképviseleti szavazatok és az átjelentkezők szavazatainak megszámlálására kijelölt szavazatszámláló bizottság mellett működő jegyzőkönyvvezető többletdíja OEVK-nként, OEVK székhely településre. Legkésőbb a szavazást követő 6. napon elvégzi a külképviseleti szavazatok és átjelentkezők szavazatainak megszámlálására kijelölt SZSZB melletti adminisztratív feladatokat. | 1 | 5 000 |
 
 | 203 | A helyi választási iroda tagjának személyi normatívája. Az iroda feladatait a Ve. határozza meg, feladatuk a választás kitűzésétől a jogerős jegyzőkönyvi eredmény megállapításáig tart. E normatíva a helyi választási iroda alábbi számú tagjai tekintetében vehető figyelembe (a település lakosságszámához, összevont hivatal esetén az összlakosságszámához viszonyítva): |  |  |
 
@@ -70,7 +72,7 @@
 
 | 112 | OEVB működtetésével kapcsolatos dologi kiadások |  |  |
 
-| 11201 | OEVB működtetésével kapcsolatos dologi kiadások OEVB-nként, OEVI részére. Jelölt nyilvántartásba-vétel, ajánlóívek biztosítása, kifogások elbírálása, eredmény megállapítása, stb. kapcsán tartott ülések lebonyolításával összefüggő költségek. Hangosítás, jegyzőkönyv, telefon, fax és postaköltség. | 1 | 100 000 |
+| 11201 | OEVB működtetésével kapcsolatos dologi kiadások OEVB-nként, OEVI részére. Jelölt nyilvántartásba-vétel, kifogások elbírálása, eredmény megállapítása, stb. kapcsán tartott ülések lebonyolításával összefüggő költségek. Hangosítás, jegyzőkönyv, telefon, fax és postaköltség. | 1 | 100 000 |
 
 | 113 | Szavazással, eredmény-megállapítással összefüggő költségek |  |  |
 
@@ -192,9 +194,9 @@
 
 | 15114 | A Vhr. 7/A. § (5) bekezdés a) pont esetében a választási informatikai rendszerekhez kapcsolódó helpdesk feladatok támogatása (kapcsolattartás településekkel, telefon, fax, költség, informatikai rendszerekkel kapcsolatos rendelkezésre állás) megyénként. | 1 | 250 000 |
 
-| 15115 | A Vhr. 7/A. § (6) bekezdés a) pont esetében ajánlóívek nyomtatása (laponként). | 1 | 15 |
+| 15115 | Ajánlóívek nyomtatása. Utólagos igénylés alapján. (laponként) | 1 | 15 |
 
-| 15116 | A Vhr. 7/A. § (6) bekezdés e) pont esetében a szavazóköri névjegyzék és mozgóurnát kérők jegyzékének kinyomtatása (laponként). | 1 | 15 |
+| 15116 |  |  |  |
 
 | 155 | NVI választásnapi működésével kapcsolatos feltételek biztosításának költségei. |  |  |
 
@@ -230,7 +232,9 @@
 
 | 258 | A KÜVI tagjának személyi normatívája |  |  |
 
-| 25801 | A külképviseleti választási irodák tagjainak díja tagonként. A tagok száma a külképviseletre jelentkezett választópolgárok száma alapján kerül az NVI elnöke által meghatározásra. A díj kifizetésére a tényleges igénybevétel alapján kerül sor. | 1 | 25 000 |
+| 25801 | A külképviseleti választási irodák tagjainak díja tagonként, 200 külképviseleti névjegyzékbe vett választópolgárig. A tagok száma a külképviseletre jelentkezett választópolgárok számának figyelembevételével kerül az NVI elnöke által meghatározásra a Külügyminisztériummal történő egyeztetés alapján. A díj kifizetésére a tényleges igénybevétel alapján kerül sor. | 1 | 15 000 |
+
+| 25802 | A külképviseleti választási irodák tagjainak díja tagonként, 200 külképviseleti névjegyzékbe vett választópolgár felett. A tagok száma a külképviseletre jelentkezett választópolgárok számának figyelembevételével kerül az NVI elnöke által meghatározásra a Külügyminisztériummal történő egyeztetés alapján. A díj kifizetésére a tényleges igénybevétel alapján kerül sor. | 1 | 25 000 |
 
 | 3. MUNKAADÓT TERHELŐFIZETÉSI KÖTELEZETTSÉG |  |  |
 
@@ -244,4 +248,6 @@
 
 | 35104 | Külképviseleti feladatokkal összefüggő átadott járulék |  |  |
 
-2. melléklet a 38/2013. (XII. 30.) KIM rendelethez
+2. melléklet a 38/2013. (XII. 30.) KIM rendelethez[^5]
+
+[^5]: A 2. melléklet a 7/2014. (II. 11.) KIM rendelet 2. § (2) bekezdése, 3. § c)–e) pontja és 4. §-a szerint módosított szöveg.
