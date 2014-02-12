@@ -1,0 +1,3 @@
+## 2. § Az R1. 3. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+## „(3) Hálózati szolgáltatásminőségi követelményekre vonatkozó célértékeket a szolgáltató akkor köteles vállalni, ha az egyéni előfizetők száma meghaladja az ezer főt. Amennyiben az egyéni előfizetők száma már a szolgáltatás nyújtásának megkezdésekor meghaladja az ezer főt, akkor a szolgáltatás nyújtásának megkezdésével egyidejűleg, egyéb esetben pedig azon évet követő első év január 1-jével köteles hálózati szolgáltatásminőségi követelményekre vonatkozó célértékeket vállalni, amelyben az egyéni előfizetők száma meghaladta az ezer főt.”
