@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország Kormánya és a Török Köztársaság Kormánya közötti Biztonsági Együttműködési Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
