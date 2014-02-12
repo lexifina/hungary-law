@@ -1,6 +1,4 @@
-## 31. § A Közigazgatási és Igazságügyi Hivatalról szóló 177/2012. (VII. 26.) Korm. rendelet a következő 5/A. §-sal egészül ki:
-
-## „5/A. § A Hivatal – kormányrendeletben foglalt kijelölés alapján – ellátja a felszámolási eljárásban az adós szervezetek vagyontárgyai elektronikus értékesítési rendszerének létrehozásával és működtetésével összefüggő feladatokat.”
+## 29–31. §[^1]
 
 1. melléklet a 17/2014. (II. 3.) Korm. rendelethez
 
@@ -65,3 +63,5 @@
 2.5. kríziskezelési szabályzat
 
 2.6. biztonsági házirend kialakítása (biztonsági szintek, feladatkörök, e-mail biztonsági rend, rendszerbiztonságot veszélyeztető cselekmények elhárítása – ide értve a tűzfalakat és szűrőszabályokat is – a rendszerbiztonságot veszélyeztető, vagy sértő események megszüntetése, az elkövető azonosíthatóságának biztosítása, ellenőrzési lépések, vészhelyzet-kezelés, biztonsági mentések).
+
+[^1]: A 29–31. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
