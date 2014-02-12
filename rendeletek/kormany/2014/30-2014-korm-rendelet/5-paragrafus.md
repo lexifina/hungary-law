@@ -1,0 +1,3 @@
+## 4. § Az EU Önerő Alap felhasználásának részletes szabályairól szóló 285/2012. (X. 9.) Korm. rendelet [a továbbiakban: 285/2012. (X. 9.) Korm. rendelet] 5. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) Az önerő-támogatás odaítélésére irányuló eljárás kérelemre indul. Az eljárás lefolytatása a Miniszterelnökséget vezető államtitkár (a továbbiakban: államtitkár) hatáskörébe tartozik. A hozzá benyújtott kérelmekről az államtitkár folyamatos elbírálás keretében, a kérelem előterjesztésétől számított tizenöt napon belül dönt. A döntésre nyitva álló határidő a kérelem monitoring és információs rendszerbe történő hiánytalan feltöltésével kezdődik. A döntésre nyitva álló határidőbe a 7. § (1) bekezdése szerinti időtartam nem számít bele.”
