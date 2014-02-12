@@ -9,11 +9,3 @@
 (5) E törvény végrehajtásához szükséges intézkedésekről, valamint az INTERSZPUTNYIK Nemzetközi Űrtávközlési Szervezet Tanácsában és Üzemeltetési Bizottságában Magyarország képviseletéről a Nemzeti Média- és Hírközlési Hatóság elnöke gondoskodik.
 
 (6) Az 1972. évi 23. törvényerejű rendelettel kihirdetett, az INTERSZPUTNYIK Nemzetközi Űrtávközlési Rendszer és Szervezet létrehozásáról szóló megállapodás és a Módosító Jegyzőkönyv egységes szerkezetbe foglalt magyar nyelvű szövegének közzétételéről az elektronikus hírközlésért felelős miniszter gondoskodik.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
