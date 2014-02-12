@@ -7,11 +7,3 @@
 (4) E törvény végrehajtásához szükséges intézkedésekről a honvédelemért felelős miniszter gondoskodik.
 
 (5) A Magyar Köztársaság Kormánya és a Szlovén Köztársaság Kormánya között a repülő és légvédelmi szakterületeken történő katonai együttműködésről szóló Megállapodás – a Megállapodásban foglalt módosításokkal és a Jegyzék szerinti pontosítással – egységes szerkezetbe foglalt szövegének a közzétételéről a honvédelemért felelős miniszter gondoskodik.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
