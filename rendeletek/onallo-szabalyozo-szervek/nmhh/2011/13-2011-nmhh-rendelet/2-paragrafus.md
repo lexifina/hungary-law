@@ -6,7 +6,7 @@
 
 3. egyedi szolgáltatásminőségi követelmény: az előfizetői hozzáférési ponton a szolgáltató által az előfizetői szerződésben kötelezően vállalt és teljesítendő szolgáltatásminőségi követelmény;
 
-4. előfizetői szám: a szolgáltatóval előfizetői szerződéses jogviszonyban lévő egyéni előfizetők száma e rendeletben meghatározott szolgáltatásonként, az erre vonatkozó adatszolgáltatást megelőző év december 31-i állapot szerint;
+4.[^2] egyéni előfizetők száma: a szolgáltatóval előfizetői szerződéses jogviszonyban lévő, az Eht. 188. § 10. pontja szerinti egyéni előfizetők száma e rendeletben meghatározott szolgáltatásonként, az erre vonatkozó adatszolgáltatás benyújtását megelőző év december 31-i állapot szerint;
 
 5. forgalommérésen alapuló számlázási rendszer: minden olyan számlázási rendszer, ahol az előfizetők díjfizetése, illetve egy forgalmi keret felhasználásának mértéke, vagy a szolgáltatás igénybevétele, minősége részben vagy egészben az időponttól, időtartamtól, a hívások, az adatközlések számától, illetve az átvitt adatmennyiségtől függ;
 
@@ -35,3 +35,5 @@
 (3) Az e rendeletben meghatározott mennyiségeket nemzetközi mértékegység-rendszer (SI) decimális prefixumai szerint kell megadni.
 
 (4) Üzleti előfizetők esetében a felek egyező akarattal eltérhetnek e rendeletnek a szolgáltatásminőségi követelményekre vonatkozó rendelkezéseitől.
+
+[^2]: A 2. § (1) bekezdés 4. pontja az 1/2014. (II. 6.) NMHH rendelet 1. §-ával megállapított szöveg.

@@ -10,4 +10,6 @@ c) a Nemzeti Média- és Hírközlési Hatóságra (a továbbiakban: Hatóság).
 
 (3) E rendeletet a kormányzati célú hírközlési szolgáltatóra és hálózatokra, valamint az ilyen szolgáltató által végzett elektronikus hírközlési tevékenységre – figyelemmel az Eht. 1. § (2) bekezdésére – a kormányzati célú hálózatokról szóló kormányrendeletben foglalt eltérésekkel kell alkalmazni.
 
-(4) A rendelet hatálya nem terjed ki az Eht. 127. § (4) bekezdése alkalmazásával kötött előfizetői szerződés alapján nyújtott szolgáltatásokra.
+(4)[^1] A rendelet hatálya – a 4. §-ban foglaltak kivételével – nem terjed ki az Eht. 127. § (4) bekezdése alkalmazásával kötött előfizetői szerződés alapján nyújtott szolgáltatásokra.
+
+[^1]: Az 1. § (4) bekezdése az 1/2014. (II. 6.) NMHH rendelet 5. §-a szerint módosított szöveg.
