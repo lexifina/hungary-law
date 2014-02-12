@@ -1,21 +1,29 @@
-26/D. § (1) A Miniszterelnökséget vezető államtitkár
+26/D. § (1) Az államtitkár a kifogást annak érdemi vizsgálata nélkül elutasítja, ha
 
-a) a kifogást elutasítja,
+a) a döntés ellen nincs helye kifogásnak,
 
-b) a kifogással támadott döntést megsemmisíti és
+b) azt a 24. § (2) bekezdése szerinti határidőn túl terjesztették elő,
 
-ba) az eljárást megszünteti vagy
+c) azt nem az arra jogosult terjesztette elő,
 
-bb) a kifogással támadott döntést meghozó szervet az eljárás vagy egyes eljárási cselekmények megismétlésére kötelezi.
+d) olyan ügyben terjesztették elő, amelyben korábban már kifogást nyújtottak be (ismételt kifogás),
 
-(2) A Miniszterelnökséget vezető államtitkár a döntését megindokolja.
+e) a 25. § (2) bekezdése szerinti hiánypótlási felhívás ellenére a kifogást benyújtó a jelzett hiányokat nem vagy nem megfelelően pótolta, vagy a 25. § (2) bekezdése szerinti hiánypótlási határidőt a kérelmező elmulasztotta, vagy
 
-(3) Ha a kifogással támadott döntés érdemben helyes, a Miniszterelnökséget vezető államtitkár a kifogást elutasítja, ellenkező esetben a kifogással támadott döntést megsemmisíti. A Miniszterelnökséget vezető államtitkár a kifogást akkor is elutasítja, ha a kifogásban állított jogsérelem a kifogással támadott döntés megsemmisítésével és az eljárás megszüntetésével, avagy az eljárás részben, vagy egészben történő megismétlésével nem küszöbölhető ki. Ilyen esetben a Miniszterelnökséget vezető államtitkár megállapítja a jogsértést.
+f) az nyilvánvalóan alaptalan.
 
-(4) A Miniszterelnökséget vezető államtitkár az (1) bekezdés b) pont ba) alpontja szerint dönt, ha az NFÜ a hatáskörét túllépte, vagy olyan tartalmú döntést hozott, amely az eljárás részben vagy egészben való megismétlése révén sem helyesbíthető.
+(2) Az államtitkár a kifogásban foglaltakra tekintet nélkül a kifogással támadott döntést megsemmisíti és az eljárás részben vagy egészben való megismételését rendeli el, ha a kifogást megelőző eljárás során súlyos eljárásjogi jogsértés történt. Súlyos eljárásjogi jogsértésnek kell tekinteni azt, ha
 
-(5) A Miniszterelnökséget vezető államtitkár az (1) bekezdés b) pont bb) alpontja szerint dönt, ha a 26/B. § (3) bekezdésében fel nem sorolt, és a kifogás elbírálására irányuló eljárásban nem orvosolható olyan jogszabálysértés vagy a kiírás megsértése történt, amely lényeges hatással volt az eljárás lefolytatására, illetve a döntés tartalmára. Ilyennek kell tekinteni különösen, ha az eljárásban bizonyítás folyt és annak szabályait megsértették, az eljárásban részt vevő személyek a jogaikat nem gyakorolhatták, vagy ezek gyakorlását korlátozták.
+a) a döntés meghozatalában vagy a döntési javaslat kidolgozásában olyan személy vett részt, akinek részvétele jogszabály alapján kizárt,
 
-(6) A Miniszterelnökséget vezető államtitkár az (1) bekezdés b) pont bb) alpontja szerint dönt akkor is, ha a kifogásban állított új tény vagy előadott új bizonyíték folytán a kifogásolt döntésben megállapított tényállás kiegészítésre szorul, és akkor is, ha a döntés nem jogszabálysértő, de a kifogásban foglaltakkal – különösen fejlesztéspolitikai szempontokra figyelemmel – egyetért.
+b) a döntés megalapozatlan, vagy
 
-(7) A megismételt eljárásban az NFÜ-t a kifogást elbíráló döntés és annak indokolása köti.
+c) a döntés érdemi tartalma és az indokolása egymással ellentétes, vagy a kifogással támadott döntés annak ellenére nincs elégségesen megindokolva, hogy ez kötelező lett volna.
+
+(3) Ha a döntésből jogszabály által előírt kötelező tartalmi elem hiányzik, vagy az ügy érdeméhez tartozó kérdésben nem született döntés, az államtitkár a döntést kiegészíti.
+
+(4) Ha a döntésben név-, szám- vagy más elírás, illetve számítási hiba van, az államtitkár a hibát – szükség esetén a kérelmező meghallgatása után – kijavítja, ha az nem hat ki az ügy érdemére.
+
+(5) Az államtitkár (1)–(4) bekezdés szerinti döntését a 9. § (1) bekezdése és a 18. § (1a) bekezdése szerint, valamint postai kézbesítés útján is közölni kell. Az (1) és (2) bekezdés szerinti döntés ellen jogorvoslatnak nincs helye.
+
+(6) Ha az (1)–(4) bekezdés alkalmazásának nincs helye, az államtitkár a kifogást érdemben bírálja el.
