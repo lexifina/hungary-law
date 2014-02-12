@@ -52,6 +52,8 @@
 
 ## j) tudomásul veszi, hogy rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és kormányhatározat módosításról szóló 1646/2012. (XII. 19.) Korm. határozatban a Magyar Kajak-Kenu Szövetség támogatásához nyújtott támogatás felhalmozási kiadásokra is felhasználható.
 
-## 2. A vízkárelhárítás és az öntözés hatékonyságának növelését biztosító intézkedésekről szóló 1979/2013. (XII. 23.) Korm. határozat 7. pontjában a „2014. január 31.” szövegrész helyébe a „az a) pont, a ba) és bc)–be) alpont, valamint a c) pont tekintetében 2014. január 31., a b) pont bb) alpont tekintetében 2014. július 31.” szöveg lép.
+## 2.[^1]
 
 1. melléklet az 1052/2014. (II. 11.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
