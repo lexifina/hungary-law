@@ -1,0 +1,1 @@
+4. § Az Országgyűlés jóváhagyja a Fegyverkereskedelmi Szerződés 6. és 7. Cikkének a Fegyverkereskedelmi Szerződés 23. Cikkében meghatározott, a ratifikációs okirat letétbe helyezésére vonatkozó időponttól kezdődően történő ideiglenes alkalmazását.
