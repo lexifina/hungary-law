@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország Kormánya és a Szlovén Köztársaság Kormánya közötti, a Magyar Köztársaság Kormánya és a Szlovén Köztársaság Kormánya között a repülő és légvédelmi szakterületeken történő katonai együttműködésről szóló Megállapodás módosításáról szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.

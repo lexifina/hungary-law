@@ -1,0 +1,1 @@
+4. § Az Országgyűlés a Magyar Köztársaság Kormánya és a Szlovén Köztársaság Kormánya között a repülő és légvédelmi szakterületeken történő katonai együttműködésről szóló Megállapodáshoz kapcsolódó szóbeli jegyzéket (a továbbiakban: Jegyzék) e törvénnyel kihirdeti.
