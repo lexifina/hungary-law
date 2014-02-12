@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Biológiai Sokféleség Egyezményhez kapcsolódó, a genetikai erőforrásokhoz való hozzáférésről, valamint a hasznosításukból származó hasznok igazságos és méltányos megosztásáról szóló Nagojai Jegyzőkönyv (a továbbiakban: Jegyzőkönyv) kötelező hatályának elismerésére.
