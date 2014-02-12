@@ -7,11 +7,3 @@
 (4) Felhatalmazást kap a Kormány, hogy rendeletben meghatározza a genetikai erőforrásokhoz való hozzáférés és a hasznosításukból származó hasznok megosztásának részletes szabályait, a szabályok megszegésének jogkövetkezményeit, valamint kijelölje az eljáró hatóságot és a nemzeti kapcsolattartó szervet.
 
 (5) E törvény végrehajtásához szükséges intézkedésekről a természetvédelemért felelős miniszter gondoskodik.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
