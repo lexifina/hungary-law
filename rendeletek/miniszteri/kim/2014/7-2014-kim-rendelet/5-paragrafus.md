@@ -1,1 +1,0 @@
-## 4. § Hatályát veszti a Pür. 2. § (3) bekezdése, 1. mellékletében foglalt táblázat 11201 számú sorában az „ajánlóívek biztosítása,” szöveg, 1. mellékletében foglalt táblázat 15116 számú sora, 2. mellékletében foglalt táblázat 15111 és 15112 számú sora, továbbá 3. melléklete.
