@@ -1,3 +1,0 @@
-## 5. § A 285/2012. (X. 9.) Korm. rendelet 8. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-## „(2) Az államháztartásért felelős miniszter a kérelem és mellékletei monitoring és információs rendszerbe történő feltöltését követően három napon belül elektronikusan, a monitoring és információs rendszerbe feltöltött, önerő-támogatási kérelmenként külön tájékoztatja az államtitkárt a kérelemre vonatkozó szakmai véleményéről. Ha e határidőn belül az államháztartásért felelős miniszter nem tölti fel véleményét a monitoring és információs rendszerbe, azt úgy kell tekinteni, hogy a kérelmet támogatja.”
