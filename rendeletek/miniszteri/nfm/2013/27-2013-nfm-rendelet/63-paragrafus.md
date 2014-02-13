@@ -1,5 +1,3 @@
-## 62. § Az előirányzat az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve végrehajtási keretrendszeréről szóló 2007. évi LX. törvény végrehajtásának egyes szabályairól szóló kormányrendelet alapján használható fel.
-
 ## 40. Autópálya rendelkezésre állási díj (17-20-36-1, ÁHT: 257101)
 
 63. § (1) Az előirányzat célja
