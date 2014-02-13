@@ -1,3 +1,0 @@
-## 8. § Az R2. 6. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „6. § (1) „A Hivatal a 4. § (5) bekezdése szerinti űrlapot az elektronikus hírközlési szolgáltatás minőségének az előfizetők és felhasználók védelmével összefüggő követelményeiről, valamint a díjazás hitelességéről szóló 13/2011. (XII. 27.) NMHH rendelet és az elektronikus hírközlési építmények egyéb nyomvonalas építményfajtákkal való keresztezéséről, megközelítéséről és védelméről szóló 8/2012. (I. 26.) NMHH rendelet módosításáról szóló 1/2014. (II. 6.) NMHH rendelet hatálybalépésétől számított 45 napon belül köteles elkészíteni és internetes honlapján, valamint ügyfélszolgálatain elérhetővé tenni.”

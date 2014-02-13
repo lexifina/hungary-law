@@ -1,1 +1,0 @@
-## 1. Az elektronikus hírközlési szolgáltatás minőségének az előfizetők és felhasználók védelmével összefüggő követelményeiről, valamint a díjazás hitelességéről szóló 13/2011. (XII. 27.) NMHH rendelet módosítása
