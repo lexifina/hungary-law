@@ -1,15 +1,19 @@
 Az Országgyűlés a Rendőrségről szóló 1994. évi XXXIV. törvény 6/A. § (2) bekezdése alapján – a rendészeti, valamint az emberi jogi ügyekben feladatkörrel rendelkező bizottság együttes javaslatára –
 
-dr. Féja Andrást,
+dr. Cservák Csabát,[^2]
 
-Fráterné dr. Ferenczy Nórát,
+Fráterné dr. Ferenczy Nórát és[^3]
 
-dr. Juhász Imrét,
+dr. Wildner Domonkost 2014. február 26-ai hatállyal, továbbá[^4]
 
-dr. Kozma Ákost[^2] és
+dr. Lukács Tamást[^5]
 
-dr. Kádár András Kristófot
+a Független Rendészeti Panasztestület tagjává
 
-a Független Rendészeti Panasztestület tagjává megválasztja.
+hat évre megválasztja.[^6]
 
-[^2]: A 63/2010. (VII. 27.) OGY határozat 1. pontjával megállapított szöveg.
+[^2]: A 7/2014. (II. 18.) OGY határozat 1. pontjával megállapított szöveg.
+[^3]: A 7/2014. (II. 18.) OGY határozat 1. pontjával megállapított szöveg.
+[^4]: A 7/2014. (II. 18.) OGY határozat 1. pontjával megállapított szöveg.
+[^5]: A 7/2014. (II. 18.) OGY határozat 1. pontjával megállapított szöveg.
+[^6]: A 7/2014. (II. 18.) OGY határozat 1. pontjával megállapított szöveg.
