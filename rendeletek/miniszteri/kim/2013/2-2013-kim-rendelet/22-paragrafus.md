@@ -28,10 +28,10 @@ j) közigazgatás-fejlesztés és -korszerűsítés, valamint az e-közigazgatá
 
 k) a központi közigazgatás integrált üdültetési rendszer működtetésére, az üdülőingatlanok üzemeltetésére,
 
-l)[^5] a Nagykovácsi Kastélypark Komplexum felújítására.
+l)[^15] az első világháború centenáriumi keretprogramtervben meghatározott programokra és a centenáriumi feladatok előkészítését végző, Kormány által kijelölt szerv működésére.
 
 (2) Az előirányzaton kerül elszámolásra a fejezeti tartalék közvetlen fejezeti kifizetéssel történő felhasználása is.
 
 (3) Az előirányzat felhasználása egyrészt közvetlen fejezeti kifizetéssel, a feladat ellátásával megbízott természetes személy vagy államháztartáson kívüli vagy belüli jogi személlyel kötött szerződés alapján, másrészt egyedi döntés alapján költségvetési támogatás nyújtásával gazdasági társaságok, önkormányzatok részére támogatási szerződéssel, továbbá a kitüntetésben, díjazásban, valamint ösztöndíjban részesülő kedvezményezett esetében a kifizetés érdekében történő előirányzat-átcsoportosítással valósul meg.
 
-[^5]: A 22. § (1) bekezdés l) pontját a 32/2013. (XII. 7.) KIM rendelet 1. §-a iktatta be.
+[^15]: A 22. § (1) bekezdés l) pontját a 32/2013. (XII. 7.) KIM rendelet 1. §-a iktatta be, szövege a 9/2014. (II. 12.) KIM rendelet 4. §-ával megállapított szöveg.

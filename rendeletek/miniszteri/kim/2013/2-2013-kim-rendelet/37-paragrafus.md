@@ -1,5 +1,7 @@
-## 25. Smithsonian Folklife Fesztiválon való részvétel (20/2/43)
+## 25. [^23] Bárka Színház támogatása (20/2/44)
 
-37. § (1) Az előirányzat a 2013-ban Washington D.C.-ben megrendezésre kerülő Smithsonian Folklife Fesztiválon Magyarország díszvendégként való részvételéhez szükséges forrást biztosítja.
+37. § (1) Az előirányzat a Bárka Józsefvárosi Színházi- és Kulturális Nonprofit Kft. működéséhez nyújt támogatást.
 
-(2) Az előirányzat felhasználása a Balassi Intézetnek történő előirányzat-átcsoportosítással, továbbá közvetlen fejezeti kifizetéssel, a feladat ellátásával megbízott természetes személlyel vagy államháztartáson kívüli vagy belüli jogi személlyel kötött szerződés alapján valósul meg.
+(2) Az előirányzat vissza nem térítendő támogatás formájában, egyedi döntéssel, a kedvezményezettel kötött támogatási szerződés alapján kerül felhasználásra.
+
+[^23]: A 25. alcím (37. §) a 9/2014. (II. 12.) KIM rendelet 6. §-ával megállapított szöveg.

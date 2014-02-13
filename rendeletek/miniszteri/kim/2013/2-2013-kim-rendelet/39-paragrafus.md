@@ -10,10 +10,10 @@ b) az európai területi együttműködési csoportosulásról szóló 2007. év
 
 (3) A pályázathoz saját forrás biztosítása nem kötelező.
 
-(4)[^9] Az előirányzat felhasználása utólagos elszámolás mellett, előfinanszírozás formájában történik.
+(4)[^26]
 
 (5) Ha a kedvezményezett a költségvetési támogatást az Európai Unió működéséről szóló szerződés 107. cikk (2) bekezdése szerinti gazdasági tevékenységhez veszi igénybe, a támogatást a Szerződés 87. és 88. cikkének a de minimis támogatásokra való alkalmazásáról szóló 2006. december 15-i 1998/2006/EK bizottsági rendelet rendelkezéseivel összhangban lehet nyújtani.
 
 (6) Az előirányzat lebonyolító szerve a KIH.
 
-[^9]: A 39. § (4) bekezdése az 5/2013. (V. 22.) KIM rendelet 3. §-ával megállapított szöveg.
+[^26]: A 39. § (4) bekezdését a 9/2014. (II. 12.) KIM rendelet 13. § 5. pontja hatályon kívül helyezte.

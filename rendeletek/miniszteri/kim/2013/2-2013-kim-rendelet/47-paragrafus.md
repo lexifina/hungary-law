@@ -24,4 +24,6 @@ használható fel.
 
 (2) Az előirányzaton kerül felhasználásra a Kvtv. 1. melléklet X. Közigazgatási és Igazságügyi Minisztérium fejezet 20. Fejezeti kezelésű előirányzatok cím, Határon túli magyarok programjainak támogatása alcím előirányzatainak a korábbi évről vagy évekről áthúzódó maradványa és az azokra visszafizetett támogatás összege.
 
-(3) Az előirányzat felhasználása közvetlen fejezeti kifizetéssel vagy előirányzat átcsoportosítással, továbbá támogatási kérelemre egyedi döntés alapján, támogatási szerződéssel, elő- vagy utófinanszírozás útján juttatott, vissza nem térítendő, részben vagy egészben visszatérítendő költségvetési támogatás formájában történik.
+(3)[^30] Az előirányzat felhasználása közvetlen fejezeti kifizetéssel vagy előirányzat átcsoportosítással, továbbá támogatási kérelemre egyedi döntés alapján, támogatási szerződéssel, vissza nem térítendő, részben vagy egészben visszatérítendő költségvetési támogatás formájában történik.
+
+[^30]: A 47. § (3) bekezdése a 9/2014. (II. 12.) KIM rendelet 13. § 3. pontja szerint módosított szöveg.

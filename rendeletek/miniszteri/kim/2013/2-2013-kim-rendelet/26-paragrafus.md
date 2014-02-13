@@ -1,6 +1,6 @@
 ## 15. Jogi segítségnyújtás (20/2/18)
 
-26. § (1)[^6] Az előirányzat a jogi segítségnyújtásról szóló törvény alapján, a peren kívüli támogatások esetén a jogi szolgáltatást végző jogi segítő díjának állam általi térítésére vagy megelőlegezésére, a polgári és büntető peres eljárásokban a fél helyett az állam által kifizetendő vagy előlegezendő pártfogó ügyvéd díjának megfizetésére vagy megelőlegezésre, az ezzel kapcsolatos banki és postaköltség kifizetésére használható fel. Az előirányzat fedezetet nyújt továbbá az Európai Unió másik tagállamába irányuló jogi segítségnyújtás iránti kérelem lefordítására kirendelt szakfordító díjának állam általi megtérítésére vagy annak megelőlegezésére, az előirányzat javára teljesítendő fizetési kötelezettség elmaradásából eredő követelések behajtása érdekében a jogi segítségnyújtó szolgálat által tett intézkedések során felmerült költségekre, így különösen a végrehajtási költségre, a regisztrációs díjra és a költségtérítésre.
+26. § (1)[^19] Az előirányzat a jogi segítségnyújtásról szóló törvény alapján, a peren kívüli támogatások esetén a jogi szolgáltatást végző jogi segítő díjának állam általi térítésére vagy megelőlegezésére, a polgári és büntető peres eljárásokban a fél helyett az állam által kifizetendő vagy előlegezendő pártfogó ügyvéd díjának megfizetésére vagy megelőlegezésre, az ezzel kapcsolatos banki és postaköltség kifizetésére használható fel. Az előirányzat fedezetet nyújt továbbá az Európai Unió másik tagállamába irányuló jogi segítségnyújtás iránti kérelem lefordítására kirendelt szakfordító díjának állam általi megtérítésére vagy annak megelőlegezésére, az előirányzat javára teljesítendő fizetési kötelezettség elmaradásából eredő követelések behajtása érdekében a jogi segítségnyújtó szolgálat által tett intézkedések során felmerült költségekre, így különösen a végrehajtási költségre, a regisztrációs díjra és a költségtérítésre.
 
 (2) Az előirányzat kezelő szerve a Közigazgatási és Igazságügyi Hivatal (a továbbiakban: KIH), amely az előirányzathoz kapcsolódó előirányzat-felhasználási keretszámla feletti rendelkezési jogokat is gyakorolja.
 
@@ -14,4 +14,4 @@
 
 (7) A KIH a belső kontrollrendszerébe beilleszti az előirányzat felhasználásával kapcsolatos ellenőrzéseket, ideértve az analitikus nyilvántartások és a főkönyvi könyvelés feladásainak egyeztetését és ellenőrzését is.
 
-[^6]: A 26. § (1) bekezdése a 32/2013. (XII. 7.) KIM rendelet 2. §-ával megállapított szöveg.
+[^19]: A 26. § (1) bekezdése a 32/2013. (XII. 7.) KIM rendelet 2. §-ával megállapított szöveg.
