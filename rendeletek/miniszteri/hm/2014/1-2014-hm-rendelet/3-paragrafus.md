@@ -1,0 +1,3 @@
+## 2. § A honvédek illetményéről, illetményjellegű juttatásairól, jutalmazásáról, valamint a honvédelmi ágazatban foglalkoztatott közalkalmazottak jutalmazásáról szóló 21/2013. (IX. 17.) HM rendelet (a továbbiakban: R2.) „2. Az illetménykiegészítés” alcíme a következő 3/A. §-sal egészül ki:
+
+## „3/A. § A Hjt. 124. § (4) bekezdése alapján az állománynak a Honvédség központi pénzügyi és számviteli feladatokat ellátó szervezeténél szolgálatot teljesítő felsőfokú iskolai végzettséggel rendelkező tagja a beosztási illetmény 50%-ának, felsőfokú végzettséggel nem rendelkező tagja a beosztási illetmény 15%-ának megfelelő illetménykiegészítésre jogosult.”
