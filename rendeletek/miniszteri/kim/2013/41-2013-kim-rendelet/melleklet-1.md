@@ -1,6 +1,6 @@
 ## 7. § Ez a rendelet 2014. január 1-jén lép hatályba.
 
-1. melléklet a 41/2013. (XII. 31.) KIM rendelethez
+1. melléklet a 41/2013. (XII. 31.) KIM rendelethez[^2]
 
 |  | A | B |
 
@@ -32,7 +32,7 @@
 
 | 14. | Nógrád Megyei Kormányhivatal | 10037005-00299547-00000000 |
 
-| 15. | Pest Megyei Kormányhivatal | 10023002-00299671-00000000 |
+| 15. | Pest Megyei Kormányhivatal | 10023002-00333489-00000000 |
 
 | 16. | Somogy Megyei Kormányhivatal | 10039007-00299688-00000000 |
 
@@ -45,3 +45,5 @@
 | 20. | Veszprém Megyei Kormányhivatal | 10048005-00299516-00000000 |
 
 | 21. | Zala Megyei Kormányhivatal | 10049006-00299509-00000000 |
+
+[^2]: Az 1. melléklet a 8/2014. (II. 12.) KIM rendelet 2. § (2) bekezdésével megállapított szöveg.
