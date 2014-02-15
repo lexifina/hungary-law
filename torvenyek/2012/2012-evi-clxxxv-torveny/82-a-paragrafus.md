@@ -4,6 +4,6 @@
 
 (3) A felügyeleti díj mértéke
 
-a) hulladékgazdálkodási engedélyhez kötött tevékenységek esetén 40 000 forint,
+a) hulladékgazdálkodási engedélyhez kötött tevékenység esetén telephelyenként (a fióktelepet, valamint telephely hiányában a székhelyet is ideértve) 40 000 forint,
 
-b) nyilvántartásba vételhez kötött tevékenység esetén 25 000 forint.
+b) nyilvántartásba vételhez kötött tevékenység esetén telephelyenként (a fióktelepet, valamint telephely hiányában a székhelyet is ideértve) 25 000 forint.
