@@ -1,6 +1,6 @@
 4. § (1) A befektetési szabályzatnak a befektetési célú részesedésekkel kapcsolatosan tartalmaznia kell:
 
-a) a befektetési célú részesedésekkel kapcsolatos eljárásrendet, amelynek magában kell foglalnia
+a)[^3] a befektetési célú részesedésekkel kapcsolatos eljárásrendet, amelynek magában kell foglalnia
 
 aa) mind a közvetett, mind a közvetlen befektetések kezelésének szabályait,
 
@@ -8,7 +8,7 @@ ab) a közvetett és közvetlen befektetésekre vonatkozó döntéshozatallal ka
 
 ac) a felmerülő kockázatok kezelésére vonatkozó eljárásrendet
 
-különös tekintettel a Hpt. 90. § (2) bekezdésében meghatározott vállalkozások közötti és a pénzügyi szektorbeli befektetésekre, a nem összevont alapú felügyelet alá tartozó befektetésekre is kiterjedően;
+## különös tekintettel azon – amelyekre az összevont alapú felügyelet kiterjed – vállalkozások közötti és a pénzügyi szektorbeli befektetésekre, a nem összevont alapú felügyelet alá tartozó befektetésekre is kiterjedően;
 
 b) azokat a kockázatfelmérési módszereket és szempontokat, amelyek a hitelintézet befektetési döntéseinek megalapozásául szolgálnak;
 
@@ -33,3 +33,5 @@ b) a kockázatkezeléssel kapcsolatos alapelveket, módszereket, eljárásrendek
 c) a forgatási célú részesedésekkel, valamint kapcsolódó mérlegen kívüli tételek és a származtatott ügyletek – a hitelintézet számviteli politikájában meghatározott értékelési módszere szerinti – értékelésével kapcsolatos eljárásrendet, ha ezt az értékvesztési és céltartalékképzési szabályzat nem tartalmazza.
 
 (3) Ha a hitelintézet egyéb belső szabályzata már megfelelően tartalmazza az (1) és (2) bekezdésben előírt tartalmi elemet, akkor a befektetési szabályzatban az adott tartalmi elemet már magában foglaló szabályzatot, illetve megfelelő helyét kell megjelölni, de magát a tartalmi elemet megismételni nem kell.
+
+[^3]: A 4. § (1) bekezdés a) pontja a 6/2014. (II. 12.) NGM rendelet 11. §-ával megállapított szöveg.
