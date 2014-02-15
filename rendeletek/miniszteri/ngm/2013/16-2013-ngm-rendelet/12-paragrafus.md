@@ -1,4 +1,4 @@
-12. §[^13] (1) Az eladási ár támogatás összegével megegyező részének kiutalását az eladó a 11. § (2) bekezdése szerint értékesített, – a (2) bekezdésben foglalt kivételekkel – 2014. január 31-ig üzembe helyezett pénztárgépek után, az állami adóhatósághoz legkésőbb 2014. április 30-ig – az erre a célra rendszeresített nyomtatványon – benyújtott kérelmében igényelheti. A kiutalás igénylésére vonatkozó határidő jogvesztő, igazolási kérelem előterjesztésének nincs helye.
+12. §[^14] (1) Az eladási ár támogatás összegével megegyező részének kiutalását az eladó a 11. § (2) bekezdése szerint értékesített, – a (2) bekezdésben foglalt kivételekkel – 2014. január 31-ig üzembe helyezett pénztárgépek után, az állami adóhatósághoz legkésőbb 2014. április 30-ig – az erre a célra rendszeresített nyomtatványon – benyújtott kérelmében igényelheti. A kiutalás igénylésére vonatkozó határidő jogvesztő, igazolási kérelem előterjesztésének nincs helye.
 
 (2) Az (1) bekezdésben foglaltaktól eltérően az eladó az eladási ár támogatás összegével megegyező részének kiutalását a 11. § (2) bekezdése szerint értékesített, 2014. február 28-ig üzembe helyezett pénztárgépek után is kérheti abban az esetben, ha a Rendeletben foglalt előírásoknak megfelelő pénztárgépet
 
@@ -12,4 +12,4 @@ b) az elektronikus naplóval rendelkező pénztárgépet üzemeltető 2013. dece
 
 (4) Az (1) bekezdés szerinti kérelemben az eladó adatain (neve/elnevezése, székhelye, adószáma) túl fel kell tüntetni az eladónál érvényesített, a támogatás igénybevételére jogosító egyedi kódot és az igényelt támogatás összegét, valamint – a (2) bekezdés szerinti esetekben – a (3) bekezdés szerinti üzemeltetői nyilatkozat megtételének tényét.
 
-[^13]: A 12. § a 2/2014. (I. 22.) NGM rendelet 1. §-ával megállapított szöveg.
+[^14]: A 12. § a 2/2014. (I. 22.) NGM rendelet 1. §-ával megállapított szöveg.

@@ -16,6 +16,7 @@ d) a 4. § (1) bekezdés b) pontja szerinti esetben a felmentést engedélyező 
 
 (4) Az üzemeltetőnek a kérelemben nyilatkoznia kell arról, ha a támogatást a 875/2007/EK bizottsági rendelet hatálya alá tartozó tevékenységéhez igényli.
 
-(5) A (4) bekezdés szerinti esetben az üzemeltetőnek a kérelemben nyilatkoznia kell arról is, hogy a 875/2007 EK bizottsági rendelet hatálya alá tartozó csekély összegű (de minimis) támogatásokra vonatkozó szabad de minimis keret ellenőrzéséhez szükséges adatok beszerzése érdekében, valamint az agrár- és vidékfejlesztési állami támogatásokkal kapcsolatos egyes eljárási kérdésekről szóló 353/2012. (XII. 13.) Korm. rendelet 11. § (2) bekezdése szerinti nyilvántartási rendszer működtetése céljából hozzájárul adatainak a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) részére történő átadásához.
+(5)[^6] A (4) bekezdés szerinti esetben az üzemeltetőnek a kérelemben nyilatkoznia kell arról is, hogy a 875/2007 EK bizottsági rendelet hatálya alá tartozó csekély összegű (de minimis) támogatásokra vonatkozó szabad de minimis keret ellenőrzéséhez szükséges adatok beszerzése érdekében, valamint az agrár- és vidékfejlesztési állami támogatásokkal kapcsolatos egyes eljárási kérdésekről szóló 353/2012. (XII. 13.) Korm. rendelet [a továbbiakban: 353/2012. (XII. 13.) Korm. rendelet] 11. § (2) bekezdése szerinti nyilvántartási rendszer működtetése céljából hozzájárul adatainak a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) részére történő átadásához.
 
 [^5]: A 6. § (1) bekezdése a 74/2013. (XII. 30.) NGM rendelet 9. § 4. pontja szerint módosított szöveg.
+[^6]: A 6. § (5) bekezdése a 7/2014. (II. 14.) NGM rendelet 4. § a) pontja szerint módosított szöveg.
