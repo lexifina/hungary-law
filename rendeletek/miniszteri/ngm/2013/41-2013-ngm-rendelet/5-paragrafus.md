@@ -2,4 +2,6 @@
 
 (2) Tőkekapcsolat nélküli befolyás esetén az összevonás módszere a kiegészítő felügyeletet ellátó MNB által az érintett felügyeleti hatóságokkal egyeztetve állapítható meg.
 
-(3) A pénzügyi konglomerátum szavatoló tőkéjének számítása során figyelembe kell venni a Hpt. 5. számú mellékletében, a Bsztv. 2. mellékletében és a Bit. 123. §-ában és 124. §-ában foglalt – tőkeelemek figyelembevételére vonatkozó – határértékeket. A pénzügyi ágazatbeli nem szabályozott vállalkozásokat a határértékek számítása során az ágazata szabályozott vállalkozására vonatkozó szabályok szerint kell figyelembe venni.
+(3)[^5] A pénzügyi konglomerátum szavatoló tőkéjének számítása során figyelembe kell venni az 575/2013/EU rendelet szerinti, valamint a Bit. 123. §-ában és 124. §-ában foglalt – tőkeelemek figyelembevételére vonatkozó – határértékeket. A pénzügyi ágazatbeli nem szabályozott vállalkozásokat a határértékek számítása során az ágazata szabályozott vállalkozására vonatkozó szabályok szerint kell figyelembe venni.
+
+[^5]: Az 5. § (3) bekezdése a 6/2014. (II. 12.) NGM rendelet 8. §-a szerint módosított szöveg.
