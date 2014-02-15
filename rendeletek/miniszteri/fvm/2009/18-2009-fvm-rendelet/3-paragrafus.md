@@ -12,7 +12,7 @@
 
 (7)[^9] Az ügyfélnek az e rendelet szerinti adatszolgáltatási kötelezettségét elektronikus úton kell teljesítenie. Az elektronikus adatszolgáltatás technikai feltételeit az egyes mezőgazdasági és agrár-vidékfejlesztési támogatások igénybevétele esetén az elektronikus kérelembenyújtás alkalmazásáról szóló 80/2008. (IV.4.) Korm. rendelet 2. § (1)–(4) bekezdései és a 3. §-a szabályozzák. Az adatszolgáltatás ügyfélkapus azonosítással az MVH honlapján található elektronikus űrlapkitöltő szolgáltatás segítségével nyújtható be, amely az MVH honlapján vagy a kormányzati portálon keresztül érhető el.
 
-(8)[^10] Ha az adatszolgáltatás elektronikus úton történő benyújtása alkalmával az ügyfél helyett annak meghatalmazottja jár el, akkor a meghatalmazott – a képviseleti jogosultságának (9) bekezdés szerinti igazolását követően – saját ügyfélkapuját használja a meghatalmazó ügyfél adatszolgáltatásának benyújtására. Az adatszolgáltatási kötelezettség teljesítését megelőzően a meghatalmazottnak az MVH által vezetett Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszerben (a továbbiakban: ügyfél-nyilvántartási rendszer) regisztráltatnia kell magát és az eljárására vonatkozó meghatalmazást be kell nyújtania az MVH-hoz.
+(8)[^10] Ha az adatszolgáltatás elektronikus úton történő benyújtása alkalmával az ügyfél helyett annak meghatalmazottja jár el, akkor a meghatalmazott – a képviseleti jogosultságának (9) bekezdés szerinti igazolását követően – saját ügyfélkapuját használja a meghatalmazó ügyfél adatszolgáltatásának benyújtására. Az adatszolgáltatási kötelezettség teljesítését megelőzően a meghatalmazottnak az MVH által vezetett Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszerben (a továbbiakban: ügyfél-nyilvántartási rendszer) kérelmeznie kell nyilvántartásba vételét és az eljárására vonatkozó meghatalmazást be kell nyújtania az MVH-hoz.
 
 (9)[^11] A meghatalmazottat az eljárásra az MVH által rendszeresített, az MVH honlapján közzétett nyomtatványon kell meghatalmazni, amely tartalmazza:
 
@@ -41,7 +41,7 @@ e) a meghatalmazás érvényességéhez szükséges formai kellékeket.
 [^7]: A 3. § (5) bekezdése a 2/2013. (II. 1.) VM rendelet 5. § (1) bekezdése szerint módosított szöveg.
 [^8]: A 3. § (6) bekezdése a 2/2013. (II. 1.) VM rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^9]: A 3. § (7) bekezdése a 3/2012. (I. 31.) VM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^10]: A 3. § (8) bekezdése a 3/2012. (I. 31.) VM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^10]: A 3. § (8) bekezdése a 3/2012. (I. 31.) VM rendelet 2. § (1) bekezdésével megállapított, a 10/2014. (II. 14.) VM rendelet 3. §-a szerint módosított szöveg.
 [^11]: A 3. § (9) bekezdése a 3/2012. (I. 31.) VM rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^12]: A 3. § (10) bekezdése a 3/2012. (I. 31.) VM rendelet 2. § (1) bekezdésével megállapított, a 2/2013. (II. 1.) VM rendelet 5. § (2) bekezdése szerint módosított szöveg.
 [^13]: A 3. § (10a) bekezdését a 3/2012. (I. 31.) VM rendelet 2. § (2) bekezdése iktatta be.
