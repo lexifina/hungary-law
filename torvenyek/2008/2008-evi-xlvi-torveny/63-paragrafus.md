@@ -34,6 +34,10 @@ an) a gyógynövénytermékek előállítására, illetve forgalomba hozatalára
 
 ao) a gombaszakellenőri tevékenység folytatására
 
+ap) az élelmiszerláncban felhasználásra szánt fertőtlenítőszerek előállítására, forgalmazására, felhasználására;
+
+aq) az élelmiszerrel rendeltetésszerűen érintkezésbe kerülő anyag, tárgy, eszköz és gép előállítására és forgalomba hozatalára
+
 vonatkozó, a 60–62. §-okban meghatározottaktól eltérő egyéb előírásokat megszegi;
 
 b) azzal szemben, aki az élelmiszerlánc-felügyeleti szerv hatósági tevékenységét akadályozza, intézkedését figyelmen kívül hagyja;
@@ -42,6 +46,6 @@ c) azzal az élelmiszer- vagy takarmány-vállalkozással szemben, amelynek elj�
 
 d) az élelmiszer- vagy takarmány-vállalkozóval szemben, amennyiben az élelmiszer- vagy takarmány-vállalkozással szemben élelmiszer- vagy takarmány-ellenőrzési bírság kerül kiszabásra, és az élelmiszer- vagy takarmány-vállalkozó – bár azt megtehette volna – nem gondoskodott megfelelő módon a bírság kiszabására okot adó jogsértés megelőzéséről vagy azt az ő utasítására követték el;
 
-e) a tanúsító szervezettel szemben, ha az ökológiai termeléssel kapcsolatos tanúsító eljárása során az Európai Unió közvetlenül alkalmazandó jogi aktusa, e törvény vagy az e törvény végrehajtására kiadott jogszabály rendelkezését megsérti.
+e) a tanúsító szervezettel szemben, ha működése vagy az ökológiai gazdálkodással és integrált gazdálkodással kapcsolatos ellenőrzési, tanúsító eljárása során az Európai Unió közvetlenül alkalmazandó jogi aktusa, e törvény vagy az e törvény végrehajtására kiadott jogszabály rendelkezését megsérti.
 
 (2) A bírság ismételten is kiszabható.

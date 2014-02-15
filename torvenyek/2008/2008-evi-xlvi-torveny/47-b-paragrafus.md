@@ -34,7 +34,7 @@ b) – személyi jövedelemadó bevallásra köteles természetes személy – e
 
 (4) A termelői szerveződésen vagy a termelői szerveződés, valamint annak tagjai kizárólagos tulajdonában lévő vállalkozáson keresztül történő forgalomba-hozatal után fizetendő felügyeleti díj mértéke a termelői szerveződés vagy a termelői szerveződés és annak tagjai kizárólagos tulajdonában lévő vállalkozás előző évi nettó árbevételéből, a (2) bekezdés szerinti tevékenységhez kapcsolódó rész 0,1%-a, amennyiben a felügyeleti díjfizetési kötelezettséget a termelői szerveződés vagy a termelői szerveződés és annak tagjai kizárólagos tulajdonában lévő vállalkozás szerződésben átvállalta a fizetésre kötelezett termelői szerveződés tagjától.
 
-(5) A felügyeleti díj mértéke élelmiszert kizárólag a végső fogyasztó számára értékesítő felügyeleti díj fizetésére kötelezett
+(5) A felügyeleti díj mértéke az elsődlegesen végső fogyasztó számára értékesítő felügyeleti díj fizetésére kötelezett
 
 a) mikrovállalkozás és e törvény végrehajtására kiadott rendeletben meghatározott kistermelő esetén évi húszezer forint;
 

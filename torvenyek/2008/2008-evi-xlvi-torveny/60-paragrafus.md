@@ -4,11 +4,11 @@
 
 a) a zárlati károsítóval való fertőzés azonnali felszámolására vonatkozó kötelezettségét megszegi, zárlati károsítót terjeszt, vagy a terjedést elősegíti, a zárlati intézkedést megszegi;
 
-b) növényvédő szerrel olyan cselekményt valósít meg, amellyel az ember vagy az állat egészségét, az élelmiszer-, illetve takarmánybiztonságot vagy a környezetet veszélyezteti;
+b) engedélyköteles termékkel olyan cselekményt valósít meg, amellyel az ember vagy az állat egészségét, az élelmiszer-, illetve takarmánybiztonságot vagy a környezetet veszélyezteti;
 
 c) a 17. § (1) bekezdés c) pontjában előírt kötelezettségét az élelmiszerlánc-felügyeleti szerv kötelezése ellenére, továbbá a 17. § (4) bekezdésében előírt, a parlagfű elleni védekezési kötelezettségét elmulasztja;
 
-d) engedélyköteles terméket előírt képesítés, illetve engedély nélkül vagy engedélytől eltérő módon forgalomba hoz, hirdet, nyilvánosság számára ajánl, illetve felhasznál;
+d) engedélyköteles terméket engedély nélkül vagy engedélytől eltérő módon, illetve a tevékenységhez előírt képesítés és azt igazoló hatályos hatósági engedély nélkül forgalomba hoz, hirdet, nyilvánosság számára ajánl, illetve felhasznál;
 
 e) az engedélyköteles termék csomagolására vonatkozóan e törvényben és a végrehajtására kiadott jogszabályban előírt szabályokat megsérti;
 
@@ -26,7 +26,7 @@ k) az élelmiszerlánc-felügyeleti szerv által elrendelt vegyszeres növényv�
 
 l) a növényvédelmi hatósági tevékenységet akadályozza, a hatóság intézkedését figyelmen kívül hagyja, az állami vagy közérdekű védekezés végrehajtását akadályozza;
 
-m) a növényvédelemmel kapcsolatban előírt vagy elrendelt növény-egészségügyi, kísérleti, termelési, megsemmisítési, előállítási, formálási, kiszerelési, csomagolási, raktározási, szállítási, felhasználási, forgalomba hozatali rendelkezéseket megszegi;
+m) a növényvédelemmel kapcsolatban előírt vagy elrendelt növény-egészségügyi, kísérleti, termelési, megsemmisítési, előállítási, formálási, kiszerelési, csomagolási, jelölési, raktározási, szállítási, felhasználási, forgalomba hozatali rendelkezéseket megszegi;
 
 n) az előírt vagy elrendelt növény-egészségügyi korlátozásokat megszegi;
 
