@@ -1,4 +1,4 @@
-14. § (1) A területrendezési terv készítése előkészítő és javaslattevő fázisból áll. A javaslattevő fázison belül elfogadásra kerülő és megalapozó munkarészek készülnek.
+14. § (1)[^19] A területrendezési terv készítése és módosítása előkészítő és javaslattevő fázisból áll. A területrendezési terv készítéséhez és módosításához elfogadásra kerülő és megalapozó munkarészek készülnek.
 
 (2) A területrendezési tervek kidolgozása során
 
@@ -15,3 +15,5 @@ e) a térségi területfelhasználási kategóriák egymással nem lehetnek átf
 f) a térségi területfelhasználási kategóriákat az OTrT-nek a legkisebb ábrázolható területnagyságra vonatkozó szabályaira figyelemmel kell ábrázolni,
 
 g) a 10 ha-nál nagyobb egyedi építmények területét a jelkulcsnak megfelelő felületként kell ábrázolni, a 10 ha-nál kisebb területű egyedi építményeket a jelkulcsnak megfelelő szimbólummal kell jelölni.
+
+[^19]: A 14. § (1) bekezdése a 25/2014. (II. 7.) Korm. rendelet 10. §-ával megállapított szöveg.

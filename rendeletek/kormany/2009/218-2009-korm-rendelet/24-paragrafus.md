@@ -4,10 +4,10 @@
 
 (2) E rendelet rendelkezéseit a hatálybalépését követően megkötött szerződésekre, és a hatálybalépését követően készített vagy módosított területi tervekre kell alkalmazni.
 
-(3)[^20] A Lechner Lajos Tudásközpont Területi, Építésügyi, Örökségvédelmi és Informatikai Nonprofit Korlátolt Felelősségű Társaság jogutódja a VÁTI Magyar Regionális Fejlesztési és Urbanisztikai Nonprofit Korlátolt Felelősségű Társaságnak a 10/A. §-ban meghatározott feladatok ellátásához kapcsolódó – a Lechner Lajos Tudásközpont alapításával összefüggő egyes kormányrendeletek módosításáról szóló 107/2013. (IV. 5.) Korm. rendelet hatálybalépését[^21] megelőzően a jogelőd által megkötött – polgári jogi szerződések alapján fennálló jogviszonyok, valamint a 10/A. §-ban meghatározott feladatok ellátásával kapcsolatban a jogelőd által megszerzett szerzői jogok, forráskódok és licencek tekintetében.
+(3)[^30] A Lechner Lajos Tudásközpont Területi, Építésügyi, Örökségvédelmi és Informatikai Nonprofit Korlátolt Felelősségű Társaság jogutódja a VÁTI Magyar Regionális Fejlesztési és Urbanisztikai Nonprofit Korlátolt Felelősségű Társaságnak a 10/A. §-ban meghatározott feladatok ellátásához kapcsolódó – a Lechner Lajos Tudásközpont alapításával összefüggő egyes kormányrendeletek módosításáról szóló 107/2013. (IV. 5.) Korm. rendelet hatálybalépését[^31] megelőzően a jogelőd által megkötött – polgári jogi szerződések alapján fennálló jogviszonyok, valamint a 10/A. §-ban meghatározott feladatok ellátásával kapcsolatban a jogelőd által megszerzett szerzői jogok, forráskódok és licencek tekintetében.
 
-(4)–(5)[^22]
+(4)–(5)[^32]
 
-[^20]: A 24. § (3) bekezdése az (5) bekezdés alapján hatályát vesztette, újonnan a 107/2013. (IV. 5.) Korm. rendelet 8. § (2) bekezdése iktatta be.
-[^21]: A hatálybalépés időpontja 2013. április 13.
-[^22]: A 24. § (4)–(5) bekezdése az (5) bekezdés alapján hatályát vesztette.
+[^30]: A 24. § (3) bekezdése az (5) bekezdés alapján hatályát vesztette, újonnan a 107/2013. (IV. 5.) Korm. rendelet 8. § (2) bekezdése iktatta be.
+[^31]: A hatálybalépés időpontja 2013. április 13.
+[^32]: A 24. § (4)–(5) bekezdése az (5) bekezdés alapján hatályát vesztette.
