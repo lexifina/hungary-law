@@ -1,3 +1,3 @@
-## 26. §[^5]
+## 26. §[^21]
 
-[^5]: A 26. §-t a 32. § (3) bekezdése hatályon kívül helyezte.
+[^21]: A 26. §-t a 32. § (3) bekezdése hatályon kívül helyezte.

@@ -1,4 +1,4 @@
-## 23. § A pénzfeldolgozó a Hpt. 19/B. § f) pontjában előírt belső ügyviteli szabályzatot az e rendeletben foglaltak figyelembevételével köteles kidolgozni.
+## 23. §[^19] A pénzfeldolgozó az egyes kiegészítő pénzügyi szolgáltatások végzése feltételeinek részletszabályairól szóló 536/2013. (XII. 30.) Korm. rendelet 3. § f) pontjában előírt belső ügyviteli szabályzatot az e rendeletben foglaltak figyelembevételével köteles kidolgozni.
 
 ## 11. Záró rendelkezések
 
@@ -11,3 +11,5 @@
 (4) A 7. § (3) bekezdése az euro magyarországi bevezetésének napján lép hatályba.
 
 (5) A (4) bekezdésben meghatározott feltétel bekövetkezésének napját – annak ismertté válását követően haladéktalanul – az MNB elnöke a Magyar Közlönyben közzétett egyedi határozatával állapítja meg.
+
+[^19]: A 23. § a 2/2014. (II. 14.) MNB rendelet 5. § (5) bekezdése szerint módosított szöveg.

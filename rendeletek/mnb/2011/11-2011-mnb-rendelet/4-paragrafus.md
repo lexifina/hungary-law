@@ -4,7 +4,7 @@
 
 (3) A pénzfeldolgozó által elvégzett valódiság- és forgalomképességi vizsgálat során az MNB jegyzékben szereplő típusú, az ott meghatározott hardver- és szoftver-verzióval rendelkező bankjegyvizsgáló géppel vizsgált forintbankjegy-mennyiség arányának éves szinten el kell érnie a 90%-ot.
 
-(4)[^1]
+(4)[^10]
 
 (5) A hitelintézeti és a postai fiók az ügyfél által az adott fiókban befizetett forintbankjegyet a pénztári kifizetési forgalomban kézi ellenőrzést követően is visszaforgathatja.
 
@@ -14,4 +14,4 @@ a) haladéktalanul tájékoztatni a vis maior helyzet beálltáról és annak v�
 
 b) utólag, a vis maior helyzet megszűnését követő hónap utolsó munkanapjáig írásban tájékoztatni az elvégzett kézi ellenőrzésről, ismertetve a vis maior helyzetet, továbbá megjelölve a kézi ellenőrzés tényleges időtartamát.
 
-[^1]: A 4. § (4) bekezdése a 24. § (3) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^10]: A 4. § (4) bekezdése a 24. § (3) bekezdése alapján 2017. január 1-jén lép hatályba.
