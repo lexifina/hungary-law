@@ -256,7 +256,7 @@
 
 ## c) Az olyan anyagokat, amelyek egynél több veszélyességi osztályba sorolhatók egy összegzési szabály alkalmazásakor (például oxidáló és fokozottan tűzveszélyes), mindig a legalacsonyabb küszöbértékkel kell figyelembe venni.
 
-## d) A nem ismert veszélyességű, hulladékokat is tartalmazó keverék esetében mindaddig, amíg annak tényleges veszélyességét az üzemeltető nem igazolja, a keverék veszélyességi osztályba sorolásakor a keverékben jelen lévő vagy jelen lévőnek feltételezhető összetevők közül annak a veszélyességét kell alkalmazni a teljes keverékmennyiségre, amelyhez az 1., vagy a 2. táblázatban a legalacsonyabb küszöbérték tartozik.
+## d) A nem ismert veszélyességű, akár hulladékokat is tartalmazó keverék esetében mindaddig, amíg annak tényleges veszélyességét az üzemeltető nem igazolja, a keverék veszélyességi osztályba sorolásakor a keverékben jelen lévő vagy jelen lévőnek feltételezhető összetevők közül annak a veszélyességét kell alkalmazni a teljes keverékmennyiségre, amelyhez az 1., vagy a 2. táblázatban a legalacsonyabb küszöbérték tartozik.
 
 ## e) Tűzveszélyes hajtógázokkal töltött aeroszolos termékek osztályba sorolásakor a termék veszélyességét kell alkalmazni a termék teljes anyagmennyiségére.
 
@@ -312,6 +312,6 @@
 
 ## 3. folyadék-halmazállapotú, kevésbé tűzveszélyes és tűzveszélyes anyagok és készítmények, melyeket forráspontjuknál magasabb hőmérsékleten tárolnak.
 
-2. melléklet a 219/2011. (X. 20.) Korm. rendelethez[^97]
+2. melléklet a 219/2011. (X. 20.) Korm. rendelethez[^99]
 
-[^97]: A 2. melléklet a 476/2013. (XII. 17.) Korm. rendelet 23. § (2) bekezdése szerint módosított szöveg.
+[^99]: A 2. melléklet a 476/2013. (XII. 17.) Korm. rendelet 23. § (2) bekezdése szerint módosított szöveg.

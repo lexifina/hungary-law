@@ -138,9 +138,9 @@ f) belső audit és vezetőségi átvizsgálás.
 
 1.2.1. A veszélyes anyagokkal foglalkozó üzem környezetének bemutatásakor az üzemeltető bizonyítja, hogy a kockázatokat és a veszélyes anyagokkal kapcsolatos súlyos balesetek hatásai által veszélyeztetett területeket a szükséges mértékben elemezte.
 
-1.2.2.[^98] Az üzemeltető bemutatja a veszélyes anyagokkal foglalkozó üzem érintett (a veszélyes anyagokkal kapcsolatos súlyos baleset következményei által veszélyeztetett) környezetének területrendezési elemeit. Ehhez felhasználható a településszerkezeti terv. A bemutatás legalább a következő adatokat tartalmazza:
+1.2.2.[^100] Az üzemeltető bemutatja a veszélyes anyagokkal foglalkozó üzem érintett (a veszélyes anyagokkal kapcsolatos súlyos baleset következményei által veszélyeztetett) környezetének területrendezési elemeit. Ehhez felhasználható a településszerkezeti terv. A bemutatás legalább a következő adatokat tartalmazza:
 
-a)[^99] a lakóterületek jellemzése,
+a)[^101] a lakóterületek jellemzése,
 
 b) a lakosság által leginkább látogatott létesítmények (állandó, ideiglenes), közintézmények (iskolák, kórházak, templomok, rendőrség, tűzoltóság, stb.),
 
@@ -424,5 +424,5 @@ cf) a külső behatás elleni védelem.
 
 2.3. A biztonsági jelentések (kiegészítések) formai követelményei minden esetben azonosak.
 
-[^98]: A 3. melléklet 1.2.2. pont nyitó szövegrésze a 476/2013. (XII. 17.) Korm. rendelet 24. § (3) bekezdése szerint módosított szöveg.
-[^99]: A 3. melléklet 1.2.2. pont a) alpontja a 476/2013. (XII. 17.) Korm. rendelet 23. § (3) bekezdésével megállapított szöveg.
+[^100]: A 3. melléklet 1.2.2. pont nyitó szövegrésze a 476/2013. (XII. 17.) Korm. rendelet 24. § (3) bekezdése szerint módosított szöveg.
+[^101]: A 3. melléklet 1.2.2. pont a) alpontja a 476/2013. (XII. 17.) Korm. rendelet 23. § (3) bekezdésével megállapított szöveg.
