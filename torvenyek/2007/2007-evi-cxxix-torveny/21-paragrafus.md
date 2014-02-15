@@ -24,7 +24,9 @@ g) állandó jellegű vízkárelhárítási és öntözési célú tározó lét
 
 h) belterületbe vonás esetén állami, önkormányzati bérlakásépítés megvalósítása,
 
-i) belterületbe vonás esetén új község alakítása, településegyesítés megszüntetése
+i) belterületbe vonás esetén új község alakítása, településegyesítés megszüntetése,
+
+j) termálvíz-hasznosító létesítményekből kibocsátott használt termálvizek átmeneti tározására és természetközeli tisztítására szolgáló – lehetőség szerint többcélú – állandó jellegű tározók létesítése és bővítése,
 
 céljából engedélyezi.
 

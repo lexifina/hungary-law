@@ -13,3 +13,5 @@ d) 100 001 m2 feletti területnagyság esetén 36 000 Ft, valamint minden továb
 összegű igazgatási szolgáltatási díjat kell fizetni.
 
 (2) A földminősítési eljárás díjára vonatkozóan egyebekben a földvédelmi eljárás díjára vonatkozó rendelkezéseket kell megfelelően alkalmazni.
+
+(3) A (2) bekezdés szerinti díj magában foglalja az ingatlan-nyilvántartásban a földminősítési eljárás eredményeként bekövetkezett változás átvezetésének díját.

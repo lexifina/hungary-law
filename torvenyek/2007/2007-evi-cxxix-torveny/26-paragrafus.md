@@ -8,18 +8,54 @@
 
 (4) Az ingatlanügyi hatóság a kiszabott földvédelmi járulékokról és bírságokról nyilvántartást vezet.
 
-(5) A járuléknak a 13. § (1) bekezdésén, illetve a 22. § (6) bekezdésén alapuló visszafizetéséről, valamint a (4) bekezdés szerinti nyilvántartásból való törléséről a földügyért felelős miniszter dönt. A járulék visszafizetése átutalással teljesíthető.
+(4a) A határidőben meg nem fizetett járuléknak és bírságnak a (4) bekezdés szerinti nyilvántartásból való törléséről az ingatlanügyi hatóságnak a kormányhivatal útján felterjesztett kérelme alapján a földügyért felelős miniszter dönt, ha
 
-(6) A járulék visszafizetésére irányuló kérelmet az igénybevevőnek a járulék megfizetését elrendelő ingatlanügyi hatóságnál kell előterjesztenie. Az ingatlanügyi hatóság a visszafizetés iránti kérelemben foglaltakat helyszíni szemle alapján megvizsgálja, és ha a járulék visszafizetését megalapozottnak tartja, a kérelmet a kormányhivatal útján felterjeszti a földügyért felelős miniszter részére.
+a) a fizetésre kötelezett szervezet jogutód nélkül megszűnt, vagy
 
-(7) A (6) bekezdés szerinti felterjesztéshez csatolni kell:
+b) az adóhatóság igazolása alapján az adók módjára behajtandó köztartozás miatt a fizetésre kötelezettel szemben indult végrehajtási eljárás
 
-a) a járulék visszafizetésére irányuló kérelmet, amely tartalmazza a 13. § (1) bekezdése, illetve a 22. § (6) bekezdése szerinti nyilatkozatot, valamint annak a pénzintézetnek és számlaszámnak a megjelölését, amelyre a kérelmező a visszafizetést kéri;
+ba) nem vezetett eredményre, illetve
 
-b) a járulék megfizetését, valamint ezeknek a 26. § (1) bekezdése szerinti továbbutalását igazoló okiratot;
+bb) a végrehajtáshoz való jog elévült. Az ingatlanügyi hatóságnak a kérelméhez csatolnia kell a törlés feltételeinek fennállását igazoló okiratokat.
 
-c) a megfizetett járulék megállapításáról szóló jogerős ingatlanügyi hatósági határozatot;
+(5) Az ingatlanügyi hatósághoz benyújtott,
 
-d) az ingatlanügyi hatóság által – kérelem alapján – megtartott helyszíni szemléről készült jegyzőkönyvet;
+a) a 15/B. § (7) bekezdése szerinti esetben és az ott meghatározott határozatban a járulék 50%-ának megfelelő összeg megfizetése,
 
-e) az ingatlanügyi hatóságnak a más célú hasznosítás engedélyezéséről szóló határozat hatályon kívül helyezéséről szóló jogerős határozatát a 13. § (1) bekezdésén alapuló kérelem esetén.
+b) a járuléknak a 22. § (6), (6a) és (8) bekezdésén alapuló visszafizetése
+
+iránti kérelemről – a (7) bekezdésben meghatározott esetek kivételével – a földügyért felelős miniszter dönt.
+
+(6) Ha a kérelem nem tartalmazza a 15/B. § (7) bekezdésében, illetve a 22. § (6), (6a) vagy (8) bekezdésében meghatározott adatokat, az ingatlanügyi hatóság a kérelmezőt hiánypótlásra szólítja fel.
+
+(7) Ha a kérelmező a (6) bekezdésben meghatározott esetben a hiánypótlási felhívásnak határidőben nem tesz eleget, az eljárást az ingatlanügyi hatóság szünteti meg. Ha a kérelem a 15/B. § (7) bekezdésében, illetve a 22. § (6) vagy (8) bekezdésében meghatározott határidőn túl került benyújtásra, a kérelmet az ingatlanügyi hatóság utasítja el.
+
+(8) A 15/B. § (7) bekezdésében, illetve a 22. § (6), (6a) vagy (8) bekezdésében meghatározottaknak megfelelő adattartalmú kérelem beérkezését, illetve a hiányosan benyújtott kérelem esetén a hiánypótlás határidőben történő teljesítését követő 30 napon belül az ingatlanügyi hatóság helyszíni szemlét tart a
+
+a) 15/B. § (7) bekezdésén alapuló kérelem esetén az újrahasznosítás elfogadásáról,
+
+b) 22. § (6) és (6a) bekezdésén alapuló kérelem esetén a más célú hasznosítás engedélyezéséről,
+
+c) 22. § (8) bekezdésén alapuló kérelem esetén a lejárt időbeli hatályú vagy hatályon kívül helyezett más célú hasznosítás engedélyezéséről
+
+szóló jogerős határozatban szereplő földrészleteken.
+
+(9) A helyszíni szemlét követő 15 napon belül az ingatlanügyi hatóság a kormányhivatal útján a kérelmet – a (10), illetve a (11) bekezdésben meghatározott mellékletekkel együtt – felterjeszti döntésre a földügyért felelős miniszter részére.
+
+(10) Az (5) bekezdés a) pontja szerinti kérelem esetében a kérelem felterjesztéséhez csatolni kell:
+
+a) a cél-kitermelőhely létesítéséhez szükséges megelőző földvédelmi eljárásban a végleges más célú hasznosításért megállapított járulék megfizetését, valamint annak az (1) és (2) bekezdés szerinti továbbutalását igazoló okiratot;
+
+b) az újrahasznosítás elfogadásáról szóló jogerős ingatlanügyi hatósági határozat hitelesített másolatát;
+
+c) az ingatlanügyi hatóság által megtartott helyszíni szemléről készült jegyzőkönyv hiteles másolatát.
+
+(11) Az (5) bekezdés b) pontja szerinti kérelem esetében a felterjesztéshez csatolni kell:
+
+a) a járulék megfizetését, valamint ezeknek az (1) és (2) bekezdés szerinti továbbutalását igazoló okiratot;
+
+b) a 22. § (6) és (6a) bekezdésén alapuló kérelem esetén a más célú hasznosítás engedélyezéséről, a 22. § (8) bekezdésén alapuló kérelem esetén a lejárt időbeli hatályú vagy hatályon kívül helyezett más célú hasznosítás engedélyezéséről szóló jogerős határozat hitelesített másolatát;
+
+c) az ingatlanügyi hatóság által megtartott helyszíni szemléről készült jegyzőkönyvet.
+
+(12) Ha a miniszter az (5) bekezdés a) és b) pontjában meghatározott kérelemnek helyt ad, a kifizetést átutalással kell teljesíteni.
