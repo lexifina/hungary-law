@@ -12,7 +12,7 @@ c)[^179] a fizetési igény bejelentésére az engedélyt kiadó vámszervet kiz
 
 d)[^180] visszavonhatatlan vagy kizárólag az engedélyt kiadó vámszerv jóváhagyásával visszavonható.
 
-(3)[^181] Nem fogadható el a bankgarancia, ha a bankgaranciát nyújtó hitelintézettel szemben a hitelintézetekről és pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény 157. §-a szerinti kivételes intézkedésre kerül sor.
+(3)[^181] Nem fogadható el a bankgarancia, ha a bankgaranciát nyújtó hitelintézettel szemben a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény 189. §-a szerinti kivételes intézkedésre kerül sor.
 
 (4) A bankgaranciának tartalmazni kell
 
@@ -40,7 +40,7 @@ f) a (2) bekezdés b), c) és d) pontjában foglalt kötelezettségvállalást.
 [^178]: A 29. § (2) bekezdés b) pontja a 17/2011. (IV. 19.) NGM rendelet 32. §-ával megállapított szöveg.
 [^179]: A 29. § (2) bekezdés c) pontja a 17/2011. (IV. 19.) NGM rendelet 56. § (8) bekezdése szerint módosított szöveg.
 [^180]: A 29. § (2) bekezdés d) pontja a 17/2011. (IV. 19.) NGM rendelet 56. § (8) bekezdése szerint módosított szöveg.
-[^181]: A 29. § (3) bekezdése a 38/2008. (XII. 31.) PM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^181]: A 29. § (3) bekezdése a 6/2014. (II. 12.) NGM rendelet 1. §-ával megállapított szöveg.
 [^182]: A 29. § (4) bekezdés b) pontját a 38/2008. (XII. 31.) PM rendelet 15. § (4) bekezdése hatályon kívül helyezte.
 [^183]: A 29. § (4) bekezdés c) pontja a 17/2010. (IV. 28.) PM rendelet 3. §-a szerint módosított szöveg.
 [^184]: A 29. § új (5) bekezdését a 46/2004. (XII. 29.) PM rendelet 5. §-a iktatta be, egyidejűleg az eredeti (5)–(6) bekezdés számozását (7)–(8) bekezdésre változtatva.
