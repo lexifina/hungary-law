@@ -1,0 +1,1 @@
+## „(6) A területével érintett fővárosi kerületi, fővárosi, megyei jogú városi és megyei önkormányzat – az (1) bekezdésben foglaltaktól függetlenül – a területrendezési hatósági eljárásban ügyfélnek minősül.”
