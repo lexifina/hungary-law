@@ -14,6 +14,4 @@
 
 (7) E rendelet 27. §-a a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
-(8)[^1]
-
-[^1]: A 15. § (8) bekezdése a (2) bekezdés alapján 2014. február 15-én lép hatályba.
+(8) Az 1. melléklet helyébe a 7. melléklet lép.

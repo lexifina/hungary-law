@@ -30,7 +30,7 @@
 
 ## 15. Törzskönyv elvesztésének bejelentése (pótlásra irányuló kérelem nélkül)
 
-## 16. Közúti közlekedési nyilvántartásból történő adatszolgáltatást korlátozó, tiltó nyilatkozat megtétele,
+## 16. Közúti közlekedési nyilvántartásból történő adatszolgáltatást korlátozó, tiltó nyilatkozat megtétele
 
 ## 17. Közúti közlekedési nyilvántartásból történő adatszolgáltatást korlátozó, tiltó nyilatkozat visszavonása
 
@@ -71,5 +71,9 @@
 ## 35. Hatósági bizonyítvány másolat kiállítása az előzetes eredetiségvizsgálati nyilvántartásból
 
 ## 36. Útlevél tároló elem adattartalmának ellenőrzésére irányuló kérelem
+
+## 37. Papír alapú hiteles tulajdonilap-másolat szolgáltatás iránti kérelem
+
+## 38. Ingatlan-nyilvántartási térképi adatbázisból kiadott hiteles térképmásolat iránti kérelem
 
 2. melléklet az 515/2013. (XII. 30.) Korm. rendelethez
