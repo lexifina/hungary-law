@@ -1,3 +1,3 @@
-## 8. §[^16]
+## 8. §[^27]
 
-[^16]: A 8. § a 7. § (6) bekezdése hatályon kívül helyezte.
+[^27]: A 8. § a 7. § (6) bekezdése hatályon kívül helyezte.
