@@ -1,4 +1,4 @@
-2. számú melléklet a 76/2009. (IV. 8.) Korm. rendelethez[^37]
+2. számú melléklet a 76/2009. (IV. 8.) Korm. rendelethez[^50]
 
 A területrendezési hatósági eljárásban közreműködő szakhatóságok
 
@@ -6,58 +6,44 @@ A területrendezési hatósági eljárásban közreműködő szakhatóságok
 
 | 1. | Bevonás és közreműködés feltétele | Vizsgálandó szakkérdés | Szakhatóság |
 
-| 2. | A közúthálózat fő elemei – gyors- forgalmi utak, és főutak – és az országos vasúti törzshálózat elemei esetén, a pontosítási és az eltérési eljárásnál. A gyorsforgalmi úton és főúton, valamint a vasúti törzshálózaton, a Dunán és a Tiszán tervezett nagy hidak esetén, a pontosítási eljárásnál. Határátkelők és határátlépési pontok a gyorsforgalmi- és főúthálózat, valamint a vasúti törzshálózat esetén, a pontosítási eljárásnál. A repülőterek esetén, a pontosítási eljárásnál. Országos kerékpárút törzshálózat elemei esetén, a pontosítási és az eltérési eljárásnál. Nemzetközi és országos jelentőségű vízi utak, közforgalmú kikötők esetén, a pontosítási eljárásnál. | A közlekedési hálózat egységességének biztosíthatósága, a közlekedésfejlesztési érdekek érvényesíthetősége. | Országos közúthálózatba tartozó autópályák, autóutak és a közúti határátkelőhelyek közlekedési építményei, továbbá Dunán és a Tiszán tervezett nagy hidak, a vasúti építmények, továbbá a hajózási létesítmények esetén: Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala Repülőterek esetében: Nemzeti Közlekedési Hatóság Légügyi Hivatala Minden más esetben: fővárosi és megyei kormányhivatal közlekedési felügyelősége |
+| 2. | A közúthálózat fő elemei - gyorsforgalmi utak, és főutak - és az országos törzshálózati vasúti pályák pontosítási és eltérési eljárásánál. A gyorsforgalmi és főúthálózaton, valamint a vasúti törzshálózaton a Dunán és a Tiszán tervezett nagy hidak pontosítási eljárásánál. Gyorsforgalmi- és főúthálózati, valamint az országos vasúti törzshálózati határmetszés pontosítási eljárásánál. Országos repülőterek pontosítási eljárásánál. Országos mellékút pontosítási, eltérési és beillesztési eljárásánál. Országos jelentőségű kikötők, határkikötők pontosítási eljárásánál. Nemzetközi és országos jelentőségű vízi út pontosítási eljárásánál. Országos kerékpárút- törzshálózat elemeinek pontosítási és eltérési eljárásánál. Térségi kerékpárút-hálózat pontosítási, eltérési és beillesztési eljárásánál. Regionális és egyéb vasúti pálya pontosítási, eltérési és beillesztési eljárásánál. Térségi kikötő, kompátkelőhely pontosítási és beillesztési eljárásánál. Országos mellékúton, valamint regionális és egyéb vasúti pályán a Dunán és a Tiszán levő híd pontosítási és beillesztési eljárásánál. Térségi logisztikai központ pontosítási és beillesztési eljárásánál. Polgári célú, nem nyilvános repülőtér pontosítási és beillesztési eljárásánál. Országos mellékúti, regionális és egyéb vasúti pályán levő határmetszés pontosítási és beillesztési eljárásánál. | A műszaki infrastruktúra üzemeltetésére, fenntartására és fejlesztésére vonatkozó jogszabályokban és előírásokban rögzített követelmények érvényesülése, a megvalósíthatóság feltételeinek fennállása. | Országos közúthálózatba tartozó autópályák, autóutak és főutak, valamint a közúti határmetszések közlekedési építményei, továbbá a Dunán és a Tiszán tervezett nagy hidak, a vasúti építmények, továbbá a hajózási létesítmények esetén: Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala Repülőterek esetében: Nemzeti Közlekedési Hatóság Légügyi Hivatala Minden más esetben: fővárosi és megyei kormányhivatal közlekedési felügyelősége |
 
-|  | Térségi jelentőségű mellékút esetén, valamennyi eljárásnál. |  |  |
+| 3. | Az országos, a kiemelt térségi vagy a megyei tervben nem szereplő, de más rendelkezéseinek megfelelő közlekedési infrastruktúra-hálózat elemei közül a gyorsforgalmi vagy főutak vagy az országos vasúti törzshálózat elemeinek, az egyedi építmények közül a gyorsforgalmi úton és főúton, valamint a vasúti törzshálózaton a Dunán és a Tiszán tervezett nagy hidak beillesztési eljárásánál. | A műszaki infrastruktúra üzemeltetésére, fenntartására és fejlesztésére vonatkozó jogszabályokban és előírásokban rögzített követelmények érvényesülése, a megvalósíthatóság feltételeinek fennállása, valamint – gyorsforgalmi vagy főút beillesztése esetén – a gyorsforgalmi és a főúthálózat nagytávú tervéhez való illeszkedés. | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala |
 
-|  | Térségi jelentőségű kerékpárút esetén, valamennyi eljárásnál. |  |  |
+| 4. | Minden eljárásnál. | A területrendezési tervekben rögzített környezetvédelemi, természetvédelmi és tájvédelmi szabályozás, továbbá a környezet, természet és táj védelmére vonatkozó jogszabályban rögzített követelmények érvényesülése. | környezetvédelmi és természetvédelmi felügyelőség |
 
-|  | Vasúti mellékvonal esetén, valamennyi eljárásnál. |  |  |
+| 5. | Az országos, a kiemelt térségi vagy a megyei tervben nem szereplő, de más rendelkezéseinek megfelelő Vásárhelyi-terv továbbfejlesztése keretében megvalósuló vízkár-elhárítási célú szükségtározók beillesztési eljárásánál. Országos jelentőségű vízkár-elhárítási célú tározó pontosítási eljárásánál. A 10 millió m3-t meghaladó térfogatú vízkár-elhárítási célú tározási fejlesztési lehetőség pontosítási eljárásánál. Országos jelentőségű csatorna pontosítási és eltérési eljárásánál. | A vízgazdálkodás jogszabályi követelményeinek érvényesülése. | területi vízügyi hatóság |
 
-|  | Térségi jelentőségű közforgalmú kikötő esetén, valamennyi eljárásnál. |  |  |
+|  | Az 1 millió m3-t meghaladó, de 10 millió m3-nél kisebb térfogatú vízkár-elhárítási célú tározási fejlesztési lehetőség pontosítási és beillesztési eljárásánál. Térségi csatorna pontosítási, eltérési és beillesztési eljárásánál. |  |  |
 
-|  | Térségi jelentőségű híd esetén, valamennyi eljárásnál. |  |  |
+| 6. | Minden eljárásnál. | A területrendezési tervekben rögzített régészeti örökséggel és műemléki értékkel kapcsolatos szabályozás, továbbá a régészeti örökség és a műemléki érték védelme jogszabályban rögzített követelményeinek érvényesülése. | illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
-|  | Térségi jelentőségű logisztikai központ esetén, valamennyi eljárásnál. |  |  |
+| 7. | Minden eljárásnál. | Erdő esetében a fenntartható erdőgazdálkodás és az erdők közérdekű szolgáltatásainak biztosítása. | a megyei kormányhivatal erdészeti igazgatósága |
 
-|  | Térségi jelentőségű nyilvános kereskedelmi repülőtér esetén, valamennyi eljárásnál. |  |  |
+| 8. | Azoknál az eljárásoknál, amelyek a termőföldet érintik. | A termőföld mennyiségi védelme. | fővárosi és megyei kormányhivatal földhivatala |
 
-|  | Térségi jelentőségű határátkelőhely esetén, valamennyi eljárásnál. |  |  |
+| 9. | Minden eljárásnál. | A szénhidrogén-szállító vezetékek esetén a szakkérdés a műszaki-biztonsági követelmények érvényesítésére vonatkozik. | bányakapitányság |
 
-| 2a. | Országos, a kiemelt térségi vagy a megyei tervben nem szereplő, de más rendelkezéseinek megfelelő közlekedési infrastruktúra-hálózat elemei közül a gyorsforgalmi és főutak beillesztése esetén. | A közlekedési hálózat egységességének biztosíthatósága, a közlekedésfejlesztési érdekek érvényesíthetősége. | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala |
+|  |  | A nyilvántartott ásványi nyersanyag lelőhelyek figyelembevételének biztosítása, a földtani veszély megítélése (földtani veszélyforrás megléte), a felszínmozgásra utaló jellegek vizsgálata. |  |
 
-| 3. | Minden esetben. | A területrendezési tervekben rögzített környezetvédelemi, természetvédelmi és tájvédelmi szabályozás, továbbá a környezet, természet és táj védelmére vonatkozó jogszabályban rögzített követelmények érvényesülése. | környezetvédelmi és természetvédelmi felügyelőség |
+| 10. | Atomerőmű pontosítási eljárásánál. | A nukleáris-biztonsági követelmények érvényesítése. | Országos Atomenergia Hivatal |
 
-| 3a. | Minden esetben. | Országos jelentőségű meglévő szükségtározók, megvalósuló árvízi tározók és új vízi építmények esetén, valamint az 1 millió m3-t meghaladó, de 10 millió m3-nél kisebb tározási lehetőségek esetén a vízgazdálkodás jogszabályi követelményeinek érvényesülése kérdésében. | vízügyi hatóság |
+| 11. | Kiserőmű pontosítási és a beillesztési eljárásánál. | A műszaki-biztonsági követelmények érvényesítése. | fővárosi és megyei kormányhivatal |
 
-| 4. | Minden esetben. | A területrendezési tervekben rögzített régészeti örökséggel és műemléki értékkel kapcsolatos szabályozás, továbbá a régészeti örökség és a műemléki érték védelme jogszabályban rögzített követelményeinek érvényesülése. | illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
+|  | A 132 kV-os elosztóhálózat pontosítási, eltérési és beillesztési eljárásánál. |  | mérésügyi és műszaki biztonsági hatósága |
 
-| 5. | Minden esetben. | Erdő esetében a fenntartható erdőgazdálkodás és az erdők közérdekű szolgáltatásainak biztosítása. | a megyei kormányhivatal erdészeti igazgatósága |
-
-| 6. | Minden esetben. | A termőföld mennyiségi védelme. | járási földhivatal, több járási földhivatal illetékességi területét érintő esetekben a fővárosi és megyei kormányhivatal földhivatala |
-
-| 7. | Minden esetben. | A szénhidrogén-szállító vezetékek esetén a szakkérdés a műszaki-biztonsági követelmények érvényesítésére vonatkozik. A nyilvántartott ásványi nyersanyag lelőhelyek figyelembevételének biztosítása, a földtani veszély megítélése (földtani veszélyforrás megléte), a felszínmozgásra utaló jellegek vizsgálata. | bányakapitányság |
-
-| 8. | Atomerőmű esetén, a pontosítási eljárásban. | A nukleáris-biztonsági követelmények érvényesítése. | Országos Atomenergia Hivatal |
-
-| 9. | Atomerőműnek nem minősülő erőművek esetén, a pontosítási és a beillesztési eljárásnál. A kiserőmű (az 5 MW és ezt meghaladó, de 50 MW-nál kisebb teljesítményképességű erőmű) esetén, a pontosítási és a beillesztési eljárásnál. | A műszaki-biztonsági követelmények érvényesítése. | fővárosi és megyei kormányhivatal mérésügyi és műszaki biztonsági hatósága |
-
-|  | A 120 kV-os elosztóhálózat esetén, valamennyi eljárásnál. A villamos-átviteli hálózat távvezeték elemei esetén, valamennyi eljárásnál. |  |  |
-
-| 10. | Az országos, a kiemelt térségi vagy a megyei területrendezési tervben nem szereplő, de más rendelkezéseinek megfelelő | Az energiaellátás biztonságának biztosításához való szükségesség megítélése. | Magyar Energia Hivatal |
+| 12. | Az országos, a kiemelt térségi vagy a megyei területrendezési tervben nem szereplő, de más rendelkezéseinek megfelelő | Az energiaellátás biztonságának biztosításához való szükségesség megítélése. | Magyar Energetikai és Közmű-szabályozási Hivatal |
 
 |  | a) atomerőműnek nem minősülő erőmű, |  |  |
 
-|  | b) villamosenergia-átviteli hálózat távvezeték elemei vagy |  |  |
+|  | b) villamosenergia-átviteli hálózat távvezetékelemei vagy |  |  |
 
-|  | c) a földgázellátásról szóló törvény szerinti szállítóvezeték elemének minősülő műszaki infrastruktúra-hálózat elemei és egyéb építmény |  |  |
+|  | c) nemzetközi és hazai (országos) szénhidrogén- és szén-dioxid-szállítóvezeték elemeinek beillesztési eljárásánál. |  |  |
 
-|  | területi elhelyezése esetén. |  |  |
+| 13. | A 12. sor szerinti országos jelentőségű elem beillesztése esetén. | A 12. sor szerinti országos jelentőségű elem beillesztése esetén a védelmi kockázat felmérése. | Alkotmányvédelmi Hivatal |
 
-| 11. | A 10. sor szerinti országos jelentőségű elem beillesztése esetén. | A 10. sor szerinti országos jelentőségű elem beillesztése esetén a védelmi kockázat felmérése. | Alkotmányvédelmi Hivatal |
+| 14. | Minden eljárásnál. | Környezet-egészségügyi követelmények érvényesítése. | fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerve |
 
-| 12. | Minden esetben. | Környezet-egészségügyi követelmények érvényesítése. | fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerve |
+| 15. | Azoknál az eljárásoknál, amelyek a honvédelmi és a katonai célú építmény vagy ingatlan védőterületét vagy működési területét érintik. | A Magyar Honvédség nemzeti és szövetségesi védelmi feladatai biztosíthatók-e. | Honvédelmi Minisztérium Hatósági Hivatal |
 
-| 13. | Honvédelmi és katonai célú építmény vagy ingatlan védőterületét vagy működési területét érintő esetben. | A Magyar Honvédség nemzeti és szövetségesi védelmi feladatai biztosíthatók-e. | Honvédelmi Minisztérium Hatósági Hivatal |
-
-[^37]: A 2. számú melléklet a 197/2011. (IX. 29.) Korm. rendelet 5. § (2) bekezdésével megállapított, a 105/2012. (V. 30.) Korm. rendelet 19. §-a, a 296/2012. (X. 17.) Korm. rendelet 41. §-a, a 394/2012. (XII. 20.) Korm. rendelet 30. §-a, a 86/2013. (III. 21.) Korm. rendelet 5. §-a, a 151/2013. (V. 17.) Korm. rendelet 4. §-a, a 355/2013. (X. 8.) Korm. rendelet 2. §-a, az 527/2013. (XII. 30.) Korm. rendelet 71. §-a szerint módosított szöveg.
+[^50]: A 2. számú melléklet a 25/2014. (II. 7.) Korm. rendelet 5. §-ával megállapított szöveg.
