@@ -1,3 +1,3 @@
-## 22. §[^18]
+## 22. §[^20]
 
-[^18]: A 22. §-t a 24. § hatályon kívül helyezte.
+[^20]: A 22. §-t a 24. § hatályon kívül helyezte.

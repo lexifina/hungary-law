@@ -4,7 +4,7 @@
 
 (2) A hatósági képzés az 1. mellékletben meghatározott vizsgatárgyak ismeretanyagának oktatása révén a hatósági vizsgára történő felkészítést biztosítja.
 
-(3)[^1] A pénzügyi szolgáltatás közvetítői tevékenység gyakorlását lehetővé tevő hatósági vizsga letételéhez azon képzés fogadható el, amelyet a nemzetgazdasági miniszter hatáskörébe tartozó szakképesítések szakmai és vizsgakövetelményeiről szóló 27/2012. (VIII. 27.) NGM rendelet 2. mellékletében szereplő – az Országos Képzési Jegyzéknek megfelelő –
+(3)[^3] A pénzügyi szolgáltatás közvetítői tevékenység gyakorlását lehetővé tevő hatósági vizsga letételéhez azon képzés fogadható el, amelyet a nemzetgazdasági miniszter hatáskörébe tartozó szakképesítések szakmai és vizsgakövetelményeiről szóló 27/2012. (VIII. 27.) NGM rendelet 2. mellékletében szereplő – az Országos Képzési Jegyzéknek megfelelő –
 
 a) 3. sorszámú Adótanácsadó megnevezésű,
 
@@ -42,4 +42,4 @@ q) 199. sorszámú Szakképesített bankreferens megnevezésű,
 
 r) 228. sorszámú Vállalkozási mérlegképes könyvelő megnevezésű
 
-[^1]: A 2. § (3) bekezdése a 40/2013. (IX. 30.) NGM rendelet 11. §-ával megállapított szöveg.
+[^3]: A 2. § (3) bekezdése a 40/2013. (IX. 30.) NGM rendelet 11. §-ával megállapított, zárószövegrésze a 6/2014. (II. 12.) NGM rendelet 6. §-a szerint módosított szöveg.

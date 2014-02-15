@@ -1,6 +1,6 @@
 13. § (1) A hatósági vizsga előre meghatározott helyszínen és időben, számítógépes vizsgaprogram igénybevételével vagy írásban, magyar nyelvű feleletválasztós feladatlap kitöltésével tehető le.
 
-(2)[^10] A képző szervnek rendelkeznie kell a képzés és a hatósági vizsga helyszínén az azon részt vevők létszámának megfelelő számú számítógéppel és a szükséges számítógépes programokkal, amennyiben a képzés és a vizsga letétele számítógép segítségével történik.
+(2)[^12] A képző szervnek rendelkeznie kell a képzés és a hatósági vizsga helyszínén az azon részt vevők létszámának megfelelő számú számítógéppel és a szükséges számítógépes programokkal, amennyiben a képzés és a vizsga letétele számítógép segítségével történik.
 
 (3) A hatósági vizsga időtartama alatt a vizsgahelyiségben kizárólag a vizsgázók, vizsgabiztosok, a vizsgáztatást ellenőrző személyek tartózkodhatnak. A vizsgahelyiségben a hatósági vizsga időtartama alatt a hatósági vizsga biztonságos lebonyolítása érdekében a vizsgabiztos engedélyével segítő személy is tartózkodhat, ha vele szemben nem állnak fenn a 12. § (4) bekezdésében foglalt kizáró okok.
 
@@ -8,4 +8,4 @@
 
 (5) A hatósági vizsga lebonyolítására vonatkozó szabályokat tartalmazó vizsgaszabályzatot a Hatóság elkészíti, és az internetes honlapján közzéteszi. A pénzügyi szolgáltatás közvetítői hatósági vizsgával kapcsolatos egyéb tudnivalókról a Hatóság az internetes honlapján közleményt tesz közzé.
 
-[^10]: A 13. § (2) bekezdése a 19/2010. (XII. 31.) NGM rendelet 2. §-ával megállapított szöveg.
+[^12]: A 13. § (2) bekezdése a 19/2010. (XII. 31.) NGM rendelet 2. §-ával megállapított szöveg.

@@ -272,6 +272,6 @@
 
 ## 6.8. Faktorálás
 
-2. melléklet a 18/2010. (IV. 29.) PM rendelethez[^22]
+2. melléklet a 18/2010. (IV. 29.) PM rendelethez[^24]
 
-[^22]: A 2. melléklet a 40/2013. (IX. 30.) NGM rendelet 12. § e) pontja szerint módosított szöveg.
+[^24]: A 2. melléklet a 40/2013. (IX. 30.) NGM rendelet 12. § e) pontja szerint módosított szöveg.
