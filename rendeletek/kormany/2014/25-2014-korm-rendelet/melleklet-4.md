@@ -272,10 +272,6 @@
 
 ## ”
 
-4. melléklet a 25/2014. (II. 7.) Korm. rendelethez
+4. melléklet a 25/2014. (II. 7.) Korm. rendelethez[^16]
 
-„8. melléklet a 218/2009. (X. 6.) Korm. rendelethez
-
-A MEGYEI TERÜLETRENDEZÉSI TERVEK JELKULCSA
-
-1. TÉRSÉGI SZERKEZETI TERV
+[^16]: A 4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

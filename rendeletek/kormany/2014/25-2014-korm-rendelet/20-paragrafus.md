@@ -1,5 +1,6 @@
-20. § (1) Az R3. 3. melléklete helyébe a 12. melléklet lép.
+20. § (1)[^12]
 
-(2)[^5]
+(2)[^13]
 
-[^5]: A 20. § (2) bekezdése a 23. § (2) bekezdése alapján 2014. december 30-án lép hatályba.
+[^12]: A 20. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 20. § (2) bekezdése a 23. § (2) bekezdése alapján 2014. december 30-án lép hatályba.
