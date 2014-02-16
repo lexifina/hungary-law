@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-250-00-00
 | 2014-01-01 | 2010. évi CXXX. törvény | 2013-250-00-00.2 |
 | 2014-01-02 | 2010. évi CXXX. törvény | 2013-250-00-00.3 |
 | 2014-02-15 | Nemzeti Jogszabálytár (egységes szerkezet) | 2013-250-00-00.4 |
+| 2014-02-16 | 2010. évi CXXX. törvény | 2013-250-00-00.5 |

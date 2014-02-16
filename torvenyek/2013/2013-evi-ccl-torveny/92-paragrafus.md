@@ -1,7 +1,1 @@
-92. § A Tfvt. 64. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A mezőgazdasági igazgatási szerv – a jogsértés súlyát, ismételtségét figyelembe véve –
-
-a) 20 000 forinttól 50 000 forintig terjedő bírsággal sújtja azt, aki a gyümölcsültetvény-kataszterbe valótlan adatokat jelent be vagy az adatszolgáltatási kötelezettségének felszólítás ellenére sem tesz eleget,
-
-b) 50 000 forinttól 200 000 forintig terjedő bírsággal sújtja azt, aki a gyümölcsültetvényt engedély nélkül vagy a telepítési engedélyben foglaltaktól eltérően telepíti.”
+92. §
