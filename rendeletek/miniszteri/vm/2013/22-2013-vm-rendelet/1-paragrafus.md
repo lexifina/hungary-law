@@ -26,7 +26,9 @@ b) az az ügyfél, aki az adott földterület vonatkozásában a földhasználat
 
 c) a közös tulajdonban álló földrészletek vonatkozásában az az ügyfél, aki az adott földterület vonatkozásában a földhasználati nyilvántartásba nem került bejegyzésre, de a használati megosztásra vonatkozó megállapodás vagy földhasználati rendre irányuló döntés hiányában – amennyiben a 2. § (1) bekezdése szerinti, az egyes támogatási jogcímekre vonatkozó jogszabályok másként nem rendelkeznek e dátumról – a tárgyév június 9-én fennálló földhasználati jogosultságát igazoló, a földhasználat időtartamát, a használt terület azonosító adatait és nagyságát tartalmazó egyéb okirattal rendelkezik, vagy
 
-d) a családi gazdálkodó, akkor is, ha a földhasználati nyilvántartásba – amennyiben a 2. § (1) bekezdése szerinti, az egyes támogatási jogcímekre vonatkozó jogszabályok másként nem rendelkeznek e dátumról – a tárgyév június 9-i dátum szerinti állapotnak megfelelően a családi gazdálkodó által támogatás alapjául szolgáló területként az egységes kérelemben bejelentett területekre vagy azok egy részére vonatkozóan földhasználóként a gazdálkodó család tagja került bejegyzésre a családi gazdaságba bevont területek vonatkozásában, és arra a 2. §-ban felsorolt támogatások esetében a gazdálkodó család tagja támogatási kérelmet nem nyújtott be;
+d) a családi gazdálkodó, akkor is, ha a földhasználati nyilvántartásba – amennyiben a 2. § (1) bekezdése szerinti, az egyes támogatási jogcímekre vonatkozó jogszabályok másként nem rendelkeznek e dátumról – a tárgyév június 9-i dátum szerinti állapotnak megfelelően a családi gazdálkodó által támogatás alapjául szolgáló területként az egységes kérelemben bejelentett területekre vagy azok egy részére vonatkozóan földhasználóként a gazdálkodó család tagja került bejegyzésre a családi gazdaságba bevont területek vonatkozásában, és arra a 2. §-ban felsorolt támogatások esetében a gazdálkodó család tagja támogatási kérelmet nem nyújtott be,
+
+e)[^2] az a)–d) pontokban felsorolt földhasználó hiányában – amennyiben a 2. § (1) bekezdése szerinti, az egyes támogatási jogcímekre vonatkozó jogszabályok másként nem rendelkeznek e dátumról – a tárgyév június 9-i dátum szerinti állapotnak megfelelően – sorrendben – a támogatási kérelmet benyújtó földtulajdonos vagy a földhasználati jogosultságot egyéb okirattal igazoló ügyfél;
 
 10. kölcsönös megfeleltetés: a közvetlen mezőgazdasági támogatások, valamint az egyes vidékfejlesztési és borpiaci támogatások egységes feltételrendszere, amely a kölcsönös megfeleltetés körébe tartozó ellenőrzések lefolytatásával, valamint a jogkövetkezmények alkalmazásával kapcsolatos szabályokról szóló 81/2009. (VII. 10.) FVM rendelet 1. számú melléklete szerinti „Jogszabályban Foglalt Gazdálkodási Követelményekből” és a HMKÁ rendelet 1. számú melléklete szerinti „Helyes Mezőgazdasági és Környezeti Állapot” előírásaiból, továbbá az agrár-környezetgazdálkodási rendelet alapján igénybe vehető támogatás esetén a tápanyag-gazdálkodásra, valamint a növényvédőszer-használatra vonatkozó minimumkövetelményekből áll;
 
@@ -50,11 +52,12 @@ d) a családi gazdálkodó, akkor is, ha a földhasználati nyilvántartásba �
 
 20. támogatható terület: a MePAR rendelet 1. § g) pontja szerinti terület;
 
-21.[^2] technikai közreműködő: a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara falugazdász munkatársa;
+21.[^3] technikai közreműködő: a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara falugazdász munkatársa;
 
 22. terménycsoport: a 1122/2009/EK bizottsági rendelet 56. cikk (1) bekezdés b) és c) pontjában meghatározottak;
 
 23. vélelmezett örökös: a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény (a továbbiakban: Tv.) 45. § (9) bekezdésének megfelelően az ügyféllel annak halálakor együtt élt azon házastársa vagy törvényes rend szerinti örököse, aki e rendelet szerinti eljárást megindítja.
 
 [^1]: Az 1. § 9. pontja a 31/2013. (V. 2.) VM rendelet 28. §-ával megállapított szöveg.
-[^2]: Az 1. § 21. pontja a 8/2014. (II. 6.) VM rendelet 3. §-ával megállapított szöveg.
+[^2]: Az 1. § 9. pont e) alpontját a 11/2014. (II. 17.) VM rendelet 4. § (1) bekezdése iktatta be.
+[^3]: Az 1. § 21. pontja a 8/2014. (II. 6.) VM rendelet 3. §-ával megállapított szöveg.

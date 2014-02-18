@@ -1,4 +1,4 @@
-## 22/A. §[^6] E rendeletnek az egyes élelmiszerlánc-felügyeleti tárgyú miniszteri rendeletek módosításáról szóló 51/2013. (VI. 17.) VM rendelettel [a továbbiakban: 51/2013. (VI. 17.) VM rendelet] megállapított 12/A. §-át az 51/2013. (VI. 17.) VM rendelet hatályba lépésekor[^7] folyamatban levő, valamint a 2012. évben benyújtott egységes kérelem alapján folyamatban levő, vagy végzéssel megszüntetett eljárásokban is alkalmazni kell.
+## 22/B. §[^9] E rendeletnek a föld használatával összefüggő egyes agrártámogatásokra vonatkozó miniszteri rendeletek módosításáról szóló 11/2014. (II. 17.) VM rendelettel [a továbbiakban: 11/2014. (II. 17.) VM rendelet] megállapított 1. § 9. pont e) alpontját a 11/2014. (II. 17.) VM rendelet hatálybalépésekor[^10] folyamatban lévő ügyekben és eljárásokban is alkalmazni kell.
 
 ## 16. Az Európai Unió jogának való megfelelés
 
@@ -12,5 +12,5 @@ c) a vidékfejlesztési támogatási intézkedésekre vonatkozó ellenőrzési e
 
 a végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^6]: Az újabb 22/A. §-t az 51/2013. (VI. 17.) VM rendelet 24. §-a iktatta be.
-[^7]: A hatálybalépés időpontja 2013. június 17. 18.00 óra.
+[^9]: A 22/B. §-t a 11/2014. (II. 17.) VM rendelet 4. § (2) bekezdése iktatta be.
+[^10]: A hatálybalépés időpontja 2014. február 18.
