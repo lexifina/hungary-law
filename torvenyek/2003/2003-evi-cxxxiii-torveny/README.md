@@ -17,3 +17,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-133-00-00
 | 2013-07-20 | 2013. évi CXXVIII. törvény | 2003-133-00-00.19 |
 | 2013-12-31 | 2013. évi CCXXXI. törvény | 2003-133-00-00.20 |
 | 2014-02-01 | 2013. évi CCXXXI. törvény | 2003-133-00-00.21 |
+| 2014-02-18 | 2014. évi XI. törvény | 2003-133-00-00.22 |
