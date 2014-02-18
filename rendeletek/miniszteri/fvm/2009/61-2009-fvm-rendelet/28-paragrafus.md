@@ -1,4 +1,4 @@
-28. §[^59] (1) Amennyiben a helyszíni ellenőrzés vagy az adategyeztetés során megállapításra kerül, hogy a kötelezettségvállalással érintett egybefüggő terület mérete csökkentésre szorul, az MVH hivatalból részleges kizárási eljárást indít.
+28. §[^60] (1) Amennyiben a helyszíni ellenőrzés vagy az adategyeztetés során megállapításra kerül, hogy a kötelezettségvállalással érintett egybefüggő terület mérete csökkentésre szorul, az MVH hivatalból részleges kizárási eljárást indít.
 
 (2) Részleges kizárás esetén az MVH meghatározza a kizárt földterületet, valamint a kizárás következtében lecsökkent földterületet beazonosító EOV koordinátákat legalább 3 méter pontossággal.
 
@@ -12,4 +12,4 @@
 
 (7) Az (1)–(2) bekezdések alapján kizárt területre kifizetett támogatás jogosulatlanul igénybe vett támogatásnak minősül, továbbá a kizárással érintett terület támogatási jogosultsága megszűnik. A jogosulatlanul igénybe vett támogatás visszafizetése az adott gazdálkodási év támogatási összegéből történő levonással is teljesíthető.
 
-[^59]: A 28. § a 35/2010. (XI. 30.) VM rendelet 7. §-ával megállapított szöveg.
+[^60]: A 28. § a 35/2010. (XI. 30.) VM rendelet 7. §-ával megállapított szöveg.

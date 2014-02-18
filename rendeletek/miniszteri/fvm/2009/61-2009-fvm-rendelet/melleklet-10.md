@@ -52,6 +52,6 @@
 
 | 14 | d) da) | Nádgazdálkodás | Nád |
 
-10. számú melléklet a 61/2009. (V. 14.) FVM rendelethez[^205]
+10. számú melléklet a 61/2009. (V. 14.) FVM rendelethez[^208]
 
-[^205]: A 10. számú melléklet a 35/2010. (XI. 30.) VM rendelet 25. § (2) bekezdésével megállapított szöveg.
+[^208]: A 10. számú melléklet a 35/2010. (XI. 30.) VM rendelet 25. § (2) bekezdésével megállapított szöveg.

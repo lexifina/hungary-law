@@ -178,7 +178,7 @@
 
 | Nagykállói | FAO WIEWS, ECP/GR | <1 ha | géntartalék |
 
-14. számú melléklet a 61/2009. (V. 14.) FVM rendelethez[^206]
+14. számú melléklet a 61/2009. (V. 14.) FVM rendelethez[^209]
 
 ## A földterület beazonosításának útmutatója
 
@@ -248,4 +248,4 @@ g) pontszámos területszámítási jegyzőkönyv;
 
 h) pontszámos területszámítási vázrajz (shape formátumban).
 
-[^206]: A 14. számú melléklet a 31/2010. (III. 30.) FVM rendelet 23. § (2) bekezdése szerint módosított szöveg.
+[^209]: A 14. számú melléklet a 31/2010. (III. 30.) FVM rendelet 23. § (2) bekezdése szerint módosított szöveg.

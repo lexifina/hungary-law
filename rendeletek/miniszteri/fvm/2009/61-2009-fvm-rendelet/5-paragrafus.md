@@ -18,7 +18,7 @@ b) a földrészlet támogatással érintett területének elkülönült használ
 
 (6)[^14] Amennyiben az (1) bekezdésben szereplő feltétel nem teljesül, akkor támogatás kizárólag abban az esetben nyújtható, ha
 
-a) az ügyfél igazolja, hogy az (1) bekezdés szerinti feltételnek önhibáján kívüli okból nem felel meg és rendelkezik olyan földhasználati jogosultságot igazoló szerződéssel, amelynek kezdő időpontja nem későbbi azon gazdálkodási év első napjánál, megszűnésének időpontja pedig legalább ugyanazon gazdálkodási év utolsó napja, vagy annál későbbi időpont, amelyre az (1) bekezdés szerinti feltétel nem teljesül, vagy
+a)[^15] az ügyfél rendelkezik olyan földhasználati jogosultságot igazoló okirattal, amely alapján a földhasználatra való jogosultság kezdő időpontja nem későbbi a gazdálkodási év első napjánál, megszűnésének időpontja pedig a gazdálkodási év utolsó napja, vagy annál későbbi időpont és a földterületet az időtartam alatt ténylegesen műveli, vagy
 
 b) az ügyfél családi gazdálkodó és olyan területre igényli a támogatást,
 
@@ -31,3 +31,4 @@ bb) amelyre vonatkozóan az adott családi gazdaság olyan tagja teljesíti az (
 [^12]: Az 5. § (3) bekezdés a) pontja a 44/2012. (V. 3.) VM rendelet 7. §-ával megállapított szöveg.
 [^13]: Az 5. § (4) bekezdése a 92/2011. (X. 5.) VM rendelet 24. § (1) bekezdése szerint módosított szöveg.
 [^14]: A 5. § (6) bekezdését a 31/2010. (III. 30.) FVM rendelet 2. §-a iktatta be, hatályon kívül helyezte a 44/2012. (V. 3.) VM rendelet 12. §-a, újonnan a 68/2013. (VII. 29.) VM rendelet 6. § (1) bekezdése iktatta be.
+[^15]: Az 5. § (6) bekezdés a) pontja a 11/2014. (II. 17.) VM rendelet 3. § (1) bekezdésével megállapított szöveg.
