@@ -1,0 +1,169 @@
+# A Kormány 1061/2014. (II. 18.) Korm. határozata
+
+Magyar Közlöny 2014. évi 23. szám, 2014. február 18. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/a86023465a3fdb0925991404ad7d3582f5e0c167/dokumentumok/155cd32fac9d0b70419c3f15dcbcfb5e3a8a66ed/letoltes)
+
+---
+
+A Kormány 1061/2014. (II. 18.) Korm. határozata
+a védelmi igazgatás tervrendszerének bevezetéséről
+1. A Kormány a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezetendő
+intézkedésekről szóló 2011. évi CXIII. törvény 21. § (1) bekezdés e) pontjában, továbbá a honvédelemről és a Magyar
+Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény
+egyes rendelkezéseinek végrehajtásáról szóló 290/2011. (XII. 22.) Korm. rendelet 22. § (2) bekezdésében foglalt
+feladatainak végrehajtása érdekében
+a) jóváhagyja a védelmi igazgatás tervrendszerének kialakítására vonatkozó 1. melléklet szerinti koncepciót;
+b) felkéri a védelmi igazgatás központi, területi szerveit, hogy a védelmi igazgatás helyi szintű szervei
+bevonásával a honvédelmi intézkedési terveiket az 1. melléklet figyelembe vételével 2014. március 31-ig
+dolgozzák ki;
+c) felhívja a honvédelmi minisztert, hogy – a honvédelmi igazgatás központi döntés-előkészítő és végrehajtás-
+koordináló szakmai szerve útján – kísérje figyelemmel e kormányhatározatban foglaltak végrehajtását, és
+szükség esetén tegyen javaslatot a teljesítést segítő intézkedésekre;
+d) felkéri az autonóm államigazgatási szervek vezetőit, a legfőbb ügyészt, a Magyar Nemzeti Bank elnökét,
+a Médiaszolgáltatás-támogató és Vagyonkezelő Alap vezérigazgatóját, a Nemzeti Média- és Hírközlési
+Hatóság elnökét, valamint az Országos Bírósági Hivatal elnökét, hogy szakterületüket érintően működjenek
+
+együtt a b) pontban meghatározott honvédelmi intézkedési terv szervezetükre vonatkozó kidolgozásával és
+bevezetésével összefüggő feladatok végrehajtásában.
+2. Ez a határozat a közzétételét követő 8. napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
+1. melléklet az 1061/2014. (II. 18.) Korm. határozathoz
+Koncepció
+a védelmi igazgatás tervrendszerének kialakítására
+A védelmi felkészítés egyes kérdéseiről szóló 1524/2013. (VIII. 12.) Korm. határozat (a továbbiakban: Korm. határozat)
+1. melléklet 7. pont a) és b) alpontja alapján ki kell dolgozni a védelmi igazgatás tervrendszerének kialakításával
+kapcsolatos koncepciót, és a koncepció alapján előterjesztést kell készíteni a Kormány részére a védelmi igazgatás
+tervrendszerének bevezetéséről.
+A honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről
+szóló 2011. évi CXIII. törvény egyes rendelkezéseinek végrehajtásáról szóló 290/2011. (XII. 22.) Korm. rendelet 22. §
+(2) bekezdése alapján a Kormány határozza meg a honvédelemben közreműködő szervek által készítendő terveket
+és azok tartalmi követelményeit.
+Az alapvető fogalmak tisztázása
+A Korm. határozat 1. melléklet 7. pontjában nevesített komplex feladat végrehajtása érdekében célszerűnek látszik
+néhány alapfogalom tisztázása, illetőleg kérdéskör rendszerezése.
+A terv egy jövőbeli cselekvést, annak idejét, módját és eszközeit meghatározó elgondolás. A tervezés eredménye,
+a szervezet valamely elérni szándékozott állapotához tartozó működés modellje, a szervezet és a környezet
+állapotváltozásainak a kitűzött cél eléréséig való előre látása, vagyis a szervezet működésének programja.
+Tervnek tekintjük az államilag készített, törvényben, rendeletben rögzített programot is, valamint egy tevékenység
+előkészítésének és végrehajtásának elképzelt, szövegesen vagy grafikusan rögzített folyamatát. Ennek megfelelően
+tervek készülnek a közigazgatás minden szintjén és szakterületén, így a honvédelmi igazgatás szerveinél is.
+Tervezés a honvédelmi igazgatás területén a honvédelmi feladatok és a válságkezelés katonai feladatai
+végrehajtásával kapcsolatban álló tervek készítése. E tervek határozzák meg a honvédelmi feladatok és
+a válságkezelés katonai feladatai végrehajtásának szervezeti, személyi és anyagi erőforrás szükségletét, valamint
+a funkcionális kereteit, valamint azokat a tevékenységeket amelyek a célhoz vezető cselekvési változatok
+előállítására hivatottak.
+A tervezés a honvédelmi igazgatási szerv minden szintjén és részlegében a célok kijelölését és az alternatívák
+kiválasztását igényli. A honvédelmi igazgatás szervezeti hierarchiájának minden fokán meg kell határozni
+a honvédelmi feladatok és a válságkezelés katonai feladatai végrehajtásával kapcsolatos célokat, és ki kell választani
+az elérésükhöz szükséges eszközöket.
+Tervezést igényel a leghatékonyabb szervezet kialakítása az adott feladat végrehajtására, ezen belül az emberi
+erőforrások aktivizálása, valamint az ezeket kísérő szabályozó folyamatok.
+A kidolgozandó honvédelmi intézkedési tervek sajátossága, hogy általában hiányos információk birtokában és
+a bizonytalan jövő tudatában kerülnek összeállításra. Ennek eredményeképpen a terv nem lehet teljesen„konkrét”.
+A védelmi igazgatás a közigazgatás részét képező feladat- és szervezeti rendszer, amely az állam védelmi
+feladatainak megvalósítására létrehozott, valamint e feladatra kijelölt közigazgatási szervek által végzett végrehajtó,
+rendelkező tevékenység; magában foglalja a különleges jogrendre történő felkészülést, továbbá az említett
+időszakok és helyzetek honvédelmi, polgári védelmi, katasztrófavédelmi, védelemgazdasági, lakosság-ellátási
+feladatainak tervezésére, szervezésére, a feladatok végrehajtására irányuló állami tevékenységek összességét.
+A védelmi igazgatás tervrendszere – a jelenleg más-más tárca szakpolitikai feladat- és hatáskörébe tartozás miatt –
+a honvédelmi igazgatás terv-dokumentációval (nevezetesen: az ágazati szabályozókban már nevesítésre került
+honvédelmi intézkedési tervvel), a katasztrófavédelem részéről a veszélyelhárítási tervvel, a védelemgazdaság
+
+részéről pedig az újra fogalmazott védelemgazdasági alaptervvel együttesen alkot egy teljesen egész, komplett
+egységes tervrendszert.
+Az elgondolás alapján kidolgozásra kerülő honvédelmi intézkedési tervekkel szemben támasztott
+szakmai követelmények
+A honvédelem, a katasztrófavédelem és a védelemgazdaság sajátos, egymástól funkcionálisan eltérő
+követelményeire tekintettel megfelelő tervdokumentáció kidolgozása indokolt, majd azt követően vizsgálni
+szükséges a kor színvonalának megfelelő, korszerű térinformatikai alkalmazás lehelőségeit. A párhuzamosságok,
+ismétlések elkerülése érdekében a koncepció nem tartalmazza azokat a szakmai, tartalmi követelményeket, amelyek
+a veszélyelhárítási tervvel összefüggésben a katasztrófavédelmi jogszabályokban, a védelemgazdasági alaptervvel
+kapcsolatban a nemzetgazdaság védelmi felkészítését szabályozó jogszabályban már meghatározásra került.
+A tervrendszer megújításának célja, hogy a mai kor követelményeinek megfelelő, feladatorientált, a központi,
+a területi és a helyi sajátosságokat, továbbá a biztonságra hatást gyakorló kihívásokat (kockázatokat
+és veszélyforrásokat) maximálisan figyelembe vevő, a gyakorlatban jól használható, egymásra épülő,
+az együttműködést kiemelten kezelő tervrendszer kerüljön kidolgozásra. Olyan tervrendszert kell kialakítani,
+amely különleges jogrend időszakában biztosítja a honvédelemben közreműködő szervek – ezen belül is
+meghatározóan a központi közigazgatási szervek – vezetettségét, s így általuk, illetve rajtuk keresztül az ország
+működőképességének fenntartását, szükség esetén a lakosság élet- és vagyonmentését, valamint a lakosság
+folyamatos ellátását.
+A tervrendszer strukturális átalakítása mellett a tartalmi megújítást is végre kell hajtani.
+A tervrendszer korszerűsítése során biztosítani kell a szakmai követelményeknek való megfelelést, ezért a tervezés
+során a következő alapvető elveknek kell érvényesülnie:
+– a biztonságra hatást gyakorló kihívások megjelenítése (kockázatokat és veszélyforrásokat);
+– a NATO Válságreagálási Rendszeren alapuló nemzeti intézkedések rendszerével összhangban meghatározni
+a szükséges teendőket;
+– az időben történő cselekvés lehetősége;
+– a tervezési dokumentumokban foglalt feladatok rugalmassága és dinamikussága;
+– az erőforrások igénybevétele, felhasználása és alkalmazása, szem előtt tartva a hatékonyságot és
+a takarékosságot;
+– integrált, feladat alapú honvédelmi intézkedési terv készítése;
+– a feladatok összehangoltsága, feladatban résztvevők operatív együttműködése;
+– biztosítani a feladat végrehajtás hatékonyságát és eredményességét.
+A tervezés általánosan a kitűzött célok teljesüléséig végrehajtandó valamennyi feladatra, a teljes mélységű; részletes
+tervezés az elsőrendű fontosságú feladatokra terjedjen ki.
+A tervrendszer kidolgozását követően először – a meglévő informatikai lehetőségek szélesebb körű
+kihasználhatóságának felmérése időszakában – még két módon, párhuzamosan (papír alapon és digitálisan)
+realizált, komplex tervrendszer működtetése a kívánatos.
+A tervrendszer kialakítását követően figyelemmel kell lenni arra, hogy ez szorosan és szervesen kapcsolódik
+a térinformatikai támogatás rendszeréhez, amelyet folyamatosan fejleszteni kell a jelenben és a jövőben egyaránt.
+Ez külön önálló feladatként jelent meg a védelmi felkészítés 2013. évi feladattervében, amely munkát a Honvédelmi
+Igazgatási Koordinációs Tárcaközi Munkacsoport fog elvégezni.
+Az adatbázisok adatainak naprakészen tartásával törekedni kell az országos adatbázis egységes kialakítására,
+hozzáférhetőségének biztosítására.
+A honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló
+2011. évi CXIII. törvény 81. § (3) bekezdése alapján felhatalmazást kaptak a miniszterek, hogy feladatkörükben
+eljárva – a honvédelemért felelős miniszterrel egyetértésben –, rendeletben határozzák meg ágazatuk honvédelmi
+feladatait. Az ágazati szabályozás során, a rendelet-tervezetek normaszövegében megjelenítésre került
+a honvédelmi intézkedési terv elkészítésére és főbb tartalmi elemeire vonatkozó rendelkezés, amelyet az egyes
+minisztériumok vezetői érvényesíteni tudnak az irányítási, felügyeleti, illetve tulajdonosi jogkörükbe tartozó és
+a honvédelemben közreműködő szerveik vonatkozásában is.
+A koncepció értelmében:
+– a honvédelemben közreműködő szerv által készített honvédelmi intézkedési tervet a honvédelemben
+közreműködő szerv vezetője hagyja jóvá;
+
+– a honvédelmi intézkedési terv tartalmazza a honvédelemben közreműködő szerv különleges jogrend
+bevezetésének időszakára vonatkozó, a honvédelmi feladatok ellátását rendkívüli körülmények között is
+biztosító, a személyi és anyagi erőforrásokra is kiterjedő működési szabályait;
+– a honvédelmi intézkedési terv a honvédelemben közreműködő szerv sajátosságainak megfelelő
+– a működési szabályokról rendelkező – szöveges részből, valamint – a személyi és anyagi erőforrásokat
+bemutató – mellékletekből áll;
+– a honvédelmi intézkedési terv rendszeres felülvizsgálatáról és szükség szerinti módosításáról
+a honvédelemben közreműködő szerv vezetője gondoskodik;
+– a honvédelemben közreműködő szerv vezetője gondoskodik arról, hogy a honvédelmi intézkedési terv
+végrehajtásában részt vevő személyi állomány a tervet megismerje, valamint begyakorolja, továbbá
+a honvédelmi intézkedési terv végrehajtását biztosító erők és eszközök rendelkezésre álljanak.
+Az elgondolás alapján a központi, területi és helyi szinten a közigazgatási szervek és a honvédelemben
+közreműködő egyéb szervek által kidolgozásra tervezett honvédelmi intézkedési terv tartalmi elemei részletes
+bontásban:
+A honvédelmi intézkedési tervnek tartalmaznia kell a feladatban résztvevőkre vonatkozóan
+– az irányítás, vezetés, együttműködés rendjét;
+– a kapcsolattartás és jelentések rendjét;
+– a védelmi igazgatási szervek (munkaszervek, -csoportok) készenlétbe helyezését;
+– a munkaszervek, -csoportok, az ügyeleti (készenléti) szolgálatok működési rendjét; itt kell megjeleníteni
+a honvédelemben közreműködő szerv feladat- és hatáskörébe tartozó honvédelmi feladatokat
+– pl. a nemzeti intézkedési rendszer, a gazdaság felkészítés és -mozgósítás, a befogadó nemzeti támogatás,
+a tömegtájékoztatás, a kulturális örökség elemeinek védelme, a lakosság ellátása, a meghagyás stb. terén –
+megelőző védelmi helyzet, rendkívüli állapot, váratlan támadás vagy szükségállapot idejére vonatkozóan.;
+– a riasztás, kapcsolattartás rendjét;
+– az egyéni védőeszközökkel (szükség-védőeszközökkel) való ellátás rendjét;
+– a honvédelmi feladatok, a válságkezelés katonai feladatai végzésére, ellátására kijelölt állomány alkalmazási
+készenlétbe helyezésének és a működéséhez szükséges anyagi készletek biztosításának rendjét;
+– a honvédelmi feladatok, a válságkezelés katonai feladatai végrehajtásában részt vevő egyéb védelmi
+igazgatási szervek, szervezetek készenlétbe helyezésének és alkalmazásának rendjét;
+– a logisztikai feladatokhoz szükséges anyagi készletekkel (élelmiszer, ivóvíz, egészségügyi felszerelés) való
+ellátás, a pihentetés és váltás feltételeinek, a gazdasági és anyagi szolgáltatások biztosításának rendjét;
+– az objektumba (munkaterületre) történő belépés (beléptetés) rendjét.
+A honvédelmi intézkedési tervnek tartalmaznia kell a honvédelemben közreműködő szerv objektumában dolgozók
+védelmére vonatkozóan
+– a riasztás, figyelmeztetés, tájékoztatás rendjét;
+– különleges jogrend időszakában, jogszabályban meghatározott közreműködési feladatokat.
+A honvédelmi intézkedési terv tartalmazhat minden olyan egyéb előírást, amely biztosítja a honvédelemben
+közreműködő szerv alaprendeltetéséből adódó feladatának végrehajtását, rendeltetésszerű működését
+a honvédelmi feladatok és a válságkezelés katonai feladatainak végrehajtásával összefüggésben, illetve különleges
+jogrend idején az alkalmazásra kerülő rendkívüli intézkedések, továbbá bevezetésre kerülő rendszabályok és
+intézkedések mellett is.
+A jóváhagyott honvédelmi intézkedési terv egy példányát – a minisztériumok kivételével – fel kell terjeszteni,
+meg kell küldeni a honvédelemben közreműködő szerv felett irányítási, felügyeleti, tulajdonosi jogkört gyakorló
+vezetőnek. A minisztériumok a honvédelmi intézkedési tervük egy példányát megküldik a honvédelmi igazgatás
+központi döntés-előkészítő és végrehajtás-koordináló szakmai szervének.
