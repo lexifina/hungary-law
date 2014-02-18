@@ -6,13 +6,69 @@ A hulladékgazdálkodási közszolgáltató által alkalmazandó számlakép
 
 2. A számla első oldala:
 
-## 3K82707_0 | „Szolgáltató logója: | Hulladékgazdálkodási közszolgáltatási számla | Szolgáltató neve: | x. sz. eredeti példány | Címe: | Oldalszám | Adószáma: | Bankszámlaszáma: |
+## 4K02369Q_0 | „Szolgáltató logója: | Hulladékgazdálkodási közszolgáltatási számla | Szolgáltató neve: | x. sz. eredeti példány | Címe: | Oldalszám | Adószáma: | Bankszámlaszáma: |
 
 ## „
 
-## 3. A számla harmadik oldala: „oldalszám
+3. A számla harmadik oldala: „oldalszám
 
-## | Vevő (fizető) azonosító száma: | | Vevő (fizető) neve: | | Vevő (fizető) címe: | | Vevő (fizető) adószáma: | | | | Szerződéses folyószámla: | Teljesítés kelte: | Számla sorszáma: | Számla kelte: | Fizetési mód: | A szolgáltatás megnevezése: | | Hulladékgazdálkodási közszolgáltatás
+|
+
+Vevő (fizető) azonosító száma:
+
+|
+
+|
+
+Vevő (fizető) neve:
+
+|
+
+|
+
+Vevő (fizető) címe:
+
+|
+
+|
+
+Vevő (fizető) adószáma:
+
+|
+
+|
+
+|
+
+|
+
+Szerződéses folyószámla:
+
+|
+
+Teljesítés kelte:
+
+|
+
+Számla sorszáma:
+
+|
+
+Számla kelte:
+
+|
+
+Fizetési mód:
+
+|
+
+A szolgáltatás megnevezése:
+
+|
+
+|
+
+Hulladékgazdálkodási közszolgáltatás
 
 ## SZÁMLARÉSZLETEZŐ
 
@@ -22,7 +78,7 @@ A hulladékgazdálkodási közszolgáltató által alkalmazandó számlakép
 
 ## Tájékoztató adatok:
 
-## *A rezsicsökkentés az arra jogosultakat a bruttó számlaérték alapulvételével illeti meg.”
+## * A rezsicsökkentés a fogyasztókat a 2012. április 14. napján alkalmazott díj figyelembevételével meghatározott bruttó számlaérték alapulvételével illeti meg, a tétel a már csökkentett összeget tartalmazza
 
 4. Magyarázat
 

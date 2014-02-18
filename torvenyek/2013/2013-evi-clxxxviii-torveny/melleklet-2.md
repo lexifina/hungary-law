@@ -6,41 +6,513 @@ A villamos energia egyetemes szolgáltató, illetve a villamosenergia-elosztó �
 
 2. Az elszámoló számla első oldala:
 
-## 3K85774M_0 | „Szolgáltató logója: | | | Villamos energia elszámoló számla | Szolgáltató neve: | x. sz. eredeti példány | Címe: | Oldalszám | Adószáma: | | Bankszámlaszáma: | |
+## 4K02368M_0 | „Szolgáltató logója: | | | Villamos energia elszámoló számla | Szolgáltató neve: | x. sz. eredeti példány | Címe: | Oldalszám | Adószáma: | | Bankszámlaszáma: | |
 
-## „”
+## ”
 
-## 3. Az elszámoló számla harmadik oldala: „oldalszám
+3. Az elszámoló számla harmadik oldala: oldalszám
 
-## Vevő (Fizető) azonosító:
+Vevő (Fizető) azonosító:
 
-## Vevő (Fizető) neve:
+Vevő (Fizető) neve:
 
-## Vevő (Fizető) címe:
+Vevő (Fizető) címe:
 
-## Vevő (Fizető) adószáma:
+Vevő (Fizető) adószáma:
 
-## Szerződéses folyószámla: Teljesítés kelte:
+Szerződéses folyószámla: Teljesítés időpontja:
 
-## Számla sorszáma: Számla kelte:
+Számla sorszáma: Számla kelte:
 
-## Fizetési mód: A szolgáltatás megnevezése:
+Fizetési mód: A szolgáltatás megnevezése:
 
-## Villamos energia egyetemes szolgáltatás
+Villamos energia egyetemes szolgáltatás
 
-## és villamosenergia-elosztás
+és villamosenergia-elosztás
 
-## SZÁMLARÉSZLETEZŐ
+SZÁMLARÉSZLETEZŐ
 
-## Fogyasztás összesen: … kWh
+Fogyasztás összesen: … kWh
 
-## Árszabás: Elosztói engedélyes:
+Árszabás: Elosztói engedélyes:
 
-## Mérési pont azonosító:
+Mérési pont azonosító:
 
-## | Mérő gyártási száma | Elszámolási időszak | Induló mérőállás | Záró mérőállás | LM | Fogyasztás (kWh) | Szorzó | Mennyiség (kWh) | | | | | | | |
+|
 
-## | Tétel megnevezése | Fogyasztási időszak | Mennyiség | Mérték-egység | Nettó egységár és mérték-egysége | Nettó érték (Ft) | ÁFA (%) | Bruttó érték (Ft) | Egyetemes szolgáltatói árszabás | | | | | | | | Energiadíj összesen | | | | | | | | Részszámlákban elszámolt energiadíj | | | | | | | | Fizetendő energiadíj | | | | | | | | Rendszerhasználati díjak (az elosztói alapdíj kivételével) | | | | | | | | Elosztói alapdíj* | | | | | | | | Rendszerhasználati díjak összesen | | | | | | | | Részszámlákban elszámolt rendszerhasználati díjak | | | | | | | | Fizetendő rendszerhasználati díjak | | | | | | | | Szénipari szerkezetátalakítási támogatás | | | | | | AHK | | Kedvezményes árú villamosenergia-ellátás támogatása | | | | | | AHK | | Kapcsolt termelésszerkezet-átalakítás | | | | | | AHK | | Pénzeszközök összesen | | | | | | AHK | | Részszámlákban elszámolt pénzeszközök | | | | | | | | Fizetendő pénzeszközök | | | | | | | | Nettó számlaérték összesen | | | | | | | | Kerekítés | | | | | | | | Bruttó számlaérték összesen** | | | | | | | | Egyéb | | | | | | | | Fizetendő összeg összesen | | | | | | |
+Mérő
+
+gyártási
+
+száma
+
+|
+
+Elszámolási
+
+időszak
+
+|
+
+Induló
+
+mérőállás
+
+|
+
+Záró mérőállás
+
+|
+
+LM
+
+|
+
+Fogyasztás
+
+(kWh)
+
+|
+
+Szorzó
+
+|
+
+Mennyiség
+
+(kWh)
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Tétel megnevezése
+
+|
+
+Fogyasztási
+
+időszak
+
+|
+
+Mennyiség
+
+|
+
+Mérték-
+
+egység
+
+|
+
+Nettó
+
+egységár és
+
+mérték-
+
+egysége
+
+|
+
+Nettó érték
+
+(Ft)
+
+|
+
+ÁFA
+
+(%)
+
+|
+
+Bruttó érték
+
+(Ft)
+
+|
+
+Egyetemes szolgáltatói árszabás
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Energiadíj összesen
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Részszámlákban elszámolt energiadíj
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Fizetendő energiadíj
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Rendszerhasználati díjak (az elosztói alapdíj kivételével)
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Elosztói alapdíj*
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Rendszerhasználati díjak összesen
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Részszámlákban elszámolt rendszerhasználati díjak
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Fizetendő rendszerhasználati díjak
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Szénipari szerkezetátalakítási támogatás
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+AHK
+
+|
+
+|
+
+Kedvezményes árú villamosenergia-ellátás támogatása
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+AHK
+
+|
+
+|
+
+Kapcsolt termelésszerkezet-átalakítás
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+AHK
+
+|
+
+|
+
+Pénzeszközök összesen
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+AHK
+
+|
+
+|
+
+Részszámlákban elszámolt pénzeszközök
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Fizetendő pénzeszközök
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Nettó számlaérték összesen
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Kerekítés
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Bruttó számlaérték összesen**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Egyéb
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Fizetendő összeg összesen
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
 
 ## ÁFA összesítő (Ft)
 
@@ -61,8 +533,6 @@ A villamos energia egyetemes szolgáltató, illetve a villamosenergia-elosztó �
 ## Leolvasás módja (LM): Leol – leolvasás elosztói engedélyes által; Becs – becsült; Dikt – fogyasztó által diktált; Ell – elosztói ellenőrzés
 
 ## | Számla sorszáma: | | Felhasználási hely: | | A következő részszámla becsült mennyisége: | | Energiafelhasználásának aránya (aktuális elszámolási időszak/azt megelőző elszámolási időszak): | | Az Ön energiafelhasználása az előző évhez képest (csökkent/nőtt/nem változott): | | Az Ön energiafelhasználása az átlagos lakossági felhasználáshoz képest: | | Az energia auditot, energetikai szolgáltatást végző szervezetek elérhetősége és a lakossági ügyfelek átlagfogyasztása a következő internetes honlapon található: | | Az elszámoló számlában elszámolt részszámlák sorszáma és a számla végösszege | Sorszám: | Számla végösszeg (Ft) |
-
-## „”
 
 4. Magyarázat
 
@@ -92,7 +562,7 @@ A villamos energia egyetemes szolgáltató, illetve a villamosenergia-elosztó �
 
 4.9. Egyetemes szolgáltatói árszabás: ha az elszámolási időszakban különböző árszabások alkalmazására kerül sor, az egyes árszabásokat külön sorban kell feltüntetni.
 
-4.10. Rendszerhasználati díjak (az elosztói alapdíj kivételével): ha az elszámolási időszakban különböző díjak vagy díjelemek alkalmazására kerül sor, az egyes díjakat, díjelemeket külön sorban kell feltüntetni a díjelemek megnevezésével.
+4.10. Rendszerhasználati díjak (az elosztói alapdíj kivételével): ha az elszámolási időszakban különböző díjak vagy díjelemek alkalmazására kerül sor, az egyes díjakat, díjelemeket, díjelemeket külön sorban kell feltüntetni a díjelemek megnevezésével a díjelemek megnevezésével.
 
 4.11. Elosztói alapdíj: ha az elszámolási időszakban különböző tarifák alkalmazására kerül sor, az egyes alapdíjakat külön sorban kell feltüntetni.
 

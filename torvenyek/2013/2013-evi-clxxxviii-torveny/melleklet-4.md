@@ -4,11 +4,11 @@
 
 ## 2. A részszámla első oldala:
 
-## 3K85774N_0 | „Szolgáltató logója: | | | Földgáz x. részszámla | Szolgáltató neve: | x. sz. eredeti példány | Címe: | Oldalszám | Adószáma: | | Bankszámlaszáma: | |
+## 4K02368N_0 | „Szolgáltató logója: | | | Földgáz x. részszámla | Szolgáltató neve: | x. sz. eredeti példány | Címe: | Oldalszám | Adószáma: | | Bankszámlaszáma: | |
 
 ## ”
 
-## 3. A részszámla harmadik oldala: „oldalszám
+## 3. A részszámla harmadik oldala: oldalszám
 
 ## Vevő (Fizető) azonosító:
 
@@ -18,7 +18,7 @@
 
 ## Vevő (Fizető) adószáma:
 
-## Szerződéses folyószámla: Teljesítés kelte:
+## Szerződéses folyószámla: Teljesítés időpontja:
 
 ## Számla sorszáma: Számla kelte:
 
@@ -26,11 +26,9 @@
 
 ## Földgáz egyetemes szolgáltatás és földgázelosztás
 
-## 3K85774N_1 | SZÁMLARÉSZLETEZŐ | | Elszámolt mennyiség: MJ ( m3) Árszabás: Mérési pont azonosító: | Földgázelosztó: | | | | Mérő gyártási száma | Elszámolt időszak | Induló mérőállás | Záró mérőállás | LM | Fogyasztás (m3) | Korrekciós tényező | Korrigált mennyiség (m3) | Fűtőérték | Hőmennyiség | (MJ/m3) | (MJ) | | | | | | | | | | | Utolsó elszámolt mérőállás leolvasásának dátuma | Utolsó elszámolt mérőállás (m3) | |
+## 4K02368N_1 | SZÁMLARÉSZLETEZŐ | | Elszámolt mennyiség: MJ ( m3) Árszabás: Mérési pont azonosító: | Földgázelosztó: | | | | Mérő gyártási száma | Elszámolt időszak | Induló mérőállás | Záró mérőállás | LM | Fogyasztás (m3) | Korrekciós tényező | Korrigált mennyiség (m3) | Fűtőérték | Hőmennyiség | (MJ/m3) | (MJ) | | | | | | | | | | | Utolsó elszámolt mérőállás leolvasásának dátuma | Utolsó elszámolt mérőállás (m3) | |
 
-## | Tétel megnevezése | Elszámolt időszak | Mennyiség | Mérték- egység | Nettó egységár és mértékegysége | Nettó érték (Ft) | ÁFA (%) | Bruttó érték (Ft) | Földgázfogyasztás árkategóriák szerint | | | | | | | | Energiadíj összesen | | | | | | | | Alapdíj* | | | | | | | | Nettó számlaérték összesen | | | | | | | | Kerekítés | | | | | | | | Bruttó számlaérték összesen** | | | | | | | | Egyéb | | | | | | | | Fizetendő összeg összesen | | | | | | |
-
-## 3K85774N_3 | ÁFA összesítő (Ft) A nyilvántartás szerinti folyószámla-egyenlege a számla kibocsátásakor: … Ft. | Tájékoztató adatok: *Az alapdíj fogyasztástól függetlenül fizetendő ** A rezsicsökkentés a fogyasztókat a 2012. december 1-jén hatályos árképzés szerinti bruttó számlaérték alapulvételével illeti meg, a tétel a már csökkentett összeget tartalmazza Következő leolvasás várható időpontja: Leolvasás módja (LM): Leol – leolvasás elosztói engedélyes által; Becs – becsült; Dikt – fogyasztó által diktált; Ell – elosztói ellenőrzés A fogyasztásmennyiség számításának módja: elszámolt hőmennyiség (MJ) = mérőállás különbség (m3) * légnyomás korrekciós tényező * fűtőérték (MJ/m3)
+## 4K02368N_2 | Tétel megnevezése | Elszámolt időszak | Mennyiség | Mérték- egység | Nettó egységár és mérték- egysége | Nettó érték (Ft) | ÁFA (%) | Bruttó érték (Ft) | Földgázfogyasztás árkategóriák szerint | | | | | | | | Energiadíj összesen | | | | | | | | Alapdíj* | | | | | | | | Nettó számlaérték összesen | | | | | | | | Kerekítés | | | | | | | | Bruttó számlaérték összesen** | | | | | | | | Egyéb | | | | | | | | Fizetendő összeg összesen | | | | | | | | ÁFA összesítő (Ft) A nyilvántartás szerinti folyószámla-egyenlege a számla kibocsátásakor: … Ft. | Tájékoztató adatok: *Az alapdíj fogyasztástól függetlenül fizetendő ** A rezsicsökkentés a fogyasztókat a 2012. december 1-jén hatályos árképzés szerinti bruttó számlaérték alapulvételével illeti meg, a tétel a már csökkentett összeget tartalmazza Következő leolvasás várható időpontja: Leolvasás módja (LM): Leol – leolvasás elosztói engedélyes által; Becs – becsült; Dikt – fogyasztó által diktált; Ell – elosztói ellenőrzés A fogyasztásmennyiség számításának módja: elszámolt hőmennyiség (MJ) = mérőállás különbség (m3) * légnyomás korrekciós tényező * fűtőérték (MJ/m3)
 
 ## 4. Magyarázat
 
@@ -80,31 +78,29 @@ A földgáz egyetemes szolgáltató, illetve a földgázelosztó által alkalmaz
 
 2. Az elszámoló számla első oldala:
 
-## 3K85774O_0 | „Szolgáltató logója: | | | Földgáz elszámoló számla | Szolgáltató neve: | x. sz. eredeti példány | Címe: | Oldalszám | Adószáma: | | Bankszámlaszáma: | |
+## 4K02368O_0 | „Szolgáltató logója: | | | Földgáz elszámoló számla | Szolgáltató neve: | x. sz. eredeti példány | Címe: | Oldalszám | Adószáma: | | Bankszámlaszáma: | |
 
-## „”
+## ”
 
-## 3. Az elszámoló számla harmadik oldala: „oldalszám
+3. Az elszámoló számla harmadik oldala: oldalszám
 
-## Vevő (Fizető) azonosító:
+Vevő (Fizető) azonosító:
 
-## Vevő (Fizető) neve:
+Vevő (Fizető) neve:
 
-## Vevő (Fizető) címe:
+Vevő (Fizető) címe:
 
-## Vevő (Fizető) adószáma:
+Vevő (Fizető) adószáma:
 
-## Szerződéses folyószámla: Teljesítés kelte:
+Szerződéses folyószámla: Teljesítés időpontja:
 
-## Számla sorszáma: Számla kelte:
+Számla sorszáma: Számla kelte:
 
-## Fizetési mód: A szolgáltatás megnevezése:
+Fizetési mód: A szolgáltatás megnevezése:
 
-## Földgáz egyetemes szolgáltatás és földgázelosztás
+Földgáz egyetemes szolgáltatás és földgázelosztás
 
-## | SZÁMLARÉSZLETEZŐ | Elszámolt mennyiség: …… MJ (……….m3) | Árszabás: Mérési pont azonosító: | | Földgázelosztó: | | Mérő gyártási száma | Elszámolási időszak | Induló mérőállás | Záró mérőállás | LM | Fogyasztás | Korrekciós tényező | Korrigált mennyiség (m3) | Fűtőérték | Hőmennyiség | (m3) | (MJ/m3) | (MJ) | | | | | | | | | | |
-
-## | Tétel megnevezése | Elszámolt időszak | Mennyiség | Mérték- egység | Nettó egységár és mérték- egysége | Nettó érték (Ft) | ÁFA (%) | Bruttó érték (Ft) | Földgázfogyasztás árkategóriák szerint | | | | | | | | Energiadíj összesen | | | | | | | | Részszámlákban elszámolt energiadíj | | | | | | | | Fizetendő energiadíj összesen | | | | | | | | Alapdíj* | | | | | | | | Alapdíj összesen | | | | | | | | Részszámlákban elszámolt alapdíj | | | | | | | | Fizetendő alapdíj összesen | | | | | | | | Nettó számlaérték összesen | | | | | | | | Kerekítés | | | | | | | | Bruttó számlaérték összesen** | | | | | | | | Egyéb | | | | | | | | Fizetendő összeg összesen | | | | | | |
+## 4K02368O_1 | SZÁMLARÉSZLETEZŐ | Elszámolt mennyiség: …… MJ (……….m3) | Árszabás: Mérési pont azonosító: | | Földgázelosztó: | | Mérő gyártási száma | Elszámolási időszak | Induló mérőállás | Záró mérőállás | LM | Fogyasztás | Korrekciós tényező | Korrigált mennyiség (m3) | Fűtőérték | Hőmennyiség | (m3) | (MJ/m3) | (MJ) | | | | | | | | | | | | Tétel megnevezése | Elszámolt időszak | Mennyiség | Mérték- egység | Nettó egységár és mérték- egysége | Nettó érték (Ft) | ÁFA (%) | Bruttó érték (Ft) | Földgázfogyasztás árkategóriák szerint | | | | | | | | Energiadíj összesen | | | | | | | | Részszámlákban elszámolt energiadíj | | | | | | | | Fizetendő energiadíj összesen | | | | | | | | Alapdíj* | | | | | | | | Alapdíj összesen | | | | | | | | Részszámlákban elszámolt alapdíj | | | | | | | | Fizetendő alapdíj összesen | | | | | | | | Nettó számlaérték összesen | | | | | | | | Kerekítés | | | | | | | | Bruttó számlaérték összesen** | | | | | | | | Egyéb | | | | | | | | Fizetendő összeg összesen | | | | | | |
 
 ## ÁFA összesítő (Ft)
 
@@ -125,8 +121,6 @@ A földgáz egyetemes szolgáltató, illetve a földgázelosztó által alkalmaz
 ## elszámolt hőmennyiség (MJ) = mérőállás különbség (m3) * légnyomás korrekciós tényező * fűtőérték (MJ/m3)
 
 ## | Számla sorszáma: | | Felhasználási hely: | | A következő részszámla becsült mennyisége: | | Energiafelhasználásának aránya (aktuális elszámolási időszak/azt megelőző elszámolási időszak): | | Az Ön energiafelhasználása az előző évhez képest (csökkent/nőtt/nem változott): | | Az Ön energiafelhasználása az átlagos lakossági felhasználáshoz képest: | | Az energia auditot, energetikai szolgáltatást végző szervezetek elérhetősége és a lakossági ügyfelek átlagfogyasztása a következő internetes honlapon található: | | Az elszámoló számlában elszámolt részszámlák sorszáma és a számla végösszege | Sorszám: | Számla végösszeg (Ft) |
-
-## „”
 
 4. Magyarázat
 

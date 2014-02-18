@@ -6,11 +6,11 @@ A távhőszolgáltató által alkalmazandó közvetített szolgáltatást nem ta
 
 2. A részszámla első oldala
 
-## 3K85774P_0 | „Szolgáltató logója: | | | Távhőszolgáltatási x. részszámla | Szolgáltató neve: | x. sz. eredeti példány | Címe: | Oldalszám | Adószáma: | | Bankszámlaszáma: | |
+## 4K02368P_0 | „Szolgáltató logója: | | | Távhőszolgáltatási x. részszámla | Szolgáltató neve: | x. sz. eredeti példány | Címe: | Oldalszám | Adószáma: | | Bankszámlaszáma: | |
 
 ## ”
 
-3. A részszámla harmadik oldala: „oldalszám
+3. A részszámla harmadik oldala: oldalszám
 
 Vevő (Fizető) azonosító:
 
@@ -20,7 +20,7 @@ Vevő (Fizető) címe:
 
 Vevő (Fizető) adószáma:
 
-Szerződéses folyószámla: Teljesítés kelte:
+Szerződéses folyószámla: Teljesítés időpontja:
 
 Számla sorszáma: Számla kelte:
 

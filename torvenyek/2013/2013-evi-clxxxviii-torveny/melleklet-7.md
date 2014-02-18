@@ -6,11 +6,11 @@ A távhőszolgáltató által alkalmazandó számlakép közvetített szolgálta
 
 2. Az elszámoló számla első oldala
 
-## 3K85774R_0 | „Szolgáltató logója: | | | Távhőszolgáltatási elszámoló számla | Szolgáltató neve: | x. sz. eredeti példány | Címe: | Oldalszám | Adószáma: | | Bankszámlaszáma: | |
+## 4K02368R_0 | „Szolgáltató logója: | | | Távhőszolgáltatási elszámoló számla | Szolgáltató neve: | x. sz. eredeti példány | Címe: | Oldalszám | Adószáma: | | Bankszámlaszáma: | |
 
 ## ”
 
-3. Az elszámoló számla harmadik oldala: „oldalszám
+3. Az elszámoló számla harmadik oldala: oldalszám
 
 Vevő (Fizető) azonosító:
 
@@ -20,7 +20,7 @@ Vevő (Fizető) címe:
 
 Vevő (Fizető) adószáma:
 
-Szerződéses folyószámla: Teljesítés kelte:
+Szerződéses folyószámla: Teljesítés időpontja:
 
 Számla sorszáma: Számla kelte:
 

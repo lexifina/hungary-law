@@ -6,11 +6,11 @@ A víziközmű-szolgáltató által alkalmazandó számlakép részszámla eset�
 
 2. A részszámla első oldala
 
-## 3K85774T_0 | „Szolgáltató logója: | | | Víziközmű-szolgáltatás x. részszámla | Szolgáltató neve: | x. sz. eredeti példány | Címe: | Oldalszám | Adószáma: | | Bankszámlaszáma: | |
+## 4K02369N_0 | „Szolgáltató logója: | | | Víziközmű-szolgáltatás x. részszámla | Szolgáltató neve: | x. sz. eredeti példány | Címe: | Oldalszám | Adószáma: | | Bankszámlaszáma: | |
 
 ## ”
 
-3. A részszámla harmadik oldala „oldalszám
+3. A részszámla harmadik oldala oldalszám
 
 |
 
@@ -46,7 +46,7 @@ Szerződéses folyószámla:
 
 |
 
-Teljesítés kelte:
+Teljesítés időpontja:
 
 |
 
@@ -76,7 +76,7 @@ Víziközmű-szolgáltatás
 
 ## Árszabás:
 
-## | Tétel megnevezése | Mérőállás (induló, záró) | Elszámolt mennyiség és mértékegység | Nettó egységár és mértékegység | Nettó díj (Ft) | ÁFA (%) | Bruttó díj (Ft) | Ivóvíz-szolgáltatás alapdíj vagy átalánydíj | | | | | | | …………. számú vízmérőn mért ivóvíz fogyasztással arányos díj | | | | | | | Szennyvízelvezetés és tisztítás alapdíj vagy átalánydíj | | | | | | | Elvezetett mennyiséggel arányos szennyvízdíj | | | | | | | Áthárított vízterhelési díj | | | | | | | Jogszabályban biztosított locsolási kedvezmény…..% | | | | | | | Egyéb, a víziközmű- szolgáltatás keretében figyelembe vett tétel | | | | | | | Kerekítés | | | | | | | Bruttó számlaérték összesen*: | | | | | | | Egyéb | | | | | | | Fizetendő összeg: | | | | | |
+## | Tétel megnevezése | Elszámolt időszak | Mérőállás (induló, záró) | Elszámolt mennyiség és mértékegység | Nettó egységár és mértékegység | Nettó díj (Ft) | ÁFA (%) | Bruttó díj (Ft) | Ivóvíz-szolgáltatás alapdíj vagy átalánydíj | | | | | | | | …………. számú vízmérőn mért ivóvíz fogyasztással arányos díj | | | | | | | | Szennyvízelvezetés és tisztítás alapdíj vagy átalánydíj | | | | | | | | Elvezetett mennyiséggel arányos szennyvízdíj | | | | | | | | Áthárított vízterhelési díj | | | | | | | | Jogszabályban biztosított locsolási kedvezmény…..% | | | | | | | | Egyéb, a víziközmű- szolgáltatás keretében figyelembe vett tétel | | | | | | | | Kerekítés | | | | | | | | Bruttó számlaérték összesen*: | | | | | | | | Egyéb | | | | | | | | Fizetendő összeg: | | | | | | |
 
 ## ÁFA összesítő (Ft)
 

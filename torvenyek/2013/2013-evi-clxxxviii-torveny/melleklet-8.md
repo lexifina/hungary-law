@@ -6,11 +6,11 @@ A távhőszolgáltató által alkalmazandó számlakép közvetített szolgálta
 
 2. „Az elszámoló számla első oldala
 
-## 3K85774S_0 | Szolgáltató logója: | | | Távhőszolgáltatási elszámoló számla | Szolgáltató neve: | x. sz. eredeti példány | Címe: | Oldalszám | Adószáma: | | Bankszámlaszáma: | |
+## 4K02369M_0 | Szolgáltató logója: | | | Távhőszolgáltatási elszámoló számla | Szolgáltató neve: | x. sz. eredeti példány | Címe: | Oldalszám | Adószáma: | | Bankszámlaszáma: | |
 
 ## ”
 
-3. Az elszámoló számla harmadik oldala: „oldalszám
+3. Az elszámoló számla harmadik oldala: oldalszám
 
 Vevő (Fizető) azonosító:
 
@@ -20,7 +20,7 @@ Vevő (Fizető) címe:
 
 Vevő (Fizető) adószáma:
 
-Szerződéses folyószámla: Teljesítés kelte:
+Szerződéses folyószámla: Teljesítés időpontja:
 
 Számla sorszáma: Számla kelte:
 
@@ -248,7 +248,7 @@ Fűtési célú fizetendő költségek összesen
 
 ## Víziközmű-szolgáltatási díjak
 
-## | Tétel megnevezése | Fogyasztási időszak | Szorzó- tényező | Díjtétel alap | Nettó díj (Ft) | ÁFA (%) | Bruttó díj (Ft) | Mennyisége és mértékegysége | Nettó egységára és mértékegysége | Ivóvíz-szolgáltatás alapdíj vagy átalánydíj | | | | | | | | …………. számú vízmérőn mért ivóvíz fogyasztással arányos díj | | | | | | | | Szennyvízelve- zetés és tisztítás alapdíj vagy átalánydíj | | | | | | | | Elvezetett mennyiséggel arányos szennyvízdíj | | | | | | | | Áthárított vízterhelési díj | | | | | | | | Jogszabályban biztosított locsolási kedvezmény…..% | | | | | | | | Részszámlákban elszámolt alapdíjak, átalánydíjak | | | | | | | | Részszámlákban elszámolt fogyasztással arányos díjak | | | | | | | | Fizetendő víziközmű-szolgáltatási díjak összesen |
+## | Tétel megnevezése | Fogyasztási időszak | Szorzó- tényező | Díjtétel alap | Nettó díj (Ft) | ÁFA (%) | Bruttó díj (Ft) | Mennyisége és mértékegysége | Nettó egységára és mértékegysége | Ivóvíz-szolgáltatás alapdíj vagy átalánydíj | | | | | | | | …………. számú vízmérőn mért ivóvíz fogyasztással arányos díj | | | | | | | | Szennyvízelvezetés és tisztítás alapdíj vagy átalánydíj | | | | | | | | Elvezetett mennyiséggel arányos szennyvízdíj | | | | | | | | Áthárított vízterhelési díj | | | | | | | | Jogszabályban biztosított locsolási kedvezmény…..% | | | | | | | | Részszámlákban elszámolt alapdíjak, átalánydíjak | | | | | | | | Részszámlákban elszámolt fogyasztással arányos díjak | | | | | | | | Fizetendő víziközmű-szolgáltatási díjak összesen |
 
 ## | Kerekítés (Ft) | | Bruttó számlaérték összesen* (Ft) | | Egyéb tétel (Ft) | | ÁFA összesítő (Ft) | | Fizetendő összeg összesen (Ft) |
 

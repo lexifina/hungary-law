@@ -6,7 +6,7 @@ A villamos energia egyetemes szolgáltató, illetve a villamosenergia-elosztó �
 
 2. A részszámla első oldala:
 
-## 3K85774V_0 | „Szolgáltató logója: | | | Villamos energia x. részszámla | Szolgáltató neve: | x. sz. eredeti példány | Címe | Oldalszám | Adószáma: | | Bankszámlaszáma: | |
+## 4K02369P_0 | „Szolgáltató logója: | | | Villamos energia x. részszámla | Szolgáltató neve: | x. sz. eredeti példány | Címe | Oldalszám | Adószáma: | | Bankszámlaszáma: | |
 
 ## „”
 
@@ -30,7 +30,7 @@ A villamos energia egyetemes szolgáltató, illetve a villamosenergia-elosztó �
 
 ## Mérési pont azonosító:
 
-## 3K85774V_2 | Mérő gyártási száma | Elszámolt időszak | Induló mérőállás | Záró mérőállás | LM | Fogyasztás (kWh) | Szorzó | Mennyiség (kWh) | | | | | | | | | Utolsó elszámolt mérőállás leolvasásának dátuma: | Utolsó elszámolt mérőállás (kWh): | |
+## 4K02369P_2 | Mérő gyártási száma | Elszámolt időszak | Induló mérőállás | Záró mérőállás | LM | Fogyasztás (kWh) | Szorzó | Mennyiség (kWh) | | | | | | | | | Utolsó elszámolt mérőállás leolvasásának dátuma: | Utolsó elszámolt mérőállás (kWh): | |
 
 ## | Tétel megnevezése | Fogyasztási időszak | Mennyiség | Mérték-egység | Nettó egységár és mérték-egysége | Nettó érték (Ft) | ÁFA (%) | Bruttó érték (Ft) | Egyetemes szolgáltatói árszabás | | | | | | | | Energiadíj összesen | | | | | | | | Rendszerhasználati díjak (az elosztói alapdíj kivételével) | | | | | | | | Elosztói alapdíj* | | | | | | | | Rendszerhasználati díjak összesen | | | | | | | | Szénipari szerkezetátalakítási támogatás | | | | | | AHK | | Kedvezményes árú villamosenergia-ellátás támogatása | | | | | | AHK | | Kapcsolt termelésszerkezet-átalakítás | | | | | | AHK | | Pénzeszközök összesen | | | | | | AHK | | Nettó számlaérték összesen | | | | | | | | Kerekítés | | | | | | | | Bruttó számlaérték összesen** | | | | | | | | Egyéb | | | | | | | | Fizetendő összeg | | | | | | |
 
@@ -42,7 +42,7 @@ A villamos energia egyetemes szolgáltató, illetve a villamosenergia-elosztó �
 
 ## *Az elosztói alapdíj fogyasztástól függetlenül fizetendő
 
-## ** A rezsicsökkentés a lakossági fogyasztókat a bruttó számlaérték alapulvételével illeti meg
+## ** A rezsicsökkentés a fogyasztókat a 2012. december 1-jén hatályos árképzés szerinti bruttó számlaérték alapulvételével illeti meg, a tétel a már csökkentett összeget tartalmazza
 
 ## Következő leolvasás várható időpontja:
 

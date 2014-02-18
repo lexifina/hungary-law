@@ -6,11 +6,11 @@ A távhőszolgáltató által alkalmazandó számlakép közvetített szolgálta
 
 2. A részszámla első oldala
 
-## 3K85774Q_0 | „Szolgáltató logója: | | | Távhőszolgáltatási x. részszámla | Szolgáltató neve: | x. sz. eredeti példány | Címe: | Oldalszám | Adószáma: | | Bankszámlaszáma: | |
+## 4K02368Q_0 | „Szolgáltató logója: | | | Távhőszolgáltatási x. részszámla | Szolgáltató neve: | x. sz. eredeti példány | Címe: | Oldalszám | Adószáma: | | Bankszámlaszáma: | |
 
 ## ”
 
-3. A részszámla harmadik oldala: „oldalszám
+3. A részszámla harmadik oldala: oldalszám
 
 Vevő (Fizető) azonosító:
 
@@ -20,7 +20,7 @@ Vevő (Fizető) címe:
 
 Vevő (Fizető) adószáma:
 
-Szerződéses folyószámla: Teljesítés kelte:
+Szerződéses folyószámla: Teljesítés időpontja:
 
 Számla sorszáma: Számla kelte:
 
@@ -136,11 +136,11 @@ Fűtési célú költségek összesen
 
 ## Vízfelmelegítési célú költségek
 
-## | Tétel megnevezése | Fogyasztási időszak | Szorzó-tényező | Díjtétel alap | Nettó díj (Ft) | ÁFA (%) | Bruttó díj (Ft) | Mennyisége és mértékegysége | Nettó egységára és mértékegysége | Vízfelmelegítési díj (egytarifás) | | | | | | | | Alapdíj | | | | | | | | Hődíj | | | | | | | | Vízfelmelegítési célú költségek összesen |
+## | Tétel megnevezése | Fogyasztási időszak | Szorzó- tényező | Díjtétel alap | Nettó díj (Ft) | ÁFA (%) | Bruttó díj (Ft) | Mennyisége és mértékegysége | Nettó egységára és mértékegysége | Vízfelmelegítési díj (egytarifás) | | | | | | | | Alapdíj | | | | | | | | Hődíj | | | | | | | | Vízfelmelegítési célú költségek összesen |
 
 ## Víziközmű-szolgáltatási díjak
 
-## | Tétel megnevezése | Fogyasztási időszak | Szorzó-tényező | Díjtétel alap | Nettó díj (Ft) | ÁFA (%) | Bruttó díj (Ft) | Mennyisége és mértékegysége | Nettó egységára és mértékegysége | Ivóvíz- szolgáltatás alapdíj vagy átalánydíj | | | | | | | | …………. számú vízmérőn mért ivóvíz fogyasztással arányos díj | | | | | | | | Szennyvízelve- zetés és tisztítás alapdíj vagy átalánydíj | | | | | | | | Elvezetett mennyiséggel arányos szennyvízdíj | | | | | | | | Áthárított vízterhelési díj | | | | | | | | Víziközmű-szolgáltatási díjak összesen |
+## | Tétel megnevezése | Fogyasztási időszak | Szorzó- tényező | Díjtétel alap | Nettó díj (Ft) | ÁFA (%) | Bruttó díj (Ft) | Mennyisége és mértékegysége | Nettó egységára és mértékegysége | Ivóvíz-szolgáltatás alapdíj vagy átalánydíj | | | | | | | | …………. számú vízmérőn mért ivóvíz fogyasztással arányos díj | | | | | | | | Szennyvízelvezetés és tisztítás alapdíj vagy átalánydíj | | | | | | | | Elvezetett mennyiséggel arányos szennyvízdíj | | | | | | | | Áthárított vízterhelési díj | | | | | | | | Víziközmű-szolgáltatási díjak összesen |
 
 ## | Kerekítés (Ft) | | Bruttó számlaérték összesen (Ft)* | | Egyéb tétel (Ft) | | ÁFA összesítő (Ft) | | Fizetendő összeg összesen (Ft) |
 

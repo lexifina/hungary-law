@@ -6,11 +6,11 @@ A víziközmű-szolgáltató által alkalmazandó számlakép elszámoló száml
 
 2. Az elszámoló számla első oldala:
 
-## 3K85774U_0 | „Szolgáltató logója: | Víziközmű- szolgáltatás elszámoló számla | Szolgáltató neve: | x. sz. eredeti példány | Címe: | Oldalszám | | |
+## 4K02369O_0 | „Szolgáltató logója: | Víziközmű- szolgáltatás elszámoló számla | Szolgáltató neve: | x. sz. eredeti példány | Címe: | Oldalszám | | |
 
 ## „
 
-3. Az elszámoló számla harmadik oldala: „oldalszám
+3. Az elszámoló számla harmadik oldala: oldalszám
 
 |
 
@@ -46,7 +46,7 @@ Szerződéses folyószámla:
 
 |
 
-Teljesítés kelte:
+Teljesítés időpontja:
 
 |
 
@@ -78,9 +78,15 @@ Víziközmű-szolgáltatás
 
 ## | Tétel megnevezése | Elszámolt időszak | Mérőállás (induló, záró) | Elszámolt mennyiség és mértékegység | Nettó egységár és mértékegység | Nettó díj (Ft) | ÁFA (%) | Bruttó díj (Ft) | Ivóvíz-szolgáltatás alapdíj vagy átalánydíj | | | | | | | | …………. számú vízmérőn mért ivóvíz fogyasztással arányos díj | | | | | | | | Szennyvízelvezetés és tisztítás alapdíj vagy átalánydíj | | | | | | | | Elvezetett mennyiséggel arányos szennyvízdíj | | | | | | | | Áthárított vízterhelési díj | | | | | | | | Jogszabályban biztosított locsolási kedvezmény…..% | | | | | | | | Egyéb, a víziközmű- szolgáltatás keretében figyelembe vett tétel | | | | | | | | Részszámlákban elszámolt alapdíjak, átalánydíjak | | | | | | | | Részszámlákban elszámolt fogyasztással arányos díjak | | | | | | | | Kerekítés | | | | | | | | Bruttó számlaérték összesen*: | | | | | | | | Egyéb | | | | | | | | Fizetendő összeg: | | | | | | |
 
-## ÁFA összesítő (Ft)
+## A nyilvántartás szerinti folyószámla-egyenlege a számla kibocsátásakor: … Ft.
 
-## | A nyilvántartás szerinti folyószámla-egyenlege a számla kibocsátásakor: … Ft. Tájékoztató adatok: * A rezsicsökkentés a fogyasztókat a 2013. január 1-jén hatályos árképzés szerinti bruttó számlaérték alapulvételével illeti meg, a tétel a már csökkentett összeget tartalmazza. Az adott elszámolási időszakban elért megtakarítás az elszámolási időszakban kibocsátott rész- és elszámoló számlák összességére figyelemmel került meghatározásra. Fogyasztás megállapításának módja: Következő mérő leolvasás vagy diktálás időpontja:
+## Tájékoztató adatok:
+
+## * A rezsicsökkentés a fogyasztókat a 2013. január 1-jén hatályos árképzés szerinti bruttó számlaérték alapulvételével illeti meg, a tétel a már csökkentett összeget tartalmazza. Az adott elszámolási időszakban elért megtakarítás az elszámolási időszakban kibocsátott rész- és elszámoló számlák összességére figyelemmel került meghatározásra.
+
+## Fogyasztás megállapításának módja:
+
+## Következő mérő leolvasás vagy diktálás időpontja:
 
 4. Magyarázat:
 
