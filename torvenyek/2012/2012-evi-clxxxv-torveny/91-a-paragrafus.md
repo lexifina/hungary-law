@@ -1,0 +1,13 @@
+91/A. § (1) Ha a hulladékgazdálkodási közszolgáltató az általa nyújtott közszolgáltatást közbeiktatott személy vagy szerződéses kapcsolati lánc (a továbbiakban együtt: közvetített szolgáltatás) útján juttatja el a természetes személy ingatlanhasználó, illetve jogszabály alapján vele egy díjkategóriába tartozó személy (a továbbiakban együtt: rezsicsökkentésre jogosult) részére, legfeljebb a természetes személy ingatlanhasználóra a 91. §-ban meghatározott díjat alkalmazhatja.
+
+(2) A közvetített szolgáltatásban részes közbenső szereplő az elszámolási időszakot megelőző hónap 10. napjáig a hulladékgazdálkodási közszolgáltató részére adatot szolgáltat, hogy az elszámolási időszakban milyen arányban oszlik meg a vele szerződéses kapcsolatban álló rezsicsökkentésre jogosult és más felhasználók között a hulladékgazdálkodási közszolgáltatás díja. A hulladékgazdálkodási közszolgáltató ezen adatszolgáltatás alapján külön-külön számlát bocsát ki a közszolgáltatást közvetítő személy részére a rezsicsökkentésre jogosult és más felhasználók hulladékgazdálkodási közszolgáltatás díjáról. Ha az adatszolgáltatást a közvetített szolgáltatásban részes közbenső szereplő határidőben nem teljesíti, a hulladékgazdálkodási közszolgáltató csak egy, a díjcsökkentést nem tartalmazó számlát bocsát ki.
+
+(3) A 91. §-ban meghatározott mértékű díjcsökkentés a (2) bekezdés szerint előírt adatszolgáltatás elmulasztása esetén is megilleti a rezsicsökkentésre jogosultat, melynek terhét a közszolgáltatást közvetített szolgáltatásként nyújtó személy viseli.
+
+(4) A közszolgáltatást közvetített szolgáltatásként nyújtó személy az általa kibocsátott számlában legfeljebb a 91. §-ban meghatározott díjat alkalmazhatja.
+
+(5) A közszolgáltatást közvetített szolgáltatásként nyújtó személy a (4) bekezdés szerint kibocsátott számlán szereplő fizetendő összeg vonatkozásában, annak kiküldésével egyidejűleg, egyértelműen, írásban köteles tájékoztatást nyújtani a rezsicsökkentésre jogosult részére az e § szerinti előírt díjcsökkentésről. A tájékoztatásban külön, összegszerűen fel kell tüntetni a rezsicsökkentés eredményeképpen jelentkező megtakarítás összegét az elszámolt időszak vonatkozásában, valamint összesítve az egyes törvényeknek a rezsicsökkentés végrehajtásával összefüggő módosításáról szóló 2013. évi CCXXXI. törvény hatálybalépését követő időszakban.
+
+(6) A hulladékgazdálkodási közszolgáltató bármikor jogosult betekinteni a (2) bekezdés szerinti adatszolgáltatást megalapozó adatokba, számításokba, illetve az alkalmazott módszertanba.
+
+(7) A (4) és az (5) bekezdésekben foglalt rendelkezések a fogyasztóvédelemről szóló törvény alkalmazásában fogyasztóvédelmi rendelkezés.
