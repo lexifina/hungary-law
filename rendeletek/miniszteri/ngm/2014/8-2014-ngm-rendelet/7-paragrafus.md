@@ -1,0 +1,5 @@
+## 6. § A helyszíni ellenőrzés céljáról és feladatáról és az abban érintett intézményi körről, annak megkezdése előtt legalább nyolc nappal az Igazgatóság értesíti a polgármestert. A polgármester az Igazgatóság értesítése alapján haladéktalanul tájékoztatja a helyszíni ellenőrzésről az érintett intézményi kör vezetőit.
+
+7. § (1) Az ellenőr – ideértve az ellenőrzés vezetőjét is – az ellenőrzést az ellenőrzési programban meghatározottak szerint a helyi önkormányzatnak az Áht. 14. § (3) bekezdése szerinti fejezetéből nyújtott támogatások igénybevételét, felhasználását alátámasztó dokumentumok, szakmai nyilvántartások, számítási anyagok, továbbá egyéb, a számviteli rendszerből nyerhető információk alapján végzi.
+
+(2) A helyszíni ellenőrzés során az ellenőr jogosult a helyi önkormányzat, az önkormányzati hivatal és más önkormányzati költségvetési szerv által végzett felügyeleti ellenőrzés, belső ellenőrzés és a törvényességi felügyeletet ellátó fővárosi és megyei kormányhivatal és más ellenőrzést végző közigazgatási szerv megállapításait felhasználni.

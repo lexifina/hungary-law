@@ -1,0 +1,1 @@
+## 1. § E rendeletet kell alkalmazni a központi költségvetésről szóló törvénynek az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) Áht. 14. § (3) bekezdése szerinti fejezetéből nyújtott támogatások igénybevétele, felhasználása és elszámolása szabályszerűségének kincstári felülvizsgálata során.
