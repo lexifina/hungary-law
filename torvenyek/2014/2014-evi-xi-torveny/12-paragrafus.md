@@ -1,0 +1,1 @@
+12. § A GET 127. § gy) pontjában a „csatlakozási díjakat” szövegrész helyébe a „csatlakozási díjak meghatározásának szempontjait, a csatlakozási díjak elemeit, a csatlakozási díjakat és alkalmazásuk szabályait” szöveg lép.
