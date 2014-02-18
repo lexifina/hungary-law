@@ -1,0 +1,1 @@
+36/B. § A Magyarországon elhelyezett automata bankjegykiadó gépből készpénz-helyettesítő fizetési eszköz útján fizetési számláról történő készpénzfelvétel fizetési műveleti értékhatárának felső mértéke műveletenként hetvenötezer forintnál alacsonyabb összeg nem lehet.
