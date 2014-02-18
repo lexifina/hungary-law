@@ -4,4 +4,4 @@
 
 (3) A szolgáltató a kibocsátott számlán köteles jól láthatóan, színes mezőben kiemelve feltüntetni a rezsicsökkentés eredményeképpen jelentkező megtakarítás összegét az elszámolt időszak vonatkozásában, valamint a 2013. július 1-je óta eltelt időszakban.
 
-(4) Az önkormányzat, vagy az általa megbízott vállalkozás nem számlázhat ki magasabb összegű díjat közvetített víziközmű-szolgáltatás jogcímén az önkormányzat tulajdonában lévő lakhatás célját szolgáló ingatlant bérlő természetes személy részére, mint amennyi fizetési kötelezettség az önkormányzatot az (1) bekezdésben előírt kötelezettség alapján kiállított számla vonatkozásban terhelte.
+(4)
