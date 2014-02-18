@@ -1,3 +1,1 @@
-22. § A Rezsitörvény 3. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A távhőszolgáltatásról szóló 2005. évi XVIII. törvény (a továbbiakban: Tszt.) 3. § b) pontjában meghatározott díjfizető közül a lakossági díjfizető (a továbbiakban: lakossági díjfizető) és a Tszt. 3. § g) pont ga) alpontjában meghatározott lakossági felhasználó részére, a távhőszolgáltató által kibocsátott számlában a 2014. szeptember 30-át követő időszakra vonatkozóan meghatározott szolgáltatási egységre jutó, az igénybevett távhőszolgáltatásért fizetendő összeg nem haladhatja meg a 2013. november 1-jén alkalmazott díjtételek alapján, ugyanazon feltételekkel (fogyasztás, légtérfogat stb.) számított összeg 96,7%-át.”
+22. §
