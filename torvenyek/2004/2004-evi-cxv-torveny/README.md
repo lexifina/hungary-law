@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2004-115-00-00
 | 2012-01-01 | 2011. évi CXCI. törvény | 2004-115-00-00.7 |
 | 2012-03-01 | 2011. évi CXCVII. törvény | 2004-115-00-00.8 |
 | 2013-12-31 | 2013. évi CCXXXI. törvény | 2004-115-00-00.9 |
+| 2014-02-18 | 2014. évi XI. törvény | 2004-115-00-00.10 |
