@@ -27,3 +27,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-75-00-00
 | 2013-10-01 | 2013. évi CXLIII. törvény | 2011-75-00-00.20 |
 | 2013-11-09 | 2013. évi CLXXIII. törvény | 2011-75-00-00.21 |
 | 2014-01-01 | 2013. évi CCXXXVI. törvény | 2011-75-00-00.22 |
+| 2014-02-18 | 2014. évi XI. törvény | 2011-75-00-00.23 |
