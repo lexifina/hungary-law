@@ -2,7 +2,7 @@
 
 A fogyasztóvédelmi referens hatósági jellegű képzés szakmai követelményei
 
-A képzés célja, hogy a vizsgázó birtokában legyen az alapvető és a terület specifikus fogyasztóvédelmi ismereteknek, valamint alkalmassá váljon az e törvény 17/D. §-ában fogyasztóvédelmi referensi feladatok ellátására.
+A képzés célja, hogy a vizsgázó birtokában legyen az alapvető és a területspecifikus fogyasztóvédelmi ismereteknek, valamint alkalmassá váljon az e törvény 17/D. §-ában meghatározott fogyasztóvédelmi referensi feladatok ellátására.
 
 1. A képzés témakörei
 
@@ -34,7 +34,7 @@ i) a fogyasztói érdekek képviseletét ellátó egyesületek szerepe.
 
 a) elektronikus hírközlési szolgáltatásra vonatkozó ismeretek,
 
-b) panaszkezelés és ügyfélszolgálat szabályok.
+b) panaszkezelési és ügyfélszolgálati szabályok.
 
 1. 1. 2. 2. Idegenforgalmi szakirány:
 
@@ -60,11 +60,11 @@ b) panaszkezelési és ügyfélszolgálati szabályok,
 
 c) általános termék-biztonságossági ismeretek,
 
-d) villamos és műszaki termékek biztonsága és címkézése,
+d) villamos és műszaki termékek biztonságossága és címkézése,
 
-e) vegyipari termékek biztonsága és címkézése,
+e) vegyipari termékek biztonságossága és címkézése,
 
-f) játékok biztonsága és címkézése,
+f) játékok biztonságossága és címkézése,
 
 g) általános élelmiszerjogi ismeretek,
 
@@ -74,17 +74,15 @@ h) termékspecifikus reklámtilalmak és reklámkorlátozások.
 
 2. A képzési idő
 
-A fogyasztóvédelmi alapismeretek képzés időtartama 50 óra, amelyből 90% elméleti, 10% gyakorlati részből áll.
+A fogyasztóvédelmi alapismeretek képzés időtartama 50 óra, amely 90% elméleti, 10% gyakorlati részből áll.
 
-Az elektronikus hírközlés szakirány képzésének időtartama 20 óra, amelyből 90% elméleti,
+Az elektronikus hírközlés szakirány képzésének időtartama 20 óra, amely 90% elméleti, 10% gyakorlati részből áll.
 
-10% gyakorlati részből áll.
+Az idegenforgalmi szakirány képzésének időtartama 30 óra, amely 90% elméleti, 10% gyakorlati részből áll.
 
-Az idegenforgalmi szakirány képzésének időtartama 30 óra, amelyből 90% elméleti. 10% gyakorlati részből áll.
+A közszolgáltatások szakirány képzésének időtartama 50 óra, amely 90% elméleti, 10% gyakorlati részből áll.
 
-A közszolgáltatások szakirány képzésének időtartama 50 óra, amelyből 90% elméleti, 10% gyakorlati részből áll.
-
-A kereskedelmi szakirány képzésének időtartama 50 óra, amelyből 90% elméleti, 10% gyakorlati részből áll.
+A kereskedelmi szakirány képzésének időtartama 50 óra, amely 90% elméleti, 10% gyakorlati részből áll.
 
 Az órákon való részvétel kötelező, a teljes óraszám 10%-ánál magasabb arányú hiányzás esetén a képzést meg kell ismételni.
 
@@ -94,7 +92,7 @@ A képzés és a vizsga részletes szabályait a képzést szervezőnek tanulmá
 
 A fogyasztóvédelmi referens képzésen oktató, valamint vizsgán vizsgáztató lehet, aki
 
-a) szakirányú felsőfokú végzettséggel, vagy
+a) szakirányú felsőfokú végzettséggel rendelkezik, vagy
 
 b) legalább 3 éves, valamely fogyasztóvédelmi hatáskörrel rendelkező hatóságnál eltöltött gyakorlattal rendelkezik, vagy
 

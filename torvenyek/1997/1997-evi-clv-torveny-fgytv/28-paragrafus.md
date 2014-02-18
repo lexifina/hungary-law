@@ -6,7 +6,7 @@ a) a fogyasztó nevét, lakóhelyét vagy tartózkodási helyét,
 
 b) a fogyasztói jogvitával érintett vállalkozás nevét, székhelyét vagy érintett telephelyét,
 
-c) – ha az illetékességet a 20. § (3) bekezdése szerint a szerződés teljesítésének helyére kívánja alapítani – a fogyasztónak a teljesítés helyére vonatkozó nyilatkozatát,
+c) – ha a fogyasztó az illetékességet a 20. § (3) bekezdésére kívánja alapítani – a 20. § (1) és (2) bekezdése szerint illetékes békéltető testület helyett kérelmezett testület megjelölését,
 
 d) a fogyasztó álláspontjának rövid leírását, az azt alátámasztó tényeket és azok bizonyítékait,
 

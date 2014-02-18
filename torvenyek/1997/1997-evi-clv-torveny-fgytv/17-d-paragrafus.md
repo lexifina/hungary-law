@@ -10,7 +10,7 @@ a) államilag elismert fogyasztóvédelmi szakképesítést vagy szakképzettsé
 
 b) részére iskolarendszeren kívüli hatósági jellegű képzést követően képesítési bizonyítvány kiadására került sor.
 
-(4) Az (1) bekezdésben meghatározott vállalkozás legalább egy fogyasztóvédelmi referenst köteles foglalkoztatni minden olyan megyében, ahol
+(4) Az (1) bekezdésben meghatározott vállalkozás legalább egy fogyasztóvédelmi referenst köteles foglalkoztatni minden olyan megyében és a fővárosban, ahol
 
 a) székhelyén, telephelyén vagy fióktelepén kiskereskedelmi tevékenységet folytat, továbbá
 
@@ -28,15 +28,15 @@ b) közszolgáltatási tevékenységet folytató, valamint törvény alapján ü
 
 (10) A (9) bekezdés szerinti bejelentésnek tartalmaznia kell:
 
-a) annak igazolását, hogy a képzéshez szükséges infrastruktúra a szervező rendelkezésre áll,
+a) annak igazolását, hogy a képzéshez szükséges infrastruktúra a szervező rendelkezésére áll,
 
-b) annak igazolását, hogy az e törvényben meghatározott feltételeknek megfelelő oktatók és vizsgáztatók a szervező rendelkezésre állnak,
+b) annak igazolását, hogy az e törvényben meghatározott feltételeknek megfelelő oktatók és vizsgáztatók a szervező rendelkezésére állnak,
 
 c) a képzés tárgyköreinek megfelelő tantervet és felkészítő anyagot,
 
 d) a tanulmányi és vizsgaszabályzatot.
 
-(11) A (3) bekezdés b) pontja szerinti képzés tantervét és felkészítő anyagát az oktatás és vizsgáztatás módját, valamint a vizsgafeladatokat a fogyasztóvédelmi hatóság hagyja jóvá.
+(11) A (3) bekezdés b) pontja szerinti képzés tantervét és felkészítő anyagát, az oktatás és vizsgáztatás módját, valamint a vizsgafeladatokat a fogyasztóvédelmi hatóság hagyja jóvá.
 
 (12) A fogyasztóvédelmi hatóság ellenőrzi:
 
@@ -44,13 +44,13 @@ a) a tanterv és a felkészítő anyag vizsgálata során, hogy az abban foglalt
 
 b) a tanulmányi és vizsgaszabályzat vizsgálata során, hogy az megfelelően tartalmazza-e a képzés és a vizsga feltételeit.
 
-(13) A fogyasztóvédelmi hatóság országos nyilvántartást vezet a szervezőkről, ellenőrzi a szervezők e törvénynek és a benyújtott dokumentumoknak megfelelő működését, és a képzés feltételeit. Amennyiben a fogyasztóvédelmi hatóság a szervező nem megfelelő működését állapítja meg, törli a nyilvántartásból.
+(13) A fogyasztóvédelmi hatóság országos nyilvántartást vezet a szervezőkről, ellenőrzi a szervezők e törvénynek és a benyújtott dokumentumoknak megfelelő működését és a képzés feltételeit. Amennyiben a fogyasztóvédelmi hatóság a szervező nem megfelelő működését állapítja meg, törli a nyilvántartásból.
 
-(14) Eredményes vizsgát követően a fogyasztóvédelmi hatóság képesítési, bizonyítványt ad ki, a kiadott képesítési bizonyítványokat nyilvántartja.
+(14) Eredményes vizsgát követően a fogyasztóvédelmi hatóság képesítési bizonyítványt ad ki, a kiadott képesítési bizonyítványokat nyilvántartja.
 
 (15) A (3) bekezdés b) pontja szerinti képzésre az vehető fel, aki legalább középfokú végzettséggel rendelkezik, valamint a képzés megkezdéséhez szükséges feltételeket teljesítette. A képzés megkezdéséhez szükséges, hogy a jelentkező
 
-a) a képzésre a meghatározott formában jelentkezzen és
+a) a képzésre a meghatározott formában jelentkezzen, és
 
 b) a képzés díját megfizesse.
 
