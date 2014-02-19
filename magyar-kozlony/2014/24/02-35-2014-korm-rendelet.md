@@ -1,0 +1,161 @@
+# A Kormány 35/2014. (II. 19.) Korm. rendelete
+
+Magyar Közlöny 2014. évi 24. szám, 2014. február 19. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/99c1fe7069eb2860dc511c6d20c3c1102120ce36/dokumentumok/e1ab74ef37a8f055c87d70248ede779a1aaff656/letoltes)
+
+---
+
+A Kormány 35/2014. (II. 19.) Korm. rendelete
+az egyedi támogatások, költségtérítések, valamint az egyéb vállalati támogatások mértékéről
+és felhasználási szabályairól
+A Kormány a Magyarország 2014. évi központi költségvetéséről szóló 2013. évi CCXXX. törvény 76. § (1) bekezdés b) pontjában
+kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket
+rendeli el:
+1. §
+E rendelet alapján
+a) a Bányavagyon-hasznosító Nonprofit Közhasznú Korlátolt Felelősségű Társaság (a továbbiakban:
+Bányavagyon-hasznosító) a 2014. gazdasági évre a Magyarország 2014. évi központi költségvetéséről
+szóló 2013. évi CCXXX. törvény (a továbbiakban: Kvtv.) 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium
+fejezet, 21. Vállalkozások folyó támogatása cím, 1. Egyedi támogatások, ellentételezések alcím,
+2. Bányabezárás jogcímcsoport, a Kvtv. 1. melléklet XLII. A költségvetés közvetlen bevételei és kiadásai
+fejezet, 30. Vállalkozások folyó támogatása cím, 2. Egyéb vállalati támogatások alcím, 1. Termelési támogatás
+jogcímcsoport, 2. Mecseki uránbányászok baleseti járadékainak és egyéb kártérítési kötelezettségeinek
+átvállalása jogcím,
+b) a MÁV-START Vasúti Személyszállító Zártkörűen Működő Részvénytársaság (a továbbiakban: MÁV-START)
+a Kvtv. 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet, 21. Vállalkozások folyó támogatása cím,
+1. Egyedi támogatások, ellentételezések alcím, 3–4. jogcímcsoport,
+c) a Győr-Sopron-Ebenfurti Vasút Zártkörűen Működő Részvénytársaság (a továbbiakban: GYSEV) a Kvtv.
+1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet, 21. Vállalkozások folyó támogatása cím, 1. Egyedi
+támogatások, ellentételezések alcím, 3–5. jogcímcsoport,
+d) a személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény (a továbbiakban: Sztv.) 25. §-a szerinti
+szerződéssel rendelkező, autóbusszal helyközi személyszállítási közszolgáltatást végző társaság
+(a továbbiakban: autóbusszal szolgáltatást végző társaság) a Kvtv. 1. melléklet XVII. Nemzeti Fejlesztési
+Minisztérium fejezet, 21. Vállalkozások folyó támogatása cím, 1. Egyedi támogatások, ellentételezések alcím,
+3–4. jogcímcsoport és
+e) a MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság (a továbbiakban: MÁV) a Kvtv.
+1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet, 21. Vállalkozások folyó támogatása cím, 1. Egyedi
+támogatások, ellentételezések alcím, 5. A vasúti pályahálózat működtetésének költségtérítése jogcím
+terhére egyedi támogatást vagy költségtérítést igényelhet.
+2. § (1) Bányászati tevékenységgel összefüggő
+a) egyedi támogatásként bányabezárásra 1000,0 millió forint,
+b) a mecseki uránbányászok baleseti járadékainak és egyéb kártérítési kötelezettségeinek átvállalására
+225,0 millió forint
+igényelhető.
+(2) Költségtérítésként
+a) a MÁV-START által az Sztv. 25. § (1) bekezdésében meghatározott szerződés (a továbbiakban: vasúti
+személyszállítási közszolgáltatási szerződés) alapján végzett személyszállítási közszolgáltatáshoz
+141 504,45 millió forint,
+b) a GYSEV által a vasúti személyszállítási közszolgáltatási szerződés alapján végzett személyszállítási
+közszolgáltatáshoz 10 500,0 millió forint,
+c) az autóbusszal szolgáltatást végző társaságok helyközi személyszállítási közszolgáltatásaihoz 33 504,45 millió
+forint,
+
+d) a GYSEV által a vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény (a továbbiakban: Vtv.) 28. §
+(1) bekezdésében meghatározott szerződés (a továbbiakban: pályaműködtetési szerződés) alapján
+működtetett vasúti pályahálózathoz 4850,0 millió forint,
+e) a MÁV által a pályaműködtetési szerződés alapján működtetett vasúti pályahálózathoz 66 830,0 millió forint
+igényelhető.
+(3) A közösségi közlekedési szolgáltatóknak a korábbi költségtérítések elszámolásából adódó költségtérítési igényeinek
+megtérítésére költségtérítésként:
+a) a MÁV-START által az Sztv. 25. §-ában meghatározott szerződés alapján végzett személyszállítási
+közszolgáltatáshoz 4527,55 millió forint,
+b) a GYSEV által az Sztv. 25. §-ában meghatározott szerződés alapján végzett személyszállítási
+közszolgáltatáshoz 500,0 millió forint,
+c) az autóbusszal szolgáltatást végző társaságok helyközi személyszállítási közszolgáltatásaihoz 4527,55 millió forint
+igényelhető.
+(4) A költségtérítés igénybevételét előre meghatározott szolgáltatások, hatékonysági elvárás teljesítéséhez, valamint
+utólagos elszámolási kötelezettséghez kell kötni.
+3. § (1) A 2. § (1) bekezdés a) pontja szerinti egyedi támogatás a Bányavagyon-hasznosító által a szénbányászati
+szerkezetátalakításból átvett és a bányászatban jelentkező egyéb állami kötelezettségek – köztük az állami
+tulajdonú meddő szénhidrogén kutak kezelése és a bánya-erőmű integrációs szerződések megkötésekor még nem
+ismert kötelezettségek – vagyon-értékesítésből nem fedezett részének finanszírozására, továbbá a Bányavagyon-
+hasznosító működési költségeire – beleértve a mecseki uránbányászok baleseti járadékaival és egyéb kártérítési
+kötelezettségeivel összefüggésben felmerült működési költségeit is – használható fel.
+(2) A 2. § (1) bekezdés a) pontja szerinti egyedi támogatás folyósítására negyedéves ütemezéssel kerül sor.
+A folyósításról – a Bányavagyon-hasznosító kezdeményezése alapján – a bányászati ügyekért felelős miniszter
+az államháztartásért felelős miniszter felé a Nemzeti Adó- és Vámhivatal (a továbbiakban: NAV) útján gondoskodik.
+(3) A 2. § (1) bekezdés a) pontja szerinti egyedi támogatás felhasználásáról a Bányavagyon-hasznosító havonta
+beszámol a bányászati ügyekért felelős miniszternek.
+(4) A 2. § (1) bekezdés b) pontja szerinti kötelezettségátvállalás – az uránbányászatban 1993. december 31-éig
+keletkezett baleseti járadékok és a munkavégzéssel kapcsolatos egyéb kártérítési kötelezettségek Bányavagyon-
+hasznosító által történt kifizetését követő – utólagos folyósításáról a bányászatért felelős miniszter által
+az államháztartásért felelős miniszter részére megküldött havi elszámolás alapján a NAV gondoskodik.
+4. § (1) A 2. § (2) bekezdés a), b), d) és e) pontja szerinti költségtérítés a vasúti személyszállítási közszolgáltatás és a vasúti
+pályahálózat működtetéséhez kapcsolódó tevékenység bevételekkel nem fedezett indokolt költségei, továbbá
+az ágazatban szokásos ésszerű nyereség megtérítésére használható fel.
+(2) A 2. § (2) bekezdés a), b), d) és e) pontja szerinti költségtérítés folyósítása a vasúti személyszállítási közszolgáltatási
+tevékenységet és a vasúti pályaműködtetési közszolgáltatási tevékenységet érintő, várható gazdasági folyamatokon
+alapuló pénzforgalmi terv alapján havonta, a MÁV-START, a GYSEV és a MÁV pénzforgalmi igényeihez igazított
+mértékben történik.
+(3) A 2. § (2) bekezdés a), b), d) és e) pontja szerinti költségtérítés (2) bekezdés alapján havonta folyósítandó mértékét
+a közlekedésért felelős miniszter az államháztartásért felelős miniszterrel egyetértésben a (2) bekezdés szerinti
+pénzforgalmi terv alapján
+a) a MÁV-START és a GYSEV esetében a vasúti személyszállítási közszolgáltatási szerződés,
+b) a MÁV és a GYSEV esetében a pályaműködtetési szerződés
+záradékában határozza meg.
+(4) A záradék (3) bekezdés alapján megállapított rendelkezése a közlekedésért felelős miniszter és az államháztartásért
+felelős miniszter együttes döntésével módosítható. A módosítást a megelőző időszak tényleges pénzforgalma és
+a (2) bekezdés szerinti pénzforgalmi terv közötti eltérés okainak bemutatásával a MÁV-START, a GYSEV és a MÁV is
+kezdeményezheti.
+5. § (1) A MÁV-START és a GYSEV a 2. § (2) bekezdés a) és b) pontja szerinti költségtérítés 4. § (3) bekezdése alapján
+megállapított mértékének 50%-át a tárgyhónap első napjától külön feltétel nélkül, további 50%-át a közlekedésért
+felelős miniszter által kiállított és az általa a NAV részére megküldött megrendelői teljesítésigazolás alapján a NAV-tól
+igényli.
+
+(2) A közlekedésért felelős miniszter a teljesítésigazolás kiállításának megtagadásáról, a 2. § (2) bekezdés a) és b) pontja
+szerinti költségtérítés csökkentéséről és a csökkentés indokáról a MÁV-START és a GYSEV által megküldött, a vasúti
+személyszállítási közszolgáltatási szerződés szerinti havi jelentés megérkezését követő 8 napon belül értesíti
+a NAV-ot és az államháztartásért felelős minisztert.
+(3) Az (1) bekezdésben foglaltaktól eltérően a MÁV-START és a GYSEV a vasúti személyszállítási közszolgáltatási
+szerződésben meghatározott esetben a 2. § (2) bekezdés a) és b) pontja szerinti költségtérítés 4. § (3) bekezdése
+alapján megállapított mértékének 60%-át (a továbbiakban: rendelkezésre állási költségtérítés) veheti igénybe.
+A rendelkezésre állási költségtérítés alkalmazásának szükségességéről a közlekedésért felelős miniszter
+az államháztartásért felelős miniszterrel történő előzetes egyeztetést követően értesíti a NAV-ot.
+6. § (1) A 2. § (3) bekezdés a) és b) pontja szerinti költségtérítés a vasúti személyszállítási közszolgáltatóknak a korábbi
+költségtérítések elszámolásából adódó költségtérítési igényeinek megtérítésére használható fel.
+(2) A 2. § (3) bekezdés a) és b) pontja szerinti költségtérítés havonta folyósítandó mértékét a közlekedésért felelős
+miniszter és az államháztartásért felelős miniszter együttesen a vasúti személyszállítási közszolgáltatási szerződés
+záradékában határozza meg.
+7. § (1) A 2. § (2) bekezdés d) és e) pontja szerinti költségtérítést a MÁV és a GYSEV a pályaműködtetési szerződés alapján
+végzett vasúti pályahálózat-működtetési tevékenységéhez a közlekedésért felelős miniszter által a tárgyhónapot
+megelőző második hónapra vonatkozóan kiállított és a NAV részére megküldött megrendelői teljesítésigazolás
+alapján igényli.
+(2) A közlekedésért felelős miniszter a teljesítésigazolás kiállításáról a NAV-ot értesíti.
+(3) Ha a közlekedésért felelős miniszter megállapítja, hogy a MÁV vagy a GYSEV a pályaműködtetési szerződésben
+meghatározott valamely kötelezettségét nem teljesítette, a teljesítésigazolásban rendelkezik a 2. § (2) bekezdés
+d) és e) pontja szerinti költségtérítés arányos csökkentéséről és annak a csökkentett összegen felüli része
+folyósításának felfüggesztéséről.
+8. § (1) A 2. § (2) bekezdés c) pontja szerinti költségtérítés az autóbusszal végzett helyközi személyszállítási közszolgáltatás
+bevételekkel nem fedezett indokolt költségei és az ágazatban szokásos, ésszerű nyereség megtérítésére
+használható fel.
+(2) A 2. § (2) bekezdés c) pontja szerinti költségtérítést az autóbusszal szolgáltatást végző társaságok között a várható
+gazdasági és pénzforgalmi folyamatok alapján, a várható bevételekkel nem fedezett indokolt költségek arányában
+kell felosztani.
+(3) A 2. § (2) bekezdés c) pontja szerinti költségtérítés folyósítása az autóbusszal szolgáltatást végző társaság
+pénzforgalmi igényeihez igazított mértékben történik.
+(4) A 2. § (2) bekezdés c) pontja szerinti költségtérítés (3) bekezdés alapján folyósítandó mértékét a közlekedésért
+felelős miniszter – az államháztartásért felelős miniszterrel egyetértésben – az autóbusszal személyszállítási
+közszolgáltatást végző társasággal kötött közszolgáltatási szerződés záradékában határozza meg.
+9. § (1) A 2. § (3) bekezdés c) pontja szerinti költségtérítés az autóbusszal helyközi személyszállítási közszolgáltatást
+végző társaságoknak a korábbi költségtérítések elszámolásából adódó költségtérítési igényeinek megtérítésére
+használható fel.
+(2) A 2. § (3) bekezdés c) pontja szerinti költségtérítést az autóbusszal szolgáltatást végző társaságok között a korábbi
+évekre fennálló költségtérítési igény arányában kell felosztani.
+(3) A 2. § (3) bekezdés c) pontja szerinti költségtérítés (2) bekezdés alapján folyósítandó mértékét a közlekedésért
+felelős miniszter – az államháztartásért felelős miniszterrel egyetértésben – az autóbusszal személyszállítási
+közszolgáltatást végző társasággal kötött közszolgáltatási szerződés záradékában határozza meg.
+10. § (1) A NAV
+a) a 2. § (2) bekezdés a), b), d) és e) pontja és a 2. § (3) bekezdés a) és b) pontja szerinti költségtérítést
+a kedvezményezettnek a tárgyhónap első napját követő igénylésétől,
+b) a 2. § (2) bekezdés c) pontja és a 2. § (3) bekezdés c) pontja szerinti költségtérítést a közlekedésért felelős
+miniszter által megküldött záradék NAV-hoz történő érkezésétől vagy – ha ez későbbi időpontra esik –
+az adózó támogatási igényének benyújtásától
+számított 15 napon belül folyósítja.
+
+(2) A 2. § (1) bekezdés a) pontja szerinti egyedi támogatás és a 2. § (2) és (3) bekezdése szerinti költségtérítés folyósítása
+az 10032000-01905049 Egyedi támogatás fizetési számla, a 2. § (1) bekezdés b) pontja szerinti egyedi támogatás
+folyósítása az 10032000-01905135 Egyéb vállalati támogatás fizetési számla terhére történik az adózás rendjéről
+szóló törvény rendelkezései alapján.
+11. § (1) Ez a rendelet a kihirdetését követő napon lép hatályba.
+(2) Ez a rendelet 2015. március 31-én hatályát veszti.
+ Orbán Viktor s. k.,
+ miniszterelnök
