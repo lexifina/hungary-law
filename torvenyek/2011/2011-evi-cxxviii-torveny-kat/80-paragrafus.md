@@ -6,7 +6,7 @@
 
 80. § Felhatalmazást kap a Kormány, hogy rendeletben szabályozza:
 
-a) a hivatásos katasztrófavédelmi szerv központi szerve és a hivatásos katasztrófavédelmi szerv területi szervei kijelölését, a helyi szervek jogállását és kijelölését,
+a) a hivatásos katasztrófavédelmi szerv központi szerve és a hivatásos katasztrófavédelmi szerv területi szervei kijelölését, a helyi szervek jogállását és kijelölését, a hivatásos katasztrófavédelmi szerv hatósági ügyeiben eljáró szerv kijelölését,
 
 b) a Kormány tagjainak és a katasztrófavédelemben érintett állami szerveknek a megelőzéssel, a felkészüléssel és a védekezéssel kapcsolatos működésének, riasztásának rendjét – beleértve a reagálási időket –, részletes feladatait,
 
@@ -52,4 +52,6 @@ n) az autonóm államigazgatási szervek és az önálló szabályozó szervek k
 
 o) a veszélyes anyagokkal foglalkozó üzemekre vonatkozó hatósági koordináció szabályait,
 
-p) a katasztrófavédelmi feladatok ellátásához szükséges földmérési és térképészeti állami alapadatok, illetve termékek, továbbá az ingatlan-nyilvántartási adatok (jogok, tények) körét, valamint ezek szolgáltatásának részletes szabályait.
+p) a katasztrófavédelmi feladatok ellátásához szükséges földmérési és térképészeti állami alapadatok, illetve termékek, továbbá az ingatlan-nyilvántartási adatok (jogok, tények) körét, valamint ezek szolgáltatásának részletes szabályait,
+
+q) a veszélyes anyagok, veszélyes áruk telephelyi tárolásának katasztrófavédelmi szabályait,
