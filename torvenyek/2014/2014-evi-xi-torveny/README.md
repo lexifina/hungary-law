@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2014-11-00-00
 | --- | --- | --- |
 | 2014-02-18 | 2014. évi XI. törvény | 2014-11-00-00.0 (közlönyállapot) |
 | 2014-02-18 | Nemzeti Jogszabálytár (egységes szerkezet) | 2014-11-00-00.1 |
+| 2014-02-19 | 2010. évi CXXX. törvény | 2014-11-00-00.2 |
