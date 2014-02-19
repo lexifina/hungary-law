@@ -26,7 +26,7 @@ k) annak megállapítása, hogy milyen külföldi érdekcsoportok, szervezetek k
 
 3. A Bizottság az 50/2003. (XI. 5.) AB határozatban foglaltak figyelembevételével maga határozza meg eljárási rendjét és vizsgálati módszereit.
 
-4. A Bizottság a munkájáról az Ogytv. 26. § (1) bekezdésében foglaltaknak megfelelő jelentést készít, amelyet 2014. március 1-jéig benyújt az Országgyűlésnek. A jelentésben el kell különíteni a minősített adatot tartalmazó, illetve nem tartalmazó részeket.
+4.[^2] A Bizottság a munkájáról az Ogytv. 26. § (1) bekezdésében foglaltaknak megfelelő jelentést készít, amelyet 2014. március 31-ig benyújt az Országgyűlésnek. A jelentésben el kell különíteni a minősített adatot tartalmazó, illetve nem tartalmazó részeket.
 
 5. A Bizottság 8 országgyűlési képviselőből áll. A tagokra a képviselőcsoportok vezetői, illetve a független képviselők tesznek ajánlást az Országgyűlés elnökének az alábbiak szerint:
 
@@ -67,3 +67,5 @@ A Bizottság elnökének, alelnökeinek és tagjainak megválasztására – a k
 15. A Bizottság működésének költségeit az Országgyűlés költségvetéséből kell fedezni.
 
 16. E határozat a közzétételét követő napon lép hatályba.
+
+[^2]: A 4. pont a 9/2014. (II. 18.) OGY határozat 1. pontja szerint módosított szöveg.
