@@ -8,6 +8,8 @@
 
 ## Határidő: azonnal
 
-## 4. visszavonja a Környezet és Energia Operatív Program 2011–2013. évekre szóló akcióterve 1. prioritásának módosításáról és a prioritás keretében megvalósítani tervezett projektek megvalósításához szükséges forrás biztosításáról szóló 2029/2013. (XII. 29.) Korm. határozat 1. pontját és 1. mellékletét.
+## 4.[^1]
 
 1. melléklet az 1064/2014. (II. 18.) Korm. határozathoz
+
+[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
