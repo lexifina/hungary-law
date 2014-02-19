@@ -1,0 +1,9 @@
+# 34/2014. (II. 18.) Korm. rendelet
+
+a szociális, gyermekjóléti és gyermekvédelmi ágazati pótlék kifizetéséhez kapcsolódó támogatásról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-34-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2014-02-19 | 2014-34-20-22.1 | 34/2014. (II. 18.) Korm. rendelet |

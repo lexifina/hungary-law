@@ -1,0 +1,5 @@
+## 5. Záró rendelkezések
+
+11. § (1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) A 12. § 2014. március 1-jén lép hatályba.
