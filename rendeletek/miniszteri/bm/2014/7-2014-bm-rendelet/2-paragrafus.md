@@ -1,8 +1,8 @@
 ## 2. A megyei támogatás és a rendkívüli támogatás igénylése
 
-2. § (1) A megyei támogatás, illetve a rendkívüli támogatás iránti kérelmet (a továbbiakban: támogatási kérelem) a megyei támogatás esetén az 1. melléklet szerinti adatlap, a rendkívüli támogatás esetén az 1. és 2. melléklet szerinti adatlapok ebr42 önkormányzati információs rendszerben kitöltött és kinyomtatott két eredeti és egy másolati példányának a kincstár helyi önkormányzat székhelye szerint illetékes területi szervéhez (a továbbiakban: Igazgatóság) az év során bármikor, de – a (2) bekezdésben meghatározott kivétellel – legkésőbb 2014. szeptember 30-áig történő megküldésével lehet postai úton benyújtani. E határidő elmulasztása jogvesztő. A kizárólag papír alapon benyújtott támogatási kérelem érvénytelen.
+2. § (1)[^2] A megyei támogatás, illetve a rendkívüli támogatás iránti kérelmet (a továbbiakban: támogatási kérelem) a megyei támogatás esetén az 1. melléklet szerinti adatlap, a rendkívüli támogatás esetén az 1. és 2. melléklet szerinti adatlapok ebr42 önkormányzati információs rendszerben kitöltött és kinyomtatott két eredeti és egy másolati példányának a kincstár helyi önkormányzat székhelye szerint illetékes területi szervéhez (a továbbiakban: Igazgatóság) az év során bármikor, de – a (2) bekezdésben meghatározott kivétellel – legkésőbb 2014. szeptember 30-áig történő megküldésével lehet papír alapon benyújtani. E határidő elmulasztása jogvesztő. A kizárólag papír alapon benyújtott támogatási kérelem érvénytelen.
 
-(2) Előre nem látható esemény bekövetkezése esetén a támogatási kérelem az (1) bekezdés szerint az abban meghatározott határnapot követően is benyújtható azzal, hogy a papír alapú támogatási kérelem postára adásának határideje legkésőbb 2014. december 10.
+(2)[^3] Előre nem látható esemény bekövetkezése esetén a támogatási kérelem az (1) bekezdés szerint az abban meghatározott határnapot követően is benyújtható azzal, hogy a papír alapú támogatási kérelem benyújtásának határideje legkésőbb 2014. december 10.
 
 (3) A támogatási kérelemhez csatolni kell
 
@@ -19,3 +19,6 @@ bb) a 2014. évi költségvetési rendelet támogatási kérelem benyújtásakor
 (5) Ha a támogatási kérelem a helyi önkormányzat által foglalkoztatottak nettó munkabérei vagy az általa teljesítendő szociális segélyek határidőben történő kifizetését veszélyeztető esemény elhárításához kapcsolódóan kerül benyújtásra, a felülvizsgálatot az Igazgatóság haladéktalanul lefolytatja és a kérelemről, valamint véleményéről soron kívül tájékoztatja a minisztereket.
 
 (6) Ha a helyi önkormányzatokért felelős miniszter vagy az államháztartásért felelős miniszter a támogatási kérelem vizsgálata során további tájékoztatást vagy dokumentumok megküldését tartja szükségesnek, azt a helyi önkormányzat a helyi önkormányzatokért felelős miniszter felhívására a felhívástól számított 3 napon belül a miniszterek és az Igazgatóság részére történő együttes benyújtással teljesíti.
+
+[^2]: A 2. § (1) bekezdése a 10/2014. (II. 19.) BM rendelet 8. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^3]: A 2. § (2) bekezdése a 10/2014. (II. 19.) BM rendelet 8. § (2) bekezdés b) pontja szerint módosított szöveg.
