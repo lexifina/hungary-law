@@ -1,0 +1,1 @@
+## „(4) Ha útügyi hatósági eljárásban jogszabály a közlekedési hatóság szakhatósági közreműködését írja elő, az 1. számú melléklet 16. pont a) és b) alpontja, 17. pont a) és b) alpontja, 18. pont a) és b) alpontja, 19.2. pont a) és b) alpontja, valamint 20.8. pont a) és b) alpontja szerinti díjat a szakhatóságként eljáró közlekedési hatóságnak kell megfizetni.”
