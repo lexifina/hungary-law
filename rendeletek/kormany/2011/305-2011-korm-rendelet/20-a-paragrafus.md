@@ -1,6 +1,6 @@
-## 13/A.[^7] A művészeti tervpályázat általános szabályai
+## 13/A.[^40] A művészeti tervpályázat általános szabályai
 
-20/A. §[^8] (1) A művészeti tervpályázat lefolytatásának menetét az ajánlatkérő az ebben az alcímben foglaltakkal összhangban határozza meg, és az eljárás szabályait honlapján – amennyiben nem rendelkezik honlappal, a Közbeszerzési Hatóság honlapján – közzéteszi.
+20/A. §[^41] (1) A művészeti tervpályázat lefolytatásának menetét az ajánlatkérő az ebben az alcímben foglaltakkal összhangban határozza meg, és az eljárás szabályait honlapján – amennyiben nem rendelkezik honlappal, a Közbeszerzési Hatóság honlapján – közzéteszi.
 
 (2) A tervpályázat fajtáira a 2. §-ban foglaltak alkalmazandóak azzal, hogy tervszolgáltatás és tervezési feladat helyett művészeti szolgáltatást kell érteni.
 
@@ -22,7 +22,8 @@
 
 (3) A pályázók által benyújtott pályaműveket a bírálóbizottság névtelenül és kizárólag a kiírásban meghatározott szempontok alapján vizsgálja meg. A névtelenséget a bírálóbizottság döntésének meghozataláig kell tiszteletben tartani.
 
-(4) A bírálóbizottság a tagjai által aláírt zárójelentésben állapítja meg a pályaművek rangsorolását, amelynek tartalmára a 17. § (7) bekezdésében foglaltak alkalmazandóak.
+(4)[^42] A bírálóbizottság zárójelentésben állapítja meg a pályaművek rangsorolását, amelynek tartalmára a 17. § (7) bekezdésében foglaltak alkalmazandóak.
 
-[^7]: A 13/A alcímet a 220/2012. (VIII. 13.) Korm. rendelet 2. §-a iktatta be.
-[^8]: A 20/A. §-t a 220/2012. (VIII. 13.) Korm. rendelet 2. §-a iktatta be.
+[^40]: A 13/A alcímet a 220/2012. (VIII. 13.) Korm. rendelet 2. §-a iktatta be.
+[^41]: A 20/A. §-t a 220/2012. (VIII. 13.) Korm. rendelet 2. §-a iktatta be.
+[^42]: A 20/B. § (4) bekezdése a 36/2014. (II. 19.) Korm. rendelet 10. § (2) bekezdése szerint módosított szöveg.

@@ -8,7 +8,7 @@ a) a határidő után benyújtott pályaművet, bontás nélkül;
 
 b) azt a pályaművet, amely a dokumentációban meghatározott tartalmi követelményeket nem teljesíti;
 
-c) a titkosságot az 5. § (2) bekezdés a) és b) pontja értelmében sértő pályaműveket, valamint
+c)[^29] a titkosságot sértő pályaműveket, valamint
 
 d) azt a pályaművet, amelynek szerzőivel szemben a 12. § (3) bekezdése és a 13. § értelmében kizáró ok áll fenn.
 
@@ -18,7 +18,9 @@ d) azt a pályaművet, amelynek szerzőivel szemben a 12. § (3) bekezdése és 
 
 (5) A folyamatos jegyzőkönyvben a bírálati munkával kapcsolatos minden lényeges eseményt rögzíteni kell. A folyamatos jegyzőkönyvet a bírálóbizottság résztvevőinek alá kell írniuk.
 
-(6) A határidőben benyújtott pályaműveket a bírálóbizottság jelenlétében kell felbontani és a pályaművek valamennyi munkarészét bírálati sorszámmal kell ellátni. A bontásról jegyzőkönyvet kell készíteni (a továbbiakban: bontási jegyzőkönyv), amelynek legalább a pályaművek bírálati sorszámát, postai azonosítóját, továbbá a pályaművek munkarészeinek megnevezését és darabszámát kell tartalmaznia. A bontási jegyzőkönyvet a folyamatos jegyzőkönyvhöz kell csatolni.
+(6)[^30] A határidőben benyújtott pályaműveket a bírálóbizottság legalább három tagjának jelenlétében kell felbontani és a pályaművek valamennyi munkarészét bírálati sorszámmal kell ellátni. A bontásról jegyzőkönyvet kell készíteni (a továbbiakban: bontási jegyzőkönyv), amelynek legalább a pályaművek bírálati sorszámát, postai azonosítóját (adott esetben), továbbá a pályaművek munkarészeinek megnevezését és darabszámát kell tartalmaznia. A bontási jegyzőkönyvet a folyamatos jegyzőkönyvhöz kell csatolni.
+
+(6a)[^31] Az ajánlatkérő a tervpályázati kiírásban rendelkezhet úgy, hogy az eljárásban a pályaművek elbírálása, illetve rangsorolása több eljárási fordulóban történik. Ebben az esetben az ajánlatkérő csak a bírálóbizottság által a kiírásban meghatározott szempontok szerint legmegfelelőbbnek ítélt pályaműveket benyújtó, a meghatározott keretszám szerinti pályázóval folytatja az eljárást. A tervpályázati kiírásban előre rögzíteni kell azokat az elbírálási szempontokat, amelyek szerint a bírálóbizottság a pályaműveket a további eljárási fordulóra történő kiválasztáshoz rangsorolja, valamint az egyes eljárási fordulókat követően a további tervpályázati fordulóra kiválasztott pályázói létszám felső határát. Az 5. §-ban foglaltak szerint a titkosság követelményét az eljárás minden fordulójában meg kell tartani, a további részvételre fel nem kért pályázók is kötelesek minden olyan magatartástól tartózkodni, mely az eredményhirdetést megelőzően a titkosság elvét sértheti. A dokumentációnak előre tartalmaznia kell az egyes fordulókban benyújtandó pályaművekre vonatkozó tervezési feladat részletes leírását, az esélyegyenlőség elvének sérelme nélkül az ajánlatkérő az egyes fordulókat követően az újabb pályamű benyújtására történő felhívásban a tervezési program egyes elemeit pontosíthatja.
 
 (7) A bírálóbizottság a tervpályázattal kapcsolatos írásbeli összegzést zárójelentésben rögzíti, amelynek tartalmaznia kell:
 
@@ -42,16 +44,22 @@ i) a tervpályázat hasznosításának módjára és lehetőségeire tett ajánl
 
 j) eredménytelen tervpályázat esetén az eredménytelenségnek a bíráló bizottság által megállapított indokát;
 
-k)[^6] a tervpályázatot követő hirdetmény nélküli tárgyalásos eljárásban ajánlattételre felhívásra vonatkozó ajánlásokat, illetve azt is, ha a bírálóbizottság arra tesz ajánlást, hogy ne kerüljön sor hirdetmény nélküli tárgyalásos eljárás lefolytatására.
+k)[^32] a tervpályázatot követő hirdetmény nélküli tárgyalásos eljárásban ajánlattételre felhívásra vonatkozó ajánlásokat, illetve azt is, ha a bírálóbizottság arra tesz ajánlást, hogy ne kerüljön sor hirdetmény nélküli tárgyalásos eljárás lefolytatására.
 
 (8) Az ajánlatkérő – a tervszolgáltatás megrendelésére szolgáló, a Kbt. 94. § (5) bekezdése szerinti hirdetmény nélküli tárgyalásos közbeszerzési eljárásban az árverseny biztosítása érdekében – a bírálóbizottság részére előírhatja, hogy több pályamű részesüljön díjazásban és a bírálóbizottság köteles legalább az első és a második helyen rangsorolt, díjazásban részesült pályázót a (7) bekezdés k) pontja szerint ajánlani ajánlattételre felhívni. A bírálóbizottság az ajánlatkérő ilyen előírása ellenére is jogosult kizárólag az első díjas pályázót ajánlani a közbeszerzési eljárásban részvételre, amennyiben a második díjas pályamű szakmai színvonalában az első díjazotthoz képest jelentősen alacsonyabb értéket képvisel, valamint ilyen esetben is jogosult olyan ajánlást tenni, hogy ne kerüljön sor hirdetmény nélküli tárgyalásos eljárás lefolytatására. Ha a bírálóbizottság több díjazásban részesült pályázót ajánl a közbeszerzési eljárásban részvételre, a bírálóbizottság által ajánlott összes pályázónak ajánlattételi felhívást kell küldeni.
 
 (9) A bírálóbizottság eredménytelennek minősítheti a tervpályázatot, ha egyetlen pályaművet sem talál díjazásra vagy megvételre alkalmasnak. A bírálóbizottság a zárójelentésben fogalmazza meg az eredménytelenség indokát, és javaslatot tesz a tervpályázat megismétlésének és lebonyolításának módjára.
 
-(10) A zárójelentés egy eredeti példányát a bírálóbizottság szavazásra jogosult résztvevőinek alá kell írnia. A bírálóbizottság a zárójelentést átadja az ajánlatkérőnek, aki az abban foglaltak alapján teszi közzé a tervpályázat eredményéről vagy eredménytelenségéről szóló tájékoztatót.
+(10)[^33] A bírálóbizottság a zárójelentést átadja az ajánlatkérőnek, aki az abban foglaltak alapján teszi közzé a tervpályázat eredményéről vagy eredménytelenségéről szóló tájékoztatót.
 
-(11) A pályaművekhez csatolt lezárt borítékot csak a folyamatos jegyzőkönyv és a szakmai bírálatokat rögzítő dokumentumok aláírása után szabad felbontani. Az adatlapon feltüntetett valamennyi személy (szerzők és munkatársak) adatait külön jegyzőkönyvben kell a zárójelentéshez csatolni.
+(11)[^34]
 
-(12) Amennyiben a pályázókkal, szerzőkkel, vagy munkatársakkal kapcsolatban a zárójelentés elfogadása, vagy a lezárt boríték felbontása után merül fel a 12. § (3) bekezdése és a 13. § szerinti kizáró ok, az érintett pályaművet a tervpályázatból utólag ki kell zárni. A kizárás a korábban megállapított rangsorolást és díjakat nem befolyásolja, a kizárt pályázó díja nem kerül kiadásra, az ajánlattételre felhívni javasolt pályázó kizárása esetén a bírálóbizottság a rangsorban következő pályázót ajánlhatja ajánlattételre felhívni a tervpályázatot követő hirdetmény nélküli tárgyalásos közbeszerzési eljárásban.
+(12)[^35] Amennyiben a pályázókkal, szerzőkkel, vagy munkatársakkal kapcsolatban a zárójelentés elfogadása, vagy a pályázó személyének megismerése után merül fel a 12. § (3) bekezdése és a 13. § szerinti kizáró ok, az érintett pályaművet a tervpályázatból utólag ki kell zárni. A kizárás a korábban megállapított rangsorolást és díjakat nem befolyásolja, a kizárt pályázó díja nem kerül kiadásra, az ajánlattételre felhívni javasolt pályázó kizárása esetén a bírálóbizottság a rangsorban következő pályázót ajánlhatja ajánlattételre felhívni a tervpályázatot követő hirdetmény nélküli tárgyalásos közbeszerzési eljárásban.
 
-[^6]: A 17. § (7) bekezdés k) pontja a 220/2012. (VIII. 13.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^29]: A 17. § (2) bekezdés c) pontja a 36/2014. (II. 19.) Korm. rendelet 10. § (2) bekezdése szerint módosított szöveg.
+[^30]: A 17. § (6) bekezdése a 36/2014. (II. 19.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^31]: A 17. § (6a) bekezdését a 36/2014. (II. 19.) Korm. rendelet 7. § (2) bekezdése iktatta be.
+[^32]: A 17. § (7) bekezdés k) pontja a 220/2012. (VIII. 13.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^33]: A 17. § (10) bekezdése a 36/2014. (II. 19.) Korm. rendelet 7. § (3) bekezdésével megállapított szöveg.
+[^34]: A 17. § (11) bekezdését a 36/2014. (II. 19.) Korm. rendelet 10. § (2) bekezdése hatályon kívül helyezte.
+[^35]: A 17. § (12) bekezdése a 36/2014. (II. 19.) Korm. rendelet 10. § (1) bekezdés g) pontja szerint módosított szöveg.

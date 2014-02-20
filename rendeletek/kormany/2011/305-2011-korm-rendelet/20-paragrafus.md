@@ -10,4 +10,6 @@
 
 (5) A bírálóbizottság résztvevőit – végzett munkájukkal arányosan – a tervpályázat előkészítése és a bírálati munka során kifejtett tevékenységükért díjazásban kell részesíteni. A bírálóbizottság díjazására felhasználható keret nem haladhatja meg a tervpályázat pénzügyi fedezete (3) bekezdésben felsorolt költségekkel csökkentett összegének 25%-át.
 
-(6) Eltérő megállapodás hiányában a tervpályázat elnöke – amennyiben a 9. § (7) bekezdése szerint közreműködése szükséges, társelnöke – a bizottsági tag díjazásának 140%-ára, szakmai titkára 130%-ára, jogi szakértője a bizottsági taggal egyenlő díjazásra, szakértője a bizottsági tag díjazásának 60–80%-a közötti díjazásra jogosult.
+(6)[^39]
+
+[^39]: A 20. § (6) bekezdését a 36/2014. (II. 19.) Korm. rendelet 10. § (2) bekezdése hatályon kívül helyezte.

@@ -42,7 +42,7 @@ c) címzéslapot;
 
 d) borítékot;
 
-e) a pályázók adatainak és a díjazás vagy megvétel szerzők közötti százalékos arányának feltüntetésére szolgáló kitöltendő adatlapot.
+e)[^21] a pályázók adatainak és a díjazás vagy megvétel szerzők közötti százalékos arányának feltüntetésére szolgáló kitöltendő adatlapot – amennyiben ezen adatokat a pályaműhöz csatoltan kéri ajánlatkérő benyújtani.
 
 (4) A dokumentációnak tartalmaznia kell a tervpályázattal kapcsolatos lényeges tájékoztató adatokat is, különösen:
 
@@ -52,7 +52,7 @@ b) a tervpályázat pontos címét, tárgyát, célját és jellegét;
 
 c) a tervpályázaton való részvétel feltételeit (alkalmassági követelményeket);
 
-d) a teljes tervpályázati dokumentáció beszerzésének helyét, költségét;
+d)[^22] a teljes tervpályázati dokumentáció beszerzésének helyét (adott esetben elektronikus elérésének módját), költségét;
 
 e) a pályaművek benyújtásának helyét, határidejét és módját;
 
@@ -60,7 +60,7 @@ f) a pályaművek díjazására és megvételére szánt összeget, ezen belül 
 
 g) az összes pályázónak adott esetben fizetett költségtérítésre vonatkozó adatokat;
 
-h) a bírálóbizottság elnökének (társelnökének), szakmai titkárának, tagjainak (póttagjainak) és szakértőinek nevét és az általuk képviselt szervezetet vagy munkahelyet;
+h)[^23] a bírálóbizottság elnökének (társelnökének) és tagjainak (póttagjainak) nevét és az általuk képviselt szervezetet vagy munkahelyet;
 
 i) a tervpályázatra vonatkozó kérdések feltevésének, valamint a válaszok megadásának módját és határidejét;
 
@@ -74,14 +74,23 @@ m) a tervpályázati eljárásra vonatkozó jogszabályok megnevezését;
 
 n) a tervpályázatban maximálisan benyújtható lapok számát, amely csak a bírálóbizottság által a kiírásban indokolt esetben lehet több 4 db A1 méretű tervlapnál, és 4 oldal A4 méretű műleírásnál;
 
-o) azt, hogy a tervpályázati eljárásban az ajánlatkérő a magyar nyelven kívül más nyelv használatát is lehetővé teszi-e.
+o)[^24] szükség esetén a nyelvhasználatra vonatkozó részletes szabályokat;
+
+p)[^25] amennyiben a pályaművek elbírálása, illetve rangsorolása több eljárási fordulóban történik, az eljárás menetére vonatkozó tájékoztatást.
 
 (5) A pályamű kizárólag egy példányban kérhető.
 
-(6) A tervpályázat kiírását, dokumentációját, az eljárás során készült iratokat, jegyzőkönyveket, zárójelentést, továbbá a pályaművek feliratozását, szöveges részeit akkor is el kell készíteni magyar nyelven, ha az ajánlatkérő más nyelv használatát is lehetővé teszi az eljárásban. Vita esetén a magyar nyelvű szöveg az irányadó.
+(6)[^26]
 
 (7) A dokumentáció beszerzésének árát az ajánlatkérő határozza meg, amely legfeljebb a dokumentáció elkészítésének költségéig terjedhet.
 
 (8) A tervpályázat dokumentációját átvevő személyek nevét és címét jegyzékbe kell foglalni.
 
 (9) A dokumentációt a tervpályázati eljárás meghirdetésének napjáig el kell készíteni.
+
+[^21]: A 14. § (3) bekezdés e) pontja a 36/2014. (II. 19.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^22]: A 14. § (4) bekezdés d) pontja a 36/2014. (II. 19.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^23]: A 14. § (4) bekezdés h) pontja a 36/2014. (II. 19.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.
+[^24]: A 14. § (4) bekezdés o) pontja a 36/2014. (II. 19.) Korm. rendelet 5. § (4) bekezdésével megállapított szöveg.
+[^25]: A 14. § (4) bekezdés p) pontját a 36/2014. (II. 19.) Korm. rendelet 5. § (5) bekezdése iktatta be.
+[^26]: A 14. § (6) bekezdését a 36/2014. (II. 19.) Korm. rendelet 10. § (2) bekezdése hatályon kívül helyezte.
