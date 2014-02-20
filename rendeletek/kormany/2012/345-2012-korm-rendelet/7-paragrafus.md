@@ -28,6 +28,10 @@ c) a hatóságnak és a szakhatóságnak a hiánypótlásra az adott ügyfajtár
 
 (6)[^8] A Módr.2. hatálybalépésekor[^9] folyamatban lévő hatósági eljárásokban a szakhatóságnak az adott ügyfajtára vonatkozó külön jogszabályban meghatározott ügyintézési határidőn belül kell szakhatósági állásfoglalását az eljárást lefolytató hatósággal közölnie.
 
+(7)[^10] E rendeletnek az egyes közlekedésfejlesztési projektekkel összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 345/2012. (XII. 6.) Korm. rendelet módosításáról szóló 37/2014. (II. 19.) Korm. rendelettel (a továbbiakban: Módr.3.) megállapított rendelkezéseit – a (8) bekezdésben foglalt eltérésekkel – a Módr.3. hatálybalépésekor[^11] folyamatban lévő ügyekben is alkalmazni kell.
+
+(8)[^12] A Módr.3. hatálybalépésekor[^13] folyamatban lévő hatósági eljárásokban a szakhatóságnak az adott ügyfajtára vonatkozó jogszabályban meghatározott ügyintézési határidőn belül kell szakhatósági állásfoglalását az eljárást lefolytató hatósággal közölnie.
+
 [^2]: A 7. § (3) bekezdését a 376/2013. (X. 25.) Korm. rendelet 2. §-a iktatta be.
 [^3]: A hatálybalépés időpontja 2013. október 26.
 [^4]: A 7. § (4) bekezdését a 376/2013. (X. 25.) Korm. rendelet 2. §-a iktatta be.
@@ -36,3 +40,7 @@ c) a hatóságnak és a szakhatóságnak a hiánypótlásra az adott ügyfajtár
 [^7]: A hatálybalépés napja: 2013. december 25.
 [^8]: A 7. § (6) bekezdését a 486/2013. (XII. 17.) Korm. rendelet 1. §-a iktatta be.
 [^9]: A hatálybalépés napja: 2013. december 25.
+[^10]: A 7. § (7) bekezdését a 37/2014. (II. 19.) Korm. rendelet 1. §-a iktatta be.
+[^11]: A hatálybalépés időpontja 2014. február 20.
+[^12]: A 7. § (8) bekezdését a 37/2014. (II. 19.) Korm. rendelet 1. §-a iktatta be.
+[^13]: A hatálybalépés időpontja 2014. február 20.
