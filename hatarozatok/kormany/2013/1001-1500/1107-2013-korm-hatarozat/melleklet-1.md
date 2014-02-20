@@ -1,4 +1,4 @@
-## A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdésében meghatározott jogkörében az EUTM Mali feladat végrehajtása érdekében 555,1 millió forint 1. melléklet szerinti egyszeri átcsoportosítását rendeli el elszámolási kötelezettséggel, a Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény (a továbbiakban: Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet, 7. Rendkívüli kormányzati intézkedések cím terhére, a Kvtv. 1. melléklet XIII. Honvédelmi Minisztérium fejezet, 2. Magyar Honvédség cím, 2. MH ÖHP és alárendelt szervezetei alcím és a XIII. Honvédelmi Minisztérium fejezet, 8. Fejezeti kezelésű előirányzatok cím 2. Ágazati célelőirányzatok alcím, 40. Nemzetközi tagdíjak, tagdíj jellegű befizetések jogcímcsoport, 2. Hozzájárulás az EU védelmi célú közös finanszírozású védelmi alapjaihoz jogcím javára.
+## A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdésében meghatározott jogkörében az EUTM Mali feladat végrehajtása és az afrikai kontinensen 2014. évben végrehajtásra kerülő Európai Unió vezetése alatt álló katonai műveletekben történő magyar szerepvállalás finanszírozása érdekében 555,1 millió forint 1. melléklet szerinti egyszeri átcsoportosítását rendeli el elszámolási kötelezettséggel, a Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény (a továbbiakban: Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet, 7. Rendkívüli kormányzati intézkedések cím terhére, a Kvtv. 1. melléklet XIII. Honvédelmi Minisztérium fejezet, 2. Magyar Honvédség cím, 2. MH ÖHP és alárendelt szervezetei alcím és a XIII. Honvédelmi Minisztérium fejezet, 8. Fejezeti kezelésű előirányzatok cím 2. Ágazati célelőirányzatok alcím, 40. Nemzetközi tagdíjak, tagdíj jellegű befizetések jogcímcsoport, 2. Hozzájárulás az EU védelmi célú közös finanszírozású védelmi alapjaihoz jogcím javára.[^2]
 
 ## Az átcsoportosítás tekintetében:
 
@@ -10,7 +10,7 @@
 
 ## Felelős: honvédelmi miniszter
 
-## Határidő: 2014. április 30.
+## Határidő: 2015. április 30.
 
 1. melléklet az 1107/2013. (III. 7.) Korm. határozathoz
 
@@ -121,3 +121,5 @@ Költségvetési év: 2013.
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni.
+
+[^2]: A határozat szövege az 1071/2014. (II. 19.) Korm. határozat 1. és 2. pontja szerint módosított szöveg.
