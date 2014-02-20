@@ -1,3 +1,0 @@
-## 2. § Az R. 10. §-a a következő (3) bekezdéssel egészül ki:
-
-## „(3) A 6. § (1) bekezdése szerinti hatóságok a jegyzékben nem szereplő anyagok vonatkozásában a 273/2004/EK európai parlamenti és tanácsi rendelet 10. cikk (2) bekezdésében, illetve a 111/2005/EK tanácsi rendelet 26. cikk (3b) bekezdésében meghatározott célból ellenőrzést folytathatnak a jegyzékben nem szereplő anyagot birtokló, vagy birtokolni szándékozó, a szakmája, önálló foglalkozása vagy üzleti tevékenysége körében eljáró személy (vállalkozás) tekintetében. Ennek során a vállalkozás köteles a hatóságokkal együttműködni és a hatóságok rendelkezésére bocsátani mindazon információkat, bizonyítékokat, amelyek a törvényes felhasználási célt igazolják.”

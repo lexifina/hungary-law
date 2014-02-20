@@ -1,3 +1,0 @@
-## 4. § Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
-
-5. § Ez a rendelet a kábítószer-prekurzorokról szóló, 2004. február 11-i 273/2004/EK európai parlamenti és tanácsi rendelet 5. cikk (3) és (5) bekezdésének, 9. cikk (3) bekezdésének, 10. cikk (2) bekezdésének és 12. cikkének, valamint a kábítószer-prekurzoroknak a Közösség és harmadik országok közötti kereskedelme nyomon követésére vonatkozó szabályok megállapításáról szóló, 2004. december 22-i 111/2005/EK tanácsi rendelet 10. cikk (3) bekezdésének, 26. cikk (3b) bekezdésének és 31. cikkének végrehajtáshoz szükséges rendelkezéseket állapít meg.
