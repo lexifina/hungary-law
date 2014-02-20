@@ -176,7 +176,7 @@
 
 | 87 | Vatikán | EUR | 1338 |
 
-2. melléklet a 3/2012. (IX. 4.) KüM rendelethez[^3]
+2. melléklet a 3/2012. (IX. 4.) KüM rendelethez[^4]
 
 A kiegészítő pótlék bruttó havi összege
 
@@ -260,4 +260,4 @@ A kiegészítő pótlék bruttó havi összege
 
 | 39 | Pakisztán | EUR | 225 |
 
-[^3]: A 2. melléklet a 3/2013. (X. 25.) KÜM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^4]: A 2. melléklet a 3/2013. (X. 25.) KÜM rendelet 1. § (2) bekezdésével megállapított szöveg.
