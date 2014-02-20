@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-135-00-00
 | 2013-11-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2013-135-00-00.6 |
 | 2013-11-30 | 2013. évi CXCVI. törvény | 2013-135-00-00.7 |
 | 2014-01-01 | 2013. évi CCXXXVII. törvény | 2013-135-00-00.8 |
+| 2014-02-20 | Nemzeti Jogszabálytár (egységes szerkezet) | 2013-135-00-00.9 |
