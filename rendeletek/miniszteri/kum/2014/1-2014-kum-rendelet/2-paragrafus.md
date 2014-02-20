@@ -1,0 +1,3 @@
+## 1. § A tartós külszolgálatot teljesítő kormányzati szolgálati jogviszonyban állók és a munkavállalók alapellátmányának, valamint a munkavállalók ideiglenes külföldi kiküldetése napidíjának összegéről és azok kifizetéséről szóló 3/2012. (IX. 4.) KüM rendelet 2. §-a helyébe a következő rendelkezés lép:
+
+## „2. § Az 1. mellékletben foglaltakat a „Beregszász”, „Csíkszereda”, „Kolozsvár”, „Szabadka”, valamint „Ungvár” állomáshelyekre a magyar állampolgárságról szóló 1993. évi LV. törvény végrehajtása érdekében kirendelt kormánytisztviselők és kormányzati ügykezelők, valamint munkavállalók tekintetében azzal az eltéréssel kell alkalmazni, hogy a 2012. július 1.–2014. június 30. közötti időszakban havi bruttó 20%-os alapellátmány-kiegészítésre jogosultak.”
