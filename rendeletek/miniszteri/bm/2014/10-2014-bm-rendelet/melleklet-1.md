@@ -1,4 +1,4 @@
-## lép.
+## 8. §[^2]
 
 1. melléklet a 10/2014. (II. 19.) BM rendelethez
 
@@ -79,3 +79,5 @@ az adósságkonszolidációban részt nem vett települési önkormányzatok fej
 |  | …………………………………………………… |  | ……………………………………………… |  |
 
 |  | jegyző |  | polgármester |  |
+
+[^2]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
