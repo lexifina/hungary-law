@@ -1,5 +1,0 @@
-## 1. § Az egyes közlekedésfejlesztési projektekkel összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 345/2012. (XII. 6.) Korm. rendelet (a továbbiakban: R.) 7. §-a a következő (7)–(8) bekezdéssel egészül ki:
-
-## „(7) E rendeletnek az egyes közlekedésfejlesztési projektekkel összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 345/2012. (XII. 6.) Korm. rendelet módosításáról szóló 37/2014. (II. 19.) Korm. rendelettel (a továbbiakban: Módr.3.) megállapított rendelkezéseit – a (8) bekezdésben foglalt eltérésekkel – a Módr.3. hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
-
-## (8) A Módr.3. hatálybalépésekor folyamatban lévő hatósági eljárásokban a szakhatóságnak az adott ügyfajtára vonatkozó jogszabályban meghatározott ügyintézési határidőn belül kell szakhatósági állásfoglalását az eljárást lefolytató hatósággal közölnie.”
