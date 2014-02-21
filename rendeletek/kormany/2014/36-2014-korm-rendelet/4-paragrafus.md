@@ -1,1 +1,0 @@
-## „(10) Amennyiben a bírálóbizottság tagja a dokumentációban foglaltakkal nem ért egyet, a bírálóbizottság munkájában való részvételről lemondhat a tervpályázat meghirdetése előtt. Szükség esetén az ajánlatkérő újabb tagot kérhet fel.”
