@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-1-20-27
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2014-02-20 | 2014-1-20-27.1 | 1/2014. (II. 19.) KüM rendelet |
+| 2014-02-21 | 2014-1-20-27.2 | 5/2018. (VIII. 23.) KKM rendelet |
