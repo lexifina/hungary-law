@@ -22,6 +22,8 @@ Határidő: 2014. május 31.
 
 5. felkéri Belváros-Lipótváros Budapest Főváros V. Kerület Önkormányzatát, hogy az emlékmű Budapest V. kerület Szabadság téren történő elhelyezése érdekében a szükséges önkormányzati döntéseket hozza meg.
 
-6. Hatályát veszti a Magyarország német megszállásának emléket állító, Budapest V. kerületben felállításra kerülő emlékmű megvalósításával összefüggő egyes kérdésekről szóló 2056/2013. (XII. 31.) Korm. határozat.
+6.[^1]
 
 7. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^1]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
