@@ -1,4 +1,4 @@
-3. melléklet a 142/2012. (XII. 27.) VM rendelethez
+3. melléklet a 142/2012. (XII. 27.) VM rendelethez[^12]
 
 ## Borvidéki szerkezetátalakítási és -átállítási terv
 
@@ -6,7 +6,7 @@
 
 A 2012/2013 borpiaci évtől érvényes borvidéki követelményrendszer a szőlőültetvények szerkezetátalakítási és -átállítási támogatásához
 
-A borvidéki terv a hegyközségekről szóló 1994. évi CII. törvény, a szőlőültetvények szerkezetátalakítására és -átállításához a 2012/2013 borpiaci évtől igényelhető támogatás feltételeiről szóló 142/2012. (XII. 27.) VM rendelet, a borkészítésre alkalmas szőlőfajták osztályba sorolásáról szóló 98/2009. (VII. 30.) FVM rendelet, valamint a szőlészeti és a borászati adatszolgáltatás, valamint a származási bizonyítványok kiadásának rendjéről, továbbá a borászati termékek előállításáról, forgalomba hozataláról és jelöléséről szóló 127/2009. (IX. 29.) FVM rendelet alapján készült.
+A borvidéki terv a hegyközségekről szóló törvény, a szőlőültetvények szerkezetátalakítására és -átállításához a 2012/2013 borpiaci évtől igényelhető támogatás feltételeiről szóló 142/2012. (XII. 27.) VM rendelet, a borkészítésre alkalmas szőlőfajták osztályba sorolásáról szóló 98/2009. (VII. 30.) FVM rendelet, valamint a szőlészeti és a borászati adatszolgáltatás, valamint a származási bizonyítványok kiadásának rendjéről, továbbá a borászati termékek előállításáról, forgalomba hozataláról és jelöléséről szóló 127/2009. (IX. 29.) FVM rendelet alapján készült.
 
 1. Támogatható tevékenységek a borvidéken:
 
@@ -21,8 +21,6 @@ A borvidéki terv a hegyközségekről szóló 1994. évi CII. törvény, a sző
 Fajtaváltást csak a borvidék (I., II/1., II/2.) ...................... termőhelyi kataszteri besorolású területein lehet végrehajtani.
 
 2.2. Ültetvény áttelepítése
-
-Ültetvény áttelepítése tevékenység keretében áttelepíteni a borvidék I. termőhelyi kataszteri osztályú területein belül korlátozás nélkül, a borvidék (II/1., II/2.) ....................... kataszteri osztályú területeiről csak magasabb termőhelyi kataszteri pontértékű területre lehet.
 
 Szőlőtermesztésre alkalmatlan, vagy termőhelyi kataszterbe nem sorolt területről ültetvényt áttelepíteni (I., II/1., II/2.) .................... termőhelyi kataszteri osztályú területre lehet.
 
@@ -65,3 +63,5 @@ Helység, dátum ...........................................................
 | ................................................ | ................................................ |
 
 | elnök | titkár |
+
+[^12]: A 3. melléklet a 12/2014. (II. 21.) VM rendelet 6. § e) pontja és 7. § (1) bekezdése szerint módosított szöveg.

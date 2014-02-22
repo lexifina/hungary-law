@@ -22,6 +22,8 @@ i) támogatható területnagyság: a tevékenység végrehajtására vonatkozó 
 
 j) ültetvény áttelepítése: egy adott terület érvényes engedéllyel történő betelepítése a borvidéki tervben meghatározott fajta és művelési mód alkalmazásával vagy jobb ökológiai adottságok közé történő telepítés;
 
-k) ültetvényleltár: az ültetvény pontos helyét, méretét, sor- és tőtávolságát, művelésmódját, a tőállományt soronként bemutató nyilvántartás;
+k)[^1] ültetvényleltár: az ültetvény pontos helyét, méretét, sor- és tőtávolságát, művelésmódját, a tőállományát, fajtaösszetételét soronként bemutató nyilvántartás;
 
 l) VINGIS térkép: a szőlőültetvények országos térinformatikai nyilvántartásából nyomtatott A/3-as formátumú, a kérelemben megjelölt ültetvény pontos térbeli azonosítását biztosító, a terület átlagos lejtésére vonatkozó, és egyéb kiegészítő szakadatokkal ellátott térképi dokumentum.
+
+[^1]: Az 1. § k) pontja a 12/2014. (II. 21.) VM rendelet 1. §-ával megállapított szöveg.

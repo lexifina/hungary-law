@@ -1,37 +1,39 @@
 ## Hozzájáruló nyilatkozat
 
-## Alulírott (név)
+| Alulírott .................................................................................................................................................(név) |
 
-## (születési hely, idő: , anyja születési neve: ),
+| (születési hely, idő: ..............................................., anyja születési neve: ...................................................), |
 
-## mint a ....................................... helység ..................... helyrajzi számú területén lévő szőlőültetvény
+| mint a ....................................... helység ..................... helyrajzi számú terület |
 
-## földtulajdonosa / özvegyi joggal bíró jogosultja / haszonélvezeti joggal bíró jogosultja /
+| tulajdonosa / özvegyi joggal bíró jogosultja / haszonélvezeti joggal bíró jogosultja / végrehajtási joggal bíró jogosultja/ visszavásárlási joggal bíró jogosultja/ vételi joggal bíró jogosultja/ használati joggal bíró jogosultja |
 
-## végrehajtási joggal bíró jogosultja
+| hozzájárulok ahhoz, hogy ......................................................................................................................(név) |
 
-## hozzájárulok ahhoz, hogy (név)
+| ........................................................................................................................................ (születési hely, idő), |
 
-## (születési hely, idő),
+| anyja születési neve: ..........................................................................................................................., |
 
-## (anyja születési neve: ,
+| ................................................................................................................. (cím) alatti lakos (MVH ügyfél-azonosító: .....................................), - aki a földterület használója - a fentebb meghatározott területen a szerkezetátalakítást végrehajtsa, valamint a szerkezetátalakítási támogatást igénybe vegye, valamint az ingatlant a művelésben tartási kötelezettsége lejártáig használhatja. |
 
-## (cím) alatti lakos (MVH regisztrációs száma: .....................................),
+| Kelt: ....................................... (helység, dátum) |
 
-## - aki a földterület használója - a fentebb meghatározott területen a szerkezetátalakítást végrehajtsa, valamint a szerkezetátalakítási támogatást igénybe vegye, valamint az ingatlant a művelésben tartási kötelezettsége lejártáig használhatja.
-
-## Kelt: ....................................... (helység, dátum)
-
-## .....................................
-
-## aláírás
+| ..................................................... aláírás |
 
 | Tanú 1. | Tanú 2. |
 
-| ...................................................................... (név) | ...................................................................... (név) |
+| .......................................................................................... | .......................................................................................... |
 
-| ...................................................................... (cím) | ...................................................................... (cím) |
+| (név) | (név) |
 
-| ...................................................................... (sz. ig. sz.) | ...................................................................... (sz. ig. sz.) |
+| .......................................................................................... | .......................................................................................... |
 
-5. melléklet a 142/2012. (XII. 27.) VM rendelethez
+| (cím) | (cím) |
+
+| .......................................................................................... | .......................................................................................... |
+
+| (sz. ig. sz.) | (sz. ig. sz.) |
+
+5. melléklet a 142/2012. (XII. 27.) VM rendelethez[^14]
+
+[^14]: Az 5. melléklet a 12/2014. (II. 21.) VM rendelet 7. § (3) bekezdésével megállapított szöveg.

@@ -8,7 +8,7 @@
 
 (4) A támogatási kérelem az alábbi adatokat tartalmazza
 
-a) a kérelmező azonosításához szükséges adatok (regisztrációs szám, név, cím, kapcsolattartási információk);
+a)[^7] a kérelmező azonosításához szükséges adatok (ügyfél-azonosító, név, kapcsolattartási információk);
 
 b) az egyéni tervnek helyt adó vagy részben helyt adó határozat iktatószáma;
 
@@ -33,3 +33,5 @@ d) amennyiben az egyéni tervhez mellékelt a tevékenység végrehajtására vo
 (9) A 7. § (3) bekezdése szerinti végrehajtás esetén az első borpiaci évre benyújtott támogatási kérelemhez nem kell mellékelni az (5) bekezdés a) pontjában meghatározott dokumentumot.
 
 (10) Adott borpiaci évben egy kérelmező több támogatási kérelmet is benyújthat.
+
+[^7]: A 16. § (4) bekezdés a) pontja a 12/2014. (II. 21.) VM rendelet 6. § d) pontja szerint módosított szöveg.

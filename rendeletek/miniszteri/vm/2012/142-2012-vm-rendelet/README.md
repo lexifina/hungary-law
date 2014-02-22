@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-142-20-
 | 2013-01-04 | 2012-142-20-2Y.1 | 142/2012. (XII. 27.) VM rendelet |
 | 2013-12-31 | 2012-142-20-2Y.2 | 2010: CXXX. törvény |
 | 2014-01-01 | 2012-142-20-2Y.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2014-02-22 | 2012-142-20-2Y.4 | 12/2014. (II. 21.) VM rendelet |

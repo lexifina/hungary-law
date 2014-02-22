@@ -2,7 +2,7 @@
 
 9. § (1) Az egyéni tervet az MVH által rendszeresített és honlapján közzétett, az adott borpiaci évre vonatkozó közlemény szerinti nyomtatványon kell benyújtani. Az egyéni terv az alábbi adatokat tartalmazza
 
-a) a kérelmező azonosításához szükséges adatok (regisztrációs szám, név, cím, kapcsolattartási információk);
+a)[^2] a kérelmező azonosításához szükséges adatok (ügyfél-azonosító, név, kapcsolattartási információk);
 
 b) a tevékenység megjelölése;
 
@@ -24,8 +24,11 @@ i) a felhasználandó szaporítóanyag tekintetében a szőlőiskola típusa.
 
 a) ha a tevékenység nem saját tulajdonú ingatlanon valósul vagy valósult meg, az azt igazoló teljes bizonyító erejű, eredeti magánokiratot a 4. melléklet szerint, amely alapján a kérelmező jogosult a tevékenységet megvalósítani, és az ingatlant a művelésben tartási kötelezettsége lejártáig használni;
 
-b) ha a tevékenység más jogával terhelt ingatlanon valósul vagy valósult meg, az azt igazoló teljes bizonyító erejű, eredeti magánokiratot a 4. melléklet szerint, amely alapján a kérelmező jogosult a tevékenységet megvalósítani, és az ingatlant a művelésben tartási kötelezettsége lejártáig használni;
+b)[^3] ha a tevékenység más személy rendelkezési jogával terhelt ingatlanon valósul vagy valósult meg, az azt igazoló teljes bizonyító erejű, eredeti magánokiratot a 4. melléklet szerint, amely alapján a kérelmező jogosult a tevékenységet megvalósítani, és az ingatlant a művelésben tartási kötelezettsége lejártáig használni;
 
 c) a tevékenység végrehajtására vonatkozó engedély másolatát;
 
 d) a hegybíró igazolását a tevékenységgel érintett terület termőhelyi kataszteri osztályáról és pontszámáról.
+
+[^2]: A 9. § (1) bekezdés a) pontja a 12/2014. (II. 21.) VM rendelet 6. § a) pontja szerint módosított szöveg.
+[^3]: A 9. § (2) bekezdés b) pontja a 12/2014. (II. 21.) VM rendelet 2. §-ával megállapított szöveg.

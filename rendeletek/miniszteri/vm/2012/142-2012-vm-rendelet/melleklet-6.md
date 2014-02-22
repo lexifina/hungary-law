@@ -1,38 +1,38 @@
 ## Ültetvényleltár
 
-## Ültetvény helye (helység, helyrajzi szám):
+| Ültetvény helye (helység, helyrajzi szám): |
 
-## Sortávolság: méter
+| Sortávolság: | méter |
 
-## Tőtávolság: méter
+| Tőtávolság: | méter |
 
-## Művelésmód:
+| Művelésmód: |
 
-|  | Tőállomány |
+| Sorok száma | Tőállomány | A felhasznált fajta neve*** |
 
-| Sorok száma | Elültetett szaporítóanyag* db | Pótolt szaporítóanyag** db | Tőkehelyek száma*** db |
+| Elültetett szaporítóanyag* db | Pótolt szaporítóanyag** db | Tőkehelyek száma*** db |
 
-| 1 |  |  |  |
+| 1 |  |  |  |  |
 
-| 2 |  |  |  |
+| 2 |  |  |  |  |
 
-| 3 |  |  |  |
+| 3 |  |  |  |  |
 
-| 4 |  |  |  |
+| 4 |  |  |  |  |
 
-| 5 |  |  |  |
+| 5 |  |  |  |  |
 
-| 6 |  |  |  |
+| 6 |  |  |  |  |
 
-| … |  |  |  |
+| ... |  |  |  |  |
 
-| Összesen: |  |  |  |
+| Összesen: |  |  |  |  |
 
 ## * Az oszlop akkor töltendő, amikor az ültetési munka művelet elszámolása történik.
 
-## ** Az oszlop akkor töltendő, amikor a két borpiaci éves végrehajtása esetén a támrendszer létesítés művelet elszámolása történik.
+## ** Az oszlop akkor töltendő, amikor a két borpiaci éves végrehajtás esetén a támrendszer létesítés művelet elszámolása történik.
 
-## *** A tőkehelyek számát minden esetben ki kell tölteni!
+## *** Az oszlop minden esetben töltendő!
 
 6. melléklet a 142/2012. (XII. 27.) VM rendelethez
 
