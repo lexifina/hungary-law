@@ -1,0 +1,1 @@
+3. § A Magyar Művészeti Akadémiáról szóló 2011. évi CIX. törvénynek (a továbbiakban: MMA törvény) a Módtv.-vel megállapított rendelkezéseit – az MMA törvény Módtv.-vel megállapított 7. § (1b) bekezdése és 28/B. § (2) bekezdése kivételével – 2014. március 1-jétől kell alkalmazni.
