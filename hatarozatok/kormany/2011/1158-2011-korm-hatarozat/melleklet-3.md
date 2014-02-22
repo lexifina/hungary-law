@@ -52,6 +52,8 @@
 
 | Nemzeti Együttműködési Alap Tanácsa és kollégiumai | EMMI |
 
+| Egészségügyi Tudományos Tanács | EMMI |
+
 3. melléklet az 1158/2011. (V. 23.) Korm. határozathoz[^9]
 
-[^9]: A 3. mellékletet az 1452/2011. (XII. 22.) Korm. határozat 13. pontja iktatta be, szövege az 1048/2013. (II. 12.) Korm. határozat 11. pontja, az 1353/2013. (VI. 21.) Korm. határozat 1. pontja, az 1460/2013. (VII. 17.) Korm. határozat 3. pontja, az 1942/2013. (XII. 13.) Korm. határozat 1. pontja, az 1944/2013. (XII. 17.) Korm. határozat 1. pontja szerint módosított szöveg.
+[^9]: A 3. mellékletet az 1452/2011. (XII. 22.) Korm. határozat 13. pontja iktatta be, szövege az 1048/2013. (II. 12.) Korm. határozat 11. pontja, az 1353/2013. (VI. 21.) Korm. határozat 1. pontja, az 1460/2013. (VII. 17.) Korm. határozat 3. pontja, az 1942/2013. (XII. 13.) Korm. határozat 1. pontja, az 1944/2013. (XII. 17.) Korm. határozat 1. pontja, az 1073/2014. (II. 19.) Korm. határozat 2. pontja szerint módosított szöveg.

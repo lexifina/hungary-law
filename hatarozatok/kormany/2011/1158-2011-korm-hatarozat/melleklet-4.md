@@ -14,8 +14,6 @@
 
 | Egészségügyi Szakképzési és Továbbképzési Tanács | szakpolitikai ok | NEFMI |
 
-| Egészségügyi Tudományos Tanács | szakpolitikai ok | NEFMI |
-
 | Szakmai Kollégium | szakpolitikai ok | NEFMI |
 
 | Országos Statisztikai Tanács | fontos politikai ok | KIM |
