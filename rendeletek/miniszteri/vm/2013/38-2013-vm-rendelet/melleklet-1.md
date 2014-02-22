@@ -1,4 +1,4 @@
-## 25. §[^3]
+## 25. §[^6] A szőlőültetvények szerkezetátalakításához és -átállításához a 2012/2013 borpiaci évtől igényelhető támogatás feltételeiről szóló 142/2012. (XII. 27.) VM rendelet és a szőlőtermelési potenciálról szóló 38/2013. (V. 24.) VM rendelet módosításáról szóló 12/2014. (II. 21.) VM rendelet (a továbbiakban: módosító rendelet) által megállapított 16. § (4) és (5) bekezdését a módosító rendelet hatálybalépésekor[^7] folyamatban lévő ügyekben is alkalmazni kell.
 
 1. melléklet a 38/2013. (V. 24.) VM rendelethez
 
@@ -14,4 +14,5 @@ II. A telepítési jogtartalék adatai:
 
 1. Az újratelepítési jog adatai (kivágás helye; termőhelyi kataszteri osztály, pontérték; kivágás ideje; kivágás-engedély száma; területnagysága; érvényességi ideje).
 
-[^3]: A 25. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 25. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 12/2014. (II. 21.) VM rendelet 10. §-a iktatta be.
+[^7]: A hatálybalépés időpontja 2014. február 22.

@@ -40,10 +40,12 @@ d) törzsültetvény telepítés, illetve fajtaváltás esetén a NÉBIH által 
 
 e) kísérleti ültetvény telepítés, illetve fajtaváltás esetén a telepítésre, illetve a fajtaváltásra irányuló szándék elfogadásáról a NÉBIH által kiállított hatósági bizonyítványt;
 
-f) telepítés esetén az illetékes fővárosi és megyei kormányhivatal növény- és talajvédelmi igazgatóságának a talajvédelmi terv jóváhagyásáról szóló jogerős, 1 évnél nem régebbi határozat másolatát, amely – saját gyökerű szaporítóanyag felhasználása esetén – tartalmazza az érintett terület talaj immunitására vonatkozó rendelkezést.
+f)[^1] telepítés esetén az illetékes fővárosi és megyei kormányhivatal növény- és talajvédelmi igazgatóságának a talajvédelmi terv jóváhagyásáról szóló jogerős határozat másolatát, amely – saját gyökerű szaporítóanyag felhasználása esetén – tartalmazza az érintett terület talaj immunitására vonatkozó rendelkezést.
 
 (5) A (4) bekezdés a) pontja szerinti nyilatkozatnak tartalmaznia kell valamennyi tulajdonos, haszonélvező, illetve az özvegyi joggal rendelkező természetes személy születési nevét, születési helyét, születési idejét, anyja nevét, lakcímét, jogi személy vagy jogi személyiséggel nem rendelkező személy esetén nevét (cégnevét), székhelyét, adószámát, a kérelmező nevét, címét, az érintett földterület vonatkozásában a helység nevét, valamint a helyrajzi számát.
 
 (6) A (4) bekezdés b) pontja szerinti nyilatkozatnak tartalmaznia kell a használatba adó természetes személy születési nevét, születési helyét, születési idejét, anyja nevét, lakcímét, jogi személy vagy jogi személyiséggel nem rendelkező személy esetén nevét (cégnevét), székhelyét, adószámát, a kérelmező nevét, címét, az érintett földterület vonatkozásában a helység nevét, valamint a helyrajzi számát.
 
 (7) A művelet engedélyezése iránti kérelemre indult eljárás az ügyfél kérelmére nem függeszthető fel.
+
+[^1]: A 4. § (4) bekezdés f) pontja a 12/2014. (II. 21.) VM rendelet 8. §-ával megállapított szöveg.

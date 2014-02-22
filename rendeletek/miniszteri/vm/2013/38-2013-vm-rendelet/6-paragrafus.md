@@ -24,8 +24,8 @@ g) az engedély időbeli hatálya.
 
 (4) Ha az illetékes fővárosi és megyei kormányhivatal a kivágást megelőző ellenőrzése során megállapítja, hogy a kivágást az engedély kiadását, megelőzően már elvégezték, akkor a kérelmezőt a Btv. 43/C. §-a szerinti mulasztási bírság megfizetésére kötelezi.
 
-(5)[^1] Az MVH által kiadott érvényes telepítési, pótlási, fajtaváltási, engedélyek – a szőlőfajta megnevezése, a hektáronkénti tőszám, a sortávolság, és a művelésmód kivételével – nem módosíthatóak.
+(5)[^2] Az MVH által kiadott érvényes telepítési, pótlási, fajtaváltási, engedélyek – a szőlőfajta megnevezése, a hektáronkénti tőszám, a sortávolság, és a művelésmód kivételével – nem módosíthatóak.
 
 (6) Az MVH által kiadott érvényes kivágási engedélyek nem módosíthatóak.
 
-[^1]: A 6. § (5) bekezdése a 61/2013. (VII. 19.) VM rendelet 14. § (1) bekezdése szerint módosított szöveg.
+[^2]: A 6. § (5) bekezdése a 61/2013. (VII. 19.) VM rendelet 14. § (1) bekezdése szerint módosított szöveg.

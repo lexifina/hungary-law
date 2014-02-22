@@ -17,3 +17,20 @@ c) az Európai Mezőgazdasági Vidékfejlesztési Alapból a fiatal mezőgazdas�
 d) az Európai Mezőgazdasági Vidékfejlesztési Alapból a fiatal mezőgazdasági termelők indulásához a 2012. évben igényelhető támogatások részletes feltételeiről szóló 57/2012. (VI. 21.) VM rendelet alapján benyújtott kérelemre kiadott támogatási határozat, vagy kizárólag forráshiányra való hivatkozásról szóló elutasító döntés másolatát,
 
 akkor részére a telepítési jogtartalékból az újratelepítési jogot térítésmentesen kell nyújtani.
+
+(4)[^4] Abban az esetben, ha a telepítési jogtartalékban lévő újratelepítési jog mennyisége nem elegendő valamennyi kérelem jóváhagyására,
+
+a) először azok a kérelmek hagyhatóak jóvá, amelyekben megjelölt terület az I. termőhelyi kataszteri osztályba tartozik;
+
+b) ha az a) pont szerinti kérelmek nem merítik ki a telepítési jogtartalékot, a II/1. termőhelyi kataszteri osztályba tartozó területekre vonatkozó kérelmek hagyhatók jóvá;
+
+c) ha az a) és b) pont szerinti kérelmek nem merítik ki a telepítési jogtartalékot, a II/2. termőhelyi kataszteri osztályba tartozó területekre vonatkozó kérelmek is jóváhagyhatók.
+
+(5)[^5] Abban az esetben, ha az adott kataszteri osztály tekintetében nem elegendő a telepítési jogtartalékban lévő újratelepítési jog mennyisége, úgy a kérelmek a következő sorrend figyelembe vételével hagyhatóak jóvá:
+
+a) először azok a kérelmek hagyhatók jóvá, amelyek magasabb termőhelyi kataszteri pontértékű területre vonatkoznak;
+
+b) ha ugyanazon termőhelyi kataszteri pontértékű területre vonatkozó kérelmek között fogy el a telepítési jogtartalék, úgy azon kérelem hagyható jóvá, amelyik beérkezésének dátuma korábbi.
+
+[^4]: A 16. § (4) bekezdését a 12/2014. (II. 21.) VM rendelet 9. §-a iktatta be.
+[^5]: A 16. § (5) bekezdését a 12/2014. (II. 21.) VM rendelet 9. §-a iktatta be.
