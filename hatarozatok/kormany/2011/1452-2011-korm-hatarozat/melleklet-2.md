@@ -72,6 +72,6 @@
 
 | A volt egyházi ingatlanok tulajdoni helyzetének rendezéséről szóló tv. szerint felállított egyeztető bizottság | 1991. évi XXXII. tv. 3. § | KIM, NFM | 2012. I. félév |
 
-2. melléklet az 1452/2011. (XII. 22.) Korm. határozathoz[^2]
+2. melléklet az 1452/2011. (XII. 22.) Korm. határozathoz[^3]
 
-[^2]: A 2. melléklet az 1370/2013. (VI. 27.) Korm. határozat 1. pontja szerint módosított szöveg.
+[^3]: A 2. melléklet az 1370/2013. (VI. 27.) Korm. határozat 1. pontja szerint módosított szöveg.

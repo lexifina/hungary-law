@@ -40,20 +40,21 @@
 
 ## Határidő: 2013. december 31.
 
-## 8. A Kormány felhívja a minisztereket, hogy a követelményrendszer-határozat 3. mellékletében felsorolt, feladatkörükbe tartozó, a fontos társadalmi okból kivételes szabályozást igénylő testületeket a működés átláthatósága, a hatékonyság, valamint – rendeltetésükből fakadó sajátosságaiktól függően – a döntésekért való tényleges felelősség és számon kérhetőség érvényre juttatása szempontjából vizsgálják felül, és a testületre vonatkozó szabályozás hatályon kívül helyezésével vagy megváltoztatásával gondoskodjanak arról, hogy a testületek ne essenek a továbbiakban a kivételként kezelendő testületek közé.
+## 8.[^1] A Kormány felhívja a minisztereket, hogy a követelményrendszer-határozat 3. mellékletében felsorolt, feladatkörükbe tartozó, a fontos társadalmi okból kivételes szabályozást igénylő testületeket a működés átláthatósága, a hatékonyság, valamint – rendeltetésükből fakadó sajátosságaiktól függően – a döntésekért való tényleges felelősség és számon kérhetőség érvényre juttatása szempontjából vizsgálják felül, és a testületre vonatkozó szabályozás hatályon kívül helyezésével vagy megváltoztatásával gondoskodjanak arról, hogy a testületek ne essenek a továbbiakban a kivételként kezelendő testületek közé.
 
 ## Felelős: az érintett miniszterek
 
 ## Határidő: 2013. december 31.
 
-## Egészségügyi Szakképzési és Továbbképzési Tanács, Egészségügyi Tudományos Tanács,
+## Egészségügyi Szakképzési és Továbbképzési Tanács,
 
 ## Szakmai Kollégium esetében a határidő 2012. december 31.
 
-## 9–14.[^1]
+## 9–14.[^2]
 
 ## 15. Ez a határozat a közzétételét követő napon lép hatályba.
 
 1. melléklet az 1452/2011. (XII. 22.) Korm. határozathoz
 
-[^1]: A 9–14. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 8. pont az 1073/2014. (II. 19.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^2]: A 9–14. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
