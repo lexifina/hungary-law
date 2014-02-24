@@ -1,0 +1,174 @@
+# A Kormány 39/2014. (II. 24.) Korm. rendelete
+
+Magyar Közlöny 2014. évi 26. szám, 2014. február 24. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/e65f26272d3423cea9bbedec468a1b1164a938c3/dokumentumok/1957b32e349a5a41f4036d878a18acb280356b76/letoltes)
+
+---
+
+A Kormány 39/2014. (II. 24.) Korm. rendelete
+a központi költségvetési szervek szociális hozzájárulási adóból érvényesített, kiadási megtakarítást jelentő
+adó kedvezményeinek befizetési rendjéről
+A Kormány a Magyarország 2014. évi központi költségvetéséről szóló 2013. évi CCXXX. törvény 76. § (1) bekezdés c) pontjában
+kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket
+rendeli el:
+1. §
+A költségvetési szerv a Magyarország 2014. évi központi költségvetéséről szóló 2013. évi CCXXX. törvény
+(a továbbiakban: Kvtv.) 10. § (8) bekezdése szerinti – a 25 év alatti és az 55 év feletti, a képzettséget nem igénylő
+munkakörben foglalkoztatott munkavállalók, valamint a gyesről visszatérő és tartós munkanélküliség után
+elhelyezkedő munkavállalók foglalkoztatásához kapcsolódóan a szociális hozzájárulási adóból érvényesített, kiadási
+megtakarítást jelentő adókedvezményt terhelő – befizetési kötelezettséget havi szinten, ezer forintra kerekítve
+a kincstár „Munkahelyvédelmi akciótervvel összefüggő befizetések központi költségvetési szervek” megnevezésű,
+10032000-01034224-00000000 számú számlájára teljesíti.
+2. §
+Nem jelent kiadási megtakarítást, ha a központi költségvetési szervet az általa foglalkoztatott személy után
+fizetendő közterhek megfizetését követően a megfizetett összeg tekintetében más költségvetési szerv felé
+elszámolási kötelezettség terheli.
+3. §
+Ha a központi költségvetési szerv befizetési kötelezettségét tévesen állapította meg, azt a következő hónap vagy
+hónapok befizetése során önrevízióval korrigálja.
+4. § (1) A központi költségvetési szerv az érvényesített adókedvezményből eredő kiadási megtakarítások befizetéséről
+az 1. mellékletben meghatározott tartalmú adatlapot a 2013. december 1-jétől 2014. június 30-áig terjedő időszak
+utáni befizetések esetében 2014. július 15-éig, míg a 2014. július 1-jétől 2014. november 30-áig terjedő időszak utáni
+befizetések esetében 2014. december 15-éig küldi meg a fejezetet irányító szervnek.
+(2) A fejezetet irányító szerv az általa irányított költségvetési fejezetbe sorolt központi költségvetési szervek által
+benyújtott adatszolgáltatást – az (1) bekezdésben meghatározott határidőt követő 8. munkanapig – a 2. melléklet
+szerinti adatlapon összesítve megküldi az államháztartásért felelős miniszter részére.
+5. §
+Ez a rendelet a kihirdetését követő napon lép hatályba, és a Kvtv. hatályvesztésével egyidejűleg hatályát veszti.
+6. §
+Hatályát veszti a központi költségvetési szervek szociális hozzájárulási adó kedvezmények igénybevételéből eredő
+kiadási megtakarításai befizetésének rendjéről szóló 48/2013. (II. 21.) Korm. rendelet.
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+1. melléklet a 39/2014. (II. 24.) Korm. rendelethez
+Költségvetési szerv
+megnevezése:
+Költségvetési szerv
+ÁHTT azonosítója:
+Kitöltő neve,
+telefonszáma:
+(főben és ezer forintban)
+létszáma
+(fő)
+havi személyi juttatása (bruttó)
+szociális hozzájárulási adó
+(alapesetben: 27%)
+érintett foglalkoztatottak
+létszáma
+összege
+érintett foglalkoztatottak
+létszáma
+összege
+érintett foglalkoztatottak
+létszáma
+összege
+érintett foglalkoztatottak
+létszáma
+összege
+érintett foglalkoztatottak
+létszáma
+összege
+1 2 3 4 5 6 7 8 9 10 11 12 13
+14=6+8+10+12
+(14=3)
+15=7+9+11+13
+1. december 0 0
+2. január 0 0
+3. február 0 0
+4. március 0 0
+5. április 0 0
+6. május 0 0
+7. június 0 0
+8. július 0 0
+9. augusztus 0 0
+10. szeptember 0 0
+11. október 0 0
+12. november 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0
+P. H. aláírás
+*Az adatszolgáltatás határnapja: a megelőző év december hótól tárgyév június hónapig terjedő időszak utáni befizetések esetében július 15-e (ekkor az 1-7. sorokat, valamint az összesítő sort kell kitölteni), míg a tárgyév július-november hónapok utáni befizetésekről december 15-e (ekkor az 8-12. sorokat, valamint
+az összesítő sort kell kitölteni).
+462/D. §-a alapján szerint érvényesített
+adókedvezmény
+Az Eat. 461. §, 462/B. §, 462/C. §, 462/D. § szerint érvényesített
+adókedvezményben érintett foglalkoztatottak
+Az Eat.
+Sor száma Hónap *
+Dátum: 2014. ……………………………………………
+INTÉZMÉNYI ADATSZOLGÁLTATÁS
+a szociális hozzájárulási adó megtakarítás befizetéséről
+461. §, 462/B. §, 462/C. §, 462/D. § szerint
+érvényesített adókedvezmény (= Összes
+megtakarítás = Befizetés)
+Összesen
+461. §-a alapján szerint érvényesített
+adókedvezmény
+462/B. §-a alapján szerint érvényesített
+adókedvezmény
+462/C. §-a alapján szerint érvényesített
+adókedvezmény
+
+2. melléklet a 39/2014. (II. 24.) Korm. rendelethez
+Fejezet száma,
+megnevezése:
+Kitöltő neve,
+telefonszáma:
+Időszak megnevezése: *
+(főben és ezer forintban)
+létszáma
+(fő)
+havi személyi juttatása (bruttó)
+szociális hozzájárulási adó
+(alapesetben: 27%)
+érintett foglalkoztatottak
+létszáma
+összege
+érintett foglalkoztatottak
+létszáma
+összege
+érintett foglalkoztatottak
+létszáma
+összege
+érintett foglalkoztatottak
+létszáma
+összege
+érintett foglalkoztatottak
+létszáma
+összege
+1 2 3 4 5 6 7 8 9 10 11 12 13
+14=6+8+10+12
+(14=3)
+15=7+9+11+13
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0
+P. H. aláírás
+FEJEZETI ADATSZOLGÁLTATÁS
+a szociális hozzájárulási adó megtakarítás befizetéséről
+Cím/alcím száma
+Cím/alcím
+megnevezése
+Az Eat. 461. §, 462/B. §, 462/C. §, 462/D. § szerint érvényesített
+adókedvezményben érintett foglalkoztatottak
+Az Eat.
+461. §-a alapján szerint érvényesített
+adókedvezmény
+462/B. §-a alapján szerint érvényesített
+adókedvezmény
+462/C. §-a alapján szerint érvényesített
+adókedvezmény
+462/D. §-a alapján szerint érvényesített
+adókedvezmény
+461. §, 462/B. §, 462/C. §, 462/D. § szerint
+érvényesített adókedvezmény (= Összes
+megtakarítás = Befizetés)
+Összesen
+Dátum: 2014. ……………………………………….
+* A megelőző év december hótól tárgyév június hónapig terjedő időszak utáni befizetések összesített adatainak megküldési határideje a július 15-ei határnapot követő 8. munkanap, míg a tárgyév júliustól novemberig terjedő időszak utáni befizetések összesített adatainak megküldési határideje a december 15-ei
+határnapot követő 8. munkanap.
