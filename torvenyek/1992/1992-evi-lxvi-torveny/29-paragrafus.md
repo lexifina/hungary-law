@@ -36,4 +36,4 @@ j) személyazonosító igazolványa okmányazonosítóját.
 
 (8) A személyazonosító igazolványt a (7) bekezdés szerinti esetben az okmányazonosító kivételével a korábbi hatósági igazolvánnyal megegyező adattartalommal kell kiadni.
 
-(9) Ha a személyazonosító igazolvány igénylésére – 14. életévét betöltött polgár kivételével – annak eltulajdonítása miatt, a (2) bekezdés a)–i) pontja szerinti adatok változatlansága mellett kerül sor, a személyazonosító igazolványt az okmányazonosító kivételével a korábbi hatósági igazolvánnyal megegyező adattartalommal kell kiadni.
+(9) Ha a személyazonosító igazolvány igénylésére – 14. életévét be nem töltött polgár kivételével – annak eltulajdonítása miatt, a (2) bekezdés a)–i) pontja szerinti adatok változatlansága mellett kerül sor, a személyazonosító igazolványt az okmányazonosító kivételével a korábbi hatósági igazolvánnyal megegyező adattartalommal kell kiadni.
