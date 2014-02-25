@@ -27,5 +27,3 @@ Az Európai Unió jogának való megfelelés
 2. Az Európai Parlament és a Tanács 1994. május 30-án kelt 94/19/EGK irányelve a betétbiztosító rendszerekről.
 
 3. Az Európai Parlament és a Tanács 1995. július 18-án kelt 95/26/EK irányelve a 77/780/EGK és a 89/646/EGK, a hitelintézetekre vonatkozó irányelve, a Tanács 93/22/EGK irányelve az értékpapírok területén érvényesülő befektetési szolgáltatásokról és az átruházható értékpapírokba kollektív alapon befektető vállalkozásokra vonatkozó 85/611/EGK irányelv módosításáról, a prudenciális felügyelet megerősítése érdekében.
-
-4. Az Európai Parlament és a Tanács 2001. április 4-én kelt 2001/24/EK irányelve a hitelintézetek reorganizációjáról és felszámolásáról.

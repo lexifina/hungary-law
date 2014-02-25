@@ -8,7 +8,7 @@ c) a részvény értékpapírkódját, sorozatát és névértékét,
 
 d) a részvény fajtáját,
 
-e) a részvényvásárlás időpontját,
+e)
 
 f) a részvényvásárlás részvénykönyvbe történő bejegyzésének időpontját,
 

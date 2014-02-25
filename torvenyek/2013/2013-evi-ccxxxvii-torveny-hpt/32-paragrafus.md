@@ -24,4 +24,4 @@ i) a 18. § (1) bekezdés g) pontjában meghatározott információátadás nem 
 
 (3) A Felügyelet a fióktelep engedélyét visszavonja, ha a székhely szerinti illetékes felügyeleti hatóság a külföldi pénzügyi intézmény engedélyét visszavonta.
 
-(4) A pénzügyi intézménynek nem minősülő gazdálkodó szervezet engedélyét a Felügyelet az (1) bekezdésben foglaltak megfelelő alkalmazásával vonhatja vissza.
+(4) A pénzügyi intézménynek nem minősülő gazdálkodó szervezet engedélyét a Felügyelet az (1) és (2) bekezdésben foglaltak megfelelő alkalmazásával vonhatja vissza.
