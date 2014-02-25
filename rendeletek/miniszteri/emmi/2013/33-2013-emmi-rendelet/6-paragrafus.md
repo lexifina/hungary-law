@@ -18,7 +18,7 @@ g) véleményezi a szakigazgatási szervek szakfelügyeleti rendszer működés�
 
 (2) A megyei kormányhivatalok népegészségügyi szakigazgatási szerve a szakfelügyeleti rendszerrel kapcsolatosan:
 
-a) a 4. § (1) bekezdése szerinti szakfelügyelővel eseti megbízási szerződést köt az adott feladat ellátására,
+a)[^5] a 4. § (1) bekezdése szerinti szakfelügyelővel eseti megbízási szerződést köt, illetve kezdeményezi az eseti megbízási szerződés megkötését az adott feladat ellátására,
 
 b) irányítja és koordinálja az általa felkért szakfelügyelő tevékenységét,
 
@@ -29,3 +29,5 @@ d) javaslatot tesz a szakfelügyelő névjegyzékbe történő felvételéhez,
 e) kidolgozza a szakfelügyelethez kapcsolódó feladatai ellátásához szükséges eljárásrendet.
 
 (3) A népegészségügyi szakigazgatási szerv a (2) bekezdés e) pontja szerinti eljárásrendet véleményezés céljából megküldi az országos tisztifőorvos részére.
+
+[^5]: A 6. § (2) bekezdés a) pontja a 11/2014. (II. 24.) EMMI rendelet 53. § b) pontja szerint módosított szöveg.

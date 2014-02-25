@@ -19,3 +19,15 @@ c) a járási (fővárosi kerületi) szakigazgatási szervnél kormánytisztvise
 ## látja el.
 
 (3) A ápolási, szakdolgozói, valamint a védőnői tevékenység szakmai felügyeletét az (1) bekezdés b) és c) pontja, valamint a (2) bekezdés b) és c) pontja szerinti szakfelügyelők az OTH szakmai, módszertani irányításával végzik.
+
+(4)[^6] A védőnői jelentések adatminőségének ellenőrzésére helyszíni ellenőrzés keretében kerül sor, amellyel kapcsolatban az országos szakfelügyelő védőnő:
+
+a) meghatározza a vizsgált adatok prioritását,
+
+b) kialakítja az ellenőrzés folyamatának módszertanát,
+
+c) szervezi a véletlenszerűen kiválasztott, az ellenőrzésbe bevont védőnők helyszíni vizsgálatát,
+
+d) a megyei és járási szakfelügyelő védőnők javaslata alapján intézkedési tervet készít.
+
+[^6]: A 11. § (4) bekezdését a 11/2014. (II. 24.) EMMI rendelet 51. §-a iktatta be.

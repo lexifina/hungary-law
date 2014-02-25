@@ -28,6 +28,8 @@
 
 | 13. | Fog- és szájbetegségek | 20 |
 
+| 13/a. | Fogszabályozás | 8 |
+
 | 14. | Foglalkozásorvostan | 20 |
 
 | 15. | Fül-orr-gégegyógyászat, csecsemő és gyermek fül-orr-gégegyógyászat | 8 |

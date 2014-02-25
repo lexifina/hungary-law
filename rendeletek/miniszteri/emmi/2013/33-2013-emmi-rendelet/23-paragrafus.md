@@ -4,6 +4,6 @@
 
 (2) Az e rendelet hatálybalépésekor folyamatban lévő szakfelügyeleti eljárásokat, vizsgálatokat a vonatkozó dokumentumok megküldésével az e rendelet hatálybalépését követő 8 napon belül át kell adni az OTH részére.
 
-(3)[^1]
+(3)[^7]
 
-[^1]: A 23. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 23. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
