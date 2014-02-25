@@ -4,6 +4,8 @@
 
 ## 2. §
 
-(1) Az elsősegélynyújtásból előírt ismeretek megszerzését — végzettségükre tekintettel — az orvostudományi egyetemeken végzett orvosok, fogorvosok, gyógyszerészek, az állatorvostudományi egyetemeken végzett állatorvosok, továbbá a védőnői, dietetikusi, mentőtiszti, gyógytornász, egészségügyi szakoktatói, diplomás ápolói és közegészségügyi felügyelői főiskolai szakon végzettek, valamint az egészségügyi szakközépiskolát és szakiskolát végzettek az iskolai végzettséget tanúsító okirattal igazolhatják.
+(1)[^1] Az elsősegélynyújtásból előírt ismeretek megszerzését – végzettségükre tekintettel – az orvostudományi egyetemeken végzett orvosok, fogorvosok, gyógyszerészek, az állatorvostudományi egyetemeken végzett állatorvosok, továbbá az egészségtudományi alapképzésekben (főiskolai) képzésekben (diplomás) ápoló, védőnő, dietetikus, gyógytornász, mentőtiszt, szülésznő, közegészségügyi felügyelő, járványügyi ellenőr, egészségügyi szakoktató, intézetvezető szakképzettséget tanúsító oklevelet szerzettek, valamint az egészségügyi iskolarendszerű és iskolarendszeren kívüli szakképzésben állam által elismert egészségügyi szakképesítéssel rendelkezők a szakképesítés megszerzését tanúsító okirattal igazolhatják.
 
 (2) Az iskolai végzettséget tanúsító okiratot a járművezetői vizsgabizottság vezetőjének kell bemutatni.
+
+[^1]: A 2. § (1) bekezdése a 11/2014. (II. 24.) EMMI rendelet 1. §-ával megállapított szöveg.
