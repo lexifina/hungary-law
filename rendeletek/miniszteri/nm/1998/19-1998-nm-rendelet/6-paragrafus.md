@@ -20,10 +20,10 @@ A kezelési, illetve szállítási időpontok módosítása, bármely okból tö
 
 (5) Amennyiben a betegszállítás rendelésének tényét ismerő személy tudomására jut, hogy a beteg a helyszínről eltávozott, vagy más módon elszállították, erről haladéktalanul értesítenie kell a betegszállítási tevékenységet végző szervezetet.
 
-(6)[^26]
+(6)[^26] A beteg használatában lévő, könnyűszerkezetű, összecsukható kerekesszéket orvos vagy az általa kijelölt egészségügyi dolgozó megrendelése alapján a betegszállító gépjárműben a beteggel együtt, megfelelő rögzítés biztosításával el kell szállítani.
 
 [^22]: A 6. § (2) bekezdése a 60/2007. (XII. 29.) EüM rendelet 6. § (1) bekezdésével megállapított szöveg.
 [^23]: A 6. § (2) bekezdés a) pontja a 6/2013. (I. 18.) EMMI rendelet 6. § (1) bekezdésével megállapított szöveg.
 [^24]: A 2002. május 23. napja előtti betegszállítási utalvány a 25/2002. (V. 14.) EüM rendelet 8. § (3) bekezdése alapján 2002. december 31-ig használható.
 [^25]: A 6. § (4) bekezdése a 60/2007. (XII. 29.) EüM rendelet 6. § (2) bekezdésével megállapított, valamint az 50/2008. (XII. 31.) EüM rendelet 8. § (4) bekezdésének c) pontja szerint módosított szöveg.
-[^26]: A 6. § (6) bekezdését a 60/2007. (XII. 29.) EüM rendelet 9. § (4) bekezdése hatályon kívül helyezte.
+[^26]: A 6. § (6) bekezdését a 60/2007. (XII. 29.) EüM rendelet 9. § (4) bekezdése hatályon kívül helyezte, újonnan a 11/2014. (II. 24.) EMMI rendelet 2. §-a iktatta be.
