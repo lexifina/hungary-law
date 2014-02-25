@@ -1,0 +1,3 @@
+## „337. § A 245/I. §-ban meghatározott kiegészítő juttatásnak a kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvénnyel megállapított szabályait 2014. január 1-jétől kell alkalmazni.”
+
+266. § Hatályát veszti a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 22/C. §-ának a látvány-csapatsport támogatásával kapcsolatos egyes törvények módosításáról szóló 2011. évi CLXXVIII. törvény 3. § (6) bekezdésével beiktatott, az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvény 51. § (9) bekezdés e) pontjával módosított (6a) bekezdése.

@@ -1,0 +1,1 @@
+88. § A beolvadó, illetve az átvevő ÁÉKBV letétkezelője köteles ellenőrizni az egyesülési tervezet 87. § a), f) és g) pontjaiban meghatározott adatait, és nyilatkozni az adatok törvényi előírásokkal és az ÁÉKBV kezelési szabályzatával való megfelelőségéről.

@@ -1,0 +1,3 @@
+81. § (1) Nyilvános befektetési alap zártkörű befektetési alappá történő alakulását követően a befektetési alap befektetési jegyei nyilvánosan nem forgalmazhatóak, a befektetési jegyek befektetőknek való felajánlására a Tpt. 14. § (1) bekezdés a)–e) pontban meghatározott korlátok között kerülhet sor.
+
+(2) A befektetési alapkezelő a zártkörű befektetési alap átalakulásáról a kezelési szabályzatnak az abban meghatározott módon történő módosításával határoz. A zártkörű befektetési alap nyilvános befektetési alappá történő átalakuláshoz a Felügyelet engedélye szükséges. Az átalakulás Felügyelet általi engedélyezésének feltétele, hogy a befektetési alapra az átalakulást követően teljesüljenek az e törvénynek a nyilvános befektetési alapokra vonatkozó feltételei.

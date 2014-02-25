@@ -1,0 +1,3 @@
+12. § (1) Abban az esetben, ha a 2. § (2) bekezdés szerinti ABAK – három hónapot meghaladóan – nem teljesíti a törvény alóli részleges felmentést megalapozó feltételeket, haladéktalanul értesíti erről a tényről a Felügyeletet, és 30 napon belül igazolja, hogy teljes körűen megfelel e törvény rendelkezéseinek.
+
+(2) Abban az esetben, ha a 2. § (2) bekezdés a) pont szerinti feltételeinek megfelelő ABAK úgy dönt, hogy e törvény egészének aláveti magát, a Bizottság 2013. május 15-i, a 2011/61/EU európai parlamenti és tanácsi irányelv önkéntes alkalmazását választó ABAK-okra vonatkozó eljárás létrehozásáról szóló 447/2013/EU végrehajtási rendeletnek megfelelően kell eljárnia.

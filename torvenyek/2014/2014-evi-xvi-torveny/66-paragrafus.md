@@ -1,0 +1,1 @@
+66. § Befektetési alap kezelését – amennyiben e törvény másként nem rendelkezik – kizárólag befektetési alapkezelési tevékenység végzésére jogosító engedéllyel rendelkező, befektetési alapkezelő végezheti.

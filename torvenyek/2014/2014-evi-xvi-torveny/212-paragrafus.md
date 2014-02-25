@@ -1,0 +1,3 @@
+## „(1) A befektetési vállalkozás, a befektetési alapkezelő, a kollektív befektetési forma, az elszámolóházi tevékenységet végző szervezet, a központi értéktár, a pénzügyi intézmény, az önkéntes kölcsönös biztosító pénztár, foglalkoztatói nyugdíjszolgáltató intézmény, a magánnyugdíjpénztár és a biztosító a tevékenység megkezdését megelőzően bejelenti a Felügyeletnek, ha értékpapír-kölcsönzést kíván végezni. A bejelentéshez mellékelni kell a KHR igazolását a tagság fennállásáról, ha az értékpapír-kölcsönzést nem referenciaadat-szolgáltatók részére végzik.”
+
+212. § A Tpt. 321. § (2) bekezdése helyébe a következő rendelkezés lép:
