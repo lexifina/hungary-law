@@ -1,4 +1,4 @@
-## 22/B. §[^9] E rendeletnek a föld használatával összefüggő egyes agrártámogatásokra vonatkozó miniszteri rendeletek módosításáról szóló 11/2014. (II. 17.) VM rendelettel [a továbbiakban: 11/2014. (II. 17.) VM rendelet] megállapított 1. § 9. pont e) alpontját a 11/2014. (II. 17.) VM rendelet hatálybalépésekor[^10] folyamatban lévő ügyekben és eljárásokban is alkalmazni kell.
+## 22/C. §[^13] E rendeletnek az Európai Mezőgazdasági Garancia Alapból, az Európai Mezőgazdasági Vidékfejlesztési Alapból, valamint a központi költségvetésből finanszírozott egyes támogatások 2013. évi igénybevételével kapcsolatos egységes eljárási szabályokról szóló 22/2013. (IV. 8.) VM rendelet módosításáról szóló 14/2014. (II. 24.) VM rendelettel [a továbbiakban: 14/2014. (II. 24.) VM rendelet] megállapított 1. § 9. pontjának f) alpontját a 14/2014. (II. 24.) VM rendelet hatálybalépésekor[^14] folyamatban lévő ügyekben és eljárásokban is alkalmazni kell. A jogszerű földhasználat igazolására felhívó végzésben meghatározott határidőt megtartottnak kell tekinteni, ha az 1. § 9. pontjának f) alpontjában foglalt teljes bizonyítóerejű magánokirat a 14/2014. (II. 24.) VM rendelet hatályba lépését követő 8 napon belül benyújtásra kerül.
 
 ## 16. Az Európai Unió jogának való megfelelés
 
@@ -12,5 +12,5 @@ c) a vidékfejlesztési támogatási intézkedésekre vonatkozó ellenőrzési e
 
 a végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^9]: A 22/B. §-t a 11/2014. (II. 17.) VM rendelet 4. § (2) bekezdése iktatta be.
-[^10]: A hatálybalépés időpontja 2014. február 18.
+[^13]: A 22/C. §-t a 14/2014. (II. 24.) VM rendelet 2. §-a iktatta be.
+[^14]: A hatálybalépés napja: 2014. február 25.
