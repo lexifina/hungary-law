@@ -58,7 +58,7 @@
 
 ## 5. Az átvállalás jogcíme
 
-3. melléklet a 343/2011. (XII. 29.) Korm. rendelethez[^69]
+3. melléklet a 343/2011. (XII. 29.) Korm. rendelethez[^87]
 
 ## A Ktdt. 3. § (6) bekezdésében meghatározott nyilatkozat mintája
 
@@ -90,4 +90,4 @@ P. H.
 
 cégszerű aláírás
 
-[^69]: A 3. melléklet az 529/2013. (XII. 30.) Korm. rendelet 12. § (4) bekezdésével megállapított szöveg.
+[^87]: A 3. melléklet az 529/2013. (XII. 30.) Korm. rendelet 12. § (4) bekezdésével megállapított szöveg.

@@ -1,10 +1,12 @@
-29. § (1) Az egyéni hulladékkezelést végző kötelezett negyedéves bevallásában a tárgyév befejezett negyedéveinek és a bevallás benyújtásáig hasznosításra történő, igazolt átvételének mennyiségeit összesítve, valamint kibocsátásainak mennyiségeit összesítve veszi figyelembe, és ennek megfelelően számolja ki a Ktdt. 3. mellékletben meghatározott eljárás szerint a lezárt negyedévek összesített kötelezettségét, amelyből a tárgyévben lezárt negyedévek után megfizetett termékdíjat levonja. Az így számított különbözet képezi az adott negyedév után megfizetendő termékdíjat.
+## 28. §[^71]
 
-(2) Amennyiben az (1) bekezdésben meghatározott számítás eredménye negatív, akkor az adott negyedévben a megfizetést nem kell teljesíteni.
+29. § (1)[^72]
+
+(2)[^73]
 
 (3) Az (1) bekezdésben meghatározott hasznosításra történő átvétel igazolásának legalább az alábbi adatokat kell tartalmaznia:
 
-a)[^57] az átadó egyéni hulladékkezelő nevét, címét, adószámát,
+a)[^74] az átadó egyéni hulladékkezelő nevét, címét, adószámát,
 
 b) az átvevő hasznosító nevét, címét, – amennyiben rendelkezésre áll – adószámát, KÜJ számát,
 
@@ -12,18 +14,22 @@ c) a termékdíjköteles termékből képződött hulladék termék- és anyagá
 
 d) keltezést és az átadó, átvevő aláírását.
 
-(4) Amennyiben a tárgyévben hulladékhasznosításra átadott mennyiség tényleges hasznosítása a hasznosítást végzők tárgyévet követő február 20-ig kiadott igazolásai alapján maradéktalanul nem teljesült, akkor az egyéni hulladékkezelést végzőnek a tárgyévi hulladékkezelési számítást el kell végezni az (1) bekezdésben meghatározott eljárás szerint, de a ténylegesen hasznosított, a 27. § (5) bekezdése szerinti mennyiség figyelembevételével. A termékdíj-különbözetet a tárgyév utolsó negyedévi bevallásának önellenőrzésével kell bevallani és megfizetni.
+(4)[^75]
 
 (5) A (4) bekezdésben meghatározott hasznosításról szóló igazolásnak legalább az alábbi adatokat kell tartalmaznia:
 
-a)[^58] az egyéni hulladékkezelő nevét, címét, adószámát,
+a)[^76] az egyéni hulladékkezelő nevét, címét, adószámát,
 
 b) a hasznosító nevét, címét, – amennyiben rendelkezésre áll – adószámát, KÜJ számát,
 
-c)[^59] a termékdíjköteles termékből képződött hulladék termék- és anyagáram megnevezését, EWC, HKT kódját, Ht. szerinti hasznosítási kódját és mennyiségét,
+c)[^77] a termékdíjköteles termékből képződött hulladék termék- és anyagáram megnevezését, EWC, HKT kódját, Ht. szerinti hasznosítási kódját és mennyiségét,
 
 d) keltezést és a hasznosító aláírását.
 
-[^57]: A 29. § (3) bekezdés a) pontja a 366/2012. (XII. 17.) Korm. rendelet 43. § (2) bekezdése szerint módosított szöveg.
-[^58]: A 29. § (5) bekezdés a) pontja a 366/2012. (XII. 17.) Korm. rendelet 43. § (2) bekezdése szerint módosított szöveg.
-[^59]: A 29. § (5) bekezdés c) pontja a 441/2012. (XII. 29.) Korm. rendelet 25. § c) pontja szerint módosított szöveg.
+[^71]: A 28. §-t a 41/2014. (II. 24.) Korm. rendelet 5. § 13. pontja hatályon kívül helyezte.
+[^72]: A 29. § (1) bekezdését a 41/2014. (II. 24.) Korm. rendelet 5. § 14. pontja hatályon kívül helyezte.
+[^73]: A 29. § (2) bekezdését a 41/2014. (II. 24.) Korm. rendelet 5. § 14. pontja hatályon kívül helyezte.
+[^74]: A 29. § (3) bekezdés a) pontja a 366/2012. (XII. 17.) Korm. rendelet 43. § (2) bekezdése szerint módosított szöveg.
+[^75]: A 29. § (4) bekezdését a 41/2014. (II. 24.) Korm. rendelet 5. § 14. pontja hatályon kívül helyezte.
+[^76]: A 29. § (5) bekezdés a) pontja a 366/2012. (XII. 17.) Korm. rendelet 43. § (2) bekezdése szerint módosított szöveg.
+[^77]: A 29. § (5) bekezdés c) pontja a 441/2012. (XII. 29.) Korm. rendelet 25. § c) pontja szerint módosított szöveg.

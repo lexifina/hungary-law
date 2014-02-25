@@ -1,8 +1,8 @@
-24. § (1)[^50]
+24. § (1)[^62]
 
-(2) A Ktdt. 25. § (2) bekezdésében meghatározott visszaigénylés alapja a tárgynegyedévben hasznosításra átadott, ha a kötelezett egyben hasznosító is, akkor az általa hasznosításra átvett használt vagy hulladékká vált kenőolaj mennyisége. Abban az esetben, ha a kötelezett saját maga hasznosítja a saját célra felhasznált termékdíjköteles kenőolajból keletkezett használt vagy hulladékká vált kenőolajat, a visszaigénylés alapja a hasznosított használt vagy hulladékká vált kenőolaj mennyisége.
+(2)[^63]
 
-(3)[^51] A Ktdt. 25. § (2) és (2a) bekezdésében meghatározott esetben a negyedévente visszaigényelt termékdíj összegének göngyölített összege nem haladhatja meg a tárgyévre vonatkozó befizetések göngyölített összegét.
+(3)[^64]
 
 (4) A Ktdt. 25. § (2) bekezdésében meghatározott visszaigénylő kötelezett nyilvántartásának tartalmaznia kell
 
@@ -18,7 +18,7 @@ e) az átvevő által adott igazolást (ha kötelezett a hasznosítást maga vé
 
 f) lakosságtól történő visszagyűjtés esetén a hasznosításra átadó nyilatkozatát az átadott mennyiség lakossági eredetéről.
 
-(5)[^52] A Ktdt. 25. § (2a) bekezdésében meghatározott visszaigénylő nyilvántartásának tartalmaznia kell
+(5)[^65] A Ktdt. 25. § (2a) bekezdésében meghatározott visszaigénylő nyilvántartásának tartalmaznia kell
 
 a) a termékdíj megfizetésének adatait,
 
@@ -32,6 +32,7 @@ e) az átvevő által adott igazolást (ha kötelezett a hasznosítást maga vé
 
 f) a hasznosítási díj megfizetésével kapcsolatban a megfizetés napját és a számla számát.
 
-[^50]: A 24. § (1) bekezdését az 529/2013. (XII. 30.) Korm. rendelet 14. § 3. pontja hatályon kívül helyezte.
-[^51]: A 24. § (3) bekezdése az 529/2013. (XII. 30.) Korm. rendelet 13. § 6. pontja szerint módosított szöveg.
-[^52]: A 24. § (5) bekezdését az 529/2013. (XII. 30.) Korm. rendelet 10. §-a iktatta be.
+[^62]: A 24. § (1) bekezdését az 529/2013. (XII. 30.) Korm. rendelet 14. § 3. pontja hatályon kívül helyezte.
+[^63]: A 24. § (2) bekezdését a 41/2014. (II. 24.) Korm. rendelet 5. § 10. pontja hatályon kívül helyezte.
+[^64]: A 24. § (3) bekezdését a 41/2014. (II. 24.) Korm. rendelet 5. § 10. pontja hatályon kívül helyezte.
+[^65]: A 24. § (5) bekezdését az 529/2013. (XII. 30.) Korm. rendelet 10. §-a iktatta be.
