@@ -28,13 +28,9 @@ g)[^91] a jogellenes, illetve káros állapot megszüntetésére – az a)–f) 
 
 (7)[^96]
 
-(8)[^97] A vízügyi hatóság a szennyvízelvezető és -tisztító mű káros szennyezése esetén
+(8)[^97]
 
-a) a bebocsátót[^98] megfelelő előtisztító berendezés hiányában vagy szakszerűtlen üzemeltetés esetén a szennyvíz előtisztításához szükséges berendezés létesítésére vagy megfelelő üzemeltetésére kötelezheti,
-
-b)[^99] a felszíni vizek minősége védelmének szabályairól szóló kormányrendelet szerint határoz a csatornabírság megállapításáról, valamint kérelemre vagy hivatalból indított eljárás eredményeként a szennyvízelvezető műbe bebocsátott szennyvíz egyedi, a jogszabályi küszöbértéknél enyhébb vagy szigorúbb küszöbértékének megállapításáról. Ennek során a közműves ivóvízellátásról és a közműves szennyvízelvezetésről szóló 38/1995. (IV. 5.) Korm. rendelet 2. számú mellékletében megadott anyagok bevezetési feltételeiről is határoz.
-
-(9)[^100] A (8) bekezdés b) pontjában érintett eljárás során bebocsátónak a jogszabályi rendelkezésnél enyhébb küszöbérték megadására irányuló kérelme csak a szolgáltató előzetes – csak megfelelő indokolással megtagadható – egyetértésével teljesíthető, szigorúbb küszöbérték megállapítását a szolgáltató is kezdeményezheti, döntésénél az eljáró hatóság a vízgazdálkodási szempontokat nem hagyhatja figyelmen kívül.
+(9)[^98]
 
 [^90]: A 18. § (1) bekezdésének bevezető szövegrésze a 120/1999. (VIII. 6.) Korm. rendelet 13. §-ának (5) bekezdésével megállapított, a 182/2009. (IX. 10.) Korm. rendelet 85. §-a szerint módosított szöveg. [A 18. § (1) bekezdésében az 527/2013. (XII. 30.) Korm. rendelet 3. § (13) bekezdés c) pontjával elrendelt módosítás, amely szerint a „felügyelőség” szövegrészek helyébe a „vízügyi hatóság” szöveg lép, nem vezethető át.]
 [^91]: A 18. § (1) bekezdésének g) pontját a 234/1996. (XII. 26.) Korm. rendelet 7. §-ának (1) bekezdése hatályon kívül helyezte, újonnan beiktatta a 120/1999. (VIII. 6.) Korm. rendelet 13. §-ának (6) bekezdése.
@@ -43,7 +39,5 @@ b)[^99] a felszíni vizek minősége védelmének szabályairól szóló kormán
 [^94]: A 18. § új (5) bekezdését a 10/2000. (II. 2.) Korm. rendelet 7. §-a iktatta be, egyidejűleg az eredeti (5)–(6) bekezdésének számozását (6)–(7) bekezdésre változtatva. A 18. § (5) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 85. §-a hatályon kívül helyezte. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^95]: A 18. § eredeti (5) bekezdésének számozását a 10/2000. (II. 2.) Korm. rendelet 7. §-a (6) bekezdésre változtatta.
 [^96]: A 18. § eredeti (6) bekezdésének számozását a 10/2000. (II. 2.) Korm. rendelet 7. §-a (7) bekezdésre változtatta. A (7) bekezdést a 228/2005. (X. 13.) Korm. rendelet 11. § h) pontja hatályon kívül helyezte.
-[^97]: A 18. § (8) bekezdését a 205/2001. (X. 26.) Korm. rendelet 11. §-a iktatta a szövegbe. [A 18. § (8) bekezdésében az 527/2013. (XII. 30.) Korm. rendelet 3. § (13) bekezdés c) pontjával elrendelt módosítás, amely szerint a „felügyelőség” szövegrészek helyébe a „vízügyi hatóság” szöveg lép, nem vezethető át.]
-[^98]: 38/1995. (IV. 5.) Korm. rendelet a közműves ivóvízellátásról és a közműves szennyvízelvezetésről (2. § 39. pont).
-[^99]: A 18. § (8) bekezdés b) pontja a 82/2011. (V. 18.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^100]: A 18. § (9) bekezdését a 205/2001. (X. 26.) Korm. rendelet 11. §-a iktatta a szövegbe.
+[^97]: A 18. § (8) bekezdését a 205/2001. (X. 26.) Korm. rendelet 11. §-a iktatta be, hatályon kívül helyezte a 42/2014. (II. 24.) Korm. rendelet 1. § (7) bekezdése.
+[^98]: A 18. § (9) bekezdését a 205/2001. (X. 26.) Korm. rendelet 11. §-a iktatta be, hatályon kívül helyezte a 42/2014. (II. 24.) Korm. rendelet 1. § (7) bekezdése.

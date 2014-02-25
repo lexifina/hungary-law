@@ -10,7 +10,7 @@ a) a vízgazdálkodási cél megvalósítására leginkább alkalmas általános
 
 b) a vízbeszerzés, vízhasználat és a vízelvezetés lehetséges helyét, módját, ezek esetleges változatait, az átlagos vagy szélső értékek meghatározásával a kivehető (felhasználható) víz mennyiségét, továbbá a használt, elvezetett víz (szennyvíz) mennyiségének és minőségének határértékeit;
 
-c)[^4] a tervezés és a megvalósítás környezet- és természetvédelmi követelményeit, valamint azt, hogy a 2. mellékletben szereplő vízimunka, a vízilétesítmény megépítése vagy a vízhasználat alapján jelentős környezeti hatások feltételezhetők-e;
+c)[^4] a tervezés és a megvalósítás környezet- és természetvédelmi követelményeit,
 
 d) azoknak a jogszabályoknak, jogszabállyal kötelezővé tett szabványoknak a megjelölését, amelyeket a tervezés során a megvalósításnál vagy a vízhasználat gyakorlásánál figyelembe kell venni.
 
@@ -24,7 +24,7 @@ d) azoknak a jogszabályoknak, jogszabállyal kötelezővé tett szabványoknak 
 
 [^2]: Az 1/A. §-t a 182/2009. (IX. 10.) Korm. rendelet 83. § (1) bekezdése iktatta be, hatályon kívül helyezte az 527/2013. (XII. 30.) Korm. rendelet 3. § (14) bekezdése.
 [^3]: A 2. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 84. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^4]: A 2. § (3) bekezdés c) pontja a 82/2011. (V. 18.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^4]: A 2. § (3) bekezdés c) pontja a 42/2014. (II. 24.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^5]: A 2. § (4) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 83. § (2) bekezdésével megállapított, az 527/2013. (XII. 30.) Korm. rendelet 3. § (13) bekezdés a) pontja szerint módosított szöveg.
 [^6]: A 2. § (5) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 84. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^7]: A 2. § (6) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 84. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

@@ -6,7 +6,7 @@
 
 (2)[^67] Az (1) bekezdésben meghatározott hatáskörben a vízügyi hatóság:
 
-a)[^68] távlati ivóvízellátásra kijelölt vízbázis esetén a kijelöléssel összefüggésben az illetékes vízügyi igazgatóság területi kirendeltsége, elvi vízjogi engedély esetén az engedélyes kérelmére a vízjogi létesítési engedélyezési eljárás során a kérelemben, illetve az engedélyben meghatározott vízilétesítmény megvalósításával, a vízjogi üzemeltetési engedélyben pedig az engedélyezett vízhasználat gyakorlásával összefüggésben határoz;
+a)[^68] távlati ivóvízellátásra kijelölt vízbázis esetén a kijelöléssel összefüggésben a működési területével érintett vízügyi igazgatóság, elvi vízjogi engedély esetén az engedélyes kérelmére a vízjogi létesítési engedélyezési eljárás során a kérelemben, illetve az engedélyben meghatározott vízilétesítmény megvalósításával, a vízjogi üzemeltetési engedélyben pedig az engedélyezett vízhasználat gyakorlásával összefüggésben határoz;
 
 b) megfelelő védelem és biztonság nélkül üzemeltetett vízilétesítmény és gyakorolt vízhasználat esetén az engedélyes kérelmére, vagy ennek hiányában hivatalból indított eljárás keretében határoz a védőidom, védőterület kijelöléséről.
 
@@ -26,7 +26,7 @@ b) a kijelölt védőterület fenntartásával járó feladatokról, ideértve a
 
 [^66]: [A 9. § (1) bekezdésében az 527/2013. (XII. 30.) Korm. rendelet 3. § (13) bekezdés c) pontjával elrendelt módosítás, amely szerint a „felügyelőség” szövegrészek helyébe a „vízügyi hatóság” szöveg lép, nem vezethető át.]
 [^67]: A 9. § (2) bekezdés nyitó szövegrésze a 340/2004. (XII. 22.) Korm. rendelet 4. § (2) bekezdésével megállapított, az 527/2013. (XII. 30.) Korm. rendelet 3. § (13) bekezdés g) pontja szerint módosított szöveg.
-[^68]: A 9. § (2) bekezdésének a) pontja a 340/2004. (XII. 22.) Korm. rendelet 4. §-ának (2) bekezdésével megállapított, a 300/2011. (XII. 22.) Korm. rendelet 26. §-a szerint módosított szöveg.
+[^68]: A 9. § (2) bekezdés a) pontja a 340/2004. (XII. 22.) Korm. rendelet 4. § (2) bekezdésével megállapított, a 300/2011. (XII. 22.) Korm. rendelet 26. §-a, a 42/2014. (II. 24.) Korm. rendelet 1. § (6) bekezdés a) pontja szerint módosított szöveg.
 [^69]: A 9. § új (4) bekezdését a 123/1997. (VII. 18.) Korm. rendelet 22. §-a (3) bekezdésének b) pontja iktatta a szövegbe, s egyidejűleg az eredeti (4) bekezdés számozását (5) bekezdésre módosította. Az eredeti (5) bekezdést hatályon kívül helyezte a 22. § (2) bekezdése. Hatályos 1997. szeptember 1. napjától.
 [^70]: A 9. § eredeti (4) bekezdésének számozását a 123/1997. (VII. 18.) Korm. rendelet 22. § (3) bekezdésének b) pontja (5) bekezdésre változtatta, a 22. § (2) bekezdése az eredeti (5) bekezdést hatályon kívül helyezte.
 [^71]: A 9. § (7) bekezdése a 123/1997. (VII. 18.) Korm. rendelet 22. §-a (3) bekezdésének c) pontjával megállapított szöveg. Hatályos 1997. szeptember 1. napjától.

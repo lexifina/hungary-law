@@ -44,33 +44,80 @@
 
 ## A környezeti hatások jelentősége szempontjából vizsgálandó tevékenységek, létesítmények
 
-1.[^144] Mezőgazdasági és egyéb, a TEÁOR alapján nem a mezőgazdasági vízrendezés alá tartozó, külterületen megvalósított vízrendezés
+1. Mezőgazdasági és egyéb, a TEÁOR alapján nem a mezőgazdasági vízrendezés alá tartozó, külterületen megvalósított vízrendezés
 
-2. Öntözőtelep
+a) síkvidéken 500 ha alatt;
 
-3. Nyílt felszínű öntöző-főcsatorna
+b) dombvidéken 300 ha alatt.
 
-4. Felszín alatti vizek igénybevétele egy vízkivételi objektumból vagy objektumcsoportból, ha a felszín alatti vizek igénybevétele eléri a felszín alatti vízkészletekbe történő beavatkozás és a vízkútfúrás szakmai követelményeiről szóló jogszabályban meghatározott, a vízföldtani napló készítésére vonatkozó követelményeket
+2. Öntözőtelep nem védett területen, nem Natura 2000 területen, nem barlang védőövezetén 300 ha alatt.
 
-5. Ivóvíz távvezeték és 200 vagy annál nagyobb névleges átmérőjű (NA) elosztóvezeték
+3. Nyílt felszínű öntöző-főcsatorna nem védett területen és nem Natura 2000 területen 2 m3/sec vízszállító kapacitás alatt.
 
-6. Felszíni vizek közötti vízátvezetés
+4. Felszín alatti vizek igénybevétele egy vízkivételi objektumból vagy objektumcsoportból, ha a felszín alatti vizek igénybevétele eléri a felszín alatti vízkészletekbe történő beavatkozás és a vízkútfúrás szakmai követelményeiről szóló miniszteri rendeletben meghatározott, a vízföldtani napló készítésére vonatkozó követelményeket
+
+a) talajvízből 1000 m3/nap alatt;
+
+b) termál karsztvízből 500 m3/nap alatt;
+
+c) rétegvízből 5000 m3/nap alatt;
+
+d) hideg karsztvízből 2500 m3/nap alatt;
+
+e) partiszűrésű vízből 5000 m3/nap alatt;
+
+f) termál rétegvízből 2000 m3/nap alatt;
+
+g) forrásból a mindenkori forráshozam 33%-át és a napi 50 m3-t meg nem haladó esetben;
+
+h) vízbázis védőövezetén az a)–g) pont 10%-át meg nem haladó esetben.
+
+5. Ivóvíz távvezeték és 200 vagy annál nagyobb névleges átmérőjű (NA) elosztóvezeték nem vízbázis védőövezetén, nem védett területen, nem Natura 2000 területen, nem barlang védőövezetén külterületen; belterületen 1 km hossz alatt.
+
+6. Felszíni vizek közötti vízátvezetés, ha az átvezetett víz nem haladja meg
+
+a) a vízadó tó közepes, illetve a vízadó tározó (minimális) üzemi vízszintjéhez tartozó víz tömegének 20%-át egy év alatt;
+
+b) a vízadó vízfolyás augusztusi 80%-os vízhozamának (Qaug80%) 20%-át;
+
+c) a befogadó tó közepes, illetve a befogadó tározó (minimális) üzemi vízszintjéhez tartozó víz tömegének 5%-át egy év alatt, vagy az ezeket tápláló vízfolyások Qaug80% vízhozamának 10%-át.
 
 7. Szennyvíztisztító telep
 
-8. Szennyvíz gyűjtőhálózat
+a) nem felszín alatti vízbázis védőövezetén, nem védett területen, nem Natura 2000 területen, nem barlang védőövezetén 10 000 lakosegyenérték alatt;
 
-9. Duzzasztómű vagy víztározó
+b) természetközeli szűrőmezős elszikkasztó rendszer esetén nem felszín alatti vízbázis védőövezetén, nem védett területen, nem Natura 2000 területen, nem barlang védőövezetén 15 ha alatt;
 
-10 Vízbesajtolás felszín alatti vízbe hidegvíztestek esetén, amennyiben az meghaladja az egy háztartást ellátó létesítményeket
+c) öntözéses szennyvízelhelyezés esetén nem felszín alatti vízbázis védőövezetén, nem védett területen, nem Natura 2000 területen, nem barlang védőövezetén 50 ha alatt.
+
+8. Szennyvízgyűjtő-hálózat
+
+a) felszín alatti vízbázis védőövezetén, védett területen, Natura 2000 területen, barlang védőövezetén 200 és 1000 lakosegyenérték között;
+
+b) nem felszín alatti vízbázis védőövezetén, nem védett területen, nem Natura 2000 területen, nem barlang védőövezetén 1000 és 2000 lakosegyenérték között.
+
+9. Duzzasztómű vagy víztározó nem vízbázis védőövezetén, nem védett területen, nem Natura 2000 területen, nem barlang védőövezetén 1 millió m3 duzzasztott, illetve tározott vízmennyiség alatt.
+
+10. Vízbesajtolás felszín alatti vízbe hidegvíztestek esetén, amennyiben az meghaladja az egy háztartást ellátó létesítményeket nem termálvizek esetén.
 
 11. Halastó vagy tórendszer
 
-12. Állóvíz- és holtágszabályozás
+a) nem védett területen és nem Natura 2000 területen 10 ha alatt;
 
-13. Folyószabályozás vagy folyócsatornázás
+b) intenzív halastó vagy tórendszer esetén nem védett területen és nem Natura 2000 területen 5 ha alatt.
+
+12. Állóvíz- és holtágszabályozás nem vízbázis védőövezetén, nem védett területen, nem Natura 2000 területen 3 ha szabályozandó vízfelület vagy 1 km partvonal hossz alatt.
+
+13. Folyószabályozás vagy folyócsatornázás nem vízbázis védőövezetén, nem védett területen, nem Natura 2000 területen.
 
 14. Vízfolyásrendezés, kivéve az eredeti vízelvezető-képesség helyreállítására irányuló, fenntartási célú iszapeltávolítást és rézsűrendezést
 
-[^143]: A 2. mellékletet a 82/2011. (V. 18.) Korm. rendelet 6. §-a iktatta be, egyidejűleg az eredeti Melléklet megjelölését 1. mellékletre változtatta.
-[^144]: A 2. melléklet 1. pontja a 308/2011. (XII. 23.) Korm. rendelet 3. §-ával megállapított szöveg.
+a) nem vízbázis védőövezetén 50 m vízfolyás-hossz alatt;
+
+b) nem védett területen, nem Natura 2000 területen, nem barlang védőövezetén 1 km vízfolyás-hossz alatt.
+
+15. Vízerőmű nem vízbázis védőövezetén, nem védett területen, nem Natura 2000 területen, nem barlang védőövezetén 5 MW villamos teljesítmény alatt, az egy háztartást ellátó létesítmények kivételével.
+
+16. Állandó árvízvédelmi mű nem vízbázis védőövezetén, nem védett területen, nem Natura 2000 területen, nem barlang védőövezetén és települési külterületen.
+
+[^143]: A 2. mellékletet a 82/2011. (V. 18.) Korm. rendelet 6. §-a iktatta be, egyidejűleg az eredeti Melléklet megjelölését 1. mellékletre változtatta. A 2. melléklet a 42/2014. (II. 24.) Korm. rendelet 1. § (5) bekezdésével megállapított szöveg.

@@ -10,7 +10,7 @@
 
 (3a)[^13] Nem szükséges a (2) bekezdés szerinti személy hozzájárulása, ha a létesítmény országos közút víztelenítését szolgálja. Ebben az esetben a vízjogi létesítési engedély idegen ingatlan birtokbavételére nem jogosít, az építéssel összefüggésben támasztható polgári jogi igényt nem dönt el és nem mentesít egyéb engedély megszerzésének kötelezettsége alól.
 
-(4)[^14] A kérelem elbírálása során vizsgálni kell azt, hogy a tervezett vízimunka, a vízilétesítmény – tekintettel az annak gyakorlásával, illetve elhelyezésével érintett és vízgazdálkodási szempontból összefüggő térségre – mennyiben felel meg a vízjogi engedély megadására vonatkozó feltételeknek, valamint ha a környezeti hatások jelentőségének vizsgálatára az elvi vízjogi engedélyezési eljárás során nem került sor és a vízimunka, a vízilétesítmény a 2. mellékletben szerepel, akkor azt is, hogy a tevékenység alapján jelentős környezeti hatások feltételezhetők-e.
+(4)[^14] A kérelem elbírálása során vizsgálni kell azt, hogy a tervezett vízimunka, a vízilétesítmény – tekintettel az annak gyakorlásával, illetve elhelyezésével érintett és vízgazdálkodási szempontból összefüggő térségre – mennyiben felel meg a vízjogi engedély megadására vonatkozó feltételeknek.
 
 (5)[^15] Vízkészlet hasznosítására vízjogi létesítési engedély csak akkor adható, ha ezzel egyidejűleg a hasznosítással összefüggésben keletkezett szennyvíz, továbbá a csapadékvíz összegyűjtéséről, elvezetéséről, kezeléséről és a környezetvédelmi előírásoknak megfelelő elhelyezéséről is gondoskodtak, illetve az erre vonatkozó műszaki megoldás a kérelem és a kiadott létesítési engedély részét képezi, továbbá, ha a kérelemben foglaltak kielégítik a külön jogszabály szerinti igénybevételi, kibocsátási és szennyezettségi határértékekre vonatkozó előírásokat.[^16]
 
@@ -43,7 +43,7 @@ c) az a) és b) pontban meghatározott létesítményeken túl minden olyan egy�
 [^11]: A 3. § (2) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
 [^12]: A 3. § új (3) bekezdését a 10/2000. (II. 2.) Korm. rendelet 2. §-ának (1) bekezdése iktatta a szövegbe, egyidejűleg az eredeti (3)–(6) bekezdés számozását (4)–(7) bekezdésre változtatva. A 3. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 84. §-a szerint módosított szöveg. [A 3. § (3) bekezdésében az 527/2013. (XII. 30.) Korm. rendelet 3. § (13) bekezdés c) pontjával elrendelt módosítás, amely szerint a „felügyelőség” szövegrészek helyébe a „vízügyi hatóság” szöveg lép, nem vezethető át.]
 [^13]: A 3. § (3a) bekezdését az 527/2013. (XII. 30.) Korm. rendelet 3. § (3) bekezdése iktatta be.
-[^14]: A 3. § eredeti (3) bekezdésének számozását a 10/2000. (II. 2.) Korm. rendelet 2. §-ának (1) bekezdése (4) bekezdésre változtatta. A 3. § (4) bekezdése a 308/2011. (XII. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^14]: A 3. § eredeti (3) bekezdésének számozását a 10/2000. (II. 2.) Korm. rendelet 2. §-ának (1) bekezdése (4) bekezdésre változtatta. A 3. § (4) bekezdése a 42/2014. (II. 24.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^15]: A 3. § eredeti (4) bekezdésének számozását a 10/2000. (II. 2.) Korm. rendelet 2. §-ának (1) bekezdése (5) bekezdésre változtatta.
 [^16]: 1995. évi LVII. törvény 14. § (4) bek.
 [^17]: A 3. § eredeti (5) bekezdésének számozását a 10/2000. (II. 2.) Korm. rendelet 2. §-ának (1) bekezdése (6) bekezdésre változtatta.
