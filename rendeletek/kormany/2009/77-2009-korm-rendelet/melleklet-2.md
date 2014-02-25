@@ -64,101 +64,101 @@
 
 | 31. | rekonstrukció | a Szentendrei Duna bp. töltés 8+321 tkm szelvényében meglévő csőzsilip, mentett oldali csatlakozó létesítményeinek átépítése | vízügyi hatósági engedély | Közép-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
-| 32. | töltéserősítés | 03.01 Baja – Margittaszigeti védelmi szakasz 0+000–7+200 tkm töltéserősítés készítése 6 m széles korona és 1:5 mentett oldali rézsű kialakításával | vízügyi hatósági engedély | Dél-dunántúli Vízügyi Hatóság | Országos Vízügyi Hatóság |
+| 32. | töltéserősítés | 03.01 Baja – Margittaszigeti védelmi szakasz 0+000–7+200 tkm töltéserősítés készítése 6 m széles korona és 1:5 mentett oldali rézsű kialakításával | vízügyi hatósági engedély | Alsó-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
-| 33. | magassági hiánypótlás, burkolat megerősítés | 03.01 Baja – Margittaszigeti védelmi szakasz 0+000–29+971 tkm | vízügyi hatósági engedély | Dél-dunántúli Vízügyi Hatóság | Országos Vízügyi Hatóság |
+| 33. | magassági hiánypótlás, burkolat megerősítés | 03.01 Baja – Margittaszigeti védelmi szakasz 0+000–29+971 tkm | vízügyi hatósági engedély | Alsó-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
-| 34. | töltéserősítés | 03.01 Baja – Margittaszigeti védelmi szakasz 11+490–12+010 tkm töltéserősítés (talajcsere, szűrőzés vagy rézsűkorrekció) | vízügyi hatósági engedély | Dél-dunántúli Vízügyi Hatóság | Országos Vízügyi Hatóság |
+| 34. | töltéserősítés | 03.01 Baja – Margittaszigeti védelmi szakasz 11+490–12+010 tkm töltéserősítés (talajcsere, szűrőzés vagy rézsűkorrekció) | vízügyi hatósági engedély | Alsó-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
-| 35. | töltéserősítés | 03.01 Baja – Margittaszigeti védelmi szakasz 18+450–18+725 tkm töltéserősítés (talajcsere, szűrőzés vagy rézsűkorrekció) | vízügyi hatósági engedély | Dél-dunántúli Vízügyi Hatóság | Országos Vízügyi Hatóság |
+| 35. | töltéserősítés | 03.01 Baja – Margittaszigeti védelmi szakasz 18+450–18+725 tkm töltéserősítés (talajcsere, szűrőzés vagy rézsűkorrekció) | vízügyi hatósági engedély | Alsó-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
-| 36. | töltéserősítés | 03.01 Baja – Margittaszigeti védelmi szakasz 29+840–29+950 tkm töltéserősítés (talajcsere, szűrőzés vagy rézsűkorrekció) | vízügyi hatósági engedély | Dél-dunántúli Vízügyi Hatóság | Országos Vízügyi Hatóság |
+| 36. | töltéserősítés | 03.01 Baja – Margittaszigeti védelmi szakasz 29+840–29+950 tkm töltéserősítés (talajcsere, szűrőzés vagy rézsűkorrekció) | vízügyi hatósági engedély | Alsó-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
-| 37. | töltéserősítés | 03.01 Baja – Margittaszigeti védelmi szakasz 32+590–32+700 tkm töltéserősítés | vízügyi hatósági engedély | Dél-dunántúli Vízügyi Hatóság | Országos Vízügyi Hatóság |
+| 37. | töltéserősítés | 03.01 Baja – Margittaszigeti védelmi szakasz 32+590–32+700 tkm töltéserősítés | vízügyi hatósági engedély | Alsó-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
-| 38. | töltéserősítés | 03.01 Baja – Margittaszigeti védelmi szakasz 37+200–37+550 tkm töltéserősítés (talajcsere, szűrőzés vagy rézsűkorrekció) | vízügyi hatósági engedély | Dél-dunántúli Vízügyi Hatóság | Országos Vízügyi Hatóság |
+| 38. | töltéserősítés | 03.01 Baja – Margittaszigeti védelmi szakasz 37+200–37+550 tkm töltéserősítés (talajcsere, szűrőzés vagy rézsűkorrekció) | vízügyi hatósági engedély | Alsó-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
-| 39. | töltéserősítés | 03.01 Baja – Margittaszigeti védelmi szakasz 38+100–39+240 tkm töltéserősítés (talajcsere, szűrőzés vagy rézsűkorrekció) | vízügyi hatósági engedély | Dél-dunántúli Vízügyi Hatóság | Országos Vízügyi Hatóság |
+| 39. | töltéserősítés | 03.01 Baja – Margittaszigeti védelmi szakasz 38+100–39+240 tkm töltéserősítés (talajcsere, szűrőzés vagy rézsűkorrekció) | vízügyi hatósági engedély | Alsó-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
-| 40. | töltéserősítés | 03.02 Baja – Foktői védelmi szakasz 0+000–0+520 tkm töltéserősítés (talajcsere, szűrőzés vagy rézsűkorrekció) | vízügyi hatósági engedély | Dél-dunántúli Vízügyi Hatóság | Országos Vízügyi Hatóság |
+| 40. | töltéserősítés | 03.02 Baja – Foktői védelmi szakasz 0+000–0+520 tkm töltéserősítés (talajcsere, szűrőzés vagy rézsűkorrekció) | vízügyi hatósági engedély | Alsó-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
-| 41. | töltéserősítés | 03.02 Baja – Foktői védelmi szakasz 0+780–1+560 töltéserősítés (talajcsere, szűrőzés vagy rézsűkorrekció) | vízügyi hatósági engedély | Dél-dunántúli Vízügyi Hatóság | Országos Vízügyi Hatóság |
+| 41. | töltéserősítés | 03.02 Baja – Foktői védelmi szakasz 0+780–1+560 töltéserősítés (talajcsere, szűrőzés vagy rézsűkorrekció) | vízügyi hatósági engedély | Alsó-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
-| 42. | rekonstrukció | 03.02 Baja – Foktői védelmi szakasz 0+955 tkm vízkivételi cső rekonstrukció | vízügyi hatósági engedély | Dél-dunántúli Vízügyi Hatóság | Országos Vízügyi Hatóság |
+| 42. | rekonstrukció | 03.02 Baja – Foktői védelmi szakasz 0+955 tkm vízkivételi cső rekonstrukció | vízügyi hatósági engedély | Alsó-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
-| 43. | rekonstrukció | 03.02 Baja – Foktői védelmi szakasz 1+022 tkm csurgalékvíz cső rekonstrukció | vízügyi hatósági engedély | Dél-dunántúli Vízügyi Hatóság | Országos Vízügyi Hatóság |
+| 43. | rekonstrukció | 03.02 Baja – Foktői védelmi szakasz 1+022 tkm csurgalékvíz cső rekonstrukció | vízügyi hatósági engedély | Alsó-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
-| 44. | rekonstrukció | 03.02 Baja – Foktői védelmi szakasz 1+296 tkm 2–0–0 szennyvízvezeték rekonstrukció | vízügyi hatósági engedély | Dél-dunántúli Vízügyi Hatóság | Országos Vízügyi Hatóság |
+| 44. | rekonstrukció | 03.02 Baja – Foktői védelmi szakasz 1+296 tkm 2–0–0 szennyvízvezeték rekonstrukció | vízügyi hatósági engedély | Alsó-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
-| 45. | rekonstrukció | 03.02 Baja – Foktői védelmi szakasz 1+478 tkm ivóvíz cső rekonstrukció | vízügyi hatósági engedély | Dél-dunántúli Vízügyi Hatóság | Országos Vízügyi Hatóság |
+| 45. | rekonstrukció | 03.02 Baja – Foktői védelmi szakasz 1+478 tkm ivóvíz cső rekonstrukció | vízügyi hatósági engedély | Alsó-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
-| 46. | rekonstrukció | 03.02 Baja – Foktői védelmi szakasz 1+532 tkm Posványosi csőátvezetés rekonstrukció | vízügyi hatósági engedély | Dél-dunántúli Vízügyi Hatóság | Országos Vízügyi Hatóság |
+| 46. | rekonstrukció | 03.02 Baja – Foktői védelmi szakasz 1+532 tkm Posványosi csőátvezetés rekonstrukció | vízügyi hatósági engedély | Alsó-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
-| 47. | rekonstrukció | 03.02 Baja – Foktői védelmi szakasz 1+540 tkm Szt. János kápolna csőátvezetés rekonstrukció | vízügyi hatósági engedély | Dél-dunántúli Vízügyi Hatóság | Országos Vízügyi Hatóság |
+| 47. | rekonstrukció | 03.02 Baja – Foktői védelmi szakasz 1+540 tkm Szt. János kápolna csőátvezetés rekonstrukció | vízügyi hatósági engedély | Alsó-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
-| 48. | rekonstrukció | 03.02 Baja – Foktői védelmi szakasz 1+912 tkm Posztógyári nyomócső rekonstrukció | vízügyi hatósági engedély | Dél-dunántúli Vízügyi Hatóság | Országos Vízügyi Hatóság |
+| 48. | rekonstrukció | 03.02 Baja – Foktői védelmi szakasz 1+912 tkm Posztógyári nyomócső rekonstrukció | vízügyi hatósági engedély | Alsó-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
-| 49. | rekonstrukció | 03.02 Baja – Foktői védelmi szakasz 2+002 tkm Posztógyári vízkivételi cső rekonstrukció | vízügyi hatósági engedély | Dél-dunántúli Vízügyi Hatóság | Országos Vízügyi Hatóság |
+| 49. | rekonstrukció | 03.02 Baja – Foktői védelmi szakasz 2+002 tkm Posztógyári vízkivételi cső rekonstrukció | vízügyi hatósági engedély | Alsó-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
-| 50. | rekonstrukció | 03.02 Baja – Foktői védelmi szakasz 2+020 tkm Posztógyári csőzsilip rekonstrukció | vízügyi hatósági engedély | Dél-dunántúli Vízügyi Hatóság | Országos Vízügyi Hatóság |
+| 50. | rekonstrukció | 03.02 Baja – Foktői védelmi szakasz 2+020 tkm Posztógyári csőzsilip rekonstrukció | vízügyi hatósági engedély | Alsó-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
-| 51. | rekonstrukció | 03.02 Baja – Foktői védelmi szakasz 2+021 tkm Posztógyári csapadékvíz elvezető cső rekonstrukció | vízügyi hatósági engedély | Dél-dunántúli Vízügyi Hatóság | Országos Vízügyi Hatóság |
+| 51. | rekonstrukció | 03.02 Baja – Foktői védelmi szakasz 2+021 tkm Posztógyári csapadékvíz elvezető cső rekonstrukció | vízügyi hatósági engedély | Alsó-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
-| 52. | rekonstrukció | 03.02 Baja – Foktői védelmi szakasz 2+464 tkm Laktanya csőzsilip rekonstrukció | vízügyi hatósági engedély | Dél-dunántúli Vízügyi Hatóság | Országos Vízügyi Hatóság |
+| 52. | rekonstrukció | 03.02 Baja – Foktői védelmi szakasz 2+464 tkm Laktanya csőzsilip rekonstrukció | vízügyi hatósági engedély | Alsó-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
-| 53. | rekonstrukció | 03.02 Baja – Foktői védelmi szakasz 2+466 tkm Gránátos u. vízátvezetés rekonstrukció | vízügyi hatósági engedély | Dél-dunántúli Vízügyi Hatóság | Országos Vízügyi Hatóság |
+| 53. | rekonstrukció | 03.02 Baja – Foktői védelmi szakasz 2+466 tkm Gránátos u. vízátvezetés rekonstrukció | vízügyi hatósági engedély | Alsó-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
-| 54. | rekonstrukció | 03.02 Baja – Foktői védelmi szakasz 2+905 tkm DVCS. torkolati szivattyú-telep rekonstrukció | vízügyi hatósági engedély | Dél-dunántúli Vízügyi Hatóság | Országos Vízügyi Hatóság |
+| 54. | rekonstrukció | 03.02 Baja – Foktői védelmi szakasz 2+905 tkm DVCS. torkolati szivattyú-telep rekonstrukció | vízügyi hatósági engedély | Alsó-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
-| 55. | rekonstrukció | 03.02 Baja – Foktői védelmi szakasz 2+956 tkm Békavári zsilip rekonstrukció | vízügyi hatósági engedély | Dél-dunántúli Vízügyi Hatóság | Országos Vízügyi Hatóság |
+| 55. | rekonstrukció | 03.02 Baja – Foktői védelmi szakasz 2+956 tkm Békavári zsilip rekonstrukció | vízügyi hatósági engedély | Alsó-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
-| 56. | rekonstrukció | 03.02 Baja – Foktői védelmi szakasz 9+942 tkm Érsekcsanádi szivattyú-telep rekonstrukció | vízügyi hatósági engedély | Dél-dunántúli Vízügyi Hatóság | Országos Vízügyi Hatóság |
+| 56. | rekonstrukció | 03.02 Baja – Foktői védelmi szakasz 9+942 tkm Érsekcsanádi szivattyú-telep rekonstrukció | vízügyi hatósági engedély | Alsó-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
-| 57. | töltéserősítés | 03.02 Baja – Foktői védelmi szakasz 9+730–10+720 tkm holtmeder keresztezés, vagy nem kellő biztonságú töltés | vízügyi hatósági engedély | Dél-dunántúli Vízügyi Hatóság | Országos Vízügyi Hatóság |
+| 57. | töltéserősítés | 03.02 Baja – Foktői védelmi szakasz 9+730–10+720 tkm holtmeder keresztezés, vagy nem kellő biztonságú töltés | vízügyi hatósági engedély | Alsó-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
-| 58. | töltéserősítés | 03.02 Baja – Foktői védelmi szakasz 11+140–11+270 tkm holtmeder keresztezés, vagy nem kellő biztonságú töltés | vízügyi hatósági engedély | Dél-dunántúli Vízügyi Hatóság | Országos Vízügyi Hatóság |
+| 58. | töltéserősítés | 03.02 Baja – Foktői védelmi szakasz 11+140–11+270 tkm holtmeder keresztezés, vagy nem kellő biztonságú töltés | vízügyi hatósági engedély | Alsó-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
-| 59. | töltéserősítés | 03.02 Baja – Foktői védelmi szakasz 11+690–12+200 tkm holtmeder keresztezés, vagy nem kellő biztonságú töltés | vízügyi hatósági engedély | Dél-dunántúli Vízügyi Hatóság | Országos Vízügyi Hatóság |
+| 59. | töltéserősítés | 03.02 Baja – Foktői védelmi szakasz 11+690–12+200 tkm holtmeder keresztezés, vagy nem kellő biztonságú töltés | vízügyi hatósági engedély | Alsó-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
-| 60. | töltéserősítés | 03.02 Baja – Foktői védelmi szakasz 15+275–15+500 tkm holtmeder keresztezés, vagy nem kellő biztonságú töltés | vízügyi hatósági engedély | Dél-dunántúli Vízügyi Hatóság | Országos Vízügyi Hatóság |
+| 60. | töltéserősítés | 03.02 Baja – Foktői védelmi szakasz 15+275–15+500 tkm holtmeder keresztezés, vagy nem kellő biztonságú töltés | vízügyi hatósági engedély | Alsó-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
-| 61. | rekonstrukció | 03.02 Baja – Foktői védelmi szakasz 18+053 tkm Vajastoroki zsilip rekonstrukció | vízügyi hatósági engedély | Dél-dunántúli Vízügyi Hatóság | Országos Vízügyi Hatóság |
+| 61. | rekonstrukció | 03.02 Baja – Foktői védelmi szakasz 18+053 tkm Vajastoroki zsilip rekonstrukció | vízügyi hatósági engedély | Alsó-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
-| 62. | magassági hiánypótlás, burkolat megerősítés | 03.02 Baja – Foktői védelmi szakasz 22+000–30+315 tkm, magasság hiány pótlás és burkolat megerősítés | vízügyi hatósági engedély | Dél-dunántúli Vízügyi Hatóság | Országos Vízügyi Hatóság |
+| 62. | magassági hiánypótlás, burkolat megerősítés | 03.02 Baja – Foktői védelmi szakasz 22+000–30+315 tkm, magasság hiány pótlás és burkolat megerősítés | vízügyi hatósági engedély | Alsó-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
-| 63. | töltéserősítés | 03.02 Baja – Foktői védelmi szakasz 24+325–24+600 tkm holtmeder keresztezés, vagy nem kellő biztonságú töltés | vízügyi hatósági engedély | Dél-dunántúli Vízügyi Hatóság | Országos Vízügyi Hatóság |
+| 63. | töltéserősítés | 03.02 Baja – Foktői védelmi szakasz 24+325–24+600 tkm holtmeder keresztezés, vagy nem kellő biztonságú töltés | vízügyi hatósági engedély | Alsó-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
-| 64. | töltéserősítés | 03.02 Baja – Foktői védelmi szakasz 27+680–27+800 tkm holtmeder keresztezés, vagy nem kellő biztonságú töltés | vízügyi hatósági engedély | Dél-dunántúli Vízügyi Hatóság | Országos Vízügyi Hatóság |
+| 64. | töltéserősítés | 03.02 Baja – Foktői védelmi szakasz 27+680–27+800 tkm holtmeder keresztezés, vagy nem kellő biztonságú töltés | vízügyi hatósági engedély | Alsó-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
-| 65. | töltéserősítés | 03.02 Baja – Foktői védelmi szakasz 29+600–29+700 tkm holtmeder keresztezés, vagy nem kellő biztonságú töltés | vízügyi hatósági engedély | Dél-dunántúli Vízügyi Hatóság | Országos Vízügyi Hatóság |
+| 65. | töltéserősítés | 03.02 Baja – Foktői védelmi szakasz 29+600–29+700 tkm holtmeder keresztezés, vagy nem kellő biztonságú töltés | vízügyi hatósági engedély | Alsó-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
-| 66. | töltéserősítés | 03.02 Baja – Foktői védelmi szakasz 37+530–37+670 tkm holtmeder keresztezés, vagy nem kellő biztonságú töltés | vízügyi hatósági engedély | Dél-dunántúli Vízügyi Hatóság | Országos Vízügyi Hatóság |
+| 66. | töltéserősítés | 03.02 Baja – Foktői védelmi szakasz 37+530–37+670 tkm holtmeder keresztezés, vagy nem kellő biztonságú töltés | vízügyi hatósági engedély | Alsó-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
-| 67. | töltéserősítés | 03.02 Baja – Foktői védelmi szakasz 38+070–38+250 tkm holtmeder keresztezés, vagy nem kellő biztonságú töltés | vízügyi hatósági engedély | Dél-dunántúli Vízügyi Hatóság | Országos Vízügyi Hatóság |
+| 67. | töltéserősítés | 03.02 Baja – Foktői védelmi szakasz 38+070–38+250 tkm holtmeder keresztezés, vagy nem kellő biztonságú töltés | vízügyi hatósági engedély | Alsó-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
-| 68. | töltéserősítés | 03.02 Baja – Foktői védelmi szakasz 38+370–38+630 tkm holtmeder keresztezés, vagy nem kellő biztonságú töltés | vízügyi hatósági engedély | Dél-dunántúli Vízügyi Hatóság | Országos Vízügyi Hatóság |
+| 68. | töltéserősítés | 03.02 Baja – Foktői védelmi szakasz 38+370–38+630 tkm holtmeder keresztezés, vagy nem kellő biztonságú töltés | vízügyi hatósági engedély | Alsó-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
-| 69. | töltéserősítés | 03.02 Baja – Foktői védelmi szakasz 38+770–38+970 tkm holtmeder keresztezés, vagy nem kellő biztonságú töltés | vízügyi hatósági engedély | Dél-dunántúli Vízügyi Hatóság | Országos Vízügyi Hatóság |
+| 69. | töltéserősítés | 03.02 Baja – Foktői védelmi szakasz 38+770–38+970 tkm holtmeder keresztezés, vagy nem kellő biztonságú töltés | vízügyi hatósági engedély | Alsó-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
-| 70. | töltéserősítés | 03.03 Uszód – Solti védelmi szakasz 42+510–42+600 tkm holtmeder keresztezés, vagy nem kellő biztonságú töltés | vízügyi hatósági engedély | Dél-dunántúli Vízügyi Hatóság | Országos Vízügyi Hatóság |
+| 70. | töltéserősítés | 03.03 Uszód – Solti védelmi szakasz 42+510–42+600 tkm holtmeder keresztezés, vagy nem kellő biztonságú töltés | vízügyi hatósági engedély | Alsó-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
-| 71. | töltéserősítés | 03.03 Uszód – Solti védelmi szakasz 42+780–42+850 tkm holtmeder keresztezés, vagy nem kellő biztonságú töltés | vízügyi hatósági engedély | Dél-dunántúli Vízügyi Hatóság | Országos Vízügyi Hatóság |
+| 71. | töltéserősítés | 03.03 Uszód – Solti védelmi szakasz 42+780–42+850 tkm holtmeder keresztezés, vagy nem kellő biztonságú töltés | vízügyi hatósági engedély | Alsó-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
-| 72. | rekonstrukció | 03.03 Uszód – Solti védelmi szakasz 42+817 tkm Foktői szivattyú-telep rekonstrukciója | vízügyi hatósági engedély | Dél-dunántúli Vízügyi Hatóság | Országos Vízügyi Hatóság |
+| 72. | rekonstrukció | 03.03 Uszód – Solti védelmi szakasz 42+817 tkm Foktői szivattyú-telep rekonstrukciója | vízügyi hatósági engedély | Alsó-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
-| 73. | rekonstrukció | 03.03 Uszód – Solti védelmi szakasz 45+005 tkm Barákai vízkivétel rekonstrukció | vízügyi hatósági engedély | Dél-dunántúli Vízügyi Hatóság | Országos Vízügyi Hatóság |
+| 73. | rekonstrukció | 03.03 Uszód – Solti védelmi szakasz 45+005 tkm Barákai vízkivétel rekonstrukció | vízügyi hatósági engedély | Alsó-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
-| 74. | töltéserősítés | 03.03 Uszód – Solti védelmi szakasz 45+050–45+550 tkm holtmeder keresztezés, vagy nem kellő biztonságú töltés | vízügyi hatósági engedély | Dél-dunántúli Vízügyi Hatóság | Országos Vízügyi Hatóság |
+| 74. | töltéserősítés | 03.03 Uszód – Solti védelmi szakasz 45+050–45+550 tkm holtmeder keresztezés, vagy nem kellő biztonságú töltés | vízügyi hatósági engedély | Alsó-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
-| 75. | töltéserősítés | 03.03 Uszód – Solti védelmi szakasz 45+925–46+850 tkm holtmeder keresztezés, vagy nem kellő biztonságú töltés | vízügyi hatósági engedély | Dél-dunántúli Vízügyi Hatóság | Országos Vízügyi Hatóság |
+| 75. | töltéserősítés | 03.03 Uszód – Solti védelmi szakasz 45+925–46+850 tkm holtmeder keresztezés, vagy nem kellő biztonságú töltés | vízügyi hatósági engedély | Alsó-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
-| 76. | töltéserősítés | 03.03 Uszód – Solti védelmi szakasz 58+425–59+275 tkm holtmeder keresztezés, vagy nem kellő biztonságú töltés | vízügyi hatósági engedély | Dél-dunántúli Vízügyi Hatóság | Országos Vízügyi Hatóság |
+| 76. | töltéserősítés | 03.03 Uszód – Solti védelmi szakasz 58+425–59+275 tkm holtmeder keresztezés, vagy nem kellő biztonságú töltés | vízügyi hatósági engedély | Alsó-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
-| 77. | töltéserősítés | 03.03 Uszód – Solti védelmi szakasz 64+600–65+300 tkm holtmeder keresztezés, vagy nem kellő biztonságú töltés | vízügyi hatósági engedély | Dél-dunántúli Vízügyi Hatóság | Országos Vízügyi Hatóság |
+| 77. | töltéserősítés | 03.03 Uszód – Solti védelmi szakasz 64+600–65+300 tkm holtmeder keresztezés, vagy nem kellő biztonságú töltés | vízügyi hatósági engedély | Alsó-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
-| 78. | töltés és burkolat megerősítés | 03.03 Uszód – Solti védelmi szakasz 65+015–79+563 tkm keresztmetszet és burkolat hiányosság mentett oldali 1:4 rézsű kialakítása, burkolat megerősítés | vízügyi hatósági engedély | Dél-dunántúli Vízügyi Hatóság | Országos Vízügyi Hatóság |
+| 78. | töltés és burkolat megerősítés | 03.03 Uszód – Solti védelmi szakasz 65+015–79+563 tkm keresztmetszet és burkolat hiányosság mentett oldali 1:4 rézsű kialakítása, burkolat megerősítés | vízügyi hatósági engedély | Alsó-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
-| 79. | rekonstrukció | 03.03 Uszód – Solti védelmi szakasz 79+539 tkm Pólyafoki zsilip rekonstrukció | vízügyi hatósági engedély | Dél-dunántúli Vízügyi Hatóság | Országos Vízügyi Hatóság |
+| 79. | rekonstrukció | 03.03 Uszód – Solti védelmi szakasz 79+539 tkm Pólyafoki zsilip rekonstrukció | vízügyi hatósági engedély | Alsó-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
 | 80. | töltéserősítés | a Duna jp. 15+600 – 16+900 tkm között mentett oldali leterhelő, szivárgó szőnyeg építése | vízügyi hatósági engedély | Közép-dunántúli Vízügyi Hatóság | Országos Vízügyi Hatóság |
 
