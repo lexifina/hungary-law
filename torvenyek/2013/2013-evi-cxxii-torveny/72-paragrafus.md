@@ -14,4 +14,6 @@ f) a földművesek és a mezőgazdasági termelőszervezetek nyilvántartásba v
 
 g) a mezőgazdasági igazgatási szerv kijelölését;
 
-h) föld végrehajtási vagy felszámolási eljárás keretében árverés útján történő értékesítésének szabályait.
+h) föld végrehajtási vagy felszámolási eljárás keretében árverés útján történő értékesítésének szabályait;
+
+i) a helyi földbizottság állásfoglalása ellen benyújtott kifogás elbírálásának részletes szabályait.
