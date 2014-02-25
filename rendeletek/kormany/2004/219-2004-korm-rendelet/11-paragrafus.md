@@ -1,6 +1,6 @@
-11. § (1)[^85] Tilos szennyező anyagnak mélyinjektálással történő elhelyezése vagy bármilyen módon történő mélybesajtolása, kivéve a (2) bekezdésben foglaltakat.
+11. § (1)[^88] Tilos szennyező anyagnak mélyinjektálással történő elhelyezése vagy bármilyen módon történő mélybesajtolása, kivéve a (2) bekezdésben foglaltakat.
 
-(2)[^86] A felszín alatti vízbe, földtani közegbe a (3) bekezdés szerinti feltételek teljesülése esetén, az olyan természeti okokból más célra tartósan alkalmatlan földtani képződménybe, amely a szennyező anyagok – beleértve a szén-dioxidot is – továbbterjedése szempontjából zártnak tekinthető szénhidrogén tároló, a felszín alatti víz minőségromlás minden jelenlegi vagy jövőbeni veszélyének kizárásával a 13. § szerint engedélyezhető:
+(2)[^89] A felszín alatti vízbe, földtani közegbe a (3) bekezdés szerinti feltételek teljesülése esetén, az olyan természeti okokból más célra tartósan alkalmatlan földtani képződménybe, amely a szennyező anyagok – beleértve a szén-dioxidot is – továbbterjedése szempontjából zártnak tekinthető szénhidrogén tároló, a felszín alatti víz minőségromlás minden jelenlegi vagy jövőbeni veszélyének kizárásával a 13. § szerint engedélyezhető:
 
 a) az olyan veszélyes anyagokat nem tartalmazó vizek visszasajtolása, amelyek a bányászati kutatáshoz, feltáráshoz, kitermeléshez tartozó tevékenységből származnak,
 
@@ -20,8 +20,8 @@ c) nem veszélyezteti a környezeti elemek – különösen a felszín alatti vi
 
 d) az a), b) és c) pontokban foglaltak teljesülése ellenőrzött.
 
-(4)[^87] Az (1)–(3) bekezdésekben, valamint a 10. §-ban foglalt előírásokból következő intézkedéseket bele kell foglalni a külön jogszabály szerinti vízgyűjtő-gazdálkodási terv intézkedési programjába.
+(4)[^90] Az (1)–(3) bekezdésekben, valamint a 10. §-ban foglalt előírásokból következő intézkedéseket bele kell foglalni a külön jogszabály szerinti vízgyűjtő-gazdálkodási terv intézkedési programjába.
 
-[^85]: A 11. § (1) bekezdése a 145/2012. (VII. 3.) Korm. rendelet 41. § (3) bekezdésével megállapított szöveg.
-[^86]: A 11. § (2) bekezdése a 145/2012. (VII. 3.) Korm. rendelet 41. § (3) bekezdésével megállapított szöveg.
-[^87]: A 11. § (4) bekezdését a 302/2008. (XII. 17.) Korm. rendelet 8. §-a iktatta be. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
+[^88]: A 11. § (1) bekezdése a 145/2012. (VII. 3.) Korm. rendelet 41. § (3) bekezdésével megállapított szöveg.
+[^89]: A 11. § (2) bekezdése a 145/2012. (VII. 3.) Korm. rendelet 41. § (3) bekezdésével megállapított szöveg.
+[^90]: A 11. § (4) bekezdését a 302/2008. (XII. 17.) Korm. rendelet 8. §-a iktatta be. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.

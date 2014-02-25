@@ -4,11 +4,11 @@
 
 ## A felszín alatti vizek védelmével kapcsolatos bírság
 
-36. § (1)[^234] A tevékenységet folytató
+36. § (1)[^237] A tevékenységet folytató
 
-a)[^235] a 10. § és a 11. § szerinti tilalmak és korlátozások megszegése,
+a)[^238] a 10. § és a 11. § szerinti tilalmak és korlátozások megszegése,
 
-b)[^236] jogerős kármentesítési beavatkozásra vonatkozó határozat végre nem hajtása,
+b)[^239] jogerős kármentesítési beavatkozásra vonatkozó határozat végre nem hajtása,
 
 c) az e rendeletben, illetve hatósági kötelezésben előírt adatszolgáltatási, bejelentési kötelezettség teljesítésének elmulasztása
 
@@ -28,9 +28,9 @@ b) az (1) bekezdés b) pont szerinti tényállás esetén a szennyezettségi, k�
 
 a) az egyes szennyező anyagokra,
 
-b)[^237] felszín alatti víz, illetve földtani közeg szennyezésére, károsodására,
+b)[^240] felszín alatti víz, illetve földtani közeg szennyezésére, károsodására,
 
-[^234]: A 36. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 357. § (9) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^235]: Alkalmazására lásd a 19/2009. (XII. 22.) KvVM rendelet 1. § d) pontját.
-[^236]: Alkalmazására lásd a 19/2009. (XII. 22.) KvVM rendelet 1. § d) pontját.
-[^237]: A 36. § (5) bekezdésének b) pontja a 92/2007. (IV. 26.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg. E módosító rendelet 9. § (3) bekezdése alapján a rendelkezést a 2007. április 30. napja után megvalósított környezetkárosításokra, valamint környezetveszélyeztető magatartásokra kell alkalmazni. Mulasztás által megvalósított környezetkárosítás vagy környezetveszélyeztetés esetén az akkor hatályos szabályokat kell alkalmazni, amikor a környezethasználó a környezetkárosodást vagy környezetveszélyeztetést megakadályozhatta volna.
+[^237]: A 36. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 357. § (9) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^238]: Alkalmazására lásd a 19/2009. (XII. 22.) KvVM rendelet 1. § d) pontját.
+[^239]: Alkalmazására lásd a 19/2009. (XII. 22.) KvVM rendelet 1. § d) pontját.
+[^240]: A 36. § (5) bekezdésének b) pontja a 92/2007. (IV. 26.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg. E módosító rendelet 9. § (3) bekezdése alapján a rendelkezést a 2007. április 30. napja után megvalósított környezetkárosításokra, valamint környezetveszélyeztető magatartásokra kell alkalmazni. Mulasztás által megvalósított környezetkárosítás vagy környezetveszélyeztetés esetén az akkor hatályos szabályokat kell alkalmazni, amikor a környezethasználó a környezetkárosodást vagy környezetveszélyeztetést megakadályozhatta volna.

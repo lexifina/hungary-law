@@ -1,4 +1,4 @@
-13. számú melléklet a 219/2004. (VII. 21.) Korm. rendelethez[^364]
+13. számú melléklet a 219/2004. (VII. 21.) Korm. rendelethez[^367]
 
 ## Az alapállapot-jelentés tartalma
 
@@ -64,4 +64,4 @@ Ha a kérelmező által a felügyelőség számára korábban benyújtott dokume
 
 A felszín alatti vizek és a földtani közeg állapotára vonatkozó adatokat és információkat térképen és ábrán (pl. vízföldtani szelvényen) is be kell mutatni, a bemutatás – a vizsgált terület és a szennyezettség változékonyságától függően – történhet egy-egy térképen és ábrán összevont formában vagy külön-külön annyi térképen és ábrán, amennyi az egyértelmű szemléltetéshez szükséges.
 
-[^364]: A 13. mellékletet a 480/2013. (XII. 17.) Korm. rendelet 16. §-a iktatta be.
+[^367]: A 13. mellékletet a 480/2013. (XII. 17.) Korm. rendelet 16. §-a iktatta be.

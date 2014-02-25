@@ -1,4 +1,4 @@
-11. számú melléklet a 219/2004. (VII. 21.) Korm. rendelethez[^362]
+11. számú melléklet a 219/2004. (VII. 21.) Korm. rendelethez[^365]
 
 ## A felszín alatti vízvédelmi bírság (FAB) tilalom megszegési tényezője (FABa), valamint vízvédelmi bírság (FAB) szennyezettségi, károsodási tényezője (FABb)
 
@@ -36,4 +36,4 @@ I.  Felszín alatti vizekbe történő közvetlen bevezetésre vonatkozó tila
 
 II. Felszín alatti vizekbe történő közvetett bevezetésre, elhelyezésre vonatkozó tilalom megszegése
 
-[^362]: A 11. számú melléklet a Magyar Közlöny 2004. évi 116. számában megjelent helyesbítésnek megfelelő szöveg. A 11. számú melléklet a 92/2007. (IV. 26.) Korm. rendelet 9. § (1) bekezdése szerint módosított szöveg.
+[^365]: A 11. számú melléklet a Magyar Közlöny 2004. évi 116. számában megjelent helyesbítésnek megfelelő szöveg. A 11. számú melléklet a 92/2007. (IV. 26.) Korm. rendelet 9. § (1) bekezdése szerint módosított szöveg.

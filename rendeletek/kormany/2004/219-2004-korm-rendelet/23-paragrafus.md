@@ -1,4 +1,4 @@
-23. §[^168] (1) A tényfeltárási munkák megkezdését a megkezdés előtt nyolc nappal, a tényfeltárás során észlelt bármilyen rendkívüli körülményt pedig haladéktalanul be kell jelenteni a vízvédelmi hatóságnak, amely erről a vízügyi igazgatóságot tájékoztatja.
+23. §[^171] (1) A tényfeltárási munkák megkezdését a megkezdés előtt nyolc nappal, a tényfeltárás során észlelt bármilyen rendkívüli körülményt pedig haladéktalanul be kell jelenteni a vízvédelmi hatóságnak, amely erről a vízügyi igazgatóságot tájékoztatja.
 
 (2) A tényfeltárás során a kötelezett kezdeményezheti a részletes kármentesítési mennyiségi kockázatfelmérés módszerének egyeztetését a vízvédelmi hatósággal, a vízügyi igazgatósággal és a szakhatóságokkal.
 
@@ -6,4 +6,4 @@
 
 (4) A tényfeltárást és annak eredményeit dokumentálni kell. A záródokumentációt a 7. számú melléklet szerint kell összeállítani, és be kell nyújtani a vízvédelmi hatósághoz.
 
-[^168]: A 23. § az 527/2013. (XII. 30.) Korm. rendelet 26. § (9) bekezdésével megállapított szöveg.
+[^171]: A 23. § az 527/2013. (XII. 30.) Korm. rendelet 26. § (9) bekezdésével megállapított szöveg.
