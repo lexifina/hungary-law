@@ -4,6 +4,8 @@
 
 1. anyagában történő hasznosítás: a hulladéknak a hulladékról szóló törvény (a továbbiakban: Ht.) szerinti anyagában történő hasznosítása;
 
+1a. alapanyagként történő felhasználás: a termékdíjköteles termék oly módon történő felhasználása, amely során a termékdíjköteles termék a technológiai eljárás szerint épül be egy másik termékbe, elveszítve az eredeti tulajdonságait;
+
 2. anyagáram: az egyes termékáramokon belül elkülönülő önálló hasznosítási kötelezettséggel rendelkező anyag, illetve termék;
 
 3. ártalmatlanítás: a hulladéknak a Ht. szerinti ártalmatlanítása;

@@ -23,3 +23,7 @@ teljesíti.
 (6) Az állami adóhatóság által az (1) bekezdés alapján a környezetvédelmi termékdíj fizetésére kötelezettekről vezetett nyilvántartás – azon adat kivételével, amelyet jogszabály más nyilvántartás részeként közhitelesnek minősít – közhiteles hatósági nyilvántartásnak minősül.
 
 (7) A kötelezett a termékdíj-kötelezettségre kiható bármely változást, annak bekövetkeztét követő 15 napon belül köteles az állami adóhatóságnak bejelenteni.
+
+(8) Az egyéni hulladékkezelést választó kötelezett az (1) és (3) bekezdésben meghatározott bejelentést termék- és anyagáramonként, tárgyévre vonatkozóan teszi meg.
+
+(9) A kötelezett az e § szerinti bejelentését az e törvény végrehajtására kiadott rendeletben meghatározott adattartalommal, elektronikus úton teljesíti az állami adóhatóság felé. A termékdíj-kötelezettségre kiható változásnak minősül, ha az adatok bármelyike módosul.

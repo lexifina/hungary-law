@@ -36,6 +36,8 @@ c) megsemmisítése, alaktalanítása, elfogyasztása;
 
 d) minden más, az a)–c) pontokban nem említett használata, ideértve a szolgáltatásnyújtás keretében történő használatot, felhasználást vagy használatba adást is, ami nem a számvitelről szóló törvényben meghatározott saját termelésű készlet létrehozását eredményezi.
 
+(3a) A termékdíjköteles termék alapanyagként történő felhasználása esetében a gyártási folyamat során keletkező gyártási selejt, hulladék nem minősül saját célú felhasználásnak. A gyártási selejt, hulladék a hulladékkezelési teljesítményben nem számolható el.
+
 (4) A külföldön előállított csomagolás esetén a csomagolószer saját célú felhasználásának minősül a csomagolás végleges elválasztása a termékről, kivéve a belföldi gazdálkodó tulajdonában lévő újrahasználható csomagolószer elválasztását.
 
 (5) Saját célú felhasználás címén keletkezik termékdíj-kötelezettség:
@@ -52,7 +54,7 @@ ad) kényszertörlési eljárás esetén a kényszertörlés időpontjában
 
 olyan termékdíjköteles terméket tart tulajdonában, amelyre a termékdíj nem került megfizetésre,
 
-b) a termékdíjköteles termék mennyiségében bekövetkezett, a törvény végrehajtási rendeletében meghatározott elszámolható hiányt meghaladó hiány és a termékdíjköteles termék megsemmisülése esetén – az elháríthatatlan külső okból bekövetkezett megsemmisülés kivételével – a megsemmisült mennyiségre.
+b) a termékdíjköteles termék éves kibocsátási mennyiségéből 0,5%-ot meghaladó mennyiségű ténylegesen bekövetkezett hiány mennyiségére, vagy a termékdíjköteles termék megsemmisülése esetén – az elháríthatatlan külső okból bekövetkezett megsemmisülés kivételével – a megsemmisült mennyiségre.
 
 (6) A termékdíjköteles termék termékdíját nem kell megfizetni, ha – e törvény végrehajtására kiadott kormányrendeletben meghatározottak szerint – a kötelezett belföldi vevője (a továbbiakban: nyilatkozó) nyilatkozik arról, hogy
 
