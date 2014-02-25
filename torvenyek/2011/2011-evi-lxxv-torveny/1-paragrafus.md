@@ -62,7 +62,11 @@ l) az állam többségi befolyása alatt álló gazdasági társaságnál munkav
 
 8. lakáshitel-szerződés: magyarországi lakóingatlanra alapított jelzálogjog – ideértve az önálló zálogjogként alapított jelzálogjogot is – fedezete mellett a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény (a továbbiakban: Hpt.) 6. § (1) bekezdése szerinti fogyasztó és pénzügyi intézmény által kötött hitel- vagy kölcsönszerződés;
 
-9. lakóingatlan: lakás céljára létesített és az ingatlan-nyilvántartásban lakóház vagy lakás megnevezéssel nyilvántartott vagy ilyenként feltüntetésre váró ingatlan – ha arra használatbavételi engedélyt adtak ki – a hozzá tartozó földrészlettel, továbbá az ingatlan-nyilvántartásban tanyaként feltüntetett lakó-, illetőleg gazdasági épület, épületcsoport és az azonos helyrajzi szám alatt hozzá tartozó föld együttese;
+9. lakóingatlan:
+
+a) lakás céljára létesített és az ingatlan-nyilvántartásban lakóház vagy lakás megnevezéssel nyilvántartott vagy ilyenként feltüntetésre váró ingatlan – ha arra használatbavételi engedélyt adtak ki – a hozzá tartozó földrészlettel, az ingatlan-nyilvántartásban tanyaként feltüntetett lakó-, illetőleg gazdasági épület, épületcsoport és az azonos helyrajzi szám alatt hozzá tartozó föld együttese, valamint
+
+b) minden olyan egyéb ingatlan, ami legalább 2011. január 1-jétől a hiteladós bejelentett lakóhelye;
 
 9a. legmagasabb árfolyam: svájci frank esetén a 270 HUF/CHF, euró esetén a 340 HUF/EUR, japán jen esetén a 3,3 HUF/JPY;
 
