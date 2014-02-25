@@ -8,7 +8,7 @@ a) részvénytársasági formában működő pénzügyi vállalkozás,
 
 b) legalább kétszázmillió forint saját tőkével rendelkezik,
 
-c) a hitelreferencia szolgáltatást kizárólagos tevékenységként végzi,
+c) a hitelreferencia-szolgáltatást főtevékenységként végzi,
 
 d) részvényeinek tulajdonosa kizárólag pénzügyi intézmény, befektetési vállalkozás vagy hitelintézetek érdek-képviseleti szerve és
 
