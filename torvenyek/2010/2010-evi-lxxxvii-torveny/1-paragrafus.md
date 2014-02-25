@@ -22,6 +22,8 @@ d) művelés alól kivett, honvédelmi célra feleslegessé nyilvánított terü
 
 (2e) E törvény alkalmazásában tanya: a mező- és erdőgazdasági földek forgalmáról szóló törvényben meghatározott tanya.
 
+(2f) Nem képezi a Nemzeti Földalap részét a vasúti pályahálózat működtetéséhez szükséges földrészlet, függetlenül attól, hogy az ingatlan-nyilvántartásban milyen művelési ággal, vagy kivett megnevezéssel van nyilvántartva.
+
 (3) A Nemzeti Földalap rendeltetése:
 
 a) működőképes családi gazdaságok kialakításának elősegítése, a szakirányú végzettséggel rendelkező agrárvállalkozók földhözjutásának támogatása;
