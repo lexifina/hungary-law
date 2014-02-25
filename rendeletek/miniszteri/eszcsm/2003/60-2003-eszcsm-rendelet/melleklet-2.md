@@ -3314,7 +3314,7 @@ Ezen kategórián belül a progresszivitás legfelsőbb fokát az egyetemi oktat
 
 Minimum ágyszám: 15
 
-3K83451_55
+4K02808M_55
 
 | Bőrgyógyászati osztály minimumfeltételei |
 
@@ -4102,4 +4102,4 @@ II. vagy III. szintű általános csecsemő- és gyermekgyógyászati osztályon
 
 A laboratórium minimumfeltétele megegyezik mind a két szintű általános csecsemő- és gyermekosztályon történő elhelyezés esetében, így maga az alvásdiagnosztikai eljárás egy szintű, aminek a progresszivitása III.
 
-[^50]: A 2. melléklet a 73/2013. (XII. 2.) EMMI rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^50]: A 2. melléklet a 73/2013. (XII. 2.) EMMI rendelet 3. § (2) bekezdésével megállapított, a 11/2014. (II. 24.) EMMI rendelet 36. §-a szerint módosított szöveg.
