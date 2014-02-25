@@ -134,10 +134,10 @@
 
 |  |  | a) | közfoglalkoztatási jogviszonyhoz szükséges szakvélemény esetén | 1900 Ft/fő/eset |
 
-|  |  | b) | a büntető ügyben kiszabott közérdekű munka végrehajtásához szükséges szakvélemény esetén | 1900 Ft/fő/eset |
+|  |  | b) | a büntetésként kiszabott közérdekű munka végrehajtásához szükséges szakvélemény esetén | 1900 Ft/fő/eset |
 
 |  |  | c) | az a) és a b) pontban nem említett esetben | 3300 Ft/fő/eset |
 
 | 16. | Járványügyi érdekből nem kötelező védőoltással történő immunizálás, kivéve a) a térítésmentes védőoltással történő immunizálást és b) – az a) pont hatálya alá nem tartozó körben is – a pneumococcus baktérium, a human papilloma vírus és az influenza megbetegedés elleni immunizálást | 2 000 Ft |
 
-[^23]: A 2. számú melléklet a 35/2013. (II. 14.) Korm. rendelet 2. §-ával megállapított, a 434/2013. (XI. 19.) Korm. rendelet 1. §-a, az 520/2013. (XII. 30.) Korm. rendelet 22. §-a szerint módosított szöveg. [Ez utóbbi módosító rendelet 1. melléklet 2. pontjával elrendelt módosítás, amely szerint a mellékletben foglalt táblázat 15. pont b) alpontjában a „büntető ügyekben kiszabott” szövegrész helyébe a „büntetésként kiszabott” szöveg lép, nem vezethető át.]
+[^23]: A 2. számú melléklet a 35/2013. (II. 14.) Korm. rendelet 2. §-ával megállapított, a 434/2013. (XI. 19.) Korm. rendelet 1. §-a, az 520/2013. (XII. 30.) Korm. rendelet 22. §-a, a 40/2014. (II. 24.) Korm. rendelet 20. §-a szerint módosított szöveg.

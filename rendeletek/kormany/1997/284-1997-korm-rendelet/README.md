@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-284-20-
 | 2013-10-25 | 1997-284-20-22.22 | 339/2013. (IX. 25.) Korm. rendelet |
 | 2013-11-20 | 1997-284-20-22.23 | 35/2013. (II. 14.) Korm. rendelet |
 | 2014-01-01 | 1997-284-20-22.24 | 520/2013. (XII. 30.) Korm. rendelet |
+| 2014-02-25 | 1997-284-20-22.25 | 35/2013. (II. 14.) Korm. rendelet |
