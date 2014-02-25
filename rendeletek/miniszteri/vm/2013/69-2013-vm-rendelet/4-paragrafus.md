@@ -20,8 +20,10 @@ c) a bemutató üzemi programok költségtervének megalapozottsága.
 
 a) első alkalommal a Bemutató Üzemi cím odaítéléséről szóló értesítés kézhezvételét követő 15. munkanap;
 
-b) 2014. év második félévére vonatkozóan 2014. január 31.
+b)[^1] 2014. év második félévére vonatkozóan 2014. március 31.
 
 (7) A NAKVI a projektterv jóváhagyásáról a benyújtást követő 30 napon belül hoz döntést. Hiányos vagy téves adatok esetén a projekttervet hiánypótlás, a költségtervet megalapozatlanság esetén módosítás céljából egy alkalommal visszaküldi, válaszadási határidő megjelölésével. A projektterv jóváhagyása történhet az abban foglalt bemutató-üzemi programok összességének, vagy egy részének jóváhagyásával.
 
 (8) A NAKVI a bemutató üzemi programok projekttervben foglaltak szerinti teljesülését a helyszínen ellenőrizheti.
+
+[^1]: A 4. § (6) bekezdés b) pontja a 13/2014. (II. 24.) VM rendelet 31. §-ával megállapított szöveg.
