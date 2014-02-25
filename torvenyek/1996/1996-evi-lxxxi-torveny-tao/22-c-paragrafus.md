@@ -180,7 +180,7 @@ d) a jelenértékén legalább 5 millió forint értékű tárgyi eszköz felúj
 
 e) a jelenértékén legalább 10 millió forint értékű tárgyi eszköz beruházás, felújítás esetén a (3) bekezdésben meghatározott sportfejlesztési program benyújtásával egyidejűleg írásban nyilatkozik a sportpolitikáért felelős miniszter vagy – az (1) bekezdés b)-d) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelme esetén – a látvány-csapatsport országos sportági szakszövetsége felé arról, hogy a sportcélú ingatlanfejlesztésre nyílt pályázatot ír ki és a pályázati eljárás eredménye alapján nyertes személlyel köt szerződést a tárgyi eszköz beruházás, felújítás megvalósítására.
 
-(6a) A (6) bekezdés e) pontjában foglaltakat a támogatásból megvalósuló, építési beruházással járó, sportcélú ingatlanra irányuló tárgyi eszköz beruházás, felújítás esetén nem kell alkalmazni, ha a támogatási kérelem tárgya sportcélú ingatlanra irányuló, nem a támogatásból finanszírozott, már megkezdett építési beruházással járó tárgyi eszköz beruházás, felújítás, és ezen sportcélú ingatlanfejlesztést közbeszerzési eljárás eredményeként nyertes ajánlattevő végzi.
+(6a)
 
 (6a) A (6) bekezdés a) és d) pontjában a Magyar Állam javára szóló jelzálogjog bejegyzésre vonatkozó rendelkezést nem kell alkalmazni, ha a (6) bekezdés a) vagy d) pontja szerinti, építési engedélyhez kötött tárgyi eszköz beruházás, felújítás állami tulajdonban álló sportcélú ingatlanra irányul.
 
