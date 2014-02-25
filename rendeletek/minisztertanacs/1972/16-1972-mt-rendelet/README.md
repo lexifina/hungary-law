@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1972-16-20-6
 | --- | --- | --- |
 | 2008-05-16 | 1972-16-20-65.8 | 16/1972. (IV. 29.) MT rendelet |
 | 2011-05-01 | 1972-16-20-65.9 | 59/2011. (IV. 12.) Korm. rendelet |
+| 2014-02-25 | 1972-16-20-65.10 | 84/1994. (XII. 29.) Korm. rendelet |
