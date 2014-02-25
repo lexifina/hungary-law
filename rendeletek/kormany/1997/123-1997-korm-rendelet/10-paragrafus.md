@@ -1,7 +1,7 @@
-## 9. §[^10] A határozatot megalapozó dokumentációt a létesítés során szerzett információk, adatok, továbbá az üzemeltetési engedélyben foglaltak alapján, de legkésőbb az üzemeltetési engedély kiadását követő tizedik évben az engedélyesnek felül kell vizsgálni, és a felülvizsgálat eredményét a vízügyi igazgatóságnak meg kell küldeni. A felülvizsgálat eredményétől függően a vízügyi igazgatóság véleménye alapján a vízügyi hatóságnak intézkedni kell a kijelölt védőterület, védőidom, védősáv módosításáról.
+## 9. §[^10] A védőidomot, védőterületet és a kijelölést megalapozó dokumentációt – a 8. § (4) bekezdés l) pontja szerinti felülvizsgálattól függetlenül – az üzemeltetési engedély kiadását követő tizedik évben az engedélyesnek felül kell vizsgálni, és a felülvizsgálat eredményét a vízügyi hatóságnak meg kell küldeni. A felülvizsgálat eredményétől függően, a vízügyi igazgatóság véleményének kikérését követően a vízügyi hatóság dönt a kijelölt védőidom, védőterület esetleges módosításáról.
 
 ## III.
 
 ## A védőidommal, a védőterülettel, a védősávval érintett ingatlanok használata és a védelem érdekében szükséges használati korlátozások
 
-[^10]: A 9. § az 527/2013. (XII. 30.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^10]: A 9. § a 42/2014. (II. 24.) Korm. rendelet 2. §-ával megállapított szöveg.
