@@ -1,0 +1,1 @@
+27/A. § Ha törvény vagy kormányrendelet rendelkezése alapján valamely közigazgatási hatósági eljárás lefolytatására az agrárkamara jogosult, akkor – törvény eltérő rendelkezése hiányában – első fokon az agrárkamara megyei ügyintéző szervezete, másodfokon az agrárkamara országos ügyintéző szervezete jár el.
