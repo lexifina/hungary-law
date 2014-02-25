@@ -37,3 +37,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2008-40-00-00
 | 2013-11-22 | 2013. évi CLXXXVIII. törvény | 2008-40-00-00.35 |
 | 2013-12-26 | 2013. évi CCXXVII. törvény | 2008-40-00-00.36 |
 | 2014-01-01 | 2013. évi CCXXVII. törvény | 2008-40-00-00.37 |
+| 2014-02-25 | 2014. évi XVI. törvény | 2008-40-00-00.38 |
