@@ -23,3 +23,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-17-00-00
 | 2013-12-31 | 2013. évi CCL. törvény | 2007-17-00-00.24 |
 | 2014-01-01 | 2013. évi CCLI. törvény | 2007-17-00-00.25 |
 | 2014-01-07 | 2013. évi CCXLVI. törvény | 2007-17-00-00.26 |
+| 2014-02-25 | 2014. évi XVI. törvény | 2007-17-00-00.27 |
