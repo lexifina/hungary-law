@@ -1,0 +1,1 @@
+82. § Az egyes közjegyzői nemperes eljárásokról szóló 2008. évi XLV. törvény 36/K. §-a a következő (10) bekezdéssel egészül ki:

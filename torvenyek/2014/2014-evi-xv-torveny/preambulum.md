@@ -1,0 +1,1 @@
+A nemzetközi versenyképesség fejlesztése, a bizalmi vagyonkezelői tevékenység és a bizalmi vagyonkezelési jogviszonyok átláthatóságának biztosítása, a közpénzek, a vagyonrendelők, a kedvezményezettek, hitelezőik és egyéb harmadik személyek védelme, valamint a szektor hatékony ellenőrzése érdekében az Országgyűlés a következő törvényt alkotja:
