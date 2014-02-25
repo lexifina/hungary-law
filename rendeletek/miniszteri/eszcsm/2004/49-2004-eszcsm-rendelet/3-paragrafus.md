@@ -48,6 +48,12 @@ ge) tájékoztatás az állami, civil karitatív családtámogatási formákról
 
 gf)[^10] tájékoztatás a gyermek jogairól, az egészségügyi ellátáshoz való jogairól és a törvényes képviselő ez irányú feladatairól, kötelezettségeiről,
 
+gg)[^11] a gyermekvédelemmel kapcsolatos tevékenységéről évente írásos tájékoztató készítése az illetékes gyermekjóléti szolgáltató számára,
+
+gh)[^12] részvétel a gyermekjóléti szolgálat éves tanácskozásán, eseti megbeszélésein,
+
+gi)[^13] szükség esetén, felkérésre – illetékességi körén kívüli körzetben – eseti gondnokság ellátása;
+
 h) az egyéni és közösségi egészségfejlesztési, egészségvédelmi programok tervezésében, szervezésében és megvalósításában részvétel.
 
 [^3]: A 3. § nyitó szövegrésze a 19/2010. (IV. 22.) EüM rendelet 6. §-a szerint módosított szöveg.
@@ -58,3 +64,6 @@ h) az egyéni és közösségi egészségfejlesztési, egészségvédelmi progra
 [^8]: A 3. § g) pontjának gb) alpontja a 19/2009. (VI. 18.) EüM rendelet 6. § (3) bekezdésével megállapított szöveg.
 [^9]: A 3. § g) pontjának gc) alpontja a 19/2009. (VI. 18.) EüM rendelet 6. § (3) bekezdésével megállapított szöveg.
 [^10]: A 3. § g) pontjának gf) alpontját a 19/2009. (VI. 18.) EüM rendelet 6. § (4) bekezdése iktatta be.
+[^11]: A 3. § g) pont gg) alpontját a 11/2014. (II. 24.) EMMI rendelet 39. §-a iktatta be.
+[^12]: A 3. § g) pont gh) alpontját a 11/2014. (II. 24.) EMMI rendelet 39. §-a iktatta be.
+[^13]: A 3. § g) pont gi) alpontját a 11/2014. (II. 24.) EMMI rendelet 39. §-a iktatta be.

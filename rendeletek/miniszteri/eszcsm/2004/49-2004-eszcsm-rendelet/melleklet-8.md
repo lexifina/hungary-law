@@ -1,4 +1,4 @@
-## A védőnői dokumentumok jegyzéke[^20]
+## A védőnői dokumentumok jegyzéke[^24]
 
 ## – Védőnői családgondozási törzslap
 
@@ -52,7 +52,7 @@
 
 ## * A 2009. szeptember 1-je után született gyermekek esetében.
 
-8. számú melléklet a 49/2004. (V. 21.) ESZCSM rendelethez[^21]
+8. számú melléklet a 49/2004. (V. 21.) ESZCSM rendelethez[^25]
 
 A védőnői családgondozási törzslap tartalmi követelményei
 
@@ -100,5 +100,5 @@ A védőnői eseti nyilvántartás tartalmazza:
 
 = a védőnői ellátás okát, időpontját, ellátás módját és a védőnő további intézkedését.
 
-[^20]: A nyomtatványok számítógépen is vezethetők. A 7. számú melléklet címe a 28/2013. (IV. 5.) EMMI rendelet 4. §-a szerint módosított szöveg.
-[^21]: A 8. számú melléklet a 19/2009. (VI. 18.) EüM rendelet 9. § (6) bekezdése szerint módosított szöveg.
+[^24]: A nyomtatványok számítógépen is vezethetők. A 7. számú melléklet címe a 28/2013. (IV. 5.) EMMI rendelet 4. §-a szerint módosított szöveg.
+[^25]: A 8. számú melléklet a 19/2009. (VI. 18.) EüM rendelet 9. § (6) bekezdése szerint módosított szöveg.
