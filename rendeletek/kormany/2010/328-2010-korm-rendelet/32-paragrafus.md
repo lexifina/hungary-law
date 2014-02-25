@@ -106,7 +106,7 @@ f) az erdő elsődleges rendeltetése megváltoztatására vonatkozó eljárásb
 
 g) cserjék kivágásának engedélyezése iránti eljárásban,
 
-ha a tevékenység megkezdéséhez környezetvédelmi engedély vagy egységes környezethasználati engedély nem szükséges – annak elbírálása kérdésében, hogy a tevékenység, a beruházás vagy a terv a partvédelem és a vízvédelem jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e –, első fokú eljárásban a vízügyi hatóságot szakhatóságként jelöli ki.
+ha a tevékenység megkezdéséhez környezetvédelmi engedély vagy egységes környezethasználati engedély nem szükséges – annak elbírálása kérdésében, hogy a tevékenység, a beruházás vagy a terv a partvédelem és a vízvédelem jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e –, első fokú eljárásban partvédelmi rendeltetésű erdő esetében a területi vízügyi hatóságot, vízvédelmi rendeltetésű erdő esetében a környezetvédelmi és természetvédelmi felügyelőséget szakhatóságként jelöli ki.
 
 [^89]: A 32. § (1) bekezdés nyitó szövegrésze a 24/2012. (II. 29.) Korm. rendelet 20. § (1) bekezdésével megállapított, a 394/2012. (XII. 20.) Korm. rendelet 43. §-a, a 107/2013. (IV. 5.) Korm. rendelet 12. §-a szerint módosított szöveg.
 [^90]: A 32. § (2) bekezdése a 24/2012. (II. 29.) Korm. rendelet 20. § (2) bekezdésével megállapított, záró szövegrésze a 176/2013. (VI. 3.) Korm. rendelet 10. § (2) bekezdése, az 527/2013. (XII. 30.) Korm. rendelet 97. § a) pontja szerint módosított szöveg.
@@ -116,5 +116,5 @@ ha a tevékenység megkezdéséhez környezetvédelmi engedély vagy egységes k
 [^94]: A 32. § (5) bekezdés záró szövegrésze a 82/2011. (V. 18.) Korm. rendelet 67. § (2) bekezdése, az 527/2013. (XII. 30.) Korm. rendelet 97. § a) pontja szerint módosított szöveg.
 [^95]: A 32. § (6) bekezdés záró szövegrésze az 527/2013. (XII. 30.) Korm. rendelet 97. § a) pontja szerint módosított szöveg.
 [^96]: A 32. § (6) bekezdés c) pontja az 527/2013. (XII. 30.) Korm. rendelet 97. § d) pontja szerint módosított szöveg.
-[^97]: A 32. § (7) bekezdés záró szövegrésze az 527/2013. (XII. 30.) Korm. rendelet 97. § c) pontja szerint módosított szöveg.
+[^97]: A 32. § (7) bekezdés záró szövegrésze az 527/2013. (XII. 30.) Korm. rendelet 97. § c) pontja, a 42/2014. (II. 24.) Korm. rendelet 13. § (3) bekezdése szerint módosított szöveg.
 [^98]: A 32. § (7) bekezdés e) pontja az 527/2013. (XII. 30.) Korm. rendelet 97. § d) pontja szerint módosított szöveg.
