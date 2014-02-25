@@ -12,6 +12,8 @@ c) a döntés rendelkező részét, ide nem értve jogerős döntés esetén a j
 
 (3) Az MNB döntését nem teszi közzé, ha a közzététel a pénzügyi közvetítőrendszer stabil, zavartalan működését veszélyeztetné.
 
+(3a) Az (1) bekezdésében meghatározott közzétételi kötelezettség a fogyasztóvédelmi ellenőrzési eljárásban hozott döntések közül kizárólag a hivatalból indított fogyasztóvédelmi eljárásokban hozott, intézkedést tartalmazó határozatokra, a piacfelügyeleti eljárásban hozott döntések közül kizárólag az intézkedést tartalmazó határozatokra terjed ki.
+
 (4) Az MNB anonim módon teszi közzé a Hpt.-ben és Bszt.-ben meghatározott intézkedésről vagy kivételes intézkedésről, valamint a pénzbírságról hozott határozatát, ha a nyilvánosságra hozatal
 
 a) aránytalan a természetes személy által elkövetett jogsértéshez képest,

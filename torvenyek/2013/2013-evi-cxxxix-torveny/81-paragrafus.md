@@ -14,7 +14,7 @@ e) az e törvény szerinti pénzügyi fogyasztói jogvitával kapcsolatos kötel
 
 betartását, és – ide nem értve a szerződés létrejöttének, érvényességének, joghatásainak és megszűnésének, továbbá a szerződésszegésnek és annak joghatásainak megállapítását – eljár e rendelkezések megsértése esetén (a továbbiakban: fogyasztóvédelmi eljárás).
 
-(2) E törvény alkalmazásában fogyasztó a Polgári Törvénykönyvről szóló törvényben meghatározott fogyasztó.
+(2) E törvény alkalmazásában fogyasztó az önálló foglalkozásán és gazdasági tevékenységén kívül eső célok érdekében eljáró természetes személy.
 
 (3) A fogyasztóvédelmi eljárást a fogyasztó kizárólag azt követően kezdeményezheti, miután a 39. §-ban meghatározott törvények hatálya alá tartozó személynél vagy szervezetnél, e személy vagy szervezet által meghatározott és közzétett elérhetőségein keresztül – személyesen, telefonon, postai úton, telefaxon, az erre a célra üzemeltetett informatikai rendszeren keresztül – azonosítására alkalmas tartalommal, szóban vagy írásban a személy vagy szervezet szolgáltatásával vagy eljárásával kapcsolatos panaszát már korábban előterjesztette, azonban
 

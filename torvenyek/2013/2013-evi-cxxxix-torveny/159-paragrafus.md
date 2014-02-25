@@ -20,6 +20,8 @@ i) külföldi jegybank, valamint a 4. § (1), (4), (5) és (7) bekezdésében me
 
 részére forintban és külföldi pénznemben bankszámlát vezetni.
 
+(1a) Az MNB jogosult munkavállalói részére forintban és külföldi pénznemben fizetési számlát vezetni azzal, hogy ezen bankszámla terhére a munkavállaló kizárólag fizetési számláról történő készpénzkifizetésről rendelkezhet.
+
 (2) Az MNB a 4. § (1)–(5) és (7) bekezdésében foglalt feladatai ellátása során jogosult forintban, külföldi pénznemben és nemesfémekkel a pénzügyi és kiegészítő pénzügyi szolgáltatási tevékenység körébe tartozó bármely egyéb műveletet végezni.
 
 (3) Az MNB a 4. § (1) és (7) bekezdésében meghatározott feladata ellátása során a Bszt. szerinti befektetési szolgáltatási tevékenységet kiegészítő szolgáltatásként pénzügyi eszköz letéti őrzését és nyilvántartását láthatja el, ehhez kapcsolódóan ügyfélszámlát vezethet, továbbá letétet kezelhet és ehhez kapcsolódóan értékpapírszámlát vezethet, valamint nyomdai úton előállított értékpapír esetén azt nyilvántarthatja és ügyfélszámlát vezethet.

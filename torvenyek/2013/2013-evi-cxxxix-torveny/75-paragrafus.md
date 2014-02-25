@@ -38,7 +38,7 @@ e) a szabályszegéssel vagy a mulasztással előidézett kockázatra, a kár m�
 
 f) a felelős személyek által az MNB-vel kapcsolatban tanúsított együttműködésre,
 
-g) az intézkedéssel érintett személy jó-, illetve rosszhiszeműségére, az általa a szabályszegéssel vagy a mulasztással elért vagyoni előnyre,
+g) az intézkedéssel érintett személy jó- vagy rosszhiszeműségére, az általa a szabályszegéssel vagy a mulasztással elért vagyoni előnyre és az elkerült vagyoni hátrányra,
 
 h) az intézkedés alapjául szolgáló adatok, tények, információk eltitkolására, illetve annak szándékára, valamint
 

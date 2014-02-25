@@ -1,4 +1,4 @@
-169. § (1) A határidőben meg nem fizetett felügyeleti díj összegét az MNB elnöke határozatában állapítja meg és kötelezi a díjfizetésre kötelezettet annak megfizetésére.
+169. § (1) Az MNB által jogerősen megállapított és meg nem fizetett felügyeleti díjat, valamint a felügyeleti díj meg nem fizetése vagy késedelmes teljesítése esetén felszámított késedelmi pótlékot az MNB megkeresésére az állami adóhatóság adók módjára hajtja be. Az MNB az állami adóhatóság megkereséséhez a jogerős határozat egy példányát köteles csatolni.
 
 (2) A felügyeleti díj meg nem fizetése vagy késedelmes teljesítése esetén a 168. §-ban meghatározott esedékesség napjától a teljesítés napjáig késedelmi pótlékot kell fizetni.
 

@@ -44,6 +44,10 @@ c) az MNB elnöke által kijelölt vezetők,
 
 (8) A Pénzügyi Stabilitási Tanács ülésén a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter képviselője, valamint az MNB elnöke által felkért külső meghívottak tárgyalási joggal vesznek részt.
 
-(9) A Pénzügyi Stabilitási Tanács határozatképes, ha tagjainak többsége jelen van. A Pénzügyi Stabilitási Tanács határozatait a jelenlévők egyszerű szótöbbségével hozza, szavazategyenlőség esetén az elnök szavazata dönt.
+(9) A Pénzügyi Stabilitási Tanács határozatképes, ha tagjainak többsége jelen van. A Pénzügyi Stabilitási Tanács döntéseit a jelenlévő tagok egyszerű szótöbbségével hozza, szavazategyenlőség esetén az elnök szavazata dönt. A Pénzügyi Stabilitási Tanács döntését a Pénzügyi Stabilitási Tanács elnöke írja alá.
 
-(10) A Pénzügyi Stabilitási Tanács döntését a Pénzügyi Stabilitási Tanács elnöke írja alá, aki az aláírási jogát – a Pénzügyi Stabilitási Tanács által meghatározott keretek között – más személyre ruházhatja át.
+(10) A Pénzügyi Stabilitási Tanács ügyrendjét maga határozza meg.
+
+(11) A Pénzügyi Stabilitási Tanács az ügyrendjében meghatározottak szerint a (2) bekezdés k) pontjában meghatározott döntések tekintetében – egyes döntések vonatkozásában vagy teljes körűen – a kiadmányozási jogot az MNB által alkalmazott vezetői megbízatással rendelkező személyre ruházhatja át.
+
+(12) A Pénzügyi Stabilitási Tanács álláspontját az elnök vagy az erre a Pénzügyi Stabilitási Tanács által felhatalmazott tagja jogosult nyilvánosságra hozni.
