@@ -1,6 +1,6 @@
 ## A Hatóság keretében működő Tanács tagjai, tisztségviselői
 
-168. § (1) A Közbeszerzési Hatóság keretében Tanács (a továbbiakban: Tanács) működik, amely tizennégy tagból áll. A Tanács tagjai az egyes közérdekű célokat, az ajánlatkérőket és az ajánlattevőket képviselik.
+168. § (1) A Közbeszerzési Hatóság keretében Tanács (a továbbiakban: Tanács) működik, amely tizenöt tagból áll. A Tanács tagjai az egyes közérdekű célokat, az ajánlatkérőket és az ajánlattevőket képviselik.
 
 (2) A törvény alapelveinek, az egyes közérdekű céloknak, az ajánlatkérők, valamint az ajánlattevők érdekeinek az érvényesítése a Tanácsban a következő személyek feladata:
 
@@ -22,9 +22,11 @@ h) a Kormányzati Ellenőrzési Hivatal elnöke vagy az általa kijelölt szemé
 
 i) a Nemzeti Fogyasztóvédelmi Hatóság vezetője vagy az általa kijelölt személy;
 
-j) a helyi önkormányzatok országos szövetségei által együttesen kijelölt személy;
+j) a Magyar Nemzeti Bank elnöke vagy az általa kijelölt személy;
 
-k) a munkáltatók országos érdekképviseletei és az országos gazdasági kamarák által kijelölt három személy.
+k) a helyi önkormányzatok országos szövetségei által együttesen kijelölt személy;
+
+l) a munkáltatók országos érdekképviseletei és az országos gazdasági kamarák által kijelölt három személy.
 
 (3)–(4)
 
