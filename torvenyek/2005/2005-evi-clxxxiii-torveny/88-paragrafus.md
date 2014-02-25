@@ -16,7 +16,7 @@ f) a vasúti vizsgaközpont kijelölését,
 
 g) a jogszabályban meghatározott vasúti munkaköröket betöltő munkavállalókkal szemben támasztott egészségügyi követelményeket és az egészségügyi vizsgálat feltételeit, valamint az egészségi alkalmasság megállapítását végző hatóság vagy hatóságok kijelölését, az egészségi alkalmasság vizsgálatát és véleményezését végző személyek nyilvántartásának részletes szabályait,
 
-h)
+h) a vasúti vagyon átadásával és működtetésével kapcsolatos egyes részletes szabályokat,
 
 h)
 

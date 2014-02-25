@@ -190,7 +190,9 @@ vasúti pálya;
 
 21. közmű: vízellátást szolgáló vezeték, szennyvíz-, illetve csapadékelvezetést szolgáló zárt csatorna, távhővezeték, villamos energia átviteli és elosztó hálózat, villamos termelői-, magán- és közvetlen vezeték, szénhidrogén szállító-, földgázelosztó- és célvezeték, valamint az egyéb gázok és ezek termékeinek vezetéke, elektronikus hírközlési vezeték;
 
-22. kapacitásfoglalásra jogosult: az a bármely EGT-államban bejegyzett, a Ptk. 685. § c) pontja szerinti gazdálkodó szervezet, amely nem vasúti társaság, és a vasúti pályahálózat-működtetővel a vasúti pályahálózat-kapacitás foglalására vonatkozó keretszerződést köt.
+22. kapacitásfoglalásra jogosult: az a bármely EGT-államban bejegyzett, a Ptk. 685. § c) pontja szerinti gazdálkodó szervezet, amely nem vasúti társaság, és a vasúti pályahálózat-működtetővel a vasúti pályahálózat-kapacitás foglalására vonatkozó keretszerződést köt;
+
+23. Vasúti pályahálózat működtetéséhez szükséges eszközök: a vasúti pálya és tartozékai, vasúti pályahálózat, vasúti üzemi létesítmények e törvény szerint meghatározott eszközein felül azon vasúti összeköttetést biztosító eszközök és kiszolgáló létesítmények is, amelyek vonatkozásában a vállalkozó vasúti társaságok számára a pályaműködtető diszkriminációmentes hozzáférést köteles biztosítani, illetve amelyek a diszkriminációmentesen nyújtandó pályavasúti szolgáltatásokhoz elengedhetetlenek.
 
 (6) A 68. §–68/G. § alkalmazásában:
 
@@ -211,3 +213,5 @@ vasúti pálya;
 8. lakóhelyen kívüli pihenőidő: napi pihenőidő, amely az országhatárokon átnyúló kölcsönös átjárhatósághoz kapcsolódó szolgáltatásokat ellátó utazó vasúti munkavállaló lakóhelyén, ennek hiányában tartózkodási helyén nem vehető igénybe;
 
 9. vezetési idő: a munkaidő azon része, amely alatt a vasúti járművezető a vasúti járműért felel, kivéve a vasúti jármű üzembe helyezésének és üzemen kívül helyezésének ideje, de beleértve az olyan beütemezett megszakításokat, amikor a vasúti járművezető a vasúti járműért továbbra is felelős.
+
+(7) A 85/A. § alkalmazásában az átadás-átvétel fordulónapja: a távközlő, erősáramú és biztosítóberendezési eszközök vonatkozásában az eszközök üzembe helyezésének, az egyéb eszközök vonatkozásában a műszaki átadás-átvételek dátuma, ide értve a rész műszaki átadás-átvételeket is. Abban az esetben, ha a műszaki átadás-átvételi eljárás nem záródik le sikeresen 60 nap alatt, akkor az első műszaki átadás-átvételi eljárás kezdő napját követő 60. napot kell a rendeltetésszerű használat kezdőnapjának tekinteni azon eszközök esetében, amelyek műszaki átadása nem ütközött akadályba.
