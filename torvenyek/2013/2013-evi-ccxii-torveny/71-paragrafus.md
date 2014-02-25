@@ -2,6 +2,8 @@
 
 (2) A használati megosztásról szóló megállapodásban rögzíteni kell a megállapodás időtartamát, vagy ha azt a tulajdonostársak határozatlan időre hozták létre, akkor ennek tényét.
 
+(2a) A használati megosztásról szóló megállapodásban a használati rend meghatározása során több tulajdonostárs tulajdoni hányadának megfelelő vagy attól eltérő mértékű terület is kijelölhető, ha a tulajdoni hányaduknak megfelelő vagy attól eltérő mértékű területet közülük valamelyik tulajdonostárs használja vagy annak használatát harmadik személy részére kívánják átengedni.
+
 (3) A használati megosztáshoz való hozzájárulást megadottnak kell tekinteni az olyan tulajdonostárs esetében, akinek a részére a használati megosztásról szóló ajánlat vagy a tervezett megállapodás közlése
 
 a) nem lehetséges, mert
@@ -22,7 +24,7 @@ c) eredményes, de a nyilatkozattételre megszabott határidőn belül nem nyila
 
 a) azonosítása nem lehetséges az ingatlan-nyilvántartásban szereplő adatai alapján, vagy
 
-b) magánszemély esetén örököse, gazdálkodó szervezet esetén jogutódja az ingatlan-nyilvántartásból nem állapítható meg.
+b) természetes személy esetén örököse, gazdálkodó szervezet esetén jogutódja az ingatlan-nyilvántartásból nem állapítható meg.
 
 (5) A használati rend kialakítását kezdeményező tulajdonostársnak a használati megosztásról szóló ajánlatot vagy tervezett megállapodást írásban, igazolt módon kell közölnie a tulajdonostársakkal. Az ajánlat vagy a tervezett megállapodás elfogadására biztosított határidő nem lehet kevesebb 30 napnál.
 
@@ -41,3 +43,5 @@ a) egy tulajdonostárs használja a föld teljes területét, vagy
 b) a tulajdonostársak elkülönült használata a földnek az ingatlan-nyilvántartási térképen azonosítható alrészlete teljes területére vonatkozik.
 
 (11) A használati megosztásról szóló megállapodást a tulajdonostárs az (1)–(9) bekezdésben foglaltak megsértése esetén a bíróság előtt megtámadhatja.
+
+(12) A használati megosztásról szóló megállapodás létrehozatala vagy módosítása során a tulajdonostárs helyett és nevében a képviselője is eljárhat.

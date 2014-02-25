@@ -6,6 +6,24 @@ b) a (2) bekezdés szerinti földhasználati összesítőt
 
 szolgáltat.
 
+(1a) A földmérési és térinformatikai államigazgatási szerv az általa üzemeltetett földhasználati nyilvántartás adatbázisából – a földügyért felelős miniszter által jóváhagyott egyedi megállapodás alapján – adatfeldolgozási tevékenységet igénylő esetekben
+
+a) hatóság részére hatósági ellenőrzése teljesítéséhez,
+
+b) mezőgazdasági és vidékfejlesztési támogatási szerv részére költségvetési vagy európai uniós támogatás igényléséhez szükséges feltételek teljesítésének megállapításához,
+
+c) országos statisztikai célú adatgyűjtéshez, vagy
+
+d) több ingatlanügyi hatóság illetékességi területére kiterjedő adatigénylés esetén
+
+elektronikus dokumentumként elektronikusan feldolgozható formában adatot szolgáltat.
+
+(1b) Az (1a) bekezdés c) és d) pontja szerinti célból bárki igényelhet adatszolgáltatást, ha a kérelmében igazolja, hogy az adatok megismerése jogszabályban meghatározott feladata ellátásának teljesítéséhez szükséges.
+
+(1c) Az (1a) bekezdésben meghatározott elektronikus dokumentum az (1a) bekezdésben meghatározott adatszolgáltatás iránti igény célhozkötöttségétől függően a földhasználati lap másolaton megjeleníthető adatokat tartalmazhatja. Az elektronikus dokumentum nem tartalmazhatja a 94. § (1) bekezdés b) pont bc) és bd) alpontjában, valamint c) pont cc) és cd) alpontjában foglalt adatokat.
+
+(1d) Az egyedi megállapodásnak tartalmaznia kell az adatfeldolgozási tevékenység meghatározását, az elektronikus dokumentum adattartalmát, formátumát, valamint az adatszolgáltatás teljesítésének a határidejét és az ellenszolgáltatás mértékét, illetve az ingyenességét.
+
 (2) A földhasználati nyilvántartás adatbázisából a földhasználó által az ország területén használt valamennyi földterület területnagyságát és AK–értékét, valamint a földhasználat jogcímét tartalmazó földhasználati összesítő állítható ki a nyilvántartásnak a 94. § (1) bekezdés b) pont bd) alpontjában, valamint c) pont cc) és cd) alpontjában foglalt azonosító adatai alapján.
 
 (3) A földhasználati lap másolat szolgáltatását bárki igényelheti.

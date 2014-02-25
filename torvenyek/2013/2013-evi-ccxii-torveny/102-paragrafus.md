@@ -1,6 +1,6 @@
 102. § (1) A helyi földbizottságról és annak tagjairól a jegyző nyilvántartást vezet. A nyilvántartás tartalmazza
 
-a) a természetes személy tag, valamint a mezőgazdasági termelőszervezet tag képviseletében eljáró személy
+a) a természetes személy tag, valamint a mezőgazdasági termelőszervezet tag, továbbá a Földforgalmi törvény 40. § (3) és (4) bekezdésében meghatározott köznevelési vagy felsőoktatási intézmény, bevett egyház vagy annak belső egyházi jogi személye képviseletében eljáró személy
 
 aa) természetes személyazonosító adatait,
 
@@ -8,7 +8,7 @@ ab) állampolgárságát,
 
 ac) lakcímét;
 
-b) a mezőgazdasági termelőszervezet tag megnevezését, valamint székhelyét és telephelyét;
+b) a mezőgazdasági termelőszervezet tag megnevezését, székhelyét és telephelyét, valamint az a) pontban foglalt köznevelési vagy felsőoktatási intézmény, bevett egyház vagy annak belső egyházi jogi személye megnevezését és székhelyét;
 
 c) a tagság kezdő és a lejárati időpontját;
 

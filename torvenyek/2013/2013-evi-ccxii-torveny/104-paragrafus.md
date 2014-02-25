@@ -12,7 +12,9 @@ c) a közös tulajdonban álló föld használati rendjének hatósági úton t�
 
 d) a földművelésügyi igazgatási szerv kijelölését,
 
-e) az ingatlanügyi hatóság vagy hatóságok illetékességi területét
+e) az ingatlanügyi hatóság vagy hatóságok illetékességi területét,
+
+f) a biztonsági okmányért fizetendő díj mértékét, valamint a biztonsági okmány kezelésével, felhasználásával, visszaszolgáltatásával összefüggésben kiszabható bírság mértékét és megfizetésének szabályait
 
 rendeletben állapítsa meg.
 
