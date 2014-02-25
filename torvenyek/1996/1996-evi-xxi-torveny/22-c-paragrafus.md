@@ -1,3 +1,0 @@
-22/C. § (1) Az 1. mellékletben megjelölt kistérségi lehatárolás megváltoztatását 2013. január 1-jét követően a területfejlesztés stratégiai tervezéséért felelős miniszter útján az érintett települési önkormányzat képviselő-testülete – a területileg illetékes megyei önkormányzat véleményének csatolásával – kezdeményezheti.
-
-(2) A területfejlesztés stratégiai tervezéséért felelős miniszter javaslatát – a miniszterrel közösen – az általános önkormányzati választások évében – az országos önkormányzati szövetségek véleményének kikérését követően – december 31-ig nyújtja be a Kormány számára, valamennyi az adott időszakban beérkezett kezdeményezés tekintetében.

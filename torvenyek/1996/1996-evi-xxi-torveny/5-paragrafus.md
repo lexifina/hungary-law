@@ -28,11 +28,11 @@ e) régió: a statisztikai célú területi egységek nómenklatúrájának (NUT
 
 f) kiemelt térség: egy vagy több megyére (a fővárosra) vagy azok meghatározott területére kiterjedő, társadalmi, gazdasági vagy környezeti szempontból együtt kezelendő területi egység, amely egységes tervezéséhez és fejlesztéséhez országos érdekek fűződnek;
 
-g) területfejlesztési-statisztikai kistérség: földrajzilag összefüggő területfejlesztési-statisztikai területi egység, amelyet a hozzá sorolt települések teljes közigazgatási területe alkot, továbbá amelynek határai e települések közigazgatási határai által meghatározottak;
+g)
 
-h) kistérségi lehatárolás: a települések területfejlesztési-statisztikai kistérségbe sorolása;
+h)
 
-i) térség: különböző területi egységek (az ország, a régió, a megye, a kiemelt térség, a területfejlesztési-statisztikai kistérség, valamint ezek területének egy része) összefoglaló elnevezése,
+i) térség: különböző területi egységek (az ország, a régió, a megye, a kiemelt térség, a járás, valamint ezek területének egy része) összefoglaló elnevezése,
 
 j) szabad vállalkozási zóna: a Kormány által kijelölt, térségi gazdaságfejlesztő szervezet által koordinált, közigazgatási határokkal vagy helyrajzi számokkal lehatárolt, különböző feltételeket teljesítő, a fejlesztés szempontjából együtt kezelt térség, illetve kedvezményezett térségben a Kormány által egyedileg meghatározott, nemzetgazdasági érdekből kiemelt gazdasági ágazat, amely a térség fejlődése érdekében sajátos kedvezményeket biztosít;
 
@@ -60,4 +60,6 @@ v) ágazati tervek: a szakpolitikai stratégia, a szakpolitikai program és a h�
 
 x) területi terv: a területfejlesztési koncepció, a területfejlesztési program és a területrendezési terv,
 
-y) térségi gazdaságfejlesztő szervezet: a térségi partnerséget megvalósító, helyileg optimálisnak ítélt működő szervezeti forma, mely rendelkezik az ipari parkokkal és a szabad vállalkozási zóna fejlesztéséhez szükséges képességekkel.
+y) térségi gazdaságfejlesztő szervezet: a térségi partnerséget megvalósító, helyileg optimálisnak ítélt működő szervezeti forma, mely rendelkezik az ipari parkokkal és a szabad vállalkozási zóna fejlesztéséhez szükséges képességekkel,
+
+z) regionális támogatási térkép: a versenyszférába tartozó tevékenységekhez beruházási támogatás formájában nyújtható állami támogatásokat meghatározó szabályozás az ország területeire és térségeire, mely az Európai Bizottságnak a regionális állami támogatásokról szóló iránymutatása alapján kerül összeállításra.

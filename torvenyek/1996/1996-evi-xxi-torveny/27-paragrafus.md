@@ -2,7 +2,7 @@
 
 a) a központi államigazgatási szervek területfejlesztéssel és területrendezéssel kapcsolatos feladatait, a miniszterek közötti folyamatos koordináció szempontjait;
 
-b) a kedvezményezett területfejlesztési-statisztikai kistérségek és települések besorolásának feltételrendszerét és besorolását;
+b) a kedvezményezett járások és települések besorolásának feltételrendszerét és besorolását,
 
 c) a településrendezési eszköz területrendezési tervvel való összhangját igazoló területrendezési hatósági eljárás részletes szabályait;
 
@@ -28,7 +28,7 @@ l) a területfejlesztés intézményeinek a fejlesztési elképzelések összegy
 
 m)
 
-n) a kormányhivatal, a kistérségi, térségi és regionális fejlesztési tanácsok, a megyei területfejlesztési tanácsok és a Budapesti Agglomerációs Fejlesztési Tanács létrehozásával, átalakulásával és megszüntetésével kapcsolatos feladatait, a megalakulással, átalakulással és megszüntetéssel kapcsolatos eljárás rendjét;
+n) a kormányhivatal és a kincstár, a térségi fejlesztési tanács létrehozásával, átalakulásával és megszüntetésével kapcsolatos feladatait, a megalakulással, átalakulással és megszüntetéssel kapcsolatos eljárás rendjét,
 
 o) a területrendezési tervezési tevékenység folytatásának részletes feltételeit, e tevékenység bejelentésének és az e tevékenységet folytatók nyilvántartásának személyes adatot nem tartalmazó adattartalmát, a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá az e tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket;
 

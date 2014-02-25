@@ -20,7 +20,7 @@ d) dönt – az e törvény 20. § (2) bekezdés a) pontjában és (4) bekezdés
 
 e) meghatározza a területfejlesztést szolgáló pénzügyi eszközök, az igénybe vehető kedvezmények felhasználási szabályait;
 
-f) az Országgyűlésnek javaslatot tesz a területfejlesztési-statisztikai kistérségi lehatárolásra, valamint meghatározza a régiók területi lehatárolását;
+f) meghatározza a régiók területi lehatárolását,
 
 g) elfogadja a kiemelt térségekre vonatkozó területfejlesztési koncepciókat és programokat;
 
@@ -36,6 +36,8 @@ l) rendeletben meghatározza a miniszterek területfejlesztéssel és területre
 
 m) jelöli az Európai Unió Régiók Bizottságába Magyarország képviselőit;
 
-n) meghatározza a kedvezményezett területfejlesztési-statisztikai kistérségek és települések besorolását, valamint a besorolás feltételrendszerét,
+n) meghatározza a kedvezményezett járások és települések besorolását, valamint a besorolás feltételrendszerét;
 
-o) az európai uniós tervezési ciklusoknak megfelelően felülvizsgálja a kedvezményezett kistérségek és települések körét.
+o) az európai uniós tervezési ciklusoknak megfelelően felülvizsgálja a kedvezményezett járások és települések körét.
+
+p) dönt a regionális támogatási térkép koncepciójáról.
