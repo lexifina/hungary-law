@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-482-20-
 | --- | --- | --- |
 | 2013-12-18 | 2013-482-20-22.1 | 482/2013. (XII. 17.) Korm. rendelet |
 | 2014-01-01 | 2013-482-20-22.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2014-02-25 | 2013-482-20-22.3 | 42/2014. (II. 24.) Korm. rendelet |

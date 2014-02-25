@@ -1,4 +1,4 @@
-## szakhatóságként jelöli ki.
+## 12/A. §[^16] Az OVH és a hatóság szakhatósági állásfoglalását a megkeresés beérkezését követő naptól számított harminc napon belül köteles megadni. A szakhatósági állásfoglalás megadására tizenöt nap áll rendelkezésre, ha az eljáró hatóság a sürgősséget megkeresésében megindokolja.
 
 ## IV. Fejezet
 
@@ -55,3 +55,13 @@ b) a létszám átadása magában foglalja a foglalkoztatottak átadását a kö
 (4) A folyamatban lévő hatósági ügyek iratanyagának átadása-átvétele 2014. január 6-ig történik meg.
 
 (5) Az átadás-átvétel tárgyában az Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség, a Nemzeti Környezetügyi Intézet, az OVF és az igazgatóságok 2013. december 30-ig megállapodást kötnek.
+
+(6)[^17] E rendeletnek az egyes kormányrendeletek vízügyi tárgyú módosításáról szóló 42/2014. (II. 24.) Korm. rendelettel (a továbbiakban: Mód. Kr. 1.)
+
+a) megállapított 1. § (5) bekezdését, 2. § (6) bekezdését, 3. § (5) bekezdését, 4. § (7) bekezdését, 7. § (4) bekezdését, 8. § (4) bekezdés e) pontját, 9. § (3) bekezdés h) pontját, 10. § (1) bekezdés a) és b) pontját, 11. § (1) és (6) bekezdését, 12. § (1) bekezdését, 12/A. §-át, valamint 1. melléklet II. pont A) alpont d) pontját a Mód. Kr. 1. hatálybalépésekor[^18] folyamatban lévő ügyekben is alkalmazni kell,
+
+b) hatályon kívül helyezett 9. § (6) bekezdés b) pontját a folyamatban lévő ügyekben nem kell alkalmazni.
+
+[^16]: A 12/A. §-t a 42/2014. (II. 24.) Korm. rendelet 20. § (10) bekezdése iktatta be.
+[^17]: A 15. § (6) bekezdését a 42/2014. (II. 24.) Korm. rendelet 20. § (11) bekezdése iktatta be.
+[^18]: A hatálybalépés időpontja 2014. február 25.

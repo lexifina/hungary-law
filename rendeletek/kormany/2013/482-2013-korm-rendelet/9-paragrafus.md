@@ -80,7 +80,9 @@ e) a vizek medrében található nádasok vízminőség-védelmi nádgazdálkod�
 
 f) az állami tulajdonban lévő vízilétesítményeken az öntözési célú vízszolgáltatást, továbbá
 
-g) háttéranyagok készítését szakterületi stratégiák és tervek kialakításához és egyedi döntésekhez, helyzetelemzések, felmérések és statisztikai elemzések készítését.
+g) háttéranyagok készítését szakterületi stratégiák és tervek kialakításához és egyedi döntésekhez, helyzetelemzések, felmérések és statisztikai elemzések készítését,
+
+h)[^9] a vízgyűjtő-gazdálkodással kapcsolatosan jogszabály által feladatkörébe utalt feladatokat.
 
 (4) Az igazgatóság gondoskodik
 
@@ -112,7 +114,7 @@ d) ügyfélként a vagyonkezelésébe tartozó, vagy az azokra hatást jelentő 
 
 a) a vízvédelmi politika terén a közösségi fellépés kereteinek meghatározásáról szóló, 2000. október 23-i 2000/60/EK európai parlamenti és tanácsi irányelv végrehajtásához kapcsolódó vízgazdálkodási vonatkozású feladatokban,
 
-b) a vízgyűjtő-gazdálkodási tervezés területi feladataiban,
+b)[^10]
 
 c) a települési szennyvíz kezeléséről szóló, 1991. május 21-i 91/271/EGK tanácsi irányelv által meghatározott jelentés előkészítésében,
 
@@ -129,3 +131,6 @@ h) a többoldalú nemzetközi együttműködések vízgazdálkodási feladataina
 (7) Az igazgatóság véleményezi a kiemelt térségre és a megyére készülő területfejlesztési koncepciót és programot, valamint területrendezési tervet, továbbá a településrendezési eszközöket.
 
 (8) Az igazgatóság együttműködik a helyi önkormányzatokkal és a vízitársulatokkal a vízgazdálkodási feladatok megoldásában.
+
+[^9]: A 9. § (3) bekezdés h) pontját a 42/2014. (II. 24.) Korm. rendelet 20. § (7) bekezdése iktatta be.
+[^10]: A 9. § (6) bekezdés b) pontját a 42/2014. (II. 24.) Korm. rendelet 20. § (14) bekezdése hatályon kívül helyezte.

@@ -60,7 +60,7 @@ c) véleményezi a kiemelt térségre és megyére készülő területfejleszté
 
 d) közreműködik a vízvédelmi politika terén a közösségi fellépés kereteinek meghatározásáról szóló, 2000. október 23-i 2000/60/EK európai parlamenti és tanácsi irányelv végrehajtásához kapcsolódó vízgazdálkodási vonatkozású feladatokban,
 
-e) közreműködik a vízgyűjtő-gazdálkodási terv elkészítésében,
+e)[^8] végzi a vízgyűjtő-gazdálkodással kapcsolatosan jogszabály által feladatkörébe utalt feladatokat,
 
 f) előkészíti a települési szennyvíz kezeléséről szóló, 1991. május 21-i 91/271/EGK tanácsi irányelv által meghatározott jelentést,
 
@@ -81,3 +81,5 @@ m) ellátja a Duna-menti országok nemzetközi vízminőségi riasztórendszer �
 n) közreműködik a vízgazdálkodási szakterületi feladatok ellátását támogató hatástanulmányok, vizsgálatok elvégzésében, jelentések készítésében, illetve alkalmazott kutatások folytatásában, alapozó kutatási tevékenységek koordinációjában és monitorizálásában,
 
 o) háttéranyagokat, helyzetelemzéseket, felméréseket és statisztikai elemzéseket készít szakterületi stratégiák és tervek kialakításához és egyedi döntésekhez.
+
+[^8]: A 8. § (4) bekezdés e) pontja a 42/2014. (II. 24.) Korm. rendelet 20. § (6) bekezdésével megállapított szöveg.

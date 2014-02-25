@@ -1,4 +1,4 @@
-11. § (1) A Kormány a hatóságnak a közcélú vízilétesítmény létesítéséhez, üzemeltetéséhez vagy ilyen célt szolgáló vízhasználathoz, továbbá a jövőbeni ivóvízellátás célját szolgáló vízbázisok védelme érdekében történő védőidom, védőterület és védősáv kijelölésére irányuló eljárásában,
+11. § (1)[^13] A Kormány a hatóságnak az ivóvízellátás célját szolgáló üzemelő és távlati vízbázisok védelme érdekében történő védőidom, védőterület és védősáv kijelölésére irányuló eljárásában,
 
 a) – ha a tevékenység, kijelölés nem környezeti hatásvizsgálat vagy nem egységes környezethasználati engedély köteles – annak elbírálására, hogy a felszíni vizek, a felszín alatti vizek és a földtani közeg minősége védelmére jogszabályban foglalt követelmények a kérelemben foglaltak szerint vagy további feltételek mellett érvényesülnek-e, az első fokú eljárásban a környezetvédelmi és természetvédelmi felügyelőséget, a másodfokú eljárásban az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőséget,
 
@@ -32,7 +32,7 @@ b) – a földtani közeg védelmének biztosítottsága, a kitermelendő víz h
 
 (5) A Kormány a hatóságnak az ivóvízkivételre nem hasznosítható és ivóvízbázisnak ki nem jelölhető felszíni vízből való egyedi ivóvízkivétel engedélyezésére irányuló eljárásában – annak elbírálására, hogy a megfelelő kezelési eljárások után az ivóvíz minőségi jellemzői megfelelőek-e – az első fokú eljárásban a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala járási (fővárosi kerületi) népegészségügyi intézetét, a másodfokú eljárásban a fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szervét szakhatóságként jelöli ki.
 
-(6) A Kormány a hatóságnak a gázveszélyes vízkészletet igénybe vevő vízmű vízjogi létesítési, valamint üzemeltetési engedélyének kiadására irányuló eljárásában,
+(6)[^14] A Kormány a hatóságnak a gázveszélyes vízkészletet igénybe vevő vízilétesítmény vízjogi létesítési, valamint üzemeltetési engedélyének kiadására irányuló eljárásában,
 
 a) ha a termelt és szolgáltatott víz – gáztartalmának vizsgálata alapján – „B” vagy „C” gázfokozatba tartozik, a tűzvédelmi előírásoknak való megfelelés és annak feltételei kérdésében, az első fokú eljárásban a megyei (fővárosi) katasztrófavédelmi igazgatóságot, a másodfokú eljárásban a Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóságot, továbbá
 
@@ -55,3 +55,6 @@ e) ha a tevékenység a termőföldre hatással lehet vagy termőföldön valós
 f) annak elbírálása kérdésében, hogy a létesítmény megfelel-e, és milyen feltételekkel felel meg a településrendezési követelményeknek és a helyi építési szabályzatnak, az első fokú eljárásban a létesítmény helye szerint illetékes települési, fővárosi kerületi önkormányzat jegyzőjét, a Budapest Főváros Önkormányzata által közvetlenül igazgatott terület tekintetében a fővárosi főjegyzőt, a másodfokú eljárásban a fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatalát
 
 szakhatóságként jelöli ki.
+
+[^13]: A 11. § (1) bekezdés nyitó szövegrésze a 42/2014. (II. 24.) Korm. rendelet 20. § (13) bekezdés b) pontja szerint módosított szöveg.
+[^14]: A 11. § (6) bekezdés nyitó szövegrésze a 42/2014. (II. 24.) Korm. rendelet 20. § (13) bekezdés c) pontja szerint módosított szöveg.

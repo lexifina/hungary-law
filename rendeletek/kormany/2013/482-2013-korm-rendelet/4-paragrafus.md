@@ -9,3 +9,7 @@
 (5) A hatóságok elnevezését és székhelyét a 2. melléklet tartalmazza.
 
 (6) A hatóság illetékessége megegyezik az igazgatóság működési területével.
+
+(7)[^6] A hatóság perbeli jogképességgel rendelkezik.
+
+[^6]: A 4. § (7) bekezdését a 42/2014. (II. 24.) Korm. rendelet 20. § (4) bekezdése iktatta be.

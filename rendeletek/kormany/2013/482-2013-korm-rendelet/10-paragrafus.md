@@ -6,9 +6,9 @@
 
 10. § (1) A Kormány a hatóság elvi vízjogi engedélyezési, vízjogi létesítési engedélyezési, vízjogi üzemeltetési engedélyezési és vízjogi fennmaradási engedélyezési eljárásában
 
-a) vízjogi létesítési engedélyezés esetén – ha a vízilétesítmény vagy a vízimunka nem környezeti hatásvizsgálat vagy nem egységes környezethasználati engedély köteles – annak elbírálására, hogy a felszíni vizek, a felszín alatti vizek és a földtani közeg minősége védelmére jogszabályban foglalt követelmények a kérelemben foglaltak szerint vagy további feltételek mellett érvényesülnek-e, az első fokú eljárásban a környezetvédelmi és természetvédelmi felügyelőséget, a másodfokú eljárásban az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőséget,
+a)[^11] – ha a vízimunka, vízhasználat vagy vízilétesítmény nem környezeti hatásvizsgálat vagy nem egységes környezethasználati engedély köteles – annak elbírálására, hogy a felszíni vizek, a felszín alatti vizek és a földtani közeg minősége védelmére jogszabályban foglalt követelmények a kérelemben foglaltak szerint vagy további feltételek mellett érvényesülnek-e, valamint annak megállapítására, hogy a vízgazdálkodási hatósági jogkör gyakorlásáról szóló 72/1996. (V. 22.) Korm. rendelet 2. melléklete szerinti tevékenységek és létesítmények esetében feltételezhető-e jelentős környezeti hatás, az első fokú eljárásban a környezetvédelmi és természetvédelmi felügyelőséget, a másodfokú eljárásban az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőséget,
 
-b) annak elbírálására, hogy ivóvízkivétel vagy vízellátás engedélyezésénél a vizek minőségét és egészségkárosítás nélküli fogyaszthatóságát, felhasználhatóságát befolyásoló körülmények, tényezők fennállnak-e,
+b)[^12] annak elbírálására, hogy ivóvízkivétel, vízellátás, szennyvízelvezetés, szennyvíztisztítás vagy fürdők vízilétesítményeinek engedélyezésénél a vizek minőségét és egészségkárosítás nélküli fogyaszthatóságát, felhasználhatóságát befolyásoló körülmények, tényezők fennállnak-e,
 
 ba) az első fokú eljárásban a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala járási (fővárosi kerületi) népegészségügyi intézetét, a másodfokú eljárásban a fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szervét,
 
@@ -43,3 +43,6 @@ i) a vízjogi létesítési engedélyezés esetén, ha az eljárás víziutat é
 ## szakhatóságként jelöli ki.
 
 (2) Az (1) bekezdés g)–i) pontja szerinti eljárásban hozott határozatot akkor is közölni kell a fővárosi és megyei kormányhivatal közlekedési felügyelőségével, ha az az eljárásban szakhatóságként nem vesz részt.
+
+[^11]: A 10. § (1) bekezdés a) pontja a 42/2014. (II. 24.) Korm. rendelet 20. § (8) bekezdésével megállapított szöveg.
+[^12]: A 10. § (1) bekezdés b) pontja a 42/2014. (II. 24.) Korm. rendelet 20. § (13) bekezdés a) pontja szerint módosított szöveg.

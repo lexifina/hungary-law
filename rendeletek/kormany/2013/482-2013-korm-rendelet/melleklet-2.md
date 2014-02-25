@@ -102,17 +102,23 @@
 
 ## Uraiújfalu közigazgatási területe.
 
-## d) Veszprém megyéből
+## d)[^19] Somogy megyéből
 
-## Egyházaskesző,
+## Balatonszabadi,
 
-## Kemenesszentpéter,
+## Balatonvilágos,
 
-## Malomsok,
+## Kánya,
 
-## Marcaltő,
+## Siófok (Balatonkiliti),
 
-## Várkesző közigazgatási területe.
+## Siójut,
+
+## Tengőd
+
+## közigazgatási területe, valamint
+
+## a Balaton parti településeknek a tó medrébe (jogi partvonalával határolt területébe) nyúló, tartozó közigazgatási része.
 
 ## B) Működési vonalai:
 
@@ -1539,3 +1545,5 @@ A hatóságok elnevezése és székhelye
 11. Alsó-Duna-völgyi Vízügyi Hatóság, Baja
 
 12. Körös-vidéki Vízügyi Hatóság, Gyula
+
+[^19]: Az 1. melléklet II. pont A) alpont d) pontja a 42/2014. (II. 24.) Korm. rendelet 20. § (12) bekezdésével megállapított szöveg.

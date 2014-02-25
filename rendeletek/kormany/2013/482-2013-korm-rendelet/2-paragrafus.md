@@ -1,4 +1,4 @@
-2. §[^1] (1) Az Országos Vízügyi Hatóság (a továbbiakban: OVH) az OVF e §-ban foglaltak szerint elkülönült, jogszabályban meghatározott önálló feladat- és hatáskörrel rendelkező szervezeti egysége.
+2. §[^3] (1) Az Országos Vízügyi Hatóság (a továbbiakban: OVH) az OVF e §-ban foglaltak szerint elkülönült, jogszabályban meghatározott önálló feladat- és hatáskörrel rendelkező szervezeti egysége.
 
 (2) Az OVH vonatkozásában a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény (a továbbiakban: Ksztv.) 2. § (1) bekezdés c), e) és f)–h) pontjában meghatározott hatásköröket a vízgazdálkodásért felelős miniszter önállóan gyakorolja. Az OVH vezetőjét a vízgazdálkodásért felelős miniszter nevezi ki és menti fel, és gyakorolja felette a munkáltatói jogokat.
 
@@ -8,4 +8,7 @@
 
 (5) Az OVH illetékessége az ország egész területére kiterjed.
 
-[^1]: A Magyar Közlöny 2013. évi 213. számában megjelent helyesbítésnek megfelelő szöveg.
+(6)[^4] Az OVH perbeli jogképességgel rendelkezik.
+
+[^3]: A Magyar Közlöny 2013. évi 213. számában megjelent helyesbítésnek megfelelő szöveg.
+[^4]: A 2. § (6) bekezdését a 42/2014. (II. 24.) Korm. rendelet 20. § (2) bekezdése iktatta be.
