@@ -40,4 +40,6 @@ s) az érintett előzetes, írásbeli hozzájárulása szerint a továbbításra
 
 t) feladatai ellátásához a választási szerv és a választási munkacsoport egymás között, illetve a bíróságnak, a választási eljárással összefüggő kifogások elbírálásához;
 
-u) a szabálysértési nyilvántartó szerv a szabálysértési eljárás alá vont személy személyazonosságának ellenőrzéséhez.
+u) a szabálysértési nyilvántartó szerv a szabálysértési eljárás alá vont személy személyazonosságának ellenőrzéséhez;
+
+v) a 32. § e) és t) pontjában felsorolt szervek egymás között, az ott meghatározott feladataik ellátásához.
