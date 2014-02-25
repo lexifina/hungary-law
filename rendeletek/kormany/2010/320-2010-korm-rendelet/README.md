@@ -27,3 +27,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-320-20-
 | 2013-10-14 | 2010-320-20-22.19 | 358/2013. (X. 9.) Korm. rendelet |
 | 2013-11-28 | 2010-320-20-22.20 | 441/2013. (XI. 20.) Korm. rendelet |
 | 2014-01-01 | 2010-320-20-22.21 | 524/2013. (XII. 30.) Korm. rendelet |
+| 2014-02-25 | 2010-320-20-22.22 | 158/2011. (VIII. 11.) Korm. rendelet |
