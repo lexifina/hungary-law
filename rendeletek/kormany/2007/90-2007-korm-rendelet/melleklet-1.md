@@ -66,7 +66,7 @@ b) Dokumentációk:
 
 3. A kárelhárítási tervek tartalma
 
-a)[^25] Együttműködési terv:
+a)[^37] Együttműködési terv:
 
 – az üzemen belüli figyelőhálózat felépítése,
 
@@ -106,4 +106,4 @@ d) Kárelhárítási anyagok és eszközök meghatározása:
 
 – az elhasznált kárelhárítási anyagokat és eszközöket a kárelhárítást követően azonnal pótolni kell.
 
-[^25]: Az 1. számú melléklet 3. pont a) alpontja az 527/2013. (XII. 30.) Korm. rendelet 49. § (15) bekezdésével megállapított szöveg.
+[^37]: Az 1. számú melléklet 3. pont a) alpontja az 527/2013. (XII. 30.) Korm. rendelet 49. § (15) bekezdésével megállapított szöveg.

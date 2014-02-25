@@ -1,4 +1,4 @@
-4. §[^5] (1) A környezethasználó, illetve a környezetvédelmi és természetvédelmi, valamint a vízügyi szervek a kárelhárítás feladatainak végrehajtását elsősorban saját erőforrásaikkal látják el.
+4. §[^7] (1) A környezethasználó, illetve a környezetvédelmi és természetvédelmi, valamint a vízügyi szervek a kárelhárítás feladatainak végrehajtását elsősorban saját erőforrásaikkal látják el.
 
 (2) Ha a kárelhárítás ellátásához a saját erőforrás nem elegendő, a környezethasználó
 
@@ -10,4 +10,4 @@ b) az 1. § c)–g) pontja szerinti környezeti elem esetében – az NPI-nél, 
 
 (4) A VIZIG-ek kárelhárítási tevékenységét az OVF útján a vízügyi igazgatási szervek irányításáért felelős miniszter irányítja. Az NPI kárelhárítási tevékenységét az OKTF útján a környezetvédelemért felelős miniszter irányítja.
 
-[^5]: A 4. § az 527/2013. (XII. 30.) Korm. rendelet 49. § (4) bekezdésével megállapított szöveg.
+[^7]: A 4. § az 527/2013. (XII. 30.) Korm. rendelet 49. § (4) bekezdésével megállapított szöveg.

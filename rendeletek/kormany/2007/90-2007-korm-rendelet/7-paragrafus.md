@@ -8,9 +8,9 @@
 
 a) egy példányt a gazdálkodó szervezet székhelyén, egy példányt a terv által érintett üzemegységnél, telephelyen kell tartani, továbbá
 
-b)[^10] egy-egy példányát a a vízügyi hatóságnak és a működési területe szerinti érintett VIZIG-nek és NPI-nek meg kell küldeni.
+b)[^12] egy-egy példányát a a vízügyi hatóságnak és a működési területe szerinti érintett VIZIG-nek és NPI-nek meg kell küldeni.
 
-(3)[^11] Az e rendelet szerinti üzemi tervet a környezetvédelmi, természetvédelmi és tájvédelmi szakértői tevékenységről szóló jogszabály alapján a víz és a földtani közeg részszakterületen szakértői jogosultsággal rendelkező szakértő készíti el.
+(3)[^13] Az e rendelet szerinti üzemi tervet a környezetvédelmi, természetvédelmi és tájvédelmi szakértői tevékenységről szóló jogszabály alapján a víz és a földtani közeg részszakterületen szakértői jogosultsággal rendelkező szakértő készíti el.
 
-[^10]: A 7. § (2) bekezdés b) pontja a 300/2011. (XII. 22.) Korm. rendelet 17. § (3) bekezdés e) pontja, az 527/2013. (XII. 30.) Korm. rendelet 49. § (16) bekezdés c) pontja szerint módosított szöveg.
-[^11]: A 7. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 539. §-ával megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1 napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^12]: A 7. § (2) bekezdés b) pontja a 300/2011. (XII. 22.) Korm. rendelet 17. § (3) bekezdés e) pontja, az 527/2013. (XII. 30.) Korm. rendelet 49. § (16) bekezdés c) pontja szerint módosított szöveg.
+[^13]: A 7. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 539. §-ával megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1 napját követően indult vagy megismételt eljárásokban kell alkalmazni.

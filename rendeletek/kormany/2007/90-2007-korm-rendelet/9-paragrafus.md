@@ -1,5 +1,9 @@
 9. § (1) A terveket a terv készítésére kötelezettnek – a változások átvezetésétől függetlenül – ötévenként, továbbá az üzem technológiájában, a gazdálkodó szervezet ezzel összefüggő tevékenységi körében bekövetkezett változást követő 60 napon belül felül kell vizsgálnia.
 
-(2)[^13] Amennyiben a rendelet hatálya alá tartozó gazdálkodó szervezeteknél az alkalmazott technológia, illetve tevékenység módosulása miatt a gazdálkodó szervezetnek nem kell tervet készíteni, úgy ezt a változás bekövetkezésétől számított 30 napon belül a gazdálkodó szervezet székhelye, érintett telephelye szerint illetékes felügyelőségnek vagy vízügyi hatóságnak be kell jelenteni.
+(2)[^15] Ha a rendelet hatálya alá tartozó gazdálkodó szervezetnél az alkalmazott technológia, illetve tevékenység módosulása nem jelentős és az (1) bekezdés szerinti felülvizsgálat nem szükséges, úgy a változás bekövetkezésétől számított 30 napon belül a felügyelőséget erről kell tájékoztatni. A felügyelőség a változásról haladéktalanul értesíti
 
-[^13]: A 9. § (2) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 49. § (16) bekezdés e) pontja szerint módosított szöveg.
+a) a vízügyi hatóságot és a VIZIG-et, ha a jóváhagyott terv az 1. § a) vagy b) pontja szerinti környezeti elemet érinti,
+
+b) az NPI-t, ha a jóváhagyott terv az 1. § c)–g) pontja szerinti környezeti elemet érinti.
+
+[^15]: A 9. § (2) bekezdése a 42/2014. (II. 24.) Korm. rendelet 7. § (3) bekezdésével megállapított szöveg.
