@@ -2,7 +2,7 @@
 
 ## A MENEDÉKESKÉNTI ELISMERÉSRE IRÁNYULÓ ELJÁRÁS
 
-76. § (1) Az Országgyűlés – a Kormány előterjesztése alapján – a 19. § b) pontja szerinti ideiglenes védelemre jogosultként történő elismerésről határozatot hoz.
+76. § (1) A Kormány – a miniszter előterjesztése alapján – a 19. § b) pontja szerinti ideiglenes védelemre jogosultként történő elismerésről normatív kormányhatározatot hoz.
 
 (2) Az (1) bekezdés szerinti határozat tartalmazza azt az időtartamot, amelynek lejártával, illetve annak a ténynek a megjelölését, amelynek bekövetkeztével az ideiglenes védelem megszűnik.
 

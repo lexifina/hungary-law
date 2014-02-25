@@ -2,7 +2,7 @@
 
 25. § (1) A menedékes jogállás megszűnik, ha
 
-a) az ideiglenes védelem időtartama lejár, vagy – a 19. § b) pontján alapuló elismerés esetén – az Országgyűlés által megjelölt tény bekövetkezik;
+a) az ideiglenes védelem időtartama lejár, vagy – a 19. § b) pontján alapuló elismerés esetén – a Kormány által megjelölt tény bekövetkezik;
 
 b) az Európai Unió Tanácsa a 19. § a) pontja szerinti elismerést visszavonja;
 
