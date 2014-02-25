@@ -20,6 +20,10 @@ b) technikai közreműködőként segítséget nyújt az agrártámogatások ig�
 
 c) információ adásával, a szükséges nyomtatványok, illetve elektronikai segítségnyújtás biztosításával segíti a gazdálkodók egyes adatszolgáltatási kötelezettségének teljesítését,
 
-d) ellátja a termésbecsléssel, állapotminősítéssel összefüggő adatgyűjtési és adatszolgáltatási feladatokat.
+d) ellátja a termésbecsléssel, állapotminősítéssel összefüggő adatgyűjtési és adatszolgáltatási feladatokat,
+
+f)[^2] kérelemre igazolást ad ki a földművesekről és a mezőgazdasági termelőszervezetekről vezetett nyilvántartásba való bejegyezéshez szükséges, jogszabályban meghatározott feltétel fennállásáról.
 
 (3) Az (1) bekezdés b)–d) pontjaiban foglalt feladatok ellátásának biztosítására – a jogszabályban nem rendezett kérdések tekintetében – a Vidékfejlesztési Minisztérium és a NAK megállapodást kötnek.
+
+[^2]: A 3. § (2) bekezdés f) pontját a 38/2014. (II. 24.) Korm. rendelet 25. §-a iktatta be.
