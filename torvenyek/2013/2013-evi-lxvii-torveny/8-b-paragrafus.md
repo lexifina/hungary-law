@@ -1,6 +1,6 @@
-8/B. § (1) Az állam – jogszabályban meghatározott feltételek mellett – készfizető kezesként felel a KAVOSZ Vállalkozásfejlesztési Zrt. által a (2) bekezdés szerinti kölcsönfelvevők számára használati díj fizetését szolgáló hitelszerződés alapján kihelyezett kölcsönökből eredő fizetési kötelezettség 80%-ának teljesítéséért.
+8/B. § (1) Az állam – jogszabályban meghatározott feltételek mellett – készfizető kezesként felel a KAVOSZ Vállalkozásfejlesztési Zrt. által a (2) bekezdés szerinti kölcsönfelvevők számára útdíj fizetését szolgáló hitelszerződés alapján kihelyezett kölcsönökből eredő fizetési kötelezettség 80%-ának teljesítéséért.
 
-(2) Az (1) bekezdés szerinti állami készfizető kezesség csak a használati díj fizetésére kötelezett kis- és középvállalkozások kölcsöneire terjed ki.
+(2) Az (1) bekezdés szerinti állami készfizető kezesség csak az útdíj fizetésére kötelezett kis- és középvállalkozások kölcsöneire terjed ki.
 
 (3) Az (1) bekezdés szerinti állami készfizető kezesség együttes év végi állományát a költségvetési törvényben kell meghatározni.
 

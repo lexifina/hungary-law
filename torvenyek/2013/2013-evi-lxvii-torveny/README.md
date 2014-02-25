@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-67-00-00
 | 2013-11-01 | 2013. évi CLXVI. törvény | 2013-67-00-00.5 |
 | 2013-12-26 | 2013. évi CCXXVIII. törvény | 2013-67-00-00.6 |
 | 2014-01-01 | 2013. évi CCXXVIII. törvény | 2013-67-00-00.7 |
+| 2014-02-25 | 2014. évi XV. törvény | 2013-67-00-00.8 |
