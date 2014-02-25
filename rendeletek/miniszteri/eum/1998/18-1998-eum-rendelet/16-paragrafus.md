@@ -1,6 +1,6 @@
-## Szövetek és sejtek tárolására vonatkozó rendelkezések[^32]
+## Szövetek és sejtek tárolására vonatkozó rendelkezések[^33]
 
-16. § (1)[^33] Szövet, valamint sejt csak szövetbankban tárolható. A szöveteket, valamint sejteket tartalmazó csomagoláson a tárolás és a feldolgozás során jelzőcímkét kell alkalmazni. A szövet, valamint sejt – feldolgozásáig történő – tárolása során a jelzőcímke a következő adatokat tartalmazza:
+16. § (1)[^34] Szövet, valamint sejt csak szövetbankban tárolható. A szöveteket, valamint sejteket tartalmazó csomagoláson a tárolás és a feldolgozás során jelzőcímkét kell alkalmazni. A szövet, valamint sejt – feldolgozásáig történő – tárolása során a jelzőcímke a következő adatokat tartalmazza:
 
 a) az eltávolítás időpontja,
 
@@ -30,11 +30,11 @@ f) a szövet mennyisége vagy méretei, lehetséges vegyszermaradékra történ�
 
 g) a donorazonosító szám.
 
-(3)[^34] A jelzőcímkén a donor neve nem szerepelhet. A donor azonosítására a donorazonosító szám szolgál. A szövet, illetve sejt eltávolítását végző egészségügyi szolgáltató a szövet-, illetve sejtdonorokról az egészségügyi adatok kezelésére vonatkozó jogszabályok, valamint a 9. számú mellékletben meghatározottak szerint nyilvántartást vezet.
+(3)[^35] A jelzőcímkén a donor neve nem szerepelhet. A donor azonosítására a donorazonosító szám szolgál. A szövet, illetve sejt eltávolítását végző egészségügyi szolgáltató a szövet-, illetve sejtdonorokról az egészségügyi adatok kezelésére vonatkozó jogszabályok, valamint a 9. számú mellékletben meghatározottak szerint nyilvántartást vezet.
 
-(4)[^35] A szövet, illetve sejt szállítása során a 9. számú melléklet 1.4. pontja szerinti szállítótartályra vonatkozó címkézési előírásokat kell betartani.
+(4)[^36] A szövet, illetve sejt szállítása során a 9. számú melléklet 1.4. pontja szerinti szállítótartályra vonatkozó címkézési előírásokat kell betartani.
 
-[^32]: A 16. §-t megelőző alcím a 20/2007. (IV. 19.) EüM rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^33]: A 16. § (1) bekezdése a 20/2007. (IV. 19.) EüM rendelet 6. § (2) bekezdésével megállapított, a 12/2012. (VIII. 6.) EMMI rendelet 10. § e) pontja szerint módosított szöveg.
-[^34]: A 16. § (3) bekezdése a 20/2007. (IV. 19.) EüM rendelet 6. § (3) bekezdésével megállapított szöveg.
-[^35]: A 16. § (4) bekezdését a 20/2007. (IV. 19.) EüM rendelet 6. § (4) bekezdése iktatta be.
+[^33]: A 16. §-t megelőző alcím a 20/2007. (IV. 19.) EüM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^34]: A 16. § (1) bekezdése a 20/2007. (IV. 19.) EüM rendelet 6. § (2) bekezdésével megállapított, a 12/2012. (VIII. 6.) EMMI rendelet 10. § e) pontja szerint módosított szöveg.
+[^35]: A 16. § (3) bekezdése a 20/2007. (IV. 19.) EüM rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^36]: A 16. § (4) bekezdését a 20/2007. (IV. 19.) EüM rendelet 6. § (4) bekezdése iktatta be.
