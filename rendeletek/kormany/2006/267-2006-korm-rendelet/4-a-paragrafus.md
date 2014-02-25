@@ -34,9 +34,11 @@ b)[^45] a katasztrófavédelmi előírásoknak való megfelelőség szakkérdés
 
 (8)[^46] Ha az engedélyezési eljárás a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendelet (a továbbiakban: Khvr.) 3. számú mellékletében meghatározott olyan tevékenység megkezdését vagy folytatását szolgálja, amely a Khvr.-ben meghatározott küszöbértéket nem éri el vagy a tevékenységre a Khvr.-ben megállapított feltétel nem teljesül, az (1) bekezdés szerinti esetben a kérelemhez mellékelni kell a környezeti hatások jelentőségének vizsgálatára szolgáló – a Khvr.-ben meghatározott – adatlapot.
 
-(9)[^47] A Kormány a bányászati hatóságnak a geotermikus védőidom megállapítására irányuló eljárásában, ha a tevékenység megkezdéséhez környezetvédelmi engedély vagy egységes környezethasználati engedély nem szükséges, a geotermikus védőidom kijelölésének a felszín alatti vizek mennyiségi és minőségi védelmével kapcsolatos szakkérdésében, első fokú eljárásban a területi vízügyi hatóságot, másodfokú eljárásban az Országos Vízügyi Hatóságot szakhatóságként jelöli ki.
+(9)[^47] A Kormány a bányászati hatóságnak a geotermikus védőidom megállapítására irányuló eljárásában, ha a tevékenység megkezdéséhez környezetvédelmi engedély vagy egységes környezethasználati engedély nem szükséges, a geotermikus védőidom kijelölésének a felszín alatti vizek minőségi védelmével kapcsolatos szakkérdésében, az első fokú eljárásban a környezetvédelmi és természetvédelmi felügyelőséget, a másodfokú eljárásban az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőséget szakhatóságként jelöli ki.
 
-(10)[^48] A Kormány a szén-dioxid geológiai tárolásával kapcsolatos első- és másodfokú engedélyezési eljárásban a 3. mellékletben meghatározott feltételek esetében és szakkérdésben a 3. melléklet szerinti hatóságokat szakhatóságként jelöli ki.
+(9a)[^48] A Kormány a bányászati hatóságnak a geotermikus védőidom megállapítására irányuló eljárásában, ha a tevékenység megkezdéséhez környezetvédelmi engedély vagy egységes környezethasználati engedély nem szükséges, a geotermikus védőidom kijelölésének a vízkészlet-gazdálkodásra, az ivóvízbázisra és a vizek mennyiségi állapotára gyakorolt hatása vizsgálatának szakkérdésében, az első fokú eljárásban a területi vízügyi hatóságot, a másodfokú eljárásban az Országos Vízügyi Hatóságot szakhatóságként jelöli ki.
+
+(10)[^49] A Kormány a szén-dioxid geológiai tárolásával kapcsolatos első- és másodfokú engedélyezési eljárásban a 3. mellékletben meghatározott feltételek esetében és szakkérdésben a 3. melléklet szerinti hatóságokat szakhatóságként jelöli ki.
 
 [^34]: A 4/A. §-t a 362/2008. (XII. 31.) Korm. rendelet 22. § (1) bekezdése iktatta be. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
 [^35]: A 4/A. § (1) bekezdése az 59/2010. (III. 18.) Korm. rendelet 5. § (3) bekezdése, a 411/2012. (XII. 28.) Korm. rendelet 24. § (8) bekezdése szerint módosított szöveg.
@@ -51,5 +53,6 @@ b)[^45] a katasztrófavédelmi előírásoknak való megfelelőség szakkérdés
 [^44]: A 4/A. § (7) bekezdés a) pontja az 527/2013. (XII. 30.) Korm. rendelet 41. § b) pontja szerint módosított szöveg.
 [^45]: A 4/A. § (7) bekezdés b) pontja a 411/2012. (XII. 28.) Korm. rendelet 24. § (4) bekezdésével megállapított szöveg.
 [^46]: A 4/A. § (8) bekezdését a 82/2011. (V. 18.) Korm. rendelet 36. §-a iktatta be.
-[^47]: A 4/A. § (9) bekezdését a 195/2011. (IX. 22.) Korm. rendelet 3. §-a iktatta be, szövege az 527/2013. (XII. 30.) Korm. rendelet 41. § c) pontja szerint módosított szöveg.
-[^48]: A 4/A. § (10) bekezdését a 146/2012. (VII. 5.) Korm. rendelet 23. §-a iktatta be.
+[^47]: A 4/A. § (9) bekezdését a 195/2011. (IX. 22.) Korm. rendelet 3. §-a iktatta be, szövege a 42/2014. (II. 24.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^48]: A 4/A. § (9a) bekezdését a 42/2014. (II. 24.) Korm. rendelet 5. §-a iktatta be.
+[^49]: A 4/A. § (10) bekezdését a 146/2012. (VII. 5.) Korm. rendelet 23. §-a iktatta be.
