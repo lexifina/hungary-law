@@ -1,0 +1,1 @@
+## 2. § Nem jelent kiadási megtakarítást, ha a központi költségvetési szervet az általa foglalkoztatott személy után fizetendő közterhek megfizetését követően a megfizetett összeg tekintetében más költségvetési szerv felé elszámolási kötelezettség terheli.
