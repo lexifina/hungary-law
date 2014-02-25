@@ -43,5 +43,3 @@ III.*
 1. a jelenlegi munkáltató megnevezése, tevékenységi területe
 
 2. a korábbi közigazgatási jellegű munkáltató vagy korábbi fegyveres szerv munkáltató megnevezése, tevékenységi területe, valamint az ott jogviszonyban töltött időtartamok
-
-3. szakmai tapasztalat
