@@ -22,6 +22,6 @@ a) valamely – az állatgenetikai erőforrások megőrzése területén tevéke
 
 b) a beltenyésztettség mértékét meghatározza.
 
-(6)[^26] Ha a kérelmező támogatási kérelme több fajtára irányul, akkor az (1) bekezdés szerinti többletpont a törzskönyvi nyilvántartás szerinti legalacsonyabb létszámmal rendelkező fajta alapján kerül beszámításra.
+(6)[^27] Ha a kérelmező támogatási kérelme több fajtára irányul, akkor az (1) bekezdés szerinti többletpont a törzskönyvi nyilvántartás szerinti legalacsonyabb létszámmal rendelkező fajta alapján kerül beszámításra.
 
-[^26]: A 15. § (6) bekezdését a 138/2012. (XII. 22.) VM rendelet 13. §-a iktatta be.
+[^27]: A 15. § (6) bekezdését a 138/2012. (XII. 22.) VM rendelet 13. §-a iktatta be.

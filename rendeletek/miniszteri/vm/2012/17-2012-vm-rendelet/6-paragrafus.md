@@ -10,7 +10,7 @@ tenyésztési célra és vállalja annak tartását a 6. mellékletben meghatár
 
 b) apaállatot, baromfifélék esetén állományt vásárol és vállalja annak ex situ tartását a 6. mellékletben meghatározottak szerint, vagy
 
-c)[^3] a tenyészetében lévő vagy a megvásárolt apaállatot mesterséges termékenyítő állomáson, várományos bika telepen, vagy kancafedeztetési állomáson tartja.
+c)[^4] a tenyészetében lévő vagy a megvásárolt apaállatot mesterséges termékenyítő állomáson, várományos bika telepen, vagy kancafedeztetési állomáson tartja.
 
 (2) Azok az egyedek, baromfifélék esetén állományok, amelyek az (1) bekezdés a) pont aa) alpontja alapján támogatásban részesültek nem részesülhetnek támogatásban az (1) bekezdés b) pontja alapján.
 
@@ -18,7 +18,7 @@ c)[^3] a tenyészetében lévő vagy a megvásárolt apaállatot mesterséges te
 
 (4) Az állattartónak rendelkeznie kell a tenyésztési hatóság által kiadott a kérelmező szakmai és technikai felkészültségére vonatkozó állásfoglalásával.
 
-(5)[^4] A 6. melléklet szerinti kötelező tenyészetben tartás időszakának első napja
+(5)[^5] A 6. melléklet szerinti kötelező tenyészetben tartás időszakának első napja
 
 a) baromfifélék esetén a Baromfi Információs Rendszer szerinti termelésbe állítás napja,
 
@@ -30,17 +30,17 @@ bb) ha az állattartó apaállatjelöltet nevel fel tenyésztési célra, akkor 
 
 bc) ha az állattartó apaállatot vásárol, akkor az apaállat vásárlásának napja.
 
-(6)[^5] Az (5) bekezdés b) pont bb) alpontja esetében, amennyiben a támogatásra jogosult a támogatási időszakban több támogatási kérelmet nyújtott be, akkor a 6. melléklet szerinti kötelező tartási időszak kezdete a legutolsó támogatási kérelem benyújtásának napja.
+(6)[^6] Az (5) bekezdés b) pont bb) alpontja esetében, amennyiben a támogatásra jogosult a támogatási időszakban több támogatási kérelmet nyújtott be, akkor a 6. melléklet szerinti kötelező tartási időszak kezdete a legutolsó támogatási kérelem benyújtásának napja.
 
-(7)[^6] A 6. melléklet szerinti kötelező tenyészetben tartásnak a (6) bekezdésben megállapított naptól kezdődően folyamatosan fenn kell állnia.
+(7)[^7] A 6. melléklet szerinti kötelező tenyészetben tartásnak a (6) bekezdésben megállapított naptól kezdődően folyamatosan fenn kell állnia.
 
-(8)[^7] A magyar szürke szarvasmarha és a magyar házibivaly fajtákhoz tartozó bika központi felnevelésekor ugyanazon egyed esetén támogatás maximum két egymást követő gazdálkodási évben igényelhető.
+(8)[^8] A magyar szürke szarvasmarha és a magyar házibivaly fajtákhoz tartozó bika központi felnevelésekor ugyanazon egyed esetén támogatás maximum két egymást követő gazdálkodási évben igényelhető.
 
-(9)[^8] Kos és kecske bak központi felnevelése estén maximum 275 nap támogatható.
+(9)[^9] Kos és kecske bak központi felnevelése estén maximum 275 nap támogatható.
 
-[^3]: A 6. § (1) bekezdés c) pontja a 138/2012. (XII. 22.) VM rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^4]: A 6. § (5) bekezdését a 138/2012. (XII. 22.) VM rendelet 8. § (2) bekezdése iktatta be.
-[^5]: A 6. § (6) bekezdését a 138/2012. (XII. 22.) VM rendelet 8. § (2) bekezdése iktatta be.
-[^6]: A 6. § (7) bekezdését a 138/2012. (XII. 22.) VM rendelet 8. § (2) bekezdése iktatta be.
-[^7]: A 6. § (8) bekezdését a 138/2012. (XII. 22.) VM rendelet 8. § (2) bekezdése iktatta be.
-[^8]: A 6. § (9) bekezdését a 138/2012. (XII. 22.) VM rendelet 8. § (2) bekezdése iktatta be.
+[^4]: A 6. § (1) bekezdés c) pontja a 138/2012. (XII. 22.) VM rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^5]: A 6. § (5) bekezdését a 138/2012. (XII. 22.) VM rendelet 8. § (2) bekezdése iktatta be.
+[^6]: A 6. § (6) bekezdését a 138/2012. (XII. 22.) VM rendelet 8. § (2) bekezdése iktatta be.
+[^7]: A 6. § (7) bekezdését a 138/2012. (XII. 22.) VM rendelet 8. § (2) bekezdése iktatta be.
+[^8]: A 6. § (8) bekezdését a 138/2012. (XII. 22.) VM rendelet 8. § (2) bekezdése iktatta be.
+[^9]: A 6. § (9) bekezdését a 138/2012. (XII. 22.) VM rendelet 8. § (2) bekezdése iktatta be.

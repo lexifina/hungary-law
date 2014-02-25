@@ -1,4 +1,4 @@
-2. melléklet a 17/2012. (II. 29.) VM rendelethez[^67]
+2. melléklet a 17/2012. (II. 29.) VM rendelethez[^76]
 
 ## A támogatás céljára kifizethető maximális összegek
 
@@ -104,4 +104,4 @@
 
 | 10 | Nemzetközi szervezet tagdíja | 1 800 Euró/év |
 
-[^67]: A 2. melléklet a 30/2013. (IV. 30.) VM rendelet 11. § (11) bekezdése, a 61/2013. (VII. 19.) VM rendelet 10. § d) pontja szerint módosított szöveg.
+[^76]: A 2. melléklet a 30/2013. (IV. 30.) VM rendelet 11. § (11) bekezdése, a 61/2013. (VII. 19.) VM rendelet 10. § d) pontja szerint módosított szöveg.

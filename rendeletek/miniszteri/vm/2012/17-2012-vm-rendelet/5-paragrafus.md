@@ -24,7 +24,7 @@ a) a tenyésztési hatósággal megkötött szerződéssel, amelyben vállalja a
 
 b) állatfajtánként – az elismert tenyésztőszervezet kivételével – az elismert tenyésztőszervezet igazolásával arról, hogy a tárolni kívánt műszalma – baromfifélék esetén ampulla – és embrió mennyisége, valamint genetikai minősége illeszkedik az elismert tenyésztőszervezet által kialakított megőrzési programhoz.
 
-(3) A (2) bekezdés a) pontja szerinti szerződést a támogatottnak a támogatási kérelemre hozott helyt adó vagy részben helyt adó határozat jogerőre emelkedésétől számított 10 napon belül meg kell küldenie a Mezőgazdasági és Vidékfejlesztési Hivatalnak (a továbbiakban: MVH).
+(3)[^3] A támogatott a (2) bekezdés a) pontja szerinti szerződést a támogatási kérelemre hozott helyt adó vagy részben helyt adó határozat jogerőre emelkedésétől számított 30 napon belül megküldi a Mezőgazdasági és Vidékfejlesztési Hivatalnak (a továbbiakban: MVH).
 
 (4) A támogatási időszak alatt
 
@@ -49,3 +49,5 @@ műszalma – baromfifélék esetén ampulla – sperma begyűjtése, mélyhűt�
 (5) Támogatás csak a termékenyítő anyagot tartalmazó műszalmára – baromfifélék esetén ampullára – igényelhető.
 
 (6) Embrió-előállítás csak szarvasmarha faj esetén támogatható. A támogatási időszak alatt egy donoranyától legfeljebb 20 embrió begyűjtése, mélyhűtésre történő előkészítése és megőrzése támogatható.
+
+[^3]: Az 5. § (3) bekezdése a 13/2014. (II. 24.) VM rendelet 19. §-ával megállapított szöveg.

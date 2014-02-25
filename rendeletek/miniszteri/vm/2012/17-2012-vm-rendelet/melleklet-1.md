@@ -1,5 +1,3 @@
-## 32. §[^65] E rendeletnek az Európai Mezőgazdasági Vidékfejlesztési Alapból finanszírozott egyes állatlétszám alapú támogatási, és egyéb agrártárgyú rendeletek módosításáról szóló 61/2013. (VII. 19.) VM rendelettel [a továbbiakban: 61/2013. (VII. 19.) VM rendelet] megállapított 9. § (2) és (4) bekezdését, a 10. § (3) bekezdés b) pont bb) alpontját, a 12/A. §-át, a 16. § (3) bekezdését, a 19. § (1) bekezdését és a (2) bekezdés a)–b) pontját, e) pont ef) alpontját, és f) pontját, a 19. § (2a)–(2b) bekezdését, a 20. § (2) és (5) bekezdését, a 22. § (3a) és (6) bekezdését, valamint a 2. melléklet 1. In vitro megőrzési célprogram táblázat A:2 mezőjét és a 3. mellékletét a 61/2013. (VII. 19.) VM rendelet hatálybalépésekor[^66] folyamatban lévő ügyekben is alkalmazni kell.
-
 1. melléklet a 17/2012. (II. 29.) VM rendelethez
 
 1. Védett őshonos mezőgazdasági állatfajták
@@ -83,6 +81,3 @@
 | 1 | Faj | Fajta |
 
 | 2 | Szarvasmarha | magyartarka szarvasmarha |
-
-[^65]: A 32. §-t a 61/2013. (VII. 19.) VM rendelet 9. §-a iktatta be.
-[^66]: A hatálybalépés időpontja 2013. július 20.

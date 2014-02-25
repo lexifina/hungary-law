@@ -10,10 +10,10 @@ d) nemzetközi rendezvényeket szervez, azokon részt vesz,
 
 e) az állatgenetikai erőforrásokkal foglalkozó nemzetközi szervezetben tagdíjat fizet,
 
-f)[^10]
+f)[^11]
 
 g) az állatállományok genetikai jellemzőit, a beltenyésztettség mértékét meghatározza, vagy
 
 h) internet alapú nyilvántartást, vagy az adatok begyűjtéséhez, feldolgozásához informatikai rendszert készít, fejleszt és üzemeltet.
 
-[^10]: A 8. § f) pontját a 138/2012. (XII. 22.) VM rendelet 22. §-a hatályon kívül helyezte.
+[^11]: A 8. § f) pontját a 138/2012. (XII. 22.) VM rendelet 22. §-a hatályon kívül helyezte.
