@@ -1,0 +1,3 @@
+## 25. § Az Állami Egészségügyi Tartalékkal való gazdálkodás szabályairól szóló 17/2001. (IV. 28.) EüM rendelet (a továbbiakban: Átr.) 3. § (6) bekezdése helyébe a következő rendelkezés lép:
+
+## „(6) A tartalék a (2)–(5) bekezdésben meghatározott szintek alá – a sürgősségi fekvőbeteg-ellátásban váratlanul bekövetkező hiányok kezelésére, valamint a konkrét ellátási feladatok megoldására történő készletkiadást, az egészségügyi válsághelyzeti ellátásban történő felhasználást, továbbá az emberi erőforrások miniszterének feladatkörét érintő ágazati honvédelmi feladatokról szóló 66/2013. (IX. 23.) EMMI rendelet 11. §-ában részletezett minőségmegőrző csere lebonyolításának időtartamát kivéve – nem csökkenhet.”
