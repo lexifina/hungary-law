@@ -8,8 +8,8 @@
 
 (5)[^2] A várólista kezelésére vonatkozó, az egészségügyi szolgáltató sajátosságainak megfelelő szabályokat az egészségügyi szolgáltató adatvédelmi szabályzata tartalmazza.
 
-(6)[^3] A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 5/B. § k) pontja szerinti intézményi várólistának az egészségügyi szolgáltató honlapjáról elérhetőnek kell lennie.
+(6)[^3] A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 5/B. § k) pontja szerinti intézményi várólistának, illetve u) pontja szerinti előjegyzési listának az egészségügyi szolgáltató honlapjáról elérhetőnek kell lennie.
 
 [^1]: Az 1. § (2) bekezdését a 8/2012. (VI. 29.) EMMI rendelet 5. § a) pontja hatályon kívül helyezte.
 [^2]: Az 1. § (5) bekezdése a 8/2012. (VI. 29.) EMMI rendelet 5. § b) pontja szerint módosított szöveg.
-[^3]: Az 1. § (6) bekezdése a 8/2012. (VI. 29.) EMMI rendelet 4. §-ával megállapított szöveg.
+[^3]: Az 1. § (6) bekezdése a 11/2014. (II. 24.) EMMI rendelet 45. §-ával megállapított szöveg.
