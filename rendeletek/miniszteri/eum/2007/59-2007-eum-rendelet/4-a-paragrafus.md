@@ -1,6 +1,6 @@
-## A költségviselés szabályai[^30]
+## A költségviselés szabályai[^31]
 
-4/A. §[^31] (1) Amennyiben az előzetesen engedélyezett és az 5. § (3) bekezdése szerint megállapított támogatás mértéke nem éri el az egészségügyi szolgáltató által a tételes költségkalkulációban meghatározott és az Értékelő Bizottság által jóváhagyott összegnek az elvégzett ellátás után a szolgáltató által elszámolt részét, a fennmaradó összeg a beteget terheli.
+4/A. §[^32] (1) Amennyiben az előzetesen engedélyezett és az 5. § (3) bekezdése szerint megállapított támogatás mértéke nem éri el az egészségügyi szolgáltató által a tételes költségkalkulációban meghatározott és az Értékelő Bizottság által jóváhagyott összegnek az elvégzett ellátás után a szolgáltató által elszámolt részét, a fennmaradó összeg a beteget terheli.
 
 (2) Amennyiben az elvégzett ellátás után a szolgáltató által elszámolt költség meghaladja a tételes költségkalkulációban a szolgáltató által bemutatott és az Értékelő Bizottság által jóváhagyott költségek mértékét, a fennmaradó összeg az ellátást végző szolgáltatót terheli, ha a többletköltséget a szolgáltatónak a 4. § (3) bekezdése alapján be kellett volna mutatnia az előzetes tételes költségvetési kalkulációban.
 
@@ -14,5 +14,5 @@
 
 (7) A kérelemhez csatolt egészségügyi dokumentáción túl az Értékelő Bizottság döntéséhez szükséges további vizsgálatok költségeit abban az esetben is meg kell téríteni – az 5. § (3) bekezdésében meghatározott összeg erejéig – az e rendelet szerinti támogatások fedezetéül a központi költségvetésben rendelkezésre álló összeg terhére, ha az Értékelő Bizottság a támogatás tárgyában elutasító döntést hoz.
 
-[^30]: A 4/A. §-t megelőző alcímet a 9/2012. (VII. 13.) EMMI rendelet 5. §-a iktatta be.
-[^31]: A 4/A. §-t a 9/2012. (VII. 13.) EMMI rendelet 5. §-a iktatta be.
+[^31]: A 4/A. §-t megelőző alcímet a 9/2012. (VII. 13.) EMMI rendelet 5. §-a iktatta be.
+[^32]: A 4/A. §-t a 9/2012. (VII. 13.) EMMI rendelet 5. §-a iktatta be.

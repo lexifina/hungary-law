@@ -38,7 +38,7 @@
 
 ## s) az a)–p) pont szerinti – e rendelet alapján engedélyezett és támogatott – ellátásokhoz kapcsolódó, szakmai irányelvek alapján indokolt kontroll végzése.
 
-3. számú melléklet az 59/2007. (XII. 29.) EüM rendelethez[^39]
+3. számú melléklet az 59/2007. (XII. 29.) EüM rendelethez[^40]
 
 ADATLAP
 
@@ -298,4 +298,4 @@ A felvétel dátuma (óra, perc pontossággal). Az a regisztrált időpont, amik
 
 A távozás tervezett dátuma (év, hó, nap pontossággal).
 
-[^39]: A 3. számú mellékletet a 9/2012. (VII. 13.) EMMI rendelet 8. § (3) bekezdése iktatta be.
+[^40]: A 3. számú mellékletet a 9/2012. (VII. 13.) EMMI rendelet 8. § (3) bekezdése iktatta be.

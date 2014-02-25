@@ -56,9 +56,11 @@ c) az OEP-nek,
 
 d)[^22] a támogatott ellátást végző egészségügyi szolgáltatónak.
 
-(9)[^23] Az Értékelő Bizottság a döntést követően haladéktalanul tájékoztatja a beteget, illetve meghatalmazottját a (7) bekezdésben foglaltakon túl az ellátás várható költségeiről, valamint arról, hogy a támogatást meghaladó összegű térítési díj fennmaradó részét a beteg köteles viselni.
+(8a)[^23] Az e rendelet alapján támogatott ellátás a (7) bekezdés szerinti döntés meghozatalától számított egy éven belül vehető igénybe.
 
-(10)[^24] A támogatott egészségügyi ellátás a (8) és a (9) bekezdés szerinti tájékoztatást követően vehető igénybe, erről a koordináló szerv a kérelem benyújtását követően haladéktalanul tájékoztatja a kérelmezőt.
+(9)[^24] Az Értékelő Bizottság a döntést követően haladéktalanul tájékoztatja a beteget, illetve meghatalmazottját a (7) és a (8a) bekezdésben foglaltakon túl az ellátás várható költségeiről, valamint arról, hogy a támogatást meghaladó összegű térítési díj fennmaradó részét a beteg köteles viselni.
+
+(10)[^25] A támogatott egészségügyi ellátás a (8) és a (9) bekezdés szerinti tájékoztatást követően vehető igénybe, erről a koordináló szerv a kérelem benyújtását követően haladéktalanul tájékoztatja a kérelmezőt.
 
 [^11]: A 3. § (1) bekezdése a 9/2012. (VII. 13.) EMMI rendelet 9. § b) és c) pontja, a 10. § a) pontja szerint módosított szöveg.
 [^12]: A 3. § (2) bekezdése a 68/2013. (XI. 15.) EMMI rendelet 21. § (1) bekezdésével megállapított szöveg.
@@ -72,5 +74,6 @@ d)[^22] a támogatott ellátást végző egészségügyi szolgáltatónak.
 [^20]: A 3. § (8) bekezdés a) pontja a 9/2012. (VII. 13.) EMMI rendelet 9. § d) pontja szerint módosított szöveg.
 [^21]: A 3. § (8) bekezdés b) pontja a 9/2012. (VII. 13.) EMMI rendelet 3. § (4) bekezdésével megállapított szöveg.
 [^22]: A 3. § (8) bekezdés d) pontját a 68/2013. (XI. 15.) EMMI rendelet 21. § (2) bekezdése iktatta be.
-[^23]: A 3. § (9) bekezdése a 9/2012. (VII. 13.) EMMI rendelet 9. § e) és f) pontja szerint módosított szöveg.
-[^24]: A 3. § (10) bekezdését a 9/2012. (VII. 13.) EMMI rendelet 3. § (5) bekezdése iktatta be.
+[^23]: A 3. § (8a) bekezdését a 11/2014. (II. 24.) EMMI rendelet 46. §-a iktatta be.
+[^24]: A 3. § (9) bekezdése a 9/2012. (VII. 13.) EMMI rendelet 9. § e) és f) pontja, a 11/2014. (II. 24.) EMMI rendelet 48. § a) pontja szerint módosított szöveg.
+[^25]: A 3. § (10) bekezdését a 9/2012. (VII. 13.) EMMI rendelet 3. § (5) bekezdése iktatta be.

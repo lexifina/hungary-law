@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-59-20-0
 | 2011-03-31 | 2007-59-20-0B.3 | 10/2011. (III. 30.) NEFMI rendelet |
 | 2012-07-15 | 2007-59-20-0B.4 | 9/2012. (VII. 13.) EMMI rendelet |
 | 2013-11-16 | 2007-59-20-0B.5 | 68/2013. (XI. 15.) EMMI rendelet |
+| 2014-02-25 | 2007-59-20-0B.6 | 9/2012. (VII. 13.) EMMI rendelet |
