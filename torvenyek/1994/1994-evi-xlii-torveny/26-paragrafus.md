@@ -2,12 +2,18 @@
 
 ## ZÁRÓ RENDELKEZÉSEK
 
-26. § (1) A Kormány felhatalmazást kap arra, hogy a pénzintézetek, valamint a biztosítóintézetek éves beszámolókészítési és könyvvezetési kötelezettségének sajátosságairól szóló kormányrendeletekben külön meghatározza az Eximbank és a Mehib Rt. éves beszámolókészítési és könyvvezetési kötelezettségének sajátosságait.
+26. § (1) Felhatalmazást kap a Kormány arra, hogy rendeletben állapítsa meg
 
-(2) Felhatalmazást kap a Kormány arra, hogy a Mehib Rt. által az állam készfizető kezessége mellett vállalható biztosítások, viszontbiztosítások tárgyát, a biztosítási eseményeket, valamint ezen biztosítások és viszontbiztosítások feltételeit és részletes szabályait, valamint az országok piacképesség szempontjából történő besorolását rendeletben határozza meg.
+a) az Eximbank és a Mehib Rt. éves beszámolókészítési és könyvvezetési kötelezettségének sajátosságait a pénzintézetek, valamint a biztosítóintézetek éves beszámolókészítési és könyvvezetési kötelezettségének sajátosságairól szóló kormányrendelet külön rendelkezései között,
 
-(3) Felhatalmazást kap a Kormány arra, hogy az Eximbank kamatkiegyenlítési rendszere, az állam készfizető kezességével végzett deviza- és kamatcsere ügyletei pótlási- és kamatköltségei és az Eximbank által az állam készfizető kezessége mellett vállalható garanciák feltételeit és részletes szabályait rendeletben szabályozza.
+b) a Mehib Rt. által az állam készfizető kezessége mellett vállalható biztosítások, viszontbiztosítások tárgyát, a biztosítási eseményeket, valamint e biztosítások és viszontbiztosítások feltételeit és részletes szabályait, valamint az országok piacképesség szempontjából történő besorolását,
 
-(4) A Kormány felhatalmazást kap arra, hogy az Eximbank által folyósítható kötött segélyhitelek feltételeit és a segélyhitel-nyújtás részletes szabályait rendeletben állapítsa meg.
+c) az Eximbank kamatkiegyenlítési rendszere részletes szabályait,
 
-(5) Az államháztartásért felelős miniszter felhatalmazást kap arra, hogy rendeletben meghatározza az Eximbank és a Mehib Rt. központi költségvetéssel történő elszámolásának részletes szabályait, valamint a 8/A. § (2) bekezdésében említett jutalék mértékét.
+d) az Eximbank által az állam készfizető kezessége mellett vállalható garanciák és az állam készfizető kezességével végzett deviza- és kamatcsere ügyletei pótlási- és kamatköltségei részletes szabályait,
+
+e) az Eximbank által folyósítható kötött segélyhitelek feltételeit és a segélyhitelnyújtás, segélyhitel ügyletek költségvetéssel történő elszámolásának és az ehhez kapcsolódó adatszolgáltatás részletes szabályait,
+
+f) az Eximbank által a nemzetközi fejlesztési célú együttműködés keretében végezhető tevékenységek és azok költségvetéssel történő elszámolásának, az ehhez kapcsolódó adatszolgáltatás részletes szabályait.
+
+(2) Felhatalmazást kap az államháztartásért felelős miniszter, hogy rendeletben állapítsa meg az (1) bekezdés b)–d) pontjaiban meghatározott kormányrendeletek hatálya alá tartozó tevékenységekre az Eximbank és a Mehib Rt. központi költségvetéssel történő elszámolásának és az ehhez kapcsolódó adatszolgáltatásának részletes szabályait, valamint e rendeletben megállapítsa a 8/A. § (2) bekezdésben meghatározott jutalék mértékét.

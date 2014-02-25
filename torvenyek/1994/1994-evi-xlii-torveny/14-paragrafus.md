@@ -8,4 +8,4 @@
 
 (2) Az Eximbank igazgatósági tagja egyidejűleg a Mehib Rt. igazgatósági tagjává, a Mehib Rt. igazgatósági tagja egyidejűleg az Eximbank igazgatósági tagjává jelölhető.
 
-(3) Az Eximbank tekintetében a Hpt. 148. § (2) bekezdését nem kell alkalmazni.
+(3)

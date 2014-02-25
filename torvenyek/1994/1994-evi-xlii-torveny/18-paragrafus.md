@@ -30,7 +30,7 @@ c) könyvvizsgálói képesítést
 
 szerzett.
 
-(4) A (2) bekezdés a) pontja alkalmazásában büntetlen előéletű az a személy, aki a büntetlen előéletét a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: Btk.) XV. fejezet III. címében meghatározott bűncselekmények, a hamis vád, a hatóság félrevezetése, a hamis tanúzás, a hamis tanúzásra felhívás, a mentő körülmény elhallgatása, a bűnpártolás, a Btk. XV. fejezet VII. címében és VIII. címében meghatározott bűncselekmények, a terrorcselekmény, a nemzetközi gazdasági tilalom megszegése, a légi jármű, vasúti, vízi, közúti tömegközlekedési vagy tömeges áruszállításra alkalmas jármű hatalomba kerítése, a visszaélés robbanóanyaggal vagy robbantószerrel, a visszaélés lőfegyverrel vagy lőszerrel, a visszaélés haditechnikai termékkel és szolgáltatással, illetőleg kettős felhasználású termékkel, a bűnszervezetben részvétel, a visszaélés atomenergia alkalmazásával, a visszaélés nemzetközi szerződés által tiltott fegyverrel, az önbíráskodás, a Btk. XVI. fejezet III. címében meghatározott bűncselekmények, továbbá a Btk. XVII. fejezetében és XVIII. fejezetében meghatározott bűncselekmények tekintetében a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló törvény alapján kibocsátott hatósági bizonyítvánnyal igazolta.
+(4)
 
 (5) Akivel szemben
 

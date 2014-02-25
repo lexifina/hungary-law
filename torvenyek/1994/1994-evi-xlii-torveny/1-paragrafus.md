@@ -14,9 +14,11 @@
 
 (5a) E törvény alkalmazásában:
 
-a) beszállítói ügylet: a magyar árukat és szolgáltatásokat exportáló devizabelföldi gazdálkodó szervezet és más devizabelföldi gazdálkodó szervezet által megkötött olyan szerződés, amelynek tárgya az exportáló devizabelföldi gazdálkodó szervezet által devizakülföldi gazdálkodó szervezettel kötött, magyar áruk vagy szolgáltatások exportjára irányuló szerződésben foglalt kötelezettség teljesítéséhez szükséges áruszállítás vagy szolgáltatás-nyújtás,
+a) beszállítói ügylet: a magyar árukat és szolgáltatásokat exportáló devizabelföldi gazdálkodó szervezet és más devizabelföldi gazdálkodó szervezet által megkötött olyan szerződés, amelynek tárgya az exportáló devizabelföldi gazdálkodó szervezet által devizakülföldi gazdálkodó szervezettel kötött, magyar áruk vagy szolgáltatások exportjára irányuló szerződésbe foglalt kötelezettség teljesítéséhez szükséges áruszállítás vagy szolgáltatás-nyújtás. Idegenforgalmi ágazatba sorolt belföldi gazdálkodó szervezet esetében a devizakülföldivel kötött belföldön teljesített szolgáltatásnyújtás is figyelembe vehető exportra irányuló szolgáltatás-nyújtásként.
 
-b) exportcélú befektetés: devizabelföldi gazdálkodó szervezet export árualap létrehozását vagy szolgáltatásexportot elősegítő befektetése vagy lízingszerződése, amelynek eredményeként befektetés esetén a befektetést megvalósító gazdálkodó szervezetnél vagy az ezen gazdálkodó szervezettel üzleti kapcsolatban álló gazdálkodó szervezetnél, lízingszerződés esetén pedig a lízingbevevő gazdálkodó szervezetnél kimutatható az exportárbevétel növekedése.
+b) exportcélú befektetés: devizabelföldi gazdálkodó szervezet export árualap létrehozását vagy szolgáltatásexportot elősegítő befektetése vagy lízingszerződése, amelynek eredményeként befektetés esetén a befektetést megvalósító gazdálkodó szervezetnél vagy az ezen gazdálkodó szervezettel üzleti kapcsolatban álló gazdálkodó szervezetnél, lízingszerződés esetén pedig a lízingbevevő gazdálkodó szervezetnél kimutatható az exportárbevétel növekedése
+
+c) nemzetközi fejlesztési együttműködés: az OECD DAC besorolás szerint hivatalos fejlesztési támogatásra (ODA) jogosult fejlődő országok gazdasági és társadalmi fejlődésének előmozdítására irányuló, a donor- és a kedvezményezett ország közötti partneri viszonyon alapuló tevékenység, amelynek keretében a donor ország hivatalos szervein, ügynökségein keresztül kedvezményes hiteleket, vagy vissza nem térítendő támogatást nyújt a kedvezményezett országnak, illetve a kedvezményezett ország erre jogosult gazdálkodó szervezeteinek, illetve intézményeinek.
 
 (6) Az Eximbank nem köteles csatlakozni az Országos Betétbiztosítási Alaphoz.
 
