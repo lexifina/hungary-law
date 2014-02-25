@@ -66,4 +66,6 @@
 
 ## 8. Heves megye az a) pont 13. alpontjában felsorolt települések kivételével.
 
-5. melléklet a 481/2013. (XII. 17.) Korm. rendelethez
+5. melléklet a 481/2013. (XII. 17.) Korm. rendelethez[^9]
+
+[^9]: Az 5. melléklet a 42/2014. (II. 24.) Korm. rendelet 19. § (3) bekezdése szerint módosított szöveg.

@@ -8,7 +8,7 @@
 
 ## 4. Dél-dunántúli Környezetvédelmi és Természetvédelmi Felügyelőség, Pécs
 
-## 5. Közép-Duna-völgyi Környezetvédelmi és Természetvédelmi Felügyelőség, Budapest
+## 5.[^8] Közép-Duna-völgyi Környezetvédelmi és Természetvédelmi Felügyelőség, Veresegyház
 
 ## 6. Tiszántúli Környezetvédelmi és Természetvédelmi Felügyelőség, Debrecen
 
@@ -941,3 +941,5 @@
 ## Szeged, Kecskemét, Hódmezővásárhely megyei jogú városok, Csongrád, Bács-Kiskun megye, az illetékességi területén működő települési önkormányzatok és más hatóságok.
 
 2. melléklet a 481/2013. (XII. 17.) Korm. rendelethez
+
+[^8]: Az 1. melléklet I. pont 5. alpontja a 42/2014. (II. 24.) Korm. rendelet 19. § (4) bekezdése b) pontja szerint módosított szöveg.

@@ -6,7 +6,7 @@
 
 | 2. | Előzetes vizsgálat | Környezeti hatásvizsgálat | Egységes környezet- használati engedélyezés | Szakkérdés | Első fok | Másodfok |
 
-| 3. | Minden esetben. | Annak elbírálása, hogy a tevékenység vízellátása, a keletkező csapadék- és szennyvíz elvezetése biztosított-e, továbbá annak elbírálása, hogy a tevékenység az árvíz és a jég levonulására, a mederfenntartásra milyen hatást gyakorol. | területi vízügyi hatóság | Országos Vízügyi Hatóság |
+| 3. | Minden esetben. | Annak elbírálása, hogy a tevékenység vízellátása, a keletkező csapadék- és szennyvíz elvezetése biztosított-e, vízbázis védőterületére, védőidomára jogszabályban, illetve határozatban meghatározott előírások érvényesíthetők-e, továbbá annak elbírálása, hogy a tevékenység az árvíz és a jég levonulására, a mederfenntartásra milyen hatást gyakorol. | területi vízügyi hatóság | Országos Vízügyi Hatóság |
 
 | 4. | Minden esetben. | A környezet- és település-egészségügyre, az egészségkárosító kockázatok és esetleges hatások felmérésére, a felszín alatti vizek minőségét, egészségkárosítás nélküli fogyaszthatóságát, felhasználhatóságát befolyásoló körülmények, tényezők vizsgálatára, lakott területtől (lakóépülettől) számított védőtávolságok véleményezésére, a talajjal, a szennyvizekkel, veszélyes hulladékokkal kapcsolatos közegészségügyi követelmények érvényesítésére, az emberi használatra szolgáló felszíni vizek védelmére, továbbá a levegő higiénés követelmények teljesülésére kiterjedően. | fővárosi és megyei kormányhivatal megyei népegészségügyi szakigazgatási szerve | Állami Népegészségügyi és Tisztiorvosi Szolgálat Országos Tisztifőorvosi Hivatal |
 
