@@ -15,11 +15,3 @@ Minősítési lap
 ## Születési hely:
 
 ## Születési idő:
-
-## Munkakör:
-
-## Besorolás:
-
-## Pénzügyőr esetében rendfokozat:
-
-## Vezetői munkakör:
