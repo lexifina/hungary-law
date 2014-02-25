@@ -18,7 +18,7 @@
 
 ## Amennyiben az egészségügyi szolgáltatás nem orvosi vagy ápolási szakma végzésére, illetve kizárólag járóbeteg-szakellátás keretében végzett tevékenységre irányul, a szakmai program tartalmi elemeit a szolgáltatás jellege szerinti értelemszerű alkalmazással kell elkészíteni.
 
-3. melléklet a 96/2003. (VII. 15.) Korm. rendelethez[^124]
+3. melléklet a 96/2003. (VII. 15.) Korm. rendelethez[^127]
 
 Fekvőbeteg-szakellátás
 
@@ -56,4 +56,4 @@ Alapellátás
 
 | aláírás |
 
-[^124]: A 3. mellékletet a 325/2011. (XII. 28.) Korm. rendelet 47. (2) bekezdése iktatta be, szövege az 520/2013. (XII. 30.) Korm. rendelet 34. §-ával megállapított szöveg.
+[^127]: A 3. mellékletet a 325/2011. (XII. 28.) Korm. rendelet 47. (2) bekezdése iktatta be, szövege az 520/2013. (XII. 30.) Korm. rendelet 34. §-ával megállapított szöveg.
