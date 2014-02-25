@@ -1,6 +1,6 @@
 ## Többletkapacitás-befogadási eljárás
 
-13. §[^168] (1) A 12. § alapján előzetesen be nem fogadott többletkapacitás befogadására a (2)–(6) bekezdés és a 14–15/A. § alapján lefolytatott eljárás során kerülhet sor.
+13. §[^169] (1) A 12. § alapján előzetesen be nem fogadott többletkapacitás befogadására a (2)–(6) bekezdés és a 14–15/A. § alapján lefolytatott eljárás során kerülhet sor.
 
 (2) A többletkapacitás befogadása iránti kérelmet az egészségügyi szolgáltató fenntartója – egészségügyi felsőoktatási intézmény egészségügyi szolgáltatója esetén a felsőoktatási intézmény vezetője – nyújthatja be az OEP-hez. Ha a fenntartó nem azonos az egészségügyi közszolgáltatásért felelős szervvel, a kérelemhez az egészségügyi közszolgáltatásért felelős szerv ellenjegyzése is szükséges.
 
@@ -24,4 +24,4 @@ d) az Egészségügyi Szakmai Kollégium szakmailag érintett tagozatának véle
 
 (8) Az OEP a beérkezett kérelmeket véleményezi és azokat a véleményével, az Egészségügyi Szakmai Kollégium érintett tagozatának a véleményével, valamint a (6) bekezdés alapján készített összefoglalóval, továbbá az OTH által a (7) bekezdés szerinti megkeresésre adott állásfoglalással együtt – a TBB soron következő ülését megelőző 5 napon belül – megküldi a TBB tagjainak.
 
-[^168]: A 13. § az 520/2013. (XII. 30.) Korm. rendelet 53. §-ával megállapított szöveg.
+[^169]: A 13. § az 520/2013. (XII. 30.) Korm. rendelet 53. §-ával megállapított szöveg.

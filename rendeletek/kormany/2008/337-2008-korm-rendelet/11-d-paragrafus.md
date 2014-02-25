@@ -1,6 +1,6 @@
-## 11/C. §[^151] Abban az esetben, ha a 8. § (16) bekezdése szerinti eljárás során engedélyezte az OTH a többletkapacitást eredményező átcsoportosítást, a többletkapacitás befogadása tárgyában nem kell külön eljárást lefolytatni, illetve külön döntést hozni.
+## 11/C. §[^152] Abban az esetben, ha a 8. § (16) bekezdése szerinti eljárás során engedélyezte az OTH a többletkapacitást eredményező átcsoportosítást, a többletkapacitás befogadása tárgyában nem kell külön eljárást lefolytatni, illetve külön döntést hozni.
 
-11/D. §[^152] (1) Az egészségügyért felelős miniszter a többletkapacitások 13–15/A. § szerinti befogadása, illetve a már befogadott többletkapacitások 15/B. § szerinti felülvizsgálata során figyelembeveendő szakmai prioritásokat határozhat meg, ha
+11/D. §[^153] (1) Az egészségügyért felelős miniszter a többletkapacitások 13–15/A. § szerinti befogadása, illetve a már befogadott többletkapacitások 15/B. § szerinti felülvizsgálata során figyelembeveendő szakmai prioritásokat határozhat meg, ha
 
 a) új feladat ellátása érdekében szükséges többletkapacitás bevonása,
 
@@ -14,5 +14,5 @@ c) valamely szakma esetében az ellátásokhoz való hozzáférés javítása é
 
 (4) A (3) bekezdés alapján a Hivatalos Értesítőben közzétett szakmai prioritásokat az egészségügyért felelős miniszter módosíthatja a Hivatalos Értesítőben közzétett közleményével.
 
-[^151]: A 11/C. §-t a 447/2012. (XII. 29.) Korm. rendelet 53. §-a iktatta be.
-[^152]: A 11/D. §-t az 520/2013. (XII. 30.) Korm. rendelet 50. §-a iktatta be.
+[^152]: A 11/C. §-t a 447/2012. (XII. 29.) Korm. rendelet 53. §-a iktatta be.
+[^153]: A 11/D. §-t az 520/2013. (XII. 30.) Korm. rendelet 50. §-a iktatta be.

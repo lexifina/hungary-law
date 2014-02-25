@@ -1,4 +1,4 @@
-15/C. §[^174] (1) Az OTH
+15/C. §[^175] (1) Az OTH
 
 a) az év negyedik negyedévében a 13. § (7) bekezdése szerinti rehabilitációs ellátásokat végző osztályra kiterjedően,
 
@@ -12,4 +12,4 @@ ellenőrzést végez.
 
 (3) Ha az (1) bekezdés szerinti ellenőrzés azt állapítja meg, hogy a szolgáltató nem felel meg a jogszabályban meghatározott szakmai feltételeknek és ezért a tevékenységének finanszírozásra alacsonyabb súlyozási szorzóval kerülhet sor, az OTH az érintett kapacitás visszavonásáról dönt és megállapítja az új, alacsonyabb súlyozási szorzóval számított kapacitást vagy a kapacitás visszavonását.
 
-[^174]: A 15/C. §-t az 520/2013. (XII. 30.) Korm. rendelet 55. §-a iktatta be.
+[^175]: A 15/C. §-t az 520/2013. (XII. 30.) Korm. rendelet 55. §-a iktatta be.

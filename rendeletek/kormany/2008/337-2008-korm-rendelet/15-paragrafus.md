@@ -1,4 +1,4 @@
-15. §[^170] (1) A TBB az üléséig beérkezett hiánytalan kérelmek alapján – a (2)–(5) bekezdésben foglaltak figyelembevételével – javaslatot (a továbbiakban: befogadási javaslat) tesz az egészségügyért felelős miniszternek a többletkapacitás befogadására.
+15. §[^171] (1) A TBB az üléséig beérkezett hiánytalan kérelmek alapján – a (2)–(5) bekezdésben foglaltak figyelembevételével – javaslatot (a továbbiakban: befogadási javaslat) tesz az egészségügyért felelős miniszternek a többletkapacitás befogadására.
 
 (2) A TBB a befogadási javaslatának elkészítése során
 
@@ -48,4 +48,4 @@ d) a finanszírozás javasolt kezdési időpontját.
 
 (7) A TBB a befogadási javaslatában csak azon szolgáltatók rehabilitációs osztályain nyújtott ellátások esetében javasolhatja a szorzó emelkedését, illetve befogadását, amelyek – az OTH állásfoglalása szerint – megfelelnek a jogszabályban meghatározott szakmai szempontoknak, vagy ennek hiányában a szakmai minimumfeltételekről szóló rendeletben meghatározott feltételeknek.
 
-[^170]: A 15. § az 520/2013. (XII. 30.) Korm. rendelet 53. §-ával megállapított szöveg.
+[^171]: A 15. § az 520/2013. (XII. 30.) Korm. rendelet 53. §-ával megállapított szöveg.
