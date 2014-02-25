@@ -2,11 +2,11 @@
 
 13. § (1) A támogatási időszak alatt az adott egyedek, baromfifélék esetén állomány elismert tenyésztőszervezet általi nukleusz vagy fajtafenntartó minősítése naptári évenként változhat.
 
-(2)[^12] Ha a kifizetési kérelemre hozott helyt adó vagy részben helyt adó kifizetési határozatban – a szarvasmarha, a bivaly, a ló, a szamár, a juh, a kecske és a sertés faj esetében a kifizetési kérelem benyújtását megelőző évben beállított szaporulat figyelembe vétele nélkül – az aktuális állatállománynál kisebb a támogatott állatlétszám, akkor az, az állomány csökkentésének minősül.
+(2)[^13] Ha a kifizetési kérelemre hozott helyt adó vagy részben helyt adó kifizetési határozatban – a szarvasmarha, a bivaly, a ló, a szamár, a juh, a kecske és a sertés faj esetében a kifizetési kérelem benyújtását megelőző évben beállított szaporulat figyelembe vétele nélkül – az aktuális állatállománynál kisebb a támogatott állatlétszám, akkor az, az állomány csökkentésének minősül.
 
 (3) Az azon egyedek, baromfifélék esetén állomány után igénybe vett támogatás, amellyel az aktuális állatállományt csökkentették, jogosulatlanul igénybe vett támogatásnak minősül.
 
-(4)[^13] Ha az állatállománynak az adott évben jóváhagyott létszáma nem éri el a jogosultsági feltételként szereplő minimálisan támogatható célprogramonkénti állatlétszámot, akkor a támogatásra jogosult az érintett célprogramból kizárásra kerül, és köteles a már igénybe vett támogatási összeget a jogosulatlanul igénybe vett támogatásra vonatkozó szabályok szerint visszafizetni.
+(4)[^14] Ha az állatállománynak az adott évben jóváhagyott létszáma nem éri el a jogosultsági feltételként szereplő minimálisan támogatható célprogramonkénti állatlétszámot, akkor a támogatásra jogosult az érintett célprogramból kizárásra kerül, és köteles a már igénybe vett támogatási összeget a jogosulatlanul igénybe vett támogatásra vonatkozó szabályok szerint visszafizetni.
 
 (5) A célprogramban az állatállománynak az aktuális állatállományhoz képest történő növelésére – a kötelezettségek átvállalásán túl – az állatállomány-szaporulat mértékéig van lehetőség az adott évi kifizetési kérelem benyújtása során.
 
@@ -14,11 +14,11 @@
 
 (7) A kötelezettség átvállalásából, valamint a vásárlásból származó állománynövekedés nem vehető figyelembe a vállalt állatállomány-szaporulat teljesítéseként.
 
-(8)[^14] Azokra az egyedekre, baromfi esetén állományokra vonatkozóan, amelyekkel az állományt már csökkentették további kifizetést nem lehet igényelni.
+(8)[^15] Azokra az egyedekre, baromfi esetén állományokra vonatkozóan, amelyekkel az állományt már csökkentették további kifizetést nem lehet igényelni.
 
-(9)[^15] Az állomány csökkenése esetén az állományra meghatározott állatállomány-szaporulat még meg nem valósult részére vonatkozóan a támogatási jogosultság megszűnik, és a tartót további tartási kötelezettség ezen szaporulati állomány vonatkozásában nem terheli.
+(9)[^16] Az állomány csökkenése esetén az állományra meghatározott állatállomány-szaporulat még meg nem valósult részére vonatkozóan a támogatási jogosultság megszűnik, és a tartót további tartási kötelezettség ezen szaporulati állomány vonatkozásában nem terheli.
 
-[^12]: A 13. § (2) bekezdése a 30/2013. (IV. 30.) VM rendelet 9. § (2) bekezdésével megállapított szöveg.
-[^13]: A 13. § (4) bekezdése a 112/2011. (XI. 24.) VM rendelet 4. § (2) bekezdésével megállapított szöveg.
-[^14]: A 13. § (8) bekezdését a 74/2011. (VII. 29.) VM rendelet 3. §-a iktatta be.
-[^15]: A 13. § (9) bekezdését a 112/2011. (XI. 24.) VM rendelet 4. § (3) bekezdése iktatta be, szövege a 78/2012. (VII. 27.) VM rendelet 2. §-ával megállapított szöveg.
+[^13]: A 13. § (2) bekezdése a 30/2013. (IV. 30.) VM rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^14]: A 13. § (4) bekezdése a 112/2011. (XI. 24.) VM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^15]: A 13. § (8) bekezdését a 74/2011. (VII. 29.) VM rendelet 3. §-a iktatta be.
+[^16]: A 13. § (9) bekezdését a 112/2011. (XI. 24.) VM rendelet 4. § (3) bekezdése iktatta be, szövege a 78/2012. (VII. 27.) VM rendelet 2. §-ával megállapított szöveg.

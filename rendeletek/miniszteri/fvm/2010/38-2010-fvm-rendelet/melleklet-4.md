@@ -32,7 +32,7 @@
 
 | 15 | lúd | 40 | 16 |  |
 
-4. melléklet a 38/2010. (IV. 15.) FVM rendelethez[^59]
+4. melléklet a 38/2010. (IV. 15.) FVM rendelethez[^65]
 
 ## A tenyésztési program ellenőrzésének szempontjai az egyes fajták esetében
 
@@ -162,4 +162,4 @@
 
 8.2.1. Az elit szaporításhoz szükséges, legszűkebb ivararány biztosítása a szaporítási időszak végéig, a hímivarú tenyészállatok származásának dokumentálása.
 
-[^59]: A 4. melléklet a 17/2013. (III. 18.) VM rendelet 3. § (7) bekezdés b) pontja szerint módosított szöveg.
+[^65]: A 4. melléklet a 17/2013. (III. 18.) VM rendelet 3. § (7) bekezdés b) pontja szerint módosított szöveg.
