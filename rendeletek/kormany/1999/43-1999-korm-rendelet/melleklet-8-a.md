@@ -28,13 +28,13 @@
 
 | 00028 | Gyermekek és ifjak addiktológiai, pszichiátriai rehabilitációs ellátása | 1,8 |
 
-|  | Természetes gyógytényezők felhasználásával végzett krónikus ellátás | 1,8 |
+| 00029 | Természetes gyógytényezők felhasználásával végzett krónikus ellátás | 1,8 |
 
-|  | Pszichiátriai rehabilitáció „C” szint*** | 1,2 |
+| 00030 | Pszichiátriai rehabilitáció „C” szint*** | 1,2 |
 
-|  | Pszichiátriai rehabilitáció „B” szint**** | 1,4 |
+| 00031 | Pszichiátriai rehabilitáció „B” szint**** | 1,4 |
 
-|  | Pszichiátriai rehabilitáció „A” szint***** | 1,8 |
+| 00032 | Pszichiátriai rehabilitáció „A” szint***** | 1,8 |
 
 ## * A nappali kórházi ellátás esetében a fekvőbeteg-ellátást nyújtó háttérosztály minősítése szerinti szakmai szorzó alkalmazható.
 
@@ -46,6 +46,6 @@
 
 ## ***** Ha az egészségügyi ellátórendszer fejlesztéséről szóló 2006. évi CXXXII. törvény végrehajtásáról szóló 337/2008. (XII. 30.) Korm. rendelet alapján többletkapacitásként befogadásra került, és teljesülnek az egészségügyi szolgáltatások nyújtásához szükséges szakmai minimumfeltételekről szóló miniszteri rendeletben a pszichiátriai rehabilitáció III. progresszivitási szintjére vagy a pszichoterápiás rehabilitációs osztályra előírt feltételek.
 
-8/A. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^539]
+8/A. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^547]
 
-[^539]: A 8/A. számú mellékletet a 291/2009. (XII. 18.) Korm. rendelet 14. § (2) bekezdése iktatta be, szövege a 365/2010. (XII. 30.) Korm. rendelet 13. § (5) bekezdésével megállapított, a 259/2012. (IX. 14.) Korm. rendelet 5. § (2) bekezdése, a 254/2013. (VII. 5.) Korm. rendelet 27. § k) pontja szerint módosított szöveg.
+[^547]: A 8/A. számú mellékletet a 291/2009. (XII. 18.) Korm. rendelet 14. § (2) bekezdése iktatta be, szövege a 365/2010. (XII. 30.) Korm. rendelet 13. § (5) bekezdésével megállapított, a 259/2012. (IX. 14.) Korm. rendelet 5. § (2) bekezdése, a 254/2013. (VII. 5.) Korm. rendelet 27. § k) pontja szerint módosított szöveg.

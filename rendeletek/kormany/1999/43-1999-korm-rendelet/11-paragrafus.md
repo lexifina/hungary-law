@@ -16,9 +16,9 @@ b)[^101] a településen más azonos típusú területi ellátási kötelezetts�
 
 (7)[^104] Amennyiben a háziorvosi szolgáltató a háziorvosi, házi gyermekorvosi és fogorvosi tevékenységről szóló 4/2000. (II. 25.) EüM. rendelet 6. § (1) és (2) bekezdésében meghatározott szakdolgozókon túl a háziorvosi szolgálat feladatainak ellátására további szakdolgozót alkalmaz, erről bejelentést tesz a finanszírozónak és erre tekintettel a finanszírozási szerződés módosításra kerül, a (3) bekezdés szerinti elszámolásban a háziorvosi szolgálat degressziós ponthatára
 
-a) a további szakdolgozó teljes munkaidőben történő foglalkoztatása esetén – kivéve az egy hónapot meghaladó tartós távollétet – 800 ponttal megemelt érték,
+a)[^105] a további szakdolgozó teljes munkaidőben történő foglalkoztatása esetén – kivéve az egy hónapot meghaladó tartós távollétet – 1100 ponttal megemelt érték,
 
-b) nem teljes, de legalább heti 20 órás munkaidőben történő foglalkoztatás esetén az a) pont szerinti 800 pont időarányosan csökkentett részével megemelt érték.
+b)[^106] nem teljes, de legalább heti 20 órás munkaidőben történő foglalkoztatás esetén az a) pont szerinti 1100 pont időarányosan csökkentett részével megemelt érték.
 
 [^96]: Az 58/2009. (III. 18.) Korm. rendelet 18. § (8) bekezdése alapján a háziorvosi szolgáltató a vények és egyéb orvosi dokumentáció részét képező iratok nyomtatásához szükséges eszköz költségeinek részleges fedezetére a 2009. május havi finanszírozás során háziorvosi szolgálatonként egyszeri, 10 000 forint támogatási díjra jogosult.
 [^97]: A 11. § (1) bekezdése a 21/2000. (III. 3.) Korm. rendelet 7. §-a szerint módosított szöveg, harmadik mondatát a 318/2006. (XII. 23.) Korm. rendelet 7. §-a iktatta be.
@@ -29,3 +29,5 @@ b) nem teljes, de legalább heti 20 órás munkaidőben történő foglalkoztat�
 [^102]: A 11. § (5) bekezdése a 293/2002. (XII. 27.) Korm. rendelet 26. §-ának (3) bekezdése, a 365/2010. (XII. 30.) Korm. rendelet 18. § 10. pontja szerint módosított szöveg.
 [^103]: A 11. § (6) bekezdése a 293/2002. (XII. 27.) Korm. rendelet 8. §-ával megállapított, valamint a 365/2010. (XII. 30.) Korm. rendelet 18. § 10. pontja szerint módosított szöveg.
 [^104]: A 11. § (7) bekezdését a 151/2008. (V. 30.) Korm. rendelet 3. §-a iktatta be. E módosító rendelet 11. § (4) bekezdése alapján a 11. § (7) bekezdésében meghatározott további szakdolgozó után megállapított degressziós ponthatár alkalmazására az egészségügyi szolgáltató finanszírozási szerződése módosításának érvénybe lépését követő hónaptól kerül sor. Lásd még e módosító rendelet 11. § (6) bekezdését.
+[^105]: A 11. § (7) bekezdés a) pontja a 40/2014. (II. 24.) Korm. rendelet 11. § a) pontja szerint módosított szöveg.
+[^106]: A 11. § (7) bekezdés b) pontja a 40/2014. (II. 24.) Korm. rendelet 11. § a) pontja szerint módosított szöveg.

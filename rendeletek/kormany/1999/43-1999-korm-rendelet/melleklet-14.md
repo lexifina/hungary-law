@@ -1,4 +1,4 @@
-14. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^546]
+14. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^554]
 
 „ADATLAP kórházi (osztályos) ápolási esetről
 
@@ -158,42 +158,4 @@ V. magyar biztosított külföldi ellátása a szociális biztonsági rendszerek
 
 Y. magyar biztosított külföldi ellátása a határon átnyúló egészségügyi ellátás keretében
 
-W. magyar biztosítás alapján magyarországi szolgáltató által a külföldön történő gyógykezelések részletes szabályairól szóló 340/2013. (IX. 25.) Korm. rendelet 5. § (3) bekezdése szerint végzett ellátás
-
-0. élsportoló speciális ellátása
-
-4/A. Részleges térítés jogcíme
-
-Az alábbi nyolc közül amelyik jogcímek fennállnak, azoknak a mezőjébe kell az adott kódot beírni:
-
-A. az ellátást végző orvos megválasztása
-
-B. biztosított beutaló nélküli ellátása
-
-C. beutalási rendtől eltérő igénybevétel
-
-H. külsődleges nemi jellegek megváltoztatása
-
-4/B. Részleges térítési díj összege (Ft)
-
-R térítési kategória esetén a maximum érték eléréséig kitöltése kötelező
-
-5. Személyazonosító típusa
-
-0. a személyazonosító jel nincs kitöltve
-
-1. TAJ szám
-
-2. 3 hónapnál fiatalabb gyermek képzett TAJ száma
-
-3. útlevélszám
-
-5. menedékes, kérelmező, befogadó igazolvány száma
-
-6. ismeretlen TAJ számú elhunyt személy, illetve ismeretlen beteg
-
-6. Személyazonosító Jel
-
-TAJ szám, illetve a személyazonosító típusának megfelelő egyéb azonosító
-
-[^546]: A 14. számú melléklet a 291/2009. (XII. 18.) Korm. rendelet 14. § (3) bekezdésével megállapított, a 365/2010. (XII. 30.) Korm. rendelet 13. § (7) bekezdése és 19. § (1) bekezdés g) pontja és (2) bekezdés c) pontja, a 73/2011. (IV. 29.) Korm. rendelet 6. § (5) bekezdése, a 139/2011. (VII. 21.) Korm. rendelet 19. § (3) bekezdése, a 227/2011. (X. 28.) Korm. rendelet 6. § (2) bekezdése, a 325/2011. (XII. 28.) Korm. rendelet 26. § (1) bekezdés k) pontja, a 164/2012. (VII. 19.) Korm. rendelet 1. §-a, a 447/2012. (XII. 29.) Korm. rendelet 27. § (4) bekezdése és 29. § i) pontja, a 254/2013. (VII. 5.) Korm. rendelet 26. § (2) bekezdése, a 339/2013. (IX. 25.) Korm. rendelet 12. § (3) bekezdése, az 519/2013. (XII. 20.) Korm. rendelet 10. § (5) bekezdése szerint módosított szöveg.
+[^554]: A 14. számú melléklet a 291/2009. (XII. 18.) Korm. rendelet 14. § (3) bekezdésével megállapított, a 365/2010. (XII. 30.) Korm. rendelet 13. § (7) bekezdése és 19. § (1) bekezdés g) pontja és (2) bekezdés c) pontja, a 73/2011. (IV. 29.) Korm. rendelet 6. § (5) bekezdése, a 139/2011. (VII. 21.) Korm. rendelet 19. § (3) bekezdése, a 227/2011. (X. 28.) Korm. rendelet 6. § (2) bekezdése, a 325/2011. (XII. 28.) Korm. rendelet 26. § (1) bekezdés k) pontja, a 164/2012. (VII. 19.) Korm. rendelet 1. §-a, a 447/2012. (XII. 29.) Korm. rendelet 27. § (4) bekezdése és 29. § i) pontja, a 254/2013. (VII. 5.) Korm. rendelet 26. § (2) bekezdése, a 339/2013. (IX. 25.) Korm. rendelet 12. § (3) bekezdése, az 519/2013. (XII. 20.) Korm. rendelet 10. § (5) bekezdése szerint módosított szöveg.
