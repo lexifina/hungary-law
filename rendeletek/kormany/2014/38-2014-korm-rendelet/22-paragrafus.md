@@ -1,0 +1,1 @@
+## 21. § A papír alapú adatlap-másolat szolgáltatása iránti kérelmet a földügyért felelős miniszter által rendszeresített, az általa vezetett minisztérium, valamint a földhivatalok hivatalos honlapján közzétett formanyomtatványon kell benyújtani. A kérelem adattartalmát a 4. melléklet határozza meg.

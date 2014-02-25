@@ -1,0 +1,1 @@
+## 24. § E rendeletben meghatározottak szerint kell eljárnia annak a természetes személynek, vagy szervezetnek is, aki vagy amely a Fétv. XIX. fejezetében foglaltak alkalmazása során nyilatkozott arról, hogy megfelel a Fétv. 5. §-ában foglaltaknak.
