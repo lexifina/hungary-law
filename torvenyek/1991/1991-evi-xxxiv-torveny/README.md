@@ -25,3 +25,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1991-34-00-00
 | 2013-11-15 | 2013. évi CLXXXV. törvény | 1991-34-00-00.56 |
 | 2013-12-13 | 2013. évi CCXV. törvény | 1991-34-00-00.57 |
 | 2014-01-02 | 2013. évi CXXVI. törvény | 1991-34-00-00.58 |
+| 2014-02-25 | 2014. évi XVI. törvény | 1991-34-00-00.59 |

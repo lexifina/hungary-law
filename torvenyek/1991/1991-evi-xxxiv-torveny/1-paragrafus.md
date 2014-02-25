@@ -8,7 +8,7 @@ a) sorsolásos játék szervezése,
 
 b)
 
-c) szerencsejátékok lebonyolítására szervezet (a továbbiakban: játékkaszinó) alapítása, működtetése,
+c) szerencsejátékok lebonyolítására létrejött szervezet (a továbbiakban: játékkaszinó) működtetése,
 
 d) kártyaterem üzemeltetése,
 

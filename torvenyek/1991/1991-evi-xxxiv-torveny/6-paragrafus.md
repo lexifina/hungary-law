@@ -4,6 +4,10 @@
 
 (3) A szerencsejátékokkal kapcsolatos koncessziós eljárásra – az e törvényben foglalt eltérésekkel – a Ktv. rendelkezéseit kell alkalmazni.
 
+(4) Ha a megbízható szerencsejáték szervezővel megkötött koncessziós szerződést aláíró által az (1) bekezdés és a Ktv. 20. § (1) bekezdése szerint megalapított koncessziós társaság tagja olyan koncessziós társaság, amely koncesszió-köteles tevékenység folytatására jogosultként koncesszió-köteles tevékenységet folytat, a Ktv. 26. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy esetében a későbbi koncessziós szerződésben meghatározott időtartam lejártakor kell a végelszámolást lefolytatni.
+
+(5) Az 1. § (3) bekezdés c) pontja szerinti tevékenység tekintetében a megbízható szerencsejáték szervező által megalapított koncessziós társaságra a Ktv. 22. §-át nem kell alkalmazni.
+
 2. CÍM
 
 A szerencsejáték szervezés állami felügyelete
