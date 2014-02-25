@@ -1,32 +1,30 @@
 ## 6. § A jóváhagyható támogatás összege egy ügyfél egy támogatási kérelem benyújtási időszakban beadott kérelme alapján legfeljebb 70 000 eurónak megfelelő forint, de legfeljebb 21 millió forint.
 
-7. § (1) A támogatás mértékének meghatározása erdőrészletenként, területi kategóriák megállapításán keresztül történik. Az adott erdőrészlet az Adattárban nyilvántartott területi adatai alapján:
+7. § (1)[^8] A támogatás mértékének meghatározása erdőrészletenként, területi kategóriák megállapításán keresztül történik. Ha a 2. § a) pontja szerinti tevékenységet a 3. § (5) bekezdésének megfelelő részterületen végzik, a területi kategória meghatározásánál az erdőrészlet területe helyett a részterület területét kell figyelembe venni. Az adott erdőrészlet – az Adattárban nyilvántartott területi adatai, vagy a 3. § (5) bekezdésének megfelelő részterületének a támogatási kérelemben szereplő adatai alapján –
 
-a) I. kategóriába tartozik, ha területe 0,3 és 1,20 hektár,
+a) az I. kategóriába tartozik, ha területe 0,3 és 1,20 hektár közé esik,
 
-b) II. kategóriába tartozik, ha területe 1,21 és 2,39 hektár,
+b) a II. kategóriába tartozik, ha területe 1,21 és 2,39 hektár közé esik,
 
-c) III. kategóriába tartozik, ha területe 2,4 és 4,49 hektár,
+c) a III. kategóriába tartozik, ha területe 2,4 és 4,49 hektár közé esik,
 
-d) IV. kategóriába tartozik, ha területe 4,5 és 6,59 hektár,
+d) a IV. kategóriába tartozik, ha területe 4,5 és 6,59 hektár közé esik,
 
-e) V. kategóriába tartozik, ha területe 6,6 és 8,69 hektár,
+e) az V. kategóriába tartozik, ha területe 6,6 és 8,69 hektár közé esik,
 
-f) VI. kategóriába tartozik, ha területe 8,7 és 10,79 hektár,
+f) a VI. kategóriába tartozik, ha területe 8,7 és 10,79 hektár közé esik,
 
-g) VII. kategóriába tartozik, ha területe 10,8 és 12,89 hektár,
+g) a VII. kategóriába tartozik, ha területe 10,8 és 12,89 hektár közé esik,
 
-h) VIII. kategóriába tartozik, ha területe 12,9 és 24,99 hektár,
+h) a VIII. kategóriába tartozik, ha területe 12,9 és 24,99 hektár közé esik,
 
-i) IX. kategóriába tartozik, ha területe 25,0 és 44,99 hektár
+i) a IX. kategóriába tartozik, ha területe 25,0 és 44,99 hektár közé esik, vagy
 
-közé esik, valamint
-
-j) X. kategóriába tartozik, ha területe 45,0 hektár, vagy nagyobb.
+j) a X. kategóriába tartozik, ha területe 45,0 hektár, vagy nagyobb.
 
 (2) Az adott területi kategóriában erdőrészletenként maximálisan megítélhető támogatás mértéke az 1. melléklet szerint alakul.
 
-(3)[^6] A kifizethető támogatás összege nem haladhatja meg az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló támogatások igénybevételének általános szabályairól szóló 23/2007. (IV. 17.) FVM rendelet [a továbbiakban: 23/2007. (IV. 17.) FVM rendelet] 19. § (3) és (4) bekezdés szerinti kiadásigazoló bizonylattal igazolt kiadások 50%-át.
+(3)[^9] A kifizethető támogatás összege nem haladhatja meg az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló támogatások igénybevételének általános szabályairól szóló 23/2007. (IV. 17.) FVM rendelet [a továbbiakban: 23/2007. (IV. 17.) FVM rendelet] 19. § (3) és (4) bekezdés szerinti kiadásigazoló bizonylattal igazolt kiadások 50%-át.
 
 (4) E rendelet alkalmazásában a 2. § a) pontja szerinti tevékenység elvégzése során támogatható műveletnek minősül:
 
@@ -56,4 +54,5 @@ a) a kézzel vagy géppel végzett nyesés, nyesési anyag megsemmisítése;
 
 b) a terepi munkák erdészeti szakirányítása.
 
-[^6]: A 7. § (3) bekezdése a 122/2012. (XII. 6.) VM rendelet 5. §-ával megállapított szöveg.
+[^8]: A 7. § (1) bekezdése a 13/2014. (II. 24.) VM rendelet 28. §-ával megállapított szöveg.
+[^9]: A 7. § (3) bekezdése a 122/2012. (XII. 6.) VM rendelet 5. §-ával megállapított szöveg.

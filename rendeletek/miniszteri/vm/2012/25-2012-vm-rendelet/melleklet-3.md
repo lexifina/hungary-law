@@ -70,11 +70,11 @@
 
 |  | Pénzügyi terv |
 
-| 15 | 1 alkalmazottra jutó árbevétel 2010-ben | 2 millió forint felett |  | 3 |
+| 15 | 1 alkalmazottra jutó árbevétel 2012-ben | 2 millió forint felett |  | 3 |
 
 | 1–2 millió Ft között |  | 2 |
 
-| 16 | A 2010. bázisévhez viszonyítva a támogatási kérelem benyújtási időszak első napján nyilvántartott erdőgazdálkodásba vont terület növekszik, amely során 5 százalékpontonként 1 pont, de legfeljebb 4 pont adható |  | Országos Erdőállomány Adattár | 4 |
+| 16 | A 2012. bázisévhez viszonyítva a támogatási kérelem benyújtási időszak első napján nyilvántartott erdőgazdálkodásba vont terület növekszik, amely során 5 százalékpontonként 1 pont, de legfeljebb 4 pont adható |  | Országos Erdőállomány Adattár | 4 |
 
 |  | Összesen |  | 7 |
 

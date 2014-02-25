@@ -24,8 +24,8 @@
 
 11.[^2] tevékenység megvalósítása: az adott erdőrészletre benyújtott kifizetést alátámasztó bizonylatokban, számlákban, szerződésekben a támogatott tevékenység megvalósítására vonatkozóan feltüntetett teljesítési dátumok közül erdőrészletenként a legutolsó;
 
-12.[^3] 2010. évi bázisév: az Országos Erdőállomány Adattár 2010. december 31. napján nyilvántartott adatai alapján meghatározott időszak.
+12.[^3] 2012. évi bázisév: az Országos Erdőállomány Adattár 2012. december 31. napján nyilvántartott adatai alapján meghatározott időszak.
 
 [^1]: Az 1. § 10. pontját a 122/2012. (XII. 6.) VM rendelet 2. §-a iktatta be.
 [^2]: Az 1. § 11. pontját a 122/2012. (XII. 6.) VM rendelet 2. §-a iktatta be.
-[^3]: Az 1. § 12. pontját a 122/2012. (XII. 6.) VM rendelet 2. §-a iktatta be.
+[^3]: Az 1. § 12. pontját a 122/2012. (XII. 6.) VM rendelet 2. §-a iktatta be, szövege a 13/2014. (II. 24.) VM rendelet 26. §-ával megállapított szöveg.
