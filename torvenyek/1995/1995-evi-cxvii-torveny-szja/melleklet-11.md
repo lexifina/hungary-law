@@ -657,3 +657,5 @@ amennyiben az a szerződés alapján az egyéni vállalkozót terheli.
 12. Az egyéni vállalkozó a saját tulajdonú gépjármű tulajdonjogát e törvény bizonylatmegőrzésre vonatkozó szabályainak betartásával, a kötelező gépjármű felelősségbiztosítás befizetését igazoló szelvénnyel igazolja.
 
 13.
+
+IV. A jövedelem megállapításakor költségként figyelembe nem vehető kiadások:

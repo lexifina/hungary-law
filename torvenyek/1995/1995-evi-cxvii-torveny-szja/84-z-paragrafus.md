@@ -1,0 +1,1 @@
+84/Z. § E törvénynek a kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvénnyel megállapított 1. számú melléklet 2. pont 2.7. alpontja – ha az a magánszemély számára kedvezőbb – a 2014. január 1-jétől megszerzett jövedelmekre is alkalmazható.

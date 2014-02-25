@@ -2,7 +2,15 @@
 
 a) az e törvény végrehajtásához szükséges nyomtatvány kötelező alkalmazását;
 
-b) az elismert munkavállalói értékpapír-juttatási program nyilvántartásba vételére irányuló eljárás rendjét, valamint az eljárás kezdeményezéséért fizetendő igazgatási-szolgáltatási díjat.
+b) a lakáscélú munkáltatói támogatás
+
+ba) igazolására szolgáló bizonylatokat,
+
+bb) folyósításáról a hitelintézet, a kincstár által kiállított igazolás tartalmát, kiállításának feltételeit és rendjét,
+
+bc) folyósításáról a hitelintézet, a kincstár, a munkáltató által teljesítendő adatszolgáltatás rendjét,
+
+bd) adómentessége feltételeinek vizsgálatára köteles személyek körét és módját.
 
 (2) Felhatalmazást kap az egészségügyért felelős miniszter, hogy rendeletben meghatározza a súlyos fogyatékosság minősítésének és igazolásának rendjét.
 
