@@ -1,3 +1,3 @@
-## 144. Módosító rendelkezések
+## 144.
 
 250. §
