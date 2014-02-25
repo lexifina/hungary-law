@@ -1,13 +1,9 @@
-2. § (1) Az 1. § (2) bekezdésének a) pontjában meghatározott adatszolgáltatás teljesítése érdekében a fekvőbeteg-ellátást nyújtó egészségügyi intézmény a külön jogszabály[^1] alapján – társadalombiztosítási finanszírozási célból – kitöltésre kerülő ,,Adatlap kórházi (osztályos) ápolási esetről'' nyomtatvány (a továbbiakban: Adatlap) adattartamából az 1. számú melléklet szerinti adatokat továbbítja a Rákregiszter részére. Az adattovábbítás kizárólag Rákregiszter által rendelkezésre bocsátott számítógépes adathordozón történhet. Az Adatlap megfelelő kitöltéséért és pontosságáért a gyógykezelést vezető orvos a felelős.
+2. §[^2] (1) Az 1. § (2) bekezdésében meghatározott adatszolgáltatási kötelezettség teljesítése érdekében az 1. § (1) bekezdése szerinti orvos az 1. melléklet szerinti adatokat továbbítja a Rákregiszter részére, a Rákregiszter által biztosított elektronikus programon keresztül, figyelemmel a (2) bekezdésben foglaltakra is.
 
-(2) A 2. számú melléklet szerinti ,,Adatlap rosszindulatú daganatos megbetegedésről'' nyomtatványt kell kitölteni és továbbítani a Rákregiszter részére
+(2) Ha az elektronikus adatszolgáltatás az egészségügyi szolgáltatónál nem működik, vagy adatszolgáltatáshoz szükséges program nem áll az adatszolgáltató rendelkezésére, az (1) bekezdésben foglaltaktól eltérően az 1. § (2) bekezdésében meghatározott adatszolgáltatási kötelezettség teljesítése érdekében a 2. melléklet szerinti adatlapot kell a Rákregiszter részére eljuttatni.
 
-a) az 1. § (2) bekezdésének b) pontja szerinti esetben,
+(3) Az 1. és a 2. mellékletben foglalt adatok kódolása a 3. melléklet szerinti útmutató alapján történik.
 
-b) ha a halál fekvőbeteg-gyógyintézeten kívül következett be, és a daganatos megbetegedést csak a halál bekövetkezése után a patológiai vizsgálat állapította meg [1. § (2) bekezdés c) pont],
+(4) Ugyanazon személy több, egymástól független, elsődleges rosszindulatú daganatos megbetegedését külön-külön kell jelenteni az (1) vagy a (2) bekezdésben meghatározott módon.
 
-c) ha a daganatos megbetegedés diagnosztizálására vagy a beteg ellátására olyan fekvőbeteg-ellátást nyújtó egészségügyi intézményben került sor, amelyben a számítógép adatbázisából történő adatszolgáltatás – bármely ok miatt – nem működik.
-
-(3) Többszörös, egymástól független, elsődleges rosszindulatú daganat esetében mindegyik esetre vonatkozóan fel kell tüntetni a vonatkozó BNO kódot.
-
-[^1]: Nemzeti Rákregiszter 1525 Budapest 114, Pf. 21.
+[^2]: A 2. § a 11/2014. (II. 24.) EMMI rendelet 5. §-ával megállapított szöveg.

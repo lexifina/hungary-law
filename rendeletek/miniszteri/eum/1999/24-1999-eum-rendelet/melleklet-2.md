@@ -1,65 +1,13 @@
-## A fekvőbeteg-szakellátás intézményei által továbbítandó adatok
+## Az egészségügyi szolgáltatók által elektronikusan továbbítandó adatok
 
-## A jelentés adattartalma és az adatok helye az ,,Adatlap'' szerkezetében és a megfelelő számítógépes feljegyzésben
+| A betegellátó azonosítása: A beteget ellátó orvos (kezelőorvos) azonosítója (pecsétszáma) A munkahely (intézmény, osztály, rendelés) neve, címe, azonosítója |
 
-## Pozíció adatlapon
+| A beteg azonosítása: A beteg neve, anyja neve, születési neve A beteg lakóhelyének irányítószáma, címe A beteg neme A beteg Társadalombiztosítási Azonosító Jele A beteg születési ideje A beteg törzsszáma/naplószáma az ellátó intézménynél A betegellátás (vizsgálat/kezelés) befejezésének ideje (év-hó-nap) |
 
-## Az egészségügyi intézmény azonosítása:
+| A daganatos betegség azonosítása: A daganatos betegség felfedezésének ideje (ha ismert) A daganat BNO-10 II. Daganatok fejezete szerinti klinikai diagnózisának kódja A daganat oldalisága (1-4 kód, ld. útmutató) A daganat kiterjedése (1-6 kód, ld. útmutató) A daganat TNM besorolása (a külön szabályként meghatározott TNM verzió szerint) A daganat morfológiai kódja a BNO-10 „Daganatok Morfológiája” fejezete szerint A diagnózist alátámasztó legmagasabb értékű vizsgálat (1-9 kód, ld. útmutató) A daganatellenes kezelés (műtét, sugár, gyógyszeres) OENO beavatkozási kódja A beteg státusa a kezelés végén (1-4 kód, WHO vagy RECIST szerint, ld. útmutató) A beteg további sorsa (1-5 kód, ld. útmutató) |
 
-## Jelentő intézmény, osztály, rendelés, neve, címe, azonosítója 1–3
+| A beteg halála esetén: A halál ideje A halál közvetlen oka A halálhoz vezető alapbetegség BNO-10 szerinti klinikai diagnózisának kódja |
 
-## A beteg azonosítása:
+2. melléklet a 24/1999. (VII. 6.) EüM rendelethez[^13]
 
-## A beteg neve 8
-
-## Társadalombiztosítási Azonosító Jel 6
-
-## törzsszáma 7
-
-## neme 12
-
-## születési ideje 13
-
-## lakhelye 16
-
-## vizsgálat/kezelés ideje 20 és 22
-
-## A daganat azonosítása:
-
-## Az elsődleges rosszindulatú daganatdiagnózis első (kezelést is indokoló) felállításának éve 27–Év
-
-## A diagnózis szerinti elsődleges daganat helye – BNO–10 szerinti teljes kód 25,T:1 vagy 2 vagy 3 vagy 5 vagy 7 vagy B
-
-## oldalisága 25,D és 26,L
-
-## A daganat kiterjedése 27,K
-
-## A diagnózist alátámasztó vizsgálat 27,V
-
-## Morfológiai diagnózis 25,M
-
-## A kezelés módja – műtét, sugár, illetve gyógyszeres kezelés, beavatkozás kódja 26,T és kódja
-
-## A beteg további sorsa: 23
-
-## Ha ennek kódtartalma: 4, akkor
-
-## a halál ideje: 22
-
-## a kórbonctani alapbetegség: 25,T:7
-
-## Ha boncolás nem történt
-
-## a halál alapjául szolgáló betegség a klinikus szerint: 25,T:B
-
-## A kitöltés kelte: .......................
-
-## Az adatszolgáltatás továbbításának ideje:
-
-## .........................................
-
-## Az intézményvezető neve: ................ aláírása: .........
-
-## Az intézmény adatvédelmi felelősének neve: .......... aláírása: .........
-
-2. számú melléklet a 24/1999. (VII. 6.) EüM rendelethez
+[^13]: A 2. melléklet a 11/2014. (II. 24.) EMMI rendelet 12. § (1) bekezdés b) pontjával megállapított szöveg.

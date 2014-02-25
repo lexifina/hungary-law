@@ -1,131 +1,53 @@
-## ADATLAP
+## Nem elektronikus adatszolgáltatás esetén továbbítandó adatlap
 
-## rosszindulatú daganatos megbetegedésről
+| 1. A jelentést küldő orvos munkahelye: …………………………………………………………………..…… |
 
-## 1. A jelentő orvosi munkahely
+|  | címe: |  |  |  |  | ………………………………. város ………………………… utca …… hsz. |
 
-## megnevezése: .......................
+|  | osztály/rendelés: ………………………………………………………………… …………………………………………………………………………………… |
 
-## címe: |_|_|_|_| ........... (város) ........... (utca, házszám)
+| azonosítója: |  |  |  |  |  |  |  |  |
 
-## osztály/rendelés: ..................
+| A jelentést küldő orvos (kezelőorvos) azonosítója (pecsétszáma): |  |  |  |  |  |
 
-## azonosító száma: |_|_|_|_|_|_|_|_|
+| 2. A beteg neve: …………………………………………………………………………………………… |
 
-## 2. A beteg neve: ..........................
+| A beteg anyja neve: ……………………………………………………………………………………. |
 
-## Társadalombiztosítási Azonosító Jele: |_|_|_|_|_|_|_|_|_|
+| A beteg születési neve: ………………………………………………………………………………… |
 
-## neme (ffi: 1; nő: 2): |_|
+|  | Társadalombiztosítási Azonosító Jele: |  |  |  |  |  |  |  |  |  |
 
-## születési ideje: év |_|_|_|_| hó |_|_| nap |_|_|
+|  | neme (ffi = 1; nő = 2): |  |
 
-## lakhelye: |_|_|_|_| ....... (város) ........... (utca, házszám)
+|  | születési ideje: év |  |  |  |  | hó |  |  | nap |  |  |
 
-## 3. A kezelést eldöntő diagnózis felállítás ideje:
+|  | lakóhelye: |  |  |  |  | ………………………………. város …………………………… utca …… hsz. |
 
-## év |_|_|_|_| hó |_|_| nap |_|_|
+| 3. A daganatos betegség felfedezésének ideje (ha ismert): év |  |  |  |  | hó |  |  | nap |  |  |
 
-## (ha történt szövettani mintavétel, annak ideje)
+| 4. A daganat BNO-10 II. Daganatok fejezete szerinti klinikai diagnózisának kódja |  |  |  |  |
 
-## 4. A diagnózis szerinti elsődleges daganatos betegedés teljes BNO–10 kódja |_|_|_|_|
+| oldalisága: |  |
 
-## oldalisága: |_|
+| kiterjedése: |  |
 
-## (bal = 1; jobb = 2; mindkettő = 3; rendszerbetegség = 4)
+| TNM besorolása: (a külön szabályként meghatározott TNM verzió szerint) |
 
-## kiterjedése:* |_|
+| 5. A diagnózist alátámasztó vizsgálat kódja: |  |
 
-## 5. A diagnózist alátámasztó vizsgálat kódja:* |_|
+| 6. A morfológiai vizsgálat kódja a BNO-10 szerint („M” kód) |  |  |  |  |  |
 
-## 6. Ha történt morfológiai vizsgálat, annak kódja a BNO–10 szerint: |_|_|_|_|_|
+| 7. A daganatellenes kezelés (műtét, sugár, gyógyszeres) OENO beavatkozási kódja |  |  |  |  |  |
 
-## (,,M'' kód)
+| 8. A beteg státusa a kezelés végén WHO |  | vagy RECIST |  |  | (ha ismert) |
 
-## 7. A daganat kezelésének módja: |_|
+| 9. A beteg további sorsa: |  |
 
-## (műtét = 1, sugár = 2, gyógyszer = 3, egyéb = 4, nem történt = 5)
+| ………………………………………… PH A jelentést küldő orvos aláírása |
 
-## 8. A beteg további sorsa: |_|
+## A 4., az 5., a 8. és a 9. pont alatti adatok kódolását lásd az Útmutatóban.
 
-## további kezelést kap (1) további kezelést nem igényel (2) kezelést megtagadta (3) kezelést máshol kap (4) elhalálozott (5)
+3. melléklet a 24/1999. (VII. 6.) EüM rendelethez[^14]
 
-## A beteg kezelését végző, az adatszolgáltatásért felelős orvos: .................................. P. H.
-
-## A munkahely vezetője: ...................
-
-## A munkahely adatvédelmi felelőse: .......
-
-## _______
-
-## * Kódutasítás a következő oldalon.
-
-## Ezen adatlap töltendő ki, amennyiben
-
-## a) a betegség diagnosztizálására vagy a beteg ellátására bármely okból nem a fekvőbeteg-ellátás keretében került sor,
-
-## b) ezen betegségeket csak a halál bekövetkezése után a patológiai vizsgálat állapította meg,
-
-## c) a betegség diagnosztizálására vagy a beteg ellátására olyan fekvőbeteg-gyógyintézetben került sor, amelyben a számítógép adatbázisból történő adatszolgáltatás – bármely ok miatt – nem működik.
-
-## Kódolási utasítás
-
-## a 4. ponthoz: A daganat kiterjedése (mindenkor csak az első gyógykezelés előtti állapotra vonatkozik):
-
-## 1 = in situ,
-
-## 2 = kiindulási szerven belül,
-
-## 3 = környező szövetekre, szervekre terjed,
-
-## 4 = regionális nyirokcsomóba áttétet ad,
-
-## 5 = távoli szervben áttétet ad,
-
-## 6 = nem körülírható, rendszerbetegség;
-
-## az 5. ponthoz: A diagnózist alátámasztó legmagasabb értékű (kódjelű) vizsgálat típusa:
-
-## 1 = csak klinikai vizsgálat,
-
-## 2 = rtg. vagy más képalkotó vizsgálat,
-
-## 3 = endoscopos vizsgálat szövettan nélkül,
-
-## 4 = exploratio szövettan nélkül,
-
-## 5 = speciális cytológiai, haematológiai vizsgálat,
-
-## 6 = szövettan áttétből,
-
-## 7 = szövettan primer daganatból,
-
-## 8 = szövettan kórbonctani vizsgálattal,
-
-## 9 = ismeretlen.
-
-## Amennyiben történt morfológiai vizsgálat, ebbe a mezőbe az 5–8 kódok valamelyike kerülhet.
-
-## A ,,8'' jelzés csak akkor használható, ha a rosszindulatú daganatot csak a boncolásnál igazolták.
-
-3. számú melléklet a 24/1999. (VII. 6.) EüM rendelethez
-
-A patológiai vizsgálatok során diagnosztizált daganatos megbetegedések listás jelentése
-
-Az adatszolgáltató patológiai munkahely neve:
-
-.............................................
-
-címe: .................................
-
-Tárgyév: .............. Hó: ...............
-
-| Sor- szám | A beteg | A vizsgálati anyag származási helye | Az anyagvétel, műtét ideje | Boncolás esetén a halál ideje | A vizsgált anyag és vélemény |
-
-| neve | TAJ-száma | törzszáma | neme | születési ideje | lakhelye | intézmény | osztály/ intézet/rendelés | szerv/ szövet | patológiai dg. | morfo- lógiai kód |
-
-Dátum: ......................
-
-Az összeállításért felelős orvos neve: ............ aláírása: ..........
-
-A patológiai munkahely vezetőjének neve: .......... aláírása: ..........
+[^14]: A 3. melléklet a 11/2014. (II. 24.) EMMI rendelet 12. § (1) bekezdés c) pontjával megállapított szöveg.

@@ -1,1 +1,0 @@
-## 3. § A patológiai vizsgálatot végző intézmény, illetve osztály vezetéséért felelős orvos a szövettani minták vizsgálata, illetve a boncolások során felismert rosszindulatú daganatos megbetegedésekről havonta a 3. számú melléklet szerinti listás jelentést állít össze, amelyet a 2. § szerinti jelentéshez csatolva továbbít – az intézményvezetőn keresztül – a Rákregiszternek.
