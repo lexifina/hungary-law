@@ -1,1 +1,0 @@
-75. § A tervező- és szakértő mérnökök, valamint építészek szakmai kamaráiról szóló 1996. évi LVIII. törvény 34/D. § (1) bekezdés a) pontjában a „[Ptk. 685. § b) pont],” szövegrész helyébe a „[Ptk. 8:1. § (1) bekezdés 2. pont],” szöveg lép.
