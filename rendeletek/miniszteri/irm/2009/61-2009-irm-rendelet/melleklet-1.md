@@ -1,4 +1,6 @@
-1. melléklet a 61/2009. (XII. 14.) IRM rendelethez[^101]
+## 146. §[^104] E rendeletnek a jogszabályszerkesztésről szóló 61/2009. (XII. 14.) IRM rendelet módosításáról szóló 10/2014. (II. 25.) KIM rendelettel megállapított rendelkezéseit a 2014. február 25-én, illetve az ezt követően hatályba lépett jogszabályok tekintetében kell alkalmazni.
+
+1. melléklet a 61/2009. (XII. 14.) IRM rendelethez[^105]
 
 A jogszabály tervezete megszövegezésénél alkalmazandó kodifikációs szövegezési minták
 
@@ -1572,4 +1574,5 @@ A jogszabály tervezete megszövegezésénél alkalmazandó kodifikációs szöv
 
 19.
 
-[^101]: Az 1. melléklet a 11/2010. (X. 25.) KIM rendelet 4. §-a, a 19/2010. (XII. 21.) 17. §-a, 18. § (13) bekezdése, 19. § (3) bekezdése, 20. § f) pontja, a 13/2011. (IV. 22.) KIM rendelet 4. § (5)–(6) bekezdése, a 43/2011. (XII. 31.) KIM rendelet 13. §-a, 14. § (10) bekezdése, 15. §-a, a 25/2013. (X. 14.) KIM rendelet 1. § (3) bekezdés b)–e) pontja és (4) bekezdése szerint módosított szöveg.
+[^104]: A 146. §-t a 10/2014. (II. 25.) KIM rendelet 3. §-a iktatta be.
+[^105]: Az 1. melléklet a 11/2010. (X. 25.) KIM rendelet 4. §-a, a 19/2010. (XII. 21.) 17. §-a, 18. § (13) bekezdése, 19. § (3) bekezdése, 20. § f) pontja, a 13/2011. (IV. 22.) KIM rendelet 4. § (5)–(6) bekezdése, a 43/2011. (XII. 31.) KIM rendelet 13. §-a, 14. § (10) bekezdése, 15. §-a, a 25/2013. (X. 14.) KIM rendelet 1. § (3) bekezdés b)–e) pontja és (4) bekezdése szerint módosított szöveg.

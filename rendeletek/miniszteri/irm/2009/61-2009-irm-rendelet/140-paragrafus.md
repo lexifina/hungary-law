@@ -1,4 +1,4 @@
-## 140. §[^99] A hatályon kívül helyező jogszabály tervezete kizárólag a következő logikai egységeket tartalmazhatja:
+## 140. §[^102] A hatályon kívül helyező jogszabály tervezete kizárólag a következő logikai egységeket tartalmazhatja:
 
 a) a bevezető részt,
 
@@ -18,4 +18,4 @@ dd) törvény tervezete esetében a törvény vagy törvényi rendelkezés sarka
 
 de) az európai uniós követelményekre utaló rendelkezéseket.
 
-[^99]: A 140. § a 43/2011. (XII. 31.) KIM rendelet 12. §-ával megállapított szöveg.
+[^102]: A 140. § a 43/2011. (XII. 31.) KIM rendelet 12. §-ával megállapított szöveg.
