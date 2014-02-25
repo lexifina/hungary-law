@@ -12,9 +12,9 @@ a) az 50/2008. (IV. 24.) FVM rendelet 1. számú mellékletében foglalt, „Hel
 
 b) a kölcsönös megfeleltetés körébe tartozó ellenőrzések lefolytatásával, valamint a jogkövetkezmények alkalmazásával kapcsolatos szabályokról szóló 81/2009. (VII. 10.) FVM rendeletben foglalt követelményeket.
 
-(3)[^7] Az állattartónak a 11. § (1) bekezdése szerinti területek vonatkozásában legalább az adott gazdálkodási évre vonatkozóan használati joggal kell rendelkeznie. Ha a kérelmezett területnagyság és a használati jog szerinti területnagyság eltér, a kisebbet kell figyelembe venni.
+(3)[^9] Az állattartónak a 11. § (1) bekezdése szerinti területek vonatkozásában legalább az adott gazdálkodási évre vonatkozóan használati joggal kell rendelkeznie. Ha a kérelmezett területnagyság és a használati jog szerinti területnagyság eltér, a kisebbet kell figyelembe venni.
 
-(4)[^8] Új legelőterület bevonására a teljes gazdálkodási évre vonatkozóan, a legelőterületnek a kifizetési kérelemben történő bejelentésével kerülhet sor.
+(4)[^10] Új legelőterület bevonására a teljes gazdálkodási évre vonatkozóan, a legelőterületnek a kifizetési kérelemben történő bejelentésével kerülhet sor.
 
-[^7]: A 3. § (3) bekezdése a 79/2012. (VII. 27.) VM rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^8]: A 3. § (4) bekezdését a 79/2012. (VII. 27.) VM rendelet 3. § (2) bekezdése iktatta be.
+[^9]: A 3. § (3) bekezdése a 79/2012. (VII. 27.) VM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^10]: A 3. § (4) bekezdését a 79/2012. (VII. 27.) VM rendelet 3. § (2) bekezdése iktatta be.

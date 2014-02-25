@@ -32,6 +32,6 @@ az e rendeletben meghatározott kötelezettséget vállal.
 
 (7) A támogatásra jogosult köteles a vállalt, e rendeletben meghatározott kötelezettségeket a teljes támogatási időszak alatt betartani.
 
-(8)[^6] Támogatás illeti meg az állattartót e rendelet alapján vállalt kötelezettségek betartása miatt keletkező ügyleti költségek megtérítésére, amelyet az állattartó az adott évi kifizetési kérelem benyújtásával egyidejűleg igényelhet, amennyiben a támogatási határozata alapján erre jogosult.
+(8)[^8] Támogatás illeti meg az állattartót e rendelet alapján vállalt kötelezettségek betartása miatt keletkező ügyleti költségek megtérítésére, amelyet az állattartó az adott évi kifizetési kérelem benyújtásával egyidejűleg igényelhet, amennyiben a támogatási határozata alapján erre jogosult.
 
-[^6]: A 2. § (8) bekezdése a 79/2012. (VII. 27.) VM rendelet 2. §-ával megállapított szöveg.
+[^8]: A 2. § (8) bekezdése a 79/2012. (VII. 27.) VM rendelet 2. §-ával megállapított szöveg.

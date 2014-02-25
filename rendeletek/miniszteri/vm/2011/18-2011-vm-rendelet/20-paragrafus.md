@@ -6,7 +6,7 @@
 
 (4) A támogatási kérelmek elbírálása során – a 2. mellékletben meghatározott – többletpont kerül beszámításra az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló támogatások igénybevételének általános szabályairól szóló 23/2007. (IV. 17.) FVM rendelet 3. § 30. pont szerinti fiatal mezőgazdasági termelő számára.
 
-(5)[^18] Szaktanácsadási szolgáltatói szerződéssel rendelkező állattartók esetében akkor adható – a 2. mellékletben meghatározott – többletpont, ha a kérelmező a támogatási kérelem benyújtásának évére hatályos, az alábbiak valamelyikével kötött szaktanácsadási szolgáltatói szerződéssel rendelkezik:
+(5)[^27] Szaktanácsadási szolgáltatói szerződéssel rendelkező állattartók esetében akkor adható – a 2. mellékletben meghatározott – többletpont, ha a kérelmező a támogatási kérelem benyújtásának évére hatályos, az alábbiak valamelyikével kötött szaktanácsadási szolgáltatói szerződéssel rendelkezik:
 
 a) a mező- és erdőgazdálkodási, valamint az élelmiszer-ipari tevékenységhez kapcsolódó szakértői működés engedélyezésével kapcsolatos eljárásról szóló 61/1994. (XI. 8.) FM rendelet szerinti szakértői engedéllyel rendelkező szakértővel,
 
@@ -16,4 +16,4 @@ c) az agrár-szaktanácsadói tevékenység engedélyezéséről szóló 90/2009
 
 d) az agrárgazdasági és agrár-vidékfejlesztési szakterületeken a szakértői tevékenység végzésének feltételeiről szóló 1/2010. (I. 14.) FVM rendelet szerinti szakértői engedéllyel rendelkező szakértővel.
 
-[^18]: A 20. § (5) bekezdése a 23/2011. (III. 28.) VM rendelet 14. §-ával megállapított szöveg.
+[^27]: A 20. § (5) bekezdése a 23/2011. (III. 28.) VM rendelet 14. §-ával megállapított szöveg.

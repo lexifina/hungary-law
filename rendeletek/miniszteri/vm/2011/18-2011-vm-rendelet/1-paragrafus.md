@@ -44,7 +44,7 @@
 
 21. közös tartás: TIR rendelet 3. § (3) bekezdés második mondata szerinti tartás;
 
-22. legelő: a támogatási és kifizetési kérelmen bejelentett azon terület, amely a földhivatali nyilvántartásban rét, gyep vagy legelő művelési ágon szerepel, és amelyet a kérelmező a kérelmen szereplő állatok legeltetésére használ;
+22.[^4] legelő: a támogatási és kifizetési kérelemben bejelentett azon terület, amely a földhasználati nyilvántartásban önállóan rét, gyep, legelő művelési ágon szerepel, valamint az árok, az út, a községi mintatér, a major és a kivett major, ha a réttel, a gyeppel, vagy a legelővel együtt szerepel;
 
 23. legeltetési időszak: a kifizetési kérelem évében május 1. és szeptember 30. közötti időszak;
 
@@ -58,18 +58,22 @@
 
 28. támogatható állat: az állattartó által a támogatási kérelemben megjelölt, az állattartó tenyészetében tartott, nőivarú tejtermelő szarvasmarha;
 
-29.[^4] tehén: a két évnél idősebb nőivarú szarvasmarha;
+28a.[^5] támogatott tenyészet: az a tenyészet, amely a támogatási kérelemnek helyt adó vagy részben helyt adó határozattal elfogadásra került;
+
+29.[^6] tehén: a két évnél idősebb nőivarú szarvasmarha;
 
 30. tejtermelő szarvasmarha: az a szarvasmarha, amelyet az ENAR-ban e rendelet 1. mellékletében felsorolt fajtakóddal tartanak nyilván;
 
 31. tenyészet: a TIR rendelet 2. § 2. és 17. pontjai szerinti árutermelő, kereskedő típusú tenyészet;
 
-32.[^5] üsző: az a nőivarú szarvasmarha, amelynek életkora hat hónap és két év közötti.
+32.[^7] üsző: az a nőivarú szarvasmarha, amelynek életkora hat hónap és két év közötti.
 
 (2) Az e rendeletben nem meghatározott fogalmak tekintetében az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló támogatások igénybevételének általános szabályairól szóló 23/2007. (IV. 17.) FVM rendelet [a továbbiakban: 23/2007. (IV. 17.) FVM rendelet] 3. §-ában foglaltak az irányadók.
 
 [^1]: Az 1. § (1) bekezdés 5. pontja a 79/2012. (VII. 27.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § (1) bekezdés 15. pontja a 79/2012. (VII. 27.) VM rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^3]: Az 1. § (1) bekezdés 17. pontja a 79/2012. (VII. 27.) VM rendelet 1. § (3) bekezdésével megállapított szöveg.
-[^4]: Az 1. § (1) bekezdés 29. pontja a 79/2012. (VII. 27.) VM rendelet 1. § (4) bekezdésével megállapított szöveg.
-[^5]: Az 1. § (1) bekezdés 32. pontja a 79/2012. (VII. 27.) VM rendelet 1. § (5) bekezdésével megállapított szöveg.
+[^4]: Az 1. § (1) bekezdés 22. pontja a 13/2014. (II. 24.) VM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^5]: Az 1. § (1) bekezdés 28a. pontját a 13/2014. (II. 24.) VM rendelet 7. § (2) bekezdése iktatta be.
+[^6]: Az 1. § (1) bekezdés 29. pontja a 79/2012. (VII. 27.) VM rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^7]: Az 1. § (1) bekezdés 32. pontja a 79/2012. (VII. 27.) VM rendelet 1. § (5) bekezdésével megállapított szöveg.

@@ -1,10 +1,10 @@
 ## 19. Jogkövetkezmények
 
-26. § (1)[^27] Ha a támogatásra jogosult megszegi a 3. § (1) bekezdés a) pontjában meghatározottakat azáltal, hogy a támogatásba bevont szarvasmarha állományt
+26. § (1)[^44] Ha a támogatásra jogosult megszegi a 3. § (1) bekezdés a) pontjában meghatározottakat azáltal, hogy a támogatásba bevont szarvasmarha állományt
 
 a) nem tejtermelés céljából tartja, vagy
 
-b) nem a TIR-ben bejelentett, és a kérelemben megjelölt tartási helyen tartja,
+b)[^45] nem a TIR-ben bejelentett, és a kifizetési kérelemben megjelölt tartási helyen tartja,
 
 ## akkor a támogatásból kizárásra kerül, és a támogatási kérelemre vonatkozóan már igénybe vett teljes támogatás jogosulatlanul igénybevett támogatásnak minősül.
 
@@ -20,4 +20,8 @@ b) nem a TIR-ben bejelentett, és a kérelemben megjelölt tartási helyen tartj
 
 (7) Ha egy gazdálkodási éven belül több kötelezettség esetében is meg nem felelések kerülnek megállapításra, akkor a 6. melléklet alapján meghatározott jogkövetkezmények mindegyike alkalmazásra kerül.
 
-[^27]: A 26. § (1) bekezdése a 79/2012. (VII. 27.) VM rendelet 14. §-ával megállapított szöveg.
+(8)[^46] Ha a 6. § (1) bekezdése szerinti állatsűrűségi feltételnek a kifizetési kérelemben igényelt tenyészet nem felel meg, akkor a 2. § (3) bekezdés a) pontja szerinti alaptámogatás elutasításra kerül az érintett gazdálkodási év tekintetében.
+
+[^44]: A 26. § (1) bekezdése a 79/2012. (VII. 27.) VM rendelet 14. §-ával megállapított szöveg.
+[^45]: A 26. § (1) bekezdés b) pontja a 13/2014. (II. 24.) VM rendelet 17. § (1) bekezdésével megállapított szöveg.
+[^46]: A 26. § (8) bekezdését a 13/2014. (II. 24.) VM rendelet 17. § (2) bekezdése iktatta be.
