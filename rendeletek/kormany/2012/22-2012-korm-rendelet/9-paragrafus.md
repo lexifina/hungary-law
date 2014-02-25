@@ -1,4 +1,4 @@
-9. § (1)[^14]
+9. § (1)[^17]
 
 (2) A NÉBIH:
 
@@ -36,4 +36,4 @@ j) az adatszolgáltatás keretében adatokat gyűjt és elemez az élelmiszerek 
 
 (9) Az élelmiszerlánc termékek ellenőrzése tekintetében a Nemzeti Adó- és Vámhivatal köteles a NÉBIH-hel szorosan együttműködni, és minden elvárható segítséget és információt megadni, a NÉBIH hatékony élelmiszerlánc felügyeleti tevékenységének elősegítése érdekében. A Nemzeti Adó- és Vámhivatal ennek keretében különösen a NÉBIH rendelkezésére bocsátja a feladatkörében tudomására jutott, az élelmiszerlánc szempontjából jelentős áruforgalmi és határellenőrzési adatokat.
 
-[^14]: A 9. § (1) bekezdését a 68/2013. (III. 8.) Korm. rendelet 15. § a) pontja hatályon kívül helyezte.
+[^17]: A 9. § (1) bekezdését a 68/2013. (III. 8.) Korm. rendelet 15. § a) pontja hatályon kívül helyezte.

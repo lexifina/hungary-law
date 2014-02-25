@@ -4,13 +4,13 @@
 
 a) részt vesznek a NÉBIH által szervezett képzéseken (beleértve az elektronikus távoktatást is), valamint az ahhoz kapcsolódó vizsgákon, a szakmai felkészültségről bizonyítványt kapnak,
 
-b) a NÉBIH szakmai informatikai rendszerein keresztül látják el a hatáskörükbe tartozó feladatokat,
+b)[^2] a NÉBIH szakmai informatikai rendszerein keresztül látják el a hatáskörükbe tartozó feladatokat,
 
 c) a NÉBIH által kiadott és kötelezően alkalmazandó szakmai eljárásrendeknek, útmutatóknak megfelelően végzik az ellenőrzéseiket és szakmai tevékenységüket,
 
 d) végrehajtják a NÉBIH által kiadott ellenőrzési és mintavételi terveket,
 
-e)[^1] az országos adatbázisok kialakítása és fenntartása érdekében adatgyűjtést végeznek, nyilvántartást vezetnek, valamint adatot küldenek a NÉBIH-nek,
+e)[^3] az országos adatbázisok kialakítása és fenntartása érdekében adatgyűjtést végeznek, nyilvántartást vezetnek, valamint adatot küldenek a NÉBIH-nek,
 
 f) részt vesznek a központosított mintaszállítási rendszer működtetésében,
 
@@ -38,7 +38,8 @@ o) az elvégzett feladataikról közvetlenül jelentenek a NÉBIH-nek.
 
 (4) A NÉBIH az Európai Mezőgazdasági Vidékfejlesztési Alapból és az Európai Mezőgazdasági Garancia Alapból finanszírozott egyes támogatások tekintetében az MVH által átruházott, illetve együttműködőként ellátott feladatok ellátása érdekében megállapodást köthet a megyei kormányhivatallal, amelyben rendelkezni kell ezeknek a feladatoknak az ellátásához a pénzeszközátadás, a szakmai teljesítés és az elszámolás rendjéről.
 
-(5)[^2]
+(5)[^4]
 
-[^1]: A 4. § (1) bekezdés e) pontja a 319/2012. (XI. 13.) Korm. rendelet 7. § (3) bekezdése szerint módosított szöveg.
-[^2]: A 4. § (5) bekezdését a 32. § (4) bekezdése hatályon kívül helyezte azzal, hogy az abban foglaltakat a 2012. július 31. napjáig megállapított igazgatási szolgáltatási díjra vonatkozóan alkalmazni kell.
+[^2]: [A 4. § (1) bekezdés b) pontjának a 42/2014. (II. 24.) Korm. rendelet 19. § (5) bekezdés b) pontjával elrendelt módosítása, amely szerint hatályát veszti az „önállóan működő és gazdálkodó” szövegrész, nem vezethető át.]
+[^3]: A 4. § (1) bekezdés e) pontja a 319/2012. (XI. 13.) Korm. rendelet 7. § (3) bekezdése szerint módosított szöveg.
+[^4]: A 4. § (5) bekezdését a 32. § (4) bekezdése hatályon kívül helyezte azzal, hogy az abban foglaltakat a 2012. július 31. napjáig megállapított igazgatási szolgáltatási díjra vonatkozóan alkalmazni kell.
