@@ -1,4 +1,4 @@
-## A gyógyfürdő- és klímagyógyintézet típusai és a törzsadatlap tartalma
+## A gyógyfürdő intézmény típusai és a törzsadatlap tartalma[^64]
 
 ## I.
 
@@ -6,17 +6,17 @@
 
 ## 1. Gyógyfürdő: az a létesítmény, amely gyógyvíz, gyógyiszap vagy egyéb természetes gyógytényező (pl. gázelőfordulás) felhasználásával fürdőkezelést (balneoterápiát) nyújt vagy elismert ásványvíz, hévíz, illetőleg melegített közműhálózati víz felhasználásával végzett hidroterápiás kezelések mellett, egyéb fizikai gyógymódok alkalmazásával együtt, teljes körű fizioterápiás ellátást nyújt.
 
-## 2. Mozgásszervi betegeket ellátó nappali kórház: az a létesítmény, mely járóbeteg-ellátás keretében teljes körű fizioterápiás ellátást nyújt kórházi jellegű körülmények között, a betegek napközbeni benttartózkodásával, főként természetes gyógytényező alkalmazásával.
+## 2.[^65] Mozgásszervi betegek rehabilitációját ellátó nappali kórház: az a létesítmény, mely járóbeteg-ellátás keretében teljes körű fizioterápiás ellátást nyújt kórházi jellegű körülmények között, a betegek napközbeni benttartózkodásával, főként természetes gyógytényező alkalmazásával.
 
 ## 3. Gyógyfürdőkórház: a nem közvetlenül területi betegellátást nyújtó fekvőbeteg-gyógyintézet, amely meghatározott betegségben szenvedők gyógyítását, főként természetes gyógytényezők alkalmazásával végzi. A gyógyfürdőkórház járóbeteg-részleggel is rendelkezhet.
 
-## 4.[^54]
+## 4.[^66]
 
-## 5. Éghajlati gyógyintézet, klímagyógyintézet: az a létesítmény, amely a helyi földrajzi adottságokból eredő sajátos éghajlati tényezők (a levegő tisztasága, hőmérséklete, páratartalma, a napfény stb.) felhasználásával nyújt gyógyító és rehabilitációs kezelést.
+## 5.[^67] Éghajlati gyógyintézet: az a létesítmény, amely a helyi földrajzi adottságokból eredő sajátos éghajlati tényezők (a levegő tisztasága, hőmérséklete, páratartalma, a napfény stb.) felhasználásával nyújt gyógyító és rehabilitációs kezelést.
 
 ## 6. Gyógyüdülő: az a létesítmény, amely az igénybevételére jogosultak részére üdülés keretében – saját gyógyászati részlegén vagy más gyógyintézmény kiegészítő szolgáltatásainak igénybevételére – a természetes gyógymódok orvosi felügyelet melletti igénybevételét is lehetővé teszi.
 
-## 7. Gyógyszálló: az a kereskedelmi szálláshely, amely vendégei számára főként természetes gyógytényező alkalmazásával saját gyógyászati részlegén önálló vagy más gyógyintézet kiegészítő szolgáltatásainak bevonásával, orvosi ellenőrzés mellett terápiás lehetőséget biztosít.
+## 7.[^68] Gyógyszálló: az a kereskedelmi szálláshely, amely vendégei számára természetes gyógytényező alkalmazásával saját gyógyászati részlegén önálló vagy más gyógyintézet kiegészítő szolgáltatásainak bevonásával, orvosi ellenőrzés mellett terápiás lehetőséget biztosít.
 
 ## 8. Gyógyvíz-ivócsarnok: gyógyvizet szolgáltat ki közvetlenül a fogyasztók részére a helyszínen történő (kúraszerű) fogyasztás céljából.
 
@@ -312,7 +312,7 @@
 
 ## 27.2 Távolsága
 
-## 28.[^55] A létesítmény és környezetének ellátottsága (1000 m-en belül)
+## 28.[^69] A létesítmény és környezetének ellátottsága (1000 m-en belül)
 
 ## (szálloda, panzió/fogadó, turistaszállás, üdülő-nyaralóház, kemping, fizető-vendéglátás, egyéb szálláshely, üdülő, étterem, vendéglő, egyéb kereskedelmi vendéglátóhely, élelmiszerüzlet, áruház, gyógyszertár, posta, távhívásba bekapcsolt távbeszélő állomás, nyilvános távbeszélő állomás, taxi állomás, parkolóhely, kulturális létesítmény, sportlétesítmény, pénzváltóhely, egyéb)
 
@@ -332,5 +332,9 @@
 
 2. számú melléklet a 74/1999. (XII. 25.) EüM rendelethez
 
-[^54]: Az 1. számú melléklet I. rész 4. pontját az 58/2012. (XII. 29.) EMMI rendelet 3. § c) pontja hatályon kívül helyezte.
-[^55]: Az 1. számú melléklet II. rész 28. pontja az 58/2012. (XII. 29.) EMMI rendelet 3. § b) pontja szerint módosított szöveg.
+[^64]: Az 1. számú melléklet címe a 11/2014. (II. 24.) EMMI rendelet 23. § f) pont fa) alpontja szerint módosított szöveg.
+[^65]: Az 1. számú melléklet I. rész 2. pontja a 11/2014. (II. 24.) EMMI rendelet 23. § f) pont fb) alpontja szerint módosított szöveg.
+[^66]: Az 1. számú melléklet I. rész 4. pontját az 58/2012. (XII. 29.) EMMI rendelet 3. § c) pontja hatályon kívül helyezte.
+[^67]: Az 1. számú melléklet I. rész 5. pontja a 11/2014. (II. 24.) EMMI rendelet 23. § f) pont fc) alpontja szerint módosított szöveg.
+[^68]: Az 1. számú melléklet I. rész 7. pontja a 11/2014. (II. 24.) EMMI rendelet 24. § e) pontja szerint módosított szöveg.
+[^69]: Az 1. számú melléklet II. rész 28. pontja az 58/2012. (XII. 29.) EMMI rendelet 3. § b) pontja szerint módosított szöveg.

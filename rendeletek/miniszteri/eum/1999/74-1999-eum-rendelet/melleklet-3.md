@@ -8,9 +8,9 @@
 
 ## a) természetesen vagy védelmi intézkedésekkel védett, felszín alatti vízadó rétegből származik,
 
-## b) eredeténél fogva tiszta,
+## b)[^70] eredeténél fogva tiszta, antropogén szennyeződéstől mentes,
 
-## c) az adott felhasználási formában mikrobiológiai és kémiai szempontból az emberi egészségre ártalmatlan,
+## c)[^71] az adott felhasználási formában mikrobiológiai, fiziko-kémiai és radioaktív tulajdonságait tekintve az emberi egészségre ártalmatlan,
 
 ## d) összetétele, oldott szilárd ásványi anyag tartalma a víznyerő helyen – a természetes ingadozás határain belül – közel állandó, és
 
@@ -20,7 +20,7 @@
 
 ## Litium-ion legalább 5 mg/l
 
-## Szulfid[^56]-ion vagy titrálható kén legalább 1 mg/l
+## Szulfid[^72]-ion vagy titrálható kén legalább 1 mg/l
 
 ## Bromid-ion legalább 5 mg/l
 
@@ -32,15 +32,15 @@
 
 ## Szabad széndioxid legalább 1000 mg/l
 
-## eb) belsőleg történő felhasználásban:
+## eb)[^73] belsőleg történő felhasználásban:
 
-## Nátrium-ion kevesebb 200[^57] mg/l-nél
+## Nátrium-ion kevesebb 200[^74] mg/l-nél
 
 ## Magnézium-ion legalább 20 mg/l
 
 ## Kálcium-ion legalább 60 mg/l
 
-## Fluorid-ion 0,8–1,2 mg/l
+## Fluorid-ion legalább 0,8 mg/l
 
 ## Szabad széndioxid legalább 1000 mg/l.
 
@@ -66,7 +66,7 @@
 
 ## Korlátozással fogyasztható az az ásványvíz, amely ásványi anyagokat és/vagy biológiai aktív természetes anyagokat olyan mennyiségben tartalmaz, hogy annak fogyasztása kisebb mennyiségben előnyös, de nagyobb mennyiségben nem kívánatos lehet és ezért fogyasztását korlátozni szükséges.
 
-## 3.[^58] Belsőleg (ivásra, inhalálásra, palackozási célra) az az elismert ásványvíz használható fel,
+## 3.[^75] Belsőleg (ivásra, inhalálásra, palackozási célra) az az elismert ásványvíz használható fel,
 
 ## a) amely az elnevezési engedélye szerint belsőleg történő felhasználásra alkalmas,
 
@@ -102,9 +102,9 @@
 
 ## a) gasztroenterológiai orvosi szakvélemény alapján a címkén fel kell tüntetni a javallatokat, ellenjavallatokat és a fogyasztási előírásokat,
 
-## b)[^59] minden további eltérés csak a gyógyvíz elnevezési engedélyében meghatározott, az OTH által adott egyedi felmentés alapján lehetséges.
+## b)[^76] minden további eltérés csak a gyógyvíz elnevezési engedélyében meghatározott, az OTH által adott egyedi felmentés alapján lehetséges.
 
-## III.[^60] A természetes ásványvíz és gyógyvíz törzsadatlapjának tartalma
+## III.[^77] A természetes ásványvíz és gyógyvíz törzsadatlapjának tartalma
 
 ## Általános adatok:
 
@@ -124,9 +124,9 @@
 
 ## 3. Az üzemeltető neve, címe
 
-## 4. Vízjogi üzemeltetési engedély
+## 4.[^78] Vízjogi létesítési vagy üzemeltetési engedély
 
-## 4.1[^61] Kiadó vízügyi hatóság
+## 4.1[^79] Kiadó vízügyi hatóság
 
 ## 4.2 Az engedély száma, kelte
 
@@ -192,7 +192,7 @@
 
 ## 2. A kútfej/forrásfoglalás műszaki rajza (M=1:50).
 
-## 3.[^62] A minősítendő vizet adó víznyerőhely vízjogi üzemeltetési engedélyének másolata.
+## 3.[^80] A minősítendő vizet adó víznyerőhely vízjogi üzemeltetési engedélyének másolata. Ennek hiányában a vízjogi létesítési engedély másolata, amely tartalmazza a kitermelni kívánt (lekötött) vízmennyiséget.
 
 ## 4. A víznyerőhely vízföldtani (hidrogeológiai) naplója.
 
@@ -254,15 +254,19 @@
 
 ## 5. Ásványvíz vizsgálatra akkreditált laboratórium helyszíni és a törzskönyvezéshez szükséges teljes körű laboratóriumi vizsgálatának eredménye, mely a kérelem benyújtásától számított egy éven belül, a kút üzemszerű állapotában történt mintavétel alapján készült.
 
-## 6.[^63]
+## 6.[^81] Az OKI közegészségügyi szempontú szakvéleménye teljes körű laboratóriumi vizsgálati eredmények alapján.
 
 3. számú melléklet a 74/1999. (XII. 25.) EüM rendelethez
 
-[^56]: A Magyar Közlöny 2000. számában közzétett helyesbítésnek megfelelő szöveg.
-[^57]: A Magyar Közlöny 2000. számában közzétett helyesbítésnek megfelelő szöveg.
-[^58]: A 2. számú melléklet I. pont 3. alpontjának utolsó mondatát a 17/2002. (IV. 12.) EüM rendelet 2. §-a hatályon kívül helyezte.
-[^59]: A 2. számú melléklet II. rész 4. pont b) alpontja a 37/2009. (XI. 5.) EüM rendelet 11. § (1) bekezdése szerint módosított szöveg, e módosító rendelet 12. § (1) bekezdése alapján a 2009. november 20. után benyújtott kérelmek elbírálása vagy megismételt eljárások során kell alkalmazni.
-[^60]: A 2. számú melléklet III. pontja a 12/2008. (III. 26.) EüM rendelet 5. § (3) bekezdése a) pontjának ac) alpontja szerint módosított szöveg.
-[^61]: A 2. számú melléklet III. pont 4.1 alpontja a 3/2012. (I. 3.) NEFMI rendelet 8. § (3) bekezdése szerint módosított szöveg.
-[^62]: A 2. számú melléklet III. rész „Mellékletek (két példányban kell benyújtani):” alcím 3. pontja a 37/2009. (XI. 5.) EüM rendelet 11. § (2) bekezdése szerint módosított szöveg, e módosító rendelet 12. § (1) bekezdése alapján a 2009. november 20. után benyújtott kérelmek elbírálása vagy megismételt eljárások során kell alkalmazni.
-[^63]: A 2. számú melléklet III. rész „Mellékletek (két példányban kell benyújteni):” alcím 6. pontját a 37/2009. (XI. 5.) EüM rendelet 11. § (2) bekezdése hatályon kívül helyezte, e módosító rendelet 12. § (1) bekezdése alapján a 2009. november 20. után benyújtott kérelmek elbírálása vagy megismételt eljárások során kell alkalmazni.
+[^70]: A 2. számú melléklet I. rész 1. pont b) alpontja a 11/2014. (II. 24.) EMMI rendelet 22. § (1) bekezdésével megállapított szöveg.
+[^71]: A 2. számú melléklet I. rész 1. pont c) alpontja a 11/2014. (II. 24.) EMMI rendelet 22. § (1) bekezdésével megállapított szöveg.
+[^72]: A Magyar Közlöny 2000. számában közzétett helyesbítésnek megfelelő szöveg.
+[^73]: A 2. számú melléklet I. rész 1. pont e) pont eb) alpontja a 11/2014. (II. 24.) EMMI rendelet 22. § (1) bekezdése szerint módosított szöveg.
+[^74]: A Magyar Közlöny 2000. számában közzétett helyesbítésnek megfelelő szöveg.
+[^75]: A 2. számú melléklet I. pont 3. alpontjának utolsó mondatát a 17/2002. (IV. 12.) EüM rendelet 2. §-a hatályon kívül helyezte.
+[^76]: A 2. számú melléklet II. rész 4. pont b) alpontja a 37/2009. (XI. 5.) EüM rendelet 11. § (1) bekezdése szerint módosított szöveg, e módosító rendelet 12. § (1) bekezdése alapján a 2009. november 20. után benyújtott kérelmek elbírálása vagy megismételt eljárások során kell alkalmazni.
+[^77]: A 2. számú melléklet III. pontja a 12/2008. (III. 26.) EüM rendelet 5. § (3) bekezdése a) pontjának ac) alpontja szerint módosított szöveg.
+[^78]: A 2. számú melléklet III. rész 4. pontja a 11/2014. (II. 24.) EMMI rendelet 22. § (1) bekezdése szerint módosított szöveg.
+[^79]: A 2. számú melléklet III. pont 4.1 alpontja a 3/2012. (I. 3.) NEFMI rendelet 8. § (3) bekezdése szerint módosított szöveg.
+[^80]: A 2. számú melléklet III. rész „Mellékletek (két példányban kell benyújtani):” alcím 3. pontja a 11/2014. (II. 24.) EMMI rendelet 22. § (1) bekezdésével megállapított szöveg.
+[^81]: A 2. számú melléklet III. rész „Mellékletek (két példányban kell benyújtani):” alcím 6. pontját a 37/2009. (XI. 5.) EüM rendelet 11. § (2) bekezdése hatályon kívül helyezte, újonnan a 11/2014. (II. 24.) EMMI rendelet 22. § (1) bekezdése iktatta be.
