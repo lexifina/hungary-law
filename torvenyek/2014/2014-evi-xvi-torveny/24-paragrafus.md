@@ -1,1 +1,1 @@
-24. § Az ÁÉKBV-alapkezelő által a kollektív befektetési formában kezelt eszközök nem képezik az ÁÉKBV-alapkezelő tulajdonát, eljárása során a kollektív befektetési forma nevében vagy javára és terhére jár el. Az ÁÉKBV-alapkezelő jogosult a kollektív befektetési forma nevében vagy javára eljárva befektetési ügyleteket kötni.
+### 24. §

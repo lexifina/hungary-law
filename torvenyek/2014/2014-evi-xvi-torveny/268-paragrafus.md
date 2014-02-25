@@ -4,4 +4,4 @@
 
 ## (6) A belső egyedi azonosítót a tulajdoni lapon, továbbá – ha törvény másként nem rendelkezik – az ingatlan-nyilvántartás részeiről kiadott másolaton feltüntetni nem szabad, továbbá a 70. § (1) bekezdésében, 77. § (1) bekezdésében, valamint a 81. § (1) bekezdésében foglaltak a belső egyedi azonosítóra is irányadók.”
 
-268. § Az egyszerűsített vállalkozói adóról szóló 2002. évi XLIII. törvény 8. § (1) és (2) bekezdésében, 18. § (6) és (9) bekezdésében, 19. § (9) bekezdés a)–c) pontjában, 20. § (4) bekezdésében és 22. § (1) bekezdésében a „jogi személyiség nélküli gazdasági társaság”, szövegrész helyébe a „betéti társaság, közkereseti társaság” szöveg lép.
+### 268. §

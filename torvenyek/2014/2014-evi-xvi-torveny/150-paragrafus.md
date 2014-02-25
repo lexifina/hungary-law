@@ -1,3 +1,1 @@
-150. § (1) A Felügyelet haladéktalanul tájékoztatja a gyűjtő-ÁÉKBV-t a cél-ÁÉKBV vagy annak befektetési alapkezelője, letétkezelője vagy könyvvizsgálója tekintetében hozott minden döntésről, intézkedésről, e rész feltételei be nem tartásának megállapításáról vagy a Tpt. 360. § (1) bekezdése alapján bejelentett bármely információról.
-
-(2) Ha a gyűjtő-ÁÉKBV székhelye más EGT-államban van, a Felügyelet az (1) bekezdés szerinti tájékoztatási kötelezettségét a gyűjtő-ÁÉKBV székhelye szerinti tagállam felügyeleti hatósága felé teljesíti. Más EGT-államban székhellyel rendelkező cél-ÁÉKBV esetén a székhely szerinti tagállam felügyeleti hatóságától kapott tájékoztatást a Felügyelet haladéktalanul továbbítja a magyarországi székhelyű gyűjtő-ÁÉKBV részére.
+### 150. §
