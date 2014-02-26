@@ -1,7 +1,5 @@
-## 5. § A Magyar Bányászati és Földtani Hivatalról szóló 267/2006. (XII. 20.) Korm. rendelet 4/A. § (9) bekezdése helyébe a következő rendelkezés lép, és a § a következő (9a) bekezdéssel egészül ki:
-
-## „(9) A Kormány a bányászati hatóságnak a geotermikus védőidom megállapítására irányuló eljárásában, ha a tevékenység megkezdéséhez környezetvédelmi engedély vagy egységes környezethasználati engedély nem szükséges, a geotermikus védőidom kijelölésének a felszín alatti vizek minőségi védelmével kapcsolatos szakkérdésében, az első fokú eljárásban a környezetvédelmi és természetvédelmi felügyelőséget, a másodfokú eljárásban az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőséget szakhatóságként jelöli ki.
-
-## (9a) A Kormány a bányászati hatóságnak a geotermikus védőidom megállapítására irányuló eljárásában, ha a tevékenység megkezdéséhez környezetvédelmi engedély vagy egységes környezethasználati engedély nem szükséges, a geotermikus védőidom kijelölésének a vízkészlet-gazdálkodásra, az ivóvízbázisra és a vizek mennyiségi állapotára gyakorolt hatása vizsgálatának szakkérdésében, az első fokú eljárásban a területi vízügyi hatóságot, a másodfokú eljárásban az Országos Vízügyi Hatóságot szakhatóságként jelöli ki.”
+## 5. §[^5]
 
 ## 6. A földhivatalokról, a Földmérési és Távérzékelési Intézetről, a Földrajzinév Bizottságról és az ingatlan-nyilvántartási eljárás részletes szabályairól szóló 338/2006. (XII. 23.) Korm. rendelet módosítása
+
+[^5]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
