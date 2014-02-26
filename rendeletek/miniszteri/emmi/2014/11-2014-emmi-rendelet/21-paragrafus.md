@@ -1,3 +1,0 @@
-## 20. § A Tgyr. 19. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) A természetes gyógytényező gyógyhatása akkor tekinthető bizonyítottnak, ha feltételezett hatását tudományosan elismert módszerek szerint lefolytatott orvosi megfigyelések megfelelően dokumentált és kiértékelt eredményei igazolják. A gyógyvízzé minősítési eljárás során az orvosi megfigyeléseket nem kell lefolytatni, ha a vizet adó kút vagy forrás egy, már korábban gyógyvíz minősítést kapott kút vagy forrás védőterületén, védőidomán belül van, azonos vízadó rétegből kapja a vizet, és a két víz kémiai összetétele a természetes ingadozás határain belül megegyezik.”

@@ -1,3 +1,0 @@
-## 42. § A várólista-sorrend kialakításának és az eltérés lehetőségének egészségügyi szakmai feltételeiről szóló 45/2006. (XII. 27.) EüM rendelet (a továbbiakban: R1.) 1. §-a helyébe a következő rendelkezés lép:
-
-## „1. § E rendelet alkalmazásában várólista protokoll az egészségügyi ellátásnak a várólista alapján nyújtható ellátások részletes szabályairól szóló 287/2006. (XII. 23.) Korm. rendelet (a továbbiakban: kormányrendelet) szerinti várólista, az intézményi előjegyzési lista (a továbbiakban: előjegyzési lista) vagy betegfogadási lista alapján történő igénybevételére vonatkozó – az egészségügyi miniszter rendeletében közzétett – orvos-szakmai szabályok összessége.”
