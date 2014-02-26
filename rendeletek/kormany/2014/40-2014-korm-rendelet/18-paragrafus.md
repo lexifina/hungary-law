@@ -1,7 +1,9 @@
-## lép.
+## 16–17. §[^5]
 
-18. § (1) A BérKr. 2. melléklete a 3. melléklet szerint módosul.
+18. § (1)[^6]
 
-(2)[^1]
+(2)[^7]
 
-[^1]: A 18. § (2) bekezdése a 21. § (2) bekezdése alapján 2014. március 1-jén lép hatályba.
+[^5]: A 16–17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 18. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 18. § (2) bekezdése a 21. § (2) bekezdése alapján 2014. március 1-jén lép hatályba.

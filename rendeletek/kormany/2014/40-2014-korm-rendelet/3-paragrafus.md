@@ -1,3 +1,0 @@
-## 2. § Az Ebtv. vhr. 8. § (8) bekezdése helyébe a következő rendelkezés lép:
-
-## „(8) Az egy évnél hosszabb kihordási idejű, az egészségügyért felelős miniszter rendeletében meghatározott, támogatással javítható eszközcsoportokba tartozó gyógyászati segédeszközök esetében a termék gyártójának vagy meghatalmazott képviselőjének a termék javítását dokumentáló szervizkönyvet kell biztosítania, amelyben a javítást végzőnek rögzítenie kell a gyártó vagy meghatalmazott képviselője nevét és címét, az eszköz megnevezését, típusát, a kormányrendeletben foglaltak alapján vállalt kedvezőbb jótállási feltételek szerinti időtartamot, az eszköz gyártási számát, az eszközön észlelt hibát, az elvégzett javításokat, annak nettó díjösszegeit és időpontjait.”
