@@ -2,6 +2,6 @@
 
 a)
 
-b) 29. § (9) bekezdésében a „betöltött” szövegrész helyébe a „be nem töltött”
+b)
 
 szöveg lép.

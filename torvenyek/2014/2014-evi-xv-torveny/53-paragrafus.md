@@ -4,7 +4,7 @@
 
 a)
 
-b) 307. § (2) bekezdés d) pontjában az „ellátására” szövegrész helyébe az „ellátására és panaszügyintézésére”,
+b)
 
 c)
 
