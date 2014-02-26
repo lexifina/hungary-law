@@ -2,9 +2,9 @@
 
 a) elektronikus dokumentumként szolgáltatott hiteles és nem hiteles tulajdonilap-másolat,
 
-b) elektronikus dokumentumként szolgáltatott hiteles és nem hiteles térképmásolat.
+b)[^7] elektronikus dokumentumként szolgáltatott hiteles térképmásolat.
 
-(2)[^11] A FÖMI előirányzat-felhasználási keret számlájára történő átutalással kell teljesíteni
+(2)[^8] A FÖMI előirányzat-felhasználási keret számlájára történő átutalással kell teljesíteni
 
 a) az (1) bekezdés szerinti adatszolgáltatásért járó – külön jogszabályban meghatározott – díj (a továbbiakban: elektronikus adatszolgáltatási díj),
 
@@ -18,7 +18,7 @@ bb) 32/G. §-ában meghatározott díj
 
 (3) Az (1) bekezdés a) pontja szerinti adatszolgáltatásból származó bevétel 65%-a az adatszolgáltatással érintett ingatlan fekvése szerint illetékes megyei földhivatalt, 35%-a pedig a FÖMI-t illeti meg.
 
-(3a)[^12] A Díjtörvény 31. § (6) bekezdésében meghatározott kétszeres díjtételből
+(3a)[^9] A Díjtörvény 31. § (6) bekezdésében meghatározott kétszeres díjtételből
 
 a) az elektronikus adatszolgáltatási díj a (3) bekezdésben meghatározottak szerint az adatszolgáltatással érintett ingatlan fekvése szerint illetékes megyei földhivatalt és a FÖMI-t,
 
@@ -26,7 +26,7 @@ b) az elektronikus adatszolgáltatási díjon felüli rész a TAKARNET felhaszn�
 
 illeti meg.
 
-(4)[^13] A FÖMI a tárgyhónap utolsó napját követő 15 napon belül
+(4)[^10] A FÖMI a tárgyhónap utolsó napját követő 15 napon belül
 
 a) a fővárosi és megyei kormányhivatal által kiállított számla alapján az elektronikus adatszolgáltatási díjnak a (3) bekezdésben meghatározott részét az adatszolgáltatással érintett ingatlan fekvése szerint illetékes,
 
@@ -36,6 +36,7 @@ ba) a) pontja szerinti elektronikus adatszolgáltatási díjat az adatszolgálta
 
 bb) b) pontja szerinti összeget a TAKARNET ellenőrzést lefolytató
 
-[^11]: A 7. § (2) bekezdése a 148/2012. (XII. 28.) VM rendelet 29. § (1) bekezdésével megállapított szöveg.
-[^12]: A 7. § (3a) bekezdését a 148/2012. (XII. 28.) VM rendelet 29. § (2) bekezdése iktatta be.
-[^13]: a 7. § (4) bekezdése a 148/2012. (XII. 28.) VM rendelet 29. § (3) bekezdésével megállapított szöveg.
+[^7]: A 7. § (1) bekezdés b) pontja a 15/2014. (II. 25) VM rendelet 3. § a) pontja szerint módosított szöveg.
+[^8]: A 7. § (2) bekezdése a 148/2012. (XII. 28.) VM rendelet 29. § (1) bekezdésével megállapított szöveg.
+[^9]: A 7. § (3a) bekezdését a 148/2012. (XII. 28.) VM rendelet 29. § (2) bekezdése iktatta be.
+[^10]: a 7. § (4) bekezdése a 148/2012. (XII. 28.) VM rendelet 29. § (3) bekezdésével megállapított szöveg.
