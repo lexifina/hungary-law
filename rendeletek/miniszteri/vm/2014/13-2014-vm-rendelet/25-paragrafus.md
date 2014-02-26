@@ -1,1 +1,0 @@
-## 24. § Az R3. 19. § (2) bekezdésében „A kifizetési kérelemhez csatolni kell” szövegrész helyébe „A kifizetési kérelemhez elektronikus úton, szkennelés útján előállított formában csatolni kell” szöveg lép.

@@ -1,1 +1,0 @@
-## „(8) Ha a 6. § (1) bekezdése szerinti állatsűrűségi feltételnek a kifizetési kérelemben igényelt tenyészet nem felel meg, akkor a 2. § (3) bekezdés a) pontja szerinti alaptámogatás elutasításra kerül az érintett gazdálkodási év tekintetében.”

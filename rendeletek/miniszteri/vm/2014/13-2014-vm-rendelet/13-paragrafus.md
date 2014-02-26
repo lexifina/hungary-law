@@ -1,1 +1,0 @@
-## „(4a) A kötelezettségátadásra vonatkozó kérelemhez csatolni kell a kötelezettséget átadó és átvevő által aláírt kötelezettségátadásra vonatkozó szerződés másolatát. A szerződésnek tartalmaznia kell legalább a tenyészetkódot, az átadott állatállományt korcsoportonként ÁE-ben, a tartási hely azonosítókat és a legelő területeket.”

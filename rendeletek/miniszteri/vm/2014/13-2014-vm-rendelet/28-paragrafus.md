@@ -1,1 +1,0 @@
-## „(3a) A (3) bekezdés szerinti területnagyságot a támogatási kérelemben az adott tevékenységgel érintett erdőrészletek és az (5) bekezdésnek megfelelő részterületek összterülete alapján kell megállapítani. A területszámításnál kizárólag a 0,3 hektár nagyságot elérő erdőrészletek és részterületek vehetők figyelembe.”
