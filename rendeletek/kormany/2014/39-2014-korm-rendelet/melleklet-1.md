@@ -1,3 +1,5 @@
-## 6. § Hatályát veszti a központi költségvetési szervek szociális hozzájárulási adó kedvezmények igénybevételéből eredő kiadási megtakarításai befizetésének rendjéről szóló 48/2013. (II. 21.) Korm. rendelet.
+## 6. §[^2]
 
 1. melléklet a 39/2014. (II. 24.) Korm. rendelethez
+
+[^2]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
