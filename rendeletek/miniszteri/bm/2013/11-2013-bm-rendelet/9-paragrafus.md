@@ -1,1 +1,3 @@
-## 8. § A fogászati kezelés, valamint a szemüvegkészítés vagy kontaktlencse vásárlás költségeinek megtérítése az 1. melléklet szerinti kérelemmel igényelhető.
+## 8. §[^10] Ha a hivatásos állomány tagja vagy a közalkalmazott egyidejűleg készíttet látásjavító szemüveget és képernyős szemüveget is, és azt egy szemüveg lencsébe csiszoltan készítteti el, feltéve, hogy az alapellátó orvos mind a kettő szemüveg viselésének indokoltságát igazolja, akkor az elkészített szemüveg költségtérítésekor a képernyős szemüvegre vonatkozó rendelkezéseket kell alkalmazni.
+
+[^10]: A 8. § a 13/2014. (II. 25.) BM rendelet 5. §-ával megállapított szöveg.

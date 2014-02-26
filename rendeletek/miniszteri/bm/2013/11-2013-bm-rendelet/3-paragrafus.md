@@ -1,5 +1,8 @@
-3. § (1) A hivatásos állomány tagja és a közalkalmazott a fogászati ellátással kapcsolatban felmerült költségeinek a társadalombiztosítási jogviszony alapján meg nem térülő része megtérítésére jogosult. Nincs helye költségtérítésnek, ha a szolgáltatás a kötelező egészségbiztosítási ellátások keretében térítésmentesen is igénybe vehető. Ha a társadalombiztosítás keretében térítésmentesen igénybe vehető fogászati ellátások igénybevételére az ilyen ellátásokat térítés ellenében nyújtó egészségügyi szolgáltatónál kerül sor, a felmerülő költségek a hivatásos állomány tagját, illetve a közalkalmazottat terhelik.
+3. § (1)[^3]
 
 (2) A hivatásos állomány tagja, valamint a közalkalmazott e rendelet szerint akkor jogosult fogászati költségei megtérítésére, ha a fogászati ellátás igénybevételét megelőző egy éven belül fogászati szűrővizsgálaton vett részt és erről igazolást kapott.
 
-(3) Fogászati költségtérítésként – az (1) bekezdésben meghatározott korlátozással – a fogászati szolgáltatást nyújtó egészségügyi szolgáltató által megállapított költség 75%-a, de évente összesen legfeljebb a központi költségvetésről szóló törvény szerinti illetményalap (a továbbiakban: illetményalap) 150%-ának megfelelő összeg téríthető meg.
+(3)[^4] Fogászati költségtérítésként a fogászati szolgáltatást nyújtó egészségügyi szolgáltató által megállapított költség 75%-a, de évente összesen legfeljebb a központi költségvetésről szóló törvény szerinti illetményalap (a továbbiakban: illetményalap) 150%-ának megfelelő összeg téríthető meg.
+
+[^3]: A 3. § (1) bekezdését a 13/2014. (II. 25.) BM rendelet 8. § a) pontja hatályon kívül helyezte.
+[^4]: A 3. § (3) bekezdése a 13/2014. (II. 25.) BM rendelet 8. § b) pontja szerint módosított szöveg.
