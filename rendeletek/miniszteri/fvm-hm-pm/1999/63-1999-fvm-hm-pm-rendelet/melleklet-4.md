@@ -52,7 +52,7 @@
 
 ## * A megfelelő rész aláhúzandó vagy kitöltendő!
 
-4. számú melléklet a 63/1999. (VII. 21.) FVM–HM–PM együttes rendelethez[^28]
+4. számú melléklet a 63/1999. (VII. 21.) FVM–HM–PM együttes rendelethez[^32]
 
 |  | A | B |
 
@@ -102,4 +102,6 @@
 
 | 22. | HM Zrínyi Nonprofit Kft. | 10023002-00286040-00000017 |
 
-[^28]: A 4. számú mellékletet a 161/2004. (XI. 8.) FVM–HM–PM együttes rendelet 10. § (2) bekezdése iktatta be, szövege a 70/2013. (VII. 31.) VM rendelet 9. § (3) bekezdésével megállapított szöveg.
+| 23. | Nemzeti Kataszteri Program Nonprofit Korlátolt Felelősségű Társaság | 10032000-00286576-00000017 |
+
+[^32]: A 4. számú mellékletet a 161/2004. (XI. 8.) FVM–HM–PM együttes rendelet 10. § (2) bekezdése iktatta be, szövege a 70/2013. (VII. 31.) VM rendelet 9. § (3) bekezdésével megállapított, a 15/2014. (II. 25.) VM rendelet 6. §-a szerint módosított szöveg.

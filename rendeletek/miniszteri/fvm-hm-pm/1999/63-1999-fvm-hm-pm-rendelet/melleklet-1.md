@@ -1,4 +1,4 @@
-1. számú melléklet a 63/1999. (VII. 21.) FVM–HM–PM együttes rendelethez[^25]
+1. számú melléklet a 63/1999. (VII. 21.) FVM–HM–PM együttes rendelethez[^29]
 
 ## Igazgatási szolgáltatási díjak
 
@@ -378,4 +378,4 @@ f) Domborzatrajzot tartalmazó kiadvány esetén a vonatkozó díjtételt 20%-ka
 
 g) Digitális formában történő forgalmazásért a vonatkozó díjtételt 50%-kal növelni kell.
 
-[^25]: Az 1. számú melléklet a 161/2004. (XI. 8.) FVM–HM–PM együttes rendelet 10. §-ának (1) bekezdésével megállapított, a 70/2013. (VII. 31.) VM rendelet 9. § (2) bekezdés g)–i) pontja szerint módosított szöveg.
+[^29]: Az 1. számú melléklet a 161/2004. (XI. 8.) FVM–HM–PM együttes rendelet 10. §-ának (1) bekezdésével megállapított, a 70/2013. (VII. 31.) VM rendelet 9. § (2) bekezdés g)–i) pontja szerint módosított szöveg.
