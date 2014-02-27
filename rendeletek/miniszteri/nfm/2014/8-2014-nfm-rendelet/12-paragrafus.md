@@ -1,3 +1,5 @@
 ## 11. § Ez a rendelet a kihirdetését követő nyolcadik napon lép hatályba.
 
-12. § Hatályát veszti a bányászati koncessziós pályázati eljárásról szóló 81/2012. (XII. 28.) NFM rendelet.
+12. §[^1]
+
+[^1]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
