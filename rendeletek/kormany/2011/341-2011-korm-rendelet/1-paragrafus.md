@@ -62,7 +62,7 @@ b) másik lakóingatlanban nem rendelkezik tulajdoni hányaddal sem ő, sem a ve
 
 10. komfortos lakás: a lakások és helyiségek bérletére, valamint az elidegenítésükre vonatkozó egyes szabályokról szóló 1993. évi LXXVIII. törvény 91/A. § 3. pontjában meghatározott lakás;
 
-11. korszerűsítés: a lakás komfortfokozatának növelése céljából
+11.[^8] korszerűsítés: a lakás használatának javítása céljából
 
 a) víz-, csatorna-, elektromos-, gázközmű bevezetése, vagy belső hálózatának kiépítése, fürdőszoba létesítése olyan lakásban, ahol még ilyen helyiség nincs,
 
@@ -76,7 +76,7 @@ e) a tető cseréje, felújítása, szigetelése,
 
 valamint az ezekhez közvetlenül kapcsolódó helyreállítási munka, a korszerűsítés közvetlen költségeinek 20 százalékáig;
 
-12.[^8] lakóingatlan: a lakás céljára létesített és az ingatlan-nyilvántartásban
+12.[^9] lakóingatlan: a lakás céljára létesített és az ingatlan-nyilvántartásban
 
 a) lakóház vagy lakás megnevezéssel nyilvántartott vagy ilyenként feltüntetésre váró ingatlan – ha arra használatbavételi engedélyt adtak ki – a hozzá tartozó földrészlettel,
 
@@ -90,9 +90,9 @@ b) aki legalább 50 százalékos mértékű egészségkárosodást szenvedett, v
 
 c) akinek az egészségi állapota a rehabilitációs hatóság komplex minősítése alapján nem haladja meg az 50 százalékos mértéket;
 
-14.[^9] támogatott személy: aki
+14.[^10] támogatott személy: aki
 
-a) az e rendelet szerinti személyi és egyéb feltételeknek megfelel, és ezek alapján a hitelintézettel az otthonteremtési kamattámogatás nyújtására szerződést köt, vagy
+a)[^11] az e rendelet szerinti személyi és egyéb feltételeknek megfelel, és ezek alapján a hitelintézettel az otthonteremtési kamattámogatás nyújtására szerződést köt és
 
 b) a támogatást igénylő házastársa vagy bejegyzett élettársa, kivéve ha a kérelem benyújtását megelőzően kötött vagyonjogi szerződés alapján a kamattámogatás igénybevételével érintett lakás a felek egyikének különvagyonába tartozik, és ezt a hitelintézet részére a vagyonjogi szerződés bemutatásával igazolják;
 
@@ -108,13 +108,17 @@ bb) amelyet másodízben értékesítenek természetes személy részére, felt�
 
 16. ügyleti kamat: a kamattámogatott kölcsön szerződésszerű törlesztése során a hitelező által érvényesített, a kölcsönösszeg éves százalékos mértékében meghatározott ellenszolgáltatás;
 
-17.[^10] bővítés: – a meglévő épület, épületrész vagy építmény átalakítása kivételével – az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet (a továbbiakban: OTÉK) fogalom-meghatározásának keretein belül – ideértve az építmény térfogatnövelésével nem járó tetőtér-beépítést is – a lakás hasznos alapterületének legalább egy lakószobával történő növelése érdekében végzett építési tevékenység;
+17.[^12] bővítés: – a meglévő épület, épületrész vagy építmény átalakítása kivételével – az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet (a továbbiakban: OTÉK) fogalom-meghatározásának keretein belül – ideértve az építmény térfogatnövelésével nem járó tetőtér-beépítést is – a lakás hasznos alapterületének legalább egy lakószobával történő növelése érdekében végzett építési tevékenység;
 
-18.[^11] hasznos alapterület: az OTÉK fogalom-meghatározásának keretein belül a lakás fűthető helyiségei alapterületének összege;
+18.[^13] hasznos alapterület: az OTÉK fogalom-meghatározásának keretein belül a lakás fűthető helyiségei alapterületének összege;
 
-19.[^12] hitelígérvény: a kölcsönszerződés előre meghatározott jövőbeni időpontban vagy feltételek bekövetkezésekor történő megkötésére vonatkozó kötelezettségvállalás.
+19.[^14] hitelígérvény: a kölcsönszerződés előre meghatározott jövőbeni időpontban vagy feltételek bekövetkezésekor történő megkötésére vonatkozó kötelezettségvállalás.
 
-(2) Az e rendeletben meg nem határozott fogalmakat a Polgári Törvénykönyvről szóló 1959. évi IV. törvényben (a továbbiakban: Ptk.), a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényben és az országos településrendezési és az építési követelményekről szóló kormányrendeletben meghatározottak szerint kell értelmezni.
+20.[^15] nem támogatott személy hiteladós: az otthonteremtési kamattámogatással érintett kölcsönszerződés olyan adóstársa, aki a támogatott személyek legalább egyikének a Polgári Törvénykönyv (a továbbiakban: Ptk.) szerinti közeli hozzátartozója és a 2. § (3) bekezdése szerinti feltételeket teljesíti;
+
+21.[^16] igénylő: olyan támogatott személy, aki otthonteremtési kamattámogatás igénybevétele iránt kérelmet nyújtott be a hitelintézethez, azonban az otthonteremtési kamattámogatással érintett kölcsönszerződésének megkötésére még nem került sor.
+
+(2)[^17] Az e rendeletben meg nem határozott fogalmakat a Ptk.-ban, a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényben és az országos településrendezési és az építési követelményekről szóló kormányrendeletben meghatározottak szerint kell értelmezni.
 
 [^2]: Az 1. § (1) bekezdés 2. pontja a 26/2012. (III. 6.) Korm. rendelet 6. § (2) bekezdése alapján 2012. április 14-én lép hatályba.
 [^3]: Az 1. § (1) bekezdés 3. pontja a 26/2012. (III. 6.) Korm. rendelet 6. § (2) bekezdése alapján 2012. április 14-én lép hatályba, szövege a 71/2012. (IV. 12.) Korm. rendelet 5. §-ával megállapított szöveg.
@@ -122,8 +126,13 @@ bb) amelyet másodízben értékesítenek természetes személy részére, felt�
 [^5]: Az 1. § (1) bekezdés 6. pontja a 26/2012. (III. 6.) Korm. rendelet 6. § (2) bekezdése alapján 2012. április 14-én lép hatályba.
 [^6]: Az 1. § (1) bekezdés 8. pontja a 26/2012. (III. 6.) Korm. rendelet 6. § (2) bekezdése alapján 2012. április 14-én lép hatályba.
 [^7]: Az 1. § (1) bekezdés 9. pontja a 379/2012. (XII. 19.) Korm. rendelet 43. § a) pontja szerint módosított szöveg.
-[^8]: Az 1. § (1) bekezdés 12. pontja a 26/2012. (III. 6.) Korm. rendelet 6. § (2) bekezdése alapján 2012. április 14-én lép hatályba.
-[^9]: Az 1. § (1) bekezdés 14. pontja a 128/2013. (IV. 30.) Korm. rendelet 16. §-ával megállapított szöveg.
-[^10]: Az 1. § (1) bekezdés 17. pontját a 379/2012. (XII. 19.) Korm. rendelet 32. §-a iktatta be, szövege a 128/2013. (IV. 30.) Korm. rendelet 21. § b) pontja szerint módosított szöveg.
-[^11]: Az 1. § (1) bekezdés 18. pontját a 379/2012. (XII. 19.) Korm. rendelet 32. §-a ikatta be.
-[^12]: Az 1. § (1) bekezdés 19. pontját a 379/2012. (XII. 19.) Korm. rendelet 32. §-a ikatta be.
+[^8]: Az 1. § (1) bekezdés 11. pont nyitó szövegrésze az 537/2013. (XII. 30.) Korm. rendelet 74. § a) pontja szerint módosított szöveg.
+[^9]: Az 1. § (1) bekezdés 12. pontja a 26/2012. (III. 6.) Korm. rendelet 6. § (2) bekezdése alapján 2012. április 14-én lép hatályba.
+[^10]: Az 1. § (1) bekezdés 14. pontja a 128/2013. (IV. 30.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^11]: Az 1. § (1) bekezdés 14. pont a) pontja az 537/2013. (XII. 30.) Korm. rendelet 74. § b) pontja szerint módosított szöveg.
+[^12]: Az 1. § (1) bekezdés 17. pontját a 379/2012. (XII. 19.) Korm. rendelet 32. §-a iktatta be, szövege a 128/2013. (IV. 30.) Korm. rendelet 21. § b) pontja szerint módosított szöveg.
+[^13]: Az 1. § (1) bekezdés 18. pontját a 379/2012. (XII. 19.) Korm. rendelet 32. §-a ikatta be.
+[^14]: Az 1. § (1) bekezdés 19. pontját a 379/2012. (XII. 19.) Korm. rendelet 32. §-a ikatta be.
+[^15]: Az 1. § (1) bekezdés 20. pontját az 537/2013. (XII. 30.) Korm. rendelet 68. §-a iktatta be.
+[^16]: Az 1. § (1) bekezdés 21. pontját az 537/2013. (XII. 30.) Korm. rendelet 68. §-a iktatta be.
+[^17]: Az 1. § (2) bekezdése az 537/2013. (XII. 30.) Korm. rendelet 74. § c) pontja szerint módosított szöveg.

@@ -6,7 +6,7 @@
 
 (4) Amennyiben a Kincstár jogerős határozatában megállapítja, hogy az igénylő a kérelem hitelintézethez történő benyújtásakor az e rendelet szerinti igénybevételi feltételeknek megfelelt, akkor a hitelintézet e feltételek fennállásának hiányára hivatkozással a kölcsönszerződés igénylővel történő megkötését és a kölcsön folyósítását nem tagadhatja meg. A Kincstár határozata a hitelintézet hitelezési tevékenységét nem korlátozhatja. Az igénylő a hitelintézet bírálati eljárásában felmerülő mulasztásait a Kincstár által lefolytatott eljárás során nem pótolhatja.
 
-(5)[^74] A Kincstár a támogatott személynél az otthonteremtési kamattámogatás igénybevételének jogszerűségét – a 4. § (7)–(10) bekezdése szerinti számla valódiságára és a számlában szereplő gazdasági esemény megtörténtére irányuló ellenőrzés kivételével – hatósági ellenőrzés keretében vizsgálja.
+(5)[^85] A Kincstár a támogatott személynél az otthonteremtési kamattámogatás igénybevételének jogszerűségét – a 4. § (7)–(10) bekezdése szerinti számla valódiságára és a számlában szereplő gazdasági esemény megtörténtére irányuló ellenőrzés kivételével – hatósági ellenőrzés keretében vizsgálja.
 
 (6) Ha a Kincstár a hatósági ellenőrzés során megállapítja, hogy a támogatott személy jogosulatlanul vette igénybe az otthonteremtési kamattámogatást, akkor határozatban intézkedik a támogatás – igénybevétel napjától számított, a Ptk. 301. § (1) bekezdése szerinti késedelmi kamattal növelt összegének – visszatérítése iránt.
 
@@ -14,4 +14,4 @@
 
 (8) Az otthonteremtési kamattámogatás (6) bekezdés szerinti visszatérítése részletekben történő teljesítése kérelemre engedélyezhető, ha a támogatott személy igazolja, hogy a támogatás azonnali és egyösszegű megfizetése családi, jövedelmi, vagyoni és szociális körülményeire is tekintettel aránytalanul súlyos terhelést jelent.
 
-[^74]: A 13. § (5) bekezdése a 379/2012. (XII. 19.) Korm. rendelet 43. § k) pontja szerint módosított szöveg.
+[^85]: A 13. § (5) bekezdése a 379/2012. (XII. 19.) Korm. rendelet 43. § k) pontja szerint módosított szöveg.

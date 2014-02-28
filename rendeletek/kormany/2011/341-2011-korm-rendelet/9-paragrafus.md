@@ -1,4 +1,4 @@
-## 6. [^61] Devizahitel kiváltására felvett kölcsön kamatainak megfizetéséhez igénybe vehető kamattámogatás
+## 6. [^71] Devizahitel kiváltására felvett kölcsön kamatainak megfizetéséhez igénybe vehető kamattámogatás
 
 9. § (1) Otthonteremtési kamattámogatást vehet igénybe a hátralékos adós az alábbi feltételek fennállása esetén:
 
@@ -40,9 +40,9 @@ bc) a mindenkori minimálbér összegét elérő mértékben.
 
 (4) Amennyiben támogatott személy az otthonteremtési kamattámogatással érintett kölcsönből eredő fizetési kötelezettségeinek 60 napot meghaladóan nem tesz eleget, ezt követően részére a kamattámogatás nem nyújtható.
 
-(5)[^62] Az e § szerinti otthonteremtési kamattámogatás esetén a kamattámogatásra való jogosultság megállapítását és mértékének meghatározását a késedelmes deviza jelzáloghitel forinthitelre átváltásával egyidejűleg, vagy ha a forinthitelre történő átváltás e rendelet hatálybalépését megelőzően megtörtént, akkor a forinthitel-tartozás 25 százalékának elengedésére vonatkozó kérelemmel egyidejűleg kell kérni a hitelintézettől.
+(5)[^72] Az e § szerinti otthonteremtési kamattámogatás esetén a kamattámogatásra való jogosultság megállapítását és mértékének meghatározását a késedelmes deviza jelzáloghitel forinthitelre átváltásával egyidejűleg, vagy ha a forinthitelre történő átváltás e rendelet hatálybalépését megelőzően megtörtént, akkor a forinthitel-tartozás 25 százalékának elengedésére vonatkozó kérelemmel egyidejűleg kell kérni a hitelintézettől.
 
-(6)[^63] Az e § szerinti otthonteremtési kamattámogatás esetén
+(6)[^73] Az e § szerinti otthonteremtési kamattámogatás esetén
 
 a) a 3. § (6) bekezdés b) pontja szerinti és
 
@@ -50,6 +50,6 @@ b) a 4. § (1) bekezdés b) pontja szerinti
 
 feltétel nem alkalmazandó.
 
-[^61]: A 6. alcím (a 9. §) a 26/2012. (III. 6.) Korm. rendelet 6. § (2) bekezdése alapján 2012. április 14-én lép hatályba.
-[^62]: A 9. § (5) bekezdését a 26/2012. (III. 6.) Korm. rendelet 3. §-a iktatta be.
-[^63]: A 9. § (6) bekezdését a 26/2012. (III. 6.) Korm. rendelet 3. §-a iktatta be.
+[^71]: A 6. alcím (a 9. §) a 26/2012. (III. 6.) Korm. rendelet 6. § (2) bekezdése alapján 2012. április 14-én lép hatályba.
+[^72]: A 9. § (5) bekezdését a 26/2012. (III. 6.) Korm. rendelet 3. §-a iktatta be.
+[^73]: A 9. § (6) bekezdését a 26/2012. (III. 6.) Korm. rendelet 3. §-a iktatta be.

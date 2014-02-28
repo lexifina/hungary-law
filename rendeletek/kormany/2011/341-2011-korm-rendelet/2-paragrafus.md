@@ -13,3 +13,17 @@ d) a hontalan, ha a harmadik országbeli állampolgárok beutazásáról és tar
 e) menekült vagy oltalmazott, ha a menedékjogról szóló törvényben foglaltak szerint menekült vagy oltalmazott jogállással rendelkezik.
 
 (2) Az otthonteremtési kamattámogatás a támogatott személy által egy alkalommal vehető igénybe.
+
+(3)[^18] Nem támogatott személy hiteladós az otthonteremtési kamattámogatással érintett kölcsönben adóstársként abban az esetben szerepelhet, ha teljes bizonyító erejű magánokiratban
+
+a) nyilatkozik arról, hogy otthonteremtési kamattámogatással érintett kölcsönt e rendelet hatálybalépése óta nem vett igénybe és
+
+b) vállalja, hogy
+
+ba) otthonteremtési kamattámogatással érintett kölcsönt a későbbiekben nem vesz igénybe,
+
+bb) nem támogatott személy hiteladósként további otthonteremtési kamattámogatással érintett kölcsönszerződésben nem szerepel és
+
+bc) az otthonteremtési kamattámogatásos kölcsönnel érintett lakásban lakóhelyet nem létesít.
+
+[^18]: A 2. § (3) bekezdését az 537/2013. (XII. 30.) Korm. rendelet 69. §-a iktatta be.
