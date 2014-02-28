@@ -1,0 +1,1 @@
+## „(6a) Letörölhetetlen jelzéssel a számlára feljegyzésre kerül, hogy azt mely ingatlan vonatkozásában, mikor és mely 3. § (1) bekezdése szerinti otthonteremtési kamattámogatás igénybevétele céljából mutatták be a hitelintézetnél.”

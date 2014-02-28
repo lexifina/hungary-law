@@ -1,0 +1,1 @@
+## „(4a) A (4) bekezdés d) pontja szerinti esetben a fiatal házaspár a kérelem benyújtásával egyidejűleg teljes bizonyító erejű magánokiratba foglalt nyilatkozatban vállalja, hogy a megelőlegezés időtartamából hátralévő időszak alatt születő első gyermeke után a 8. § (1) bekezdése szerinti később született gyermek után járó lakásépítési támogatást nem veszi igénybe.”
