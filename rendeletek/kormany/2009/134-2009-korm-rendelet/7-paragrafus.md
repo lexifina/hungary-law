@@ -4,9 +4,9 @@
 
 a) legkésőbb az utolsó kölcsönrész folyósításáig bemutatja:
 
-aa) új lakás vásárlása esetén az adásvételi szerződésben szereplő vételárról szóló, saját nevére, az általános forgalmi adóról szóló törvény hatálya alá tartozó adóköteles termékértékesítésről, szolgáltatásnyújtásról kiállított, a (4) bekezdésben foglaltaknak is megfelelő számlákat, egyszerűsített számlákat (a továbbiakban: számla),
+aa)[^31] új lakás vásárlása esetén az adásvételi szerződésben szereplő vételárról szóló, saját nevére, az általános forgalmi adóról szóló törvény hatálya alá tartozó termékértékesítésről, szolgáltatásnyújtásról kiállított, az (5) bekezdésben foglaltaknak is megfelelő számlákat, egyszerűsített számlákat (a továbbiakban: számla),
 
-ab)[^23] lakás építése vagy építtetése, korszerűsítése esetén a hitelintézet által elfogadott költségvetésben szereplő teljes költség legalább 70%-áról, illetve, ha az igénybe vett kamattámogatott kölcsön összege ennél magasabb, úgy ennek összegét kitevő, saját nevére, épülő (de használatbavételi engedéllyel vagy a használatbavétel tudomásulvételét igazoló hatósági bizonyítvánnyal nem rendelkező) lakóingatlan tulajdonjogának az építés befejezése előtti megvásárlása esetén a vételár 70%-a erejéig az előző építő (építtető) nevére kiállított számlákat. Ha a lakás felépítése során bontott anyagok is felhasználásra kerülnek, úgy ezeknek az építkezésért felelős műszaki vezető által írásban igazolt értékéig a számlabenyújtási kötelezettség csökkenthető. E csökkentés mértéke nem haladhatja meg a számlával igazolandó építési költségek 20%-át,
+ab)[^32] lakás építése vagy építtetése, korszerűsítése esetén a hitelintézet által elfogadott költségvetésben szereplő teljes költség legalább 70%-áról, illetve, ha az igénybe vett kamattámogatott kölcsön összege ennél magasabb, úgy ennek összegét kitevő, saját nevére, épülő (de használatbavételi engedéllyel vagy a használatbavétel tudomásulvételét igazoló hatósági bizonyítvánnyal nem rendelkező) lakóingatlan tulajdonjogának az építés befejezése előtti megvásárlása esetén a vételár 70%-a erejéig az előző építő (építtető) nevére kiállított számlákat. Ha a lakás felépítése során bontott anyagok is felhasználásra kerülnek, úgy ezeknek az építkezésért felelős műszaki vezető által írásban igazolt értékéig a számlabenyújtási kötelezettség csökkenthető. E csökkentés mértéke nem haladhatja meg a számlával igazolandó építési költségek 20%-át,
 
 b) a támogatott személy és az együttköltöző írásban hozzájárul ahhoz, hogy
 
@@ -14,7 +14,7 @@ ba) természetes személyazonosító adatait, adóazonosító jelét valamint a 
 
 bb) az állami adóhatóság a bizonylatok valódiságát, a bennük foglalt gazdasági esemény megtörténtét és ezekkel összefüggésben a kamattámogatások igénybevételének jogszerűségét, felhasználásának szabályszerűségét a helyszínen (a lakásban is) ellenőrizze, és annak eredményéről a hitelintézetet tájékoztassa, illetve, ha olyan jogszabálysértést is észlel, amellyel kapcsolatos eljárás a Kincstár hatáskörébe tartozik, a Kincstárt hivatalból értesítse.
 
-(2)[^24] Hatósági árverésen vásárolt használatbavételi engedéllyel vagy a használatbavétel tudomásulvételét igazoló hatósági bizonyítvánnyal rendelkező, vagy nem rendelkező lakás esetén a vételárat is tartalmazó árverési jegyzőkönyv szerinti vételárral a számlabenyújtási kötelezettség csökkenthető.
+(2)[^33] Hatósági árverésen vásárolt használatbavételi engedéllyel vagy a használatbavétel tudomásulvételét igazoló hatósági bizonyítvánnyal rendelkező, vagy nem rendelkező lakás esetén a vételárat is tartalmazó árverési jegyzőkönyv szerinti vételárral a számlabenyújtási kötelezettség csökkenthető.
 
 (3) A támogatott kölcsönök igénybevételének feltétele a támogatott személynek a kölcsönszerződésbe foglalt kötelezettségvállalása, hogy a kölcsön folyósítását, illetve az utolsó részfolyósítást követő egy éven belül bemutatja a hitelintézet számára:
 
@@ -28,12 +28,16 @@ b) vásárlás esetén az állami adóhatóság által hozott, a támogatással 
 
 (6) A hitelintézet az eredeti számlákat – letörölhetetlen jelzéssel ellátva – a támogatott személynek visszaadja, másolatban tíz évig, de legalább a támogatott kölcsön megszűnéséig irattárában megőrzi.
 
+(6a)[^34] Letörölhetetlen jelzéssel a számlára feljegyzésre kerül, hogy azt mely ingatlan vonatkozásában, mikor és mely 2. § (1) bekezdése szerinti kamattámogatás igénybevétele céljából mutatták be a hitelintézetnél.
+
 (7) Ha a hitelintézet azt észleli, hogy a számla valódisága vagy a számlában szereplő gazdasági esemény megtörténte kétséges, a tények feltárása érdekében megkeresi az állami adóhatóságot.
 
-(8)[^25] A támogatott személy köteles a költségek igazolásaként bemutatott számlákat az adásvételi szerződés megkötése, illetve a használatbavételi engedély kiadása vagy a használatbavétel tudomásulvétele évének utolsó napjától számított öt évig megőrizni.
+(8)[^35] A támogatott személy köteles a költségek igazolásaként bemutatott számlákat az adásvételi szerződés megkötése, illetve a használatbavételi engedély kiadása vagy a használatbavétel tudomásulvétele évének utolsó napjától számított öt évig megőrizni.
 
 (9) Ha az állami adóhatóság vizsgálata során azt állapítja meg, hogy a kamattámogatás igénybevétele jogosulatlan, vagy a támogatott személy nem a tőle elvárható gondossággal járt el, és ezáltal érdekkörében felmerült ok miatt az igénybevétel szabálytalan, akkor a támogatott személy lakóhelye szerint illetékes állami adóhatóság – jogosulatlanul igénybe vett költségvetési támogatás címén – előírja az igénybe vett kamattámogatás az igénybevétel napjától számított késedelmi pótlékkal növelt összegének visszatérítését.
 
-[^23]: A 7. § (1) bekezdés a) pont ab) alpontja a 128/2013. (IV. 30.) Korm. rendelet 9. § f) pontja szerint módosított szöveg.
-[^24]: A 7. § (2) bekezdése a 128/2013. (IV. 30.) Korm. rendelet 9. § g) pontja szerint módosított szöveg.
-[^25]: A 7. § (8) bekezdése a 128/2013. (IV. 30.) Korm. rendelet 9. § h) pontja szerint módosított szöveg.
+[^31]: A 7. § (1) bekezdés a) pont aa) alpontja az 537/2013. (XII. 30.) Korm. rendelet 51. § f) pontja és 52. §-a szerint módosított szöveg.
+[^32]: A 7. § (1) bekezdés a) pont ab) alpontja a 128/2013. (IV. 30.) Korm. rendelet 9. § f) pontja szerint módosított szöveg.
+[^33]: A 7. § (2) bekezdése a 128/2013. (IV. 30.) Korm. rendelet 9. § g) pontja szerint módosított szöveg.
+[^34]: A 7. § (6a) bekezdését az 537/2013. (XII. 30.) Korm. rendelet 48. §-a iktatta be.
+[^35]: A 7. § (8) bekezdése a 128/2013. (IV. 30.) Korm. rendelet 9. § h) pontja szerint módosított szöveg.

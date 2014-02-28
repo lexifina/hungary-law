@@ -1,6 +1,6 @@
 10. § (1) A kamattámogatott kölcsönök nyújtását, folyósítását és a törlesztés megállapítását, valamint a kamattámogatásnak a központi költségvetéssel való elszámolását a hitelintézetek végzik.
 
-(2) A kamattámogatásra megszerzett jogosultság a kölcsönszerződés megszűnéséig – a zálogtárgyban beálló esetleges változástól függetlenül – a 2. § (11) bekezdése szerinti esetet kivéve változatlan feltételekkel marad fenn.
+(2)[^42] A kamattámogatásra megszerzett jogosultság a kölcsönszerződés megszűnéséig – a 2. § (11) bekezdése szerinti esetet kivéve – változatlan feltételekkel fennmarad, függetlenül attól, hogy a kölcsön fedezetét képező lakás helyett fedezetül másik lakás kerül bevonásra.
 
 (3) Kamattámogatás nem nyújtható a lakás-takarékpénztárakról szóló 1996. évi CXIII. törvény szerint megkötött lakás-előtakarékossági szerződés alapján folyósított lakáskölcsönre.
 
@@ -17,3 +17,5 @@
 (9) A hitelintézet a támogatások folyósításáról és az azokkal való elszámolás rendjéről, valamint a pénzügyi ellenőrzéshez szükséges adatszolgáltatásról a miniszterrel és a Kincstárral szerződést köt.
 
 (10) E rendelet szerint támogatott kölcsönök kamattámogatásának számításánál az osztószám 360 nap.
+
+[^42]: A 10. § (2) bekezdése az 537/2013. (XII. 30.) Korm. rendelet 50. §-ával megállapított szöveg.

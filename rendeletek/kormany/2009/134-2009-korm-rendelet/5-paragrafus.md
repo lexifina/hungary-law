@@ -1,6 +1,6 @@
 5. § (1) A támogatott személyeknek az alábbi feltételeknek együttesen kell megfelelniük:
 
-a) az adósnak, adóstársnak, ezek házastársának, élettársának, bejegyzett élettársának és szülői felügyelete alatt álló kiskorú gyermekeinek, valamint az együttköltöző családtagjainak írásban tett nyilatkozata alapján a 2009. július 1-jét megelőzően hatályos jogszabályok, illetve e rendelet alapján államilag támogatott lakásépítési, -vásárlási, -bővítési, -korszerűsítési célú fennálló kölcsönük (a továbbiakban együtt: államilag támogatott kölcsön) nincs, vagy
+a)[^25] az adósnak, adóstársnak, ezek házastársának, élettársának, bejegyzett élettársának és szülői felügyelete alatt álló kiskorú gyermekeinek, valamint az együttköltöző családtagjainak írásban tett nyilatkozata alapján a 2009. július 1-jét megelőzően hatályos jogszabályok, illetve e rendelet alapján államilag támogatott lakásépítési, -vásárlási, -bővítési, -korszerűsítési, vagy az otthonteremtési kamattámogatásról szóló 341/2011. (XII. 29.) Korm. rendelet alapján lakásépítési vagy -vásárlási célú fennálló kölcsönük (a továbbiakban együtt: államilag támogatott kölcsön) nincs, vagy
 
 b) ha az a) pontban szereplő személyeknek államilag támogatott kölcsönük van,
 
@@ -45,3 +45,5 @@ b) a fiatal támogatott személy többgyerekessé válik az adós, a házastárs
 a) amelyeket a közzététel naptári hónapját követő hónap első napját követően kötöttek meg,
 
 b) amelyek esetében az ellenszolgáltatás a közzététel naptári hónapját követő hónap első napját követően megváltozik.
+
+[^25]: Az 5. § (1) bekezdés a) pontja az 537/2013. (XII. 30.) Korm. rendelet 51. § e) pontja szerint módosított szöveg.
