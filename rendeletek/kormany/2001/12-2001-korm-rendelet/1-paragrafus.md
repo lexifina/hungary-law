@@ -72,7 +72,7 @@ d) a hontalan, ha a harmadik országbeli állampolgárok beutazásáról és tar
 
 16.[^20] miniszter: a 28. §-ban, valamint a 32/C. §-ban foglalt előirányzatok esetében a nem az európai uniós fejlesztési források felhasználásához kapcsolódó fejlesztéspolitikáért felelős miniszter, egyéb esetben a lakásgazdálkodásért és lakáspolitikáért felelős miniszter.
 
-(5)[^21] Az e rendeletben meg nem határozott fogalmakra vonatkozóan az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendeletben meghatározottakat kell figyelembe venni.
+(5)[^21] Az e rendeletben meg nem határozott fogalmakra vonatkozóan a Polgári Törvénykönyvben (a továbbiakban: Ptk.) és az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendeletben meghatározottakat kell figyelembe venni.
 
 (6)[^22] Az 1. § (2) bekezdés a)–h) pontjai szerinti támogatások igénybevételének jogszerűségét a Magyar Államkincstár (a továbbiakban: Kincstár) ellenőrzi. Ez alól kivétel a 19. § szerinti állami adóhatósági ellenőrzés, amelyet az adózás rendjéről szóló törvény rendelkezései alapján az állami adóhatóság végez.
 
@@ -96,5 +96,5 @@ d) a hontalan, ha a harmadik országbeli állampolgárok beutazásáról és tar
 [^18]: Az 1. § (4) bekezdés 14. pontját a 74/2011. (V. 2.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 102/2011. (VI. 29.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.
 [^19]: Az 1. § (4) bekezdés 15. pontját a 74/2011. (V. 2.) Korm. rendelet 1. § (2) bekezdése iktatta be.
 [^20]: Az 1. § (4) bekezdés 16. pontját a 74/2011. (V. 2.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 257/2011. (XII. 6.) Korm. rendelet 1. § (2) bekezdésével megállapított, az 550/2013. (XII. 30.) Korm. rendelet 2. §-a szerint módosított szöveg.
-[^21]: Az 1. § (5) bekezdését a 207/2001. (X. 30.) Korm. rendelet 1. §-a iktatta a szövegbe. E módosító rendelet 12. §-ának (1) bekezdése alapján rendelkezéseit a folyamatban lévő támogatási kérelmekre, valamint kölcsönkérelmekre is alkalmazni kell.
+[^21]: Az 1. § (5) bekezdését a 207/2001. (X. 30.) Korm. rendelet 1. §-a iktatta be, szövege az 537/2013. (XII. 30.) Korm. rendelet 17. § a) pontja szerint módosított szöveg.
 [^22]: Az 1. § (6) bekezdését a 155/2005. (VIII. 11.) Korm. rendelet 1. §-ának (2) bekezdése iktatta be, szövege a 391/2007. (XII. 23.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 32. § (5) bekezdése alapján a rendelkezést a már folyósított támogatások tekintetében is alkalmazni kell.

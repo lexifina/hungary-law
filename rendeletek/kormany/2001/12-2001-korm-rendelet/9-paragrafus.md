@@ -1,8 +1,8 @@
-## 8/A. §[^73] A kedvezmény személyi feltételeire vonatkozó rendelkezéseket a fiatalok otthonteremtési támogatása esetében is alkalmazni kell.
+## 8/A. §[^78]
 
 ## 2. Akadálymentesítési támogatás
 
-9. §[^74] (1) Mozgáskorlátozott személy részére akadálymentes lakás építéséhez vagy vásárlásához, valamint az akadálymentesítés többletköltségeire vissza nem térítendő állami támogatás nyújtható.
+9. §[^79] (1) Mozgáskorlátozott személy részére akadálymentes lakás építéséhez vagy vásárlásához, valamint az akadálymentesítés többletköltségeire vissza nem térítendő állami támogatás nyújtható.
 
 (2) Az akadálymentesítési támogatás
 
@@ -30,13 +30,13 @@ b) ahhoz, hogy az épületet, illetve lakását megfelelően használhassa, töb
 
 (8) A mozgásszervi fogyatékosságot, illetve súlyos mozgáskorlátozottságot a következő módon kell igazolni, a támogatásra irányuló kérelem benyújtásakor:
 
-a)[^75] a 102/2011. (VI. 29.) Korm. rendelet 7. § (3) bekezdés a) pont aa)–ac) alpontja szerinti iratokkal,
+a)[^80] a 102/2011. (VI. 29.) Korm. rendelet 7. § (3) bekezdés a) pont aa)–ac) alpontja szerinti iratokkal,
 
 b) az orvosszakértői szervnek a 141/2000. (VIII. 9.) Korm. rendelet szerinti, a súlyos fogyatékosság minősítését tartalmazó szakvéleményével vagy szakhatósági állásfoglalásával arról, hogy az igénylő mozgásszervi fogyatékos vagy súlyos mozgáskorlátozott.
 
-c)[^76]
+c)[^81]
 
-(8a)[^77] Ha a súlyos mozgáskorlátozottság igazolása céljából szükséges (8) bekezdés szerinti iratok nem állnak rendelkezésre, a súlyos mozgáskorlátozottság 102/2011. (VI. 29.) Korm. rendelet szerinti előzetes vizsgálatát – a súlyos mozgáskorlátozott személy közlekedőképességének minősítését elősegítő, rendelkezésre álló orvosi dokumentáció és egyéb iratok benyújtásával – a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalánál (a továbbiakban: járási hivatal) lehet kezdeményezni. A járási hivatal a kérelem beérkezésétől számított nyolc napon belül az iratok megküldésével megkeresi a rehabilitációs szakigazgatási szervet a közlekedőképesség minősítése érdekében. A közlekedőképesség vizsgálatára egyebekben a 102/2011. (VI. 29.) Korm. rendelet szabályait kell alkalmazni.
+(8a)[^82] Ha a súlyos mozgáskorlátozottság igazolása céljából szükséges (8) bekezdés szerinti iratok nem állnak rendelkezésre, a súlyos mozgáskorlátozottság 102/2011. (VI. 29.) Korm. rendelet szerinti előzetes vizsgálatát – a súlyos mozgáskorlátozott személy közlekedőképességének minősítését elősegítő, rendelkezésre álló orvosi dokumentáció és egyéb iratok benyújtásával – a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalánál (a továbbiakban: járási hivatal) lehet kezdeményezni. A járási hivatal a kérelem beérkezésétől számított nyolc napon belül az iratok megküldésével megkeresi a rehabilitációs szakigazgatási szervet a közlekedőképesség minősítése érdekében. A közlekedőképesség vizsgálatára egyebekben a 102/2011. (VI. 29.) Korm. rendelet szabályait kell alkalmazni.
 
 (9) A támogatási kérelemhez az akadálymentesítési munkák műszaki leírását, valamint azok építési költségét tartalmazó költségvetést mellékelni kell.
 
@@ -66,8 +66,8 @@ k) lakás komfortfokozatának növelése céljából gáz, illetve egyéb, szil�
 
 (11) Az akadálymentesítési munka része a (10) bekezdés szerinti munkákhoz közvetlenül kapcsolódó helyreállítási munka is, az akadálymentesítés közvetlen költségeinek legfeljebb 40%-áig.
 
-[^73]: A 8/A. §-t a 3/2005. (I. 12.) Korm. rendelet 9. §-a iktatta be, e módosító rendelet 20. § (2) bekezdése alapján a rendelkezést a 2005. február 1-jét követően benyújtott támogatási kérelmekre kell alkalmazni.
-[^74]: A 9. § a 74/2011. (V. 2.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^75]: A 9. § (8) bekezdés a) pontja a 102/2011. (VI. 29.) Korm. rendelet 17. § (2) bekezdésével megállapított, a 61/2012. (III. 30.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
-[^76]: A 9. § (8) bekezdés c) pontját a 102/2011. (VI. 29.) Korm. rendelet 17. § (4) bekezdése hatályon kívül helyezte.
-[^77]: A 9. § (8a) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 25. §-ával megállapított szöveg.
+[^78]: A 8/A. §-t a 3/2005. (I. 12.) Korm. rendelet 9. §-a iktatta be, hatályon kívül helyezte az 537/2013. (XII. 30.) Korm. rendelet 18. § b) pontja.
+[^79]: A 9. § a 74/2011. (V. 2.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^80]: A 9. § (8) bekezdés a) pontja a 102/2011. (VI. 29.) Korm. rendelet 17. § (2) bekezdésével megállapított, a 61/2012. (III. 30.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^81]: A 9. § (8) bekezdés c) pontját a 102/2011. (VI. 29.) Korm. rendelet 17. § (4) bekezdése hatályon kívül helyezte.
+[^82]: A 9. § (8a) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 25. §-ával megállapított szöveg.
