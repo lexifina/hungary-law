@@ -1,10 +1,10 @@
 ## 2. A lakásépítési támogatás igénybevételének feltételei
 
-2. § (1) Az e rendeletben meghatározott feltételekkel a központi költségvetésből vissza nem térítendő állami támogatás (a továbbiakban: lakásépítési támogatás) vehető igénybe a Magyarország területén 2010. január 1-jét követően kiadott
+2. § (1)[^6] Az e rendeletben meghatározott feltételekkel a központi költségvetésből vissza nem térítendő állami támogatás (a továbbiakban: lakásépítési támogatás) vehető igénybe a Magyarország területén 2008. július 1-jén vagy azt követően kiadott
 
 a) építési engedéllyel rendelkező új lakás építéséhez, vagy
 
-b)[^5] a kérelem benyújtásának időpontjában használatbavételi engedéllyel vagy a használatbavétel tudomásulvételét igazoló hatósági bizonyítvánnyal rendelkező új lakás vásárlásához,
+b)[^7] a kérelem benyújtásának időpontjában használatbavételi engedéllyel vagy a használatbavétel tudomásulvételét igazoló hatósági bizonyítvánnyal rendelkező új lakás vásárlásához,
 
 ## amennyiben építés esetén az általános forgalmi adó nélkül, a lakóépület teljes nettó alapterületére számított, egy négyzetméterre jutó bekerülési költség vagy vásárlás esetén az általános forgalmi adó és telekár nélkül meghatározott, a lakás teljes nettó alapterületére számított, egy négyzetméterre jutó vételár nem haladja meg a 300 000 Ft-ot, alacsony energiafogyasztású lakás esetében a 350 000 Ft-ot.
 
@@ -40,9 +40,11 @@ b) a (2) bekezdés szerinti személyekből álló fiatal házaspár – a meglé
 
 (6) A lakásépítési támogatás kizárólag a támogatott személy és a (3) bekezdés szerinti gyermeke lakásigényének kielégítése céljából nyújtható.
 
-(7)[^6] Az (1) bekezdés b) pontja szerinti lakásépítési támogatás abban az esetben igényelhető, ha az eladó az igénylőnek nem közeli hozzátartozója vagy élettársa. Ha az eladó jogi személy, jogi személyiség nélküli társaság vagy egyéni vállalkozó az igénylő nem lehet vele tulajdonosi kapcsolatban álló magánszemély.
+(7)[^8] Az (1) bekezdés b) pontja szerinti lakásépítési támogatás abban az esetben igényelhető, ha az eladó az igénylőnek nem közeli hozzátartozója vagy élettársa. Ha az eladó jogi személy, jogi személyiség nélküli társaság vagy egyéni vállalkozó az igénylő nem lehet vele tulajdonosi kapcsolatban álló magánszemély.
 
-(8) A lakásépítési támogatással épített, vásárolt lakásban az igénylőknek vagy támogatott személyeknek legalább 50%-os tulajdoni hányaddal kell rendelkezniük. Házaspár és élettársak esetén a lakásban mindkét félnek az ingatlan-nyilvántartásba bejegyzett tulajdonjoggal kell rendelkeznie. A lakásban az igénylőn vagy támogatott személyen kívül csak az általa eltartott gyermek szerezhet tulajdont.
+(8)[^9] A lakásépítési támogatással érintett lakásban az igénylőknek vagy támogatott személyeknek legalább 50%-os tulajdoni hányaddal kell rendelkezniük. Házaspár és élettársak esetén a lakásban mindkét félnek az ingatlan-nyilvántartásba bejegyzett tulajdonjoggal kell rendelkeznie. A lakásban az igénylőn vagy támogatott személyen kívül csak az általa eltartott gyermek szerezhet tulajdont.
 
-[^5]: A 2. § (1) bekezdés b) pontja a 379/2012. (XII. 19.) Korm. rendelet 30. § b) pontja, a 128/2013. (IV. 30.) Korm. rendelet 14. § 2. pontja szerint módosított szöveg.
-[^6]: A 2. § (7) bekezdését a 379/2012. (XII. 19.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^6]: A 2. § (1) bekezdés nyitó szövegrésze az 537/2013. (XII. 30.) Korm. rendelet 66. § b) pontja szerint módosított szöveg.
+[^7]: A 2. § (1) bekezdés b) pontja a 379/2012. (XII. 19.) Korm. rendelet 30. § b) pontja, a 128/2013. (IV. 30.) Korm. rendelet 14. § 2. pontja szerint módosított szöveg.
+[^8]: A 2. § (7) bekezdését a 379/2012. (XII. 19.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^9]: A 2. § (8) bekezdése az 537/2013. (XII. 30.) Korm. rendelet 66. § c) pontja szerint módosított szöveg.
