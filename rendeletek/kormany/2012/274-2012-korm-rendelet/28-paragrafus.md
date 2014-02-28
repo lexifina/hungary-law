@@ -1,4 +1,4 @@
-28. § (1) A rendészeti alap- és szakvizsgára kötelezett felkészítési díját, első alkalommal a vizsgadíját, a felmerülő szállás- és utazási költségét az őt foglalkoztató szerv biztosítja.
+28. § (1)[^2] A rendészeti alapvizsgára kötelezett felkészítési díját, első alkalommal a vizsgadíját, a felmerülő szállás- és utazási költségét, valamint a rendészeti szakvizsgára kötelezett felmerülő szállás- és utazási költségét az őt foglalkoztató szerv biztosítja. A rendészeti szakvizsgára kötelezett felkészítési díját, első alkalommal a vizsgadíját a belügyminiszter irányítása alá tartozó szervek hivatásos állományú tagjainak továbbképzési és vezetőképzési rendszeréről, valamint a rendészeti utánpótlási és vezetői adatbankról szóló 2/2013. (I. 30.) BM rendelet hatálya alá tartozó vizsgázó esetében a foglalkoztató a továbbképzési hozzájárulás keretében, a továbbképzési hozzájárulásra vonatkozó szabályok szerint fizeti meg a központi szerv részére.
 
 (2) Önkéntes jelentkezés esetén a felkészítés és a vizsga díja, valamint a felmerülő szállás- és utazási költség az önként jelentkezőt terheli. A szakvizsga díjának legfeljebb 50%-át – az önként jelentkező kérelmére – a munkáltató saját költségvetése terhére átvállalhatja.
 
@@ -11,3 +11,5 @@
 (6) Az (5) bekezdésben foglaltaktól eltérően az alap- és szakvizsgára kötelezett halasztási díja a munkáltatót terheli, ha a halasztásra a munkáltató érdekkörében felmerült okból került sor. Amennyiben a halasztásra az alap-, vagy szakvizsgára kötelezett érdekkörében felmerült, de neki fel nem róható okból került sor, úgy a halasztás díját a munkáltató saját költségvetése terhére átvállalhatja.
 
 (7) Az (5) bekezdésben meghatározott eljárási díj megfizetése nem mentesít az újabb felkészítés vagy vizsga díjának megfizetése alól. Az ismételt felkészítés vagy vizsga díjának megfizetésére a munkáltató köteles, ha az alap- vagy szakvizsgára kötelezett a munkáltató érdekkörében felmerült okból halasztott.
+
+[^2]: A 28. § (1) bekezdése a 43/2014. (II. 25.) Korm. rendelet 5. §-ával megállapított szöveg.
