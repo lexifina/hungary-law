@@ -1,4 +1,4 @@
-## 29–31. §[^1]
+## 30–31. §[^3]
 
 1. melléklet a 75/2013. (XII. 18.) BM rendelethez
 
@@ -100,4 +100,4 @@ A foglalkoztatási helye szerinti közvetlen vezető záradéka:
 
 vezető
 
-[^1]: A 29–31. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 30–31. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
