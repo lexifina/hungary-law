@@ -10,4 +10,8 @@ a) meghatározza a hivatásos állományra vonatkozó képzés és továbbképz�
 
 b) kidolgozza az ország katasztrófaveszélyeztetettségére, a katasztrófák hatásai elleni védekezésre vonatkozó nemzeti stratégiát, valamint a megelőzés és felkészülés éves nemzeti tervét,
 
-c) kapcsolatot tart a kiemelt informatikai és távközlési szolgáltatókkal, a kritikus infrastruktúra elemek üzemeltetőivel, valamint az országos médiaszolgáltatókkal.
+c) kapcsolatot tart a kiemelt informatikai és távközlési szolgáltatókkal, a kritikus infrastruktúra elemek üzemeltetőivel, valamint az országos médiaszolgáltatókkal,
+
+d)[^3] meghatározza a hivatásos katasztrófavédelmi szerv helyi szerve vezetője 25. § (4) bekezdése szerinti véleményének kialakítása során irányadó szempontokat.
+
+[^3]: A 12. § d) pontját a 11/2014. (II. 21.) BM rendelet 1. §-a iktatta be.

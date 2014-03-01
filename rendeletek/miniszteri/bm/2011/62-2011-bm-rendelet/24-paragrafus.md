@@ -8,7 +8,7 @@ c) egészségügyi egység,
 
 d) logisztikai egység,
 
-e) műszaki egység.
+e)[^4] műszaki és kárfelszámoló egység.
 
 (2) A kialakult kockázatok és veszélyeztető hatások kezelésére további egységek is létrehozhatók.
 
@@ -30,9 +30,9 @@ f) a katasztrófaelhárítási feladatok során igénybe vett kormányzati cél�
 
 a) a veszélyeztetett területről a lakosság kitelepítése, kimenekítése, valamint
 
-b) a kitelepítéssel, befogadással összefüggő feladatok ellátásának megszervezése és végrehajtása.
+b)[^5] a kitelepítéssel, befogadással összefüggő feladatok ellátásának megszervezése és végrehajtása, az ennek kapcsán felmerülő egészségügyi feladatok támogatása.
 
-(5) Az egészségügyi egység feladatai különösen:
+(5)[^6] Az egészségügyi egység feladatai különösen
 
 a) a járványos növény- és állatbetegségek megelőzésében, terjedésének megakadályozásában, felszámolásában való közreműködés,
 
@@ -40,11 +40,13 @@ b) a halálos áldozatokkal kapcsolatos halaszthatatlan feladatok végrehajtás�
 
 c) a járványos megbetegedések, fertőzések által veszélyeztetett lakosság védelme érdekében szükséges megelőző intézkedések és a fertőtlenítő munkák elvégzése,
 
-d) a sérült személyek felkutatása, elsősegélynyújtásban való részesítése, a sérültek gyűjtőhelyre, kórházba való szállítása,
+d) a sérült személyek felkutatásában, a sérültek gyűjtőhelyre, kórházba való szállításában, illetve a sérültek mozgatásában való közreműködés,
 
-e) a polgári védelmi szervezetek egészségügyi biztosítása,
+e) a polgári védelmi szervezetek egészségügyi biztosításában való közreműködés,
 
-f) a vegyi és radiológiai mentesítési feladatatok ellátása.
+f) a vegyi, biológiai és radiológiai mentesítési feladatatok ellátása,
+
+g) a sérült személyek elsősegélynyújtásban való részesítése, az elsősegélynyújtásban való közreműködés.
 
 (6) A logisztikai egység feladatai különösen:
 
@@ -60,13 +62,13 @@ e) a fővárosi metró élet- és vagyonvédelmi létesítményként alkalmazhat
 
 f) szükséggyógyintézetek logisztikai támogatása.
 
-(7) A műszaki egység feladatai különösen:
+(7)[^7] A műszaki és kárfelszámoló egység feladatai különösen:
 
 a) a rendkívüli időjárási viszonyok következményeinek felszámolása,
 
 b) a romosodott épületekben lévő személyek felkutatása, mentése,
 
-c) közreműködés az épületekben, kritikus infrastruktúrában keletkezett és egyéb műszaki károk felmérése, csökkentése, felszámolása, szükség szerinti helyreállítása,
+c) közreműködés az épületekben, az üzemeltető szakmai útmutatása alapján a létfontosságú rendszerekben és létesítményekben keletkezett és egyéb műszaki károk felmérésének csökkentésében, felszámolásában, szükség szerinti helyreállításában,
 
 d) közreműködés a lakosság és az anyagi javak megelőző műszaki védelmének végrehajtásában,
 
@@ -74,4 +76,13 @@ e) közreműködés a kulturális örökség védett elemei védelmében,
 
 f) közreműködés védelmi célú építmények létesítésében, építésében,
 
-g) közreműködés a vizek kártételei elleni védekezésben.
+g) közreműködés a vizek kártételei elleni védekezésben,
+
+h) részvétel az üzemeltető szakmai útmutatása alapján a közműkárok és szolgáltatás kiesések felmérésében, valamint a szükség szerinti helyreállításában,
+
+i) közreműködés a szükséggyógyintézetek, illetve járványügyi zárlat műszaki telepítésében, működtetésében, fenntartásában.
+
+[^4]: A 24. § (1) bekezdés e) pontja a 11/2014. (II. 21.) BM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^5]: A 24. § (4) bekezdés b) pontja a 11/2014. (II. 21.) BM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^6]: A 24. § (5) bekezdése a 11/2014. (II. 21.) BM rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^7]: A 24. § (7) bekezdése a 11/2014. (II. 21.) BM rendelet 2. § (4) bekezdésével megállapított szöveg.
