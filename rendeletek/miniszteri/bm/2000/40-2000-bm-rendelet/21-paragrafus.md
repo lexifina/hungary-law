@@ -6,11 +6,11 @@
 
 (2) E rendelet nem érinti a hatálybalépése előtt megkötött megállapodásokban foglaltakat.
 
-(3)[^31]
+(3)[^31] A Bűnügyi Szakértői és Kutatóintézetnél 2014. március 1. napján igazságügyi alkalmazotti szolgálati jogviszonyban továbbfoglalkoztatott, 2014. február 28. napján szállóférőhely használati jogosultsággal rendelkező vagy bérleti, albérleti hozzájárulásban részesülő közalkalmazottak szállóférőhely használatai jogosultságát, bérleti, albérleti hozzájárulását a foglalkoztatási jogviszony jellegének megváltozása nem érinti.
 
 (4)[^32] A Nemzeti Közszolgálati Egyetem azon dolgozóit – ideértve a kirendelt és vezényelt állományt is –, akik 2011. december 31-én a Rendőrtiszti Főiskolával szolgálati jogviszonyban álltak, jogviszonyuk megszűnéséig e rendelet alkalmazásában belügyi szolgálati jogviszonyban állónak kell tekinteni.
 
 [^29]: A 20. §-t a 31/2003. (VII. 18.) BM rendelet 6. §-a iktatta a szövegbe, e módosító rendelet 10. §-ának (3) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
 [^30]: A 14. § eredeti számozását a 31/2003. (VII. 18.) BM rendelet 6. §-a 21. §-ra változtatta.
-[^31]: A 21. § (3) bekezdését a 42/2012. (VIII. 23.) BM rendelet 8. § c) pontja hatályon kívül helyezte.
+[^31]: A 21. § (3) bekezdését a 42/2012. (VIII. 23.) BM rendelet 8. § c) pontja hatályon kívül helyezte, újonnan a 16/2014. (II. 28.) BM rendelet 9. §-a iktatta be.
 [^32]: A 21. § (4) bekezdését a 42/2012. (VIII. 23.) BM rendelet 7. §-a iktatta be, szövege a 81/2012. (XII. 28.) BM rendelet 11. §-a szerint módosított szöveg.
