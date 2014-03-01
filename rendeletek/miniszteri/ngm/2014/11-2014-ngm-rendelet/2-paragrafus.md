@@ -1,0 +1,3 @@
+## 1. § A nyugtakibocsátásra szolgáló pénztárgépek üzemeltetésének, szervizelésének egyes, az adóügyi ellenőrző egységgel rendelkező pénztárgépekre való átállást elősegítő szabályokról szóló 50/2013. (XI. 15.) NGM rendelet (a továbbiakban: R.) a következő 9/B. §-sal egészül ki:
+
+## „9/B. § A 9/A. § szerinti adatszolgáltatási kötelezettség alól mentesülnek azok a Rendelet 1. § (1) bekezdése alapján pénztárgéphasználatra kötelezett adóalanyok, akik vagy amelyek az Áfa tv. 166. §-a szerinti nyugtakibocsátási kötelezettségüknek az Áfa tv. 166. § (2) bekezdésében foglaltak szerint 2013. szeptember 1-jét megelőzően kizárólag számla kibocsátásával tettek eleget.”
