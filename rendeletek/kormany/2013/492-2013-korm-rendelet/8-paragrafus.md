@@ -1,5 +1,5 @@
-## 7. § Az informatikai rendszerbe feltöltött iratokat 2014. február 28-ig egy eredeti példányban papír alapon is meg kell küldeni a címzettnek.
+## 7. §[^4]
 
-8. §[^3]
+8. § Hatályát veszti a 7. §.
 
-[^3]: A 8. § a 6. § (2) bekezdése alapján 2014. március 1-jén lép hatályba.
+[^4]: A 7. §-t a 8. § hatályon kívül helyezte.
