@@ -1,0 +1,3 @@
+1. § (1) E rendelet hatálya – a (2) bekezdésben meghatározott kivétellel – a kéményseprő-ipari közszolgáltatásról szóló 2012. évi XC. törvény 9. § (5) és (6) bekezdésében meghatározott kötelezettség teljesítése céljából alkalmazott szén-monoxid érzékelő berendezésre (a továbbiakban: berendezés) vonatkozó funkcionális követelményekre terjed ki.
+
+(2) E rendelet hatálya nem érinti az elektromágneses összeférhetőségről szóló 62/2006. (VIII. 30.) GKM rendeletnek, és az egyes villamossági termékek biztonsági követelményeiről és az azoknak való megfelelőség értékeléséről szóló 79/1997. (XII. 31.) IKIM rendelet követelményeinek való megfelelést.

@@ -1,0 +1,1 @@
+A kéményseprő-ipari közszolgáltatásról szóló 2012. évi XC. törvény 13. § (2) bekezdés m) pontjában kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 37. § t) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
