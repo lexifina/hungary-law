@@ -1,3 +1,3 @@
-6. melléklet a 7/2014. (I. 29.) EMMI rendelethez[^19]
+6. melléklet a 7/2014. (I. 29.) EMMI rendelethez[^15]
 
-[^19]: A 6. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 6. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

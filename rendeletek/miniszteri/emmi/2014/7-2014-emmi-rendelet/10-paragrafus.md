@@ -1,11 +1,10 @@
 ## 10. § Hatályát veszti az R. 3. számú melléklet
 
-a)[^11]
+a)[^9]
 
-b)[^12]
+b) EÜ90 1/d. pontja,
 
-c)[^13]
+c)[^10]
 
-[^11]: A 10. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^12]: A 10. § b) pontja a 13. § (3) bekezdése alapján 2014. március 1-jén lép hatályba.
-[^13]: A 10. § c) pontja a 13. § (4) bekezdése alapján 2014. május 1-jén lép hatályba.
+[^9]: A 10. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 10. § c) pontja a 13. § (4) bekezdése alapján 2014. május 1-jén lép hatályba.
