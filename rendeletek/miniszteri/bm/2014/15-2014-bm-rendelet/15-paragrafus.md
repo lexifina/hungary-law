@@ -1,0 +1,1 @@
+## 14. § Akinek az időszakos egészségi alkalmassági vizsgálatát a 2014. évre vonatkozóan – e rendelet hatályba lépése előtt elvégezték – az annak eredményeként megállapított minősítését 2014. évben az alapellátó orvos az igazságügyi alkalmazotti állományba történő kinevezés előtti alkalmassági vizsgálat során figyelembe veszi.

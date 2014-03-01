@@ -1,0 +1,1 @@
+## 1. § E rendelet hatálya az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény (a továbbiakban: Iasz.) 1. § (1) bekezdés d) pontjában meghatározott igazságügyi alkalmazottakra (a továbbiakban: igazságügyi alkalmazott) terjed ki az egészségi követelmények meghatározása és az alkalmasság elbírálása tekintetében.
