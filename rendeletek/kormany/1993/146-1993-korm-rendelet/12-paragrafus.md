@@ -24,15 +24,17 @@ i)[^45] dönt a nála előterjesztett kérelmek ügyében az értesítési cím 
 
 j)[^46] az állampolgársági ügyekben eljáró szerv értesítése alapján nyilvántartásba veszi a Magyarország területén élő, az Nytv. 4. § (2c) bekezdése szerinti magyar állampolgárok személyi- és lakcímadatait;
 
-k)[^47] a hazai anyakönyvezést végző hatóság értesítése alapján nyilvántartásba veszi a Magyarország területén élő, az Nytv. 4. § (2d) bekezdése szerinti magyar állampolgárok személyi- és lakcímadatait.
+k)[^47] a hazai anyakönyvezést végző hatóság értesítése alapján nyilvántartásba veszi a Magyarország területén élő, az Nytv. 4. § (2d) bekezdése szerinti magyar állampolgárok személyi- és lakcímadatait;
 
-(2)[^48] A központi szerv működteti a nyilvántartás központi rendszerét, továbbá közreműködik a nyilvántartás informatikai és rendszertechnikai szabványainak kialakításában, minősíti a nyilvántartást kezelő szoftvereket, engedélyezi használatukat, ellenőrzi a szabványok, technikai előírások érvényesülését.
+l)[^48] dönt a külföldön élő magyar állampolgárok külföldi lakóhely változásának nyilvántartásba vételéről.
 
-(3)[^49] A központi szerv gondoskodik a törvényben előírt feladatok végrehajtásához szükséges rendszertechnikai fejlesztések végrehajtásáról, ezen belül olyan rendszerek kidolgozásáról és az illetékes szervekhez történő eljuttatásáról, amelyek lehetővé teszik az adatállomány számítástechnikai módszerrel történő karbantartását.
+(2)[^49] A központi szerv működteti a nyilvántartás központi rendszerét, továbbá közreműködik a nyilvántartás informatikai és rendszertechnikai szabványainak kialakításában, minősíti a nyilvántartást kezelő szoftvereket, engedélyezi használatukat, ellenőrzi a szabványok, technikai előírások érvényesülését.
 
-(4)[^50] A központi szerv a területszervezési döntés kihirdetését követően gondoskodik a közigazgatási változásoknak a nyilvántartáson történő átvezetéséről.
+(3)[^50] A központi szerv gondoskodik a törvényben előírt feladatok végrehajtásához szükséges rendszertechnikai fejlesztések végrehajtásáról, ezen belül olyan rendszerek kidolgozásáról és az illetékes szervekhez történő eljuttatásáról, amelyek lehetővé teszik az adatállomány számítástechnikai módszerrel történő karbantartását.
 
-(5)[^51] A fővárosi és megyei kormányhivatalnak másodfokú eljárása során hozott elsőfokú végzése elleni fellebbezés elbírálására a központi szerv jogosult.
+(4)[^51] A központi szerv a területszervezési döntés kihirdetését követően gondoskodik a közigazgatási változásoknak a nyilvántartáson történő átvezetéséről.
+
+(5)[^52] A fővárosi és megyei kormányhivatalnak másodfokú eljárása során hozott elsőfokú végzése elleni fellebbezés elbírálására a központi szerv jogosult.
 
 [^38]: Az R. 12. §-a előtti alcím a 276/2006. (XII. 23.) Korm. rendelet 18. § (2) bekezdésének b) pontja szerint módosított szöveg.
 [^39]: Az R. 12. § (1) bekezdése a 230/2000. (XII. 23.) Korm. rendelet 8. §-ával megállapított és a 276/2006. (XII. 23.) Korm. rendelet 18. § (2) bekezdésének b) pontja szerint módosított szöveg.
@@ -44,7 +46,8 @@ k)[^47] a hazai anyakönyvezést végző hatóság értesítése alapján nyilv�
 [^45]: Az R. 12. § (1) bekezdés i) pontját a 417/2012. (XII. 29.) Korm. rendelet 17. §-a iktatta be.
 [^46]: Az R. 12. § (1) bekezdés j) pontját a 417/2012. (XII. 29.) Korm. rendelet 17. §-a iktatta be.
 [^47]: Az R. 12. § (1) bekezdés k) pontját a 417/2012. (XII. 29.) Korm. rendelet 17. §-a iktatta be.
-[^48]: Az 12. § (2) bekezdése a 230/2000. (XII. 23.) Korm. rendelet 8. §-ával megállapított és a 276/2006. (XII. 23.) Korm. rendelet 18. § (2) bekezdésének b) pontja szerint módosított szöveg.
-[^49]: Az R. 12. §-ának (3) bekezdése a 9/2004. (I. 31.) Korm. rendelet 2. §-ával megállapított és a 276/2006. (XII. 23.) Korm. rendelet 18. § (2) bekezdésének b) pontja szerint módosított szöveg.
-[^50]: Az R. 12. §-ának (4) bekezdése a 13/1999. (II. 1.) Korm. rendelet 34. §-ának (1) bekezdése és a 276/2006. (XII. 23.) Korm. rendelet 18. § (2) bekezdésének b) pontja szerint módosított szöveg.
-[^51]: Az R. 12. § (5) bekezdését újonnan a 282/2011. (XII. 21.) Korm. rendelet 1. §-a iktatta be, szövege a 417/2012. (XII. 29.) Korm. rendelet 40. § k) pontja szerint módosított szöveg.
+[^48]: A 12. § (1) bekezdés l) pontját az 515/2013. (XII. 30.) Korm. rendelet 16. § (1) bekezdése iktatta be.
+[^49]: Az 12. § (2) bekezdése a 230/2000. (XII. 23.) Korm. rendelet 8. §-ával megállapított és a 276/2006. (XII. 23.) Korm. rendelet 18. § (2) bekezdésének b) pontja szerint módosított szöveg.
+[^50]: Az R. 12. §-ának (3) bekezdése a 9/2004. (I. 31.) Korm. rendelet 2. §-ával megállapított és a 276/2006. (XII. 23.) Korm. rendelet 18. § (2) bekezdésének b) pontja szerint módosított szöveg.
+[^51]: Az R. 12. §-ának (4) bekezdése a 13/1999. (II. 1.) Korm. rendelet 34. §-ának (1) bekezdése és a 276/2006. (XII. 23.) Korm. rendelet 18. § (2) bekezdésének b) pontja szerint módosított szöveg.
+[^52]: Az R. 12. § (5) bekezdését újonnan a 282/2011. (XII. 21.) Korm. rendelet 1. §-a iktatta be, szövege a 417/2012. (XII. 29.) Korm. rendelet 40. § k) pontja szerint módosított szöveg.
