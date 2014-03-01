@@ -31,3 +31,15 @@ a) természetes személyazonosító adatait,
 b) értesítési címét, valamint
 
 c) a bejelentés időpontját.
+
+(4) A külföldön élő magyar állampolgár külföldi lakóhely változásának bejelentése során a következő adatokat közli a központi nyilvántartó szervvel:
+
+a) természetes személyazonosító adatait,
+
+b) személyi azonosítóját,
+
+c) magyar állampolgárságát igazoló okiratának számát vagy magyar állampolgárságát igazoló okmányának számát,
+
+d) új külföldi lakóhelyét, valamint
+
+e) a bejelentés időpontját.
