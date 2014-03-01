@@ -42,7 +42,7 @@ e) a földgáztermelő
 
 (10) A részleges szigetüzem esetében az összevont kiadási pontra a szállítóvezetékről igénybe vett kiadási kapacitás után szállítási kapacitás díjat és az allokált mennyiség termeléssel arányosan csökkentett mértéke után a szállítási forgalmi díjat, valamint a teljes allokált mennyiségre vonatkozóan a szagosítási díjat meg kell fizetni a szállítási rendszerüzemeltető részére.
 
-(11)[^31] A 2. § (1) bekezdés a) pont aa) alpont aaj) alpontjában lévő kiadási pontra vonatkozó szállítási kapacitási díj a következő árszabályozási ciklus kezdetéig a 2. § (1) bekezdés a) pont aa) alpont aaa) alpontjában meghatározott kiadási pontra vonatkozó eszköz- és költség-felülvizsgálat, valamint árkorrekció figyelembevételével kerül megállapításra.
+(11)[^30] A 2. § (1) bekezdés a) pont aa) alpont aaj) alpontjában lévő kiadási pontra vonatkozó szállítási kapacitási díj a következő árszabályozási ciklus kezdetéig a 2. § (1) bekezdés a) pont aa) alpont aaa) alpontjában meghatározott kiadási pontra vonatkozó eszköz- és költség-felülvizsgálat, valamint árkorrekció figyelembevételével kerül megállapításra.
 
 (12) A 2. § (1) bekezdés a) pont aa) alpont aak) és aal) alpontja szerinti szállítóvezeték tekintetében rendszerhasználati díjakat kizárólag a vezeték üzembe helyezésének időpontjára kell megállapítani.
 
@@ -50,4 +50,4 @@ e) a földgáztermelő
 
 (14) Az R. 3/A. § (1) bekezdése szerinti visszatérítés mértékét a 3. melléklet 2. pontja, az R. 3/A. § (2) bekezdése szerinti táblázatot a 3. melléklet 3. pontja tartalmazza.
 
-[^31]: A 9. § (11) bekezdése a 6/2013. (XII. 16.) MEKH rendelet 25. § e) pontja szerint módosított szöveg.
+[^30]: A 9. § (11) bekezdése a 6/2013. (XII. 16.) MEKH rendelet 25. § e) pontja szerint módosított szöveg.

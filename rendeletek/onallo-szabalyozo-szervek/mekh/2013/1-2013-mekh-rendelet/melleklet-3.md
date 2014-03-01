@@ -224,6 +224,6 @@
 
 ## K: a rendszerhasználó kitárolási kapacitás lekötése (MJ/nap)
 
-3. melléklet az 1/2013. (VII. 11.) MEKH rendelethez[^131]
+3. melléklet az 1/2013. (VII. 11.) MEKH rendelethez[^130]
 
-[^131]: A 3. melléklet az 5/2013. (X. 16.) MEKH rendelet 4. §-a szerint módosított szöveg.
+[^130]: A 3. melléklet az 5/2013. (X. 16.) MEKH rendelet 4. §-a szerint módosított szöveg.

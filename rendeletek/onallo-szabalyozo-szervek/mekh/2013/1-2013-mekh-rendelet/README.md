@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-1-20-5Z
 | 2013-07-26 | 2013-1-20-5Z.1 | 1/2013. (VII. 11.) MEKH rendelet |
 | 2013-11-01 | 2013-1-20-5Z.2 | 5/2013. (X. 16.) MEKH rendelet |
 | 2014-01-01 | 2013-1-20-5Z.3 | 6/2013. (XII. 16.) MEKH rendelet |
+| 2014-03-01 | 2013-1-20-5Z.4 | 6/2013. (XII. 16.) MEKH rendelet |

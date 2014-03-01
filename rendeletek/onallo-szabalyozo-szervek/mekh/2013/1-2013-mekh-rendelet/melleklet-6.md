@@ -80,6 +80,6 @@
 
 ## „
 
-6. melléklet az 1/2013. (VII. 11.) MEKH rendelethez[^133]
+6. melléklet az 1/2013. (VII. 11.) MEKH rendelethez[^132]
 
-[^133]: A 6. melléklet a 6/2013. (XII. 16.) MEKH rendelet 26. § g) pontja szerint módosított szöveg.
+[^132]: A 6. melléklet a 6/2013. (XII. 16.) MEKH rendelet 26. § g) pontja szerint módosított szöveg.

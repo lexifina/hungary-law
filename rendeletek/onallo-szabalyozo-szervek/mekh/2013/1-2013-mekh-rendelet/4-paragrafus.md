@@ -18,10 +18,9 @@ b) a rendszerhasználóként eljáró felhasználók
 
 (6) A (4)–(5) bekezdésben foglaltaktól eltérően átminősített párnagáz külön jogszabály szerinti egyetemes szolgáltatási célra történő megvásárlása és tárolása esetén az egyetemes szolgáltatásra jogosultak ellátására tekintettel megállapított kapacitásdíjat kell megfizetni.
 
-(7)[^29]
+(7) Ha olyan kereskedelmi engedélyes köt le egyetemes szolgáltatásra jogosult felhasználók ellátásának érdekében tárolói kapacitást, amely a Hivatal határozatának kiadásakor nem látott el egyetemes szolgáltatásra jogosult felhasználót, vagy nem rendelkezett földgáz kereskedelmi engedéllyel, a földgáz tárolói és a kereskedelmi engedélyesnek közösen kell kérelmet benyújtaniuk az (1) bekezdés szerinti mérték Hivatal által történő megállapítására. A felek kérelmükben kötelesek megjelölni, hogy mely időponttól kérik a tárolói kapacitás-lekötés mértékének megállapítását, amely nem lehet korábbi, mint a kérelem benyújtásának napja. A kérelmezőknek a (2) bekezdés szerinti adatokat kérelmük mellékleteként be kell nyújtaniuk a Hivatalhoz.
 
 (8) Amennyiben a (3) bekezdés szerinti mérték (tárgyidőszaki mérték) eltér a megelőző időszakra megállapított mértéktől, úgy a megelőző időszak április 1–30. napjaira vonatkozó tárolói kapacitás díjat a tárgyidőszaki mérték szerint korrigálni kell. A korrekció miatti elszámolást a földgáz tárolói engedélyeseknek legkésőbb június 15-ig kell megtenniük.
 
 [^27]: A 3/C. §-t a 6/2013. (XII. 16.) MEKH rendelet 3. §-a iktatta be.
 [^28]: A 4. § (1) bekezdése a 6/2013. (XII. 16.) MEKH rendelet 25. § d) pontja szerint módosított szöveg.
-[^29]: A 4. § (7) bekezdése az 51. § (2) bekezdése alapján 2014. március 1-jén lép hatályba.
