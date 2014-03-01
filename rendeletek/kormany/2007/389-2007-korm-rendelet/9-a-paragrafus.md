@@ -20,7 +20,7 @@ h) aki nem csatlakozik a VET 10. § (4) bekezdésével összhangban az átvétel
 
 i) aki 6 hónapon keresztül nem ad a Befogadónak a jogszabályi előírásoknak megfelelően menetrendet,
 
-j)[^77]
+j)[^77] aki megújuló energiaforrásból termel villamos energiát és nem rendelkezik erőműegységére a megújuló energiaforrásból és a nagy hatásfokú kapcsolt energiatermelésből nyert villamos energia származásának igazolásáról szóló kormányrendelet szerinti érvényes minősítéssel,
 
 k) akinek 60 napnál régebben lejárt esedékességű, a székhely vagy a termelő tevékenység végzésének telephelye szerinti önkormányzati adóhatóság hatáskörébe tartozó köztartozása van, kivéve, ha az adóhatóság számára fizetési halasztást vagy részletfizetést engedélyezett.
 
@@ -42,7 +42,7 @@ b) szerepel a köztartozásmentes adózói adatbázisban.
 [^74]: A 9/A. §-t a 287/2008. (XI. 28.) Korm. rendelet 8. §-a iktatta be, szövege a 163/2009. (VIII. 6.) Korm. rendelet 7. §-ával megállapított szöveg.
 [^75]: A 9/A. § (1) bekezdés c) pontja a 182/2009. (IX. 10.) Korm. rendelet 612. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^76]: A 9/A. § (1) bekezdés g) pontja a 166/2011. (VIII. 24.) Korm. rendelet 3. § 20. pontja szerint módosított szöveg.
-[^77]: A 9/A. § (1) bekezdés j) pontját a 270/2010. (XII. 8.) Korm. rendelet 7. § (2) bekezdése hatályon kívül helyezte.
+[^77]: A 9/A. § (1) bekezdés j) pontját a 270/2010. (XII. 8.) Korm. rendelet 7. § (2) bekezdése hatályon kívül helyezte, újonnan a 309/2013. (VIII. 16.) Korm. rendelet 17. § (4) bekezdése iktatta be.
 [^78]: A 9/A. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 613. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^79]: A 9/A. § (4) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 613. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^80]: A 9/A. § (5) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 613. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
