@@ -136,7 +136,7 @@ ie) az egészségügyi szakmai továbbképzés részletes szabályait és
 
 if) az egészségügyi szakirányú szakmai továbbképzés részletes szabályait
 
-j)
+j) az egészségügyi szolgáltató által végezhető rehabilitációs ellátási programokat
 
 k) az orvostechnikai eszközökkel és az in vitro diagnosztikai orvostechnikai eszközökkel összefüggésben
 
@@ -259,7 +259,3 @@ ce) az egységes ágazati humánerőforrás-monitoringrendszert működtető sze
 cf) az egészségügyi szakértők tevékenységének engedélyezéséért,
 
 cg) az egészségfejlesztési programok akkreditációjáért,
-
-ch) a természetes gyógytényezőkkel kapcsolatos egyes eljárásokkal – ideértve a szakhatósági eljárásokat is – összefüggő igazgatási szolgáltatásokért,
-
-ci) a közegészségügyi vagy élelmezés- és táplálkozás-egészségügyi feladatkörben eljáró egészségügyi államigazgatási szervnek a különleges táplálkozási célú élelmiszerek, az étrend-kiegészítők, valamint a vitaminokkal, ásványi anyagokkal és bizonyos egyéb anyagokkal dúsított élelmiszerek bejelentéséért, nyilvántartásba vételéért, a különleges táplálkozási célú élelmiszer csomagolására előírt kötelezettség alóli felmentés engedélyezésére irányuló eljárásáért, az anyatej-helyettesítő és anyatej-kiegészítő tápszerrel kapcsolatos tájékoztató és oktató anyagok (eszközök) engedélyezésére irányuló eljárásáért, az új élelmiszerek elsődleges értékeléséhez szükséges szakvélemények elkészítéséért, az élelmiszerek alkalmi árusításának engedélyezésére irányuló eljárásáért, valamint a vendéglátótermékek végső fogyasztó részére történő kiszállítására irányuló tevékenység engedélyezésére irányuló eljárásáért, igazgatási jellegű szolgáltatásáért,
