@@ -12,7 +12,7 @@ a) a telephelyen kívüli tárolás, a szállítást, fuvarozást végző fémke
 
 b) a bérmunka keretében történő telephelyen kívüli tárolás, ha a szerződő fél – a foglalkoztatotti létszám 20%-át mindenkor elérő létszámban – csökkent munkaképességűeket alkalmazó személy vagy büntetés-végrehajtási szerv.
 
-(5) Az e törvény végrehajtására kiadott kormányrendeletben meghatározott, felismerésre alkalmas jellemzővel rendelkező, fémkereskedelmi engedélyköteles anyagot a fémkereskedő legkorábban az átvételtől számított negyedik naptári napon értékesítheti, amely időpontig a telephelyén elkülönítetten köteles azt tárolni.
+(5)
 
 (6) Ha a fémkereskedő fémkereskedelmi engedélyköteles anyagot nem vesz át természetes személytől, illetve üzletszerű gazdasági tevékenységet nem folytató jogi személytől vagy jogi személyiség nélküli szervezettől, úgy fémkereskedelmi engedélyköteles anyagot telephely fenntartása nélkül is felvásárolhat és értékesíthet, amely tevékenysége során a tulajdonába került fémkereskedelmi engedélyköteles anyag tárolására nem kerülhet sor, még telephellyel rendelkező fémkereskedőnél sem.
 
