@@ -1,0 +1,3 @@
+4. § (1) Az igazságügyi alkalmazott fogászati költségeinek megtérítése iránti, 1. melléklet szerinti kérelmét a rendőrség szakértői szervének munkáltatói jogkört gyakorló vezetőjénél terjesztheti elő. A kérelemhez mellékelni kell a fogászati szűrővizsgálaton való részvételről kiállított igazolást, a fogászati ellátást végző orvos igazolását az elvégzett beavatkozásról, valamint a rendőrség szakértői szervének nevére és címére kiállított, az igazságügyi alkalmazott nevével ellátott, a beavatkozás szerint részletezett számlát.
+
+(2) A rendőrség szakértői szervének munkáltatói jogkört gyakorló vezetője az igazságügyi alkalmazott kérelme alapján, a fogászati ellátást végző fogorvos igazolása és a részletes számla benyújtását követő 30 napon belül intézkedik a kifizetésről.

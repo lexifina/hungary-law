@@ -1,0 +1,1 @@
+## „33. § A Bűnügyi Szakértői és Kutatóintézetnél 2014. március 1. napján igazságügyi alkalmazotti szolgálati jogviszonyban továbbfoglalkoztatott, 2014. február 28. napján munkáltatói kölcsönnel rendelkező dolgozó munkáltató által nyújtott meglévő munkáltatói kölcsönét és az arra vonatkozó támogatói megállapodását a foglalkoztatási jogviszony jellegének megváltozása nem érinti.”
