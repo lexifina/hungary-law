@@ -1,1 +1,0 @@
-## 4. § A befizetett díjat vissza kell téríteni, ha a kifüggesztés még nem történt meg, és a díjfizetésre kötelezett a kifüggesztésre irányuló kérelmét a beérkezéstől számított 8 napon belül visszavonja.
