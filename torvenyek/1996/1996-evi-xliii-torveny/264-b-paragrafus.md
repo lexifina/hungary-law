@@ -1,1 +1,1 @@
-264/B. §
+264/B. § A hivatásos állománynak az általános rendőrségi feladatok ellátására létrehozott szerv szakértői és bűnügyi technikai feladatokat ellátó szervénél szolgálatot teljesítő tagja vonatkozásában szolgálati elöljárónak, állományilletékes parancsnoknak vagy munkáltatói jogkört gyakorló elöljárónak a vezető beosztású, az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló törvény szabályai szerint foglalkoztatott igazságügyi alkalmazott is minősülhet.
