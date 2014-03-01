@@ -2,31 +2,31 @@
 
 ## A MAGYAR MŰVÉSZETI AKADÉMIA GAZDÁLKODÁSA ÉS VAGYONA
 
-27. § (1) Az MMA feladatai ellátása érdekében a vagyonával önállóan gazdálkodik, ennek részletes szabályait az Alapszabály határozza meg.
+27. § (1) Az MMA – közfeladatai ellátása érdekében – a vagyonával önállóan gazdálkodik, ennek részletes szabályait a vagyongazdálkodási szabályzat határozza meg.
 
-(2) Az MMA tulajdonát az alábbiak képezhetik (a továbbiakban együtt: vagyon):
+(2) Az MMA vagyona lehet
 
-a) ingatlan, ingóság,
+a) ingatlan és ingó (ideértve a pénzeszközöket is) dolog,
 
-b) tagsági jogviszonyt megtestesítő értékpapír, egyéb gazdasági társasági részesedés,
+b) tagsági jogviszonyt megtestesítő értékpapír, egyéb gazdasági társasági részesedés, valamint
 
-c) immateriális javak, vagyoni értékű jogok.
+c) immateriális javak, vagyoni értékű jog.
 
-(3) Az MMA vagyona lehet
+(3) Az MMA vagyona származása szerint lehet
 
 a) törvény alapján az MMA tulajdonába adott állami vagyon,
 
-b) az MMA számára ingyenesen juttatott (felajánlott) vagyon (ideértve a 6. § szerinti tag által juttatott vagyont is),
+b) az MMA számára ingyenesen átruházott (adományozott) vagyon (ideértve a tag által juttatott vagyont is), valamint
 
-c) az MMA közfeladatai ellátása érdekében az a) és b) pontoktól eltérően a tulajdonába került vagyon.
+c) az MMA közfeladatai ellátása érdekében az a) és b) pontban foglaltaktól eltérő módon a tulajdonába került vagyon.
 
-(4) A vagyon elidegenítéséről, megterheléséről, hasznosításáról, használatba adásáról (e § tekintetében a továbbiakban együtt: hasznosítás) a jelen törvényben meghatározottak szerint a közgyűlés vagy az elnökség dönt, a közgyűlés által elfogadott vagyongazdálkodási irányelvek alapján.
+(4) Az MMA vagyonának átruházásáról, megterheléséről, használatba adásáról (e § alkalmazásában a továbbiakban együtt: hasznosítás) – ide nem értve a pénzeszköz-felhasználást – e törvényben és a vagyongazdálkodási szabályzatban meghatározottak szerint a közgyűlés vagy az elnökség dönt.
 
-(5) Az MMA vagyonának hasznosítására kizárólag érvényes értékbecslés alapján kerülhet sor. A vagyon hasznosítására az MMA nyilvános pályázatot köteles kiírni az Alapszabályban meghatározott részletes szabályok szerint, ha az érvényes értékbecsléssel megállapított forgalmi érték ingatlan esetében a 25 millió forintot, egyéb vagyonelem esetében az egy millió forintot meghaladja.
+(5) Az MMA vagyonának hasznosítására – ide nem értve a pénzeszköz-felhasználást – kizárólag külső, független szakértő által megállapított értékbecslés alapján kerülhet sor. A vagyon hasznosítására – a 28. § (1) és (4) bekezdésében meghatározott kivétellel – az MMA nyilvános pályázatot ír ki a vagyongazdálkodási szabályzatban meghatározott részletes szabályok szerint, ha az érvényes értékbecsléssel megállapított forgalmi érték ingatlan esetében a 25 millió forintot, egyéb vagyonelem esetében az 5 millió forintot meghaladja. A vagyon hasznosítására irányuló szerződés – ide nem értve a vagyon átruházását, megterhelését célzó szerződést – megkötéséről, ha a szerződéssel érintett vagyon forgalmi értéke az 50 millió forintot nem haladja meg, az elnök, ha az 50 millió forintot meghaladja, az elnökség, és ha a 100 millió forintot meghaladja, a közgyűlés dönt.
 
-(6) Az MMA a vagyona hasznosításával kapcsolatos pénzforgalom lebonyolítására a Magyar Államkincstárnál elkülönített pénzforgalmi számlát köteles nyitni. Az MMA a vagyonhasznosítás átmenetileg szabad pénzeszközeit a Magyar Államkincstár hálózatában értékesített állampapírok vásárlásával hasznosíthatja.
+(6) Az MMA a vagyona hasznosításából származó, átmenetileg szabad pénzeszközeit állampapírok vásárlásával hasznosíthatja.
 
-(7) Az MMA a vagyona terhére – a jelen törvény céljával összhangban – zártkörűen működő részvénytársaságot, korlátolt felelősségű társaságot alapíthat, vagy ilyen gazdasági társaságban részesedést szerezhet, feltéve, hogy a gazdasági társaságban – ha törvény más feltételeket nem határoz meg – legalább többségi befolyással rendelkezik.
+(7) Az MMA a vagyona terhére – közfeladatai ellátása céljából – zártkörűen működő részvénytársaságot, korlátolt felelősségű társaságot alapíthat, vagy ilyen gazdasági társaságban – ha törvény más feltételt nem határoz meg – legalább a nemzeti vagyonról szóló törvény szerinti többségi befolyást szerezhet.
 
 (8) A (7) bekezdés szerinti gazdasági társaság további gazdálkodó szervezetet nem alapíthat, és gazdálkodó szervezetben részesedést nem szerezhet.
 
@@ -36,10 +36,10 @@ c) az MMA közfeladatai ellátása érdekében az a) és b) pontoktól eltérőe
 
 (11) A (7) bekezdés szerinti gazdasági társaság köteles az MMA közgyűlését és elnökségét értesíteni, ha lejárt tartozásainak összértéke meghaladja mérlegfőösszegének 10%-át.
 
-(12) Az MMA az irányítása alá tartozó költségvetési szervekkel a vagyon használatba adásáról vagyonhasználati szerződést köt. A vagyonhasználati szerződés megkötésére a 14. § k) pontban és a 17. § (5) bekezdés h) pontban foglalt rendelkezéseket alkalmazni kell. A vagyonhasználati szerződés főbb tartalmi és formai elemeit az Alapszabály tartalmazza.
+(12) Az MMA irányítása alá tartozó költségvetési szerv saját tulajdonnal nem rendelkezik, vagyont kizárólag az MMA képviseletében eljárva, az MMA javára szerezhet.
 
-(13) Az MMA működésének és fejlesztésének elősegítésére – tulajdonába kerülő – adományokat, támogatásokat fogadhat el.
+(13) Az MMA működésének és fejlesztésének elősegítésére – tulajdonába kerülő – adományokat, támogatásokat fogadhat el. Az elfogadás feltételeit és a kapcsolódó részletszabályokat a vagyongazdálkodási szabályzat határozza meg.
 
-(14) Az MMA tulajdonába az állami vagyonról szóló törvény alapján ingyenesen átadott állami vagyon nem idegeníthető el és nem terhelhető meg, az az MMA megszűnése esetén – a (13) bekezdésben foglalt feltétellel – a Magyar Államot illeti, az az MMA hitelezői kielégítésére nem szolgálhat.
+(14) Az MMA tulajdonába az állami vagyonról szóló törvény alapján ingyenesen átadott állami vagyon nem idegeníthető el és nem terhelhető meg, az az MMA megszűnése esetén – a (13) bekezdésben foglalt feltétellel – az államot illeti, az az MMA hitelezői kielégítésére nem szolgálhat.
 
 (15) Az MMA és az általa irányított költségvetési szervek gazdálkodását az Állami Számvevőszék ellenőrzi.

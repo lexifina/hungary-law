@@ -1,0 +1,1 @@
+28/F. § A Bizottság a javaslattal érintett személyt tárgyév július 31. napjáig tájékoztatja a jelölésről. Ha a díjra javasolt személy tárgyév szeptember 15. napjáig nyilatkozik arról, hogy a díjat nem fogadja el, részére a Bizottság a díjat nem ítélheti oda. Az így megüresedett díjazotti helyre a tárgyévet követő évben tehető javaslat és ítélhető oda a díj.

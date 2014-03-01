@@ -36,6 +36,6 @@ o) együttműködik a határon túli magyar művészeti szervezetekkel, és kül
 
 p) gondoskodik a magyar művészeti élet alkotóinak személyes megbecsüléséről,
 
-q) a különböző művészeti ágak művelése érdekében tagozatokat hoz létre és működtet.
+q) a különböző művészeti ágak művelése és korszerű művészetelméleti álláspontok kialakítása érdekében tagozatokat hoz létre és működtet.
 
 (3) Az MMA közfeladatait éves programterv keretei között valósítja meg.

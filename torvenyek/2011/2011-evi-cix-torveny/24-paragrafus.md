@@ -2,4 +2,4 @@
 
 (2) A főtitkár vezeti a 28. § (1) bekezdésben meghatározott, az MMA működését biztosító költségvetési szervet.
 
-(3) A főtitkár részletes feladatait – a (2) bekezdésre is figyelemmel – az Alapszabály és a 28. § (2) bekezdés szerinti alapító okirat határozza meg.
+(3) A főtitkár részletes feladatait – a (2) bekezdésre is figyelemmel – az Alapszabály és a 28. § (3) bekezdése szerinti alapító okirat határozza meg.
