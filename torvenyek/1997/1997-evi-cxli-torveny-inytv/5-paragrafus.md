@@ -2,7 +2,11 @@
 
 5. § (1) Az ingatlan-nyilvántartás – ha törvény kivételt nem tesz – a bejegyzett jogok és a feljegyzett tények fennállását hitelesen tanúsítja. Ha valamely jogot az ingatlan-nyilvántartásba bejegyeztek, illetve, ha valamely tényt oda feljegyeztek, senki sem hivatkozhat arra, hogy annak fennállásáról nem tudott.
 
-(1a) Az ingatlan-nyilvántartás az e törvényben foglaltak szerint nyilvántartott adatok tekintetében – a 2. § (1) bekezdés b) pontjában meghatározott adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+(1a) Az ingatlan-nyilvántartás – az ingatlanok e törvényben meghatározott adatai kivételével – közhiteles hatósági nyilvántartás.
+
+(1b) Az ellenkező bizonyításáig az ingatlan-nyilvántartásba bejegyzett ingatlanadatról vélelmezni kell, hogy az fennáll, az ingatlan-nyilvántartásból törölt ingatlanadatról vélelmezni kell, hogy az nem áll fenn.
+
+(1c) Az ingatlan-nyilvántartásba bejegyzett jogosultak személyazonosító és lakcímadatai tekintetében a személy- és lakcímnyilvántartás adatai az irányadóak.
 
 (2) Az ellenkező bizonyításáig az ingatlan-nyilvántartásba bejegyzett jogról és feljegyzett tényről vélelmezni kell, hogy az fennáll, és az ingatlan-nyilvántartás szerinti jogosultat illeti meg. A jogok, tények törlése esetén – az ellenkező bizonyításáig – azt kell vélelmezni, hogy azok nem állnak fenn.
 
