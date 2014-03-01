@@ -2,7 +2,7 @@
 
 a)–c)
 
-d)
+d) 100. § (5) bekezdésében az „Az orvosi rehabilitáció” szövegrész helyébe az „A rehabilitációs medicina” szöveg,
 
 e)
 
