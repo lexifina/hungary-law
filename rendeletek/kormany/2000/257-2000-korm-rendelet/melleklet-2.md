@@ -1,6 +1,6 @@
 2. számú melléklet a 257/2000. (XII. 26.) Korm. rendelethez
 
-## I.[^74]
+## I.[^75]
 
 ## Ágazatspecifikus munkakörök a szociális területen
 
@@ -110,7 +110,7 @@
 
 |  |  | A | B | C | D | E | F | G | H | I | J |
 
-## II.[^75]
+## II.[^76]
 
 II. Ágazatspecifikus munkakörök család-, gyermek- és ifjúságvédelmi területen
 
@@ -202,7 +202,7 @@ II. Ágazatspecifikus munkakörök család-, gyermek- és ifjúságvédelmi ter�
 
 |  |  | A | B | C | D | E | F | G | H | I | J |
 
-## III.[^76]
+## III.[^77]
 
 ## Nem ágazatspecifikus munkakörök
 
@@ -262,7 +262,7 @@ II. Ágazatspecifikus munkakörök család-, gyermek- és ifjúságvédelmi ter�
 
 |  |  | A | B | C | D | E | F | G | H | I | J |
 
-## IV.[^77]
+## IV.[^78]
 
 ## Munkakörök a Nemzeti Család- és Szociálpolitikai Intézetben
 
@@ -440,7 +440,7 @@ II. Ágazatspecifikus munkakörök család-, gyermek- és ifjúságvédelmi ter�
 
 |  | betanított munkás | * |  |  |  |  |  |  |  |  |  |
 
-## V.[^78]
+## V.[^79]
 
 V. Pedagógus munkakörök a gyermekvédelmi szakellátási intézményekben és a javítóintézetben
 
@@ -488,7 +488,7 @@ Ezen belül
 
 – ,,J'' fizetési osztályba: az egyetemi végzettséget igazoló oklevélhez és tudományos fokozathoz kötött munkakör tartozik pl. pedagógus, szociális munkás stb.
 
-2.[^79] A felső-, közép- és alapfokú szakképesítést igénylő munkakörökbe kell besorolni azt a munkakört, amelyben az intézmény alaptevékenységének megfelelő, felső-, közép- és alapfokú szakmai képesítést igénylő feladatot kell ellátni.
+2.[^80] A felső-, közép- és alapfokú szakképesítést igénylő munkakörökbe kell besorolni azt a munkakört, amelyben az intézmény alaptevékenységének megfelelő, felső-, közép- és alapfokú szakmai képesítést igénylő feladatot kell ellátni.
 
 – ,,A'' fizetési osztályba kell sorolni: a legfeljebb alapfokú iskolai végzettséghez kötött munkaköröket, valamint az alapfokú iskolai végzettséget nem igénylő szakképesítéshez kötött munkaköröket pl. falugondnok;
 
@@ -508,9 +508,9 @@ Megjegyzés:
 
 Azon munkakörök esetén, amelyek főiskolai, egyetemi, illetve középfokú végzettséggel egyaránt betölthetők a szakképzettségi szintnek megfelelő közalkalmazotti besorolást kell alkalmazni.
 
-[^74]: A 2. számú melléklet I. pontja a 326/2008. (XII. 29.) Korm. rendelet 8. § (1) bekezdésével megállapított, a 60/2011. (IV. 12.) Korm. rendelet 8. § (1) bekezdése, a 257/2013. (VII. 5.) Korm. rendelet 18. §-a szerint módosított szöveg.
-[^75]: A 2. számú melléklet II. pontja az 517/2013. (XII. 30.) Korm. rendelet 3. § (1) bekezdésével megállapított, a 34/2014. (II. 18.) Korm. rendelet 13. § a) pontja szerint módosított szöveg.
-[^76]: A 2. számú melléklet III. pontja a 326/2008. (XII. 29.) Korm. rendelet 8. § (3) bekezdésével megállapított, a 360/2010. (XII. 30.) Korm. rendelet 31. §-a szerint módosított szöveg.
-[^77]: A 2. számú melléklet IV. részét a 60/2011. (IV. 12.) Korm. rendelet 8. § (1) bekezdése iktatta be.
-[^78]: A 2. számú melléklet V. részét a 349/2012. (XII. 12.) Korm. rendelet 29. § (1) bekezdése iktatta be, szövege az 517/2013. (XII. 30.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^79]: A 2. számú melléklet „Besorolási előírások a kinevezések elkészítéséhez” alcím 2. pontja a 60/2011. (IV. 12.) Korm. rendelet 9. § (2) bekezdés i) pontja, a 34/2014. (II. 18.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.
+[^75]: A 2. számú melléklet I. pontja a 326/2008. (XII. 29.) Korm. rendelet 8. § (1) bekezdésével megállapított, a 60/2011. (IV. 12.) Korm. rendelet 8. § (1) bekezdése, a 257/2013. (VII. 5.) Korm. rendelet 18. §-a szerint módosított szöveg.
+[^76]: A 2. számú melléklet II. pontja az 517/2013. (XII. 30.) Korm. rendelet 3. § (1) bekezdésével megállapított, a 34/2014. (II. 18.) Korm. rendelet 13. § a) pontja szerint módosított szöveg.
+[^77]: A 2. számú melléklet III. pontja a 326/2008. (XII. 29.) Korm. rendelet 8. § (3) bekezdésével megállapított, a 360/2010. (XII. 30.) Korm. rendelet 31. §-a szerint módosított szöveg.
+[^78]: A 2. számú melléklet IV. részét a 60/2011. (IV. 12.) Korm. rendelet 8. § (1) bekezdése iktatta be.
+[^79]: A 2. számú melléklet V. részét a 349/2012. (XII. 12.) Korm. rendelet 29. § (1) bekezdése iktatta be, szövege az 517/2013. (XII. 30.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^80]: A 2. számú melléklet „Besorolási előírások a kinevezések elkészítéséhez” alcím 2. pontja a 60/2011. (IV. 12.) Korm. rendelet 9. § (2) bekezdés i) pontja, a 34/2014. (II. 18.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.

@@ -18,7 +18,7 @@
 
 |  | 8. | csoportvezető | 100% |
 
-5. számú melléklet a 257/2000. (XII. 26.) Korm. rendelethez[^82]
+5. számú melléklet a 257/2000. (XII. 26.) Korm. rendelethez[^83]
 
 Az ágazati pótlék mértéke a pótlékalap %-ában
 
@@ -54,4 +54,4 @@ Az ágazati pótlék mértéke a pótlékalap %-ában
 
 | 14 | 56,00% | 56,50% | 57,50% | 58,00% | 58,50% | 63,50% | 66,00% | 71,00% | 73,50% | 86,00% |
 
-[^82]: Az 5. számú mellékletet a 19/2014. (II. 3.) Korm. rendelet 3. §-a iktatta be.
+[^83]: Az 5. számú mellékletet a 19/2014. (II. 3.) Korm. rendelet 3. §-a iktatta be.
