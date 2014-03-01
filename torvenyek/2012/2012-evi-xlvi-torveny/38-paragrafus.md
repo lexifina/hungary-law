@@ -6,7 +6,7 @@
 
 38. § (1) Felhatalmazást kap a kormány, hogy rendeletben
 
-a) jelölje ki a földmérési és térinformatikai államigazgatási szervet és határozza meg a földmérési és térinformatikai államigazgatási szerv, valamint az ingatlanügyi hatóság e törvény hatálya alá tartozó feladatait és hatáskörét,
+a) jelölje ki a földmérési és térinformatikai államigazgatási szervet és határozza meg a földmérési és térinformatikai államigazgatási szerv, valamint az ingatlanügyi hatóság e törvény hatálya alá tartozó feladatait, hatáskörét és illetékességi területét,
 
 b) határozza meg a nemzeti téradat-infrastruktúra működését irányító állandó bizottság szervezetét, feladatát, működésének szabályait és feltételeit,
 
@@ -54,7 +54,7 @@ l) a felelősségi körébe tartozó állami alapadat-adatbázisok jogszerű fel
 
 m) az országos földügyi és távérzékelési levéltár létesítésének és működtetésének részletes szabályait,
 
-n) az ingatlanügyi hatóság, vagy hatóságok illetékességi területét az e törvény hatálya alá tartozó feladatai tekintetében
+n)
 
 rendeletben állapítsa meg.
 
