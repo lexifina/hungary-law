@@ -1,4 +1,4 @@
-## 1. § A rendelet hatálya kiterjed a belügyminiszter vezetése, irányítása vagy felügyelete alá tartozó szervekkel (a továbbiakban: belügyi szerv) hivatásos szolgálati és közalkalmazotti jogviszonyban (a továbbiakban együtt: szolgálati jogviszony) álló személyekre (a továbbiakban együtt: dolgozó).
+## 1. §[^1] A rendelet hatálya kiterjed a belügyminiszter vezetése, irányítása vagy felügyelete alá tartozó szervekkel (a továbbiakban: belügyi szerv) hivatásos szolgálati, közalkalmazotti, valamint igazságügyi alkalmazotti jogviszonyban (a továbbiakban együtt: szolgálati jogviszony) álló személyekre (a továbbiakban együtt: dolgozó).
 
 ## 2. § E rendelet alkalmazásában
 
@@ -21,3 +21,5 @@ b) a munkáltatói kölcsönben részesült dolgozó szolgálati jogviszonyának
 7. tiszta építési költség: a lakás építési költségének – a készpénzben megjelenő lakásépítési kedvezménnyel, a vissza nem térítendő önkormányzati támogatással, a dolgozó és a vele együttköltöző családtag által bérelt lakás bérletének megszüntetéséért kapott pénzbeli térítéssel, valamint az e személyek tulajdonát képező lakás vagy ingatlan elidegenítéséből származó bevétellel csökkentett – összege,
 
 8. tiszta vételár: a lakás vételárának, tulajdonjogot keletkeztető lakáscsere esetén a lakások értékkülönbözetének – a készpénzben megjelenő lakásépítési kedvezménnyel, a vissza nem térítendő önkormányzati támogatással, a dolgozó és a vele együttköltöző családtag által bérelt lakás bérletének megszüntetéséért kapott pénzbeli térítéssel, valamint az e személyek tulajdonát képező lakás vagy ingatlan elidegenítéséből származó bevétellel csökkentett – összege.
+
+[^1]: Az 1. § a 16/2014. (II. 28.) BM rendelet 10. § (1) bekezdésével megállapított szöveg.

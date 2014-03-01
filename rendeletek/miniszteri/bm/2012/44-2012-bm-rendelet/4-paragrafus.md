@@ -1,4 +1,4 @@
-4. § (1)[^2] E rendelet alapján a legalább 2 éves szolgálati jogviszonnyal rendelkező, határozatlan időre kinevezett dolgozó részére a belügyi szerv – a lakás célú számla vezetésével megbízott pénzintézet útján – lakás célú kamatmentes munkáltatói kölcsönt (a továbbiakban: munkáltatói kölcsön) nyújthat:
+4. § (1)[^3] E rendelet alapján a legalább 2 éves szolgálati jogviszonnyal rendelkező, határozatlan időre kinevezett dolgozó részére a belügyi szerv – a lakás célú számla vezetésével megbízott pénzintézet útján – lakás célú kamatmentes munkáltatói kölcsönt (a továbbiakban: munkáltatói kölcsön) nyújthat:
 
 a) a dolgozó tulajdonába kerülő lakás építéséhez,
 
@@ -10,7 +10,7 @@ d) házastársi vagy élettársi vagyonközösség megszűnése, valamint örök
 
 e) a dolgozó – haszonélvezettől mentes – tulajdonában lévő lakás korszerűsítéséhez.
 
-(2) Szolgálati jogviszonyként figyelembe vehető a belügyi szerveknél és azok jogelődjeinél eltöltött hivatásos szolgálati jogviszonyban, kormánytisztviselői jogviszonyban, köztisztviselői közszolgálati jogviszonyban, közalkalmazotti jogviszonyban vagy munkaviszonyban folyamatosan eltöltött idő. A szolgálati jogviszony számításánál – a jogutódlás, átszervezés kivételével – figyelmen kívül kell hagyni az e rendelet hatálya alá nem tartozó munkáltatónál hivatásos szolgálati jogviszonyban, kormánytisztviselői jogviszonyban, köztisztviselői közszolgálati jogviszonyban, közalkalmazotti jogviszonyban vagy munkaviszonyban töltött időt. A szolgálati jogviszony időtartamának a megállapításakor az illetékes személyügyi szerv által kiadott, a jogviszony keletkezését, időtartamát tanúsító okmány az irányadó.
+(2)[^4] Szolgálati jogviszonyként figyelembe vehető a belügyi szerveknél és azok jogelődjeinél eltöltött hivatásos szolgálati jogviszonyban, kormánytisztviselői jogviszonyban, köztisztviselői közszolgálati jogviszonyban, közalkalmazotti jogviszonyban, igazságügyi alkalmazotti jogviszonyban vagy munkaviszonyban folyamatosan eltöltött idő. A szolgálati jogviszony számításánál – a jogutódlás, átszervezés kivételével – figyelmen kívül kell hagyni az e rendelet hatálya alá nem tartozó munkáltatónál hivatásos szolgálati jogviszonyban, kormánytisztviselői jogviszonyban, köztisztviselői közszolgálati jogviszonyban, közalkalmazotti jogviszonyban, igazságügyi alkalmazotti jogviszonyban vagy munkaviszonyban töltött időt. A szolgálati jogviszony időtartamának a megállapításakor az illetékes személyügyi szerv által kiadott, a jogviszony keletkezését, időtartamát tanúsító okmány az irányadó.
 
 (3) Az (1) bekezdésben foglaltak szerint jogosult dolgozó a megjelölt célokra munkáltatói kölcsönben részesíthető a következő feltételek együttes fennállása esetén:
 
@@ -38,4 +38,5 @@ j) vállalja, hogy a munkáltatói kölcsönnel érintett ingatlanra biztosítá
 
 (5) E rendelet alkalmazásában saját lakáshelyzetét az rendezi, akinek a vásárolni, építeni, cserélni, bővíteni, korszerűsíteni tervezett lakás legalább 50%-os arányban haszonélvezeti jogtól mentes tulajdonába kerül vagy tulajdonában áll.
 
-[^2]: A 4. § (1) bekezdés nyitó szövegrésze a 81/2012. (XII. 28.) BM rendelet 33. § b) pontja, a 75/2013. (XII. 18.) BM rendelet 31. § d) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 27. §-a alapján rendelkezéseit a benyújtott, de még el nem bírált kérelmek esetén is alkalmazni kell.
+[^3]: A 4. § (1) bekezdés nyitó szövegrésze a 81/2012. (XII. 28.) BM rendelet 33. § b) pontja, a 75/2013. (XII. 18.) BM rendelet 31. § d) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 27. §-a alapján rendelkezéseit a benyújtott, de még el nem bírált kérelmek esetén is alkalmazni kell.
+[^4]: A 4. § (2) bekezdése a 16/2014. (II. 28.) BM rendelet 10. § (2) bekezdésével megállapított szöveg.

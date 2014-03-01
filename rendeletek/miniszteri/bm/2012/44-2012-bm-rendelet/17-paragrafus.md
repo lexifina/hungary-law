@@ -32,9 +32,9 @@ e) szolgálati jogviszonya létszámcsökkentés miatt szűnt meg,
 
 f) szolgálati jogviszonya a dolgozónak fel nem róható egészségi, pszichikai, fizikai állapot miatti alkalmatlanság miatt szűnt meg,
 
-g)[^5] az e rendelet hatálya alá tartozó szervhez, vagy az Országgyűlési Őrséghez kerül át, vagy
+g)[^7] az e rendelet hatálya alá tartozó szervhez, vagy az Országgyűlési Őrséghez kerül át, vagy
 
-h) a szolgálati jogviszonya azért szűnik meg, mert a vezetői kinevezés visszavonását követően a munkáltató a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény 245/D. § (2) bekezdése szerinti munkakört nem tud felajánlani.
+h)[^8] a szolgálati jogviszonya azért szűnik meg, mert a vezetői kinevezés visszavonását követően a munkáltató a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény 75/B. § (4) bekezdése szerinti munkakört nem tud felajánlani.
 
 (4) A támogatási megállapodás felmondása esetén a tartozást meg kell terhelni a korábban már jóváírt kedvezmény, valamint a pénzintézet által felszámított és a korábbi jogszabályok alapján a munkáltatói kölcsön nyújtásakor átvállalt kezelési költség összegével. Az így megállapított tartozás a felmondással egy összegben esedékessé válik.
 
@@ -46,4 +46,5 @@ a) az (1) bekezdés a), c), f), g) és h) pontjában meghatározott esetekben a 
 
 b) az (1) bekezdés b), d) és e) pontjában meghatározott esetben a felmondásban meghatározott időponttól
 
-[^5]: A 17. § (3) bekezdés g) pontja a 75/2013. (XII. 18.) BM rendelet 30. §-ával megállapított szöveg, e módosító rendelet 27. §-a alapján rendelkezéseit a benyújtott, de még el nem bírált kérelmek esetén is alkalmazni kell.
+[^7]: A 17. § (3) bekezdés g) pontja a 75/2013. (XII. 18.) BM rendelet 30. §-ával megállapított szöveg, e módosító rendelet 27. §-a alapján rendelkezéseit a benyújtott, de még el nem bírált kérelmek esetén is alkalmazni kell.
+[^8]: A 17. § (3) bekezdés h) pontja a 16/2014. (II. 28.) BM rendelet 12. § (2) bekezdése szerint módosított szöveg.
