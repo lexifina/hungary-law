@@ -132,7 +132,7 @@
 
 28. az építésügyi monitoringrendszer létrehozásáról, az adatforgalom rendjéről, a monitoringrendszer működtetéséről és a működés finanszírozásának pénzügyi rendjéről szóló szabályokat,
 
-29. a telekalakítási eljárás lefolytatására hatáskörrel rendelkező hatóságok kijelölését, feladat- és hatáskörét, valamint – a (4) bekezdésben foglaltak kivételével – az illetékességi területük lehatárolását,
+29. a telekalakítási eljárás lefolytatására hatáskörrel rendelkező hatóságok kijelölését, feladat- és hatáskörét, valamint az illetékességi területük lehatárolását,
 
 30. az egyes – nem hatósági – építésügyi igazgatási és települési műszaki feladatokat ellátó települési önkormányzatok körét, a feladatellátás feltételeit, illetékességi területük lehatárolását, a tevékenységet ellátók képesítési és foglalkoztatási feltételeit
 
@@ -178,7 +178,7 @@ rendelettel állapítsa meg.
 
 3. az építésügyi hatóságot mint szakhatóságot a szakhatósági eljárásért megillető igazgatási szolgáltatási díj mértékét, annak beszedésével, kezelésével, nyilvántartásával és visszatérítésével kapcsolatos részletes szabályokat.
 
-(4) Felhatalmazást kap az agrárpolitikáért felelős miniszter, hogy a telekalakítási eljárás lefolytatására hatáskörrel rendelkező ingatlanügyi hatóságok illetékességi területét önállóan, valamint a telekalakítási eljárásért fizetendő igazgatási szolgáltatási díj mértékét és a díjfizetés részletes szabályait az adópolitikáért felelős miniszterrel egyetértésben, rendelettel állapítsa meg.
+(4) Felhatalmazást kap az agrárpolitikáért felelős miniszter, hogy a telekalakítási eljárásért fizetendő igazgatási szolgáltatási díj mértékét és a díjfizetés részletes szabályait az adópolitikáért felelős miniszterrel egyetértésben, rendelettel állapítsa meg.
 
 (5) Felhatalmazást kap az egészségügyért felelős miniszter, hogy az építmények létesítésének közegészségügyi és egészségvédelmi követelményeit a miniszterrel, valamint a sajátos építmények esetén a sajátos építményfajták szerint illetékes miniszterrel egyetértésben, rendeletben állapítsa meg.
 
