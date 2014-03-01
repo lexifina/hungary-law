@@ -1,3 +1,5 @@
-## 4. § Az informatikai rendszerbe feltöltött iratokat 2014. február 28-ig egy eredeti példányban papír alapon is meg kell küldeni a címzettnek.
+## 4. §[^3]
 
 5. § Hatályát veszti a 4. §.
+
+[^3]: A 4. § a rendelet 5. §-a alapján hatályát vesztette.
