@@ -1,0 +1,1 @@
+134/C. § A rendőrség szakértői szervének igazságügyi alkalmazottját megillető egyes illetményelemek együttes összege nem lehet alacsonyabb az őt 2014. március 1-jét megelőzően megillető egyes illetményelemek együttes összegénél.

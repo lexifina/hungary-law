@@ -2,7 +2,7 @@
 
 (2)
 
-(3) Egyéb igazságügyi szervhez igazságügyi szakértővé az nevezhető ki, aki az e törvényben meghatározott feltételeknek megfelel és az igazságügyi szakértői tevékenységről szóló törvény szerint igazságügyi szakértő.
+(3) Egyéb igazságügyi szervhez és a rendőrség szakértői szervéhez igazságügyi szakértővé az nevezhető ki, aki az e törvényben meghatározott feltételeknek megfelel és az igazságügyi szakértői tevékenységről szóló törvény szerint igazságügyi szakértő.
 
 (4) Szakértőjelöltnek a szakterületnek megfelelő egyetemi (főiskolai) végzettséggel rendelkező személy nevezhető ki.
 

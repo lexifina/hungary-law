@@ -2,17 +2,19 @@
 
 ## A SZOLGÁLATI JOGVISZONYRA VONATKOZÓ ÁLTALÁNOS RENDELKEZÉSEK
 
-1. § (1) A törvény hatálya
+1. § (1) E törvény hatálya
 
 a) a bíróságokkal,
 
 b) az Országos Bírósági Hivatallal (a továbbiakban: OBH),
 
-c) az igazságügyi szakértői intézménnyel (a továbbiakban: egyéb igazságügyi szerv)
+c) az igazságügyi szakértői intézménnyel (a továbbiakban: egyéb igazságügyi szerv), valamint
+
+d) az általános rendőrségi feladatok ellátására létrehozott szerv szakértői és bűnügyi technikai feladatokat ellátó szervénél (a továbbiakban: a rendőrség szakértői szerve) az igazságügyi szakértőként és szakértőjelöltként, valamint a technikusként foglalkoztatottal
 
 létesített szolgálati jogviszonyra (a továbbiakban: szolgálati jogviszony) terjed ki.
 
-(2) Az (1) bekezdésben megjelölt igazságügyi szerv (a továbbiakban: igazságügyi szerv) által fenntartott bölcsődék és óvodák dolgozói a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény hatálya alá tartoznak.
+(2) Az (1) bekezdés a)–c) pontjában megjelölt igazságügyi szerv (a továbbiakban: igazságügyi szerv) által fenntartott bölcsődék és óvodák dolgozói a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény hatálya alá tartoznak.
 
 (3) A katonai tanácsokkal rendelkező bíróságokon igazságügyi alkalmazottként hivatásos szolgálati viszonyban álló katonák, az OBH-nál – honvédelmi és polgári védelmi feladatok ellátására – a Magyar Honvédség, illetve a rendvédelmi szervek, valamint a Nemzeti Adó- és Vámhivatal hivatásos szolgálati viszonyban álló tagjai vezénylés alapján teljesíthetnek szolgálatot.
 
