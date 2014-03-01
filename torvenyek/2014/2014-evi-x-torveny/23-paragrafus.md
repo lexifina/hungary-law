@@ -1,4 +1,4 @@
-23. § (1) Ez a törvény – a (2) és (3) bekezdésben foglalt kivétellel – 2014. január 1-jén lép hatályba.
+23. § (1)
 
 (2) Az 5. § (2) bekezdése 2014. november 1-jén lép hatályba.
 
