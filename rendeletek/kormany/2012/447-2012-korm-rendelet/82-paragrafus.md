@@ -1,4 +1,4 @@
-## 81. §[^36]
+## 81. §[^35]
 
 ## 12. Záró rendelkezések
 
@@ -12,4 +12,4 @@
 
 (5) Ez a rendelet 2014. március 2-án hatályát veszti.
 
-[^36]: A 81. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^35]: A 81. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
