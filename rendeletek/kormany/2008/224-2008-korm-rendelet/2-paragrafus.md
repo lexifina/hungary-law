@@ -6,9 +6,9 @@ b) a kötelezettségszegés tartamához, súlyához, ismétlődéséhez, a vesz�
 
 c) a kötelezettségszegést elkövető vállalkozás méretéhez és/vagy a gyártott vagy importált anyag éves mennyiségéhez,
 
-d)[^19] a hatóság írásbeli tájékoztatásának, tanácsadásának megtörténtéhez, a hatóság írásbeli figyelmeztetésében, vagy a hiányosságok megszüntetését, illetve a szükséges intézkedések végrehajtását előíró határozatában, illetőleg a hatósági szerződésben foglaltak teljesítéséhez.
+d)[^20] a hatóság írásbeli tájékoztatásának, tanácsadásának megtörténtéhez, a hatóság írásbeli figyelmeztetésében, vagy a hiányosságok megszüntetését, illetve a szükséges intézkedések végrehajtását előíró határozatában, illetőleg a hatósági szerződésben foglaltak teljesítéséhez.
 
-(2)[^20]
+(2)[^21]
 
-[^19]: A 2. § (1) bekezdés d) pontját a 123/2009. (VI. 12.) Korm. rendelet 8. § (1) bekezdése iktatta be, szövege a 145/2010. (IV. 29.) Korm. rendelet 2. § k) pontja szerint módosított szöveg.
-[^20]: A 2. § (2) bekezdését a 145/2010. (IV. 29.) Korm. rendelet 3. § c) pontja hatályon kívül helyezte.
+[^20]: A 2. § (1) bekezdés d) pontját a 123/2009. (VI. 12.) Korm. rendelet 8. § (1) bekezdése iktatta be, szövege a 145/2010. (IV. 29.) Korm. rendelet 2. § k) pontja szerint módosított szöveg.
+[^21]: A 2. § (2) bekezdését a 145/2010. (IV. 29.) Korm. rendelet 3. § c) pontja hatályon kívül helyezte.
