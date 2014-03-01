@@ -12,4 +12,4 @@
 
 (10)
 
-(11)
+(11) Hatályát veszti a Gst. 48. §-a.
