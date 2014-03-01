@@ -1,3 +1,0 @@
-## „(8) Ha ugyanazon lakáscél megvalósításához a támogatott személy a lakáscélú állami támogatásokat különböző hitelintézetektől veszi igénybe, a hitelintézetek kötelesek együttműködni, valamint a másik hitelintézethez már benyújtott és általa letörölhetetlen jelzéssel ellátott számlát elfogadni.
-
-## (9) A (8) bekezdés tekintetében lakáscélú állami támogatásnak minősül a lakástakarékpénztárakról szóló törvény, valamint a lakáscélú állami támogatásokról, a fiatalok, valamint a többgyermekes családok lakáscélú kölcsöneinek állami támogatásáról és az otthonteremtési kamattámogatásról szóló kormányrendelet, valamint az e rendelet szerinti állami támogatás.”
