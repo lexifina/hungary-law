@@ -1,1 +1,3 @@
-## 6. § Hatályát veszti a szén-monoxid érzékelő berendezésre vonatkozó műszaki követelmények meghatározásáról és egyes tűzvédelmi tárgyú miniszteri rendeletek módosításáról szóló 64/2013. (XII. 4.) BM rendelet.
+## 6. §[^1]
+
+[^1]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
