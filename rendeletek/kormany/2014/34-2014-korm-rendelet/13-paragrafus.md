@@ -1,3 +1,3 @@
-## 12. § A Kjtvhr. 15/A. § (2) bekezdése helyébe a következő rendelkezés lép:
+## 12. §[^1]
 
-## „(2) Nem illeti meg az ágazati pótlék a 2. számú melléklet V. pontja szerinti pedagógus munkakörben, valamint a Nemzeti Család- és Szociálpolitikai Intézetben foglalkoztatott közalkalmazottat.”
+[^1]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
