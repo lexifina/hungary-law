@@ -1,3 +1,0 @@
-## 6. § Az R. 11. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) A feladatmutató alapján fajlagos támogatási összegek alkalmazásával megállapított, továbbá az 1. mellékletben a 66., a 135–138., a 143., a 145–146., és a 149–150. sorszám alatt meghatározott előirányzatokból nyújtott költségvetési támogatás kivételével a költségvetési támogatás minimum 3%-át érintően, de minden 100 millió forint feletti kötelezettségvállalás esetében a támogató – a felhasználási időszakban vagy az elszámolás benyújtását követően, de legkésőbb az elszámolás elfogadását követő hat hónapon belül – a helyszínen is ellenőrzi a költségvetési támogatás felhasználását.”
