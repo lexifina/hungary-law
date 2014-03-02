@@ -1,3 +1,3 @@
-8–9. melléklet a 7/2014. (I. 29.) EMMI rendelethez[^17]
+8–9. melléklet a 7/2014. (I. 29.) EMMI rendelethez[^21]
 
-[^17]: A 8–9. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: A 8–9. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

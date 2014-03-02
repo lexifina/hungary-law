@@ -1,1 +1,3 @@
-4. melléklet a 7/2014. (I. 29.) EMMI rendelethez
+4. melléklet a 7/2014. (I. 29.) EMMI rendelethez[^17]
+
+[^17]: A 4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
