@@ -1,6 +1,6 @@
 18. § (1)
 
-(2) Hatályát veszti a 4. § (5) bekezdése az e törvény hatálybalépését követő 4. hónap első napján.
+(2)
 
 ## Melléklet a 2013. évi CXL. törvényhez
 
