@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-515-20-
 | 2014-02-15 | 2013-515-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2014-02-16 | 2013-515-20-22.4 | 2010: CXXX. törvény |
 | 2014-03-01 | 2013-515-20-22.5 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2014-03-02 | 2013-515-20-22.6 | 2010: CXXX. törvény |
