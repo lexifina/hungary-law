@@ -4,6 +4,6 @@ a)
 
 b)
 
-c) 38. § (2) bekezdés n) pontja,
+c)
 
 d)–e)

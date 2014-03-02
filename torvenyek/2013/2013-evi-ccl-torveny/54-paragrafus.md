@@ -2,4 +2,4 @@
 
 a)–c)
 
-d) 90. § (3b) bekezdése.
+d)
