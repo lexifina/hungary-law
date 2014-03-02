@@ -1,6 +1,6 @@
-## 13. §[^37] A működési engedély – a 14. §-ban foglalt kivételekkel – határozatlan időre szól.
+## 13. §[^39] A működési engedély – a 14. §-ban foglalt kivételekkel – határozatlan időre szól.
 
-14. § (1)[^38] A miniszter
+14. § (1)[^40] A miniszter
 
 a) közérdekű muzeális kiállítóhely működési engedélyének kiadása iránti kérelem esetén határidő egyidejű kitűzésével ideiglenes működési engedélyt ad ki, ha a fenntartó a 4. § a)–c) pontjaiban foglalt feltételek teljesítését igazolja, és a kérelemhez csatolt nyilatkozatában vállalja a hiányzó feltételek határidőn belüli teljesítését,
 
@@ -10,8 +10,8 @@ b) közérdekű muzeális gyűjtemény működési engedélyének kiadása irán
 
 (3) A hiányzó feltételek teljesítésére kitűzött határidő egy évnél hosszabb időtartam nem lehet, amelyet a miniszter a fenntartó kérelemére – a hiányosságok megszüntetéséhez szükséges időtartam figyelembevételével – legfeljebb egy évvel meghosszabbíthat, ha a fenntartó önhibáján kívül nem képes a hiányzó feltételek határidőn belüli teljesítésére.
 
-(4)[^39] Ha a fenntartó a kitűzött határidőn belül igazolja azoknak a hiányzó feltételeknek a teljesítését, amelyek miatt csak ideiglenes működési engedélyt kaphatott, a miniszter a működési engedélyt kiadja, ellenkező esetben az ideiglenes működési engedély hatályát veszti.
+(4)[^41] Ha a fenntartó a kitűzött határidőn belül igazolja azoknak a hiányzó feltételeknek a teljesítését, amelyek miatt csak ideiglenes működési engedélyt kaphatott, a miniszter a működési engedélyt kiadja, ellenkező esetben az ideiglenes működési engedély hatályát veszti.
 
-[^37]: A 13. § a 21/2013. (III. 19.) EMMI rendelet 6. § (5) bekezdésével megállapított szöveg.
-[^38]: A 14. § (1) bekezdése a 21/2013. (III. 19.) EMMI rendelet 6. § (6) bekezdésével megállapított szöveg.
-[^39]: A 14. § (4) bekezdése a 21/2013. (III. 19.) EMMI rendelet 6. § (7) bekezdésével megállapított szöveg.
+[^39]: A 13. § a 21/2013. (III. 19.) EMMI rendelet 6. § (5) bekezdésével megállapított szöveg.
+[^40]: A 14. § (1) bekezdése a 21/2013. (III. 19.) EMMI rendelet 6. § (6) bekezdésével megállapított szöveg.
+[^41]: A 14. § (4) bekezdése a 21/2013. (III. 19.) EMMI rendelet 6. § (7) bekezdésével megállapított szöveg.

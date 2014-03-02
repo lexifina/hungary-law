@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-2-20-1W
 | 2012-01-01 | 2010-2-20-1W.4 | 52/2011. (VIII. 18.) NEFMI rendelet |
 | 2012-04-26 | 2010-2-20-1W.5 | 26/2012. (IV. 25.) NEFMI rendelet |
 | 2013-03-24 | 2010-2-20-1W.6 | 21/2013. (III. 19.) EMMI rendelet |
+| 2014-03-02 | 2010-2-20-1W.7 | 12/2014. (II. 25.) EMMI rendelet |
