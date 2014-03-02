@@ -1,3 +1,5 @@
+## 9–12. §[^2]
+
 1. melléklet a 16/2014. (II. 28.) BM rendelethez
 
 KÉRELEM
@@ -37,3 +39,5 @@ vezető
 Pénzügyi ellenjegyzés:
 
 ....................................
+
+[^2]: A 9–12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
