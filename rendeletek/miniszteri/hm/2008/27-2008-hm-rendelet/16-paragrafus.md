@@ -4,6 +4,6 @@
 
 (2) Amennyiben a közalkalmazott e rendelet hatálybalépését megelőzően létesített honvédségi közalkalmazotti jogviszonyt, ez a rendelet nem érinti a korábbi jogszabály által biztosított betegszabadság időtartamára járó kiegészítő pótlék, éjszakai pótlék, délutáni és éjszakai műszakpótlék (ideértve az 1992-ben fenntartott korábbi műszakpótlékokat is), teljesítménypótlék, valamint rendkívüli munkavégzésért járó pótlék megállapítását és folyósítását.
 
-(3)[^13]
+(3)[^14]
 
-[^13]: A 16. § (3) bekezdését a 2/2013. (III. 26.) HM rendelet 5. §-a hatályon kívül helyezte.
+[^14]: A 16. § (3) bekezdését a 2/2013. (III. 26.) HM rendelet 5. §-a hatályon kívül helyezte.

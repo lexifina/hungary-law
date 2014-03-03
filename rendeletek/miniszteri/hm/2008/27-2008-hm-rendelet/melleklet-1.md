@@ -1,6 +1,6 @@
-## 19–20. §[^16]
+## 19–20. §[^17]
 
-1. melléklet a 27/2008. (XII. 31.) HM rendelethez[^17]
+1. melléklet a 27/2008. (XII. 31.) HM rendelethez[^18]
 
 A közalkalmazotti munkakörök és a vezetői beosztások megnevezése, fizetési osztályokba sorolása és a vezetői pótlék mértéke
 
@@ -240,5 +240,5 @@ A közalkalmazotti munkakörök és a vezetői beosztások megnevezése, fizeté
 
 | 117. | takarító | * |  |  |  |  |  |  |  |  |  |  |
 
-[^16]: A 19–20. §-t a 11/2012. (VII. 20.) HM rendelet 3. §-a hatályon kívül helyezte 2012. július 28. napjával.
-[^17]: Az 1. melléklet a 2/2013. (III. 26.) HM rendelet 4. §-ával megállapított szöveg.
+[^17]: A 19–20. §-t a 11/2012. (VII. 20.) HM rendelet 3. §-a hatályon kívül helyezte 2012. július 28. napjával.
+[^18]: Az 1. melléklet a 2/2013. (III. 26.) HM rendelet 4. §-ával megállapított szöveg.
