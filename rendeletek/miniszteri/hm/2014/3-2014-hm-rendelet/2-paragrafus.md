@@ -1,0 +1,3 @@
+## 1. § A honvédelmi ágazatban foglalkoztatottak közalkalmazotti jogviszonyával összefüggő egyes kérdések rendezéséről szóló 27/2008. (XII. 31.) HM rendelet a következő 5/A. §-sal egészül ki:
+
+## „5/A. § Nem kell próbaidőt megállapítani akkor, ha az érintett kinevezését megelőző egy évben honvédségi szervezetnél vagy olyan gazdálkodó szervezetnél állt folyamatosan munkaviszonyban, amelynek állami tulajdonú részesedése felett az államot megillető tulajdonosi jogokat és kötelezettségeket a honvédelemért felelős miniszter gyakorolja, feltéve, hogy az érintett ez idő alatt rendelkezett a közalkalmazotti jogviszonyában betöltendő munkaköréhez szükséges iskolai végzettséggel vagy képesítéssel.”
