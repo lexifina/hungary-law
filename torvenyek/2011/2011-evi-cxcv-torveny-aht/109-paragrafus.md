@@ -66,7 +66,7 @@
 
 30. a Magyar Honvédség szervei, valamint a rendvédelmi szervek tekintetében az irányítói jogok középirányító szervre történő átruházásának részletszabályait,
 
-31. a határon túli költségvetési támogatásoknak, az egyházi célú költségvetési támogatásoknak, a központi költségvetésből nyújtott nemzetiségi célú támogatásoknak, valamint a Civil Alap – 2014 pályázati program keretében nyújtott támogatásoknak a költségvetési támogatások nyújtásának e törvény végrehajtására kiadott rendeletben meghatározott rendjétől eltérő sajátos szabályait,
+31. a határon túli költségvetési támogatásoknak, az egyházi célú költségvetési támogatásoknak, a központi költségvetésből nyújtott nemzetiségi célú támogatásoknak, a Civil Alap – 2014 pályázati program keretében nyújtott támogatásoknak és az európai strukturális és beruházási alapokból nyújtott támogatásoknak a költségvetési támogatások nyújtásának e törvény végrehajtására kiadott rendeletben meghatározott rendjétől eltérő sajátos szabályait,
 
 32. az állami támogatási programokra és az egyedi állami támogatásokra vonatkozó szabályozásoknak az Európai Unió versenyjogi szabályaival való összehangolása rendjét, beleértve az intézményi és az eljárási szabályokat,
 
@@ -102,7 +102,7 @@ c) az európai uniós és egyéb nemzetközi forrásból származó támogatáso
 
 és megállapítsa feladatát, hatáskörét, szervezetét, és ellenőrzései részletes szabályait.
 
-(2a) Felhatalmazást kap a Kormány, hogy – a költségvetési évre tekintet nélkül – rendeletben állapítsa meg a központi költségvetésről szóló törvény uniós fejlesztések fejezetébe sorolt fejezeti kezelésű előirányzatok felhasználásával kapcsolatosan a támogatási igények benyújtásának, elbírálásának, a pályázatok lebonyolításának, a beszámolásnak, a visszakövetelésnek és a felhasználás ellenőrzésének szabályait, továbbá fejezeti kezelésű előirányzatonként
+(2a) Felhatalmazást kap a Kormány, hogy a 2007–2013-as programozási időszakban a központi költségvetésről szóló törvény uniós fejlesztések fejezetébe sorolt, a 2014–2020-as programozási időszakban az európai strukturális és beruházási alapokból származó források felhasználásával összefüggésben – a költségvetési évre tekintet nélkül – rendeletben állapítsa meg a támogatási igények benyújtásának, elbírálásának, a pályázatok lebonyolításának, a beszámolásnak, a visszakövetelésnek és a felhasználás ellenőrzésének szabályait, továbbá fejezeti kezelésű előirányzatonként
 
 a) a fejezeti kezelésű előirányzatok felhasználási célját,
 
