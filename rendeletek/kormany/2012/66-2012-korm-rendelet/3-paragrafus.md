@@ -1,6 +1,6 @@
 ## 3. Engedélyek, engedélyezési és nyilvántartásba vételi eljárás
 
-3. § (1)[^5] A kábítószerek és pszichotróp anyagok, valamint új pszichoaktív anyagok gyártása, exportja, importja, transzfere, beszerzése, forgalmazása, raktározása, tárolása, tartása, átadása, használata, valamint a velük kapcsolatos oktatás, kutatás, elemzés, továbbá kábítószer előállítására alkalmas növények termesztetése, valamint a velük kapcsolatos oktatás, kutatás, elemzés – a (2) és a (4), valamint a (6) bekezdésben foglaltak, valamint az eseti kutatás kivételével – kizárólag tevékenységi engedély birtokában folytatható, kivéve a koncesszióról szóló törvény alapján 1999. július 1. előtt kötött magánjogi szerződések által érintett tevékenységeket. Tevékenységi engedélyt a Ptk. 685. § c) pontja szerinti gazdálkodó szervezet kaphat.
+3. § (1)[^5] A kábítószerek és pszichotróp anyagok, valamint új pszichoaktív anyagok gyártása, exportja, importja, transzfere, beszerzése, forgalmazása, raktározása, tárolása, tartása, átadása, használata, valamint a velük kapcsolatos oktatás, kutatás, elemzés, továbbá kábítószer előállítására alkalmas növények termesztetése, valamint a velük kapcsolatos oktatás, kutatás, elemzés – a (2) és a (4), valamint a (6) bekezdésben foglaltak, valamint az eseti kutatás kivételével – kizárólag tevékenységi engedély birtokában folytatható.
 
 (2) Az állatgyógyászati intézmény, az állatgyógyászati készítmények kiskereskedelmi forgalmazója, a magán-állatorvos, valamint állatorvost alkalmazó telep, állatkert, vadaspark köteles a K1, K2 és a P2 jegyzéken szereplő kábítószernek vagy pszichotróp anyagnak minősülő hatóanyagot tartalmazó gyógyszerrel végzett tevékenységét – annak megkezdése előtt legalább harminc nappal – a rendőrségnek az alábbi adattartalommal bejelenteni:
 
@@ -50,7 +50,7 @@ b) az előírt adatszolgáltatást nem teljesítette.
 
 (12) A nyilvántartást vezető szerv a nyilvántartásba vett szervezet tevékenységének felfüggesztéséről vagy visszavonásáról szóló döntését közli a felfüggesztést vagy visszavonást kezdeményező hatósággal is.
 
-[^5]: A 3. § (1) bekezdése a 137/2012. (VI. 29.) Korm. rendelet 91. § a) pontja szerint módosított szöveg.
+[^5]: A 3. § (1) bekezdése a 137/2012. (VI. 29.) Korm. rendelet 91. § a) pontja, az 52/2014. (III. 3.) Korm. rendelet 2. §-a szerint módosított szöveg.
 [^6]: A 3. § (2) bekezdés e) pontja a 137/2012. (VI. 29.) Korm. rendelet 82. §-ával megállapított szöveg.
 [^7]: A 3. § (3) bekezdése a 254/2013. (VII. 5.) Korm. rendelet 54. § a) pontja szerint módosított szöveg.
 [^8]: A 3. § (4) bekezdése az 520/2013. (XII. 30.) Korm. rendelet 88. §-ával megállapított szöveg.

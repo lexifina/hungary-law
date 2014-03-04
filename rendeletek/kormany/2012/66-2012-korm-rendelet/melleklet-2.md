@@ -1,4 +1,4 @@
-## Az ellenőrzött anyagok alábbi jegyzékeiben hivatalos elnevezésként a vegyület, anyag nemzetközi neve (International Non-Proprietary Name, röviden INN) szerepel: az angol változat vastagon szedve, a magyar változat zárójelben; ennek hiányában a K1 és K2, valamint a K3 jegyzéken a Kábítószer Egyezménnyel összhangban az ún. Sárga listában (45. kiadás, 2003. dec.) megadott név, illetve a P1, P2, P3, P4 jegyzéken az 1971-es Pszichotróp Egyezménnyel összhangban az ún. Zöld listában (23. kiadás, 2003. aug.) megadott név szerepel. A K1 és K2 jegyzék, valamint a P jegyzékek második oszlopában a kémiai név, és/vagy dőlt betűvel a leírás szerepel. A P jegyzékek első oszlopában dőlt betűvel van feltüntetve az esetleges más név vagy rövidítés, illetve a külföldön gyakran használt más írásmód.
+## Az ellenőrzött anyagok alábbi jegyzékeiben hivatalos elnevezésként a vegyület, anyag nemzetközi neve (International Non-Proprietary Name, röviden INN) szerepel: az angol változat vastagon szedve, a magyar változat zárójelben; ennek hiányában a K1 és K2, valamint a K3 jegyzéken a Kábítószer Egyezménnyel összhangban, illetve a P1, P2, P3, P4 jegyzéken az 1971-es Pszichotróp Egyezménnyel összhangban az International Narcotics Control Board honlapján közzétett aktuális listákban megadott név szerepel. A K1 és K2 jegyzék, valamint a P jegyzékek második oszlopában a kémiai név és/vagy dőlt betűvel a leírás szerepel. A P jegyzékek első oszlopában dőlt betűvel van feltüntetve az esetleges más név vagy rövidítés, illetve a külföldön gyakran használt más írásmód.
 
 ## A) KÁBÍTÓSZEREK JEGYZÉKE
 
@@ -923,6 +923,30 @@
 | 51 | URB-754 | 6-methyl-2-[(4-methylphenyl)amino]-1-benzoxazin-4-one |
 
 | 52. | para-methyl-4-methylaminorex (para-metil-4- metilaminorex) / 4,4’-DMAR | 4-methyl-5-(4-methylphenyl)–4,5-dihydro- 1,3-oxazol-2-amine, illetve 4-methyl-5-(4- methylphenyl)–1,3-oxazolidin-2-imine tautomerek |
+
+| 53 | RH-34 | 3-[2-(2-methoxybenzylamino)ethyl]-1H-quinazoline-2,4-dione |
+
+| 54 | MTP, methcathinone thiophen analog | 2-(methylamino)-1-(thiophen-2-yl)propan-1-one |
+
+| 55 | N-ethylnorketamine | 2-(2-chlorophenyl)-2-(ethylamino)cyclohexanone |
+
+| 56 | AM-1248 azepane isomer | adamant-1-yl[1-(1-methylazepan-3-yl)-1H-indol-3-yl]methanone |
+
+| 57 | 4-benzylpiperidine | 4-(phenylmethyl)piperidine |
+
+| 58 | 3,4-dichloromethylphenidate/ 3,4-CTMP | methyl-2-(3,4-dichlorophenyl)-2-[piperidin-2-yl]acetate |
+
+| 59 | AB-FUBINACA | N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-(4-fluorobenzyl)-1H-indazole-3-carboxamide |
+
+| 60 | 5F-AB-PINACA | N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-(5-fluoropentyl)-1H-indazole-3-carboxamide |
+
+| 61 | AB-PINACA | N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-pentyl-1H-indazole-3-carboxamide |
+
+| 62 | AH-7921 | (3,4-dichloro-N-[[1-(dimethylamino)cyclohexyl]methyl]benzamide) |
+
+| 63 | α-PVT | 2-(pyrrolidin-1-yl)-1-(thiophen-2-yl)pentan-1-one |
+
+| 64 | A-836,339 | N-[3-(2-methoxyethyl)-4,5-dimethyl-1,3-thiazol-2-ylidene]-2,2,3,3-tetramethylcyclopropane-carboxamide |
 
 ## – és az ebben a jegyzékben felsorolt anyagok sztereoizomerjei, amennyiben kémiai szerkezetük alapján azok léteznek;
 
