@@ -1,6 +1,6 @@
 ## 11. A honvédelemben közreműködő szervek
 
-18. § (1) A rendvédelmi szervek a jogszabályban meghatározott hatáskörükben, illetékességi területükön:
+18. § (1) A rendvédelmi szervek, valamint az Országgyűlési Őrség a jogszabályban meghatározott hatáskörükben, illetékességi területükön:
 
 a) ellátják a honvédelem érdekében meghatározott feladataikat,
 

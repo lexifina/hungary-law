@@ -22,7 +22,7 @@ f) akit országgyűlési, európai parlamenti vagy helyi önkormányzati képvis
 
 g) aki meghagyásban részesült,
 
-h) aki a Honvédség és a rendvédelmi szervek hivatásos vagy szerződéses állományú tagja,
+h) aki a Honvédség, az Országgyűlési Őrség és a rendvédelmi szervek hivatásos vagy szerződéses állományú tagja,
 
 i) akinek közös háztartásban élő házastársa katonai szolgálatot teljesít, továbbá
 
