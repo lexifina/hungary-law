@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Magyarország Kormánya és az Indonéz Köztársaság Kormánya között az Indonéz Köztársaság részére Magyarország által nyújtandó kedvezményes hitel általános feltételeiről, eljárási rendjéről, intézményi hátteréről és pénzügyi kereteiről szóló keretmegállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
