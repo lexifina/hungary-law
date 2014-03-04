@@ -5,3 +5,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2014-14-00-00
 | Hatályos (In-force) | Módosította (made by) | NJT időállapot |
 | --- | --- | --- |
 | 2014-03-04 | 2014. évi XIV. törvény | 2014-14-00-00.0 (közlönyállapot) |
+| 2014-03-04 | Nemzeti Jogszabálytár (egységes szerkezet) | 2014-14-00-00.1 |

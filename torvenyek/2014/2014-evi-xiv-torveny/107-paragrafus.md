@@ -29,11 +29,3 @@ m) 91. §-a az Alaptörvény XXXI. cikk (3) bekezdése és 45. cikk (5) bekezdé
 alapján sarkalatosnak minősül.
 
 (2) E törvény 1–21. §-a, 26–47. §-a, 60–64. §-a, 70. § (2) bekezdése, 74. §-a, 76. § a) és b) pontja, 77. §-a, 105. §-a az Alaptörvény 5. cikk (4) és (7) bekezdése alapján a jelen levő országgyűlési képviselők kétharmadának szavazatával elfogadandó házszabályi rendelkezésnek minősül.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke

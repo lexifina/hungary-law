@@ -6,7 +6,7 @@
 
 (2) Az Áht.
 
-a) 22. § (5) bekezdésében a „ , valamint” szövegrész helyébe az „a központi költségvetésről szóló törvényjavaslat benyújtását követő tíz napon belül,” szöveg,
+a)
 
 b) 28. § (1a) bekezdésében az „a központi költségvetésről szóló törvény uniós fejlesztések fejezetébe sorolt” szövegrész helyébe az „a 2007–2013-as programozási időszakban a központi költségvetésről szóló törvény uniós fejlesztések fejezetébe sorolt, a 2014–2020-as programozási időszakban az európai strukturális és beruházási alapokból származó forrást tartalmazó” szöveg,
 
@@ -16,4 +16,4 @@ d) 109. § (2a) bekezdésében a „hogy – a költségvetési évre tekintet n
 
 lép.
 
-(3) Hatályát veszti az Áht. 22. § (6)–(8) bekezdése.
+(3)
