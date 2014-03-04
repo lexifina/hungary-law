@@ -10,7 +10,7 @@ b) a könyvtári dokumentumok lelőhely-nyilvántartását együttesen megvalós
 
 c) a könyvtárak gyűjteményéből kivont dokumentumok hasznosítását a könyvtári rendszer számára.
 
-(2) A kiadványokból országosan hat kötelespéldányt kell szolgáltatni a könyvtári rendszer számára, kormányrendeletben meghatározott módon.
+(2) A kiadványokból országosan hat kötelespéldányt kell szolgáltatni a könyvtári rendszer számára, törvényben, illetve kormányrendeletben meghatározott módon.
 
 (3) Az országos dokumentumellátási rendszerről szóló jogszabályban meghatározott könyvtár vezetőjének kinevezése előtt a miniszter véleményét kell kérni.
 

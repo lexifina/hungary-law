@@ -1,6 +1,6 @@
 ## Muzeális intézmények működési engedélyének kiadása, módosítása, visszavonása
 
-39. § (1) Muzeális intézményt bármely jogi és természetes személy alapíthat. A muzeális intézménnyé nyilvánítást a miniszter által kiadott működési engedély igazolja.
+39. § (1) Muzeális intézményt bármely jogi és természetes személy vagy törvény alapíthat. A muzeális intézménnyé nyilvánítást – a törvény által alapított muzeális intézmény kivételével – a miniszter által kiadott működési engedély igazolja.
 
 (2) A működési engedély kiadására irányuló eljárás a fenntartó kérelmére indul meg, arra a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvényt (a továbbiakban: Ket.) kell alkalmazni azzal az eltéréssel, hogy az ügyintézési határidő 60 nap.
 

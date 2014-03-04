@@ -78,7 +78,7 @@ v) a közművelődési és közgyűjteményi feladatfinanszírozás és a közm�
 
 w) a közép- és felsőfokú közművelődési továbbképzés, a minősített szakmai továbbképzés és a szervezett képzés rendszerét és követelményeit,
 
-x) az országos múzeum, az országos szakmúzeum, a nemzeti könyvtár, az országos szakkönyvtár és az állami egyetem könyvtárának kiemelt feladatait, a kiemelt feladatok ellátásának rendjét, valamint a kiemelt feladatok végrehajtásával összefüggésben a muzeális intézmények és a nyilvános könyvtárak kötelezettségeit,
+x) – törvényben meghatározott kivétellel – az országos múzeum, az országos szakmúzeum, a nemzeti könyvtár, az országos szakkönyvtár és az állami egyetem könyvtárának kiemelt feladatait, a kiemelt feladatok ellátásának rendjét, valamint a kiemelt feladatok végrehajtásával összefüggésben a muzeális intézmények és a nyilvános könyvtárak kötelezettségeit,
 
 y) a muzeális intézmény nyilvántartásában szereplő kulturális javak revíziójára és selejtezésére vonatkozó részletes szabályokat.
 
