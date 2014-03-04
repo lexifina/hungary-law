@@ -4,7 +4,7 @@
 
 a) az Országház, az Országgyűlés Irodaházában, valamint az Országgyűlés Hivatala elhelyezésére szolgáló épületek területén a személyazonosság megállapítása céljára a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvényben meghatározott személyazonosság igazolására alkalmas hatósági igazolványt, valamint az Országházba, az Országgyűlés Irodaházába, valamint az Országgyűlés Hivatala elhelyezésére szolgáló épületekbe való belépésre jogosító okmányt fogadja el,
 
-b) a létesítménybiztosítási intézkedés keretében lezárt területen, illetve olyan területen, amely tekintetében fokozott ellenőrzést rendeltek el, megállapíthatja a személyazonosságát annak, akivel kapcsolatban ez a közbiztonság, valamint az Országházban, illetve az Országgyűlés Irodaházában tartózkodók védelme céljából szükséges.
+b) megállapíthatja annak a személyazonosságát, akinek ez a házelnök személyvédelme érdekében, a belépési jogosultság igazolásához, a közbiztonság, az Országházban, illetve az Országgyűlés Irodaházában és az Országgyűlés Hivatala elhelyezésére szolgáló épületekben tartózkodók védelme céljából szükséges.
 
 (2) Az (1) bekezdés b) pontja esetén az országgyűlési őr minden olyan hatósági igazolványt elfogad, amely tartalmazza a személyazonosításhoz szükséges adatokat. A személyazonosság megállapításával érintett személy a személyazonosság megállapítására alkalmas okmányok közül egy bemutatására kötelezhető. Az országgyűlési őr más jelen lévő, ismert személyazonosságú személy közlését is elfogadhatja igazolásként.
 

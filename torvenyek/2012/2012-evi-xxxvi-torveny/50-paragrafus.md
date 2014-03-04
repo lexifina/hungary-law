@@ -1,14 +1,14 @@
-50. § (1) Ha a képviselő az Országgyűlés ülésén fizikai erőszakot alkalmazott, illetve közvetlen fizikai erőszakkal fenyegetett vagy arra hívott fel, az ülést vezető elnök javasolhatja a képviselő ülésnapról való kizárását, jogai gyakorlásának felfüggesztését és az adott havi tiszteletdíjának csökkentését.
+50. § (1) Ha a képviselő az Országgyűlés ülésén fizikai erőszakot alkalmazott, illetve közvetlen fizikai erőszakkal fenyegetett, arra hívott fel, vagy más kivezettetését akadályozta, az ülést vezető elnök javasolhatja a képviselő ülésnapról való kizárását, illetve az (5)–(8) bekezdés és az 51/A. § alkalmazásával a képviselő jogainak gyakorlása felfüggeszthető, esedékes tiszteletdíja csökkenthető.
 
 (2) A kizárásra irányuló javaslatról az Országgyűlés vita nélkül határoz. Ha az Országgyűlés határozatképtelen, a kizárásról az ülést vezető elnök határoz. Ha a képviselőt az (1) bekezdés szerint az ülésnapról kizárták, a kizárás időtartama alatt az Országgyűlés ülésein és az országgyűlési bizottságok munkájában nem vehet részt, tiszteletdíjra nem jogosult. Az ülést vezető elnök az Országgyűlés következő ülésén tájékoztatja az Országgyűlést a kizárásról és annak indokáról. Ezt követően az Országgyűlés vita nélkül határoz az ülést vezető elnök döntésének törvényességéről.
 
-(2a) A házelnök – az (1) bekezdés szerinti bármely jogkövetkezményre irányuló javaslat hiányában – az (1) bekezdés szerinti magatartás tanúsításától számított öt napon belül jogosult a képviselő képviselői jogai gyakorlásának felfüggesztését, illetve a képviselő adott havi tiszteletdíjának csökkentését javasolni.
+(2a)
 
-(3) A képviselő jogai gyakorlásának felfüggesztéséről az Országgyűlés – a Mentelmi, összeférhetetlenségi, fegyelmi és mandátumvizsgáló bizottság állásfoglalásának kikérésével – a jelen lévő képviselők kétharmadának szavazatával dönt. A képviselő jogainak gyakorlása legfeljebb három ülésnapra függeszthető fel.
+(3)
 
-(4) Az (1) és (2a) bekezdés szerinti, a képviselő adott havi tiszteletdíjának csökkentésére irányuló javaslatról az Országgyűlés a javaslattételt követő ülésén, vita nélkül határoz. A tiszteletdíj csökkentésének mértéke nem haladhatja meg a képviselő egyhavi tiszteletdíjának összegét.
+(4)
 
-(5) Az Országgyűlés a jelen lévő képviselők kétharmadának szavazatával az (1) bekezdésben meghatározott magatartás ugyanazon ülésszakon belül való folytatása esetén a képviselő jogainak gyakorlását
+(5) Az Országgyűlés az (1) bekezdésben meghatározott magatartás ugyanazon ülésszakon belül való folytatása esetén a képviselő jogainak gyakorlását
 
 a) a második alkalommal hat ülésnapra,
 

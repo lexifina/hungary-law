@@ -23,3 +23,9 @@
 (8b) Az Országgyűlésnek a 40. alcím hatálybalépését megelőzően hivatalban volt elnöke a köztársasági elnök, a miniszterelnök, az Országgyűlés elnöke, az Alkotmánybíróság elnöke és a Legfelsőbb Bíróság elnöke tiszteletdíjáról és juttatásairól szóló 2000. évi XXXIX. törvény 24. § (1) bekezdése és 22. § (1) bekezdése szerinti juttatásra akkor jogosult, ha az egyes törvények Alaptörvénnyel összefüggő módosításáról szóló 2011. évi CCI. törvény hatálybalépéséig az öregségi nyugdíjkorhatárt betöltötte, és a juttatást kérelmezte.
 
 (9) A 124. § (1) bekezdésében és a 127. § (2) bekezdésében foglalt feladatokat 2012. december 31-ig az Országgyűlés Hivatalának gazdasági főigazgatója látja el.
+
+(10) Az Országgyűlésről szóló 2012. évi XXXVI. törvény és azzal összefüggő egyéb törvények módosításáról szóló 2014. évi XIV. törvény (a továbbiakban: Módtv.) hatálybalépését követően megalakuló Országgyűlés alakuló ülése napjától a 115. § (1) bekezdésében meghatározott feladatra köztisztviselői jogviszony nem létesíthető.
+
+(11) Aki az Országgyűlés jelképét a Módtv.-vel megállapított 27/D. és 27/E. §-ának hatálybalépését megelőzően használta, de a hivatkozott rendelkezések alapján jogosulatlan jelképhasználónak minősül, a használatot 2014. december 31-éig köteles megszüntetni.
+
+(12) A Módtv.-vel megállapított 13/A. §-t a Módtv. hatálybalépésekor folyamatban lévő közérdekű adatigénylésekkel kapcsolatos eljárások során is alkalmazni kell.

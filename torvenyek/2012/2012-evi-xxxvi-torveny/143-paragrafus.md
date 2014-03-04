@@ -4,7 +4,7 @@
 
 ## 49. Felhatalmazó rendelkezések
 
-143. § (1) Felhatalmazást kap a Kormány, hogy a névhasználat és jelképhasználat szabályainak betartására vonatkozó ellenőrzés rendjét, valamint a névhasználat és a jelképhasználat 11. § (2) bekezdés a) és b) pontjának megsértése esetén alkalmazandó jogkövetkezményeket rendeletben állapítsa meg.
+143. § (1)
 
 (2) Felhatalmazást kap a honvédelemért felelős miniszter, hogy a Magyar Honvédség és a Katonai Nemzetbiztonsági Szolgálat működésére szolgáló területre a képviselők belépésének szabályait rendeletben állapítsa meg.
 

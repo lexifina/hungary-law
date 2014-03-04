@@ -4,7 +4,7 @@
 
 ## 41. Az Országgyűlési Őrség feladata
 
-125. § (1) Az Országgyűlési Őrség feladata az Országgyűlés védelme, függetlenségének és külső befolyástól mentes működésének biztosítása, az e törvényben meghatározott személyvédelmi, létesítménybiztosítási feladatok biztosítása, valamint az elsődleges tűzoltási és tűzbiztonsági feladatok ellátása.
+125. § (1) Az Országgyűlési Őrség feladata az Országgyűlés védelme, függetlenségének és külső befolyástól mentes működésének biztosítása, tárgyalási rendjének fenntartásával összefüggő, az e törvényben meghatározott személyvédelmi, létesítménybiztosítási feladatok biztosítása, protokolláris díszelgési, valamint az elsődleges tűzoltási és tűzbiztonsági feladatok ellátása.
 
 (2) Az Országgyűlési Őrség
 
