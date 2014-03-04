@@ -1,0 +1,130 @@
+# A Kormány 56/2014. (III. 4.) Korm. rendelete
+
+Magyar Közlöny 2014. évi 33. szám, 2014. március 4. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/c27c6c81ee656911dc776dd3a647d911d2358807/dokumentumok/920f8fde92e7ad17c395dd62f9b96bf7a8938f17/letoltes)
+
+---
+
+A Kormány 56/2014. (III. 4.) Korm. rendelete
+egyes igazságügyi tárgyú kormányrendeleteknek az új Polgári Törvénykönyv hatálybalépésével és egyéb
+törvényi változásokkal összefüggésben szükséges módosításáról
+A Kormány
+a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 47. § (1) bekezdés a) pontjában és
+(1a) bekezdésében kapott felhatalmazás alapján,
+az 1. alcím tekintetében a magyar állampolgárságról szóló 1993. évi LV. törvény 24. § (4) bekezdés d) pontjában kapott
+felhatalmazás alapján,
+a 4. alcím tekintetében az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény 72. §
+(1) bekezdés a) és c) pontjában kapott felhatalmazás alapján,
+az 5. alcím tekintetében az Alaptörvény 15. cikk (2) és (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. A magyar állampolgárságról szóló 1993. évi LV. törvény végrehajtásáról szóló
+125/1993. (IX. 22.) Korm. rendelet módosítása
+1. § (1) A magyar állampolgárságról szóló 1993. évi LV. törvény végrehajtásáról szóló 125/1993. (IX. 22.) Korm. rendelet 3. §
+(6) bekezdése helyébe a következő rendelkezés lép:
+„(6) Az Ápt. 4. § (1), (2) és (4) bekezdésére alapozott honosítási kérelemhez mellékelni kell az alkotmányos
+alapismeretekből tett sikeres vizsgáról szóló igazolást, vagy az Ápt. 4/A. § (2) bekezdésében meghatározott ok
+fennállásának igazolására
+a) a cselekvőképtelen kiskorú születési anyakönyvi kivonatát;
+b) a cselekvőképtelen nagykorú személy gondnokság alá helyezését elrendelő határozatot;
+c) az Ápt. 4/A. § (2) bekezdés a) pontjában meghatározott korlátozottan cselekvőképes személy (a továbbiakban:
+korlátozottan cselekvőképes) esetében,
+ca) ha kiskorú, a születési anyakönyvi kivonatát,
+cb) ha olyan személy, akinek a cselekvőképességét a bíróság az állampolgársági eljárással kapcsolatos ügyek
+tekintetében korlátozta, a gondnokság alá helyezést elrendelő határozatot;
+d) a nevelési-oktatási vagy felsőoktatási intézményben szerzett végzettséget tanúsító bizonyítványt, oklevelet vagy
+az intézmény által kiadott igazolást;
+e) a betegség jellege szerint illetékes egészségügyi szolgáltató igazolását az egészségi állapotról.”
+(2) A magyar állampolgárságról szóló 1993. évi LV. törvény végrehajtásáról szóló 125/1993. (IX. 22.) Korm. rendelet
+3. § (11) bekezdés b) pontjában a „hozzátartozója” szövegrész helyébe a „szülője, nagyszülője, gyermeke, unokája,
+testvére, testvére gyermeke, testvére unokája (a továbbiakban együtt: hozzátartozó)”szöveg lép.
+
+2. A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény
+végrehajtásáról szóló 146/1993. (X. 26.) Korm. rendelet módosítása
+2. §
+A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény végrehajtásáról szóló
+146/1993. (X. 26.) Korm. rendelet
+a) 1. §-ában az „elektronikus úton” szövegrész helyébe az „elektronikus úton, valamint a választási eljárásról
+szóló 2013. évi XXXVI. törvény 89. § (2) bekezdése alapján írásban vagy elektronikus úton a helyi választási
+irodaként eljáró jegyzőnél”szöveg,
+b) 2. §-ában a„visszavonta,” szövegrész helyébe a„visszavonta, illetve – ha a polgár a nyilatkozatot írásban vagy
+elektronikus úton a helyi választási irodaként eljáró jegyzőnél tette meg vagy vonta vissza – a központi szerv”
+szöveg,
+c) 15/D. § (2) bekezdés a) pont aa) alpontjában a „házasságról, a családról és a gyámságról szóló 1952. évi
+IV. törvény (a továbbiakban: Csjt.) 25. § (1) bekezdés a) és d) pontjában és (3) bekezdésében” szövegrész
+helyébe a„Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) 4:27. § (1) bekezdés a) és
+d) pontjában, valamint (3) bekezdésében”szöveg,
+d) 15/D. § (2) bekezdés a) pont ab) alpontjában a „Csjt. 25. § (1) bekezdés b) pont második fordulatában és
+a Csjt. 25. § (1) bekezdés c) pontjában” szövegrész helyébe a„Ptk. 4:27. § (1) bekezdés b) pontjának a feleség
+nevének a férj nevéhez való hozzákapcsolására vonatkozó rendelkezésében és a Ptk. 4:27. § (1) bekezdés
+c) pontjában”szöveg,
+e) 15/D. § (2) bekezdés b) pontjában a „Csjt. 25. § (2) bekezdés a) és b) pontjában és a Csjt. 25. §
+(3) bekezdésében” szövegrész helyébe a „Ptk. 4:27. § (2) bekezdés a) és b) pontjában, valamint
+(3) bekezdésében”szöveg,
+f) 15/D. § (4) bekezdésében a „Csjt. 25. § (1) bekezdés b) és c) pontjában” szövegrész helyébe a „Ptk. 4:27. §
+(1) bekezdés b) és c) pontjában”szöveg,
+g) 30. § (1) bekezdésében a „szülő (törvényes képviselő)” szövegrész helyébe a „szülő, ennek hiányában
+a törvényes képviselő”szöveg,
+h) 30. § (4) bekezdésében a „szülőjének (törvényes képviselőjének)” szövegrész helyébe a „szülőjének, ennek
+hiányában törvényes képviselőjének”szöveg,
+i) 31. § (3) bekezdésében a „cselekvőképességet kizáró” szövegrész helyébe a „cselekvőképességet teljesen
+korlátozó”szöveg,
+j) 31. § (3) bekezdésében a „szülője, illetve gondnoka (törvényes képviselője)” szövegrész helyébe a „törvényes
+képviselője”szöveg,
+k) 41/A. § (2) bekezdésében a „Csjt.” szövegrész helyébe a „Ptk. 4:175. § (3) bekezdése” szöveg, a „jóváhagyás”
+szövegrész helyébe a„döntés”szöveg, a„jóváhagyását”szövegrész helyébe a„döntését”szöveg
+lép.
+3. A személyazonosító igazolvány kiadásáról és nyilvántartásáról szóló
+168/1999. (XI. 24.) Korm. rendelet módosítása
+3. §
+A személyazonosító igazolvány kiadásáról és nyilvántartásáról szóló 168/1999. (XI. 24.) Korm. rendelet
+a) 5. §-ában az „az igazságügyi és rendészeti” szövegrész helyébe az „a személyiadat- és lakcímnyilvántartásért
+felelős”szöveg,
+b) 17. § (4) bekezdésében a „szülőnek (törvényes képviselőnek)” szövegrész helyébe a „törvényes képviselőnek”
+szöveg,
+c) 19. §-ában a „cselekvőképességet kizáró” szövegrész helyébe a „cselekvőképességet teljesen korlátozó”
+szöveg,
+d) 20. §-ában a„hátoldalára közreműködő”szövegrész helyébe a„hátoldalán a közreműködő”szöveg,
+e) 22. § (5) bekezdésében a „cselekvőképességét kizáró” szövegrész helyébe a „cselekvőképességet teljesen
+korlátozó”szöveg,
+f) 25. § (2) bekezdésében a „postai úton” szövegrész helyébe a „postai úton, könyvelt küldeményként” szöveg,
+a „kérelmező részére” szövegrész helyébe a „kérelmező, annak törvényes képviselője vagy meghatalmazottja
+részére”szöveg,
+g) 25. § (3) bekezdésében a „kérelmező személyesen” szövegrész helyébe a „kérelmező, annak törvényes
+képviselője vagy meghatalmazottja”szöveg,
+
+h) 25. § (4) bekezdésében az„A személyesen”szövegrész helyébe az„Az”szöveg,
+i) 26. § (2) bekezdés b) pontjában az„elvételre”szövegrész helyébe az„elvételére”szöveg,
+j) 31. § (3) bekezdésében a „cselekvőképességet kizáró” szövegrész helyébe a „cselekvőképességet teljesen
+korlátozó”szöveg,
+k) 33. § (3) bekezdésében a„postai úton küldi meg” szövegrész helyébe a„postai úton, könyvelt küldeményként
+küldi meg” szöveg, a „személyesen” szövegrész helyébe a „személyesen, törvényes képviselője vagy
+meghatalmazottja útján”szöveg,
+l) 40. § (1) bekezdésében a „cselekvőképtelenség miatt” szövegrész helyébe a „cselekvőképességet teljesen
+korlátozó”szöveg
+lép.
+4. A minisztériumok és a Miniszterelnöki Hivatal által kötött, a nettó ötmillió forintot el nem érő értékű
+szerződésekre vonatkozó adatok közzétételéről szóló 85/2010. (III. 25.) Korm. rendelet módosítása
+4. §
+A minisztériumok és a Miniszterelnöki Hivatal által kötött, a nettó ötmillió forintot el nem érő értékű szerződésekre
+vonatkozó adatok közzétételéről szóló 85/2010. (III. 25.) Korm. rendelet
+a) 1. § (1) bekezdésében a „Miniszterelnöki Hivatal” szövegrész helyébe a „Miniszterelnökség” szöveg,
+az „az államháztartásról szóló 1992. évi XXXVIII. törvény (a továbbiakban: Áht.) 15/B. § (2) bekezdés”
+szövegrész helyébe az „az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi
+CXII. törvény (a továbbiakban: Infotv.) 1. melléklet III. rész 4. pontja”szöveg,
+b) 1. § (2) bekezdésében az „az Áht. 15/B. § (1) bekezdése” szövegrész helyébe az „az Infotv. 1. melléklet III. rész
+4. pontja”szöveg, a„Miniszterelnöki Hivatal”szövegrész helyébe a„Miniszterelnökség”szöveg
+lép.
+5. Hatályon kívül helyező rendelkezések
+5. § (1) Hatályát veszti a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala létrehozásáról, feladatairól és
+hatásköréről szóló 276/2006. (XII. 23.) Korm. rendelet
+a) 4. § (3a) bekezdése,
+b) 12/B. §-a és az azt megelőző alcím.
+(2) Hatályát veszti az anyakönyvi eljárásról szóló 2010. évi I. törvény végrehajtásáról szóló 105/2010. (IV. 9.)
+Korm. rendelet.
+(3) Hatályát veszti az anyakönyvi eljárásokra, az állampolgársági eljárásokra és a személyiadat- és lakcímnyilvántartással
+összefüggő eljárásokra vonatkozó egyes kormányrendeleteknek a Magyary Egyszerűsítési Programmal összefüggő
+módosításáról szóló 417/2012. (XII. 29.) Korm. rendelet.
+6. Záró rendelkezések
+6. §
+Ez a rendelet 2014. március 15-én lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök

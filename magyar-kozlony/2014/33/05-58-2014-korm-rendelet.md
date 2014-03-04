@@ -1,0 +1,103 @@
+# A Kormány 58/2014. (III. 4.) Korm. rendelete
+
+Magyar Közlöny 2014. évi 33. szám, 2014. március 4. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/c27c6c81ee656911dc776dd3a647d911d2358807/dokumentumok/920f8fde92e7ad17c395dd62f9b96bf7a8938f17/letoltes)
+
+---
+
+A Kormány 58/2014. (III. 4.) Korm. rendelete
+az Útravaló Ösztöndíjprogramról szóló 152/2005. (VIII. 2.) Korm. rendelet módosításáról
+A Kormány az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében, az Alaptörvény 15. cikk
+(1) bekezdésében foglalt feladatkörében eljárva az alábbiakat rendeli el:
+1. §
+Az Útravaló Ösztöndíjprogramról szóló 152/2005. (VIII. 2.) Korm. rendelet (a továbbiakban: Rendelet) 9. §-a helyébe
+a következő rendelkezés lép:
+„9. § (1) Az esélyteremtő ösztöndíjak esetében
+a) a tanuló ösztöndíjban és – nem pénzügyi – mentori támogatásban;
+b) a mentor ösztöndíjban
+részesül [a továbbiakban a) és b) pontok együtt: ösztöndíjasok].
+(2) A mentor ösztöndíjának a pályázati kiírásban meghatározott részére – a (3) bekezdésben foglaltakat kivéve – akkor
+válik jogosulttá, ha az általa mentorált tanuló előző év végi tanulmányi átlagát a pályázati kiírásban meghatározott
+mértéket meghaladóan nem rontotta és
+a) az Út a középiskolába ösztöndíj esetében az általa mentorált
+aa) 7. évfolyamos tanuló felsőbb évfolyamba lép, vagy
+ab) 8. évfolyamos tanuló középiskolába vagy szakiskolába felvételt nyert,
+b) az Út az érettségihez ösztöndíj esetében a mentorált tanuló
+ba) felsőbb évfolyamba lép, vagy
+bb) amennyiben az utolsó évfolyamos tanuló sikeres érettségi vizsgát tett,
+c) az Út a szakmához ösztöndíj esetében a mentorált tanuló
+ca) felsőbb évfolyamba lép, vagy
+cb) sikeres szakmai vizsgát tett.
+(3) A mentor az ösztöndíjának a (2) bekezdésben meghatározott részére nem válik jogosulttá, ha az általa mentorált
+tanuló javítóvizsgát vagy sikertelen osztályozó vizsgát tesz.
+(4) Intézményváltás esetén a tanuló ösztöndíjas jogviszonya akkor marad fenn, ha az intézményváltástól számított
+harminc napon belül megnevezi a lebonyolító szervnek azt a köznevelési intézményt, amellyel tanulói jogviszonyt
+létesített, és az új köznevelési intézmény, állami fenntartású intézmény esetében az állami intézményfenntartó
+központ nyilatkozik arról, hogy vállalja az e rendeletben meghatározott feladatok ellátását. Annak a köznevelési
+intézménynek, amellyel a tanuló korábban tanulói jogviszonyban állt, írásban tájékoztatnia kell a tanulót
+az ösztöndíjas jogviszony fennmaradásának feltételeiről. A figyelmeztetés megtörténtét nyilatkozatban kell
+rögzíteni.
+(5) Ha a korábban esélyteremtő ösztöndíjban részesült tanuló és mentora a soron következő tanévben együtt és
+ugyanabban az alprogramban folytatni kívánja az ösztöndíjas jogviszonyt, új pályázatot nem kell benyújtaniuk.
+A tanuló és a mentor az ösztöndíjas jogviszony fenntartására vonatkozó szándékukat írásban jelzik a köznevelési
+intézmény felé, és egyidejűleg nyilatkoznak arról is, hogy a korábbi pályázatban hivatkozott – az ösztöndíjas
+jogviszony alapjául szolgáló – feltételek a jogviszony létrejöttekor hatályos vagy a nyilatkozat megtételekor hatályos
+szabályozás alapján továbbra is fennállnak. Ha a korábban esélyteremtő ösztöndíjban részesült tanuló és mentora
+más alprogramban kíván részt venni, új pályázatot kell benyújtaniuk.
+(6) Amennyiben a tanuló vagy a mentor tekintetében az ösztöndíjra való jogosultság valamely feltétele – a 3. §
+(1) bekezdésben meghatározott, a szociális rászorultságot alátámasztó feltételek kivételével – megszűnik,
+a köznevelési intézmény, állami fenntartású intézmény esetében az állami intézményfenntartó központ a tanulóval,
+valamint annak mentorával megkötött ösztöndíjszerződést – több tanulót mentoráló mentor esetén az érintett
+tanulóra vonatkozó részben – egyoldalúan megszünteti, és erről a lebonyolító szervet 8 munkanapon belül
+
+értesíti. A köznevelési intézmény, állami fenntartású intézmény esetében az állami intézményfenntartó központ
+az ösztöndíjszerződést azon hónap utolsó napjával szünteti meg, amely hónapban az ösztöndíjra való jogosultság
+feltétele megszűnik.
+(7) Amennyiben a 3. § (1) bekezdésben meghatározott, a szociális rászorultságot alátámasztó valamely feltétel
+megszűnik az ösztöndíjas jogviszony időtartama alatt, az az ösztöndíjas jogviszony fennállását nem érinti.
+(8) Amennyiben a tanuló vagy a mentor tekintetében az ösztöndíjra való jogosultság valamely feltétele
+az ösztöndíjas jogviszony létrejöttét megelőzően szűnik meg – ideértve a 9. § (5) bekezdésében meghatározott,
+az ösztöndíjas jogviszony folytatására vonatkozó rendelkezéseket is –, a köznevelési intézmény, állami
+fenntartású intézmény esetében az állami intézményfenntartó központ a tanulóval, valamint annak mentorával
+az ösztöndíjszerződést nem köti meg, és erről a lebonyolító szervet 8 munkanapon belül értesíti.
+(9) A tanuló az ösztöndíjszerződés megkötését megelőzően és az ösztöndíjas jogviszony időtartama alatt az adott
+tanévben indokolt esetben két alkalommal mentorváltást kezdeményezhet a lebonyolító szervnél, ebben
+az esetben a tanuló és törvényes képviselője írásbeli indokolt kérelméhez csatolni kell az átvevő személy mentori
+pályázatát. Amennyiben a lebonyolító szerv engedélyezi, erről értesíti a köznevelési intézményt vagy állami
+fenntartású intézmény esetében az állami intézményfenntartó központot és kezdeményezi az ösztöndíj szerződések
+módosítását, illetve megkötését. Mentorváltás esetén az 5. § (1) bekezdésében meghatározott tanulói létszám nem
+léphető túl.”
+2. § (1) A Rendelet 11/A. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) Az ösztöndíj-támogatási komponens keretében pályázatot nyújthat be az a magyar állampolgár, aki nappali,
+esti vagy levelező munkarendű magyar állami ösztöndíjas, magyar állami részösztöndíjas vagy önköltséges
+vagy a Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló
+2011. évi CXXXII. törvény 21/A. § (1) bekezdés a) pontja szerinti képzésen Magyarország területén működő
+felsőoktatási intézményben alap-, mester vagy osztatlan képzésben hallgatói jogviszonnyal rendelkezik, vagy
+a pályázat kiírásának évében jelentkezését ilyen képzésre beadta amennyiben az adott szintű végzettséggel még
+nem rendelkezik, vagy azonos szintű más képzésben nem vesz részt és a nemzeti felsőoktatásról szóló 2011. évi
+CCIV. törvény (a továbbiakban: Nftv.) szerint hátrányos vagy halmozottan hátrányos helyzetűnek minősül, vagy
+utógondozásban, utógondozói ellátásban részesül.”
+(2) A Rendelet 11/A. § (4) bekezdése helyébe a következő rendelkezés lép:
+„(4) Önköltség-támogatási komponens keretében pályázatot nyújthat be az a magyar állampolgár, aki nappali,
+esti vagy levelező munkarendű magyar állami részösztöndíjas, önköltséges, Magyarország területén működő
+felsőoktatási intézményben alap-, mester vagy osztatlan képzésen hallgatói jogviszonnyal rendelkezik, vagy
+a pályázat kiírásának évében jelentkezését ilyen képzésre beadta amennyiben az adott szintű végzettséggel még
+nem rendelkezik, vagy azonos szintű más képzésben nem vesz részt és az Nftv. szerint halmozottan hátrányos
+helyzetűnek minősül vagy utógondozásban, utógondozói ellátásban részesül.”
+3. §
+A Rendelet
+a) 1. § (2) bekezdés d) pontjában, (4) bekezdésében, és 11/A. § (1) bekezdésében az „Út a felsőoktatásba”
+szövegrész helyébe az„Út a diplomához”,
+b) 7. § (1) bekezdés b) pontjában a„3”szövegrész helyébe a„2”
+szöveg lép.
+4. § (1) Hatályát veszti a Rendelet 12. § 1. és 2. pontja.
+(2) Hatályát veszti a Rendelet
+a) 3. § (1) bekezdésében a„vagy átmeneti nevelésbe vett”és a„vagy utógondozói ellátásban”,
+b) 6. § (1) bekezdés a) pontjában az„átmeneti nevelésbe vett”és a„vagy utógondozói ellátásban”
+szövegrész.
+5. §
+Hatályát veszti az Útravaló Ösztöndíjprogramról szóló 152/2005. (VIII. 2.) Korm. rendelet módosításáról szóló
+143/2011. (VII. 21.) Korm. rendelet.
+6. §
+Ez a rendelet a kihirdetését követő nyolcadik napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
