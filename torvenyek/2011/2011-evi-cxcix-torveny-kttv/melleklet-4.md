@@ -81,5 +81,3 @@ A toborzási adatbázis adatköre
 ## II.
 
 ## 1. szakmai tapasztalat
-
-## 2. munkáltató megnevezése, tevékenységi területe
