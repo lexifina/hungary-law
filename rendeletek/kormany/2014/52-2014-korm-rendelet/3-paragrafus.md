@@ -1,0 +1,1 @@
+## 2. § Hatályát veszti a Kábítószer Vhr. 3. § (1) bekezdésében a „ , kivéve a koncesszióról szóló törvény alapján 1999. július 1. előtt kötött magánjogi szerződések által érintett tevékenységeket. Tevékenységi engedélyt a Ptk. 685. § c) pontja szerinti gazdálkodó szervezet kaphat” szövegrész.
