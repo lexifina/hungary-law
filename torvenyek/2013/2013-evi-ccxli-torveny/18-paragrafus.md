@@ -18,4 +18,8 @@ g) képviseli a Bizottságot az Országgyűlés és más szervek előtt,
 
 h) irányítja a Hivatalt,
 
-i) ellátja azokat a feladatokat, amelyeket a Bizottság ügyrendje számára előír.
+i) ellátja azokat a feladatokat, amelyeket a Bizottság ügyrendje számára előír,
+
+j) kiadja a Hivatal alapító okiratát és jóváhagyja a Hivatal Szervezeti és Működési Szabályzatát, valamint
+
+k) a Bizottság feladat- és hatáskörébe tartozó ügyben a minősített adatok védelméről szóló törvény szerinti minősítésre jogosult.

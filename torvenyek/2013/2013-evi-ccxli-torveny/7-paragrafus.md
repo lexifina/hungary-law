@@ -1,4 +1,4 @@
-7. § (1) A Bizottság választott tagjainak és elnökének megbízatási ideje kilenc év. A Bizottság elnökét és két tagját az Országgyűlés titkos szavazással, a jelen lévő képviselők kétharmadának szavazatával választja meg. A Bizottság elnökének és két tagjának választását az Országgyűlés elnöke tűzi ki.
+7. § (1) A Bizottság választott tagjainak és elnökének megbízatási ideje kilenc év. A Bizottság elnökét és két tagját az Országgyűlés titkos szavazással választja meg. A Bizottság elnökének és két tagjának választását az Országgyűlés elnöke tűzi ki.
 
 (2) A Bizottság tagja és elnöke tisztségében egyszer választható újra vagy bízható meg.
 

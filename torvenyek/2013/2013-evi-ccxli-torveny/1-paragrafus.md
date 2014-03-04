@@ -10,7 +10,7 @@
 
 (3) A Bizottság általános hatáskörrel ellátja a kommunista diktatúrák hatalmi működésének, a hatalmat birtokló személyek és szervezetek szerepének feltárását, és tevékenysége eredményeit átfogó jelentésben, valamint további dokumentumokban közzéteszi.
 
-(4) A Bizottság tagjainak javaslatára önállóan, valamint az Országgyűlés kérésére megállapításokat, jogalkotási javaslatokat tesz, jelentéseket készít, amelyekkel elősegíti a kommunizmus bűneinek feltárását, ezáltal pedig a demokratikus jogállamiság kiteljesedését.
+(4) A Bizottság önállóan, illetve az Országgyűlés kérésére megállapításokat, jogalkotási javaslatokat tesz, jelentéseket készít, amelyekkel elősegíti a kommunizmus bűneinek feltárását, ezáltal pedig a demokratikus jogállamiság kiteljesedését.
 
 (5) A Bizottság kutatásai alapján a büntetőjogilag felelősnek tartott személyekkel szemben büntetőeljárás lefolytatását kezdeményezi a legfőbb ügyésznél.
 

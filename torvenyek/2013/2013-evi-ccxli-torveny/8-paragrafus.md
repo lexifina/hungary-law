@@ -4,4 +4,4 @@
 
 (3) A Bizottság választott tagjának és elnökének nemzetbiztonsági ellenőrzését az Országgyűlés elnöke megválasztásukat követően kezdeményezi. A Bizottság választott tagjának és elnökének nemzetbiztonsági ellenőrzését az Alkotmányvédelmi Hivatal végzi.
 
-(4) Ha az Országgyűlés a jelöltet nem választja meg, a jelölő bizottság új javaslatot tesz.
+(4)
