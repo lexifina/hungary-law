@@ -9,3 +9,5 @@ b) az ország politikai életében irányadó állami döntés, intézkedés
 valósult meg.
 
 (2) A történelmi emlékhelyeket egységes arculatú – magyar és angol, valamint, ha az emlékhely valamely velünk élő nemzetiséghez kapcsolódik, nemzetiségi nyelvű – ismertető táblával kell megjelölni.
+
+(3) A történelmi emlékhely jellegre történő utalást az ingatlan-nyilvántartásban tényként fel kell jegyezni.

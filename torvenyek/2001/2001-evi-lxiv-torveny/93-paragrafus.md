@@ -12,7 +12,7 @@ d) állapítsa meg az örökségvédelmi hatástanulmányra vonatkozó szabályo
 
 e) szabályozza a Bizottság és a NÖRI emlékhelyekkel kapcsolatos feladatait;
 
-f) szabályozza a nemzeti emlékhelyek – köznapi, ünnepi, idegenforgalmi és protokolláris, a nemzeti emlékhely szellemével összhangban álló – használati rendjét;
+f) szabályozza a nemzeti emlékhelyek – köznapi, ünnepi, idegenforgalmi és protokolláris, a nemzeti emlékhely szellemével összhangban álló – használati rendjét, valamint meghatározza a nemzeti emlékhely fenntartható használatát elősegítő támogatási szerződés megkötésével kapcsolatos részletszabályokat;
 
 g) határozza meg a történelmi emlékhelyeket,
 
@@ -40,7 +40,9 @@ r) meghatározza az örökségvédelmi engedélyhez kötött tevékenységeket �
 
 s) meghatározza az építéstörténeti kutatási dokumentáció kötelező tartalmi elemeit;
 
-t) állapítsa meg a kiemelt nemzeti emlékhely nemzeti kulturális értéke megőrzését akadályozó tevékenység megelőzésének és az ellenőrzés rendjét, valamint a Kiemelt Nemzeti Emlékhely Bizottság hozzájárulása iránti kérelem benyújtásának részletes szabályait.
+t) állapítsa meg a kiemelt nemzeti emlékhely nemzeti kulturális értéke megőrzését akadályozó tevékenység megelőzésének és az ellenőrzés rendjét,
+
+u) állapítsa meg – a Kiemelt Nemzeti Emlékhely Bizottság véleményének kikérésével – a kiemelt nemzeti emlékhely területére vonatkozó közterület-használat szabályait és díjait.
 
 (2) Felhatalmazást kap a miniszter, hogy rendeletben megállapítsa
 

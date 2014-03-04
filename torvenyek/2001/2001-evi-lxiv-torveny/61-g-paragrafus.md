@@ -13,3 +13,5 @@ d) a magyar összetartozást vagy a nemzetiségeinknek a magyarsággal való ös
 (3) A kiemelt nemzeti emlékhellyé, nemzeti emlékhellyé nyilvánított helyszíneket a 2. melléklet tartalmazza.
 
 (4) A nemzeti emlékhelyeket egységes arculatú – magyar és angol, valamint, ha az emlékhely valamely velünk élő nemzetiséghez kapcsolódik, nemzetiségi nyelvű – ismertető táblával kell megjelölni.
+
+(5) A nemzeti emlékhely jellegre történő utalást az ingatlan-nyilvántartásban tényként fel kell jegyezni.

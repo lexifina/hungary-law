@@ -30,7 +30,7 @@ A kiemelt nemzeti emlékhely lehatárolása
 
 |
 
-1.
+11.
 
 |
 
@@ -40,17 +40,47 @@ Budapest V. kerület, Kossuth Lajos tér
 
 A Kossuth Lajos tér
 
+|
+
+|
+
 és az Országház épülete
+
+|
+
+|
 
 cím: 1055 Budapest, Kossuth Lajos tér 1–3.
 
+|
+
+|
+
 a Néprajzi Múzeum épülete
+
+|
+
+|
 
 cím: 1055 Budapest, Kossuth Lajos tér 12.
 
+|
+
+|
+
 a Vidékfejlesztési Minisztérium épülete
 
+|
+
+|
+
 cím: 1055 Budapest, Kossuth Lajos tér 11.
+
+|
+
+|
+
+1055 Budapest V. kerület, belterület, 24897/4 hrsz.
 
 II. Nemzeti emlékhely
 

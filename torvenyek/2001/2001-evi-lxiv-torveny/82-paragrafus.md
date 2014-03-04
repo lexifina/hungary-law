@@ -1,6 +1,14 @@
 ## Örökségvédelmi bírság
 
-82. § (1) Azt a természetes vagy jogi személyt és jogi személyiséggel nem rendelkező szervezetet, aki (amely) az e törvényben engedélyhez kötött tevékenységet engedély nélkül vagy attól eltérő módon végzi, illetve a védetté nyilvánított, vagy e törvény erejénél fogva védelem alatt álló kulturális örökség elemeit jogellenesen megsemmisíti, vagy megrongálja, illetve a védett kulturális örökségi elemet kötelezettségének elmulasztásával veszélyezteti, örökségvédelmi bírsággal (a továbbiakban: bírság) kell sújtani.
+82. § (1) Örökségvédelmi bírsággal (a továbbiakban: bírság) kell sújtani azt a természetes vagy jogi személyt és jogi személyiséggel nem rendelkező szervezetet, aki (amely)
+
+a) az e törvényben engedélyhez kötött tevékenységet engedély nélkül vagy attól eltérő módon végzi,
+
+b) a 61/I. § (4) bekezdése szerinti tevékenységet a kiemelt nemzeti emlékhely területén, vagy annak részét képező közterülettel határos ingatlanon a Kiemelt Nemzeti Emlékhely Bizottság előzetes hozzájárulása nélkül vagy az előzetes hozzájárulásban meghatározottaktól eltérő módon végzi,
+
+c) a védetté nyilvánított vagy e törvény erejénél fogva védelem alatt álló kulturális örökség elemeit jogellenesen megsemmisíti vagy megrongálja, valamint
+
+d) a védett kulturális örökségi elemet kötelezettségének elmulasztásával veszélyezteti.
 
 (2) Bírsággal sújtható az, aki a jogszabály által előírt bejelentési kötelezettségének nem tesz eleget.
 
