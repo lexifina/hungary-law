@@ -27,3 +27,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-43-00-00
 | 2013-05-03 | 2013. évi XXXVI. törvény | 2010-43-00-00.20 |
 | 2013-10-01 | 2013. évi CXLIII. törvény | 2010-43-00-00.21 |
 | 2014-01-01 | 2013. évi CCLI. törvény | 2010-43-00-00.22 |
+| 2014-03-04 | 2014. évi XIV. törvény | 2010-43-00-00.23 |
