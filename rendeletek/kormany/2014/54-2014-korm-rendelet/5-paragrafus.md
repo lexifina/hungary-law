@@ -1,1 +1,3 @@
-5. § Hatályát veszti a Magyar Köztársaság Kormánya és az Indonéz Köztársaság Kormánya között az Indonéz Köztársaság részére Magyarország által nyújtandó kötött segélyhitel általános feltételeiről, eljárási rendjéről, intézményi hátteréről és pénzügyi kereteiről szóló keretmegállapodás kötelező hatályának elismerésére adott felhatalmazásról és kihirdetéséről szóló 233/2009. (X. 20.) Korm. rendelet.
+5. §[^3]
+
+[^3]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
