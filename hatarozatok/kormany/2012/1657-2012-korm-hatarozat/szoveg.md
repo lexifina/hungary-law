@@ -30,11 +30,11 @@ Felelős: belügyminiszter
 
 Határidő: 2013. június 30.
 
-4. felhívja az emberi erőforrások miniszterét, hogy az érintettek bevonásával végezze el a 45/2003. (IV. 16.) OGY határozat felülvizsgálatát, és tegyen javaslatot a családon belüli erőszak megelőzésére és hatékony kezelésére vonatkozó kormányzati koncepció kidolgozására a 60/2012. (IX. 18.) OGY határozattal összhangban;
+4.[^1] felhívja az emberi erőforrások miniszterét, hogy az érintettek bevonásával végezze el a 45/2003. (IV. 16.) OGY határozat felülvizsgálatát, és tegyen javaslatot a családon belüli erőszak megelőzésére és hatékony kezelésére vonatkozó kormányzati koncepció kidolgozására a 60/2012. (IX. 18.) OGY határozattal összhangban;
 
 Felelős: az emberi erőforrások minisztere
 
-Határidő: 2013. október 31.
+Határidő: 2014. december 31.
 
 5. felhívja a belügyminisztert a Migrációs stratégia és az azon alapuló, az Európai Unió által a 2014–2020. közötti uniós programozási időszakban létrehozásra kerülő Menekültügyi és Migrációs Alaphoz kapcsolódó 7 éves stratégia kidolgozására;
 
@@ -48,7 +48,7 @@ Felelős: belügyminiszter
 
 Határidő: 2013. augusztus 31.
 
-7.[^1] felhívja a belügyminisztert, hogy a Nemzeti Biztonsági Stratégia alapján dolgozza ki az irányítása alá tartozó Alkotmányvédelmi Hivatal és Nemzetbiztonsági Szakszolgálat tevékenységére vonatkozó nemzetbiztonsági stratégiát azzal, hogy a szakpolitikai stratégia tervezetét nem kell társadalmi véleményezésre bocsátani;
+7.[^2] felhívja a belügyminisztert, hogy a Nemzeti Biztonsági Stratégia alapján dolgozza ki az irányítása alá tartozó Alkotmányvédelmi Hivatal és Nemzetbiztonsági Szakszolgálat tevékenységére vonatkozó nemzetbiztonsági stratégiát azzal, hogy a szakpolitikai stratégia tervezetét nem kell társadalmi véleményezésre bocsátani;
 
 Felelős: belügyminiszter
 
@@ -138,7 +138,7 @@ az érintett miniszterek bevonásával
 
 Határidő: 2013. szeptember 30.
 
-15.[^2]
+15.[^3]
 
 16. felhívja a minisztereket, hogy saját feladatkörükben 2013. február 28-ig tárják fel a deregulálandó kormányzati stratégiai tervdokumentumokat, és tegyék meg a szükséges lépéseket azok hatályon kívül helyezésére.
 
@@ -146,5 +146,6 @@ Felelős: minden miniszter
 
 Határidő: 2013. június 30.
 
-[^1]: A 7. pont az 1813/2013. (XI. 12.) Korm. határozat 2. pontja szerint módosított szöveg.
-[^2]: A 15. pont a 2012: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 4. pont az 1103/2014. (III. 4.) Korm. határozat 1. pontja szerint módosított szöveg.
+[^2]: A 7. pont az 1813/2013. (XI. 12.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^3]: A 15. pont a 2012: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
