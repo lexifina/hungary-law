@@ -168,7 +168,7 @@
 
 | 3.2.1. | Az integrált rendszer kereteinek megteremtése a foglalkoztatási szolgálat infrastruktúrájának fejlesztésével | 0,00 | 6,00 | 0,00 | A projekt célja az aktív munkaerő-piaci politikák eredményességének és hatékonyságának javítása érdekében az ÁFSZ által nyújtott szolgáltatások infrastrukturális feltételeinek fejlesztése, a kapacitások bővítése, új feladatainak ellátásához szükséges feltételek megteremtése, az új szolgáltatási modell kiterjesztése. | Nemzetgazdasági Miniszter |  |
 
-| 3.2.2. | A komplex rehabilitációhoz szükséges infrastrukturális feltételek megteremtése | 0,00 | 1,30 | 0,00 | A komplex rehabilitációs szolgáltatásokhoz való hozzáférés javítása és fejlesztése új telephely létesítésével (modell értékű komplex rehabilitációs központ létrehozása) a konvergencia régióban, továbbá látássérült személyek és komplex rehabilitációt nyújtó szakemberek képzéséhez, továbbképzéséhez szükséges infrastrukturális kapacitások bővítése. | Emberi Erőforrások Miniszter |  |
+| 3.2.2. |  |  |  |  |  |  |  |
 
 | 3.2.3. | A kistérségekben a közösségi szolgáltatások infrastruktúrájának fejlesztése | 0,00 | 8,90 | 0,00 | Modellértékű innovatív, többfunkciós szolgáltató központok kialakítása révén a komplex kistérségi felzárkóztató programokhoz kapcsolódóan az ott élők általános hozzáférési problémáinak enyhítése, ellátásainak korszerűsítése, helyzetük javítása. | Emberi Erőforrások Miniszter |  |
 
@@ -180,7 +180,7 @@
 
 | 3.3.1.B | A közszolgáltatásokhoz való egyenlő esélyű hozzáférés megteremtése: jelnyelvi tolmácsszolgálatok fejlesztése | 0,00 | 0,54 | 0,00 | A jelnyelvi tolmácsszolgálatok kommunikációs centrummá történő fejlesztése, ahol a hallássérült embereken túl a kommunikációjukban egyéb okból akadályozott – pl. beszédfogyatékos –, esetleg halmozottan sérült – pl. siketvak – emberek számára is nyújthatók alapvető kommunikációs szolgáltatások. | Emberi Erőforrások Miniszter |  |
 
-| 3.3.2. | Szociális szolgáltatások fejlesztése támogató technológiai eszközök biztosításával a házi gondozás területén | 0,00 | 1,00 | 0,00 | Szociális szolgáltatások fejlesztése támogató technológiai eszközök biztosításával a házi gondozás területén. | Emberi Erőforrások Miniszter |  |
+| 3.3.2. |  |  |  |  |  |  |  |
 
 | 3.4.1. | Bentlakásos intézmények kiváltása, új kapacitások létesítése | 3,00 | 7,00 | 0,00 | Nagy létszámú bentlakásos intézmények kiváltása a jogszabályi feltételeknek megfelelő, korszerű elhelyezési feltételek biztosítása érdekében "A" komponens: szociális intézmények "B" komponens: gyermekvédelmi intézmények. | Emberi Erőforrások Miniszter |  |
 
@@ -203,4 +203,4 @@
 | A közszolgáltatásokhoz való egyenlő esélyű hozzáférés megteremtése: akadálymentesítés | 0,00 | 4,00 | A fogyatékos emberek, továbbá az időskorú, járókerettel, babakocsival közlekedő, nagycsaládos, mozgásukban vagy kommunikációjukban egyéb okból átmenetileg akadályozott személyek életminőségének javítása a közszolgáltatásokhoz való egyenlő esélyű hozzáférés megvalósítása útján. A kormányzati felelősségi körbe tartozó épületek komplex akadálymentesítése, és az abban nyújtott közszolgáltatások egyenlő esélyű hozzáférhetővé tétele. | Emberi Erőforrások Miniszter |  |  |
 
 [^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: Az 1. melléklet az 1736/2013. (X. 11.) Korm. határozat 5. pont d) alpontja, az 1060/2014. (II. 11.) Korm. határozat 2. pont a) alpontja szerint módosított szöveg.
+[^2]: Az 1. melléklet az 1736/2013. (X. 11.) Korm. határozat 5. pont d) alpontja, az 1060/2014. (II. 11.) Korm. határozat 2. pont a) alpontja, az 1112/2014. (III. 6.) Korm. határozat 1. és 2. pontja szerint módosított szöveg.
