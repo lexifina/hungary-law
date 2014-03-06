@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-1940-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2013-12-13 | 2013-1940-30-22.1 | 1940/2013. (XII. 13.) Korm. határozat |
+| 2014-03-06 | 2013-1940-30-22.2 | 1829/2018. (XII. 27.) Korm. határozat |
