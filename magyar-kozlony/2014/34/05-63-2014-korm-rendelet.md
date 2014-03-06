@@ -1,0 +1,64 @@
+# A Kormány 63/2014. (III. 6.) Korm. rendelete
+
+Magyar Közlöny 2014. évi 34. szám, 2014. március 6. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/c959314a1748f1c0e1a05d6b9ecb9c6b8b80def5/dokumentumok/6b458098fd69c6035fe2ff80f4f3318ef8b90abd/letoltes)
+
+---
+
+A Kormány 63/2014. (III. 6.) Korm. rendelete
+a szépkorúak jubileumi köszöntéséről szóló 255/2008. (X. 21.) Korm. rendelet módosításáról
+A Kormány az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében, az Alaptörvény 15. cikk
+(1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. §
+A szépkorúak jubileumi köszöntéséről szóló 255/2008. (X. 21.) Korm. rendelet (a továbbiakban: R.) 1. §-a a következő
+(4)–(7) bekezdéssel egészül ki:
+„(4) Az (1) bekezdésben meghatározott köszöntés, valamint a (2) bekezdésben meghatározott okirat és juttatás
+nem jár annak, aki az egyes nyugdíjak felülvizsgálatáról, illetőleg egyes nyugdíjkiegészítések megszüntetéséről
+szóló 1991. évi XII. törvény szerinti saját jogán folyósított pótlékra a kárpótlásért felelős miniszter határozata alapján
+érdemtelen.
+(5) A Nyugdíjfolyósító Igazgatóság (a továbbiakban: Igazgatóság) a (4) bekezdésben meghatározott feltétel
+ellenőrzése céljából a tárgyévet megelőző év szeptember 30-áig – a polgárok személyi adatainak és lakcímének
+nyilvántartásáról szóló 1992. évi LXVI. törvény 21. § k) pontja szerint – adatot igényel a Közigazgatási és Elektronikus
+Közszolgáltatások Központi Hivatalától (a továbbiakban: KEKKH) azon, (1) bekezdés szerinti személyek természetes
+személyazonosító adatairól, akik a tárgyévben betöltik az (1) bekezdés szerinti életkort.
+(6) A KEKKH az (5) bekezdés szerinti adatigénylést az igényelt adatokat tartalmazó összesítés megküldésével
+az adatigénylés kézhezvételétől számított 30 napon belül teljesíti. A KEKKH az adattovábbítás teljesítését követően
+haladéktalanul törli az Igazgatóságnak megküldött összesítést.
+(7) Az Igazgatóság a 2. § (1) bekezdése szerinti megkeresés teljesítése céljából az adatigénylés (6) bekezdés szerinti
+teljesítését követő 30 napon belül megküldi a KEKKH-nak a (6) bekezdés szerinti összesítésben szereplő azon
+személyeknek az összesítés szerinti természetes személyazonosító adatait, akik tekintetében a (4) bekezdésben
+meghatározott kizáró körülmény nem áll fenn. Az Igazgatóság az adattovábbítás teljesítését követően
+haladéktalanul törli a KEKKH-nak megküldött adatokat.”
+2. §
+Az R. 2. § (1) és (2) bekezdése helyébe a következő rendelkezések lépnek:
+„(1) A KEKKH a szépkor betöltését megelőzően legalább 60 nappal – a lakóhelyén és a tartózkodási helyén – írásban
+keresi meg a jogosultsági feltételeknek megfelelő szépkorú személyt, hogy a KEKKH által e célra rendszeresített és
+megküldött űrlapon
+a) jelentse be azt a lakcímet, amelyen személyes köszöntés céljából elérhető, vagy amelyre ennek hiányában
+az okirat elküldhető;
+b) jelentse be azt a lakcímet vagy fizetési számlaszámot, amelyre a jubileumi juttatás folyósítását kéri;
+c) adja írásbeli hozzájárulását ahhoz, hogy a köszöntés megszervezése, lebonyolítása, az okirat elkészítése és
+a jubileumi juttatás folyósítása céljából
+ca) az Igazgatóság kezelhesse a nevét, születési nevét, anyja születési nevét, születési helyét és idejét, lakóhelyét,
+tartózkodási helyét (a továbbiakban együtt: személyazonosító adatok), továbbá az a) és a b) pont szerinti adatokat,
+cb) az a) pont szerinti lakcím szerint illetékes települési önkormányzat jegyzője (a továbbiakban: jegyző) kezelhesse
+a személyazonosító adatait és a lakcímet, amelyen személyes köszöntés céljából elérhető.
+(2) Ha a szépkorú személy a köszöntést és az azzal járó jubileumi juttatást nem utasítja vissza, valamint
+az (1) bekezdés c) pont ca) alpontja szerinti hozzájárulást a köszöntés és a juttatás folyósítása érdekében megadta,
+a megfelelően kitöltött űrlap beérkezését követő 5 napon belül a KEKKH elektronikus úton átadja
+a) az (1) bekezdés c) pont ca) alpontja szerinti adatokat az Igazgatóságnak,
+b) az (1) bekezdés c) pont cb) alpontja szerinti adatokat – amennyiben a szépkorú személy a személyes köszöntésre
+igényt tart és az adatkezeléshez hozzájárult – a jegyzőnek.”
+3. §
+Az R. a következő 5. §-sal egészül ki:
+„5. § Az Igazgatóság – a szépkorúak jubileumi köszöntéséről szóló 255/2008. (X. 21.) Korm. rendelet módosításáról
+szóló 63/2014. (III. 6.) Korm. rendelettel (a továbbiakban: Mód.r.) megállapított 1. § (5) bekezdésében foglaltaktól
+eltérően – az 1. § (1) bekezdése szerinti életkort a Mód.r. hatálybalépésének napja és 2014. december 31-e között
+
+betöltő személyek vonatkozásában az 1. § (5) bekezdése szerinti adatigényléssel 2014. április 30-áig keresi meg
+a KEKKH-t.”
+4. §
+Ez a rendelet a kihirdetését követő nyolcadik napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+V. A Kormány tagjainak rendeletei
