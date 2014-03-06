@@ -26,6 +26,7 @@
 
 ## 5.[^1]
 
-1. melléklet az 1736/2013. (X. 11.) Korm. határozathoz
+1. melléklet az 1736/2013. (X. 11.) Korm. határozathoz[^2]
 
 [^1]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. melléklet az 1111/2014. (III. 6.) Korm. határozat 2. pont b) pontja szerint módosított szöveg.

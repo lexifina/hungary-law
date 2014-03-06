@@ -48,7 +48,7 @@
 
 | 2011 | 2012 | 2013 |
 
-| TÁMOP-3.1.15. | Köznevelési reformok operatív megvalósítása |  |  | 5,84 | A pedagógiai reformok eredményes gyakorlati bevezetésének elősegítése az alábbi főbb tevékenységek által: – tájékoztatás, információs napok, – pedagógusok felkészítése az egész napos iskolával kapcsolatos feladatok ellátására, – tanárképzés – hittan, erkölcstan, mindennapos testnevelés, Nemzeti Alaptantervhez illeszkedő egyéb képzések (pl. cigány irodalom, történelem), – pedagógiai szakszolgálatokban dolgozók felkészítése, humán kapacitás bővítése az új feladatok ellátása érdekében, – ellenőrzési és minősítési szakértők képzése (tanfelügyeleti és pedagógus-minősítési feladatokat ellátó szakértők), – pedagógiai szakmai szolgáltatásokhoz kapcsolódó képzések (tantárgygondozó szaktanácsadó), – óvodai neveléshez kapcsolódó szakmai képzések, – KIR fejlesztés. | emberi erőforrások minisztere |  |
+| TÁMOP-3.1.15. |  |  |  |  |  |  |  |
 
 | TÁMOP-3.1.16. | IT szakemberképzés és az informatika, mint lehetőség a hátrányos helyzetű tanulók számára |  |  | 0,5 | Az informatikai szakmák iránti érdeklődés felkeltése pályaorientáció tevékenység megvalósításával, és az informatikai pályában rejlő lehetőségek felhasználása a társadalmi integráció érdekében. | emberi erőforrások minisztere | nemzeti fejlesztési miniszter |
 
@@ -56,7 +56,7 @@
 
 | TÁMOP-5.2.9. | Legyen más a szenvedélyed |  |  | 0,25 | A veszélyeztetett korosztály tagjainak káros szenvedélyektől való távol tartása prevenciós programok elterjesztését szolgáló akcióprogramok által és a reintegráció, reszocializáció elősegítése. | emberi erőforrások minisztere |  |
 
-2. melléklet az 1736/2013. (X. 11.) Korm. határozathoz[^2]
+2. melléklet az 1736/2013. (X. 11.) Korm. határozathoz[^3]
 
 A Társadalmi Infrastruktúra Operatív Program 2011–2013. évekre szóló akcióterve 1. és 3. prioritásának módosítása
 
@@ -74,4 +74,4 @@ A Társadalmi Infrastruktúra Operatív Program 2011–2013. évekre szóló akc
 
 | TIOP-3.4.2 |  |  |  |  |  |  |  |
 
-[^2]: A 2. melléklet az 1060/2014. (II. 11.) Korm. határozat 2. pont b) alpontja szerint módosított szöveg.
+[^3]: A 2. melléklet az 1060/2014. (II. 11.) Korm. határozat 2. pont b) alpontja szerint módosított szöveg.
