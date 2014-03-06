@@ -1,4 +1,4 @@
-## 1.[^1]
+## 1.[^2]
 
 ## 2. jóváhagyja
 
@@ -12,7 +12,7 @@
 
 ## 4. felhívja a Miniszterelnökséget vezető államtitkárt, hogy a Nemzeti Fejlesztési Ügynökség útján biztosítson kiemelt projekt felhívást
 
-## a) a NYDOP-2.1.1. azonosító számú, „A régió történelmi és kulturális örökségének fenntartható hasznosítása, valamint a természeti értékeken alapuló aktív turisztikai programok fejlesztése” című konstrukció keretében a lenti fürdő fejlesztése céljából 1 450 000 000 forint,
+## a)[^3]
 
 ## b) a NYDOP-2.1.1. azonosító számú, „A régió történelmi és kulturális örökségének fenntartható hasznosítása, valamint a természeti értékeken alapuló aktív turisztikai programok fejlesztése” című konstrukció keretében a körmendi Batthyány-Strattmann-kastély fejlesztése céljából 800 000 000 forint,
 
@@ -24,10 +24,11 @@
 
 ## Határidő: azonnal
 
-## 5.[^2]
+## 5.[^4]
 
-1–4. melléklet az 1693/2013. (X. 2.) Korm. határozathoz[^3]
+1. melléklet az 1693/2013. (X. 2.) Korm. határozathoz[^5]
 
-[^1]: Az 1. pontot a 2057/2013. (XII. 31.) Korm. határozat 4. pont a) alpontja visszavonta.
-[^2]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: Az 1–4. mellékletet a 2057/2013. (XII. 31.) Korm. határozat 4. pont a) alpontja visszavonta.
+[^2]: Az 1. pontot a 2057/2013. (XII. 31.) Korm. határozat 4. pont a) alpontja visszavonta.
+[^3]: A 4. pont a) alpontját az 1110/2014. (III. 6.) Korm. határozat 5. § a) pontja visszavonta.
+[^4]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: Az 1–4. mellékletet a 2057/2013. (XII. 31.) Korm. határozat 4. pont a) alpontja visszavonta.

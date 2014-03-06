@@ -1,3 +1,3 @@
-7. melléklet az 1693/2013. (X. 2.) Korm. határozathoz[^6]
+7. melléklet az 1693/2013. (X. 2.) Korm. határozathoz[^11]
 
-[^6]: A 7. mellékletet a 2057/2013. (XII. 31.) Korm. határozat 4. pont a) alpontja visszavonta.
+[^11]: A 7. mellékletet a 2057/2013. (XII. 31.) Korm. határozat 4. pont a) alpontja visszavonta.
