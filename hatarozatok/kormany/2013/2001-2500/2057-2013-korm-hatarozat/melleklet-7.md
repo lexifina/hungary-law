@@ -308,7 +308,7 @@
 
 |  | Akcióterv 2011-2013 ÖSSZESEN (pénzügyi eszközök nélkül, Mrd Ft) | 130,03 |  |  |  |
 
-7. melléklet a 2057/2013. (XII. 31.) Korm. határozathoz
+7. melléklet a 2057/2013. (XII. 31.) Korm. határozathoz[^4]
 
 | 1. | I. Prioritás bemutatása: 1. prioritás: Regionális gazdaságfejlesztés | Nyugat-dunántúli Operatív Program |
 
@@ -351,3 +351,7 @@
 | 1.3.1. | Befektetési környezet fejlesztése | 7,44 | 1,49 | 2,52 | Ipari park címmel rendelkező ipari parkok fejlesztése Inkubátorházak – szolgáltatás-fejlesztéssel egybekötött – építése, bővítése és fejlesztése. Barnamezős területek fejlesztése. Munkahelyteremtéssel egybekötött telephelyfejlesztés támogatása. Széchenyi Tőkealap Kezelő működtetése a helyi foglalkoztatás szempontjából jelentős, de forráshiánnyal küzdő vállalkozások fejlesztésére. | nemzetgazdasági miniszter |  |
 
 |  | 1. Prioritás összesen | 7,44 | 1,66 | 2,52 |  |
+
+| 2. |  |  |
+
+[^4]: A 7. melléklet az 1110/2014. (III. 6.) Korm. határozat 5. pont b) pontja szerint módosított szöveg.

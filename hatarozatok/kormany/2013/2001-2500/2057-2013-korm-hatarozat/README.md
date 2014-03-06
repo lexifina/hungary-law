@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-2057-30
 | 2014-01-01 | 2013-2057-30-22.2 | 2010: CXXX. törvény |
 | 2014-01-17 | 2013-2057-30-22.3 | 1006/2014. (I. 17.) Korm. határozat |
 | 2014-01-20 | 2013-2057-30-22.4 | 1018/2014. (I. 20.) Korm. határozat |
+| 2014-03-06 | 2013-2057-30-22.5 | 1110/2014. (III. 6.) Korm. határozat |
