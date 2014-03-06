@@ -26,28 +26,6 @@
 
 ## Határidő: 2013. június 15.
 
-1. melléklet az 1322/2013. (VI. 12.) Korm. határozathoz
+1. melléklet az 1322/2013. (VI. 12.) Korm. határozathoz[^2]
 
-Az operatív programok további tervezése során alkalmazandó indikatív forrásallokáció
-
-(a rendelkezésre álló források%-ában)
-
-|  | Strukturális A lapok | Kohéziós Alap | Összesen |
-
-| Gazdaságfejlesztési és Innovációs Operatív Program (GINOP) (Tervezhető alapok: ERFA, ESZA) | ~39,40% | 0,00% | ~39,40% |
-
-| Terület- és Településfejlesztési Operatív program (TOP) (Tervezhető alapok: ERFA, ESZA) | ~16,15% | 0,00% | ~16,15% |
-
-| Versenyképes Közép-Magyarország Operatív program (VEKOP) Tervezhető alapok (ERFA, ESZA) | ~3,55% | 0,00% | ~3,55% |
-
-| Emberi Erőforrás Fejlesztési Operatív Program (EFOP) (Tervezhető alapok: ESZA, ERFA) | ~10,94% | 0,00% | ~10,94% |
-
-| Környezeti és Energetikai Hatékonysági Operatív Program (KEHOP) (Tervezhető alapok: Kohéziós Alap, EFA) | ~1,00% | ~13,77% | ~14,77% |
-
-| Közlekedésfejlesztés Operatív Program (KOP) (Tervezhető Alapok: Kohéziós Alap, ERFA) | ~1,27% | ~12,42% | ~13,69% |
-
-| Végrehajtási Koordinációs OP (KOOP) (Tervezhető alap: Kohéziós Alap) | 0,00% | ~1,50% | ~1,50% |
-
-| Összesen | ~72,3% | ~27,7% | 100,0% |
-
-Megjegyzés: A táblázatban szereplő allokációs arányok az Európai Regionális Fejlesztési Alap (ERFA), az Európai Szociális Alap (ESZA) és a Kohéziós Alap (KA) által társfinanszírozott operatív programokra együttesen rendelkezésre álló forrásokhoz viszonyítva értendők.
+[^2]: Az 1. mellékletet az 1122/2014. (III. 6.) Korm. határozat 4. pontja visszavonta.
