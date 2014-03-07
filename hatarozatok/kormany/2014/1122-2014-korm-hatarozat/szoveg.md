@@ -34,10 +34,12 @@ Felelős: Miniszterelnökséget vezető államtitkár
 
 Határidő: operatív programok benyújtásával párhuzamosan
 
-4. visszavonja a 2014–2020 közötti európai uniós fejlesztési források felhasználására vonatkozó programok indikatív prioritásairól szóló 1143/2013. (III. 21.) Korm. határozatot és a 2014–2020 közötti európai uniós fejlesztési források felhasználására irányuló programozási dokumentumok tervezésével kapcsolatos aktuális feladatokról szóló 1322/2013. (VI. 12.) Korm. határozat 1. mellékletét;
+4.[^1]
 
 5. felkéri a nemzetgazdasági minisztert, hogy az érintett tárcák közreműködésével az operatív programok végleges tervezetét terjessze jóváhagyásra a Kormány elé.
 
 Felelős: nemzetgazdasági miniszter
 
 Határidő: 2014. március 31.
+
+[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
