@@ -18,6 +18,9 @@ h) az általa tárgyalt ügyekben nyomon követési tevékenységet végezhet, a
 
 i) a fejlesztéspolitikai célok teljesülése érdekében jogszabály módosítást kezdeményez,
 
-j) a fejlesztések végrehajtásáért felelős szervezetektől beszámolót kérhet, és intézkedési javaslatot fogalmazhat meg.
+j) a fejlesztések végrehajtásáért felelős szervezetektől beszámolót kérhet, és intézkedési javaslatot fogalmazhat meg,
+
+k)[^2] a fejlesztési célú uniós és hazai pénzügyi források tekintetében egyes végrehajtás-felügyeleti feladatokat lát el.
 
 [^1]: Az 1. § g) pontja az 550/2013. (XII. 30.) Korm. rendelet 77. §-ával megállapított szöveg.
+[^2]: Az 1. § k) pontját a 60/2014. (III. 6.) Korm. rendelet 29. §-a iktatta be.
