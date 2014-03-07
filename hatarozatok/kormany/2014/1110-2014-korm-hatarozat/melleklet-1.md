@@ -10,11 +10,7 @@
 
 ## Határidő: közzétételt követő 15 napon belül
 
-## 5. visszavonja
-
-## a) a regionális operatív programok 2011–2013. évekre szóló akcióterveinek megállapításáról és egyes prioritások keretének növeléséről szóló 1693/2013. (X. 2.) Korm. határozat 4. pont a) alpontját,
-
-## b) a regionális operatív programok 2011–2013. évekre szóló akcióterveinek módosításáról és a Nyugat-Dunántúli Operatív Program 5. prioritás keretének növeléséről szóló 2057/2013. (XII. 31.) Korm. határozat 7. mellékletének 2. prioritásra vonatkozó részét.
+## 5.[^1]
 
 1. melléklet az 1110/2014. (III. 6.) Korm. határozathoz
 
@@ -59,3 +55,5 @@
 | 2.3.1. | Helyi, térségi desztináció menedzsment szervezetek létrehozása, fejlesztése | 0,76 | 0,22 | 0,00 | Helyi és térségi Turisztikai Desztináció Menedzsment szervezetek fejlesztése. Balatoni Helyi és térségi Turisztikai Desztináció Menedzsment szervezetek fejlesztése. | nemzetgazda- sági miniszter |  |
 
 | 2. Prioritás összesen | 5,52 | 10,52 | 3,70 |  |
+
+[^1]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
