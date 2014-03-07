@@ -18,11 +18,11 @@ e)[^483] szállítói finanszírozást tartalmazó kifizetési igényléssel egy
 
 (4)[^485] Ha a támogatás kedvezményezettje a központi koordinációs szerv, a támogatási jogviszony a támogatási döntés meghozatalával jön létre.
 
-(5)[^486] Ha a támogatás kedvezményezettje a központi koordinációs szerv, a támogatóként eljáró szervezeti egységet vagy személyt a kedvezményezettként eljáró szervezeti egység vezetője a támogatói tevékenység végzése során nem utasíthatja. Ha a projekt végrehajtása kedvezményezettként a támogatóként eljáró szervezeti egység feladata, a támogatói és kedvezményezetti tevékenység végzését a szervezeti egységen belül személyében el kell különíteni.
+(5)[^486] Ha a támogatás kedvezményezettje a központi koordinációs szerv vagy az irányító hatóság, a támogatóként eljáró szervezeti egységet vagy személyt a kedvezményezettként eljáró szervezeti egység vezetője a támogatói tevékenység végzése során nem utasíthatja. Ha a projekt végrehajtása kedvezményezettként a támogatóként eljáró szervezeti egység feladata, a támogatói és kedvezményezetti tevékenység végzését a szervezeti egységen belül személyében el kell különíteni.
 
 (6) Az egyes eljárási cselekményekre, így különösen a projektek kiválasztására, az ellenőrzésre, a szabálytalanságkezelésre vagy a közbeszerzések ellenőrzésére vonatkozó szabályokat az (5) bekezdésben meghatározott szabályok figyelembevételével kell alkalmazni.
 
-(7)[^487] A központi koordinációs szerv a technikai segítségnyújtás forrásainak felhasználására vonatkozóan részletes eljárásrendet dolgoz ki.
+(7)[^487] A központi koordinációs szerv a technikai segítségnyújtás forrásainak felhasználására vonatkozóan részletes eljárásrendet dolgoz ki, amely tartalmazza a tervezési és támogatás-végrehajtási folyamat tekintetében a központi koordinációs szerv és az irányító hatóság közötti feladatmegosztást.
 
 (8)[^488] Technikai segítségnyújtás projekt esetében az 57/A. § (1) bekezdése szerinti szállítói előleg nem alkalmazható.
 
@@ -34,7 +34,7 @@ e)[^483] szállítói finanszírozást tartalmazó kifizetési igényléssel egy
 [^483]: A 116. § (2) bekezdés e) pontját a 25/2012. (II. 29.) Korm. rendelet 53. §-a iktatta be.
 [^484]: A 116. § (3) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 43. § 214. pontja szerint módosított szöveg.
 [^485]: A 116. § (4) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 43. § 215. pontja szerint módosított szöveg.
-[^486]: A 116. § (5) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 43. § 216. pontja szerint módosított szöveg.
-[^487]: A 116. § (7) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 43. § 217. pontja szerint módosított szöveg.
+[^486]: A 116. § (5) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 43. § 216. pontja, a 61/2014. (III. 6.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^487]: A 116. § (7) bekezdése a 61/2014. (III. 6.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^488]: A 116. § (8) bekezdését a 302/2013. (VII. 29.) Korm. rendelet 48. §-a iktatta be.
 [^489]: A 116. § (9) bekezdését a 302/2013. (VII. 29.) Korm. rendelet 48. §-a iktatta be, szövege az 548/2013. (XII. 30.) Korm. rendelet 43. § 218. pontja szerint módosított szöveg.

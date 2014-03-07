@@ -1,4 +1,4 @@
-## 116/B. §[^493] A technikai segítségnyújtás projektjeire a 17., 18., 21., 22., 24., 26–28., 31., 33. és 35. alcímet alkalmazni kell azzal, hogy közreműködő szervezet, irányító hatóság alatt központi koordinációs szervet kell érteni.
+## 116/B. §[^493]
 
 ## 47. [^494] A közműberuházásokra vonatkozó szabályok
 
@@ -8,5 +8,5 @@
 
 (3) A Kedvezményezett megküldi a közreműködő szervezet részére a közszolgáltató kiválasztásával vagy kijelölésével kapcsolatos dokumentumokat és az arra vonatkozó nyilatkozatot, hogy az abban foglalt adatok teljes körűek és a valóságnak megfelelnek.
 
-[^493]: A 116/B. §-t az 548/2013. (XII. 30.) Korm. rendelet 38. §-a iktatta be.
+[^493]: A 116/B. §-t az 548/2013. (XII. 30.) Korm. rendelet 38. §-a iktatta be, hatályon kívül helyezte a 61/2014. (III. 6.) Korm. rendelet 4. §-a.
 [^494]: A 47. alcím (117–118. §) a 302/2013. (VII. 29.) Korm. rendelet 49. §-ával megállapított szöveg.

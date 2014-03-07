@@ -32,6 +32,8 @@ b) 33. § (8) bekezdés h) pontját az e rendelet hatálybalépését megelőző
 
 (11)[^517] E rendeletnek a 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alapból, az Európai Szociális Alapból és a Kohéziós Alapból származó támogatások felhasználásának rendjéről szóló 4/2011. (I. 28.) Korm. rendelet módosításáról szóló 548/2013. (XII. 30.) Korm. rendelettel (a továbbiakban: Módr.5) megállapított rendelkezéseit a Módr.5 hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
 
+(12)[^518] E rendeletnek a 2007-2013 programozási időszakban az Európai Regionális Fejlesztési Alapból, az Európai Szociális Alapból és a Kohéziós Alapból származó támogatások felhasználásának rendjéről szóló 4/2011. (I. 28.) Korm. rendelet módosításáról szóló 61/2014. (III. 6.) Korm. rendelettel (a továbbiakban: Módr.6) megállapított rendelkezéseit a Módr.6 hatálybalépésekor[^519] folyamatban lévő ügyekben is alkalmazni kell.
+
 [^506]: A 121/B. §-t az 548/2013. (XII. 30.) Korm. rendelet 39. §-a iktatta be.
 [^507]: A 122. § (5) bekezdését a 153/2011. (VIII. 10.) Korm. rendelet 5. §-a iktatta be, szövege a 25/2012. (II. 29.) Korm. rendelet 57. §-ával megállapított szöveg.
 [^508]: A hatálybalépés napja: 2012. március 1.
@@ -44,3 +46,5 @@ b) 33. § (8) bekezdés h) pontját az e rendelet hatálybalépését megelőző
 [^515]: A hatálybalépés időpontja 2013. október 9.
 [^516]: A 122. § (10) bekezdését a 469/2013. (XII. 11.) Korm. rendelet 1. § (3) bekezdése iktatta be.
 [^517]: A 122. § (11) bekezdését az 548/2013. (XII. 30.) Korm. rendelet 40. §-a iktatta be.
+[^518]: A 122. § (12) bekezdését a 61/2014. (III. 6.) Korm. rendelet 2. §-a iktatta be.
+[^519]: A hatálybalépés időpontja 2014. március 7.

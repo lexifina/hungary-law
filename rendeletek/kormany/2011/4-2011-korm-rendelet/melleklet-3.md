@@ -12,7 +12,7 @@
 
 |  | Prioritás | Többletkötelezettség- vállalás összege (Mrd Ft) | Többletkötelezettség- vállalás összegének tervezett EU része (Mrd Ft) | Többletkötelezettség- vállalás összegének tervezett Hazai része (Mrd Ft) | Hazai részből tervezett public saját erő (Mrd Ft) | Többletkötelezettség- vállalás összegéből tervezett kifizetése – éves bontásban– 2012–2015 |
 
-3. melléklet a 4/2011. (I. 28.) Korm. rendelethez[^533]
+3. melléklet a 4/2011. (I. 28.) Korm. rendelethez[^535]
 
 Az irányító hatóság és a közreműködő szervezet kijelölése
 
@@ -124,4 +124,4 @@ Az irányító hatóság és a közreműködő szervezet kijelölése
 
 | 53 | Végrehajtás Operatív Program |  |  | a Kormány európai uniós források felhasználásáért felelős tagja | - |
 
-[^533]: A 3. melléklet az 548/2013. (XII. 30.) Korm. rendelet 42. §-ával megállapított szöveg
+[^535]: A 3. melléklet az 548/2013. (XII. 30.) Korm. rendelet 42. §-ával megállapított szöveg
