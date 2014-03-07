@@ -144,7 +144,7 @@
 
 | 3. | 1. | 52 | 343 | 01 | Közbeszerzési referens | Közgazdasági szakmacsoport |
 
-2. melléklet a 12/2013. (III. 29.) NFM rendelethez*
+2. melléklet a 12/2013. (III. 29.) NFM rendelethez*[^2]
 
 I.
 
@@ -1472,7 +1472,7 @@ szoftverrel
 
 A vizsgafeladat ismertetése: A gyakorlati vizsgán a jelölt egy előre definiált és számítógépen rögzített projektterv és feladatspecifikáció alapján további tevékenységeket végez. Feladatai a következők lehetnek: tevékenységek struktúrájának végleges kialakítása a feladatleírás alapján, erőforrások hozzárendelése, költségek, határidők megadása, nyomon követés, tények rögzítése, terv-tény összehasonlítás. Jelentések lekérdezése (CASH-FLOW, Projektköltség, erőforrások felhasználása, feladatütemezések).
 
-Az esettanulmány valós vállalati problémán alapul. Megoldásában a jelöltnek használnia kell azokat az informatikai eszközöket, melyeknek az alkalmazását a 1185-12 modulban elsajátított.
+Az esettanulmány valós vállalati problémán alapul. Megoldásában a jelöltnek használnia kell azokat az informatikai eszközöket, melyeknek az alkalmazását a 10822-12 (Informatika alkalmazása) modulban elsajátított.
 
 A vizsgafeladat időtartama: 120 perc
 
@@ -4856,7 +4856,7 @@ B)
 
 A vizsgafeladat megnevezése: Hálózati szolgáltatások telepítése és üzemeltetése
 
-A vizsgafeladat ismertetése: A gyakorlati vizsgán a jelölt egy összetett feladatot old meg a 10828-12 számú „Vállalati hálózatok üzemeltetése és felügyelete”, a 10827-12 számú „Hálózati operációs rendszerek és szolgáltatások” modul témaköreiben, az általa megismert hardver/szoftver eszközök felhasználásával.
+A vizsgafeladat ismertetése: A gyakorlati vizsgán a jelölt egy összetett feladatot old meg a 10828-12 számú „Vállalati hálózatok üzemeltetése és felügyelete”, a 10817-12 számú „Hálózatok, programozás és adatbázis-kezelés” modul témaköreiben, az általa megismert hardver/szoftver eszközök felhasználásával.
 
 A vizsgafeladat időtartama: 150 perc
 
@@ -5998,4 +5998,4 @@ A vizsgafeladat ismertetése: A gyakorlati vizsgán a jelölt kapcsolódik egy S
 
 A vizsgafeladat időtartama: 30 perc
 
-A vizsgafeladat értékelési súlyaránya: 5%
+[^2]: A 2. melléklet a 11/2014. (III. 6.) NFM rendelet 2. §-a szerint módosított szöveg.
