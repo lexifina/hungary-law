@@ -1,0 +1,3 @@
+## 1. § A 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alapból, az Európai Szociális Alapból és a Kohéziós Alapból származó támogatások felhasználásának rendjéről szóló 4/2011. (I. 28.) Korm. rendelet (a továbbiakban: Rendelet) 116. § (7) bekezdése helyébe a következő rendelkezés lép:
+
+## „(7) A központi koordinációs szerv a technikai segítségnyújtás forrásainak felhasználására vonatkozóan részletes eljárásrendet dolgoz ki, amely tartalmazza a tervezési és támogatás-végrehajtási folyamat tekintetében a központi koordinációs szerv és az irányító hatóság közötti feladatmegosztást.”
