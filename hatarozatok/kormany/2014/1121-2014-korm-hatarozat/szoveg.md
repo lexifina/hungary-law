@@ -38,6 +38,6 @@ vidékfejlesztési miniszter
 
 Határidő: 2015. december 22.
 
-2. A KEOP-7.9.0/12-2013-0007 azonosító számú („A Kvassay Jenő Terv elkészítése és a Vízgyűjtő-gazdálkodási Terv felülvizsgálata” című) projekt támogatásának jóváhagyásáról szóló 1940/2013. (XII. 13.) Korm. határozat 1. mellékletében foglalt táblázat C:2 mezőjében a „Nemzeti Környezetügyi Intézet” szövegrész helyébe az „Országos Vízügyi Főigazgatóság” szöveg lép.
+2–3.[^1]
 
-3. A Kormány a 2014–2020 közötti források felhasználásának előfeltételeiként meghatározott, a víz szektort érintő ex-ante kondicionalitások teljesítéséről szóló 1287/2013. (V. 28.) Korm. határozatot visszavonja.
+[^1]: A 2–3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
