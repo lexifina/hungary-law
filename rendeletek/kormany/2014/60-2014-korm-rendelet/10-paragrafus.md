@@ -1,0 +1,7 @@
+## 9. § A FAIR számára történő adatszolgáltatással az adatszolgáltató hozzájárul, hogy az adatgazda a szolgáltatott adatokat kezelje. Származtatott adatok esetében az adatszolgáltató köteles biztosítani valamennyi származtatott adat adatgazdájának azonos tartalmú hozzájárulását.
+
+10. § (1) A fejlesztési források felhasználásáért felelős szervezetek eljárásaik során a FAIR alrendszereibe rögzítendő, vagy abba továbbítandó adatokat a keletkezést, illetve beérkezést követően haladéktalanul, de legkésőbb két munkanapon belül rögzítik, vagy továbbítják. Ha az adatrögzítést, vagy adattovábbítást akadályozó tényező merül fel, az érintett szervezet az ok megjelölésével az akadályozó tényező felmerülését követő két munkanapon belül köteles az alkalmazásgazdát értesíteni.
+
+(2) Az adatrögzítésben, adattovábbításban résztvevő szervezetek felelősek a FAIR alrendszereibe történő hibátlan adatrögzítés, vagy adattovábbítás feltételeinek megteremtéséért, és ezen szervezetek tevékenysége során keletkezett, illetve rögzített, vagy továbbított adatok helyességéért és valódiságáért.
+
+(3) Ha az adatrögzítésért felelős személy az adatrögzítési kötelezettségének nem, vagy nem teljes körűen tesz eleget, – a 18. §-ban és a 21. §-ban meghatározott kivétellel – a monitoring egység az érintett személy, illetve projekt valamennyi támogatásának kifizetését felfüggesztheti, amíg a felelős e rendelet szerinti kötelezettségének eleget nem tesz.

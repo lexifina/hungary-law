@@ -1,0 +1,1 @@
+## 17. § A monitoring egység biztosítja, hogy a Fejlesztéspolitikai Adatbázis és Informatikai Rendszer Európai Uniós Programok Rendszere (a továbbiakban: FAIR EUPR) a FAIR KR felé teljesítendő adatszolgáltatást automatikusan teljesítse.
