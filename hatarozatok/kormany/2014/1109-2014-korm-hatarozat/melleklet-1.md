@@ -8,10 +8,8 @@
 
 ## 3. hozzájárul a 2. pontban meghatározott projektek támogatási szerződésének módosításához,
 
-## 4. visszavonja a Környezet és Energia Operatív Program 2011–2013. évekre szóló akcióterve 1. prioritásának módosításáról szóló 1064/2014. (II. 18.) Korm. határozat 1. pontját és 1. mellékletét.
-
-## Felelős: nemzeti fejlesztési miniszter
-
-## Határidő: azonnal
+## 4.[^1]
 
 1. melléklet az 1109/2014. (III. 6.) Korm. határozathoz
+
+[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
