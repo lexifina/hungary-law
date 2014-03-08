@@ -1,0 +1,1 @@
+## 7. § Nemzetközi tanfolyamon, valamint e rendelet hatálybalépése előtt két éven túl hazai tanfolyamon HMK témájú szakkiképzésben részesült és eredményes záróvizsgát tett személynek az e rendelet szerinti tevékenység végezéséhez a 2. mellékletben meghatározott követelmények alapján különbözeti vizsgát kell tennie. A minősítés megjelölése: harctéri mentőkatona.

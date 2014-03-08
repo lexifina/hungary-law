@@ -1,0 +1,1 @@
+## 9. § HMK témájú egészségügyi szakkiképzésben részesült és eredményes záróvizsgát tett személynek a MES minősítés megszerzéséhez, a 3. és 4. mellékletben meghatározott követelmények alapján kétszáznyolcvan órás kiegészítő tanfolyam elvégzését követően különbözeti vizsgát kell tennie. A minősítés megjelölése: műveleti egészségügyi specialista.
