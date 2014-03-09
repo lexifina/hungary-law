@@ -1,4 +1,4 @@
-## 12. § Hatályát veszti a katonai feladat végrehajtása közben elvégezhető egészségügyi tevékenységek és ezek elvégzéséhez szükséges szakkiképzés követelményeiről szóló 15/2012. (VII. 30.) HM rendelet.
+## 12. §[^1]
 
 1. melléklet a 2/2014. (II. 28.) HM rendelethez
 
@@ -109,3 +109,5 @@
 5.5.3. a jelölt sikertelen záróvizsga vagy egyéb igazolt távollét esetén, legfeljebb egy alkalommal a tanfolyamra ismételten beiskolázható,
 
 5.6. a záróvizsgára vonatkozó egyéb rendelkezéseket a Vizsgaszabályzat tartalmazza.
+
+[^1]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
