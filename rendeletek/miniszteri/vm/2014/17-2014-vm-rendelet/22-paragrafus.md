@@ -1,0 +1,1 @@
+## 21. § Ez a rendelet az Európai Halászati Alapból nyújtandó támogatásról szóló 2006. július 27-i 1198/2006/EK tanácsi rendelet 37., 38., 40. és 41. cikkének végrehajtásához szükséges rendelkezéseket állapítja meg.
