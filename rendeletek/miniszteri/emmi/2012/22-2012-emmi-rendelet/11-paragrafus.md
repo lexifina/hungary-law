@@ -10,7 +10,7 @@ b) olyan foglalkoztatásban áll, ahol a munkavégzési kötelezettsége – a s
 
 (3) Az idegsebészet, valamint az ortopédia és traumatológia szakképesítések kivételével az 1. mellékletben szereplő szakképesítések
 
-a)[^8] gyermekgondozási segély jogosultsági ideje alatt és a jogosultság megszűntét követő öt évben,
+a)[^8] a gyermekgondozási díj és a gyermekgondozási segély jogosultsági ideje alatt, valamint a jogosultság megszűntét követő öt évben,
 
 b) nappali tagozatos képzés keretében doktori fokozat megszerzésének ideje alatt, vagy
 
@@ -22,4 +22,4 @@ c) újabb alap, vagy ráépített szakképesítés teljesítésének ideje alatt
 
 [^6]: A 10. § a 2/2013. (I. 2.) EMMI rendelet 37. §-a szerint módosított szöveg.
 [^7]: A 11. § (2) bekezdése a 69/2013. (XI. 19.) EMMI rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^8]: A 11. § (3) bekezdés a) pontja a 69/2013. (XI. 19.) EMMI rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^8]: A 11. § (3) bekezdés a) pontja a 14/2014. (III. 10.) EMMI rendelet 23. §-ával megállapított szöveg.

@@ -150,9 +150,9 @@
 
 | 24. | Gyermek-tüdőgyógyászat | csecsemő- és gyermekgyógyászat | (60) + 25 hó |
 
-| 25. | Igazságügyi pszichiátria | pszichiátria | (60) + 36 hó |
+| 25. | Igazságügyi pszichiátria | pszichiátria | (60) + 24 hó |
 
-| 26. | gyermek- és ifjúság-pszichiátria | (60) + 36 hó |
+| 26. | gyermek- és ifjúság-pszichiátria | (60) + 24 hó |
 
 | 27. | Intenzív terápia | belgyógyászat, kardiológia, neurológia, tüdőgyógyászat | (60) + 24 hó |
 
@@ -326,4 +326,4 @@
 
 | 7. | 2.1. Molekuláris biológiai diagnosztika | klinikai mikrobiológia, klinikai biokémia | 24 hó |
 
-[^11]: Az 1. melléklet a 2/2013. (I. 2.) EMMI rendelet 36. § (1) bekezdése, a 69/2013. (XI. 19.) EMMI rendelet 12. § (1) bekezdése szerint módosított szöveg.
+[^11]: Az 1. melléklet a 2/2013. (I. 2.) EMMI rendelet 36. § (1) bekezdése, a 69/2013. (XI. 19.) EMMI rendelet 12. § (1) bekezdése, a 14/2014. (III. 10.) EMMI rendelet 24. § a) pontja szerint módosított szöveg.

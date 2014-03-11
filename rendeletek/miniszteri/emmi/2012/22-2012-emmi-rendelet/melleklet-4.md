@@ -626,51 +626,43 @@
 
 ## 16. IGAZSÁGÜGYI PSZICHIÁTRIA
 
-## 1. IGAZSÁGÜGYI PSZICHIÁTRIA I.
+## 1. Képzés belépési feltétele:
 
-## 1.1. Képzés belépési feltétele: pszichiátria szakvizsga
+## a) gyermek- és ifjúságpszichiátria vagy pszichiátria szakvizsga és
 
-## 1.2. Képzési idő: 96 hó: 60 hó alapképzés + 36 hó ráépített képzés
+## b) 24 hó szakorvosi gyakorlat
 
-## 1.3. Képzési program: 36 hó felnőtt pszichiátriai gyakorlat:
+## ba) területi ellátást végző felnőtt pszichiátriai osztályos ellátásban vagy
 
-## a) 24 hó területi ellátást végző felnőtt, valamint gyermek- és ifjúságpszichiátriai osztályos és járóbeteg-ellátási gyakorlat
+## bb) kényszergyógykezelést végző felnőtt pszichiátriai osztályos ellátásban.
 
-## b) 6 hó területi ellátást végző gyermek- és ifjúságpszichiátriai osztályos gyakorlat
+## 2. Képzési idő: 108 hó: 60 hó alapképzés + 24 hó szakorvosi gyakorlat az 1. b) pont szerint + 24 hó ráépített képzés
 
-## c) 6 hó igazságügyi pszichiátriai tevékenység, benne: 1 hó kényszergyógykezelést végző intézetben
+## 3. Képzési program: 24 hó igazságügyi pszichiátriai tevékenység igazságügyi pszichiátria oktatására akkreditált képzőhelyen, benne:
 
-## 1.4. Szakvizsgára bocsátás egyéb feltételei
+## a) 1 hó gyakorlat kényszergyógykezelést végző intézetben az 1. b) pont ba) alpontja szerint letöltött szakorvosi gyakorlat esetén, illetve
 
-## a) 50 igazságügyi pszichiátriai szakvélemény elkészítése (25-25 büntető- és polgári peres eljárásban)
+## b) 1 hó gyakorlat felnőtt pszichiátriai ellátást végző egyetemi akkreditált képzőhelyen az 1. b) pont bb) alpontja szerint letöltött szakorvosi gyakorlat esetén
 
-## b) igazságügyi pszichiátriai tanfolyam
+## 4. Szakvizsgára bocsátás egyéb feltételei
 
-## 2. IGAZSÁGÜGYI PSZICHIÁTRIA II.
+## a) 47 igazságügyi pszichiátriai szakértői vélemény elkészítésében közreműködés:
 
-## 2.1. Képzés belépési feltétele: gyermek- és ifjúságpszichiátria szakvizsga
+## aa) személyes vizsgálat és véleményadás büntetőeljárásban (25 eset),
 
-## 2.2. Képzési idő: 96 hó: 60 hó alapképzés + 36 hó ráépített képzés
+## ab) személyes vizsgálat és véleményadás polgári peres eljárásban, illetve iratok alapján (gondnokság, szerződés érvénytelensége, végrendelet érvénytelensége, kártérítés), (20 eset), valamint
 
-## 2.3. Képzési program:
+## ac) kényszergyógykezelés szükségességének felülvizsgálata (2 eset),
 
-## 36 hó gyermek- és ifjúságpszichiátriai, valamint felnőtt pszichiátriai gyakorlat:
+## b) személyes vizsgálat és véleményadás össz-szervezeti egészségkárosodás megállapítására (7 eset),
 
-## a) 24 hó területi ellátást végző felnőtt pszichiátriai osztályos és járóbetegellátási gyakorlat, ebben: 5 hó igazságügyi pszichiátriai tevékenység, benne:
+## c) bíróság által elrendelt elmeállapot megfigyelés lefolytatása és véleményadás (6 eset), valamint
 
-## aa) 1 hó kényszergyógykezelést végző intézetben
+## d) tanfolyami képzés:
 
-## ab) 3 hét kényszergyógykezelést végző intézetben (Igazságügyi Megfigyelő és Elmegyógyító Intézet)
+## da) igazságügyi pszichiátria tanfolyam (40 óra) és
 
-## b) 6 hó területi ellátást végző gyermek- és ifjúságpszichiátriai fekvőbeteg intézetben
-
-## c) 6 hó területi ellátást végző gyermek- és ifjúságpszichiátriai járóbeteg-ellátásban
-
-## 2.4. Szakvizsgára bocsátás egyéb feltételei
-
-## a) 50 igazságügyi pszichiátriai szakvélemény elkészítése (25-25 büntető- és polgári peres eljárásban)
-
-## b) igazságügyi pszichiátriai tanfolyam
+## db) igazságügyi pszichiátria – szakértői és jogi ismeretek tanfolyam (24 óra)
 
 ## 17. INTENZÍV TERÁPIA
 

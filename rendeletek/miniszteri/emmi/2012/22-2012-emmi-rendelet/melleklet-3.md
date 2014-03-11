@@ -2188,4 +2188,4 @@
 
 3. melléklet a 22/2012. (IX. 14.) EMMI rendelethez[^13]
 
-[^13]: A 3. melléklet a 2/2013. (I. 2.) EMMI rendelet 36. § (3) bekezdése, a 69/2013. (XI. 19.) EMMI rendelet 12. § (3) bekezdése szerint módosított szöveg.
+[^13]: A 3. melléklet a 2/2013. (I. 2.) EMMI rendelet 36. § (3) bekezdése, a 69/2013. (XI. 19.) EMMI rendelet 12. § (3) bekezdése, a 14/2014. (III. 10.) EMMI rendelet 24. § b) pontja szerint módosított szöveg.
