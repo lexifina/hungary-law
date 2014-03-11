@@ -274,7 +274,7 @@
 
 ## 5. Analitikai kémia
 
-## 6.[^26] Gyógyszerkémia, a gyógyszerek vizsgálatát is beleértve
+## 6.[^30] Gyógyszerkémia, a gyógyszerek vizsgálatát is beleértve
 
 ## 7. Általános és alkalmazott biokémia (orvosi)
 
@@ -290,7 +290,7 @@
 
 ## 13. Farmakognózis
 
-## 14.[^27] Jogi szabályozás és szakmai etika, ahol helyénvaló
+## 14.[^31] Jogi szabályozás és szakmai etika, ahol helyénvaló
 
 ## 15. Az elméleti és a gyakorlati képzés közötti egyensúly minden tantárgy esetében úgy alakítandó, hogy az elméleti oktatás elég súlyt kapjon, hogy ezáltal fennmaradjon a képzés egyetemi jellege
 
@@ -342,7 +342,7 @@
 
 ## 1.1.11. a tanítás alapelvei és módszerei
 
-## 1.1.12.[^28] Egészségügyi és szociális jogi szabályozás és az egészségügy szervezete
+## 1.1.12.[^32] Egészségügyi és szociális jogi szabályozás és az egészségügy szervezete
 
 ## 1.1.13. szakmai etika és szakmai jogi szabályozás
 
@@ -360,7 +360,7 @@
 
 ## 1.2.4. szülészeti és nőgyógyászati patológia
 
-## 1.2.5.[^29] felkészítés a szülésre és a szülővé válásra, a pszichológiai szempontok figyelembevételével
+## 1.2.5.[^33] felkészítés a szülésre és a szülővé válásra, a pszichológiai szempontok figyelembevételével
 
 ## 1.2.6. felkészítés a szülésre (beleértve a nőgyógyászati eszközök használatát)
 
@@ -420,10 +420,10 @@
 
 ## e) kellő hozzáértés az egészségügyi személyzet képzése terén és tapasztalat az ilyen személyzettel végzett munka terén.
 
-2. melléklet a 30/2008. (VII. 25.) EüM rendelethez[^30]
+2. melléklet a 30/2008. (VII. 25.) EüM rendelethez[^34]
 
-[^26]: Az 1. melléklet VI. 2. c) pont 6. alpontja az 50/2009. (XII. 30.) EüM rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^27]: Az 1. melléklet VI. 2. c) pont 14. alpontja az 50/2009. (XII. 30.) EüM rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^28]: Az 1. melléklet VII. 1. b) pont 1.1.12. alpontja az 50/2009. (XII. 30.) EüM rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^29]: Az 1. melléklet VII. 1. b) pont 1.2.5. alpontja az 50/2009. (XII. 30.) EüM rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^30]: A 2. melléklet az 50/2009. (XII. 30.) EüM rendelet 3. § (2) bekezdés a) pontjával megállapított szöveg.
+[^30]: Az 1. melléklet VI. 2. c) pont 6. alpontja az 50/2009. (XII. 30.) EüM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^31]: Az 1. melléklet VI. 2. c) pont 14. alpontja az 50/2009. (XII. 30.) EüM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^32]: Az 1. melléklet VII. 1. b) pont 1.1.12. alpontja az 50/2009. (XII. 30.) EüM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^33]: Az 1. melléklet VII. 1. b) pont 1.2.5. alpontja az 50/2009. (XII. 30.) EüM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^34]: A 2. melléklet az 50/2009. (XII. 30.) EüM rendelet 3. § (2) bekezdés a) pontjával megállapított szöveg.

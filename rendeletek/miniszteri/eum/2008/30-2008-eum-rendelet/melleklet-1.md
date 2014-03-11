@@ -1,3 +1,3 @@
-1. melléklet a 30/2008. (VII. 25.) EüM rendelethez[^25]
+1. melléklet a 30/2008. (VII. 25.) EüM rendelethez[^29]
 
-[^25]: Az 1. melléklet az 50/2009. (XII. 30.) EüM rendelet 3. § (1) bekezdése szerint módosított szöveg.
+[^29]: Az 1. melléklet az 50/2009. (XII. 30.) EüM rendelet 3. § (1) bekezdése szerint módosított szöveg.
