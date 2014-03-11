@@ -14,9 +14,9 @@ cb) iskolarendszerű egészségügyi szakképzést folytató intézmények – a
 
 ## végzik.
 
-(3)[^1] A továbbképzés szervezési jog megszerzésére irányuló kérelmet az Egészségügyi Szakképzési és Továbbképzési Tanács (a továbbiakban: ESZTT) részére évente egy alkalommal, minden év október 30-ig lehet benyújtani.
+(3)[^2] A továbbképzés szervezési jog megszerzésére irányuló kérelmet az Egészségügyi Engedélyezési és Közigazgatási Hivatal (a továbbiakban: EEKH) részére évente egy alkalommal, minden év október 30-ig lehet benyújtani.
 
-(4)[^2] A kötelező szakmacsoportos továbbképzés szervezésére való jogosultság (a továbbiakban: továbbképzés szervezési jog) odaítéléséről az ESZTT javaslatára a miniszter évente két alkalommal, május 31-ig és december 31-ig dönt.
+(4)[^3] A kötelező szakmacsoportos továbbképzés szervezésére való jogosultság (a továbbiakban: továbbképzés szervezési jog) odaítéléséről az EEKH elnöke a GYEMSZI és a Szakmai Kollégium véleményének kikérését követően minden év december 31-éig dönt.
 
 (5) A továbbképzés szervezési jog megszerzésére irányuló kérelemnek tartalmaznia kell:
 
@@ -46,7 +46,8 @@ cc) a felsőfokú egészségügyi szakképzettséget, és
 
 d) a kérelmező egységes szerkezetbe foglalt hatályos létesítő okiratát a felsőoktatásról szóló törvény 1. számú mellékletében nevesített felsőoktatási intézmény kivételével.
 
-(7) A kötelező szakmacsoportos továbbképzés szervezésére jogosult intézmények névsorát a miniszter a minisztérium honlapján és a GYEMSZI a honlapján közzéteszi.
+(7)[^4] A kötelező szakmacsoportos továbbképzés szervezésére jogosult intézmények névsorát az EEKH és a GYEMSZI a honlapján közzéteszi.
 
-[^1]: A 4. § (3) bekezdése a 2/2013. (I. 2.) EMMI rendelet 23. §-ával megállapított szöveg.
-[^2]: A 4. § (4) bekezdése a 2/2013. (I. 2.) EMMI rendelet 25. § a) pontja szerint módosított szöveg.
+[^2]: A 4. § (3) bekezdése a 2/2013. (I. 2.) EMMI rendelet 23. §-ával megállapított, a 14/2014. (III. 10.) EMMI rendelet 19. § b) pontja szerint módosított szöveg.
+[^3]: A 4. § (4) bekezdése a 14/2014. (III. 10.) EMMI rendelet 13. §-ával megállapított szöveg.
+[^4]: A 4. § (7) bekezdése a 14/2014. (III. 10.) EMMI rendelet 19. § c) pontja szerint módosított szöveg.

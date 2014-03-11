@@ -1,6 +1,6 @@
 8. § (1) A 6. § (1) bekezdés b) pontja szerinti továbbképzési forma esetén a továbbképzést szervező, a 6. § (1) bekezdés c)–d) pontja szerinti továbbképzési forma esetén az egészségügyi szakdolgozó juttatja el a minősítéshez szükséges adatokat a GYEMSZI-hez.
 
-(2) A 6. § (1) bekezdés e) pontja szerinti továbbképzést a GYEMSZI bonyolítja le. A szakdolgozó vizsgázási szándékát a GYEMSZI-nek jelenti be, aki tájékoztatja a vizsga helyéről és időpontjáról. A feladatlap kitöltésére a szakmai vizsgákhoz kapcsolódóan, a szakmai vizsgáztatás általános szabályairól és eljárási rendjéről szóló jogszabályban meghatározott időszakban van mód.
+(2)[^18]
 
 (3) A 6. § (1) bekezdés b) és c) pontja szerinti továbbképzés pontértékének elismerése akkor lehetséges
 
@@ -16,4 +16,7 @@ ba) a továbbképzés a szakmai képzés biztosításához szükséges személyi
 
 bb) a továbbképzésről kiállított írásos igazolás annak tematikáját is tartalmazza.
 
-(4) A 6. § (1) bekezdés c)–e) pontja szerinti továbbképzések vonatkozásában a GYEMSZI az egészségügyi szakdolgozó által megszerzett továbbképzési pontokról a 13. § (3) bekezdése szerinti adattartalommal igazolást állít ki, amelyet – legkésőbb a továbbképzést követő 15. napon – megküld az egészségügyi szakdolgozónak.
+(4)[^19] A 6. § (1) bekezdés c)–e) pontja szerinti továbbképzések vonatkozásában a GYEMSZI az egészségügyi szakdolgozó részére a 2. mellékletben foglaltak figyelembevételével megállapítható továbbképzési pontokra vonatkozó javaslatát elektronikus úton megküldi az EEKH részére. Az egészségügyi dolgozó által adott továbbképzés teljesítésével megszerzett pontértékről a GYEMSZI javaslata alapján az EEKH elnöke dönt és arról az egészségügyi szakdolgozót a döntést követő 5 napon belül tájékoztatja.
+
+[^18]: A 8. § (2) bekezdését a 14/2014. (III. 10.) EMMI rendelet 20. § b) pontja hatályon kívül helyezte.
+[^19]: A 8. § (4) bekezdése a 14/2014. (III. 10.) EMMI rendelet 16. §-ával megállapított szöveg.
