@@ -2,9 +2,9 @@
 
 (2) A licenc vizsgáról a vizsgabizottság elnökének aláírásával hitelesített jegyzőkönyv készül.
 
-(3)[^21] A vizsgázó nevére az eredményes licenc vizsgáról a Hivatal tanúsítványt állít ki. A tanúsítványnak tartalmaznia kell:
+(3)[^28] A vizsgázó nevére az eredményes licenc vizsgáról a Hivatal tanúsítványt állít ki. A tanúsítványnak tartalmaznia kell:
 
-a)[^22] a tanúsítvány sorszámát,
+a)[^29] a tanúsítvány sorszámát,
 
 b) a vizsgázó természetes személyazonosító adatait,
 
@@ -20,13 +20,13 @@ g) a licenc képzés lebonyolításának helyét és
 
 h) a kiállítás dátumát.
 
-(4)[^23] A Hivatal a (3) bekezdés a)–b) és d)–g) pontja szerinti adatokat a vizsgát követő 5 munkanapon belül megküldi a működési nyilvántartásban való rögzítés céljából a működési nyilvántartást vezető szerv részére.
+(4)[^30] A Hivatal a (3) bekezdés a)–b) és d)–h) pontja szerinti adatokat a vizsgát követő 5 munkanapon belül megküldi a működési nyilvántartásban való rögzítés céljából a működési nyilvántartást vezető szerv részére.
 
-(5)[^24] A vizsgázó a tanúsítvány kiállítását követően jogosult az adott licenc birtokában végezhető tevékenység folytatására.
+(5)[^31] A vizsgázó a tanúsítvány kiállítását követően jogosult az adott licenc birtokában végezhető tevékenység folytatására.
 
 (6) A licenc vizsga sikeres letétele szabadon válaszható elméleti továbbképzésként a szakorvos továbbképzési kötelezettségének teljesítésébe beszámít.
 
-[^21]: A 9. § (3) bekezdés nyitó szövegrésze a 2/2013. (I. 2.) EMMI rendelet 42. § e) pontja szerint módosított szöveg.
-[^22]: A 9. § (3) bekezdés a) pontja a 2/2013. (I. 2.) EMMI rendelet 42. § a) pontja szerint módosított szöveg.
-[^23]: A 9. § (4) bekezdése a 2/2013. (I. 2.) EMMI rendelet 42. § f) pontja szerint módosított szöveg.
-[^24]: A 9. § (5) bekezdése a 2/2013. (I. 2.) EMMI rendelet 42. § a) pontja szerint módosított szöveg.
+[^28]: A 9. § (3) bekezdés nyitó szövegrésze a 2/2013. (I. 2.) EMMI rendelet 42. § e) pontja szerint módosított szöveg.
+[^29]: A 9. § (3) bekezdés a) pontja a 2/2013. (I. 2.) EMMI rendelet 42. § a) pontja szerint módosított szöveg.
+[^30]: A 9. § (4) bekezdése a 2/2013. (I. 2.) EMMI rendelet 42. § f) pontja, a 14/2014. (III. 10.) EMMI rendelet 30. § (2) bekezdése szerint módosított szöveg.
+[^31]: A 9. § (5) bekezdése a 2/2013. (I. 2.) EMMI rendelet 42. § a) pontja szerint módosított szöveg.
