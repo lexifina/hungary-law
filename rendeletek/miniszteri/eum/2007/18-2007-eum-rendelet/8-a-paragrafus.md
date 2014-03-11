@@ -1,8 +1,8 @@
-8/A. §[^30] (1) A működési nyilvántartás Eütv. 113. § (3) bekezdése szerinti meghosszabbítását a nyilvántartott személy akkor kérheti, ha az egészségügyi tevékenységének végzése az alábbi indokokra tekintettel szünetel:
+8/A. §[^32] (1) A működési nyilvántartás Eütv. 113. § (3) bekezdése szerinti meghosszabbítását a nyilvántartott személy akkor kérheti, ha az egészségügyi tevékenységének végzése az alábbi indokokra tekintettel szünetel:
 
 a) a doktori iskola létesítésének eljárási rendjéről és a doktori fokozat megszerzésének feltételeiről szóló 33/2007. (III. 7.) Korm. rendeletben szabályozott, illetve más, ösztöndíjjal támogatott tudományos munka,
 
-b)[^31] terhességi gyermekágyi segély, gyermekgondozási segély, gyermekgondozási díj nyilvántartott személy általi igénybe vétele,
+b)[^33] terhességi gyermekágyi segély, gyermekgondozási segély, gyermekgondozási díj nyilvántartott személy általi igénybe vétele,
 
 c) balesetből vagy tartós betegségből fakadó keresőképtelenség,
 
@@ -20,5 +20,5 @@ eb) honvédelmi munkakötelezettség teljesítése.
 
 (4) A meghosszabbítás iránti kérelmet a szünetelésre okot adó tény, körülmény igazolásával együtt legkésőbb a működési nyilvántartás lejártának napjáig kell benyújtani.
 
-[^30]: A 8/A. §-t az 51/2008. (XII. 31.) EüM rendelet 7. §-a iktatta be, szövege az 57/2011. (IX. 29.) NEFMI rendelet 9. §-ával megállapított szöveg.
-[^31]: A 8/A. § (1) bekezdés b) pontja a 2/2013. (I. 2.) EMMI rendelet 5. §-ával megállapított szöveg.
+[^32]: A 8/A. §-t az 51/2008. (XII. 31.) EüM rendelet 7. §-a iktatta be, szövege az 57/2011. (IX. 29.) NEFMI rendelet 9. §-ával megállapított szöveg.
+[^33]: A 8/A. § (1) bekezdés b) pontja a 2/2013. (I. 2.) EMMI rendelet 5. §-ával megállapított szöveg.

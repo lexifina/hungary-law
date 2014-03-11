@@ -1,6 +1,6 @@
 ## Az alapnyilvántartási lap adattartalma
 
-## I.[^54] Személyi adatok:
+## I.[^56] Személyi adatok:
 
 ## 1. az Eütv. alapján az alapnyilvántartás részét képező személyes adatok
 
@@ -24,7 +24,15 @@
 
 ## 4. a kiállító intézmény megnevezése
 
-## III. A kérelmező alapnyilvántartási száma
+## 5.[^57] a képzés nyelve
+
+## 6.[^58] az egészségügyi felsőfokú szakirányú szakképesítést tanúsító oklevél esetében az elsőként megszerzett alap szakképesítés, további alap szakképesítés vagy ráépített szakképesítés ténye
+
+## III.[^59] A kérelmező alapnyilvántartásával kapcsolatos adatok:
+
+## 1. alapnyilvántartási szám
+
+## 2. alapnyilvántartás típusa
 
 ## IV. Külföldi egyetemen szerzett oklevéllel rendelkezők esetében:
 
@@ -46,7 +54,10 @@
 
 ## V. Megjegyzések
 
-2. melléklet a 18/2007. (IV. 17.) EüM rendelethez[^55]
+2. melléklet a 18/2007. (IV. 17.) EüM rendelethez[^60]
 
-[^54]: Az 1. melléklet I. pontja a 2/2013. (I. 2.) EMMI rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^55]: Az eredeti 2. számú melléklet megjelölését 2. mellékletre változtatta, és szövegét megállapította az 51/2008. (XII. 31.) EüM rendelet 10. § (3) bekezdése.
+[^56]: Az 1. melléklet I. pontja a 2/2013. (I. 2.) EMMI rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^57]: Az 1. melléklet II. pont 5. alpontját a 14/2014. (III. 10.) EMMI rendelet 3. § a) pontja iktatta be.
+[^58]: Az 1. melléklet II. pont 6. alpontját a 14/2014. (III. 10.) EMMI rendelet 3. § a) pontja iktatta be.
+[^59]: Az 1. melléklet III. pontja a 14/2014. (III. 10.) EMMI rendelet 3. § a) pontjával megállapított szöveg.
+[^60]: Az eredeti 2. számú melléklet megjelölését 2. mellékletre változtatta, és szövegét megállapította az 51/2008. (XII. 31.) EüM rendelet 10. § (3) bekezdése.
