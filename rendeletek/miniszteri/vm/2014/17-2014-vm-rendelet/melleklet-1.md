@@ -1,4 +1,4 @@
-## 22. § Hatályát veszti az Európai Halászati Alap társfinanszírozásában megvalósuló Halászati Operatív Program 3. prioritási tengelye szerinti közös érdekeket célzó intézkedések támogatásának feltételeiről szóló 54/2012. (VI. 21.) VM rendelet.
+## 22. §[^1]
 
 1. melléklet a 17/2014. (III. 7.) VM rendelethez
 
@@ -25,3 +25,5 @@ HOP 3. TENGELY INTÉZKEDÉSEINEK KIVÁLASZTÁSI KRITÉRIUMAI
 | 8 | A megvalósítandó projektben az esélyegyenlőség biztosítása | 5 |
 
 | II. | Összesen | 100 |
+
+[^1]: A 22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
