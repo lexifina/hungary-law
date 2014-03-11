@@ -10,8 +10,9 @@ a)[^1] az egészségügyi felsőfokú szakirányú szakmai képzésben (a továb
 
 b) a szakképzést végző intézmények kiválasztásának szabályaira (a továbbiakban: minősítési eljárás) és
 
-c) a szakképzést lezáró szakvizsgáztatásra vonatkozó szabályokra
+c)[^2] a szakképzés teljesítésének részletes szabályaira, valamint a szakképzést lezáró szakvizsgáztatásra vonatkozó szabályokra
 
 terjed ki.
 
 [^1]: Az 1. § a) pontja a 20/2011. (V. 10.) NEFMI rendelet 7. §-ával megállapított szöveg.
+[^2]: Az 1. § c) pontja a 14/2014. (III. 10.) EMMI rendelet 7. §-ával megállapított szöveg.

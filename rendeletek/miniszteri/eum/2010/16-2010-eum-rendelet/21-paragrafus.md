@@ -2,13 +2,13 @@
 
 21. § (1) A szakvizsga díja 30 000 Ft. Ismétlővizsga esetén a díjat újra meg kell fizetni.
 
-(2)[^53] A szakvizsga díjat a GYEMSZI 10032000-01490576 számú számlájára kell befizetni.
+(2)[^61] A szakvizsga díjat a GYEMSZI 10032000-01490576 számú számlájára kell befizetni.
 
 (3) A szakvizsga bizottság elnökét a vizsgadíj 30%-a, két tagját a vizsgadíj 20-20%-a illeti meg.
 
-(4)[^54] A szakvizsga bizottság tagjai – számla vagy más költségigazolás ellenében – a szakvizsgáztatással összefüggő utazási költségeik megtérítésre jogosultak.
+(4)[^62] A szakvizsga bizottság tagjai – számla vagy más költségigazolás ellenében – a szakvizsgáztatással összefüggő utazási költségeik megtérítésre jogosultak.
 
-(5)[^55] A vizsgadíjnak a (3) bekezdés alapján fennmaradó része terhére kerül megfizetésre
+(5)[^63] A vizsgadíjnak a (3) bekezdés alapján fennmaradó része terhére kerül megfizetésre
 
 a) a (4) bekezdés szerinti költségtérítés,
 
@@ -16,6 +16,6 @@ b) az ESZTT felkért tagjainak az ESZTT létrehozásáról rendelkező kormányh
 
 c) a szakvizsga megszervezésének és a vizsgabizonyítvány kiállításának adminisztratív költsége.
 
-[^53]: A 21. § (2) bekezdése a 3/2012. (I. 3.) NEFMI rendelet 8. § (12) bekezdése, a 2/2013. (I. 2.) EMMI rendelet 21. § f) pontja szerint módosított szöveg.
-[^54]: A 21. § (4) bekezdését a 20/2011. (V. 10.) NEFMI rendelet 14. §-a iktatta be.
-[^55]: A 21. § (5) bekezdését a 20/2011. (V. 10.) NEFMI rendelet 14. §-a iktatta be, szövege a 2/2013. (I. 2.) EMMI rendelet 20. §-ával megállapított szöveg.
+[^61]: A 21. § (2) bekezdése a 3/2012. (I. 3.) NEFMI rendelet 8. § (12) bekezdése, a 2/2013. (I. 2.) EMMI rendelet 21. § f) pontja szerint módosított szöveg.
+[^62]: A 21. § (4) bekezdését a 20/2011. (V. 10.) NEFMI rendelet 14. §-a iktatta be.
+[^63]: A 21. § (5) bekezdését a 20/2011. (V. 10.) NEFMI rendelet 14. §-a iktatta be, szövege a 2/2013. (I. 2.) EMMI rendelet 20. §-ával megállapított szöveg.

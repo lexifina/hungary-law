@@ -1,1 +1,3 @@
-## 9. § A szakképzés – az orvos, fogorvos, gyógyszerész és klinikai szakpszichológus szakképesítés megszerzéséről szóló miniszteri rendelet szerinti – időtartama a szakképzési követelményeknek megfelelően legalább három, de legfeljebb hét év, amit a Kr. szerinti jelölt (a továbbiakban: jelölt) a választott szaknak megfelelő munkavégzésre irányuló jogviszonyban tölt el.
+## 9. §[^24]
+
+[^24]: A 9. §-t a 14/2014. (III. 10.) EMMI rendelet 12. § b) pontja hatályon kívül helyezte.
