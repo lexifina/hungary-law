@@ -1,0 +1,3 @@
+## 21. § Az orvosok, fogorvosok, gyógyszerészek és az egészségügyi felsőfokú szakirányú szakképesítéssel rendelkezők folyamatos továbbképzéséről szóló 64/2011. (XI. 29.) NEFMI rendelet (a továbbiakban: R.5.) 8. §-a a következő (4) bekezdéssel egészül ki:
+
+## „(4) Az (1) bekezdésben foglaltaktól eltérően annak a belgyógyászat szakképesítéssel rendelkező továbbképzésre kötelezettnek, aki a továbbképzési időszak alatt háziorvosi alapellátási tevékenység végzését igazolja, az e tevékenység végzésével megszerzett gyakorlati pontérték elismerésére a belgyógyászat szakképesítés tekintetében is sor kerül.”

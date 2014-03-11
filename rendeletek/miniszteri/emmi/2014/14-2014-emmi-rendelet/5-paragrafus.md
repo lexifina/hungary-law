@@ -1,0 +1,1 @@
+## „(4) A (2) és a (3) bekezdés alkalmazásában a szakmai gyakorlat időtartamát és jogszerűségét az EEKH a munkáltató nyilatkozata, illetve a nem alkalmazottként foglalkoztatott egészségügyi dolgozók esetében a tevékenységet engedélyező szerv igazolása, valamint az egészségügyi dolgozók működési nyilvántartása szerinti adatok alapján igazolja.”
