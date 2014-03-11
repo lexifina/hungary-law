@@ -1,4 +1,4 @@
-27. melléklet a 37/2012. (VIII. 2.) BM rendelethez[^22]
+27. melléklet a 37/2012. (VIII. 2.) BM rendelethez[^30]
 
 1. Műemlékvédelemért – Forster Gyula-díj
 
@@ -8,4 +8,4 @@ Az érem kerek alakú, bronzból készült, átmérője 70, vastagsága 5 millim
 
 Az érem kerek alakú, bronzból készült, átmérője 70, vastagsága 5 milliméter. Az első oldal közepén fürdőjelenet ábrázolása Schönvisner István könyvéből, „SCHÖNVISNER ISTVÁN-DÍJ” felirattal. A hátoldal közepén babérkoszorú, a köriratban az „A MAGYAR RÉGÉSZETI ÖRÖKSÉGÉRT” felirattal.
 
-[^22]: A 27. mellékletet a 17/2013. (V. 9.) BM rendelet 9. § (1) bekezdése iktatta be.
+[^30]: A 27. mellékletet a 17/2013. (V. 9.) BM rendelet 9. § (1) bekezdése iktatta be.

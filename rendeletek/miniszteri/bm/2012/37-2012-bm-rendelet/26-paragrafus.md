@@ -2,7 +2,7 @@
 
 26. § (1) A vízügyi szakterületen huzamosabb időszakon keresztül végzett magas színvonalú, kiemelkedően eredményes munka elismerésére „Kvassay Jenő Emlékérmet” alapítok.
 
-(2) Az Emlékérem évente legfeljebb 8 fő részére adományozható, átadására
+(2)[^14] Az Emlékérem évente legfeljebb 12 fő részére adományozható, átadására
 
 a) a Víz Világnapja alkalmából (március 22.), valamint
 
@@ -11,3 +11,5 @@ b) az állami és nemzeti ünnepek
 alkalmából kerülhet sor.
 
 (3) Az Emlékérem leírását a 20. melléklet tartalmazza.
+
+[^14]: A 26. § (2) bekezdés nyitó szövegrésze a 21/2014. (III. 10.) BM rendelet 7. § a) pontja szerint módosított szöveg.
