@@ -1,0 +1,1 @@
+## 8. § A helyi választási iroda értesítő átadásával vagy megküldésével tájékoztatja a szavazóköri névjegyzékbe történt felvételéről azt a választópolgárt, aki 2014. március 28-át követően kerül a település szavazóköri névjegyzékébe. [Ve. 116. § (1) bekezdés]
