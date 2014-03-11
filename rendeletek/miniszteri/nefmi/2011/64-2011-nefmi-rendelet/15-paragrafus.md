@@ -20,7 +20,7 @@ b) a klinikai szakpszichológusok kivételével az 1. § (1) bekezdés b) pontja
 
 (5) A kötelező szintentartó tanfolyamok az orvosok, fogorvosok, gyógyszerészek és klinikai szakpszichológusok folyamatos továbbképzéséről szóló 52/2003. (VIII. 22.) ESZCSM rendelet e rendelet hatálybalépését megelőző napon hatályos 3. § (1) bekezdése szerint meghatározott tematika alapján 2012. június 30-ig szervezhetőek.
 
-(6)[^24] Az a továbbképzésre kötelezett, aki a nyilvántartási adatait a nyilvántartást vezető szerv által biztosított elektronikus felületen 2014. március 15-éig aktualizálja, 20 szabadon választható elméleti továbbképzési pontra jogosult azzal, hogy az adatok aktualizálásával egy továbbképzési időszakban szakképesítésenként legfeljebb 30 pont szerezhető.
+(6)[^24] Az a továbbképzésre kötelezett, aki a nyilvántartási adatait a nyilvántartást vezető szerv által biztosított elektronikus felületen 2014. július 31-éig aktualizálja, 20 szabadon választható elméleti továbbképzési pontra jogosult azzal, hogy az adatok aktualizálásával egy továbbképzési időszakban szakképesítésenként legfeljebb 30 pont szerezhető.
 
 [^23]: A 15. § (4) bekezdése a 2/2013. (I. 2.) EMMI rendelet 32. § e) pontja szerint módosított szöveg.
-[^24]: A 15. § (6) bekezdését a 69/2013. (XI. 19.) EMMI rendelet 7. §-a iktatta be.
+[^24]: A 15. § (6) bekezdését a 69/2013. (XI. 19.) EMMI rendelet 7. §-a iktatta be, szövege a 14/2014. (III. 10.) EMMI rendelet 22. §-a szerint módosított szöveg.

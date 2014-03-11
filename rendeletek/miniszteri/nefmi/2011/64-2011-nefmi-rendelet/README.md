@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-64-20-2
 | 2013-01-03 | 2011-64-20-2V.4 | 2/2013. (I. 2.) EMMI rendelet |
 | 2013-11-20 | 2011-64-20-2V.5 | 69/2013. (XI. 19.) EMMI rendelet |
 | 2014-01-01 | 2011-64-20-2V.6 | 69/2013. (XI. 19.) EMMI rendelet |
+| 2014-03-11 | 2011-64-20-2V.7 | 2/2013. (I. 2.) EMMI rendelet |
