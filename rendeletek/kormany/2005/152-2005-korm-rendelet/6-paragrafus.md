@@ -1,6 +1,6 @@
 6. § (1)[^34] Az esélyteremtő ösztöndíjak esetében a pályázatok elbírálásakor előnyben részesülnek azok a tanulók, akik az alábbi feltételek közül az itt meghatározott sorrendben előbb álló feltételnek megfelelnek:
 
-a)[^35] a pályázó halmozottan hátrányos helyzetű, családba fogadott, átmeneti nevelésbe vett, védelembe vett, ideiglenes hatállyal elhelyezett, utógondozásban vagy utógondozói ellátásban részesül;
+a)[^35] a pályázó halmozottan hátrányos helyzetű, családba fogadott, védelembe vett, ideiglenes hatállyal elhelyezett, utógondozásban részesül;
 
 b)[^36]
 
@@ -43,7 +43,7 @@ h)[^43] amelyek tevékenysége hozzájárul ahhoz, hogy a kutatócsoportban rés
 (8)[^48]
 
 [^34]: A 6. § (1) bekezdés nyitó szövegrésze a 207/2013. (VI. 17.) Korm. rendelet 12. § c) pontja szerint módosított szöveg.
-[^35]: A 6. § (1) bekezdés a) pontja a 222/2012. (VIII. 15.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^35]: A 6. § (1) bekezdés a) pontja a 222/2012. (VIII. 15.) Korm. rendelet 4. § (1) bekezdésével megállapított, az 58/2014. (III. 4.) Korm. rendelet 4. § (2) bekezdés b) pontja szerint módosított szöveg.
 [^36]: A 6. § (1) bekezdés b) pontját a 222/2012. (VIII. 15.) Korm. rendelet 13. § (1) bekezdés b) pontja hatályon kívül helyezte.
 [^37]: A 6. § (1) bekezdésének d) pontját a 77/2006. (IV. 4.) Korm. rendelet 10. § (2) bekezdése hatályon kívül helyezte, újonnan a 38/2007. (III. 7.) Korm. rendelet 4. § (1) bekezdése iktatta be. Ez utóbbi módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2007. március 15. napját követően meghirdetett pályázatok és az azok alapján létrejövő ösztöndíjas jogviszonyok tekintetében kell alkalmazni.
 [^38]: A 6. § (1) bekezdésének e) pontja a 38/2007. (III. 7.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2007. március 15. napját követően meghirdetett pályázatok és az azok alapján létrejövő ösztöndíjas jogviszonyok tekintetében kell alkalmazni.

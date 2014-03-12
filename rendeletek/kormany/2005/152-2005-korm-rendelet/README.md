@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-152-20-
 | 2012-09-01 | 2005-152-20-22.13 | 77/2006. (IV. 4.) Korm. rendelet |
 | 2013-01-01 | 2005-152-20-22.14 | 296/2012. (X. 17.) Korm. rendelet |
 | 2013-06-18 | 2005-152-20-22.15 | 207/2013. (VI. 17.) Korm. rendelet |
+| 2014-03-12 | 2005-152-20-22.16 | 58/2014. (III. 4.) Korm. rendelet |

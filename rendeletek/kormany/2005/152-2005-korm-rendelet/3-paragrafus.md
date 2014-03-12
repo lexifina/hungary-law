@@ -1,4 +1,4 @@
-3. § (1)[^12] Az esélyteremtő ösztöndíjak esetében pályázhat az a Magyarország területén működő köznevelési intézménnyel tanulói jogviszonyban álló magyar állampolgár vagy külföldi állampolgár, aki halmozottan hátrányos helyzetű vagy védelembe vett vagy családba fogadott vagy átmeneti nevelésbe vett vagy ideiglenes hatállyal elhelyezett vagy utógondozásban vagy utógondozói ellátásban részesül vagy hátrányos helyzetű, és a pályázat időszakának tanévében nappali rendszerű iskolai oktatás keretében:
+3. § (1)[^12] Az esélyteremtő ösztöndíjak esetében pályázhat az a Magyarország területén működő köznevelési intézménnyel tanulói jogviszonyban álló magyar állampolgár vagy külföldi állampolgár, aki halmozottan hátrányos helyzetű vagy védelembe vett vagy családba fogadott vagy ideiglenes hatállyal elhelyezett vagy utógondozásban részesül vagy hátrányos helyzetű, és a pályázat időszakának tanévében nappali rendszerű iskolai oktatás keretében:
 
 a) az Út a középiskolába ösztöndíj esetén 7–8. évfolyamon tanul;
 
@@ -32,7 +32,7 @@ bc) a gyógypedagógus.
 
 (7)[^21] Az esélyteremtő ösztöndíjakra nem pályázhat olyan tanuló vagy mentor, aki az Út a szakmaválasztáshoz programban ösztöndíjban részesül.
 
-[^12]: A 3. § (1) bekezdése a 207/2013. (VI. 17.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^12]: A 3. § (1) bekezdése a 207/2013. (VI. 17.) Korm. rendelet 3. § (1) bekezdésével megállapított, nyitó szövegrésze az 58/2014. (III. 4.) Korm. rendelet 4. § (2) bekezdés b) pontja szerint módosított szöveg.
 [^13]: A 3. § (2) bekezdését a 222/2012. (VIII. 15.) Korm. rendelet 13. § (1) bekezdés a) pontja hatályon kívül helyezte.
 [^14]: A 3. § (3) bekezdése a 157/2009. (VII. 29.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 7. § (2) bekezdése, a 222/2012. (VIII. 15.) Korm. rendelet 12. § e) pontja, a 207/2013. (VI. 17.) Korm. rendelet 12. § d) pontja szerint módosított szöveg.
 [^15]: A 3. § (4) bekezdése a 38/2007. (III. 7.) Korm. rendelet 2. § (2) bekezdésével megállapított és a 207/2013. (VI. 17.) Korm. rendelet 12. § e) pontja szerint módosított szöveg.
