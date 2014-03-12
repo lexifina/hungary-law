@@ -1,3 +1,0 @@
-## 6. § A Rendelet 8. §-a helyébe a következő rendelkezés lép:
-
-## „8. § Az Ösztöndíjprogram keretében az 1. § (2) bekezdés a)–c) pontjaiban meghatározott alprogramok vonatkozásában benyújtott pályázatról a közigazgatási és igazságügyi miniszter, az 1. § (2) bekezdés d) pontjában meghatározott alprogram vonatkozásában benyújtott pályázatról a nemzeti erőforrás miniszter dönt. Az Út a tudományhoz alprogram esetében a nemzeti erőforrás miniszter dönthet úgy is, hogy – tekintettel az adott pályáztatási időszakban rendelkezésre álló forrásra, valamint az egyes kutatási programok szakmai tartalma és minősége alapján – a közoktatási intézmény által benyújtott kutatási programok közül csak egyes kutatási programokat támogat.”

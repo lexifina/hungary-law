@@ -1,1 +1,0 @@
-## „(8) A közoktatási intézménynek a pályázatához mellékelnie kell az Út a tudományhoz alprogram esetében a 4. § (4b) bekezdésben meghatározott kutatással foglalkozó szervezetekkel, így különösen kutatóintézetekkel, felsőoktatási intézményekkel történő együttműködés feltételeit rögzítő megállapodás egy eredeti példányát.”
