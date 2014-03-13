@@ -480,7 +480,7 @@ fertőző állatbetegséget szállítás közben állapítják meg
 
 112. § (1)[^60] Ha a bejelentési kötelezettség alá tartozó állatbetegséget, annak gyanúját vagy a fertőzöttség gyanúját az állatok szállítása vagy lábon hajtása során észlelik, a hatósági és a magánállatorvos köteles az állatok továbbszállítását megtiltani, és a betegségről, illetve annak gyanújáról vagy a fertőzöttség gyanújáról a járási főállatorvost és az élelmiszerlánc-biztonsági és állategészségügyi igazgatóságot értesíteni.
 
-(2)[^61] A külföldről érkező állatszállítmányt – ha az állatokon fertőző betegséget vagy annak gyanúját állapítják meg – az állategészségügyi határállomáson fel kell tartóztatni, s arról a határállomás szerint illetékes élelmiszerlánc-biztonsági és állategészségügyi igazgatóság, valamint a minisztériumot rövid úton (táviratilag vagy telexen) értesíteni.
+(2)[^61] A külföldről érkező állatszállítmányt – ha az állatokon fertőző betegséget vagy annak gyanúját állapítják meg – az állategészségügyi határállomáson fel kell tartóztatni, s arról a határállomás szerint illetékes élelmiszerlánc-biztonsági és állategészségügyi igazgatóságot, valamint a minisztériumot rövid úton (táviratilag vagy telexen) értesíteni.
 
 (3) Ha a fertőző állatbetegséget vagy annak gyanúját az országhatár és a hazai célállomás között állapítják meg, az (1) bekezdés szerint kell eljárni.
 
@@ -1584,7 +1584,7 @@ d) a községben állatvásárt, -piacot, -kiállítást, -szemlét vagy üzeml�
 
 e) a községben a betegségre fogékony állatot levágni tilos;
 
-f)[^173] a zárlat alatt álló községből a betegség iránt nem fogékony állatot csak az állomásnak – a minisztérium megbízottja hozzájárulásával adott – engedélyével és fertőtlenítés után szabad kivinni.
+f)[^173] a zárlat alatt álló községből a betegség iránt nem fogékony állatot csak az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság engedélyével és fertőtlenítés után szabad kivinni.
 
 Védőkörzet
 
@@ -3807,7 +3807,7 @@ Az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság indokolt
 [^58]: Az 1. számú melléklet 110. § (2) bekezdés g) pontja a 151/2012. (XII. 29.) VM rendelet 1. § d) pontja szerint módosított szöveg.
 [^59]: Az 1. számú melléklet 111. §-ának (2) bekezdéséből a „sertések szaporító- és légzőszervi tünetegyüttese (PRRS) 5 | 6 nap” szövegrészt a 30/2002. (IV. 19.) FVM rendelet 5. § (2) bekezdése hatályon kívül helyezte a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napjával.
 [^60]: Az 1. számú melléklet 112. § (1) bekezdése a 151/2012. (XII. 29.) VM rendelet 1. § d) pontja, a 70/2013. (VII. 31.) VM rendelet 3. § (2) bekezdés 4. pontja szerint módosított szöveg.
-[^61]: Az 1. számú melléklet 112. § (2) bekezdése a 70/2013. (VII. 31.) VM rendelet 3. § (2) bekezdés 15. pontja szerint módosított szöveg. [E módosító rendelet 3. § (2) bekezdés 14. pontjával elrendelt módosítás, amely szerint az „illetékes állomást” szövegrész helyébe az „illetékes élelmiszerlánc-biztonsági és állategészségügyi igazgatóságot” szöveg lép, nem vezethető át.]
+[^61]: Az 1. számú melléklet 112. § (2) bekezdése a 70/2013. (VII. 31.) VM rendelet 3. § (2) bekezdés 15. pontja, a 19/2014. (III. 12.) VM rendelet 5. § a) pontja szerint módosított szöveg.
 [^62]: Az 1. számú melléklet 115. § (2) bekezdés b) pontja a 151/2012. (XII. 29.) VM rendelet 1. § d) pontja szerint módosított szöveg.
 [^63]: Az 1. számú melléklet 119. § (1) bekezdése a 151/2012. (XII. 29.) VM rendelet 1. § d) pontja szerint módosított szöveg.
 [^64]: Az 1. számú melléklet 120. § (2) bekezdés nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 1. § d) pontja szerint módosított szöveg.
@@ -3919,7 +3919,7 @@ Az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság indokolt
 [^170]: Az 1. számú melléklet 288. §-t megelőző alcím a 70/2013. (VII. 31.) VM rendelet 3. § (2) bekezdés 33. pontja szerint módosított szöveg.
 [^171]: Az 1. számú melléklet 288. § nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 3. § (2) bekezdés 28. pontja szerint módosított szöveg.
 [^172]: Az 1. számú melléklet 288. § c) pontja a 70/2013. (VII. 31.) VM rendelet 3. § (2) bekezdés 14. pontja szerint módosított szöveg.
-[^173]: [Az 1. számú melléklet 290. § (2) bekezdés f) pontjának a 70/2013. (VII. 31.) VM rendelet 3. § (2) bekezdés 34. pontjával elrendelt módosítása, amely szerint az „állomásnak – minisztérium megbízottja hozzájárulásával adott –”szövegrész helyébe az „élelmiszerlánc-biztonsági és állategészségügyi igazgatóság” szöveg lép, nem vezethető át.]
+[^173]: Az 1. számú melléklet 290. § (2) bekezdés f) pontja a 19/2014. (III. 12.) VM rendelet 5. § b) pontja szerint módosított szöveg.
 [^174]: Az 1. számú melléklet 291. §-a a 70/2013. (VII. 31.) VM rendelet 3. § (1) bekezdés b) pontja szerint módosított szöveg.
 [^175]: Az 1. számú melléklet 296. § nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 3. § (1) bekezdés b) pontja szerint módosított szöveg.
 [^176]: Az 1. számú melléklet 296. § a) pontja a 70/2013. (VII. 31.) VM rendelet 3. § (1) bekezdés b) pontja, (2) bekezdés 28. pontja szerint módosított szöveg.
