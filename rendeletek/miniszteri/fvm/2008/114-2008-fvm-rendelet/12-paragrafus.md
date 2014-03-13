@@ -14,7 +14,7 @@ c) mezőgazdasági termékfeldolgozást szolgáló beruházás esetén az 1. § 
 
 d) pénzügyi lízing esetén az 1. § p) pontja szerint meghatározott feltételeknek.
 
-(3)[^14] A hatósági bizonyítvány kiállítása iránti kérelmeket e rendelet hatálybalépésétől kezdődően folyamatosan lehet benyújtani a mezőgazdasági szakigazgatási szervhez. Az NÉBIH által rendszeresített, az MgSzH honlapján közzétett, a 4. számú melléklet szerinti adattartalmú hatósági bizonyítvány kiállítása a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény 74. §-a alapján tárgyi illetékmentes.
+(3)[^14] A hatósági bizonyítvány kiállítása iránti kérelmeket e rendelet hatálybalépésétől kezdődően folyamatosan lehet benyújtani a mezőgazdasági szakigazgatási szervhez. A Nemzeti Élelmiszerlánc-biztonsági Hivatal által rendszeresített és honlapján közzétett, a 4. számú melléklet szerinti adattartalmú hatósági bizonyítvány kiállítása a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény 74. §-a alapján tárgyi illetékmentes.
 
 (4) A hatósági bizonyítvány kiállításához:
 
@@ -26,5 +26,5 @@ b) lízingkérelem benyújtása esetén a 10. § (2) bekezdés szerinti dokument
 
 [^12]: A 12. § (1) bekezdése a 70/2013. (VII. 31.) VM rendelet 98. § e) pontja szerint módosított szöveg.
 [^13]: A 12. § (2) bekezdés nyitó szövegrésze a 171/2009. (XII. 22.) FVM rendelet 6. § (5) bekezdésével megállapított, a 70/2013. (VII. 31.) VM rendelet 98. § f) pontja szerint módosított szöveg.
-[^14]: A 12. § (3) bekezdése a 171/2009. (XII. 22.) FVM rendelet 6. § (6) bekezdésével megállapított, a 70/2013. (VII. 31.) VM rendelet 98. § g) és h) pontja szerint módosított szöveg.
+[^14]: A 12. § (3) bekezdése a 171/2009. (XII. 22.) FVM rendelet 6. § (6) bekezdésével megállapított, a 70/2013. (VII. 31.) VM rendelet 98. § g) és h) pontja, a 19/2014. (III. 12.) VM rendelet 28. § b) pontja szerint módosított szöveg.
 [^15]: A 12. § (5) bekezdése a 171/2009. (XII. 22.) FVM rendelet 6. § (7) bekezdésével megállapított, a 70/2013. (VII. 31.) VM rendelet 98. § f) és i) pontja szerint módosított szöveg.

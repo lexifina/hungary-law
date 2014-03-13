@@ -12,7 +12,7 @@ ad) beruházási célú hiteligénylés esetén rendelkezik a fejlesztés megval
 
 ae) a beruházással érintett üzem – mezőgazdasági termelő esetén – az Európai Mezőgazdasági Orientációs és Garancia Alapból nyújtandó vidékfejlesztési támogatásokkal összefüggésben a tesztüzemi rendszer keretében kialakított standard fedezeti hozzájárulás értékek alkalmazásáról szóló 146/2004. (IX. 30.) FVM rendelet szerint számított standard fedezeti hozzájárulása meghaladja az 5 európai mértékegységet (EUME-t),
 
-af)[^8] rendelkezik az általa működtetett, korszerűsítésre kerülő állattartó telep szakhatósági igazolásával, vagy az állattartás helye szerinti illetékes megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatósága (a továbbiakban: élelmiszerlánc-biztonsági és állategészségügyi igazgatóság) Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatóság által kiállított hatósági bizonyítvánnyal, amely szerint az adott állattartó telep egy önálló állategészségügyi egységként szerepel az élelmiszerlánc-felügyeleti szerv nyilvántartásában, valamint a nevezett címen tartott állomány hatóság, valamint kezelő állatorvosi felügyelete biztosított;
+af)[^8] rendelkezik az általa működtetett, korszerűsítésre kerülő állattartó telep szakhatósági igazolásával, vagy az állattartás helye szerint illetékes fővárosi és megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatósága által kiállított hatósági bizonyítvánnyal, amely szerint az adott állattartó telep egy önálló állategészségügyi egységként szerepel az élelmiszerlánc-felügyeleti szerv nyilvántartásában, valamint a nevezett címen tartott állomány hatóság, valamint kezelő állatorvosi felügyelete biztosított;
 
 b)[^9] nyilatkozik, hogy:
 
@@ -34,6 +34,6 @@ bg) az államháztartásról szóló 1992. évi XXXVIII. törvény 15. §-ában 
 
 [^6]: Az 5. § (1) bekezdés a) pontj ab) alpontja a 171/2009. (XII. 22.) FVM rendelet 6. § (3) bekezdésével megállapított szöveg.
 [^7]: Az 5. § (1) bekezdés a) pont ac) alpontját a 171/2009. (XII. 22.) FVM rendelet 8. § (2) bekezdés d) pontja hatályon kívül helyezte.
-[^8]: Az 5. § (1) bekezdés a) pont af) alpontja a 70/2013. (VII. 31.) VM rendelet 98. § c) és d) pontja szerint módosított szöveg.
+[^8]: Az 5. § (1) bekezdés a) pont af) alpontja a 70/2013. (VII. 31.) VM rendelet 98. § c) és d) pontja, a 19/2014. (III. 12.) VM rendelet 28. § a) pontja szerint módosított szöveg.
 [^9]: Az 5. § (1) bekezdés b) pontja a 171/2009. (XII. 22.) FVM rendelet 6. § (4) bekezdésével megállapított szöveg.
 [^10]: Az 5. § (2) bekezdését a 171/2009. (XII. 22.) FVM rendelet 8. § (2) bekezdés d) pontja hatályon kívül helyezte.
