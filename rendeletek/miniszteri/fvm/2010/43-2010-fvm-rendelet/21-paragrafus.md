@@ -20,13 +20,13 @@
 
 (10)[^27] A növényvédelmi szakképesítéssel rendelkező mentesül a (8) bekezdésben előírt továbbképzési kötelezettség alól, ha
 
-a)[^28] a Vidékfejlesztési Minisztérium, illetve az NÉBIH, vagy a növény- és talajvédelmi igazgatóság állományában növényvédelmi munkakörben teljesít szolgálatot, és a miniszter által előírt rendszeres továbbképzési kötelezettségeinek eleget tesz,
+a)[^28] a Vidékfejlesztési Minisztérium, illetve a NÉBIH, vagy a növény- és talajvédelmi igazgatóság állományában növényvédelmi munkakörben teljesít szolgálatot, és a miniszter által előírt rendszeres továbbképzési kötelezettségeinek eleget tesz,
 
 b) a növényvédelmi felsőoktatás szaktanára, vagy
 
-c) a földművelésügyi és vidékfejlesztési miniszter által – szakoktatói, kutatói tevékenysége miatt – a továbbképzési kötelezettség alól felmentésben részesült.
+c)[^29] az élelmiszerlánc-felügyeletért felelős miniszter által – szakoktatói, kutatói tevékenysége miatt – a továbbképzési kötelezettség alól felmentésben részesült.
 
-(11)[^29] Amennyiben az engedély elveszett, vagy az engedéllyel rendelkező adataiban változás következett be, úgy ezt a tényt 8 napon belül be kell jelenteni a növény- és talajvédelmi igazgatósághoz.
+(11)[^30] Amennyiben az engedély elveszett, vagy az engedéllyel rendelkező adataiban változás következett be, úgy ezt a tényt 8 napon belül be kell jelenteni a növény- és talajvédelmi igazgatósághoz.
 
 [^22]: A 21. § (1) bekezdése a 66/2010. (V. 12.) FVM rendelet 13. § (7) bekezdésével megállapított szöveg. E módosító rendelet 12. §-a alapján a 2010. május 27-ét követően indult eljárásokban kell alkalmazni.
 [^23]: A 21. § (2) bekezdése a 70/2013. (VII. 31.) VM rendelet 125. § h) pontja szerint módosított szöveg.
@@ -34,5 +34,6 @@ c) a földművelésügyi és vidékfejlesztési miniszter által – szakoktató
 [^25]: A 21. § (7) bekezdése a 66/2010. (V. 12.) FVM rendelet 13. § (8) bekezdésével megállapított, a 70/2013. (VII. 31.) VM rendelet 125. § e) pontja szerint módosított szöveg.
 [^26]: A 21. § (9) bekezdése a 66/2010. (V. 12.) FVM rendelet 13. § (9) bekezdésével megállapított szöveg. E módosító rendelet 12. §-a alapján a 2010. május 27-ét követően indult eljárásokban kell alkalmazni.
 [^27]: A 21. § (10) bekezdése a 66/2010. (V. 12.) FVM rendelet 13. § (9) bekezdésével megállapított szöveg. E módosító rendelet 12. §-a alapján a 2010. május 27-ét követően indult eljárásokban kell alkalmazni.
-[^28]: A 21. § (10) bekezdés a) pontja a 70/2013. (VII. 31.) VM rendelet 125. § i) és j) pontja szerint módosított szöveg.
-[^29]: A 21. § (11) bekezdését a 66/2010. (V. 12.) FVM rendelet 13. § (9) bekezdése iktatta be, szövege a 70/2013. (VII. 31.) VM rendelet 125. § k) pontja szerint módosított szöveg.
+[^28]: A 21. § (10) bekezdés a) pontja a 70/2013. (VII. 31.) VM rendelet 125. § i) és j) pontja, a 19/2014. (III. 12.) VM rendelet 33. § a) pontja szerint módosított szöveg.
+[^29]: A 21. § (10) bekezdés c) pontja a 19/2014. (III. 12.) VM rendelet 33. § b) pontja szerint módosított szöveg.
+[^30]: A 21. § (11) bekezdését a 66/2010. (V. 12.) FVM rendelet 13. § (9) bekezdése iktatta be, szövege a 70/2013. (VII. 31.) VM rendelet 125. § k) pontja szerint módosított szöveg.

@@ -850,7 +850,7 @@
 
 ## A tisztítóvíz összegyűjthető és a permetezőgép tartályába juttatható legyen.
 
-## 5. függelék[^66]
+## 5. függelék[^67]
 
 ## Növényvédelmi gép forgalomba hozatali engedélyének mintája
 
@@ -884,7 +884,7 @@
 
 ## A forgalomba hozatali engedély hatályosságát igazoló matrica mintája
 
-## 7. függelék[^67]
+## 7. függelék[^68]
 
 ## Pályázati űrlap mintája növényvédelmi gépek felülvizsgálatára szóló jogosultság megszerzéséhez
 
@@ -922,7 +922,7 @@
 
 ## aláírás
 
-## 8. függelék[^68]
+## 8. függelék[^69]
 
 ## Növényvédelmi gépek felülvizsgálatára jogosító tanúsítvány mintája
 
@@ -940,7 +940,7 @@
 
 ## aláírás
 
-## 9. függelék[^69]
+## 9. függelék[^70]
 
 ## Növényvédelmi gépek időszakos felülvizsgálata
 
@@ -1790,7 +1790,7 @@
 
 | a ha alkalmazható |
 
-## 10. függelék[^70]
+## 10. függelék[^71]
 
 ## Növényvédelmi gépek működési engedélyének igazolására szolgáló matrica mintája
 
@@ -1798,8 +1798,8 @@
 
 4. melléklet a 43/2010. (IV. 23.) FVM rendelethez
 
-[^66]: A 3. melléklet 5. függeléke a 70/2013. (VII. 31.) VM rendelet 125. § i) és s) pontja szerint módosított szöveg.
-[^67]: A 3. melléklet 7. függeléke a 46/2012. (V. 8.) VM rendelet e) pontja szerint módosított szöveg.
-[^68]: A 3. melléklet 8. függeléke a 46/2012. (V. 8.) VM rendelet c), g) és h) pontja szerint módosított szöveg.
-[^69]: A 3. melléklet 9. függeléke a 46/2012. (V. 8.) VM rendelet c) pontja szerint módosított szöveg.
-[^70]: A 3. melléklet 10. függeléke a 46/2012. (V. 8.) VM rendelet c) és i) pontja szerint módosított szöveg.
+[^67]: A 3. melléklet 5. függeléke a 70/2013. (VII. 31.) VM rendelet 125. § i) és s) pontja szerint módosított szöveg.
+[^68]: A 3. melléklet 7. függeléke a 46/2012. (V. 8.) VM rendelet e) pontja szerint módosított szöveg.
+[^69]: A 3. melléklet 8. függeléke a 46/2012. (V. 8.) VM rendelet c), g) és h) pontja szerint módosított szöveg.
+[^70]: A 3. melléklet 9. függeléke a 46/2012. (V. 8.) VM rendelet c) pontja szerint módosított szöveg.
+[^71]: A 3. melléklet 10. függeléke a 46/2012. (V. 8.) VM rendelet c) és i) pontja szerint módosított szöveg.
