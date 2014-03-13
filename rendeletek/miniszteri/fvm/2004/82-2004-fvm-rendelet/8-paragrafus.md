@@ -1,4 +1,4 @@
-8. § (1)[^14] A zöldség és gyümölcs szállítmányokat nyomtatványon vagy szóban, telefonon, telefaxon, a szállítmány indulása vagy érkezése időpontját megelőző munkanapon 12.00 óráig kell bejelenteni, a szállítóeszközbe való berakodás, illetve az érkezési célállomás helye szerint illetékes élelmiszerlánc-biztonsági és állategészségügyi igazgatóság ellenőrénél. A vizsgálatra vonatkozó igény szóban vagy telefonon történő bejelentése esetén a vizsgálatot igénylőnek még a bejelentés napján át kell adnia a 3. számú melléklet szerinti igénybejelentő nyomtatványt. A rendszeres szállítmányok esetén a bejelentés rendje elektronikus úton is kialakítható.
+8. § (1)[^14] A zöldség és gyümölcs szállítmányokat nyomtatványon vagy szóban, telefonon, telefaxon, a szállítmány indulása vagy érkezése időpontját megelőző munkanapon 12.00 óráig kell bejelenteni, a szállítóeszközbe való berakodás, illetve az érkezési célállomás helye szerint illetékes növény- és talajvédelmi igazgatóság ellenőrénél. A vizsgálatra vonatkozó igény szóban vagy telefonon történő bejelentése esetén a vizsgálatot igénylőnek még a bejelentés napján át kell adnia a 3. számú melléklet szerinti igénybejelentő nyomtatványt. A rendszeres szállítmányok esetén a bejelentés rendje elektronikus úton is kialakítható.
 
 (2)[^15] Amennyiben a tételes minőség-ellenőrzés nem kötelező 100%-ban, a bejelentett vizsgálati alap ellenőrzésének arányát a Koordinációs Központ határozza meg, és a változó közösségi követelményeknek megfelelően az ellenőrzések arányát csökkentheti a bejelentett vizsgálati alap és a felmerült problémák aránya alapján, figyelembe véve a minőségügyi rendszerek alkalmazásának a hatását.
 
@@ -16,7 +16,7 @@ b)[^17] a gyümölcs- és zöldségágazatban a 2200/96/EK, a 2201/96/EK és az 
 
 (6)[^19] Nem kell feldolgozási bizonyítvány azon termékekre, amelyek nyilvánvalóan nem alkalmasak friss fogyasztásra, például a hordóban vagy tartálykocsiban szállított, hámozott, mélyhűtött, darabolt vagy szeletelt zöldségre és gyümölcsre.
 
-[^14]: A 8. § (1) bekezdése a 63/2005. (VII. 12.) FVM rendelet 7. §-a, a 70/2013. (VII. 31.) VM rendelet 41. § j) pontja szerint módosított szöveg.
+[^14]: A 8. § (1) bekezdése a 63/2005. (VII. 12.) FVM rendelet 7. §-a, a 70/2013. (VII. 31.) VM rendelet 41. § j) pontja, a 19/2014. (III. 12.) VM rendelet 15. § c) pontja szerint módosított szöveg.
 [^15]: A 8. § (2) bekezdése a 63/2005. (VII. 12.) FVM rendelet 4. §-ának (1) bekezdésével megállapított szöveg.
 [^16]: A 8. § új (4) bekezdését a 63/2005. (VII. 12.) FVM rendelet 4. §-ának (2) iktatta be, egyidejűleg az eredeti (4)–(5) bekezdés számozását (5)–(6) bekezdésre változtatta.
 [^17]: A 8. § (4) bekezdésének b) pontja a 19/2008. (II. 19.) FVM rendelet 27. § (9) bekezdése alapján módosított szöveg. E módosító rendelet 27. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
