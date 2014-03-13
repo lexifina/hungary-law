@@ -1,0 +1,1 @@
+Az Országgyűlés a termőföldek tulajdonjogának megszerzését vagy használatát korlátozó jogszabályi rendelkezések kijátszását célzó múltbeli jogügyletek feltárására, a jogügyletekhez kapcsolódó joghatás kiváltásának megelőzésére, valamint a jogsértő állapot megszüntetésére a következő törvényt alkotja:

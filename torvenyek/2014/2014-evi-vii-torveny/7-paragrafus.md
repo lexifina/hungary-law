@@ -1,0 +1,1 @@
+7. § Az ingatlanügyi hatóság, illetve az erdészeti hatóság 8 napon belül intézkedik a bíróság ítéletének megfelelő állapotnak az ingatlan-nyilvántartásban, a földhasználati nyilvántartásban, illetve az erdőgazdálkodói nyilvántartásban való átvezetéséről.
