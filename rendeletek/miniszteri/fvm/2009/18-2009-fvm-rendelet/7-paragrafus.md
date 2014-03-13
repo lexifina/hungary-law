@@ -1,10 +1,10 @@
-## 5–6. §[^20]
+## 5–6. §[^22]
 
 ## Záró rendelkezések
 
 7. § (1) Ez a rendelet a kihirdetését követő 3. napon lép hatályba.
 
-(2)–(3)[^21]
+(2)–(3)[^23]
 
-[^20]: Az 5–6. §-t az 5/2010. (I. 28.) FVM rendelet 5. § (2) bekezdése hatályon kívül helyezte.
-[^21]: A 7. § (2)–(3) bekezdését az 5/2010. (I. 28.) FVM rendelet 5. § (2) bekezdése hatályon kívül helyezte.
+[^22]: Az 5–6. §-t az 5/2010. (I. 28.) FVM rendelet 5. § (2) bekezdése hatályon kívül helyezte.
+[^23]: A 7. § (2)–(3) bekezdését az 5/2010. (I. 28.) FVM rendelet 5. § (2) bekezdése hatályon kívül helyezte.

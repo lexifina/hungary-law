@@ -1,4 +1,4 @@
-1. melléklet a 18/2009. (III. 6.) FVM rendelethez[^22]
+1. melléklet a 18/2009. (III. 6.) FVM rendelethez[^24]
 
 Az egyes jogcímek esetén a támogatási és a kifizetési kérelem, valamint az ügyfél által kitöltött elektronikus űrlap keretében szolgáltatott indikátor adatkörökről
 
@@ -920,4 +920,4 @@ f) a tevékenység típusa (on farm, off farm besorolás és turizmus, kézműve
 
 g) a támogatás alapján létrehozott új munkahelyeken dolgozó munkavállalók száma (nem és korcsoport szerinti bontásban).
 
-[^22]: Az eredeti melléklet megjelölését 1. mellékletre változtatta a 2/2013. (II. 1.) VM rendelet 4. §-a, szövege a 10/2014. (II. 14.) VM rendelet 2. §-ával megállapított szöveg.
+[^24]: Az eredeti melléklet megjelölését 1. mellékletre változtatta a 2/2013. (II. 1.) VM rendelet 4. §-a, szövege a 10/2014. (II. 14.) VM rendelet 2. §-ával megállapított szöveg.
