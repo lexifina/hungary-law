@@ -1,10 +1,10 @@
-## 9. § Az MgSzH az üzemeltetési engedéllyel rendelkező halkeltető állomások listáját saját honlapján közzéteszi.
+## 9. §[^4] A NÉBIH az üzemeltetési engedéllyel rendelkező halkeltető állomások listáját saját honlapján közzéteszi.
 
 10. § (1) Ez a rendelet 2011. július 1-jén lép hatályba, e rendelet előírásait a rendelet hatályba lépését követően indult és megismételt eljárásokban kell alkalmazni.
 
-(2)[^1]
+(2)[^5]
 
-Melléklet a 34/2011. (IV. 28.) VM rendelethez
+Melléklet a 34/2011. (IV. 28.) VM rendelethez[^6]
 
 EREDETIGAZOLÁS
 
@@ -36,7 +36,7 @@ VEVŐ
 
 | A vevő címe: |  |
 
-Az eredetigazolást három példányban kell kiállítani, melyből az első példányt az üzemeltető köteles legalább öt évig megőrizni, a második példányt a halkeltető állomások üzemeltetéséről, valamint a tenyészhalak és hal szaporítóanyag felajánlásáról, értékesítéséről szóló 34/2011. (IV. 28.) VM rendelet 6. § (3) bekezdésben foglalt határidőig az MgSzH-nak kell megküldeni, a harmadik példány pedig a haltételt kíséri
+Az eredetigazolást három példányban kell kiállítani, melyből az első példányt az üzemeltető köteles legalább öt évig megőrizni, a második példányt a halkeltető állomások üzemeltetéséről, valamint a tenyészhalak és hal szaporítóanyag felajánlásáról, értékesítéséről szóló 34/2011. (IV. 28.) VM rendelet 6. § (3) bekezdésben foglalt határidőig a NÉBIH-nek kell megküldeni, a harmadik példány pedig a haltételt kíséri
 
 Kelt: ......................................, 20............. hó .............. napján
 
@@ -46,4 +46,6 @@ P.H.
 
 (kiállító sajátkezű aláírása)
 
-[^1]: A 10. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 9. § a 19/2014. (III. 12.) VM rendelet 39. § c) pontja szerint módosított szöveg.
+[^5]: A 10. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A melléklet a 19/2014. (III. 12.) VM rendelet 39. § b) pontja szerint módosított szöveg.
