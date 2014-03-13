@@ -50,7 +50,7 @@ eg) a kezelési tervben foglaltak szerinti növedékfokozó gyérítések és sz
 
 eh) a fakitermelés és -anyagmozgatás során nem keletkezhet 10 cm-nél mélyebb közelítési, illetve vonszolási nyom, a tő- és törzssérülés pedig nem haladhatja meg az 5%-ot a fahasználattal érintett terület faállományának tőszámára vonatkozóan;
 
-ei)[^14] a végrehajtott fakitermelést harminc napon belül be kell jelenteni az erdőterület fekvése szerint illetékes MgSzH területi szervének; szálalás esetén a 2. számú melléklet szerinti táblázatot (szálalási terv – végrehajtás) is mellékelni kell a bejelentéshez;
+ei)[^14] a végrehajtott fakitermelést harminc napon belül be kell jelenteni az erdőterület fekvése szerint illetékes erdészeti igazgatóságnak; szálalás esetén a 2. számú melléklet szerinti táblázatot (szálalási terv – végrehajtás) is mellékelni kell a bejelentéshez;
 
 ej) a végrehajtás bejelentéséhez olyan M=1:10 000 méretarányú erdőtervi térképet kell csatolni, amelyen a fahasználatok helyét fel kell tüntetni, és a felvett pontok Egységes Országos Vetületi-rendszer (EOV) koordinátáit is mellékelni kell;
 
@@ -72,4 +72,4 @@ c) 15,1 hektár támogatott terület esetén 140 000 Ft és a 15,1 hektárt megh
 
 (6) A pályázatok elbírálásakor előnyben részesülnek azok az erdőterületek, amelyek e rendelet alapján közjóléti igénybevétel szempontjából frekventált erdőterületnek, illetve városi erdőnek minősülnek.
 
-[^14]: [A 70/2013. (VII. 31.) VM rendelet 96. § j) pontjával elrendelt módosítás, amely szerint az „az MgSzH területi szervének” szövegrész helyébe az „az erdészeti igazgatóságának” szöveg lép, nem vezethető át.]
+[^14]: A 9. § (3) bekezdés e) pont ei) alpontja a 19/2014. (III. 12.) VM rendelet 27. § d) pontja szerint módosított szöveg.
