@@ -28,7 +28,7 @@ c) a beruházást az b) pont szerinti üzemben valósítja meg,
 
 d) igazolja, hogy a támogatási kérelemben megjelölt élelmiszeripari üzemet a NÉBIH nyilvántartásba vette, és
 
-e) az ÉLIP I. jogcímhez, ÉLIP II. jogcímhez kapcsolódóan nem rendelkezik helyt adó, vagy részben helyt adó támogatási határozattal vagy rendelkezik helyt adó, vagy részben helyt adó támogatási határozattal, és rendelkezik az adott támogatási határozat alapján benyújtott utolsó kifizetési kérelmére hozott jogerős kifizetési határozattal,
+e)[^5] az ÉLIP I. jogcímhez, az ÉLIP II. jogcímhez kapcsolódóan nem rendelkezik helyt adó, vagy részben helyt adó támogatási határozattal, vagy rendelkezik helyt adó vagy részben helyt adó támogatási határozattal, úgy az utolsó kifizetési kérelmét a támogatási kérelem benyújtásáig benyújtotta, vagy a támogatási kérelem benyújtásakor az ügyfélre irányadó, az utolsó kifizetési kérelem benyújtására rendelkezésére álló határidő még nem telt le,
 
 f) az ÉLIP III. jogcímhez vagy a Kertészeti gépbeszerzés jogcímhez kapcsolódóan nem rendelkezik helyt adó, vagy részben helyt adó támogatási határozattal vagy rendelkezik helyt adó, vagy részben helyt adó támogatási határozattal és az e rendelet szerinti támogatási kérelem benyújtásáig az adott támogatási határozatban jóváhagyott műveletet megkezdte, és fejlesztési vagy beruházási tevékenységre vonatkozóan kifizetési kérelmet nyújtott be, vagy
 
@@ -37,3 +37,5 @@ g) a e) és f) pontokban felsorolt jogcímekhez kapcsolódóan rendelkezik helyt
 (3) A 4. § (1) bekezdés b) pontjában foglaltakat nem kell alkalmazni mezőgazdasági termelő esetén a termelői csoportra, zöldség-gyümölcs termelői csoportra, vagy annak leányvállalatára, valamint a termelői szervezetre vagy annak leányvállalatára.
 
 (4) A támogatást kizárólag az az ügyfél igényelhet akinek, vagy amelynek a Római Szerződés I. mellékletében – a halászati termékek kivételével – szereplő termékek értékesítéséből származó árbevétele meghaladja a vállalkozás összárbevételének az 50%-át.
+
+[^5]: A 6. § (2) bekezdés e) pontja a 19/2014. (III. 12.) VM rendelet 43. § (4) bekezdésével megállapított szöveg.

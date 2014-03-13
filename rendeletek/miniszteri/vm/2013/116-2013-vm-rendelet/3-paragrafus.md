@@ -32,9 +32,9 @@ ad) ha az ügyfél fiatal mezőgazdasági termelő, és a beruházás KAT-terül
 
 b) a nem beépített gépek vagy mobil technológiai berendezések beszerzése vonatkozásában az igényelhető támogatás mértéke az összes elszámolható kiadás 35%-a.
 
-(5) A (4) bekezdés a) pontja alkalmazandó a kerekes traktor (1111) és a 7. mellékletében feltüntetett valamely gép vagy technológiai berendezés együttes igénylése esetén.
+(5)[^1] A (4) bekezdés a) pontja alkalmazandó a kerekes traktor (1111) és a 7. mellékletben vagy a gépkapcsolási lehetőségekre vonatkozó, a rendelet hatálybalépését megelőzően közzétett IH közlemény 3. mellékletében feltüntetett valamely gép vagy technológiai berendezés együttes igénylése esetén, azzal, hogy gépkapcsolatonként legfeljebb a kerekes traktorok darabszámával egyező darabszámú azonos gépkódú munkagép vehető figyelembe.
 
-(6) A (4) bekezdés a) pontja alkalmazandó a 8. mellékletében feltüntetett valamely gép vagy technológiai berendezés együttes igénylése esetén.
+(6)[^2] A (4) bekezdés a) pontja alkalmazandó a 8. mellékletben vagy a gépkapcsolási lehetőségekre vonatkozó, a rendelet hatálybalépését megelőzően közzétett IH közlemény 1–2. és 4–9. mellékleteiben feltüntetett valamely gép vagy technológiai berendezés együttes igénylése esetén, azzal, hogy gépkapcsolatonként legfeljebb a gépkapcsolat alapelemeként meghatározott gépek (alapgépek) darabszámával egyező darabszámú azonos gépkódú kapcsolódó gép vehető figyelembe.
 
 (7) Az igényelhető támogatás mértéke a 2. célterület esetén:
 
@@ -79,3 +79,6 @@ cc) a kiadások nem építési vagy vízjogi létesítési engedélyköteles ép
 (13) Ha a támogatási határozatban eltérő támogatási intenzitások kerülnek megállapításra, úgy az egyéb elszámolható kiadások tekintetében egységesen a legalacsonyabb intenzitást kell figyelembe venni.
 
 (14) Amennyiben a támogatási kérelemben megjelölt gép elutasításra kerül, úgy a hozzá kapcsolódóan igényelt építési tételt is el kell utasítani.
+
+[^1]: A 3. § (5) bekezdése a 19/2014. (III. 12.) VM rendelet 43. § (1) bekezdésével megállapított szöveg.
+[^2]: A 3. § (6) bekezdése a 19/2014. (III. 12.) VM rendelet 43. § (1) bekezdésével megállapított szöveg.

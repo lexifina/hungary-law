@@ -12,6 +12,8 @@ a) az (1) bekezdés b) pontjában foglaltakat, amennyiben a támogatási kérele
 
 b) az 5. § (1) bekezdés b) és d) pontjában, valamint a 6. § (2) bekezdés b) és d) pontjában foglaltakat, amennyiben a támogatási kérelem benyújtásával egyidejűleg nyilatkozatban vállalja, hogy legkésőbb az (5) bekezdésben foglalt határidőig meg fog felelni az 5. § (1) bekezdés b) és d) pontjában, valamint a 6. § (2) bekezdés b) és d) pontjában meghatározott feltételeknek.
 
+(2a)[^3] A 2. célterület vonatkozásában, amennyiben az ügyfél nem minősül induló vállalkozásnak, és a támogatási kérelem benyújtásakor nem teljesíti a 6. § (2) bekezdés b) és d) pontjai szerinti feltételeket, úgy ezen feltételek vonatkozásában a (2) bekezdés b) pontja szerinti rendelkezéseket kell alkalmazni, azzal, hogy az ügyfél erre vonatkozó nyilatkozatát legkésőbb az MVH erre irányuló hiánypótlási felhívásában foglaltak szerint köteles megtenni.
+
 (3) Támogatás igénybevételére nem jogosult
 
 a) a jogi személy, a jogi személyiség nélküli gazdasági társaság, ha 2013. szeptember 1-jét követően jegyezték be,
@@ -61,3 +63,5 @@ alapján támogatási kérelmet nyújtott be és az ügyben az e rendelet szerin
 (12) Az e rendelet alapján igényelhető támogatások vonatkozásában a Vhr. 27. § (1) bekezdés e)–f) pontjában meghatározott összeghatártól függetlenül pénzügyi tervet kell elkészíteni, és azt a támogatási kérelemmel együtt kell benyújtani.
 
 (13) E rendelet alapján támogatás akkor vehető igénybe, ha az ügyfél az ÚMVP egyes intézkedései esetén 2009. évben nyújtandó támogatási előleg fizetéséről szóló kormányrendelet alapján nem vett igénybe támogatási előleget, vagy ha igénybe vett, akkor arra vonatkozóan az MVH-val szemben a támogatási kérelem benyújtásakor tartozása nem áll fenn.
+
+[^3]: A 4. § (2a) bekezdését a 19/2014. (III. 12.) VM rendelet 43. § (2) bekezdése iktatta be.

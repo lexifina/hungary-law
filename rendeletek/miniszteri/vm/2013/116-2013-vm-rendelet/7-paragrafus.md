@@ -8,8 +8,10 @@
 
 (4) Az ügyfél a támogatási kérelem benyújtására szolgáló elektronikus felületre történő első belépést követő ötödik nap végéig szerkesztheti és nyújthatja be támogatási kérelmét. Amennyiben az ügyfél az öt napos időkorlátot túllépi, úgy a megkezdett támogatási kérelem tovább nem szerkeszthető és nem nyújtható be. Az öt nap leteltét követően új támogatási kérelem szerkeszthető és nyújtható be a belépést követő ötödik nap végéig. Ha a támogatási kérelem benyújtási időszak felfüggesztésre vagy lezárásra kerül, akkor a kérelem legkésőbb az IH közleményben meghatározott időpontig szerkeszthető és nyújtható be.
 
-(5) A támogatási kérelem benyújtását követően hiánypótlásnak és a támogatási kérelem vonatkozásában módosításának nincs helye. Amennyiben az ügyfél bármely jogszabály alapján a támogatási kérelméhez csatolandó nem kizárólag pontozást érintő dokumentumot a támogatási kérelem benyújtásával egyidejűleg nem vagy hiányosan nyújt be, a támogatási kérelem érdemi vizsgálat nélkül elutasításra kerül.
+(5)[^6] A támogatási kérelem benyújtását követően a támogatási kérelem vonatkozásában módosításnak nincs helye. A támogatási kérelem vonatkozásában hiánypótlásnak kizárólag csak azon dokumentumok esetében van helye, amelyeket az ügyfél jogszabály alapján a támogatási kérelméhez csatolni köteles, azzal, hogy a támogatás igénybevétele feltételeinek a benyújtott dokumentumok alapján legkésőbb az MVH által kibocsátott hiánypótlási végzés teljesítésének időpontjában teljesülniük kell. A kizárólag pontozást érintő dokumentum vonatkozásában hiánypótlásnak nincs helye.
 
 (6) A támogatási kérelem MVH általi elektronikus fogadásának tényét a Központi Elektronikus Szolgáltató Rendszerben (a továbbiakban: KR) az ügyfél ügyfélkapus tárhelyére történt feltöltés jelenti, benyújtásának időpontját pedig az ideiglenesen fenntartott értesítési tárhelyére automatikusan kapott KR dokumentum igazolja. Az MVH elektronikus úton értesíti az ügyfelet a beérkezett támogatási kérelem adatairól.
 
 (7) A támogatási kérelemben meg kell jelölni a gép üzembe helyezésének tervezett időpontját és a gép tárolásának helyét.
+
+[^6]: A 7. § (5) bekezdése a 19/2014. (III. 12.) VM rendelet 43. § (5) bekezdésével megállapított szöveg.

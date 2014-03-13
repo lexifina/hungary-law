@@ -10,7 +10,7 @@ c) a beruházást az b) pont szerinti állattartó telepen valósítja meg,
 
 d) igazolja, hogy a támogatási kérelemben megjelölt állattartó telepet a NÉBIH nyilvántartásba vette, és
 
-e) az ÁTK I. jogcímhez, ÁTK II. jogcímhez, a BaTeK jogcímhez kapcsolódóan nem rendelkezik helyt adó, vagy részben helyt adó támogatási határozattal, vagy ha rendelkezik helyt adó, vagy részben helyt adó támogatási határozattal és rendelkezik az adott támogatási határozat alapján benyújtott utolsó kifizetési kérelmére hozott jogerős kifizetési határozattal,
+e)[^4] az ÁTK I. jogcímhez, az ÁTK II. jogcímhez, a BaTeK jogcímhez kapcsolódóan nem rendelkezik helyt adó, vagy részben helyt adó támogatási határozattal, vagy ha rendelkezik helyt adó vagy részben helyt adó támogatási határozattal, úgy az utolsó kifizetési kérelmét a támogatási kérelem benyújtásáig benyújtotta, vagy a támogatási kérelem benyújtásakor az ügyfélre irányadó, az utolsó kifizetési kérelem benyújtására rendelkezésére álló határidő még nem telt le;
 
 f) az ÁTK III. jogcímhez, az ÁTK IV. jogcímhez valamint a Kertészeti gépbeszerzés jogcímhez kapcsolódóan nem rendelkezik helyt adó, vagy részben helyt adó támogatási határozattal, vagy ha rendelkezik helyt adó, vagy részben helyt adó támogatási határozattal, és a műveletet az e rendelet szerinti támogatási kérelem benyújtásáig megkezdte, és fejlesztési, vagy beruházási tevékenységre vonatkozóan már kifizetési kérelmet nyújtott be, vagy
 
@@ -23,3 +23,5 @@ a) – ha tejtermelési célú szarvasmarhatartással és tehéntej-termeléssel
 b) szarvasmarha, sertés, juh, kecske, lófélék (ló, szamár, öszvér), baromfifélék (házityúk, pulyka, kacsa, lúd, gyöngytyúk) tartása esetén a juh- és kecskefélék egyedeinek Egységes Nyilvántartási és Azonosítási Rendszeréről szóló miniszteri rendelet, a lófélék egyedeinek azonosításáról szóló kormányrendelet, a szarvasmarhafajok egyedeinek jelöléséről, valamint Egységes Nyilvántartási és Azonosítási Rendszeréről szóló miniszteri rendelet, a sertések jelöléséről, az Egységes Nyilvántartási és Azonosítási Rendszeréről szóló miniszteri rendelet, a Baromfi Információs Rendszer létrehozásáról és működtetéséről szóló miniszteri rendelet (a továbbiakban együtt: ENAR) előírásainak megfelelni, és
 
 c) az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény 18. § (1) bekezdés b) pontja szerinti állomány-nyilvántartást és az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtott agrár-környezetgazdálkodási támogatások igénybevételének részletes feltételeiről szóló 61/2009. (V. 14.) FVM rendelet 21. számú mellékletének GN 14, GN 15 számú nyomtatványa szerinti legeltetési és állatállomány-változási nyilvántartást vezetni.
+
+[^4]: Az 5. § (1) bekezdés e) pontja a 19/2014. (III. 12.) VM rendelet 43. § (3) bekezdésével megállapított szöveg.
