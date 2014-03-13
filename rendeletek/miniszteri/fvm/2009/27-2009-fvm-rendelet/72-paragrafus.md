@@ -4,6 +4,6 @@
 
 (2) E rendeletet először a 2009. január 1-jétől nyújtott szolgáltatásokra vonatkozóan benyújtott támogatási kérelmekre kell alkalmazni.
 
-(3)–(4)[^1]
+(3)–(4)[^3]
 
-[^1]: A 72. § (3)–(4) bekezdése a (4) bekezdés alapján hatályát vesztette.
+[^3]: A 72. § (3)–(4) bekezdése a (4) bekezdés alapján hatályát vesztette.

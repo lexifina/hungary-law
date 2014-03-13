@@ -8,8 +8,10 @@
 
 a) tenyésztő szervezet: az állattenyésztésről szóló 1993. évi CXIV. törvény (a továbbiakban: Átv.) alapján elismert vagy ideiglenes elismeréssel rendelkező tenyésztő egyesület vagy szövetség;
 
-b) teljesítményvizsgálatot és tenyészérték megállapítását végző szervezet: a tenyésztő szervezet, a Mezőgazdasági Szakigazgatási Hivatal (a továbbiakban: tenyésztési hatóság), illetve az Állattenyésztési Teljesítményvizsgáló Kft. (a továbbiakban: tejtermelés ellenőrzést végző szervezet);
+b)[^1] teljesítményvizsgálatot és tenyészérték megállapítását végző szervezet: a tenyésztő szervezet, a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: tenyésztési hatóság), illetve az Állattenyésztési Teljesítményvizsgáló Kft. (a továbbiakban: tejtermelés ellenőrzést végző szervezet);
 
 c) kedvezményezett: akinek megbízása alapján a kérelmező a támogatott szolgáltatást végzi vagy végezteti;
 
 d) forráskimerülés: a költségvetési törvényben meghatározott jogosultsági keret teljes mértékű vagy olyan részleges kimerülése, amikor a fennmaradó rész (maradvány) az intézkedés jellegéből adódóan nem használható ki.
+
+[^1]: Az 1. § b) pontja a 19/2014. (III. 12.) VM rendelet 30. § a) pontja szerint módosított szöveg.
