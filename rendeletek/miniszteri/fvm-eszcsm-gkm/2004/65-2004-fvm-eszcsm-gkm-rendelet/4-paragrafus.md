@@ -8,7 +8,7 @@ c) az a) és a b) pontokban meghatározott alkotóelemektől eltérő, egyéb ne
 
 d) a szabad szén-dioxid, kizárólag fizikai módon történő teljes vagy részleges eltávolítása.
 
-(2)[^10] A természetes ásványvizek ózonnal dúsított levegőt alkalmazó, az (1) bekezdés b) pontja szerinti kezelését előzetesen, kérelemre az előállítás helye szerint illetékes megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatósága (a továbbiakban: élelmiszerlánc-biztonsági és állategészségügyi igazgatóság) engedélyezi. Az Állomás megvizsgálja, hogy
+(2)[^10] A természetes ásványvizek ózonnal dúsított levegőt alkalmazó, az (1) bekezdés b) pontja szerinti kezelését előzetesen, kérelemre az előállítás helye szerint illetékes megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatósága (a továbbiakban: élelmiszerlánc-biztonsági és állategészségügyi igazgatóság) engedélyezi. Az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság megvizsgálja, hogy
 
 a) az ilyen kezelés alkalmazását a víz összetétele (vas-, mangán-, kén- és arzéntartalom vonatkozásában) indokolja,
 
@@ -44,7 +44,7 @@ c) nem a vízadó rétegből származó szén-dioxid felhasználásával.
 
 (9) A természetes ásványvizek és forrásvizek üdítőitalok készítéséhez is felhasználhatóak.
 
-[^10]: A 4. § (2) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 39. § b) pontja szerint módosított szöveg.
+[^10]: A 4. § (2) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 39. § b) pontja, a 19/2014. (III. 12.) VM rendelet 13. §-a szerint módosított szöveg.
 [^11]: A 4. § (2) bekezdés b) pontja a 70/2013. (VII. 31.) VM rendelet 39. § c) pontja szerint módosított szöveg.
 [^12]: A 4. § (4) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 39. § c) pontja szerint módosított szöveg.
 [^13]: A 4. § (4) bekezdés b) pontja a 70/2013. (VII. 31.) VM rendelet 39. § c) pontja szerint módosított szöveg.
