@@ -70,4 +70,6 @@
 
 ## 2.6.2. Az ellenőrzésre jogosult a mentességi igazolásokat, valamint az azokkal kapcsolatos okmányokat nem selejtezhető ügyiratként köteles kezelni.
 
-9. melléklet a 72/2010. (V. 13.) FVM rendelethez
+9. melléklet a 72/2010. (V. 13.) FVM rendelethez[^117]
+
+[^117]: A 9. melléklet a 19/2014. (III. 12.) VM rendelet 39. § (2) bekezdés b) pontja szerint módosított szöveg.

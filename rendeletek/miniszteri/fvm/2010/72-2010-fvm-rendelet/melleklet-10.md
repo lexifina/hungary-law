@@ -4,7 +4,7 @@
 
 ## 2. A minta jellege szerint lehet:
 
-## 2.1. hivatalos minta, amelyet az MgSzH az e rendeletben foglaltak szerint vesz és a vizsgálati eredményről a tételre érvényes vizsgálati okmányt állít ki,
+## 2.1. hivatalos minta, amelyet a NÉBIH az e rendeletben foglaltak szerint vesz és a vizsgálati eredményről a tételre érvényes vizsgálati okmányt állít ki,
 
 ## 2.2. hiteles minta, amelyet egyéb hatóság (önkormányzat, vámhivatal, bíróság stb.) vesz e rendelet szerint, és amelynek vizsgálati eredményét az érdekelt felek az egész tételre vonatkoztathatják,
 
@@ -116,7 +116,7 @@
 
 ## A mintát úgy kell csomagolni, hogy a szaporítóanyag-minta minőségében és mennyiségében a mintavételtől a vizsgálat megkezdéséig változás ne következzék be, a csomagolóanyag és a zár sértetlen maradjon. A csomagoló- anyag zárható nyílását fémzárral, vagy más módon le kell zárni úgy, hogy a csomag tartalmához annak megsértése nélkül hozzáférni ne lehessen.
 
-10. melléklet a 72/2010. (V. 13.) FVM rendelethez[^117]
+10. melléklet a 72/2010. (V. 13.) FVM rendelethez[^118]
 
 A szaporítóanyag-minta vizsgálata a szaporítóanyagok minőségének megállapítására
 
@@ -232,4 +232,4 @@ A növény életképes, ha
 
 2.3. A NÉBIH, illetve az illetékes megyei kormányhivatal növény- és talajvédelmi igazgatósága vagy az általa erre feljogosított laboratórium a fajtaazonosságot genetikai vagy géntermék vizsgálat útján is meghatározhatja hivatalosan elfogadott módszer alapján.
 
-[^117]: A 10. melléklet a 70/2013. (VII. 31.) VM rendelet 131. § c) és i) pontja szerint módosított szöveg.
+[^118]: A 10. melléklet a 70/2013. (VII. 31.) VM rendelet 131. § c) és i) pontja szerint módosított szöveg.
