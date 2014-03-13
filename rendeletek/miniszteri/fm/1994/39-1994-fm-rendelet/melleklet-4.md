@@ -6,7 +6,7 @@
 
 ## 2. A forgalomba hozott spermát olyan tenyészbikáktól és tenyészkanoktól kell gyűjteni, amelyek a hatályos állategészségügyi jogszabályokban foglaltak szerinti gazdaságokban születtek, előállításuk, felnevelésük és tenyésztésbe állításuk az állategészségügyi előírások szerint történt.
 
-## 3. A mesterséges termékenyítő állomások és az ott elhelyezett tenyészbikák, tenyészkanok az állategészségügyi jogszabályban, illetve a Földművelésügyi és Vidékfejlesztési Minisztérium[^11] által meghatározott betegségektől, öröklődő genetikai ártalmaktól, kromoszóma rendellenességektől mentesek legyenek.
+## 3. A mesterséges termékenyítő állomások és az ott elhelyezett tenyészbikák, tenyészkanok az állategészségügyi jogszabályban, illetve a Földművelésügyi és Vidékfejlesztési Minisztérium[^47] által meghatározott betegségektől, öröklődő genetikai ártalmaktól, kromoszóma rendellenességektől mentesek legyenek.
 
 ## 4. A spermatermelésben használt tenyészbikák és tenyészkanok egészségesek legyenek, spermájuk a termékenyítés útján átvihető kórokozó vagy fakultatív kórokozó mikroorganizmusokat ne tartalmazzon.
 
@@ -132,4 +132,4 @@ Az embrióátültető állomás működésének szabályai
 
 1.14 az eladott kereskedelmi embriókhoz — a vevő kérésére — felolvasztási, felhasználási technológiát kell mellékelni.
 
-[^11]: Lásd az 1998: XXXVI. törvény 2. §-a (1) bekezdésének d) pontját.
+[^47]: Lásd az 1998: XXXVI. törvény 2. §-a (1) bekezdésének d) pontját.

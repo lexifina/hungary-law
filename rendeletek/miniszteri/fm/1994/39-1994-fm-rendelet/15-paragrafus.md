@@ -14,7 +14,7 @@ c) donor: az elismert tenyésztő szervezet által embrióátültetési programb
 
 d) recipiens: nőivarú állat, amelyet embrióátültetési programban befogadóként használnak.
 
-(2) Az embrióátültető állomást üzemeltetési engedély alapján lehet működtetni. Az üzemeltetési engedélyt kérelem alapján az OMMI adja ki, ha az embrióátültető állomás
+(2)[^34] Az embrióátültető állomást üzemeltetési engedély alapján lehet működtetni. Az üzemeltetési engedélyt kérelem alapján a NÉBIH adja ki, ha az embrióátültető állomás
 
 a) rendelkezik
 
@@ -27,3 +27,5 @@ b) donor és recipiens állománya — amennyiben a telephelyén azzal rendelkez
 c) biztosítja a működés és az állatok állategészségügyi felügyeletét.
 
 (3) Az embrióátültető állomás üzemeltetéséért felelős személy állatorvos vagy mezőgazdasági mérnök képesítéssel rendelkező személy lehet.
+
+[^34]: A 15. § (2) bekezdés nyitó szövegrésze a 19/2014. (III. 12.) VM rendelet 4. § d) pontja szerint módosított szöveg.
