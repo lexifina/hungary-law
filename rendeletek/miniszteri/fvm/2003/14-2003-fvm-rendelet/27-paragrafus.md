@@ -1,4 +1,4 @@
-## 26. §[^49] A helyi zárlat alatt álló helyen tárolt zárt, burkolt csomagolású, illetve elkülönített szemes és szálas takarmányt meg kell óvni a fertőzéstől. A takarmányt a hatósági állatorvos útmutatása és a fertőtlenítési útmutatóban foglaltak szerint kell fertőtleníteni. Az ilyen takarmányt – az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság által előírt feltételek mellett – a betegségre nem fogékony állatokkal meg lehet etetni.
+## 26. §[^55] A helyi zárlat alatt álló helyen tárolt zárt, burkolt csomagolású, illetve elkülönített szemes és szálas takarmányt meg kell óvni a fertőzéstől. A takarmányt a hatósági állatorvos útmutatása és a fertőtlenítési útmutatóban foglaltak szerint kell fertőtleníteni. Az ilyen takarmányt – az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság által előírt feltételek mellett – a betegségre nem fogékony állatokkal meg lehet etetni.
 
 ## Fertőtlenítés
 
@@ -6,4 +6,4 @@
 
 (2) A fertőtlenítést a hatósági állatorvos felügyeli és ellenőrzi.
 
-[^49]: A 26. § a 70/2013. (VII. 31.) VM rendelet 24. § d) pontja szerint módosított szöveg.
+[^55]: A 26. § a 70/2013. (VII. 31.) VM rendelet 24. § d) pontja szerint módosított szöveg.

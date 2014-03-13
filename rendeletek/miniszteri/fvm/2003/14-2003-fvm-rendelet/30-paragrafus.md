@@ -1,5 +1,6 @@
-30. § (1)[^55] Az állatok csak a községi zárlat és a védőkörzet szabályainál előírt, kedvező eredményű állatorvosi vizsgálat és az előzetes helyszíni szemle után szállíthatók el a zárlat alatt álló helyről. Ilyen esetben az engedélyen a vizsgálati eredményt is fel kell tüntetni.
+30. § (1)[^62] Az állatok csak a védőkörzet és a megfigyelési körzet szabályainál előírt, kedvező eredményű állatorvosi vizsgálat és az előzetes helyszíni szemle után szállíthatók el a zárlat alatt álló helyről. Ilyen esetben az engedélyen a vizsgálati eredményt is fel kell tüntetni.
 
-(2) Az állatokat csak az előírt feltételekkel, a kijelölt útvonalon és a községi zárlaton, illetve védőkörzeten belüli helyre szabad kiszállítani, azok tulajdonjoga útközben másra nem ruházható át. Az állatokat kísérővel, megállás nélkül kell a célállomásig szállítani.
+(2)[^63] Az állatokat csak az előírt feltételekkel, a kijelölt útvonalon és a védőkörzeten, illetve megfigyelési körzeten belüli helyre szabad kiszállítani, azok tulajdonjoga útközben másra nem ruházható át. Az állatokat kísérővel, megállás nélkül kell a célállomásig szállítani.
 
-[^55]: [A 70/2013. (VII. 31.) VM rendelet 24. § q) pontjával elrendelt módosítás, amely szerint a „községi zárlaton, illetve védőkörzeten” szövegrész helyébe a „védőkörzeten, illetve megfigyelési körzeten” szöveg lép, nem vezethető át.]
+[^62]: A 30. § (1) bekezdése a 19/2014. (III. 12.) VM rendelet 7. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^63]: A 30. § (2) bekezdése a 19/2014. (III. 12.) VM rendelet 7. § (2) bekezdés e) pontja szerint módosított szöveg.
