@@ -10,7 +10,7 @@
 
 ## Felelős: az emberi erőforrások minisztere
 
-## Határidő: 2014. június 30.
+## Határidő:[^1] 2014. december 31.
 
 1. melléklet az 1482/2013. (VII. 26.) Korm. határozathoz
 
@@ -89,3 +89,5 @@ Költségvetési év: 2013.
 | Magyar Államkincstár | 1 példány |  | egyéb: | azonnal | 245,0 |  |  |  |  |  |  |  |  |  |  | 245,0 |  |
 
 | Nemzetgazdasági Minisztérium | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A határidő szövege az 1123/2014. (III. 13.) Korm. határozat 2. pontja szerint módosított szöveg.
