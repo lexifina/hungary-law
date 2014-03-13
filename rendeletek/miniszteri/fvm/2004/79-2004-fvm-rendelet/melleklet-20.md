@@ -248,8 +248,8 @@
 
 ## kárbecslő
 
-20. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^175]
+20. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^176]
 
 A VADÁSZHATÓ ÁLLATOK ÉS A HULLOTT AGANCS VADGAZDÁLKODÁSI ÉRTÉKE
 
-[^175]: A Vhr. 20. számú melléklete a 72/2012. (VII. 24.) VM rendelet 15. § c) pontjával megállapított szöveg.
+[^176]: A Vhr. 20. számú melléklete a 72/2012. (VII. 24.) VM rendelet 15. § c) pontjával megállapított szöveg.
