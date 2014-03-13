@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-36-20-8
 | 2012-08-01 | 2006-36-20-82.7 | 72/2012. (VII. 24.) VM rendelet |
 | 2013-06-05 | 2006-36-20-82.8 | 10/2010. (II. 4.) FVM rendelet |
 | 2013-08-01 | 2006-36-20-82.9 | 70/2013. (VII. 31.) VM rendelet |
+| 2014-03-13 | 2006-36-20-82.10 | 10/2010. (II. 4.) FVM rendelet |

@@ -16,7 +16,7 @@ d)[^18] a 3. számú mellékletben a toxikus elemekre előírt határértékekne
 
 (3) Az engedélyről az engedélyező hatóság engedélyokiratot állít ki.
 
-(4)[^20] Az engedélyokiratot elektronikus úton közölni kell a vidékfejlesztési miniszterrel és Mezőgazdasági Szakigazgatási Hivatal területi szerveivel (a továbbiakban: az MgSzH területi szerve) is.
+(4)[^20] Az engedélyokiratot elektronikus úton közölni kell a vidékfejlesztési miniszterrel és a fővárosi és megyei kormányhivatal növény- és talajvédelmi igazgatóságával (a továbbiakban: növény- és talajvédelmi igazgatóság) is.
 
 (5) Az engedélynek a következő adatokat kell tartalmaznia:
 
@@ -58,7 +58,7 @@ o) az engedélyező hatóság által előírt egyéb előírásokat.
 [^17]: A 7. § (1) bekezdés b) pontja a 10/2010. (II. 4.) FVM rendelet 6. § (1) bekezdésével megállapított szöveg.
 [^18]: A 7. § (1) bekezdés d) pontját a 10/2010. (II. 4.) FVM rendelet 6. § (2) bekezdése iktatta be.
 [^19]: A 7. § (2) bekezdése a 90/2008. (VII. 18.) FVM rendelet 7. § (1) bekezdésével megállapított szöveg. E módosító rendelet 5. § (4) bekezdése alapján a rendelkezést a 2008. augusztus 2. napját követően indult eljárásokban kell alkalmazni.
-[^20]: A 7. § (4) bekezdése a 10/2010. (II. 4.) FVM rendelet 6. § (3) bekezdésével megállapított, a 72/2012. (VII. 24.) VM rendelet 9. § b) pontja, a 70/2013. (VII. 31.) VM rendelet 53. § b) pontja szerint módosított szöveg. [Ez utóbbi módosító rendelet 53. § c) pontjával elrendelt módosítás, amely szerint „a Mezőgazdasági Szakigazgatási Hivatal területi szerveivel (a továbbiakban: MgSzH területi szerve)” szövegrész helyébe „a megyei kormányhivatal növény- és talajvédelmi igazgatóságával (a továbbiakban: növény- és talajvédelmi igazgatóság)” szöveg lép, nem vezethető át.]
+[^20]: A 7. § (4) bekezdése a 10/2010. (II. 4.) FVM rendelet 6. § (3) bekezdésével megállapított, a 72/2012. (VII. 24.) VM rendelet 9. § b) pontja, a 70/2013. (VII. 31.) VM rendelet 53. § b) pontja, a 19/2014. (III. 12.) VM rendelet 18. §-a szerint módosított szöveg.
 [^21]: A 7. § (5) bekezdés e) pontja a 72/2012. (VII. 24.) VM rendelet 4. §-ával megállapított szöveg.
 [^22]: A 7. § (5) bekezdés k) pontja a 10/2010. (II. 4.) FVM rendelet 13. § (4) bekezdése szerint módosított szöveg.
 [^23]: A 7. § (6) bekezdése a 10/2010. (II. 4.) FVM rendelet 6. § (4) bekezdésével megállapított szöveg.
