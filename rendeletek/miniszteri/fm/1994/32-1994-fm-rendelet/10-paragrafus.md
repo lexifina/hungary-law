@@ -2,7 +2,7 @@
 
 Ez a rendelet 1994. július 1. napján lép hatályba.
 
-Melléklet a 32/1994. (VI. 28.) FM rendelethez[^22]
+Melléklet a 32/1994. (VI. 28.) FM rendelethez[^21]
 
 A vizsgálatok elfogadott módszerei
 
@@ -72,4 +72,4 @@ A vizsgálatok elfogadott módszerei
 
 4.4.3 a közzététel formáját.
 
-[^22]: A melléklet a 148/2011. (XII. 29.) VM rendelet 1. § (3) bekezdés a) pontja szerint módosított szöveg.
+[^21]: A melléklet a 148/2011. (XII. 29.) VM rendelet 1. § (3) bekezdés a) pontja szerint módosított szöveg.
