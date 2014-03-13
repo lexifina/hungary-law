@@ -2,7 +2,7 @@
 
 8. § (1) A rókák veszettségének megelőzése és a betegség leküzdése érdekében a vadon élő rókapopuláció veszettség elleni ellenállóképességét szájon át történő vakcinázással kell biztosítani. Az immunizálás időpontját és területi kiterjedését az országos főállatorvos határozza meg. Az immunizálás időpontjáról és a beazonosítható terület kijelöléséről, az országos főállatorvos az immunizálás kezdetét tizennégy nappal megelőzően értesíti az országos tisztifőorvost is.
 
-(2)[^19] A rókák szájon át történő vakcinázása végrehajtásának előkészítését az országos főállatorvos irányításával az állat-egészségügyi és élelmiszer-ellenőrző szolgálat MgSzH az illetékes vadászati és halászati felügyelőségeinek (a továbbiakban: vadászati hatóság) bevonásával végzi.
+(2)[^19] A rókák szájon át történő vakcinázása végrehajtásának előkészítését az országos főállatorvos irányításával az állat-egészségügyi és élelmiszer-ellenőrző szolgálat a megyei kormányhivatal földművelésügyi igazgatóságának (a továbbiakban: vadászati hatóság) bevonásával végzi.
 
 (3) A rókák szájon át történő vakcinázására kizárólag a külön jogszabály szerint Magyarországon forgalomba hozható csalétek vakcinát lehet használni.
 
@@ -16,7 +16,7 @@
 
 (8)[^22] Amennyiben ember érintkezik a csalétekben található vakcinával, azt haladéktalanul jelenteni kell a területileg illetékes járási népegészségügyi intézetnek.
 
-[^19]: [A 70/2013. (VII. 31.) VM rendelet 102. § d) pontjával elrendelt módosítás, amely szerint az „az MgSzH az illetékes vadászati és halászati felügyelőségeinek (a továbbiakban: vadászati hatóság)” szövegrész helyébe az „a megyei kormányhivatal földművelésügyi igazgatóságának, mint vadászati hatóság (a továbbiakban: vadászati hatóság)” szöveg lép, nem vezethető át.]
+[^19]: A 8. § (2) bekezdése a 19/2014. (III. 12.) VM rendelet 29. § (1) bekezdése szerint módosított szöveg.
 [^20]: A 8. § (5) bekezdése a 151/2012. (XII. 29.) VM rendelet 30. § b) pontja szerint módosított szöveg.
 [^21]: A 8. § (7) bekezdése a 151/2012. (XII. 29.) VM rendelet 30. § b) pontja szerint módosított szöveg.
 [^22]: A 8. § (8) bekezdése a 70/2013. (VII. 31.) VM rendelet 102. § e) pontja szerint módosított szöveg.
