@@ -28,7 +28,7 @@ c) írásbeli nyilatkozattal kötelezi magát arra, hogy a hivatalos mintavétel
 
 (7)[^88] A mintavételt a jogszabályok és a NÉBIH engedélyében foglaltak alapján kell végezni.
 
-(8)[^89] A meghatalmazott mintavevő tevékenységét a NÉBIH ellenőrzi. A meghatalmazott mintavevő tevékenységéről negyedévente – a mintavételek számára kiterjedő adatszolgáltatással – tájékoztatja a minősítő intézetet. Az automata mintavevő eszköz használatát a NÉBIH engedélyezi és rendszeresen ellenőrzi.
+(8)[^89] A meghatalmazott mintavevő tevékenységét a NÉBIH ellenőrzi. A meghatalmazott mintavevő tevékenységéről negyedévente – a mintavételek számára kiterjedő adatszolgáltatással – tájékoztatja a NÉBIH-et. Az automata mintavevő eszköz használatát a NÉBIH engedélyezi és rendszeresen ellenőrzi.
 
 (9)[^90] Az átruházott jogkörben végzett mintavételt a NÉBIH felügyelete mellett kell végezni. A meghatalmazott mintavevő által mintázott vetőmagtételek legalább 15%-át ellenőrző hivatalos mintavételben és hivatalos vetőmag-vizsgálatban kell részesíteni.
 
@@ -67,7 +67,7 @@ d) a szükséges oktatást és vizsgáztatást megszervezni.
 [^86]: A 22/A. § (5) bekezdés b) pontja a 70/2013. (VII. 31.) VM rendelet 32. § c) pontja szerint módosított szöveg.
 [^87]: A 22/A. § (6) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 32. § d) pontja szerint módosított szöveg.
 [^88]: A 22/A. § (7) bekezdése a 70/2013. (VII. 31.) VM rendelet 32. § c) pontja szerint módosított szöveg.
-[^89]: A 22/A. § (8) bekezdése a 70/2013. (VII. 31.) VM rendelet 32. § c) pontja szerint módosított szöveg.
+[^89]: A 22/A. § (8) bekezdése a 70/2013. (VII. 31.) VM rendelet 32. § c) pontja, a 19/2014. (III. 12.) VM rendelet 12. § (3) bekezdés b) pontja szerint módosított szöveg.
 [^90]: A 22/A. § (9) bekezdése a 70/2013. (VII. 31.) VM rendelet 32. § c) pontja szerint módosított szöveg.
 [^91]: A 22/A. § (10) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 32. § d) pontja szerint módosított szöveg.
 [^92]: A 22/A. § (11) bekezdése 70/2013. (VII. 31.) VM rendelet 32. § c)–d) pontja szerint módosított szöveg.

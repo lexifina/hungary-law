@@ -6,6 +6,6 @@
 
 (3) A vetőmag-előállító köteles nyilvántartást vezetni a nemesítőtől, illetve a fajtafenntartótól átvett – a fajtafenntartó által ellenőrzött – anyamag továbbszaporítási fokozatairól.
 
-(4)[^40] A vetőmag-előállítónál vezetett nyilvántartást a minősítő intézet szúrópróbaszerűen ellenőrzi.
+(4)[^40] A vetőmag-előállítónál vezetett nyilvántartást a NÉBIH szúrópróbaszerűen ellenőrzi.
 
-[^40]: A 14/2011. (II. 24.) VM rendelet 19. § (2) bekezdésével elrendelt módosítás, amely szerint a „Központja” szövegrész hatályát veszti, nem vezethető át.
+[^40]: A 11. § (4) bekezdése a 19/2014. (III. 12.) VM rendelet 12. § (3) bekezdés a) pontja szerint módosított szöveg.

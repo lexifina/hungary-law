@@ -18,7 +18,7 @@ c) standard vetőmag esetében a vetőmag előállítója saját jogon minősít
 
 (6)[^114] A szuperelit, elit és certifikált vetőmagtételek minősítését a NÉBIH és az illetékes megyei kormányhivatal növény- és talajvédelmi igazgatósága külön jogszabály szerinti díj ellenében végzi.
 
-(7)[^115] A minősítés feltétele a certifikált vetőmagnál Magyarországon vagy valamely más tagállamban történő előállítás esetén a hatósági szántóföldi minősítés megléte, harmadik országból származó importvetőmag esetén a hivatalos fajtaigazolás megléte. A hatósági minősítést a vetőmag előállítójának kell kérelmeznie szuperelit vetőmag esetében MgSzH-nál, elit, illetve alacsonyabb fokú vetőmag esetében az illetékes megyei kormányhivatal növény- és talajvédelmi igazgatóságánál. A fémzárolást a bejelentést követő 8 napon belül el kell végezni. Standard vetőmagnál csatolni kell a standard előállításért felelős nyilatkozatát a fajtaazonosságról és a fajtattisztaságról.
+(7)[^115] A minősítés feltétele a certifikált vetőmagnál Magyarországon vagy valamely más tagállamban történő előállítás esetén a hatósági szántóföldi minősítés megléte, harmadik országból származó importvetőmag esetén a hivatalos fajtaigazolás megléte. A hatósági minősítést a vetőmag előállítójának kell kérelmeznie szuperelit vetőmag esetében a NÉBIH-nél, elit, illetve alacsonyabb fokú vetőmag esetében az illetékes megyei kormányhivatal növény- és talajvédelmi igazgatóságánál. A fémzárolást a bejelentést követő 8 napon belül el kell végezni. Standard vetőmagnál csatolni kell a standard előállításért felelős nyilatkozatát a fajtaazonosságról és a fajtattisztaságról.
 
 (8) A minősített vetőmagtétel addig hozható forgalomba, amíg a 3. és 4. számú mellékletben foglaltaknak megfelel.
 
@@ -34,6 +34,6 @@ c) standard vetőmag esetében a vetőmag előállítója saját jogon minősít
 [^112]: A 23. § (3) bekezdése a 14/2011. (II. 24.) VM rendelet 12. § (1) bekezdésével megállapított szöveg. [E módosító rendelet 17. § e) pontjával elrendelt módosítás, amely szerint az „MgSzH Központja” szövegrész helyébe az „MgSzH, illetve az illetékes megyei kormányhivatal növény- és talajvédelmi igazgatósága” szövegrész lép, nem vezethető át.]
 [^113]: A 23. § (4) bekezdését a 124/2007. (X. 20.) FVM rendelet 19. § (1) bekezdésének a) pontja hatályon kívül helyezte.
 [^114]: A 23. § (6) bekezdése a 14/2011. (II. 24.) VM rendelet 12. § (2) bekezdésével megállapított, a 70/2013. (VII. 31.) VM rendelet 32. § c) pontja szerint módosított szöveg.
-[^115]: A 23. § (7) bekezdése a 14/2011. (II. 24.) VM rendelet 12. § (2) bekezdésével megállapított, az 5/2012. (II. 10.) VM rendelet 10. § d) pontja szerint módosított szöveg. [A 23. § (7) bekezdésében a 70/2013. (VII. 31.) VM rendelet 32. § b) pontjával elrendelt módosítás, amely szerint az „az MgSzH-nál” szövegrész helyébe az „a NÉBIH-nél” szöveg lép, nem vezethető át.]
+[^115]: A 23. § (7) bekezdése a 14/2011. (II. 24.) VM rendelet 12. § (2) bekezdésével megállapított, az 5/2012. (II. 10.) VM rendelet 10. § d) pontja, a 19/2014. (III. 12.) VM rendelet 12. § (3) bekezdés c) pontja szerint módosított szöveg.
 [^116]: A 23. § (9) bekezdése a 70/2013. (VII. 31.) VM rendelet 32. § c) pontja szerint módosított szöveg.
 [^117]: A 23. § (11) bekezdése a 70/2013. (VII. 31.) VM rendelet 32. § d) pontja szerint módosított szöveg.
