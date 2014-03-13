@@ -6,7 +6,7 @@
 
 (3) A (2) bekezdés szerinti eljárásnak akkor van helye, ha a szaporítóanyag kiinduló anyaga és az abból nyert szaporító alapanyag, ültetési anyag – tekintettel a származási hely ökológiai körülményeire, illetve a növényanyag fenotípusos és genetikai adottságaira – nem alkalmas Magyarországon erdőgazdasági célú felhasználásra, a hazai erdőkre, a természeti környezetre, a genetikai és a biodiverzitásra gyakorolt káros hatása miatt. Az eljárás számszerűsített erdőgazdasági tapasztalatok, illetve a 3. és 4. számú mellékletben részletezett tudományos módszerű vizsgálatok, összehasonlító kísérletek eredményei alapján indítható meg.
 
-(4) Számszerűsített erdőgazdasági tapasztalatok esetén az Állami Erdészeti Szolgálat által hivatalosan hitelesített származású erdősítések megmaradási és növekedési adatait, kísérletek esetében a kísérleti dokumentációt és az értékelt eredményeket, illetve a korábbi kísérletek szakirodalmi adatait kell bizonyítékként benyújtani.
+(4)[^69] Számszerűsített erdőgazdasági tapasztalatok esetén a NÉBIH által hivatalosan hitelesített származású erdősítések megmaradási és növekedési adatait, kísérletek esetében a kísérleti dokumentációt és az értékelt eredményeket, illetve a korábbi kísérletek szakirodalmi adatait kell bizonyítékként benyújtani.
 
 (5) A korlátozási vagy megtiltási kérelmet
 
@@ -16,3 +16,4 @@ b) magtermesztő ültetvények, család(ok) szülei, klónok és klónösszeáll
 
 [^67]: A 23. § (1) bekezdése a 70/2013. (VII. 31.) VM rendelet 30. § d) pontja szerint módosított szöveg.
 [^68]: A 23. § (2) bekezdése a 70/2013. (VII. 31.) VM rendelet 30. § d) pontja szerint módosított szöveg.
+[^69]: A 23. § (4) bekezdése a 19/2014. (III. 12.) VM rendelet 11. § b) pontja szerint módosított szöveg.
