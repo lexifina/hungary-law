@@ -42,7 +42,7 @@ A nyilvántartás adatait a hozzáférési jogosultság megszűnésétől szám�
 
 4. A nyilvántartási rendszerekhez való jogosultságok beállításával egyidejűleg – a biztonsági rendszer elemeként – a Hivatal SMART kártyát biztosít.
 
-4.1.[^16] A jogosult a kártyát nem viheti ki a járási hivatalból, illetve az okmányirodából, azt a munkaidőn kívül biztonságos, jól elzárható és illetéktelen személyek számára hozzáférhetetlen helyen kell tárolni.
+4.1.[^16] A jogosult a kártyát – a kirendelés és az átirányítás eseteit kivéve – nem viheti ki a járási hivatalból, illetve az okmányirodából, azt a munkaidőn kívül biztonságos, jól elzárható és illetéktelen személyek számára hozzáférhetetlen helyen kell tárolnia. A kirendelés és átirányítás érdekében történő kártyamozgásokat megfelelően dokumentálni szükséges, illetve ezen esetekben a biztonságos tárolásról ugyancsak gondoskodni szükséges.
 
 4.2.[^17] A jogosult a kártya használatát más személynek nem engedheti át, a kártya és a nyilvántartási rendszerek használatát biztosító egyéb – felhasználói kézikönyv (alkalmazói utasítás) szerinti – azonosítót (jelszó, PIN-kód, felhasználói azonosító) más személynek nem hozhatja tudomására. Ez alól kivételt képeznek az okmányiroda technikai eszközein és az általa használt hálózaton keresztül a választásokkal összefüggésben végzett adatkezelési feladatok. Ezek ellátása érdekében az erre – a járási hivatal vezetője által – kijelölt személyek jogosultak a fenti azonosítók megismerésére. Utóbbi esetben a kártyahasználat ideiglenes átadását jegyzőkönyvben kell rögzíteni, és a választási feladatok befejeztével a korábbi azonosítókat lehetőség szerint rögtön meg kell változtatni.
 
@@ -60,7 +60,7 @@ A Hivatal a felhasználói kártya pótlását 5 munkanapon belül biztosítja.
 [^13]: Az 1. számú melléklet 3.1. pont nyitó szövegrésze az 50/2012. (XII. 4.) KIM rendelet 10. § g) pontja szerint módosított szöveg.
 [^14]: Az 1. számú melléklet 3.3. pontja az 50/2012. (XII. 4.) KIM rendelet 10. § g) pontja szerint módosított szöveg.
 [^15]: Az 1. számú melléklet 3.4. pont nyitó szövegrésze az 50/2012. (XII. 4.) KIM rendelet 10. § g) pontja szerint módosított szöveg.
-[^16]: Az 1. számú melléklet 4.1. pontja az 50/2012. (XII. 4.) KIM rendelet 10. § h) pontja szerint módosított szöveg.
+[^16]: Az 1. számú melléklet 4. pont 4.1. alpontja a 14/2014. (III. 12.) KIM rendelet 1. §-ával megállapított szöveg.
 [^17]: Az 1. számú melléklet 4.2. pontja az 50/2012. (XII. 4.) KIM rendelet 10. § g) pontja szerint módosított szöveg.
 [^18]: Az 1. számú melléklet 4.3. pontja az 50/2012. (XII. 4.) KIM rendelet 10. § g) és i) pontja szerint módosított szöveg.
 [^19]: Az 1. számú melléklet 4.4. pontja az 50/2012. (XII. 4.) KIM rendelet 10. § i) pontja szerint módosított szöveg.
