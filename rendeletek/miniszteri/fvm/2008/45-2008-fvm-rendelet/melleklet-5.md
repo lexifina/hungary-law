@@ -68,7 +68,7 @@ Szemlemegrendelő mintája
 
 Oldal: .........
 
-Az MgSzH Központ
+Nemzeti Élelmiszerlánc-biztonsági Hivatal
 
 1024 Budapest, Keleti Károly u. 24.
 
@@ -80,46 +80,33 @@ a dísznövény szaporítóanyagok szerződéses termeltetéséhez
 
 … év
 
-| Nyilvántartásban szereplő forgalmazó neve és címe: ................................................................................. | Nyilvántartási száma: .............................................. |
-
-| ....................................................................................................................................................................... | Dátum: ..................................................................... |
+| Nyilvántartásban szereplő forgalmazó neve és címe: ............ ................................................................................................. ................................................................................................. ................................................................................................. | Nyilvántartási száma: ............................................................. Dátum: .................................................................................... |
 
 Bejelentem, hogy az alábbi termelők dísznövény szaporítóanyag termesztést végeznek számomra a pótlapok szerinti növényekből és darabszámban. A csatolt pótlapok száma: .................... db. Kérem, hogy a szaporítóanyagok éves szemléjét elvégezni szíveskedjenek.
 
 | Sorszám | Termelő | Termesztésbe vont területek* | Szerződéskötés éve |
 
-| neve | címe | helység és hrsz. | nagyság (m2) |
+| neve | címe | helység és hrsz. | nagyság (m2) |  |
 
-……………………………………………………………………
+* Kizárólag a Nemzeti Élelmiszerlánc-biztonsági Hivatal dísznövény szaporítóanyag forgalmazók nyilvántartásában nem szereplő területeket kell bejelenteni. A pótlapokat termelőnként kell kiállítani.
+
+…………………………………………………
 
 nyilvántartásban szereplő forgalmazó aláírása
 
-––––––––––––
-
-* Kizárólag a Nemzeti Élelmiszerlánc-biztonsági Hivatal dísznövény szaporítóanyag forgalmazók nyilvántartásában nem szereplő területeket kell bejelenteni. A pótlapokat termelőnként kell kiállítani.
-
-PÓTLAP*
+PÓTLAP[^*]
 
 a termeltetési szerződés keretében termelt dísznövény szaporítóanyagok szemlemegrendelőjéhez
 
 … év
 
-| Nyilvántartásban szereplő forgalmazó neve és címe: ...................................... | Nyilvántartási száma: ........................ |
-
-| ………………………………………………………………………………… | ………………………………………. |
-
-| Termelő neve és címe: ..................................................................................... | Dátum: ............................................... |
-
-| ………………………………………………………………………………… | ………………………………………. |
+| Nyilvántartásban szereplő forgalmazó neve és címe: ............ ................................................................................................. Termelő neve és címe: ........................................................... ................................................................................................ | Nyilvántartási száma: ............................................................. ................................................................................................. Dátum: .................................................................................... ................................................................................................. |
 
 | Szaporítóanyag megnevezése (botanikai név, fajta) | Menyisége (db) | Ellenőrző felügyelő megjegyzése |
 
-………………………………………………………
+…………………………………………………
 
 nyilvántartásban szereplő forgalmazó aláírása
 
-–––––––––––––
-
-* Kizárólag a Nemzeti Élelmiszerlánc-biztonsági Hivatal dísznövény szaporítóanyag forgalmazók nyilvántartásában nem szereplő területeket kell bejelenteni. A pótlapokat termelőnként kell kiállítani.
-
-[^26]: Az 5. számú melléklet a 70/2013. (VII. 31.) VM rendelet 92. § h) pontja szerint módosított szöveg. [E módosító rendelet 92. § g) pontjával elrendelt módosítás, amely szerint az „MgSzH Központ, Növénytermesztési és Kertészeti Igazgatóság, Dísznövény és Zöldségpalánta Szaporítóanyag Felügyeleti Osztály” szövegrész helyébe a „Nemzeti Élelmiszerlánc-biztonsági Hivatal” szöveg lép, nem vezethető át.]
+[^26]: Az 5. számú melléklet a 19/2014. (III. 12.) VM rendelet 24. § (1) bekezdésével megállapított szöveg.
+[^*]: Kizárólag a Nemzeti Élelmiszerlánc-biztonsági Hivatal dísznövény szaporítóanyag forgalmazók nyilvántartásában nem szereplő területeket kell bejelenteni. A pótlapokat termelőnként kell kiállítani.

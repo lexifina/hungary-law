@@ -316,4 +316,4 @@
 
 3. számú melléklet a 45/2008. (IV. 11.) FVM rendelethez[^25]
 
-[^25]: A 3. számú melléklet a 70/2013. (VII. 31.) VM rendelet 92. § g) pontja szerint módosított szöveg.
+[^25]: A 3. számú melléklet a 70/2013. (VII. 31.) VM rendelet 92. § g) pontja, a 19/2014. (III. 12.) VM rendelet 24. § (2) bekezdés d) pontja szerint módosított szöveg.

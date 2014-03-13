@@ -64,7 +64,7 @@
 
 ## Nyilatkozom, hogy a fenti területeket jogszerűen használom.
 
-## Tudomásul veszem, hogy az itt közölt adataimban bekövetkezett változásokat 30 napon belül be kell jelentenem az MgSzH Központ Növénytermesztési és Kertészeti Igazgatóságára.
+## Tudomásul veszem, hogy az itt közölt adataimban bekövetkezett változásokat 30 napon belül be kell jelentenem a NÉBIH részére.
 
 ## A kérelemhez csatoltam a következőket:
 
