@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-49-20-8
 | 2010-11-17 | 2007-49-20-82.3 | 28/2010. (XI. 9.) VM rendelet |
 | 2013-01-01 | 2007-49-20-82.4 | 28/2010. (XI. 9.) VM rendelet |
 | 2013-08-01 | 2007-49-20-82.5 | 28/2010. (XI. 9.) VM rendelet |
+| 2014-03-13 | 2007-49-20-82.6 | 28/2010. (XI. 9.) VM rendelet |

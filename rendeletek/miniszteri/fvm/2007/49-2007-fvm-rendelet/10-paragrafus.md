@@ -4,7 +4,7 @@
 
 (2)[^18] A tenyésztési hatóság az ellenőrzéseket a spermatároló központok ellenőrzési szabályzata (a továbbiakban: Szabályzat) alapján végzi el.
 
-(3)[^19] A Szabályzatot a Mezőgazdasági Szakigazgatási Hivatal Központja (a továbbiakban: MgSzH Központja) 2010. december 31-ig készíti el, hogy az egyúttal megfeleljen a szarvasmarhafajba tartozó háziállatok mélyhűtött spermájának Közösségen belüli kereskedelmére és behozatalára alkalmazandó állat-egészségügyi követelmények megállapításáról szóló, 1988. június 14-i 88/407/EGK irányelvnek (a továbbiakban: 88/407/EGK irányelv).
+(3)[^19] A Szabályzatot a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH) 2010. december 31-ig készíti el, hogy az egyúttal megfeleljen a szarvasmarhafajba tartozó háziállatok mélyhűtött spermájának Közösségen belüli kereskedelmére és behozatalára alkalmazandó állat-egészségügyi követelmények megállapításáról szóló, 1988. június 14-i 88/407/EGK irányelvnek (a továbbiakban: 88/407/EGK irányelv).
 
 (4) Az (1) bekezdés szerinti hatósági ellenőrzés dokumentációs és helyszíni ellenőrzésből állhat, továbbá kiterjedhet a sperma – mintavételt követő – laboratóriumi minőségellenőrzésére is.
 
@@ -29,5 +29,5 @@ b) szándékosan forgalmaz ismert, az adott fajta tenyésztési programjában ki
 (10)[^20] A spermatároló központokat a területileg illetékes megyei kormányhivatal járási hivatala járási állat-egészségügyi és élelmiszer-ellenőrző hivatalnak kockázati tényezők figyelembevételével rendszeresen, legalább évente kétszer ellenőriznie kell, amelynek során állandó jelleggel ellenőrzi az engedélyezés és működtetés állategészségügyi feltételeit. Az ellenőrzés legalább egyike a tenyésztési hatósággal együtt történik. Az ellenőrzés az engedélyesre és üzemeltetőre egyetemlegesen kiterjed.
 
 [^18]: [A 10. § (2) bekezdésében a 70/2013. (VII. 31.) VM rendelet 65. § c) pontjával elrendelt módosítás, amely szerint az „a Mezőgazdasági Szakigazgatási Hivatal Központja (a továbbiakban: MgSzH Központja)” szövegrész helyébe „a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH)” szöveg lép, nem vezethető át.]
-[^19]: A 10. § (3) bekezdése a 28/2010. (XI. 9.) VM rendelet 5. § (7) bekezdésével megállapított szöveg.
+[^19]: A 10. § (3) bekezdése a 28/2010. (XI. 9.) VM rendelet 5. § (7) bekezdésével megállapított, a 19/2014. (III. 12.) VM rendelet 21. § b) pontja szerint módosított szöveg.
 [^20]: A 10. § (10) bekezdését a 28/2010. (XI. 9.) VM rendelet 5. § (8) bekezdése iktatta be, szövege a 151/2012. (XII. 29.) VM rendelet 33. §-a szerint módosított szöveg.
