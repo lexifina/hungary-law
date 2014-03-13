@@ -42,47 +42,7 @@
 
 | 1. Prioritás összesen | 8,51 | 3,36 | 1,81 |  |
 
-| 2. | I. Prioritás bemutatása: 2. prioritás: Turizmusfejlesztés | Közép-dunántúli Operatív Program |
-
-|  |  |  |  |  |  | Akcióterv 2011-2013 |
-
-| 1. Prioritás tartalma |  |  |  |  |  |  |
-
-| Prioritás rövid tartalma (max. 500 karakter) |  |  |
-
-| A prioritás egyrészt a régió turisztikai kínálati portfoliójának komplex és integrált fejlesztését, valamint a turisztikai és szabadidős szolgáltatások minőségi és mennyiségi fejlesztését célozza meg. Másrészt magába foglalja a turisztikai szereplők együttműködésén alapuló fejlesztéseket, és a közös, helyi és térségi szintű desztináció-marketing folyamatos ellátásához szükséges háttér biztosítását. |  |
-
-| 2. A prioritás ütemezése – kiírások kerete |  |  |  |
-
-| Indikatív forrásallokáció (Mrd Ft, folyó áron, 280 HUF/EUR árfolyamon) |  |  |  |
-
-| 2011 | 2012 | 2013 | Összesen |  |  |  |
-
-| 1,79 | 13,15 | 2,09 | 17,03 |  |  |  |  |
-
-| Tervezett ESZA arány (%): | max. 10% |  |  |
-
-| 3. A prioritás ütemezése – kötelezettségvállalás (IH döntés) |  |  |
-
-| Indikatív forrásallokáció (Mrd Ft, folyó áron, 280 HUF/EUR árfolyamon) |  |
-
-| 2007-2010 | 2011 | 2012 | 2013 | 2014-2015 | Összesen |  |
-
-| 25,19 | 0,92 | 2,20 | 13,91 | 0,27 | 42,50 |  |
-
-| II. A támogatási konstrukciók összefoglaló adatai (2011-2013) |  |  |
-
-| Konstrukció kódja | Konstrukció neve | Pályázatok, kiemelt projektek meghirdethető kerete (Mrd Ft) | Konstrukció célja | A konstrukció szakmai tartalmáért felelős miniszter | A konstrukció szakmai tartalma tekintetében feladatkörrel rendelkező további miniszter |
-
-| 2011 | 2012 | 2013 |
-
-| 2.1.1. | Kiemelt és integrált vonzerő-, termék- és infrastruktúra-fejlesztések támogatása | 1,40 | 12,89 | 2,09 | Turisztikai vonzerők illetve attrakciók létrehozásán, meglevők fejlesztésén, valamint turisztikai szolgáltatások kialakításán és fejlesztésén keresztül a hazai turizmus szektor versenyképességének erősítése, a turizmusból származó jövedelmek növelése és munkahelyek teremtése. | nemzetgazdasági miniszter | emberi erőforrások minisztere |
-
-| 2.1.2. | Szálláshelyek és a turisztikai termékkínálat értékét növelő egyéb szolgáltatások infrastrukturális és minőségi fejlesztése | A konstrukció 2011-2013-ban nem indul. | nemzetgazdasági miniszter |  |
-
-| 2.2.1. | Térségi és helyi turisztikai együttműködési rendszerek, fejlesztése | 0,39 | 0,26 | 0,00 | Helyi és térségi Turisztikai Desztináció Menedzsment szervezetek fejlesztése, ezen keresztül a turizmus versenyképességének növelése. | nemzetgazdasági miniszter |  |
-
-| 2. Prioritás összesen | 1,79 | 13,15 | 2,09 |  |
+| 2. |
 
 | 3. | I. Prioritás bemutatása: 3. prioritás: Fenntartható településfejlesztés | Közép-dunántúli Operatív Program |
 

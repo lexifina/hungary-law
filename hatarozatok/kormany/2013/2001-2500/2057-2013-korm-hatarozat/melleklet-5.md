@@ -234,4 +234,6 @@
 
 |  | Akcióterv 2011-2013 ÖSSZESEN (Mrd Ft) | 116,23 |  |  |  |  |  |
 
-5. melléklet a 2057/2013. (XII. 31.) Korm. határozathoz
+5. melléklet a 2057/2013. (XII. 31.) Korm. határozathoz[^4]
+
+[^4]: Az 5. melléklet az 1133/2014. (III. 13.) Korm. határozat 4. pontja szerint módosított szöveg.
