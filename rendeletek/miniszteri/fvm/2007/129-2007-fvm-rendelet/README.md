@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-129-20-
 | --- | --- | --- |
 | 2009-03-16 | 2007-129-20-82.3 | 129/2007. (X. 31.) FVM rendelet |
 | 2012-02-11 | 2007-129-20-82.4 | 5/2012. (II. 10.) VM rendelet |
+| 2014-03-13 | 2007-129-20-82.5 | 19/2014. (III. 12) VM rendelet |
