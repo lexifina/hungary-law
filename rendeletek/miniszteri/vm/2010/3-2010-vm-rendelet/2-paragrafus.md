@@ -2,7 +2,7 @@
 
 2. § (1) E rendelet alkalmazásában:
 
-1.[^1] első magyarországi tárolási hely: az Magyarország területén lévő létesítmény, ahova a harmadik országból vagy tagállamok közötti kereskedelemből származó élelmiszert forgalomba hozatal, illetve feldolgozatlan vagy feldolgozott termék előállítás céljára először betárolták;
+1.[^1] első magyarországi tárolási hely: a Magyarország területén lévő létesítmény, ahova a harmadik országból vagy tagállamok közötti kereskedelemből származó élelmiszert forgalomba hozatal, illetve feldolgozatlan vagy feldolgozott termék előállítás céljára először betárolták;
 
 2. harmadik ország: az Európai Unió tagállamain kívüli ország;
 
@@ -24,5 +24,5 @@
 
 fogalmait is alkalmazni kell.
 
-[^1]: A 2. § (1) bekezdés 1. pontja az 5/2012. (II. 10.) VM rendelet 54. §-a szerint módosított szöveg.
+[^1]: A 2. § (1) bekezdés 1. pontja a 19/2014. (III. 19.) VM rendelet 38. § a) pontja szerint módosított szöveg.
 [^2]: A 2. § (1) bekezdés 6. pontja az 5/2012. (II. 10.) VM rendelet 54. §-a szerint módosított szöveg.
