@@ -1,9 +1,9 @@
-## 2. §
+## 2. §[^3]
 
-## Az 1. §-ban felsorolt kisállatfajok körének kiterjesztése az e rendeletben nem említett fajokra a földművelésügyi és vidékfejlesztési miniszternél[^2] kezdeményezhető.
+## Az 1. §-ban felsorolt kisállatfajok körének kiterjesztése az e rendeletben nem említett fajokra az agrárpolitikáért felelős miniszternél kezdeményezhető.
 
 3. §
 
 Ez a rendelet 1994. július 1. napján lép hatályba.
 
-[^2]: Lásd az 1998: XXXVI. törvény 2. §-a (1) bekezdésének d) pontját.
+[^3]: A 2. § a 19/2014. (III. 12.) VM rendelet 3. §-ával megállapított szöveg.
