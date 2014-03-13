@@ -4,7 +4,7 @@
 
 (3) Amennyiben a talajvédelmi szakértő az 1. § (1) bekezdésében említett felsőoktatási képzés szaktanára, a továbbképzési kötelezettség alól kérelmére felmentést kaphat.
 
-(4)[^10] Amennyiben a talajvédelmi szakértő az (1) bekezdés szerinti továbbképzési kötelezettségének nem tesz eleget és távolmaradását nem igazolja, úgy a NÉBIH a talajvédelmi szakértő szakértői tevékenységét felfüggeszti a továbbképzés elvégzéséről szóló igazolás beszerzéséig. Ha a talajvédelmi szakértő a (2) bekezdés szerint meghirdetett következő továbbképzésen sem pótolja elmulasztott kötelezettségét, a MgSzH Központ szakértői tevékenységének további folytatásától eltiltja.
+(4)[^10] Amennyiben a talajvédelmi szakértő az (1) bekezdés szerinti továbbképzési kötelezettségének nem tesz eleget és távolmaradását nem igazolja, úgy a NÉBIH a talajvédelmi szakértő szakértői tevékenységét felfüggeszti a továbbképzés elvégzéséről szóló igazolás beszerzéséig. Ha a talajvédelmi szakértő a (2) bekezdés szerint meghirdetett következő továbbképzésen sem pótolja elmulasztott kötelezettségét, a NÉBIH szakértői tevékenységének további folytatásától eltiltja.
 
 [^9]: Az 5. § (2) bekezdése a 70/2013. (VII. 31.) VM rendelet 117. § c) pontja szerint módosított szöveg.
-[^10]: Az 5. § (4) bekezdése a 70/2013. (VII. 31.) VM rendelet 117. § b) pontja szerint módosított szöveg.
+[^10]: Az 5. § (4) bekezdése a 70/2013. (VII. 31.) VM rendelet 117. § b) pontja, a 19/2014. (III. 12.) VM rendelet 32. §-a szerint módosított szöveg.
