@@ -34,7 +34,7 @@ b) az értékesítés időpontját,
 
 c) az ültetési anyag mennyiségét, fajtáját, oltvány esetén alanyát, kategóriáját, árát és származási helyét.
 
-(7)[^53] Az árusítóhelyet a NÉBIH és területi szervei ellenőrzik.
+(7)[^53] Az árusítóhelyet a NÉBIH és a növény- és talajvédelmi igazgatóságok ellenőrzik.
 
 (8)[^54] A NÉBIH a forgalomba hozatali engedélyt visszavonja, ha az árusítóhelyen az engedélyes 5 éven belül ismételten és szándékosan megszegték a szaporítóanyag forgalomba hozatalára vonatkozó előírásokat.
 
@@ -42,5 +42,5 @@ c) az ültetési anyag mennyiségét, fajtáját, oltvány esetén alanyát, kat
 [^50]: A 15. § (2) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 59. § b) pontja szerint módosított szöveg.
 [^51]: A 15. § (2) bekezdés c) pontja a 70/2013. (VII. 31.) VM rendelet 59. § g) pontja szerint módosított szöveg.
 [^52]: A 15. § (3) bekezdése a 70/2013. (VII. 31.) VM rendelet 59. § b) pontja szerint módosított szöveg.
-[^53]: A 15. § (7) bekezdése a 70/2013. (VII. 31.) VM rendelet 59. § b) pontja szerint módosított szöveg. [E módosító rendelet 59. § n) pontjával elrendelt módosítás, amely szerint az „a területi szervei” szövegrész helyébe az „a növény- és talajvédelmi igazgatóságok” szöveg lép, nem vezethető át.]
+[^53]: A 15. § (7) bekezdése a 70/2013. (VII. 31.) VM rendelet 59. § b) pontja, a 19/2014. (III. 12.) VM rendelet 20. § b) pontja szerint módosított szöveg.
 [^54]: A 15. § (8) bekezdése a 70/2013. (VII. 31.) VM rendelet 59. § h) pontja szerint módosított szöveg.

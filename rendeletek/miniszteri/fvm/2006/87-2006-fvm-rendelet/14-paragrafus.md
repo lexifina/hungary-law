@@ -14,7 +14,7 @@ b) nemesítési tevékenység, vagy
 
 c) a genetikai sokféleség fenntartására irányuló tevékenység.
 
-(5)[^44] Az Európai Unió területén átmenetileg fellépő és más módon ki nem küszöbölhető szaporítóanyag-ellátási nehézségek áthidalására, meghatározott időtartamra az Európai Unió egész területén vagy valamely részén meghatározott mennyiségű, alacsonyabb minőségi követelményű szaporítóanyag forgalomba hozatala engedélyezhető. Az engedélyre irányuló kérelmet a szaporítóanyag-előállító az MgSzH Központjánál nyújthatja be, a kérelmet a NÉBIH az Európai Bizottsághoz továbbítja. Az Európai Bizottság hozzájárulása esetén a forgalomba hozatali engedélyt a NÉBIH adja ki. A címkék színére vonatkozóan a 9. § (5) bekezdését kell alkalmazni. Amennyiben a szaporítóanyag nem tartozik a 9. § (5) bekezdése szerinti kategóriákba, a címke színe barna. A címkén fel kell tüntetni, hogy a szaporítóanyag milyen kategóriába tartozik, és hogy alacsonyabb követelményeknek felel meg.
+(5)[^44] Az Európai Unió területén átmenetileg fellépő és más módon ki nem küszöbölhető szaporítóanyag-ellátási nehézségek áthidalására, meghatározott időtartamra az Európai Unió egész területén vagy valamely részén meghatározott mennyiségű, alacsonyabb minőségi követelményű szaporítóanyag forgalomba hozatala engedélyezhető. Az engedélyre irányuló kérelmet a szaporítóanyag-előállító a NÉBIH-nél nyújthatja be, a kérelmet a NÉBIH az Európai Bizottsághoz továbbítja. Az Európai Bizottság hozzájárulása esetén a forgalomba hozatali engedélyt a NÉBIH adja ki. A címkék színére vonatkozóan a 9. § (5) bekezdését kell alkalmazni. Amennyiben a szaporítóanyag nem tartozik a 9. § (5) bekezdése szerinti kategóriákba, a címke színe barna. A címkén fel kell tüntetni, hogy a szaporítóanyag milyen kategóriába tartozik, és hogy alacsonyabb követelményeknek felel meg.
 
 (6)[^45] A szőlőiskolai engedéllyel rendelkező engedélyes saját telephelyén a szaporítóanyagot a NÉBIH-nek külön engedélye nélkül – a 2–4. számú mellékletben foglaltak szerint – forgalomba hozhatja.
 
@@ -26,7 +26,7 @@ c) a genetikai sokféleség fenntartására irányuló tevékenység.
 
 [^42]: A 14. § (1) bekezdése a 70/2013. (VII. 31.) VM rendelet 59. § b) és g) pontja szerint módosított szöveg.
 [^43]: A 14. § (4) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 59. § h) pontja szerint módosított szöveg.
-[^44]: A 14. § (5) bekezdése a 70/2013. (VII. 31.) VM rendelet 59. § b) pontja szerint módosított szöveg.
+[^44]: A 14. § (5) bekezdése a 70/2013. (VII. 31.) VM rendelet 59. § b) pontja, a 19/2014. (III. 12.) VM rendelet 20. § a) pontja szerint módosított szöveg.
 [^45]: A 14. § (6) bekezdése a 70/2013. (VII. 31.) VM rendelet 59. § d) pontja szerint módosított szöveg.
 [^46]: A 14. § (7) bekezdése a 70/2013. (VII. 31.) VM rendelet 59. § b) pontja szerint módosított szöveg.
 [^47]: A 14. § (8) bekezdése a 70/2013. (VII. 31.) VM rendelet 59. § b) pontja szerint módosított szöveg.
