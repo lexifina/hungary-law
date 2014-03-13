@@ -24,10 +24,10 @@ ec) a rendszeres rágcsáló- és rovarirtás módját.
 
 (2)[^5] A mentesítési tervben előírtak betartását a járási főállatorvos felügyeli. A mentesítéshez vagy a mentesség fenntartásához előírt vér-, illetve tejminták vételének időpontját a járási főállatorvosnak előzetesen be kell jelenteni. A minták vételét állami állategészségügyi feladatokkal megbízott állatorvos végzi.
 
-(3)[^6] A mentesítéssel kapcsolatos diagnosztikai vizsgálatokat a Nemzeti Élelmiszerlánc-biztonsági Hivatal végzik. A vizsgálatok időpontját a Nemzeti Élelmiszerlánc-biztonsági Hivatallal előzetesen egyeztetni kell.
+(3)[^6] A mentesítéssel kapcsolatos diagnosztikai vizsgálatokat a Nemzeti Élelmiszerlánc-biztonsági Hivatal végzi. A vizsgálatok időpontját a Nemzeti Élelmiszerlánc-biztonsági Hivatallal előzetesen egyeztetni kell.
 
 (4) A hatósági mintavételek és a diagnosztikai vizsgálatok díjkötelesek, melyekről külön jogszabály rendelkezik.
 
 [^4]: Az 5. § (1) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 15. § b) pontja szerint módosított szöveg.
 [^5]: Az 5. § (2) bekezdése a 151/2012. (XII. 29.) VM rendelet 8. § b) pontja szerint módosított szöveg.
-[^6]: Az 5. § (3) bekezdése a 70/2013. (VII. 31.) VM rendelet 15. § c)–d) pontja szerint módosított szöveg.
+[^6]: Az 5. § (3) bekezdése a 70/2013. (VII. 31.) VM rendelet 15. § c)–d) pontja, a 19/2014. (III. 12.) VM rendelet 6. §-a szerint módosított szöveg.
