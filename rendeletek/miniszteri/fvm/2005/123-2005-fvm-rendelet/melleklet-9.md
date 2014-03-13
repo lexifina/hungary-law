@@ -34,7 +34,7 @@
 
 ## Hal
 
-## A fajták estében az MgSzH Központja által szervezett teszten való részvétel szükséges.
+## A fajták estében a NÉBIH által szervezett teszten való részvétel szükséges.
 
 ## Öt ikrás anyahal és nyolc tejes, végtermékteszt esetén fajtánként 300 egynyaras ivadék.
 
@@ -42,7 +42,7 @@
 
 ## Méhanyanevelő telepenként 10 méh anya.
 
-9. számú melléklet a 123/2005. (XII. 27.) FVM rendelethez[^86]
+9. számú melléklet a 123/2005. (XII. 27.) FVM rendelethez[^87]
 
 A fajtaelismerés fenntartását szolgáló teljesítményvizsgálatok gyakorisága
 
@@ -60,7 +60,7 @@ Hibridek és legalább három fajtás keresztezések
 
 Reprodukciós teszt: 2000 fialás/év
 
-A fajtaelismerés fenntartásához szükséges vizsgálat, 3 éves ciklus esetén azonosak az elismerésnél előírtakkal annyi eltéréssel, hogy a hibridek és tenyészvonalak végtermékeit a ciklus alatt 2 hízékonysági és vágási teszt eredményei, összesen 128 beszállított egyed vizsgálata alapján kell értékelni, az MgSzH Központja teszt programja szerint.
+A fajtaelismerés fenntartásához szükséges vizsgálat, 3 éves ciklus esetén azonosak az elismerésnél előírtakkal annyi eltéréssel, hogy a hibridek és tenyészvonalak végtermékeit a ciklus alatt 2 hízékonysági és vágási teszt eredményei, összesen 128 beszállított egyed vizsgálata alapján kell értékelni, a NÉBIH teszt programja szerint.
 
 Baromfi
 
@@ -68,10 +68,10 @@ A fajtaelismerés fenntartásához szükséges vizsgálat, 3 éves ciklus figyel
 
 Nyúl
 
-A fajtaelismerés fenntartásához szükséges az MgSzH Központja által meghirdetett, teszten való részvétel.
+A fajtaelismerés fenntartásához szükséges a NÉBIH által meghirdetett, teszten való részvétel.
 
 Hal, méh
 
-A fajtaelismerés fenntartásához szükséges az MgSzH Központja által meghirdetett, teszten való részvétel.
+A fajtaelismerés fenntartásához szükséges a NÉBIH által meghirdetett, teszten való részvétel.
 
-[^86]: A 9. számú melléklet a 28/2010. (XI. 9.) VM rendelet 10. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a folyamatban lévő engedélyezési eljárásokat az e módosító rendeletben foglaltak szerint kell lefolytatni.
+[^87]: A 9. számú melléklet a 19/2014. (III. 12.) VM rendelet 16. § (2) bekezdés b) pontja szerint módosított szöveg.

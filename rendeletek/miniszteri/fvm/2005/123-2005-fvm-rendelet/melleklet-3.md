@@ -4,9 +4,9 @@
 
 ## 1.1. Egy elismert tenyésztési program számára csak egy főkönyv vezethető.
 
-## 1.2.[^48] A főkönyv fajtakódját és az ehhez tartozó tenyészetszámokat az egységesség érdekében az MgSzH Központja adja ki, és tartja nyilván.
+## 1.2.[^49] A főkönyv fajtakódját és az ehhez tartozó tenyészetszámokat az egységesség érdekében a NÉBIH adja ki, és tartja nyilván.
 
-## 1.3.[^49] A főkönyvet az MgSzH Központja évente hitelesíti.
+## 1.3.[^50] A főkönyvet a NÉBIH évente hitelesíti.
 
 ## 2. A főkönyv tartalma, szerkezete és vezetése
 
@@ -34,9 +34,9 @@
 
 ## 2.4. A főkönyv a tenyésztő vállalkozásnál vagy annak megbízásából az adatfeldolgozó intézménynél vezethető és nem selejtezhető.
 
-## 2.5.[^50] Az adatok egy példányát az előírt formában az MgSzH Központjánál vezetett központi adatbanknak kell átadni, ott tárolni, és biztosítani annak adatvédelmét.
+## 2.5.[^51] Az adatok egy példányát az előírt formában a NÉBIH-nél vezetett központi adatbanknak kell átadni, ott tárolni, és biztosítani annak adatvédelmét.
 
-## 2.6.[^51] A főkönyvi adatokat az MgSzH Központja hitelesíti
+## 2.6.[^52] A főkönyvi adatokat a NÉBIH hitelesíti
 
 ## 2.6.1. ellenőrzés,
 
@@ -66,7 +66,7 @@
 
 ## 2. A származási igazolásnak legalább tartalmaznia kell
 
-## 2.1.[^52] az MgSzH Központja által adott sorszámot;
+## 2.1.[^53] a NÉBIH által adott sorszámot;
 
 ## 2.2. az elismert tenyésztő vállalkozás nevét, a főkönyv megnevezését és a részbesorolást;
 
@@ -86,13 +86,13 @@
 
 ## 2.10. a szakmai munkáért felelős személy aláírását, és a tenyésztő vállalkozás bélyegzőlenyomatát;
 
-## 2.11.[^53] a teljesítményvizsgálatokat és ellenőrző teszteket lebonyolító és közzétevő MgSzH Központja megnevezését.
+## 2.11.[^54] a teljesítményvizsgálatokat és ellenőrző teszteket lebonyolító és közzétevő NÉBIH megnevezését.
 
-## 3.[^54] A származási igazolások sorszámát, illetve az azonosításhoz és nyilvántartáshoz szükséges legfontosabb adatokat az MgSzH Központjánál be kell jelenteni.
+## 3.[^55] A származási igazolások sorszámát, illetve az azonosításhoz és nyilvántartáshoz szükséges legfontosabb adatokat a NÉBIH-nél be kell jelenteni.
 
 ## 4. Az adatátvétel során észlelt valótlan adatközlés esetén a tenyésztési hatóság a kifogásolt származási igazolást visszamenőlegesen is letiltja.
 
-## 5.[^55] A külföldi értékesítés céljára kiállított származási igazolást az MgSzH Központja által hitelesíttetni kell.
+## 5.[^56] A külföldi értékesítés céljára kiállított származási igazolást a NÉBIH által hitelesíttetni kell.
 
 ## 6. A származási igazolásnak a tenyészállat telephelyén, szaporítóanyag esetén a deponálás helyén mindig rendelkezésre kell állnia.
 
@@ -100,11 +100,11 @@
 
 3. számú melléklet a 123/2005. (XII. 27.) FVM rendelethez
 
-[^48]: A 2. számú melléklet I. rész 1.2. pontja a 28/2010. (XI. 9.) VM rendelet 10. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a folyamatban lévő engedélyezési eljárásokat az e módosító rendeletben foglaltak szerint kell lefolytatni.
-[^49]: A 2. számú melléklet I. rész 1.3. pontja a 28/2010. (XI. 9.) VM rendelet 10. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a folyamatban lévő engedélyezési eljárásokat az e módosító rendeletben foglaltak szerint kell lefolytatni.
-[^50]: A 2. számú melléklet I. rész 2.5. pontja a 28/2010. (XI. 9.) VM rendelet 10. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a folyamatban lévő engedélyezési eljárásokat az e módosító rendeletben foglaltak szerint kell lefolytatni.
-[^51]: A 2. számú melléklet I. rész 2.6. pontja a 28/2010. (XI. 9.) VM rendelet 10. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a folyamatban lévő engedélyezési eljárásokat az e módosító rendeletben foglaltak szerint kell lefolytatni.
-[^52]: A 2. számú melléklet II. rész 2.1. pontja a 28/2010. (XI. 9.) VM rendelet 10. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a folyamatban lévő engedélyezési eljárásokat az e módosító rendeletben foglaltak szerint kell lefolytatni.
-[^53]: A 2. számú melléklet II. rész 2.11. pontja a 28/2010. (XI. 9.) VM rendelet 10. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a folyamatban lévő engedélyezési eljárásokat az e módosító rendeletben foglaltak szerint kell lefolytatni.
-[^54]: A 2. számú melléklet II. rész 3. pontja a 28/2010. (XI. 9.) VM rendelet 10. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a folyamatban lévő engedélyezési eljárásokat az e módosító rendeletben foglaltak szerint kell lefolytatni.
-[^55]: A 2. számú melléklet II. rész 5. pontja a 28/2010. (XI. 9.) VM rendelet 10. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a folyamatban lévő engedélyezési eljárásokat az e módosító rendeletben foglaltak szerint kell lefolytatni.
+[^49]: A 2. számú melléklet I. rész 1.2. pontja a 19/2014. (III. 12.) VM rendelet 16. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^50]: A 2. számú melléklet I. rész 1.3. pontja a 19/2014. (III. 12.) VM rendelet 16. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^51]: A 2. számú melléklet I. rész 2.5. pontja a 19/2014. (III. 12.) VM rendelet 16. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^52]: A 2. számú melléklet I. rész 2.6. pontja a 19/2014. (III. 12.) VM rendelet 16. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^53]: A 2. számú melléklet II. rész 2.1. pontja a 19/2014. (III. 12.) VM rendelet 16. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^54]: A 2. számú melléklet II. rész 2.11. pontja a 19/2014. (III. 12.) VM rendelet 16. § (2) bekezdés h) pontja szerint módosított szöveg.
+[^55]: A 2. számú melléklet II. rész 3. pontja a 19/2014. (III. 12.) VM rendelet 16. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^56]: A 2. számú melléklet II. rész 5. pontja a 19/2014. (III. 12.) VM rendelet 16. § (2) bekezdés b) pontja szerint módosított szöveg.

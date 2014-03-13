@@ -1,6 +1,6 @@
-12. § (1)[^19] Az elismerésre bejelentett, a nyilvántartásba vett, illetve az elismert fajta származási, tenyésztési és teljesítményvizsgálati adatait a törzskönyvben vagy tenyésztési főkönyvben kell nyilvántartani, és azokat hitelesítés és adattárolás céljából az MgSzH Központja által előírt formában az Átv. 9. §-a szerint az MgSzH Központjánál működtetett adatbanknak át kell adni.
+12. § (1)[^20] Az elismerésre bejelentett, a nyilvántartásba vett, illetve az elismert fajta származási, tenyésztési és teljesítményvizsgálati adatait a törzskönyvben vagy tenyésztési főkönyvben kell nyilvántartani, és azokat hitelesítés és adattárolás céljából a NÉBIH által előírt formában az Átv. 9. §-a szerint a NÉBIH-nél működtetett adatbanknak át kell adni.
 
-(2)[^20] A tenyésztési adatok akkor válnak hitelessé, ha azokat a vonatkozó előírások szerint vezetik, a fajta nyilvántartásba vételét követően az adat felvételezést az MgSzH Központja ellenőrizte, és az MgSzH Központja az adatokat az országos állattenyésztési adatbázisba az ellenőrzést követően befogadta.
+(2)[^21] A tenyésztési adatok akkor válnak hitelessé, ha azokat a vonatkozó előírások szerint vezetik, a fajta nyilvántartásba vételét követően az adat felvételezést a NÉBIH ellenőrizte, és a NÉBIH az adatokat az országos állattenyésztési adatbázisba az ellenőrzést követően befogadta.
 
-[^19]: A 12. § (1) bekezdése a 28/2010. (XI. 9.) VM rendelet 10. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a folyamatban lévő engedélyezési eljárásokat az e módosító rendeletben foglaltak szerint kell lefolytatni.
-[^20]: A 12. § (2) bekezdése a 28/2010. (XI. 9.) VM rendelet 10. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a folyamatban lévő engedélyezési eljárásokat az e módosító rendeletben foglaltak szerint kell lefolytatni.
+[^20]: A 12. § (1) bekezdése a 19/2014. (III. 12.) VM rendelet 16. § (2) bekezdés b)–c) pontja szerint módosított szöveg.
+[^21]: A 12. § (2) bekezdése a 19/2014. (III. 12.) VM rendelet 16. § (2) bekezdés b) pontja szerint módosított szöveg.
