@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-107-20-
 | 2011-11-25 | 2011-107-20-2Y.1 | 107/2011. (XI. 10.) VM rendelet |
 | 2013-01-01 | 2011-107-20-2Y.2 | 151/2012. (XII. 29.) VM rendelet |
 | 2013-08-01 | 2011-107-20-2Y.3 | 70/2013. (VII. 31.) VM rendelet |
+| 2014-03-13 | 2011-107-20-2Y.4 | 19/2014. (III. 12.) VM rendelet |
