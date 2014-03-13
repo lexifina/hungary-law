@@ -1,6 +1,6 @@
 ## Intézkedések a megfigyelési körzetben[^38]
 
-11. § (1)[^39] Az állomásnak a megfigyelési körzetben a következő intézkedéseket kell foganatosítania:
+11. § (1)[^39] Az élelmiszerlánc-biztonsági és állategészségügyi igazgatóságnak a megfigyelési körzetben a következő intézkedéseket kell foganatosítania:
 
 a)[^40] minden sertéstartó gazdaságot és annak sertésállományát a sertéstartók bejelentése alapján a járási főállatorvosnak nyilvántartásba kell venni;
 
@@ -43,7 +43,7 @@ b) minden gazdaságban elvégezték a sertések diagnosztikai kézikönyv szerin
 (6) Az (1) bekezdés f) pontjában meghatározott 30 napos időtartam csökkenthető 21 napra, a (3) bekezdésben meghatározott 40 nap időtartam csökkenthető 30 napra, az (5) bekezdésben meghatározott 40 nap csökkenthető 20 napra, ha az intenzív mintavételi és vizsgálati programot alkalmazva lehetővé válik az afrikai sertéspestis kizárása.
 
 [^38]: A 11. §-t megelőző alcím a 70/2013. (VII. 31.) VM rendelet 29. § 16. pontja szerint módosított szöveg.
-[^39]: A 11. § (1) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 29. § 17. pontja szerint módosított szöveg.
+[^39]: A 11. § (1) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 29. § 17. pontja, a 19/2014. (III. 12.) VM rendelet 10. § a) pontja szerint módosított szöveg.
 [^40]: A 11. § (1) bekezdés a) pontja a 151/2012. (XII. 29.) VM rendelet 20. § b) pontja szerint módosított szöveg.
 [^41]: A 11. § (1) bekezdés b) pontja a 151/2012. (XII. 29.) VM rendelet 20. § b) pontja szerint módosított szöveg.
 [^42]: A 11. § (1) bekezdés c) pontja a 151/2012. (XII. 29.) VM rendelet 20. § b) pontja, a 70/2013. (VII. 31.) VM rendelet 29. § 17–18. pontja szerint módosított szöveg.

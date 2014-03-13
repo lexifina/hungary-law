@@ -70,8 +70,8 @@ A határozatot kapják:
 
 6. Vágóhidak
 
-7. Szomszédos megyék élelmiszerlánc-biztonsági és állategészségügyi igazgatóságai
+7. Szomszédos megyék megyei kormányhivatalainak élelmiszerlánc-biztonsági és állategészségügyi igazgatósága
 
 8. Irattár
 
-[^90]: A 10. számú melléklet a 151/2012. (XII. 29.) VM rendelet 20. § c)–d) pontja, a 70/2013. (VII. 31.) VM rendelet 29. § 33. pontja szerint módosított szöveg.
+[^90]: A 10. számú melléklet a 151/2012. (XII. 29.) VM rendelet 20. § c)–d) pontja, a 70/2013. (VII. 31.) VM rendelet 29. § 33. pontja, a 19/2014. (III. 12.) VM rendelet 10. § f) pontja szerint módosított szöveg.

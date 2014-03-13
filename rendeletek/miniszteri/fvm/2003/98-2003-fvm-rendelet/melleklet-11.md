@@ -62,12 +62,12 @@ A határozatot kapják:
 
 2. Hatósági állatorvos
 
-3. ............................................ Megyei Állategészségügyi és Élelmiszer-ellenőrző Állomás
+3. ............................................ Megyei Kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatósága
 
 4. ATEV Rt. ...................... Gyára
 
-5. ATEV Rt. ...................... Gyára szerint illetékes Állomás
+5. ATEV Rt. ...................... Gyára szerint illetékes Megyei Kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatósága
 
 6. Irattár
 
-[^91]: A 11. számú melléklet a 151/2012. (XII. 29.) VM rendelet 20. § c)–d) pontja, a 70/2013. (VII. 31.) VM rendelet 29. § 32. és 34. pontja szerint módosított szöveg.
+[^91]: A 11. számú melléklet a 151/2012. (XII. 29.) VM rendelet 20. § c)–d) pontja, a 70/2013. (VII. 31.) VM rendelet 29. § 32. és 34. pontja, a 19/2014. (III. 12.) VM rendelet 10. § g) és h) pontja szerint módosított szöveg.

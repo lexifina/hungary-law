@@ -50,8 +50,8 @@ A határozatot kapják:
 
 7. Felvásárló szervezetek
 
-8. Szomszédos megyék élelmiszerlánc-biztonsági és állategészségügyi igazgatóságai
+8. Szomszédos megyék megyei kormányhivatalainak élelmiszerlánc-biztonsági és állategészségügyi igazgatósága
 
 9. Irattár
 
-[^96]: A 17. számú melléklet a 151/2012. (XII. 29.) VM rendelet 20. § c) pontja, a 70/2013. (VII. 31.) VM rendelet 29. § 30. és 33. pontja szerint módosított szöveg.
+[^96]: A 17. számú melléklet a 151/2012. (XII. 29.) VM rendelet 20. § c) pontja, a 70/2013. (VII. 31.) VM rendelet 29. § 30. és 33. pontja, a 19/2014. (III. 12.) VM rendelet 10. § f) pontja szerint módosított szöveg.

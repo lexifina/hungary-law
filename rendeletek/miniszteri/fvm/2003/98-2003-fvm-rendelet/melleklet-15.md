@@ -46,7 +46,7 @@ A határozatot kapják:
 
 2. Hatósági állatorvos
 
-3. ............................................ Megyei Állategészségügyi és Élelmiszer-ellenőrző Állomás
+3. ............................................ Megyei Kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatósága
 
 4. Települési (fővárosban a fővárosi kerületi) önkormányzat jegyzője
 
@@ -54,4 +54,4 @@ A határozatot kapják:
 
 6. Irattár
 
-[^94]: A 15. számú melléklet a 151/2012. (XII. 29.) VM rendelet 20. § c)–d) pontja, a 70/2013. (VII. 31.) VM rendelet 29. § 31. pontja szerint módosított szöveg.
+[^94]: A 15. számú melléklet a 151/2012. (XII. 29.) VM rendelet 20. § c)–d) pontja, a 70/2013. (VII. 31.) VM rendelet 29. § 31. pontja, a 19/2014. (III. 12.) VM rendelet 10. § g) pontja szerint módosított szöveg.

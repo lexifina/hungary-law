@@ -1,6 +1,6 @@
 ## A vektorok útján történő afrikai sertéspestis vírus terjedésének megelőzésére szolgáló intézkedések
 
-17. § (1)[^66] Ha az afrikai sertéspestis kapcsán a vektorok jelenléte nem zárható ki az állomásnak intézkedni kell:
+17. § (1)[^66] Ha az afrikai sertéspestis kapcsán a vektorok jelenléte nem zárható ki, az élelmiszerlánc-biztonsági és állategészségügyi igazgatóságnak intézkedni kell:
 
 a) a fertőzött épületeknek és környezetüknek a vektorok jelenlétére vonatkozó átvizsgálásáról, ha szükséges, minta begyűjtéséről a 3. számú mellékletnek megfelelően;
 
@@ -14,5 +14,5 @@ c) azon területeken, ahol a vektorok jelenlétét megállapítják, de felszám
 
 (2)[^67] Az (1) bekezdésben foglaltak végrehajtásáról a VM tájékoztatja a Bizottságot.
 
-[^66]: [A 17. § (1) bekezdés nyitó szövegrészében a 70/2013. (VII. 31.) VM rendelet 29. § 17. pontjával elrendelt módosítás, amely szerint a „védőkörzetben” szövegrész helyébe „megfigyelési körzetben” szöveg lép, nem vezethető át.]
+[^66]: A 17. § (1) bekezdés nyitó szövegrésze a 19/2014. (III. 12.) VM rendelet 10. § c) pontja szerint módosított szöveg. [A 17. § (1) bekezdés nyitó szövegrészében a 70/2013. (VII. 31.) VM rendelet 29. § 17. pontjával elrendelt módosítás, amely szerint a „védőkörzetben” szövegrész helyébe „megfigyelési körzetben” szöveg lép, nem vezethető át.]
 [^67]: A 17. § (2) bekezdése a 70/2013. (VII. 31.) VM rendelet 29. § 2. pontja szerint módosított szöveg.
