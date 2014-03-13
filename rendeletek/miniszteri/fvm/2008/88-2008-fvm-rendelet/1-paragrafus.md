@@ -7,5 +7,5 @@ a) közúti forgalomban a külön jogszabály szerint közúti ellenőrzésre jo
 b)[^3] az a) pont alá nem tartozó esetben önállóan eljárva
 
 [^1]: Az 1. § (1) bekezdése az 5/2012. (II. 10.) VM rendelet 38. §-a, a 70/2013. (VII. 31.) VM rendelet 95. § a) pontja szerint módosított szöveg.
-[^2]: Az 1. § (2) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 95. § b) pontjával megállapított szöveg.
+[^2]: Az 1. § (2) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 95. § b) pontjával megállapított, a 19/2014. (III. 12.) VM rendelet 25. §-a szerint módosított szöveg.
 [^3]: [A 70/2013. (VII. 31.) VM rendelet 95. § b) pontjával elrendelt módosítás, amely szerint az „állategészségügyi hatóság” szövegrész helyébe az „élelmiszerlánc-biztonsági és állategészségügyi igazgatóság” szöveg lép, nem vezetehető át.]
