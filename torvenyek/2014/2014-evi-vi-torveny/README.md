@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2014-6-00-00
 | --- | --- | --- |
 | 2014-02-12 | 2014. évi VI. törvény | 2014-6-00-00.0 (közlönyállapot) |
 | 2014-02-12 | Nemzeti Jogszabálytár (egységes szerkezet) | 2014-6-00-00.1 |
+| 2014-03-14 | Nemzeti Jogszabálytár (egységes szerkezet) | 2014-6-00-00.2 |
