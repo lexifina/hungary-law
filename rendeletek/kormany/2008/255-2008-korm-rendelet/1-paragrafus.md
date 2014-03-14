@@ -20,7 +20,19 @@ e)[^4] a 110. életév betöltésekor 110 000 forint,
 
 f)[^5] a 115. életév betöltésekor 115 000 forint.
 
+(4)[^6] Az (1) bekezdésben meghatározott köszöntés, valamint a (2) bekezdésben meghatározott okirat és juttatás nem jár annak, aki az egyes nyugdíjak felülvizsgálatáról, illetőleg egyes nyugdíjkiegészítések megszüntetéséről szóló 1991. évi XII. törvény szerinti saját jogán folyósított pótlékra a kárpótlásért felelős miniszter határozata alapján érdemtelen.
+
+(5)[^7] A Nyugdíjfolyósító Igazgatóság (a továbbiakban: Igazgatóság) a (4) bekezdésben meghatározott feltétel ellenőrzése céljából a tárgyévet megelőző év szeptember 30-áig – a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 21. § k) pontja szerint – adatot igényel a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatalától (a továbbiakban: KEKKH) azon, (1) bekezdés szerinti személyek természetes személyazonosító adatairól, akik a tárgyévben betöltik az (1) bekezdés szerinti életkort.
+
+(6)[^8] A KEKKH az (5) bekezdés szerinti adatigénylést az igényelt adatokat tartalmazó összesítés megküldésével az adatigénylés kézhezvételétől számított 30 napon belül teljesíti. A KEKKH az adattovábbítás teljesítését követően haladéktalanul törli az Igazgatóságnak megküldött összesítést.
+
+(7)[^9] Az Igazgatóság a 2. § (1) bekezdése szerinti megkeresés teljesítése céljából az adatigénylés (6) bekezdés szerinti teljesítését követő 30 napon belül megküldi a KEKKH-nak a (6) bekezdés szerinti összesítésben szereplő azon személyeknek az összesítés szerinti természetes személyazonosító adatait, akik tekintetében a (4) bekezdésben meghatározott kizáró körülmény nem áll fenn. Az Igazgatóság az adattovábbítás teljesítését követően haladéktalanul törli a KEKKH-nak megküldött adatokat.
+
 [^2]: Az 1. § (1) bekezdése a 425/2012. (XII. 29.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
 [^3]: Az 1. § (3) bekezdés d) pontját a 425/2012. (XII. 29.) Korm. rendelet 15. § (2) bekezdése iktatta be.
 [^4]: Az 1. § (3) bekezdés e) pontját a 425/2012. (XII. 29.) Korm. rendelet 15. § (2) bekezdése iktatta be.
 [^5]: Az 1. § (3) bekezdés f) pontját a 425/2012. (XII. 29.) Korm. rendelet 15. § (2) bekezdése iktatta be.
+[^6]: Az 1. § (4) bekezdését a 63/2014. (III. 6.) Korm. rendelet 1. §-a iktatta be.
+[^7]: Az 1. § (5) bekezdését a 63/2014. (III. 6.) Korm. rendelet 1. §-a iktatta be.
+[^8]: Az 1. § (6) bekezdését a 63/2014. (III. 6.) Korm. rendelet 1. §-a iktatta be.
+[^9]: Az 1. § (7) bekezdését a 63/2014. (III. 6.) Korm. rendelet 1. §-a iktatta be.
