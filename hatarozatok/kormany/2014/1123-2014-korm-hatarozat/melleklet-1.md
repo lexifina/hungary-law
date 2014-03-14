@@ -32,7 +32,7 @@
 
 ## d) egyetért azzal, hogy a belügyminiszter a támogatást – az 1. pont c) alpontja szerinti megállapodás megkötését követően, legkésőbb 2014. december 15-éig történő elszámolási kötelezettséggel – folyósítsa Hajmáskér Község Önkormányzata számára.
 
-## 2. A rendkívüli kormányzati intézkedésre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1482/2013. (VII. 26.) Korm. határozatban a „2014. június 30.” szövegrész helyébe a „2014. december 31.” szöveg lép.
+## 2.[^2]
 
 1. melléklet az 1123/2014. (III. 13.) Korm. határozathoz
 
@@ -157,3 +157,5 @@
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
