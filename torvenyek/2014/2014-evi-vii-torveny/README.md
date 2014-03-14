@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2014-7-00-00
 | --- | --- | --- |
 | 2014-03-13 | 2014. évi VII. törvény | 2014-7-00-00.0 (közlönyállapot) |
 | 2014-03-13 | Nemzeti Jogszabálytár (egységes szerkezet) | 2014-7-00-00.1 |
+| 2014-03-14 | 2010. évi CXXX. törvény | 2014-7-00-00.2 |
