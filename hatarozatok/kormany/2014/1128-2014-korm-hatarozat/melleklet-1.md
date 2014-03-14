@@ -1,6 +1,6 @@
 ## 1. megállapítja a Dél-Dunántúli Operatív Program 2011–2013. évekre szóló akciótervének 3. prioritását az 1. melléklet szerint,
 
-## 2. visszavonja a Gandhi Gimnázium és Kollégium köznevelési intézmény fejlesztését célzó kiemelt tervezési felhívás közzétételéről és a Dél-Dunántúli Operatív Program 2011–2013. évekre szóló akcióterve 3. prioritásának módosításáról szóló 1006/2014. (I. 17.) Korm. határozat 1. pontját és 1. mellékletét.
+## 2.[^2]
 
 1. melléklet az 1128/2014. (III. 13.) Korm. határozathoz
 
@@ -47,3 +47,5 @@
 | 3.1.4. | E-közigazgatás fejlesztése | 0,00 | 0,00 | 0,00 | Térségi közigazgatási és közszolgáltatási rendszerek informatikai fejlesztése. | emberi erőforrások minisztere | közigazgatási és igazságügyi miniszter |
 
 | 3. Prioritás összesen | 4,72 | 3,94 | 2,47 |  |  |  |
+
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
