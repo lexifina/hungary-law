@@ -1,0 +1,3 @@
+## 8. § A Rendelet 19. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+## „(4) Ha az (1) bekezdésben, valamint a 18. § (1) bekezdésében meghatározottak szerinti jogosult nem rendelkezik oktatási azonosító számmal, a diákigazolvány iránti igényét az oktatási azonosító szám megállapítására irányuló kérelemmel együtt nyújthatja be. Ebben az esetben a jogosult a diákigazolvány iránti kérelemmel hozzájárulását adja ahhoz, hogy az adatkezelő a diákigazolvány előállításához szükséges személyes adatait az Nktv. 46. § (13) bekezdésben, valamint az Nftv. 3. melléklet III. alcím 6.1. pontjában meghatározott módon és ideig kezelhesse.”
