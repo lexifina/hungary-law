@@ -176,4 +176,4 @@
 
 2. melléklet a 2057/2013. (XII. 31.) Korm. határozathoz[^3]
 
-[^3]: A 2. melléklet az 1018/2014. (I. 20.) Korm. határozat 5. pontja szerint módosított szöveg.
+[^3]: A 2. melléklet az 1018/2014. (I. 20.) Korm. határozat 5. pontja, az 1142/2014. (III. 14.) Korm. határozat 4. pontja szerint módosított szöveg.

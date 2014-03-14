@@ -394,4 +394,46 @@
 
 | 3. Prioritás összesen | 0,00 | 7,71 | 0,00 |  |
 
+| 4. | I. Prioritás bemutatása: 4. prioritás: Környezetvédelmi és közlekedési infrastruktúra | Nyugat-dunántúli Operatív Program |
+
+|  |  |  |  |  |  | Akcióterv 2011-2013 |
+
+| 1. Prioritás tartalma |  |  |  |  |  |  |
+
+| Prioritás rövid tartalma (max. 500 karakter) |  |  |
+
+| A településszerkezethez és a tájhoz illeszkedő környezetbarát rendszerek alkalmazásának elősegítése, környezeti tudatosság növelése. Biztonságos, jó állapotú felszíni vizek az EU Víz Keret irányelvnek megfelelően. Az alsóbbrendű közúthálózat és a kerékpárút-hálózat fejlesztésével a települések, térségek belső elérhetőségi viszonyainak javítása. |  |
+
+| 2. A prioritás ütemezése – kiírások kerete |  |  |  |  |
+
+| Indikatív forrásallokáció (Mrd Ft, folyó áron, 280 HUF/EUR árfolyamon) |  |  |  |
+
+| 2011 | 2012 | 2013 | Összesen |  |  |  |
+
+| 8,83 | 1,35 | 0,00 | 10,18 |  |  |  |
+
+| Tervezett ESZA arány (%): 10% |  |  |  |  |
+
+| 3. A prioritás ütemezése – kötelezettségvállalás (IH döntés) |  |  |
+
+| Indikatív forrásallokáció (Mrd Ft, folyó áron, 280 HUF/EUR árfolyamon) |  |  |
+
+| 2007-2010 | 2011 | 2012 | 2013 | 2014-2015 | Összesen |  |  |
+
+| 21,44 | 2,91 | 5,90 | 1,37 | 0,11 | 31,73 |  |  |
+
+| II. A támogatási konstrukciók összefoglaló adatai (2011-2013) |  |  |
+
+| Konstrukció kódja | Konstrukció neve | Pályázatok, kiemelt projektek meghirdethető kerete (Mrd Ft) | A konstrukció célja | A konstrukció szakmai tartalmáért felelős miniszter | A konstrukció szakmai tartalma tekintetében feladatkörrel rendelkező további miniszter |
+
+| 2011 | 2012 | 2013 |
+
+| 4.1.1. | Környezetvédelmi infrastruktúra és szolgáltatások fejlesztése | 2,52 | 0,87 | 0,00 | A 2000 LE alatti kistelepülések szennyvízkezelésének fejlesztése, a környezetbiztonság növelése. Helyi és térségi jelentőségű vízvédelmi rendszerek fejlesztése. A települési szilárd és folyékony hulladéklerakók rekultivációja. A fenntarthatósággal foglalkozó civil szervezetek programjainak támogatása. | 4.1.1/A, C, D vidékfejlesztési miniszter, 4.1.1/B belügyminiszter | 4.1.1/B vidékfejlesztési miniszter, 4.1.1/D közigazgatási és igazságügyi miniszter |
+
+| 4.2.1 | Felszíni vizek minőségének javítása és felszíni vizek okozta kockázatok csökkentése | A konstrukció 2011-2013-ban nem indul. | belügyminiszter | vidékfejlesztési miniszter |
+
+| 4.3.1 | Térségi közlekedési kapcsolatok fejlesztése | 6,32 | 0,48 | 0,00 | A támogatás célja a 4 és 5 számjegyű, településeket összekötő, országos mellékúthálózat minőségének fejlesztésén keresztül a kistelepüléseken élők és a hátrányos helyzetű társadalmi csoportok közszolgáltatásokhoz való hozzáférésének javítása, valamint a közlekedés okozta környezeti károk csökkentése. A kerékpár a mindennapok közlekedésének fontos eszköze, ezért elengedhetetlen a biztonságos kerékpárút-hálózat kialakítása. A pályázat célja ezért olyan komplex projektek támogatása, majd megvalósítása, amelyek eredményeként egy teljes település vagy egy szerves, funkcionális egységnek tekinthető településrész, illetve kettő vagy több település közötti távolság válik biztonságosan, kényelmesen, közvetlenül elérhetővé és kerékpározhatóvá. | nemzeti fejlesztési miniszter |  |
+
+| 4. Prioritás összesen | 8,83 | 1,35 | 0,00 |  |
+
 [^5]: A 7. melléklet az 1110/2014. (III. 6.) Korm. határozat 5. pont b) pontja szerint módosított szöveg.
