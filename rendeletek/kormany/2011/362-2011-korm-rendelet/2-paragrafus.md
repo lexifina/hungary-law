@@ -1,18 +1,8 @@
-2. § (1) Az oktatási igazolvány az alábbi adatokat tartalmazza:
+2. § (1)[^1] Az oktatási igazolvány – a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvényben (a továbbiakban: Nftv.), valamint a nemzeti köznevelésről szóló 2011. évi CXC. törvényben (a továbbiakban: Nktv.) meghatározott adatok mellett – az alábbi adatokat tartalmazza:
 
-a) a jogosult arcképét (a továbbiakban: fénykép),
+a) az igazolvány kiállításának napját, valamint
 
-b) a jogosult családi és utónevét, születési helyét és idejét, lakóhelyét vagy tartózkodási helyét, 14. életévét betöltött jogosult esetében az aláírását,
-
-c) a közoktatásról szóló 1993. évi LXXIX. törvényben (a továbbiakban: közoktatásról szóló törvény) és a felsőoktatásról szóló 2005. évi CXXXIX. törvényben (a továbbiakban: felsőoktatásról szóló törvény) meghatározott azonosító számot,
-
-d) az igazolvány kiállításának napját és az érvényesíthetőség évét,
-
-e) érvényességre vonatkozó adatot,
-
-f)[^1] az igazolvány egyedi azonosítóját (kártyaszám, adatchip azonosító),
-
-g) az igazolvány fajtájának megnevezését.
+b) az igazolvány egyedi azonosítására szolgáló adatchip azonosítót.
 
 (2) A (1) bekezdésben meghatározott adatokon felül az diákigazolvány tartalmazza:
 
@@ -24,4 +14,4 @@ b) a munkarend megjelölését a 14. § (2) bekezdése szerinti felirattal.
 
 (4) A (1) bekezdésben meghatározott adatokon felül a pedagógus- és oktatói igazolvány tartalmazza azon intézmény(ek) nevét és székhelyét, amellyel a pedagógus vagy oktató közalkalmazotti jogviszonyban, munkaviszonyban áll, azzal, hogy legfeljebb két intézmény tüntethető fel.
 
-[^1]: A 2. § (1) bekezdés f) pontja az 59/2012. (III. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^1]: A 2. § (1) bekezdése a 74/2014. (III. 13.) Korm. rendelet 1. §-ával megállapított szöveg.

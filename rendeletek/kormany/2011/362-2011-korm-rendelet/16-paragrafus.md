@@ -2,7 +2,7 @@
 
 16. § (1) A felsőoktatásban a diákigazolvány – a (3) bekezdésben foglalt kivétellel – csak elektronikus módon igényelhető.
 
-(2) A felsőoktatási intézménybe beiratkozott hallgató a diákigazolvány igénylést a közreműködő intézmény tanulmányi rendszerében kezdeményezi.
+(2)[^22] A felsőoktatási intézménybe beiratkozott hallgató a diákigazolvány igénylést a közreműködő intézmény tanulmányi rendszerében kezdeményezi. Az igénylés előtt a jogosult köteles összevetni a tanulmányi rendszerben róla nyilvántartott személyes adatokat a NEK adatlap adattartalmával.
 
 (3) Amennyiben a jogosult nem rendelkezik tanulmányi rendszer hozzáféréssel, abban az esetben a diákigazolvány iránti igényét a közreműködő intézménynek jelenti be.
 
@@ -19,3 +19,5 @@ b) az intézmény képviseletére jogosult személy hitelesíti az igénylést �
 (7) A diákigazolvány-igénylések csak abban az esetben tekinthetők érvényesnek, ha a közreműködő intézmény szerepel az adatkezelő által vezetett intézményi adatbázisban. A közreműködő intézményeket tartalmazó adatbázis módosítása az adatkezelő felé, az adatkezelő által meghatározott módon tett bejelentéssel lehetséges.
 
 (8) Az adatkezelő a közreműködő intézmény által az igénylés során feltöltött és továbbított hallgatói adatokat összeveti a felsőoktatási információs rendszerben (a továbbiakban: FIR) szereplő adatokkal. Amennyiben a FIR-ben tárolt adatok eltérnek az igénylésben és a közreműködő intézmény nyilvántartásában szereplő adatoktól, a közreműködő intézmény köteles a 34. §-ban foglaltak szerint eljárni.
+
+[^22]: A 16. § (2) bekezdése a 74/2014. (III. 13.) Korm. rendelet 6. §-ával megállapított szöveg.

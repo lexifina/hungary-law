@@ -1,11 +1,15 @@
 ## 6. § Az oktatási igazolvány igénylésében közreműködő intézmény (a továbbiakban: közreműködő intézmény):
 
-a) a közoktatásban kiadásra kerülő oktatási igazolvány esetében a közoktatásról szóló törvény szerinti nevelési-oktatási és fejlesztő iskolai oktatás feladatát ellátó intézmény,
+a)[^8] a köznevelésben kiadásra kerülő oktatási igazolvány esetében az Nktv. szerinti nevelési-oktatási és fejlesztő iskolai oktatás feladatát ellátó intézmény,
 
-b) a felsőoktatásban kiadásra kerülő oktatási igazolvány esetében a felsőoktatásról szóló törvény 1. számú mellékletében szereplő intézmény,
+b)[^9] a felsőoktatásban kiadásra kerülő oktatási igazolvány esetében az Nftv. 1. számú mellékletében szereplő intézmény,
 
 c) a nem magyar oktatási intézménnyel tanulói, hallgatói jogviszonyban álló személy oktatási igazolványa esetében az adatkezelő,
 
 d) a 19. § (1) bekezdésében meghatározott jogosultak esetében a fogadó intézmény,
 
-e) a 23. § b) pontjában meghatározott személyek oktatási igazolványának cseréje, pótlása és a közoktatásról szóló törvény 122. § (3) bekezdése szerinti intézményben pedagógus munkakörben foglalkoztatott személyek oktatási igazolványainak kiadása esetében a közoktatási feladatkörében eljáró fővárosi és megyei kormányhivatal.
+e)[^10] a 23. § b) és c) pontjában meghatározott személyek oktatási igazolványának cseréje, pótlása és az Nktv. 96. § (1) bekezdés szerinti intézményben pedagógus munkakörben foglalkoztatott személyek oktatási igazolványainak kiadása esetében a köznevelési feladatkörében eljáró fővárosi és megyei kormányhivatal.
+
+[^8]: A 6. § a) pontja a 74/2014. (III. 13.) Korm. rendelet 12. § b)–c) pontja szerint módosított szöveg.
+[^9]: A 6. § b) pontja a 74/2014. (III. 13.) Korm. rendelet 12. § d) pontja szerint módosított szöveg.
+[^10]: A 6. § e) pontja a 74/2014. (III. 13.) Korm. rendelet 2. §-ával megállapított szöveg.

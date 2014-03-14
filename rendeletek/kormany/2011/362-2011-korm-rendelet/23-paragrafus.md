@@ -2,8 +2,12 @@
 
 ## 9. A pedagógusigazolvány
 
-## 23. § Pedagógusigazolványra jogosult
+## 23. §[^31] Pedagógusigazolványra jogosult
 
-a) a közoktatásról szóló törvény 2. számú mellékletének A pedagógusigazolvány alcímében meghatározott személy,
+a) az Nktv. 63. § (3) bekezdésében meghatározott munkakört betöltő,
 
-b) a közoktatásról szóló törvény 2. számú mellékletének A pedagógusigazolvány alcímében meghatározott munkakörökből nyugállományba helyezett személy.
+b) az Nktv. 96. § (1) bekezdésében meghatározott intézményben pedagógus-munkakörben közalkalmazotti jogviszonyban vagy munkaviszonyban foglalkoztatott,
+
+c) az a) vagy b) pontban meghatározott munkakörből korhatár előtti ellátásba vagy nyugállományba helyezett
+
+[^31]: A 23. § a 74/2014. (III. 13.) Korm. rendelet 9. §-ával megállapított szöveg.

@@ -2,11 +2,11 @@
 
 13. § (1) Diákigazolványra jogosult
 
-a) a közoktatásról szóló törvény szerinti iskolai feladatot ellátó intézmény tanulója, beleértve a fejlesztő felkészítésben vagy fejlesztő iskolai oktatásban részesülőt is,
+a)[^16] az Nktv. szerinti iskolai feladatot és fejlesztő nevelés-oktatás feladatát ellátó intézmény tanulója,
 
-b) a felsőoktatásról szóló törvény 1. számú mellékletében szereplő felsőoktatási intézménnyel hallgatói jogviszonyban álló hallgató,
+b)[^17] az Nftv. 1. számú mellékletében szereplő felsőoktatási intézménnyel hallgatói jogviszonyban álló hallgató,
 
-c) azon magyar állampolgárságú vagy a Magyarország területén külön törvény alapján szabad mozgás és tartózkodás jogával rendelkező, bevándorolt vagy letelepedett személy, aki a Magyarország területén kívüli országban székhellyel rendelkező közoktatási, felsőoktatási intézménnyel tanulói, hallgatói jogviszonyban áll (a továbbiakban: nem magyar oktatási intézménnyel jogviszonyban álló tanuló, hallgató),
+c)[^18] azon magyar állampolgárságú vagy a Magyarország területén külön törvény alapján szabad mozgás és tartózkodás jogával rendelkező, bevándorolt vagy letelepedett személy, aki a Magyarország területén kívüli országban székhellyel rendelkező köznevelési, felsőoktatási intézménnyel tanulói, hallgatói jogviszonyban áll (a továbbiakban: nem magyar oktatási intézménnyel jogviszonyban álló tanuló, hallgató),
 
 d) a kormányközi és más oktatási együttműködési megállapodás vagy egyezmény alapján magyarországi oktatási intézményben tanuló, részképzésben részt vevő külföldi tanuló, hallgató,
 
@@ -25,3 +25,7 @@ b) hallgatói jogviszonya a II. félévben szűnik meg, a hallgatói jogviszony�
 jogosult diákigazolványra.
 
 (5) E rendelet vonatkozásában a Balassi Intézetben képzésben részt vevő személy – a Diákigazolvány igénylése alcím kivételével – hallgatónak minősül.
+
+[^16]: A 13. § (1) bekezdés a) pontja a 74/2014. (III. 13.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^17]: A 13. § (1) bekezdés b) pontja a 74/2014. (III. 13.) Korm. rendelet 12. § d) pontja szerint módosított szöveg.
+[^18]: A 13. § (1) bekezdés c) pontja a 74/2014. (III. 13.) Korm. rendelet 12. § g) pontja szerint módosított szöveg.

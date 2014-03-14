@@ -1,12 +1,12 @@
-## 44. §[^21]
+## 44. §[^58]
 
-45. § (1)[^22]
+45. § (1)[^59]
 
-(2)[^23]
+(2)[^60]
 
-(3)[^24]
+(3)[^61]
 
-Melléklet a 362/2011. (XII. 30.) Korm. rendelethez[^25]
+Melléklet a 362/2011. (XII. 30.) Korm. rendelethez[^62]
 
 Igazolás
 
@@ -32,7 +32,7 @@ a) neve:
 
 b) születési helye és ideje:
 
-c) a közoktatásról szóló 1993. évi LXXIX. törvényben vagy a felsőoktatásról szóló 2005. évi CXXXIX. törvényben meghatározott azonosító száma:
+c) az Nktv.-ben vagy az Nftv.-ben meghatározott azonosító száma:
 
 d) lakcíme2:
 
@@ -72,8 +72,8 @@ megbízott személynek az aláírása
 
 6 Az igazolás érvényességi ideje a 4) pont a) és c) alpontja esetén 60 nap. A 4) pont b) alpontja esetén a kiadott igazolás érvényességi ideje a jogviszony első félév végén történő megszűnése esetén a megszűnést követő március 31. napja, a jogviszony második félév végén történő megszűnése esetén a megszűnést követő október 31. napja.
 
-[^21]: A 44. § a 41. § (4) bekezdése alapján 2014. március 31-én lép hatályba.
-[^22]: A 45. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^23]: A 45. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^24]: A 45. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^25]: A melléklet az 59/2012. (III. 30.) Korm. rendelet 1. § (6), (7) és (8) bekezdése szerint módosított szöveg.
+[^58]: A 44. § a 74/2014. (III. 13.) Korm. rendelet 14. §-a alapján nem lép hatályba.
+[^59]: A 45. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^60]: A 45. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^61]: A 45. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^62]: A melléklet az 59/2012. (III. 30.) Korm. rendelet 1. § (6), (7) és (8) bekezdése, a 74/2014. (III. 13.) Korm. rendelet 12. § m) pontja szerint módosított szöveg.

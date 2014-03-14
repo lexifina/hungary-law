@@ -6,13 +6,12 @@
 
 (4) E rendelet hatályba lépését megelőzően kiadott diákigazolványok az arra való jogosultság megszűnéséig az e rendeletben szabályozott módon érvényesíthetőek.
 
-(5) E rendelet hatálybalépését megelőzően kiadott ideiglenes diákigazolványok az azokon feltüntetett érvényességi időig, de legfeljebb 2012. február 29. napjáig érvényesek, ezt követően a közreműködő intézmény köteles azokat haladéktalanul bevonni és megsemmisíteni.
-
-(6) E rendelet hatálybalépését megelőzően a doktorjelöltek számára kiadott diákigazolványok legfeljebb 2012. március 31. napjáig érvényesek. 2012. március 31. napját követően azonban a közreműködő intézmény köteles ezen diákigazolványokat bevonni és megsemmisíteni, valamint e rendeletben foglaltak szerint az adatkezelő felé jelenteni.
+(5)–(6)[^54]
 
 (7) A NEK oktatási igazolványokra vonatkozó specifikációjának közzétételéig az oktatási igazolványokra vonatkozó műszaki (technikai) előírásokat a KEK KH határozza meg.
 
-(8)[^18] A 39. § (4a) bekezdésében foglalt rendelkezés az oktatási igazolványokról szóló 362/2011. (XII. 30.) Korm. rendelet módosításáról szóló 299/2013. (VII. 29.) Korm. rendelet hatálybalépését[^19] követően kibocsátott diákigazolványokra kell alkalmazni.
+(8)[^55] A 39. § (4a) bekezdésében foglalt rendelkezés az oktatási igazolványokról szóló 362/2011. (XII. 30.) Korm. rendelet módosításáról szóló 299/2013. (VII. 29.) Korm. rendelet hatálybalépését[^56] követően kibocsátott diákigazolványokra kell alkalmazni.
 
-[^18]: A 42. § (8) bekezdését a 299/2013. (VII. 29.) Korm. rendelet 4. §-a iktatta be.
-[^19]: A hatálybalépés időpontja 2013. július 30.
+[^54]: A 42. § (5)–(6) bekezdését a 74/2014. (III. 13.) Korm. rendelet 13. § e) pontja hatályon kívül helyezte.
+[^55]: A 42. § (8) bekezdését a 299/2013. (VII. 29.) Korm. rendelet 4. §-a iktatta be.
+[^56]: A hatálybalépés időpontja 2013. július 30.
