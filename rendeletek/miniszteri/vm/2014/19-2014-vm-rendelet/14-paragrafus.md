@@ -1,1 +1,0 @@
-## 13. § A természetes ásványvíz, a forrásvíz, az ivóvíz, az ásványi anyaggal dúsított ivóvíz és az ízesített víz palackozásának és forgalomba hozatalának szabályairól szóló 65/2004. (IV. 27.) FVM–ESzCsM–GKM együttes rendelet 4. § (2) bekezdés nyitó szövegrészében az „Állomás” szövegrész helyébe az „élelmiszerlánc-biztonsági és állategészségügyi igazgatóság” szöveg lép.
