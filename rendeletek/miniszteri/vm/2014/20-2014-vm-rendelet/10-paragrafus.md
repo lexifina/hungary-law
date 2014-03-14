@@ -1,1 +1,0 @@
-## 9. § Az Európai Mezőgazdasági Vidékfejlesztési Alapból támogatott intézkedések monitoring adatszolgáltatási rendjére vonatkozó részletes szabályokról szóló 18/2009. (III. 6.) FVM rendelet 4. § (1) bekezdés a)–c) pontjában a „február 13. és március 12.” szövegrész helyébe a „február 17. és március 19.” szöveg lép.

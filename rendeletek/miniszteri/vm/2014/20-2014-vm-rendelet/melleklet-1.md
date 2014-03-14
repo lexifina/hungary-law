@@ -1,3 +1,5 @@
-## 10. § Hatályát veszti a méhcsaládok pusztulásával kapcsolatos közösségi programokra igénybe vehető pénzügyi hozzájárulás felhasználásának szabályairól szóló 10/2013. (II. 28.) VM rendelet.
+## 9–10. §[^2]
 
 1. melléklet a 20/2014. (III. 12.) VM rendelethez
+
+[^2]: A 9–10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
