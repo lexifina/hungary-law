@@ -14,3 +14,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-80-00-00
 | 2012-07-24 | 2012. évi CXVII. törvény | 2003-80-00-00.20 |
 | 2012-12-21 | 42/2012. (XII. 20.) AB határozat | 2003-80-00-00.21 |
 | 2013-03-27 | 2013. évi XV. törvény | 2003-80-00-00.22 |
+| 2014-03-15 | 2013. évi CCLII. törvény | 2003-80-00-00.23 |

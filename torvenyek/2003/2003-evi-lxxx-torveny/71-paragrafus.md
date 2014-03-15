@@ -1,6 +1,6 @@
 ## Törlés a névjegyzékből
 
-71. § (1) A jogi segítségnyújtó szolgálat a jogi segítőt törli a névjegyzékből, ha a szolgáltatási szerződés megszűnt. A szolgáltatási szerződés megszűnésére a Polgári Törvénykönyvről szóló 1959. évi IV. törvény rendelkezései az e törvényben foglalt eltérésekkel megfelelően irányadóak, a szerződés megszüntetésének és felbontásának nincs helye.
+71. § (1) A jogi segítségnyújtó szolgálat a jogi segítőt törli a névjegyzékből, ha a szolgáltatási szerződés megszűnt. A szolgáltatási szerződés megszűnésére a Polgári Törvénykönyv rendelkezései az e törvényben foglalt eltérésekkel megfelelően irányadóak, a (2) és (3) bekezdésben foglaltakon kívül a szerződés megszüntetésének és felbontásának nincs helye.
 
 (2) A szerződést a jogi segítségnyújtó szolgálat felmondja, ha a jogi segítői névjegyzékbe történő bejegyzés feltételei megszűntek vagy megállapítja, hogy azok már a felvételkor sem álltak fenn.
 

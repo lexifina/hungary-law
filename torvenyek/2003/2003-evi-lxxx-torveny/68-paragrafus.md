@@ -8,6 +8,10 @@
 
 a) csak peren kívüli segítségnyújtást végezhet,
 
-b) az egyetemet terheli a polgári jogi felelősség a szakszerűtlen segítségnyújtásból eredő károk megtérítéséért,
+b) a szakszerűtlen segítségnyújtással okozott
+
+ba) károk megtérítéséért az egyetem tartozik polgári jogi felelősséggel, valamint
+
+bb) a személyiségi jogi jogsértés miatt járó sérelemdíj megfizetésére az egyetem köteles a Polgári Törvénykönyv szabályai szerint,
 
 c) a jogi szolgáltatás nyújtását a szervezeti egységet vezető oktató felügyelete mellett jogi szakvizsgával vagy állam- és jogtudományi doktori fokozattal rendelkező egyetemi oktató végezheti.
