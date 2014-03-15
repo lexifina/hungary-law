@@ -56,7 +56,7 @@
 
 ## 2.1.9. biztosítéknyújtáshoz kapcsolódó költségek,
 
-## 2.1.10. jelzálog, bankgarancia költségei,
+## 2.1.10.[^2] jelzálog, hitelintézettel kötött garanciaszerződés költségei,
 
 ## 2.1.11. kamatráfordítások,
 
@@ -147,3 +147,5 @@ L = (kérelem szerint képzésbe vonni tervezett létszám * 0,6) – a képzés
 L = (képzésben részt vett munkavállalók létszáma * 0,6) – a képzésben részt vett munkavállalók közül képzésük lezárulását követő 12 hónap során folyamatosan munkaviszonyban, teljes munkaidőben foglalkoztatott munkavállalók száma
 
 3. A visszafizetendő tőkeösszeg a 2.1. pont szerinti összeg és a 2.2.1. vagy 2.2.2. alpont szerinti létszám szorzataként számítandó.
+
+[^2]: A2. melléklet 2. pont 2.1.10. alpontja a 80/2014. (III. 14.) Korm. rendelet 30. § b) pontja szerint módosított szöveg.
