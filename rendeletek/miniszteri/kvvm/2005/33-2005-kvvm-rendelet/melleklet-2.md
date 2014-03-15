@@ -78,7 +78,7 @@
 
 | 20. |  | Zajkibocsátási határérték megállapítása [a környezeti zaj és rezgés elleni védelem egyes szabályairól szóló 284/2007. (X. 29.) Korm. rendelet 10. § (1) bekezdés és 11. § (1) bekezdés], ha első fokon a környezetvédelmi, természetvédelmi és vízügyi felügyelőség jár el [284/2007. (X. 29.) Korm. rendelet 4. § (3)–(4) bekezdés] – a zajforrás üzemeltetője alapján: |  |
 
-|  | 1. | Egyéni vállalkozó, jogi személyiséggel nem rendelkező gazdasági társaság, költségvetési szerv | 112 500 |
+|  | 1. | Egyéni vállalkozó, jogi személyiséggel nem rendelkező szervezet, költségvetési szerv | 112 500 |
 
 |  | 2. | Minden egyéb esetben | 150 000 |
 
