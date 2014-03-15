@@ -56,6 +56,8 @@ t) területcsere: a Budapesti Agglomeráció területrendezési tervéről szól
 
 u) területfejlesztési terv: a térségre készülő területfejlesztési koncepció és program,
 
+u) gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet.
+
 v) ágazati tervek: a szakpolitikai stratégia, a szakpolitikai program és a hálózati fejlesztési terv,
 
 x) területi terv: a területfejlesztési koncepció, a területfejlesztési program és a területrendezési terv,
