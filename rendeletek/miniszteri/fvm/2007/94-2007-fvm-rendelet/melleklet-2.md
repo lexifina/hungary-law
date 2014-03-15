@@ -62,7 +62,7 @@
 
 ## Alulírott nyilatkozom, hogy
 
-## 3.1. az általam képviselt jogi személy, jogi személyiséggel nem rendelkező gazdasági társaság nem áll csőd-, felszámolási vagy végelszámolási eljárás alatt, illetve végrehajtási eljárás alatt nem álló egyéni vállalkozó vagyok; (a vonatkozó rész aláhúzandó!)
+## 3.1. az általam képviselt jogi személy, jogi személyiséggel nem rendelkező szervezet nem áll csőd-, felszámolási vagy végelszámolási eljárás alatt, illetve végrehajtási eljárás alatt nem álló egyéni vállalkozó vagyok; (a vonatkozó rész aláhúzandó!)
 
 ## 3.2. lejárt köztartozással nem rendelkezem;
 
@@ -88,4 +88,6 @@
 
 ## élelmiszerlánc-biztonsági és állategészségügyi igazgatóság vezetője
 
-2. számú melléklet a 94/2007. (IX. 4.) FVM rendelethez
+2. számú melléklet a 94/2007. (IX. 4.) FVM rendelethez[^8]
+
+[^8]: A 2. számú melléklet a 22/2014. (III. 14.) VM rendelet 44. § b) pontja szerint módosított szöveg.

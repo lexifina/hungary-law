@@ -56,7 +56,7 @@
 
 ## 2.3. a 94/2007. (IX. 4.) FVM rendelet alapján tárolási támogatást is igényeltem/igényelni fogok/nem igényelek*;
 
-## 2.4. az általam képviselt jogi személy, jogi személyiséggel nem rendelkező gazdasági társaság nem áll csőd-, felszámolási vagy végelszámolási eljárás alatt, illetve végrehajtási eljárás alatt nem álló egyéni vállalkozó vagyok*;
+## 2.4. az általam képviselt jogi személy, jogi személyiséggel nem rendelkező szervezet nem áll csőd-, felszámolási vagy végelszámolási eljárás alatt, illetve végrehajtási eljárás alatt nem álló egyéni vállalkozó vagyok*;
 
 ## 2.5. lejárt köztartozással nem rendelkezem;
 
@@ -84,11 +84,11 @@
 
 ## A hitelszerződés másolata.
 
-## ––––––––––––––
+## –––––––––––––––
 
 ## * A nem kívánt rész áthúzandó.
 
-3. számú melléklet a 94/2007. (IX. 4.) FVM rendelethez[^6]
+3. számú melléklet a 94/2007. (IX. 4.) FVM rendelethez[^9]
 
 Támogatási kérelem
 
@@ -146,7 +146,7 @@ Jogcím: Kapott támogatás összege: ............................... euró
 
 2.3. a 94/2007. (IX. 4.) FVM rendelet alapján kamattámogatást is igényeltem/igényelni fogok/nem igényelek*;
 
-2.4. az általam képviselt jogi személy, jogi személyiséggel nem rendelkező gazdasági társaság nem áll csőd-, felszámolási vagy végelszámolási eljárás alatt, illetve végrehajtási eljárás alatt nem álló egyéni vállalkozó vagyok*;
+2.4. az általam képviselt jogi személy, jogi személyiséggel nem rendelkező szervezet nem áll csőd-, felszámolási vagy végelszámolási eljárás alatt, illetve végrehajtási eljárás alatt nem álló egyéni vállalkozó vagyok*;
 
 2.5. lejárt köztartozással nem rendelkezem;
 
@@ -174,4 +174,4 @@ A közraktár által a tárolt takarmányozási célú gabona mennyiségéről, 
 
 * A nem kívánt rész áthúzandó.
 
-[^6]: [A 3. számú mellékletnek a 70/2013. (VII. 31.) VM rendelet 71. § f) pontjával elrendelt módosítása, amely szerint az „az MgSzH” szövegrész helyébe a „Nemzeti Élelmiszerlánc-biztonsági Hivatal” szöveg lép, nem vezethető át.]
+[^9]: A 3. számú melléklet a 22/2014. (III. 14.) VM rendelet 44. § b) pontja szerint módosított szöveg. [A 3. számú mellékletnek a 70/2013. (VII. 31.) VM rendelet 71. § f) pontjával elrendelt módosítása, amely szerint az „az MgSzH” szövegrész helyébe a „Nemzeti Élelmiszerlánc-biztonsági Hivatal” szöveg lép, nem vezethető át.]
