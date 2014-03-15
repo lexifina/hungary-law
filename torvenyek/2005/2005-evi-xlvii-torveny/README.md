@@ -14,3 +14,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2005-47-00-00
 | 2012-07-24 | 32/2008. (XII. 31.) IRM rendelet | 2005-47-00-00.16 |
 | 2013-01-01 | 2012. évi CCXI. törvény | 2005-47-00-00.17 |
 | 2013-07-01 | 2013. évi LXXXIV. törvény | 2005-47-00-00.18 |
+| 2014-03-15 | 2013. évi CCLII. törvény | 2005-47-00-00.19 |
