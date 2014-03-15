@@ -1,4 +1,4 @@
-## 16. §[^13] Nem nyújtható támogatás az alábbi kiadásokra:
+## 16. §[^16] Nem nyújtható támogatás az alábbi kiadásokra:
 
 a) a szinten tartást szolgáló tárgyi eszközök bekerülési értéke, illetve vételára létesítmény felvásárlásakor;
 
@@ -14,4 +14,4 @@ f) a 14. § (1) bekezdésének ac) alpontja szerinti immateriális javak bekerü
 
 g) nagyvállalkozásnál a korábban már bárki által használatba vett eszköz bekerülési értéke, kivéve létesítmény felvásárlásakor beszerzett tárgyi eszköz vételárát, valamint a földterület, telek bekerülési értékét.
 
-[^13]: A 16. § a 21/2009. (III. 6.) FVM rendelet 9. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 11. §-át.
+[^16]: A 16. § a 21/2009. (III. 6.) FVM rendelet 9. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 11. §-át.

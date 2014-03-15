@@ -14,8 +14,8 @@ f) a szállítási ágazatban gördülőeszköz vásárlásához;
 
 g) az EK Szerződés I. számú mellékletében felsorolt mezőgazdasági termékek elsődleges termeléséhez, előállításához;
 
-h)[^9] azon beruházáshoz, amelyek esetében e program a 8. § (3) bekezdése szerint, a Földművelésügyi és Vidékfejlesztési Minisztérium honlapján való közzététel előtt merültek fel elszámolható kiadások;
+h)[^12] azon beruházáshoz, amelyek esetében e program a 8. § (3) bekezdése szerint, a Földművelésügyi és Vidékfejlesztési Minisztérium honlapján való közzététel előtt merültek fel elszámolható kiadások;
 
 i) létesítmény felvásárlásához.
 
-[^9]: A 13. § h) pontja a 21/2009. (III. 6.) FVM rendelet 7. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 11. §-át.
+[^12]: A 13. § h) pontja a 21/2009. (III. 6.) FVM rendelet 7. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 11. §-át.

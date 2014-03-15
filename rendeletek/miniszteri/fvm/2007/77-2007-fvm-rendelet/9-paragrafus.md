@@ -1,6 +1,6 @@
 ## A támogatás mértéke
 
-9. § (1)[^7] Az egyes (azonos elszámolható kiadásokkal rendelkező) beruházásokhoz nyújtható, bármely támogatás intenzitása nem haladhatja meg a (2)–(4) bekezdésekben meghatározott mértékeket. A támogatás összege a tárgyi vagy immateriális beruházási költségek alapján kiszámított támogatásnak a bérköltségek alapján kiszámított támogatással történő kombinálása esetén sem haladhatja meg a régió számára megállapított felső határból eredő legkedvezőbb összeget.
+9. § (1)[^10] Az egyes (azonos elszámolható kiadásokkal rendelkező) beruházásokhoz nyújtható, bármely támogatás intenzitása nem haladhatja meg a (2)–(4) bekezdésekben meghatározott mértékeket. A támogatás összege a tárgyi vagy immateriális beruházási költségek alapján kiszámított támogatásnak a bérköltségek alapján kiszámított támogatással történő kombinálása esetén sem haladhatja meg a régió számára megállapított felső határból eredő legkedvezőbb összeget.
 
 (2) A maximális támogatási intenzitás az Európai Közösséget létrehozó Szerződés 87. cikkének (1) bekezdése szerinti állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 85/2004. (IV. 19.) Korm. rendelet 30. §-ának (1) bekezdése szerinti érték.
 
@@ -20,4 +20,4 @@ b) 50 százaléka, jelenértéken 50 és 100 millió eurónak megfelelő forint�
 
 c) 34 százaléka, a jelenértéken 100 millió eurónak megfelelő forintösszeg feletti részre.
 
-[^7]: A 9. § (1) bekezdése a 21/2009. (III. 6.) FVM rendelet 5. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 11. §-át.
+[^10]: A 9. § (1) bekezdése a 21/2009. (III. 6.) FVM rendelet 5. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 11. §-át.
