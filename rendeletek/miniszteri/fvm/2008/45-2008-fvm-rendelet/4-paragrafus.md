@@ -12,14 +12,14 @@
 
 (5) A citrusfélék szaporítóanyagának az (1)–(4) bekezdésben foglaltakon túl az alábbi követelményeknek kell megfelelnie:
 
-a)[^3] a szaporítóanyagnak olyan anyanövényről kell származnia, amelyet előzőleg a NÉBIH, illetve az illetékes megyei kormányhivatal növény- és talajvédelmi igazgatósága ellenőrzött és vírusoktól, vírusszerű szervezetektől, illetve betegségektől mentesnek talált,
+a)[^5] a szaporítóanyagnak olyan anyanövényről kell származnia, amelyet előzőleg a NÉBIH, illetve az illetékes megyei kormányhivatal növény- és talajvédelmi igazgatósága ellenőrzött és vírusoktól, vírusszerű szervezetektől, illetve betegségektől mentesnek talált,
 
-b)[^4] a szaporítóanyagot a NÉBIH, illetve az illetékes megyei kormányhivatal növény- és talajvédelmi igazgatósága ellenőrizte és vírusoktól, vírusszerű szervezetektől, valamint betegségektől mentesnek találta az utolsó vegetációs ciklus kezdetétől, valamint
+b)[^6] a szaporítóanyagot a NÉBIH, illetve az illetékes megyei kormányhivatal növény- és talajvédelmi igazgatósága ellenőrizte és vírusoktól, vírusszerű szervezetektől, valamint betegségektől mentesnek találta az utolsó vegetációs ciklus kezdetétől, valamint
 
 c) oltás esetén vírusokra nem fogékony alanyt használtak.
 
-(6)[^5] A hagymás dísznövények szaporítóanyagának – az (1)–(3) bekezdésben foglaltakon túl – közvetlenül olyan növényállományról kell származnia, amelyet a tenyészidőszak folyamán a NÉBIH, illetve az illetékes megyei kormányhivatal növény- és talajvédelmi igazgatósága megvizsgált, és kártevőktől, kórokozóktól, valamint a károsítás bármilyen jelétől vagy tünetétől mentesnek talált.
+(6)[^7] A hagymás dísznövények szaporítóanyagának – az (1)–(3) bekezdésben foglaltakon túl – közvetlenül olyan növényállományról kell származnia, amelyet a tenyészidőszak folyamán a NÉBIH, illetve az illetékes megyei kormányhivatal növény- és talajvédelmi igazgatósága megvizsgált, és kártevőktől, kórokozóktól, valamint a károsítás bármilyen jelétől vagy tünetétől mentesnek talált.
 
-[^3]: A 4. § (5) bekezdés a) pontja a 70/2013. (VII. 31.) VM rendelet 92. § e) pontja, a 19/2014. (III. 12.) VM rendelet 24. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^4]: A 4. § (5) bekezdés b) pontja a 70/2013. (VII. 31.) VM rendelet 92. § e) pontja, a 19/2014. (III. 12.) VM rendelet 24. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^5]: A 4. § (6) bekezdése a 70/2013. (VII. 31.) VM rendelet 92. § e) pontja, a 19/2014. (III. 12.) VM rendelet 24. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^5]: A 4. § (5) bekezdés a) pontja a 70/2013. (VII. 31.) VM rendelet 92. § e) pontja, a 19/2014. (III. 12.) VM rendelet 24. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^6]: A 4. § (5) bekezdés b) pontja a 70/2013. (VII. 31.) VM rendelet 92. § e) pontja, a 19/2014. (III. 12.) VM rendelet 24. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^7]: A 4. § (6) bekezdése a 70/2013. (VII. 31.) VM rendelet 92. § e) pontja, a 19/2014. (III. 12.) VM rendelet 24. § (2) bekezdés a) pontja szerint módosított szöveg.
