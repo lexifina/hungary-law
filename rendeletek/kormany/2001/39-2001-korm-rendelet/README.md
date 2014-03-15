@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-39-20-2
 | 2011-04-13 | 2001-39-20-22.6 | 61/2011. (IV. 12.) Korm. rendelet |
 | 2012-01-01 | 2001-39-20-22.7 | 4/2006. (I. 13.) Korm. rendelet |
 | 2012-04-27 | 2001-39-20-22.8 | 88/2012. (IV. 26.) Korm. rendelet |
+| 2014-03-15 | 2001-39-20-22.9 | 61/2011. (IV. 12.) Korm. rendelet |
