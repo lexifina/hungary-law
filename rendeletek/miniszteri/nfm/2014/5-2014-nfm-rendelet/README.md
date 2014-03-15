@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-5-20-2W
 | --- | --- | --- |
 | 2014-02-07 | 2014-5-20-2W.1 | 5/2014. (II. 6.) NFM rendelet |
 | 2014-02-08 | 2014-5-20-2W.2 | 2010: CXXX. törvény |
+| 2014-03-15 | 2014-5-20-2W.3 | 2010: CXXX. törvény |
