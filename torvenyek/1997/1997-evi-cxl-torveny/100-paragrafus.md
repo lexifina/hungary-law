@@ -46,7 +46,7 @@ f) a muzeális intézmények nyilvántartási szabályzatát,
 
 g) a muzeális intézmények tevékenységével összefüggő szakmai követelményeket,
 
-h)
+h) a múzeumi letét létrejöttére, a letéti szerződés tartalmi elemeire és felmondására, valamint a letéti díj megállapítására vonatkozó részletes szabályokat,
 
 i) a továbbképzés és a szervezett képzés rendszerét és követelményeit,
 

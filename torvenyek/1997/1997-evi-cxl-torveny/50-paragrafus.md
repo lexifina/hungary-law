@@ -2,7 +2,7 @@
 
 ## A muzeális intézmények fenntartása, irányítása
 
-50. § (1) A muzeális intézmény fenntartója az a természetes személy, jogi személy, jogi személyiség nélküli gazdasági társaság, amely biztosítja a muzeális intézmény folyamatos és rendeltetésszerű működéséhez szükséges feltételeket.
+50. § (1) A muzeális intézmény fenntartója az a természetes személy vagy jogi személy, amely biztosítja a muzeális intézmény folyamatos és rendeltetésszerű működéséhez szükséges feltételeket.
 
 (2) A fenntartó az e törvényben foglaltak alapján
 
