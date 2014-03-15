@@ -4,7 +4,7 @@
 
 (3) A projekttársaság és a nyertes ajánlattevő (ajánlattevők) a szerződés teljesítéséért egyetemlegesen felelnek.
 
-(4) A projekttársaság csak a közbeszerzési szerződés teljesítése érdekében szükséges tevékenységet végezhet és szerződéseket köthet, más gazdálkodó szervezetben részesedést nem szerezhet, valamint nem alakulhat át.
+(4) A projekttársaság csak a közbeszerzési szerződés teljesítése érdekében szükséges tevékenységet végezhet, ilyen szerződéseket köthet, más gazdálkodó szervezetben részesedést nem szerezhet, valamint nem alakulhat át, nem válhat szét és nem egyesülhet más jogi személlyel.
 
 (5) A projekttársaságban a nyertes ajánlattevőn (ajánlattevőkön) kívül más nem szerezhet részesedést. A projekttársaság jegyzett tőkéjét és jegyzett tőkén felüli vagyonát – ide nem értve az osztalékot – az alapítók nem vonhatják el.
 

@@ -12,4 +12,4 @@
 
 (5) Az ajánlatkérő köteles gondoskodni arról, hogy a dokumentáció nyílt eljárás esetén az ajánlati felhívás megjelenésének napjától, hirdetmény nélküli tárgyalásos eljárás esetén – amennyiben készül dokumentáció – az eljárás megkezdésétől, meghívásos és hirdetmény közzétételével induló tárgyalásos eljárás, valamint versenypárbeszéd esetén legkésőbb az ajánlattételi felhívás megküldésének időpontjától az ajánlattételi határidő lejártáig rendelkezésre álljon.
 
-(6) Az ajánlatkérő előírhatja, hogy a dokumentációt ajánlatonként vagy részvételi jelentkezésenként legalább egy ajánlattevőnek, részvételre jelentkezőnek vagy az ajánlatban, illetve részvételi jelentkezésben megnevezett alvállalkozónak meg kell vásárolnia vagy át kell vennie, vagy elektronikus úton el kell érnie.
+(6) Az ajánlatkérő előírhatja, hogy a dokumentációt ajánlatonként vagy részvételi jelentkezésenként legalább egy ajánlattevőnek, részvételre jelentkezőnek vagy az ajánlatban, illetve részvételi jelentkezésben megnevezett alvállalkozónak át kell vennie, vagy elektronikus úton el kell érnie.

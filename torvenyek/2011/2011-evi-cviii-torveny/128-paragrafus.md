@@ -8,6 +8,6 @@
 
 (4) Az alvállalkozó személye nem módosítható olyan esetben, amennyiben egy meghatározott alvállalkozó igénybevétele az érintett szolgáltatás sajátos tulajdonságait figyelembe véve a közbeszerzési eljárásban az ajánlatok értékelésekor [63. § (4) bekezdése] meghatározó körülménynek minősült.
 
-(5) Az (1)–(2) bekezdések szerinti teljesítési kötelezettséget teljesítheti az ajánlattevőként szerződő fél vagy a nem természetes személy alvállalkozó jogutódja, ha ezek valamelyike, mint gazdasági társaság átalakul vagy a szervezet jogutódlással megszűnik.
+(5) Az (1)–(2) bekezdés szerinti teljesítési kötelezettséget teljesítheti az ajánlattevőként szerződő fél vagy a nem természetes személy alvállalkozó jogutódja, ha ezek valamelyike mint jogi személy átalakul, szétválik, más jogi személlyel egyesül vagy a rá vonatkozó szabályok szerint más módon jogutódlással megszűnik.
 
 (6)

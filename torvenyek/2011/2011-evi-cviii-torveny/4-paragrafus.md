@@ -10,9 +10,9 @@
 
 a) azon gazdasági szereplőt, amely tevékenységét kizárólagos jog alapján végzi,
 
-b) a szerződés teljesítéséhez igénybe venni kívánt gyártót, forgalmazót, alkatrész- vagy alapanyag szállítót,
+b) a szerződés teljesítéséhez igénybe venni kívánt gyártót, forgalmazót, alkatrész vagy alapanyag eladóját,
 
-c) építési beruházás esetén az építőanyag-szállítót;
+c) építési beruházás esetén az építőanyag-eladót;
 
 3. az ország alapvető biztonsági érdekével kapcsolatos beszerzés: olyan beszerzés, amelynek tárgya közvetlenül kapcsolódik az ország lakosságának fizikai, környezeti, egészségügyi, gazdasági, honvédelmi biztonságát befolyásolni képes építési beruházáshoz, árubeszerzéshez, valamint szolgáltatás megrendeléséhez, ideértve a védekezési készültség esetén a vízkár közvetlen elhárítása érdekében szükséges beszerzéseket is;
 
@@ -26,11 +26,15 @@ c) építési beruházás esetén az építőanyag-szállítót;
 
 8. fenntarthatósági szempont: a fenntarthatósági szempontok érvényesüléséről szóló kormányrendeletben meghatározott szempont, így különösen az erőforrás- és energiahatékonyság, a dematerializáció, az üvegházhatású gázkibocsátás-csökkentés, valamint az adott termék/szolgáltatás életciklusa során a lehető legkisebb környezeti hatással és terheléssel járó megoldások szempontjai;
 
-9. gazdasági szereplő: bármely természetes személy, jogi személy, jogi személyiség nélküli gazdasági társaság, egyéni cég vagy személyes joga szerint jogképes szervezet aki, illetve amely a piacon építési beruházások kivitelezését, és/vagy építmények építését, áruk szállítását vagy szolgáltatások nyújtását kínálja;
+8a. gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet;
+
+9. gazdasági szereplő: bármely természetes személy, jogi személy, egyéni cég vagy személyes joga szerint jogképes szervezet, aki, illetve amely a piacon építési beruházások kivitelezését, illetve építmények építését, áruk szállítását vagy szolgáltatások nyújtását kínálja;
 
 10. hamis adat: a valóságnak megfelelően ismert, de a valóságtól eltérően közölt adat;
 
 11. hamis nyilatkozat: olyan nyilatkozat, amely hamis adatot tartalmaz;
+
+11a. „Írásbeli” vagy „írásban”: a közbeszerzési eljárás során tett nyilatkozatok, illetve eljárási cselekmények tekintetében bármely, szavakból vagy számjegyekből álló kifejezés, amely olvasható, reprodukálható, majd közölhető, ideértve az elektronikus úton továbbított és tárolt adatokat is;
 
 12. keretmegállapodás: meghatározott egy vagy több ajánlatkérő és egy vagy több ajánlattevő között létrejött olyan megállapodás, amelynek célja, hogy rögzítse egy adott időszakban közbeszerzésekre irányuló, egymással meghatározott módon kötendő szerződések lényeges feltételeit, különösen az ellenszolgáltatás mértékét, és ha lehetséges, az előirányzott mennyiséget;
 
@@ -42,9 +46,9 @@ c) építési beruházás esetén az építőanyag-szállítót;
 
 16. meghatározó befolyást képes gyakorolni az a szervezet, amely az alábbi feltételek közül legalább eggyel rendelkezik egy másik szervezet tekintetében:
 
-a) a tagok (részvényesek) szavazatának többségével társasági vagy tagsági részesedése alapján egyedül rendelkezik,
+a) vagyoni hozzájárulása, illetve részvénytársaság esetében a tulajdonában lévő részvények névértéke meghaladja a jegyzett tőke felét,
 
-b) más tagokkal (részvényesekkel) kötött megállapodás alapján vagy más módon a szavazatok többségével egyedül rendelkezik,
+b) a tagok szavazatának többségével egyedül rendelkezik, vagy más tagok a befolyással rendelkezővel kötött megállapodás alapján a befolyással rendelkezővel azonos tartalommal szavaznak, vagy a befolyással rendelkezőn keresztül gyakorolják szavazati jogukat, feltéve hogy együtt a szavazatok több mint felével rendelkeznek,
 
 c) jogosult arra, hogy a vezető tisztségviselők (döntéshozók, ügyvezetők) vagy a felügyelőbizottság (felügyeleti, ellenőrző szerv, testület) tagjainak többségét megválassza (kijelölje) vagy visszahívja;
 

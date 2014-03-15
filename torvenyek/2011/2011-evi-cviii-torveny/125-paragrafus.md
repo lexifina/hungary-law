@@ -20,11 +20,11 @@ a) a nyertes ajánlattevő nem fizet, illetve számol el a szerződés teljesít
 
 b) a szerződés teljesítésének teljes időtartama alatt tulajdonosi szerkezetét az ajánlatkérő számára megismerhetővé teszi és az (5) bekezdés szerinti ügyletekről az ajánlatkérőt haladéktalanul értesíti.
 
-(5) Az ajánlatkérőként szerződő fél jogosult és egyben köteles a szerződést felmondani – ha szükséges olyan határidővel, amely lehetővé teszi, hogy a szerződéssel érintett feladata ellátásáról gondoskodni tudjon – ha
+(5) Az ajánlatkérőként szerződő fél jogosult és egyben köteles a szerződést felmondani – ha szükséges olyan határidővel, amely lehetővé teszi, hogy a szerződéssel érintett feladata ellátásáról gondoskodni tudjon –, ha
 
-a) a nyertes ajánlattevőben közvetetten vagy közvetlenül 25%-ot meghaladó tulajdoni részesedést szerez valamely olyan jogi személy vagy jogi személyiséggel nem rendelkező gazdasági társaság, amely nem felel meg az 56. § (1) bekezdés k) pontjában meghatározott feltételeknek.
+a) a nyertes ajánlattevőben közvetetten vagy közvetlenül 25%-ot meghaladó tulajdoni részesedést szerez valamely olyan jogi személy vagy személyes joga szerint jogképes szervezet, amely tekintetében fennáll az 56. § (1) bekezdés k) pontjában meghatározott valamely feltétel;
 
-b) a nyertes ajánlattevő közvetetten vagy közvetlenül 25%-ot meghaladó tulajdoni részesedést szerez valamely olyan jogi személy vagy jogi személyiséggel nem rendelkező gazdasági társaságban, amely nem felel meg az 56. § (1) bekezdés k) pontjában meghatározott feltételeknek.
+b) a nyertes ajánlattevő közvetetten vagy közvetlenül 25%-ot meghaladó tulajdoni részesedést szerez valamely olyan jogi személyben vagy személyes joga szerint jogképes szervezetben, amely tekintetében fennáll az 56. § (1) bekezdés k) pontjában meghatározott valamely feltétel.
 
 (6) Az (5) bekezdés szerinti felmondás esetén a nyertes ajánlattevő a szerződés megszűnése előtt már teljesített szolgáltatás szerződésszerű pénzbeli ellenértékére jogosult.
 

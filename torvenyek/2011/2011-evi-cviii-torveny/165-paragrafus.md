@@ -9,3 +9,5 @@ a) ajánlatkérő megsértette a közbeszerzésre, illetve a közbeszerzési elj
 b) valódi esélye volt a szerződés elnyerésére, valamint
 
 c) a jogsértés kedvezőtlenül befolyásolta a szerződés elnyerésére vonatkozó esélyét.
+
+(3) Nem kell alkalmazni az (1) bekezdésben foglaltakat, ha a szerződés érvénytelenségével kapcsolatos polgári jogi igény érvényesítése – illetve a szerződés érvénytelenségére történő hivatkozás – e törvénynek vagy végrehajtási rendeleteinek a szerződés tartalmi elemeit meghatározó rendelkezéseinek megsértésén alapul.

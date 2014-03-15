@@ -32,4 +32,4 @@ e) ha a hirdetmény nélküli tárgyalásos eljárást a 94. § (2) bekezdés c)
 
 f) ha a 122. § (7) bekezdés a) pontja vagy a 122/A. § szerinti eljárásban csak egy ajánlatot nyújtottak be.
 
-(9) Az ajánlatkérő a nyertes szervezettel (személlyel) szemben csak abban az esetben mentesül a közbeszerzési szerződés megkötésének kötelezettsége alól, ha az ajánlatok elbírálásáról szóló írásbeli összegezés megküldését követően – általa előre nem látható és elháríthatatlan ok következtében – beállott lényeges körülmény miatt a közbeszerzési szerződés megkötésére vagy teljesítésére nem képes.
+(9) Az ajánlatkérő a nyertes szervezettel (személlyel) szemben csak abban az esetben mentesül a közbeszerzési szerződés megkötésének kötelezettsége alól, valamint a nyertes szervezet a 124. § (5) bekezdésében meghatározott időtartam alatt akkor mentesül szerződéskötési kötelezettsége alól (szabadul ajánlati kötöttségétől), ha az ajánlatok elbírálásáról szóló írásbeli összegezés megküldését követően – általa előre nem látható és elháríthatatlan ok következtében – beállott lényeges körülmény miatt a közbeszerzési szerződés megkötésére vagy teljesítésére nem képes.

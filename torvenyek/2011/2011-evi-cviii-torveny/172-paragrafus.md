@@ -58,7 +58,7 @@ r) ellátja a részére törvényben előírt egyéb feladatokat.
 
 (7) Nem lehet hivatalos közbeszerzési tanácsadó, aki
 
-a) korlátozottan cselekvőképes vagy cselekvőképtelen;
+a) cselekvőképtelen vagy cselekvőképességében részlegesen korlátozott;
 
 b) a büntetett előélethez fűződő hátrányok alól nem mentesült;
 

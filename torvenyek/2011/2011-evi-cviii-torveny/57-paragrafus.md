@@ -4,7 +4,7 @@ a) gazdasági vagy szakmai tevékenységével kapcsolatban – öt évnél nem r
 
 b) a Tpvt. 11. §-a, vagy az Európai Unió Működéséről szóló Szerződés 101. cikke szerinti – öt évnél nem régebben meghozott – jogerős és végrehajtható versenyfelügyeleti határozatban vagy a versenyfelügyeleti határozat bírósági felülvizsgálata esetén a bíróság jogerős és végrehajtható határozatában megállapított és bírsággal sújtott jogszabálysértést követett el versenyeztetési eljárás során; vagy ha az ajánlattevő ilyen jogszabálysértését más versenyhatóság vagy bíróság – öt évnél nem régebben – jogerősen megállapította, és egyúttal bírságot szabott ki;
 
-c) korábbi közbeszerzési eljárás alapján vállalt szerződéses kötelezettségének megszegését két éven belül kelt jogerős közigazgatási vagy bírósági határozat megállapította;
+c) korábbi közbeszerzési eljárás alapján vállalt szerződéses kötelezettségét súlyosan megszegte, és a szerződésszegést két éven belül kelt jogerős közigazgatási vagy bírósági határozat megállapította;
 
 d) a letelepedése szerinti ország nyilvántartásában nincs bejegyezve;
 
