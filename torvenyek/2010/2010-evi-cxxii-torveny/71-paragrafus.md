@@ -50,7 +50,7 @@ g) a természetes személy, jogi személy és egyéb szervezet által saját mag
 
 17. az egyéni vállalkozók nyilvántartására kijelölt szerv nyilvántartásából,
 
-18. a közjegyzői zálogjogi nyilvántartásból,
+18. a közjegyzői zálogjogi nyilvántartásból és a hitelbiztosítéki nyilvántartásból,
 
 19. a szabálysértési nyilvántartásból.
 
