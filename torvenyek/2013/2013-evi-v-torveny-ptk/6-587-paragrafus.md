@@ -1,0 +1,7 @@
+### 6:587. § [Utaló magatartás]
+
+A bíróság a kárnak egészben vagy részben való megtérítésére kötelezheti azt, akinek szándékos magatartása más jóhiszemű személyt alapos okkal olyan magatartásra indított, amelyből őt önhibáján kívül károsodás érte.
+
+## XXXV. CÍM
+
+A DÍJKITŰZÉS

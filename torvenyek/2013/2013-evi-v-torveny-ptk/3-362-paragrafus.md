@@ -1,0 +1,5 @@
+### 3:362. § [A közgyűlés összehívásának kezdeményezése]
+
+(1) A szövetkezet azon tagja vagy tagjai, akik együttesen a szavazati jogok legalább öt százalékával rendelkeznek, az ok és a cél megjelölésével bármikor kérhetik a közgyűlés összehívását vagy a közgyűlés ülés tartása nélküli döntéshozatalát. Ha az ügyvezetés a kérelem kézhezvételétől számított nyolc napon belül nem intézkedik a közgyűlés lehető legkorábbi időpontra történő összehívása érdekében, illetve nem kezdeményezi az ülés tartása nélküli döntéshozatalt, úgy a közgyűlést az indítványozók kérelmére a nyilvántartó bíróság hívja össze, vagy a nyilvántartó bíróság felhatalmazza az indítványozókat a közgyűlés összehívására, illetve az ülés tartása nélküli döntéshozatal lebonyolítására.
+
+(2) A várható költségeket az indítványozók kötelesek megelőlegezni. A közgyűlés a kisebbség kérelmére összehívott ülésen vagy az ülés tartása nélküli döntéshozatal során dönt arról, hogy a költségeket az indítványozók vagy a szövetkezet viseli-e.

@@ -1,0 +1,3 @@
+### 5:48. § [Az elbirtoklási idő nyugvása]
+
+Ha a tulajdonos menthető okból nincs abban a helyzetben, hogy tulajdonosi jogait gyakorolhassa, az akadály megszűnésétől számított egy évig az elbirtoklás akkor sem következik be, ha egyébként az elbirtoklási idő már eltelt vagy abból egy évnél kevesebb volna hátra.

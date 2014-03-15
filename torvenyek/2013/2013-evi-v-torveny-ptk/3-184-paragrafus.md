@@ -1,0 +1,13 @@
+## XXVI. Fejezet
+
+## A társaság által teljesített kifizetések
+
+### 3:184. § [A tag javára történő kifizetések]
+
+(1) A társaság saját tőkéjéből a tagok javára, azok tagsági jogviszonyára figyelemmel kifizetést a társaság fennállása során kizárólag az e törvényben meghatározott esetekben és – a törzstőke leszállításának esetét kivéve – a tárgyévi adózott eredményből, illetve a szabad eredménytartalékkal kiegészített tárgyévi adózott eredményből teljesíthet. Nem kerülhet sor kifizetésre, ha a társaság helyesbített saját tőkéje nem éri el vagy a kifizetés következtében nem érné el a társaság törzstőkéjét, továbbá, ha a kifizetés veszélyeztetné a társaság fizetőképességét.
+
+(2) A pénzbeli és a nem pénzbeli vagyoni értékű juttatás egyaránt kifizetésnek minősül.
+
+(3) Azokat a kifizetéseket, amelyeket az (1) bekezdés rendelkezései ellenére teljesítettek, a társaság részére vissza kell fizetni.
+
+(4) Az (1)–(3) bekezdésben foglaltakat megfelelően alkalmazni kell abban az esetben is, ha a tag nem a tagsági jogviszonyára tekintettel részesül kifizetésben.

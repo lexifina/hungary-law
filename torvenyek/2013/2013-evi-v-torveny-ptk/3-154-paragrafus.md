@@ -1,0 +1,3 @@
+### 3:154. § [A betéti társaság fogalma]
+
+A betéti társaság (bt.) létesítésére irányuló társasági szerződés megkötésével a társaság tagjai arra vállalnak kötelezettséget, hogy a társaság gazdasági tevékenységének céljára a társaság részére vagyoni hozzájárulást teljesítenek, továbbá legalább az egyik tag (a továbbiakban: beltag) vállalja, hogy a társaságnak a társasági vagyon által nem fedezett kötelezettségeiért a többi beltaggal egyetemlegesen köteles helytállni, míg legalább egy másik tag (a továbbiakban: kültag) a társasági kötelezettségekért – ha e törvény eltérően nem rendelkezik – nem tartozik helytállási kötelezettséggel.

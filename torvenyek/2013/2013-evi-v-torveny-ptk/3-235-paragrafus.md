@@ -1,0 +1,3 @@
+### 3:235. § [Nyilvánosan működő részvénytársaság elsőbbségi részvényei]
+
+Ha a zártkörűen működő részvénytársaság nyilvánosan működő részvénytársasággá kíván alakulni, a vezető tisztségviselő vagy felügyelőbizottsági tag kijelölésére vonatkozó, illetve az elővásárlási jogot biztosító elsőbbségi részvényeit, valamint az olyan elsőbbségi részvényeit, amelyek osztalékelsőbbségre, illetve likvidációs hányadhoz fűződő elsőbbségre vonatkozó jogosultságon kívül együttesen egyéb elsőbbségi jogokat testesítenek meg, a tőzsdei bevezetést megelőzően át kell alakítani a nyilvánosan működő részvénytársaságok által is kibocsátható elsőbbségi részvénnyé vagy törzsrészvénnyé.

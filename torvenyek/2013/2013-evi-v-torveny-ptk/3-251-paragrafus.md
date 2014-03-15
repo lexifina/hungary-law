@@ -1,0 +1,5 @@
+### 3:251. § [Nem pénzbeli vagyoni hozzájárulás]
+
+(1) Nem pénzbeli vagyoni hozzájárulás szolgáltatása esetén az alapszabályhoz mellékelni kell könyvvizsgáló vagy az adott vagyontárgy értékeléséhez szükséges szakértelemmel rendelkező szakértő jelentését, amely tartalmazza a nem pénzbeli vagyoni hozzájárulás értékelését. A könyvvizsgálónak vagy szakértőnek a jelentésben nyilatkoznia kell arról, hogy a nem pénzbeli vagyoni hozzájárulásnak az alapítók által előzetesen megállapított értéke egyensúlyban van-e az ellenében adandó részvények számával, névértékével.
+
+(2) Nincs szükség könyvvizsgálói vagy szakértői jelentésre, ha a nem pénzbeli vagyoni hozzájárulást nyújtó részvényes a szolgáltatás időpontjához képest három hónapnál nem régebbi, könyvvizsgáló által ellenőrzött beszámolóval rendelkezik, amely a hozzájárulás tárgyát képező vagyontárgy értékét tartalmazza, vagy ha a nem pénzbeli vagyoni hozzájárulás olyan vagyontárgyakból áll, amelyeknek tőzsdén jegyzett ára van.
