@@ -14,7 +14,7 @@ b) a 3. §-ban foglalt követelmény (pénzügyi teljesítőképesség) igazolá
 
 c) a 4. §-ban foglalt követelmény (szakmai alkalmasság) igazolására a 3. mellékletben meghatározott okiratokat,
 
-d)[^28] a vasúti társaság felelősségi körébe tartozó baleseti károk megtérítésére való alkalmasság külön jogszabály szerinti igazolását,
+d)[^28] a vasúti társaság felelősségi körébe tartozó baleseti károk megtérítésére és sérelemdíj megfizetésére való alkalmasság külön jogszabály szerinti igazolását,
 
 e)[^29] a 9/A. §-ban meghatározott, a pályahálózatra vonatkozó követelményeket igazoló okiratokat.
 
@@ -36,7 +36,7 @@ e)[^29] a 9/A. §-ban meghatározott, a pályahálózatra vonatkozó követelmé
 
 [^26]: A 9. § (1) bekezdése az 5/2012. (II. 15.) NFM rendelet 2. § (1) bekezdésével megállapított, nyitó szövegrésze a 23/2013. (V. 22.) NFM rendelet 7. § e) pontja szerint módosított szöveg.
 [^27]: A 9. § (1) bekezdés c) pontját a 23/2013. (V. 22.) NFM rendelet 8. § f) pontja hatályon kívül helyezte.
-[^28]: A 9. § (2) bekezdésének d) pontját a 93/2007. (XI. 22.) GKM rendelet 3. §-a iktatta be. E módosító rendelet 5. § (1) bekezdése alapján a rendelkezést a 2008. január 1. napján folyamatban lévő működési engedély kiadása iránti eljárásokban is alkalmazni kell.
+[^28]: A 9. § (2) bekezdés d) pontját a 93/2007. (XI. 22.) GKM rendelet 3. §-a iktatta be, szövege a 12/2014. (III. 14.) NFM rendelet 15. § b) pontja szerint módosított szöveg.
 [^29]: A 9. § (2) bekezdés e) pontját a 23/2013. (V. 22.) NFM rendelet 3. §-a iktatta be.
 [^30]: A 9. § (3) bekezdését a 23/2013. (V. 22.) NFM rendelet 8. § f) pontja hatályon kívül helyezte.
 [^31]: A 9. § (4) bekezdése az 55/2009. (X. 14.) KHEM rendelet 7. §-a szerint módosított szöveg.

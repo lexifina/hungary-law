@@ -1,6 +1,6 @@
 ## Üzleti jó hírnév
 
-2. § (1)[^3] Az üzleti jó hírnévvel kapcsolatos követelménynek az a vasúti társaság felel meg, amely ellen sem csőd-, sem felszámolási eljárás nincs folyamatban, továbbá amelynek a gazdasági társaságokról szóló törvény (a továbbiakban: Gt.) szerinti vezető tisztségviselőjénél (a továbbiakban együtt: vezető) személyes megbízhatóságot kizáró ok nem áll fenn.
+2. § (1)[^3] Az üzleti jó hírnévvel kapcsolatos követelménynek az a vasúti társaság felel meg, amely ellen sem csőd-, sem felszámolási eljárás nincs folyamatban, továbbá amelynek a Polgári Törvénykönyvről szóló törvény szerinti vezető tisztségviselőjénél (a továbbiakban együtt: vezető) személyes megbízhatóságot kizáró ok nem áll fenn.
 
 (2) A vezető személyes megbízhatóságát kizárja, ha
 
@@ -24,7 +24,7 @@ e)[^5] vezető volt olyan vasúti tevékenységet folytató szervezetnél, amely
 
 (7)[^6] Ha a vasúti társaság több engedélyhez kötött tevékenységet végez, a vezetőre vonatkozó rendelkezéseket az egyes vasútszakmai tevékenységeket végző szervezeti egységeinek vezető állású munkavállalóira is megfelelően alkalmazni kell.
 
-[^3]: A 2. § (1) bekezdése az 5/2012. (II. 15.) NFM rendelet 9. § (2) bekezdése szerint módosított szöveg.
+[^3]: A 2. § (1) bekezdése az 5/2012. (II. 15.) NFM rendelet 9. § (2) bekezdése, a 12/2014. (III. 14.) NFM rendelet 15. § a) pontja szerint módosított szöveg.
 [^4]: A 2. § (2) bekezdés a) pontját a 48/2009. (IX. 30.) KHEM rendelet 52. § 5. pontja hatályon kívül helyezte, e módosító rendelet 53. § (1) bekezdése alapján a 2010. január 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^5]: A 2. § (2) bekezdésének e) pontja a 8/2008. (VI. 30.) KHEM rendelet 2–3. §-a szerint módosított szöveg.
 [^6]: A 2. § (7) bekezdése a 23/2013. (V. 22.) NFM rendelet 7. § a) pontja szerint módosított szöveg.

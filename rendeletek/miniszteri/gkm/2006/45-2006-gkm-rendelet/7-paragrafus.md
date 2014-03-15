@@ -1,4 +1,4 @@
-## 6. §[^20] Az a vasúti társaság, amely kizárólag a Vtv. 2. § (2) bekezdés 16. pontja, a Vtv. 15. § (1) bekezdése vagy a Vtv. 16. § (1) bekezdése szerinti tevékenységet végez, abban az esetben felel meg a jóhírnév, a szakmai alkalmasság és a felelősségi körébe tartozó baleseti károk megtérítésére való alkalmasság követelményeinek, amennyiben eleget tesz a 2. §-ban és a 4. §-ban meghatározott feltételeknek.
+## 6. §[^20] Az a vasúti társaság, amely kizárólag a Vtv. 2. § (2) bekezdés 16. pontja, a Vtv. 15. § (1) bekezdése vagy a Vtv. 16. § (1) bekezdése szerinti tevékenységet végez, abban az esetben felel meg a jóhírnév, a szakmai alkalmasság és a felelősségi körébe tartozó baleseti károk megtérítésére és sérelemdíj megfizetésére való alkalmasság követelményeinek, amennyiben eleget tesz a 2. §-ban és a 4. §-ban meghatározott feltételeknek.
 
 ## A térségi pályahálózat kijelölése
 
@@ -12,7 +12,7 @@ b) a Vtv. 15. § (2) bekezdés b) pontjára hivatkozás esetén, ha a kérelmez�
 
 (3)[^23] A vasúti igazgatási szerv kijelöli a térségi vasúti pályahálózatot, ha a kérelmező a vasúti igazgatási szerv részére megfelelően igazolja, hogy az érintett pályahálózat az országos vasúti pályahálózathoz képest keskenyebb nyomtávú.
 
-[^20]: A 6. § a 23/2013. (V. 22.) NFM rendelet 2. §-ával megállapított szöveg.
+[^20]: A 6. § a 23/2013. (V. 22.) NFM rendelet 2. §-ával megállapított, a 12/2014. (III. 14.) NFM rendelet 15. § b) pontja szerint módosított szöveg.
 [^21]: A 7. § (2) bekezdésének bevezető szövegrésze a 8/2008. (VI. 30.) KHEM rendelet 2. §-a szerint módosított szöveg.
 [^22]: A 7. § (2) bekezdésének a) pontja a 8/2008. (VI. 30.) KHEM rendelet 2. §-a szerint módosított szöveg.
 [^23]: A 7. § (3) bekezdése a 8/2008. (VI. 30.) KHEM rendelet 2. §-a szerint módosított szöveg.
