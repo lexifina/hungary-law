@@ -12,7 +12,7 @@ d) közszolgáltatás: szerződéskötési kötelezettség alapján a lakosság 
 
 e) civil és érdek-képviseleti szervezet: az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény szerinti civil szervezet, amelynek alapszabályában, illetve alapító okiratában a szervezet céljai között a védett tulajdonság pontos meghatározásával körülírt hátrányos helyzetű csoportok társadalmi esélyegyenlőségének, illetve társadalmi felzárkózásának elősegítése vagy a védett tulajdonság pontos meghatározásával körülírt emberi és állampolgári jogok védelme szerepel, valamint az adott nemzetiség tekintetében a nemzetiségi önkormányzat, továbbá a munkavállalók anyagi, szociális és kulturális, valamint élet- és munkakörülményeivel összefüggő ügyeiben a szakszervezet,
 
-f) hozzátartozó: a Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) 685. § b) pontja szerinti hozzátartozó, ide nem értve a jegyest,
+f) hozzátartozó: a házastárs, a bejegyzett élettárs, az egyeneságbeli rokon, az örökbefogadott, a mostoha- és nevelt gyermek, az örökbefogadó-, a mostoha- és a nevelőszülő, a testvér, az élettárs, illetve az egyeneságbeli rokon házastársa, bejegyzett élettársa, a házastárs, illetve a bejegyzett élettárs egyeneságbeli rokona és testvére, valamint a testvér házastársa, illetve bejegyzett élettársa,
 
 g) kérelmező: az a természetes személy, jogi személy vagy jogi személyiség nélküli szervezet, aki vagy amely a 15. § (1) bekezdés a) pontja vagy 20. § (1) bekezdés b) pontja alapján az egyenlő bánásmód követelménye megsértésének magállapítását maga kezdeményezte, vagy arra jogosult lett volna és az eljárásban ügyfélnek minősül;
 
