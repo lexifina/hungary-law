@@ -6,9 +6,9 @@ b) gazdálkodó szervezet: Magyarországon székhellyel, telephellyel vagy fiók
 
 ba) élelmiszerlánc-felügyeleti információs rendszerben nyilvántartott és agrárgazdasági tevékenységet folytató,
 
-bb) a ba) pont szerinti feltételek hiányában agrárgazdasági tevékenységet főtevékenységként folytató
+bb) a ba) pont szerinti feltételek hiányában agrárgazdasági tevékenységet főtevékenységként folytató,
 
-jogi személy vagy jogi személyiség nélküli gazdasági társaság, egyéb állami gazdálkodó szerv, egyéni cég, szövetkezet, egyesülés, egyes jogi személyek vállalata, leányvállalat, erdőbirtokossági társulat, európai szövetkezet, európai részvénytársaság;
+Polgári Törvénykönyv szerinti vállalkozás;
 
 c) agrárkamara tagja: a kamarai tagjegyzékbe bejegyzett gazda, gazdálkodó szervezet;
 
@@ -16,7 +16,7 @@ d) agrárgazdasági tevékenység: az 1. és 2. mellékletben felsorolt ÖVTJ- �
 
 e) gazdasági kamara: a kereskedelmi és iparkamara és az agrárkamara;
 
-f) közeli hozzátartozó: a Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) 685. § b) pontja szerint meghatározott személy;
+f) közeli hozzátartozó: a Polgári Törvénykönyv szerinti közeli hozzátartozó;
 
 g) szakmai kamara: meghatározott szakmát gyakorló személyek törvény által létrehozott köztestülete;
 

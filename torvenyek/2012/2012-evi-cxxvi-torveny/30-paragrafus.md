@@ -20,7 +20,7 @@ b) Magyarországon nem rendelkezik állandó lakóhellyel.
 
 (5) A tisztségviselő azonos agrárkamarai szervezeten belül egyidejűleg egy agrárkamarai tisztséget tölthet be és egy szavazati jog illeti meg. A területi szervezet elnöke nem lehet egyidejűleg az országos szervezet főigazgatója.
 
-(6) Az elnökségnek, az etikai és a felügyelő bizottságnak a tagjai nem lehetnek egymásnak a Ptk. szerinti közeli hozzátartozói és munkakörükben egymás alá- és fölérendeltjei.
+(6) Az elnökségnek, az etikai és a felügyelő bizottságnak a tagjai nem lehetnek egymásnak közeli hozzátartozói és munkakörükben egymás alá- és fölérendeltjei.
 
 (7) A (2), (3), (5) és (6) bekezdésben megjelölt összeférhetetlenségi ok fennállásáról az érintett a megválasztása előtt köteles nyilatkozni. Nyilatkozatában egyúttal vállalja, hogy megválasztása esetén harminc napon belül az összeférhetetlenségi okot megszünteti. Amennyiben az összeférhetetlenség a választást követően merül fel, az érintett az attól számított tizenöt napon belül köteles az összeférhetetlenséget megszüntetni. Az összeférhetetlenség megszüntetéséről az érintett a választására jogosult testületet haladéktalanul tájékoztatja.
 
