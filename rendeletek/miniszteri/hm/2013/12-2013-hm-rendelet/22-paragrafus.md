@@ -1,6 +1,6 @@
 22. § (1) A költségvetésben külön meghatározott előirányzat, valamint jóváhagyott segélykeret terhére a HM VGHÁT mérlegelés alapján engedélyezheti segély kifizetését
 
-a) a nyugállományú katonának, valamint elhalálozása esetén a közeli hozzátartozóinak,
+a)[^2] a nyugállományú katonának, valamint elhalálozása esetén a közeli hozzátartozóinak, élettársának,
 
 b) az állomány elhunyt tagja özvegyének,
 
@@ -39,3 +39,5 @@ d) a kérelmező segély kifizetésének engedélyezésére irányuló kérelme,
 e) a kérelmező aláírása,
 
 f) az MH hadkiegészítésért és központi nyilvántartásért felelős szervének környezettanulmánya, valamint a kérelem benyújtását megelőző 12 hónapban esetlegesen nyújtott segélyekre vonatkozó adatok.
+
+[^2]: A 22. § (1) bekezdés a) pontja a 24/2013. (XII. 20.) HM rendelet 20. § b) pontja szerint módosított szöveg.
