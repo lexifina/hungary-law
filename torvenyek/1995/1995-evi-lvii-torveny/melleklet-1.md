@@ -14,7 +14,7 @@ E törvény alkalmazásában
 
 5. elsőrendű árvízvédelmi vízilétesítmény: a vízfolyások mentén lévő vagy létesülő fővédelmi művé nyilvánított, három vagy több település árvízvédelmét szolgáló (térségi) árvízvédelmi létesítmény (így például töltés, fal, magaspart, árvízi tározó, árapasztó csatorna), továbbá a folyó nyílt árterében fekvő település árvízmentesítését szolgáló körtöltés;
 
-6. érdekelt: az a természetes vagy jogi személy, jogi személyiséggel nem rendelkező gazdasági társaság, aki/amely az érdekeltségi területen ingatlantulajdonnal rendelkezik, illetve ingatlant használ;
+6. érdekelt: az a természetes vagy jogi személy, jogi személyiséggel nem rendelkező szervezet, aki/amely az érdekeltségi területen ingatlantulajdonnal rendelkezik, illetve ingatlant használ;
 
 7. érdekeltségi terület: víziközmű-társulat esetén azok a területek, amelyeken az általuk megvalósított vízilétesítmények szolgáltatása (vízellátás, szennyvízelvezetés, belterületi csapadék- vagy talajvízelvezetés) igénybe vehető;
 
@@ -58,7 +58,7 @@ b) lakosegyenérték: szerves, biológiailag lebontható terhelés, amelynek öt
 
 23. vízhasználat: az a tevékenység, amelynek következménye a víz lefolyási, áramlási viszonyainak, mennyiségének, minőségének, továbbá a medrének, partjának a víz hasznosítása érdekében való befolyásolása;
 
-24. vízhasználó: az a természetes személy, jogi személy és a természetes személyek jogi személyiséggel nem rendelkező gazdasági társasága, aki (amely) vizet szolgáltatás teljesítésére vagy saját céljaira vesz igénybe;
+24. vízhasználó: az a természetes személy, jogi személy és jogi személyiséggel nem rendelkező szervezet, aki (amely) vizet szolgáltatás teljesítésére vagy saját céljaira vesz igénybe;
 
 25. vízimunka: az a tevékenység, amelynek az a rendeltetése, hogy a víz lefolyási, áramlási viszonyait, mennyiségét vagy minőségét, medrét, partját a vizek kártételeinek elhárítása, a víz hasznosítása, minőségének és mennyiségének megfigyelése, ásványi és földtani kutatások végzése, ásványi nyersanyag kitermelése céljából befolyásolja;
 
@@ -113,3 +113,5 @@ b) belvíztározó: a belvíz összegyűjtésére szolgáló természetes határ
 40. mederhasználati vízilétesítmény: a nemzeti vagyonba tartozó vizek medrében elhelyezett kikötői lekötőmű, móló – az úszó móló kivételével –, sólyapálya, partvédő művek, hullámtörő, energiatörő.
 
 41. mezőgazdasági vízszolgáltatás: a mező- és erdőgazdasági művelés alatt álló területek öntözését, a halastavak és egyéb mezőgazdasági vízhasználat vízellátását szolgáló, továbbá a mezőgazdasági vízszolgáltatási rendszerhez kapcsolódó, egyéb célú vízigények kielégítésére irányuló tevékenység.
+
+42. gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet.

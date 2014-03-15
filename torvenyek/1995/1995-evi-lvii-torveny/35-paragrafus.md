@@ -1,6 +1,6 @@
 35. § (1) A társulat közfeladatait szolgáló tevékenységét érdekeltségi területén végzi.
 
-(2) A víziközmű társulat tagjai az érdekeltségi területen ingatlantulajdonnal rendelkező vagy az ingatlant egyéb jogcímen használó természetes és jogi személyek, jogi személyiséggel nem rendelkező gazdasági társaságok.
+(2) A víziközmű társulat tagjai az érdekeltségi területen ingatlantulajdonnal rendelkező vagy az ingatlant egyéb jogcímen használó természetes és jogi személyek, jogi személyiséggel nem rendelkező szervezetek.
 
 (3) A víziközmű társulat tagjai kötelesek a víziközmű társulat részére víziközmű társulati érdekeltségi hozzájárulást (a továbbiakban: hozzájárulás) fizetni. A hozzájárulás adók módjára behajtható köztartozás.
 

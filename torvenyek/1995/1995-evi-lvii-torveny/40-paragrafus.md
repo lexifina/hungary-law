@@ -1,6 +1,6 @@
 ## A víziközmű társulat megalakulása
 
-40. § (1) A víziközmű társulat alapításához az szükséges, hogy az érdekeltségi területen ingatlantulajdonnal rendelkező természetes személyek, jogi személyek, jogi személyiséggel nem rendelkező gazdasági társaságok (a továbbiakban: tagok) az alakuló taggyűlésen
+40. § (1) A víziközmű társulat alapításához az szükséges, hogy az érdekeltségi területen ingatlantulajdonnal rendelkező természetes személyek, jogi személyek, jogi személyiséggel nem rendelkező szervezetek (a továbbiakban: tagok) az alakuló taggyűlésen
 
 a) elhatározzák megalakulását,
 

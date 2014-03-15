@@ -16,7 +16,7 @@ e) a vizek megismeréséhez, állapotának feltárásához szükséges mérésre
 
 f) a vízkárok elleni védelemre és védekezésre,
 
-továbbá a c)—f) pontokban megjelölt tevékenységeket folytató természetes és jogi személyekre, ezek jogi személyiséggel nem rendelkező gazdasági társaságaira terjed ki.
+továbbá a c)—f) pontokban megjelölt tevékenységeket folytató természetes és jogi személyekre, ezek jogi személyiséggel nem rendelkező szervezeteire terjed ki.
 
 (2) A nemzetközi együttműködésből adódó vízgazdálkodási feladatok ellátására e törvény hatálya annyiban terjed ki, amennyiben nemzetközi szerződés eltérően nem rendelkezik.
 
