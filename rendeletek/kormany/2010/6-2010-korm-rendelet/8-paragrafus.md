@@ -1,10 +1,10 @@
 ## A kárfedezeti képesség igazolása, adatszolgáltatás
 
-8. § (1)[^7] A vagyoni biztosítékra vonatkozó szerződés megkötését, valamint annak folyamatos hatályban tartását
+8. § (1)[^11] A vagyoni biztosítékra vonatkozó szerződés megkötését, valamint annak folyamatos hatályban tartását
 
 a) a biztosítási kötvény és a biztosítási díjjal rendezett időszakról (ideértve a díjhalasztást is) a biztosító által kiállított igazolás, vagy
 
-b) a bankgarancia eredeti vagy közjegyző által hitelesített másolati példánya
+b)[^12] a garanciaszerződés eredeti vagy közjegyző által hitelesített másolati példánya
 
 ## tanúsítja.
 
@@ -30,4 +30,5 @@ i) a kárrendezés és a kárkifizetés módját, valamint
 
 j) a szerződés keltét.
 
-[^7]: A 8. § (1) bekezdése a 328/2013. (IX. 3.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^11]: A 8. § (1) bekezdése a 328/2013. (IX. 3.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^12]: A 8. § (1) bekezdés b) pontja az 53/2014. (III. 3.) Korm. rendelet 25. § (2) bekezdés a) pontja szerint módosított szöveg.
