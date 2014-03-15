@@ -26,9 +26,10 @@ j) a 4. § (3) bekezdésében foglaltakat a közszférában dolgozó teljes bizo
 
 k)[^10] az adóazonosító jelet adóigazolvánnyal.
 
-(2) Ha az igénylő a pénzügyi intézménynek vagy az igazolást kibocsátónak valótlan adatot tartalmazó nyilatkozatot tett, és ez alapján jutott a közszférában dolgozók támogatásához, a folyósított összeget az igénybevétel napjától felszámított, a Ptk. 301. § (1) bekezdése szerint számított késedelmi kamattal növelt összegben köteles a pénzügyi intézményen keresztül visszafizetni.
+(2)[^11] Ha az igénylő a pénzügyi intézménynek vagy az igazolást kibocsátónak valótlan adatot tartalmazó nyilatkozatot tett, és ez alapján jutott a közszférában dolgozók támogatásához, a folyósított összeget az igénybevétel napjától felszámított, a Ptk. szerint számított késedelmi kamattal növelt összegben köteles a pénzügyi intézményen keresztül visszafizetni.
 
 (3) A pénzügyi intézmény a gyűjtőszámlahitelre vonatkozó hitelkeret-szerződésbe foglalja a 11. § (1) bekezdésében meghatározott jogorvoslat lehetőségére vonatkozó, valamint a 12. § (4) bekezdése és a 13. § (2) bekezdése szerinti jogkövetkezményekre való figyelmeztetést.
 
 [^9]: A 10. § (1) bekezdés i) pontja az 537/2013. (XII. 30.) Korm. rendelet 78. § d) pontja szerint módosított szöveg.
 [^10]: A 10. § (1) bekezdés k) pontját az 537/2013. (XII. 30.) Korm. rendelet 76. §-a iktatta be.
+[^11]: A 10. § (2) bekezdése a 80/2014. (III. 14.) Korm. rendelet 29. § b) pontja szerint módosított szöveg.

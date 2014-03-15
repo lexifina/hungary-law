@@ -20,6 +20,6 @@ bc) akinek az egészségi állapota a rehabilitációs hatóság komplex minős�
 
 c) támogatott: az a természetes személy, aki a támogatás személyi és egyéb feltételeinek megfelel és a pénzügyi intézménnyel gyűjtőszámlahitelre vonatkozó hitelkeret-szerződést köt vagy e rendelet hatálybalépését megelőzően gyűjtőszámlahitelre vonatkozó hitelkeret-szerződést kötött.
 
-(2)[^1] Az e rendeletben meg nem határozott fogalmakat a Polgári Törvénykönyvről szóló 1959. évi IV. törvényben (a továbbiakban: Ptk.), a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényben, valamint a devizakölcsönök törlesztési árfolyamának rögzítéséről és a lakóingatlanok kényszerértékesítésének rendjéről szóló 2011. évi LXXV. törvényben meghatározottak szerint kell értelmezni.
+(2)[^1] Az e rendeletben meg nem határozott fogalmakat a Polgári Törvénykönyvben (a továbbiakban: Ptk.), a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényben, valamint a devizakölcsönök törlesztési árfolyamának rögzítéséről és a lakóingatlanok kényszerértékesítésének rendjéről szóló 2011. évi LXXV. törvényben meghatározottak szerint kell értelmezni.
 
-[^1]: Az 1. § (2) bekezdése az 537/2013. (XII. 30.) Korm. rendelet 78. § a) pontja szerint módosított szöveg.
+[^1]: Az 1. § (2) bekezdése az 537/2013. (XII. 30.) Korm. rendelet 78. § a) pontja, a 80/2014. (III. 14.) Korm. rendelet 29. § a) pontja szerint módosított szöveg.
