@@ -4,7 +4,7 @@
 
 a)[^3] mentés: az Eütv. 94. §-ának (1), (4) és (5) bekezdésében foglalt tevékenység;
 
-b)[^4] mentési tevékenységet végző szervezet: az Országos Mentőszolgálat (a továbbiakban: OMSZ) és e jogszabály szerint mentési tevékenység végzésére jogosult más jogi személy, jogi személyiséggel nem rendelkező gazdasági társaság vagy magánszemély, ha megfelel az 1. melléklet szerinti személyi és tárgyi feltételeknek, és rendelkezik az Állami Népegészségügyi és Tisztiorvosi Szolgálat Országos Tisztifőorvosi Hivatal (a továbbiakban: ÁNTSZ OTH) által – külön jogszabály szerint – kiadott működési engedéllyel (a továbbiakban: működési engedély);
+b)[^4] mentési tevékenységet végző szervezet: az Országos Mentőszolgálat (a továbbiakban: OMSZ) és e jogszabály szerint mentési tevékenység végzésére jogosult más jogi személy vagy természetes személy, ha megfelel az 1. melléklet szerinti személyi és tárgyi feltételeknek, és rendelkezik az Állami Népegészségügyi és Tisztiorvosi Szolgálat Országos Tisztifőorvosi Hivatal (a továbbiakban: ÁNTSZ OTH) által – külön jogszabály szerint – kiadott működési engedéllyel (a továbbiakban: működési engedély);
 
 c)[^5] mentési tevékenységet végző személy: a b) pont szerinti mentési tevékenységet végző szervezet(ek) keretében a mentésre szoruló beteg, illetve sérült (a továbbiakban: beteg) feltalálási helyén vagy szállítás közbeni sürgősségi ellátásában részt vevő, az 1. melléklet szerinti képesítéssel rendelkező személy;
 
@@ -26,7 +26,7 @@ k)[^9] gyalogőrség: a rendezvény egészségügyi biztosításának azon form�
 
 [^2]: Az 1/A. §-t a 37/2011. (VI. 28.) NEFMI rendelet 1. §-a iktatta be.
 [^3]: A 2. § a) pontja a 37/2011. (VI. 28.) NEFMI rendelet 12. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^4]: A 2. § b) pontja a 10/2011. (III. 30.) NEFMI rendelet 56. § (1) bekezdése, a 37/2011. (VI. 28.) NEFMI rendelet 12. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^4]: A 2. § b) pontja a 10/2011. (III. 30.) NEFMI rendelet 56. § (1) bekezdése, a 37/2011. (VI. 28.) NEFMI rendelet 12. § (1) bekezdés b) pontja, a 16/2014. (III. 12.) EMMI rendelet 14. § b) pontja, 15. § a) pontja szerint módosított szöveg.
 [^5]: A 2. § c) pontja a 37/2011. (VI. 28.) NEFMI rendelet 13. § a) pontja szerint módosított szöveg.
 [^6]: A 2. § d) pontja a 61/2007. (XII. 29.) EüM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^7]: A 2. § f) pontja a 37/2011. (VI. 28.) NEFMI rendelet 2. § (1) bekezdésével megállapított szöveg.

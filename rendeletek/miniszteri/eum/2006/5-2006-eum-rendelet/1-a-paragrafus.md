@@ -1,3 +1,3 @@
-## 1. §[^1] E rendelet hatálya a Magyarország területén mentést végző magánszemélyre, jogi személyre és jogi személyiséggel nem rendelkező gazdasági társaságra terjed ki.
+## 1. §[^1] E rendelet hatálya a Magyarország területén mentést végző természetes személyre vagy jogi személyre terjed ki.
 
-[^1]: Az 1. § a 3/2012. (I. 3.) NEFMI rendelet 6. §-a szerint módosított szöveg.
+[^1]: Az 1. § a 3/2012. (I. 3.) NEFMI rendelet 6. §-a, a 16/2014. (III. 12.) EMMI rendelet 14. § a) pontja szerint módosított szöveg.
