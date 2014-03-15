@@ -12,7 +12,7 @@ a) költségvetési támogatás, ha az Alap pénzállománya a kötelezettségei
 
 b) árvízkár enyhítésére szolgáló nemzetközi segélyek.
 
-(3) Az (1) bekezdés b) pontjában foglalt befizetés közérdekű kötelezettségvállalásnak minősül (Ptk. 593–596. §).
+(3) Az (1) bekezdés b) pontjában foglalt befizetés közérdekű célra történő kötelezettségvállalásnak minősül (a Polgári Törvénykönyvről szóló 2013. évi V. törvény 6:589. §).
 
 (4) Az Alap bevételei kizárólag
 
