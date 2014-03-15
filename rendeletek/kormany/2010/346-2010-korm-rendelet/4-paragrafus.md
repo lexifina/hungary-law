@@ -6,7 +6,7 @@ b) a helyi önkormányzatokról szóló törvény szerint államigazgatási fela
 
 c)[^12] az a) és b) pontban meghatározottak által alapított költségvetési szerv,
 
-d)[^13] többségi állami, vagy önkormányzati tulajdonban álló, jogi személyiséggel rendelkező gazdasági társaság,
+d)[^13] többségi állami, vagy önkormányzati tulajdonban álló, gazdasági társaság,
 
 e)[^14] a d) pontban meghatározottak többségi tulajdonában álló gazdasági társaság,
 
@@ -36,7 +36,7 @@ b) egyedi körülményektől és feltételektől függetlenül milyen elektronik
 
 [^11]: A 4. § (1) bekezdés a) pontja a 402/2012. (XII. 28.) Korm. rendelet 19. §-a szerint módosított szöveg.
 [^12]: A 4. § (1) bekezdés c) pontja a 169/2013. (V. 29.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^13]: A 4. § (1) bekezdés d) pontja a 169/2013. (V. 29.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^13]: A 4. § (1) bekezdés d) pontja a 169/2013. (V. 29.) Korm. rendelet 10. § (1) bekezdésével megállapított, az 53/2014. (III. 3.) Korm. rendelet 29. §-a szerint módosított szöveg.
 [^14]: A 4. § (1) bekezdés e) pontja a 169/2013. (V. 29.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
 [^15]: A 4. § (1) bekezdés f) pontját a 169/2013. (V. 29.) Korm. rendelet 10. § (2) bekezdése iktatta be.
 [^16]: A 4. § (1) bekezdés g) pontját a 169/2013. (V. 29.) Korm. rendelet 10. § (2) bekezdése iktatta be.
