@@ -1,16 +1,16 @@
 ## A tervtanácsi jegyzőkönyv
 
-14. § (1)[^50] Az építészeti-műszaki tervtanácsi tárgyalásról minden esetben hangfelvétel, az elhangzott lényeges megállapításokról jegyzőkönyv készül. A jegyzőkönyv mellékletét képezi a hangfelvétel és a bírálat.
+14. § (1)[^51] Az építészeti-műszaki tervtanácsi tárgyalásról minden esetben hangfelvétel, az elhangzott lényeges megállapításokról jegyzőkönyv készül. A jegyzőkönyv mellékletét képezi a hangfelvétel és a bírálat.
 
 (2) A jegyzőkönyvnek tartalmaznia kell:
 
 a) a tervtanács nevét és székhelyét, a tárgyalás helyét és idejét,
 
-b)[^51] a megtárgyalt tervdokumentáció tartalmának megnevezését, építészeti-műszaki tervtanács esetében az építés helyét (címét),
+b)[^52] a megtárgyalt tervdokumentáció tartalmának megnevezését, építészeti-műszaki tervtanács esetében az építés helyét (címét),
 
 c) napirendi pontonként a tervtanácsi tagok létszámát és a határozatképesség vagy határozatképtelenség tényét,
 
-d)[^52] a tervező nevét, illetve elnevezését, valamint címét, illetve székhelyét,
+d)[^53] a tervező nevét, illetve elnevezését, valamint címét, illetve székhelyét,
 
 e) a tervdokumentáció benyújtójának nevét, illetve elnevezését, címét, illetve székhelyét,
 
@@ -28,6 +28,6 @@ k) egyhangúság esetén annak tényére történő utalást, véleménykülönb
 
 l) a tervtanács jelen lévő tagjainak aláírását.
 
-[^50]: A 14. § (1) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 31. § g) pontja szerint módosított szöveg.
-[^51]: A 14. § (2) bekezdésének b) pontja a 196/2009. (IX. 15.) Korm. rendelet 61. § (9) bekezdésének f) pontja szerint módosított szöveg.
-[^52]: A 14. § (2) bekezdésének d) pontja a 196/2009. (IX. 15.) Korm. rendelet 61. § (9) bekezdésének g) pontja szerint módosított szöveg.
+[^51]: A 14. § (1) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 31. § g) pontja szerint módosított szöveg.
+[^52]: A 14. § (2) bekezdésének b) pontja a 196/2009. (IX. 15.) Korm. rendelet 61. § (9) bekezdésének f) pontja szerint módosított szöveg.
+[^53]: A 14. § (2) bekezdésének d) pontja a 196/2009. (IX. 15.) Korm. rendelet 61. § (9) bekezdésének g) pontja szerint módosított szöveg.
