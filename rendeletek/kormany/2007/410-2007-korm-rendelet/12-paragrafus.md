@@ -1,6 +1,6 @@
 12. § (1)[^25] A 2–8. §-ban meghatározott jogszabályi rendelkezések megsértését igazoló képfelvételek készítésére, továbbítására a Kkt. 33. § (2) bekezdés alapján a Rendőrség, továbbá a közút kezelője – írásba foglalt vállalkozási szerződés alapján – közreműködőt is igénybe vehet.
 
-(2)[^26] Közreműködőként olyan jogi személy, valamint jogi személyiséggel nem rendelkező gazdasági társaság és egyéni vállalkozó vehető igénybe, amely
+(2)[^26] Közreműködőként olyan jogi személy és egyéni vállalkozó vehető igénybe, amely
 
 a) rendelkezik:
 
@@ -39,7 +39,7 @@ b) a vállalkozási szerződés fennállása alatt köteles rendszeresen, de leg
 (8)[^37] A jogsértő módon keletkezett adatok alapján határozat nem hozható.
 
 [^25]: A 12. § (1) bekezdése a 348/2009. (XII. 30.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^26]: A 12. § (2) bekezdése a 163/2009. (VIII. 6.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^26]: A 12. § (2) bekezdése a 163/2009. (VIII. 6.) Korm. rendelet 6. §-ával megállapított, nyitó szövegrésze az 53/2014. (III. 3.) Korm. rendelet 18. § (2) bekezdése szerint módosított szöveg.
 [^27]: A 12. § (3) bekezdése a 69/2009. (IV. 2.) Korm. rendelet 6. §-ával megállapított szöveg. E módosító rendelet 9. § (5) bekezdése alapján a rendelkezést a 2009. május 2. napját követően indult eljárásokban kell alkalmazni.
 [^28]: A 12. § (3) bekezdésének a) pontja a 69/2009. (IV. 2.) Korm. rendelet 8. §-a szerint módosított szöveg.
 [^29]: A 348/2009. (XII. 30.) Korm. rendelet 2. §-ában foglalt módosítás folytán a hivatkozás helyesen a 9. § (2) bekezdés a) pontjára vonatkozik.
