@@ -6,6 +6,6 @@
 
 (2) A ranghely előzetes biztosításának, a ranghely fenntartásának ténye a jogosultak kérelme alapján az ingatlan-nyilvántartás tulajdoni lapján legfeljebb egyévi időtartamra, a törvényben meghatározott módon feljegyezhető.
 
-(3) A bejegyzések ranghelyével való rendelkezés, harmadik személyeknek a ranghely módosítása időpontjában bejegyzett jogai sérelmével nem járhat.
+(3)
 
 (4) A földmérési és térképészeti tevékenységről szóló törvény szerinti felmérési, térképezési és területszámítási hiba kijavítása tárgyában hozott határozatot a széljegyzett beadványok rangsorára való tekintet nélkül kell az ingatlan-nyilvántartásban átvezetni.

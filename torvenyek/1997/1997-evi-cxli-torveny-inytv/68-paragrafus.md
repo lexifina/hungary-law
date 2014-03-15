@@ -1,6 +1,6 @@
 ## Másolatok kiadásának módja
 
-68. § (1) A tulajdoni lapról kérelemre vagy megkeresésre, a 4. § (2a) bekezdése szerinti másolatot az ingatlanügyi hatóság szolgáltathat. A hiteles másolat kiállítása iránti kérelemben fel kell tüntetni a kérelmező természetes személyazonosító adatait, a jogi személy, illetve jogi személyiséggel nem rendelkező egyéb szervezet nevét és a képviseletében eljáró személy természetes személyazonosító adatait. A kérelemben szereplő adatokat az ingatlanügyi hatóság a személyazonosság, illetve a képviseleti jogosultság igazolására szolgáló okmányból ellenőrzi.
+68. § (1) A tulajdoni lapról kérelemre vagy megkeresésre, a 68/A. § szerinti másolatot az ingatlanügyi hatóság szolgáltathat. A hiteles másolat kiállítása iránti kérelemben fel kell tüntetni a kérelmező természetes személyazonosító adatait, a jogi személy, illetve jogi személyiséggel nem rendelkező egyéb szervezet nevét és a képviseletében eljáró személy természetes személyazonosító adatait. A kérelemben szereplő adatokat az ingatlanügyi hatóság a személyazonosság, illetve a képviseleti jogosultság igazolására szolgáló okmányból ellenőrzi.
 
 (2) A közjegyző a közjegyzőkről szóló 1991. évi XLI. törvény 136. §-a (1) bekezdésének i) pontjában meghatározott jogkörében eljárva a tulajdoni lap tartalmáról tanúsítványt állíthat ki, amely a hiteles tulajdonilap-másolattal azonos hatályú.
 

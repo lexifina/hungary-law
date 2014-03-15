@@ -10,7 +10,7 @@ c) az ingatlanon fennálló közös tulajdon megszüntetése iránti,
 
 d) az ingatlanra vonatkozó házassági vagyonjogi,
 
-e) a jelzáloggal biztosított, illetőleg önálló zálogjogba foglalt követelés érvényesítése iránti, valamint
+e) a jelzáloggal biztosított követelés érvényesítése iránti, valamint
 
 f) az ingatlan határvonalával és területével kapcsolatos kiigazítási
 

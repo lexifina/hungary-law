@@ -10,6 +10,6 @@ c) a nemzetbiztonsági szolgálatok, a rendőrség, a hivatásos katasztrófavé
 
 d) a Magyar Nemzeti Vagyonkezelő Zrt., valamint az állami vagyonnal gazdálkodó központi közigazgatási szervek az állami tulajdonba tartozó ingatlanokra vonatkozó, továbbá az állami tulajdonba tartozást bizonyító adatok megállapítása érdekében, saját számítástechnikai eszközeikkel az adatkezelést végzők megfelelő azonosítása mellett a számítógépes ingatlan-nyilvántartási rendszer szolgáltatásait igénybe vegyék,
 
-e) a kincstár a Magyar Állam javára fennálló jelzálogjog, valamint elidegenítési és terhelési tilalom érvényesítésével, törlésével, az azzal való rendelkezéssel kapcsolatos jognyilatkozat megtételéhez kapcsolódó feladatai ellátásához szükséges egyedi adatokat lekérdezze.
+e) a kincstár a Magyar Állam javára fennálló jelzálogjog, valamint elidegenítési és terhelési tilalom, vagy elidegenítési tilalom érvényesítésével, törlésével, az azzal való rendelkezéssel kapcsolatos jognyilatkozat megtételéhez kapcsolódó feladatai ellátásához szükséges egyedi adatokat lekérdezze.
 
 (2) Az ingatlan-nyilvántartási hatóság kérelemre, az (1) bekezdésben foglaltakon kívül más közigazgatási hatóságok részére a törvényben meghatározott adatátvételi joguk gyakorlása során a hatósági ügyek ellátásához szükséges egyedi adatok lekérdezése céljából lehetővé teszi, hogy saját számítástechnikai eszközeikkel, az adatkezelést végzők megfelelő azonosítása mellett a számítógépes ingatlan-nyilvántartási rendszer szolgáltatásait igénybe vegyék.

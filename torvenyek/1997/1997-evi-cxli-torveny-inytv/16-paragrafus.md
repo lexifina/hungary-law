@@ -14,10 +14,10 @@ e) telki szolgalmi jog,
 
 f) állandó jellegű földmérési jelek, földminősítési mintaterek, valamint villamosberendezések elhelyezését biztosító használati jog, továbbá vezetékjog, vízvezetési és bányaszolgalmi jog, valamint törvény rendelkezésén alapuló közérdekű szolgalmak és használati jogok,
 
-g) elő- és visszavásárlási, valamint vételi jog,
+g) elő- és visszavásárlási, vételi, valamint eladási jog,,
 
 h) tartási és életjáradéki jog,
 
-i) jelzálogjog (önálló zálogjog),
+i) jelzálogjog,
 
 j) végrehajtási jog.
