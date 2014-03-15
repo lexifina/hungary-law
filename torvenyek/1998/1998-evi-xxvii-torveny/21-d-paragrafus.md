@@ -6,6 +6,6 @@
 
 (4) Amennyiben az ellenőrzés során megállapítást nyer, hogy a pufferzónán belüli földtulajdonos, illetve földhasználó megszegi a 21/B. § (9) bekezdésében foglalt tilalmat, az egymás melletti termesztés ellenőrzésére jogosult hatóság értesítése alapján a termesztési hatóság kötelezi a jogsértőt a tilalom ellenére termesztett növények megsemmisítésére.
 
-(5) Az egymás melletti termesztés során okozott károkért való felelősségre – a (6) bekezdésben foglalt kivétellel – a Polgári Törvénykönyv 345. és 346. §-a az irányadó.
+(5) Az egymás melletti termesztés során okozott károkért való felelősségre – a (6) bekezdésben foglalt kivétellel – a Polgári Törvénykönyv fokozott veszéllyel járó tevékenységre vonatkozó szabályai irányadóak.
 
-(6) Ha a károsult a géntechnológiával módosított növények termesztéséhez a 21/C. § (1) és (2) bekezdése szerinti írásos hozzájárulását megadta, az egymás melletti termesztés során okozott károkért való felelősségre a Polgári Törvénykönyv 339–342. és 344. §-ait kell alkalmazni.
+(6) Ha a károsult a géntechnológiával módosított növények termesztéséhez a 21/C. § (1) és (2) bekezdése szerinti írásos hozzájárulását megadta, az egymás melletti termesztés során okozott károkért való felelősségre a Polgári Törvénykönyvnek a szerződésen kívül okozott károkért való felelősség általános szabályaira vonatkozó rendelkezéseit kell alkalmazni.

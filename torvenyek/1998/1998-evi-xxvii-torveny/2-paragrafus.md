@@ -26,7 +26,7 @@ k) forgalomba hozatal: olyan kibocsátás, amelynek során a géntechnológiáva
 
 l) ártalmatlanítás: a géntechnológiával módosított szervezet, illetve annak előállítása során keletkezett hulladék, valamint a géntechnológiával módosított szervezet összetevői környezetszennyező hatásának megszüntetése, környezetkárosító hatásuk kizárása vagy megszüntetése a környezet elemeitől történő elszigeteléssel vagy anyagi minőségük megváltoztatásával;
 
-m) hasznosító: géntechnológiai módosítást végző létesítményt létrehozó, természetes szervezeteket géntechnológiával módosító, illetve a géntechnológiával módosított szervezeteket és az azokból előállított termékeket zárt rendszerben felhasználó, a szabad környezetbe kibocsátó vagy forgalomba hozó természetes személy, jogi személy vagy jogi személyiség nélküli gazdasági társaság, aki a felsorolt tevékenységekért felelős;
+m) hasznosító: géntechnológiai módosítást végző létesítményt létrehozó, természetes szervezeteket géntechnológiával módosító, illetve a géntechnológiával módosított szervezeteket és az azokból előállított termékeket zárt rendszerben felhasználó, a szabad környezetbe kibocsátó vagy forgalomba hozó természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet, aki a felsorolt tevékenységekért felelős;
 
 n) géntechnológiával módosított termék: olyan géntechnológiával módosított szervezetet, vagy géntechnológiával módosított szervezetek kombinációját tartalmazó, illetve azokból álló készítmény, amelyet forgalomba hoznak;
 
