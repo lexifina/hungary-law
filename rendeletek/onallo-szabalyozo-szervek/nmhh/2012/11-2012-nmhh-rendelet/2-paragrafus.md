@@ -6,6 +6,8 @@
 
 2. Mozgóképszakmai hatóság: a Hivatal.
 
-3. Mozgóképszakmai szervezet: a mozgóképkultúra, illetve a mozgóképipar körébe tartozó tevékenységet ellátó jogi személy vagy jogi személyiséggel nem rendelkező gazdasági társaság.
+3.[^1] Mozgóképszakmai szervezet: a mozgóképkultúra, illetve a mozgóképipar körébe tartozó tevékenységet ellátó jogi személy.
 
 4. Moziterem: olyan, digitális vagy analóg vetítőgéppel és vetítővászonnal felszerelt helyiség, amely számozásában vagy elnevezésében elkülönül a moziban található más, képmegjelenítő eszközzel felszerelt helyiségtől, valamint a mozinak a nyilvánosság számára nyitva álló helyiségeitől.
+
+[^1]: A 2. § 3. pontja a 3/2014. (III. 13.) NMHH rendelet 5. §-a szerint módosított szöveg.
