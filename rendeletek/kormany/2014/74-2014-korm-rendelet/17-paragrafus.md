@@ -1,3 +1,0 @@
-## 16. § A Vhr. 2. § (7) bekezdése helyébe a következő rendelkezés lép:
-
-## „(7) A felsőoktatási intézmény gondoskodik a hallgatói jogviszony kezdete és a képzés kezdete időpontjának, a hallgatói jogviszony megszűnése vagy a képzés lezárása esetén a hallgatói jogviszony megszűnése vagy a képzés lezárása időpontjának, az Nftv. 48/B. § (8) bekezdése szerinti esetben a változtatás időpontjának, a hallgatói jogviszony szünetelése esetén a szünetelés tényének a tanulmányi adminisztrációs nyilvántartásban történő rögzítéséről, ezeknek a felsőoktatási információs rendszer által a Hivatalnak történő megküldéséről.”

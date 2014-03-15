@@ -1,1 +1,0 @@
-## „(4) Az Nftv. 48/B. § (8) bekezdése szerinti esetben a kötelezettségek teljesítése szempontjából figyelembe kell venni a szakváltást megelőző magyar állami (rész)ösztöndíjjal folytatott tanulmányokat. ”

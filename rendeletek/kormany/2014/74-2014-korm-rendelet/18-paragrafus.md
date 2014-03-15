@@ -1,7 +1,7 @@
-## 17. § A Vhr. a következő 39. §-sal egészül ki:
-
-## „39. § E rendeletnek – a 74/2014. (III. 13.) Korm. rendelet 15–16. §-ával megállapított – 1. § (1) bekezdés a) pontját, 1. § (4) bekezdését, továbbá a 2. § (7) bekezdését a folyamatban lévő eljárásokban is alkalmazni kell, azzal, hogy e rendelet 1. § (1) bekezdés a) pont aa) alpontjában előírt kötelezettséget a Hivatal legfeljebb 2015. január 31-ig teljesíti.”
+## 15–17. §[^2]
 
 ## 3. A Polgári Törvénykönyvről szóló 2013. évi V. törvény hatálybalépésével összefüggő
 
 ## hatályon kívül helyező rendelkezések
+
+[^2]: A 15–17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
