@@ -1,6 +1,6 @@
 ## A vagyonkezelési szerződés megszűnése
 
-12. §[^36] (1) A vagyonkezelési szerződés megszűnik:
+12. §[^58] (1) A vagyonkezelési szerződés megszűnik:
 
 a) a szerződésben megállapított idő elteltével,
 
@@ -8,7 +8,9 @@ b) a szerződésben meghatározott körülmény bekövetkeztével,
 
 c) a vagyonkezelésbe adott vagyontárgy megsemmisülésével vagy a Magyar Állam tulajdonából való kikerülésével az adott vagyontárgyra vonatkozóan, vagy
 
-d) a vagyonkezelő jogutód nélküli megszűnésével (természetes személy halálával).
+d) a vagyonkezelő jogutód nélküli megszűnésével (természetes személy halálával),
+
+e)[^59] ha a törvényi kijelölés útján létrejött vagyonkezelői jog a vonatkozó törvényi rendelkezés hatályon kívül helyezésével megszűnik.
 
 (2) A vagyonkezelési szerződés közös megegyezéssel, írásban, bármely esetben és időpontban megszüntethető.
 
@@ -26,10 +28,22 @@ d) a Vtv. 25. §-ának (2) bekezdése szerinti esetben.
 
 (5) A határozott időre kötött vagyonkezelési szerződés rendes felmondással a szerződésben meghatározott esetekben szüntethető meg. A (4) bekezdésben foglaltakat a határozott időre kötött vagyonkezelési szerződés esetén is alkalmazni kell.
 
-(6) A vagyonkezelési szerződés megszűnése az érintett vagyonra vonatkozó vagyonkezelői jogot megszünteti, amennyiben az érintett vagyon ingatlan, úgy a vagyonkezelői jog ingatlan-nyilvántartásból való törlését az MNV Zrt. köteles nyolc napon belül kezdeményezni az érintett hatóságnál. A vagyonkezelő által a vagyon használatára, valamint hasznosítására harmadik személlyel kötött szerződésben a vagyonkezelő helyébe ilyen esetben az MNV Zrt. lép.
+(6)[^60] A vagyonkezelési szerződés megszűnése az érintett vagyonra vonatkozó vagyonkezelői jogot megszünteti.
 
-(7) Állami feladat ellátását szolgáló vagyon esetében az MNV Zrt. a (3)–(4) bekezdésben meghatározott felmondási jogát oly módon gyakorolhatja, hogy az adott állami feladat folyamatos ellátása biztosított legyen. A központi költségvetési szerv vagyonkezelői szerződésének rendes felmondással történő megszüntetéséhez az MNV Zrt. köteles az adott szerv irányítását vagy felügyeletét ellátó szerv vezetőjének egyetértését kérni. Az MNV Zrt. a rendes felmondás jogát az értesítés megküldését követő harminc napon belül nem gyakorolhatja.
+(6a)[^61] A tulajdonosi joggyakorló köteles a vagyonkezelési szerződés megszűnésétől számított nyolc napon belül kezdeményezni a hatáskörrel és illetékességgel rendelkező hatóságnál az érintett ingatlanra vonatkozóan a vagyonkezelői jog ingatlan-nyilvántartásból való törlését és a művelési ág szükség szerinti megállapítását.
+
+(6b)[^62] A vagyonkezelési szerződés megszűnésével a vagyonkezelő által a vagyon használatára, valamint hasznosítására harmadik személlyel kötött szerződésben a vagyonkezelő helyébe a tulajdonosi joggyakorló lép.
+
+(7)[^63] Állami feladat ellátását szolgáló vagyon esetében a tulajdonosi joggyakorló a (3)–(4) bekezdésben meghatározott felmondási jogát oly módon gyakorolhatja, hogy az adott állami feladat folyamatos ellátása biztosított legyen. A központi költségvetési szerv vagyonkezelői szerződésének rendes felmondással történő megszüntetéséhez a tulajdonosi joggyakorló köteles az adott szerv irányítását vagy felügyeletét ellátó szerv vezetőjének egyetértését kérni. A tulajdonosi joggyakorló a rendes felmondás jogát az értesítés megküldését követő harminc napon belül nem gyakorolhatja.
 
 (8) Amennyiben a felek ugyanabban a szerződésben több állami tulajdonba tartozó vagyonelem vagyonkezeléséről rendelkeztek, a vagyonkezelési szerződés felmondása, vagy más okból történő megszűnése csak egyes vagyontárgyakra nézve, részlegesen is történhet. Ilyen esetben a szerződés a megszűnéssel (felmondással) nem érintett vagyontárgyakra nézve változatlan tartalommal hatályban marad, a 8. § (2) bekezdésének rendelkezéseit azonban ilyen esetben is alkalmazni kell.
 
-[^36]: A 12. § a 348/2010. (XII. 28.) Korm. rendelet 9. §-ával megállapított szöveg.
+(9)[^64] Amennyiben a tulajdonosi joggyakorló törvényben kijelölt vagyonkezelő vonatkozásában állapítja meg a (4) bekezdés a)–d) pontjában meghatározott körülmények fennállását, megállapításairól haladéktalanul tájékoztatja az állami vagyon felügyeletéért felelős minisztert (a továbbiakban: miniszter).
+
+[^58]: A 12. § a 348/2010. (XII. 28.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^59]: A 12. § (1) bekezdés e) pontját a 77/2014. (III. 14.) Korm. rendelet 6. § (1) bekezdése iktatta be.
+[^60]: A 12. § (6) bekezdése a 77/2014. (III. 14.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^61]: A 12. § (6a) bekezdését a 77/2014. (III. 14.) Korm. rendelet 6. § (3) bekezdése iktatta be.
+[^62]: A 12. § (6b) bekezdését a 77/2014. (III. 14.) Korm. rendelet 6. § (3) bekezdése iktatta be.
+[^63]: A 12. § (7) bekezdése a 77/2014. (III. 14.) Korm. rendelet 26. § c) és h) pontja szerint módosított szöveg.
+[^64]: A 12. § (9) bekezdését a 77/2014. (III. 14.) Korm. rendelet 6. § (4) bekezdése iktatta be.

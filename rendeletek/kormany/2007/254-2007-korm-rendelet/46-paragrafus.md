@@ -1,6 +1,6 @@
 ## jogosultjait.
 
-46. § (1)[^86] Az árverés nyilvános és azt közjegyző jelenlétében kell megtartani. Az árverést a kiíró alkalmazottja vagy megbízottja folytatja le. Az árverésről a közjegyző – a licitálásban kialakult végső sorrendet is tartalmazó – jegyzőkönyvet készít.
+46. § (1)[^145] Az árverés nyilvános és azt közjegyző jelenlétében kell megtartani. Az árverést a kiíró alkalmazottja vagy megbízottja folytatja le. Az árverésről a közjegyző – a licitálásban kialakult végső sorrendet is tartalmazó – jegyzőkönyvet készít.
 
 (2) Árverésen részt venni és vételi ajánlatot tenni személyesen vagy meghatalmazott útján lehet. A meghatalmazást közokiratba vagy teljes bizonyító erejű magánokiratba – ingatlan adásvételére vonatkozó meghatalmazást közokiratba vagy ügyvéd által ellenjegyzett magánokiratba – kell foglalni.
 
@@ -10,9 +10,9 @@
 
 (5) Az árverést addig kell folytatni, amíg az ajánlattevők ajánlatot tesznek. Ha nincs további ajánlat, a felajánlott legmagasabb vételár háromszori kikiáltását követően ki kell jelenteni, hogy a vagyontárgyat a legmagasabb vételárat ajánló veheti meg.
 
-(6)[^87]
+(6)[^146] Amennyiben a 44. § (3) bekezdés szerinti, eredménytelennek nyilvánított árverésen legalább három vételi ajánlatot tettek, úgy az árverés ugyanazon a napon és helyszínen megismételhető (megismételt árverés), ha e tényről – és a megismételt árverés pontos időpontjáról – az árverés eredménytelenné nyilvánításával egy időben az árverés lefolytatója tájékoztatja az ajánlattevőket. A (4) bekezdés szerinti kikiáltási árnál alacsonyabb, de az eredménytelennek nyilvánított árverésen felajánlott legmagasabb vételárat elérő vételi ajánlat esetén is eredményessé nyilvánítható a megismételt árverés, amennyiben a 41. § (6a) bekezdésében foglalt szempontok vizsgálatát követően megállapítható, hogy annak elfogadása nem járna jelentős vagyonvesztéssel. A megismételt árverés során egyebekben az árverés lefolytatására vonatkozó szabályok megfelelően irányadóak.
 
 (7) Az árverési vevő az árverésre bocsátott vagyontárgyon – az egyéb jogszabályi feltételek fennállása esetén – a vételár megfizetésével szerezhet tulajdonjogot.
 
-[^86]: A 46. § (1) bekezdése a 48/2008. (III. 11.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^87]: A 46. § (6) bekezdését a 262/2010. (XI. 17.) Korm. rendelet 54. § f) pontja hatályon kívül helyezte. E módosító rendelet 52. § (1) bekezdése alapján a 2010. december 2-a után közzétett pályázati felhívások és árverési hirdetmények alapján indult eljárásokra és az azok alapján kötött szerződésekre kell alkalmazni, az 52. § (2) bekezdése alapján a 2010. december 2-át megelőzően közzétett pályázati felhívások és árverési hirdetmények alapján indult eljárásokra és az azok alapján kötött szerződésekre, valamint a 2010. december 2-át megelőzően kötött szerződésekre a 2010. december 1-jén alkalmazandó rendelkezéseket kell alkalmazni.
+[^145]: A 46. § (1) bekezdése a 48/2008. (III. 11.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^146]: A 46. § (6) bekezdését a 262/2010. (XI. 17.) Korm. rendelet 54. § f) pontja hatályon kívül helyezte, újonnan a 77/2014. (III. 14.) Korm. rendelet 20. §-a iktatta be.

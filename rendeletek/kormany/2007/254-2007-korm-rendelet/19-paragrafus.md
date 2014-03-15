@@ -1,3 +1,6 @@
-19. § (1) A vagyonkezelési szerződés lejárat előtti megszűnésekor az MNV Zrt. a vagyonkezelési szerződésben rögzített módon megtéríti az egyéb vagyonkezelőnek a 17. § (3) bekezdése alapján kimutatott vagyonkezelői jog és – szükség esetén – a 18. § (3) bekezdésének b) pontja szerinti vagyonkezelői jog még le nem írt összegét.
+19. § (1)[^91] A vagyonkezelési szerződés lejárat előtti megszűnésekor a tulajdonosi joggyakorló a vagyonkezelési szerződésben rögzített módon megtéríti az egyéb vagyonkezelőnek a 17. § (3) bekezdése alapján kimutatott vagyonkezelői jog még le nem írt összegét és – szükség esetén – a 18. § (3b) bekezdése szerinti követelések összegét.
 
-(2) Amennyiben az egyéb vagyonkezelő a 17. § (4) bekezdése alapján vállalt kötelezettségének nem vagy csak részben tett eleget, a vagyonkezelési szerződés megszűnésekor a szerződésben rögzített ellenérték, illetve a ténylegesen elvégzett tevékenység értékének különbözetét az MNV Zrt.-nek – a vagyonkezelési szerződésben meghatározott módon – megtéríti.
+(2)[^92]
+
+[^91]: A 19. § (1) bekezdése a 77/2014. (III. 14.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^92]: A 19. § (2) bekezdését a 77/2014. (III. 14.) Korm. rendelet 27. §-a hatályon kívül helyezte.

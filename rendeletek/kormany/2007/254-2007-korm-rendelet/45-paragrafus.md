@@ -1,4 +1,4 @@
-45. § (1)[^85] Az árverési hirdetmény közzétételének legalább tizenöt nappal meg kell előznie a hirdetményben megjelölt árverési időpontot. A hirdetményt a 32. § (2)–(4) bekezdésében megjelölt módon kell közzétenni, továbbá az árverés helyszínén, ingatlan esetében – a felépítmény nélküli ingatlan kivételével – az ingatlanon is ki kell függeszteni.
+45. § (1)[^143] Az árverési hirdetmény közzétételének legalább tizenöt nappal meg kell előznie a hirdetményben megjelölt árverési időpontot. A hirdetményt a 32. § (2)–(4) bekezdésében megjelölt módon kell közzétenni, továbbá az árverés helyszínén, ingatlan esetében – a felépítmény nélküli ingatlan kivételével – az ingatlanon is ki kell függeszteni.
 
 (2) A hirdetményben fel kell tüntetni
 
@@ -20,9 +20,9 @@ h) szükséges esetén az arra vonatkozó információt, hogy az árverésre ker
 
 i) mindazon további információt, amit az árverés kiírója szükségesnek tart.
 
-(3) Az MNV Zrt. (megbízott árvereztető) az árverés időpontjáról és a kikiáltási árról az árverési hirdetmény megjelenésével egyidejűleg köteles értesíteni az ingatlan-nyilvántartásba bejegyzett
+(3)[^144] A tulajdonosi joggyakorló vagy az általa az értékesítéssel megbízott személy az árverés időpontjáról és a kikiáltási árról az árverési hirdetmény megjelenésével egyidejűleg köteles értesíteni az ingatlan-nyilvántartásba bejegyzett
 
-a) haszonélvezeti, használói, földhasználati, telki szolgalmi jog,
+a) haszonélvezeti, használati, földhasználati, telki szolgalmi jog,
 
 b) tartási és életjáradéki jog,
 
@@ -32,4 +32,5 @@ d) vagyonkezelői jog,
 
 e) jelzálogjog
 
-[^85]: A 45. § (1) bekezdése a 348/2010. (XII. 28.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^143]: A 45. § (1) bekezdése a 348/2010. (XII. 28.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^144]: A 45. § (3) bekezdése a 77/2014. (III. 14.) Korm. rendelet 19. §-ával megállapított szöveg.

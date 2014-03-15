@@ -1,12 +1,12 @@
-53. § (1) Központi költségvetési szerv az 52. § (1) bekezdésében meghatározott körben (elhelyezési céllal) kizárólag az MNV Zrt. előzetes jóváhagyásával
+53. § (1)[^163] Központi költségvetési szerv az 52. § (1) bekezdésében meghatározott körben – elhelyezési céllal – kizárólag az MNV Zrt. előzetes egyetértése alapján
 
-a) indíthat ingatlan tulajdonjogának a Magyar Állam javára történő megszerzésére irányuló közbeszerzési vagy más (pl. kisajátítási) eljárást,
+a) indíthat ingatlan tulajdonjogának az állam javára történő megszerzésére irányuló közbeszerzési vagy más eljárást,
 
-b) köthet ingatlanra vonatkozó olyan jogügyletet, amely a Magyar Állam tulajdonszerzését eredményezi (pl. adásvétel, csere, ajándékozás stb.),
+b) köthet ingatlanra vonatkozó olyan jogügyletet, amely az állam tulajdonszerzését eredményezi,
 
-c) indíthat ingatlanra vonatkozó használati jogosultság bármely jogcímen történő megszerzésére irányuló eljárást (pl. bérleti, használati, haszonélvezeti, haszonbérleti, haszonkölcsön stb.),
+c) indíthat ingatlanra vonatkozó használati jogosultság bármely jogcímen történő megszerzésére irányuló eljárást,
 
-d) köthet saját maga vagy más központi költségvetési szerv javára ingatlanra vonatkozó használati jogosultságot eredményező (pl. bérleti, használati, haszonélvezeti, haszonbérleti, haszonkölcsön stb.) megállapodást.
+d) köthet saját maga vagy más központi költségvetési szerv javára ingatlanra vonatkozó használati jogosultságot eredményező megállapodást.
 
 (2) Az (1) bekezdés c)–d) pontjaiban foglaltakat nem kell alkalmazni, amennyiben
 
@@ -20,6 +20,10 @@ d) a jogügyletben várható, illetve meghatározott – egyszeri vagy időszako
 
 e) a jogügylet külföldön lévő ingatlanra vonatkozik.
 
-(3) A (2) bekezdés a) pontjának alkalmazása esetén a megkötött szerződést meghosszabbítani, vagy ugyanazon szerződő féllel újabb használati jogosultságra vonatkozó szerződést kötni kizárólag az MNV Zrt. előzetes jóváhagyásával lehet.
+(3)[^164] A (2) bekezdés a) pontjának alkalmazása esetén a megkötött szerződést meghosszabbítani, vagy ugyanazon szerződő féllel újabb használati jogosultságra vonatkozó szerződést kötni kizárólag az MNV Zrt. előzetes egyetértésével lehet.
 
-(4) A központi költségvetési szerv az MNV Zrt. (1) és (3) bekezdés szerinti előzetes jóváhagyása iránti kérelmét – amennyiben az előzetesen ismert – az ingatlan(rész) és a jogcím pontos megjelölésével, részletes indokolással az irányítást vagy felügyeletet gyakorló szerv vezetőjének útján, annak egyetértésével terjesztheti elő. Az MNV Zrt. harminc napon belül dönt a kérelemről, amely határidőbe az esetleges hiánypótlás időtartama nem számít bele.
+(4)[^165] A központi költségvetési szerv az MNV Zrt. (1) és (3) bekezdés szerinti előzetes egyetértése iránti kérelmét – amennyiben az előzetesen ismert – az ingatlan vagy ingatlanrész és a jogcím pontos megjelölésével, részletes indokolással az irányítást vagy felügyeletet gyakorló szerv vezetője útján, annak egyetértésével terjesztheti elő. Az MNV Zrt. harminc napon belül dönt a kérelemről, amely határidőbe az esetleges hiánypótlás időtartama nem számít bele.
+
+[^163]: Az 53. § (1) bekezdése a 77/2014. (III. 14.) Korm. rendelet 23. § (1) bekezdésével megállapított szöveg.
+[^164]: Az 53. § (3) bekezdése a 77/2014. (III. 14.) Korm. rendelet 23. § (2) bekezdésével megállapított szöveg.
+[^165]: Az 53. § (4) bekezdése a 77/2014. (III. 14.) Korm. rendelet 23. § (2) bekezdésével megállapított szöveg.

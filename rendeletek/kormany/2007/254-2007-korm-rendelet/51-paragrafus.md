@@ -1,4 +1,4 @@
-51. § (1)[^92] Az 50. § (1) bekezdés szerinti kezdeményezés beérkezését követően az MNV Zrt. megvizsgálja, hogy az igénylés megfelel-e a törvényi feltételeknek. Ennek keretében
+51. § (1)[^155] Az 50. § (1) bekezdés szerinti kezdeményezés beérkezését követően az MNV Zrt. megvizsgálja, hogy az igénylés megfelel-e a törvényi feltételeknek. Ennek keretében
 
 a) ellenőrzi annak alaki megfelelőségét, az előírt mellékletek meglétét,
 
@@ -14,24 +14,24 @@ f) megvizsgálja, hogy nem áll-e fenn valamely a tulajdonjog átruházását, v
 
 (2) Nem adható ingyenesen tulajdonba az olyan vagyonelem, amely valamely állami feladat ellátásához vagy – értékesítése esetén – a feladat finanszírozási forrásának biztosításához, illetve a költségvetési bevételi előirányzatok teljesítéséhez szükséges.
 
-(3)[^93]
+(3)[^156]
 
-(4)[^94] Jogszabállyal, vagy hatósági eljárás során védetté nyilvánított kulturális örökségi elem ingyenes átruházásához a kultúráért felelős miniszter védett természeti területként, illetve Natura 2000 területként nyilvántartott ingatlan ingyenes átruházásához a védettség jellege szerint felelős miniszter előzetes egyetértése szükséges.
+(4)[^157]
 
-(5)[^95] Amennyiben a kért ingatlan tulajdonjoga valamely jogszabályi feltétel hiánya miatt – ideértve a (2)–(3) bekezdésben foglaltakat is – nem ruházható át, az MNV Zrt. erről az igénylőt legkésőbb a kezdeményezés megérkezését követő hatvan napon belül értesíti.
+(5)[^158] Amennyiben a kért ingatlan tulajdonjoga valamely jogszabályi feltétel hiánya miatt – ideértve a (2)–(3) bekezdésben foglaltakat is – nem ruházható át, az MNV Zrt. erről az igénylőt legkésőbb a kezdeményezés megérkezését követő hatvan napon belül értesíti.
 
 (6) Amennyiben a kezdeményezés hiányossága orvosolható, az MNV Zrt. annak kiegészítésére hívja fel az igénylőt.
 
-(7)[^96] Az MNV Zrt. az igényelt „tulajdonba adni javasolt”, illetve „a tulajdonba adás valamely okból nem teljesíthető” minősítéssel ellátott vagyonelemeket tartalmazó előterjesztését negyedévente összesítve, az adott negyedév utolsó napjáig küldi meg a miniszternek. Az aktuális előterjesztésben azon vagyonelemek szerepeltethetők, amelyekre vonatkozóan a kérelem – a (6) bekezdésben foglaltakat is figyelembe véve – a negyedév utolsó napját legalább hatvan nappal megelőzően az MNV Zrt.-hez megérkezett. Ezen eljárás alól kivételt képez, ha az ingyenes vagyonátruházásra a Vtv. 36. § (2) bekezdés b) pontja alapján kerül sor. Ebben az esetben az MNV Zrt. az ingyenes vagyonátruházásról szóló előterjesztését soron kívül küldi meg a miniszternek.
+(7)[^159] Az MNV Zrt. az igényelt „tulajdonba adni javasolt”, illetve „a tulajdonba adás valamely okból nem teljesíthető” minősítéssel ellátott vagyonelemeket tartalmazó – a Vtv. 3. § (1) bekezdés b) pontja szerinti tulajdonosi joggyakorló kezdeményezése esetén a tulajdonosi joggyakorló javaslatát, a felhasználási célra vonatkozó véleményét is tartalmazó – előterjesztését negyedévente összesítve, az adott negyedév utolsó napjáig küldi meg a miniszternek. Az aktuális előterjesztésben azon vagyonelemek szerepeltethetők, amelyekre vonatkozóan a kérelem – a (6) bekezdésben foglaltakat is figyelembe véve – a negyedév utolsó napját legalább hatvan nappal megelőzően az MNV Zrt.-hez megérkezett. Ezen eljárás alól kivételt képez, ha az ingyenes vagyonátruházásra a Vtv. 36. § (2) bekezdés b) pontja alapján kerül sor. Ebben az esetben az MNV Zrt. az ingyenes vagyonátruházásról szóló előterjesztését soron kívül küldi meg a miniszternek.
 
-(8)[^97] Az állami vagyonba tartozó régészeti leletek ingyenes átruházásának jogát – külön jogszabályban meghatározott módon – a kultúráért felelős miniszter gyakorolja.
+(8)[^160] Az állami vagyonba tartozó régészeti leletek ingyenes átruházásának jogát – külön jogszabályban meghatározott módon – a kultúráért felelős miniszter gyakorolja.
 
-(9)[^98] A Vtv. 36. § (6) bekezdése szerinti esetben az MNV Zrt. Igazgatósága a kezdeményezés beérkezését követő hatvan napon belül – a Vtv. 36. § (2) bekezdésének c) pontjában foglalt esetben haladéktalanul – döntést hoz. Az MNV Zrt. a döntésről az igénylőt értesíti.
+(9)[^161] A Vtv. 36. § (6) bekezdése szerinti esetben az MNV Zrt. Igazgatósága a kezdeményezés beérkezését követő hatvan napon belül – a Vtv. 36. § (2) bekezdésének c) pontjában foglalt esetben haladéktalanul – döntést hoz. Az MNV Zrt. a döntésről az igénylőt értesíti.
 
-[^92]: Az 51. § (1) bekezdése a 348/2010. (XII. 28.) Korm. rendelet 23. § (1) bekezdésével megállapított, nyitó szövegrésze a 79/2013. (III. 13.) Korm. rendelet 2. §-a szerint módosított szöveg.
-[^93]: Az 51. § (3) bekezdését a 385/2012. (XII. 19.) Korm. rendelet 3. §-a hatályon kívül helyezte.
-[^94]: Az 51. § (4) bekezdése a 348/2010. (XII. 28.) Korm. rendelet 23. § (2) bekezdésével megállapított, a 394/2012. (XII. 20.) Korm. rendelet 21. § (2) bekezdése szerint módosított szöveg.
-[^95]: Az 51. § (5) bekezdése a 348/2010. (XII. 28.) Korm. rendelet 23. § (3) bekezdésével megállapított szöveg.
-[^96]: Az 51. § (7) bekezdése a 348/2010. (XII. 28.) Korm. rendelet 23. § (4) bekezdésével megállapított szöveg.
-[^97]: Az 51. § (8) bekezdése a 348/2010. (XII. 28.) Korm. rendelet 23. § (5) bekezdésével megállapított szöveg.
-[^98]: Az 51. § (9) bekezdését a 348/2010. (XII. 28.) Korm. rendelet 23. § (6) bekezdése iktatta be.
+[^155]: Az 51. § (1) bekezdése a 348/2010. (XII. 28.) Korm. rendelet 23. § (1) bekezdésével megállapított, nyitó szövegrésze a 79/2013. (III. 13.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^156]: Az 51. § (3) bekezdését a 385/2012. (XII. 19.) Korm. rendelet 3. §-a hatályon kívül helyezte.
+[^157]: Az 51. § (4) bekezdését a 77/2014. (III. 14.) Korm. rendelet 27. §-a hatályon kívül helyezte.
+[^158]: Az 51. § (5) bekezdése a 348/2010. (XII. 28.) Korm. rendelet 23. § (3) bekezdésével megállapított szöveg.
+[^159]: Az 51. § (7) bekezdése a 77/2014. (III. 14.) Korm. rendelet 24. §-ával megállapított szöveg.
+[^160]: Az 51. § (8) bekezdése a 348/2010. (XII. 28.) Korm. rendelet 23. § (5) bekezdésével megállapított szöveg.
+[^161]: Az 51. § (9) bekezdését a 348/2010. (XII. 28.) Korm. rendelet 23. § (6) bekezdése iktatta be.
