@@ -8,4 +8,8 @@ b) Öko rendelkezések: e rendelet, a 834/2007/EK tanácsi rendelet, illetve ann
 
 c) tanúsító szervezet: a 834/2007/EK tanácsi rendelet 2. cikk p) pontja szerinti ellenőrző szerv,
 
-d) tanúsítvány: a 834/2007/EK tanácsi rendelet 29. cikk (1) bekezdése szerinti igazolás.
+d) tanúsítvány: a 834/2007/EK tanácsi rendelet 29. cikk (1) bekezdése szerinti igazolás,
+
+e)[^1] gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet.
+
+[^1]: A 2. § e) pontját a 22/2014. (III. 14.) VM rendelet 91. §-a iktatta be.
