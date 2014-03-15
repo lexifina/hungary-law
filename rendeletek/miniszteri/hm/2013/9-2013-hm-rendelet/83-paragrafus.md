@@ -1,4 +1,4 @@
-83. § (1)[^7] A teljesítményértékelés tartalmi elemeit a tiszti és az altiszti állomány tagja esetén a 7. melléklet, a tisztesi állomány tagja esetén a 8. melléklet határozza meg.
+83. § (1)[^8] A teljesítményértékelés tartalmi elemeit a tiszti és az altiszti állomány tagja esetén a 7. melléklet, a tisztesi állomány tagja esetén a 8. melléklet határozza meg.
 
 (2) A teljesítményértékelés során értékelni kell a tiszti és az altiszti állomány tagjának munkaköri egyéni teljesítménykövetelményeit, a kompetencia alapú munkamagatartását, valamint egyéb kompetenciáit, a fizikai állapotfelmérés eredményét és az éves kiképzési feladatok eredményét.
 
@@ -16,4 +16,4 @@ kell megállapítani, és a tiszti vagy az altiszti állomány tagjával közöl
 
 (4) Az állományilletékes parancsnok biztosítja, hogy az állomány tagja az értékelés részeként meghatározott fizikai állapotfelmérésen és az éves kiképzési feladatokon részt vegyen.
 
-[^7]: A 83. § (1) bekezdése a 24/2013. (XII. 20.) HM rendelet 18. § b) pontja szerint módosított szöveg.
+[^8]: A 83. § (1) bekezdése a 24/2013. (XII. 20.) HM rendelet 18. § b) pontja szerint módosított szöveg.

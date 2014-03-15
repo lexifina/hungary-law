@@ -1,3 +1,3 @@
-## 50.[^13]
+## 50.[^14]
 
-[^13]: Az 50. alcímet (178–180. §) a 24/2013. (XII. 20.) HM rendelet 18. § c) pontja hatályon kívül helyezte.
+[^14]: Az 50. alcímet (178–180. §) a 24/2013. (XII. 20.) HM rendelet 18. § c) pontja hatályon kívül helyezte.
