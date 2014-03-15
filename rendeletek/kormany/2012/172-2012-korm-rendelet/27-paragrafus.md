@@ -36,7 +36,7 @@ c) ha a kihelyezett házastársa uniós intézménynél vagy nemzetközi szervez
 
 (6) A kihelyezett a külképviseleten írásban köteles bejelenteni – a fogadó államból történő el-, illetve visszautazást követő 3 napon belül – a képviselet vezetőjének és a számfejtést végző kiküldöttnek az ellátmánypótlékra jogosító személyek fogadó államból való távollétének kezdő és befejező időpontját.
 
-(7) A kihelyezett a jogosulatlanul felvett ellátmánypótlékot a Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) 232. § (3) bekezdése szerinti kamattal növelt összegével köteles visszafizetni.
+(7)[^7] A kihelyezett a jogosulatlanul felvett ellátmánypótlékot a Kttv. szerinti késedelmi kamattal növelt összegével köteles visszafizetni.
 
 (8) Az ellátmánypótlékra jogosító házastárs szülés miatti távolléte esetén a kihelyező közigazgatási szerv e § rendelkezéseitől eltérhet.
 
@@ -47,3 +47,5 @@ c) ha a kihelyezett házastársa uniós intézménynél vagy nemzetközi szervez
 (11) A külpolitikáért felelős miniszter a fogadó országban kialakult válsághelyzet esetén a külképviseleten maradó kihelyezettek részére meghatározott időtartamra, egyszeri utasításban külön pótlékot állapíthat meg.
 
 (12) Az iskolarendszerszerű oktatás keretében végzett középfokú szakképzés befejezésének időpontja alatt az első érettségi, illetve szakmunkás bizonyítvány megszerzési hónapjának végét kell érteni.
+
+[^7]: A 27. § (7) bekezdése a 43/2014. (II. 25.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
