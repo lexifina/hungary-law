@@ -21,3 +21,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2008-46-00-00
 | 2013-12-31 | 2013. évi CCL. törvény | 2008-46-00-00.21 |
 | 2014-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2008-46-00-00.22 |
 | 2014-02-15 | 2013. évi CCL. törvény | 2008-46-00-00.23 |
+| 2014-03-15 | 2013. évi CCLII. törvény | 2008-46-00-00.24 |

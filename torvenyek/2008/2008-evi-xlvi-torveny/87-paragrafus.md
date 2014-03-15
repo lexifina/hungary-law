@@ -20,7 +20,7 @@ E törvény alkalmazásában:
 
 7. állatorvos: külön jogszabály szerinti állatorvosi oklevéllel rendelkező személy;
 
-8. állattartó: az a természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező gazdálkodó szervezet, aki (amely) az állat ellátásáért és felügyeletéért felelős állandó vagy ideiglenes jelleggel, beleértve a szállítás, forgalomba hozatal alatti időszakot is;
+8. állattartó: az a természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet, aki (amely) az állat ellátásáért és felügyeletéért felelős állandó vagy ideiglenes jelleggel, beleértve a szállítás, forgalomba hozatal alatti időszakot is;
 
 9. behozatal: áru harmadik országból Magyarország területére történő behozatala, beleértve az importot is;
 

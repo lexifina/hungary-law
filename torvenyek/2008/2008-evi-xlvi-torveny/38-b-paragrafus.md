@@ -1,6 +1,6 @@
 38/B. § (1) Az a
 
-a) természetes személy vagy gazdálkodó szervezet,
+a) természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet,
 
 b) mezőgazdasági őstermelő és a családi gazdálkodó,
 
@@ -20,7 +20,7 @@ a) igazolást állít ki, melyen szerepel a FELIR azonosító, az ügyfélnyilv�
 
 aa) természetes személy esetében az ügyfél neve és születési dátuma,
 
-ab) jogi személy, valamint jogi személyiséggel nem rendelkező gazdálkodó szervezet esetén a cégnév és az adószám;
+ab) jogi személy, valamint jogi személyiséggel nem rendelkező szervezet esetén a cégnév és az adószám;
 
 b) honlapján elektronikusan hitelesített módon közzéteszi az a) pontban szereplő adatok mellett az ügyfél által bejelentett tevékenységek és tevékenységi helyek listáját;
 

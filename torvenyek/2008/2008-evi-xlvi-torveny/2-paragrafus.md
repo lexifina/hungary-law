@@ -1,6 +1,6 @@
 ## A törvény hatálya és alkalmazási köre
 
-2. § (1) E törvény hatálya kiterjed mindazon természetes személyre, jogi személyre és jogi személyiséggel nem rendelkező gazdálkodó szervezetre, aki (amely) az élelmiszerlánc szereplője.
+2. § (1) E törvény hatálya kiterjed mindazon természetes személyre, jogi személyre és jogi személyiséggel nem rendelkező szervezetre, aki (amely) az élelmiszerlánc szereplője.
 
 (2) A törvény alkalmazási köre kiterjed
 

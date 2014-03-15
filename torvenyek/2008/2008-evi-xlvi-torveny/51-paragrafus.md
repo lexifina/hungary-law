@@ -38,7 +38,7 @@ o) fertőtlenítés;
 
 p) földterület, jármű, épület, berendezés, eszköz és anyag igénybevétele, használata;
 
-q) a járványügyi intézkedés eredményes végrehajtása érdekében gazdálkodó szervezet – így különösen vágóhíd, állati eredetű melléktermék kezelését végző üzem – aktív közreműködésre kötelezése;
+q) a járványügyi intézkedés eredményes végrehajtása érdekében természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet – így különösen vágóhíd, állati eredetű melléktermék kezelését végző üzem – aktív közreműködésre kötelezése;
 
 r) az állattartó, az élelmiszer- vagy takarmányvállalkozó tevékenységének korlátozása, feltételhez kötése, felfüggesztése;
 

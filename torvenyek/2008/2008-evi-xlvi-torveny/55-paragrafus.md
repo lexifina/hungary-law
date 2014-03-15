@@ -4,7 +4,7 @@ a) az e törvény végrehajtására kiadott jogszabályban meghatározott állat
 
 b) a 51. § (3) bekezdésének p) pontjában meghatározott földterület, jármű, épület, berendezés, eszköz és anyag tulajdonosa, használója, amennyiben az igénybevételre, illetve használatra kifejezetten az erre irányuló határozat alapján került sor;
 
-c) a 51. § (3) bekezdésének q) pontjában meghatározott gazdálkodó szervezet, amennyiben a kötelezésre kifejezetten az erre irányuló határozat alapján került sor.
+c) az 51. § (3) bekezdés q) pontjában meghatározott természetes személy, jogi személy, vagy jogi személyiséggel nem rendelkező szervezet, amennyiben a kötelezésre kifejezetten az erre irányuló határozat alapján került sor.
 
 (2) Nem jár kártalanítás
 

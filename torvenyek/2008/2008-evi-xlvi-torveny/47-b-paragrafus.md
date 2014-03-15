@@ -2,7 +2,7 @@
 
 47/B. § (1) Az élelmiszerlánc-felügyeleti szerv részére, az élelmiszerlánc hatósági felügyeleti tevékenységével összefüggő feladatai ellátásának fedezése érdekében az élelmiszerlánc (2) bekezdésben meghatározott szereplői évente felügyeleti díjat kötelesek fizetni. A felügyeleti díj az élelmiszerlánc-felügyeleti szerv bevétele.
 
-(2) Felügyeleti díjat köteles fizetni az a természetes személy vagy gazdálkodó szervezet, aki:
+(2) Felügyeleti díjat köteles fizetni az a természetes személy, jogi személy, vagy jogi személyiséggel nem rendelkező szervezet, aki (amely):
 
 a) az élelmiszer-termelési, tenyésztési, kísérleti célból tartott állatokat forgalomba hozza,
 

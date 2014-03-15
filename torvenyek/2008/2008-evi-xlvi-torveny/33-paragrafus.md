@@ -18,6 +18,6 @@ be) ellenőrzi a vizsgálatköteles áruk növény-egészségügyi előírásokn
 
 c) az élelmiszerláncban az élelmiszerek vonatkozásában kivizsgálja és felderíti az élelmiszer-mérgezéseket és -fertőzéseket, feltárja azok okait, nyilvántartja, összegzi és elemzi az eseményeket, és megteszi a szükséges intézkedéseket azok megelőzése érdekében, továbbá adatot szolgáltat az egészségügyi államigazgatási szerv részére;
 
-d) működteti az – e törvény hatálya alá tartozó engedélyköteles vagy nyilvántartásba vételi kötelezettség alá vont növények, növényi termékek, állatok, egyéb termékek, létesítmények, eszközök, természetes személyek, jogi személyek, jogi személyiséggel nem rendelkező gazdasági társaságok, illetve tevékenységek e törvényben, valamint a végrehajtására kiadott jogszabályban meghatározott adatait tartalmazó – élelmiszerlánc-felügyeleti adatbázist;
+d) működteti az – e törvény hatálya alá tartozó engedélyköteles vagy nyilvántartásba vételi kötelezettség alá vont növények, növényi termékek, állatok, egyéb termékek, létesítmények, eszközök, természetes személyek, jogi személyek, jogi személyiséggel nem rendelkező szervezetek, illetve tevékenységek e törvényben, valamint az e törvény végrehajtására kiadott jogszabályban meghatározott adatait tartalmazó – élelmiszerlánc-felügyeleti adatbázist.
 
 e) engedélyezi a növényvédő szerek és termésnövelő anyagok engedélyezési célú biológiai hatásvizsgálataihoz a Helyes Kísérleti Gyakorlat (GEP) alkalmazását.
