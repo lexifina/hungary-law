@@ -4,7 +4,7 @@
 
 ## 3. egyetért azzal, hogy a 2. pontban megjelölt prioritás vonatkozásában a 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alapból, az Európai Szociális Alapból és a Kohéziós Alapból származó támogatások felhasználásának rendjéről szóló 4/2011. (I. 28.) Korm. rendelet 29/A–29/C. § szerinti többletkötelezettség-vállalás a jövőben csak a 2. pontban foglaltak figyelembevételével legyen vállalható,
 
-## 4. visszavonja a regionális operatív programok 2011–2013. évekre szóló akcióterveinek módosításáról és a Nyugat-Dunántúli Operatív Program 5. prioritás keretének növeléséről szóló 2057/2013. (XII. 31.) Korm. határozat 2. mellékletének 3. prioritására vonatkozó részét.
+## 4.[^2]
 
 1. melléklet az 1142/2014. (III. 14.) Korm. határozathoz
 
@@ -51,3 +51,5 @@
 | 3.2.1. | Közösségi közlekedés fejlesztése | 0,00 | 0,00 | 0,00 | A beavatkozás célja térségi alapú infrastrukturális fejlesztések megvalósítása a közösségi közlekedés alap-feltételrendszerének a biztosítása, fejlesztése, ezáltal az országos, regionális, elővárosi, helyi és városi közlekedés gyorsabbá, biztonságosabbá és színvonalasabbá tétele érdekében. A közlekedésbiztonsági, forgalomtechnikai, irányítási, utastájékoztatási, valamint a szolgáltatási színvonal emelését szolgáló ellenőrzési rendszerek fejlesztésének támogatásával a konstrukció kiemelt célja a jelenleg közösségi közlekedést választó utasok számának megtartása (esetenként csökkenésének a fékezése), a negatív tendencia megfordítása, és a távlati utasszám-növekedés elősegítése. | nemzeti fejlesztési miniszter |  |
 
 | 3. Prioritás összesen | 5,87 | 1,83 | 0,93 |  |  |  |
+
+[^2]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
