@@ -10,8 +10,10 @@ b) az a betéti társaság, illetve közkereseti társaság, amelyik a dohányte
 
 ## terjesztheti elő.
 
-(2) A kérelmező akkor is előterjesztheti az engedély iránti kérelmét, ha még előtársasági formában működik, illetve társasági szerződésében a cég székhelyén kívül a leendő telephely még nincs feltüntetve. Ebben az esetben – az egyéb jogszabályi feltételek fennállása esetén is – az engedélyt csak a gazdasági társaságokról szóló 2006. évi IV. törvény 16. § (1) bekezdés d) pontjára utalással lehet megadni.
+(2)[^1] A kérelmező akkor is előterjesztheti az engedély iránti kérelmét, ha még előtársasági formában működik, illetve társasági szerződésében a cég székhelyén kívül a leendő telephely még nincs feltüntetve.
 
 (3) Ha a kérelmező a kérelmét magánszemélyként terjeszti elő, de a kérelméből egyértelműen megállapítható, hogy a dohánytermék-kiskereskedelmi jogosultságot az (1) bekezdés b) pontja szerinti gazdasági társaság útján kívánja gyakorolni, akkor kérelmezőként a továbbiakban e gazdasági társaságot kell tekinteni, és szükség szerint dönteni kell az 5. § szerinti intézkedésről.
 
 (4) Nem magyarországi székhellyel rendelkező kérelmező esetén a kérelmező személyes joga alapján kell megállapítani azt, hogy megfelel-e a Tv. 13. § (1) bekezdésében meghatározott feltételeknek.
+
+[^1]: A 3. § (2) bekezdése az 53/2014. (III. 3.) Korm. rendelet 40. §-a szerint módosított szöveg.
