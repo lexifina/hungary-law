@@ -24,4 +24,4 @@ bb) ügyintézésére és képviseletére
 
 jogosultak.
 
-(5) A vallási tevékenységet végző szervezet csak vallási tevékenységet végző szervezettel egyesülhet.
+(5) A vallási tevékenységet végző szervezet csak vallási tevékenységet végző szervezettel egyesülhet és csak vallási tevékenységet végző szervezetekre válhat szét.
