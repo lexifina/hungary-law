@@ -134,7 +134,7 @@
 
 60.5.[^13] III. fok (3. generáció): amelyet közvetlenül az elit, I. vagy II. fokból, illetve – amennyiben a nemesítő vagy fajtafenntartó úgy kívánja – a hivatalos szántóföldi ellenőrzésben és minősítésben, valamint hivatalos fémzárolásban részesült SE vetőmagból állítottak elő,
 
-61. vetőmag-feldolgozó: az előírt személyi és tárgyi feltételekkel rendelkező természetes vagy jogi személy, illetve jogi személyiség nélküli gazdasági társaság, aki, illetve amely a betakarított nyers magtermést tisztítótelepi feldolgozással fémzárolásra előkészíti,
+61.[^14] vetőmag-feldolgozó: az előírt személyi és tárgyi feltételekkel rendelkező természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező szervezet, aki, illetve amely a betakarított nyers magtermést tisztítótelepi feldolgozással fémzárolásra előkészíti,
 
 62. vetőmag-minősítő bizonyítvány: a fémzárolt vetőmagtételre vonatkozó okirat, amely tartalmazza a tétel adatait és igazolja a forgalomba hozatal feltételeinek való megfelelőségét,
 
@@ -144,7 +144,7 @@
 
 65. vizsgálati minta: a laboratóriumi minta osztásából származó minta, amelyből az előírások szerinti vizsgálatokat végzik,
 
-66.[^14] vetőmagtermesztő: az a természetes vagy jogi személy, illetve jogi személyiség nélküli gazdasági társaság, aki vagy amely a szántóföldön a növényfajta vetőmagjának szaporítását végzi.
+66.[^15] vetőmagtermesztő: az a természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező szervezet, aki vagy amely a szántóföldön a növényfajta vetőmagjának szaporítását végzi.
 
 [^5]: A 2. § a 67/2012. (VII. 10.) VM rendelet 6. § (1) és (3) bekezdése szerint módosított szöveg.
 [^6]: A 3. § 8. pontja a 16/2011. (III. 2.) VM rendelet 2. § (1) bekezdésével megállapított szöveg.
@@ -155,4 +155,5 @@
 [^11]: A 3. § 60.3. pontja a 16/2011. (III. 2.) VM rendelet 2. § (3) bekezdésével megállapított szöveg.
 [^12]: A 3. § 60.4. pontja a 16/2011. (III. 2.) VM rendelet 2. § (3) bekezdésével megállapított szöveg.
 [^13]: A 3. § 60.5. pontja a 16/2011. (III. 2.) VM rendelet 2. § (3) bekezdésével megállapított szöveg.
-[^14]: A 3. § 66. pontját a 16/2011. (III. 2.) VM rendelet 2. § (4) bekezdése iktatta be.
+[^14]: A 3. § 61. pontja a 22/2014. (III. 14.) VM rendelet 21. §-a szerint módosított szöveg.
+[^15]: A 3. § 66. pontját a 16/2011. (III. 2.) VM rendelet 2. § (4) bekezdése iktatta be, szövege a 22/2014. (III. 14.) VM rendelet 21. §-a szerint módosított szöveg.
