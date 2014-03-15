@@ -8,8 +8,8 @@ c) a felhasználás célját, jogcímét,
 
 d) a felhasználás időpontját,
 
-e)[^436] a felelős üzemvezető aláírását, a cégbélyegző lenyomatát.
+e)[^440] a felelős üzemvezető aláírását, a cégbélyegző lenyomatát.
 
 (2) Az (1) bekezdésben meghatározott belső bizonylatokról külön nyilvántartást kell – felhasználási jogcímként – jogcímenként vezetni, melyet havonta a termékmérleg nyilvántartással egyidőben le kell zárni.
 
-[^436]: A 82. § (1) bekezdés e) pontja a 44/2009. (XII. 29.) PM rendelet 27. §-ával megállapított szöveg.
+[^440]: A 82. § (1) bekezdés e) pontja a 44/2009. (XII. 29.) PM rendelet 27. §-ával megállapított szöveg.

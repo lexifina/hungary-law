@@ -68,6 +68,6 @@
 
 |  | az engedélyező vámszerv aláírása (bélyegzője) |
 
-11. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^686]
+11. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^690]
 
-[^686]: A 11. számú melléklet a 40/2007. (XII. 29.) PM rendelet 38. § (3) bekezdésével megállapított szöveg.
+[^690]: A 11. számú melléklet a 40/2007. (XII. 29.) PM rendelet 38. § (3) bekezdésével megállapított szöveg.

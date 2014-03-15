@@ -142,6 +142,6 @@
 
 |  |  |  | a kérelmező aláírása (bélyegzője) |
 
-4. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^679]
+4. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^683]
 
-[^679]: A 4. számú melléklet a 44/2009. (XII. 29.) PM rendelet 41. § (4) bekezdésével megállapított, a 18/2010. (XII. 30.) NGM rendelet 16. § (1) bekezdése, a 17/2011. (IV. 19.) NGM rendelet 56. § (3) bekezdése és 57. §-a, az 54/2011. (XII. 29.) NGM rendelet 30. § (1) bekezdés 16. pontja szerint módosított szöveg.
+[^683]: A 4. számú melléklet a 44/2009. (XII. 29.) PM rendelet 41. § (4) bekezdésével megállapított, a 18/2010. (XII. 30.) NGM rendelet 16. § (1) bekezdése, a 17/2011. (IV. 19.) NGM rendelet 56. § (3) bekezdése és 57. §-a, az 54/2011. (XII. 29.) NGM rendelet 30. § (1) bekezdés 16. pontja szerint módosított szöveg.

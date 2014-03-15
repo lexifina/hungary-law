@@ -62,7 +62,7 @@
 
 ## 2.15. Személyazonosító igazolvány (útlevél) száma:
 
-## 3.[^674]
+## 3.[^678]
 
 ## 4. Nyilatkozatok
 
@@ -118,7 +118,7 @@
 
 ## V. Egyéb
 
-## 1.[^675] Egyszerűsített kísérő okmány aláírására jogosultak
+## 1.[^679] Egyszerűsített kísérő okmány aláírására jogosultak
 
 ## 1.1. Neve:
 
@@ -142,8 +142,8 @@
 
 ## a kérelmező aláírása (bélyegzője)
 
-1/B. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^676]
+1/B. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^680]
 
-[^674]: Az 1/A. számú melléklet I.3. pontját a 17/2011. (IV. 19.) NGM rendelet 57. §-a hatályon kívül helyezte.
-[^675]: Az 1/A. számú melléklet V. pont 1. alpontja a 44/2009. (XII. 29.) PM rendelet 41. § (2) bekezdése szerint módosított szöveg.
-[^676]: Az 1/B. számú mellékletet az 52/2012. (XII. 29.) NGM rendelet 46. § (6) bekezdése iktatta be.
+[^678]: Az 1/A. számú melléklet I.3. pontját a 17/2011. (IV. 19.) NGM rendelet 57. §-a hatályon kívül helyezte.
+[^679]: Az 1/A. számú melléklet V. pont 1. alpontja a 44/2009. (XII. 29.) PM rendelet 41. § (2) bekezdése szerint módosított szöveg.
+[^680]: Az 1/B. számú mellékletet az 52/2012. (XII. 29.) NGM rendelet 46. § (6) bekezdése iktatta be.

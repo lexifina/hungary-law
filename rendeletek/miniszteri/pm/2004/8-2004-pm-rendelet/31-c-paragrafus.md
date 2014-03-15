@@ -1,4 +1,4 @@
-31/C. §[^196] (1) A Jöt. 74. § (1a) bekezdés szerinti bejelentés tartalmazza:
+31/C. §[^200] (1) A Jöt. 74. § (1a) bekezdés szerinti bejelentés tartalmazza:
 
 a) a tudományos és oktatási célú használatra szánt desztillálóberendezés birtokosának nevét, címét, adószámát;
 
@@ -38,4 +38,4 @@ f) a jegyzőkönyv felvételének dátumát és a tevékenységért felelős sze
 
 (5) A Jöt. 74. § (1a) bekezdés szerinti bejelentést a vámhatóság internetes honlapjáról letölthető elektronikus formanyomtatványon kell benyújtani.
 
-[^196]: A 31/C. §-t a 76/2013. (XII. 31.) NGM rendelet 7. §-a iktatta be.
+[^200]: A 31/C. §-t a 76/2013. (XII. 31.) NGM rendelet 7. §-a iktatta be.

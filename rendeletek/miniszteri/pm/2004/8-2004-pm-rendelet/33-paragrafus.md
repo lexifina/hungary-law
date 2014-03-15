@@ -1,8 +1,8 @@
 ## Nyilvántartásba vett felhasználó
 
-33. § (1)[^199] A Jöt 59. § (2) bekezdése és 70. § (2) bekezdés a) pontja szerinti tevékenység első alkalommal történő bejelentéséhez a bejelentő személynek csatolnia kell
+33. § (1)[^203] A Jöt 59. § (2) bekezdése és 70. § (2) bekezdés a) pontja szerinti tevékenység első alkalommal történő bejelentéséhez a bejelentő személynek csatolnia kell
 
-a)[^200] a társasági szerződést (alapító okiratot, alapszabályt) vagy a vállalkozói igazolványt, eredetiben vagy hiteles másolatban;
+a)[^204] a társasági szerződést (alapító okiratot, alapszabályt) vagy a vállalkozói igazolványt, eredetiben vagy hiteles másolatban;
 
 b) az egyéb ellenőrzött ásványolaj, a megfigyelt termék, a teljesen denaturált alkoholtermék felhasználásáról a 25. számú melléklet szerint vezetendő nyilvántartás mintáját vagy a számítógépes nyilvántartás-vezetés leírását;
 
@@ -12,11 +12,11 @@ c) – adóraktárból történő beszerzés esetén – az egyszerűsített kí
 
 (3) A bejelentésben megadott adatok – kivéve a (2) bekezdés szerinti adat – változását a változás bekövetkeztétől számított 15 napon belül kell bejelenteni a 24. számú melléklet szerinti formanyomtatványon.
 
-(4)[^201]
+(4)[^205]
 
-(5)[^202] A vámszerv a nyilvántartásbavétel, illetve a változások visszaigazolását a 26. számú melléklet szerinti adattartalmú nyomtatványon, a benyújtástól számított 15 napon belül teljesíti.
+(5)[^206] A vámszerv a nyilvántartásbavétel, illetve a változások visszaigazolását a 26. számú melléklet szerinti adattartalmú nyomtatványon, a benyújtástól számított 15 napon belül teljesíti.
 
-[^199]: A 33. § (1) bekezdésének bevezető szövegrésze a 40/2007. (XII. 29.) PM rendelet 40. § (2) bekezdése szerint módosított szöveg.
-[^200]: A 33. § (1) bekezdés a) pontja a 44/2009. (XII. 29.) PM rendelet 49. § (1) bekezdése szerint módosított szöveg.
-[^201]: A 33. § (4) bekezdését a 38/2008. (XII. 31.) PM rendelet 15. § (4) bekezdése hatályon kívül helyezte.
-[^202]: A 33. § (5) bekezdése a 17/2011. (IV. 19.) NGM rendelet 56. § (3) bekezdése szerint módosított szöveg.
+[^203]: A 33. § (1) bekezdésének bevezető szövegrésze a 40/2007. (XII. 29.) PM rendelet 40. § (2) bekezdése szerint módosított szöveg.
+[^204]: A 33. § (1) bekezdés a) pontja a 44/2009. (XII. 29.) PM rendelet 49. § (1) bekezdése szerint módosított szöveg.
+[^205]: A 33. § (4) bekezdését a 38/2008. (XII. 31.) PM rendelet 15. § (4) bekezdése hatályon kívül helyezte.
+[^206]: A 33. § (5) bekezdése a 17/2011. (IV. 19.) NGM rendelet 56. § (3) bekezdése szerint módosított szöveg.
