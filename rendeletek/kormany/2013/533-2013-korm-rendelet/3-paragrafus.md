@@ -1,6 +1,6 @@
 ## 3. Az engedélyezés szabályai
 
-## 3. § A bérleti rendszer üzemeltetését a Főfelügyelőség annak a belföldön vagy külföldön nyilvántartásba vett, jogi személyiséggel rendelkező gazdálkodó szervezet kérelemére engedélyezi:
+## 3. §[^1] A bérleti rendszer üzemeltetését a Főfelügyelőség annak a belföldön vagy külföldön nyilvántartásba vett, a polgári perrendtartásról szóló törvényben meghatározott gazdálkodó szervezet kérelemére engedélyezi:
 
 a) amelynek jegyzett tőkéje legalább 25 millió forint vagy annak megfelelő összegű deviza, amely esetében a jegyzett tőke forintra történő átszámításához a kérelemnek a Főfelügyelőséghez történő benyújtása napján érvényes, a Magyar Nemzeti Bank által közzétett deviza-középárfolyamot kell figyelembe venni;
 
@@ -13,3 +13,5 @@ d) amely nem áll csőd-, felszámolási vagy végelszámolási, kényszertörl�
 e) amely a bérleti rendszer üzemeltetésének nyilvántartásba vételét követő évtől független könyvvizsgáló által hitelesített (auditált) beszámolóval rendelkezik;
 
 f) amely a bérleti rendszerhez történő csatlakozást mindazok számára biztosítja, akik az általános szerződési feltételekben meghatározott feltételeknek megfelelnek.
+
+[^1]: A 3. § nyitó szövegrésze a 13. § szerint módosított szöveg.
