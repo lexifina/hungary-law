@@ -1,4 +1,4 @@
-4. §[^2] (1) A kijelölés iránti kérelmet a bizottságnak címezve, az 1. mellékletben meghatározott adattartalommal, a BM OKF-hez kell benyújtani. A kérelemhez csatolni kell
+4. §[^3] (1) A kijelölés iránti kérelmet a bizottságnak címezve, az 1. mellékletben meghatározott adattartalommal, a BM OKF-hez kell benyújtani. A kérelemhez csatolni kell
 
 a) a kérelmező nyilatkozatát arra vonatkozóan, hogy szervezetük megfelel a megfelelőségértékelő szervezetek tevékenységéről szóló 2009. évi CXXXIII. törvény (a továbbiakban: Msztv.) 3. § (2) bekezdés a), b) és d) pontjában, 4. §-ában és 6. § (1) bekezdésében foglaltaknak,
 
@@ -34,4 +34,4 @@ ej) egyéb tűzoltó-technikai termék (szerelvényszekrény, áttétkapocs, nyo
 
 (3) A megfelelőségértékelési tevékenységben részt vevő, a kérelmező szervezettel kapcsolatban munkavégzésre irányuló egyéb jogviszonyban álló személy vagy szervezet munkavállalója legalább középfokú végzettséggel, és a szakterületen eltöltött legalább 5 éves szakmai gyakorlattal kell, hogy rendelkezzen.
 
-[^2]: A 4. § az 54/2011. (XII. 21.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^3]: A 4. § az 54/2011. (XII. 21.) Korm. rendelet 1. §-ával megállapított szöveg.

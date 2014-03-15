@@ -1,4 +1,4 @@
-4/A. §[^3] (1) A kijelölési eljárásért fizetendő igazgatási szolgáltatási díj mértéke
+4/A. §[^4] (1) A kijelölési eljárásért fizetendő igazgatási szolgáltatási díj mértéke
 
 a) új kérelem esetében tevékenység típusonként és szakterületenként 63 000 forint,
 
@@ -28,4 +28,4 @@ b) a díjfizetésre kötelezettek körének megállapítására az Itv. 31. § (
 
 (7) Az Msztv. 3. § (2) bekezdés c) pontjában előírt felelősségbiztosítási szerződésben biztosítandó fedezet káreseményenkénti legkisebb mértékét a 3. melléklet tartalmazza. Amennyiben több szakterületre irányulnak a kérelmek, a biztosítandó fedezet legkisebb mértékét a 3. mellékletben szereplő szakterületek közül a legmagasabb fedezetérték alapján kell megállapítani.
 
-[^3]: A 4/A. §-t az 54/2011. (XII. 21.) BM rendelet 2. §-a iktatta be.
+[^4]: A 4/A. §-t az 54/2011. (XII. 21.) BM rendelet 2. §-a iktatta be.

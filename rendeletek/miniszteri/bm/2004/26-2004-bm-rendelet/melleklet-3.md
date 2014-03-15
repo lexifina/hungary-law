@@ -20,7 +20,7 @@
 
 | ..................................................... belügyminiszter |
 
-3. melléklet az 54/2011. (XII. 21.) BM rendelethez[^16]
+3. melléklet az 54/2011. (XII. 21.) BM rendelethez[^17]
 
 A felelősségbiztosítási szerződésben biztosítandó fedezet káreseményenkénti legkisebb mértéke szakterületenként
 
@@ -48,4 +48,4 @@ A felelősségbiztosítási szerződésben biztosítandó fedezet káreseményen
 
 | 11. | Tűz- vagy robbanásveszélyes készülék, gép, berendezés vagy azokból álló technológiai rendszer | 10 000 000 forint |
 
-[^16]: A 3. számú mellékletet az 54/2011. (XII. 21.) BM rendelet 10. §-a iktatta be.
+[^17]: A 3. számú mellékletet az 54/2011. (XII. 21.) BM rendelet 10. §-a iktatta be.
