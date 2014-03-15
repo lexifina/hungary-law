@@ -1,6 +1,6 @@
 ## A vertikálisan integrált földgázipari vállalkozásokra vonatkozó közös szétválasztási szabályok
 
-120/A. § (1) A vertikálisan integrált földgázipari vállalkozás rendszerüzemeltető tagjai vonatkozásában a tevékenységek szétválasztására, a jogi személyiség szerinti, szervezeti és döntéshozatali függetlenség biztosításának követelményére tekintettel a Gt. szabályait az e törvényben foglalt eltérésekkel kell alkalmazni.
+120/A. § (1) A vertikálisan integrált földgázipari vállalkozás rendszerüzemeltető tagjai vonatkozásában a tevékenységek szétválasztására, a jogi személyiség szerinti, szervezeti és döntéshozatali függetlenség biztosításának követelményére tekintettel a Ptk. szabályait az e törvényben foglalt eltérésekkel kell alkalmazni.
 
 (2) Vertikálisan integrált földgázipari vállalkozás keretében végzett földgázszállítás és rendszerirányítás vagy földgázelosztás esetén biztosítani kell a földgázszállítás, földgázelosztás jogi személyiség szerinti, szervezeti és döntéshozatali függetlenségét a nem földgázszállítással vagy földgázelosztással kapcsolatos tevékenységektől.
 

@@ -74,15 +74,17 @@
 
 29. Földgázipari tevékenység: e törvényben szabályozott engedélyköteles tevékenység.
 
-30. Földgázipari vállalkozás: a Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) 685. § c) pontja szerinti gazdálkodó szervezet, valamint az Európai Unió tagállamában, illetve az Európai Gazdasági Térségről szóló megállapodásban részes valamely más államban bejegyzett külföldi vállalkozás és annak belföldön bejegyzett fióktelepe, amely legalább egy földgázipari tevékenységet folytat.
+30. Földgázipari vállalkozás: gazdálkodó szervezet, valamint az Európai Unió tagállamában, illetve az Európai Gazdasági Térségről szóló megállapodásban részes valamely más államban bejegyzett külföldi vállalkozás és annak belföldön bejegyzett fióktelepe, amely legalább egy földgázipari tevékenységet folytat.
 
 31. Földgáztárolás: a földgáz engedély alapján végzett tárolása.
 
 32. Földgáztároló: az a besajtoló és kitermelő technológiai létesítménnyel ellátott földalatti természetes földtani szerkezet, mesterségesen kialakított földalatti üreg, vagy a földfelszínen létesített építmény, amely földgáz tárolására alkalmas.
 
-33. Földgáztermelő: az a gazdálkodó szervezet [Ptk. 685. § c) pont], amely Magyarország területén földgázbányászati tevékenységet végez, vagy biogáz és biomasszából származó gázok, valamint egyéb gázfajták előállítását üzletszerűen végzi.
+33. Földgáztermelő: az a gazdálkodó szervezet, amely Magyarország területén földgázbányászati tevékenységet végez, vagy biogáz és biomasszából származó gázok, valamint egyéb gázfajták előállítását üzletszerűen végzi.
 
 34. Földgázszállítás: a földgáznak szállítóvezetéken történő továbbítása.
+
+34a. Gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet.
 
 35. Gázátadó állomás: a szállítóvezeték alkotórészét képező létesítmény a szállítóvezeték kilépési pontján, ahol a szállítóvezetékről a gáz átadása, mérése és a szükséges nyomáscsökkentés történik.
 

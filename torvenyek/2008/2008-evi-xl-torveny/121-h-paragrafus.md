@@ -22,7 +22,7 @@ a) bármely szavazati jog gyakorlása;
 
 b) a felügyelőbizottság tagja, az operatív irányítást végző személy kinevezése, vagy
 
-c) a Ptk. 685/B. § (1) bekezdése szerinti többségi befolyás.
+c) a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) 8:2. § (1) bekezdése szerinti többségi befolyás.
 
 (3) Az (1) bekezdés b) pontja alkalmazásában
 
