@@ -2,7 +2,7 @@
 
 13. § (1) Az MFB Zrt.-ben a Magyar Államot mint egyszemélyes tulajdonost az állami vagyon felügyeletéért felelős miniszter képviseli.
 
-(2) A tulajdonosi jogok gyakorlójának kizárólagos hatáskörébe – az e törvényben szereplő eltérésekkel – a Gt. 231. § (2) bekezdésében foglaltak tartoznak.
+(2)
 
 (3) Az MFB Zrt. gazdálkodásának célszerűségét, jövedelmezőségét és szakszerűségét a tulajdonosi jogok gyakorlója vizsgálja.
 

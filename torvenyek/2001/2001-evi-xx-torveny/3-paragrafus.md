@@ -10,11 +10,11 @@ c) pénzügyi lízing;
 
 d) a 2. § b) és c) pontjában szereplő feladatához közvetlenül kapcsolódóan
 
-1. pénzforgalmi szolgáltatások nyújtása – a pénzforgalmi számlavezetés kivételével – kizárólag jogi személy, jogi személyiség nélküli gazdasági társaság, egyéni cég és egyéni vállalkozó részére,
+1. pénzforgalmi szolgáltatások nyújtása – a pénzforgalmi számlavezetés kivételével – kizárólag jogi személy, egyéni cég és egyéni vállalkozó részére,
 
 2. pénzforgalmi számlavezetés kizárólag olyan gazdasági társaság részére, amelyben az MFB Zrt. közvetlen tulajdonnal rendelkezik;
 
-e) kezesség és bankgarancia, valamint egyéb bankári kötelezettség vállalása;
+e) kezesség és garancia, valamint egyéb bankári kötelezettség vállalása;
 
 f) hitelreferencia szolgáltatása;
 
@@ -44,7 +44,7 @@ h) egyéb, az a)–g) pontokban foglaltakhoz kapcsolódó kiegészítő szolgál
 
 (4) Az MFB Zrt. az (1) bekezdésben meghatározott körben, a (2) bekezdés szerinti pénzügyi szolgáltatási tevékenységeken túlmenően befektetési alap által kibocsátott befektetési jegyet és kockázati tőkealap által kibocsátott kockázati tőkealap-jegyet vásárolhat.
 
-(5) Az e törvény 1. számú mellékletében meghatározott gazdálkodó szervezet állami tulajdonú részesedése tekintetében a tulajdonos jogait – e törvény erejénél fogva – a Magyar Állam nevében az MFB Zrt. gyakorolja (a továbbiakban: tulajdonosi jogok gyakorlása). A tulajdonosi jogok gyakorlására a Gt. és a Ptk. rendelkezéseit a nemzeti vagyonról szóló törvényben, valamint az e törvényben szabályozott eltérésekkel kell alkalmazni azzal, hogy a tulajdonosi joggyakorlással érintett társasági részesedések tulajdonjogát az MFB Zrt. nem ruházhatja át, a részesedésekre vételi jogot, elővásárlási jogot szerződéssel nem alapíthat, biztosítékul azokat nem adhatja és más módon meg nem terhelheti, a gazdálkodó szervezetet végelszámolással nem szüntetheti meg.
+(5) Az e törvény 1. számú mellékletében meghatározott gazdálkodó szervezet állami tulajdonú részesedése tekintetében a tulajdonos jogait – e törvény erejénél fogva – a Magyar Állam nevében az MFB Zrt. gyakorolja (a továbbiakban: tulajdonosi jogok gyakorlása). A tulajdonosi jogok gyakorlására a Ptk. rendelkezéseit a nemzeti vagyonról szóló törvényben, valamint az e törvényben szabályozott eltérésekkel kell alkalmazni azzal, hogy a tulajdonosi joggyakorlással érintett társasági részesedések tulajdonjogát az MFB Zrt. nem ruházhatja át, a részesedésekre vételi jogot, elővásárlási jogot szerződéssel nem alapíthat, biztosítékul azokat nem adhatja és más módon meg nem terhelheti, a gazdálkodó szervezetet végelszámolással nem szüntetheti meg.
 
 (6) Kizárólag az (5) bekezdésben meghatározott társasági részesedések tulajdonjogának – az erre feljogosított szervezet által történő – átruházása, biztosítékul adása vagy más módon történő megterhelése, a részesedésekre vételi jog, elővásárlási jog szerződéssel történő alapítása, illetve a gazdálkodó szervezet végelszámolással történő megszüntetése esetén kell az állami vagyonról szóló 2007. évi CVI. törvény, valamint annak végrehajtására kiadott más jogszabályok rendelkezéseit alkalmazni.
 

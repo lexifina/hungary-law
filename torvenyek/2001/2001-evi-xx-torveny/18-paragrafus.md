@@ -1,6 +1,6 @@
 ## Az összeférhetetlenség
 
-18. § (1) Az MFB Zrt. igazgatóságának, felügyelő bizottságának tagjaira, alkalmazottaira a Gt.-ben, a Hpt.-ben és a (2)–(6) bekezdésben meghatározott összeférhetetlenségi szabályokat kell alkalmazni.
+18. § (1) Az MFB Zrt. igazgatóságának, felügyelő bizottságának tagjaira, alkalmazottaira a Ptk.-ban, a Hpt.-ben és a (2)–(6) bekezdésben meghatározott összeférhetetlenségi szabályokat kell alkalmazni.
 
 (2) Az MFB Zrt. alkalmazottai munkavégzésre irányuló egyéb és további jogviszonyt – tudományos, oktatói, művészeti, lektori, szerkesztői, jogi oltalom alá eső szellemi tevékenység, valamint a (4) bekezdésben meghatározott esetek kivételével – nem létesíthetnek.
 

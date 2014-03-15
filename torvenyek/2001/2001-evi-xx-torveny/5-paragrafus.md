@@ -8,7 +8,7 @@
 
 a) forrásszerzés céljából igénybe vett hitelekből, felvett kölcsönökből és kibocsátott kötvényekből az MFB Zrt.-t terhelő fizetési kötelezettségek teljesítéséért;
 
-b) a Kormány határozata alapján nyújtott hitelfinanszírozásból, valamint harmadik fél javára vállalt, érvényesített készfizető kezességből és bankgaranciából származó, az MFB zrt. felé fennálló fizetési kötelezettségek teljesítéséért;
+b) a Kormány határozata alapján nyújtott hitelfinanszírozásból, valamint harmadik fél javára vállalt, érvényesített készfizető kezességből és garanciából származó, az MFB zrt. felé fennálló fizetési kötelezettségek teljesítéséért;
 
 c) forrásszerzés céljából a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény 48. § (1) bekezdése szerinti bel- és külföldi szakmai ügyféltől bankközi piacon elfogadott betétekből, valamint
 
@@ -20,7 +20,7 @@ d) végrehajtott deviza- és kamatcsere ügyletek pótlási költségéből ered
 
 a) a forrásszerzés céljából az (1) bekezdés a) és c) pontja alapján elfogadott betétek, továbbá igénybe vett hitelek, felvett kölcsönök, és kibocsátott kötvények – devizában történő forrásbevonás esetén a szerződéskötés vagy a kötvénykibocsátás napján azok Magyar Nemzeti Bank által közzétett hivatalos devizaárfolyamon forintra átszámított értékén számított – állománya és az (1) bekezdés d) pontja alapján végrehajtott deviza- és kamatcsere ügyletek pótlási költsége együttes állományának felső határát;
 
-b) az MFB Zrt. által az (1) bekezdés b) pontja alapján állami kezesség mellett nyújtott hitelek, valamint harmadik fél javára vállalt készfizető kezesség és bankgarancia állomány felső határát;
+b) az MFB Zrt. által az (1) bekezdés b) pontja alapján állami kezesség mellett nyújtott hitelek, valamint harmadik fél javára vállalt készfizető kezesség és garancia állomány felső határát;
 
 c) az MFB Zrt. által forrásszerzés céljából az (1) bekezdés a) és c) pontja alapján elfogadott betétekhez, igénybe vett hitelekhez, felvett kölcsönökhöz és kibocsátott kötvényekhez, továbbá az (1) bekezdés d) pontja alapján végrehajtott forrásbevonással összefüggő deviza csereügyletekhez kapcsolódó árfolyam-fedezeti megállapodások által fedezett források forintban számított, együttes állományának felső határát;
 
