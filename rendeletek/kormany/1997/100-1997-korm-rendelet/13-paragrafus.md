@@ -8,7 +8,7 @@
 
 (4)[^81]
 
-(5)[^82] A vizsgabizottság tagja nem működhet közre közeli hozzátartozójának [Ptk. 685. § b) pont] vizsgáztatásában.
+(5)[^82] A vizsgabizottság tagja nem működhet közre a Polgári Törvénykönyv szerinti közeli hozzátartozójának, továbbá bejegyzett élettársának vizsgáztatásában.
 
 (6)[^83] A vizsgabizottság ügyviteli tevékenységét a vizsgabizottság jegyzője végzi. A vizsgabizottság jegyzőjének feladatait középiskolában a nevelőtestület bármely tagja, a gazdasági vezető, az iskolatitkár vagy az iskola legalább középfokú végzettséggel rendelkező alkalmazottja láthatja el. A Hivatalban a vizsgabizottság jegyzőjének feladataival az bízható meg, aki legalább középiskolai végzettséggel rendelkezik. A vizsgabizottság jegyzőjének feladata különösen: vezeti az értekezletek jegyzőkönyveit, elkészíti azok mellékleteit, a vizsgázók törzslapjait, megírja az érettségi vizsga bizonyítványait, ellátja a vizsgával kapcsolatos egyéb ügyviteli teendőket, a szabályzatban foglaltak szerint aláírja a vizsga iratait. Jegyzői feladatokkal vizsgáztató tanár is megbízható, amennyiben a vizsga lebonyolítása során mindkét funkciót maradéktalanul el tudja látni. A jegyző – amennyiben nem vizsgáztató tanár – nem tagja a vizsgabizottságnak.
 
@@ -22,7 +22,7 @@
 [^79]: A 13. § (2) bekezdése a 6/2008. (I. 22.) Korm. rendelet 12. § (3) bekezdésének f) pontja szerint módosított szöveg.
 [^80]: A 13. § (3) bekezdése a 233/2004. (VIII. 6.) Korm. rendelet 9. §-ának (1) bekezdésével megállapított, a 106/2012. (VI. 1.) Korm. rendelet 9. § l) pontja szerint módosított szöveg.
 [^81]: A 13. § (4) bekezdését a 78/2002. (IV. 13.) Korm. rendelet 41. § (2) bekezdés a) pontja hatályon kívül helyezte.
-[^82]: A 13. § (5) bekezdése a 16/2000. (II. 11.) Korm. rendelet 5. §-ának (4) bekezdésével megállapított szöveg.
+[^82]: A 13. § (5) bekezdése a 74/2014. (III. 13.) Korm. rendelet 18. §-ával megállapított szöveg.
 [^83]: A 13. § (6) bekezdése a 256/2005. (XII. 7.) Korm. rendelet 5. §-ával megállapított, valamint a 6/2008. (I. 22.) Korm. rendelet 12. § (3) bekezdésének m) pontja szerint módosított szöveg. A 351/2010. (XII. 30.) Korm. rendelet 41. § h) pontja alapján a 13. § (6) bekezdésében az „A Hivatal a” szövegrész helyébe az „A kormányhivatal által működtetett” szöveg lép, ez azonban nem vezethető át.
 [^84]: A 13. § (7) bekezdése a 233/2004. (VIII. 6.) Korm. rendelet 9. §-ának (2) bekezdésével megállapított szöveg.
 [^85]: A 13. § (8) bekezdése a 233/2004. (VIII. 6.) Korm. rendelet 9. §-ának (2) bekezdésével megállapított szöveg.
