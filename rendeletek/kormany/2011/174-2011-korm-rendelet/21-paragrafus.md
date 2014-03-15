@@ -10,7 +10,7 @@
 
 (5) A vizsgáztató bizottság elnöke és tagja nem lehet
 
-a) a vizsgázó közeli hozzátartozója [Ptk. 685. § b) pont],
+a)[^48] a vizsgázó Ptk. szerinti közeli hozzátartozója (ideértve bejegyzett élettársát is),
 
 b) aki a vizsgázót foglalkoztató közigazgatási szervnél dolgozik, továbbá
 
@@ -26,10 +26,11 @@ Az összeférhetetlenséget haladéktalanul jelenteni kell az OKV titkárának.
 
 (9) A vizsgáról – a 2. melléklet 2. függelékében meghatározott tartalommal – a vizsgabiztosnak vizsgázónként vizsgajegyzőkönyvet kell vezetnie. A vizsgázó a vizsga lezárását követően hiteles vizsgajegyzőkönyv másodlatot kap, melyet a munkáltató részére köteles átadni.
 
-(10)[^48] A vizsgabiztos a vizsgaszervező által megbízott, legalább középfokú végzettségű személy lehet. A vizsgabiztos nem működhet közre közeli hozzátartozójának [Ptk. 685. § b) pont] a vizsgáztatásában, továbbá olyan esetekben, amelyekben tőle az elfogulatlan vizsgáztatás egyébként nem várható el. Az összeférhetetlenséget haladéktalanul jelenteni kell a vizsgaszervezőnek.
+(10)[^49] A vizsgabiztos a vizsgaszervező által megbízott, legalább középfokú végzettségű személy lehet. A vizsgabiztos nem működhet közre a Ptk. szerinti közeli hozzátartozójának (ideértve bejegyzett élettársát is) a vizsgáztatásában, továbbá olyan esetekben, amelyekben tőle az elfogulatlan vizsgáztatás egyébként nem várható el. Az összeférhetetlenséget haladéktalanul jelenteni kell a vizsgaszervezőnek.
 
 (11) A vizsgáztató bizottság az eredményes vizsgáról vizsgabizonyítványt állít ki. Az elveszett vagy megsemmisült bizonyítvány pótlására – a vizsgajegyzőkönyv alapján – a vizsgaszervező hiteles bizonyítvány másodlatot állít ki. A hiteles bizonyítvány másodlat tartalma megegyezik a bizonyítványéval.
 
 [^46]: A 21. § (2) bekezdése a 178/2012. (VII. 26.) Korm. rendelet 5. § (14) bekezdésével megállapított szöveg.
 [^47]: A 21. § (3) bekezdése a 178/2012. (VII. 26.) Korm. rendelet 5. § (14) bekezdésével megállapított szöveg.
-[^48]: A 21. § (10) bekezdése a 178/2012. (VII. 26.) Korm. rendelet 5. § (17) bekezdés f) pontja szerint módosított szöveg.
+[^48]: A 21. § (5) bekezdés a) pontja a 43/2014. (II. 25.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^49]: A 21. § (10) bekezdése a 43/2014. (II. 25.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
