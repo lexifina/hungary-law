@@ -1,6 +1,6 @@
 ## Változás a szolgáltató személyében
 
-133. § (1) Amennyiben az elektronikus hírközlési szolgáltató helyébe (a továbbiakban: régi szolgáltató) – a szolgáltató gazdasági társaságokról szóló törvény szerinti átalakulása, vagy a szolgáltatás nyújtásának adott területen történő megszüntetése vagy szerződés következtében – más szolgáltató (a továbbiakban: új szolgáltató) lép, az érintett előfizetők felé a régi szolgáltató e törvénynek az előfizetői szerződés szolgáltató általi egyoldalú módosítására vagy az előfizetői szerződés szolgáltató általi felmondására vonatkozó szabályai szerint köteles eljárni.
+133. § (1) Amennyiben az elektronikus hírközlési szolgáltató helyébe (a továbbiakban: régi szolgáltató) – a szolgáltatónak a Ptk. szerinti átalakulása, egyesülése, illetve szétválása, vagy a szolgáltatás nyújtásának adott területen történő megszüntetése vagy szerződés következtében – más szolgáltató (a továbbiakban: új szolgáltató) lép, az érintett előfizetők felé a régi szolgáltató e törvénynek az előfizetői szerződés szolgáltató általi egyoldalú módosítására vagy az előfizetői szerződés szolgáltató általi felmondására vonatkozó szabályai szerint köteles eljárni.
 
 (2) A régi szolgáltató az egyoldalú szerződésmódosítást csak abban az esetben alkalmazhatja, ha
 
