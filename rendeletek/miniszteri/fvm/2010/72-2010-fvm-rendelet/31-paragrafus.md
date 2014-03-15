@@ -1,6 +1,6 @@
 ## 18. C.A.C. faiskola üzemeltetése és ellenőrzése
 
-31. § (1)[^78] A C.A.C. gyümölcsfaiskolában a NÉBIH, illetve az illetékes megyei kormányhivatal növény- és talajvédelmi igazgatósága évente legalább egy szemlét tart, amely során ellenőrzi a 30. § (2) és (3) bekezdése szerinti követelmények teljesülését.
+31. § (1)[^80] A C.A.C. gyümölcsfaiskolában a NÉBIH, illetve az illetékes megyei kormányhivatal növény- és talajvédelmi igazgatósága évente legalább egy szemlét tart, amely során ellenőrzi a 30. § (2) és (3) bekezdése szerinti követelmények teljesülését.
 
 (2) Az (1) bekezdés szerinti szemlét legkésőbb a kitermelést megelőzően el kell végezni.
 
@@ -20,4 +20,4 @@ f) 2.6.1. pontjában az alanycsemetékre vonatkozó alapvető minőségi követe
 
 akkor ezt az ellenőrzés során kiállítandó jegyzőkönyvben fel kell tüntetni.
 
-[^78]: A 31. § (1) bekezdése a 70/2013. (VII. 31.) VM rendelet 131. § b) pontja szerint módosított szöveg.
+[^80]: A 31. § (1) bekezdése a 70/2013. (VII. 31.) VM rendelet 131. § b) pontja szerint módosított szöveg.

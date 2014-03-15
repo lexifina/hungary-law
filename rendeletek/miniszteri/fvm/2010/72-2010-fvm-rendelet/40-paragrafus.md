@@ -22,6 +22,6 @@ b) az értékesítés időpontját,
 
 c) az ültetési anyag mennyiségét, fajtáját, kategóriáját, gyümölcsoltvány estén alanyát.
 
-(6)[^96] Amennyiben az árusítóhely ismételten vagy súlyosan megszegi a szaporítóanyag forgalomba hozatalára vonatkozó előírásokat, a NÉBIH, illetve az illetékes megyei kormányhivatal növény- és talajvédelmi igazgatósága az árusítóhely engedélyének visszavonását kezdeményezi az illetékes települési önkormányzat jegyzőjénél.
+(6)[^98] Amennyiben az árusítóhely ismételten vagy súlyosan megszegi a szaporítóanyag forgalomba hozatalára vonatkozó előírásokat, a NÉBIH, illetve az illetékes megyei kormányhivatal növény- és talajvédelmi igazgatósága az árusítóhely engedélyének visszavonását kezdeményezi az illetékes települési önkormányzat jegyzőjénél.
 
-[^96]: A 40. § (6) bekezdése a 19/2014. (III. 12.) VM rendelet 39. § (1) bekezdésével megállapított szöveg.
+[^98]: A 40. § (6) bekezdése a 19/2014. (III. 12.) VM rendelet 39. § (1) bekezdésével megállapított szöveg.

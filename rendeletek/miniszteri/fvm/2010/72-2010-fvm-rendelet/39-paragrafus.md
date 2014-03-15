@@ -1,8 +1,8 @@
 ## 24. Kiskereskedelmi forgalomba hozatal
 
-39. § (1)[^94] Ültetési anyag kiskereskedelmi forgalomba hozatalára szolgáló értékesítő helyeket a NÉBIH, illetve az illetékes megyei kormányhivatal növény- és talajvédelmi igazgatósága számára évente február 28-ig be kell jelenteni.
+39. § (1)[^96] Ültetési anyag kiskereskedelmi forgalomba hozatalára szolgáló értékesítő helyeket a NÉBIH, illetve az illetékes megyei kormányhivatal növény- és talajvédelmi igazgatósága számára évente február 28-ig be kell jelenteni.
 
-(2)[^95] A NÉBIH, illetve az illetékes megyei kormányhivatal növény- és talajvédelmi igazgatósága az árusítóhelyen annak nyitvatartási idejében bejelentés nélkül, vagy előre egyeztetett más időpontban ellenőrzést tarthat. Az ellenőrzés kiterjed
+(2)[^97] A NÉBIH, illetve az illetékes megyei kormányhivatal növény- és talajvédelmi igazgatósága az árusítóhelyen annak nyitvatartási idejében bejelentés nélkül, vagy előre egyeztetett más időpontban ellenőrzést tarthat. Az ellenőrzés kiterjed
 
 a) az árusítóhelyen lévő technikai feltételek szakmai alkalmasságának,
 
@@ -18,5 +18,5 @@ vizsgálatára.
 
 (4) Árutermelő ültetvény létesítésére ültetési anyagot kiskereskedelmi forgalomba hozatal keretében árusítani tilos.
 
-[^94]: A 39. § (1) bekezdése a 70/2013. (VII. 31.) VM rendelet 131. § b) pontja szerint módosított szöveg.
-[^95]: A 39. § (2) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 131. § c) pontja szerint módosított szöveg.
+[^96]: A 39. § (1) bekezdése a 70/2013. (VII. 31.) VM rendelet 131. § b) pontja szerint módosított szöveg.
+[^97]: A 39. § (2) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 131. § c) pontja szerint módosított szöveg.

@@ -102,6 +102,6 @@
 
 | 6 | Xiphinema diversicaudatum | – | + | + | – | – | + | + | + |
 
-8. melléklet a 72/2010. (V. 13.) FVM rendelethez[^116]
+8. melléklet a 72/2010. (V. 13.) FVM rendelethez[^118]
 
-[^116]: A 8. melléklet a 70/2013. (VII. 31.) VM rendelet 131. § b) és j) pontja szerint módosított szöveg.
+[^118]: A 8. melléklet a 70/2013. (VII. 31.) VM rendelet 131. § b) és j) pontja szerint módosított szöveg.

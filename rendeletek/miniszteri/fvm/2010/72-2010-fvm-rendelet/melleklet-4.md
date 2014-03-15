@@ -286,6 +286,6 @@
 
 | 6. | Fonálférgek | Aphelenchoides ritzemabosi |
 
-4. melléklet a 72/2010. (V. 13.) FVM rendelethez[^114]
+4. melléklet a 72/2010. (V. 13.) FVM rendelethez[^116]
 
-[^114]: A 4. melléklet a 70/2013. (VII. 31.) VM rendelet 131. § b) pontja szerint módosított szöveg.
+[^116]: A 4. melléklet a 70/2013. (VII. 31.) VM rendelet 131. § b) pontja szerint módosított szöveg.

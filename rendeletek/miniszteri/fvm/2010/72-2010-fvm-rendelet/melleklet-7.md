@@ -26,6 +26,6 @@
 
 ## 2.3. vadalma, vadkörte esetében 30 év.
 
-7. melléklet a 72/2010. (V. 13.) FVM rendelethez[^115]
+7. melléklet a 72/2010. (V. 13.) FVM rendelethez[^117]
 
-[^115]: A 7. melléklet a 70/2013. (VII. 31.) VM rendelet 131. § b) pontja szerint módosított szöveg.
+[^117]: A 7. melléklet a 70/2013. (VII. 31.) VM rendelet 131. § b) pontja szerint módosított szöveg.

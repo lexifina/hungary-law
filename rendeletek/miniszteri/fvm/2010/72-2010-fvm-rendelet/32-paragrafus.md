@@ -44,10 +44,10 @@ a) a különböző kategóriájú növényeket nem különítették el és azono
 
 b) a tanúsított gyümölcsfaiskolában előállított szaporítóanyag nem felel meg a 4. és 5. melléklet szerinti minőségi követelményeknek.
 
-(5)[^79] Az egyéb hiányosságok megszüntetését a NÉBIH, illetve az illetékes megyei kormányhivatal növény- és talajvédelmi igazgatósága határidő és jelentési kötelezettség megállapításával együtt előírja.
+(5)[^81] Az egyéb hiányosságok megszüntetését a NÉBIH, illetve az illetékes megyei kormányhivatal növény- és talajvédelmi igazgatósága határidő és jelentési kötelezettség megállapításával együtt előírja.
 
 (6) A zárlatfeloldás feltételeit az ellenőrzöttel közölni kell.
 
 (7) A zárlatot haladéktalanul fel kell oldani, ha a korlátozásra okot adó körülmények megszűnnek és a szaporítóanyagról bebizonyosodik, hogy megfelel e rendelet előírásainak.
 
-[^79]: A 32. § (5) bekezdése a 70/2013. (VII. 31.) VM rendelet 131. § b) pontja szerint módosított szöveg.
+[^81]: A 32. § (5) bekezdése a 70/2013. (VII. 31.) VM rendelet 131. § b) pontja szerint módosított szöveg.

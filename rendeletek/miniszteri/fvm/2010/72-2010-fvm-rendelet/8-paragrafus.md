@@ -1,6 +1,6 @@
 ## 5. A gyümölcs szaporítóanyagok megjelölése, címkézés
 
-8. § (1)[^24] A gyümölcs szaporítóanyagok megjelölésére felhasznált certifikációs címkét a NÉBIH, illetve az illetékes megyei kormányhivatal növény- és talajvédelmi igazgatósága biztosítja a szállítók számára. A megfelelő minőséget és a címke-előállítás ellenőrizhetőségét biztosító feltételek megtartása mellett a certifikációs címkék saját célra történő előállítására a NÉBIH, illetve az illetékes megyei kormányhivatal növény- és talajvédelmi igazgatósága feljogosíthatja a szállítót.
+8. § (1)[^26] A gyümölcs szaporítóanyagok megjelölésére felhasznált certifikációs címkét a NÉBIH, illetve az illetékes megyei kormányhivatal növény- és talajvédelmi igazgatósága biztosítja a szállítók számára. A megfelelő minőséget és a címke-előállítás ellenőrizhetőségét biztosító feltételek megtartása mellett a certifikációs címkék saját célra történő előállítására a NÉBIH, illetve az illetékes megyei kormányhivatal növény- és talajvédelmi igazgatósága feljogosíthatja a szállítót.
 
 (2) A C.A.C. szaporítóanyagok megjelölésére szolgáló termelői címkéről a szállító gondoskodik.
 
@@ -44,4 +44,4 @@ m) a növényútlevél további adatai.
 
 (6) A C.A.C. kategóriájú szaporítóanyagok megjelölésére szolgáló termelői címkéken az (5) bekezdésben felsorolt adatok közül legalább az a), c), h) és j) pontok adatait fel kell tüntetni, amennyiben a címke növényútlevél adatait is tartalmazza. A többi pontban felsorolt adatot elegendő a származási igazolványon feltüntetni. A virológiai állapotra vonatkozó megállapítás nem tehető sem a termelői címkén, sem a kísérő dokumentumokon (származási igazolvány, számla, szállítólevél).
 
-[^24]: A 8. § (1) bekezdése a 70/2013. (VII. 31.) VM rendelet 131. § b) pontja szerint módosított szöveg.
+[^26]: A 8. § (1) bekezdése a 70/2013. (VII. 31.) VM rendelet 131. § b) pontja szerint módosított szöveg.
