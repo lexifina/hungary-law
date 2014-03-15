@@ -4,7 +4,7 @@
 
 a) munkaviszonyát és munkavégzésre irányuló más jogviszonyát,
 
-b) önálló vállalkozását, gazdasági társaságban, szövetkezetben fennálló részesedését (tagsági viszonyát), továbbá e szervezetekben betöltött vezető tisztségviselői megbízatását, felügyelő bizottsági tagságát,
+b) önálló vállalkozását, gazdasági társaságban, szövetkezetben fennálló részesedését (tagsági viszonyát), az e szervezetekben betöltött vezető tisztségviselői megbízatását, felügyelő bizottsági tagságát, továbbá bizalmi vagyonkezelési jogviszony alapján fennálló vagyonrendelői, vagyonkezelői illetve kedvezményezetti jogállását,
 
 c) alapítványát, alapítvány kezelő testületében fennálló tagságát, civil szervezetben fennálló tagsági viszonyát, továbbá e szervezetek jogszabályban vagy alapszabályban meghatározott legfelsőbb, valamint ügyintéző és képviseleti szervében betöltött tisztségét,
 
