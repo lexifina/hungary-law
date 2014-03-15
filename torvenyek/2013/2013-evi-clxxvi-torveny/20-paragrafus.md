@@ -1,0 +1,1 @@
+20. § Kiválás esetén a jogelőd továbbműködő jogi személyt, beolvadásos kiválás és beolvadásos különválás esetén a már működő jogi személyt, amelyhez a kiváló, különváló tag csatlakozik, a szétválás bejegyzésekor a bíróság nem törli a nyilvántartásból.

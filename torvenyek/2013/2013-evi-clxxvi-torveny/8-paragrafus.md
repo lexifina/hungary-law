@@ -1,0 +1,3 @@
+8. § (1) A tagok úgy is dönthetnek, hogy ha a vezető tisztségviselők az átalakuláshoz szükséges okiratokat előkészítik, az átalakulási javaslat érdemi elbírálásáról a döntéshozó szerv egy ülésen határoz. Ez esetben erre az ülésre el kell készíteni az átalakulási tervet, amelyben az ülés napját legfeljebb hat hónappal megelőző, a vezető tisztségviselők által meghatározott időpontra – mint mérlegfordulónapra – vonatkozó, könyvvizsgáló által ellenőrzött vagyonmérleg-tervezet és vagyonleltár-tervezet szerepelhet.
+
+(2) Ha a létesítő okirat lehetővé teszi az ülés tartása nélküli döntéshozatalt, akkor e törvény alkalmazásában a döntéshozó szervi ülés alatt az írásbeli döntéshozatalt is érteni kell.

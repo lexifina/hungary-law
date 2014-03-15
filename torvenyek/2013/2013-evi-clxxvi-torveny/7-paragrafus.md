@@ -1,0 +1,1 @@
+7. § Az átalakulás elhatározásáról az átalakulásról véglegesen döntő döntéshozó szervi ülést követő tizenöt napon belül tájékoztatni kell a jogi személynél működő munkavállalói érdek-képviseleti szerveket.
