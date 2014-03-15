@@ -1,6 +1,6 @@
 ## 10. Az elévülés
 
-13. § (1) A szolgálati viszonnyal kapcsolatos igény – ha törvény eltérően nem rendelkezik – 3 év alatt évül el. A bűncselekménnyel okozott kár megtérítésére irányuló igény 5 év alatt, ha pedig a büntethetőség elévülési ideje ennél hosszabb, ennek megfelelő idő alatt évül el.
+13. § (1) A szolgálati viszonnyal kapcsolatos igény – ha törvény eltérően nem rendelkezik – 3 év alatt évül el. A bűncselekménnyel okozott kár megtérítésére, illetve a személyiségi jog bűncselekménnyel történő megsértéséért járó sérelemdíj megfizetésére irányuló igény 5 év alatt, ha pedig a büntethetőség elévülési ideje ennél hosszabb, ennek megfelelő idő alatt évül el.
 
 (2) Az elévülés az esedékessé válástól kezdődik. Az elévülést hivatalból kell figyelembe venni. Az elévült igényt bírósági úton érvényesíteni nem lehet. Az elévülés utáni teljesítést elévülés címén nem lehet visszakövetelni.
 

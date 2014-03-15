@@ -1,6 +1,6 @@
 ## 82. Egyéb juttatások
 
-140. § (1) Humánszolgálati vagy szociális gondoskodás keretében, visszatérítendő, vagy vissza nem térítendő, pénzbeli, természetbeni, vagy személyes gondoskodást nyújtó, szociális, jóléti és kulturális támogatások, juttatások (a továbbiakban együtt: juttatások) biztosíthatók. Miniszteri rendelet az állomány tagjának közeli hozzátartozója támogatását is előírhatja.
+140. § (1) Humánszolgálati vagy szociális gondoskodás keretében, visszatérítendő, vagy vissza nem térítendő, pénzbeli, természetbeni, vagy személyes gondoskodást nyújtó, szociális, jóléti és kulturális támogatások, juttatások (a továbbiakban együtt: juttatások) biztosíthatók. Miniszteri rendelet az állomány tagjának közeli hozzátartozója vagy élettársa támogatását is előírhatja.
 
 (2) Az (1) bekezdés szerint juttatásnak minősül különösen
 

@@ -50,7 +50,7 @@ c) az előmeneteli rendek közötti váltás esetén az a) és b) pontok összev
 
 19. kötelezően szolgálati viszonyban töltendő idő: az a jognyilatkozatban meghatározott időtartam, amely alatt a Honvédség által támogatott képzésben, a honvéd tisztképzésben vagy a katonai szakképzésben részt vevő személy szolgálati viszonyát köteles fenntartani,
 
-20. közeli hozzátartozó: a házastárs, az egyenes ágbeli rokon, a házastárs egyenes ágbeli rokona, az örökbefogadott, a mostoha és a nevelt gyermek, az örökbefogadó, a mostoha és a nevelő szülő, a testvér, valamint az élettárs,
+20. közeli hozzátartozó: a házastárs, az egyenes ágbeli rokon, az örökbefogadott, a mostoha- és a nevelt gyermek, az örökbefogadó-, a mostoha- és a nevelő szülő, a testvér,
 
 21. közkatona: a szerződéses pályakezdő kivételével az a katona, aki rendfokozat nélkül teljesít szolgálatot,
 
@@ -68,7 +68,7 @@ c) az előmeneteli rendek közötti váltás esetén az a) és b) pontok összev
 
 25. Magyarországon települő katonai szervezet: nemzetközi szervezet döntése vagy nemzetközi megállapodás alapján létrehozott, Magyarországon települő olyan szervezet vagy alakulat, amely a létrehozó szervezet tagállamai vagy a részes államok érdekében katonai feladatot hajt végre,
 
-26. más szerv: a tudományos intézmények, a kutató intézetek, az egészségügyi intézmények, a bírósági szervezet, a bíróságok igazgatási feladatait ellátó szervezet, az ügyészi szervezet, a Köztársasági Elnöki Hivatal, az Országgyűlés Hivatala, az Alkotmánybíróság Hivatala, az Alapvető Jogok Biztosának Hivatala, a Miniszterelnökség, a minisztériumok, a kormányhivatalok, a központi hivatalok, az autonóm államigazgatási szervek, az önálló szabályozó szervek, a felsőoktatási intézmények, a honvédelmi vagy egyéb biztonsági érdeket szolgáló gazdálkodó szervezetek, továbbá a Honvédség tevékenységét elősegítő közhasznú szervezetek, egyesületek, kivéve a honvédségi szervezetnek minősülő szervezeteket, a minisztériumok védelmi igazgatással foglalkozó szervezeti elemeit, a megyei és a fővárosi védelmi bizottságok titkárságait, valamint a Nemzeti Közszolgálati Egyetemet (a továbbiakban: NKE),
+26. más szerv: a tudományos intézmények, a kutató intézetek, az egészségügyi intézmények, a bírósági szervezet, a bíróságok igazgatási feladatait ellátó szervezet, az ügyészi szervezet, a Köztársasági Elnöki Hivatal, az Országgyűlés Hivatala, az Alkotmánybíróság Hivatala, az Alapvető Jogok Biztosának Hivatala, a Miniszterelnökség, a minisztériumok, a kormányhivatalok, a központi hivatalok, az autonóm államigazgatási szervek, az önálló szabályozó szervek, a felsőoktatási intézmények, a honvédelmi vagy egyéb biztonsági érdeket szolgáló vállalkozások, továbbá a Honvédség tevékenységét elősegítő közhasznú szervezetek, egyesületek, kivéve a honvédségi szervezetnek minősülő szervezeteket, a minisztériumok védelmi igazgatással foglalkozó szervezeti elemeit, a megyei és a fővárosi védelmi bizottságok titkárságait, valamint a Nemzeti Közszolgálati Egyetemet (a továbbiakban: NKE),
 
 27. megfelelő szolgálati beosztásba helyezés: az az azonos beosztásba áthelyezés vagy magasabb beosztásba kinevezés, amelynek betöltésére az állomány tagja iskolai végzettsége, szakképzettsége, szakképesítése, egyéb felkészültsége, valamint egészségi, pszichikai és fizikai állapota szerint, továbbá nemzetbiztonsági szempontból alkalmas,
 

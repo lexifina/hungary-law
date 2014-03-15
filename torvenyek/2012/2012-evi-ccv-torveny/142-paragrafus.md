@@ -8,6 +8,6 @@
 
 (2) Az állomány tagja balesetének, betegségének vagy az ezek miatt bekövetkezett halálának szolgálati kötelmekkel való összefüggését hivatalból kell vizsgálni. A balesetnek és a betegségnek a szolgálati kötelmekkel való összefüggéséről a miniszter által rendeletben kijelölt honvédségi szervezet, a miniszteri rendelet szerinti eljárásban, minősítő határozatban dönt.
 
-(3) A minősítő határozatot az állomány tagjával, halála esetén közeli hozzátartozójával közölni kell.
+(3) A minősítő határozatot az állomány tagjával, halála esetén közeli hozzátartozójával vagy élettársával közölni kell.
 
 (4) A baleseti járadék megállapításáról első fokon a miniszter által rendeletben kijelölt honvédségi szervezet indokolt határozatban dönt. A baleseti járadékra való jogosultság vizsgálatának szabályait miniszteri rendelet határozza meg.

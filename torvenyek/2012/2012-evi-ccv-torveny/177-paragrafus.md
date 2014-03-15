@@ -6,4 +6,4 @@
 
 (3) Ha a kártérítés megállapítását követően a károsult körülményeiben lényeges változás következik be, a megállapított kártérítés módosítását a károsult vagy a miniszter által rendeletben kijelölt honvédségi szervezet is kezdeményezheti.
 
-(4) A Honvédség az állomány kártérítésre jogosult tagjától, vagy annak közeli hozzátartozójától a munkavégzésből származó jövedelméről, jövedelmi viszonyairól évente igazolást kérhet.
+(4) A Honvédség az állomány kártérítésre jogosult tagjától, vagy annak közeli hozzátartozójától vagy élettársától a munkavégzésből származó jövedelméről, jövedelmi viszonyairól évente igazolást kérhet.

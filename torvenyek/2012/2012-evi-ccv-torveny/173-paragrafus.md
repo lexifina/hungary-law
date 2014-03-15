@@ -2,9 +2,11 @@
 
 a) elmaradt jövedelmét,
 
-b) dologi és nem vagyoni kárát, valamint
+b) vagyonában beállott értékcsökkenését,
 
 c) a sérelemmel, és ennek elhárításával összefüggésben felmerült indokolt költségeit.
+
+(1a) A Honvédség köteles megfizetni az állomány tagjának személyiségi jogainak megsértésével összefüggésben felmerült sérelemdíját.
 
 (2) Az (1) bekezdés a) pontjának megállapításánál figyelembe kell venni
 

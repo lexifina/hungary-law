@@ -22,7 +22,7 @@ távolléti díjnak megfelelő összeg.
 
 (3) Az 59. § (1) bekezdés e) pontja esetén az állomány tagja szerződéses szolgálati viszonyban eltöltött szolgálati idejét – kivéve azt az időszakot, amelyre szerződés-hosszabbítási díjban részesült – a végkielégítés szempontjából hivatásos szolgálatban eltöltött időként kell figyelembe venni. Ha a hivatásos állományba visszavett személy szolgálati viszonya felmentéssel kerül megszüntetésre, a végkielégítés alapjául a korábbi végkielégítést követően szolgálati viszonyban töltött időt lehet figyelembe venni. Ha a szolgálati viszony áthelyezéssel létesült, a végkielégítés szempontjából figyelembe kell venni az átvételt megelőző jogviszonyban folyamatosan eltöltött időt.
 
-(4) A végkielégítést a felmentési idő utolsó napján kell kifizetni. Ha a hivatásos állomány tagja a szolgálatteljesítési kötelezettség alóli mentesítés ideje alatt bármely költségvetési szervvel, vagy költségvetési szerv legalább többségi befolyása alatt álló bármely gazdálkodó szervezettel teljes vagy részmunkaidős jogviszonyt létesít,
+(4) A végkielégítést a felmentési idő utolsó napján kell kifizetni. Ha a hivatásos állomány tagja a szolgálatteljesítési kötelezettség alóli mentesítés ideje alatt bármely költségvetési szervvel, vagy költségvetési szerv legalább többségi befolyása alatt álló bármely a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezettel teljes vagy részmunkaidős jogviszonyt létesít,
 
 a) ezt a tényt a korábban munkáltatói jogkört gyakorlónak köteles haladéktalanul írásban bejelenteni,
 

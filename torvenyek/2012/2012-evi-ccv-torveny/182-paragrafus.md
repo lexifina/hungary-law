@@ -6,7 +6,7 @@
 
 a) a fegyelmi eljárás során hozott első fokú határozat ellen a közléstől számított 8 napon belül nyújtható be fellebbezés,
 
-b) az állomány tagja halálának a szolgálati kötelmekkel való összefüggése kérdésében hozott első fokú határozat ellen a közeli hozzátartozó nyújthat be fellebbezést.
+b) az állomány tagja halálának a szolgálati kötelmekkel való összefüggése kérdésében hozott első fokú határozat ellen a közeli hozzátartozó vagy élettárs nyújthat be fellebbezést.
 
 (3) Nincs helye fellebbezésnek
 

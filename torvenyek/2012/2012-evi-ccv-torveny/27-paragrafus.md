@@ -24,4 +24,4 @@ b) érdekegyeztetés a véleménycsere és a párbeszéd, amelyet a kezdeményez
 
 (6) A Honvédség nem köteles tájékoztatást adni vagy érdekegyeztetést folytatni, ha ez olyan tény, információ, megoldás vagy adat nyilvánosságra kerülésével járhat, amely a szolgálati érdeket, a Honvédség jogszerű és rendeltetésszerű működését, a közbizalom fenntartását, valamint a szolgálati feladatok ellátását veszélyezteti.
 
-(7) A szakszervezet nevében vagy érdekében eljáró személy a tevékenysége során tudomására jutott, közérdekű adatnak nem minősülő tényt, információt, megoldást vagy adatot a személyhez fűződő jogok megsértése, valamint a honvédelmi és a nemzetbiztonsági érdek veszélyeztetése nélkül hozhatja nyilvánosságra.
+(7) A szakszervezet nevében vagy érdekében eljáró személy a tevékenysége során tudomására jutott, közérdekű adatnak nem minősülő tényt, információt, megoldást vagy adatot a személyiségi jogok megsértése, valamint a honvédelmi és a nemzetbiztonsági érdek veszélyeztetése nélkül hozhatja nyilvánosságra.

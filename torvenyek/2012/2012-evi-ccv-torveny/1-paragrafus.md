@@ -6,6 +6,6 @@
 
 1. § (1) E törvény hatálya a hivatásos és a szerződéses állományú katonákra (a továbbiakban együtt: állomány tagja), a tényleges szolgálatot teljesítő önkéntes tartalékos katonákra, a honvéd tisztjelöltekre, és a honvéd altiszt-jelöltekre terjed ki.
 
-(2) E törvény hatálya az önkéntes tartalékos katonákra a rendelkezésre állás időszakában, a nyugállományú katonákra, valamint az állomány tagja és a nyugállományú katonák közeli hozzátartozójára akkor terjed ki, ha ezt a törvény elrendeli.
+(2) E törvény hatálya az önkéntes tartalékos katonákra a rendelkezésre állás időszakában, a nyugállományú katonákra, valamint az állomány tagja és a nyugállományú katonák közeli hozzátartozójára, élettársára akkor terjed ki, ha ezt a törvény elrendeli.
 
-(3) A 178. § és a 238. § (2) bekezdés 35. pontjának hatálya kiterjed a hadkötelezettség alapján szolgálatot teljesített személyekre és közeli hozzátartozójukra.
+(3) A 178. § és a 238. § (2) bekezdés 35. pontjának hatálya kiterjed a hadkötelezettség alapján szolgálatot teljesített személyekre, közeli hozzátartozójukra és élettársukra.

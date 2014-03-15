@@ -4,7 +4,7 @@
 
 a) a betegség és az egészségügyi szabadság, valamint az egészségi okból megkezdett orvos-bizottsági alkalmassági felülvizsgálat ideje,
 
-b) a beteg gyermek ápolásának ideje vagy ilyen célból, továbbá a közeli hozzátartozó otthoni ápolása vagy gondozása céljából kapott illetmény nélküli szabadság,
+b) a beteg gyermek ápolásának ideje vagy ilyen célból, továbbá a közeli hozzátartozó vagy élettárs otthoni ápolása vagy gondozása céljából kapott illetmény nélküli szabadság,
 
 c) a várandósság ideje,
 

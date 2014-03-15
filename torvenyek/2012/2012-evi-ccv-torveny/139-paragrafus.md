@@ -6,6 +6,6 @@
 
 (3) A munkáltatói jogkört gyakorló az állomány azon elhunyt tagját, akit az (1) vagy a (2) bekezdés alapján nem minősítettek, a „Katonai szolgálat halottjává” nyilváníthatja.
 
-(4) A kegyelet hivatalos kifejezéseként az elhunytat a minősítéstől függően a végtisztesség megadásaként katonai tiszteletadással, és – az intézkedésre jogosult közeli hozzátartozó kérésének megfelelően – vallási közösség által végzett szertartással vagy polgári szertartással kell eltemetni.
+(4) A kegyelet hivatalos kifejezéseként az elhunytat a minősítéstől függően a végtisztesség megadásaként katonai tiszteletadással, és – az intézkedésre jogosult közeli hozzátartozó vagy élettárs kérésének megfelelően – vallási közösség által végzett szertartással vagy polgári szertartással kell eltemetni.
 
 (5) A kegyeleti minősítés szempontjait és feltételeit, a (4) bekezdés szerinti katonai temetés feltételeit, és a Honvédség által a kegyeleti gondoskodás keretében nyújtott költségtérítéseket, igénybevételük módját és feltételeit miniszteri rendelet határozza meg.

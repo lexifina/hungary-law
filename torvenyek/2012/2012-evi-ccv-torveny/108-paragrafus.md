@@ -8,7 +8,7 @@ b) a bíróság vagy a hatóság felhívására, vagy az eljárásban való szem
 
 c) a különös méltánylást érdemlő személyi, családi vagy elháríthatatlan ok miatt indokolt távollét időtartamára,
 
-d) a közeli hozzátartozója halálakor, esetenként legalább 2 munkanapra,
+d) közeli hozzátartozója vagy élettársa halálakor, esetenként legalább 2 munkanapra,
 
 e) az orvosi vizsgálat teljes időtartamára, továbbá az egészségügyi szabadságot nem igénylő egészségügyi kezelések időtartamára,
 

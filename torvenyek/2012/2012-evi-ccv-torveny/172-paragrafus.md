@@ -6,7 +6,7 @@
 
 (3) Nem kell megtéríteni a kárnak azt a részét, amelyet az állomány tagjának vétkes magatartása idézett elő, vagy amely abból származott, hogy az állomány tagja a kárenyhítési kötelezettségének nem tett eleget.
 
-(4) A Honvédséggel szembeni kárigény érvényesítésére vonatkozó rendelkezések alkalmazása során az állomány tagján túl károsultnak minősül az állomány tagját ért kár miatt kárigényt érvényesítő közeli hozzátartozó is.
+(4) A Honvédséggel szembeni kárigény érvényesítésére vonatkozó rendelkezések alkalmazása során az állomány tagján túl károsultnak minősül az állomány tagját ért kár miatt kárigényt érvényesítő közeli hozzátartozó vagy élettárs is.
 
 (5) Az állomány tagjának kell bizonyítania a kár bekövetkezését, mértékét, továbbá azt, hogy az a szolgálati viszonnyal összefüggésben keletkezett. A szolgálati viszony körébe tartoznak különösen a Honvédség feladatainak ellátásával összefüggő magatartásból, a használt anyag, felszerelés, berendezés és energia tulajdonságából, állapotából, mozgásából és működéséből eredő okok. Ha az állomány tagja a tevékenységét rendeltetésszerűen a szolgálati helyen kívül is ellátja, az e körben történt károsodásának okát működési körön belül esőnek kell tekinteni.
 

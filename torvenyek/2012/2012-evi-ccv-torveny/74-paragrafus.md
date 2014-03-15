@@ -32,7 +32,7 @@ távolléti díjjal azonos. Tört időszak esetén a leszerelési segély mért�
 
 (3) A leszerelési segély mértékét csökkenteni kell az állomány tagjának korábban kifizetett toborzópénz és szerződés-hosszabbítási díj mértékével. Ismételten létesített szerződéses szolgálati viszony megszűnésekor, vagy a később létesített hivatásos szolgálati viszony felmentéssel történt megszüntetésekor a leszerelési segély – hivatásos szolgálati viszony esetében a végkielégítés – alapjául csak az újabb szolgálati viszonyban eltöltött időt lehet figyelembe venni.
 
-(4) Ha a szerződéses állomány tagja a szolgálatteljesítési kötelezettség alóli mentesítés ideje alatt bármely költségvetési szervvel vagy költségvetési szerv legalább többségi befolyása alatt álló bármely gazdálkodó szervezettel teljes vagy részmunkaidős jogviszonyt létesít,
+(4) Ha a szerződéses állomány tagja a szolgálatteljesítési kötelezettség alóli mentesítés ideje alatt bármely költségvetési szervvel vagy költségvetési szerv legalább többségi befolyása alatt álló bármely a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezettel teljes vagy részmunkaidős jogviszonyt létesít,
 
 a) ezt a tényt a korábban munkáltatói jogkört gyakorlónak köteles haladéktalanul írásban bejelenteni,
 
