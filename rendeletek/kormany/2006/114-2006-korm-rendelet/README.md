@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-114-20-
 | 2013-07-01 | 2006-114-20-22.14 | 172/2013. (V. 30.) Korm. rendelet |
 | 2013-10-01 | 2006-114-20-22.15 | 113/2013. (IV. 12.) Korm. rendelet |
 | 2014-02-11 | 2006-114-20-22.16 | 17/2014. (II. 3.) Korm. rendelet |
+| 2014-03-15 | 2006-114-20-22.17 | 68/2014. (III. 13.) Korm. rendelet |

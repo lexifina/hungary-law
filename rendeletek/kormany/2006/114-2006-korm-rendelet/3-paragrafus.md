@@ -62,13 +62,13 @@ d) azon pályázat, amely szerint a pályázó gazdálkodása, tevékenysége, s
 
 (13)[^22] A pontozásnál előnyt jelent, ha a pályázó közvetlen és közvetett többségi befolyással rendelkező tulajdonosai magánszemélyek, és ezen tulajdonosi szerkezet fenntartását vállalják a névjegyzékbe vételtől számított legalább hét évig. További előnyt jelent, ha a magánszemély tagok (részvényesek) a létesítő okiratban személyes közreműködésként a felszámolással, vagyonfelügyelettel, pénzügyi gondnoki tevékenységgel, végelszámolással, kényszer-végelszámolással, vagyonrendezési eljárással összefüggő szakmai tevékenységet végeznek, és/vagy ezt vállalják legalább hét éves időtartamra a társasági szerződésben (alapító okiratban, alapszabályban).
 
-(14) A pályázónak kötelezettséget kell vállalnia arra, hogy átalakulás és szervezeti formaváltás esetén is érvényesíti az e § szerinti vállalásaival összefüggő követelményeket.
+(14)[^23] A pályázónak kötelezettséget kell vállalnia arra, hogy átalakulás és szervezeti formaváltás esetén is érvényesíti az e § szerinti vállalásaival összefüggő követelményeket.
 
-(15)[^23] A pályázónak az általa benyújtott adatok, nyilatkozatok valóságtartalmát az értékelő bizottság felhívására, az értékelő bizottság által meghatározott határidőn belül igazolnia kell. Amennyiben a pályázó valótlan adatot szolgáltatott, valótlan tartalmú dokumentumot nyújtott be, önhibájából valótlan nyilatkozatot tett, vagy a felhívásra a megszabott határidőn belül nem igazolja az általa szolgáltatott adatok helyességét, nyilatkozatok valódiságát, a pályázatból kizárásra kerül.
+(15)[^24] A pályázónak az általa benyújtott adatok, nyilatkozatok valóságtartalmát az értékelő bizottság felhívására, az értékelő bizottság által meghatározott határidőn belül igazolnia kell. Amennyiben a pályázó valótlan adatot szolgáltatott, valótlan tartalmú dokumentumot nyújtott be, önhibájából valótlan nyilatkozatot tett, vagy a felhívásra a megszabott határidőn belül nem igazolja az általa szolgáltatott adatok helyességét, nyilatkozatok valódiságát, a pályázatból kizárásra kerül.
 
-(15a)[^24] A pályázónak kötelezettséget kell vállalnia arra, hogy a jogszabályi és pályázati feltételek, valamint a kötelezettségvállalások teljesítéséről, meghiúsulásáról haladéktalanul adatot szolgáltat a névjegyzéket vezető szervnek. A pályázó tudomásul veszi, hogy ha a jogszabályi vagy pályázati feltételeknek nem felel meg, vagy ha felhívásra sem teljesíti a pályázatában vállalt többletfeltételeket, a névjegyzékből törlésre kerül.
+(15a)[^25] A pályázónak kötelezettséget kell vállalnia arra, hogy a jogszabályi és pályázati feltételek, valamint a kötelezettségvállalások teljesítéséről, meghiúsulásáról haladéktalanul adatot szolgáltat a névjegyzéket vezető szervnek. A pályázó tudomásul veszi, hogy ha a jogszabályi vagy pályázati feltételeknek nem felel meg, vagy ha felhívásra sem teljesíti a pályázatában vállalt többletfeltételeket, a névjegyzékből törlésre kerül.
 
-(16)[^25] A Kormány – az igazságügyért felelős miniszter és a belgazdaságért felelős miniszter együttes javaslatára – a pályázati felhívást tartalmazó személyügyi közleményében a pályázat elbírálásához keretszámot határoz meg, amelyet a bíróságoknak – az Országos Bírósági Hivatal elnöke útján jelzett – csőd-, felszámolási és vagyonrendezési ügyszáma alapján, valamint a felszámoló szervezetek jogszabályi feladatainak változására figyelemmel állapít meg.
+(16)[^26] A Kormány – az igazságügyért felelős miniszter és a belgazdaságért felelős miniszter együttes javaslatára – a pályázati felhívást tartalmazó személyügyi közleményében a pályázat elbírálásához keretszámot határoz meg, amelyet a bíróságoknak – az Országos Bírósági Hivatal elnöke útján jelzett – csőd-, felszámolási és vagyonrendezési ügyszáma alapján, valamint a felszámoló szervezetek jogszabályi feladatainak változására figyelemmel állapít meg.
 
 [^10]: A 3. § a 169/2012. (VII. 20.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^11]: A 3. § (2) bekezdése a 113/2013. (IV. 12.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
@@ -83,6 +83,7 @@ d) azon pályázat, amely szerint a pályázó gazdálkodása, tevékenysége, s
 [^20]: A 3. § (11) bekezdése a 113/2013. (IV. 12.) Korm. rendelet 1. § (5) bekezdésével megállapított szöveg.
 [^21]: A 3. § (12) bekezdése a 113/2013. (IV. 12.) Korm. rendelet 1. § (5) bekezdésével megállapított szöveg.
 [^22]: A 3. § (13) bekezdése a 113/2013. (IV. 12.) Korm. rendelet 1. § (5) bekezdésével megállapított szöveg.
-[^23]: A 3. § (15) bekezdése a 113/2013. (IV. 12.) Korm. rendelet 1. § (6) bekezdésével megállapított szöveg.
-[^24]: A 3. § (15a) bekezdését a 113/2013. (IV. 12.) Korm. rendelet 1. § (7) bekezdése iktatta be.
-[^25]: A 3. § (16) bekezdése a 113/2013. (IV. 12.) Korm. rendelet 1. § (8) bekezdésével megállapított szöveg.
+[^23]: [A 3. § (14) bekezdésének a 68/2014. (III. 13.) Korm. rendelet 4. § (5) bekezdés b) pontjával elrendelt módosítása, amely szerint az „átalakulás vagy szervezeti formaváltás” szövegrész helyébe az „átalakulás, egyesülés, szétválás” szöveg lép, nem vezethető át.]
+[^24]: A 3. § (15) bekezdése a 113/2013. (IV. 12.) Korm. rendelet 1. § (6) bekezdésével megállapított szöveg.
+[^25]: A 3. § (15a) bekezdését a 113/2013. (IV. 12.) Korm. rendelet 1. § (7) bekezdése iktatta be.
+[^26]: A 3. § (16) bekezdése a 113/2013. (IV. 12.) Korm. rendelet 1. § (8) bekezdésével megállapított szöveg.
