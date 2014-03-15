@@ -1,0 +1,3 @@
+4. § (1) A Ptk. 3:273. § (2) bekezdés szerinti, a közgyűlés kezdőnapját megelőző második munkanapon a részvénykönyv vezetője 18 óráig biztosítani köteles azt, hogy a részvényes a részvénykönyvi bejegyzésére vonatkozó részvényesi jogát gyakorolni tudja.
+
+(2) A részvénykönyvbe való betekintés során a részvénytársaság köteles tájékoztatni a betekintőt, ha a részvénykönyv vezetésére tulajdonosi megfeleltetést kezdeményezett, továbbá zártkörűen működő részvénytársaság esetén a 3. § (2) bekezdés szerinti alapszabályi rendelkezésekről is. Ha a részvénykönyv a tulajdonosi megfeleltetés adatait tartalmazza, a részvénykönyv vezetője köteles tájékoztatni a betekintőt a legutóbbi tulajdonosi megfeleltetés fordulónapjáról.
