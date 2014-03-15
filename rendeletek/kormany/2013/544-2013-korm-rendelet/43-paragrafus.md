@@ -2,12 +2,15 @@
 
 ## 43. § Hatályát veszti a KR.
 
-a)–c)[^17]
+a)–c)[^11]
 
-d)–f)[^18]
+d) 19. melléklet II. fejezet 1. pont B) pontjának c) alpontja,
 
-g)[^19]
+e) 19. melléklet II. fejezet 2. pont B) pontjának c) alpontja,
 
-[^17]: A 42. § a)–c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^18]: A 43. § d)–f) pontja a 44. § (2) bekezdés alapján 2014. március 15-én lép hatályba.
-[^19]: A 42. § g) pontja 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+f) 19. melléklet II. fejezet 3. pont B) pontjának d) alpontja,
+
+g)[^12]
+
+[^11]: A 42. § a)–c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 42. § g) pontja 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

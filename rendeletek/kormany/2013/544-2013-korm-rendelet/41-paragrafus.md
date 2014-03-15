@@ -1,9 +1,8 @@
-## 35–40. §[^9]
+## 35–40. §[^6]
 
-41. § (1)–(2)[^10]
+41. § (1)–(2)[^7]
 
-(3)[^11]
+(3) A KR. 19. melléklete a 3. melléklet szerint módosul.
 
-[^9]: A 35–40. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^10]: A 41. § (1)–(2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^11]: A 41. § (3) bekezdése a 44. § (2) bekezdés alapján 2014. március 15-én lép hatályba.
+[^6]: A 35–40. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 41. § (1)–(2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
