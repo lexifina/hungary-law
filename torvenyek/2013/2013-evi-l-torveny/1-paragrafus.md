@@ -10,11 +10,11 @@
 
 2. adatfeldolgozás: az adatkezeléshez kapcsolódó technikai feladatok elvégzése;
 
-3. adatfeldolgozó: az a természetes személy, jogi személy, jogi személyiséggel nem rendelkező gazdasági társaság vagy egyéni vállalkozó, aki vagy amely az adatkezelő részére adatfeldolgozást végez;
+3. adatfeldolgozó: az a természetes személy, jogi személy vagy egyéni vállalkozó, aki vagy amely az adatkezelő részére adatfeldolgozást végez;
 
 4. adatkezelés: az alkalmazott eljárástól függetlenül az adatokon végzett bármely művelet vagy a műveletek összessége, így különösen gyűjtése, felvétele, rögzítése, rendszerezése, tárolása, megváltoztatása, felhasználása, lekérdezése, továbbítása, nyilvánosságra hozatala, összehangolása vagy összekapcsolása, zárolása, törlése és megsemmisítése, valamint az adatok további felhasználásának megakadályozása;
 
-5. adatkezelő: az a természetes személy, jogi személy, jogi személyiséggel nem rendelkező gazdasági társaság vagy egyéni vállalkozó, aki vagy amely az adatkezelést végzi;
+5. adatkezelő: az a természetes személy, jogi személy vagy egyéni vállalkozó, aki vagy amely az adatkezelést végzi;
 
 6. adminisztratív védelem: a védelem érdekében hozott szervezési, szabályozási, ellenőrzési intézkedések, továbbá a védelemre vonatkozó oktatás;
 
@@ -90,11 +90,11 @@
 
 42. számítógépes incidenskezelő központ: az Európai Hálózat- és Információbiztonsági Ügynökség ajánlásai szerint működő, számítástechnikai vészhelyzetekre reagáló egység, amely a nemzetközi hálózatbiztonsági, valamint kritikus információs infrastruktúrák védelmére szakosodott szervezetekben tagsággal és akkreditációval rendelkezik [(európai használatban: CSIRT (Computer Security Incident Response Team), amerikai használatban: CERT (Computer Emergency Response Team)];
 
-43. szervezet: az adatkezelést vagy adatfeldolgozást végző jogi személy, valamint jogi személyiséggel nem rendelkező gazdasági társaság, egyéni vállalkozó;
+43. szervezet: az adatkezelést vagy adatfeldolgozást végző jogi személy, valamint egyéni vállalkozó;
 
 44. teljes körű védelem: az elektronikus információs rendszer valamennyi elemére kiterjedő védelem;
 
-45. üzemeltető: az a természetes személy, jogi személy, jogi személyiséggel nem rendelkező gazdasági társaság vagy egyéni vállalkozó, aki vagy amely az elektronikus információs rendszer vagy annak részei működtetését végzi és a működésért felelős;
+45. üzemeltető: az a természetes személy, jogi személy vagy egyéni vállalkozó, aki vagy amely az elektronikus információs rendszer vagy annak részei működtetését végzi és a működésért felelős;
 
 46. védelmi feladatok: megelőzés és korai figyelmeztetés, észlelés, reagálás, eseménykezelés;
 
