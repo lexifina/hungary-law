@@ -1,4 +1,4 @@
-## 8. §[^7]
+## 8. §[^8]
 
 ## Családi napközit működtetők és házi gyermekfelügyeletet biztosító személyek részére szervezett tanfolyamok
 
@@ -12,4 +12,4 @@
 
 (5) A családi napközit működtetők és a házi gyermekfelügyeletet biztosító személyek részére szervezett tanfolyamok részletes tematikáját a 4., illetve az 5. számú mellékletek tartalmazzák. A tematikában meghatározott időkeretektől a csoport összetételét, érdeklődését és igényeit figyelembe véve el lehet térni. Az egyes témák feldolgozására szánt idő azonban ebben az esetben sem lehet kevesebb 2 óránál.
 
-[^7]: A 8. §-t és az azt megelőző alcímet a 83/2013. (XII. 29.) EMMI rendelet 33. § b) pontja hatályon kívül helyezte.
+[^8]: A 8. §-t és az azt megelőző alcímet a 83/2013. (XII. 29.) EMMI rendelet 33. § b) pontja hatályon kívül helyezte.
