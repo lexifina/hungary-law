@@ -1,4 +1,4 @@
-21. § (1) A kamarai tag egyidejűleg nem lehet az elnökség és a felügyelő bizottság tagja, továbbá az elnökség és a felügyelő bizottságok tagjai nem lehetnek egymás közeli hozzátartozói [Ptk. 685. § b) pontja], illetve munkakörükben egymás alá- és fölérendeltjei.
+21. § (1) A kamarai tag egyidejűleg nem lehet az elnökség és a felügyelő bizottság tagja, továbbá az elnökség és a felügyelő bizottságok tagjai nem lehetnek egymás közeli hozzátartozói, illetve munkakörükben egymás alá- és fölérendeltjei.
 
 (2) Az összeférhetetlenség fennállásának kérdésében a tisztségviselő választására jogosult testület foglal állást az illetékes etikai-fegyelmi bizottság véleménye alapján.
 

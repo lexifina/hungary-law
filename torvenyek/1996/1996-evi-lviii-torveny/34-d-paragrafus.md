@@ -1,6 +1,6 @@
 34/D. § (1) A fegyelmi tanács elnökeként és tagjaként nem járhat el:
 
-a) a panaszos, az eljárás alá vont személy és azok hozzátartozója [Ptk. 685. § b) pont],
+a) a panaszos, az eljárás alá vont személy és azok hozzátartozója [Ptk. 8:1. § (1) bekezdés 2. pont],
 
 b) aki jogerős fegyelmi büntetés hatálya alatt áll, vagy aki ellen büntetőeljárás van folyamatban, ennek jogerős befejezéséig, illetve ha az eljárás során büntetés kiszabására került sor, a büntetés alóli mentesítésig,
 
