@@ -1,4 +1,4 @@
-1. számú melléklet a 221/2008. (VIII. 30.) Korm. rendelethez[^23]
+1. számú melléklet a 221/2008. (VIII. 30.) Korm. rendelethez[^24]
 
 ## A helyszíni ellenőrzés során készített jegyzőkönyv tartalmi elemei
 
@@ -36,7 +36,7 @@ c) ha művelt mezőgazdasági terület: kultúrnövénnyel fedett/tarló/kaszál
 
 13. a kultúrnövény faja;
 
-14.[^24] a parlagfű felületi borítottságának és a kultúrnövény tőszámának megállapításához felvett egyes főbb töréspontok koordinátái, valamint e töréspontok környezetében kijelölt kvadrátok parlagfű borítottságának %-os mértéke, illetve a leszámolt tőszám;
+14.[^25] a parlagfű felületi borítottságának és a kultúrnövény tőszámának megállapításához felvett egyes főbb töréspontok koordinátái, valamint e töréspontok környezetében kijelölt kvadrátok parlagfű borítottságának %-os mértéke, illetve a leszámolt tőszám;
 
 15. a parlagfűvel való felületi borítottság (%);
 
@@ -46,5 +46,5 @@ c) ha művelt mezőgazdasági terület: kultúrnövénnyel fedett/tarló/kaszál
 
 18. a jegyzőkönyv mellékleteinek megnevezése.
 
-[^23]: Az 1. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 639. § (2) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^24]: Az 1. számú melléklet 14. pontja a 189/2013. (VI. 7.) Korm. rendelet 6. § (5) bekezdés e) pontja szerint módosított szöveg.
+[^24]: Az 1. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 639. § (2) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^25]: Az 1. számú melléklet 14. pontja a 189/2013. (VI. 7.) Korm. rendelet 6. § (5) bekezdés e) pontja szerint módosított szöveg.
