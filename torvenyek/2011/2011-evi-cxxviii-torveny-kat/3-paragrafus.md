@@ -10,6 +10,8 @@
 
 4. Dominóhatás: a veszélyes anyagokkal foglalkozó létesítményben bekövetkező olyan baleset, amely a közelben lévő más, veszélyes anyagokkal foglalkozó üzemre átterjedve a veszélyes anyagokkal kapcsolatos súlyos balesetek valószínűségét és lehetőségét megnöveli vagy a bekövetkezett veszélyes anyagokkal kapcsolatos súlyos baleset következményeit súlyosbítja.
 
+4a. Gazdálkodó szervezet: a polgári perrendtartásról szóló törvényben meghatározott gazdálkodó szervezet.
+
 5. Katasztrófa: a veszélyhelyzet kihirdetésére alkalmas, illetve e helyzet kihirdetését el nem érő mértékű olyan állapot vagy helyzet, amely emberek életét, egészségét, anyagi értékeiket, a lakosság alapvető ellátását, a természeti környezetet, a természeti értékeket olyan módon vagy mértékben veszélyezteti, károsítja, hogy a kár megelőzése, elhárítása vagy a következmények felszámolása meghaladja az erre rendelt szervezetek előírt együttműködési rendben történő védekezési lehetőségeit, és különleges intézkedések bevezetését, valamint az önkormányzatok és az állami szervek folyamatos és szigorúan összehangolt együttműködését, illetve nemzetközi segítség igénybevételét igényli.
 
 6. Katasztrófasegély: a katasztrófák következményeinek felszámolása érdekében a katasztrófa károsító hatása által érintett területen az alapvető életfeltételeknek a központi költségvetésben létrehozott tartalékból történő biztosítása.
