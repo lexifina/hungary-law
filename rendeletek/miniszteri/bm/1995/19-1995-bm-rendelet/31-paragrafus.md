@@ -2,7 +2,7 @@
 
 ## 31. § Fogdaőri szolgálatot az láthat el, aki
 
-a)[^69]
+a)[^71]
 
 b) alapvizsgát tett a fogvatartásra és az őrzésre vonatkozó hatályos rendelkezésekből, valamint az elsősegély-nyújtási alapismeretekből,
 
@@ -12,4 +12,4 @@ d) fogdaszolgálati fegyelemsértés miatt nem áll fegyelmi eljárás hatálya 
 
 e) a fogdaőri szolgálatra egészségileg és fizikailag alkalmas.
 
-[^69]: A 31. § a) pontját hatályon kívül helyezte a Magyar Közlöny 1998. évi 84. száma által helyesbített 41/1998. (IX. 11.) BM rendelet 4. §-a.
+[^71]: A 31. § a) pontját hatályon kívül helyezte a Magyar Közlöny 1998. évi 84. száma által helyesbített 41/1998. (IX. 11.) BM rendelet 4. §-a.

@@ -1,6 +1,6 @@
 ## A fogvatartottal szemben alkalmazható kényszerítő eszközök
 
-30. § (1)[^68] A fogvatartottal szemben az Rtv. 47—50. §-aiban, valamint az 52. §-ban meghatározott kényszerítő eszközök a rendőrség szolgálati szabályzatáról szóló 30/2011. (IX. 22.) BM rendelet (a továbbiakban: 30/2011. BM rendelet) kényszerítő eszközökre vonatkozó szabályai szerint alkalmazhatóak.
+30. § (1)[^70] A fogvatartottal szemben az Rtv. 47—50. §-aiban, valamint az 52. §-ban meghatározott kényszerítő eszközök a rendőrség szolgálati szabályzatáról szóló 30/2011. (IX. 22.) BM rendelet (a továbbiakban: 30/2011. BM rendelet) kényszerítő eszközökre vonatkozó szabályai szerint alkalmazhatóak.
 
 (2) Bilincseléshez csak a rendszeresített bilincs használható, lánc és vaspánt még helyettesíthető eszközként sem vehető igénybe.
 
@@ -18,4 +18,4 @@ e) ha alkalmazásának törvényes indoka már nem áll fenn.
 
 (4) A kényszerítő eszközök alkalmazása során az Rtv. 61. §-ának (1) és (2) bekezdésében foglaltak szerint kell eljárni.
 
-[^68]: A 30. § (1) bekezdése a 34/2013. (VI. 30.) BM rendelet 9. § g) pontja szerint módosított szöveg.
+[^70]: A 30. § (1) bekezdése a 34/2013. (VI. 30.) BM rendelet 9. § g) pontja szerint módosított szöveg.
