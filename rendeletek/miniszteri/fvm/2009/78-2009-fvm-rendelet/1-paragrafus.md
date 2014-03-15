@@ -4,7 +4,7 @@
 
 a) mezőgazdasági tevékenység: mezőgazdasági termékek termelése, tenyésztése vagy művelése, ideértve a betakarítást, a fejést, az állattenyésztést és a mezőgazdasági célból történő állattartást (TEÁOR 08: 011, 012, 014, 015, 016), valamint a mezőgazdasági földterületek helyes mezőgazdasági és környezeti állapotban tartását;
 
-b)[^1] mezőgazdasági vállalkozás: olyan természetes vagy jogi személy, jogi személyiséggel nem rendelkező gazdasági társaság, akinek, illetve amelynek mezőgazdasági üzeme (egy adott mezőgazdasági termelő által mezőgazdasági tevékenység folytatásához használt termelőegységek, különösen termőföld, állatállomány, gép, épület, berendezés összessége) Magyarország területén található, és amely mezőgazdasági tevékenységet folytat;
+b)[^1] mezőgazdasági vállalkozás: olyan természetes vagy jogi személy, jogi személyiséggel nem rendelkező szervezet, akinek, illetve amelynek mezőgazdasági üzeme (egy adott mezőgazdasági termelő által mezőgazdasági tevékenység folytatásához használt termelőegységek, különösen termőföld, állatállomány, gép, épület, berendezés összessége) Magyarország területén található, és amely mezőgazdasági tevékenységet folytat;
 
 c) beruházás: a számvitelről szóló 2000. évi C. törvény 3. §-a (4) bekezdésének 7. pontjában foglaltak szerinti ráfordítások összessége;
 
@@ -24,5 +24,5 @@ j)[^2] nehéz helyzetben lévő vállalkozás: az európai uniós versenyjogi é
 
 k) ÚMVP: Új Magyarország Vidékfejlesztési Program.
 
-[^1]: Az 1. § b) pontja az 5/2012. (II. 10.) VM rendelet 42. §-a szerint módosított szöveg.
+[^1]: Az 1. § b) pontja az 5/2012. (II. 10.) VM rendelet 42. §-a, a 22/2014. (III. 14.) VM rendelet 70. §-a szerint módosított szöveg.
 [^2]: Az 1. § j) pontja a 134/2012. (XII. 21.) VM rendelet 13. §-ával megállapított szöveg.
