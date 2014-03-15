@@ -1,0 +1,5 @@
+15. § (1) A bíróság a kérelmet nemperes eljárásban, soron kívül bírálja el; azokra az eljárási kérdésekre, amelyeket e rendelet külön nem szabályoz, a Polgári perrendtartásról szóló 1952. évi III. törvény és a végrehajtásáról szóló jogszabályok – a polgári nemperes eljárás sajátosságaiból eredő eltérésekkel – megfelelően irányadók.
+
+(2) Ha az a kérelem elbírálásához szükséges, a bíróság a kérelmezőt, a zálogkötelezettet, a zálogjogosultat és az egyéb értesítésre jogosultakat meghallgathatja. A bíróság a kérelem tárgyában a csatolt okiratok és az esetleges meghallgatás eredménye alapján dönt. Egyéb bizonyításnak az eljárásban nincs helye.
+
+(3) Ha a 14. § (1) bekezdés a) pont szerinti kérelem alaposnak mutatkozik, és a kérelmező jogainak védelme csak így biztosítható, erre irányuló kérelemre a bíróság a sérelmezett zálogjogosulti intézkedés folytatását – a határozatának meghozataláig terjedő időre – végzéssel azonnali hatállyal megtilthatja; a végzés elleni fellebbezésnek az intézkedés folytatásának megtiltására nézve nincs halasztó hatálya.
