@@ -4,7 +4,7 @@
 
 (2) A károsult kártérítési igényét a Kártalanítási Szervezettel szemben csak akkor érvényesítheti, ha
 
-a) a balesetet okozó gépjármű 37. § (4) bekezdése szerinti biztosítója vagy ennek kárrendezési megbízottja a károsult kárigényének benyújtását követő három hónap elteltével sem adott a kárigény-bejelentésben előterjesztettekre a 31. §-ban szabályozottaknak megfelelő választ,
+a) a balesetet okozó gépjármű 37. § (4) bekezdése szerinti biztosítója vagy ennek kárrendezési megbízottja a károsult kártérítési igényének benyújtását követő három hónap elteltével sem adott a kártérítési igénybejelentésben előterjesztettekre a 31. §-ban szabályozottaknak megfelelő választ,
 
 b) a 37. § (4) bekezdése szerinti biztosító nem nevezett ki kárrendezési megbízottat, kivéve, ha a károsult igényét közvetlenül a biztosítónál terjesztette elő, és az három hónapon belül a kártérítési igényre indokolt választ vagy indokolt kártérítési javaslatot adott, vagy
 

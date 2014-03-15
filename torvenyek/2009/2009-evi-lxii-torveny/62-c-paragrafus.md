@@ -1,0 +1,1 @@
+62/C. § Az egyes törvényeknek az új Polgári Törvénykönyv hatálybalépésével összefüggő módosításáról szóló 2013. évi CCLII. törvénnyel megállapított 3/A. §-ban foglaltak a 2014. március 15-én és ezt követően bekövetkezett káresemények vonatkozásában alkalmazandók.

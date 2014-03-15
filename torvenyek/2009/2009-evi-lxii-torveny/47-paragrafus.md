@@ -8,7 +8,7 @@ c) a 46. § (2) bekezdésében foglalt adatok tekintetében – az e törvénybe
 
 d) a 46. § (2) bekezdésében foglalt adatok tekintetében – a károk kezelése és rendezése céljából – a levelező, a káresemény időpontja szerinti adatokra vonatkozóan;
 
-e) a 46. § (2) bekezdésében foglalt adatok tekintetében – a kárigények érvényesítése érdekében adatok közlése és e törvényben meghatározott egyéb feladatok ellátása céljából – az Információs Központ, a káresemény időpontja szerinti adatokra vonatkozóan;
+e) a 46. § (2) bekezdésében foglalt adatok tekintetében – a kártérítési igények érvényesítése érdekében adatok közlése és e törvényben meghatározott egyéb feladatok ellátása céljából – az Információs Központ, a káresemény időpontja szerinti adatokra vonatkozóan;
 
 f) a 46. § (2) bekezdésében foglalt adatok tekintetében – törvényben meghatározott pénzügyi felügyeleti, ellenőrzési eljárások lefolytatása céljából – a Felügyelet, az adatigénylés időpontja szerinti és az adatigénylés időpontját megelőző, egy meghatározott időpont szerinti adatokra vonatkozóan;
 
@@ -30,7 +30,7 @@ lb) a közúti közlekedésről szóló törvényben meghatározott ellenőrző 
 
 m) a 46. § (2) bekezdésében foglalt adatok tekintetében – az Egészségbiztosítási Alapot, illetve a Nyugdíjbiztosítási Alapot megillető megtérítési követelések érvényesítése céljából – az egészségbiztosítási szerv és a nyugdíjbiztosítási szerv, a káresemény időpontja szerinti adatokra vonatkozóan;
 
-n) a 46. § (2) bekezdésének a) pontjában foglalt adatok tekintetében – jogának vagy jogos érdekének érvényesítése céljából, indokolt körben – bármely természetes személy, illetve jogi személy és jogi személyiséggel nem rendelkező szervezet a felhasználás céljának és jogalapjának igazolása mellett.
+n) a 46. § (2) bekezdésének a) pontjában foglalt adatok tekintetében – jogának vagy jogos érdekének érvényesítése céljából, indokolt körben – bármely természetes személy, illetve jogi személy, egyéni vállalkozó, egyéni cég a felhasználás céljának és jogalapjának igazolása mellett.
 
 (2) A kötvénynyilvántartó szerv az (1) bekezdés a)–e), l) és m) pontjában szereplő adatigénylők részére az adatszolgáltatást elektronikus úton – a kötvénynyilvántartó szerv és az adatigénylő közötti számítógépes kommunikációs kapcsolat segítségével – teljesíti.
 

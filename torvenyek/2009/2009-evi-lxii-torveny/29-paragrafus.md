@@ -2,4 +2,4 @@
 
 (2) A károsult a káreseményt – annak bekövetkeztétől, illetve a tudomásszerzéstől számított – 30 napon belül köteles bejelenteni a biztosítónak. A határidő elmulasztása esetén – kivéve, ha a károsult bizonyítja, hogy az önhibáján kívül történt – a késedelmes teljesítés jogkövetkezményei a káresemény bekövetkezése és a káresemény bejelentése közötti időszakra a biztosítóval, a kárrendezési megbízottal, a levelezővel, a Kártalanítási Számla kezelőjével, a kárképviselővel és a Nemzeti Irodával szemben nem alkalmazhatók.
 
-(3) A Kártalanítási Alap fedezi a károsultnak a felszámolás alatt álló biztosítóval szemben fennálló követelését a biztosítási szerződésben, valamint e törvényben a kárigények érvényesítésével kapcsolatos rendelkezések figyelembevételével.
+(3) A Kártalanítási Alap fedezi a károsultnak a felszámolás alatt álló biztosítóval szemben fennálló követelését a biztosítási szerződésben, valamint e törvényben a kártérítési igények érvényesítésével kapcsolatos rendelkezések figyelembevételével.

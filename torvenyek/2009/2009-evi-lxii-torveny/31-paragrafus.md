@@ -2,4 +2,4 @@
 
 a) kellően megindokolt kártérítési javaslatot tenni azokban az esetekben, amelyekben a felelősség nem vitás és a kárt a 13. § (1)–(2) bekezdésében foglaltaknak megfelelően, jogcímenként (beleértve a kamatra vonatkozó tájékoztatást) összegszerűen megállapította, vagy
 
-b) indoklással ellátott választ adni a kárigényben foglalt egyes követelésekre, azokban az esetekben, amikor a felelősséget nem ismeri el, vagy az nem egyértelmű, vagy a teljes kárt összegszerűen nem állapította meg.
+b) indoklással ellátott választ adni a kártérítési igényben foglalt egyes követelésekre, azokban az esetekben, amikor a felelősséget nem ismeri el, vagy az nem egyértelmű, vagy a teljes kárt összegszerűen nem állapította meg.

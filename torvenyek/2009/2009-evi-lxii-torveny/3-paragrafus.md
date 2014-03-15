@@ -20,7 +20,7 @@
 
 8/A. gazdasági totálkár: a káresemény következtében károsult gépjármű megjavíttatása gazdaságilag nem indokolható, mivel annak javítási, valamint a kár elhárításával kapcsolatos egyéb költségei, illetve a javítást követően esetlegesen fennmaradó értékcsökkenés összege a gépjármű károsodás időpontjában fennálló forgalmi értékének maradványértékkel (roncsértékkel) csökkentett összegét meghaladja.
 
-9. gépjárműflotta: egy adott biztosítónál ugyanazon – egyéni vállalkozó, jogi személy, jogi személyiség nélküli gazdasági társaság – szerződő üzemben tartó által biztosított gépjárművek együttesen kezelt csoportja, ha ezen gépjárművek darabszáma a biztosítási időszak kezdőnapján eléri az ötöt;
+9. gépjárműflotta: egy adott biztosítónál ugyanazon – jogi személy, egyéni vállalkozó, egyéni cég – szerződő üzemben tartó által biztosított gépjárművek együttesen kezelt csoportja, ha ezen gépjárművek darabszáma a biztosítási időszak kezdőnapján eléri az ötöt;
 
 10. gépjármű: a közúti forgalomban való részvétel feltételeként hatósági engedélyre és jelzésre kötelezett – a közúti közlekedés szabályairól szóló 1/1975. (II. 5.) KPM–BM együttes rendelet (KRESZ) 1. számú függelékének II. b) pontjában meghatározott – gépjármű, pótkocsi, félpótkocsi, mezőgazdasági vontató, négykerekű segédmotoros kerékpár (quad), lassú jármű és munkagép, továbbá a hatósági engedélyre és jelzésre nem kötelezett segédmotoros kerékpár;
 
@@ -34,7 +34,7 @@
 
 15. hozott kárelőzményi igazolás: más tagállam által előírt kötelezettség alapján megkötött gépjármű-felelősségbiztosítási szerződésre vonatkozó igazolás, amely tartalmazza az adott biztosítónál nyilvántartott időszakot, valamint a szerződés hatálya alatt harmadik személyeknek okozott és a más tagállami biztosító által az igazolás kiadásának napjáig elismert, vagy vele szemben jogerősen megítélt kártérítések alapjául szolgáló káresetek számát, időpontját, illetve a kármentesség tényét;
 
-16. Információs Központ: a gépjármű üzemeltetésével harmadik személyeknek okozott károkból eredő kárigények érvényesítése érdekében adatok közlése és e törvényben meghatározott egyéb feladatok ellátása érdekében létrehozott szervezet;
+16. Információs Központ: a gépjármű üzemeltetésével harmadik személyeknek okozott károkból eredő kártérítési igények érvényesítése érdekében adatok közlése és e törvényben meghatározott egyéb feladatok ellátása érdekében létrehozott szervezet;
 
 17. ismeretlen gépjármű: az a gépjármű, amely nem azonosítható, illetve utólag sem azonosítható, mivel elhagyta a baleset helyszínét, vagy azonosító adatokkal nem rendelkezik, illetve azokat meghamisították vagy nem felismerhetők;
 
@@ -42,13 +42,13 @@
 
 19. károsult: a gépjárművel okozott kár esetén kártérítésre jogosult személy vagy szervezet;
 
-20. kárrendezési megbízott: a gépjármű-felelősségbiztosítási tevékenységet végző biztosító székhely szerinti tagállamától eltérő tagállamban működő megbízottja, aki a biztosító által biztosított gépjármű üzemeltetésével kapcsolatban felmerült kárigényeket a károsult lakóhelye (székhelye) szerinti tagállamban kezeli és rendezi, valamint a biztosítót a károsulttal szemben képviseli;
+20. kárrendezési megbízott: a gépjármű-felelősségbiztosítási tevékenységet végző biztosító székhely szerinti tagállamától eltérő tagállamban működő megbízottja, aki a biztosító által biztosított gépjármű üzemeltetésével kapcsolatban felmerült kártérítési igényeket a károsult lakóhelye (székhelye) szerinti tagállamban kezeli és rendezi, valamint a biztosítót a károsulttal szemben képviseli;
 
 21. Kártalanítási Alap: az e törvény szerinti biztosítók által létrehozott és finanszírozott pénzalap, mely azon biztosítónál (a továbbiakban: felszámolás alatt álló biztosító) a károkozás időpontjában e törvény szerinti biztosítási szerződés alapján fedezettel rendelkező üzemben tartó gépjárművével okozott károk megtérítését fedezi, mellyel szemben a biztosító tevékenységét engedélyező tagállamban felszámolási eljárás megindult;
 
 22. Kártalanítási Számla (Garanciaalap): az e törvény szerinti biztosítók által létrehozott és folyamatosan finanszírozott pénzalap, amelynek feladata a biztosítási kötelezettség ellenére biztosítással nem rendelkező üzemben tartó gépjárműve által vagy az e törvényben meghatározott korlátozásokkal az ismeretlen üzemben tartó gépjárműve által, valamint az ismeretlen gépjárművel okozott károk megtérítése, amennyiben a kötelezettségvállalás országa Magyarország;
 
-23. kártalanítási szervezet: a gépjármű-felelősségbiztosítási tevékenységet végző biztosítók által a székhelyük szerinti tagállamban működtetett szervezet, amelynek feladata a belföldi károsult más tagállam területén telephellyel rendelkező gépjármű üzemeltetéséből eredően a zöldkártyarendszer valamely országában elszenvedett kára kapcsán a károkozó biztosítója vagy annak kárrendezési megbízottja kárrendezésének elmaradása esetén a kárigények elbírálása és kielégítése e törvényben meghatározott esetekben;
+23. kártalanítási szervezet: a gépjármű-felelősségbiztosítási tevékenységet végző biztosítók által a székhelyük szerinti tagállamban működtetett szervezet, amelynek feladata a belföldi károsult más tagállam területén telephellyel rendelkező gépjármű üzemeltetéséből eredően a zöldkártyarendszer valamely országában elszenvedett kára kapcsán a károkozó biztosítója vagy annak kárrendezési megbízottja kárrendezésének elmaradása esetén a kártérítési igények elbírálása és kielégítése e törvényben meghatározott esetekben;
 
 24. kötelezettségvállalás országa: bármely fajta gépjármű biztosítása esetén a
 
@@ -66,9 +66,9 @@ c) rendeltetés helye szerinti tagállam;
 
 28. rendeltetés helye szerinti tagállam: gépjármű tulajdonjogának átruházása esetén a tulajdonszerzést követően a rendelkezésre bocsátástól számított harmincnapos időtartam folyamán az – a gépjármű telephely szerinti országától eltérő – tagállam,
 
-a) ahol a tulajdont szerző természetes személy állandó lakóhelye, a jogi személy, jogi személyiség nélküli szervezet tulajdonszerzése esetén annak székhelye található, illetve
+a) ahol a tulajdont szerző természetes személy állandó lakóhelye, a jogi személy, egyéni vállalkozó, egyéni cég tulajdonszerzése esetén annak székhelye található, illetve
 
-b) amelyben a tulajdont szerző szokásos tartózkodási helye van, vagy ha a szerződő jogi személy, jogi személyiség nélküli szervezet, az a tagállam, amelyben a tulajdont szerzőnek a szerződéssel érintett telephelye, fióktelepe található;
+b) amelyben a tulajdont szerző szokásos tartózkodási helye van, vagy ha a szerződő jogi személy, egyéni vállalkozó, egyéni cég, az a tagállam, amelyben a tulajdont szerzőnek a szerződéssel érintett telephelye, fióktelepe található;
 
 29. Rendszámegyezmény: a nemzeti irodák között létrejött olyan megállapodás, amely alapján az egyezményben részes országok hatóságai a zöldkártyában megtestesülő igazolás helyett az illető országban megkövetelt gépjármű-felelősségbiztosítási fedezet igazolásául a jármű hatósági jelzését (forgalmi rendszámát) az országjellel együtt elfogadják;
 
@@ -82,7 +82,7 @@ b) amelyben a tulajdont szerző szokásos tartózkodási helye van, vagy ha a sz
 
 a) amelynek hatósága a gépjárművet állandó vagy ideiglenes hatósági jelzéssel ellátta, vagy
 
-b) amelyben a hatósági jelzés viselésére nem kötelezett gépjárművek esetében a tulajdonos vagy a gépjármű felett egyébként rendelkezési jogot gyakorló személy (jogi személy, jogi személyiség nélküli szervezet) állandó lakóhelye (székhelye), illetve szokásos tartózkodási helye (az érintett telephelye, fióktelepe) található;
+b) amelyben a hatósági jelzés viselésére nem kötelezett gépjárművek esetében a tulajdonos vagy a gépjármű felett egyébként rendelkezési jogot gyakorló személy (jogi személy, egyéni vállalkozó, egyéni cég) állandó lakóhelye (székhelye), illetve szokásos tartózkodási helye (az érintett telephelye, fióktelepe) található;
 
 34. türelmi idő: a díj esedékességétől számított hatvannapos időszak, melynek a díj megfizetése nélkül történő leteltével a szerződés – amennyiben egyéb okból még nem szűnt meg – díjnemfizetéssel megszűnik;
 

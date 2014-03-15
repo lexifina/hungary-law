@@ -12,7 +12,7 @@ a) a szerződő üzemben tartó, és a 36. § (8) bekezdés a), b) és e) pontj�
 
 aa) nevét, születési helyét, születési idejét, anyja nevét és lakcímét,
 
-ab) jogi személy és jogi személyiséggel nem rendelkező szervezet esetén annak megnevezését, továbbá cégjegyzékszámát vagy nyilvántartási számát, székhelyét, telephelyét, továbbá
+ab) jogi személy, egyéni cég, egyéni vállalkozó esetén annak megnevezését, továbbá cégjegyzékszámát vagy nyilvántartási számát, székhelyét, telephelyét, továbbá
 
 ac) 52. § (6) bekezdése szerint képzett kártörténeti rendszer azonosító számát;
 

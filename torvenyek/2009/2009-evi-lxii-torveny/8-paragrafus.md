@@ -6,4 +6,4 @@
 
 (4) A szerződésre a magyar jogot kell alkalmazni.
 
-(5) A szerződésre a Polgári Törvénykönyvről szóló törvény rendelkezései akkor alkalmazhatók, ha e törvény eltérő rendelkezést nem tartalmaz.
+(5) A szerződésre a Polgári Törvénykönyv rendelkezései akkor alkalmazhatók, ha e törvény eltérő rendelkezést nem tartalmaz.
