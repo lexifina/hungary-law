@@ -1,0 +1,1 @@
+## 50. § A 40. §-ban foglaltaktól eltérően a hitelbiztosítéki nyilatkozat tétele 2014. április 14. napjáig mentes a költségtérítés fizetése alól, eddig az időpontig a nyilatkozat megtételével a költségtérítés megfizetettnek tekintendő.

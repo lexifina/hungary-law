@@ -1,0 +1,11 @@
+A hitelbiztosítéki nyilvántartásról szóló 2013. évi CCXXI. törvény 32. § a) pontjában kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 12. § a) pontjában meghatározott feladatkörömben eljárva,
+
+az 1–21. §, a 23. §, a 26. §, a 29–31. §, a 33–36. §, a 38. §, a 39. §, a 46. §, a 47. § (1), (2) és (4)–(9) bekezdése, a 48. §, a 49. § és az 51–53. § tekintetében a hitelbiztosítéki nyilvántartásról szóló 2013. évi CCXXI. törvény 32. § b) pontjában kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 12. § a) pontjában meghatározott feladatkörömben eljárva,
+
+a 40–44. § és az 50. § tekintetében a hitelbiztosítéki nyilvántartásról szóló 2013. évi CCXXI. törvény 32. § c) pontjában kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 12. § a) pontjában meghatározott feladatkörömben eljárva, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 73. § c) pontjában meghatározott feladatkörében eljáró nemzetgazdasági miniszterrel egyetértésben,
+
+az 55. § tekintetében a közjegyzőkről szóló 1991. évi XLI. törvény 183. § e) pontjában kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 73. § c) pontjában meghatározott feladatkörében eljáró nemzetgazdasági miniszterrel egyetértésben az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 12. § a) pontjában meghatározott feladatkörömben eljárva és
+
+az 54. § és az 56. § tekintetében a közjegyzőkről szóló 1991. évi XLI. törvény 183. § d) pontjában kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 12. § a) pontjában meghatározott feladatkörömben eljárva
+
+a következőket rendelem el:

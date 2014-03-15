@@ -1,0 +1,1 @@
+## 53. § E rendelet alkalmazásában közfeladatot ellátó szerv a Hbnytv. 26. § (1) bekezdésében meghatározott szerv, amely közfeladatának ellátása során térítésmentesen (így különösen a felmerülő költségek megtérítése alól mentesen) adatot igényel.

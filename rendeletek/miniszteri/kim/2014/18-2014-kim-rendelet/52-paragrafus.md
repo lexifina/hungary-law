@@ -1,0 +1,1 @@
+## 51. § A 8. § (3) bekezdésben foglaltaktól eltérően 2014. április 16. napját megelőzően a felhasználók számára a hitelbiztosítéki rendszer felületén közzétett felhasználói szabályzat a közzététel napjától alkalmazandó.
