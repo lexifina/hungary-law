@@ -1,6 +1,6 @@
 ## 14. Egyes cégjogi eseményekre vonatkozó közös szabályok
 
-42. § (1) A Hivatal hozzájárulása szükséges a víziközmű-szolgáltatónak a gazdasági társaságokról szóló törvény szerinti egyesüléséhez, szétválásához (a továbbiakban együtt: átalakulás), alaptőkéjének vagy törzstőkéjének legalább egynegyed résszel történő leszállításához. A Hivatal nem tagadhatja meg az alaptőke vagy a törzstőke leszállításához való hozzájárulást, ha azt a víziközmű-szolgáltató számára jogszabály kötelezővé teszi.
+42. § (1) A Hivatal hozzájárulása szükséges a víziközmű-szolgáltatónak a Polgári Törvénykönyv szerinti egyesüléséhez, szétválásához, alaptőkéjének vagy törzstőkéjének legalább egynegyed résszel történő leszállításához. A Hivatal nem tagadhatja meg az alaptőke vagy a törzstőke leszállításához való hozzájárulást, ha azt a víziközmű-szolgáltató számára jogszabály kötelezővé teszi.
 
 (2) A Hivatal hozzájárulása szükséges bármely víziközmű-szolgáltatóban a szavazatok huszonöt vagy ötven százalékát meghaladó, illetve hetvenöt százalékát elérő befolyás szerzéséhez, és az ehhez fűződő jogok gyakorlásához.
 

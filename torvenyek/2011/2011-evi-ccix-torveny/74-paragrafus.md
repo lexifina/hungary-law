@@ -24,7 +24,7 @@
 
 9. a víziközmű-szolgáltató kötelezettségei teljesítésével kapcsolatos áruk és szolgáltatások körét, a beszerzésre, a kiválasztásra és a megbízásra vonatkozó feltételeket és eljárásokat;
 
-10. a víziközmű-szolgáltató és a felhasználó közötti jogviszony részletes szabályait, a közüzemi szerződés minimális tartalmi követelményeit, valamint a szerződésszegés eseteit és jogkövetkezményeit, továbbá az elkülönített vízhasználóra vonatkozó részletes szabályokat;
+10. a víziközmű-szolgáltató és a felhasználó közötti jogviszony részletes szabályait, a közszolgáltatási szerződés minimális tartalmi követelményeit, valamint a szerződésszegés eseteit és jogkövetkezményeit, továbbá az elkülönített vízhasználóra vonatkozó részletes szabályokat;
 
 11. az üzletszabályzat kötelező tartalmi elemeit, benyújtásának formai követelményeit, valamint a jóváhagyás szempontjait;
 
@@ -38,7 +38,7 @@
 
 16. a víziközműves kapcsolódó szolgáltatás körében az ivóvíz átadási árszerkezetét, valamint az átvett szennyvíz kezelési díjainak szerkezetét;
 
-17. a Hivatal eljárásában közreműködő szakhatóság kijelölését,
+17.
 
 18. a víziközmű-fejlesztési hozzájárulás alkalmazásának részletes szabályait;
 

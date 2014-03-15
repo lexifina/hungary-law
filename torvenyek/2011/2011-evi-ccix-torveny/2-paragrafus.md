@@ -70,7 +70,7 @@ c) átadási pontokkal egyértelműen körülhatárolt, a kapcsolódó szolgált
 
 d) átadási pontokkal egyértelműen körülhatárolt, kapcsolódó szolgáltatással kiegészülve egy településre nézve, vagy azonos tulajdoni viszonyok mellett több településre nézve, képes biztosítani a víziközmű-szolgáltatás műszaki feltételeit,
 
-24. víziközmű-szolgáltatás: a közműves ivóvízellátás az ahhoz kapcsolódó tűzivíz biztosítással, továbbá a közműves szennyvízelvezetés és -tisztítás, ide értve az egyesített rendszerű csapadékvíz-elvezetést is, mely tevékenységek által megnyilvánuló szolgáltatások közül az egyiket, vagy mindkettőt a víziközmű-szolgáltató a felhasználó részére közüzemi jogviszony keretében nyújtja (a továbbiakban együtt: víziközmű-szolgáltatási ágazatok),
+24. víziközmű-szolgáltatás: a közműves ivóvízellátás az ahhoz kapcsolódó tűzivíz biztosítással, továbbá a közműves szennyvízelvezetés és -tisztítás, ide értve az egyesített rendszerű csapadékvíz-elvezetést is, mely tevékenységek által megnyilvánuló szolgáltatások közül az egyiket, vagy mindkettőt a víziközmű-szolgáltató a felhasználó részére közszolgáltatási jogviszony keretében nyújtja (a továbbiakban együtt: víziközmű-szolgáltatási ágazatok),
 
 25. víziközmű-szolgáltatásba bekapcsolt ingatlan: az az ingatlan vagy ingatlanrész
 
@@ -78,7 +78,7 @@ a) amelyen legalább egy olyan vízvételi hely található, amely a közműves 
 
 b) amelyen a keletkező szennyvíz részben, vagy egészben történő elvezetése érdekében a szennyvíz-bekötővezeték, vagy a szennyvíz bekötővezeték és a csatlakozó szennyvízhálózat kiépült,
 
-26. víziközmű üzemeltetése: a víziközmű-szolgáltatás nyújtása céljából a víziközmű-szolgáltató által végzett mindazon tevékenységek összessége, amelyek a jogszabályokban és az üzemeltetési szerződésben előírt követelmények teljesítése érdekében okszerűen merülnek fel, különösen a víziközmű műszaki értelemben vett napi üzemben tartása, karbantartása és javítása, közüzemiszerződés-kötés, számlázás, ügyfélszolgálat működtetése,
+26. víziközmű üzemeltetése: a víziközmű-szolgáltatás nyújtása céljából a víziközmű-szolgáltató által végzett mindazon tevékenységek összessége, amelyek a jogszabályokban és az üzemeltetési szerződésben előírt követelmények teljesítése érdekében okszerűen merülnek fel, különösen a víziközmű műszaki értelemben vett napi üzemben tartása, karbantartása és javítása, közszolgáltatási szerződés-kötés, számlázás, ügyfélszolgálat működtetése,
 
 27. víziközműves kapcsolódó szolgáltatás: szerződés alapján a víziközmű-szolgáltató által más víziközmű-szolgáltató részére nyújtott ivóvíz-értékesítési vagy szennyvízelvezetési és -tisztítási szolgáltatás,
 
@@ -86,4 +86,6 @@ b) amelyen a keletkező szennyvíz részben, vagy egészben történő elvezeté
 
 29. védendő felhasználó: az a természetes személy felhasználó, ideértve a mellékvízmérővel rendelkező elkülönített vízhasználót, valamint a fogyatékkal élő felhasználót is, aki jogszabályban meghatározott szociális helyzete alapján a víziközmű-szolgáltatásban megkülönböztetett feltételek szerint vehet részt,
 
-30. fogyatékkal élő felhasználó: a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló törvény szerinti fogyatékossági támogatásban részesülő személy, a vakok személyi járadékában részesülő személy, továbbá az a személy, akinek életét vagy egészségét a víziközmű-szolgáltatás felfüggesztése vagy annak korlátozása közvetlenül veszélyezteti.
+30. fogyatékkal élő felhasználó: a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló törvény szerinti fogyatékossági támogatásban részesülő személy, a vakok személyi járadékában részesülő személy, továbbá az a személy, akinek életét vagy egészségét a víziközmű-szolgáltatás felfüggesztése vagy annak korlátozása közvetlenül veszélyezteti,
+
+31. gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet.

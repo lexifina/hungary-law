@@ -2,7 +2,7 @@
 
 (2) A kiszervezés nem eredményezheti azt, hogy az engedélyezési kötelezettség alá eső kiszervezett tevékenységek szerződési értékének összege az adott évben, a víziközmű-szolgáltatásból származó előző évi nettó árbevétel tíz százalékát meghaladja.
 
-(3) Kiszervezett tevékenységet kizárólag a nemzeti vagyonról szóló törvény szerinti átlátható gazdálkodó szervezet végezhet. Kiszervezés esetében a víziközmű-szolgáltató úgy felel a jogszabályban vagy hatósági határozatban meghatározott kötelezettségei teljesítéséért, mintha az adott tevékenységet maga végezné.
+(3) Kiszervezett tevékenységet kizárólag a nemzeti vagyonról szóló törvény szerinti átlátható gazdálkodó szervezet végezhet.
 
 (4) A kiszervezés mértékének a (2) bekezdésben foglalt korlátozásába nem számít bele, amennyiben a kiszervezés 2012. július 15. napján víziközmű-szolgáltatást végző gazdálkodó szervezet irányába, az alábbi tevékenységek tekintetében történik:
 

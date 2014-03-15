@@ -1,12 +1,12 @@
-53. § (1) Adott felhasználási hely tekintetében a közüzemi szerződés megszűnik, ha
+53. § (1) Adott felhasználási hely tekintetében a közszolgáltatási szerződés megszűnik, ha
 
-a) a felhasználó személyének megváltozása miatt a felhasználási helyre nézve a víziközmű-szolgáltató új közüzemi szerződést kötött,
+a) a felhasználó személyének megváltozása miatt a felhasználási helyre nézve a víziközmű-szolgáltató új közszolgáltatási szerződést kötött,
 
 b) a felhasználási hely megszűnt, vagy
 
-c) a víziközmű-szolgáltató a közüzemi szerződést a (2) bekezdésben meghatározott okból azonnali hatállyal felmondta.
+c) a víziközmű-szolgáltató a közszolgáltatási szerződést a (2) bekezdésben meghatározott okból azonnali hatállyal felmondta.
 
-(2) A közüzemi szerződést a víziközmű-szolgáltató azonnali hatállyal kizárólag akkor mondhatja fel, ha:
+(2) A közszolgáltatási szerződést a víziközmű-szolgáltató azonnali hatállyal kizárólag akkor mondhatja fel, ha:
 
 a) annak fenntartása a víziközmű-rendszer teljesítőképességét meghaladó igénybevételt eredményez, kivéve ha ez a víziközmű-szolgáltató beleegyezésével történt,
 

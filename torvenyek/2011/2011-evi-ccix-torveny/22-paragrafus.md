@@ -1,6 +1,6 @@
 22. § (1) A víziközmű-szolgáltató az üzemeltetési szerződés vagy annak módosítása egy aláírt példányát az aláírástól számított harminc napon belül jóváhagyásra megküldi a Hivatalnak. A Hivatal az üzemeltetési szerződést e törvénynek és a felhatalmazása alapján kiadott jogszabályoknak való megfelelőség tekintetében vizsgálja.
 
-(2) Az üzemeltetési szerződés legkorábban a Hivatal jóváhagyó határozata jogerőre emelkedésének napján léphet hatályba.
+(2)
 
 (3) A Hivatal jóváhagyó határozata az üzemeltetési szerződés megtámadásának más törvényes lehetőségét nem érinti.
 
