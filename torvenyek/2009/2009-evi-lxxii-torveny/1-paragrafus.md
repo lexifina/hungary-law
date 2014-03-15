@@ -12,8 +12,8 @@ b) a bántalmazó által a bántalmazott sérelmére megvalósított, a méltós
 
 (3) Bántalmazó az a cselekvőképes hozzátartozó, aki a hozzátartozók közötti erőszakot megvalósítja, vagy akire tekintettel a hozzátartozók közötti erőszakot más megvalósítja, feltéve, hogy ezzel a bántalmazó egyetért.
 
-(4) E törvény alkalmazásában gyermeknek kell tekinteni a Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) 12. §-a szerinti kiskorút.
+(4) E törvény alkalmazásában gyermeknek kell tekinteni a Polgári Törvénykönyvben (a továbbiakban: Ptk.) meghatározott kiskorút.
 
-(5) E törvény alkalmazásában hozzátartozónak kell tekinteni a Ptk. 685. § b) pontjában meghatározott közeli hozzátartozókat és hozzátartozókat, valamint a volt házastársat, a volt bejegyzett élettársat, a gondnokot, a gondnokoltat, a gyámot, a gyámoltat.
+(5) E törvény alkalmazásában hozzátartozónak kell tekinteni a Ptk.-ban meghatározott közeli hozzátartozókat és hozzátartozókat, valamint a volt házastársat, a volt élettársat, a bejegyzett élettársat, a volt bejegyzett élettársat, a gondnokot, a gondnokoltat, a gyámot, a gyámoltat.
 
 (6) E törvény alkalmazásában a napokban megállapított határidő folyamatosságot jelent.

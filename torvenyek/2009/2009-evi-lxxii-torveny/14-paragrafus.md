@@ -1,4 +1,4 @@
-14. § (1) A megelőző távoltartás elrendelésére irányuló bírósági nemperes eljárást a rendőrség hivatalból kezdeményezi, ha ideiglenes megelőző távoltartást rendelt el. Megelőző távoltartás elrendelésére irányuló bírósági nemperes eljárás megindítását a bántalmazott, illetve a bántalmazottnak a Ptk. 685. § b) pontjában meghatározott közeli hozzátartozója és hozzátartozója is kérelmezheti.
+14. § (1) A megelőző távoltartás elrendelésére irányuló bírósági nemperes eljárást a rendőrség hivatalból kezdeményezi, ha ideiglenes megelőző távoltartást rendelt el. Megelőző távoltartás elrendelésére irányuló bírósági nemperes eljárás megindítását a bántalmazott, illetve a bántalmazottnak a Ptk.-ban meghatározott közeli hozzátartozója és hozzátartozója, valamint bejegyzett élettársa is kérelmezheti.
 
 (2) Hivatalból indított eljárásban a rendőrség, a megelőző távoltartás elrendelésére irányuló bírósági nemperes eljárás kezdeményezése esetén a családvédelmi koordinációért felelős szerv, valamennyi rendelkezésére álló iratot, dokumentumot a bíróság rendelkezésére bocsátja.
 
