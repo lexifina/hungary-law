@@ -73,3 +73,5 @@
 35. Teljes felületű feltárás: régészeti lelőhely földrajzi körülhatárolását és a régészeti örökség elemei történeti összefüggéseinek kutatását szolgáló, a lelőhely állapotfelmérését, jellege és rétegsorai megállapítását célzó régészeti szolgáltatási tevékenység.
 
 36. Régészeti földmunka: régészeti lelőhelyen a régészeti feltárás megvalósítása érdekében végzett, a régészeti szolgáltatási tevékenységhez kapcsolódó földkiemelési munka, kézi és gépi földmunkák összessége.
+
+37. Gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet.
