@@ -18,4 +18,6 @@ f) a konzorciumi tag együttműködésből való kilépésének és kizárásán
 
 g) a konzorciumi tagok között a projekt végrehajtásával kapcsolatban keletkezett jogviták rendezésének módjáról, valamint
 
-h) arról, hogy mely tag jogosult a konzorcium képviseletére.
+h)[^4] arról, hogy mely tag jogosult a konzorcium többi tagja képviseletére.
+
+[^4]: A 33. § (2) bekezdés h) pontja a 80/2014. (III. 14.) Korm. rendelet 22. § b) pontja szerint módosított szöveg.

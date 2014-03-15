@@ -6,7 +6,7 @@ b) a szöveges értékelés elemei, az összefoglaló javaslat és az adott pont
 
 c) több szakértő bevonása esetén a szakértők által adott pontszámok között az eljárásrendben rögzített mértéket meghaladó eltérés tapasztalható,
 
-d)[^1] a pályamű támogatása a pályázó által teljesítendő előfeltételek mellett.
+d)[^3] a pályamű támogatása a pályázó által teljesítendő előfeltételek mellett.
 
 (2) A bizottságnak a pályaművel kapcsolatos döntési javaslata az alábbi lehet:
 
@@ -20,4 +20,4 @@ c) a pályamű elutasítása.
 
 (4) A bizottság a támogatási szerződés aláírásához jogszabályban meghatározott etikai bizottság szakhatósági állásfoglalásának beszerzését javasolhatja, amely teljesítését a pályázónak a támogatási szerződés aláírása előtt igazolnia kell.
 
-[^1]: A 22. § (2) bekezdés d) pontját a 296/2010. (XII. 22.) Korm. rendelet 1. §-a iktatta be.
+[^3]: A 22. § (2) bekezdés d) pontját a 296/2010. (XII. 22.) Korm. rendelet 1. §-a iktatta be.
