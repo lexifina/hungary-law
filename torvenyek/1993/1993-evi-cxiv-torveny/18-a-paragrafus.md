@@ -2,4 +2,4 @@
 
 a) természetes személy esetében a nevet, lakhelyet;
 
-b) jogi személy, valamint jogi személyiséggel nem rendelkező gazdálkodó szervezet esetén a cégnevet, székhelyet.
+b) jogi személy, valamint jogi személyiséggel nem rendelkező szervezet esetén a (cég)nevet, székhelyet.

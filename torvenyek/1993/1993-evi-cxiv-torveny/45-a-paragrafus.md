@@ -1,4 +1,4 @@
-45/A. § (1) Állattenyésztési bírságot kell kiszabni az e törvény személyi hatálya alá tartozó azon természetes személyre, jogi személyre vagy jogi személyiséggel nem rendelkező gazdálkodó szervezetre, aki vagy amely
+45/A. § (1) Állattenyésztési bírságot kell kiszabni arra, aki vagy amely
 
 a) az állatnak a tenyésztési program szerinti megjelölésére vonatkozó szabályokat megszegi;
 
@@ -40,7 +40,7 @@ k) tenyésztési bizonylatot, igazolást vagy nyilvántartást meghamisít.
 
 (9) A bírságot 15 napon belül kell befizetni és a bírósági jogorvoslattól függetlenül azonnali végrehajtása vagy biztosítási intézkedés rendelhető el.
 
-(10) Ha a jogi személyre vagy a jogi személyiséggel nem rendelkező gazdálkodó szervezetre kiszabott bírságot a kötelezett nem fizeti meg és azt tőle nem lehet behajtani, a bírság megfizetésére a jogsértés elkövetése idején helytállni köteles tagot, vezető tisztségviselőt, illetve azt a személyt kell kötelezni, aki a jogi személy vagy a jogi személyiséggel nem rendelkező gazdálkodó szervezet kötelezettségeiért a törvény alapján felel.
+(10) Ha a jogi személyre vagy a jogi személyiséggel nem rendelkező szervezetre kiszabott bírságot a kötelezett nem fizeti meg és azt tőle nem lehet behajtani, a bírság megfizetésére a jogsértés elkövetése idején helytállni köteles tagot, vezető tisztségviselőt, illetve azt a személyt kell kötelezni, aki a jogi személy vagy a jogi személyiséggel nem rendelkező szervezet kötelezettségeiért a törvény alapján felel.
 
 (11) A meg nem fizetett állattenyésztési bírság adók módjára behajtandó köztartozásnak minősül.
 
