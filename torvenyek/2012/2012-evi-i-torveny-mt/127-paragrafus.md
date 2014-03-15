@@ -1,6 +1,6 @@
 ## 62. Szülési szabadság, fizetés nélküli szabadság
 
-127. § (1) Az anya egybefüggő huszonnégy hét szülési szabadságra jogosult.
+127. § (1) Az anya egybefüggő 24 hét szülési szabadságra jogosult azzal, hogy ebből két hetet köteles igénybe venni.
 
 (2) A szülési szabadság annak a nőnek is jár, aki a gyermeket örökbefogadási szándékkal nevelésbe vette.
 

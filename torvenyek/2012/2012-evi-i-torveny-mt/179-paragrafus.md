@@ -2,7 +2,7 @@
 
 ## A MUNKAVÁLLALÓ KÁRTÉRÍTÉSI FELELŐSSÉGE
 
-## 76. Felelősség a vétkesen okozott kárért
+## 76. A felelősség általános szabályai
 
 179. § (1) A munkavállaló a munkaviszonyból származó kötelezettségének megszegésével okozott kárt köteles megtéríteni, ha nem úgy járt el, ahogy az adott helyzetben általában elvárható.
 

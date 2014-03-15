@@ -8,4 +8,4 @@ b) a vezető hozzátartozója,
 
 c) a választási bizottság tagja.
 
-(3) A (2) bekezdés alkalmazásában munkáltatói jognak minősül a munkaviszony létesítése, megszüntetése vagy kártérítési felelősség megállapítása.
+(3) A (2) bekezdés alkalmazásában munkáltatói jognak minősül a munkaviszony létesítése, módosítása és megszüntetése.

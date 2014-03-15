@@ -1,1 +1,1 @@
-160. § A késedelem idejére a késedelembe esés időpontjától kezdve a késedelemmel érintett naptári félévet megelőző utolsó napon érvényes jegybanki alapkamattal megegyező mértékű kamatot kell fizetni.
+160. § A Ptk. 6:47. § szerinti kamat a felek megállapodása alapján jár.

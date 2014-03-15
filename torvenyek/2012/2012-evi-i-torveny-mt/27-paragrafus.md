@@ -4,7 +4,7 @@
 
 ## 18. A semmisség
 
-27. § (1) Semmis az a megállapodás, amely munkaviszonyra vonatkozó szabályba ütközik, vagy amely munkaviszonyra vonatkozó szabály megkerülésével jött létre.
+27. § (1) Semmis az a megállapodás, amely munkaviszonyra vonatkozó szabályba ütközik, vagy munkaviszonyra vonatkozó szabály megkerülésével jött létre vagy nyilvánvalóan a jóerkölcsbe ütközik.
 
 (2) A színlelt megállapodás semmis, ha pedig más megállapodást leplez, azt a leplezett megállapodás alapján kell megítélni.
 

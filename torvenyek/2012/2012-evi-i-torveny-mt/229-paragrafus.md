@@ -17,3 +17,5 @@ b) a tanulmányok elvégzésére a munkáltató kötelezte a munkavállalót.
 (6) A munkáltató elállhat a tanulmányi szerződéstől és a nyújtott támogatást visszakövetelheti, ha a munkavállaló a tanulmányi szerződésben foglaltakat megszegi. Szerződésszegésnek minősül az is, ha a munkaviszony megszüntetésének indoka a munkavállaló munkaviszonnyal kapcsolatos magatartása. A visszatérítési kötelezettség arányos, ha a munkavállaló a szerződésben kikötött tartamnak csak egy részét nem tölti le.
 
 (7) A tanulmányi szerződést a fél azonnali hatállyal felmondhatja, ha körülményeiben olyan lényeges változás következett be, amely a kötelezettség teljesítését lehetetlenné tenné, vagy az aránytalan sérelemmel járna. A munkavállaló felmondása esetén a munkáltató a nyújtott támogatást visszakövetelheti. A munkáltató a támogatást arányosan követelheti vissza, ha a munkavállaló a szerződésben kikötött tartamnak csak egy részét töltötte le. A munkáltató felmondása esetén a támogatás nem követelhető vissza.
+
+(8) Kötbér kikötése esetén a Ptk. 6:186–189. §-a irányadó.

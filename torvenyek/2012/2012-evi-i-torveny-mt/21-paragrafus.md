@@ -4,6 +4,6 @@
 
 (3) A munkavállaló, kivéve, ha a képviselet tartalma egyértelműen korlátozott, nem hivatkozhat arra, hogy képviselője jogkörét túllépve járt el.
 
-(4) A törvényes képviselő hozzájárulása szükséges a korlátozottan cselekvőképes személy olyan jognyilatkozatához, amely a munkaszerződés megkötésére, módosítására, megszüntetésére vagy kötelezettségvállalásra irányul.
+(4) A törvényes képviselő hozzájárulása szükséges a fiatal munkavállaló vagy a cselekvőképességében a munkaviszonnyal összefüggő ügycsoportban részlegesen korlátozott munkavállaló olyan jognyilatkozatának érvényességéhez, amely a munkaszerződés megkötésére, módosítására, megszüntetésére vagy kötelezettségvállalásra irányul.
 
 (5) A cselekvőképtelen személy nevében törvényes képviselője tesz jognyilatkozatot.

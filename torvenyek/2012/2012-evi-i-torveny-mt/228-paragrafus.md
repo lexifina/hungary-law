@@ -11,3 +11,5 @@
 (3) A munkavállaló, ha munkaviszonyát a 78. § (1) bekezdése alapján szünteti meg, a megállapodástól elállhat.
 
 (4) A munkáltató személyében bekövetkező változás esetén a megállapodásból származó jogok és kötelezettségek az átvevő munkáltatóra átszállnak.
+
+(5) Kötbér kikötése esetén a Ptk. 6:186–189. §-a irányadó.

@@ -1,1 +1,1 @@
-30. § A megállapodás érvénytelenségéből származó kár megtérítésére a kártérítési felelősség szabályait kell megfelelően alkalmazni.
+30. § A megállapodás érvénytelenségéből származó kár megtérítésére e törvény szabályait kell alkalmazni.
