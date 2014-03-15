@@ -14,4 +14,4 @@ egyenként tájékoztatni minden szerződőt, biztosítottat, továbbá egyéb i
 
 (2) A (1) bekezdés szerinti tájékoztatást magyar nyelven kell elkészíteni és a 15. számú melléklet B) részében meghatározott címekkel ellátni.
 
-(3) Annak, akinek ismert, bejelentett kárigénye van az (1) bekezdés szerinti tájékoztatást annak a tagállamnak a hivatalos nyelvén is meg kell adni, amelyben állandó lakóhelye, székhelye vagy fióktelepe található.
+(3) Annak, akinek ismert, bejelentett kárigénye, sérelemdíj iránti igénye van, az (1) bekezdés szerinti tájékoztatást annak a tagállamnak a hivatalos nyelvén is meg kell adni, amelyben állandó lakóhelye, székhelye vagy fióktelepe található.

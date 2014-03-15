@@ -4,4 +4,4 @@
 
 (2) A független biztosításközvetítői és a szaktanácsadói tevékenység felfüggesztését a Felügyelet kérelemre, legfeljebb 6 hónapra engedélyezheti.
 
-(3) A független biztosításközvetítő és a szaktanácsadó felelősségbiztosításának a tevékenység végzése alatt okozott, de a felfüggesztés időtartama alatt bekövetkezett és bejelentett károkra is ki kell terjednie, illetve a vagyoni biztosítéknak rendelkezésre kell állnia.
+(3) A független biztosításközvetítő és a szaktanácsadó felelősségbiztosításának a tevékenység végzése alatt okozott, de a felfüggesztés időtartama alatt bekövetkezett és bejelentett károkra és a sérelemdíj iránti igényekre is ki kell terjednie, illetve a vagyoni biztosítéknak rendelkezésre kell állnia.

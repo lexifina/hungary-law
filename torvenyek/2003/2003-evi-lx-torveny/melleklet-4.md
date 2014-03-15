@@ -46,4 +46,4 @@ A kiegészítő adatoknak 3 évre előre becsülve – évenkénti bontásban �
 
 3.3. a várható díjbevételt,
 
-3.4. a várható kárkifizetést.
+3.4. a biztosítási esemény alapján várható kifizetéseket.

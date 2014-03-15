@@ -1,4 +1,4 @@
-91/S. § A 91/A. §-ban meghatározott biztosító a biztosítási tevékenység folytatásához a 85. §-ban felsorolt egyéb vezetők mellett
+91/S. § A 91/A. §-ban meghatározott biztosító a biztosítási tevékenység folytatásához a 85. §-ban felsoroltak mellett – egyéb vezetőként –
 
 a) vezető kockázatkezelőt; és
 

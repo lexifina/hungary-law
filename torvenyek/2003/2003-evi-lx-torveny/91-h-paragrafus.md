@@ -40,7 +40,7 @@ e) biztosítja, hogy a biztosítási és viszontbiztosítási szerződésekben b
 
 (7) Az (1) bekezdés g) pontja alapján készítendő véleménynek következtetéseket kell tartalmaznia legalább a következő tényezők tekintetében:
 
-a) a beszedni tervezett biztosítási díjak elégségesek-e ahhoz, hogy fedezzék a jövőbeli kárigényeket és költségeket, figyelembe véve különösen az alapul szolgáló kockázatokat (ideértve a biztosítási kockázatvállalást), valamint a biztosítási és viszontbiztosítási szerződésekben foglalt opcióknak, garantált szolgáltatásoknak, hozamoknak és kifizetéseknek a biztosítási díjak elégségességére gyakorolt hatását;
+a) a beszedni tervezett biztosítási díjak elégségesek-e ahhoz, hogy fedezzék a jövőbeli biztosítási események alapján fizetendő szolgáltatásokat, valamint költségeket, figyelembe véve különösen az alapul szolgáló kockázatokat (ideértve a biztosítási kockázatvállalást), valamint a biztosítási és viszontbiztosítási szerződésekben foglalt opcióknak, garantált szolgáltatásoknak, hozamoknak és kifizetéseknek a biztosítási díjak elégségességére gyakorolt hatását;
 
 b) az infláció, a jogi kockázat, a biztosító portfóliójának összetételében bekövetkezett változás, és az olyan rendszerek hatása, amik a kártörténettől függően felfelé vagy lefelé módosítják a biztosítási díjakat, vagy olyan más rendszerek hatása, amiket adott homogén kockázati csoportoknál vezettek be; és
 

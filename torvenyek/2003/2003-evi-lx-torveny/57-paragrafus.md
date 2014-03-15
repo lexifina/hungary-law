@@ -18,7 +18,7 @@ d) a biztosítási tevékenység módosításához (92. §),
 
 e) a biztosítási állomány átruházásához (93–95. §),
 
-f) a biztosító átalakulásához (egyesülés, szétválás, részvénytársasággá történő átalakulás),
+f) a biztosító egyesüléséhez, szétválásához, részvénytársasággá történő átalakulásához,
 
 g) a biztosító biztosítástechnikai tartalékainak e törvényben meghatározott mértéket meghaladó befektetéséhez, illetve az eszközkategóriáktól való eltéréshez,
 
@@ -44,9 +44,9 @@ p) a független biztosításközvetítői tevékenység kérelemre történő fe
 
 (3) A Felügyelet az engedélyezés tárgyában e törvény rendelkezései, a biztosításra vonatkozó egyéb jogszabályok alapján, továbbá az ügyfelek érdekeire és a biztosító kötelezettségei teljesítésére tekintettel dönt.
 
-(4) Az (1) bekezdés f) pontja szerinti esetekben a biztosító átalakulásának lebonyolítását bemutató átalakulási tervet kell készíteni, amelyet a Felügyelet részére be kell nyújtani. Az átalakulási tervnek – a tevékenység megkezdésének engedélyezése során vizsgált feltételeken, illetve a Gt. átalakulásra vonatkozó szabályainál meghatározottakon túl – tartalmaznia kell:
+(4) Az (1) bekezdés f) pontja szerinti esetekben a biztosító egyesülésének, szétválásának vagy átalakulásának lebonyolítását bemutató egyesülési, szétválási vagy átalakulási tervet kell készíteni, amelyet az erre – az érintett biztosítók közötti megállapodásban – feljogosított biztosító köteles a Felügyelet részére benyújtani. Az egyesülési, szétválási vagy átalakulási tervnek – a tevékenység megkezdésének engedélyezése során vizsgált feltételeken, illetve a Ptk., valamint a Jszt. egyesülésre, szétválásra vagy átalakulásra vonatkozó szabályainál meghatározottakon túl – tartalmaznia kell:
 
-a) az átalakulás tervezett időpontját,
+a) az egyesülés, szétválás, átalakulás tervezett időpontját,
 
 b) a jogutód biztosítóhoz (biztosítókhoz) kerülő biztosítási állomány pontos meghatározását és annak szerződési feltételeit,
 
@@ -54,14 +54,14 @@ c) a jogutód biztosítóhoz (biztosítókhoz) kerülő állományhoz kapcsolód
 
 d) annak bemutatását, hogy a jogutód biztosító rendelkezik a saját állományához tartozó minimális szavatoló tőkén túl az átvett állományhoz szükséges minimális szavatoló tőkével,
 
-e) kölcsönös biztosító egyesület részvénytársasággá történő átalakulása esetén az egyes egyesületi tagoknak a részvénytársaság saját tőkéből történő vagyoni részesedését és annak meghatározásának elveit.
+e) kölcsönös biztosító egyesület részvénytársasággá történő átalakulása esetén az egyes egyesületi tagoknak a részvénytársaság saját tőkéből történő vagyoni részesedését és a vagyoni részesedés meghatározásának elveit.
 
-(5) A biztosító átalakulásának engedélyezése iránti kérelmet a Felügyelet elutasítja, ha
+(5) A biztosító egyesülésének, szétválásának vagy átalakulásának engedélyezése iránti kérelmet a Felügyelet elutasítja, ha
 
 a) a (4) bekezdésben meghatározott feltételek nem teljesülnek,
 
-b) egyébként valószínűsíthető, hogy az átalakulás következtében a biztosítottak – kölcsönös biztosító egyesület részvénytársasággá történő átalakulása esetén a tagok – érdeke sérülne.
+b) egyébként valószínűsíthető, hogy az egyesülés, szétválás vagy átalakulás következtében a biztosítottak – kölcsönös biztosító egyesület részvénytársasággá történő átalakulása esetén a tagok – érdeke sérülne.
 
 (6) Az (1) bekezdés h) és i) pontjai, valamint – ha a biztosítási állományt harmadik országban, illetve tagállamban bejegyzett biztosítótól veszik át – e) pontjának tárgyában kiadott felügyeleti engedély nem mentesíti a kérelmezőt a kockázatviselés helye szerinti ország előírásai által megkívánt egyéb engedélyek megszerzésének kötelezettsége alól.
 
-(7) Az (1) bekezdés f) pontjában meghatározott esetben az átalakulás időpontja legfeljebb hat hónappal lehet későbbi, mint az engedély megadásának időpontja.
+(7) Az (1) bekezdés f) pontjában meghatározott esetben az egyesülés, szétválás vagy átalakulás időpontja legfeljebb hat hónappal lehet későbbi, mint az engedély megadásának időpontja.

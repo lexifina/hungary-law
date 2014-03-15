@@ -2,7 +2,7 @@
 
 (2) Az (1) bekezdésben foglaltakat nem kell alkalmazni azon szervezetek vagy személyek szolgáltatási tevékenysége keretében létrejött szerződéses állományára, amelyek 2015. január 1-jéig az üzletszerűen végzett járadékszolgáltatás nyújtására irányuló tevékenységet nem a 4. § (1) bekezdésében meghatározott biztosítási tevékenységként végezték.
 
-(3) Üzletszerűen végzett járadékszolgáltatás nyújtására irányuló tevékenységet folytató azon biztosítókra, amelyek kötelezettségvállalásának ellenértéke ingatlan átruházása formájában valósul meg, 2015. január 1-jét követően nem kell alkalmazni a 96. §-ban foglalt rendelkezéseket, az általuk kötött szerződésekre a Polgári Törvénykönyvről szóló törvény életjáradéki szerződésekre vonatkozó rendelkezései alkalmazandók.
+(3) Üzletszerűen végzett járadékszolgáltatás nyújtására irányuló tevékenységet folytató azon biztosítókra, amelyek kötelezettségvállalásának ellenértéke ingatlan átruházása formájában valósul meg, 2015. január 1-jét követően nem kell alkalmazni a 96. §-ban foglalt rendelkezéseket, az általuk kötött szerződésekre a Ptk. életjáradéki szerződésekre vonatkozó rendelkezései alkalmazandók.
 
 (4) 2015. január 1-jét követően az üzletszerűen végzett járadékszolgáltatás nyújtására irányuló tevékenységet folytató azon biztosítók esetében, amelyek kötelezettségvállalásának ellenértéke ingatlan átruházása formájában valósul meg
 

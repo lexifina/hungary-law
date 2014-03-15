@@ -1,4 +1,4 @@
-15. § (1) Az Szvt. 17. §-ában foglaltakon felül meg kell határozni az alapszabályban
+15. § (1) A Ptk. 3:331. §-ában foglaltakon felül meg kell határozni az alapszabályban
 
 a) a biztosító szövetkezet tevékenységi körét biztosítási ág, ágazat szerint,
 

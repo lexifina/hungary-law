@@ -46,6 +46,6 @@ n) befektetési egységhez kötött életbiztosítás esetén a 132/A. §-ban fo
 
 (7) A (6) bekezdésben foglaltakat megfelelően alkalmazni kell a Kártalanítási Számla által teljesített kárkifizetésekre.
 
-(8) A biztosító a biztosítási szerződési feltételekben köteles meghatározni, hogy a káresemény bekövetkezése esetén milyen károkat és költségeket milyen okiratok – ideértve a (6) bekezdés szerinti számlát is – bemutatása ellenében térít. A biztosító a szolgáltatása teljesítésének esedékességét csak olyan okirat bemutatásától teheti függővé, amely a biztosítási esemény bekövetkezésének igazolásához, illetve a teljesítendő szolgáltatás mértékének meghatározásához szükséges, a biztosítási szolgáltatás teljesítésének esedékességét a bejelentett káresemény tekintetében indult büntető- vagy szabálysértési eljárás jogerős befejezéséhez nem kötheti.
+(8) A biztosító a biztosítási szerződési feltételekben köteles meghatározni, hogy a biztosítási esemény bekövetkezése esetén milyen szolgáltatásokat és költségeket milyen okiratok – ideértve a (6) bekezdés szerinti számlát is – bemutatása ellenében teljesít. A biztosító a szolgáltatása teljesítésének esedékességét csak olyan okirat bemutatásától teheti függővé, amely a biztosítási esemény bekövetkezésének igazolásához, illetve a teljesítendő szolgáltatás mértékének meghatározásához szükséges, a biztosítási szolgáltatás teljesítésének esedékességét a bejelentett biztosítási esemény tekintetében indult büntető- vagy szabálysértési eljárás jogerős befejezéséhez nem kötheti.
 
-(9)
+(9) A szerződő felek megállapodásukban a Ptk. 6:470. § (3) bekezdésétől a fogyasztói biztosítási szerződés esetén is eltérhetnek.

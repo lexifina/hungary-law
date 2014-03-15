@@ -1,4 +1,4 @@
-66. § (1) A biztosító tevékenységének megkezdésekor a biztosító részvénytársaságnak legalább olyan nagyságú jegyzett tőkével, a szövetkezetnek részjegytőkével, az egyesületnek induló tőkével, illetve a harmadik országbeli biztosító fióktelepének dotációs tőkével kell rendelkeznie, amely elegendő
+66. § (1) A biztosító tevékenységének megkezdésekor a biztosító részvénytársaságnak legalább olyan nagyságú jegyzett tőkével, a szövetkezetnek tőkével, az egyesületnek induló tőkével, illetve a harmadik országbeli biztosító fióktelepének dotációs tőkével kell rendelkeznie, amely elegendő
 
 a) a működés megkezdéséhez szükséges személyi és tárgyi feltételek biztosítására, valamint
 

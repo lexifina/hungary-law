@@ -1,6 +1,6 @@
 77. § (1) A kiszervezett tevékenységet a Felügyelet a tevékenységet végzőnél ugyanazon módon és eszközökkel vizsgálhatja, mintha a tevékenységet a biztosító végezné.
 
-(2) A kiszervezett tevékenységgel harmadik személynek okozott kárért a biztosító felel.
+(2) A kiszervezett tevékenységgel harmadik személynek okozott kárért a biztosító felelős és a biztosító köteles a felmerült sérelemdíjat megfizetni.
 
 (3) A biztosító felelős azért, hogy a kiszervezett tevékenységet végző a tevékenységet a jogszabályi előírások betartásával és a tőle elvárható gondossággal végezze. Amennyiben a biztosító észleli, hogy a kiszervezett tevékenység végzése jogszabályba vagy a szerződésbe ütközik, haladéktalanul köteles felszólítani a kiszervezett tevékenységet végzőt, hogy tevékenységét a jogszabálynak, illetve a szerződésnek megfelelően végezze. Ha a kiszervezett tevékenységet végző a kiszervezett tevékenységet súlyosan szerződésszegő módon vagy a felszólítás ellenére továbbra is jogszabálysértő vagy szerződésszegő módon végzi, a biztosító köteles a szerződést azonnali hatállyal felmondani.
 

@@ -38,7 +38,7 @@ e)
 
 f) külföldi állandó képviselete megnyitását, címének, fontosabb adatainak megváltozását vagy megszüntetését, illetve a vezető(k) személyének és adatainak megváltozását,
 
-g) az alapszabály (alapító okirat) módosítását,
+g) az alapszabály módosítását,
 
 h) a tagállamokban megbízott kárrendezési megbízottjait, ezeknek a feladataik ellátásával összefüggő adatait, illetve az ezekben az adatokban bekövetkezett változásokat,
 

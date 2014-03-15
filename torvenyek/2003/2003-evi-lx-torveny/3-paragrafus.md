@@ -46,7 +46,7 @@ A minősített befolyás nagyságának megállapításakor a közvetlen és a k�
 
 13. egészségügyi adat: az egészségügyi és a hozzájuk kapcsolódó személyes adatok védelméről szóló 1997. évi XLVII. törvényben foglalt meghatározás szerinti fogalom;
 
-14. együttbiztosítás: biztosítási díj ellenében szerződésben előre meghatározott biztosítási kockázatokkal összefüggő kár bekövetkezése vagy megadott feltétel elérése esetére több biztosító által közösen, írásban előre rögzített arányok mellett teljesítendő szolgáltatások nyújtása és a kötelezettségvállalás mértékének megfelelő tartalékok biztosítónként elkülönített képzése és kezelése;
+14. együttbiztosítás: biztosítási díj ellenében szerződésben előre meghatározott biztosítási kockázatokkal összefüggő biztosítási esemény bekövetkezése vagy megadott feltétel elérése esetére több biztosító által közösen, írásban előre rögzített arányok mellett teljesítendő szolgáltatások nyújtása és a kötelezettségvállalás mértékének megfelelő tartalékok biztosítónként elkülönített képzése és kezelése;
 
 15. szabályozott piac: a tőkepiacról szóló 2001. évi CXX. törvényben (a továbbiakban: Tpt.) meghatározott fogalom;
 
@@ -61,6 +61,8 @@ A minősített befolyás nagyságának megállapításakor a közvetlen és a k�
 20. fióktelep tagállama: az a tagállam, amelyben a kötelezettséget vállaló fióktelep található;
 
 21. főiroda: az a székhely tagállamában lévő iroda, ahol a vállalkozás fő tevékenységét végzi, és ahol a vállalkozással kapcsolatos központi döntéshozatal, illetve számviteli döntés történik, ha az nem azonos a székhellyel;
+
+21a. gazdálkodó szervezet: a polgári perrendtartásról szóló törvényben meghatározott fogalom;
 
 22. harmadik ország: az az ország, amely nem tagja az Európai Uniónak;
 
@@ -164,11 +166,11 @@ bd) minden egyéb olyan esetben, amely nem tartozik kifejezetten az előző ba),
 
 64. ügyvezető: a biztosító vezetésére kinevezett, a biztosítóval munkaviszonyban álló első számú vezető és helyettesei. A biztosító első számú vezetője a biztosító munkaszervezetének irányítója;
 
-65. üzleti titok: a Polgári Törvénykönyvről szóló 1959. évi IV. törvényben (a továbbiakban: Ptk.) meghatározott fogalom;
+65.
 
 66. üzletszerű tevékenység: ellenérték fejében nyereség, illetve vagyonszerzés végett rendszeresen folytatott gazdasági tevékenység;
 
-67. vagyoni biztosíték: hitelintézetnél lekötött és elkülönítetten kezelt pénzösszeg (pénzbeli letét, illetve az állam vagy hitelintézet által kibocsátott vagy garantált, a letétbe helyezéstől számított 180 napnál hosszabb hátralévő futamidejű, azonnal beváltható vagy értékesíthető, hitelviszonyt megtestesítő értékpapír) vagy bankgarancia;
+67. vagyoni biztosíték: hitelintézetnél lekötött és elkülönítetten kezelt pénzösszeg (pénzbeli letét, illetve az állam vagy hitelintézet által kibocsátott vagy garantált, a letétbe helyezéstől számított 180 napnál hosszabb hátralévő futamidejű, azonnal beváltható vagy értékesíthető, hitelviszonyt megtestesítő értékpapír) vagy hitelintézet által vállalt garancia;
 
 68–69.
 
@@ -222,7 +224,7 @@ c) harmadik országbeli biztosító fióktelepe formájában működő biztosít
 
 92. ÁÉKBV: a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvényben (a továbbiakban: Bszt.) meghatározott fogalom;
 
-93. közeli hozzátartozó: a Ptk.-ban meghatározott fogalom és az élettárs;
+93. közeli hozzátartozó: a a Polgári Törvénykönyvről szóló 2013. évi V. törvényben (a továbbiakban: Ptk.) meghatározott fogalom és az élettárs;
 
 94. kapcsolt vállalkozás: a Tpt.-ben meghatározott fogalom;
 

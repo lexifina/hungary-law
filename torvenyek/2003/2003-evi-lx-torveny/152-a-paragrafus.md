@@ -4,7 +4,7 @@
 
 (2) Az audit bizottság legalább egy tagjának függetlennek kell lennie és számviteli és/vagy könyvvizsgálói szakképzettséggel kell rendelkeznie.
 
-(3) Az audit bizottság ellátja a Gt. 311. § (3)–(4) bekezdésében foglalt feladatokat.
+(3) Az audit bizottság ellátja a Ptk. 3:291. § (1) bekezdésében foglalt feladatokat.
 
 (4) Függetlennek minősül az audit bizottság tagja, ha a biztosítóval az igazgatósági, felügyelőbizottsági tagságán kívül más jogviszonyban nem áll, és a tagságért járó díjazáson felül a biztosítótól más javadalmazásban nem részesül, továbbá nem közeli hozzátartozója a biztosító vezető állású személyének vagy egyéb vezetőjének.
 

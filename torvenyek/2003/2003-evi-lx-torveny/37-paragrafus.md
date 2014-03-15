@@ -10,7 +10,7 @@ d) az adott biztosító vagy az adott biztosító anyavállalata rendelkezik-e m
 
 e) a panasztétel lehetőségéről és annak elbírálására jogosult szervekről,
 
-f) arról, hogy a szakmai tevékenysége során okozott kárért ki áll helyt,
+f) arról, hogy a szakmai tevékenysége során okozott kárért vagy felmerült sérelemdíj megfizetéséért ki áll helyt,
 
 g) arról, hogy függő vagy független biztosításközvetítőként jár-e el,
 
@@ -22,6 +22,8 @@ j) arról, hogy a biztosítási termék közvetítése során az ügyféltől d�
 
 k) független biztosításközvetítő esetén arról, hogy a biztosítótól az ügyfélnek járó összeget átvehet-e, és ha igen, annak esetleges összegszerűségi korlátairól, és
 
-l) függő biztosításközvetítő esetén arról, hogy a biztosítótól az ügyfélnek járó összeget előzetesen nem vehet át.
+l) függő biztosításközvetítő esetén arról, hogy a biztosítótól az ügyfélnek járó összeget előzetesen nem vehet át,
+
+m) függő biztosításközvetítő vagy többes ügynök esetén arról, hogy a biztosítóval kötött megállapodása alapján milyen képviseleti jogosultsággal rendelkezik, különös tekintettel arra vonatkozóan, hogy a biztosító nevében megkötheti-e a biztosítási szerződést.
 
 (2) A tájékoztatást azon személyek részére kell teljesíteni, akik a biztosítási (viszontbiztosítási) szerződés létrejötte esetén a biztosított (viszontbiztosított) vagy a biztosítóval szerződő fél pozíciójába kerülnek.

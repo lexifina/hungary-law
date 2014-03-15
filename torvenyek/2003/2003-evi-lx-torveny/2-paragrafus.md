@@ -4,7 +4,7 @@ a) a társadalombiztosítási tevékenységre,
 
 b) azon ellátási, támogatási és segélyezési célokat szolgáló szervezet tevékenységére, amely a rendelkezésre álló eszközök mértékétől függően nyújt szolgáltatást, és amelynél a tagsági hozzájárulást átalányként határozzák meg,
 
-c) a biztosítás azon módszerére, amelyben a veszélyközösség tagjai arra vállalnak kötelezettséget, hogy ha a veszélyközösség tagjának meghatározott káresemény folytán anyagi szükséglete keletkezik, azt egymás között utólag felosztják, és a tagokra kiróják a rájuk eső részt (felosztó-kirovó rendszer),
+c) a biztosítás azon módszerére, amelyben a veszélyközösség tagjai arra vállalnak kötelezettséget, hogy ha a veszélyközösség tagjának meghatározott esemény folytán anyagi szükséglete keletkezik, azt egymás között utólag felosztják, és a tagokra kiróják a rájuk eső részt (felosztó-kirovó rendszer),
 
 d) az állami megbízásból vagy állami garanciával végzett exporthitel-biztosítási tevékenységre,
 

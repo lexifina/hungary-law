@@ -12,9 +12,9 @@
 
 (2) Az egyes szervezeti formákra
 
-a) biztosító részvénytársaság esetén a gazdasági társaságokról szóló 2006. évi IV. törvény (a továbbiakban: Gt.),
+a) biztosító részvénytársaság esetén a Ptk. gazdasági társaságokra vonatkozó rendelkezései,
 
-b) biztosító szövetkezet esetén a szövetkezetekről szóló 2006. évi X. törvény (a továbbiakban: Szvt.),
+b) biztosító szövetkezet esetén a Ptk. szövetkezetekre vonatkozó rendelkezései,
 
 c) kölcsönös biztosító egyesület esetén a Ptk. és az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény (a továbbiakban: Etv.),
 

@@ -130,9 +130,9 @@ k) egyéb pénzügyi veszteségek.
 
 A jogvédelmi biztosítás a jogi eljárási költségek viselésére és a biztosítási fedezetből fakadó más szolgáltatások nyújtására vonatkozó kötelezettség díj ellenében történő elvállalása, így különösen
 
-– a biztosított által elszenvedett kár peren kívüli egyezséggel vagy polgári, illetve büntetőeljárás során történő megtérülésének biztosítása,
+a) a biztosított által elszenvedett kár és a részére járó sérelemdíj peren kívüli egyezséggel vagy polgári, illetve büntetőeljárás során történő megtérülésének biztosítása,
 
-– a biztosított polgári, büntető-, államigazgatási vagy egyéb eljárásban, illetve a biztosítottal szemben támasztott kártérítési igény esetében való védelme vagy képviselete.
+b) a biztosított polgári, büntető-, közigazgatási hatósági vagy egyéb eljárásban, illetve a biztosítottal szemben támasztott kártérítési és sérelemdíj iránti igény esetében való védelme vagy képviselete.
 
 18. Segítségnyújtás
 

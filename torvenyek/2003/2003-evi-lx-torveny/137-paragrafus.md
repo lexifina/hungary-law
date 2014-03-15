@@ -2,7 +2,7 @@
 
 (2) Az értékpapír-befektetési alap által kibocsátott befektetési jegy a matematikai tartalékok fedezetéül szolgáló pénzeszközök legfeljebb 30 százalékát teheti ki. Ha a biztosító a 2009/65/EK irányelv hatálya alá tartozó befektetési alap befektetési jegyét szerzi meg, az értékpapír-befektetési alapokra vonatkozóan a korlátozás a befektetett mértékkel, de legfeljebb 35 százalékra növekedhet.
 
-(3) Bankgaranciával, biztosítással, jelzáloggal vagy egyéb biztosítékkal nem fedezett kötvény, vagy más hitelviszonyt megtestesítő értékpapír és kölcsön, valamint elismert értékpapírpiacra be nem vezetett részvény és kötvény együttesen a matematikai tartalékok fedezetéül szolgáló pénzeszközök legfeljebb 15 százalékát tehetik ki.
+(3) Hitelintézet által vállalt garanciával, biztosítással, jelzáloggal vagy egyéb biztosítékkal nem fedezett kötvény, vagy más hitelviszonyt megtestesítő értékpapír és kölcsön, valamint elismert értékpapírpiacra be nem vezetett részvény és kötvény együttesen a matematikai tartalékok fedezetéül szolgáló pénzeszközök legfeljebb 15 százalékát tehetik ki.
 
 (4) A hitelintézeti betétek, illetve betételfogadásra jogosult intézménynél lévő betét a matematikai tartalékok fedezetéül szolgáló pénzeszközök legfeljebb 25 százalékát tehetik ki.
 

@@ -4,7 +4,7 @@
 
 a) büntetlen előéletű,
 
-b) felsőfokú végzettséggel rendelkezik, továbbá korábban biztosítónál, biztosításközvetítő tevékenységet folytató gazdálkodó szervezetnél, vagy az államigazgatás pénzügyi, illetve gazdasági területén, vagy a megfelelő szakmai érdekképviseleti szervnél legalább 3 évig biztosításszakmai vezető beosztást töltött be, vagy szaktanácsadóként működött, vagy e szerveknél összesen 8 éves szakmai munkaviszonnyal, köztisztviselői jogviszonnyal, illetve munkavégzésre irányuló egyéb jogviszonnyal rendelkezik,
+b) felsőfokú végzettséggel rendelkezik, továbbá korábban biztosítónál, biztosításközvetítő tevékenységet folytató gazdálkodó szervezetnél, vagy az államigazgatás pénzügyi, illetve gazdasági területén, vagy a megfelelő szakmai érdekképviseleti szervnél legalább 3 évig biztosításszakmai vezető beosztást töltött be, vagy szaktanácsadóként működött, vagy e szerveknél összesen 8 éves szakmai munkaviszonnyal, közszolgálati vagy kormányzati szolgálati jogviszonnyal, illetve munkavégzésre irányuló egyéb jogviszonnyal rendelkezik,
 
 c) az e törvény 13. számú mellékletében meghatározott szakképesítéssel rendelkezik.
 

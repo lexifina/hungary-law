@@ -6,7 +6,7 @@ a) részvénytársaság,
 
 b) legalább 5 millió forint törzstőkével rendelkező korlátolt felelősségű társaság,
 
-c) legalább 5 millió forint részjegytőkével rendelkező szövetkezet,
+c) legalább 5 millió forint tőkével rendelkező szövetkezet,
 
 d) harmadik országban székhellyel rendelkező független biztosításközvetítő legalább 5 millió forint tőkével rendelkező magyarországi fióktelepe
 
@@ -34,7 +34,7 @@ a) büntetlen előéletű, továbbá nem vezető tisztségviselője olyan gazdas
 
 b) az alábbi szakmai követelmények valamelyikének megfelel:
 
-ba) felsőfokú végzettséggel rendelkezik és biztosítónál, biztosításközvetítői tevékenységet folytató gazdálkodó szervezetnél, az államigazgatás pénzügyi, illetve gazdasági területén vagy a megfelelő szakmai érdek-képviseleti szervnél legalább 3 évig biztosításszakmai vezető beosztást töltött be vagy biztosítási szaktanácsadóként működött vagy biztosítónál, biztosításközvetítői tevékenységet folytató gazdálkodó szervezetnél, biztosítási szaktanácsadónál, az államigazgatásban pénzügyi, illetve gazdasági területen vagy a megfelelő szakmai érdek-képviseleti szervnél összesen 5 éves, biztosításszakmai beosztásban eltöltött munkaviszonnyal, köztisztviselői jogviszonnyal vagy munkavégzésre irányuló egyéb jogviszonnyal rendelkezik;
+ba) felsőfokú végzettséggel rendelkezik és biztosítónál, biztosításközvetítői tevékenységet folytató gazdálkodó szervezetnél, az államigazgatás pénzügyi, illetve gazdasági területén vagy a megfelelő szakmai érdek-képviseleti szervnél legalább 3 évig biztosításszakmai vezető beosztást töltött be vagy biztosítási szaktanácsadóként működött vagy biztosítónál, biztosításközvetítői tevékenységet folytató gazdálkodó szervezetnél, biztosítási szaktanácsadónál, az államigazgatásban pénzügyi, illetve gazdasági területen vagy a megfelelő szakmai érdek-képviseleti szervnél összesen 5 éves, biztosításszakmai beosztásban eltöltött munkaviszonnyal, közszolgálati vagy kormányzati szolgálati jogviszonnyal, illetve munkavégzésre irányuló egyéb jogviszonnyal rendelkezik;
 
 bb) középfokú végzettséggel rendelkezik és biztosítónál vagy biztosításközvetítést folytató gazdálkodó szervezetnél legalább 7 éven át biztosításszakmai vezetői beosztást töltött be,
 

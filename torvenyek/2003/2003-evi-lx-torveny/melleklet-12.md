@@ -46,7 +46,7 @@ Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálj
 
 21. A Tanács 1992. november 8-i 92/96/EGK irányelve a közvetlen életbiztosítási tevékenységekre vonatkozó törvényi, rendeleti és közigazgatási rendelkezések összehangolásáról, valamint a 79/267/EGK és a 90/619/EGK irányelv módosításáról (harmadik életbiztosítási irányelv).
 
-22. Az Európai Parlament és a Tanács 1998. október 27-i 98/78/EK irányelve a biztosítási csoportok biztosítóintézeteinek kiegészítő felügyeletéről.
+22. Az Európai Parlament és a Tanács 1998. október 27-i 98/78/EK irányelve a biztosítási csoportok biztosítóinak és viszontbiztosítóinak kiegészítő felügyeletéről.
 
 23. Az Európai Parlament és a Tanács 2000. május 16-i 2000/26/EK irányelve a tagállamok gépjármű-felelősségbiztosításra vonatkozó jogszabályainak közelítéséről, valamint a Tanács 73/239/EGK és a 88/357/EGK irányelvének módosításáról (negyedik gépjármű-felelősségbiztosítási irányelv).
 

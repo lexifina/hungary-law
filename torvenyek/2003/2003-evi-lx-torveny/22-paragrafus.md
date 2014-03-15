@@ -14,7 +14,7 @@ f) a tagok által teljesítendő kötelező pótlólagos befizetésről, tovább
 
 g) megszűnés esetén az egyesületi vagyon felhasználásáról, a fennálló kötelezettségek, ezen belül a biztosítási kötelezettségek elkülönített rendezéséről,
 
-h) a kölcsönös biztosító egyesület átalakulására – beleértve a 27. § (1) bekezdésben foglalt esetet is –, feloszlására vonatkozó – legfőbb szervhez intézett – indítvány előterjesztésének szabályairól.
+h) a kölcsönös biztosító egyesület átalakulására, egyesülésére, szétválására – beleértve a 27. § (1) bekezdésben foglalt esetet is –, feloszlására vonatkozó – legfőbb szervhez intézett – indítvány előterjesztésének szabályairól.
 
 (2) A kölcsönös biztosító egyesület által kötött felelősségbiztosítási szerződés esetén az (1) bekezdés f) pontjában foglaltak szerinti szolgáltatáscsökkentésre nincs lehetőség.
 
