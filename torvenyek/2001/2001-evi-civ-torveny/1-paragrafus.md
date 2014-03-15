@@ -6,7 +6,7 @@
 
 1. § (1) E törvény alkalmazásában
 
-1. jogi személy: minden szervezet és annak önálló képviseleti joggal rendelkező szervezeti egysége, amelyet jogszabály jogi személyként ismer el, valamint az a szervezet, amely a polgári jogi viszonyok önálló jogalanya lehet, és a tagoktól elkülönülő vagyonnal rendelkezik, ideértve a gazdasági társaságokról szóló törvény szerinti előtársaságokat is,
+1. jogi személy: minden szervezet és annak önálló képviseleti joggal rendelkező szervezeti egysége, amelyet jogszabály jogi személyként ismer el, valamint az a szervezet, amely a polgári jogi viszonyok önálló jogalanya lehet, és a tagoktól elkülönülő vagyonnal rendelkezik, ideértve a Polgári Törvénykönyv szerinti előtársaságokat is,
 
 2. előnyön bármely dolgot, vagyoni értékű jogot, követelést, kedvezményt – függetlenül attól, hogy a számvitelről szóló törvény szerint nyilvántartásba vették-e – is érteni kell, úgyszintén azt is, ha a jogi személy valamely jogszabályból vagy szerződésből eredő kötelezettség vagy az ésszerű gazdálkodás szabályai szerint szükséges ráfordítás alól mentesül.
 
