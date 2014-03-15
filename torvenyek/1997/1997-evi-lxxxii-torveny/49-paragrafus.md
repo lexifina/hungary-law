@@ -14,7 +14,7 @@ b) aki vezető tisztségviselő volt olyan önkéntes kölcsönös biztosító p
 
 c) aki súlyosan vagy ismételten megsértette a Felügyelet feladatkörébe eső törvények, illetve e törvények felhatalmazása alapján kiadott jogszabályok előírásait, és emiatt vele szemben 5 évnél nem régebben az illetékes felügyelet, más hatóság a legmagasabb összegű bírságot szabta ki, vagy annál súlyosabb szankciót alkalmazott, illetve a bíróság jogerős ítéletével büntetőjogi felelősségét megállapította. E tekintetben súlyos szankciónak minősül, ha a Felügyelet, más hatóság jogerős határozatban a kiszabható legmagasabb összegű bírságot szabta ki, vagy annál súlyosabb szankciót alkalmazott.
 
-d) aki vezető tisztségviselője volt olyan, a Gt. hatálya alá tartozó vállalkozásnak vagy szövetkezetnek, amelyben 5 éven belül csőd- vagy felszámolási eljárást kellett lefolytatni,
+d) aki vezető tisztségviselője volt olyan, a Ptk. hatálya alá tartozó gazdasági társaságnak vagy szövetkezetnek, amelyben 5 éven belül csőd- vagy felszámolási eljárást kellett lefolytatni,
 
 e) akinek egyéb tulajdonosi érdekeltsége és üzleti tevékenysége veszélyeztetné a pénztár biztonságos működését.
 

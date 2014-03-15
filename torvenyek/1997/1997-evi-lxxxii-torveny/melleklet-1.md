@@ -22,7 +22,7 @@ A törvényben hivatkozott jogszabályok rövidítései
 
 10. Öpt.: az 1993. évi XCVI. törvény az Önkéntes Kölcsönös Biztosító Pénztárakról;
 
-11. Ptk.: az 1959. évi IV. törvény a Magyar Köztársaság Polgári Törvénykönyvéről;
+11. Ptk.: 2013. évi V. törvény a Polgári Törvénykönyvről;
 
 12. Tbj.: az 1997. évi LXXX. törvény a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről;
 
