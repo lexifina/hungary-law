@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-29-20-2
 | --- | --- | --- |
 | 2013-02-13 | 2013-29-20-22.1 | 29/2013. (II. 12.) Korm. rendelet |
 | 2013-10-09 | 2013-29-20-22.2 | 357/2013. (X. 8.) Korm. rendelet |
+| 2014-03-15 | 2013-29-20-22.3 | 84/2014. (III. 14.) Korm. rendelet |

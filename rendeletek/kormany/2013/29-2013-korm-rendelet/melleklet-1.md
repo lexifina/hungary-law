@@ -1,6 +1,6 @@
-## 5. §[^1] E rendelet rendelkezéseit az 1. melléklet 1. pontjában foglalt táblázatnak a szennyvíz-elvezetési és tisztítási beruházásokkal összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 29/2013. (II. 12.) Korm. rendelet módosításáról szóló 357/2013. (X. 8.) Korm. rendelettel beiktatott 255–281. sorában meghatározott projektekkel összefüggő, folyamatban lévő ügyekben is alkalmazni kell, a 2. § a) pont kivételével.
+## 6. §[^2] E rendelet rendelkezéseit az 1. melléklet 1. pontjában foglalt táblázatnak a szennyvíz-elvezetési és -tisztítási beruházásokkal összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 29/2013. (II. 12.) Korm. rendelet módosításáról szóló 84/2014. (III. 14.) Korm. rendelettel (a továbbiakban: Módr.) beiktatott 282. és 283. sorában, valamint az 1. melléklet 2. pontjában foglalt táblázatnak a Módr.-rel beiktatott 27–46. sorában meghatározott projektekkel összefüggő, folyamatban lévő ügyekben is alkalmazni kell, a 2. § a) pont kivételével.
 
-1. melléklet a 29/2013. (II. 12.) Korm. rendelethez[^2]
+1. melléklet a 29/2013. (II. 12.) Korm. rendelethez[^3]
 
 ## A kiemelt jelentőségű ügyek alapját képező szennyvíz-elvezetési és -tisztítási beruházások
 
@@ -18,7 +18,7 @@
 
 | 5. | TUZSÉR-KOMORÓ VÍZIKÖZMŰ BERUHÁZÁSI TÁRSULÁS | Komoró | Tuzsér | KEOP-1.2.0/09-11- 2011-0003 |
 
-| 6. | TOLNA, FADD, FÁCÁNKERT, BOGYISZLÓ, DUNASZENTGYÖRGY, GERJEN TELEPÜLÉSEK „SZENNYVÍZTISZTÍTÓ-TELEP FEJLESZTÉSE” TÁRGYÚ PÁLYÁZAT MEGVELÓSÍTÁSÁRA LÉTREHOZOTT ÖNKORMÁNYZATI TÁRSULÁSA | Tolna | – | KEOP-1.2.0/09-11- 2011-0004 |
+| 6. | TOLNA, FADD, FÁCÁNKERT, BOGYISZLÓ, DUNASZENTGYÖRGY, GERJEN TELEPÜLÉSEK “SZENNYVÍZTISZTÍTÓ-TELEP FEJLESZTÉSE” TÁRGYÚ PÁLYÁZAT MEGVELÓSÍTÁSÁRA LÉTREHOZOTT ÖNKORMÁNYZATI TÁRSULÁSA | Tolna | – | KEOP-1.2.0/09-11- 2011-0004 |
 
 | 7. | GÖDÖLLŐ VÁROS ÖNKORMÁNYZATA | Gödöllő | – | KEOP-1.2.0/09-11- 2011-0005 |
 
@@ -164,7 +164,7 @@
 
 | 78. | NYÍRMEGGYES-NYÍRCSAHOLY ÖNKORMÁNYZATOK TÁRSULÁSA SZENNYVÍZCSATORNA-HÁLÓZAT KIÉPÍTÉSÉRE | Nyírmeggyes | Nyírcsaholy | KEOP-1.2.0/2F/09- 2010-0008 |
 
-| 79. | „VÁCSZENTLÁSZLÓ AGGLOMERÁCIÓ – VALKÓ, VÁCSZENTLÁSZLÓ, ZSÁMBOK SZENNYVÍZ ELVEZETÉSE ÉS TISZTÍTÁSA” – CSATORNA BERUHÁZÁSI ÉS ÜZEMELTETÉSI ÖNKORMÁNYZATI TÁRSULÁS | Vácszentlászló | Valkó, Zsámbok | KEOP-1.2.0/2F/09- 2010-0009 |
+| 79. | “VÁCSZENTLÁSZLÓ AGGLOMERÁCIÓ – VALKÓ, VÁCSZENTLÁSZLÓ, ZSÁMBOK SZENNYVÍZ ELVEZETÉSE ÉS TISZTÍTÁSA” – CSATORNA BERUHÁZÁSI ÉS ÜZEMELTETÉSI ÖNKORMÁNYZATI TÁRSULÁS | Vácszentlászló | Valkó, Zsámbok | KEOP-1.2.0/2F/09- 2010-0009 |
 
 | 80. | SAJÓECSEG KÖZSÉGI ÖNKORMÁNYZAT | Sajóecseg | Sajókeresztúr | KEOP-1.2.0/2F/09- 2010-0010 |
 
@@ -570,7 +570,9 @@
 
 | 281. | DMRV DUNA MENTI REGIONÁLIS VÍZMŰ ZÁRTKÖRŰEN MŰKÖDŐ RÉSZVÉNYTÁRSASÁG | Vác | – | KEOP-7.1.0/11-2013-0035 |
 
-|  |  |  |  | ” |
+| 282. | JÁSZLADÁNY NAGYKÖZSÉGI ÖNKORMÁNYZAT | Jászladány | – | KEOP-1.2.0/09-11-2013- 0018 |
+
+| 283. | SOPRON MEGYEI JOGÚ VÁROS ÖNKORMÁNYZATA | Sopron-Balf | – | KEOP-1.2.0/09-11-2013- 0026 |
 
 * A KEOP azonosítók közlése tájékoztató jellegű, azok a projektek könnyebb beazonosíthatóságát szolgálják. Az előkészítési fázisban levő projektek a megvalósítás szakaszában új KEOP azonosítóval rendelkeznek majd.
 
@@ -630,5 +632,45 @@
 
 | 26. | CSANYTELEK KÖZSÉG ÖNKORMÁNYZATA | KEOP-1.2.0/09-11-2013-0005 |
 
-[^1]: Az 5. §-t a 357/2013. (X. 8.) Korm. rendelet 1. §-a iktatta be.
-[^2]: Az 1. melléklet a 357/2013. (X. 8.) Korm. rendelet 2. §-a szerint módosított szöveg.
+| 27. | NFP NEMZETI FEJLESZTÉSI PROGRAMIRODA NONPROFIT KORLÁTOLT FELELŐSSÉGŰ TÁRSASÁG | KEOP-7.1.0/11-2014-0005 |
+
+| 28. | NFP NEMZETI FEJLESZTÉSI PROGRAMIRODA NONPROFIT KORLÁTOLT FELELŐSSÉGŰ TÁRSASÁG | KEOP-7.1.0/11-2014-0007 |
+
+| 29. | NFP NEMZETI FEJLESZTÉSI PROGRAMIRODA NONPROFIT KORLÁTOLT FELELŐSSÉGŰ TÁRSASÁG | KEOP-7.1.0/11-2014-0011 |
+
+| 30. | NFP NEMZETI FEJLESZTÉSI PROGRAMIRODA NONPROFIT KORLÁTOLT FELELŐSSÉGŰ TÁRSASÁG | KEOP-7.1.0/11-2014-0003 |
+
+| 31. | NFP NEMZETI FEJLESZTÉSI PROGRAMIRODA NONPROFIT KORLÁTOLT FELELŐSSÉGŰ TÁRSASÁG | KEOP-7.1.0/11-2014-0009 |
+
+| 32. | NFP NEMZETI FEJLESZTÉSI PROGRAMIRODA NONPROFIT KORLÁTOLT FELELŐSSÉGŰ TÁRSASÁG | KEOP-7.1.0/11-2014-0012 |
+
+| 33. | NFP NEMZETI FEJLESZTÉSI PROGRAMIRODA NONPROFIT KORLÁTOLT FELELŐSSÉGŰ TÁRSASÁG | KEOP-7.1.0/11-2014-0006 |
+
+| 34. | NFP NEMZETI FEJLESZTÉSI PROGRAMIRODA NONPROFIT KORLÁTOLT FELELŐSSÉGŰ TÁRSASÁG | KEOP-7.1.0/11-2014-0008 |
+
+| 35. | NFP NEMZETI FEJLESZTÉSI PROGRAMIRODA NONPROFIT KORLÁTOLT FELELŐSSÉGŰ TÁRSASÁG | KEOP-7.1.0/11-2014-0002 |
+
+| 36. | NFP NEMZETI FEJLESZTÉSI PROGRAMIRODA NONPROFIT KORLÁTOLT FELELŐSSÉGŰ TÁRSASÁG | KEOP-7.1.0/11-2014-0004 |
+
+| 37. | NFP NEMZETI FEJLESZTÉSI PROGRAMIRODA NONPROFIT KORLÁTOLT FELELŐSSÉGŰ TÁRSASÁG | KEOP-7.1.0/11-2014-0010 |
+
+| 38. | KARTAL NAGYKÖZSÉG ÖNKORMÁNYZATA | KEOP-1.2.0/09-11-2013-0022 |
+
+| 39. | ZALASZENTGRÓT – TEKENYE SZENNYVÍZKEZELÉSI ÖNKORMÁNYZATI TÁRSULÁS | KEOP-1.2.0/09-11-2013-0027 |
+
+| 40. | TUNYOGMATOLCS KÖZSÉG ÖNKORMÁNYZATA | KEOP-1.2.0/09-11-2013-0029 |
+
+| 41. | KÁLLÓSEMJÉN NAGYKÖZSÉG ÖNKORMÁNYZATA | KEOP-1.2.0/09-11-2013-0031 |
+
+| 42. | HAJDÚHADHÁZ ÉS TÉGLÁS SZENNYVÍZ BERUHÁZÁSI TÁRSULÁSA | KEOP-1.2.0/09-11-2013-0032 |
+
+| 43. | ZSIRA, CSEPREG, HORVÁTZSIDÁNY, KISZSIDÁNY ÉS ÓLMOD TELEPÜLÉSEK SZENNYVÍZ-BERUHÁZÁSI ÖNKORMÁNYZATI TÁRSULÁSA | KEOP-1.2.0/09-11-2013-0037 |
+
+| 44. | JÁNOSHÁZA ÉS TÉRSÉGE SZENNYVÍZELVEZETÉSI BERUHÁZÁSI ÖNKORMÁNYZATI TÁRSULÁS | KEOP-1.2.0/09-11-2013-0038 |
+
+| 45. | SZENTGOTTHÁRD VÁROS ÖNKORMÁNYZATA | KEOP-1.2.0/09-11-2013-0040 |
+
+| 46. | PRÜGY-TAKTAKENÉZ SZENNYVÍZ BERUHÁZÓ ÖNKORMÁNYZATI TÁRSULÁS | KEOP-1.2.0/09-11-2013-0043 |
+
+[^2]: A 6. §-t a 84/2014. (III. 14.) Korm. rendelet 1. §-a iktatta be.
+[^3]: Az 1. melléklet a 357/2013. (X. 8.) Korm. rendelet 2. §-a, a 84/2014. (III. 14.) Korm. rendelet 2. §-a szerint módosított szöveg.
