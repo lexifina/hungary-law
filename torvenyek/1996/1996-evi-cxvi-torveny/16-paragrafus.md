@@ -14,7 +14,7 @@ b) a radioaktív anyag tulajdonosának és birtokosának nevét és lakcímét,
 
 c) az atomenergia alkalmazóját és a radioaktív anyaggal kapcsolatos tevékenységeket,
 
-d) a nyilvántartás vezetésére kötelezett természetes személy nevét és lakcímét vagy a nyilvántartás vezetésére kötelezett jogi személy, jogi személyiség nélküli gazdasági társaság vezetőjének nevét és címét,
+d) a nyilvántartás vezetésére kötelezett természetes személy nevét és lakcímét vagy a nyilvántartás vezetésére kötelezett jogi személy vezetőjének nevét és címét,
 
 e) a radioaktív anyag feltalálási helyét,
 
@@ -40,7 +40,7 @@ e) a nemzetközi jelentésekben és adatszolgáltatásokban szereplő adatközl�
 
 a) a nyilvántartás vezetésére kötelezett természetes személy neve és elérhetősége,
 
-b) a nyilvántartás vezetésére kötelezett jogi személy valamint jogi személyiséggel nem rendelkező gazdasági társaság vezetőjének neve és elérhetősége,
+b) a nyilvántartás vezetésére kötelezett jogi személy és gazdálkodó szervezet vezetőjének neve és elérhetősége,
 
 c) a sugárvédelmi megbízott neve, és elérhetősége,
 

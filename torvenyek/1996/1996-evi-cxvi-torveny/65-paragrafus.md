@@ -4,7 +4,7 @@
 
 ## Vegyes és hatályba léptető rendelkezések
 
-65. § (1) Az e törvény alapján indított kártérítési igények elbírálása a Fővárosi Törvényszék kizárólagos illetékességébe tartozik.
+65. § (1) Az e törvény alapján indított kártérítési, valamint az atomkár megtérítése iránti igények elbírálása a Fővárosi Törvényszék kizárólagos illetékességébe tartozik.
 
 (2) E törvény hatálya nem érinti az atomenergia alkalmazásával kapcsolatos nemzetközi együttműködésre vonatkozó, Magyarország által elfogadott szerződésekből származó jogokat és kötelezettségeket.
 

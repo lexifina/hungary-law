@@ -4,7 +4,7 @@
 
 (3) Az ionizáló sugárzást létrehozó létesítmények, berendezések tulajdonjogának átruházására irányuló szerződés nem hagyható jóvá,
 
-a) ha a tulajdont szerző természetes személyt, illetve a Polgári Törvénykönyv szerinti gazdálkodó szervezet képviseleti joggal rendelkező valamely tagját a bíróság
+a) ha a tulajdont szerző természetes személyt vagy gazdálkodó szervezet képviseleti joggal rendelkező valamely tagját a bíróság
 
 aa) szándékos bűncselekmény elkövetése miatt vagy
 

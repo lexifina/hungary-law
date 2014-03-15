@@ -54,7 +54,7 @@ b) az a) alpontban felsorolt nukleáris létesítményekhez közvetlenül kapcso
 
 22. engedélyes: az atomenergia alkalmazói közül, aki hatósági engedéllyel engedélyköteles tevékenységet folytat;
 
-23. atomkár: az emberélet elvesztése, a személyek testi épségében és egészségében keletkezett minden kár, minden anyagi kár, az ezekkel együttesen jelentkező környezeti kár ésszerű mértékű helyreállításának költsége, valamint a károk csökkentése vagy elhárítása érdekében ténylegesen végrehajtott, ésszerű és szükséges intézkedéssel kapcsolatosan felmerült költség, amennyiben azokat a nukleáris üzemanyag, a nukleáris létesítményben lévő radioaktív termék, hulladék vagy a nukleáris létesítményből származó, abból kiszállított, vagy oda küldött nukleáris anyag révén a nukleáris létesítményben vagy a szállítás során bekövetkezett rendkívüli esemény okozta;
+23. atomkár: az emberélet elvesztése, a személyek testi épsége és egészsége megsértése folytán keletkezett nem vagyoni sérelem, minden anyagi kár, az ezekkel együttesen jelentkező környezeti kár ésszerű mértékű helyreállításának költsége, valamint a nem vagyoni sérelem és a kár csökkentése vagy elhárítása érdekében ténylegesen végrehajtott, ésszerű és szükséges intézkedéssel kapcsolatosan felmerült költség, amennyiben azokat a nukleáris üzemanyag, a nukleáris létesítményben lévő radioaktív termék, hulladék vagy a nukleáris létesítményből származó, abból kiszállított, vagy oda küldött nukleáris anyag révén a nukleáris létesítményben vagy a szállítás során bekövetkezett rendkívüli esemény okozta;
 
 24. nukleáris baleset: minden olyan rendkívüli esemény, amely atomkárt okoz;
 
@@ -104,4 +104,6 @@ b) nukleáris vagy más radioaktív anyaggal összefüggésben elkövetett, a Bt
 
 43. újrafeldolgozás: olyan folyamat vagy művelet, amelynek célja nukleáris vagy más radioaktív anyag kinyerése kiégett üzemanyagból további felhasználás céljára;
 
-44. végleges elhelyezés: a kiégett üzemanyag és a radioaktív hulladék visszanyerés szándéka nélkül történő végső, engedélyezett elhelyezése.
+44. végleges elhelyezés: a kiégett üzemanyag és a radioaktív hulladék visszanyerés szándéka nélkül történő végső, engedélyezett elhelyezése;
+
+45. gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet.
