@@ -1,0 +1,1 @@
+26. § A hivatal a nyilvántartásba bejegyzett adatokat a bizalmi vagyonkezelési szerződésre vonatkozó adatoknak a nyilvántartásból való törlését követően tíz évig tárolja, azt követően azokat megsemmisíti.
