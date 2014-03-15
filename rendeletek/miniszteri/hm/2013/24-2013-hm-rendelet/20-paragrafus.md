@@ -1,5 +1,9 @@
-## 19. §[^10]
+## 19. § A kártérítési felelősségről, valamint egyes meg nem térülő károk leírásának és törlésének szabályairól szóló 10/2013. (VIII. 12.) HM rendelet 26. §-ában a „közeli hozzátartozója” szövegrész helyébe a „közeli hozzátartozója, élettársa” szöveg lép.
 
 ## 6. Az egyes pénzbeli, természetbeni és szociális juttatásokról szóló 12/2013. (VIII. 15.) HM rendelet módosítása
 
-[^10]: A 19. § a 25. § (2) bekezdése alapján 2014. március 15-én lép hatályba.
+## 20. § Az egyes pénzbeli, természetbeni és szociális juttatásokról szóló 12/2013. (VIII. 15.) HM rendelet
+
+a) 1. § (1) bekezdés e) pontjában a „közeli hozzátartozójára” szövegrészek helyébe a „közeli hozzátartozójára, élettársára”,
+
+b) 22. § (1) bekezdés a) pontjában a „közeli hozzátartozóinak” szövegrész helyébe a „közeli hozzátartozóinak, élettársának”

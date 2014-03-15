@@ -1,17 +1,17 @@
-## 6–16. §[^4]
+## 6–16. §[^5]
 
 ## 17. § Az R2.
 
-a)–b)[^5]
+a) 11. § (1) bekezdés b) pontjában a „közeli hozzátartozóira” szövegrész helyébe a „közeli hozzátartozóira, élettársára”,
+
+b) 11. § (1) bekezdés b) pontjában a „közeli hozzátartozó” szövegrész helyébe a „közeli hozzátartozó, élettárs”,
 
 c)–e)[^6]
 
-f)[^7]
+f) 251. § (3) bekezdésében a „közeli hozzátartozója” szövegrész helyébe a „közeli hozzátartozója, élettársa”,
 
-g)–j)[^8]
+g)–j)[^7]
 
-[^4]: A 6–16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^5]: A 17. § a)–b) pontja a 25. § (2) bekezdése alapján 2014. március 15-én lép hatályba.
+[^5]: A 6–16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^6]: A 17. § c)–e) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^7]: A 17. § f) pontja a 25. § (2) bekezdése alapján 2014. március 15-én lép hatályba.
-[^8]: A 17. § g)–j) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 17. § g)–j) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
