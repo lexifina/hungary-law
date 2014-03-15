@@ -4,12 +4,12 @@
 
 (3)[^5] Ha az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság tudomására jut, hogy a bizonyítványt kiállító hatósági állatorvos a bizonyítványt szándékosan jogellenes módon állította ki, az élelmiszerlánc-biztonsági és állategészségügyi igazgatóságnak kezdeményeznie kell a hatósági állatorvos felelősségre vonását, és meg kell tennie valamennyi szükséges intézkedést annak biztosítására, hogy az érintett személy ne tudja megismételni a jogsértést.
 
-(4)[^6] Amennyiben az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság tudomására jut, hogy valamely természetes vagy jogi személy, illetve jogi személyiség nélküli gazdasági társaság megváltoztat vagy jogszabályellenesen használ fel hatósági bizonyítványt, kezdeményezi a felelősségre vonást és megtesz minden szükséges intézkedést annak érdekében, hogy az érintett természetes vagy jogi személy, illetve jogi személyiség nélküli gazdasági társaság ne tudja megismételni a jogszabálysértést.
+(4)[^6] Amennyiben az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság tudomására jut, hogy valamely természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező szervezet megváltoztat vagy jogszabályellenesen használ fel hatósági bizonyítványt, kezdeményezi a felelősségre vonást és megtesz minden szükséges intézkedést annak érdekében, hogy az érintett természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező szervezet ne tudja megismételni a jogszabálysértést.
 
 (5)[^7] Ha az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság tudomására jut, hogy a (4) bekezdés szerinti jogszabálysértés elkövetését jogerősen megállapították, az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság az érintett részére további bizonyítvány kiállítását legfeljebb egy évig megtagadhatja.
 
 [^3]: Az 5. § (1) bekezdése a 70/2013. (VII. 31.) VM rendelet 42. § b) pontja szerint módosított szöveg.
 [^4]: Az 5. § (2) bekezdése a 70/2013. (VII. 31.) VM rendelet 42. § b) pontja szerint módosított szöveg.
 [^5]: Az 5. § (3) bekezdése a 70/2013. (VII. 31.) VM rendelet 42. § b)–c) pontja szerint módosított szöveg.
-[^6]: Az 5. § (4) bekezdése a 70/2013. (VII. 31.) VM rendelet 42. § b) pontja szerint módosított szöveg.
+[^6]: Az 5. § (4) bekezdése a 70/2013. (VII. 31.) VM rendelet 42. § b) pontja, a 22/2014. (III. 14.) VM rendelet 30. §-a szerint módosított szöveg.
 [^7]: Az 5. § (5) bekezdése a 70/2013. (VII. 31.) VM rendelet 42. § b) pontja szerint módosított szöveg.
