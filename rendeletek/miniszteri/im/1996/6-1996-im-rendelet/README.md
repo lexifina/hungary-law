@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1996-6-20-06
 | 2013-01-01 | 1996-6-20-06.25 | 50/2012. (XII. 4.) KIM rendelet |
 | 2013-07-01 | 1996-6-20-06.26 | 9/2013. (VI. 29.) KIM rendelet |
 | 2013-10-01 | 1996-6-20-06.27 | 23/2013. (IX. 30.) KIM rendelet |
+| 2014-03-15 | 1996-6-20-06.28 | 23/2014. (III. 14.) KIM rendelet |

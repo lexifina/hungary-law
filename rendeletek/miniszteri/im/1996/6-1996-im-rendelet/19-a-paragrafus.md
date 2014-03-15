@@ -2,6 +2,7 @@
 
 (2) A hozzájárulás beszerzése érdekében engedélyezni kell, hogy az elítélt egy alkalommal levelet írjon az érintett részére.
 
-(3) A kapcsolattartó adatait az érintett írásbeli hozzájárulásával lehet a nyilvántartásban feltüntetni. Ha a kapcsolattartó cselekvőképtelen vagy korlátozottan cselekvőképes, írásbeli hozzájárulására külön törvény rendelkezései irányadók.
+(3)[^27] A kapcsolattartó adatait az érintett írásbeli hozzájárulásával lehet a nyilvántartásban feltüntetni. Ha a kapcsolattartó kiskorú vagy cselekvőképtelen nagykorú, helyette törvényes képviselője adhatja meg írásban a hozzájárulást. Ha a kapcsolattartó a személyes ügyei vitele tekintetében cselekvőképességében részlegesen korlátozott, írásbeli hozzájárulása érvényességéhez gondnoka írásbeli hozzájárulása is szükséges.
 
 [^26]: A 19/A. §-t a 32/2007. (VI. 18.) IRM rendelet 1. §-a iktatta be. E módosító rendelet 5. §-a alapján a 2007. június 19. napját követő 30 napon belül a büntetés-végrehajtási intézet köteles felhívni a fenti időpontban fogva tartott személyt, hogy a kapcsolattartóként megjelölt személy személyes adatainak nyilvántartásba vételéhez a kapcsolattartóként megjelölt személy hozzájárulása szükséges. Az intézet tájékoztatásának arra is ki kell terjednie, hogy a kapcsolattartóként megjelölt személy hozzájárulása hiányában az intézet a kapcsolattartó személyes adatait nem tarthatja nyilván.
+[^27]: A 19/A. § (3) bekezdése a 23/2014. (III. 14.) KIM rendelet 1. § (1) bekezdésével megállapított szöveg.

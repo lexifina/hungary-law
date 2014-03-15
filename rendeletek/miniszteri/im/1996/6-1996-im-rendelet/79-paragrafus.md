@@ -2,7 +2,7 @@
 
 ## Az értékelő vélemény
 
-79. § (1)[^94] Az elítéltről értékelő véleményt kell készíteni a hatóságok indokolt megkeresésére, továbbá – törvény eltérő rendelkezése hiányában –
+79. § (1)[^95] Az elítéltről értékelő véleményt kell készíteni a hatóságok indokolt megkeresésére, továbbá – törvény eltérő rendelkezése hiányában –
 
 a) a szabadságvesztés végrehajtási fokozatának megváltoztatására,
 
@@ -26,4 +26,4 @@ i) az átszállításra
 
 (2) Az értékelés az elítélt személyi és büntetés-végrehajtási adataira, a végrehajtás során a vele kapcsolatos fontosabb eseményekre, a viselkedésére, tanulására, munkavégzésére, a jutalmazási és a fegyelmi adatokra, a szabadidő eltöltésének módjára, a kapcsolattartásra, a szabadulásra való felkészítés érdekében tett intézkedésekre terjed ki. Az értékelő vélemény csak törvényben meghatározott, a bv. szervezet által nyilvántartható adatokat tartalmazhat.
 
-[^94]: A 79. § (1) bekezdése a 14/2006. (III. 28.) IM rendelet 1. §-ával megállapított szöveg.
+[^95]: A 79. § (1) bekezdése a 14/2006. (III. 28.) IM rendelet 1. §-ával megállapított szöveg.

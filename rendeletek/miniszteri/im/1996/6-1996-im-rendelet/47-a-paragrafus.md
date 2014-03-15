@@ -1,6 +1,6 @@
-## Hosszú időre ítéltek körletére helyezés[^69]
+## Hosszú időre ítéltek körletére helyezés[^70]
 
-47/A. §[^70] (1) Az életfogytig tartó vagy legalább tizenöt évi szabadságvesztés büntetését töltő elítélt, hosszú időre ítéltek körletére helyezhető, ha a magatartása, a szabadságvesztés végrehajtása során tanúsított együttműködési készsége és egyéni biztonsági kockázatértékelése alapján különleges kezelése és elhelyezése indokolt.
+47/A. §[^71] (1) Az életfogytig tartó vagy legalább tizenöt évi szabadságvesztés büntetését töltő elítélt, hosszú időre ítéltek körletére helyezhető, ha a magatartása, a szabadságvesztés végrehajtása során tanúsított együttműködési készsége és egyéni biztonsági kockázatértékelése alapján különleges kezelése és elhelyezése indokolt.
 
 (2) A hosszú időre ítéltek körlete az országos parancsnok intézkedésében kijelölt intézetnek az e célra kialakított, különleges biztonságú zárkákból és a hozzájuk tartozó helyiségekből álló, elkülönített része.
 
@@ -20,5 +20,5 @@ d) számára a Bv. tvr. 36. § (1) bekezdés c) pontjában és (3) bekezdésébe
 
 (6) Az elhelyezés megszüntetését követő egy év elteltével az elítélt, ha ennek feltételei fennállnak ismét a hosszú időre ítéltek körletére helyezhető.
 
-[^69]: A 47/A. §-t megelőző alcímet a 61/2007. (XII. 23.) IRM rendelet 4. §-a iktatta be.
-[^70]: A 47/A. §-t a 61/2007. (XII. 23.) IRM rendelet 4. §-a iktatta be.
+[^70]: A 47/A. §-t megelőző alcímet a 61/2007. (XII. 23.) IRM rendelet 4. §-a iktatta be.
+[^71]: A 47/A. §-t a 61/2007. (XII. 23.) IRM rendelet 4. §-a iktatta be.

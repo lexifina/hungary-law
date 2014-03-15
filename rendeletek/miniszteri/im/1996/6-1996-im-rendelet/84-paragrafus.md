@@ -6,6 +6,6 @@
 
 (3) A rövid tartamú eltávozásról és a kimaradásról az elítélt tartózkodási helye szerint illetékes rendőrkapitányságot értesíteni kell.
 
-(4)[^98]
+(4)[^99]
 
-[^98]: A 84. § (4) bekezdését a 24/2003. (VII. 1.) IM rendelet 26. § (2) bekezdésének c) pontja hatályon kívül helyezte.
+[^99]: A 84. § (4) bekezdését a 24/2003. (VII. 1.) IM rendelet 26. § (2) bekezdésének c) pontja hatályon kívül helyezte.

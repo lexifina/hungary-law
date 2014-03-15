@@ -6,7 +6,7 @@
 
 a) akinek korlátozott beszámítási képességét állapították meg;
 
-b)[^164]
+b)[^166]
 
 c) akit a szabadságvesztés végrehajtása alatti időben – kóros elmeállapota miatt – az IMEI-ben kezeltek, és elmeállapota olyan mértékben javult, hogy az a szabadságvesztés folytatását nem akadályozza;
 
@@ -14,4 +14,4 @@ d) akinek a személyiségzavar jellege, vagy annak súlyossága miatt a gyógyí
 
 (2) A gyógyító-nevelő csoportból való kihelyezésről – orvosi javaslatra – a parancsnok dönt. Javult elmeállapotú elítéltet – (1) bekezdés c) pont – csak az IMEI írásbeli engedélyével lehet a gyógyító-nevelő csoportból kihelyezni.
 
-[^164]: A 173. § (1) bekezdés b) pontját a 11/2010. (III. 31.) IRM rendelet 43. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^166]: A 173. § (1) bekezdés b) pontját a 11/2010. (III. 31.) IRM rendelet 43. § (2) bekezdés a) pontja hatályon kívül helyezte.

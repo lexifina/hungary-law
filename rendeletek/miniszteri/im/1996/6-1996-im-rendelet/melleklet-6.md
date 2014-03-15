@@ -2,7 +2,7 @@
 
 ## és az elítéltnél tartható tárgyak
 
-## 1.[^279] Állandó berendezési és felszerelési tárgyak:
+## 1.[^281] Állandó berendezési és felszerelési tárgyak:
 
 ## – rögzített kemény fekhely;
 
@@ -16,7 +16,7 @@
 
 ## – WC.
 
-## 2.[^280] A takarodótól az ébresztőig:
+## 2.[^282] A takarodótól az ébresztőig:
 
 ## – takaró és takaróhuzat;
 
@@ -46,5 +46,5 @@
 
 6. számú melléklet a 6/1996. (VII. 12.) IM rendelethez
 
-[^279]: Az 5. számú melléklet 1. pontja a 24/2003. (VII. 1.) IM rendelet 26. § (2) bekezdésének c) pontja szerint módosított szöveg.
-[^280]: Az 5. számú melléklet 2. pontja a 24/2003. (VII. 1.) IM rendelet 24. §-ának (2) bekezdésével megállapított szöveg.
+[^281]: Az 5. számú melléklet 1. pontja a 24/2003. (VII. 1.) IM rendelet 26. § (2) bekezdésének c) pontja szerint módosított szöveg.
+[^282]: Az 5. számú melléklet 2. pontja a 24/2003. (VII. 1.) IM rendelet 24. §-ának (2) bekezdésével megállapított szöveg.

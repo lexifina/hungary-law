@@ -34,7 +34,7 @@
 
 ## – az előzetesen letartóztatottnál saját tulajdonú alsó- és felsőruházat, lábbeli és papucs.
 
-## 3.[^272] Élelmiszerek, étkezési eszközök:
+## 3.[^274] Élelmiszerek, étkezési eszközök:
 
 ## – az intézetben vásárolt vagy csomagban beküldhető élelmiszerek;
 
@@ -54,7 +54,7 @@
 
 ## – pohár.
 
-## 4.[^273] Dohányáruk:
+## 4.[^275] Dohányáruk:
 
 ## – cigaretta, szivar, szivarka, fogyasztási dohány;
 
@@ -74,7 +74,7 @@
 
 ## – könyvek, napilapok, folyóiratok.
 
-## 6.[^274] Egyéb használati tárgyak:
+## 6.[^276] Egyéb használati tárgyak:
 
 ## – a vallásgyakorlathoz szükséges kegytárgyak;
 
@@ -98,6 +98,6 @@
 
 2. számú melléklet a 6/1996. (VII. 12.) IM rendelethez
 
-[^272]: Az 1. számú melléklet 3. pontja a 18/2002. (XI. 30.) IM rendelet 66. §-ának (1) bekezdése szerint kiegészített, a 41/2011. (XII. 30.) KIM rendelet 9. § m) pontja szerint módosított szöveg.
-[^273]: Az 1. számú melléklet 4. pontja a 18/2002. (XI. 30.) IM rendelet 66. §-ának (1) bekezdése szerint kiegészített, a 46/2012. (X. 25.) KIM rendelet 2. § a) pontja szerint módosított szöveg.
-[^274]: Az 1. számú melléklet 6. pontja a 12/2010. (XI. 9.) KIM rendelet 7. §-ával megállapított, a 46/2012. (X. 25.) KIM rendelet 2. § b) pontja szerint módosított szöveg.
+[^274]: Az 1. számú melléklet 3. pontja a 18/2002. (XI. 30.) IM rendelet 66. §-ának (1) bekezdése szerint kiegészített, a 41/2011. (XII. 30.) KIM rendelet 9. § m) pontja szerint módosított szöveg.
+[^275]: Az 1. számú melléklet 4. pontja a 18/2002. (XI. 30.) IM rendelet 66. §-ának (1) bekezdése szerint kiegészített, a 46/2012. (X. 25.) KIM rendelet 2. § a) pontja szerint módosított szöveg.
+[^276]: Az 1. számú melléklet 6. pontja a 12/2010. (XI. 9.) KIM rendelet 7. §-ával megállapított, a 46/2012. (X. 25.) KIM rendelet 2. § b) pontja szerint módosított szöveg.

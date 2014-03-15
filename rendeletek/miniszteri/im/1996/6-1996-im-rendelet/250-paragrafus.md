@@ -10,9 +10,9 @@
 
 (5) Az előzetesen letartóztatott a látogatáskor, a bíróság, az ügyész, illetve a más hatóság elé állításakor, valamint az egészségügyi intézménybe való átszállításakor a saját ruházatát viseli. A saját ruha viselését akkor is biztosítani kell, ha az előzetesen letartóztatott részére engedélyezték a súlyosan beteg hozzátartozó meglátogatását vagy a hozzátartozó temetésén való részvételt.
 
-(6)[^258] A katona a bíróság, az ügyész, illetve más hatóság elé állításakor egyenruhát visel.
+(6)[^260] A katona a bíróság, az ügyész, illetve más hatóság elé állításakor egyenruhát visel.
 
-(7)[^259] Ha a magánelzárás fegyelmi fenyítésben részesült előzetesen letartóztatott ruházata (annak valamely felszerelése vagy tartozéka) a fogvatartás biztonságát, illetve az előzetesen letartóztatott testi épségét veszélyezteti, részére más megfelelő polgári ruházatot kell biztosítani.
+(7)[^261] Ha a magánelzárás fegyelmi fenyítésben részesült előzetesen letartóztatott ruházata (annak valamely felszerelése vagy tartozéka) a fogvatartás biztonságát, illetve az előzetesen letartóztatott testi épségét veszélyezteti, részére más megfelelő polgári ruházatot kell biztosítani.
 
-[^258]: A 250. § új (6) bekezdését a 61/2007. (XII. 23.) IRM rendelet 8. §-a iktatta be, egyidejűleg az eredeti (6) bekezdés számozását (7) bekezdésre változtatva.
-[^259]: A 250. § eredeti (6) bekezdésének számozását a 61/2007. (XII. 23.) IRM rendelet 8. §-a (7) bekezdésre változtatta.
+[^260]: A 250. § új (6) bekezdését a 61/2007. (XII. 23.) IRM rendelet 8. §-a iktatta be, egyidejűleg az eredeti (6) bekezdés számozását (7) bekezdésre változtatva.
+[^261]: A 250. § eredeti (6) bekezdésének számozását a 61/2007. (XII. 23.) IRM rendelet 8. §-a (7) bekezdésre változtatta.

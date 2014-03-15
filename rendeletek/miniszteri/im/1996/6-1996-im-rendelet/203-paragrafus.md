@@ -1,6 +1,6 @@
-## A szabadságvesztés mellett kiszabott foglalkozástól eltiltással, járművezetéstől eltiltással, kitiltással, sportrendezvények látogatásától való eltiltással, kiutasítással és közügyektől eltiltással kapcsolatos rendelkezések[^209]
+## A szabadságvesztés mellett kiszabott foglalkozástól eltiltással, járművezetéstől eltiltással, kitiltással, sportrendezvények látogatásától való eltiltással, kiutasítással és közügyektől eltiltással kapcsolatos rendelkezések[^211]
 
-203. §[^210] (1) A szabadítás napján a foglalkozástól eltiltásról, járművezetéstől eltiltásról, kitiltásról, sportrendezvények látogatásától való eltiltásról vagy közügyektől eltiltásról kiállított II. jelzésű értesítőlapot meg kell küldeni:
+203. §[^212] (1) A szabadítás napján a foglalkozástól eltiltásról, járművezetéstől eltiltásról, kitiltásról, sportrendezvények látogatásától való eltiltásról vagy közügyektől eltiltásról kiállított II. jelzésű értesítőlapot meg kell küldeni:
 
 a) közügyektől eltiltás és foglalkozástól eltiltás esetén az elítélt lakóhelye, ennek hiányában tartózkodási helye szerinti rendőrkapitányságnak,
 
@@ -24,5 +24,5 @@ d) sportrendezvények látogatásától való eltiltás esetén a rendőrség sp
 
 (8) Ha a foglalkozástól eltiltás, járművezetéstől eltiltás, kitiltás, sportrendezvények látogatásától való eltiltás, kiutasítás vagy közügyektől eltiltás hatálya alatt álló elítélt feltételes szabadságát megszüntetik vagy a kegyelemből felfüggesztett szabadságvesztés végrehajtását elrendelik, erről a befogadó intézet értesíti az illetékes rendőrkapitányságot, járási hivatalt vagy a Bevándorlási és Állampolgársági Hivatalt. Az értesítésen fel kell tüntetni az elítélt személyi adatait, a büntetés nemét, tartamát, azon szabadságvesztés adatait, amelyből az elítélt feltételes szabadságra bocsátással vagy kegyelemmel szabadult, az új befogadás alapjául szolgáló bírósági határozat adatait. Az értesítést annak a hatóságnak kell megküldeni, amelynek az (1) és (2) bekezdés alapján az értesítőlapot továbbították.
 
-[^209]: A 203. §-t megelőző alcím a 9/2013. (VI. 29.) KIM rendelet 12. §-ával megállapított szöveg.
-[^210]: A 203. § a 9/2013. (VI. 29.) KIM rendelet 12. §-ával megállapított szöveg.
+[^211]: A 203. §-t megelőző alcím a 9/2013. (VI. 29.) KIM rendelet 12. §-ával megállapított szöveg.
+[^212]: A 203. § a 9/2013. (VI. 29.) KIM rendelet 12. §-ával megállapított szöveg.
