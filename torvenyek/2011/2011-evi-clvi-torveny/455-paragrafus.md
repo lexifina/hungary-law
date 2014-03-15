@@ -42,7 +42,7 @@ a) a (2) bekezdés c)–d), f) pontjában meghatározott jogviszony, ha a jogi s
 
 b) az iskolaszövetkezetnek a nappali rendszerű oktatás keretében tanulmányokat folytató tanuló (hallgató) tagjával fennálló jogviszony;
 
-c) a szociális szövetkezetnek a szövetkezetekről szóló törvényben meghatározott tagi munkavégzési jogviszonyban álló tagjával fennálló jogviszonya;
+c) a szociális szövetkezetnek a tagi munkavégzési jogviszonyban álló tagjával fennálló jogviszonya.
 
 d) a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 44. § (1) bekezdés a) pontja szerint a hallgatói munkaszerződés alapján létrejött jogviszony,
 
