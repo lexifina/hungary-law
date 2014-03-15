@@ -22,6 +22,7 @@ c) az eddigi szakmai tevékenység részletes leírását, amely tartalmazza a s
 
 d) a szakmai gyakorlatot igazoló okmányok másolatát.
 
-(3) Ha a végzettséget igazoló oklevélből annak szintje, vagy a szakirány nem állapítható meg, akkor a kamara a feltételek fennállásának ellenőrzése során az oklevél szintje, szakiránya tekintetében a településtervezési és az építészeti-műszaki tervezési, valamint az építésügyi műszaki szakértői jogosultság szabályairól szóló 104/2006. (IV. 28.) Korm. rendelet 3. § (8) bekezdése szerinti bizottság véleményét kéri.
+(3)[^2] Ha a végzettséget, szakképzettséget igazoló oklevélből a szakirány, illetve az egyenértékűség nem állapítható meg, akkor a kamara a feltételek fennállásának ellenőrzése során az oklevél szintje, szakiránya tekintetében az építésügyi és az építésüggyel összefüggő szakmagyakorlási tevékenységekről szóló 266/2013. (VII. 11.) Korm. rendelet 8. § (1) bekezdése szerinti szakértői testület véleményét kéri.
 
 [^1]: A 9. § (1) bekezdés a) pont ab) alpontja a 393/2013. (XI. 12.) Korm. rendelet 40. § k) pontja szerint módosított szöveg.
+[^2]: A 9. § (3) bekezdése a 62/2014. (III. 6.) Korm. rendelet 16. §-ával megállapított szöveg.
