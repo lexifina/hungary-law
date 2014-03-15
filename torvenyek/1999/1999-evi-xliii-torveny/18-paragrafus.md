@@ -12,7 +12,7 @@
 
 (6) Az üzemeltető a nyilvántartó könyv és a sírbolt könyv adatai alapján, a más temetőben, temetkezési emlékhelyen történő eltemetés esetén a befogadó nyilatkozatról vezetett nyilvántartás alapján, ezek hiányában az eltemetésre kötelezett személy nyilatkozatáról vezetett nyilvántartás alapján a temető nyitvatartási ideje alatt felvilágosítást ad a kegyeleti jogokat gyakorolni kívánó részére az elhunyt személy temetési helyéről és a hamvak elhelyezkedésének helyéről.
 
-(7) A más temetőbe, temetkezési emlékhelyre történt temetés esetén a temető vagy temetkezési emlékhely befogadó nyilatkozatát, valamint a temetőn, temetkezési emlékhelyen kívüli urnaelhelyezés esetén az eltemetésre kötelezett személy nyilatkozatát az eltemettető, az elhunyt közeli hozzátartozója és az ellenőrzést végző hatóság tekintheti meg.
+(7) A más temetőbe, temetkezési emlékhelyre történt temetés esetén a temető vagy temetkezési emlékhely befogadó nyilatkozatát, valamint a temetőn, temetkezési emlékhelyen kívüli urnaelhelyezés esetén az eltemetésre kötelezett személy nyilatkozatát az eltemettető, az elhunyt Polgári Törvénykönyv szerinti közeli hozzátartozója (a továbbiakban: közeli hozzátartozó) és az ellenőrzést végző hatóság tekintheti meg.
 
 (8) A temetőn, temetkezési emlékhelyen kívüli urnaelhelyezésről kiállított nyilatkozatot és az elhunyt más temetőbe történő áthelyezése alapjául szolgáló befogadó nyilatkozatot a temető fennállásig meg kell őrizni. Ha a temető megszűnik, a nyilatkozatok levéltárban történő elhelyezéséről a temető tulajdonosa gondoskodik.
 
