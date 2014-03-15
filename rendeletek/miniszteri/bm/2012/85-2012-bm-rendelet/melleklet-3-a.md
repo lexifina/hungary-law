@@ -30,6 +30,6 @@
 
 ## 1. katonai vétségek nyomozását végző kiemelt főreferens.
 
-3/A. melléklet a 85/2012. (XII. 28.) BM rendelethez[^9]
+3/A. melléklet a 85/2012. (XII. 28.) BM rendelethez[^10]
 
-[^9]: A 3/A. mellékletet a 49/2013. (VIII. 27.) BM rendelet 4. §-a iktatta be.
+[^10]: A 3/A. mellékletet a 49/2013. (VIII. 27.) BM rendelet 4. §-a iktatta be.

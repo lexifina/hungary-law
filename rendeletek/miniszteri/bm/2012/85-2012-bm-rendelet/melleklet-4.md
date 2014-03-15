@@ -44,7 +44,7 @@ I. Kegyeleti kiadásként elszámolható költségnormák
 
 2. Sírhelyköltség:
 
-2.1.[^10] A sírhely (urnasírhely, urnafülke) költségeit a ténylegesen felmerült, számlával igazolt, legfeljebb azonban az illetményalap kétszeresének megfelelő összeg képezi.
+2.1.[^11] A sírhely (urnasírhely, urnafülke) költségeit a ténylegesen felmerült, számlával igazolt, legfeljebb azonban az illetményalap kétszeresének megfelelő összeg képezi.
 
 2.2. Templomban vagy kápolnában elhelyezett urnasírhely (urnakripta) esetén a számla szerinti összeg, legfeljebb azonban az illetményalap kétszeresének megfelelő összeg.
 
@@ -70,4 +70,4 @@ c) síremlék avatáskor, megemlékezésekkor síremlékenként vagy emléktábl
 
 4. Sírgondozás költsége: hozzátartozó hiányában, vagy akadályoztatása esetén a hősi halott és a szolgálat halottja síremlékének gondozására, a szolgáltató által kiállított számlával igazolt összeg.
 
-[^10]: A 4. melléklet I. alcím 2. pont 2.1. alpontja a 49/2013. (VIII. 27.) BM rendelet 5. § c) pontja szerint módosított szöveg.
+[^11]: A 4. melléklet I. alcím 2. pont 2.1. alpontja a 49/2013. (VIII. 27.) BM rendelet 5. § c) pontja szerint módosított szöveg.
