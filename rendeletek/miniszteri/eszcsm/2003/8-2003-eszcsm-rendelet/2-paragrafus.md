@@ -30,7 +30,7 @@ e) önellenőrzésre szolgáló eszköz: minden olyan eszköz, amely célja a gy
 
 f) teljesítőképesség értékelésére szánt eszköz: minden olyan eszköz, amelynek az a gyártó meghatározása szerinti célja, hogy egy vagy több teljesítményértékelő vizsgálatot végezzenek rajta orvosi analitikai laboratóriumban, vagy egyéb, a gyártó telephelyén kívül eső alkalmas környezetben;
 
-g)[^3] gyártó: az a természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező gazdasági társaság, amely
+g)[^3] gyártó: az a természetes vagy jogi személy, amely
 
 ga) eszközt saját felelősségével tervez, gyárt, csomagol és címkéz azt megelőzően, hogy a saját neve alatt forgalomba kerül, függetlenül attól, hogy ezeket a műveleteket saját maga vagy megbízásából más végzi,
 
@@ -87,7 +87,7 @@ b) külső minőségértékelési programnál alkalmazott anyag.
 (5) Az emberi eredetű szövet, sejt és anyag vételére, gyűjtésére és felhasználására vonatkozó követelményeket külön jogszabály tartalmazza.
 
 [^2]: A 2. § (1) bekezdés c) pontja a 29/2011. (VI. 7.) NEFMI rendelet 30. § a) pontja szerint módosított szöveg.
-[^3]: [A 2. § (1) bekezdés g) pontjának a 3/2012. (I. 3.) NEFMI rendelet 8. § (5) bekezdésével elrendelt módosítása, amely szerint a „Magyar Köztársaságban” szövegrész helyébe a „Magyarországon” szöveg lép, nem vezethető át.]
+[^3]: A 2. § (1) bekezdés g) pont nyitó szövegrésze a 16/2014. (III. 12.) EMMI rendelet 18. §-a szerint módosított szöveg. [A 2. § (1) bekezdés g) pontjának a 3/2012. (I. 3.) NEFMI rendelet 8. § (5) bekezdésével elrendelt módosítása, amely szerint a „Magyar Köztársaságban” szövegrész helyébe a „Magyarországon” szöveg lép, nem vezethető át.]
 [^4]: A 2. § (1) bekezdésének n) pontját az 51/2004. (V. 21.) ESZCSM rendelet 3. §-a iktatta a szövegbe.
 [^5]: A 2. § (1) bekezdés o) pontját a 29/2011. (VI. 7.) NEFMI rendelet 1. §-a iktatta be.
 [^6]: A 2. § (1) bekezdés p) pontját a 29/2011. (VI. 7.) NEFMI rendelet 1. §-a iktatta be.
