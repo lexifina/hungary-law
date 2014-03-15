@@ -8,4 +8,4 @@
 
 (3) A különleges osztalékelsőbbségi részvényhez szavazati jog nem kapcsolódik.
 
-(4) A különleges osztalékelsőbbségi részvény esetében a Gt. 187. §-ának (2) és (3) bekezdésében foglaltakat nem kell alkalmazni.
+(4) A különleges osztalékelsőbbségi részvény esetében a Ptk. 3:231. § (2) bekezdésében foglaltakat nem kell alkalmazni.

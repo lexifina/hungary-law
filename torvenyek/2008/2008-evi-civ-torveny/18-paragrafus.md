@@ -2,7 +2,7 @@
 
 (2) A Magyar Állam a közgyűlés hatáskörében eljárva meghozott döntéseit a hitelintézet vezető tisztségviselőivel és a felügyelőbizottság tagjaival haladéktalanul, írásban közli.
 
-(3) A Magyar Állam a közgyűlés hatáskörében eljárva köteles a Gt.-nek a minősített többséget biztosító befolyással rendelkező részvényesre vonatkozó szabályai, és a hitelintézet stabil működése helyreállításához fűződő érdekek elsődlegessége alapján eljárni.
+(3) A Magyar Állam a közgyűlés hatáskörében eljárva köteles a Ptk. jogi személyekre vonatkozó rendelkezéseinek a minősített többséget biztosító befolyással rendelkező részvényesre vonatkozó szabályai, és a hitelintézet stabil működése helyreállításához fűződő érdekek elsődlegessége alapján eljárni.
 
 (4) A Magyar Állam a hitelintézettel szemben korlátlanul felel a Magyar Állam által a (3) bekezdésben meghatározott kötelezettség felróható megszegésével okozott károkért.
 

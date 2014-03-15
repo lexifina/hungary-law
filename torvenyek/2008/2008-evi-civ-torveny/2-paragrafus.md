@@ -4,7 +4,7 @@
 
 (2) E törvényben és az e törvény felhatalmazása alapján kiadott jogszabályban
 
-1. alapszabály: a Gt.-ben meghatározott alapszabály és alapító okirat,
+1. alapszabály: a Ptk.-ban meghatározott létesítő okirat,
 
 2. befolyás: a Tpt.-ben meghatározott fogalom,
 
@@ -18,7 +18,7 @@
 
 7. szabályozott intézmény: a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény (a továbbiakban: MNB tv.) 39. §-a szerinti szervezet és személy,
 
-8. vezető tisztségviselő: a Gt.-ben meghatározott fogalom,
+8. vezető tisztségviselő: a Ptk. jogi személyekre vonatkozó rendelkezéseiben meghatározott fogalom,
 
 9. vezető állású személy: a Hpt.-ben meghatározott fogalom,
 

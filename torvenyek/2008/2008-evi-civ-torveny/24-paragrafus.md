@@ -14,7 +14,7 @@
 
 3. Ctv.: a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény,
 
-4. Gt.: a gazdasági társaságokról szóló 2006. évi IV. törvény,
+4. Ptk.: a Polgári Törvénykönyvről szóló 2013. évi V. törvény,
 
 5. Hpt.: a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény,
 

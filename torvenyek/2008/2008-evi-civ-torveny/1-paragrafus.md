@@ -10,4 +10,4 @@ c)
 
 d) az a) és b) pontban meghatározottak felügyeletére.
 
-(2) A Gt., a Ctv., az Áht., a Hpt. és a Tpt. rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
+(2) A Ptk. jogi személyekre vonatkozó rendelkezései, a Ctv., az Áht., a Hpt. és a Tpt. rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
