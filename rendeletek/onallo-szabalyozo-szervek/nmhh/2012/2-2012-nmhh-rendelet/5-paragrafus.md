@@ -10,7 +10,7 @@ ab) nem magyar állampolgár: útlevél és lakcímét igazoló tartózkodási e
 
 valamint az előfizető döntése és hozzájárulása alapján olyan hatósági igazolvány vagy engedély, amely alapján az átadó szolgáltató őt az eredeti előfizetői szerződés megkötésekor azonosította;
 
-b) gazdálkodó szervezet esetében:
+b)[^5] Polgári Törvénykönyv szerinti vállalkozás esetében:
 
 ba) 30 napnál nem régebbi cégkivonat vagy vállalkozói igazolvány, ennek hiányában az egyéni vállalkozói nyilvántartási szám,
 
@@ -28,7 +28,7 @@ cb) az eljáró képviselő személyi igazolványa, és
 
 cc) meghatalmazás, amennyiben nem a képviseleti joggal felruházott személy jár el.
 
-(2)[^5] Az előfizető az átadó szolgáltatóval fennálló előfizetői szerződésében szereplő valamennyi számra vagy egyes számokra kérheti a számhordozást. Egy adott hálózati végponthoz rendelt egybefüggő számtartomány a 3. § (8) bekezdés szerint részlegesen is hordozásra kerülhet.
+(2)[^6] Az előfizető az átadó szolgáltatóval fennálló előfizetői szerződésében szereplő valamennyi számra vagy egyes számokra kérheti a számhordozást. Egy adott hálózati végponthoz rendelt egybefüggő számtartomány a 3. § (8) bekezdés szerint részlegesen is hordozásra kerülhet.
 
 (3) A fennálló előfizetői szerződésben szereplő azon számokra, amelyekre az előfizető nem igényelte a számhordozást, az átadó szolgáltató a szolgáltatást az érvényes előfizetői szerződés módosításával fenntartja vagy az előfizető kérésére a szolgáltatást megszünteti. Az előfizetői szerződés megszüntetését az előfizető az átadó szolgáltatónál kezdeményezheti.
 
@@ -36,7 +36,7 @@ cc) meghatalmazás, amennyiben nem a képviseleti joggal felruházott személy j
 
 (5) Az átvevő szolgáltató köteles elfogadni az előfizetői szám megtartására vonatkozó előfizetői igényt, amennyiben az előfizető megfelel az átvevő szolgáltató általános szerződési feltételeiben az új előfizetőkre vonatkozó rendelkezéseknek.
 
-(6)[^6] Az átadó szolgáltató a számhordozási igényt kizárólag abban az esetben tagadhatja meg, ha
+(6)[^7] Az átadó szolgáltató a számhordozási igényt kizárólag abban az esetben tagadhatja meg, ha
 
 a) a számhordozást kérő előfizető nem azonosítható a (1) bekezdésnek megfelelően közölt adatok alapján, vagy
 
@@ -50,5 +50,6 @@ c) az átadó szolgáltató a 3. § (8) bekezdés szerinti esetekben egyeztetés
 
 (9) A szolgáltató a határozott időtartamra kedvezményesen, vagy egyéb módon kedvezményesen értékesített készülék ellenértékének kifizetését, illetve az átvevő szolgáltató erre vonatkozó nyilatkozatának kézhezvételét követően a készülék hálózati zárát, a hálózati zár feloldásával kapcsolatban felmerült indokolt költségek alapján meghatározott díj ellenében köteles az előfizető kérésére haladéktalanul feloldani.
 
-[^5]: Az 5. § (2) bekezdése a 13/2012. (IX. 28.) NMHH rendelet 1. § (3) bekezdésével megállapított szöveg.
-[^6]: Az 5. § (6) bekezdése a 13/2012. (IX. 28.) NMHH rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^5]: Az 5. § (1) bekezdés b) pont nyitó szövegrésze a 3/2014. (III. 13.) NMHH rendelet 4. §-a szerint módosított szöveg.
+[^6]: Az 5. § (2) bekezdése a 13/2012. (IX. 28.) NMHH rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^7]: Az 5. § (6) bekezdése a 13/2012. (IX. 28.) NMHH rendelet 1. § (4) bekezdésével megállapított szöveg.

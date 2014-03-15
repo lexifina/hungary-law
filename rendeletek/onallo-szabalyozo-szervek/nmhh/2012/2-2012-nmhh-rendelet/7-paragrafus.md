@@ -1,6 +1,6 @@
 ## 7. Számhordozási eljárás
 
-7. §[^9] (1) Az átvevő szolgáltató köteles
+7. §[^10] (1) Az átvevő szolgáltató köteles
 
 a) a munkanapokon 16 óráig bejelentett számhordozási előfizetői igényről az átadó szolgáltatót adott munkanap 20 óra 00 percig értesíteni,
 
@@ -48,4 +48,4 @@ számhordozási megállapodásonként és jogellenes elutasításonként 5000 fo
 
 (10) Az előfizető a számhordozási igényét az átvevő szolgáltatónál a számátadási időablakot megelőző 2. munkanapon 16 óráig visszavonhatja, amely alapján az átvevő szolgáltató az igény törléséről az átadó szolgáltatót 20 óra 00 percig értesíti, valamint a KRA-ba bejelentett hordozást az előfizető visszalépett indoklással törli.
 
-[^9]: A 7. § a 13/2012. (IX. 28.) NMHH rendelet 1. § (7) bekezdésével megállapított szöveg.
+[^10]: A 7. § a 13/2012. (IX. 28.) NMHH rendelet 1. § (7) bekezdésével megállapított szöveg.
