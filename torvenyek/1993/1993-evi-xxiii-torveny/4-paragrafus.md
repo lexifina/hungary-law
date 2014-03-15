@@ -6,7 +6,7 @@ b) a kulturális adó teljes összege;
 
 c) központi költségvetési előirányzatokból átvett pénzeszközök;
 
-d) a jogi személyek, jogi személyiség nélküli gazdasági társaságok és természetes személyek befizetései;
+d) a jogi személyek és természetes személyek befizetései;
 
 e) költségvetési támogatás;
 
@@ -16,7 +16,7 @@ g) a szerzői jogról szóló törvény alapján a közös jogkezelő szervezete
 
 h) egyéb bevételek, ideértve a kezelő szerv által beszedett nevezési díj bevételt is.
 
-(2) Az (1) bekezdés d) pontjában foglalt befizetések közérdekű kötelezettségvállalásnak minősülnek (Ptk. 593–596. §).
+(2) Az (1) bekezdés d) pontjában foglalt befizetések a Ptk. szerinti közérdekű célra történő kötelezettségvállalásnak minősülnek.
 
 (3) A központi költségvetési előirányzatból évközben átvett pénzeszköz kezelésére, illetve a pályáztatás lebonyolítására az átvétel tárgyában kötött megállapodás rendelkezései az irányadók.
 
