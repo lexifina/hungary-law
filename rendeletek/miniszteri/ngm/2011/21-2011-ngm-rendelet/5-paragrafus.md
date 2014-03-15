@@ -1,6 +1,6 @@
 5. § (1) A biztosító az üzemben tartó nyilatkozata alapján állapítja meg a szerződés előzetes besorolását, ennek hiányában a szerződést előzetesen az A00 osztályba sorolja.
 
-(2)[^2] A biztosító köteles a biztosítási időszak kezdetét követő 15. és 30. nap közötti időtartamon belül a kötelező gépjármű-felelősségbiztosításról szóló 2009. évi LXII. törvényben meghatározott kártörténeti nyilvántartásból (a továbbiakban: kárnyilvántartás) lekérdezni a szerződés bonus-malus besorolásához szükséges adatokat. A biztosító a kárnyilvántartásban az üzemben tartó által közölt hatósági jelzés és az előző biztosítást igazoló okirat száma vagy a kártörténeti rendszer azonosító szám alapján végzi a beazonosítást, a besorolást a közvetlenül megelőző biztosítási időszak kárnyilvántartásban meglévő adatai (kockázatviselés időtartama, kártörténeti adatok) alapján állapítja meg.
+(2)[^3] A biztosító köteles a biztosítási időszak kezdetét követő 15. és 30. nap közötti időtartamon belül a kötelező gépjármű-felelősségbiztosításról szóló 2009. évi LXII. törvényben meghatározott kártörténeti nyilvántartásból (a továbbiakban: kárnyilvántartás) lekérdezni a szerződés bonus-malus besorolásához szükséges adatokat. A biztosító a kárnyilvántartásban az üzemben tartó által közölt hatósági jelzés és az előző biztosítást igazoló okirat száma vagy a kártörténeti rendszer azonosító szám alapján végzi a beazonosítást, a besorolást a közvetlenül megelőző biztosítási időszak kárnyilvántartásban meglévő adatai (kockázatviselés időtartama, kártörténeti adatok) alapján állapítja meg.
 
 (3) A biztosító a biztosítási időszak kezdetét követő 45 napon belül megállapítja a szerződés végleges besorolását a biztosítási időszak kezdetére visszamenő hatállyal, egyidejűleg a kárnyilvántartásba bejegyzi a bonus-malus besorolást és a besorolás szerinti díjról értesítést küld az üzemben tartónak, amennyiben az az üzemben tartó nyilatkozata szerinti besorolástól eltér.
 
@@ -8,4 +8,4 @@
 
 (5) Ha a biztosító tudomást szerez arról, hogy az üzemben tartó a kedvezőbb besorolás érdekében akár a gépjármű beazonosítására, akár a szerződés besorolására vonatkozóan valótlan adatokat közöl, melynek következtében a kárnyilvántartásban történő beazonosítás lehetetlenné válik, a biztosító a szerződést M04 osztályba sorolja.
 
-[^2]: Az 5. § (2) bekezdése a 36/2012. (XII. 14.) NGM rendelet 1. §-ával megállapított szöveg.
+[^3]: Az 5. § (2) bekezdése a 36/2012. (XII. 14.) NGM rendelet 1. §-ával megállapított szöveg.
