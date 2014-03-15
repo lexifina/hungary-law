@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1999-168-20-
 | 2013-01-01 | 1999-168-20-22.22 | 417/2012. (XII. 29.) Korm. rendelet |
 | 2013-03-01 | 1999-168-20-22.23 | 417/2012. (XII. 29.) Korm. rendelet |
 | 2014-01-01 | 1999-168-20-22.24 | 515/2013. (XII. 30.) Korm. rendelet |
+| 2014-03-15 | 1999-168-20-22.25 | 417/2012. (XII. 29.) Korm. rendelet |
