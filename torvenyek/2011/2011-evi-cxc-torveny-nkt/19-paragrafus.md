@@ -24,7 +24,7 @@ a) az állami köznevelési közfeladat-ellátás keretében,
 
 b) a 2. § (3) bekezdés b) pontjában meghatározott, nevelési-oktatási intézményt fenntartó személy által fenntartott pedagógiai intézetben, továbbá
 
-c) jogszabályban meghatározott feltételek esetén az abban meghatározott eljárási rendben az oktatásért felelős miniszter engedélyével nem köznevelési intézményfenntartóként, illetve nem köznevelési intézményként működő gazdálkodó szervezet vagy költségvetési szerv által
+c) jogszabályban meghatározott feltételek esetén az abban meghatározott eljárási rendben az oktatásért felelős miniszter engedélyével nem köznevelési intézményfenntartóként, illetve nem köznevelési intézményként működő gazdasági társaság szervezet vagy költségvetési szerv által
 
 nyújtható.
 
