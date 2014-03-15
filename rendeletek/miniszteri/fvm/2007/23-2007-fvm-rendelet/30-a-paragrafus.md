@@ -1,4 +1,4 @@
-## 30/A. §[^203] Építéssel járó tevékenység esetén:
+## 30/A. §[^206] Építéssel járó tevékenység esetén:
 
 a) az első, építéssel kapcsolatos kifizetési kérelemhez mellékelni kell a jogerős építési engedély hiteles másolatát – beleértve az engedélyezési záradékkal ellátott építészeti-műszaki tervdokumentációt és műszaki leírást – vagy az illetékes építésügyi hatóság igazolását arról, hogy a tevékenység nem építési engedélyköteles;
 
@@ -10,4 +10,4 @@ d) engedélyköteles út építése esetén a támogatási kérelemhez mellékel
 
 e) nem engedélyköteles építési tevékenység esetén az utolsó kifizetési kérelemhez mellékelni kell a műszaki átadás-átvételi jegyzőkönyv másolatát.
 
-[^203]: A 30/A. §-t a 124/2011. (XII. 21.) VM rendelet 25. §-a iktatta be.
+[^206]: A 30/A. §-t a 124/2011. (XII. 21.) VM rendelet 25. §-a iktatta be.
