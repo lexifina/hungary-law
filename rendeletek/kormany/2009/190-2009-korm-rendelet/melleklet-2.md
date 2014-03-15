@@ -72,6 +72,8 @@
 
 ## 6. az építészeti-műszaki tervek tartalmi követelményeit.
 
+## 7.[^41] Makovecz Imre településfejlesztési-épülettervezési modelljét.
+
 ## III. Terület- és településrendezési különös követelmények
 
 ## Egy konkrét településszerkezeti terv és helyi építési szabályzat tervtanácsi opponenciájának elkészítése, továbbá a vizsgázó ismerje:
@@ -98,7 +100,9 @@
 
 ## 6. a településrendezési eszközök tartalmi és egyeztetési követelményeit.
 
-2. Melléklet a 190/2009. (IX. 15.) Korm. rendelethez[^38]
+## 7.[^42] Makovecz Imre településfejlesztési-épülettervezési modelljét.
+
+2. Melléklet a 190/2009. (IX. 15.) Korm. rendelethez[^43]
 
 |  | A | B | C |
 
@@ -122,4 +126,6 @@
 
 | 9. | Baranya Megyei Kormányhivatal Építésügyi Hivatalának Állami Főépítésze | Pécs | Tolna megye és Baranya megye területe |
 
-[^38]: A 2. melléketet a 234/2010. (VIII. 31.) Korm. rendelet 26. § (2) bekezdése iktatta be, szövege a 329/2010. (XII. 27.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^41]: A melléklet II. alcím 7. pontját a 62/2014. (III. 6.) Korm. rendelet 10. § (1) bekezdése iktatta be.
+[^42]: A melléklet III. alcím 7. pontját a 62/2014. (III. 6.) Korm. rendelet 10. § (2) bekezdése iktatta be.
+[^43]: A 2. melléketet a 234/2010. (VIII. 31.) Korm. rendelet 26. § (2) bekezdése iktatta be, szövege a 329/2010. (XII. 27.) Korm. rendelet 8. §-ával megállapított szöveg.

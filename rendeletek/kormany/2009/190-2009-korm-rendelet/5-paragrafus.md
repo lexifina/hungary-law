@@ -2,15 +2,15 @@
 
 (2) Települési főépítész esetében az (1) bekezdés szerinti szakmai gyakorlati idő legalább öt év.
 
-(3)[^13]
+(3)[^14]
 
-(4)[^14]
+(4)[^15]
 
-(5)[^15]
+(5)[^16]
 
-(6)[^16]
+(6)[^17]
 
-[^13]: Az 5. § (3) bekezdését a 322/2012. (XI. 16.) Korm. rendelet 54. § d) pontja hatályon kívül helyezte.
-[^14]: Az 5. § (4) bekezdését a 322/2012. (XI. 16.) Korm. rendelet 54. § d) pontja hatályon kívül helyezte.
-[^15]: Az 5. § (5) bekezdését a 322/2012. (XI. 16.) Korm. rendelet 54. § d) pontja hatályon kívül helyezte.
-[^16]: Az 5. § (6) bekezdését a 322/2012. (XI. 16.) Korm. rendelet 54. § d) pontja hatályon kívül helyezte.
+[^14]: Az 5. § (3) bekezdését a 322/2012. (XI. 16.) Korm. rendelet 54. § d) pontja hatályon kívül helyezte.
+[^15]: Az 5. § (4) bekezdését a 322/2012. (XI. 16.) Korm. rendelet 54. § d) pontja hatályon kívül helyezte.
+[^16]: Az 5. § (5) bekezdését a 322/2012. (XI. 16.) Korm. rendelet 54. § d) pontja hatályon kívül helyezte.
+[^17]: Az 5. § (6) bekezdését a 322/2012. (XI. 16.) Korm. rendelet 54. § d) pontja hatályon kívül helyezte.

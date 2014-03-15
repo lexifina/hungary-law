@@ -28,12 +28,13 @@ ba) építész mesterképzési szakon szerzett okleveles építészmérnök, vag
 
 bb) településmérnöki mesterképzési szakon szerzett okleveles településmérnök, vagy azzal egyenértékű szakképzettség.
 
-(5) Ha a főépítész végzettségét igazoló oklevélből a szakirány, illetve az egyenértékűség nem állapítható meg, akkor a településtervezési és az építészeti-műszaki tervezési, valamint az építésügyi műszaki szakértői jogosultság szabályairól szóló 104/2006. (IV. 28.) Korm. rendelet 3. § (8) és (9) bekezdése szerinti bizottság jogosult szakértőként véleményt nyilvánítani, amelyet a munkáltató kötelezően figyelembe vesz.
+(5)[^11] Ha a főépítész végzettségét, szakképzettséget igazoló oklevélből a szakirány, illetve az egyenértékűség nem állapítható meg, akkor az építésügyi és az építésüggyel összefüggő szakmagyakorlási tevékenységekről szóló 266/2013. (VII. 11.) Korm. rendelet 8. § (1) bekezdése szerinti szakértői testület jogosult szakértőként véleményt nyilvánítani, amelyet a munkáltató kötelezően figyelembe vesz.
 
-(6)[^11] A főépítészi feladatkör főépítészi vizsga nélkül legfeljebb a foglalkoztatásra irányuló jogviszony kezdetétől számított hat hónapig látható el.
+(6)[^12] A főépítészi feladatkör főépítészi vizsga nélkül legfeljebb a foglalkoztatásra irányuló jogviszony kezdetétől számított hat hónapig látható el.
 
 [^7]: A 3. § (1) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 53. § c) pontja szerint módosított szöveg.
 [^8]: A 3. § (2) bekezdése a 90/2010. (III. 26.) Korm. rendelet 69. § (25) bekezdése, a 322/2012. (XI. 16.) Korm. rendelet 53. § d) pontja szerint módosított szöveg.
 [^9]: A 3. § (3) bekezdés c) pont cb) alpontját a 322/2012. (XI. 16.) Korm. rendelet 54. § c) pontja hatályon kívül helyezte.
 [^10]: A 3. § (4) bekezdés a) pontja a 322/2012. (XI. 16.) Korm. rendelet 53. § e) pontja szerint módosított szöveg.
-[^11]: A 3. § (6) bekezdését a 322/2012. (XI. 16.) Korm. rendelet 48. §-a iktatta be.
+[^11]: A 3. § (5) bekezdése a 62/2014. (III. 6.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^12]: A 3. § (6) bekezdését a 322/2012. (XI. 16.) Korm. rendelet 48. §-a iktatta be.

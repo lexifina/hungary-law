@@ -8,7 +8,7 @@ b) elkészíti az előzetes tájékoztatást az érdekelt államigazgatási szer
 
 c) a településrendezési eszközök készítése során folyamatosan együttműködik a tervezőkkel és képviseli az önkormányzat érdekeit,
 
-d)[^29] szervezi és irányítja a településrendezési eszközök véleményezési eljárásait, ezek során biztosítja a településrendezési eszközök készítésének nyilvánosságát,
+d)[^32] szervezi és irányítja a településrendezési eszközök véleményezési eljárásait, ezek során biztosítja a településrendezési eszközök készítésének nyilvánosságát,
 
 e) a véleményezési eljárás befejezését követően a beérkezett észrevételek figyelembevételével döntésre előkészíti a településrendezési eszközöket,
 
@@ -22,9 +22,9 @@ i) előkészíti az önkormányzat helyi építészeti értékek védelmével ka
 
 j) külön jogszabályban foglaltak szerint, illetékességi területét érintően vezeti a települési önkormányzat, illetve a települési önkormányzatok társulása által működtetett építészeti-műszaki tervtanácsot,
 
-k)[^30] nyilvántartást vezet az építészet-műszaki tervtanácson tárgyalt tervdokumentációkról.
+k)[^33] nyilvántartást vezet az építészet-műszaki tervtanácson tárgyalt tervdokumentációkról.
 
 (2) A települési, a térségi főépítész részt vesz a településpolitikai, településfejlesztési, településüzemeltetési és az önkormányzatok ingatlanvagyon-gazdálkodási programjának elkészítésében és egyeztetésében, továbbá az ágazati koncepciók települést érintő részeinek összehangolásában és véleményezésében. Szakmai véleményével segíti az önkormányzatnak az előzőekkel kapcsolatos döntéseinek előkészítését, állásfoglalásainak kialakítását.
 
-[^29]: A 10. § (1) bekezdés d) pontja a 322/2012. (XI. 16.) Korm. rendelet 53. § i) pontja szerint módosított szöveg.
-[^30]: A 10. § (1) bekezdés k) pontja a 322/2012. (XI. 16.) Korm. rendelet 54. § f) pontja szerint módosított szöveg.
+[^32]: A 10. § (1) bekezdés d) pontja a 322/2012. (XI. 16.) Korm. rendelet 53. § i) pontja szerint módosított szöveg.
+[^33]: A 10. § (1) bekezdés k) pontja a 322/2012. (XI. 16.) Korm. rendelet 54. § f) pontja szerint módosított szöveg.

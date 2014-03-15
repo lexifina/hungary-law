@@ -18,6 +18,6 @@ g) vezeti a helyi önkormányzati tervtanácsot,
 
 h) gondoskodik a helyi tervtanács nyilvántartásának vezetéséről, és abból adatokat szolgáltat az állami főépítésznek,
 
-i)[^25] közreműködik a települési önkormányzat Étv.-ben meghatározott építésügyi feladatainak az ellátásában.
+i)[^28] közreműködik a települési önkormányzat Étv.-ben meghatározott építésügyi feladatainak az ellátásában.
 
-[^25]: A 8. § i) pontját a 322/2012. (XI. 16.) Korm. rendelet 51. §-a iktatta be.
+[^28]: A 8. § i) pontját a 322/2012. (XI. 16.) Korm. rendelet 51. §-a iktatta be.

@@ -16,6 +16,6 @@ a) mentesíti azt a személyt, aki önkormányzati főépítészi szakmérnöki 
 
 b) részben mentesíti azt a személyt, aki egyéb szakmai tartalmú vizsgával rendelkezik, és e vizsga követelményrendszere a főépítészi vizsga általános vagy a különös rész követelményrendszerével megegyezik.
 
-(5)[^12]
+(5)[^13]
 
-[^12]: A 4. § (5) bekezdését a 222/2010. (VII. 30.) Korm. rendelet 2. §-a hatályon kívül helyezte.
+[^13]: A 4. § (5) bekezdését a 222/2010. (VII. 30.) Korm. rendelet 2. §-a hatályon kívül helyezte.
