@@ -1,6 +1,6 @@
 ## Bírság, intézkedések és biztosítékok
 
-41. § (1) A bányafelügyelet azt a jogi vagy természetes személyt, valamint jogi személyiség nélküli gazdasági társaságot, aki vagy amely jogosulatlanul bányászati tevékenységet végez vagy végeztet, bírsággal sújthatja és eltiltja a tevékenység folytatásától, valamint kötelezi a jogosulatlanul kitermelt érték megfizetésére. Jogosulatlanul az folytat bányászati tevékenységet, aki
+41. § (1) A bányafelügyelet azt a jogi vagy természetes személyt, aki vagy amely jogosulatlanul bányászati tevékenységet végez vagy végeztet, bírsággal sújthatja és eltiltja a tevékenység folytatásától, valamint kötelezi a jogosulatlanul kitermelt érték megfizetésére. Jogosulatlanul az folytat bányászati tevékenységet, aki
 
 a) a 4. § szerinti felszíni előkutatást a kötelező bejelentést elmulasztva végzi,
 
@@ -12,7 +12,7 @@ d)
 
 e)
 
-(1a) A bányafelügyelet azt a jogi vagy természetes személyt, valamint jogi személyiség nélküli gazdasági társaságot, amely bányászati hulladékkezelési tevékenységet engedély nélkül vagy engedélytől eltérően végez vagy végeztet, bírsággal sújtja és eltiltja a szabálytalanul végzett tevékenység folytatásától, valamint kötelezi a jogellenes állapot megszüntetésére.
+(1a) A bányafelügyelet azt a jogi vagy természetes személyt, amely bányászati hulladékkezelési tevékenységet engedély nélkül vagy engedélytől eltérően végez vagy végeztet, bírsággal sújtja és eltiltja a szabálytalanul végzett tevékenység folytatásától, valamint kötelezi a jogellenes állapot megszüntetésére.
 
 (2) Ha a bányavállalkozó a bányászati tevékenységet szabálytalanul gyakorolja, a bányafelügyelet a bányavállalkozót bírsággal sújthatja, a tevékenység folytatását felfüggesztheti, az engedélyt visszavonhatja és elrendelheti az eredeti állapot helyreállítását, vagy ha ez nem lehetséges, a tájrendezést, vagy a bányavállalkozó bányászati jogát törölheti, amely esetben a 26/A. § (6)–(7) bekezdését is alkalmazni kell. Koncesszió esetén a bányafelügyelet a koncessziós szerződés megszüntetését is kezdeményezheti.
 
@@ -32,7 +32,7 @@ gyakorolja.
 
 (3a) A szabálytalan bányászati tevékenység végzése során kitermelt ásványi nyersanyag tulajdonjoga akkor száll át a bányavállalkozóra, ha a bányafelügyelet az eredeti állapot helyreállítását nem rendelte el és a bányavállalkozó a bányajáradékot megfizette.
 
-(4) A bányafelügyelet azt a természetes vagy jogi személyt, jogi személyiség nélküli gazdasági társaságot, aki, illetőleg amely külön jogszabály hatálya alá tartozó, a bányafelügyelet által kiadott hatósági engedélyhez kötött gázipari tevékenységet (földgáz tárolása, vezetéken történő elosztása, szállítása, egyéb gázok vezetéken történő szállítása, cseppfolyós propán-, butángázok és ezek elegyei vezetéken történő elosztása, tartályban vagy palackban történő forgalmazása) engedély nélkül végez, bírsággal sújthatja és eltilthatja a tevékenység folytatásától.
+(4) A bányafelügyelet azt a természetes vagy jogi személyt, aki, illetőleg amely külön jogszabály hatálya alá tartozó, a bányafelügyelet által kiadott hatósági engedélyhez kötött gázipari tevékenységet (földgáz tárolása, vezetéken történő elosztása, szállítása, egyéb gázok vezetéken történő szállítása, cseppfolyós propán-, butángázok és ezek elegyei vezetéken történő elosztása, tartályban vagy palackban történő forgalmazása) engedély nélkül végez, bírsággal sújthatja és eltilthatja a tevékenység folytatásától.
 
 (5) Azt a (4) bekezdésben meghatározott gázipari tevékenység végzésére jogosult engedélyest, amely a tevékenységét jogszabályban vagy a bányafelügyelet határozatában foglalt előírásoktól eltérően gyakorolja, a bányafelügyelet bírsággal sújthatja és a tevékenységét felfüggesztheti vagy a bányafelügyelet által kiadott engedélyt visszavonhatja. Abban az esetben, ha az intézkedés a földgázellátásról szóló törvény hatálya alá tartozó földgázipari tevékenységet érint, a bányafelügyelet a javasolt intézkedésről értesíti a Magyar Energetikai és Közmű-szabályozási Hivatalt.
 

@@ -12,7 +12,7 @@
 
 (5) A törvény 9. §-ában megjelölt területek minősítéséről, a minősítések ötévenként történő felülvizsgálatáról és a koncesszióra jelölhető zárt területek közzétételéről a bányafelügyelet gondoskodik.
 
-(6) E törvény hatálybalépésekor bányászati joggal rendelkező gazdálkodó szervezetek [Ptk. 685. § c) pont] és természetes személyek
+(6) E törvény hatálybalépésekor bányászati joggal rendelkező gazdálkodó szervezetek [polgári perrendtartásról szóló 1952. évi III. törvény 396. §] és természetes személyek
 
 a) a bányászati tevékenységet a művelés alatt álló bányáikban tovább folytathatják; valamint
 

@@ -34,7 +34,7 @@ f) a geotermikus energia kutatása, kinyerése és hasznosítása, továbbá
 
 g) az a)–f) pontokban meghatározott tevékenységek során keletkezett hulladék kezelése.
 
-5. ,,Bányavállalkozó'' a bányászati tevékenység végzésére jogosult jogi vagy természetes személy, illetve jogi személyiséggel nem rendelkező társaság (a továbbiakban együtt: személy).
+5. ,,Bányavállalkozó'' a bányászati tevékenység végzésére jogosult jogi vagy természetes személy (a továbbiakban együtt: személy).
 
 Bányavállalkozónak minősül e törvény
 

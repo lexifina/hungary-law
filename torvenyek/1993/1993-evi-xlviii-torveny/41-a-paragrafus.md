@@ -1,4 +1,4 @@
-41/A. § (1) A bányafelügyelet bírsággal sújtja azt a természetes vagy jogi személyt, vagy jogi személyiség nélküli gazdasági társaságot, aki vagy amely
+41/A. § (1) A bányafelügyelet bírsággal sújtja azt a természetes vagy jogi személyt, aki vagy amely
 
 a) a bányafelügyelet tűzvédelmi hatósági jogkörébe tartozó létesítményekre vonatkozó tűzvédelmi jogszabályokban vagy tűzvédelmi szabályzatokban foglalt előírásokat megszegi,
 
