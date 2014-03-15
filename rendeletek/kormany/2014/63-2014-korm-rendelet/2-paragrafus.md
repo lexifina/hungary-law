@@ -1,9 +1,0 @@
-## 1. § A szépkorúak jubileumi köszöntéséről szóló 255/2008. (X. 21.) Korm. rendelet (a továbbiakban: R.) 1. §-a a következő (4)–(7) bekezdéssel egészül ki:
-
-## „(4) Az (1) bekezdésben meghatározott köszöntés, valamint a (2) bekezdésben meghatározott okirat és juttatás nem jár annak, aki az egyes nyugdíjak felülvizsgálatáról, illetőleg egyes nyugdíjkiegészítések megszüntetéséről szóló 1991. évi XII. törvény szerinti saját jogán folyósított pótlékra a kárpótlásért felelős miniszter határozata alapján érdemtelen.
-
-## (5) A Nyugdíjfolyósító Igazgatóság (a továbbiakban: Igazgatóság) a (4) bekezdésben meghatározott feltétel ellenőrzése céljából a tárgyévet megelőző év szeptember 30-áig – a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 21. § k) pontja szerint – adatot igényel a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatalától (a továbbiakban: KEKKH) azon, (1) bekezdés szerinti személyek természetes személyazonosító adatairól, akik a tárgyévben betöltik az (1) bekezdés szerinti életkort.
-
-## (6) A KEKKH az (5) bekezdés szerinti adatigénylést az igényelt adatokat tartalmazó összesítés megküldésével az adatigénylés kézhezvételétől számított 30 napon belül teljesíti. A KEKKH az adattovábbítás teljesítését követően haladéktalanul törli az Igazgatóságnak megküldött összesítést.
-
-## (7) Az Igazgatóság a 2. § (1) bekezdése szerinti megkeresés teljesítése céljából az adatigénylés (6) bekezdés szerinti teljesítését követő 30 napon belül megküldi a KEKKH-nak a (6) bekezdés szerinti összesítésben szereplő azon személyeknek az összesítés szerinti természetes személyazonosító adatait, akik tekintetében a (4) bekezdésben meghatározott kizáró körülmény nem áll fenn. Az Igazgatóság az adattovábbítás teljesítését követően haladéktalanul törli a KEKKH-nak megküldött adatokat.”
