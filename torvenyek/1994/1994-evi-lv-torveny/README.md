@@ -25,3 +25,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1994-55-00-00
 | 2013-12-15 | 2013. évi CCXII. törvény | 1994-55-00-00.52 |
 | 2014-01-01 | 2013. évi CCXII. törvény | 1994-55-00-00.53 |
 | 2014-03-01 | 2013. évi CCXII. törvény | 1994-55-00-00.54 |
+| 2014-03-15 | 2013. évi CCXII. törvény | 1994-55-00-00.55 |
