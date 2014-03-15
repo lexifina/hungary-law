@@ -1,1 +1,1 @@
-3. § Azokban a kérdésekben, amelyeket ez a törvény nem szabályoz, a Polgári Törvénykönyv rendelkezéseit kell alkalmazni.
+3. § A szerzői jogok és a szerzői joghoz kapcsolódó jogok átszállására, átruházására, megterhelésére, valamint az e törvény hatálya alá tartozó művekkel és egyéb teljesítményekkel összefüggő egyéb személyi és vagyoni jogviszonyokban az e törvényben nem szabályozott kérdésekben a Polgári Törvénykönyv rendelkezései az irányadók.

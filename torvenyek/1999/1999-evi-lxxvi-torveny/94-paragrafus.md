@@ -18,7 +18,7 @@ e) követelheti a jogsértéssel elért gazdagodás visszatérítését;
 
 f) követelheti a sérelmes helyzet megszüntetését, a jogsértést megelőző állapot helyreállítását, továbbá a kizárólag vagy elsősorban a jogsértéshez használt eszközök és anyagok, valamint a jogsértéssel előállott dolgok lefoglalását, meghatározott személynek történő átadását, kereskedelmi forgalomból való visszahívását, onnan való végleges kivonását, illetve megsemmisítését.
 
-(2) A szerzői jog megsértése esetén a szerző a polgári jogi felelősség szabályai szerint kártérítést is követelhet.
+(2) A szerzői jog megsértése esetén a szerző a polgári jogi felelősség szabályai szerint kártérítést is követelhet. Az e törvényben szabályozott személyhez fűződő joga megsértése esetén a szerző a polgári jog általános szabályai szerint sérelemdíjat is követelhet.
 
 (3) A szerző az (1) bekezdés b) pontjában meghatározott igényt azzal a személlyel szemben is támaszthatja, akinek szolgáltatásait a jogsértés elkövetéséhez igénybe vették.
 
