@@ -10,6 +10,8 @@
 
 4. elszámolható költség: gép, technológiai berendezés, illetve hűtőtérrel rendelkező tehergépjármű számlán szereplő általános forgalmi adóval nem terhelt vételára, amely nem tartalmazza a szállítási költséget, üzembe-, forgalomba helyezés költséget;
 
+4a.[^1] gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet.
+
 5. gép, technológiai berendezés: olyan első üzembe helyezésű, a sertéshús feldolgozói iparban használt berendezés
 
 a) amely szerepel a gépkatalógusban, és beletartozik az intézkedés vonatkozásában támogathatónak minősített gépcsoportba,
@@ -35,3 +37,5 @@ c) amelynek gyártásától a támogatási kérelem benyújtásáig 2 évnél t�
 10. üzembe helyezés: a gépekről és a 95/16 EK irányelv módosításáról szóló 2006. május 17-i 2006/42/EK európai parlamenti és tanácsi irányelv 2. cikk k) pontjának megfelelő üzembe helyezés;
 
 11. üzemeltetési hely: a gép, technológiai berendezés üzemeltetési, vagy hűtőtérrel rendelkező tehergépjármű tárolási helye, amelyet az MVH-hoz bejelentettek.
+
+[^1]: Az 1. § 4a. pontját a 22/2014. (III. 14.) VM rendelet 93. §-a iktatta be.
