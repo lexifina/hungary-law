@@ -20,6 +20,6 @@ b) az engedélyessel szemben a 6. §-ban meghatározott feltételek fennállnak.
 
 (5) Az (1) és (2) bekezdésben meghatározott esetben a légiközlekedési hatóság intézkedésként a szakszolgálati engedélyt azonnali hatállyal bevonhatja és a szakszolgálati engedélyt elveheti, amelyről átvételi elismervényt állít ki.
 
-(6)[^2] Az (5) bekezdésben meghatározott bevonás esetén a légiközlekedési hatóság a szakszolgálati engedély felfüggesztéséről vagy visszavonásáról 5 napon belül dönt, vagy a szakszolgálati engedélyt visszaadja.
+(6)[^4] Az (5) bekezdésben meghatározott bevonás esetén a légiközlekedési hatóság a szakszolgálati engedély felfüggesztéséről vagy visszavonásáról 5 napon belül dönt, vagy a szakszolgálati engedélyt visszaadja.
 
-[^2]: A 12. § (6) bekezdése a 28/2010. (XII. 22.) NFM rendelet 2. § (10) bekezdése szerint módosított szöveg. E módosító rendelet 3. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^4]: A 12. § (6) bekezdése a 28/2010. (XII. 22.) NFM rendelet 2. § (10) bekezdése szerint módosított szöveg. E módosító rendelet 3. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
