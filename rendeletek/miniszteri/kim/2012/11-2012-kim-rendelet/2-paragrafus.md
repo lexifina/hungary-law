@@ -8,5 +8,5 @@
 
 (5)[^4] Az OBH a végelszámolás iránti kérelem előterjesztésére olyan változásbejegyzési eljárás iránti kérelem benyújtására szolgáló űrlapot rendszeresíthet, amely kizárólag a végelszámolás iránti kérelem előterjesztésére vehető igénybe.
 
-[^3]: A 2. § (4) bekezdése a 13. § (2) bekezdése alapján 2014. július 1-jén lép hatályba.
+[^3]: A 2. § (4) bekezdése a 13. § (2) bekezdése alapján 2015. január 1-jén lép hatályba.
 [^4]: A 2. § (5) bekezdését az 58/2012. (XII. 28.) KIM rendelet 44. § (1) bekezdése iktatta be.

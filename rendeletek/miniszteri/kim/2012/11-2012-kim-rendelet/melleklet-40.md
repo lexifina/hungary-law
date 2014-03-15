@@ -136,18 +136,19 @@
 
 3.2. sportegyesület
 
-3.3.[^16] vallási tevékenységet végző szervezet
+3.3.[^19] vallási tevékenységet végző szervezet
 
 3.4. szakszervezet
 
-3.5. az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2012. évi CLXXV. törvény alapján létrejövő szövetség
+3.5.[^20] az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény alapján létrejövő szövetség
 
 3.6. polgárőr szervezet
 
-3.7.[^17] nemzetiségi egyesület
+3.7.[^21] nemzetiségi egyesület
 
-3.8.[^18] egyéb, törvényben meghatározott egyesületi forma
+3.8.[^22] egyéb, törvényben meghatározott egyesületi forma
 
-[^16]: A 40. melléklet 3.3. pontja a 34/2013. (XII. 23.) KIM rendelet 5. §-ával megállapított szöveg.
-[^17]: A 40. melléklet 3.7. pontja a 34/2013. (XII. 23.) KIM rendelet 5. §-ával megállapított szöveg.
-[^18]: A 40. melléklet 3.8. pontját a 34/2013. (XII. 23.) KIM rendelet 5. §-a iktatta be.
+[^19]: A 40. melléklet 3.3. pontja a 34/2013. (XII. 23.) KIM rendelet 5. §-ával megállapított szöveg.
+[^20]: A 40. melléklet 3.5. pontja a 12/2014. (II. 28.) KIM rendelet 6. § (34) bekezdés d) pontja szerint módosított szöveg.
+[^21]: A 40. melléklet 3.7. pontja a 34/2013. (XII. 23.) KIM rendelet 5. §-ával megállapított szöveg.
+[^22]: A 40. melléklet 3.8. pontját a 34/2013. (XII. 23.) KIM rendelet 5. §-a iktatta be.
