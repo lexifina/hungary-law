@@ -159,17 +159,3 @@ dc) a vezető tisztségviselő nyilatkozata a várható költségekről, és azo
 3. a szükséges tőkepótlás befizetésének, illetve teljesítésének igazolása;
 
 4. ha az egyesülés vállalkozások összefonódását jelenti, a Gazdasági Versenyhivatal engedélye vagy a cég nyilatkozata arra vonatkozóan, hogy az összefonódás nem engedélyköteles;
-
-5. részvénytársaság esetén, ha az egyesülés vagy a szétválás során egyes okiratok elkészítésére, közzétételére, vagy legfőbb szervi döntésre nincs szükség, az erről szóló legfőbb szervi határozat vagy a társaság nyilatkozata arról, hogy a különös szabály alkalmazásának feltételei fennállnak.”
-
-16. A Ctv. 3. számú melléklet I.5. pontja helyébe a következő rendelkezés lép:
-
-(I. A cégbejegyzéshez szükséges, a bejegyzési kérelemhez csatolandó okiratok:)
-
-„5. a vezető tisztségviselő és a cégvezető nyilatkozata arról, hogy nem áll eltiltás hatálya alatt.”
-
-17. A Ctv. 3. számú melléklet II.2. a) pontja helyébe a következő rendelkezés lép:
-
-(II. Ha a bejegyzési kérelem tartalmára tekintettel szükséges, egyéb benyújtandó okiratok:)
-
-„a) a vezető tisztségviselőknek, a felügyelőbizottsági tagok, a könyvvizsgálónak a megválasztást elfogadó, az összeférhetetlenségre is kiterjedő nyilatkozata,”
