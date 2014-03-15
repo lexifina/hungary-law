@@ -78,7 +78,7 @@
 
 13.2. építési folyamat résztvevői feladatának, felelősségének,
 
-13.3. építési szerződés részletes tartalmi követelményeinek meghatározását,
+13.3. kivitelezési szerződés részletes tartalmi követelményeinek meghatározását,
 
 13.4. építési napló formájának, tartalmának, megnyitásának és vezetésének részletes szabályait,
 

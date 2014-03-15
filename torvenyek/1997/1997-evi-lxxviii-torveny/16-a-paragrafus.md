@@ -1,6 +1,6 @@
 16/A. § (1) A településrendezési eszközt és annak módosítását a települési önkormányzat maga készíti el, vagy településtervezési szerződés alapján készítteti el.
 
-(2) A településtervezési szerződésre a Polgári Törvénykönyvről szóló 1959. évi IV. törvényben (a továbbiakban: Ptk.) szabályozott tervezési szerződés szabályait kell alkalmazni azzal az eltéréssel, hogy
+(2) A településtervezési szerződésre a Polgári Törvénykönyvről szóló 2013. évi V. törvényben (a továbbiakban: Ptk.) szabályozott tervezési szerződés szabályait kell alkalmazni azzal az eltéréssel, hogy
 
 a) a szerződést írásban kell megkötni,
 
