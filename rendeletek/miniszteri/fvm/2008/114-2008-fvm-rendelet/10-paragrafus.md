@@ -6,8 +6,8 @@ b) a lízing kamatmértéke nem haladja meg a kamat-megállapítás időpontjáb
 
 c) a lízingtartozás tőkeösszege, valamint a lízingdíj tőke és kamattörlesztő része, továbbá a kamattörlesztő részlethez kapcsolódó kamattámogatás a szerződésben éves bontásban is rögzítésre kerül.
 
-(2)[^11] A lízingdíj kamattámogatás igénybevételére a mezőgazdasági vállalkozás az 5. § (1) bekezdés a) pont aa)–ac) alpontjában felsorolt igazolások bemutatása, valamint b) pont bc), be), bf) és bg) alpontjában foglalt nyilatkozatok megtétele esetén jogosult.
+(2)[^12] A lízingdíj kamattámogatás igénybevételére a mezőgazdasági vállalkozás az 5. § (1) bekezdés a) pont aa)–ac) alpontjában felsorolt igazolások bemutatása, valamint b) pont bc), be), bf) és bg) alpontjában foglalt nyilatkozatok megtétele esetén jogosult.
 
 (3) A lízingdíj kamattámogatás mértéke a lízingdíj kamat-tartalmának 50%-a.
 
-[^11]: A 10. § (2) bekezdése a 163/2008. (XII. 18.) FVM rendelet 2. §-ával megállapított szöveg.
+[^12]: A 10. § (2) bekezdése a 163/2008. (XII. 18.) FVM rendelet 2. §-ával megállapított szöveg.

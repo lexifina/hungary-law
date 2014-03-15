@@ -6,7 +6,7 @@
 
 a)[^1] mezőgazdasági tevékenység: mezőgazdasági termékek termelése, tenyésztése vagy művelése, ideértve a betakarítást, a fejést, az állattenyésztést és a mezőgazdasági célból történő állattartást (a gazdasági tevékenységek statisztikai osztályozása NACE REV. 2. rendszerének létrehozásáról és a 3037/90/EGK tanácsi rendelet, valamint egyes meghatározott statisztikai területekre vonatkozó EK-rendeletek módosításáról szóló az Európai Parlament és a Tanács 1893/2006/EK rendeletének 1. számú melléklete szerinti NACE Rev. 2. alágazati besorolás szerint: 01.1, 01.4, 01.5, 01.6), valamint a mezőgazdasági földterületek jó mezőgazdasági és ökológiai állapotban tartását [a Tanács 1782/2003/EK rendelete a közös agrárpolitika keretébe tartozó közvetlen támogatási rendszerek közös szabályainak megállapításáról és a mezőgazdasági termelők részére meghatározott támogatási rendszerek közös szabályainak megállapításáról és a mezőgazdasági termelők részére meghatározott támogatási rendszerek létrehozásáról, továbbá a 2019/93/EGK, 1452/2001/EK, 1453/2001/EK, 1454/2001/EK, 1868/94/EK, 1251/1999/EK, 1254/1999/EK, 1673/2000/EK, 2358/71/EGK és a 2529/2001/EK rendelet módosításáról szóló rendelet (a továbbiakban: tanácsi rendelet) 2. cikk c) pont];
 
-b)[^2] mezőgazdasági vállalkozás: olyan természetes vagy jogi személy, jogi személyiséggel nem rendelkező gazdasági társaság, akinek, illetve amelynek mezőgazdasági üzeme Magyarország területén található és mezőgazdasági tevékenységet folytat, ideértve a c)–e) pontban foglaltakat is;
+b)[^2] mezőgazdasági vállalkozás: olyan természetes vagy jogi személy, jogi személyiséggel nem rendelkező szervezet, akinek, illetve amelynek mezőgazdasági üzeme Magyarország területén található és mezőgazdasági tevékenységet folytat, ideértve a c)–e) pontban foglaltakat is;
 
 c) mezőgazdasági üzem: adott mezőgazdasági termelő által vezetett, és ugyanazon tagállam területén található termelőegységek összessége [a tanácsi rendelet 2. cikk b) pont];
 
@@ -45,6 +45,6 @@ s) támogatásról szóló határozat: a hitel- vagy lízingfelvevőnek e rendel
 t) támogatás intenzitás: a támogatástartalom és a támogatás szempontjából elszámolható költségek jelen értékének hányadosa, százalékos formában kifejezve.
 
 [^1]: Az 1. § a) pontja a 171/2009. (XII. 22.) FVM rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^2]: Az 1. § b) pontja az 5/2012. (II. 10.) VM rendelet 39. §-a szerint módosított szöveg.
+[^2]: Az 1. § b) pontja az 5/2012. (II. 10.) VM rendelet 39. §-a, a 22/2014. (III. 14.) VM rendelet 64. § a) pontja szerint módosított szöveg.
 [^3]: Az 1. § d) pontja a 171/2009. (XII. 22.) FVM rendelet 6. § (2) bekezdésével megállapított szöveg.
 [^4]: Az 1. § e) pontja a 70/2013. (VII. 31.) VM rendelet 98. § a) és b) pontja szerint módosított szöveg.
