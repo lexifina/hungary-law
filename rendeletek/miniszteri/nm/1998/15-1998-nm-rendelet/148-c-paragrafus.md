@@ -1,11 +1,24 @@
-## 148/B. §[^471] Ha a nyilvántartásba vétel oka már nem áll fenn, a szakszolgálat törli a nyilvántartásából a gyermek, az örökbe fogadni szándékozó személy, illetve az örökbefogadó szülő adatait. Erről értesíti az országos örökbefogadási nyilvántartást vezető szervet.
+## Az örökbefogadás utánkövetése[^489]
 
-## A titkolt terhességből származó gyermek iratainak kezelése[^472]
+148/C. §[^490] (1) A szakszolgálat a gyámhivatal örökbefogadást engedélyező határozatában előírtak alapján biztosítja az általa előkészített és – az örökbefogadó szülő kérelmére – a közhasznú szervezet által előkészített nyílt örökbefogadás esetén az örökbefogadás utánkövetését, melynek érdekében felveszi a kapcsolatot az örökbefogadó szülővel és személyes találkozást kezdeményez.
 
-148/C. §[^473] (1) A fővárosi területi gyermekvédelmi szakszolgálat átveszi és megőrzi a terhességét eltitkoló válsághelyzetben lévő anya gyermekének iratait, ha a gyámhivatal a gyermek lakóhelyeként a Gyer. 64/A. § alapján a fővárosi területi gyermekvédelmi szakszolgálatot állapította meg.
+(2) A szakszolgálat az utánkövetés keretében a Gyvt. 62/C. § (4) bekezdés b) pontjában meghatározottak szerint személyes tanácsadással segíti
 
-(2) A fővárosi területi gyermekvédelmi szakszolgálat a gyámhivatal határozata alapján kiadja a terhességét eltitkoló válsághelyzetben lévő anya gyermekének iratait a határozatban megjelölt személy számára.
+a) a gyermek családjába történő beilleszkedését, a családdá válás folyamatát,
 
-[^471]: A 148/B. §-t a 28/2010. (XII. 30.) NEFMI rendelet 19. §-a iktatta be.
-[^472]: A 148/C. §-t megelőző alcímet a 26/2013. (III. 29.) EMMI rendelet 29. §-a iktatta be.
-[^473]: A 148/C. §-t a 26/2013. (III. 29.) EMMI rendelet 29. §-a iktatta be.
+b) az örökbefogadással kapcsolatos kommunikációt,
+
+c) a gyermek identitásának egészséges fejlődését, valamint
+
+d) a gyermek óvodai, iskolai beilleszkedése kapcsán a problémák megelőzését vagy azok megoldását.
+
+(3) A szakszolgálat a Gyvt. 62/C. § (5) bekezdése alapján az utánkövetésről és annak tapasztalatairól az utánkövetés megtörténtét követően 15 napon belül utánkövetési jelentést küld az örökbefogadást engedélyező gyámhivatal számára.
+
+(4) Az örökbefogadó szülő kérelmére az örökbefogadás utánkövetésének kötelező időtartamát követően a szakszolgálat az örökbefogadás önkéntes utánkövetése keretében történő szolgáltatás nyújtását biztosítja abban az esetben is, ha a kötelező utánkövetést más szervezet végezte. Az önkéntes utánkövetést végző szakszolgálat az önkéntes utánkövetés biztosításáról egyidejűleg tájékoztatja a kötelező utánkövetést végző más szervezetet.
+
+(5) A szakszolgálat az önkéntes utánkövetést az örökbefogadó szülővel kötött megállapodás alapján biztosítja. Az utánkövetésről feljegyzést készít, mely tartalmazza annak időpontját és eredményét.
+
+(6) A szakszolgálat az örökbefogadás utánkövetését két szakember közreműködésével látja el, akik közül az egyik szakember pszichológus végzettségű, vagy szükség esetén a szakszolgálat biztosítja pszichológus tanácsadását.
+
+[^489]: A 148/C. §-t megelőző alcímet a 26/2013. (III. 29.) EMMI rendelet 29. §-a iktatta be, szövege a 19/2014. (III. 13.) EMMI rendelet 30. §-ával megállapított szöveg.
+[^490]: A 148/C. §-t a 26/2013. (III. 29.) EMMI rendelet 29. §-a iktatta be, szövege a 19/2014. (III. 13.) EMMI rendelet 30. §-ával megállapított szöveg.

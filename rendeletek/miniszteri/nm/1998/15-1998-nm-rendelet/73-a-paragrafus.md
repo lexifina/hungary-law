@@ -1,4 +1,4 @@
-73/A. §[^240] (1) A krízisközpont a Gyvt. 51. § (6) bekezdés a) pontja szerinti szolgáltatások nyújtásához – a bántalmazott és családja szükségleteihez igazodóan – biztosítja a teljes körű ellátáson felül a szükséges szakemberek, így különösen esetmenedzser, pszichológiai vagy mentálhigiénés tanácsadó, valamint jogász közreműködését.
+73/A. §[^254] (1) A krízisközpont a Gyvt. 51. § (6) bekezdés a) pontja szerinti szolgáltatások nyújtásához – a bántalmazott és családja szükségleteihez igazodóan – biztosítja a teljes körű ellátáson felül a szükséges szakemberek, így különösen esetmenedzser, pszichológiai vagy mentálhigiénés tanácsadó, valamint jogász közreműködését.
 
 (2) A krízisközpont által nyújtott félutasház-szolgáltatás igénybevétele pályázati úton történik. A pályázatnak tartalmaznia kell
 
@@ -16,7 +16,7 @@ e) annak vállalását, hogy sikeres pályázat esetén a bántalmazott együttm
 
 (4) A társadalmi reintegrációt segítő program során a bántalmazott – szakemberek közreműködésével – segítséget kap a saját és családja helyzetének rendezéséhez, a családi kapcsolatok megerősítéséhez, a pszichés sérülések feldolgozásához és a jövőkép kialakításához.
 
-(5)[^241] A krízisközpont a működési engedélyében meghatározott ellátási területén kívülről is fogadhat ellátottakat, azonban ezen ellátottak száma egy időben nem haladhatja meg a működési engedélyben szereplő férőhelyeinek 50%-át.
+(5)[^255] A krízisközpont a működési engedélyében meghatározott ellátási területén kívülről is fogadhat ellátottakat, azonban ezen ellátottak száma egy időben nem haladhatja meg a működési engedélyben szereplő férőhelyeinek 50%-át.
 
-[^240]: A 73/A. §-t az 58/2011. (X. 21.) NEFMI rendelet 3. §-a iktatta be.
-[^241]: A 73/A. § (5) bekezdését a 49/2013. (VII. 10.) EMMI rendelet 12. §-a iktatta be.
+[^254]: A 73/A. §-t az 58/2011. (X. 21.) NEFMI rendelet 3. §-a iktatta be.
+[^255]: A 73/A. § (5) bekezdését a 49/2013. (VII. 10.) EMMI rendelet 12. §-a iktatta be.

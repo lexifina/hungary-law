@@ -1,3 +1,3 @@
-161. §[^495]
+161. §[^518]
 
-[^495]: A 160–162. §-t a 46/2003. (VIII. 8.) ESZCSM rendelet 99. § (1) bekezdésének i) pontja hatályon kívül helyezte.
+[^518]: A 160–162. §-t a 46/2003. (VIII. 8.) ESZCSM rendelet 99. § (1) bekezdésének i) pontja hatályon kívül helyezte.

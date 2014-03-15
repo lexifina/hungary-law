@@ -1,8 +1,8 @@
-## 152/A. §[^479] A gyermekvédelmi gyám – a kirendelése esetén – munkakörében ellátja az eseti gondnoki, vagyonkezelő eseti gondnoki feladatokat. A gyermekvédelmi gyám egyidejűleg együttesen legfeljebb harmincöt gyermek tekintetében láthat el gyermekvédelmi gyámi, eseti gondnoki, vagyonkezelő eseti gondnoki feladatokat, azzal, hogy egyidejűleg legfeljebb harminc gyermeknek lehet a gyermekvédelmi gyámja.
+## 152/A. §[^500] A gyermekvédelmi gyám – a kirendelése esetén – munkakörében ellátja az eseti gyámi, vagyonkezelő eseti gyámi feladatokat. A gyermekvédelmi gyám egyidejűleg együttesen legfeljebb harmincöt gyermek tekintetében láthat el gyermekvédelmi gyámi, eseti gyámi, vagyonkezelő eseti gyámi feladatokat, azzal, hogy egyidejűleg legfeljebb harminc gyermeknek lehet a gyermekvédelmi gyámja.
 
-## Kapcsolattartás, családgondozás[^480]
+## Kapcsolattartás, családgondozás[^501]
 
-153. §[^481] (1) A nevelőszülőnél, a gyermekotthonban és a bentlakásos szociális intézményben elhelyezett gyermek kapcsolattartásának elősegítése, támogatása érdekében – a gyámhivatal vagy a bíróság döntésének megfelelően –
+153. §[^502] (1) A nevelőszülőnél, a gyermekotthonban és a bentlakásos szociális intézményben elhelyezett gyermek kapcsolattartásának elősegítése, támogatása érdekében – a gyámhivatal vagy a bíróság döntésének megfelelően –
 
 a) a gyermekvédelmi gyám segíti
 
@@ -26,6 +26,6 @@ c) segíti a gyermeket önálló életvitelének kialakításában.
 
 (3) A (2) bekezdés szerinti feladatok teljesítése során a gyermekvédelmi gyám és a gyermekjóléti szolgálat együttműködnek.
 
-[^479]: A 152/A. §-t a 83/2013. (XII. 29.) EMMI rendelet 13. §-a iktatta be.
-[^480]: A 153. §-t megelőző alcím a 26/2013. (III. 29.) EMMI rendelet 33. §-ával megállapított szöveg.
-[^481]: A 153. § a 26/2013. (III. 29.) EMMI rendelet 33. §-ával megállapított szöveg.
+[^500]: A 152/A. §-t a 83/2013. (XII. 29.) EMMI rendelet 13. §-a iktatta be, szövege a 83/2013. (XII. 29.) EMMI rendelet 18. § (2) bekezdése szerint módosított szöveg.
+[^501]: A 153. §-t megelőző alcím a 26/2013. (III. 29.) EMMI rendelet 33. §-ával megállapított szöveg.
+[^502]: A 153. § a 26/2013. (III. 29.) EMMI rendelet 33. §-ával megállapított szöveg.

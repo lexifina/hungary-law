@@ -1,4 +1,4 @@
-36. § (1)[^145] Bölcsődébe a gyermek húszhetes korától harmadik életévének, sajátos nevelési igényű gyermek az ötödik életévének betöltéséig, illetve annak az évnek a december 31-éig vehető fel, amelyben a gyermek a harmadik életévét, a sajátos nevelési igényű gyermek az ötödik életévét betölti.
+36. § (1)[^159] Bölcsődébe a gyermek húszhetes korától harmadik életévének, sajátos nevelési igényű gyermek az ötödik életévének betöltéséig, illetve annak az évnek a december 31-éig vehető fel, amelyben a gyermek a harmadik életévét, a sajátos nevelési igényű gyermek az ötödik életévét betölti.
 
 (2) Ha a gyermek a harmadik életévét betöltötte, de testi vagy szellemi fejlettségi szintje alapján még nem érett az óvodai nevelésre és óvodai jelentkezését a bölcsőde orvosa nem javasolja, bölcsődében gondozható negyedik életévének betöltését követő augusztus 31-ig.
 
@@ -12,12 +12,12 @@ c) a szociális, illetve családgondozó,
 
 d) a gyermekjóléti szolgálat,
 
-e)[^146] a gyámhivatal
+e)[^160] a gyámhivatal
 
 is kezdeményezheti.
 
-(4)[^147] Amennyiben a bölcsőde sajátos nevelési igényű gyermek napközbeni ellátását biztosítja, együttműködik a gyermek korai fejlesztését és gondozását, vagy a fejlesztő nevelését ellátó területileg illetékes pedagógiai szakszolgálati intézménnyel.
+(4)[^161] Amennyiben a bölcsőde sajátos nevelési igényű gyermek napközbeni ellátását biztosítja, együttműködik a gyermek korai fejlesztését és gondozását, vagy a fejlesztő nevelését ellátó területileg illetékes pedagógiai szakszolgálati intézménnyel.
 
-[^145]: A 36. § (1) bekezdése a 46/2003. (VIII. 8.) ESZCSM rendelet 29. §-ával megállapított, a 49/2013. (VII. 10.) EMMI rendelet 23. § b) pontja szerint módosított szöveg.
-[^146]: A 36. § (3) bekezdés e) pontja a 11/2013. (II. 7.) EMMI rendelet 44. § m) pontjával megállapított szöveg.
-[^147]: A 36. § (4) bekezdése a 49/2013. (VII. 10.) EMMI rendelet 3. §-ával megállapított szöveg.
+[^159]: A 36. § (1) bekezdése a 46/2003. (VIII. 8.) ESZCSM rendelet 29. §-ával megállapított, a 49/2013. (VII. 10.) EMMI rendelet 23. § b) pontja szerint módosított szöveg.
+[^160]: A 36. § (3) bekezdés e) pontja a 11/2013. (II. 7.) EMMI rendelet 44. § m) pontjával megállapított szöveg.
+[^161]: A 36. § (4) bekezdése a 49/2013. (VII. 10.) EMMI rendelet 3. §-ával megállapított szöveg.

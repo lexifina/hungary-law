@@ -138,7 +138,7 @@
 
 ## II. Szakellátások
 
-## 3K88751N_1
+## 4K03767N_1
 
 | Ellátási forma | Intézményi munkakör | Képesítés |
 
@@ -198,20 +198,16 @@
 
 |  | pszichiáter | pszichiáter-szakorvos |
 
-|  | örökbefogadási tanácsadó | felsőfokú szociális alapvégzettség, pedagógus, pszichológus, jogász vagy |
+|  | örökbefogadási tanácsadó | felsőfokú szociális alapvégzettség, pedagógus, pszichológus, jogász vagy mentálhigiénés szakember, gyermek- és ifjúságvédelmi tanácsadó oklevéllel rendelkező: védőnő, teológus, hittanár, hittantanár |
 
-|  |  | mentálhigiénés szakember, gyermek- és ifjúságvédelmi tanácsadó oklevéllel rendelkező: védőnő, teológus, hittanár, hittantanár |
+|  | gyermekvédelmi gyám | jogász, igazgatásszervező, felsőfokú szociális alapvégzettség, pedagógus, pszichológus; vagy mentálhigiénés szakember, gyermek- és ifjúságvédelmi tanácsadó, jogi szakokleveles családvédelmi tanácsadó oklevéllel rendelkező: védőnő, teológus, hittanár, hittantanár |
 
-|  | gyermekvédelmi gyám | jogász, igazgatásszervező, felsőfokú szociális alapvégzettség, pedagógus, |
-
-|  |  | pszichológus; vagy mentálhigiénés szakember, gyermek- és ifjúságvédelmi tanácsadó, jogi szakokleveles családvédelmi tanácsadó oklevéllel rendelkező: védőnő, teológus, hittanár, hittantanár |
-
-|  | jogász | jogász |
+|  | jogász közvetítő | jogász mediátor képesítéssel rendelkező: jogász, igazgatásszervező, felsőfokú szociális alapvégzettségű szakember, pedagógus, pszichológus, mentálhigiénés szakember, vagy mediátor képesítéssel és gyermek- és ifjúságvédelmi tanácsadó, jogi szakokleveles családvédelmi tanácsadó oklevéllel rendelkező: védőnő, teológus, hittanár, hittantanár |
 
 |  | elhelyezési ügyintéző | jogász, igazgatásszervező, felsőfokú szociális alapvégzettség, pedagógus, pszichológus; vagy mentálhigiénés szakember, gyermek- és ifjúságvédelmi tanácsadó, jogi szakokleveles családvédelmi tanácsadó oklevéllel rendelkező: védőnő, teológus, hittanár, hittantanár |
 
 |  | gyermekvédelmi ügyintéző | szociális gyermek- és ifjúságvédelmi ügyintéző (OKJ), szociális asszisztens (OKJ) |
 
-3. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^509]
+3. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^533]
 
-[^509]: A 3. számú melléklet a 46/2003. (VIII. 8.) ESZCSM rendelet 97. §-ával megállapított szöveg.
+[^533]: A 3. számú melléklet a 46/2003. (VIII. 8.) ESZCSM rendelet 97. §-ával megállapított szöveg.

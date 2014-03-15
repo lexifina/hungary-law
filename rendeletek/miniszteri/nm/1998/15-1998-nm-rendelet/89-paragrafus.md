@@ -1,8 +1,8 @@
-89. § (1)[^266] A gondozott gyermek érdekében, a családjával való kapcsolat ápolása és a családnak a gyermek visszafogadására alkalmassá tétele céljából a gyermekvédelmi gyám és a gyermek gondozási helye együttműködik – ha szülői felügyeleti jogát nem szüntették meg vagy az nem szűnt meg – a szülővel és az illetékes gyermekjóléti szolgálat családgondozójával. A családgondozást a gyermekvédelmi nyilvántartás XX. számú adatlapja alapján kell megtervezni.
+89. § (1)[^280] A gondozott gyermek érdekében, a családjával való kapcsolat ápolása és a családnak a gyermek visszafogadására alkalmassá tétele céljából a gyermekvédelmi gyám és a gyermek gondozási helye együttműködik – ha szülői felügyeleti jogát nem szüntették meg vagy az nem szűnt meg – a szülővel és az illetékes gyermekjóléti szolgálat családgondozójával. A családgondozást a gyermekvédelmi nyilvántartás XX. számú adatlapja alapján kell megtervezni.
 
-(2)[^267]
+(2)[^281]
 
-(3)[^268] A családgondozás érdekében a gyermekvédelmi gyám feladata különösen
+(3)[^282] A családgondozás érdekében a gyermekvédelmi gyám feladata különösen
 
 a) a gondozott gyermek és családja közötti folyamatos és egymás elfogadására irányuló kapcsolat elősegítése, szükség esetén javaslattétel a kapcsolattartás formájának, helyszínének és időtartamának megváltoztatására,
 
@@ -14,6 +14,6 @@ d) a gondozott gyermek felkészítése a családba való visszakerülésre,
 
 e) a hazakerülést követő teendők és életvitel – a gondozott gyermekkel és a szülőkkel közös – megtervezése.
 
-[^266]: A 89. § (1) bekezdése a 26/2013. (III. 29.) EMMI rendelet 6. §-ával megállapított szöveg.
-[^267]: A 89. § új (2) bekezdését a 46/2003. (VIII. 8.) ESZCSM rendelet 52. §-a iktatta be, egyidejűleg az eredeti (2) bekezdés számozását (3) bekezdésre változtatva. A 89. § (2) bekezdését a 26/2013. (III. 29.) EMMI rendelet 36. § c) pontja hatályon kívül helyezte.
-[^268]: A 89. § eredeti (2) bekezdésének számozását (3) bekezdésre változtatta a 46/2003. (VIII. 8.) ESZCSM rendelet 52. §-a, nyitó szövegrésze a 26/2013. (III. 29.) EMMI rendelet 37. § 3. pontja szerint módosított szöveg.
+[^280]: A 89. § (1) bekezdése a 26/2013. (III. 29.) EMMI rendelet 6. §-ával megállapított szöveg.
+[^281]: A 89. § új (2) bekezdését a 46/2003. (VIII. 8.) ESZCSM rendelet 52. §-a iktatta be, egyidejűleg az eredeti (2) bekezdés számozását (3) bekezdésre változtatva. A 89. § (2) bekezdését a 26/2013. (III. 29.) EMMI rendelet 36. § c) pontja hatályon kívül helyezte.
+[^282]: A 89. § eredeti (2) bekezdésének számozását (3) bekezdésre változtatta a 46/2003. (VIII. 8.) ESZCSM rendelet 52. §-a, nyitó szövegrésze a 26/2013. (III. 29.) EMMI rendelet 37. § 3. pontja szerint módosított szöveg.

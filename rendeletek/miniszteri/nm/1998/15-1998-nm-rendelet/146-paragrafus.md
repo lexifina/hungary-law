@@ -1,16 +1,18 @@
-146. § (1) A szakszolgálat az örökbefogadni szándékozó alkalmasságát megállapító gyámhivatali határozat alapján nyilvántartásba veszi az örökbefogadni szándékozót.
+146. § (1)[^469] A szakszolgálat az alkalmasságát megállapító, jogerős gyámhivatali határozat alapján felveszi az örökbe fogadni szándékozó személyt az egységes örökbefogadási nyilvántartásba az örökbefogadásra váró személyek közé.
 
-(2) Az örökbefogadni szándékozókat az alkalmasságot megállapító gyámhivatali határozat kézhezvételekor az örökbefogadási szándék 145. § (2) bekezdése szerinti bejelentésének napjával kell az örökbefogadásra várakozók sorrendjébe besorolni.
+(2)[^470] Az örökbefogadni szándékozókat az alkalmasságot megállapító gyámhivatali határozat kézhezvételekor az örökbefogadási szándék 145. § (2) bekezdése szerinti bejelentésének napjával kell az örökbefogadásra várók sorrendjébe besorolni.
 
-(3)[^453] A nyilvántartásba vételről – amennyiben ehhez az örökbefogadni szándékozó nyilatkozatával hozzájárult – a szakszolgálat értesíti az országos örökbefogadási nyilvántartást vezető szervet, valamint az örökbefogadni szándékozó személyt.
+(3)[^471] A szakszolgálat az (1) bekezdés szerinti nyilvántartásba vételről értesíti az örökbe fogadni szándékozó személyt.
 
-(4)[^454] A szakszolgálat a várakozási idő alatt félévente felkeresi az örökbefogadni szándékozót és tájékoztatja kérelme teljesülésének esélyeiről.
+(4)[^472] A szakszolgálat a várakozási idő alatt félévente felkeresi az örökbefogadni szándékozót és tájékoztatja kérelme teljesülésének esélyeiről.
 
-(5)[^455] A szakszolgálat az örökbefogadás engedélyezése iránti eljárás lefolytatásához a gyámhivatal megkeresésére, illetve az örökbe fogadni szándékozó személy kérelmére környezettanulmányt készít az örökbe fogadni szándékozó személy otthonában és azt megküldi az örökbefogadási eljárás lefolytatására illetékes kijelölt gyámhivatal számára.
+(5)[^473] A szakszolgálat az örökbefogadás engedélyezése iránti eljárás lefolytatásához a gyámhivatal megkeresésére, illetve az örökbe fogadni szándékozó személy kérelmére környezettanulmányt készít az örökbe fogadni szándékozó személy otthonában és azt megküldi az örökbefogadási eljárás lefolytatására illetékes kijelölt gyámhivatal számára.
 
-(6)[^456]
+(6)[^474]
 
-[^453]: A 146. § (3) bekezdése a 46/2003. (VIII. 8.) ESZCSM rendelet 99. § (2) bekezdésének 26. pontja és a 8/2006. (XII. 27.) SZMM rendelet 11. § (2) bekezdése b) pontjának bd) alpontja, a 28/2010. (XII. 30.) NEFMI rendelet 25. § n) pontja szerint módosított szöveg.
-[^454]: A 146. § (4) bekezdése a 46/2003. (VIII. 8.) ESZCSM rendelet 88. §-ával megállapított szöveg.
-[^455]: A 146. § (5) bekezdését a 46/2003. (VIII. 8.) ESZCSM rendelet 99. § (1) bekezdésének e) pontja hatályon kívül helyezte, újonnan a 26/2013. (III. 29.) EMMI rendelet 26. §-a iktatta be.
-[^456]: A 146. § (6) bekedését a 28/2010. (XII. 30.) NEFMI rendelet 24. § e) pontja hatályon kívül helyezte.
+[^469]: A 146. § (1) bekezdése a 19/2014. (III. 13.) EMMI rendelet 25. § (1) bekezdésével megállapított szöveg.
+[^470]: A 146. § (2) bekezdése a 19/2014. (III. 13.) EMMI rendelet 37. § h) pontja szerint módosított szöveg.
+[^471]: A 146. § (3) bekezdése a 19/2014. (III. 13.) EMMI rendelet 25. § (2) bekezdésével megállapított szöveg.
+[^472]: A 146. § (4) bekezdése a 46/2003. (VIII. 8.) ESZCSM rendelet 88. §-ával megállapított szöveg.
+[^473]: A 146. § (5) bekezdését a 46/2003. (VIII. 8.) ESZCSM rendelet 99. § (1) bekezdésének e) pontja hatályon kívül helyezte, újonnan a 26/2013. (III. 29.) EMMI rendelet 26. §-a iktatta be.
+[^474]: A 146. § (6) bekedését a 28/2010. (XII. 30.) NEFMI rendelet 24. § e) pontja hatályon kívül helyezte.

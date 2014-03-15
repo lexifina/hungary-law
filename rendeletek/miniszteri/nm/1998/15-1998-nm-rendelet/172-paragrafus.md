@@ -1,0 +1,7 @@
+172. §[^530] (1) A gyermekjóléti szolgálat 2014. augusztus 15-éig jelzi az illetékes gyámhivatalnak, ha tudomása van arról, hogy a működési területén van olyan gyermek, akinek szülője együtt él a szülői felügyelettől megfosztott másik szülővel.
+
+(2) A szociális ágazatba tartozó miniszteri rendeleteknek az új Polgári Törvénykönyv hatálybalépésével összefüggő és egyéb módosításáról szóló 19/2014. (III. 13.) EMMI rendelet által megállapított 2. számú melléklet II. Rész II. Szakellátások cím 3. pontjában foglaltaktól eltérően 2014. március 15-étől 2014. szeptember 30-áig közalkalmazotti jogviszonyban, közvetítő munkakörben foglalkoztatható az a személy is, aki vállalja, hogy a 2. számú melléklet II. Rész II. Szakellátások cím 3. pontjában előírt képesítést megszerzi, és a képesítés megszerzését igazolja 2014. szeptember 30-áig.
+
+(3) Ha a közvetítő munkakör közalkalmazotti jogviszonyban foglalkoztatott személlyel nem tölthető be, 2014. március 15-étől 2014. december 31-éig a tevékenység más munkavégzésre irányuló jogviszony keretében is végezhető, feltéve hogy a közvetítő megfelel a szociális ágazatba tartozó miniszteri rendeleteknek az új Polgári Törvénykönyv hatálybalépésével összefüggő és egyéb módosításáról szóló 19/2014. (III. 13.) EMMI rendelet által megállapított 2. számú melléklet II. Rész II. Szakellátások cím 3. pontjában előírt képesítési követelménynek.
+
+[^530]: A 172. §-t a 19/2014. (III. 13.) EMMI rendelet 35. § (1) bekezdése iktatta be.

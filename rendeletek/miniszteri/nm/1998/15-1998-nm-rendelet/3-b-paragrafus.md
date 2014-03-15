@@ -1,4 +1,4 @@
-3/B. §[^18] (1) Az egyházi fenntartású és a nem állami fenntartású gyermekjóléti, gyermekvédelmi szolgáltató, intézmény esetén a fenntartónak folyamatosan rendelkeznie kell a szolgáltató tevékenység körében okozott kár megtérítésére kötött, hatályos felelősségbiztosítási szerződéssel.
+3/B. §[^22] (1) Az egyházi fenntartású és a nem állami fenntartású gyermekjóléti, gyermekvédelmi szolgáltató, intézmény esetén a fenntartónak folyamatosan rendelkeznie kell a szolgáltató tevékenység körében okozott kár megtérítésére kötött, hatályos felelősségbiztosítási szerződéssel.
 
 (2) Az egyházi fenntartónak és a nem állami fenntartónak köztartozásmentes adózónak kell minősülnie
 
@@ -10,4 +10,4 @@ b) a szolgáltatói nyilvántartásban történő, fenntartóváltozásra irány
 
 (4) A helyettes szülő, valamint a nevelőszülő körülményeinek alkalmasnak kell lennie a gyermek ellátására. A külső férőhelynek megfelelő lakhatást kell biztosítania.
 
-[^18]: A 3/B. §-t a 83/2013. (XII. 29.) EMMI rendelet 1. §-a iktatta be.
+[^22]: A 3/B. §-t a 83/2013. (XII. 29.) EMMI rendelet 1. §-a iktatta be.

@@ -4,7 +4,7 @@
 
 ## A működtető feladatai
 
-59. §[^223] (1)[^224] A helyettes szülő alkalmasságának megállapítására, valamint a helyettes szülő felkészítésére a 95. §-ban, a nevelőszülői foglalkoztatási jogviszony és a helyettes szülői jogviszony egyes kérdéseiről szóló kormányrendeletben, továbbá a helyettes szülők, a nevelőszülők, a családi napközit működtetők képzésének szakmai és vizsgakövetelményeiről, valamint az örökbefogadás előtti tanácsadásról és felkészítő tanfolyamról szóló miniszteri rendeletben meghatározottak az irányadók.
+59. §[^237] (1)[^238] A helyettes szülő alkalmasságának megállapítására, valamint a helyettes szülő felkészítésére a 95. §-ban, a nevelőszülői foglalkoztatási jogviszony és a helyettes szülői jogviszony egyes kérdéseiről szóló kormányrendeletben, továbbá a helyettes szülők, a nevelőszülők, a családi napközit működtetők képzésének szakmai és vizsgakövetelményeiről, valamint az örökbefogadás előtti tanácsadásról és felkészítő tanfolyamról szóló miniszteri rendeletben meghatározottak az irányadók.
 
 (2) A felkészítő tanfolyamot eredményesen elvégző személyt mint helyettes szülői férőhelyet biztosítót – a működtető és a jelentkező személy közös kérelmére – a gyermekjóléti szolgálat nyilvántartásba veszi. Ezzel egyidejűleg a működtető megállapodást köt a helyettes szülői feladatot vállaló személlyel [Gyvt. 66/O. § (1) bek.].
 
@@ -12,5 +12,5 @@
 
 (4) Az önálló helyettes szülőt foglalkoztató, illetve helyettes szülői hálózatot működtető a helyettes szülő folyamatos szakmai segítéséről, illetve ellenőrzéséről a 25. § (2)–(4) bekezdésében foglaltak szerint gondoskodik.
 
-[^223]: Az 59. § a 46/2003. (VIII. 8.) ESZCSM rendelet 39. §-ával megállapított szöveg.
-[^224]: Az 59. § (1) bekezdése a 83/2013. (XII. 29.) EMMI rendelet 3. §-ával megállapított szöveg.
+[^237]: Az 59. § a 46/2003. (VIII. 8.) ESZCSM rendelet 39. §-ával megállapított szöveg.
+[^238]: Az 59. § (1) bekezdése a 83/2013. (XII. 29.) EMMI rendelet 3. §-ával megállapított szöveg.

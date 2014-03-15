@@ -2,9 +2,9 @@
 
 ## alkalmazására
 
-19. § (1)[^87] A gyermekjóléti szolgálat a gyermekvédelmi gondoskodás körébe tartozó hatósági intézkedések közül javaslatot tehet a gyámhivatalnak a gyermek védelembe vételére, ideiglenes hatályú elhelyezésére vagy nevelésbe vételére.
+19. § (1)[^98] A gyermekjóléti szolgálat a gyermekvédelmi gondoskodás körébe tartozó hatósági intézkedések közül javaslatot tehet a gyámhivatalnak a gyermek védelembe vételére, ideiglenes hatályú elhelyezésére vagy nevelésbe vételére.
 
-(2)[^88] Az (1) bekezdés szerinti javaslatban a gyermekjóléti szolgálat a gyermekvédelmi nyilvántartás megfelelő adatlapján ismerteti a gyermek helyzetét, különösen
+(2)[^99] Az (1) bekezdés szerinti javaslatban a gyermekjóléti szolgálat a gyermekvédelmi nyilvántartás megfelelő adatlapján ismerteti a gyermek helyzetét, különösen
 
 a) a veszélyeztető körülményeket, azoknak a gyermekre gyakorolt hatását,
 
@@ -14,9 +14,12 @@ c) a gyermeket nevelő család élethelyzetére vonatkozó adatokat,
 
 d) a javaslattétel elkészítéséig biztosított alapellátásokat, valamint az ügy szempontjából fontos más ellátásokat,
 
-e) a gyermeknek és a szülőnek (törvényes képviselőnek) a javaslattétel elkészítéséig tanúsított együttműködési készségét, illetve annak hiányát.
+e) a gyermeknek és a szülőnek (törvényes képviselőnek) a javaslattétel elkészítéséig tanúsított együttműködési készségét, illetve annak hiányát,
+
+f)[^100] ha a gyermeket gondozó szülő együtt él a szülői felügyeleti jogától megfosztott másik szülővel, és emiatt a gyermek nem áll szülői felügyelet alatt.
 
 (3) A gyermeket fenyegető közvetlen és súlyos veszély esetén a szolgálat csak a veszély tényét és jellegét nevezi meg, és a többi adat feltárásának mellőzésével tesz javaslatot a hatóság intézkedésére. A hiányzó adatokat a hatóság felhívásától függően szerzi be.
 
-[^87]: A 19. § (1) bekezdése a 11/2013. (II. 7.) EMMI rendelet 43. §-ával megállapított szöveg.
-[^88]: A 19. § (2) bekezdése a 46/2003. (VIII. 8.) ESZCSM rendelet 16. §-ával megállapított szöveg.
+[^98]: A 19. § (1) bekezdése a 11/2013. (II. 7.) EMMI rendelet 43. §-ával megállapított szöveg.
+[^99]: A 19. § (2) bekezdése a 46/2003. (VIII. 8.) ESZCSM rendelet 16. §-ával megállapított szöveg.
+[^100]: A 19. § (2) bekezdés f) pontját a 19/2014. (III. 13.) EMMI rendelet 9. §-a iktatta be.

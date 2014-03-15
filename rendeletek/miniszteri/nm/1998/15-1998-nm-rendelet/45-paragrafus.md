@@ -1,4 +1,4 @@
-45. §[^169] (1) A bölcsődék egészségügyi tevékenysége feletti szakfelügyeletet a fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szervének tisztifőorvosa (a továbbiakban: tisztifőorvos) gyakorolja. A tisztifőorvos feladata ellátása érdekében közreműködésre felkérheti a Főigazgatóságot vagy az Országos Gyermekvédelmi Szakértői Névjegyzékben szereplő szakértőt.
+45. §[^183] (1) A bölcsődék egészségügyi tevékenysége feletti szakfelügyeletet a fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szervének tisztifőorvosa (a továbbiakban: tisztifőorvos) gyakorolja. A tisztifőorvos feladata ellátása érdekében közreműködésre felkérheti a Főigazgatóságot vagy az Országos Gyermekvédelmi Szakértői Névjegyzékben szereplő szakértőt.
 
 (2) A Főigazgatóság szakvéleményt ad a működési engedélyt kiadó, az ellenőrzést végző, illetve a felügyeletet gyakorló szervnek, valamint a fenntartónak, hogy a bölcsőde tárgyi és személyi feltételei, szakmai programja és működése megfelel-e a jogszabályokban előírt szakmai követelményeknek.
 
@@ -10,4 +10,4 @@ b) véleményezi az egységes óvoda-bölcsőde nevelési programját, minőség
 
 c) részt vesz az egységes óvoda-bölcsőde ellenőrzésében, amelynek során a 3 évesnél fiatalabb gyermekek nevelésével, gondozásával összefüggő szakmai kérdéseket ellenőrzi.
 
-[^169]: A 45. § a 49/2013. (VII. 10.) EMMI rendelet 9. §-ával megállapított szöveg.
+[^183]: A 45. § a 49/2013. (VII. 10.) EMMI rendelet 9. §-ával megállapított szöveg.

@@ -1,4 +1,4 @@
-## 3K88751M_1
+## 4K03767M_1
 
 | Ellátás | Munkakör/fő |
 
@@ -96,13 +96,15 @@
 
 | 3. Területi gyermekvédelmi szakszolgálat | intézményvezető | 1 fő |
 
-|  | pszichológus | 1 fő/évi 100 új örökbefogadói alkalmassági vizsgálatra |
+|  | pszichológus | 1 fő/évi 100 új örökbefogadói alkalmassági vizsgálatra, vér szerinti szülőnek, várandós anyának krízistanácsadásra, utánkövetési tanácsadásra |
 
 |  | örökbefogadási tanácsadó | 1 fő/55-65 örökbefogadási eset* |
 
 |  | gyermekvédelmi gyám | 1 fő/30 gyermek |
 
 |  | jogász | létszámuk fenntartói döntés alapján kerül megállapításra |
+
+|  | közvetítő | 1 fő, további létszám fenntartói döntés alapján kerül megállapításra |
 
 |  | elhelyezési ügyintéző vagy gyermekvédelmi ügyintéző | 5 fő/intézmény |
 
@@ -118,8 +120,8 @@
 
 |  | családgondozó | 1 fő/évi 100 új vizsgálatra kerülő gyermek |
 
-| * Örökbefogadási eset alatt értendő: érvényes alkalmassági határozattal rendelkező örökbefogadásra váró családok száma, a folyamatban lévő alkalmassági vizsgálatok (házaspár egynek számít) száma, folyamatban lévő örökbefogadások (beleértve a más megyei örökbefogadás és nyílt örökbefogadás esetén a kötelező gondozási idő figyelemmel kísérését). |
+| * Örökbefogadási eset alatt értendő: érvényes alkalmassági határozattal rendelkező örökbefogadásra váró családok száma, a folyamatban lévő alkalmassági vizsgálatok száma (házaspár egynek számít), folyamatban lévő örökbefogadások (beleértve a más megyei örökbefogadás és nyílt örökbefogadás esetén a kötelező gondozási idő figyelemmel kísérését), a nyílt örökbefogadás előkészítésének száma, valamint az örökbefogadás kötelező és önkéntes utánkövetésének száma. |
 
-2. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^508]
+2. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^532]
 
-[^508]: A 2. számú melléklet a 46/2003. (VIII. 8.) ESZCSM rendelet 97. §-ával megállapított, a 77/2011. (XII. 30.) NEFMI rendelet 12. § (2) bekezdése, a 49/2013. (VII. 10.) EMMI rendelet 22. § (2) és (4) bekezdése, a 83/2013. (XII. 29.) EMMI rendelet 17. § (2) bekezdése szerint módosított szöveg.
+[^532]: A 2. számú melléklet a 46/2003. (VIII. 8.) ESZCSM rendelet 97. §-ával megállapított, a 77/2011. (XII. 30.) NEFMI rendelet 12. § (2) bekezdése, a 49/2013. (VII. 10.) EMMI rendelet 22. § (2) és (4) bekezdése, a 83/2013. (XII. 29.) EMMI rendelet 17. § (2) bekezdése, a 19/2014. (III. 13.) EMMI rendelet 36. § (2) bekezdése szerint módosított szöveg.
