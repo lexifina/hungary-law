@@ -4,7 +4,7 @@
 
 a) a 3. § a) pontjában meghatározott célterületekre irányuló tevékenységhez kapcsolódóan legalább 3000 eurónak megfelelő forint, de legfeljebb 735 000 eurónak megfelelő forint;
 
-b)[^27] a 3. § b) pont ba) alpontjában meghatározott célterületekre irányuló tevékenységhez kapcsolódóan legalább 3 000 eurónak megfelelő forint, de legfeljebb 1 200 000 eurónak megfelelő forint, az alábbi öntözési technológiákra vonatkozó támogatási határértékek figyelembevételével:
+b)[^28] a 3. § b) pont ba) alpontjában meghatározott célterületekre irányuló tevékenységhez kapcsolódóan legalább 3 000 eurónak megfelelő forint, de legfeljebb 1 200 000 eurónak megfelelő forint, az alábbi öntözési technológiákra vonatkozó támogatási határértékek figyelembevételével:
 
 ba) lineár- és körforgó öntöző technológiára irányuló támogatásigénylés esetében legfeljebb
 
@@ -26,7 +26,7 @@ bc) mikroöntözéses technológiára irányuló támogatásigénylés esetén l
 
 3. üvegház, fóliaöntözésnél legfeljebb 3200 eurónak megfelelő forint/ha;
 
-c)[^28] a 3. § bb) pontjában meghatározott célterületekre irányuló tevékenységhez kapcsolódóan legalább 3000 eurónak megfelelő forint, de legfeljebb 8 millió eurónak megfelelő forint.
+c)[^29] a 3. § bb) pontjában meghatározott célterületekre irányuló tevékenységhez kapcsolódóan legalább 3000 eurónak megfelelő forint, de legfeljebb 8 millió eurónak megfelelő forint.
 
 d) a 3. § c) pontjában meghatározott célterületekre irányuló tevékenységhez kapcsolódóan legalább 3000 eurónak megfelelő forint, de legfeljebb 735 000 eurónak megfelelő forint.
 
@@ -54,32 +54,32 @@ dc) 60%-a, ha az ügyfél fiatal mezőgazdasági termelő, és a beruházás KAT
 
 e) a 3. § cb) pontjában meghatározott célterületekre irányuló tevékenység esetén az elszámolható kiadások 70%-a;
 
-f)[^29] a (4) bekezdés szerinti egyéb elszámolható kiadások tekintetében, ha eltérő támogatási intenzitások kerülnek megállapításra, célterületenként egységesen a legalacsonyabb intenzitást kell figyelembe venni.
+f)[^30] a (4) bekezdés szerinti egyéb elszámolható kiadások tekintetében, ha eltérő támogatási intenzitások kerülnek megállapításra, célterületenként egységesen a legalacsonyabb intenzitást kell figyelembe venni.
 
-(3)[^30]
+(3)[^31]
 
 (4) E rendelet alkalmazásában elszámolható kiadás a fejlesztéssel kapcsolatban felmerült, a Vhr. 31. §-ban meghatározottak szerinti egyéb elszámolható kiadás.
 
-(5)[^31] E rendelet alkalmazásában az egyes elszámolható kiadások nem haladhatják meg a Gépkatalógus és az ÉNGY-ben szereplő referenciaárakat. Amennyiben a referenciaár az ÉNGY alapján nem állapítható meg, úgy a Vhr. 27. § (1) bekezdés g) pontjának megfelelőn kell eljárni. Gép, berendezés, eszköz esetében kizárólag a Gépkatalógusban szereplő tételek számolhatók el.
+(5)[^32] E rendelet alkalmazásában az egyes elszámolható kiadások nem haladhatják meg a Gépkatalógus és az ÉNGY-ben szereplő referenciaárakat. Amennyiben a referenciaár az ÉNGY alapján nem állapítható meg, úgy a Vhr. 27. § (1) bekezdés g) pontjának megfelelőn kell eljárni. Gép, berendezés, eszköz esetében kizárólag a Gépkatalógusban szereplő tételek számolhatók el.
 
-(6)[^32] Az (1) bekezdés ba)–bc) alpontjai esetében, amennyiben az ügyfél egy öntözéssel érintett területen többféle öntözési technológiát alkalmaz, akkor az öntözéssel érintett területre vonatkozóan az alkalmazott technológiákra külön-külön kiszámított támogatási összegek közül az alacsonyabbat kell figyelembe venni.
+(6)[^33] Az (1) bekezdés ba)–bc) alpontjai esetében, amennyiben az ügyfél egy öntözéssel érintett területen többféle öntözési technológiát alkalmaz, akkor az öntözéssel érintett területre vonatkozóan az alkalmazott technológiákra külön-külön kiszámított támogatási összegek közül az alacsonyabbat kell figyelembe venni.
 
-(7)[^33] Az üzemen belüli öntözés-fejlesztési beruházásoknál az öntözendő területen megvalósított beruházás és az azon kívül létesített, az üzemen belüli öntözés-fejlesztéshez kapcsolódó beruházások, valamint az öntözőgépek fődarabcseréje – a Gépkatalógus alapján – is az elszámolható költségek közé tartozik.
+(7)[^34] Az üzemen belüli öntözés-fejlesztési beruházásoknál az öntözendő területen megvalósított beruházás és az azon kívül létesített, az üzemen belüli öntözés-fejlesztéshez kapcsolódó beruházások, valamint az öntözőgépek fődarabcseréje – a Gépkatalógus alapján – is az elszámolható költségek közé tartozik.
 
-(8)[^34] A támogatás forrása:
+(8)[^35] A támogatás forrása:
 
 a) a 3. § b) pontjának ba) alpontjában és a c) pontjának ca) alpontjában meghatározott célterületek esetében az Új Magyarország Vidékfejlesztési Program „Mezőgazdasági üzemek korszerűsítése” intézkedéshez rendelt keretösszeg;
 
 b) 3. § a) pontjában, b) pontjának bb) alpontjában és a c) pontjának cb) alpontjában meghatározott célterületek esetében az Új Magyarország Vidékfejlesztési Program „A mezőgazdaság és az erdészet fejlesztéséhez és korszerűsítéséhez kapcsolódó infrastruktúra” intézkedéshez rendelt keretösszeg.
 
-(9)[^35] A jogcím keretösszege 7 195 539 eurónak megfelelő forintösszeg, de legfeljebb 2 milliárd forint.
+(9)[^36] A jogcím keretösszege 7 195 539 eurónak megfelelő forintösszeg, de legfeljebb 2 milliárd forint.
 
-[^27]: A 6. § (1) bekezdésének b) pontja a 114/2009. (VIII. 29.) FVM rendelet 5. § (1) bekezdésével, bevezető szövegrésze a 162/2009. (XI. 26.) FVM rendelet 4. § (1) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 3. § (3) bekezdése alapján a 2009. november 1-je után benyújtott támogatási kérelmekre is alkalmazni kell.
-[^28]: A 6. § (1) bekezdésének c) pontja a 114/2009. (VIII. 29.) FVM rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^29]: A 6. § (2) bekezdésének f) pontját a 77/2008. (VI. 14.) FVM rendelet 5. § (2) bekezdése iktatta be, szövege a 114/2009. (VIII. 29.) FVM rendelet 5. § (2) bekezdésével megállapított szöveg.
-[^30]: A 6. § (3) bekezdését az 59/2011. (VI. 29.) VM rendelet 9. § b) pontja hatályon kívül helyezte.
-[^31]: A 6. § (5) bekezdése a 77/2008. (VI. 14.) FVM rendelet 5. § (3) bekezdésével megállapított szöveg.
-[^32]: A 6. § (6) bekezdését a 77/2008. (VI. 14.) FVM rendelet 5. § (4) bekezdése iktatta be, szövege a 114/2009. (VIII. 29.) FVM rendelet 5. § (3) bekezdésével megállapított szöveg.
-[^33]: A 6. § (7) bekezdését a 77/2008. (VI. 14.) FVM rendelet 5. § (4) bekezdése iktatta be.
-[^34]: A 6. § (8) bekezdését a 114/2009. (VIII. 29.) FVM rendelet 5. § (4) bekezdése iktatta be.
-[^35]: A 6. § (9) bekezdését az 59/2011. (VI. 29.) VM rendelet 5. §-a iktatta be.
+[^28]: A 6. § (1) bekezdésének b) pontja a 114/2009. (VIII. 29.) FVM rendelet 5. § (1) bekezdésével, bevezető szövegrésze a 162/2009. (XI. 26.) FVM rendelet 4. § (1) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 3. § (3) bekezdése alapján a 2009. november 1-je után benyújtott támogatási kérelmekre is alkalmazni kell.
+[^29]: A 6. § (1) bekezdésének c) pontja a 114/2009. (VIII. 29.) FVM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^30]: A 6. § (2) bekezdésének f) pontját a 77/2008. (VI. 14.) FVM rendelet 5. § (2) bekezdése iktatta be, szövege a 114/2009. (VIII. 29.) FVM rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^31]: A 6. § (3) bekezdését az 59/2011. (VI. 29.) VM rendelet 9. § b) pontja hatályon kívül helyezte.
+[^32]: A 6. § (5) bekezdése a 77/2008. (VI. 14.) FVM rendelet 5. § (3) bekezdésével megállapított szöveg.
+[^33]: A 6. § (6) bekezdését a 77/2008. (VI. 14.) FVM rendelet 5. § (4) bekezdése iktatta be, szövege a 114/2009. (VIII. 29.) FVM rendelet 5. § (3) bekezdésével megállapított szöveg.
+[^34]: A 6. § (7) bekezdését a 77/2008. (VI. 14.) FVM rendelet 5. § (4) bekezdése iktatta be.
+[^35]: A 6. § (8) bekezdését a 114/2009. (VIII. 29.) FVM rendelet 5. § (4) bekezdése iktatta be.
+[^36]: A 6. § (9) bekezdését az 59/2011. (VI. 29.) VM rendelet 5. §-a iktatta be.

@@ -52,15 +52,15 @@ c) a zöldség-gyümölcs termelői csoport.
 
 (9)[^21] Ha az ügyfél vízgazdálkodási társulat, akkor az állami tulajdonú földterületek esetében a Vhr. 27. § (1) bekezdés b) pontjától eltérően, az első kifizetési kérelemhez kell mellékelni a beruházás megvalósításának helyére vonatkozó, teljes bizonyító erejű okiratot.
 
-(10) A nonprofit gazdasági társaságra a cégjegyzékbe történő bejegyzésig a gazdasági társaságokról szóló 2006. évi IV. törvény 15–16. §-ának rendelkezései (előtársaság) az irányadók.
+(10)[^22]
 
-(11)[^22] Előtársaság esetén a cégjegyzékbe történő bejegyzésről szóló végzéshiteles másolatát – a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) értesítésére – a kérelem befogadásáig kell benyújtani az MVH-hoz.
+(11)[^23] Előtársaság esetén a cégjegyzékbe történő bejegyzésről szóló végzéshiteles másolatát – a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) értesítésére – a kérelem befogadásáig kell benyújtani az MVH-hoz.
 
-(12)[^23] A vízgazdálkodási társulat, amennyiben közcélú vízilétesítményt hoz létre vagy a beruházást közcélú vízilétesítményen hajtja végre, saját kivitelező szervezetével is elvégezheti a munkát.
+(12)[^24] A vízgazdálkodási társulat, amennyiben közcélú vízilétesítményt hoz létre vagy a beruházást közcélú vízilétesítményen hajtja végre, saját kivitelező szervezetével is elvégezheti a munkát.
 
-(13)[^24] E rendelet alkalmazásában saját munkaként kizárólag az építésügyi normagyűjteményben (a továbbiakban: ÉNGY) szereplő tételek számolhatók el, a vízgazdálkodási társulat önköltségszámítás rendjére vonatkozó belső szabályzatának és a számviteli szabályoknak megfelelően nyilvántartott kiadások alapján. Saját munka esetén a gépköltség és rezsióradíj az adott építési tételhez kapcsolódó, az ÉNGY-ben szereplő referenciaár 90%-áig számolható el.
+(13)[^25] E rendelet alkalmazásában saját munkaként kizárólag az építésügyi normagyűjteményben (a továbbiakban: ÉNGY) szereplő tételek számolhatók el, a vízgazdálkodási társulat önköltségszámítás rendjére vonatkozó belső szabályzatának és a számviteli szabályoknak megfelelően nyilvántartott kiadások alapján. Saját munka esetén a gépköltség és rezsióradíj az adott építési tételhez kapcsolódó, az ÉNGY-ben szereplő referenciaár 90%-áig számolható el.
 
-(14)[^25] E rendelet alapján támogatás kizárólag abban az esetben vehető igénybe, ha az ügyfél, szakmai pontszámai elérik vagy meghaladják az 1. célterület esetén a 10 pontot, a 2.1. és 2.2. célterületek esetén a 10 pontot, a 3.1. célterület és 3.2. célterületek esetén a 10 pontot.
+(14)[^26] E rendelet alapján támogatás kizárólag abban az esetben vehető igénybe, ha az ügyfél, szakmai pontszámai elérik vagy meghaladják az 1. célterület esetén a 10 pontot, a 2.1. és 2.2. célterületek esetén a 10 pontot, a 3.1. célterület és 3.2. célterületek esetén a 10 pontot.
 
 [^14]: A 4. § (1) bekezdése az 59/2011. (VI. 29.) VM rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^15]: A 4. § (2) bekezdése a 114/2009. (VIII. 29.) FVM rendelet 3. §-ával megállapított szöveg.
@@ -70,7 +70,8 @@ c) a zöldség-gyümölcs termelői csoport.
 [^19]: A 4. § (6) bekezdését a 77/2008. (VI. 14.) FVM rendelet 8. § (2) bekezdése hatályon kívül helyezte.
 [^20]: A 4. § (8) bekezdését az 59/2011. (VI. 29.) VM rendelet 9. § a) pontja hatályon kívül helyezte.
 [^21]: A 4. § (9) bekezdése a 145/2008. (XI. 7.) FVM rendelet 1. §-ával megállapított szöveg, e módosító rendelet 3. §-a alapján a rendelkezést a 2008. június 15. napja után benyújtott támogatási kérelmek esetében is alkalmazni kell.
-[^22]: A 4. § (11) bekezdése a 23/2010. (III. 16.) FVM rendelet 14. § (2) bekezdésével megállapított szöveg.
-[^23]: A 4. § (12) bekezdését a 77/2008. (VI. 14.) FVM rendelet 4. § (3) bekezdése iktatta be.
-[^24]: A 4. § (13) bekezdését a 77/2008. (VI. 14.) FVM rendelet 4. § (3) bekezdése iktatta be.
-[^25]: A 4. § (14) bekezdését az 59/2011. (VI. 29.) VM rendelet 3. § (2) bekezdése iktatta be.
+[^22]: A 4. § (10) bekezdését a 22/2014. (III. 14.) VM rendelet 57. § b) pontja hatályon kívül helyezte.
+[^23]: A 4. § (11) bekezdése a 23/2010. (III. 16.) FVM rendelet 14. § (2) bekezdésével megállapított szöveg.
+[^24]: A 4. § (12) bekezdését a 77/2008. (VI. 14.) FVM rendelet 4. § (3) bekezdése iktatta be.
+[^25]: A 4. § (13) bekezdését a 77/2008. (VI. 14.) FVM rendelet 4. § (3) bekezdése iktatta be.
+[^26]: A 4. § (14) bekezdését az 59/2011. (VI. 29.) VM rendelet 3. § (2) bekezdése iktatta be.

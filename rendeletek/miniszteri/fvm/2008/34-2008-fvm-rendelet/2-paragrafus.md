@@ -34,7 +34,7 @@ n)[^7] megvalósítási hely: az az egyedileg azonosítható (névvel ellátott)
 
 o)[^8] fődarabcsere: az öntöző berendezés/telep működésének jellegét alapvetően meghatározó, azonos funkciót ellátó, Gépkatalógusban szereplő elemek cseréje;
 
-p)[^9] nonprofit gazdasági társaság: az a gazdasági társaságokról szóló 2006. évi IV. törvény szerinti nonprofit gazdasági társaság, amely mezőgazdasági tevékenységet végez;
+p)[^9]
 
 q)[^10] zöldség-gyümölcs termelői csoport: a zöldség-gyümölcs termelői csoportok és termelői szervezetek nemzeti szabályozásáról szóló 67/2009. (VI. 9.) FVM rendelet 2. § (1) bekezdés a) és b) pontjaiban meghatározott csoport;
 
@@ -48,6 +48,6 @@ r)[^11] öntözéssel érintett terület: olyan, a támogatott fejlesztés megva
 [^6]: A 2. § m) pontját a 77/2008. (VI. 14.) FVM rendelet 2. § (3) bekezdése iktatta be.
 [^7]: A 2. § n) pontját a 77/2008. (VI. 14.) FVM rendelet 2. § (3) bekezdése iktatta be, szövege a 114/2009. (VIII. 29.) FVM rendelet 1. § (3) bekezdésével megállapított szöveg.
 [^8]: A 2. § o) pontját a 77/2008. (VI. 14.) FVM rendelet 2. § (3) bekezdése iktatta be.
-[^9]: A 2. § p) pontját a 77/2008. (VI. 14.) FVM rendelet 2. § (3) bekezdése iktatta be.
+[^9]: A 2. § p) pontját a 77/2008. (VI. 14.) FVM rendelet 2. § (3) bekezdése iktatta be, hatályon kívül helyezte a 22/2014. (III. 14.) VM rendelet 57. § a) pontja.
 [^10]: A 2. § q) pontját a 114/2009. (VIII. 29.) FVM rendelet 1. § (4) bekezdése iktatta be.
 [^11]: A 2. § r) pontját a 114/2009. (VIII. 29.) FVM rendelet 1. § (5) bekezdése iktatta be.
