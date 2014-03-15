@@ -6,6 +6,8 @@ a) – a gazda és a kutyát kiképző szervezet eltérő megállapodása hiány
 
 b) az állat tartójának a segítő kutya kiképzésének ideje alatt a kiképző, a segítő kutya átadását követően a gazda minősül.
 
-(2) A segítő kutya által okozott kárért való felelősségre a Ptk.-nak az állattartók felelősségére vonatkozó szabályai az irányadóak azzal, hogy az állat tartójának a segítő kutya kiképzésének ideje alatt a kiképző, a segítő kutya átadását követően a gazda minősül.
+(2)[^3] A segítő kutya által okozott kárért való felelősségre a Polgári Törvénykönyvről szóló 2013. évi V. törvénynek az állattartók felelősségére vonatkozó szabályai az irányadóak azzal, hogy az állat tartójának a segítő kutya kiképzésének ideje alatt a kiképző, a segítő kutya átadását követően a gazda minősül.
 
 (3) A segítő kutyával kapcsolatban elkövetett jogsértés miatt a gazda és a kutyát kiképző szervezet is jogosult fellépni.
+
+[^3]: A 12. § (2) bekezdése a 19/2014. (III. 13.) EMMI rendelet 51. §-a szerint módosított szöveg.
