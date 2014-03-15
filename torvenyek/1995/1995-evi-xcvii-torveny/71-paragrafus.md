@@ -10,6 +10,8 @@
 
 3. ellenőrzött repülőtér: olyan repülőtér, ahol a repülőtéri forgalom részére légiforgalmi irányító szolgálatot nyújtanak;
 
+3a. gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet;
+
 4. légiforgalom: a levegőben vagy a repülőtér munkaterületén légijárművel végrehajtott valamennyi mozgás;
 
 5. légijármű: bármely szerkezet, amelynek légkörben maradása a levegővel való olyan kölcsönhatásból ered, amely más, mint a földfelszínre ható légerők hatása

@@ -14,7 +14,7 @@
 
 (3) A lajstromba és a katonai légügyi hatóság nyilvántartásába vett légijármű magyar légijárműnek minősül.
 
-(4) A lajstrom igazolja a légijármű adatait, ezen belül a légijármű tulajdonjogát, továbbá az egyéb jogokat és kötelességeket.
+(4) A lajstrom igazolja a légi jármű adatait, ezen belül a légi jármű tulajdonjogát, az egyéb jogokat és kötelességeket, továbbá a bizalmi vagyonkezelés alapján fennálló kezelt vagyonba tartozó tulajdonjog tényét.
 
 (5) A lajstromozásra kötelezett légijármű üzemben tartója, a 19. § (2) bekezdésében foglaltak esetén a légijármű tulajdonosa üzemeltetési bázisként Magyarország területén lévő repülőteret határoz meg, ahol vagy ahonnan a légijármű üzemben tartását végzi vagy szervezi.
 
