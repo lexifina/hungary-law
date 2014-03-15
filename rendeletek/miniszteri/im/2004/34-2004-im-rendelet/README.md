@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-34-20-0
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2008-05-16 | 2004-34-20-06.4 | 34/2004. (XI. 19.) IM rendelet |
+| 2014-03-15 | 2004-34-20-06.5 | 21/2014. (III. 13.) KIM rendelet |
