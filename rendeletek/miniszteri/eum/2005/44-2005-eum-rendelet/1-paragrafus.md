@@ -1,4 +1,4 @@
-1. § (1)[^1] Gazdálkodó szervezet [Ptk. 685. § c) pont], valamint külföldi vállalkozás magyarországi fióktelepe (a továbbiakban együtt: gazdálkodó szervezet) Magyarországon gyógyszergyártási tevékenységet (Gytv. 1. § 11. pont) a Gytv. 4. §-ában foglaltak, valamint e rendelet előírásai szerint folytathat.
+1. § (1)[^1] A polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet, valamint külföldi vállalkozás magyarországi fióktelepe (a továbbiakban együtt: gazdálkodó szervezet) Magyarországon gyógyszergyártási tevékenységet (Gytv. 1. § 11. pont) a Gytv. 4. §-ában foglaltak, valamint e rendelet előírásai szerint folytathat.
 
 (2)[^2] Gyógyszer gyártására jogosító engedély (a továbbiakban: gyógyszergyártási engedély) szükséges gyógyszer, a köztes termék, illetve vizsgálati készítmény teljes vagy részleges előállításához, készleteinek szétosztásához, csomagolásához, minőség-ellenőrzéséhez, forgalomba hozatal céljából való felszabadításához, továbbá a nem az Európai Gazdasági Térségben (a továbbiakban: EGT), illetve az Európai Közösséggel vagy az EGT-vel megkötött nemzetközi szerződés alapján az EGT tagállamával azonos jogállást nem élvező államból (a továbbiakban: harmadik ország) történő importjához, illetve kizárólag exportra történő előállításához.
 
@@ -26,7 +26,7 @@ bb) a kutatáshoz felhasznált és a kutatás befejezését követően megsemmis
 
 (6)[^7] A gyógyszerek elsődleges és másodlagos csomagolásának gyártása és forgalmazása a forgalomba hozatali engedély jogosultjával kötött szerződés alapján lehetséges. A szerződés meglétét és a forgalmazás adatait a GYEMSZI a csomagolóanyagok gyártójánál és forgalmazóinál is ellenőrizheti.
 
-[^1]: Az 1. § (1) bekezdése a 2/2012. (I. 3.) NEFMI rendelet 16. §-a szerint módosított szöveg.
+[^1]: Az 1. § (1) bekezdése a 2/2012. (I. 3.) NEFMI rendelet 16. §-a, a 16/2014. (III. 12.) EMMI rendelet 13. §-a szerint módosított szöveg.
 [^2]: Az 1. § (2) bekezdése az 53/2012. (XII. 28.) EMMI rendelet 11. §-ával megállapított szöveg.
 [^3]: Az 1. § (3) bekezdését az 53/2008. (XII. 31.) EüM rendelet 3. § (1) bekezdése iktatta be.
 [^4]: Az 1. § (4) bekezdését a 2/2012. (I. 3.) NEFMI rendelet 15. §-a iktatta be, szövege a 10/2012. (VII. 19.) EMMI rendelet 15. § (1) bekezdésével megállapított szöveg.
