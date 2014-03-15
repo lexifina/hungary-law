@@ -1,4 +1,4 @@
-8. § (1)[^21] Az értékpapírok fizikai megsemmisítése – égetéssel, bezúzással vagy ezekkel biztonságilag egyenértékű más módszerrel – bizottság jelenlétében történik, a megsemmisítés megtörténtét pedig – a 8/A. §-ban foglalt esetkör kivételével – közjegyző tanúsítja.
+8. § (1)[^19] Az értékpapírok fizikai megsemmisítése – égetéssel, bezúzással vagy ezekkel biztonságilag egyenértékű más módszerrel – bizottság jelenlétében történik, a megsemmisítés megtörténtét pedig – a 8/A. §-ban foglalt esetkör kivételével – közjegyző tanúsítja.
 
 A bizottság tagjai:
 
@@ -22,4 +22,4 @@ e) a bizottság tagjainak hitelesítő aláírása.
 
 (3) A közjegyző (2) bekezdés szerinti eljárásáért járó munkadíjat a közjegyzői díjszabásról szóló 14/1991. (XI. 26.) IM rendelet 15. §-a alapján kell megállapítani.
 
-[^21]: A 8. § (1) bekezdése a 27/2007. (II. 28.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^19]: A 8. § (1) bekezdése a 27/2007. (II. 28.) Korm. rendelet 4. §-ával megállapított szöveg.
