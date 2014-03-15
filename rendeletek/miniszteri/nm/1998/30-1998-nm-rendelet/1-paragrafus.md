@@ -4,7 +4,7 @@ a) legalább két egymástól független – a meddőség tényének és okának
 
 b) a nő a reprodukciós kor felső határát nem érte el,
 
-c)[^2] a kérelmezők nem állnak egymással olyan rokoni kapcsolatban, amely a házasságról, a családról és a gyámságról szóló 1952. évi IV. törvény 8. § (1) bekezdésének a) és b) pontja szerint a házasságot érvénytelenné teszi, és ezt írásbeli nyilatkozatukkal alátámasztják,
+c)[^2] a kérelmezők nem állnak egymással olyan rokoni kapcsolatban, amely a Polgári Törvénykönyvről szóló 2013. évi V. törvény 4:12. § (1) bekezdés a) és b) pontja szerint a házasságot érvénytelenné teszi, és ezt írásbeli nyilatkozatukkal alátámasztják,
 
 d) a kérelmezők hitelt érdemlően igazolják
 
@@ -43,7 +43,7 @@ ba) a méhűr alkalmasságát, a negatív hüvelyváladékot igazoló, és az al
 bb) a férj vagy az élettárs hat hónapnál nem régebbi spermiogrammja.
 
 [^1]: Az 1. § (1) bekezdésének felvezető mondata a 32/2006. (VIII. 23.) EüM rendelet 6. § (3) bekezdése szerint módosított szöveg.
-[^2]: [Az 1. § (1) bekezdés c) pontjának a 16/2014. (III. 12.) EMMI rendelet 3. §-ával elrendelt módosítása, amely szerint az „a házasságról, a családról és a gyámságról szóló 1952. évi IV. törvény 8. § (1) bekezdésének a)–b) pontja” szövegrész helyébe az „a Polgári Törvénykönyvről szóló 2013. évi V. törvény 4:12. § (1) bekezdés a) és b) pontja” szöveg lép, nem vezethető át.]
+[^2]: Az 1. § (1) bekezdés c) pontja a 16/2014. (III. 12.) EMMI rendelet 3. §-a szerint módosított szöveg.
 [^3]: Az 1. § (1) bekezdés g) pontját a 29/2008. (VII. 16.) EüM rendelet 3. § (3) bekezdése hatályon kívül helyezte.
 [^4]: Lásd a 25/1998. (VI. 17.) NN rendeletet.
 [^5]: Az 1. § (4) bekezdése a 32/2006. (VIII. 23.) EüM rendelet 1. §-ával megállapított szöveg.
