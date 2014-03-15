@@ -1,3 +1,0 @@
-45. § (1) Az ingatlanok és vagyoni értékű jogok értékelése piaci összehasonlításon alapuló módszerrel, nettó jelenérték számításon alapuló módszerrel, vagy újraelőállítási költségen alapuló módszerrel történhet, azzal, hogy az értékelési módszer választását részletesen indokolni kell, és a továbbiakban – a (2) bekezdésben foglaltak kivételével – minden időszakban ugyanezen módszerrel kell az adott ingatlant értékelni.
-
-(2) Ha az ingatlanértékelő úgy ítéli meg, hogy az (1) bekezdés szerint kiválasztott és alkalmazott értékelési módszer a továbbiakban már nem alkalmas a piaci érték megállapítására, az értékelési módszert meg kell változtatni, és az indokokat az értékelési szakvéleményben részletesen be kell mutatni.

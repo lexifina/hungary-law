@@ -1,3 +1,0 @@
-47. § (1) Amennyiben a nyilvános nyílt végű ingatlanalapok befektetési jegyeinek visszaváltását a befektetési alapkezelő vagy a Felügyelet a Batv. 85. § (2) bekezdésében meghatározott ok miatt felfüggeszti, az ingatlanok és vagyoni értékű jogok értékét legkésőbb a forgalmazás tervezett újraindítását megelőzően ismét meg kell állapítani. Az értékelést egy külső ingatlanértékelővel kell ellenőriztetni. A külső ingatlanértékelőre a 44–46. §-ban foglaltak megfelelően irányadók.
-
-(2) Amennyiben egy adott ingatlan vonatkozásában a külső ingatlanértékelő nem fogadja el az ingatlanalap ingatlanértékelője által megállapított értéket, az adott ingatlan értékét a két ingatlanértékelő együttesen köteles megállapítani. Ennek hiányában a forgalmazás nem kezdhető meg.

@@ -1,1 +1,0 @@
-A Kormány a befektetési alapkezelőkről és a kollektív befektetési formákról szóló 2011. évi CXCIII. törvény 152. § (1) bekezdés b) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (3) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
