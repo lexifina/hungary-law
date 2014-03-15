@@ -14,4 +14,6 @@ d) a természetes személy hivatalos közbeszerzési tanácsadónak nyilatkoznia
 
 (2) Ha a megújítási kérelem benyújtásának időpontját megelőző három évben a hivatalos közbeszerzési tanácsadó a 4. § (4) bekezdése szerint járt el és az általa igazolt eljárások száma eléri az előírt mértéket, a már igazolt közbeszerzési gyakorlatot nem kell újra igazolnia.
 
-(3) A névjegyzékbe történt bejegyzés megújítása esetén az állam által elismert közbeszerzési tárgyú szakképesítés megszerzéséhez kapcsolódó kedvezmények kizárólag akkor vehetők igénybe, ha első megújítás esetében a szakképesítést a tanácsadó a névjegyzékbe történt bejegyzését, az elsőt követő további megújítás esetében pedig a névjegyzékbe történt bejegyzésének legutolsó megújítását követően szerezte meg.
+(3)[^4] A névjegyzékbe történt bejegyzés megújítása esetén az állam által elismert közbeszerzési tárgyú szakképesítés vagy felsőoktatási intézmény által szervezett közbeszerzési szakirányú továbbképzésen szerzett szakirányú szakképzettség megszerzéséhez kapcsolódó kedvezmények kizárólag akkor vehetőek igénybe, ha első megújítás esetében a szakképesítést, illetve szakképzettséget a tanácsadó a névjegyzékbe történt bejegyzését, az elsőt követő további megújítás esetében pedig a névjegyzékbe történt bejegyzésének legutolsó megújítását követően szerezte meg.
+
+[^4]: A 8. § (3) bekezdése a 12/2014. (III. 14.) NFM rendelet 22. § (1) bekezdésével megállapított szöveg.
