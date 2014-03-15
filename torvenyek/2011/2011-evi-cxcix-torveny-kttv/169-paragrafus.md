@@ -2,7 +2,7 @@
 
 (2) A kormányzati szolgálati jogviszonyon kívül elmaradt jövedelemként a sérelem folytán elmaradt egyéb rendszeres, jogszerűen megszerzett jövedelmet kell megtéríteni.
 
-(3) Meg kell téríteni azt a kárt is, amelyet a kormánytisztviselő a sérelemből eredő jelentős fogyatékossága ellenére, rendkívüli munkateljesítménnyel hárít el, valamint a kormánytisztviselőnek azt a kárát is, amely nem vagyoni kár.
+(3) Meg kell téríteni azt a kárt is, amelyet a kormánytisztviselő a sérelemből eredő jelentős fogyatékossága ellenére, rendkívüli munkateljesítménnyel hárít el.
 
 (4) Nem kell megtéríteni azon juttatások értékét, amelyek rendeltetésük szerint csak munkavégzés esetén járnak, továbbá a költségtérítés címén kapott összeget.
 

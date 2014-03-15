@@ -4,7 +4,11 @@
 
 (2) A bűncselekménnyel okozott kár megtérítésére irányuló igény öt év, ha a büntethetőség elévülési ideje ennél hosszabb, ennek megfelelő idő alatt évül el.
 
+(2a) A bűncselekménnyel okozott személyiségi jogi sérelem miatt fizetendő sérelemdíj iránti igény öt év, ha a büntethetőség elévülési ideje ennél hosszabb, ennek megfelelő idő alatt évül el.
+
 (3) A kártérítés – e törvény eltérő rendelkezése hiányában – a károkozás bekövetkeztekor nyomban esedékes.
+
+(3a) A sérelemdíj – e törvény eltérő rendelkezése hiányában – a személyiségi jogi sérelem bekövetkezésekor nyomban esedékes.
 
 (4) Az igény elévülése az esedékessé válástól kezdődik. Az igény elévülését hivatalból kell figyelembe venni.
 

@@ -12,7 +12,9 @@ c) a minősítés, a teljesítményértékelés megállapításaival;
 
 d) a fegyelmi és kártérítési ügyben hozott határozattal;
 
-e) a kinevezés egyoldalú módosításával
+e) a kinevezés egyoldalú módosításával;
+
+f) a sérelemdíj megfizetése ügyében hozott határozattal
 
 kapcsolatos ügyekben. A Kormánytisztviselői Döntőbizottság döntésével szemben a kormánytisztviselő, illetve a munkáltató a döntés közlésétől számított harminc napon belül bírósághoz fordulhat.
 

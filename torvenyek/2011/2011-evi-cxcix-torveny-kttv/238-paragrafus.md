@@ -16,7 +16,9 @@ d) a fegyelmi és kártérítési ügyben hozott határozattal,
 
 e) a kinevezés egyoldalú módosításával,
 
-f) a fizetési felszólítással
+f) a fizetési felszólítással,
+
+g) a sérelemdíj megfizetése ügyében hozott határozattal
 
 kapcsolatos ügyekben. Egyéb esetekben a köztisztviselő az igény érvényesítésére vonatkozó elévülési időn belül fordulhat a bírósághoz.
 

@@ -1,6 +1,12 @@
-164. § (1) A kárért felelős kormánytisztviselő köteles az eredeti állapotot helyreállítani, ha pedig ez nem lehetséges, vagy a munkáltató azt alapos okból nem kívánja, köteles a munkáltató vagyoni és nem vagyoni kárát megtéríteni.
+164. § (1) Kártérítés címén a károkozó kormánytisztviselő köteles megtéríteni
 
-(2) Kártérítés címén a károkozó körülmény folytán a munkáltató vagyonában beállott értékcsökkenést és az elmaradt vagyoni előnyt, továbbá azt a kárpótlást vagy költséget kell megtéríteni, amely a munkáltatót ért vagyoni és nem vagyoni hátrány csökkentéséhez vagy kiküszöböléséhez szükséges.
+a) a munkáltató vagyonában beállott értékcsökkenést,
+
+b) az elmaradt vagyoni előnyt, és
+
+c) a munkáltatót ért vagyoni hátrányok kiküszöböléséhez szükséges költségeket.
+
+(2)
 
 (3) A kárt pénzben kell megtéríteni, kivéve, ha a körülmények a kár természetben való megtérítését indokolják.
 

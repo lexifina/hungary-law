@@ -16,7 +16,7 @@ b) ha a tanulmányok elvégzésére a munkáltató kötelezte a kormánytisztvis
 
 (6) A munkáltató személyében bekövetkező változás esetén a tanulmányi szerződésből származó jogok és kötelezettségek az átvevő munkáltatóra átszállnak.
 
-(7) Amennyiben a munkáltató a támogatást nem biztosítja, vagy egyéb lényeges szerződésszegést követ el, a kormánytisztviselő mentesül a szerződésből folyó kötelezettségei alól, és a szerződésszegésből eredő esetleges kárát érvényesítheti.
+(7) Amennyiben a munkáltató a támogatást nem biztosítja vagy egyéb lényeges szerződésszegést követ el, a kormánytisztviselő mentesül a szerződésből folyó kötelezettségei alól.
 
 (8) Ha a támogatásban részesülő kormánytisztviselő tanulmányait nem megfelelő eredménnyel folytatja, nem lép a szerződés szerinti időpontban a munkáltatónál munkába, illetőleg a meghatározott időtartamot nem tölti le, vagy egyéb lényeges szerződésszegést követ el, a munkáltató követelheti a ténylegesen nyújtott támogatásnak megfelelő összeg megtérítését.
 
@@ -25,3 +25,7 @@ b) ha a tanulmányok elvégzésére a munkáltató kötelezte a kormánytisztvis
 (10) A tanulmányi szerződést mindkét fél felmondhatja, ha körülményeiben olyan lényeges változás következett be, amely a tanulmányi szerződésből eredő kötelezettség teljesítését lehetetlenné tenné, vagy annak teljesítése aránytalan sérelemmel járna.
 
 (11) A kormánytisztviselő felmondása esetén a munkáltató az általa nyújtott támogatást visszakövetelheti. A munkáltató a támogatást arányosan követelheti vissza, ha a kormánytisztviselő a szerződésben kikötött tartamnak csak egy részét tölti le. A munkáltató felmondása esetén a támogatás nem követelhető vissza.
+
+(12) Bármely fél szerződésszegése esetén a másik fél a szerződésszegésből eredő esetleges kárát a Ptk. szerződésszegéssel okozott károkért való felelősségre vonatkozó rendelkezései alapján érvényesítheti.
+
+(13) A felek tanulmányi szerződéssel kapcsolatos személyiségi jogainak megsértése esetén jogkövetkezményként a Ptk. 2:51.–2:53. §-át kell alkalmazni.

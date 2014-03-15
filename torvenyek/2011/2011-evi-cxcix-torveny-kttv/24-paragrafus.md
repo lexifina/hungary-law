@@ -1,13 +1,21 @@
 ## A megtámadhatóság
 
-24. § (1) A megállapodás megtámadható, ha a fél annak megkötésekor lényeges tényben vagy körülményben tévedett, feltéve, hogy a tévedését a másik fél okozta vagy azt felismerhette, vagy, ha mindkét fél ugyanabban a téves feltevésben volt. Jogi kérdésben való tévedés címén a megállapodást akkor lehet megtámadni, ha a tévedés lényeges volt és a munkakörében eljáró jogi szakértő a feleknek együttesen adott a jogszabályok tartalmára nézve nyilvánvalóan téves tájékoztatást.
+24. § (1) A megállapodás megtámadható, ha a fél a megállapodás megkötésekor lényeges tényben vagy körülményben tévedett, feltéve, hogy a tévedését a másik fél okozta vagy azt felismerhette, vagy ha a felek a megállapodás megkötésekor lényeges tényben vagy körülményben ugyanabban a téves feltevésben voltak, vagy ha a megállapodás megkötésére a felet megtévesztéssel vagy jogellenes fenyegetéssel vették rá.
 
-(2) Megtámadható a megállapodás akkor is, ha annak megtételére a felet jogellenes fenyegetéssel vagy kényszerítéssel vették rá.
+(2) Az (1) bekezdés alkalmazásában lényeges tényre vagy körülményre vonatkozik a tévedés, illetve téves feltevés akkor, ha annak ismeretében a fél nem vagy más tartalommal kötötte volna meg a megállapodást.
 
-(3) A megállapodást az támadhatja meg, akit a jognyilatkozat megtételére jogellenes fenyegetéssel, kényszerítéssel vettek rá, vagy az, aki tévedésben, téves feltevésben volt.
+(3) A megállapodást megtámadhatja, aki a megállapodás megkötésekor tévedésben vagy téves feltevésben volt.
 
-(4) A megtámadás határideje harminc nap, amely a tévedés felismerésétől, vagy jogellenes fenyegetés, kényszerítés esetén a kényszerhelyzet megszűnésétől kezdődik. A megtámadási határidőre az elévülés szabályai megfelelően irányadók azzal, hogy hat hónap elteltével a megtámadás joga nem gyakorolható.
+(4) A megtévesztés hatására kötött megállapodást megtámadhatja, akit a másik fél szándékos magatartásával tévedésbe ejt vagy tévedésben tart.
 
-(5) A megtámadásra irányuló jognyilatkozatot a (4) bekezdésben meghatározott határidőn belül írásban kell a másik féllel közölni.
+(5) A megállapodást megtámadhatja, akit a másik fél jogellenes fenyegetéssel vett rá a megállapodás megkötésére.
 
-(6) A sikeresen megtámadott megállapodás érvénytelen.
+(6) A (4) és (5) bekezdésben foglalt szabályokat kell alkalmazni, ha a megtévesztés vagy jogellenes fenyegetés harmadik személy részéről történt és erről a másik fél tudott vagy tudnia kellett.
+
+(7) A megtámadás határideje harminc nap, amely a tévedés, megtévesztés, téves feltevés felismerésétől, vagy jogellenes fenyegetés esetén a kényszerhelyzet megszűnésétől kezdődik. A megtámadási határidőre az elévülés szabályai megfelelően irányadók azzal, hogy hat hónap elteltével a megtámadás joga nem gyakorolható.
+
+(8) A megtámadásra irányuló jognyilatkozatot a (7) bekezdésben meghatározott határidőn belül írásban kell a másik féllel közölni.
+
+(9) A sikeresen megtámadott megállapodás érvénytelen.
+
+(10) A fél titkos fenntartása vagy rejtett indoka a megállapodás érvényességét nem érinti.

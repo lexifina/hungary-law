@@ -18,4 +18,6 @@
 
 (9) A kormánytisztviselő az illetményére vonatkozó igényéről – az egyezséget kivéve – előre nem mondhat le.
 
-(10) A levonásmentes illetményrész nem engedményezhető.
+(10) Engedményezésnek pénzkövetelés esetén van helye. A levonásmentes illetményrész nem engedményezhető.
+
+(11) Tartozásátvállalásnak pénzkövetelés esetén van helye. Munkáltatói tartozást a kormánytisztviselő nem vállalhat át.
