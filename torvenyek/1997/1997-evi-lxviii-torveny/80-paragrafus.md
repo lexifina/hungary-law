@@ -1,3 +1,3 @@
-80. § (1) Ha a kárt többen együttesen okozták, a vétkességük, a megőrzésre átadott dologban bekövetkezett hiány esetén pedig az illetményük arányában felelnek.
+80. § (1) Ha a kárt, illetve a személyiségi jogsértést többen együttesen okozták, a vétkességük arányában felelnek, illetve kötelesek a sérelemdíj megfizetésére. A megőrzésre átadott dologban bekövetkezett hiány esetén, ha a kárt együttesen okozták, az illetményük arányában felelnek.
 
-(2) Amennyiben a kárt többen szándékosan okozták, egyetemleges kötelezésnek van helye.
+(2) Ha a kárt, illetve a személyiségi jogsértést többen szándékosan okozták, egyetemleges kötelezésnek van helye.

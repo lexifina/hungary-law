@@ -6,13 +6,17 @@
 
 11. § (1) A szolgálati viszony kinevezéssel és annak elfogadásával jön létre.
 
-(2) Igazságügyi alkalmazottnak – a (3) bekezdésben meghatározott kivétellel – az a tizennyolcadik életévét betöltött, cselekvőképes magyar állampolgár nevezhető ki, aki a munkakörére meghatározott iskolai végzettséggel és szakképzettséggel (a továbbiakban: képesítés) rendelkezik.
+(2) Igazságügyi alkalmazottnak – a (3) bekezdésben foglalt kivétellel – az nevezhető ki, aki
 
-(3) Igazságügyi szakértőnek, szakértőjelöltnek, – a bírósági jegyzőkönyvvezető és a cégszerkesztő kivételével – írnoknak és fizikai dolgozónak azt a tizennyolcadik életévét betöltött, a munkakörére meghatározott képesítéssel rendelkező személyt lehet kinevezni, aki
+a) tizennyolcadik életévét betöltötte,
 
-a) magyar állampolgár, vagy
+b) magyar állampolgár,
 
-b) külön törvény szerint a szabad mozgás és tartózkodás jogával rendelkező személy, ha a munkakör ellátásához szükséges mértékű magyar nyelvismerettel rendelkezik.
+c) nem áll a cselekvőképességet érintő gondnokság vagy támogatott döntéshozatal hatálya alatt, és
+
+d) a munkakörére meghatározott iskolai végzettséggel és szakképzettséggel (a továbbiakban: képesítés) rendelkezik.
+
+(3) Fizikai dolgozónak és – a bírósági jegyzőkönyvvezető és a cégszerkesztő kivételével – írnoknak, továbbá egyéb igazságügyi szerv igazságügyi alkalmazottjának az is kinevezhető, aki a (2) bekezdés a), c) és d) pontjában foglalt feltételeknek megfelel, és törvény alapján a szabad mozgás és tartózkodás jogával, valamint a munkakör ellátásához szükséges mértékű magyar nyelvismerettel rendelkezik. Fizikai dolgozónak az is kinevezhető, aki a cselekvőképességet érintő gondnokság vagy támogatott döntéshozatal hatálya alatt áll, ha a cselekvőképesség korlátozása, illetve a támogatott döntéshozatal a munkakör ellátását nem érinti.
 
 (4) Igazságügyi alkalmazottnak nem lehet kinevezni azt,
 

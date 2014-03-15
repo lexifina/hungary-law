@@ -22,3 +22,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-68-00-00
 | 2013-08-01 | 2013. évi CIII. törvény | 1997-68-00-00.41 |
 | 2014-01-01 | 2013. évi CCXLIII. törvény | 1997-68-00-00.42 |
 | 2014-03-01 | 2013. évi CCXLIII. törvény | 1997-68-00-00.43 |
+| 2014-03-15 | 2013. évi CCLII. törvény | 1997-68-00-00.44 |

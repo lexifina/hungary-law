@@ -1,6 +1,6 @@
-78. § (1) Gondatlan károkozás esetén a kártérítés mértéke – a (2) bekezdés szerinti kivételtől eltekintve – az igazságügyi alkalmazott 1 havi illetményének az 50 százalékát nem haladhatja meg.
+78. § (1) Gondatlan károkozás, illetve személyiségi jogsértés esetén a kártérítés, illetve a sérelemdíj mértéke – a (2) bekezdésben foglalt kivétellel – az igazságügyi alkalmazott 1 havi illetményének az 50 százalékát nem haladhatja meg.
 
-(2) Az igazságügyi alkalmazott a 3 havi illetménye erejéig felel, ha a kárt
+(2) Az igazságügyi alkalmazott a 3 havi illetménye erejéig felel, illetve kötelezhető sérelemdíj megfizetésére, ha a kárt, illetve a személyiségi jogsértést
 
 a) súlyosan gondatlan magatartásával,
 
@@ -8,6 +8,6 @@ b) ellenőrzési kötelezettsége elmulasztásával vagy nem megfelelő teljesí
 
 okozta.
 
-(3) 3 havi illetménye erejéig felel a vezető is, ha a kár olyan jogellenes utasításának a végrehajtásából keletkezett, amelynek jogellenes voltára a figyelmét az utasított előzőleg felhívta.
+(3) A vezető is 3 havi illetménye erejéig felel, illetve kötelezhető sérelemdíj megfizetésére, ha a kár, illetve személyiségi jogsértés miatt járó sérelemdíj megfizetése iránti igény olyan jogellenes utasításának a végrehajtásából keletkezett, amelynek jogellenes voltára a figyelmét az utasított előzőleg felhívta.
 
-(4) Szándékos károkozás esetén az igazságügyi alkalmazott a teljes kárt köteles megtéríteni.
+(4) Szándékos károkozás, illetve személyiségi jogsértés esetén az igazságügyi alkalmazott a teljes kárt köteles megtéríteni, illetve a sérelemdíj megfizetésére – illetménye összegétől függetlenül – köteles.

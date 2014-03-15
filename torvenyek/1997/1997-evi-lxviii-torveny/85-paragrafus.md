@@ -1,4 +1,4 @@
-85. § (1) A munkáltató a 83–84. §-on alapuló felelőssége alapján az igazságügyi alkalmazottnak az elmaradt jövedelmét, dologi kárát, nem vagyoni kárát, illetve a sérelemmel és ennek elhárításával összefüggésben felmerült indokolt költségeit köteles megtéríteni.
+85. § (1) A munkáltató a 83. §-on alapuló felelőssége, illetve sérelemdíj-fizetési kötelezettsége alapján és a 84. §-on alapuló felelőssége alapján az igazságügyi alkalmazottnak az elmaradt jövedelmét, a vagyonában beállott értékcsökkenést, az őt ért vagyoni hátrányok kiküszöböléséhez szükséges költségeit köteles megtéríteni, illetve sérelemdíjat köteles fizetni.
 
 (2) Az igazságügyi alkalmazott szolgálati viszonya körében az elmaradt jövedelem megállapításánál az elmaradt illetményt, továbbá azon rendszeres szolgáltatások pénzbeli értékét kell figyelembe venni, amelyekre a szolgálati viszonya alapján jogosult, feltéve, ha azokat a károkozást megelőzően rendszeresen igénybe vette.
 
