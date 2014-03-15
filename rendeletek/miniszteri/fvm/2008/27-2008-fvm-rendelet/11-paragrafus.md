@@ -10,6 +10,6 @@
 
 (6) Az adott támogatási célhoz igénybe vett összes támogatás – függetlenül attól, hogy annak finanszírozása közösségi, országos, regionális vagy helyi forrásból történik – támogatási intenzitása nem haladhatja meg az állami támogatásokra irányadó közösségi szabályban vagy az Európai Bizottság támogatást jóváhagyó határozatában meghatározott támogatási intenzitást.
 
-(7)[^12] A vadászati hatóság a mindkét fél részéről aláírt támogatási szerződésekből az aláírást követő 30 napon belül két eredeti példányt köteles megküldeni a miniszternek.
+(7)[^13] A vadászati hatóság a mindkét fél részéről aláírt támogatási szerződésekből az aláírást követő 30 napon belül két eredeti példányt köteles megküldeni a miniszternek.
 
-[^12]: A 11. § (7) bekezdését a 2/2009. (I. 16.) FVM rendelet 6. §-a iktatta be. E módosító rendelet 8. § (2) bekezdése alapján a rendelkezést a 2009. január 19. napját követően benyújtott pályázatokra kell alkalmazni.
+[^13]: A 11. § (7) bekezdését a 2/2009. (I. 16.) FVM rendelet 6. §-a iktatta be. E módosító rendelet 8. § (2) bekezdése alapján a rendelkezést a 2009. január 19. napját követően benyújtott pályázatokra kell alkalmazni.
