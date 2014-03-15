@@ -28,7 +28,9 @@ l) munkahelye címét (postacímét, telefon-, telefaxszámát, e-mail címét),
 
 m) szakmai testületi tagságát, a szakmai testület pontos megjelölésével, és
 
-n) közvetítői igazolványának számát.
+n) közvetítői igazolványának számát,
+
+o) 38/G. § szerinti alávetési nyilatkozat megtételének tényét.
 
 (2) A névjegyzék tartalmazza továbbá a jogi személy
 

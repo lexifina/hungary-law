@@ -8,6 +8,6 @@
 
 (4) A bíróság a bírósági közvetítőként eljáró bírósági titkár vagy rendelkezési állományba helyezett bíró nevéről, az első tájékoztató megbeszélés időpontjáról és az eljárásban történő képviselet lehetőségéről 8 napon belül tájékoztatja a feleket.
 
-(5) Az összeférhetetlenségre vonatkozó szabályokat a bírák kizárására vonatkozó külön törvényben meghatározott szabályokkal együtt kell alkalmazni.
+(5) Az összeférhetetlenségre vonatkozó szabályokat a bírák kizárására vonatkozó külön törvényben meghatározott szabályokkal együtt kell alkalmazni. A közvetítői eljárás során, mint közvetítő nem járhat el az ugyanazon közvetítői eljárással érintett peres vagy nemperes bírósági eljárásban eljáró bíró. Az ugyanazon közvetítői eljárással érintett peres vagy nemperes bírósági eljárásban mint bíró nem vehet részt a közvetítői eljárást lefolytató személy.
 
 (6) E törvény 38. §-a azzal az eltéréssel alkalmazandó, hogy a bírósági közvetítés során keletkezett iratokat a bíróság őrzi, és gondoskodik a másolatok kiadásáról.

@@ -2,9 +2,9 @@
 
 25. § (1) A közvetítő nem járhat el, ha
 
-a) valamelyik felet képviseli,
+a) valamelyik felet képviseli vagy valamelyik fél támogatója,
 
-b) a felek bármelyikének a Ptk. 685. § b) pontja szerinti hozzátartozója,
+b) a felek bármelyikének a Ptk. szerinti hozzátartozója,
 
 c) az őt foglalkoztató jogi személynek valamelyik féllel való viszonyában többségi befolyás áll fenn,
 

@@ -8,7 +8,7 @@ c) büntetlen előéletű, és nem áll a közvetítői tevékenység folytatás
 
 d) nem esik a (2) bekezdésben vagy egyéb jogszabályban foglalt kizáró ok alá.
 
-(2) Nem vehető fel a névjegyzékbe az a természetes személy, aki cselekvőképességet korlátozó vagy kizáró gondnokság alatt áll, vagy gondokság alá helyezés nélkül cselekvőképtelen [a Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) 14. § (1) bekezdés, 15. § (1) bekezdés, 17. §].
+(2) Nem vehető fel a névjegyzékbe az a természetes személy, aki cselekvőképességet érintő gondnokság vagy támogatott döntéshozatal hatálya alatt áll.
 
 (3) A névjegyzékbe kérelemre fel kell venni azt a jogi személyt, amelynek
 
