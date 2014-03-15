@@ -1,1 +1,0 @@
-## 6. § A kivételes építésügyi hatósági ügyben az építésügyi hatósági eljárásokról és az építésügyi hatósági ellenőrzésről szóló kormányrendeletnek az építtető értesítésére vonatkozó rendelkezését nem kell alkalmazni.

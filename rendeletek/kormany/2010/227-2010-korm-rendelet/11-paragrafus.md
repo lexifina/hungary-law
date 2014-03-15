@@ -1,1 +1,0 @@
-## 10. § Ha az építtető a bontási engedély-köteles építési tevékenységre vonatkozó kérelmét az építési engedélyezési kérelmével együtt nyújtja be, a bontási engedélyezési és az építési engedélyezési eljárást egy eljárásban az építési engedélyezési eljárásra meghatározott határidőn belül kell lefolytatni.
