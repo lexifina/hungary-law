@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-36-20-2
 | 2010-12-03 | 2010-36-20-2Y.1 | 36/2010. (XI. 30.) VM rendelet |
 | 2012-10-12 | 2010-36-20-2Y.2 | 106/2012. (X. 11.) VM rendelet |
 | 2013-12-17 | 2010-36-20-2Y.3 | 121/2013. (XII. 16.) VM rendelet |
+| 2014-03-15 | 2010-36-20-2Y.4 | 22/2014. (III. 14.) VM rendelet |
