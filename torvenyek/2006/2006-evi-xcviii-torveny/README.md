@@ -24,3 +24,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2006-98-00-00
 | 2013-07-01 | 2012. évi CCXXIII. törvény | 2006-98-00-00.30 |
 | 2013-07-06 | 2013. évi CXXVII. törvény | 2006-98-00-00.31 |
 | 2014-01-01 | 2013. évi CCXLIV. törvény | 2006-98-00-00.32 |
+| 2014-03-15 | 2013. évi CCLII. törvény | 2006-98-00-00.33 |

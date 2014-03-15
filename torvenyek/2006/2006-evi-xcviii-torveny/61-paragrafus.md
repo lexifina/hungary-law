@@ -12,6 +12,6 @@ b) a gyógyszerészek működési nyilvántartása alapján önállóan folytath
 
 (4) Nem lehet gyógyszertár vezetője
 
-a) aki cselekvőképességet korlátozó vagy kizáró gondnokság alatt áll,
+a) aki cselekvőképességében bármely ügycsoport tekintetében részlegesen korlátozó vagy cselekvőképességét teljesen korlátozó gondnokság alatt áll,
 
 b) akit a bíróság jogerős ítéletével a gyógyszerészi foglalkozástól eltiltott, az eltiltás tartama alatt.
