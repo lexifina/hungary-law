@@ -1,3 +1,3 @@
-## 10. §[^1]
+## 10. §[^4]
 
-[^1]: A 10. § ugyanezen § (4) bekezdése alapján hatályát vesztette.
+[^4]: A 10. § ugyanezen § (4) bekezdése alapján hatályát vesztette.

@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-63-20-1
 | --- | --- | --- |
 | 2010-01-01 | 2009-63-20-1U.1 | 63/2009. (XII. 17.) IRM rendelet |
 | 2010-01-02 | 2009-63-20-1U.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2014-03-15 | 2009-63-20-1U.3 | 21/2014. (III. 13.) KIM rendelet |
