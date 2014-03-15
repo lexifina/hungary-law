@@ -10,7 +10,7 @@ b) EGT-állam területén élők részére történő folyósítás esetén a jo
 
 c) Magyarországgal szociálpolitikai, szociális biztonsági egyezményt kötött állam területén élő személy részére történő folyósítás esetén a jogosult által megjelölt, a szerződő államban, pénzforgalmi szolgáltatónál vezetett fizetési számlára, vagy
 
-d) a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény szerinti – ideiglenes hatállyal elhelyezett, átmeneti vagy tartós nevelésbe vett – gyermek árvaellátását a gyám, eseti gondnok által megjelölt gyámhatósági fenntartásos betétre vagy fizetési számlára történő utalással
+d) a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény szerinti – ideiglenes hatállyal elhelyezett, átmeneti vagy tartós nevelésbe vett – gyermek árvaellátását a gyermekvédelmi gyám vagy a gyermek vagyonának kezelésére a gyámhatóság által feljogosított személy által megjelölt gyámhatósági fenntartásos betétre vagy fizetési számlára történő utalással
 
 teljesíti.
 

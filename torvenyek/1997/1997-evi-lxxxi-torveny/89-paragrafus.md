@@ -6,7 +6,7 @@
 
 a) a megtérítésre kötelezett azt kéri, vagy
 
-b) a megtérítésre kötelezett gazdálkodó szervezet (foglalkoztató vagy egyéb szerv) felszámolással, illetve végelszámolással jogutód nélkül megszűnik.
+b) a megtérítésre kötelezett, a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet (foglalkoztató vagy egyéb szerv) felszámolással, illetve végelszámolással jogutód nélkül megszűnik.
 
 (4) A (3) bekezdés szerinti egyösszegű megtérítés címén a megtérítési kötelezettség alapjául szolgáló
 
