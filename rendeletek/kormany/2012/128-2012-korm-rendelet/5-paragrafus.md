@@ -1,12 +1,12 @@
-## 4/G. §[^30] A pályázó által a pályázati eljárásban közölt adatokat a pályázatkezelő a pályázati döntés meghozatalától számított 5 évig kezeli.
+## 4/G. §[^32] A pályázó által a pályázati eljárásban közölt adatokat a pályázatkezelő a pályázati döntés meghozatalától számított 5 évig kezeli.
 
-## IV. Fejezet[^31]
+## IV. Fejezet[^33]
 
 ## A BÉRLETI SZERZŐDÉS SZABÁLYAI , VALAMINT A NEMZETI ESZKÖZKEZELŐ FELADATAINAK ELLÁTÁSÁRA KIZÁRÓLAGOS JOG ALAPJÁN TÖRTÉNŐ KIJELÖLÉS
 
 ## 4. A bérlő által fizetendő lakbér mértéke
 
-5. §[^32] (1) A lakóingatlan esetében a lakbér egy naptári hónapra számított mértéke a bérleti szerződés megkötésének évében a jelzáloghitel-szerződés megkötésekor megállapított forgalmi érték 1,5%-ának egytizenketted része.
+5. §[^34] (1) A lakóingatlan esetében a lakbér egy naptári hónapra számított mértéke a bérleti szerződés megkötésének évében a jelzáloghitel-szerződés megkötésekor megállapított forgalmi érték 1,5%-ának egytizenketted része.
 
 (2) A lakhatási célú ingatlan esetében a lakbér egy naptári hónapra számított mértéke a bérleti szerződés megkötésének évében
 
@@ -32,6 +32,6 @@ b) a 10/A. § (1) bekezdése szerinti bérleti szerződés esetén – amennyibe
 
 (5) A megváltozott lakbér összegét a bérbeadó minden év február 28-áig írásban közli a bérlővel.
 
-[^30]: A 4/G. § a 111/2013. (IV. 11.) Korm. rendelet 9. § c) pontja szerint módosított szöveg.
-[^31]: A IV. Fejezet megjelölését és címét a 431/2012. (XII. 29.) Korm. rendelet 4. §-a iktatta be.
-[^32]: Az 5. § a 368/2013. (X. 24.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^32]: A 4/G. § a 111/2013. (IV. 11.) Korm. rendelet 9. § c) pontja szerint módosított szöveg.
+[^33]: A IV. Fejezet megjelölését és címét a 431/2012. (XII. 29.) Korm. rendelet 4. §-a iktatta be.
+[^34]: Az 5. § a 368/2013. (X. 24.) Korm. rendelet 5. §-ával megállapított szöveg.

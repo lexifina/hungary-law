@@ -36,7 +36,11 @@ keresőtevékenységet folytatónak kell tekinteni az egyéni vállalkozót, azt
 
 7.[^7] lakbér: a bérlő által a lakóingatlan, a lakhatási célú ingatlan vagy a tartalék ingatlan használatáért, valamint a bérleti szerződésben rögzített egyéb – a bérbeadó által biztosított – szolgáltatásért a bérbeadónak havi rendszerességgel fizetendő díj;
 
-8.[^8] adósságkezelési és együttműködési megállapodás: a bérbeadó és a bérlő közötti olyan megállapodás, amely szabályozza különösen a tartozás megfizetésének ütemezését, a fizetési késedelemből származó jogkövetkezményeket, a bérbeadóval, illetve az általa megjelölt szervvel, szervezettel, személlyel való együttműködés formáját és az együttműködési kötelezettség megsértéséből eredő jogkövetkezményeket.
+8.[^8] adósságkezelési és együttműködési megállapodás: a bérbeadó és a bérlő közötti olyan megállapodás, amely szabályozza különösen a tartozás megfizetésének ütemezését, a fizetési késedelemből származó jogkövetkezményeket, a bérbeadóval, illetve a Segítő Szervezettel való együttműködés formáját és az együttműködési kötelezettség megsértéséből eredő jogkövetkezményeket;
+
+9.[^9] adósságkezelési program: a Segítő Szervezet által szervezett vagy koordinált olyan program, ami a bérlő és az együttköltöző háztartás tagjainak problémáira igyekszik megoldást nyújtani;
+
+10.[^10] Segítő Szervezet: a bérbeadó és a bérlő között létrejövő adósságkezelési és együttműködési megállapodás teljesítése, a bérlő anyagi helyzetének rendezése érdekében szükséges mentorálási feladatok ellátására e rendeletben kijelölt szervezet.
 
 [^1]: Az eredeti 1. alcím megjelölését I. Fejezetre változtatta, és szövegét (1. §) megállapította a 431/2012. (XII. 29.) Korm. rendelet 1. §-a.
 [^2]: Az 1. § 1. pontja a 111/2013. (IV. 11.) Korm. rendelet 1. §-ával megállapított szöveg.
@@ -45,4 +49,6 @@ keresőtevékenységet folytatónak kell tekinteni az egyéni vállalkozót, azt
 [^5]: Az 1. § 4. pontja a 368/2013. (X. 24.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^6]: Az 1. § 5. pontja a 111/2013. (IV. 11.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
 [^7]: Az 1. § 7. pontja a 368/2013. (X. 24.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^8]: Az 1. § 8. pontját a 368/2013. (X. 24.) Korm. rendelet 3. §-a iktatta be.
+[^8]: Az 1. § 8. pontját a 368/2013. (X. 24.) Korm. rendelet 3. §-a iktatta be, szövege a 81/2014. (III. 14.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^9]: Az 1. § 9. pontját a 81/2014. (III. 14.) Korm. rendelet 1. §-a iktatta be.
+[^10]: Az 1. § 10. pontját a 81/2014. (III. 14.) Korm. rendelet 1. §-a iktatta be.
