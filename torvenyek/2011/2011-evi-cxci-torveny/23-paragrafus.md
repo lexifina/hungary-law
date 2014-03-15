@@ -30,7 +30,7 @@ e) a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jo
 
 a) a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló törvény hatálya alá tartozó fegyveres szerv,
 
-b) a büntetés-végrehajtásért felelős miniszter felügyelete alá tartozó, a fogvatartottak kötelező foglalkoztatására létrehozott gazdálkodó szervezet,
+b) a büntetés-végrehajtásért felelős miniszter felügyelete alá tartozó, a fogvatartottak kötelező foglalkoztatására létrehozott, a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet,
 
 c) a honvédek jogállásáról szóló törvény szerinti honvédségi szervezet.
 
