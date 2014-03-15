@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-36-20-1
 | 2012-01-01 | 2010-36-20-1U.4 | 40/2011. (XII. 30.) KIM rendelet |
 | 2012-06-01 | 2010-36-20-1U.5 | 28/2012. (V. 18.) KIM rendelet |
 | 2012-07-01 | 2010-36-20-1U.6 | 28/2012. (V. 18.) KIM rendelet |
+| 2014-03-15 | 2010-36-20-1U.7 | 21/2014. (III. 13.) KIM rendelet |

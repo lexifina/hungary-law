@@ -1,6 +1,6 @@
-## 8. §[^17]
+## 8. §[^19]
 
-9. §[^18]
+9. §[^20]
 
-[^17]: A 8. §-t a 9. § (1) bekezdése hatályon kívül helyezte.
-[^18]: A 9. § a (2) bekezdés alapján hatályát vesztette.
+[^19]: A 8. §-t a 9. § (1) bekezdése hatályon kívül helyezte.
+[^20]: A 9. § a (2) bekezdés alapján hatályát vesztette.
