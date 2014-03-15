@@ -2,9 +2,9 @@
 
 ## Oklevél
 
-34. § (1)[^67] Az eredményesen letett végrehajtói szakvizsgáról e rendelet 3. számú melléklete szerinti bírósági végrehajtói oklevelet kell kiállítani, amelyet a vizsgabizottság elnöke és tagjai aláírnak.
+34. § (1)[^68] Az eredményesen letett végrehajtói szakvizsgáról e rendelet 3. számú melléklete szerinti bírósági végrehajtói oklevelet kell kiállítani, amelyet a vizsgabizottság elnöke és tagjai aláírnak.
 
-(2)[^68] Az oklevelet a vizsgabizottság a minisztérium körbélyegzőjével látja el.
+(2)[^69] Az oklevelet a vizsgabizottság a minisztérium körbélyegzőjével látja el.
 
-[^67]: A 34. § (1) bekezdése a 2/2011. (II. 3.) KIM rendelet 10. § c) pontja szerint módosított szöveg.
-[^68]: A 34. § (2) bekezdése a 6/2008. (III. 1.) IRM rendelet 6. § (1) bekezdése szerint módosított szöveg. E módosító rendelet 7. § (3) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^68]: A 34. § (1) bekezdése a 2/2011. (II. 3.) KIM rendelet 10. § c) pontja szerint módosított szöveg.
+[^69]: A 34. § (2) bekezdése a 6/2008. (III. 1.) IRM rendelet 6. § (1) bekezdése szerint módosított szöveg. E módosító rendelet 7. § (3) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
