@@ -8,7 +8,7 @@ b)[^19] zöldség-gyümölcs esetében a NÉBIH és a megyei kormányhivatal nö
 
 c)[^20] egyéb élelmiszerek esetében a járási állategészségügyi és élelmiszer-ellenőrző hivatal
 
-[az a)–c) pont szerinti hatóság a továbbiakban együtt: ellenőrző hatóság] végzi.
+## [az a)–c) pont szerinti hatóság a továbbiakban együtt: ellenőrző hatóság] végzi.
 
 (2) Az ellenőrző hatóság a hagyományos különleges termékek termékleírásnak való megfelelését a termelés, az előállítás, és a forgalmazás helyén ellenőrzi.
 
