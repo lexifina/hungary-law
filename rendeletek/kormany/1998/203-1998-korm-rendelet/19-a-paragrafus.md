@@ -1,4 +1,4 @@
-19/A. §[^168] (1) A szénhidrogén- és a széndioxid-szállítóvezeték (a továbbiakban együtt: szállítóvezeték), a földgáz elosztóvezeték (a továbbiakban: elosztóvezeték), az egyéb gáz és gáztermék vezeték, valamint a bányászati létesítmény és a célvezeték, továbbá környezetük védelmére, zavartalan üzemeltetése, ellenőrzése, karbantartása, javítása és az üzemzavar-elhárítás biztosítására biztonsági szabályzatban meghatározott méretű biztonsági övezetet kell megállapítani.
+19/A. §[^169] (1) A szénhidrogén- és a széndioxid-szállítóvezeték (a továbbiakban együtt: szállítóvezeték), a földgáz elosztóvezeték (a továbbiakban: elosztóvezeték), az egyéb gáz és gáztermék vezeték, valamint a bányászati létesítmény és a célvezeték, továbbá környezetük védelmére, zavartalan üzemeltetése, ellenőrzése, karbantartása, javítása és az üzemzavar-elhárítás biztosítására biztonsági szabályzatban meghatározott méretű biztonsági övezetet kell megállapítani.
 
 (2) A biztonsági övezeten belül tilos
 
@@ -42,4 +42,4 @@ e) a tereprendezés.
 
 (9) A biztonsági övezettel érintett ingatlanokra alapított vezetékjog, használati jog ingatlan-nyilvántartásba történő bejegyzését a létesítmény használatba vétele iránti kérelem benyújtása előtt kezdeményezni kell. Azokban a jogszabályban meghatározott esetekben, amikor szolgalmi jog, vezetékjog, használati jog az ingatlan-nyilvántartásba nem jegyezhető be, az üzemeltető a biztonsági övezetről, az előírt korlátozásokról és tilalmakról, valamint ezek megváltozásáról köteles az érintett ingatlantulajdonost (kezelőt, használót) az üzembe helyezés előtt, és a változást követően 30 napon belül írásban tájékoztatni.
 
-[^168]: A Vhr. 19/A. §-át a 106/2005. (VI. 16.) Korm. rendelet 25. §-a iktatta be, szövege az 559/2013. (XII. 31.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^169]: A Vhr. 19/A. §-át a 106/2005. (VI. 16.) Korm. rendelet 25. §-a iktatta be, szövege az 559/2013. (XII. 31.) Korm. rendelet 14. §-ával megállapított szöveg.

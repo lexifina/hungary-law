@@ -1,6 +1,6 @@
 ## (A Bt. 42. §-ához)
 
-26. § (1)[^241] A bánya bezárása (megszüntetése), a mező felhagyása és a tájrendezés befejezése tervezhető a kitermelésre készített műszaki üzemi tervben [14. § (3) bekezdése] vagy külön e célra kidolgozott műszaki üzemi tervben.
+26. § (1)[^242] A bánya bezárása (megszüntetése), a mező felhagyása és a tájrendezés befejezése tervezhető a kitermelésre készített műszaki üzemi tervben [14. § (3) bekezdése] vagy külön e célra kidolgozott műszaki üzemi tervben.
 
 (2) A bánya bezárására (megszüntetésére), a mező felhagyására készített műszaki üzemi tervnek tartalmaznia kell
 
@@ -28,7 +28,7 @@ i) a feleslegessé vált ipartörténeti jelentőségű berendezések és dokume
 
 a) a bányaföldtani dokumentációk jegyzékét;
 
-b)[^242] a visszahagyni tervezett ásványvagyonról készített kimutatást [Bt. 25. § (2) bek.];
+b)[^243] a visszahagyni tervezett ásványvagyonról készített kimutatást [Bt. 25. § (2) bek.];
 
 c) a föld alatti bányatérségek és egyéb bányászati létesítmények más célú hasznosítására készített műszaki tervet;
 
@@ -38,13 +38,13 @@ e) a környezetvédelmi térképet;
 
 f) a külön jogszabályban előírt környezetvédelmi engedélyt;
 
-g)[^243] a 13. § (2) bekezdése szerinti okiratot, ha a bányabezárás során végállapoti rézsűk és bányatalp kialakításának kivételével ásványi nyersanyag kitermelést is terveznek.
+g)[^244] a 13. § (2) bekezdése szerinti okiratot, ha a bányabezárás során végállapoti rézsűk és bányatalp kialakításának kivételével ásványi nyersanyag kitermelést is terveznek.
 
 (5) A kitermelés befejezésekor a bánya bezárására (megszüntetésére), a mező felhagyására készített műszaki üzemi terv, valamint a bányászati létesítmények felhagyásáról, lebontásáról szóló bejelentések [18. § (4) bek.] elbírálása során a bányakapitányság köteles vizsgálni a feleslegessé vált ipartörténeti jelentőségű gépek, berendezések, létesítmények és dokumentumok megőrzésének lehetőségeit.
 
 (6) A feltárt ipartörténeti jelentőségű tárgyi emlékek értékesítése esetében a bányászati emlékek gyűjtésére és őrzésére alapított múzeumokat elővásárlási jog illeti meg.
 
-(7)[^244] A megszűnt föld alatti bánya nyitvamaradó térségének más célú hasznosítása a hatóság által – a külön jogszabályban meghatározottakon túlmenően – akkor engedélyezhető, ha
+(7)[^245] A megszűnt föld alatti bánya nyitvamaradó térségének más célú hasznosítása a hatóság által – a külön jogszabályban meghatározottakon túlmenően – akkor engedélyezhető, ha
 
 a) a bányavállalkozó a más célú hasznosítással érintett bányatérséggel kapcsolatban végrehajtotta a bányabezárás műszaki üzemi tervében előírt kötelezettségeit;
 
@@ -54,10 +54,10 @@ c) a hasznosító biztosítékot ad a nyitvamaradó bányatérséggel összefüg
 
 (8) A más célra hasznosított föld alatti bányatérségek felhagyását a bányafelügyelet engedélyezi. Az engedély iránti kérelemhez mellékelni kell a föld alatti bányatérségek felhagyására vonatkozó műszaki tervet.
 
-(9)[^245]
+(9)[^246]
 
-[^241]: A Vhr. 26. §-ának (1) bekezdése a 106/2005. (VI. 16.) Korm. rendelet 30. §-ával megállapított szöveg.
-[^242]: A Vhr. 26. § (4) bekezdés b) pontja a 251/2011. (XII. 1.) Korm. rendelet 22. §-a szerint módosított szöveg.
-[^243]: A Vhr. 26. § (4) bekezdés g) pontját az 559/2013. (XII. 31.) Korm. rendelet 18. §-a iktatta be.
-[^244]: A Vhr. 26. § (7) bekezdésének bevezető szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 147. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^245]: A Vhr. 26. § (9) bekezdését a 282/2003. (XII. 29.) Korm. rendelet 19. §-a iktatta be, hatályon kívül helyezte a 411/2012. (XII. 28.) Korm. rendelet 23. §-a.
+[^242]: A Vhr. 26. §-ának (1) bekezdése a 106/2005. (VI. 16.) Korm. rendelet 30. §-ával megállapított szöveg.
+[^243]: A Vhr. 26. § (4) bekezdés b) pontja a 251/2011. (XII. 1.) Korm. rendelet 22. §-a szerint módosított szöveg.
+[^244]: A Vhr. 26. § (4) bekezdés g) pontját az 559/2013. (XII. 31.) Korm. rendelet 18. §-a iktatta be.
+[^245]: A Vhr. 26. § (7) bekezdésének bevezető szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 147. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^246]: A Vhr. 26. § (9) bekezdését a 282/2003. (XII. 29.) Korm. rendelet 19. §-a iktatta be, hatályon kívül helyezte a 411/2012. (XII. 28.) Korm. rendelet 23. §-a.

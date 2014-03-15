@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-203-20-
 | 2013-02-02 | 1998-203-20-22.33 | 7/2013. (I. 18.) Korm. rendelet |
 | 2014-01-01 | 1998-203-20-22.34 | 559/2013. (XII. 31.) Korm. rendelet |
 | 2014-01-31 | 1998-203-20-22.35 | 146/2012. (VII. 5.) Korm. rendelet |
+| 2014-03-15 | 1998-203-20-22.36 | 53/2014. (III. 3.) Korm. rendelet |

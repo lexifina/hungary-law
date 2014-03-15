@@ -1,4 +1,4 @@
-19/B. §[^169] (1) Nyomvonaljellegű kőolaj- és földgázbányászati létesítmény, szállítóvezeték, elosztóvezeték, célvezeték, valamint egyéb gáz és gáztermék vezeték (e §-ban a továbbiakban: keresztezett létesítmény) egymást és más nyomvonalas létesítmény e létesítményeket biztonsági szabályzatban meghatározott módon és mértékben keresztezheti vagy megközelítheti.
+19/B. §[^170] (1) Nyomvonaljellegű kőolaj- és földgázbányászati létesítmény, szállítóvezeték, elosztóvezeték, célvezeték, valamint egyéb gáz és gáztermék vezeték (e §-ban a továbbiakban: keresztezett létesítmény) egymást és más nyomvonalas létesítmény e létesítményeket biztonsági szabályzatban meghatározott módon és mértékben keresztezheti vagy megközelítheti.
 
 (2) A keresztezett létesítmény keresztezéséhez, megközelítéséhez azok üzemeltetőjének egyetértése szükséges. Az üzemeltető az egyetértés megadását feltételekhez kötheti.
 
@@ -26,4 +26,4 @@ a) robbanás- vagy tűzveszélyes, vagy
 
 b) az egészségre, környezetre ártalmas.
 
-[^169]: A Vhr. 19/B. §-át az 559/2013. (XII. 31.) Korm. rendelet 14. §-a iktatta be.
+[^170]: A Vhr. 19/B. §-át az 559/2013. (XII. 31.) Korm. rendelet 14. §-a iktatta be.

@@ -1,8 +1,8 @@
 ## (A Bt. 22. §-ához)
 
-6. §[^45] (1) A nyílt területre vonatkozó kutatási engedély iránti kérelemnek tartalmaznia kell:
+6. §[^46] (1) A nyílt területre vonatkozó kutatási engedély iránti kérelemnek tartalmaznia kell:
 
-a)[^46] a kutatási terület közigazgatási megjelölését, az EOV rendszer szerinti koordinátákkal történő lehatárolását, a kutatás mélységi lehatárolását (a kutatási terület alap- és fedőlapját), szilárd ásványi nyersanyag esetében a kért kutatási területtel lefedett ingatlanok helyrajzi számát, és
+a)[^47] a kutatási terület közigazgatási megjelölését, az EOV rendszer szerinti koordinátákkal történő lehatárolását, a kutatás mélységi lehatárolását (a kutatási terület alap- és fedőlapját), szilárd ásványi nyersanyag esetében a kért kutatási területtel lefedett ingatlanok helyrajzi számát, és
 
 b) a kutatni tervezett ásványi nyersanyag megnevezését.
 
@@ -20,5 +20,5 @@ c) a kérelmezett terület azon részére vagy arra az ásványi nyersanyagra, a
 
 (5) A földtani szerkezetek megismerésére irányuló kutatás engedélyezésére az (1)–(2) bekezdésben foglaltakat kell megfelelően alkalmazni.
 
-[^45]: A Vhr. 6. §-a a 411/2012. (XII. 28.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^46]: A Vhr. 6. § (1) bekezdés a) pontja az 559/2013. (XII. 31.) Korm. rendelet 23. § 2. pontja szerint módosított szöveg.
+[^46]: A Vhr. 6. §-a a 411/2012. (XII. 28.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^47]: A Vhr. 6. § (1) bekezdés a) pontja az 559/2013. (XII. 31.) Korm. rendelet 23. § 2. pontja szerint módosított szöveg.

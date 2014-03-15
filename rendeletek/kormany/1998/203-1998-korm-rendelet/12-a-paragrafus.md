@@ -1,4 +1,4 @@
-12/A. §[^128] (1) Az üzemszerű kitermelés megkezdésére a Bt. 26/A. § (4) bekezdése szerinti öt éves határidőt a bányatelket megállapító határozat jogerőssé és végrehajthatóvá válásának napjától kell számítani. Az üzemszerű kitermelés megkezdésére előírt határidő meghosszabbítása iránti kérelmet a határidő lejárta előtt kell a bányafelügyelethez benyújtani.
+12/A. §[^129] (1) Az üzemszerű kitermelés megkezdésére a Bt. 26/A. § (4) bekezdése szerinti öt éves határidőt a bányatelket megállapító határozat jogerőssé és végrehajthatóvá válásának napjától kell számítani. Az üzemszerű kitermelés megkezdésére előírt határidő meghosszabbítása iránti kérelmet a határidő lejárta előtt kell a bányafelügyelethez benyújtani.
 
 (2) A kérelemnek tartalmaznia kell:
 
@@ -6,7 +6,7 @@ a) a meghosszabbítás időtartamának megjelölését és
 
 b) az üzemszerű kitermelés megkezdése elmulasztásának indokát.
 
-(3)[^129] A bányafelügyelet a meghosszabbítás iránti kérelmet elutasítja, ha
+(3)[^130] A bányafelügyelet a meghosszabbítás iránti kérelmet elutasítja, ha
 
 a) a bányavállalkozónak koncessziós díj, bányajáradék, felügyeleti díj, jogerős és végrehajtható határozattal megállapított kiesett bányajáradék pótlására megállapított díj, térítési díj vagy bírság tartozása van vagy
 
@@ -20,9 +20,9 @@ a) ha a bányatelekben nyilvántartott kitermelhető ásványvagyon mennyisége 
 
 b) ha a bányatelekben nyilvántartott kitermelhető ásványvagyon mennyisége az egymillió m3-t meghaladja, az egymillió m3 ásványvagyon érték 0,5‰-ének és az egymillió m3 feletti rész 0,1‰-ének az összege.
 
-(6)[^130] Szilárd ásványi nyersanyag, valamint kőolaj esetében az ásványvagyon értékét az ásványi nyersanyag – az ásványi nyersanyagok és a geotermikus energia fajlagos értékének, valamint az értékszámítás módjának meghatározásáról szóló kormányrendeletben meghatározott – fajlagos értékének és az (5) bekezdésben meghatározott ásványvagyon-mennyiségnek a szorzataként kell kiszámítani.
+(6)[^131] Szilárd ásványi nyersanyag, valamint kőolaj esetében az ásványvagyon értékét az ásványi nyersanyag – az ásványi nyersanyagok és a geotermikus energia fajlagos értékének, valamint az értékszámítás módjának meghatározásáról szóló kormányrendeletben meghatározott – fajlagos értékének és az (5) bekezdésben meghatározott ásványvagyon-mennyiségnek a szorzataként kell kiszámítani.
 
-(6a)[^131] Földgáz esetében az ásványvagyon értékét az ásványi nyersanyag – az ásványi nyersanyagok és a geotermikus energia fajlagos értékének, valamint az értékszámítás módjának meghatározásáról szóló kormányrendeletben meghatározott – fajlagos értékének és az (5) bekezdésben meghatározott ásványvagyon-mennyiség fűtőértékre átszámított értékének a szorzataként kell kiszámítani.
+(6a)[^132] Földgáz esetében az ásványvagyon értékét az ásványi nyersanyag – az ásványi nyersanyagok és a geotermikus energia fajlagos értékének, valamint az értékszámítás módjának meghatározásáról szóló kormányrendeletben meghatározott – fajlagos értékének és az (5) bekezdésben meghatározott ásványvagyon-mennyiség fűtőértékre átszámított értékének a szorzataként kell kiszámítani.
 
 (7) A térítésfizetési kötelezettség az üzemszerű kitermelés megkezdésére előírt határidő leteltét követő naptól keletkezik. A fizetendő térítést, amennyiben a térítésfizetési kötelezettség nem a tárgyév kezdőnapjától keletkezik, a törtidőszak figyelembevételével kell meghatározni. A törtidőszakra vonatkozó számítást kell alkalmazni akkor is, ha az üzemszerű kitermelést a tárgyévben megkezdik.
 
@@ -32,7 +32,7 @@ b) ha a bányatelekben nyilvántartott kitermelhető ásványvagyon mennyisége 
 
 (10) A megállapított térítési díjat a 4. § (5) bekezdésében foglalt gyakorisággal és időpontoknak megfelelően kell megfizetni.
 
-[^128]: A Vhr. 12/A. §-át a 106/2005. (VI. 16.) Korm. rendelet 18. §-a iktatta be, szövege a 411/2012. (XII. 28.) Korm. rendelet 15. §-ával megállapított szöveg.
-[^129]: A Vhr. 12/A. § (3) bekezdése az 559/2013. (XII. 31.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^130]: A Vhr. 12/A. § (6) bekezdése az 559/2013. (XII. 31.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
-[^131]: A Vhr. 12/A. § (6a) bekezdését az 559/2013. (XII. 31.) Korm. rendelet 9. § (2) bekezdése iktatta be.
+[^129]: A Vhr. 12/A. §-át a 106/2005. (VI. 16.) Korm. rendelet 18. §-a iktatta be, szövege a 411/2012. (XII. 28.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^130]: A Vhr. 12/A. § (3) bekezdése az 559/2013. (XII. 31.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^131]: A Vhr. 12/A. § (6) bekezdése az 559/2013. (XII. 31.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^132]: A Vhr. 12/A. § (6a) bekezdését az 559/2013. (XII. 31.) Korm. rendelet 9. § (2) bekezdése iktatta be.

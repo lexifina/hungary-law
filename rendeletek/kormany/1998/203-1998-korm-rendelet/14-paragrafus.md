@@ -1,4 +1,4 @@
-14. §[^150] (1) A műszaki üzemi terv intézkedéseit indokolni kell, és meg kell adni végrehajtásuk időbeli és területi ütemezését. Ha a jóváhagyásra benyújtott műszaki üzemi terv ingatlan igénybevételi terve eltér a 11/A. § (2) bekezdés c) pontja szerinti ütemtervtől, úgy az érintett ingatlantulajdonosokat erről az eljárás megindításáról szóló értesítésben tájékoztatni kell.
+14. §[^151] (1) A műszaki üzemi terv intézkedéseit indokolni kell, és meg kell adni végrehajtásuk időbeli és területi ütemezését. Ha a jóváhagyásra benyújtott műszaki üzemi terv ingatlan igénybevételi terve eltér a 11/A. § (2) bekezdés c) pontja szerinti ütemtervtől, úgy az érintett ingatlantulajdonosokat erről az eljárás megindításáról szóló értesítésben tájékoztatni kell.
 
 (2) A műszaki üzemi tervet jóváhagyó határozatnak a közigazgatási hatósági eljárás általános szabályairól szóló törvényben előírtakon túl tartalmaznia kell
 
@@ -24,4 +24,4 @@ f) az (1) bekezdésben meghatározott esetben az ingatlan igénybevételi ütemt
 
 (7) Nem kell a műszaki üzemi terv módosítását kérni, ha a haszonanyag kitermelt mennyisége, vagy az értékesített meddő mennyisége a tárgyévre engedélyezett mennyiséget legfeljebb 25%-kal haladja meg, és a kitermelés tekintetében az igénybevételre engedélyezett ingatlanon kívül más ingatlan igénybevételére nem kerül sor. A kitermelési mennyiség a növekménnyel együtt a környezetvédelmi, egységes környezethasználati vagy környezetvédelmi működési engedélyben meghatározott mennyiséget nem haladhatja meg.
 
-[^150]: A Vhr. 14. §-a az 559/2013. (XII. 31.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^151]: A Vhr. 14. §-a az 559/2013. (XII. 31.) Korm. rendelet 12. §-ával megállapított szöveg.
