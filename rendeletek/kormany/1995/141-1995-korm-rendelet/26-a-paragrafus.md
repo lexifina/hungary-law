@@ -1,4 +1,4 @@
-26/A. §[^32] (1) A Nemzeti Repülésbiztonsági Program alapján kidolgozott, a légiközlekedési hatóság által elfogadott Repülésbiztonság-irányítási Rendszert kell működtetnie valamennyi
+26/A. §[^35] (1) A Nemzeti Repülésbiztonsági Program alapján kidolgozott, a légiközlekedési hatóság által elfogadott Repülésbiztonság-irányítási Rendszert kell működtetnie valamennyi
 
 a) légiközlekedési szakszemélyzet – kivéve a lajstromozásra nem kötelezett légi járművek vezetői – képzésére engedéllyel rendelkező képzési szervezetnek, amelyek szolgáltatásának ellátása közben repülésbiztonsági kockázat merülhet fel,
 
@@ -10,7 +10,7 @@ d) légi járművet és légiközlekedéssel kapcsolatos eszközt tervező és g
 
 e) kereskedelmi repülőtér üzemben tartójának.
 
-(2)[^33] Az 1035/2011/EU bizottsági végrehajtási rendeletben a légiforgalmi szolgálatokra meghatározott Repülésbiztonság-irányítási Rendszernek a Nemzeti Repülésbiztonsági Programon kell alapulnia.
+(2)[^36] Az 1035/2011/EU bizottsági végrehajtási rendeletben a légiforgalmi szolgálatokra meghatározott Repülésbiztonság-irányítási Rendszernek a Nemzeti Repülésbiztonsági Programon kell alapulnia.
 
-[^32]: A Vhr. 26/A. §-át a 108/2010. (IV. 9.) Korm. rendelet 1. §-a iktatta be.
-[^33]: A Vhr. 26/A. § (2) bekezdése a 88/2012. (IV. 26.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^35]: A Vhr. 26/A. §-át a 108/2010. (IV. 9.) Korm. rendelet 1. §-a iktatta be.
+[^36]: A Vhr. 26/A. § (2) bekezdése a 88/2012. (IV. 26.) Korm. rendelet 1. §-ával megállapított szöveg.
