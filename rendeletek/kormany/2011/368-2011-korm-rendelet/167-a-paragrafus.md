@@ -1,4 +1,4 @@
-## [Az Áht. 104–105. §-ához][^385]
+## [Az Áht. 104–105. §-ához][^388]
 
 167/A. § (1) A törzskönyvi nyilvántartás tartalmazza a törzskönyvi jogi személy
 
@@ -8,7 +8,7 @@
 
 3. székhelyét,
 
-4.[^386] főtevékenységét az államháztartási szakágazatok rendje, valamint közfeladatát, alaptevékenységeit a kormányzati funkciók rendje szerint,
+4.[^389] főtevékenységét az államháztartási szakágazatok rendje, valamint közfeladatát, alaptevékenységeit a kormányzati funkciók rendje szerint,
 
 5. törzskönyvi nyilvántartásba történő bejegyzésének és törlésének időpontját,
 
@@ -66,7 +66,7 @@ a) költségvetési szerv törzskönyvi jogi személy esetében tartalmazza
 
 5. az államháztartás központi alrendszerébe tartozó költségvetési szerv középirányító szervének PIR számát,
 
-6–7.[^387]
+6–7.[^390]
 
 8. a költségvetési szervnél fennálló foglalkoztatási jogviszonyok megnevezését,
 
@@ -120,6 +120,6 @@ c) a levelezési címet az a) pontban meghatározott módon vagy az irányítós
 
 feltüntetésével kell megjelölni.
 
-[^385]: Az Ávr. „[Az Áht. 104–105. §-ához]” alcímét (Ávr. 167/A–167/L. §) a 307/2013. (VIII. 14.) Korm. rendelet 25. §-a iktatta be.
-[^386]: Az Ávr. 167/A. § (1) bekezdés 4. pontja a 497/2013. (XII. 29.) Korm. rendelet 62. § (1) bekezdés 57. pontjával megállapított szöveg.
-[^387]: Az Ávr. 167/A. § (3) bekezdés a) pont 6–7. alpontját a 497/2013. (XII. 29.) Korm. rendelet 63. § (1) bekezdés 22. pontja hatályon kívül helyezte.
+[^388]: Az Ávr. „[Az Áht. 104–105. §-ához]” alcímét (Ávr. 167/A–167/L. §) a 307/2013. (VIII. 14.) Korm. rendelet 25. §-a iktatta be.
+[^389]: Az Ávr. 167/A. § (1) bekezdés 4. pontja a 497/2013. (XII. 29.) Korm. rendelet 62. § (1) bekezdés 57. pontjával megállapított szöveg.
+[^390]: Az Ávr. 167/A. § (3) bekezdés a) pont 6–7. alpontját a 497/2013. (XII. 29.) Korm. rendelet 63. § (1) bekezdés 22. pontja hatályon kívül helyezte.

@@ -22,13 +22,13 @@ kezdeményezheti.
 
 a) az a magyar állampolgár bízható meg, aki a felsőoktatásban szerzett pénzügyi-számviteli végzettséggel vagy jogász szakképzettséggel és a kijelölés évét megelőző tíz évben legalább öt éves szakirányú költségvetési gyakorlattal rendelkezik, és írásban nyilatkozik arról, hogy az (5) bekezdésben foglaltak személyére nem jelentenek kizáró okot, vagy
 
-b) az a jogi személyiséggel rendelkező gazdasági társaság bízható meg, amelynek ágazati besorolása megfelel az önkormányzati biztosi tevékenység jellegének, költségvetési szervnél referenciával rendelkezik és az önkormányzati biztosi tevékenységet az a) pontban előírt követelményeknek, valamint az (5) bekezdés szerinti összeférhetetlenségi szabályoknak igazoltan megfelelő alkalmazottjával vagy személyesen eljáró tagjával látja el.
+b)[^280] az a gazdasági társaság bízható meg, amelynek ágazati besorolása megfelel az önkormányzati biztosi tevékenység jellegének, költségvetési szervnél referenciával rendelkezik és az önkormányzati biztosi tevékenységet az a) pontban előírt követelményeknek, valamint az (5) bekezdés szerinti összeférhetetlenségi szabályoknak igazoltan megfelelő alkalmazottjával vagy személyesen eljáró tagjával látja el.
 
 (3) Az önkormányzati biztost a (2) bekezdés szerinti személyek, szervezetek közül a képviselő-testület döntése alapján a polgármester bízza meg, és ennek tényét a helyben szokásos módon teszi közzé.
 
 (4) A képviselő-testület a (3) bekezdés szerinti döntési jogát a pénzügyi bizottságára átruházhatja.
 
-(5) Nem lehet önkormányzati biztos az a személy, jogi személyiséggel rendelkező gazdasági társaság név szerint megnevezett alkalmazottja, tagja, aki
+(5)[^281] Nem lehet önkormányzati biztos az a személy, gazdasági társaság név szerint megnevezett alkalmazottja, tagja, aki
 
 a) az adott költségvetési szerv foglalkoztatottja,
 
@@ -41,3 +41,5 @@ d) az Áht. 71. § (1) bekezdésben megállapított tartozásállomány jogosult
 e) a költségvetési szerv vezetőjének, gazdasági vezetőjének vagy más alkalmazottjának hozzátartozója, e minőségének fennállása alatt, illetve annak megszűnésétől számított három évig.
 
 [^279]: Az Ávr. 116. §-a a 307/2013. (VIII. 14.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^280]: Az Ávr. 116. § (2) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 63. § (5) bekezdése szerint módosított szöveg.
+[^281]: Az Ávr. 116. § (5) bekezdés nyitó szövegrésze a 497/2013. (XII. 29.) Korm. rendelet 63. § (5) bekezdése szerint módosított szöveg.
