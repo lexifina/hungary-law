@@ -14,7 +14,7 @@ ab) más hadkötelesek és a potenciális hadkötelesek esetén annak az évnek 
 
 b) hadköteles: a hadkötelezettség bevezetését követően magyarországi bejelentett lakóhellyel rendelkező magyar állampolgárságú férfi,
 
-c) hozzátartozó: a házastárs, az egyenes ágbeli rokon, a házastárs egyenes ágbeli rokona, az örökbefogadott, mostoha és nevelt gyermek, az örökbefogadó, a mostoha és a nevelő szülő, a testvér valamint az élettárs,
+c) hozzátartozó: a Polgári Törvénykönyv 8:1. § (1) bekezdés 2. pontjában meghatározott személy,
 
 d) igénybevevő: a Honvédség, a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény (a továbbiakban: Hvt.) 80. § r) pontjában meghatározott rendvédelmi szervek és a Hvt. 18. § (2) bekezdésében meghatározott honvédelemben közreműködő szervek,
 
