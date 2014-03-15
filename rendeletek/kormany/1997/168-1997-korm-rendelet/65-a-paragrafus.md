@@ -1,3 +1,3 @@
-65/A. §[^122] Ha a szülői nyugdíjra jogosultság megszűnik, de a szülő (nagyszülő) a Tny. 58. §-ának (3) bekezdése szerinti feltétellel rendelkezik, a szülői nyugdíjat a megszüntetést követő emelésekkel, kiegészítésekkel növelt összegben kell újból megállapítani.
+65/A. §[^123] Ha a szülői nyugdíjra jogosultság megszűnik, de a szülő (nagyszülő) a Tny. 58. §-ának (3) bekezdése szerinti feltétellel rendelkezik, a szülői nyugdíjat a megszüntetést követő emelésekkel, kiegészítésekkel növelt összegben kell újból megállapítani.
 
-[^122]: A 65/A. §-t a 234/1998. (XII. 30.) Korm. rendelet 20. §-a iktatta a szövegbe.
+[^123]: A 65/A. §-t a 234/1998. (XII. 30.) Korm. rendelet 20. §-a iktatta a szövegbe.

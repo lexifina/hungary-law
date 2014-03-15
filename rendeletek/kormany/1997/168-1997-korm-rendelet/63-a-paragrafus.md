@@ -1,3 +1,3 @@
-63/A. §[^104]
+63/A. §[^105]
 
-[^104]: A 63/A. §-t a 234/1998. (XII. 30.) Korm. rendelet 16. §-a iktatta be, hatályon kívül helyezte a 164/2009. (VIII. 14.) Korm. rendelet 11. § (7) bekezdés h) pontja.
+[^105]: A 63/A. §-t a 234/1998. (XII. 30.) Korm. rendelet 16. §-a iktatta be, hatályon kívül helyezte a 164/2009. (VIII. 14.) Korm. rendelet 11. § (7) bekezdés h) pontja.
