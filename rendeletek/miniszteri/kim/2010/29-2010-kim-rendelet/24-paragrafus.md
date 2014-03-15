@@ -4,7 +4,7 @@
 
 (2) Hatályát veszti a hagyatéki eljárásról szóló 6/1958. (VII. 4.) IM rendelet.
 
-Melléklet a 29/2010. (XII. 31.) KIM rendelethez[^1]
+Melléklet a 29/2010. (XII. 31.) KIM rendelethez[^5]
 
 A hagyatéki leltár nyomtatványának adattartalma
 
@@ -146,4 +146,4 @@ A hagyatéki leltár nyomtatványának adattartalma
 
 11. A leltár mellékleteinek felsorolása
 
-[^1]: A melléklet az 50/2012. (XII. 4.) KIM rendelet 29. §-a szerint módosított szöveg.
+[^5]: A melléklet az 50/2012. (XII. 4.) KIM rendelet 29. §-a szerint módosított szöveg.
