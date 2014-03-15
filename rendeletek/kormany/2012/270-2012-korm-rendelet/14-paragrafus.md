@@ -1,4 +1,4 @@
-## 13. §[^2] Egyedi beruházási támogatás a Magyarországon székhellyel, vagy Magyarországon fiókteleppel rendelkező jogi személy és jogi személyiség nélküli gazdasági társaság, európai részvénytársaság, valamint európai szövetkezet részére nyújtható.
+## 13. §[^2] Egyedi beruházási támogatás a Magyarországon székhellyel, vagy Magyarországon fiókteleppel rendelkező gazdasági társaság, európai részvénytársaság, valamint európai szövetkezet részére nyújtható.
 
 14. § (1) A szakmai ellenjegyző és a támogató a Kormány részére közösen támogatási javaslatot tehet beruházási támogatás nyújtására:
 
@@ -20,5 +20,5 @@ d) kutatás-fejlesztési beruházásokhoz, ahol az elszámolható költségek ö
 
 (6) Az újonnan létesített munkahelyek számába csak azon munkavállalók számítanak bele, akikkel a beruházó a munka törvénykönyvéről szóló törvény szerinti munkaviszonyt létesít.
 
-[^2]: A 13. § az 507/2013. (XII. 29.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^2]: A 13. § az 507/2013. (XII. 29.) Korm. rendelet 6. § (1) bekezdésével megállapított, az 53/2014. (III. 3.) Korm. rendelet 37. § (3) bekezdése szerint módosított szöveg.
 [^3]: A 14. § (2) bekezdése az 550/2013. (XII. 30.) Korm. rendelet 79. §-a szerint módosított szöveg.
