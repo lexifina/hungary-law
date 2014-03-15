@@ -2,7 +2,7 @@
 
 ## A természetvédelmi támogatások
 
-2. § (1) Természetvédelmi támogatásban részesülhet az a természetes személy, jogi személy, valamint jogi személyiséggel nem rendelkező gazdasági társaság (a továbbiakban: támogatás igénylője), aki tevékenységével – az e rendeletben meghatározottak szerint – támogatható védett természeti érték vagy terület védelmét segíti elő.
+2. § (1)[^1] Természetvédelmi támogatásban részesülhet az a természetes személy, jogi személy, valamint jogi személyiséggel nem rendelkező szervezet (a továbbiakban: támogatás igénylője), aki tevékenységével – az e rendeletben meghatározottak szerint – támogatható védett természeti érték vagy terület védelmét segíti elő.
 
 (2) Az ökológiai hálózat nem védett természeti területeivel kapcsolatos támogatásokról külön jogszabály rendelkezik.
 
@@ -12,7 +12,7 @@ a) a támogatható védett természeti érték vagy terület természetes vagy t
 
 b) a támogatható védett természeti érték vagy terület védelmét, megőrzését, igénybevételének mérséklését szolgáló fejlesztések támogatása (a továbbiakban: fejlesztési támogatás).
 
-(4)[^1] A természetvédelmi támogatás pályázat útján nyerhető el. A természetvédelmi támogatás elnyerésének részletes pályázati feltételeit a természetvédelemért felelős miniszter határozza meg és teszi közzé.
+(4)[^2] A természetvédelmi támogatás pályázat útján nyerhető el. A természetvédelmi támogatás elnyerésének részletes pályázati feltételeit a természetvédelemért felelős miniszter határozza meg és teszi közzé.
 
 (5) A (3) bekezdésben foglalt természetvédelmi támogatások vissza nem térítendő támogatások.
 
@@ -22,4 +22,5 @@ b) a támogatható védett természeti érték vagy terület védelmét, megőrz
 
 (8) A természetvédelmi támogatás rendeltetésének megfelelő felhasználását a természetvédelmi hatóság ellenőrzi, illetve rendeli el a (7) bekezdésben foglaltak alapján a jogosulatlanul igénybe vett természetvédelmi támogatás visszafizetését.
 
-[^1]: A 2. § (4) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 30. §-a szerint módosított szöveg.
+[^1]: A 2. § (1) bekezdése az 57/2014. (III. 4.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^2]: A 2. § (4) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 30. §-a szerint módosított szöveg.
