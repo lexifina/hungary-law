@@ -146,7 +146,7 @@ b) a miniszter, hogy
 
 34. a 24. § (11) bekezdésében meghatározott szervezet vagy szervezetek kijelölését, és az azzal összefüggésben ellátandó feladatokat,
 
-35. a közúti ellenőri munkakör létesítéséhez szükséges iskolai végzettséget, képesítési előírásokat, valamint a névjegyzék vezetésére és a kezelői ellenőrök rendszeres továbbképzésére vonatkozó részletes eljárási szabályokat,
+35. a kezelői ellenőri munkakör létesítéséhez szükséges iskolai végzettséget, képesítési előírásokat, valamint a névjegyzék vezetésére és a kezelői ellenőrök rendszeres továbbképzésére vonatkozó részletes eljárási szabályokat,
 
 36. a közút lakott területen kívüli szakasza mellett a közlekedés biztonságát elősegítő közérdekű tájékoztató táblák szakmai tartalmát, valamint engedélyezésüket meghatározó testület létrehozásának, valamint a testület eljárásának részletes szabályait,
 

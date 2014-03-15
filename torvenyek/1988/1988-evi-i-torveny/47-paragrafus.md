@@ -1,6 +1,6 @@
 47. § A törvény alkalmazásában:
 
-1. importáló: a külkereskedelmi tevékenységet folytató vállalatok belföldi szerződéseiről szóló jogszabály szerinti külkereskedelmi társasági szerződés esetén a belföldi vállalat, bizományi szerződés esetén a megbízó, szállítási szerződés esetén a megrendelő, saját számlára történő import esetén a külkereskedelmi vállalat, önálló külkereskedelmi joggal felruházott gazdálkodó szervezet által behozott jármű esetén a gazdálkodó szervezet;
+1. gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet;
 
 2. közúti jármű: közúti szállító vagy vontatóeszköz (ideértve az önjáró és vontatott munkagépet is); az egyes járműfajták meghatározására a közúti közlekedés szabályairól szóló jogszabályban (KRESZ) foglaltak az irányadók;
 

@@ -66,7 +66,7 @@ vonatkozó rendelkezések megsértői bírság fizetésére kötelezhetők.
 
 a) a bírságfizetésre kötelezett (kötelezettek) székhelye, illetve lakóhelye vagy szokásos tartózkodási helye Magyarország területén van és a kötelezett rendelkezik az állami adóhatóság által kiadott adószámmal, illetve adóazonosító jellel, vagy
 
-b) a bírságfizetési kötelezettség teljesítéséért pénzügyi intézmény kezességet, bankgaranciát vállal vagy a kötelezettséget belföldön bejegyzett, adószámmal rendelkező gazdálkodó szervezet átvállalja és ezt a tényt a bírságfizetésre kötelezett az eljárás során hitelt érdemlően igazolja.
+b) a bírságfizetési kötelezettség teljesítéséért pénzügyi intézmény kezességet, garanciát vállal vagy a kötelezettséget belföldön bejegyzett, adószámmal rendelkező gazdálkodó szervezet átvállalja és ezt a tényt a bírságfizetésre kötelezett az eljárás során hitelt érdemlően igazolja.
 
 (7a) Amennyiben az ellenőrzés megállapítja, hogy az (1) bekezdés c), e) és h) pontjában felsorolt szabályok valamelyikét megszegték és a szabályszegés a közlekedés biztonságára kockázatot jelent, az eljáró hatóság az erre vonatkozó külön határozat kiadása nélkül a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény biztosítási intézkedésekre vonatkozóan megállapított feltételei szerint a járművet visszatartja a közlekedésbiztonsági kockázat elhárításáig.
 

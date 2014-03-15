@@ -24,7 +24,7 @@ g) a szerződés időtartamát.
 
 (6) A (3) bekezdés szerinti polgári jogi viszony alapján a parkolási szolgáltatást igénybe vevő által megfizetett várakozási díj és pótdíj összege a helyi önkormányzatot illeti meg. A szolgáltató legalább a szolgáltatás ellátásához szükséges költségekre jogosult.
 
-(7) A helyi közutak, valamint a helyi önkormányzat tulajdonában álló közforgalom elől el nem zárt magánutak, terek, parkok és egyéb közterületek esetében a helyi önkormányzat, vagy az Ötv. 9. § (5) bekezdésben meghatározott gazdasági társaság a díjfizetési kötelezettség teljesítésének ellenőrzésére, a díj- és pótdíjkövetelés érvényesítésére a jármű rendszámát, a természetes személy üzemben tartó nevét, születési idejét és lakcímét, a nem természetes személy üzemben tartó megnevezését és székhelyének, telephelyének címét, a kedvezményre jogosító okirat sorszámát
+(7) A helyi közutak, valamint a helyi önkormányzat tulajdonában álló közforgalom elől el nem zárt magánutak, terek, parkok és egyéb közterületek esetében a helyi önkormányzat, vagy a Mötv. 16/A. §-ában meghatározott gazdasági társaság a díjfizetési kötelezettség teljesítésének ellenőrzésére, a díj- és pótdíjkövetelés érvényesítésére a jármű rendszámát, a természetes személy üzemben tartó nevét, születési idejét és lakcímét, a nem természetes személy üzemben tartó megnevezését és székhelyének, telephelyének címét, a kedvezményre jogosító okirat sorszámát
 
 a) a díj megfizetése esetén az ellenőrzésig,
 
