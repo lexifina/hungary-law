@@ -1,4 +1,4 @@
-## 1. §[^1] A rendelet hatálya a nemzetközi közúti áru- és személyszállítást végző egyéni vállalkozóra, jogi személyre és jogi személyiség nélküli gazdasági társaságra (a továbbiakban együtt: üzemben tartó) terjed ki, aki, illetőleg amely nemzetközi forgalomban közúti áru-, illetőleg személyszállítási tevékenység végzéséhez magyar hatósági engedéllyel és jelzéssel ellátott tehergépkocsit, nyerges vontatót, pótkocsit, félpótkocsit, járműszerelvényt, autóbuszt (a továbbiakban együtt: jármű) tart üzemben. Külföldi állam hatósági engedélyével és jelzésével ellátott ilyen járművet üzemeltető, nemzetközi közúti árufuvarozást, illetve nemzetközi autóbuszos személyszállítást végző vállalkozás a magyar közlekedési hatóság által kiadott engedélyekért szintén az e rendeletben foglalt díjat köteles megfizetni.
+## 1. §[^1] A rendelet hatálya a nemzetközi közúti áru- és személyszállítást végző egyéni vállalkozóra, jogi személyre (a továbbiakban együtt: üzemben tartó) terjed ki, aki, illetőleg amely nemzetközi forgalomban közúti áru-, illetőleg személyszállítási tevékenység végzéséhez magyar hatósági engedéllyel és jelzéssel ellátott tehergépkocsit, nyerges vontatót, pótkocsit, félpótkocsit, járműszerelvényt, autóbuszt (a továbbiakban együtt: jármű) tart üzemben. Külföldi állam hatósági engedélyével és jelzésével ellátott ilyen járművet üzemeltető, nemzetközi közúti árufuvarozást, illetve nemzetközi autóbuszos személyszállítást végző vállalkozás a magyar közlekedési hatóság által kiadott engedélyekért szintén az e rendeletben foglalt díjat köteles megfizetni.
 
 2. § (1) A rendelet mellékletében meghatározott engedély és okmány kiadásáért igazgatási szolgáltatási díjat (a továbbiakban: díj) kell fizetni.
 
@@ -10,7 +10,7 @@
 
 (5)[^7] Az újrafelvételi eljárás díja megegyezik az első fokú eljárás díjával.
 
-[^1]: Az 1. § a 120/2004. (X. 6.) GKM rendelet 2. §-ának (1) bekezdésével megállapított szöveg.
+[^1]: Az 1. § a 120/2004. (X. 6.) GKM rendelet 2. § (1) bekezdésével megállapított, a 12/2014. (III. 14.) NFM rendelet 10. §-a szerint módosított szöveg.
 [^2]: A 2. § (2) bekezdése a 120/2004. (X. 6.) GKM rendelet 2. §-ának (2) bekezdésével megállapított szöveg.
 [^3]: A közúti járművek forgalomba helyezésével és forgalomban tartásával, környezetvédelmi felülvizsgálatával és ellenőrzésével, továbbá a gépjárműfenntartó tevékenységgel kapcsolatos egyes közlekedési hatósági eljárások díjáról szóló 91/2004. (VI. 29.) GKM rendelet 2. számú melléklete.
 [^4]: A 2. § (3) bekezdése a 120/2004. (X. 6.) GKM rendelet 2. §-ának (2) bekezdésével megállapított szöveg.
