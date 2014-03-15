@@ -4,7 +4,7 @@
 
 a) beruházás: az ügyfél által eszközölt, a számvitelről szóló törvény és a személyi jövedelemadóról szóló törvény által befektetett eszközként aktiválhatónak minősített ráfordítások összessége, valamint az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény 71. §-a (1) bekezdésének a) pontjában megfogalmazott tevékenységek és az erdő faállományának minőségi javítását szolgáló törzsalakító nyesés. A társasági tulajdon, illetőleg szavazati jog megszerzésére fordított összeg csak abban az esetben minősül beruházásnak, ha a támogatás igénybevételi feltételeit megállapító jogszabály ezt kifejezetten lehetővé teszi;
 
-b) egyéb szervezet: jogi személyiséggel nem rendelkező gazdasági társaság, szakcsoport, polgári jogi társaság, és minden más, jogi személyiséggel nem rendelkező személyi egyesülés;
+b) egyéb szervezet: a szakcsoport, valamint a jogi személyiséggel nem rendelkező szervezet;
 
 c) illetékes hatóság: az 1290/2005/EK tanácsi rendeletnek a kifizető ügynökségek és más testületek akkreditációja és az EMGA és az EMVA számláinak elszámolása tekintetében történő alkalmazására vonatkozó részletes szabályok megállapításáról szóló 885/2006/EK bizottsági rendelet (2006. június 21.) 1. cikkének (2) bekezdése alapján az agrárpolitikáért felelős miniszter;
 

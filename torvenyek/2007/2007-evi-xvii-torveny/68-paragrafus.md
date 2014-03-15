@@ -10,7 +10,7 @@ c) a pályázóval munkaviszonyban, munkavégzésre irányuló egyéb jogviszony
 
 d) a pályázat folyamatba épített (adminisztratív, illetve helyszíni), valamint utólagos ellenőrzését végző személy;
 
-e) az a)–d) pontokban szereplő személyek hozzátartozója [Ptk. 685. § b) pont];
+e) az a)–d) pontban szereplő személyek Polgári Törvénykönyv szerinti közeli hozzátartozója;
 
 f) politikai párt vezető tisztségviselője vagy alkalmazottja, valamint önkormányzati vagy országgyűlési képviselő;
 
