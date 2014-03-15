@@ -20,31 +20,39 @@ b)[^12] a magyarországi büntetlen előéletet és azt a tényt, hogy a kérelm
 
 (5b)[^18] Az Ápt. 4. § (3a) bekezdésére alapozott honosítási kérelem előterjesztésekor a kérelmezőnek az Ápt. 4. § (3a) bekezdés a) pont ab) alpontjában meghatározott feltételnek való megfelelését a közös gyermek születési anyakönyvi kivonatával kell igazolni.
 
-(6)[^19] Az Ápt. 4. § (1)–(2) és (4) bekezdésére alapozott honosítási kérelemhez mellékelni kell az alkotmányos alapismeretekből tett sikeres vizsgáról szóló igazolást, vagy az Ápt. 4/A. §-ának (2) bekezdésében meghatározott ok fennállásának igazolására
+(6)[^19] Az Ápt. 4. § (1), (2) és (4) bekezdésére alapozott honosítási kérelemhez mellékelni kell az alkotmányos alapismeretekből tett sikeres vizsgáról szóló igazolást, vagy az Ápt. 4/A. § (2) bekezdésében meghatározott ok fennállásának igazolására
 
-a) a cselekvőképtelen, illetőleg a korlátozottan cselekvőképes személy gondnokság alá helyezését elrendelő határozatot;
+a) a cselekvőképtelen kiskorú születési anyakönyvi kivonatát;
 
-b)[^20] a nevelési-oktatási vagy felsőoktatási intézményben szerzett végzettséget tanúsító bizonyítványt, oklevelet vagy az intézmény által kiadott igazolást.
+b) a cselekvőképtelen nagykorú személy gondnokság alá helyezését elrendelő határozatot;
 
-c) a betegség jellege szerint illetékes egészségügyi szolgáltató igazolását az egészségi állapotról.
+c) az Ápt. 4/A. § (2) bekezdés a) pontjában meghatározott korlátozottan cselekvőképes személy (a továbbiakban: korlátozottan cselekvőképes) esetében,
 
-(6a)[^21] Nem kell mellékelni a (6) bekezdés szerinti igazolást, ha a kérelmező nyilatkozik arról, hogy kérte a fővárosi kormányhivatalt, hogy az alkotmányos alapismeretekből tett sikeres vizsgáról az állampolgársági ügyekben eljáró szervet értesítse.
+ca) ha kiskorú, a születési anyakönyvi kivonatát,
 
-(6b)[^22] Az Ápt. 4/A. § (2) bekezdése b) pontjának alkalmazása során magyar tannyelvűnek kell tekinteni a részben magyar tannyelvű nevelési-oktatási vagy felsőoktatási intézményt is, ha a kérelmező magyar nyelvi tagozatú osztályban szerzett végzettséget.
+cb) ha olyan személy, akinek a cselekvőképességét a bíróság az állampolgársági eljárással kapcsolatos ügyek tekintetében korlátozta, a gondnokság alá helyezést elrendelő határozatot;
 
-(7)[^23] A honosítási és visszahonosítási kérelemhez a magyarországi lakóhellyel rendelkező kérelmezőnek két darab arcfényképet kell csatolnia.
+d) a nevelési-oktatási vagy felsőoktatási intézményben szerzett végzettséget tanúsító bizonyítványt, oklevelet vagy az intézmény által kiadott igazolást;
 
-(8)[^24] A honosítási és a visszahonosítási kérelemhez a külföldön élő, tizennegyedik életévét betöltött kérelmezőnek egy darab arcfényképet kell csatolnia.
+e) a betegség jellege szerint illetékes egészségügyi szolgáltató igazolását az egészségi állapotról.
 
-(9)[^25] A nagykorú kérelmező a honosítási és a visszahonosítási kérelemhez – az 1. § szerinti formanyomtatványon – saját kézzel írt önéletrajzot csatol.
+(6a)[^20] Nem kell mellékelni a (6) bekezdés szerinti igazolást, ha a kérelmező nyilatkozik arról, hogy kérte a fővárosi kormányhivatalt, hogy az alkotmányos alapismeretekből tett sikeres vizsgáról az állampolgársági ügyekben eljáró szervet értesítse.
 
-(10)[^26] A honosítási és a visszahonosítási kérelemhez mellékelni kell a magyarországi lakóhellyel rendelkező kérelmezőnek a személyazonosító igazolvány kiadásához szükséges adatlapot.
+(6b)[^21] Az Ápt. 4/A. § (2) bekezdése b) pontjának alkalmazása során magyar tannyelvűnek kell tekinteni a részben magyar tannyelvű nevelési-oktatási vagy felsőoktatási intézményt is, ha a kérelmező magyar nyelvi tagozatú osztályban szerzett végzettséget.
 
-(11)[^27] Nem kell csatolni a honosítási vagy visszahonosítási kérelemhez az Ápt.-ben vagy az e kormányrendeletben meghatározott okiratot, ha a kérelmező úgy nyilatkozik, hogy
+(7)[^22] A honosítási és visszahonosítási kérelemhez a magyarországi lakóhellyel rendelkező kérelmezőnek két darab arcfényképet kell csatolnia.
+
+(8)[^23] A honosítási és a visszahonosítási kérelemhez a külföldön élő, tizennegyedik életévét betöltött kérelmezőnek egy darab arcfényképet kell csatolnia.
+
+(9)[^24] A nagykorú kérelmező a honosítási és a visszahonosítási kérelemhez – az 1. § szerinti formanyomtatványon – saját kézzel írt önéletrajzot csatol.
+
+(10)[^25] A honosítási és a visszahonosítási kérelemhez mellékelni kell a magyarországi lakóhellyel rendelkező kérelmezőnek a személyazonosító igazolvány kiadásához szükséges adatlapot.
+
+(11)[^26] Nem kell csatolni a honosítási vagy visszahonosítási kérelemhez az Ápt.-ben vagy az e kormányrendeletben meghatározott okiratot, ha a kérelmező úgy nyilatkozik, hogy
 
 a) azt korábbi, az idegenrendészeti hatóság által lefolytatott eljárásban már csatolta, és kéri az állampolgársági ügyekben eljáró szervtől, hogy az okiratot szerezze be, vagy
 
-b) azt a hozzátartozója már csatolta a saját honosítási vagy visszahonosítási eljárásában, és kéri az állampolgársági ügyekben eljáró szervtől, hogy az okiratot szerezze be.
+b)[^27] azt a szülője, nagyszülője, gyermeke, unokája, testvére, testvére gyermeke, testvére unokája (a továbbiakban együtt: hozzátartozó) már csatolta a saját honosítási vagy visszahonosítási eljárásában, és kéri az állampolgársági ügyekben eljáró szervtől, hogy az okiratot szerezze be.
 
 [^9]: A 3. § a 103/2001. (VI. 21.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^10]: A 3. § (1) bekezdése a 128/2003. (VIII. 19.) Korm. rendelet 2. §-ával megállapított, felvezető szövege a 303/2006. (XII. 23.) Korm. rendelet 25. § (2) bekezdésének a) pontja szerint módosított szöveg. A 3. § (1) bekezdése a 224/2010. (VIII. 4.) Korm. rendelet 9. § (3) bekezdés a) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 9. § (2) bekezdése alapján a 2011. január 1. napját követően induló eljárásokban kell alkalmazni.
@@ -56,12 +64,12 @@ b) azt a hozzátartozója már csatolta a saját honosítási vagy visszahonosí
 [^16]: A 3. § (5) bekezdése a 417/2012. (XII. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^17]: A 3. § (5a) bekezdését a 417/2012. (XII. 29.) Korm. rendelet 1. § (2) bekezdése iktatta be.
 [^18]: A 3. § (5b) bekezdését a 417/2012. (XII. 29.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^19]: A 3. § (6) bekezdése a 224/2010. (VIII. 4.) Korm. rendelet 9. § (3) bekezdés b) pontja szerint módosított szöveg. E módosító rendelet 9. § (2) bekezdése alapján a 2011. január 1. napját követően induló eljárásokban kell alkalmazni.
-[^20]: A 3. § (6) bekezdésének b) pontja a 116/2007. (V. 24.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^21]: A 3. § (6a) bekezdését a 417/2012. (XII. 29.) Korm. rendelet 1. § (3) bekezdése iktatta be.
-[^22]: A 3. § (6b) bekezdését a 417/2012. (XII. 29.) Korm. rendelet 1. § (3) bekezdése iktatta be.
-[^23]: A 3. § (7) bekezdése a 417/2012. (XII. 29.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
-[^24]: A 3. § (8) bekezdését a 224/2010. (VIII. 4.) Korm. rendelet 3. § (3) bekezdése iktatta be, szövege a 417/2012. (XII. 29.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
-[^25]: A 3. § (9) bekezdését a 417/2012. (XII. 29.) Korm. rendelet 1. § (5) bekezdése iktatta be.
-[^26]: A 3. § (10) bekezdését a 417/2012. (XII. 29.) Korm. rendelet 1. § (5) bekezdése iktatta be.
-[^27]: A 3. § (11) bekezdését a 417/2012. (XII. 29.) Korm. rendelet 1. § (5) bekezdése iktatta be.
+[^19]: A 3. § (6) bekezdése az 56/2014. (III. 4.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^20]: A 3. § (6a) bekezdését a 417/2012. (XII. 29.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^21]: A 3. § (6b) bekezdését a 417/2012. (XII. 29.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^22]: A 3. § (7) bekezdése a 417/2012. (XII. 29.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^23]: A 3. § (8) bekezdését a 224/2010. (VIII. 4.) Korm. rendelet 3. § (3) bekezdése iktatta be, szövege a 417/2012. (XII. 29.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^24]: A 3. § (9) bekezdését a 417/2012. (XII. 29.) Korm. rendelet 1. § (5) bekezdése iktatta be.
+[^25]: A 3. § (10) bekezdését a 417/2012. (XII. 29.) Korm. rendelet 1. § (5) bekezdése iktatta be.
+[^26]: A 3. § (11) bekezdését a 417/2012. (XII. 29.) Korm. rendelet 1. § (5) bekezdése iktatta be.
+[^27]: A 3. § (11) bekezdés b) pontja az 56/2014. (III. 4.) Korm. rendelet 1. § (2) bekezdése szerint módosított szöveg.
