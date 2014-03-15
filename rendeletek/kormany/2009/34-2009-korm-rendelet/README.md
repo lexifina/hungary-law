@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-34-20-2
 | 2011-01-01 | 2009-34-20-22.3 | 289/2010. (XII. 21.) Korm. rendelet |
 | 2012-01-01 | 2009-34-20-22.4 | 304/2011. (XII. 23.) Korm. rendelet |
 | 2014-01-01 | 2009-34-20-22.5 | 182/2009. (IX. 10.) Korm. rendelet |
+| 2014-03-15 | 2009-34-20-22.6 | 304/2011. (XII. 23.) Korm. rendelet |
