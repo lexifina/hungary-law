@@ -1,6 +1,6 @@
 ## 12. § Nem vonható be semmilyen vizsgálatba az, aki korábban, cselekvőképessége birtokában kifejezetten kizárta az ilyen vizsgálatokban való részvételét. Egy adott vizsgálatba nem vonható be az sem, aki korábban, cselekvőképessége birtokában visszautasította a beleegyezés megadását az adott vizsgálathoz.
 
-13. § (1) Cselekvőképességet kizáró vagy korlátozó gondnokság alá helyezett, illetve a cselekvőképtelen nagykorúak esetében – a sürgős szükségben végzett kutatásnak az Eütv. 160. §-a szerinti esetét kivéve – az Eütv. 159. § (4) bekezdésében és a 9. §-ban foglaltak megfelelő alkalmazásával is csak abban az esetben végezhető vizsgálat, ha az alábbi feltételek mindegyike teljesül:
+13. § (1)[^10] Cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében részlegesen vagy cselekvőképességében teljesen korlátozott, valamint a Polgári Törvénykönyvről szóló 2013. évi V. törvény 2:9. §-a szerint cselekvőképtelen nagykorúak esetében – a sürgős szükségben végzett kutatásnak az Eütv. 160. §-a szerinti esetét kivéve – az Eütv. 159. § (4) bekezdésében és a 9. §-ban foglaltak megfelelő alkalmazásával is csak abban az esetben végezhető vizsgálat, ha az alábbi feltételek mindegyike teljesül:
 
 a) a nyilatkozattételre jogosult személy beleegyező nyilatkozatának a vizsgálati alany feltételezett akaratát kell tartalmaznia;
 
@@ -18,4 +18,7 @@ g) a vizsgálatot úgy folytatják, hogy mind a kockázati küszöbértéket, mi
 
 h) okkal elvárható, hogy a vizsgálati eszköz alkalmazása a kedvezőtlen hatásokat meghaladó kedvező hatásokkal jár a beteg számára, vagy egyáltalán nem jelent kockázatot.
 
-(2) Cselekvőképességet kizáró vagy korlátozó gondnokság alá helyezett, illetve a cselekvőképtelen nagykorúak beleegyező nyilatkozata bármikor visszavonható.
+(2)[^11] Cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében részlegesen vagy cselekvőképességében teljesen korlátozott, valamint a Polgári Törvénykönyvről szóló 2013. évi V. törvény 2:9. §-a szerint cselekvőképtelen nagykorúak beleegyező nyilatkozata bármikor visszavonható.
+
+[^10]: A 13. § (1) bekezdés nyitó szövegrésze a 16/2014. (III. 12.) EMMI rendelet 16. § c) pontja szerint módosított szöveg.
+[^11]: A 13. § (2) bekezdése a 16/2014. (III. 12.) EMMI rendelet 16. § c) pontja szerint módosított szöveg.

@@ -22,7 +22,7 @@ j) vizsgálati alany: a klinikai vizsgálatban résztvevő olyan személy, akin 
 
 k) betegtájékoztató: a klinikai vizsgálat előtt a vizsgálatba bevonni kívánt személy rendelkezésére bocsátott írásbeli tájékoztató, amely laikus számára is érthetően tartalmazza az e jogszabályban előírt adatokat;
 
-l) beleegyező nyilatkozat: a vizsgálatban való részvételre felkért cselekvőképes személynek az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) 159. § (1) bekezdés e) pontja szerinti nyilatkozata, illetve korlátozottan cselekvőképes vagy cselekvőképtelen személy esetén az Eütv. 159. § (4) bekezdés d) pontja szerinti nyilatkozat, amely tartalmazza az e jogszabályban előírt adatokat;
+l)[^2] beleegyező nyilatkozat: a vizsgálatban való részvételre felkért cselekvőképes személynek az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) 159. § (1) bekezdés e) pontja szerinti nyilatkozata, illetve korlátozottan cselekvőképes kiskorú, valamint a cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében részlegesen korlátozott vagy cselekvőképtelen személy esetén az Eütv. 159. § (4) bekezdés d) pontja szerinti nyilatkozat, amely tartalmazza az e jogszabályban előírt adatokat;
 
 m) esetjelentési űrlap: a vizsgálat során a vizsgálati terv követelményei szerint a vizsgálati alanyokkal összefüggésben feljegyzett információkat tartalmazó dokumentumok;
 
@@ -30,7 +30,7 @@ n) toborzás: a vizsgálatot végző egészségügyi szolgáltatónak e rendelet
 
 o) váratlan esemény, baleset: az eszközzel összefüggésben bekövetkezett olyan esemény, amely során az eszköz bármilyen hibás működése, jellemzőiben, illetve teljesítőképességben bekövetkező működési hibája vagy romlása, valamint a címke vagy a használati útmutató bármely hiányossága vagy elégtelensége a vizsgálati alany, a vizsgáló, illetve más személy halálához vagy egészségi állapotának súlyos romlásához vezetett vagy vezethetett volna;
 
-p)[^2] az egészségi állapot súlyos romlása:
+p)[^3] az egészségi állapot súlyos romlása:
 
 pa) életet veszélyeztető megbetegedés,
 
@@ -52,4 +52,5 @@ t) nemkívánatos esemény: a váratlan esemény és baleset, a mellékhatás é
 
 (2) Az (1) bekezdésben nem szabályozottak tekintetében e rendelet alkalmazásában az Eütv.-ben, az emberen végzett orvostudományi kutatások, az emberi felhasználásra kerülő vizsgálati készítmények klinikai vizsgálata, valamint az emberen történő alkalmazásra szolgáló, klinikai vizsgálatra szánt orvostechnikai eszközök klinikai vizsgálata engedélyezési eljárásának szabályairól szóló külön jogszabályban és az orvostechnikai eszközökről szóló külön jogszabályban foglalt fogalommeghatározásokat és előírásokat kell figyelembe venni.
 
-[^2]: A 2. § (1) bekezdés p) pontja a 29/2011. (VI. 7.) NEFMI rendelet 24. §-ával megállapított szöveg.
+[^2]: A 2. § (1) bekezdés l) pontja a 16/2014. (III. 12.) EMMI rendelet 16. § a) pontja szerint módosított szöveg.
+[^3]: A 2. § (1) bekezdés p) pontja a 29/2011. (VI. 7.) NEFMI rendelet 24. §-ával megállapított szöveg.

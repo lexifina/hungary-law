@@ -20,7 +20,7 @@ d) a lehetséges és a várható következmények és kockázatok részletes le�
 
 e) az ésszerűen várható előnyök leírását, vagy ha a vizsgálati alany számára előny a vizsgálatból nem várható, ennek a ténynek a közlését;
 
-f) a vizsgálati alany számára a vizsgálattal összefüggő kár bekövetkezése esetén nyújtandó kezelésre, kártérítésre és kártalanításra és az ezek igénybevételének módjára vonatkozó tájékoztatást, továbbá annak a személynek és szervezetnek a nevét és magyarországi elérhetőségét, akihez vagy amelyhez a vizsgálati alany a kár bekövetkezésekor fordulhat;
+f)[^6] a vizsgálati alany számára a vizsgálattal összefüggő kár bekövetkezése, illetve személyiségi jog megsértése esetén nyújtandó kezelésre, kártérítésre, sérelemdíjra és kártalanításra és az ezek igénybevételének módjára vonatkozó tájékoztatást, továbbá annak a személynek és szervezetnek a nevét és magyarországi elérhetőségét, akihez vagy amelyhez a vizsgálati alany a kár bekövetkezésekor fordulhat;
 
 g) a vizsgálati alany számára járó költségtérítésre vonatkozó tájékoztatást, ha van ilyen;
 
@@ -46,9 +46,9 @@ b) annak az egészségügyi szolgáltatónak a megnevezését, ahol a vizsgálat
 
 c) a vizsgálat vezetőjének, illetve a tájékoztatást végző személynek a nevét, beosztását, munkaköre megnevezését;
 
-d) a belegyezést adó vizsgálati alany azonosításához szükséges adatokat, korlátozottan cselekvőképes vagy cselekvőképtelen vizsgálati alany esetén az Eütv. 16. §-a szerinti nyilatkozattételre jogosult személy (a továbbiakban: nyilatkozattételre jogosult személy) azonosításához szükséges adatokat is;
+d)[^7] a belegyezést adó vizsgálati alany azonosításához szükséges adatokat, korlátozottan cselekvőképes kiskorú, valamint a cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében részlegesen korlátozott vagy cselekvőképtelen vizsgálati alany esetén az Eütv. 16. §-a szerinti nyilatkozattételre jogosult személy (a továbbiakban: nyilatkozattételre jogosult személy) azonosításához szükséges adatokat is;
 
-e) annak a kijelentését, hogy a vizsgálati alany – korlátozottan cselekvőképes vagy cselekvőképtelen vizsgálati alany esetén a nyilatkozattételre jogosult személy – a vizsgálatban történő részvételre vonatkozó beleegyezését az (1) bekezdésben foglalt tájékoztatást követően önként, befolyástól mentesen adja, annak tudatában, hogy az bármikor, szóban vagy írásban, indokolás nélkül visszavonható;
+e)[^8] annak a kijelentését, hogy a vizsgálati alany – korlátozottan cselekvőképes kiskorú, valamint a cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében részlegesen korlátozott vagy cselekvőképtelen vizsgálati alany esetén a nyilatkozattételre jogosult személy – a vizsgálatban történő részvételre vonatkozó beleegyezését az (1) bekezdésben foglalt tájékoztatást követően önként, befolyástól mentesen adja, annak tudatában, hogy az bármikor, szóban vagy írásban, indokolás nélkül visszavonható;
 
 f) a beleegyező nyilatkozat aláírásának dátumát;
 
@@ -56,8 +56,13 @@ g) a vizsgálat vezetőjének vagy a tájékoztatást adónak az aláírását;
 
 h) a beleegyező nyilatkozatot tevő aláírását.
 
-(8) A tájékoztatást adó személy és a vizsgálati alany – valamint korlátozottan cselekvőképes vagy cselekvőképtelen vizsgálati alany esetén a nyilatkozattételre jogosult személy – a (4) bekezdés szerinti írásos tájékoztatót is aláírja.
+(8)[^9] A tájékoztatást adó személy és a vizsgálati alany – valamint korlátozottan cselekvőképes kiskorú, valamint a cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében részlegesen korlátozott vagy cselekvőképtelen vizsgálati alany esetén a nyilatkozattételre jogosult személy – a (4) bekezdés szerinti írásos tájékoztatót is aláírja.
 
 (9) Amennyiben a vizsgálattal kapcsolatban olyan új információ válik ismertté, amely érinti az írásos tájékoztatóban foglaltakat, külön jogszabály szerint az engedély módosítását kell kezdeményezni. A módosított írásos tájékoztatónak megfelelően a vizsgálati alanyt ismételten tájékoztatni kell, és beleegyezését kell kérni a vizsgálat folytatásához.
 
 (10) A vizsgálati alany beleegyező nyilatkozata bármikor visszavonható.
+
+[^6]: A 10. § (5) bekezdés f) pontja a 16/2014. (III. 12.) EMMI rendelet 16. § b) pontja szerint módosított szöveg.
+[^7]: A 10. § (7) bekezdés d) pontja a 16/2014. (III. 12.) EMMI rendelet 16. § a) pontja szerint módosított szöveg.
+[^8]: A 10. § (7) bekezdés e) pontja a 16/2014. (III. 12.) EMMI rendelet 16. § a) pontja szerint módosított szöveg.
+[^9]: A 10. § (8) bekezdése a 16/2014. (III. 12.) EMMI rendelet 16. § a) pontja szerint módosított szöveg.

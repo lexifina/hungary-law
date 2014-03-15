@@ -1,4 +1,4 @@
-## 8. § Ha a megbízó a vizsgálattal kapcsolatos egyes feladatának vagy feladatainak teljesítésével megbíz más természetes vagy jogi személyt, jogi személyiséggel nem rendelkező gazdasági társaságot, ebben az esetben is a megbízó felel az e rendeletben és a külön jogszabályokban foglalt, klinikai vizsgálatokra vonatkozó rendelkezések betartásáért.
+## 8. §[^5] Ha a megbízó a vizsgálattal kapcsolatos egyes feladatának vagy feladatainak teljesítésével megbíz más természetes vagy jogi személyt, ebben az esetben is a megbízó felel az e rendeletben és a külön jogszabályokban foglalt, klinikai vizsgálatokra vonatkozó rendelkezések betartásáért.
 
 ## A vizsgálati alanyok védelme
 
@@ -23,3 +23,5 @@
 (10) A vizsgálati alany részére a vizsgálatban történő részvétellel kapcsolatos jövedelemkiesésnek, továbbá költségeknek, különösen az utazással összefüggésben ténylegesen felmerült és igazolt költségeknek a megtérítésére térítés fizethető. A vizsgálati alany részére – kivéve az egészséges önkéntest – egyéb juttatás vagy díj nem adható.
 
 (11) A vizsgálati eszközöket és az esetlegesen az azok alkalmazására használt eszközöket a megbízónak térítésmentesen kell rendelkezésre bocsátania.
+
+[^5]: A 8. § a 16/2014. (III. 12.) EMMI rendelet 17. §-a szerint módosított szöveg.
