@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-9-20-85
 | 2011-03-31 | 2000-9-20-85.12 | 16/2003. (IV. 9.) ESZCSM rendelet |
 | 2012-12-01 | 2000-9-20-85.13 | 41/2012. (XI. 28.) EMMI rendelet |
 | 2014-01-01 | 2000-9-20-85.14 | 12/2006. (XII. 27.) SZMM rendelet |
+| 2014-03-15 | 2000-9-20-85.15 | 12/2006. (XII. 27.) SZMM rendelet |

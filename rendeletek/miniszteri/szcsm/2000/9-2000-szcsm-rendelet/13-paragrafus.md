@@ -12,7 +12,7 @@ b)[^87] a felsőfokú szociális végzettséget adó képzések szervezését ö
 
 (5)[^89] A vizsgajogot elnyert intézmény öt évig jogosult szociális alap- és szakvizsga szervezésére. Ha a vizsgajog elnyerését követő öt éven belül bekövetkezett változás folytán a vizsgajogot elnyert intézmény nem teljesíti a (3) bekezdésben foglalt feltételeket, a vizsgajog megszűnik. Ezt a tényt a vizsgajogot elnyert intézmény haladéktalanul köteles bejelenteni az Intézetnek. A vizsgajog megszűnését az Intézet állapítja meg.
 
-(6)[^90] A vizsgajog elnyerésére az Intézet a felsőfokú szociális végzettséget adó képzések szervezésére jogosult felsőoktatási intézmények számára pályázatot ír ki. Az Intézet a vizsgajoggal rendelkező intézmények nevét és címét, valamint a vizsgajog megszűnését a minisztérium hivatalos lapjában közzéteszi.
+(6)[^90] A vizsgajog elnyerésére az Intézet a felsőfokú szociális végzettséget adó képzések szervezésére jogosult felsőoktatási intézmények számára pályázatot ír ki. Az Intézet a vizsgajoggal rendelkező intézmények nevét és címét, valamint a vizsgajog megszűnését a honlapján közzéteszi.
 
 (7)[^91] A vizsgajoggal rendelkező intézmény a szociális alap- és szakvizsgát az Intézet által jóváhagyott vizsgaszabályzatban foglaltak szerint bonyolítja.
 
@@ -23,5 +23,5 @@ b)[^87] a felsőfokú szociális végzettséget adó képzések szervezését ö
 [^87]: A 13. § (3) bekezdésének b) pontja a 12/2006. (XII. 27.) SZMM rendelet 9. § (1) bekezdésével megállapított szöveg.
 [^88]: A 13. § (4) bekezdése a 8/2001. (XII. 20.) SZCSM rendelet 9. § (2) bekezdésének ad) pontja, a 24/2010. (XII. 30.) NEFMI rendelet 6. § (2) bekezdés j) pontja szerint módosított szöveg.
 [^89]: A 13. § (5) bekezdésének első mondata a 16/2003. (IV. 9.) ESZCSM rendelet 12. §-ának (2) bekezdésével megállapított szöveg. A 13. § (5) bekezdése a 24/2010. (XII. 30.) NEFMI rendelet 6. § (2) bekezdés f) és k) pontja szerint módosított szöveg.
-[^90]: A 13. § (6) bekezdése a 12/2006. (XII. 27.) SZMM rendelet 9. § (2) bekezdésével megállapított, a 24/2010. (XII. 30.) NEFMI rendelet 6. § (2) bekezdés b) és f) pontja szerint módosított szöveg.
+[^90]: A 13. § (6) bekezdése a 12/2006. (XII. 27.) SZMM rendelet 9. § (2) bekezdésével megállapított, a 24/2010. (XII. 30.) NEFMI rendelet 6. § (2) bekezdés b) és f) pontja, a 19/2014. (III. 13.) EMMI rendelet 45. § (1) bekezdés b) pontja szerint módosított szöveg.
 [^91]: A 13. § (7) bekezdését a 12/2006. (XII. 27.) SZMM rendelet 9. § (3) bekezdése iktatta be, szövege a 24/2010. (XII. 30.) NEFMI rendelet 6. § (2) bekezdés f) pontja szerint módosított szöveg.

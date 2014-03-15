@@ -14,9 +14,9 @@ a) szakmai tanfolyam, illetve szakmai személyiségfejlesztő foglalkozás eset�
 
 b) szakmai tanácskozás, külföldi vagy hazai tanulmányút, illetve szakmai műhely esetén az alapdíj 30%-a.
 
-(6)[^26] Az Intézet a továbbképzés-szervezési joggal rendelkező szervezet esetében az érvényes minősítéssel rendelkező továbbképzési program 2. számú mellékletben meghatározott adatait a (4) bekezdés szerinti minősítési kérelem benyújtását követő negyedév utolsó napjáig a honlapján, valamint a szociál- és nyugdíjpolitikáért felelős miniszter (a továbbiakban: miniszter) által vezetett minisztérium (a továbbiakban: minisztérium) hivatalos lapjában közzéteszi.
+(6)[^26] Az Intézet a továbbképzés-szervezési joggal rendelkező szervezet esetében az érvényes minősítéssel rendelkező továbbképzési program 2. számú mellékletben meghatározott adatait a (4) bekezdés szerinti minősítési kérelem benyújtását követő negyedév utolsó napjáig a honlapján közzéteszi.
 
-(6a)[^27] Az Intézet közzéteszi a honlapján, valamint a minisztérium hivatalos lapjában a továbbképzés-szervezési jog 11/A. § szerinti felfüggesztését követő 60 napon belül a felfüggesztéssel érintett szervezet nevét, valamint a felfüggesztés kezdő és záró időpontját.
+(6a)[^27] Az Intézet közzéteszi a honlapján a továbbképzés-szervezési jog 11/A. § szerinti felfüggesztését követő 60 napon belül a felfüggesztéssel érintett szervezet nevét, valamint a felfüggesztés kezdő és záró időpontját.
 
 (7)[^28] Az adott negyedévben érvényes minősítéssel rendelkező szakmai tanfolyam, illetve szakmai személyiségfejlesztő foglalkozás csak a (6) bekezdés szerinti közzétételt követően indítható azzal, hogy a továbbképzés szervezője köteles a továbbképzés tényleges indítását a 2/A. számú melléklet szerinti adattartalommal az Intézetnek az indítást megelőző 10 munkanapon belül bejelenteni.
 
@@ -38,8 +38,8 @@ beszámol, illetve bejelentést tesz az Intézet részére.
 [^23]: A 4. § új (3) bekezdését a 12/2006. (XII. 27.) SZMM rendelet 4. § (1) bekezdése iktatta be, egyidejűleg az eredeti (3)–(8) bekezdés számozását (4)–(9) bekezdésre változtatva. A 4. § (3) bekezdése a 24/2010. (XII. 30.) NEFMI rendelet 6. § (2) bekezdés b) pontja, a 41/2012. (XI. 28.) EMMI rendelet 13. § f) pontja szerint módosított szöveg.
 [^24]: A 4. § eredeti (3) bekezdésének számozását (4) bekezdésre változtatta a 12/2006. (XII. 27.) SZMM rendelet 4. § (1) bekezdése, szövege a 41/2012. (XI. 28.) EMMI rendelet 4. § (3) bekezdésével megállapított szöveg.
 [^25]: A 4. § (5) bekezdése a 41/2012. (XI. 28.) EMMI rendelet 4. § (3) bekezdésével megállapított szöveg.
-[^26]: A 4. § (6) bekezdése a 41/2012. (XI. 28.) EMMI rendelet 4. § (3) bekezdésével megállapított szöveg.
-[^27]: A 4. § (6a) bekezdését a 41/2012. (XI. 28.) EMMI rendelet 4. § (4) bekezdése iktatta be.
+[^26]: A 4. § (6) bekezdése a 41/2012. (XI. 28.) EMMI rendelet 4. § (3) bekezdésével megállapított, a 19/2014. (III. 13.) EMMI rendelet 45. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^27]: A 4. § (6a) bekezdését a 41/2012. (XI. 28.) EMMI rendelet 4. § (4) bekezdése iktatta be, szövege a 19/2014. (III. 13.) EMMI rendelet 45. § (2) bekezdés b) pontja szerint módosított szöveg.
 [^28]: A 4. § (6) bekezdésének számozását (7) bekezdésre változtatta a 12/2006. (XII. 27.) SZMM rendelet 4. § (1) bekezdése, szövege a 41/2012. (XI. 28.) EMMI rendelet 4. § (5) bekezdésével megállapított szöveg.
 [^29]: A 4. § (7) bekezdését a 16/2003. (IV. 9.) ESZCSM rendelet 3. §-ának (2) bekezdése iktatta be, számozását (8) bekezdésre változtatta a 12/2006. (XII. 27.) SZMM rendelet 4. § (1) bekezdése, szövege a 41/2012. (XI. 28.) EMMI rendelet 4. § (5) bekezdésével megállapított szöveg.
 [^30]: A 4. § (8) bekezdését az 1/2005. (I. 26.) ICSSZEM rendelet 2. §-a iktatta be, számozását (9) bekezdésre változtatta a 12/2006. (XII. 27.) SZMM rendelet 4. § (1) bekezdése, szövege a 12/2006. (XII. 27.) SZMM rendelet 15. § (4) bekezdés b) pontjának bb) alpontja, a 41/2012. (XI. 28.) EMMI rendelet 13. § g) pontja szerint módosított szöveg.

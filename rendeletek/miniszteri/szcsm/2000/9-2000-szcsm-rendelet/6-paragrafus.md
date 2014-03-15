@@ -10,7 +10,7 @@ b) a felsőfokú végzettséget igénylő munkakörben végzett, képesítéshez
 
 c) szakvizsga esetén a szociális alapvizsga oklevelének másolatát, amennyiben a jelölt számára a szociális alapvizsga letétele előírt.
 
-(4)[^48] A szociális alapismereteket nyújtó tanfolyam díjának, a szociális alapvizsga és szociális szakvizsga díjának, a pótvizsga díjának, valamint a vizsgáztatói díjnak az összegét a tárgyévet megelőző év december 31-éig az Intézet honlapján, valamint a minisztérium hivatalos lapjában közzé kell tenni. A szociális szakvizsga díja tartalmazza a vizsgára történő felkészítés díját is. A vizsgadíjakat ahhoz a vizsgajoggal rendelkező intézményhez kell befizetni, ahol a jelölt vizsgára való jelentkezését elfogadták. Amennyiben a jelölt a vizsgadíjat, illetve az alaptanfolyami díjat a vizsgajoggal rendelkező intézmény által megadott határidőben nem fizeti be, a vizsgát, alaptanfolyamot nem kezdheti meg.
+(4)[^48] A szociális alapismereteket nyújtó tanfolyam díjának, a szociális alapvizsga és szociális szakvizsga díjának, a pótvizsga díjának, valamint a vizsgáztatói díjnak az összegét a tárgyévet megelőző év december 31-éig az Intézet honlapján közzé kell tenni. A szociális szakvizsga díja tartalmazza a vizsgára történő felkészítés díját is. A vizsgadíjakat ahhoz a vizsgajoggal rendelkező intézményhez kell befizetni, ahol a jelölt vizsgára való jelentkezését elfogadták. Amennyiben a jelölt a vizsgadíjat, illetve az alaptanfolyami díjat a vizsgajoggal rendelkező intézmény által megadott határidőben nem fizeti be, a vizsgát, alaptanfolyamot nem kezdheti meg.
 
 (5)[^49] A szociális alapismereteket nyújtó tanfolyam képzési programját az Intézet minősíti.
 
@@ -18,5 +18,5 @@ c) szakvizsga esetén a szociális alapvizsga oklevelének másolatát, amennyib
 [^45]: A 6. § (1) bekezdése a 10/2011. (III. 30.) NEFMI rendelet 16. § b) pontja szerint módosított szöveg.
 [^46]: A 6. § (2) bekezdése a 12/2006. (XII. 27.) SZMM rendelet 7. § (1) bekezdésével megállapított szöveg, e módosító rendelet 15. § (2) bekezdése alapján 2007. december 1-jén lép hatályba azzal, hogy a 2008. évi szociális alap- és szakvizsgára bocsátás iránti kérelmet 2007. szeptember 1-jéig kell benyújtani.
 [^47]: A 6. § (3) bekezdése a 12/2006. (XII. 27.) SZMM rendelet 7. § (2) bekezdésével megállapított szöveg.
-[^48]: A 6. § (4) bekezdése a 12/2006. (XII. 27.) SZMM rendelet 7. § (2) bekezdésével megállapított, a 41/2012. (XI. 28.) EMMI rendelet 13. § l) pontja szerint módosított szöveg.
+[^48]: A 6. § (4) bekezdése a 12/2006. (XII. 27.) SZMM rendelet 7. § (2) bekezdésével megállapított, a 41/2012. (XI. 28.) EMMI rendelet 13. § l) pontja, a 19/2014. (III. 13.) EMMI rendelet 45. § (2) bekezdés b) pontja szerint módosított szöveg.
 [^49]: A 6. § (5) bekezdése a 24/2010. (XII. 30.) NEFMI rendelet 6. § (2) bekezdés f) pontja szerint módosított szöveg.
