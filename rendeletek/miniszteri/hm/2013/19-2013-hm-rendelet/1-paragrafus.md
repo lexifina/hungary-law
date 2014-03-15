@@ -32,4 +32,6 @@ b) nem rendelkező honvédelmi szervezet esetében a pénzügyi és számviteli 
 
 (2) Ahol e rendelet állományilletékes parancsnokot említ, azon közalkalmazott esetén a munkáltatói jogkört gyakorló vezetőt kell érteni.
 
-(3) E rendelet alkalmazásában családnak minősül a családtagok olyan közössége, melyben családtag a házastárs, az élettárs, továbbá az olyan, a Hjt. 2. § 20. pontja szerinti egyéb közeli hozzátartozó, akit a házasságról, a családról és a gyámságról szóló 1952. évi IV. törvény szerint az állomány tagja köteles eltartani, és akit a szolgálat érdekében történt áthelyezés, vezénylés időpontjában saját háztartásában ténylegesen eltartott.
+(3)[^1] E rendelet alkalmazásában családnak minősül a családtagok olyan közössége, melyben családtag a házastárs, az élettárs, továbbá az olyan, a Hjt. 2. § 20. pontja szerinti egyéb közeli hozzátartozó, akit a Polgári Törvénykönyvről szóló 2013. évi V. törvény szerint az állomány tagja köteles eltartani, és akit a szolgálat érdekében történt áthelyezés, vezénylés időpontjában saját háztartásában ténylegesen eltartott.
+
+[^1]: Az 1. § (3) bekezdése a 37. § szerint módosított szöveg.

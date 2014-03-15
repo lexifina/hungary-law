@@ -1,6 +1,6 @@
-## 38. §[^3]
+## 38. §[^5]
 
-1. melléklet a 19/2013. (IX. 6.) HM rendelethez
+1. melléklet a 19/2013. (IX. 6.) HM rendelethez[^6]
 
 ……………………………………….
 
@@ -34,9 +34,9 @@ munkaköre:
 
 2.1. A szolgálat érdekében történt áthelyezésével1 egyidejűleg vagy azt követően a szolgálatteljesítési hely szerinti településen vagy annak vonzáskörzetében2 HM rendelkezésű lakást kapott* IGEN NEM
 
-2.2. A lakóhelyén/bejelentett tartózkodási helyén együtt élő közeli hozzátartozó van*: IGEN NEM
+2.2. A lakóhelyén/bejelentett tartózkodási helyén együtt élő közeli hozzátartozó, élettárs van*: IGEN NEM
 
-2.3. A 2.2. pont szerinti közeli hozzátartozón kívül tartásra kötelezett hozzátartozó neve, címe:
+2.3. A 2.2. pont szerinti közeli hozzátartozón, élettárson kívül tartásra kötelezett hozzátartozó neve, címe:
 
 3. Különélésre vonatkozó nyilatkozat:
 
@@ -238,4 +238,5 @@ P. H.
 
 ** A felesleges szövegrészek kihúzandók!
 
-[^3]: A 38. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 38. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: Az 1. melléklet a 24/2013. (XII. 20.) HM rendelet 24. § c)–d) pontja szerint módosított szöveg.

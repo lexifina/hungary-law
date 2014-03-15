@@ -1,3 +1,1 @@
-## 37. §[^2]
-
-[^2]: A 37. § a 35. § (2) bekezdése alapján 2014. március 15-én lép hatályba.
+## 37. § Az 1. § (3) bekezdésében az „a házasságról, a családról és a gyámságról szóló 1952. évi IV. törvény” szövegrész helyébe az „a Polgári Törvénykönyvről szóló 2013. évi V. törvény” szöveg lép.

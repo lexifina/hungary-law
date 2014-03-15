@@ -2,10 +2,12 @@
 
 (2) A 20. § (1) bekezdés c) pontja szerinti költözködési átalány folyósításával a számlával igazolt és indokolt egyéb költségeket lehet részben vagy egészben megtéríteni. Költözködési átalány különösen a költözködéssel okozati összefüggésben, a bútorok és az egyéb ingóságok megrongálódásából eredően felmerült és egyéb módon meg nem térült kár összegéig, legfeljebb azonban a (3) és (4) bekezdés szerint megállapított mértékben igényelhető.
 
-(3) A költözködési átalány maximális összegét a (2) bekezdés szerinti számlán szereplő összeg, de legfeljebb azon ingatlan lakószobáinak száma alapján kell meghatározni, amelybe az állomány tagja újonnan beköltözött. A lakószobák számának megállapításánál legfeljebb az állomány tagja és a vele költöző közeli hozzátartozói részére, a Lakásrendeletben meghatározott lakásigény jogos mértékének felső határát kell figyelembe venni.
+(3)[^4] A költözködési átalány maximális összegét a (2) bekezdés szerinti számlán szereplő összeg, de legfeljebb azon ingatlan lakószobáinak száma alapján kell meghatározni, amelybe az állomány tagja újonnan beköltözött. A lakószobák számának megállapításánál legfeljebb az állomány tagja és a vele költöző közeli hozzátartozói, élettársa részére, a Lakásrendeletben meghatározott lakásigény jogos mértékének felső határát kell figyelembe venni.
 
 (4) A költözködési átalány mértéke legfeljebb a Hjt. 2. § 15. pontjában meghatározott illetményalap
 
 a) 150%-a, ha a jogosult másfél szobás vagy annál kisebb lakásba költözik,
 
 b) 150%-a, valamint szobánként további 50%-a, félszobánként további 25%-a, ha a jogosult másfél szobásnál nagyobb lakásba költözik.
+
+[^4]: A 21. § (3) bekezdése a 24/2013. (XII. 20.) HM rendelet 24. § b) pontja szerint módosított szöveg.
