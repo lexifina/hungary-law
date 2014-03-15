@@ -1,4 +1,4 @@
-5. §[^5] Ez a rendelet 2006. január 1-jén lép hatályba.
+5. §[^7] Ez a rendelet 2006. január 1-jén lép hatályba.
 
 Melléklet a 128/2005. (XII. 29.) GKM rendelethez
 
@@ -206,4 +206,4 @@ h) otthoni címe;
 
 i) otthoni telefonszáma.
 
-[^5]: Az 5. § a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdés 18. pontja szerint módosított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^7]: Az 5. § a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdés 18. pontja szerint módosított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
