@@ -16,7 +16,7 @@ a) a közönséges munkaruha és az olyan egyenruha, illetve formaruha, amelyet 
 
 b) az egészségügyről szóló 1997. évi CLIV. törvény szerinti mentést és betegszállítást végző mentőszolgálatok által használt felszerelések;
 
-c) a fegyveres erők és egyéb rendvédelmi szervek által viselt vagy használt védőeszköz;
+c)[^1] a Magyar Honvédség és a rendvédelmi szervek, valamint az Országgyűlési Őrség által viselt vagy használt védőeszköz
 
 d) a közúti közlekedési eszközökön alkalmazott védőeszköz és védőfelszerelés;
 
@@ -25,3 +25,5 @@ e) a sportfelszerelés és sporteszköz;
 f) az önvédelem vagy elrettentés célját szolgáló felszerelés és eszköz;
 
 g) a veszélyek és ártalmak felderítésére és jelzésére szolgáló hordozható készülékek.
+
+[^1]: A 2. § (2) bekezdés c) pontja a 13/2014. (III. 14.) NGM rendelet 3. §-ával megállapított szöveg.

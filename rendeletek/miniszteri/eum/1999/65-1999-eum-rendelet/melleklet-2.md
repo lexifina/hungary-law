@@ -1,4 +1,4 @@
-## A veszély típusainak áttekintő táblázata az egyéni védőeszköz használatához[^5]
+## A veszély típusainak áttekintő táblázata az egyéni védőeszköz használatához[^6]
 
 ## Fizikai eredetű veszélyek
 
@@ -38,4 +38,4 @@
 
 2. számú melléklet a 65/1999. (XII. 22.) EüM rendelethez
 
-[^5]: A kockázatértékelés és kockázatbecslés alapján a munkáltató határozza meg.
+[^6]: A kockázatértékelés és kockázatbecslés alapján a munkáltató határozza meg.

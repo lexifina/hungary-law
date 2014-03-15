@@ -16,7 +16,7 @@ d) igazítás elvégzése után illeszkedjen viselőjére.
 
 (5) A védőeszközt a munkáltató ingyenesen biztosítja, továbbá karbantartás, tisztítás, javítás vagy csere útján gondoskodik arról, hogy a védőeszköz használható, valamint megfelelő higiénés állapotban legyen.
 
-(6)[^1] A munkáltató előzetesen tájékoztatja a munkavállalót azoknak a kockázatoknak a jellegéről és mértékéről, amelyekkel szemben a védőeszköz használata őt megvédi, továbbá gondoskodik arról – szükség esetén gyakorlati képzéssel –, hogy a munkavállaló megtanulja a védőeszköz használatának módját. A munkáltató a védőeszköz rendelkezésre bocsátásával egyidejűleg magyar nyelvű tájékoztatót és használati utasítást a munkavállaló rendelkezésére bocsát. A tájékoztatás és a gyakorlati képzés megtörténtét a munkáltató írásban dokumentálja és azt a munkavállalóval alá kell íratnia, továbbá – kérelemre – az ellenőrzést végző hatóság részére a dokumentumot bemutatja. A munkáltató köteles biztosítani a munkavállalók, illetve azok képviselői számára a tájékoztatást, az oktatást és a konzultációt a védőeszköz használatával kapcsolatosan, az Mvt. rendelkezései szerint.
+(6)[^2] A munkáltató előzetesen tájékoztatja a munkavállalót azoknak a kockázatoknak a jellegéről és mértékéről, amelyekkel szemben a védőeszköz használata őt megvédi, továbbá gondoskodik arról – szükség esetén gyakorlati képzéssel –, hogy a munkavállaló megtanulja a védőeszköz használatának módját. A munkáltató a védőeszköz rendelkezésre bocsátásával egyidejűleg magyar nyelvű tájékoztatót és használati utasítást a munkavállaló rendelkezésére bocsát. A tájékoztatás és a gyakorlati képzés megtörténtét a munkáltató írásban dokumentálja és azt a munkavállalóval alá kell íratnia, továbbá – kérelemre – az ellenőrzést végző hatóság részére a dokumentumot bemutatja. A munkáltató köteles biztosítani a munkavállalók, illetve azok képviselői számára a tájékoztatást, az oktatást és a konzultációt a védőeszköz használatával kapcsolatosan, az Mvt. rendelkezései szerint.
 
 (7) A védőeszköz biztosítása magában foglalja, hogy
 
@@ -28,4 +28,4 @@ b) a mentési tervben meghatározott mentési feladatokra és haváriákra rends
 
 (8) A (7) bekezdés b) pontja szerinti csomag tartalmazza mindazokat a védőeszközöket, amelyek használata havária esetén szükségessé válhat.
 
-[^1]: A 4. § (6) bekezdése a 77/2003. (XII. 23.) ESZCSM rendelet 1. §-a szerint kiegészített szöveg.
+[^2]: A 4. § (6) bekezdése a 77/2003. (XII. 23.) ESZCSM rendelet 1. §-a szerint kiegészített szöveg.
