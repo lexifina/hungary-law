@@ -22,7 +22,7 @@
 
 ## 2. Egyúttal vállalom, hogy az előzetes állásfoglalás alapján kiadásra kerülő termesztési engedély érvényességi ideje alatt a pufferzónán belül nem termesztek a géntechnológiával módosított növénnyel ivarilag kompatibilis növényt.
 
-## 3. Tudomásul veszem, hogy hozzájárulásom és nyilatkozatom visszavonására a Polgári Törvénykönyvről szóló 1959. évi IV. törvény 214. §-ának (2) bekezdése alkalmazandó.
+## 3. Tudomásul veszem, hogy hozzájárulásom kizárólag írásban, a hozzájárulást kérelmező által történő kézhezvételig vonható vissza.
 
 ## Dátum: ..................................................
 
@@ -54,7 +54,7 @@
 
 ## 2. Egyúttal vállalom, hogy az előzetes állásfoglalás alapján kiadásra kerülő termesztési engedély érvényességi ideje alatt a pufferzónán belül nem termesztek a géntechnológiával módosított növénnyel ivarilag kompatibilis növényt.
 
-## 3. Tudomásul veszem, hogy hozzájárulásom és nyilatkozatom visszavonására a Polgári Törvénykönyvről szóló 1959. évi IV. törvény 214. §-ának (2) bekezdése alkalmazandó.
+## 3. Tudomásul veszem, hogy hozzájárulásom kizárólag írásban, a hozzájárulást kérelmező által történő kézhezvételig vonható vissza.
 
 ## Dátum: ..................................................
 
@@ -84,7 +84,7 @@
 
 ## 1. ............................... nevezett földtulajdonos, hozzájárulok a géntechnológiával módosított növények ..... számú előzetes állásfoglalás szerinti feltételekkel történő termesztéséhez a tulajdonomban lévő ............... hrsz-ú földterületen.
 
-## 2. Tudomásul veszem, hogy hozzájárulásom és nyilatkozatom visszavonására a Polgári Törvénykönyvről szóló 1959. évi IV. törvény 214. §-ának (2) bekezdése alkalmazandó.
+## 2. Tudomásul veszem, hogy hozzájárulásom kizárólag írásban, a hozzájárulást kérelmező által történő kézhezvételig vonható vissza.
 
 ## Dátum: ..................................................
 

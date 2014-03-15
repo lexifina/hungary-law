@@ -27,3 +27,7 @@ e) térségi adottságok:
 6. védett természeti területektől, érzékeny természeti területektől, illetve NATURA 2000 területektől való távolság.
 
 (3) A termesztési engedély kiadásához szükséges hozzájárulás- és nyilatkozat-mintákat a 3. számú melléklet tartalmazza. A hozzájárulást és a nyilatkozatot tulajdonosonként, illetve földhasználónként kell kitölteni.
+
+(4)[^1] A földterület tulajdonosa, illetve a földhasználó a termesztési engedély kiadásához szükséges hozzájárulását kizárólag írásban, a hozzájárulás termelő által történő kézhezvételéig vonhatja vissza.
+
+[^1]: A 4. § (4) bekezdését a 22/2014. (III. 14.) VM rendelet 37. § (1) bekezdése iktatta be.
