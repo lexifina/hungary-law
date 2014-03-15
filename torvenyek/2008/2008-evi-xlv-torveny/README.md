@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2008-45-00-00
 | 2012-01-01 | 2011. évi CCI. törvény | 2008-45-00-00.9 |
 | 2013-01-01 | 2012. évi CCXI. törvény | 2008-45-00-00.10 |
 | 2013-12-07 | 2013. évi CXCV. törvény | 2008-45-00-00.11 |
+| 2014-03-15 | 2013. évi CCLII. törvény | 2008-45-00-00.12 |

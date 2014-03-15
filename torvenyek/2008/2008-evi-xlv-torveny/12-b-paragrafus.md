@@ -1,0 +1,1 @@
+12/B. § A hirdetmény tartalma, közzététele, a közzétételhez fűződő jogkövetkezmények beállása, továbbá a hirdetményi kézbesítésről az országos kamara által vezetett nyilvántartás tekintetében a hagyatéki eljárásról szóló 2010. évi XXXVIII. törvény hirdetményre vonatkozó rendelkezéseit kell megfelelően alkalmazni.
