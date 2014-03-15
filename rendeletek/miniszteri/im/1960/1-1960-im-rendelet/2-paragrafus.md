@@ -1,7 +1,9 @@
-## 1. § Eltűnt személy holtnak nyilvánítása iránti kérelem előterjesztésének akkor van helye, ha az eltűnéstől számítva öt év eltelt anélkül, hogy az eltűnt életbenlétére utaló bármilyen adat ismeretes volna (Polgári Törvénykönyv 23. §-a).
+## 1. §[^2] Eltűnt személy holtnak nyilvánítása iránti kérelem előterjesztésének akkor van helye, ha az eltűnéstől számítva öt év eltelt anélkül, hogy az eltűnt életbenlétére utaló bármilyen adat ismeretes volna.
 
-2. § (1)[^1] A holtnak nyilvánítást az eltűnt házastársa, örököse, az ügyész, a járási (fővárosi kerületi) gyámhivatal, valamint az kérheti, akinek az eltűnt holtnak nyilvánításához jogi érdeke fűződik.
+2. § (1)[^3]
 
-(2) Aki a holtnak nyilvánítás kérésére jogosult, a más jogosult kérelmére megindított eljáráshoz csatlakozhat.
+(2)[^4] Aki a Polgári Törvénykönyv alapján a holtnak nyilvánítás kérésére jogosult, a más jogosult kérelmére megindított eljáráshoz csatlakozhat.
 
-[^1]: A 2. § (1) bekezdése az 50/2012. (XII. 4.) KIM rendelet 2. §-a szerint módosított szöveg.
+[^2]: Az 1. § a 21/2014. (III. 13.) KIM rendelet 1. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^3]: A 2. § (1) bekezdését a 21/2014. (III. 13.) KIM rendelet 1. § (3) bekezdése hatályon kívül helyezte.
+[^4]: A 2. § (2) bekezdése a 21/2014. (III. 13.) KIM rendelet 1. § (1) bekezdés a) pontja szerint módosított szöveg.

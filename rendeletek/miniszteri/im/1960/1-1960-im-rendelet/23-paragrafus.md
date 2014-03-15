@@ -4,6 +4,6 @@
 
 23. § (1) Ez a rendelet az 1960. évi május hó 1. napján lép hatályba. Rendelkezéseit a hatálybalépéskor folyamatban levő ügyekben is alkalmazni kell.
 
-(2) Az első világháborúval kapcsolatos események következtében az 1914. évi július hó 24. és az 1921. évi július hó 27. napja között eltűnt személyek holtnak nyilvánítására e rendelet rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy a halál idejéül - ha e tekintetben semmi adat sem áll rendelkezésre - a 12200/1948. (XII. 4.) Korm.rendelet[^10] 20. §-ában meghatározott időpontot kell megállapítani.
+(2) Az első világháborúval kapcsolatos események következtében az 1914. évi július hó 24. és az 1921. évi július hó 27. napja között eltűnt személyek holtnak nyilvánítására e rendelet rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy a halál idejéül - ha e tekintetben semmi adat sem áll rendelkezésre - a 12200/1948. (XII. 4.) Korm.rendelet[^20] 20. §-ában meghatározott időpontot kell megállapítani.
 
-[^10]: A 23. § (2) bekezdésében említett 12. 200/1948. (XII. 4.) Korm. rendeletet a 86/1987. (XII. 29.) MT rendelet 2. §-a hatályon kívül helyezte.
+[^20]: A 23. § (2) bekezdésében említett 12. 200/1948. (XII. 4.) Korm. rendeletet a 86/1987. (XII. 29.) MT rendelet 2. §-a hatályon kívül helyezte.
