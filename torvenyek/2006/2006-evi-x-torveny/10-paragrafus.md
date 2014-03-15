@@ -1,25 +1,9 @@
-## II. Fejezet
+10. § (1) Az iskolaszövetkezet közgyűlésére meg kell hívni a korlátozottan cselekvőképes kiskorú tag törvényes képviselőjét. A törvényes képviselő távolmaradása a közgyűlés határozatképességét nem érinti.
 
-## SZÖVETKEZET ALAPÍTÁSA
+(2) Korlátozottan cselekvőképes kiskorú tag jognyilatkozatának érvényességéhez a törvényes képviselője beleegyezése szükséges. E rendelkezést akkor is alkalmazni kell, ha a tagok a közgyűlés összehívása nélkül, írásban szavaznak.
 
-## A szövetkezet alapításának személyi feltételei
+(3) Az iskolaszövetkezet közgyűlésén és a felügyelő bizottság ülésén tanácskozási joggal részt vehet
 
-10. § (1) Szövetkezetet – ha törvény eltérően nem rendelkezik – legalább hét alapító tag, részjegy jegyzésének kötelezettségével alapíthat. Iskolaszövetkezetben a tanulókon kívül felvett tagok száma nem haladhatja meg a taglétszám tizenöt százalékát.
+a) az iskolaszövetkezet nevelési-oktatási intézmény tagjában működő iskolai szülői szervezet (közösség) és diákönkormányzat képviselője,
 
-(2) Az (1) bekezdésben meghatározott alapító tagok belföldi és külföldi természetes személyek, jogi személyek, valamint jogi személyiség nélküli gazdasági társaságok lehetnek.
-
-(3) A jogi személyek és jogi személyiség nélküli gazdasági társaság tagok együttesen nem haladhatják meg a taglétszám felét. Kizárólag szövetkezetek részvételével másodlagos szövetkezet alapítható és működtethető.
-
-(4) Szociális szövetkezetnek – az (5) és (5a) bekezdésben foglalt kivétellel – csak természetes személy tagjai lehetnek.
-
-(5) Iskolaszövetkezet alapításához az oktatási intézmény alapító tagsága szükséges.
-
-(5a) A szociális szövetkezetnek (az iskolaszövetkezetet ide nem értve) a természetes személy tagjain kívül helyi önkormányzat vagy nemzetiségi önkormányzat, illetve ezek jogi személyiségű társulása (a továbbiakban együtt: önkormányzat), továbbá jogszabályban meghatározott karitatív tevékenységet ellátó közhasznú jogállású szervezet is lehet a tagja.
-
-(6) Természetes személyként szövetkezeti tag az lehet, aki
-
-a) 18. életévét betöltötte;
-
-b) 14. életévét betöltötte és a nyilatkozata érvényességéhez rendelkezésre áll a törvényes képviselőjének hozzájáruló nyilatkozata.
-
-(7) Tilos tagokat nyilvános felhívás útján gyűjteni.
+b) az iskolaszövetkezet felsőoktatási intézmény tagjában működő hallgatói önkormányzat képviselője.

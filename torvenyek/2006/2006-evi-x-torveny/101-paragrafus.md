@@ -1,5 +1,0 @@
-101. § (1) Ha a tulajdonos 2007. április 30-ig nem élt a 99–100. §-ban foglalt, közgyűlés által felajánlott lehetőségekkel, az üzletrésze 2007. május 1. napjával átalakított befektetői részjeggyé alakul át.
-
-(2) Az átalakított befektetői részjegy a szövetkezetből annak működése során nem vonható ki, azonban örökölhető, a szövetkezetre, szövetkezeti tagra átruházható. Átruházás esetén a szövetkezetet, bármely más tagot ebben a sorrendben elővásárlási jog illeti meg. Az átalakított befektetői részjeggyel kapcsolatos elővásárlási jog szabályait az alapszabályban kell meghatározni azzal, hogy az elővásárlásra jogosultak az átalakított befektetői részjegy értékesítésére vonatkozó szándéknak a szövetkezethez történő bejelentésétől számított 30 napon belül gyakorolhatják az elővásárlási jogukat.
-
-(3) Az átalakított befektetői részjegyek szövetkezeti tagsági viszonyt nem keletkeztetnek. Az átalakított befektetői részjegy a befektetői részjegyre vonatkozó szabályok szerint jogosít az adózás utáni eredményből részesedésre és ugyanilyen módon viseli a veszteséget is.

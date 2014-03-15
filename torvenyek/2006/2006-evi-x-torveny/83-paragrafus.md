@@ -1,1 +1,0 @@
-83. § Az előkészítő közgyűlésen tett, illetve az írásbeli nyilatkozatok alapján az igazgatóság köteles vagyonmegosztási javaslatot készíteni, amelyet a felügyelő bizottsággal és a független könyvvizsgálóval kell véleményeztetnie.

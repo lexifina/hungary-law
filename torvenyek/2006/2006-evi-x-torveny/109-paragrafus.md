@@ -1,1 +1,1 @@
-109. § E törvénynek a szociális szövetkezetekkel összefüggésben egyes törvények, továbbá a közfoglalkoztatáshoz kapcsolódó egyes törvények módosításáról szóló 2013. évi XLI. törvénnyel (a továbbiakban: Módtv.2.) megállapított rendelkezései hatálybalépésekor már működő szociális szövetkezetek az alapszabályukat 2013. szeptember 30-áig kötelesek a Módtv.2. rendelkezéseinek megfelelően módosítani vagy a szövetkezet szociális jellegét megszüntetni.
+109. §

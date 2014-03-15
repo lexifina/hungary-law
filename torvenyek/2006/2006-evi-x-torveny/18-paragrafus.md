@@ -1,7 +1,5 @@
-## Határozatok bírósági felülvizsgálata
+18. § (1) A szociális szövetkezetek esetében a személyes közreműködés sajátos formája a közös termelésben való, a tagsági jogviszonyon alapuló közvetlen közreműködés (a továbbiakban: tagi munkavégzés).
 
-18. § (1) Bármely tag kérheti a bíróságtól a szövetkezet, illetőleg annak testületei által hozott olyan határozat felülvizsgálatát, amely e törvény rendelkezéseibe, más jogszabályba vagy a szövetkezet alapszabályába ütközik.
+(2) A tagi munkavégzés önálló, más munkavégzésre irányuló jogviszonyt szabályozó törvény hatálya alá nem tartozó jogviszony, amelyben az elvégzett munka ellentételezése a tagi munkavégzés arányában részben vagy egészben a tagok által közösen megtermelt javak természetben történő átadásával is megvalósulhat.
 
-(2) A határozat felülvizsgálatára irányuló keresetet a határozathozatalról való tudomásszerzéstől számított harminc napos jogvesztő határidő alatt kell megindítani a szövetkezet ellen, a szövetkezet székhelye szerinti törvényszéknél. A keresetindításnak – a tag kizárását kimondó határozat esetét kivéve – nincs halasztó hatálya, de a bíróság a határozat végrehajtását felfüggesztheti.
-
-(3) A határozat felülvizsgálata nyomán hozott bírósági határozat hatálya azokra a tagokra is kiterjed, akik a bírósági eljárásban nem vettek részt.
+(3) Tagi munkavégzésre irányuló jogviszonyt a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló törvény szerint regisztrált álláskereső, illetve a közfoglalkoztatási jogviszonyban lévő személy létesíthet és tarthat fenn.

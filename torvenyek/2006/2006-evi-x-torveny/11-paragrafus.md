@@ -1,29 +1,5 @@
-## Alakuló közgyűlés
+11. § (1) Ha az iskolaszövetkezet tagja a tizennyolcadik életévét még nem töltötte be, az iskolaszövetkezet üzletszerű gazdasági tevékenységében személyes közreműködésére – ideértve a munkaviszony, illetve a polgári jogi jogviszony keretében történő munkavégzés esetét is – csak a munka törvénykönyvéről szóló 2012. évi I. törvényben foglalt, valamint a fiatal munkavállalók munkajogi védelmére vonatkozó rendelkezések figyelembevételével kerülhet sor.
 
-11. § (1) A szövetkezet alapítását az alapító tagok részvételével tartott alakuló közgyűlés határozza el.
+(2) Ha az iskolaszövetkezet üzletszerű gazdasági tevékenységében személyes közreműködésre munkaviszony, illetve polgári jogi jogviszony létrehozása nélkül kerül sor, az iskolaszövetkezet tizenhatodik életévét be nem töltött tagja csak olyan tevékenységet láthat el, amelyet a vele jogviszonyban álló nevelési-oktatási intézmény pedagógiai programja alapján a tanítási órák keretében is ellát, vagy amely kapcsolódik a nevelési-oktatási intézmény létesítményeinek rendeltetésszerű működésével összefüggő, a tanulói jogviszonyból származó kötelezettségeinek teljesítéséhez.
 
-(2) Az alakuló közgyűlés
-
-a) megválasztja a levezető elnököt, a jegyzőkönyvvezetőt és a jegyzőkönyv két hitelesítőjét;
-
-b) kimondja a szövetkezet megalakulását;
-
-c) elfogadja a szövetkezet alapszabályát;
-
-d) megállapítja, hogy a tagok az alapszabályban meghatározott részjegytőke teljesítésére kötelezettséget vállaltak;
-
-e) megválasztja a szövetkezet ügyvezető elnökét vagy igazgatóságának elnökét és tagjait;
-
-f) megválasztja a szövetkezet felügyelő bizottságának elnökét és tagjait;
-
-g) megválasztja a szövetkezet könyvvizsgálóját, ha könyvvizsgáló működése a számviteli törvény vagy az alapszabály rendelkezései szerint kötelező;
-
-h) megállapítja az e), f), g) pontban említettek díjazását.
-
-(3) Az alakuló közgyűlés a határozatait
-
-a) egyszerű szótöbbséggel hozza, az alapszabály elfogadásához azonban valamennyi alapító tag egyetértő szavazatára van szükség;
-
-b) nyílt szavazással hozza meg, az igazgatóság elnökének, tagjainak (ügyvezető elnökének) és a felügyelő bizottság tagjainak megválasztása azonban titkos szavazással történik.
-
-(4) A részjegy pénzbeli ellenértékének alapításkori hányadát a pénzforgalmi számlára történő befizetéssel, az alapítást követően pedig házipénztárba vagy pénzforgalmi számlára való befizetéssel kell teljesíteni.
+(3) Ha a gyakorlati képzést az iskolaszövetkezet keretében szervezik meg, a tag és az iskolaszövetkezet gazdasági együttműködése keretében – az alapszabályban – meg kell határozni a gyakorlati képzés során előállított termékek értékesítésével és az ebből származó nyereség szétosztásával kapcsolatos kérdéseket. Ha az iskolaszövetkezet keretében szervezik meg a gyakorlati képzést, az iskolaszövetkezet a tagjaival – a szakképzésről szóló törvény rendelkezései szerint – tanulószerződést is köthet.

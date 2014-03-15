@@ -1,1 +1,1 @@
-4. § A szövetkezeteknél foglalkoztatott munkavállalók jogaira és kötelezettségeire, valamint a munkaügyi kapcsolatokra a Munka Törvénykönyve rendelkezéseit kell alkalmazni.
+4. § Ha a tag a szövetkezet részére kölcsönt nyújt, a tagi kölcsönről szóló szerződést közokiratba vagy teljes bizonyító erejű magánokiratba kell foglalni.

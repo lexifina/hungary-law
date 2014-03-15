@@ -1,3 +1,0 @@
-94. § (1) A felszámolási eljárás, illetőleg a végelszámolás befejezése után fennmaradó vagyoni eszközöket, a 71. § (5) bekezdésében foglalt kivétellel, a tagok és befektető tagok között – vagyoni hozzájárulásuk arányában – fel kell osztani, és részükre ki kell fizetni a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvényben, valamint a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvényben foglalt határidők betartásával.
-
-(2) Ha iskolaszövetkezet szűnik meg jogutód nélkül – az oktatási intézmény által az iskolaszövetkezet rendelkezésére bocsátott vagyon az oktatási intézményt illet meg.

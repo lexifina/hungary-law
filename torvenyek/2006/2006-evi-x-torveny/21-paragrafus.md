@@ -1,19 +1,3 @@
-21. § (1) A közgyűlést – ha e törvény másként nem rendelkezik – az igazgatóság hívja össze.
+21. § (1) A szociális szövetkezet alapszabálya a tagi munkavégzési jogviszonyban állók számára előírhatja, hogy a tag alapításkor, illetve belépéskor vagyoni hozzájárulást nem köteles szolgáltatni, hanem azt a tagsági jogviszonya keletkezésétől számított egy éven belül – az alapszabályban meghatározott időpontban és módon – köteles a szövetkezet részére rendelkezésre bocsátani. A nem pénzbeli hozzájárulás esetében ez a rendelkezés akkor alkalmazható, ha az alapszabály értelmében a tag a nem pénzbeli hozzájárulást a szövetkezetben végzett munkavégzése során megtermelt és a tulajdonába kerülő javak szövetkezet részére történő átadásával teljesíti.
 
-(2) A közgyűlést (rendkívüli közgyűlést) – a napirend közlésével – a megjelölt időpont előtt legalább 15 nappal, írásban kell összehívni. Ha az alapszabály lehetővé teszi, a közgyűlést hirdetményi úton is össze lehet hívni, meghatározva a hirdetmény közzétételének helyét és idejét.
-
-(3) A közgyűlési meghívónak vagy hirdetménynek tartalmaznia kell:
-
-a) a szövetkezet cégnevét és székhelyét;
-
-b) a közgyűlés időpontját és helyét;
-
-c) részközgyűlések tartása esetén az erre a körülményre történő utalást;
-
-d) a közgyűlés napirendjét;
-
-e) határozatképtelenség esetére a megismételt közgyűlés időpontját, helyét és az eltérő határozatképességi szabályokra vonatkozó figyelemfelhívást;
-
-f) a közgyűlés későbbi időpontban történő esetleges folytatásának időpontját.
-
-(4) A közgyűlés napirendi pontjaival kapcsolatos iratokat a tagoknak meg kell küldeni.
+(2) Ha a szociális szövetkezet alapítói között tagi munkavégzési jogviszonyt létesítő olyan személyek is vannak, akik a vagyoni hozzájárulásukat az (1) bekezdés szerint teljesítik, e személyeket a cégbejegyzéskor a vagyoni hozzájárulás megfizetése és a vagyoni hozzájárulás teljesítésének határideje vonatkozásában figyelmen kívül kell hagyni.

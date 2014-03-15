@@ -1,3 +1,3 @@
-16. § (1) Azok, akik a cégbejegyzés megtörténte előtt saját nevükben, de a szövetkezet javára eljártak, korlátlanul és egyetemlegesen felelnek a vállalt kötelezettségekért. A felelősség kizárása vagy korlátozása harmadik személlyel szemben hatálytalan.
+16. § (1) A szociális szövetkezet karitatív tevékenységet ellátó közhasznú jogállású szervezet tagjának tagsági jogviszonya megszűnik, ha e tag közhasznú jogállása megszűnik.
 
-(2) A cégbejegyzést megelőzően az (1) bekezdés szerint vállalt kötelezettségekért fennálló felelősség megszűnik, ha a szövetkezet közgyűlése a kötelezettségvállalást utólag jóváhagyja.
+(2) A szociális szövetkezet karitatív tevékenységet ellátó közhasznú jogállású szervezet tagja a közhasznú jogállásának megszűnéséről köteles haladéktalanul tájékoztatni a szociális szövetkezet vezető tisztségviselőjét.

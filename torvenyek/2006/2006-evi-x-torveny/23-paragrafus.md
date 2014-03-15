@@ -1,5 +1,3 @@
-23. § (1) A közgyűlésre minden tagot meg kell hívni. A tag a szövetkezet testületeitől és vezető tisztségviselőitől felvilágosítást kérhet. A tag joga, hogy a közgyűlésen napirendre vett ügyekkel összefüggésben indítványt tegyen és szavazzon. A közgyűlésen minden tagnak egy szavazata van.
+23. § (1) A 22. § (1) bekezdés b) pontja szerinti agrárgazdasági szövetkezet személyes közreműködést nem vállaló tagjai számának megállapításakor a társadalombiztosítási nyugellátásról szóló törvény szerint öregségi nyugdíjasnak minősülő tagokat figyelmen kívül kell hagyni.
 
-(2) Nem gyakorolhatja szavazati jogát az a tag, aki az alapszabályban előírt, esedékes vagyoni hozzájárulását nem teljesítette.
-
-(3) A szövetkezettel munkaviszonyban álló személyek képviseletét ellátó testületek, illetőleg érdekképviseleti szervezetek képviselői a közgyűlésen tanácskozási joggal vehetnek részt.
+(2) Az (1) bekezdés szerinti esetben az agrárgazdasági szövetkezet bejegyzésekor a cégbejegyzési kérelemhez csatolni kell a vezető tisztségviselő nyilatkozatát a személyes közreműködést nem vállaló nyugdíjas tagok megjelöléséről.

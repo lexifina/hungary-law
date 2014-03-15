@@ -1,13 +1,13 @@
-## Szövetkezeti jogviták
+19. § (1) Ha a szociális szövetkezet tagi munkavégzési jogviszonyban lévő tagja munkavégzésre irányuló más jogviszonyt létesít vagy tart fenn, e más jogviszony fennállása alatt a tagi munkavégzési jogviszony szünetel.
 
-19. § (1) Szövetkezeti jogvitának minősül
+(2) A szociális szövetkezet alapszabályának tartalmaznia kell
 
-a) a szövetkezet és tagjai – ideértve a kizárt vagy a szövetkezettől egyébként megvált korábbi tagot is – közötti, e minőségükből adódó valamennyi jogvita, valamint
+a) a tagi munkavégzési jogviszonyban álló tag által teljesítendő munkafeladatok meghatározását, az elvégzett munkafeladatok dokumentálásának módját, és
 
-b) a tagok egymás közötti jogviszonyában az alapszabállyal kapcsolatban vagy a szövetkezet működésével összefüggésben keletkezett jogvita.
+b) a munkafeladat teljesítéséhez igazodóan a szövetkezet által megtermelt javakból történő részesedés módjának és mértékének (ellenértékének) meghatározását.
 
-(2) Amennyiben a szövetkezeti jogvita peres útra tartozik,
+(3) A (2) bekezdés b) pontja szerinti ellenértéket úgy kell meghatározni, hogy alkalmas legyen
 
-a) az (1) bekezdés a) pontjában említett jogvitában a tagok meghatározott állandó vagy eseti választottbíráskodást köthetnek ki az alapszabályban;
+a) a tag teljesítményének figyelembevételére és
 
-b) az (1) bekezdés b) pontjában említett jogvitát – ha az érintett felek legalább egyike gazdasági társaság – megállapodással, a megállapodásuk szerinti állandó vagy eseti választottbíróság elé vihetik.
+b) a megtermelt javakból való részesedés teljesítménnyel arányos meghatározására.

@@ -1,1 +1,1 @@
-3. § A szövetkezetnek és tagjainak e törvényben nem szabályozott vagyoni és személyi viszonyaira a Polgári Törvénykönyv rendelkezéseit kell alkalmazni.
+3. § A szövetkezet és a tag között kötött tagsági megállapodásban határozhatóak meg – az alapszabály keretei között – a szövetkezet és a tag gazdasági együttműködése keretében teljesítendő feladatok és vállalások, valamint a tag által igénybe vehető szövetkezeti szolgáltatások köre.
