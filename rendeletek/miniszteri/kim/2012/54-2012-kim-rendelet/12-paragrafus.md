@@ -1,1 +1,0 @@
-## „(5) Az állampolgárságról szóló 1993. évi LV. törvény 4. § (3) bekezdése, 4. § (3a) bekezdése, illetve 5. §-a szerinti eljáráshoz kapcsolódó hazai anyakönyvezési eljárásban anyakönyvi kivonatot csak kifejezett kérelem esetén kell kiadni.”
