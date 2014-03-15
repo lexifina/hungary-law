@@ -1,4 +1,4 @@
-50. § (1) A közüzemi szerződés megszegésének következménye:
+50. § (1) A közszolgáltatási szerződés megszegésének következménye:
 
 a) díjvisszatérítés, illetőleg pótdíjfizetés,
 
@@ -10,7 +10,7 @@ d) csökkentett mértékű szolgáltatás,
 
 e) távhőszolgáltatás felfüggesztése,
 
-f) közüzemi szerződés felmondása.
+f) közszolgáltatási szerződés felmondása.
 
 (2) Az (1) bekezdésben említett egyes következmények együttesen is alkalmazhatók.
 

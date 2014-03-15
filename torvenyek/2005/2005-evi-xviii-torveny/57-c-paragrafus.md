@@ -2,7 +2,7 @@
 
 a) a távhőszolgáltató és a távhőtermelő közötti hővásárlási és ármegállapítási célú megállapodásokat,
 
-b) a távhőszolgáltató és a helyi önkormányzat között a helyi önkormányzat területén közüzemi szolgáltatás ellátására kötött megállapodásokat,
+b) a távhőszolgáltató és a helyi önkormányzat között a helyi önkormányzat területén közszolgáltatás ellátására kötött megállapodásokat,
 
 c) a távhőszolgáltató és a helyi önkormányzat közötti hőszolgáltatási és ármegállapítási célú megállapodásokat.
 

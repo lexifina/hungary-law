@@ -1,6 +1,6 @@
 ## Társaság átalakulása, alaptőke-változás, befolyásszerzés engedélyezése
 
-19. § (1) A Hivatal jóváhagyó határozata szükséges az engedélyes társaságnak a gazdasági társaságokról szóló törvény (a továbbiakban: Gt.) szerinti
+19. § (1) A Hivatal jóváhagyó határozata szükséges az engedélyes társaságnak a Ptk. gazdasági társaságokra vonatkozó rendelkezései szerinti
 
 a) egyesüléséhez, és
 

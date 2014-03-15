@@ -4,4 +4,4 @@
 
 (3) A hatósági árnak a szerződés megkötése után bekövetkező változása esetén a megváltozott hatósági ár az érvényes szerződés részévé válik, a felek azonban az új ártól lefelé – közös megegyezéssel – eltérhetnek.
 
-(4) E § alkalmazásában szerződés alatt az értékesítő és a távhőszolgáltató közötti szerződést, valamint a távhőszolgáltató által a lakossági felhasználóval vagy a külön kezelt intézménnyel kötött közüzemi szerződést kell érteni.
+(4) E § alkalmazásában szerződés alatt az értékesítő és a távhőszolgáltató közötti szerződést, valamint a távhőszolgáltató által a lakossági felhasználóval vagy a külön kezelt intézménnyel kötött közszolgáltatási szerződést kell érteni.

@@ -2,9 +2,9 @@
 
 49. § (1) A távhőszolgáltató részéről szerződésszegésnek minősül, ha
 
-a) a távhőszolgáltatást a közüzemi szerződésben meghatározott időpontban nem kezdi meg;
+a) a távhőszolgáltatást a közszolgáltatási szerződésben meghatározott időpontban nem kezdi meg;
 
-b) a távhőt nem a közüzemi szerződésben meghatározott, illetőleg nem a tőle elvárható módon szolgáltatja;
+b) a távhőt nem a közszolgáltatási szerződésben meghatározott, illetőleg nem a tőle elvárható módon szolgáltatja;
 
 c) a távhő felhasználó részére történő szolgáltatását nem hitelesített mérőeszköz használatával végzi;
 

@@ -4,7 +4,7 @@
 
 a) csatlakozási pont: a szolgáltatói és a felhasználói berendezés határán, találkozási pontján beépített elzáró szerelvénynek a felhasználó felé eső oldala, elzáró szerelvény hiányában a felhasználási helyet magában foglaló ingatlan (épület, építmény, telek) tulajdoni határa;
 
-b) díjfizető: épületrészenkénti díjmegosztás esetén az épületrésznek a közüzemi szerződésben megnevezett tulajdonosa, az e törvényben meghatározott esetekben az épület, építmény vagy az épületrész bérlője, használója;
+b) díjfizető: épületrészenkénti díjmegosztás esetén az épületrésznek a közszolgáltatási szerződésben megnevezett tulajdonosa, az e törvényben meghatározott esetekben az épület, építmény vagy az épületrész bérlője, használója;
 
 c) engedélyes: a távhőtermelő létesítmény létesítésére, távhőtermelésre, valamint a távhőszolgáltatásra engedéllyel rendelkező;
 
@@ -12,9 +12,9 @@ d)
 
 e) épületrész: e törvény alkalmazásában a távhővel ellátott épületnek, építménynek, ingatlannak funkcionálisan önálló, külön vagy közös tulajdonban lévő része (lakás, üzlethelyiség, lépcsőház stb.);
 
-f) felhasználási hely: a felhasználó tulajdonában lévő, a közüzemi szerződés tárgyát képező olyan épület, építmény, épületrész, amelynek távhőfogyasztása önállóan mérhető;
+f) felhasználási hely: a felhasználó tulajdonában lévő, a közszolgáltatási szerződés tárgyát képező olyan épület, építmény, épületrész, amelynek távhőfogyasztása önállóan mérhető;
 
-g) felhasználó: a távhővel ellátott épületnek, építménynek, a törvényben meghatározott esetben az épületrésznek a távhőszolgáltatóval a távhő mérés szerint történő szolgáltatására vonatkozóan közüzemi szerződéses jogviszonyban álló tulajdonosa, több tulajdonos esetén a tulajdonosok közössége [a társasház, a lakásszövetkezet, a Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) szerinti közös tulajdon esetén a tulajdonostársak]. Abban az esetben, ha a távhőfelhasználás a több személy tulajdonában lévő épület valamennyi épületrészében mérhető, a felhasználó az egyes épületrészek tulajdonosa is lehet. A felhasználó lehet lakossági vagy egyéb felhasználó:
+g) felhasználó: a távhővel ellátott épületnek, építménynek, a törvényben meghatározott esetben az épületrésznek a távhőszolgáltatóval a távhő mérés szerint történő szolgáltatására vonatkozóan közszolgáltatási szerződéses jogviszonyban álló tulajdonosa, több tulajdonos esetén a tulajdonosok közössége [a társasház, a lakásszövetkezet, a Polgári Törvénykönyv (a továbbiakban: Ptk.) szerinti közös tulajdon esetén a tulajdonostársak]. Abban az esetben, ha a távhőfelhasználás a több személy tulajdonában lévő épület valamennyi épületrészében mérhető, a felhasználó az egyes épületrészek tulajdonosa is lehet. A felhasználó lehet lakossági vagy egyéb felhasználó:
 
 ga) lakossági felhasználó: a lakóépület és a vegyes célra használt épület tulajdonosa, tulajdonosainak közössége, épületrészenkénti hőmennyiségmérés esetén az egyes épületrészek tulajdonosa, valamint a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló törvény alapján a Nemzeti Eszközkezelő Zrt. által megvásárolt lakóingatlan bérlője;
 
@@ -38,13 +38,13 @@ lc) felhasználói hőközpont: egy épület vagy építmény hőellátása cél
 
 m) megújuló energiaforrás: a nem fosszilis megújuló energiaforrások (szél-, nap-, víz- és geotermikus energia, biomassza, hulladék-lerakóhelyeken és szennyvíztisztító telepeken keletkező gázok, biogázok energiája);
 
-n) szabálytalan vételezés: a távhő felhasználásáról szóló közüzemi szerződés nélküli távhőfogyasztás vagy a távhőnek szerződésszegő módon történő vételezése;
+n) szabálytalan vételezés: a távhő felhasználásáról szóló közszolgáltatási szerződés nélküli távhőfogyasztás vagy a távhőnek szerződésszegő módon történő vételezése;
 
 o) szolgáltatói berendezés: a távhőtermelő létesítmény, a távhővezeték-hálózat, a szolgáltatói hőközpont, az elszámolás alapjául szolgáló, a távhőszolgáltató tulajdonában lévő mérőeszköz, a hőközpont primer oldali főelzárói és mennyiségszabályozói;
 
 p) távhő: az a hőenergia, amelyet a távhőtermelő létesítményből hőhordozó közeg (gőz, melegített víz) alkalmazásával, távhővezeték-hálózaton keresztül, üzletszerű tevékenység keretében a felhasználási helyre eljuttatnak;
 
-q) távhőszolgáltatás: az a közüzemi szolgáltatás, amely a felhasználónak a távhőtermelő létesítményből távhővezeték-hálózaton keresztül, az engedélyes által végzett, üzletszerű tevékenység keretében történő hőellátásával fűtési, illetve egyéb hőhasznosítási célú energiaellátásával valósul meg;
+q) távhőszolgáltatás: az a közszolgáltatás, amely a felhasználónak a távhőtermelő létesítményből távhővezeték-hálózaton keresztül, az engedélyes által végzett, üzletszerű tevékenység keretében történő hőellátásával fűtési, illetve egyéb hőhasznosítási célú energiaellátásával valósul meg;
 
 r) távhőszolgáltató: az a gazdálkodó szervezet, amely meghatározott településen vagy a település meghatározott részén a távhő üzletszerű szolgáltatására engedélyt kapott;
 
