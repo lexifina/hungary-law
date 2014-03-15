@@ -6,7 +6,7 @@ b)
 
 (2) Elektronikus úton beadványt úgy lehet benyújtani, hogy a beadvány adatait annak benyújtója a MOKK rendszerébe beviszi és minősített elektronikus aláírással, valamint minősített időbélyegzővel látja el.
 
-(3) A jogi képviselővel rendelkező fél és a vállalkozás és egyéb jogi személy beadványát kizárólag elektronikus úton terjesztheti elő, kivéve, ha a 10. § (3) bekezdése alapján beadványához papír alapú mellékletet csatol.
+(3) A jogi képviselővel rendelkező fél és a jogi személy, a külföldi vállalkozás magyarországi fióktelepe, valamint az egyéni cég beadványát kizárólag elektronikus úton terjesztheti elő, kivéve, ha a 10. § (3) bekezdése alapján beadványához papír alapú mellékletet csatol.
 
 (4)
 

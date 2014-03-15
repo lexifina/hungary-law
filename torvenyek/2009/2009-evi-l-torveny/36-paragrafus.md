@@ -14,4 +14,4 @@ a) az elkésett,
 
 b) nem az ellentmondás előterjesztésére jogosulttól származik, vagy
 
-c) a jogi képviselővel rendelkező fél, a vállalkozás vagy egyéb jogi személy fél azt nem elektronikus úton terjesztette elő, és a 10. § (3) bekezdésében meghatározott eset sem áll fenn.
+c) a jogi képviselővel rendelkező fél, a jogi személy, a külföldi vállalkozás magyarországi fióktelepe vagy az egyéni cég fél azt nem elektronikus úton terjesztette elő, és a 10. § (3) bekezdésében meghatározott eset sem áll fenn.
