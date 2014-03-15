@@ -1,0 +1,3 @@
+## 11. § Az anyakönyvekről, a házasságkötési eljárásról és a névviselésről szóló 6/2003. (III. 7.) BM rendelet „Átmeneti rendelkezések” alcíme a következő 103/F. §-sal egészül ki:
+
+## „103/F. § A Polgári Törvénykönyvről szóló 2013. évi V. törvény hatálybalépésével összefüggő átmeneti és felhatalmazó rendelkezésekről szóló 2013. évi CLXXVII. törvény 31. §-a szerinti esetben az apa adatainak bejegyzését az anyakönyvvezető hivatalból kezdeményezi. A házasságkötésnél közreműködő anyakönyvvezető a házasság megkötése után a házassági anyakönyvi másolatot és az apai elismerő nyilatkozatot megküldi a gyermek születését nyilvántartó anyakönyvvezetőnek.”
