@@ -30,7 +30,7 @@ j) a szabadalmi ügyvivői iroda.
 
 (3) A (2) bekezdésben meghatározott személy az adóévben akkor lehet adóalany, ha az adóévet megelőző naptári évben és az azt megelőző adóévben
 
-a) a magánszemély egyéni vállalkozóként tevékenységét folyamatosan végezte, a jogi személy, a jogi személyiség nélküli gazdasági társaság és az egyéni cég nem alakult át (ideértve különösen a kiválást és a beolvadást is), valamint a jogi személyben, a jogi személyiség nélküli gazdasági társaságban, egyéni cégben (az öröklést kivéve) új tag nem szerzett (új tagok nem szereztek összesen) 50 százalékot meghaladó szavazati jogot biztosító részesedést;
+a) a magánszemély egyéni vállalkozóként tevékenységét folyamatosan végezte, a jogi személy és az egyéni cég nem alakult át (ideértve különösen a kiválást és a beolvadást is), valamint a jogi személyben, egyéni cégben (az öröklést kivéve) új tag nem szerzett (új tagok nem szereztek összesen) 50 százalékot meghaladó szavazati jogot biztosító részesedést;
 
 b) az adóhatóság nem rendelte el jogerősen számla- vagy nyugtaadási kötelezettség ismételt elmulasztása miatt mulasztási bírság kiszabását;
 
@@ -38,7 +38,7 @@ c) az általános forgalmi adóról szóló törvény szerint nem volt köteleze
 
 d) nem állt végelszámolás, bíróság által jogerősen elrendelt felszámolás hatálya alatt;
 
-e) a magánszemély az általa végzett termékértékesítés vagy szolgáltatásnyújtás alapján vállalkozói bevételt, a jogi személy, a jogi személyiség nélküli gazdasági társaság és az egyéni cég a számvitelről szóló törvény előírásainak megfelelően árbevételt (az adóalany annak megfelelő bevételt) számolt el.
+e) a magánszemély az általa végzett termékértékesítés vagy szolgáltatásnyújtás alapján vállalkozói bevételt, a jogi személy és az egyéni cég a számvitelről szóló törvény előírásainak megfelelően árbevételt (az adóalany annak megfelelő bevételt) számolt el.
 
 (4) A (2) bekezdésben meghatározott személy az adóévben akkor lehet adóalany, ha
 
@@ -52,7 +52,7 @@ c) bevétel:
 
 ca) nem adóalany egyéni vállalkozónál a személyi jövedelemadóról szóló törvény szerint meghatározott vállalkozói bevétel, növelve az – ahhoz kapcsolódóan az általános forgalmi adóról szóló törvény előírásainak megfelelően áthárított – általános forgalmi adóval,
 
-cb) nem adóalany jogi személynél, jogi személyiség nélküli gazdasági társaságnál és az egyéni cégnél a számvitelről szóló törvény előírásainak megfelelően az eredménykimutatásban kimutatott árbevétel, bevétel, vagy az eredménylevezetésben kimutatott adóköteles bevétel, növelve az – ahhoz kapcsolódóan az általános forgalmi adóról szóló törvény előírásainak megfelelően áthárított – általános forgalmi adóval,
+cb) nem adóalany jogi személynél és az egyéni cégnél a számvitelről szóló törvény előírásainak megfelelően az eredménykimutatásban kimutatott árbevétel, bevétel, vagy az eredménylevezetésben kimutatott adóköteles bevétel, növelve az – ahhoz kapcsolódóan az általános forgalmi adóról szóló törvény előírásainak megfelelően áthárított – általános forgalmi adóval,
 
 cc) adóalanynál az e törvény előírásainak megfelelően meghatározott, a 6. § (1) bekezdése és 20. § (1) bekezdése szerinti bevétel.
 
@@ -70,11 +70,11 @@ e) belföldi pénzforgalmi számlával rendelkezik.
 
 (6)
 
-(7) A (2) bekezdésben meghatározott jogi személy, jogi személyiség nélküli gazdasági társaság és az egyéni cég az adóévben – a (3)–(5) bekezdésekben foglaltakon túl – akkor lehet adóalany, ha az adóévben
+(7) A (2) bekezdésben meghatározott jogi személy és az egyéni cég az adóévben – a (3)–(5) bekezdésekben foglaltakon túl – akkor lehet adóalany, ha az adóévben
 
 a) valamennyi tagja magánszemély (ideértve a Munkavállalói Résztulajdonosi Program szervezetét is),
 
-b) más jogi személyben, jogi személyiség nélküli gazdasági társaságban nem rendelkezik részesedéssel (kivéve, ha az szövetkezeti hitelintézet által kibocsátott részjegy vagy nyilvánosan működő részvénytársaság nyilvánosan forgalomba hozott részvénye),
+b) más jogi személyben nem rendelkezik részesedéssel (kivéve, ha az szövetkezeti hitelintézet által kibocsátott szövetkezeti részesedés vagy nyilvánosan működő részvénytársaság nyilvánosan forgalomba hozott részvénye),
 
 azzal, hogy az a) pontban meghatározott feltétel teljesülését nem érinti az adózó tulajdonában lévő saját üzletrész.
 

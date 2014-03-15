@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2002-43-00-00
 | 2012-09-01 | 2012. évi CXXVII. törvény | 2002-43-00-00.27 |
 | 2012-12-23 | 2012. évi CCVIII. törvény | 2002-43-00-00.28 |
 | 2014-01-01 | 2013. évi CC. törvény | 2002-43-00-00.29 |
+| 2014-03-15 | 2013. évi CCLII. törvény | 2002-43-00-00.30 |

@@ -1,6 +1,6 @@
 ## Vegyes rendelkezések
 
-22. § (1) A számvitelről szóló törvény hatálya alá nem tartozó jogi személyiség nélküli gazdasági társaság és korlátlan mögöttes felelősséggel működő egyéni cég adóalanyra, a gazdasági társaságokra vonatkozóan más jogszabályban meghatározott, a számvitelről szóló törvény szerinti beszámolóval, mérleggel, vagyonnal, saját tőkével, eredménnyel, valamint az osztalékkal kapcsolatos előírások nem vonatkoznak.
+22. § (1) A számvitelről szóló törvény hatálya alá nem tartozó betéti társaság, közkereseti társaság és korlátlan mögöttes felelősséggel működő egyéni cég adóalanyra, a gazdasági társaságokra vonatkozóan más jogszabályban meghatározott, a számvitelről szóló törvény szerinti beszámolóval, mérleggel, vagyonnal, saját tőkével, eredménnyel, valamint az osztalékkal kapcsolatos előírások nem vonatkoznak.
 
 (2) Az adóalany nem határozhatja el átalakulását, egyesülését és szétválását, valamint jegyzett tőkéjének a jegyzett tőkén felüli saját tőke terhére történő felemelését.
 
@@ -12,7 +12,7 @@ a) a bejelentés jogszerűtlenségére, illetve mulasztására vonatkozó nyilat
 
 b) a bejelentés jogszerűtlenségét, illetve mulasztását megállapító határozata jogerőre emelkedésének napjáig, ha az a) pont szerinti nyilatkozattétel nem történt meg.
 
-Ha a jogi személy, a jogi személyiség nélküli gazdasági társaság és az egyéni cég az adómegállapítási időszakot tartalmazó adóévre vonatkozó bejelentését [10. § (1) bekezdés] jogszerűen nem tehette volna meg, akkor az a)–b) pontban foglalt határidőt követő 30 napon belül köteles a bejelentés adóévére vonatkozóan a társasági adóról és az osztalékadóról – a társasági adóról és az osztalékadóról szóló törvény előírásainak megfelelő – adóbevallást benyújtani.
+Ha a jogi személy és az egyéni cég az adómegállapítási időszakot tartalmazó adóévre vonatkozó bejelentését [10. § (1) bekezdés] jogszerűen nem tehette volna meg, akkor az a)–b) pontban foglalt határidőt követő 30 napon belül köteles a bejelentés adóévére vonatkozóan a társasági adóról és az osztalékadóról – a társasági adóról és az osztalékadóról szóló törvény előírásainak megfelelő – adóbevallást benyújtani.
 
 (5) Az adóhatóság a becslés során
 
@@ -28,7 +28,7 @@ b) nem teljes adómegállapítási időszakra az adóalapot állapítja meg, ame
 
 (9) Az adóalanyiságnak a 2004. évre történő választásakor a feltételeknek való megfelelést – a (10) bekezdésben meghatározott kivétellel – a 2. § (3)–(7) bekezdésének 2004. január 1-jén hatályos rendelkezései szerint kell meghatározni.
 
-(10) Ha a jogi személy, a jogi személyiség nélküli gazdasági társaság a 2003. évre történő bejelentéskor az új tag (új tagok) szavazati jogot biztosító részesedése tekintetében megfelelt a 2. § (3) bekezdés a) pontja 2003. január 1-jén hatályos rendelkezésében meghatározott feltételnek, a 2005. évre – az egyéb feltételeknek való megfelelés esetén – akkor is jogosult az adóalanyra vonatkozó rendelkezések alkalmazását választani, ha e tekintetben nem felel meg az említett pont 2005. január 1-jén hatályos rendelkezésében foglalt feltételnek.
+(10) Ha a jogi személy a 2003. évre történő bejelentéskor az új tag (új tagok) szavazati jogot biztosító részesedése tekintetében megfelelt a 2. § (3) bekezdés a) pontja 2003. január 1-jén hatályos rendelkezésében meghatározott feltételnek, a 2005. évre – az egyéb feltételeknek való megfelelés esetén – akkor is jogosult az adóalanyra vonatkozó rendelkezések alkalmazását választani, ha e tekintetben nem felel meg az említett pont 2005. január 1-jén hatályos rendelkezésében foglalt feltételnek.
 
 (11) Ha a 2003. évben az Eva tv. hatálya alá tartozó adózó a 2004. adóévre az Eva tv. 2. § (5) bekezdésének e) pontjában foglalt feltétel miatt veszítette el adóalanyiságát, az Eva tv. 3. § (3) bekezdésében foglaltaktól eltérően, az erre a célra rendszeresített nyomtatványon bejelentheti az állami adóhatóságnak, hogy a 2005. adóévben adókötelezettségeit az adóalanyra vonatkozó rendelkezések szerint teljesíti, ha a bejelentkezés időpontjában megfelel az e törvényben meghatározott valamennyi feltételnek.
 

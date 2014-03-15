@@ -16,7 +16,7 @@ f) a magánszemély adóalany egyéni vállalkozói jogállása megszűnésének
 
 g) a végelszámolás, a felszámolás, a kényszertörlési eljárás kezdő időpontját megelőző nappal, egyébként a megszűnés napjával;
 
-h) a részesedés megszerzésének napját megelőző nappal, ha a jogi személyben, jogi személyiség nélküli gazdasági társaságban, egyéni cégben 50 százalékot meghaladó szavazati jogot biztosító részesedést szerez olyan magánszemély (összesen 50 százalékot meghaladó szavazati jogot biztosító részesedést szereznek olyan magánszemélyek), akivel (akikkel) a naptári évben korábban nem állt tagi jogviszonyban; az öröklés esetére e rendelkezést nem kell alkalmazni;
+h) a részesedés megszerzésének napját megelőző nappal, ha a jogi személyben egyéni cégben 50 százalékot meghaladó szavazati jogot biztosító részesedést szerez olyan magánszemély (összesen 50 százalékot meghaladó szavazati jogot biztosító részesedést szereznek olyan magánszemélyek), akivel (akikkel) a naptári évben korábban nem állt tagi jogviszonyban; az öröklés esetére e rendelkezést nem kell alkalmazni;
 
 i) a változás bekövetkezésének napját megelőző nappal, ha az egyéni cég tagjának korlátlan mögöttes felelőssége korlátolttá válik;
 
