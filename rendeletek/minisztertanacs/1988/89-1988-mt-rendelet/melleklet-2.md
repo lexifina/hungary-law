@@ -24,18 +24,18 @@
 
 ## – a személyszállítási szerződések szabályaiból.
 
-## 2.[^86]
+## 2.[^87]
 
-## 3.[^87]
+## 3.[^88]
 
-## II.[^88]
+## II.[^89]
 
-## B. rész[^89]
+## B. rész[^90]
 
-2. számú melléklet a 89/1988. (XII. 20.) MT rendelethez[^90]
+2. számú melléklet a 89/1988. (XII. 20.) MT rendelethez[^91]
 
-[^86]: Az 1. számú melléklet A. része I. fejezetének 2. pontja az 54/2007. (III. 28.) Korm. rendelet 6. § (2) bekezdése alapján hatályát vesztette.
-[^87]: Az 1. számú melléklet A. része I. fejezetének 3. pontját az 54/2007. (III. 28.) Korm. rendelet 6. § (3) bekezdése hatályon kívül helyezte.
-[^88]: Az 1. számú melléklet A rész II. pontját hatályon kívül helyezte a 261/2011. (XII. 7.) Korm. rendelet 39. § (8) bekezdése. E módosító rendelet 36. § (3) bekezdése alapján a 2011. december 8-át követően indult és megismételt eljárásokban kell alkalmazni.
-[^89]: Az 1. számú melléklet B. része az 54/2007. (III. 28.) Korm. rendelet 6. § (2) bekezdése alapján 2008. szeptember 9-én lépett hatályba. A B. részben meghatározott továbbképzési képesítések megszerzésének határidejére vonatkozóan lásd e módosító rendelet 6. § (4) bekezdését. Az 1. számú melléklet B. részét a 261/2011. (XII. 7.) Korm. rendelet 39. § (8) bekezdése hatályon kívül helyezte. Ez utóbbi módosító rendelet 36. § (3) bekezdése alapján a 2011. december 8-át követően indult és megismételt eljárásokban kell alkalmazni.
-[^90]: A 2. számú mellékletet hatályon kívül helyezte a 244/2010. (X. 5.) Korm. rendelet 3. §-a.
+[^87]: Az 1. számú melléklet A. része I. fejezetének 2. pontja az 54/2007. (III. 28.) Korm. rendelet 6. § (2) bekezdése alapján hatályát vesztette.
+[^88]: Az 1. számú melléklet A. része I. fejezetének 3. pontját az 54/2007. (III. 28.) Korm. rendelet 6. § (3) bekezdése hatályon kívül helyezte.
+[^89]: Az 1. számú melléklet A rész II. pontját hatályon kívül helyezte a 261/2011. (XII. 7.) Korm. rendelet 39. § (8) bekezdése. E módosító rendelet 36. § (3) bekezdése alapján a 2011. december 8-át követően indult és megismételt eljárásokban kell alkalmazni.
+[^90]: Az 1. számú melléklet B. része az 54/2007. (III. 28.) Korm. rendelet 6. § (2) bekezdése alapján 2008. szeptember 9-én lépett hatályba. A B. részben meghatározott továbbképzési képesítések megszerzésének határidejére vonatkozóan lásd e módosító rendelet 6. § (4) bekezdését. Az 1. számú melléklet B. részét a 261/2011. (XII. 7.) Korm. rendelet 39. § (8) bekezdése hatályon kívül helyezte. Ez utóbbi módosító rendelet 36. § (3) bekezdése alapján a 2011. december 8-át követően indult és megismételt eljárásokban kell alkalmazni.
+[^91]: A 2. számú mellékletet hatályon kívül helyezte a 244/2010. (X. 5.) Korm. rendelet 3. §-a.

@@ -1,3 +1,3 @@
-## 20. §[^64]
+21. §[^66]
 
-[^64]: A 20. §-t a 261/2011. (XII. 7.) Korm. rendelet 39. § (8) bekezdése hatályon kívül helyezte. E módosító rendelet 36. § (3) bekezdése alapján a 2011. december 8-át követően indult és megismételt eljárásokban kell alkalmazni.
+[^66]: A 21. §-t a 261/2011. (XII. 7.) Korm .rendelet 39. § (8) bekezdése hatályon kívül helyezte. E módosító rendelet 36. § (3) bekezdése alapján a 2011. december 8-át követően indult és megismételt eljárásokban kell alkalmazni.
