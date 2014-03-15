@@ -14,7 +14,7 @@
 
 6. biometriai kockázat: a tag élettartamának hosszával, valamint megrokkanásával összefüggő bizonytalanságból eredő kockázat;
 
-7. cégvezető: a gazdasági társaságokról szóló 2006. évi IV. törvény (a továbbiakban: Gt.) 32. §-ban foglaltak szerint a foglalkoztatói nyugdíjszolgáltató intézmény vezetésére kinevezett, a foglalkoztatói nyugdíjszolgáltató intézménnyel munkaviszonyban álló első számú vezető;
+7. cégvezető: a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) 3:113. §-ában foglaltak szerint a foglalkoztatói nyugdíjszolgáltató intézmény vezetésére kinevezett, a foglalkoztatói nyugdíjszolgáltató intézménnyel munkaviszonyban álló első számú vezető;
 
 8. EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam, továbbá olyan állam, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez;
 
@@ -40,7 +40,7 @@
 
 19. kiszervezés: a foglalkoztatói nyugdíjszolgáltató intézmény feladatkörébe tartozó tevékenységének e tevékenység ellátásával üzletszerűen foglalkozó szervezet által, szerződés alapján történő ellátása;
 
-20. közeli hozzátartozó: a Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) 685. §-ának b) pontjában megjelölt közeli hozzátartozók és az élettárs;
+20. közeli hozzátartozó: a Ptk. 8:1. § (1) bekezdés 1. pontjában meghatározott személyek, valamint az élettárs;
 
 21. minimális biztonsági tőke: a tevékenység megkezdésekor és folytatásakor a felvállalt kockázatokból adódó kötelezettségek teljesítésére szolgáló tőkerész;
 
