@@ -8,6 +8,8 @@ b) alapképzésben szerzett végzettség esetében legalább nyolc év, mesterk�
 
 (2) Az Atv.-ben meghatározott okokon túlmenően nem lehet szakértő:
 
-a) aki korlátozottan cselekvőképes vagy cselekvőképtelen,
+a)[^1] a cselekvőképességében bármely ügycsoportban részlegesen korlátozott nagykorú, vagy aki cselekvőképtelen, vagy
 
 b) akit jogerős határozattal meghatározott időre tiltottak el a szakértői tevékenység gyakorlásától, a határozatban szereplő ideig.
+
+[^1]: A 2. § (2) bekezdés a) pontja az 53/2014. (III. 3.) Korm. rendelet 32. § (1) bekezdésével megállapított szöveg.
