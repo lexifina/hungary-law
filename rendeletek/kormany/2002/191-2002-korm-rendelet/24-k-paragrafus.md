@@ -1,3 +1,3 @@
-## Az eredeti címke másolatai[^95]
+## Az eredeti címke másolatai[^96]
 
-[^95]: A 24/K. §-t megelőző alcímet a 65/2012. (IV. 2.) Korm. rendelet 2. §-a iktatta be.
+[^96]: A 24/K. §-t megelőző alcímet a 65/2012. (IV. 2.) Korm. rendelet 2. §-a iktatta be.

@@ -1,3 +1,3 @@
-## Kétkomponensű robbanóanyagok[^83]
+## Kétkomponensű robbanóanyagok[^84]
 
-[^83]: A 24/E. §-t megelőző alcímet a 65/2012. (IV. 2.) Korm. rendelet 2. §-a iktatta be.
+[^84]: A 24/E. §-t megelőző alcímet a 65/2012. (IV. 2.) Korm. rendelet 2. §-a iktatta be.

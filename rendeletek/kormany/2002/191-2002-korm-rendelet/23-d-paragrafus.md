@@ -1,10 +1,10 @@
-## 23/C. §[^71] A belföldi átadási engedélyt és a szállítási engedélyt az ellenőrzésére jogosult hatóság felszólítására be kell mutatni. A belföldi átadási engedélyt és a szállítási engedélyt a címzetthez történő megérkezésig a robbanóanyaggal együtt kell szállítani.
+## 23/C. §[^72] A belföldi átadási engedélyt és a szállítási engedélyt az ellenőrzésére jogosult hatóság felszólítására be kell mutatni. A belföldi átadási engedélyt és a szállítási engedélyt a címzetthez történő megérkezésig a robbanóanyaggal együtt kell szállítani.
 
-## 23/D. §[^72] A 23/A–23/C. §-ban foglaltakat alkalmazni kell azokban az esetekben is, amikor
+## 23/D. §[^73] A 23/A–23/C. §-ban foglaltakat alkalmazni kell azokban az esetekben is, amikor
 
 a) a robbanóanyagot Magyarország területén állítják elő, és azt más Európai Gazdasági Térségbe nem tartozó állam érintése nélkül külföldre juttatják, vagy
 
 b) Magyarország területére az Európai Gazdasági Térségen kívülről, továbbszállítási cél nélkül, más Európai Gazdasági Térségbe nem tartozó állam érintése nélkül behozzák.
 
-[^71]: A 23/C. §-t a 235/2007. (IX. 4.) Korm. rendelet 7. §-a iktatta be.
-[^72]: A 23/D. §-t a 18/2013. (I. 30.) Korm. rendelet 7. §-a iktatta be.
+[^72]: A 23/C. §-t a 235/2007. (IX. 4.) Korm. rendelet 7. §-a iktatta be.
+[^73]: A 23/D. §-t a 18/2013. (I. 30.) Korm. rendelet 7. §-a iktatta be.

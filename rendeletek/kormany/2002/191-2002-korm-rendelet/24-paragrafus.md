@@ -1,10 +1,10 @@
 ## A robbanóanyagok nyilvántartása
 
-24. § (1)[^73] A robbanóanyag-szektorban működő vállalkozások a birtokukban lévő robbanóanyagokról naprakész terméknyilvántartást kötelesek vezetni, és azt – a tevékenység befejezése esetén is – a nyilvántartás felvételétől számított öt évig megőrizni.
+24. § (1)[^74] A robbanóanyag-szektorban működő vállalkozások a birtokukban lévő robbanóanyagokról naprakész terméknyilvántartást kötelesek vezetni, és azt – a tevékenység befejezése esetén is – a nyilvántartás felvételétől számított öt évig megőrizni.
 
-(2)[^74] A nyilvántartásnak ki kell terjednie a robbanóanyag felhasználására, szállítására, valamint belföldi átadására is.
+(2)[^75] A nyilvántartásnak ki kell terjednie a robbanóanyag felhasználására, szállítására, valamint belföldi átadására is.
 
 (3) Az (1) bekezdésben meghatározott nyilvántartást a bányafelügyelet és a rendőrség ellenőrzi.
 
-[^73]: A 24. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 281. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy mnegismételt eljárásokban kell alkalmazni.
-[^74]: A 24. § (2) bekezdése a 235/2007. (IX. 4.) Korm. rendelet 14. § c) pontja szerint módosított szöveg.
+[^74]: A 24. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 281. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy mnegismételt eljárásokban kell alkalmazni.
+[^75]: A 24. § (2) bekezdése a 235/2007. (IX. 4.) Korm. rendelet 14. § c) pontja szerint módosított szöveg.

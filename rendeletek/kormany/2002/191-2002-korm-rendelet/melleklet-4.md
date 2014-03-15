@@ -20,13 +20,13 @@
 
 ## c) veszélyes tevékenység megkezdéséhez előírt hivatásos katasztrófavédelmi szerv jogerős és végrehajtható engedélyének másolatát;
 
-## d)[^105]
+## d)[^106]
 
 ## e) bértárolás esetében a tárolási engedélyessel e célra kötött megállapodást;
 
 ## f) a robbanóanyag gyártásra szolgáló létesítmények, berendezések és eszközök, valamint a gyártási technológia, illetve a gyártás személyi feltételei biztosítottságának igazolását, a munkavédelemről szóló törvény szerinti, a munkavédelmi üzembe helyezés feltételéül szolgáló munkavédelmi szempontú előzetes vizsgálat eredményét;
 
-## g)[^106]
+## g)[^107]
 
 ## 1.3. A helyszíni keveréssel előállítható, kizárólag saját felhasználási célú robbanóanyag gyártási engedélykérelemhez nem kell mellékelni az 1.1. pont d) alpontjában, valamint az 1.2. pont a) és b) alpontjában előírtakat.
 
@@ -44,7 +44,7 @@
 
 ## a) bértárolás esetében a tárolási engedélyessel e célra kötött megállapodást; és
 
-## b)[^107]
+## b)[^108]
 
 ## 3. Robbanóanyag megszerzési engedélykérelem
 
@@ -148,6 +148,6 @@
 
 4. számú melléklet a 191/2002. (IX. 4.) Korm. rendelethez
 
-[^105]: A 3. melléklet 1. pont 1.2. alpont d) alpontját az 559/2013. (XII. 31.) Korm. rendelet 27. § a) pontja hatályon kívül helyezte.
-[^106]: A 3. melléklet 1. pont 1.2. alpont g) alpontját az 559/2013. (XII. 31.) Korm. rendelet 27. § a) pontja hatályon kívül helyezte.
-[^107]: A 3. melléklet 2. pont 2.2. alpont b) alpontját az 559/2013. (XII. 31.) Korm. rendelet 27. § b) pontja hatályon kívül helyezte.
+[^106]: A 3. melléklet 1. pont 1.2. alpont d) alpontját az 559/2013. (XII. 31.) Korm. rendelet 27. § a) pontja hatályon kívül helyezte.
+[^107]: A 3. melléklet 1. pont 1.2. alpont g) alpontját az 559/2013. (XII. 31.) Korm. rendelet 27. § a) pontja hatályon kívül helyezte.
+[^108]: A 3. melléklet 2. pont 2.2. alpont b) alpontját az 559/2013. (XII. 31.) Korm. rendelet 27. § b) pontja hatályon kívül helyezte.

@@ -2,7 +2,7 @@
 
 ## 23. §[^62] A szállítási engedély iránti kérelemnek, illetve a belföldi átadási engedély iránti kérelemnek tartalmaznia kell
 
-a) a robbanóanyag szállításában közreműködők természetes személyazonosító adatait, állampolgárságát, lakóhelyét, jogi személy vagy jogi személyiséggel nem rendelkező szervezet esetén az annak azonosításához szükséges adatokat, különösen megnevezését, székhelyének pontos címét;
+a)[^63] a robbanóanyag szállításában közreműködők természetes személyazonosító adatait, állampolgárságát, lakóhelyét, jogi személy, egyéni vállalkozó vagy egyéni cég esetén az annak azonosításához szükséges adatokat, különösen megnevezését, székhelyének pontos címét;
 
 b) a szállítandó robbanóanyag kereskedelmi megnevezését, a különféle típusok számát és mennyiségét;
 
@@ -20,3 +20,4 @@ h) az országhatáron történő belépés és a kilépés helyének pontos megj
 
 [^61]: A 23. §-t megelőző alcím a 182/2009. (IX. 10.) Korm. rendelet 281. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy mnegismételt eljárásokban kell alkalmazni.
 [^62]: A 23. § a 235/2007. (IX. 4.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^63]: A 23. § a) pontja a 13/2014. (I. 29.) Korm. rendelet 4. §-ával megállapított szöveg.
