@@ -14,6 +14,6 @@
 
 (8) A költségvetési szerv évente jelentést készít felügyeleti szerve részére arról, hogy az általa alapított, vagy részvételével működő hasznosító vállalkozásokban hogyan valósultak meg a hasznosítási célok.
 
-(9) A (4) és (6) bekezdés értelemszerűen irányadó a költségvetési szerv által létrehozott, vagy részesedésével működő hasznosító vállalkozás általi további gazdálkodó szervezet alapítása, illetve gazdálkodó szervezetben történő részesedés szerzése esetén is, továbbá mindazon esetekben, amikor a hasznosító vállalkozás közvetett részesedésével működő gazdálkodó szervezet alapít gazdálkodó szervezetet vagy szerez gazdálkodó szervezetben részesedést.
+(9) A (4) és (6) bekezdés értelemszerűen irányadó a költségvetési szerv által létrehozott, vagy részesedésével működő hasznosító vállalkozás általi további, a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet alapítása, illetve gazdálkodó szervezetben történő részesedés szerzése esetén is, továbbá mindazon esetekben, amikor a hasznosító vállalkozás közvetett részesedésével működő gazdálkodó szervezet alapít gazdálkodó szervezetet vagy szerez gazdálkodó szervezetben részesedést.
 
 (10) Hasznosító vállalkozás az (1) bekezdés szerinti szellemi alkotást nem apportálhatja.

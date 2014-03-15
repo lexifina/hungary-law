@@ -34,7 +34,7 @@ e) a kutatás-fejlesztési és technológiai innovációs eredmények hasznosít
 
 b) költségvetési kutatóhely: költségvetési gazdálkodási rendben működő, alap-, illetve főtevékenységként vagy ahhoz kapcsolódóan kutatás-fejlesztési tevékenységet folytató szervezet vagy szervezeti egység;
 
-c) non-profit kutatóhely: az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvényben meghatározott közhasznú szervezetként, illetve annak keretében működő kutatóhely;
+c) non-profit kutatóhely: az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvényben (a továbbiakban: Civiltv.) meghatározott közhasznú szervezetként, illetve annak keretében működő kutatóhely;
 
 d) kutató, fejlesztő: az a természetes személy, aki új ismeret, szellemi alkotás, termék, szolgáltatás, eljárás, módszer, rendszer létrehozásával vagy fejlesztésével, valamint az ezt célzó projektek megvalósításának irányításával foglalkozik (a továbbiakban: kutató);
 
@@ -50,7 +50,7 @@ b) hasznosító vállalkozás: költségvetési kutatóhelyen – a 20. § alkal
 
 b) projekt: meghatározott kutatás-fejlesztési feladat, technológiai innovációs folyamat végrehajtására irányuló tevékenység az abban érdekeltek által meghatározott terv alapján;
 
-9. civil szervezet: az egyesülési jogról szóló törvény alapján létrejött egyesület, szövetség (kivéve a pártot, a munkaadói és munkavállalói érdekképviseleti szervezetet és a biztosító egyesületet) és a Polgári Törvénykönyvről szóló 1959. évi IV. törvény alapján létrejött alapítvány (ide nem értve a közalapítványt);
+9. civil szervezet: a Civiltv. 2. § 6. pontjában meghatározott civil szervezet;
 
 10. kutatás-fejlesztési megállapodás: két vagy több vállalkozás, illetve vállalkozás és kutatóhely (e pontban a továbbiakban: felek) között létrejött olyan megállapodás, amelynek tárgya
 
