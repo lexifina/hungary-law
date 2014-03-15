@@ -1,4 +1,4 @@
-1. melléklet a 18/2005. (XII. 27.) IHM rendelethez[^6]
+1. melléklet a 18/2005. (XII. 27.) IHM rendelethez[^7]
 
 ## A jegyzék 2. § (2) bekezdése szerinti tagolása
 
@@ -14,7 +14,7 @@
 
 1.5 Lapok
 
-1.6[^7] Felettes, felügyeleti, törvényességi ellenőrzést vagy felügyeletet gyakorló szervek
+1.6[^8] Felettes, felügyeleti, törvényességi ellenőrzést vagy felügyeletet gyakorló szervek
 
 1.7 Költségvetési szervek
 
@@ -28,5 +28,5 @@
 
 3.3 Működés
 
-[^6]: Az 1. melléklet a 34/2012. (VIII. 15.) KIM rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^7]: Az 1. melléklet 1. pont 1.6. alpontja az 54/2012. (XII. 28.) KIM rendelet 19. § a) pontja szerint módosított szöveg.
+[^7]: Az 1. melléklet a 34/2012. (VIII. 15.) KIM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^8]: Az 1. melléklet 1. pont 1.6. alpontja az 54/2012. (XII. 28.) KIM rendelet 19. § a) pontja szerint módosított szöveg.

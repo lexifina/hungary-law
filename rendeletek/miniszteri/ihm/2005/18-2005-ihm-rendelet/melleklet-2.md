@@ -1,4 +1,4 @@
-2. melléklet a 18/2005. (XII. 27.) IHM rendelethez[^8]
+2. melléklet a 18/2005. (XII. 27.) IHM rendelethez[^9]
 
 A közzétételi egységek az 1. melléklet szerinti szervezetben
 
@@ -112,7 +112,7 @@ I. Közzétételi egység: Felettes, felügyeleti, törvényességi ellenőrzés
 
 | 2. A költségvetési szerv vezetője, honlapjának elérhetősége | A honlap közvetlen elérésének biztosításával. |
 
-2. Tevékenyégre, működésre vonatkozó adatok
+2. Tevékenységre, működésre vonatkozó adatok
 
 I. Közzétételi egység: A szerv alaptevékenysége, feladat- és hatásköre
 
@@ -216,9 +216,9 @@ VII. Közzétételi egység: A szerv döntései, koncepciók, tervezetek, javasl
 
 | 3. A testületi szerv szavazásának nyilvános adatai, ha azt jogszabály nem korlátozza | Döntésenkénti bontásban. |
 
-| 4. Az Infotv. alapján közzéteendő jogszabályalkotásra irányuló koncepciók, jogszabálytervezetek és kapcsolódó dokumentumok | A közadatkereső felé történő adatszolgáltatás során minden egyes jogszabálytervezetről külön leíró adatot kell készíteni a Jogszabálytervezeteket meghatározó séma alapján. |
+| 4. A jogszabályok előkészítésében való társadalmi részvételről szóló törvény alapján közzéteendő jogszabályalkotásra irányuló koncepciók, jogszabálytervezetek és kapcsolódó dokumentumok | A közadatkereső felé történő adatszolgáltatás során minden egyes jogszabálytervezetről külön leíró adatot kell készíteni a Jogszabálytervezeteket meghatározó séma alapján. |
 
-| 5. Az Infotv. alapján közzéteendő jogszabályalkotásra irányuló koncepciók, jogszabálytervezetek tekintetében az egyeztetés állapota | Koncepciónkénti, illetve jogszabály-tervezetenkénti bontásban. |
+| 5. A jogszabályok előkészítésében való társadalmi részvételről szóló törvény alapján közzéteendő jogszabályalkotásra irányuló koncepciók, jogszabálytervezetek tekintetében az egyeztetés állapota | Koncepciónkénti, illetve jogszabály-tervezetenkénti bontásban. |
 
 | 6. A helyi önkormányzat képviselő-testületének nyilvános ülésére benyújtott előterjesztések a benyújtás időpontjától | A közadatkereső felé történő adatszolgáltatás során minden egyes előterjesztésről külön leíró adatot kell készíteni a Jogszabálytervezeteket meghatározó séma alapján. |
 
@@ -370,4 +370,4 @@ VII. Közzétételi egység: Közbeszerzés
 
 | 1. Közbeszerzési információk: éves terv, összegzés az ajánlatok elbírálásáról, a megkötött szerződésekről | Az éves terv közvetlen elérésének biztosításával. |
 
-[^8]: A 2. melléklet a 34/2012. (VIII. 15.) KIM rendelet 3. § (2) bekezdésével megállapított és az 54/2012. (XII. 28.) KIM rendelet 19. § a)–d) pontja szerint módosított szöveg.
+[^9]: A 2. melléklet a 34/2012. (VIII. 15.) KIM rendelet 3. § (2) bekezdésével megállapított, az 54/2012. (XII. 28.) KIM rendelet 19. § a)–d) pontja, a 15/2014. (III. 12.) KIM rendelet 16. § c)–d) pontja szerint módosított szöveg.
