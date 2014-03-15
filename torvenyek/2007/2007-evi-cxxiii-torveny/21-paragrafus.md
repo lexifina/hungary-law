@@ -4,7 +4,7 @@
 
 (3) A kisajátítást kérő a kifizetési kötelezettségét akkor teljesíti, amikor a pénzforgalmi számláját vezető pénzforgalmi szolgáltató a pénzforgalmi számlát a kártalanítás összegével megterheli.
 
-(4) A kártalanítási összeg a kisajátítási határozat jogerőre emelkedésével esedékes, ettől az időponttól kezdődően jár a polgári törvénykönyv szerinti késedelmi kamat is.
+(4) A kártalanítási összeg a kisajátítási határozat jogerőre emelkedésével esedékes, ettől az időponttól kezdődően jár a Polgári Törvénykönyv szerinti késedelmi kamat is.
 
 (5)
 

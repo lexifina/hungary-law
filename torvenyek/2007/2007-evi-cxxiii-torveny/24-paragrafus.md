@@ -25,3 +25,13 @@ f) a 8. § (6) bekezdése szerinti nyilatkozatokat, ennek hiányában annak igaz
 (7) Ha a kisajátítást kérő nem igazolja az ügy elbírálásához szükséges nyilvános vagy valamely hatóság, bíróság vagy a Magyar Országos Közjegyzői Kamara jogszabállyal rendszeresített nyilvántartásában szereplő adatokat, a kisajátítási hatóság az adatokat hivatalból szerzi be. Ha a szükséges adatokat a cégnyilvántartás tartalmazza és ezen adatok a cégnyilvántartásban elektronikus formában állnak rendelkezésre, a kisajátítási hatóság azokat elektronikus úton, közvetlen lekérdezéssel szerzi be. A kisajátítási hatóság az ügyfelek teljes körének a felmérése érdekében az ügyfelek adatait hivatalból szerzi be az ingatlan-nyilvántartást vezető szervtől, valamint – a földhasználati nyilvántartással érintett ingatlan esetében – a földhasználati nyilvántartást vezető szervtől.
 
 (8) Ha a kisajátítást kérő harmadik személy a kérelemhez a létesítő okiratát nem csatolja, a kisajátítási hatóság – az ügy elbírálásához szükséges adatok szolgáltatása iránt – megkeresi a kisajátítást kérő harmadik személyről nyilvántartást vezető szervet. Ha a szükséges adatokat a cégnyilvántartás tartalmazza és ezen az adatok a cégnyilvántartásban elektronikus formában állnak rendelkezésre, a kisajátítási hatóság azokat elektronikus úton, közvetlen lekérdezéssel szerzi be.
+
+(9) A kisajátítást kérő és a megbízásából eljáró személy részére az ingatlanügyi hatóság adatátviteli eszközzel vagy számítástechnikai adathordozón, az ingatlan-nyilvántartásból történő adatszolgáltatásra vonatkozó szabályok szerint, az ingatlan leíró adatain felül a kisajátítási eljáráshoz szükséges alábbi adatokat adhatja át:
+
+a) a kisajátítással érintett ingatlan
+
+aa) tulajdonosának neve, lakcíme (székhelye), tulajdoni hányada, a tulajdonszerzés jogcíme,
+
+ab) tulajdoni lapján széljegyzett jogosultak adatai,
+
+b) a kisajátítással érintett ingatlanon fennálló egyéb jog jogosultjának neve, lakcíme (székhelye), a jog megszerzésének jogcíme.
