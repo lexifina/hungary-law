@@ -1,4 +1,4 @@
-28. § (1) Ha a rendelkezésre álló adatok alapján az örökhagyó a halálakor közjegyző, ügyvéd, önálló bírósági végrehajtó, igazságügyi szakértő, gyám vagy gondnok volt, ennek tényét, valamint azoknak a vagyontárgyaknak, iratoknak a jegyzékét, amelyek az örökhagyó e tevékenységével kapcsolatosak és a leltárban nem szerepelnek, jegyzőkönyvben kell feltüntetni.
+28. § (1) Ha a rendelkezésre álló adatok alapján az örökhagyó a halálakor közjegyző, ügyvéd, önálló bírósági végrehajtó, igazságügyi szakértő, gyám, gondnok vagy bizalmi vagyonkezelő volt, ennek tényét, valamint azoknak a vagyontárgyaknak, iratoknak a jegyzékét, amelyek az örökhagyó e tevékenységével kapcsolatosak és a leltárban nem szerepelnek, jegyzőkönyvben kell feltüntetni.
 
 (2) A jegyző vagy a közjegyző, ha adat merül fel arra vonatkozóan, hogy az örökhagyó
 
@@ -21,3 +21,5 @@ a szükséges intézkedések megtétele végett haladéktalanul értesíti az ö
 (4) A jegyző vagy a közjegyző a szükséges intézkedések megtétele végett haladéktalanul értesíti a halálesetről – ha adat merül fel arra vonatkozóan, hogy a halál pillanatában ilyen személy volt – az örökhagyó gondnokát, illetve gyámját.
 
 (5) Ha a leltározás során az örökhagyó életbiztosítási vagy halálesetre szóló balesetbiztosítási szerződése a jegyző vagy a közjegyző birtokába kerül, akkor a szerződésben szereplő biztosítót az örökhagyó haláláról értesíti.
+
+(6) Ha a leltározás során az örökhagyó bizalmi vagyonkezelési szerződése a jegyző vagy a közjegyző birtokába kerül, vagy egyébként adat merül fel ilyen szerződés létrejöttére, vagy arra vonatkozóan, hogy az örökhagyó bizalmi vagyonkezelő volt, a jegyző vagy a közjegyző haladéktalanul értesíti a halálesetről a szerződésben szereplő vagyonrendelőt, további vagy új vagyonkezelőt és a kedvezményezettet.

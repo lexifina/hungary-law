@@ -8,7 +8,7 @@ a) – a (3) bekezdésben foglaltak kivételével – a hagyatékátadó végzé
 
 aa) a hagyatéki eljárásban érdekeltekkel,
 
-ab) ha az érdekeltek között méhmagzat, cselekvőképtelen vagy korlátozottan cselekvőképes személy van, akkor a gyámhatósággal;
+ab) ha az érdekeltek között méhmagzat, cselekvőképességet érintő gondnokság alatt álló vagy ismeretlen helyen tartózkodó személy van, akkor a gyámhatósággal;
 
 b) a tárgyaláson hozott végzést azzal az eljárásban fellépett érdekelttel, aki a tárgyalásra nem volt szabályszerűen megidézve;
 

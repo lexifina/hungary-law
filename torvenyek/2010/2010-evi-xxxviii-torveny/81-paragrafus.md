@@ -18,12 +18,12 @@ b) a vagyontárgy tulajdonjogára igényt tartó személy a hagyatéki tárgyal�
 
 (4) Ha a leltárba felvett vagyonra, vagyonrészre vagy vagyontárgyra az örökhagyó túlélő házastársa (volt házastársa) házastársi vagyonközösség jogcímén, vagy az örökhagyót túlélő élettársa (volt élettársa) az együttélés alatt keletkezett vagyonközösségből őt megillető részesedés jogcímén igényt tart és
 
-a) az igényt tartó az egyetlen örökösként érdekelt,
+a) az igényt tartó az egyetlen örökösként érdekelt, valamint az igény jogossága egyéb körülményekből valószínűnek mutatkozik,
 
-b) igényét az örökösként érdekelt egyéb személy igényét elismeri, vagy
+b) igényét az örökösként érdekelt egyéb személy elismeri, vagy
 
-c) arra az örökösként érdekelt felhívás ellenére sem nyilatkozik és az igény jogossága egyéb körülményekből valószínűnek mutatkozik,
+c) arra az örökösként érdekelt felhívás ellenére sem nyilatkozik,
 
-azt a hagyatékból ki kell hagyni, egyben – az a) pontban foglalt eset kivételével – külön végzésben meg kell állapítani, hogy az házastársi vagyonközösség jogcímén a túlélő házastársat (volt házastársat), vagy együttélés alatt keletkezett vagyonközösségből őt megillető részesedés jogcímén az örökhagyó túlélő élettársát (volt élettársát) illeti; e végzés jogerőre emelkedéséig a hagyatéki eljárást a vagyontárgy tekintetében fel kell függeszteni. Ha a vagyontárgy rendelkezési jogát közhiteles nyilvántartás tartalmazza, a tulajdonjognak a házastárs (volt házastárs), illetőleg az élettárs (volt élettárs) javára történő bejegyzése iránt a hagyatékátadó végzés megküldésével nyilvántartó hatóságot meg kell keresni.
+azt a hagyatékból ki kell hagyni, egyben – az a) és b) pontban foglalt eset kivételével – külön végzésben meg kell állapítani, hogy az a házastársat (volt házastársat), illetve az élettársat (volt élettársát) illeti; e végzés jogerőre emelkedéséig a hagyatéki eljárást a vagyontárgy tekintetében fel kell függeszteni. Ha a vagyontárgy rendelkezési jogát közhiteles nyilvántartás tartalmazza, a tulajdonjognak a házastárs (volt házastárs), illetve az élettárs (volt élettárs) javára történő bejegyzése iránt a hagyatékátadó végzés megküldésével nyilvántartó hatóságot meg kell keresni.
 
 (5) Ha vagyontárgy közhiteles nyilvántartásában tulajdonosként feltüntetett személynek az örökhagyóval való azonossága kétséges, a vagyontárgy csak akkor vehető fel a hagyatékba, ha a közjegyző az azonosságot megállapítja. Ha az azonosság a hagyatéki iratokból vagy a hagyatéki eljárásban érdekeltek által felmutatott okiratból, vagy az érdekeltek nyilatkozataiból nem állapítható meg, a közjegyző az azonosság igazolása és ennek eredményeként a leltár kiegészítése érdekében a jegyzőt keresi meg. Az azonosság megállapítását a közjegyző a hagyatékátadó végzésben a nyilvántartást vezető hatósággal közli. Ez a közlés a nyilvántartást vezető hatóságot köti.

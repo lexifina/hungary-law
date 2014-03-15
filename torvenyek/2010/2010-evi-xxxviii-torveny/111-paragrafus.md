@@ -2,7 +2,7 @@
 
 (2) A közjegyző végzése ellen fellebbezéssel a gyámhatóság is élhet, ha az örökösként érdekelt
 
-a) méhmagzat, cselekvőképtelen vagy korlátozottan cselekvőképes személy,
+a) méhmagzat, cselekvőképességet érintő gondnokság alatt álló személy,
 
 b) ismeretlen helyen levő személy vagy
 

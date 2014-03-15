@@ -1,6 +1,6 @@
 29. § (1) A leltározást a vagyon fekvésének helyén a szemlére vonatkozó szabályok szerint kell elvégezni, ha
 
-a) az öröklésben érdekelt méhmagzat, cselekvőképtelen, korlátozottan cselekvőképes, ismeretlen helyen levő vagy ügyeinek vitelében akadályozott személy öröklési érdeke veszélyeztetve van,
+a) az öröklésben érdekelt méhmagzat, cselekvőképességet érintő gondnokság alatt álló, ismeretlen helyen levő vagy ügyeinek vitelében akadályozott személy öröklési érdeke veszélyeztetve van,
 
 b) örökösként csak a Magyar Állam érdekelt, vagy
 

@@ -2,4 +2,4 @@
 
 (2) Ha a közjegyzőnek hatósági megkeresésre vagy az érdekelt kérelmére kell a hagyatékban, vagy annak egy részében érvényesülő öröklési rendet igazolnia, a közjegyző a végzésnek csak az adott személyre és vagyontárgyra vonatkozó olyan kivonatát küldi meg, amely a megkeresés vagy a kérelem teljesítéséhez szükséges.
 
-(3) Ha végrendeletben az örökhagyó alapítvány létrehozásáról rendelkezett, arról a bíróságot a közjegyző értesíti. Az alapítvány nyilvántartásba vételéről a bíróság kérelem nélkül, a végrendelet tartalma alapján dönt.
+(3) Ha végrendeletben vagy öröklési szerződésben az örökhagyó alapítvány létrehozásáról rendelkezett, arról a közjegyző értesíti a bíróságot és a Polgári Törvénykönyv (a továbbiakban: Ptk.) rendelkezése szerint az alapítvány nyilvántartásba vétele iránt eljárni köteles személyt. Az alapítvány nyilvántartásba vételéről a bíróság kérelem nélkül, a végrendelet tartalma alapján dönt. A bíróság az alapítvány nyilvántartásba történő bejegyzéséről vagy a bejegyzés megtagadásáról – a határozat jogerőre emelkedése után – értesíti a közjegyzőt is.

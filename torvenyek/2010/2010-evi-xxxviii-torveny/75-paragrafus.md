@@ -1,1 +1,1 @@
-75. § A hagyatéki eljárás költségeinek megfizetésére megfelelő határidőt kell tűzni, mely az eljárást befejező végzés jogerőre emelkedésétől számított 15 napnál távolabbi nem lehet; a meg nem fizetett közjegyzői díj erejéig a hagyatékon a közjegyzőt törvényes zálogjog illeti meg.
+75. § A hagyatéki eljárás költségeinek megfizetésére megfelelő határidőt kell tűzni, mely az eljárást befejező végzés jogerőre emelkedésétől számított 15 napnál távolabbi nem lehet; a meg nem fizetett közjegyzői díjazás erejéig a hagyatékon a közjegyzőt törvényes zálogjog illeti meg.

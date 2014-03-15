@@ -6,4 +6,4 @@ b) az egyezségkötés lehetőségére és
 
 c) a közvetítői eljárás igénybevételének lehetőségére.
 
-(2) A közjegyző az özvegyi jog jogosultját és a törvényes állagörökösöket az özvegyi jog megváltásának lehetőségéről az idézésben tájékoztatja.
+(2) Ha a közjegyző rendelkezésére álló adatok alapján az örökhagyó házastársa az őt törvényes örökösként megillető haszonélvezeti jog (a továbbiakban: özvegyi jog) megváltására igényt terjeszthet elő, a közjegyző az özvegyi jog jogosultját és a törvényes állagörökösöket az özvegyi jog megváltásának lehetőségéről az idézésben tájékoztatja.

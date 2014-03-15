@@ -22,9 +22,9 @@ a) öröklési érdeke veszélyeztetve van és
 
 aa) méhmagzat,
 
-ab) cselekvőképtelen, valamint korlátozottan cselekvőképes kiskorú,
+ab) cselekvőképességet érintő gondnokság alatt álló kiskorú,
 
-ac) cselekvőképtelen vagy korlátozottan cselekvőképes nagykorú,
+ac) cselekvőképességet érintő gondnokság alatt álló nagykorú,
 
 ad) ismeretlen helyen lévő személy,
 

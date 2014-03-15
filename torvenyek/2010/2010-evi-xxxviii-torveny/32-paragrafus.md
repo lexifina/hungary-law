@@ -6,7 +6,7 @@ a) bírósági letétbe helyezését,
 
 b) hatósági vagy közjegyzői letétbe vételét (az elrendelő személyének megfelelően),
 
-c) felelős őrzésre birtokba adását (birtokban hagyását),
+c) birtokba adását (birtokban hagyását),
 
 d) a zárlatát, szükség esetén zár alá vétellel – ha e törvény másképp nem rendelkezik – a bírósági végrehajtásról szóló törvényben szereplő zárlat szabályainak és a zárgondnokra vonatkozó szabályoknak a megfelelő alkalmazásával,
 
@@ -22,7 +22,7 @@ fc) kezelésük, tárolásuk, illetve őrzésük – különösen a vagyontárgy
 
 fd) értékük az előreláthatólag hosszú ideig tartó tárolás miatt jelentősen csökkenne.
 
-(2) Ha a leltár szerint a hagyatékban a gazdasági társaságokról szóló törvényben vagy a szövetkezetekről szóló törvényben meghatározott társasági, illetve szövetkezeti részesedés van, – amíg a leltárt meg nem küldték a közjegyzőnek, a jegyző, azt követően – a közjegyző biztosítási intézkedésként a tagsági (szövetkezeti) jogok gyakorlására a társaság (szövetkezet) vagy a működésében érintett más személy, szervezet indokolt kérelmére ügygondnokot rendelhet ki, ha az intézkedés nyilvánvalóan a társasági (szövetkezeti) vagyon megóvása vagy a társaság (szövetkezet) működésének biztosítása érdekében szükséges. Az ügygondnok vagyoncsökkenést eredményező határozat hozatalát a szavazatával nem támogathatja és a hagyaték terhére vagyoni kötelezettségeket nem vállalhat, kivéve, ha ezzel az érintett társaságot (szövetkezetet) és az örökösként érdekeltet nyilvánvaló károsodástól óvja meg.
+(2) Ha a leltár szerint a hagyatékban a Ptk. gazdasági társaságokra és szövetkezetekre vonatkozó rendelkezéseiben meghatározott társasági, illetve szövetkezeti részesedés van, – amíg a leltárt meg nem küldték a közjegyzőnek, a jegyző, azt követően – a közjegyző biztosítási intézkedésként a tagsági (szövetkezeti) jogok gyakorlására a társaság (szövetkezet) vagy a működésében érintett más személy, szervezet indokolt kérelmére ügygondnokot rendelhet ki, ha az intézkedés nyilvánvalóan a társasági (szövetkezeti) vagyon megóvása vagy a társaság (szövetkezet) működésének biztosítása érdekében szükséges. Az ügygondnok vagyoncsökkenést eredményező határozat hozatalát a szavazatával nem támogathatja és a hagyaték terhére vagyoni kötelezettségeket nem vállalhat, kivéve, ha ezzel az érintett társaságot (szövetkezetet) és az örökösként érdekeltet nyilvánvaló károsodástól óvja meg.
 
 (3) Ha a leltár szerint a hagyatékban követelés van, annak behajtására az öröklésben érdekelt kérelmére a közjegyző ügygondnokot rendelhet ki.
 
@@ -30,4 +30,4 @@ fd) értékük az előreláthatólag hosszú ideig tartó tárolás miatt jelent
 
 (5) A (2)–(4) bekezdésekben meghatározott ügygondnok csak akkor rendelhető ki, ha az eljárásának előrelátható díját és költségeit a kérelmező – a hagyatéki eljárás költségeitől függetlenül – megelőlegezi és viseli.
 
-(6) Végrendeleti öröklés esetében az (1)–(5) bekezdésben foglaltakat csak akkor lehet alkalmazni, ha az adott tevékenységet nem végrendeleti végrehajtó látja el.
+(6) Végrendeleti öröklés esetében az (1)–(5) bekezdésben foglaltakat csak akkor lehet alkalmazni, ha az adott tevékenységet nem végrendeleti végrehajtó vagy a Ptk. rendelkezése szerint az alapítvány nyilvántartásba vétele iránt eljárni köteles személy látja el.

@@ -1,0 +1,3 @@
+102/A. § (1) Ha az öröklési bizonyítvány kiállítása után hagyaték átadására kerül sor, a közjegyző teljes hatályú hagyatékátadó végzésének, az ideiglenes hatályú hagyatékátadó végzés teljes hatályúvá válását megállapító végzésének, valamint az ideiglenes hagyatékátadó végzéssel érintett valamennyi igénynek a bíróság általi elbírálása folytán – a teljes hatályú hagyatékátadó végzés meghozatala helyett – hozott a hagyatéki eljárást befejező végzésének jogerőre emelkedésével az öröklési bizonyítvány hatályát veszti; erre – ha a közjegyzőnek az öröklési bizonyítványról tudomása van – a végzésben utalni kell.
+
+(2) Az öröklési bizonyítvány hatályvesztése nem érinti a közjegyzőnek az öröklési bizonyítványhoz a 102. § (5) bekezdése szerinti kötöttségét.

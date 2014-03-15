@@ -2,10 +2,10 @@
 
 a) méhmagzat,
 
-b) cselekvőképtelen, valamint korlátozottan cselekvőképes kiskorú,
+b) cselekvőképességet érintő gondnokság alatt álló kiskorú,
 
-c) cselekvőképtelen vagy korlátozottan cselekvőképes nagykorú,
+c) cselekvőképességet érintő gondnokság alatt álló nagykorú,
 
 d) törvényes képviselővel vagy meghatalmazottal nem rendelkező, ismeretlen helyen tartózkodó vagy az ügyeinek vitelében más okból akadályozott természetes személy.
 
-(2) A gyámhatóság az (1) bekezdésben meghatározott esetekben gyámot, gondnokot, illetve eseti gondnokot rendel ki, és erről a közjegyzőt értesíti.
+(2) A gyámhatóság az (1) bekezdésben meghatározott esetekben gyámot, gondnokot, illetve eseti gyámot vagy eseti gondnokot rendel ki, és erről a közjegyzőt értesíti.
