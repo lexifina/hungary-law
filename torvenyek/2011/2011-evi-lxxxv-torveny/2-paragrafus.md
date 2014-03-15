@@ -12,7 +12,7 @@
 
 4. belföld: a Magyarország területe, ideértve a vámszabad és tranzitterületeket, valamint a vámszabad raktárakat is;
 
-5. bérgyártás: a megrendelő (bérgyártató) által a Magyarországon letelepedett természetes, vagy jogi személy, jogi személyiséggel nem rendelkező gazdasági társaság (a továbbiakban együtt: bérgyártó) részére ellenszolgáltatás nélkül – részben, vagy egészben – rendelkezésére bocsátott anyagokból, félkész termékekből ellenszolgáltatás ellenében termékdíjköteles termék előállítása;
+5. bérgyártás: a megrendelő (bérgyártató) által a Magyarországon letelepedett természetes, vagy jogi személy (a továbbiakban együtt: bérgyártó) részére ellenszolgáltatás nélkül – részben, vagy egészben – rendelkezésére bocsátott anyagokból, félkész termékekből ellenszolgáltatás ellenében termékdíjköteles termék előállítása;
 
 6. csekély mennyiségű csomagolást forgalomba hozó vagy saját célra felhasználó kötelezett: legfeljebb tárgyévi
 
@@ -65,6 +65,8 @@ c) végfelhasználó vevőtől csomagolószer hulladékának hajléktalan-ellát
 a) belföldi ingyenes vagy visszterhes átruházása, ideértve a más termék tartozékaként vagy alkotórészeként való átruházását és a csomagolószer csomagolás részekénti átruházását,
 
 b) belföldön gazdasági céllal letelepedett vagy belföldön nyilvántartásba vett kötelezett általi átruházása, ha a külföldön küldeményként vagy a fuvarozásra feladott termék a küldeményként való megérkezésekor, vagy a fuvarozás befejezésekor belföldön van.
+
+14a. gazdálkodó szervezet: a polgári perrendtartásról szóló törvényben meghatározott gazdálkodó szervezet;
 
 15. harmadik ország: az Európai Közösségen kívüli állam;
 
