@@ -10,6 +10,6 @@
 
 (3) A jegyzőkönyv átadásakor a bérbe adó köteles a bérlő rendelkezésére bocsátani a gépjármű forgalmi engedélyét, javítási könyvét és a gépjármű használatához szükséges egyéb iratokat (menetlevelet stb.).
 
-(4)[^14]
+(4)[^17]
 
-[^14]: A 27. § (4) bekezdését a 88/1990. (IV. 30.) MT rendelet 2. számú melléklete hatályon kívül helyezte.
+[^17]: A 27. § (4) bekezdését a 88/1990. (IV. 30.) MT rendelet 2. számú melléklete hatályon kívül helyezte.

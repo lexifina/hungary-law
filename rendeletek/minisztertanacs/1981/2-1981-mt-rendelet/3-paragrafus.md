@@ -1,5 +1,5 @@
-## 2. §[^3] Az árutovábbítási szerződés okmányairól (fuvarlevél, menetlevél stb.) külön jogszabály rendelkezik.
+## 2. §[^4]
 
 ## Keretszerződés
 
-[^3]: A 2. § a 88/1990. (IV. 30.) MT rendelet 1. számú mellékletének 8/b. pontjával megállapított szöveg.
+[^4]: A 2. §-t és az azt megelőző alcímet az 53/2014. (III. 3.) Korm. rendelet 2. § (2) bekezdés a) pontja hatályon kívül helyezte.

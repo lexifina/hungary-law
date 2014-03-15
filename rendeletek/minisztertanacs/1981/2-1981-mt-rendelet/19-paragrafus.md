@@ -1,4 +1,4 @@
-## 18. §[^13]
+## 18. §[^15]
 
 ## A darabáru-küldemény átvétele
 
@@ -6,4 +6,4 @@
 
 (2) Ha a fuvarozó szerződéskötési kötelezettsége ellenére a küldeményt nem veszi át, vagy a megrendelést visszautasítja, köteles a fuvaroztató ebből eredő tényleges kárát megtéríteni.
 
-[^13]: A 18. §-t a 277/2001. (XII. 22.) Korm. rendelet 12. § (1) bekezdésének b) pontja, a 18. §-t megelőző alcímet a 118/2008. (V. 8.) Korm. rendelet 1. § 1512. pontja hatályon kívül helyezte.
+[^15]: A 18. §-t a 277/2001. (XII. 22.) Korm. rendelet 12. § (1) bekezdésének b) pontja, a 18. §-t megelőző alcímet a 118/2008. (V. 8.) Korm. rendelet 1. § 1512. pontja hatályon kívül helyezte.
