@@ -108,4 +108,6 @@ uc) jelentős környezetszennyezés következik be,
 
 ud) a hajóút teljesen vagy a víziközlekedést akadályozó módon részlegesen elzáródik,
 
-ue) az úszólétesítmény a víziút műtárgyait vagy a víziutat keresztező műtárgyakat megrongálja, vagy azok üzemképességüket részlegesen vagy teljesen elvesztik.
+ue) az úszólétesítmény a víziút műtárgyait vagy a víziutat keresztező műtárgyakat megrongálja, vagy azok üzemképességüket részlegesen vagy teljesen elvesztik;
+
+v) gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet.

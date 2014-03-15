@@ -2,7 +2,7 @@
 
 13. § (1) A vizsgálóbizottság tagja, illetve szakmai kivizsgáló nem lehet az, aki
 
-a) érintett a közlekedési balesetben vagy az egyéb közlekedési eseményben, valamint annak közeli hozzátartozója [Ptk. 685. § b) pont],
+a) érintett a közlekedési balesetben vagy az egyéb közlekedési eseményben, valamint annak közeli hozzátartozója [Ptk. 8:1. § (1) bekezdés 1. pont],
 
 b) eljárt a közlekedési baleset vagy az egyéb közlekedési esemény tárgyában indult más hatósági, szabálysértési vagy büntetőeljárásban, továbbá
 

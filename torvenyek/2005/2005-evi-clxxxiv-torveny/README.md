@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2005-184-00-00
 | 2012-08-01 | 2012. évi XCIV. törvény | 2005-184-00-00.12 |
 | 2012-08-07 | 2012. évi CXIX. törvény | 2005-184-00-00.13 |
 | 2013-04-01 | 2013. évi XXIII. törvény | 2005-184-00-00.14 |
+| 2014-03-15 | 2013. évi CCLII. törvény | 2005-184-00-00.15 |
