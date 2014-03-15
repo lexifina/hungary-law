@@ -1,6 +1,6 @@
 ## 3. § Ez a rendelet 1990. január 1. napján lép hatályba, egyidejűleg a 23/1975. (XI. 5.) MÉM rendelet hatályát veszti.
 
-## Melléklet a 15/1989. (X. 8.) MÉM rendelethez[^6]
+## Melléklet a 15/1989. (X. 8.) MÉM rendelethez[^7]
 
 ## ERDÉSZETI BIZTONSÁGI SZABÁLYZAT
 
@@ -14,7 +14,7 @@
 
 ## b) az erdészeti tevékenység biztonságos végzésének munkahelyi paramétereit (elsősorban a megengedett lejtfokot, terepegyenetlenséget, különböző lejtésű terepen a traktor tengelye és az esésvonal közötti legnagyobb szögeltérést);
 
-## c)[^7] a viperaveszélyes, valamint a fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerve, illetve annak megyei intézete által a kullancs terjesztette agyhártyagyulladás vírusgócként nyilvántartott körzeteket;
+## c)[^8] a viperaveszélyes, valamint a fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerve, illetve annak megyei intézete által a kullancs terjesztette agyhártyagyulladás vírusgócként nyilvántartott körzeteket;
 
 ## d) az erdészeti tevékenység keretében végzett szaporítóanyag-gyűjtéshez, valamint a lakott területi fakitermeléshez használható felszerelést, ezek műszaki paramétereit, a technológiát, valamint a védőruházatot, továbbá a szaporítóanyag-gyűjtéshez előírt felszerelések ellenőrzéséért felelős személyt, az ellenőrzés módját, gyakoriságát eszközönkénti bontásban;
 
@@ -44,7 +44,7 @@
 
 ## Erdészeti tevékenységekben erőgépek és munkagépek vezetésével, illetve kezelésével csak a 18. életévét betöltött férfi dolgozó bízható meg. A 22 kW-nál kisebb teljesítményű traktorokat, azonban nők és a 18. évnél fiatalabb erdészeti szakmunkás képesítéssel rendelkező dolgozók is vezethetik.
 
-## 1.7.[^8] Az erdészeti tevékenységet végző dolgozókat tájékoztatni kell a kullancscsípés elleni védekezés, illetve a kullancsnak a bőrből való eltávolításának módjáról.
+## 1.7.[^9] Az erdészeti tevékenységet végző dolgozókat tájékoztatni kell a kullancscsípés elleni védekezés, illetve a kullancsnak a bőrből való eltávolításának módjáról.
 
 ## A kullancs terjesztette agyhártyagyulladás vírusgócaként nyilvántartott körzeteket a dolgozókkal ismertetni kell és az ott munkát végző állandó és időszakos szerződéses, szellemi és fizikai dolgozók védőoltását – az népegészségügyi szakigazgatási szervvel egyeztetett ütemezésben – meg kell szervezni. A vírusgócokban március 1. és október 31. között a védőoltásban – beleértve az emlékeztető oltást is – részesülteket, akik ezt oltási bizonyítvánnyal igazolni tudják alkalmazáskor előnyben kell részesíteni. A be nem oltott dolgozókat figyelmeztetni kell az oltás nélkül végzett munka veszélyeire.
 
@@ -76,7 +76,7 @@
 
 ## 1.15. A változó és szabadtéri munkahelyek szociális létesítményeire külön jogszabály rendelkezései az irányadók.
 
-## 1.16. Az erdészeti vegyszeres munkát végzőkkel szemben támasztott egészségügyi és szakképesítési követelményeket, a munkák irányításának és ellenőrzésének módját, az anyagok tárolásáért és kezeléséért és kiadásáért felelős személyek kijelölését, az egyes szerekre és a velük végzett tevékenységekre vonatkozó munkavédelmi szabályokat a növényvédelmi munkákra vonatkozó jogszabályok alapján kell meghatározni.[^9]
+## 1.16. Az erdészeti vegyszeres munkát végzőkkel szemben támasztott egészségügyi és szakképesítési követelményeket, a munkák irányításának és ellenőrzésének módját, az anyagok tárolásáért és kezeléséért és kiadásáért felelős személyek kijelölését, az egyes szerekre és a velük végzett tevékenységekre vonatkozó munkavédelmi szabályokat a növényvédelmi munkákra vonatkozó jogszabályok alapján kell meghatározni.[^10]
 
 ## 1.17. Az erdészeti tevékenységet végző vállalkozókkal a megrendelőnek ismertetnie kell az EBSZ-nek a megrendelt tevékenységre vonatkozó előírásait, és ezt írásban is rögzíteni kell.
 
@@ -172,7 +172,7 @@
 
 ## 3.1. Általános előírások, a munka előkészítése
 
-## 3.1.1. A fakitermelési munkák biztonságos végzésénél – a helyi sajátosságokra jellemző – tér és időbeli rendjét, továbbá tárgyi-, személy és magatartási feltételeit – a kitermelés megkezdése előtt – a technológiai műveleti utasításokban a vonatkozó szabványelőírások[^10] figyelembevételével kell meghatározni.
+## 3.1.1. A fakitermelési munkák biztonságos végzésénél – a helyi sajátosságokra jellemző – tér és időbeli rendjét, továbbá tárgyi-, személy és magatartási feltételeit – a kitermelés megkezdése előtt – a technológiai műveleti utasításokban a vonatkozó szabványelőírások[^11] figyelembevételével kell meghatározni.
 
 ## 3.1.2. A fakitermelés megkezdése előtt a vágásvezetőnek a munkásokkal minden új vágásterületen ismertetnie kell a technológiai, műveleti utasításokban foglaltakat. A bejárás során meg kell mutatnia a vágáspászták határainak jelzését és meg kell határoznia a következő munkarendet.
 
@@ -424,7 +424,7 @@
 
 ## 4.4. A fa koronájában gallyazás és darabolás kizárólag kézi fűrésszel vagy ún. egykezes motorfűrésszel végezhető. Motoros fűrésszel a fától független állásról (pl. hidraulikus emelőkosárból) szabad gallyazási, darabolási munkát végezni.
 
-## 4.5. A koronába való feljutáshoz csak teljesen ép kötéllétra használható. Ezek műszaki állapotát, a legalább 225 kg terhelhetőséget minden új munkahelyen a szállítást követően ellenőrizni kell. Az ellenőrzésről naplót kell vezetni. A sérült és a követelményeket más okból ki nem elégítő felszerelést a munkából ki kell iktatni. A koronába való feljutás történhet biztonsági öv[^11] és mászóvas[^12] együttes alkalmazásával.
+## 4.5. A koronába való feljutáshoz csak teljesen ép kötéllétra használható. Ezek műszaki állapotát, a legalább 225 kg terhelhetőséget minden új munkahelyen a szállítást követően ellenőrizni kell. Az ellenőrzésről naplót kell vezetni. A sérült és a követelményeket más okból ki nem elégítő felszerelést a munkából ki kell iktatni. A koronába való feljutás történhet biztonsági öv[^12] és mászóvas[^13] együttes alkalmazásával.
 
 ## 4.6. A felszerelések ellenőrzéséért felelős személyt, az ellenőrzés módját, gyakoriságát, eszközönkénti bontásban a munkáltatói előírásokban kell meghatározni.
 
@@ -524,7 +524,7 @@
 
 ## 5.3.6. Csörlővel és sodronykötéllel végzett közelítéshez, a teher, illetve a feszülő kötél és a kezelő közé védőberendezést (pl. kellő szilárdságú védőrácsot, védőhálót) kell felszerelni. Az olyan gép esetében, amelyre műszaki okok miatt védőberendezés nem szerelhető fel, a munkáltatói előírásokban meg kell határozni az egyéni védelem adott esetben alkalmazandó kötelező szabályát.
 
-## 5.3.7. A csőrlőzéshez az adott munkaeszköz műszaki dokumentációjában előírt paramétereknek megfelelő sodronykötelet kell használni. A kötélcsere szükségességét a vonatkozó szabványelőírások[^13] alapján kell eldönteni.
+## 5.3.7. A csőrlőzéshez az adott munkaeszköz műszaki dokumentációjában előírt paramétereknek megfelelő sodronykötelet kell használni. A kötélcsere szükségességét a vonatkozó szabványelőírások[^14] alapján kell eldönteni.
 
 ## 5.3.8. Csörlős, sodronyköteles közelítés közben, ha a sodronykötelet terelőcsigán vezetik át, csak a terelőcsigánál irányt változtató kötél két megfeszülő szakasza által bezárt szögön kívül szabad tartózkodni. A két szár közötti szögnek legalább 90°-nak kell lennie.
 
@@ -640,13 +640,13 @@
 
 ## 5.5.23. A rakoncák és oldalfalak biztonságos rögzítésének és fellazításának a módját, sorrendjét – járműtípusonként elkülönítve – a munkáltatói előírásokban kell meghatározni.
 
-## 5.5.24. Erdei, felső- és közbenső rakodó létesítésekor – ha a közelben erősáramú szabadvezeték van – a rakodó vezeték felőli szélének a szabadvezeték szélső vezetője függőleges síkjától legalább 50 méter távolságra kell lenni. Alsórakodó létesítésekor a sarangoknak, a máglyáknak, a rakodóhelyeknek és a daruk munkaközi álláshelyeinek a szabadvezetők szélső vezetője függőleges síkjától legalább a következő három érték összegét elérő, méterben kifejezett távolságra kell lenniök: a daru legnagyobb gémkinyúlásának a kétszerese + a vezeték MSZ–1610/1 szabvány szerinti átívelési távolságának az ötszöröse + 5 méter. A daruk, a járművek és a rakomány legmagasabbra nyúló része az áramvezetőket, a legkedvezőtlenebb helyzetben és esetben sem közelíthetik meg jobban a villamosmű biztonsági övezetéről szóló rendelkezésben[^14] előírt távolságértéket.
+## 5.5.24. Erdei, felső- és közbenső rakodó létesítésekor – ha a közelben erősáramú szabadvezeték van – a rakodó vezeték felőli szélének a szabadvezeték szélső vezetője függőleges síkjától legalább 50 méter távolságra kell lenni. Alsórakodó létesítésekor a sarangoknak, a máglyáknak, a rakodóhelyeknek és a daruk munkaközi álláshelyeinek a szabadvezetők szélső vezetője függőleges síkjától legalább a következő három érték összegét elérő, méterben kifejezett távolságra kell lenniök: a daru legnagyobb gémkinyúlásának a kétszerese + a vezeték MSZ–1610/1 szabvány szerinti átívelési távolságának az ötszöröse + 5 méter. A daruk, a járművek és a rakomány legmagasabbra nyúló része az áramvezetőket, a legkedvezőtlenebb helyzetben és esetben sem közelíthetik meg jobban a villamosmű biztonsági övezetéről szóló rendelkezésben[^15] előírt távolságértéket.
 
 ## 5.5.25. Ha az alsórakodó vezeték felőli széle és az erősáramú szabadvezeték szélső vezetőjének függőleges síkja közötti távolság 50 méternél kisebb, a munkavezető köteles a rakodón dolgozók figyelmét minden műszak előtt felhívni az áramütés veszélyére.
 
 ## 5.5.26. Ha az erdei faanyagmozgatás közben – a vágásterület és a közút közötti szakaszon – az önjáró daruknak és a szállítmányoknak az erősáramú szabadvezeték alatt át kell haladniok, a 3.1.1. pont szerinti technológiai utasítás készítéséért felelős műszaki szakembernek a vezeték üzemben tartójától írásban meg kell kérdeznie, hogy a vezeték alatt áthaladó rakomány, illetve daru és a vezeték között – a balesetek megelőzése érdekében – legalább mekkora távolságnak kell lennie. Ezt a távolságelőírást a technológiai utasításban kell meghatározni. A szállító nyomvonalat a terepen úgy kell kitűzni, hogy a keresztezésben ez a különbség a mobil daru szállítás közbeni legmagasabb helyzete és a legmagasabbra rakott rakomány esetében is meglegyen. Ilyen útvonalon végzett szállítás esetében a munkavezető köteles minden műszak kezdetén közölni a tehergépkocsi és a mobil daru vezetőjével az útpályától mért maximális rakománymagasságot, azt, hogy az erősáramú szabadvezetéket hol szabad keresztezni, és azt, hogy a darut indulás előtt kötelesek a legalacsonyabb helyzetbe hozni.
 
-## 5.5.27. Az erősáramú vezetékek (villamosmű) környezetében végzett tevékenységek során figyelemmel kell lenni a villamosmű biztonsági övezetéről szóló rendelkezések[^15] betartására.
+## 5.5.27. Az erősáramú vezetékek (villamosmű) környezetében végzett tevékenységek során figyelemmel kell lenni a villamosmű biztonsági övezetéről szóló rendelkezések[^16] betartására.
 
 ## Függelékek jegyzéke
 
@@ -662,7 +662,7 @@
 
 ## Gépek:
 
-1–8.[^16] Erdészeti gépek
+1–8.[^17] Erdészeti gépek
 
 | Sz. | A gép megnevezése |  | A jogosítvány megszerzéséhez előírt szakképesítés* | Szakmai végzettség(ek), amely alapján a jogositványt – kérelemre – ki kell adni* |
 
@@ -854,14 +854,14 @@ TARTALOMJEGYZÉK
 
 5.5 Készletezés, rakodás, szállítás
 
-[^6]: A melléklet a 17/1991. (VII. 22.) FM rendelet melléklete szerint módosított szöveg.
-[^7]: A Melléklet 1.2. pont c) alpontja a 70/2013. (VII. 31.) VM rendelet 1. § a) pontja szerint módosított szöveg.
-[^8]: A Melléklet 1.7. pontja a 70/2013. (VII. 31.) VM rendelet 1. § b) pontja szerint módosított szöveg.
-[^9]: A növényvédelemről szóló 1988. évi 2. tvr. és a végrehajtására kiadott 5/1988. (IV. 26.) MÉM rendelet.
-[^10]: MSZ 14 399–80
-[^11]: MSZ 12502–1988
-[^12]: MSZ 1555–1973
-[^13]: MSZ 9745/3–79
-[^14]: 11/1984. (VIII. 22.) IpM rendelet.
+[^7]: A melléklet a 17/1991. (VII. 22.) FM rendelet melléklete szerint módosított szöveg.
+[^8]: A Melléklet 1.2. pont c) alpontja a 70/2013. (VII. 31.) VM rendelet 1. § a) pontja szerint módosított szöveg.
+[^9]: A Melléklet 1.7. pontja a 70/2013. (VII. 31.) VM rendelet 1. § b) pontja szerint módosított szöveg.
+[^10]: A növényvédelemről szóló 1988. évi 2. tvr. és a végrehajtására kiadott 5/1988. (IV. 26.) MÉM rendelet.
+[^11]: MSZ 14 399–80
+[^12]: MSZ 12502–1988
+[^13]: MSZ 1555–1973
+[^14]: MSZ 9745/3–79
 [^15]: 11/1984. (VIII. 22.) IpM rendelet.
-[^16]: A melléklet 1. számú függelékének 1–8. pontja a 83/2003. (VII. 16.) FVM rendelet 9. §-ának (3) bekezdésével megállapított szöveg. A melléklet 1. függelék 1–8. ponthoz tartozó lábjegyzete a 106/2012. (X. 11.) VM rendelet 1. § c) pontja szerint módosított szöveg.
+[^16]: 11/1984. (VIII. 22.) IpM rendelet.
+[^17]: A melléklet 1. számú függelékének 1–8. pontja a 83/2003. (VII. 16.) FVM rendelet 9. §-ának (3) bekezdésével megállapított szöveg. A melléklet 1. függelék 1–8. ponthoz tartozó lábjegyzete a 106/2012. (X. 11.) VM rendelet 1. § c) pontja szerint módosított szöveg.
