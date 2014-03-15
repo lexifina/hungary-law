@@ -80,7 +80,7 @@
 
 ## 22. a kockázat és a kárveszély viselésének módját, valamint a vagyonvédelmi előírásokat;
 
-## 23. a víziközmű-szolgáltatót terhelő, a víziközmű tulajdonos irányába fennálló kártérítési felelősségre vonatkozó rendelkezéseket;
+## 23. a víziközmű-szolgáltatót, illetve a víziközmű tulajdonost a Ptk. 6:142. §–6:152. §-a szerint terhelő kártérítési felelősségre vonatkozó sajátos rendelkezéseket;
 
 ## 24. a víziközmű vagyonbiztosításának kötelezettségére vonatkozó rendelkezéseket, a víziközmű-szolgáltató felelősségbiztosítására vonatkozó rendelkezéseket;
 

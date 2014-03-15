@@ -6,9 +6,9 @@
 
 (3) A víziközmű-szolgáltató üzletszabályzata előírhatja a közműves szennyvízmennyiség-mérő beépítését és működtetését.
 
-(4) A nem víziközműből származó víz felhasználásából keletkezett szennyvíz közműves szennyvízmennyiség-mérő működtetéséről, karbantartásáról, kalibrálásáról – az (1) bekezdésen kívüli esetben – a felhasználónak saját költségén kell gondoskodnia. A kalibrálás gyakoriságát a felek a közüzemi szerződésben határozzák meg.
+(4)[^23] A nem víziközműből származó víz felhasználásából keletkezett szennyvíz közműves szennyvízmennyiség-mérő működtetéséről, karbantartásáról, kalibrálásáról – az (1) bekezdésen kívüli esetben – a felhasználónak saját költségén kell gondoskodnia. A kalibrálás gyakoriságát a felek a közszolgáltatási szerződésben határozzák meg.
 
-(5) A szennyvíz mennyiségének mérésére csak olyan mérőeszköz alkalmazható, amely megfelel az e rendeletben foglaltaknak, és amelyhez a víziközmű-szolgáltató előzetesen hozzájárult. A méréssel történő szennyvízszolgáltatás elszámolásának feltételeit a közüzemi szerződésben rögzíteni kell.
+(5)[^24] A szennyvíz mennyiségének mérésére csak olyan mérőeszköz alkalmazható, amely megfelel az e rendeletben foglaltaknak, és amelyhez a víziközmű-szolgáltató előzetesen hozzájárult. A méréssel történő szennyvízszolgáltatás elszámolásának feltételeit a közszolgáltatási szerződésben rögzíteni kell.
 
 (6) Nem vehető figyelembe a szennyvíz mennyiségének meghatározásánál:
 
@@ -25,3 +25,6 @@ e) a házi ivóvízhálózatra a víziközmű-szolgáltató és a fogyasztó ír
 (7) Aki a felhasználási helyen keletkezett szennyvizet önálló szennyvíz-elhelyező műbe mérés nélkül vezeti, és a vizet nem kizárólag közműves ivóvízellátáshoz csatlakozva, hanem részben saját célú vízkivételi műből szerzi be, köteles a beszerzett valamennyi vízmennyiség mérésére hiteles fogyasztásmérőt működtetni, valamint a mért mennyiségekről a víziközmű-szolgáltatót rendszeresen tájékoztatni. A víziközmű-szolgáltató jogosult a mért mennyiséget ellenőrizni.
 
 (8) A víziközmű-szolgáltató a szennyvíz-törzshálózatba bocsátott szennyvíz mennyiségét és minőségét gazdálkodó szervezet esetén előzetes értesítés nélkül ellenőrizheti, amelyet az nem akadályozhat.
+
+[^23]: A 63. § (4) bekezdése az 53/2014. (III. 3.) Korm. rendelet 39. § (4) bekezdés a) pontja szerint módosított szöveg.
+[^24]: A 63. § (5) bekezdése az 53/2014. (III. 3.) Korm. rendelet 39. § (4) bekezdés a) pontja szerint módosított szöveg.

@@ -8,7 +8,7 @@ b) a szolgáltatás minősége és a szolgáltatás színvonala a jogszabályokb
 
 c) a szolgáltatást a szerződésben rögzített időpontban nem kezdi meg, vagy jogellenesen szünetelteti,
 
-d) neki felróható módon olyan fogyasztásmérőt üzemeltet, amely érvényes hitelesítéssel vagy kalibrációval nem rendelkezik, és annak hitelesítésére vagy kalibrálására jogszabály vagy szerződés a víziközmű-szolgáltatót kötelezi,
+d)[^28] olyan fogyasztásmérőt üzemeltet, amely érvényes hitelesítéssel vagy kalibrációval nem rendelkezik, és annak hitelesítésére vagy kalibrálására jogszabály vagy szerződés a víziközmű-szolgáltatót kötelezi,
 
 e) az üzletszabályzatban foglalt egyéb kötelezettségeit nem teljesíti.
 
@@ -37,3 +37,5 @@ a) megállapítja, akkor a szakértői vizsgálat elvégzésének költsége a f
 b) nem állapítja meg, akkor a szakértői vizsgálat elvégzésének költsége a víziközmű-szolgáltatót terheli.
 
 (6) A felhasználó szerződésszegését a víziközmű-szolgáltató köteles bizonyítani.
+
+[^28]: A 70. § (1) bekezdés d) pontja az 53/2014. (III. 3.) Korm. rendelet 39. § (5) bekezdés c) pontja szerint módosított szöveg.

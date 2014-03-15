@@ -14,7 +14,7 @@ b) a víziközmű-szolgáltató előzetes hozzájárulása,
 
 c) a mellékvízmérőnek a házi ivóvíz-hálózatba történő beépítéséhez a bekötési vízmérő szerinti felhasználó, valamint az ingatlan tulajdonosának hozzájárulása,
 
-d) a felhasználási hely vízfogyasztásának bekötési vízmérővel történő mérése, és közüzemi szerződés megléte, amelyhez az elkülönített vízhasználat csatlakozni kíván,
+d)[^32] a felhasználási hely vízfogyasztásának bekötési vízmérővel történő mérése, és közszolgáltatási szerződés megléte, amelyhez az elkülönített vízhasználat csatlakozni kíván,
 
 e) új elkülönített vízhasználat létesítése és a meglévő elkülönített felhasználói hely esetén a bekötési vízmérő szerinti felhasználási helynek, és a szerződni kívánó elkülönített vízhasználónak lejárt határidejű számlatartozása a víziközmű-szolgáltató felé nem lehet,
 
@@ -22,10 +22,13 @@ f) víziközmű-fejlesztési hozzájárulás fizetésére kötelezett felhaszná
 
 (5) A bekötési vízmérő szerinti felhasználó, valamint az ingatlan tulajdonosa a hozzájárulást csak az épületgépészeti rendszernek a beépítés miatt szükségessé váló jelentős átalakítási igénye esetén tagadhatja meg.
 
-(6) A mellékszolgáltatási szerződés létrejöttére, a csatlakozó vezeték kiépítésére, az ivóvízmérőre – e rendelet eltérő rendelkezése hiányában – a közüzemi szerződés létrejöttére, az ivóvíz bekötővezeték és mérési hely kialakítására, a fogyasztásmérésre, továbbá a felhasználó személyében bekövetkező változásra vonatkozó szabályait kell megfelelően alkalmazni, azzal, hogy a szerződés alatt a mellékszolgáltatási szerződést, felhasználó alatt az elkülönített vízhasználót kell érteni.
+(6)[^33] A mellékszolgáltatási szerződés létrejöttére, a csatlakozó vezeték kiépítésére, az ivóvízmérőre – e rendelet eltérő rendelkezése hiányában – a közszolgáltatási szerződés létrejöttére, az ivóvíz bekötővezeték és mérési hely kialakítására, a fogyasztásmérésre, továbbá a felhasználó személyében bekövetkező változásra vonatkozó szabályait kell megfelelően alkalmazni, azzal, hogy a szerződés alatt a mellékszolgáltatási szerződést, felhasználó alatt az elkülönített vízhasználót kell érteni.
 
 (7) A számla kibocsátásának gyakoriságát az elkülönített vízhasználó és víziközmű-szolgáltató közötti mellékszolgáltatási szerződés rögzíti.
 
 (8) A mellékszolgáltatási szerződést az elkülönített vízhasználó 30 napos határidővel, a víziközmű-szolgáltató pedig 60 napot meghaladó díjtartozás esetén további 15 napos határidővel felmondhatja. A mellékszolgáltatási szerződés felmondásáról a bekötési vízmérő felhasználóját a víziközmű-szolgáltató a felmondással egyidejűleg tájékoztatja.
 
 (9) A mellékszolgáltatási szerződés alapját képező mellékvízmérő beépítése (felszerelése), cseréje esetén, azzal egyidejűleg a mellékvízmérőt üzembe kell helyezni és az illetéktelen beavatkozás, leszerelés megakadályozása céljából plombával vagy záró bélyeggel kell ellátni. Az üzembe helyezésről, valamint a plombával vagy záró bélyeggel való ellátásról a víziközmű-szolgáltató gondoskodik. A mellékvízmérő üzembe helyezését, valamint plombával vagy záró bélyeggel való ellátását a szolgáltató üzletszabályzatában meghatározott feltételeknek megfelelő vállalkozó is elvégezheti.
+
+[^32]: A 84. § (4) bekezdés d) pontja az 53/2014. (III. 3.) Korm. rendelet 39. § (4) bekezdés a) pontja szerint módosított szöveg.
+[^33]: A 84. § (6) bekezdése az 53/2014. (III. 3.) Korm. rendelet 39. § (4) bekezdés a) pontja szerint módosított szöveg.

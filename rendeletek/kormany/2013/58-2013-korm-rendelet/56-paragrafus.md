@@ -1,4 +1,4 @@
-56. § (1) A víziközmű-szolgáltatásra a víziközmű-szolgáltató és a felhasználó közüzemi szerződést köt, amely tartalmazza:
+56. § (1)[^17] A víziközmű-szolgáltatásra a víziközmű-szolgáltató és a felhasználó közszolgáltatási szerződést köt, amely tartalmazza:
 
 a) a szerződő felek és azonosító adatai körében természetes személy esetén annak nevét, lakcímét, anyja nevét, születési helyét és idejét, jogi személy, jogi személyiséggel nem rendelkező szervezet esetén annak székhelyét, cégjegyzékszámát, adószámát, képviselőjének nevét és adatait (lakcíme, anyja neve),
 
@@ -16,8 +16,13 @@ g) a felhasználó személyében bekövetkezett változás-bejelentési kötelez
 
 h) egyéb, a szerződő felek által lényegesnek tartott feltételeket.
 
-(2) A víziközmű-szolgáltatási jogviszony a lakossági felhasználó esetében a közüzemi szerződés megkötésével vagy a víziközmű-szolgáltatás igénybevételével, a nem lakossági felhasználó esetében kizárólag a közüzemi szerződés megkötésével jön létre.
+(2)[^18] A víziközmű-szolgáltatási jogviszony a lakossági felhasználó esetében a közszolgáltatási szerződés megkötésével vagy a víziközmű-szolgáltatás igénybevételével, a nem lakossági felhasználó esetében kizárólag a közszolgáltatási szerződés megkötésével jön létre.
 
-(3) A víziközmű-szolgáltatási szerződést közműves ivóvízellátás esetén a felhasználó 60 napos határidővel felmondhatja. Ha a szerződést az ingatlant egyéb jogcímen használó mondja fel, előzetesen a tulajdonos hozzájárulását is be kell szereznie. A víziközmű-szolgáltatási szerződés felmondása nem érintheti hátrányosan az ingatlanon más felhasználó által igénybe vett közműves ivóvíz-szolgáltatást.
+(3)[^19] A közszolgáltatási szerződést közműves ivóvízellátás esetén a felhasználó 60 napos határidővel felmondhatja. Ha a szerződést az ingatlant egyéb jogcímen használó mondja fel, előzetesen a tulajdonos hozzájárulását is be kell szereznie. A víziközmű-szolgáltatási szerződés felmondása nem érintheti hátrányosan az ingatlanon más felhasználó által igénybe vett közműves ivóvíz-szolgáltatást.
 
-(4) Abban az esetben, ha közműves szennyvízelvezetésre és -tisztításra irányuló igény a Szennyezőanyag listában meghatározott anyagokat felhasználó üzem részéről merül fel, a közüzemi szerződés az illetékes vízügyi hatóság jóváhagyásával válik érvényessé.
+(4)[^20] Abban az esetben, ha közműves szennyvízelvezetésre és -tisztításra irányuló igény a Szennyezőanyag listában meghatározott anyagokat felhasználó üzem részéről merül fel, a közszolgáltatási szerződés hatályosságához az illetékes vízügyi hatóság jóváhagyása szükséges.
+
+[^17]: Az 56. § (1) bekezdés nyitó szövegrésze az 53/2014. (III. 3.) Korm. rendelet 39. § (4) bekezdés a) pontja szerint módosított szöveg.
+[^18]: Az 56. § (2) bekezdése az 53/2014. (III. 3.) Korm. rendelet 39. § (4) bekezdés c) pontja szerint módosított szöveg.
+[^19]: Az 56. § (3) bekezdése az 53/2014. (III. 3.) Korm. rendelet 39. § (4) bekezdés d) pontja szerint módosított szöveg.
+[^20]: Az 56. § (4) bekezdése az 53/2014. (III. 3.) Korm. rendelet 39. § (2) bekezdésével megállapított szöveg.

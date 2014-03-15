@@ -52,6 +52,6 @@
 
 ## 4. A működési engedély kiadásának feltétele, hogy a kérelmező a köztartozásmentes adózók nyilvántartásában szerepeljen.
 
-## A víziközmű-szolgáltatás új ellátási területre történő kiterjesztése esetén - amennyiben arra beolvadás vagy összeolvadás eredményeként kerül sor - a mutatók kiszámítása könyvvizsgáló által hitelesített, Sztv. által előírt átalakulási vagyonmérleg alapján történik.
+## A víziközmű-szolgáltatás új ellátási területre történő kiterjesztése esetén - amennyiben arra beolvadás vagy összeolvadás eredményeként kerül sor - a mutatók kiszámítása könyvvizsgáló által hitelesített, Sztv. által előírt vagyonmérleg alapján történik.
 
 5. melléklet az 58/2013. (II. 27.) Korm. rendelethez

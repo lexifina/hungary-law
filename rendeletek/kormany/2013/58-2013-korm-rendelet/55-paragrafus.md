@@ -1,14 +1,14 @@
 ## 54. § A bírság kiszabásáról a Hivatal határozatot hoz.
 
-## VI. Fejezet
+## VI. Fejezet[^14]
 
-## A KÖZÜZEMI SZERZŐDÉS RÉSZLETES SZABÁLYAI
+## A közszolgáltatási SZERZŐDÉS RÉSZLETES SZABÁLYAI
 
-## 16. A közüzemi szerződés minimális tartalmi követelményei
+## 16.[^15] A közszolgáltatási szerződés minimális tartalmi követelményei
 
 55. § (1) A víziközmű-törzshálózat mentén fekvő ingatlanoknak a víziközmű-hálózatba történő bekötését a víziközmű-szolgáltatónál az ingatlan tulajdonosa vagy egyéb jogcímen használója kezdeményezheti (igénybejelentés).
 
-(2) A víziközmű-szolgáltató és a felhasználó között létrejött közüzemi szerződés megkötése előtt a víziközmű-szolgáltató vizsgálja:
+(2)[^16] A víziközmű-szolgáltató és a felhasználó között létrejött közszolgáltatási szerződés megkötése előtt a víziközmű-szolgáltató vizsgálja:
 
 a) az adott felhasználási helyre vonatkozó írásbeli igénybejelentés meglétét,
 
@@ -21,3 +21,7 @@ c) az ingatlan tulajdonosának írásbeli hozzájárulását, ha az igénybejele
 (4) Ha a törzshálózat műszakilag nem elérhető, a víziközmű-szolgáltató az igénybejelentést elutasítja.
 
 (5) A (2) bekezdés szerinti feltételeknek megfelelő igénybejelentő részére a víziközmű-szolgáltató az igénybejelentést követő 15 napon belül megküldi szerződéses ajánlatát, amely a víziközmű-fejlesztési hozzájárulás fizetésére kötelezett felhasználó esetén tartalmazza a fizetendő fejlesztési hozzájárulás összegét. A szerződéses ajánlatban foglaltak a víziközmű-szolgáltatót a közléstől számított 30 napig kötik.
+
+[^14]: A VI. fejezet címe az 53/2014. (III. 3.) Korm. rendelet 39. § (4) bekezdés a) pontja szerint módosított szöveg.
+[^15]: A 16. alcím címe az 53/2014. (III. 3.) Korm. rendelet 39. § (4) bekezdés a) pontja szerint módosított szöveg.
+[^16]: Az 55. § (2) bekezdés nyitó szövegrésze az 53/2014. (III. 3.) Korm. rendelet 39. § (4) bekezdés a) pontja szerint módosított szöveg.

@@ -4,4 +4,6 @@
 
 (3) Ha a vízmérő mérőszerkezetének rongálása vagy a felhasználó egyéb felróható magatartása miatt az elszámolt víz mennyiségét méréssel nem lehet megállapítani, e rendelet eltérő rendelkezése hiányában az elszámolt víz mennyiségét a bekötési vízmérő térfogatárama alapján számítással kell megállapítani. Ebben az esetben az elszámolás időtartama nem haladhatja meg az évi 500 órát.
 
-(4) Érvényes közüzemi szerződés megléte mellett, szabálytalan közműhasználat esetén a szennyvíz mennyiségét e rendelet eltérő rendelkezése hiányában az ivóvízfogyasztásra elszámolt mennyiség alapján kell meghatározni.
+(4)[^29] Érvényes közszolgáltatási szerződés megléte mellett, szabálytalan közműhasználat esetén a szennyvíz mennyiségét e rendelet eltérő rendelkezése hiányában az ivóvízfogyasztásra elszámolt mennyiség alapján kell meghatározni.
+
+[^29]: A 71. § (4) bekezdése az 53/2014. (III. 3.) Korm. rendelet 39. § (4) bekezdés a) pontja szerint módosított szöveg.

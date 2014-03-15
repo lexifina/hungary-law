@@ -20,4 +20,6 @@ azért volt sikertelen, mert a posta a küldeményt, „az átvételt megtagadta
 
 (7) Az egyeztetett időpontról a lakossági felhasználónak és a víziközmű-szolgáltatónak írásban kell megállapodnia. Írásbeli megállapodás hiányában a szolgáltatás lakossági felhasználó esetén nem függeszthető fel.
 
-(8) A lakossági felhasználó – amennyiben a közüzemi ivóvíz-szolgáltatásra igényt tart – közüzemi díjtartozásának, valamint a korlátozás foganatosításával és visszaállításával kapcsolatban felmerülő díj rendezését a víziközmű-szolgáltató felé igazolni köteles. A víziközmű-szolgáltató ezen igazolás közlését követő 3 napon belül a víziközmű-szolgáltatást teljes körűen visszaállítja.
+(8)[^30] A lakossági felhasználó – amennyiben a közüzemi ivóvíz-szolgáltatásra igényt tart – közszolgáltatási díjtartozásának, valamint a korlátozás foganatosításával és visszaállításával kapcsolatban felmerülő díj rendezését a víziközmű-szolgáltató felé igazolni köteles. A víziközmű-szolgáltató ezen igazolás közlését követő 3 napon belül a víziközmű-szolgáltatást teljes körűen visszaállítja.
+
+[^30]: A 72. § (8) bekezdése az 53/2014. (III. 3.) Korm. rendelet 39. § (4) bekezdés f) pontja szerint módosított szöveg.

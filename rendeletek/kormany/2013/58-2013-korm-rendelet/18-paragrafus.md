@@ -26,7 +26,7 @@ a) a közérdekű üzemeltetőnek,
 
 b) az illetékes népegészségügyi szakigazgatási szervnek,
 
-c)[^2] az illetékes vízügyi hatóságnak,
+c)[^11] az illetékes vízügyi hatóságnak,
 
 d) az illetékes katasztrófavédelmi hatóságnak,
 
@@ -52,4 +52,4 @@ a) az elvégzett, előre nem tervezhető, halaszthatatlan víziközmű felújít
 
 b) a Hivatal által előzetesen jóváhagyott víziközmű felújítások és beruházások teljes költségét.
 
-[^2]: A 18. § (2) bekezdés c) pontja az 527/2013. (XII. 30.) Korm. rendelet 139. § a) pontja szerint módosított szöveg.
+[^11]: A 18. § (2) bekezdés c) pontja az 527/2013. (XII. 30.) Korm. rendelet 139. § a) pontja szerint módosított szöveg.

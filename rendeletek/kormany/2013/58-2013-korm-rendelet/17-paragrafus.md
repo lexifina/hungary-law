@@ -6,7 +6,7 @@
 
 (2) A víziközmű-szolgáltatói működési engedély iránti kérelemben – az (1) bekezdés szerinti kivétellel – a kérelmező nyilatkozik arra vonatkozóan, hogy az engedély megszerzése esetén vállalja-e, hogy a közérdekű üzemeltetőként kijelölhető engedélyesek lajstromába felvételre kerüljön.
 
-(3) A lajstromba nem vehető fel, vagy onnan törölni kell azt a víziközmű-szolgáltatót, aki a Hivatal nyilvántartása szerint 150 000 felhasználói egyenértéket kitevő közüzemi szerződéses kapcsolattal nem rendelkezik.
+(3)[^9] A lajstromba nem vehető fel, vagy onnan törölni kell azt a víziközmű-szolgáltatót, aki a Hivatal nyilvántartása szerint 150 000 felhasználói egyenértéket kitevő közszolgáltatási szerződéses kapcsolattal nem rendelkezik.
 
 (4) Amennyiben az ellátási területen nyújtott víziközmű-szolgáltatás tekintetében a Vksztv. 32. § (1) bekezdése szerinti körülmények bekövetkezése közvetlenül fenyeget, vagy azok bekövetkeztek, e körülményeket a víziközmű-szolgáltató és az ellátásért felelős a Hivatalnak köteles bejelenteni.
 
@@ -18,7 +18,7 @@
 
 (8) A Hivatal a közérdekű üzemeltető kijelölésére irányuló eljárást (e fejezet alkalmazásában a továbbiakban: kijelölési eljárás) a Vksztv. 32. § (1) bekezdésében meghatározott feltételek fennállása esetén a tudomásszerzést követő három munkanapon belül, hivatalból megindítja.
 
-(9)[^1] A kijelölési eljárás megindításáról a Hivatal – az ellátásért felelősön kívül – értesíti az érintett ellátási terület szerint illetékes fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szervét (a továbbiakban: népegészségügyi szakigazgatási szerv), vízügyi, valamint katasztrófavédelmi hatóságot.
+(9)[^10] A kijelölési eljárás megindításáról a Hivatal – az ellátásért felelősön kívül – értesíti az érintett ellátási terület szerint illetékes fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szervét (a továbbiakban: népegészségügyi szakigazgatási szerv), vízügyi, valamint katasztrófavédelmi hatóságot.
 
 (10) A kijelölési eljárás során a víziközmű-szolgáltatás fenntartása érdekében a Hivatal mind a víziközmű-szolgáltatót, mind az ellátásért felelőst haladéktalanul intézkedések megtételére kötelezheti, egyidejűleg kísérletet tesz a víziközmű-szolgáltatás zavartalan működésének helyreállítására.
 
@@ -42,4 +42,5 @@ e) a feladatok átvételéhez szükséges előkészület időigényét.
 
 (15) A Hivatal a közérdekű üzemeltető kijelölését szükségessé tevő, a Vksztv. 32. § (1) bekezdésében rögzített körülményeket, az addigi víziközmű-szolgáltató és az ellátásért felelős ezzel összefüggő tevékenységét a kijelölési eljárással egyidejűleg megvizsgálja, és ha jogszabálysértést állapít meg, bírságot szab ki.
 
-[^1]: A 17. § (9) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 139. § a) pontja szerint módosított szöveg.
+[^9]: A 17. § (3) bekezdése az 53/2014. (III. 3.) Korm. rendelet 39. § (4) bekezdés a) pontja szerint módosított szöveg.
+[^10]: A 17. § (9) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 139. § a) pontja szerint módosított szöveg.

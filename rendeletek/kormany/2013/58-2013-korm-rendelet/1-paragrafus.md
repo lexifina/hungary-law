@@ -46,6 +46,8 @@ bb) közműves szennyvízmennyiség-mérő: a szennyvíz mennyiségének mérés
 
 13. fogyasztással arányos díj: 1 m3 szolgáltatott ivóvízmennyiség, vagy szennyvíz-bekötővezetékbe bocsátott szennyvízmennyiség díja;
 
+13a.[^1] gazdálkodó szervezet: a víziközmű-szolgáltatásról szóló törvény szerinti gazdálkodó szervezet;
+
 14. gyermekintézmény:
 
 a) a nemzeti köznevelésről szóló törvény szerinti óvoda, általános iskola, gyógypedagógiai nevelési-oktatási intézmény, konduktív pedagógiai intézmény, és az ezekhez tartozó kollégium, ha
@@ -80,7 +82,7 @@ bb) állami vagy önkormányzati feladatok ellátására hatályos ellátási sz
 
 24. lajstrom: a közérdekű üzemeltetési feladatok ellátására önként vállalkozó víziközmű-szolgáltatókról a Magyar Energia Hivatal (a továbbiakban: Hivatal) által vezetett olyan nyilvántartás, ami tartalmazza a víziközmű-szolgáltatók nevét, székhelyét és képviselőjének nevét;
 
-25. mellékszolgáltatási szerződés: az elkülönített vízhasználatra vonatkozó közüzemi szerződés;
+25.[^2] mellékszolgáltatási szerződés: az elkülönített vízhasználatra vonatkozó közszolgáltatási szerződés;
 
 26. műszakilag elérhető: az a törzshálózat, amely a víziközmű-bekötővezeték (ivóvíz-bekötővezeték, illetve szennyvíz-bekötővezeték) kiépítésével elérhető, és az igényelt kapacitás rendelkezésre áll;
 
@@ -118,7 +120,7 @@ a) ivóvíz-szolgáltatási pont:
 
 aa) az ivóvíz-bekötővezetéknek a felhasználó felőli végpontja,
 
-ab) a víziközmű-szolgáltató által üzemeltetett törzshálózaton a közüzemi szerződésben meghatározott hely, elágazási pont vagy végpont,
+ab)[^3] a víziközmű-szolgáltató által üzemeltetett törzshálózaton a közszolgáltatási szerződésben meghatározott hely, elágazási pont vagy végpont,
 
 ac) a víziközmű-szolgáltató által üzemeltetett rendszer átadási pontja,
 
@@ -136,13 +138,13 @@ i. az ingatlanon keletkezett szennyvizet gravitációs szennyvíz törzshálóza
 
 ii. az ingatlan szennyvízeit kényszeráramoltatású szennyvíztörzshálózatba juttató rendszer esetén az átemelőszivattyú elhelyezésétől függetlenül szennyvíz beemelő szivattyújának szívócsonkja, vagy szennyvízbevezető rácsozata, vagy a vákuumszelep elhelyezkedésétől függetlenül a vákuumszelep felhasználó felöli oldala,
 
-bc) a víziközmű-szolgáltató és a felhasználó közötti közüzemi szerződésben meghatározott pont,
+bc)[^4] a víziközmű-szolgáltató és a felhasználó közötti közszolgáltatási szerződésben meghatározott pont,
 
-bd) a víziközmű-szolgáltató által üzemeltetett törzshálózaton a közüzemi szerződésben meghatározott pont,
+bd)[^5] a víziközmű-szolgáltató által üzemeltetett törzshálózaton a közszolgáltatási szerződésben meghatározott pont,
 
 be) a szennyvíz-átadó rendszerének átadási pontja;
 
-38. szolgáltatott ivóvíz: közüzemi jogviszony keretében a felhasználó részére a szolgáltatási ponton, vagy közvetlenül a víziközmű-elosztóhálózat vízvételezés céljára alkalmas szerelvényein keresztül, továbbá a szállított vízből biztosított ivóvíz;
+38.[^6] szolgáltatott ivóvíz: közszolgáltatási jogviszony keretében a felhasználó részére a szolgáltatási ponton, vagy közvetlenül a víziközmű-elosztóhálózat vízvételezés céljára alkalmas szerelvényein keresztül, továbbá a szállított vízből biztosított ivóvíz;
 
 39. tartós adathordozó: olyan informatikai eszköz, amely birtokosa számára lehetővé teszi a neki címzett adatoknak az adat céljának megfelelő ideig történő tartós tárolását és a tárolt adatok változatlan formában és tartalommal történő elektronikus megjelenítését;
 
@@ -156,10 +158,18 @@ b) kezdi meg a felszíni vizek minősége védelmének szabályairól szóló 22
 
 c) legalább 20%-kal tartósan megnöveli az e rendelet hatálybalépését megelőző időszakhoz képest a Szennyezőanyag listában meghatározott anyagok felhasználását;
 
-42. üzem: az a természetes vagy – a lakásszövetkezetek kivételével – jogi személy, illetve jogi személyiséggel nem rendelkező gazdasági társaság, aki (amely) a Szennyezőanyag listában meghatározott anyagot használ, továbbá a Szennyezőanyag listában meg nem jelölt anyagokat a küszöbérték 10%-át elérő mértékben bocsát be a közműves szennyvízelvezető műbe;
+42.[^7] üzem: az a természetes vagy – a lakásszövetkezetek kivételével – jogi személy, aki (amely) a Szennyezőanyag listában meghatározott anyagot használ, továbbá a Szennyezőanyag listában meg nem jelölt anyagokat a küszöbérték 10%-át elérő mértékben bocsát be a közműves szennyvízelvezető műbe;
 
 43. víziközmű-hálózat: az ivóvíz-törzshálózat, a szennyvízelvezető törzshálózat a kapcsolódó víziközmű rendszerelemek, a csatlakozó ivóvíz-, illetve szennyvízhálózatok, valamint az ivóvíz és a szennyvíz bekötővezetékek együttesen;
 
 44. víziközmű-szolgáltató: az a víziközmű-szolgáltatást végző gazdasági társaság, amely a Vksztv. alapján működési engedélyt kapott;
 
 45. vízzárósági próba: az épített, zártszelvényű, gravitációs elven működő folyadékszállító hálózatok minőségvizsgálatára előírt módszer.
+
+[^1]: A 1. § 13a. pontját az 53/2014. (III. 3.) Korm. rendelet 39. § (1) bekezdése iktatta be.
+[^2]: Az 1. § 25. pontja az 53/2014. (III. 3.) Korm. rendelet 39. § (4) bekezdés a) pontja szerint módosított szöveg.
+[^3]: Az 1. § 37. pont a) pont ab) alpontja az 53/2014. (III. 3.) Korm. rendelet 39. § (4) bekezdés a) pontja szerint módosított szöveg.
+[^4]: Az 1. § 37. pont b) alpont bc) alpontja az 53/2014. (III. 3.) Korm. rendelet 39. § (4) bekezdés a) pontja szerint módosított szöveg.
+[^5]: Az 1. § 37. pont b) alpont bd) alpontja az 53/2014. (III. 3.) Korm. rendelet 39. § (4) bekezdés a) pontja szerint módosított szöveg.
+[^6]: Az 1. § 38. pontja az 53/2014. (III. 3.) Korm. rendelet 39. § (4) bekezdés a) pontja szerint módosított szöveg.
+[^7]: Az 1. § 42. pontja az 53/2014. (III. 3.) Korm. rendelet 39. § (5) bekezdés a) pontja szerint módosított szöveg.
