@@ -32,4 +32,4 @@
 
 2. melléklet a 9/2007. (III. 6.) IRM rendelethez[^8]
 
-[^8]: A 2. melléklet az 54/2012. (XII. 28.) KIM rendelet 22. § (1) bekezdésével megállapított szöveg.
+[^8]: A 2. melléklet az 54/2012. (XII. 28.) KIM rendelet 22. § (1) bekezdésével megállapított, a 15/2014. (III. 12.) KIM rendelet 17. §-a szerint módosított szöveg.

@@ -46,7 +46,7 @@
 
 ## 13. Jogképesség, cselekvőképesség, törvényes képviselet, gyámság, gondnokság
 
-## 14. Születés bejelentése és anyakönyvezése (az intézeten kívüli születés bejelentése, apaság vélelme, apa adatai nélkül anyakönyvezett születések nyilvántartása, képzelt apa megállapítása, emberi reprodukciós eljárások)
+## 14. Születés bejelentése és anyakönyvezése (az intézeten kívüli születés bejelentése, apaság vélelme, képzelt szülő megállapítása, emberi reprodukciós eljárások)
 
 ## 15. Teljes hatályú apai elismerő nyilatkozat
 
