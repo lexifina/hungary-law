@@ -1,6 +1,6 @@
 1. melléklet a 2011. évi CXIII. törvényhez
 
-A honvédelemért felelős miniszter és az MNV Zrt. a 22/A. § alapján az állam nevében a következő gazdálkodó szervezetekben fennálló, állami tulajdonú részesedések felett gyakorolja a tulajdonosi jogokat:
+A honvédelemért felelős miniszter és az MNV Zrt. a 22/A. § alapján az állam nevében a következő gazdasági társaságokban fennálló, állami tulajdonú részesedések felett gyakorolja a tulajdonosi jogokat:
 
 1. HM Elektronikai, Logisztikai és Vagyonkezelő Zártkörűen Működő Részvénytársaság,
 

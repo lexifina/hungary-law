@@ -14,7 +14,7 @@ e) a helyi védelmi igazgatási szervek szakmai felügyeleti, ellenőrzési rend
 
 f) a Honvédelmi Tanács és a Kormány speciális működési feltételeinek biztosítását szolgáló szabályokat,
 
-g) a magyarországi székhelyű gazdálkodó szervezeteknek a NATO Biztonsági Beruházási Programja keretében kiírásra kerülő pályázatokon való részvételi jogosultsága feltételeit, a jogosultság megszerzésével kapcsolatos eljárás szabályait és az eljáró szervezetet, valamint a NATO vonatkozó szabályanyagának figyelembevételével a Magyarország területén kivitelezendő Biztonsági Beruházási Programok megvalósításában közreműködő belföldi és külföldi székhelyű gazdálkodó szervezetek kiválasztásának módját,
+g) a magyarországi székhelyű, a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezeteknek a NATO Biztonsági Beruházási Programja keretében kiírásra kerülő pályázatokon való részvételi jogosultsága feltételeit, a jogosultság megszerzésével kapcsolatos eljárás szabályait és az eljáró szervezetet, valamint a NATO vonatkozó szabályanyagának figyelembevételével a Magyarország területén kivitelezendő Biztonsági Beruházási Programok megvalósításában közreműködő belföldi és külföldi székhelyű, a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezetek kiválasztásának módját,
 
 h) a szövetségesi együttműködési kötelezettséghez kapcsolódó befogadó nemzeti támogatás részletes kormányzati feladatait,
 
