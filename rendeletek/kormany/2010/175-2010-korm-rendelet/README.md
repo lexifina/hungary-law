@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-175-20-
 | 2012-10-01 | 2010-175-20-22.9 | 272/2012. (IX. 28.) Korm. rendelet |
 | 2013-01-01 | 2010-175-20-22.10 | 272/2012. (IX. 28.) Korm. rendelet |
 | 2014-01-01 | 2010-175-20-22.11 | 550/2013. (XII. 30.) Korm. rendelet |
+| 2014-03-15 | 2010-175-20-22.12 | 354/2014. (XII. 29.) Korm. rendelet |

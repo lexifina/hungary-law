@@ -1,6 +1,6 @@
-## 8. §[^23]
+## 8. §[^25]
 
-9. §[^24]
+9. §[^26]
 
-[^23]: A 8. §-t a 9. § (2) bekezdése hatályon kívül helyezte.
-[^24]: A 9. § a (2) bekezdés alapján hatályát vesztette.
+[^25]: A 8. §-t a 9. § (2) bekezdése hatályon kívül helyezte.
+[^26]: A 9. § a (2) bekezdés alapján hatályát vesztette.
