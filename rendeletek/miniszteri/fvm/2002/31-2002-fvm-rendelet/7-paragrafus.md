@@ -1,3 +1,3 @@
-## 6. §[^10] A hatósági intézkedések hatályukat vesztik, ha a NÉBIH a betegség gyanúját kizárja.
+## 6. §[^11] A hatósági intézkedések hatályukat vesztik, ha a NÉBIH a betegség gyanúját kizárja.
 
-[^10]: A 6. § a 70/2013. (VII. 31.) VM rendelet 17. § e) pontja szerint módosított szöveg.
+[^11]: A 6. § a 70/2013. (VII. 31.) VM rendelet 17. § e) pontja szerint módosított szöveg.

@@ -2,9 +2,9 @@
 
 ## 1. § E rendelet alkalmazásában
 
-1. állattartó: a lófélék tartásáért felelős természetes vagy jogi személy, jogi személyiséggel nem rendelkező gazdasági társaság;
+1.[^1] állattartó: a lófélék tartásáért felelős természetes vagy jogi személy, jogi személyiséggel nem rendelkező szervezet;
 
-2.[^1] betegség megállapítása: a járási állategészségügyi és élelmiszer-ellenőrző hivatal vezetőjének (a továbbiakban: járási főállatorvos) laboratóriumi vizsgálati eredményén alapuló hatósági intézkedése;
+2.[^2] betegség megállapítása: a járási állategészségügyi és élelmiszer-ellenőrző hivatal vezetőjének (a továbbiakban: járási főállatorvos) laboratóriumi vizsgálati eredményén alapuló hatósági intézkedése;
 
 3. eset: afrikai lópestis élő vagy elhullott állatban történt megállapítása, melynek tényét hivatalosan megerősítették;
 
@@ -26,4 +26,5 @@
 
 12. afrikai lópestis fertőzöttségre gyanús az a lóféle, amely harminc napon belül érintkezhetett a betegség vírusával.
 
-[^1]: Az 1. § 2. pontja a 151/2012. (XII. 29.) VM rendelet 9. § a) pontja szerint módosított szöveg.
+[^1]: Az 1. § 1. pontja a 22/2014. (III. 14.) VM rendelet 11. §-a szerint módosított szöveg.
+[^2]: Az 1. § 2. pontja a 151/2012. (XII. 29.) VM rendelet 9. § a) pontja szerint módosított szöveg.
