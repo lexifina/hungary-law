@@ -12,6 +12,9 @@
 
 (5) A címzett köteles a küldemény átvétele céljából az értesítés kézhezvételétől számított két munkanapon belül jelentkezni, és a küldeményt a kiszolgáltatás helyén érvényes rendelkezések teljesítése után átvenni.
 
-(6) Ha a címzett a küldeményt az (5) bekezdésben megjelölt határidőn belül nem veszi át, a fuvarozó köteles az értesítést három munkanapon belül megismételni. A fuvarozó az első értesítési határidő eredménytelen eltelte után a küldemény tárolásáért díjat számíthat fel. Ha a címzett a küldeményt a második átvételi határidő letelte után sem veszi át, az átvételkor esedékes fuvardíjat nem egyenlíti ki, vagy a kiszolgáltatás egyéb akadályba ütközik, a fuvarozó köteles a feladót bizonyítható módon haladéktalanul értesíteni, és a küldeményt – nemzetközi fuvarozás esetén – a vámjogszabályok rendelkezéseinek figyelembevételével – a felelős őrzés szabályai szerint megőrizni.
+(6)[^3] Ha a címzett a küldeményt az (5) bekezdésben megjelölt határidőn belül nem veszi át, a fuvarozó köteles az értesítést három munkanapon belül megismételni. A fuvarozó az első értesítési határidő eredménytelen eltelte után a küldemény tárolásáért díjat számíthat fel. Ha a címzett a küldeményt a második átvételi határidő letelte után sem veszi át, az átvételkor esedékes fuvardíjat nem egyenlíti ki, vagy a kiszolgáltatás egyéb akadályba ütközik, a fuvarozó köteles a feladót bizonyítható módon haladéktalanul értesíteni, és a küldeményt – nemzetközi fuvarozás esetén – a vámjogszabályok rendelkezéseinek figyelembevételével – a megbízás nélküli ügyvitel szabályai szerint megőrizni.
 
-(7) A vámhivatal az átmeneti megőrzés időtartamának lejártakor köteles a vámáru értékesítéséről rendelkezni. A fuvarozó felelős őrzése eddig az időpontig terjedhet, ezt követően a vámtörvény rendelkezéseit kell a vámárura alkalmazni.
+(7)[^4] A vámhivatal az átmeneti megőrzés időtartamának lejártakor köteles a vámáru értékesítéséről rendelkezni. A fuvarozó megbízás nélküli ügyvitele eddig az időpontig terjedhet, ezt követően a vámtörvény rendelkezéseit kell a vámárura alkalmazni.
+
+[^3]: A 11. § (6) bekezdése az 53/2014. (III. 3.) Korm. rendelet 9. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^4]: A 11. § (7) bekezdése az 53/2014. (III. 3.) Korm. rendelet 9. § (1) bekezdés c) pontja szerint módosított szöveg.
