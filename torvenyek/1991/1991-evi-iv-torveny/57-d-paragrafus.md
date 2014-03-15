@@ -16,7 +16,7 @@ e) annak ténye, hogy 3 évnél fiatalabb kisgyermeket nevel-e saját háztartá
 
 f) Társadalombiztosítási Azonosító Jele (TAJ szám),
 
-g) intézkedésbe történő belépésekor a munkaerő-piaci helyzetével összefüggő következő adatokat:
+g) intézkedésbe történő belépésekor a munkaerő-piaci, társadalmi helyzetével összefüggő következő adatokat:
 
 ga) intézkedésbe történő belépés dátuma,
 
@@ -31,6 +31,14 @@ ge) a résztvevő önkéntes nyilatkozata alapján, nemzetiségének megjelölé
 gf) annak ténye, hogy tartós munkanélkülinek minősül-e,
 
 gg) annak ténye, hogy egyéb, a támogatásnyújtásnál figyelembe vett szempontból hátrányos helyzetűnek minősül-e,
+
+gh) annak ténye, hogy 18 éven aluli gyermeket nevel-e saját háztartásában,
+
+gi) annak ténye, hogy egyetlen felnőttből álló háztartásban él-e,
+
+gj) annak ténye, hogy munkanélküli háztartásban él-e,
+
+gk) annak ténye, hogy hajléktalan-e.
 
 h) az intézkedésből történő kilépésekor a munkaerő-piaci helyzetével összefüggő következő adatokat:
 

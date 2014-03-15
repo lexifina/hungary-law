@@ -6,4 +6,16 @@
 
 (4) Ha a jogosult az igényét menthető okból nem tudja érvényesíteni, az akadály megszűnésétől számított hat hónapon belül ezt akkor is megteheti, ha az elévülési idő már eltelt, vagy abból hat hónapnál kevesebb van hátra.
 
-(5) Az igény érvényesítésére irányuló írásbeli felszólítás, az igénynek a bíróság előtti érvényesítése, megegyezéssel történő módosítása, az egyezségkötés, valamint a kötelezett elismerése az elévülést megszakítja. Az elévülés megszakadása, illetőleg az elévülés megszakítását előidéző eljárás jogerős befejezése után az elévülési idő újra kezdődik. Ha az elévülést megszakító eljárás során végrehajtható határozatot hoztak, az elévülést csak a végrehajtási cselekmények szakítják meg.
+(5) Az elévülést megszakítja
+
+a) igény érvényesítésére irányuló írásbeli felszólítás,
+
+b) az igénynek a bírósági eljárásban történő érvényesítése, ha a bíróság az eljárást befejező jogerős érdemi határozatot hozott,
+
+c) az igény megegyezéssel történő módosítása,
+
+d) az egyezségkötés, és
+
+e) a kötelezett elismerése.
+
+(5a) Az elévülés megszakításától vagy az elévülést megszakító eljárás jogerős befejezésétől az elévülési idő újból kezdődik. Ha az elévülést megszakító eljárás során végrehajtható határozatot hoztak, az elévülést csak a végrehajtási cselekmények szakítják meg.

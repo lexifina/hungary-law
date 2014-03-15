@@ -10,7 +10,7 @@
 
 (5) E törvény alkalmazásában
 
-a) munkaviszony: a magyar jog hatálya alá tartozó munkaviszony, közszolgálati jogviszony, kormányzati szolgálati jogviszony, közalkalmazotti jogviszony, bírósági és igazságügyi, valamint ügyészségi szolgálati viszony, a közfoglalkoztatási jogviszony, a biztosított bedolgozói – és az 1994. június 1-jét megelőzően létesített – ezzel egy tekintet alá eső bedolgozói jogviszony, a hivatásos nevelő szülői jogviszony, a szövetkezeti tag munkaviszony jellegű munkavégzésre irányuló jogviszonya, – ide nem értve az iskolaszövetkezet nappali tagozatos tanuló, hallgató tagját –, fegyveres és rendvédelmi szervek hivatásos és szerződéses állományú tagjának szolgálati viszonya,
+a) munkaviszony: a magyar jog hatálya alá tartozó munkaviszony, közszolgálati jogviszony, kormányzati szolgálati jogviszony, közalkalmazotti jogviszony, bírósági és igazságügyi, valamint ügyészségi szolgálati viszony, a közfoglalkoztatási jogviszony, a biztosított bedolgozói – és az 1994. június 1-jét megelőzően létesített – ezzel egy tekintet alá eső bedolgozói jogviszony, a nevelőszülői foglalkoztatási jogviszony, a szövetkezeti tag munkaviszony jellegű munkavégzésre irányuló jogviszonya, – ide nem értve az iskolaszövetkezet nappali tagozatos tanuló, hallgató tagját –, fegyveres és rendvédelmi szervek hivatásos és szerződéses állományú tagjának szolgálati viszonya,
 
 b) munkavállaló: az, aki az a) pontban meghatározott munkaviszonyban áll,
 
@@ -40,7 +40,7 @@ e) kereső tevékenység: – az 1–5. pontban foglaltak figyelembevételével 
 
 3. A külön törvény alapján végzett közérdekű önkéntes tevékenység nem minősül kereső tevékenységnek.
 
-4. A külön törvény alapján nevelőszülői jogviszony keretében végzett tevékenység nem minősül kereső tevékenységnek.
+4. A külön törvény alapján a nevelőszülői foglalkoztatási jogviszony keretében végzett tevékenység nem minősül kereső tevékenységnek.
 
 5. A szociális szövetkezet tagja által a szövetkezetben végzett személyes közreműködés, akkor minősül kereső tevékenységnek, ha a személyes közreműködés ellenértékeként megszerzett bevétel meghaladja a személyi jövedelemadóról szóló törvény alapján az adómentes bevétel értékhatárát,
 
@@ -96,7 +96,9 @@ vb) az a munkaadó, aki harmadik országbeli állampolgár magyarországi foglal
 
 v) harmadik országból származó munkavállaló: az a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben meghatározott harmadik országbeli állampolgár, aki a magyar idegenrendészeti hatóságok által összevont engedélyként kiállított tartózkodási engedély birtokában jogszerűen tartózkodik Magyarország területén, és foglalkoztatásra irányuló jogviszony keretében munkát vállalhat.
 
-w) kedvezményezett: az a támogatást igénylő, aki 2014–2020 közötti programozási időszakban az Európai Szociális Alapból támogatásban részesül.
+w) kedvezményezett: az a támogatást igénylő, aki 2014–2020 közötti programozási időszakban az Európai Szociális Alapból támogatásban részesül,
+
+x) munkanélküli háztartás: az a háztartás, amelynek egyik tagja sem foglalkoztatott.
 
 (6) A törvény alkalmazásában a
 

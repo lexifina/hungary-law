@@ -8,7 +8,7 @@ a) központi foglalkoztatási, képzési és munkaerőpiaci integrációs progra
 
 b) a 18. §-ban meghatározott munkahely-teremtési támogatásra;
 
-c) a foglalkoztatáspolitikáért felelős miniszter által alapított, közfeladatot ellátó közhasznú szervezet részére – foglalkoztatási és képzési célú támogatás nyújtása érdekében – támogatás nyújtására;
+c) a foglalkoztatáspolitikáért felelős miniszter által alapított, közfeladatot ellátó közhasznú szervezet részére – foglalkoztatási és képzési célú támogatás, valamint munkaerő-piaci szolgáltatás nyújtása érdekében – támogatás nyújtására;
 
 d) foglalkoztatást elősegítő támogatások továbbfejlesztésére vonatkozó kutatások és programok támogatására;
 

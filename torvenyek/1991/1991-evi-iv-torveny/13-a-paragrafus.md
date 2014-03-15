@@ -22,4 +22,8 @@ d) az egyéni cselekvési tervre vonatkozó részletes szabályokat,
 
 e) a szolgáltatások igénybevételének, valamint e bekezdés a) pontjában meghatározott szervezetek részére történő támogatás nyújtásának feltételeit, valamint
 
-f) a szolgáltatások igénybevételének időtartama alatt a keresetpótló juttatás nyújtásának feltételeit és szabályait.
+f) a szolgáltatások igénybevételének időtartama alatt a keresetpótló juttatás nyújtásának feltételeit és szabályait,
+
+g) az állami foglalkoztatási szerv szolgáltatásait igénybe vevő vagy kérő, álláskeresőként nem nyilvántartott személyek nyilvántartásának szabályait.
+
+(5) A munkaerő-piaci programot és munkaerő-piaci szolgáltatást nyújtók szakmai támogatása a foglalkoztatáspolitikáért felelős miniszter által alapított közhasznú szervezet kedvezményezett részére továbbadási kötelezettséggel átadott szakmai támogatás nyújtásával is megvalósulhat. A szakmai támogatás továbbadásáról a foglalkoztatáspolitikáért felelős miniszter által alapított közhasznú szervezet a munkaerő-piaci programot és a munkaerő-piaci szolgáltatást nyújtóval szerződést köt. A szerződésben meg kell határozni a kedvezményezettet jogszabály, támogatói okirat, támogatási szerződés alapján terhelő kötelezettségek megtartását biztosító feltételeket.
