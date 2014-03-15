@@ -10,7 +10,7 @@ b) amennyiben a részletfizetés lehetséges, a meghatározott részletet nem, v
 
 (3) A teljesítési biztosíték érvényesítésének (2) bekezdésben foglaltakon túli eseteit a kiírási dokumentáció határozza meg.
 
-(4)[^22] A Hatóság a teljesítési biztosítékot felszabadítja, ha a Hatóság jogerős döntésével
+(4)[^24] A Hatóság a teljesítési biztosítékot felszabadítja, ha a Hatóság jogerős döntésével
 
 a) a jelentkezőt nem vette nyilvántartásba,
 
@@ -24,4 +24,4 @@ e) az árverési, pályázati eljárást végzéssel megszüntette, vagy amennyi
 
 f) a nyertes a teljes árverési, pályázati díjat megfizette.
 
-[^22]: A 18. § (4) bekezdése a 9/2013. (IX. 19.) NMHH rendelet 1. § (6) bekezdésével megállapított szöveg.
+[^24]: A 18. § (4) bekezdése a 9/2013. (IX. 19.) NMHH rendelet 1. § (6) bekezdésével megállapított szöveg.
