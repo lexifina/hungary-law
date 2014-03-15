@@ -10,7 +10,7 @@ b) a Polgári Törvénykönyvről szóló 1959. évi IV. törvény,
 
 c) a gazdasági társaságokról szóló 2006. évi IV. törvény,
 
-d) a szövetkezetekről szóló 2006. évi X. törvény,
+d)
 
 e) a termékfelelősségről szóló 1993. évi X. törvény,
 
