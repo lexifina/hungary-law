@@ -14,7 +14,7 @@ ac) a fogyasztásmérő berendezés mérőállása, valamint a mérőállás meg
 
 b) a felhasználó
 
-ba) neve, születési neve, anyja neve, születési helye és ideje természetes személy esetében, neve, cégjegyzékszáma vagy azzal egyenértékű azonosítója és adószáma jogi személy vagy a Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) általános szabályai szerint létrehozott jogalany esetében,
+ba)[^80] neve, születési neve, anyja neve, születési helye és ideje természetes személy esetében, neve, cégjegyzékszáma vagy azzal egyenértékű azonosítója és adószáma jogi személy vagy a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) általános szabályai szerint létrehozott jogalany esetében,
 
 bb) új lakóhelyének vagy székhelyének címe, tartózkodási helyének címe vagy értesítési címe,
 
@@ -38,13 +38,13 @@ f) a bejelentés kelte és
 
 g) a felhasználó vagy az (1e) bekezdés esetében a bejelentő – és új felhasználó esetében az új felhasználó – aláírása.
 
-(1c)[^80] Az új felhasználó az (1) bekezdés szerinti bejelentéshez csatolhatja a villamosenergia-vásárlási szerződés megkötésére – valamint ha az új felhasználó a hálózathasználati szerződés villamosenergia-kereskedő által történő kezelését kéri, az arra vonatkozó nyilatkozatot és a hálózathasználati szerződés megkötésére – vonatkozó felhasználói igénybejelentést.
+(1c)[^81] Az új felhasználó az (1) bekezdés szerinti bejelentéshez csatolhatja a villamosenergia-vásárlási szerződés megkötésére – valamint ha az új felhasználó a hálózathasználati szerződés villamosenergia-kereskedő által történő kezelését kéri, az arra vonatkozó nyilatkozatot és a hálózathasználati szerződés megkötésére – vonatkozó felhasználói igénybejelentést.
 
-(1d)[^81] Az (1) bekezdés szerinti bejelentés formanyomtatványon is megtehető. A villamosenergia-kereskedő az ügyfélszolgálatán formanyomtatványt tesz hozzáférhetővé az (1b) bekezdés szerinti adattartalommal, honlapján elektronikusan letölthető formátumban közzéteszi, valamint azt kérés esetén a felhasználó és az új felhasználó számára postai úton is megküldi. A formanyomtatványt a villamosenergia-kereskedő üzletszabályzata tartalmazza.
+(1d)[^82] Az (1) bekezdés szerinti bejelentés formanyomtatványon is megtehető. A villamosenergia-kereskedő az ügyfélszolgálatán formanyomtatványt tesz hozzáférhetővé az (1b) bekezdés szerinti adattartalommal, honlapján elektronikusan letölthető formátumban közzéteszi, valamint azt kérés esetén a felhasználó és az új felhasználó számára postai úton is megküldi. A formanyomtatványt a villamosenergia-kereskedő üzletszabályzata tartalmazza.
 
-(1e)[^82] A felhasználó elhalálozása esetén az elhalálozás tényét legkésőbb annak napjától számított hat hónapon belül kell a villamosenergia-kereskedő számára bejelenteni. A bejelentésnek legalább az (1b) bekezdés a) pontja, b) pont ba) alpontja, valamint d)–g) pontja szerinti adatokat kell tartalmaznia.
+(1e)[^83] A felhasználó elhalálozása esetén az elhalálozás tényét legkésőbb annak napjától számított hat hónapon belül kell a villamosenergia-kereskedő számára bejelenteni. A bejelentésnek legalább az (1b) bekezdés a) pontja, b) pont ba) alpontja, valamint d)–g) pontja szerinti adatokat kell tartalmaznia.
 
-(2)[^83] A 2. számú melléklet 13.1. pontjától eltérően, ha a felhasználó hálózathasználati szerződését megbízottként a villamosenergia-kereskedő kezeli,
+(2)[^84] A 2. számú melléklet 13.1. pontjától eltérően, ha a felhasználó hálózathasználati szerződését megbízottként a villamosenergia-kereskedő kezeli,
 
 a) a felhasználó (1) bekezdés szerinti bejelentésének tartalmaznia kell a 2. számú melléklet 13.1. pontja szerinti nyilatkozatot, és
 
@@ -64,7 +64,8 @@ b) a hálózati engedélyes helyszíni ellenőrzését megakadályozza,
 [^77]: A Vhr. 22/A. § (1) bekezdése a 252/2012. (IX. 7.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^78]: A Vhr. 22/A. § (1a) bekezdését a 252/2012. (IX. 7.) Korm. rendelet 1. §-a iktatta be.
 [^79]: A Vhr. 22/A. § (1b) bekezdését a 252/2012. (IX. 7.) Korm. rendelet 1. §-a iktatta be.
-[^80]: A Vhr. 22/A. § (1c) bekezdését a 252/2012. (IX. 7.) Korm. rendelet 1. §-a iktatta be.
-[^81]: A Vhr. 22/A. § (1d) bekezdését a 252/2012. (IX. 7.) Korm. rendelet 1. §-a iktatta be.
-[^82]: A Vhr. 22/A. § (1e) bekezdését a 252/2012. (IX. 7.) Korm. rendelet 1. §-a iktatta be.
-[^83]: A Vhr. 22/A. § (2) bekezdése a 252/2012. (IX. 7.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^80]: A Vhr. 22/A. § (1b) bekezdés b) pont ba) alpontja az 53/2014. (III. 3.) Korm. rendelet 15. § (1) bekezdése szerint módosított szöveg.
+[^81]: A Vhr. 22/A. § (1c) bekezdését a 252/2012. (IX. 7.) Korm. rendelet 1. §-a iktatta be.
+[^82]: A Vhr. 22/A. § (1d) bekezdését a 252/2012. (IX. 7.) Korm. rendelet 1. §-a iktatta be.
+[^83]: A Vhr. 22/A. § (1e) bekezdését a 252/2012. (IX. 7.) Korm. rendelet 1. §-a iktatta be.
+[^84]: A Vhr. 22/A. § (2) bekezdése a 252/2012. (IX. 7.) Korm. rendelet 2. §-ával megállapított szöveg.

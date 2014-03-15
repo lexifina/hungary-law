@@ -1,4 +1,4 @@
-84/A. §[^273] (1) Az elosztó a VET 178/L. §-a alapján a Hivatal előzetes jóváhagyásával szervezheti ki az elosztóhálózat építését, valamint az ügyfélszolgálati tevékenységét, ideértve a rendszerhasználókkal való kapcsolattartással, a számlakibocsátással és a számla ellenértékének beszedésével kapcsolatos tevékenységeket.
+84/A. §[^274] (1) Az elosztó a VET 178/L. §-a alapján a Hivatal előzetes jóváhagyásával szervezheti ki az elosztóhálózat építését, valamint az ügyfélszolgálati tevékenységét, ideértve a rendszerhasználókkal való kapcsolattartással, a számlakibocsátással és a számla ellenértékének beszedésével kapcsolatos tevékenységeket.
 
 (2) Az elosztó nem kapcsolt vállalkozásához történő kiszervezés esetében – az (1) bekezdésben foglaltakon felül – a VET 178/L. §-a alapján a Hivatal előzetes jóváhagyásával az alábbi tevékenységeket szervezheti ki:
 
@@ -24,4 +24,4 @@ j) rendszeres és rendkívüli mérőleolvasás.
 
 (3) Az elosztó az (1) és a (2) bekezdésben foglalt tevékenységek mellett a Hivatal előzetes jóváhagyásával más elosztótól vagy a földgázellátásról szóló törvény szerinti földgázelosztótól szerződés alapján, engedélyköteles tevékenységi körébe tartozó szolgáltatásokat igénybe vehet.
 
-[^273]: A Vhr. 84/A. §-át a 300/2013. (VII. 29.) Korm. rendelet 2. §-a iktatta be.
+[^274]: A Vhr. 84/A. §-át a 300/2013. (VII. 29.) Korm. rendelet 2. §-a iktatta be.

@@ -1,5 +1,5 @@
 ## (A VET XIII/A. Fejezetéhez)
 
-112/E. §[^323] Az ellenőrzési eljárás során kiszabható bírság mértéke százezer forinttól tízmillió forintig terjedhet.
+112/E. §[^324] Az ellenőrzési eljárás során kiszabható bírság mértéke százezer forinttól tízmillió forintig terjedhet.
 
-[^323]: A Vhr. 112/E. §-át a 344/2013. (IX. 27.) Korm. rendelet 2. §-a iktatta be.
+[^324]: A Vhr. 112/E. §-át a 344/2013. (IX. 27.) Korm. rendelet 2. §-a iktatta be.

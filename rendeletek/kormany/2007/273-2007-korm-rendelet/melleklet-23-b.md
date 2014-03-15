@@ -188,7 +188,7 @@
 
 ## A nyilvántartásba történő felvételt követő évtől a szociálisan rászoruló fogyasztó minden év március 31-ig köteles igazolni, hogy védettsége továbbra is fennáll.
 
-23/b. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^441]
+23/b. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^442]
 
 Kérelem fogyatékkal élő személyként a védendő fogyasztók nyilvántartásába történő
 
@@ -314,4 +314,4 @@ Orvos pecsétszáma (egészségügyi szolgáltató működési engedélyének sz
 
 Igazolom, hogy a villamos energiáról szóló 2007. évi LXXXVI. törvény egyes rendelkezéseinek végrehajtásáról szóló 273/2007. (X. 19.) Korm. rendelet (a továbbiakban: Rendelet) 33. § (1) bekezdésében foglaltak alapján az igénylő vagy a vele közös háztartásban élő személy adatai és fogyatékosságának jellege a következő:
 
-[^441]: A Vhr. 23. számú mellékletének helyébe a 20/2009. (I. 30.) Korm. rendelet 4. § (2) bekezdése alapján a 23/a. és 23/b. számú melléklet lépett. A 23/b. számú melléklet a 378/2011. (XII. 31.) Korm. rendelet 31. § (14) bekezdésével megállapított, a 95/2012. (V. 15.) Korm. rendelet 38. § szerint módosított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 23. §-át.
+[^442]: A Vhr. 23. számú mellékletének helyébe a 20/2009. (I. 30.) Korm. rendelet 4. § (2) bekezdése alapján a 23/a. és 23/b. számú melléklet lépett. A 23/b. számú melléklet a 378/2011. (XII. 31.) Korm. rendelet 31. § (14) bekezdésével megállapított, a 95/2012. (V. 15.) Korm. rendelet 38. § szerint módosított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 23. §-át.
