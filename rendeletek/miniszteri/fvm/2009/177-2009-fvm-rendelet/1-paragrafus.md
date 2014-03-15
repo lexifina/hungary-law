@@ -1,12 +1,12 @@
 ## 1. § A közigazgatási eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 94. § (2) bekezdés b) pontja alkalmazásának van helye
 
-a) ha az időszerű mezőgazdasági munkák elvégzése már nem pótolható a termőföld védelméről szóló 2007. évi CXXIX. törvény (a továbbiakban: Tfvt.) 24. § (1) bekezdés a) pontjában;
+a)[^2] ha az időszerű mezőgazdasági munkák elvégzése már nem pótolható a termőföld védelméről szóló 2007. évi CXXIX. törvény (a továbbiakban: Tfvt.) 24. § (1) bekezdés a) pont aa) és ab) alpontjában;
 
-b) a más célú hasznosítás megkezdése bejelentésének elmulasztása esetén a Tfvt. 24. § (1) bekezdés c) pontjában;
+b)[^3] a más célú hasznosítás megkezdése bejelentésének elmulasztása esetén a Tfvt. 24. § (1) bekezdés b) pont bb) alpontjában;
 
 c) a Tfvt. 56. §-ában;
 
-d)[^1]
+d)[^4]
 
 e) az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény 107. § (1) bekezdés c) pontjában, g) pontjának a 102. §-ra vonatkozóan, i) pontjában, a 107. § (3) bekezdés d) és e) pontjában, a 108. § (1) bekezdés a)–c) pontjában, e) és f) pontjában, h) és i) pontjában, k) és l) pontjában, a 108. § (2) bekezdésében, valamint a 108. § (3) bekezdésének b) pontjában;
 
@@ -26,4 +26,6 @@ l) a termőföld védelme érdekében a vizek mezőgazdasági eredetű nitrátsz
 
 meghatározott rendelkezések esetén.
 
-[^1]: Az 1. § d) pontját az Alkotmánybíróság a 12/2011. (III. 23.) AB határozatával megsemmisítette 2011. március 23. napjával.
+[^2]: Az 1. § a) pontja a 21/2014. (III. 14.) VM rendelet 31. § a) pontja szerint módosított szöveg.
+[^3]: Az 1. § b) pontja a 21/2014. (III. 14.) VM rendelet 31. § b) pontja szerint módosított szöveg.
+[^4]: Az 1. § d) pontját az Alkotmánybíróság a 12/2011. (III. 23.) AB határozatával megsemmisítette 2011. március 23. napjával.
