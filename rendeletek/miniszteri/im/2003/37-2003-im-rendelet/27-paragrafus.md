@@ -16,12 +16,12 @@ e) az ügy áttétele után visszaérkezett iratok,
 
 f) a tárgyalás tartása nélkül meghozott végzés esetén a tárgyalás tartására irányuló kérelem,
 
-g)[^16] a végrehajtás elrendelése iránti kérelem.
+g)[^22] a végrehajtás elrendelése iránti kérelem.
 
-(2)[^17] A kezdőiratot a nyilvántartásba az érkezés napján be kell jegyezni.
+(2)[^23] A kezdőiratot a nyilvántartásba az érkezés napján be kell jegyezni.
 
-(3)[^18] Az utóiratot az érkezés napján érkeztető bélyegzővel kell ellátni és a nyilvántartás megfelelő rovatában fel kell tüntetni annál az iratnál, amelyre vonatkozik.
+(3)[^24] Az utóiratot az érkezés napján érkeztető bélyegzővel kell ellátni és a nyilvántartás megfelelő rovatában fel kell tüntetni annál az iratnál, amelyre vonatkozik.
 
-[^16]: A 27. § (1) bekezdés g) pontját a 28/2010. (V. 12.) IRM rendelet 36. §-a iktatta be.
-[^17]: A 27. § (2) bekezdése a 33/2008. (XII. 31.) IRM rendelet 20. § e) pontja szerint módosított szöveg.
-[^18]: A 27. § (3) bekezdése a 33/2008. (XII. 31.) IRM rendelet 20. § d) pontja szerint módosított szöveg.
+[^22]: A 27. § (1) bekezdés g) pontját a 28/2010. (V. 12.) IRM rendelet 36. §-a iktatta be.
+[^23]: A 27. § (2) bekezdése a 33/2008. (XII. 31.) IRM rendelet 20. § e) pontja szerint módosított szöveg.
+[^24]: A 27. § (3) bekezdése a 33/2008. (XII. 31.) IRM rendelet 20. § d) pontja szerint módosított szöveg.

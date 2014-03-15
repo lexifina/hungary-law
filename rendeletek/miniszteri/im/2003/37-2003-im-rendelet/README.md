@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-37-20-0
 | 2012-01-01 | 2003-37-20-06.10 | 40/2011. (XII. 30.) KIM rendelet |
 | 2012-08-01 | 2003-37-20-06.11 | 31/2012. (VI. 29.) KIM rendelet |
 | 2013-01-01 | 2003-37-20-06.12 | 62/2009. (XII. 17.) IRM rendelet |
+| 2014-03-15 | 2003-37-20-06.13 | 21/2014. (III. 13.) KIM rendelet |

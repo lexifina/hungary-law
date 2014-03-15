@@ -18,6 +18,6 @@ f) a végintézkedés kihirdetésének idejét és
 
 g) a hagyatéki eljárás ügyszámát.
 
-(3)[^15] A kihirdetett végintézkedéseket a tárgyév hagyatéki iratainak a bírósági irattárba vagy a MOKK levéltárába való átadásakor e jegyzék egy példányával kell az irattár részére átadni.
+(3)[^21] A kihirdetett végintézkedéseket a tárgyév hagyatéki iratainak a bírósági irattárba vagy a MOKK levéltárába való átadásakor e jegyzék egy példányával kell az irattár részére átadni.
 
-[^15]: A 25. § (3) bekezdése a 62/2009. (XII. 17.) IRM rendelet 61. § (2) bekezdésével megállapított szöveg.
+[^21]: A 25. § (3) bekezdése a 62/2009. (XII. 17.) IRM rendelet 61. § (2) bekezdésével megállapított szöveg.

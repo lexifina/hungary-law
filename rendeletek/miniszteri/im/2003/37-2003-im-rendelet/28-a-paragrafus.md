@@ -1,4 +1,4 @@
-28/A. §[^22] (1) A nyilvántartásba bevezetett hagyatéki ügyben címszó az örökhagyó, minden egyéb ügyben a kérelmező, vagy kérelmezők neve.
+28/A. §[^28] (1) A nyilvántartásba bevezetett hagyatéki ügyben címszó az örökhagyó, minden egyéb ügyben a kérelmező, vagy kérelmezők neve.
 
 (2) A kezdőiratokat és a kezdőiratként kezelendő iratokat a nyilvántartás soron következő új ügyszáma alatt kell nyilvántartásba venni. Az utóiratokat a kezdőirat ügyszámánál a nyilvántartás megfelelő rovatába kell bejegyezni.
 
@@ -6,4 +6,4 @@
 
 (4) Ha kiderül, hogy az utóiratot – helytelenül – új ügyként vették nyilvántartásba, azt az ügyben érkezett kezdőirathoz (kezdőiratként kezelendő irathoz) kell utóiratként nyilvántartásba venni. A helytelenül adott új ügyszámnál a megjegyzés rovatban fel kell tüntetni, hogy az iratot melyik ügyhöz szerelték.
 
-[^22]: A 28/A. §-t a 33/2008. (XII. 31.) IRM rendelet 13. §-a iktatta be.
+[^28]: A 28/A. §-t a 33/2008. (XII. 31.) IRM rendelet 13. §-a iktatta be.
