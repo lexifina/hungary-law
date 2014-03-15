@@ -27,11 +27,3 @@ b) az európai részvénytársaságról szóló 2004. évi XLV. törvénnyel egy
 c) az európai szövetkezetről szóló 2006. évi LXIX. törvénnyel együtt az európai szövetkezet (SCE) statútumáról szóló 2003. július 22-i 1435/2003/EK tanácsi rendeletnek
 
 a végrehajtásához szükséges rendelkezéseket állapítja meg.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
