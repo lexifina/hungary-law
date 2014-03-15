@@ -1,10 +1,10 @@
-## 11. §[^23]
+## 11. §[^24]
 
-1. számú melléklet a 117/2007. (X. 10.) FVM rendelethez[^24]
+1. számú melléklet a 117/2007. (X. 10.) FVM rendelethez[^25]
 
 ## Támogatott növényegészségügyi vizsgálatokban való részvételre vonatkozó kérelem adattartalma
 
-1.[^25] Az ügyfél adatai:
+1.[^26] Az ügyfél adatai:
 
 (Azon adóigazgatási szám megjelölése, amelyre a támogatást igénylik.)
 
@@ -40,21 +40,22 @@ mikrovállalkozás: kevesebb mint 10 személyt foglalkoztat, éves forgalma és/
 
 3. Annak megjelölése, hogy a támogatást szántóföldi vagy kertészeti vagy engedélyes faiskolai vetőmagtermesztésre és/vagy szaporítóanyag-előállításra használt terület növényegészségügyi vizsgálati támogatott szolgáltatási díjainak igénybevételéhez kérik.
 
-4. Nyilatkozatok
+4.[^27] Nyilatkozatok
 
-– csőd-, felszámolási vagy végelszámolási eljárás alatt nem álló jogi személy, jogi személyiség nélküli gazdasági társaság vagy végrehajtási eljárás alatt nem álló egyéni létéről;
+– csőd-, felszámolási vagy végelszámolási eljárás alatt nem álló jogi személy, jogi személyiséggel nem rendelkező szervezet vagy végrehajtási eljárás alatt nem álló egyéni létéről;
 
 – lejárt köztartozás meglétének hiányáról;
 
 – a kérelem benyújtásakor költségvetési támogatás jogosulatlan igénybevétele miatt jogerős határozattal megállapított köztartozás fenn nem állásáról.
 
-5.[^26] Kötelezettségvállalás
+5.[^28] Kötelezettségvállalás
 
 az elvégzett vizsgálatok a terület növényegészségügyi alkalmasságának nem igazolása, továbbá a támogatási keret kimerülése esetén, az elvégzett növényegészségügyi szolgáltatás számla szerinti teljes összegét a növény- és talajvédelmi igazgatóság és a NÉBIH részére történő megfizetéséről.
 
 6. Keltezés, a kérelmező (cégszerű) aláírása
 
-[^23]: A 11. §-t a 46/2013. (VI. 3.) VM rendelet 6. §-a hatályon kívül helyezte.
-[^24]: Az 1. számú melléklet a 8/2010. (II. 4.) FVM rendelet 3. § (6) bekezdésével megállapított szöveg.
-[^25]: Az 1. számú melléklet 1. pontja a 46/2013. (VI. 3.) VM rendelet 5. § 14. pontja szerint módosított szöveg.
-[^26]: Az 1. számú melléklet 5. pontja a 46/2013. (VI. 3.) VM rendelet 5. § 5. pontja szerint módosított szöveg.
+[^24]: A 11. §-t a 46/2013. (VI. 3.) VM rendelet 6. §-a hatályon kívül helyezte.
+[^25]: Az 1. számú melléklet a 8/2010. (II. 4.) FVM rendelet 3. § (6) bekezdésével megállapított szöveg.
+[^26]: Az 1. számú melléklet 1. pontja a 46/2013. (VI. 3.) VM rendelet 5. § 14. pontja szerint módosított szöveg.
+[^27]: Az 1. számú melléklet 4. pontja a 22/2014. (III. 14.) VM rendelet 45. §-a szerint módosított szöveg.
+[^28]: Az 1. számú melléklet 5. pontja a 46/2013. (VI. 3.) VM rendelet 5. § 5. pontja szerint módosított szöveg.
