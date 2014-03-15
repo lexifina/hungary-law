@@ -10,6 +10,6 @@
 
 (5) A bírálóbizottság résztvevőit – végzett munkájukkal arányosan – a tervpályázat előkészítése és a bírálati munka során kifejtett tevékenységükért díjazásban kell részesíteni. A bírálóbizottság díjazására felhasználható keret nem haladhatja meg a tervpályázat pénzügyi fedezete (3) bekezdésben felsorolt költségekkel csökkentett összegének 25%-át.
 
-(6)[^39]
+(6)[^42]
 
-[^39]: A 20. § (6) bekezdését a 36/2014. (II. 19.) Korm. rendelet 10. § (2) bekezdése hatályon kívül helyezte.
+[^42]: A 20. § (6) bekezdését a 36/2014. (II. 19.) Korm. rendelet 10. § (2) bekezdése hatályon kívül helyezte.
