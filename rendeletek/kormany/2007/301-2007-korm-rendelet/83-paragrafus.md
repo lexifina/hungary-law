@@ -6,8 +6,8 @@
 
 (4) A kérelmező átadásáról rendelkező végzés a Dublin II. rendelet 19. cikk (1)–(2) bekezdésében, valamint 20. cikk (1) bekezdés e) pontjában foglaltakat tartalmazza.
 
-(5)[^176]
+(5)[^177]
 
 (6) A Tv. 49. § (5) bekezdése alapján tartózkodási helyként a dublini eljárás során átadásra kerülő személyek elhelyezésére szolgáló befogadó állomást kell kijelölni.
 
-[^176]: A 83. § (5) bekezdését a 290/2010. (XII. 21.) Korm. rendelet 126. § (1) bekezdés c) pontja hatályon kívül helyezte.
+[^177]: A 83. § (5) bekezdését a 290/2010. (XII. 21.) Korm. rendelet 126. § (1) bekezdés c) pontja hatályon kívül helyezte.

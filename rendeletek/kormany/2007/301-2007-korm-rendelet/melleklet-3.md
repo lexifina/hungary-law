@@ -66,6 +66,6 @@
 
 ## A nyilatkozatot nyomtatott betűvel kell kitölteni.
 
-3. melléklet a 301/2007. (XI. 9.) Korm. rendelethez[^206]
+3. melléklet a 301/2007. (XI. 9.) Korm. rendelethez[^207]
 
-[^206]: A 3. melléklet a 446/2013. (XI. 28.) Korm. rendelet 37. § b) pontjával megállapított szöveg.
+[^207]: A 3. melléklet a 446/2013. (XI. 28.) Korm. rendelet 37. § b) pontjával megállapított szöveg.

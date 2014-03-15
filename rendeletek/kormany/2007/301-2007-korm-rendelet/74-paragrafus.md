@@ -4,7 +4,7 @@
 
 (2) Az ügygondnok a személyes meghallgatásról, az arra való felkészülés módjáról, valamint annak következményeiről az elismerését kérőt tájékoztatni köteles.
 
-(3) Ha az eljárási képességgel nem rendelkező elismerését kérő törvényes képviselőjének a személyes meghallgatáson való jelenléte a tényállás tisztázását akadályozná, a menekültügyi hatóság köteles eseti gondnok kirendelését kérni.
+(3)[^165] Ha az eljárási képességgel nem rendelkező elismerését kérő törvényes képviselőjének a személyes meghallgatáson való jelenléte a tényállás tisztázását akadályozná, a menekültügyi hatóság köteles eseti gondnok vagy eseti gyám kirendelését kérni.
 
 (4) Az eljárási képességgel rendelkező családtagokat külön-külön kell meghallgatni. Ha a tényállás tisztázása érdekében szükséges, a menekültügyi hatóság a családtagokat egymás jelenlétében is meghallgatja.
 
@@ -20,7 +20,8 @@ a) a meghallgatás idejére a menekültügyi hatóság kizárólagos használat�
 
 b) az elismerését kérő személyes meghallgatáson történő megjelenéséről.
 
-(9)[^165] A meghallgatásról jegyzőkönyvet kell készíteni. Az elismerését kérőnek biztosítani kell a lehetőséget, hogy a jegyzőkönyv tartalmára észrevételeket tegyen.
+(9)[^166] A meghallgatásról jegyzőkönyvet kell készíteni. Az elismerését kérőnek biztosítani kell a lehetőséget, hogy a jegyzőkönyv tartalmára észrevételeket tegyen.
 
 [^164]: A 73. § a 290/2010. (XII. 21.) Korm. rendelet 115. §-ával megállapított szöveg.
-[^165]: A 74. § (9) bekezdését a 81/2012. (IV. 13.) Korm. rendelet 19. §-a iktatta be.
+[^165]: A 74. § (3) bekezdése a 13/2014. (I. 29.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
+[^166]: A 74. § (9) bekezdését a 81/2012. (IV. 13.) Korm. rendelet 19. §-a iktatta be.
