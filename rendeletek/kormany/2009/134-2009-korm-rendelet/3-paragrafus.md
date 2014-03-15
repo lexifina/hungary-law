@@ -1,4 +1,4 @@
-## egy éven belül elidegeníti, úgy a kamattámogatás megszűnik, és az adós köteles az addig igénybevett kamattámogatást a Ptk. 232. § (2) bekezdése szerint számított kamataival együtt visszafizetni.
+## egy éven belül elidegeníti, úgy a kamattámogatás megszűnik, és az adós köteles az addig igénybevett kamattámogatást a Ptk. szerint számított kamataival együtt visszafizetni.
 
 3. § (1) A kamattámogatás nyújtásának feltétele, hogy az igénylő(k) és az együtt költöző(k) a rendelkezésükre álló anyagi eszközöket – a korszerűsítés kivételével – az építési költség vagy a vételár kiegyenlítésére használják fel. Az igénylő(k) és az együttköltöző(k) rendelkezésére álló anyagi eszközként kell számításba venni a kamattámogatásra irányuló kérelem benyújtását megelőző 5 éven belül értékesített lakásának, illetve tulajdoni hányadának az eladási árát is, amely csökkenthető:
 

@@ -1,9 +1,9 @@
-## 13. §[^43] E rendeletnek az otthonteremtéssel összefüggő egyes kormányrendeletek módosításáról szóló 379/2012. (XII. 19.) Korm. rendelet (a továbbiakban: Módr.)
+## 13. §[^47] E rendeletnek az otthonteremtéssel összefüggő egyes kormányrendeletek módosításáról szóló 379/2012. (XII. 19.) Korm. rendelet (a továbbiakban: Módr.)
 
-a) 13. §-ával megállapított 1. § (2) bekezdés 11. pont c) alpontját, 12. és 19. pontját, 14. § (2) bekezdésével megállapított 2. § (7) bekezdését, 17. § a) pontjával megállapított 2. § (8) és (9) bekezdését, valamint 17. § c) pontjával megállapított 6. § (3) bekezdését – a Kincstár vagy bíróság által jogerősen elbírált esetek kivételével – a Módr. hatálybalépését[^44] megelőzően benyújtott kérelmekre is alkalmazni kell,
+a) 13. §-ával megállapított 1. § (2) bekezdés 11. pont c) alpontját, 12. és 19. pontját, 14. § (2) bekezdésével megállapított 2. § (7) bekezdését, 17. § a) pontjával megállapított 2. § (8) és (9) bekezdését, valamint 17. § c) pontjával megállapított 6. § (3) bekezdését – a Kincstár vagy bíróság által jogerősen elbírált esetek kivételével – a Módr. hatálybalépését[^48] megelőzően benyújtott kérelmekre is alkalmazni kell,
 
-b) 14. §-ával megállapított 2. § (2) és (7a) bekezdését valamint 17. § b) pontjával megállapított 2. § (10) bekezdését a Módr. hatálybalépését[^45] követően benyújtott kérelmekre kell alkalmazni.
+b) 14. §-ával megállapított 2. § (2) és (7a) bekezdését valamint 17. § b) pontjával megállapított 2. § (10) bekezdését a Módr. hatálybalépését[^49] követően benyújtott kérelmekre kell alkalmazni.
 
-[^43]: A 13. §-t a 379/2012. (XII. 19.) Korm. rendelet 16. §-a iktatta be.
-[^44]: A hatálybalépés időpontja 2013. január 1.
-[^45]: A hatálybalépés időpontja 2013. január 1.
+[^47]: A 13. §-t a 379/2012. (XII. 19.) Korm. rendelet 16. §-a iktatta be.
+[^48]: A hatálybalépés időpontja 2013. január 1.
+[^49]: A hatálybalépés időpontja 2013. január 1.

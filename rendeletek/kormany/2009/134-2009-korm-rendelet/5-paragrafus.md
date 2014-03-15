@@ -1,12 +1,12 @@
 5. § (1) A támogatott személyeknek az alábbi feltételeknek együttesen kell megfelelniük:
 
-a)[^25] az adósnak, adóstársnak, ezek házastársának, élettársának, bejegyzett élettársának és szülői felügyelete alatt álló kiskorú gyermekeinek, valamint az együttköltöző családtagjainak írásban tett nyilatkozata alapján a 2009. július 1-jét megelőzően hatályos jogszabályok, illetve e rendelet alapján államilag támogatott lakásépítési, -vásárlási, -bővítési, -korszerűsítési, vagy az otthonteremtési kamattámogatásról szóló 341/2011. (XII. 29.) Korm. rendelet alapján lakásépítési vagy -vásárlási célú fennálló kölcsönük (a továbbiakban együtt: államilag támogatott kölcsön) nincs, vagy
+a)[^26] az adósnak, adóstársnak, ezek házastársának, élettársának, bejegyzett élettársának és szülői felügyelete alatt álló kiskorú gyermekeinek, valamint az együttköltöző családtagjainak írásban tett nyilatkozata alapján a 2009. július 1-jét megelőzően hatályos jogszabályok, illetve e rendelet alapján államilag támogatott lakásépítési, -vásárlási, -bővítési, -korszerűsítési, vagy az otthonteremtési kamattámogatásról szóló 341/2011. (XII. 29.) Korm. rendelet alapján lakásépítési vagy -vásárlási célú fennálló kölcsönük (a továbbiakban együtt: államilag támogatott kölcsön) nincs, vagy
 
 b) ha az a) pontban szereplő személyeknek államilag támogatott kölcsönük van,
 
 ba) együttes nyilatkozatukban vállalják, hogy azt a korábbi kölcsönt folyósító hitelintézetnek az új kölcsönszerződés aláírását követő 360 napon belül visszafizetik,
 
-bb) azzal, hogy a ba) pont szerint vállalt kötelezettség nem teljesítése esetén az új kölcsön kamattámogatására való jogosultság megszűnik, és az igénybe vett kamattámogatást a folyósítás napjától a Ptk. 232. § (2) bekezdése szerinti kamatokkal együtt 30 napon belül vissza kell fizetni a központi költségvetésbe, az új kölcsönt folyósító hitelintézeten keresztül.
+bb)[^27] azzal, hogy a ba) pont szerint vállalt kötelezettség nem teljesítése esetén az új kölcsön kamattámogatására való jogosultság megszűnik, és az igénybe vett kamattámogatást a folyósítás napjától a Ptk. szerinti kamatokkal együtt 30 napon belül vissza kell fizetni a központi költségvetésbe, az új kölcsönt folyósító hitelintézeten keresztül.
 
 (2) A kamattámogatást csak olyan kölcsönszerződéshez lehet igénybe venni, amelyben a hitelező vállalja, hogy a támogatás időtartama alatt az ellenszolgáltatás mértéke e rendelet rendelkezései szerint legfeljebb az állampapírhozamnak, ennek hiányában a referenciahozamnak a 110%-a, növelve 3 százalékponttal.
 
@@ -46,4 +46,5 @@ a) amelyeket a közzététel naptári hónapját követő hónap első napját k
 
 b) amelyek esetében az ellenszolgáltatás a közzététel naptári hónapját követő hónap első napját követően megváltozik.
 
-[^25]: Az 5. § (1) bekezdés a) pontja az 537/2013. (XII. 30.) Korm. rendelet 51. § e) pontja szerint módosított szöveg.
+[^26]: Az 5. § (1) bekezdés a) pontja az 537/2013. (XII. 30.) Korm. rendelet 51. § e) pontja szerint módosított szöveg.
+[^27]: Az 5. § (1) bekezdés b) pont bb) alpontja a 80/2014. (III. 14.) Korm. rendelet 21. §-a szerint módosított szöveg.

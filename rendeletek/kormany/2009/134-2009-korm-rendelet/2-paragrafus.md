@@ -56,9 +56,9 @@ c) amely a kölcsönkérelem benyújtását megelőzően több mint két éve ö
 
 (10)[^23] A (7a) bekezdés szerinti nyilatkozatot mind az építtető (vásárló), mind az eltartott köteles aláírni.
 
-(11) Ha a támogatott személy a kamattámogatással épített, vásárolt, korszerűsített lakását
+(11)[^24] Ha a támogatott személy a kamattámogatással épített, vásárolt, korszerűsített lakását
 
-a)[^24] építés esetén a használatbavételi engedély kiadásától vagy a használatbavétel tudomásulvételétől számított,
+a)[^25] építés esetén a használatbavételi engedély kiadásától vagy a használatbavétel tudomásulvételétől számított,
 
 b) vásárlás esetén a tulajdonjog ingatlan-nyilvántartásban történő bejegyzésétől számított,
 
@@ -72,4 +72,5 @@ c) korszerűsítés esetén a korszerűsítési munkák befejezésétől számí
 [^21]: A 2. § (8) bekezdése a 379/2012. (XII. 19.) Korm. rendelet 17. § a) pontja szerint módosított szöveg.
 [^22]: A 2. § (9) bekezdése a 379/2012. (XII. 19.) Korm. rendelet 17. § a) pontja szerint módosított szöveg.
 [^23]: A 2. § (10) bekezdése a 379/2012. (XII. 19.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
-[^24]: A 2. § (11) bekezdés a) pontja a 128/2013. (IV. 30.) Korm. rendelet 9. § c) pontja szerint módosított szöveg.
+[^24]: A 2. § (11) bekezdés záró szövegrésze a 80/2014. (III. 14.) Korm. rendelet 21. §-a szerint módosított szöveg.
+[^25]: A 2. § (11) bekezdés a) pontja a 128/2013. (IV. 30.) Korm. rendelet 9. § c) pontja szerint módosított szöveg.
