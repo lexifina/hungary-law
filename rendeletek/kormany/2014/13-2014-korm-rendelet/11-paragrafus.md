@@ -1,0 +1,3 @@
+## 10. § A rendészeti alapvizsgáról és a rendészeti szakvizsgáról, a Rendészeti Alap- és Szakvizsga Bizottságról, valamint a rendészeti alapvizsga vizsgabiztosi és a rendészeti szakvizsga vizsgabizottsági névjegyzékről szóló 274/2012. (IX. 28.) Korm. rendelet 21. § (1) bekezdésben a „közeli hozzátartozójának [a Polgári Törvénykönyvről szóló 1959. évi IV. törvény 685. § b) pont]” szövegrész helyébe a „Polgári Törvénykönyv szerinti hozzátartozójának” szöveg lép.
+
+## 11. A gyermek születése esetén az apát megillető munkaidő-kedvezménnyel összefüggő költségek megtérítéséről szóló 305/2002. (XII. 27.) Korm. rendelet hatályon kívül helyezése
