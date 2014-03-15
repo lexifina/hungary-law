@@ -2,7 +2,7 @@
 
 8. § (1) A genetikai mintavétel előtt – függetlenül a genetikai adat kezelésének céljától – a rendelkezésre jogosult részletes tájékoztatáson alapuló, írásban rögzített beleegyezése szükséges.
 
-(2) A korlátozottan cselekvőképes személy törvényes képviselője beleegyezésével vagy utólagos jóváhagyásával tehet az (1) bekezdés szerinti beleegyező nyilatkozatot. Az utólagos jóváhagyás megtörténtéig genetikai mintavételre nem kerülhet sor. Cselekvőképtelen személy helyett törvényes képviselője nyilatkozhat, figyelemmel a 13. § (3) és (4) bekezdéseire.
+(2) A korlátozottan cselekvőképes kiskorú és az a nagykorú személy, akinek cselekvőképességét a bíróság részlegesen úgy korlátozta, hogy a korlátozás kiterjed az egészségügyi ellátással összefüggő jogainak és a személyiségi jogainak gyakorlására, törvényes képviselője beleegyezésével vagy utólagos jóváhagyásával tehet az (1) bekezdés szerinti beleegyező nyilatkozatot. Az utólagos jóváhagyás megtörténtéig genetikai mintavételre nem kerülhet sor. Cselekvőképtelen személy helyett törvényes képviselője nyilatkozhat, figyelemmel a 13. § (3) és (4) bekezdéseire.
 
 (3) Az (1) bekezdés szerinti beleegyező nyilatkozat az alábbiakat tartalmazza:
 
@@ -36,4 +36,4 @@ d) az érintett nyilatkozatát arról, hogy a 6. § (2) és (3), valamint (7) be
 
 (7) Az érintett az (1)–(3) bekezdés szerinti beleegyezését visszavonhatja. A mintavételt követően visszavont beleegyezés esetén a 10. §-ban foglaltaknak megfelelően kell eljárni.
 
-(8) A korlátozottan cselekvőképes személy törvényes képviselője beleegyezésével vagy utólagos jóváhagyásával vonhatja vissza beleegyező nyilatkozatát. Cselekvőképtelen személy helyett törvényes képviselője nyilatkozhat.
+(8) A korlátozottan cselekvőképes kiskorú és az a nagykorú személy, akinek cselekvőképességét a bíróság részlegesen úgy korlátozta, hogy a korlátozás kiterjed az egészségügyi ellátással összefüggő jogainak és a személyiségi jogainak gyakorlására, törvényes képviselője beleegyezésével vagy utólagos jóváhagyásával vonhatja vissza beleegyező nyilatkozatát. Cselekvőképtelen személy helyett törvényes képviselője nyilatkozhat.

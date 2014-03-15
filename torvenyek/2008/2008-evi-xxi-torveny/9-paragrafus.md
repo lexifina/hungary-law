@@ -4,7 +4,7 @@
 
 (3) Az (1) és (2) bekezdés szerinti tiltakozó vagy korlátozó nyilatkozatot a cselekvőképes személy közokiratban, teljes bizonyító erejű magánokiratban vagy – amennyiben írásbeli nyilatkozatot egyáltalán nem vagy csak jelentékeny nehézséggel tudna tenni – két tanú együttes jelenlétében szóban tehet.
 
-(4) Korlátozottan cselekvőképes személy saját genetikai mintái levételének, illetve felhasználásának megtiltásáról, korlátozásáról törvényes képviselőjének közreműködése nélkül is nyilatkozhat a (3) bekezdésben foglaltak szerint.
+(4) Korlátozottan cselekvőképes kiskorú és az a nagykorú személy, akinek cselekvőképességét a bíróság részlegesen úgy korlátozta, hogy a korlátozás kiterjed az egészségügyi ellátással összefüggő jogainak és a személyiségi jogainak gyakorlására, saját genetikai mintái levételének, illetve felhasználásának megtiltásáról, korlátozásáról törvényes képviselőjének közreműködése nélkül is nyilatkozhat a (3) bekezdésben foglaltak szerint.
 
 (5) A cselekvőképtelen személy helyett törvényes képviselője nyilatkozhat a (3) bekezdésben foglaltak szerint.
 

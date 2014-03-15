@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2008-21-00-00
 | 2012-01-01 | 2011. évi CXII. törvény | 2008-21-00-00.6 |
 | 2013-01-01 | 2012. évi CCXII. törvény | 2008-21-00-00.7 |
 | 2013-07-06 | 2013. évi CXXVII. törvény | 2008-21-00-00.8 |
+| 2014-03-15 | 2013. évi CCLII. törvény | 2008-21-00-00.9 |

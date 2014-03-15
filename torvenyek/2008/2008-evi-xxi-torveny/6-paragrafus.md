@@ -8,7 +8,7 @@
 
 (2a) A humángenetikai vizsgálat típusától függően az érintettet a (2) bekezdésben foglaltakon túlmenően tájékoztatni kell:
 
-a) klinikai genetikai vizsgálat esetén az elvégzett genetikai teszt eredményéről, annak lehetséges következményeiről, valamint az érintettet és hozzátartozóit érintő genetikai kockázatról, és a betegség természetéről;
+a) klinikai genetikai vizsgálat esetén az elvégzett genetikai teszt eredményéről, annak lehetséges következményeiről, valamint az érintettet és közeli hozzátartozóit érintő genetikai kockázatról, és a betegség természetéről;
 
 b) genetikai szűrővizsgálat esetén az adott betegség lényegéről, a pozitív és negatív eredmény jelentéstartalmáról, valamint a megerősítő teszt jelentőségéről;
 
