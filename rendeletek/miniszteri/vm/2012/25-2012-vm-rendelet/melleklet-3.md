@@ -22,7 +22,7 @@
 
 | 200– | 10 |
 
-| 4 | Szervezeti tagság: a 3. mellékletben meghatározott erdészeti szakmai szervezetben meglévő legalább két éves tagság (jogi személy, vagy jogi személyiség nélküli gazdasági társaság kérelmező esetén annak képviseletére jogosult, vagy tulajdonosa esetére vonatkozóan) | két évnél kevesebb ideje fenn álló tagság | A Szervezet által a tagságról kiállított 90 napnál nem régebbi igazolás | 6 |
+| 4 | Szervezeti tagság: a 3. mellékletben meghatározott erdészeti szakmai szervezetben meglévő legalább két éves tagság (jogi személy, kérelmező esetén annak képviseletére jogosult, vagy tulajdonosa esetére vonatkozóan) | két évnél kevesebb ideje fenn álló tagság | A Szervezet által a tagságról kiállított 90 napnál nem régebbi igazolás | 6 |
 
 | legalább két éves tagság |  | 10 |
 

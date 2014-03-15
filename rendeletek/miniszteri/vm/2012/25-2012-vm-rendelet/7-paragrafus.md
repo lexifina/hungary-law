@@ -1,6 +1,6 @@
 ## 6. § A jóváhagyható támogatás összege egy ügyfél egy támogatási kérelem benyújtási időszakban beadott kérelme alapján legfeljebb 70 000 eurónak megfelelő forint, de legfeljebb 21 millió forint.
 
-7. § (1)[^8] A támogatás mértékének meghatározása erdőrészletenként, területi kategóriák megállapításán keresztül történik. Ha a 2. § a) pontja szerinti tevékenységet a 3. § (5) bekezdésének megfelelő részterületen végzik, a területi kategória meghatározásánál az erdőrészlet területe helyett a részterület területét kell figyelembe venni. Az adott erdőrészlet – az Adattárban nyilvántartott területi adatai, vagy a 3. § (5) bekezdésének megfelelő részterületének a támogatási kérelemben szereplő adatai alapján –
+7. § (1)[^9] A támogatás mértékének meghatározása erdőrészletenként, területi kategóriák megállapításán keresztül történik. Ha a 2. § a) pontja szerinti tevékenységet a 3. § (5) bekezdésének megfelelő részterületen végzik, a területi kategória meghatározásánál az erdőrészlet területe helyett a részterület területét kell figyelembe venni. Az adott erdőrészlet – az Adattárban nyilvántartott területi adatai, vagy a 3. § (5) bekezdésének megfelelő részterületének a támogatási kérelemben szereplő adatai alapján –
 
 a) az I. kategóriába tartozik, ha területe 0,3 és 1,20 hektár közé esik,
 
@@ -24,7 +24,7 @@ j) a X. kategóriába tartozik, ha területe 45,0 hektár, vagy nagyobb.
 
 (2) Az adott területi kategóriában erdőrészletenként maximálisan megítélhető támogatás mértéke az 1. melléklet szerint alakul.
 
-(3)[^9] A kifizethető támogatás összege nem haladhatja meg az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló támogatások igénybevételének általános szabályairól szóló 23/2007. (IV. 17.) FVM rendelet [a továbbiakban: 23/2007. (IV. 17.) FVM rendelet] 19. § (3) és (4) bekezdés szerinti kiadásigazoló bizonylattal igazolt kiadások 50%-át.
+(3)[^10] A kifizethető támogatás összege nem haladhatja meg az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló támogatások igénybevételének általános szabályairól szóló 23/2007. (IV. 17.) FVM rendelet [a továbbiakban: 23/2007. (IV. 17.) FVM rendelet] 19. § (3) és (4) bekezdés szerinti kiadásigazoló bizonylattal igazolt kiadások 50%-át.
 
 (4) E rendelet alkalmazásában a 2. § a) pontja szerinti tevékenység elvégzése során támogatható műveletnek minősül:
 
@@ -54,5 +54,5 @@ a) a kézzel vagy géppel végzett nyesés, nyesési anyag megsemmisítése;
 
 b) a terepi munkák erdészeti szakirányítása.
 
-[^8]: A 7. § (1) bekezdése a 13/2014. (II. 24.) VM rendelet 28. §-ával megállapított szöveg.
-[^9]: A 7. § (3) bekezdése a 122/2012. (XII. 6.) VM rendelet 5. §-ával megállapított szöveg.
+[^9]: A 7. § (1) bekezdése a 13/2014. (II. 24.) VM rendelet 28. §-ával megállapított szöveg.
+[^10]: A 7. § (3) bekezdése a 122/2012. (XII. 6.) VM rendelet 5. §-ával megállapított szöveg.
