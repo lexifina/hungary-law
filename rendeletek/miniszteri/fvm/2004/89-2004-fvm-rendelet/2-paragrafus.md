@@ -48,6 +48,9 @@
 
 23. védőanyag: az 1107/2009/EK európai parlamenti és tanácsi rendelet 2. cikk (3) bekezdés a) pontja szerinti anyag vagy készítmény;
 
-24. kölcsönhatás-fokozó: az 1107/2009/EK európai parlamenti és tanácsi rendelet 2. cikk (3) bekezdés b) pontja szerinti anyag vagy készítmény.
+24. kölcsönhatás-fokozó: az 1107/2009/EK európai parlamenti és tanácsi rendelet 2. cikk (3) bekezdés b) pontja szerinti anyag vagy készítmény;
+
+25.[^10] gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet.
 
 [^9]: A 2. § a 13/2013. (III. 6.) VM rendelet 2. §-ával megállapított szöveg.
+[^10]: A 2. § 25. pontját a 22/2014. (III. 14.) VM rendelet 29. §-a iktatta be.

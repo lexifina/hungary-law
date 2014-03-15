@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-89-20-8
 | 2013-03-14 | 2004-89-20-82.24 | 13/2013. (III. 6.) VM rendelet |
 | 2013-09-13 | 2004-89-20-82.25 | 76/2013. (IX. 10.) VM rendelet |
 | 2013-09-14 | 2004-89-20-82.26 | 74/2013. (VIII. 30.) VM rendelet |
+| 2014-03-15 | 2004-89-20-82.27 | 22/2014. (III. 14.) VM rendelet |

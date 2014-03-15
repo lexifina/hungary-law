@@ -1,12 +1,12 @@
 ## Párhuzamos behozatal
 
-20. §[^82] (1) Növényvédő szerek párhuzamos behozatalát annak kell kérelmeznie, aki az adott növényvédő szert Magyarországon ilyen formában kívánja forgalomba hozni.
+20. §[^83] (1) Növényvédő szerek párhuzamos behozatalát annak kell kérelmeznie, aki az adott növényvédő szert Magyarországon ilyen formában kívánja forgalomba hozni.
 
 (2) A párhuzamos behozatalra vonatkozó kérelemhez a 14. számú melléklet szerinti adatokat kell az engedélyező hatósághoz benyújtani.
 
 (3) Az engedélyező hatóság a (7) bekezdés szerint beszerzett és a kérelmező által benyújtott dokumentumok, valamint a referencia növényvédő szer engedélyezési dokumentumainak összevetése alapján ellenőrzi a referencia és a behozandó növényvédő szer (4) bekezdés szerinti azonosságát és közös eredetét.
 
-(4)[^83] A behozandó és a referencia növényvédő szer akkor tekinthető azonosnak és közös eredetűnek, ha
+(4)[^84] A behozandó és a referencia növényvédő szer akkor tekinthető azonosnak és közös eredetűnek, ha
 
 a) a hatóanyag és a készítmény gyártója azonos, vagy a hatóanyagot és a készítményt a gyártó engedélyével, társult vagy licencia alapján tevékenykedő vállalkozás gyártotta,
 
@@ -46,5 +46,5 @@ f) a növényvédő szer felhasználásakor a referenciatermék engedélyokirat�
 
 g) a növényvédő szer hatóanyagának latin betűkkel írt elnevezésének szerepelnie kell a csomagolóeszközön.
 
-[^82]: A 20. § a 15/2009. (III. 6.) FVM rendelet 17. §-ával megállapított szöveg; e módosító rendelet 33. § (1) bekezdése alapján a rendelkezést a 2009. március 14. napja után indult ügyekben kell alkalmazni.
-[^83]: A 2009. március 14. napján engedéllyel rendelkező, a 20. § (4) bekezdésében foglalt előírásoknak nem megfelelő párhuzamos behozatali engedély alapján behozott növényvédő szerek – a 15/2009. (III. 6.) FVM rendelet 33. § (3) bekezdése alapján – 2009. június 30-ig forgalmazhatók. Ezt követően a párhuzamos behozatali engedély kizárólag az új szabályozásnak való megfelelőség esetén marad érvényben.
+[^83]: A 20. § a 15/2009. (III. 6.) FVM rendelet 17. §-ával megállapított szöveg; e módosító rendelet 33. § (1) bekezdése alapján a rendelkezést a 2009. március 14. napja után indult ügyekben kell alkalmazni.
+[^84]: A 2009. március 14. napján engedéllyel rendelkező, a 20. § (4) bekezdésében foglalt előírásoknak nem megfelelő párhuzamos behozatali engedély alapján behozott növényvédő szerek – a 15/2009. (III. 6.) FVM rendelet 33. § (3) bekezdése alapján – 2009. június 30-ig forgalmazhatók. Ezt követően a párhuzamos behozatali engedély kizárólag az új szabályozásnak való megfelelőség esetén marad érvényben.

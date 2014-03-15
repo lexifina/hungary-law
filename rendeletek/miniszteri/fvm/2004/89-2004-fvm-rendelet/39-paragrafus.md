@@ -1,4 +1,4 @@
-## 38. §[^149]
+## 38. §[^150]
 
 ## Jelentési kötelezettség
 
@@ -16,19 +16,19 @@ a) negyedévenként a kiadott és visszavont növényvédő szer engedélyekről
 
 5. a rendeltetésszerű alkalmazást vagy alkalmazásokat,
 
-6.[^150]
+6.[^151]
 
 7. ahol indokolt, az engedély visszavonásának okait,
 
-8.[^151]
+8.[^152]
 
 b) évente az engedélyezett növényvédő szerek jegyzékéről,
 
-c)[^152] az 1. számú mellékletben szereplő azon hatóanyagokat tartalmazó növényvédő szerek jegyzékéről, amelyek hatóanyagát más gyártó állítja elő, mint a mellékletben szereplőét, a hatóanyag azonosságára és szennyezéseire vonatkozó információk megadásával,
+c)[^153] az 1. számú mellékletben szereplő azon hatóanyagokat tartalmazó növényvédő szerek jegyzékéről, amelyek hatóanyagát más gyártó állítja elő, mint a mellékletben szereplőét, a hatóanyag azonosságára és szennyezéseire vonatkozó információk megadásával,
 
 d) a növényvédő szerre és a hatóanyag veszélyességére vonatkozó, az engedélyes által benyújtott új adatokról.
 
-[^149]: A 38. §-t a 15/2009. (III. 6.) FVM rendelet 33. § (2) bekezdésének g) pontja hatályon kívül helyezte.
-[^150]: A 39. § a) pontjának 6. alpontját a 15/2009. (III. 6.) FVM rendelet 33. § (2) bekezdésének h) pontja hatályon kívül helyezte.
-[^151]: A 39. § a) pontjának 8. alpontját a 15/2009. (III. 6.) FVM rendelet 33. § (2) bekezdésének h) pontja hatályon kívül helyezte.
-[^152]: A 39. § c) pontja a 13/2013. (III. 6.) VM rendelet 22. § 27. pontja szerint módosított szöveg.
+[^150]: A 38. §-t a 15/2009. (III. 6.) FVM rendelet 33. § (2) bekezdésének g) pontja hatályon kívül helyezte.
+[^151]: A 39. § a) pontjának 6. alpontját a 15/2009. (III. 6.) FVM rendelet 33. § (2) bekezdésének h) pontja hatályon kívül helyezte.
+[^152]: A 39. § a) pontjának 8. alpontját a 15/2009. (III. 6.) FVM rendelet 33. § (2) bekezdésének h) pontja hatályon kívül helyezte.
+[^153]: A 39. § c) pontja a 13/2013. (III. 6.) VM rendelet 22. § 27. pontja szerint módosított szöveg.
