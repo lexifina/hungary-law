@@ -2,7 +2,7 @@
 
 1. § (1) Foglalkozási rehabilitációs szakértői tevékenység végzésére az jogosult, aki – a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény 27. § (1) bekezdésében meghatározott feltételeken túlmenően –
 
-a) cselekvőképes,
+a)[^1] nem áll cselekvőképességet érintő gondnokság alatt,
 
 b) egyetemi vagy főiskolai végzettséggel rendelkezik,
 
@@ -21,3 +21,5 @@ c) a 3. § (1) bekezdés e) pontja szerinti szakterület esetében mérnök alap
 d) a 3. § (1) bekezdés f) pontja szerinti szakterület esetében a tárgyi környezet, a szolgáltatások, illetve az információs és kommunikációs rendszerek akadálymentességére irányuló szakirányú szakképesítéssel,
 
 e) a 3. § (1) bekezdés g) pontja szerinti szakterület esetében informatikus alapvégzettséggel és a szolgáltatások, illetve az információs és kommunikációs rendszerek akadálymentességére irányuló szakirányú szakképesítéssel.
+
+[^1]: Az 1. § (1) bekezdés a) pontja a 19/2014. (III. 13.) EMMI rendelet 55. §-ával megállapított szöveg.
