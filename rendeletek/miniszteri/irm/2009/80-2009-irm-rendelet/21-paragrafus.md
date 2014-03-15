@@ -1,5 +1,0 @@
-21. § (1) Az elektronikus nyilatkozat alapján indult eljárásban a regisztrált felhasználó részére az iratok kézbesítését a tárhelyén kell megkísérelni. A Kamara rendszere az irat tárhelyén történő elhelyezésével egyidejűleg a regisztrált felhasználó elektronikus levelezési címére automatikus értesítést küld. Ha a regisztrált felhasználó az irat tárhelyén történő elhelyezését követő öt munkanapon belül az iratot nem veszi át, a közjegyző az iratot részére papír alapon kézbesíti.
-
-(2) A nem regisztrált felhasználó részére az iratokat papír alapon kell kézbesíteni, a kérelemnek helyt adó végzésről azonban a Kamara rendszere a fél által megadott elektronikus levelezési címre elektronikus értesítést küld.
-
-(3) Ha a címzettnek a papír alapú iratot belföldön azért nem lehet kézbesíteni, mert a címzett a megadott címen ismeretlen vagy ismeretlen helyre költözött, továbbá ha a címzettnek nincs belföldi címe, az iratokat a Kamara honlapján kell hirdetmény útján kézbesíteni. Az iratot a hirdetménynek a Kamara honlapján történő közzétételét követő tizenötödik napon kell kézbesítettnek tekinteni.
