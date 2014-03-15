@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-20-20-0
 | 2013-09-01 | 2013-20-20-0A.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2013-09-02 | 2013-20-20-0A.4 | 2010: CXXX. törvény |
 | 2014-01-01 | 2013-20-20-0A.5 | 83/2013. (XII. 31.) BM rendelet |
+| 2014-03-15 | 2013-20-20-0A.6 | 83/2013. (XII. 31.) BM rendelet |

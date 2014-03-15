@@ -22,7 +22,7 @@
 
 | 10. | 9. | 35 | 861 | 01 | Elektronikus vagyonvédelmi rendszerszerelő | Egyéb szolgáltatások |
 
-| 11. | 10. | 62 | 582 | 01 | Építési műszaki ellenőr | Építészet |
+| 11. |  |  |  |  |  |  |
 
 | 12. | 11. | 62 | 521 | 01 | Felvonóellenőr | Gépészet |
 
@@ -2172,232 +2172,6 @@ A szakképesítéssel kapcsolatos előírások az állami szakképzési és feln
 
 7.3. A képzés megkezdésének feltétele: a vagyonvédelemről szóló jogszabályokban megfogalmazott erkölcsi alkalmazási feltételek megléte.
 
-A 10. sorszámú Építési műszaki ellenőr megnevezésű szakképesítés szakmai és vizsgakövetelménye
-
-1. AZ ORSZÁGOS KÉPZÉSI JEGYZÉKBEN SZEREPLŐ ADATOK
-
-1.1. A szakképesítés azonosító száma: 62 582 01
-
-1.2. Szakképesítés megnevezése: Építési műszaki ellenőr
-
-1.3. Iskolai rendszerű szakképzésben a szakképzési évfolyamok száma: -
-
-1.4. Iskolarendszeren kívüli szakképzésben az óraszám: 250 - 350
-
-2. EGYÉB ADATOK
-
-2.1. A képzés megkezdésének feltételei:
-
-2.1.1. Iskolai előképzettség: felsőfokú iskolai végzettség
-
-2.1.2. Bemeneti kompetenciák: -
-
-2.2. Szakmai előképzettség: -
-
-2.3. Előírt gyakorlat: -
-
-2.4. Egészségügyi alkalmassági követelmények: -
-
-2.5. Pályaalkalmassági követelmények: -
-
-2.6. Elméleti képzési idő aránya: 40%
-
-2.7. Gyakorlati képzési idő aránya: 60%
-
-2.8. Szintvizsga: -
-
-2.9. Az iskolai rendszerű képzésben az összefüggő szakmai gyakorlat időtartama: -
-
-3. PÁLYATÜKÖR
-
-3.1. A szakképesítéssel legjellemzőbben betölthető munkakör(ök), foglalkozás(ok):
-
-|  | A | B | C |
-
-| 3.1.1. | FEOR száma | FEOR megnevezése | A szakképesítéssel betölthető munkakör(ök) |
-
-| 3.1.2. | 3213 | Építőipari szakmai irányító, felügyelő felsőfokú képesítést igénylő foglalkozásai | Építési műszaki ellenőr, Magasépítés szakterület, ME-É-I. |
-
-| 3.1.3. | 3213 | Építőipari szakmai irányító, felügyelő felsőfokú képesítést igénylő foglalkozásai | Építési műszaki ellenőr, Mélyépítés és mélyépítési műtárgyak szakterület, ME-ÉM-I. |
-
-| 3.1.4. | 3213 | Építőipari szakmai irányító, felügyelő felsőfokú képesítést igénylő foglalkozásai | Építési műszaki ellenőr, Építmény- és épületgépészet szakterület, ME-ÉG-I. |
-
-| 3.1.5. | 3213 | Építőipari szakmai irányító, felügyelő felsőfokú képesítést igénylő foglalkozásai | Építési műszaki ellenőr, Építmény- és épületvillamosság szakterület, ME-ÉV-I. |
-
-3.2. A szakképesítés munkaterületének rövid leírása:
-
-Az építési műszaki ellenőr az építtető helyszíni képviselőjeként az építőipari kivitelezési tevékenység teljes folyamatában elősegíti és ellenőrzi a vonatkozó:
-
-- jogszabályok
-
-- hatósági előírások
-
-- szabványok
-
-- szerződések, és
-
-- a kivitelezési dokumentáció betartását
-
-A szakképesítéssel rendelkező képes:
-
-- az építési műszaki ellenőri tevékenységgel kapcsolatos jogszabályokat, szabvány- és minőségügyi ismereteket, pénzügyi- és gazdasági ismereteket, építésbiztonsági ismereteket önállóan alkalmazni;
-
-- jogerős építési (létesítési) engedély, illetve műemlék esetén örökségvédelmi hatósági engedély és a hozzá tartozó jóváhagyott építészeti-műszaki dokumentáció, valamint a kivitelezési dokumentáció alapján az építőipari kivitelezési tevékenység, az építési-szerelési munka szakszerűségét ellenőrizni
-
-- az építmény kitűzése helyességét, szükség esetén a talajmechanikai, környezetvédelmi és egyéb felmérések, vizsgálatok megtörténtét ellenőrizni
-
-- a munkák eltakarása előtt azok mennyiségét és minőségét ellenőrizni
-
-- a beépített anyagok, késztermékek és berendezések megfelelőség-igazolása meglétét ellenőrizni;
-
-- műszaki kérdésekben az építtető döntéseit előkészíteni
-
-- a műszaki, illetve gazdasági szükségességből indokolt tervváltoztatásokkal és más műszaki kérdésekkel kapcsolatos javaslatokat megtenni
-
-- az építési naplót ellenőrizni, a hibákat, hiányosságokat, eltéréseket valamint az építési műszaki ellenőri feladatok elvégzését az építési naplóban feltüntetni, a napló bejegyzéseket és egyéb jegyzőkönyveket ellenjegyezni, észrevételezni
-
-- az építés technológiával összefüggő biztonsági előírások betartását ellenőrizni
-
-- az átadás-átvételi és a birtokbaadási eljárásban részt venni
-
-- a pénzügyi elszámolásokat, felméréseket ellenőrizni
-
-- a teljesített kivitelezési munkák elszámolásához illetve számlázásához szükséges adatait tartalmazó teljesítésigazolást kiállítani
-
-- a kiállított teljesítésigazolást az érintettek részére megküldeni
-
-- több fővállalkozó által végzett kivitelezési tevékenység esetén a felelős műszaki vezetők tevékenységét összehangolni, és gondoskodni arról, hogy egyes fővállalkozó kivitelezők felelős műszaki vezetői által tett nyilatkozatok a használatbavételi engedély iránti kérelem benyújtásakor az építtető és az építésügyi hatóság rendelkezésére álljanak
-
-3.3. Kapcsolódó szakképesítések:
-
-|  | A | B | C |
-
-| 3.3.1 | A kapcsolódó szakképesítés, részszakképesítés, szakképesítés-ráépülés |
-
-| 3.3.2. | azonosító száma | megnevezése | a kapcsolódás módja |
-
-| - | - | - | - |
-
-4. SZAKMAI KÖVETELMÉNYEK
-
-|  | A | B |
-
-| 4.1. | A szakképesítés szakmai követelménymoduljainak az állam által elismert szakképesítések szakmai követelménymoduljairól szóló kormányrendelet szerinti |
-
-| 4.2. | azonosító száma | megnevezése |
-
-| 4.3. | 10347-12 | Építési műszaki ellenőri feladatok |
-
-5. VIZSGÁZTATÁSI KÖVETELMÉNYEK
-
-5.1. A komplex szakmai vizsgára bocsátás feltételei:
-
-Az iskolarendszeren kívüli szakképzésben az 5.2. pontban előírt valamennyi modulzáró vizsga eredményes letétele.
-
-Előírt témájú és terjedelmű szakdolgozat elkészítése.
-
-5.2. A modulzáró vizsga vizsgatevékenysége és az eredményesség feltétele:
-
-|  | A | B | C |
-
-| 5.2.1. | A szakképesítés szakmai követelménymoduljainak |
-
-| 5.2.2. | azonosító száma | megnevezése | a modulzáró vizsga vizsgatevékenysége |
-
-| 5.2.3. | 10347-12 | Építési műszaki ellenőri feladatok | írásbeli |
-
-Egy szakmai követelménymodulhoz kapcsolódó modulzáró vizsga akkor eredményes, ha a modulhoz előírt feladat végrehajtása legalább 51%-osra értékelhető.
-
-5.3. A komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai:
-
-5.3.1. Gyakorlati vizsgatevékenység
-
-A vizsgafeladat megnevezése: 10347-12 Építési műszaki ellenőri feladatok gyakorlati bemutatása szakdolgozat elkészítésével
-
-A vizsgafeladat ismertetése: Az építési műszaki ellenőr jelöltnek a vizsgán a korábban elkészített és értékelt szakdolgozatot kell megvédeni
-
-A vizsgafeladat időtartama: 15 perc
-
-A vizsgafeladat értékelési súlyaránya: 40%
-
-Gyakorlati vizsga: A vizsgaszervező által felkért szakmai értékelő által elbírált szakdolgozatot a vizsgázónak a szakvizsgabizottság előtt kell megvédenie. Ennek során - az építési műszaki ellenőrzési szakmai tudása mellett - számot kell adnia arról, hogy képes egy építési műszaki ellenőrzési problémát komplex módon kezelni, más szakemberekkel együttműködni annak megoldásában, elméleti és gyakorlati ismereteit alkotó módon alkalmazni.
-
-5.3.2. Központi írásbeli vizsgatevékenység
-
-A vizsgafeladat megnevezése: -
-
-A vizsgafeladat ismertetése: -
-
-A vizsgafeladat időtartama: -
-
-A vizsgafeladat értékelési súlyaránya: -
-
-5.3.3. Szóbeli vizsgatevékenység
-
-Válaszadás a 4. Szakmai követelmények fejezet 10347-12 Építési műszaki ellenőri feladatok modul témaköreihez kapcsolódó központilag összeállított és kiadott tételsorokból húzott szóbeli vizsgakérdésekre.
-
-Témakörök: Az építési műszaki ellenőri ismeretek gyakorlata és technikája (alkalmazott jogi, szabvány- és minőségügyi, továbbá pénzügyi és gazdasági, valamint építésbiztonsági ismeretek köre)
-
-A vizsgafeladat időtartama: 35 perc (felkészülési idő 15 perc, válaszadási idő 20 perc)
-
-A vizsgafeladat értékelési súlyaránya: 60%
-
-Szóbeli vizsga: A szóbeli vizsga központilag összeállított vizsgakérdéseinek mindegyike négy részkérdést tartalmaz: egyet-egyet az alkalmazott jogi, az alkalmazott szabvány- és minőségügyi, az alkalmazott pénzügyi és gazdasági valamint az alkalmazott építésbiztonsági ismeretek köréből.
-
-5.3.4 A szakdolgozattal kapcsolatos előírások:
-
-A gyakorlati vizsgára a vizsgázó – végzettsége szakirányának megfelelő, a vizsgaszervező intézmény által kiadott témakörök egyikéből – egy legalább egy (negyvenezer leütés), de legfeljebb két szerzői ív terjedelmű szakdolgozatot ír, amit legkésőbb a vizsga megkezdése előtt 30 nappal be kell adnia. A szakdolgozat készítésének célja, hogy a hallgató – tanulmányai befejező részeként – a képzés szakmai jellegének megfelelő önálló alkotás elkészítésével igazolja, hogy elméleti és gyakorlati ismereteit alkotó módon alkalmazni tudja. A tanulmány szakmai lényege az építési műszaki ellenőri szemléletű megközelítés. A szakdolgozatot központilag meghatározott tartalmi és formai követelmények alapján kell elkészíteni.
-
-5.4. A vizsgatevékenységek szervezésére, azok vizsgaidőpontjaira, a vizsgaidőszakokra, a vizsgatevékenységek vizsgatételeire, értékelési útmutatóira és egyéb dokumentumaira, a vizsgán használható segédeszközökre vonatkozó részletes szabályok: -
-
-A szakképesítéssel kapcsolatos előírások az állami szakképzési és felnőttképzési szerv http://www.munka.hu/ című weblapján érhetők el a Szak- és felnőttképzés Vizsgák menüpontjában.
-
-5.5. A szakmai vizsga értékelésének a szakmai vizsgaszabályzattól eltérő szempontjai: -
-
-6. ESZKÖZ- ÉS FELSZERELÉSI JEGYZÉK
-
-|  | A |
-
-| 6.1. | A képzési és vizsgáztatási feladatok teljesítéséhez szükséges eszközök minimumát meghatározó eszköz- és felszerelési jegyzék |
-
-| 6.2. | Oktatóterem, tábla, projekciós felület |
-
-| 6.3. | Oktatás- és számítástechnikai eszközök |
-
-| 6.4. | Telekommunikációs eszközök |
-
-| 6.5. | Építőipari műszaki dokumentációk (engedélyezési és kivitelezési dokumentáció, építési napló, minőségtanúsítási dokumentumok, stb.) |
-
-| 6.6. | A kivitelezés minőségét szabályozó építőipari szabványok, szabványgyűjtemények |
-
-7. EGYEBEK
-
-7.1. Validáció: -
-
-7.2. A szakmai és vizsgakövetelményben szereplő képzések szakmai kamarai jogkört gyakorlóként, valamint a szakmai vizsgabizottságban való részvételre kijelölt szervezetei:
-
-|  | A | B | C |
-
-| 7.2.1. | azonosító szám | A szakképesítés megnevezése | A szakképesítés ágazat/szakmairány szerint illetékes szakmai kamarai jogkört gyakorló szerv, szervezet |
-
-| 7.2.2. | 62 582 01 | Építési műszaki ellenőr | Belügyminisztérium Építésügyi Főosztály |
-
-7.3. A 2.1.1. pontban az építményfajtának, illetőleg szakmagyakorlási szakiránynak megfelelő következő műszaki képzési területen szerzett felsőfokú végzettségek, illetve szakképzettségek fogadhatóak el:
-
-- Magasépítés (É-I.) szakterületen: okleveles építészmérnöki, építészmérnöki, illetve okleveles építőmérnöki (magasépítés területen szerkezetépítő szakirány), építőmérnöki (magasépítés területen szerkezetépítő szakirány) szakképzettség;
-
-- Mélyépítés és mélyépítési műtárgyak (ÉM-I.) szakterületen: okleveles építőmérnöki, illetve építőmérnöki szakképzettség;
-
-- Építmény- és épületgépészet (ÉG-I.) szakterületen: okleveles gépészmérnöki (épületgépészet szakirány), illetve gépészmérnöki (épületgépészet szakirány) szakképzettség;
-
-- Építmény- és épületvillamosság (ÉV-I.) szakterületen: okleveles villamosmérnöki (épületvillamosság szakirány), illetve villamosmérnöki (épületvillamosság szakirány) szakképzettség;
-
-- vagy ezekkel egyenértékűnek elismert végzettség.
-
-7.4. A modulzáró vizsgával kapcsolatos előírások:
-
-A modulzáró írásbeli vizsga a jogi, a szabvány- és minőségügyi, a pénzügyi-gazdasági valamint az építésbiztonsági ismeretek köréből tartalmaz kérdéseket.
-
 A 11. sorszámú Felvonóellenőr megnevezésű szakképesítés szakmai és vizsgakövetelménye
 
 1. AZ ORSZÁGOS KÉPZÉSI JEGYZÉKBEN SZEREPLŐ ADATOK
@@ -3574,7 +3348,7 @@ A 16. sorszámú Kéményseprő megnevezésű szakképesítés szakmai és vizsg
 
 2.2. Szakmai előképzettség: -
 
-2.3. Előírt gyakorlat: a képzés megkezdésénél igazolt 3 hónapos, az égéstermék-elvezetők típus szerinti tisztításával eltöltött gyakorlat.
+2.3. Előírt gyakorlat:
 
 2.4. Egészségügyi alkalmassági követelmények: -
 
@@ -6036,4 +5810,214 @@ A szakképesítéssel kapcsolatos előírások az állami szakképzési és feln
 
 7.3. A szakképző intézménybe – a munkáltató által támogatott szakképesítésre – történő jelentkezést a Belügyminisztériumban és a rendvédelmi szerveknél hivatásos szolgálati jogviszonyban, kormányzati szolgálati jogviszonyban, közalkalmazotti jogviszonyban, továbbá munkaviszonyban lévő, az állam által elismert felsőfokú (egyetemi vagy főiskolai) végzettséggel rendelkező nyújthat be.
 
-[^4]: A 2. melléklet a 83/2013. (XII. 31.) BM rendelet 2. § b) pontja szerint módosított szöveg.
+7.4. A Rendészeti szervező (Iparbiztonsági szervező, Katasztrófavédelmi szervező és Tűzvédelmi szervező) szakmairányok esetén a képzésben részt vevők és a vizsgázók részére az egyéni védőfelszereléseket a beiskolázó biztosítja.
+
+A 23. sorszámú Rendőr tiszthelyettes (a szakmairány megjelölésével) megnevezésű szakképesítés
+
+szakmai és vizsgakövetelménye
+
+1. AZ ORSZÁGOS KÉPZÉSI JEGYZÉKBEN SZEREPLŐ ADATOK
+
+1.1. A szakképesítés azonosító száma: 54 861 01
+
+1.2. Szakképesítés megnevezése: Rendőr tiszthelyettes (Bűnügyi rendőr; Határrendészeti rendőr; Közlekedési rendőr; Közrendvédelmi rendőr)
+
+1.3. Iskolai rendszerű szakképzésben a szakképzési évfolyamok száma: 2
+
+1.4. Iskolarendszeren kívüli szakképzésben az óraszám: 1800-2500
+
+2. EGYÉB ADATOK
+
+2.1. A képzés megkezdésének feltételei:
+
+2.1.1. Iskolai előképzettség: érettségi végzettség
+
+2.1.2. Bemeneti kompetenciák: -
+
+2.2. Szakmai előképzettség: -
+
+2.3. Előírt gyakorlat: -
+
+2.4. Egészségügyi alkalmassági követelmények: szükségesek
+
+2.5. Pályaalkalmassági követelmények: szükségesek
+
+2.6. Elméleti képzési idő aránya: 50%
+
+2.7. Gyakorlati képzési idő aránya: 50%
+
+2.8. Szintvizsga: -
+
+2.9. Az összefüggő szakmai gyakorlat időtartama iskolai rendszerű szakképzés esetén: az első szakképzési évfolyamot követően 160 óra
+
+3. PÁLYATÜKÖR
+
+3.1. A szakképesítéssel legjellemzőbben betölthető munkakörök, foglalkozások
+
+|  | A | B | C |
+
+| 3.1.1. | FEOR száma | FEOR megnevezése | A szakképesítéssel betölthető munkakörök |
+
+| 3.1.2. | 5251 | Rendőr | Jogszabályban meghatározottak szerint |
+
+| 3.1.3. | 5251 | Rendőr | Jogszabályban meghatározottak szerint |
+
+| 3.1.4. | 5251 | Rendőr | Jogszabályban meghatározottak szerint |
+
+| 3.1.5. | 5251 | Rendőr | Jogszabályban meghatározottak szerint |
+
+| 3.1.6. | 5251 | Rendőr | Jogszabályban meghatározottak szerint |
+
+| 3.1.7. | 5251 | Rendőr | Jogszabályban meghatározottak szerint |
+
+| 3.1.8. | 5251 | Rendőr | Jogszabályban meghatározottak szerint |
+
+| 3.1.9. | 5251 | Rendőr | Jogszabályban meghatározottak szerint |
+
+| 3.1.10. | 5251 | Rendőr | Jogszabályban meghatározottak szerint |
+
+| 3.1.11. | 3655 | Nyomozó | Jogszabályban meghatározottak szerint |
+
+3.2. A szakképesítés munkaterületének rövid leírása:
+
+- a rendőr a törvényben és más jogszabályokban meghatározott, rendészeti feladatokat lát el
+
+- tevékenységét önállóan vagy utasításra hajtja végre
+
+- tájékoztatást ad és segítséget nyújt
+
+- személy és objektumvédelmi feladatokat lát el
+
+- jelenlétével támogatja a bűnügyi megelőző tevékenységet
+
+- segíti a közrend fenntartását, a biztonságos közlekedés feltételeinek megteremtését, s a közlekedési balesetek megelőzését
+
+- végrehajtja a szükséges intézkedéseket rendőri feladatai ellátása során
+
+- csapatszolgálati tevékenységet végez
+
+- őrzi az államhatárt, idegenrendészeti-ellenőrzési feladatokat hajt végre
+
+- a közterület rendjének fenntartása érdekében, igazgatás-rendészeti feladatokat lát el
+
+- intézkedéseivel elősegíti a rendészeti prevenciós célok megvalósulását
+
+- megfelelő szintű kommunikációs képességgel rendelkezik, munkáját felelősségteljesen, kellő hivatástudattal a Rendőrség Etikai Kódexében meghatározottak betartásával gyakorolja
+
+A szakképesítéssel rendelkező képes:
+
+- általános szolgálati feladatokat teljesíteni
+
+- adminisztratív, ügykezelési feladatokat végezni
+
+- jogsértő cselekményeket felismerni, megelőzni, megszakítani, intézkedni bűncselekmény vagy szabálysértés észlelése esetén (figyelmeztet, helyszíni bírságot alkalmazni, feljelenteni, jegyzőkönyvet készíteni)
+
+- államhatárral kapcsolatos jogellenes cselekményeket megelőzni, megakadályozni
+
+- biztonsági intézkedést foganatosítani, elővezetést, előállítást, elfogást végrehajtani
+
+- elvégezni a személyi sérüléssel járó baleseteknél a hatáskörébe tartozó feladatokat
+
+- felvilágosítani, felvilágosítást kérni, segítséget nyújtani a rászorulóknak
+
+- idegen nyelven kommunikálni
+
+- idegenrendészeti és menekültügyi feladatok ellátásában részt venni, mélységi ellenőrzést végezni
+
+- járőrszolgálatot ellátni, intézkedéseket foganatosítani és határforgalmat ellenőrizni
+
+- jogszerűen és szabályszerűen intézkedni
+
+- közrendvédelmi, közlekedésrendészeti, bűnügyi, igazgatásrendészeti, idegenrendészeti és határrendészeti, őrzési, objektum-, létesítményvédelmi és általános személyvédelmi feladatokat ellátni
+
+- csapatszolgálati feladatokat teljesíteni
+
+- szakterületéhez kapcsolódó eszközöket kezelni, használni
+
+- személyes szabadságot nem-, továbbá személyes szabadságot korlátozó intézkedéseket foganatosítani, kényszerítő eszközöket használni
+
+- szolgálata ellátása során kényszerítő eszközt, lőfegyvert használni
+
+- tanúkutatást, meghallgatást végezni, helyszíni szemlével kapcsolatos teendőt ellátni
+
+- tömegkezelési, tömegoszlatási, rendezvénybiztosítási feladatokat ellátni
+
+3.3. Kapcsolódó szakképesítések
+
+|  |  | A | B | C |
+
+|  | 3.3.1. | A kapcsolódó szakképesítés, részszakképesítés, szakképesítés-ráépülés |
+
+|  | 3.3.2. | azonosító száma | megnevezése | a kapcsolódás módja |
+
+|  | 3.3.3. | 51 861 01 | Csapatszolgálati járőrtárs | részszakképesítés |
+
+|  | 3.3.4. | 51 861 02 | Járőr | részszakképesítés |
+
+|  | 3.3.5. | 51 861 03 | Őr-járőrtás | részszakképesítés |
+
+|  | 3.3.6. | 55 861 01 | Baleseti helyszínelő | szakképesítés-ráépülés |
+
+|  | 3.3.7. | 55 861 02 | Bűnügyi technikus | szakképesítés-ráépülés |
+
+|  | 3.3.8. | 55 861 03 | Fő határrendész | szakképesítés-ráépülés |
+
+|  | 3.3.9. | 55 861 04 | Körzeti megbízott | szakképesítés-ráépülés |
+
+|  | 3.3.10. | 55 861 05 | Kutyavezető-rendőr | szakképesítés-ráépülés |
+
+|  | 3.3.11. | 55 861 06 | Okmányvizsgáló | szakképesítés-ráépülés |
+
+|  | 3.3.12. | 55 861 07 | Rendőr zászlós | szakképesítés-ráépülés |
+
+4. SZAKMAI KÖVETELMÉNYEK
+
+|  | A | B |
+
+| 4.1. | A Rendőr tiszthelyettes (Bűnügyi rendőr) szakképesítés szakmai követelménymoduljainak |
+
+| 4.1.1. | azonosítója | megnevezése |
+
+| 4.1.2. | 10352-12 | Rendvédelmi alapfeladatok |
+
+| 4.1.3. | 10370-12 | Őr-járőrtársi feladatok |
+
+| 4.1.4. | 10371-12 | Csapatszolgálati feladatok |
+
+| 4.1.5. | 10372-12 | Járőri feladatok |
+
+| 4.1.6. | 10376-12 | Bűnügyi rendőr feladatok |
+
+|  | A | B |
+
+| 4.2. | A Rendőr tiszthelyettes (Határrendészeti rendőr) szakképesítés szakmai követelménymoduljainak |
+
+| 4.2.1. | azonosítója | megnevezése |
+
+| 4.2.2. | 10352-12 | Rendvédelmi alapfeladatok |
+
+| 4.2.3. | 10370-12 | Őr-járőrtársi feladatok |
+
+| 4.2.4. | 10371-12 | Csapatszolgálati feladatok |
+
+| 4.2.5. | 10372-12 | Járőri feladatok |
+
+| 4.2.6. | 10373-12 | Határrendészeti rendőri feladatok |
+
+|  | A | B |
+
+| 4.3. | A Rendőr tiszthelyettes (Közlekedési rendőr) szakképesítés szakmai követelménymoduljainak |
+
+| 4.3.1. | azonosítója | megnevezése |
+
+| 4.3.2. | 10352-12 | Rendvédelmi alapfeladatok |
+
+| 4.3.3. | 10370-12 | Őr-járőrtársi feladatok |
+
+| 4.3.4. | 10371-12 | Csapatszolgálati feladatok |
+
+| 4.3.5. | 10372-12 | Járőri feladatok |
+
+| 4.3.6. | 10375-12 | Közlekedési rendőri feladatok |
+
+[^4]: A 2. melléklet a 83/2013. (XII. 31.) BM rendelet 2. § b) pontja, a 23/2014. (III. 14.) BM rendelet 2. § (2) bekezdése szerint módosított szöveg.
