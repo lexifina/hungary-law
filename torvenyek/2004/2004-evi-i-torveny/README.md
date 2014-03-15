@@ -30,3 +30,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2004-1-00-00
 | 2013-12-26 | 2013. évi CCXXXVI. törvény | 2004-1-00-00.37 |
 | 2014-01-01 | 2013. évi CCXXXVI. törvény | 2004-1-00-00.38 |
 | 2014-02-25 | 2014. évi XVI. törvény | 2004-1-00-00.39 |
+| 2014-03-15 | 2013. évi CCLII. törvény | 2004-1-00-00.40 |

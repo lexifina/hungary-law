@@ -1,8 +1,8 @@
 ## Az országos sportági szakszövetség
 
-20. § (1) Az országos sportági szakszövetség (a továbbiakban: szakszövetség) olyan sportszövetség, amely sportágában kizárólagos jelleggel az e törvényben, valamint más jogszabályokban meghatározott feladatokat lát el, és törvényben megállapított különleges jogosítványokat gyakorol.
+20. § (1) Az országos sportági szakszövetség (a továbbiakban: szakszövetség) olyan sportszövetség, amely sportágában kizárólagos jelleggel az e törvényben, valamint más jogszabályokban meghatározott feladatokat lát el és e törvényben megállapított különleges jogosítványokat gyakorol. A szakszövetség jogi személy.
 
-(2) A szakszövetségnek kizárólag olyan sportszervezetek és sportiskolák, valamint az utánpótlás-nevelés fejlesztését végző alapítványok lehetnek tagjai, amelyek az adott sportág versenyrendszerében részt vesznek. A sportágban tevékenykedő sportszervezetek és sportiskolák, valamint az utánpótlás-nevelés fejlesztését végző alapítványok felvétele a szakszövetségbe nem tagadható meg, ha a sportszervezet és a sportiskola, valamint az utánpótlás-nevelés fejlesztését végző alapítvány magára nézve kötelezőnek elfogadja a szakszövetség alapszabályát.
+(2) A szakszövetség nyilvántartott tagsággal rendelkező szervezet, amelyet a sportág versenyrendszerében részt vevő sportszervezetek, sportiskolák és utánpótlás-nevelés fejlesztését végző alapítványok hozhatnak létre. A sportág versenyrendszerében részt vevő sportszervezetek, sportiskolák és utánpótlás-nevelés fejlesztését végző alapítványok tagként való felvétele a szakszövetségbe nem tagadható meg, ha azok a szakszövetség alapszabályát magukra nézve kötelezőnek fogadják el.
 
 (3) A szakszövetségre – amennyiben e törvény eltérően nem rendelkezik – a Civil tv. és a Polgári Törvénykönyv egyesületekre vonatkozó szabályait kell megfelelően alkalmazni. Egy sportágban csak egy szakszövetség működhet. A szakszövetség közvetlenül is részesíthető állami támogatásban.
 

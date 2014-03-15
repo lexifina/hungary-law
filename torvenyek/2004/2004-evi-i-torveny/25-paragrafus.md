@@ -21,3 +21,5 @@ e) lehetővé teheti, hogy más szakszövetségek (sportszövetségek) területi
 a) a jogi személyiségét a Fővárosi Törvényszék nyilvántartásába történő bejegyzéssel szerzi meg,
 
 b) nevét, székhelyét, képviselőjének nevét és lakóhelyét a Fővárosi Törvényszék külön alszámon tartja nyilván.
+
+(6) A szakszövetség alapszabályának felhatalmazása alapján a tagsági jogviszonyból, továbbá a szakszövetség vagy önálló jogi személy szervezeti egységei és a tagok egymás közötti jogviszonyából eredő jogvitákra a Sport Állandó Választottbíróság eljárása az alapszabályban – a felek kölcsönös alávetési nyilatkozata nélkül – is kiköthető.

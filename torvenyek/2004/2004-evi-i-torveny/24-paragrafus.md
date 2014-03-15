@@ -1,12 +1,12 @@
-24. § (1) A szakszövetség szervezeti felépítésére a Civil tv. előírásait a következő eltérésekkel kell alkalmazni:
+24. § (1) A szakszövetség szervezeti felépítésére a Civil tv. és a Polgári Törvénykönyv előírásait a következő eltérésekkel kell alkalmazni:
 
-a) a szakszövetség legfelsőbb szerve a tagok képviselőiből álló közgyűlés. A szakszövetség alapszabályának rendelkezése alapján a közgyűlés hatáskörét küldöttgyűlés is gyakorolhatja. A küldöttek számát és a küldöttválasztás módját az alapszabályban kell megállapítani,
+a) a szakszövetség legfelsőbb szerve a tagok képviselőiből álló közgyűlés, a szakszövetség alapszabályának rendelkezése alapján a közgyűlés hatáskörét küldöttgyűlés is gyakorolhatja, a küldöttek számát és a küldöttválasztás módját az alapszabályban kell megállapítani;
 
-b) amennyiben ezt az alapszabály lehetővé teszi, egy tagszervezet több képviselőt, illetve küldöttet is küldhet a közgyűlésre, illetve a küldöttgyűlésre,
+b) amennyiben ezt az alapszabály lehetővé teszi, egy tagszervezet több képviselőt, illetve küldöttet is küldhet a közgyűlésre, illetve a küldöttgyűlésre;
 
-c) a közgyűlést (küldöttgyűlést) a szakszövetség ügyintéző-képviselő szervének (elnökségének) évente legalább egyszer össze kell hívnia, amelyen meg kell tárgyalni az elnökség szakmai, illetve az Sztv. szerinti pénzügyi beszámolóját, valamint a tárgyévre vonatkozó szakmai és pénzügyi tervét, és amennyiben a szakszövetség közhasznú szervezet, úgy közhasznúsági jelentését is,
+c) a közgyűlést (küldöttgyűlést) a szakszövetség ügyintéző-képviselő szervének (elnökségének) évente legalább egyszer össze kell hívnia, amelyen meg kell tárgyalni az elnökség szakmai, illetve az Sztv. szerinti pénzügyi beszámolóját, valamint a tárgyévre vonatkozó szakmai és pénzügyi tervét és amennyiben a szakszövetség közhasznú szervezet, úgy közhasznúsági jelentését is;
 
-d) a szakszövetség közgyűlésének (küldöttgyűlésének) legalább három tagból álló ellenőrző testületet kell választania a szakszövetség gazdálkodásának ellenőrzésére. Ha a szakszövetség hivatásos vagy vegyes (nyílt) versenyrendszert (bajnokságot) működtet, az ellenőrző testület mellett könyvvizsgálót is kell alkalmaznia. A közgyűlés (küldöttgyűlés) a pénzügyi beszámolóról az ellenőrző testület, illetve a könyvvizsgáló írásos jelentése hiányában döntést nem hozhat.
+d) a szakszövetség közgyűlésének (küldöttgyűlésének) legalább három tagból álló ellenőrző testületet kell választania a szakszövetség gazdálkodásának ellenőrzésére, ha a szakszövetség hivatásos vagy vegyes (nyílt) versenyrendszert (bajnokságot) működtet, az ellenőrző testület mellett könyvvizsgálót is kell alkalmaznia, a közgyűlés (küldöttgyűlés) a pénzügyi beszámolóról az ellenőrző testület, illetve a könyvvizsgáló írásos jelentése hiányában döntést nem hozhat.
 
 (2) A szakszövetség közgyűlése (küldöttgyűlése) kizárólagos hatáskörébe tartozik:
 
