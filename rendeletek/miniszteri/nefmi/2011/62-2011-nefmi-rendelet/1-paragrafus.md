@@ -14,11 +14,11 @@
 
 a) párt kivételével bármely jogi személy,
 
-b) jogi személyiséggel nem rendelkező gazdasági társaság,
+b)[^1]
 
 c) egyéni cég, egyéni vállalkozó,
 
-d) a helyi önkormányzatok társulásairól és együttműködéséről szóló 1997. évi CXXXV. törvény 8., illetve 9. §-a szerinti helyi önkormányzatok intézményi társulása,
+d)[^2] önkormányzati társulás,
 
 e) az Európai Gazdasági Térségről szóló megállapodásban részes valamely államban (a továbbiakban: EGT-állam), valamint – ha az Európai Közösséggel és tagállamaival létrejött nemzetközi szerződés alapján az adott állam szolgáltatói a letelepedés szabadsága tekintetében az EGT-államok szolgáltatóival azonos jogállást élveznek – az EGT-államoktól eltérő más államban honos vállalkozás belföldön bejegyzett fióktelepe;
 
@@ -54,7 +54,7 @@ a) magyar jelnyelv,
 
 b) a Jtv. mellékletében foglalt valamely speciális kommunikációs rendszer;
 
-14.[^1] tolmácsszolgálat: a Magyarország területén állami támogatással működő jelnyelvi tolmácsszolgálat;
+14.[^3] tolmácsszolgálat: a Magyarország területén állami támogatással működő jelnyelvi tolmácsszolgálat;
 
 15. tolmácsszolgáltatási fajta: az alábbi tolmácsszolgáltatások valamelyike:
 
@@ -68,6 +68,9 @@ d) a Jtv. 10. § (4) bekezdése szerinti, oktatás, képzés kapcsán szervezett
 
 e) a Jtv.-ben nem szabályozott, térítésköteles jelnyelvi tolmácsszolgáltatás.
 
-(2) Ha a fenntartó helyi önkormányzatok valamely intézményi társulása, akkor az e rendelet szerinti jogok és kötelezettségek a társulási megállapodásban meghatározott, ennek hiányában az intézményi társulás székhelye szerinti helyi önkormányzatot illetik, illetve terhelik.
+(2)[^4] Ha a fenntartó önkormányzati társulás, akkor az e rendelet szerinti jogok és kötelezettségek a társulási megállapodásban meghatározott, ennek hiányában a társulás székhelye szerinti helyi önkormányzatot illetik, illetve terhelik.
 
-[^1]: Az 1. § (1) bekezdés 14. pontja a 78/2011. (XII. 30.) NEFMI rendelet 15. § a) pontja szerint módosított szöveg.
+[^1]: Az 1. § (1) bekezdés 4. pont b) alpontját a 19/2014. (III. 13.) EMMI rendelet 54. §-a hatályon kívül helyezte.
+[^2]: Az 1. § (1) bekezdés 4. pont d) alpontja a 19/2014. (III. 13.) EMMI rendelet 52. § (1) bekezdésével megállapított szöveg.
+[^3]: Az 1. § (1) bekezdés 14. pontja a 78/2011. (XII. 30.) NEFMI rendelet 15. § a) pontja szerint módosított szöveg.
+[^4]: Az 1. § (2) bekezdése a 19/2014. (III. 13.) EMMI rendelet 52. § (2) bekezdésével megállapított szöveg.

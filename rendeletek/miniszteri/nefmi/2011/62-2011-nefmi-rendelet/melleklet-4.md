@@ -2,21 +2,25 @@
 
 ## A finanszírozási szerződés megkötéséhez benyújtandó dokumentumok
 
-1. ha a fenntartó
+1.[^17] ha a fenntartó
 
-1.1. központi költségvetési szerv, helyi önkormányzat, helyi önkormányzatok intézményi társulása, települési önkormányzatok többcélú kistérségi társulása, települési kisebbségi önkormányzat, területi kisebbségi önkormányzat vagy országos kisebbségi önkormányzat, a létesítő dokumentumának másolata,
+1.1. központi költségvetési szerv, helyi önkormányzat, önkormányzati társulás, települési kisebbségi önkormányzat, területi kisebbségi önkormányzat vagy országos kisebbségi önkormányzat: a létesítő dokumentumának másolata,
 
-1.2. helyi önkormányzatok intézményi társulása vagy települési önkormányzatok többcélú kistérségi társulása, a társulási szerződés másolata,
+1.2. önkormányzati társulás: a társulási szerződés másolata,
 
-1.3. cég, a 30 napnál nem régebbi cégkivonata,
+1.3. cég: a 30 napnál nem régebbi cégkivonata,
 
-1.4. társadalmi szervezet, alapítvány vagy közalapítvány, a bírósági nyilvántartásba bejegyzett hatályos adatairól kiadott, 30 napnál nem régebbi kivonat,
+1.4. egyesület, alapítvány, közalapítvány, vallási tevékenységet végző szervezet: a civil szervezetek bírósági nyilvántartásába bejegyzett hatályos adatairól kiadott, 30 napnál nem régebbi kivonat,
 
-1.5. egyházi jogi személy, a bírósági nyilvántartásba bejegyzett hatályos adatairól kiadott, 30 napnál nem régebbi kivonat,
+1.5. bevett egyház, nyilvántartásba vett belső egyházi jogi személy: az egyházi jogi személyek nyilvántartásában szereplő adatait igazoló, 30 napnál nem régebbi kivonat,
 
-1.6. egyház bírósági nyilvántartásba nem vett szervezeti egysége, a nyilvántartásba vett egyház, egyházi jogi személy képviselőjének a nyilatkozata a fenntartó nevéről, székhelyéről és képviselőjének személyéről, valamint arról, hogy a fenntartó az általa képviselt egyház, egyházi jogi személy szervezeti egysége, és az egyház alapszabálya alapján jogi személyiséggel rendelkezik, továbbá az egyház, egyházi jogi személy bírósági nyilvántartásba bejegyzett hatályos adatairól kiadott, 30 napnál nem régebbi kivonat,
+1.6. nyilvántartásba nem vett belső egyházi jogi személy:
 
-1.7. egyéni vállalkozó, az egyéni vállalkozói nyilvántartásba vételéről szóló igazolás másolata;
+1.6.1. a bevett egyház egészének, legfőbb szervének vagy a fenntartó - egyházi jogi személyek nyilvántartásában szereplő - felettes szervének az egyházi jogi személyek nyilvántartásában feltüntetett képviselője által kiállított nyilatkozata a fenntartó nevéről, székhelyéről és képviselőjének természetes személyazonosító adatairól, továbbá arról, hogy a fenntartó a bevett egyház belső egyházi jogi személye, valamint
+
+1.6.2. a bevett egyháznak vagy az egyházi jogi személyek nyilvántartásában szereplő felettes egyházi szervnek az egyházi jogi személyek nyilvántartásába bejegyzett hatályos adatairól kiadott 30 napnál nem régebbi kivonat,
+
+1.7. egyéni vállalkozó: az egyéni vállalkozói nyilvántartásba vételéről szóló igazolás másolata;
 
 2. azon magyarországi vagy az Európai Gazdasági Térségről szóló megállapodásban részes más államban székhellyel rendelkező pénzforgalmi szolgáltató által vezetett fizetési számla szerződése vagy annak közjegyző által hitelesített, illetve a pénzintézet által ellenjegyzett másolata, amelyre a fenntartó a támogatás folyósítását kéri;
 
@@ -35,3 +39,5 @@
 9. megbízási jogviszony keretében a tolmácsszolgálatnál foglalkoztatott vagy foglalkoztatni kívánt valamennyi jelnyelvi tolmács nyilatkozata arról, hogy a finanszírozási szerződés hatályának és a tolmácsszolgálatnál történő foglalkoztatásának időtartama alatt a tolmácsszolgálattól érkező megrendelést más tolmácsszolgálattól vagy egyéb szervezettől érkező megrendelés teljesítése miatt nem utasítja vissza;
 
 10. a pályázathoz a 3. melléklet 1–3., 7–8., 16., 18. és 19. pontja szerint benyújtott valamely nyilatkozat, dokumentum alapjául szolgáló körülményben történt változás esetén a változással érintett új nyilatkozat, dokumentum.
+
+[^17]: A 4. melléklet 1. pontja a 19/2014. (III. 13.) EMMI rendelet 53. § (2) bekezdésével megállapított szöveg.

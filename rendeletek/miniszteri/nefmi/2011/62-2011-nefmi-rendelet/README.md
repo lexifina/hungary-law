@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-62-20-2
 | 2012-01-02 | 2011-62-20-2V.2 | 78/2011. (XII. 30.) NEFMI rendelet |
 | 2012-04-01 | 2011-62-20-2V.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2012-04-02 | 2011-62-20-2V.4 | 2010: CXXX. törvény |
+| 2014-03-15 | 2011-62-20-2V.5 | 19/2014. (III. 13.) EMMI rendelet |
