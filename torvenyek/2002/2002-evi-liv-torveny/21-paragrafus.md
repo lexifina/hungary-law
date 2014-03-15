@@ -18,4 +18,4 @@ g) a működés feltételeit;
 
 h) a működés költségeinek viselését;
 
-i) a közös bűnfelderítő-csoport kihelyezett tagja által működési körében okozott károkért való felelősségének szabályairól szóló tájékoztatást.
+i) a közös bűnfelderítő-csoport kihelyezett tagja által működési körében harmadik személynek okozott károkért való felelősség, valamint a személyiségi jogsértésért járó sérelemdíj szabályairól szóló tájékoztatást.

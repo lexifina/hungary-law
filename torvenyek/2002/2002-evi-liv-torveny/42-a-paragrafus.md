@@ -30,6 +30,6 @@ d) a segítségnyújtás feltételeit,
 
 e) a segítségnyújtás költségeinek viselését,
 
-f) az intervenciós egység tagja által tevékenysége körében okozott károkért való felelősség szabályait,
+f) az intervenciós egység tagja által tevékenysége körében harmadik személynek okozott károkért való felelősség, valamint a személyiségi jogsértésért járó sérelemdíj szabályait,
 
 g) a 8. § a)–k) pontjában meghatározott együttműködés esetén az egyes együttműködési formákra szóló megállapodás e törvényben meghatározott tartalmi elemeit.
