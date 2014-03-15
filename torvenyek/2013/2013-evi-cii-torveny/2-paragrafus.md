@@ -8,6 +8,8 @@
 
 3. fogási napló: a horgászat vagy halászat során kifogott halak – nyilvántartott halgazdálkodási vízterületenkénti, halfajonkénti, naponta kifogott mennyiségenkénti – kötelező bejegyzésére rendszeresített nyomtatvány;
 
+3a. gazdálkodó szervezet: a polgári perrendtartásról szóló törvényben meghatározott gazdálkodó szervezet;
+
 4. gereblyézés: a halnak nem a táplálkozási viselkedésére alapozottan, és a szájnyílásán kívüli más testrészébe akasztott horoggal történő zsákmányul ejtésére irányuló módszer;
 
 5. hal: a halak, illetve a körszájúak csoportjába tartozó állatfaj, valamint ezek egyedfejlődési alakjai;
