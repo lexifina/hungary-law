@@ -1,6 +1,6 @@
 ## A felek jogai és kötelezettségei
 
-24. § (1) A védjegyjogosult a használati szerződés egész tartama alatt szavatol azért, hogy harmadik személynek nincs a védjegyre vonatkozó olyan joga, amely a használatot akadályozza vagy korlátozza. Erre a szavatosságra az eladónak a tulajdonjog átruházásáért való szavatosságára irányadó szabályokat kell alkalmazni azzal az eltéréssel, hogy a használó elállás helyett a szerződést azonnali hatállyal felmondhatja.
+24. § (1) A védjegyjogosult a használati szerződés egész tartama alatt köteles helytállni azért, hogy harmadik személynek nincs a védjegyre vonatkozó olyan joga, amely a használatot akadályozza vagy korlátozza. Erre a helytállási kötelezettségre a Polgári Törvénykönyvnek a jogszavatosságra irányadó szabályait kell megfelelően alkalmazni azzal az eltéréssel, hogy a használó elállás helyett a szerződést azonnali hatállyal felmondhatja.
 
 (2) A védjegyjogosult köteles a használót a védjegyre vonatkozó jogokról és fontos körülményekről tájékoztatni, a védjeggyel kapcsolatos gazdasági, műszaki és szervezési ismereteket és tapasztalatokat azonban csak akkor köteles átadni, ha ebben kifejezetten megállapodtak.
 

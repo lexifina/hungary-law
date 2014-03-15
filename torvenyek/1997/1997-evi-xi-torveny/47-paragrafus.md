@@ -30,7 +30,9 @@ j) a védjegy megújítását,
 
 k) a védjegyoltalom megszűnését, annak jogcímét és időpontját, valamint a védjegyoltalom korlátozását, és
 
-l) a használati engedélyeket.
+l) a használati engedélyeket,
+
+m) azt, ha a védjegyoltalmi igény vagy a védjegyoltalomból eredő jogok bizalmi vagyonkezelés alapján fennálló kezelt vagyonba tartoznak.
 
 (3) A védjegylajstrom a bejegyzett jogok és tények fennállását hitelesen tanúsítja. Az ellenkező bizonyításáig a védjegylajstromba bejegyzett jogokról és tényekről vélelmezni kell, hogy azok fennállnak. A védjegylajstromban feltüntetett adatokkal szemben a bizonyítás azt terheli, aki vitatja a helyességüket vagy a valósággal való egyezőségüket.
 
