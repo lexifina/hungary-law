@@ -6,9 +6,9 @@
 
 3. film alkotói: a filmalkotás céljára készült irodalmi és zeneművek szerzői, a filmalkotás rendezője és mindazok, akik a filmalkotás egészének kialakításához alkotó módon járultak hozzá, továbbá a filmalkotásban felhasznált egyéb művek szerzői;
 
-4. filmelőállító: az a jogi személy vagy jogi személyiséggel nem rendelkező gazdasági társaság, aki vagy amely saját nevében kezdeményezi és megszervezi a filmalkotás megvalósítását, gondoskodva ennek anyagi és egyéb feltételeiről, és rendelkezik a filmalkotás felhasználására és a felhasználás engedélyezésére vonatkozó jogokkal;
+4. filmelőállító: az a jogi személy, aki vagy amely saját nevében kezdeményezi és megszervezi a filmalkotás megvalósítását, gondoskodva ennek anyagi és egyéb feltételeiről, és rendelkezik a filmalkotás felhasználására és a felhasználás engedélyezésére vonatkozó jogokkal;
 
-5. magyar filmelőállító: olyan filmelőállító, amely magyarországi székhellyel rendelkező jogi személy vagy jogi személyiséggel nem rendelkező gazdasági társaság és vezető tisztségviselőinek többsége valamely EGT-államnak, vagy a Határokon átlépő televíziózásról szóló Európa Tanácsi Egyezményt aláíró valamely ország állampolgára, és benne ezen országok állampolgárai vagy jogi személyei rendelkeznek többségi irányítást biztosító befolyással;
+5. magyar filmelőállító: olyan filmelőállító, amely magyarországi székhellyel rendelkező jogi személy és vezető tisztségviselőinek többsége valamely EGT-államnak, vagy a Határokon átlépő televíziózásról szóló Európa Tanácsi Egyezményt aláíró valamely ország állampolgára, és benne ezen országok állampolgárai vagy jogi személyei rendelkeznek többségi befolyással;
 
 6. nemzetközi koprodukciós filmalkotás: különböző államokban székhellyel rendelkező filmelőállítók által készített filmalkotás, amelyet két- vagy többoldalú nemzetközi egyezmény vagy az érintett államok jogszabályai ilyennek minősítenek;
 
@@ -60,7 +60,7 @@ c) filmalkotás bármely adathordozón történő kiadásával, értékesítés�
 
 20. filmgyártás: a filmgyártás előkészítésétől a filmalkotás első eredeti példányának előállításáig vezető alkotói, szervezési, gazdasági és műszaki tevékenységek összessége; az első eredeti példány az első, közönség előtti bemutatásra alkalmas végleges kópia;
 
-20a. filmgyártó vállalkozás: az a jogi személy vagy jogi személyiséggel nem rendelkező gazdasági társaság, amely a film gyártására vonatkozó szerződés alapján szervezi a filmalkotás megvalósítását, és ezen tevékenysége révén az adott film tekintetében nem minősül filmelőállítónak;
+20a. filmgyártó vállalkozás: az a jogi személy, amely a film gyártására vonatkozó szerződés alapján szervezi a filmalkotás megvalósítását, és ezen tevékenysége révén az adott film tekintetében nem minősül filmelőállítónak;
 
 20b. magyar filmgyártó vállalkozás: a mozgóképszakmai hatóság nyilvántartásába vett, magyarországi székhellyel rendelkező filmgyártó vállalkozás, amely vezető tisztségviselőinek többsége valamely EGT-államnak, vagy a Határokon átlépő televíziózásról szóló Európa Tanácsi Egyezményt aláíró valamely országnak az állampolgára;
 
