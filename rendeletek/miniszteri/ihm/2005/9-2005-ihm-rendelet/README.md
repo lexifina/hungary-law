@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-9-20-0P
 | 2012-01-01 | 2005-9-20-0P.4 | 91/2011. (XII. 30.) NFM rendelet |
 | 2013-01-01 | 2005-9-20-0P.5 | 76/2012. (XII. 22.) NFM rendelet |
 | 2013-02-01 | 2005-9-20-0P.6 | 3/2013. (I. 29.) NFM rendelet |
+| 2014-03-15 | 2005-9-20-0P.7 | 12/2014. (III. 14.) NFM rendelet |

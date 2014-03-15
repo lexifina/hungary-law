@@ -170,6 +170,6 @@
 
 ## cégszerű aláírás
 
-2. melléklet a 9/2005. (VII. 21.) IHM rendelethez[^8]
+2. melléklet a 9/2005. (VII. 21.) IHM rendelethez[^11]
 
-[^8]: A 2. melléklet a 91/2011. (XII. 30.) NFM rendelet 45. §-a szerint módosított szöveg.
+[^11]: A 2. melléklet a 91/2011. (XII. 30.) NFM rendelet 45. §-a szerint módosított szöveg.
