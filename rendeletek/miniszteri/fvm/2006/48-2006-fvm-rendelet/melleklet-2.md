@@ -16,6 +16,6 @@
 
 ## x = (a+b+c+d)/4/e * f
 
-2–3. számú melléklet a 48/2006. (VI. 22.) FVM rendelethez[^26]
+2–3. számú melléklet a 48/2006. (VI. 22.) FVM rendelethez[^28]
 
-[^26]: A 2–3. számú mellékletet a 118/2008. (V. 8.) Korm. rendelet 9. §-ának 88. pontja hatályon kívül helyezte.
+[^28]: A 2–3. számú mellékletet a 118/2008. (V. 8.) Korm. rendelet 9. §-ának 88. pontja hatályon kívül helyezte.
