@@ -1,4 +1,4 @@
-14. § (1) A bejelentett szervezet, annak vezetője és az ellenőrzések elvégzéséért felelős természetes és jogi személyek, jogi személyiség nélküli gazdasági társaságok (a továbbiakban együtt: személyzet) nem vehetnek részt közvetve vagy közvetlenül a kölcsönös átjárhatóságot lehetővé tevő rendszerelemek vagy alrendszerek tervezésében, gyártásában, kivitelezésében, értékesítésében, karbantartásában vagy használatában. Ez nem terjed ki arra az esetre, ha a gyártó és a bejelentett szervezet egymással műszaki információkat oszt meg.
+14. § (1)[^5] A bejelentett szervezet, annak vezetője és az ellenőrzések elvégzéséért felelős természetes és jogi személyek (a továbbiakban együtt: személyzet) nem vehetnek részt közvetve vagy közvetlenül a kölcsönös átjárhatóságot lehetővé tevő rendszerelemek vagy alrendszerek tervezésében, gyártásában, kivitelezésében, értékesítésében, karbantartásában vagy használatában. Ez nem terjed ki arra az esetre, ha a gyártó és a bejelentett szervezet egymással műszaki információkat oszt meg.
 
 (2) Az ellenőrzésekért felelős szervezet és személyzete az ellenőrzéseket az elvárható legmagasabb szakmai színvonalon köteles elvégezni, és döntésüket, vagy ellenőrzésük eredményét befolyásolás mentesen kell meghozniuk.
 
@@ -29,3 +29,5 @@ c) jogosultsággal az olyan tanúsítványok, jegyzőkönyvek és jelentések ki
 (8) A bejelentett szervezet személyzetét a szakmai titoktartás kötelezettsége terheli mindazon ismeretek tekintetében, amelyeknek birtokába kerülnek az e rendeletben foglaltak szerinti feladataik teljesítése során.
 
 (9) Az (1)–(8) bekezdésekben foglaltak be nem tartása esetén a bejelentett szervezet kijelölését a miniszter visszavonja, és erről haladéktalanul értesíti a Bizottságot.
+
+[^5]: A 14. § (1) bekezdése az 5/2014. (II. 6.) NFM rendelet 3. §-a szerint módosított szöveg.
