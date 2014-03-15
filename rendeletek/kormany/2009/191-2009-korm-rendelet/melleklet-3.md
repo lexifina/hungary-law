@@ -422,17 +422,7 @@
 
 ## c) időjárási adatok (esetleg vízállás vagy szélerősség, munkamenetet akadályozó időjárásnál az akadályozás időtartama is);
 
-## d) létszámadatok:
-
-## - műszakiak,
-
-## - adminisztratívak,
-
-## - kisegítők,
-
-## - fizikai létszám (saját és alvállalkozói szakmunkás, segédmunkás) szakmánként részletezve,
-
-## - összlétszám;
+## d) létszámadatok, szakmánként és feladatonként részletezve, saját és alvállalkozói összlétszám;
 
 ## e) napi teljesítmény adatai (címszószerű körülírásban);
 
@@ -472,7 +462,7 @@
 
 ## o) a műszaki átadás-átvételi eljárás eredményes befejezésének napján az építési napló lezárása.
 
-## 3. Összesítő lap
+## III. Összesítő lap
 
 ## 1. Építtető adatai
 

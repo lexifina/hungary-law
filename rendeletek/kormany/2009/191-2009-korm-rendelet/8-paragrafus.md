@@ -1,5 +1,5 @@
 ## A beruházáslebonyolító
 
-8. §[^43]
+8. §[^53]
 
-[^43]: A 8. §-t és az azt megelőző alcímet a 266/2013. (VII. 11.) Korm. rendelet 55. § g) pont gc) alpontja hatályon kívül helyezte.
+[^53]: A 8. §-t és az azt megelőző alcímet a 266/2013. (VII. 11.) Korm. rendelet 55. § g) pont gc) alpontja hatályon kívül helyezte.
