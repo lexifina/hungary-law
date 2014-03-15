@@ -10,6 +10,7 @@ d) c) pont szerinti felvételek rögzítésére és elektronikus úton történ�
 
 e) elektronikus közúti ellenőrző rendszer elhelyezési (telepítési) és működtetési feltételeire.
 
-(2) A rendelet személyi hatálya – az útdíjtörvény hatálya alá tartozó üzemeltetők kivételével – kiterjed a gépjárműről és annak hatósági jelzéséről felvételt készítő eszközöket, valamint az elektronikus adattovábbító rendszert üzemeltető jogi személyekre, jogi személyiséggel nem rendelkező gazdasági társaságokra és egyéni vállalkozókra.
+(2)[^2] A rendelet személyi hatálya – az útdíjtörvény hatálya alá tartozó üzemeltetők kivételével – kiterjed a gépjárműről és annak hatósági jelzéséről felvételt készítő eszközöket, valamint az elektronikus adattovábbító rendszert üzemeltető jogi személyekre és egyéni vállalkozókra.
 
 [^1]: Az 1. § a 31/2013. (VI. 18.) NFM rendelet 4. §-ával megállapított szöveg.
+[^2]: Az 1. § (2) bekezdése a 12/2014. (III. 14.) NFM rendelet 18. §-a szerint módosított szöveg.
