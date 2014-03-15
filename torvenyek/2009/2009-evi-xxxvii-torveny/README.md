@@ -17,3 +17,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-37-00-00
 | 2013-09-01 | 2013. évi XCIII. törvény | 2009-37-00-00.14 |
 | 2013-12-15 | 2013. évi CCXII. törvény | 2009-37-00-00.15 |
 | 2013-12-31 | 2013. évi CCL. törvény | 2009-37-00-00.16 |
+| 2014-03-15 | 2013. évi CCLII. törvény | 2009-37-00-00.17 |

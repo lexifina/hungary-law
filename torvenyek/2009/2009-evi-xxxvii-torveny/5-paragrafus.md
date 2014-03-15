@@ -28,6 +28,8 @@
 
 13. folyamatos erdőborítás: olyan állapot, amikor a többkorú erdőállomány folyamatosan, egyenletesen borítja az erdő talaját és az erdő megújulása, felújítása az erdőállomány védelmében, véghasználati terület nélkül történik, az erdő tájképi megjelenése nem változik;
 
+13a. gazdálkodó szervezet: a polgári perrendtartásról szóló törvényben meghatározott gazdálkodó szervezet;
+
 14. jogosult erdészeti szakszemélyzet: az e törvény végrehajtására kiadott jogszabály szerinti szakmai gyakorlattal rendelkező, az erdészeti hatóság jogosult szakszemélyzeti névjegyzékében szereplő erdészeti szakszemélyzet;
 
 15. kopár: az Országos Erdőállomány Adattárban nyilvántartott, termőhelyi adottságainál fogva záródott fás szárú- vagy lágy szárú növényzet fenntartására alkalmatlan terület;
