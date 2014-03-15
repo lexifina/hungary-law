@@ -28,7 +28,7 @@ c) az MMA közfeladatai ellátása érdekében az a) és b) pontban foglaltaktó
 
 (7) Az MMA a vagyona terhére – közfeladatai ellátása céljából – zártkörűen működő részvénytársaságot, korlátolt felelősségű társaságot alapíthat, vagy ilyen gazdasági társaságban – ha törvény más feltételt nem határoz meg – legalább a nemzeti vagyonról szóló törvény szerinti többségi befolyást szerezhet.
 
-(8) A (7) bekezdés szerinti gazdasági társaság további gazdálkodó szervezetet nem alapíthat, és gazdálkodó szervezetben részesedést nem szerezhet.
+(8) A (7) bekezdés szerinti gazdasági társaság további, a polgári perrendtartásról szóló törvényben meghatározott gazdálkodó szervezetet (a továbbiakban: gazdálkodó szervezet) nem alapíthat, és gazdálkodó szervezetben részesedést nem szerezhet.
 
 (9) Az MMA az államháztartásból származó forrás felhasználásához kapcsolódó lebonyolítói, végrehajtói feladat ellátása, továbbá közbeszerzés lefolytatása céljából gazdálkodó szervezet alapítását nem kezdeményezheti, abban alapítói (tulajdonosi) jogokat nem gyakorolhat, illetve tagsági (részvényesi) jogviszonyt nem létesíthet, részesedést nem szerezhet.
 

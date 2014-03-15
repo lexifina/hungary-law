@@ -1,4 +1,4 @@
-19. § (1) Az elnökség tagjai és azok Polgári Törvénykönyvről szóló törvény szerinti közeli hozzátartozói nem lehetnek a felügyelő testület tagjai.
+19. § (1) Az elnökség tagjai és azok Polgári Törvénykönyv szerinti közeli hozzátartozói és bejegyzett élettársai nem lehetnek a felügyelő testület tagjai.
 
 (2) Az összeférhetetlenségi ok fennállásáról, illetve kinevezése esetén a megszüntetés módjáról az érintett a kinevezése előtt köteles nyilatkozni. Amennyiben az összeférhetetlenség a kinevezést követően merül fel, az érintett az összeférhetetlenségi ok felmerülésétől számított tizenöt napon belül köteles az összeférhetetlenséget megszüntetni.
 
