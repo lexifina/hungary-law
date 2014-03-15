@@ -1,4 +1,4 @@
-4. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^242]
+4. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^251]
 
 ## KÉRELEM
 
@@ -100,6 +100,12 @@ végzem (a megfelelő aláhúzandó);
 
 ⬜ felsőoktatási intézmény hallgatója.
 
+1.2.5. Az 1.2.1.5. alpont szerinti jogcímen igényelt kiemelt ápolási díj igénylése esetén kérjük, jelölje,
+
+⬜ ha rendelkezik a rehabilitációs hatóság érvényes és hatályos, az ápolt személy tekintetében elvégzett komplex minősítés eredményéről kiállított szakhatósági állásfoglalásával, bizottsági állásfoglalásával, határozatával vagy hatósági bizonyítványával és azt a kérelemhez csatolta.
+
+1.2.6. Ha az 1.2.5. alpont szerinti irattal rendelkezik, de azt nem csatolta a kérelemhez, kérjük, adja meg annak a rehabilitációs szakigazgatási szervnek a megnevezését és címét, amelyik az ápolt személy komplex minősítésének eredményéről szóló iratot kiállította:
+
 2. Az ápolt személyre vonatkozó adatok
 
 2.1. Személyes adatok
@@ -118,7 +124,7 @@ végzem (a megfelelő aláhúzandó);
 
 2.1.7. Társadalombiztosítási Azonosító Jele:
 
-2.1.8. Ha az ápolt személy nem cselekvőképes, a törvényes képviselő neve:
+2.1.8. Ha az ápolt személy cselekvőképtelen vagy cselekvőképességében teljesen korlátozott, a törvényes képviselő neve:
 
 2.1.9. A törvényes képviselő lakcíme:
 
@@ -150,7 +156,7 @@ A megfelelő választ X-szel kell jelölni, és a hiányzó adatokat ki kell tö
 
 4.1.1.3. rendszeres pénzellátásban részesül és annak összege meghaladja az ápolási díj összegét. Nem tekintendő rendszeres pénzellátásnak az a táppénz, amelyet az ápolási díj folyósításának időtartama alatt végzett keresőtevékenységből adódó biztosítási jogviszony alapján – keresőképtelenné válás esetén – folyósítanak, továbbá az a saját jogú nyugdíj, korhatár előtti ellátás, szolgálati járandóság, balettművészeti életjáradék, átmeneti bányászjáradék, rokkantsági ellátás vagy a megváltozott munkaképességű személyek ellátásairól és egyéb törvények módosításáról szóló 2011. évi CXCI. törvény 33. § (1) bekezdése alapján folyósított rehabilitációs ellátás, amelyet az ápolási díjban részesülő személy az Szt. 42. § (4) bekezdése alapján kap.
 
-4.1.2. rendszeres pénzellátásnak minősül: a táppénz, a terhességi-gyermekágyi segély, a gyermekgondozási díj, az öregségi nyugdíj, a korhatár előtti ellátás, a szolgálati járandóság, a balettművészeti életjáradék, az átmeneti bányászjáradék, a rehabilitációs járadék, az öregségi járadék, a munkaképtelenségi járadék, az özvegyi járadék, a növelt összegű öregségi, munkaképtelenségi és özvegyi járadék, az özvegyi nyugdíj – kivéve az ideiglenes özvegyi nyugdíjat, továbbá a házastársa jogán árvaellátásra jogosult fogyatékkal élő, illetve tartósan beteg vagy legalább két árvaellátásra jogosult gyermek eltartásáról gondoskodó személy özvegyi nyugdíját –, a baleseti táppénz, a hozzátartozói baleseti nyugellátások, a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló törvény alapján folyósított pénzbeli ellátás, a rokkantsági ellátás, a rehabilitációs ellátás, a rokkantsági járadék, a hadigondozottak és nemzeti gondozottak pénzbeli ellátásai, a gyermekgondozási segély, a gyermeknevelési támogatás, az időskorúak járadéka, a foglalkoztatást helyettesítő támogatás, a rendszeres szociális segély, az ápolási díj, a nemzeti helytállásért elnevezésű pótlék, a közszolgálati járadék, valamint a szociális biztonsági rendszereknek a Közösségen belül mozgó munkavállalókra, önálló vállalkozókra és családtagjaikra történő alkalmazásáról szóló 1408/71/EGK tanácsi rendelet alapján külföldi szerv által folyósított egyéb azonos típusú ellátás.
+4.1.2. rendszeres pénzellátásnak minősül: a táppénz, a terhességi-gyermekágyi segély, a gyermekgondozási díj, az öregségi nyugdíj, a korhatár előtti ellátás, a szolgálati járandóság, a balettművészeti életjáradék, az átmeneti bányászjáradék, a rehabilitációs járadék, az öregségi járadék, a munkaképtelenségi járadék, az özvegyi járadék, a növelt összegű öregségi, munkaképtelenségi és özvegyi járadék, az özvegyi nyugdíj – kivéve az ideiglenes özvegyi nyugdíjat, továbbá a házastársa jogán árvaellátásra jogosult fogyatékkal élő, illetve tartósan beteg vagy legalább két árvaellátásra jogosult gyermek eltartásáról gondoskodó személy özvegyi nyugdíját –, a baleseti táppénz, a hozzátartozói baleseti nyugellátások, a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló törvény alapján folyósított pénzbeli ellátás, a rokkantsági ellátás, a rehabilitációs ellátás, a rokkantsági járadék, a hadigondozottak és nemzeti gondozottak pénzbeli ellátásai, a gyermekgondozási segély, a gyermeknevelési támogatás, az időskorúak járadéka, a foglalkoztatást helyettesítő támogatás, a rendszeres szociális segély, a nemzeti helytállásért elnevezésű pótlék, a közszolgálati járadék, valamint az uniós rendeletek alapján külföldi szerv által folyósított egyéb azonos típusú ellátás.
 
 4.1.3. fokozott ápolást igényel az a súlyosan fogyatékos személy, aki az alábbi tevékenységek közül legalább három elvégzésére csak mások segítségével képes:
 
@@ -176,8 +182,8 @@ e) lakáson belül – segédeszköz igénybevételével is – közlekedni.
 
 4.4. A kiemelt ápolási díj iránti kérelemhez csatolni kell
 
-4.4.1. a rehabilitációs hatóság érvényes és hatályos szakhatósági állásfoglalását az ápolt személy egészségi állapotáról, vagy
+4.4.1. a rehabilitációs hatóság érvényes és hatályos szakhatósági állásfoglalását, bizottsági állásfoglalását, határozatát vagy hatósági bizonyítványát az ápolt személy vonatkozásában elvégzett komplex minősítés eredményéről, vagy
 
 4.4.2. a kiemelt ápolási díjra való jogosultságot megalapozó körülményekről szóló miniszteri rendelet szerinti igazolást.
 
-[^242]: A 4. számú melléklet a 392/2013. (XI. 12.) Korm. rendelet 14. § d) pontjával megállapított, az 509/2013. (XII. 29.) Korm. rendelet 12. § (2) bekezdése szerint módosított szöveg.
+[^251]: A 4. számú melléklet a 392/2013. (XI. 12.) Korm. rendelet 14. § d) pontjával megállapított, az 509/2013. (XII. 29.) Korm. rendelet 12. § (2) bekezdése, a 69/2014. (III. 13.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.

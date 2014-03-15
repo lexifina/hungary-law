@@ -1,4 +1,4 @@
-3. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^241]
+3. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^250]
 
 ## KÉRELEM
 
@@ -214,15 +214,25 @@ Kérjük, hogy szíveskedjen a megfelelő választ X-szel jelölni, és a hiány
 
 5.1.1. „Egyedülálló” az a személy, aki hajadon, nőtlen, özvegy, elvált vagy házastársától külön él, kivéve, ha élettársa van. A házastársak akkor tekinthetők különélőnek, ha a lakcímük különböző.
 
-5.1.2. „Közös háztartásban élő eltartott gyermeknek” számít:
+5.1.2. „Közös háztartásban élő eltartott gyermeknek” számít az a vér szerinti gyermek, örökbe fogadott
 
-a) a húszévesnél fiatalabb, önálló keresettel nem rendelkező gyermek,
+gyermek, mostohagyermek vagy nevelt gyermek – a Polgári Törvénykönyvről szóló 2013. évi V. törvény szerinti
 
-b) a huszonhárom évesnél fiatalabb, önálló keresettel nem rendelkező, nappali oktatás munkarendje szerint tanulmányokat folytató gyermek,
+gyermekvédelmi nevelőszülő által e jogviszonya keretében nevelt gyermek kivételével –, aki
 
-c) a huszonöt évesnél fiatalabb, önálló keresettel nem rendelkező, felsőoktatási intézmény nappali tagozatán tanulmányokat folytató gyermek,
+5.1.2.1. húszévesnél fiatalabb és önálló keresettel nem rendelkezik,
 
-d) korhatárra való tekintet nélkül a tartósan beteg, az autista, illetve a testi, érzékszervi, értelmi vagy beszédfogyatékos vér szerinti, örökbe fogadott, illetve nevelt gyermek, amennyiben ez az állapot a gyermek 25. életévének betöltését megelőzően is fennállt.
+5.1.2.2. huszonhárom évesnél fiatalabb, önálló keresettel nem rendelkezik és nappali oktatás munkarendje szerint
+
+tanulmányokat folytat,
+
+5.1.2.3. huszonöt évesnél fiatalabb, önálló keresettel nem rendelkezik és felsőoktatási intézmény nappali tagozatán
+
+tanulmányokat folytat,
+
+5.1.2.4. tartósan beteg, autista, illetve testi, érzékszervi, értelmi vagy beszédfogyatékos, korhatárra való tekintet
+
+nélkül, amennyiben ez az állapot a gyermek 25. életévének betöltését megelőzően is fennállt.
 
 5.1.3. A tartósan beteg, az autista, illetve a testi, érzékszervi, értelmi vagy beszédfogyatékos vér szerinti, örökbe fogadott, illetve nevelt gyermek egészségi állapotára vonatkozó igazolásokat – a magasabb összegű családi pótlékra, illetve a fogyatékossági támogatásra vonatkozó irat kivételével – a kérelemhez csatolni kell.
 
@@ -312,6 +322,10 @@ d) az 5.3.3. pont d) és e) alpontjában meghatározott esetben: a korábban meg
 
 5.3.5. Amennyiben az igénylő 14. életévét be nem töltött, iskolában tanuló gyermekének a napközbeni ellátása nem biztosított, az intézmény erre vonatkozó igazolását is csatolni kell.
 
-5.3.6. A kérelmet a kérelmezőn túlmenően a házastársának (élettársának) és a nagykorú gyermekeknek is alá kell írniuk. Ha az ellátást kérő vagy annak közeli hozzátartozója nem cselekvőképes, helyette a törvényes képviselője jogosult az aláírásra.
+5.3.6. A kérelmet a kérelmezőn túlmenően a házastársának (élettársának) és a nagykorú gyermekeknek is alá kell
 
-[^241]: A 3. számú melléklet a 392/2013. (XI. 12.) Korm. rendelet 14. § c) pontjával megállapított szöveg.
+írniuk. Ha az ellátást kérő vagy annak közeli hozzátartozója cselekvőképességében teljesen korlátozott, helyette
+
+a törvényes képviselője jogosult az aláírásra.
+
+[^250]: A 3. számú melléklet a 392/2013. (XI. 12.) Korm. rendelet 14. § c) pontjával megállapított, a 69/2014. (III. 13.) Korm. rendelet 13. § a) pontja szerint módosított szöveg.

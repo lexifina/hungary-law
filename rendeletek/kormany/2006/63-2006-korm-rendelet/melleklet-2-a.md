@@ -170,7 +170,7 @@
 
 ## 4.2.8. A jövedelemről – a Magyar Államkincstár területileg illetékes Igazgatósága által a családtámogatási törvény szerint folyósított családtámogatási ellátás, vagy a fogyatékossági támogatás kivételével – a kérelemhez mellékelni kell a jövedelem típusának megfelelő iratot vagy annak másolatát.
 
-2/A. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^240]
+2/A. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^249]
 
 ## Adatlap
 
@@ -344,4 +344,4 @@ kapott összeg egy havi átlagát kell együttesen figyelembe venni.
 
 4.2.9. A jövedelemről a kérelemhez mellékelni kell – a családtámogatási törvény szerint folyósított családtámogatási ellátás kivételével – a jövedelem típusának megfelelő iratot vagy annak másolatát.
 
-[^240]: A 2/A. számú mellékletet a 95/2013. (III. 29.) Korm. rendelet 22. § (2) bekezdése iktatta be, szövege a 392/2013. (XI. 12.) Korm. rendelet 14. § b) pontjával megállapított szöveg.
+[^249]: A 2/A. számú mellékletet a 95/2013. (III. 29.) Korm. rendelet 22. § (2) bekezdése iktatta be, szövege a 392/2013. (XI. 12.) Korm. rendelet 14. § b) pontjával megállapított szöveg.

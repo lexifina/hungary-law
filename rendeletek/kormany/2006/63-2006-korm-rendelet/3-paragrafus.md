@@ -6,8 +6,9 @@
 
 (3) A havi vélelmezett jövedelem nem haladhatja meg a család (háztartás) által lakott lakás és a tulajdonában álló vagyontárgyak egy főre jutó együttes havi fenntartási költségének háromszorosát.
 
-(4) A (2) bekezdés szerinti fenntartási költségnek minősülnek a közüzemi díjak, a lakbér, a közös költség, a telefondíj, a kötelező és önkéntes biztosítás díjai, az adó- és adójellegű befizetések, valamint a hiteltörlesztés.
+(4)[^13] A (2) bekezdés szerinti fenntartási költségnek minősülnek a közszolgáltatási díjak, a lakbér, a közös költség, a telefondíj, a kötelező és önkéntes biztosítás díjai, az adó- és adójellegű befizetések, valamint a hiteltörlesztés.
 
 [^10]: A 3. § (1) bekezdése a 95/2013. (III. 29.) Korm. rendelet 12. §-ával megállapított szöveg.
 [^11]: A 3. § (1a) bekezdését a 95/2013. (III. 29.) Korm. rendelet 12. §-a iktatta be.
 [^12]: A 3. § (2) bekezdése a 395/2007. (XII. 27.) Korm. rendelet 2. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 20. § (2) bekezdését.
+[^13]: A 3. § (4) bekezdése a 69/2014. (III. 13.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.

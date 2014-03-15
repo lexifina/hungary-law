@@ -38,7 +38,7 @@
 
 ## 2.1. ⬜ Alanyi [a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 50. § (1) bekezdése szerinti] jogcímen kérem a közgyógyellátás megállapítását,
 
-## 2.1.1. ⬜ bentlakásos gyermek- és ifjúságvédelmi intézményben lakó, átmeneti gondozott, átmeneti vagy tartós nevelésbe vett kiskorú személyre tekintettel; vagy
+## 2.1.1. ⬜ bentlakásos gyermek- és ifjúságvédelmi intézményben lakó, átmeneti gondozott, nevelésbe vett kiskorú személyre tekintettel; vagy
 
 ## 2.1.2. ⬜ mert az alábbi ellátások valamelyikében részesülök:
 
@@ -204,19 +204,31 @@
 
 ## 5.2.4. Közeli hozzátartozónak számít:
 
-## a) a házastárs, az élettárs;
+## 5.2.4.1. a házastárs, az élettárs;
 
-## b) a 18. életévét be nem töltött gyermek vonatkozásában a vér szerinti és az örökbe fogadó szülő, illetve a szülő házastársa vagy élettársa;
+## 5.2.4.2. a 18. életévét be nem töltött gyermek vonatkozásában a vér szerinti és az örökbe fogadó szülő, illetve a szülő
 
-## c) az a vér szerinti, örökbe fogadott, illetve nevelt gyermek, aki
+## házastársa vagy élettársa;
 
-## ca) húszévesnél fiatalabb és önálló keresettel nem rendelkezik,
+## 5.2.4.3. az a vér szerinti gyermek, örökbe fogadott gyermek, mostohagyermek vagy nevelt gyermek – a Polgári
 
-## cb) huszonhárom évesnél fiatalabb, önálló keresettel nem rendelkezik és nappali oktatás munkarendje szerint tanulmányokat folytat,
+## Törvénykönyvről szóló 2013. évi V. törvény szerinti gyermekvédelmi nevelőszülő által e jogviszonya keretében
 
-## cc) huszonöt évesnél fiatalabb, önálló keresettel nem rendelkezik és felsőoktatási intézmény nappali tagozatán tanulmányokat folytat,
+## nevelt gyermek kivételével –, aki
 
-## cd) tartósan beteg, autista, illetve testi, érzékszervi, értelmi vagy beszédfogyatékos – korhatárra való tekintet nélkül, amennyiben ez az állapot a gyermek 25. életévének betöltését megelőzően is fennállt.
+## 5.2.4.3.1. húszévesnél fiatalabb és önálló keresettel nem rendelkezik,
+
+## 5.2.4.3.2. huszonhárom évesnél fiatalabb, önálló keresettel nem rendelkezik és nappali oktatás munkarendje szerint
+
+## tanulmányokat folytat,
+
+## 5.2.4.3.3. huszonöt évesnél fiatalabb, önálló keresettel nem rendelkezik és felsőoktatási intézmény nappali
+
+## tagozatán tanulmányokat folytat,
+
+## 5.2.4.3.4. tartósan beteg, autista, illetve testi, érzékszervi, értelmi vagy beszédfogyatékos, korhatárra való tekintet
+
+## nélkül, amennyiben ez az állapot a gyermek 25. életévének betöltését megelőzően is fennállt.
 
 ## 5.2.5. A kérelem elbírálásához szükségesek a tanulói, hallgatói jogviszonyra és az egészségi állapotra vonatkozó igazolások. Amennyiben a tanulói, hallgatói jogviszony fennállását a kérelmező nem igazolja, úgy a hivatal a fővárosi és megyei kormányhivatalt keresi meg az adatszolgáltatás érdekében.
 
@@ -272,7 +284,7 @@
 
 ## 5.2.9. A jövedelemről a kérelemhez mellékelni kell a jövedelem típusának megfelelő iratot vagy annak másolatát.
 
-10. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^247]
+10. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^256]
 
 ## Háziorvosi igazolás
 
@@ -330,4 +342,4 @@ II. A társadalombiztosítás által támogatott, tartósan alkalmazott gyógyí
 
 III. Háziorvosra (intézményi orvosra) vonatkozó adatok, a háziorvos nyilatkozata
 
-[^247]: A 10. számú melléklet a 326/2006. (XII. 23.) Korm. rendelet 11. § (2) bekezdésével megállapított, a 182/2009. (IX. 10.) Korm. rendelet 453. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^256]: A 10. számú melléklet a 326/2006. (XII. 23.) Korm. rendelet 11. § (2) bekezdésével megállapított, a 182/2009. (IX. 10.) Korm. rendelet 453. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

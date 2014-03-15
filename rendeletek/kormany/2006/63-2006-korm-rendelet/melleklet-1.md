@@ -1,6 +1,6 @@
-## 63. §[^237] Az ápolási díj megállapítása vagy felülvizsgálata iránt 2014. január 1-jén folyamatban lévő ügyben a kérelmet benyújtó személy vagy az ápolási díj jogosultja a 25/A. § (1) bekezdés a) vagy b) pontja szerinti igazolás valamelyikének benyújtásával kérheti a kiemelt ápolási díjra való jogosultság megállapítását.
+## 64. §[^246] A szociális, valamint a gyermekvédelmi és gyermekjóléti tárgyú kormányrendeleteknek az új Polgári Törvénykönyvvel összefüggő és egyéb módosításáról szóló 69/2014. (III. 13.) Korm. rendelettel megállapított 25/A. § (1)–(1b) bekezdését azokban a kiemelt ápolási díjra való jogosultság megállapítására irányuló ügyekben is alkalmazni kell, amelyek 2014. március 15-én folyamatban vannak.
 
-1. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^238]
+1. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^247]
 
 ## Vagyonnyilatkozat
 
@@ -76,5 +76,5 @@ __________
 
 ** Becsült forgalmi értékként a jármű kora és állapota szerinti értékét kell feltüntetni.
 
-[^237]: A 63. §-t az 509/2013. (XII. 29.) Korm. rendelet 11. §-a iktatta be.
-[^238]: Az 1. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 453. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^246]: A 64. §-t a 69/2014. (III. 13.) Korm. rendelet 11. §-a iktatta be.
+[^247]: Az 1. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 453. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

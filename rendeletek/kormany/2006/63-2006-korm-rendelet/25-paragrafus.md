@@ -1,6 +1,6 @@
 ## Ápolási díj
 
-25. §[^112] (1) Az ápolási díj megállapítása iránti kérelmet a 4. számú melléklet szerinti formanyomtatványon kell benyújtani. A kérelemhez – az Szt. 43. §-a szerinti kiemelt ápolási díj iránti kérelem kivételével – mellékelni kell
+25. §[^116] (1) Az ápolási díj megállapítása iránti kérelmet a 4. számú melléklet szerinti formanyomtatványon kell benyújtani. A kérelemhez – az Szt. 43. §-a szerinti kiemelt ápolási díj iránti kérelem kivételével – mellékelni kell
 
 a) a háziorvos 5. számú melléklet szerinti
 
@@ -34,4 +34,4 @@ b) az (1) bekezdés a) pont ab) alpontjában foglalt szakvélemény felülvizsg�
 
 (5) Ha a kérelmet az ápolt személy nem írja alá, akkor az ügyben eljáró szerv megvizsgálja ennek okát, és a vizsgálat eredményének figyelembevételével dönt a kérelemről.
 
-[^112]: A 25. § az 509/2013. (XII. 29.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^116]: A 25. § az 509/2013. (XII. 29.) Korm. rendelet 6. §-ával megállapított szöveg.

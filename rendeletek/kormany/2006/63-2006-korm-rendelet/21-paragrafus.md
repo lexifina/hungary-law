@@ -1,8 +1,8 @@
-## 20/A. §[^102] A normatív lakásfenntartási támogatásra való jogosultságot megállapító határozatban rendelkezni kell – ha a települési önkormányzat erről az Szt. 38. § (9) bekezdése alapján rendelkezett – a lakókörnyezet rendezettségének biztosítására vonatkozó kötelezettségekről.
+## 20/A. §[^103] A normatív lakásfenntartási támogatásra való jogosultságot megállapító határozatban rendelkezni kell – ha a települési önkormányzat erről az Szt. 38. § (9) bekezdése alapján rendelkezett – a lakókörnyezet rendezettségének biztosítására vonatkozó kötelezettségekről.
 
-21. §[^103] (1) A természetbeni szociális ellátás formájában megállapított lakásfenntartási támogatás folyósítása a szolgáltató részére történik és annak összegét a támogatással érintett költség(ek) tekintetében a szolgáltató írja jóvá. Ebben az esetben a jogosultságot megállapító határozatban arról is rendelkezni kell, hogy a támogatást mely lakásfenntartási kiadás(ok)hoz nyújtják, továbbá fel kell tüntetni az Szt. 18. § l) pontja szerinti azonosító adato(ka)t.
+21. §[^104] (1) A természetbeni szociális ellátás formájában megállapított lakásfenntartási támogatás folyósítása a szolgáltató részére történik és annak összegét a támogatással érintett költség(ek) tekintetében a szolgáltató írja jóvá. Ebben az esetben a jogosultságot megállapító határozatban arról is rendelkezni kell, hogy a támogatást mely lakásfenntartási kiadás(ok)hoz nyújtják, továbbá fel kell tüntetni az Szt. 18. § l) pontja szerinti azonosító adato(ka)t.
 
-(2) A jegyző a szolgáltatási, egyetemes szolgáltatási vagy közüzemi szerződés alapján, természetbeni szociális ellátás formájában, havi rendszerességgel nyújtott lakásfenntartási támogatásra való jogosultság megállapítása esetén a szolgáltató részére – a jogosultság megállapítását követő hónaptól kezdődően minden hónap 5. napjáig – elektronikus úton adatszolgáltatást teljesít az adatszolgáltatás hónapjában folyósításra került támogatásokról.
+(2)[^105] A jegyző a szolgáltatási, egyetemes szolgáltatási vagy közszolgáltatási szerződés alapján, természetbeni szociális ellátás formájában, havi rendszerességgel nyújtott lakásfenntartási támogatásra való jogosultság megállapítása esetén a szolgáltató részére – a jogosultság megállapítását követő hónaptól kezdődően minden hónap 5. napjáig – elektronikus úton adatszolgáltatást teljesít az adatszolgáltatás hónapjában folyósításra került támogatásokról.
 
 (3) Az adatszolgáltatást a 14. melléklet szerinti formátumban kell teljesíteni, és tartalmaznia kell
 
@@ -26,7 +26,7 @@ i) a támogatás f) pontban jelölt időtartamon belüli megszüntetése esetén
 
 (4) Amennyiben a támogatás jogosultja a (6) bekezdés szerinti társasházi fogyasztó, az adatszolgáltatás során a (3) bekezdés e) pontja tekintetében a társasház szolgáltató általi azonosításához szükséges adatot kell megadni.
 
-(5) A lakásfenntartási támogatással támogatott szolgáltatást szolgáltatási, egyetemes szolgáltatási vagy közüzemi szerződés alapján nyújtó szolgáltató a támogatást az általa vagy megbízottja által kiállított számlában (részszámlában) havonta, illetve a számlakibocsátás gyakoriságához igazodóan, külön soron, a számla végösszegének a támogatással való csökkentése révén érvényesíti.
+(5)[^106] A lakásfenntartási támogatással támogatott szolgáltatást szolgáltatási, egyetemes szolgáltatási vagy közszolgáltatási szerződés alapján nyújtó szolgáltató a támogatást az általa vagy megbízottja által kiállított számlában (részszámlában) havonta, illetve a számlakibocsátás gyakoriságához igazodóan, külön soron, a számla végösszegének a támogatással való csökkentése révén érvényesíti.
 
 (6) Ha a jogosult közös mérővel rendelkező, vagy a szolgáltató részére díjszétosztás nélkül fizető társasházban lakik, a szolgáltató a támogatást a társasház részére kiállított számlában (részszámlában) külön soron, a társasházban lakó jogosultakra összesen jutó támogatást összevontan kezelve érvényesíti. A szolgáltatónak továbbá a társasház részére kiállított számlán vagy annak mellékletében a támogatással érintett lakás(ok) pontos címét – házszám, épület, lépcsőház, emelet, ajtó jelöléssel – és az adott számlán rájuk tekintettel jóváírt összeget tételesen fel kell tüntetnie. A szolgáltatás költségének megfizetése során a jogosult háztartására jutó összeget a támogatás beszámításával a közös képviselő állapítja meg. Amennyiben a közös képviselő a társasház részére kiállított számlában érvényesített támogatást a fogyasztó részére nem állapítja meg, a jegyző erre határozatban kötelezi.
 
@@ -38,5 +38,7 @@ i) a támogatás f) pontban jelölt időtartamon belüli megszüntetése esetén
 
 (10) A 22. §-ban szabályozottak szerint kódhordozó formájában nyújtott lakásfenntartási támogatás esetén a (2)–(9) bekezdésben foglaltakat nem kell alkalmazni.
 
-[^102]: A 20/A. §-t a 331/2011. (XII. 29.) Korm. rendelet 12. §-a iktatta be.
-[^103]: A 21. § a 331/2011. (XII. 29.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^103]: A 20/A. §-t a 331/2011. (XII. 29.) Korm. rendelet 12. §-a iktatta be.
+[^104]: A 21. § a 331/2011. (XII. 29.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^105]: A 21. § (2) bekezdése a 69/2014. (III. 13.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
+[^106]: A 21. § (5) bekezdése a 69/2014. (III. 13.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
