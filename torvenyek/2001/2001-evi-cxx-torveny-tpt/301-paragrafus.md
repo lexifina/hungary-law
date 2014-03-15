@@ -1,6 +1,6 @@
 301. § (1) Fióktelep formájában működő tőzsde alapítása esetén a 300. § (1) bekezdésének a)–f) pontjaiban meghatározottakon kívül az alapítási engedély iránti kérelemhez mellékelni kell
 
-a) a külföldi tőzsde alapító okiratát;
+a) a külföldi tőzsde létesítő okiratát;
 
 b) a külföldi tőzsde székhelye szerinti felügyeleti hatóság igazolását arról, hogy a tőzsde a székhelye szerinti országban szabályozott piacként működik;
 

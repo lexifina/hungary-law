@@ -6,7 +6,7 @@ b) igazolást az alaptőke befizetéséről;
 
 c) legalább egy befektetési vállalkozással, hitelintézettel vagy árutőzsdei szolgáltatóval kötött, a részükre nyújtott szolgáltatásokra vonatkozó, valamint – ha tőzsdei tevékenységet nem végez – tőzsdei tevékenységet végző szervezettel kötött előszerződést;
 
-d) szervezeti felépítésének, irányítási, döntési és ellenőrzési rendjének bemutatását, ha ezeket az alapító okirat nem tartalmazza;
+d) szervezeti felépítésének, irányítási, döntési és ellenőrzési rendjének bemutatását, ha ezeket a létesítő okirat nem tartalmazza;
 
 e) a végezni kívánt elszámolóházi tevékenység részletes bemutatását, különösen az elszámolási technikát, módszereket, adatrögzítési, adatmentési, adatvédelmi megoldásokat;
 

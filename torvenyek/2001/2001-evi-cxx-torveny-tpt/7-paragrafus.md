@@ -6,7 +6,7 @@
 
 a) a tulajdonos neve kivételével az értékpapír jogszabályban meghatározott valamennyi tartalmi kellékét,
 
-b) a kibocsátásról szóló döntést,
+b) a kibocsátásról szóló döntést és a döntés meghozatalának időpontját,
 
 c) a kibocsátott teljes sorozat össznévértékét,
 
@@ -14,4 +14,4 @@ d) a kibocsátott értékpapírok számát, névértékét, és
 
 e) a kibocsátó cégszerű aláírását, részvény esetén a kibocsátó részvénytársaság igazgatósága két tagjának aláírását.
 
-(3) A dematerializált értékpapír olyan névreszóló értékpapír, amelynek nincs sorszáma, a tulajdonos nevét, egyértelmű azonosítására szolgáló adatokat pedig az értékpapír-számla tartalmazza.
+(3) A dematerializált értékpapír olyan névre szóló értékpapír, amelynek nincs sorszáma, a tulajdonos nevét, egyértelmű azonosítására szolgáló adatokat pedig az értékpapírszámla tartalmazza.

@@ -10,4 +10,4 @@
 
 (2) Tőzsdei tevékenységet kizárólag tőzsde végezhet.
 
-(3) A tőzsdére a gazdasági társaságokról szóló törvényi rendelkezéseket, illetőleg fióktelep formájában működő tőzsde esetében az Fkt. rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
+(3) A tőzsdére a Ptk. jogi személyekre vonatkozó rendelkezéseit, fióktelep formájában működő tőzsde esetében az Fkt. rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.

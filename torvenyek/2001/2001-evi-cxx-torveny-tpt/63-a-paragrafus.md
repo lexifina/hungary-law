@@ -30,4 +30,4 @@ b) ha a kibocsátó nem készített még könyvvizsgáló által hitelesített �
 
 (8) A kibocsátó az ellenérték szolgáltatására nyitva álló határidő lejártát követő két munkanapon belül köteles a Felügyeletnek bejelenteni az ellenérték teljesítésének vagy nem teljesítésének tényét, az utóbbi esetben a nem vagy részleges teljesítés indokait is.
 
-(9) Az e törvényben meghatározott bejelentési és közzétételi kötelezettség nem érinti a gazdasági társaságokról szóló törvényben meghatározott bejelentési és közzétételi kötelezettségeket.
+(9) Az e törvényben meghatározott bejelentési és közzétételi kötelezettség nem érinti a Ptk. jogi személyekre vonatkozó rendelkezéseiben meghatározott bejelentési és közzétételi kötelezettségeket.

@@ -2,7 +2,7 @@
 
 ## A TŐZSDE TULAJDONOSAIRA ÉS A TULAJDONSZERZÉSRE VONATKOZÓ SZABÁLYOK
 
-307. § (1) Zártkörű részvénytársaságként működő tőzsde alapító okirata előírhatja az egy tulajdonos által gyakorolható szavazati jog legmagasabb mértékét.
+307. § (1) Zártkörűen működő részvénytársaságként működő tőzsde alapszabálya előírhatja az egy tulajdonos által gyakorolható szavazati jog legmagasabb mértékét.
 
 (2) Tőzsdében a (3) bekezdésben meghatározott részesedéssel rendelkező tulajdonos olyan személy lehet,
 

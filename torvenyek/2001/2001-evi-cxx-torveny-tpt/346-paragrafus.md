@@ -1,6 +1,6 @@
 ## Az elszámolóházi tevékenység végzésére vonatkozó speciális szabályok
 
-346. § (1) Az elszámolóház az általa elszámolt ügyletek teljesítésének biztosítása érdekében, szabályzatában meghatározott garanciarendszert működtet, ennek keretében garanciaalapok, kötelező biztosítékok képzését, óvadék elhelyezését írja elő. Az elszámolóház szabályzatában rögzített módon, az óvadéki jogosult kedvezményezettségével történő zárolás a Ptk. 270. § (2) bekezdése szerinti átadásnak minősül.
+346. § (1) Az elszámolóház az általa elszámolt ügyletek teljesítésének biztosítása érdekében, szabályzatában meghatározott garanciarendszert működtet, ennek keretében garanciaalapok, kötelező biztosítékok képzését, óvadék elhelyezését írja elő. Az elszámolóház szabályzatában rögzített módon, az óvadéki jogosult kedvezményezettségével történő zárolás a Ptk. 5:95. § szerinti alapításnak minősül.
 
 (2) Az ügyletek teljesítéséhez az elszámolóházi tevékenységet végző szervezet szabályzata által meghatározott módon és mértékben biztosítékként megkövetelt és az ügyfelek elszámolóház, illetve központi értéktár által vezetett számláin elkülönítetten nyilvántartott pénzügyi eszköz az ügylet teljesítéséhez óvadékul szolgál.
 

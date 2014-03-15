@@ -1,4 +1,4 @@
-154. § (1) A részvényesi meghatalmazott köteles a részvényest a szerződésben meghatározott módon és időben tájékoztatni a részvénytársaságnak a Gt. és e törvény előírásai alapján közzétett hirdetményeiről, a közgyűlés határozatairól, és azok tartalmáról, valamint a részvényesi jogok gyakorlása körében tett intézkedéseiről és azok következményeiről.
+154. § (1) A részvényesi meghatalmazott köteles a részvényest a szerződésben meghatározott módon és időben tájékoztatni a részvénytársaságnak a Ptk. jogi személyekre vonatkozó rendelkezései és e törvény előírásai alapján közzétett hirdetményeiről, a közgyűlés határozatairól, és azok tartalmáról, valamint a részvényesi jogok gyakorlása körében tett intézkedéseiről és azok következményeiről.
 
 (2) A részvényesi meghatalmazott köteles a részvényest tájékoztatni a részvénytársasággal kapcsolatban tudomására jutott minden, a részvényesi jogok gyakorlását befolyásoló információról, valamint a birtokába került okiratok tartalmáról. Az okiratokról a részvényes kérésére bármikor köteles másolatot szolgáltatni.
 

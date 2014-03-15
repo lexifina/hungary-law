@@ -20,7 +20,7 @@ A törvényben hivatkozott jogszabályok rövidítései
 
 9. Fttv.: a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló 2008. évi XLVII. törvény,
 
-10. Gt.: a gazdasági társaságokról szóló 2006. évi IV. törvény,
+10.
 
 11. Hpt.: a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény,
 
@@ -34,7 +34,7 @@ A törvényben hivatkozott jogszabályok rövidítései
 
 16.
 
-17. Ptk.: a Polgári Törvénykönyvről szóló törvény,
+17. Ptk.: a Polgári Törvénykönyvről szóló 2013. évi V. törvény,
 
 18. Szmt.: a számvitelről szóló 2000. évi C. törvény,
 
@@ -42,4 +42,4 @@ A törvényben hivatkozott jogszabályok rövidítései
 
 20. Bnytv.: a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény,
 
-21. Batv.: a befektetési alapkezelőkről és a kollektív befektetési formákról szóló 2011. évi CXCIII. törvény.
+21. Kbftv.: a kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény.

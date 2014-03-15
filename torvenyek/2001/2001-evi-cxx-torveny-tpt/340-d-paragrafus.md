@@ -14,9 +14,11 @@ c) az általa elszámolt, illetve az általa elszámolásra közvetített ügyle
 
 d) a Hpt. 3. § (1) bekezdés b) pontjában meghatározott tevékenységet kizárólag az általa elszámolt, illetve az általa elszámolásra közvetített ügylet teljesítése érdekében, kizárólag likvid eszközben történő, legalább teljes mértékű fedezettséget biztosító biztosítéknyújtás mellett végezni,
 
-e) a Hpt. 3. § (1) bekezdés d) pontjában meghatározott tevékenységet kizárólag az általa elszámolt, illetve az általa elszámolásra közvetített ügylettel kapcsolatos pénzügyi teljesítés lebonyolítása érdekében végezni, valamint
+e) a Hpt. 3. § (1) bekezdés d) pontjában meghatározott tevékenységet kizárólag az általa elszámolt, illetve az általa elszámolásra közvetített ügylettel kapcsolatos pénzügyi teljesítés lebonyolítása érdekében végezni,
 
-f) a fenti tevékenységeket segítő kiegészítő tevékenységként informatikai, adatszolgáltatási, valamint oktatási tevékenységet végezni.
+f) a fenti tevékenységeket segítő kiegészítő tevékenységként informatikai, adatszolgáltatási, valamint oktatási tevékenységet végezni, valamint
+
+g) a központi értéktár vagy az elszámolóház által kiszervezett tevékenységet végezni.
 
 (3) A központi szerződő fél a (2) bekezdés d)–e) pontjában meghatározott bármely tevékenységet szakosított hitelintézetként végezheti.
 

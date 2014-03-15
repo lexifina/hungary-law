@@ -1,10 +1,10 @@
 394. § (1) A Felügyelet feladata ellátása érdekében kezelheti
 
-a) a kockázati tőkealap-kezelő vezető állású személyének és alkalmazottjának, a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél, illetve a központi értéktár vezető állású személyeinek és alkalmazottainak a 356. §-ban előírt feltételek meglétének ellenőrzésére szolgáló adatait;
+a) a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél, illetve a központi értéktár vezető állású személyeinek és alkalmazottainak a 356. §-ban előírt feltételek meglétének ellenőrzésére szolgáló adatait;
 
 b) a tőzsdében történő tulajdonszerzés engedélyezése iránti kérelmet benyújtó személy, illetve a tőzsde tulajdonosának a 308. §-ban előírt feltételek meglétének ellenőrzésére szolgáló adatait;
 
-c) a pénzügyi közvetítőrendszer felügyeletének ellátása során, a Felügyelet ellenőrzési feladatainak ellátása érdekében a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél, illetve a központi értéktár természetes személy ügyfelének természetes személyazonosító adatait, jogi személy ügyfelének azonosító adatait illetve az ilyen adatot tartalmazó nyilvántartást vagy adatbázist; az ügyfél vagyoni helyzetére, üzleti befektetési tevékenységére, gazdálkodására, tulajdonosi, üzleti kapcsolataira, számlájának egyenlegére és forgalmára vonatkozó adatokat;
+c) a pénzügyi közvetítőrendszer felügyeletének ellátása során, a Felügyelet ellenőrzési feladatainak ellátása érdekében a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél, illetve a központi értéktár természetes személy ügyfelének természetes személyazonosító adatait, jogi személy ügyfelének azonosító adatait illetve az ilyen adatot tartalmazó nyilvántartást vagy adatbázist; az ügyfél vagyoni helyzetére, üzleti befektetési tevékenységére, gazdálkodására, tulajdonosi, üzleti kapcsolataira, számlájának egyenlegére és forgalmára vonatkozó adatokat;
 
 d) a bejelentésre kötelezett bennfentes jogi személy azonosító adatait, bennfentes természetes személy esetében a természetes személyazonosító adatait, lakcímét, valamint az ügylet azonosító adatait;
 
@@ -18,9 +18,7 @@ f) az összeférhetetlenségi szabályok betartásának ellenőrzése érdekébe
 
 3. az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél vagy a központi értéktár vezető állású személye és alkalmazottja,
 
-4. az ügynök,
-
-5. a kockázati tőkealap-kezelési tevékenységet végző szervezet vezető állású személye és alkalmazottja
+4. az ügynök
 
 természetes személyazonosító adatait;
 

@@ -26,15 +26,15 @@ b) a XIX/A. és XIX/B. Fejezet alkalmazásában minden olyan vállalkozás, amel
 
 9. befektetési ajánlás: pénzügyi eszközre, tőzsdei termékre vagy annak kibocsátójára vonatkozó olyan elemzés, javaslat vagy más információ, amelynek nyilvánosságra hozatala vagy mások számára oly módon történő hozzáférhetővé tétele, amely alapján az nyilvánosságra kerülhet, befolyásolhatja, hogy a befektető saját vagy más pénzét, egyéb vagyontárgyát részben vagy egészben a tőkepiac hatásaitól tegye függővé,
 
-10. befektetési alap: Batv.-ben meghatározott fogalom,
+10. befektetési alap: Kbftv.-ben meghatározott fogalom,
 
 11.
 
-12. befektetési alapkezelő: Batv.-ben meghatározott fogalom,
+12. befektetési alapkezelő: Kbftv.-ben meghatározott fogalom,
 
 13–14.
 
-15. befektetési jegy: Batv.-ben meghatározott fogalom,
+15. befektetési jegy: Kbftv.-ben meghatározott fogalom,
 
 16.
 
@@ -94,9 +94,9 @@ e) a külföldi székhelyű vállalkozás magyarországi fióktelepe, ha a fiók
 
 34. ellenőrző befolyás: a Hpt.-ben ilyenként meghatározott fogalom,
 
-35. ellenőrzött társaság: a Gt.-ben ilyenként meghatározott fogalom,
+35. ellenőrzött társaság: a Ptk. 3:324. § (1) bekezdésében meghatározott társaság,
 
-36. elszámolási rendszer: a tőzsdén, vagy a tőzsdén kívül megkötött pénz- és tőkepiaci ügyletekre vonatkozó megbízások egységes rend és közös szabályok szerinti feldolgozására, elszámolására illetve teljesítésére vonatkozó, a rendszer tagjai által kötött kölcsönös megállapodás,
+36. elszámolási rendszer: pénzügyi eszközre kötött ügyletekre vonatkozó megbízások egységes rend és közös szabályok szerinti feldolgozására, elszámolására, illetve teljesítésére vonatkozó, a rendszer tagjai által kötött kölcsönös megállapodás,
 
 37. elszámolóház: a tőzsdén, a tőzsdén kívül, vagy külön törvény által meghatározott szervezett piacon pénzügyi eszközre kötött ügyletek elszámolásával és teljesítésével kapcsolatos szolgáltatásokat végző szakosított hitelintézet,
 
@@ -146,7 +146,7 @@ e) a külföldi székhelyű vállalkozás magyarországi fióktelepe, ha a fiók
 
 60. intézményi befektető:
 
-a) a hitelintézet, a pénzügyi vállalkozás, befektetési vállalkozás, a kollektív befektetési forma, befektetési alapkezelő, a kockázati tőkealap, a kockázati tőkealap-kezelő, a biztosító, az önkéntes kölcsönös biztosító pénztár, a magánnyugdíjpénztár, az egészségbiztosítási szerv és a Nyugdíj-biztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv,
+a) a hitelintézet, a pénzügyi vállalkozás, befektetési vállalkozás, a kollektív befektetési forma, befektetési alapkezelő, a biztosító, az önkéntes kölcsönös biztosító pénztár, a magánnyugdíjpénztár, a foglalkoztatói nyugdíjszolgáltató intézmény, az egészségbiztosítási szerv és a Nyugdíj-biztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv,
 
 b) mindazon devizakülföldi, amely a saját joga alapján ilyennek tekintendő,
 
@@ -162,7 +162,7 @@ b) mindazon devizakülföldi, amely a saját joga alapján ilyennek tekintendő,
 
 66. kibocsátási program: egy kibocsátótól származó, hitelviszonyt megtestesítő értékpapírok, illetve zártvégű befektetési alapra forgalomba hozott befektetési jegyek egymást követő nyilvános értékpapírkibocsátás-összessége, amelynek alapfeltételeit a kibocsátó, illetve az alapkezelő a program indításakor rögzíti, és az egyes részkibocsátások során a kibocsátó, illetve az alapkezelő meghatározza a kibocsátás egyedi adatait,
 
-67. kibocsátó: az a jogi személy, illetőleg jogi személyiség nélküli gazdasági társaság, amely az értékpapírban megtestesített kötelezettség teljesítését a maga nevében vállalja,
+67. kibocsátó: az a személy, aki az értékpapírban megtestesített kötelezettség teljesítését a maga nevében vállalja,
 
 68. kiszervezés: olyan megállapodás a tőzsde, az elszámolóház, a központi értéktár, a központi szerződő fél vagy egy harmadik személy között, amelynek keretében a kiszervezett tevékenységet végző olyan tevékenységet folytat, amelyet egyébként a tőzsde, az elszámolóház, a központi értéktár, a központi szerződő fél maga végezne,
 
@@ -176,21 +176,15 @@ c) éves árbevétele nem haladja meg az ötvenmillió eurót, illetve a mérleg
 
 70. elszámolás: a tőzsdén, tőzsdén kívül, vagy külön törvény által meghatározott szervezett piacon, egyensúlyozó platformon árura, illetve pénzügyi eszközre kötött ügyletek elszámolására vonatkozó megbízások feldolgozásának, egyeztetésének és megerősítésének a folyamata, a teljesítés alapjául szolgáló végső elszámolandó pozíció kialakítása a teljesítést megelőzően (bruttó vagy nettó elven), valamint annak biztosítása, hogy megfelelő eszközök álljanak rendelkezésre a teljesítéshez,
 
-71. kockázati tőkealap: kockázati tőkealap-jegy zártkörű forgalomba hozatalával létrehozott és működtetett, jogi személyiséggel rendelkező vagyontömeg, amelyet a kockázati tőkealap-kezelő a befektetők általános megbízása alapján, azok érdekében kezel,
-
-72. kockázati tőkealap-kezelő: kockázati tőkealap-kezelési tevékenységre engedéllyel rendelkező részvénytársaság, illetve fióktelep,
-
-73. kockázati tőkealap-kezelési tevékenység: a kockázati tőkealap-kezelő által a meghirdetett befektetési elveknek megfelelő kockázati tőkealap kialakítása és a kockázati tőkealap vagyonának a kockázati tőkealap-kezelő döntése alapján a kockázati tőkealap alapkezelési szabályzatában meghirdetett befektetési elveknek megfelelő kezelése, befektetése,
-
-74. kockázati tőkealap-jegy: a kockázati tőkealap nevében (javára és terhére) – e törvényben meghatározott módon és alakszerűséggel – sorozatban kibocsátott, vagyoni és egyéb jogokat biztosító, átruházható értékpapír,
+71–74.
 
 75. konszolidált beszámoló: az Szmt. szerint meghatározott beszámoló,
 
-76. kollektív befektetési értékpapír: a Batv.-ben meghatározott fogalom,
+76. kollektív befektetési értékpapír: a Kbftv.-ben meghatározott fogalom,
 
-77. kollektív befektetési forma: a Batv.-ben meghatározott fogalom,
+77. kollektív befektetési forma: a Kbftv.-ben meghatározott fogalom,
 
-77/A. A kötvény névre szóló, hitelviszonyt megtestesítő értékpapír, amely lejárat nélküli vagy – jogszabály által megszabott keretek között – lejárattal rendelkezik. A kötvényben a kibocsátó (az adós) arra kötelezi magát, hogy az ott megjelölt pénzösszegnek az előre meghatározott kamatát vagy egyéb jutalékait, valamint az általa vállalt esetleges egyéb szolgáltatásokat (a továbbiakban együtt: kamat), továbbá a pénzösszeget a kötvény mindenkori tulajdonosának, illetve jogosultjának (a hitelezőnek) a megjelölt időben és módon megfizeti, illetőleg teljesíti. A kötvénynek tartalmaznia kell: a) a kibocsátáshoz szükséges felhatalmazást, b) a kötvény elnevezését és kibocsátásának célját, c) a kötvény névértékét, értékpapírkódját és – dematerializált kötvény kivételével – sorszámát, d) a kibocsátó megnevezését, e) az átruházásra vonatkozó esetleges korlátozást, f) a kötvény futamidejét (kivéve a lejárat nélküli kötvényt); a kamatfizetési és beváltási (törlesztési) időpontokat és feltételeket, g) a kötvény összegének visszafizetését (kivéve a lejárat nélküli kötvényt) és a kamat megfizetését biztosító kötelezettségvállalásokat, h) a kötvény kiállításának helyét és napját, i) a kibocsátó aláírását. Dematerializált kötvényre is a fentieket kell alkalmazni, azzal az eltéréssel, hogy az i) pontban meghatározott személyek aláírását – az értékpapírokra vonatkozó törvényi rendelkezéseknek megfelelően – a kibocsátó által kiállított és a központi értéktárban elhelyezett okiraton kell feltüntetni. A dematerializált kötvény az aláírás helyett az okiratot aláírók nevét tartalmazza. Kötvény kibocsátására jogosult: a) az állam, beleértve a külföldi államot is, b) a Magyar Nemzeti Bank, c) az önkormányzat, d) nemzetközi szervezet és minden olyan külföldi szervezet, amely saját joga alapján kötvény kibocsátására jogosult, e) jogi személyiséggel rendelkező gazdálkodó szervezet, illetve a jogi személyiséggel rendelkező külföldi gazdálkodó szervezet fióktelepe, f) külön törvényben erre feljogosított szervezet.
+77/A.
 
 78. közeli hozzátartozó: a Ptk.-ban meghatározott személy és az élettárs,
 
@@ -234,9 +228,9 @@ c) éves árbevétele nem haladja meg az ötvenmillió eurót, illetve a mérleg
 
 98. nyitva szállítás: olyan átruházható értékpapírral kapcsolatos ügylet, amelynek során az értékpapír és az ellenérték szolgáltatása (átutalása) nem azonos időpontban történik,
 
-99. nyílt végű befektetési alap: a Batv. szerinti befektetési alap,
+99. nyílt végű befektetési alap: a Kbftv. szerinti befektetési alap,
 
-100. összehangoltan eljáró személyek: olyan természetes személyek, jogi személyek, illetőleg jogi személyiség nélküli egyéb szervezetek, akik/amelyek a céltársaságban történő befolyásszerzésre, a céltársaság irányításának megszerzésére vagy vételi ajánlat meghiúsítására irányuló megállapodás alapján működnek együtt,
+100. összehangoltan eljáró személyek: olyan természetes személyek, jogi személyek vagy egyéb szervezetek, akik vagy amelyek a céltársaságban történő befolyásszerzésre, a céltársaság irányításának megszerzésére vagy vételi ajánlat meghiúsítására irányuló megállapodás alapján működnek együtt,
 
 101. pénzpiaci eszköz: sorozatban kibocsátott, pénzkövetelésre szóló eszköz, amellyel a pénzpiacon kereskednek,
 
@@ -358,7 +352,7 @@ b) az adott szabályozott piacon, feltéve hogy a részvényt más szabályozott
 
 4. Felügyelet: a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró MNB,
 
-5. hitelintézet, bank, szakosított hitelintézet, szövetkezeti hitelintézet, pénzügyi vállalkozás: a Hpt.-ben ilyenként meghatározott gazdálkodó szervezet,
+5. hitelintézet, bank, szakosított hitelintézet, szövetkezeti hitelintézet, pénzügyi vállalkozás: a Hpt.-ben ilyenként meghatározott szervezet,
 
 6. fióktelep: az Fkt.-ban, illetve a Ctv.-ben ilyenként meghatározott szervezet,
 

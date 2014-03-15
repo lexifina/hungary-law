@@ -30,6 +30,8 @@ l) az ügylet elszámolásával kapcsolatosan azt az időpontot, melyet követő
 
 (3) A szabályzatoknak a központi szerződő fél ügyfeleire nézve biztosítania kell az egyenlő bánásmód követelményének megtartását.
 
+(3a) Az üzletszabályzat és a szabályzatok rendelkezéseinek tervezetét a központi szerződő fél véleményezteti azzal a tőzsdével, amelynek szerződés alapján elszámolást végez.
+
 (4) A (2) bekezdésben foglalt szabályzatok alkalmazhatóságához szükséges engedélyt a Felügyelet adja ki, módosítja és vonja vissza. Az engedélyezési eljárásban az elszámolási rendszer hatékony és megbízható működésével kapcsolatos kérdéseket a Felügyelet vizsgálja.
 
 (5) A Felügyelet az engedély megadását megtagadja, ha

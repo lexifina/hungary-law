@@ -16,6 +16,8 @@ e) befektetési vállalkozás, ideértve a külföldi befektetési vállalkozás
 
 f) elszámolóházi tevékenységet végző szervezet, ideértve a külföldi elszámolóházi tevékenységet végző szervezetet;
 
-g) Hpt. szerinti pénzügyi holding társaság.
+g) Hpt. szerinti pénzügyi holding társaság;
+
+h) a központi szerződő fél.
 
 (2) A központi értéktárban a Magyar Állam, illetőleg a Magyar Állam többségi tulajdonában lévő vállalkozás közvetlen tulajdoni részesedésének mértéke legalább ötven százalék és egy szavazat.

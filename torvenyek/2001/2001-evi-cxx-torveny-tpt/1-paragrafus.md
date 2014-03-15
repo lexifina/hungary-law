@@ -30,10 +30,6 @@ l)
 
 m) a Magyarország területén lakóhellyel vagy székhellyel rendelkező személy vagy szervezet által készített, illetve terjesztett befektetési ajánlásra,
 
-n) a Magyarország területén végzett, e törvényben meghatározott kockázati tőkealap-kezelési tevékenységre, valamint a Magyarország területén székhellyel rendelkező, e törvény szerinti kockázati tőkealapok, illetve kockázati tőkealap-kezelők alapítására, létrehozatalára, működésére és felügyeletére,
-
-o) a Magyarország területén székhellyel rendelkező kockázati tőkealap-kezelő külföldön alapított fióktelepe által végzett kockázati tőkealap-kezelési tevékenységre,
-
-p) a Magyarország területén székhellyel rendelkező kockázati tőkealap-kezelő határon át történő szolgáltatás nyújtására,
+n)–p)
 
 q) Magyarország területén a befektetési alapkezelő, kollektív befektetési forma, befektetési vállalkozás, az elszámolóházi tevékenységet végző szervezet, a központi értéktár, a pénzügyi intézmény, a biztosító, az önkéntes kölcsönös biztosító pénztár, a magánnyugdíjpénztár, a foglalkoztatói nyugdíjszolgáltató intézmény által végzett, e törvényben meghatározott érték-papírkölcsönzésre.

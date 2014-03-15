@@ -1,6 +1,6 @@
 ## A központi értéktári tevékenység végzésére vonatkozó speciális szabályok
 
-350/C. § (1) A központi értéktár az ügylet teljesítésének biztosítása érdekében, a szabályzatában óvadék elhelyezését írhatja elő. A központi értéktár szabályzatában rögzített módon, az óvadéki jogosult kedvezményezettségével történő zárolás a Ptk. 270. § (2) bekezdése szerinti átadásnak minősül.
+350/C. § (1) A központi értéktár az ügylet teljesítésének biztosítása érdekében, a szabályzatában óvadék elhelyezését írhatja elő. A központi értéktár szabályzatában rögzített módon, az óvadéki jogosult kedvezményezettségével történő zárolás a Ptk. 5:95. § szerinti alapításnak minősül.
 
 (2) Az ügylet teljesítéséhez az ügyfél központi értéktár által vezetett számláján elkülönítetten nyilvántartott pénzügyi eszköz az ügylet teljesítéséhez óvadékul szolgál.
 

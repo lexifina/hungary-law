@@ -8,7 +8,7 @@ c) legalább egy befektetési vállalkozással, hitelintézettel vagy árutőzsd
 
 d) a 350/E. §-ban meghatározott szabályzatokat,
 
-e) szervezeti felépítésének, irányítási, döntési és ellenőrzési rendjének bemutatását, ha ezeket az alapító okirat nem tartalmazza,
+e) szervezeti felépítésének, irányítási, döntési és ellenőrzési rendjének bemutatását, ha ezeket a létesítő okirat nem tartalmazza,
 
 f) a rendelkezésre álló vagy beszerezni kívánt tárgyi, technikai eszközök leírását, melyből megállapítható, hogy a kérelmező
 

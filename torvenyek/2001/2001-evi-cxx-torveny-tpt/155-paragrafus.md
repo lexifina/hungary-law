@@ -4,4 +4,4 @@
 
 (3) Devizakülföldi részvényesi meghatalmazott belföldön végzett tevékenységére e fejezet rendelkezéseit kell alkalmazni, azzal, hogy devizakülföldi ügyfeleivel szembeni felelősségére a rávonatkozó külföldi szabályozást kell alkalmazni.
 
-(4) Az e törvényben nem szabályozott kérdésekben a részvényes és a részvényesi meghatalmazott szerződésére, a részvényesi jogok részvényesi meghatalmazott által történő gyakorlására a Ptk. megbízásra vonatkozó szabályait kell alkalmazni.
+(4) Az e törvényben nem szabályozott kérdésekben a részvényes és a részvényesi meghatalmazott szerződésére, a részvényesi jogok részvényesi meghatalmazott által történő gyakorlására a Ptk. megbízási szerződésre vonatkozó szabályait kell alkalmazni.

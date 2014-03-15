@@ -1,12 +1,12 @@
 300. § (1) A tőzsde alapítására vonatkozó engedély iránti kérelemhez mellékelni kell:
 
-a) a tőzsde alapító okiratát;
+a) a tőzsde alapszabályát;
 
 b) a tőzsde alapításában részt vevő tulajdonosok megnevezését, az általuk képviselt tulajdonosi jog mértékét;
 
 c) a jegyzett tőke alapítók által történő befizetését igazoló dokumentumot;
 
-d) a szervezeti felépítésének, az irányítási, döntési és ellenőrzési rendjére vonatkozó, illetőleg a szervezeti és működési szabályzatra vonatkozó tervezet bemutatását, ha ezeket az alapító okirat részletesen nem tartalmazza;
+d) a szervezeti felépítésének, az irányítási, döntési és ellenőrzési rendjére vonatkozó, és a szervezeti és működési szabályzatra vonatkozó tervezet bemutatását, ha ezeket az alapszabály részletesen nem tartalmazza;
 
 e) az elszámolás biztosítására vonatkozó szerződések tervezetét;
 
@@ -16,7 +16,7 @@ g) nyilatkozatot arról, hogy a tőzsde irányítása a Magyarországon létesí
 
 (2) Ha az alapítók között olyan személy szerepel, aki (amely) az alapítás alatt lévő tőzsdében minősített befolyást kíván szerezni, az (1) bekezdésben foglaltakon kívül az engedély iránti kérelemhez mellékelni kell
 
-a) a cég alapító okiratát;
+a) a cég létesítő okiratát;
 
 b) a cég három hónapnál nem régebbi cégkivonatát, külföldi cég esetében az eredeti cégkivonatot és annak hiteles magyar nyelvű fordítását vagy igazolást arról, hogy a céget a vállalati (gazdasági) nyilvántartásba bejegyezték;
 

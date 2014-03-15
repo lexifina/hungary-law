@@ -8,7 +8,7 @@ ab) igazolást a jegyzett tőke befizetéséről,
 
 ac) legalább egy – azonos elszámolási rendszerbe tartozó – befektetési vállalkozással, hitelintézettel vagy árutőzsdei szolgáltatóval kötött, a részükre nyújtott szolgáltatásokra vonatkozó, valamint tőzsdei tevékenységet végző szervezettel kötött előszerződést,
 
-ad) szervezeti felépítésének, irányítási, döntési és ellenőrzési rendjének bemutatását, ha ezeket az alapító okirat nem tartalmazza,
+ad) szervezeti felépítésének, irányítási, döntési és ellenőrzési rendjének bemutatását, ha ezeket a létesítő okirat nem tartalmazza,
 
 b) külföldi központi értéktári tevékenységet végző szervezet magyarországi fióktelepének a 340/A. § (5) bekezdésében foglaltaknak való megfelelést igazoló dokumentumokat,
 

@@ -16,4 +16,4 @@
 
 (4) A kibocsátó az egy sorozatnak minősülő értékpapíroknak csak azonos névértéken és azonos módon történő előállításáról rendelkezhet.
 
-(5) Ha a kibocsátó dematerializált értékpapírt bocsátott ki, vagy az értékpapírt dematerializált értékpapírrá alakította át, annak nyomdai úton történő előállításáról utóbb nem rendelkezhet.
+(5) Ha a kibocsátó dematerializált értékpapírt bocsátott ki, vagy az értékpapírt dematerializált értékpapírrá alakította át, annak nyomdai úton történő előállításáról – zártkörűen működő részvénytársaság részvényei kivételével – utóbb nem rendelkezhet.

@@ -11,3 +11,5 @@
 (5) Ha a számlatulajdonos a zárolás időtartama alatt az értékpapírt jogosult elidegeníteni, a számlavezető gondoskodik arról, hogy a zárolásra okot adó körülmény feltüntetésével az értékpapír jóváírásra kerüljön az új számlatulajdonos javára vezetett értékpapír-számlához kapcsolódó zárolt értékpapír-alszámlán.
 
 (6) Ha az a személy, akinek javára a zárolás történt, igazolja, hogy az értékpapír tulajdonjogát megszerezte, a számlavezető haladéktalanul gondoskodik az értékpapírnak az új tulajdonos által megjelölt értékpapír-számlára történő átutalásáról.
+
+(7) Ha a zárolás időtartama alatt a kibocsátó a dematerializált módon előállított részvényt nyomdai úton előállított részvénnyé alakítja át, úgy a kibocsátó a nyomdai úton előállított részvényt a számlavezető kérésére a számlavezető részére adja át.

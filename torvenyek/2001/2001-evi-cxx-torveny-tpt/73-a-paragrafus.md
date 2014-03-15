@@ -8,7 +8,7 @@ a) a 75. § szerinti ellenajánlat megtételének ösztönzése végett eljárjo
 
 b) a közgyűlés által az (1) bekezdés szerinti időpontot megelőzően elfogadott határozat végrehajtása érdekében hozzon döntést, feltéve, hogy az a céltársaság szokásos üzleti tevékenységének körébe tartozik.
 
-(3) Nem minősül az (1) bekezdés szerinti alapszabályi tilalom megsértésének, ha a céltársaság igazgatósága a vételi ajánlat megtételét, illetőleg az arra vonatkozó tudomásszerzést követően a gazdasági társaságokról szóló törvény szabályai szerint összehívott közgyűlésen elfogadott határozata alapján, a határozatban nevesített esetekben és módon jár el.
+(3) Nem minősül az (1) bekezdés szerinti alapszabályi tilalom megsértésének, ha a céltársaság igazgatósága a vételi ajánlat megtételét, vagy az arra vonatkozó tudomásszerzést követően a Ptk. jogi személyekre vonatkozó rendelkezései szerint összehívott közgyűlésen elfogadott határozata alapján, a határozatban nevesített esetekben és módon jár el.
 
 (4) A céltársaság igazgatósága köteles a vételi ajánlatot véleményezni, és azt a működési terv és az ajánlattevő gazdasági tevékenységéről szóló jelentés megtekintésének helyén a részvényesek számára – az elfogadó nyilatkozat megtételére nyitva álló határidő kezdő napját megelőzően – közzétenni. Az igazgatóság véleményének kötelező tartalmi elemeit a 9. számú melléklet tartalmazza. Ha a Felügyelet a vételi ajánlatot módosított tartalommal hagyta jóvá, az igazgatóság szükség esetén a módosításokra tekintettel újabb véleményt tehet közzé.
 

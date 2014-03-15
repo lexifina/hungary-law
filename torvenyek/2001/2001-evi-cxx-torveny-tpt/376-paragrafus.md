@@ -46,9 +46,9 @@ a Magyar Kereskedelmi és Iparkamara mellett működő Állandó Választottbír
 
 (9) A Pénz- és Tőkepiaci Állandó Választottbíróság jogi személy. Székhelye Budapest.
 
-(10) A Pénz- és Tőkepiaci Állandó Választottbíróság jogi személyiségét alapító okiratának Pénzügyi Közlönyben történő közzététele napjával nyeri el. A közzétételt a miniszter rendeli el a Pénz- és Tőkepiaci Állandó Választottbíróság bejelentése alapján. A bejelentéshez mellékelni kell az alapító okiratot.
+(10) A Pénz- és Tőkepiaci Állandó Választottbíróság jogi személyiségét létesítő okiratának Nemzetgazdasági Közlönyben történő közzététele napjával nyeri el. A közzétételt a miniszter rendeli el a Pénz- és Tőkepiaci Állandó Választottbíróság bejelentése alapján. A bejelentéshez mellékelni kell az létesítő okiratot.
 
-(11) A Pénz- és Tőkepiaci Állandó Választottbíróság alapító okiratában meg kell határozni:
+(11) A Pénz- és Tőkepiaci Állandó Választottbíróság létesítő okiratában meg kell határozni:
 
 a) a választottbíróság szervezeti rendjét,
 
@@ -72,13 +72,13 @@ d) egyéb bevételek.
 
 (13) A Pénz- és Tőkepiaci Állandó Választottbíróság szervezete a választottbírói testületből, a testület tagjai közül kijelölt legalább három, legfeljebb öt tagú elnökségből és a Gazdasági Hivatalból áll.
 
-(14) Az elnökség a Pénz- és Tőkepiaci Állandó Választottbíróság általános döntéshozó és irányító szerve. Az elnökség kijelölésének és működésének szabályait az alapító okirat és a Pénz- és Tőkepiaci Állandó Választottbíróság szabályzatai tartalmazzák.
+(14) Az elnökség a Pénz- és Tőkepiaci Állandó Választottbíróság általános döntéshozó és irányító szerve. Az elnökség kijelölésének és működésének szabályait a létesítő okirat és a Pénz- és Tőkepiaci Állandó Választottbíróság szabályzatai tartalmazzák.
 
 (15) A Pénz- és Tőkepiaci Állandó Választottbíróságot harmadik személlyel szemben, a bíróság és hatóságok előtt az elnökség tagjai, illetve az általuk arra felhatalmazott személyek képviselik a Pénz- és Tőkepiaci Állandó Választottbíróság szabályzataiban meghatározott módon.
 
 (16) A Pénz- és Tőkepiaci Állandó Választottbíróság szabályzatait maga állapítja meg. A díj- és költségviselés szabályait is magába foglaló eljárási szabályzatot a Pénzügyi Közlönyben kell közzétenni.
 
-(17) A Pénz- és Tőkepiaci Állandó Választottbíróság eszközei nem vonhatók el, azok kizárólag a választottbíráskodás működtetéséhez és fejlesztéséhez használhatók fel az alapító okiratban meghatározottak alapján.
+(17) A Pénz- és Tőkepiaci Állandó Választottbíróság eszközei nem vonhatók el, azok kizárólag a választottbíráskodás működtetéséhez és fejlesztéséhez használhatók fel az létesítő okiratban meghatározottak alapján.
 
 (18) A Pénz- és Tőkepiaci Állandó Választottbíróság tevékenysége kizárólag a választottbíráskodás és a szervezet működtetése, gazdasági, vállalkozói tevékenységet nem végezhet.
 
