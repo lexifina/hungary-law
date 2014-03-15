@@ -10,4 +10,6 @@ c) vizsgálati módszer: az e rendeletben meghatározott adminisztratív és tec
 
 d) vizsgáló: az előzetes eredetiségvizsgálati tevékenységben való részvétel céljából a közreműködővel foglalkoztatási vagy munkavégzésre irányuló egyéb jogviszonyban álló személy, aki a Hivatal által szervezett oktatásban részt vett, sikeres vizsgát tett és jogosultságot szerzett az e rendeletben előírt vizsgálói tevékenység végzésére;
 
-e) vizsgálóállomás: a közlekedési hatóság által működtetett telephely, valamint az előzetes eredetiségvizsgálatra az engedélyező hatósággal szerződéses jogviszonyban álló jogi személy, jogi személyiséggel nem rendelkező gazdasági társaság vagy egyéni vállalkozó, illetve egyéni cég által működtetett telephely, amely alkalmas a jármű és a járműokmányok előírt adatainak hiteles felvételezésére, rögzítésére, valamint azoknak a Hivatal részére történő továbbítására.
+e)[^1] vizsgálóállomás: a közlekedési hatóság által működtetett telephely, valamint az előzetes eredetiségvizsgálatra az engedélyező hatósággal szerződéses jogviszonyban álló jogi személy vagy egyéni vállalkozó, illetve egyéni cég által működtetett telephely, amely alkalmas a jármű és a járműokmányok előírt adatainak hiteles felvételezésére, rögzítésére, valamint azoknak a Hivatal részére történő továbbítására.
+
+[^1]: Az 1. § e) pontja az 53/2014. (III. 3.) Korm. rendelet 23. §-a szerint módosított szöveg.

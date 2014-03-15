@@ -28,14 +28,14 @@ l) a tevékenység ellenőrzésének gyakoriságát és rendjét, valamint
 
 m) a közreműködő nyilatkozatát arról, hogy valamennyi e rendelet alapján a szerződésben foglalt kötelezettség tekintetében aláveti magát a szerződésszegés közigazgatási hatósági eljárás általános szabályairól szóló törvény szerinti következményeinek,
 
-n)[^3] azt, hogy a közreműködőt tevékenységéért az előzetes eredetiségvizsgálat hatósági díja mindenkori összege 40%-ának megfelelő mértékű ellenérték illeti meg.
+n)[^4] azt, hogy a közreműködőt tevékenységéért az előzetes eredetiségvizsgálat hatósági díja mindenkori összege 40%-ának megfelelő mértékű ellenérték illeti meg.
 
 (2) A hatósági szerződés határozatlan időtartamra szól.
 
-(3)[^4] Az engedélyező hatóság a hatósági szerződés egy példányát a megkötésétől számított öt napon belül megküldi a Hivatalnak.
+(3)[^5] Az engedélyező hatóság a hatósági szerződés egy példányát a megkötésétől számított öt napon belül megküldi a Hivatalnak.
 
-(4)[^5] A hatósági szerződés tartalmában bekövetkezett változásról, a hatósági szerződés megszűnéséről és a végrehajtás elrendeléséről az engedélyező hatóság öt napon belül értesíti a Hivatalt.
+(4)[^6] A hatósági szerződés tartalmában bekövetkezett változásról, a hatósági szerződés megszűnéséről és a végrehajtás elrendeléséről az engedélyező hatóság öt napon belül értesíti a Hivatalt.
 
-[^3]: Az 5. § (1) bekezdés n) pontját a 4/2010. (I. 14.) Korm. rendelet 9. § (3) bekezdése iktatta be.
-[^4]: Az 5. § (3) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (136) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. januát 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
-[^5]: Az 5. § (4) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (136) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. januát 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^4]: Az 5. § (1) bekezdés n) pontját a 4/2010. (I. 14.) Korm. rendelet 9. § (3) bekezdése iktatta be.
+[^5]: Az 5. § (3) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (136) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. januát 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^6]: Az 5. § (4) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (136) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. januát 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.

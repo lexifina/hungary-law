@@ -8,6 +8,6 @@
 
 (4) A 2010. január 1-je előtt a Hivatal által szervezett képzésben részt vett, sikeres vizsgát tett és az eredetiségvizsgálati tevékenységben történő közreműködésre jogosultságot szerzett vizsgáló és adminisztrátor jogosultságát e rendelet hatálybalépése nem érinti.
 
-(5)[^9] A közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló 35/2000. (XI. 30.) BM rendelet 44. § (5) bekezdésben meghatározott előzetes eredetiségvizsgálatnak minősül a közúti járművek műszaki megvizsgálásáról szóló 5/1990. (IV. 12.) KöHÉM rendelet 12. § (15) bekezdésében meghatározott, időszakos vizsgálat keretében elvégzett előzetes eredetiségvizsgálat is.
+(5)[^10] A közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló 35/2000. (XI. 30.) BM rendelet 44. § (5) bekezdésben meghatározott előzetes eredetiségvizsgálatnak minősül a közúti járművek műszaki megvizsgálásáról szóló 5/1990. (IV. 12.) KöHÉM rendelet 12. § (15) bekezdésében meghatározott, időszakos vizsgálat keretében elvégzett előzetes eredetiségvizsgálat is.
 
-[^9]: A 19. § (5) bekezdését a 4/2010. (I. 14.) Korm. rendelet 9. § (4) bekezdése iktatta be.
+[^10]: A 19. § (5) bekezdését a 4/2010. (I. 14.) Korm. rendelet 9. § (4) bekezdése iktatta be.
