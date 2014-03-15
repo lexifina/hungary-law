@@ -2,7 +2,7 @@
 
 (2) Amennyiben az ajánlatkérő egy vagy több elektronikus eljárási cselekményt szolgáltató igénybevételével folytat le, megállapodás alapján jogosult igénybe venni a központi elektronikus szolgáltató rendszer által biztosított ingyenes szolgáltatásokat is.
 
-(3) Elektronikus közbeszerzési szolgáltatást nyújthat az a természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező gazdasági társaság, amely
+(3)[^8] Elektronikus közbeszerzési szolgáltatást nyújthat az a természetes személy, jogi személy, amely
 
 a) rendelkezik külső, független rendszervizsgáló által folyamatosan ellenőrzött minőségirányítási és információbiztonsági irányítási rendszerrel;
 
@@ -19,3 +19,5 @@ db) az általa biztosított szolgáltatások részletes szabályairól szóló s
 dc) általános szerződési feltételeit,
 
 dd) a c) pont szerinti hívószámot.
+
+[^8]: Az 5. § (3) bekezdés nyitó szövegrésze az 53/2014. (III. 3.) Korm. rendelet 13. §-a szerint módosított szöveg.
