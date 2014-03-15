@@ -6,8 +6,8 @@
 
 (2) A támogatást igénylő nyilatkozatban vállalja, hogy az (1) bekezdés alapján a támogatás kifizetésétől számított 10. borpiaci év végéig az ültetvényt rendeltetésszerűen műveli. Amennyiben ennek nem tesz eleget, úgy az a támogatás jogosulatlan igénybevételének minősül.
 
-(3)[^8] Amennyiben az ültetvény használója bármilyen okból változik, az (1) bekezdés szerinti művelési kötelezettség átadását az MVH részére be kell jelenteni. A bejelentésnek tartalmaznia kell az átadó nevét és MVH ügyfél-azonosítóját, a kötelezettséget átvállaló nevét és MVH ügyfél-azonosítóját, az érintett terület adatait (helység, helyrajzi szám, területnagyság), az átadás dátumát, és az átadó, valamint az átvevő aláírását.
+(3)[^9] Amennyiben az ültetvény használója bármilyen okból változik, az (1) bekezdés szerinti művelési kötelezettség átadását az MVH részére be kell jelenteni. A bejelentésnek tartalmaznia kell az átadó nevét és MVH ügyfél-azonosítóját, a kötelezettséget átvállaló nevét és MVH ügyfél-azonosítóját, az érintett terület adatait (helység, helyrajzi szám, területnagyság), az átadás dátumát, és az átadó, valamint az átvevő aláírását.
 
 (4) A (3) bekezdés szerinti bejelentés elmulasztása esetén az (1) bekezdés szerinti kötelezettség elmulasztásából fakadó jogkövetkezmények a támogatást igénylőt terhelik.
 
-[^8]: A 21. § (3) bekezdése a 12/2014. (II. 21.) VM rendelet 4. §-ával megállapított szöveg.
+[^9]: A 21. § (3) bekezdése a 12/2014. (II. 21.) VM rendelet 4. §-ával megállapított szöveg.

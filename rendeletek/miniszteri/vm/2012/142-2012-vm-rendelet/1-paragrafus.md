@@ -24,6 +24,9 @@ j) ültetvény áttelepítése: egy adott terület érvényes engedéllyel tört
 
 k)[^1] ültetvényleltár: az ültetvény pontos helyét, méretét, sor- és tőtávolságát, művelésmódját, a tőállományát, fajtaösszetételét soronként bemutató nyilvántartás;
 
-l) VINGIS térkép: a szőlőültetvények országos térinformatikai nyilvántartásából nyomtatott A/3-as formátumú, a kérelemben megjelölt ültetvény pontos térbeli azonosítását biztosító, a terület átlagos lejtésére vonatkozó, és egyéb kiegészítő szakadatokkal ellátott térképi dokumentum.
+l) VINGIS térkép: a szőlőültetvények országos térinformatikai nyilvántartásából nyomtatott A/3-as formátumú, a kérelemben megjelölt ültetvény pontos térbeli azonosítását biztosító, a terület átlagos lejtésére vonatkozó, és egyéb kiegészítő szakadatokkal ellátott térképi dokumentum;
+
+m)[^2] gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet.
 
 [^1]: Az 1. § k) pontja a 12/2014. (II. 21.) VM rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. § m) pontját a 22/2014. (III. 14.) VM rendelet 89. §-a iktatta be.
