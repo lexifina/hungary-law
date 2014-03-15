@@ -1,0 +1,1 @@
+## 10. § Ha a közjegyző arról értesül, hogy a letett tárgyhoz (sorsjegy, nyereménybetétkönyv) – a letétkénti kezelés ideje alatt – nyeremény járult, annak letétbe vételéről gondoskodik. A letétbe nem vehető ingóság-nyeremény esetében a közjegyző intézkedik annak bírósági letétbe helyezése iránt.

@@ -1,0 +1,1 @@
+Az egyes közjegyzői nemperes eljárásokról szóló 2008. évi XLV. törvény 38. § h) pontjában kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 12. § a) pontjában meghatározott feladatkörömben eljárva, a következőket rendelem el:
