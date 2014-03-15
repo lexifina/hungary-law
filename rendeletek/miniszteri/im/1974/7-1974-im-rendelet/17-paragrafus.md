@@ -1,1 +1,0 @@
-## 16. § A Csjt 48. §-ának (3) bekezdését a folymatban lévő ügyekben akkor kell alkalmazni, ha a szülő kifejezetten kérte, hogy az örökbefogadást e rendelkezés szerint folytassák. Ebben az esetben a szükséges nyilatkozatokat pótlólag kell megtenni.
