@@ -4,6 +4,6 @@
 
 1. Magyar Tejgazdasági Kísérleti Intézet Kft. laboratóriuma, címe: 1093 Budapest, Bakáts u. 8.
 
-2.[^7]
+2.[^8]
 
-[^7]: Az 1. számú melléklet 2. pontját a 26/2011. (IV. 7.) VM rendelet 5. § (1) bekezdés d) pontja hatályon kívül helyezte.
+[^8]: Az 1. számú melléklet 2. pontját a 26/2011. (IV. 7.) VM rendelet 5. § (1) bekezdés d) pontja hatályon kívül helyezte.

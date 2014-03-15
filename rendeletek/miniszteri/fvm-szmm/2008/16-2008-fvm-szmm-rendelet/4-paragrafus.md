@@ -12,6 +12,6 @@
 
 (6) A mintavétel végrehajtására jogosult személynek a Felnőttképzési Akkreditáló Testület által kiadott akkreditációs tanúsítvánnyal rendelkező intézményben szakirányú képzésen kell részt vennie, 5 évenkénti gyakorisággal.
 
-(7)[^1] Amennyiben a tejtermelő gazdaság, illetve a felvásárló személyében változás következik be, a változást írásban kell bejelenteni a telephely szerint illetékes fővárosi és megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatóságának (a továbbiakban: élelmiszerlánc-biztonsági és állategészségügyi igazgatóság), amely erről értesíti a laboratóriumokat és a Mezőgazdasági és Vidékfejlesztési Hivatalt (a továbbiakban: MVH).
+(7)[^2] Amennyiben a tejtermelő gazdaság, illetve a felvásárló személyében változás következik be, a változást írásban kell bejelenteni a telephely szerint illetékes fővárosi és megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatóságának (a továbbiakban: élelmiszerlánc-biztonsági és állategészségügyi igazgatóság), amely erről értesíti a laboratóriumokat és a Mezőgazdasági és Vidékfejlesztési Hivatalt (a továbbiakban: MVH).
 
-[^1]: A 4. § (7) bekezdése a 19/2014. (III. 12.) VM rendelet 23. § a) pontja szerint módosított szöveg.
+[^2]: A 4. § (7) bekezdése a 19/2014. (III. 12.) VM rendelet 23. § a) pontja szerint módosított szöveg.
