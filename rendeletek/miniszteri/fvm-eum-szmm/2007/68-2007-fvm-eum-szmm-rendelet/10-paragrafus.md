@@ -1,4 +1,4 @@
-## 9. §[^6]
+## 9. §[^8]
 
 ## Egyes tengeren szállított élelmiszerek forgalomba hozatalának feltételei
 
@@ -14,4 +14,4 @@ a) a tartály rozsdamentes acélból készül, vagy epoxigyanta béléssel vagy 
 
 b) a tartályban az olaj, illetve zsír előtt szállított három szállítmány élelmiszer.
 
-[^6]: A 9. §-t és az azt megelőző alcímet a 16/2008. (II. 15.) FVM–SZMM együttes rendelet 8. § (2) bekezdése hatályon kívül helyezte.
+[^8]: A 9. §-t és az azt megelőző alcímet a 16/2008. (II. 15.) FVM–SZMM együttes rendelet 8. § (2) bekezdése hatályon kívül helyezte.
