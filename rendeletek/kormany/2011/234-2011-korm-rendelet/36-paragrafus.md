@@ -6,4 +6,6 @@ b) megyei, fővárosi szintű veszélyeztetettség esetében a megyei, főváros
 
 c) település veszélyeztetettsége esetén a polgármester – a megyei, fővárosi védelmi bizottság elnöke utólagos tájékoztatásával – a hivatásos katasztrófavédelmi szerv helyi szerve útján,
 
-d) a gazdálkodó szerv területén a gazdálkodó szerv vezetője, a polgármester és a hivatásos katasztrófavédelmi szerv helyi szervének egyidejű tájékoztatásával.
+d)[^13] a gazdálkodó szervezet területén a gazdálkodó szervezet vezetője, a polgármester és a hivatásos katasztrófavédelmi szerv helyi szervének egyidejű tájékoztatásával.
+
+[^13]: A 36. § d) pontja a 13/2014. (I. 29.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.

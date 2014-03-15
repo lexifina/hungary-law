@@ -18,4 +18,6 @@ d) a megyei és a helyi védelmi bizottság elnöke,
 
 e) a polgármester, a főpolgármester,
 
-f) a gazdálkodó szerv vezetője.
+f)[^14] a gazdálkodó szervezet vezetője.
+
+[^14]: A 37. § (2) bekezdés f) pontja a 13/2014. (I. 29.) Korm. rendelet 8. § (4) bekezdés e) pontja szerint módosított szöveg.
