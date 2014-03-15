@@ -8,6 +8,6 @@
 
 ## Kisméretű eszközök esetén a legkisebb méret követelményétől el lehet tekinteni.
 
-12. melléklet a 4/2009. (III. 17.) EüM rendelethez[^73]
+12. melléklet a 4/2009. (III. 17.) EüM rendelethez[^78]
 
-[^73]: A 12. melléklet a 29/2011. (VI. 7.) NEFMI rendelet 23. § (1) bekezdése szerint módosított szöveg.
+[^78]: A 12. melléklet a 29/2011. (VI. 7.) NEFMI rendelet 23. § (1) bekezdése szerint módosított szöveg.

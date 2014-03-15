@@ -40,7 +40,7 @@ bb) az 5. melléklet szerinti gyártásminőség-biztosítási
 
 (5) A rendelésre készült eszköz és a klinikai vizsgálatra szánt eszköz tekintetében, valamint a 15. §-ban meghatározott esetben az (1)–(4) bekezdés szerinti EK megfelelőség értékelési eljárások nem folytathatóak le.
 
-(6)[^24]
+(6)[^27]
 
 (7) Aktív implantátum esetén – a rendelésre készült eszközök és a klinikai vizsgálatra szánt eszközök kivételével – a gyártó EK megfelelőség értékelési eljárásként választhatja:
 
@@ -64,4 +64,4 @@ bb) az 5. melléklet szerinti gyártásminőség-biztosítási
 
 (12) A (11) bekezdés szerinti esetben a Bizottság döntését követően a Hivatal a döntésnek megfelelően jár el.
 
-[^24]: A 13. § (6) bekezdése a 33/2009. (X. 20.) EüM rendelet 26. § (6) bekezdés b) pontja alapján nem lép hatályba.
+[^27]: A 13. § (6) bekezdése a 33/2009. (X. 20.) EüM rendelet 26. § (6) bekezdés b) pontja alapján nem lép hatályba.
