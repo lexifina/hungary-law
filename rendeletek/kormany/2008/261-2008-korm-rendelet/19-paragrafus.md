@@ -2,6 +2,6 @@
 
 19. § (1) Ez a rendelet 2009. január 1-jén lép hatályba.
 
-(2)[^5]
+(2)[^7]
 
-[^5]: A 19. § (2) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 645. §-a hatályon kívül helyezte.
+[^7]: A 19. § (2) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 645. §-a hatályon kívül helyezte.

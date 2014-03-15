@@ -10,9 +10,9 @@
 
 (6) Ha a hajózási vállalkozás a vizsgálatot a fenntartás ellenére nem végzi el, a fenntartás tényének bejegyzését nem teszi lehetővé, illetve jegyzőkönyvet nem vesz fel vagy annak másolatát a poggyászvevény birtokosának nem adja át, az útipoggyász átvételét az utas megtagadhatja.
 
-(7) Ha az utas a poggyászvevény elvesztését, eltulajdonítását vagy megsemmisülését haladéktalanul bejelenti a hajózási vállalkozásnak, az az útipoggyászt csak a tartalom megfelelő azonosítása esetén szolgáltathatja ki. Amennyiben a kiszolgáltatással kapcsolatban az utas és a hajózási vállalkozás között vita keletkezik, a hajózási vállalkozás köteles a poggyászt a felelős őrzés szabályai szerint tárolni és megőrizni.
+(7)[^3] Ha az utas a poggyászvevény elvesztését, eltulajdonítását vagy megsemmisülését haladéktalanul bejelenti a hajózási vállalkozásnak, az az útipoggyászt csak a tartalom megfelelő azonosítása esetén szolgáltathatja ki. Amennyiben a kiszolgáltatással kapcsolatban az utas és a hajózási vállalkozás között vita keletkezik, a hajózási vállalkozás köteles a poggyászt a megbízás nélküli ügyvitel szabályai szerint tárolni és megőrizni.
 
-(8) Ha az utas az útipoggyászt a vízi jármű megérkezését követő 24 órán belül nem veszi át, a hajózási vállalkozás köteles azt a felelős őrzés szabályai szerint tárolni, és megőrizni. Késedelmes átvétel esetében az utas az útipoggyász tárolásáért, őrzéséért köteles a díjszabásban meghatározott összeget megfizetni.
+(8)[^4] Ha az utas az útipoggyászt a vízi jármű megérkezését követő 24 órán belül nem veszi át, a hajózási vállalkozás köteles azt a megbízás nélküli ügyvitel szabályai szerint tárolni, és megőrizni. Késedelmes átvétel esetében az utas az útipoggyász tárolásáért, őrzéséért köteles a díjszabásban meghatározott összeget megfizetni.
 
 (9) Az át nem vett útipoggyászt a hajózási vállalkozás értékesítheti, ha
 
@@ -21,3 +21,6 @@ a) a tartós tárolás az útipoggyász tartalmának károsodásával (megromlá
 b) a vízi jármű megérkezésétől számítva 30 nap eltelt.
 
 (10) Az értékesítést megelőzően annak tényéről a feladót a hajózási vállalkozásnak értesítenie kell és a befolyt vételárral legkésőbb az értékesítést követő 30 napon belül el kell számolnia.
+
+[^3]: A 14. § (7) bekezdése az 53/2014. (III. 3.) Korm. rendelet 19. §-a szerint módosított szöveg.
+[^4]: A 14. § (8) bekezdése az 53/2014. (III. 3.) Korm. rendelet 19. §-a szerint módosított szöveg.
