@@ -1,4 +1,4 @@
-14. § (1)[^16] Az FNFT nemzeti lábjegyzeteiben (5. melléklet), valamint a 6. és a 13. mellékletben hivatkozott ERC- és ECC-határozatokon kívül – az ECC/DEC/(04)06 Határozat kivételével – az alábbi határozatok is teljesülnek a nemzeti frekvenciafelosztás tekintetében:
+14. § (1)[^17] Az FNFT nemzeti lábjegyzeteiben (5. melléklet), valamint a 6. és a 13. mellékletben hivatkozott ERC- és ECC-határozatokon kívül – az ECC/DEC/(04)06 Határozat kivételével – az alábbi határozatok is teljesülnek a nemzeti frekvenciafelosztás tekintetében:
 
 1. ERC/DEC/(96)06: az ERC 1996. március 7-i határozata a „Határozat a digitális kis hatókörzetű rádió (DSRR) összehangolt bevezetéséhez kijelölendő frekvenciasávokról” című (93)01 ERC-határozat visszavonásáról;
 
@@ -32,4 +32,4 @@
 
 (2) E § alkalmazásában sáv az értelmező rendelkezésekben meghatározott frekvenciasáv.
 
-[^16]: A 14. § (1) bekezdés nyitó szövegrésze a 8/2013. (IX. 19.) NMHH rendelet 4. § a) pontja szerint módosított szöveg.
+[^17]: A 14. § (1) bekezdés nyitó szövegrésze a 8/2013. (IX. 19.) NMHH rendelet 4. § a) pontja szerint módosított szöveg.

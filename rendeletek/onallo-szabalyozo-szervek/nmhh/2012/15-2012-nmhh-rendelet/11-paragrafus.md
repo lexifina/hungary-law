@@ -14,8 +14,8 @@ f) 11. melléklet: az állandóhelyű szolgálat keretében a nem polgári cél�
 
 g) 12. melléklet: a mozgószolgálat keretében a nem polgári célú rádióalkalmazások a H22 lábjegyzet alapján.
 
-(2)[^10] Egyes ultraszéles sávú (UWB) technológiát használó kis hatótávolságú eszközök (SRD-k) rádióalkalmazásai részére a polgári frekvenciagazdálkodás keretében harmadlagos jelleggel kijelölt frekvenciatartományokat és azokra a vonatkozó nemzetközi dokumentumokra való hivatkozásokat, amelyek alapján az adott frekvenciatartomány Magyarországon ilyen célra igénybe vehető, a 13. melléklet tartalmazza.
+(2)[^11] Egyes ultraszéles sávú (UWB) technológiát használó kis hatótávolságú eszközök (SRD-k) rádióalkalmazásai részére a polgári frekvenciagazdálkodás keretében harmadlagos jelleggel kijelölt frekvenciatartományokat és azokra a vonatkozó nemzetközi dokumentumokra való hivatkozásokat, amelyek alapján az adott frekvenciatartomány Magyarországon ilyen célra igénybe vehető, a 13. melléklet tartalmazza.
 
 (3) A rendeletben hivatkozott dokumentumok jegyzékét a 14. melléklet tartalmazza.
 
-[^10]: A 11. § (2) bekezdése a 8/2013. (IX. 19.) NMHH rendelet 4. § a) pontja szerint módosított szöveg.
+[^11]: A 11. § (2) bekezdése a 8/2013. (IX. 19.) NMHH rendelet 4. § a) pontja szerint módosított szöveg.
