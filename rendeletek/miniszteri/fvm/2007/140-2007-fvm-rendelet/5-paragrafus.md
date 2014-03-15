@@ -4,6 +4,6 @@
 
 (2) A támogatás mértéke állategységenként nyolcszáznyolcvan forint.
 
-(3)[^24] Az 1. számú melléklet szerinti adattartalmú támogatási kérelemhez csatolni kell a kezelő állatorvos igazolását az (1) bekezdésben meghatározott feltétel teljesítéséről. Az igazoláson fel kell tüntetni annak időbeli hatályát.
+(3)[^25] Az 1. számú melléklet szerinti adattartalmú támogatási kérelemhez csatolni kell a kezelő állatorvos igazolását az (1) bekezdésben meghatározott feltétel teljesítéséről. Az igazoláson fel kell tüntetni annak időbeli hatályát.
 
-[^24]: Az 5. § (3) bekezdése a 19/2010. (III. 11.) FVM rendelet 10. § (1) bekezdésével megállapított szöveg. E módosító rendelet 21. § (2) bekezdése alapján a 2010. március 14. napját követően benyújtott támogatási kérelmek esetén kell alkalmazni.
+[^25]: Az 5. § (3) bekezdése a 19/2010. (III. 11.) FVM rendelet 10. § (1) bekezdésével megállapított szöveg. E módosító rendelet 21. § (2) bekezdése alapján a 2010. március 14. napját követően benyújtott támogatási kérelmek esetén kell alkalmazni.

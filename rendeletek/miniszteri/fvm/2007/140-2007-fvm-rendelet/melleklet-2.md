@@ -14,7 +14,7 @@
 
 ## 4. Az igénylő nyilatkozata arról, hogy
 
-## 4.1. csőd-, felszámolási vagy végelszámolási eljárás alatt nem álló jogi személy, jogi személyiség nélküli gazdasági társaság vagy végrehajtási eljárás alatt nem álló egyéni vállalkozó;
+## 4.1.[^34] csőd-, felszámolási vagy végelszámolási eljárás alatt nem álló jogi személy, jogi személyiséggel nem rendelkező szervezet vagy végrehajtási eljárás alatt nem álló egyéni vállalkozó;
 
 ## 4.2. nincs adó-, vám-, egészség-, nyugdíj-, társadalombiztosítási járuléktartozása;
 
@@ -24,7 +24,7 @@
 
 ## 4.5. megfelel az államháztartásról szóló 1992. évi XXXVIII. törvény 15. §-ában meghatározott rendezett munkaügyi kapcsolatok feltételeinek;
 
-## 4.6.[^33] hozzájárul ahhoz, hogy a támogatásra való jogosultság ellenőrzése és a támogatás folyósítása érdekében a szükséges mértékig és időtartamban a Nemzeti Adó- és Vámhivatal, az Országos Egészségbiztosítási Pénztár, az Országos Nyugdíjbiztosítási Főigazgatóság, illetve azok szervei, továbbá a Magyar Államkincstár az általa közölt adatokat felhasználja;
+## 4.6.[^35] hozzájárul ahhoz, hogy a támogatásra való jogosultság ellenőrzése és a támogatás folyósítása érdekében a szükséges mértékig és időtartamban a Nemzeti Adó- és Vámhivatal, az Országos Egészségbiztosítási Pénztár, az Országos Nyugdíjbiztosítási Főigazgatóság, illetve azok szervei, továbbá a Magyar Államkincstár az általa közölt adatokat felhasználja;
 
 ## 4.7. a kérelem benyújtásakor agrár- vagy agrár-vidékfejlesztési támogatás jogosulatlan igénybevétele miatt jogerős határozattal megállapított köztartozással nem rendelkezik;
 
@@ -40,7 +40,7 @@
 
 ## 8. Mellékletek:
 
-## 8.1.[^34] az élelmiszerlánc-biztonsági és állategészségügyi igazgatóságnak igazolása – bűnügyi személyes adat közlésének kivételével – a 2. § (2) bekezdés d) pontjában előírt feltételek teljesítéséről;
+## 8.1.[^36] az élelmiszerlánc-biztonsági és állategészségügyi igazgatóságnak igazolása – bűnügyi személyes adat közlésének kivételével – a 2. § (2) bekezdés d) pontjában előírt feltételek teljesítéséről;
 
 ## 8.2. Bérhízlaló/bérnevelő esetén a 2. § (6) bekezdésében előírt dokumentumok;
 
@@ -60,7 +60,7 @@
 
 ## 8.10. Mikroklíma biztosítása esetén a 9. § (3) bekezdésében előírt dokumentumok.
 
-2. számú melléklet a 140/2007. (XI. 28.) FVM rendelethez[^35]
+2. számú melléklet a 140/2007. (XI. 28.) FVM rendelethez[^37]
 
 A takarmányozáshoz használt itatóvizet ivóvíz minőségűnek kell tekinteni, ha az igénylő a támogatási kérelemhez csatolja:
 
@@ -74,6 +74,7 @@ valamint az igénylő nyilatkozatát arról, hogy a víznyerőhely megfelelően 
 
 b) a vízszolgáltató írásos nyilatkozatát arról, hogy az általa szolgáltatott víz ivóvíz minőségű, ha a telepen az állatok vízellátása vezetékes vízhálózatról történik.
 
-[^33]: Az 1. számú melléklet 4.6. pontja a 70/2013. (VII. 31.) VM rendelet 82. § d)–e) pontja szerint módosított szöveg.
-[^34]: Az 1. számú melléklet 8.1. pontja a 70/2013. (VII. 31.) VM rendelet 82. § f) pontja szerint módosított szöveg.
-[^35]: A 2. számú mellékletet a 80/2008. (VI. 24.) FVM rendelet 4. § (2) bekezdése iktatta be, egyidejűleg az eredeti melléklet számozását 1. számú mellékletre változtatva. A 2. számú melléklet az 56/2009. (IV. 29.) FVM rendelet 3. §-ával megállapított szöveg.
+[^34]: Az 1. számú melléklet 4.1. pontja a 22/2014. (III. 14.) VM rendelet 51. §-a szerint módosított szöveg.
+[^35]: Az 1. számú melléklet 4.6. pontja a 70/2013. (VII. 31.) VM rendelet 82. § d)–e) pontja szerint módosított szöveg.
+[^36]: Az 1. számú melléklet 8.1. pontja a 70/2013. (VII. 31.) VM rendelet 82. § f) pontja szerint módosított szöveg.
+[^37]: A 2. számú mellékletet a 80/2008. (VI. 24.) FVM rendelet 4. § (2) bekezdése iktatta be, egyidejűleg az eredeti melléklet számozását 1. számú mellékletre változtatva. A 2. számú melléklet az 56/2009. (IV. 29.) FVM rendelet 3. §-ával megállapított szöveg.
