@@ -1,6 +1,6 @@
 3/A. § (1) Az alapítvány köteles az éves beszámoló jóváhagyásával egyidejűleg tevékenységéről jelentést készíteni.
 
-(2) Az (1) bekezdésben meghatározott jelentés elfogadása a kezelő szerv kizárólagos hatáskörébe tartozik.
+(2) Az (1) bekezdésben meghatározott jelentés elfogadása az ügyvezető szerv kizárólagos hatáskörébe tartozik.
 
 (3) Az (1) bekezdésben meghatározott jelentés tartalmazza:
 
