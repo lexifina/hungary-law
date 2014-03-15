@@ -16,4 +16,6 @@ eb) a közjegyzők esetében az a kamara, amelynek a közjegyző a tagja (a tov�
 
 f) j) és k) pontjában meghatározott tevékenységet végző szolgáltatók vonatkozásában a kereskedelmi hatóság;
 
-g) f) és h) pontjában meghatározott tevékenységet végző szolgáltatók vonatkozásában a pénzügyi információs egységként működő hatóság.
+g) f) és h) pontjában meghatározott tevékenységet végző szolgáltatók vonatkozásában a pénzügyi információs egységként működő hatóság;
+
+h) n) pontjában meghatározott tevékenységet végző szolgáltatók vonatkozásában a bizalmi vagyonkezelőkről és tevékenységük szabályairól szóló törvény szerinti hivatal (a továbbiakban: Hivatal).

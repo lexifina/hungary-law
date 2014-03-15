@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-136-00-00
 | 2013-07-19 | 2013. évi CXXVI. törvény | 2007-136-00-00.23 |
 | 2013-10-01 | 2013. évi CXLIII. törvény | 2007-136-00-00.24 |
 | 2014-01-01 | 2013. évi CCXXXVI. törvény | 2007-136-00-00.25 |
+| 2014-03-15 | 2014. évi XV. törvény | 2007-136-00-00.26 |

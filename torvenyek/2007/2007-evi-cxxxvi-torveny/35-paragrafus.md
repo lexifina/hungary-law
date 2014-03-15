@@ -1,10 +1,10 @@
-35. § (1) E törvény rendelkezéseinek a megsértése vagy az e törvényben meghatározott kötelezettségek nem megfelelő teljesítése esetén az 5. § a)–c), f) és g) pontjában meghatározott felügyeletet ellátó szerv a jogsértés súlyával arányosan a következő intézkedéseket alkalmazhatja:
+35. § (1) E törvény rendelkezéseinek a megsértése vagy az e törvényben meghatározott kötelezettségek nem megfelelő teljesítése esetén az 5. § a)–c) és f)–h) pontjában meghatározott felügyeletet ellátó szerv a jogsértés súlyával arányosan a következő intézkedéseket alkalmazhatja:
 
 a) felhívja a szolgáltatót, hogy tegye meg a szükséges intézkedéseket e törvény rendelkezéseinek betartására, a feltárt hiányosságok megszüntetésére;
 
 b) javaslatot tesz a szolgáltatónak
 
-ba) az 1. § (1) bekezdésében meghatározott tevékenységet ellátó alkalmazottak (vezetők) speciális képzési programban való részvételére vagy megfelelő szakmai ismeretekkel rendelkező alkalmazottak (vezetők) felvételére,
+ba) az 1. § (1) bekezdésében meghatározott tevékenységet ellátó alkalmazottak (vezetők) speciális képzési programban való részvételére vagy megfelelő szakmai ismeretekkel rendelkező alkalmazottak (vezetők) felvételére;
 
 bb) a szabályzat meghatározott határidőn belüli, meghatározott szempontok szerinti átdolgozására;
 
@@ -12,11 +12,11 @@ bc) vizsgálat lefolytatására a szabályzat szerint és a felelőssel szembeni
 
 c) figyelmezteti a szolgáltatót;
 
-d) határozattal megállapítja a jogsértés tényét, s egyben elrendeli a jogsértő állapot megszüntetését;
+d) határozattal megállapítja a jogsértés tényét, és egyben elrendeli a jogsértő állapot megszüntetését;
 
 e) kötelezi a szolgáltatót a jogsértés abbahagyására;
 
-f) az a)–e) pontban felsorolt intézkedések mellett vagy önállóan az 1. § (1) bekezdés a)–e) és l) pontjában meghatározott tevékenységet végző szolgáltató esetében kétszázezertől ötszázmillió forintig terjedő bírságot, az 1. § (1) bekezdés f), h)–i), j) és k) pontjában meghatározott tevékenységet végző szolgáltató esetében ötvenezertől húszmillió forintig terjedő bírságot szabhat ki.
+f) az a)–e) pontban felsorolt intézkedések mellett vagy önállóan az 1. § (1) bekezdés a)–e) és l) pontjában meghatározott tevékenységet végző szolgáltató esetében kétszázezertől ötszázmillió forintig terjedő bírságot, az 1. § (1) bekezdés f), h)–j), k) és n) pontjában meghatározott tevékenységet végző szolgáltató esetében ötvenezertől húszmillió forintig terjedő bírságot szabhat ki.
 
 (2) A szolgáltatóval szemben az (1) bekezdésben meghatározott intézkedést kell alkalmazni abban az esetben is, ha a szolgáltató jogi személy vagy jogi személyiséggel nem rendelkező szervezet és a szolgáltató vezetője a szolgáltató javára sérti meg e törvény rendelkezéseit.
 

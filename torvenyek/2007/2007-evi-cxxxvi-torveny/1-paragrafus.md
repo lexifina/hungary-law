@@ -26,7 +26,9 @@ k) árukereskedelmi tevékenysége folytatása során hárommillió-hatszázezer
 
 l) önkéntes kölcsönös biztosítópénztárként működik;
 
-m) ügyvédi, közjegyzői tevékenységet végez.
+m) ügyvédi, közjegyzői tevékenységet végez;
+
+n) bizalmi vagyonkezelési tevékenységet végez.
 
 (2) E törvény hatálya kiterjed arra, aki
 
@@ -44,6 +46,8 @@ b) a biztosítókról és a biztosítási tevékenységről szóló 2003. évi L
 
 c) a Bit. 33. § (4) bekezdésében meghatározott független biztosításközvetítő a Bit. 1. számú mellékletének A. része szerinti nem-életbiztosítási ágba tartozó szerződésekkel kapcsolatos tevékenysége során;
 
-d) a biztosító, amennyiben kizárólag a Bit. 1. számú mellékletének A. része szerinti nem-életbiztosítási ágba tartozó tevékenység végzésére rendelkezik engedéllyel, továbbá a Bit. 1. számú mellékletének A. része szerinti nem-életbiztosítási ágba tartozó és 2. számú melléklete szerinti életbiztosítási ágba tartozó tevékenység egyidejű végzésére engedéllyel rendelkező biztosító a nem-életbiztosítási tevékenysége tekintetében.
+d) a biztosító, amennyiben kizárólag a Bit. 1. számú mellékletének A. része szerinti nem-életbiztosítási ágba tartozó tevékenység végzésére rendelkezik engedéllyel, továbbá a Bit. 1. számú mellékletének A. része szerinti nem-életbiztosítási ágba tartozó és 2. számú melléklete szerinti életbiztosítási ágba tartozó tevékenység egyidejű végzésére engedéllyel rendelkező biztosító a nem-életbiztosítási tevékenysége tekintetében;
+
+e) a bizalmi vagyonkezelőkről és tevékenységük szabályairól szóló törvényben meghatározott nem üzletszerűen eljáró bizalmi vagyonkezelő.
 
 (5) Nem tartozik e törvény hatálya alá az (1) bekezdés a) pontjában meghatározott tevékenység, ha azt a Magyar Nemzeti Bank (a továbbiakban: MNB) végzi, kivéve a 2. § és 22. § rendelkezései alapján végzett pénzátutalási szolgáltatás nyújtását.

@@ -44,9 +44,9 @@ qc) az 1. § (1) bekezdés k) pontjában meghatározott tevékenységet folytat�
 
 r) tényleges tulajdonos:
 
-ra) az a természetes személy, aki jogi személyben vagy jogi személyiséggel nem rendelkező szervezetben közvetlenül vagy – a Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) 685/B. § (3) bekezdésében meghatározott módon – közvetve a szavazati jogok vagy a tulajdoni hányad legalább huszonöt százalékával rendelkezik, ha a jogi személy vagy jogi személyiséggel nem rendelkező szervezet nem a szabályozott piacon jegyzett társaság, amelyre a közösségi jogi szabályozással vagy azzal egyenértékű nemzetközi előírásokkal összhangban lévő közzétételi követelmények vonatkoznak,
+ra) az a természetes személy, aki jogi személyben vagy jogi személyiséggel nem rendelkező szervezetben közvetlenül vagy – a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) 8:2. § (4) bekezdésében meghatározott módon – közvetve a szavazati jogok vagy a tulajdoni hányad legalább huszonöt százalékával rendelkezik, ha a jogi személy vagy jogi személyiséggel nem rendelkező szervezet nem a szabályozott piacon jegyzett társaság, amelyre a közösségi jogi szabályozással vagy azzal egyenértékű nemzetközi előírásokkal összhangban lévő közzétételi követelmények vonatkoznak,
 
-rb) az a természetes személy, aki jogi személyben vagy jogi személyiséggel nem rendelkező szervezetben – a Ptk. 685/B. § (2) bekezdésében meghatározott – meghatározó befolyással rendelkezik,
+rb) az a természetes személy, aki jogi személyben vagy jogi személyiséggel nem rendelkező szervezetben – a Ptk. 8:2. § (2) bekezdésében meghatározott – meghatározó befolyással rendelkezik,
 
 rc) az a természetes személy, akinek megbízásából valamely ügyleti megbízást végrehajtanak,
 

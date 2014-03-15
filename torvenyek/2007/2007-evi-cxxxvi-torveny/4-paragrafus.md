@@ -14,7 +14,7 @@ e) a nagykövet, az ügyvivő és a fegyveres szervek hivatásos állományú f�
 
 f) a többségi állami tulajdonú vállalkozás ügyviteli, igazgatási vagy felügyelő testületének tagja.
 
-(3) Az (1) bekezdés alkalmazásában közeli hozzátartozó a Ptk. 685. §-ának b) pontjában meghatározott közeli hozzátartozó, továbbá az élettárs.
+(3) Az (1) bekezdés alkalmazásában közeli hozzátartozó a Ptk. szerinti közeli hozzátartozó, továbbá az élettárs.
 
 (4) Az (1) bekezdés alkalmazásában a kiemelt közszereplővel közeli kapcsolatban álló személy:
 
