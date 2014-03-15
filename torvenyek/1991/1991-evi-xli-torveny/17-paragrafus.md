@@ -12,7 +12,7 @@ e) a jogi szakvizsgát letette,
 
 f) legalább 3 évi közjegyzőhelyettesi gyakorlatot igazol,
 
-g)
+g) nem áll cselekvőképességet érintő gondnokság vagy támogatott döntéshozatal hatálya alatt,
 
 (2) Az (1) bekezdés f) pontjában említett gyakorlatnak megfelel a legalább 3 éves bírói, ügyészi, ügyvédi, jogtanácsosi vagy közjegyzői gyakorlat.
 

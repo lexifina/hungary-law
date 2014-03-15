@@ -8,7 +8,7 @@ c) meghatározza az országos kamara éves költségvetését, ellenőrzi és el
 
 d) szociális és jótékonysági intézményeket hoz létre és tart fenn,
 
-e) központi nyilvántartásokat hozhat létre, így különösen a végintézkedések országos nyilvántartását és a zálogjogi nyilvántartást ,
+e) központi nyilvántartásokat hozhat létre, így különösen a végintézkedések országos nyilvántartását, a házassági és élettársi vagyonjogi szerződések országos nyilvántartását és a zálogjogi, illetve a hitelbiztosítéki nyilvántartást,
 
 f) ellátja a közjegyzők képviseletét a belföldi és külföldi szakmai szervezetekkel való kapcsolatokban,
 
