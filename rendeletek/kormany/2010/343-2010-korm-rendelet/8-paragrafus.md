@@ -8,7 +8,7 @@
 
 (3) A kérelemnek tartalmaznia kell, valamint ahhoz csatolni kell:
 
-1.[^49] természetes személy esetében a természetes személyazonosító adatait, a lakcímét, jogi személy, jogi személyiség nélküli gazdasági társaság és egyéni cég esetében a cég nevét, székhelyét, cégjegyzék számát és az adószámát,
+1.[^49] természetes személy esetében a természetes személyazonosító adatait, a lakcímét, jogi személy és egyéni cég esetében a cég nevét, székhelyét, cégjegyzék számát és az adószámát,
 
 2.[^50] egyéni vállalkozó esetében nevét, lakcímét, adószámát, valamint az egyéni vállalkozói igazolvány kiállítóját és számát, ennek hiányában az egyéni vállalkozói nyilvántartási számát,
 
@@ -68,7 +68,7 @@ e) az arra vonatkozó adatot, hogy az ügyfelet biomassza kereskedőként, bioma
 
 [^47]: A 8. § (1) bekezdése a 348/2013. (IX. 30.) Korm. rendelet 15. § c) pontja szerint módosított szöveg.
 [^48]: A 8. § (1a) bekezdését a 203/2013. (VI. 14.) Korm. rendelet 26. §-a iktatta be.
-[^49]: A 8. § (3) bekezdés 1. pontja a 318/2012. (XI. 13.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^49]: A 8. § (3) bekezdés 1. pontja a 318/2012. (XI. 13.) Korm. rendelet 7. § (1) bekezdésével megállapított, az 53/2014. (III. 3.) Korm. rendelet 28. §-a szerint módosított szöveg.
 [^50]: A 8. § (3) bekezdés 2. pontja a 318/2012. (XI. 13.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
 [^51]: A 8. § (3) bekezdés 5. pontja a 167/2011. (VIII. 24.) Korm. rendelet 7. §-ával megállapított szöveg.
 [^52]: A 8. § (3) bekezdés 5. pont h) alpontja a 348/2013. (IX. 30.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
