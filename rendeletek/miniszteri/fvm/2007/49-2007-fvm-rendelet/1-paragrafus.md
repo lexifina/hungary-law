@@ -10,6 +10,9 @@
 
 (5) E rendelet alkalmazásában üzemeltető az Európai Unió tagállamából és az Európai Gazdasági Térségről szóló megállapodásban részes más államból, továbbá olyan államból, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez (a továbbiakban együtt: EGT tagország) és az EGT tagországain kívüli országból (a továbbiakban: harmadik ország) behozott sperma forgalmazásával, valamint hazai előállítású sperma viszontforgalmazásával foglalkozó természetes és jogi személy, illetve jogi személyiséggel nem rendelkező gazdálkodó szervezet.
 
+(6)[^4] E rendelet alkalmazásában gazdálkodó szervezeten a polgári perrendtartásról szóló törvényben meghatározott gazdálkodó szervezetet kell érteni.
+
 [^1]: Az 1. § (1) bekezdése a 28/2010. (XI. 9.) VM rendelet 10. § (5) bekezdése szerint módosított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a folyamatban lévő engedélyezési eljárásokat az e módosító rendeletben foglaltak szerint kell lefolytatni.
 [^2]: Az 1. § (2) bekezdése a 28/2010. (XI. 9.) VM rendelet 11. § d) pontja szerint módosított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a folyamatban lévő engedélyezési eljárásokat az e módosító rendeletben foglaltak szerint kell lefolytatni.
 [^3]: Az 1. § (3) bekezdése a 28/2010. (XI. 9.) VM rendelet 10. § (5) bekezdése szerint módosított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a folyamatban lévő engedélyezési eljárásokat az e módosító rendeletben foglaltak szerint kell lefolytatni.
+[^4]: Az 1. § (6) bekezdését a 22/2014. (III. 14.) VM rendelet 40. § (1) bekezdése iktatta be.

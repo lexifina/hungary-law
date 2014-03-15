@@ -2,9 +2,9 @@
 
 2. § (1) A spermatároló központ üzemeltetésének engedélyezésére irányuló kérelmet (a továbbiakban: kérelem) az államilag elismert tenyésztő szervezet (a továbbiakban: kérelmező) nyújtja be. Az engedélyezési eljárás során az üzemeltető és a kérelmező kölcsönösen együttműködnek egymással.
 
-(2)[^4] A kérelmet a spermatároló központ üzemeltetési helye szerint illetékes megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatóságához (a továbbiakban: tenyésztési hatóság) kell benyújtani.
+(2)[^5] A kérelmet a spermatároló központ üzemeltetési helye szerint illetékes megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatóságához (a továbbiakban: tenyésztési hatóság) kell benyújtani.
 
-(3)[^5] A kérelemnek – a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvényben foglaltakon túl – tartalmaznia kell:
+(3)[^6] A kérelemnek – a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvényben foglaltakon túl – tartalmaznia kell:
 
 a) a kérelmező adószámát,
 
@@ -32,13 +32,13 @@ a) az üzemeltetés (7) bekezdés szerinti személyi és a melléklet szerinti t
 
 b) az üzemeltető személyes adatainak kezeléséhez történő hozzájárulását tartalmazó nyilatkozatot.
 
-(5)[^6]
+(5)[^7]
 
-(6)[^7] Az engedélyezési eljárásban vizsgálni kell a spermatároló központ kialakításának, felszereltségének és üzemeltetési feltételeinek állategészségügyi jogszabályoknak való megfelelését.
+(6)[^8] Az engedélyezési eljárásban vizsgálni kell a spermatároló központ kialakításának, felszereltségének és üzemeltetési feltételeinek állategészségügyi jogszabályoknak való megfelelését.
 
 (7) A spermatároló üzemeltetéséért felelős személynek állatorvosi vagy agrármérnöki egyetemi oklevéllel kell rendelkeznie.
 
-[^4]: A 2. § (2) bekezdése a 28/2010. (XI. 9.) VM rendelet 5. § (1) bekezdésével megállapított, a 19/2014. (III. 12.) VM rendelet 21. § a) pontja szerint módosított szöveg.
-[^5]: A 2. § (3) bekezdése a 28/2010. (XI. 9.) VM rendelet 5. § (1) bekezdésével megállapított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a folyamatban lévő engedélyezési eljárásokat az e módosító rendeletben foglaltak szerint kell lefolytatni.
-[^6]: A 2. § (5) bekezdését a 28/2010. (XI. 9.) VM rendelet 11. § d) pontja hatályon kívül helyezte. E módosító rendelet 9. § (1) bekezdése alapján a folyamatban lévő engedélyezési eljárásokat az e módosító rendeletben foglaltak szerint kell lefolytatni.
-[^7]: A 2. § (6) bekezdése a 28/2010. (XI. 9.) VM rendelet 5. § (2) bekezdésével megállapított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a folyamatban lévő engedélyezési eljárásokat az e módosító rendeletben foglaltak szerint kell lefolytatni.
+[^5]: A 2. § (2) bekezdése a 28/2010. (XI. 9.) VM rendelet 5. § (1) bekezdésével megállapított, a 19/2014. (III. 12.) VM rendelet 21. § a) pontja szerint módosított szöveg.
+[^6]: A 2. § (3) bekezdése a 28/2010. (XI. 9.) VM rendelet 5. § (1) bekezdésével megállapított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a folyamatban lévő engedélyezési eljárásokat az e módosító rendeletben foglaltak szerint kell lefolytatni.
+[^7]: A 2. § (5) bekezdését a 28/2010. (XI. 9.) VM rendelet 11. § d) pontja hatályon kívül helyezte. E módosító rendelet 9. § (1) bekezdése alapján a folyamatban lévő engedélyezési eljárásokat az e módosító rendeletben foglaltak szerint kell lefolytatni.
+[^8]: A 2. § (6) bekezdése a 28/2010. (XI. 9.) VM rendelet 5. § (2) bekezdésével megállapított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a folyamatban lévő engedélyezési eljárásokat az e módosító rendeletben foglaltak szerint kell lefolytatni.
