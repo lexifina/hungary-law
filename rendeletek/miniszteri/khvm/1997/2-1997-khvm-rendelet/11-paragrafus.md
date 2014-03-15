@@ -18,7 +18,7 @@ d) üzemeltetési szerződés: az igazgatóság és az üzemeltető között lé
 
 e) üzemeltető: a vízszolgáltató művek üzemeltetését, fenntartását szerződés alapján, esetleg alapfeladatként végző és megbízás esetén fejlesztését ellátó személy vagy szervezet;
 
-f) vízhasználó: a vízjogi engedély és szolgáltatási szerződés alapján vizet felhasználó természetes vagy jogi személy, illetőleg jogi személyiségggel nem rendelkező gazdasági társaság;
+f)[^8] vízhasználó: a vízjogi engedély és szolgáltatási szerződés alapján vizet felhasználó természetes vagy jogi személy, valamint jogi személyiség nélküli szervezet;
 
 g) vízmérés: a víz mennyiségét mérőműszerekkel, hitelesített műtárgyakkal, vagy a vízkivételre alkalmas szivattyúk névleges teljesítménye alapján műszaki becsléssel kell meghatározni;
 
@@ -30,3 +30,4 @@ j) záridő: az az időszak, amikor a vízszolgáltatás – karbantartás, fenn
 
 [^6]: A 11. § (2a) bekezdését a 119/2012. (XI. 23.) VM rendelet 4. §-a iktatta be.
 [^7]: A hatálybalépés időpontja 2012. december 8.
+[^8]: A 11. § (3) bekezdés f) pontja a 22/2014. (III. 12.) BM rendelet 2. § (1) bekezdése szerint módosított szöveg.
