@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-45-20-2
 | 2013-01-01 | 2012-45-20-22.8 | 2010: CXXX. törvény |
 | 2013-08-01 | 2012-45-20-22.9 | 298/2013. (VII. 29.) Korm. rendelet |
 | 2014-01-01 | 2012-45-20-22.10 | 298/2013. (VII. 29.) Korm. rendelet |
+| 2014-03-15 | 2012-45-20-22.11 | 43/2014. (II. 25.) Korm. rendelet |

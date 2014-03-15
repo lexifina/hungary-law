@@ -118,7 +118,7 @@
 
 | 6.1 | Tagság gazdasági társaságban (társaság megnevezése, tagság kezdete, vége, tisztség megnevezése) |  |
 
-| 6.2 | Tagság egyéb szervezetben (egyéb gazdálkodó szervezetben, társadalmi vagy civil szervezetben, köztestületben, alapítvány kuratóriumában), (társaság megnevezése, tagság kezdete, vége, tisztség megnevezése) |  |
+| 6.2 | Tagság egyéb szervezetben (a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezetben, társadalmi vagy civil szervezetben, köztestületben, alapítvány kuratóriumában), (társaság megnevezése, tagság kezdete, vége, tisztség megnevezése) |  |
 
 | 6.3 | Delegáltság közigazgatási szakmai szervezetekben, testületekben – pl. tanácsadó, koordinációs testületek, kormány – és tárcaközi bizottságok, szakértői munkacsoportok (delegáló megnevezése, tagság kezdete, vége, tisztség megnevezése) |  |
 
