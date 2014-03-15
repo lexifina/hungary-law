@@ -22,7 +22,7 @@ b) a belföldi foglalkoztatóval kötött megállapodás teljesítése érdekéb
 
 7. kiközvetíthető munkaerő: a magyar állampolgár, valamint az Flt. 2. § (2) bekezdése alapján a magyar állampolgárral azonos jogokkal és kötelezettségekkel rendelkező személy, akinek az Flt. 25. § (2) bekezdés b)–d) pontjában felsorolt szempontokat figyelembe véve megfelel az a munkahely, ahol a foglalkoztató a harmadik országbeli állampolgárt foglalkoztatni kívánja;
 
-8. kulcsszemélyzet: a Magyarország területén alapított külföldi érdekeltségű vállalkozás által foglalkoztatott olyan természetes személy, aki nem minősül a gazdasági társaságokról szóló törvényben meghatározott vezető tisztségviselőnek, és
+8.[^1] kulcsszemélyzet: a Magyarország területén alapított külföldi érdekeltségű vállalkozás által foglalkoztatott olyan természetes személy, aki nem minősül a Polgári Törvénykönyvben meghatározott vezető tisztségviselőnek, és
 
 a) irányítja vagy felügyeli (ideértve a munkáltatói jogkörök gyakorlását is) a vállalkozás egészét, valamint egy vagy több olyan szervezeti egységét, amely a vállalkozás tulajdonosa, legfőbb szerve vagy vezető tisztségviselője közvetlen irányítása, felügyelete alatt áll, vagy
 
@@ -47,3 +47,5 @@ c) a külföldi állampolgár által, Magyarországon alapított – az egyéni 
 14. összevont kérelmezési eljárás: a Harmtv. 2. § w) pontjában meghatározott eljárás;
 
 15. összevont engedély: a Harmtv. 2. § v) pontjában meghatározott engedély.
+
+[^1]: A 2. § 8. pont nyitó szövegrésze a 80/2014. (III. 14.) Korm. rendelet 37. §-a szerint módosított szöveg.
