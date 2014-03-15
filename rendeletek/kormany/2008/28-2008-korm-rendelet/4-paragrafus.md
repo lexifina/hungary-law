@@ -1,4 +1,4 @@
-## 4. §[^3] Magyarország központi költségvetéséből támogatást (a továbbiakban: támogatás) az alkotóművészeti, az előadóművészeti, a múzeumi, a könyvtári, a levéltári, a közművelődési és az örökségvédelmi-műemlékvédelmi tevékenységek tekintetében a következő célokra lehet nyújtani:
+## 4. §[^4] Magyarország központi költségvetéséből támogatást (a továbbiakban: támogatás) az alkotóművészeti, az előadóművészeti, a múzeumi, a könyvtári, a levéltári, a közművelődési és az örökségvédelmi-műemlékvédelmi tevékenységek tekintetében a következő célokra lehet nyújtani:
 
 a) a kulturális ágazat területén a nemzeti és az egyetemes értékek létrehozására, megőrzésére, digitalizálására, valamint hazai és határon túli terjesztésére, hozzáférhetővé tételére;
 
@@ -16,7 +16,7 @@ g) kulturális jellegű civil és nonprofit szervezetek támogatására;
 
 h) határon túli magyar kultúra támogatására;
 
-i)[^4] a nemzetiségek kultúrájának támogatására.
+i)[^5] a nemzetiségek kultúrájának támogatására.
 
-[^3]: A 4. § nyitó szövegrésze a 258/2012. (IX. 14.) Korm. rendelet 1. § (9) bekezdése szerint módosított szöveg.
-[^4]: A 4. § i) pontja a 258/2012. (IX. 14.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^4]: A 4. § nyitó szövegrésze a 258/2012. (IX. 14.) Korm. rendelet 1. § (9) bekezdése szerint módosított szöveg.
+[^5]: A 4. § i) pontja a 258/2012. (IX. 14.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
