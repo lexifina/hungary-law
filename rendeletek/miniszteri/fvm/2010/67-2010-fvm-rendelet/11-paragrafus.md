@@ -1,7 +1,7 @@
-## 10. §[^10] A NÉBIH az üzemeltetési engedéllyel rendelkező, illetve pároztató telepnek minősített méhanyanevelő telepek listáját a Földművelési és Vidékfejlesztési Minisztérium hivatalos lapjában és saját honlapján közzéteszi.
+## 10. §[^11] A NÉBIH az üzemeltetési engedéllyel rendelkező, illetve pároztató telepnek minősített méhanyanevelő telepek listáját a Földművelési és Vidékfejlesztési Minisztérium hivatalos lapjában és saját honlapján közzéteszi.
 
 11. § (1) Ez a rendelet a kihirdetésétől számított nyolcadik napon lép hatályba.
 
 (2) E rendelet előírásait a rendelet hatálybalépését követően indult és a hatályba lépését követő megismételt eljárásokban kell alkalmazni.
 
-[^10]: A 10. § a 70/2013. (VII. 31.) VM rendelet 130. § c) pontja szerint módosított szöveg.
+[^11]: A 10. § a 70/2013. (VII. 31.) VM rendelet 130. § c) pontja szerint módosított szöveg.
