@@ -1,15 +1,21 @@
-10/A. § (1) Ha a bíróság az ügyész keresetére az egyesület megszűnését állapítja meg [11. § (5) bekezdés], vagy a bíróság az ügyész keresetére az alapítványt annak okán szünteti meg, hogy céljának megvalósítása lehetetlenné vált [Ptk. 74/E. § (3) bekezdés], az egyesületet, illetve az alapítványt nyilvántartó bíróság a jogerős ítélet alapján a nyilvántartásba haladéktalanul bejegyzi egyesület esetében a „megszűnt”, míg alapítvány esetén a „megszüntetve” toldatot.
+## 2/D. A jogutód nélkül megszűnt civil szervezet fennmaradó vagyonára vonatkozó különös szabályok
 
-(2) Az (1) bekezdésben meghatározott ítéletek indokolásának, ha a perben a civil szervezetet ügygondnok képviselte és a per során nem merült fel adat arra nézve, hogy a civil szervezetnek vagyona van, a Pp. 221. §-ában foglaltakon túl tartalmaznia kell az arra való utalást, hogy a per során a civil szervezet vagyonára vonatkozó adat nem merült fel.
+10/A. § (1) A jogutód nélkül megszűnt civil szervezet fennmaradt pénzbeli vagyona, a létesítő okirat eltérő rendelkezése, valamint – alapítvány esetében – az alapító eltérő rendelkezése hiányában a civil szervezetek támogatására való felhasználás céljából a Nemzeti Együttműködési Alapot illeti meg, amelyet a 73. § (2) bekezdés a) pontja alapján kijelölt szerv kezel. A vagyon felhasználására vonatkozó adatokat a Civil Információs Portálon nyilvánosságra kell hozni.
 
-(3) A (2) bekezdés szerinti esetben a civil szervezetet nyilvántartó bíróság az (1) bekezdés szerinti jogerős ítélet kézhezvételétől számított öt napon belül a bíróságok központi internetes oldalán hirdetményt tesz közzé, melyben felhívja a civil szervezetnek a nyilvántartásba bejegyzett képviselőit, hogy a bíróság részére negyvenöt napon belül jelentsék be idézési címüket. A bíróság egyben felhívást tesz közzé arra vonatkozóan, hogy akinek
+(2) A civil szervezet végelszámolása, illetve felszámolási eljárása befejeztével – a (3) és (4) bekezdésekben meghatározott vagyonelemek kivételével – a jogutód nélkül megszűnt civil szervezet létesítő okirat vagy jogszabály eltérő rendelkezése, illetve – alapítvány esetében – az alapító eltérő rendelkezése hiányában megmaradt nem pénzbeli vagyonáról a végelszámoló, illetve a felszámoló kimutatást készít, amelyet megküld a Nemzeti Együttműködési Alap Tanácsa részére. A Tanács az (5) bekezdés szerinti eljárásban gondoskodik a nem pénzben rendelkezésre álló vagyonra vonatkozó pályázati eljárás lefolytatásáról.
 
-a) a civil szervezettel szemben követelése van – ideértve a számviteli törvény szerinti függő követelést is –,
+(3) A jogutód nélkül megszűnt civil szervezet, létesítő okirat eltérő rendelkezése, továbbá – alapítvány esetében – az alapító eltérő rendelkezése hiányában megmaradt vagyonából a Nemzeti Földalapról szóló törvény szerinti földrészletet a bíróság az állam tulajdonába adja és elrendeli a Nemzeti Földalapot kezelő szerv részére történő átadását.
 
-b) tudomása van arról, hogy a civil szervezet ellen bírósági, közjegyzői vagy más hatósági eljárás van folyamatban vagy
+(4) A jogutód nélkül megszűnt civil szervezet, létesítő okirat eltérő rendelkezése, továbbá – alapítvány esetében – az alapító eltérő rendelkezése hiányában megmaradt vagyonából a kulturális javakról szóló törvény szerinti gyűjteményt, művészeti alkotást, műkincset és egyéb műtárgyat a bíróság az állam tulajdonába adja, és e vagyonelemek az állami vagyonról szóló törvény szerinti tulajdonosi joggyakorló által kiírt pályázattal, ellenérték nélkül, közgyűjtemény vagyonkezelésébe kerülnek.
 
-c) a civil szervezet tulajdonában lévő eszköz van a birtokában, vagy a civil szervezet vagyontárgyára vonatkozó jog jogosultjaként van bejegyezve, valamely vagyontárgyat illetően a javára, illetve érdekében tény van feljegyezve, vagy a civil szervezet vagyontárgyára tarthatna igényt,
+(5) A (2) bekezdés szerinti nem pénzbeli vagyont a bíróság – a végelszámolónak, illetve felszámolónak, a Nemzeti Együttműködési Alap Tanácsához tett bejelentését követően, a Nemzeti Együttműködési Alap Tanácsa által kijelölt kollégium döntése alapján meghirdetett és elbírált, nyilvános pályázaton nyertes civil szervezet részére történő tulajdonba adásra vonatkozó javaslata figyelembevételével – civil szervezet tulajdonába adja.
 
-azt negyvenöt napon belül jelentse be a bíróságnak.
+(6) Ha az (5) bekezdés szerinti eljárás – a végelszámolónak, illetve a felszámolónak a Nemzeti Együttműködési Alap Tanácsához tett bejelentésétől számított – 6 hónapon belül nem vezet eredményre, a bíróság – a felszámolónak, illetve a végelszámolónak az (5) bekezdés szerinti eljárás sikertelenségéről tett bejelentését követően – a vagyont az állam tulajdonába adja, az állami tulajdonosi joggyakorló számára történő vagyonátadással összefüggő intézkedéseket a végelszámoló, illetve a felszámoló teszi meg.
 
-(4) Ha a (3) bekezdésben foglalt határidőn belül a civil szervezet képviselői nem jelentik be idézési címüket, és a civil szervezet vagyonára vonatkozó adat nem merül fel, valamint a civil szervezettel szemben fennálló követelés bejelentésére nem kerül sor, a bíróság hivatalból megindítja az egyszerűsített törlési eljárást, a nyilvántartásból törli a „megszűnt”, vagy a „megszüntetve” toldatot, és bejegyzi az egyszerűsített törlési eljárás megindítására utaló „törlés alatt” toldatot. A végzés ellen fellebbezésnek és felülvizsgálatnak helye nincs.
+(7) Az (1)–(5) bekezdés szerinti rendelkezéseket kell alkalmazni arra az esetre is, ha a civil szervezet jogutód nélküli megszűnése esetére a létesítő okirat vagy – alapítvány esetében – az alapító rendelkezik a fennmaradó vagyon sorsáról, de az e rendelkezésben kijelölt szervezet
+
+a) jogutód nélkül megszűnt
+
+b) jogutód nélküli megszüntetését eredményező eljárás van ellene folyamatban, vagy
+
+c) a vagyont nem veszi át.

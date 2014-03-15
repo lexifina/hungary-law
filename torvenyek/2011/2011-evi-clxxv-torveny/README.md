@@ -19,3 +19,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-175-00-00
 | 2013-12-20 | 2013. évi CCXIII. törvény | 2011-175-00-00.12 |
 | 2013-12-31 | 2013. évi CCXLIII. törvény | 2011-175-00-00.13 |
 | 2014-01-01 | 2013. évi CCXIII. törvény | 2011-175-00-00.14 |
+| 2014-03-15 | 2013. évi CCXIII. törvény | 2011-175-00-00.15 |

@@ -1,19 +1,7 @@
-10/B. § (1) A bíróság az egyszerűsített törlési eljárás elrendelését követő öt munkanapon belül az egyszerűsített törlési eljárás megindításáról értesíti
+## 2/E. Vagyonrendezési eljárás
 
-a) az ügyészséget,
+10/B. § (1) Az e §-ban foglalt eltérésekkel a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény (a továbbiakban: Ctv.) szerinti vagyonrendezési eljárást kell lefolytatni, ha a civil szervezet törlését követően olyan vagyontárgy kerül elő, amelynek a törölt civil szervezet volt a tulajdonosa. Ha a törölt civil szervezet ellen végrehajtási eljárás van folyamatban (a bírósági végrehajtásról szóló 1994. évi LIII. törvény 46. §), a végrehajtási eljárás alatt nem kezdeményezhető vagyonrendezési eljárás a lefoglalt vagyontárgy vonatkozásában.
 
-b) a civil szervezet székhelye szerint illetékes adó- és vámhatóságot, társadalombiztosítási igazgatási szervet,
+(2) Ahol a Ctv. Cégközlönyben való közzétételről rendelkezik, ott a bíróság a bíróságok központi internetes oldalán teszi közzé a végzést.
 
-c) a civil szervezet székhelye szerint illetékes végrehajtót (végrehajtókat), és
-
-d) – ha a nyilvántartásában szerepel – a civil szervezet számláit vezető pénzforgalmi szolgáltatókat.
-
-(2) Az értesítésnek tartalmaznia kell:
-
-a) a bíróság nevét, székhelyét,
-
-b) a civil szervezet nevét, székhelyét, nyilvántartási számát,
-
-c) felhívást arra vonatkozóan, hogy a civil szervezettel kapcsolatos rendelkezésére álló információkat a bíróságnak hatvan napon belül jelentse be.
-
-(3) A civil szervezet székhelye szerint illetékes adó- és vámhatóságnak, és a társadalombiztosítási igazgatási szervnek szóló értesítésnek tartalmaznia kell azt a felhívást, hogy a civil szervezet vele szemben fennálló tartozását, a szervezettel szemben folyó eljárást jelentse be, valamint adjon tájékoztatást arra vonatkozóan, hogy a civil szervezetnek van-e munkavállalója. Az adóhatóságnak szóló értesítésnek tartalmaznia kell azt is, hogy az adóhatóság értesítse a bíróságot arról, hogy a záró adóellenőrzést lefolytatta.
+(3) A vagyonrendező díjazására a 9/J. § (5) bekezdésben meghatározott díjazási szabályokat kell alkalmazni.

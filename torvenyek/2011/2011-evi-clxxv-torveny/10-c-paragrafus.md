@@ -1,15 +1,17 @@
-10/C. § (1) Ha a bíróság által előírt határidőben
+## II/A. Fejezet
 
-a) a civil szervezet képviselője az idézési címét nem jelenti be,
+## A CIVIL SZERVEZETEK EGYESÜLÉSE, SZÉTVÁLÁSA
 
-b) a civil szervezettel szemben a bíróságnál követelés bejelentésére nem került sor, és ellene bírósági, közjegyzői vagy más hatósági eljárás nincs folyamatban,
+10/C. § (1) A civil szervezet jogutóddal történő megszűnésére (egyesülésére, szétválására) e fejezet rendelkezéseit kell alkalmazni.
 
-c) a civil szervezet fellelhető vagyonára vonatkozóan érdemi adat nem merül fel,
+(2) A civil szervezet döntéshozó szerve határoz a jogutódlással történő megszűnésről.
 
-d) az adó- és vámhatóság, és a társadalombiztosítási igazgatási szerv a bíróságot arról tájékoztatja, hogy eljárás nincs folyamatban, valamint a civil szervezetnek nincs munkavállalója és
+(3) A döntéshozó szerv a civil szervezet ügyvezetésének – ha a civil szervezetnél felügyelőbizottság működik –, a felügyelőbizottság által véleményezett előterjesztése alapján állapítja meg, hogy a civil szervezet tagjai, illetőleg alapítói egyetértenek-e a jogutódlással történő megszűnés szándékával.
 
-e) a végrehajtó a bíróságot arról tájékoztatja, hogy tudomása szerint végrehajtási eljárás nincs folyamatban
+(4) Ha a döntéshozó szerv tagjai a jogutódlással történő megszűnés szándékával egyetértenek, a döntéshozó szerv meghatározza a vagyonmérleg-tervezetek fordulónapját, – kötelező könyvvizsgálat esetén – dönt a könyvvizsgáló személyéről és megbízza a civil szervezet ügyvezetését a jogutódlással történő megszűnésről szóló döntés meghozatalához szükséges egyéb – jogszabály által meghatározott vagy a döntéshozó szerv által előírt – okiratok elkészítésével.
 
-a bíróság a civil szervezetet törli a nyilvántartásból, egyidejűleg rendelkezik arról, hogy a civil szervezet fellelhető iratainak elhelyezéséről a szervezet volt képviselője, illetve alapítvány esetén a korábbi kezelő szerv vagy a korábbi kezelő szervezet tagja, ennek hiányában vagy az egyesület bármely fellelhető tagja, illetve az alapítvány bármely fellelhető alapítója gondoskodjon, és ennek megtörténtét a bíróságnak igazolja, valamint az iratok őrzésének helyéről nyilatkozatot tegyen.
+(5) A tagok, alapítók a (4) bekezdés szerinti eljárásban kinyilvánított és részükre tájékoztatásként írásban átadott jogutódlással történő megszűnéssel kapcsolatos döntések kézhezvételétől számított harminc napon belül írásban nyilatkozhatnak arról, ha nem kívánnak a jogutód civil szervezet tagjává, alapítójává válni. Ilyen nyilatkozat hiányában úgy kell tekinteni, hogy a tag, alapító a jogutód civil szervezet tagjává, alapítójává kíván válni.
 
-(2) A bíróság az egyszerűsített törlési eljárást megszünteti, és kényszer-végelszámolási eljárást rendel el, ha az (1) bekezdésben foglalt törlési feltételek bármelyike nem teljesül.
+(6) Az alapítvány alapítója az egyesülés és a szétválás során a jogutód alapítvány alapítói jogának gyakorlására az alapítványra vonatkozó szabályok szerint más személyt, illetve alapítványi szervet is kijelölhet vagy a jogutód alapítványban őt megillető alapítói jogot másra átruházhatja.
+
+(7) A jogutódlással történő megszűnés elhatározásáról a döntéshozó szerv döntését követő 15 napon belül tájékoztatni kell a civil szervezetnél működő munkavállalói érdek-képviseleti szerveket.

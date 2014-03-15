@@ -12,13 +12,19 @@
 
 5. civil delegált: a X. fejezetben meghatározott Tanács, illetve kollégium azon tagja, akit a civil jelöltállítási rendszerben a civil szervezetek választottak meg;
 
-6. civil szervezet: a civil társaság, illetve a Magyarországon nyilvántartásba vett egyesület – a párt kivételével –, valamint az alapítvány. Civil szervezet alatt az e törvény II–VI. és VIII–X. fejezetében a civil társaságot, továbbá a VII–X. fejezetében a kölcsönös biztosító egyesületet és a szakszervezetet nem kell érteni;
+6. civil szervezet:
+
+a) a civil társaság,
+
+b) a Magyarországon nyilvántartásba vett egyesület – a párt, a szakszervezet és a kölcsönös biztosító egyesület kivételével –,
+
+c) – a közalapítvány és a pártalapítvány kivételével – az alapítvány.
 
 7. elsődlegesen gazdasági-vállalkozási tevékenységű szervezet: azon szervezet, amelynek éves összes bevétele hatvan százalékát eléri vagy meghaladja a gazdasági-vállalkozási tevékenységéből származó éves összes bevétele;
 
 8. feladatfinanszírozást szolgáló költségvetési támogatás: valamely közfeladat államháztartáson kívüli szervezet által történő ellátását, valamint e feladat ellátásához közvetlenül kapcsolódó, arányos működési költségeket finanszírozó költségvetési támogatás;
 
-9. felelős személy: a civil szervezet létesítő okiratában és belső szabályzataiban vezető tisztségviselőként megjelölt vagy egyébként érdemi döntési jogkörrel rendelkező személy, valamint az a személy, aki a létesítő okirat felhatalmazása, a civil szervezet legfőbb szervének határozata vagy szerződés alapján a civil szervezet képviseletére vagy pénzforgalmi számlája feletti rendelkezésre jogosult;
+9. felelős személy: a civil szervezet vezető tisztségviselője, létesítő okiratában és belső szabályzataiban vezető tisztségviselőként megjelölt vagy egyébként érdemi döntési jogkörrel rendelkező személy, valamint az a személy, aki a létesítő okirat felhatalmazása, a civil szervezet döntéshozó szervének határozata vagy szerződés alapján a civil szervezet képviseletére vagy pénzforgalmi számlája feletti rendelkezésre jogosult;
 
 10. gazdálkodó tevékenység: azon tevékenységek összessége, amelyek a civil szervezet vagyoni, pénzügyi, jövedelmi helyzetére kiható gazdasági eseményt eredményeznek;
 
@@ -50,11 +56,11 @@ d) a személyi jövedelemadó meghatározott részének az adózó rendelkezése
 
 16. közcélú tevékenység: személyek csoportja által, valamely a csoportnál tágabb közösség érdekében – más, e közösségbe nem tartozó személyek érdekeinek sérelme nélkül – végzett tevékenység.
 
-17. közeli hozzátartozó: a Ptk. 685. § b) pontjában meghatározott közeli hozzátartozó, valamint az élettárs;
+17. közeli hozzátartozó: a Ptk.-ban pontjában meghatározott közeli hozzátartozó, valamint az élettárs;
 
-18. közérdekű kötelezettségvállalás: a Ptk. 593–596. §-ában meghatározottak szerinti kötelezettségvállalás;
+18. közérdekű kötelezettségvállalás: a Ptk. 6:589–6:592. §-ában meghatározott kötelezettségvállalás;
 
-19. közfeladat: jogszabályban meghatározott állami vagy önkormányzati feladat, amit az arra kötelezett közérdekből, haszonszerzési cél nélkül, jogszabályban meghatározott követelményeknek és feltételeknek megfelelve végez, ideértve a lakosság közszolgáltatásokkal való ellátását, valamint e feladatok ellátásához szükséges infrastruktúra biztosítását is;
+19. közfeladat: jogszabályban meghatározott állami vagy önkormányzati feladat, amit a feladat címzettje közérdekből, haszonszerzési cél nélkül, jogszabályban meghatározott követelményeknek és feltételeknek megfelelve végez, ideértve a lakosság közszolgáltatásokkal való ellátását, valamint e feladatok ellátásához szükséges infrastruktúra biztosítását is;
 
 20. közhasznú tevékenység: minden olyan tevékenység, amely a létesítő okiratban megjelölt közfeladat teljesítését közvetlenül vagy közvetve szolgálja, ezzel hozzájárulva a társadalom és az egyén közös szükségleteinek kielégítéséhez;
 
@@ -62,9 +68,7 @@ d) a személyi jövedelemadó meghatározott részének az adózó rendelkezése
 
 22. közvetlen politikai tevékenység: párt érdekében végzett politikai tevékenység, az országgyűlési képviselői választáson történő jelöltállítás, a megyei, fővárosi önkormányzat képviselő-testületébe történő jelöltállítás, az Európai Parlament tagjának történő jelölés, a megyei jogú város képviselő–testületébe történő jelöltállítás, valamint a polgármester jelölése; nem minősül közvetlen politikai tevékenységnek a külön törvényben meghatározott nemzetiségi szervezet által a helyi, illetve nemzetiségi önkormányzati képviselői választáson történő jelöltállítás valamint a polgármester jelölése.
 
-23. legfőbb szerv: az alapítvány kezelő szerve (szervezete), az egyesület taggyűlése vagy a létesítő okirat rendelkezései szerint közvetlenül vagy közvetett módon választott testület,
-
-24. létesítő okirat: az egyesület alapszabálya, az alapítvány alapító okirata;
+23–24.
 
 25. nem pénzbeli támogatás: vagyoni értékkel rendelkező forgalomképes dolog, szellemi alkotás, illetve vagyoni értékű jog részben vagy egészében, véglegesen vagy ideiglenesen, teljesen vagy részben ingyenesen történő átruházása vagy átengedése, illetve szolgáltatás biztosítása;
 
@@ -74,4 +78,4 @@ d) a személyi jövedelemadó meghatározott részének az adózó rendelkezése
 
 28. törzsvagyon: az induló tőke, megnövelve alapítvány esetében a csatlakozók által kifejezetten az induló tőke növelése érdekében rendelkezésre bocsátott vagyonnal;
 
-29. vezető tisztségviselő: az alapítvány kezelője, illetve kezelő szervének (szervezetének) és – amennyiben az alapítványnak van felügyelő szerve – felügyelő szervének elnöke és tagja, továbbá – ha az alapítvány kezelő szerve (szervezete) elkülönült jogi személy, jogi személyiséggel nem rendelkező szervezet vagy állami szerv – a kezelő szerv (szervezet) egyszemélyi felelős vezetője vagy ilyen jogkörben eljáró testületének tagja; az egyesület ügyintéző és képviseleti szervének, továbbá – amennyiben az egyesületnek van felügyelő szerve – a felügyelő szerv elnöke és tagja.
+29.

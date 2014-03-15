@@ -1,6 +1,6 @@
 ## 13. A közhasznú szervezet működésével kapcsolatos szabályok
 
-38. § (1) A legfőbb szerv, valamint az ügyintéző és képviseleti szerv határozathozatalában nem vehet részt az a személy, aki vagy akinek közeli hozzátartozója a határozat alapján
+38. § (1) A döntéshozó szerv, valamint az ügyvezető szerv határozathozatalában nem vehet részt az a személy, aki vagy akinek közeli hozzátartozója a határozat alapján
 
 a) kötelezettség vagy felelősség alól mentesül, vagy
 
@@ -10,7 +10,7 @@ b) bármilyen más előnyben részesül, illetve a megkötendő jogügyletben eg
 
 (3) Nem lehet a felügyelő szerv elnöke vagy tagja, illetve könyvvizsgálója az a személy, aki
 
-a) a legfőbb szerv, illetve az ügyintéző és képviseleti szerv elnöke vagy tagja (ide nem értve az egyesület legfőbb szervének azon tagjait, akik tisztséget nem töltenek be),
+a) a döntéshozó szerv, illetve az ügyvezető szerv elnöke vagy tagja (ide nem értve az egyesület döntéshozó szervének azon tagjait, akik tisztséget nem töltenek be),
 
 b) a közhasznú szervezettel e megbízatásán kívüli más tevékenység kifejtésére irányuló munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban áll, ha jogszabály másképp nem rendelkezik,
 
