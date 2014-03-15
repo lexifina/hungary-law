@@ -39,9 +39,3 @@ a) jelentős mennyiségű, ha az adott kábítószerre meghatározott csekély m
 b) különösen jelentős mennyiségű, ha az adott kábítószerre meghatározott csekély mennyiség felső határának kétszázszoros
 
 mértékét meghaladja.
-
-(4) A 176–180. § alkalmazásában az (1)–(2) bekezdésben nem szereplő kábítószer esetén a kábítószer
-
-a) csekély mennyiségű, ha annak tiszta hatóanyag-tartalma a hozzá nem szokott fogyasztó átlagos hatásos adagjának hétszeres mértékét nem haladja meg,
-
-b) jelentős mennyiségű, ha annak tiszta hatóanyag-tartalma a hozzá nem szokott fogyasztó átlagos hatásos adagjának száznegyvenszeres mértékét meghaladja,

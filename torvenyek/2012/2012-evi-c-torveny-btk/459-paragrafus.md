@@ -28,7 +28,7 @@ tart magánál, vagy a bűncselekményt az a)–d) pontban meghatározottak utá
 
 7. fenyegetés: eltérő rendelkezés hiányában súlyos hátrány kilátásba helyezése, amely alkalmas arra, hogy a megfenyegetettben komoly félelmet keltsen;
 
-8. gazdálkodó szervezet: a Polgári Törvénykönyv szerinti gazdálkodó szervezeten kívül az a szervezet is, amelynek gazdálkodó tevékenységével összefüggő polgári jogi kapcsolataira a Polgári Törvénykönyv szerint a gazdálkodó szervezetre vonatkozó rendelkezéseket kell alkalmazni;
+8. gazdálkodó szervezet: a polgári perrendtartás szerinti gazdálkodó szervezeten kívül az a szervezet is, amelynek gazdálkodó tevékenységével összefüggő polgári jogi kapcsolataira a polgári perrendtartás szerint a gazdálkodó szervezetre vonatkozó rendelkezéseket kell alkalmazni;
 
 9. hatóság a bíróság és az ügyész is;
 
