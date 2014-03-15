@@ -70,7 +70,7 @@ e) amely után az adó megfizetése a kifizetőt terheli,
 
 28. a felszolgálási díj után fizetett nyugdíjjárulék alapjáról és összegéről,
 
-29. a szövetkezetekről szóló törvényben meghatározott tagi munkavégzés esetén a szociális szövetkezet által a tagja után fizetendő nyugdíjjárulék alapjáról és összegéről, valamint az egészségügyi szolgáltatási járulékról,
+29. a tagi munkavégzés esetén a szociális szövetkezet által a tagja után fizetendő nyugdíjjárulék alapjáról és összegéről, valamint az egészségügyi szolgáltatási járulékról,
 
 30. a szociális hozzájárulási adó alapjáról és összegéről,
 

@@ -18,7 +18,7 @@ b)
 
 c) jogelődjének adóazonosító számát;
 
-d) a közös vállalat tulajdonosának (tulajdonosainak) adóazonosító számát, jogi személyiség nélküli gazdasági társaság, a korlátolt felelősségű társaság, az egyesülés, a közös vállalat adóazonosító jellel nem rendelkező tulajdonosa esetén az adóazonosító jel közlése végett e törvényben meghatározott adatokat;
+d) a közös vállalat tulajdonosának (tulajdonosainak) adóazonosító számát, a közkereseti társaság, a betéti társaság, a korlátolt felelősségű társaság, az egyesülés, a közös vállalat adóazonosító jellel nem rendelkező tulajdonosa esetén az adóazonosító jel közlése végett e törvényben meghatározott adatokat;
 
 e) a magánszemély adózó levelezési címét, ha az nem azonos székhelyével, telephelyével;
 

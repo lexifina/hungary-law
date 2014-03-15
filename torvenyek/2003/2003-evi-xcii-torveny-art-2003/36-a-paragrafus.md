@@ -1,10 +1,10 @@
-36/A. § (1) A közbeszerzések teljesítéséhez kapcsolódóan a közbeszerzésekről szóló törvény (a továbbiakban: Kbt.) szerinti nyertes ajánlattevő és a Kbt. szerinti alvállalkozók közötti szerződések, valamint minden további, a polgári jog szerinti alvállalkozók között megkötött vállalkozási szerződések alapján történő, a havonta nettó módon számított 200 000 forintot meghaladó kifizetésnél a kifizetést teljesítő az igénybe vett alvállalkozónak a teljesítésért – visszatartási kötelezettség nélkül – abban az esetben fizethet, ha
+36/A. § (1) A közbeszerzések teljesítéséhez kapcsolódóan a közbeszerzésekről szóló törvény (a továbbiakban: Kbt.) szerinti nyertes ajánlattevő és a Kbt. szerinti alvállalkozók közötti szerződések, valamint minden további, a Kbt. szerinti alvállalkozóval szerződéses viszonyban álló vállalkozó között megkötött vállalkozási szerződések alapján történő, a havonta nettó módon számított 200 000 forintot meghaladó kifizetésnél a kifizetést teljesítő az igénybe vett alvállalkozónak a teljesítésért – visszatartási kötelezettség nélkül – abban az esetben fizethet, ha
 
-a) az alvállalkozó bemutat, átad vagy megküld a tényleges kifizetés időpontjától számított 30 napnál nem régebbi nemlegesnek minősülő együttes adóigazolást, vagy
+a) az alvállalkozó bemutat, átad vagy megküld a tényleges kifizetés időpontjától számított 30 napnál nem régebbi, nemlegesnek minősülő együttes adóigazolást, vagy
 
 b) az alvállalkozó a kifizetés időpontjában szerepel a köztartozásmentes adózói adatbázisban.
 
-Kifizetést teljesítőnek minősül az ajánlattevő, a Kbt. szerinti alvállalkozó, valamint a polgári jog szerinti alvállalkozó.
+(1a) Az (1) bekezdés szerinti kifizetést teljesítőnek minősül az ajánlattevő, a Kbt. szerinti alvállalkozó, valamint minden további, a Kbt. szerinti alvállalkozóval szerződéses viszonyban álló vállalkozó.
 
 (2) A közbeszerzések teljesítéséhez kapcsolódóan megkötött mindegyik szerződés esetén a kifizetést teljesítő a szerződésben írásban tájékoztatja az alvállalkozót arról, hogy a szerződés és ennek teljesítése esetén a kifizetés e § hatálya alá esik.
 

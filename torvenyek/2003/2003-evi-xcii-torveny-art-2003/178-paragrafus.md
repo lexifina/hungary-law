@@ -18,7 +18,7 @@
 
 8. be nem jelentett alkalmazott: az adózó gazdasági tevékenységében személyesen közreműködő magánszemély, akire vonatkozóan a munkáltató, illetve kifizető az e törvényben meghatározott bejelentési kötelezettségének nem tett eleget, illetve a munkáltató, kifizető nem tudja bizonyítani, hogy a tevékenységében közreműködő jogviszonya kívül esik a bejelentési kötelezettségen,
 
-9. egyéb szervezet: jogi személyiséggel nem rendelkező társaság, egyéni cég, szakcsoport, polgári jogi társaság, társasház, társasüdülő, társasgarázs, építőközösség és minden más, jogi személyiséggel nem rendelkező személyi egyesülés,
+9. egyéb szervezet: egyéni cég, szakcsoport, polgári jogi társaság, társasház, társasüdülő, társasgarázs, építőközösség és minden más, jogi személyiséggel nem rendelkező személyi egyesülés,
 
 10. előtársaság: a jogelőd nélkül létrehozni kívánt gazdasági társaság, fióktelep, egyesülés, szövetkezet, erdőbirtokossági társulat és vízgazdálkodási társulat társasági, társulati szerződése (alapító okirata, alapszabálya) ellenjegyzésének, illetve közokiratba foglalásának napjától létrejöttének (a cégjegyzékbe való bejegyzésének) napjáig, a cégbejegyzés iránti kérelem jogerős elutasításának vagy a cégbejegyzési eljárás megszüntetésének a napjáig, feltéve, hogy a cégbejegyzés iránti kérelmet a cégnyilvántartásról, a cégnyilvánosságról és a bírósági cégeljárásról szóló 1997. évi CXLV. törvény hatálybalépését követően nyújtották be,
 
@@ -42,11 +42,11 @@ c) amely az egyik szerződő fél számára folyamatos rendelkezésre állási k
 
 17. kapcsolt vállalkozás:
 
-a) az adózó és az a személy, amelyben az adózó – a Ptk. rendelkezéseinek megfelelő alkalmazásával–- közvetlenül vagy közvetve többségi befolyással rendelkezik,
+a) az adózó és az a személy, amelyben az adózó – a Polgári Törvénykönyv rendelkezéseinek megfelelő alkalmazásával–- közvetlenül vagy közvetve többségi befolyással rendelkezik,
 
-b) az adózó és az a személy, amely az adózóban – a Ptk. rendelkezéseinek megfelelő alkalmazásával – közvetlenül vagy közvetve többségi befolyással rendelkezik,
+b) az adózó és az a személy, amely az adózóban – a Polgári Törvénykönyv rendelkezéseinek megfelelő alkalmazásával – közvetlenül vagy közvetve többségi befolyással rendelkezik,
 
-c) az adózó és más személy, ha harmadik személy – a Ptk. rendelkezéseinek megfelelő alkalmazásával – közvetlenül vagy közvetve mindkettőjükben többségi befolyással rendelkezik azzal, hogy azokat a közeli hozzátartozókat, akik az adózóban és a más személyben többségi befolyással rendelkeznek, harmadik személynek kell tekinteni;
+c) az adózó és más személy, ha harmadik személy – a Polgári Törvénykönyv rendelkezéseinek megfelelő alkalmazásával – közvetlenül vagy közvetve mindkettőjükben többségi befolyással rendelkezik azzal, hogy azokat a közeli hozzátartozókat, akik az adózóban és a más személyben többségi befolyással rendelkeznek, harmadik személynek kell tekinteni;
 
 d) a külföldi vállalkozó és belföldi telephelye, valamint a külföldi vállalkozó telephelyei, továbbá a külföldi vállalkozó belföldi telephelye és az a személy, amely a külföldi vállalkozóval az a)–c) alpontban meghatározott viszonyban áll;
 
@@ -54,7 +54,7 @@ e) az adózó és külföldi telephelye, továbbá az adózó külföldi telephe
 
 18. kifizető: az a belföldi illetőségű jogi személy, egyéb szervezet, egyéni vállalkozó, amely (aki) adókötelezettség alá eső jövedelmet juttat, függetlenül attól, hogy a juttatást közvetlenül vagy megbízottja (posta, hitelintézet) útján teljesíti. Kamat esetében kifizető az, aki a személyi jövedelemadó törvény szerint magánszemélynek kamatjövedelmet fizet ki, a kölcsönt igénybe vette, a kötvényt kibocsátotta, osztalék esetében az az adózó, amelynek a vagyona terhére az osztalékot juttatják. Tőzsdei kereskedelmi tevékenység folytatására jogosult személy közreműködésével kötött ügyletből származó jövedelem esetében kifizető a megbízott (bizományos). Külföldről származó, belföldön adóköteles bevétel esetében kifizető a belföldi illetőségű megbízott (jogi személy, egyéb szervezet vagy egyéni vállalkozó), kivéve a megbízott hitelintézet olyan megbízását, amely kizárólag az átutalás (kifizetés) teljesítésére terjed ki. A külföldi vállalkozás fióktelepe, illetve kereskedelmi képviselete útján teljesített adóköteles kifizetése esetén a fióktelepet, illetve a kereskedelmi képviseletet kifizetőnek kell tekinteni. Ugyancsak kifizetőnek minősül minden olyan belföldön gazdasági tevékenységet végző szervezet, amelynek tevékenysége cégbejegyzéshez nem kötött, vagy törvény rendelkezésétől eltérően végez cégbejegyzéshez kötött gazdasági tevékenységet. Az adóköteles társadalombiztosítási ellátás kifizetőjének azt kell tekinteni, aki az ellátást a jogosultnak ténylegesen kifizette. Az adóköteles nyeremény szempontjából kifizető a szerencsejáték szervezője, függetlenül attól, hogy az adóköteles nyereményt közvetlenül vagy közvetítő útján juttatja a magánszemélynek. Kifizetőnek minősül a Tbj. 4. § a) pontja szerinti foglalkoztató, kivéve a Tbj. 56/A. §-a szerinti külföldi vállalkozást. Letétből történő kifizetés esetén a hatóságok, nyomozó hatóságok, bíróságok, ügyvédek, közjegyzők és a bírósági végrehajtók nem minősülnek kifizetőnek,
 
-19. közeli hozzátartozó: a Polgári Törvénykönyv 685. §-a b) pontjában közeli hozzátartozóként megjelölt személy,
+19. közeli hozzátartozó: a Polgári Törvénykönyvben közeli hozzátartozóként megjelölt személy,
 
 20. köztartozás: törvényben meghatározott, az államháztartás alrendszereinek költségvetéseiből ellátandó feladatok fedezetére előírt fizetési kötelezettség, amelynek megállapítása, ellenőrzése, behajtása bíróság vagy közigazgatási szerv hatáskörébe tartozik, valamint a köztestület működésének fedezetére törvényben előírt fizetési kötelezettség, feltéve, hogy azt önkéntesen az esedékességkor nem teljesítették. Köztartozás az is, ha az államháztartás alrendszereinek költségvetése terhére jogosulatlanul igénybe vett vagy rendeltetésétől eltérően felhasznált támogatás és járulékai megfizetését az arra hatáskörrel rendelkező szerv elrendeli, és azt a kötelezett az előírt határidőig nem teljesíti. Az állami adóhatóság a támogatás visszafizetéséről rendelkező szerv megkeresésére a költségvetési támogatás visszatartási jogát e tartozások tekintetében is gyakorolja,
 
@@ -107,3 +107,5 @@ g) nem minősül adó megfizetésére kötelezettnek.
 38.
 
 39.
+
+40. kezelt vagyon: a Polgári Törvénykönyv szerint bizalmi vagyonkezelési szerződés alapján kezelt vagyon.

@@ -20,7 +20,7 @@ dc) a 4. c) pont esetén a befektetési alapkezelőkről és a kollektív befekt
 
 dd) az 5. pont szerinti kamatjövedelem esetén a 3. pontban meghatározott szervezet azon tagjaihoz rendelhető kamat összegéről, amely tagok más tagállamban bírnak illetőséggel és haszonhúzónak minősülnek.
 
-2. E melléklet alkalmazásában kifizető az a gazdasági tevékenységet folytató jogi személy, jogi személyiség nélküli gazdasági társaság vagy egyéb szervezet, amely az Európai Közösség más tagállamában illetőséggel bíró haszonhúzónak közvetlenül kamatot fizet vagy jóváír.
+2. E melléklet alkalmazásában kifizető az a gazdasági tevékenységet folytató jogi személy vagy egyéb szervezet, amely az Európai Közösség más tagállamában illetőséggel bíró haszonhúzónak közvetlenül kamatot fizet vagy jóváír.
 
 3. Adatszolgáltatásra kötelezett továbbá az a gazdasági tevékenységet folytató jogi személy, jogi személyiséggel nem rendelkező egyéb szervezet, amely bármely más közösségi tagállamban illetőséggel bíró szervezet útján a szervezet haszonhúzónak minősülő tagjainak juttat kamatjövedelmet. Az adatszolgáltatásra kötelezett az adóévet követő év március 20-ig elektronikus úton közli az állami adóhatósággal a szervezet nevét, címét és a részére kifizetett kamat összegét, kivéve, ha az hitelt érdemlően igazolja, hogy jogi személy, vagy az illetősége szerinti tagállamban a társasági adó alanya vagy ÁÉKBV-ként működik, illetve az illetősége szerinti tagállam hatósága által kiállított igazolás alapján ilyen alapnak minősül. E pont alkalmazásában nem minősül jogi személynek
 

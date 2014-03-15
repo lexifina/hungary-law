@@ -16,7 +16,7 @@ b) a szakcsoport működését jóváhagyó szövetkezet vagy állami gazdaság,
 
 c) a jogi személy felelősségvállalásával működő gazdasági munkaközösségért felelősséget vállaló jogi személy,
 
-d) a jogi személyiség nélküli gazdasági társaságnál a külön jogszabályban előírt személy.
+d) a közkereseti társaságnál és a betéti társaságnál a jogszabályban meghatározott személy.
 
 (6) A magánszemély az iratait maga köteles megőrizni. Ha az adókötelezettség a magánszemély halála miatt szűnt meg, az iratokat a vele közös háztartásban élt hozzátartozója, ennek hiányában az örökös köteles az állami vagy az önkormányzati adóhatósághoz továbbítani.
 

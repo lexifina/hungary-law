@@ -29,15 +29,3 @@ g) az elektronikus úton nyújtott szolgáltatásának megnevezését.
 6. Az állami adóhatóság törli a bejelentkezett és azonosító szám alapján nyilvántartásba vett, az Európai Közösség tagállamában illetőséggel nem bíró adózók közül:
 
 a) a bejelentés napjával azt, aki (amely) bejelentést tesz arról, hogy a továbbiakban már nem nyújt elektronikus szolgáltatást,
-
-b) a tudomásszerzés napjával azt, aki (amely) nem felel meg az Európai Közösség tagállamában illetőséggel nem bíró adózó e törvényben megállapított feltételeinek,
-
-c) a második adómegállapítási időszakot követő hó 20. napjával azt, aki (amely) két egymást követő adómegállapítási időszakban adókötelezettségeit nem teljesíti.
-
-7. Az adózó negyedévenként, a tárgynegyedévet követő hónap 20. napjáig elektronikus úton, elektronikus aláírás alkalmazásával általános forgalmiadó-bevallást nyújt be. Az adózó elektronikus úton teljesítendő kötelezettségeit a közigazgatási eljárásban használható elektronikus aláírások követelményeinek megfelelő elektronikus aláírással teljesíti.
-
-8. Az adóbevallás tartalmazza az adózó:
-
-a) nevét,
-
-b) azonosító számát,
