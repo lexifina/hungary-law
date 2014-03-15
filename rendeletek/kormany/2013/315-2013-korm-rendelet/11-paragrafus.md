@@ -6,6 +6,8 @@
 
 (4) Nem lehet vizsgaelnök vagy – a képző intézmény által delegált vizsgabizottsági tag kivételével – a vizsgabizottság tagja az, aki a vizsgacsoportban szereplő vizsgázó oktatásában vagy a vizsgára történő felkészítésében közvetlenül részt vett.
 
-(5) Nem lehet vizsgaelnök vagy a vizsgabizottság tagja az, aki a vizsgázónak a Polgári Törvénykönyvről szóló 1959. évi IV. törvény 685. § b) pontja szerinti közeli hozzátartozója vagy hozzátartozója.
+(5)[^1] Nem lehet vizsgaelnök vagy a vizsgabizottság tagja az, aki a vizsgázónak a Polgári Törvénykönyv szerinti hozzátartozója.
 
 (6) A vizsgaelnök és a vizsgabizottság tagjának megbízása az adott vizsgára szól. A vizsgabizottságban betöltött tisztség az arra vonatkozó megbízás elfogadásával jön létre.
+
+[^1]: A 11. § (5) bekezdése a 80/2014. (III. 14.) Korm. rendelet 35. §-a szerint módosított szöveg.
