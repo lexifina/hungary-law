@@ -28,3 +28,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-127-00-00
 | 2013-09-01 | 2013. évi LXXVII. törvény | 2007-127-00-00.33 |
 | 2013-11-30 | 2013. évi CC. törvény | 2007-127-00-00.34 |
 | 2014-01-01 | 2013. évi CC. törvény | 2007-127-00-00.35 |
+| 2014-03-15 | 2013. évi CCLII. törvény | 2007-127-00-00.36 |

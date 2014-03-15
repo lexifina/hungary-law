@@ -33,9 +33,3 @@ c) a 86. § (1) bekezdésének a)–g) pontjaiban felsorolt szolgáltatások ny�
 4. A 3. b) és 3. c) alpont alkalmazásában nem tekinthető eseti jellegűnek, ha az adóalany a tevékenységet – az arra irányadó külön jogszabályi rendelkezések alapján – engedéllyel végzi, vagy kizárólag engedéllyel végezhetné, illetőleg ha a 3. b) és 3. c) alpontban említett tevékenységekből származó ellenérték adó nélkül számított, forintban megállapított és éves szinten összesített összegének részaránya meghaladja az 1. pont szerinti levonási hányados nevezője értékének a 10 százalékát.
 
 5. Az 1. pont szerinti levonási hányadost felfelé kerekítve, 2 tizedesjegy pontossággal kell megállapítani.
-
-6. Az előzetesen felszámított adó arányos megosztását véglegesen a tárgyévre vonatkozó adatokkal a tárgyév utolsó adómegállapítási időszakáról szóló bevallás elkészítésének keretében kell elvégezni.
-
-7. Az előzetesen felszámított adó arányos megosztását ideiglenesen, a tárgyévre vonatkozó évközi adatokkal – a tárgyév utolsó adómegállapítási időszakát megelőzően – a tárgyévi adómegállapítási időszakokról szóló bevallások elkészítésének keretében is el kell végezni.
-
-8. A 7. pont szerinti megosztás alkalmazása során az évközi adatokat az adómegállapítási időszakok között göngyölíteni kell, és azt a levonható előzetesen felszámított adó összeget kell előjelhelyesen megállapítani, amely a tárgyidőszaki és azt megelőző utolsó adómegállapítási időszak eredményének különbözeteként adódik.
