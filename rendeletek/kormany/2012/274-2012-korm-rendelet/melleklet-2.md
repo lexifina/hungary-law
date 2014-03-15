@@ -140,7 +140,7 @@ VI. Kriminálpedagógia és a büntetés-végrehajtás
 
 ## A vizsgázó ismerje meg a kriminálpedagógia kialakulásának hazai történetét, tudományközi kapcsolatainak áttekintése során tudja megkülönböztetni a társtudományoktól (a bűnügyi, nevelési tudományoktól). Tudása terjedjen ki a kriminálpedagógiai törekvések nemzetközi tendenciáira. Tudja értelmezni a személyiséget kriminálpedagógiai szempontból. Határozza meg e téma központi célkategóriáját, jellemezze a korrekciós nevelési rendszereket.
 
-## VII.[^4] Büntetés-végrehajtási nevelés
+## VII.[^5] Büntetés-végrehajtási nevelés
 
 ## A tárgy oktatása általános ismereteket nyújt a szabadságvesztés céljáról, feladatáról, a nevelés helyéről és szerepéről. A vizsgázó sajátítsa el a büntetés-végrehajtási nevelés fogalmát, folyamatát, tudja definiálni a büntetés-végrehajtási nevelő szerepét és feladatrendszerét a szabadságvesztés folyamatában.
 
@@ -512,4 +512,4 @@ IV. Áruosztályozás és áruismereti feladatok
 
 V. Büntető- és szabálysértési jogi feladatok
 
-[^4]: A 2. melléklet II.1. pont VII. alpontja a 297/2013. (VII. 29.) Korm. rendelet 82. §-a szerint módosított szöveg.
+[^5]: A 2. melléklet II.1. pont VII. alpontja a 297/2013. (VII. 29.) Korm. rendelet 82. §-a szerint módosított szöveg.

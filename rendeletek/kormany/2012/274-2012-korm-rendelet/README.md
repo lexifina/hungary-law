@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-274-20-
 | 2013-01-01 | 2012-274-20-22.2 | 416/2012. (XII. 29.) Korm. rendelet |
 | 2013-08-01 | 2012-274-20-22.3 | 303/2013. (VII. 31.) Korm. rendelet |
 | 2014-02-28 | 2012-274-20-22.4 | 43/2014. (II. 25.) Korm. rendelet |
+| 2014-03-15 | 2012-274-20-22.5 | 13/2014. (I. 29.) Korm. rendelet |

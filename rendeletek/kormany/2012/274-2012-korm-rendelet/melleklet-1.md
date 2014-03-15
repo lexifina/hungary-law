@@ -24,7 +24,7 @@ I. Közigazgatási alapismeretek
 
 10. Információbiztonság és adatvédelem, a híradásra, összeköttetésre és adattovábbításra vonatkozó sajátos lehetőségek és szabályok
 
-11.[^3] Nemzetpolitika
+11.[^4] Nemzetpolitika
 
 II. Rendészeti alapismeretek
 
@@ -56,4 +56,4 @@ II. Rendészeti alapismeretek
 
 14. Pszichológiai, intézkedés-lélektani és kommunikációs alapismeretek
 
-[^3]: Az 1. melléklet I. pont 11. alpontját a 303/2013. (VII. 31.) Korm. rendelet 18. §-a iktatta be.
+[^4]: Az 1. melléklet I. pont 11. alpontját a 303/2013. (VII. 31.) Korm. rendelet 18. §-a iktatta be.
