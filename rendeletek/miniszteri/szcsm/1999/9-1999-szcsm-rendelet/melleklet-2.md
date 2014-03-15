@@ -246,9 +246,23 @@
 
 ## I. Személyi adatok
 
-## Család alatt az egy lakásban, vagy személyes gondoskodást nyújtó bentlakásos szociális, gyermekvédelmi intézményben együtt lakó, ott bejelentett lakóhellyel vagy tartózkodási hellyel rendelkező közeli hozzátartozók közösségét kell érteni.
+## 1. Család alatt az egy lakásban, vagy személyes gondoskodást nyújtó bentlakásos szociális, gyermekvédelmi intézményben együtt lakó, ott bejelentett lakóhellyel vagy tartózkodási hellyel rendelkező közeli hozzátartozók közösségét kell érteni.
 
-## Közeli hozzátartozó a jövedelemvizsgálat vonatkozásában a házastárs, az élettárs, a húszévesnél fiatalabb, önálló keresettel nem rendelkező; a huszonhárom évesnél fiatalabb, önálló keresettel nem rendelkező, nappali oktatás munkarendje szerint tanulmányokat folytató; a huszonöt évesnél fiatalabb, önálló keresettel nem rendelkező, felsőoktatási intézmény nappali tagozatán tanulmányokat folytató vér szerinti, örökbe fogadott, illetve nevelt gyermek, korhatárra való tekintet nélkül a tartósan beteg, az autista, illetve a testi, érzékszervi, értelmi vagy beszédfogyatékos vér szerinti, örökbe fogadott, illetve nevelt gyermek, amennyiben ez az állapot a gyermek 25. életévének betöltését megelőzően is fennállt (fogyatékos gyermek), továbbá a 18. életévét be nem töltött gyermek vonatkozásában a vér szerinti és az örökbe fogadó szülő, illetve a szülő házastársa vagy élettársa.
+## 2. Közeli hozzátartozó a jövedelemvizsgálat vonatkozásában
+
+## 2.1. a házastárs,
+
+## 2.2. az élettárs,
+
+## 2.3. a húsz évesnél fiatalabb, önálló keresettel nem rendelkező vér szerinti gyermek, örökbe fogadott gyermek, mostohagyermek és a Polgári Törvénykönyvről szóló 2013. évi V. törvény szerinti gyermekvédelmi nevelőszülő által e jogviszonya keretében nevelt gyermek kivételével a nevelt gyermek (a továbbiakban: nevelt gyermek),
+
+## 2.4. a huszonhárom évesnél fiatalabb, önálló keresettel nem rendelkező, nappali oktatás munkarendje szerint tanulmányokat folytató vér szerinti, örökbe fogadott, mostoha-, illetve nevelt gyermek,
+
+## 2.5. a huszonöt évesnél fiatalabb, önálló keresettel nem rendelkező, felsőoktatási intézmény nappali tagozatán tanulmányokat folytató vér szerinti, örökbe fogadott, mostoha-, illetve nevelt gyermek,
+
+## 2.6. korhatárra való tekintet nélkül a tartósan beteg, az autista, illetve a testi, érzékszervi, értelmi vagy beszédfogyatékos vér szerinti, örökbe fogadott, mostoha-, illetve nevelt gyermek, ha ez az állapot a gyermek 25. életévének betöltését megelőzően is fennállt (fogyatékos gyermek),
+
+## 2.7. a 18. életévét be nem töltött gyermek vonatkozásában a vér szerinti és az örökbe fogadó szülő, illetve a szülő házastársa vagy élettársa.
 
 ## II. Jövedelmi adatok
 
@@ -292,7 +306,7 @@
 
 ## A vagyonnyilatkozatban feltüntetett pénzvagyonról a kérelemhez mellékelni kell a bankszámlakivonat, a betétkönyv, illetve a takarékbetét-szerződés másolatát.
 
-2. számú melléklet a 9/1999. (XI. 24.) SZCSM rendelethez[^63]
+2. számú melléklet a 9/1999. (XI. 24.) SZCSM rendelethez[^65]
 
 ## ELŐGONDOZÁSI ADATLAP
 
@@ -370,7 +384,7 @@ e) magatartás, kommunikációs készség:
 
 a) ha igen, gondnok neve, címe:
 
-b) a gondnokság típusa (kizáró, korlátozó, felülvizsgálandó, végleges):
+b) a gondnokság típusa:
 
 8. A személyes gondoskodást nyújtó szociális ellátások igénybevételéről szóló rendeletben előírt kapcsolatfelvétel ideje, módja*:
 
@@ -432,4 +446,4 @@ Az előgondozást végző személy neve, aláírása
 
 |  | * nem kötelező kitölteni” |  |
 
-[^63]: A 2. számú melléklet a 25/2013. (III. 29.) EMMI rendelet 9. §-ával megállapított szöveg.
+[^65]: A 2. számú melléklet a 25/2013. (III. 29.) EMMI rendelet 9. §-ával megállapított, a 19/2014. (III. 13.) EMMI rendelet 41. § b) pontja szerint módosított szöveg.
