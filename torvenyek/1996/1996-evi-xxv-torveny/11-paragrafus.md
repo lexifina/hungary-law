@@ -12,4 +12,4 @@ a) igazolási kérelemnek helye nincs;
 
 b) a hitelezők fennálló (lejárt és le nem járt) követeléseiket beszedési megbízás benyújtása, végrehajtás és adósságrendezési eljárás kezdeményezése útján csak az adósságrendezési eljárás jogerős befejezését követő 2 év eltelte után érvényesíthetik.
 
-(5) A (4) bekezdés b) pontjában meghatározott követelések után az adósságrendezés megindításának időpontja utáni időszakra késedelmi kamat nem érvényesíthető. E követelések elévülésére a Ptk. 326. §-ának (2) bekezdésében foglaltak az irányadók.
+(5) A (4) bekezdés b) pontjában meghatározott követelések után az adósságrendezés megindításának időpontja utáni időszakra késedelmi kamat nem érvényesíthető. E követelések elévülésére a Ptk. 6:24. §-ában foglaltak az irányadók.

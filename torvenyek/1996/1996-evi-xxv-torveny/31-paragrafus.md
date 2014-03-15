@@ -2,7 +2,7 @@
 
 a) rendszeres személyi jellegű juttatások, ideértve a közszolgálati, továbbá közalkalmazotti jogviszony megszűnésekor járó végkielégítést is;
 
-b) zálogjoggal, óvadékkal biztosított követelések a zálogtárgy (óvadék) értékének erejéig, feltéve, hogy a biztosítékot az adósságrendezési eljárás kezdő időpontja előtt legalább 6 hónappal kikötötték. Ez a korlátozás nem vonatkozik a korábbi adósságrendezési eljárás során kötött egyezséggel kapcsolatban nyújtott hitel biztosítékára. Ha a zálogtárgyat több zálogjog terheli, akkor a kielégítés sorrendjére a Ptk. 251. § (3) bekezdése az irányadó;
+b) zálogjoggal, óvadékkal biztosított követelések a zálogtárgy (óvadék) értékének erejéig, feltéve, hogy a biztosítékot az adósságrendezési eljárás kezdő időpontja előtt legalább 6 hónappal kikötötték. Ez a korlátozás nem vonatkozik a korábbi adósságrendezési eljárás során kötött egyezséggel kapcsolatban nyújtott hitel biztosítékára. Ha a zálogtárgyat több zálogjog terheli, akkor a kielégítés sorrendjére a Ptk. 5:118. §-a az irányadó;
 
 c) az államot illető, a korábbi adósságrendezési eljárás során kötött egyezséghez nyújtott visszterhes kamattámogatásból eredő követelések, a visszafizetendő cél- és címzett támogatás, tovább egyéb – visszatérítendő – költségvetési támogatás összege;
 
