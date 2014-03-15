@@ -40,7 +40,9 @@ f) aki egészségi állapota miatt vagy más okból a szolgálat ellátására a
 
 g) aki életmódja vagy magatartása miatt a végrehajtói szolgálat ellátásához szükséges közbizalomra érdemtelen,
 
-h) akivel szemben a 227. §-ban meghatározott összeférhetetlenségi ok áll fenn és nem vállalja, hogy kinevezése esetén azt az eskütétel időpontjáig megszünteti.
+h) akivel szemben a 227. §-ban meghatározott összeférhetetlenségi ok áll fenn és nem vállalja, hogy kinevezése esetén azt az eskütétel időpontjáig megszünteti,
+
+i) aki cselekvőképességet érintő gondnokság vagy támogatott döntéshozatal hatálya alatt áll.
 
 (3)
 

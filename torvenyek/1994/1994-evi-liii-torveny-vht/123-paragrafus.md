@@ -6,7 +6,7 @@ a) végrehajtó, végrehajtó-helyettes, végrehajtójelölt, végrehajtó egyé
 
 b) az a jogi személy, gazdasági társaság, amelyben az a) pont szerinti személy vagy szervezet többségi befolyással rendelkezik,
 
-c) az ügyben eljáró végrehajtónak, végrehajtó-helyettesnek és a végrehajtói iroda tagjának, valamint a végrehajtó és a végrehajtói iroda alkalmazottjának közeli hozzátartozója [Ptk. 685. § b) pont] és élettársa,
+c) az ügyben eljáró végrehajtónak, végrehajtó-helyettesnek és a végrehajtói iroda tagjának, valamint a végrehajtó és a végrehajtói iroda alkalmazottjának közeli hozzátartozója és élettársa,
 
 d) az ügyben eljáró végrehajtást foganatosító bíróság állományába tartozó személy és
 

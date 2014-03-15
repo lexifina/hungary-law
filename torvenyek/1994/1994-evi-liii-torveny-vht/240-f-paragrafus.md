@@ -28,7 +28,7 @@ a) a végrehajtó-helyettesi munkakör betöltésére irányuló munkaviszonya m
 
 b) a névjegyzékbe vétel feltételei a nyilvántartásba vétel időpontjában nem álltak fenn,
 
-c) a 233. § (2) bekezdés b)–d) pontjában foglalt kizáró ok következett be,
+c) a 233. § (2) bekezdés b)–d) vagy i) pontjában foglalt kizáró ok következett be,
 
 d) elhalálozott,
 

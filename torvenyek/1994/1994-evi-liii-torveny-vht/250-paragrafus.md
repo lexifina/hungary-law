@@ -44,7 +44,7 @@ b) a végrehajtói hirdetmények elektronikus úton történő közzétételére
 
 c) működteti a végrehajtási iratok elektronikus kézbesítési rendszerét.
 
-d) kezeli a végrehajtó tevékenységével okozott károk fedezésére szolgáló biztosíték összegét és abból a kár összegét kifizeti a jogosultnak,
+d) kezeli a végrehajtó tevékenységével okozott kárért járó kártérítés, illetve személyiségi jogsértésért járó sérelemdíj fedezetére szolgáló biztosíték összegét és abból a kártérítés, illetve a sérelemdíj összegét kifizeti az arra jogosultnak,
 
 e) árverési csarnokot működtethet,
 

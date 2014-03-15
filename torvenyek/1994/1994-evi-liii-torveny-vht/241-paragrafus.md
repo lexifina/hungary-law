@@ -8,13 +8,13 @@ a) magyar állampolgár,
 
 b) a 18. évét betöltötte,
 
-c) nem áll a 233. § (2) bekezdés a)–d) pontjában meghatározott kizáró ok hatálya alatt,
+c) nem áll a 233. § (2) bekezdés a)–d) és i) pontjában meghatározott kizáró ok hatálya alatt,
 
 d) középfokú iskolai végzettséggel rendelkezik.
 
 (3) A végrehajtójelölt – a 254/E. § (3) bekezdésében foglalt kivétellel – a meghatározott végrehajtóval áll munkaviszonyban.
 
-(4) A végrehajtójelölt a végrehajtó felelősségére, irányítása alapján és utasításai szerint közreműködik a végrehajtási eljárásban, de végrehajtási cselekményt – az (5) bekezdésben foglalt kivétellel – önállóan a végrehajtó nevében sem foganatosíthat. A végrehajtójelölt ügyviteli jellegű tevékenységet végez, így különösen jegyzőkönyvet készíthet, és a végrehajtásban közreműködő szerveknél tájékozódás céljából eljárhat.
+(4) A végrehajtójelölt a végrehajtó irányítása alapján és utasításai szerint közreműködik a végrehajtási eljárásban, az ebből eredő kártérítési, illetve sérelemdíj iránti igényeket a végrehajtóval szemben kell érvényesíteni. A végrehajtójelölt végrehajtási cselekményt azonban – az (5) bekezdésben foglalt kivétellel – önállóan a végrehajtó nevében sem foganatosíthat. A végrehajtójelölt ügyviteli jellegű tevékenységet végez, így különösen jegyzőkönyvet készíthet és a végrehajtásban közreműködő szerveknél tájékozódás céljából eljárhat.
 
 (5) Végrehajtói kézbesítést a végrehajtójelölt akkor végezhet, ha a végrehajtó-jelölti kézbesítési vizsgát letette.
 
@@ -24,7 +24,7 @@ a) a végrehajtójelölti munkakör betöltésére irányuló munkaviszonya megs
 
 b) a névjegyzékbe vétel feltételei a nyilvántartásba vétel időpontjában nem álltak fenn,
 
-c) a 233. § (2) bekezdés b)–d) pontjában foglalt kizáró ok következett be,
+c) a 233. § (2) bekezdés b)–d) vagy i) pontjában foglalt kizáró ok következett be,
 
 d) elhalálozott,
 
@@ -32,4 +32,4 @@ e) a végrehajtói fegyelmi bíróság jogerős határozatával a végrehajtóje
 
 f) a vele szemben a nyilvántartásba vételét követően keletkezett összeférhetetlenséget kamarai felszólításra 30 napon belül nem szüntette meg.
 
-(7) A végrehajtójelöltek nyilvántartásába vétel iránti eljárás, valamint a nyilvántartásból való törlés iránti eljárás során a végrehajtójelölt tekintetében a 233. § (2) bekezdés a)–d) pontjában foglalt körülmény vizsgálata esetén a 234/B. §, valamint a 239/A. § rendelkezéseit kell megfelelően alkalmazni.
+(7) A végrehajtójelöltek nyilvántartásába vétel iránti eljárás, valamint a nyilvántartásból való törlés iránti eljárás során a végrehajtójelölt tekintetében a 233. § (2) bekezdés a)–d) és i) pontjában foglalt körülmény vizsgálata esetén a 234/B. §, valamint a 239/A. § rendelkezéseit kell megfelelően alkalmazni.

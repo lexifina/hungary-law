@@ -16,7 +16,7 @@ d) a zálogjoggal biztosított, a végzés meghozatalának időpontjában fenná
 
 e) a zálogtárgy adatait,
 
-f) a zálogjognak az ingatlan-nyilvántartásba, a légi vagy vízi járművek lajstromába, illetőleg a Magyar Országos Közjegyzői Kamaránál vezetett nyilvántartásba történő bejegyzésének időpontját.
+f) a zálogjognak az ingatlan-nyilvántartásba, a légi vagy vízi járművek lajstromába, illetőleg a MOKK-nál vezetett nyilvántartásba történő bejegyzésének időpontját.
 
 (4) A bíróság a zálogjogosult kérelmét az adósnak és a végrehajtást kérőnek azzal a felhívással kézbesíti: a kézhezvételtől számított 8 napon belül nyilatkozzon arról, hogy a zálogjoggal biztosított követelés jogalapját – önálló zálogjog esetén a jogalapot – és összegszerűségét elismeri-e, illetőleg milyen összegben ismeri el. E §-ban foglalt eljárás során a jogalapot és összegszerűséget nem lehet vitatottnak tekinteni, ha azt közokiratba foglalták.
 

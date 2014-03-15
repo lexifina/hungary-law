@@ -20,7 +20,7 @@ napján.
 
 a) a végrehajtó magyar állampolgárságát elvesztette, vagy az országgyűlési képviselők választásán már nem választható,
 
-b) a végrehajtóval szemben a 233. § (2) bekezdés b)–d) pontjában meghatározott körülmény következett be,
+b) a végrehajtóval szemben a 233. § (2) bekezdés b)–d) vagy i) pontjában meghatározott körülmény következett be,
 
 c) a végrehajtó a 238. §-ban meghatározott esküt nem tette le,
 
@@ -28,7 +28,7 @@ d) a tartós helyettesítés egyéves időtartamának lejártáig nem kerül sor
 
 e) a végrehajtó a kinevezését követően keletkezett összeférhetetlenséget felszólításra nem szüntette meg.
 
-(4) A miniszter a végrehajtói szolgálat megszűnését állapítja meg, ha a végrehajtó kinevezését követően jut tudomására, hogy a kinevezés 233. § (1) bekezdésében meghatározott feltételei a kinevezés időpontjában nem álltak fenn, vagy a végrehajtóval szemben a kinevezés időpontjában a 233. § (2) bekezdés a)–d) pontjaiban meghatározott körülmény állt fenn.
+(4) A miniszter a végrehajtói szolgálat megszűnését állapítja meg, ha a végrehajtó kinevezését követően jut tudomására, hogy a kinevezés 233. § (1) bekezdésében meghatározott feltételei a kinevezés időpontjában nem álltak fenn, vagy a végrehajtóval szemben a kinevezés időpontjában a 233. § (2) bekezdés a)–d) vagy i) pontjában meghatározott körülmény állt fenn.
 
 (4a) A miniszter a végrehajtói szolgálat megszűnését állapítja meg, ha a 230/A. § alapján lefolytatott átfogó vizsgálat eredménye alapján megállapítható, hogy a végrehajtó jogszabályban meghatározott kötelezettségeit súlyosan vagy rendszeresen ismétlődően megszegte.
 

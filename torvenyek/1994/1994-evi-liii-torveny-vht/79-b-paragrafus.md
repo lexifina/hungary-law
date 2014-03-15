@@ -8,9 +8,9 @@ b) a pénzforgalmi számlán betétszerződés alapján kezelt összeg,
 
 c) a pénzforgalmi szolgáltatás nyújtásáról szóló törvényben meghatározott fizetésiszámla-szerződés alapján kezelt összeg, ha az nem tartozik az a) pont hatálya alá,
 
-d) a Polgári Törvénykönyvben meghatározott betétszerződés alapján elhelyezett összeg, ha azt a hitelintézet a fizetésiszámla-szerződés szabályainak megfelelően kezeli,
+d) a betétszerződés alapján elhelyezett összeg, ha azt a hitelintézet a fizetésiszámla-szerződés szabályainak megfelelően kezeli,
 
-e) a Polgári Törvénykönyvben meghatározott takarékbetét-szerződés alapján elhelyezett összeg, ha azt a hitelintézet a fizetésiszámla-szerződés szabályainak megfelelően kezeli.
+e) a takarékbetét-szerződés alapján elhelyezett összeg, ha azt a hitelintézet a fizetésiszámla-szerződés szabályainak megfelelően kezeli.
 
 (3) A (2) bekezdés a)–e) pontjaiban meghatározott sorrendet először az adós rendelkezése alatt álló összes, forintban kezelt, azt követően pedig az összes, külföldi pénznemben kezelt összegre kell alkalmazni.
 

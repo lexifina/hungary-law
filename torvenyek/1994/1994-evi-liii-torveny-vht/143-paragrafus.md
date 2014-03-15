@@ -14,7 +14,7 @@ f) az ingatlan kikiáltási árát,
 
 g) az árverési előleg (a továbbiakban: előleg) összegét,
 
-h) az árverésen a 147. § (2) és (3) bekezdésében foglaltak alapján tehető legalacsonyabb vételi ajánlat összegét, és azt, hogy a lakóingatlanra van-e a lakóingatlan fekvése szerinti települési önkormányzatnak előárverezési joga,
+h) az árverésen a 147. § (2) és (3) bekezdésében foglaltak alapján tehető legalacsonyabb vételi ajánlat összegét, és azt, hogy a lakóingatlanra van-e a lakóingatlan fekvése szerinti települési önkormányzatnak vagy tulajdonostársnak előárverezési joga,
 
 i) az árverés kezdő és befejező időpontját, az ingatlan megtekintésének időpontját,
 

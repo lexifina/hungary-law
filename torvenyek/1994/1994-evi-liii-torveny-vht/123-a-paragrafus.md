@@ -6,6 +6,10 @@
 
 (4) Ha az előárverezésre jogosult a végrehajtóhoz intézett nyilatkozatában a vételi ajánlat tartalmát magáévá teszi és az árverés befejezéséig nem érkezik magasabb, érvényes vételi ajánlat, az előárverezésre jogosultat a legtöbbet felajánló árverező jogállása illeti meg.
 
+(4a) Az árverezés során a különböző jogszabályokon alapuló előárverezési jogok között sorrend és rangsor nem érvényesül. Ha az árverésen több előárverezésre jogosult vesz részt és az egyikük a legmagasabb összegű, érvényes vételi ajánlat vonatkozásában gyakorolja előárverezési jogát, a többi előárverezésre jogosult ugyanezen összegű vételi ajánlat vonatkozásában előárverezési jogot nem gyakorolhat, kizárólag magasabb összegű vételi ajánlatot tehet.
+
 (5) Ha törvény eltérően nem rendelkezik, az előárverezési jog a jogutódra átszáll. Az előárverezési jog átruházása semmis.
 
 (6) Az elővásárlási jog bírósági végrehajtás során az előárverezési jog alkalmazási körén kívül nem gyakorolható.
+
+(7) Ha tulajdonostárs kíván előárverezési jogot gyakorolni, e jogát ingatlan vonatkozásában kizárólag tulajdoni lappal, úszólétesítmények vonatkozásában lajstromozási okmánnyal, légi járművek esetén lajstromozási bizonyítvánnyal, egyéb lefoglalt ingó vagyontárgy vonatkozásában pedig kizárólag a végrehajtási igényperben hozott – igénykeresetnek helyt adó – jogerős bírósági határozattal igazolhatja.

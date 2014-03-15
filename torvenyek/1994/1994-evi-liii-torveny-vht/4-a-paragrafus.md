@@ -1,0 +1,1 @@
+4/A. § Ha a zálogkötelezettel szemben a zálogtárgyra is kiterjedő bírósági végrehajtás folyik, a zálogjogosult kielégítési jogát – a zálogtárgy lefoglalásától kezdődően – a bírósági végrehajtáson kívül nem gyakorolhatja, kielégítést kizárólag bírósági végrehajtás útján kereshet.

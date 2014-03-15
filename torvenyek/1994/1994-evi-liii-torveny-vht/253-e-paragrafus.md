@@ -32,7 +32,7 @@ a) a végrehajtási ügyek nyilvántartásában nem szereplő kérelmező szám�
 
 b) a végrehajtási ügyek nyilvántartásában szereplő kérelmező számára a végrehajtási ügyek nyilvántartásában szereplő adatainak igazolása céljából,
 
-c) a célját és az adatkéréshez fűződő jogi érdekét megjelölő kérelmező számára a végrehajtási ügyek nyilvántartásában szereplő gazdálkodó szervezetnek a végrehajtási ügyek nyilvántartásában szereplő adatai igazolása céljából, továbbá annak igazolására, hogy a gazdálkodó szervezet a végrehajtási ügyek nyilvántartásában végrehajtási eljárás adósaként nem szerepel; gazdálkodó szervezetnek kell tekinteni e bekezdés alkalmazásában a Ptk. 685. § c) pontjában meghatározott szervezeteket.
+c) a célját és az adatkéréshez fűződő jogi érdekét megjelölő kérelmező számára a végrehajtási ügyek nyilvántartásában szereplő gazdálkodó szervezetnek a végrehajtási ügyek nyilvántartásában szereplő adatai igazolása céljából, továbbá annak igazolására, hogy a gazdálkodó szervezet a végrehajtási ügyek nyilvántartásában végrehajtási eljárás adósaként nem szerepel.
 
 (7) A kamara a (6) bekezdés keretein belül annak igazolására is tanúsítványt állít ki, hogy a végrehajtási ügyek nyilvántartásában a kérelemben megjelölt időszakban nem szerepel az adatigényléssel érintett személy, mint adós (kötelezett) ellen folyamatban lévő vagy a követelés behajthatatlansága, a meghatározott cselekmény nemteljesítése miatt szüneteléssel befejezett bírósági végrehajtási ügy.
 

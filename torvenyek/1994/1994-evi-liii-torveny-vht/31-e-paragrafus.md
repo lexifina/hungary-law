@@ -24,4 +24,8 @@ b) 50%-a, de legalább 5000 Ft, ha a kérelem visszavonására a hiánypótlás 
 
 (4c) Ha a közjegyző az ügyet átteszi, a végrehajtást kérő a végrehajtási díj helyett a közjegyzőnek az ügyben felmerült készkiadásait köteles megfizetni; ezt a költséget a végrehajtást kérő viseli.
 
+(4d) A zálogkötelezett a (4a) bekezdés alkalmazásában nem tekinthető egyetemleges adóstársnak.
+
 (5) A végrehajtás (biztosítási intézkedés) elrendeléséért további munkadíj, költségtérítés és illeték – ide nem értve a jogorvoslati eljárás illetékét – nem számítható fel.
+
+(6) A közjegyző által foganatosítandó hirdetményi kézbesítésre az egyes közjegyzői nemperes eljárásokról szóló törvény rendelkezéseit kell megfelelően alkalmazni.

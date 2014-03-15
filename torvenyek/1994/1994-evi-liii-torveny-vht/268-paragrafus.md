@@ -4,6 +4,6 @@ a) a kötelességszegés súlyát és ismétlődését,
 
 b) a szándékosság, illetőleg a gondatlanság fokát,
 
-c) az okozott kárt,
+c) az okozott személyiségi jogsértést, illetve kárt,
 
-d) azt, hogy az okozott kár megtérült, vagy azt a végrehajtó megtérítette, illetőleg hogy a végrehajtó a végrehajtást kérő követelését kiegyenlítette.
+d) azt, ha az okozott személyiségi jogsértésért a sérelemdíjat, illetve az okozott kárért a kártérítést megfizették, vagy ha a végrehajtó a végrehajtást kérő követelését kiegyenlítette.

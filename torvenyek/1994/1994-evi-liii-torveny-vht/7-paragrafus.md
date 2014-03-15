@@ -4,9 +4,9 @@
 
 (3) E törvény alkalmazásában pénzforgalmi szolgáltatónál kezelt összeg:
 
-a) a pénzforgalmi szolgáltatás nyújtásáról szóló törvény szerinti fizetési számla szerződés alapján nyitott fizetési számlán szereplő összeg, valamint a Polgári Törvénykönyv szerinti betétszerződés és a takarékbetét-szerződés alapján, vagy egyéb szerződés alapján a hitelintézetnél elhelyezett, az adós rendelkezése alatt álló összeg, ha azt a hitelintézet a bankszámla szerződés szabályainak megfelelően kezeli,
+a) a pénzforgalmi szolgáltatás nyújtásáról szóló törvény szerinti fizetési számla szerződés alapján nyitott fizetési számlán szereplő összeg, valamint a betétszerződés és a takarékbetét-szerződés alapján, vagy egyéb szerződés alapján a hitelintézetnél elhelyezett, az adós rendelkezése alatt álló összeg, ha azt a hitelintézet a bankszámla szerződés szabályainak megfelelően kezeli,
 
-b) a Polgári Törvénykönyv szerinti betétszerződés és takarékbetét-szerződés alapján takarékbetétkönyv, egyéb betéti okirat ellenében a hitelintézetnél elhelyezett, az adós rendelkezése alatt álló összeg; továbbá egyéb szerződés alapján az adós részére a hitelintézet által visszafizetendő, az adós rendelkezése alatt álló pénzösszeg.
+b) a betétszerződés és takarékbetét-szerződés alapján takarékbetétkönyv, egyéb betéti okirat ellenében a hitelintézetnél elhelyezett, az adós rendelkezése alatt álló összeg; továbbá egyéb szerződés alapján az adós részére a hitelintézet által visszafizetendő, az adós rendelkezése alatt álló pénzösszeg.
 
 (4) A bírósági végrehajtás során a pénzforgalmi szolgáltatónál kezelt összegre irányadó szabályokat kell alkalmazni a tőkepiacról szóló törvény szerinti ügyfélszámlán nyilvántartott, az adós rendelkezése alatt álló összegre is.
 
