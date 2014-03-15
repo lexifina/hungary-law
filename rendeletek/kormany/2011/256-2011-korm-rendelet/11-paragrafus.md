@@ -22,29 +22,30 @@ j) az oltalmazott jogállást az azt tanúsító személyazonosító igazolvánn
 
 k) a hontalan jogállást a hontalankénti elismerésről szóló határozattal, vagy a jogállást igazoló hatósági igazolással,
 
-l)[^46] a házasságot, a bejegyzett élettársi kapcsolatot és a gyermek születését anyakönyvi kivonattal, elvált szülők kiskorú gyermekeinek elhelyezését a jogerős bírósági ítélet bemutatásával, az örökbefogadást a gyámhatóság engedélyező határozatával, a gyámságot a gyámhatóság kirendelő határozatával,
+l)[^48] a házasságot, a bejegyzett élettársi kapcsolatot és a gyermek születését anyakönyvi kivonattal, elvált szülők kiskorú gyermekeinek elhelyezését a jogerős bírósági ítélet bemutatásával, az örökbefogadást a gyámhatóság engedélyező határozatával, a gyámságot a gyámhatóság kirendelő határozatával,
 
-m)[^47] a lakás vagy több lakásos lakóépület esetén a lakóépület energetikai teljesítőképességét energetikai tanúsítvánnyal,
+m)[^49] a lakás vagy több lakásos lakóépület esetén a lakóépület energetikai teljesítőképességét energetikai tanúsítvánnyal,
 
-n)[^48] a 3. § (1) bekezdés d) pont da) alpontjában foglaltakat a megyei kormányhivatalok egészségbiztosítási szakigazgatási szervének – a biztosított kérelmére 3 munkanapon belül kiállított – igazolásával, a 3. § (1) bekezdés d) pont db) alpont második fordulatában foglaltakat nemleges együttes adóigazolással,
+n)[^50] a 3. § (1) bekezdés d) pont da) alpontjában foglaltakat a megyei kormányhivatalok egészségbiztosítási szakigazgatási szervének – a biztosított kérelmére 3 munkanapon belül kiállított – igazolásával, a 3. § (1) bekezdés d) pont db) alpont második fordulatában foglaltakat nemleges együttes adóigazolással,
 
-o)[^49] a 2. § (7) bekezdésében foglaltakat az igénylő teljes bizonyító erejű magánokiratba foglalt nyilatkozatával,
+o)[^51] a 2. § (7) bekezdésében foglaltakat az igénylő teljes bizonyító erejű magánokiratba foglalt nyilatkozatával,
 
-p)[^50] a gyermek halva születését halotti anyakönyvi kivonattal,
+p)[^52] a gyermek halva születését halotti anyakönyvi kivonattal,
 
-q)[^51] a gyermek 7. § (4) bekezdés d) pontja szerinti fogyatékosságát vagy többszörös és összetett betegségét a magasabb összegű családi pótlékra jogosító betegségekről és fogyatékosságokról szóló 5/2003. (II. 19.) ESZCSM rendelet 3. melléklete szerinti igazolással,
+q)[^53] a gyermek 7. § (4) bekezdés d) pontja szerinti fogyatékosságát vagy többszörös és összetett betegségét a magasabb összegű családi pótlékra jogosító betegségekről és fogyatékosságokról szóló 5/2003. (II. 19.) ESZCSM rendelet 3. melléklete szerinti igazolással,
 
-r)[^52] a saját és gyermeke adóazonosító jelét adóigazolvánnyal.
+r)[^54] a saját és gyermeke adóazonosító jelét adóigazolvánnyal.
 
-(2)[^53] Házaspárok esetében, ha a házastársak egyike magyar állampolgár az (1) bekezdés c) és f)–k) pontjában, valamint az 5. § (3) bekezdésében foglaltak igazolására nincs szükség.
+(2)[^55] Házaspárok esetében, ha a házastársak egyike magyar állampolgár az (1) bekezdés c) és f)–k) pontjában, valamint az 5. § (3) bekezdésében foglaltak igazolására nincs szükség.
 
-(3) Ha az igénylő a hitelintézetnek vagy az igazolást kibocsátónak valótlan adatot tartalmazó nyilatkozatot tett, és ez alapján jutott támogatáshoz, akkor a támogatott személy a folyósított összeget az igénybevétel napjától a Ptk. 301. § (1) bekezdése szerint számított késedelmi kamataival együtt köteles a hitelintézeten keresztül visszafizetni. Amennyiben a támogatott személy visszafizetési kötelezettségének nem tesz eleget, úgy a hitelintézet tájékoztatja erről a Kincstárat és megküldi az ügy iratait.
+(3)[^56] Ha az igénylő a hitelintézetnek vagy az igazolást kibocsátónak valótlan adatot tartalmazó nyilatkozatot tett, és ez alapján jutott támogatáshoz, akkor a támogatott személy a folyósított összeget az igénybevétel napjától a Ptk. szerint számított késedelmi kamataival együtt köteles a hitelintézeten keresztül visszafizetni. Amennyiben a támogatott személy visszafizetési kötelezettségének nem tesz eleget, úgy a hitelintézet tájékoztatja erről a Kincstárat és megküldi az ügy iratait.
 
-[^46]: A 11. § (1) bekezdés l) pontja a 379/2012. (XII. 19.) Korm. rendelet 24. § (1) bekezdésével megállapított szöveg.
-[^47]: A 11. § (1) bekezdés m) pontja az 537/2013. (XII. 30.) Korm. rendelet 66. § g) pontja szerint módosított szöveg.
-[^48]: A 11. § (1) bekezdés n) pontját a 71/2012. (IV. 12.) Korm. rendelet 3. §-a iktatta be.
-[^49]: A 11. § (1) bekezdés o) pontját a 379/2012. (XII. 19.) Korm. rendelet 24. § (2) bekezdése iktatta be.
-[^50]: A 11. § (1) bekezdés p) pontját az 537/2013. (XII. 30.) Korm. rendelet 62. §-a iktatta be.
-[^51]: A 11. § (1) bekezdés q) pontját az 537/2013. (XII. 30.) Korm. rendelet 62. §-a iktatta be.
-[^52]: A 11. § (1) bekezdés r) pontját az 537/2013. (XII. 30.) Korm. rendelet 62. §-a iktatta be.
-[^53]: A 11. § (2) bekezdése a 128/2013. (IV. 30.) Korm. rendelet 14. § 13. pontja szerint módosított szöveg.
+[^48]: A 11. § (1) bekezdés l) pontja a 379/2012. (XII. 19.) Korm. rendelet 24. § (1) bekezdésével megállapított szöveg.
+[^49]: A 11. § (1) bekezdés m) pontja az 537/2013. (XII. 30.) Korm. rendelet 66. § g) pontja szerint módosított szöveg.
+[^50]: A 11. § (1) bekezdés n) pontját a 71/2012. (IV. 12.) Korm. rendelet 3. §-a iktatta be.
+[^51]: A 11. § (1) bekezdés o) pontját a 379/2012. (XII. 19.) Korm. rendelet 24. § (2) bekezdése iktatta be.
+[^52]: A 11. § (1) bekezdés p) pontját az 537/2013. (XII. 30.) Korm. rendelet 62. §-a iktatta be.
+[^53]: A 11. § (1) bekezdés q) pontját az 537/2013. (XII. 30.) Korm. rendelet 62. §-a iktatta be.
+[^54]: A 11. § (1) bekezdés r) pontját az 537/2013. (XII. 30.) Korm. rendelet 62. §-a iktatta be.
+[^55]: A 11. § (2) bekezdése a 128/2013. (IV. 30.) Korm. rendelet 14. § 13. pontja szerint módosított szöveg.
+[^56]: A 11. § (3) bekezdése a 80/2014. (III. 14.) Korm. rendelet 26. § c) pontja szerint módosított szöveg.

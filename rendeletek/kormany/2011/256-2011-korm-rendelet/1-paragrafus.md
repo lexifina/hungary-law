@@ -66,10 +66,10 @@ bb) amelyet másodízben értékesítenek természetes személy részére, felt�
 
 10.[^4] hitelígérvény: a kölcsönszerződés előre meghatározott jövőbeni időpontban vagy feltételek bekövetkezésekor történő megkötésére vonatkozó kötelezettségvállalás.
 
-(2)[^5] Az e rendeletben meg nem határozott fogalmakat a Polgári Törvénykönyvről szóló 1959. évi IV. törvényben (a továbbiakban: Ptk.), a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényben, az OTÉK-ban, valamint az épületek energetikai jellemzőinek tanúsításáról szóló kormányrendeletben meghatározottak szerint kell értelmezni.
+(2)[^5] Az e rendeletben meg nem határozott fogalmakat a Polgári Törvénykönyvben (a továbbiakban: Ptk.), a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényben, az OTÉK-ban, valamint az épületek energetikai jellemzőinek tanúsításáról szóló kormányrendeletben meghatározottak szerint kell értelmezni.
 
 [^1]: Az 1. § (1) bekezdés 8. pont nyitó szövegrésze az 537/2013. (XII. 30.) Korm. rendelet 66. § a) pontja szerint módosított szöveg.
 [^2]: Az 1. § (1) bekezdés 8. pont a) alpontja a 128/2013. (IV. 30.) Korm. rendelet 14. § 1. pontja szerint módosított szöveg.
 [^3]: Az 1. § (1) bekezdés 9. pontját a 379/2012. (XII. 19.) Korm. rendelet 18. §-a iktatta be, szövege az 537/2013. (XII. 30.) Korm. rendelet 58. §-ával megállapított szöveg.
 [^4]: Az 1. § (1) bekezdés 10. pontját a 379/2012. (XII. 19.) Korm. rendelet 18. §-a iktatta be.
-[^5]: Az 1. § (2) bekezdése a 379/2012. (XII. 19.) Korm. rendelet 30. § a) pontja szerint módosított szöveg.
+[^5]: Az 1. § (2) bekezdése a 379/2012. (XII. 19.) Korm. rendelet 30. § a) pontja, a 80/2014. (III. 14.) Korm. rendelet 26. § a) pontja szerint módosított szöveg.

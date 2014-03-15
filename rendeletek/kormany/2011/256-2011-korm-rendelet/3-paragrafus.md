@@ -78,7 +78,7 @@ j) a támogatott személy a lakásépítési támogatás nyújtásáról szóló
 
 a)[^24] ha az építkezés 2008. július 1-jén vagy azt követően kiadott építési engedély alapján történt, úgy a lakásépítési támogatást az új tulajdonos igénybe veheti és
 
-b) az átruházó részére megállapított lakásépítési támogatást törölni kell, és a már folyósított támogatást az átruházó az igénybevétel napjától a Ptk. 232. § (3) bekezdése szerint számított kamataival együtt köteles visszafizetni.
+b)[^25] az átruházó részére megállapított lakásépítési támogatást törölni kell, és a már folyósított támogatást az átruházó az igénybevétel napjától a Ptk. szerint számított kamataival együtt köteles visszafizetni.
 
 [^10]: A 3. § (1) bekezdés a) pontja az 537/2013. (XII. 30.) Korm. rendelet 66. § d) pontja szerint módosított szöveg.
 [^11]: A 3. § (1) bekezdés b) pont ba) alpontja a 128/2013. (IV. 30.) Korm. rendelet 15. § a) pontja szerint módosított szöveg.
@@ -95,3 +95,4 @@ b) az átruházó részére megállapított lakásépítési támogatást törö
 [^22]: A 3. § (5) bekezdése a 128/2013. (IV. 30.) Korm. rendelet 14. § 7. pontja szerint módosított szöveg.
 [^23]: A 3. § (6) bekezdés nyitó szövegrésze a 128/2013. (IV. 30.) Korm. rendelet 14. § 8. pontja szerint módosított szöveg.
 [^24]: A 3. § (6) bekezdés a) pontja az 537/2013. (XII. 30.) Korm. rendelet 66. § e) pontja szerint módosított szöveg.
+[^25]: A 3. § (6) bekezdés b) pontja a 80/2014. (III. 14.) Korm. rendelet 26. § b) pontja szerint módosított szöveg.
