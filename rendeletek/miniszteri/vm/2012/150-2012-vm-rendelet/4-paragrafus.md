@@ -1,4 +1,4 @@
-4. § (1)[^3] Termelői szervezetként történő elismerés iránti kérelmet nyújthat be az a szövetkezet vagy jogi személyiséggel rendelkező gazdasági társaság,
+4. § (1)[^5] Termelői szervezetként történő elismerés iránti kérelmet nyújthat be az a szövetkezet vagy gazdasági társaság,
 
 a) amely legalább tizenöt termelő taggal rendelkezik, és gazdasági társaság esetén pedig legalább tizenöt, kizárólag a termelő tagok által jegyzett üzletrésszel rendelkezik, és
 
@@ -14,7 +14,7 @@ b) rendelkezzen integrált termesztés- és növényvédelemi technológia alkal
 
 c) a gazdasági ügyek, valamint a kereskedelem irányítására főmunkaidőben olyan szakembert alkalmazzon, aki feladatkörének megfelelően gazdasági vagy kereskedelmi felsőfokú végzettséggel, vagy legalább ötéves igazolható szakmai tapasztalattal rendelkezik.
 
-(4)[^4] A termelői szervezet engedélye esetén a termelő tagok termésük, illetve termékeik legfeljebb huszonöt százalékát közvetlenül a gazdaságukban, illetve azon kívül a fogyasztók személyes szükségleteinek kielégítésére értékesíthetik abban az esetben, ha erről az értékesítésről hiteles bizonylatokkal rendelkeznek, és ezek alapján hiteles tájékoztatást adnak a termelői szervezetnek. A tanácsi rendelet 125a. cikk (2) bekezdés b) és c) pontjának alkalmazási feltételeiről és a vonatkozó döntési jogosultságokról az alapító okiratban, vagy annak felhatalmazása alapján kiadott szabályzatban kell rendelkezni.
+(4)[^6] A termelői szervezet engedélye esetén a termelő tagok termésük, illetve termékeik legfeljebb huszonöt százalékát közvetlenül a gazdaságukban, illetve azon kívül a fogyasztók személyes szükségleteinek kielégítésére értékesíthetik abban az esetben, ha erről az értékesítésről hiteles bizonylatokkal rendelkeznek, és ezek alapján hiteles tájékoztatást adnak a termelői szervezetnek. A tanácsi rendelet 125a. cikk (2) bekezdés b) és c) pontjának alkalmazási feltételeiről és a vonatkozó döntési jogosultságokról az alapító okiratban, vagy annak felhatalmazása alapján kiadott szabályzatban kell rendelkezni.
 
-[^3]: A 4. § (1) bekezdése a 65/2013. (VII. 29.) VM rendelet 21. § (1) bekezdésével megállapított szöveg.
-[^4]: A 4. § (4) bekezdését a 65/2013. (VII. 29.) VM rendelet 21. § (2) bekezdése iktatta be.
+[^5]: A 4. § (1) bekezdése a 65/2013. (VII. 29.) VM rendelet 21. § (1) bekezdésével megállapított, nyitószövegrésze a 22/2014. (III. 14.) VM rendelet 90. § a) pontja szerint módosított szöveg.
+[^6]: A 4. § (4) bekezdését a 65/2013. (VII. 29.) VM rendelet 21. § (2) bekezdése iktatta be.

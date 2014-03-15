@@ -84,8 +84,6 @@
 
 | Jogi személy: |  |
 
-| Jogi személyiséggel nem rend. gazd. társaság: |  |
-
 ## Azonosító adatok
 
 |  | A | B |
