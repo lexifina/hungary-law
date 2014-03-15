@@ -16,8 +16,11 @@
 
 7. Kezelő: az összegyűjtött, tisztított csomagolóeszköz hulladék kezelését végző, az adott feladatra jogszabályban előírt hatósági engedéllyel rendelkező gazdálkodó szervezet.
 
+8.[^8] Gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet.
+
 [^3]: A 2. § (1) bekezdése a 115/2011. (XII. 9.) VM rendelet 8. §-a szerint módosított szöveg.
 [^4]: A 2. § (2) bekezdés 1. pontja a 115/2011. (XII. 9.) VM rendelet 8. §-a szerint módosított szöveg.
 [^5]: A 2. § (2) bekezdés 3. pontja a 115/2011. (XII. 9.) VM rendelet 1. §-ával megállapított szöveg.
 [^6]: A 2. § (2) bekezdés 4. pontja a 115/2011. (XII. 9.) VM rendelet 1. §-ával megállapított szöveg.
 [^7]: A 2. § (2) bekezdés 5. pontja a 115/2011. (XII. 9.) VM rendelet 8. §-a szerint módosított szöveg.
+[^8]: A 2. § (2) bekezdés 8. pontját a 22/2014. (III. 14.) VM rendelet 17. § (1) bekezdése iktatta be.
