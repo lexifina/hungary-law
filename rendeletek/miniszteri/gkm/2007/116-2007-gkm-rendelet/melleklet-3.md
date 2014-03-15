@@ -158,6 +158,6 @@
 
 | 78 | ZSG Hungaria Kft. | 5300 Karcag, Madarasi u. 54. |
 
-3. számú melléklet a 116/2007. (XII. 29.) GKM rendelethez[^27]
+3. számú melléklet a 116/2007. (XII. 29.) GKM rendelethez[^31]
 
-[^27]: A 3. számú melléklet a 24/2009. (VI. 9.) KHEM rendelet 21. §-ával megállapított szöveg. E módosító rendelet 26. § (2) bekezdése alapján a rendelkezést csak a 2009. július 1-jét követően benyújtott igénylések esetében kell alkalmazni.
+[^31]: A 3. számú melléklet a 24/2009. (VI. 9.) KHEM rendelet 21. §-ával megállapított szöveg. E módosító rendelet 26. § (2) bekezdése alapján a rendelkezést csak a 2009. július 1-jét követően benyújtott igénylések esetében kell alkalmazni.

@@ -6,6 +6,6 @@
 
 (3) Az egyetemes szolgáltató kérésére az átviteli rendszerirányító 5 munkanapon belül köteles tájékoztatást adni arról, hogy a 37. § szerinti térítést adott jogosult esetén ki fizeti meg.
 
-(4)[^13] Villamosenergia-ipari társaság kérésére az átviteli rendszerirányító 5 munkanapon belül köteles tájékoztatást adni arról, hogy a 37. § szerinti térítést mely fogyasztók esetén köteles a villamosenergia-ipari társaság megfizetni és milyen időpontra vonatkozóan.
+(4)[^16] Villamosenergia-ipari társaság kérésére az átviteli rendszerirányító 5 munkanapon belül köteles tájékoztatást adni arról, hogy a 37. § szerinti térítést mely fogyasztók esetén köteles a villamosenergia-ipari társaság megfizetni és milyen időpontra vonatkozóan.
 
-[^13]: A 27. § (4) bekezdését a 24/2009. (VI. 9.) KHEM rendelet 11. §-a iktatta be. E módosító rendelet 26. § (2) bekezdése alapján a rendelkezést csak a 2009. július 1-jét követően benyújtott igénylések esetében kell alkalmazni.
+[^16]: A 27. § (4) bekezdését a 24/2009. (VI. 9.) KHEM rendelet 11. §-a iktatta be. E módosító rendelet 26. § (2) bekezdése alapján a rendelkezést csak a 2009. július 1-jét követően benyújtott igénylések esetében kell alkalmazni.
