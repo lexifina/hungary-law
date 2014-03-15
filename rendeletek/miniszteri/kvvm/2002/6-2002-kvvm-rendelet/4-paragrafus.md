@@ -1,6 +1,6 @@
 ## Felszíni ivóvízbázisok vízminőségi követelményei
 
-4. § (1)[^6] A felszíni ivóvízbázisok besorolását e rendelet 6. számú melléklete tartalmazza. A további felszíni ivóvízbázisnak szánt vizek besorolását a hatóság – a járási (fővárosi kerületi) hivatal járási (fővárosi kerületi) népegészségügyi intézetének, az 5000 főnél több lakost ellátó ivóvízművek esetében a megyei kormányhivatal népegészségügyi szakigazgatási szervének (a továbbiakban: egészségügyi hatóság) egyetértésével – annak tudomására jutása időpontjától számított 1 éven belül elvégzi.
+4. § (1)[^7] A felszíni ivóvízbázisok besorolását e rendelet 6. számú melléklete tartalmazza. A további felszíni ivóvízbázisnak szánt vizek besorolását a hatóság – a járási (fővárosi kerületi) hivatal járási (fővárosi kerületi) népegészségügyi intézetének, az 5000 főnél több lakost ellátó ivóvízművek esetében a megyei kormányhivatal népegészségügyi szakigazgatási szervének (a továbbiakban: egészségügyi hatóság) egyetértésével – annak tudomására jutása időpontjától számított 1 éven belül elvégzi.
 
 (2) A felszíni ivóvízbázisok besorolása az alábbi vízminőségi jellemzőkből adódó szükséges kezelési módszerek szerint történik:
 
@@ -14,4 +14,4 @@ c) intenzív fizikai és kémiai kezelés, majd további kezelés és fertőtlen
 
 (4) A kezelési módszerek szerint besorolt felszíni ivóvízbázis vízminőségromlását eredményező beavatkozás, tevékenység a besorolás időpontja után nem végezhető.
 
-[^6]: A 4. § (1) bekezdése a 17/2007. (V. 10.) KvVM rendelet 2. §-ával megállapított, a 151/2012. (XII. 29.) VM rendelet 64. §-a szerint módosított szöveg.
+[^7]: A 4. § (1) bekezdése a 17/2007. (V. 10.) KvVM rendelet 2. §-ával megállapított, a 151/2012. (XII. 29.) VM rendelet 64. §-a szerint módosított szöveg.

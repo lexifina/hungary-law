@@ -8,6 +8,6 @@
 
 (3) A mintavételi helyen vett vízmintának jellemzőnek kell lennie az ellenőrzött víz minőségére.
 
-(4)[^9] A mintavételi helyen vett vízminta ellenőrzését követően a vizsgálat eredményét a környezetvédelmi hatóság nyilvántartja, és arról minden év december 31-éig a 8. számú melléklet szerint adatot szolgáltat a Nemzeti Környezetügyi Intézetnek.
+(4)[^10] A mintavételi helyen vett vízminta ellenőrzését követően a vizsgálat eredményét a környezetvédelmi hatóság nyilvántartja, és arról minden év december 31-éig a 8. számú melléklet szerint adatot szolgáltat a Nemzeti Környezetügyi Intézetnek.
 
-[^9]: A 7. § (4) bekezdését a 24/2004. (XII. 18.) KvVM rendelet 2. §-a iktatta be, szövege a 147/2011. (XII. 23.) VM rendelet 8. §-a szerint módosított szöveg.
+[^10]: A 7. § (4) bekezdését a 24/2004. (XII. 18.) KvVM rendelet 2. §-a iktatta be, szövege a 147/2011. (XII. 23.) VM rendelet 8. §-a szerint módosított szöveg.

@@ -20,16 +20,16 @@ c) a további vízszennyezés megakadályozására a vízszennyezést okozó kib
 
 a) megállapítja a halas víz szennyezettségének mértékét,
 
-b)[^19] elvégzi a kárelhárításához szükséges vízszennyezettségi vizsgálatokat, és felügyeli az illetékes vízügyi igazgatóság által végzett kárelhárítás lefolytatását,
+b)[^20] elvégzi a kárelhárításához szükséges vízszennyezettségi vizsgálatokat, és felügyeli az illetékes vízügyi igazgatóság által végzett kárelhárítás lefolytatását,
 
 c) intézkedéseket tesz a rendkívüli vízszennyezést okozó azonosítására és a rendkívüli szennyezés okának megállapítására,
 
-d) rendkívüli vízszennyezési bírságot szab ki a külön jogszabályban[^20] foglaltak alapján,
+d) rendkívüli vízszennyezési bírságot szab ki a külön jogszabályban[^21] foglaltak alapján,
 
-e) egyeztetéseket folytat le a vízszennyezésekkel kapcsolatos halélettani kérdésekben, valamint halpusztulás esetén a halászatról és a horgászatról szóló jogszabályokra figyelemmel[^21],
+e) egyeztetéseket folytat le a vízszennyezésekkel kapcsolatos halélettani kérdésekben, valamint halpusztulás esetén a halászatról és a horgászatról szóló jogszabályokra figyelemmel[^22],
 
 f) megállapítja a halak ökológiai vízigénye nem megfelelőségének okát, és egyeztet az érintett társhatóságokkal a szükséges vízmennyiség és vízminőség biztosítása érdekében.
 
-[^19]: A 15. § (4) bekezdés b) pontja a 147/2011. (XII. 23.) VM rendelet 17. § (d) pontja szerint módosított szöveg.
-[^20]: A felszíni vizek minősége védelmének egyes szabályairól szóló 203/2001. (X. 26.) Korm. rendelet 23. §-a.
-[^21]: A halászatról és a horgászatról szóló 1997. évi XLI. törvény 36. §-a és a halászatról és a horgászatról szóló 1997. évi XLI. törvény végrehajtásának egyes szabályairól szóló 78/1997. (XI. 4.) FM rendelet 23. §-a.
+[^20]: A 15. § (4) bekezdés b) pontja a 147/2011. (XII. 23.) VM rendelet 17. § (d) pontja szerint módosított szöveg.
+[^21]: A felszíni vizek minősége védelmének egyes szabályairól szóló 203/2001. (X. 26.) Korm. rendelet 23. §-a.
+[^22]: A halászatról és a horgászatról szóló 1997. évi XLI. törvény 36. §-a és a halászatról és a horgászatról szóló 1997. évi XLI. törvény végrehajtásának egyes szabályairól szóló 78/1997. (XI. 4.) FM rendelet 23. §-a.

@@ -32,6 +32,6 @@
 
 | Komra-völgyi tározó, Komra-patak | 1+094 | A2 | Közép-Duna-völgyi KöFe |
 
-7. számú melléklet a 6/2002. (XI. 5.) KvVM rendelethez[^33]
+7. számú melléklet a 6/2002. (XI. 5.) KvVM rendelethez[^34]
 
-[^33]: A 7. számú mellékletet a 24/2004. (XII. 18.) KvVM rendelet 6. §-ának c) pontja iktatta a szövegbe.
+[^34]: A 7. számú mellékletet a 24/2004. (XII. 18.) KvVM rendelet 6. §-ának c) pontja iktatta a szövegbe.

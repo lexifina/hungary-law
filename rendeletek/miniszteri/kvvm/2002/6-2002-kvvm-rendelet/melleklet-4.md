@@ -1,6 +1,6 @@
 ## A felszíni ivóvízbázis mintavételezésének
 
-## és vizsgálatának minimális éves gyakorisága, minőségi jellemző csoportonként[^27]
+## és vizsgálatának minimális éves gyakorisága, minőségi jellemző csoportonként[^28]
 
 | Ellátott lakosság | Kezelési kategória | A1 | A2 | A3 |
 
@@ -56,4 +56,4 @@
 
 4. számú melléklet a 6/2002. (XI. 5.) KvVM rendelethez
 
-[^27]: A 3. számú melléklet címe a 24/2004. (XII. 18.) KvVM rendelet 7. §-ának a) pontja szerint módosított szöveg.
+[^28]: A 3. számú melléklet címe a 24/2004. (XII. 18.) KvVM rendelet 7. §-ának a) pontja szerint módosított szöveg.

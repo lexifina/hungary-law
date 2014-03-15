@@ -16,7 +16,7 @@
 
 | Hármas-Körös | 42+000–90+270 | illetékességi területen teljes hosszban | Dévéres víz | KV3 | Körös-vidéki KöFe |
 
-8. számú melléklet a 6/2002. (XI. 5.) KvVM rendelethez[^34]
+8. számú melléklet a 6/2002. (XI. 5.) KvVM rendelethez[^35]
 
 ## Adatszolgáltatási lap(ok) a felszíni ivóvízbázisokról
 
@@ -144,4 +144,4 @@
 
 | A felszíni víz szennyezését okozta: |  |
 
-[^34]: A 8. számú mellékletet a 24/2004. (XII. 18.) KvVM rendelet 6. §-ának c) pontja iktatta a szövegbe.
+[^35]: A 8. számú mellékletet a 24/2004. (XII. 18.) KvVM rendelet 6. §-ának c) pontja iktatta a szövegbe.
