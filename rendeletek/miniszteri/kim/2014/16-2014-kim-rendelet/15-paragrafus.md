@@ -1,0 +1,5 @@
+## 14. § A gondnokoltak nyilvántartása az OBH elnöke által vezetett, a Tv. 3. § (1) és (2) bekezdésében meghatározott adatokat és adatváltozásokat tartalmazó országosan egységes elektronikus névjegyzék (a továbbiakban: gondnokoltak nyilvántartása). A gondnokoltak nyilvántartására e rendeletet a 15–18. §-ban foglalt eltérésekkel kell alkalmazni.
+
+15. § (1) Az adatokat, ha az ítélet első fokon jogerőre emelkedett, a jogerő megállapítását, ha az ítélet első fokon nem emelkedett jogerőre, a másodfokon, más esetben a felülvizsgálati eljárásban vagy a perújítás során eljárt bíróság tájékoztatásának az első fokon eljárt bírósághoz érkezését követő 3 munkanapon belül kell a határozat tartalmától függően a névjegyzékbe bejegyezni.
+
+(2) A másodfokon, a felülvizsgálati eljárásban vagy a perújítás során eljárt bíróság a határozatának tartalmáról a határozathozatal napján papír alapon és elektronikus úton is, a 7. mellékletben meghatározott adattartalmú tájékoztatót küld az első fokon eljárt bíróság számára.

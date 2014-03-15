@@ -1,0 +1,5 @@
+## 3. § Az OBH elnöke a rendeletben meghatározott feladatait az OBH útján látja el.
+
+4. § (1) A nyilvántartásokba történő bejegyzés és az abból közvetlen hozzáféréssel történő adatigénylés céljára az informatikai rendszer rendelkezésre állását akként kell biztosítani, hogy az informatikai rendszer a bíróság, az OBH és a közvetlen hozzáféréssel rendelkező jogosultak számára munkanapokon legalább a hivatali idő végéig elérhető legyen, az üzemszerű karbantartást pedig ezen időszakon kívül kell elvégezni. A hivatali időről az OBH a bíróságok központi internetes honlapján tájékoztatást ad.
+
+(2) A nyilvántartásokat a bejegyzések időrendjének megfelelő sorszám alatt kell vezetni. Az időrendi sorszám a gondnokság alá helyezés ténye, illetve az előzetes jognyilatkozat nyilvántartásba rögzítésének folyószámát és azt követően a gondnokság alá helyezés ténye, illetve az előzetes jognyilatkozat nyilvántartásba rögzítésének évszámát tartalmazza. A nyilvántartásokba történő rögzítés folyószáma évente újrakezdődik.
