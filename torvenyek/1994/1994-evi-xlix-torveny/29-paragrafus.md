@@ -4,4 +4,4 @@
 
 (3) A tag a társulati érdekeltsége után kivetett és tagsága idején esedékessé vált járulékért és kamatért a társulattal szemben tagságának megszűnése után is felelősséggel tartozik.
 
-(4) A társulat gazdálkodásával kapcsolatos, e törvényben nem szabályozott kérdésekben a gazdasági társaságokra irányadó szabályokat kell megfelelően alkalmazni.
+(4) A társulat gazdálkodásával kapcsolatos, e törvényben nem szabályozott kérdésekben a Ptk. gazdasági társaságokra vonatkozó szabályait kell alkalmazni.

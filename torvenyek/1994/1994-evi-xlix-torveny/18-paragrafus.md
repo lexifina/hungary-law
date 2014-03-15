@@ -8,4 +8,4 @@ c) akit bűncselekmény elkövetése miatt végrehajtható szabadságvesztésre 
 
 d) akit valamely foglalkozástól eltiltottak, az ítélet hatálya alatt az abban megjelölt tevékenységre.
 
-(2) Ha a társulat tagjainak száma a tíz főt meghaladja, azok, akik egymásnak a Ptk. 685. § b) pontja szerint közeli hozzátartozói, nem lehetnek egyidejűleg a társulat elnökségének, valamint a felügyelőbizottságának tagjai. Az alapszabályban az összeférhetetlenség egyéb eseteit is meg lehet határozni.
+(2) Ha a társulat tagjainak száma a tíz főt meghaladja, azok, akik egymásnak a Ptk. szerint közeli hozzátartozói, nem lehetnek egyidejűleg a társulat elnökségének, valamint a felügyelőbizottságának tagjai. Az alapszabályban az összeférhetetlenség egyéb eseteit is meg lehet határozni.
