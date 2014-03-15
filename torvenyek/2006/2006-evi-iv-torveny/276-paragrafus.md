@@ -1,3 +1,0 @@
-276. § (1) Dematerializált részvények esetén az igazgatóság az alaptőke leszállításának bejegyzését követő, az alapszabályban meghatározott időn, ennek hiányában tizenöt napon belül értesíti a központi értéktárat és a részvényes értékpapírszámla-vezetőjét az alaptőke leszállítása következtében a részvényes részvénytulajdonában beállt változásról.
-
-(2) A részvényesnek csak az alaptőke-leszállítás cégjegyzékbe történő bejegyzése után szabad az alaptőke, illetve az alaptőkén felüli vagyon terhére kifizetést teljesíteni vagy a részvényre vonatkozó, még be nem fizetett pénzbeli, illetve még nem szolgáltatott nem pénzbeli hozzájárulás teljesítését elengedni.

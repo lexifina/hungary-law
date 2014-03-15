@@ -1,3 +1,0 @@
-26. § (1) A gazdasági társaság alapításának, a társasági szerződés módosításának, a cégjegyzékbe bejegyzett jogoknak, tényeknek és adatoknak és ezek változásának, valamint törvényben előírt más adatoknak a cégbírósági – elektronikus úton történő – bejelentése a vezető tisztségviselők kötelezettsége.
-
-(2) A vezető tisztségviselők korlátlanul és egyetemlegesen felelnek a társasággal szemben azokért a károkért, amelyek a bejelentett adat, jog vagy tény valótlanságából, illetve a bejelentés késedelméből vagy elmulasztásából származnak, ideértve azt is, ha a számviteli törvény szerinti beszámoló, valamint a kapcsolódó üzleti jelentés összeállítása és nyilvánosságra hozatala nem a számviteli törvény előírásainak megfelelően történt.

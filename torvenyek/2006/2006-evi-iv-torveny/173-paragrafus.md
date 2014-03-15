@@ -1,1 +1,0 @@
-173. § A részvénytársaság legfőbb szerve az alapszabály módosítására irányadó szabályok szerint – az értékpapírokra vonatkozó törvényi rendelkezések figyelembevételével – határozhat a részvénytársaság működési formájának megváltoztatásáról.

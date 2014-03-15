@@ -1,3 +1,0 @@
-251. § (1) Az alapszabály az alaptőke pénzbeli hozzájárulás ellenében történő felemelése esetére a részvényeseknek, az átváltoztatható, illetve jegyzési jogot biztosító kötvények tulajdonosainak a részvények átvételére elsőbbségi jogot biztosíthat. Részvények átvételére vonatkozó elsőbbségi jog biztosítása esetén legalább az elsőbbségi jog gyakorlására jogosultak körét, sorrendjét és a rendelkezésre álló időtartamot az alapszabályban kell szabályozni.
-
-(2) Ha a részvénytársaság jegyzési jogot biztosító kötvényt bocsát ki, az (1) bekezdés szerinti elsőbbségi jogról a kötvény kibocsátása előtt rendelkezni és a jegyzési jogot biztosító kötvények tulajdonosai számára a részvények átvételére vonatkozó elsőbbségi jogot biztosítani kell.

@@ -1,1 +1,0 @@
-235. § Az alapszabály a határozatképességgel kapcsolatos rendelkezések [234. § (1) bekezdés] alkalmazását az egyszerű többséget igénylő kérdések eldöntésénél kizárhatja vagy azokat eltérően szabályozhatja.

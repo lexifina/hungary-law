@@ -1,3 +1,0 @@
-201. § (1) Az alapszabály felhatalmazása alapján az egy részvénysorozatba tartozó részvények összevont címletű részvényként is kibocsáthatók, továbbá a kibocsátást követően a részvényes kérésére és költségére összevont címletű részvénnyé alakíthatóak át. A részvények összevont címletű részvénnyé történő átalakítása – eltérő megállapodás hiányában – nem hoz létre közös tulajdont; a részvényes az összevont részvény alapcímletéhez kapcsolódó jogaival, az értékpapírokra vonatkozó törvényi rendelkezések szerint szabadon rendelkezik.
-
-(2) Az összevont címletű részvényt – a részvényes kérésére és költségére – utóbb kisebb címletű összevont részvényekre, illetve az alapszabályban az adott részvénysorozatra meghatározott névértékű részvényekre kell bontani.

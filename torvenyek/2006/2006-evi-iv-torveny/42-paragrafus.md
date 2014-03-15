@@ -1,5 +1,0 @@
-42. § (1) A társaság legfőbb szervének a társaság könyvvizsgálóját határozott időre, de legfeljebb öt évre kell megválasztani. A könyvvizsgáló megbízatásának időtartama nem lehet rövidebb, mint az őt megválasztó taggyűléstől (közgyűléstől) az üzleti év számviteli törvény szerinti beszámolóját elfogadó taggyűlésig (közgyűlésig) terjedő azon időszak, amelynek a felülvizsgálatára megválasztották. A társasági könyvvizsgáló visszahívására nem adhatnak alapot a független könyvvizsgálói jelentésben tett megállapítások vagy a társaság számviteli törvény szerinti beszámolójához kapcsolódó könyvvizsgálói záradék megadásának az elutasítása.
-
-(2) Külön törvény a társasági könyvvizsgáló újraválasztását kizárhatja.
-
-(3) A könyvvizsgálói megbízás elfogadásának az minősül, ha a könyvvizsgáló megválasztását követő kilencven napon belül megbízási szerződést köt a gazdasági társaság ügyvezetésével. A határidő eredménytelen elteltével a könyvvizsgáló megválasztása hatálytalanná válik és a legfőbb szervnek másik könyvvizsgálót kell választania.

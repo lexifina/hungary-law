@@ -1,5 +1,0 @@
-50. § (1) A korlátolt felelősségű társaság és a részvénytársaság jogutód nélküli megszűnése esetén nem hivatkozhat korlátolt felelősségére az a tag (részvényes), aki ezzel visszaélt. A korlátolt felelősségű társaság és a részvénytársaság azon tagjai (részvényesei), akik korlátolt felelősségükkel, illetve a társaság elkülönült jogi személyiségével a hitelezők rovására visszaéltek, korlátlanul és egyetemlegesen felelnek a megszűnt társaság ki nem elégített kötelezettségeiért.
-
-(2) A tagok (részvényesek) (1) bekezdés szerinti felelőssége különösen akkor állapítható meg, ha a társaság vagyonával sajátjukként rendelkeztek, a társasági vagyont saját vagy más személyek javára úgy csökkentették, hogy tudták, illetve az általában elvárható gondosság tanúsítása esetén tudniuk kellett volna, hogy ezáltal a társaság a kötelezettségeit harmadik személyek részére nem lesz képes teljesíteni, továbbá a 13. § (4) bekezdése szerinti esetben.
-
-(3) Az (1)–(2) bekezdés szabályait megfelelően alkalmazni kell a betéti társaság kültagjára is.

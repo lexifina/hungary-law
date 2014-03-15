@@ -1,5 +1,0 @@
-7. § (1) Az e törvényben előírt jognyilatkozatokat és határozatokat írásban – ideértve a legalább fokozott biztonságú elektronikus aláírással ellátott elektronikus okiratot is – vagy más bizonyítható módon kell a címzett tudomására hozni. Ha e törvény valamely nyilatkozat megtételére vagy cselekmény elvégzésére határidőt nem állapít meg, a nyilatkozatot vagy a cselekményt haladéktalanul meg kell tenni, illetve haladéktalanul a címzett tudomására kell hozni.
-
-(2) Ha az iratot postán küldték el, azt a tértivevényen feltüntetett átvételi időpontban, ajánlott küldemény esetében pedig – az ellenkező bizonyításáig – a feladástól számított ötödik munkanapon a belföldi címzetthez megérkezettnek kell tekinteni.
-
-(3) A tagok (részvényesek) a társasági szerződésben (alapszabályban, alapító okiratban) előírhatják a tagsági jogok elektronikus hírközlő eszközök igénybevételével történő gyakorlásának módját és feltételeit. Tilos ezen eszközök oly módon történő alkalmazása, amely a tagok (részvényesek) egy része számára a joggyakorlást megnehezítené vagy ellehetetlenítené.

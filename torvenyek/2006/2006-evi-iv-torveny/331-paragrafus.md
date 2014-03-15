@@ -1,1 +1,0 @@
-331. § Az egyesülés jogutód nélküli megszűnése esetén a tartozások kiegyenlítése után fennmaradó vagyont egyenlő arányban, ha pedig vagyoni hozzájárulást teljesítettek – a társasági szerződés eltérő rendelkezései hiányában –, a tagok vagyoni hozzájárulása arányában kell felosztani.

@@ -1,5 +1,0 @@
-55. § (1) A számviteli törvényben foglaltak szerint összevont (konszolidált) éves beszámoló készítésére köteles gazdasági társaság (uralkodó tag) és az a részvénytársaság, illetve korlátolt felelősségű társaság, amely felett az uralkodó tag a számviteli törvény alapján meghatározó befolyással rendelkezik (ellenőrzött társaság), egységes üzleti céljaik megvalósítására uralmi szerződés kötése útján elismert vállalatcsoportként történő működésükről határozhatnak.
-
-(2) Az elismert vállalatcsoporthoz tartozó ellenőrzött társaságok önállóságának korlátozására e törvény és az uralmi szerződésben foglaltak szerint, a vállalatcsoport egésze céljainak teljesítéséhez szükséges módon és mértékben kerülhet sor. Az uralmi szerződésben gondoskodni kell a vállalatcsoporthoz tartozó ellenőrzött társaságok tagjai (részvényesei), valamint hitelezői jogainak a védelméről.
-
-(3) Az elismert vállalatcsoportként való működés tényének a cégjegyzékbe való bejegyzése nem hoz létre az abban részt vevő gazdasági társaságoktól elkülönült jogalanyt.

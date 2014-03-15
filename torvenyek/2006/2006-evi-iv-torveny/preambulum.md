@@ -1,3 +1,0 @@
-A törvény célja, hogy korszerű jogi keretek biztosításával támogassa a magyar piacgazdaság további erősödését, a nemzetgazdaság jövedelemtermelő képességének fejlődését, a vállalkozások sikerességét. A gazdasági társaságok működése segítse elő a tisztességes versenyt, ne teremtsen gazdasági erőfölényt, összhangban álljon a hitelezők méltányos érdekeivel és a közérdekkel.
-
-Mindezek érdekében – az Európai Unió társasági jogával való harmonizáció alapján, az Európai Unió tagállamai társasági joga fejlődésének közös sajátosságaira figyelemmel, a magyar gazdasági jog jogalkalmazói gyakorlatának eredményeit felhasználva és a gazdasági élet szereplői megerősödött társasági jogi kultúrájára támaszkodva – az Országgyűlés az alábbi törvényt alkotja:

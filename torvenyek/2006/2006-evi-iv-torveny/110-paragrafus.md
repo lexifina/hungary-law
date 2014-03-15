@@ -1,3 +1,0 @@
-110. § (1) Ha a társaságból valamennyi beltag vagy valamennyi kültag kiválik, a társaság az utolsó beltag vagy az utolsó kültag kiválásától számított hathónapos jogvesztő határidő elteltével megszűnik, kivéve, ha a társaság e határidőn belül a társasági szerződése módosításával a betéti társaságként vagy közkereseti társaságként való működés törvényes feltételeit megteremti, és ezt a változást a cégbíróságnak bejelenti.
-
-(2) Ha a társaságnak nem maradt üzletvezetésre és képviseletre jogosult tagja, az (1) bekezdés szerinti bejelentés megtételéig, illetve a jogvesztő határidő eredménytelen eltelte esetén a kényszertörlési eljárás megindításáig a kültagot is a társaság üzletvezetésére és képviseletére jogosultnak kell tekinteni.

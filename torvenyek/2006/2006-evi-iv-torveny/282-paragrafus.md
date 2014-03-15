@@ -1,3 +1,0 @@
-282. § (1) Gazdasági társaság részvénytársasággá történő átalakulása esetén az átalakulási közleménynek a 75. § (3) bekezdésében foglaltakon kívül tartalmaznia kell a részvények fajtáját (osztályát) és névértékét.
-
-(2) Ha a részvénytársaság alakul át más gazdasági társasággá, a részvények – az átalakulással létrejövő gazdasági társaság cégbejegyzésével – érvénytelenné válnak. Az érvénytelenség jogkövetkezményeinek alkalmazásáról a bejegyző végzés kézhezvételétől számított harminc napon belül a jogutód gazdasági társaság vezető tisztségviselőinek kell gondoskodnia, a 275–276. § megfelelő alkalmazásával.

@@ -1,1 +1,0 @@
-336/C. § A szabályozott ingatlanbefektetési társaságokról szóló 2011. évi CII. törvény (a továbbiakban: Szit. tv.) 26. §-ával megállapított 202. § (2) bekezdését a Szit. tv. hatálybalépését megelőző időponttól vezetett részvénykönyvekre is alkalmazni kell, amennyiben a részvénytársaságot szabályozott ingatlanbefektetési társaságként az állami adóhatóság nyilvántartásba vette.
