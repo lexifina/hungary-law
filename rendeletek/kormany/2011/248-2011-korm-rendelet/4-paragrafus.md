@@ -52,7 +52,7 @@ m) szakmai háttérelemzésekkel segíti a magyar gazdaság megújítását szol
 
 n) ellátja Magyarország külgazdasági kapcsolatait érintő stratégiai elemzési, tervezési és előresjelzési feladatait.
 
-(3)[^1] A Hivatal a 2014–2020-as nemzeti szintű tervezési feladatok szakmai támogatása keretében
+(3)[^3] A Hivatal a 2014–2020-as nemzeti szintű tervezési feladatok szakmai támogatása keretében
 
 a) közreműködik a gazdaságfejlesztési célú források felhasználásával kapcsolatos központi tervezési, valamint az operatív programokhoz kapcsolódó szakmai koordinációs feladatokban;
 
@@ -66,33 +66,13 @@ e) közreműködik a Magyarország és az Európai Unió között a 2014–2020-
 
 f) kijelölés alapján részt vesz a programozási feladatok koordinációjában, módszertani minőségbiztosításban.
 
-(4) A Hivatal nemzeti és nemzetközi területi elemzési, területfejlesztési stratégiaalkotó tevékenységi körében
+(4)[^4] A Hivatal területfejlesztési tevékenysége körében
 
-a) közreműködik a minisztériumok, a kormányhivatalok és a megyei önkormányzatok, térségek nemzeti területi tervezési feladatainak koordinációjában és a térségi tervezési módszertanok készítésében;
+a) közreműködik a területfejlesztéssel kapcsolatos stratégiai előkészítő, tervezési, koordinációs, elemző és értékelő feladatok ellátásában; így különösen közreműködik a területpolitikához kapcsolódó tervezetek előkészítésében, a területfejlesztési stratégiai tervezéshez kapcsolódó szabályozási feladatok ellátásában, a területfejlesztési tervezés szakmai rendszerének kidolgozásában, a város-vidék együttműködéséhez, a határon átnyúló és kiemelt térségekhez kapcsolódó területfejlesztési stratégiai feladatokban, valamint a területi elemzési, értékelési munka szakmai szintű koordinációjában, módszertani támogatásában;
 
-b) közreműködik a minisztériumok területfejlesztési stratégiai tervezéséhez kapcsolódó szabályozási és szakmai koordinációs feladatai ellátásában;
+b) közreműködik a nemzetközi területfejlesztési feladatok ellátásában, így különösen a tervezési és területi kohézióhoz kapcsolódó feladatok koordinációjában, valamint nemzetközi projekt-együttműködéseket készít elő és valósít meg;
 
-c) ellátja a területi elemzési, értékelési munka szakmai szintű koordinációját, módszertani támogatását, háttérelemzésekkel támogatja a nemzeti, illetve ágazati stratégiák területi szempontjainak, valamint a monitoring, értékelési és indikátorrendszer területi szempontjainak kidolgozását;
-
-d) közreműködik a területpolitikához kapcsolódó tervezetek előkészítésében és szakmai tanácsadásban;
-
-e) ellátja az országos területi folyamatok értékeléséhez kapcsolódó feladatokat;
-
-f) feladatkörének keretei között felel a területi tervezés és a területi elemzések, értékelések módszertani megújításáért és a területi monitoring rendszer fejlesztését szolgáló módszertani feladatok ellátásáért;
-
-g) közreműködik a nemzetközi tervezési és területi kohézióhoz kapcsolódó feladatok koordinációjában;
-
-h) megbízás esetén fókuszponti, illetve kontaktponti szolgáltatásokat biztosít nemzetközi programokhoz, nemzetközi projekt-együttműködéseket előkészít és megvalósít;
-
-i) nemzetközi tervezési együttműködéseket szakmailag támogat;
-
-j) közreműködik a város-vidék együttműködéséhez, a határon túli és kiemelt térségekhez kapcsolódó területfejlesztési stratégiai feladatokban;
-
-k) közreműködik az egyes területi szintek stratégiai tervezési feladataiban;
-
-l) közreműködik a területi programok megvalósulásának értékelésében;
-
-m) közreműködik a területfejlesztési tervezés szakmai rendszerének kidolgozásában, a jogosultsági rendszerre és képzésre is kiterjedően.
+c) szervezetén belül elkülönülten ellátja a Duna transznacionális együttműködési program közös irányító hatósági és technikai titkársági feladatait.
 
 (5) A Hivatal feladata nemzetgazdasági tervezési és program-koordinációs tevékenységi körében
 
@@ -114,4 +94,5 @@ h) egyes kiemelt stratégiai fejlesztési területekhez kapcsolódó szakmai fel
 
 i) a Magyarországon tervezett külföldi nagyberuházások ágazati hatásvizsgálatának elvégzése, a támogatási döntések (EKD) megalapozása.
 
-[^1]: A 4. § (3) bekezdése a 451/2013. (XI. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^3]: A 4. § (3) bekezdése a 451/2013. (XI. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^4]: A 4. § (4) bekezdése a 82/2014. (III. 14.) Korm. rendelet 2. §-ával megállapított szöveg.
