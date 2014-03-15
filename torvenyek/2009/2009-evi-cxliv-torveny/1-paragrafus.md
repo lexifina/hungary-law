@@ -10,7 +10,7 @@
 
 4. elkülönített vagyon: a társulat nyilvántartásában kimutatott társulati művek, valamint a közfeladatok ellátásához a tárgyévben juttatott pénzeszköz, továbbá saját vagyonból a társulati művek értékének 8%-a;
 
-5. érdekelt: az a természetes vagy jogi személy, jogi személyiséggel nem rendelkező gazdasági társaság, aki, illetve amely a társulat működési területéhez nem tartozó ingatlantulajdonnal rendelkezik, illetve ingatlant használ;
+5. érdekelt: az a természetes vagy jogi személy, jogi személyiséggel nem rendelkező szervezet, aki, illetve amely a társulat működési területéhez nem tartozó ingatlantulajdonnal rendelkezik, illetve ingatlant használ;
 
 6. érdekelt képviselete: az érdekeltet az alakuló gyűlésen képviselő személy;
 
@@ -19,6 +19,8 @@
 8. érdekeltségi terület: az a terület, amelynek felszíni és felszín alatti vizei mások tulajdonában lévő vízfolyásokba, tavakba, vízilétesítményekbe juthatnak, illetve elvezethetők, és a terület nem tartozik a társulat működési területébe;
 
 9. felügyelőbizottság: a társulat ellenőrző szerve;
+
+9a. gazdálkodó szervezet: a polgári perrendtartásról szóló törvényben meghatározott gazdálkodó szervezet;
 
 10. intézőbizottság: a társulat irányító szerve;
 
@@ -52,7 +54,7 @@
 
 25. társulat érdekképviselete: a társulatok vagy szerveződéseik által érdekképviseleti célból létrehozott, az egyesülési törvény szerint működő országos vagy területi hatáskörű szervezet;
 
-26. társulat tagja: az a természetes vagy jogi személy, jogi személyiséggel nem rendelkező gazdasági társaság, egyéb szervezet, aki, illetve amely a társulat működési területén ingatlantulajdonnal rendelkezik, illetve ingatlant használ;
+26. társulat tagja: az a természetes vagy jogi személy, jogi személyiséggel nem rendelkező szervezet, aki, illetve amely a társulat működési területén ingatlantulajdonnal rendelkezik, illetve ingatlant használ;
 
 27.
 

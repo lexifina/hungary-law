@@ -1,4 +1,4 @@
-21. § (1) A társulat jogerős cégbejegyzéséig az alapszabály érvénytelenségére a Ptk. rendelkezéseit kell alkalmazni. A jogerős cégbejegyzés után az alapszabály megtámadására nincs mód, és az alapszabály semmisségét csak a következő okokból lehet megállapítani:
+21. § (1) A társulat jogerős cégbejegyzéséig az alapszabály érvénytelenségére a Polgári Törvénykönyv (a továbbiakban: Ptk.) rendelkezéseit kell alkalmazni. A jogerős cégbejegyzés után az alapszabály megtámadására nincs mód, és az alapszabály semmisségét csak a következő okokból lehet megállapítani:
 
 a) az alapszabály ügyvédi, illetve az alapító jogtanácsosa általi ellenjegyzésére vagy közjegyzői okiratba foglalására nem került sor;
 

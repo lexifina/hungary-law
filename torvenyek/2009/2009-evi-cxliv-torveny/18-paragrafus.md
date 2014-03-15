@@ -1,6 +1,6 @@
 ## A társulat megalakulása
 
-18. § (1) A társulat megalakul, ha a működési területen ingatlantulajdonnal rendelkező, illetve az ingatlant egyéb jogcímen használó természetes és jogi személyeknek, jogi személyiséggel nem rendelkező gazdasági társaságoknak (a továbbiakban: érdekelteknek) az érdekeltségi egység aránya szerint számított több mint kétharmada az alakuló gyűlésen
+18. § (1) A társulat megalakul, ha a működési területen ingatlantulajdonnal rendelkező, illetve az ingatlant egyéb jogcímen használó természetes és jogi személyeknek, jogi személyiséggel nem rendelkező szervezeteknek (a továbbiakban: érdekelteknek) az érdekeltségi egység aránya szerint számított több mint kétharmada az alakuló gyűlésen
 
 a) elfogadja a társulat alapszabályát;
 

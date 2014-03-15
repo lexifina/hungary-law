@@ -32,6 +32,6 @@ b) a működési területen belül azokat a települési önkormányzatokat (ré
 
 a) a megválasztott küldöttek nevét, lakóhelyét, az általuk képviselt területi egység megnevezését és a képviselt terület nagyságát hektárban;
 
-b) a társulat tagjainak nevét (cégnevét), lakóhelyét (székhelyét), a természetes személy tag születési helyét, időpontját, jogi személy vagy jogi személyiség nélküli gazdasági társaság cégjegyzékszámát (nyilvántartási számát), a területének nagyságát ha-ban.
+b) a társulat tagjainak nevét (cégnevét), lakóhelyét (székhelyét), a természetes személy tag születési helyét, időpontját, jogi személy vagy jogi személyiséggel nem rendelkező szervezet cégjegyzékszámát (nyilvántartási számát), a területének nagyságát ha-ban.
 
 (5) Az alapszabály mellékleteiben bekövetkezett változást az éves rendes küldöttgyűlés követő 30 napon belül kell megküldeni az illetékes cégbíróságnak.
