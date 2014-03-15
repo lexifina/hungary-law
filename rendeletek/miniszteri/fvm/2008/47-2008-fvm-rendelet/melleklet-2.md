@@ -10,6 +10,6 @@
 
 ## c) a támogatási kérelem beadását megelőző lezárt gazdasági évben elszámolt amortizáció nem éri el az azt megelőző gazdasági évben elszámolt amortizációt.
 
-2. számú melléklet a 47/2008. (IV. 17.) FVM rendelethez[^37]
+2. számú melléklet a 47/2008. (IV. 17.) FVM rendelethez[^38]
 
-[^37]: A 2. számú melléklet a 136/2009. (X. 16.) FVM rendelet 8. §-a szerint módosított szöveg, e módosító rendelet 9. § (1) bekezdése alapján a 2009. október 19-ét követően indult ügyekben kell alkalmazni.
+[^38]: A 2. számú melléklet a 136/2009. (X. 16.) FVM rendelet 8. §-a szerint módosított szöveg, e módosító rendelet 9. § (1) bekezdése alapján a 2009. október 19-ét követően indult ügyekben kell alkalmazni.

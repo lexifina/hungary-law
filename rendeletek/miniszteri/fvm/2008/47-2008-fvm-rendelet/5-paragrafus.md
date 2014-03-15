@@ -1,6 +1,6 @@
 ## A támogatás igénybevételének feltételei
 
-5. § (1) Támogatásra jogosultak azok az egyéni vállalkozók, egyéni cégek, jogi személyiség nélküli, valamint jogi személyiséggel rendelkező gazdasági társaságok, szövetkezetek, amelyek KKV-nak vagy nagyvállalatnak minősülnek (a továbbiakban: ügyfél) és megfelelnek az alábbi feltételeknek:
+5. § (1)[^8] Támogatásra jogosultak azok az egyéni vállalkozók, egyéni cégek, gazdasági társaságok, szövetkezetek, amelyek KKV-nak vagy nagyvállalatnak minősülnek (a továbbiakban: ügyfél) és megfelelnek az alábbi feltételeknek:
 
 a) mezőgazdasági termelők esetében az üzemméretük meghaladja a 4 európai méretegységet (EUME), valamint értékesítésből származó árbevételük 50%-a vagy több mint 50%-a származik nem-feldolgozott mezőgazdasági termék értékesítéséből, és ez az arány a beruházás után is megmarad a kötelező üzemeltetés végéig;
 
@@ -21,3 +21,5 @@ b) nem mezőgazdasági termelők esetében az értékesítésből származó ár
 (8) Az (1) bekezdés a) pontjában foglalt üzemméretre vonatkozó kritérium nem vonatkozik a termelői csoportokra, a zöldség-gyümölcs termelői csoportokra és annak leányvállalatára, illetve a termelői szervezetekre és azok leányvállalataira.
 
 (9) Az ügyfél vagy általa kijelölt alkalmazottja az utolsó kifizetési kérelem benyújtása előtt köteles az Új Magyarország Vidékfejlesztési Program keretében szervezett, e jogcím tárgyában tartott kötelező képzésen részt venni.
+
+[^8]: Az 5. § (1) bekezdés nyitó szövegrésze a 22/2014. (III. 14.) VM rendelet 60. §-a szerint módosított szöveg.

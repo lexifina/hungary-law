@@ -116,6 +116,6 @@
 
 ## 11.03 Gyümölcsbor termelése
 
-4. számú melléklet a 47/2008. (IV. 17.) FVM rendelethez[^38]
+4. számú melléklet a 47/2008. (IV. 17.) FVM rendelethez[^39]
 
-[^38]: A 4. számú mellékletet a 75/2011. (VII. 29.) VM rendelet 5. § (2) bekezdése hatályon kívül helyezte.
+[^39]: A 4. számú mellékletet a 75/2011. (VII. 29.) VM rendelet 5. § (2) bekezdése hatályon kívül helyezte.

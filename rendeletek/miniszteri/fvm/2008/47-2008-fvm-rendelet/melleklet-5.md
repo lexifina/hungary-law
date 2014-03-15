@@ -1,4 +1,4 @@
-5. számú melléklet a 47/2008. (IV. 17.) FVM rendelethez[^39]
+5. számú melléklet a 47/2008. (IV. 17.) FVM rendelethez[^40]
 
 A 3. § (1) bekezdés a) pontja szerinti célterület esetében támogatható termékek
 
@@ -1794,4 +1794,4 @@ A 3. § (1) bekezdés a) pontja szerinti célterület esetében támogatható te
 
 | 23099099 | Más állati takarmány (kiv. kutya, macskaeledel, hal és tengeri emlős részeit tartalmazó oldat, kukoricakeményítő-gyártás hulladéka, kilúgozott répaszelet, hozzáadott melasszal, valamint amelynek kolinklorid-tartalma min. 49%) |
 
-[^39]: Az 5. számú melléklet a 20/2009. (III. 6.) FVM rendelet 6. §-a, a 136/2009. (X. 16.) FVM rendelet 8. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 9. § (1) bekezdése alapján a 2009. október 19-ét követően indult ügyekben kell alkalmazni.
+[^40]: Az 5. számú melléklet a 20/2009. (III. 6.) FVM rendelet 6. §-a, a 136/2009. (X. 16.) FVM rendelet 8. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 9. § (1) bekezdése alapján a 2009. október 19-ét követően indult ügyekben kell alkalmazni.
