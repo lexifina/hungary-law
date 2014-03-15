@@ -2,7 +2,7 @@
 
 a) a magánszemély,
 
-b) a jogi személy, a jogi személyiség nélküli gazdasági társaság, egyéb szervezet,
+b) a jogi személy, egyéb szervezet,
 
 c) a magánszemélyek jogi személyiséggel nem rendelkező személyi egyesülése.
 
