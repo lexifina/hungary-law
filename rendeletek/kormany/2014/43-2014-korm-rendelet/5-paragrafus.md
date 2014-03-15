@@ -1,3 +1,1 @@
-## 2–4. §[^2]
-
-[^2]: A 2–4. § a 6. § (2) bekezdése alapján 2014. március 15-én lép hatályba.
+## 4. § A közszolgálati tisztviselők személyi irataira, a közigazgatási szerveknél foglalkoztatott munkavállalók személyi irataira és a munkaügyi nyilvántartásra, a közszolgálati alapnyilvántartásra és közszolgálati statisztikai adatgyűjtésre, valamint a tartalékállományra vonatkozó egyes szabályokról szóló 45/2012. (III. 20.) Korm. rendelet 1. melléklete a 2. melléklet szerint módosul.
