@@ -4,7 +4,7 @@
 
 a) házastárs,
 
-b) a Polgári Törvénykönyvről szóló törvény szerinti élettárs,
+b)[^2] a Polgári Törvénykönyv szerinti élettárs,
 
 c) bejegyzett élettárs
 
@@ -15,3 +15,5 @@ c) bejegyzett élettárs
 (3) Az ideiglenes özvegyi ellátást öt évig kell folyósítani.
 
 (4) Az elhunyt tag házastársát vagy élettársát akkor is megilleti az ideiglenes özvegyi ellátás, ha az MMA tagjaként életjáradékban részesül.
+
+[^2]: A 3. § (1) bekezdés b) pontja a 73/2014. (III. 13.) Korm. rendelet 4. §-a szerint módosított szöveg.
