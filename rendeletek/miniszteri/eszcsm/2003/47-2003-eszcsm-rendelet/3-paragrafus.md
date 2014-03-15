@@ -20,6 +20,6 @@ f) és az aktív, valamint a passzív intézményes ellenőrzésre történő á
 
 (3) A (2) bekezdésben felsorolt engedélyezési eljárás lefolytatására az 1. § (1) bekezdésének c) pontjában meghatározott természetes személy, illetve gazdálkodó szervezet kérelme alapján kerül sor.
 
-(4)[^7]
+(4)[^8]
 
-[^7]: A 3. § (4) bekezdését a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdésének 46. pontja hatályon kívül helyezte. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1. napját követően indult eljárásokban kell alkalmazni.
+[^8]: A 3. § (4) bekezdését a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdésének 46. pontja hatályon kívül helyezte. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1. napját követően indult eljárásokban kell alkalmazni.

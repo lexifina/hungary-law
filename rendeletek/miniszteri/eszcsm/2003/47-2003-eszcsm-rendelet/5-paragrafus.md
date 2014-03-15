@@ -14,11 +14,11 @@ e) elhelyezésre történő átvételükkor a tárolóba szállított hulladék 
 
 (3) A típus-hulladékforma és típus-csomagolás átvételi és elhelyezési követelményeknek való megfelelőségét az SD által jóváhagyott tesztsorozattal kell igazolni.
 
-(4)[^8] A radioaktív hulladék kezelése során olyan hulladékformát és csomagolást kell kialakítani, amely kielégíti a hulladékot átvevő számára jóváhagyott hulladék átvételi követelményrendszert. A követelményeknek összhangban kell lenniük az átvevő által elvégezni kívánt hulladékkezelési műveletek engedélyezett feltételeivel és a további fázisok igényeivel, valamint az átvevő műszaki lehetőségeivel.
+(4)[^9] A radioaktív hulladék kezelése során olyan hulladékformát és csomagolást kell kialakítani, amely kielégíti a hulladékot átvevő számára jóváhagyott hulladék átvételi követelményrendszert. A követelményeknek összhangban kell lenniük az átvevő által elvégezni kívánt hulladékkezelési műveletek engedélyezett feltételeivel és a további fázisok igényeivel, valamint az átvevő műszaki lehetőségeivel.
 
-(5) További felhasználásra nem kerülő radioaktív anyag kibocsátása a környezetbe, illetve elhelyezése csak a külön jogszabályban[^9] meghatározott módon történhet.
+(5) További felhasználásra nem kerülő radioaktív anyag kibocsátása a környezetbe, illetve elhelyezése csak a külön jogszabályban[^10] meghatározott módon történhet.
 
 (6) Abban az esetben, ha a hulladék egyidejűleg radioaktív és veszélyes hulladék, a veszélyes hulladékokra vonatkozó biztonsági követelményeket is figyelembe kell venni. Nukleáris anyagot is tartalmazó hulladékok esetén a nukleáris anyagok kezelésére vonatkozó előírásokat is be kell tartani.
 
-[^8]: Az 5. § (4) bekezdése a 65/2013. (IX. 19.) EMMI rendelet 6. § b) pontja szerint módosított szöveg.
-[^9]: 15/2001. (VI. 6.) KöM rendelet.
+[^9]: Az 5. § (4) bekezdése a 65/2013. (IX. 19.) EMMI rendelet 6. § b) pontja szerint módosított szöveg.
+[^10]: 15/2001. (VI. 6.) KöM rendelet.
