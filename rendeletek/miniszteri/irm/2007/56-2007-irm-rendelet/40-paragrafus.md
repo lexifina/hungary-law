@@ -6,7 +6,7 @@ b) a jogi segítő nevét,
 
 c) a számla sorszámát,
 
-d)[^26] a jogi segítő pénzforgalmi számlájának számát,
+d)[^27] a jogi segítő pénzforgalmi számlájának számát,
 
 e) a támogatás engedélyezése iránti eljárás ügyszámát.
 
@@ -20,4 +20,4 @@ c) a teljesítési határidőt.
 
 (3) A központi hivatal a kifizetendő összegek listáján szereplő összeget a jogi segítő részére a lista kézhezvételétől számított 8 munkanapon belül a „Jogi segítségnyújtás” elnevezésű célelőirányzat (a továbbiakban: célelőirányzat) terhére utalja át.
 
-[^26]: A 40. § (1) bekezdés d) pontja a 48/2009. (IX. 28.) IRM rendelet 31. § (2) bekezdés a) pontja szerint módosított szöveg. E módosító rendelet 33. § (1) bekezdése alapján a rendelkezést a 2009. november 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^27]: A 40. § (1) bekezdés d) pontja a 48/2009. (IX. 28.) IRM rendelet 31. § (2) bekezdés a) pontja szerint módosított szöveg. E módosító rendelet 33. § (1) bekezdése alapján a rendelkezést a 2009. november 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
