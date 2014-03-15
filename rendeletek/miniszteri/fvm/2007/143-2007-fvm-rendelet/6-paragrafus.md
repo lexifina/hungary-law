@@ -1,6 +1,6 @@
-## 5. §[^11] A madárinfluenza bejelentési kötelezettség alá tartozó betegség. A betegség vagy gyanújának észlelése esetén az állatbetegségek bejelentésének rendjéről szóló miniszteri rendelet előírásait is alkalmazni kell.
+## 5. §[^12] A madárinfluenza bejelentési kötelezettség alá tartozó betegség. A betegség vagy gyanújának észlelése esetén az állatbetegségek bejelentésének rendjéről szóló miniszteri rendelet előírásait is alkalmazni kell.
 
-6. § (1)[^12] A madárinfluenza járványnak a hatósági főállatorvos által
+6. § (1)[^13] A madárinfluenza járványnak a hatósági főállatorvos által
 
 a) gazdaságokban,
 
@@ -20,5 +20,5 @@ e) a baromfi vagy más, fogságban tartott madarak behozatalára vonatkozó köz
 
 (4) Az országos főállatorvos az emlősökön madárinfluenza vírus tekintetében végzett megfigyelés eredményeit jelenti a Bizottságnak.
 
-[^11]: Az 5. § a 42/2010. (IV. 22.) FVM rendelet 3. §-ával megállapított szöveg.
-[^12]: A 6. § (1) bekezdése a 42/2010. (IV. 22.) FVM rendelet 13. § d) pontja szerint módosított szöveg.
+[^12]: Az 5. § a 42/2010. (IV. 22.) FVM rendelet 3. §-ával megállapított szöveg.
+[^13]: A 6. § (1) bekezdése a 42/2010. (IV. 22.) FVM rendelet 13. § d) pontja szerint módosított szöveg.

@@ -42,7 +42,7 @@ b) kedvtelésből
 
 13. termelési egység: a gazdaságon belüli olyan egység, amelyet a hatósági állatorvos az ugyanabban a gazdaságban lévő más egységektől teljesen függetlennek minősít annak elhelyezkedése, és az ott tartott baromfi vagy más, fogságban tartott madarak napi ellátása szempontjából;
 
-14. tulajdonos: olyan természetes vagy jogi személy, illetve jogi személyiség nélküli gazdasági társaság, amely baromfi vagy más, fogságban tartott madarak tulajdonjogával rendelkezik, vagy ilyenek tartását végzi, akár kereskedelmi céllal, akár anélkül;
+14.[^1] tulajdonos: olyan természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező szervezet, amely baromfi vagy más, fogságban tartott madarak tulajdonjogával rendelkezik, vagy ilyenek tartását végzi, akár kereskedelmi céllal, akár anélkül;
 
 15. állomány: az egy termelési egységen belül tartott összes baromfi vagy más, fogságban tartott szárnyas;
 
@@ -54,13 +54,13 @@ b) kedvtelésből
 
 19. kontaktgazdaság: olyan gazdaság, ahonnan a madárinfluenza vírus máshová bekerülhetett, vagy amelybe a madárinfluenza vírust annak fekvése, a személyek, baromfi vagy más, fogságban tartott madarak, vagy járművek mozgása eredményeképpen vagy bármely más módon behurcolhatták;
 
-20.[^1]
+20.[^2]
 
-21.[^2] igazgatóság: a megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatósága;
+21.[^3] igazgatóság: a megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatósága;
 
 22. hatósági megfigyelés: egy adott gazdaságban tartott baromfi vagy más, fogságban tartott madár vagy emlős egészségügyi állapotának a hatósági állatorvos által végzett, madárinfluenzára irányuló gondos figyelemmel kísérése;
 
-23.[^3] hatósági felügyelet: az állategészségügyi hatóság intézkedései annak ellenőrzésére, hogy az e rendeletben foglalt követelményeket, valamint az állategészségügyi hatóságtól származó, az említett követelmények teljesítésére vonatkozó utasításokat betartották, illetve betartják-e;
+23.[^4] hatósági felügyelet: az állategészségügyi hatóság intézkedései annak ellenőrzésére, hogy az e rendeletben foglalt követelményeket, valamint az állategészségügyi hatóságtól származó, az említett követelmények teljesítésére vonatkozó utasításokat betartották, illetve betartják-e;
 
 24. leölés: minden olyan eljárás a levágáson kívül, amely egy emlős, baromfi vagy más, fogságban tartott madár halálát okozza;
 
@@ -70,29 +70,30 @@ b) kedvtelésből
 
 a) a nem emberi fogyasztásra szánt állati melléktermékekre vonatkozó egészségügyi előírások megállapításáról szóló, 2002. október 3-i 1774/2002/EK európai parlamenti és tanácsi rendelet, vagy
 
-b)[^4] az állati hulladékok kezelésének és a hasznosításukkal készült termékek forgalomba hozatalának állat-egészségügyi szabályairól szóló miniszteri rendeletben meghatározott szabályok szerint;
+b)[^5] az állati hulladékok kezelésének és a hasznosításukkal készült termékek forgalomba hozatalának állat-egészségügyi szabályairól szóló miniszteri rendeletben meghatározott szabályok szerint;
 
 27. elsődleges járványkitörés: olyan járványkitörés, amely járványtanilag nem kapcsolódik azonos megyében korábban előfordult kitöréshez, vagy egy másik megyében történt első járványkitörés;
 
-28.[^5] járványkitörés gyanúja: ha az állategészségügyi hatóság egy gazdaságban a madárinfluenza jelenlétére gyanakszik, mert a kórokozó vírust laboratóriumban kimutatták, de annak további tulajdonságait még nem határozták meg, vagy a klinikai tünetek, és a kórbonctani elváltozások alapján járványkitörés kialakulásától lehet tartani;
+28.[^6] járványkitörés gyanúja: ha az állategészségügyi hatóság egy gazdaságban a madárinfluenza jelenlétére gyanakszik, mert a kórokozó vírust laboratóriumban kimutatták, de annak további tulajdonságait még nem határozták meg, vagy a klinikai tünetek, és a kórbonctani elváltozások alapján járványkitörés kialakulásától lehet tartani;
 
-29.[^6] járványkitörés: madárinfluenza megállapítása valamely gazdaságban az állategészségügyi hatóság által az 1. pontban meghatározott kórokozó vírus kimutatásával, illetve az elsődleges járványkitöréssel összefüggésbe hozható további járványkitörés esetén a madárinfluenzára jellemző klinikai tünetek és kórbonctani elváltozások alapján;
+29.[^7] járványkitörés: madárinfluenza megállapítása valamely gazdaságban az állategészségügyi hatóság által az 1. pontban meghatározott kórokozó vírus kimutatásával, illetve az elsődleges járványkitöréssel összefüggésbe hozható további járványkitörés esetén a madárinfluenzára jellemző klinikai tünetek és kórbonctani elváltozások alapján;
 
 30. a fertőzött és beoltott állatok megkülönböztetésének stratégiája (DIVA-stratégia): olyan védőoltás-stratégia, amely lehetővé teszi a beoltott/fertőzött és a beoltott/nem fertőzött állatok megkülönböztetését, a vadvírus elleni antitestek kimutatására tervezett diagnosztikai vizsgálat és a be nem oltott jelzőmadarak alkalmazásával;
 
 31. járványvédelem: azon megelőző biológiai biztonsági intézkedések összessége, amely az állat, illetve állatállomány kórokozóval történő fertőződésének kockázatát csökkentik;
 
-32.[^7] Helyi Járványvédelmi Központ (HJK): az élelmiszerlánc-biztonsági és állategészségügyi igazgatóságon belüli, járványfelszámolást irányító szervezet, melynek felállítását az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság vezetője rendeli el járványkitörés vagy annak gyanúja esetén;
+32.[^8] Helyi Járványvédelmi Központ (HJK): az élelmiszerlánc-biztonsági és állategészségügyi igazgatóságon belüli, járványfelszámolást irányító szervezet, melynek felállítását az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság vezetője rendeli el járványkitörés vagy annak gyanúja esetén;
 
-33.[^8] Országos Járványvédelmi Központ (OJK): a Nemzeti Élelmiszerlánc-biztonsági Hivatalon belüli, járványfelszámolást irányító országos szervezet, melynek felállítását az országos főállatorvos rendeli el járványkitörés vagy annak gyanúja esetén;
+33.[^9] Országos Járványvédelmi Központ (OJK): a Nemzeti Élelmiszerlánc-biztonsági Hivatalon belüli, járványfelszámolást irányító országos szervezet, melynek felállítását az országos főállatorvos rendeli el járványkitörés vagy annak gyanúja esetén;
 
 34. emlős: az emlősök osztályába tartozó állat.
 
-[^1]: A 2. § 20. pontját a 42/2010. (IV. 22.) FVM rendelet 14. § a) pontja hatályon kívül helyezte.
-[^2]: A 2. § 21. pontja a 42/2010. (IV. 22.) FVM rendelet 14. § b) pontja, a 70/2013. (VII. 31.) VM rendelet 83. § a) pontja szerint módosított szöveg.
-[^3]: A 2. § 23. pontja a 42/2010. (IV. 22.) FVM rendelet 14. § b) pontja szerint módosított szöveg.
-[^4]: A 2. § 26. pont b) alpontja a 42/2010. (IV. 22.) FVM rendelet 12. § a) pontja szerint módosított szöveg.
-[^5]: A 2. § 28. pontja a 42/2010. (IV. 22.) FVM rendelet 14. § b) pontja szerint módosított szöveg.
-[^6]: A 2. § 29. pontja a 42/2010. (IV. 22.) FVM rendelet 14. § b) pontja szerint módosított szöveg.
-[^7]: A 2. § 32. pontja a 70/2013. (VII. 31.) VM rendelet 83. § b)–c) pontja szerint módosított szöveg.
-[^8]: A 2. § 33. pontja a 70/2013. (VII. 31.) VM rendelet 83. § d) pontja szerint módosított szöveg.
+[^1]: A 2. § 14. pontja a 22/2014. (III. 14.) VM rendelet 52. §-a szerint módosított szöveg.
+[^2]: A 2. § 20. pontját a 42/2010. (IV. 22.) FVM rendelet 14. § a) pontja hatályon kívül helyezte.
+[^3]: A 2. § 21. pontja a 42/2010. (IV. 22.) FVM rendelet 14. § b) pontja, a 70/2013. (VII. 31.) VM rendelet 83. § a) pontja szerint módosított szöveg.
+[^4]: A 2. § 23. pontja a 42/2010. (IV. 22.) FVM rendelet 14. § b) pontja szerint módosított szöveg.
+[^5]: A 2. § 26. pont b) alpontja a 42/2010. (IV. 22.) FVM rendelet 12. § a) pontja szerint módosított szöveg.
+[^6]: A 2. § 28. pontja a 42/2010. (IV. 22.) FVM rendelet 14. § b) pontja szerint módosított szöveg.
+[^7]: A 2. § 29. pontja a 42/2010. (IV. 22.) FVM rendelet 14. § b) pontja szerint módosított szöveg.
+[^8]: A 2. § 32. pontja a 70/2013. (VII. 31.) VM rendelet 83. § b)–c) pontja szerint módosított szöveg.
+[^9]: A 2. § 33. pontja a 70/2013. (VII. 31.) VM rendelet 83. § d) pontja szerint módosított szöveg.

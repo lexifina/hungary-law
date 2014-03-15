@@ -1,3 +1,3 @@
-6. számú melléklet a 143/2007. (XII. 4.) FVM rendelethez[^76]
+6. számú melléklet a 143/2007. (XII. 4.) FVM rendelethez[^77]
 
-[^76]: A 6. számú mellékletet a 42/2010. (IV. 22.) FVM rendelet 14. § i) pontja hatályon kívül helyezte.
+[^77]: A 6. számú mellékletet a 42/2010. (IV. 22.) FVM rendelet 14. § i) pontja hatályon kívül helyezte.
