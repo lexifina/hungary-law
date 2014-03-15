@@ -2,7 +2,7 @@
 
 1. § (1) A rendelet hatálya kiterjed
 
-a) a szélerőművi kapacitás-létesítési jogosultságot igénylő, a Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) 685. § c) pontjában meghatározott, belföldi székhellyel rendelkező gazdálkodó szervezetre, valamint a Magyar Energia Hivatalra (a továbbiakban: Hivatal),
+a)[^1] a szélerőművi kapacitás-létesítési jogosultságot igénylő, a polgári perrendtartásról szóló törvény szerinti, belföldi székhellyel rendelkező gazdálkodó szervezetre, valamint a Magyar Energetikai és Közmű-szabályozási Hivatalra (a továbbiakban: Hivatal),
 
 b) az elosztó vagy átviteli hálózathoz csatlakozó olyan szélerőműre, amely
 
@@ -19,3 +19,5 @@ cb) szerinti, az elosztó vagy átviteli hálózathoz nem csatlakozó kiserőmű
 ## (a továbbiakban együtt: létesítés) irányuló pályázati kiírás feltételeire, a pályázat minimális tartalmi követelményeire, valamint a pályázati eljárásra.
 
 (2) Nem terjed ki a rendelet hatálya a villamosműhöz nem csatlakozó és a háztartási méretű szélerőműre.
+
+[^1]: Az 1. § (1) bekezdés a) pontja a 12/2014. (III. 14.) NFM rendelet 20. § a) pontja szerint módosított szöveg.
