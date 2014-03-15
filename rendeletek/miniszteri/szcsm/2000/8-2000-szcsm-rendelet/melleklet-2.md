@@ -74,7 +74,7 @@
 
 | 9. utógondozó | 21. gyermekvédelmi ügyintéző | 34. munkaoktató |
 
-| 10. gondozási központ vezető | 22. nevelőszülői tanácsadó | 35. |
+| 10. gondozási központ vezető | 22. nevelőszülői tanácsadó | 35. közvetítő |
 
 | 11. klubvezető | 23. örökbefogadási tanácsadó | 36. hivatásos gondnok |
 
