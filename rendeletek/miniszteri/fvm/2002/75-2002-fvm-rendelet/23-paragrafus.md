@@ -1,6 +1,6 @@
-23. § (1)[^58] Az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság a vakcinázási időszak alatt a következőkről gondoskodik:
+23. § (1)[^60] Az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság a vakcinázási időszak alatt a következőkről gondoskodik:
 
-a)[^59] a vakcinázási övezetet élő sertés nem hagyhatja el, kivéve, ha azonnali vágás céljából az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság által kijelölt, a vakcinázási övezetben vagy ahhoz közel található vágóhídra vagy – ártalmatlanítás céljából – feldolgozóüzembe szállítják;
+a)[^61] a vakcinázási övezetet élő sertés nem hagyhatja el, kivéve, ha azonnali vágás céljából az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság által kijelölt, a vakcinázási övezetben vagy ahhoz közel található vágóhídra vagy – ártalmatlanítás céljából – feldolgozóüzembe szállítják;
 
 b) az összes, a vészvakcinázás során vakcinázott sertésből előállított friss sertéshúst vagy ártalmatlanítják, vagy a 12. § (3) bekezdésében foglalt rendelkezéseknek megfelelően megjelölik és kezelik;
 
@@ -18,13 +18,13 @@ c) szeropozitív kocák malacainak a származási gazdaságból történő kisz�
 
 ca) azonnali vágás vágóhídon,
 
-cb)[^60] az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság által kijelölt gazdaság, ahonnan közvetlenül vágóhídra szállítják,
+cb)[^62] az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság által kijelölt gazdaság, ahonnan közvetlenül vágóhídra szállítják,
 
 cc) egy másik gazdaság, miután a szerológiai teszt a klasszikus sertéspestis vírusával szemben termelődő ellenanyagokra nézve negatív eredménnyel zárult.
 
 (4) A vészvakcinázást a minisztérium akkor is elrendelheti, ha
 
-a)[^61] a vakcinázási műveletek elkezdése előtt az élelmiszerlánc-biztonsági és állategészségügyi igazgatósággal vészvakcinázási tervet készíttet;
+a)[^63] a vakcinázási műveletek elkezdése előtt az élelmiszerlánc-biztonsági és állategészségügyi igazgatósággal vészvakcinázási tervet készíttet;
 
 b) a 22. §-ban felsorolt információkon túlmenően a terv előírja, hogy a vakcinázási műveletek befejezését követően a vakcinázott összes sertést a lehető legrövidebb időn belül levágják, az (1) bekezdés a) pontjában szabályozott rendelkezéseknek megfelelően. A levágott sertésekből származó friss húst vagy ártalmatlanítják, vagy megjelölik és a 12. § (3) bekezdésében foglalt rendelkezéseknek megfelelően kezelik.
 
@@ -34,7 +34,7 @@ a) az (1) bekezdés a) pontjában szabályozott rendelkezéseknek megfelelően a
 
 b) az összes gazdaságban, ahol vakcinázott sertéseket tartottak, a 14. §-nak megfelelően elvégezték a takarítási és fertőtlenítési műveleteket.
 
-(6)[^62] Amennyiben az (1) bekezdés szerint elrendelt intézkedéseket felfüggesztették, az élelmiszerlánc-biztonsági és állategészségügyi igazgatóságnak biztosítani kell, hogy
+(6)[^64] Amennyiben az (1) bekezdés szerint elrendelt intézkedéseket felfüggesztették, az élelmiszerlánc-biztonsági és állategészségügyi igazgatóságnak biztosítani kell, hogy
 
 a) a sertéseket az (5) bekezdés b) pontja szerinti gazdaságokba a takarítási és fertőtlenítési műveletek befejezését követően legalább 10 napig ne telepítsék be újra;
 
@@ -44,13 +44,13 @@ b) a sertéseket az újratelepítést követően a vakcinázási övezetben tal�
 
 a) a vakcinázási tervet a vakcinázási műveletek megkezdése előtt, a 22. §-ban foglalt rendelkezéseknek megfelelően a minisztérium jóváhagyta;
 
-b)[^63] az érintett élelmiszerlánc-biztonsági és állategészségügyi igazgatóság külön kérelmet nyújt be a minisztériumnál, amely a vakcinázási program kivitelezését, eredményeit és a járványügyi helyzet egészét bemutató átfogó jelentést tartalmaz; és
+b)[^65] az érintett élelmiszerlánc-biztonsági és állategészségügyi igazgatóság külön kérelmet nyújt be a minisztériumnál, amely a vakcinázási program kivitelezését, eredményeit és a járványügyi helyzet egészét bemutató átfogó jelentést tartalmaz; és
 
 c) a 25. §-ban foglaltak alapján elvégezték a vakcinázási kampány végrehajtásának helyszíni ellenőrzését.
 
-[^58]: A 23. § (1) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 20. § e) pontja szerint módosított szöveg.
-[^59]: A 23. § (1) bekezdés a) pontja a 70/2013. (VII. 31.) VM rendelet 20. § e) pontja szerint módosított szöveg.
-[^60]: A 23. § (3) bekezdés c) pont cb) alpontja a 70/2013. (VII. 31.) VM rendelet 20. § e) pontja szerint módosított szöveg.
-[^61]: A 23. § (4) bekezdés a) pontja a 70/2013. (VII. 31.) VM rendelet 20. § q) pontja szerint módosított szöveg.
-[^62]: A 23. § (6) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 20. § n) pontja szerint módosított szöveg.
-[^63]: A 23. § (7) bekezdés b) pontja a 70/2013. (VII. 31.) VM rendelet 20. § e) pontja szerint módosított szöveg.
+[^60]: A 23. § (1) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 20. § e) pontja szerint módosított szöveg.
+[^61]: A 23. § (1) bekezdés a) pontja a 70/2013. (VII. 31.) VM rendelet 20. § e) pontja szerint módosított szöveg.
+[^62]: A 23. § (3) bekezdés c) pont cb) alpontja a 70/2013. (VII. 31.) VM rendelet 20. § e) pontja szerint módosított szöveg.
+[^63]: A 23. § (4) bekezdés a) pontja a 70/2013. (VII. 31.) VM rendelet 20. § q) pontja szerint módosított szöveg.
+[^64]: A 23. § (6) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 20. § n) pontja szerint módosított szöveg.
+[^65]: A 23. § (7) bekezdés b) pontja a 70/2013. (VII. 31.) VM rendelet 20. § e) pontja szerint módosított szöveg.

@@ -2,7 +2,7 @@
 
 ## Nemzeti sertéspestis-laboratórium
 
-1.[^73] Magyarországon a nemzeti sertéspestis laboratórium a Nemzeti Élelmiszerlánc-biztonsági Hivatal (1024 Budapest, Keleti Károly u. 24.).
+1.[^75] Magyarországon a nemzeti sertéspestis laboratórium a Nemzeti Élelmiszerlánc-biztonsági Hivatal (1024 Budapest, Keleti Károly u. 24.).
 
 2. A nemzeti klasszikus (afrikai) sertéspestis-laboratóriumok felelősek azért, hogy a klasszikus (afrikai) sertéspestis jelenlétének kimutatására és a vírus-izolátumok genotípusának azonosítására szolgáló laboratóriumi vizsgálatokat a diagnosztikai kézikönyv alapján végezzék el. Ebből a célból külön megállapodásokat köthetnek a közösségi referencialaboratóriummal és a többi nemzeti laboratóriummal.
 
@@ -16,4 +16,4 @@ c) időszakosan összehasonlító teszteket végeznek;
 
 d) megőrzik az adott tagállamban megállapított esetekből és kitörésekből származó klasszikus (afrikai) sertéspestis-vírusizolátumokat.
 
-[^73]: A 4. számú melléklet 1. pontja a 70/2013. (VII. 31.) VM rendelet 20. § s) pontja szerint módosított szöveg.
+[^75]: A 4. számú melléklet 1. pontja a 70/2013. (VII. 31.) VM rendelet 20. § s) pontja szerint módosított szöveg.

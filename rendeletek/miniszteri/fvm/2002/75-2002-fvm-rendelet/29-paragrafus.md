@@ -1,3 +1,3 @@
-29. §[^68]
+29. §[^70]
 
-[^68]: A 29. §-t és az előtte lévő alcímet a 98/2003. (VIII. 22.) FVM rendelet 24. §-a (3) bekezdésének b) pontja hatályon kívül helyezte.
+[^70]: A 29. §-t és az előtte lévő alcímet a 98/2003. (VIII. 22.) FVM rendelet 24. §-a (3) bekezdésének b) pontja hatályon kívül helyezte.

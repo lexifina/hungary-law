@@ -1,4 +1,4 @@
-12. számú melléklet a 75/2002. (VIII. 16.) FVM rendelethez[^79]
+12. számú melléklet a 75/2002. (VIII. 16.) FVM rendelethez[^81]
 
 ………………………… Járási Állategészségügyi Ikt. sz.:
 
@@ -86,4 +86,4 @@ ___________
 
 * A nem kívánt rész törlendő.
 
-[^79]: A Magyar Közlöny 2002. évi 129. számában megjelent helyesbítésnek megfelelő szöveg. A 12. számú melléklet a 151/2012. (XII. 29.) VM rendelet 13. § c)–d) pontja, a 70/2013. (VII. 31.) VM rendelet 20. § v) pontja szerint módosított szöveg.
+[^81]: A Magyar Közlöny 2002. évi 129. számában megjelent helyesbítésnek megfelelő szöveg. A 12. számú melléklet a 151/2012. (XII. 29.) VM rendelet 13. § c)–d) pontja, a 70/2013. (VII. 31.) VM rendelet 20. § v) pontja szerint módosított szöveg.

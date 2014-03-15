@@ -1,4 +1,4 @@
-11. számú melléklet a 75/2002. (VIII. 16.) FVM rendelethez[^78]
+11. számú melléklet a 75/2002. (VIII. 16.) FVM rendelethez[^80]
 
 ………………………… Járási Állategészségügyi Ikt. sz.:
 
@@ -64,4 +64,4 @@ ___________
 
 * A nem kívánt rész törlendő.
 
-[^78]: A 11. számú melléklet a 151/2012. (XII. 29.) VM rendelet 13. § c)–d) pontja, a 70/2013. (VII. 31.) VM rendelet 20. § v) pontja szerint módosított szöveg.
+[^80]: A 11. számú melléklet a 151/2012. (XII. 29.) VM rendelet 13. § c)–d) pontja, a 70/2013. (VII. 31.) VM rendelet 20. § v) pontja szerint módosított szöveg.

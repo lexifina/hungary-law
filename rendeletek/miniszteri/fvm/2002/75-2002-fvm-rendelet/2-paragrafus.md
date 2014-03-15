@@ -32,7 +32,7 @@ b) a betegség jelenlétét a diagnosztikai kézikönyvben foglaltak szerint vé
 
 12. fertőzésnek kitett vaddisznó-populáció: olyan vaddisznóállomány, melynek vére nem tartalmaz ellenanyagot a klasszikus sertéspestis vírusával szemben;
 
-13. sertéstartó: olyan természetes vagy jogi személy, valamint jogi személyiség nélküli gazdasági társaság, akinek sertés van a tulajdonában, illetve sertést tart;
+13.[^4] sertéstartó: olyan természetes vagy jogi személy, valamint jogi személyiséggel nem rendelkező szervezet, akinek sertés van a tulajdonában, illetve sertést tart;
 
 14. élelmiszer-hulladék: az emberi fogyasztásra szánt élelmiszerekből származó bármely hulladék, amely éttermekből, feldolgozóüzemekből, konyhákból vagy a sertéstartó személy háztartásából kerül ki;
 
@@ -49,3 +49,5 @@ b) a betegség jelenlétét a diagnosztikai kézikönyvben foglaltak szerint vé
 20. klasszikus sertéspestis megbetegedéstől mentes terület: olyan 20 km átmérőjű terület, ahol a szállítást megelőző negyven napon belül nem fordult elő klasszikus sertéspestis megbetegedés;
 
 21. jelzősertés: az a sertés, amelyet a klasszikus sertéspestis vírusával szembeni ellenanyagok jelenlétére megvizsgáltak és negatívnak találtak, vagy amely a zárlat alatt álló területen kívüli gazdaságból származik.
+
+[^4]: A 2. § 13. pontja a 22/2014. (III. 14.) VM rendelet 12. § b) pontja szerint módosított szöveg.

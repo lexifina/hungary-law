@@ -1,6 +1,6 @@
 ## Tervek a klasszikus sertéspestisnek egy vaddisznóállományban történő felszámolására
 
-18. § (1)[^53] Az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság – a 17. §-ban meghatározott intézkedések sérelme nélkül – a klasszikus sertéspestis vaddisznókban történt első előfordulásának megállapítását követő 90 napon belül írásos tervezetet nyújt be a minisztériumnak, a fertőzöttnek nyilvánított területen a betegség felszámolására és a területen található gazdaságok sertésállományainak megvédésére.
+18. § (1)[^55] Az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság – a 17. §-ban meghatározott intézkedések sérelme nélkül – a klasszikus sertéspestis vaddisznókban történt első előfordulásának megállapítását követő 90 napon belül írásos tervezetet nyújt be a minisztériumnak, a fertőzöttnek nyilvánított területen a betegség felszámolására és a területen található gazdaságok sertésállományainak megvédésére.
 
 (2) A minisztérium a tervet megvizsgálja és megállapítja, hogy annak alapján a kívánt cél elérhető-e. A tervet – szükség esetén módosításokkal – jóváhagyja. A terv később – a szerzett tapasztalatok figyelembevételével – módosítható vagy kiegészíthető.
 
@@ -10,7 +10,7 @@
 
 a) a 17. § szerint végzett járványtani vizsgálatok és ellenőrzések eredményeiről, valamint a betegség földrajzi eloszlásáról;
 
-b)[^54] a fertőzött terület kiterjedéséről, melynek meghatározásakor az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság az a) pontban foglaltakon túl az alábbiakat veszi figyelembe:
+b)[^56] a fertőzött terület kiterjedéséről, melynek meghatározásakor az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság az a) pontban foglaltakon túl az alábbiakat veszi figyelembe:
 
 ba) a terület vaddisznóállománya,
 
@@ -60,5 +60,5 @@ p) a betegség monitorozására szolgáló intézkedésekről, amelyek akkor lé
 
 (5) Az adott fertőzött területen lévő járványügyi helyzetet és a betegség felszámolási terv eredményeit a minisztériumnak hathavonta kell benyújtani.
 
-[^53]: A 18. § (1) bekezdése a 70/2013. (VII. 31.) VM rendelet 20. § e) pontja szerint módosított szöveg.
-[^54]: A 18. § (4) bekezdés b) pont nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 20. § e) pontja szerint módosított szöveg.
+[^55]: A 18. § (1) bekezdése a 70/2013. (VII. 31.) VM rendelet 20. § e) pontja szerint módosított szöveg.
+[^56]: A 18. § (4) bekezdés b) pont nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 20. § e) pontja szerint módosított szöveg.

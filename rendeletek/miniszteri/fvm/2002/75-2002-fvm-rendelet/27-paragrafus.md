@@ -16,11 +16,11 @@ e) szükséges esetben a vészvakcinázás megszervezéséért és az oltási te
 
 f) kapcsolat tartásáért a diagnosztikai laboratóriumokkal, a tömegtájékoztatási eszközökkel és a rendőrhatóságokkal a speciális intézkedések biztosítása érdekében.
 
-(3)[^65] Klasszikus sertéspestis járványkitörés estén a minisztérium haladéktalanul helyi járványvédelmi központokat szerveztet az élelmiszerlánc-biztonsági és állategészségügyi igazgatósággal.
+(3)[^67] Klasszikus sertéspestis járványkitörés estén a minisztérium haladéktalanul helyi járványvédelmi központokat szerveztet az élelmiszerlánc-biztonsági és állategészségügyi igazgatósággal.
 
 (4) A nemzeti járványvédelmi központ bizonyos feladatai a helyi járványvédelmi központnak átadhatók.
 
-(5)[^66] A minisztériumnak létre kell hoznia egy folyamatosan működő szakértői csoportot, amely segíti az élelmiszerlánc-biztonsági és állategészségügyi igazgatóságot a klasszikus sertéspestis elleni védekezésben. Járványkitörés esetén a szakértői csoport segítséget nyújt az élelmiszerlánc-biztonsági és állategészségügyi igazgatóságnak:
+(5)[^68] A minisztériumnak létre kell hoznia egy folyamatosan működő szakértői csoportot, amely segíti az élelmiszerlánc-biztonsági és állategészségügyi igazgatóságot a klasszikus sertéspestis elleni védekezésben. Járványkitörés esetén a szakértői csoport segítséget nyújt az élelmiszerlánc-biztonsági és állategészségügyi igazgatóságnak:
 
 a) a járványvédelmi vizsgálatban;
 
@@ -32,5 +32,5 @@ c) a járványvédelmi intézkedések meghozatalában.
 
 (7) A nemzeti és a helyi járványvédelmi központok, valamint a szakértői csoport működéséhez és funkciójához szükséges további szempontok határozhatók meg.
 
-[^65]: A 27. § (3) bekezdése a 70/2013. (VII. 31.) VM rendelet 20. § q) pontja szerint módosított szöveg.
-[^66]: A 27. § (5) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 20. § n) és r) pontja szerint módosított szöveg.
+[^67]: A 27. § (3) bekezdése a 70/2013. (VII. 31.) VM rendelet 20. § q) pontja szerint módosított szöveg.
+[^68]: A 27. § (5) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 20. § n) és r) pontja szerint módosított szöveg.

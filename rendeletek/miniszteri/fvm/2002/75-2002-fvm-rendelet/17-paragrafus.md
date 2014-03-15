@@ -1,10 +1,10 @@
 ## A klasszikus sertéspestis vaddisznókban történő előfordulásának gyanúja és megállapítása esetén hozandó intézkedések
 
-17. § (1)[^48] Ha az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság vaddisznók fertőzöttségének gyanújáról tudomást szerez, azonnal megfelelő intézkedéseket hoz a betegség jelenlétének megállapítása vagy kizárása céljából. A sertéstartókat és a vadászokat tájékoztatja a betegség megállapításáról. Az elejtett vagy elhullva talált vaddisznókat megvizsgáltatja, beleértve a laboratóriumi vizsgálatokat is.
+17. § (1)[^50] Ha az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság vaddisznók fertőzöttségének gyanújáról tudomást szerez, azonnal megfelelő intézkedéseket hoz a betegség jelenlétének megállapítása vagy kizárása céljából. A sertéstartókat és a vadászokat tájékoztatja a betegség megállapításáról. Az elejtett vagy elhullva talált vaddisznókat megvizsgáltatja, beleértve a laboratóriumi vizsgálatokat is.
 
-(2)[^49] Ha a vaddisznókban megállapították a klasszikus sertéspestis elsődleges előfordulását, az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság azonnal meghozza a következő intézkedéseket:
+(2)[^51] Ha a vaddisznókban megállapították a klasszikus sertéspestis elsődleges előfordulását, az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság azonnal meghozza a következő intézkedéseket:
 
-a)[^50] állatorvosokból, vadászokból, vadbiológusokból és járványügyi szakértőkből álló szakértői csoportot hoz létre, amely a következőkben segíti az élelmiszerlánc-biztonsági és állategészségügyi igazgatóságot:
+a)[^52] állatorvosokból, vadászokból, vadbiológusokból és járványügyi szakértőkből álló szakértői csoportot hoz létre, amely a következőkben segíti az élelmiszerlánc-biztonsági és állategészségügyi igazgatóságot:
 
 aa) tanulmányozza a járványhelyzetet és meghatározza a fertőzött terület nagyságát,
 
@@ -14,13 +14,13 @@ ac) kidolgozza a betegség felszámolásának tervét, amelyet jóváhagyásra b
 
 ad) ellenőrzéseket végez, hogy igazolja a klasszikus sertéspestisnek a fertőzött területen történő megszüntetésére hozott intézkedések hatékonyságát;
 
-b)[^51] a kijelölt fertőzött területen a járási főállatorvos útján hatósági megfigyelés alá helyezteti a sertéstartó gazdaságokat, és különösen elrendeli:
+b)[^53] a kijelölt fertőzött területen a járási főállatorvos útján hatósági megfigyelés alá helyezteti a sertéstartó gazdaságokat, és különösen elrendeli:
 
 ba) valamennyi gazdaságban a sertések korcsoportok szerinti nyilvántartásba vételét. A nyilvántartás adatait a tulajdonosnak naprakészen kell vezetnie, azt a hatósági állatorvos kérésére be kell mutatni, aki az adatokat minden szemle alkalmával ellenőrzi. Azokban a gazdaságokban, ahol szabadon tartják a sertéseket, az első számlálást becslés alapján is el lehet végezni,
 
 bb) a gazdaságban lévő összes sertésnek a szállásán vagy más olyan helyen tartását, ahol a vaddisznóktól el lehet őket különíteni. A vaddisznók nem férhetnek hozzá olyan anyagokhoz, amelyekkel a gazdaságban lévő sertések később érintkezhetnek,
 
-bc)[^52] hogy a gazdaságba nem léphet be, vagy azt nem hagyhatja el sertés, kivéve, ha a járványügyi helyzetre tekintettel a járási főállatorvos engedélyezi,
+bc)[^54] hogy a gazdaságba nem léphet be, vagy azt nem hagyhatja el sertés, kivéve, ha a járványügyi helyzetre tekintettel a járási főállatorvos engedélyezi,
 
 bd) a sertéstartó épületek, illetve a gazdaság ki- és bejáratánál megfelelő fertőtlenítési eszköz elhelyezését,
 
@@ -38,8 +38,8 @@ d) intézkedik, hogy a klasszikus sertéspestis vírusának izolátumát a víru
 
 (3) Ha a klasszikus sertéspestis olyan területen lépett fel vaddisznókban, amely egy másik állam területéhez közel esik, az érintett államokkal együtt kell működni a betegség felszámolására irányuló intézkedések meghozatalában.
 
-[^48]: A 17. § (1) bekezdése a 70/2013. (VII. 31.) VM rendelet 20. § e) pontja szerint módosított szöveg.
-[^49]: A 17. § (2) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 20. § e) pontja szerint módosított szöveg.
-[^50]: A 17. § (2) bekezdés a) pont nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 20. § o) pontja szerint módosított szöveg.
-[^51]: A 17. § (2) bekezdés b) pontjának nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 13. § b) pontja szerint módosított szöveg.
-[^52]: A 17. § (2) bekezdés b) pont bc) alpontja a 151/2012. (XII. 29.) VM rendelet 13. § b) pontja szerint módosított szöveg.
+[^50]: A 17. § (1) bekezdése a 70/2013. (VII. 31.) VM rendelet 20. § e) pontja szerint módosított szöveg.
+[^51]: A 17. § (2) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 20. § e) pontja szerint módosított szöveg.
+[^52]: A 17. § (2) bekezdés a) pont nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 20. § o) pontja szerint módosított szöveg.
+[^53]: A 17. § (2) bekezdés b) pontjának nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 13. § b) pontja szerint módosított szöveg.
+[^54]: A 17. § (2) bekezdés b) pont bc) alpontja a 151/2012. (XII. 29.) VM rendelet 13. § b) pontja szerint módosított szöveg.

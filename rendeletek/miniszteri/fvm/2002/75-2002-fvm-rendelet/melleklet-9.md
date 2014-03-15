@@ -6,7 +6,7 @@
 
 ## b) gondoskodni kell a vészhelyzeti alapokhoz, költségvetési eszközökhöz és pénzügyi forrásokhoz való hozzáférésről úgy, hogy lefedje a klasszikus (afrikai) sertéspestis járvány elleni harc valamennyi szempontját;
 
-## c)[^75] utasítási láncot kell felállítani, mely járvány esetén biztosítja a gyors és hatékony döntéshozatali eljárást. Ha szükséges az utasítási láncot egy központi döntéshozó szerv hatósága alá kell helyezni, mely felelős a járvány elleni küzdelem valamennyi stratégiájának irányításáért. Az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság vezetőjének tagnak kell lennie ebben a szervben, és meg kell valósítania az összeköttetést a központi döntéshozó szerv és a 27. § szerinti nemzeti járványvédelmi központ között;
+## c)[^77] utasítási láncot kell felállítani, mely járvány esetén biztosítja a gyors és hatékony döntéshozatali eljárást. Ha szükséges az utasítási láncot egy központi döntéshozó szerv hatósága alá kell helyezni, mely felelős a járvány elleni küzdelem valamennyi stratégiájának irányításáért. Az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság vezetőjének tagnak kell lennie ebben a szervben, és meg kell valósítania az összeköttetést a központi döntéshozó szerv és a 27. § szerinti nemzeti járványvédelmi központ között;
 
 ## d) gondoskodni kell a megfelelő források elérhetőségéről, hogy biztosítva legyen a gyors és hatékony munka, beleértve a laboratóriumi személyzetet, eszközt és infrastruktúrát;
 
@@ -22,7 +22,7 @@
 
 ## gc) kommunikációs technikai gyakorlaton azért, hogy megszervezzen egy információs hadjáratot tekintettel egy folyamatban lévő járványra a hatóságokat, sertéstartókat és az állatorvosokat megcélozva.
 
-9. számú melléklet a 75/2002. (VIII. 16.) FVM rendelethez[^76]
+9. számú melléklet a 75/2002. (VIII. 16.) FVM rendelethez[^78]
 
 .................. Járási Állategészségügyi Ikt. sz.:
 
@@ -112,5 +112,5 @@ ___________
 
 * A nem kívánt rész törlendő.
 
-[^75]: A 8. számú melléklet c) pontja a 70/2013. (VII. 31.) VM rendelet 20. § t) pontja szerint módosított szöveg.
-[^76]: A 9. számú melléklet a 151/2012. (XII. 29.) VM rendelet 13. § c)–d) pontja, a 70/2013. (VII. 31.) VM rendelet 20. § u)–v) pontja szerint módosított szöveg.
+[^77]: A 8. számú melléklet c) pontja a 70/2013. (VII. 31.) VM rendelet 20. § t) pontja szerint módosított szöveg.
+[^78]: A 9. számú melléklet a 151/2012. (XII. 29.) VM rendelet 13. § c)–d) pontja, a 70/2013. (VII. 31.) VM rendelet 20. § u)–v) pontja szerint módosított szöveg.

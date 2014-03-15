@@ -1,4 +1,4 @@
-13. számú melléklet a 75/2002. (VIII. 16.) FVM rendelethez[^80]
+13. számú melléklet a 75/2002. (VIII. 16.) FVM rendelethez[^82]
 
 ………………………… Járási Állategészségügyi Ikt. sz:
 
@@ -78,4 +78,4 @@ ___________
 
 * A nem kívánt rész törlendő.
 
-[^80]: A 13. számú melléklet a 151/2012. (XII. 29.) VM rendelet 13. § c)–d) pontja, a 70/2013. (VII. 31.) VM rendelet 20. § w) pontja szerint módosított szöveg. [A 13. számú mellékletben a 70/2013. (VII. 31.) VM rendelet 20. § v) pontjával elrendelt módosítás, amely szerint a „... Megyei Állategészségügyi és Élelmiszer-ellenőrző Állomás” szövegrész helyébe a „... Megyei Kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatósága” szöveg lép, nem vezethető át.]
+[^82]: A 13. számú melléklet a 151/2012. (XII. 29.) VM rendelet 13. § c)–d) pontja, a 70/2013. (VII. 31.) VM rendelet 20. § w) pontja szerint módosított szöveg. [A 13. számú mellékletben a 70/2013. (VII. 31.) VM rendelet 20. § v) pontjával elrendelt módosítás, amely szerint a „... Megyei Állategészségügyi és Élelmiszer-ellenőrző Állomás” szövegrész helyébe a „... Megyei Kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatósága” szöveg lép, nem vezethető át.]
