@@ -2,7 +2,7 @@
 
 (2) Nem lehet békéltető testületi tag, aki
 
-a) a polgári jog szabályai szerint cselekvőképtelen vagy korlátozottan cselekvőképes,
+a) a polgári jog szabályai szerint cselekvőképtelen vagy cselekvőképességében bármely ügycsoportban korlátozott,
 
 b) büntetett előéletű,
 

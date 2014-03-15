@@ -24,3 +24,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-155-00-00
 | 2014-01-13 | 2013. évi CLXXXIII. törvény | 1997-155-00-00.42 |
 | 2014-02-01 | 2013. évi CCXXXI. törvény | 1997-155-00-00.43 |
 | 2014-02-18 | 2014. évi XI. törvény | 1997-155-00-00.44 |
+| 2014-03-15 | 2013. évi CCLII. törvény | 1997-155-00-00.45 |

@@ -6,11 +6,7 @@ a)
 
 b) a mintavételi költség, továbbá a laboratóriumi, illetve az egyéb vizsgálatok költségének mértékére és megfizetésére,
 
-c) a szállás időben megosztott használati joga, a hosszú távra szóló üdülési termék megszerzésére, ezek viszontértékesítésére és cseréjére irányuló, fogyasztóval kötött szerződésekre, valamint az ezekkel összefüggő tájékoztatási követelményekre,
-
-d) az üzleten kívül fogyasztóval kötött szerződésekre,
-
-e) a távollevők között létrejött szerződésekre,
+c)–e)
 
 f) a fogyasztóvédelmi hatóság által kiszabott bírságok befizetésére és a jogszabály alapján az eljáró hatóságot megillető eljárási költség felhasználására,
 

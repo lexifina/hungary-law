@@ -1,4 +1,4 @@
-26. § (1) A békéltető testületi tag az eljárásból ki van zárva, ha neki vagy hozzátartozójának [Ptk. 685. § b) pont] a vitás ügyhöz személyi vagy vagyoni érdekeltsége fűződik, illetve egyéb ok miatt elfogult, kivéve, ha a feleket erről tájékoztatta, és ennek ismeretében személye ellen egyik fél sem emelt kifogást.
+26. § (1) A békéltető testületi tag az eljárásból ki van zárva, ha neki vagy a Polgári Törvénykönyv szerinti hozzátartozójának a vitás ügyhöz személyi vagy vagyoni érdekeltsége fűződik, illetve egyéb ok miatt elfogult, kivéve, ha a feleket erről tájékoztatta, és ennek ismeretében személye ellen egyik fél sem emelt kifogást.
 
 (2) A felek, illetve az elnök által az eljáró tanácsba kijelölt testületi tag köteles a testület elnökének haladéktalanul bejelenteni és a felek előtt feltárni minden olyan körülményt, amely jogos kétségeket ébreszthet függetlensége vagy pártatlansága tekintetében.
 
