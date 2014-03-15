@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-27-20-1
 | 2012-09-01 | 2008-27-20-1U.6 | 38/2012. (VIII. 23.) KIM rendelet |
 | 2012-12-31 | 2008-27-20-1U.7 | 57/2012. (XII. 28.) KIM rendelet |
 | 2013-01-01 | 2008-27-20-1U.8 | 57/2012. (XII. 28.) KIM rendelet |
+| 2014-03-15 | 2008-27-20-1U.9 | 21/2014. (III. 13.) KIM rendelet |

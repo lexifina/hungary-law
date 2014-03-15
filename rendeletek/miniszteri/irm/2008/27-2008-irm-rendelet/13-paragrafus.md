@@ -14,7 +14,7 @@ f)[^18] licitnapló megtekintése és kinyomtatása;
 
 g)[^19] licitnapló lezárása [a Vht. 132/F. § (7) bekezdés, ingatlanárverés esetében a 142. § folytán alkalmazandó 132/F. § (7) bekezdés];
 
-h)[^20]
+h)[^20] azon tény rögzítése, hogy az árverező meghatározott árverésre vonatkozóan az előárverezésre való jogosultságát a végrehajtónál igazolta,
 
 i) árverési vevő felhívása az árverési jegyzőkönyv aláírására és az árverési vételár kifizetésére;
 
@@ -35,5 +35,5 @@ c) a végrehajtói állásra kirendelt helyettes számára a helyettesített vag
 [^17]: A 13. § (1) bekezdés d) pontja a 38/2012. (VIII. 23.) KIM rendelet 3. §-ával megállapított szöveg.
 [^18]: A 13. § (1) bekezdés f) pontja a 38/2012. (VIII. 23.) KIM rendelet 15. § a) pontja szerint módosított szöveg.
 [^19]: A 13. § (1) bekezdés g) pontja a 38/2012. (VIII. 23.) KIM rendelet 14. § a) pontja szerint módosított szöveg.
-[^20]: A 13. § (1) bekezdés h) pontját a 38/2012. (VIII. 23.) KIM rendelet 15. § b) pontja hatályon kívül helyezte.
+[^20]: A 13. § (1) bekezdés h) pontját a 38/2012. (VIII. 23.) KIM rendelet 15. § b) pontja hatályon kívül helyezte, újonnan a 21/2014. (III. 13.) KIM rendelet 21. § (1) bekezdése iktatta be.
 [^21]: A 13. § (1) bekezdés j) pontja a 38/2012. (VIII. 23.) KIM rendelet 15. § a) pontja szerint módosított szöveg.

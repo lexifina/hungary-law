@@ -10,12 +10,12 @@ b) közzétehető összegű ajánlattal kitöltött adatlap alapján automatikus
 
 c) nem közzétehető összegű ajánlat esetén ne tegyen közzé vételi ajánlatot, hanem erről – a közzététel akadályának megjelölésével – küldjön hibaüzenetet az árverező részére.
 
-(3)[^55] Az (1) és (2) bekezdésben foglaltakat megfelelően alkalmazni kell az előárverezési jog gyakorlására szolgáló nyilatkozat megtételére is azzal, hogy az az összeg megjelölésének hiányában is közzétehető; ez a nyilatkozat minősül a megelőzően közzétett vételi ajánlat vonatkozásában megtett előárverezési jogot gyakorló nyilatkozatnak.
+(3)[^56] Az (1) és (2) bekezdésben foglaltakat megfelelően alkalmazni kell az előárverezési jog gyakorlására szolgáló nyilatkozat megtételére is azzal, hogy az az összeg megjelölésének hiányában is közzétehető; ez a nyilatkozat minősül a megelőzően közzétett vételi ajánlat vonatkozásában megtett előárverezési jogot gyakorló nyilatkozatnak. Az informatikai alkalmazást úgy kell kialakítani, hogy ha előárverezési jogot gyakorló nyilatkozat került közzétételre a licitnaplóban, közvetlenül ezt követően csak az utolsóként közzétett vételi ajánlatnál a licitküszöb összegével magasabb összegű vételi ajánlat legyen közzétehető a licitnaplóban.
 
-(4)[^56] Az átvételi ajánlat megtétele a vételi ajánlat megtételére vonatkozó, az (1) és (2) bekezdésben foglalt rendelkezések alkalmazásával történik.
+(4)[^57] Az átvételi ajánlat megtétele a vételi ajánlat megtételére vonatkozó, az (1) és (2) bekezdésben foglalt rendelkezések alkalmazásával történik.
 
-(5)[^57] Az informatikai alkalmazást úgy kell kialakítani, hogy az ingatlan folyamatos árverése során történő felhasználói név és jelszó aktiválással a vételi ajánlat automatikusan kerüljön közzétételre a licitnaplóban, valamint a Vht 159. § (4) bekezdése szerint közzétételre kerülő ingatlanárverési hirdetményhez tartozó licitnaplóban is.
+(5)[^58] Az informatikai alkalmazást úgy kell kialakítani, hogy az ingatlan folyamatos árverése során történő felhasználói név és jelszó aktiválással a vételi ajánlat automatikusan kerüljön közzétételre a licitnaplóban, valamint a Vht 159. § (4) bekezdése szerint közzétételre kerülő ingatlanárverési hirdetményhez tartozó licitnaplóban is.
 
-[^55]: A 28. § (3) bekezdése a 38/2012. (VIII. 23.) KIM rendelet 11. §-ával megállapított szöveg.
-[^56]: A 28. § (4) bekezdését a 38/2012. (VIII. 23.) KIM rendelet 11. §-a iktatta be.
-[^57]: A 28. § (5) bekezdését a 38/2012. (VIII. 23.) KIM rendelet 11. §-a iktatta be.
+[^56]: A 28. § (3) bekezdése a 21/2014. (III. 13.) KIM rendelet 21. § (3) bekezdésével megállapított szöveg.
+[^57]: A 28. § (4) bekezdését a 38/2012. (VIII. 23.) KIM rendelet 11. §-a iktatta be.
+[^58]: A 28. § (5) bekezdését a 38/2012. (VIII. 23.) KIM rendelet 11. §-a iktatta be.
