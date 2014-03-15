@@ -44,31 +44,33 @@ a) büntető ügyszakban
 
 20. egyéb (vegyes) ügy,
 
-21.[^30] harmadfokú büntetőügy,
+21.[^32] harmadfokú büntetőügy,
 
-22.[^31] fiatalkorú harmadfokú büntetőügye,
+22.[^33] fiatalkorú harmadfokú büntetőügye,
 
-23.[^32] felterjesztett kifogás az eljárás elhúzódása miatt;
+23.[^34] felterjesztett kifogás az eljárás elhúzódása miatt;
 
-b) szabálysértési ügyek
+b)[^35] szabálysértési ügyek
 
 1. szabálysértési hatóság határozata ellen benyújtott kifogás (panasz),
 
-2. elzárással is sújtható szabálysértés miatti ügy,
+2. szabálysértési elzárással is sújtható szabálysértés miatti ügy,
 
-3. elzárással is sújtható szabálysértés miatti fellebbezett ügy,
+3. szabálysértési elzárással is sújtható szabálysértés miatti fellebbezett ügy,
 
 4. szabálysértési ügyben emelt ügyészi óvás,
 
-5. a pénzbírság, a helyszíni bírság közérdekű munkára, valamint ezek és a közérdekű munka elzárásra történő átváltoztatása iránti ügy,
+5. a pénzbírság, a helyszíni bírság szabálysértési elzárásra történő átváltoztatása iránti ügy,
 
-6. szabálysértési egyéb (vegyes) ügy,
+6. a közérdekű munka szabálysértési elzárásra történő átváltoztatása iránti ügy,
 
-7. szabálysértési perújítási ügy,
+7. szabálysértési egyéb (vegyes) ügy,
 
-8.[^33] a kifogást elbíráló végzés ellen benyújtott, tárgyalás tartására irányuló kérelem;
+8. szabálysértési perújítási ügy,
 
-c) polgári ügyszakban
+9. bíróság kijelölése szabálysértési ügyben;
+
+c)[^36] polgári ügyszakban
 
 1. első fokú polgári peres ügy,
 
@@ -76,13 +78,17 @@ c) polgári ügyszakban
 
 3. polgári nemperes ügy,
 
-4. fellebbezett polgári nemperes ügy,
+4. bírósági közvetítői ügy (mediáció)
 
-5. bíróság kijelölése,
+5. fellebbezett polgári nemperes ügy,
 
-6. felülvizsgálati ügy,
+6. bíróság kijelölése,
 
-7.[^34] felterjesztett kifogás az eljárás elhúzódása miatt;
+7. felülvizsgálati ügy,
+
+8. egyéb (vegyes) ügy,
+
+9. felterjesztett kifogás az eljárás elhúzódása miatt;
 
 d) munkaügyi ügyekben
 
@@ -98,7 +104,9 @@ d) munkaügyi ügyekben
 
 6. felülvizsgálati ügy,
 
-7.[^35] felterjesztett kifogás az eljárás elhúzódása miatt;
+7.[^37] egyéb (vegyes) ügy,
+
+8.[^38] felterjesztett kifogás az eljárás elhúzódása miatt;
 
 e) közigazgatási ügyszakban
 
@@ -116,12 +124,19 @@ e) közigazgatási ügyszakban
 
 7. választási kifogás,
 
-8.[^36] felterjesztett kifogás az eljárás elhúzódása miatt.
+8.[^39] egyéb (vegyes) ügy,
 
-[^30]: A 29. § a) pontjának 21. alpontja a 18/2003. (VI. 24.) IM rendelet 75. §-ának (1) bekezdése alapján érvényét veszti és nem lép hatályba. A 29. § a) pontjának 21. alpontját újonnan a 26/2006. (V. 18.) IM rendelet 3. § (1) bekezdése iktatta be. Ez utóbbi módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^31]: A 29. § a) pontjának 22. alpontját a 26/2006. (V. 18.) IM rendelet 3. § (1) bekezdése iktatta be. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^32]: A 29. § a) pontjának 23. alpontját a 26/2006. (V. 18.) IM rendelet 3. § (1) bekezdése iktatta be. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^33]: A 29. § b) pontjának 8. alpontját a 26/2006. (V. 18.) IM rendelet 3. § (2) bekezdése iktatta be. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^34]: A 29. § c) pontjának 7. alpontját a 26/2006. (V. 18.) IM rendelet 3. § (3) bekezdése iktatta be. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^35]: A 29. § d) pontjának 7. alpontját a 26/2006. (V. 18.) IM rendelet 3. § (4) bekezdése iktatta be. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^36]: A 29. § e) pontjának 8. alpontját a 22/2004. (V. 18.) IM rendelet 18. § (3) bekezdése hatályon kívül helyezte, újonnan a 26/2006. (V. 18.) IM rendelet 3. § (5) bekezdése iktatta be. Ez utóbbi módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+9.[^40] felterjesztett kifogás az eljárás elhúzódása miatt;
+
+f)[^41] valamennyi ügyszakban a jogegységi határozat hozatalára irányuló kezdeményezés.
+
+[^32]: A 29. § a) pontjának 21. alpontja a 18/2003. (VI. 24.) IM rendelet 75. §-ának (1) bekezdése alapján érvényét veszti és nem lép hatályba. A 29. § a) pontjának 21. alpontját újonnan a 26/2006. (V. 18.) IM rendelet 3. § (1) bekezdése iktatta be. Ez utóbbi módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^33]: A 29. § a) pontjának 22. alpontját a 26/2006. (V. 18.) IM rendelet 3. § (1) bekezdése iktatta be. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^34]: A 29. § a) pontjának 23. alpontját a 26/2006. (V. 18.) IM rendelet 3. § (1) bekezdése iktatta be. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^35]: A 29. § b) pontja a 21/2014. (III. 13.) KIM rendelet 12. § (3) bekezdésével megállapított szöveg.
+[^36]: A 29. § c) pontja a 21/2014. (III. 13.) KIM rendelet 12. § (3) bekezdésével megállapított szöveg.
+[^37]: A 29. § d) pont 7. alpontját a 26/2006. (V. 18.) IM rendelet 3. § (4) bekezdése iktatta be, szövege a 21/2014. (III. 13.) KIM rendelet 12. § (4) bekezdésével megállapított szöveg.
+[^38]: A 29. § d) pont 8. alpontját a 21/2014. (III. 13.) KIM rendelet 12. § (4) bekezdése iktatta be.
+[^39]: A 29. § e) pont 8. alpontját a 22/2004. (V. 18.) IM rendelet 18. § (3) bekezdése hatályon kívül helyezte, újonnan a 26/2006. (V. 18.) IM rendelet 3. § (5) bekezdése iktatta be, szövege a 21/2014. (III. 13.) KIM rendelet 12. § (5) bekezdésével megállapított szöveg.
+[^40]: A 29. § e) pont 9. alpontját a 21/2014. (III. 13.) KIM rendelet 12. § (5) bekezdése iktatta be.
+[^41]: A 29. § f) pontját a 21/2014. (III. 13.) KIM rendelet 12. § (6) bekezdése iktatta be.

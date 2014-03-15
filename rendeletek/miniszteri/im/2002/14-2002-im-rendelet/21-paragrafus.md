@@ -1,3 +1,3 @@
-## A gondnokoltak és gondnokaik, a támogatott személyek és támogatóik, valamint az előzetes jognyilatkozatok nyilvántartása[^24]
+## A gondnokoltak és az előzetes jognyilatkozatok nyilvántartása[^26]
 
-[^24]: A 21. §-t megelőző alcím a 18/2010. (IV. 30.) IRM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^26]: A 21. §-t megelőző alcím a 21/2014. (III. 13.) KIM rendelet 12. § (2) bekezdésével megállapított szöveg.
