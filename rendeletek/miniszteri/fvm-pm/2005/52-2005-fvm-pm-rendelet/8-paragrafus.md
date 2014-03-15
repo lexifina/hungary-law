@@ -1,4 +1,4 @@
-8. § (1)[^10] Amennyiben az import takarmány Magyarország államhatárán keresztül lép be az Európai Unió területére, és Magyarország területén kívánják szabad forgalomba bocsátani, a 6. § (2), (3) és (6) bekezdését értelemszerűen alkalmazni kell azzal, hogy a behozatal-ellenőrzési dokumentum alatt bejelentő lapot kell érteni. A bejelentő lap I. részét az importőr, illetve megbízottja tölti ki.
+8. § (1)[^11] Amennyiben az import takarmány Magyarország államhatárán keresztül lép be az Európai Unió területére, és Magyarország területén kívánják szabad forgalomba bocsátani, a 6. § (2), (3) és (6) bekezdését értelemszerűen alkalmazni kell azzal, hogy a behozatal-ellenőrzési dokumentum alatt bejelentő lapot kell érteni. A bejelentő lap I. részét az importőr, illetve megbízottja tölti ki.
 
 (2) A 4. § (1) bekezdésének a) pontja szerinti dokumentum-ellenőrzés során a határvámhivatal ellenőrzi különösen
 
@@ -12,4 +12,4 @@ b) a bejelentő lap kitöltését.
 
 (5) Az importőr köteles a behozataltól számított 18 hónapig a bejelentő lap, illetve a laboratóriumi vizsgálatok eredményeinek eredeti példányát megőrizni, és azt az ellenőrzés során bemutatni.
 
-[^10]: A 8. § (1) bekezdése az 5/2012. (II. 10.) VM rendelet 19. § a) pontja szerint módosított szöveg.
+[^11]: A 8. § (1) bekezdése az 5/2012. (II. 10.) VM rendelet 19. § a) pontja szerint módosított szöveg.
