@@ -1,4 +1,4 @@
-5. számú melléklet a 13/1991. (XI. 26.) IM rendelethez[^105]
+5. számú melléklet a 13/1991. (XI. 26.) IM rendelethez[^106]
 
 STATISZTIKAI JELENTÉS
 
@@ -38,9 +38,9 @@ a ....... év ............... hónapjában elintézett ügyekről
 
 3. Közjegyzői nemperes ügyek – kivéve a végrehajtás elrendelése iránti ügyek
 
-1. Hagyatéki ügy 2. Értékpapír- és okirat semmissé nyilvánítási ügy 3. Zálogjogi nyilvántartással összefüggő ügy 4. Szakértői kirendelés 5. Előzetes bizonyítás 6. Bejegyzett élettársi kapcsolat megszüntetése 7. Záradéki tanúsítványok készítése során közreműködés megtagadása 8. Gépjármű zálognyilvántartás 9/a. Élettársi kapcsolat fennállásáról szóló nyilatkozat bejegyzése 9/b. Élettársi kapcsolat fenn nem állásáról szóló nyilatkozat bejegyzése 10. Európai fizetési meghagyásos ügy 11. Összesen
+1. Hagyatéki ügy 2. Értékpapír- és okirat semmissé nyilvánítási ügy 3. Zálogjogi nyilvántartással összefüggő ügy 4. Szakértői kirendelés 5. Előzetes bizonyítás 6. Bejegyzett élettársi kapcsolat megszüntetése 7. Záradéki tanúsítványok készítése során közreműködés megtagadása 8. Gépjármű zálognyilvántartás 9/a. Élettársi kapcsolat fennállásáról szóló nyilatkozat bejegyzése 9/b. Élettársi kapcsolat fenn nem állásáról szóló nyilatkozat bejegyzése 10. Európai fizetési meghagyásos ügy 11. Hitelbiztosítéki nyilvántartásba bejegyzett jogosult vagy kötelezett jogutódjának megállapítására irányuló nemperes eljárás 12. A házassági és az élettársi vagyonjogi szerződések elektronikus nyilvántartásába történő bejegyzésére és a bejegyzett vagyonjogi szerződés módosítása, törlése, megszüntetése vagy megszűnése tényének bejegyzésére irányuló nemperes eljárás 13/a. közjegyzői letétbevételi kérelem záradékolása 13/b. közjegyzői letét kiutalásáról szóló határozat 14. Összesen
 
-1M41338M_2
+4K03821M_2
 
 | Az ügyek száma, megoszlása az eljárás időtartama szerint | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 |
 
@@ -138,4 +138,4 @@ a ....... év ............... hónapjában elintézett ügyekről
 
 * Azokban az esetekben, amelyeknél egyidejűleg vannak folyamatban az egyetemleges felelős adóstársak elleni végrehajtások, a pénzkövetelést csak egy alkalommal kell feltüntetni.
 
-[^105]: Az 5. számú melléklet a 28/2010. KIM rendelet 1. §-ával megállapított, a 40/2011. (XII. 30.) KIM rendelet 7. § e) pontja szerint módosított szöveg.
+[^106]: Az 5. számú melléklet a 28/2010. KIM rendelet 1. §-ával megállapított, a 40/2011. (XII. 30.) KIM rendelet 7. § e) pontja, a 17/2014. (III. 13.) KIM rendelet 19. §-a, a 18/2014. (III. 13.) KIM rendelet 54. §-a, 21/2014. (III. 13.) KIM rendelet 7. § (2)–(3) bekezdése szerint módosított szöveg.

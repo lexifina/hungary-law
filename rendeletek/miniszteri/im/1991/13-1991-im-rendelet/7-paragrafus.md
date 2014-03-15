@@ -20,6 +20,9 @@ d) a kötelező felelősségbiztosítás fennállásáról szóló igazolást.
 
 (6)[^15] A bélyegzőt megrongálódása, ellopása, elvesztése és megsemmisülése, továbbá a közjegyző szolgálatának megszűnése, a közjegyzői kinevezés érvénytelenségének megállapítása és a közjegyző névaláírásának megváltozása esetén érvényteleníteni kell, és a közjegyző részére – szolgálatának megszűnését és a kinevezés érvénytelenségének megállapítását kivéve – új bélyegzőt kell készíttetni. Az új bélyegző sorszáma és egyedi azonosító jele nem lehet azonos az érvénytelen bélyegző sorszámával és egyedi azonosító jelével.
 
+(7)[^16] A Budapesten kívül működő közjegyző – az illetékességi területén – a székhelyén kívüli településen is tarthat fenn hivatali helyiséget.
+
 [^13]: A Vhr. 7. §-a az 55/2007. (XII. 21.) IRM rendelet 1. § (1) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 6. § (3) bekezdését és 7. §-át.
 [^14]: A Vhr. 7. § (1) bekezdése a 34/2013. (XII. 23.) KIM rendelet 1. § (6) bekezdése szerint módosított szöveg.
 [^15]: A Vhr. 7. § (6) bekezdése a 6/2010. (III. 12.) IRM rendelet 2. § a) pontja szerint módosított szöveg.
+[^16]: A Vhr. 7. § (7) bekezdését a 21/2014. (III. 13.) KIM rendelet 7. § (1) bekezdése iktatta be.
