@@ -14,7 +14,7 @@ c) a számvitelről szóló 2000. évi C. törvény (a továbbiakban: Számvtv.)
 
 (4) A közgyűlés csak a felügyelő bizottság írásbeli jelentésének birtokában határozhat a (3) bekezdés a) és c) pontjában foglalt kérdésekben.
 
-(5) A felügyelő bizottság a közgyűlés felügyelete alá tartozik és tevékenységéről köteles a közgyűlésnek beszámolni. A felügyelő bizottság tagjai a közgyűlésen tanácskozási joggal vesznek részt. A felügyelő bizottság tagjai a közgyűlés által megállapított tiszteletdíjban részesülhetnek. A felügyelő bizottság tagjainak összeférhetetlenségére a gazdasági társaságokról szóló 2006. évi IV. törvény 23. § (1) és (2) bekezdésében, valamint 25. §-ában foglalt rendelkezéseket kell alkalmazni.
+(5) A felügyelő bizottság a közgyűlés felügyelete alá tartozik és tevékenységéről köteles a közgyűlésnek beszámolni. A felügyelő bizottság tagjai a közgyűlésen tanácskozási joggal vesznek részt. A felügyelő bizottság tagjai a közgyűlés által megállapított tiszteletdíjban részesülhetnek. A felügyelő bizottság tagjainak összeférhetetlenségére a Polgári Törvénykönyvről szóló 2013. évi V. törvény 3:22. § (4)–(5) bekezdésében, 3:115. §-ában, valamint 3:26. § (2) bekezdésében foglalt rendelkezéseket kell alkalmazni.
 
 (6) A felügyelő bizottság tagjai személyesen kötelesek eljárni. A Szövetség vezetőitől felvilágosítást, jelentést kérhetnek, a Szövetség könyveit és iratait megvizsgálhatják.
 
