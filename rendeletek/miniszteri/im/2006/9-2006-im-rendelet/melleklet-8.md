@@ -24,7 +24,7 @@
 
 | Szakterület megnevezése | Képesítési feltétel |
 
-| 1. élővilág-védelem | 1.1. okleveles agrármérnök vagy 1.2. okleveles környezetgazdálkodási agrármérnök vagy 1.3. állatorvos doktor vagy 1.4. okleveles biológus vagy 1.5. okleveles biológia szakos tanár vagy 1.6. okleveles erdőmérnök vagy 1.7. okleveles kertészmérnök vagy 1.8. okleveles tájépítész mérnök vagy 1.9. okleveles táj- és kertépítész mérnök vagy 1.10. környezetvédelmi ökológus vagy 1.11. növényvédelmi szakmérnök vagy 1.12. természetvédelmi mérnök vagy 1.13. vadgazda mérnök vagy 1.14. vadgazdálkodó vagy 1.15. vadgazdálkodási szakmérnök vagy 1.16. okleveles vidékfejlesztő agrármérnök vagy 1.17. vidékfejlesztési agrármérnök vagy 1.18. vidékfejlesztési szakmérnök vagy 1.19. okleveles állattenyésztő mérnök vagy 1.20. okleveles mezőgazdasági mérnök vagy 1.21. okleveles növénytermesztő mérnök vagy 1.22. okleveles birtokrendező mérnök vagy 1.23. okleveles alkalmazott zoológus vagy szakzoológus vagy 1.24. okleveles környezetmérnök vagy 1.25. környezetgazdálkodási agrármérnök vagy 1.26. okleveles környezetkutató vagy 1.27. okleveles környezettan-tanár vagy 1.28. okleveles alkalmazott növénybiológus vagy 1.29. okleveles növényorvos vagy 1.30. környezetvédő vagy 1.31. okleveles biomérnök |
+| 1. élővilág-védelem | 1.1. okleveles agrármérnök vagy 1.2. okleveles környezetgazdálkodási agrármérnök vagy 1.3. állatorvos doktor vagy 1.4. okleveles biológus vagy 1.5. okleveles biológia szakos tanár vagy 1.6. okleveles erdőmérnök vagy 1.7. okleveles kertészmérnök vagy 1.8. okleveles tájépítész mérnök vagy 1.9. okleveles táj- és kertépítész mérnök vagy 1.10. környezetvédelmi ökológus vagy 1.11. növényvédelmi szakmérnök vagy 1.12. természetvédelmi mérnök vagy 1.13. vadgazda mérnök vagy 1.14. vadgazdálkodó vagy 1.15. vadgazdálkodási szakmérnök vagy 1.16. okleveles vidékfejlesztő agrármérnök vagy 1.17. vidékfejlesztési agrármérnök vagy 1.18. vidékfejlesztési szakmérnök vagy 1.19. okleveles állattenyésztő mérnök vagy 1.20. okleveles agrármérnök vagy 1.21. okleveles növénytermesztő mérnök vagy 1.22. okleveles birtokrendező mérnök vagy 1.23. okleveles alkalmazott zoológus vagy szakzoológus vagy 1.24. okleveles környezetmérnök vagy 1.25. környezetgazdálkodási agrármérnök vagy 1.26. okleveles környezetkutató vagy 1.27. okleveles környezettan-tanár vagy 1.28. okleveles alkalmazott növénybiológus vagy 1.29. okleveles növényorvos vagy 1.30. környezetvédő vagy 1.31. okleveles biomérnök |
 
 | 2. földtani és felszínalaktani értékek, valamint barlangok védelme | 2.1. okleveles agrármérnök vagy 2.2. okleveles környezetgazdálkodási agrármérnök vagy 2.3. okleveles bánya- és geotechnikai mérnök vagy 2.4. okleveles fizikus vagy 2.5. okleveles geográfus vagy 2.6. okleveles geofizikus vagy 2.7. okleveles geológus vagy 2.8. okleveles táj- és kertépítész mérnök vagy 2.9. okleveles térképész vagy 2.10. okleveles hidrogeológus vagy 2.11. okleveles környezetmérnök vagy 2.12. okleveles biomérnök vagy 2.13. okleveles kertészmérnök vagy 2.14. okleveles biológus vagy 2.15. okleveles földmérő és térinformatikai mérnök vagy 2.16. okleveles földmérő mérnök vagy 2.17. okleveles meteorológus vagy 2.18. okleveles természetvédelmi mérnök vagy 2.19. okleveles vidékfejlesztő agrármérnök |
 
@@ -54,10 +54,10 @@
 
 | 9. vízfeltárás, kútfúrás, vízkitermelés | a) okleveles építőmérnök vagy b) építőmérnök vagy c) okleveles geológus |
 
-| 10. vízgyűjtő-gazdálkodás | a) okleveles építőmérnök vagy b) építőmérnök vagy c) okleveles geológus |
+| 10. vízgyűjtő-gazdálkodás | a) okleveles építőmérnök vagy b) építőmérnök vagy c) |
 
-| 11. vízrendezés és belvízmentesítés | a) okleveles építőmérnök vagy b) építőmérnök vagy c) főiskolai szakmérnök, csatornázási-szennyvíztisztítási szakon |
+| 11. vízrendezés és belvízmentesítés | a) okleveles építőmérnök vagy b) építőmérnök vagy c) főiskolai szakmérnök, árvíz- és belvízvédelmi szakon |
 
-8. számú melléklet a 9/2006. (II. 27.) IM rendelethez[^117]
+8. számú melléklet a 9/2006. (II. 27.) IM rendelethez[^128]
 
-[^117]: A 8. számú melléklet a 46/2007. (IX. 29.) IRM rendelet 24. § (1) bekezdésével megállapított, a 32/2008. (XII. 31.) IRM rendelet 18. § (5) bekezdése szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 19. § (3)–(4) bekezdését.
+[^128]: A 8. számú melléklet a 46/2007. (IX. 29.) IRM rendelet 24. § (1) bekezdésével megállapított, a 32/2008. (XII. 31.) IRM rendelet 18. § (5) bekezdése, a 21/2014. (III. 13.) KIM rendelet 16. § (11) bekezdés g)–h) pontja és (12) bekezdés h) pontja szerint módosított szöveg.

@@ -16,6 +16,6 @@
 
 | 7. vám | a) vámigazgatási szervező vagy b) vámigazgatás-szervező vagy c) pénzügyi szaknyomozó vagy d) főiskolai szakközgazdász, pénzügy-, adó-, illeték-, vámszakon vagy e) pénzügyi adó-, illeték-, vámszakértő vagy f) vámigazgatási tiszt vagy g) egyetemi vagy főiskolai szintű alapképzésben szerzett végzettség és ga) az OKJ-ben szereplő vámügyintéző szakképesítés vagy gb) az OKJ-ben szereplő pénzügyőr szakképesítés |
 
-11. számú melléklet a 9/2006. (II. 27.) IM rendelethez[^119]
+11. számú melléklet a 9/2006. (II. 27.) IM rendelethez[^131]
 
-[^119]: A 11. számú melléklet a 31/2012. (VI. 29.) KIM rendelet 13. § (5) bekezdés e) pontjával megállapított szöveg.
+[^131]: A 11. számú melléklet a 21/2014. (III. 13.) KIM rendelet 16. § (10) bekezdés b) pontjával megállapított szöveg.

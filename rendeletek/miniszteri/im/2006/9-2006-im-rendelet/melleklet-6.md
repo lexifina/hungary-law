@@ -168,12 +168,14 @@
 
 | 35. villamosművek | a) okleveles villamosmérnök vagy b) villamosmérnök vagy c) okleveles gépészmérnök vagy d) gépészmérnök |
 
-| 36. vízi járművek és munkagépek | a) okleveles gépészmérnök vagy b) gépészmérnök vagy c) okleveles közlekedésmérnök vagy d) közlekedésmérnök |
+| 36. hajógyártás, hajóépítés | a) okleveles gépészmérnök vagy b) gépészmérnök vagy c) okleveles közlekedésmérnök vagy d) közlekedésmérnök e) okleveles villamosmérnök vagy f) villamosmérnök vagy g) hajóépítőmérnök |
 
 | 37. iparjogvédelem | egyetemi vagy főiskolai alapképzésben szerzett végzettség és felsőfokú iparjogvédelmi szakképesítés |
 
 | 38. gumiabroncs gyártása | a) okleveles vegyészmérnök vagy b) vegyészmérnök vagy c) okleveles gépészmérnök vagy d) gépészmérnök vagy e) okleveles vegyész vagy f) okleveles kémia szakos tanár |
 
-6. számú melléklet a 9/2006. (II. 27.) IM rendelethez[^115]
+| 39. használati cikkek piaci ár- és értékbecslése | egyetemi vagy főiskolai szintű alapképzésben szerzett végzettség és a) az OKJ-ben szereplő műtárgy becsüs szakképesítés vagy b) az OKJ-ben szereplő bútor-szőnyeg becsüs szakképesítés vagy c) az OKJ-ben szereplő festmény becsüs szakképesítés vagy d) az OKJ-ben szereplő híradástechnikai becsüs szakképesítés vagy e) az OKJ-ben szereplő ékszerbecsüs szakképesítés |
 
-[^115]: A 6. számú melléklet a 32/2008. (XII. 31.) IRM rendelet 18. § (4) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 19. § (3)–(4) bekezdését.
+6. számú melléklet a 9/2006. (II. 27.) IM rendelethez[^126]
+
+[^126]: A 6. számú melléklet a 32/2008. (XII. 31.) IRM rendelet 18. § (4) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 19. § (3)–(4) bekezdését.

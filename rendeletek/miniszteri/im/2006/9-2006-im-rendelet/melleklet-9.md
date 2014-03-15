@@ -34,7 +34,7 @@
 
 | 16. drágakő | a) okleveles geológus vagy b) okleveles vegyész vagy c) egyetemi vagy főiskolai szintű alapképzésben szerzett végzettség és ca) az OKJ-ben szereplő drágakőszakértő szakképesítés vagy cb) az OKJ-ben szereplő drágakő-meghatározó szakképesítés vagy cc) az OKJ-ben szereplő ötvös szakképesítés |
 
-| 17. használati cikkek piaci ár- és értékbecslése | egyetemi vagy főiskolai szintű alapképzésben szerzett végzettség és a) az OKJ-ben szereplő műtárgy becsüs szakképesítés vagy b) az OKJ-ben szereplő bútor-szőnyeg becsüs szakképesítés vagy c) az OKJ-ben szereplő festmény becsüs szakképesítés vagy d) az OKJ-ben szereplő híradástechnikai becsüs szakképesítés vagy e) az OKJ-ben szereplő ékszerbecsüs szakképesítés |
+| 17. |  |
 
 | 18. nyelvészet | a) okleveles magyar nyelv és irodalom szakos bölcsész vagy b) okleveles magyar nyelv és irodalom szakos bölcsész és tanár vagy c) okleveles alkalmazott nyelvészet szakos bölcsész vagy d) okleveles elméleti nyelvészet szakos bölcsész vagy e) okleveles magyar, mint idegen nyelv szakos bölcsész vagy f) okleveles magyar, mint idegen nyelv szakos bölcsész és tanár |
 
@@ -44,12 +44,14 @@
 
 | 21. műemléki restaurátor | restaurátorművész mesterképzési szakon szerzett szakképzettség |
 
-| 22. műemléki faldiagnosztika | a) okleveles építőmérnök vagy b) okleveles szerkezet-építőmérnök vagy c) okleveles építészmérnök |
+| 22. műemléki épületdiagnosztika | a) okleveles építőmérnök vagy b) okleveles szerkezet-építőmérnök vagy c) okleveles építészmérnök |
 
 | 23. orgona hangszer-helyreállítás | a) okleveles egyházzene-orgonaművész vagy b) okleveles egyházzenetanár vagy c) okleveles orgonaművész, orgonatanár szakképzettség, d) hangszerész – orgonaépítő és -javító vagy hangszerkészítő és -javító (orgona) vagy e) egyetemi vagy főiskolai szintű felsőfokú végzettség és legalább 8 félév orgonajáték-oktatáson való részvétel |
 
-| 24. műemléki falkutatás | a) okleveles művészettörténész vagy b) okleveles régész vagy c) okleveles építészmérnök vagy d) okleveles építőművész és műemlékvédelmi szakmérnök |
+| 24. műemléki épületkutatás | a) okleveles művészettörténész vagy b) okleveles régész vagy c) okleveles építészmérnök vagy d) okleveles építőművész és műemlékvédelmi szakmérnök |
 
 | 25. történeti kertek | a) okleveles tájépítészmérnök vagy b) okleveles tájépítész és kertművész |
 
-9. számú melléklet a 9/2006. (II. 27.) IM rendelethez
+9. számú melléklet a 9/2006. (II. 27.) IM rendelethez[^129]
+
+[^129]: A 9. számú melléklet a 21/2014. (III. 13.) KIM rendelet 16. § (10) bekezdés a) pontjával megállapított szöveg.

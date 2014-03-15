@@ -8,6 +8,6 @@
 
 | 3. hangtechnika | a) hangmester vagy b) az OKJ-ben szereplő hangtechnikus szakképesítés vagy c) híradástechnikai szakon végzett okleveles villamosmérnök |
 
-14. számú melléklet a 9/2006. (II. 27.) IM rendelethez[^122]
+14. számú melléklet a 9/2006. (II. 27.) IM rendelethez[^134]
 
-[^122]: A 14. számú mellékletet az 50/2009. (IX. 28.) IRM rendelet 16. § (6) bekezdése iktatta be. E módosító rendelet 17. § (2) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.
+[^134]: A 14. számú mellékletet az 50/2009. (IX. 28.) IRM rendelet 16. § (6) bekezdése iktatta be. E módosító rendelet 17. § (2) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.

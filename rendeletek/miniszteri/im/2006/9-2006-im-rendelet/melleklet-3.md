@@ -88,6 +88,8 @@
 
 | 43. háziorvostan | általános orvos és a) általános orvostan szakvizsga vagy b) belgyógyászat szakvizsga vagy c) háziorvostan szakvizsga |
 
-3. számú melléklet a 9/2006. (II. 27.) IM rendelethez[^112]
+| 44. emberi alkalmazásra kerülő gyógyszerek és gyógyászati segédeszközökkel kapcsolatos kereskedelmi gyakorlat | általános orvos és a) okleveles közgazdász pénzügy szakon vagy b) okleveles közgazdasági elemző szakon vagy c) okleveles közgazdász marketing szakon |
 
-[^112]: A 3. számú melléklet a 32/2008. (XII. 31.) IRM rendelet 18. § (8) bekezdése szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 19. § (3)–(4) bekezdését.
+3. számú melléklet a 9/2006. (II. 27.) IM rendelethez[^123]
+
+[^123]: A 3. számú melléklet a 32/2008. (XII. 31.) IRM rendelet 18. § (8) bekezdése szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 19. § (3)–(4) bekezdését.
