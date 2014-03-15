@@ -12,7 +12,7 @@ ca) a pénzeszközök és gazdasági erőforrások uniós jogi aktus által elre
 
 cb) a pénzeszköz vagy gazdasági erőforrás rendelkezésre bocsátásának uniós jogi aktusban rögzített tilalma;
 
-d) pénzügyi és vagyoni korlátozó intézkedés alanya: a pénzügyi és vagyoni korlátozó intézkedést elrendelő uniós jogi aktus hatálya alá tartozó természetes vagy jogi személy, jogi személyiség nélküli gazdasági társaság, illetve az a természetes vagy jogi személy, jogi személyiség nélküli gazdasági társaság, amely pénzügyi és vagyoni korlátozó intézkedést elrendelő uniós jogi aktus hatálya alá tartozó szervezet tagja;
+d) pénzügyi és vagyoni korlátozó intézkedés alanya: a pénzügyi és vagyoni korlátozó intézkedést elrendelő uniós jogi aktus hatálya alá tartozó természetes vagy jogi személy, jogi személyiséggel nem rendelkező szervezet, illetve az a természetes vagy jogi személy, jogi személyiség nélküli gazdasági társaság, amely pénzügyi és vagyoni korlátozó intézkedést elrendelő uniós jogi aktus hatálya alá tartozó szervezet tagja;
 
 e) vagyoni nyilvántartás: a külön jogszabályok szerinti ingatlan-nyilvántartás, cégnyilvántartás, járműnyilvántartás, úszólétesítmény-lajstrom, légijármű-lajstrom, kulturális örökség hatósági nyilvántartása;
 

@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-180-00-00
 | 2011-06-02 | 2011. évi LV. törvény | 2007-180-00-00.6 |
 | 2012-01-01 | 2011. évi CCI. törvény | 2007-180-00-00.7 |
 | 2013-07-01 | 2013. évi LII. törvény | 2007-180-00-00.8 |
+| 2014-03-15 | 2013. évi CCLII. törvény | 2007-180-00-00.9 |
