@@ -68,7 +68,7 @@
 
 ## Elfogadható szakmai gyakorlat: javítóintézetben, speciális gyermekotthonban, ezek fenntartói vagy ágazati irányítása, ellenőrzése, módszertani segítése során szerzett szakmai gyakorlat.
 
-## i)[^5] Fogyatékos gyermekek gondozása, nevelése szakterület
+## i)[^6] Fogyatékos gyermekek gondozása, nevelése szakterület
 
 ## Elfogadható szakképesítés: gyógypedagógus, gyógytornász, konduktor, továbbá bölcsődei ellátás esetében a gyógypedagógiai asszisztens.
 
@@ -146,7 +146,7 @@
 
 ## a) Időskorúak szociális ellátása szakterület
 
-## Elfogadható szakképesítés: általános szociális munkás, szociálpedagógus, szociális szervező, szociális menedzser, okleveles szociális munkás, szociálpolitikus, szociológus, társadalomorvostani szakorvos, diplomás ápoló/ápoló[^6]/mentálhigiénikus/addiktológiai konzultáns, teológus, pszichológus.
+## Elfogadható szakképesítés: általános szociális munkás, szociálpedagógus, szociális szervező, szociális menedzser, okleveles szociális munkás, szociálpolitikus, szociológus, társadalomorvostani szakorvos, diplomás ápoló/ápoló[^7]/mentálhigiénikus/addiktológiai konzultáns, teológus, pszichológus.
 
 ## Elfogadható szakvizsga: szociális szakvizsga, társadalomorvostani szakorvos képesítésnél az orvosi szakvizsga is, pszichológus képesítésnél a klinikai szakpszichológusi szakvizsga is.
 
@@ -154,7 +154,7 @@
 
 ## b) Fogyatékos személyek szociális ellátása szakterület
 
-## Elfogadható szakképesítés: általános szociális munkás, szociálpedagógus, szociális szervező, szociális menedzser, okleveles szociális munkás, szociálpolitikus, szociológus, társadalomorvostani szakorvos, audiológus, fül-orr-gégész szakorvos, ortopéd szakorvos, szemész szakorvos, diplomás ápoló/ápoló[^7]/mentálhigiénikus/addiktológiai konzultáns, teológus, pszichológus, konduktor óvodapedagógus, konduktor tanító, gyógypedagógus.
+## Elfogadható szakképesítés: általános szociális munkás, szociálpedagógus, szociális szervező, szociális menedzser, okleveles szociális munkás, szociálpolitikus, szociológus, társadalomorvostani szakorvos, audiológus, fül-orr-gégész szakorvos, ortopéd szakorvos, szemész szakorvos, diplomás ápoló/ápoló[^8]/mentálhigiénikus/addiktológiai konzultáns, teológus, pszichológus, konduktor óvodapedagógus, konduktor tanító, gyógypedagógus.
 
 ## Elfogadható szakvizsga: szociális szakvizsga, társadalomorvostani szakorvos, audiológus, fül-orr-gégész szakorvos, ortopéd szakorvos, szemész szakorvos képesítésnél az orvosi szakvizsga is, pszichológus képesítésnél a klinikai szakpszichológusi szakvizsga is, konduktor óvodapedagógus, konduktor tanító, gyógypedagógus képesítésnél a pedagógus-szakvizsga is.
 
@@ -162,7 +162,7 @@
 
 ## c) Pszichiátriai betegek szociális ellátása szakterület
 
-## Elfogadható szakképesítés: általános szociális munkás, szociálpedagógus, szociális szervező, szociális menedzser, okleveles szociális munkás, szociálpolitikus, szociológus, társadalomorvostani szakorvos, pszichiáter szakorvos, diplomás ápoló/ápoló[^8]/mentálhigiénikus/addiktológiai konzultáns, teológus, pszichológus, gyógypedagógus.
+## Elfogadható szakképesítés: általános szociális munkás, szociálpedagógus, szociális szervező, szociális menedzser, okleveles szociális munkás, szociálpolitikus, szociológus, társadalomorvostani szakorvos, pszichiáter szakorvos, diplomás ápoló/ápoló[^9]/mentálhigiénikus/addiktológiai konzultáns, teológus, pszichológus, gyógypedagógus.
 
 ## Elfogadható szakvizsga: szociális szakvizsga, társadalomorvostani szakorvos, pszichiáter szakorvos képesítésnél az orvosi szakvizsga is, pszichológus képesítésnél a klinikai szakpszichológusi szakvizsga is.
 
@@ -170,7 +170,7 @@
 
 ## d) Szenvedélybetegek szociális ellátása szakterület
 
-## Elfogadható szakképesítés: általános szociális munkás, szociálpedagógus, szociális szervező, szociális menedzser, okleveles szociális munkás, szociálpolitikus, szociológus, társadalomorvostani szakorvos, addiktológiai szakorvos, diplomás ápoló/ápoló[^9]/mentálhigiénikus/addiktológiai konzultáns, teológus, pszichológus, gyógypedagógus.
+## Elfogadható szakképesítés: általános szociális munkás, szociálpedagógus, szociális szervező, szociális menedzser, okleveles szociális munkás, szociálpolitikus, szociológus, társadalomorvostani szakorvos, addiktológiai szakorvos, diplomás ápoló/ápoló[^10]/mentálhigiénikus/addiktológiai konzultáns, teológus, pszichológus, gyógypedagógus.
 
 ## Elfogadható szakvizsga: szociális szakvizsga, társadalomorvostani szakorvos, addiktológiai szakorvos képesítésnél az orvosi szakvizsga is, pszichológus képesítésnél a klinikai szakpszichológusi szakvizsga is.
 
@@ -234,7 +234,7 @@
 
 ## Szakértői közreműködés a személyes gondoskodás igénybevételével kapcsolatos eljárásokban, szakértői közreműködés a fogyatékos személyek alapvizsgálatában, a rehabilitációs alkalmassági vizsgálatban, a szociális intézményekben ellátott személyek állapotának felülvizsgálatában, szakértői közreműködés a komplex minősítési eljárásban szakterületek
 
-## Elfogadható szakképesítés: általános szociális munkás, szociálpedagógus, szociális szervező, szociális menedzser, okleveles szociális munkás, szociálpolitikus, rehabilitációs szakorvos, pszichiáter szakorvos, addiktológiai szakorvos, diplomás ápoló/ápoló[^10]/mentálhigiénikus/addiktológiai konzultáns, pszichológus, konduktor óvodapedagógus, konduktor tanító, gyógypedagógus.
+## Elfogadható szakképesítés: általános szociális munkás, szociálpedagógus, szociális szervező, szociális menedzser, okleveles szociális munkás, szociálpolitikus, rehabilitációs szakorvos, pszichiáter szakorvos, addiktológiai szakorvos, diplomás ápoló/ápoló[^11]/mentálhigiénikus/addiktológiai konzultáns, pszichológus, konduktor óvodapedagógus, konduktor tanító, gyógypedagógus.
 
 ## Elfogadható szakvizsga: szociális szakvizsga, rehabilitációs szakorvos, pszichiáter szakorvos, addiktológiai szakorvos képesítésnél az orvosi szakvizsga is, pszichológus képesítésnél a klinikai szakpszichológusi szakvizsga is, konduktor óvodapedagógus, konduktor tanító, gyógypedagógus képesítésnél a pedagógus-szakvizsga is.
 
@@ -242,9 +242,9 @@
 
 2. számú melléklet a 25/2009. (XI. 13.) SZMM rendelethez
 
-[^5]: Az 1. számú melléklet I. rész i) pontja a 41/2012. (XI. 28.) EMMI rendelet 15. §-ával megállapított szöveg.
-[^6]: Felsőfokú ápoló végzettség a felsőoktatási alap- és mesterképzésről, valamint a szakindítás eljárási rendjéről szóló 289/2005. (XII. 22.) Korm. rendeletben meghatározott ápolói képzések alapján szerzett végzettség, az egészségügyi felsőoktatás alapképzési szakjainak képesítési követelményeiről szóló 36/1996. (III. 5.) Korm. rendelet alapján szerzett okleveles ápolói és ápolói végzettség, valamint az okleveles ápolói végzettséggel egyenértékűnek minősített egyetemi okleveles ápolói végzettség.
+[^6]: Az 1. számú melléklet I. rész i) pontja a 41/2012. (XI. 28.) EMMI rendelet 15. §-ával megállapított szöveg.
 [^7]: Felsőfokú ápoló végzettség a felsőoktatási alap- és mesterképzésről, valamint a szakindítás eljárási rendjéről szóló 289/2005. (XII. 22.) Korm. rendeletben meghatározott ápolói képzések alapján szerzett végzettség, az egészségügyi felsőoktatás alapképzési szakjainak képesítési követelményeiről szóló 36/1996. (III. 5.) Korm. rendelet alapján szerzett okleveles ápolói és ápolói végzettség, valamint az okleveles ápolói végzettséggel egyenértékűnek minősített egyetemi okleveles ápolói végzettség.
 [^8]: Felsőfokú ápoló végzettség a felsőoktatási alap- és mesterképzésről, valamint a szakindítás eljárási rendjéről szóló 289/2005. (XII. 22.) Korm. rendeletben meghatározott ápolói képzések alapján szerzett végzettség, az egészségügyi felsőoktatás alapképzési szakjainak képesítési követelményeiről szóló 36/1996. (III. 5.) Korm. rendelet alapján szerzett okleveles ápolói és ápolói végzettség, valamint az okleveles ápolói végzettséggel egyenértékűnek minősített egyetemi okleveles ápolói végzettség.
 [^9]: Felsőfokú ápoló végzettség a felsőoktatási alap- és mesterképzésről, valamint a szakindítás eljárási rendjéről szóló 289/2005. (XII. 22.) Korm. rendeletben meghatározott ápolói képzések alapján szerzett végzettség, az egészségügyi felsőoktatás alapképzési szakjainak képesítési követelményeiről szóló 36/1996. (III. 5.) Korm. rendelet alapján szerzett okleveles ápolói és ápolói végzettség, valamint az okleveles ápolói végzettséggel egyenértékűnek minősített egyetemi okleveles ápolói végzettség.
 [^10]: Felsőfokú ápoló végzettség a felsőoktatási alap- és mesterképzésről, valamint a szakindítás eljárási rendjéről szóló 289/2005. (XII. 22.) Korm. rendeletben meghatározott ápolói képzések alapján szerzett végzettség, az egészségügyi felsőoktatás alapképzési szakjainak képesítési követelményeiről szóló 36/1996. (III. 5.) Korm. rendelet alapján szerzett okleveles ápolói és ápolói végzettség, valamint az okleveles ápolói végzettséggel egyenértékűnek minősített egyetemi okleveles ápolói végzettség.
+[^11]: Felsőfokú ápoló végzettség a felsőoktatási alap- és mesterképzésről, valamint a szakindítás eljárási rendjéről szóló 289/2005. (XII. 22.) Korm. rendeletben meghatározott ápolói képzések alapján szerzett végzettség, az egészségügyi felsőoktatás alapképzési szakjainak képesítési követelményeiről szóló 36/1996. (III. 5.) Korm. rendelet alapján szerzett okleveles ápolói és ápolói végzettség, valamint az okleveles ápolói végzettséggel egyenértékűnek minősített egyetemi okleveles ápolói végzettség.
