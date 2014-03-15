@@ -14,7 +14,7 @@
 
 ## f) önetetők.
 
-## 2.[^95] Halgazdálkodás gépei, eszközei:
+## 2.[^96] Halgazdálkodás gépei, eszközei:
 
 ## a) erőgépek;
 
@@ -28,7 +28,7 @@
 
 ## f) halcsúszda.
 
-## 3.[^96] Halszállítás eszközei:
+## 3.[^97] Halszállítás eszközei:
 
 ## a) halszállító gépjármű;
 
@@ -54,7 +54,7 @@
 
 ## b) vízanalitikai mérőeszközök, berendezések.
 
-## 6.[^97] Egyéb gépek, eszközök:
+## 6.[^98] Egyéb gépek, eszközök:
 
 ## a) vízszivattyúk;
 
@@ -80,9 +80,9 @@
 
 ## l) borona.
 
-3. melléklet az 50/2011. (VI. 6.) VM rendelethez[^98]
+3. melléklet az 50/2011. (VI. 6.) VM rendelethez[^99]
 
-[^95]: A 2. melléklet 2. pontja a 85/2013. (IX. 25.) VM rendelet 19. § (2) bekezdésével megállapított szöveg.
-[^96]: A 2. melléklet 3. pontja a 85/2013. (IX. 25.) VM rendelet 19. § (2) bekezdésével megállapított szöveg.
-[^97]: A 2. melléklet 6. pontja a 85/2013. (IX. 25.) VM rendelet 19. § (2) bekezdésével megállapított szöveg.
-[^98]: A 3. melléklet a 97/2012. (IX. 13.) VM rendelet 16. § (2) bekezdésével megállapított, a 85/2013. (IX. 25.) VM rendelet 19. § (3) bekezdése szerint módosított szöveg.
+[^96]: A 2. melléklet 2. pontja a 85/2013. (IX. 25.) VM rendelet 19. § (2) bekezdésével megállapított szöveg.
+[^97]: A 2. melléklet 3. pontja a 85/2013. (IX. 25.) VM rendelet 19. § (2) bekezdésével megállapított szöveg.
+[^98]: A 2. melléklet 6. pontja a 85/2013. (IX. 25.) VM rendelet 19. § (2) bekezdésével megállapított szöveg.
+[^99]: A 3. melléklet a 97/2012. (IX. 13.) VM rendelet 16. § (2) bekezdésével megállapított, a 85/2013. (IX. 25.) VM rendelet 19. § (3) bekezdése szerint módosított szöveg.

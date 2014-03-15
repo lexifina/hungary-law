@@ -4,7 +4,7 @@ a) az akvakultúra termelő beruházásaihoz nyújtandó támogatások esetében
 
 b) halfeldolgozás esetében a 34. § (2) és (7) bekezdésben,
 
-c)[^49] természetes vízi halgazdálkodás esetében a 31. § (2) bekezdésében
+c)[^50] természetes vízi halgazdálkodás esetében a 31. § (2) bekezdésében
 
 foglalt előírásokat, akkor a kifizetett támogatás vonatkozásában az intézkedésben való jogosulatlan részvételről az MVH döntést hoz. Az ügyfél az MVH által a jogosulatlan részvételt megállapító döntés meghozatalát követően a Tv. 72. § (1) bekezdése alapján az e rendeletben szabályozott támogatások igénybevételéből kizárásra kerül.
 
@@ -18,4 +18,4 @@ az intézkedésben való jogosulatlan részvétel szabályai szerint visszafizet
 
 (3) A (2) bekezdés a) pontja esetén mind az évenkénti, mind az összes átlag számításánál kapott eredmény tört szám esetén felfelé kerekítendő a létszám.
 
-[^49]: A 26. § (1) bekezdés c) pontja a 85/2013. (IX. 25.) VM rendelet 10. §-ával megállapított szöveg.
+[^50]: A 26. § (1) bekezdés c) pontja a 85/2013. (IX. 25.) VM rendelet 10. §-ával megállapított szöveg.

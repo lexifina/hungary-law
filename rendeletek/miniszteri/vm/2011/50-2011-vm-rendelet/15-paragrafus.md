@@ -2,7 +2,7 @@
 
 ## 10. Monitoring
 
-15. § (1)[^27] Az ügyfél minden évben az Európai Mezőgazdasági Vidékfejlesztési Alapból támogatott intézkedések monitoring adatszolgáltatási rendjére vonatkozó részletes szabályokról szóló rendelet szerinti időszakban köteles elektronikus úton, Ügyfélkapun keresztül adatszolgáltatást teljesíteni a 4. mellékletben meghatározott adattartalomra
+15. § (1)[^28] Az ügyfél minden évben az Európai Mezőgazdasági Vidékfejlesztési Alapból támogatott intézkedések monitoring adatszolgáltatási rendjére vonatkozó részletes szabályokról szóló rendelet szerinti időszakban köteles elektronikus úton, Ügyfélkapun keresztül adatszolgáltatást teljesíteni a 4. mellékletben meghatározott adattartalomra
 
 a) az első monitoring adatszolgáltatás évében a támogatási határozat jogerőre emelkedésének időpontja és a támogatási határozat jogerőre emelkedése évének december 31. napja közötti időszakára,
 
@@ -12,11 +12,11 @@ c) az utolsó monitoring adatszolgáltatás évében az előző naptári év jan
 
 vonatkozóan.
 
-(2)[^28] A monitoring adatszolgáltatási kötelezettség a támogatási határozat jogerőre emelkedését követő évtől a kötelező üzemeltetési időszak végét követő évig áll fenn.
+(2)[^29] A monitoring adatszolgáltatási kötelezettség a támogatási határozat jogerőre emelkedését követő évtől a kötelező üzemeltetési időszak végét követő évig áll fenn.
 
 (3) Az ügyfél adatszolgáltatása akkor tekinthető teljesítettnek, amennyiben minden támogatási határozattal rendelkező intézkedése esetében eleget tett e rendelet szerinti monitoring adatszolgáltatási kötelezettségének.
 
 (4) Az MVH a monitoring adatokra vonatkozóan az adatszolgáltatási kötelezettség teljesítését ellenőrzi, valamint helyszíni ellenőrzés keretében vizsgálja az adatszolgáltatás pontosságát.
 
-[^27]: A 15. § (1) bekezdése a 20/2012. (III. 7.) VM rendelet 3. §-ával megállapított szöveg.
-[^28]: A 15. § (2) bekezdése a 20/2012. (III. 7.) VM rendelet 3. §-ával megállapított szöveg.
+[^28]: A 15. § (1) bekezdése a 20/2012. (III. 7.) VM rendelet 3. §-ával megállapított szöveg.
+[^29]: A 15. § (2) bekezdése a 20/2012. (III. 7.) VM rendelet 3. §-ával megállapított szöveg.
