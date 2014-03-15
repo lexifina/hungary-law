@@ -4,7 +4,7 @@
 
 ## 23. Általános rendelkezések
 
-47. § (1) A részvénytársasági vagy szövetkezeti formában működő pénzügyi intézmény végelszámolására vagy felszámolására – ide nem értve a kizárólag csoportfinanszírozást végző pénzügyi vállalkozást – a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény (a továbbiakban: Cstv.), a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény (a továbbiakban: Ctv.), és a gazdasági társaságokról szóló 2006. évi IV. törvény (a továbbiakban: Gt.), a fióktelep formájában működő pénzügyi intézmény végelszámolására vagy felszámolására az Fkt. rendelkezéseit az e törvényben foglalt eltérésekkel szükséges alkalmazni.
+47. § (1) A részvénytársasági vagy szövetkezeti formában működő pénzügyi intézmény végelszámolására vagy felszámolására – ide nem értve a kizárólag csoportfinanszírozást végző pénzügyi vállalkozást – a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény (a továbbiakban: Cstv.), a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény (a továbbiakban: Ctv.), és a Ptk. jogi személyekre vonatkozó rendelkezéseit, a fióktelep formájában működő pénzügyi intézmény végelszámolására vagy felszámolására az Fkt. rendelkezéseit az e törvényben foglalt eltérésekkel szükséges alkalmazni.
 
 (2) Pénzügyi intézmény felszámolójának vagy végelszámolójának kizárólag a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvényben (a továbbiakban: MNB tv.) meghatározott szervezetek felszámolását végző, nonprofit gazdasági társaság rendelhető ki.
 

@@ -1,6 +1,6 @@
 136. § (1) A pénzügyi intézmény igazgatósága a névre szóló részvényekről és a részvények tulajdonosáról olyan részvénykönyvet vezet, amely a következő adatokat tartalmazza:
 
-a) a részvénytulajdonosok nevét, természetes személy esetén lakcímét, anyja nevét, állampolgárságát, jogi személy vagy jogi személyiséggel nem rendelkező gazdasági társaság és egyéni cég esetén pedig székhelyét,
+a) a részvénytulajdonosok nevét, természetes személy esetén lakcímét, anyja nevét, állampolgárságát, jogi személy és egyéni cég esetén pedig székhelyét,
 
 b) ha a részvénynek több tulajdonosa van, akkor a tulajdonosok és a közös képviselő a) pontban meghatározott adatait,
 

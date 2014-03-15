@@ -21,11 +21,3 @@ A törvény hatálya alól kivett nemzetközi pénzügyi intézmények
 9. Északi Beruházási Bank
 
 10. Karibi Fejlesztési Bank
-
-11. Nemzetközi Beruházás-biztosítási Ügynökség
-
-12. Nemzetközi Pénzügyi Társaság
-
-13. Nemzetközi Újjáépítési és Fejlesztési Bank
-
-14. Nemzetközi Valuta Alap

@@ -14,7 +14,7 @@ b) a kamat mértéke a kölcsönszerződésben meghatározott 3 éves, 5 éves v
 
 a) a fogyasztó egy havi törlesztőrészlettel negyvenöt napot meghaladó fizetési késedelembe esik vagy
 
-b) a fogyasztó a fedezetül szolgáló ingatlanra kötött, a pénzügyi intézményre engedményezett vagyonbiztosítást a pénzügyi szolgáltató postai úton vagy más, a szerződésben meghatározott közvetlen módon történő értesítése ellenére legalább 2 hónapon keresztül nem fizeti.
+b) a fogyasztó a fedezetül szolgáló ingatlanra kötött, a pénzügyi intézményre engedményezett, illetve a pénzügyi intézmény zálogjogával terhelt vagyonbiztosítást a pénzügyi szolgáltató postai úton vagy más, a szerződésben meghatározott közvetlen módon történő értesítése ellenére legalább 2 hónapon keresztül nem fizeti.
 
 (6) Az (5) bekezdésben meghatározott feltételek változásának felárra gyakorolt hatását a pénzügyi intézmény belső szabályzatában rögzíti.
 

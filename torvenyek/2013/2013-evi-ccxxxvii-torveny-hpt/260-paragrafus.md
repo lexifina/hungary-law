@@ -1,6 +1,6 @@
 ## 114. Könyvvizsgálat
 
-260. § (1) Pénzügyi intézmény esetén – a gazdasági társaságokról szóló törvénynek a könyvvizsgálóra vonatkozóan meghatározott feltételein túlmenően – könyvvizsgálói feladatok ellátására csak akkor adható az érvényes könyvvizsgálói engedéllyel rendelkező, bejegyzett könyvvizsgáló (könyvvizsgálói társaság) részére megbízás, ha
+260. § (1) Pénzügyi intézmény esetén könyvvizsgálói feladatok ellátására csak akkor adható az érvényes könyvvizsgálói engedéllyel rendelkező, bejegyzett könyvvizsgáló (könyvvizsgálói társaság) részére megbízás, ha
 
 a) a könyvvizsgáló (könyvvizsgálói társaság) pénzügyi intézményi minősítéssel rendelkezik,
 

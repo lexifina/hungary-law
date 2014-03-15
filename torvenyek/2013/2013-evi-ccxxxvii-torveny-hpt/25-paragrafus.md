@@ -4,7 +4,7 @@
 
 a) részvénytársasági formában működő pénzügyi intézmény és szövetkezeti formában működő pénzügyi intézmény,
 
-b) fióktelep formájában működő pénzügyi intézmény és jogi személy vagy jogi személyiség nélküli gazdasági társaság.
+b) fióktelep formájában működő pénzügyi intézmény és jogi személy.
 
 (3) Hitelintézet vagy pénzügyi vállalkozás egyesülése esetén az engedélyezésre irányuló kérelemhez benyújtja:
 

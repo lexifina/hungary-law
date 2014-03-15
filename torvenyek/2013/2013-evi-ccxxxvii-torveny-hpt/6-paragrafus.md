@@ -16,7 +16,7 @@
 
 7. belső módszer: az 575/2013/EU rendeletben belső minősítésen alapuló módszerként meghatározott fogalom;
 
-8. betét: a Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.). szerinti betétszerződés vagy takarékbetét-szerződés alapján fennálló tartozás, ideértve a bankszámlaszerződés alapján fennálló pozitív számlaegyenleget is;
+8. betét: a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) szerinti betétszerződés vagy a takarékbetétről szóló 1989. évi 2. törvényerejű rendelet szerinti takarékbetét-szerződés alapján fennálló tartozás, ideértve a hitelintézetnél a fizetésiszámla-szerződés alapján fennálló pozitív számlaegyenleget is;
 
 9. betét és más, a nyilvánosságtól származó visszafizetendő pénzeszköz gyűjtése: pénzeszközök egyedileg előre meg nem határozott személyektől történő gyűjtése oly módon, hogy azzal a betétgyűjtő tulajdonosként rendelkezhet, de köteles azt – kamattal, más előny biztosításával vagy anélkül – visszafizetni;
 
@@ -156,7 +156,7 @@ c) a pénzforgalmi szolgáltató és az ügyfél közötti keretszerződésben m
 
 57. készpénz-helyettesítő fizetési eszköz kibocsátásával kapcsolatos szolgáltatásnyújtás: a készpénz-helyettesítő fizetési eszköz kibocsátására, kezelésére és használatára vonatkozó jogszabályok alapján nyújtott, vagy az ügyféllel, valamint az eladóval vagy a szolgáltatóval kötött szerződésben a kibocsátó által elvállalt szolgáltatások összessége, ide nem értve a készpénz-helyettesítő fizetési eszközzel kapcsolatos szolgáltatásnak a készpénz-helyettesítő fizetési eszköz használatával összefüggő elszámolás forgalom lebonyolítását;
 
-58. kiszervezés: ha a pénzügyi intézmény a pénzügyi vagy kiegészítő pénzügyi szolgáltatási tevékenységéhez kapcsolódó vagy jogszabály által végezni rendelt olyan tevékenységét, amelynek során adatkezelés, adatfeldolgozás vagy adattárolás valósul meg, nem önállóan végzi, hanem annak folyamatos vagy rendszeres elvégzésére tőle szervezetileg független személlyel vagy jogi személyiséggel nem rendelkező gazdasági társasággal kizárólagos szerződést köt;
+58. kiszervezés: ha a pénzügyi intézmény a pénzügyi vagy kiegészítő pénzügyi szolgáltatási tevékenységéhez kapcsolódó vagy jogszabály által végezni rendelt olyan tevékenységét, amelynek során adatkezelés, adatfeldolgozás vagy adattárolás valósul meg, nem önállóan végzi, hanem annak folyamatos vagy rendszeres elvégzésére tőle szervezetileg független személlyel kizárólagos szerződést köt;
 
 59. kockázat, vagy kockázatvállalás:
 
@@ -332,7 +332,7 @@ amelynek fizetésképtelenné válása vagy nem prudens működése rendszerkock
 
 116. üzletszerű tevékenység: az ellenérték fejében nyereség, illetve vagyonszerzés végett – előre egyedileg meg nem határozott ügyletek megkötésére irányuló – rendszeresen folytatott gazdasági tevékenység;
 
-117. vállalkozás: a gazdasági tevékenységet folytató jogi személy, jogi személyiség nélküli gazdasági társaság, az egyéni cég és az egyéni vállalkozó;
+117. vállalkozás: a gazdasági tevékenységet folytató jogi személy, az egyéni cég és az egyéni vállalkozó;
 
 118. vegyes pénzügyi holding társaság: az 575/2013/EU rendeletben ekként meghatározott fogalom;
 
@@ -360,7 +360,7 @@ c) részvénytársasági vagy szövetkezeti formában működő pénzügyi váll
 
 d) fióktelep esetén a fióktelep vezetésére a külföldi pénzügyi intézmény által kinevezett személy és annak közvetlen helyettese,
 
-e) az alapítványi formában működő pénzügyi vállalkozás esetén a kuratórium tagja, az ellenőrző testület elnöke, valamint az ügyvezető, valamint
+e) az alapítványi formában működő pénzügyi vállalkozás esetén a kuratórium tagja, a felügyelő bizottság elnöke, valamint az ügyvezető, valamint
 
 f) független közvetítő esetén a pénzügyi szolgáltatás közvetítésének irányítását végző személy, valamint valamennyi helyettese;
 
