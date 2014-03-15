@@ -1,4 +1,4 @@
-## 30. §[^78] Ez a rendelet a következő irányelveknek való megfelelést szolgálja:
+## 30. §[^79] Ez a rendelet a következő irányelveknek való megfelelést szolgálja:
 
 1. a Tanács 66/401/EGK irányelve (1966. június 14.) a takarmánynövény-vetőmagok forgalmazásáról,
 
@@ -52,10 +52,10 @@
 
 26. a Bizottság 2012/8/EU végrehajtási irányelve (2012. március 2.) a 2002/53/EK tanácsi irányelv 7. cikkének alkalmazásában egyes mezőgazdasági növényfajok fajtái esetében minimálisan vizsgálandó jellemzők és a vizsgálat minimumfeltételei vonatkozásában a végrehajtási intézkedések meghatározásáról szóló 2003/90/EK irányelv módosításáról,
 
-27.[^79] a Bizottság 2012/44/EU végrehajtási irányelve (2012. november 26.) a 2002/53/EK és 2002/55/EK tanácsi irányelv 7. cikkéhez végrehajtási intézkedéseket előíró 2003/90/EK és 2003/91/EK irányelvnek az egyes mezőgazdasági növényfajok és zöldségfajok fajtáinak vizsgálata keretében minimálisan vizsgálandó jellemzők és a vizsgálat minimumfeltételei tekintetében történő módosításáról,
+27.[^80] a Bizottság 2012/44/EU végrehajtási irányelve (2012. november 26.) a 2002/53/EK és 2002/55/EK tanácsi irányelv 7. cikkéhez végrehajtási intézkedéseket előíró 2003/90/EK és 2003/91/EK irányelvnek az egyes mezőgazdasági növényfajok és zöldségfajok fajtáinak vizsgálata keretében minimálisan vizsgálandó jellemzők és a vizsgálat minimumfeltételei tekintetében történő módosításáról,
 
-28.[^80] a Bizottság 2013/57/EU végrehajtási irányelve (2013. november 20.) a 2002/53/EK tanácsi irányelv 7. cikkéhez és a 2002/55/EK tanácsi irányelv 7. cikkéhez végrehajtási intézkedéseket megállapító 2003/90/EK és 2003/91/EK irányelvnek az egyes mezőgazdasági növényfajok és zöldségfajok fajtáinak vizsgálata keretében minimálisan vizsgálandó jellemzők és a vizsgálat minimumfeltételei tekintetében történő módosításáról.
+28.[^81] a Bizottság 2013/57/EU végrehajtási irányelve (2013. november 20.) a 2002/53/EK tanácsi irányelv 7. cikkéhez és a 2002/55/EK tanácsi irányelv 7. cikkéhez végrehajtási intézkedéseket megállapító 2003/90/EK és 2003/91/EK irányelvnek az egyes mezőgazdasági növényfajok és zöldségfajok fajtáinak vizsgálata keretében minimálisan vizsgálandó jellemzők és a vizsgálat minimumfeltételei tekintetében történő módosításáról.
 
-[^78]: A 30. § a 105/2012. (X. 11.) VM rendelet 3. §-ával megállapított szöveg.
-[^79]: A 30. § 27. pontját a 9/2014. (II. 7.) VM rendelet 1. §-a iktatta be.
-[^80]: A 30. § 28. pontját a 9/2014. (II. 7.) VM rendelet 1. §-a iktatta be.
+[^79]: A 30. § a 105/2012. (X. 11.) VM rendelet 3. §-ával megállapított szöveg.
+[^80]: A 30. § 27. pontját a 9/2014. (II. 7.) VM rendelet 1. §-a iktatta be.
+[^81]: A 30. § 28. pontját a 9/2014. (II. 7.) VM rendelet 1. §-a iktatta be.

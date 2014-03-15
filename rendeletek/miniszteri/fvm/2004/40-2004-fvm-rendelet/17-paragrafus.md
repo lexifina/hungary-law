@@ -1,10 +1,10 @@
-## 16. §[^51] A növényfajta-oltalmi eljárás céljára külön vagy az állami elismeréssel együtt benyújtott kérelem alapján elvégzett DUS-vizsgálatról a NÉBIH időközi vagy végleges DUS-vizsgálati jelentést készít. A NÉBIH a végleges jelentésben nyilatkozik arról, hogy a fajta megkülönböztethető, egyöntetű (egynemű) és állandó-e. Ha a NÉBIH a fajtát megkülönböztethetőnek, egyöntetűnek (egyneműnek) és állandónak minősíti, a jelentéshez mellékeli a fajtaleírást, amit egyúttal a bejelentőnek is megküld.
+## 16. §[^52] A növényfajta-oltalmi eljárás céljára külön vagy az állami elismeréssel együtt benyújtott kérelem alapján elvégzett DUS-vizsgálatról a NÉBIH időközi vagy végleges DUS-vizsgálati jelentést készít. A NÉBIH a végleges jelentésben nyilatkozik arról, hogy a fajta megkülönböztethető, egyöntetű (egynemű) és állandó-e. Ha a NÉBIH a fajtát megkülönböztethetőnek, egyöntetűnek (egyneműnek) és állandónak minősíti, a jelentéshez mellékeli a fajtaleírást, amit egyúttal a bejelentőnek is megküld.
 
 ## A növényfajták állami elismerése, annak elutasítása
 
 ## és visszavonása
 
-17. § (1)[^52] A kísérleti vizsgálatok eredményei alapján a NÉBIH előterjesztést készít a Fajtaminősítő Bizottság részére, és egyúttal javaslatot tesz
+17. § (1)[^53] A kísérleti vizsgálatok eredményei alapján a NÉBIH előterjesztést készít a Fajtaminősítő Bizottság részére, és egyúttal javaslatot tesz
 
 a) a növényfajta állami elismerésére,
 
@@ -18,7 +18,7 @@ e) a mezőgazdasági növényfajok és zöldségfajok fajtaelnevezéseinek alkal
 
 f) újabb fajtafenntartó bejegyzésére,
 
-g)[^53] gyümölcsfajták új fajtakísérlet nélküli állami elismerésére.
+g)[^54] gyümölcsfajták új fajtakísérlet nélküli állami elismerésére.
 
 (2) Az előterjesztésnek – a bejelentésre vonatkozó kérelemben foglaltak alapján – tartalmaznia kell:
 
@@ -48,7 +48,7 @@ e) a fajta gazdasági értékvizsgálatának eredményeit az arra kötelezett fa
 
 f) a 9. § (4) bekezdése szerinti tulajdonságokat,
 
-g)[^54] a javasolt és az MgSzH által ellenőrzött fajtanevet,
+g)[^55] a javasolt és az MgSzH által ellenőrzött fajtanevet,
 
 h) a döntési javaslatot és annak indoklását.
 
@@ -56,7 +56,7 @@ h) a döntési javaslatot és annak indoklását.
 
 (5) Az állami elismerés időpontját legalább 90 nappal megelőzően a javasolt fajtanevet az Európai Unió tagállamai hatóságainak tudomására kell hozni, biztosítva a felszólalás lehetőségét.
 
-[^51]: A 16. § a 105/2012. (X. 11.) VM rendelet 5. § (2) és (3) bekezdése szerint módosított szöveg.
-[^52]: A 17. § (1) bekezdése a 105/2012. (X. 11.) VM rendelet 5. § (2) bekezdése szerint módosított szöveg.
-[^53]: A 17. § (1) bekezdés g) pontját a 68/2010. (V. 12.) FVM rendelet 5. §-a iktatta be.
-[^54]: A 17. § (3) bekezdés g) pontja a 42/2011. (V. 26.) VM rendelet 5. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^52]: A 16. § a 105/2012. (X. 11.) VM rendelet 5. § (2) és (3) bekezdése szerint módosított szöveg.
+[^53]: A 17. § (1) bekezdése a 105/2012. (X. 11.) VM rendelet 5. § (2) bekezdése szerint módosított szöveg.
+[^54]: A 17. § (1) bekezdés g) pontját a 68/2010. (V. 12.) FVM rendelet 5. §-a iktatta be.
+[^55]: A 17. § (3) bekezdés g) pontja a 42/2011. (V. 26.) VM rendelet 5. § (2) bekezdés a) pontja szerint módosított szöveg.

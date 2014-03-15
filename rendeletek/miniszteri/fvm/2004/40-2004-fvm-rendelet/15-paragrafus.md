@@ -6,12 +6,12 @@
 
 (2) A szántóföldi és zöldség fajok fajtáira engedély egyéves eredményes DUS-vizsgálat alapján kérelmezhető. Az egyedi szaporítási engedély a szántóföldi fajok szaporítóanyagának forgalmazására nem jogosít.
 
-(3)[^48] A szőlő, gyümölcs és erdészeti fajtákra vonatkozó engedély egyben a forgalomba hozatalra is kiterjed.
+(3)[^49] A szőlő, gyümölcs és erdészeti fajtákra vonatkozó engedély egyben a forgalomba hozatalra is kiterjed.
 
-(4)[^49] Az (1) bekezdés szerinti engedély iránti kérelmet a vetést vagy telepítést megelőzően a NÉBIH-hez kell benyújtani.
+(4)[^50] Az (1) bekezdés szerinti engedély iránti kérelmet a vetést vagy telepítést megelőzően a NÉBIH-hez kell benyújtani.
 
-(5)[^50] Az egyedi szaporítási engedély a fajtajelölt állami elismeréséig, illetve a vizsgálat megszüntetéséig hatályos.
+(5)[^51] Az egyedi szaporítási engedély a fajtajelölt állami elismeréséig, illetve a vizsgálat megszüntetéséig hatályos.
 
-[^48]: A 15. § (3) bekezdése a 22/2005. (III. 22.) FVM rendelet 2. §-ával megállapított szöveg.
-[^49]: A 15. § (4) bekezdése a 183/2009. (XII. 30.) FVM rendelet 1. § (6) bekezdésével megállapított, a 105/2012. (X. 11.) VM rendelet 5. § (4) bekezdése szerint módosított szöveg.
-[^50]: A 15. § (5) bekezdése a 183/2009. (XII. 30.) FVM rendelet 1. § (6) bekezdésével megállapított szöveg.
+[^49]: A 15. § (3) bekezdése a 22/2005. (III. 22.) FVM rendelet 2. §-ával megállapított szöveg.
+[^50]: A 15. § (4) bekezdése a 183/2009. (XII. 30.) FVM rendelet 1. § (6) bekezdésével megállapított, a 105/2012. (X. 11.) VM rendelet 5. § (4) bekezdése szerint módosított szöveg.
+[^51]: A 15. § (5) bekezdése a 183/2009. (XII. 30.) FVM rendelet 1. § (6) bekezdésével megállapított szöveg.

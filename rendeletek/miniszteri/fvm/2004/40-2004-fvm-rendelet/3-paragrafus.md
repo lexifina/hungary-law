@@ -10,18 +10,18 @@
 
 4. géntechnológiával módosított növényfajta: fajta, amelynek génállományát génsebészeti beavatkozással olyan módon változtatták meg, ahogyan az természetes úton nem menne végbe,
 
-5.[^5] fajtajelölt: a NÉBIH-hez Nemzeti Fajtajegyzékre vétel céljából, illetve fajtaoltalmi vizsgálatokra bejelentett növényfajta,
+5.[^6] fajtajelölt: a NÉBIH-hez Nemzeti Fajtajegyzékre vétel céljából, illetve fajtaoltalmi vizsgálatokra bejelentett növényfajta,
 
-6.[^6] fajtavizsgálat: a Nemzeti Fajtajegyzékre vételre, illetve növényfajta-oltalom céljára bejelentett fajták – nemzetközileg ajánlott, vagy ennek hiányában a NÉBIH által kifejlesztett módszerekkel beállított kísérletekben végzett – hivatalos DUS-vizsgálata és – ahol ez követelmény – gazdasági értékvizsgálata,
+6.[^7] fajtavizsgálat: a Nemzeti Fajtajegyzékre vételre, illetve növényfajta-oltalom céljára bejelentett fajták – nemzetközileg ajánlott, vagy ennek hiányában a NÉBIH által kifejlesztett módszerekkel beállított kísérletekben végzett – hivatalos DUS-vizsgálata és – ahol ez követelmény – gazdasági értékvizsgálata,
 
 7. tartós vetőmagtárolás: az államilag elismert, illetve növényfajta-oltalomban részesített fajták – kijelölt hibridek esetén azok komponensei is – és a referencia és példa fajták nemzetközi szabvány szerint előkészített vetőmagjának középtávú megőrzése, a gyűjtemény fenntartása,
 
-8.[^7] UPOV: az új növényfajták oltalmára 1961. december 2-án létesült, Genfben, 1972. november 10-én, 1978. október 23-án és 1991. március 19-én felülvizsgált Nemzetközi Egyezmény (International Convention for the Protection of New Varieties of Plants),
+8.[^8] UPOV: az új növényfajták oltalmára 1961. december 2-án létesült, Genfben, 1972. november 10-én, 1978. október 23-án és 1991. március 19-én felülvizsgált Nemzetközi Egyezmény (International Convention for the Protection of New Varieties of Plants),
 
 9. Közösségi Növényfajta Hivatal (Community Plant Variety Office, CPVO): a Tanács közösségi növényfajta-oltalomról szóló 2100/94/EK rendelete alapján működő közösségi növényfajta-oltalmi hatóság,
 
 10. harmadik ország: az Európai Unió tagállamain kívüli ország.
 
-[^5]: A 3. § 5. pontja a 105/2012. (X. 11.) VM rendelet 5. § (4) bekezdése szerint módosított szöveg.
-[^6]: A 3. § 6. pontja a 105/2012. (X. 11.) VM rendelet 5. § (2) bekezdése szerint módosított szöveg.
-[^7]: A 3. § 8. pontja a 183/2009. (XII. 30.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^6]: A 3. § 5. pontja a 105/2012. (X. 11.) VM rendelet 5. § (4) bekezdése szerint módosított szöveg.
+[^7]: A 3. § 6. pontja a 105/2012. (X. 11.) VM rendelet 5. § (2) bekezdése szerint módosított szöveg.
+[^8]: A 3. § 8. pontja a 183/2009. (XII. 30.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg.

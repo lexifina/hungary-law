@@ -1,4 +1,4 @@
-10. számú melléklet a 40/2004. (IV. 7.) FVM rendelethez[^94]
+10. számú melléklet a 40/2004. (IV. 7.) FVM rendelethez[^95]
 
 I. RÉSZ
 
@@ -132,4 +132,4 @@ II. RÉSZ
 
 III. RÉSZ
 
-[^94]: A 10. számú mellékletet a 70/2006. (IX. 27.) FVM rendelet 3. §-a iktatta be, szövege a 9/2014. (II. 7.) VM rendelet 2. §-ával megállapított szöveg.
+[^95]: A 10. számú mellékletet a 70/2006. (IX. 27.) FVM rendelet 3. §-a iktatta be, szövege a 9/2014. (II. 7.) VM rendelet 2. §-ával megállapított szöveg.
