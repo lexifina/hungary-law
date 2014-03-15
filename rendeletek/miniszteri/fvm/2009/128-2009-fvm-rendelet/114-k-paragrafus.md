@@ -2,7 +2,7 @@
 
 ## Az állategészségügyi biocid termékek hatósági ellenőrzése
 
-114/K. § (1)[^282] A járási állategészségügyi hivatal ellenőrzi az e rendelet szerint engedélyezett állategészségügyi biocid termékek felhasználását és forgalmazását.
+114/K. § (1)[^285] A járási állategészségügyi hivatal ellenőrzi az e rendelet szerint engedélyezett állategészségügyi biocid termékek felhasználását és forgalmazását.
 
 (2) A hatósági ellenőrzés a forgalmazás és a felhasználás során kiterjed:
 
@@ -18,21 +18,21 @@ e) a termék előírás szerinti felhasználására és a felhasználás helysz�
 
 f) szakképesítéshez kötött felhasználás esetén a felhasználó személyek szakképzettségének ellenőrzésére,
 
-g)[^283] a NÉBIH által kiadott forgalomba hozatali engedély számának helyességére,
+g)[^286] a NÉBIH által kiadott forgalomba hozatali engedély számának helyességére,
 
 h) a felhasználás megfelelőségére,
 
 i) jogszabálysértés gyanúja esetén mintavételre és az összetétel vizsgálatára.
 
-(3)[^284] A járási állategészségügyi hivatal a hatósági ellenőrzés eredményétől függően
+(3)[^287] A járási állategészségügyi hivatal a hatósági ellenőrzés eredményétől függően
 
 a) elrendeli a kifogásolt tétel zár alá vételét, a tétel forgalmazásának felfüggesztését, a tétel forgalomból való kivonását, illetve felügyelet mellett való ártalmatlanítását,
 
-b)[^285] javaslatot tesz – az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság útján – a NÉBIH-nek a kifogásolt tétel országos forgalomból való kivonására,
+b)[^288] javaslatot tesz – az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság útján – a NÉBIH-nek a kifogásolt tétel országos forgalomból való kivonására,
 
 c) lefoglalja azt a készítményt, amely nincs az e rendeletben foglaltak szerint engedélyezve.
 
-(4)[^286] A járási állategészségügyi hivatal – az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság útján tett – javaslatára a NÉBIH a készítmény forgalmazását megtiltja, illetve a készítmény forgalomból való országos kivonását rendeli el, amennyiben
+(4)[^289] A járási állategészségügyi hivatal – az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság útján tett – javaslatára a NÉBIH a készítmény forgalmazását megtiltja, illetve a készítmény forgalomból való országos kivonását rendeli el, amennyiben
 
 a) megállapításra kerül, hogy a szabálytalanság súlyosan veszélyezteti a közegészségügy, a fogyasztók, az állategészségügy vagy a környezet érdekeit,
 
@@ -46,26 +46,26 @@ e) a készítmény olyan hatóanyagot tartalmaz, amelynek felhasználását hat�
 
 f) a hatóság megállapítja, hogy a kérelmező hamis vagy megtévesztő adatokat szolgáltatott.
 
-(5)[^287] A forgalmazás tilalma vagy a forgalomból való kivonás egyes gyártási tételekre is korlátozható. A forgalmazás megtiltása esetén a NÉBIH a meglévő készlet ártalmatlanítására, raktározására, forgalmazására és felhasználására határidőt vagy határnapot állapít meg.
+(5)[^290] A forgalmazás tilalma vagy a forgalomból való kivonás egyes gyártási tételekre is korlátozható. A forgalmazás megtiltása esetén a NÉBIH a meglévő készlet ártalmatlanítására, raktározására, forgalmazására és felhasználására határidőt vagy határnapot állapít meg.
 
-(6)[^288] A (4) bekezdés szerinti esetekben a NÉBIH visszavonhatja a forgalomba hozatali engedélyt és a készítményt a nyilvántartásából törölheti.
+(6)[^291] A (4) bekezdés szerinti esetekben a NÉBIH visszavonhatja a forgalomba hozatali engedélyt és a készítményt a nyilvántartásából törölheti.
 
 (7) A lejárt, illetve bármely ok miatt használhatatlanná vált készítményt a forgalmazó, illetve a felhasználó köteles saját költségén ártalmatlaníttatni.
 
-(8)[^289] A NÉBIH, illetve a járási állategészségügyi hivatal a reklámozásra vonatkozó előírások
+(8)[^292] A NÉBIH, illetve a járási állategészségügyi hivatal a reklámozásra vonatkozó előírások
 
 a) első megszegése esetén figyelmezteti az érintettet,
 
 b) 2 éven belüli minden további megszegése esetén kezdeményezheti a tevékenység megtiltását.
 
-(9)[^290] Az állategészségügyi biocid termékek engedélyezésével és ellenőrzésével összefüggő határozatokat a NÉBIH közli az OTH-val, a járási állategészségügyi hivatal pedig a székhelye szerint illetékes járási népegészségügyi intézettel.
+(9)[^293] Az állategészségügyi biocid termékek engedélyezésével és ellenőrzésével összefüggő határozatokat a NÉBIH közli az OTH-val, a járási állategészségügyi hivatal pedig a székhelye szerint illetékes járási népegészségügyi intézettel.
 
-[^282]: A 114/K. § (1) bekezdése a 151/2012. (XII. 29.) VM rendelet 35. § b) pontja, a 70/2013. (VII. 31.) VM rendelet 111. § 29. pontja szerint módosított szöveg.
-[^283]: A 114/K. § (2) bekezdés g) pontja a 70/2013. (VII. 31.) VM rendelet 32. pontja szerint módosított szöveg.
-[^284]: A 114/K. § (3) bekezdés nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 35. § b) pontja, a 70/2013. (VII. 31.) VM rendelet 111. § 29. pontja szerint módosított szöveg.
-[^285]: A 114/K. § (3) bekezdés b) pontja a 70/2013. (VII. 31.) VM rendelet 111. § 5. és 8. pontja szerint módosított szöveg.
-[^286]: A 114/K. § (4) bekezdés nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 35. § b) pontja, a 70/2013. (VII. 31.) VM rendelet 111. § 3., 8. és 28. pontja szerint módosított szöveg.
-[^287]: A 114/K. § (5) bekezdése a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja szerint módosított szöveg.
-[^288]: A 114/K. § (6) bekezdése a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja szerint módosított szöveg.
-[^289]: A 114/K. § (8) bekezdés nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 35. § b) pontja, a 70/2013. (VII. 31.) VM rendelet 111. § 2. és 25. pontja szerint módosított szöveg.
-[^290]: A 114/K. § (9) bekezdése a 151/2012. (XII. 29.) VM rendelet 35. § b) pontja, a 70/2013. (VII. 31.) VM rendelet 111. § 3., 25. és 33. pontja szerint módosított szöveg.
+[^285]: A 114/K. § (1) bekezdése a 151/2012. (XII. 29.) VM rendelet 35. § b) pontja, a 70/2013. (VII. 31.) VM rendelet 111. § 29. pontja szerint módosított szöveg.
+[^286]: A 114/K. § (2) bekezdés g) pontja a 70/2013. (VII. 31.) VM rendelet 32. pontja szerint módosított szöveg.
+[^287]: A 114/K. § (3) bekezdés nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 35. § b) pontja, a 70/2013. (VII. 31.) VM rendelet 111. § 29. pontja szerint módosított szöveg.
+[^288]: A 114/K. § (3) bekezdés b) pontja a 70/2013. (VII. 31.) VM rendelet 111. § 5. és 8. pontja szerint módosított szöveg.
+[^289]: A 114/K. § (4) bekezdés nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 35. § b) pontja, a 70/2013. (VII. 31.) VM rendelet 111. § 3., 8. és 28. pontja szerint módosított szöveg.
+[^290]: A 114/K. § (5) bekezdése a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja szerint módosított szöveg.
+[^291]: A 114/K. § (6) bekezdése a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja szerint módosított szöveg.
+[^292]: A 114/K. § (8) bekezdés nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 35. § b) pontja, a 70/2013. (VII. 31.) VM rendelet 111. § 2. és 25. pontja szerint módosított szöveg.
+[^293]: A 114/K. § (9) bekezdése a 151/2012. (XII. 29.) VM rendelet 35. § b) pontja, a 70/2013. (VII. 31.) VM rendelet 111. § 3., 25. és 33. pontja szerint módosított szöveg.

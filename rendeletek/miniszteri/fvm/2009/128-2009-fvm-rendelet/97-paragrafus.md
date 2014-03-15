@@ -1,4 +1,4 @@
-97. § (1)[^241] A NÉBIH, illetve a járási állategészségügyi hivatal
+97. § (1)[^243] A NÉBIH, illetve a járási állategészségügyi hivatal
 
 a) egy éven belüli második nem súlyos kötelezettségszegés esetén a forgalmazást 30 napig terjedő időtartamra, teljes körűen felfüggesztheti,
 
@@ -22,4 +22,4 @@ b) három nem súlyos kötelezettségszegés egyidejű elkövetése.
 
 (3) Az engedély visszavonása után leghamarabb 90 nap elteltével kérhető új engedély.
 
-[^241]: A 97. § (1) bekezdés nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 35. § b) pontja, a 70/2013. (VII. 31.) VM rendelet 111. § 2. és 25. pontja szerint módosított szöveg.
+[^243]: A 97. § (1) bekezdés nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 35. § b) pontja, a 70/2013. (VII. 31.) VM rendelet 111. § 2. és 25. pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-83. § (1)[^193] Ha gyógyszerbiztonsági okból indokolt, a NÉBIH a mellékhatás-figyelő rendszer által összegyűjtött adatok értékelése alapján
+83. § (1)[^195] Ha gyógyszerbiztonsági okból indokolt, a NÉBIH a mellékhatás-figyelő rendszer által összegyűjtött adatok értékelése alapján
 
 a) a készítmény forgalomba hozatali engedélye alapján végzett tevékenység felfüggesztését rendeli el, illetve az engedélyt módosítja vagy visszavonja, vagy a készítmény, illetve annak adott tétele forgalmazását megtiltja, valamint elrendeli a hazai piacról történő kivonását,
 
@@ -10,10 +10,10 @@ d) kiegészíti az ellenjavallatokat és figyelmeztetéseket, illetve új óvint
 
 e) kiegészíti a mellékhatásokat.
 
-(2)[^194] Ha a közegészségügy, illetve az állategészségügy védelme sürgős intézkedést tesz szükségessé, a készítmény forgalomba hozatali engedélye alapján végzett tevékenység felfüggesztését a NÉBIH azonnali hatállyal is elrendelheti.
+(2)[^196] Ha a közegészségügy, illetve az állategészségügy védelme sürgős intézkedést tesz szükségessé, a készítmény forgalomba hozatali engedélye alapján végzett tevékenység felfüggesztését a NÉBIH azonnali hatállyal is elrendelheti.
 
-(3)[^195] Az (1) bekezdés a)–d) pontjaiban és a (2) bekezdésben foglalt intézkedésekről, különös tekintettel a tevékenység azonnali felfüggesztéséről szóló határozatról a NÉBIH az Európai Gyógyszer Ügynökséget, az Európai Bizottságot, a többi tagállamot és az engedélyest azonnal, de legkésőbb a határozatot követő munkanapon köteles értesíteni.
+(3)[^197] Az (1) bekezdés a)–d) pontjaiban és a (2) bekezdésben foglalt intézkedésekről, különös tekintettel a tevékenység azonnali felfüggesztéséről szóló határozatról a NÉBIH az Európai Gyógyszer Ügynökséget, az Európai Bizottságot, a többi tagállamot és az engedélyest azonnal, de legkésőbb a határozatot követő munkanapon köteles értesíteni.
 
-[^193]: A 83. § (1) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja szerint módosított szöveg.
-[^194]: A 83. § (2) bekezdése a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja szerint módosított szöveg.
-[^195]: A 83. § (3) bekezdése a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja szerint módosított szöveg.
+[^195]: A 83. § (1) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja szerint módosított szöveg.
+[^196]: A 83. § (2) bekezdése a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja szerint módosított szöveg.
+[^197]: A 83. § (3) bekezdése a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja szerint módosított szöveg.

@@ -1,6 +1,6 @@
-## A járási állategészségügyi hivatal feladatai[^231]
+## A járási állategészségügyi hivatal feladatai[^233]
 
-95. § (1)[^232] A járási állategészségügyi hivatal hatósági ellenőrzés keretében ellátja
+95. § (1)[^234] A járási állategészségügyi hivatal hatósági ellenőrzés keretében ellátja
 
 a) az állatgyógyászati készítmények harmadik országból történő behozatalának ellenőrzését,
 
@@ -10,13 +10,13 @@ c) a forgalmazás feltételei betartásának és az állatgyógyászati készít
 
 d) a piacfelügyeleti tevékenység keretében az állatgyógyászati készítményt harmadik országból behozó (a továbbiakban: importáló) nagykereskedőnél, egyéb nagykereskedőnél, kiskereskedőnél és felhasználónál, különösen takarmánykeverő üzemben és állattartó telepen történő ellenőrzését.
 
-(2)[^233] Az ellenőrzés során a járási állategészségügyi hivatal képviselője jogosult:
+(2)[^235] Az ellenőrzés során a járási állategészségügyi hivatal képviselője jogosult:
 
 a) belépni a forgalmazás, illetve felhasználás valamennyi érintett területére,
 
 b) az a) pontban felsorolt helyeken fényképfelvételt készíteni,
 
-c)[^234] betekinteni valamennyi, a forgalmazással, illetve felhasználással kapcsolatos nyilvántartásba, amelyben szereplő dokumentumokról az ellenőrzött köteles a járási állategészségügyi hivatal képviselője felszólítására másolatot adni,
+c)[^236] betekinteni valamennyi, a forgalmazással, illetve felhasználással kapcsolatos nyilvántartásba, amelyben szereplő dokumentumokról az ellenőrzött köteles a járási állategészségügyi hivatal képviselője felszólítására másolatot adni,
 
 d) bármely termékből, annak alapanyagából ellenőrzés céljára térítésmentesen mintát venni, illetve vetetni, azzal, hogy mintavétel esetén az ellenőrzött ellenmintára tarthat igényt, amelyet az eljárás befejezéséig vizsgálatra alkalmas állapotban meg kell őriznie,
 
@@ -40,7 +40,7 @@ f) a lejárati időre,
 
 g) a tárolási körülményekre.
 
-[^231]: A 95. §-t megelőző alcím a 151/2012. (XII. 29.) VM rendelet 35. § b) pontja, a 70/2013. (VII. 31.) VM rendelet 111. § 28. pontja szerint módosított szöveg.
-[^232]: A 95. § (1) bekezdés nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 35. § b) pontja, a 70/2013. (VII. 31.) VM rendelet 111. § 29. pontja szerint módosított szöveg.
-[^233]: A 95. § (2) bekezdés nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 35. § b) pontja, a 70/2013. (VII. 31.) VM rendelet 111. § 30. pontja szerint módosított szöveg.
-[^234]: A 95. § (2) bekezdés c) pontja a 151/2012. (XII. 29.) VM rendelet 35. § b) pontja, a 70/2013. (VII. 31.) VM rendelet 111. § 30. pontja szerint módosított szöveg.
+[^233]: A 95. §-t megelőző alcím a 151/2012. (XII. 29.) VM rendelet 35. § b) pontja, a 70/2013. (VII. 31.) VM rendelet 111. § 28. pontja szerint módosított szöveg.
+[^234]: A 95. § (1) bekezdés nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 35. § b) pontja, a 70/2013. (VII. 31.) VM rendelet 111. § 29. pontja szerint módosított szöveg.
+[^235]: A 95. § (2) bekezdés nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 35. § b) pontja, a 70/2013. (VII. 31.) VM rendelet 111. § 30. pontja szerint módosított szöveg.
+[^236]: A 95. § (2) bekezdés c) pontja a 151/2012. (XII. 29.) VM rendelet 35. § b) pontja, a 70/2013. (VII. 31.) VM rendelet 111. § 30. pontja szerint módosított szöveg.

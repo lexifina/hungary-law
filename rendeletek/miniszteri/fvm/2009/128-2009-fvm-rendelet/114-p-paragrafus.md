@@ -1,4 +1,4 @@
-114/P. § (1)[^297] A NÉBIH az egyéb gyógyhatású készítményt nyilvántartásba veszi, ha
+114/P. § (1)[^300] A NÉBIH az egyéb gyógyhatású készítményt nyilvántartásba veszi, ha
 
 a) összetétele vagy alkotóelemei ismertek, az összetevők és a készítmény minősége ismert, valamint a készítmény meghatározott és állandó minősége biztosított,
 
@@ -6,7 +6,7 @@ b) a kérelmezett alkalmazási módon és adagolásban ártalmatlansága bizony�
 
 c) a felhasználási célra való alkalmassága igazolt, vagy a címkén feltüntetni kívánt hatékonyságára vonatkozó adatokkal rendelkezik, illetve gyógyhatása igazolt.
 
-(2)[^298] A NÉBIH az egyéb gyógyhatású készítmény nyilvántartásba vétele iránti kérelmet elutasítja, ha
+(2)[^301] A NÉBIH az egyéb gyógyhatású készítmény nyilvántartásba vétele iránti kérelmet elutasítja, ha
 
 a) a készítmény nem felel meg az (1) bekezdésben felsorolt feltételeknek,
 
@@ -18,5 +18,5 @@ d) a készítmény valamely összetevőjének alkalmazását jogszabály tiltja.
 
 (3) Az egyéb gyógyhatású készítmény a nyilvántartásba vételi igazolás keltétől számított 5 évig hozható forgalomba. Az 5 év lejárta előtt legkésőbb 90 nappal a gyártó, a forgalmazó vagy annak képviselője kérheti a készítmény nyilvántartásba vételének megújítását. Ennek elmulasztása esetén a készítmény az 5 év lejárta utáni naptól nem lehet forgalomban.
 
-[^297]: A 114/P. § (1) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 35. pontja szerint módosított szöveg.
-[^298]: A 114/P. § (2) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 35. pontja szerint módosított szöveg.
+[^300]: A 114/P. § (1) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 35. pontja szerint módosított szöveg.
+[^301]: A 114/P. § (2) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 35. pontja szerint módosított szöveg.
