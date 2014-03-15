@@ -8,7 +8,7 @@
 
 (4) A tag az egyéni cég ügyvezetését az ilyen tisztséget betöltő személytől általában elvárható gondossággal, az egyéni cég érdekeinek elsődlegessége alapján köteles ellátni.
 
-(5) Az egyéni cég fizetésképtelenségével fenyegető helyzet bekövetkeztét követően, a tag ügyvezetési feladatait a társaság hitelezői érdekeinek elsődlegessége alapján köteles ellátni.
+(5) Az egyéni cég fizetésképtelenségével fenyegető helyzet bekövetkeztét követően, a tag ügyvezetési feladatait a társaság hitelezői érdekeinek figyelembevételével köteles ellátni.
 
 (6) Ha az egyéni cég tagja az alapításkor nem felelt meg az egyéni vállalkozóra vonatkozó követelményeknek, úgy kell tekinteni, hogy a működése során nem tartja be a szervezetére és működésére vonatkozó jogszabályi rendelkezéseket.
 

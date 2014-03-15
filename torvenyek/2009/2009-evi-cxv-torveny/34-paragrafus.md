@@ -12,4 +12,4 @@ e) a cégbíróság hivatalból elrendeli törlését,
 
 f) a bíróság felszámolási eljárás során megszünteti.
 
-(2) Az egyéni cégre a felszámolás, a végelszámolás és a csődeljárás szabályait alkalmazni kell.
+(2) Az egyéni cégre a felszámolás, a végelszámolás, kényszertörlés és a csődeljárás szabályait alkalmazni kell.

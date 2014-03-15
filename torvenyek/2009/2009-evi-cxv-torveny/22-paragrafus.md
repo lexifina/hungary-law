@@ -4,7 +4,7 @@ a) az egyéni cég cégnevét és székhelyét,
 
 b) az egyéni cég alapítóját családi és utóneve, anyja neve, lakóhelye és egyéni vállalkozói nyilvántartási száma feltüntetésével,
 
-c) az egyéni cég azon tevékenységeit, amelyeket a cégjegyzékben szerepeltetni kíván,
+c) az egyéni cég főtevékenységét és valamennyi tevékenységét,
 
 d) az egyéni cég jegyzett tőkéjét, a tag vagyoni betétjének összegét, valamint a jegyzett tőke rendelkezésre bocsátásának módját és idejét,
 
