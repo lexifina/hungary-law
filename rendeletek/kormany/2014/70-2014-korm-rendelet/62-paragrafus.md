@@ -1,0 +1,1 @@
+## „(5) Az (1) bekezdés g) pontjában foglaltak vizsgálatakor alapos oknak kell tekinteni különösen, ha a gyámságot vállaló személy a gyermekkel vagy a gyermek szülőjével szemben felróható magatartást tanúsított, vagy a gyermek és a családbafogadó gyámságot vállaló személy érzelmileg nem kötődnek egymáshoz.”

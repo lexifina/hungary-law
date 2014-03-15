@@ -1,0 +1,1 @@
+## „(4a) Örökbefogadás esetén a kapcsolattartás rendezése során a gyámhivatal vizsgálja a Ptk. 4:133. § (3) és (4) bekezdésében foglalt feltételek fennállását. A Ptk. 4:133. § (4) bekezdése szerinti esetben a vér szerinti szülő akkor jogosítható fel a kapcsolattartásra, ha az a gyermek érdekében áll.”
