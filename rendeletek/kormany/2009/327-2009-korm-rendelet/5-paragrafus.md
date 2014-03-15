@@ -2,7 +2,7 @@
 
 ## 5. § A pénzforgalmi szolgáltató számviteli politikája keretében köteles elkészíteni a Tv.-ben előírtakon túlmenően
 
-a)[^9] a szolgáltatás elkülönítési szabályzatát, amelynek keretében részletesen szabályozza, hogyan különíti el nyilvántartásában a pénzforgalmi szolgáltatással összefüggésben, valamint a pénzforgalmi szolgáltatáshoz kapcsolódóan az Fsztv. szerint végzett más pénzügyi szolgáltatások miatt keletkező eszközeit, forrásait, bevételeit, költségeit és ráfordításait, valamint, hogy milyen módszertant alkalmaz azon tételek megosztásához, amelyek a pénzforgalmi szolgáltatás, valamint a kapcsolódó pénzügyi szolgáltatás nyújtásához és az attól eltérő tevékenységekhez egyaránt hozzárendelhetők;
+a)[^10] a szolgáltatás elkülönítési szabályzatát, amelynek keretében részletesen szabályozza, hogyan különíti el nyilvántartásában a pénzforgalmi szolgáltatással összefüggésben, valamint a pénzforgalmi szolgáltatáshoz kapcsolódóan az Fsztv. szerint végzett más pénzügyi szolgáltatások miatt keletkező eszközeit, forrásait, bevételeit, költségeit és ráfordításait, valamint, hogy milyen módszertant alkalmaz azon tételek megosztásához, amelyek a pénzforgalmi szolgáltatás, valamint a kapcsolódó pénzügyi szolgáltatás nyújtásához és az attól eltérő tevékenységekhez egyaránt hozzárendelhetők;
 
 b) a szigorú számadású bizonylatok, nyomtatványok kezeléséről, nyilvántartásuk és elszámoltatásuk rendjéről és azok ellenőrzéséről szóló szabályzatot;
 
@@ -10,4 +10,4 @@ c) az összevont (konszolidált) éves beszámoló elkészítésére vonatkozó 
 
 d) a fióktelep és a központ közötti elszámolásra, illetve a fióktelepek egymás közötti elszámolására vonatkozó szabályzatot a Hitkr. 3. §-a (10) bekezdésében foglaltak megfelelő alkalmazásával, feltéve, hogy a pénzforgalmi szolgáltató külföldi vállalkozás (központ) belföldi fióktelepének vagy külföldi fiókteleppel rendelkező belföldi vállalkozásnak (központnak) minősül.
 
-[^9]: Az 5. § a) pontja az 518/2013. (XII. 30.) Korm. rendelet 66. § 1. pontja szerint módosított szöveg.
+[^10]: Az 5. § a) pontja az 518/2013. (XII. 30.) Korm. rendelet 66. § 1. pontja szerint módosított szöveg.

@@ -1,8 +1,8 @@
-6. § (1)[^10] A pénzforgalmi szolgáltatónak belső számviteli rendjét oly módon kell kialakítania, hogy annak adataiból év közben is kielégíthesse a Magyar Nemzeti Bank információs igényeit.
+6. § (1)[^11] A pénzforgalmi szolgáltatónak belső számviteli rendjét oly módon kell kialakítania, hogy annak adataiból év közben is kielégíthesse a Magyar Nemzeti Bank információs igényeit.
 
-(2)[^11] Az (1) bekezdéssel összhangban biztosítani kell, hogy az Fsztv. szerinti rendelkezésre álló szavatoló tőke levezetésénél, valamint a szavatoló tőke Fsztv.-ben meghatározott minimális szintjének megállapításánál figyelembevett források és eszközök értéke a számviteli nyilvántartásokban bármikor megállapítható legyen.
+(2)[^12] Az (1) bekezdéssel összhangban biztosítani kell, hogy az Fsztv. szerinti rendelkezésre álló szavatoló tőke levezetésénél, valamint a szavatoló tőke Fsztv.-ben meghatározott minimális szintjének megállapításánál figyelembevett források és eszközök értéke a számviteli nyilvántartásokban bármikor megállapítható legyen.
 
-(3)[^12] Az Fsztv. szerinti tőkekövetelmény meghatározásánál
+(3)[^13] Az Fsztv. szerinti tőkekövetelmény meghatározásánál
 
 a) a költségmódszer alkalmazása során alapul vett általános igazgatási költség a Tv. szerinti értékesítés közvetett költségein belül kimutatott igazgatási költségeket, egyéb általános költségeket, valamint a pénzforgalmi szolgáltatás és a kapcsolódó pénzügyi szolgáltatás nyújtásához (értékesítéséhez) közvetlenül hozzárendelhető értékesítési, forgalmazási költségeket foglalja magában,
 
@@ -22,6 +22,6 @@ b) az irányadó mutató alkalmazása során alapul vett, a pénzforgalmi szolg�
 
 (10) A (9) bekezdésben foglaltaktól eltérően, a kamatjellegű jutalékot, a kamatjellegű bevételt a kapott kamatok és kamatjellegű bevételek között, pénzforgalmi szolgáltatással, illetve kapcsolódó pénzügyi szolgáltatással összefüggő kamatként és kamatjellegű bevételként elkülönítetten kell nyilvántartani. E tekintetben kamatjellegű jutaléknak, illetve kamatjellegű bevételnek minősül a Hitkr. 10. §-a (2) bekezdésének f) pontja, illetve (3) bekezdése szerint meghatározott jutalék, illetve bevétel.
 
-[^10]: A 6. § (1) bekezdése a 345/2013. (IX. 30.) Korm. rendelet 58. § a) pontja szerint módosított szöveg.
-[^11]: A 6. § (2) bekezdése az 518/2013. (XII. 30.) Korm. rendelet 66. § 1. és 3. pontja szerint módosított szöveg.
-[^12]: A 6. § (3) bekezdés nyitó szövegrésze az 518/2013. (XII. 30.) Korm. rendelet 66. § 4. pontja szerint módosított szöveg.
+[^11]: A 6. § (1) bekezdése a 345/2013. (IX. 30.) Korm. rendelet 58. § a) pontja szerint módosított szöveg.
+[^12]: A 6. § (2) bekezdése az 518/2013. (XII. 30.) Korm. rendelet 66. § 1. és 3. pontja szerint módosított szöveg.
+[^13]: A 6. § (3) bekezdés nyitó szövegrésze az 518/2013. (XII. 30.) Korm. rendelet 66. § 4. pontja szerint módosított szöveg.

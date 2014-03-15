@@ -1,4 +1,4 @@
-## III/C. Fejezet[^26]
+## III/C. Fejezet[^27]
 
 ## UTALVÁNYKIBOCSÁTÓK ÉVES BESZÁMOLÓKÉSZÍTÉSI ÉS KÖNYVVEZETÉSI KÖTELEZETTSÉGÉNEK SAJÁTOSSÁGAI
 
@@ -30,4 +30,4 @@ b) a Tv. 54. § (8) bekezdése szerinti befektetési célú, lejáratig tartott,
 
 c) az utalvány kibocsátásának és visszaváltásának tárgyévi díjbevételét.
 
-[^26]: A III/C fejezetet (17/F. §) az 518/2013. (XII. 30.) Korm. rendelet 64. §-a iktatta be.
+[^27]: A III/C fejezetet (17/F. §) az 518/2013. (XII. 30.) Korm. rendelet 64. §-a iktatta be.

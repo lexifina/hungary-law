@@ -2,7 +2,7 @@
 
 a) az elektronikus pénz kibocsátásából, valamint a végzett egyéb pénzügyi szolgáltatásból származó(an)
 
-aa)[^22] eszközeit, követelések, értékpapírok, készletek, pénzeszközök, aktív időbeli elhatárolások bontásban, ezekből külön kiemelten bemutatva a hitel és pénzkölcsönügyletből eredő követeléseket, valamint a Hpt. szerint elkülönített letéti számlára helyezett ügyfélpénzek összegét,
+aa)[^23] eszközeit, követelések, értékpapírok, készletek, pénzeszközök, aktív időbeli elhatárolások bontásban, ezekből külön kiemelten bemutatva a hitel és pénzkölcsönügyletből eredő követeléseket, valamint a Hpt. szerint elkülönített letéti számlára helyezett ügyfélpénzek összegét,
 
 ab) kötelezettségeit, külön kiemelten bemutatva a fizetési számla kapcsán az ügyféllel szemben fennálló tartozást, a céltartalékokat és a passzív időbeli elhatárolásokat,
 
@@ -22,4 +22,4 @@ ai) be nem folyt kamatokat;
 
 b) a Hitkr. 25. §-ának 7., 28., 40., 42., és 43. pontjai szerinti adatokat az elektronikuspénz-kibocsátó intézmény vonatkozásában, továbbá, ha az a nemzetközi számviteli standardok szerinti konszolidált beszámolót készítő anyavállalatnak minősül, akkor a Hitkr. 26. §-ának (10) bekezdése szerinti adatokat az elektronikuspénz-kibocsátó intézményre vonatkozóan.
 
-[^22]: A 17/C. § a) pont aa) alpontja az 518/2013. (XII. 30.) Korm. rendelet 62. §-ával megállapított szöveg.
+[^23]: A 17/C. § a) pont aa) alpontja az 518/2013. (XII. 30.) Korm. rendelet 62. §-ával megállapított szöveg.

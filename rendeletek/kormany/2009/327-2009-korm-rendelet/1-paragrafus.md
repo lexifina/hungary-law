@@ -8,7 +8,7 @@ b) a pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. tör
 
 c) a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény (a továbbiakban: Bszt.) hatálya alá tartozó árutőzsdei szolgáltatóra,
 
-d) a befektetési alapkezelőkről és a kollektív befektetési formákról szóló 2011. évi CXCIII. törvény hatálya alá tartozó befektetési alapkezelőre,
+d)[^2] a kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény hatálya alá tartozó befektetési alapkezelőre,
 
 e) az Fsztv. hatálya alá tartozó elektronikuspénz-kibocsátó intézményre,
 
@@ -19,3 +19,4 @@ g) az Fsztv. hatálya alá tartozó utalványkibocsátóra,
 h) a tőkepiacról szóló 2001. évi CXX. törvény (a továbbiakban: Tpt.) hatálya alá tartozó központi szerződő félre.
 
 [^1]: Az 1. § az 518/2013. (XII. 30.) Korm. rendelet 59. §-ával megállapított szöveg.
+[^2]: Az 1. § d) pontja a 79/2014. (III. 14.) Korm. rendelet 33. §-a szerint módosított szöveg.
