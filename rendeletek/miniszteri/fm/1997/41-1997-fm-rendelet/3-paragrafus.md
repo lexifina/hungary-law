@@ -1,3 +1,5 @@
+## 2/A. §[^4] E rendelet alkalmazásában gazdálkodó szervezeten a polgári perrendtartásról szóló törvényben meghatározott gazdálkodó szervezetet kell érteni.
+
 3. § (1) Ez a rendelet 1997. július 1. napján lép hatályba, egyidejűleg
 
 a) az állategészségügyről szóló 1981. évi 3. törvényerejű rendelet végrehajtására kiadott 6/1981. (IV. 12.) MÉM rendelet és az azt módosító 23/1981. (XI. 26.) MÉM rendelet, a 28/1982. (XII. 24.) MÉM rendelet 1. §-a, a 3/1986. (II. 21.) MÉM rendelet, a 3/1992. (II. 10.) FM rendelet 4. §-a, a 39/1993. (IX. 16.) FM rendelet, a 43/1995. (XII. 22.) FM rendelet, a 12/1996. (V. 7.) FM rendelet,
@@ -21,3 +23,5 @@ i) az állati hulladékok hatóságilag elrendelt ártalmatlanná tételéért f
 hatályát veszti.
 
 (2) Ez a rendelet az Európai Megállapodás kihirdetéséről szóló 1994. évi I. törvény alapján az Európai Közösségek jogszabályaihoz való közelítést célozza. Az irányadó és e rendelet alkotásánál figyelembe vett közösségi jogszabályok jegyzékét a 3. számú melléklet tartalmazza.
+
+[^4]: A 2/A. §-t a 22/2014. (III. 14.) VM rendelet 3. § (1) bekezdése iktatta be.

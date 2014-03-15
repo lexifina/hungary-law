@@ -1,6 +1,6 @@
 ## 11. számú függelék
 
-## az Állategészségügyi Szabályzathoz[^366]
+## az Állategészségügyi Szabályzathoz[^370]
 
 ## 12. számú függelék
 
@@ -10,7 +10,7 @@
 
 I. A karanténozás általános szabályai
 
-1.[^367] Az elkülönítés ideje alatt az állatokról az állatok tartója nyilvántartást, a karantént felügyelő hatósági állatorvos a járási főállatorvos által hitelesített karantén naplót köteles vezetni.
+1.[^371] Az elkülönítés ideje alatt az állatokról az állatok tartója nyilvántartást, a karantént felügyelő hatósági állatorvos a járási főállatorvos által hitelesített karantén naplót köteles vezetni.
 
 2. Az elkülönített állatok gondozója más, fogékony állatot nem gondozhat és azok gondozóival nem érintkezhet.
 
@@ -40,5 +40,5 @@ II. Import állatok karanténozásának szabályai
 
 5. Az importállatokat a tulajdonos költségére kell karanténozni. A karanténozás időtartama legalább harminc nap, nyúl baromfi és galamb esetében legalább huszonegy nap. Ettől eltérő időtartamot a minisztérium megállapíthat.
 
-[^366]: Az 1. számú melléklet 11. számú függelékét az 52/2003. (VIII. 15.) GKM–FVM együttes rendelet 37. § (1) bekezdése hatályon kívül helyezte.
-[^367]: Az 1. számú melléklet 12. számú függelék I. pont 1. alpontja a 151/2012. (XII. 29.) VM rendelet 1. § d) pontja szerint módosított szöveg.
+[^370]: Az 1. számú melléklet 11. számú függelékét az 52/2003. (VIII. 15.) GKM–FVM együttes rendelet 37. § (1) bekezdése hatályon kívül helyezte.
+[^371]: Az 1. számú melléklet 12. számú függelék I. pont 1. alpontja a 151/2012. (XII. 29.) VM rendelet 1. § d) pontja szerint módosított szöveg.

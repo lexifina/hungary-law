@@ -1,6 +1,6 @@
 ## 3–4. számú függelék
 
-## az Állategészségügyi Szabályzathoz[^355]
+## az Állategészségügyi Szabályzathoz[^359]
 
 ## 5. számú függelék
 
@@ -8,7 +8,7 @@
 
 ## Állati hulladékgyűjtők, hulladéktemetők, hulladékemésztő vermek, kedvtelésből tartott állatok kegyeleti temetője létesítésének állategészségügyi feltételei
 
-1–2.[^356]
+1–2.[^360]
 
 A gyepmesteri telep
 
@@ -48,7 +48,7 @@ mindenkor rendelkezésre álljanak.
 
 3.4. Az állati eredetű hulladékok, valamint az állathullák megőrzésére, lebőrőzésére és boncolására használt helyiségekben és istállókban a padozatot, valamint a padozattól számított két méter magasságig a falakat könnyen mosható és fertőtleníthető, vízálló anyaggal kell burkolni.
 
-3.5.[^357] A gazdálkodó szervezetek [Ptk. 685. § c) pontja] által fenntartott hullabegyűjtő helyekre – az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság előírása szerint – a gyepmesteri telepre vonatkozó szabályokat kell alkalmazni.
+3.5.[^361] A gazdálkodó szervezetek által fenntartott hullabegyűjtő helyekre – az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság előírása szerint – a gyepmesteri telepre vonatkozó szabályokat kell alkalmazni.
 
 3.6.Az állathulláknak a gyepmesteri telepre szállításával, őrzésével és ártalmatlanná tételével járó feladatok elvégzésére minden városban gyepmestert kell alkalmazni. A gyepmestert a polgármesteri hivatal alkalmazza.
 
@@ -80,9 +80,9 @@ j) a gyepmesteri telepre szállított állathullákról, a hatósági rendelkez�
 
 3.10. A gyepmesteri telep állategészségügyi felügyeletét a hatósági állatorvos látja el.
 
-4.[^358]
+4.[^362]
 
-[^355]: Az 1. számú melléklet 3–4. számú függelékét a 71/2003. (VI. 27.) FVM rendelet 27. §-ának (1) bekezdése hatályon kívül helyezte.
-[^356]: Az 1. számú melléklet 5. számú függelékének 1–2. pontját a 71/2003. (VI. 27.) FVM rendelet 27. §-ának (1) bekezdése hatályon kívül helyezte.
-[^357]: A 1. számú melléklet 5. függelék 3.5. pontja a 70/2013. (VII. 31.) VM rendelet 3. § (1) bekezdés b) pontja szerint módosított szöveg.
-[^358]: Az 1. számú melléklet 5. számú függelék 4. pontját a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdés 87. pontja hatályon kívül helyezte. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^359]: Az 1. számú melléklet 3–4. számú függelékét a 71/2003. (VI. 27.) FVM rendelet 27. §-ának (1) bekezdése hatályon kívül helyezte.
+[^360]: Az 1. számú melléklet 5. számú függelékének 1–2. pontját a 71/2003. (VI. 27.) FVM rendelet 27. §-ának (1) bekezdése hatályon kívül helyezte.
+[^361]: A 1. számú melléklet 5. függelék 3.5. pontja a 70/2013. (VII. 31.) VM rendelet 3. § (1) bekezdés b) pontja, a 22/2014. (III. 14.) VM rendelet 3. § (3) bekezdése szerint módosított szöveg.
+[^362]: Az 1. számú melléklet 5. számú függelék 4. pontját a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdés 87. pontja hatályon kívül helyezte. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.

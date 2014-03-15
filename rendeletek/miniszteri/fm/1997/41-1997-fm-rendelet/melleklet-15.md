@@ -1,8 +1,8 @@
-## 13. számú függelék[^368]
+## 13. számú függelék[^372]
 
 ## 14. számú függelék
 
-## az Állategészségügyi Szabályzathoz[^369]
+## az Állategészségügyi Szabályzathoz[^373]
 
 ## 15. számú függelék
 
@@ -208,7 +208,7 @@ hatósági állatorvos
 
 16. számú függelék
 
-az Állategészségügyi Szabályzathoz[^370]
+az Állategészségügyi Szabályzathoz[^374]
 
 16. számú függelék az Állategészségügyi Szabályzathoz
 
@@ -620,7 +620,7 @@ Klórlúg 4,0%
 
 Nátrium-hidroxid 4,0%
 
-14.[^371]
+14.[^375]
 
 15. Brucellózis
 
@@ -692,7 +692,7 @@ A takarmányban levő száj- és körömfájás vírus az alábbi módon pusztí
 
 Fenti eljárást kell értelemszerűen alkalmazni valamennyi bejelentési kötelezettség alá tartozó állatbetegség esetén.
 
-4.[^372] A kutak fertőtlenítése
+4.[^376] A kutak fertőtlenítése
 
 Kutakat klórmésszel, magnolmésszel vagy klórlúggal kell fertőtleníteni.
 
@@ -890,7 +890,7 @@ d) a gumicsizmákat, a vászonneműket és kötényeket.
 
 2. A szigorított fertőtlenítést az I/4. a) pontban felsorolt szervek valamelyikével kell elvégezni. A halászati eszközöket meleg csersavas konzerválással is lehet fertőtleníteni, és azokat a fertőtlenítés után tiszta folyó vízben alaposan ki kell öblíteni. A vászonnemű és kötények kifőzés útján is fertőtleníthetők.
 
-14.[^373]
+14.[^377]
 
 III. A fertőtlenítés hatékonyságának ellenőrzése
 
@@ -958,13 +958,9 @@ telített oldata intravénásan.
 
 – Felnőtt juhok: leölésére kábítópisztoly, szükséges erősségű lövedékkel használható. Használatát azonnal gerincvelő roncsolásnak kell követni.
 
-Az állatok lőfegyverrel, elektromos kábítókészülékkel való leölését a fegyver, illetve a készülék használatára kiképzett, a kiképzést okmánnyal tanúsító dolgozó végezheti.
-
-3. Állatok leölése elektromos kábítókészülékkel
-
-[^368]: Az 1. számú melléklet 13. számú függelékét az 53/2004. (IV. 24.) FVM rendelet 27. §-ának (2) bekezdése hatályon kívül helyezte.
-[^369]: Az 1. számú melléklet 14. számú függelékét a 87/2012. (VIII. 27.) VM rendelet 24. § (1) bekezdés c) pontja hatályon kívül helyezte.
-[^370]: Az 1. számú melléklet 16. számú függeléke a 70/2013. (VII. 31.) VM rendelet 3. § (2) bekezdés 44. pontja szerint módosított szöveg.
-[^371]: Az 1. számú melléklet 18. számú függelékének II/2/14. pontját a 70/2003. (VI. 27.) FVM rendelet 41. §-ának (3) bekezdése hatályon kívül helyezte.
-[^372]: Az 1. melléklet 18. számú függelék II. 4. pontja a 147/2011. (XII. 23.) VM rendelet 6. §-a szerint módosított szöveg.
-[^373]: Az 1. számú melléklet 18. számú függelékének II/14. pontját a 70/2003. (VI. 27.) FVM rendelet 41. §-ának (3) bekezdése hatályon kívül helyezte.
+[^372]: Az 1. számú melléklet 13. számú függelékét az 53/2004. (IV. 24.) FVM rendelet 27. §-ának (2) bekezdése hatályon kívül helyezte.
+[^373]: Az 1. számú melléklet 14. számú függelékét a 87/2012. (VIII. 27.) VM rendelet 24. § (1) bekezdés c) pontja hatályon kívül helyezte.
+[^374]: Az 1. számú melléklet 16. számú függeléke a 70/2013. (VII. 31.) VM rendelet 3. § (2) bekezdés 44. pontja szerint módosított szöveg.
+[^375]: Az 1. számú melléklet 18. számú függelékének II/2/14. pontját a 70/2003. (VI. 27.) FVM rendelet 41. §-ának (3) bekezdése hatályon kívül helyezte.
+[^376]: Az 1. melléklet 18. számú függelék II. 4. pontja a 147/2011. (XII. 23.) VM rendelet 6. §-a szerint módosított szöveg.
+[^377]: Az 1. számú melléklet 18. számú függelékének II/14. pontját a 70/2003. (VI. 27.) FVM rendelet 41. §-ának (3) bekezdése hatályon kívül helyezte.
