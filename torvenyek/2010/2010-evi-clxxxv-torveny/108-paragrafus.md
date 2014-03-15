@@ -22,7 +22,7 @@ c) az Állami Számvevőszék elnöke által esetileg delegált két tag. E tago
 
 (8) A közszolgálati médiaszolgáltató – közszolgálati céljainak elősegítése érdekében – vállalkozási tevékenységet végezhet. Nyereségét kizárólag a közszolgálati médiaszolgáltatás végzésére vagy fejlesztésére használhatja fel. A vállalkozási tevékenységének folytatásához való jogot – tekintettel az Alapnak a közszolgálati média támogatása érdekében végzett tevékenységére, ellenérték nélkül – átengedheti az Alap részére. Az Alap az ebből eredő bevételeit csak a közszolgálati médiaszolgáltatók céljainak elérésére használhatja fel.
 
-(9) A közszolgálati médiaszolgáltatónak nem lehet részesedése más médiaszolgáltatóban, alapítványt nem hozhat létre. A közszolgálati médiaszolgáltató befolyásoló részesedése alatt álló gazdálkodó szervezet közszolgálati médiaszolgáltatást indíthat, nyújthat.
+(9) A közszolgálati médiaszolgáltatónak nem lehet részesedése más médiaszolgáltatóban, alapítványt nem hozhat létre. A közszolgálati médiaszolgáltató befolyásoló részesedése alatt álló gazdasági társaság közszolgálati médiaszolgáltatást indíthat, nyújthat.
 
 (10) A közszolgálati médiaszolgáltató szerződéseiről külön nyilvántartást vezet. A nyilvántartásban naprakészen fel kell tüntetni a szerződő fél cégszerű azonosításához szükséges adatokat, valamint a szerződő felek által teljesítendő szolgáltatást és ellenszolgáltatást.
 

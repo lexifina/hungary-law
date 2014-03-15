@@ -1,4 +1,4 @@
-91. § (1) A Közalapítvány gyakorolja a közszolgálati médiaszolgáltatók vonatkozásában a gazdasági társaságokról szóló törvényben meghatározott alapítói, illetve részvényesi jogokat. Nem jogosult azonban:
+91. § (1) A Közalapítvány gyakorolja a közszolgálati médiaszolgáltatók vonatkozásában a Polgári Törvénykönyvnek a gazdasági társaságokra irányadó rendelkezéseiben meghatározott alapítói, illetve részvényesi jogokat. Nem jogosult azonban:
 
 a) megváltoztatni a közszolgálati médiaszolgáltatók alapvető tevékenységi körét,
 
@@ -12,4 +12,4 @@ e) közszolgálati médiaszolgáltató vezérigazgatójának az általa gyakorol
 
 f) olyan kérdésben dönteni, amely e törvény alapján más szerv vagy közszolgálati médiaszolgáltató vezérigazgatójának hatáskörébe tartozik.
 
-(2) A Közalapítvány Kuratóriuma nem bővítheti a 90. §-ban foglalt hatásköreit, még a gazdasági társaságokról szóló törvényben meghatározott – a 90. §-ban nem szereplő – alapítói jogkörökkel sem.
+(2) A Közalapítvány Kuratóriuma nem bővítheti a 90. §-ban foglalt hatásköreit, még a Polgári Törvénykönyvnek a gazdasági társaságokra irányadó rendelkezéseiben meghatározott – a 90. §-ban nem szereplő – alapítói jogkörökkel sem.

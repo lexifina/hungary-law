@@ -14,4 +14,4 @@
 
 (7) A közszolgálati médiaszolgáltatók belső ellenőrzési szervezetei a Bizottság irányítása alá tartoznak.
 
-(8) A Bizottság szervezetére, működésére egyebekben a gazdasági társaságokról szóló törvénynek, a Közalapítvány alapító okiratának, valamint Szervezeti és Működési Szabályzatának előírásai az irányadóak.
+(8) A Bizottság szervezetére, működésére egyebekben a Polgári Törvénykönyvnek a gazdasági társaságokról szóló rendelkezései, a Közalapítvány alapító okiratának, valamint Szervezeti és Működési Szabályzatának előírásai az irányadóak.

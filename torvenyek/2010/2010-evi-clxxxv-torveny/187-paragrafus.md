@@ -1,6 +1,6 @@
 187. § (1) Ismételt jogsértés esetén a Médiatanács és a Hivatal kétmillió forintig terjedő bírsággal sújthatja a jogsértő szervezet vezető tisztségviselőjét a jogsértés súlyához, jellegéhez, illetve az egyedi ügy sajátosságaihoz mérten.
 
-(2) A Médiatanács és a Hivatal a jogkövetkezményt – a jogsértés jellegétől függően – a jogsértés súlyára, a jogsértés ismételtségére, folyamatosságára, időtartamára, a jogsértéssel elért vagyoni előnyre, valamint a jogsértéssel okozott érdeksérelemre, az érdeksérelmet szenvedett és veszélyeztetett személyek számára, illetve a jogsértéssel okozott kárra és a jogsértés piacra gyakorolt hatására, továbbá az egyedi ügyben értékelhető egyéb szempontokra tekintettel állapítja meg.
+(2) A Médiatanács és a Hivatal a jogkövetkezményt – a jogsértés jellegétől függően – a jogsértés súlyára, a jogsértés ismételtségére, folyamatosságára, időtartamára, a jogsértéssel elért vagyoni előnyre, valamint a jogsértéssel okozott érdeksérelemre, az érdeksérelmet szenvedett és veszélyeztetett személyek számára, illetve a jogsértéssel okozott kárra, személyiségi jogsérelemre és a jogsértés piacra gyakorolt hatására, továbbá az egyedi ügyben értékelhető egyéb szempontokra tekintettel állapítja meg.
 
 (3) A Médiatanács és a Hivatal – a (7) bekezdés figyelembevételével – a következő jogkövetkezmények alkalmazására jogosult:
 

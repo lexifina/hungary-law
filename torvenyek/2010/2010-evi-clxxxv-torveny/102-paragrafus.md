@@ -1,6 +1,6 @@
 ## A közszolgálati médiaszolgáltatók vezérigazgatóinak választása
 
-102. § (1) A közszolgálati médiaszolgáltatók ügyvezetését a vezérigazgató látja el, igazgatóság nem működik. A vezérigazgató – e törvény keretei között – gyakorolja mindazon hatásköröket, amelyeket a gazdasági társaságokról szóló törvény a részvénytársaság igazgatóságának hatáskörébe utal. A vezérigazgatóval munkaszerződést kell kötni, díjazását az általa vezetett közszolgálati médiaszolgáltató terhére meghatározott havi összegben kell megállapítani.
+102. § (1) A közszolgálati médiaszolgáltatók ügyvezetését a vezérigazgató látja el, igazgatóság nem működik. A vezérigazgató – e törvény keretei között – gyakorolja mindazon hatásköröket, amelyeket a Polgári Törvénykönyvnek a gazdasági társaságokról szóló vonatkozó rendelkezése a részvénytársaság igazgatóságának hatáskörébe utal. A vezérigazgatóval munkaszerződést kell kötni, díjazását az általa vezetett közszolgálati médiaszolgáltató terhére meghatározott havi összegben kell megállapítani.
 
 (2) A közszolgálati médiaszolgáltatók vezérigazgatói feletti munkáltatói jogkört – beleértve a vezérigazgatók kinevezését és munkaviszonyuk megszüntetését – a Kuratórium gyakorolja. A vezérigazgatók jelölése és kinevezése a következő lépések szerinti sorrendben történik:
 

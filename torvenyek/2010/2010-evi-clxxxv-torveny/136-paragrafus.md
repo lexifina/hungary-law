@@ -10,7 +10,7 @@
 
 (5) A Magyar Állam képviseletében eljárva az audiovizuális politikáért felelős miniszter legfeljebb hét évre szóló szerződést köthet az Alappal a közszolgálati hozzájárulás megfizetéséről. A szerződés megkötéséhez nem szükséges az államháztartásról szóló törvényben előírt, külön országgyűlési felhatalmazás.
 
-(6) Az Alap jogi személy, gazdálkodó szervezet, kezelője a Médiatanács. Az Alap a Műsorszolgáltatási Alap, valamint a Műsorszolgáltatás Támogató és Vagyonkezelő Alap jogutódja.
+(6) Az Alap jogi személy, kezelője a Médiatanács. Az Alap a Műsorszolgáltatási Alap, valamint a Műsorszolgáltatás Támogató és Vagyonkezelő Alap jogutódja.
 
 (7) Az Alap köteles a Kincstárban fizetési számlát vezetni, a Kincstárban vezetett fizetési számlája mellett szabadon vezethet hitelintézetnél is fizetési számlát.
 

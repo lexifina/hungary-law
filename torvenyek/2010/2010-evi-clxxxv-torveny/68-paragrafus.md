@@ -4,7 +4,7 @@ a) új médiaszolgáltatást nem indíthat, médiaszolgáltatást végző válla
 
 b) köteles médiaszolgáltatásai műsorstruktúrájának módosításával, a magyar műsorszámok, a független műsorkészítők által előállított műsorszámok arányának növelésével, vagy egyéb módon intézkedéseket tenni a médiapiac sokszínűségének növelése érdekében.
 
-(2) Az (1) bekezdés a) pont esetében, amennyiben a médiapiaci koncentráció korlátozására vonatkozó szabály által érintett médiaszolgáltató médiaszolgáltatást végző vállalatban részesedést kíván szerezni, a Médiatanács a 171. § szerinti eljárásában a szakhatósági hozzájárulást köteles megtagadni.
+(2) Az (1) bekezdés a) pont esetében, amennyiben a médiapiaci koncentráció korlátozására vonatkozó szabály által érintett médiaszolgáltató médiaszolgáltatást végző vállalkozásban részesedést kíván szerezni, a Médiatanács a 171. § szerinti eljárásában a szakhatósági hozzájárulást köteles megtagadni.
 
 (3) Az (1) bekezdés b) pont esetében a sokszínűség növelésére irányuló intézkedések meghatározása érdekében a médiaszolgáltató kérelmére a Médiatanács a médiaszolgáltatóval – legalább egyéves időtartamra szóló – hatósági szerződést köthet, amely eljárásban a Médiatanácsnak joga van mérlegelni a médiaszolgáltató által vállalni kívánt kötelezettségek elfogadását. Ilyen irányú kérelem a Médiatanács 70. § (7) bekezdésben meghatározott hatósági határozatának közlésétől számított harminc napon belül terjeszthető elő. Amennyiben a hatósági szerződés – a megegyezés elmaradása miatt – a 70. § (7) bekezdésben meghatározott hatósági határozat közlésétől számított három hónapon belül nem jön létre, akkor a Médiatanács az eljárást végzéssel megszünteti.
 

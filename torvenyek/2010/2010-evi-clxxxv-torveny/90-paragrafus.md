@@ -16,11 +16,11 @@ f) megszüntetheti a közszolgálati médiaszolgáltatók vezérigazgatóinak mu
 
 g) megválasztja a közszolgálati médiaszolgáltatók közös felügyelő bizottságának elnökét és tagjait, illetve visszahívhatja azokat,
 
-h) megbízza a közszolgálati médiaszolgáltatók könyvvizsgálóját, illetve megszüntetheti megbízatását. A könyvvizsgáló feladatát, jog- és hatáskörét a gazdasági társaságokról szóló, illetve a számvitelről szóló törvény keretei között a Kuratórium a közszolgálati médiaszolgáltató alapító okiratában határozza meg,
+h) megbízza a közszolgálati médiaszolgáltatók könyvvizsgálóját, illetve megszüntetheti megbízatását. A könyvvizsgáló feladatát, jog- és hatáskörét a Polgári Törvénykönyvnek a gazdasági társaságokra irányadó szabályai szerint, illetve a számvitelről szóló törvény keretei között a Kuratórium a közszolgálati médiaszolgáltató alapító okiratában határozza meg,
 
 i) elfogadja a Közalapítvány éves gazdálkodási tervét és megállapítja mérlegét,
 
-j) a közszolgálati médiaszolgáltatók vonatkozásában a gazdasági társaságokról szóló törvény alapján – az e törvényben foglalt eltérésekkel – gyakorolja a közgyűlés jogait,
+j) a közszolgálati médiaszolgáltatók vonatkozásában a Polgári Törvénykönyvnek a gazdasági társaságokra irányadó rendelkezései alapján – az e törvényben foglalt eltérésekkel – gyakorolja a közgyűlés jogait,
 
 k) a Közalapítvány kezelőjeként gazdálkodik a Közalapítvány vagyonával,
 

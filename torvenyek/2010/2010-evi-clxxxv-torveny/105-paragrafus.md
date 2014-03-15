@@ -22,6 +22,6 @@ i) az Alappal együttműködve gondoskodik a közszolgálati médiaszolgáltató
 
 j) részt vesz a Közszolgálati Költségvetési Tanácsban,
 
-k) az e törvényben foglalt eltérésekkel gyakorolja mindazokat a jogokat, amelyeket a gazdasági társaságokról szóló törvény a részvénytársaság igazgatóságának hatáskörébe utal.
+k) az e törvényben foglalt eltérésekkel gyakorolja mindazokat a jogokat, amelyeket a Polgári Törvénykönyvnek a gazdasági társaságokra vonatkozó rendelkezése a részvénytársaság igazgatóságának hatáskörébe utal.
 
 (2) A közszolgálati médiaszolgáltató vezérigazgatója a Közszolgálati Közalapítványtól – a munkaszerződésébe foglalt juttatásokon kívül – semmilyen jogcímen nem kaphat díjazást.

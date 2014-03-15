@@ -20,9 +20,9 @@ b) olyan helyzet, amely a vállalkozásban szerződés, alapító okirat (alapsz
 
 6. Elektronikus hírközlési szolgáltatás: olyan, más részére általában ellenszolgáltatásért végzett szolgáltatás, amely teljesen vagy nagyrészt jeleknek elektronikus hírközlő hálózatokon történő átviteléből, és ahol ez értelmezhető, irányításából áll, de nem foglalja magában az elektronikus hírközlő hálózatok és elektronikus hírközlési szolgáltatások felhasználásával továbbított tartalmat szolgáltató vagy ilyen tartalom felett szerkesztői ellenőrzést gyakorló szolgáltatásokat, valamint nem foglalja magában az információs társadalommal összefüggő, más jogszabályokban meghatározott szolgáltatásokat, amelyek nem elsősorban az elektronikus hírközlő hálózatokon történő jeltovábbításból állnak.
 
-7. Elektronikus hírközlési szolgáltató: elektronikus hírközlő hálózat üzemeltetője, valamint elektronikus hírközlési szolgáltatást nyújtó természetes, illetőleg jogi személy vagy jogi személyiséggel nem rendelkező gazdasági társaság.
+7. Elektronikus hírközlési szolgáltató: elektronikus hírközlő hálózat üzemeltetője, valamint elektronikus hírközlési szolgáltatást nyújtó természetes, illetőleg jogi személy.
 
-8. Előfizető: olyan természetes vagy jogi személy, illetve jogi személyiség nélküli gazdasági társaság vagy más szervezet, aki vagy amely a nyilvánosan elérhető médiaszolgáltatás vagy elektronikus hírközlési szolgáltatás nyújtójával, vagy sajtótermék kiadójával ilyen szolgáltatások igénybevételére vonatkozó szerződéses viszonyban áll.
+8. Előfizető: olyan természetes vagy jogi személy, illetve más szervezet, aki vagy amely a nyilvánosan elérhető médiaszolgáltatás vagy elektronikus hírközlési szolgáltatás nyújtójával, vagy sajtótermék kiadójával ilyen szolgáltatások igénybevételére vonatkozó szerződéses viszonyban áll.
 
 9. Európai mű:
 
@@ -46,7 +46,7 @@ A b)–c) pontban említett művek olyan művek, amelyek e pontokban meghatároz
 
 A c) és az e) pontban meghatározott művek abban az esetben tekinthetők európai műnek, ha az érintett, Európai Unión kívüli államban a tagállamokból származó művekre nem vonatkoznak megkülönböztető intézkedések.
 
-10. Felhasználó: az a természetes személy, jogi személy vagy jogi személyiség nélküli gazdasági társaság vagy egyéb szervezet, aki vagy amely használja vagy igényli az elektronikus hírközlési szolgáltatásokat vagy médiaszolgáltatásokat.
+10. Felhasználó: az a természetes személy, jogi személy vagy egyéb szervezet, aki vagy amely használja vagy igényli az elektronikus hírközlési szolgáltatásokat vagy médiaszolgáltatásokat.
 
 11. Filmalkotás: a szerzői jogról szóló törvény szerinti filmalkotás, ide nem értve többek között a hír- és politikai tájékoztató műsorszámot, az aktuális- és szolgáltató magazin műsorszámot, a sportműsorszámot vagy egyéb esemény közvetítését tartalmazó műsorszámot, a játék- és vetélkedő műsorszámot és a kereskedelmi közleményeket. Filmalkotás különösen a játékfilm, a televíziós film, a televíziós filmsorozat, az animációs film és a dokumentumfilm.
 
@@ -66,7 +66,7 @@ A c) és az e) pontban meghatározott művek abban az esetben tekinthetők euró
 
 19. Játék: az a műsorszám, amelyben a közönség tagjai vagy a játékban résztvevők meghatározott szabályok szerint kérdésekre válaszolnak vagy feladatokat oldanak meg, rendszerint abból a célból, hogy a médiaszolgáltató vagy harmadik személy által felajánlott nyereményt elnyerjék. Nem minősül játéknak a tehetségkutató-műsorszám, valamint a televíziós vásárlásnak vagy televíziós vásárlási műsorablaknak minősülő telefonos vagy más interaktív játék.
 
-20. Kereskedelmi közlemény: olyan médiatartalom, amelynek célja gazdasági tevékenységet folytató természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező gazdasági társaság árujának, szolgáltatásának vagy arculatának közvetlen vagy közvetett népszerűsítése. Az ilyen tartalmak fizetés vagy hasonló ellenszolgáltatás ellenében, vagy önreklámozás céljából kísérik a médiatartalmakat, vagy szerepelnek abban. A kereskedelmi közlemény formái közé tartozik többek között a reklám, a támogatást nyújtó nevének, védjegyének, arculatának vagy termékének megjelenítése, a televíziós vásárlás és a termékmegjelenítés.
+20. Kereskedelmi közlemény: olyan médiatartalom, amelynek célja gazdasági tevékenységet folytató természetes vagy jogi személy árujának, szolgáltatásának vagy arculatának közvetlen vagy közvetett népszerűsítése. Az ilyen tartalmak fizetés vagy hasonló ellenszolgáltatás ellenében, vagy önreklámozás céljából kísérik a médiatartalmakat, vagy szerepelnek abban. A kereskedelmi közlemény formái közé tartozik többek között a reklám, a támogatást nyújtó nevének, védjegyének, arculatának vagy termékének megjelenítése, a televíziós vásárlás és a termékmegjelenítés.
 
 21. Képújság: lineáris audiovizuális médiaszolgáltatásban közzétett olyan műsorszám, amely elsősorban szöveges információközlésre szolgál, illetőleg emellett állóképet, mozgóképet, hangot, vagy számítógépes grafikát is tartalmazhat.
 
@@ -110,7 +110,7 @@ d) információk megtalálását elősegítő segédeszközöket biztosít az ig
 
 31. Közszolgálati médiaszolgáltatás: a közszolgálati médiaszolgáltatók által nyújtott médiaszolgáltatás.
 
-32. Közszolgálati médiaszolgáltató: kizárólag – a közszolgálati médiaszolgáltatás céljainak megvalósítására – e törvény 84. § (1) bekezdésében nevesített médiaszolgáltató, valamint a 84. § (1) bekezdésben nevesített közszolgálati médiaszolgáltató által létrehozott médiaszolgáltató, illetve a 84. § (1) bekezdésben nevesített közszolgálati médiaszolgáltató befolyásoló részesedése alatt álló gazdálkodó szervezet által létrehozott médiaszolgáltató.
+32. Közszolgálati médiaszolgáltató: kizárólag – a közszolgálati médiaszolgáltatás céljainak megvalósítására – e törvény 84. § (1) bekezdésében nevesített médiaszolgáltató, valamint a 84. § (1) bekezdésben nevesített közszolgálati médiaszolgáltató által létrehozott médiaszolgáltató, illetve a 84. § (1) bekezdésben nevesített közszolgálati médiaszolgáltató befolyásoló részesedése alatt álló gazdasági társaság által létrehozott médiaszolgáltató.
 
 33. Közszolgálati médiavagyon: a közszolgálati médiaszolgáltatók, jogelődeik, valamint a Médiaszolgáltatás-támogató és Vagyonkezelő Alap által megrendelt, bármilyen jogcímen készített, adásvétel útján beszerzett, felhasználási szerződéssel vagy egyéb megállapodás útján részben vagy egészben megszerzett, vagy készített filmalkotások és más audiovizuális művek, rádiós műsorszámok, hangfelvételek és a médiaszolgáltatáshoz kapcsolódó egyéb, kulturális értéket képviselő dokumentumok, fényképek szerzői és szomszédos jogai, vagy ezek bármely felhasználási jogai, valamint e műveket tartalmazó fizikai hordozók (például: lemezek, szalagok, kazetták, papíralapú dokumentumok, kották), továbbá a szerzői jogi védelem alatt álló jelmezek, kellékek, díszletek és egyéb szerzői művek, amennyiben a művel kapcsolatos szerzői és szomszédos jogok a törvény hatálybalépését megelőzően a közszolgálati médiaszolgáltatók valamelyikét vagy a törvény hatálybalépését követően a Médiaszolgáltatás-támogató és Vagyonkezelő Alapot illetik meg vagy illették meg, valamint amelyekre vonatkozóan a közszolgálati médiaszolgáltatók e törvény hatálybalépését követően szereznek jogot.
 
@@ -140,7 +140,7 @@ f)
 
 40. Médiaszolgáltatás: az Európai Unió működéséről szóló szerződés 56. és 57. cikkében meghatározott, önálló, üzletszerűen – rendszeresen, nyereség elérése érdekében, gazdasági kockázatvállalás mellett – végzett gazdasági szolgáltatás, amelyért egy médiaszolgáltató szerkesztői felelősséget visel, amelynek elsődleges célja műsorszámoknak tájékoztatás, szórakoztatás vagy oktatás céljából a nyilvánossághoz való eljuttatása valamely elektronikus hírközlő hálózaton keresztül.
 
-41. Médiaszolgáltató: az a természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező gazdasági társaság, aki vagy amely szerkesztői felelősséggel rendelkezik a médiaszolgáltatás tartalmának megválasztásáért, és meghatározza annak összeállítását. A szerkesztői felelősség a médiatartalom kiválasztása és összeállítása során megvalósuló tényleges ellenőrzésért való felelősséget jelenti, és nem eredményez szükségszerűen jogi felelősséget a médiaszolgáltatás tekintetében.
+41. Médiaszolgáltató: az a természetes vagy jogi személy, aki vagy amely szerkesztői felelősséggel rendelkezik a médiaszolgáltatás tartalmának megválasztásáért, és meghatározza annak összeállítását. A szerkesztői felelősség a médiatartalom kiválasztása és összeállítása során megvalósuló tényleges ellenőrzésért való felelősséget jelenti, és nem eredményez szükségszerűen jogi felelősséget a médiaszolgáltatás tekintetében.
 
 42. Médiatartalom: valamennyi médiaszolgáltatás során, valamint sajtótermék által kínált tartalom.
 
@@ -180,7 +180,7 @@ f)
 
 59. Reklám: olyan – műsorszámnak minősülő – közlés, tájékoztatás, illetve megjelenítési mód, amely valamely birtokba vehető forgalomképes ingó dolog – ideértve a pénzt, az értékpapírt és a pénzügyi eszközt, valamint a dolog módjára hasznosítható természeti erőket –, szolgáltatás, ingatlan, vagyoni értékű jog értékesítésének vagy más módon történő igénybevételének előmozdítására, vagy e céllal összefüggésben a vállalkozás neve, megjelölése, tevékenysége népszerűsítésére vagy áru, árujelző ismertségének növelésére irányul.
 
-60. Sajtótermék: a napilap és más időszaki lap egyes számai, valamint az internetes újság vagy hírportál, amelyet gazdasági szolgáltatásként nyújtanak, amelynek tartalmáért valamely természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező gazdasági társaság szerkesztői felelősséget visel, és amelynek elsődleges célja szövegből, illetve képekből álló tartalmaknak a nyilvánossághoz való eljuttatása tájékoztatás, szórakoztatás vagy oktatás céljából, nyomtatott formátumban vagy valamely elektronikus hírközlő hálózaton keresztül. A szerkesztői felelősség a médiatartalom kiválasztása és összeállítása során megvalósuló tényleges ellenőrzésért való felelősséget jelenti, és nem eredményez szükségszerűen jogi felelősséget a sajtótermék tekintetében. Gazdasági szolgáltatás az önálló, üzletszerűen – rendszeresen, nyereség elérése érdekében, gazdasági kockázatvállalás mellett – végzett szolgáltatás.
+60. Sajtótermék: a napilap és más időszaki lap egyes számai, valamint az internetes újság vagy hírportál, amelyet gazdasági szolgáltatásként nyújtanak, amelynek tartalmáért valamely természetes vagy jogi személy szerkesztői felelősséget visel, és amelynek elsődleges célja szövegből, illetve képekből álló tartalmaknak a nyilvánossághoz való eljuttatása tájékoztatás, szórakoztatás vagy oktatás céljából, nyomtatott formátumban vagy valamely elektronikus hírközlő hálózaton keresztül. A szerkesztői felelősség a médiatartalom kiválasztása és összeállítása során megvalósuló tényleges ellenőrzésért való felelősséget jelenti, és nem eredményez szükségszerűen jogi felelősséget a sajtótermék tekintetében. Gazdasági szolgáltatás az önálló, üzletszerűen – rendszeresen, nyereség elérése érdekében, gazdasági kockázatvállalás mellett – végzett szolgáltatás.
 
 61. Sportműsorszám: olyan műsorszám, amely sporteseményt (az eseménnyel egyidejűleg, késleltetett módon vagy szerkesztve) közvetít, ide nem értve a sporteseményekről való híradást és a sporttémájú beszélgetést tartalmazó műsorszámot.
 
@@ -200,7 +200,7 @@ f)
 
 69. Választási kampányidőszak: a választási eljárásról szóló törvényben meghatározott, a választási kampány lefolytatására rendelkezésre álló időszak.
 
-70. Vállalkozás: természetes személy, egyéni vállalkozó, gazdasági társaság, más jogi személy, vagy jogi személyiséggel nem rendelkező gazdasági társaság.
+70. Vállalkozás: természetes személy, egyéni vállalkozó, gazdasági társaság, más jogi személy.
 
 71. Vételkörzet:
 

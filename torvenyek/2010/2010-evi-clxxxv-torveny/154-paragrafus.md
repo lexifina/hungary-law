@@ -6,7 +6,7 @@ a) az ügyféllel munkaviszonyban, munkavégzésre irányuló egyéb jogviszonyb
 
 b) az ügyfélben tulajdoni részesedéssel rendelkezik,
 
-c) olyan magánszeméllyel, jogi személlyel vagy jogi személyiség nélküli szervezettel áll munkaviszonyban, munkavégzésre irányuló egyéb jogviszonyban vagy tagsági viszonyban, illetőleg annak vezető tisztségviselője, vagy abban tulajdoni részesedéssel rendelkezik, amely az ügyféllel rendszeres üzleti kapcsolatban áll,
+c) olyan természetes személlyel vagy jogi személlyel áll munkaviszonyban, munkavégzésre irányuló egyéb jogviszonyban vagy tagsági viszonyban, illetőleg annak vezető tisztségviselője, vagy abban tulajdoni részesedéssel rendelkezik, amely az ügyféllel rendszeres üzleti kapcsolatban áll,
 
 d) olyan szervezettel áll munkavégzésre irányuló jogviszonyban, amely az ügyfél felügyelő vagy alárendelt szervezete, illetve, amely az ügyfél részére valamely támogatást, illetőleg kizárólagos jogosítványt biztosított, ide nem értve az Alappal vagy a Hatósággal fennálló munkavégzésre irányuló jogviszonyt.
 
