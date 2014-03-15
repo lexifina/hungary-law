@@ -1,6 +1,6 @@
 5. § (1)[^32] Az 1. § (1) bekezdésében felsorolt termékek forgalomba hozatalát, illetve üzembe helyezését megelőzően a gyártónak vagy az Európai Közösségben letelepedett meghatalmazott képviselőjének a (7)–(9) bekezdésben foglalt eljárásokat kell végrehajtania.
 
-(2)[^33] Amennyiben sem a kedvtelési célú vízijármű gyártója, sem pedig annak az Európai Közösségben letelepedett képviselője nem teljesíti az e rendeletben meghatározott, a megfelelőség tanúsításával kapcsolatos kötelezettségeket, akkor helyette ezt az Európai Közösségben letelepedett és a terméket forgalmazni, illetve üzembe helyezni kívánó természetes vagy jogi személy, illetve jogi személyiség nélküli gazdálkodó szervezet is megteheti. A forgalomba hozó vagy üzembe helyező személynek ebben az esetben a készre gyártott, illetve megépített termék gyártás utáni vizsgálata iránti kérelmet kell elismert, illetve kijelölt szervezethez benyújtania.
+(2)[^33] Amennyiben sem a kedvtelési célú vízijármű gyártója, sem pedig annak az Európai Közösségben letelepedett képviselője nem teljesíti az e rendeletben meghatározott, a megfelelőség tanúsításával kapcsolatos kötelezettségeket, akkor helyette ezt az Európai Közösségben letelepedett és a terméket forgalmazni, illetve üzembe helyezni kívánó természetes személy, valamint gazdálkodó szervezet is megteheti. A forgalomba hozó vagy üzembe helyező személynek ebben az esetben a készre gyártott, illetve megépített termék gyártás utáni vizsgálata iránti kérelmet kell elismert, illetve kijelölt szervezethez benyújtania.
 
 (3)[^34] A forgalomba hozatalról, illetve üzembe helyezésről intézkedni kívánó személynek az elismert, illetve kijelölt szervezet részére át kell adnia a termékről a termék származási országában történő első forgalomba hozatalára vonatkozó dokumentumokat és a műszaki leírást. Az elismert, illetve kijelölt szervezet megvizsgálja az egyedi terméket és a számításokat, továbbá vizsgálatokat végez annak érdekében, hogy megbizonyosodhasson a terméknek a rendeletben meghatározott követelményeknek való egyenértékű megfelelőségéről.
 
@@ -59,7 +59,7 @@ c)[^42] az a)–b) pontban foglalt rendelkezéseket a kétütemű szikragyújtá
 (11)[^44] Ha a 2. számú mellékletben meghatározott részegységeket más gyártó építi be az általa épített vízijárműbe, a részegység megfelelőségét a gyártó vagy annak az Európai Közösségben letelepedett meghatalmazott képviselője, illetve a forgalomba hozatalért felelős személy a 3. számú melléklet szerinti nyilatkozattal igazolja.
 
 [^32]: Az 5. § (1) bekezdése a 96/2004. (VII. 19.) GKM rendelet 5. §-ával megállapított szöveg.
-[^33]: Az 5. § új (2) bekezdését a 96/2004. (VII. 19.) GKM rendelet 5. §-a iktatta be, egyidejűleg az eredeti (2) bekezdés számozását (10) bekezdésre változtatva.
+[^33]: Az 5. § új (2) bekezdését a 96/2004. (VII. 19.) GKM rendelet 5. §-a iktatta be, egyidejűleg az eredeti (2) bekezdés számozását (10) bekezdésre változtatva. Az 5. § (2) bekezdése a 12/2014. (III. 14.) NFM rendelet 5. § b) pontja szerint módosított szöveg.
 [^34]: Az 5. § új (3) bekezdését a 96/2004. (VII. 19.) GKM rendelet 5. §-a iktatta be, egyidejűleg az eredeti (3) bekezdés számozását (11) bekezdésre változtatva.
 [^35]: Az 5. § (4) bekezdését a 96/2004. (VII. 19.) GKM rendelet 5. §-a iktatta a szövegbe.
 [^36]: Az 5. § (5) bekezdését a 96/2004. (VII. 19.) GKM rendelet 5. §-a iktatta a szövegbe.

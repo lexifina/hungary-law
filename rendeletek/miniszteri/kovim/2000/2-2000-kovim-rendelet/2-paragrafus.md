@@ -40,7 +40,7 @@ n)[^21] hajtási mód: a vízijármű haladását biztosító mechanikus eljár�
 
 o)[^22] motorcsalád: az azonos felépítésű és elvárhatóan hasonló gázemissziós jellemzőkkel rendelkező, az e rendeletben foglalt gázemissziós követelményeknek teljes mértékben megfelelő motorok gyártó általi csoportosítása;
 
-p)[^23] gyártó: az a természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező gazdálkodó szervezet, amely a rendelet hatálya alá tartozó terméket tervez és gyárt, illetve forgalomba hozatal céljából terveztet vagy gyártat;
+p)[^23] gyártó: az a természetes személy, továbbá a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet, valamint a külföldiek magyarországi fióktelepe (a továbbiakban együtt: gazdálkodó szervezet), amely a rendelet hatálya alá tartozó terméket tervez és gyárt, illetve forgalomba hozatal céljából terveztet vagy gyártat;
 
 q)[^24] meghatalmazott képviselő: az Európai Közösségben letelepedett az a természetes vagy jogi személy, aki a gyártó írásbeli meghatalmazásával rendelkezik arra, hogy az e rendeletben meghatározott kötelezettségek tekintetében a gyártó nevében eljárjon.
 
@@ -54,5 +54,5 @@ q)[^24] meghatalmazott képviselő: az Európai Közösségben letelepedett az a
 [^20]: A 2. § m) pontját a 96/2004. (VII. 19.) GKM rendelet 2. §-ának (3) bekezdése iktatta a szövegbe.
 [^21]: A 2. § n) pontját a 96/2004. (VII. 19.) GKM rendelet 2. §-ának (3) bekezdése iktatta a szövegbe.
 [^22]: A 2. § o) pontját a 96/2004. (VII. 19.) GKM rendelet 2. §-ának (3) bekezdése iktatta a szövegbe.
-[^23]: A 2. § p) pontját a 96/2004. (VII. 19.) GKM rendelet 2. §-ának (3) bekezdése iktatta a szövegbe.
+[^23]: A 2. § p) pontját a 96/2004. (VII. 19.) GKM rendelet 2. § (3) bekezdése iktatta be, szövege a 12/2014. (III. 14.) NFM rendelet 5. § a) pontja szerint módosított szöveg.
 [^24]: A 2. § q) pontját a 96/2004. (VII. 19.) GKM rendelet 2. §-ának (3) bekezdése iktatta a szövegbe.
