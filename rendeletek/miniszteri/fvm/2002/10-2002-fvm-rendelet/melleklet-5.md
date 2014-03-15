@@ -298,6 +298,6 @@
 
 ## A mikotoxinok okozta szennyezettségre különleges figyelmet lehet fordítani.
 
-5. számú melléklet a 10/2002. (I. 23.) FVM rendelethez[^22]
+5. számú melléklet a 10/2002. (I. 23.) FVM rendelethez[^23]
 
-[^22]: Az 5. számú melléklet a 70/2013. (VII. 31.) VM rendelet 13. § l) pontja szerint módosított szöveg.
+[^23]: Az 5. számú melléklet a 70/2013. (VII. 31.) VM rendelet 13. § l) pontja szerint módosított szöveg.

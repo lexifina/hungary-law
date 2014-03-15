@@ -18,6 +18,6 @@
 
 8. származási gazdaság: az állat születési vagy tartási helye;
 
-9. maradékanyag tolerancia határérték (MRL[^1]): az állat ehető testszöveteiben, a termékben, annak friss állapotában megengedhető, humán-egészségügyi szempontból veszélytelen maradékanyag-koncentráció (mg/kg vagy μg/kg mértékegységben kifejezve).
+9. maradékanyag tolerancia határérték (MRL[^2]): az állat ehető testszöveteiben, a termékben, annak friss állapotában megengedhető, humán-egészségügyi szempontból veszélytelen maradékanyag-koncentráció (mg/kg vagy μg/kg mértékegységben kifejezve).
 
-[^1]: MRL = Maximum Residue Limit.
+[^2]: MRL = Maximum Residue Limit.

@@ -1,4 +1,4 @@
-8. § (1)[^4] A monitoring vizsgálati tervek végrehajtásával kapcsolatban elvégzett ellenőrzésektől függetlenül az élelmiszerlánc-felügyeleti szervek szúrópróbaszerű ellenőrzést végezhetnek
+8. § (1)[^5] A monitoring vizsgálati tervek végrehajtásával kapcsolatban elvégzett ellenőrzésektől függetlenül az élelmiszerlánc-felügyeleti szervek szúrópróbaszerű ellenőrzést végezhetnek
 
 a) az 1. számú melléklet ,,A'' csoportjába sorolt termékek gyártása, kezelése, tárolása, szállítása, kereskedelme, eladása és beszerzése során;
 
@@ -10,4 +10,4 @@ c) az állatok és állati eredetű nyersanyagok termelési folyamatának egész
 
 (3) Tiltott szerekkel való visszaélés gyanúja esetén, vagy ha az (1) bekezdés szerinti ellenőrzések bármelyike kedvezőtlen eredményre vezetett, a 13–19. §-okban leírt intézkedéseket kell alkalmazni.
 
-[^4]: A 8. § (1) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 13. § c) pontja szerint módosított szöveg.
+[^5]: A 8. § (1) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 13. § c) pontja szerint módosított szöveg.
