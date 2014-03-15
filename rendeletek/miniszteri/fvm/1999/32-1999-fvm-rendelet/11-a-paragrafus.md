@@ -1,4 +1,4 @@
-11/A. §[^25] (1)[^26] Annak az állattartónak, aki mezőgazdasági haszonszerzés céljából legalább
+11/A. §[^26] (1)[^27] Annak az állattartónak, aki mezőgazdasági haszonszerzés céljából legalább
 
 a) ötszáz, hústermelés céljából tartott csirkét,
 
@@ -40,19 +40,19 @@ b) ellássa az állatok gondozásával és felügyeletével megbízott személye
 
 c) évente oktatást tartson az állattartó telep dolgozói részére, valamint új dolgozó belépése esetén a munkakezdést megelőzően, mely elvégzett állatvédelmi oktatásokat dokumentálnia kell.
 
-(3)[^27] Azt a személyt lehet állatjóléti felelősnek kijelölni, aki a kijelölést megelőzően állatvédelmi képzésen részt vett, és képesítési bizonyítványt szerzett.
+(3)[^28] Azt a személyt lehet állatjóléti felelősnek kijelölni, aki a kijelölést megelőzően állatvédelmi képzésen részt vett, és képesítési bizonyítványt szerzett.
 
-(4)[^28] Az állatvédelmi képzés iskolarendszeren kívüli hatósági jellegű képzés. A képzést és a vizsgáztatást a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH) szervezi, végzi, illetve e feladatokat átruházhatja. Eredményes vizsgát követően a NÉBIH képesítési bizonyítványt ad ki, a kiadott képesítési bizonyítványokat nyilvántartja.
+(4)[^29] Az állatvédelmi képzés iskolarendszeren kívüli hatósági jellegű képzés. A képzést és a vizsgáztatást a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH) szervezi, végzi, illetve e feladatokat átruházhatja. Eredményes vizsgát követően a NÉBIH képesítési bizonyítványt ad ki, a kiadott képesítési bizonyítványokat nyilvántartja.
 
-(5)[^29] A képesítési bizonyítványt megszerző személy valamennyi állattartó telepen végezhet állatjóléti felelősi tevékenységet, állatfajtól és állatlétszámtól függetlenül. A képesítési bizonyítványt annak kiadásától számított 5 éven belül meg kell újítani, új állatvédelmi képzésen kell részt venni.
+(5)[^30] A képesítési bizonyítványt megszerző személy valamennyi állattartó telepen végezhet állatjóléti felelősi tevékenységet, állatfajtól és állatlétszámtól függetlenül. A képesítési bizonyítványt annak kiadásától számított 5 éven belül meg kell újítani, új állatvédelmi képzésen kell részt venni.
 
-(6)[^30] Amennyiben állatjóléti felelőssel rendelkező állattartó telepen a fővárosi és megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatósága vagy a fővárosi és megyei kormányhivatal járási hivatala járási állategészségügyi és élelmiszer-ellenőrző hivatala az állatvédelmi jogszabályokban leírtak súlyos vagy ismétlődő megszegését tapasztalja, az állatjóléti felelőst új képzés elvégzésére kötelezheti.
+(6)[^31] Amennyiben állatjóléti felelőssel rendelkező állattartó telepen a fővárosi és megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatósága vagy a fővárosi és megyei kormányhivatal járási hivatala járási állategészségügyi és élelmiszer-ellenőrző hivatala az állatvédelmi jogszabályokban leírtak súlyos vagy ismétlődő megszegését tapasztalja, az állatjóléti felelőst új képzés elvégzésére kötelezheti.
 
 (7) A képesítési bizonyítvány formailag egységes, meg kell felelnie a 11. számú melléklet szerinti követelményeknek.
 
-(8)[^31] Az oktatási anyagot, az oktatás és vizsgáztatás módját és a vizsgafeladatokat a NÉBIH hagyja jóvá.
+(8)[^32] Az oktatási anyagot, az oktatás és vizsgáztatás módját és a vizsgafeladatokat a NÉBIH hagyja jóvá.
 
-(9)[^32] Az állatvédelmi képzés anyagának magában kell foglalnia az alábbiakat, valamennyi állatfaj tekintetében:
+(9)[^33] Az állatvédelmi képzés anyagának magában kell foglalnia az alábbiakat, valamennyi állatfaj tekintetében:
 
 a) az állatok jólétének jellemzői és etikai vonatkozásai;
 
@@ -72,14 +72,14 @@ h) járványügyi megelőző intézkedések, az állattartó telepek járványv�
 
 i) az állatok jólétével kapcsolatos jogszabályok előírásai.
 
-(10)[^33] Az Európai Unió tagállamának állampolgára által szerzett, a (9) bekezdés követelményeit magába foglaló, képesítési bizonyítvánnyal igazolt képesítés a (3) bekezdés szerinti állatvédelmi képzésen való részvétellel egyenértékűnek minősül, melynek elismerésére a NÉBIH képesítési bizonyítványt ad ki. A más tagállamban szerzett képesítési bizonyítványt annak kiadásától számított 5 éven belül meg kell újítani, új állatvédelmi képzésen kell részt venni.
+(10)[^34] Az Európai Unió tagállamának állampolgára által szerzett, a (9) bekezdés követelményeit magába foglaló, képesítési bizonyítvánnyal igazolt képesítés a (3) bekezdés szerinti állatvédelmi képzésen való részvétellel egyenértékűnek minősül, melynek elismerésére a NÉBIH képesítési bizonyítványt ad ki. A más tagállamban szerzett képesítési bizonyítványt annak kiadásától számított 5 éven belül meg kell újítani, új állatvédelmi képzésen kell részt venni.
 
-[^25]: A 11/A. §-t a 31/2010. (XI. 18.) VM rendelet 6. §-a iktatta be.
-[^26]: A 11/A. § (1) bekezdése a 31/2010. (XI. 18.) VM rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^27]: A 11/A. § (3) bekezdése a 31/2010. (XI. 18.) VM rendelet 7. § (2) bekezdésével megállapított szöveg.
-[^28]: A 11/A. § (4) bekezdése az 51/2013. (VI. 17.) VM rendelet 2. § (1) bekezdésével megállapított szöveg. [A 11/A. § (4) bekezdésében a 70/2013. (VII. 31.) VM rendelet 8. § a) pontjával elrendelt módosítás, amely szerint a „Mezőgazdasági Szakigazgatási Hivatal területi szerve (a továbbiakban: MgSzH területi szerve)” szövegrész helyébe a „megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatósága (a továbbiakban: élelmiszerlánc-biztonsági és állategészségügyi igazgatóság)” szöveg lép, nem vezethető át.]
-[^29]: A 11/A. § (5) bekezdése a 31/2010. (XI. 18.) VM rendelet 7. § (3) bekezdésével megállapított szöveg.
-[^30]: A 11/A. § (6) bekezdése az 51/2013. (VI. 17.) VM rendelet 2. § (2) bekezdés a) pontja szerint módosított szöveg. [A 11/A. § (6) bekezdésében a 70/2013. (VII. 31.) VM rendelet 8. § b) pontjával elrendelt módosítás, amely szerint az „MgSzH területi szerve” szövegrész helyébe az „élelmiszerlánc-biztonsági és állategészségügyi igazgatóság” szöveg lép, nem vezethető át.]
-[^31]: A 11/A. § (8) bekezdése az 51/2013. (VI. 17.) VM rendelet 2. § (2) bekezdés b) pontja szerint módosított szöveg. [A 11/A. § (8) bekezdésében a 70/2013. (VII. 31.) VM rendelet 8. § c) pontjával elrendelt módosítás, amely szerint a „Mezőgazdasági Szakigazgatási Hivatal Központja (a továbbiakban: MgSzH Központ)” szövegrész helyébe „Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH)” szöveg lép, nem vezethető át.]
-[^32]: A 11/A. § (9) bekezdése a 31/2010. (XI. 18.) VM rendelet 7. § (4) bekezdésével megállapított szöveg.
-[^33]: A 11/A. § (10) bekezdése az 51/2013. (VI. 17.) VM rendelet 2. § (2) bekezdés c) pontja szerint módosított szöveg. [A 11/A. § (10) bekezdésében a 70/2013. (VII. 31.) VM rendelet 8. § b) pontjával elrendelt módosítás, amely szerint az „MgSzH területi szerve” szövegrész helyébe az „élelmiszerlánc-biztonsági és állategészségügyi igazgatóság” szöveg lép, nem vezethető át.]
+[^26]: A 11/A. §-t a 31/2010. (XI. 18.) VM rendelet 6. §-a iktatta be.
+[^27]: A 11/A. § (1) bekezdése a 31/2010. (XI. 18.) VM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^28]: A 11/A. § (3) bekezdése a 31/2010. (XI. 18.) VM rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^29]: A 11/A. § (4) bekezdése az 51/2013. (VI. 17.) VM rendelet 2. § (1) bekezdésével megállapított szöveg. [A 11/A. § (4) bekezdésében a 70/2013. (VII. 31.) VM rendelet 8. § a) pontjával elrendelt módosítás, amely szerint a „Mezőgazdasági Szakigazgatási Hivatal területi szerve (a továbbiakban: MgSzH területi szerve)” szövegrész helyébe a „megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatósága (a továbbiakban: élelmiszerlánc-biztonsági és állategészségügyi igazgatóság)” szöveg lép, nem vezethető át.]
+[^30]: A 11/A. § (5) bekezdése a 31/2010. (XI. 18.) VM rendelet 7. § (3) bekezdésével megállapított szöveg.
+[^31]: A 11/A. § (6) bekezdése az 51/2013. (VI. 17.) VM rendelet 2. § (2) bekezdés a) pontja szerint módosított szöveg. [A 11/A. § (6) bekezdésében a 70/2013. (VII. 31.) VM rendelet 8. § b) pontjával elrendelt módosítás, amely szerint az „MgSzH területi szerve” szövegrész helyébe az „élelmiszerlánc-biztonsági és állategészségügyi igazgatóság” szöveg lép, nem vezethető át.]
+[^32]: A 11/A. § (8) bekezdése az 51/2013. (VI. 17.) VM rendelet 2. § (2) bekezdés b) pontja szerint módosított szöveg. [A 11/A. § (8) bekezdésében a 70/2013. (VII. 31.) VM rendelet 8. § c) pontjával elrendelt módosítás, amely szerint a „Mezőgazdasági Szakigazgatási Hivatal Központja (a továbbiakban: MgSzH Központ)” szövegrész helyébe „Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH)” szöveg lép, nem vezethető át.]
+[^33]: A 11/A. § (9) bekezdése a 31/2010. (XI. 18.) VM rendelet 7. § (4) bekezdésével megállapított szöveg.
+[^34]: A 11/A. § (10) bekezdése az 51/2013. (VI. 17.) VM rendelet 2. § (2) bekezdés c) pontja szerint módosított szöveg. [A 11/A. § (10) bekezdésében a 70/2013. (VII. 31.) VM rendelet 8. § b) pontjával elrendelt módosítás, amely szerint az „MgSzH területi szerve” szövegrész helyébe az „élelmiszerlánc-biztonsági és állategészségügyi igazgatóság” szöveg lép, nem vezethető át.]

@@ -1,3 +1,5 @@
+## A tollszedés szabályai
+
 ## 1.1. Tollszedés, tollazás, letollazás: Az érett tollak kíméletes, fájdalommentes és szakszerű eltávolítása.
 
 ## 1.2. Az alábbi rendelkezések mindazon házi ludak (Anser anser var. domestica) tollszedésére vonatkoznak – az állatok fajtájától, hasznosítási irányától, korától, ivarától függetlenül –, amelyeket élő állapotban, tollszedésre hasznosítanak.
@@ -54,13 +56,13 @@
 
 ## 14. A próbaszedésekről és a tollazásokról (az állomány azonosítójáról, a tollazás idejéről, a tollazott állatok számáról) az állattartónak nyilvántartást kell vezetnie, amelyet legalább öt évig meg kell őrizni.
 
-6. számú melléklet a 32/1999. (III. 31.) FVM rendelethez[^93]
+6. számú melléklet a 32/1999. (III. 31.) FVM rendelethez[^94]
 
 Az érzéstelenítés nélkül végezhető beavatkozásokat csak állatorvos vagy állatorvos irányításával és felügyeletével cselekvő, megfelelő állategészségügyi ismerettel és gyakorlati tapasztalattal rendelkező személy végezheti. Minden lehetséges módon csökkenteni kell az elkerülhetetlen fájdalom hatását.
 
 A mezőgazdasági haszonállatokon érzéstelenítés nélkül végezhető beavatkozások
 
-1.[^94] Ló, szamár, öszvér esetében:
+1.[^95] Ló, szamár, öszvér esetében:
 
 vérvétel, fogreszelés, szondázás, rektális vizsgálat, vakbél szúrcsapolás, vértelen szülészeti segítségnyújtás, egyedi jelölés.
 
@@ -68,7 +70,7 @@ vérvétel, fogreszelés, szondázás, rektális vizsgálat, vakbél szúrcsapol
 
 vérvétel, szondázás, szarvtalanítás napos korban vértelen úton, fattyúcsecsbimbó eltávolítás napos korban, bendőmágnes-behelyezés, tályogmegnyitás, krotáliázás, bendő szúrcsapolás, vértelen szülészeti segítségnyújtás.
 
-2.1.[^95] Magyar szürke szarvasmarha esetében a 2. pontban foglaltakon túl megengedett még:
+2.1.[^96] Magyar szürke szarvasmarha esetében a 2. pontban foglaltakon túl megengedett még:
 
 1 éves kor alatti vértelen ivartalanítás, azonosítás célját szolgáló bőrbesütés, tetoválás, orrkarika behelyezés, szarvgombok felhelyezése.
 
@@ -76,7 +78,7 @@ vérvétel, szondázás, szarvtalanítás napos korban vértelen úton, fattyúc
 
 vérvétel, bendő szúrcsapolás, krotáliázás, tetoválás, tályogmegnyitás, vértelen szülészeti segítségnyújtás, castratio, szondázás, napos korban farokcsonkítás (vagy gumigyűrű igénybevételével, 8 napos korig).
 
-4.[^96] Sertés esetében a 4.1. pontban felsoroltak kivételével tilos minden olyan nem állatgyógyászati vagy diagnosztikai célokat szolgáló, illetve nem egyéb jogszabályban leírt és a sertések azonosítását célzó eljárás alkalmazása, amely az állat csontozatában vagy testének valamely érzékeny részében kárt okoz.
+4.[^97] Sertés esetében a 4.1. pontban felsoroltak kivételével tilos minden olyan nem állatgyógyászati vagy diagnosztikai célokat szolgáló, illetve nem egyéb jogszabályban leírt és a sertések azonosítását célzó eljárás alkalmazása, amely az állat csontozatában vagy testének valamely érzékeny részében kárt okoz.
 
 4.1. Sertés esetében megengedett:
 
@@ -102,33 +104,33 @@ vérvétel, bendő szúrcsapolás, krotáliázás, tetoválás, tályogmegnyitá
 
 – vértelen szülészeti segítségnyújtás.
 
-4.2.[^97]
+4.2.[^98]
 
-5.[^98] Baromfi esetében:
+5.[^99] Baromfi esetében:
 
 vérvétel, szárnyszámozás (szárnykrotáliázás), szárnykurtítás napos korban, elektromos csőrkurtítás napos korban, úszóhártya-bemetszés napos korban, kakassarkantyúlecsípés napos korban, barbarie kacsa karomvágása és csőrkurtítása kéthetes korig, tetoválás.
 
-6.[^99] Strucc és emu esetében:
+6.[^100] Strucc és emu esetében:
 
 vérvétel, krotáliázás.
 
-7.[^100] Nyúl esetében:
+7.[^101] Nyúl esetében:
 
 Fülszámozás (fülkrotáliázás), fültetoválás.
 
-8.[^101] Csincsilla esetében: krotáliázás, fültetoválás.
+8.[^102] Csincsilla esetében: krotáliázás, fültetoválás.
 
-9.[^102] Ezüstróka és sarki róka esetében:
+9.[^103] Ezüstróka és sarki róka esetében:
 
 fültetoválás.
 
-[^93]: A 6. számú melléklet bevezető szövegrészét a 20/2002. (III. 14.) FVM rendelet 16. § (2) bekezdése iktatta be, szövege a 178/2009. (XII. 29.) FVM rndelet 10. § (5) bekezdésével megállapított szöveg.
-[^94]: A 6. számú melléklet 1. pontja a 178/2009. (XII. 29.) FVM rendelet 10. § (5) bekezdésével megállapított szöveg.
-[^95]: A 6. számú melléklet 2.1. pontját a 72/2004. (IV. 29.) FVM rendelet 2. §-a iktatta a szövegbe.
-[^96]: A 6. számú melléklet 4. pontja a 20/2002. (III. 14.) FVM rendelet 16. §-ának (2) bekezdésével megállapított szöveg.
-[^97]: A 6. számú melléklet 4.2. pontját a 178/2009. (XII. 29.) FVM rendelet 11. § (3) bekezdés d) pontja hatályon kívül helyezte.
-[^98]: A 6. számú melléklet 5. pontja a 72/2004. (IV. 29.) FVM rendelet 2. §-ával megállapított, a 178/2009. (XII. 29.) FVM rendelet 11. § (6) bekezdés j) pontja szerint módosított szöveg.
-[^99]: A 6. számú melléklet 6. pontja a 178/2009. (XII. 29.) FVM rendelet 10. § (5) bekezdésével megállapított szöveg.
-[^100]: A 6. számú melléklet 7. pontját a 178/2009. (XII. 29.) FVM rendelet 10. § (5) bekezdése iktatta be.
-[^101]: A 6. számú melléklet 8. pontját a 178/2009. (XII. 29.) FVM rendelet 10. § (5) bekezdése iktatta be.
-[^102]: A 6. számú melléklet 9. pontját a 178/2009. (XII. 29.) FVM rendelet 10. § (5) bekezdése iktatta be.
+[^94]: A 6. számú melléklet bevezető szövegrészét a 20/2002. (III. 14.) FVM rendelet 16. § (2) bekezdése iktatta be, szövege a 178/2009. (XII. 29.) FVM rndelet 10. § (5) bekezdésével megállapított szöveg.
+[^95]: A 6. számú melléklet 1. pontja a 178/2009. (XII. 29.) FVM rendelet 10. § (5) bekezdésével megállapított szöveg.
+[^96]: A 6. számú melléklet 2.1. pontját a 72/2004. (IV. 29.) FVM rendelet 2. §-a iktatta a szövegbe.
+[^97]: A 6. számú melléklet 4. pontja a 20/2002. (III. 14.) FVM rendelet 16. §-ának (2) bekezdésével megállapított szöveg.
+[^98]: A 6. számú melléklet 4.2. pontját a 178/2009. (XII. 29.) FVM rendelet 11. § (3) bekezdés d) pontja hatályon kívül helyezte.
+[^99]: A 6. számú melléklet 5. pontja a 72/2004. (IV. 29.) FVM rendelet 2. §-ával megállapított, a 178/2009. (XII. 29.) FVM rendelet 11. § (6) bekezdés j) pontja szerint módosított szöveg.
+[^100]: A 6. számú melléklet 6. pontja a 178/2009. (XII. 29.) FVM rendelet 10. § (5) bekezdésével megállapított szöveg.
+[^101]: A 6. számú melléklet 7. pontját a 178/2009. (XII. 29.) FVM rendelet 10. § (5) bekezdése iktatta be.
+[^102]: A 6. számú melléklet 8. pontját a 178/2009. (XII. 29.) FVM rendelet 10. § (5) bekezdése iktatta be.
+[^103]: A 6. számú melléklet 9. pontját a 178/2009. (XII. 29.) FVM rendelet 10. § (5) bekezdése iktatta be.

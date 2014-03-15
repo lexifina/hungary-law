@@ -1,4 +1,4 @@
-## 2. §[^3] E rendelet alkalmazásában
+## 2. §[^4] E rendelet alkalmazásában
 
 a) állat: az élelmiszer, gyapjú, bőr vagy szőrme előállításához vagy egyéb mezőgazdasági célra tenyésztett vagy tartott állat, beleértve a halakat, kétéltűeket, hüllőket, és a Magyarországon nem vadászható, vadon élő fajok mezőgazdasági haszon céljából tenyésztett vagy tartott egyedeit, valamint a Magyarországon vadászható, vadon élő fajok élelmiszer előállítás céljából tenyésztett vagy tartott egyedeit, továbbá a fogoly, fácán, tőkés réce zárt térben, szárnyasvad állomány utánpótlás céljából tenyésztett vagy tartott egyedeit,
 
@@ -8,4 +8,4 @@ c) zárt térben tartás: fogoly, fácán, tőkés réce esetében a tojótörzs
 
 d) baromfi: a baromfi és keltetőtojás Közösségen belüli kereskedelmére és harmadik országból történő behozatalára irányadó állat-egészségügyi feltételekről szóló 2009/158/EK (2009. november 30.) tanácsi irányelv 2. cikk 1. pontja szerinti baromfi, kivéve a vadászható madárfajokat (ide nem értve a fácánt, foglyot és tőkés récét).
 
-[^3]: A 2. § a 31/2010. (XI. 18.) VM rendelet 3. §-ával megállapított szöveg.
+[^4]: A 2. § a 31/2010. (XI. 18.) VM rendelet 3. §-ával megállapított szöveg.
