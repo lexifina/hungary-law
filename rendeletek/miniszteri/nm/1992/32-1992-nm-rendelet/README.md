@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1992-32-20-3
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2006-02-21 | 1992-32-20-3D.5 | 32/1992. (XII. 23.) NM rendelet |
+| 2014-03-15 | 1992-32-20-3D.6 | 16/2014. (III. 12.) EMMI rendelet |

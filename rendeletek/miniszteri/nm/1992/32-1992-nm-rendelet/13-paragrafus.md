@@ -1,4 +1,4 @@
-13. §[^12] (1) A terhességmegszakítás térítési díjának 30%-át kell megfizetni, ha
+13. §[^13] (1) A terhességmegszakítás térítési díjának 30%-át kell megfizetni, ha
 
 a) a terhessége megszakítását kérő személy vagy a vele egy háztartásban élő házastársa, élettársa, illetőleg – az egy háztartásban éléstől függetlenül – az eltartója [az (1)–(3) bekezdések alkalmazásában a továbbiakban együtt: házastárs] a 4/a. számú melléklet 1. pontjában meghatározott valamely pénzbeni szociális ellátásra jogosult, az ellátás folyósításának időtartama alatt, vagy
 
@@ -16,4 +16,4 @@ c) a 4/a. számú melléklet 3. vagy 4. pontjában meghatározott valamely pénz
 
 d) a tv. 7. §-a (2) bekezdésének b)–d) pontjaiban meghatározott személyek terhességmegszakítása esetén.
 
-[^12]: A 13 § a 18/2000. (VI. 29.) EüM rendelet 5. §-ával megállapított szöveg.
+[^13]: A 13 § a 18/2000. (VI. 29.) EüM rendelet 5. §-ával megállapított szöveg.

@@ -12,7 +12,7 @@
 
 10. § (1)[^10] Amennyiben a kérelmező a terhesség megszakítása iránti kérelmét tv. 9. §-ának (1)–(2) bekezdéseiben foglalt tájékoztatást követően is fenntartja, a munkatárs a rendelkezésre álló adatok és iratok alapján kitölti a rendelet 4. számú mellékletét képező, ,,A'' jelű nyomtatvány ,,1. kérőlap'' részét, valamint a ,,B'' jelű ,,statisztikai adatszolgáltató lap'' 1—12. pontját.
 
-(2) Amennyiben a kérelmező korlátozottan cselekvőképes, a kérőlap kitöltésének nem feltétele, hogy törvényes képviselője és a kérelmező egyidejűleg legyen jelen a Családvédelmi Szolgálatnál. A törvényes képviselő a kérőlapot a kérelmező felvilágosítását követően is aláírhatja, illetve akadályoztatása esetén tudomásul vevő nyilatkozatát teljes bizonyító erejű magánokirat formájában is eljuttathatja.
+(2)[^11] Amennyiben a kérelmező korlátozottan cselekvőképes kiskorú, valamint a cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében részlegesen korlátozott, a kérőlap kitöltésének nem feltétele, hogy törvényes képviselője és a kérelmező egyidejűleg legyen jelen a Családvédelmi Szolgálatnál. A törvényes képviselő a kérőlapot a kérelmező felvilágosítását követően is aláírhatja, illetve akadályoztatása esetén tudomásul vevő nyilatkozatát teljes bizonyító erejű magánokirat formájában is eljuttathatja.
 
 (3) A kitöltött és a kérelmező, illetőleg a munkatárs által aláírt kérőlapot a munkatárs a kérelem előterjesztését követő munkanapon megküldi a terhességmegszakítás elvégzésére a kérelmező által választott intézménynek. A kérőlap másolatát átadja a kérelmező részére. A kérőlap kiállításáról, illetve a tanácsadás megtörténtéről a munkatárs nyilvántartást vezet.
 
@@ -20,3 +20,4 @@
 
 [^9]: A 9/A. §-t a 18/2000. (VI. 29.) EüM rendelet 3. §-a iktatta a szövegbe.
 [^10]: A 10. § (1) bekezdése a 18/2000. (VI. 29.) EüM rendelet 7. §-ának (1) bekezdése szerint módosított szöveg.
+[^11]: A 10. § (2) bekezdése a 16/2014. (III. 12.) EMMI rendelet 1. § a) pontja szerint módosított szöveg.

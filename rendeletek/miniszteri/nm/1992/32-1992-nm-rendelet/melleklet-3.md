@@ -1,4 +1,4 @@
-## —[^15] az Semmelweis Egyetem Egészségtudományi Kar Szülészeti-Nőgyógyászati Klinikája;
+## —[^16] az Semmelweis Egyetem Egészségtudományi Kar Szülészeti-Nőgyógyászati Klinikája;
 
 ## — a Semmelweis Orvostudományi Egyetem I. Számú Szülészeti-Nőgyógyászati Klinikája;
 
@@ -76,4 +76,4 @@ A terhességmegszakítás végzésének szakmai feltételrendszere
 
 5. Amennyiben a terhesség megszakítását a magzatnál fennálló egészségi ok indokolta, úgy az intézménynek gondoskodnia kell az abortum embriopathologiai vizsgálatáról.
 
-[^15]: A 18/2000. (VI. 29.) EüM rendelet 7. §-ának (1) bekezdése szerint módosított szöveg.
+[^16]: A 18/2000. (VI. 29.) EüM rendelet 7. §-ának (1) bekezdése szerint módosított szöveg.

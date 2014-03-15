@@ -26,7 +26,7 @@
 
 ## * súlyos válsághelyzet
 
-## 4. A térítési díj megállapításnál *kérem/*nem kérem a szociális kedvezmény érvényesítését.
+## 4.[^17] A térítési díj megállapításnál *kérem/*nem kérem a szociális kedvezmény érvényesítését.
 
 ## Kelt: ………………… 199… év …………… hó …… napján.
 
@@ -36,13 +36,15 @@
 
 ## …………………………………………
 
+## az egészségügyről szóló törvény szerinti
+
 ## cselekvőképtelen személy esetén
 
 ## a törvényes képviselő aláírása
 
 ## …………………………………………
 
-## (Korlátozottan cselekvőképes személy esetén a törvényes képviselő jóváhagyó aláírása, illetve a Családvédelmi Szolgálat munkatársának aláírása, amellyel igazolja, hogy a törvény 8. § (2) bekezdése szerinti nyilatkozatot a törvényes képviselő megtette.)
+## (Korlátozottan cselekvőképes kiskorú, valamint a cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében részlegesen korlátozott személy esetén a törvényes képviselő jóváhagyó aláírása, illetve a Családvédelmi Szolgálat munkatársának aláírása, amellyel igazolja, hogy a törvény 8. § (2) bekezdése szerinti nyilatkozatot a törvényes képviselő megtette.)
 
 ## 5. Feleségem (élettársam) döntésével egyetértek
 
@@ -264,7 +266,7 @@
 
 ## *mb. helyettese/*adjunktus
 
-## [^16]
+## [^18]
 
 ## M204719A_0
 
@@ -350,7 +352,7 @@
 
 ## ”
 
-4/a. számú melléklet a 32/1992. (XII. 23.) NM rendelethez[^17]
+4/a. számú melléklet a 32/1992. (XII. 23.) NM rendelethez[^19]
 
 Súlyos válsághelyzet esetén a terhességmegszakítás szociális kedvezmény figyelembevételével történő igénybevételére jogosító pénzbeni ellátásokról
 
@@ -388,5 +390,6 @@ Súlyos válsághelyzet esetén a terhességmegszakítás szociális kedvezmény
 
 4. Rendszeres szociális segély,
 
-[^16]: A Statisztikai adatlapot ld. 1992. MK 132. szám 4719-4720. oldal.
-[^17]: A 4/a. számú mellékletet a 18/2000. (VI. 29.) EüM rendelet 7. § (1) bekezdése iktatta be.
+[^17]: A 4. számú melléklet „A” 1. KÉRŐLAP A TERHESSÉG MEGSZAKÍTÁSÁHOZ rész 4. pontja a 16/2014. (III. 12.) EMMI rendelet 1. § b) pontja szerint módosított szöveg.
+[^18]: A Statisztikai adatlapot ld. 1992. MK 132. szám 4719-4720. oldal.
+[^19]: A 4/a. számú mellékletet a 18/2000. (VI. 29.) EüM rendelet 7. § (1) bekezdése iktatta be.
