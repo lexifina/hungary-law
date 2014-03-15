@@ -1,4 +1,4 @@
-13. § (1) Az olyan tevékenységet folytató természetes vagy jogi személynek, illetve jogi személyiség nélküli gazdasági társaságnak, amely közvetlenül szállít a 12. § (4) bekezdése szerinti terméket a határon túli tengeri szállítási szolgáltatásban részt vevő személyzet és utasok ellátására, a 12. § (1) és (2) bekezdése, (4) bekezdésének a) pontja és (5) bekezdésének b)–d) pontja, valamint a 12. § (7)–(9) és (12) bekezdésében meghatározott követelményeken túl
+13. § (1)[^17] Az olyan tevékenységet folytató természetes vagy jogi személynek, illetve jogi személyiséggel nem rendelkező szervezetnek, amely közvetlenül szállít a 12. § (4) bekezdése szerinti terméket a határon túli tengeri szállítási szolgáltatásban részt vevő személyzet és utasok ellátására, a 12. § (1) és (2) bekezdése, (4) bekezdésének a) pontja és (5) bekezdésének b)–d) pontja, valamint a 12. § (7)–(9) és (12) bekezdésében meghatározott követelményeken túl
 
 a) az illetékes hatóság előzetes engedélyével kell rendelkeznie a tevékenység folytatásához,
 
@@ -10,7 +10,7 @@ d) nyilatkoznia kell arról, hogy a 12. § (4) bekezdése szerinti terméket fog
 
 e) 24 órán belül értesíteniük kell az illetékes hatóságot a termék c) pont szerinti raktárba történő megérkezéséről.
 
-(2) Az (1) bekezdés szerinti természetes vagy jogi személynek, illetve jogi személyiség nélküli gazdasági társaságnak
+(2)[^18] Az (1) bekezdés szerinti természetes vagy jogi személynek, illetve jogi személyiséggel nem rendelkező szervezetnek
 
 a) közvetlenül a tengeri szállítóeszköz fedélzetére vagy a rendeltetési helyként megjelölt kikötő meghatározott módon jóváhagyott raktárába kell teljesítenie a szállításokat; a szállítás során biztosítania kell, hogy az érintett termék nem hagyja el a kikötő területét azzal a céllal, hogy egy másik rendeltetési helyre szállítsák; a terméknek a kiindulási raktárból a rendeltetési helyként megjelölt kikötőbe történő szállítását a Közösségi Vámkódexben meghatározott T1 eljárás szerint, vámfelügyelet alatt kell végezni, valamint a szállítmányt kísérnie kell a külön jogszabály által előírt állategészségügyi bizonyítványnak,
 
@@ -20,8 +20,13 @@ c) hivatalos igazolást kell szolgáltatnia arról, hogy a terméket elszállít
 
 d) vezetnie és három évig őriznie kell a beérkezett és kiszállított termékek nyilvántartását olyan módon, amely lehetővé teszi a szállítmány raktárban maradt részének ellenőrzését.
 
-(3) Az (1) bekezdés szerinti természetes vagy jogi személynek, illetve jogi személyiség nélküli gazdasági társaságnak biztosítania kell, hogy csak olyan terméket szállít a tengeri szállítóeszközökre, amely megfelel a külön jogszabályok követelményeinek, kivéve az olyan jogszabály által meghatározott esetet, amikor az Európai Unió területének parti területein kívülre, az utasok és a személyzet ellátása céljából történik a szállítás.
+(3)[^19] Az (1) bekezdés szerinti természetes vagy jogi személynek, illetve jogi személyiséggel nem rendelkező szervezetnek biztosítania kell, hogy csak olyan terméket szállít a tengeri szállítóeszközökre, amely megfelel a külön jogszabályok követelményeinek, kivéve az olyan jogszabály által meghatározott esetet, amikor az Európai Unió területének parti területein kívülre, az utasok és a személyzet ellátása céljából történik a szállítás.
 
 (4) Azon tagállam kikötői területének illetékes hatósága, ahonnan a terméket szállítják, legkésőbb a termék továbbításának időpontjában az ANIMO rendszeren keresztül tájékoztatja a rendeltetési tagállam kikötői területének illetékes hatóságát a termék rendeltetési helyéről.
 
-(5) Ha az (1) bekezdés szerinti természetes vagy jogi személy, illetve jogi személyiség nélküli gazdasági társaság nem teljesíti az e §-ban foglaltakat, az illetékes hatóság visszavonja az (1) bekezdés a) pont szerinti engedélyt, amiről a minisztérium az Európai Bizottságot és a többi tagállamot tájékoztatja.
+(5)[^20] Ha az (1) bekezdés szerinti természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező szervezet nem teljesíti az e §-ban foglaltakat, az illetékes hatóság visszavonja az (1) bekezdés a) pont szerinti engedélyt, amiről a minisztérium az Európai Bizottságot és a többi tagállamot tájékoztatja.
+
+[^17]: A 13. § (1) bekezdés nyitó szövegrésze a 22/2014. (III. 14.) VM rendelet 24. § b) pontja szerint módosított szöveg.
+[^18]: A 13. § (2) bekezdés nyitó szövegrésze a 22/2014. (III. 14.) VM rendelet 24. § b) pontja szerint módosított szöveg.
+[^19]: A 13. § (3) bekezdése a 22/2014. (III. 14.) VM rendelet 24. § b) pontja szerint módosított szöveg.
+[^20]: A 13. § (5) bekezdése a 22/2014. (III. 14.) VM rendelet 24. § a) pontja szerint módosított szöveg.

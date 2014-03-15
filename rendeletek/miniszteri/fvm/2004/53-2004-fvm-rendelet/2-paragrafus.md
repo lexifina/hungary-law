@@ -16,13 +16,14 @@ g) okirat-ellenőrzés: a szállítmányt kísérő állategészségügyi bizony
 
 h) szállítmány: ugyanazzal a külön jogszabály által meghatározott állategészségügyi bizonyítvánnyal, állategészségügyi okirattal vagy egyéb okirattal ellátott, ugyanazon a szállítóeszközön szállított és azonos harmadik országból vagy annak azonos részéről érkező – megegyező fajtájú – termék egy meghatározott mennyisége,
 
-i) szállítmányért felelős személy: a Közösségi Vámkódex szerint a szállítmányért felelős természetes vagy jogi személy, illetve jogi személyiség nélküli gazdasági társaság, valamint a Közösségi Vámkódex 5. cikke szerinti képviselő, aki felelőssé tehető e rendelet előírásainak teljesítéséért,
+i)[^4] szállítmányért felelős személy: a Közösségi Vámkódex szerint a szállítmányért felelős természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező szervezet, valamint a Közösségi Vámkódex 5. cikke szerinti képviselő, aki felelőssé tehető e rendelet előírásainak teljesítéséért,
 
-j)[^4] termék: a (2) bekezdésben megjelölt rendeletek, valamint az emberi fogyasztásra szánt állati eredetű termékek előállítására, feldolgozására, forgalmazására és behozatalára vonatkozó állategészségügyi követelmények megállapításáról szóló 19/2005. (III. 22.) FVM rendelet, a nem emberi fogyasztásra szánt állati melléktermékekre vonatkozó egészségügyi előírások megállapításáról szóló, 2002. október 3-i 1774/2002/EK európai parlamenti és tanácsi rendelet, az emberi fogyasztásra szánt állati eredetű termékek hatósági ellenőrzésének megszervezésére vonatkozó különös szabályok megállapításáról szóló, 2004. április 29-i 854/2004/EK európai parlamenti és tanácsi rendelet szerinti állati eredetű termék, továbbá a 18. §-ban említett növényi termék,
+j)[^5] termék: a (2) bekezdésben megjelölt rendeletek, valamint az emberi fogyasztásra szánt állati eredetű termékek előállítására, feldolgozására, forgalmazására és behozatalára vonatkozó állategészségügyi követelmények megállapításáról szóló 19/2005. (III. 22.) FVM rendelet, a nem emberi fogyasztásra szánt állati melléktermékekre vonatkozó egészségügyi előírások megállapításáról szóló, 2002. október 3-i 1774/2002/EK európai parlamenti és tanácsi rendelet, az emberi fogyasztásra szánt állati eredetű termékek hatósági ellenőrzésének megszervezésére vonatkozó különös szabályok megállapításáról szóló, 2004. április 29-i 854/2004/EK európai parlamenti és tanácsi rendelet szerinti állati eredetű termék, továbbá a 18. §-ban említett növényi termék,
 
 k) vámhatóság által jóváhagyott eljárás: a Közösségi Vámkódex 4. cikkének 15. pontja szerinti, a vámhatóság által elfogadott kezelés vagy felhasználás.
 
 (2) E rendelet alkalmazása során az állati eredetű termékek Európai Unión belüli kereskedelmének állategészségügyi ellenőrzéséről szóló miniszteri rendelet, valamint az egyes élő állatok és termékek Európai Unión belüli kereskedelmével kapcsolatos állategészségügyi és állattenyésztési ellenőrzésekről szóló miniszteri rendelet fogalommeghatározásait megfelelően alkalmazni kell.
 
 [^3]: A 2. § (1) bekezdés e) pontja az 5/2012. (II. 10.) VM rendelet 12. § a) pontja szerint módosított szöveg.
-[^4]: A 2. § (1) bekezdésének j) pontja a 2/2007. (I. 10.) FVM rendelet 1. §-ával megállapított szöveg.
+[^4]: A 2. § (1) bekezdés i) pontja a 22/2014. (III. 14.) VM rendelet 24. § a) pontja szerint módosított szöveg.
+[^5]: A 2. § (1) bekezdésének j) pontja a 2/2007. (I. 10.) FVM rendelet 1. §-ával megállapított szöveg.

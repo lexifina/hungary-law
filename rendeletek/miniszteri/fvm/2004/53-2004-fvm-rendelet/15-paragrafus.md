@@ -1,6 +1,6 @@
 ## 14. § Olyan termék esetében, ahol a Közösségi Vámkódex szerinti, vámhatóság által jóváhagyott kezelés vagy felhasználás eltér a 7. §-ban és a 12. § (3) bekezdésében foglaltaktól, a hatósági állatorvosnak – a megsemmisítésre vagy visszaküldésre szánt termék kivételével – azonosságvizsgálatot és fizikális ellenőrzést kell végrehajtania annak megállapítása érdekében, hogy a termék megfelel-e az importfeltételeknek.
 
-15. § (1)[^16] Harmadik ország által visszautasított, Magyarországról vagy valamely más tagállamból származó termékből álló szállítmány re-importja akkor engedélyezhető, ha
+15. § (1)[^21] Harmadik ország által visszautasított, Magyarországról vagy valamely más tagállamból származó termékből álló szállítmány re-importja akkor engedélyezhető, ha
 
 a) a termékhez mellékelik
 
@@ -20,4 +20,4 @@ c) a szállítmányt a 8. § (4) bekezdése által meghatározott módon közvet
 
 (5) Az e § rendelkezéseinek végrehajtása során felmerülő valamennyi költség – beleértve a vizsgálat és a szükséges ellenőrzés költségeit is – a szállítmányért felelős személyt vagy képviselőjét terheli, állami visszatérítés lehetősége nélkül, az egyes állategészségügyi igazgatási szolgáltatások díjáról szóló rendelet előírásainak megfelelően.
 
-[^16]: A 15. § (1) bekezdés nyitó szövegrésze az 5/2012. (II. 10.) VM rendelet 12. § c) pontja szerint módosított szöveg.
+[^21]: A 15. § (1) bekezdés nyitó szövegrésze az 5/2012. (II. 10.) VM rendelet 12. § c) pontja szerint módosított szöveg.

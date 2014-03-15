@@ -8,7 +8,7 @@
 
 a) a termék nem származik olyan harmadik országból, amelyre a 11. § (1) bekezdésének a) pontja szerinti tilalom van érvényben,
 
-b)[^13] a vámszabad területen lévő raktárt, vámszabad raktárt vagy vámraktárt a termék tárolására vonatkozóan az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság engedélyezi.
+b)[^14] a vámszabad területen lévő raktárt, vámszabad raktárt vagy vámraktárt a termék tárolására vonatkozóan az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság engedélyezi.
 
 (5) A vámszabad területen lévő raktár, vámszabad raktár vagy vámraktár a (4) bekezdés b) pontja szerint akkor engedélyezhető, ha
 
@@ -18,7 +18,7 @@ b) az érintett termék raktározására vonatkozó külön jogszabályok által
 
 c) a raktárt elhagyó vagy a raktárba érkező valamennyi szállítmányról napi – három évig megőrzendő – nyilvántartást vezetnek, amely tartalmazza a szállítmányokban lévő termékek jellegét és mennyiségét, valamint a címzett nevét és címét,
 
-d)[^14] különálló tároló helyiségekkel, illetve hűtő helyiségekkel rendelkezik az állategészségügyi jogszabályoknak nem megfelelő termékek elkülönített tárolásához, azzal, hogy az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság már meglévő raktárak esetén engedélyezheti az ilyen termékek elkülönített tárolását azonos helyiségekben is, ha a jogszabályi követelményeknek nem megfelelő terméket zárható területeken tudják tárolni,
+d)[^15] különálló tároló helyiségekkel, illetve hűtő helyiségekkel rendelkezik az állategészségügyi jogszabályoknak nem megfelelő termékek elkülönített tárolásához, azzal, hogy az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság már meglévő raktárak esetén engedélyezheti az ilyen termékek elkülönített tárolását azonos helyiségekben is, ha a jogszabályi követelményeknek nem megfelelő terméket zárható területeken tudják tárolni,
 
 e) rendelkezik az állategészségügyi ellenőrzéseket végző személyzet számára fenntartott helyiségekkel.
 
@@ -52,8 +52,8 @@ c) a megsemmisítés helyére történő szállítás az érintett termék tart�
 
 (13) A minisztérium a (4) bekezdés szerinti vámszabad területek, vámszabad raktárak és vámraktárak, valamint a 13. § szerinti üzemeltetők listáját megküldi az Európai Bizottságnak.
 
-(14)[^15] Az (1)–(10) bekezdésben meghatározott esetben, ezen belül is a raktárakra vonatkozó feltételek be nem tartása esetén, az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság visszavonja vagy felfüggeszti a (4) bekezdés b) pontja szerinti engedélyt, amelyről a minisztérium tájékoztatja az Európai Bizottságot és a többi tagállamot. Ha az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság a szállítmány raktárból történő kilépése után jogszabálysértést állapít meg, a szállítmányért felelős személlyel szemben a külön jogszabály szerinti jogkövetkezményeket alkalmazza.
+(14)[^16] Az (1)–(10) bekezdésben meghatározott esetben, ezen belül is a raktárakra vonatkozó feltételek be nem tartása esetén, az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság visszavonja vagy felfüggeszti a (4) bekezdés b) pontja szerinti engedélyt, amelyről a minisztérium tájékoztatja az Európai Bizottságot és a többi tagállamot. Ha az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság a szállítmány raktárból történő kilépése után jogszabálysértést állapít meg, a szállítmányért felelős személlyel szemben a külön jogszabály szerinti jogkövetkezményeket alkalmazza.
 
-[^13]: A 12. § (4) bekezdés b) pontja a 70/2013. (VII. 31.) VM rendelet 34. § g) pontja szerint módosított szöveg.
-[^14]: A 12. § (5) bekezdés d) pontja a 70/2013. (VII. 31.) VM rendelet 34. § g) pontja szerint módosított szöveg.
-[^15]: A 12. § (14) bekezdése a 70/2013. (VII. 31.) VM rendelet 34. § g) és h) pontja szerint módosított szöveg.
+[^14]: A 12. § (4) bekezdés b) pontja a 70/2013. (VII. 31.) VM rendelet 34. § g) pontja szerint módosított szöveg.
+[^15]: A 12. § (5) bekezdés d) pontja a 70/2013. (VII. 31.) VM rendelet 34. § g) pontja szerint módosított szöveg.
+[^16]: A 12. § (14) bekezdése a 70/2013. (VII. 31.) VM rendelet 34. § g) és h) pontja szerint módosított szöveg.

@@ -34,8 +34,8 @@ b) a 9. § a) pontjában foglaltaknak megfelelően átrakodják egyik repülőg�
 
 (4) A (3) bekezdés szerinti esetben, ha az közegészségügyi vagy állategészségügyi kockázatot jelenthet, továbbá ha jogszabálysértés gyanúja merül fel, fizikális ellenőrzéseket kell végezni.
 
-(5)[^12] Ha a beléptető állategészségügyi határállomás hatósági állatorvosa a (2) bekezdés c) pontjának 3. alpontja által meghatározott időn belül nem kap értesítést az érintett termék Európai Unióból történő kilépéséről, azt jelenti a NAV illetékes szervének, amely szükség szerint nyomozást indít a termékek helyének kiderítésére.
+(5)[^13] Ha a beléptető állategészségügyi határállomás hatósági állatorvosa a (2) bekezdés c) pontjának 3. alpontja által meghatározott időn belül nem kap értesítést az érintett termék Európai Unióból történő kilépéséről, azt jelenti a NAV illetékes szervének, amely szükség szerint nyomozást indít a termékek helyének kiderítésére.
 
 (6) Az e § rendelkezéseinek végrehajtása során felmerülő valamennyi költség a szállítmányért felelős személyt vagy annak képviselőjét terheli, állami visszatérítés lehetősége nélkül, az egyes állategészségügyi igazgatási szolgáltatások díjáról szóló miniszteri rendelet előírásainak megfelelően.
 
-[^12]: A 11. § (5) bekezdése a 70/2013. (VII. 31.) VM rendelet 34. § f) pontja szerint módosított szöveg.
+[^13]: A 11. § (5) bekezdése a 70/2013. (VII. 31.) VM rendelet 34. § f) pontja szerint módosított szöveg.

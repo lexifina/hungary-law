@@ -1,4 +1,4 @@
-8. § (1) A rendeltetési hely szerinti illetékes hatóság részére az ANIMO rendszeren[^8] keresztül további kiegészítő adatokat kell szolgáltatni, ha
+8. § (1) A rendeltetési hely szerinti illetékes hatóság részére az ANIMO rendszeren[^9] keresztül további kiegészítő adatokat kell szolgáltatni, ha
 
 a) a terméket egy olyan tagállamba vagy egy tagállam olyan területére szánják, amely a közösségi jogszabályok alapján különleges követelményekkel rendelkezik,
 
@@ -8,7 +8,7 @@ c) a közösségi jogszabályok által szabályozott különleges célból enged
 
 (2) Az (1) bekezdés a) és c) pontja által meghatározott valamennyi olyan szállítmány esetében, amelyet más tagállamba szánnak, végre kell hajtani a 4. § (3) és (4) bekezdése szerinti okirat-ellenőrzést, azonosságvizsgálatot és fizikális ellenőrzést a beléptető állategészségügyi határállomáson, különös tekintettel annak ellenőrzésére, hogy az érintett termék megfelel-e a rendeltetési tagállamra vagy annak meghatározott területére alkalmazandó közösségi jogszabályoknak. A lebőrözött állapotban behozott szőrmés vadállatok azonosságvizsgálatát és fizikális ellenőrzését – az állati eredetű élelmiszerekben előforduló, egészségre ártalmas maradékanyagok monitoring vizsgálati rendjéről szóló miniszteri rendelet által előírt állategészségügyi és maradékanyag-ellenőrzésen felül – a szállítmány rendeltetési helyeként megjelölt üzemben és a vadak elejtésével és a vadhús forgalomba hozatalával kapcsolatos közegészségügyi és állategészségügyi problémákról szóló, a Tanács 92/45/EGK irányelvében előírtak szerint kell végrehajtani. A húst az 5. § (1) bekezdése szerinti bizonyítvánnyal együtt, a (4) bekezdés a) pontjának megfelelően vámhatósági felügyelet mellett kell a rendeltetési helyre szállítani. Az ellenőrzések eredményeit a termék beléptetési helye szerint illetékes állategészségügyi határállomás részére kell megküldeni. Ha az ellenőrzés eredménye azt indokolja, az állategészségügyi határállomás köteles intézkedni a 22. §-ban foglaltak végrehajtása érdekében.
 
-(3)[^9] Az (1) bekezdés a) és c) pontja szerinti olyan termék esetében, amelyet Magyarország területén lévő állategészségügyi határállomáson keresztül léptetnek be az Európai Unió területére, de azokat más tagállamba szánják, az állategészségügyi hatóság megteszi az e rendelet, továbbá a külön jogszabály által meghatározott intézkedést annak biztosítása érdekében, hogy az érintett szállítmány elérje a rendeltetési tagállamot.
+(3)[^10] Az (1) bekezdés a) és c) pontja szerinti olyan termék esetében, amelyet Magyarország területén lévő állategészségügyi határállomáson keresztül léptetnek be az Európai Unió területére, de azokat más tagállamba szánják, az állategészségügyi hatóság megteszi az e rendelet, továbbá a külön jogszabály által meghatározott intézkedést annak biztosítása érdekében, hogy az érintett szállítmány elérje a rendeltetési tagállamot.
 
 (4) Azokat a termékeket, amelyeket a külön jogszabályok értelmében a beléptető állategészségügyi határállomástól a rendeltetési hely szerinti létesítményig megfigyelés alatt kell tartani, az alábbi feltételekkel lehet szállítani:
 
@@ -22,8 +22,8 @@ d) a rendeltetési létesítmény vagy a közbeeső raktár üzemeltetője köte
 
 (5) Ha a beléptető állategészségügyi határállomás hatósági állatorvosa megbizonyosodik arról, hogy valamely beléptetett termék nem érkezett meg a jóváhagyott rendeltetési helyre, a szállítmányért felelős személlyel szemben köteles megtenni a külön jogszabály által meghatározott intézkedéseket.
 
-(6)[^10] A minisztérium a külön jogszabályoknak megfelelően megküldi az Európai Bizottság részére a (4) bekezdés szerinti, az érintett termékek vonatkozásában engedélyezett létesítmények listáját. Ha egy létesítmény nem teljesíti a (4) bekezdés d) pontja szerinti tájékoztatási kötelezettségét, az illetékes megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatósága (a továbbiakban: élelmiszerlánc-biztonsági és állategészségügyi igazgatóság) visszavonhatja a létesítmény működési engedélyét és a jogszabálysértés jellegének megfelelő mértékű bírságot szab ki.
+(6)[^11] A minisztérium a külön jogszabályoknak megfelelően megküldi az Európai Bizottság részére a (4) bekezdés szerinti, az érintett termékek vonatkozásában engedélyezett létesítmények listáját. Ha egy létesítmény nem teljesíti a (4) bekezdés d) pontja szerinti tájékoztatási kötelezettségét, az illetékes megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatósága (a továbbiakban: élelmiszerlánc-biztonsági és állategészségügyi igazgatóság) visszavonhatja a létesítmény működési engedélyét és a jogszabálysértés jellegének megfelelő mértékű bírságot szab ki.
 
-[^8]: 2055/2003. (III. 27.) Korm. határozat az ANIMO rendszerhez történő csatlakozásról szóló szerződés megkötéséről.
-[^9]: A 8. § (3) bekezdése az 5/2012. (II. 10.) VM rendelet 12. § a) pontja szerint módosított szöveg.
-[^10]: A 8. § (6) bekezdése a 70/2013. (VII. 31.) VM rendelet 34. § e) pontja szerint módosított szöveg.
+[^9]: 2055/2003. (III. 27.) Korm. határozat az ANIMO rendszerhez történő csatlakozásról szóló szerződés megkötéséről.
+[^10]: A 8. § (3) bekezdése az 5/2012. (II. 10.) VM rendelet 12. § a) pontja szerint módosított szöveg.
+[^11]: A 8. § (6) bekezdése a 70/2013. (VII. 31.) VM rendelet 34. § e) pontja szerint módosított szöveg.
