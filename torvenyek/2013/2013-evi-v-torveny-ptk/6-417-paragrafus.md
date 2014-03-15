@@ -6,6 +6,6 @@
 
 (3) Bírósági eljárásban nem érvényesíthető követelés kezesével szemben a követelést bírósági úton nem lehet érvényesíteni.
 
-(4) A kötelezett ellen indult csődeljárásban biztosított fizetési haladék a kezes kötelezettségét nem érinti. A kötelezett ellen indult felszámolási vagy csődeljárásban kötött egyezség a kezes kötelezettségét nem érinti, ha a jogosult a kezest az egyezség megkötését megelőzően annak feltételeiről tájékoztatta. A tájékoztatás elmaradása esetén a kezes szabadul a kötelemből. A tájékoztatást követően a kezes jogosult a kötelezett tartozásának a teljesítésére. Teljesítés esetén a kezes a felszámolási vagy a csődeljárásban a jogosult helyébe lép.
+(4) A kötelezett ellen indult csődeljárásban biztosított fizetési haladék a kezes kötelezettségét nem érinti. A kötelezett ellen indult felszámolási vagy csődeljárásban kötött egyezség a kezes kötelezettségét nem érinti, ha a jogosult a kezest az egyezség megkötését megelőzően annak feltételeiről tájékoztatta. A tájékoztatást követően a kezes jogosult a kötelezett tartozásának a teljesítésére; teljesítés esetén a kezes a felszámolási vagy a csődeljárásban a jogosult helyébe lép. A tájékoztatás elmaradása esetén a kezes kötelezettsége lecsökken az egyezségben meghatározott mértékre.
 
 (5) A kezes a kötelezett ellen folytatott per és végrehajtás költségeiért akkor felel, ha a keresetindítás előtt a jogosult a teljesítésre eredménytelenül szólította fel.

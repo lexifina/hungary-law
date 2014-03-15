@@ -1,6 +1,6 @@
 ### 3:196. § [A társaság ügyvezetése]
 
-(1) A társaság ügyvezetését egy vagy több ügyvezető látja el.
+(1) A társaság ügyvezetését egy vagy több ügyvezető látja el. Az ügyvezető képviseleti jogának korlátozása, megosztása, és nyilatkozatának feltételhez vagy jóváhagyáshoz kötése harmadik személyekkel szemben nem hatályos.
 
 (2) Ha a társaságnak több ügyvezetője van, az ügyvezetők önállóan jogosultak az ügyvezetés körében eljárni, azzal, hogy bármelyikük a másik ügyvezető tervezett vagy már megtett intézkedése ellen tiltakozhat. Ebben az esetben a tiltakozást a taggyűlés bírálja el, a taggyűlés döntéséig a tervezett intézkedés nem hajtható végre.
 

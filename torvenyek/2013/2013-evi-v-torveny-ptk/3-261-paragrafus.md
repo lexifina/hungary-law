@@ -6,8 +6,8 @@
 
 (3) Kamatozó részvény kivételével a részvénytársaság kamatot a részvény után nem fizethet.
 
-(4) A zártkörűen működő részvénytársaságnak együttesen a szavazatok legalább öt százalékával rendelkező részvényesei, a nyilvánosan működő részvénytársaságnak együttesen a szavazatok legalább egy százalékával rendelkező részvényesei, valamint a részvénytársaság azon hitelezői, akiknek a kifizetés időpontjában még nem esedékes követelése eléri az alaptőke tíz százalékát, a kifizetésről szóló döntés meghozatalától a kifizetéstől számított egyéves jogvesztő határidő lejártáig a költségek megelőlegezésével egyidejűleg kérhetik a nyilvántartó bíróságtól könyvvizsgáló kirendelését a kifizetés jogszerűségének megvizsgálása céljából.
+(4) A zártkörűen működő részvénytársaságnak együttesen a szavazatok legalább öt százalékával rendelkező részvényesei, a nyilvánosan működő részvénytársaságnak együttesen a szavazatok legalább egy százalékával rendelkező részvényesei, valamint a részvénytársaság azon hitelezői, akiknek a kifizetés időpontjában még nem esedékes követelése eléri az alaptőke tíz százalékát, a kifizetéstől számított egyéves jogvesztő határidő lejártáig a költségek megelőlegezésével egyidejűleg kérhetik a nyilvántartó bíróságtól könyvvizsgáló kirendelését a kifizetés jogszerűségének megvizsgálása céljából.
 
-(5) Azokat a kifizetéseket, amelyeket az (1) bekezdés rendelkezései ellenére teljesítettek, a részvénytársaság felszólítására a társaság részére vissza kell fizetni.
+(5) Azokat a kifizetéseket, amelyeket az (1) bekezdés rendelkezései ellenére teljesítettek, a részvénytársaság felszólítására a társaság részére vissza kell fizetni, feltéve, hogy a társaság bizonyítja, hogy a részvényes a kifizetés feltételei fennállásának hiányáról tudott vagy tudnia kellett.
 
 (6) E § rendelkezéseit megfelelően alkalmazni kell a részvényes javára nem tagsági viszonyon alapuló kifizetésekre is, ha azok összeegyeztethetetlenek a felelős társasági gazdálkodás követelményeivel.

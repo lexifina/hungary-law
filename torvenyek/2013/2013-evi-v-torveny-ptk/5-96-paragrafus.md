@@ -4,7 +4,7 @@
 
 (2) A zálogjogosulti bizományos kijelölése harmadik személyekkel szemben attól az időponttól hatályos, amikor a bizományos személyét - zálogjogosulti bizományosi minősége feltüntetésével - az ingatlan-nyilvántartásba, a lajstromba vagy a hitelbiztosítéki nyilvántartásba bejegyzik.
 
-(3) A zálogjogosulti bizományos kérheti, hogy az ingatlan-nyilvántartás, a lajstrom vagy a hitelbiztosítéki nyilvántartás zálogjogosultként feltüntesse. A zálogjogosulti bizományos kijelölésének visszavonása harmadik személyekkel szemben attól az időponttól hatályos, amikor a zálogjogosultat az ingatlan-nyilvántartásba, a lajstromba vagy a hitelbiztosítéki nyilvántartásba bejegyzik.
+(3) A zálogjogosulti bizományos kijelölésének visszavonása harmadik személyekkel szemben attól az időponttól hatályos, amikor a zálogjogosultat az ingatlan-nyilvántartásba, a lajstromba vagy a hitelbiztosítéki nyilvántartásba bejegyzik.
 
 (4) Zálogjogosulti bizományos bejegyzése esetén az ingatlan-nyilvántartás, a lajstrom és a hitelbiztosítéki nyilvántartás nem tartalmazza azoknak a zálogjogosultaknak a nevét, akinek javára a zálogjogosulti bizományos eljár.
 

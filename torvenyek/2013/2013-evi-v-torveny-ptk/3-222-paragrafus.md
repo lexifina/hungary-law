@@ -2,7 +2,7 @@
 
 ### 3:222. § [Saját részvény]
 
-(1) A részvénytársaság az alaptőke huszonöt százalékát meg nem haladó mértékben megszerezheti az általa kibocsátott részvényeket. A saját részvények mértékének megállapításánál a részvénytársaság tulajdonaként kell figyelembe venni a részvénytársaság közvetlen vagy közvetett befolyása alatt álló jogi személyek tulajdonában álló részvényeket is, a befolyás mértékének megfelelő arányban. A részvénytársaság tulajdonában álló részvényként kell figyelembe venni azokat a részvényeket is, amelyeket tulajdonosuk a részvénytársaság javára szerzett meg vagy tart magánál.
+(1) A részvénytársaság az alaptőke huszonöt százalékát meg nem haladó mértékben megszerezheti az általa kibocsátott részvényeket. A saját részvények mértékének megállapításánál a részvénytársaság tulajdonaként kell figyelembe venni a részvénytársaság többségi befolyása alatt álló jogi személy – ideértve a külföldi székhellyel rendelkező, a rá irányadó jog szerint korlátolt felelősségű társaságnak vagy részvénytársaságnak minősülő gazdasági társaság – tulajdonában álló részvényeket is. A részvénytársaság tulajdonában álló részvényként kell figyelembe venni azokat a részvényeket is, amelyeket tulajdonosuk a részvénytársaság javára szerzett meg vagy tart magánál, továbbá azokat a saját részvényeket, amelyeket a részvénytársaság követelés biztosítékául fogad el.
 
 (2) A részvénytársaság az alapítás vagy az alaptőke felemelése során nem szerezheti meg saját részvényeit.
 

@@ -7,3 +7,5 @@
 (3) Az elsőbbségi jog gyakorlására a részvénytársaság legalább tizenöt napos határidőt köteles biztosítani.
 
 (4) A részvénytársaság köteles az alapszabályban meghatározott módon tájékoztatni a részvényeseket, továbbá az átváltoztatható és a jegyzési jogot biztosító kötvények tulajdonosait a megszerezhető részvények névértékéről, illetve kibocsátási értékéről, a jog érvényesítésére nyitva álló időszak kezdő- és záró napjáról és a jog gyakorlásának módjáról.
+
+(5) Az átváltozó kötvény előre meghatározott objektív ok alapján alakul át részvénnyé, ennek megfelelően tulajdonosa számára elsőbbségi jogot nem biztosít

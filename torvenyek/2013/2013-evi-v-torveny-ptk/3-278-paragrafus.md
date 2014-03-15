@@ -10,7 +10,7 @@ c) a közgyűlés levezető elnökének, a jegyzőkönyvvezetőnek, a jegyzőkö
 
 d) a közgyűlésen lezajlott fontosabb eseményeket, az elhangzott indítványokat;
 
-e) a határozati javaslatokat, az azokra leadott szavazatok és ellenszavazatok számát, valamint a szavazástól tartózkodók számát.
+e) a határozati javaslatokat, minden határozat esetében azon részvények számát, amelyek tekintetében érvényes szavazat leadására került sor, az ezen szavazatok által képviselt alaptőke részesedés mértékét, a leadott szavazatok és ellenszavazatok, valamint a szavazástól tartózkodók számát.
 
 (2) A jegyzőkönyvet a jegyzőkönyvvezető és a közgyűlés levezető elnöke írja alá, és egy erre megválasztott, jelen lévő részvényes hitelesíti.
 

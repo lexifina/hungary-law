@@ -6,6 +6,6 @@
 
 (2) Az igazgatóság elnökét maga választja tagjai közül.
 
-(3) Az igazgatóság jogait és feladatait testületként gyakorolja.
+(3) Az igazgatóság jogait és feladatait testületként gyakorolja. Az igazgatóság tagjai képviseleti jogának korlátozása, megosztása, és nyilatkozatának feltételhez vagy jóváhagyáshoz kötése harmadik személyekkel szemben nem hatályos.
 
 (4) Az igazgatóság határozatait a jelenlévők szótöbbségével hozza. Az alapszabály ennél alacsonyabb határozathozatali arányt előíró rendelkezése semmis.

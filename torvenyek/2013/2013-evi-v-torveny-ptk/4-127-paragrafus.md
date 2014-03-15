@@ -4,7 +4,7 @@
 
 a) aki a szülői felügyeletet megszüntető jogerős bírósági ítélet hatálya alatt áll;
 
-b) akinek átmeneti nevelésbe vett gyermekét a gyámhatóság örökbefogadhatónak nyilvánította;
+b) akinek nevelésbe vett gyermekét a gyámhatóság örökbefogadhatónak nyilvánította;
 
 c) aki nem kiskorúság miatt cselekvőképtelen;
 

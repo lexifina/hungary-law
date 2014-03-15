@@ -6,13 +6,11 @@ a) aki cselekvőképességet érintő gondnokság alatt áll;
 
 b) aki szülői felügyeletet megszüntető vagy közügyektől eltiltó jogerős ítélet hatálya alatt áll;
 
-c) akinek szülői felügyeleti joga azért szünetel, mert gyermekét a gyámhatóság átmeneti nevelésbe vette;
+c) akinek szülői felügyeleti joga azért szünetel, mert gyermekét nevelésbe vették;
 
-d) akinek a gyermekét tartós nevelésbe vették;
+d) akinek a gyermekét örökbefogadhatónak nyilvánították; vagy
 
-e) akinek a gyermekét örökbefogadhatónak nyilvánították; vagy
-
-f) akit a szülői felügyelet gyakorlására jogosult szülő a gyámságból közokiratban vagy végrendeletben kizárt.
+e) akit a szülői felügyelet gyakorlására jogosult szülő a gyámságból közokiratban vagy végrendeletben kizárt.
 
 (2) Ha a szülői felügyeletet gyakorló szülő azt a személyt zárta ki a gyámságból, akit a másik szülő gyámul nevezett, a kiskorú gyermek érdekeinek figyelembevételével a gyámhatóság dönti el, hogy melyik rendelkezés érvényesüljön.
 

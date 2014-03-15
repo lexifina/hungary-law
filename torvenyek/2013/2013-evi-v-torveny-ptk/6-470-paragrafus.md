@@ -2,7 +2,7 @@
 
 ### 6:470. § [Felelősségbiztosítási szerződés]
 
-(1) Felelősségbiztosítási szerződés alapján a biztosított követelheti, hogy a biztosító a szerződésben megállapított módon és mértékben mentesítse őt olyan kár megtérítése alól, amelyért jogszabály szerint felelős.
+(1) Felelősségbiztosítási szerződés alapján a biztosított követelheti, hogy a biztosító a szerződésben megállapított módon és mértékben mentesítse őt olyan kár megtérítése, illetve sérelemdíj megfizetése alól, amelyre jogszabály értelmében köteles.
 
 (2) A biztosítás kiterjed az eljárási költségekre, ha e költségek a biztosító útmutatásai alapján vagy előzetes jóváhagyásával merültek fel. A biztosított kérésére a biztosítónak a költségeket meg kell előlegeznie.
 

@@ -1,3 +1,3 @@
 ### 3:83. § [Jogutódlással történő megszűnés]
 
-Egyesület csak egyesülettel egyesülhet és csak egyesületekre válhat szét.
+Egyesület más jogi személlyé nem alakulhat át, csak egyesülettel egyesülhet és csak egyesületekre válhat szét.

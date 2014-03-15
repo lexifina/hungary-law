@@ -2,11 +2,11 @@
 
 ### 3:303. § [Feltételes alaptőke-emelés]
 
-(1) A részvénytársaság feltételes alaptőke-emelést határozhat el átváltoztatható kötvények forgalomba hozatalával.
+(1) A részvénytársaság feltételes alaptőke-emelést határozhat el átváltoztatható vagy átváltozó kötvények forgalomba hozatalával.
 
-(2) A forgalomba hozott átváltoztatható kötvények névértékének összege nem haladhatja meg a részvénytársaság alaptőkéjének felét.
+(2) A forgalomba hozott átváltoztatható vagy átváltozó kötvények névértékének összege nem haladhatja meg a részvénytársaság alaptőkéjének felét.
 
-(3) Az átváltoztatható kötvényt az alapszabályban meghatározott feltételek szerint a kötvényes kérésére részvénnyé kell átalakítani.
+(3) Az átváltoztatható kötvényt az alapszabályban meghatározott feltételek szerint a kötvényes kérésére részvénnyé kell átalakítani. Az átváltozó kötvény a kötvényben meghatározott feltétel bekövetkezése esetén alakul át részvénnyé.
 
 (4) A feltételes alaptőke-emelést elhatározó közgyűlési határozatban meg kell határozni
 
@@ -14,7 +14,7 @@ a) azt, hogy a kötvény kibocsátása zártkörűen vagy nyilvánosan történi
 
 b) a kibocsátandó kötvények számát, névértékét, illetve kibocsátási értékét, a kötvények sorozatát, a jegyzés helyét és idejét;
 
-c) a kötvények részvénnyé történő átalakításának feltételeit, időpontját;
+c) a kötvények részvénnyé történő átalakításának vagy átalakulásának feltételeit, időpontját;
 
 d) a kötvény futamidejét, a kamat vagy egyéb hozam megfizetésének feltételeit;
 

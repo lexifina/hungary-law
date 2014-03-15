@@ -4,6 +4,6 @@
 
 (2) Az alapító az általa juttatott vagyonról az alapítvány jogutód nélküli megszűnésekor az alapítvány céljával azonos vagy hasonló célú alapítvány vagy egyesület számára rendelkezhet, ha az alapító okirat ilyen esetre a vagyonról nem rendelkezik vagy a rendelkezés teljesítése lehetetlen.
 
-(3) A vagyon a nyilvántartó bíróság által kijelölt alapítványt illeti, ha az alapító nem rendelkezik a megszűnő alapítvány vagyonáról, vagy ha az alapító által megjelölt személy a vagyont nem fogadja el vagy azt nem szerezheti meg.
+(3) A nyilvántartó bíróság jogszabályban meghatározott szervezetnek juttatja a vagyont, ha az alapító okirat, vagy az alapító nem rendelkezik a megszűnő alapítvány vagyonáról, vagy ha az alapító okirat által megjelölt személy, vagy az alapító által megjelölt alapítvány, egyesület a vagyont nem fogadja el vagy azt nem szerezheti meg.
 
-(4) A nyilvántartó bíróság a vagyont - a kuratórium és a felügyelőbizottság véleményének figyelembe vételével - az alapítvány céljával azonos célú, ilyen hiányában hasonló célú alapítványnak juttatja. A juttatás elfogadásáról az alapítványnak döntenie kell.
+(4)

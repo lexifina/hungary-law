@@ -31,3 +31,5 @@ h) az alapítvány képviseletének részletes szabályairól, ideértve az alap
 i) a kedvezményezettek körének meghatározásáról, illetve a kedvezményezett személyek megjelöléséről, továbbá a kedvezményezetteket megillető szolgáltatásról és jogokról;
 
 j) az alapítvány jogutód nélküli megszűnése esetére az alapítvány fennmaradó vagyona jogosultjának megnevezésről.
+
+(3) Az alapító az alapító okiratban az alapítvány szervezeti egységét jogi személynek nyilváníthatja.

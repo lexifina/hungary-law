@@ -4,7 +4,7 @@
 
 a) a szülő felróható magatartásával gyermeke javát, különösen testi jólétét, értelmi vagy erkölcsi fejlődését súlyosan sérti vagy veszélyezteti; vagy
 
-b) a gyermeket más személynél helyezték el vagy átmeneti nevelésbe vették, és a szülő a gyermek elhelyezésére vagy az átmeneti nevelésbe vételre okot adó magatartásán, életvitelén, körülményein önhibájából nem változtat.
+b) a gyermeket más személynél helyezték el vagy nevelésbe vették, és az a szülő, akinek szülői felügyeleti joga szünetel, a gyermek elhelyezésére vagy a nevelésbe vételre okot adó magatartásán, életvitelén, körülményein önhibájából nem változtat.
 
 (2) Ha a szülőt a bíróság valamelyik gyermeke személye ellen elkövetett szándékos bűncselekmény miatt szabadságvesztésre ítélte, a bíróság a szülői felügyeletet a szülő valamennyi gyermeke tekintetében megszüntetheti. A bíróság rendelkezhet úgy, hogy a megszüntető határozat hatálya kihat a később született gyermekre is.
 

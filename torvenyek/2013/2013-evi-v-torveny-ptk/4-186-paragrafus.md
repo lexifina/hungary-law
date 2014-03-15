@@ -20,7 +20,7 @@ e) a gyámhatóság a gyermek családba fogadásához hozzájárult;
 
 f) a szülő hathetes életkoránál fiatalabb gyermeke örökbefogadásához járult hozzá;
 
-g) a gyermeket a gyámhatóság átmeneti nevelésbe vette;
+g) a gyermeket a gyámhatóság nevelésbe vette és a szülő szülői felügyeleti joga nem szűnt meg vagy azt a bíróság nem szüntette meg;
 
 h) a bíróság a gyermeket harmadik személynél helyezte el; vagy
 

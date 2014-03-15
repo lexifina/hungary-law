@@ -20,6 +20,16 @@
 
 5. vagyontárgy: a dolog, a jog, a követelés;
 
-6. bank: a betétgyűjtésre és fizetési számla vezetésére jogosult személy.
+6. bank: a betétgyűjtésre és fizetési számla vezetésére jogosult személy;
+
+7. szerződő hatóság: a közbeszerzésekről szóló törvény szerinti ajánlatkérő, akkor is, ha közbeszerzési eljárás lefolytatására nem köteles.
 
 (2) E törvény alkalmazásában jogszabálynak minősül az Európai Unió általános hatályú közvetlenül alkalmazandó jogi aktusa is.
+
+(3) E törvény alkalmazásában bírósági eljárásnak minősül a fizetési meghagyás is.
+
+(4) E törvény alkalmazásában testvérnek minősül a féltestvér is.
+
+(5) E törvény alkalmazásában tőzsdének minősül a székhely szerinti állam felügyeleti hatóságának engedélyével rendelkező olyan piac is, amelyen értékpapírokkal kereskednek.
+
+(6) A Ptk. épületekre vonatkozó rendelkezéseit más építményekre is megfelelően alkalmazni kell.

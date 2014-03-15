@@ -4,7 +4,7 @@
 
 a) az alapítók nyilatkozatát az összes részvény átvételére vonatkozó kötelezettségvállalásról és a részvényeknek az alapítók közötti megoszlásáról;
 
-b) az alapítás során kibocsátandó részvények számát, névértékét, illetve kibocsátási értékét, valamint a részvények előállításának módját;
+b) az alaptőke összegét, az alapítás során kibocsátandó részvények számát, névértékét, illetve kibocsátási értékét, valamint a részvények előállításának módját;
 
 c) a közgyűlés összehívásának módját, a szavazati jog gyakorlásának feltételét és módját; és
 
@@ -16,7 +16,7 @@ a) a nem pénzbeli vagyoni hozzájárulás tárgyáról, értékéről, szolgál
 
 b) az egyes részvényfajtákhoz, részvényosztályokhoz, illetve részvénysorozatokhoz kapcsolódó jogokról és a részvényekhez fűződő egyes jogok esetleges korlátozásáról; a részvények más részvényfajtába, részvényosztályba, illetve részvénysorozatba tartozó részvényre történő átalakításának szabályairól; valamint az egyes részvényfajtához, illetve részvényosztályhoz tartozó részvények számáról, névértékéről, illetve kibocsátási értékéről részvénysorozatonként;
 
-c) az átváltoztatható vagy jegyzési jogot biztosító kötvények sorozatáról, számáról, névértékéről és a kötvényekre vonatkozó szabályokról;
+c) az átváltoztatható, jegyzési jogot biztosító vagy átváltozó kötvények sorozatát, számát, névértékét és a kötvényekre vonatkozó szabályokat;
 
 d) a részvények átruházásának korlátozásáról vagy annak a részvénytársaság beleegyezéséhez kötéséről;
 
