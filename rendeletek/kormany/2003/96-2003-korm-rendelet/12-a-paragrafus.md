@@ -1,4 +1,4 @@
-12/A. §[^62] (1) Az Eütv. 108/A. §-a szerinti bejelentést a személyes közreműködő teszi meg. Ha a személyes közreműködő e tevékenységét az igénybe vevő szolgáltató több szervezeti egységében is végzi, a bejelentést ezen szervezeti egységek tekintetében kell megtenni.
+12/A. §[^64] (1) Az Eütv. 108/A. §-a szerinti bejelentést a személyes közreműködő teszi meg. Ha a személyes közreműködő e tevékenységét az igénybe vevő szolgáltató több szervezeti egységében is végzi, a bejelentést ezen szervezeti egységek tekintetében kell megtenni.
 
 (2) A praxisengedélyhez kötött egészségügyi szolgáltatások személyes közreműködés keretében nem végezhetők.
 
@@ -44,4 +44,4 @@ b) a tevékenységet végző egészségügyi dolgozók vonatkozásában a műkö
 
 (12) A (11) bekezdés szerinti határozatot közölni kell a közreműködést igénybe vevő szolgáltatóval és közszolgáltatás keretében történő tevékenységvégzés esetén az Országos Egészségbiztosítási Pénztárral vagy az egészségügyi közszolgáltatást finanszírozó más állami szervvel.
 
-[^62]: A 12/A. §-t az 520/2013. (XII. 30.) Korm. rendelet 30. §-a iktatta be.
+[^64]: A 12/A. §-t az 520/2013. (XII. 30.) Korm. rendelet 30. §-a iktatta be.
