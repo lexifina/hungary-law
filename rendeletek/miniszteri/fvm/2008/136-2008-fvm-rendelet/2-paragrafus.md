@@ -16,10 +16,10 @@ e)[^1] illetékes LEADER HACS: az Európai Mezőgazdasági Vidékfejlesztési Al
 
 f)[^2]
 
-g)[^3] ügyfél: a 4. számú melléklet szerinti településen működő, induló mikrovállalkozás, a gazdasági társaságokról szóló törvénynek megfelelően működő előtársaság vagy olyan természetes személy, aki vállalja, hogy a támogatás megítélését követően az első kifizetési kérelem benyújtásának időpontjáig egyéni vállalkozóként nyilvántartásba veteti magát, és tevékenységét, amennyiben főállású alkalmazottat nem foglalkoztat, főállásban ekként végzi.
+g)[^3] ügyfél: a 4. számú melléklet szerinti településen működő, induló mikrovállalkozás, a Polgári Törvénykönyvről szóló 2013. évi V. törvénynek megfelelően működő előtársaság vagy olyan természetes személy, aki vállalja, hogy a támogatás megítélését követően az első kifizetési kérelem benyújtásának időpontjáig egyéni vállalkozóként nyilvántartásba veteti magát, és tevékenységét, amennyiben főállású alkalmazottat nem foglalkoztat, főállásban ekként végzi.
 
 (2) E rendeletben nem szabályozott kérdésekben a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvényben (a továbbiakban: Törvény) és az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló támogatások igénybevételének általános szabályairól szóló 23/2007. (IV. 17.) FVM rendeletben (a továbbiakban: Vhr.) foglaltakat kell megfelelően alkalmazni.
 
 [^1]: A 2. § (1) bekezdés e) pontja a 13/2010. (VIII. 30.) VM rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^2]: A 2. § (1) bekezdésének f) pontját a 158/2009. (XI. 19.) FVM rendelet 9. §-a hatályon kívül helyezte.
-[^3]: A 2. § (1) bekezdés g) pontja a 13/2010. (VIII. 30.) VM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^3]: A 2. § (1) bekezdés g) pontja a 13/2010. (VIII. 30.) VM rendelet 3. § (2) bekezdésével megállapított, a 22/2014. (III. 14.) VM rendelet 65. §-a szerint módosított szöveg.
