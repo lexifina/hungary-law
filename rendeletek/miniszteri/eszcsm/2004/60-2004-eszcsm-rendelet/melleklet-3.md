@@ -1,4 +1,4 @@
-## Kérelem korlátozottan cselekvőképes, illetve cselekvőképtelen pszichiátriai beteg pszichiátriai intézeti gyógykezelésbe vételére
+## Kérelem korlátozottan cselekvőképes kiskorú és cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében részlegesen korlátozott, illetve cselekvőképtelen pszichiátriai beteg pszichiátriai intézeti gyógykezelésbe vételére[^10]
 
 ## Az egészségügyről szóló 1997. évi CLIV. törvény alapján, mint nyilatkozattételre jogosult személy, kérem
 
@@ -45,3 +45,5 @@
 |  | a felvevő orvos aláírása |
 
 3. számú melléklet a 60/2004. (VII. 6.) ESZCSM rendelethez
+
+[^10]: A 2. számú melléklet címe a 16/2014. (III. 12.) EMMI rendelet 10. § a) pontja szerint módosított szöveg.
