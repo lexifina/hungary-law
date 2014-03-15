@@ -1,4 +1,4 @@
-4. § (1)[^3] A megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatósága (a továbbiakban: élelmiszerlánc-biztonsági és állategészségügyi igazgatóság) – tekintet nélkül az állatok vámrendeltetésére – valamennyi harmadik országból érkező állatszállítmány tekintetében elvégzi az okirat-ellenőrzést és az azonosságvizsgálatot az állategészségügyi határállomáson annak érdekében, hogy ellenőrizze
+4. § (1)[^4] A megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatósága (a továbbiakban: élelmiszerlánc-biztonsági és állategészségügyi igazgatóság) – tekintet nélkül az állatok vámrendeltetésére – valamennyi harmadik országból érkező állatszállítmány tekintetében elvégzi az okirat-ellenőrzést és az azonosságvizsgálatot az állategészségügyi határállomáson annak érdekében, hogy ellenőrizze
 
 a) az állat származási helyét,
 
@@ -24,4 +24,4 @@ d) az állatszállítás állatvédelmi szabályairól szóló miniszteri rendel
 
 (5) Az (1)–(4) bekezdésben foglaltak alkalmazása során felmerülő minden költség – állami visszatérítés nélkül – a feladót, a címzettet vagy annak képviselőjét terheli.
 
-[^3]: A 4. § (1) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 36. § c) pontja szerint módosított szöveg.
+[^4]: A 4. § (1) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 36. § c) pontja szerint módosított szöveg.

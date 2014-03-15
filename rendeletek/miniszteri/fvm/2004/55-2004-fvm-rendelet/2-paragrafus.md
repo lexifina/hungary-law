@@ -10,8 +10,10 @@
 
 4. okirat-ellenőrzés: az állatot kísérő állategészségügyi bizonyítvány vagy egyéb okirat-ellenőrzése,
 
-5. szállítmányért felelős személy: bármely természetes vagy jogi személy, illetve jogi személyiség nélküli gazdasági társaság, aki a Közösségi Vámkódex létrehozásáról szóló, a Tanács 2913/92/EGK rendelete (a továbbiakban: Közösségi Vámkódex) szerint felelős a szállítmányért, valamint annak olyan képviselője, aki felelőssé tehető az e rendelet szerinti ellenőrzés következményéért,
+5.[^2] szállítmányért felelős személy: bármely természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező szervezet, aki a Közösségi Vámkódex létrehozásáról szóló, a Tanács 2913/92/EGK rendelete (a továbbiakban: Közösségi Vámkódex) szerint felelős a szállítmányért, valamint annak olyan képviselője, aki felelőssé tehető az e rendelet szerinti ellenőrzés következményéért,
 
 6. szállítmány: ugyanazzal a szállítóeszközzel szállított, ugyanabból a harmadik országból vagy annak azonos részéből származó, ugyanazzal az állategészségügyi bizonyítvánnyal vagy okirattal ellátott, azonos fajú állatok csoportja.
 
 (2) E rendelet alkalmazása során az egyes élő állatok és termékek Európai Unión belüli kereskedelmével kapcsolatos állategészségügyi és állattenyésztési ellenőrzésekről szóló miniszteri rendelet fogalommeghatározásait megfelelően alkalmazni kell.
+
+[^2]: A 2. § (1) bekezdés 5. pontja a 22/2014. (III. 14.) VM rendelet 26. §-a szerint módosított szöveg.

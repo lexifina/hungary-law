@@ -4,6 +4,6 @@
 
 (2) Az Európai Bizottság állategészségügyi szakértőinek helyszíni ellenőrzése során a minisztérium az állategészségügyi szakértőkkel együttműködik.
 
-(3)[^21] Az élelmiszerlánc-felügyeleti szerv megadja az Európai Bizottság állategészségügyi szakértőinek az általuk kért és feladatuk végrehajtásához szükséges segítséget.
+(3)[^22] Az élelmiszerlánc-felügyeleti szerv megadja az Európai Bizottság állategészségügyi szakértőinek az általuk kért és feladatuk végrehajtásához szükséges segítséget.
 
-[^21]: A 18. § (3) bekezdése a 70/2013. (VII. 31.) VM rendelet 36. § b) pontja szerint módosított szöveg.
+[^22]: A 18. § (3) bekezdése a 70/2013. (VII. 31.) VM rendelet 36. § b) pontja szerint módosított szöveg.
