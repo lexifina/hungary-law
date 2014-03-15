@@ -2,6 +2,6 @@
 
 17. § (1) Ez a rendelet 1986. július hó 1. napján lép hatályba.
 
-(2)[^64]
+(2)[^69]
 
-[^64]: A 17. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 18. §-ának 182. pontja hatályon kívül helyezte.
+[^69]: A 17. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 18. §-ának 182. pontja hatályon kívül helyezte.

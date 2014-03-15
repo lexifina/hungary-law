@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1986-6-20-06
 | 2011-09-15 | 1986-6-20-06.16 | 48/2009. (IX. 28.) IRM rendelet |
 | 2012-01-01 | 1986-6-20-06.17 | 40/2011. (XII. 30.) KIM rendelet |
 | 2013-01-01 | 1986-6-20-06.18 | 40/2011. (XII. 30.) KIM rendelet |
+| 2014-03-15 | 1986-6-20-06.19 | 21/2014. (III. 13.) KIM rendelet |
