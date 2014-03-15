@@ -18,7 +18,7 @@ c) szakmai felelősségbiztosítással rendelkezik.
 
 (6) Nem lehet vagyonellenőr az a személy, aki
 
-a) a jelzálog-hitelintézet alapítója, részvényese, vezető tisztségviselője, felügyelő bizottsági tagja, könyvvizsgálója és ezek közeli hozzátartozója [Ptk. 685. § b) pont], a jelzálog-hitelintézet alkalmazottja;
+a) a jelzálog-hitelintézet alapítója, részvényese, vezető tisztségviselője, felügyelő-bizottsági tagja, könyvvizsgálója és ezek Polgári Törvénykönyv szerinti közeli hozzátartozója, a jelzálog-hitelintézet alkalmazottja;
 
 b) az a) pontban felsorolt minőségét két évnél rövidebb ideje szüntette meg;
 

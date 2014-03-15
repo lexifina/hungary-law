@@ -1,8 +1,8 @@
-## Jelzáloglevélből eredő kötelezettség átruházása
+## Jelzáloglevélből eredő kötelezettség átszállása
 
-15. § (1) A jelzálog-hitelintézet, átalakítása vagy felszámolása esetén, a Magyar Nemzeti Bank engedélyével a jelzáloglevélből és a fedezetbe vont származtatott (derivatív) ügyletből eredő kötelezettségét egészben vagy részben más jelzálog-hitelintézetre átruházhatja.
+15. § (1) A jelzálog-hitelintézet az átalakítása vagy felszámolása esetén valamennyi, a kibocsátott jelzáloglevelekkel és a megkötött derivatív ügyletekkel kapcsolatos szerződésből származó jogát és kötelezettségét a Magyar Nemzeti Bank engedélyével egészben vagy részben más jelzálog-hitelintézetre átruházhatja.
 
-(2) Jelzáloglevélből és származtatott (derivatív) ügyletből eredő kötelezettség átruházása során a Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) tartozásátvállalásra vonatkozó szabályait kell alkalmazni azzal az eltéréssel, hogy az átruházáshoz nem szükséges a jelzáloglevél-tulajdonos és a fedezetbe vont származtatott (derivatív) ügylet szerződött partnerének hozzájárulása. Az átruházással – az engedély kézhezvételének időpontjától – a jelzáloglevélből és a fedezetbe vont származtatott (derivatív) ügyletből eredő kötelezettség az átvevő jelzálog-hitelintézetet terheli.
+(2) Jelzáloglevélből és származtatott (derivatív) ügyletből eredő kötelezettség átvállalása során a Polgári Törvénykönyv szerződésátruházásra vonatkozó szabályait azzal az eltéréssel kell alkalmazni, hogy az átruházás esetén a szerződés biztosítékai nem szűnnek meg, továbbá az átruházáshoz nem szükséges a jelzáloglevél-tulajdonos és a fedezetbe vont származtatott (derivatív) ügylet szerződött partnerének hozzájárulása. Az átruházással – az engedély kézhezvételének időpontjától – a jelzáloglevélből és a fedezetbe vont származtatott (derivatív) ügyletből eredő kötelezettség az átruházó jelzálog-hitelintézetet terheli.
 
 (3) Az átruházás engedélyezése iránti kérelem legalább az alábbiakat tartalmazza:
 
