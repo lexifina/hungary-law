@@ -26,7 +26,7 @@
 
 | 12. | Szegedi Rendészeti Szakközépiskola | SZRSZKI | 6728 Szeged, Bajai út 14. |
 
-2. melléklet az 58/2012. (XI. 27.) BM rendelethez
+2. melléklet az 58/2012. (XI. 27.) BM rendelethez[^3]
 
 Vizsgaszervezési kijelölések
 
@@ -54,7 +54,7 @@ Vizsgaszervezési kijelölések
 
 | 11. | 3. | 33 861 01 | Elektronikus vagyonvédelmi rendszerszerelő |  | X |  |  |  | X | X | X |  |  | X |
 
-| 12. | 4. | 62 582 01 | Építési műszaki ellenőr |  |  |  |  |  |  |  |  |  |  | X |
+| 12. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | 13. | 5. | 62 521 01 | Felvonóellenőr |  |  |  |  |  |  |  |  |  | X | X |
 
@@ -66,7 +66,7 @@ Vizsgaszervezési kijelölések
 
 | 17. |  | 53 861 07 | Szakképesítés-ráépülés: Katasztrófavédelmi referens |  |  |  |  |  |  | X | X |  |  | X |
 
-| 18. | 8. | 32 853 02 | Kéményseprő |  |  |  |  |  |  |  |  |  |  | X |
+| 18. | 8. | 32 853 02 | Kéményseprő |  |  |  |  |  |  |  | X |  |  | X |
 
 | 19. | 9. | 52 861 05 | Közterület-felügyelő | X | X | X | X | X | X | X | X |  |  | X |
 
@@ -145,3 +145,5 @@ Vizsgaszervezési kijelölések
 | 56. | 20. | 52 861 10 | Tűzvédelmi előadó |  |  |  |  |  |  |  | X |  |  | X |
 
 | 57. |  | 53 861 09 | Szakképesítés-ráépülés: Tűzvédelmi főelőadó |  |  |  |  |  |  |  | X |  |  | X |
+
+[^3]: A 2. melléklet a 23/2014. (III. 14.) BM rendelet 1. §-a szerint módosított szöveg.
