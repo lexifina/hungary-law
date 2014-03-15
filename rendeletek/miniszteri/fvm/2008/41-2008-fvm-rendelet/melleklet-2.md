@@ -28,7 +28,7 @@
 
 ## 4. Keltezés és a kérelmező (cégszerű) aláírása.
 
-2. számú melléklet a 41/2008. (IV. 3.) FVM rendelethez[^25]
+2. számú melléklet a 41/2008. (IV. 3.) FVM rendelethez[^28]
 
 ## Támogatási kérelem adattartalma
 
@@ -78,10 +78,10 @@ c) termelőknél vagy állattartóknál kint lévő előleg összesen
 
 6. Melléklet: Összesítő kimutatás a termeltetésben részt vevő állattartókról.
 
-7.[^26] A Nemzeti Élelmiszerlánc-biztonsági Hivatal nyilatkozata, mely szerint a támogatási kérelemben foglaltak szakmai felülvizsgálata elvégzésre került és annak tartalma megfelelő.
+7.[^29] A Nemzeti Élelmiszerlánc-biztonsági Hivatal nyilatkozata, mely szerint a támogatási kérelemben foglaltak szakmai felülvizsgálata elvégzésre került és annak tartalma megfelelő.
 
-8.[^27] Keltezés, és a Nemzeti Élelmiszerlánc-biztonsági Hivatal Elnökének aláírása és bélyegzője.
+8.[^30] Keltezés, és a Nemzeti Élelmiszerlánc-biztonsági Hivatal Elnökének aláírása és bélyegzője.
 
-[^25]: A 2. számú melléklet a 60/2011. (VI. 30.) VM rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^26]: A 2. melléklet 7. pontja a 42/2012. (V. 3.) VM rendelet 2. § (4) bekezdése szerint módosított szöveg.
-[^27]: A 2. melléklet 8. pontja a 42/2012. (V. 3.) VM rendelet 2. § (4) bekezdése szerint módosított szöveg.
+[^28]: A 2. számú melléklet a 60/2011. (VI. 30.) VM rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^29]: A 2. melléklet 7. pontja a 42/2012. (V. 3.) VM rendelet 2. § (4) bekezdése szerint módosított szöveg.
+[^30]: A 2. melléklet 8. pontja a 42/2012. (V. 3.) VM rendelet 2. § (4) bekezdése szerint módosított szöveg.

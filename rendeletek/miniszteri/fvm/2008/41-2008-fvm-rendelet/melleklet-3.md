@@ -1,4 +1,4 @@
-3. számú melléklet a 41/2008. (IV. 3.) FVM rendelethez[^28]
+3. számú melléklet a 41/2008. (IV. 3.) FVM rendelethez[^31]
 
 ## Összesítő kimutatás adattartalma
 
@@ -16,4 +16,4 @@ c) Összesítés, melynek meg kell egyeznie e rendelet 2. számú mellékleténe
 
 3. Keltezés és (cégszerű) aláírás
 
-[^28]: A 3. számú melléklet a 60/2011. (VI. 30.) VM rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^31]: A 3. számú melléklet a 60/2011. (VI. 30.) VM rendelet 6. § (3) bekezdésével megállapított szöveg.
