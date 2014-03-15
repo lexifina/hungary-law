@@ -8,6 +8,6 @@ c) a tárgyalás (meghallgatás vagy kihallgatás) helyét, továbbá kezdő és
 
 d) a bírák, a jegyzőkönyvvezető és a tolmács nevét;
 
-e) a jelenlevő feleknek és képviselőiknek nevét és perbeli állását;
+e) a jelenlevő feleknek és képviselőiknek nevét és perbeli állását, a jelen levő más perbeli személyek nevét;
 
 f) zárt tárgyalás esetén az erre való utalást.

@@ -2,6 +2,6 @@
 
 (2) A közjegyzőnek a felet költségkedvezményben részesítő jogerős végzése a peres eljárásra is hatályos, azonban a perben eljáró bíróság a végzést hatályon kívül helyezheti vagy megváltoztathatja. Ha a közjegyző a felet költségkedvezményben részesítette, a fél részben vagy egészben mentes a 315. § (1) bekezdésében foglalt esetben a peres eljárás illetékének viselése alól.
 
-(3) Ha a felet a közjegyző a fizetési meghagyásos eljárás során költségkedvezményben részesítette, a díj megfizetéséről és viseléséről a 315. § (1) bekezdésében foglalt esetben a bíróság kötelezi a felet a költségkedvezmény folytán meg nem fizetett díjnak a MOKK részére való megfizetésére. E határozatát a bíróság a MOKK-nak is kézbesíti.
+(3) Ha a felet a közjegyző a fizetési meghagyásos eljárás során költségkedvezményben részesítette, a díj megfizetéséről és viseléséről a 315. § (1) bekezdésében foglalt esetben a bíróság határoz és kötelezi a felet a költségkedvezmény folytán meg nem fizetett díjnak a Magyar Országos Közjegyzői Kamara (a továbbiakban: MOKK) részére való megfizetésére. E határozatát a bíróság a MOKK-nak is kézbesíti. Ha a fél a per során költségkedvezményben részesül, ez a díj megfizetése alól őt nem mentesíti.
 
 (4) A díj tekintetében igénybe vehető kedvezményre a fizetési meghagyásos eljárásról szóló külön törvényt, valamint a felhatalmazása alapján kiadott külön jogszabályt, a peres eljárás során igénybe vehető további kedvezményekre e törvényt, valamint az e törvény felhatalmazása alapján kiadott külön jogszabályt kell alkalmazni.

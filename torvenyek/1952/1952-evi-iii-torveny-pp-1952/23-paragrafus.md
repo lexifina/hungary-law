@@ -2,7 +2,7 @@
 
 a) azok a vagyonjogi perek, amelyek tárgyának értéke a harmincmillió forintot meghaladja, kivéve a házassági vagyonjogi pert, ha azt a házassági perrel együtt vagy annak folyamán indítják meg;
 
-b) azok a perek, amelyeket a közigazgatási jogkörben eljáró személyek által hivatalos eljárásukban okozott károk megtérítése iránt indítanak;
+b) azok a perek, amelyeket a közhatalom gyakorlásával okozott károk megtérítése iránt indítanak;
 
 c) a szerzői és a szomszédos jogi perek – ideértve a közös jogkezelés körébe tartozó jogok és díjigények érvényesítése iránt indított pereket is –, valamint az iparjogvédelmi perek;
 
@@ -28,7 +28,11 @@ fa) az ilyen szervezetek ellen a törvényességi felügyeletet, törvényesség
 
 fb) az ilyen szervezetek és tagjaik (volt tagjaik) közötti, illetve a tagok (volt tagok) egymás közti a tagsági jogviszonyon alapuló perek;
 
-g) a személyhez fűződő jogok megsértése miatt keletkezett polgári jogi igények érvényesítése iránt indított perek, ideértve az e jogok megsértése miatt indított kártérítési pereket is, ha az előbbiekkel együtt vagy azok folyamán indítják meg;
+g) a személyiségi jogok megsértésével kapcsolatos perek közül:
+
+ga) azok a perek, amelyekben felróhatóságtól független szankciók alkalmazását kérik, ideértve azokat a pereket is, amelyekben a felróhatóságtól független szankció mellett – e jogok megsértése miatt – sérelemdíj, illetve kártérítés iránti igényt is érvényesítenek,
+
+gb) a közösséghez tartozással összefüggő – a ga) pont alá nem tartozó – személyiségi jog érvényesítése iránt indított perek;
 
 h) az értékpapírból származó jogviszonnyal kapcsolatos perek;
 

@@ -12,7 +12,7 @@ d) nevelésbe veszi a gyermeket és egyidejűleg gyámot (hivatásos gyámot) re
 
 e)
 
-f) dönt átmeneti vagy tartós nevelésbe vett gyermek kapcsolattartásáról,
+f) dönt a nevelésbe vett gyermek kapcsolattartásáról,
 
 g) dönt a gyermek nevelésbe vételének megszüntetéséről,
 

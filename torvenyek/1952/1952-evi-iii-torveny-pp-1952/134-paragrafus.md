@@ -8,9 +8,17 @@
 
 (4) Az elnök a hallgatóság köréből eltávolíthatja azokat, akik állapotuk vagy megjelenésük folytán a tárgyalás méltóságát sértik.
 
-(5) A feleket és képviselőiket, valamint a tanúkat és a szakértőket, úgyszintén a hallgatóság tagjait, ha a tárgyalás rendjét megzavarják, az elnök rendreutasítja. Ismételt vagy súlyosabb rendzavarás esetében a bíróság pénzbírságot (120. §) szab ki. Ha a félnek vagy képviselőjének, illetve a tanúnak vagy szakértőnek az állapota vagy megjelenése a tárgyalás méltóságát sérti, őt a bíróság pénzbírsággal sújthatja.
+(5) A feleket és képviselőiket, más perbeli személyeket, valamint a tanúkat és a szakértőket, úgyszintén a hallgatóság tagjait, ha a tárgyalás rendjét megzavarják, az elnök rendreutasítja. Ismételt vagy súlyosabb rendzavarás esetében a bíróság pénzbírságot (120. §) szab ki. Ha a félnek vagy képviselőjének, más perbeli személynek, illetve a tanúnak vagy szakértőnek az állapota vagy megjelenése a tárgyalás méltóságát sérti, őt a bíróság pénzbírsággal sújthatja.
 
-(6) Ismételt vagy súlyosabb rendzavarás esetében – akár a pénzbírság kiszabására vonatkozó rendelkezéssel egyidejűleg, akár anélkül vagy azt követően – a bíróság a feleket és képviselőiket, a tanúkat és a szakértőket, valamint a hallgatókat a teremből kiutasíthatja, illetőleg kivezettetheti. Kiutasításnak, illetve kivezettetésnek van helye akkor is, ha a félnek vagy képviselőjének, illetve a tanúnak vagy szakértőnek az állapota vagy a megjelenése a pénzbírság kiszabását követő folytatólagos tárgyalások bármelyikén sérti a tárgyalás méltóságát.
+(6) Ismételt vagy súlyosabb rendzavarás esetében – akár a pénzbírság kiszabására vonatkozó rendelkezéssel egyidejűleg, akár anélkül vagy azt követően – a bíróság a feleket és képviselőiket, más perbeli személyeket, a tanúkat és a szakértőket, valamint a hallgatókat a teremből kiutasíthatja, illetőleg kivezettetheti. Kiutasításnak, illetve kivezettetésnek van helye akkor is, ha a félnek vagy képviselőjének, más perbeli személynek, illetve a tanúnak vagy szakértőnek az állapota vagy a megjelenése a pénzbírság kiszabását követő folytatólagos tárgyalások bármelyikén sérti a tárgyalás méltóságát.
+
+(6a) Az (5) és (6) bekezdésben foglalt rendelkezéseket kiskorú fél, kiskorú érdekelt vagy kiskorú tanú vonatkozásában azzal az eltéréssel kell alkalmazni, hogy
+
+a) a rendreutasítás módjának igazodnia kell a kiskorú korához és érettségéhez,
+
+b) a tizennegyedik életévét be nem töltött kiskorúval szemben pénzbírság kiszabásának nincs helye,
+
+c) a tizennegyedik életévét betöltött kiskorúval szemben – ismételt vagy súlyosabb rendzavarás esetében – a pénzbírság kiszabásának szükségességéről az elnök mérlegeléssel dönt.
 
 (7) A bíróság a felet – kiutasítása esetében – felhívja, hogy képviseletéről a kitűzött határidő alatt gondoskodjék; ha pedig a fél képviselőjét utasította ki, felhívja a felet, hogy a tárgyaláson személyesen jelenjék meg, vagy új képviselőről gondoskodjék. A felhívás eredménytelensége esetében a féllel szemben a mulasztás következményeit kell alkalmazni. Tanú vagy szakértő kiutasítása esetében a 185. § rendelkezései megfelelően irányadók.
 

@@ -1,8 +1,8 @@
 ## Határozatok
 
-290. § (1) A házasság érvénytelenítése vagy felbontása esetében a bíróságnak a közös kiskorú gyermekek elhelyezése és tartása felől – szükség esetében – erre irányuló kereseti kérelem hiányában is határoznia kell.
+290. § (1) A házasság érvénytelenítése vagy felbontása esetében a bíróságnak a közös kiskorú gyermek tartása, a szülői felügyelet gyakorlásának rendezése vagy a gyermek harmadik személynél történő elhelyezése felől – szükség esetén – erre irányuló kereseti kérelem hiányában is határoznia kell.
 
-(2) A bíróság a házasság felbontása felől – ha a felek a házasság felbontását a Csjt. 18. §-a (2) bekezdésének a) pontja alapján kérték egyező akaratnyilvánítással – addig nem dönthet, míg az ott meghatározott valamennyi kérdésben egyezség nem jött létre, és azt a bíróság jogerős végzésével jóvá nem hagyta. Ha a házassági perben a névviseléstől való eltiltás iránti kérelmet is előterjesztettek, arról a bíróság a házasság felbontásával (érvénytelenné nyilvánításával) egyidejűleg dönt. Részítélet hozatalának egyik kérdésben sincs helye.
+(2) A bíróság a házasság felbontása felől – ha a felek a házasság felbontását a Ptk. 4:21. § (2) és (3) bekezdése alapján kérték egyező akaratnyilvánítással – addig nem dönthet, míg az ott meghatározott valamennyi kérdésben egyezség nem jött létre, és azt a bíróság jogerős végzésével jóvá nem hagyta. Ha a házassági perben a névviseléstől való eltiltás iránti kérelmet is előterjesztettek, arról a bíróság a házasság felbontásával (érvénytelenné nyilvánításával) egyidejűleg dönt. Részítélet hozatalának egyik kérdésben sincs helye.
 
 (3) A házassági bontóperben a bíróságnak az egyezség jóváhagyása során, illetve ítéletében a felek közös kiskorú gyermekének érdekére figyelemmel kell lennie.
 

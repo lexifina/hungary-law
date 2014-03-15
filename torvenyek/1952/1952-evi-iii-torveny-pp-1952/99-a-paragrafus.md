@@ -10,7 +10,7 @@ a) a kézbesítés a hivatalos iratok kézbesítésére vonatkozó jogszabályok
 
 b) az iratot más, az a) pontban nem említett okból nem volt módja átvenni (pl. azért, mert a kézbesítésről önhibáján kívül nem szerzett tudomást).
 
-(4) A (3) bekezdés b) pontjában foglalt okból a kézbesítési vélelem megdöntése iránti kérelmet csak természetes személy vagy jogi személyiséggel nem rendelkező gazdasági társaság (a fél vagy az eljárásban részt vevő egyéb érdekelt) terjeszthet elő.
+(4) A (3) bekezdés b) pontjában foglalt okból a kézbesítési vélelem megdöntése iránti kérelmet csak természetes személy vagy közkereseti társaság, betéti társaság, egyéni cég (a fél vagy az eljárásban részt vevő egyéb érdekelt) terjeszthet elő.
 
 (5) A kérelemben elő kell adni azokat a tényeket, illetve körülményeket, amelyek a kézbesítés szabálytalanságát igazolják, vagy a (3) bekezdés b) pontjában meghatározott esetben a kérelmező részéről az önhiba hiányát valószínűsítik. Ha a kérelmet elkésetten terjesztették elő, azt érdemi vizsgálat nélkül el kell utasítani. A kérelem tárgyában az a bíróság határoz, amelynek eljárása alatt a kézbesítés történt. A kérelem elbírálása előtt a bíróság a kérelmezőt, illetve a feleket meghallgathatja.
 

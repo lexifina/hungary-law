@@ -16,7 +16,7 @@ c) a jogi képviselővel eljáró fél elmulasztotta az eljárási illeték megf
 
 a) iratok beszerzése más hatóságtól vagy szervezettől;
 
-b) a gyermek tartása, elhelyezése, illetőleg a szüléssel kapcsolatos követelések iránti, továbbá az apaság és a származás megállapítására irányuló egyéb perekben – az ismeretlen helyen lévő alperes, anya, illetve gyermek tartózkodási helyének megállapítása érdekében – a bíróság elrendelheti az alperes, az anya, illetve a gyermek felkutatását [96. § (4)–(6) bek.];
+b) a gyermek tartása, a szülői felügyelet gyakorlásának rendezése, a gyermek harmadik személynél történő elhelyezése, illetőleg a szüléssel kapcsolatos követelések iránti, továbbá az apaság és a származás megállapítására irányuló egyéb perekben – az ismeretlen helyen lévő alperes, anya, illetve gyermek tartózkodási helyének megállapítása érdekében – a bíróság elrendelheti az alperes, az anya, illetve a gyermek felkutatását [96. § (4)–(6) bek.];
 
 c) előzetes bizonyítást folytathat le (207–211. §);
 

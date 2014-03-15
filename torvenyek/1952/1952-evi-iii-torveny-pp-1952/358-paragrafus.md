@@ -6,7 +6,7 @@
 
 (3) A (2) bekezdésben meghatározott értékhatár alatt is helye van felülvizsgálatnak, ha
 
-a) a jogviszony keletkezésének, módosulásának, megszüntetésének jogszerűsége vitás,
+a) a jogviszony keletkezésének, módosulásának, megszüntetésének jogszerűsége, valamint a kártérítés, illetve a sérelemdíj iránti igény vitás,
 
 b) a munkaviszonyból származó kötelezettségeknek a munkavállaló által történt vétkes megszegése miatt alkalmazott jogkövetkezmény vitás vagy
 

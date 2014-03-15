@@ -24,7 +24,7 @@ k) a vízumkiadás tárgyában hozott bírósági határozat ellen;
 
 l) ha azt törvény kizárja.
 
-(2) Nincs helye felülvizsgálatnak olyan vagyonjogi ügyekben, amelyben a felülvizsgálati kérelemben vitatott érték, illetve annak a 24. §, valamint 25. § (3) és (4) bekezdése alapján, továbbá a 25. § (3) bekezdésének az egyesített perekre történő megfelelő alkalmazásával megállapított értéke a hárommillió forintot nem haladja meg. Ez az értékhatártól függő kizárás nem vonatkozik a nem vagyoni kártérítés iránt indított perekre, a 23. § (1) bekezdés b) pontjában, valamint a 24. § (2) bekezdés a) pontjában meghatározott ügyekre, valamint azokra az ügyekre, amelyek ingatlan tulajdonára vagy ingatlant terhelő jogra vonatkoznak, vagy ingatlanra vonatkozó jogviszonyból erednek, továbbá valamennyi olyan ügyre, amely megállapításra irányul.
+(2) Nincs helye felülvizsgálatnak olyan vagyonjogi ügyekben, amelyben a felülvizsgálati kérelemben vitatott érték, illetve annak a 24. §, valamint 25. § (3) és (4) bekezdése alapján, továbbá a 25. § (3) bekezdésének az egyesített perekre történő megfelelő alkalmazásával megállapított értéke a hárommillió forintot nem haladja meg. Ez az értékhatártól függő kizárás nem vonatkozik a sérelemdíj iránt indított perekre, a 23. § (1) bekezdés b) pontjában, valamint a 24. § (2) bekezdés a) pontjában meghatározott ügyekre, valamint azokra az ügyekre, amelyek ingatlan tulajdonára vagy ingatlant terhelő jogra vonatkoznak, vagy ingatlanra vonatkozó jogviszonyból erednek, továbbá valamennyi olyan ügyre, amely megállapításra irányul.
 
 (3) Nincs helye a felülvizsgálatnak, ha az elsőfokú bíróság ítéletét a másodfokú bíróság helybenhagyta
 
@@ -32,7 +32,7 @@ a) a szomszédjogok megsértéséből eredő, valamint a birtokvédelmi, tovább
 
 b) a XXV. fejezetben meghatározott végrehajtási perekben, kivéve a végrehajtás megszüntetése, illetve korlátozása iránti ügyeket, ha a végrehajtás végrehajtási záradékkal ellátott okirat alapján indult;
 
-c) a gyermek elhelyezése, elhelyezésének a megváltoztatása, továbbá a gyermekkel való kapcsolattartás szabályozása iránti ügyekben.
+c) a szülői felügyelet gyakorlásának rendezése, megváltoztatása, a gyermek harmadik személynél történő elhelyezése, elhelyezésének a megváltoztatása, továbbá a gyermekkel való kapcsolattartás szabályozása iránti ügyekben.
 
 (4) Nincs helye felülvizsgálatnak, ha az elsőfokú bíróság ítéletét a másodfokú bíróság azonos jogszabályi rendelkezésre utalással hagyta helyben
 

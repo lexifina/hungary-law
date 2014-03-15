@@ -6,7 +6,7 @@
 
 (3) Idézésnek sürgős esetben rövid úton – távbeszélőn, tárgyaláson szóban, illetőleg elektronikus levél vagy külön kézbesítő útján – is helye van. Az idézésnek ezt a módját az iratokban fel kell tüntetni.
 
-(4) A gyermek tartása, elhelyezése, illetőleg a szüléssel kapcsolatos követelések iránti, továbbá az apaság és a származás megállapítására irányuló egyéb perekben – az ismeretlen helyen lévő alperes, anya, illetve gyermek tartózkodási helyének megállapítása érdekében – a bíróság elrendelheti az alperes, az anya, illetve a gyermek felkutatását.
+(4) A gyermek tartása, a szülői felügyelet gyakorlásának rendezése, a gyermek harmadik személynél történő elhelyezése, illetőleg a szüléssel kapcsolatos követelések iránti, továbbá az apaság és a származás megállapítására irányuló egyéb perekben – az ismeretlen helyen lévő alperes, anya, illetve gyermek tartózkodási helyének megállapítása érdekében – a bíróság elrendelheti az alperes, az anya, illetve a gyermek felkutatását.
 
 (5) Az alperes, az anya, illetve a gyermek felkutatásának elrendeléséről hozott végzést a bíróság az illetékes rendőrkapitánysághoz küldi meg.
 

@@ -18,7 +18,7 @@ f) a médiatartalom-szolgáltató, valamint a vele munkaviszonyban vagy munkavé
 
 a) olyan jogügyletre vonatkozik, amelynél a tanú mint valamelyik fél képviselője vagy mint ügyleti tanú maga is közreműködött, vagy amelynél valamelyik fél a tanúnak képviselője volt, vagy ha a tanú a kérdéses jogviszonyban a felek valamelyikének jogelődje;
 
-b) a tanú családtagjának származására, házasságára, életbenlétére, halálára, kiskorú családtagjának elhelyezésére, kiadására vagy családi viszonyon alapuló vagyonjogi ügyre vonatkozik.
+b) a tanú családtagjának származására, házasságára, életbenlétére, halálára, kiskorú családtagját érintő szülői felügyelet gyakorlásának rendezésére, harmadik személynél történő elhelyezésére, kiadására vagy családi viszonyon alapuló vagyonjogi ügyre vonatkozik.
 
 (4) Az (1) bekezdés e) pontja alapján a tanúságtétel nem tagadható meg, ha:
 

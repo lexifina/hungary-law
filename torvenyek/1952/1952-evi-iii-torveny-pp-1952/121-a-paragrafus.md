@@ -1,4 +1,4 @@
-121/A. § (1) A jogi személy vállalkozások egymás közötti jogvitáiban a keresetlevél benyújtása előtt a feleknek meg kell kísérelniük a jogvita peren kívül elintézését. Ez mellőzhető, ha a felek a közöttük felmerült véleményeltérésről közös jegyzőkönyvet készítenek.
+121/A. § (1) A jogi személy gazdálkodó szervezetek egymás közötti jogvitáiban a keresetlevél benyújtása előtt a feleknek meg kell kísérelniük a jogvita peren kívül elintézését. Ez mellőzhető, ha a felek a közöttük felmerült véleményeltérésről közös jegyzőkönyvet készítenek.
 
 (2) Ha a felek jogvitájukat peren kívül nem rendezik, és a felperes keresetet indít, a keresetlevélhez csatolnia kell:
 
