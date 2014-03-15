@@ -160,7 +160,7 @@ a szerzés ideje, jogcíme: ....................................................
 
 a szerzés ideje, jogcíme: ..........................................................................................................
 
-4. Egyéb, darabonként vagy készletenként (gyűjteményenként) a mindenkori köztisztviselői illetményalap hathavi összegét meghaladó értékű ingóság:
+4. Egyéb, darabonként vagy készletenként (gyűjteményenként) a mindenkori a közszolgálati tisztviselőkről szóló törvény szerinti illetményalap hathavi összegét meghaladó értékű ingóság:
 
 a) megnevezés:
 
@@ -206,9 +206,9 @@ névérték, biztosítási összeg:
 
 6. Takarékbetétben elhelyezett megtakarítás: ......................................................................... Ft
 
-7. A mindenkori köztisztviselői illetményalap hathavi összegét meghaladó készpénz: ........................... Ft
+7. A mindenkori közszolgálati tisztviselőkről szóló törvény illetményalap hathavi összegét meghaladó készpénz: ........................... Ft
 
-8. Az összességében a mindenkori köztisztviselői illetményalap hathavi összegét meghaladó pénzintézeti számlakövetelés vagy más, szerződés alapján fennálló pénzkövetelés:
+8. Az összességében a mindenkori közszolgálati tisztviselőkről szóló törvény illetményalap hathavi összegét meghaladó pénzintézeti számlakövetelés vagy más, szerződés alapján fennálló pénzkövetelés:
 
 a) pénzintézeti számlakövetelés:
 
@@ -218,7 +218,7 @@ devizában (forintértéken):
 
 b) más szerződés alapján fennálló pénzkövetelés összege: ................................................. Ft
 
-9. Más, jelentősebb értékű vagyontárgyak, ha azok együttes értéke a mindenkori köztisztviselői illetményalap hathavi összegét meghaladja:
+9. Más, jelentősebb értékű vagyontárgyak, ha azok együttes értéke a mindenkori közszolgálati tisztviselőkről szóló törvény illetményalap hathavi összegét meghaladja:
 
 megnevezés:
 
