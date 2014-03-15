@@ -66,7 +66,7 @@ f) a készletállományára és
 
 g) a beruházásaira
 
-vonatkozó – a Polgári Törvénykönyvről szóló 1959. évi IV. törvény 81. §-a alapján üzleti titoknak nem minősülő – adatokat az egészségbiztosító számára megküldeni. Az egészségbiztosító köteles a beérkezett adatokat a beérkezést követő 15 napon belül továbbítani az egészségbiztosításért felelős miniszter részére.
+vonatkozó – a Ptk. szerint üzleti titoknak nem minősülő – adatokat az egészségbiztosító számára megküldeni. Az egészségbiztosító köteles a beérkezett adatokat a beérkezést követő 15 napon belül továbbítani az egészségbiztosításért felelős miniszter részére.
 
 (9a) A fekvőbeteg-szakellátást és a heti 200 szakorvosi óránál magasabb óraszámmal rendelkező járóbeteg-szakellátást nyújtó, érvényes finanszírozási szerződéssel rendelkező egészségügyi szolgáltató a kötelezettségei állományára vonatkozó, üzleti titoknak nem minősülő adatokat – a fizetési határidő lejártától eltelt idő szerint csoportosított bontásban – havonta, a tárgyhónapot követő hónap ötödik napjáig megküldi az egészségbiztosító számára, az egészségbiztosító által meghatározott formai követelmények szerint. Az egészségbiztosító köteles a beérkezett adatokat a beérkezést követő 5 napon belül továbbítani az egészségbiztosításért felelős miniszter részére.
 
