@@ -10,13 +10,13 @@ d) azokat a 2. § (3) bekezdésének a)–h) pontja szerinti juttatásokat, amel
 
 (2) A fogadó intézménynél, illetve annak fenntartójánál végzett közérdekű önkéntes tevékenység esetén jogszabály meghatározhatja az önkéntes szerződés további kötelező tartalmi elemeit is.
 
-(3) Korlátozottan cselekvőképes személy önkéntes szerződést csak a törvényes képviselő beleegyezésével köthet.
+(3) A korlátozottan cselekvőképes kiskorú személy és a cselekvőképességében a közérdekű önkéntes tevékenység tekintetében részlegesen korlátozott nagykorú személy önkéntes szerződést csak a törvényes képviselő beleegyezésével köthet.
 
 (4) Kiskorúsága miatt cselekvőképtelen önkéntes esetén az önkéntes jogviszonnyal kapcsolatos jognyilatkozatokat a törvényes képviselő teszi meg, de az önkéntes szerződés megkötéséhez és módosításához az önkéntes beleegyezése szükséges.
 
 (5) Az önkéntes szerződést írásba kell foglalni, ha
 
-a) az önkéntes szerződést határozatlan időre vagy legalább tíz napra – tizennyolcadik életévét be nem töltött önkéntes, illetve a korlátozottan cselekvőképes nagykorú önkéntes esetén legalább két napra – kötik,
+a) az önkéntes szerződést határozatlan időre vagy legalább tíz napra – tizennyolcadik életévét be nem töltött önkéntes, illetve a cselekvőképességében a közérdekű önkéntes tevékenység tekintetében részlegesen korlátozott nagykorú önkéntes esetén legalább két napra – kötik,
 
 b) az önkéntes a 2. § (3) bekezdésének b)–h) pontja szerint juttatásban részesül,
 

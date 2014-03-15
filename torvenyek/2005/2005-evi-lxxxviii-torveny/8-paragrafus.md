@@ -6,7 +6,7 @@ b) a szükséges pihenőidőt,
 
 c) a közérdekű önkéntes tevékenység ellátásához szükséges tájékoztatást és irányítást, az ismeretek megszerzését, valamint
 
-d) tizennyolcadik életévét be nem töltött önkéntes, illetve a korlátozottan cselekvőképes nagykorú önkéntes esetén a közérdekű önkéntes tevékenység folyamatos, szakszerű felügyeletét.
+d) tizennyolcadik életévét be nem töltött önkéntes, illetve a cselekvőképességében a közérdekű önkéntes tevékenység tekintetében részlegesen korlátozott nagykorú önkéntes esetén a közérdekű önkéntes tevékenység folyamatos, szakszerű felügyeletét.
 
 (2) Ha az önkéntes szerződés másként nem rendelkezik, a fogadó szervezet gondoskodik
 

@@ -36,4 +36,4 @@ g) a nem jogképes fogadó intézmény fenntartója a fogadó intézmény jogsza
 
 (3) A fogadó szervezet feladatainak ellátásához jogszabályban, illetve hatósági határozatban előírt létszámfeltételek önkéntes foglalkoztatásával nem teljesíthetőek.
 
-(4) Az a fogadó szervezet, amely jogszabály alapján köteles az általa nyújtott szolgáltatás során okozott kár megtérítésére felelősségbiztosítási szerződést kötni, önkéntest akkor foglalkoztathat, ha a felelősségbiztosítási szerződés kiterjed az önkéntes által okozott kár megtérítésére is.
+(4) Az a fogadó szervezet, amely jogszabály alapján köteles az általa nyújtott szolgáltatás során okozott kár megtérítésére, illetve a személyiségi jogi jogsértésért járó sérelemdíj megfizetésére felelősségbiztosítási szerződést kötni, önkéntest akkor foglalkoztathat, ha a felelősségbiztosítási szerződés kiterjed az önkéntes által okozott kár megtérítésére, illetve az önkéntes által elkövetett személyiségi jogi jogsértésért járó sérelemdíj megfizetésére is.

@@ -16,6 +16,6 @@ g) az önkéntesek foglalkoztatásának – a 13. § (3) bekezdése szerinti –
 
 (2) Az önkéntes szerződést – ha jogszabály vagy az önkéntes szerződés másként nem rendelkezik – bármelyik fél azonnali hatállyal felmondhatja.
 
-(3) A korlátozottan cselekvőképes önkéntes az önkéntes szerződést a törvényes képviselője hozzájárulása nélkül is felmondhatja.
+(3) A korlátozottan cselekvőképes kiskorú önkéntes és a cselekvőképességében a közérdekű önkéntes tevékenység tekintetében részlegesen korlátozott nagykorú önkéntes az önkéntes szerződést a törvényes képviselője hozzájárulása nélkül is felmondhatja.
 
-(4) A tizenhatodik életévét be nem töltött önkéntes és a korlátozottan cselekvőképes nagykorú önkéntes, illetve törvényes képviselője azonnali hatályú felmondáshoz való joga az önkéntes szerződésben nem korlátozható.
+(4) A tizenhatodik életévét be nem töltött önkéntes és a cselekvőképességében a közérdekű önkéntes tevékenység tekintetében részlegesen korlátozott nagykorú önkéntes, illetve törvényes képviselője azonnali hatályú felmondáshoz való joga az önkéntes szerződésben nem korlátozható.

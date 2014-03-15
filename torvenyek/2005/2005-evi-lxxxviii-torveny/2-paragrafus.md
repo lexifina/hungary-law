@@ -22,7 +22,7 @@ e) az önkéntes tulajdonában álló, a közérdekű önkéntes tevékenység e
 
 f) az önkéntes tulajdonában vagy használatában álló eszköz – közérdekű önkéntes tevékenység ellátása érdekében történő – működtetéséhez szükséges feltételeknek az önkéntes részére történő biztosítása, illetve ezek bizonylattal igazolt költségének megtérítése,
 
-g) az önkéntesnek a közérdekű önkéntes tevékenység során bekövetkező halála, testi sérülése, egészségkárosodása esetére kötött élet-, egészség- és balesetbiztosítás, illetve annak díja, valamint az önkéntes által okozott kár megtérítésére kötött felelősségbiztosítás, illetve annak díja,
+g) az önkéntesnek a közérdekű önkéntes tevékenység során bekövetkező halála, testi sérülése, egészségkárosodása esetére kötött élet-, egészség- és balesetbiztosítás, illetve annak díja, valamint az önkéntes által okozott kár megtérítésére, illetve az önkéntes által elkövetett személyiségi jogi jogsértésért járó sérelemdíj megfizetésére kötött felelősségbiztosítás, illetve annak díja,
 
 h) az önkéntesnek külföldön végzett közérdekű önkéntes tevékenység esetén, illetve a Magyarországon lakóhellyel nem rendelkező nem magyar állampolgár által végzett közérdekű tevékenység esetén adott napidíj, ha annak egy hónapra számított összege nem haladja meg a kötelező legkisebb munkabér mindenkori havi összegének húsz százalékát,
 

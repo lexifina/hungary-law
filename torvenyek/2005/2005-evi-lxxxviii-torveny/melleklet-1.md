@@ -16,7 +16,7 @@ A fogadó szervezet és az adatmódosítás bejelentésére szolgáló adatlapok
 
 5.2. tizennyolcadik életévét be nem töltött önkéntest foglalkoztatni,
 
-5.3. korlátozottan cselekvőképes nagykorú önkéntest foglalkoztatni,
+5.3. a cselekvőképességében a közérdekű önkéntes tevékenység tekintetében részlegesen korlátozott nagykorú önkéntest foglalkoztatni,
 
 5.4. külföldön végzendő közérdekű önkéntes tevékenységre önkéntest foglalkoztatni,
 

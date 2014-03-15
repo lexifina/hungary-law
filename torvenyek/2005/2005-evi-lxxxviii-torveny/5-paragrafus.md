@@ -1,6 +1,6 @@
-5. § (1) A tizennyolcadik életévét be nem töltött személy, illetve a korlátozottan cselekvőképes nagykorú személy olyan közérdekű önkéntes tevékenységet folytathat, amely megfelel életkorának, testi, értelmi és erkölcsi fejlettségének, illetve képességeinek, valamint amely nem veszélyezteti egészségét, fejlődését és tankötelezettségének teljesítését.
+5. § (1) A tizennyolcadik életévét be nem töltött személy, illetve a cselekvőképességében a közérdekű önkéntes tevékenység tekintetében részlegesen korlátozott nagykorú személy olyan közérdekű önkéntes tevékenységet folytathat, amely megfelel életkorának, testi, értelmi és erkölcsi fejlettségének, illetve képességeinek, valamint amely nem veszélyezteti egészségét, fejlődését és tankötelezettségének teljesítését.
 
-(2) A tizenhatodik életévét be nem töltött önkéntes és a korlátozottan cselekvőképes nagykorú önkéntes közérdekű önkéntes tevékenységet külföldön nem végezhet.
+(2) A tizenhatodik életévét be nem töltött önkéntes és a cselekvőképességében a közérdekű önkéntes tevékenység tekintetében részlegesen korlátozott nagykorú önkéntes közérdekű önkéntes tevékenységet külföldön nem végezhet.
 
 (3) A tizennyolcadik életévét be nem töltött önkéntes közérdekű önkéntes tevékenységet 20 óra és 6 óra között nem végezhet.
 

@@ -14,7 +14,7 @@ b) amelynek ellátását törvény, kormányrendelet vagy miniszteri rendelet (a
 
 (6) A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozó személy (a továbbiakban: harmadik országbeli állampolgár) – ide nem értve a menekültként vagy menedékesként elismert, bevándorolt, illetve letelepedett személyt – közérdekű önkéntes tevékenységet akkor végezhet, ha
 
-a) a fogadó szervezet az önkéntes által okozott kár megtérítésére felelősségbiztosítási szerződést kötött,
+a) a fogadó szervezet az önkéntes által okozott kár megtérítésére, illetve az önkéntes által elkövetett személyiségi jogi jogsértésért járó sérelemdíj megfizetésére felelősségbiztosítási szerződést kötött,
 
 b) az önkéntes szállása, ellátása és visszautazása biztosított, valamint
 

@@ -4,7 +4,7 @@ a) az önkéntes természetes személyazonosító adatait, valamint, ha az önk�
 
 b) az önkéntes lakóhelyét, ennek hiányában tartózkodási, illetve szálláshelyét,
 
-c) korlátozottan cselekvőképes és kiskorúsága miatt cselekvőképtelen önkéntes esetén a törvényes képviselő természetes személyazonosító adatait és lakóhelyét, ennek hiányában tartózkodási helyét,
+c) kiskorú önkéntes és a cselekvőképességében a közérdekű önkéntes tevékenység tekintetében részlegesen korlátozott önkéntes esetén a törvényes képviselő természetes személyazonosító adatait és lakóhelyét, ennek hiányában tartózkodási helyét,
 
 d) a 6. § (1) bekezdésének a)–c) pontjában meghatározottakat,
 
