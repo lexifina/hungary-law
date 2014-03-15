@@ -18,9 +18,9 @@ e) egészségügyi adatairól indokolt célra – saját költségére – össz
 
 (4) A beteg jogosult az általa pontatlannak vagy hiányosnak vélt – rá vonatkozó – egészségügyi dokumentáció kiegészítését, kijavítását kezdeményezni, amelyet a kezelőorvos, illetve más adatkezelő a dokumentációra saját szakmai véleményének feltüntetésével jegyez rá. A hibás egészségügyi adatot az adatfelvételt követően törölni nem lehet, azt úgy kell kijavítani, hogy az eredetileg felvett adat megállapítható legyen.
 
-(5) Amennyiben a betegről készült egészségügyi dokumentáció más személy magántitok-védelméhez való jogát érintő adatokat is tartalmaz, annak csak a betegre vonatkozó része tekintetében gyakorolható a betekintési, illetve a (3) bekezdésben említett egyéb jogosultság.
+(5) Amennyiben a betegről készült egészségügyi dokumentáció más személy magántitokhoz való jogát érintő adatokat is tartalmaz, annak csak a betegre vonatkozó része tekintetében gyakorolható a betekintési, illetve a (3) bekezdésben említett egyéb jogosultság.
 
-(6) Cselekvőképtelen személy dokumentációjába való betekintési jog a 16. § (1)–(2) bekezdései szerinti személyt, korlátozottan cselekvőképes személy dokumentációjába való betekintési jog a beteget, illetve a 16. § (1) bekezdés a) pontja szerint megnevezett személyt, ennek hiányában a törvényes képviselőt illeti meg.
+(6) Cselekvőképtelen beteg dokumentációjába való betekintési jog a 16. § (1) és (2) bekezdése szerinti személyt, korlátozottan cselekvőképes kiskorú és cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében részlegesen korlátozott személy dokumentációjába való betekintési jog a beteget, a 16. § (1) bekezdés a) pontja szerint megnevezett személyt, ilyen személy hiányában a törvényes képviselőt illeti meg.
 
 (7) A beteg jogosult az adott betegségével kapcsolatos egészségügyi ellátásának ideje alatt az általa meghatározott személyt írásban felhatalmazni a rá vonatkozó egészségügyi dokumentációba való betekintésre, illetve arra, hogy azokról másolatot készíttessen.
 

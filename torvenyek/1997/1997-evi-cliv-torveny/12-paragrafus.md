@@ -4,8 +4,8 @@
 
 (2) A beteg távozási szándékát a kezelőorvosnak bejelenti, aki ezt a tényt a beteg egészségügyi dokumentációjában feltünteti.
 
-(3) Amennyiben a beteg a gyógyintézetet bejelentés nélkül hagyja el, a kezelőorvos ezt a beteg egészségügyi dokumentációjában feltünteti, továbbá – ha a beteg állapota indokolja – a gyógyintézet elhagyásának tényéről értesíti a hatáskörrel és illetékességgel rendelkező hatóságokat, valamint cselekvőképtelen beteg esetén a törvényes képviselőt. Korlátozottan cselekvőképes beteg esetén a 16. § (1) bekezdés a) pontja szerint megnevezett személyt, ennek hiányában a törvényes képviselőt kell értesíteni.
+(3) Amennyiben a beteg a gyógyintézetet bejelentés nélkül hagyja el, a kezelőorvos ezt a beteg egészségügyi dokumentációjában feltünteti, továbbá cselekvőképtelen beteg esetén – ide nem értve a cselekvőképtelen állapotban lévő beteget – a gyógyintézet elhagyásának tényéről értesíti a törvényes képviselőt. Korlátozottan cselekvőképes kiskorú és a cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében részlegesen korlátozott nagykorú beteg esetén a 16. § (1) bekezdés a) pontja szerint megnevezett személyt, ennek hiányában a törvényes képviselőt kell értesíteni. Amennyiben a betegnek a támogatott döntéshozatalról szóló törvény szerinti támogatója van és annak feltüntetését az egészségügyi dokumentációban kérte, a gyógyintézet elhagyásának tényéről a támogatót értesíteni kell.
 
 (4) A beteg gyógyintézetből történő elbocsátásáról a beteget, illetőleg hozzátartozóját előzetesen tájékoztatni kell, lehetőség szerint legalább 24 órával a tervezett elbocsátást megelőzően.
 
-(5) Cselekvőképtelen beteg esetén az (1) bekezdés szerinti jog a törvényes képviselő egyetértésével gyakorolható.
+(5) Cselekvőképtelen beteg esetén – ide nem értve a cselekvőképtelen állapotban lévő beteget – az (1) bekezdés szerinti jog a törvényes képviselő egyetértésével gyakorolható.

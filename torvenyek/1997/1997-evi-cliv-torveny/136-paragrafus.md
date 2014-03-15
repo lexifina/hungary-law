@@ -6,7 +6,7 @@
 
 a) a betegnek az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló törvényben meghatározott személyazonosító adatait,
 
-b) cselekvőképes beteg esetén az értesítendő személy, kiskorú, illetve gondnokság alatt álló beteg esetében a törvényes képviselő nevét, lakcímét, elérhetőségét,
+b) cselekvőképes beteg esetén az értesítendő személy, valamint – ha a beteg kéri – a támogatott döntéshozatalról szóló törvény szerinti támogató nevét, lakcímét, elérhetőségét, továbbá kiskorú, illetve a cselekvőképességet részlegesen vagy teljesen korlátozó gondnokság alatt álló beteg esetében a törvényes képviselő nevét, lakcímét, elérhetőségét,
 
 c) a kórelőzményt, a kórtörténetet,
 

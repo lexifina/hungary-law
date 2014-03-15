@@ -30,7 +30,7 @@ ib) szakirányú szakképesítéshez kötött tevékenységet – ha jogszabály
 
 a törléstől számított egy évig,
 
-j)
+j) aki cselekvőképességében bármely ügycsoport tekintetében részlegesen korlátozó vagy cselekvőképességét teljesen korlátozó gondnokság alatt áll,
 
 k) aki – feltéve, hogy a törvény kötelező kamarai tagságot ír elő – nem tagja a szakképesítése szerint illetékes szakmai kamarának.
 

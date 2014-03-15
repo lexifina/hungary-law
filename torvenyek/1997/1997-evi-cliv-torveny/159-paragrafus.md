@@ -28,15 +28,15 @@ f) a kutatásban való részvétel kockázatának körébe tartozó egészségk�
 
 g) a kutatatásért felelős személy(ek) nevéről.
 
-(4) Kutatás cselekvőképtelen, illetve korlátozottan cselekvőképes személyen kizárólag a következő feltételek együttes fennállása esetén végezhető:
+(4) Kutatás cselekvőképtelen, illetve korlátozottan cselekvőképes kiskorú és cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében, valamint valamely vagyoni jellegű ügycsoport tekintetében részlegesen korlátozott személyen kizárólag a következő feltételek együttes fennállása esetén végezhető:
 
-a) az (1) bekezdés a)–d) pontjaiban foglalt feltételek teljesülnek;
+a) az (1) bekezdés a)–d) pontjában foglalt feltételek teljesülnek;
 
 b) a kutatástól várt eredmény közvetlenül szolgálhatja a kutatás alanyának egészségét;
 
 c) a kutatás nem folytatható hasonló hatékonysággal cselekvőképes személyen;
 
-d) a 16. § (1)–(2) bekezdései szerinti személy, illetve a korlátozottan cselekvőképes személy esetén a beteg – figyelemmel a 16. § (5) bekezdésben foglaltakra is – a beleegyezését adta.
+d) a 16. § (1) és (2) bekezdése szerinti személy, illetve korlátozottan cselekvőképes kiskorú, valamint a cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében részlegesen korlátozott személy esetén a kutatási alany – figyelemmel a 16. § (5) bekezdésében foglaltakra is – a beleegyezését adta.
 
 (5) A (4) bekezdés b) pontjában foglalt feltételtől kivételesen a következő feltételek együttes fennállása esetén el lehet tekinteni:
 

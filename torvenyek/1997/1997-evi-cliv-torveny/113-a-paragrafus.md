@@ -1,6 +1,6 @@
 113/A. § (1) A működési nyilvántartásból a nyilvántartást vezető szerv – a (2) bekezdésben foglalt eltéréssel – törli azt a személyt
 
-a)
+a) akit a bíróság bármely ügycsoport tekintetében cselekvőképességet részlegesen korlátozó vagy a cselekvőképességet teljesen korlátozó gondnokság alá helyezett,
 
 b) aki olyan bűncselekménnyel kapcsolatosan áll a büntetett előélethez fűződő hátrányos jogkövetkezmények hatálya alatt, amely miatt egy évet meghaladó végrehajtandó szabadságvesztésre ítélték, vagy aki az egészségügyi tevékenység folytatását kizáró foglalkoztatástól eltiltás hatálya alatt áll,
 
@@ -18,7 +18,7 @@ h) aki a törlését kéri,
 
 i) akinek – feltéve, hogy törvény kötelező kamarai tagságot ír elő – kamarai tagsága megszűnt.
 
-(1a) Az (1) bekezdés b)–d) pontjai alapján a működési nyilvántartásból törölt egészségügyi dolgozó egészségügyi tevékenységet felügyelet mellett sem végezhet.
+(1a) Az (1) bekezdés a)–d) pontja alapján a működési nyilvántartásból törölt egészségügyi dolgozó egészségügyi tevékenységet felügyelet mellett sem végezhet.
 
 (2)
 

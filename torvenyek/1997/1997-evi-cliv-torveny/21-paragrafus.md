@@ -1,6 +1,6 @@
-21. § (1) Cselekvőképtelen és korlátozottan cselekvőképes beteg esetén a 20. § (2) bekezdése szerinti ellátás nem utasítható vissza.
+21. § (1) Cselekvőképtelen beteg, korlátozottan cselekvőképes kiskorú és a cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében részlegesen korlátozott beteg esetén a 20. § (2) bekezdése szerinti ellátás nem utasítható vissza.
 
-(2) Amennyiben cselekvőképtelen és korlátozottan cselekvőképes beteg esetén a 20. § (3) bekezdése szerinti ellátás visszautasítására kerül sor, az egészségügyi szolgáltató keresetet indít a beleegyezés bíróság általi pótlása iránt. A kezelőorvos a bíróság jogerős határozatának meghozataláig köteles a beteg egészségi állapota által indokolt ellátások megtételére. Közvetlen életveszély esetén a szükséges beavatkozások elvégzéséhez bírósági nyilatkozatpótlásra nincs szükség.
+(2) Ha cselekvőképtelen beteg, továbbá korlátozottan cselekvőképes kiskorú és a cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében részlegesen korlátozott beteg esetén a 20. § (3) bekezdése szerinti ellátás visszautasítására kerül sor, az egészségügyi szolgáltató keresetet indít a beleegyezés bíróság általi pótlása iránt. A kezelőorvos a bíróság jogerős határozatának meghozataláig köteles a beteg egészségi állapota által indokolt ellátások megtételére. Közvetlen életveszély esetén a szükséges beavatkozások elvégzéséhez bírósági nyilatkozatpótlásra nincs szükség.
 
 (3) A kezelőorvos a (2) bekezdésben foglalt kötelezettsége teljesítése érdekében – szükség esetén – igénybe veheti a rendőrhatóság közreműködését.
 

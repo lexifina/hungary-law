@@ -14,7 +14,7 @@ d) testvérének egyeneságbeli rokona.
 
 (4) A fogvatartott csak a (2) bekezdés szerinti esetben lehet szerv-, illetve szövetdonor.
 
-(5) Csontvelő, illetve haemopoetikus őssejt vagy más regenerálódó szövet eltávolítására kivételesen korlátozottan cselekvőképes, illetve cselekvőképtelen személy testéből is sor kerülhet, az alábbi feltételek együttes fennállása esetén:
+(5) Csontvelő, illetve haemopoetikus őssejt vagy más regenerálódó szövet eltávolítására kivételesen korlátozottan cselekvőképes kiskorú, a cselekvőképességében az egészségügyi ellátással összefüggő jogok tekintetében részlegesen korlátozott, illetve cselekvőképtelen személy testéből is sor kerülhet, az alábbi feltételek együttes fennállása esetén:
 
 a) nem áll rendelkezésre megfelelő cselekvőképes donor;
 
@@ -24,4 +24,4 @@ c) az adományozás valószínűsíthetően életmentő a recipiens számára;
 
 d) a törvényes képviselő beleegyezését a kórházi etikai bizottság jóváhagyta;
 
-e) a kórházi etikai bizottság a d) pont szerinti döntésének meghozatala előtt a korlátozottan cselekvőképes, illetve cselekvőképtelen személyt – amennyiben azt egészségi állapota vagy életkora nem zárja ki – meghallgatta és meggyőződött arról, hogy a beavatkozásnak kényszertől, fenyegetéstől, megtévesztéstől mentesen veti alá magát.
+e) a kórházi etikai bizottság a d) pont szerinti döntésének meghozatala előtt az érintett személyt – amennyiben azt egészségi állapota vagy életkora nem zárja ki – meghallgatta és meggyőződött arról, hogy a beavatkozásnak kényszertől, fenyegetéstől, megtévesztéstől mentesen veti alá magát.

@@ -1,6 +1,6 @@
 ## Szerv, szövet eltávolítása halottból
 
-211. § (1) Halottból szerv, illetve szövet eltávolítására átültetés céljából akkor kerülhet sor, ha az elhunyt életében ez ellen nem tett tiltakozó nyilatkozatot. Tiltakozó nyilatkozatot a cselekvőképes személy írásban (közokiratban vagy teljes bizonyító erejű magánokiratban) vagy – amennyiben írásbeli nyilatkozatot egyáltalán nem vagy csak jelentékeny nehézséggel tudna tenni – kezelőorvosánál szóban tehet. Korlátozottan cselekvőképes személy tiltakozó nyilatkozatot törvényes képviselőjének közreműködése nélkül is tehet. A cselekvőképtelen személy helyett tiltakozó nyilatkozatot törvényes képviselője tehet.
+211. § (1) Halottból szerv, illetve szövet eltávolítására átültetés céljából akkor kerülhet sor, ha az elhunyt életében ez ellen nem tett tiltakozó nyilatkozatot. Tiltakozó nyilatkozatot a cselekvőképes személy írásban (közokiratban vagy teljes bizonyító erejű magánokiratban) vagy – amennyiben írásbeli nyilatkozatot egyáltalán nem vagy csak jelentékeny nehézséggel tudna tenni – kezelőorvosánál szóban tehet. Korlátozottan cselekvőképes kiskorú és a cselekvőképességében az egészségügyi ellátással összefüggő jogok tekintetében részlegesen korlátozott személy tiltakozó nyilatkozatot törvényes képviselőjének közreműködése nélkül is tehet. A cselekvőképtelen személy helyett tiltakozó nyilatkozatot törvényes képviselője tehet.
 
 (2) A kezelőorvos a szerv, illetve szövet eltávolítására rendelkezésre álló időn belül köteles meggyőződni arról, hogy az elhunytnál maradt-e tiltakozó nyilatkozat.
 

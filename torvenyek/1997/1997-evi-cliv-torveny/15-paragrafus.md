@@ -6,6 +6,8 @@
 
 (3) A betegnek joga van arra, hogy a kivizsgálását és kezelését érintő döntésekben részt vegyen. Az e törvényben foglalt kivételektől eltekintve bármely egészségügyi beavatkozás elvégzésének feltétele, hogy ahhoz a beteg megtévesztéstől, fenyegetéstől és kényszertől mentes, megfelelő tájékoztatáson alapuló beleegyezését (a továbbiakban: beleegyezését) adja.
 
+(3a) Ha a betegnek az egészségügyi ellátással összefüggő döntései meghozatalában a támogatott döntéshozatalról szóló törvény szerinti támogatója van, a beteg kérelmére biztosítani kell, hogy a támogató – a 27. §-ban foglaltak betartásával – a beleegyezés megadása során jelen lehessen, azzal kapcsolatban a beteggel egyeztethessen.
+
 (4) A beteg a (3) bekezdésben foglalt beleegyezését szóban, írásban vagy ráutaló magatartással megadhatja, kivéve, ha e törvény eltérően nem rendelkezik.
 
 (5) Az invazív beavatkozásokhoz és a 197. § szerinti önkéntes gyógykezelésbe vételhez a beteg írásbeli vagy – amennyiben erre nem képes – két tanú együttes jelenlétében, szóban vagy más módon megtett nyilatkozata szükséges.

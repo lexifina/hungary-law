@@ -2,7 +2,7 @@
 
 134. § (1) A kezelőorvos – a 14. § (1)–(2) bekezdéseiben foglalt esetek kivételével – a beteg állapota által indokolt rendszerességgel, a tőle elvárható ismereteknek megfelelően és legjobb tudása szerint, a 13. §-ban foglaltak figyelembevételével tájékoztatja a beteget annak egészségi állapotáról.
 
-(2) Amennyiben a beteg cselekvőképtelen, illetve korlátozottan cselekvőképes, a kezelőorvos a 16. §-ban foglalt személyeket is tájékoztatja.
+(2) Ha a beteg cselekvőképtelen, korlátozottan cselekvőképes kiskorú vagy a cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében részlegesen korlátozott, a kezelőorvos a 16. §-ban foglalt személyeket is tájékoztatja.
 
 (3) A szóbeli tájékoztatás nem helyettesíthető az előre elkészített általános ismertető segédanyagok átadásával.
 

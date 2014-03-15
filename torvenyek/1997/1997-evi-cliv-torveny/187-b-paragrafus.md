@@ -10,6 +10,6 @@ a) a cselekvőképtelen személy gyermek felnevelésére nem képes, és a beava
 
 b) a terhességből születendő gyermek orvosilag valószínűsíthetően súlyos fogyatékosságban szenvedne, és a beavatkozás elvégzése a cselekvőképtelen személy akaratával nem ellenkezik, vagy
 
-c) a bekövetkező terhesség a nő életét, testi épségét, egészségét közvetlenül veszélyeztetné.
+c) a bekövetkező terhesség a cselekvőképtelen személy életét, testi épségét, egészségét közvetlenül veszélyeztetné.
 
 (5) A bíróság határozata ellen annak közlésétől számított tizenöt napon belül terjeszthető elő fellebbezés. A határozat ellen felülvizsgálatnak nincs helye.

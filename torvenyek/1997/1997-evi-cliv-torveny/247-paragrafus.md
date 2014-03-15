@@ -223,39 +223,3 @@ g) az egészségügyi tevékenységet e törvény alapján felügyelet mellett v
 h) a halottvizsgálati szaktanácsadói névjegyzékkel összefüggésben
 
 ha) az igazságügyért felelős miniszterrel egyetértésben a halottvizsgálati szaktanácsadói névjegyzékbe történő felvételre, valamint az ahhoz szükséges képesítési és szakmai feltételekre és a névjegyzékből való törlésre vonatkozó szabályokat,
-
-hb) az igazságügyért felelős miniszterrel egyetértésben a halottvizsgálati szaktanácsadó igénybe vételének, a szaktanácsadói tevékenység folytatásának részletes feltételeit, a szaktanácsadói ügyeleti rendszer részletes szabályait,
-
-hc) az adópolitikáért felelős miniszterrel egyetértésben a névjegyzékbe-vételi eljárás igazgatási szolgáltatási díjának összegére, befizetésére, visszafizetésére és nyilvántartására vonatkozó részletes szabályokat,
-
-hd) az igazságügyért felelős miniszterrel és az államháztartásért felelős miniszterrel egyetértésben a halottvizsgálati szaktanácsadó részére fizetendő díjat és a díj megállapítására vonatkozó részletes szabályokat,
-
-i) a hagyományos kínai gyógyászat területén oklevéllel rendelkező személy által végzett egészségügyi tevékenység engedélyezésére vonatkozó részletes szabályokat,
-
-rendeletben állapítsa meg.
-
-(4) Felhatalmazást kap a miniszter, hogy a nem-konvencionális tevékenységeket, az egyes tevékenységek végzésére jogosult személyek körét, valamint e tevékenységek végzésével, a képesítés megszerzésével összefüggő szakmai szabályokat rendeletben állapítsa meg.
-
-(4a) Felhatalmazást kap az egészségügyért felelős miniszter, hogy rendeletben jelölje ki a 2013. május 1-jén átvételre kerülő egészségügyi intézmény tekintetében fenntartói joggal rendelkező központi államigazgatási szervet.
-
-(5) Felhatalmazást kap
-
-a) a büntetés-végrehajtásért felelős miniszter, valamint a rendészetért felelős miniszter, hogy – a miniszterrel egyetértésben – a fogvatartottak egészségügyi ellátására vonatkozó szabályokat,
-
-b) a miniszter és a rendészetért felelős miniszter, hogy az ittas személyek kijózanítás céljából az illetékes egészségügyi szolgáltatóhoz történő szállításának szabályait,
-
-c) a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben az e törvény szerint
-
-ca) az orvostechnikai eszközökkel és a gyógyászati segédeszközökkel kapcsolatos eljárásokkal – ideértve a szakhatósági eljárást is –, továbbá az egyszer használatos orvostechnikai eszközök újrafelhasználásának jóváhagyási eljárásával összefüggő igazgatási szolgáltatásokért,
-
-cb) az egészségügyi szolgáltatók működési engedélyezésével és hatósági nyilvántartásba vételével kapcsolatosan,
-
-cc) az egészségügyi szakképesítéssel rendelkező személyek alap- és működési nyilvántartásával összefüggésben,
-
-cd) az orvostudományi kutatás, valamint a beavatkozással nem járó vizsgálat engedélyezési eljárásáért,
-
-ce) az egységes ágazati humánerőforrás-monitoringrendszert működtető szerv részére az igazgatási szolgáltatásainak igénybevételéért,
-
-cf) az egészségügyi szakértők tevékenységének engedélyezéséért,
-
-cg) az egészségfejlesztési programok akkreditációjáért,

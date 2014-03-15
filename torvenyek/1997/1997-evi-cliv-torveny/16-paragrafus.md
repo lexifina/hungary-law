@@ -38,8 +38,14 @@ ce) unokája.
 
 (4) A (2) bekezdés szerinti személyek nyilatkozata – kizárólag a 13. §-ban foglalt tájékoztatást követően – a kezelőorvos által javasolt invazív beavatkozásokhoz történő beleegyezésre terjedhet ki. E nyilatkozat azonban – a 20. § (3) bekezdése szerinti eset kivételével – a beavatkozással fölmerülő kockázatoktól eltekintve nem érintheti hátrányosan a beteg egészségi állapotát, így különösen nem vezethet súlyos vagy maradandó egészségkárosodásához. A nyilatkozatról a beteget cselekvőképessé válását követően azonnal tájékoztatni kell.
 
-(5) Az egészségügyi ellátással kapcsolatos döntésekben a cselekvőképtelen, illetve korlátozottan cselekvőképes beteg véleményét a szakmailag lehetséges mértékig figyelembe kell venni abban az esetben is, ha a beleegyezés, illetve a visszautasítás jogát a (2) bekezdés szerinti személy gyakorolja.
+(5) Az egészségügyi ellátással kapcsolatos döntésekben a cselekvőképtelen, illetve a korlátozottan cselekvőképes kiskorú és a cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében részlegesen korlátozott beteg véleményét a szakmailag lehetséges mértékig figyelembe kell venni abban az esetben is, ha a beleegyezés, illetve a visszautasítás jogát a (2) bekezdés szerinti személy gyakorolja.
 
 (6) Az (1) bekezdés szerinti rendelkezéseket a 16. életévét betöltött kiskorú személy esetén is alkalmazni kell.
 
-(7) A (4) bekezdés rendelkezéseit a korlátozottan cselekvőképes beteg törvényes képviselője, illetve a korlátozottan cselekvőképes beteg által a 16. § (1) bekezdés a) pontja alapján megnevezett személy nyilatkozatára is alkalmazni kell.
+(7) A (4) bekezdés rendelkezéseit
+
+a) a korlátozottan cselekvőképes kiskorú és a cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében részlegesen korlátozott beteg törvényes képviselője és
+
+b) az a) pontban meghatározott beteg által a 16. § (1) bekezdés a) pontja alapján megnevezett személy
+
+nyilatkozatára is alkalmazni kell.

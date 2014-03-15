@@ -60,7 +60,7 @@ r) közeli hozzátartozó: a házastárs, az egyeneságbeli rokon, az örökbefo
 
 s) magyar állampolgár: a magyar állampolgársággal, illetve külön törvény szerint a szabad mozgás és tartózkodás jogával rendelkező személy (a továbbiakban: a szabad mozgás és tartózkodás jogával rendelkező személy), a letelepedett, valamint a bevándorolt jogállású személy, továbbá a külön jogszabály értelmében menekültnek minősülő személy;
 
-t) korlátozottan cselekvőképes beteg: akit a bíróság a Ptk. rendelkezéseinek megfelelően általános jelleggel vagy az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében cselekvőképességet korlátozó gondnokság alá helyezett, valamint az a kiskorú személy, aki a tizennegyedik életévét már betöltötte és nem cselekvőképtelen. Az ilyen személy egészségügyi ellátással kapcsolatos jognyilatkozataira – ha törvény kivételt nem tesz – a Ptk.-ban foglalt szabályok irányadóak;
+t) cselekvőképtelen: az a személy, akit a bíróság a Polgári Törvénykönyv (a továbbiakban: Ptk.) szerint cselekvőképességét teljesen korlátozó gondnokság alá helyezett, továbbá a tizennegyedik életévét be nem töltött kiskorú és a cselekvőképtelen állapotban lévő személy;
 
 u) gazdasági célú letelepedés: a külföldiek magyarországi befektetéseiről szóló törvény szabályainak megfelelő letelepedés;
 
