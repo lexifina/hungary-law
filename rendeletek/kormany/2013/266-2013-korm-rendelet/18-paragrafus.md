@@ -6,7 +6,7 @@ a) a közvetlen költségek, ennek keretében
 
 aa) a számított munkadíj,
 
-ab) a szakági tervező, alvállalkozó tervező tervezési díja,
+ab)[^11]
 
 ac) az esetlegesen a szerzői joggal kapcsolatosan felmerülő személyi és vagyoni jogok értéke,
 
@@ -17,3 +17,5 @@ c) az értékcsökkenési leírás,
 d) az egyéb ráfordítások,
 
 e) a tervezett nyereség
+
+[^11]: A 18. § a) pont ab) alpontját a 62/2014. (III. 6.) Korm. rendelet 48. § b) pontja hatályon kívül helyezte.

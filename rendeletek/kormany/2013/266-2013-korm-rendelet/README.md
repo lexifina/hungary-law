@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-266-20-
 | 2013-12-31 | 2013-266-20-22.3 | 522/2013. (XII. 30.) Korm. rendelet |
 | 2014-01-01 | 2013-266-20-22.4 | 26/2017. (X. 17.) AB határozat |
 | 2014-01-02 | 2013-266-20-22.5 | 2010: CXXX. törvény |
+| 2014-03-15 | 2013-266-20-22.6 | 62/2014. (III. 6.) Korm. rendelet |

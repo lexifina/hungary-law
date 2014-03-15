@@ -1,4 +1,4 @@
-1. melléklet a 266/2013. (VII. 11.) Korm. rendelethez
+1. melléklet a 266/2013. (VII. 11.) Korm. rendelethez[^52]
 
 ## A szakmagyakorlási jogosultságokhoz szükséges képesítési követelmények, szakmai gyakorlati idők, továbbá feladatok, amelyeket az adott szakterületi jogosultsággal lehet végezni
 
@@ -70,13 +70,13 @@ Településrendezési tervezés
 
 | 20. | Energiaellátási építmények tervezési szakterület | EN | részszakterület szerint | részszakterület szerint |  |
 
-| 21. | Energiaellátási építmények tervezési szakterület hőenergetikai építmények tervezési részszakterület | EN-HŐ | Hőenergetikai előállító-átalakító és -tároló rendszerek építményeinek és berendezéseinek tervezése, energiaátviteli, elosztó és szolgáltató rendszerek építményeinek tervezése. | okleveles szakirányú gépészmérnök, okleveles villamosmérnök, okleveles energetikai mérnök, gépészmérnök, villamosmérnök, energetikai mérnök, okleveles szerkezet-építőmérnök | 3 év 5 év 7 év |
+| 21. | Energiaellátási építmények tervezési szakterület hőenergetikai építmények tervezési részszakterület | EN-HŐ | Hőenergetikai előállító-átalakító és -tároló rendszerek építményeinek és berendezéseinek tervezése, energiaátviteli, elosztó és szolgáltató rendszerek építményeinek tervezése. | okleveles szakirányú gépészmérnök, okleveles villamosmérnök, okleveles energetikai mérnök, gépészmérnök, villamosmérnök, energetikai mérnök, építőmérnök, okleveles szerkezet-építőmérnök, okleveles építészmérnök (tartószerkezeti kredit-teljesítéssel) | 3 év 5 év 7 év |
 
 | 22. | Energiaellátási építmények tervezési szakterület villamosenergetikai építmények tervezési részszakterület | EN-VI | Villamosenergetikai előállító-átalakító és -tároló rendszerek építményeinek és berendezéseinek, energiaátviteli, elosztó és szolgáltató rendszerek építményeinek tervezése. |
 
 | 23. | Energiaellátási építmények tervezési szakterület megújuló energia építmények tervezési részszakterület | EN-ME | Megújuló energia építmények tervezése: geotermikus, napkollektoros, fotovillamos, biomassza és biogáz, szélerőművek, vízerőművek energetikai előállító-átalakító és -tároló rendszerek építményeinek és berendezéseinek tervezése, energiaátviteli, elosztó és szolgáltató rendszerek építményeinek tervezése. |
 
-| 24. | Energiaellátási építmények tervezési szakterület atomenergia építmények tervezési részszakterület | EM-A | Atomenergia építmények tervezése. |
+| 24. | Energiaellátási építmények tervezési szakterület atomenergia építmények tervezési részszakterület | EN-A | Atomenergia alkalmazásra szolgáló építmények tervezése. |
 
 | 25. | Szakági műszaki tervezési terület | Hídszerkezeti tervezési szakterület | HT | Építmények tartószerkezeteinek mechanikai ellenállás és stabilitásra történő tervezése, beleértve a földrengés és tűzhatásra történő tervezést, híd-és különleges szerkezetek tervezése. | okleveles szerkezet-építőmérnök (emelt szintű szakirányú kredit-tartalommal) | 7 év |
 
@@ -162,7 +162,7 @@ Településrendezési szakértés
 
 | 21. | Szakági építésügyi műszaki szakértői szakterület építőanyag-ipari szakértői részszakterület | SZÉS11 | SZASZ3 | Az építési anyagoknak, amelyek természetes anyagokból készültek, gyártott, vagy helyszínen előállított anyagstruktúrával kialakítottak, a teljesítményadatainak vizsgálata, magas színvonalú értékelése. | okleveles építészmérnök, okleveles szerkezet-építőmérnök |
 
-| 22. | Szakági építésügyi műszaki szakértői szakterület hídszerkezeti szakértői részszakterület | SZÉS3 |  | Építmények tartószerkezeteinek mechanikai ellenállás és stabilitásra történő szakértése, beleértve a földrengés és tűzhatásra történő szakértést, továbbá híd- és különleges szerkezetek szakértése. | okleveles szerkezet-építőmérnök (emelt szintű szakirányú kredit-tartalommal) |
+| 22. | Szakági építésügyi műszaki szakértői szakterület hídszerkezeti szakértői részszakterület | SZÉS12 |  | Építmények tartószerkezeteinek mechanikai ellenállás és stabilitásra történő szakértése, beleértve a földrengés és tűzhatásra történő szakértést, továbbá híd- és különleges szerkezetek szakértése. | okleveles szerkezet-építőmérnök (emelt szintű szakirányú kredit-tartalommal) |
 
 | 23. | Építési beruházási szakértői szakterület | SZB | SZB/SZÉSZ7 | Beruházások előkészítésének, megvalósítási folyamatok irányításának, kivitelezési munkák műszaki tartalmának szakértése. | okleveles építészmérnök, okleveles építőmérnök |
 
@@ -292,7 +292,7 @@ A sajátos építményfajták felelős műszaki vezetői szakterületek
 
 | 14. | Szénhidrogén-szállító vezetékek, gázelosztó vezetékek, célvezetékek, egyéb gáz és gáztermék vezetékek, propán-bután töltő telepek és tartozékainak építése szakterület | MV-GO | A szénhidrogén-szállító vezetékek, gázelosztó vezetékek, célvezetékek, egyéb gáz és gáztermék vezetékek, propán-bután töltő telepek és tartozékaik építési-szerelési munkának felelős műszaki vezetése korlátozás nélkül. | okleveles gáz- és olajipari mérnök, okleveles gépészmérnök, gáz- és olajipari mérnök | 3 év 4 év |
 
-| 15. | Szénhidrogén-szállító vezetékek, gázelosztó vezetékek, célvezetékek, egyéb gáz és gáztermék vezetékek, propán-bután töltő telepek és tartozékainak építése szakterület részszakterülete | MV-GO-R | A szénhidrogén-szállító vezetékek, gázelosztó vezetékek, célvezetékek, egyéb gáz és gáztermék vezetékek, propán-bután töltő telepek és tartozékaik építési-szerelési munkának felelős műszaki vezetése, kivéve gázátadó és gázfogadó állomások, kompresszorállomások, szivattyúállomások, tartályparkok, DN 300 mm méretnél nagyobb átmérőjű csővezetékek szerelési munkái, az elkészült rendszerek részszakterület szerint üzembe helyezése és próbaüzeme, valamint ezekhez kapcsolódó feladatok. | gáz- és olajipari technikus, gépészmérnöki technikus, gépészmérnöki szakközépiskola | 5 év |
+| 15. | Szénhidrogén-szállító vezetékek, gázelosztó vezetékek, célvezetékek, egyéb gáz és gáztermék vezetékek, propán-bután töltő telepek és tartozékainak építése szakterület részszakterülete | MV-GO-R | A szénhidrogén-szállító vezetékek, gázelosztó vezetékek, célvezetékek, egyéb gáz és gáztermék vezetékek, propán-bután töltő telepek és tartozékaik építési-szerelési munkának felelős műszaki vezetése, kivéve gázátadó és gázfogadó állomások, kompresszorállomások, szivattyúállomások, tartályparkok, DN 300 mm méretnél nagyobb átmérőjű csővezetékek szerelési munkái, az elkészült rendszerek részszakterület szerint üzembe helyezése és próbaüzeme, valamint ezekhez kapcsolódó feladatok. | gáz- és olajipari technikus, gépésztechnikus, gépipari szakközépiskola | 5 év |
 
 | 16. | Energiaellátási építmények szakterület | MV-EN | Energetikai, vegyipari, szénhidrogén-ipari berendezések építményei építésének felelős műszaki vezetése korlátozás nélkül. | okleveles gépészmérnök, okleveles energetikai mérnök, okleveles vegyészmérnök gépészmérnök, energetikai mérnök, vegyészmérnök | 3 év 4 év |
 
@@ -307,3 +307,5 @@ A sajátos építményfajták felelős műszaki vezetői szakterületek
 | 21. | Villamosság szakterület | MV-VI | Erősáramú föld feletti és föld alatti vezetékek, átalakító- és kapcsolóberendezések építésének felelős műszaki vezetése korlátozás nélkül. | okleveles villamosmérnök, villamosmérnök | 3 év 4 év |
 
 | 22. | Villamosság szakterület részszakterülete | MV-VI-R | Erősáramú föld feletti és föld alatti vezetékek, átalakító- és kapcsolóberendezések építésének felelős műszaki vezetése kisfeszültségű hálózatoknál. | villamosipari technikus | 5 év |
+
+[^52]: Az 1. melléklet a 62/2014. (III. 6.) Korm. rendelet 47. § 25–29. pontja szerint módosított szöveg.

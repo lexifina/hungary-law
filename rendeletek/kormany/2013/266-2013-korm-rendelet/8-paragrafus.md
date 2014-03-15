@@ -1,6 +1,6 @@
-8. § (1) A képesítési követelmény teljesítésének vizsgálata során, ha a szakképzettséget igazoló oklevélből a szakirány, illetve annak a szakmagyakorlási tevékenységet megalapozó szintje nem állapítható meg, akkor az oklevél szakirányáról az engedélyezési eljárás során a Magyar Mérnöki Kamara vagy a Magyar Építész Kamara (a továbbiakban együtt: országos kamara) által működtetett bizottság jogosult szakértőként véleményt nyilvánítani, amelyet a jogosultság megállapításakor a területi kamara figyelembe vesz.
+8. § (1)[^3] A képesítési követelmény teljesítésének vizsgálata során, ha a szakképzettséget igazoló oklevélből a szakirány, illetve annak a szakmagyakorlási tevékenységet megalapozó szintje nem állapítható meg, akkor az oklevél szakirányáról az engedélyezési eljárás során a Magyar Mérnöki Kamara vagy a Magyar Építész Kamara (a továbbiakban együtt: országos kamara) által működtetett szakértői testület jogosult szakértőként véleményt nyilvánítani, amelyet a jogosultság megállapításakor a területi kamara figyelembe vesz.
 
-(2) A bizottság elnökét és két tagját a feladatkörében érintett országos kamara jelöli. A bizottság tagja továbbá az építésügyért felelős miniszter (a továbbiakban: miniszter) által megbízott személy, valamint tagja az adott szak szerint érintett, az országos kamarák által felkért felsőoktatási intézmény képviselője. A bizottság működési rendjét az országos kamara állapítja meg.
+(2)[^4] A szakértői testület elnökét és két tagját a feladatkörében érintett országos kamara jelöli. A szakértői testület tagja továbbá az építésügyért felelős miniszter (a továbbiakban: miniszter) által megbízott személy, valamint tagja az adott szak szerint érintett, az országos kamarák által felkért felsőoktatási intézmény képviselője. A szakértői testület működési rendjét ügyrendjében állapítja meg.
 
 (3) A besorolásra nem alkalmas szakképzettségek tekintetében a szakirányú szakképzettség egyenértékűségének vizsgálatára kerül sor, melynek alapját az országos kamarai szabályzatok által tudományterület szerinti bontás alapján meghatározott, a 4. mellékletben előírt minimum kreditszámok összege képezi. A tantárgycsoportok és azon belül a kreditértékekben meghatározott ismeretkörök vagy tantárgyak nevesítése kamarai hatáskörben, szabályzat formájában kerül meghatározásra a szükséges minimum kompetencia tartalmakkal együtt.
 
@@ -11,3 +11,6 @@
 a) a szakképzettségek szakirányúsága szempontjából már megvizsgált és elfogadásra került oklevelek megnevezését, kibocsátásának dátumát, a képzést folytató felsőoktatási intézmény megnevezését,
 
 b) a szakirányú továbbképzés körében kibocsátott szakirányú szakképzettségek megnevezését, a beszámítható kreditérték meghatározását.
+
+[^3]: A 8. § (1) bekezdése a 62/2014. (III. 6.) Korm. rendelet 47. § 3. pontja szerint módosított szöveg.
+[^4]: A 8. § (2) bekezdése a 62/2014. (III. 6.) Korm. rendelet 47. § 4. pontja szerint módosított szöveg.
