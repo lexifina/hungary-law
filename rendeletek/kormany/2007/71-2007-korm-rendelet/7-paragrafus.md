@@ -1,6 +1,6 @@
 ## Hatósági ellenőrzés
 
-7. §[^12] (1) A fás szárú energetikai ültetvények hatósági ellenőrzését az Erdészeti Igazgatóság látja el.
+7. §[^13] (1) A fás szárú energetikai ültetvények hatósági ellenőrzését az Erdészeti Igazgatóság látja el.
 
 (2) Az Erdészeti Igazgatóság a telepítő költségére elrendeli a telepített ültetvény felszámolását és az eredeti állapot visszaállítását, ha
 
@@ -14,4 +14,4 @@ d) az ültetvény megszüntetése nem felel meg az e rendeletben vagy a telepít
 
 e) az ültetvény a környező ökoszisztémát veszélyeztetően az ültetvény területén túlterjeszkedik, és a telepítő az Erdészeti Igazgatóság felszólítását követően sem gondoskodik a terjedés megakadályozásáról.
 
-[^12]: A 7. § a 351/2010. (XII. 30.) Korm. rendelet 177. § (6) bekezdésével megállapított szöveg.
+[^13]: A 7. § a 351/2010. (XII. 30.) Korm. rendelet 177. § (6) bekezdésével megállapított szöveg.

@@ -8,4 +8,7 @@ a) sarjaztatásos: a külön jogszabály szerinti igazolás alapján sarjaztatá
 
 b) hengeres: minden olyan fás szárú energetikai ültetvény, amely nem sarjaztatásos és az ültetvény vágásfordulója (letermelési gyakorisága) nem haladja meg a tizenöt évet.
 
+(3)[^2] E rendelet alkalmazásában gazdálkodó szervezet: a polgári perrendtartásról szóló törvényben meghatározott gazdálkodó szervezet.
+
 [^1]: Az 1. § a 351/2010. (XII. 30.) Korm. rendelet 177. § (1) bekezdésével megállapított szöveg.
+[^2]: A 2. § (3) bekezdését az 57/2014. (III. 4.) Korm. rendelet 7. §-a iktatta be.
