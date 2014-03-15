@@ -10,4 +10,4 @@ c) útlevélhatóság: az úti okmány kiadására, visszavonására, az utazás
 
 d) EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam, továbbá az az állam, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján a szabad mozgás és tartózkodás joga tekintetében az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez;
 
-e) gazdálkodó szervezet: a Polgári Törvénykönyvről szóló 1959. évi IV. törvény 685. § c) pontjában meghatározott gazdálkodó szervezet.
+e) gazdálkodó szervezet: a polgári perrendtartásról szóló törvényben meghatározott gazdálkodó szervezet.
