@@ -16,8 +16,8 @@ b) az európai szövetkezet vagy igazgatótanácsa számára és javára ellené
 
 c) az európai szövetkezet eredményes működése esetén igazgatótanácsi tagsága alapján vagyoni juttatásokra jogosult (pl. jegyzési jogot biztosító kötvény, sikerdíj),
 
-d) az európai szövetkezet valamely – nem független – igazgatótanácsi tagjának vagy vezető állású munkavállalójának közeli hozzátartozója [a Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) 685. § b) pont] vagy élettársa,
+d) az európai szövetkezet valamely – nem független – igazgatótanácsi tagjának vagy vezető állású munkavállalójának Polgári Törvénykönyv szerinti közeli hozzátartozója vagy élettársa,
 
-e) az európai szövetkezet igazgatótanácsának nem független tagjával egy másik gazdálkodó szervezetben [Ptk. 685. § c) pont] olyan jogviszonyban áll, amely alapján a nem független tagnak irányítási, ellenőrzési joga van,
+e) az európai szövetkezet igazgatótanácsának nem független tagjával egy másik jogi személyben olyan jogviszonyban áll, amely alapján a nem független tagnak irányítási, ellenőrzési joga van,
 
 f) az európai szövetkezet független könyvvizsgálója, a könyvvizsgáló alkalmazottja vagy üzlettársa e jogviszony megszűnésétől számított három évig.
