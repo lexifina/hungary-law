@@ -36,7 +36,7 @@
 
 ## Vasúti érintésvédelmi szabályzat MSZ-07-2506
 
-3. számú melléklet a 17/1993. (VII. 1.) KHVM rendelethez[^30]
+3. számú melléklet a 17/1993. (VII. 1.) KHVM rendelethez[^32]
 
 Gépjárműjavítás Biztonsági Szabályzata
 
@@ -46,7 +46,7 @@ Gépjárműjavítás Biztonsági Szabályzata
 
 1.2. A fegyveres erőkre, fegyveres testületekre a szabályzat hatálya annyiban terjed ki, amennyiben más jogszabály eltérően nem rendelkezik.
 
-1.3. A Szabályzat alkalmazásában gépjárműfenntartó tevékenység a gépjárműveken[^31] – kivéve a trolibuszokat – és ezek pótkocsijain (a továbbiakban együtt: gépjármű) végzett, a külön jogszabályban[^32] meghatározott tevékenység.
+1.3. A Szabályzat alkalmazásában gépjárműfenntartó tevékenység a gépjárműveken[^33] – kivéve a trolibuszokat – és ezek pótkocsijain (a továbbiakban együtt: gépjármű) végzett, a külön jogszabályban[^34] meghatározott tevékenység.
 
 1.4. A Szabályzat a gépjárműveken végzett javítási, fenntartási munkák biztonságos végzéséhez szükséges feltételeket, tennivalókat írja elő. A Szabályzat nem tartalmazza azokat az előírásokat, amelyek az egészséget nem veszélyeztető és biztonságos munkavégzés vonatkozásában jogszabályok és munkavédelmi tartalmú szabványok írnak elő.
 
@@ -70,7 +70,7 @@ A gépjárműfenntartó tevékenység végzésénél szükségessé váló kül�
 
 2.6. Gépjárműemelők: vezetett teherfelvevő szerkezettel ellátott emelőberendezések. A teherfelvevő szerkezetet a tartóegység vezeti meg.
 
-2.7. Veszélyes áruk: a Szabályzat értelmében azok az anyagok és tárgyak, amelyek az ADR[^33] hatálya alá tartoznak, valamint azok a szerves anyagok, élőlények és ezek elhalt egyedei, amelyek a környezetükre fertőzésveszélyt jelentenek, valamint a veszélyes hulladék[^34] és a települési hulladék[^35].
+2.7. Veszélyes áruk: a Szabályzat értelmében azok az anyagok és tárgyak, amelyek az ADR[^35] hatálya alá tartoznak, valamint azok a szerves anyagok, élőlények és ezek elhalt egyedei, amelyek a környezetükre fertőzésveszélyt jelentenek, valamint a veszélyes hulladék[^36] és a települési hulladék[^37].
 
 2.8. Különleges anyagok szállítására szolgáló gépjárművek: a Szabályzat alkalmazásában azok a gépjárművek, amely esetenként vagy állandó jelleggel veszélyes árut, különösen:
 
@@ -102,7 +102,7 @@ szállítanak.
 
 3.1. A munkáltatónak a gépjárműfenntartó tevékenységet a Szabályzatban meghatározottak, továbbá a munkavédelemre vonatkozó egyéb jogszabályok, szabványok előírásai szerint úgy kell megszervezni, hogy a munkavégzés közben keletkező veszélyek a biztonságos munkavégzést ne akadályozzák, a munkát végzők egészségét ne veszélyeztessék.
 
-3.2. A munkáltatónak gondoskodnia kell arról, hogy a munkavállaló az általa végzett mindenkori gépjárműfenntartó tevékenységről és a tevékenységhez kapcsolódó munkaeszközök használatáról – gépjárműtípus, munkaeszköz változás esetén is – elegendő és megfelelő oktatást kapjon az egészséget nem veszélyeztető és biztonságos munkavégzéshez szükséges elméleti és gyakorlati ismeretekről[^36]. Az oktatásnak kapcsolódnia kell a keletkező új veszélyforrások ismertetéséhez.
+3.2. A munkáltatónak gondoskodnia kell arról, hogy a munkavállaló az általa végzett mindenkori gépjárműfenntartó tevékenységről és a tevékenységhez kapcsolódó munkaeszközök használatáról – gépjárműtípus, munkaeszköz változás esetén is – elegendő és megfelelő oktatást kapjon az egészséget nem veszélyeztető és biztonságos munkavégzéshez szükséges elméleti és gyakorlati ismeretekről[^38]. Az oktatásnak kapcsolódnia kell a keletkező új veszélyforrások ismertetéséhez.
 
 3.3. A munkáltatónak szabályozni és jelezni kell azokat a munkahelyeket, ahol a gépjárműfenntartó szervezet munkavállalóin kívül a munkavégzés hatókörében más személyek nem tartózkodhatnak.
 
@@ -116,15 +116,15 @@ szállítanak.
 
 4.1. Gépjárműfenntartó tevékenységet csak az a munkavállaló végezhet, aki
 
-– az előírt szakmai személyi feltételeknek megfelel[^37],
+– az előírt szakmai személyi feltételeknek megfelel[^39],
 
-– egészségileg alkalmas és foglalkoztathatóságát egyéb jogszabály nem tiltja[^38],
+– egészségileg alkalmas és foglalkoztathatóságát egyéb jogszabály nem tiltja[^40],
 
 – a végzendő munkáról elegendő és megfelelő tartalmú munkavédelmi oktatásban részesült.
 
 4.2. A gépjárműfenntartó tevékenységet végző munkavállalókat a veszély jellegétől függően munkavédelmi és egészségügyi ismeretekből a munkáltató belső utasítása szerinti időszakonként, de legalább évente egy alkalommal ismétlődő oktatásban kell részesíteni.
 
-4.3. A munkavállalók munkaköri, szakmai, illetve személyi higiénés alkalmassági vizsgálatának szükségességét külön jogszabály[^39] határozza meg.
+4.3. A munkavállalók munkaköri, szakmai, illetve személyi higiénés alkalmassági vizsgálatának szükségességét külön jogszabály[^41] határozza meg.
 
 A vizsgálat jellegének és gyakoriságának meghatározásakor fokozott figyelmet kell fordítani a tevékenységek végzése során a fizikai, kémiai és biológiai kóroki tényezőkre, a fokozottan balesetveszéllyel járó munkakörökben dolgozókra, különösen:
 
@@ -150,17 +150,17 @@ végzése esetén, kiemelten azon esetekben, amikor a munkavállaló több tevé
 
 5. HASZNÁLATBAVÉTEL
 
-5.1. A gépjárműfenntartó tevékenységet szolgáló létesítmények, munkaeszközök használatának, üzembe helyezésének, valamint a technológiai előírások alkalmazásának munkavédelmi feltételeit és az engedélyezési eljárás rendjét (munkavédelmi üzembe helyezés) a vonatkozó jogszabályok[^40] előírásainak figyelembevételével kell meghatározni és elvégezni.
+5.1. A gépjárműfenntartó tevékenységet szolgáló létesítmények, munkaeszközök használatának, üzembe helyezésének, valamint a technológiai előírások alkalmazásának munkavédelmi feltételeit és az engedélyezési eljárás rendjét (munkavédelmi üzembe helyezés) a vonatkozó jogszabályok[^42] előírásainak figyelembevételével kell meghatározni és elvégezni.
 
-5.2. A gépjárműfenntartó tevékenységet csak olyan munkaeszközökkel szabad végezni, amelyek alkalmasak az egészséget nem veszélyeztető és biztonságos használatra.[^41] A megfelelőséget a vonatkozó jogszabályokban meghatározott tanúsítással kell igazolni.
+5.2. A gépjárműfenntartó tevékenységet csak olyan munkaeszközökkel szabad végezni, amelyek alkalmasak az egészséget nem veszélyeztető és biztonságos használatra.[^43] A megfelelőséget a vonatkozó jogszabályokban meghatározott tanúsítással kell igazolni.
 
 6. A MUNKAHELYEK KIALAKÍTÁSÁNAK KÖVETELMÉNYEI
 
 6.1. Munkahelyek hőmérséklete, szellőztetése
 
-6.1.1. A zárt munkahelyeken az alkalmazott munkamódszerek és a végzett munka nehézségi fokának figyelembevételével a vonatkozó előírás szerinti klímatényezőket kell biztosítani[^42].
+6.1.1. A zárt munkahelyeken az alkalmazott munkamódszerek és a végzett munka nehézségi fokának figyelembevételével a vonatkozó előírás szerinti klímatényezőket kell biztosítani[^44].
 
-6.1.2. A gyúlékony, mérgező, egészségre ártalmas gázokat, gőzöket, porokat a munkahelyekről, munkaterekből el kell vezetni, vagy ártalmatlanítani kell[^43].
+6.1.2. A gyúlékony, mérgező, egészségre ártalmas gázokat, gőzöket, porokat a munkahelyekről, munkaterekből el kell vezetni, vagy ártalmatlanítani kell[^45].
 
 6.1.3. Klímaberendezés vagy szellőztető berendezések használatakor biztosítani kell, hogy a munkavállalók ne legyenek kitéve kellemetlen és egészségre káros légmozgásnak.
 
@@ -168,7 +168,7 @@ végzése esetén, kiemelten azon esetekben, amikor a munkavállaló több tevé
 
 6.2. Kijáratok (ajtók és kapuk), közlekedési utak
 
-6.2.1. Az ajtók és kapuk helyének, számának, kivitelezésének és méreteinek a munkahelyek jellegéhez és használatához kell igazodnia. A különböző kialakítású (lengő, toló, felfelé nyíló, átlátszó stb.) és működtetésű ajtókat és kapukat biztonsági szempontból a vonatkozó jogszabályban foglaltak figyelembevételével kell létesíteni[^44].
+6.2.1. Az ajtók és kapuk helyének, számának, kivitelezésének és méreteinek a munkahelyek jellegéhez és használatához kell igazodnia. A különböző kialakítású (lengő, toló, felfelé nyíló, átlátszó stb.) és működtetésű ajtókat és kapukat biztonsági szempontból a vonatkozó jogszabályban foglaltak figyelembevételével kell létesíteni[^46].
 
 6.2.2. Azokat a kapukat, amelyeket a gépjárműközlekedés mellett a gyalogosközlekedésre is használnak, úgy kell kivitelezni, hogy használóik könnyen nyithassák és zárhassák azokat vagy részeiket.
 
@@ -190,17 +190,17 @@ végzése esetén, kiemelten azon esetekben, amikor a munkavállaló több tevé
 
 6.3. Menekülési utak és vészkijáratok
 
-6.3.1. Az egyes munkahelyeken az ott végzett tevékenység alapján megfelelő számú, elhelyezésű, kialakítású és állapotú menekülési úttal és vészkijárattal kell biztosítani a gyors és biztonságos elhagyás lehetőségét. A menekülési utakat és vészkijáratokat a vonatkozó jogszabályokban foglaltak figyelembevételével kell létesíteni és jelölni[^45].
+6.3.1. Az egyes munkahelyeken az ott végzett tevékenység alapján megfelelő számú, elhelyezésű, kialakítású és állapotú menekülési úttal és vészkijárattal kell biztosítani a gyors és biztonságos elhagyás lehetőségét. A menekülési utakat és vészkijáratokat a vonatkozó jogszabályokban foglaltak figyelembevételével kell létesíteni és jelölni[^47].
 
 6.3.2. Tisztán gépi működtetésű ajtók vészkijárati ajtóként nem alkalmazhatók.
 
 6.4. Ablakok és tetőablakok
 
-Az ablakokat és tetőablakokat a vonatkozó jogszabályban foglaltak figyelembevételével kell létesíteni.[^46]
+Az ablakokat és tetőablakokat a vonatkozó jogszabályban foglaltak figyelembevételével kell létesíteni.[^48]
 
 6.5. Világítás
 
-6.5.1. A munkahelyek természetes és mesterséges megvilágítását az ott végzett tevékenységek szerint a vonatkozó előírások szerint, vagy azokkal azonos megvilágítási értékeket biztosító módon kell megvalósítani.[^47]
+6.5.1. A munkahelyek természetes és mesterséges megvilágítását az ott végzett tevékenységek szerint a vonatkozó előírások szerint, vagy azokkal azonos megvilágítási értékeket biztosító módon kell megvalósítani.[^49]
 
 6.5.2. A világító berendezéseket a munkahelyeken úgy kell elhelyezni, hogy a világítás módjából ne származhasson balesetveszély vagy egészségi ártalom.
 
@@ -212,13 +212,13 @@ Az ablakokat és tetőablakokat a vonatkozó jogszabályban foglaltak figyelembe
 
 6.6. Villamos berendezések
 
-6.6.1. A gépjárműfenntartó tevékenység során olyan villamos munkaeszközök alkalmazhatók, amelyek – az üzemi igénybevétel és a helyi biztonsági követelmények figyelembevételével – megfelelnek a villamossági termékek biztonsági és tanúsítási kötelezettségére vonatkozó jogszabály előírásainak.[^48]
+6.6.1. A gépjárműfenntartó tevékenység során olyan villamos munkaeszközök alkalmazhatók, amelyek – az üzemi igénybevétel és a helyi biztonsági követelmények figyelembevételével – megfelelnek a villamossági termékek biztonsági és tanúsítási kötelezettségére vonatkozó jogszabály előírásainak.[^50]
 
 6.6.2. A gépjárműfenntartó létesítményekben az egyes helyiségek villamos berendezéseinek létesítését a bennük végzett tevékenység által meghatározott technológia jellege alapján a vonatkozó villamos biztonsági előírások szerint kell kivitelezni.
 
 6.7. Szerelőaknák, alsó munkaterek
 
-6.7.1. A szerelőaknákat úgy kell létesíteni, hogy azokba könnyen, veszély nélkül le lehessen járni és veszély esetén gyorsan elhagyhatók legyenek. Kialakításuk a vonatkozó szabvány[^49] vagy azzal legalább egyenértékű követelményeknek megfelelő kell legyen.
+6.7.1. A szerelőaknákat úgy kell létesíteni, hogy azokba könnyen, veszély nélkül le lehessen járni és veszély esetén gyorsan elhagyhatók legyenek. Kialakításuk a vonatkozó szabvány[^51] vagy azzal legalább egyenértékű követelményeknek megfelelő kell legyen.
 
 6.7.2. A szerelőaknákba, alsó munkaterekbe vezető lépcsős lejáró nem lehet meredekebb mint 45°, fokmagassága legfeljebb 0,25 m lehet, belépőszélessége legalább 0,14 m kell legyen. Vészkijáratként szolgáló lépcső meredeksége legfeljebb 60° lehet.
 
@@ -226,13 +226,13 @@ Az ablakokat és tetőablakokat a vonatkozó jogszabályban foglaltak figyelembe
 
 6.7.4. Ha az akna hosszúsága egyidejűleg több gépjármű ráállását teszi lehetővé, a gépjárművek közötti aknaelhagyáshoz mozgatható lépésbiztos kijárót kell alkalmazni (pl. beakasztható lépcsők, egyágú létrák).
 
-6.7.5. Az alsó munkaterekbe vezető lejáratok peremeit figyelmeztető színjelzéssel[^50] kell ellátni és a lejáratokat kielégítően meg kell világítani.
+6.7.5. Az alsó munkaterekbe vezető lejáratok peremeit figyelmeztető színjelzéssel[^52] kell ellátni és a lejáratokat kielégítően meg kell világítani.
 
 6.7.6. Az alsó munkatérbe vezető lépcsőket korláttal, kapaszkodóval kell ellátni. A lépcsőkar első és utolsó fellépőjét figyelmeztető színjelzéssel kell jelölni.
 
 6.7.7. Azoknál a szerelőaknáknál és alsó munkatereknél, amelyeknél tűz- és robbanásveszélyes gázok, gőzök veszélyes mennyiségben történő előfordulásával kell számolni, és amelyekben kivitelük által nem biztosított a kielégítő természetes légcsere, mesterséges szellőztetést kell létesíteni, amely biztosítja, hogy a gázelegy alsó robbanási koncentrációja ne alakuljon ki.
 
-6.7.8. Azoknál a szerelőaknáknál és alsó munkatereknél, amelyeknél mérgező vagy egészségre káros gázok, gőzök veszélyes mennyiségben történő előfordulásával kell számolni, mesterséges szellőztetést kell létesíteni annak biztosítására, hogy az egészségre káros koncentráció ne alakulhasson ki.[^51]
+6.7.8. Azoknál a szerelőaknáknál és alsó munkatereknél, amelyeknél mérgező vagy egészségre káros gázok, gőzök veszélyes mennyiségben történő előfordulásával kell számolni, mesterséges szellőztetést kell létesíteni annak biztosítására, hogy az egészségre káros koncentráció ne alakulhasson ki.[^53]
 
 6.8. Mosóhelyek
 
@@ -244,15 +244,15 @@ Az ablakokat és tetőablakokat a vonatkozó jogszabályban foglaltak figyelembe
 
 6.9. Akkumulátortöltő és -kezelő helyiségek
 
-Az akkumulátorok töltésére és kezelésére létesített helyiségek kialakításának meg kell felelnie a vonatkozó biztonsági előírásoknak[^52] vagy azzal legalább egyenértékű követelményeknek.
+Az akkumulátorok töltésére és kezelésére létesített helyiségek kialakításának meg kell felelnie a vonatkozó biztonsági előírásoknak[^54] vagy azzal legalább egyenértékű követelményeknek.
 
 6.10. Fényező, szárító helyiségek
 
-6.10.1. A festőhelyiségek és festékbevonat szárító helyiségek kialakításának meg kell felelni a vonatkozó szabvány előírásainak[^53] vagy azzal legalább egyenértékű követelményeknek.
+6.10.1. A festőhelyiségek és festékbevonat szárító helyiségek kialakításának meg kell felelni a vonatkozó szabvány előírásainak[^55] vagy azzal legalább egyenértékű követelményeknek.
 
-6.10.2. A kombinált fényező-szárító fülke biztonságtechnikai szempontból ki kell elégítse a vonatkozó biztonsági előírást[^54] vagy azzal legalább egyenértékű követelményeket.
+6.10.2. A kombinált fényező-szárító fülke biztonságtechnikai szempontból ki kell elégítse a vonatkozó biztonsági előírást[^56] vagy azzal legalább egyenértékű követelményeket.
 
-6.10.3. Festőhelyiségben a mesterséges szellőztetés mértékét az időegység alatt felhasznált legnagyobb anyagmennyiség vegyi összetétele, párolgási jellemzői alapján úgy kell meghatározni, hogy a légtérben a különböző oldószerek koncentrációja ne haladja meg az előírt egészségügyi határértékeket.[^55]
+6.10.3. Festőhelyiségben a mesterséges szellőztetés mértékét az időegység alatt felhasznált legnagyobb anyagmennyiség vegyi összetétele, párolgási jellemzői alapján úgy kell meghatározni, hogy a légtérben a különböző oldószerek koncentrációja ne haladja meg az előírt egészségügyi határértékeket.[^57]
 
 6.10.4. A fényező előkészítő helyiség padozatát szikramentes, a falakat könnyen tisztítható burkolattal kell ellátni.
 
@@ -268,7 +268,7 @@ Az akkumulátorok töltésére és kezelésére létesített helyiségek kialak�
 
 6.12. Gázüzemű gépjárművek gázüzemanyag-ellátó berendezésének javítására szolgáló munkahely
 
-A munkahely létesítésére vonatkozó különös feltételeket külön jogszabály[^56] határozza meg.
+A munkahely létesítésére vonatkozó különös feltételeket külön jogszabály[^58] határozza meg.
 
 6.13. Gépjárművek ápolása
 
@@ -276,7 +276,7 @@ Elkülönített zsírzó és olajfeltöltő álláshelyeket olajoknak és zsíro
 
 6.14. Gépjárművek bontására szolgáló létesítmény, munkahely
 
-A gépjárművek bontására szolgáló létesítményre vonatkozó különös feltételeket külön jogszabály[^57] határozza meg.
+A gépjárművek bontására szolgáló létesítményre vonatkozó különös feltételeket külön jogszabály[^59] határozza meg.
 
 6.15. Szabadtéri munkahelyek
 
@@ -292,29 +292,29 @@ A gépjárművek bontására szolgáló létesítményre vonatkozó különös f
 
 6.16. Magasított munkahelyek
 
-Emelt gépjárműállásokat a vonatkozó[^58] vagy azzal legalább egyenértékű biztonsági előírások figyelembevételével kell létesíteni.
+Emelt gépjárműállásokat a vonatkozó[^60] vagy azzal legalább egyenértékű biztonsági előírások figyelembevételével kell létesíteni.
 
 6.17. Szociális helyiségek
 
-A szociális helyiségeket (pihenőhelyek, öltözőhelyiségek, tisztálkodó- és mellékhelyiségek, elsősegélyhelyek, dohányzó helyek, egyéb helyiségek) a gépjárműfenntartó tevékenység jellege, valamint a dolgozói létszám figyelembevételével a vonatkozó jogszabály[^59] előírásai szerint kell létesíteni.
+A szociális helyiségeket (pihenőhelyek, öltözőhelyiségek, tisztálkodó- és mellékhelyiségek, elsősegélyhelyek, dohányzó helyek, egyéb helyiségek) a gépjárműfenntartó tevékenység jellege, valamint a dolgozói létszám figyelembevételével a vonatkozó jogszabály[^61] előírásai szerint kell létesíteni.
 
 7. MUNKAESZKÖZÖK KIALAKÍTÁSÁNAK, ELHELYEZÉSÉNEK KÖVETELMÉNYEI
 
 7.1. Emelőeszközök, alátámasztó bakok, ékek
 
-7.1.1. A gépjárművek emelésére csak olyan kézi vagy gépi működtetésű emelők alkalmazhatók, amelyek kialakítása és működése megfelel az emelőtípusra vonatkozó[^60] vagy azzal legalább egyenértékű biztonsági követelményeknek.
+7.1.1. A gépjárművek emelésére csak olyan kézi vagy gépi működtetésű emelők alkalmazhatók, amelyek kialakítása és működése megfelel az emelőtípusra vonatkozó[^62] vagy azzal legalább egyenértékű biztonsági követelményeknek.
 
 7.1.2. Helyhez kötött emelők telepítésénél az emelő mellett – a várhatóan emelésre kerülő legnagyobb gépjárműméretet is figyelembe véve – oldalanként legalább 1,0 m széles szabad területet kell biztosítani a kezelés és gépjármű szerelési műveletek elvégzésére.
 
 7.1.3. Helyhez kötött emelők rögzítését a gyártó előírásai szerint kell elvégezni.
 
-7.1.4. A gépjárművek alátámasztására alkalmazott tartóbakoknak, tuskóknak meg kell felelni a vonatkozó[^61] vagy azzal legalább egyenértékű biztonsági követelményeknek. A tartóbakokon a megengedett legnagyobb teherbírást jól láthatóan és tartósan jelölni kell.
+7.1.4. A gépjárművek alátámasztására alkalmazott tartóbakoknak, tuskóknak meg kell felelni a vonatkozó[^63] vagy azzal legalább egyenértékű biztonsági követelményeknek. A tartóbakokon a megengedett legnagyobb teherbírást jól láthatóan és tartósan jelölni kell.
 
-7.1.5. A kerekek kitámasztására a gépjármű tömegének és kerékméretének megfelelő teherbírású és méretű, egy személy által könnyen kezelhető kerékkitámasztó ékeket kell alkalmazni. A kerékkitámasztó ékek kialakítása a vonatkozó szabvány[^62] vagy azzal legalább egyenértékű követelmények figyelembevételével kell történjen.
+7.1.5. A kerekek kitámasztására a gépjármű tömegének és kerékméretének megfelelő teherbírású és méretű, egy személy által könnyen kezelhető kerékkitámasztó ékeket kell alkalmazni. A kerékkitámasztó ékek kialakítása a vonatkozó szabvány[^64] vagy azzal legalább egyenértékű követelmények figyelembevételével kell történjen.
 
 7.2. Munkaállványok
 
-A különböző javítási műveletekhez készített munkaállványok kialakítása és vizsgálata a vonatkozó szabvány[^63] szerinti, vagy azzal legalább egyenértékű biztonsági előírások figyelembevételével kell történjen.
+A különböző javítási műveletekhez készített munkaállványok kialakítása és vizsgálata a vonatkozó szabvány[^65] szerinti, vagy azzal legalább egyenértékű biztonsági előírások figyelembevételével kell történjen.
 
 7.3. Görgős vizsgálópadok
 
@@ -324,7 +324,7 @@ A különböző javítási műveletekhez készített munkaállványok kialakít�
 
 7.3.3. A vizsgálópadok közlekedési útvonalon történő felállítását kerülni kell. Amennyiben kényszerítő okokból szükségessé válik, használaton kívül a biztonságos átjárást lehetővé kell tenni.
 
-7.3.4. A görgős vizsgálópad aknájának széleit, valamint a műhelyszint fölé nyúló védőburkolatát figyelmeztető színjelzéssel kell ellátni[^64].
+7.3.4. A görgős vizsgálópad aknájának széleit, valamint a műhelyszint fölé nyúló védőburkolatát figyelmeztető színjelzéssel kell ellátni[^66].
 
 7.4. Kerékkiegyensúlyozó gépek
 
@@ -410,7 +410,7 @@ A szabályozás tartalmazza:
 
 – a tárolás, csere előírásait.
 
-8.1.3. Kizárólag érvényes típusbizonyítvánnyal vagy gyártói megfelelőségi nyilatkozattal rendelkező, minősített egyéni védőeszközt szabad használni[^65].
+8.1.3. Kizárólag érvényes típusbizonyítvánnyal vagy gyártói megfelelőségi nyilatkozattal rendelkező, minősített egyéni védőeszközt szabad használni[^67].
 
 8.1.4. Minden esetben egyéni védőeszközt kell biztosítani, illetve viselnie az alábbi tevékenységet végzőnek:
 
@@ -420,9 +420,9 @@ A szabályozás tartalmazza:
 
 – vegyi anyagokkal (savak, lúgok, alkatrész mosószerek, festékek, oldószerek stb.) történő munkavégzéshez előírtakat,
 
-– nappali, valamint éjszakai jó láthatóságot biztosító védőruhát (figyelemfelkeltő mellényt) a gépjárműmentő szolgálattal foglakozóknak.[^66]
+– nappali, valamint éjszakai jó láthatóságot biztosító védőruhát (figyelemfelkeltő mellényt) a gépjárműmentő szolgálattal foglakozóknak.[^68]
 
-8.1.5. A 8.1.1. és a 8.1.2. pontban meghatározott szempontok figyelembevételével kell egyéni védőeszközt biztosítani a következő veszélyek, ártalmak ellen[^67]:
+8.1.5. A 8.1.1. és a 8.1.2. pontban meghatározott szempontok figyelembevételével kell egyéni védőeszközt biztosítani a következő veszélyek, ártalmak ellen[^69]:
 
 – repülő anyagrészek, folyadékcseppek által okozható szem és arcsérülések, (pl. véső-, vágómunkáknál, alvázvédelemnél, gumiabroncs javításnál, hűtőjavításnál, vízterek tisztításánál, karosszéria javításnál),
 
@@ -442,7 +442,7 @@ A szabályozás tartalmazza:
 
 – az ütődés, leeső vagy repülő tárgyak, lazán lógó haj által okozható fejsérülések ellen fejvédő egyéni védőeszköz (pl. karosszéria munkáknál, bontásnál),
 
-– zajvédő eszközök, ha az értékelt zajszint a megengedett értéket[^68] meghaladja (pl. karosszéria javításnál, motorjáratásnál, befecskendező szivattyú vizsgálatánál).
+– zajvédő eszközök, ha az értékelt zajszint a megengedett értéket[^70] meghaladja (pl. karosszéria javításnál, motorjáratásnál, befecskendező szivattyú vizsgálatánál).
 
 8.1.6. Bőrtisztító, bőrápoló és bőrvédő anyagokat kell azon dolgozóknak használni, akik
 
@@ -454,7 +454,7 @@ A szabályozás tartalmazza:
 
 – szerves oldószerekkel,
 
-dolgoznak[^69].
+dolgoznak[^71].
 
 8.2. Gépjárművek mozgatása
 
@@ -614,7 +614,7 @@ Az elmozdulásmentes alátámasztás a megfelelő kialakítású emelővel vagy 
 
 8.7.6. Emelés, valamint süllyesztés közben a gépjárműben vagy az emelő mozgó alkatrészein tartózkodni tilos.
 
-8.7.7. Az emelőt az emelőgép kezelői feltételeknek[^70] megfelelő, kezelésre kioktatott személy kezelheti.
+8.7.7. Az emelőt az emelőgép kezelői feltételeknek[^72] megfelelő, kezelésre kioktatott személy kezelheti.
 
 8.7.8. Rendellenes működés, meghibásodás esetén az emelő üzemeltetését a hiba elhárításáig be kell szüntetni.
 
@@ -728,7 +728,7 @@ Mindenkor alábakolást kell alkalmazni a gépjárművet egy helyen történő a
 
 – a levegővel való feltöltés megkezdése előtt meg kell győződni a rögzítő gyűrű biztonságos illeszkedéséről,
 
-– levegővel való feltöltésnél a vonatkozó szabvány előírásai szerinti, vagy azzal legalább egyenértékű kialakítású védőeszközt kell alkalmazni.[^71]
+– levegővel való feltöltésnél a vonatkozó szabvány előírásai szerinti, vagy azzal legalább egyenértékű kialakítású védőeszközt kell alkalmazni.[^73]
 
 8.14.2. Gumiabroncsokat csak a megengedett töltőnyomásig szabad levegővel feltölteni. A töltés során megfelelő mérőeszköznek kell rendelkezésre állnia.
 
@@ -834,7 +834,7 @@ Mindenkor alábakolást kell alkalmazni a gépjárművet egy helyen történő a
 
 8.22. Közúton végzett javítás, mentés
 
-8.22.1. A közúton végzett vontatást a vonatkozó jogszabály[^72] szabályai szerint kell végezni.
+8.22.1. A közúton végzett vontatást a vonatkozó jogszabály[^74] szabályai szerint kell végezni.
 
 8.22.2. Csörlő használata esetén nem szabad a mentőgépkocsi és a csörlővel húzott jármű között tartózkodni.
 
@@ -902,7 +902,7 @@ Mindenkor alábakolást kell alkalmazni a gépjárművet egy helyen történő a
 
 9.1. Gázüzemű gépjárművek javítása
 
-9.1.1. A gázüzemű gépjárművek javítását csak az előírt szakképesítéssel rendelkező személyek végezhetik.[^73]
+9.1.1. A gázüzemű gépjárművek javítását csak az előírt szakképesítéssel rendelkező személyek végezhetik.[^75]
 
 9.1.2. A gázüzemű gépjárművek gáz-tüzelőanyag ellátó berendezésének javítása csak olyan munkahelyen végezhető, amelynek kialakítása az általános biztonsági követelményeken túlmenően kielégíti a 6.12. pontban meghatározott külön jogszabály előírásait.
 
@@ -988,7 +988,7 @@ Ennek hiányában szakértői igazolás szükséges arról, hogy a tartály nem 
 
 A tartálykocsin bármilyen fenntartási tevékenység végzésénél mindenkor legalább két személynek kell jelen lenni, abban az esetben is, ha a munkavégzéshez egy személy is elegendő.
 
-9.2.6. A tartályban beszállással munkát végezni csak a vonatkozó biztonsági követelmények betartásával szabad.[^74]
+9.2.6. A tartályban beszállással munkát végezni csak a vonatkozó biztonsági követelmények betartásával szabad.[^76]
 
 9.2.7. A talajra kifolyt tűzveszélyes folyadékot veszélymentesíteni kell (pl. homokkal felitatni).
 
@@ -996,7 +996,7 @@ A tartálykocsin bármilyen fenntartási tevékenység végzésénél mindenkor 
 
 9.2.9. A tartályon, csővezetéken, szerelvényeken végzett javítás után tömítettség vizsgálatot kell végezni.
 
-9.2.10. A tartály hegesztését csak minősített hegesztő végezheti.[^75]
+9.2.10. A tartály hegesztését csak minősített hegesztő végezheti.[^77]
 
 9.2.11. A munkahely tűzoltó készülékkel történő ellátását a tűzrendészeti hatóság előírásai szerint kell megvalósítani.
 
@@ -1014,7 +1014,7 @@ A fenntartási tevékenység végzése a különleges anyagokat szállító gép
 
 A tisztítás, fertőtlenítés történhet:
 
-–[^76] a fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szervénél,
+–[^78] a fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szervénél,
 
 – tisztítás, fertőtlenítés végzésére engedéllyel rendelkező vállalkozóval,
 
@@ -1136,7 +1136,7 @@ Halottszállító gépjárművön karbantartási, javítási tevékenység fert�
 
 9.3.10. Élő állatokat szállító gépjárművek javítása
 
-Élő állatokat szállított gépjármű a külön jogszabályban[^77] meghatározott igazoltan tisztított, fertőtlenített állapotban javítható.
+Élő állatokat szállított gépjármű a külön jogszabályban[^79] meghatározott igazoltan tisztított, fertőtlenített állapotban javítható.
 
 9.4. Fertőtlenítési tevékenység
 
@@ -1172,9 +1172,9 @@ Azon különleges felépítményű gépjárművek esetében, amelyek állandó j
 
 10.5. Gépjárműemelők
 
-– Az emelők üzembe helyezéséhez kapcsolódó vizsgálatokat a külön jogszabályban[^78] meghatározottak szerint kell végezni.
+– Az emelők üzembe helyezéséhez kapcsolódó vizsgálatokat a külön jogszabályban[^80] meghatározottak szerint kell végezni.
 
-– Az időszakos felülvizsgálatok rendszerességét és tartalmát a külön jogszabály és szabvány[^79] előírásai szerint kell megállapítani.
+– Az időszakos felülvizsgálatok rendszerességét és tartalmát a külön jogszabály és szabvány[^81] előírásai szerint kell megállapítani.
 
 – Az emelők felújítása, áthelyezése vagy szerkezeti változtatása esetén az ismételt üzembe helyezés előtt szakirányú emelőgép szakértővel üzembe helyezési vizsgálatot kell végeztetni.
 
@@ -1184,7 +1184,7 @@ Azon különleges felépítményű gépjárművek esetében, amelyek állandó j
 
 A gépjárműfenntartás területén alkalmazásra kerülő, nem kifejezetten a gépjárművek emelésére készített egyéb emelő berendezések időszakos felülvizsgálatát a rájuk vonatkozó előírások szerint kell végezni és dokumentálni.
 
-10.7. Azoknál a diagnosztikai berendezéseknél, amelyek kalibrálási rendszeressége elő van írva[^80], a kalibrálás időpontjában a biztonságos működést is ellenőrizni kell.
+10.7. Azoknál a diagnosztikai berendezéseknél, amelyek kalibrálási rendszeressége elő van írva[^82], a kalibrálás időpontjában a biztonságos működést is ellenőrizni kell.
 
 10.8. A veszélyek megelőzésére vagy elhárítására szolgáló berendezések (pl. biztonsági világítás, szellőzéstechnikai berendezések, biztonsági vezérlések) állapotát, megfelelő működését évente legalább egyszer ellenőrizni kell. Az ellenőrzés megállapításait dokumentálni kell.
 
@@ -1278,54 +1278,54 @@ A Szabályzathoz kapcsolódó jogszabályok
 
 9/2001. (IV. 5.) GM rendelet a nyomástartó berendezések és rendszerek biztonsági követelményeiről és megfelelőség tanúsításáról.
 
-[^30]: A 3. számú melléklet a 136/2004. (XII. 16.) GKM rendelet 1. §-ával megállapított szöveg.
-[^31]: 1/1975. (II. 5.) KPM–BM együttes rendelet.
-[^32]: 1/1990. (IX. 29.) KHVM rendelet.
-[^33]: 20/1979. (IX. 18.) KPM rendelet.
-[^34]: 16/2001. (VII. 18.) KöM rendelet.
-[^35]: 213/2001. (XI. 14.) Korm. rendelet.
-[^36]: Mvt. 55. §, 14/2004. (IV. 19.) FMM rendelet.
-[^37]: 1/1990. (IX. 29.) KHVM rendelet.
-[^38]: 33/1998. (VI. 24.) NM rendelet.
-[^39]: 33/1998. (VI. 24.) NM rendelet.
-[^40]: Mvt. 21. §.
-[^41]: 14/2004. (IV. 19.) FMM rendelet és a 21/1998. (IV. 17.) IKIM rendelet.
-[^42]: 3/2002. (II. 8.) SZCSM–EüM együttes rendelet.
-[^43]: 25/2000. (IX. 30.) EüM–SZCSM együttes rendelet.
+[^32]: A 3. számú melléklet a 136/2004. (XII. 16.) GKM rendelet 1. §-ával megállapított szöveg.
+[^33]: 1/1975. (II. 5.) KPM–BM együttes rendelet.
+[^34]: 1/1990. (IX. 29.) KHVM rendelet.
+[^35]: 20/1979. (IX. 18.) KPM rendelet.
+[^36]: 16/2001. (VII. 18.) KöM rendelet.
+[^37]: 213/2001. (XI. 14.) Korm. rendelet.
+[^38]: Mvt. 55. §, 14/2004. (IV. 19.) FMM rendelet.
+[^39]: 1/1990. (IX. 29.) KHVM rendelet.
+[^40]: 33/1998. (VI. 24.) NM rendelet.
+[^41]: 33/1998. (VI. 24.) NM rendelet.
+[^42]: Mvt. 21. §.
+[^43]: 14/2004. (IV. 19.) FMM rendelet és a 21/1998. (IV. 17.) IKIM rendelet.
 [^44]: 3/2002. (II. 8.) SZCSM–EüM együttes rendelet.
-[^45]: 3/2002. (II. 8.) SZCSM–EüM együttes rendelet és a 2/1998. (I. 16.) MüM rendelet.
+[^45]: 25/2000. (IX. 30.) EüM–SZCSM együttes rendelet.
 [^46]: 3/2002. (II. 8.) SZCSM–EüM együttes rendelet.
-[^47]: 3/2002. (II. 8.) SZCSM–EüM együttes rendelet és az MSZ EN 12464–1.
-[^48]: 79/1997. (XII. 31.) IKIM rendelet.
-[^49]: MSZ–07–4050.
-[^50]: 2/1998. (I. 16.) MüM rendelet.
-[^51]: 25/2000. (IX. 30.) EüM–SZCSM együttes rendelet.
-[^52]: MSZ 1600–16.
-[^53]: MSZ–05–20.0511.
-[^54]: MSZ–07–4051.
-[^55]: 25/2000. (IX. 30.) EüM–SZCSM együttes rendelet.
-[^56]: 1/1990. (IX. 29.) KHVM rendelet.
-[^57]: 1/1990. (IX. 29.) KHVM rendelet.
-[^58]: MSZ–07–4050.
-[^59]: 3/2002. (II. 8.) SZCSM–EüM együttes rendelet.
-[^60]: 21/1998. (IV. 17.) IKIM rendelet, MSZ EN 1493; MSZ EN 1494.
-[^61]: MSZ 2143.
-[^62]: MSZ–05–50.2001.
-[^63]: MSZ 2142.
-[^64]: 2/1998. (I. 16.) MüM rendelet.
-[^65]: 2/2002. (II. 7.) SZCSM rendelet.
-[^66]: MSZ EN 471.
-[^67]: 65/1999. (XII. 22.) EüM rendelet.
-[^68]: 18/2001. (IV. 28.) EüM rendelet.
-[^69]: 2/1983. (II. 14.) EüM rendelet.
-[^70]: 47/1999. (VIII. 4.) GM rendelet.
-[^71]: MSZ–07–4456.
-[^72]: 1/1975. (II. 5.) KPM–BM együttes rendelet.
-[^73]: 1/1990. (IX. 29.) KHVM rendelet.
-[^74]: MSZ–09–57.0033.
-[^75]: 6/1996. (II. 21.) IKM rendelet.
-[^76]: A 3. számú melléklet 9. pont 9.3. pont 9.3.1. alpont negyedik franciabekezdése a 76/2012. (XII. 22.) NFM rendelet 2. §-ával megállapított szöveg.
-[^77]: 41/1997. (V. 28.) FM rendelet.
-[^78]: 47/1999. (VIII. 4.) GM rendelet.
-[^79]: 47/1999. (VIII. 4.) GM rendelet, MSZ–07–4446.
-[^80]: 1/1990. (IX. 29.) KHVM rendelet.
+[^47]: 3/2002. (II. 8.) SZCSM–EüM együttes rendelet és a 2/1998. (I. 16.) MüM rendelet.
+[^48]: 3/2002. (II. 8.) SZCSM–EüM együttes rendelet.
+[^49]: 3/2002. (II. 8.) SZCSM–EüM együttes rendelet és az MSZ EN 12464–1.
+[^50]: 79/1997. (XII. 31.) IKIM rendelet.
+[^51]: MSZ–07–4050.
+[^52]: 2/1998. (I. 16.) MüM rendelet.
+[^53]: 25/2000. (IX. 30.) EüM–SZCSM együttes rendelet.
+[^54]: MSZ 1600–16.
+[^55]: MSZ–05–20.0511.
+[^56]: MSZ–07–4051.
+[^57]: 25/2000. (IX. 30.) EüM–SZCSM együttes rendelet.
+[^58]: 1/1990. (IX. 29.) KHVM rendelet.
+[^59]: 1/1990. (IX. 29.) KHVM rendelet.
+[^60]: MSZ–07–4050.
+[^61]: 3/2002. (II. 8.) SZCSM–EüM együttes rendelet.
+[^62]: 21/1998. (IV. 17.) IKIM rendelet, MSZ EN 1493; MSZ EN 1494.
+[^63]: MSZ 2143.
+[^64]: MSZ–05–50.2001.
+[^65]: MSZ 2142.
+[^66]: 2/1998. (I. 16.) MüM rendelet.
+[^67]: 2/2002. (II. 7.) SZCSM rendelet.
+[^68]: MSZ EN 471.
+[^69]: 65/1999. (XII. 22.) EüM rendelet.
+[^70]: 18/2001. (IV. 28.) EüM rendelet.
+[^71]: 2/1983. (II. 14.) EüM rendelet.
+[^72]: 47/1999. (VIII. 4.) GM rendelet.
+[^73]: MSZ–07–4456.
+[^74]: 1/1975. (II. 5.) KPM–BM együttes rendelet.
+[^75]: 1/1990. (IX. 29.) KHVM rendelet.
+[^76]: MSZ–09–57.0033.
+[^77]: 6/1996. (II. 21.) IKM rendelet.
+[^78]: A 3. számú melléklet 9. pont 9.3. pont 9.3.1. alpont negyedik franciabekezdése a 76/2012. (XII. 22.) NFM rendelet 2. §-ával megállapított szöveg.
+[^79]: 41/1997. (V. 28.) FM rendelet.
+[^80]: 47/1999. (VIII. 4.) GM rendelet.
+[^81]: 47/1999. (VIII. 4.) GM rendelet, MSZ–07–4446.
+[^82]: 1/1990. (IX. 29.) KHVM rendelet.

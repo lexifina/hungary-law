@@ -10,7 +10,7 @@ HAJÓZÁSI MUNKÁK BIZTONSÁGI SZABÁLYZATA
 
 1.3 A Szabályzat a hajók üzemeltetésének, karbantartásának biztonságos elvégzéséhez szükséges intézkedésekről rendelkezik.
 
-1.4[^81] Magyar hajóval az országhatáron kívül, nemzetközi vízi úton folytatott hajózási tevékenység esetén a Szabályzat rendelkezéseit annyiban kell alkalmazni, amennyiben Magyarország által elfogadott, illetve elismert nemzetközi egyezmény, szerződés vagy megállapodás ettől eltérően nem rendelkezik.
+1.4[^83] Magyar hajóval az országhatáron kívül, nemzetközi vízi úton folytatott hajózási tevékenység esetén a Szabályzat rendelkezéseit annyiban kell alkalmazni, amennyiben Magyarország által elfogadott, illetve elismert nemzetközi egyezmény, szerződés vagy megállapodás ettől eltérően nem rendelkezik.
 
 1.5 A Szabályzat csak a legszükségesebb szintig foglalkozik azokkal az előírásokkal, melyek más rendeletekben, szabályzatokban rögzítve vannak.
 
@@ -54,25 +54,25 @@ HAJÓZÁSI MUNKÁK BIZTONSÁGI SZABÁLYZATA
 
 — a 18. életévét betöltötte,
 
-— egészségileg alkalmas,[^82]
+— egészségileg alkalmas,[^84]
 
 — legalább alapfokú hajózási ismeretekkel rendelkezik, melyet igazolni is tud,
 
 — a helyi sajátosságokra kellően ki van oktatva.
 
-3.2 Védőital és tisztálkodási szerek juttatása A munkáltató a munkavállaló részére megfelelő mennyiségű és minőségű védőitalt, valamint tisztálkodási szert köteles biztosítani.[^83]
+3.2 Védőital és tisztálkodási szerek juttatása A munkáltató a munkavállaló részére megfelelő mennyiségű és minőségű védőitalt, valamint tisztálkodási szert köteles biztosítani.[^85]
 
-3.3 Egyéni védőeszközök biztosítása Azokban a munkakörökben, ahol a munkavállaló egészsége, illetve testi épsége a munkavégzés vagy az alkalmazott technológiák, eszközök miatt veszélyeztetett, ott védőeszközt kell biztosítani, amely a munkáltató feladata.[^84] A védőeszközöket a munkavállaló köteles használni.
+3.3 Egyéni védőeszközök biztosítása Azokban a munkakörökben, ahol a munkavállaló egészsége, illetve testi épsége a munkavégzés vagy az alkalmazott technológiák, eszközök miatt veszélyeztetett, ott védőeszközt kell biztosítani, amely a munkáltató feladata.[^86] A védőeszközöket a munkavállaló köteles használni.
 
-3.4 Elsősegélynyújtás A hajóra beosztott személyzetből legalább egy főnek alapfokú elsősegélynyújtási ismeretekkel kell rendelkeznie. A hajókon mentődobozt kell elhelyezni.[^85]
+3.4 Elsősegélynyújtás A hajóra beosztott személyzetből legalább egy főnek alapfokú elsősegélynyújtási ismeretekkel kell rendelkeznie. A hajókon mentődobozt kell elhelyezni.[^87]
 
 3.5 Ellenőrzési jogosultság Hajózással kapcsolatos biztonságtechnikai ellenőrzést csak ellenőrzésre jogosult, megfelelő szakképesítéssel rendelkező személy végezhet.
 
-3.6 Biztonsági színjelölések Olyan munkahelyek, illetve munkaeszközök esetében, ahol veszélyforrás van, vagy figyelmeztetés szükséges — biztonsági színjelöléseket kell alkalmazni.[^86]
+3.6 Biztonsági színjelölések Olyan munkahelyek, illetve munkaeszközök esetében, ahol veszélyforrás van, vagy figyelmeztetés szükséges — biztonsági színjelöléseket kell alkalmazni.[^88]
 
 3.7 Veszélyes áruk szállítása
 
-3.7.1 Az emberekre, szállítóeszközökre és a környezetre veszélyes áruk szállítására a hatályos magyar jogszabályok és nemzetközi egyezmények, egyéb előírások,[^87] szabványok vonatkoznak.
+3.7.1 Az emberekre, szállítóeszközökre és a környezetre veszélyes áruk szállítására a hatályos magyar jogszabályok és nemzetközi egyezmények, egyéb előírások,[^89] szabványok vonatkoznak.
 
 3.7.2 A veszélyes áruk be- és kirakására vonatkozó előírásokat a fuvarozónak és a fuvaroztatónak egyaránt meg kell tartania.
 
@@ -90,7 +90,7 @@ HAJÓZÁSI MUNKÁK BIZTONSÁGI SZABÁLYZATA
 
 3.8 Hajón alkalmazott kötelekkel és azok kezelésével kapcsolatos előírások
 
-3.8.1 A hajózásnál csak olyan köteleket szabad használni, amelyek az adott körülményeknek (pl. terhelés, időjárás) megfelelnek és a felügyeleti szervek jóváhagytak.[^88]
+3.8.1 A hajózásnál csak olyan köteleket szabad használni, amelyek az adott körülményeknek (pl. terhelés, időjárás) megfelelnek és a felügyeleti szervek jóváhagytak.[^90]
 
 3.8.2 A köteleket (amennyiben nincsenek használatban) kötéldobon, vagy szabályosan felkarikázva kell tárolni.
 
@@ -110,7 +110,7 @@ HAJÓZÁSI MUNKÁK BIZTONSÁGI SZABÁLYZATA
 
 3.9.1 Munkát végezni csak kifogástalan állapotú horgonyberendezéssel szabad.
 
-3.9.2 A horgonyberendezést úgy kell kialakítani, hogy a kézi és a gépi meghajtás együtt ne legyen működtethető, illetve más veszélyhelyzetet ne okozzon.[^89]
+3.9.2 A horgonyberendezést úgy kell kialakítani, hogy a kézi és a gépi meghajtás együtt ne legyen működtethető, illetve más veszélyhelyzetet ne okozzon.[^91]
 
 3.9.3 A horgonynak a horgonyfészekbe való fekvése előtti helyét a horgonyláncon legalább 0,3 méter hosszúságú fehér színnel kell megjelölni.
 
@@ -120,7 +120,7 @@ HAJÓZÁSI MUNKÁK BIZTONSÁGI SZABÁLYZATA
 
 3.10.1 Azt a kezelési utasítás nem tiltja, továbbá a tárgy súlya kisebb az emelő berendezés teherbírásánál, a tárgy biztonságos megkötése, rögzítése megoldott, és az emelés senki biztonságát nem veszélyezteti.
 
-3.10.2 A csónakemelő berendezések kialakítására és üzemeltetésére a továbbiakban a vonatkozó előírások az irányadók.[^90]
+3.10.2 A csónakemelő berendezések kialakítására és üzemeltetésére a továbbiakban a vonatkozó előírások az irányadók.[^92]
 
 3.11 Áruraktárak nyitása-zárása
 
@@ -144,9 +144,9 @@ HAJÓZÁSI MUNKÁK BIZTONSÁGI SZABÁLYZATA
 
 3.12.4 A rakodás ideje alatt tilos a teher alatt, vagy annak mozgási körzetében közlekedni, illetve ott tartózkodni.
 
-3.12.5 Az árurakodás részletes műveleteit a vonatkozó rendelet tartalmazza.[^91]
+3.12.5 Az árurakodás részletes műveleteit a vonatkozó rendelet tartalmazza.[^93]
 
-3.13 Megvilágítás Minden olyan munkahelyet, ahol azt a munkavégzés biztonsága, jellege megköveteli, szükséges mértékben meg kell világítani a vonatkozó szabvány előírásainak megfelelően.[^92]
+3.13 Megvilágítás Minden olyan munkahelyet, ahol azt a munkavégzés biztonsága, jellege megköveteli, szükséges mértékben meg kell világítani a vonatkozó szabvány előírásainak megfelelően.[^94]
 
 3.14 Közlekedési utak kialakítása hajókon Belvízi hajókon a közlekedési utakat, tengeri hajókon legalább a kikötőbakok környékét csúszásmentesen kell kialakítani.
 
@@ -194,11 +194,11 @@ HAJÓZÁSI MUNKÁK BIZTONSÁGI SZABÁLYZATA
 
 3.18.4 A műhelymunkára csak az arra kiképzett személy osztható be.
 
-3.18.5 Hajókon végzett gáz-, illetve villanyhegesztési munkáknál a vonatkozó szabványok betartása kötelező.[^93]
+3.18.5 Hajókon végzett gáz-, illetve villanyhegesztési munkáknál a vonatkozó szabványok betartása kötelező.[^95]
 
 3.18.6 Hegesztési munkát végezni csak a szolgálati ág vezetőjének engedélyével szabad.
 
-3.19 Tankokban végzett munkák A munkák elvégzéséhez szükséges törpefeszültség előállítására használt áramátalakítót, valamint vezeték csatlakozást a tankba bevinni tilos. A tankokban végzett munkákkal kapcsolatban a vonatkozó szabvány előírásainak betartása kötelező.[^94]
+3.19 Tankokban végzett munkák A munkák elvégzéséhez szükséges törpefeszültség előállítására használt áramátalakítót, valamint vezeték csatlakozást a tankba bevinni tilos. A tankokban végzett munkákkal kapcsolatban a vonatkozó szabvány előírásainak betartása kötelező.[^96]
 
 3.20 Villamos munkák
 
@@ -210,11 +210,11 @@ HAJÓZÁSI MUNKÁK BIZTONSÁGI SZABÁLYZATA
 
 3.20.4 Az építésnél jóváhagyott eredeti kábeltervtől eltérő házilagos átalakításokat végezni tilos.
 
-3.20.5 A hajókon végzett villamos munkákkal kapcsolatban a vonatkozó szabványok betartása kötelező.[^95]
+3.20.5 A hajókon végzett villamos munkákkal kapcsolatban a vonatkozó szabványok betartása kötelező.[^97]
 
-3.21 Akkumulátorterek Az 50 Volt-nál nagyobb feszültségeket adó telepek csak önálló, zárt térben (akkutér) helyezhetők el. Az akkutérben alkalmazott szellőztetési módokra, világításra, fűtésre, szerelésre és karbantartási munkákra a szabványban foglaltak betartása kötelező.[^96]
+3.21 Akkumulátorterek Az 50 Volt-nál nagyobb feszültségeket adó telepek csak önálló, zárt térben (akkutér) helyezhetők el. Az akkutérben alkalmazott szellőztetési módokra, világításra, fűtésre, szerelésre és karbantartási munkákra a szabványban foglaltak betartása kötelező.[^98]
 
-3.22 Hajófenékben végzett munkák A padlólemezeket felszedés után úgy kell elhelyezni, hogy azok elmozdulás ellen biztosítva legyenek. A felszedett padlólemezek környékén figyelmeztető táblát kell kitenni. A hajófenékben a csavartengely közelében, menet közben csak vészhelyzetben szabad munkát végezni. Kettős fenékben csak a megfelelő szellőzés biztosításával, ha ez nem megoldható — csak légzőkészülék használatával végezhető munka. A munkák befejezése után a padlólemezeket azonnal vissza kell helyezni, a rajtuk lévő nyílásokat le kell zárni. A végzett munkáknál figyelembe kell venni a vonatkozó szabvány előírásait.[^97]
+3.22 Hajófenékben végzett munkák A padlólemezeket felszedés után úgy kell elhelyezni, hogy azok elmozdulás ellen biztosítva legyenek. A felszedett padlólemezek környékén figyelmeztető táblát kell kitenni. A hajófenékben a csavartengely közelében, menet közben csak vészhelyzetben szabad munkát végezni. Kettős fenékben csak a megfelelő szellőzés biztosításával, ha ez nem megoldható — csak légzőkészülék használatával végezhető munka. A munkák befejezése után a padlólemezeket azonnal vissza kell helyezni, a rajtuk lévő nyílásokat le kell zárni. A végzett munkáknál figyelembe kell venni a vonatkozó szabvány előírásait.[^99]
 
 3.23 Gépüzemi munkákra vonatkozó általános előírások
 
@@ -474,7 +474,7 @@ HAJÓZÁSI MUNKÁK BIZTONSÁGI SZABÁLYZATA
 
 5.2 Rakodóberendezések biztonsági előírásai
 
-5.2.1 A rakodóberendezések kezelését csak megfelelő vizsgával rendelkező személy végezheti.[^98]
+5.2.1 A rakodóberendezések kezelését csak megfelelő vizsgával rendelkező személy végezheti.[^100]
 
 5.2.2 Rakodóberendezéssel személyeket emelni csak függőszék használatával, vagy sérültnek nyújtandó segítségadás esetén szabad.
 
@@ -540,7 +540,7 @@ HAJÓZÁSI MUNKÁK BIZTONSÁGI SZABÁLYZATA
 
 5.4.8 Robbanó anyagot szállítani csak szikramentes anyagból készült ládában (dinamitbox) szabad.
 
-5.4.9 Ömlesztett áruk szállítása esetén a raktárakba a hajó hossztengelyével párhuzamosan függőleges térelválasztókat kell beépíteni. Az ömlesztett áruk szállítására a továbbiakban nemzetközi előírások az irányadók.[^99]
+5.4.9 Ömlesztett áruk szállítása esetén a raktárakba a hajó hossztengelyével párhuzamosan függőleges térelválasztókat kell beépíteni. Az ömlesztett áruk szállítására a továbbiakban nemzetközi előírások az irányadók.[^101]
 
 5.4.10 Olyan áruk szállítása esetén, amelyek nem rakhatók egymásra — vízszintes raktérosztó falakat (dohánypolc-rendszer) kell kiépíteni a hajó hossztengelyével párhuzamosan.
 
@@ -556,7 +556,7 @@ HAJÓZÁSI MUNKÁK BIZTONSÁGI SZABÁLYZATA
 
 5.5 Mentőcsónak, munkacsónak kezelése
 
-5.5.1 A mentő- illetve munkacsónakban tartózkodó személyeknek a nemzetközi egyezményben[^100] meghatározott mentőmellényt kell viselniük.
+5.5.1 A mentő- illetve munkacsónakban tartózkodó személyeknek a nemzetközi egyezményben[^102] meghatározott mentőmellényt kell viselniük.
 
 5.5.2 A csónakok vízre eresztése, illetve beemelése csak az ügyeletes tiszt engedélyével és irányításával történhet.
 
@@ -644,7 +644,7 @@ HAJÓZÁSI MUNKÁK BIZTONSÁGI SZABÁLYZATA
 
 6.2.9 Személyeket teheremelő elemmel szállítani szigorúan tilos.
 
-6.2.10 A daru üzemeltetésére vonatkozóan a továbbiakban a rendeletben foglaltak betartása kötelező.[^101]
+6.2.10 A daru üzemeltetésére vonatkozóan a továbbiakban a rendeletben foglaltak betartása kötelező.[^103]
 
 6.2.11 Olyan daruk esetében, ahol az akkumulátortér a gépműhelyből nyílik, nyílt láng használatával járó (pl. lánghegesztés) munkákat a műhelyben csak akkor szabad végezni, ha az akkutér ajtaja zárva van.
 
@@ -660,7 +660,7 @@ HAJÓZÁSI MUNKÁK BIZTONSÁGI SZABÁLYZATA
 
 6.3.5 Minden kotrási munkára részletes kotrási tervet kell készíteni.
 
-6.3.6 A kotrási tevékenység ,,Vízjogi engedély'' köteles.[^102]
+6.3.6 A kotrási tevékenység ,,Vízjogi engedély'' köteles.[^104]
 
 6.3.7 A kotrási munkálatokat úgy kell megtervezni, hogy az úszó munkagép mellett a hajók áthaladásához a megfelelő méretű és kijelölt hajóút biztosítva legyen.
 
@@ -722,7 +722,7 @@ HAJÓZÁSI MUNKÁK BIZTONSÁGI SZABÁLYZATA
 
 6.4.6 A cölöpverő berendezés üzemeltetése közben a cölöpverő kalapács kezelési utasításában előírt biztonságtechnikai szabályokat be kell tartani.
 
-6.4.7 A hegesztő berendezések valamint sűrített levegős kéziszerszámok használatakor azok kezelési utasításában és a vonatkozó szabványban előírt utasítások betartása kötelező.[^103]
+6.4.7 A hegesztő berendezések valamint sűrített levegős kéziszerszámok használatakor azok kezelési utasításában és a vonatkozó szabványban előírt utasítások betartása kötelező.[^105]
 
 6.4.8 Sűrített levegős szerszámokkal (köszörű, légkalapács stb.) történő munkavégzés alatt a lepattanó szikrák, forgácsok ellen védőszemüveg vagy védőálarc használata kötelező.
 
@@ -882,13 +882,13 @@ HAJÓZÁSI MUNKÁK BIZTONSÁGI SZABÁLYZATA
 
 9.6 Elsüllyedt hajó eltávolítása
 
-9.6.1 A hajóútban elsüllyedt és a forgalmat veszélyeztető hajó eltávolításáról, a kiemelésben résztvevő egységek, emelőtagok megjelöléséről a Hajózási Szabályzat rendelkezik.[^104]
+9.6.1 A hajóútban elsüllyedt és a forgalmat veszélyeztető hajó eltávolításáról, a kiemelésben résztvevő egységek, emelőtagok megjelöléséről a Hajózási Szabályzat rendelkezik.[^106]
 
 10. KIKÖTŐK
 
 10.1 Kikötői tevékenység medencés kikötőben
 
-10.1.1 A hajó kikötőbe történő be- illetve kihajózásakor a Hajózási Szabályzat előírásainak megtartása kötelező[^105]
+10.1.1 A hajó kikötőbe történő be- illetve kihajózásakor a Hajózási Szabályzat előírásainak megtartása kötelező[^107]
 
 10.1.2 Medencés kikötőkben a gép nélküli hajók mozgatására úgynevezett kikötői boxer-hajókat kell biztosítani.
 
@@ -1112,28 +1112,28 @@ ILO 164. sz. Egyezmény a tengerészek egészségvédelméről és orvosi ellát
 
 Életbiztonság a tengeren tárgyú nemzetközi egyezmény (SOLAS 1974.) és módosításai (1981., 1983., 1987., 1988., 1989., 1990.)
 
-[^81]: A 4. számú melléklet 1. pont 1.4. alpontja a 91/2011. (XII. 30.) NFM rendelet 2. §-a szerint módosított szöveg.
-[^82]: Lásd: 6/1977. (XII. 9.) KPM—EüM együttes rendeletet.
-[^83]: Lásd: 15/1980. (XII. 29.) EüM rendeletet.
-[^84]: Lásd: 3/1979. (V. 29.) EüM rendeletet.
-[^85]: Lásd: MSZ 13553.
-[^86]: Lásd: MSZ 17066
-[^87]: Lásd: 2/1982. (II. 22.) KPM rendeletet.
-[^88]: Lásd: Tengeri Hajók Műszaki Felügyeleti Előírásai osztályozási és építési előírások I. 1—5. rész 13.1—14.3.3-ig és a Belvízi Hajók Műszaki Felügyeleti Előírásai III. rész Berendezések, felszerelések és leltár c. kötet 4.3.1—4.3.7-ig.
-[^89]: Lásd: Belvízi Hajók Műszaki Felügyeleti Előírásai és a Tengeri Hajók Műszaki Felügyeleti Előírásai I. kötet, 3. rész.
-[^90]: Lásd: 1/1978. (I. 28.) KGM—KPM—ÉVM együttes rendeletet.
-[^91]: Lásd: 2/1972. (MK. 6.) KPM rendeletet.
-[^92]: Lásd: MSZ 6240-2...-4.
-[^93]: Lásd: MSZ 4316-1, 2; MSZ 4319-1; MSZ 4326-1; MSZ 3048-6; MSZ 6292, MSZ-05-83.3300
-[^94]: Lásd: MSZ-09-57.0033.
-[^95]: Lásd: MSZ 1600-1…-16, MSZ-05-46.2001, MSZ-05-46.2201, MI-05-46.0220.
-[^96]: Lásd: MSZ 1600-1…-16, MSZ-05-46.2001, MSZ-05-46.2201, MI-05-46.0220.
-[^97]: Lásd: MSZ 14399, MSZ-09-57.0033.
-[^98]: Lásd: 1/1978. (I.28.) KGM—KPM—ÉVM együttes rendeletet.
-[^99]: Lásd: IMO A. 262. (VIII.) Gabonaszállítás szabályai.
-[^100]: Lásd: Életbiztonság a tengeren tárgyú nemzetközi egyezményt (SOLAS).
-[^101]: Lásd: 1/1978. (I. 28.) KGM—KPM—ÉVM együttes rendeletet.
-[^102]: Lásd: 1964. évi IV. törvényt (Vízügyi Törvény).
-[^103]: Lásd: MSZ 3048-6, MSZ 4316-1…-2, MSZ 4319-1, MSZ 4326-1, MSZ 6292, MSZ-05-83.3300
-[^104]: Lásd: 8/1979. (V. 15.) KPM rendeletet.
-[^105]: Lásd: 8/1979. (V. 15.) KPM rendeletet.
+[^83]: A 4. számú melléklet 1. pont 1.4. alpontja a 91/2011. (XII. 30.) NFM rendelet 2. §-a szerint módosított szöveg.
+[^84]: Lásd: 6/1977. (XII. 9.) KPM—EüM együttes rendeletet.
+[^85]: Lásd: 15/1980. (XII. 29.) EüM rendeletet.
+[^86]: Lásd: 3/1979. (V. 29.) EüM rendeletet.
+[^87]: Lásd: MSZ 13553.
+[^88]: Lásd: MSZ 17066
+[^89]: Lásd: 2/1982. (II. 22.) KPM rendeletet.
+[^90]: Lásd: Tengeri Hajók Műszaki Felügyeleti Előírásai osztályozási és építési előírások I. 1—5. rész 13.1—14.3.3-ig és a Belvízi Hajók Műszaki Felügyeleti Előírásai III. rész Berendezések, felszerelések és leltár c. kötet 4.3.1—4.3.7-ig.
+[^91]: Lásd: Belvízi Hajók Műszaki Felügyeleti Előírásai és a Tengeri Hajók Műszaki Felügyeleti Előírásai I. kötet, 3. rész.
+[^92]: Lásd: 1/1978. (I. 28.) KGM—KPM—ÉVM együttes rendeletet.
+[^93]: Lásd: 2/1972. (MK. 6.) KPM rendeletet.
+[^94]: Lásd: MSZ 6240-2...-4.
+[^95]: Lásd: MSZ 4316-1, 2; MSZ 4319-1; MSZ 4326-1; MSZ 3048-6; MSZ 6292, MSZ-05-83.3300
+[^96]: Lásd: MSZ-09-57.0033.
+[^97]: Lásd: MSZ 1600-1…-16, MSZ-05-46.2001, MSZ-05-46.2201, MI-05-46.0220.
+[^98]: Lásd: MSZ 1600-1…-16, MSZ-05-46.2001, MSZ-05-46.2201, MI-05-46.0220.
+[^99]: Lásd: MSZ 14399, MSZ-09-57.0033.
+[^100]: Lásd: 1/1978. (I.28.) KGM—KPM—ÉVM együttes rendeletet.
+[^101]: Lásd: IMO A. 262. (VIII.) Gabonaszállítás szabályai.
+[^102]: Lásd: Életbiztonság a tengeren tárgyú nemzetközi egyezményt (SOLAS).
+[^103]: Lásd: 1/1978. (I. 28.) KGM—KPM—ÉVM együttes rendeletet.
+[^104]: Lásd: 1964. évi IV. törvényt (Vízügyi Törvény).
+[^105]: Lásd: MSZ 3048-6, MSZ 4316-1…-2, MSZ 4319-1, MSZ 4326-1, MSZ 6292, MSZ-05-83.3300
+[^106]: Lásd: 8/1979. (V. 15.) KPM rendeletet.
+[^107]: Lásd: 8/1979. (V. 15.) KPM rendeletet.

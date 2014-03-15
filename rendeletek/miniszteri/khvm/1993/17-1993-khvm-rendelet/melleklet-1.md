@@ -32,7 +32,7 @@ VASÚTÜZEMI MUNKÁK BIZTONSÁGI SZABÁLYZATA
 
 1.2.1 Az 1.2 pontban meghatározott vezető feladata a munkáltató belső vasútüzemi forgalmi, kereskedelmi és vontatási tevékenységének irányítása és ellenőrzése, a belső utasítások kidolgozása, más vasútüzemhez való csatlakozás, illetve — szerződés szerint — a belső vasútüzemhez kapcsolódó közforgalmú vasúthálózattal kapcsolattartás, valamint a vasútüzem lebonyolításához szükséges vágányhálózat, berendezések és létesítmények üzembiztos állapotának biztosítása.
 
-1.2.2 A különböző gazdálkodó szervezetek egymáshoz kapcsolódó vasútüzemi tevékenységi területeit munkavégzés és munkairányítás szempontjából egymástól el kell határolni. A közös munkaterületeken — egyéb megállapodás hiányában — az Országos Vasúti Szabályzat előírásainak figyelembevételével az országos közforgalmú vasutakra vonatkozó előírásokat kell értelemszerűen alkalmazni.
+1.2.2[^3] A különböző, a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezetek (a továbbiakban: gazdálkodó szervezetek) egymáshoz kapcsolódó vasútüzemi tevékenységi területeit munkavégzés és munkairányítás szempontjából egymástól el kell határolni. A közös munkaterületeken — egyéb megállapodás hiányában — az Országos Vasúti Szabályzat előírásainak figyelembevételével az országos közforgalmú vasutakra vonatkozó előírásokat kell értelemszerűen alkalmazni.
 
 1.3 A szabályzat szempontjából veszélyes gépnek, berendezésnek, tevékenységnek minősül:
 
@@ -152,11 +152,11 @@ VASÚTÜZEMI MUNKÁK BIZTONSÁGI SZABÁLYZATA
 
 3.4.2 A biztonságos munkavégzésre alkalmatlan állapotban jelentkező, vagy munkája során biztonságos munkavégzésre alkalmatlanná váló munkavállalót a vasútüzem területéről el kell távolítani. A biztonságos eltávolításról a munkáltató köteles gondoskodni.
 
-3.5 Az ugyanazon körülmények között ismételten foglalkozási balesetet okozó, vagy önhibájából szenvedő, illetőleg fokozott veszélyhelyzetet többször előidéző munkavállaló munkakörében történő további foglalkoztatást a vonatkozó jogszabályok[^3] rendelkezései alapján kell elbírálni.
+3.5 Az ugyanazon körülmények között ismételten foglalkozási balesetet okozó, vagy önhibájából szenvedő, illetőleg fokozott veszélyhelyzetet többször előidéző munkavállaló munkakörében történő további foglalkoztatást a vonatkozó jogszabályok[^4] rendelkezései alapján kell elbírálni.
 
 4. A VASÚTÜZEM BIZTONSÁGÁNAK SZEMÉLYI KÖVETELMÉNYEI
 
-4.1 A vasútüzemi szakmai követelményt igénylő munkakörben, valamint a vasútüzemi végrehajtó munkakörökben önálló munkavégzésre csak olyan munkavállaló alkalmazható, aki — a jogszabály által[^4] megkövetelt egyéb feltételek mellett — az előírt szakmai képesítéssel rendelkezik, illetőleg szakmai ismereteit a gyakorlatban alkalmazni tudja.
+4.1 A vasútüzemi szakmai követelményt igénylő munkakörben, valamint a vasútüzemi végrehajtó munkakörökben önálló munkavégzésre csak olyan munkavállaló alkalmazható, aki — a jogszabály által[^5] megkövetelt egyéb feltételek mellett — az előírt szakmai képesítéssel rendelkezik, illetőleg szakmai ismereteit a gyakorlatban alkalmazni tudja.
 
 4.1.1 A vasútüzemi szakmai ismeretek folyamatos szintentartását, fejlesztését önképzés, oktatás és továbbképzés keretében kell biztosítani, megfelelőségét a munkáltató által meghatározott munkakörökben beszámoltatással, vagy időszakos vizsgáztatással kell ellenőrizni.
 
@@ -186,7 +186,7 @@ VASÚTÜZEMI MUNKÁK BIZTONSÁGI SZABÁLYZATA
 
 4.9 Fiatalkorú munkavállaló a vasúti forgalom lebonyolításával közvetlenül összefüggő munkakörökben csak felügyelet mellett tanulóként, a vasúti forgalom lebonyolításának technológiai területein egyéb munkakörökben csak felügyelet mellett foglalkoztatható.
 
-4.10 Vasútüzemi tevékenységet csak az a munkavállaló végezhet, aki — az előírt egyéb feltételeken kívül — egészségileg alkalmas és a foglalkoztatását jogszabály[^5] nem tiltja.
+4.10 Vasútüzemi tevékenységet csak az a munkavállaló végezhet, aki — az előírt egyéb feltételeken kívül — egészségileg alkalmas és a foglalkoztatását jogszabály[^6] nem tiltja.
 
 4.11 Az egészségügyi kockázattal járó tevékenységekkel megbízott munkavállalókat tájékoztatni kell a tevékenység egészségkárosodással járó veszélyeiről és megelőzésének módjáról.
 
@@ -204,13 +204,13 @@ VASÚTÜZEMI MUNKÁK BIZTONSÁGI SZABÁLYZATA
 
 5.1.5 Ártalmas és veszélyes munkaterületeken a közlekedő utak mellett az előírt védőtávolságokat — a biztonságos közlekedés céljából — biztosítani kell.
 
-5.1.6 Hatósági kijelölés alapján a vágányok mellett tolatásnál, rakodásnál, kezelésnél a munkát végző vagy engedéllyel közlekedő személyek részére az elsodrási határon kívül legalább 1,00 m széles és 2,50 m magas üzemi közlekedési teret kell biztosítani. A közlekedési terek űrszerelvényébe érő tárgyakat — váltóállító készülék és törpe tolatásjelző kivételével — biztonsági színjelzéssel[^6] kell ellátni. Nem kell közlekedési teret — biztosítani a közúti és föld alatti vasutaknál valamint az alagutakban.
+5.1.6 Hatósági kijelölés alapján a vágányok mellett tolatásnál, rakodásnál, kezelésnél a munkát végző vagy engedéllyel közlekedő személyek részére az elsodrási határon kívül legalább 1,00 m széles és 2,50 m magas üzemi közlekedési teret kell biztosítani. A közlekedési terek űrszerelvényébe érő tárgyakat — váltóállító készülék és törpe tolatásjelző kivételével — biztonsági színjelzéssel[^7] kell ellátni. Nem kell közlekedési teret — biztosítani a közúti és föld alatti vasutaknál valamint az alagutakban.
 
 5.2 Közlekedőutak, kijáratok
 
 5.2.1 Közlekedőutak munkahelyiségekben
 
-5.2.1.1 A közlekedőutak mennyiségét és elosztását — a vonatkozó jogszabályokban[^7] foglaltak figyelembevételével — úgy kell kijelölni, hogy rendeltetési céljuk szerint járművel, vagy gyalog biztonságosan közlekedni lehessen rajtuk, és az utak mellett foglalkoztatott személyeket vagy berendezéseket a közlekedés ne veszélyeztesse.
+5.2.1.1 A közlekedőutak mennyiségét és elosztását — a vonatkozó jogszabályokban[^8] foglaltak figyelembevételével — úgy kell kijelölni, hogy rendeltetési céljuk szerint járművel, vagy gyalog biztonságosan közlekedni lehessen rajtuk, és az utak mellett foglalkoztatott személyeket vagy berendezéseket a közlekedés ne veszélyeztesse.
 
 5.2.1.2 A gépi hajtású szállítóeszközök számára létesített közlekedőutaknak olyan szélesnek kell lenni, hogy a szállítóeszköz és a közlekedőút széle között mindkét oldalon legalább 0,50 m biztonsági távolság legyen.
 
@@ -246,7 +246,7 @@ VASÚTÜZEMI MUNKÁK BIZTONSÁGI SZABÁLYZATA
 
 5.2.4 Menekülőutak, vészkijáratok
 
-5.2.4.1 A menekülőutakat és vészkijáratokat a vonatkozó szabvány szerint[^8] kell megjelölni és azoknak lehetőleg a legrövidebb úton kell a szabadba, vagy a kijelölt helyre vezetniük.
+5.2.4.1 A menekülőutakat és vészkijáratokat a vonatkozó szabvány szerint[^9] kell megjelölni és azoknak lehetőleg a legrövidebb úton kell a szabadba, vagy a kijelölt helyre vezetniük.
 
 5.2.4.2 A menekülőutak és vészkijáratok nem szűkülhetnek össze, azokat még átmenetileg sem szabad tárolásra vagy raktározásra használni.
 
@@ -284,7 +284,7 @@ VASÚTÜZEMI MUNKÁK BIZTONSÁGI SZABÁLYZATA
 
 5.5.1 Teherrakodó jellegű építmények rakodó területeit az alkalmazott rakodási technológia figyelembevételével kell kialakítani.
 
-5.5.2 A rakodók mindkét végén feljáratot kell létesíteni. A feljárat — a rakodási technológia figyelembevételével — szilárd burkolatú lépcső vagy lejtő lehet. A feljárati lépcső, lejtő műszaki követelményeit a vonatkozó előírások figyelembevételével[^9] külön kell meghatározni.
+5.5.2 A rakodók mindkét végén feljáratot kell létesíteni. A feljárat — a rakodási technológia figyelembevételével — szilárd burkolatú lépcső vagy lejtő lehet. A feljárati lépcső, lejtő műszaki követelményeit a vonatkozó előírások figyelembevételével[^10] külön kell meghatározni.
 
 5.5.3 A rakodókat és feljáratokat szükség esetén mesterséges megvilágítással kell ellátni.
 
@@ -314,7 +314,7 @@ VASÚTÜZEMI MUNKÁK BIZTONSÁGI SZABÁLYZATA
 
 5.8.2 Járművezetői vagy kezelői engedélyhez kötött gépeket, berendezéseket illetéktelenek által történő megindítását megakadályozó védelemmel kell ellátni.
 
-5.8.3 Zárt térben belsőégésű motorral üzemelő anyagmozgató berendezések működtetése során a légtér szennyezettsége a vonatkozó szabványban előírt[^10] határértéket nem haladhatja meg.
+5.8.3 Zárt térben belsőégésű motorral üzemelő anyagmozgató berendezések működtetése során a légtér szennyezettsége a vonatkozó szabványban előírt[^11] határértéket nem haladhatja meg.
 
 5.9 Féksaruk
 
@@ -352,11 +352,11 @@ VASÚTÜZEMI MUNKÁK BIZTONSÁGI SZABÁLYZATA
 
 5.11.4 Föld alatti vasutaknál a jelző-, vasútbiztosító-, forgalomirányító- és hírközlő rendszer együttes és teljes használhatatlansága esetén a forgalmat tovább folytatni tilos.
 
-5.11.5 Valamennyi, az 5.10 és 5.11 pont alá tartozó vontatójárművet a vonatkozó szabvány[^11] szerinti elsősegélynyújtó felszereléssel kell ellátni.
+5.11.5 Valamennyi, az 5.10 és 5.11 pont alá tartozó vontatójárművet a vonatkozó szabvány[^12] szerinti elsősegélynyújtó felszereléssel kell ellátni.
 
 5.12 Villamos vontatás helyhezkötött berendezései
 
-5.12.1 Érintésvédelemmel kell ellátni a villamos vontatás nagyfeszültségű helyhezkötött berendezéseit és azok közelében lévő, a vonatkozó szabvány szerinti[^12] nagykiterjedésű fémtárgyakat.
+5.12.1 Érintésvédelemmel kell ellátni a villamos vontatás nagyfeszültségű helyhezkötött berendezéseit és azok közelében lévő, a vonatkozó szabvány szerinti[^13] nagykiterjedésű fémtárgyakat.
 
 5.12.2 A villamos vontatási berendezések olyan részeit, amelyhez a kezelő személyzeten kívül mások is hozzáférhetnek és ez baleseti veszélyt idézhet elő, el kell látni a feszültségre figyelmeztető jellel vagy felirattal.
 
@@ -512,7 +512,7 @@ VASÚTÜZEMI MUNKÁK BIZTONSÁGI SZABÁLYZATA
 
 6.6.7 A villamos vontatás energiaellátását biztosító berendezéseken kapcsolást, kezelést, földelést csak az erre feljogosított személy végezhet.
 
-6.6.8 Villamos vontatásra kiépített vasúti pályák szolgálati helyein ki kell függeszteni a vonatkozó szabvány szerinti[^13] villamos elsősegélynyújtást tartalmazó ismertetőt.
+6.6.8 Villamos vontatásra kiépített vasúti pályák szolgálati helyein ki kell függeszteni a vonatkozó szabvány szerinti[^14] villamos elsősegélynyújtást tartalmazó ismertetőt.
 
 6.6.9 Áramütés esetén a sérültet akkor is meg kell orvossal vizsgáltani, ha az áramütésnek látszólag semmilyen következménye sincs.
 
@@ -560,7 +560,7 @@ VASÚTÜZEMI MUNKÁK BIZTONSÁGI SZABÁLYZATA
 
 6.9.3 Az olyan ruhát, meghibásodott védőfelszerelést, lábbelit, amely balesetveszélyes helyzetet idézhet elő, munkavégzés közben tilos használni.
 
-6.9.4 A vasútüzemi munkakörökben a tevékenységek során jelentkező ártalmak és veszélyek megelőzéséhez szükséges védőfelszereléseket, tisztálkodószereket, bőrvédő készítményeket, illetve juttatásuk rendjét a hatályos jogszabályok[^14] előírásainak figyelembevételével a munkáltató köteles meghatározni.
+6.9.4 A vasútüzemi munkakörökben a tevékenységek során jelentkező ártalmak és veszélyek megelőzéséhez szükséges védőfelszereléseket, tisztálkodószereket, bőrvédő készítményeket, illetve juttatásuk rendjét a hatályos jogszabályok[^15] előírásainak figyelembevételével a munkáltató köteles meghatározni.
 
 7. MUNKAVÉGZÉSRE VONATKOZÓ BIZTONSÁGI ELŐÍRÁSOK
 
@@ -800,7 +800,7 @@ A vontatókötélnek vagy láncnak legalább 2,50 m hosszúnak kell lennie. A mo
 
 7.15. Veszélyes anyagok szállításának biztonsága
 
-7.15.1 Veszélyes anyagot, tárgyat szállító vasúti járművet, küldemény darabot a vonatkozó előírás[^15] figyelembevételével kell fuvarozni és megkülönböztető jelzéssel kell ellátni.
+7.15.1 Veszélyes anyagot, tárgyat szállító vasúti járművet, küldemény darabot a vonatkozó előírás[^16] figyelembevételével kell fuvarozni és megkülönböztető jelzéssel kell ellátni.
 
 7.15.2 A veszélyes anyagok fuvarozása során bekövetkező veszélyeztetés megszüntetéséhez szükséges intézkedéseket a munkáltató határozza meg.
 
@@ -817,16 +817,17 @@ A vontatókötélnek vagy láncnak legalább 2,50 m hosszúnak kell lennie. A mo
 8.2 A szabályzat 3.1.2 pontjában meghatározott munkáltatói szabályozást a rendelet hatálybalépésétől számított egy éven belül el kell készíteni.
 
 [^2]: A rendelet mellékletei a KHVM Értestő 1993. évi 13. számában jelentek meg.
-[^3]: Lásd: 1992. évi XXII. törvény és a 14/1985. (XI. 30.) KM rendeletet.
-[^4]: Lásd: 14/1985. (XI. 30.) KM rendelet.
-[^5]: Lásd: 4/1981. (III. 31.) EüM rendeletet, 6/1982. (VI. 12.) EüM rendeletet, 14/1985. (XI. 30.) KM rendeletet.
-[^6]: Lásd: MSZ 17066.
-[^7]: Lásd: 4/1980. (XI. 25.) BM rendeletet, 2/1986. (II. 27.) ÉVM rendeletet.
-[^8]: Lásd: MSZ 17066.
-[^9]: Lásd: 2/1986. (II. 27.) ÉVM rendelet.
-[^10]: Lásd: MSZ 21461.
-[^11]: Lásd: MSZ 13553
-[^12]: Lásd: MSZ-07-2506.
-[^13]: Lásd: MSZ 1585
-[^14]: Lásd: 3/1979. (V. 29.) EüM rendeletet, 2/1983. (II. 14.) EüM rendeletet.
-[^15]: Lásd: 4/1987. (V. 13.) KM rendeletet, 12/1990. (IV. 30.) KöHÉM rendeletet.
+[^3]: Az 1. számú melléklet 1.2.2 pontja a 12/2014. (III. 14.) NFM rendelet 3. § a) pontja szerint módosított szöveg.
+[^4]: Lásd: 1992. évi XXII. törvény és a 14/1985. (XI. 30.) KM rendeletet.
+[^5]: Lásd: 14/1985. (XI. 30.) KM rendelet.
+[^6]: Lásd: 4/1981. (III. 31.) EüM rendeletet, 6/1982. (VI. 12.) EüM rendeletet, 14/1985. (XI. 30.) KM rendeletet.
+[^7]: Lásd: MSZ 17066.
+[^8]: Lásd: 4/1980. (XI. 25.) BM rendeletet, 2/1986. (II. 27.) ÉVM rendeletet.
+[^9]: Lásd: MSZ 17066.
+[^10]: Lásd: 2/1986. (II. 27.) ÉVM rendelet.
+[^11]: Lásd: MSZ 21461.
+[^12]: Lásd: MSZ 13553
+[^13]: Lásd: MSZ-07-2506.
+[^14]: Lásd: MSZ 1585
+[^15]: Lásd: 3/1979. (V. 29.) EüM rendeletet, 2/1983. (II. 14.) EüM rendeletet.
+[^16]: Lásd: 4/1987. (V. 13.) KM rendeletet, 12/1990. (IV. 30.) KöHÉM rendeletet.
