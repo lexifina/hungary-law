@@ -14,8 +14,11 @@ e) azonosító jel: a tulajdonos és az állat egyedazonosságának megállapít
 
 f) minősítő: a vágósertések minősítésére a vágóállatok vágás utáni minősítéséről szóló jogszabály szerint jogosult természetes személy;
 
-g) minősítő szervezet: a vágósertések minősítésére a vágóállatok vágás utáni minősítéséről szóló jogszabály szerint jogosult, Magyarországon bejegyzett jogi személy vagy jogi személyiséggel nem rendelkező gazdasági társaság;
+g)[^1] minősítő szervezet: a vágósertések minősítésére a vágóállatok vágás utáni minősítéséről szóló jogszabály szerint jogosult, Magyarországon bejegyzett jogi személy vagy jogi személyiséggel nem rendelkező szervezet;
 
 h) termelő: vágósertést előállító tenyésztő, hizlaló;
 
-i) vágósertés kis- vagy nagykereskedő: a vágósertést a termelőtől megvásárló, vágóhídnak értékesítő természetes személy vagy egyéni vállalkozó, jogi személy vagy jogi személyiséggel nem rendelkező gazdasági társaság.
+i)[^2] vágósertés kis- vagy nagykereskedő: a vágósertést a termelőtől megvásárló, vágóhídnak értékesítő természetes személy vagy egyéni vállalkozó, jogi személy vagy jogi személyiséggel nem rendelkező szervezet.
+
+[^1]: Az 1. § g) pontja a 22/2014. (III. 14.) VM rendelet 83. §-a szerint módosított szöveg.
+[^2]: Az 1. § i) pontja a 22/2014. (III. 14.) VM rendelet 83. §-a szerint módosított szöveg.

@@ -14,9 +14,9 @@ d) a hasított sertések magyarországi osztályozási módszereinek engedélyez
 
 végrehajtásához szükséges rendelkezéseket állapítja meg.
 
-(3)[^2]
+(3)[^4]
 
-(4)[^3]
+(4)[^5]
 
-[^2]: A 8. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: A 8. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 8. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 8. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

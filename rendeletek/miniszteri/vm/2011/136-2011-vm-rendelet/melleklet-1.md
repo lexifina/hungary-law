@@ -1,3 +1,3 @@
-1. melléklet a 136/2011. (XI. 22.) VM rendelethez[^4]
+1. melléklet a 136/2011. (XI. 22.) VM rendelethez[^6]
 
-[^4]: Az 1. melléklet 1. pontját a 8. § (4) bekezdése hatályon kívül helyezte.
+[^6]: Az 1. melléklet 1. pontját a 8. § (4) bekezdése hatályon kívül helyezte.
