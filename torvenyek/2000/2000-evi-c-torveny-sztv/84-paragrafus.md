@@ -1,4 +1,4 @@
-84. § (1) Kapott (járó) osztalék és részesedés a tulajdoni részesedést jelentő befektetés után kapott, az adózott eredményből járó összeg (ideértve a kamatozó részvények után kapott, illetve járó kamatot is), amennyiben az a mérlegkészítés időpontjáig ismertté vált.
+84. § (1) Kapott (járó) osztalék és részesedés a tulajdoni részesedést jelentő befektetés után kapott, az adózott eredményből járó összeg (ideértve a kamatozó részvények után kapott, illetve járó kamatot, valamint a bizalmi vagyonkezelés során a vagyonrendelőnek kifizetett, illetve járó hozamot is), amennyiben az a mérlegkészítés időpontjáig ismertté vált.
 
 (2) Részesedések értékesítésének árfolyamnyereségeként kell kimutatni a befektetett pénzügyi eszközök között lévő tulajdoni részesedést jelentő befektetés értékesítésekor az értékesített befektetés eladási ára és könyv szerinti értéke közötti – nyereségjellegű – különbözetet.
 

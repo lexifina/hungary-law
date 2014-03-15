@@ -1,4 +1,4 @@
-27. § (1) A befektetett pénzügyi eszközök között a mérlegben azokat az eszközöket (részesedés, értékpapír, adott kölcsön) kell kimutatni, amelyeket a vállalkozó azzal a céllal fektetett be más vállalkozónál, adott át más vállalkozónak, hogy ott tartós jövedelemre (osztalékra, illetve kamatra) tegyen szert, vagy befolyásolási, irányítási, ellenőrzési lehetőséget érjen el. A befektetett pénzügyi eszközök értékhelyesbítését szintén a befektetett pénzügyi eszközök között kell a mérlegben kimutatni.
+27. § (1) A befektetett pénzügyi eszközök között a mérlegben azokat az eszközöket (részesedés, értékpapír, adott kölcsön) kell kimutatni, amelyeket a vállalkozó azzal a céllal fektetett be más vállalkozónál, adott át más vállalkozónak, hogy ott tartós jövedelemre (osztalékra, illetve kamatra) tegyen szert, vagy befolyásolási, irányítási, ellenőrzési lehetőséget érjen el. A kezelt vagyonra szóló tartós követelést, valamint a befektetett pénzügyi eszközök értékhelyesbítését szintén a befektetett pénzügyi eszközök között kell a mérlegben kimutatni.
 
 (2) Tartós részesedés kapcsolt vállalkozásban mérlegtételként a 3. § (2) bekezdésének 7. pontja szerinti vállalkozásban lévő tulajdoni részesedést jelentő, tartósan befolyásolási, irányítási, ellenőrzési lehetőséget biztosító befektetéseket (részvényeket, üzletrészeket, vagyoni betéteket) kell kimutatni.
 
@@ -13,3 +13,5 @@
 (7) Tartós hitelviszonyt megtestesítő értékpapírként azokat a befektetési céllal beszerzett értékpapírokat kell kimutatni, amelyek lejárata, beváltása a tárgyévet követő üzleti évben még nem esedékes, és a vállalkozó azokat a tárgyévet követő üzleti évben nem szándékozik értékesíteni.
 
 (8) Befektetett pénzügyi eszközök értékhelyesbítéseként a részesedések – bekerülési értéket meghaladó – piaci értéke és bekerülési értéke közötti különbözet mutatható ki.
+
+(9) A kezelt vagyonra szóló tartós követelést a vagyonrendelőnél tartósan adott kölcsönként kell kimutatni a mérlegben.

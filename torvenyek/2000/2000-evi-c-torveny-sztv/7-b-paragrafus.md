@@ -1,0 +1,1 @@
+7/B. § A kezelt vagyonra e törvény vállalkozóra vonatkozó szabályait kell megfelelően alkalmazni azzal, hogy a kezelt vagyon beszámolási és könyvvezetési kötelezettségét a bizalmi vagyonkezelő – kezelt vagyononként elkülönítve – teljesíti.

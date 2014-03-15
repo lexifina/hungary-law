@@ -2,6 +2,8 @@
 
 154. § (1) Minden kettős könyvvitelt vezető vállalkozó (ideértve a külföldi székhelyű vállalkozás magyarországi fióktelepét is) köteles az éves beszámolót, illetve az egyszerűsített éves beszámolót, kötelező könyvvizsgálat esetén a könyvvizsgálói záradékot vagy a záradék megadásának elutasítását is tartalmazó független könyvvizsgálói jelentéssel együtt közzétenni.
 
+(1a) A bizalmi vagyonkezelő mentesül az (1) bekezdés szerinti kötelezettség, valamint a 155. § szerinti könyvvizsgálati kötelezettség alól a kezelt vagyon éves beszámolójának, illetve egyszerűsített éves beszámolójának könyvvizsgálata és közzététele tekintetében.
+
 (2) A vállalkozó köteles biztosítani, hogy munkavállalói, alkalmazottai, tagjai az éves beszámolót, az egyszerűsített éves beszámolót, az összevont (konszolidált) éves beszámolót, kötelező könyvvizsgálat esetén a könyvvizsgálói záradékot vagy a záradék megadásának elutasítását is tartalmazó független könyvvizsgálói jelentést a vállalkozó (az anyavállalat) székhelyén megtekinthessék és azokról teljes vagy részleges másolatot készíthessenek.
 
 (3) Ha a vállalkozó közzétett éves beszámolóját, illetve egyszerűsített éves beszámolóját könyvvizsgáló nem ellenőrizte, vagy kötelező könyvvizsgálat esetén a könyvvizsgáló a záradék megadását elutasította, akkor a vállalkozó az általa elkészített éves beszámoló, illetve egyszerűsített éves beszámoló mérlegén, eredménykimutatásán, kiegészítő mellékletén (ezek minden egyes példányán) köteles feltüntetni a következő szöveget: ,,A közzétett adatok könyvvizsgálattal nincsenek alátámasztva.''

@@ -27,3 +27,7 @@ b) az értékpapír kibocsátójának piaci megítélését, a piaci megítélé
 (8) A hitelkockázati szempontból – a (9) bekezdésben foglaltak figyelembevételével, a számviteli politikában meghatározottak szerint – kockázatmentesnek minősített, valamely ország központi kormánya vagy központi (jegy) bankja által kibocsátott, illetve tőkére és hozamra vonatkozóan garantált befektetési célú, lejáratig tartott, kamatozó, illetve diszkont értékpapírok esetében a (4) bekezdés szerinti értékvesztés-elszámolást nem kell alkalmazni a bekerülési érték azon része után, amely a lejáratkor megtérül.
 
 (9) A (8) bekezdés alkalmazása szempontjából bármely vállalkozónál kockázatmentesnek minősíthető a külön törvény(ek) felhatalmazása alapján kiadott jogszabály(ok) szerint nulla százalékos kockázati súlyozású tételnek tekinthető valamely ország központi kormánya vagy központi (jegy) bankja által kibocsátott, illetve tőkére és hozamra vonatkozóan garantált értékpapír, feltéve, hogy az értékpapírral kapcsolatban tőke- és kamattörlesztési késedelem nem merült fel.
+
+(10) A kezelt vagyonra szóló tartós követelésre értékvesztést kell elszámolni annak könyv szerinti értéke és piaci értéke közötti veszteségjellegű különbözet összegében, ha ez a különbözet tartósnak mutatkozik és jelentős összegű.
+
+(11) A (10) bekezdés szerinti értékvesztés, illetve annak visszaírása során a piaci érték meghatározásakor a kezelt vagyon üzleti év mérlegfordulónapjára kimutatott induló tőkéjének, tartalékának és mérleg szerinti eredményének együttes összegét kell figyelembe venni.

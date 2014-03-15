@@ -10,15 +10,15 @@ bemutatva külön-külön azok saját tőkéjét, jegyzett tőkéjét, tartalék
 
 d) minden olyan gazdasági társaság nevét és székhelyét, amely a mellékletet készítő vállalkozónak egyéb részesedési viszonyban lévő vállalkozása.
 
-(2) A gazdasági társaságokról szóló törvény szerinti ellenőrzött gazdasági társaság kiegészítő mellékletének tartalmaznia kell:
+(2) A korlátolt felelősségű társaság és a részvénytársaság kiegészítő mellékletének tartalmaznia kell a Polgári Törvénykönyv gazdasági társaságokra vonatkozó rendelkezései szerint
 
-a) a többségi befolyással,
+a) többségi befolyással,
 
-b) a minősített többséget biztosító befolyással
+b) minősített többséget biztosító befolyással
 
 rendelkező tag (részvényes) nevét, székhelyét, szavazatainak arányát.
 
-(3) A kiegészítő mellékletnek tételesen tartalmaznia kell minden olyan gazdasági társaság nevét, székhelyét, jegyzett tőkéjének összegét, a szavazatok arányát, ahol a vállalkozó a gazdasági társaságokról szóló törvény szerint
+(3) A kiegészítő mellékletnek tételesen tartalmaznia kell minden olyan gazdasági társaság nevét, székhelyét, jegyzett tőkéjének összegét, a szavazatok arányát, ahol a vállalkozó a Polgári Törvénykönyv gazdasági társaságokra vonatkozó rendelkezései szerint
 
 a) a többségi befolyással,
 

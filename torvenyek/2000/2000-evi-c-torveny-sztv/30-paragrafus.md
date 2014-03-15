@@ -8,4 +8,4 @@
 
 (5) A forgatási célú hitelviszonyt megtestesítő értékpapírok között azokat az értékpapírokat kell kimutatni, amelyeket forgatási célból, kamatbevétel, illetve árfolyamnyereség elérése érdekében szereztek be, továbbá azokat, amelyek a tárgyévet követő üzleti évben lejárnak.
 
-(6) E törvény alkalmazásában a saját részvényekkel, saját üzletrészekkel esik egy tekintet alá a visszavásárolt (megszerzett) szövetkezeti részjegy (ideértve a befektetői részjegyet és az átalakított befektetői részjegyet is). A visszavásárolt (megszerzett) szövetkezeti részjegyre e törvény saját részvényre, saját üzletrészre vonatkozó szabályait kell megfelelően alkalmazni.
+(6) E törvény alkalmazásában a saját részvényekkel, saját üzletrészekkel esik egy tekintet alá a visszavásárolt (megszerzett) szövetkezeti részesedés (ideértve az átalakított befektetői részjegyet is). A visszavásárolt (megszerzett) szövetkezeti részesedésre e törvény saját részvényre, saját üzletrészre vonatkozó szabályait kell megfelelően alkalmazni.

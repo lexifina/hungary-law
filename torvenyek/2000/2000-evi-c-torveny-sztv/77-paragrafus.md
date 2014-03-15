@@ -32,7 +32,11 @@ f) a biztosító által fizetett, illetve a mérlegkészítés időpontjáig elf
 
 g) a követelés eredeti jogosultjánál – ha a követelésre korábban értékvesztést számolt el – a követelés könyv szerinti értékét meghaladóan realizált összeget;
 
-h) a nyereség jellegű kerekítési különbözetet.
+h) a nyereség jellegű kerekítési különbözetet;
+
+i) a vagyonrendelőnél a bizalmi vagyonkezelésbe adott eszközök bizalmi vagyonkezelési szerződés szerinti értékét;
+
+j) a vagyonrendelőnél a kezelt vagyon részbeni vagy teljes kiadásakor az átvett vagyon vagyonrendelőnek járó összegét.
 
 (4) Egyéb bevételként kell elszámolni a 45. § (3) bekezdése szerint halasztott bevételként elhatárolt negatív üzleti vagy cégértékből az üzleti évben a 45. § (4) bekezdése szerint leírt összeget.
 

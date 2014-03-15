@@ -2,7 +2,7 @@
 
 (2) Ha a saját tőke egyes elemeinek – az előző előírások szerint kialakított – értékétől a (3)–(7) bekezdésben foglaltakat is figyelembe véve a létesítő okiratban a szerződő felek eltérnek, vagy az eltérést törvény írja elő, akkor a saját tőke – létesítő okirat szerinti megosztásának megfelelő – átrendezéséhez egy további külön oszlopot (,,rendezés'' oszlop) is be kell iktatni a vagyonmérleg-tervezetbe.
 
-(3) A vagyonmérleg-tervezetben a saját tőkének jegyzett tőkére, tőketartalékra, eredménytartalékra és lekötött tartalékra történő megosztása során a gazdasági társaságokról szóló törvény előírásai, illetve a 139. §, valamint az (1)–(2) és (4)–(7) bekezdés előírásai szerint kell eljárni, azzal, hogy a jegyzett tőke összege nem haladhatja meg a lekötött tartalékkal csökkentett saját tőke összegét.
+(3) A vagyonmérleg-tervezetben a saját tőkének jegyzett tőkére, tőketartalékra, eredménytartalékra és lekötött tartalékra történő megosztása során a Polgári Törvénykönyv gazdasági társaságokra vonatkozó rendelkezései, illetve a 139. §, valamint az (1)–(2) és (4)–(7) bekezdés előírásai szerint kell eljárni, azzal, hogy a jegyzett tőke összege nem haladhatja meg a lekötött tartalékkal csökkentett saját tőke összegét.
 
 (4)
 

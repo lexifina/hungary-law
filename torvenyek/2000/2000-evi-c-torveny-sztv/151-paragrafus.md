@@ -48,7 +48,7 @@ d) aki az engedélyezéskor vagy az engedély megadását követően valótlan a
 
 e) aki azt kéri,
 
-f) akit jogerős bírói ítélet a cselekvőképességet korlátozó vagy kizáró gondnokság alá helyezett,
+f) akit jogerős bírói ítélet a cselekvőképességet érintő gondnokság alá helyezett,
 
 g) aki elhalálozott,
 

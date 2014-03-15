@@ -16,7 +16,11 @@ f)
 
 g)
 
-h) a veszteség jellegű kerekítési különbözetet.
+h) a veszteség jellegű kerekítési különbözetet;
+
+i) a vagyonrendelőnél a bizalmi vagyonkezelésbe adott eszközök könyv szerinti értékét;
+
+j) a vagyonrendelőnél a kezelt vagyon részbeni vagy teljes kiadásakor a kezelt vagyonra szóló tartós követelés kezelt vagyon csökkenésével arányos, kivezetett összegét.
 
 (3) Az egyéb ráfordítások között kell kimutatni:
 

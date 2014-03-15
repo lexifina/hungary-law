@@ -4,7 +4,7 @@
 
 1. gazdálkodó: a vállalkozó, az államháztartás szervezetei, az egyéb szervezet, a Magyar Nemzeti Bank, továbbá az általuk, illetve a természetes személy által alapított egészségügyi, szociális és oktatási intézmény;
 
-2. vállalkozó: minden olyan gazdálkodó, amely a saját nevében és kockázatára nyereség- és vagyonszerzés céljából üzletszerűen, ellenérték fejében termelő vagy szolgáltató tevékenységet (a továbbiakban: vállalkozási tevékenység) végez, ideértve a hitelintézetet, a pénzügyi vállalkozást, a befektetési vállalkozást és a biztosítót is, továbbá a nonprofit gazdasági társaság, az egyesülés, a szociális szövetkezet, az iskolaszövetkezet, az európai gazdasági egyesülés, az európai részvénytársaság, az európai szövetkezet, a vízitársulat, az erdőbirtokossági társulat, a külföldi székhelyű vállalkozás magyarországi fióktelepe, amennyiben nem tartozik a 3. és 4. pontban felsoroltak közé;
+2. vállalkozó: minden olyan gazdálkodó, amely a saját nevében és kockázatára nyereség- és vagyonszerzés céljából üzletszerűen, ellenérték fejében termelő vagy szolgáltató tevékenységet (a továbbiakban: vállalkozási tevékenység) végez, ideértve a hitelintézetet, a pénzügyi vállalkozást, a befektetési vállalkozást és a biztosítót is, továbbá a nonprofit gazdasági társaság, az egyesülés, a szociális szövetkezet, az iskolaszövetkezet, az európai gazdasági egyesülés, az európai részvénytársaság, az európai szövetkezet, a vízitársulat, az erdőbirtokossági társulat, a külföldi székhelyű vállalkozás magyarországi fióktelepe, a kezelt vagyon, amennyiben nem tartozik a 3. és 4. pontban felsoroltak közé;
 
 3. államháztartás szervezetei: az államháztartásról szóló törvény alapján az államháztartás központi és önkormányzati alrendszerébe tartozó szervek;
 
@@ -146,7 +146,7 @@ c) cégvásárlás esetén (amikor az adott társaság részvényeit, üzletrés
 
 d)
 
-3. többségi befolyás, minősített többséget biztosító befolyás: a gazdasági társaságokról szóló törvényben meghatározott fogalom;
+3. többségi befolyás, minősített többséget biztosító befolyás: a Polgári Törvénykönyv gazdasági társaságokra vonatkozó rendelkezéseiben meghatározott fogalom;
 
 4. létesítő okirat: a gazdálkodó alapításához szükséges jogszabályban előírt okirat, ide tartozik különösen: a társasági szerződés, az alapító okirat, az alapszabály, az egyéb módon nevezett – a tulajdonosok közötti – megállapodás.
 
@@ -156,7 +156,7 @@ d)
 
 2. hitelviszonyt megtestesítő értékpapír: minden olyan nyomdai úton előállított (előállíttatható) vagy dematerializált értékpapír, illetve e törvény által értékpapírnak minősített, jogot megtestesítő okirat, amelyben a kibocsátó (adós) meghatározott pénzösszeg rendelkezésére bocsátását elismerve arra kötelezi magát, hogy a pénz (kölcsön) összegét, valamint annak meghatározott módon számított kamatát vagy egyéb hozamát, és az általa esetleg vállalt egyéb szolgáltatásokat az értékpapír birtokosának (a hitelezőnek) a megjelölt időben és módon megfizeti, illetve teljesíti. Ide tartozik különösen: a kötvény, a kincstárjegy, a letéti jegy, a pénztárjegy, a célrészjegy, a takaréklevél, a jelzáloglevél, a hajóraklevél, a közraktárjegy, az árujegy, a zálogjegy, a kárpótlási jegy, a határozott idejű befektetési alap által kibocsátott befektetési jegy;
 
-3. tulajdoni részesedést jelentő befektetés: minden olyan nyomdai úton előállított (előállíttatható) vagy dematerializált értékpapír, illetve e törvény által értékpapírnak minősített, jogot megtestesítő okirat, amelyben a kibocsátó meghatározott pénzösszeg, illetve pénzértékben meghatározott nem pénzbeli vagyoni érték tulajdonba- vagy használatbavételét elismerve arra kötelezi magát, hogy ezen értékpapír, okirat birtokosának meghatározott vagyoni és egyéb jogokat biztosít. Ide tartozik különösen: a részvény, az üzletrész, a részjegy, a vagyonjegy, a vagyoni betét, a határozatlan futamidejű befektetési alap által kibocsátott befektetési jegy, a kockázati tőkejegy, a kockázati tőkerészvény;
+3. tulajdoni részesedést jelentő befektetés: minden olyan nyomdai úton előállított (előállíttatható) vagy dematerializált értékpapír, illetve e törvény által értékpapírnak minősített, jogot megtestesítő okirat, amelyben a kibocsátó meghatározott pénzösszeg, illetve pénzértékben meghatározott nem pénzbeli vagyoni érték tulajdonba- vagy használatbavételét elismerve arra kötelezi magát, hogy ezen értékpapír, okirat birtokosának meghatározott vagyoni és egyéb jogokat biztosít. Ide tartozik különösen: a részvény, az üzletrész, a szövetkezeti részesedés, a vagyonjegy, a vagyoni betét, a határozatlan futamidejű befektetési alap által kibocsátott befektetési jegy, a kockázati tőkejegy, a kockázati tőkerészvény;
 
 4. diszkont értékpapír: olyan hitelviszonyt megtestesítő, nem kamatozó értékpapír, amelyet névérték alatt bocsátottak ki, és a lejáratkor névértéken váltanak be;
 
@@ -210,7 +210,7 @@ b) nem valódi penziós (elhelyezési) ügylet: olyan penziós ügylet, amelyben
 
 12. elektronikus pénz: a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényben meghatározott fogalom;
 
-13. pénzügyi lízing: olyan szerződés alapján valósul meg, amely szerződés értelmében a lízingbeadó a lízingbevevő igényei szerint beszerzett és a lízingbeadó tulajdonát képező eszközt lízingdíj ellenében, a szerződésben rögzített időtartamra a lízingbevevő használatába, birtokába adja azzal, hogy a lízingbevevőt terheli a használatból következően minden költség és kockázat, a lízingbevevő jogosult a hasznok szedésére, a szerződés időtartamának végén a lízingelt eszköz tulajdonjogát a lízingbevevő vagy az általa megjelölt megszerzi (vagy megszerezheti), a maradványérték megfizetésével vagy anélkül, illetve a lízingbevevőt elővételi jog illeti meg, a lízingbevevő azonban ezen jogairól a szerződés megszűnése előtt le is mondhat;
+13. pénzügyi lízing: a Polgári Törvénykönyv szerinti pénzügyi lízingszerződés alapján létrejött ügylet;
 
 14. függő kötelezettség: az olyan – általában – harmadik személlyel szemben vállalt kötelezettség, amely a mérleg fordulónapján fennáll, de mérlegtételkénti szerepeltetése jövőbeni eseménytől függ. A függő kötelezettségek lehetnek pénzeszközre, illetve egyéb eszközre vonatkozó függő kötelezettségek. A pénzeszközre vonatkozó függő kötelezettségek közé tartoznak különösen: a kezességvállalási, a garanciavállalási, a váltókezesi kötelezettség, az opciós ügyletekkel, a nem valódi penziós ügyletekkel, a le nem zárt peres ügyekkel kapcsolatban várható kötelezettségek. Az egyéb eszközre vonatkozó kötelezettségek közé tartoznak különösen a fedezetként, biztosítékként, óvadékként felajánlott (szolgáló) vagyontárgyak és az opciós ügylet miatti egyéb eszköz átadására vonatkozó kötelezettségek;
 
@@ -325,3 +325,13 @@ Európai Gazdasági Térség állama: az Európai Unió tagállama és az Európ
 3. elutasító záradék: az 1. pont szerint kibocsátott független könyvvizsgálói jelentésben szereplő ellenvélemény;
 
 4. záradék megadásának elutasítása: az 1. pont szerint kibocsátott független könyvvizsgálói jelentésben a véleménynyilvánítás visszautasítása.
+
+(14) E törvény alkalmazásában:
+
+1. kezelt vagyon: a Polgári Törvénykönyvről szóló törvény bizalmi vagyonkezelési szerződésre vonatkozó rendelkezései szerinti kezelt vagyon (szerződésenként külön-külön);
+
+2. vagyonrendelő: az a személy, amely a Polgári Törvénykönyvről szóló törvény bizalmi vagyonkezelési szerződésre vonatkozó rendelkezései szerint vagyonrendelőnek minősül;
+
+3. bizalmi vagyonkezelő: az a személy, amely a Polgári Törvénykönyvről szóló törvény bizalmi vagyonkezelési szerződésre vonatkozó rendelkezései szerint vagyonkezelőnek minősül;
+
+4. bizalmi vagyonkezelés: a Polgári Törvénykönyvről szóló törvény szerinti bizalmi vagyonkezelési szerződés alapján a bizalmi vagyonkezelő által végzett tevékenység.

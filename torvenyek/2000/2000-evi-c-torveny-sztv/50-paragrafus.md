@@ -13,3 +13,5 @@
 (7) A külföldi székhelyű vállalkozás magyarországi fióktelepénél a működéséhez, a tartozások kiegyenlítéséhez részére biztosított – tartósan rendelkezésre bocsátott –, a 35. § (6) bekezdése szerint vagyonként kapott nem pénzbeli hozzájárulás szerződés, megállapodás szerinti értéke (legfeljebb a vámérték és az e törvény szerinti egyéb beszerzési érték együttes összege) minősül bekerülési (beszerzési) értéknek.
 
 (8) A külföldi székhelyű vállalkozás magyarországi fióktelepe működése során, a (7) bekezdésben foglaltakon túlmenően, beszerzésként – a 48. § (5) bekezdésében előírtak esetén importbeszerzésként – köteles elszámolni a külföldi székhelyű vállalkozástól, vagy annak más fióktelepétől kapott eszköz számla szerinti értékét. Az így állományba vett eszköz bekerülési (beszerzési) értéke – ez esetben is – magában foglalja mindazon 47–51. § szerinti tételeket, amelyek az eszközhöz egyedileg hozzákapcsolhatók.
+
+(9) A kezelt vagyonra szóló tartós követelés bekerülési értéke a bizalmi vagyonkezelésbe adott eszközök bizalmi vagyonkezelési szerződés szerinti, együttes értéke.
