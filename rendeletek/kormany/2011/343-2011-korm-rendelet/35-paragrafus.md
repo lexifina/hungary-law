@@ -1,4 +1,4 @@
-## 34/A. §[^82] A Nemzeti Adó- és Vámhivatal szervezetéről és egyes szervek kijelöléséről szóló 273/2010. (XII. 9.) Korm. rendelet és egyes kapcsolódó kormányrendeletek módosításáról szóló 366/2012. (XII. 17.) Korm. rendelettel módosított 23. §-t a hatályba lépését[^83] követően nyilvántartásba vett adatok tekintetében kell alkalmazni.
+## 34/A. §[^83] A Nemzeti Adó- és Vámhivatal szervezetéről és egyes szervek kijelöléséről szóló 273/2010. (XII. 9.) Korm. rendelet és egyes kapcsolódó kormányrendeletek módosításáról szóló 366/2012. (XII. 17.) Korm. rendelettel módosított 23. §-t a hatályba lépését[^84] követően nyilvántartásba vett adatok tekintetében kell alkalmazni.
 
 ## 35. § E rendelet
 
@@ -8,5 +8,5 @@
 
 szerinti előzetes bejelentése megtörtént.
 
-[^82]: A 34/A. §-t a 366/2012. (XII. 17.) Korm. rendelet 40. §-a iktatta be.
-[^83]: A hatálybalépés időpontja 2013. január 1.
+[^83]: A 34/A. §-t a 366/2012. (XII. 17.) Korm. rendelet 40. §-a iktatta be.
+[^84]: A hatálybalépés időpontja 2013. január 1.

@@ -16,7 +16,7 @@ e) az ellenőrzés elrendelésére jogosult aláírását, a szervezet bélyegz�
 
 (4)[^42] Ha az ellenőrzött a Ktdt. 20. § (1) bekezdés d) pontja szerinti tevékenységéhez más személy, szervezet ingatlanát veszi igénybe, az ingatlan tulajdonosának hozzájárulását az ellenőrzöttnek kell biztosítania.
 
-(5) Az ellenőrzésről, valamint az ellenőrzött, illetve az ellenőrzött teljesítési segédje, alvállalkozója szóbeli nyilatkozatáról jegyzőkönyv készül, mely tartalmazza:
+(5)[^43] Az ellenőrzésről, valamint az ellenőrzött, illetve az ellenőrzött közreműködője, alvállalkozója szóbeli nyilatkozatáról jegyzőkönyv készül, mely tartalmazza:
 
 a) az OHÜ megnevezését, a jegyzőkönyv iktatószámát, az ellenőrzést végzők nevét;
 
@@ -39,3 +39,4 @@ h) az ellenőrzést végzők és az ellenőrzött aláírását.
 (7) Az ellenőrzött által vitatott jegyzőkönyvi megállapítások tisztázása érdekében szakmai egyeztetést kell tartani, amelyről kiegészítő jegyzőkönyvet kell felvenni.
 
 [^42]: A 17. § (4) bekezdése az 529/2013. (XII. 30.) Korm. rendelet 13. § 4. pontja szerint módosított szöveg.
+[^43]: A 17. § (5) bekezdés nyitó szövegrésze az 57/2014. (III. 4.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.

@@ -42,7 +42,7 @@
 
 ## d) környezetvédelmi termékdíj-fizetési kötelezettség összege soronként és összesen.
 
-## V.[^89] Visszaigényelhető termékdíj
+## V.[^90] Visszaigényelhető termékdíj
 
 ## 1. Visszaigényelhető termékdíj összegének megállapítása:
 
@@ -84,7 +84,7 @@
 
 ## f) egyéni hulladékkezelés keretében kezelt mennyiség.
 
-## VII.[^90] A termékdíj-fizetési kötelezettség átvállalására vonatkozó adatok
+## VII.[^91] A termékdíj-fizetési kötelezettség átvállalására vonatkozó adatok
 
 ## 1. Átvállalással érintett termék adatai:
 
@@ -110,7 +110,7 @@
 
 ## h) csomagolóanyag kiskereskedelmi értékesítője által átvett mennyiség.
 
-## VIII.[^91] A nyilatkozattal átadott termékdíj-kötelezettség átadása
+## VIII.[^92] A nyilatkozattal átadott termékdíj-kötelezettség átadása
 
 ## 1. Kötelezett neve, adószáma
 
@@ -160,6 +160,6 @@ A termékdíjköteles termék:
 
 9. a termékdíj megfizetésének napja.
 
-[^89]: A 4. melléklet V. pontja az 529/2013. (XII. 30.) Korm. rendelet 12. § (5) bekezdésével megállapított szöveg.
-[^90]: A 4. melléklet VII. pontja a 139/2013. (V. 13.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^91]: A 4. melléklet VIII. pontja az 529/2013. (XII. 30.) Korm. rendelet 12. § (5) bekezdésével megállapított szöveg.
+[^90]: A 4. melléklet V. pontja az 529/2013. (XII. 30.) Korm. rendelet 12. § (5) bekezdésével megállapított szöveg.
+[^91]: A 4. melléklet VII. pontja a 139/2013. (V. 13.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^92]: A 4. melléklet VIII. pontja az 529/2013. (XII. 30.) Korm. rendelet 12. § (5) bekezdésével megállapított szöveg.
