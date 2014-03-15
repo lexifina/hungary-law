@@ -8,7 +8,7 @@
 
 3. égéstermék-elvezető: az épített kémény, az épített vagy szerelt, héjból vagy héjakból álló szerkezet, amely egy vagy több járatot képez, és a tüzelőberendezés tűzterében keletkezett égésterméket a szabadba vezeti,
 
-4. gazdálkodó szervezet: a Polgári Törvénykönyvről szóló 1959. évi IV. törvény 685. § c) pontja szerinti gazdálkodó szervezet,
+4. gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet,
 
 5. használaton kívüli égéstermék-elvezető: olyan égéstermék-elvezető, amelynek összes nyílását befalazták vagy nem éghető anyaggal tömören, vagy egyéb nem oldható szerelési technológiával (kötéssel) lezárták,
 
