@@ -36,7 +36,7 @@ bűncselekmény elkövetése érdekében vagy azzal összefüggésben merült fe
 
 10. A bíróság előtt nem érvényesíthető, továbbá az elévült követelés miatt elszámolt ráfordítás.
 
-11. A gazdasági társaságokról szóló törvényben előírt saját tőke jegyzett tőke arány, vagy a veszteség fedezetét szolgáló tőkeemelés révén szerzett tulajdoni részesedésre elszámolt értékvesztés.
+11. a Ptk. gazdasági társaságokra vonatkozó rendelkezései szerint előírt saját tőke jegyzett tőke arány, vagy a veszteség fedezetét szolgáló tőkeemelés révén szerzett tulajdoni részesedésre elszámolt értékvesztés;
 
 12. a 22. § (6)–(8) bekezdésében meghatározott kiegészítő támogatás és a 22/C. § (3a)–(3b) bekezdésében meghatározott kiegészítő sportfejlesztési támogatás adóévi adózás előtti eredmény terhére elszámolt összege;
 
@@ -78,7 +78,7 @@ A 8. § (1) bekezdés d) pontjának alkalmazásában a vállalkozási tevékenys
 
 12. a szerencsejáték szervezéséről szóló törvényben meghatározott sorsolásos játék, ajándéksorsolás keretében átadott, nyújtott nyeremény ráfordításként elszámolt értéke;
 
-13. A szövetkezetnél a közösségi alapból a szövetkezetekről szóló 2006. évi X. törvény 57. §-ának (2) bekezdése szerinti céloknak megfelelő felhasználás alapján elszámolt költség;
+13. A szövetkezetnél a közösségi alapból a szövetkezet alapszabálya szerinti céloknak megfelelő felhasználás alapján elszámolt költség;
 
 14. A kifizető által viselt képzés (ideértve az azzal összefüggő, törvényen alapuló, az államháztartás valamely alrendszere számára történő kötelező befizetést is) költsége.
 
@@ -95,3 +95,5 @@ A 8. § (1) bekezdés d) pontjának alkalmazásában a vállalkozási tevékenys
 20.
 
 21. éttermi szolgáltatás igénybevétele esetén a bankkártyával, hitelkártyával történő fizetésre tekintettel kapott nyugta alapján elszámolt költség, ráfordítás, feltéve, hogy a szolgáltatás igénybevétele a személyi jövedelemadóról szóló törvény szerinti reprezentáció céljából történik.
+
+22. a vagyonrendelőnél a bizalmi vagyonkezelési szerződés alapján a bizalmi vagyonkezelésbe adott eszközök könyv szerinti értékére, valamint a kezelt vagyon részbeni vagy teljes kiadásakor a kezelt vagyonra szóló tartós követelés kezelt vagyon csökkenésével arányos, kivezetett összegére tekintettel elszámolt ráfordítás.

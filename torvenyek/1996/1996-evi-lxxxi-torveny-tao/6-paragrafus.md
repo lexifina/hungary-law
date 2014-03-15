@@ -20,7 +20,9 @@ a) az előtársasági adóévben .és az azt követő adóévben, illetve az els
 
 b) ha a 2. § (2) bekezdésének e)–h) pontja alapján adóalany, illetve, ha szociális szövetkezet, iskolaszövetkezet vagy közhasznú nonprofit gazdasági társaság, vagy
 
-c) ha az adóévben vagy a megelőző adóévben elemi kár sújtotta és mértéke – több kár esetén azok együttes értéke – eléri az elemi kár bekövetkezését megelőző adóévi évesített árbevétel (átalakulással létrejött adózónál a jogelőd árbevételéből számított, az átalakulás formájától függően azzal egyező, összesített, megosztott árbevétel) legalább 15 százalékát.
+c) ha az adóévben vagy a megelőző adóévben elemi kár sújtotta és mértéke – több kár esetén azok együttes értéke – eléri az elemi kár bekövetkezését megelőző adóévi évesített árbevétel (átalakulással létrejött adózónál a jogelőd árbevételéből számított, az átalakulás formájától függően azzal egyező, összesített, megosztott árbevétel) legalább 15 százalékát,
+
+d) ha a 2. § (6) bekezdése alapján adóalany.
 
 (7) Az (5) bekezdés alkalmazásában a jövedelem-(nyereség-)minimum a (8) bekezdésben foglaltakkal csökkentett és a (9) bekezdésben foglaltakkal növelt összes bevétel 2 százaléka.
 

@@ -24,7 +24,7 @@ A társasági adóalanynak nem minősülő szervezetek
 
 11. a külön törvényben és annak felhatalmazása alapján kiadott jogszabályban meghatározott feltételeknek megfelelően működő, kizárólag készfizetőkezesség-vállalást folytató részvénytársaság,
 
-12. az a jogi személy, jogi személyiség nélküli gazdasági társaság, amely az adóévben az egyszerűsített vállalkozói adó alanyának minősül.
+12. az a jogi személy, amely az adóévben az egyszerűsített vállalkozói adó alanyának minősül.
 
 13. a költségvetési szervként működő felsőoktatási intézmény (ideértve az általa létrehozott intézményt is) és diákotthon,
 

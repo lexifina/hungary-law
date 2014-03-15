@@ -24,23 +24,23 @@ e)
 
 4/a. behajthatatlan követelés: a számvitelről szóló törvény szerinti behajthatatlan követelés, valamint azon követelés bekerülési értékének 20 százaléka, amelyet a fizetési határidőt követő 365 napon belül nem egyenlítettek ki, kivéve, ha a követelés elévült vagy bíróság előtt nem érvényesíthető;
 
-5. bejelentett részesedés: a belföldi jogszabályok alapján létrejött jogi személyben, jogi személyiséggel nem rendelkező társas cégben és külföldi személyben (kivéve az ellenőrzött külföldi társaságot) szerzett legalább 10 százalék mértékű, valamint minden további megszerzett részesedés (részesedés értékének a növekedése), feltéve, hogy az adózó a részesedés megszerzését (ide nem értve a részesedés értékének a növekedését) a szerzést követő 75 napon belül bejelenti az adóhatóságnak; a határidő elmulasztása esetén igazolási kérelem előterjesztésének nincs helye; a 10 százalékot meghaladóan szerzett részesedés bejelentésének feltétele, hogy az adózó a legalább 10 százalékos mértékű részesedését bejelentette az adóhatósághoz; e rendelkezés alkalmazásában szerzés időpontjának a cégbírósági bejegyzés napja, cégbírósági bejegyzés hiányában az alapul szolgáló jogügylet hatályosulásának napja minősül; az üzletvezetés helyére tekintettel belföldi illetőségű adózó e rendelkezést azzal az eltéréssel alkalmazza, hogy az első jognyilatkozat megtételének napját követő 75 napon belül jogosult bejelentést tenni azokról a részesedésekről, amelyeket a belföldi illetőség megszerzése előtt szerzett;
+5. bejelentett részesedés: a belföldi jogszabályok alapján létrejött jogi személyben és külföldi személyben (kivéve az ellenőrzött külföldi társaságot) szerzett legalább 10 százalék mértékű, valamint minden további megszerzett részesedés (részesedés értékének a növekedése), feltéve, hogy az adózó a részesedés megszerzését (ide nem értve a részesedés értékének a növekedését) a szerzést követő 75 napon belül bejelenti az adóhatóságnak; a határidő elmulasztása esetén igazolási kérelem előterjesztésének nincs helye; a 10 százalékot meghaladóan szerzett részesedés bejelentésének feltétele, hogy az adózó a legalább 10 százalékos mértékű részesedését bejelentette az adóhatósághoz; e rendelkezés alkalmazásában szerzés időpontjának a cégbírósági bejegyzés napja, cégbírósági bejegyzés hiányában az alapul szolgáló jogügylet hatályosulásának napja minősül; az üzletvezetés helyére tekintettel belföldi illetőségű adózó e rendelkezést azzal az eltéréssel alkalmazza, hogy az első jognyilatkozat megtételének napját követő 75 napon belül jogosult bejelentést tenni azokról a részesedésekről, amelyeket a belföldi illetőség megszerzése előtt szerzett;
 
 5/a. bejelentett immateriális jószág: jogdíjbevételre jogosító immateriális jószág (szellemi termék, vagyoni értékű jog) szerzése, előállítása feltéve, hogy az adózó a szerzést, előállítást követő 60 napon belül bejelenti az adóhatóságnak; a határidő elmulasztása esetén igazolási kérelem előterjesztésének nincs helye; e rendelkezés alkalmazásában szerzés időpontjának a cégbírósági bejegyzés napja, cégbírósági bejegyzés hiányában az alapul szolgáló jogügylet hatályosulásának napja, előállítás napjának a használatba vétel napja minősül; az üzletvezetés helyére tekintettel belföldi illetőségű adózó e rendelkezést azzal az eltéréssel alkalmazza, hogy az első jognyilatkozat megtételének napját követő 60 napon belül jogosult bejelentést tenni azokról a jogdíjbevételre jogosító immateriális jószágokról, amelyeket a belföldi illetőség megszerzése előtt szerzett vagy állított elő;
 
 6. belföld: Magyarország területe, ideértve a vámszabad- és a tranzitterületet is;
 
-7. belföldi személy: a belföldi jogszabály alapján létrejött jogi személy, jogi személyiséggel nem rendelkező társas cég, személyi egyesülés, egyéb szervezet, valamint a személyi jövedelemadóról szóló törvény szerint belföldi illetőségűnek minősülő magánszemély;
+7. belföldi személy: a belföldi jogszabály alapján létrejött jogi személy, személyi egyesülés, egyéb szervezet, valamint a személyi jövedelemadóról szóló törvény szerint belföldi illetőségűnek minősülő magánszemély;
 
 8. beruházás értéke: az üzembe helyezett tárgyi eszköz bekerülési értéke;
 
-9.
+9. bizalmi vagyonkezelési szerződés: a Ptk. szerinti bizalmi vagyonkezelési szerződés;
 
 9/a. beszámoló: a számvitelről szóló törvény, vagy a felhatalmazása alapján kiadott jogszabály szerinti beszámoló, kivéve az összevont (konszolidált) éves beszámolót;
 
 10. célszervezet: miniszter által a teljes adóévre ilyennek kijelölt gazdasági társaság, szövetkezet (a lakásszövetkezet kivételével) és egyes jogi személyek vállalata;
 
-10/a.
+10/a. bizalmi vagyonkezelő: a Ptk. szerinti bizalmi vagyonkezelési szerződés alapján átvett vagyon kezelésére kötelezettséget vállaló belföldi személy, ideértve az Európai Gazdasági Térségről szóló megállapodásban részes más államban székhellyel rendelkező vállalkozás magyarországi fióktelepét is;
 
 10/b. elismert tőzsde: a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvényben meghatározott fogalom;
 
@@ -64,9 +64,9 @@ h) e rendelkezésben foglaltakat – az f) pont szerinti tényleges tulajdonosi 
 
 12. előkészítő vagy kisegítő jellegű tevékenység: kizárólag a külföldi személy részére végzett olyan tevékenység, amely nem tartozik a külföldi személy társasági szerződésben meghatározott tevékenységi körébe, de az abban meghatározott tevékenységek végzését segíti, készíti elő;
 
-13.
+13. vagyonrendelő: az a személy, amely a Ptk. bizalmi vagyonkezelési szerződésre vonatkozó rendelkezései szerint vagyonrendelőnek minősül;
 
-14.
+14. kezelt vagyon: a Ptk. szerinti bizalmi vagyonkezelési szerződés alapján kezelt vagyon;
 
 15. építkezés befejezésének napja: a használatbavételi, fennmaradási engedély jogerőre emelkedésének a napja, a használatbavétel tudomásulvételének a napja, alvállalkozó esetében az általa végzett tevékenység befejezésének a napja;
 
@@ -162,7 +162,7 @@ c) az egyszemélyes társaság egyedüli tagjába, részvényesébe olvad be;
 
 28/a. országos érdekképviseleti szervezet: az az egyesületként bírósági nyilvántartásba vett egyesületek szövetsége, amelynek tagjai alapszabályuk szerint a munkavállalók vagy a munkáltatók érdekeit képviselik, feltéve, hogy a szövetségnek vagy a tagjának legalább tíz, különböző megyében működő, jogi személyiséggel rendelkező szervezeti egysége van;
 
-28/b. osztalék: a számvitelről szóló törvény szerint pénzügyi műveletek bevételei között osztalék jogcímen kimutatott összeg, feltéve, hogy annak összegét az osztalékot megállapító társaság nem számolja az adózás előtti eredmény terhére ráfordításként;
+28/b. osztalék: a számvitelről szóló törvény szerint pénzügyi műveletek bevételei között osztalék jogcímen kimutatott összeg, feltéve, hogy annak összegét az osztalékot megállapító társaság (ideértve a kezelt vagyont) nem számolja az adózás előtti eredmény terhére ráfordításként;
 
 29. összes bevétel: az adóévre vonatkozó beszámolóban kimutatott (ennek hiányában az adóév utolsó napjára vonatkozó könyvviteli zárlat alapján megállapított) értékesítés nettó árbevétele, egyéb bevételek, pénzügyi műveletek bevételei és rendkívüli bevételek;
 

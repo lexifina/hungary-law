@@ -1,6 +1,6 @@
 ## A társasági adó alanya
 
-2. § (1) A társasági adó alanya a (2)–(4) bekezdésben meghatározott személy.
+2. § (1) A társasági adó alanya a (2)–(4) és (6) bekezdésben meghatározott személy.
 
 (2) Belföldi illetőségű adózó a belföldi személyek közül
 
@@ -38,6 +38,6 @@ c) ingatlannal rendelkező társaságban meglévő részesedésének elidegenít
 
 (5) Nem alanya a társasági adónak az 5. számú mellékletben felsorolt szervezet.
 
-(6)
+(6) Belföldi illetőségű adózónak minősül a bizalmi vagyonkezelési szerződés alapján kezelt vagyon.
 
 (7)

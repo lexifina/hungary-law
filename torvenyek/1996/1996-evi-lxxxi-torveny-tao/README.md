@@ -33,3 +33,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-81-00-00
 | 2014-01-01 | 2013. évi CC. törvény | 1996-81-00-00.78 |
 | 2014-01-22 | 2013. évi CCXXXVI. törvény | 1996-81-00-00.79 |
 | 2014-02-25 | 2014. évi XVI. törvény | 1996-81-00-00.80 |
+| 2014-03-15 | 2014. évi XV. törvény | 1996-81-00-00.81 |

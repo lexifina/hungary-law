@@ -26,4 +26,4 @@ b) a (4) és (5) bekezdés hatálya alá tartozó támogatási igazolás esetén
 
 (11)–(13)
 
-(14) A szövetkezet a szövetkezetekről szóló 2006. évi X. törvény 58. §-a alapján az adóévben képzett közösségi alap 6,5 százalékát adókedvezményként veheti igénybe. Az adókedvezmény az állami támogatásokra vonatkozó rendelkezések alkalmazásában az adóévben igénybe vett csekély összegű (de minimis) támogatásnak minősül.
+(14) A szövetkezet a Ptk. alapján az adóévben képzett közösségi alap 6,5 százalékát adókedvezményként veheti igénybe. Az adókedvezmény az állami támogatásokra vonatkozó rendelkezések alkalmazásában az adóévben igénybe vett csekély összegű (de minimis) támogatásnak minősül.
