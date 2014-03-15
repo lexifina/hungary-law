@@ -22,7 +22,7 @@
 
 11. árutőzsdei szolgáltató: a Bszt. szerinti árutőzsdei szolgáltató;
 
-12. kockázati tőkealap-kezelő: a Tpt. szerinti kockázati tőkealap-kezelő;
+12. kockázati tőkealap-kezelő: a kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény szerinti kockázati tőkealap-kezelő;
 
 13. befektetési alapkezelő: a Tpt. szerinti befektetési alapkezelő;
 
