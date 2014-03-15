@@ -9,3 +9,7 @@
 (4) A Vásárhelyi Pál Díj Bizottságba két tagot a belügyminiszter delegál.
 
 (5) A miniszter a bizottságok javaslatainak figyelembevételével dönt az elismerések adományozásáról.
+
+(6)[^4] E rendelet alkalmazásában gazdálkodó szervezeten a polgári perrendtartásról szóló törvényben meghatározott gazdálkodó szervezetet kell érteni.
+
+[^4]: A 2. § (6) bekezdését a 22/2014. (III. 14.) VM rendelet 87. §-a iktatta be.
