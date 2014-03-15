@@ -8,7 +8,7 @@
 
 (3) Az Igazgatóság elnökévé, tagjává az a felsőfokú végzettségű magyar állampolgár nevezhető ki, aki költségvetési, pénzügyi, vagyongazdálkodási tevékenységgel kapcsolatos kérdésekben kiemelkedő elméleti, vagy gyakorlati szakmai ismeretekkel rendelkezik. A 20/B. § rendelkezéseit az Igazgatóság elnöke és tagja esetében is megfelelően alkalmazni kell.
 
-(4) A Gt.-ben foglalt feladatokon kívül az Igazgatóság hatáskörébe tartozik
+(4) A Ptk.-ban foglalt feladatokon kívül az Igazgatóság hatáskörébe tartozik
 
 a) az állami vagyon fejlesztésével, hasznosításával, elidegenítésével kapcsolatos irányelvekre vonatkozó javaslat kialakítása a miniszter részére,
 
@@ -16,13 +16,13 @@ b) az állami vagyon elidegenítésével – ideértve a cserét is – kapcsola
 
 c) döntés az állami vagyon b) pont alá nem tartozó hasznosításáról, illetve megterheléséről, ha az ügylet rendelkezésre álló értéke (aktualizált nyilvántartási érték, értékbecslés, ajánlati ár, szerződéses ár) eléri vagy meghaladja az 500 millió forintot, vagy – a központi költségvetési szervek javára történő hasznosítás kivételével – a hasznosítás határozott időtartamra szól és az meghaladja a 10 évet,
 
-d) döntés az állami tulajdonú gazdasági társaságok közgyűlésein, illetve taggyűlésein képviselendő álláspont kialakításáról (mandátum kiadás), a Magyar Állam egyszemélyes tulajdonában álló gazdasági társaságok esetében alapítói határozat kiadása, ha
+d) döntés az állami tulajdonú gazdasági társaságok közgyűlésein, illetve taggyűlésein képviselendő álláspont kialakításáról, az állam egyszemélyes tulajdonában álló gazdasági társaságok esetében alapítói határozat kiadása, ha
 
-– a társaság kizárólagos állami tulajdoni körbe tartozik,
+da) a társaság kizárólagos állami tulajdoni körbe tartozik,
 
-– a társaság részvényei valamilyen többletjogot biztosítanak – a Gt. 186. § (1) bekezdése alapján – a többletjogok vonatkozásában,
+db) a társaság részvényei valamilyen többletjogot biztosítanak – a Ptk. 3:230. § (1) bekezdése alapján – a többletjogok vonatkozásában,
 
-– a társaság saját tőkéjén belül az állami részesedés eléri vagy meghaladja a 200 millió forintot,
+dc) a társaság saját tőkéjén belül az állami részesedés eléri vagy meghaladja a 200 millió forintot,
 
 e) – ha annak jogszabályban foglalt feltételei fennállnak – döntés a zártkörű pályázat kiírásáról, vagy a versenyeztetés mellőzéséről, ha az ügyben érintett vagyon rendelkezésre álló értéke eléri vagy meghaladja az 50 millió forintot,
 
@@ -52,7 +52,7 @@ q) döntés állami tulajdonú társasági részesedések esetén az Nvtv. 8. §
 
 (5) Az Igazgatóság a (4) bekezdés alapján a hatáskörébe nem tartozó bármely ügyet magához vonhat. A (4) bekezdésben meghatározott döntési hatáskörök jogosultjának megállapításához az értéket (ügyletértéket) vagyonelemenként kell figyelembe venni azzal, hogy amennyiben a döntés több vagyonelem együttes értékesítésére, hasznosítására irányul a döntési hatáskört a vagyonelemek, illetve az azokhoz kapcsolódó ügyletek együttes értéke alapján kell meghatározni.
 
-(6) Az Igazgatóság tagját megillető jogokra és az őt terhelő kötelezettségekre a Gt. szerinti társasági jogi jogviszony az irányadó azzal, hogy az ott nem szabályozott kérdésekben a Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) megbízási szerződésre vonatkozó szabályait kell megfelelően alkalmazni.
+(6) Az Igazgatóság tagját megillető jogokra és az őt terhelő kötelezettségekre a Ptk. szerinti társasági jogi jogviszonyra vonatkozó rendelkezések az irányadók azzal, hogy az ott nem szabályozott kérdésekben a Ptk.-nak a megbízási szerződésre vonatkozó szabályait kell megfelelően alkalmazni.
 
 (7) Az Igazgatóság tagja csak a jogszabályoknak, az alapító okiratnak, valamint az MNV Zrt. felett részvényesi jogokat gyakorló miniszter határozatainak van alávetve.
 
