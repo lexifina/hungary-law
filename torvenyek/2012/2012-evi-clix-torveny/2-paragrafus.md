@@ -44,6 +44,8 @@ f) a küldeménynek a feladó lakóhelyén, tartózkodási helyén, székhelyén
 
 15. futárposta-szolgáltatás: olyan – a küldemény felvételétől számított legfeljebb 24 órán belül teljesítendő – időgarantált postai szolgáltatás, amelynek keretében a postai szolgáltató arra vállal kötelezettséget, hogy a postai küldemény felvételét végző személy a postai küldeményt a kézbesítés megkísérléséig megszakítás nélkül személyes felügyelete alatt tartja oly módon, hogy a feladó ez alatt bármely időpontban rendelkezhessen a postai küldemény címzettjének vagy címének a megváltoztatásáról, és sikertelen személyes kézbesítés esetén megtehesse a szükséges intézkedéseket;
 
+15a. gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet;
+
 16. gyűjtés: a felvételi pontokon a felvételt vagy a szolgáltatói hozzáférési pontokon a hálózati átvételt követően a postai küldemények feldolgozás helyére történő eljuttatása;
 
 17. hálózati átvétel: az a – postai szolgáltatók között lezajló – tevékenység, amely során a postai küldemény a postai szolgáltatási szerződést megkötő postai szolgáltatótól hálózati hozzáférési szerződés alapján egy másik postai szolgáltató hálózatába kerül;

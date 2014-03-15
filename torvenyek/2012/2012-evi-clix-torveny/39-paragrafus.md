@@ -1,6 +1,6 @@
 ## 23. A postai szolgáltatási szerződés általános szabályai
 
-39. § (1) A postai szolgáltatási szerződésre az e törvényben és az e törvény felhatalmazása alapján kiadott jogszabályokban foglaltakat kell alkalmazni. Az e törvényben vagy a felhatalmazása alapján kiadott jogszabályokban nem szabályozott kérdésben a polgári törvénykönyv szabályait kell alkalmazni.
+39. § (1) A postai szolgáltatási szerződésre az e törvényben és az e törvény felhatalmazása alapján kiadott jogszabályokban foglaltakat kell alkalmazni. Az e törvényben vagy a felhatalmazása alapján kiadott jogszabályokban nem szabályozott kérdésben a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) szabályait kell alkalmazni.
 
 (2) Magyarország területén nyújtott vagy igénybe vett postai szolgáltatásokkal kapcsolatos postai szolgáltatási szerződésben és az egyedi szerződésben a felek az e törvény vagy az e törvény felhatalmazása alapján megalkotott más postai jogszabály rendelkezéseit kötelesek alkalmazni és külföldi bíróság joghatóságát nem köthetik ki. A Magyarországon feladott és külföldön kézbesítendő postai küldemények kézbesítésére vonatkozó, e törvényben vagy az e törvény felhatalmazása alapján kiadott jogszabályban megállapított kézbesítési szabályok kizárólag akkor nem alkalmazandóak, ha a kézbesítés helye szerinti állam jogszabálya e szabályok alkalmazását kizárja.
 

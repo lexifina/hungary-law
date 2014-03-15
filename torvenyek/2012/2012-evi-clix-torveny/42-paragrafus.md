@@ -14,7 +14,7 @@ köteles – a címhelyen történő kézbesítés sikertelensége esetén a jog
 
 (5) A (3) és (4) bekezdés szerinti postai küldeményt a postai szolgáltató köteles a feladónak visszakézbesíteni. A visszakézbesítés esetén a küldemény feladónak történő átadását a visszakézbesítés költségeinek megtérítéséhez kötheti a szolgáltató. Amennyiben a feladó a visszakézbesítés költségeit nem téríti meg, vagy a postai szolgáltatón kívül álló okból a visszakézbesítés nem lehetséges, a postai küldemény visszakézbesíthetetlennek minősül.
 
-(6) A visszakézbesíthetetlen postai küldeményt a postai szolgáltató őrizni köteles. Az őrzésre a polgári törvénykönyv felelős őrzésre vonatkozó szabályait a következő eltérésekkel kell alkalmazni. A postai szolgáltató
+(6) A visszakézbesíthetetlen postai küldeményt a postai szolgáltató őrizni köteles. A postai szolgáltató jogállására a Ptk. jogalap nélküli birtoklásra vonatkozó szabályait azzal az eltéréssel kell alkalmazni, hogy a postai szolgáltató
 
 a) a b) és c) pontban foglalt esetek kivételével a postai küldeményt a feladásától számított három hónap elteltéig őrizni köteles, ezt követően a küldeményt megsemmisítheti;
 
