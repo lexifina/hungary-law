@@ -10,7 +10,7 @@
 
 5.
 
-6.
+6. 26. § (1) bekezdésében a „január 15-éig” szövegrész helyébe a „január 10-éig” szöveg;
 
 7.
 
