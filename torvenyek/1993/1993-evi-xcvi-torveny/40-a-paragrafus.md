@@ -1,12 +1,12 @@
 ## Az üzleti titok és pénztártitok
 
-40/A. § (1) Üzleti titok minden olyan, a pénztár tevékenységéhez kapcsolódó tény, információ, megoldás vagy adat, amelynek titokban maradásához a pénztárnak méltányolható érdeke fűződik, és amelyet a pénztár üzleti titokká minősített, illetve amelynek titokban tartása érdekében a pénztár a szükséges intézkedéseket megtette.
+40/A. § (1) E törvény alkalmazásában üzleti titok fogalma alatt a Ptk. 2:47. § (1) bekezdésében meghatározott fogalmat kell érteni.
 
 (2) Pénztártitok minden olyan, a pénztártagról és a munkáltatói tagról a pénztár vagy a pénztári szolgáltató rendelkezésére álló, a tevékenysége folytán tudomására jutó tény, információ vagy adat, amely a pénztártag, a pénztártag kedvezményezettjének, örökösének, közeli hozzátartozójának személyére, adataira, vagyoni helyzetére, üzleti tevékenységére, tulajdonosi, üzleti kapcsolataira, valamint egyéni számláján nyilvántartott összegre, illetve, amely a munkáltatói tag, illetve a támogató adataira, vagyoni helyzetére, üzleti tevékenységére, tulajdonosi, üzleti kapcsolataira vonatkozik. A pénztár üzleti és pénztártitkot kizárólag a pénztári tevékenység folytatásával összefüggésben kezelhet.
 
 (3) Nem lehet üzleti titokra hivatkozással visszatartani az információt a közérdekű adatok nyilvánosságára és a közérdekből nyilvános adatra vonatkozó, külön törvényben meghatározott adatszolgáltatási és tájékoztatási kötelezettség esetén.
 
-(4) Az üzleti titokra egyebekben a Ptk. 81. §-ában foglaltakat kell megfelelően alkalmazni.
+(4)
 
 (5) A pénztár igazgatótanácsának és az ellenőrző bizottságának tagja, a pénztár alkalmazottja, ideértve a megbízás alapján foglalkoztatott személyeket, szervezeteket, illetőleg ezek alkalmazottait is, köteles a pénztár működésével kapcsolatban tudomására jutott üzleti titkot és pénztártitkot – időbeli korlátozás nélkül, ezen minősége megszűnését követően is – megtartani.
 

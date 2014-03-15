@@ -30,7 +30,7 @@ cb) aki súlyosan vagy ismételten megsértette a Felügyelet feladatkörébe es
 
 (3) Az igazgatótanács és az ellenőrző bizottság tagjai, ha az alapszabály erre módot ad, díjazásban részesülhetnek a közgyűlés határozatának megfelelően.
 
-(4) Az ellenőrző bizottságnak nem lehet tagja a pénztár ügyvezetője, alkalmazottja, illetve az igazgatótanács tagja, valamint ezen személyek közeli hozzátartozója [Ptk. 685. § b) pont].
+(4) Az ellenőrző bizottságnak nem lehet tagja a pénztár ügyvezetője, alkalmazottja, illetve az igazgatótanács tagja, valamint ezen személyek közeli hozzátartozója.
 
 (5)
 

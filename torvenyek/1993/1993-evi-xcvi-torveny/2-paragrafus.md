@@ -40,7 +40,7 @@ k) zárt pénztár: olyan pénztár, amely munkahely vagy szakmai, érdekképvis
 
 (4) E törvény alkalmazásában
 
-a) közeli hozzátartozó: a Ptk. 685. §-ának b) pontjában megjelölt közeli hozzátartozó és az élettárs;
+a) közeli hozzátartozó: a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) 8:1. § (1) bekezdés 1. pontjában meghatározott személyek, valamint az élettárs;
 
 b) hozzáférhetőség: a pénztár által szervezett és nyújtott szolgáltatásokra a pénztár alapszabályában meghatározott módon kizárólag a pénztártagok, illetve a pénztártag jogán a közeli hozzátartozók jogosultak;
 
