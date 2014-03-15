@@ -1,1 +1,0 @@
-12. § Ez a törvény nem érinti a károsultnak a szerződésszegéssel, illetve a szerződésen kívül okozott károkért való felelősség szabályain alapuló, vagy külön jogszabályban meghatározott igényérvényesítési lehetőségeit.
