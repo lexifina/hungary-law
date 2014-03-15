@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-127-00-00
 | 2012-09-02 | 2010. évi CXXX. törvény | 2012-127-00-00.2 |
 | 2013-07-01 | 2013. évi LXXXI. törvény | 2012-127-00-00.3 |
 | 2013-12-31 | 2013. évi CCL. törvény | 2012-127-00-00.4 |
+| 2014-03-15 | 2013. évi CCLII. törvény | 2012-127-00-00.5 |
