@@ -26,7 +26,7 @@ n)[^12]
 
 o) termelő: vágómarhát előállító tenyésztő, hizlaló;
 
-p)[^13] vágómarha kis- vagy nagykereskedő: a vágómarhát a termelőtől megvásárló, vágóhídnak értékesítő vállalkozó, jogi személy vagy jogi személyiséggel nem rendelkező gazdasági társaság.
+p)[^13] vágómarha kis- vagy nagykereskedő: a vágómarhát a termelőtől megvásárló, vágóhídnak értékesítő vállalkozó, jogi személy vagy jogi személyiséggel nem rendelkező szervezet.
 
 [^4]: A 2. § a 76/2003. (VII. 4.) FVM rendelet 2. §-ával megállapított szöveg.
 [^5]: A 2. § a) pontját a 76/2003. (VII. 4.) FVM rendelet 12. § (3) bekezdése hatályon kívül helyezte, újonnan a 82/2009. (VII. 15.) FVM rendelet 1. § (1) bekezdése iktatta be.
@@ -37,4 +37,4 @@ p)[^13] vágómarha kis- vagy nagykereskedő: a vágómarhát a termelőtől meg
 [^10]: A 2. § j)–l) pontját a 76/2003. (VII. 4.) FVM rendelet 12. §-ának (3) bekezdése hatályon kívül helyezte.
 [^11]: A 2. § m) pontja a 82/2009. (VII. 15.) FVM rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^12]: A 2. § n) pontját a 82/2009. (VII. 15.) FVM rendelet 6. § (2) bekezdése hatályon kívül helyezte.
-[^13]: A 2. § p) pontja a 176/2004. (XII. 30.) FVM rendelet 1. §-ával megállapított szöveg.
+[^13]: A 2. § p) pontja a 176/2004. (XII. 30.) FVM rendelet 1. §-ával megállapított, a 22/2014. (III. 14.) VM rendelet 4. §-a szerint módosított szöveg.
