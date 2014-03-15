@@ -14,10 +14,8 @@ f) bányatelek megállapításának, módosításának, az ásványi nyersanyag 
 
 g) termőföld más célú hasznosításának;
 
-h) külön jogszabályban meghatározott veszélyes anyag átszállításának, tárolásának;
-
-i) kormányrendeletben meghatározott esetekben a vízgazdálkodási, vízvédelmi tevékenységek, létesítmények
+h) külön jogszabályban meghatározott veszélyes anyag átszállításának, tárolásának
 
 engedélyezésekor.
 
-(2) A természetvédelmi hatóság a Natura 2000 területre közvetlen kihatással lévő vagy azt közvetlenül érintő más hatósági eljárás során – kivéve, ha a tevékenység környezeti hatásvizsgálat- vagy egységes környezethasználati engedélyköteles – kormányrendeletben meghatározott esetekben szakhatóságként működik közre a vízgazdálkodási, vízvédelmi hatósági eljárásokban.
+(2)

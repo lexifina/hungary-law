@@ -1,6 +1,6 @@
 ## Polgári jogi felelősség
 
-81. § (1) Az, aki a természet védelmére vonatkozó jogszabályokat, egyedi hatósági előírásokat megszegve kárt okoz, a kárt a Polgári Törvénykönyv 345–346. §-aiban foglalt szabályok szerint köteles megtéríteni.
+81. § (1) Az, aki a természet védelmére vonatkozó jogszabályokat, egyedi hatósági előírásokat megszegve kárt okoz, a kárt a Polgári Törvénykönyv fokozott veszéllyel járó tevékenységre vonatkozó szabályai szerint köteles megtéríteni.
 
 (2) A természet védelmének szabályai megszegésével okozott kár magában foglalja:
 
