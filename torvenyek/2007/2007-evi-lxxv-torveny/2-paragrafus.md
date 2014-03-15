@@ -12,7 +12,7 @@
 
 5. Gazdálkodó: a számvitelről szóló törvényben meghatározott fogalom.
 
-6. Gazdálkodó szervezet: a Polgári Törvénykönyvről szóló törvényben meghatározott fogalom.
+6. Gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet.
 
 7. Gazdálkodó szervezet (szervezet): a gazdálkodó szervezet és a gazdálkodó szervezetnek nem minősülő külföldi illetőségű szervezet.
 

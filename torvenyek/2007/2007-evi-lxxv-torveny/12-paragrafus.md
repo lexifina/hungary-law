@@ -12,7 +12,7 @@ bc) szándékos bűncselekmény miatt kiszabott, végrehajtásában felfüggeszt
 
 c) aki az okleveles könyvvizsgálói szakképesítéshez kötött tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt áll,
 
-d) aki cselekvőképességet korlátozó vagy kizáró gondnokság hatálya alatt áll vagy gondnokság alá helyezés nélkül is cselekvőképtelen,
+d) aki cselekvőképességet érintő gondnokság hatálya alatt áll vagy gondnokság alá helyezés nélkül is cselekvőképtelen,
 
 e) akit a kamarából fegyelmi eljárás keretében kizártak, az erről szóló határozat jogerőre emelkedésétől számított három évig,
 
