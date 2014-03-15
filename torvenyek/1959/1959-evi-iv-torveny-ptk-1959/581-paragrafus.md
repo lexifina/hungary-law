@@ -1,3 +1,0 @@
-Ptk.581. § (1) Az ajándékozó a megajándékozott tulajdonszerzésének, továbbá az ajándék tárgyának lényeges fogyatékosságáért vagy az ajándékozás során abban beálló kárért csak akkor felel, ha a megajándékozott bizonyítja, hogy az ajándékozó szándékosan vagy súlyosan gondatlanul járt el; a felelősség a kárért akkor is terheli az ajándékozót, ha a megajándékozottat nem tájékoztatja az ajándék olyan lényeges tulajdonságáról, amelyet a megajándékozott nem ismer.
-
-(2) Az ajándékozó az általános szabályok szerint felelős azért a kárért, amelyet az ajándékozással kapcsolatosan a megajándékozott egyéb vagyontárgyában okoz.

@@ -1,1 +1,0 @@
-Ptk.141. § A dolog hasznai a tulajdonostársakat tulajdoni hányaduk arányában illetik meg; ilyen arányban terhelik őket a dolog fenntartásával járó és a dologgal kapcsolatos egyéb kiadások, a közös tulajdoni viszonyból eredő kötelezettségek, és ugyanilyen arányban viselik a dologban beállott kárt is.

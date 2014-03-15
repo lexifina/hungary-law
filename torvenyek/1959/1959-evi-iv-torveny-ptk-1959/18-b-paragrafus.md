@@ -1,1 +1,0 @@
-Ptk.18/B. § A gyámhatóságnak a zárlat elrendelését, illetve az ideiglenes gondnokrendelést követő 8 napon belül a gondnokság alá helyezési pert meg kell indítania, a bíróságnak pedig legkésőbb a keresetlevél benyújtásától számított 30 napon belül a zárlatot, illetve az ideiglenes gondnokrendelést hivatalból felül kell vizsgálnia.

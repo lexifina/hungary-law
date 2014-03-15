@@ -1,3 +1,0 @@
-Ptk.418. § (1) A felek a mennyiséget meghatározhatják a mezőgazdasági termék sajátosságának megfelelő mértékegységben vagy meghatározott terület teljes termésében, illetőleg meghatározott állat teljes hozamában vagy ezek hányadában. A minőséget, a minőség és a mennyiség megvizsgálásának módját, a minőségi és a mennyiségi kifogásolás rendjét meghatározhatják szabványra vagy más előírásra, mindkét fél által ismert szokványra vagy mintaszabályzatra utalással vagy szabatos leírással.
-
-(2) A szerződés érvényesen csak írásban köthető. Az írásba foglalás elmulasztása esetében is érvényes a szerződés, ha bármelyik fél a szerződésből származó kötelezettségeit teljesítette.

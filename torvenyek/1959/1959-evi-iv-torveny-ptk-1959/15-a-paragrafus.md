@@ -1,3 +1,0 @@
-Ptk.15/A. § (1) A cselekvőképtelen személy jognyilatkozata – a (2) bekezdésben foglalt kivétellel – semmis; nevében gondnoka jár el. A gondnoknak a véleménynyilvánításra képes gondnokolt kívánságát, kéréseit – pl. a tartózkodási helyére vonatkozóan – a döntések meghozatala előtt meg kell hallgatnia és lehetőség szerint figyelembe kell vennie. Ha a gondnok e kötelezettségét folyamatosan megszegi, ez a 19/C. § (2) bekezdésében foglaltak szerinti elmozdítását vonhatja maga után.
-
-(2) A cselekvőképtelen személy maga is megkötheti azokat a csekély jelentőségű szerződéseket, amelyek a mindennapi életben tömegesen fordulnak elő, és különösebb megfontolást nem igényelnek.

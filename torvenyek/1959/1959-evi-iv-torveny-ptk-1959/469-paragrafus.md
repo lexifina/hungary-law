@@ -1,1 +1,0 @@
-Ptk.469. § A vendég a kárt haladéktalanul köteles bejelenteni. Ennek elmulasztása esetén a szálloda a kárért az általános szabályok szerint tartozik felelősséggel, de a bizonyítás sikertelenségének következménye a vendégre hárul.

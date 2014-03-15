@@ -1,1 +1,0 @@
-Ptk.142. § Az állag megóvásához és fenntartásához feltétlenül szükséges munkálatokat bármelyik tulajdonostárs jogosult elvégezni; az ilyen kiadások ráeső részét mindegyik tulajdonostárs viselni köteles. Ilyen kiadások előtt azonban a tulajdonostársakat a lehetőség szerint értesíteni kell.

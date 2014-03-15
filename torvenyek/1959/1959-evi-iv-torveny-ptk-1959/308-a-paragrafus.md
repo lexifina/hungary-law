@@ -1,3 +1,0 @@
-Ptk.308/A. § (1) Ha a jogosult igényét menthető okból nem tudja érvényesíteni, így különösen, ha a hiba a jellegénél vagy a dolog természeténél fogva a 308. §-ban meghatározott határidőn belül nem volt felismerhető, a szavatossági jogok érvényesítésének határideje a teljesítés időpontjától számított egy év, tartós használatra rendelt dolog esetében három év. Ha a kötelező alkalmassági idő három évnél hosszabb, az igény érvényesítésére ez a határidő az irányadó. E határidők elmulasztása jogvesztéssel jár.
-
-(2) Fogyasztói szerződésben az (1) bekezdésben megállapított hároméves határidőnél rövidebb határidő kikötése semmis.

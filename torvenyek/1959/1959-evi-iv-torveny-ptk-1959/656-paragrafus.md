@@ -1,3 +1,0 @@
-Ptk.656. § Az öröklési szerződés érvényességére az írásbeli végrendeletre vonatkozó rendelkezéseket azzal az eltéréssel kell alkalmazni, hogy korlátozottan cselekvőképes személy öröklési szerződésének érvényességéhez a törvényes képviselő hozzájárulása és a gyámhatóság jóváhagyása is szükséges, továbbá hogy a szerződésre akkor is a más által írt végrendelet alakiságai irányadók, ha az valamelyik fél saját kézírásával készült. Jogszabály az öröklési szerződés érvényességét hatósági jóváhagyáshoz kötheti.
-
-Ptké.73. § A házastársaknak ugyanabba az okiratba foglalt öröklési szerződése érvényes, ha mint örökhagyók kötnek harmadik személlyel szerződést.

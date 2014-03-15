@@ -1,1 +1,0 @@
-Ptk.20/B. § A gondnok köteles a gyámhatóság felhívására beszolgáltatni a gondnokolt pénzét, értékpapírjait, valamint értéktárgyait, ha azokat – figyelemmel a 20/C. §-ban foglaltakra is – a rendes vagyonkezelés szabályai szerint folyó kiadásokra készen tartani nem kell. A gyámhatósághoz beszolgáltatott vagyonnal való rendelkezéshez a gyámhatóság jóváhagyása szükséges.

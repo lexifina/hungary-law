@@ -1,1 +1,0 @@
-Ptk.131. § Ha a talált dolog tulajdonosa az egyévi határidőn belül nem jelentkezik, és a dolgon a találó sem szerez tulajdonjogot, a tulajdonjog, illetőleg a dolog értékesítéséből befolyt vételár az államot illeti.

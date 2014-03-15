@@ -1,1 +1,0 @@
-Ptk.289. § Ha valaki fajta szerint meghatározott maga termelte dolog szolgáltatására kötelezi magát, de azt egészben vagy részben nem képes szolgáltatni, nem köteles a hiányzó dolgot a teljesítés céljára mástól beszerezni. Ez a szabály a szerződésszegésért való felelősséget nem érinti.

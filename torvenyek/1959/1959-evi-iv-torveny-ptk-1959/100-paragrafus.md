@@ -1,1 +1,0 @@
-Ptk.100. § A tulajdonos a dolog használata során köteles tartózkodni minden olyan magatartástól, amellyel másokat, különösen szomszédait szükségtelenül zavarná, vagy amellyel jogaik gyakorlását veszélyeztetné.

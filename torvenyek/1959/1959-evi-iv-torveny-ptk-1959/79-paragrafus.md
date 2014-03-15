@@ -1,1 +1,0 @@
-Ptk.79. § A sajtó-helyreigazításra irányuló igény érvényesítésének szabályait a sajtószabadságról és a médiatartalmak alapvető szabályairól szóló 2010. évi CIV. törvény, valamint a polgári perrendtartásról rendelkező törvény állapítja meg.

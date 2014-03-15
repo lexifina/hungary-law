@@ -1,1 +1,0 @@
-Ptk.487. § Ha valaki tudva, hogy nincs hozzá joga, idegen ügyet sajátjaként lát el, vele szemben a megbízás nélküli ügyvitelből eredő jogokat lehet érvényesíteni. Ha e jogokat érvényesítik, az eljáró személy a jogalap nélküli gazdagodás szabályai szerint költségeit beszámíthatja.

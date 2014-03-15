@@ -1,3 +1,0 @@
-Ptk.305/A. § (1) Ha a jogosult a hibát a szerződéskötés időpontjában ismerte, vagy azt ismernie kellett, a kötelezett mentesül a szavatossági felelősség alól. Mentesül a kötelezett a szavatossági felelősség alól akkor is, ha a hiba a jogosult által adott anyag hibájára vezethető vissza, feltéve, hogy az anyag alkalmatlanságára a jogosultat figyelmeztette.
-
-(2) Fogyasztói szerződés esetében az ellenkező bizonyításáig vélelmezni kell, hogy a teljesítést követő hat hónapon belül felismert hiba már a teljesítés időpontjában megvolt, kivéve, ha e vélelem a dolog természetével vagy a hiba jellegével összeegyeztethetetlen. A felek ettől eltérő megállapodása semmis.

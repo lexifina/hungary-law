@@ -1,1 +1,0 @@
-Ptk.304. § A jogosult késedelmére vonatkozó szabályokat kell alkalmazni akkor is, ha a szolgáltatás fajta és mennyiség szerint volt meghatározva, de a felek a teljesítésre szánt dolgokat megjelölték, vagy a többi hasonló dologtól a jogosult részére elkülönítették.

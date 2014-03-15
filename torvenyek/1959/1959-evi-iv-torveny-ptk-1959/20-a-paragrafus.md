@@ -1,1 +1,0 @@
-Ptk.20/A. § A gondnok tevékenységét a gyámhatóság felügyeli. A gondnok a működéséről, illetve a gondnokolt állapotáról a gyámhatóság felhívására bármikor, egyébként pedig évente köteles beszámolni a gyámhatóságnak.

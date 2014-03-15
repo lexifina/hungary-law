@@ -1,1 +1,0 @@
-Ptk.621. § Ha az öröklésből kiesett személynek leszármazója van, ez utóbbi köteles a kiesett személy által kapott adományt osztályra bocsátani. Több leszármazónak az osztályra bocsátott értékek figyelembevételével kiszámított örökrészéből a felmenő által kapott adományt a hagyatékban való részesedés arányában kell levonni.

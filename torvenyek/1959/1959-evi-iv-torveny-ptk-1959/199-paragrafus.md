@@ -1,1 +1,0 @@
-Ptk.199. § Egyoldalú nyilatkozatból csak a jogszabályban megállapított esetekben keletkezik jogosultság a szolgáltatás követelésére; az egyoldalú nyilatkozatokra – ha a törvény kivételt nem tesz – a szerződésre vonatkozó szabályokat kell megfelelően alkalmazni.

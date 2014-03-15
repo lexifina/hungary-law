@@ -1,3 +1,0 @@
-Ptk.238. § (1) Érvénytelen szerződés érvényessé nyilvánítása esetén a szerződő felek a szerződésszegésért úgy felelnek, mintha a szerződés kezdettől fogva érvényes lett volna.
-
-(2) Aki érvénytelen szerződés fennálltában jóhiszeműen bízott, a felektől a szerződés megkötéséből eredő kárának megtérítését követelheti; ha azonban az érvénytelenség az egyik fél magatartására vezethető vissza, a bíróság a másik fél marasztalását mellőzi. Ha a felek valamelyike a harmadik személlyel szemben rosszhiszemű volt, teljes kártérítéssel tartozik akkor is, ha az érvénytelenség nem az ő magatartására vezethető vissza. Ezt a kártérítést a bíróság a szerződés teljes vagy részleges hatályban tartása útján is nyújthatja.

@@ -1,1 +1,0 @@
-Ptk.554. § A biztosítási összeg a folyó biztosítási évre a fizetett kártérítési összeggel csökken, kivéve, ha a szerződő fél az évi díjat megfelelően kiegészíti. Ezt a rendelkezést a felelősség- és a balesetbiztosítás körében nem lehet alkalmazni.

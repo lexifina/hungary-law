@@ -1,1 +1,0 @@
-Ptk.414/A. § A kutatási szerződésre a külön nem szabályozott kérdésekben a vállalkozási szerződés általános szabályait, illetőleg a megbízási szerződésre vonatkozó rendelkezéseket kell megfelelően alkalmazni.

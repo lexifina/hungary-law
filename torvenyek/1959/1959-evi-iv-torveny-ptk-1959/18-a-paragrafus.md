@@ -1,3 +1,0 @@
-Ptk.18/A. § (1) A gyámhatóság kivételesen, azonnali intézkedést igénylő esetben ideiglenes gondnokot rendelhet annak a nagykorú személynek, akinek az ügyei viteléhez szükséges belátási képessége – pszichés állapota vagy szellemi fogyatkozása miatt – tartósan teljes mértékben hiányzik, és az érdekeinek védelme más módon – elsősorban zárlat elrendelésével – nem lehetséges. Az ideiglenes gondnokot kirendelő határozat ellen nincs helye fellebbezésnek.
-
-(2) A gyámhatóság az ideiglenes gondnokot kirendelő határozatában megjelöli, hogy az ideiglenes gondnok a 14. § (6) bekezdésében meghatározott ügycsoportok közül melyekben járhat el az érintett személy helyett.

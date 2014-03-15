@@ -1,3 +1,0 @@
-Ptk.418/A. § (1) A szerződő felek a mezőgazdasági termékértékesítési szerződésben kötelezettséget vállalhatnak arra, hogy a megrendelő a termelő — illetve a termelő a megrendelő — részére a teljesítést elősegítő szolgáltatást nyújt és ezzel kapcsolatban tájékoztatást ad, a másik fél pedig a szolgáltatást az adott útmutatásnak megfelelően igénybe veszi.
-
-(2) Ha a vetőmagot vagy más szaporítóanyagot a megrendelő szolgáltatja, a termelő csak ezt használhatja fel. Nem használható fel azonban az a vetőmag, szaporítóanyag, amellyel kapcsolatban a termelő minőségi kifogással élt, és azt a megrendelő elfogadta, vagy a minőség meghatározására jogosult szerv a minőségi hibát megállapította.

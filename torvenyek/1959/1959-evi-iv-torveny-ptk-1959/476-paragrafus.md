@@ -1,1 +1,0 @@
-Ptk.476. § Ha a megbízó célszerűtlen vagy szakszerűtlen utasítást ad, a megbízott köteles őt erre figyelmeztetni; ha a megbízó utasításához e figyelmeztetés ellenére is ragaszkodik, az utasításból eredő károk őt terhelik.

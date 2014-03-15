@@ -1,1 +1,0 @@
-Ptk.244. § Ha a szerződést teljesítik, a foglalót a szolgáltatás ellenértékébe be kell számítani, ha pedig a foglaló a beszámításra nem alkalmas, vagy a szerződés olyan okból szűnik meg, amelyért egyik fél sem felelős, vagy mindkét fél felelős, a foglaló visszajár.

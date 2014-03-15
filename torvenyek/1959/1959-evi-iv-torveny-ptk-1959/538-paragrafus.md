@@ -1,3 +1,0 @@
-Ptk.538. § (1) Az írásbeli megállapodást, illetőleg a biztosító elfogadó nyilatkozatát biztosítási kötvény (igazolójegy, biztosítási bélyeg) kiállítása pótolja. Ha a kötvény tartalma a fél ajánlatától eltér, és az eltérést a fél tizenöt napon belül nem kifogásolja, a szerződés a kötvény tartalma szerint jön létre. Ezt a rendelkezést lényeges eltérésekre csak akkor lehet alkalmazni, ha a biztosító az eltérésre a szerződő fél figyelmét a kötvény kiszolgáltatásakor írásban felhívta; ha a felhívás elmarad, a szerződés az ajánlat tartalmának megfelelően jön létre.
-
-(2) A szerződő fél biztosítási kötvény kiadását akkor is követelheti, ha a szerződés más módon már létrejött.

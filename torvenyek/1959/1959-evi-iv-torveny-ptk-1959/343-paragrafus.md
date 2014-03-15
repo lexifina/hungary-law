@@ -1,1 +1,0 @@
-Ptk.343. § A jogtalan támadás vagy a jogtalan és közvetlenül támadásra utaló fenyegetés elhárítása érdekében a támadónak okozott kárt nem kell megtéríteni, ha a védekező az elhárítással a szükséges mértéket nem lépte túl.

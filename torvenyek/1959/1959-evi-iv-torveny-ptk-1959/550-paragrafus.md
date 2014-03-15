@@ -1,1 +1,0 @@
-Ptk.550. § Ha a szerződést nem a biztosított kötötte, a biztosított a biztosítóhoz intézett írásbeli nyilatkozattal bármikor a szerződő fél helyébe léphet. Ebben az esetben a folyó biztosítási időszakban esedékes díjakért a szerződő féllel egyetemlegesen felelős.

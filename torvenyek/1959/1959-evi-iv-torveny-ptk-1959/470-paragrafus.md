@@ -1,1 +1,0 @@
-Ptk.470. § A szállodát az elszállásolásból folyó követelései biztosítására zálogjog illeti meg a vendégnek azokon a dolgain, amelyeket a szállodába magával vitt. Erre a zálogjogra a bérbeadó zálogjogának szabályait kell megfelelően alkalmazni.

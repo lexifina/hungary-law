@@ -1,1 +1,0 @@
-Ptk.331. § Ha a követelés jogszabály vagy hatóság rendelkezése folytán száll át másra, azok eltérő rendelkezése hiányában az engedményezés szabályait kell megfelelően alkalmazni. Ebben az esetben a korábbi jogosult kezesi felelőssége csak akkor marad fenn, ha ezt kifejezett rendelkezés írja elő.

@@ -1,1 +1,0 @@
-Ptk.55. § A közös vállalatnál az igazgató, korlátolt felelősségű társaságnál az ügyvezető, míg részvénytársaságnál az igazgatóság tagjai képviselik a gazdasági társaságot harmadik személyekkel szemben, valamint bíróságok és hatóságok előtt.
