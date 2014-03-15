@@ -230,7 +230,7 @@
 
 ## Nincs kizárva, hogy az eset sajátosságaira jellemző nyomonkövetés vagy általános vizsgálat formájában a géntechnológiai hatóságok további nyomonkövetést végeztessenek el. Az ilyen vizsgálatok célja, hogy lehetővé tegyék a kockázatkezelő részére a megfelelő, késedelem nélküli intézkedések meghozatalát, amennyiben bármilyen nem kívánatos és azonosítatlan hatás bukkan fel a kockázat értékelést megelőzően. Ezt azonban nem kell a nyomonkövetési terv pótlásának tekinteni, ami a végrehajtást végző hasznosító felelőssége marad (bár az érintett felek beleegyezésével annak részét képezheti).
 
-## IV.1.7. Létező rendszerek
+## IV.1.7.[^17] Létező rendszerek
 
 ## Lehetőség van a már létező nyomonkövetési vagy általános vizsgálati rendszerek kiterjesztésére a géntechnológiával módosított szervezetek forgalomba hozatala során felmerülő lehetséges ártalmas hatásokkal kapcsolatos intézkedések céljából. Ezek a rendszerek magukban foglalhatnak vizsgálati programokat a mezőgazdaság, élelmiszervizsgálatok, természetvédelem, az ökológiai hosszú távú nyomonkövetési programok, környezet-nyomonkövetési programok és állategészségügyi vizsgálatok területén.
 
@@ -238,7 +238,7 @@
 
 ## A hagyományos mezőgazdasági haszonnövények nyomonkövetése és ellenőrzése rendszerint már a tagállamokban megtörténik a műtrágyahasználattal kapcsolatos számítások, valamint a járványok, betegségek és a gyomnövények terjedésének szabályozása érdekében. Az ilyen jellegű nyomonkövetést és ellenőrzést a vegetációs időszak során a szóban forgó mezőgazdasági termékeket értékesítő tanácsadók és maguk a termelők végzik rendszeresen.
 
-## Lehetőség van arra, hogy a géntechnológiával módosított vetőmagvak értékesítéséhez hasonló szolgáltatásokat kapcsoljanak, amelynek alapján a gazdálkodó szervezet képviselői vagy a megbízott tanácsadók az általános ellenőrzéssel kapcsolatban legalább néhány feladatot átvehetnek. A géntechnológiával módosított vetőmagvakat forgalomba hozókhoz el lehet juttatni a vizsgálatokkal, nyomonkövetésekkel és jelentésekkel kapcsolatos információkat, az értékesítés vagy felhasználás feltételeként pedig szerződéses megállapodások is alkalmazhatók.
+## Lehetőség van arra, hogy a géntechnológiával módosított vetőmagvak értékesítéséhez hasonló szolgáltatásokat kapcsoljanak, amelynek alapján a hasznosító képviselői vagy a megbízott tanácsadók az általános ellenőrzéssel kapcsolatban legalább néhány feladatot átvehetnek. A géntechnológiával módosított vetőmagvakat forgalomba hozókhoz el lehet juttatni a vizsgálatokkal, nyomonkövetésekkel és jelentésekkel kapcsolatos információkat, az értékesítés vagy felhasználás feltételeként pedig szerződéses megállapodások is alkalmazhatók.
 
 ## A termelők vagy a mezőgazdasági tanácsadók, amennyiben egyértelmű utasításokat kapnak, kétségtelenül végre tudják hajtani a legfontosabb előre nem látható változások vagy hatások kimutatására irányuló vizsgálatokat, mint például a felmagzó alkalmi növények elterjedésére és a szomszédos területeken való megtelepedésére vonatkozó vizsgálatokat. E körülmények között előre látható, hogy a káros hatások felügyelete és ellenőrzése beépíthető a járványok és gyomnövények megfékezését célzó mezőgazdasági tevékenységek megállapítására alkalmazott rendszeres eljárások közé.
 
@@ -353,3 +353,5 @@ együttes rendelethez
 – a szállítandó anyagnak a vonatkozó szabályzat osztálya, csomagolási csoportja, valamint
 
 – a szállítandó anyag megfelelő szállításához szükséges írásbeli utasítás, amennyiben ezt a vonatkozó szállítási szabályzat előírja.
+
+[^17]: A 2. melléklet B. rész IV.1.7. pontja a 22/2014. (III. 14.) VM rendelet 31. §-a szerint módosított szöveg.
