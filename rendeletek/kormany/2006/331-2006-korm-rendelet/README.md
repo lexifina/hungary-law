@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-331-20-
 | 2013-09-01 | 2006-331-20-22.22 | 174/2012. (VII. 26.) Korm. rendelet |
 | 2013-12-01 | 2006-331-20-22.23 | 369/2013. (X. 24.) Korm. rendelet |
 | 2014-01-01 | 2006-331-20-22.24 | 97/2013. (III. 29.) Korm. rendelet |
+| 2014-03-15 | 2006-331-20-22.25 | 70/2014. (III. 13.) Korm. rendelet |

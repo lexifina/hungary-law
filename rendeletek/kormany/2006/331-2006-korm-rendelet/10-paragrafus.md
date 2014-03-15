@@ -1,15 +1,17 @@
-## 10. §[^52] A járási gyámhivatal a gyámsággal és gondnoksággal kapcsolatban
+## 10. §[^56] A járási gyámhivatal a gyámsággal, gondnoksággal, előzetes jognyilatkozattal és támogatott döntéshozatallal kapcsolatban
 
-a)[^53] a gyermek részére gyámot, családbafogadó gyámot vagy gyermekvédelmi gyámot rendel, a nevelőszülőt egyes gyámi feladatok ellátására gyámként kirendeli,
+a) a gyermek részére családbafogadó gyámot vagy gyermekvédelmi gyámot rendel, a nevelőszülőt egyes gyámi feladatok ellátására gyámként kirendeli,
 
-b) ideiglenes gondnokot, gondnokot, hivatásos gondnokot rendel,
+b) ideiglenes gondnokot, gondnokot, hivatásos gondnokot rendel, és felügyeli tevékenységüket,
 
-c)[^54] irányítja és felügyeli a családbafogadó gyám és a gyermekvédelmi gyám tevékenységét,
+c) felügyeli a családbafogadó gyám, valamint felügyeli és irányítja a gyermekvédelmi gyám tevékenységét,
 
 d) felfüggeszti, elmozdítja vagy felmenti a gyámot, a gondnokot,
 
-e) külön jogszabályban meghatározott esetekben zárlatot rendel el, zárgondnokot, eseti gondnokot, ügygondnokot, az ügyei vitelében akadályozott személy képviseletére és méhmagzat részére gondnokot rendel és ment fel, továbbá megállapítja a munkadíjukat.
+e) külön jogszabályban meghatározott esetekben zárlatot rendel el, zárgondnokot, eseti gondnokot, eseti gyámot, ügygondnokot, a magzat részére gyámot rendel és ment fel, továbbá megállapítja a munkadíjukat,
 
-[^52]: A 10. § nyitó szövegrésze a 174/2012. (VII. 26.) Korm. rendelet 42. § (13) bekezdés a) pontja szerint módosított szöveg.
-[^53]: A 10. § a) pontja a 97/2013. (III. 29.) Korm. rendelet 71. §-ával megállapított szöveg.
-[^54]: A 10. § c) pontja a 97/2013. (III. 29.) Korm. rendelet 71. §-ával megállapított szöveg.
+f) felveszi és jegyzőkönyvbe foglalja az előzetes jognyilatkozatot, valamint gondoskodik annak az előzetes jognyilatkozatok nyilvántartásába való bejegyzésre jogosult bíróságnak történő megküldéséről, és
+
+g) támogatót, hivatásos támogatót rendel ki, felügyeli a tevékenységét, valamint felfüggeszti, elmozdítja vagy felmenti a támogatót, hivatásos támogatót.
+
+[^56]: A 10. § a 70/2014. (III. 13.) Korm. rendelet 94. §-ával megállapított szöveg.
