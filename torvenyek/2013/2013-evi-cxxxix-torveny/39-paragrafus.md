@@ -28,7 +28,7 @@ k) a foglalkoztatói nyugdíjról és intézményeiről szóló törvény (a tov
 
 l) a Bszt.,
 
-m) a befektetési alapkezelőkről és a kollektív befektetési formákról szóló törvény (a továbbiakban: Batv.),
+m) a kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló törvény (a továbbiakban: Kbftv.),
 
 n) a viszontbiztosítókról szóló törvény (a továbbiakban: Vbit.),
 

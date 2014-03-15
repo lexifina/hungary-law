@@ -36,4 +36,12 @@ p) az Európai Parlament és a Tanács 2011. november 16-i 2011/89/EU irányelve
 
 q) az Európai Parlament és a Tanács 2012. március 14-i 260/2012/EK rendelete az euróátutalások és -beszedések technikai és üzleti követelményeinek megállapításáról és a 924/2009/EK rendelet módosításáról,
 
-r) az Európai Parlament és a Tanács 2013. június 26-i 575/2013/EU rendelete a hitelintézetekre és befektetési vállalkozásokra vonatkozó prudenciális követelményekről és a 648/2012/EU rendelet módosításáról.
+r) az Európai Parlament és a Tanács 2013. június 26-i 575/2013/EU rendelete a hitelintézetekre és befektetési vállalkozásokra vonatkozó prudenciális követelményekről és a 648/2012/EU rendelet módosításáról,
+
+s) az Európai Parlament és a Tanács 345/2013/EU rendelete (2013. április 17.) az európai kockázatitőke-alapokról,
+
+t) az Európai Parlament és a Tanács 346/2013/EU rendelete (2013. április 17.) az európai szociális vállalkozási alapokról,
+
+u) a Bizottság 447/2013/EU végrehajtási rendelete (2013. május 15.) a 2011/61/EU európai parlamenti és tanácsi irányelv önkéntes alkalmazását választó ABAK-okra vonatkozó eljárás létrehozásáról,
+
+v) a Bizottság 448/2013/EU végrehajtási rendelete (2013. május 15.) a nem uniós ABAK-ok referencia-tagállamának a 2011/61/EU európai parlamenti és tanácsi irányelv szerinti meghatározását szolgáló eljárás létrehozásáról.

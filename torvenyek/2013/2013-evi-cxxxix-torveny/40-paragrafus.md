@@ -17,3 +17,11 @@
 (9) Az MNB látja el a 4. § (9) bekezdésében meghatározott feladatkörében az üvegházhatást okozó gázok kibocsátási egységei Közösségen belüli kereskedelmi rendszerének létrehozásáról szóló 2003/87/EK európai parlamenti és tanácsi irányelv alapján az üvegházhatást okozó gázok kibocsátási egységei árverés útján történő értékesítésének időbeli ütemezéséről, lebonyolításáról és egyéb vonatkozásairól szóló 1031/2010/EU bizottsági rendelet (2010. november 12.) (a továbbiakban: a 1031/2010/EU bizottsági rendelet) 43. cikke szerinti illetékes hatóságként a 1031/2010/EU bizottsági rendelet 37–42. cikkének végrehajtását.
 
 (10) Az MNB látja el a 4. § (9) bekezdésében meghatározott feladatkörében az 575/2013/EU rendelet végrehajtását.
+
+(11) Az MNB a 39. § (1) bekezdés m) pontjában meghatározott feladatai során ellátja az európai kockázatitőke-alapokról szóló, 2013. április 17-i 345/2013/EU parlamenti és tanácsi rendelet végrehajtását.
+
+(12) Az MNB a 39. § (1) bekezdés m) pontjában meghatározott feladatai során ellátja az európai szociális vállalkozási alapokról szóló, 2013. április 17-i 346/2013/EU parlamenti és tanácsi rendelet végrehajtását.
+
+(13) Az MNB a 39. § (1) bekezdés m) pontjában meghatározott feladatai során ellátja a 2011/61/EU európai parlamenti és tanácsi irányelv önkéntes alkalmazását választó ABAK-okra vonatkozó eljárás létrehozásáról szóló, 2013. május 15-i 447/2013/EU bizottsági végrehajtási rendelet végrehajtását.
+
+(14) Az MNB a 39. § (1) bekezdés m) pontjában meghatározott feladatai során ellátja a nem uniós ABAK-ok referencia-tagállamának a 2011/61/EU európai parlamenti és tanácsi irányelv szerinti meghatározását szolgáló eljárás létrehozásáról szóló, 2013. május 15-i 448/2013/EU bizottsági végrehajtási rendelet végrehajtását.

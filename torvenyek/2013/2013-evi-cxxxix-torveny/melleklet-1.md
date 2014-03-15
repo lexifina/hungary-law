@@ -36,7 +36,7 @@
 
 ## 5. a cél-ÁÉKBV szétválása vagy másik ÁÉKBV-vel való egyesülése esetén annak engedélyezésére, hogy a gyűjtő-ÁÉKBV az egyesülés, illetve szétválás eredményeképp létrejött másik ÁÉKBV gyűjtő-ÁÉKBV-je maradjon vagy eszközeinek legalább 85 százalékát egy másik, nem az egyesülés vagy szétválás eredményeképp létrejött cél-ÁÉKBV kollektív befektetési értékpapírjaiba fektesse, továbbá a kezelési szabályzat tervezett módosításának jóváhagyására,
 
-## 6. a cél-ÁÉKBV szétválása, egyesülése, megszűnése esetén a gyűjtő-ÁÉKBV számára annak engedélyezésére, hogy a Batv. 118. § (4) bekezdésének b) pontja, valamint a Batv. 118. § (6) bekezdés c) pontja szerint nem gyűjtő-ÁÉKBV-ként működik tovább, valamint a gyűjtő-ÁÉKBV kezelési szabályzata tervezett módosításainak jóváhagyására,
+## 6. a cél-ÁÉKBV szétválása, egyesülése, megszűnése esetén a gyűjtő-ÁÉKBV számára annak engedélyezésére, hogy a Kbftv. 143. § (4) bekezdésének b) pontja, valamint a Kbftv. 143. § (6) bekezdésének c) pontja szerint nem gyűjtő-ÁÉKBV-ként működik tovább, valamint a gyűjtő-ÁÉKBV kezelési szabályzata tervezett módosításainak jóváhagyására,
 
 ## 7. a cél-ÁÉKBV egyesülése vagy szétválása esetén a gyűjtő-ÁÉKBV törlésére,
 
@@ -60,7 +60,7 @@
 
 ## 5. a harmonizált befektetési alapok (ÁÉKBV-k) egyesülésére,
 
-## 6. a Batv. 78. § (7) bekezdésében meghatározott körbe tarozó – ugyanazon befektetési alapkezelő és letétkezelő által kezelt másik befektetési alap részalapjává válást jelentő – egyesülésére,
+## 6. a Kbftv. 82. § (7) bekezdésében meghatározott körbe tarozó – ugyanazon befektetési alapkezelő és letétkezelő által kezelt másik befektetési alap részalapjává válást jelentő – egyesülésére,
 
 ## 7. kollektív befektetési forma, illetve annak részalapja szétválásának engedélyezésére,
 
