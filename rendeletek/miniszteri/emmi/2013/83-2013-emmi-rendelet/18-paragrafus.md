@@ -1,9 +1,10 @@
-## 15–17. §[^4]
+## 15–17. §[^5]
 
-18. § (1)[^5]
+18. § (1)[^6]
 
-(2)[^6]
+(2) Az R1. 152/A. §-ában a „gondnoki” szövegrészek helyébe a „gyámi”
 
-[^4]: A 15–17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^5]: A 18. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^6]: A 18. § (2) bekezdése a 37. § (4) bekezdése alapján 2014. március 15-én lép hatályba.
+szöveg lép.
+
+[^5]: A 15–17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 18. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
