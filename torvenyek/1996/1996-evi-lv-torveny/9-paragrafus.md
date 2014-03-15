@@ -2,6 +2,8 @@
 
 9. § (1) A vad az állam tulajdonában van.
 
+(1a) A vad tulajdonjogának megszerzésére a Polgári Törvénykönyv „A vadak és a halak tulajdonjogának megszerzése” fejezet szabályait kell az e törvényben foglalt eltérésekkel alkalmazni.
+
 (2) A vadászterületen elejtett, elfogott vad (ideértve annak trófeáját is), a hullatott agancs, a szárnyas vad jogszerűen gyűjtött tojása, az elhullott vad teteme a jogosult tulajdonába kerül. A más vadászterületről átváltott sebzett vad – a vadászatra jogosult hozzájárulásával – a sebzés helye szerinti jogosult tulajdonába kerül, ha – a vadászatra jogosult hozzájárulásával – utánkeresés során ejtik el vagy elhullottan fellelik.
 
 (3) A nem vadászterületen elhullott vad teteme, valamint a hullatott agancs annak a jogosultnak tulajdonába kerül, amelyiknek a vadászterületéről a vad oda került. Kétség esetén tulajdonosnak a fellelés helye szerinti legközelebbi vadászterület jogosultját kell tekinteni.

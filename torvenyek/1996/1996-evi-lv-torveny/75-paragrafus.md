@@ -1,6 +1,6 @@
 ## V. Fejezet
 
-## FELELŐSSÉG A VADKÁRÉRT, A VADÁSZATI KÁRÉRT, VALAMINT A VAD ELPUSZTÍTÁSÁVAL OKOZOTT KÁRÉRT
+## FELELŐSSÉG A VADKÁRÉRT, A VADÁSZHATÓ ÁLLAT ÁLTAL OKOZOTT KÁRÉRT, A VADÁSZATI KÁRÉRT, VALAMINT A VAD ELPUSZTÍTÁSÁVAL OKOZOTT KÁRÉRT
 
 ## A vadkár
 
@@ -8,4 +8,4 @@
 
 (2) A vadkár megtérítésére az köteles, aki a kárt okozó vad vadászatára jogosult, és akinek vadászterületén a károkozás bekövetkezett, illetőleg akinek vadászterületéről a vad kiváltott.
 
-(3) A jogosult a Polgári Törvénykönyvnek a fokozott veszéllyel járó tevékenységre vonatkozó szabályai szerint köteles megtéríteni a károsultnak a vad által a mezőgazdálkodáson és erdőgazdálkodáson kívül másnak okozott kárt.
+(3)
