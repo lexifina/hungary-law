@@ -33,3 +33,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2004-140-00-00
 | 2013-10-01 | 2013. évi CXLIII. törvény | 2004-140-00-00.41 |
 | 2014-01-01 | 2013. évi CCXVIII. törvény | 2004-140-00-00.42 |
 | 2014-01-02 | 2012. évi LXXVI. törvény | 2004-140-00-00.43 |
+| 2014-03-15 | 2013. évi CCLII. törvény | 2004-140-00-00.44 |

@@ -2,4 +2,4 @@
 
 (2) A közigazgatási hatóság a nem jogszabályszerű eljárással okozott kárt a polgári jog szabályai szerint megtéríti.
 
-(3)
+(3) A közigazgatási hatóság nem jogszabályszerű eljárása következtében személyiségi jogában megsértett jogalany számára sérelemdíjat fizet.

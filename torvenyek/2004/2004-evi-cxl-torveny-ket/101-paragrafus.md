@@ -12,7 +12,7 @@ a) életveszéllyel vagy súlyos kárral fenyegető helyzet megelőzése, elhár
 
 b) nemzetbiztonsági és honvédelmi érdekből vagy a közbiztonság fenntartása érdekében, illetve fontos közrendvédelmi okból szükséges,
 
-c) a végrehajtás késedelme jelentős vagy helyrehozhatatlan kárral járna,
+c) a végrehajtás késedelme jelentős vagy helyrehozhatatlan kárral vagy a személyiségi jogok jelentős sérelmével járna,
 
 d) a döntés valakinek a tartásáról vagy gondozásáról rendelkezik,
 

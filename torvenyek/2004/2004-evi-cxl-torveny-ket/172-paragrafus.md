@@ -106,6 +106,12 @@ n) üzemzavar: az ügyfél és a hatóság, valamint a hatóságok egymás köz�
 
 o) médiatartalom-szolgáltató: a sajtószabadságról és a médiatartalmak alapvető szabályairól szóló törvény szerinti médiatartalom-szolgáltató,
 
-p) kiskorú, korlátozottan cselekvőképes személy, cselekvőképtelen személy: a polgári törvénykönyv szerinti kiskorú, korlátozottan cselekvőképes személy, illetve cselekvőképtelen személy,
+p) korlátozottan cselekvőképes személy: olyan cselekvőképességében részlegesen korlátozott nagykorú, akinek a polgári jog szabályai szerinti cselekvőképessége az eljárásra, az eljárás tárgyára, illetve egyes eljárási cselekményekre kiterjedő hatállyal korlátozva van, valamint az a kiskorú, aki a tizennegyedik életévét betöltötte és nem cselekvőképtelen,
 
-q) elektronikus tájékoztatás: az információs önrendelkezési jogról és az információszabadságról szóló törvény szerint nyújtott elektronikus tájékoztatás.
+q) kiskorú személy: a Polgári Törvénykönyv szerinti kiskorú személy,
+
+r) cselekvőképtelen személy: a Polgári Törvénykönyv szerinti cselekvőképtelen személy,
+
+s) cselekvőképes személy: a Polgári Törvénykönyv szerinti cselekvőképes személy, valamint olyan cselekvőképességében részlegesen korlátozott nagykorú, akinek a polgári jog szabályai szerinti cselekvőképessége az eljárásra, az eljárás tárgyára, illetve az egyes eljárási cselekményekre kiterjedő hatállyal nincs korlátozva,
+
+t) elektronikus tájékoztatás: az információs önrendelkezési jogról és az információszabadságról szóló törvény szerint nyújtott elektronikus közzététel.
