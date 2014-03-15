@@ -1,33 +1,37 @@
 ## A lajstromba feljegyezhető tények
 
-12. § (1) A lajstromba csak az úszólétesítményhez kapcsolódó következő, jogilag jelentős tények jegyezhetők fel:
+12. §[^15] (1) A lajstromba csak az úszólétesítményhez kapcsolódó következő, jogilag jelentős tények jegyezhetők fel:
 
-a) a jogosult kiskorúsága vagy gondnokság alá helyezése,
+1. a jogosult kiskorúsága vagy gondnokság alá helyezése,
 
-b) a jogosulttal szemben megindított felszámolási eljárás, végelszámolás,
+2. a jogosulttal szemben megindított felszámolási eljárás, végelszámolás, kényszertörlési eljárás,
 
-c) a fellebbezés és a lajstromozó hatóság határozata elleni bírósági jogorvoslati kérelem,
+3. a fellebbezés és a lajstromozó hatóság határozata elleni bírósági jogorvoslati kérelem,
 
-d) bejegyzés alapjául szolgáló vagy azzal kapcsolatos bírósági határozat ellen benyújtott bírósági felülvizsgálati kérelem,
+4. bejegyzés alapjául szolgáló vagy azzal kapcsolatos bírósági határozat ellen benyújtott bírósági felülvizsgálati kérelem,
 
-e) bejegyzés iránti kérelem elutasítása,
+5. bejegyzés iránti kérelem elutasítása,
 
-f) az eljárás felfüggesztésének a ténye,
+6. az eljárás felfüggesztésének a ténye,
 
-g) bírósági ítéleten alapuló tulajdoni korlátozás,
+7. bírósági ítéleten alapuló tulajdoni korlátozás,
 
-h) a szerződésen vagy végintézkedésen alapuló elidegenítési és terhelési tilalom,
+8. a szerződésen vagy végintézkedésen alapuló elidegenítési és terhelési tilalom, elidegenítési tilalom,
 
-i) árverés kitűzése,
+9. árverés kitűzése,
 
-j)[^14] zár alá vétel, zár alá vételt megelőző biztosítási intézkedés, zárlat az Európai Unió által elrendelt pénzügyi és vagyoni korlátozó intézkedés végrehajtására;
+10. zárlat, zár alá vétel, zárlat az Európai Unió által elrendelt pénzügyi és vagyoni korlátozó intézkedés végrehajtására,
 
-k) a törölt zálogjog ranghelyének fenntartása, illetve a ranghellyel való rendelkezés jogáról történő lemondás,
+11. a törölt zálogjog ranghelyének fenntartása, a ranghellyel való rendelkezés jogáról történő lemondás,
 
-l) jelzálogjog ranghelyének előzetes biztosítása,
+12. jelzálogjog ranghelyének előzetes biztosítása,
 
-m) ranghely megváltoztatása.
+13. ranghely megváltoztatása,
 
-(2) Az (1) bekezdés a)–f) pontjaiban említett tények bejegyzésének elmaradása az azokhoz egyébként fűződő joghatásokat nem érinti. A g)–m) pontokban meghatározott tények bejegyzésének elmaradása esetén a jogosult azokat jóhiszemű harmadik jogszerzővel szemben nem érvényesítheti.
+14. bizalmi vagyonkezelés alapján fennálló kezelt vagyonba tartozó tulajdonjog,
 
-[^14]: A 12. § (1) bekezdésének j) pontja a 407/2007. (XII. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
+15. zálogjogosulti bizományos kijelölése, a kijelölés visszavonása.
+
+(2) Az (1) bekezdés 1–6. pontjában említett tények feljegyzésének elmaradása az azokhoz egyébként fűződő joghatásokat nem érinti. Az (1) bekezdés 7–15. pontokban meghatározott tények feljegyzésének elmaradása esetén a jogosult azokat jóhiszemű harmadik jogszerzővel szemben nem érvényesítheti.
+
+[^15]: A 12. § az 53/2014. (III. 3.) Korm. rendelet 10. § (3) bekezdésével megállapított szöveg.

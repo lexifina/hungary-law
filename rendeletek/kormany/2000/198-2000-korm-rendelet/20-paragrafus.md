@@ -1,4 +1,4 @@
-## 19. § Önálló zálogjogot az úszólétesítmény egészére vagy közös tulajdonban álló úszólétesítménynek a tulajdonostársat megillető eszmei hányadára lehet ezzel az elnevezéssel, meghatározott összeg erejéig bejegyezni. A hitelezőt a bejegyzésben fel kell tüntetni.
+## 19. §[^16]
 
 ## Haszonélvezeti jog
 
@@ -9,3 +9,5 @@
 (3) A bejegyzésben fel kell tüntetni a haszonélvezeti jog időtartamát is, illetőleg azt is, ha a haszonélvezeti jog a jogosultat élete végéig megilleti (holtig tartó haszonélvezeti jog). A túlélő házastárs törvényes öröklésen alapuló haszonélvezeti jogát ,,özvegyi jog'' elnevezéssel kell megjelölni.
 
 (4) Haszonélvezeti jogot több jogosult javára egyidejűleg is be lehet jegyezni, fel kell azonban tüntetni, hogy a haszonélvezeti jog a jogosultakat közösen vagy egymást követő sorrendben illeti-e meg.
+
+[^16]: A 19. §-t és az azt megelőző alcím címét az 53/2014. (III. 3.) Korm. rendelet 10. § (10) bekezdése hatályon kívül helyezte.

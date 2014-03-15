@@ -2,7 +2,7 @@
 
 44. § (1) A belföldön kiállított okiratnak – ahhoz, hogy lajstromozási bejegyzés alapjául szolgálhasson – tartalmaznia kell:
 
-a)[^24] az ügyfél természetes személyazonosító adatait, állampolgárságát és lakcímét,
+a)[^34] az ügyfél természetes személyazonosító adatait, állampolgárságát és lakcímét,
 
 b) a statisztikai számjellel rendelkező szervezet megnevezését, székhelyét és törzsszámát, valamint bírósági, illetőleg cégbírósági bejegyzésének számát,
 
@@ -24,20 +24,22 @@ b) két, az okiraton névvel és lakcímmel megnevezett tanú aláírásával ig
 
 c) az okiratot ügyvéd ellenjegyzéssel látta el, vagy
 
-d)[^25] a gazdálkodó szervezet által üzleti körében kiállított okiratot szabályszerűen aláírták,
+d)[^35] a gazdálkodó szervezet által üzleti körében kiállított okiratot szabályszerűen aláírták,
 
 e) több lapból álló okirat esetén a szerződő felek, a készítő és ellenjegyző, illetőleg a tanúsító személyek kézjegyét minden lapon tartalmazza,
 
 f) a meghatalmazottaknak és a feleknek az okirat alapján nyilvánvalóan azonosítható aláírását tartalmazza.
 
-(3) A tulajdonjog, haszonélvezeti jog, az üzembentartói jog, bérleti jog, vételi jog, jelzálogjog (önálló jelzálogjog) keletkezésére, módosulására, illetve megszűnésére vonatkozó bejegyzésnek közokirat vagy ügyvéd által ellenjegyzett magánokirat alapján van helye. Ellenjegyzésként a jogtanácsos ellenjegyzését is el kell fogadni, ha a szerződő felek valamelyike jogtanácsos által képviselt szervezet. Nem alkalmas bejegyzésre az olyan okirat, amelyen a készítő és ellenjegyző ügyvéd, illetőleg a közokiratba foglaló közjegyző szerződő félként van feltüntetve.
+(3)[^36] A tulajdonjog, haszonélvezeti jog, az üzembentartói jog, bérleti jog, elő- vagy visszavásárlási jog, eladási és a vételi jog, valamint a jelzálogjog keletkezésére, módosulására, megszűnésére, valamint önálló zálogjog módosulására, megszűnésére vonatkozó bejegyzésnek közokirat vagy ügyvéd által ellenjegyzett magánokirat alapján van helye. Ellenjegyzésként a jogtanácsos ellenjegyzését is el kell fogadni, ha a szerződő felek valamelyike jogtanácsos által képviselt gazdálkodó szervezet. Nem alkalmas bejegyzésre az olyan okirat, amelyen a készítő és ellenjegyző ügyvéd, vagy a közokiratba foglaló közjegyző szerződő félként van feltüntetve.
 
 (4) Az ellenjegyzéssel ellátott magánokirat bejegyzés alapjául akkor fogadható el, ha az tartalmazza az ellenjegyző személy nevét, aláírását, irodájának székhelyét, az ellenjegyzés időpontját és az ,,ellenjegyzem'' megjelölést. Az ügyvéd által teljesített ellenjegyzés érvényességének további feltétele a szárazbélyegző lenyomata.
 
-(5) Jelzálogjog (önálló jelzálogjog) alapítására és megszűnésére vonatkozó bejegyzés olyan magánokirat alapján is teljesíthető, amelyet a nyilatkozattevő hitelintézet – nevének feltüntetésével – szabályszerűen írt alá.
+(5)[^37] Jelzálogjog alapítására és megszűnésére, valamint önálló zálogjogJelzálogjog (önálló jelzálogjog) alapítására és megszűnésére vonatkozó bejegyzés olyan magánokirat alapján is teljesíthető, amelyet a nyilatkozattevő hitelintézet – nevének feltüntetésével – szabályszerűen írt alá.
 
-(6)[^26] Motoros vízi sporteszköz esetében a bejegyzés a (2) bekezdés szerinti magánokirat alapján teljesíthető.
+(6)[^38] Motoros vízi sporteszköz esetében a bejegyzés a (2) bekezdés szerinti magánokirat alapján teljesíthető.
 
-[^24]: A 44. § (1) bekezdésének a) pontja a 182/2009. (IX. 10.) Korm. rendelet 196. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^25]: A 44. § (2) bekezdés d) pontja a 122/2012. (VI. 26.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^26]: A 44. § (6) bekezdését a 122/2012. (VI. 26.) Korm. rendelet 5. § (2) bekezdése iktatta be.
+[^34]: A 44. § (1) bekezdésének a) pontja a 182/2009. (IX. 10.) Korm. rendelet 196. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^35]: A 44. § (2) bekezdés d) pontja a 122/2012. (VI. 26.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^36]: A 44. § (3) bekezdése az 53/2014. (III. 3.) Korm. rendelet 10. § (7) bekezdésével megállapított szöveg.
+[^37]: A 44. § (5) bekezdése az 53/2014. (III. 3.) Korm. rendelet 10. § (9) bekezdés c) pontja szerint módosított szöveg.
+[^38]: A 44. § (6) bekezdését a 122/2012. (VI. 26.) Korm. rendelet 5. § (2) bekezdése iktatta be.

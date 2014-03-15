@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-198-20-
 | 2012-01-01 | 2000-198-20-22.11 | 182/2009. (IX. 10.) Korm. rendelet |
 | 2012-07-26 | 2000-198-20-22.12 | 122/2012. (VI. 26.) Korm. rendelet |
 | 2013-02-01 | 2000-198-20-22.13 | 355/2012. (XII. 13.) Korm. rendelet |
+| 2014-03-15 | 2000-198-20-22.14 | 53/2014. (III. 3.) Korm. rendelet |
