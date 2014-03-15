@@ -112,11 +112,11 @@
 
 ## 1. Minden esetben vizsgálandó, hogy a tervezett tevékenység
 
-## 1.1. teljesíti-e a műemléki érték anyagi valóságában történő megőrzésének alapkövetelményét;
+## 1.1.[^83] teljesíti-e a védett műemléki érték anyagi valóságában történő megőrzésének alapkövetelményét;
 
 ## 1.2. tiszteletben tartja-e a műemlék történeti, kulturális értékének elsődlegességét a jelenkor használati követelményeinek kielégítése során; továbbá
 
-## 1.3. a műemléki értéket kellő mértékben és hitelesen érvényre juttatja-e.
+## 1.3.[^84] a védett műemléki értéket kellő mértékben és hitelesen érvényre juttatja-e.
 
 ## 2. A műemlékek funkciójával kapcsolatosan vizsgálandó, hogy a műemléki ingatlanon, épületben vagy építményben tervezett funkció az eredeti, illetve a jelenlegi funkcióhoz képest
 
@@ -128,7 +128,7 @@
 
 ## 3. Műemlékeket érintő beavatkozások körében figyelembe kell venni, hogy
 
-## 3.1. műemléken műemléki értékkel bíró épület, építmény, épület-, illetve építményrész nem bontható el, bontás a Kötv. 45. § (2) bekezdésében foglalt esetekben kivételesen engedélyezhető, amely esetekben az engedélyezésre benyújtott dokumentációban foglaltaknak igazolniuk kell a jogszabályi követelményeknek való megfelelést;
+## 3.1.[^85] műemléken védett műemléki értékkel bíró épület, építmény, épület-, illetve építményrész nem bontható el, bontás a Kötv. 45. § (2) bekezdésében foglalt esetekben kivételesen engedélyezhető, amely esetekben az engedélyezésre benyújtott dokumentációban foglaltaknak igazolniuk kell a jogszabályi követelményeknek való megfelelést;
 
 ## 3.2. műemlékhez történő hozzáépítés, ráépítés, illetve műemlék ingatlanán új építmény, építményrész építése különösen akkor engedélyezhető, ha a tervezett beavatkozás a műemléki érték fenntartásához elengedhetetlenül szükséges (szerkezeti megerősítés, védőépület), azonban csak annak mértékéig, hogy az új építmény, építményrész ne veszélyeztesse a meglévő értékek fennmaradását, érvényesülését, hitelességét;
 
@@ -138,7 +138,7 @@
 
 ## 3.5. egyenértékű beavatkozások lehetősége esetén a hozzájárulás megadása során előnyben kell részesíteni a visszafordítható megoldásokat.
 
-## 4. Műemlékek esetében vizsgálandó, hogy az épület-energetikai hatékonyságot javító, a megújuló energia alkalmazására, illetve az akadálymentesítésre irányuló beavatkozások összhangban vannak-e a műemléki értékek megőrzésének elsődlegességével, biztosítják-e annak érvényesülését.
+## 4.[^86] Műemlékek esetében vizsgálandó, hogy az építmények létesítési előírásainak való megfelelésre, különösen az épületgépészeti és elektromos rendszer elhelyezésére, átalakítására, cseréjére, eltávolítására, vagy az épületenergetikai hatékonyságot javító, a megújuló energia alkalmazására, az állékonyságra illetve az akadálymentesítésre irányuló beavatkozások összhangban vannak-e a műemléki értékek megőrzésének elsődlegességével, biztosítják-e annak érvényesülését.
 
 ## 5. Műemlék alkotórészének, tartozékának javítása vagy korszerűsítése során
 
@@ -146,9 +146,9 @@
 
 ## 5.2. arra kell törekedni, hogy azok helyébe azonos korú és jellegű történeti építőanyagok kerüljenek.
 
-## 6. A hatóságnak vizsgálnia kell annak a feltételnek a teljesülését, hogy műemlékek megjelenését befolyásoló fényforrások, reklámok, útbaigazító-, cég- és jelzőtáblák, utcabútorok, pavilonok és más szabadtér-építészeti elemek egyenként vagy összességükben nem eredményezhetik a műemlék tájban vagy településképben feltáruló látványának, a műemlékből és műemlékről élvezhető kilátásnak, illetve általában a műemléki érték érvényesülésének vagy hitelességének sérelmét.
+## 6.[^87] A hatóságnak figyelembe kell vennie annak a feltételnek a teljesülését, hogy műemlékek megjelenését befolyásoló fényforrások, reklámok, útbaigazító-, cég- és jelzőtáblák, utcabútorok, pavilonok és más szabadtér-építészeti elemek egyenként vagy összességükben nem eredményezhetik a műemlék tájban vagy településképben feltáruló látványának, a műemlékből és műemlékről élvezhető kilátásnak, illetve általában a műemléki érték érvényesülésének vagy hitelességének sérelmét.
 
-## 7. Történeti kert vagy műemlék telkén lévő park esetén a 4. § (6) bekezdésében meghatározott követelmények érvényesülését kell vizsgálni. A telekalakítással kapcsolatos eljárás során a történeti telektulajdonságokat (telekméret, telekforma, telekosztási struktúra, megközelítési lehetőség) az ingatlan kulturális örökségi elem elválaszthatatlan részeként kell tekintetbe venni, ezért
+## 7.[^88] Történeti kert vagy műemlék telkén lévő park esetén a 4. § (6) bekezdésében meghatározott követelmények érvényesülését kell figyelembe venni. A telekalakítással kapcsolatos eljárás során a történeti telektulajdonságokat (telekméret, telekforma, telekosztási struktúra, megközelítési lehetőség) az ingatlan kulturális örökségi elem elválaszthatatlan részeként kell tekintetbe venni, ezért
 
 ## 7.1. műemléki ingatlan megosztásához (illetve ezt eredményező telek-határrendezéshez, korrekcióhoz) kivételes esetben adható hozzájárulás, különösen akkor, ha az tudományos kutatás alapján bizonyítottan a történeti állapot visszaállítását szolgálja;
 
@@ -167,3 +167,10 @@
 ## 2.3. biztosítja-e a világörökségi terület egyetemes és nemzeti értékeinek megőrzését, fenntarthatóságát.
 
 4. melléklet a 393/2012. (XII. 20.) Korm. rendelethez
+
+[^83]: A 3. melléklet B. rész IV. alcím 1.1. pontja a 62/2014. (III. 6.) Korm. rendelet 41. § (3) bekezdés a) pontja szerint módosított szöveg.
+[^84]: A 3. melléklet B. rész IV. alcím 1.3. pontja a 62/2014. (III. 6.) Korm. rendelet 41. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^85]: A 3. melléklet B. rész IV. alcím 3.1. pontja a 62/2014. (III. 6.) Korm. rendelet 41. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^86]: A 3. melléklet B. rész IV. alcím 4. pontja a 62/2014. (III. 6.) Korm. rendelet 42. § (1) bekezdés c) pontjával megállapított szöveg.
+[^87]: A 3. melléklet B. rész IV. alcím 6. pontja a 62/2014. (III. 6.) Korm. rendelet 41. § (3) bekezdés c) pontja szerint módosított szöveg.
+[^88]: A 3. melléklet B. rész IV. alcím 7. pontja a 62/2014. (III. 6.) Korm. rendelet 41. § (3) bekezdés d) pontja szerint módosított szöveg.

@@ -6,6 +6,8 @@ a) a régészeti lelőhelyek és műemlékek fenntartható, integrált szemléle
 
 b) az örökségvédelem érdekeit érintő helyi szintű szakmai és társadalmi együttműködés elősegítése.
 
+(1a)[^68] Az illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala a Rendeletben meghatározottak szerint vizsgálja és véleményezi a műemléki értékek védetté nyilvánítására, illetve a műemléki védettség megszüntetésére irányuló kezdeményezéseket.
+
 (2) A miniszter – nem hatósági – örökségvédelmi feladatai különösen:
 
 a) a régészeti örökség és a műemléki értékek védelmével összefüggő feladatok szakmai irányítása,
@@ -16,4 +18,9 @@ c) a régészeti lelőhelyek és műemlékek fenntartását, fejlesztését seg�
 
 d) az örökségvédelem érdekeit érintő területi és országos szintű szakmai és társadalmi együttműködés elősegítése,
 
-e) örökségvédelmi tárgyú képzések kezdeményezése, tematikájának meghatározása, közreműködés ezek szervezésében.
+e) örökségvédelmi tárgyú képzések kezdeményezése, tematikájának meghatározása, közreműködés ezek szervezésében,
+
+f)[^69] az örökségvédelmi stratégia, valamint az ahhoz kapcsolódó szakmai ajánlások, útmutatók, szempontrendszerek kidolgozása és közzététele.
+
+[^68]: A 43. § (1a) bekezdését a 62/2014. (III. 6.) Korm. rendelet 39. § (1) bekezdése iktatta be.
+[^69]: A 43. § (2) bekezdés f) pontját a 62/2014. (III. 6.) Korm. rendelet 39. § (2) bekezdése iktatta be.

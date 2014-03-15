@@ -4,15 +4,15 @@
 
 ## AZ ÖRÖKSÉGVÉDELEMMEL KAPCSOLATOS EGYES FELADATOK ELLÁTÁSA
 
-## 26. Az örökségvédelmi iroda feladatainak ellátása
+## 26. [^61] Az Lechner Lajos Tudásközpont feladatai
 
-42. § (1) Az örökségvédelmi iroda országos illetékességgel ellátja
+42. § (1)[^62] Az LLTK országos illetékességgel ellátja
 
 a) régészeti lelőhelyek, a műemlékek és a műemléki területek védetté nyilvánításának előkészítésével kapcsolatos, a Kötv. 14. és 29. §-ában meghatározott feladatokat;
 
-b) a Kötv. 71. § (1) bekezdésében meghatározott nyilvántartásokkal kapcsolatos feladatokat;
+b)[^63] a Kötv. 71. § (1) bekezdésében meghatározott nyilvántartásokkal kapcsolatos feladatokat az OÉNY e-örökség alkalmazása keretében;
 
-c) az építéstörténeti kutatási dokumentáció véleményezését;
+c)[^64]
 
 d) a Kötv.-ben meghatározott tudományos feladatokat, ennek keretében különösen:
 
@@ -30,10 +30,18 @@ df) részt vesz a műemlékekhez kötődő szakrestaurálások előkészítésé
 
 dg) együttműködik az örökségvédelmi érdekű kutatási programokban.
 
-e) jogszabályban meghatározott esetekben szakvélemények készítésével kapcsolatos feladatokat;
+e)[^65] a központi műemléki tervtanácsi feladatok ellátásában való közreműködésével kapcsolatos feladatokat.
 
 f) a miniszter által meghatározott egyéb feladatokat.
 
-(2) Az örökségvédelmi iroda az 5. § (6) bekezdésben meghatározott szakvéleményt, az építéstörténeti kutatási dokumentáció véleményezését, valamint a 6. § (3) bekezdése szerinti tudományos adatszolgáltatást az arra irányuló megkereséstől számított 15 napon belül készíti el. A szakvéleményért, a véleményezésért és a tudományos adatszolgáltatásért díjat nem kell fizetni.
+(2)[^66] Az LLTK ellát szakértői feladatokat, különösen építéstörténeti kutatási dokumentáció és értékleltár készítését.
 
-(3) Az örökségvédelmi iroda és a Forster Gyula Nemzeti Örökséggazdálkodási és Szolgáltatási Központ egymás számára hozzáférést biztosítanak az általuk kezelt, a régészeti örökség és a műemléki értékek védelmével kapcsolatos feladataik ellátásához szükséges dokumentumokhoz és adatbázisokhoz.
+(3)[^67] Az LLTK és a Forster Gyula Nemzeti Örökséggazdálkodási és Szolgáltatási Központ egymás számára hozzáférést biztosítanak az általuk kezelt, a régészeti örökség és a műemléki értékek védelmével kapcsolatos feladataik ellátásához szükséges dokumentumokhoz és adatbázisokhoz.
+
+[^61]: A 26. alcím címe a 62/2014. (III. 6.) Korm. rendelet 41. § (1) bekezdés 22. pontja szerint módosított szöveg.
+[^62]: A 42. § (1) bekezdés nyitó szövegrésze a 62/2014. (III. 6.) Korm. rendelet 41. § (1) bekezdés 23. pontja szerint módosított szöveg.
+[^63]: A 42. § (1) bekezdés b) pontja a 62/2014. (III. 6.) Korm. rendelet 41. § (1) bekezdés 24. pontja szerint módosított szöveg.
+[^64]: A 42. § (1) bekezdés c) pontját a 62/2014. (III. 6.) Korm. rendelet 43. § d) pontja hatályon kívül helyezte.
+[^65]: A 42. § (1) bekezdés e) pontja a 62/2014. (III. 6.) Korm. rendelet 38. § (1) bekezdésével megállapított szöveg.
+[^66]: A 42. § (2) bekezdése a 62/2014. (III. 6.) Korm. rendelet 38. § (2) bekezdésével megállapított szöveg.
+[^67]: A 42. § (3) bekezdése a 62/2014. (III. 6.) Korm. rendelet 41. § (1) bekezdés 25. pontja szerint módosított szöveg.

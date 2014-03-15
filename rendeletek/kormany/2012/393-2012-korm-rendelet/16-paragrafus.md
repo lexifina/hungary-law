@@ -10,6 +10,8 @@ b) a védetté nyilvánítás kezdeményezőjét;
 
 c) a (3) bekezdésben meghatározott módon a tervezett műemléki környezet és régészeti védőövezet területén fekvő ingatlan tulajdonosát.
 
-(3) A védelem alá vonni tervezett műemléki jelentőségű területen és történeti táj területén álló ingatlanok tulajdonosait a védetté nyilvánítás előkészítésének megindításáról az örökségvédelmi iroda megkeresésére az érintett ingatlan fekvése szerinti települési önkormányzat a helyben szokásos módon (hirdetmény útján) értesíti.
+(3)[^50] A védelem alá vonni tervezett műemléki jelentőségű területen és történeti táj területén álló ingatlanok tulajdonosait a védetté nyilvánítás előkészítésének megindításáról a Lechner Lajos Tudásközpont Területi, Építésügyi, Örökségvédelmi és Informatikai Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: LLTK) megkeresésére az érintett ingatlan fekvése szerinti települési önkormányzat a helyben szokásos módon (hirdetmény útján) értesíti.
 
 (4) A (2) bekezdés szerinti értesítés közlése és a (3) bekezdés szerinti megkeresés iránt a védetté nyilvánítás előkészítésének megindításától számított tizenöt napon belül kell intézkedni.
+
+[^50]: A 16. § (3) bekezdése a 62/2014. (III. 6.) Korm. rendelet 41. § (1) bekezdés 17. pontja szerint módosított szöveg.

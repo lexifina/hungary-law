@@ -42,6 +42,8 @@
 
 | 19. | Zala | Zalaegerszeg | örökségvédelmi feladatok tekintetében: a megye |
 
-| 20. | Budapest | I. kerület V. kerület | örökségvédelmi feladatok tekintetében: I. kerület, II. kerület, III. kerület, XI. kerület, XII. kerület, XX. kerület, XXI. kerület,XXII. kerület, XXIII. kerület örökségvédelmi feladatok tekintetében: IV. kerület, V. kerület, VI. kerület, VII. kerület, VIII. kerület, IX. kerület, X. kerület, XIII. kerület, XIV. kerület, XV. kerület, XVI. kerület, XVII. kerület, XVIII. kerület, XIX. kerület |
+| 20. | Budapest | I. kerület | örökségvédelmi feladatok tekintetében: I. kerület, II. kerület, III. kerület, XI. kerület, XII. kerület, XX. kerület, XXI. kerület, XXII. kerület, XXIII. kerület |
+
+| 21. |  | V. kerület | örökségvédelmi feladatok tekintetében: IV. kerület, V. kerület, VI. kerület, VII. kerület, VIII. kerület, IX. kerület, X. kerület, XIII. kerület, XIV. kerület, XV. kerület, XVI. kerület, XVII. kerület, XVIII. kerület, XIX. kerület, Fővárosi Önkormányzat által közvetlenül igazgatott terület |
 
 2. melléklet a 393/2012. (XII. 20.) Korm. rendelethez

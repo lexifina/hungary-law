@@ -18,8 +18,10 @@ g) a feltárásra vonatkozó jogszabályi követelményekre való hivatkozást �
 
 (2) Az engedély – a 39. § (2) bekezdése szerinti kivétellel – a határozat jogerőre emelkedésétől számított egyéves időtartamban jogosít feltárás végzésére.
 
-(3) A járási építésügyi és örökségvédelmi hivatal a jogerős engedélyt megküldi az örökségvédelmi irodának és az Ásatási Bizottságnak.
+(3)[^57] A járási építésügyi és örökségvédelmi hivatal a jogerős engedélyt megküldi az LLTK-nak és az Ásatási Bizottságnak.
 
 (4) Az (1) bekezdés c) és e) pontja alapján az engedélyben meghatározottaktól eltérni csak az örökségvédelmi hatóság módosított engedélyével lehet.
 
 (5) A feltárást végző szerv a feltárás vezetője útján köteles a feltárás megkezdését a járási építésügyi és örökségvédelmi hivatalnak a 7. mellékletben meghatározott adattartalmú formanyomtatvány alkalmazásával bejelenteni, és tervásatás esetén a feltárás megkezdéséről – amennyiben a feltárást egyéb feltárási jogosultsággal rendelkező szerv végzi – az illetékes megyei hatókörű városi múzeumot értesíteni.
+
+[^57]: A 25. § (3) bekezdése a 62/2014. (III. 6.) Korm. rendelet 41. § (1) bekezdés 21. pontja szerint módosított szöveg.

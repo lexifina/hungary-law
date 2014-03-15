@@ -1,15 +1,17 @@
 ## 6. Egyes örökségvédelmi engedélyhez kötött tevékenységekkel kapcsolatos eltérő eljárási szabályok
 
-8. § (1) A 3. § (4) bekezdés l) pontjában meghatározott tevékenység esetén a kérelemhez mellékelni kell
+8. §[^37] (1) Az épület bármely külső felületén reklámtábla, reklám, felirat, dísz, szerelvény, gépészeti egység, napkollektor, napelem elhelyezése, cseréje, átalakítása, bontása (eltávolítása), eltakarása, valamint állvány építése, rögzítése esetén a kérelemhez mellékelni kell
 
-a) az 5. § (3) bekezdés a) és d) pontjában meghatározottakat;
+a) a beavatkozás előtti állapot fotódokumentációját az építményről és környezetéről;
 
-b) a 3. § (4) bekezdés l) pontjában meghatározott tárgy szerkezetének, anyagának, a felirat betűtípusának meghatározását, színezését, a megvilágítás módját, valamint a műemlék épülethez való csatlakoztatása műszaki megoldásának részletterveit; valamint
+b) a tárgy szerkezetének, anyagának, a felirat betűtípusának meghatározását, színezését, a megvilágítás módját, valamint a műemlék épülethez való csatlakoztatása műszaki megoldásának részletterveit;
 
-c) a beavatkozás mértékétől függően a tervezett elhelyezés melletti 2-2 tengelyt magába foglaló homlokzatszakaszt ábrázoló 1:50 léptékű dokumentációt.
+c) a beavatkozás mértékétől függően a tervezett elhelyezés melletti 2-2 tengelyt magába foglaló homlokzatszakaszt ábrázoló 1:50 léptékű tervet; valamint
 
-(2) A 3. § (4) bekezdés l) pontjában meghatározott tevékenység akkor engedélyezhető, ha a 6. § (5) bekezdésében meghatározott elutasítási okok nem állnak fenn, és a tevékenység eredménye a műemlék történeti, esztétikai értékeihez igazodik.
+d) az illeték megfizetésének igazolását.
 
-(3) A 3. § (4) bekezdés l) pontjában meghatározott tárgy elhelyezése – legfeljebb az engedély hatályával megegyező – határozott időre is engedélyezhető. A határozott idő kérelemre – amennyiben annak feltételei változatlanul fennállnak – meghosszabbítható.
+(2) Az (1) bekezdésben meghatározott tárgy elhelyezése határozott időre, de legfeljebb 5 évre, gépészeti egység, napkollektor, napelem esetén 20 évre kérhető.
 
-(4) A határozott időre szóló engedélyben meghatározott időtartam eltelte után az eredeti állapot helyreállításáért az engedélyes, továbbá reklám esetén a reklám közzétevője és a reklámozó egyetemlegesen felelős.
+(3) A határozott idő eltelte után – újabb engedély hiányában – az eredeti állapot helyreállításáért a tulajdonos, továbbá reklám esetén a reklám közzétevője és a reklámozó egyetemlegesen felelős.
+
+[^37]: A 8. § a 62/2014. (III. 6.) Korm. rendelet 30. §-ával megállapított szöveg.

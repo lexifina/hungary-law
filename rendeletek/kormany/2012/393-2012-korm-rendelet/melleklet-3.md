@@ -1,24 +1,24 @@
 ## Az építéstörténeti kutatási dokumentáció kötelező tartalmi elemei
 
-## Az építéstörténeti kutatási dokumentáció a műemlék egészére vagy az engedélyezési eljárás tárgyát képező tevékenységgel érintett részére vonatkozóan – értelemszerűen – az alábbiakat tartalmazza.
+## Az építéstörténeti kutatási dokumentáció a műemlék egészére vagy az engedélyezési eljárás tárgyát képező tevékenységgel érintett részére vonatkozóan – a tevékenység jellegétől függő részletezettséggel – az alábbiakat tartalmazza.[^74]
 
 ## 1. A vonatkozó szakirodalom jegyzetekkel kiegészített ismertetése:
 
 ## Az érintett műemlékkel, az azt befogadó környezettel, a műemlék típusával kapcsolatos legfontosabb publikációk áttekintése és ismertetése a műemléki bibliográfiák, művészet- és építészettörténeti szakirodalom, helytörténeti irodalom stb. alapján.
 
-## 2. Forráskutatás (releváns írott források, térképek, tervek, fényképek, ábrázolások):
+## 2.[^75] Forráskutatás (releváns írott források, térképek, tervek, fényképek, ábrázolások, szóbeli visszaemlékezések):
 
-## Részleges beavatkozás esetén legalább a Forster Gyula Nemzeti Örökséggazdálkodási és Szolgáltatási Központ, teljes épületet, teljes épületrészt érintő beavatkozás esetén továbbá a Magyar Nemzeti Levéltár és az adott témában releváns egyéb levél-, fotó- és tervtárak, helytörténeti- és szakmai gyűjtemények, szakmúzeumok (pl. Budapest Főváros Önkormányzata által fenntartott levéltár, a Magyar Nemzeti Levéltár megyei tagintézményei és szaklevéltárak stb.) anyagainak (iratok, tervrajzok, dokumentációk, térképek, fotók, képeslapok, inventáriumok, elszámolások, adásvételi szerződések stb.) ismertetése és a forráskritika módszerével történő, szakmailag megfelelő értékelése.
+## Részleges beavatkozás esetén legalább a Forster Gyula Nemzeti Örökséggazdálkodási és Szolgáltatási Központ, teljes épületet, teljes épületrészt érintő beavatkozás esetén továbbá a Magyar Nemzeti Levéltár és az adott témában releváns egyéb levél-, fotó- és tervtárak, helytörténeti- és szakmai gyűjtemények, szakmúzeumok (pl. Budapest Főváros Önkormányzata által fenntartott levéltár, a Magyar Nemzeti Levéltár megyei tagintézményei és szaklevéltárak stb.) forrásainak (iratok, tervrajzok, dokumentációk, térképek, fotók, képeslapok, inventáriumok, elszámolások, adásvételi szerződések stb.) ismertetése és a forráskritika módszerével történő, szakmailag megfelelő értékelése; a műemlék jelentőségének kifejtése; a szóbeli visszaemlékezések lehetőség szerinti teljességre törekvő összegyűjtése és kritikai elemzése.
 
-## 3. Részletes épületleírás (külső és belső szakszerű leírás, kiterjedően az engedélyezendő tevékenységgel érintett alkotórészekre és tartozékokra), történeti kert vagy műemlék telkén lévő kert esetében a kertépítészeti alkotóelemek leírása.
+## 3.[^76] Részletes épületleírás (külső és belső szakszerű leírás, kiterjedően az eljárás tárgyát képező tevékenységgel érintett alkotórészek és tartozékok védett műemléki értékeinek megjelenésére és összefüggéseire).
 
-## 4. Értékleltár:
+## 4.[^77] Értékleltár a 8. mellékletben meghatározott tartalmi elemekkel:
 
-## A műemlék tömeg- és térkapcsolatainak, homlokzatainak, a felszínen látható (roncsolásos beavatkozás nélkül dokumentálható) összes szerkezeti elemének, tartozékának, díszének, berendezési tárgyának, védett kert esetében kertépítészeti elemeinek, növényzetének, továbbá az elpusztult, vagy elbontott elemekre utaló nyomok tételes, leltárszerű leírása, datálása és fotódokumentációja; rejtett szerkezetekre (pl. gépészeti berendezések), takart díszítésekre, másodlagosan felhasznált elemekre utaló látható nyomok rögzítése; a megfigyelt jelenségek értékelése, építéstörténeti szempontú rendszerezése; az egyes elemek megőrzésére, kezelésére, további kutatására tett javaslat.
+## A műemlék tömeg- és térkapcsolatainak, homlokzatainak, a felszínen látható (roncsolásos beavatkozás nélkül, szemrevételezéssel dokumentálható) összes szerkezeti elemének, tartozékának, díszének, berendezési tárgyának, továbbá az elpusztult, vagy elbontott elemekre utaló nyomok tételes, leltárszerű leírása, datálása és fotódokumentációja; rejtett szerkezetekre (különösen gépészeti berendezések), takart díszítésekre, másodlagosan felhasznált elemekre utaló látható nyomok rögzítése; a megfigyelt jelenségek alapján a feltárható műemléki értékek meghatározása, építéstörténeti szempontú rendszerezése.
 
-## 5. Felmérési dokumentáció M=1:50 léptékben, történeti kert vagy műemlék telkén lévő park esetében helyszínrajz, amelynek méretaránya 1000 m2-t meg nem haladó terület esetén 1:200.
+## 5.[^78] Felmérési dokumentáció M=1:50 léptékben.
 
-## 6. Építéstörténet és telektörténet összefoglalása a korábbi állapotok változásainak (tömeg, homlokzatok, alaprajz, funkciók, belsőépítészet, berendezés) elemző leírásával, a források és a helyszíni megfigyelések alapján, védett kert esetében különös tekintettel a kiterjedés változásaira, a növényzet és kertépítészeti alkotóelemek változásaira.
+## 6.[^79] Építéstörténet és telektörténet összefoglalása a korábbi állapotok változásainak (tömeg, homlokzatok, alaprajz, történeti rendeltetések, funkciók, belsőépítészet, berendezés és felszerelés) elemző, kronologikus leírásával, a források és a helyszíni megfigyelések alapján.
 
 ## 7. Felhasznált irodalom és források (irodalom esetén bibliográfiai leírás, oldalhivatkozásokkal; gyűjteményekben őrzött források esetében átiratban vagy másolatban, ezek hiányában az őrzési hely pontos jelzete).
 
@@ -32,10 +32,20 @@
 
 ## és az építtető kötelezettséget vállal arra, hogy a kutatást a kivitelezést megelőzően – vagy az 1. pont szerinti esetben a kivitelezés során – elvégezteti, továbbá a kutatás eredményei által szükségessé tett tervmódosítást az engedélyező hatóságnak benyújtja.
 
-## 10. Javaslatot a további kutatásokra vagy kutatói megfigyelésre.
+## 10.[^80] Javaslatot a további kutatásokra vagy kutatói megfigyelésre; az értékleltárban dokumentált védett műemléki értékek megőrzésére, kezelésére.
 
-## 11. Összefoglaló értékelést, helyreállítási javaslatot.
+## 11.[^81] Összefoglaló értékelést, műemléki érték fenntartására vonatkozó összegző javaslatot.
 
-## 12. Az örökségvédelmi irodának az 1–11. pont szerinti tartalmi elemekre vonatkozó véleményét.
+## 12.[^82]
 
 3. melléklet a 393/2012. (XII. 20.) Korm. rendelethez
+
+[^74]: A 2. melléklet nyitó szövegrésze a 62/2014. (III. 6.) Korm. rendelet 41. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^75]: A 2. melléklet 2. pontja a 62/2014. (III. 6.) Korm. rendelet 41. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^76]: A 2. melléklet 3. pontja a 62/2014. (III. 6.) Korm. rendelet 42. § (1) bekezdés b) pontjával megállapított szöveg.
+[^77]: A 2. melléklet 4. pontja a 62/2014. (III. 6.) Korm. rendelet 42. § (1) bekezdés b) pontjával megállapított szöveg.
+[^78]: A 2. melléklet 5. pontja a 62/2014. (III. 6.) Korm. rendelet 42. § (1) bekezdés b) pontjával megállapított szöveg.
+[^79]: A 2. melléklet 6. pontja a 62/2014. (III. 6.) Korm. rendelet 42. § (1) bekezdés b) pontjával megállapított szöveg.
+[^80]: A 2. melléklet 10. pontja a 62/2014. (III. 6.) Korm. rendelet 41. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^81]: A 2. melléklet 11. pontja a 62/2014. (III. 6.) Korm. rendelet 41. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^82]: A 2. melléklet 12. pontját a 62/2014. (III. 6.) Korm. rendelet 43. § e) pontja hatályon kívül helyezte.

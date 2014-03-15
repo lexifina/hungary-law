@@ -21,15 +21,3 @@
 ## 10. Ismeretterjesztő kiadványok közzétételének határideje
 
 7. melléklet a 393/2012. (XII. 20.) Korm. rendelethez
-
-Feltárás megkezdéséről szóló bejelentés adattartalma
-
-1. Bejelentő neve
-
-2. Feltárást engedélyező határozat száma
-
-3. Feltárási munkával érintett lelőhely
-
-4. Feltárás megkezdésének pontos időpontja (év, hó, nap)
-
-5. Feltárás vezetőjének neve

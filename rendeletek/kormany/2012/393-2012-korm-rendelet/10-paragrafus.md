@@ -1,6 +1,6 @@
 10. § (1) Műemlékkel és annak képző- vagy iparművészeti alkotórészével, tartozékával, beépített berendezési tárgyával kapcsolatos megóvási, konzerválási, restaurálási munkák (a továbbiakban együtt: restaurálás) iránti kérelemhez mellékelni kell
 
-a) az 5. § (3) bekezdés a) és c) pontjában meghatározottakat;
+a)[^41] a tevékenység kiterjedésétől függően legalább 1:100 vagy 1:50 méretarányú felmérési dokumentációt és kártérképet az építmény (az érintett építményrész vagy a műemlék képző- vagy iparművészeti tartozékának) beavatkozás előtti állapotáról;
 
 b) a restaurálással érintett építményrész vagy alkotórésze, tartozéka megjelölését és fotódokumentációját;
 
@@ -8,7 +8,9 @@ c) a restaurálást végző szakember(ek) nevét, elérhetőségét;
 
 d) a restaurátori kutatási dokumentációt;
 
-e) restaurálási tervet két példányban.
+e)[^42] restaurálási tervet;
+
+f)[^43] az illeték megfizetésének igazolását.
 
 (2) A restaurálási terv kötelező tartalmi elemei:
 
@@ -26,7 +28,7 @@ f) diagnosztikai vizsgálatok eredményei.
 
 (3) Amennyiben a restaurálás során egyes résztevékenységek ellenőrzése csak meghatározott időpontban lehetséges, az örökségvédelmi hatóság az engedélyben meghatározza a restaurálás azon résztevékenységeit, amelyek ellenőrzését tervezi, és felhívja az engedélyest az érintett résztevékenységek időpontjának előzetes bejelentésére.
 
-(4) A restaurálás befejezését követő 60 napon belül az engedélyes köteles a járási építésügyi és örökségvédelmi hivatalnak két példányban restaurálási dokumentációt benyújtani. A dokumentációnak tartalmaznia kell:
+(4)[^44] A restaurálás befejezését követő 60 napon belül az engedélyes köteles restaurálási dokumentációt készíttetni. A dokumentációnak tartalmaznia kell:
 
 a) az elvégzett beavatkozások részletes leírását a tervhez viszonyítva;
 
@@ -40,4 +42,10 @@ e) rajz- és fotódokumentációt kísérő szöveggel: a tárgy restaurálás e
 
 f) a további kezelésre és tárolásra vonatkozó javaslatokat.
 
-(5) A restaurálási dokumentáció egy példányát a járási építésügyi és örökségvédelmi hivatal a műemlékek tervtáraként funkcionáló gyűjteményben helyezi el.
+(5)[^45] A restaurálási dokumentációt az engedély jogosultja a (4) bekezdés szerinti határidőben feltölti az OÉNY-be. A restaurálási dokumentációra a 7. § (4) bekezdését kell alkalmazni.
+
+[^41]: A 10. § (1) bekezdés a) pontja a 62/2014. (III. 6.) Korm. rendelet 33. § (1) bekezdésével megállapított szöveg.
+[^42]: A 10. § (1) bekezdés e) pontja a 62/2014. (III. 6.) Korm. rendelet 43. § c) pontja szerint módosított szöveg.
+[^43]: A 10. § (1) bekezdés f) pontját a 62/2014. (III. 6.) Korm. rendelet 33. § (2) bekezdése iktatta be.
+[^44]: A 10. § (4) bekezdés nyitó szövegrésze a 62/2014. (III. 6.) Korm. rendelet 41. § (1) bekezdés 16. pontja szerint módosított szöveg.
+[^45]: A 10. § (5) bekezdése a 62/2014. (III. 6.) Korm. rendelet 33. § (3) bekezdésével megállapított szöveg.

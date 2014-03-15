@@ -14,4 +14,11 @@ d) az előzetes régészeti dokumentációhoz szükséges próbafeltárás elvé
 
 (3) Az (1) bekezdésben meghatározott esetekben a megyei hatókörű városi múzeum bevonja a megyei jogú városban székhellyel, továbbá régészeti gyűjtőkörrel rendelkező területi múzeumot az annak székhelye szerinti járást érintő megelőző feltárásba.
 
+(3a)[^54] Nagyberuházás vagy kisajátítás esetén az örökségvédelmi hatóság a Kötv. 22. § (5) bekezdésében meghatározott határidő eredménytelen elteltét követő 8 napon belül dönt a feltárást végző szerv kijelöléséről.
+
 (4) Tervásatást a Magyar Nemzeti Múzeum, az illetékes megyei hatókörű városi múzeum, a régészeti gyűjtőkörrel rendelkező területi múzeum, a régészeti tanszékkel rendelkező egyetem, valamint a Magyar Tudományos Akadémia Bölcsészettudományi Kutatóközpont Régészeti Intézete végezhet.
+
+(5)[^55] A feltárást végző szerv az (1)–(4) bekezdés szerint régészeti feltárás végzésére jogosult más szervet bevonhat a feltárásba.
+
+[^54]: A 21. § (3a) bekezdését a 62/2014. (III. 6.) Korm. rendelet 37. § (1) bekezdése iktatta be.
+[^55]: A 21. § (5) bekezdését a 62/2014. (III. 6.) Korm. rendelet 37. § (2) bekezdése iktatta be.

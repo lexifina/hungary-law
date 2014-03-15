@@ -12,33 +12,33 @@ a) az 50 cm mélységet meghaladó gépi földmunkához, valamint
 
 b) a régészeti emlékek megóvási, konzerválási munkálataihoz.
 
-(3) Műemléki jelentőségű területen örökségvédelmi engedély szükséges a telek közterületi határához legközelebbi építmény közterület felé eső homlokzatának az építmény megjelenését érintő átalakításához, felújításához.
+(3)[^4] Műemléki jelentőségű területen örökségvédelmi engedély szükséges a telken álló építmények közterület felé eső homlokzatainak az építmény megjelenését érintő átalakításához, felújításához.
 
 (4) A műemléket érintő alábbi tevékenységekhez örökségvédelmi engedély szükséges, ha az (5) bekezdés eltérően nem rendelkezik:
 
-a) kémény, tetőszerelvény, tetőfelépítmény, díszítmény, tetőhéjazat felújítása, építése, bontása, átalakítása;
+a)[^5] kémény, tetőszerelvény, tetőfelépítmény, díszítmény, tetőhéjazat felújítása, építése, bontása, átalakítása, tetőszerkezet javítása és egyes szerkezeti elemek cseréje;
 
-b) járda, térburkolat készítése, teljes cseréje, eltávolítása;
+b)[^6] járda, térburkolat, előlépcső, terasz készítése, teljes cseréje, eltávolítása;
 
-c) külső és belső burkolat, díszítmény felújítása, átalakítása, elhelyezése, eltávolítása, cseréje, átszínezése;
+c)[^7] külső és belső (padló-, fal-, födém-) burkolat, díszítmény felújítása, átalakítása, elhelyezése, eltávolítása, cseréje, átszínezése;
 
-d) épületgépészeti és elektromos rendszer elhelyezése, átalakítása, cseréje, eltávolítása;
+d)[^8] épületgépészeti és elektromos rendszer és szerelvényei elhelyezése, átalakítása, cseréje, eltávolítása;
 
-e)[^2] beépített berendezés, bútor, liturgikus berendezési tárgy elhelyezése, bontása, felújítása, átalakítása, átszínezése;
+e)[^9] beépített berendezés, bútor, liturgikus berendezési tárgy, orgona hangszer elhelyezése, bontása, felújítása, átalakítása, átszínezése;
 
 f) lépcsők átalakítása, felújítása;
 
-g) védett kerítés felújítása, átalakítása, eltávolítása;
+g)[^10] védett kerítés felújítása, átalakítása, eltávolítása, közterülettel határos kerítés építése;
 
 h) homlokzati vagy belső fal kívülről vagy belülről végzett utólagos hő-, vagy talajnedvesség elleni szigetelése;
 
-i) válaszfal, térhatároló, korlát átalakítása, felújítása, építése, bontása;
+i)[^11] válaszfal, térhatároló, korlát, ablak-, ajtórács átalakítása, felújítása, építése, bontása;
 
 j) külső, belső nyílászáró cseréje, felújítása;
 
 k) falfelület és födém színezése, felületképzésének megváltoztatása, felújítása, cseréje;
 
-l)[^3] épület bármely külső felületén reklámtábla, reklám, felirat, dísz, szerelvény, gépészeti egység, napkollektor, napelem elhelyezése, cseréje, átalakítása, bontása (eltávolítása), eltakarása, valamint állvány építése, rögzítése;
+l)[^12] épület bármely külső felületén reklámtábla, reklám, felirat, üzletportál, dísz, szerelvény, gépészeti egység, közmű szerelvény, napkollektor, napelem elhelyezése, cseréje, átalakítása, bontása (eltávolítása), eltakarása, valamint állvány építése, rögzítése;
 
 m) történeti kertben vagy műemlék telkén végzett építési vagy kertépítészeti munkák (építmény, kertépítészeti alkotóelemek építése);
 
@@ -58,34 +58,21 @@ r) a műemlék jellegét és megjelenését befolyásoló megvilágítása, fén
 
 s) műemléknek vagy egyes részeinek, szerkezeti elemeinek elmozdítása, szabadtéri múzeum keretében készülő rekonstrukcióba történő beépítése.
 
-(5) A (4) bekezdésben meghatározott tevékenységek közül az alábbiak esetében az örökségvédelmi engedélyezésre vonatkozó rendelkezéseket nem kell alkalmazni, ha a járási építésügyi és örökségvédelmi hivatal előzetes nyilatkozatában a tevékenység elvégzéséhez hozzájárult:
+(5)[^13] A (4) bekezdésben meghatározott tevékenységek esetében – a (4) bekezdés o) és q) pontja kivételével – az örökségvédelmi engedélyezésre vonatkozó rendelkezéseket nem kell alkalmazni, ha a járási építésügyi és örökségvédelmi hivatal előzetes nyilatkozatában a tevékenység elvégzéséhez hozzájárult.
 
-a) kémény, tetőszerelvény felújítása, átalakítása;
+(6)[^14] Amennyiben a tervezett, jókarbantartásra irányuló tevékenység a műemlék megjelenésének megváltoztatásával, védett műemléki érték sérülésével, roncsolásával vagy restaurálásával nem jár, a kérelmező előzetes nyilatkozat iránt nyújtja be a kérelmét.
 
-b) járda, térburkolat részleges cseréje;
+(7)[^15] Védett temető és temetkezési emlékhely esetén a (4), (5) és (6) bekezdésben meghatározottakat a védetté nyilvánításról szóló döntésben meghatározott védett értékek vonatkozásában kell alkalmazni azzal, hogy a járási építésügyi és örökségvédelmi hivatal minden tevékenység esetében dönthet az előzetes nyilatkozatban való hozzájárulásról.
 
-c) külső és belső fal-, padló, födémburkolat, álmennyezet, díszítmény felújítása, átalakítása, átszínezése;
-
-d) épületgépészeti és elektromos szerelvény cseréje, eltávolítása;
-
-e)[^4] beépített berendezés, bútor elhelyezése, bontása, felújítása, átalakítása, átszínezése;
-
-f) lépcsők szerkezeti beavatkozással nem járó átalakítása, felújítása;
-
-g) védett kerítés felújítása, átalakítása;
-
-h) válaszfal, térhatároló, korlát, rács átalakítása, felújítása;
-
-i) falfelület és födém színezése;
-
-j) épület bármely külső felületén reklámtábla, reklám, felirat, szerelvény, gépészeti egység; napkollektor, napelem cseréje, átalakítása, bontása (eltávolítása), eltakarása;
-
-k) műemlék telkén végzett kertépítészeti munkák;
-
-l) műemlék telkén lévő parkban fás szárú növényzet telepítése és eltávolítása;
-
-m) a műemlék rendeltetésének megváltoztatása.
-
-[^2]: A 3. § (4) bekezdés e) pontja a 439/2013. (XI. 20.) Korm. rendelet 18. § (5) bekezdés a) pontja szerint módosított szöveg.
-[^3]: A 3. § (4) bekezdés l) pontja a 439/2013. (XI. 20.) Korm. rendelet 18. § (5) bekezdés b) pontja szerint módosított szöveg.
-[^4]: A 3. § (5) bekezdés e) pontja a 439/2013. (XI. 20.) Korm. rendelet 18. § (5) bekezdés c) pontja szerint módosított szöveg.
+[^4]: A 3. § (3) bekezdése a 62/2014. (III. 6.) Korm. rendelet 41. § (1) bekezdés 3. pontja szerint módosított szöveg.
+[^5]: A 3. § (4) bekezdés a) pontja a 62/2014. (III. 6.) Korm. rendelet 41. § (1) bekezdés 4. pontja szerint módosított szöveg.
+[^6]: A 3. § (4) bekezdés b) pontja a 62/2014. (III. 6.) Korm. rendelet 41. § (1) bekezdés 5. pontja szerint módosított szöveg.
+[^7]: A 3. § (4) bekezdés c) pontja a 62/2014. (III. 6.) Korm. rendelet 41. § (1) bekezdés 6. pontja szerint módosított szöveg.
+[^8]: A 3. § (4) bekezdés d) pontja a 62/2014. (III. 6.) Korm. rendelet 41. § (1) bekezdés 7. pontja szerint módosított szöveg.
+[^9]: A 3. § (4) bekezdés e) pontja a 439/2013. (XI. 20.) Korm. rendelet 18. § (5) bekezdés a) pontja, a 62/2014. (III. 6.) Korm. rendelet 41. § (1) bekezdés 8. pontja szerint módosított szöveg.
+[^10]: A 3. § (4) bekezdés g) pontja a 62/2014. (III. 6.) Korm. rendelet 41. § (1) bekezdés 9. pontja szerint módosított szöveg.
+[^11]: A 3. § (4) bekezdés i) pontja a 62/2014. (III. 6.) Korm. rendelet 41. § (1) bekezdés 10. pontja szerint módosított szöveg.
+[^12]: A 3. § (4) bekezdés l) pontja a 439/2013. (XI. 20.) Korm. rendelet 18. § (5) bekezdés b) pontja, a 62/2014. (III. 6.) Korm. rendelet 41. § (1) bekezdés 11. pontja szerint módosított szöveg.
+[^13]: A 3. § (5) bekezdése a 62/2014. (III. 6.) Korm. rendelet 25. §-ával megállapított szöveg.
+[^14]: A 3. § (6) bekezdését a 62/2014. (III. 6.) Korm. rendelet 25. §-a iktatta be.
+[^15]: A 3. § (7) bekezdését a 62/2014. (III. 6.) Korm. rendelet 25. §-a iktatta be.
