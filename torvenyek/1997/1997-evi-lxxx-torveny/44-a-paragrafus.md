@@ -20,7 +20,7 @@ g) a rehabilitációs ellátásban, rokkantsági ellátásban részesülők eset
 
 a jogosultság kezdetét és megszűnését követő 10 napon belül köteles teljesíteni az egészségbiztosítási szervnek.
 
-(3a) A szociális szövetkezet a szövetkezetekről szóló törvényben meghatározott tagi munkavégzési jogviszonyban álló tagja
+(3a) A szociális szövetkezet tagi munkavégzési jogviszonyban álló tagja
 
 a) jogviszonyának kezdetét legkésőbb a jogviszony első napján, a munkavégzés megkezdése előtt,
 

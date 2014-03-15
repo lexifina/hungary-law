@@ -6,9 +6,9 @@ Tbj. 4. § E törvény alkalmazásában:
 
 a) Foglalkoztató:
 
-1. bármely jogi és természetes személy, egyéni vállalkozó, jogi személyiséggel nem rendelkező gazdasági társaság, egyéb szervezet, költségvetés alapján gazdálkodó szerv, bármely személyi egyesülés, ha biztosítottat foglalkoztat;
+1. bármely jogi és természetes személy, egyéni vállalkozó, egyéb szervezet, költségvetés alapján gazdálkodó szerv, bármely személyi egyesülés, ha biztosítottat foglalkoztat;
 
-2. tanulószerződés alapján szakképző iskolai tanulmányokat folytató tanuló esetén a szerződést kötő gazdálkodó szervezet, egyéni vállalkozó;
+2. a szakképzésről szóló törvényben meghatározott tanulószerződés alapján szakképző iskolai tanulmányokat folytató tanuló esetén a tanulószerződés megkötésére jogosult szervezet,
 
 3. társas vállalkozó esetén a társas vállalkozás;
 

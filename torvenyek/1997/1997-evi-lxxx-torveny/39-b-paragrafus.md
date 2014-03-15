@@ -1,4 +1,4 @@
-Tbj. 39/B. § (1) A szövetkezetekről szóló törvényben meghatározott tagi munkavégzés esetén a szociális szövetkezet e tagja után a 19. § (4) bekezdésében meghatározott egészségügyi szolgáltatási járulékot, a tag az e tevékenysége ellenértékeként kapott pénzbeli juttatás után a 19. § (2) bekezdésében meghatározott nyugdíjjárulékot fizet.
+Tbj. 39/B. § (1) Tagi munkavégzés esetén a szociális szövetkezet e tagja után a 19. § (4) bekezdésében meghatározott egészségügyi szolgáltatási járulékot, a tag az e tevékenysége ellenértékeként kapott pénzbeli juttatás után a 19. § (2) bekezdésében meghatározott nyugdíjjárulékot fizet.
 
 (2) A tagi jogviszony szünetelése alatt a szövetkezet nem fizet egészségügyi szolgáltatási járulékot. A szövetkezeti tag közfoglalkoztatási jogviszonyának fennállása alatt az (1) bekezdés rendelkezései nem alkalmazhatók.
 

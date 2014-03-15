@@ -46,7 +46,7 @@ u) a korhatár előtti öregségi nyugdíjak megszüntetéséről, a korhatár e
 
 v) az előadó-művészeti szervezetek támogatásáról és sajátos foglalkoztatási szabályairól szóló törvényben meghatározott balettművészeti életjáradékban részesül,
 
-w) a szociális szövetkezetben a szövetkezetekről szóló törvényben meghatározott tagi munkavégzési jogviszonyban áll, kivéve e jogviszony szünetelésének időtartamát.
+w) a szociális szövetkezetben tagi munkavégzési jogviszonyban áll, kivéve e jogviszony szünetelésének időtartamát.
 
 (2) A 13. § hatálya alá tartozó külföldi személy az ugyanott hivatkozott külön jogszabály, illetőleg nemzetközi egyezmény szerint jogosult egészségügyi ellátásra.
 
