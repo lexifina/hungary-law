@@ -30,21 +30,21 @@ c) továbbszaporítása során tulajdonságait változatlanul megőrzi, és ezá
 
 12. Fajtaminősítő Bizottság: a növényfajtát állami elismerésre javasoló szakértői testület.
 
-13. Nemesítő: az a természetes vagy jogi személy, illetve jogi személyiség nélküli gazdasági társaság,
+13. Nemesítő: az a természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező szervezet,
 
 a) aki az adott fajtát maga nemesítette vagy felfedezte és továbbfejlesztette,
 
-b) az a) pont szerinti személy munkáltatója, amennyiben az a) pont szerinti személy munkaviszonyból folyó kötelessége a nemesítés, vagy felfedezés és továbbfejlesztés,
+b) az a) pont szerinti személy munkáltatója, amennyiben az a) pont szerinti személy munkaviszonyból folyó kötelessége a nemesítés vagy felfedezés és továbbfejlesztés,
 
 c) az a) pont szerinti személy munkájára megbízást adó, vagy
 
-d) az a)–c) pontok szerinti személy örököse, illetve jogutódja.
+d) az a)–c) pont szerinti személy örököse, illetve jogutódja.
 
-14. Bejelentő: olyan természetes vagy jogi személy, illetve jogi személyiség nélküli gazdasági társaság, aki fajta állami elismerése iránti kérelmet nyújt be.
+14. Bejelentő: olyan természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező szervezet, aki fajta állami elismerése iránti kérelmet nyújt be.
 
 15.
 
-16. Fajtafenntartó: az a természetes vagy jogi személy, illetve jogi személyiség nélküli gazdasági társaság, aki a növényfajta változatlan formában való megőrzését, fenntartását végzi, és gondoskodik a szaporításához szükséges kiindulási anyag folyamatos előállításáról, vagy aki a növényfajta fenntartásáért felelős.
+16. Fajtafenntartó: az a természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező szervezet, aki a növényfajta változatlan formában való megőrzését, fenntartását végzi, és gondoskodik a szaporításához szükséges kiindulási anyag folyamatos előállításáról, vagy aki a növényfajta fenntartásáért felelős.
 
 17. Fajtavizsgálat: a növényfajta állami elismeréséhez szükséges DUS vizsgálat és gazdasági értékvizsgálat.
 
@@ -66,9 +66,9 @@ d) az a)–c) pontok szerinti személy örököse, illetve jogutódja.
 
 26. Szaporulati fok: a továbbszaporítás során a kiindulási anyaghoz viszonyított leszármazási szint, amely az egymás utáni ismert elszaporítások számát fejezi ki.
 
-27. Szaporítóanyag előállító: külön jogszabályban meghatározott feltételeket teljesítő természetes vagy jogi személy, illetve jogi személyiség nélküli gazdasági társaság, aki a növényfajta vetőmagjának szaporítására, vegetatív szaporító alapanyagának és ültetési anyagának előállítására, feldolgozására, forgalomba hozatalára jogosult, illetve a szaporítóanyag minősítési eljárást kezdeményezi.
+27. Szaporítóanyag-előállító: az a természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező szervezet, aki a növényfajta vetőmagjának szaporítására, vegetatív szaporító alapanyagának és ültetési anyagának előállítására, feldolgozására, forgalomba hozatalára jogosult, illetve a szaporítóanyag-minősítési eljárást kezdeményezi.
 
-28. Szaporítóanyag forgalmazó: az a külön jogszabályban meghatározott feltételeket teljesítő természetes vagy jogi személy, illetve jogi személyiség nélküli gazdasági társaság, aki szaporítóanyagot értékesítési céllal készletez, bemutat, eladásra felkínál, vagy más részére elad.
+28. Szaporítóanyag-forgalmazó: az a természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező szervezet, aki szaporítóanyagot értékesítési céllal készletez, bemutat, eladásra felkínál, vagy más részére elad.
 
 29. Szaporítóanyag forgalomba hozatal: szaporítóanyag készletezés, bemutatás, eladásra való felkínálás, eladás vagy szállítás más részére bármilyen formában.
 
@@ -78,7 +78,7 @@ d) az a)–c) pontok szerinti személy örököse, illetve jogutódja.
 
 32. Szaporítóanyag előállítási zárt körzet: a szaporítóanyag előállítás genetikai és növényegészségügyi tisztaságának megőrzése céljából e törvényben és külön jogszabályban előírt korlátozásokkal elrendelt termesztési körzet; ide tartoznak a külön jogszabályban meghatározott nagyságú törzsültetvények is.
 
-33. Céltermeltetés: tagállamokon kívüli ország természetes vagy jogi személyével, illetve jogi személyiség nélküli gazdasági társaságával kötött szerződés alapján Magyarország területén szaporítóanyag termesztése azzal a céllal, hogy az előállított szaporítóanyag teljes mennyiségét az Európai Unió területéről kiszállítsák.
+33. Céltermeltetés: tagállamokon kívüli országban lakóhellyel rendelkező természetes személlyel vagy székhellyel, telephellyel rendelkező jogi személlyel, illetve jogi személyiséggel nem rendelkező szervezettel kötött szerződés alapján Magyarország területén szaporítóanyag termesztése azzal a céllal, hogy az előállított szaporítóanyag teljes mennyiségét az Európai Unió területéről kiszállítsák.
 
 34. Védőtávolság:
 

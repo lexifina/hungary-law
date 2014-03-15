@@ -12,10 +12,10 @@ d) tájfajta esetében a növényfajtával rendelkező természetes személy, jo
 
 (3) Képviselő lehet
 
-a) magyar természetes vagy jogi személy, illetve jogi személyiség nélküli gazdasági társaság, vagy
+a) magyar állampolgár vagy Magyarország területén lakóhellyel rendelkező természetes személy, vagy székhellyel, telephellyel rendelkező jogi személy, illetve jogi személyiséggel nem rendelkező szervezet, vagy
 
-b) más tagállam természetes vagy jogi személye, illetve jogi személyiség nélküli gazdasági társasága, akinek (amelynek) lakóhelye vagy székhelye Magyarország vagy valamely tagállam területén van.
+b) más tagállam területén lakóhellyel rendelkező természetes személy vagy székhellyel, telephellyel rendelkező jogi személy, illetve jogi személyiséggel nem rendelkező szervezet.
 
-(4) Nem tagállam természetes vagy jogi személye, illetve jogi személyiség nélküli gazdasági társasága csak képviselő útján jelenthet be növényfajtát állami elismerésre.
+(4) A tagállamokon kívüli országban lakóhellyel rendelkező természetes személy vagy székhellyel, telephellyel rendelkező jogi személy, illetve jogi személyiséggel nem rendelkező szervezet csak képviselő útján jelenthet be növényfajtát állami elismerésre.
 
 (5) Nem jelenthet be növényfajtát állami elismerésre az a személy, aki az agrárpolitikáért felelős miniszter által vezetett minisztériummal (a továbbiakban: minisztérium) vagy a növénytermesztési hatósággal közszolgálati jogviszonyban, illetve munkavégzésre irányuló egyéb jogviszonyban áll, illetve a Fajtaminősítő Bizottság tagja, e jogviszonyának, illetve tagsági viszonyának megszűnéséig, valamint az azt követő 3 évig.
