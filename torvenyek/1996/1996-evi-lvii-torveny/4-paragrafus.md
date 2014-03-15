@@ -4,7 +4,7 @@
 
 (3) E törvény alkalmazásában
 
-a) üzleti titok fogalma alatt a Ptk. 81. § (2) bekezdésében meghatározott fogalmat kell érteni;
+a) üzleti titok alatt a Polgári Törvénykönyvben meghatározott fogalmat kell érteni;
 
 b) bizalmi viszony különösen a munkaviszony, a munkavégzésre irányuló egyéb jogviszony és a tagsági viszony;
 

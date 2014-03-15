@@ -12,7 +12,7 @@ c) ügyvéd, ügyvédi iroda,
 
 d) állami szerv ügyintézője, az állami szerv tevékenységével kapcsolatos ügyekben,
 
-e) a gazdálkodó szervezet ügyintézésre jogosult tagja vagy alkalmazottja a gazdálkodó szervezet ügyeiben,
+e) a vállalkozás ügyintézésre jogosult tagja vagy alkalmazottja a vállalkozás ügyeiben,
 
 f) az adott gazdasági tevékenységben érintettek érdekképviseleti szervezete,
 

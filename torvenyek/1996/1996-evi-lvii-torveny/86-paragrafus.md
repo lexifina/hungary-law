@@ -14,7 +14,7 @@ c) követelheti, hogy a jogsértő – nyilatkozattal vagy más megfelelő módo
 
 d) követelheti a sérelmes helyzet megszüntetését, a jogsértést megelőző állapot helyreállítását, továbbá a jogsértéssel előállított vagy forgalomba hozott áruk jogsértő jellegétől való megfosztását, vagy – ha ez nem lehetséges – megsemmisítését, továbbá az előállításra szolgáló különleges eszközök megsemmisítését,
 
-e) kártérítést követelhet a polgári jog szabályai szerint, illetve
+e) kártérítést és – személyiségi joga megsértése esetén – sérelemdíjat követelhet a polgári jog szabályai szerint, illetve
 
 f)
 
