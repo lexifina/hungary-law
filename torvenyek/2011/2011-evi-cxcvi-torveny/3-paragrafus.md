@@ -26,6 +26,8 @@ cc) székhelye az Európai Unió tagállamában, az Európai Gazdasági Térség
 
 3. forgalomképtelen nemzeti vagyon: az a nemzeti vagyon, amely az e törvényben meghatározott kivétellel nem idegeníthető el, vagyonkezelői jog, jogszabályon alapuló, továbbá az ingatlanra közérdekből külön jogszabályban feljogosított szervek javára alapított használati jog, vezetékjog vagy ugyanezen okokból alapított szolgalom, továbbá a helyi önkormányzat javára alapított vezetékjog kivételével nem terhelhető meg, biztosítékul nem adható, azon osztott tulajdon nem létesíthető;
 
+3a. gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet;
+
 4. hasznosítás: a tulajdonosi joggyakorló vagy a nemzeti vagyon használója által a nemzeti vagyon birtoklásának, használatának, hasznok szedése jogának bármely – a tulajdonjog átruházását nem eredményező – jogcímen történő átengedése, ide nem értve a vagyonkezelésbe adást, valamint a haszonélvezeti jog alapítását;
 
 5. kincstári vagyon: a kizárólagos állami tulajdonba tartozó vagyon, valamint a nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonba tartozó, továbbá a korlátozottan forgalomképes állami vagyon;
@@ -36,7 +38,7 @@ cc) székhelye az Európai Unió tagállamában, az Európai Gazdasági Térség
 
 8. közvetett tulajdon, illetve közvetett befolyás: a tőkepiacról szóló törvényben meghatározott fogalom;
 
-9. meghatározó befolyás: az a kapcsolat, amelynek révén természetes személy, jogi személy vagy jogi személyiség nélküli gazdasági társaság egy jogi személynek tagja vagy részvényese, és
+9. meghatározó befolyás: az a kapcsolat, amelynek révén természetes személy, vagy jogi személy egy jogi személynek tagja vagy részvényese, és
 
 a) jogosult e jogi személy vezető tisztségviselői vagy felügyelőbizottsága tagjai többségének megválasztására és visszahívására, vagy
 
@@ -54,7 +56,7 @@ b) a jogi személy más tagjaival vagy részvényeseivel kötött megállapodás
 
 15. rádióspektrum: a rádióhullámok frekvenciatartománya;
 
-16. többségi befolyás: az a kapcsolat, amelynek révén természetes személy, jogi személy vagy jogi személyiség nélküli gazdasági társaság egy jogi személyben a szavazatok több mint 50%-ával vagy meghatározó befolyással rendelkezik;
+16. többségi befolyás: az a kapcsolat, amelynek révén természetes személy vagy jogi személy egy jogi személyben a szavazatok több mint 50%-ával vagy meghatározó befolyással rendelkezik;
 
 17. tulajdonosi joggyakorló: aki a nemzeti vagyon felett az államot vagy a helyi önkormányzatot megillető tulajdonosi jogok és kötelezettségek összességének gyakorlására jogosult;
 
@@ -96,4 +98,4 @@ c) az egyházi jogi személy a tevékenysége ellátásához szükséges nemzeti
 
 (3) Az (1) bekezdés 9. pontja szerinti meghatározó befolyás akkor is fennáll, ha a befolyással rendelkező számára az (1) bekezdés 9. pont a) vagy b) alpontja szerinti jogosultságok közvetett módon biztosítottak. A befolyással rendelkezőnek egy jogi személyben közvetetten fennálló meghatározó befolyása megállapítása során a jogi személyben szavazati joggal rendelkező más jogi személyt (a továbbiakban: köztes vállalkozás) megillető szavazatokat meg kell szorozni a befolyással rendelkezőnek a köztes vállalkozásban fennálló szavazatával. Ha a köztes vállalkozásban fennálló szavazatok mértéke az 50%-ot meghaladja, akkor azt egy egészként kell figyelembe venni.
 
-(4) E törvény alkalmazásában 100%-os állami vagy önkormányzati tulajdonban álló gazdálkodó szervezetnek, illetve ezen gazdálkodó szervezet 100%-os tulajdonában álló gazdálkodó szervezetnek minősül az a gazdasági társaság is, amelyben az állam, a helyi önkormányzat vagy ezek 100%-os tulajdonában álló gazdálkodó szervezet mellett kizárólag maga a gazdasági társaság rendelkezik – a gazdasági társaságokról szóló 2006. évi IV. törvény 135. § (1) bekezdése és 223. § (1) bekezdése szerinti – üzletrésszel vagy részvénnyel.
+(4) E törvény alkalmazásában 100%-os állami vagy önkormányzati tulajdonban álló gazdálkodó szervezetnek, illetve ezen gazdálkodó szervezet 100%-os tulajdonában álló gazdálkodó szervezetnek minősül az a gazdasági társaság is, amelyben az állam, a helyi önkormányzat vagy ezek 100%-os tulajdonában álló gazdálkodó szervezet mellett kizárólag maga a gazdasági társaság rendelkezik – a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.), az üzletrészeknek a társaság által történő megszerzésére, valamint a Ptk. saját részvények megszerzésével kapcsolatos korlátozásra vonatkozó szabályozása szerinti – üzletrésszel vagy részvénnyel.
