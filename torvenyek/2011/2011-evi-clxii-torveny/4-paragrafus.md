@@ -4,7 +4,7 @@
 
 a) magyar állampolgár,
 
-b) cselekvőképes,
+b) nem áll a cselekvőképességet érintő gondnokság vagy támogatott döntéshozatal hatálya alatt,
 
 c) egyetemi jogi végzettséggel rendelkezik,
 

@@ -1,1 +1,1 @@
-132. § A bíró háromhavi illetménye erejéig felel, ha a kárt súlyosan gondatlan magatartásával okozta. Szándékos károkozás esetén a bíró a teljes kárösszegért felel.
+132. § A bíró háromhavi illetménye erejéig felel, illetve kötelezhető sérelemdíj megfizetésére, ha a kárt, illetve a személyiségi jogsértést súlyosan gondatlan magatartásával okozta. Szándékos károkozás, illetve személyiségi jogsértés esetén a bíró a teljes kárösszegért felel, illetve a sérelemdíj megfizetésére – illetménye összegétől függetlenül – köteles.

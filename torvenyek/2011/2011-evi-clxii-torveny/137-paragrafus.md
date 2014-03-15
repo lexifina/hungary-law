@@ -1,4 +1,4 @@
-137. § (1) A munkáltató a 135–136. §-on alapuló felelőssége alapján a bírónak az elmaradt jövedelmét, dologi kárát, a nem vagyoni kárát, illetve a sérelemmel és ennek elhárításával összefüggésben felmerült indokolt költségeit köteles megtéríteni.
+137. § (1) A munkáltató a 135. §-on alapuló felelőssége, illetve sérelemdíj-fizetési kötelezettsége alapján és a 136. §-on alapuló felelőssége alapján a bírónak az elmaradt jövedelmét, a vagyonában beállott értékcsökkenést, az őt ért vagyoni hátrányok kiküszöböléséhez szükséges költségeit köteles megtéríteni, illetve sérelemdíjat köteles fizetni.
 
 (2) A bíró szolgálati viszonya körében az elmaradt jövedelem megállapításánál a bíró elmaradt illetményét, továbbá azon rendszeres szolgáltatások pénzbeli értékét kell figyelembe venni, amelyekre a szolgálati viszonya alapján jogosult, feltéve, ha azokat a károkozást megelőzően rendszeresen igénybe vette.
 

@@ -4,6 +4,6 @@
 
 (2) Az első fokú határozat ellen a bíró és a fegyelmi eljárás kezdeményezője a határozat kézbesítésétől számított 15 napon belül fellebbezést jelenthet be. A fellebbezést az elsőfokú szolgálati bíróság tanácsához kell benyújtani.
 
-(3) A másodfokú szolgálati bíróság az első fokú fegyelmi határozatot – annak kártérítésről, valamint a költségek megtérítéséről rendelkező részére is kiterjedően – helybenhagyja, megváltoztatja vagy az eljárást megszünteti, illetve a másodfokú eljárásban nem orvosolható lényeges eljárási szabálysértés esetén a határozatot hatályon kívül helyezi, és az elsőfokú szolgálati bíróságot új eljárásra és új határozat hozatalára utasítja.
+(3) A másodfokú szolgálati bíróság az elsőfokú fegyelmi határozatot – annak kártérítésről, személyiségi jogsértés miatti jogkövetkezményekről, valamint a költségek megtérítéséről rendelkező részére is kiterjedően – helybenhagyja, megváltoztatja vagy az eljárást megszünteti, illetve a másodfokú eljárásban nem orvosolható lényeges eljárási szabálysértés esetén a határozatot hatályon kívül helyezi, és az elsőfokú szolgálati bíróságot új eljárásra és új határozat hozatalára utasítja.
 
 (4) A másodfokú eljárásra és határozatra egyebekben az elsőfokú eljárás szabályait kell megfelelően alkalmazni.

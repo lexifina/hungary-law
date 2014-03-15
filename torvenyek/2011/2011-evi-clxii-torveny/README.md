@@ -20,3 +20,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-162-00-00
 | 2013-07-01 | 2012. évi CCV. törvény | 2011-162-00-00.13 |
 | 2013-08-01 | 2013. évi CXXXI. törvény | 2011-162-00-00.14 |
 | 2014-01-01 | 2013. évi CCXLIII. törvény | 2011-162-00-00.15 |
+| 2014-03-15 | 2013. évi CCLII. törvény | 2011-162-00-00.16 |

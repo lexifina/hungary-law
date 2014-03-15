@@ -4,7 +4,7 @@ a) az elmaradt illetményre eső nyugdíjjárulékot, egészségbiztosítási j�
 
 b) az állami egészség- és társadalombiztosítás keretében járó ellátások ellenértékét,
 
-c) azt az összeget, amelyet a bíró a munkaereje hasznosításával megkeresett, ide nem értve a bíró rokkantsága esetén rendkívüli erőmegfeszítéssel elért jövedelmet,
+c) azt az összeget, amelyet a bíró a munkaereje hasznosításával megkeresett, ide nem értve azt a jövedelmet, amelyet a bíró munkaképességének csökkenése ellenére rendkívüli munkateljesítménnyel ért el,
 
 d) azt az összeget, amelyhez a bíró a megrongálódott dolog hasznosításával hozzájutott,
 
