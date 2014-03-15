@@ -1236,7 +1236,7 @@ Az adótanácsadói tevékenységek, szolgáltatások közé tartozik minden tev
 
 - a bevallásokhoz kapcsolódó számviteli feltételrendszer ellenőrzése,
 
-- a vállalkozások, egyéb jogi és nem jogi személyek alakulásával, átalakulásával, működésével, megszűnésével kapcsolatos adótanácsadás,
+- a vállalkozások, egyéb szervezetek alakulásával, átalakulásával, működésével, megszűnésével kapcsolatos adótanácsadás,
 
 - a vállalkozás egészére vagy egyes részterületére, ügyleteire irányuló ellenőrzési, adótervezési feladatok végzése,
 
@@ -5560,4 +5560,4 @@ A vizsgafeladat megnevezése: Hegesztett kötést készít Bevontelektródás k�
 
 A vizsgafeladat ismertetése: Bevontelektródás kézi ívhegesztő
 
-[^3]: A 2. melléklet a 12/2013. (III. 28.) NGM rendelet 1. § (2) bekezdésével megállapított, a 40/2013. (IX. 30.) NGM rendelet 19. § a)–c) pontja szerint módosított szöveg.
+[^3]: A 2. melléklet a 12/2013. (III. 28.) NGM rendelet 1. § (2) bekezdésével megállapított, a 40/2013. (IX. 30.) NGM rendelet 19. § a)–c) pontja, a 12/2014. (III. 12.) NGM rendelet 9. §-a szerint módosított szöveg.
