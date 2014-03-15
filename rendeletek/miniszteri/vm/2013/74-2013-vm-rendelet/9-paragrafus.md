@@ -1,6 +1,6 @@
 9. § (1) Ha az egyes fertőző állatbetegségek elleni védekezésre vonatkozó szabályok megengedik, az eljáró hatóság elkülönített vagy zárt vágást is előírhat járványügyi intézkedésként. A döntés meghozatala előtt, amennyiben a döntést a járási állategészségügyi hivatal hozza, értesítenie kell a káresemény helye szerint illetékes élelmiszerlánc-biztonsági és állategészségügyi igazgatóságot az élelmiszer hasznosíthatóságának lehetőségéről, az állatfaj, kor, tömeg, darabszám, egyed, illetve állományazonosító megjelölésével.
 
-(2) A káresemény helye szerint illetékes eljáró hatóság az általa előzetesen – a műszaki-technológiai, járványvédelmi és élelmiszerhigiéniai feltételek figyelembe vételével – e feladatra kedvező eredménnyel minősített gazdálkodó szervezetet határozatban kötelezi az elkülönített vagy zárt vágás végrehajtására. Ezt követően a káresemény helye szerint illetékes eljáró hatóság a végrehajtás részletei tekintetében szerződést köt az érintett vágóhíddal. A határozatot és a megkötött szerződést az eljáró hatóság megküldi a NÉBIH-nek, továbbá a járási állategészségügyi hivatal a vágás helye szerint illetékes élelmiszerlánc-biztonsági és állategészségügyi igazgatóságnak is. A NÉBIH az aktív közreműködésre kötelezhető, minősített gazdálkodó szervezetekről nyilvántartást vezet.
+(2)[^10] A káresemény helye szerint illetékes eljáró hatóság az általa előzetesen – a műszaki-technológiai, járványvédelmi és élelmiszerhigiéniai feltételek figyelembe vételével – e feladatra kedvező eredménnyel minősített vállalkozást határozatban kötelezi az elkülönített vagy zárt vágás végrehajtására. Ezt követően a káresemény helye szerint illetékes eljáró hatóság a végrehajtás részletei tekintetében szerződést köt az érintett vágóhíddal. A határozatot és a megkötött szerződést az eljáró hatóság megküldi a NÉBIH-nek, továbbá a járási állategészségügyi hivatal a vágás helye szerint illetékes élelmiszerlánc-biztonsági és állategészségügyi igazgatóságnak is. A NÉBIH az aktív közreműködésre kötelezhető, minősített vállalkozásokról nyilvántartást vezet.
 
 (3) A szerződésben rögzíteni kell
 
@@ -18,9 +18,9 @@ f) a késedelemre vonatkozó jogkövetkezményeket, a kamatot,
 
 g) az e) pont szerinti visszafizetés elmaradása esetén a jogi eljárás rendjét.
 
-(4) Ha a szerződést az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság kötötte, a szerződés megkötéséről – a zárt vagy elkülönített vágást végrehajtó gazdálkodó szervezet megnevezésével – értesíti a káresemény helye szerint illetékes járási állategészségügyi hivatalt.
+(4)[^11] Ha a szerződést az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság kötötte, a szerződés megkötéséről – a zárt vagy elkülönített vágást végrehajtó vállalkozás megnevezésével – értesíti a káresemény helye szerint illetékes járási állategészségügyi hivatalt.
 
-(5) A zárt vagy elkülönített vágást végrehajtó gazdálkodó szervezet a végrehajtást követően legkésőbb nyolc napon belül elszámolást készít, amelyben rögzíti
+(5)[^12] A zárt vagy elkülönített vágást végrehajtó vállalkozás a végrehajtást követően legkésőbb nyolc napon belül elszámolást készít, amelyben rögzíti
 
 a) az állatok beérkezésének időpontját, azok korcsoportonkénti darabszámát, tömegét;
 
@@ -30,7 +30,7 @@ c) a keletkezett állati melléktermék kategóriánkénti tömegét.
 
 (6) Az (5) bekezdés szerinti elszámolást a vágóhidat, valamint feldolgozóüzemet felügyelő hatósági állatorvos ellenjegyzi, és haladéktalanul megküldi a szerződést kötő eljáró hatóság részére.
 
-(7) Az (5) bekezdés szerinti elszámolás alapján, a végrehajtást végző gazdálkodó szervezet az elkülönített vagy zárt vágás végrehajtásáról számlát állít ki a szerződést kötő eljáró hatóság részére. Az eljáró hatóság a számlát tizenöt napon belül megküldi a NÉBIH részére. A NÉBIH intézkedik az elkülönített vagy zárt vágás ártalmatlanítás költségének folyósítása iránt, amelyet – a számlák beérkezésétől számított hatvan napon belül – megtérít az aktív közreműködésre kötelezett üzemnek.
+(7)[^13] Az (5) bekezdés szerinti elszámolás alapján, a végrehajtást végző vállalkozás az elkülönített vagy zárt vágás végrehajtásáról számlát állít ki a szerződést kötő eljáró hatóság részére. Az eljáró hatóság a számlát tizenöt napon belül megküldi a NÉBIH részére. A NÉBIH intézkedik az elkülönített vagy zárt vágás ártalmatlanítás költségének folyósítása iránt, amelyet – a számlák beérkezésétől számított hatvan napon belül – megtérít az aktív közreműködésre kötelezett üzemnek.
 
 (8) A (2) bekezdés szerinti szerződés végrehajtásáról az eljáró hatósági állatorvos jelentést készít, amely tartalmazza
 
@@ -63,3 +63,8 @@ ec) az ártalmatlanítás, illetve megsemmisítés módját vagy a fertőtlenít
 f) az elkülönített vagy zárt vágást végrehajtó vágóhíd nevét, címét, FELIR azonosító számát,
 
 g) a további szükséges járványügyi intézkedések végrehajtását.
+
+[^10]: A 9. § (2) bekezdése a 12. § (3)–(4) bekezdése szerint módosított szöveg.
+[^11]: A 9. § (4) bekezdése a 12. § (1) bekezdése szerint módosított szöveg.
+[^12]: A 9. § (5) bekezdés nyitó szövegrésze a 12. § (1) bekezdése szerint módosított szöveg.
+[^13]: A 9. § (7) bekezdése a 12. § (1) bekezdése szerint módosított szöveg.

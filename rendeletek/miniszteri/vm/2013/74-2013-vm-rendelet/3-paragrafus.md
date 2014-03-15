@@ -30,7 +30,7 @@ fb) tulajdonosának nevét (cégnevét), lakhelyét (székhelyét),
 
 g) annak a földterületnek, járműnek, épületnek, berendezésnek, eszköznek és anyagnak a pontos megnevezését, amelynek igénybevételét, illetve használatát elrendelték, továbbá azok tulajdonosának nevét (cégnevét), lakhelyét (székhelyét),
 
-h) az aktív közreműködésre kötelezett gazdálkodó szervezet pontos megnevezését, címét, székhelyét, és az aktív közreműködés megnevezését, pontos leírását,
+h)[^2] az aktív közreműködésre kötelezett vállalkozás pontos megnevezését, címét, székhelyét, és az aktív közreműködés megnevezését, pontos leírását,
 
 i) a járványügyi intézkedések alkalmazását szükségessé tevő állatbetegséget, és
 
@@ -38,13 +38,13 @@ j) a betegség megállapításának alapjául szolgáló diagnosztikai vagy labo
 
 (3) A járványügyi intézkedések elrendeléséről szóló határozatot közölni kell:
 
-a) a tulajdonossal, akinek az állatát, anyagát, eszközét, tárgyát, élelmiszerét, takarmányát, földterületét, járművét, épületét, berendezését eljárás alá vonták, illetve a gazdálkodó szervezettel, akit aktív közreműködésre köteleztek,
+a)[^3] a tulajdonossal, akinek az állatát, anyagát, eszközét, tárgyát, élelmiszerét, takarmányát, földterületét, járművét, épületét, berendezését eljárás alá vonták, illetve a vállalkozással, akit aktív közreműködésre köteleztek,
 
-b) az elkülönített vagy zárt vágást végző gazdálkodó szervezet esetében a vágás helye szerint illetékes élelmiszerlánc-biztonsági és állategészségügyi igazgatósággal,
+b)[^4] az elkülönített vagy zárt vágást végző vállalkozás esetében a vágás helye szerint illetékes élelmiszerlánc-biztonsági és állategészségügyi igazgatósággal,
 
 c) az elhullott, leölt állatok hulláit és állati eredetű melléktermékeit feldolgozó üzem telephelye szerint illetékes élelmiszerlánc-biztonsági és állategészségügyi igazgatósággal,
 
-d)[^1] a hazai természetvédelmi oltalom alatt álló vagy nemzetközi természetvédelmi egyezmény hatálya alá tartozó állatfajok (a továbbiakban együtt: védett állatok) esetén az illetékes környezetvédelmi és természetvédelmi hatósággal,
+d)[^5] a hazai természetvédelmi oltalom alatt álló vagy nemzetközi természetvédelmi egyezmény hatálya alá tartozó állatfajok (a továbbiakban együtt: védett állatok) esetén az illetékes környezetvédelmi és természetvédelmi hatósággal,
 
 e) az eljáró hatósági állatorvossal,
 
@@ -54,4 +54,7 @@ f) valamennyi érintett járási állategészségügyi hivatallal, amennyiben a 
 
 (5) Az állatbetegségek bejelentésének rendjéről szóló miniszteri rendelet szerinti bejelentési kötelezettség alá tartozó állatbetegségben elhullott, vagy a kötelezően elrendelt védőoltás, gyógykezelés és diagnosztikai vizsgálat következtében elhullott állatok esetében, az eljáró hatósági állatorvosnak jegyzőkönyvben kell rögzíteni azokat a kárelőzményi és tényadatokat, amelyek a kártalanítás alapjául szolgálnak.
 
-[^1]: A 3. § (3) bekezdés d) pontja a 132/2013. (XII. 23.) VM rendelet 35. §-a szerint módosított szöveg.
+[^2]: A 3. § (2) bekezdés h) pontja a 12. § (1) bekezdése szerint módosított szöveg.
+[^3]: A 3. § (3) bekezdés a) pontja a 12. § (2) bekezdése szerint módosított szöveg.
+[^4]: A 3. § (3) bekezdés b) pontja a 12. § (1) bekezdése szerint módosított szöveg.
+[^5]: A 3. § (3) bekezdés d) pontja a 132/2013. (XII. 23.) VM rendelet 35. §-a szerint módosított szöveg.

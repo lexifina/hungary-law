@@ -2,7 +2,7 @@
 
 (2) Az állati eredetű melléktermék keletkezésének helye szerint illetékes eljáró hatóság – a 3. § (2) bekezdés h) pontja szerint – az állati eredetű melléktermékek ártalmatlanná tétele érdekében
 
-a) kijelöli az ártalmatlanítás végrehajtására az üzemet, illetve gazdálkodó szervezetet,
+a)[^9] kijelöli az ártalmatlanítás végrehajtására az üzemet, illetve vállalkozást,
 
 b) meghatározza a végrehajtás kezdeti és a befejezés várható időpontját,
 
@@ -15,3 +15,5 @@ c) meghatározza a szállítás és a járműfertőtlenítés rendjét.
 (5) A NÉBIH intézkedik az ártalmatlanítás költségének folyósítása iránt, amelyet – a számlák eljáró hatósághoz történő beérkezésétől számított hatvan napon belül – megtérít az aktív közreműködésre kötelezett üzemnek.
 
 (6) Ha az ártalmatlanná tétel a káresemény helyén történik, akkor a (2)–(5) bekezdés helyett a 7. § (2) és (3) bekezdésében foglaltakat kell megfelelően alkalmazni.
+
+[^9]: A 8. § (2) bekezdés a) pontja a 12. § (3) bekezdése szerint módosított szöveg.
