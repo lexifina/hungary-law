@@ -18,7 +18,7 @@ d) a lehetséges és a várható következmények, kockázatok és kellemetlens�
 
 e) az ésszerűen várható előnyök leírását, vagy ha a vizsgálati alany számára előny a klinikai vizsgálatból nem várható, ennek a ténynek a közlését;
 
-f) a vizsgálati alany számára a klinikai vizsgálattal összefüggő kár bekövetkezése esetén nyújtandó kezelésre, kártérítésre és kártalanításra [Gytv. 21. § (1) bekezdés] és az ezek igénybevételének módjára vonatkozó tájékoztatást, továbbá annak a személynek és szervezetnek a nevét és magyarországi elérhetőségét, akihez vagy amelyhez a vizsgálati alany a kár bekövetkezésekor fordulhat;
+f)[^20] a vizsgálati alany számára a klinikai vizsgálattal összefüggő kár bekövetkezése, illetve személyiségi jog megsértése esetén nyújtandó kezelésre, kár megtérítésére, illetve sérelemdíj megfizetésére és kártalanításra [GyT. 21. § (1) bekezdés] és az ezek igénybevételének módjára vonatkozó tájékoztatást, továbbá annak a személynek és szervezetnek a nevét és magyarországi elérhetőségét, akihez vagy amelyhez a vizsgálati alany a kár bekövetkezésekor fordulhat;
 
 g) a vizsgálati alany számára járó költségtérítést, ha van ilyen;
 
@@ -32,11 +32,11 @@ k) a vizsgálati készítmény rövid hatástani ismertetését;
 
 l) azt, hogy a vizsgálat befejezése után a vizsgálati alany – amennyiben szükséges – milyen további egészségügyi ellátásban részesül;
 
-m)[^17]
+m)[^21]
 
-n)[^18] az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény 3. §-ának (5) bekezdése szerinti felelősségbiztosításban szereplő biztosító megnevezését.
+n)[^22] a GyT. 3. § (5) bekezdése szerinti felelősségbiztosításban szereplő biztosító megnevezését.
 
-(5)[^19]
+(5)[^23]
 
 (6) A vizsgálati alany beleegyező nyilatkozata legalább a következőket tartalmazza:
 
@@ -46,9 +46,9 @@ b) annak az egészségügyi szolgáltatónak a megnevezését, ahol a klinikai v
 
 c) a klinikai vizsgálat vezetőjének, illetve a tájékoztatást végző személynek a nevét, beosztását, munkaköre megnevezését;
 
-d) a vizsgálati alany azonosító adatait (nevét, születési helyét és idejét), korlátozottan cselekvőképes vagy cselekvőképtelen vizsgálati alany esetén az Eütv. 16. §-a szerinti nyilatkozattételre jogosult személy (a továbbiakban: nyilatkozattételre jogosult személy) azonosító adatait is;
+d)[^24] a vizsgálati alany azonosító adatait (nevét, születési helyét és idejét), korlátozottan cselekvőképes kiskorú és cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében részlegesen korlátozott vagy cselekvőképtelen vizsgálati alany esetén az Eütv. 16. §-a szerinti nyilatkozattételre jogosult személy (a továbbiakban: nyilatkozattételre jogosult személy) azonosító adatait is;
 
-e) annak a kijelentését, hogy a vizsgálati alany – korlátozottan cselekvőképes vagy cselekvőképtelen vizsgálati alany esetén a nyilatkozattételre jogosult személy – a klinikai vizsgálatban történő részvételre vonatkozó beleegyezését az (1) bekezdésben foglalt tájékoztatást követően, önként, befolyástól mentesen adja, annak tudatában, hogy az bármikor, szóban vagy írásban, indokolás nélkül visszavonható;
+e)[^25] annak a kijelentését, hogy a vizsgálati alany – korlátozottan cselekvőképes kiskorú és cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében részlegesen korlátozott vagy cselekvőképtelen vizsgálati alany esetén a nyilatkozattételre jogosult személy – a klinikai vizsgálatban történő részvételre vonatkozó beleegyezését az (1) bekezdésben foglalt tájékoztatást követően, önként, befolyástól mentesen adja, annak tudatában, hogy az bármikor, szóban vagy írásban, indokolás nélkül visszavonható;
 
 f) a beleegyező nyilatkozat aláírásának dátumát;
 
@@ -56,12 +56,16 @@ g) a klinikai vizsgálat vezetőjének vagy a tájékoztatást adónak az aláí
 
 h) a beleegyező nyilatkozatot tevő aláírását.
 
-(7) A tájékoztatást adó személy és a vizsgálati alany – valamint korlátozottan cselekvőképes vagy cselekvőképtelen vizsgálati alany esetén a nyilatkozattételre jogosult személy – a (4) bekezdés szerinti írásos tájékoztatót is aláírja.
+(7)[^26] A tájékoztatást adó személy és a vizsgálati alany – valamint korlátozottan cselekvőképes kiskorú és cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében részlegesen korlátozott vagy cselekvőképtelen vizsgálati alany esetén a nyilatkozattételre jogosult személy – a (4) bekezdés szerinti írásos tájékoztatót is aláírja.
 
 (8) Szóbeli beleegyező nyilatkozat esetén a két tanú aláírásával igazolja, hogy a vizsgálati alany a (4) bekezdés szerinti tájékoztatást megkapta és a (6) bekezdés szerinti beleegyező nyilatkozatot vele ismertették és abba szóban beleegyezett.
 
 (9) Amennyiben a klinikai vizsgálattal kapcsolatban olyan új, lényeges információ válik ismertté, amely érinti az írásos tájékoztatóban foglaltakat, az engedély módosítását kell kezdeményezni a 18. §-ban foglaltaknak megfelelően. A módosított írásos tájékoztatónak megfelelően a vizsgálati alanyt ismételten tájékoztatni kell, és beleegyezését kell kérni a klinikai vizsgálat folytatásához.
 
-[^17]: A 6. § (4) bekezdés m) pontját a 32/2009. (X. 20.) EüM rendelet 12. § (4) bekezdés a) pontja hatályon kívül helyezte. E módosító rendelet 12. § (1) bekezdése alapján a 2009. október 21. napját megelőzően benyújtott, de el nem bírált vizsgálati kérelmek esetén a 32/2009. (X. 20.) EüM rendeletben foglaltakat kell alkalmazni.
-[^18]: A 6. § (4) bekezdésének n) pontja e rendelet 25. §-ának (2) bekezdése alapján 2005. november 1. napján lépett hatályba.
-[^19]: A 6. § (5) bekezdését a 32/2009. (X. 20.) EüM rendelet 12. § (4) bekezdés a) pontja hatályon kívül helyezte. E módosító rendelet 12. § (1) bekezdése alapján a 2009. október 21. napját megelőzően benyújtott, de el nem bírált vizsgálati kérelmek esetén a 32/2009. (X. 20.) EüM rendeletben foglaltakat kell alkalmazni.
+[^20]: A 6. § (4) bekezdés f) pontja a 16/2014. (III. 12.) EMMI rendelet 11. § d) pontja szerint módosított szöveg.
+[^21]: A 6. § (4) bekezdés m) pontját a 32/2009. (X. 20.) EüM rendelet 12. § (4) bekezdés a) pontja hatályon kívül helyezte. E módosító rendelet 12. § (1) bekezdése alapján a 2009. október 21. napját megelőzően benyújtott, de el nem bírált vizsgálati kérelmek esetén a 32/2009. (X. 20.) EüM rendeletben foglaltakat kell alkalmazni.
+[^22]: A 6. § (4) bekezdés n) pontja a 16/2014. (III. 12.) EMMI rendelet 11. § e) pontja szerint módosított szöveg.
+[^23]: A 6. § (5) bekezdését a 32/2009. (X. 20.) EüM rendelet 12. § (4) bekezdés a) pontja hatályon kívül helyezte. E módosító rendelet 12. § (1) bekezdése alapján a 2009. október 21. napját megelőzően benyújtott, de el nem bírált vizsgálati kérelmek esetén a 32/2009. (X. 20.) EüM rendeletben foglaltakat kell alkalmazni.
+[^24]: A 6. § (6) bekezdés d) pontja a 16/2014. (III. 12.) EMMI rendelet 11. § a) pontja szerint módosított szöveg.
+[^25]: A 6. § (6) bekezdés e) pontja a 16/2014. (III. 12.) EMMI rendelet 11. § a) pontja szerint módosított szöveg.
+[^26]: A 6. § (7) bekezdése a 16/2014. (III. 12.) EMMI rendelet 11. § a) pontja szerint módosított szöveg.
