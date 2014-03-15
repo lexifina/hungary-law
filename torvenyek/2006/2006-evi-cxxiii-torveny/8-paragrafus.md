@@ -1,4 +1,4 @@
-8. § (1) Ha a sértett korlátozottan cselekvőképes, a közvetítői eljárásban a törvényes képviselő részvétele kötelező, ha a sértett cselekvőképtelen, a közvetítői eljárásban nem vehet részt, helyette törvényes képviselője jár el, érdekellentét esetén a Polgári Törvénykönyv rendelkezései az irányadók.
+8. § (1) A közvetítői eljárásban a törvényes képviselő részvétele kötelező, ha a sértett korlátozottan cselekvőképes kiskorú vagy a személyes, illetve a vagyoni ügyei vitelében vagy a bíróság, hatóság előtti eljárás jogának gyakorlása vonatkozásában cselekvőképességében részlegesen korlátozott nagykorú. Ha a sértett cselekvőképtelen, a közvetítői eljárásban nem vehet részt, helyette törvényes képviselője jár el. Érdekellentét esetén a Polgári Törvénykönyv rendelkezései az irányadók.
 
 (2) Ha a büntetőeljárásban a nyomozó hatóság, az ügyész, illetőleg a bíróság elrendelte, hogy a tanúként kihallgatott sértett személyi adatait [Be. 85. § (2) bek.] az iratok között elkülönítve, zártan kezeljék, a Be. 96. §-ának rendelkezései a közvetítői eljárásban is irányadók.
 
