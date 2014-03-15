@@ -20,6 +20,6 @@ h) a keltetőből kiadott lárva mennyiségét (darab) és a kiadás időpontjá
 
 i) eladás esetén a vevő részére átadott mellékelt eredetigazolások sorszámát.
 
-(3)[^2] A halkeltetési napló másodpéldányát az adott évi utolsó keléstől számított 30 napon belül a NÉBIH-nek meg kell küldeni.
+(3)[^3] A halkeltetési napló másodpéldányát az adott évi utolsó keléstől számított 30 napon belül a NÉBIH-nek meg kell küldeni.
 
-[^2]: A 6. § (3) bekezdése a 19/2014. (III. 12.) VM rendelet 39. § b) pontja szerint módosított szöveg.
+[^3]: A 6. § (3) bekezdése a 19/2014. (III. 12.) VM rendelet 39. § b) pontja szerint módosított szöveg.
