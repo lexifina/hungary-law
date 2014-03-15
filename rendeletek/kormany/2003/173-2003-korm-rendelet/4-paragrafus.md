@@ -8,7 +8,7 @@
 
 4. csoportvezető: több vendég (formális vagy tényleges csoport) képviselője;
 
-5.[^18] hozzátartozó: a Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) 685. §-ának b) pontjában meghatározott személyi kör;
+5.[^18] hozzátartozó: a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) 8:1. § 2. pontjában meghatározott személyi kör;
 
 6. idényjellegű (szezonális) üzemelés: a naptári év szolgáltató által meghatározott, legalább egy hónapos időszakára kiterjedő folyamatos működés;
 
@@ -34,7 +34,7 @@
 
 [^16]: A 4. § 2. pontját a 218/2007. (VIII. 15.) Korm. rendelet 11. § (8) bekezdésének a) pontja hatályon kívül helyezte.
 [^17]: A 4. § 3. pontját a 218/2007. (VIII. 15.) Korm. rendelet 11. § (6) bekezdésének a) pontja hatályon kívül helyezte.
-[^18]: A 4. § 5. pontja a 218/2007. (VIII. 15.) Korm. rendelet 11. § (7) bekezdésének g) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
+[^18]: A 4. § 5. pontja a 69/2014. (III. 13.) Korm. rendelet 8. §-ával megállapított szöveg.
 [^19]: A 4. § 7. pontja a 218/2007. (VIII. 15.) Korm. rendelet 2. §-ával megállapított, a 333/2011. (XII. 29.) Korm. rendelet 30. § a) pontja szerint módosított szöveg.
 [^20]: A 4. § 10. pontját a 218/2007. (VIII. 15.) Korm. rendelet 11. § (8) bekezdésének a) pontja hatályon kívül helyezte.
 [^21]: A 4. § 16. pontja a 218/2007. (VIII. 15.) Korm. rendelet 2. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
