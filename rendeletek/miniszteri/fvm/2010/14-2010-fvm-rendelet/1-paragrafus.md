@@ -8,11 +8,11 @@
 
 3. más tejtermék: minden egyéb tejtermék a tejen kívül, különösen fölözött tej (sovány tej), tejszín, vaj, joghurt, tejföl, túró és sajt;
 
-4. tejtermelő: olyan, a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény (a továbbiakban: Tv.) szerint regisztrált természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező gazdasági társaság, akinek vagy amelynek a 2. § 5. pontja szerinti gazdasága az Egységes Nyilvántartási és Azonosítási Rendszer (ENAR) nyilvántartásban szereplő állatállománnyal tejet termel, és azt vagy az abból előállított más tejterméket értékesít;
+4.[^1] tejtermelő: olyan, a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény (a továbbiakban: Tv.) szerint regisztrált természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező szervezet, akinek vagy amelynek a 2. § 5. pontja szerinti gazdasága az Egységes Nyilvántartási és Azonosítási Rendszer (ENAR) nyilvántartásban szereplő állatállománnyal tejet termel, és azt vagy az abból előállított más tejterméket értékesít;
 
-5.[^1] tejtermelő gazdasága (a továbbiakban: gazdaság): a tejtermelő által irányított, Magyarország területén található összes termelőegység;
+5.[^2] tejtermelő gazdasága (a továbbiakban: gazdaság): a tejtermelő által irányított, Magyarország területén található összes termelőegység;
 
-6. jóváhagyott felvásárló: olyan, a Tv. szerint regisztrált és e rendelet szerinti kvótanyilvántartásban felvásárlóként nyilvántartott természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező gazdasági társaság, aki vagy amely a termelői nyerstejet a tejtermelőtől azért veszi át, hogy azt – akár bérfeldolgozás keretében – gyűjtő, csomagoló, hűtő vagy feldolgozó folyamatnak vesse alá vagy értékesítse, vagy azt egy vagy több olyan vállalkozásnak továbbadja, amelyek tejet vagy tejterméket kezelnek vagy feldolgoznak, és e tevékenységének folytatásához a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) jóváhagyásával rendelkezik; továbbá jóváhagyott felvásárló lehet egyazon földrajzi terület felvásárlóinak olyan szövetkezése is, amely tagjai számára fizetési kötelezettség teljesítésével kapcsolatosan előírt adminisztrációs és könyvviteli tevékenységet végez;
+6.[^3] jóváhagyott felvásárló: olyan, a Tv. szerint regisztrált és e rendelet szerinti kvótanyilvántartásban felvásárlóként nyilvántartott természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező szervezet, aki vagy amely a termelői nyerstejet a tejtermelőtől azért veszi át, hogy azt – akár bérfeldolgozás keretében – gyűjtő, csomagoló, hűtő vagy feldolgozó folyamatnak vesse alá vagy értékesítse, vagy azt egy vagy több olyan vállalkozásnak továbbadja, amelyek tejet vagy tejterméket kezelnek vagy feldolgoznak, és e tevékenységének folytatásához a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) jóváhagyásával rendelkezik; továbbá jóváhagyott felvásárló lehet egyazon földrajzi terület felvásárlóinak olyan szövetkezése is, amely tagjai számára fizetési kötelezettség teljesítésével kapcsolatosan előírt adminisztrációs és könyvviteli tevékenységet végez;
 
 7. kvótanyilvántartás: a kvótarendszer működtetését elősegítő, a Tv. 26. § (1) bekezdése szerinti nyilvántartási rendszer;
 
@@ -46,11 +46,13 @@
 
 22. ENAR nyilvántartás: a szarvasmarhafajok egyedeinek jelöléséről, valamint Egységes Nyilvántartási és Azonosítási Rendszeréről szóló 99/2002. (XI. 5.) FVM rendelet 2. § 5. pontja szerinti nyilvántartás;
 
-23.[^2] együttműködő szervezet: az Európai Mezőgazdasági Vidékfejlesztési Alapból és az Európai Mezőgazdasági Garancia Alapból finanszírozott egyes támogatások tekintetében átruházott, valamint egyéb, szakértő szervezetek közreműködésével ellátott feladatokról szóló 48/2007. (VI. 20.) FVM rendelet 6. §-ában kijelölt szervezet;
+23.[^4] együttműködő szervezet: az Európai Mezőgazdasági Vidékfejlesztési Alapból és az Európai Mezőgazdasági Garancia Alapból finanszírozott egyes támogatások tekintetében átruházott, valamint egyéb, szakértő szervezetek közreműködésével ellátott feladatokról szóló 48/2007. (VI. 20.) FVM rendelet 6. §-ában kijelölt szervezet;
 
 24. fiatal tejtermelő: az a 40 évesnél fiatalabb magyar állampolgár, aki e rendelet szerint tejtermelőnek minősül, és/vagy saját TIR tenyészetkóddal rendelkezik, továbbá a nemzeti kvóta terhére történő kvóta igénylésének időpontjában, illetve ezen időpontot megelőző két kvótaévben nem rendelkezett kvótával;
 
 25. TIR: a tartási helyek, a tenyészetek és az ezekkel kapcsolatos egyes adatok országos nyilvántartási rendszeréről szóló 119/2007. (X. 18.) FVM rendelet szerint szabályozott tartási helyek, a tenyészetek és az ezzel kapcsolatos egyes adatok országos nyilvántartási rendszere.
 
-[^1]: Az 1. § 5. pontja az 5/2012. (II. 10.) VM rendelet 47. §-a szerint módosított szöveg.
-[^2]: Az 1. § 23. pontja a 82/2011. (VIII. 31.) VM rendelet 2. §-a szerint módosított szöveg.
+[^1]: Az 1. § 4. pontja a 22/2014. (III. 14.) VM rendelet 75. §-a szerint módosított szöveg.
+[^2]: Az 1. § 5. pontja az 5/2012. (II. 10.) VM rendelet 47. §-a szerint módosított szöveg.
+[^3]: Az 1. § 6. pontja a 22/2014. (III. 14.) VM rendelet 75. §-a szerint módosított szöveg.
+[^4]: Az 1. § 23. pontja a 82/2011. (VIII. 31.) VM rendelet 2. §-a szerint módosított szöveg.

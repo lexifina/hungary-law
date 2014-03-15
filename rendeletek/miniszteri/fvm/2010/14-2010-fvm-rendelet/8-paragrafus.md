@@ -6,7 +6,7 @@
 
 (3) A tejtermelő mentesül a kvótateljesítés kötelezettsége alól, ha a nem teljesítés az elháríthatatlan külső ok (vis maior) esetén alkalmazandó egyes szabályokról, valamint egyes agrár tárgyú miniszteri rendeletek módosításáról szóló 44/2007. (VI. 8.) FVM rendelet szerinti elháríthatatlan külső ok miatt következett be. A tejtermelő az elháríthatatlan külső okot legkésőbb a kvótaévet követő április 30-áig köteles bejelenteni az együttműködő szervezetnek. Az elháríthatatlan külső ok elismeréséről az MVH határozatot hoz.
 
-(4)[^7] A tejtermelőktől megvont egyéni kvóták, valamint Magyarország részére megállapított bármilyen kiegészítő kvóta automatikusan a nemzeti kvótatartalékba kerül, és a tejtermelők részére történő egyéni kvóta kiosztása a nemzeti kvótatartalék terhére történik.
+(4)[^9] A tejtermelőktől megvont egyéni kvóták, valamint Magyarország részére megállapított bármilyen kiegészítő kvóta automatikusan a nemzeti kvótatartalékba kerül, és a tejtermelők részére történő egyéni kvóta kiosztása a nemzeti kvótatartalék terhére történik.
 
 (5) Az (1) bekezdés alapján megvont kvóta a megvonás előtti mértékig abban az esetben kerül visszaadásra, ha a tejtermelő a kvóta megvonásának kvótaévében a megvonás előtti kvóta legalább 70 százalékát teljesíti.
 
@@ -14,4 +14,4 @@
 
 (7) Az 13 400 kilogrammot meg nem haladó egyéni kvótával rendelkező tejtermelők esetében az (1) bekezdés nem alkalmazandó.
 
-[^7]: A 8. § (4) bekezdése az 5/2012. (II. 10.) VM rendelet 47. §-a szerint módosított szöveg.
+[^9]: A 8. § (4) bekezdése az 5/2012. (II. 10.) VM rendelet 47. §-a szerint módosított szöveg.
