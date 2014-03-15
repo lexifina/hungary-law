@@ -6,7 +6,7 @@ b) a tulajdonában álló ingatlanokat és ingókat díj ellenében hasznosítha
 
 (2) A pártnak az (1) bekezdésben említett gazdálkodó tevékenysége után társasági adót nem kell fizetnie.
 
-(3) A párt vállalatot hozhat létre (Ptk. 70. § (1) bekezdés), továbbá egyszemélyes korlátolt felelősségű társaságot alapíthat, más gazdasági társaságban azonban részesedést nem szerezhet.
+(3) A párt egyszemélyes korlátolt felelősségű társaságot alapíthat, azonban más gazdasági társaságban részesedést nem szerezhet.
 
 (4) A párt a pénzeszközeit — részvényvásárlás kivételével — értékpapírba fektetheti.
 

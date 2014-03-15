@@ -26,7 +26,7 @@ Ft
 
 Ft
 
-5. A párt által alapított vállalat és korlátolt
+5. A párt által alapított korlátolt
 
 felelősségű társaság nyereségéből származó bevétel
 
