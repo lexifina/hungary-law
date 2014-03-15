@@ -1,4 +1,4 @@
-## 15–17. §[^50]
+## 15–17. §[^53]
 
 ## Az Európai Unió jogának való megfelelés
 
@@ -18,4 +18,4 @@
 
 – a Tanács 1760/2000/EK rendelete (2000. július 17.) a szarvasmarhák azonosítási és nyilvántartási rendszerének létrehozásáról, továbbá a marhahús és marhahústermékek címkézéséről, valamint a 820/97/EK tanácsi rendelet hatályon kívül helyezéséről.
 
-[^50]: A 15–17. §-t a 88/2013. (X. 2.) VM rendelet 43. § d) pontja hatályon kívül helyezte.
+[^53]: A 15–17. §-t a 88/2013. (X. 2.) VM rendelet 43. § d) pontja hatályon kívül helyezte.

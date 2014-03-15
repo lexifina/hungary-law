@@ -6,6 +6,6 @@ b) az MVH Integrált Igazgatási és Ellenőrzési Rendszere (IIER),
 
 c) a tenyésztési hatóságnál működő állattenyésztési rendszerek, valamint
 
-d)[^46] a NÉBIH Országos Vágóállat Minősítés-nyilvántartási Rendszere (OVMR)
+d)[^49] a NÉBIH Országos Vágóállat Minősítés-nyilvántartási Rendszere (OVMR)
 
-[^46]: A 12. § d) pontja a 88/2013. (X. 2.) VM rendelet 41. §-ával megállapított szöveg.
+[^49]: A 12. § d) pontja a 88/2013. (X. 2.) VM rendelet 41. §-ával megállapított szöveg.
