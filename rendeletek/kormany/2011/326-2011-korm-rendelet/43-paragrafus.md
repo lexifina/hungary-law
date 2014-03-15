@@ -14,11 +14,11 @@ b) a kötelező gépjármű-felelősségbiztosítás meglétét tanúsító igaz
 
 (4) A jármű származásának ellenőrzése során a közlekedési igazgatási hatóság a (2) bekezdésben meghatározott okmányban és okiratban szereplő adatokat elektronikus úton, az ellenőrzés elvégzéséhez szükséges adatok beszerzése céljából a Hivatalnak megküldi.
 
-(5)[^41] A Hivatal a származás-ellenőrzés elvégzése során a külföldi és nemzetközi körözési nyilvántartásokban és – a 42. § (4) bekezdésében meghatározott esetben, valamint ha a rendelkezésre álló adatok alapján a jármű származását illetően gyanús körülmények merültek fel – a külföldi hatóság nyilvántartásaiban történő ellenőrzés adatai alapján tisztázza a jármű származását, és ennek eredményéről a közlekedési igazgatási hatóságot elektronikus úton tájékoztatja.
+(5)[^43] A Hivatal a származás-ellenőrzés elvégzése során a külföldi és nemzetközi körözési nyilvántartásokban és – a 42. § (4) bekezdésében meghatározott esetben, valamint ha a rendelkezésre álló adatok alapján a jármű származását illetően gyanús körülmények merültek fel – a külföldi hatóság nyilvántartásaiban történő ellenőrzés adatai alapján tisztázza a jármű származását, és ennek eredményéről a közlekedési igazgatási hatóságot elektronikus úton tájékoztatja.
 
 (6) A közlekedési igazgatási hatóság a külföldi okmányokat és hatósági jelzéseket a forgalomba helyezés során bevonja és a keletkezett alapirattal a Hivatalnak megküldi, amely a 42. § (1) bekezdése szerint jár el.
 
-(7)[^42] A származás-ellenőrzés során gyanúra okot adó körülmény különösen, ha:
+(7)[^44] A származás-ellenőrzés során gyanúra okot adó körülmény különösen, ha:
 
 a) a külföldi vagy a nemzetközi körözési nyilvántartásban a jármű vagy annak hatósági jelzése, okmányai körözés alatt állnak,
 
@@ -28,5 +28,5 @@ c) gyanú van arra, hogy a jármű rendszámtábláját, forgalmi engedélyét m
 
 d) a jármű forgalmi engedélybe bejegyzett alvázszáma a jármű típusára jellemzőtől eltérő karaktereket tartalmaz.
 
-[^41]: A 43. § (5) bekezdése a 409/2012. (XII. 28.) Korm. rendelet 36. § (1) bekezdésével megállapított szöveg.
-[^42]: A 43. § (7) bekezdését a 409/2012. (XII. 28.) Korm. rendelet 36. § (2) bekezdése iktatta be.
+[^43]: A 43. § (5) bekezdése a 409/2012. (XII. 28.) Korm. rendelet 36. § (1) bekezdésével megállapított szöveg.
+[^44]: A 43. § (7) bekezdését a 409/2012. (XII. 28.) Korm. rendelet 36. § (2) bekezdése iktatta be.

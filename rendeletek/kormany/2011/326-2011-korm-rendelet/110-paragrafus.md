@@ -14,6 +14,6 @@ b) egyéb jármű esetében, ha annak ismételt belföldi forgalomba helyezési 
 
 (6) Amennyiben az (1) bekezdés b) pontja alapján kerül sor a jármű forgalomból történő végleges kivonására a hatósági jelzés visszavonásával, valamint a járműnyilvántartásba történő bejegyzéssel egyidejűleg a forgalmi engedélyt és a törzskönyvet érvénytelenítve vissza kell adni.
 
-(7)[^105] Az ügyfél kérelmére, valamint a 49. § (1) bekezdése, a 87. § (4) bekezdés b) pontja, a 102. § (5) bekezdése szerint hivatalból indult eljárást követően a jármű átmeneti időszakra történő forgalomból kivonása esetén, a forgalomból történő kivonás járműnyilvántartásba bejegyzésétől számított öt év elteltével a járművet véglegesen forgalomból kivontnak kell tekinteni.
+(7)[^109] Az ügyfél kérelmére, valamint a 49. § (1) bekezdése, a 87. § (4) bekezdés b) pontja, a 102. § (5) bekezdése szerint hivatalból indult eljárást követően a jármű átmeneti időszakra történő forgalomból kivonása esetén, a forgalomból történő kivonás járműnyilvántartásba bejegyzésétől számított öt év elteltével a járművet véglegesen forgalomból kivontnak kell tekinteni.
 
-[^105]: A 110. § (7) bekezdése az 544/2013. (XII. 30.) Korm. rendelet 42. § i) pontja szerint módosított szöveg.
+[^109]: A 110. § (7) bekezdése az 544/2013. (XII. 30.) Korm. rendelet 42. § i) pontja szerint módosított szöveg.

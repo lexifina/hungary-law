@@ -62,6 +62,6 @@
 
 ## – kerti traktor– állati erővel vont jármű hajtására
 
-2. melléklet a 326/2011. (XII. 28.) Korm. rendelethez[^120]
+2. melléklet a 326/2011. (XII. 28.) Korm. rendelethez[^124]
 
-[^120]: A 2. melléklet a 228/2012. (VIII. 23.) Korm. rendelet 7. § (21) bekezdése szerint módosított szöveg.
+[^124]: A 2. melléklet a 228/2012. (VIII. 23.) Korm. rendelet 7. § (21) bekezdése szerint módosított szöveg.

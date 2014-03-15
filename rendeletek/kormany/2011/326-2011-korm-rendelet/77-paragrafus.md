@@ -2,6 +2,6 @@
 
 (2) A jelzőcsík forgalmi engedélybe történő beragasztásakor be kell jegyezni a lejárati hónapot, valamint napot, és a bejegyzést le kell bélyegezni.
 
-(3)[^76] A közlekedési igazgatási hatóságok műszaki érvényességet igazoló címkével való ellátása a fővárosi és megyei kormányhivatal feladatkörébe tartozik. A Hivatal az általa lefolytatott eljárásokban felhasználásra kerülő műszaki érvényességet igazoló címke beszerzéséről saját hatáskörben gondoskodik.
+(3)[^78] A közlekedési igazgatási hatóságok műszaki érvényességet igazoló címkével való ellátása a fővárosi és megyei kormányhivatal feladatkörébe tartozik. A Hivatal az általa lefolytatott eljárásokban felhasználásra kerülő műszaki érvényességet igazoló címke beszerzéséről saját hatáskörben gondoskodik.
 
-[^76]: A 77. § (3) bekezdése az 544/2013. (XII. 30.) Korm. rendelet 27. §-ával megállapított szöveg.
+[^78]: A 77. § (3) bekezdése az 544/2013. (XII. 30.) Korm. rendelet 27. §-ával megállapított szöveg.
