@@ -12,17 +12,17 @@ a) az (1) bekezdés b) pontjában foglaltakat, amennyiben a támogatási kérele
 
 b) az 5. § (1) bekezdés b) és d) pontjában, valamint a 6. § (2) bekezdés b) és d) pontjában foglaltakat, amennyiben a támogatási kérelem benyújtásával egyidejűleg nyilatkozatban vállalja, hogy legkésőbb az (5) bekezdésben foglalt határidőig meg fog felelni az 5. § (1) bekezdés b) és d) pontjában, valamint a 6. § (2) bekezdés b) és d) pontjában meghatározott feltételeknek.
 
-(2a)[^3] A 2. célterület vonatkozásában, amennyiben az ügyfél nem minősül induló vállalkozásnak, és a támogatási kérelem benyújtásakor nem teljesíti a 6. § (2) bekezdés b) és d) pontjai szerinti feltételeket, úgy ezen feltételek vonatkozásában a (2) bekezdés b) pontja szerinti rendelkezéseket kell alkalmazni, azzal, hogy az ügyfél erre vonatkozó nyilatkozatát legkésőbb az MVH erre irányuló hiánypótlási felhívásában foglaltak szerint köteles megtenni.
+(2a)[^5] A 2. célterület vonatkozásában, amennyiben az ügyfél nem minősül induló vállalkozásnak, és a támogatási kérelem benyújtásakor nem teljesíti a 6. § (2) bekezdés b) és d) pontjai szerinti feltételeket, úgy ezen feltételek vonatkozásában a (2) bekezdés b) pontja szerinti rendelkezéseket kell alkalmazni, azzal, hogy az ügyfél erre vonatkozó nyilatkozatát legkésőbb az MVH erre irányuló hiánypótlási felhívásában foglaltak szerint köteles megtenni.
 
 (3) Támogatás igénybevételére nem jogosult
 
-a) a jogi személy, a jogi személyiség nélküli gazdasági társaság, ha 2013. szeptember 1-jét követően jegyezték be,
+a)[^6] a jogi személy, ha 2013. szeptember 1-jét követően jegyezték be,
 
 b) az egyéni vállalkozó valamint az őstermelő, ha egyéni vállalkozói nyilvántartásba vételére, vagy őstermelői igazolványának kiadására 2013. szeptember 1-jét követően került sor,
 
-c) az 1. célterület vonatkozásában az a jogi személy, jogi személyiség nélküli gazdasági társaság, egyéni vállalkozó, aki a mezőgazdasági tevékenységét 2013. szeptember 1-jét követően kezdte meg,
+c)[^7] az 1. célterület vonatkozásában az a jogi személy, egyéni vállalkozó, aki a mezőgazdasági tevékenységét 2013. szeptember 1-jét követően kezdte meg,
 
-d) a 2. célterület vonatkozásában az a jogi személy, jogi személyiség nélküli gazdasági társaság, egyéni vállalkozó, őstermelő, aki a 6. melléklet szerinti tevékenységét 2013. szeptember 1-jét követően kezdte meg.
+d)[^8] a 2. célterület vonatkozásában az a jogi személy, jogi személyiség nélküli gazdasági társaság, egyéni vállalkozó, őstermelő, aki a 6. melléklet szerinti tevékenységét 2013. szeptember 1-jét követően kezdte meg.
 
 (4) A Vhr. 25. § (2) bekezdésében foglaltaktól eltérően az ügyfél köteles a támogatott műveletet legkésőbb 2014. december 31. napjáig megvalósítani.
 
@@ -64,4 +64,7 @@ alapján támogatási kérelmet nyújtott be és az ügyben az e rendelet szerin
 
 (13) E rendelet alapján támogatás akkor vehető igénybe, ha az ügyfél az ÚMVP egyes intézkedései esetén 2009. évben nyújtandó támogatási előleg fizetéséről szóló kormányrendelet alapján nem vett igénybe támogatási előleget, vagy ha igénybe vett, akkor arra vonatkozóan az MVH-val szemben a támogatási kérelem benyújtásakor tartozása nem áll fenn.
 
-[^3]: A 4. § (2a) bekezdését a 19/2014. (III. 12.) VM rendelet 43. § (2) bekezdése iktatta be.
+[^5]: A 4. § (2a) bekezdését a 19/2014. (III. 12.) VM rendelet 43. § (2) bekezdése iktatta be.
+[^6]: A 4. § (3) bekezdés a) pontja a 22/2014. (III. 14.) VM rendelet 96. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^7]: A 4. § (3) bekezdés c) pontja a 22/2014. (III. 14.) VM rendelet 96. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^8]: A 4. § (3) bekezdés d) pontja a 22/2014. (III. 14.) VM rendelet 96. § (2) bekezdés b) pontja szerint módosított szöveg.
