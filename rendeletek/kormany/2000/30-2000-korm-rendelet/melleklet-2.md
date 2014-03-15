@@ -22,7 +22,7 @@
 
 – a kibontakozási hitelkonstrukciót (kibontakozási hitel, pótlólagos hitel) finanszírozó hitelintézet;
 
-– gazdálkodási forma (jogi személyiségű gazdasági társaság, nem jogi személyiségű gazdasági társaság, szövetkezet, főfoglalkozású egyéni vállalkozó, nem főfoglalkozású egyéni vállalkozó, főfoglalkozású őstermelő, nem főfoglalkozású őstermelő);
+– gazdálkodási forma (jogi személyiségű gazdasági társaság, jogi személyiséggel nem rendelkező szervezet, szövetkezet, főfoglalkozású egyéni vállalkozó, nem főfoglalkozású egyéni vállalkozó, főfoglalkozású őstermelő, nem főfoglalkozású őstermelő);
 
 – a vállalkozás – e rendelet hatálybalépéséig megvalósuló – átalakulása esetén (amennyiben az FVM által kiadott igazolás az átalakulás előtti cég névre került kiállításra, és erről adatszolgáltatás még nem történt) mellékelni kell
 
@@ -73,7 +73,7 @@ Dátum: ..................
 cégszerű aláírás
 
 [^50]: A 2. számú mellékletet a 85/2001. (V. 30.) Korm. rendelet 3. §-a iktatta a szövegbe.
-[^51]: A 2. számú melléklet 1. pontja a 351/2010. (XII. 30.) Korm. rendelet 69. §-a szerint módosított szöveg.
+[^51]: A 2. számú melléklet 1. pontja a 351/2010. (XII. 30.) Korm. rendelet 69. §-a, az 57/2014. (III. 4.) Korm. rendelet 2. §-a szerint módosított szöveg.
 [^52]: A 2. számú melléklet 2. pontjának b) alpontja a 337/2007. (XII. 13.) Korm. rendelet 8. § f) pontja, a 351/2010. (XII. 30.) Korm. rendelet 69. §-a szerint módosított szöveg.
 [^53]: A 2. számú melléklet 2. pontjának d) alpontja a 163/2009. (VIII. 6.) Korm. rendelet 34. § (2) bekezdésével megállapított szöveg.
 [^54]: A 2. számú melléklet 2. pontjának i) alpontját a 163/2009. (VIII. 6.) Korm. rendelet 34. § (3) bekezdése iktatta be.
