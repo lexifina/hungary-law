@@ -1,8 +1,8 @@
-## 29. §[^28] A feladó felróható közrehatásának minősül, ha olyan esetben, amikor jogszabály vagy a felek megállapodása szerint a küldeményt kísérettel kellett volna fuvarozni, nem rendelt kísérőt, illetve az árut a vasúti társaság megtévesztésével vagy a jogszabály által előírt biztonsági szabályokat megszegve adta fel fuvarozásra.
+## 29. §[^32] A feladó felróható közrehatásának minősül, ha olyan esetben, amikor jogszabály vagy a felek megállapodása szerint a küldeményt kísérettel kellett volna fuvarozni, nem rendelt kísérőt, illetve az árut a vasúti társaság megtévesztésével vagy a jogszabály által előírt biztonsági szabályokat megszegve adta fel fuvarozásra.
 
 ## A feladó felelőssége
 
-30. §[^29] (1) Ha a feladó a vasúti társaságot megtévesztve olyan árut ad fel, amely fuvarozására szerződés nem köthető, vagy az árut a külön jogszabályban előírt feltételek teljesítése nélkül adja fel fuvarozásra, a vasúti társaság – ennek felismerésekor, jogszabály eltérő rendelkezése hiányában – választása szerint
+30. §[^33] (1) Ha a feladó a vasúti társaságot megtévesztve olyan árut ad fel, amely fuvarozására szerződés nem köthető, vagy az árut a külön jogszabályban előírt feltételek teljesítése nélkül adja fel fuvarozásra, a vasúti társaság – ennek felismerésekor, jogszabály eltérő rendelkezése hiányában – választása szerint
 
 a) a fuvarozást megtagadhatja, illetve abbahagyhatja,
 
@@ -24,5 +24,5 @@ b) valótlan tömeg-, illetve tartalombevallással fuvardíj-megrövidítést ok
 
 (6) A vasúti társaság jogosult a küldemény felvételétől annak kiszolgáltatásáig a küldemény tartalmát a küldemény sérelme nélkül megvizsgálni, illetve a tömegét ellenőrizni.
 
-[^28]: A 29. § a 43. § (2) bekezdése alapján 2009. június 1-jén lép hatályba.
-[^29]: A 30. § a 43. § (2) bekezdése alapján 2009. június 1-jén lép hatályba.
+[^32]: A 29. § a 43. § (2) bekezdése alapján 2009. június 1-jén lép hatályba.
+[^33]: A 30. § a 43. § (2) bekezdése alapján 2009. június 1-jén lép hatályba.

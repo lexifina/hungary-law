@@ -4,7 +4,7 @@
 
 ## Az értesítés
 
-17. §[^16] (1) A vasúti társaság a küldemény megérkezéséről a feladó által megjelölt címzettet, illetve megbízottját (a továbbiakban együtt: átvételre jogosult) haladéktalanul értesíti.
+17. §[^20] (1) A vasúti társaság a küldemény megérkezéséről a feladó által megjelölt címzettet, illetve megbízottját (a továbbiakban együtt: átvételre jogosult) haladéktalanul értesíti.
 
 (2) A vasúti társaság az értesítésben közli az átvételre jogosulttal a rakodás megkezdésének lehetséges időpontját, továbbá a rakodási, illetőleg az elviteli határidőt.
 
@@ -22,4 +22,4 @@ d) a küldeménynek az eredeti kiszolgáltatási helyétől eltérő, a vasúti 
 
 (5) A (4) bekezdésben meghatározott utasítás végrehajtásával járó többletköltségeket az átvételre jogosult viseli.
 
-[^16]: A 17. § a 43. § (2) bekezdése alapján 2009. június 1-jén lép hatályba.
+[^20]: A 17. § a 43. § (2) bekezdése alapján 2009. június 1-jén lép hatályba.

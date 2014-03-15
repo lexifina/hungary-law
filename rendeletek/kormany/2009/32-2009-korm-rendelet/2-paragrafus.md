@@ -1,6 +1,6 @@
 ## Értelmező rendelkezések
 
-## 2. §[^2] E rendelet alkalmazásában:
+## 2. §[^3] E rendelet alkalmazásában:
 
 a) darabáru: az a küldemény, amelyet a vasúti társaság más küldeménnyel együtt, elkülönítés nélkül, gyűjtőforgalomban továbbít;
 
@@ -12,7 +12,7 @@ d) kocsirakomány: az a küldemény, amelynek fuvarozása kizárólagosan haszn�
 
 e) küldemény: az egy fuvarlevéllel feladott áruk, illetve árudarabok összessége;
 
-f) megrendelés: a Ptk. 211. §-a szerinti ajánlat;
+f)[^4] megrendelés: a Ptk. 6:64. §-a szerinti ajánlat;
 
 g) RID: a Veszélyes Áruk Nemzetközi Vasúti Fuvarozásáról szóló Szabályzat (RID), amely a Nemzetközi Vasúti Fuvarozási Egyezmény (COTIF) C Függeléke (Magyarországon kihirdette a 2006. évi LXXVII. törvény);
 
@@ -22,10 +22,13 @@ ha) besorolt, áruként feladott üres vasúti kocsi, vagy
 
 hb) be nem sorolt vasúti jármű;
 
-i) utólagos rendelkezés: a Ptk. 496. § (2) bekezdése szerinti rendelkezési jog;
+i)[^5] utólagos rendelkezés: a Ptk. 6:264. §-a szerinti rendelkezési jog;
 
 j) vasúti társaság: a külön jogszabályban meghatározott vasúti árufuvarozási tevékenység végzésére jogosult fuvarozó;
 
-k) visszaigazolás: a Ptk. 213. §-a szerinti ajánlatelfogadás.
+k)[^6] visszaigazolás: a Ptk. 6:66. §-a szerinti ajánlatelfogadás.
 
-[^2]: A 2. § a 43. § (2) bekezdése alapján 2009. június 1-jén lép hatályba.
+[^3]: A 2. § a 43. § (2) bekezdése alapján 2009. június 1-jén lép hatályba.
+[^4]: A 2. § f) pontja az 53/2014. (III. 3.) Korm. rendelet 20. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^5]: A 2. § i) pontja az 53/2014. (III. 3.) Korm. rendelet 20. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^6]: A 2. § k) pontja az 53/2014. (III. 3.) Korm. rendelet 20. § (1) bekezdés d) pontja szerint módosított szöveg.

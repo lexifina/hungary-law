@@ -6,7 +6,7 @@
 
 ## A rendelet hatálya
 
-1. §[^1] (1) A belföldi vasúti árufuvarozási szerződésekre a Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) rendelkezéseit az e rendeletben foglalt kiegészítésekkel kell alkalmazni.
+1. §[^1] (1)[^2] A belföldi vasúti árufuvarozási szerződésekre a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) rendelkezéseit az e rendeletben foglalt kiegészítésekkel kell alkalmazni.
 
 (2) Ha ez a rendelet nem tiltja, a felek a rendelet előírásaitól eltérhetnek.
 
@@ -17,3 +17,4 @@
 (5) E rendelet előírásait kell alkalmazni, ha a vasúti társaság az árufuvarozási szerződést közúti, vízi, légi fuvarozóval együttesen teljesíti (összetett fuvarozás) a vasúti társaság által végzett részfuvarozásra.
 
 [^1]: Az 1. § a 43. § (2) bekezdése alapján 2009. június 1-jén lép hatályba.
+[^2]: Az 1. § (1) bekezdése az 53/2014. (III. 3.) Korm. rendelet 20. § (1) bekezdés a) pontja szerint módosított szöveg.

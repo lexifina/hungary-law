@@ -1,6 +1,6 @@
 ## A kártérítés mértéke az árukároknál
 
-28. §[^27] (1) Ha a vasúti társaság a küldemény teljes vagy részleges elveszéséért, illetve megsemmisüléséért kártérítéssel tartozik, a küldemény értékét az alábbi sorrend betartásával kell megállapítani:
+28. §[^31] (1) Ha a vasúti társaság a küldemény teljes vagy részleges elveszéséért, illetve megsemmisüléséért kártérítéssel tartozik, a küldemény értékét az alábbi sorrend betartásával kell megállapítani:
 
 a) értékbevallás esetén a fuvarlevélen ilyen címen feltüntetett összeg,
 
@@ -20,4 +20,4 @@ b) az értékben csökkent rész elveszéséért járó kártérítés összegé
 
 (3) Érdekbevallás esetében a kártérítés felső határa – a szándékos károkozás esetét kivéve – a fuvarlevél szerinti bevallott összeg.
 
-[^27]: A 28. § a 43. § (2) bekezdése alapján 2009. június 1-jén lép hatályba.
+[^31]: A 28. § a 43. § (2) bekezdése alapján 2009. június 1-jén lép hatályba.

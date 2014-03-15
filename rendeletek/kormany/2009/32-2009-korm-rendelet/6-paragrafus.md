@@ -1,8 +1,8 @@
-## 5. §[^4] A vasúti társaság a szerződésben foglalt feltételeknek megfelelő, a fuvarfeladat végrehajtására alkalmas, ép és tiszta vasúti kocsit köteles a szerződésben meghatározott helyen és időben kiállítani.
+## 5. §[^8] A vasúti társaság a szerződésben foglalt feltételeknek megfelelő, a fuvarfeladat végrehajtására alkalmas, ép és tiszta vasúti kocsit köteles a szerződésben meghatározott helyen és időben kiállítani.
 
 ## Az áru felvétele fuvarozásra
 
-6. §[^5] (1) A vasúti társaság az árut a vasúti társaság szolgálati helyein vagy a fuvarozási szerződésben meghatározott más helyen veszi fel fuvarozásra.
+6. §[^9] (1) A vasúti társaság az árut a vasúti társaság szolgálati helyein vagy a fuvarozási szerződésben meghatározott más helyen veszi fel fuvarozásra.
 
 (2) Ha jogszabály másként nem rendelkezik, az áru felvételét követően a kocsik és az intermodális fuvarozási egységek zárható szerkezeti nyílásait, továbbá a kocsik ponyváit a vasúti társaság látja el kocsizárral.
 
@@ -12,5 +12,5 @@
 
 (5) Nem vehető fel fuvarozásra az az áru (veszélyes áru), amely a forgalom biztonságát, továbbá mások személyét vagy vagyonát veszélyezteti és a küldemény ezen tulajdonságai (veszélyforrások) jogszabályban meghatározott különleges feltételek (előírások) megtartásával sem küszöbölhetők ki.
 
-[^4]: Az 5. § a 43. § (2) bekezdése alapján 2009. június 1-jén lép hatályba.
-[^5]: A 6. § a 43. § (2) bekezdése alapján 2009. június 1-jén lép hatályba.
+[^8]: Az 5. § a 43. § (2) bekezdése alapján 2009. június 1-jén lép hatályba.
+[^9]: A 6. § a 43. § (2) bekezdése alapján 2009. június 1-jén lép hatályba.

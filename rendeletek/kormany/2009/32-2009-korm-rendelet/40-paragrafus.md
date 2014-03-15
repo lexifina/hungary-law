@@ -1,6 +1,6 @@
-## 39. §[^38] A darabáru küldemény fuvarozására a II–VII. fejezetekben foglaltakat az e fejezetben meghatározott eltérésekkel kell alkalmazni.
+## 39. §[^42] A darabáru küldemény fuvarozására a II–VII. fejezetekben foglaltakat az e fejezetben meghatározott eltérésekkel kell alkalmazni.
 
-40. §[^39] (1) A vasúti társaság a darabáru küldeményt gyűjtőforgalomban továbbítja.
+40. §[^43] (1) A vasúti társaság a darabáru küldeményt gyűjtőforgalomban továbbítja.
 
 (2) Darabáruként nem vehető fel fuvarozásra:
 
@@ -20,5 +20,5 @@ d) különleges (hűtést, melegítést vagy más jellegű) kezelést igénylő 
 
 (6) Ha a darabáruként fuvarozott áru fuvarozását jogszabály különleges feltételekhez köti, azokat a feladó köteles teljesíteni.
 
-[^38]: A 39. § a 43. § (2) bekezdése alapján 2009. június 1-jén lép hatályba.
-[^39]: A 40. § a 43. § (2) bekezdése alapján 2009. június 1-jén lép hatályba.
+[^42]: A 39. § a 43. § (2) bekezdése alapján 2009. június 1-jén lép hatályba.
+[^43]: A 40. § a 43. § (2) bekezdése alapján 2009. június 1-jén lép hatályba.

@@ -1,6 +1,6 @@
 ## A fuvarlevél
 
-7. §[^6] (1) A fuvarozási szerződésről küldeményenként fuvarlevelet kell kiállítani. A fuvarlevelet a feladó állítja ki.
+7. §[^10] (1) A fuvarozási szerződésről küldeményenként fuvarlevelet kell kiállítani. A fuvarlevelet a feladó állítja ki.
 
 (2) A fuvarlevél fokozott biztonságú elektronikus aláírással ellátott, elektronikus dokumentum formájában is kiállítható.
 
@@ -46,4 +46,4 @@ n) a feladó nyilatkozatát arról, hogy az üzletszabályzat feltételeit ismer
 
 (9) Az (1) és (3)–(8) bekezdés rendelkezéseitől a felek nem térhetnek el.
 
-[^6]: A 7. § a 43. § (2) bekezdése alapján 2009. június 1-jén lép hatályba.
+[^10]: A 7. § a 43. § (2) bekezdése alapján 2009. június 1-jén lép hatályba.

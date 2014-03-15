@@ -1,6 +1,6 @@
 ## A fuvarlevél kiváltása és a küldemény kiszolgáltatása
 
-19. §[^18] (1) A rendeltetési állomáson a küldemény átvételére jelentkező személy átvételi jogosultságát a vasúti társaság – a fuvarlevéllel egybevetve – megvizsgálja.
+19. §[^22] (1) A rendeltetési állomáson a küldemény átvételére jelentkező személy átvételi jogosultságát a vasúti társaság – a fuvarlevéllel egybevetve – megvizsgálja.
 
 (2) A vasúti társaság az átvételre jogosultnak átadja a fuvarlevél megfelelő példányát és a vasúti kocsi, valamint a küldemény megvizsgálását követően, továbbá ha a feladót (címzettet) fizetési kötelezettség terheli, a tartozás kiegyenlítése után a küldeményt az átvétel elismerése mellett kiszolgáltatja.
 
@@ -24,4 +24,4 @@ f) a küldeményen található jelöléseket, azok épségét.
 
 (6) A 17. § (4) bekezdés c) pontja alapján a vasúti társaság – amennyiben az lehetséges – az átvételre jogosult írásbeli kérésére és költségére megállapítja az áru bruttó tömegét, valamint darabszámát. A mennyiség megállapítását lehetőleg a felvétel során alkalmazott módon kell elvégezni, és a vizsgálat eredményét a fuvarlevélbe be kell jegyezni.
 
-[^18]: A 19. § a 43. § (2) bekezdése alapján 2009. június 1-jén lép hatályba.
+[^22]: A 19. § a 43. § (2) bekezdése alapján 2009. június 1-jén lép hatályba.

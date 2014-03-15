@@ -1,4 +1,4 @@
-21. §[^20] (1) Fenntartás esetén, illetve ha a vasúti társaság a küldemény kiszolgáltatása előtt a küldemény sérülését, részleges elveszését fedezi fel vagy valószínűsíti, a (3)–(4) bekezdés szerinti vizsgálat alapján jegyzőkönyvben rögzíti a küldemény állapotára, tömegére, darabszámára, valamint – amennyiben az lehetséges – a kár keletkezésének idejére és okára vonatkozó megállapításait.
+21. §[^24] (1) Fenntartás esetén, illetve ha a vasúti társaság a küldemény kiszolgáltatása előtt a küldemény sérülését, részleges elveszését fedezi fel vagy valószínűsíti, a (3)–(4) bekezdés szerinti vizsgálat alapján jegyzőkönyvben rögzíti a küldemény állapotára, tömegére, darabszámára, valamint – amennyiben az lehetséges – a kár keletkezésének idejére és okára vonatkozó megállapításait.
 
 (2) A jegyzőkönyv másolatát a vasúti társaság az átvételre jogosultnak köteles átadni.
 
@@ -6,4 +6,4 @@
 
 (4) Ha a fuvarlevélben a darabszám szerint megjelölt küldeményből egyes önálló darabok a kiszolgáltatásnál hiányoznak, a vasúti társaság a részleges elveszést a fuvarlevélbe tett bejegyzéssel is elismerheti.
 
-[^20]: A 21. § a 43. § (2) bekezdése alapján 2009. június 1-jén lép hatályba.
+[^24]: A 21. § a 43. § (2) bekezdése alapján 2009. június 1-jén lép hatályba.

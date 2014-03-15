@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-32-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-06-02 | 2009-32-20-22.2 | 32/2009. (II. 19.) Korm. rendelet |
+| 2014-03-15 | 2009-32-20-22.3 | 53/2014. (III. 3.) Korm. rendelet |
