@@ -1,6 +1,6 @@
-18. § (1)[^36]
+18. § (1)[^38]
 
-(2)–(3)[^37]
+(2)–(3)[^39]
 
-[^36]: A 18. § (1) bekezdését a 48/2009. (IX. 30.) KHEM rendelet 15. § (7) bekezdése hatályon kívül helyezte.
-[^37]: A 18. § (2)–(3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 27. §-ának 37. pontja hatályon kívül helyezte.
+[^38]: A 18. § (1) bekezdését a 48/2009. (IX. 30.) KHEM rendelet 15. § (7) bekezdése hatályon kívül helyezte.
+[^39]: A 18. § (2)–(3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 27. §-ának 37. pontja hatályon kívül helyezte.
