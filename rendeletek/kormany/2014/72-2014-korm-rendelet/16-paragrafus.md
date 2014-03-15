@@ -1,0 +1,1 @@
+## 15. § Az e rendelet hatálybalépésekor érvényes működési engedéllyel rendelkező közhasznú szervezet számára az örökbefogadást elősegítő magánszervezetek tevékenységéről és működésük engedélyezéséről szóló 127/2002. (V. 21.) Korm. rendelet alapján kiadott működési engedély és tanúsítvány érvényességét e rendelet nem érinti.
