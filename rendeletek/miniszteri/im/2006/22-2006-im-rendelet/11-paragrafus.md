@@ -2,6 +2,6 @@
 
 (2) Azoknak a gazdasági társaságoknak, amelyek a társasági szerződésüket még nem módosították a gazdasági társaságokról szóló 2006. évi IV. törvény (Gt.) rendelkezéseinek megfelelően, 2007. szeptember 1-jéig a 7. § szerinti közvetlen közleményeiket a gazdasági társaságokról szóló 1997. évi CXLIV. törvény rendelkezései szerint, illetve a csődeljárásról, a felszámolási eljárásról és a végelszámolásról szóló 1991. évi XLIX. törvény 2006. július 1-jéig hatályos rendelkezései szerint kell elkészíteniük. Azt a tényt, hogy a társasági szerződésnek a Gt. 336. § szerinti módosítására még nem került sor, a közleményben fel kell tüntetni.
 
-(3)[^16]
+(3)[^20] Azok a gazdasági társaságok, amelyek a Polgári Törvénykönyvről szóló 2013. évi V. törvény hatálybalépésével összefüggő átmeneti és felhatalmazó rendelkezésekről szóló 2013. évi CLXXVII. törvény (a továbbiakban: Ptké.) rendelkezései szerint nem határoztak a Polgári Törvénykönyv rendelkezéseivel összhangban álló továbbműködéséről vagy a Ptké. 12. § (2) bekezdés b) pontja alapján még nem alkalmazzák a Ptk. rendelkezéseit, a 7. § szerinti közvetlen közleményeiket a gazdasági társaságokról szóló 2006. évi V. törvény (a továbbiakban: Gt.) 2014. március 14-én hatályos rendelkezései szerint készítik el. Azt a tényt, hogy a gazdasági társaság még a Gt. hatálya alatt áll, a közleményben fel kell tüntetni.
 
-[^16]: A 11. § (3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 18. §-ának 4. pontja hatályon kívül helyezte.
+[^20]: A 11. § (3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 18. § 4. pontja hatályon kívül helyezte, újonnan a 21/2014. (III. 13.) KIM rendelet 18. § (5) bekezdése iktatta be.
