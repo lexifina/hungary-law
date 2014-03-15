@@ -1,0 +1,1 @@
+## 6. § A hajózási tevékenység engedélyezésének rendjéről szóló 28/2000. (XII. 18.) KöViM rendelet (a továbbiakban: R1.) 4. § (2) bekezdésében a „jogi személynek és jogi személyiséggel nem rendelkező gazdálkodó szervezetnek (a továbbiakban együtt: hajózási vállalkozás)” szövegrész helyébe a „gazdálkodó szervezetnek (a továbbiakban: hajózási vállalkozás)” szöveg lép.
