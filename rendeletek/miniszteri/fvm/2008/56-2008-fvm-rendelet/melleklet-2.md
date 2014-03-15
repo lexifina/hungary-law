@@ -38,7 +38,7 @@
 
 ## 6. Mellékletek
 
-2. számú melléklet az 56/2008. (IV. 25.) FVM rendelethez[^26]
+2. számú melléklet az 56/2008. (IV. 25.) FVM rendelethez[^28]
 
 ## Számla összesítő
 
@@ -72,4 +72,4 @@
 
 2.8.3. Szállításra vonatkozó támogatástartalom (Ft)
 
-[^26]: A 2. számú melléklet a 75/2012. (VII. 25.) VM rendelet 5. §-ával megállapított szöveg.
+[^28]: A 2. számú melléklet a 75/2012. (VII. 25.) VM rendelet 5. §-ával megállapított szöveg.

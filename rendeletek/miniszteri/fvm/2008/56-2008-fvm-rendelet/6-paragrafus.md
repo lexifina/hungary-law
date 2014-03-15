@@ -8,9 +8,9 @@
 
 (4) Amennyiben a szolgáltató – a kedvezményezett jogosultságának hiányában – nem kapja meg a támogatást, a szolgáltatást igénybe vevő köteles a bruttó számlaértéket a szolgáltatónak megfizetni.
 
-(5)[^3]
+(5)[^5]
 
-(6)[^4] A rendelkezésre álló támogatási keret kimerülését követően a kedvezményezett az igénybe vett szolgáltatás teljes (támogatással nem csökkentett) értékét köteles megtéríteni.
+(6)[^6] A rendelkezésre álló támogatási keret kimerülését követően a kedvezményezett az igénybe vett szolgáltatás teljes (támogatással nem csökkentett) értékét köteles megtéríteni.
 
-[^3]: A 6. § (5) bekezdését a 75/2012. (VII. 25.) VM rendelet 6. § (2) bekezdése hatályon kívül helyezte.
-[^4]: A 6. § (6) bekezdését a 8/2010. (II. 4.) FVM rendelet 1. § (1) bekezdése iktatta be.
+[^5]: A 6. § (5) bekezdését a 75/2012. (VII. 25.) VM rendelet 6. § (2) bekezdése hatályon kívül helyezte.
+[^6]: A 6. § (6) bekezdését a 8/2010. (II. 4.) FVM rendelet 1. § (1) bekezdése iktatta be.
