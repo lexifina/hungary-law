@@ -38,7 +38,7 @@
 
 ## 1. A nyomtatványokat személyes költségmentesség vagy illetékfeljegyzési jog engedélyezése iránti kérelemhez kell csatolni.
 
-## 2. Az 1. és 2. számú mellékletet a kérelmező – kiskorú vagy cselekvőképtelen (korlátozott cselekvőképes) személy helyett törvényes képviselője – tölti ki, és írja alá. Egyéni vállalkozó csak abban az esetben tölti ki és csatolja a mellékleteket, ha a per tárgya nincs összefüggésben a vállalkozással.
+## 2. Az 1. és 2. számú mellékletet a kérelmező – kiskorú vagy cselekvőképtelen nagykorú, vagy az ügy tárgya tekintetében, vagy perbeli eljárási cselekményekre kiterjedő hatállyal cselekvőképességében részlegesen korlátozott személy helyett törvényes képviselője – tölti ki, és írja alá. Egyéni vállalkozó csak abban az esetben tölti ki és csatolja a mellékleteket, ha a per tárgya nincs összefüggésben a vállalkozással.
 
 ## 3. A személyi adatokat a személyi igazolvány vagy más közokirat alapján kell a megfelelő rovatokba beírni.
 
@@ -54,6 +54,6 @@
 
 ## 9. A bíróság a költségmentesség feltételeinek fennállását évente felülvizsgálja, de bármikor felülvizsgálhatja.
 
-2. számú melléklet a 2/1968. (I. 24.) IM rendelethez[^27]
+2. számú melléklet a 2/1968. (I. 24.) IM rendelethez[^28]
 
-[^27]: A 2. számú melléklet a 16/1995. (VII. 25.) IM rendelet 5. §-ával megállapított szöveg, e módosító rendelet 6. § (1) bekezdése alapján rendelkezéseit az 1995. szeptember 1-jét követően előterjesztett költségmentesség vagy illetékfeljegyzési jog engedélyezése iránti kérelem esetében kell alkalmazni.
+[^28]: A 2. számú melléklet a 16/1995. (VII. 25.) IM rendelet 5. §-ával megállapított szöveg, e módosító rendelet 6. § (1) bekezdése alapján rendelkezéseit az 1995. szeptember 1-jét követően előterjesztett költségmentesség vagy illetékfeljegyzési jog engedélyezése iránti kérelem esetében kell alkalmazni.

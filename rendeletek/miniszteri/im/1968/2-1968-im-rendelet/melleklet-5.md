@@ -24,7 +24,7 @@
 
 |  | osztályvezető (jegyző, ügyintéző) | osztályvezető (jegyző, ügyintéző) | osztályvezető (jegyző, ügyintéző) |
 
-5. számú melléklet a 2/1968. (I. 24.) IM rendelethez[^30]
+5. számú melléklet a 2/1968. (I. 24.) IM rendelethez[^31]
 
 Nyomtatvány költségmentesség engedélyezéséhez
 
@@ -44,4 +44,4 @@ Az igazolást akkor kell kiállítani, ha a kérelmező vagy hozzátartozója az
 
 |  | osztályvezető (jegyző, ügyintéző) | osztályvezető (jegyző, ügyintéző) | osztályvezető (jegyző, ügyintéző) |
 
-[^30]: Az 5. számú melléklet a 16/1995. (VII. 25.) IM rendelet 5. §-ával megállapított, a 20/2007. (IV. 20.) IRM rendelet 4. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 5. § (1) bekezdése alapján rendelkezéseit a 2007. április 28. napját követően előterjesztett kérelmek elbírálása során kell alkalmazni.
+[^31]: Az 5. számú melléklet a 16/1995. (VII. 25.) IM rendelet 5. §-ával megállapított, a 20/2007. (IV. 20.) IRM rendelet 4. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 5. § (1) bekezdése alapján rendelkezéseit a 2007. április 28. napját követően előterjesztett kérelmek elbírálása során kell alkalmazni.
