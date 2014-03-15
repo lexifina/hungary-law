@@ -1,6 +1,6 @@
 3. § (1) Elektronikus aláírás, illetve dokumentum elfogadását – beleértve a bizonyítási eszközként történő alkalmazást – megtagadni, jognyilatkozat tételére, illetve joghatás kiváltására való alkalmasságát kétségbe vonni – a (2) bekezdés szerinti korlátozással – nem lehet kizárólag amiatt, hogy az aláírás, illetve dokumentum elektronikus formában létezik.
 
-(2) A Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) 598–684. §-ában szereplő, illetve a házasságról, a családról és a gyámságról szóló 1952. évi IV. törvény szerinti jogviszonyokban nem lehet az elektronikus formán kívüli dokumentumokat mellőzve, csak elektronikus aláírást felhasználni, illetve elektronikusan aláírt elektronikus dokumentumot készíteni.
+(2) A Polgári Törvénykönyvben szabályozott családjogi, élettársi kapcsolati, valamint öröklésjogi jogviszonyokban nem lehet az elektronikus formán kívüli dokumentumokat mellőzve, csak elektronikus aláírást felhasználni, illetve elektronikusan aláírt elektronikus dokumentumot készíteni.
 
 (3) A bírósági eljárások különböző típusaiban – az (1) bekezdésben előírt, bizonyítási eszközkénti felhasználáson túlmenően – eljárási cselekményeket akkor lehet az elektronikus formán kívüli dokumentumokat mellőzve, csak elektronikusan aláírt elektronikus dokumentum, illetve elektronikus aláírás használatával foganatosítani, ha ezt az eljárás-típusra vonatkozó jogszabály kifejezetten lehetővé teszi.
 

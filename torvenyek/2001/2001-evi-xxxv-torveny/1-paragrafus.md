@@ -2,7 +2,7 @@
 
 1. § (1) E törvényt kell alkalmazni
 
-a) az elektronikus aláírással kapcsolatos szolgáltatást végző természetes, illetve jogi személyre vagy jogi személyiség nélküli szervezetre, gazdálkodó szervezetre;
+a) az elektronikus aláírással kapcsolatos szolgáltatást végző természetes, illetve jogi személyre vagy jogi személyiség nélküli szervezetre;
 
 b) az elektronikus aláírással kapcsolatos szolgáltatást igénybe vevő, illetőleg elektronikus aláírást felhasználó természetes, illetve jogi személyre vagy jogi személyiség nélküli szervezetre;
 
