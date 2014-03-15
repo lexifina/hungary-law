@@ -30,7 +30,7 @@
 
 14. forgalmazó: terméket viszonteladónak, illetve fogyasztónak átadó, értékesítő gazdálkodó szervezet;
 
-15. gazdálkodó szervezet: a jogi személy, a jogi személyiséggel nem rendelkező gazdasági társaság, az egyéni vállalkozó, valamint az egyéni cég ide nem értve azt a költségvetési szervet, amelyet az államháztartásról szóló törvény szerint közfeladat ellátására hoztak létre;
+15. gazdálkodó szervezet: a polgári perrendtartásról szóló törvényben meghatározott gazdálkodó szervezet, ide nem értve azt a költségvetési szervet, amelyet az államháztartásról szóló törvény szerint közfeladat ellátására hoztak létre;
 
 16. gyártó: termék előállítója, továbbá – ha a terméket nem Magyarország területén állítják elő – az, aki a terméket gazdasági tevékenysége körében Magyarország területén elsőként forgalomba hozza;
 
@@ -132,7 +132,7 @@ meghatározott eltérésekkel összhangban kell értelmezni.
 
 (6) A hulladék e törvény szerinti behozatalára, kivitelére és átszállítására a hulladékszállításról szóló, 2006. június 14-i 1013/2006/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 1013/2006/EK európai parlamenti és tanácsi rendelet) szerinti szállítás fogalmat kell alkalmazni.
 
-(7) A hulladékgazdálkodással összefüggő, e törvényben nem szabályozott fogalmak, továbbá rendelkezések tekintetében a Polgári Törvénykönyvről szóló törvényt, a számvitelről szóló törvényt, a Magyarország helyi önkormányzatairól szóló törvényt, a környezetvédelmi termékdíjról szóló törvényt, valamint a környezet védelmének általános szabályairól szóló törvényt (a továbbiakban: Kvt.) kell alkalmazni.
+(7) A hulladékgazdálkodással összefüggő, e törvényben nem szabályozott fogalmak, továbbá rendelkezések tekintetében a Polgári Törvénykönyvet, a számvitelről szóló törvényt, a Magyarország helyi önkormányzatairól szóló törvényt, a környezetvédelmi termékdíjról szóló törvényt, valamint a környezet védelmének általános szabályairól szóló törvényt (a továbbiakban: Kvt.) kell alkalmazni.
 
 (8) Törvény vagy kormányrendelet az egyes hulladéktípusok és -fajták képződésének megelőzése érdekében, valamint a hulladékgazdálkodási tevékenységek vonatkozásában e törvénnyel összhangban álló további rendelkezéseket állapíthat meg.
 

@@ -1,4 +1,4 @@
-86. § (1) Az a természetes vagy jogi személy, egyéni cég, egyéni vállalkozó, továbbá jogi személyiség nélküli gazdasági társaság, aki (amely)
+86. § (1) Az a természetes vagy jogi személy, egyéni vállalkozó, továbbá jogi személyiséggel nem rendelkező szervezet, aki (amely)
 
 a) a hulladékgazdálkodással kapcsolatos jogszabály, közvetlenül alkalmazandó uniós jogi aktus vagy hatósági határozat előírásait megsérti,
 
