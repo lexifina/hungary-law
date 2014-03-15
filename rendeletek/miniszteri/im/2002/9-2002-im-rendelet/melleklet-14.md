@@ -46,6 +46,6 @@
 
 | 333. | Értesítés jogerősen kiszabott elzárásról. |
 
-14. melléklet a 9/2002 (IV. 9.) IM rendelethez[^342]
+14. melléklet a 9/2002 (IV. 9.) IM rendelethez[^344]
 
-[^342]: A 14. mellékletet a 9/2013. (VI. 29.) KIM rendelet 59. § (2) bekezdése iktatta be.
+[^344]: A 14. mellékletet a 9/2013. (VI. 29.) KIM rendelet 59. § (2) bekezdése iktatta be.

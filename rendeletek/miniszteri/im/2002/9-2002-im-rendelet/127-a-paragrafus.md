@@ -1,4 +1,4 @@
-## III/A. CÍM[^246]
+## III/A. CÍM[^248]
 
 ## AZ ELEKTRONIKUS ADAT VÉGLEGES HOZZÁFÉRHETETLENNÉ TÉTELÉNEK VÉGREHAJTÁSA
 
@@ -34,4 +34,4 @@ e) URL cím: egységes erőforrás azonosító, amely egyetlen címben foglalja 
 
 (5) Ha a Be. 596/A. § (1) bekezdés a) pontja alkalmazásának van helye, a bíróság az ítéletben (határozatban) az elektronikus adat végleges hozzáférhetetlenné tételét rendeli el és külön határozattal rendelkezik az elektronikus adathoz való hozzáférés végleges megakadályozásáról. Ha a bíróság határozatában az elektronikus adathoz való hozzáférés végleges megakadályozásáról rendelkezik, kötelezettként összefoglalóan a hozzáférést biztosító elektronikus hírközlési szolgáltatókat jelöli meg.
 
-[^246]: A III/A. Címet (127/A–127/D. §) a 9/2013. (VI. 29.) KIM rendelet 49. §-a iktatta be.
+[^248]: A III/A. Címet (127/A–127/D. §) a 9/2013. (VI. 29.) KIM rendelet 49. §-a iktatta be.

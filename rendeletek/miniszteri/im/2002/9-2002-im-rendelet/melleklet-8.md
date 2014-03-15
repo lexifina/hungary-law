@@ -58,6 +58,6 @@
 
 | 313/c. | Értesítés közérdekű munka jogerős kiszabásáról. |
 
-8. melléklet a 9/2002 (IV. 9.) IM rendelethez[^336]
+8. melléklet a 9/2002 (IV. 9.) IM rendelethez[^338]
 
-[^336]: A 8. mellékletet a 9/2013. (VI. 29.) KIM rendelet 59. § (2) bekezdése iktatta be.
+[^338]: A 8. mellékletet a 9/2013. (VI. 29.) KIM rendelet 59. § (2) bekezdése iktatta be.

@@ -1,8 +1,8 @@
 ## rendelkezik az elektronikus adat visszaállításáról, egyebekben a bíróság a (4) bekezdés alkalmazásával jár el.
 
-## Az elektronikus adat ideiglenes hozzáférhetetlenné tétele az elektronikus adathoz való hozzáférés ideiglenes megakadályozásával[^312]
+## Az elektronikus adat ideiglenes hozzáférhetetlenné tétele az elektronikus adathoz való hozzáférés ideiglenes megakadályozásával[^314]
 
-151/C. §[^313] (1) A bíróság az elektronikus adat ideiglenes hozzáférhetetlenné tételének az elektronikus adathoz való hozzáférés ideiglenes megakadályozásával történő elrendeléséről szóló határozata meghozatalával egyidejűleg, tekintet nélkül arra, hogy a határozata jogerőre emelkedett-e, a határozatról értesítőlapot állít ki és azt a határozattal együtt elektronikus úton megküldi az NMHH-nak.
+151/C. §[^315] (1) A bíróság az elektronikus adat ideiglenes hozzáférhetetlenné tételének az elektronikus adathoz való hozzáférés ideiglenes megakadályozásával történő elrendeléséről szóló határozata meghozatalával egyidejűleg, tekintet nélkül arra, hogy a határozata jogerőre emelkedett-e, a határozatról értesítőlapot állít ki és azt a határozattal együtt elektronikus úton megküldi az NMHH-nak.
 
 (2) Az értesítőlap a 3. §-ban foglaltakon túl tartalmazza
 
@@ -20,9 +20,9 @@ b) amennyiben a tárhelyszolgáltató eltávolítási kötelezettségének a má
 
 erről értesítőlapot állít ki, és azt a határozatával együtt elektronikus úton haladéktalanul megküldi az NMHH-nak.
 
-(3a)[^314] Ha a fellebbezés elbírálásakor a másodfokú bíróság az első fokú határozatot hatályon kívül helyezi, erről értesítőlapot állít ki, és azt a határozatával együtt elektronikus úton haladéktalanul megküldi az NMHH-nak. A bíróság az értesítőlap megjegyzés rovatában feltünteti, hogy az első fokú határozat hatályon kívül helyezése folytán az elektronikus adathoz való hozzáférés ideiglenes megakadályozását a KEHTA-ból törölni kell.
+(3a)[^316] Ha a fellebbezés elbírálásakor a másodfokú bíróság az első fokú határozatot hatályon kívül helyezi, erről értesítőlapot állít ki, és azt a határozatával együtt elektronikus úton haladéktalanul megküldi az NMHH-nak. A bíróság az értesítőlap megjegyzés rovatában feltünteti, hogy az első fokú határozat hatályon kívül helyezése folytán az elektronikus adathoz való hozzáférés ideiglenes megakadályozását a KEHTA-ból törölni kell.
 
-(4)[^315] A bíróság az elektronikus adathoz való hozzáférés ideiglenes megakadályozását elrendelő jogerős határozatát megküldi a törvényszéki végrehajtói irodának.
+(4)[^317] A bíróság az elektronikus adathoz való hozzáférés ideiglenes megakadályozását elrendelő jogerős határozatát megküldi a törvényszéki végrehajtói irodának.
 
 (5) A bíróság, ha a kijavítás érinti a 127/A. § (1) bekezdésében meghatározott adatokat, a kijavítást elrendelő határozat jogerőre emelkedését követően új értesítőlapot állít ki és azt határozatával együtt elektronikus úton haladéktalanul megküldi az NMHH-nak. Az értesítőlap megjegyzés rovatában fel kell tüntetni a kijavítás tényét, a kijavítás elrendeléséről határozatot hozó bíróság megnevezését, határozatának számát és keltét.
 
@@ -36,7 +36,7 @@ erről értesítőlapot állít ki, és azt a határozatával együtt elektronik
 
 (10) A bíróság az elektronikus adathoz való hozzáférés végleges megakadályozásával kapcsolatos értesítőlapot számítógépes program segítségével állítja ki. Az értesítőlapot és a határozat elektronikus kiadmányát a bíróság fokozott biztonságú elektronikus aláírással látja el és hivatali kapun keresztül küldi meg az NMHH-nak. A bíróság a hibásan kiállított értesítőlapot kijavítása esetén az előbbiek szerint jár el.
 
-[^312]: A 151/C. §-t megelőző alcímet a 9/2013. (VI. 29.) KIM rendelet 53. §-a iktatta be.
-[^313]: A 151/C. §-t a 9/2013. (VI. 29.) KIM rendelet 53. §-a iktatta be, szövege e módosító rendelet 54. §-ával megállapított szöveg.
-[^314]: A 151/C. § (3a) bekezdését a 35/2013. (XII. 23.) KIM rendelet 4. § (2) bekezdése iktatta be.
-[^315]: A 151/C. § (4) bekezdése a 35/2013. (XII. 23.) KIM rendelet 6. §-a szerint módosított szöveg.
+[^314]: A 151/C. §-t megelőző alcímet a 9/2013. (VI. 29.) KIM rendelet 53. §-a iktatta be.
+[^315]: A 151/C. §-t a 9/2013. (VI. 29.) KIM rendelet 53. §-a iktatta be, szövege e módosító rendelet 54. §-ával megállapított szöveg.
+[^316]: A 151/C. § (3a) bekezdését a 35/2013. (XII. 23.) KIM rendelet 4. § (2) bekezdése iktatta be.
+[^317]: A 151/C. § (4) bekezdése a 35/2013. (XII. 23.) KIM rendelet 6. §-a szerint módosított szöveg.

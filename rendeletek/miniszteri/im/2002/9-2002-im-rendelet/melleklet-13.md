@@ -112,6 +112,6 @@
 
 | 332/a. | Értesítés olyan jogerős szabadságvesztésről, melynél a feltételes szabadság kizárt. |
 
-13. melléklet a 9/2002 (IV. 9.) IM rendelethez[^341]
+13. melléklet a 9/2002 (IV. 9.) IM rendelethez[^343]
 
-[^341]: A 13. mellékletet a 9/2013. (VI. 29.) KIM rendelet 59. § (2) bekezdése iktatta be, szövege a 35/2013. (XII. 23.) KIM rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^343]: A 13. mellékletet a 9/2013. (VI. 29.) KIM rendelet 59. § (2) bekezdése iktatta be, szövege a 35/2013. (XII. 23.) KIM rendelet 5. § (2) bekezdésével megállapított szöveg.

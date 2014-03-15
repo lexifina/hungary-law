@@ -34,6 +34,6 @@
 
 | 336/a. | Értesítés katonával szemben elrendelt közügyektől eltiltásról és katonai büntetésről. |
 
-30. melléklet a 9/2002 (IV. 9.) IM rendelethez[^359]
+30. melléklet a 9/2002 (IV. 9.) IM rendelethez[^361]
 
-[^359]: A 30. mellékletet a 9/2013. (VI. 29.) KIM rendelet 59. § (2) bekezdése iktatta be.
+[^361]: A 30. mellékletet a 9/2013. (VI. 29.) KIM rendelet 59. § (2) bekezdése iktatta be.

@@ -50,6 +50,6 @@
 
 | 289. | Értesítés az ideiglenes kényszergyógykezelés elrendeléséről, fenntartásáról és megszüntetéséről. |
 
-5. melléklet a 9/2002 (IV. 9.) IM rendelethez[^333]
+5. melléklet a 9/2002 (IV. 9.) IM rendelethez[^335]
 
-[^333]: Az 5. mellékletet a 9/2013. (VI. 29.) KIM rendelet 59. § (2) bekezdése iktatta be.
+[^335]: Az 5. mellékletet a 9/2013. (VI. 29.) KIM rendelet 59. § (2) bekezdése iktatta be.

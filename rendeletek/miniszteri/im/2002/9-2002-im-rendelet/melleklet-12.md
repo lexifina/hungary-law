@@ -40,6 +40,6 @@
 
 | 905/b. | Értesítés elmeállapot megfigyeléséről. |
 
-12. melléklet a 9/2002 (IV. 9.) IM rendelethez[^340]
+12. melléklet a 9/2002 (IV. 9.) IM rendelethez[^342]
 
-[^340]: A 12. mellékletet a 9/2013. (VI. 29.) KIM rendelet 59. § (2) bekezdése iktatta be, szövege a 35/2013. (XII. 23.) KIM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^342]: A 12. mellékletet a 9/2013. (VI. 29.) KIM rendelet 59. § (2) bekezdése iktatta be, szövege a 35/2013. (XII. 23.) KIM rendelet 5. § (1) bekezdésével megállapított szöveg.

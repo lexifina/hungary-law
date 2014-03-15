@@ -28,6 +28,6 @@
 
 | 336/b. | Értesítés egészségügyi dolgozó egy évet meghaladó végrehajtandó szabadságvesztésre, egészségügyi tevékenység folytatását kizáró foglalkozástól eltiltásra ítéléséről. |
 
-19. melléklet a 9/2002 (IV. 9.) IM rendelethez[^347]
+19. melléklet a 9/2002 (IV. 9.) IM rendelethez[^349]
 
-[^347]: A 19. mellékletet a 9/2013. (VI. 29.) KIM rendelet 59. § (2) bekezdése iktatta be.
+[^349]: A 19. mellékletet a 9/2013. (VI. 29.) KIM rendelet 59. § (2) bekezdése iktatta be.

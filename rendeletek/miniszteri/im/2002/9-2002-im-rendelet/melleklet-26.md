@@ -20,7 +20,7 @@
 
 ## Munkavégzés helye (intézmény elnevezése, címe):
 
-## A jóvátételi munkában való részvétel kezdő és befejező időpontja, a jóvátételi munka formájának feltüntetésével (több munkavégzési helyet biztosító esetén mindegyikre vonatkozóan)[^354]:
+## A jóvátételi munkában való részvétel kezdő és befejező időpontja, a jóvátételi munka formájának feltüntetésével (több munkavégzési helyet biztosító esetén mindegyikre vonatkozóan)[^356]:
 
 | Kezdete: | , vége: | , jóvátételi munka formája: |
 
@@ -38,7 +38,7 @@
 
 | ph. |
 
-26. melléklet a 9/2002 (IV. 9.) IM rendelethez[^355]
+26. melléklet a 9/2002 (IV. 9.) IM rendelethez[^357]
 
-[^354]: Több munkavégzési hely esetén valamennyi munkavégzési hely külön igazolás kiállítására köteles.
-[^355]: A 26. mellékletet a 9/2013. (VI. 29.) KIM rendelet 59. § (2) bekezdése iktatta be.
+[^356]: Több munkavégzési hely esetén valamennyi munkavégzési hely külön igazolás kiállítására köteles.
+[^357]: A 26. mellékletet a 9/2013. (VI. 29.) KIM rendelet 59. § (2) bekezdése iktatta be.

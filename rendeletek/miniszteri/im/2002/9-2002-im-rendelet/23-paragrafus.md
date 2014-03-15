@@ -1,16 +1,16 @@
 23. § (1) Az értesítőlap és a rendelkezésre álló egyéb iratok alapján a bv. bíró megvizsgálja, hogy
 
-a)[^80] nincs-e a szabadságvesztés végrehajtását kizáró ok (Bv. tvr. 17. §),
+a)[^81] nincs-e a szabadságvesztés végrehajtását kizáró ok (Bv. tvr. 17. §),
 
-b)[^81] az elítélt az előzetes fogvatartásban, illetőleg házi őrizetben töltött idővel kitöltötte-e a szabadságvesztést,
+b)[^82] az elítélt az előzetes fogvatartásban, illetőleg házi őrizetben töltött idővel kitöltötte-e a szabadságvesztést,
 
-c)[^82] az előzetes fogvatartásban, illetőleg házi őrizetben töltött idő figyelembevételével sor kerülhet-e az elítélt feltételes szabadságra bocsátására,
+c)[^83] az előzetes fogvatartásban, illetőleg házi őrizetben töltött idő figyelembevételével sor kerülhet-e az elítélt feltételes szabadságra bocsátására,
 
 d) a fiatalkorú elítélt betöltötte-e a huszonegyedik életévét.
 
 (2) Ha a bv. bíró azt észleli, hogy valamely kérdésről a bíróság nem, vagy nem a törvénynek megfelelően határozott, a Be. szerinti különleges eljárás lefolytatása érdekében az alapügyben eljáró első fokú bíróságot keresi meg.
 
-(3)[^83] Ha a bv. bíró megállapítja, hogy a szabadságvesztés végrehajtásának nincs akadálya, az elítéltet felhívja a szabadságvesztés végrehajtásának megkezdésére. A felhívás tartalmazza azt, hogy az elítélt a szabadságvesztés végrehajtásának megkezdésére melyik bv. intézetben, milyen időpontban jelenjen meg. A felhívás tartalmazza továbbá a tájékoztatást arról, hogy nem bocsátható feltételes szabadságra, aki a szabadságvesztés letöltését önhibájából nem kezdte meg.
+(3)[^84] Ha a bv. bíró megállapítja, hogy a szabadságvesztés végrehajtásának nincs akadálya, az elítéltet felhívja a szabadságvesztés végrehajtásának megkezdésére. A felhívás tartalmazza azt, hogy az elítélt a szabadságvesztés végrehajtásának megkezdésére melyik bv. intézetben, milyen időpontban jelenjen meg. A felhívás tartalmazza továbbá a tájékoztatást arról, hogy nem bocsátható feltételes szabadságra, aki a szabadságvesztés letöltését önhibájából nem kezdte meg.
 
 (4) A (3) bekezdés szerinti felhívásban a bv. intézeten elsősorban a bv. csoport működési területén lévő megyei (megyei jellegű feladatot is ellátó) bv. intézetet kell érteni.
 
@@ -18,7 +18,7 @@ d) a fiatalkorú elítélt betöltötte-e a huszonegyedik életévét.
 
 (6) Az elítéltet fel kell hívni annak a közlésére, hogy van-e felügyelet nélkül maradó kiskorú gyermeke vagy más, általa gondozott személy, illetőleg igényel-e intézkedést vagyonának és lakásának biztonságba helyezése iránt.
 
-[^80]: A 23. § (1) bekezdés a) pontja a 9/2013. (VI. 29.) KIM rendelet 57. § 17. pontja szerint módosított szöveg.
-[^81]: A 23. § (1) bekezdésének b) pontja a 23/2003. (VI. 26.) IM rendelet 14. §-ával megállapított szöveg.
-[^82]: A 23. § (1) bekezdésének c) pontja a 23/2003. (VI. 26.) IM rendelet 14. §-ával megállapított szöveg.
-[^83]: A 23. § (3) bekezdése a 30/2009. (VIII. 7.) IRM rendelet 3. §-ával megállapított szöveg.
+[^81]: A 23. § (1) bekezdés a) pontja a 9/2013. (VI. 29.) KIM rendelet 57. § 17. pontja szerint módosított szöveg.
+[^82]: A 23. § (1) bekezdésének b) pontja a 23/2003. (VI. 26.) IM rendelet 14. §-ával megállapított szöveg.
+[^83]: A 23. § (1) bekezdésének c) pontja a 23/2003. (VI. 26.) IM rendelet 14. §-ával megállapított szöveg.
+[^84]: A 23. § (3) bekezdése a 30/2009. (VIII. 7.) IRM rendelet 3. §-ával megállapított szöveg.

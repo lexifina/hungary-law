@@ -1,6 +1,6 @@
-## 52/A. §[^113]
+## 52/A. §[^114]
 
-## II/A. Fejezet[^114]
+## II/A. Fejezet[^115]
 
 ## AZ ELZÁRÁS VÉGREHAJTÁSA
 
@@ -42,5 +42,5 @@ j) ha a büntetőeljárásban – amelyben az elzárást kiszabták – óvadék
 
 (6) A bírói rendelvénnyel ellátott értesítőlapot a határozat jogerőre emelkedésekor kell a fogvatartást foganatosító bv. intézetnek megküldeni, illetve a terheltet előállító büntetés-végrehajtási felügyelőnekátadni. A bv. felügyelő az értesítőlap átvételét, az átvétel időpontjának feltüntetésével, aláírásával elismeri. A bíróság az értesítőlap átadását a bv. csoporttal az erre rendszeresített értesítőlapon közli.
 
-[^113]: Az 52/A. §-t és az azt megelőző alcímet a 11/2010. (III. 31.) IRM rendelet 15. §-a iktatta be, hatályon kívül helyezte a 9/2013. (VI. 29.) KIM rendelet 58. § b) pontja.
-[^114]: A II/A. Fejezetet (52/B–52/G. §) a 9/2013. (VI. 29.) KIM rendelet 37. §-a iktatta be.
+[^114]: Az 52/A. §-t és az azt megelőző alcímet a 11/2010. (III. 31.) IRM rendelet 15. §-a iktatta be, hatályon kívül helyezte a 9/2013. (VI. 29.) KIM rendelet 58. § b) pontja.
+[^115]: A II/A. Fejezetet (52/B–52/G. §) a 9/2013. (VI. 29.) KIM rendelet 37. §-a iktatta be.
