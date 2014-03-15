@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-12-20-6
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2008-05-16 | 1997-12-20-6D.9 | 12/1997. (IV. 25.) KTM rendelet |
+| 2014-03-15 | 1997-12-20-6D.10 | 22/2014. (III. 14.) VM rendelet |

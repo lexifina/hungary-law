@@ -1,8 +1,8 @@
 3. § (1) Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
 
-(2)[^3]
+(2)[^4]
 
-Melléklet a 12/1997. (IV. 25.) KTM rendelethez[^4]
+Melléklet a 12/1997. (IV. 25.) KTM rendelethez[^5]
 
 A 2004-ben kisajátításra tervezett védett (és védelemre tervezett) természeti területek adatai igazgatósági bontásban
 
@@ -32,5 +32,5 @@ A 2004-ben kisajátításra tervezett védett (és védelemre tervezett) termés
 
 | ÖSSZESEN | 464 | 3176 | 133 | 634 | 52 | 246 | 4706 | 37 932 |
 
-[^3]: A 3. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 28. §-ának 12. pontja hatályon kívül helyezte.
-[^4]: A melléklet a 10/2004. (VI. 12.) KvVM rendelet 2. §-ával megállapított szöveg.
+[^4]: A 3. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 28. §-ának 12. pontja hatályon kívül helyezte.
+[^5]: A melléklet a 10/2004. (VI. 12.) KvVM rendelet 2. §-ával megállapított szöveg.

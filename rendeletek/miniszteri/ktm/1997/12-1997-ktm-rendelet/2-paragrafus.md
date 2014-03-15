@@ -16,5 +16,8 @@ b) a védett természeti terület soron kívüli kisajátításához.
 
 (3) Az (1) bekezdés b) pontja esetében a miniszter az igazgatóság kezdeményezésére dönt a soron kívüli kisajátítási eljárás kezdeményezéséről.
 
+(4)[^3] E rendelet alkalmazásában gazdálkodó szervezeten a polgári perrendtartásról szóló törvényben meghatározott gazdálkodó szervezetet kell érteni.
+
 [^1]: Az 1. § a 10/2004. (VI. 12.) KvVM rendelet 1. §-ával megállapított szöveg.
 [^2]: Lásd az 1998: XXXVI. törvény 2. §-a (1) bekezdésének e) pontját.
+[^3]: A 2. § (4) bekezdését a 22/2014. (III. 14.) VM rendelet 2. §-a iktatta be.
