@@ -1,6 +1,6 @@
 ## Törzsültetvények elfogadása, szaporítási fokozatok
 
-10. § (1)[^25] Kiválasztott, kiemelt és vizsgált szaporítóanyag csak elsődlegesen szaporítóanyag előállítás céljára létesített vagy kijelölt, a NÉBIH által elfogadott növényállományról – törzsültetvényből – állítható elő, gyűjthető be, hozható forgalomba, illetve használható fel.
+10. § (1)[^26] Kiválasztott, kiemelt és vizsgált szaporítóanyag csak elsődlegesen szaporítóanyag előállítás céljára létesített vagy kijelölt, a NÉBIH által elfogadott növényállományról – törzsültetvényből – állítható elő, gyűjthető be, hozható forgalomba, illetve használható fel.
 
 (2) A rendelet alkalmazásában erdészeti törzsültetvénynek minősül
 
@@ -36,4 +36,4 @@ b) a generatív szaporítóanyagot termő törzsültetvényeket elit fokozatú v
 
 (6) Olyan törzsültetvényt, amely részben vagy teljes egészében genetikailag módosított szervezetekből álló kiindulóanyagból létesülne, csak abban az esetben lehet engedélyezni, ha az emberi, állati és növényi környezetre való kedvezőtlen hatásoktól való mentesség a 8. § (8) bekezdése szerinti külön jogszabályok alapján végzett eljárások és vizsgálatok alapján egyértelműen bizonyított. A törzsültetvény létesítés csak a külön rendelet alapján kiadott engedély és a vizsgált kategóriának való megfelelés alapján kezdhető meg.
 
-[^25]: A 10. § (1) bekezdése a 70/2013. (VII. 31.) VM rendelet 30. § b) pontja szerint módosított szöveg.
+[^26]: A 10. § (1) bekezdése a 70/2013. (VII. 31.) VM rendelet 30. § b) pontja szerint módosított szöveg.

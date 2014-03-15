@@ -14,8 +14,9 @@ a) az 1. számú mellékletben foglalt erdészeti fajok és fajtáik szaporító
 
 b) a szaporítóanyagok előállítását, begyűjtését, nevelését, készletezését és forgalomba hozatalát közvetve vagy közvetlenül szolgáló létesítményekre, növényállományokra,
 
-c) azon természetes személyekre, jogi személyekre, jogi személyiséggel nem rendelkező gazdasági társaságokra (a továbbiakban együtt: szervezetek), amelyek erdészeti szaporítóanyag előállításával, begyűjtésével, nevelésével, készletezésével, forgalomba hozatalával és felhasználásával foglalkoznak,
+c)[^1] azon természetes személyekre, jogi személyekre, jogi személyiséggel nem rendelkező szervezetekre (a továbbiakban együtt: szervezetek), amelyek erdészeti szaporítóanyag előállításával, begyűjtésével, nevelésével, készletezésével, forgalomba hozatalával és felhasználásával foglalkoznak,
 
-d)[^1] a szaporítóanyag minősítő rendszert működtető és ellenőrző Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH), illetve az illetékes megyei kormányhivatal növény- és talajvédelmi igazgatósága.
+d)[^2] a szaporítóanyag minősítő rendszert működtető és ellenőrző Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH), illetve az illetékes megyei kormányhivatal növény- és talajvédelmi igazgatósága.
 
-[^1]: Az 1. § (3) bekezdés d) pontja a 70/2013. (VII. 31.) VM rendelet 30. § a) pontja szerint módosított szöveg.
+[^1]: Az 1. § (3) bekezdés c) pontja a 22/2014. (III. 14.) VM rendelet 18. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § (3) bekezdés d) pontja a 70/2013. (VII. 31.) VM rendelet 30. § a) pontja szerint módosított szöveg.

@@ -2,7 +2,7 @@
 
 21. § (1) Az erdőgazdálkodó, illetve az engedélyes csemetetermelő jogosult telephelyén az általa termelt, illetve begyűjtött szaporítóanyagot – e rendelet előírásai szerint – forgalomba hozni.
 
-(2)[^61] A szaporítóanyag forgalmazó köteles tevékenységét a NÉBIH-nek bejelenteni, csatolva:
+(2)[^63] A szaporítóanyag forgalmazó köteles tevékenységét a NÉBIH-nek bejelenteni, csatolva:
 
 a) a szakképzettséget igazoló bizonyítvány másolatát,
 
@@ -14,7 +14,7 @@ d) amennyiben tevékenységét ilyen formában végzi, a vállalkozói igazolvá
 
 e) az Erdészeti Szaporítóanyag Terméktanács tagsági igazolását.
 
-(3)[^62] A bejelentés alapján a NÉBIH a forgalmazót bejegyzi az erdészeti szaporítóanyag forgalmazók szakmai névjegyzékébe.
+(3)[^64] A bejelentés alapján a NÉBIH a forgalmazót bejegyzi az erdészeti szaporítóanyag forgalmazók szakmai névjegyzékébe.
 
 (4) A szaporítóanyag forgalmazó a felvásárolt tételeket csak olyan származási bizonylattal kísérten adhatja tovább, amelyen a viszonteladás ténye és az esetleges tételmegosztás vagy összevonás fel van tüntetve.
 
@@ -22,10 +22,10 @@ e) az Erdészeti Szaporítóanyag Terméktanács tagsági igazolását.
 
 (6) A szaporítóanyag forgalmazó köteles vezetni a 20. § (1) és (2) bekezdése szerinti nyilvántartásokat, és betartani a 20. § (6) bekezdése szerinti határidőket. A szaporítóanyag-tételek nyilvántartására, elkülönítésére, forgalomba hozatalára, előkészítésére a 13–15. § és a 18–20. § előírásai vonatkoznak. A viszonteladó az egy tételként kezelhető szaporítóanyag mennyiségeket megbonthatja, illetve összevonhatja.
 
-(7)[^63] A NÉBIH a szaporítóanyag forgalmazót a szakmai előírások betartása tekintetében szúrópróbaszerűen ellenőrzi.
+(7)[^65] A NÉBIH a szaporítóanyag forgalmazót a szakmai előírások betartása tekintetében szúrópróbaszerűen ellenőrzi.
 
 (8) A termelő, illetve forgalmazó felelős a közölt adatok helyességéért.
 
-[^61]: A 21. § (2) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 30. § e) pontja szerint módosított szöveg.
-[^62]: A 21. § (3) bekezdése a 70/2013. (VII. 31.) VM rendelet 30. § b) pontja szerint módosított szöveg.
-[^63]: A 21. § (7) bekezdése a 70/2013. (VII. 31.) VM rendelet 30. § d) pontja szerint módosított szöveg.
+[^63]: A 21. § (2) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 30. § e) pontja szerint módosított szöveg.
+[^64]: A 21. § (3) bekezdése a 70/2013. (VII. 31.) VM rendelet 30. § b) pontja szerint módosított szöveg.
+[^65]: A 21. § (7) bekezdése a 70/2013. (VII. 31.) VM rendelet 30. § d) pontja szerint módosított szöveg.
