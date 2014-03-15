@@ -278,6 +278,6 @@
 
 | IV.10.) AZ ÖSSZEGZÉS FELADÁSÁNAK IDŐPONTJA: □□□□/□□/□□ (év/hó/nap ) |
 
-12. melléklet a 92/2011. (XII. 30.) NFM rendelethez[^14]
+12. melléklet a 92/2011. (XII. 30.) NFM rendelethez[^17]
 
-[^14]: A 12. melléklet a 36/2013. (VI. 30.) NFM rendelet 6. § g) pontjával megállapított szöveg.
+[^17]: A 12. melléklet a 36/2013. (VI. 30.) NFM rendelet 6. § g) pontjával megállapított szöveg.

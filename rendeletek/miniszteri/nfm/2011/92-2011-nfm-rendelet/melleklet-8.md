@@ -162,6 +162,6 @@
 
 | V.3.) E HIRDETMÉNY FELADÁSÁNAK IDŐPONTJA: □□□□/□□/□□ (év/hó/nap) |
 
-8. melléklet a 92/2011. (XII. 30.) NFM rendelethez[^12]
+8. melléklet a 92/2011. (XII. 30.) NFM rendelethez[^15]
 
-[^12]: A 8. melléklet a 36/2013. (VI. 30.) NFM rendelet 6. § e) pontjával megállapított szöveg.
+[^15]: A 8. melléklet a 36/2013. (VI. 30.) NFM rendelet 6. § e) pontjával megállapított szöveg.

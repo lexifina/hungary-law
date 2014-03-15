@@ -46,6 +46,6 @@
 
 ## A *-gal megjelölt pontokat csak akkor kell kitölteni, ha az abban foglalt eset fennáll.
 
-11. melléklet a 92/2011. (XII. 30.) NFM rendelethez[^13]
+11. melléklet a 92/2011. (XII. 30.) NFM rendelethez[^16]
 
-[^13]: A 11. melléklet a 36/2013. (VI. 30.) NFM rendelet 6. § f) pontjával megállapított szöveg.
+[^16]: A 11. melléklet a 36/2013. (VI. 30.) NFM rendelet 6. § f) pontjával megállapított szöveg.

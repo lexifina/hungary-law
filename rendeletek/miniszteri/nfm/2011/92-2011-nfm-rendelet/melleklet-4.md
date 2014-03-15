@@ -310,6 +310,6 @@
 
 ## ----------------------(E mellékletből a részek számának megfelelően több példány használható) ----------------------
 
-4. melléklet a 92/2011. (XII. 30.) NFM rendelethez[^10]
+4. melléklet a 92/2011. (XII. 30.) NFM rendelethez[^13]
 
-[^10]: A 4. melléklet a 36/2013. (VI. 30.) NFM rendelet 6. § c) pontjával megállapított szöveg.
+[^13]: A 4. melléklet a 36/2013. (VI. 30.) NFM rendelet 6. § c) pontjával megállapított, a 12/2014. (III. 14.) NFM rendelet 21. § (2) bekezdés b) pontja szerint módosított szöveg.
