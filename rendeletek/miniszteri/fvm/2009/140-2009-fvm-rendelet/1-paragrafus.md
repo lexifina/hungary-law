@@ -1,6 +1,6 @@
 ## Az intervenciós készletek felvásárlása
 
-1. § (1)[^1] Intervencióra felajánlhat az Európai Unió területén betakarított, homogén, per-, teher- és igénymentes gabonát és rizst (a továbbiakban: felajánlott áru) annak tulajdonosa, valamint a felajánlott árura vonatkozóan rendelkezési joggal rendelkező természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező gazdasági társaság (a továbbiakban együtt: felajánlók) a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) által az MVH honlapján közzétett felajánlási adatlap benyújtásával. Közraktározott gabona és rizs is felajánlható intervencióra, amennyiben a felajánlott áru per-, teher- és igénymentességét a 2. § (5) bekezdésében meghatározott határidőn belül igazolják.
+1. § (1)[^1] Intervencióra felajánlhat az Európai Unió területén betakarított, homogén, per-, teher- és igénymentes gabonát és rizst (a továbbiakban: felajánlott áru) annak tulajdonosa, valamint a felajánlott árura vonatkozóan rendelkezési joggal rendelkező természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet (a továbbiakban együtt: felajánlók) a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) által az MVH honlapján közzétett felajánlási adatlap benyújtásával. Közraktározott gabona és rizs is felajánlható intervencióra, amennyiben a felajánlott áru per-, teher- és igénymentességét a 2. § (5) bekezdésében meghatározott határidőn belül igazolják.
 
 (2)[^2] A felajánlási adatlapon található bármely előírt nyilatkozat hiánya elutasítást von maga után. A felajánlási adatlaphoz mellékelni kell a közvetlenül alkalmazandó közösségi jogi aktusban meghatározott kötelező dokumentumokon túl:
 
@@ -18,7 +18,7 @@ c) amennyiben a felajánlás érvényességéhez szükséges, a biztosíték let
 
 (6)[^5] A kérelem alapján indult eljárás során hiánypótlásnak helye nincs. A hiányos kérelmeket a beadási határidő napját követően az MVH érdemi vizsgálat nélkül elutasítja, amely esetben a felajánló mentesül a 2. § (7) bekezdésében rögzített költségtérítések alól, továbbá a letétbe helyezett biztosíték sem kerül bevonásra. Az 1234/2007/EK tanácsi rendeletnek a mezőgazdasági termékek állami intervenció keretében történő felvásárlása és értékesítése tekintetében történő végrehajtására vonatkozó részletes szabályok megállapításáról szóló, 2009. december 11-i 1272/2009/EU bizottsági rendelet 13. cikk (1) bekezdésében meghatározott időszak utolsó napjának a hét utolsó munkanapját kell tekinteni.
 
-[^1]: Az 1. § (1) bekezdése a 100/2011. (XI. 5.) VM rendelet 10. § a) pontja szerint módosított szöveg.
+[^1]: Az 1. § (1) bekezdése a 100/2011. (XI. 5.) VM rendelet 10. § a) pontja, a 22/2014. (III. 14.) VM rendelet 72. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^2]: Az 1. § (2) bekezdése a 100/2011. (XI. 5.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^3]: Az 1. § (3) bekezdése a 100/2011. (XI. 5.) VM rendelet 10. § b) pontja szerint módosított szöveg.
 [^4]: Az 1. § (4) bekezdése a 100/2011. (XI. 5.) VM rendelet 10. § c) pontja szerint módosított szöveg.

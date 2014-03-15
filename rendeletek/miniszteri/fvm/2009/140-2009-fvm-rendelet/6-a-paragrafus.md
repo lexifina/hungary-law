@@ -1,4 +1,4 @@
-6/A. §[^21] (1) ÁFA-mentes értékesítésre a hatályos adótörvények betartása mellett a (2)–(9) bekezdésben foglalt kiegészítő feltételek mellett van lehetőség.
+6/A. §[^22] (1) ÁFA-mentes értékesítésre a hatályos adótörvények betartása mellett a (2)–(9) bekezdésben foglalt kiegészítő feltételek mellett van lehetőség.
 
 (2) Az ÁFA-mentes értékesítésre vonatkozó igényt már az ajánlattételkor, külön kiegészítő formanyomtatvány csatolásával kell jelezni, amelyen az ajánlattevő közösségi adószámát fel kell tüntetni.
 
@@ -16,4 +16,4 @@
 
 (9) Az MVH a számlát a (8) bekezdésben foglaltakon túl akkor is módosítja, ha a nettó vételár megfizetésre kerül, de a kiegészítő biztosítékot nem helyezik letétbe a fizetési határidő lejártáig. Ebben az esetben úgy kell tekinteni, hogy a tételnek csak akkora hányada került megfizetésre, mint ahogy a fizetési határidő lejártakor rendelkezésre álló befizetett összeg aránylik a bruttó vételárhoz.
 
-[^21]: A 6/A. §-t a 100/2011. (XI. 5.) VM rendelet 7. §-a iktatta be.
+[^22]: A 6/A. §-t a 100/2011. (XI. 5.) VM rendelet 7. §-a iktatta be.

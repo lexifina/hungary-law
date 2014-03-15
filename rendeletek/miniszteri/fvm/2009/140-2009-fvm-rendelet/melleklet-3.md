@@ -20,7 +20,7 @@
 
 ## ** Adott év október 1-jétől szeptember 30-ig terjedő időszaka tekintendő.
 
-3. számú melléklet a 140/2009. (X. 29.) FVM rendelethez[^28]
+3. számú melléklet a 140/2009. (X. 29.) FVM rendelethez[^29]
 
 ## A gabona és rizs intervenciójával kapcsolatban mintavételt és minőségvizsgálatot végző laboratóriumok listája
 
@@ -40,4 +40,4 @@
 
 8. MINERÁG Fejlesztési, Termelési és Kereskedelmi Korlátolt Felelősségű Társaság, 7100 Szekszárd, Keszelyűsi út 9.
 
-[^28]: A 3. számú melléklet a 100/2011. (XI. 5.) VM rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^29]: A 3. számú melléklet a 100/2011. (XI. 5.) VM rendelet 9. § (2) bekezdésével megállapított szöveg.

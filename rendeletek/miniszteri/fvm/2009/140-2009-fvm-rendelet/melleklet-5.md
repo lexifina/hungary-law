@@ -56,7 +56,7 @@
 
 ## j) Amennyiben a betárolás fogadógarat segítségével történik, úgy a fogadógaratot csapadék ellen megfelelő védelemmel kell ellátni.
 
-5. számú melléklet a 140/2009. (X. 29.) FVM rendelethez[^30]
+5. számú melléklet a 140/2009. (X. 29.) FVM rendelethez[^31]
 
 A tárolásra feljogosító hatósági szerződéskötés feltételei
 
@@ -76,7 +76,7 @@ ea) gazdasági társaság esetében 30 napnál nem régebbi keltezésű cégkivo
 
 eb) az ingatlan 30 napnál nem régebbi tulajdoni lapjának másolatát;
 
-ec)[^31] a járási állategészségügyi és élelmiszer-ellenőrző hivatalhoz történő bejelentkezést igazoló dokumentumot arról, hogy a raktár üzemeltetőjét élelmiszerként és takarmányként felhasználni kívánt mezőgazdasági termény tárolása céljából a 2008. évi XLVI. törvény rendelkezései szerint élelmiszeripari és takarmányipari vállalkozóként nyilvántartásba vették;
+ec)[^32] a járási állategészségügyi és élelmiszer-ellenőrző hivatalhoz történő bejelentkezést igazoló dokumentumot arról, hogy a raktár üzemeltetőjét élelmiszerként és takarmányként felhasználni kívánt mezőgazdasági termény tárolása céljából a 2008. évi XLVI. törvény rendelkezései szerint élelmiszeripari és takarmányipari vállalkozóként nyilvántartásba vették;
 
 ed) a részvételi kérelmet aláíró cégképviseletre jogosult személy aláírási címpéldányának másolati példányát;
 
@@ -91,6 +91,8 @@ eh) az illetékes adóhatóság 30 napnál nem régebbi igazolását arról, hog
 f) Az üzemeltető vállalkozás utolsó két évre vonatkozó beszámolói alapján saját tőkéje nem volt negatív, és a gazdálkodó szervezetnek a számviteli jogszabályok szerint számított saját tőkéje a törzstőke (alaptőke) jogszabályban előírt legkisebb mértéke alá nem csökkent.
 
 g) Nem rendelkezik a kérelem benyújtását megelőző három naptári éven belül kötött azonnali hatályú felmondással megszüntetett intervenciós raktárszerződéssel.
+
+h)[^33] E rendelet alkalmazásában gazdálkodó szervezeten a polgári perrendtartásról szóló törvényben meghatározott gazdálkodó szervezetet kell érteni.
 
 II. Raktár túlkínálat esetén a kiválasztás során előnyt jelent, ha:
 
@@ -114,5 +116,6 @@ i) a törzstőke és az alaptőke mértéke fedezi az összes tárolható készl
 
 j) a hídmérleg a telepen belül saját tulajdonban van.
 
-[^30]: Az 5. számú mellékletet a 100/2011. (XI. 5.) VM rendelet 9. § (3) bekezdése iktatta be.
-[^31]: Az 5. melléklet I. cím e) pont ec) alpontja a 151/2012. (XII. 29.) VM rendelet 36. §-a szerint módosított szöveg.
+[^31]: Az 5. számú mellékletet a 100/2011. (XI. 5.) VM rendelet 9. § (3) bekezdése iktatta be.
+[^32]: Az 5. melléklet I. cím e) pont ec) alpontja a 151/2012. (XII. 29.) VM rendelet 36. §-a szerint módosított szöveg.
+[^33]: Az 5. számú melléklet I. fejezet h) pontját a 22/2014. (III. 14.) VM rendelet 72. § (1) bekezdése iktatta be.

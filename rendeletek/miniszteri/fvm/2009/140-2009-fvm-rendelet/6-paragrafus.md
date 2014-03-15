@@ -16,11 +16,11 @@
 
 (8) Ha az árut a megadott határidőig az intervenciós raktárból kiszállították, az MVH a vételárat az elnyert és a kitárolt mennyiség közötti különbség alapján kiigazítja. Ha az áru fizikai mozgatás nélkül átadásra került, az MVH a vételárat az elnyert és az átadott mennyiség közötti különbség alapján kiigazítja.
 
-(9)[^19] Az ajánlattételi biztosíték felszabadításáról vagy bevonásáról az MVH az ajánlat elfogadásáról vagy elutasításáról szóló döntést követően külön eljárás során dönt a Korm. rendeletben meghatározottak szerint.
+(9)[^20] Az ajánlattételi biztosíték felszabadításáról vagy bevonásáról az MVH az ajánlat elfogadásáról vagy elutasításáról szóló döntést követően külön eljárás során dönt a Korm. rendeletben meghatározottak szerint.
 
 (10) Az MVH az intervenciós követelményeknek meg nem felelő készleteket (veszteségkezelés során keletkezett tételek) az (1)–(9) bekezdéseknek megfelelően értékesítheti. Az MVH az értékesítésből befolyt összeget az adott tételből származó veszteségek kiegyenlítésére fordítja.
 
-(11)[^20] A mezőgazdasági piacok közös szervezésének létrehozásáról, valamint egyes mezőgazdasági termékekre vonatkozó egyedi rendelkezésekről szóló, 2007. október 22-i 1234/2007/EK tanácsi rendelet (a továbbiakban: tanácsi rendelet) 27. cikkében meghatározott élelmiszerosztás céljára térítésmentesen átadott készletek esetén a (6)–(7) bekezdést kell alkalmazni a pénzügyi tranzakciókra vonatkozó szabályok figyelembevétele nélkül.
+(11)[^21] A mezőgazdasági piacok közös szervezésének létrehozásáról, valamint egyes mezőgazdasági termékekre vonatkozó egyedi rendelkezésekről szóló, 2007. október 22-i 1234/2007/EK tanácsi rendelet (a továbbiakban: tanácsi rendelet) 27. cikkében meghatározott élelmiszerosztás céljára térítésmentesen átadott készletek esetén a (6)–(7) bekezdést kell alkalmazni a pénzügyi tranzakciókra vonatkozó szabályok figyelembevétele nélkül.
 
-[^19]: A 6. § (9) bekezdése a 100/2011. (XI. 5.) VM rendelet 10. § f) pontja szerint módosított szöveg.
-[^20]: A 6. § (11) bekezdését a 100/2011. (XI. 5.) VM rendelet 6. §-a iktatta be.
+[^20]: A 6. § (9) bekezdése a 100/2011. (XI. 5.) VM rendelet 10. § f) pontja szerint módosított szöveg.
+[^21]: A 6. § (11) bekezdését a 100/2011. (XI. 5.) VM rendelet 6. §-a iktatta be.
