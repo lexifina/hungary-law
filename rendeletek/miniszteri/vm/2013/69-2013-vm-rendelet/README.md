@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-69-20-2
 | --- | --- | --- |
 | 2013-08-01 | 2013-69-20-2Y.1 | 69/2013. (VII. 29.) VM rendelet |
 | 2014-02-25 | 2013-69-20-2Y.2 | 13/2014. (II. 24.) VM rendelet |
+| 2014-03-15 | 2013-69-20-2Y.3 | 22/2014. (III. 14.) VM rendelet |
