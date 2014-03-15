@@ -6,7 +6,7 @@ ________________
 
 ** Jelenleg kijelölt intézet: Ásványolajtermék Minőségellenőrzési Rt. (1088 Budapest, József krt. 8.), MERTCONTROL Minőségellenőrző Rt. Vegyi Laboratórium (1054 Budapest, Aulich u. 7.), Miskolci Egyetem Kohómérnöki Kar Kémiai Intézet Fizikai Kémiai Tanszék (3515 Miskolc-Egyetemváros).
 
-Melléklet a 71/1995. (XII. 26.) IKM rendelethez[^3]
+Melléklet a 71/1995. (XII. 26.) IKM rendelethez[^5]
 
 A rendelet hatálya alá tartozó termékek jelenleg érvényes szabványai
 
@@ -30,7 +30,7 @@ Pébégáz MSZ 1601
 
 – Pébégáz, motorhajtóanyag MSZ EN 589
 
-b)[^4] Benzinek
+b)[^6] Benzinek
 
 – Repülőbenzin | MSZ 10869
 
@@ -68,8 +68,8 @@ d) Petróleumok
 
 JET A–1; JET–A; JET–B MSZ 10870
 
-e)–f)[^5]
+e)–f)[^7]
 
-[^3]: A Melléklet a 42/1996. ( VII.16.) IKM rendelet 1. §-ával, illetve mellékletével megállapított szöveg.
-[^4]: A melléklet b) pontja a 12/1998. (XI. 23.) GM rendelet 2. §-ával, valamint mellékletével megállapított, és az . 5/2000. (II.16.)GM rendelet 7.§-ával módosított szöveg.
-[^5]: A melléklet e)-f) pontját a 17/2003. (IV. 4.) GKM-KvVM-PM együttes rendelet 11. §-a hatályon kívül helyezte.
+[^5]: A Melléklet a 42/1996. ( VII.16.) IKM rendelet 1. §-ával, illetve mellékletével megállapított szöveg.
+[^6]: A melléklet b) pontja a 12/1998. (XI. 23.) GM rendelet 2. §-ával, valamint mellékletével megállapított, és az . 5/2000. (II.16.)GM rendelet 7.§-ával módosított szöveg.
+[^7]: A melléklet e)-f) pontját a 17/2003. (IV. 4.) GKM-KvVM-PM együttes rendelet 11. §-a hatályon kívül helyezte.

@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1995-71-20-6
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2003-04-12 | 1995-71-20-6A.6 | 71/1995. (XII. 26.) IKM rendelet |
+| 2014-03-15 | 1995-71-20-6A.7 | 12/2014. (III. 14.) NFM rendelet |
