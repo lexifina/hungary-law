@@ -24,10 +24,10 @@
 
 14. § (1) Ez a rendelet a kihirdetését követő nyolcadik napon lép hatályba.
 
-(2)[^35] E rendeletnek az Európai Mezőgazdasági Vidékfejlesztési Alapból az agrár-erdészeti rendszerek mezőgazdasági földterületeken történő első létrehozásához nyújtandó támogatás igénybevételének részletes szabályairól szóló 46/2009. (IV. 16.) FVM rendelet, valamint az Európai Mezőgazdasági Vidékfejlesztési Alapból a mezőgazdasági területek erdősítéséhez nyújtandó támogatás igénybevételének részletes szabályairól szóló 88/2007. (VIII. 17.) FVM rendelet módosításáról szóló 46/2010. (XII. 31.) VM rendelettel (a továbbiakban: 2. módosító rendelet) hatályon kívül helyezett 4. § (5) bekezdésének d) pontját a 2. módosító rendelet hatálybelépésekor[^36] folyamatban lévő ügyekben nem kell alkalmazni.
+(2)[^36] E rendeletnek az Európai Mezőgazdasági Vidékfejlesztési Alapból az agrár-erdészeti rendszerek mezőgazdasági földterületeken történő első létrehozásához nyújtandó támogatás igénybevételének részletes szabályairól szóló 46/2009. (IV. 16.) FVM rendelet, valamint az Európai Mezőgazdasági Vidékfejlesztési Alapból a mezőgazdasági területek erdősítéséhez nyújtandó támogatás igénybevételének részletes szabályairól szóló 88/2007. (VIII. 17.) FVM rendelet módosításáról szóló 46/2010. (XII. 31.) VM rendelettel (a továbbiakban: 2. módosító rendelet) hatályon kívül helyezett 4. § (5) bekezdésének d) pontját a 2. módosító rendelet hatálybelépésekor[^37] folyamatban lévő ügyekben nem kell alkalmazni.
 
-(3)[^37]
+(3)[^38]
 
-[^35]: A 14. § (2) bekezdését a (3) bekezdés hatályon kívül helyezte, újonnan a 46/2010. (XII. 31.) VM rendelet 9. §-a iktatta be.
-[^36]: A hatálybalépés időpontja 2011. január 1.
-[^37]: A 14. § (3) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
+[^36]: A 14. § (2) bekezdését a (3) bekezdés hatályon kívül helyezte, újonnan a 46/2010. (XII. 31.) VM rendelet 9. §-a iktatta be.
+[^37]: A hatálybalépés időpontja 2011. január 1.
+[^38]: A 14. § (3) bekezdése ugyanezen bekezdés alapján hatályát vesztette.

@@ -76,6 +76,6 @@
 
 | 24. | 10. § (2) bekezdése | A telepítésnél felhasznált erdészeti fafajok és a tájjellegű gyümölcsfa fajták származását tanúsító igazolások másolati példányait a kifizetési kérelem benyújtásával egyidejűleg meg kell küldeni az érintett földterület elhelyezkedése szerint illetékes erdészeti hatósághoz. | A származást tanúsító igazolások nem, vagy nem teljes körűen kerültek megküldésre az erdészeti hatóság részére. |  |  | X |
 
-2. számú melléklet a 46/2009. (IV. 16.) FVM rendelethez[^41]
+2. számú melléklet a 46/2009. (IV. 16.) FVM rendelethez[^42]
 
-[^41]: A 2. számú melléklet a 21/2010. (III. 16.) FVM rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^42]: A 2. számú melléklet a 21/2010. (III. 16.) FVM rendelet 12. § (2) bekezdésével megállapított szöveg.
