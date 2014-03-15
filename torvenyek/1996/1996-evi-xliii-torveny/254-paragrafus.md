@@ -1,4 +1,4 @@
-254. § (1) A hivatásos állomány felsőfokú és középfokú végzettségű tagját 10 év elteltével az állományilletékes parancsnok a 82. § (4) bekezdés szerint minősíti, a minősítés alapján kinevezheti a következő beosztási kategória első fizetési fokozatába. Ha az érintett a következő beosztási kategóriához előírt szakirányú végzettséget megszerezte, kinevezésére 10 év letelte előtt is sor kerülhet.
+254. § (1) A hivatásos állomány felsőfokú és középfokú végzettségű tagját az állományilletékes parancsnok 10 év elteltével a 82. § (4) bekezdése szerinti, tárgyévi minősítés alapján kinevezheti a következő beosztási kategória első fizetési fokozatába. Ha az érintett a következő beosztási kategóriához előírt szakirányú végzettséget megszerezte, kinevezésére 10 év letelte előtt is sor kerülhet.
 
 (2) A 104. §-ban meghatározott pótlékokon felül a hivatásos állomány tagját az illetményalap százalékában pótlékok illetik meg. Azon illetménypótlékoknál, ahol a pótlék mértéke alsó és felső határ között állapítható meg, a pótlék tényleges mértékét az érintett munkakörének az általános munkakörülményektől való eltérősége alapján kell meghatározni.
 

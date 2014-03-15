@@ -4,4 +4,4 @@
 
 (3) A szakszervezet nevében vagy érdekében eljáró személy olyan tényt, információt, megoldást vagy adatot, amelyet a fegyveres szerv jogos érdekei, illetve működése, valamint a közszolgálat érdekei védelmében kifejezetten bizalmasan vagy minősített adatként való kezelésre történő utalással hozott tudomására, semmilyen módon nem hozhatja nyilvánosságra és azt az e törvényben meghatározott célok elérésén kívüli tevékenységben semmilyen módon nem használhatja fel.
 
-(4) A szakszervezet nevében vagy érdekében eljáró személy a tevékenysége során tudomására jutott információkat csak a fegyveres szerv jogos érdekeinek, valamint a rendvédelmi érdekeknek a veszélyeztetése, illetve a személyhez fűződő jogok megsértése nélkül hozhatja nyilvánosságra.
+(4) A szakszervezet nevében vagy érdekében eljáró személy a tevékenysége során tudomására jutott információkat csak a fegyveres szerv jogos érdekeinek, valamint a rendvédelmi érdekeknek a veszélyeztetése, illetve a személyiségi jogok megsértése nélkül hozhatja nyilvánosságra.

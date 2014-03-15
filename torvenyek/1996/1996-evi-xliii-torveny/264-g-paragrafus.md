@@ -2,4 +2,4 @@
 
 (2) Az (1) bekezdésben meghatározott szervnél történő szolgálat határozott ideig, de legfeljebb két évig tart, amely időtartam a szenior állomány tagjának beleegyezésével határozatlan időre meghosszabbítható.
 
-(3) Az (1) és (2) bekezdés szerinti vezénylésre a 43. § rendelkezései azzal az eltéréssel alkalmazhatók, hogy a szenior állomány vezényelt tagjának illetményére, munkaidejére, foglalkoztatási feltételeire a 264/C–264/F. § rendelkezéseit kell alkalmazni.
+(3) Az (1) és (2) bekezdés szerinti vezénylésre a 49/B. § rendelkezései azzal az eltéréssel alkalmazhatók, hogy a szenior állomány vezényelt tagjának illetményére, munkaidejére, foglalkoztatási feltételeire a 264/C–264/F. § rendelkezéseit kell alkalmazni.

@@ -1,6 +1,6 @@
 170. § A kártérítés kiszámításánál a kár összegéből le kell vonni:
 
-a) az elmaradt illetményre eső nyugdíjjárulékot, egészségbiztosítási járulékot,
+a) az elmaradt illetményre eső társadalombiztosítási szabályok szerinti járulékot,
 
 b) az állami egészségügyi és a társadalombiztosítás keretében járó ellátás ellenértékét,
 

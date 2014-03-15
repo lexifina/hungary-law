@@ -9,3 +9,5 @@
 (4) A minősítő határozatot írásba kell foglalni, és azt a hivatásos állomány tagja – halála esetén közeli hozzátartozója – részére meg kell küldeni.
 
 (5) A minősítő határozat ellen a kézbesítésétől számított 15 napon belül a miniszterhez fellebbezésnek van helye. A miniszter döntése ellen keresetet lehet a bírósághoz benyújtani.
+
+(6) Az Országgyűlési Őrség hivatásos állományának tagja esetében az (5) bekezdésben foglaltaktól eltérően a minősítő határozat ellen fellebbezésnek nincs helye, a határozat ellen keresetet lehet a bírósághoz benyújtani.

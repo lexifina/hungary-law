@@ -2,7 +2,7 @@
 
 (2) Ha a szolgálati viszonyt jogellenesen szüntették meg, a hivatásos állomány tagját olyan helyzetbe kell hozni, mintha a szolgálati viszony meg sem szűnt volna.
 
-(3) A szolgálati viszony megszüntetéséről hozott határozat hatályon kívül helyezése esetén a hivatásos állomány tagját eredeti beosztásába vissza kell helyezni, és meg kell téríteni az elmaradt illetményét, egyéb járandóságát, valamint a felmerült kárát. Nem kell megtéríteni az illetménynek, az egyéb járandóságnak és a kárnak azt a részét, amelyet a hivatásos állomány tagja munkaereje hasznosításával megkeresett vagy megkereshetett volna.
+(3) A szolgálati viszony megszüntetéséről hozott határozat hatályon kívül helyezése esetén a hivatásos állomány tagját eredeti beosztásába vissza kell helyezni, és meg kell téríteni az elmaradt illetményét, egyéb járandóságát, valamint a felmerült kárát. A hivatásos állomány tagja sérelemdíjat is igényelhet a szolgálati viszony jogellenes megszüntetésével okozott személyiségi jogsértésért. Nem kell megtéríteni az illetménynek, az egyéb járandóságnak és a kárnak azt a részét, amelyet a hivatásos állomány tagja munkaereje hasznosításával megkeresett vagy megkereshetett volna.
 
 (4) Ha a hivatásos állomány tagja a szolgálati viszonyának fenntartását nem kívánta, ezt úgy kell tekinteni, mintha szolgálati viszonya a bírósági határozat jogerőre emelkedésének napjával közös megegyezéssel szűnt volna meg. Ebben az esetben részére végkielégítés jár.
 

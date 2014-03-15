@@ -20,11 +20,11 @@ h) az MRK elnöke, az elnöki megbízatás megszűnéséig;
 
 i) akinek a részére vezetői beosztásba történt kinevezés visszavonásakor, illetve vezetői kinevezésről történő lemondás esetén a 75/B. § (5) és (7) bekezdés szerinti beosztás felajánlására nincs lehetőség;
 
-j) akinek a részére a más szervhez vezénylés megszüntetését követően a 43. § (4) bekezdés, illetve a 248. § (4) bekezdés d) pontja szerinti beosztás nem biztosítható, más beosztásba helyezéséig, de legfeljebb egy évig;
+j) akinek a részére a más szervhez vezénylés megszüntetését követően a 49/C. § (5) bekezdése szerinti beosztás nem biztosítható, más beosztásba helyezéséig, de legfeljebb egy évig;
 
 k) akinek a szolgálati viszonyát a (3a) bekezdés alapján felmentéssel meg kellene szüntetni, de a felmentésére a Hszt. 58. §-ában meghatározott okok miatt nem kerülhet sor, legfeljebb a felmentési védelem megszűnéséig.
 
-(2) Az (1) bekezdés a) pontja alá esők jogaira és kötelezettségeire a 43. § – az NKE-re vezényeltek esetében a 43. § és a 43/C. § – rendelkezései irányadók, a b), e) és f) pontja alá tartozók jogai és kötelezettségei azonosak a szolgálati beosztást betöltők jogaival és kötelezettségeivel, a c)–d) pontja alá tartozók jogait és kötelezettségeit az oktatási intézmény szervezeti és működési szabályzata, illetve a tanulmányi szerződés határozza meg, a g) pont alá tartozók jogait és kötelezettségeit – beleértve a társadalombiztosítási járulék fizetésének rendjét is – külön jogszabály állapítja meg.
+(2) Az (1) bekezdés a) pontja alá esők jogaira és kötelezettségeire a 49/B–49/G. § rendelkezései irányadók, a b), e) és f) pontja alá tartozók jogai és kötelezettségei azonosak a szolgálati beosztást betöltők jogaival és kötelezettségeivel, a c)–d) pontja alá tartozók jogait és kötelezettségeit az oktatási intézmény szervezeti és működési szabályzata, illetve a tanulmányi szerződés határozza meg, a g) pont alá tartozók jogait és kötelezettségeit – beleértve a társadalombiztosítási járulék fizetésének rendjét is – külön jogszabály állapítja meg.
 
 (3) Az (1) bekezdés c)–h) pontja szerinti rendelkezési állomány megszűnésekor a hivatásos állomány tagja részére a fegyveres szerv valamely szervezeti egységénél a rendelkezési állományba helyezést megelőző beosztásával azonos besorolási szintű szolgálati beosztást kell biztosítani, ilyen beosztás hiányában legalább a végzettségének, képzettségének megfelelő beosztást kell felajánlani.
 

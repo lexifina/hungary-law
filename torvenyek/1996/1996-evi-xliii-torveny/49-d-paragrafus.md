@@ -10,6 +10,6 @@ a) esetében a szolgálati viszonyt nem érintő munkáltatói jogköröket, feg
 
 b) foglalkoztatásával kapcsolatos költségek – ha jogszabály vagy az érintett szervek megállapodása eltérően nem rendelkezik – a vezényeltet foglalkoztató más szervet terhelik,
 
-c) tevékenységére, munkarendjére, illetményére és illetményjellegű juttatásaira, teljesítményértékelésére, pihenőidejére, a kártérítésre, a más szervnél rendszeresített címek és egyéb elismerések elnyerésére és viselésére e törvény szabályait kell alkalmazni.
+c) tevékenységére, munkarendjére, illetményére és illetményjellegű juttatásaira, teljesítményértékelésére, pihenőidejére, a kártérítésre, a személyiségi jogi jogsértésre, a más szervnél rendszeresített címek és egyéb elismerések elnyerésére és viselésére e törvény szabályait kell alkalmazni.
 
 (3) Az (1) bekezdésben meghatározott szervekhez hivatásos szolgálati beosztás betöltésére történő vezénylésre a más szervhez vezénylésre vonatozó rendelkezéseket az e §-ban meghatározott eltérésekkel kell alkalmazni.

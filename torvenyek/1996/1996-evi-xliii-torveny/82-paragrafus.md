@@ -8,4 +8,4 @@
 
 (4) A tárgyévet lezáró teljesítményértékelés – az értékelt képességeinek és szolgálatteljesítéssel összefüggő személyes tulajdonságainak értékelését, valamint a beosztás ellátására való alkalmasságára, további fejleszthetőségére és előmenetelre vonatkozó következtetést is tartalmazó – szöveges indokolással kiegészítve adja az értékelt tárgyévre szóló minősítését.
 
-(5) Az értékelő vezető a minősítés alapján kezdeményezheti az értékeltnek a vezetői és utánpótlási adatbankba való felvételét vagy az abból való törlését, továbbá a szolgálati viszony módosítását vagy megszüntetését.
+(5) Az értékelő vezető a minősítés alapján kezdeményezheti az értékeltnek a vezetői és utánpótlási adatbankba való felvételét vagy az abból való törlését, a szolgálati viszony módosítását vagy megszüntetését, továbbá jogszabályban meghatározott egyéb intézkedéseket javasolhat.

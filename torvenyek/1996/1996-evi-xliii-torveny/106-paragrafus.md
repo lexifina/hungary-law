@@ -4,4 +4,8 @@
 
 (3) A jogalap nélkül kifizetett illetmény 60 napon belül írásbeli felszólítással visszakövetelhető a hivatásos állomány tagjától. Az általános elévülési időn belül visszakövetelhető a jogalap nélkül felvett illetmény, ha annak jogtalanságáról a hivatásos állomány tagja tudott, vagy tudnia kellett volna.
 
-(4) A hivatásos állomány tagja az illetményre vonatkozó igényéről előre nem mondhat le, és a levonásmentes illetményrészét nem ruházhatja át.
+(4) Engedményezésnek csak pénzkövetelés esetén van helye. A levonásmentes illetményrész nem engedményezhető és a hivatásos állomány tagja az illetményre vonatkozó igényéről előre nem mondhat le. A levonásmentes illetményrész a bírósági végrehajtásról szóló jogszabály alapján teljesíthető levonások után fennmaradó illetményrész.
+
+(5) Tartozásátvállalásnak csak pénzkövetelés esetén van helye. Munkáltatói tartozást a hivatásos állomány tagja nem vállalhat át.
+
+(6) A fegyveres szerv és a hivatásos állomány tagjának megállapodása alapján pénztartozás után kamat köthető ki. A kamat mértéke nem haladhatja meg a Polgári Törvénykönyv 6:47. §-a szerinti mértéket.

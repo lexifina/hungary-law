@@ -34,3 +34,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-43-00-00
 | 2014-01-01 | 2013. évi CCXLIII. törvény | 1996-43-00-00.80 |
 | 2014-02-25 | 2014. évi XVI. törvény | 1996-43-00-00.81 |
 | 2014-03-01 | 2013. évi CCXLIII. törvény | 1996-43-00-00.82 |
+| 2014-03-15 | 2013. évi CCLII. törvény | 1996-43-00-00.83 |

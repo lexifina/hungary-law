@@ -1,6 +1,6 @@
 ## A szolgálati viszonnyal kapcsolatos igény elévülése
 
-12. § (1) A szolgálati viszonnyal kapcsolatos igény – ha e törvény eltérően nem rendelkezik – 3 év alatt évül el. A bűncselekménnyel okozott kárért fennálló felelősség 5 év alatt, ha pedig a büntethetőség elévülési ideje ennél hosszabb, ennek megfelelő idő alatt évül el.
+12. § (1) A szolgálati viszonnyal kapcsolatos igény – ha e törvény eltérően nem rendelkezik – 3 év alatt évül el. A bűncselekménnyel okozott kárért fennálló felelősség, valamint a bűncselekménnyel okozott személyiségi jogi sérelem miatt fizetendő sérelemdíj iránti igény 5 év alatt, ha pedig a büntethetőség elévülési ideje ennél hosszabb, ennek megfelelő idő alatt évül el.
 
 (2) Az igény elévülése az igény érvényesítésének esedékessé válásától kezdődik. Az igény elévülését hivatalból kell figyelembe venni. Az elévülés utáni teljesítést elévülés címén nem lehet visszakövetelni.
 

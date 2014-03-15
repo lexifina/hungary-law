@@ -170,11 +170,13 @@ VIII. Összeférhetetlenségre vonatkozó adatok:
 
 IX. Illetmény, juttatások, költségtérítések, kedvezmények és támogatások adatai:
 
-X. Fegyelmi, kártérítési adatok:
+X. Fegyelmi, kártérítési és személyiségi jogsértéssel összefüggő adatok:
 
 – a fegyelmi fenyítés neme, hatálya, mentesítés,
 
-– kártérítési kötelezettség mértéke, a teljesítésre vonatkozó adatok.
+– kártérítési kötelezettség mértéke, a teljesítésre vonatkozó adatok,
+
+– a személyiségi jogsértés miatt alkalmazott szankciók, a sérelemdíj mértéke, a teljesítésre vonatkozó adatok.
 
 XI. Társadalombiztosítási adatok:
 

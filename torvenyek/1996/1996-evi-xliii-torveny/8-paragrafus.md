@@ -6,9 +6,19 @@ a) a szolgálati viszonynak a 36. § (1) bekezdésében meghatározott valamelyi
 
 b) mindkét fél a lényeges tény vagy körülmény tekintetében téves feltevésben volt;
 
-c) a nyilatkozat megtételére a felet jogellenes fenyegetéssel vették rá.
+c) a nyilatkozat megtételére a felet a másik fél jogellenes fenyegetéssel vette rá;
 
-(2) A nyilatkozatot az támadhatja meg, akit megtévesztettek, a nyilatkozat megtételére fenyegetéssel vettek rá, illetve az, aki téves feltevésben volt.
+d) a felet a másik fél szándékos magatartásával tévedésbe ejtette vagy tévedésben tartotta és a fél ezen megtévesztő magatartás hatására tette meg nyilatkozatát.
+
+(1a) Lényeges tényre vagy körülményre vonatkozik a tévedés akkor, ha annak ismeretében a fél nem vagy más tartalommal tette volna meg a jognyilatkozatát.
+
+(2) A nyilatkozatot az támadhatja meg, akit megtévesztettek, a nyilatkozat megtételére jogellenes fenyegetéssel vettek rá, illetve az, aki tévedett vagy téves feltevésben volt.
+
+(2a) Nem támadhatja meg a jognyilatkozatát az, aki a tévedését felismerhette vagy a tévedés kockázatát vállalta.
+
+(2b) Az (1) bekezdés c) és d) pontjában foglalt szabályokat kell alkalmazni akkor is, ha a megtévesztés vagy jogellenes fenyegetés harmadik személy részéről történt és erről a másik fél tudott vagy tudnia kellett.
+
+(2c) A fél titkos fenntartása vagy rejtett indoka a megállapodás érvényességét nem érinti.
 
 (3) A megtámadás határideje 30 nap, amely a tévedés vagy megtévesztés felismerésétől, illetve jogellenes fenyegetés esetén a kényszerhelyzet megszűnésétől kezdődik. A megtámadási határidőre az elévülés szabályai irányadók azzal, hogy 6 hónap elteltével a megtámadás joga nem gyakorolható.
 

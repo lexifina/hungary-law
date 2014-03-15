@@ -4,7 +4,7 @@
 
 a) a szolgálati panaszát vagy az elsőfokú határozat elleni panaszát vagy fellebbezését elutasították;
 
-b) a 142. § vagy a 159. § alapján a határozatot az Országgyűlési Őrség parancsnoka hozta;
+b) a 142. §, a 159. § vagy a 180. § alapján a határozatot az Országgyűlési Őrség parancsnoka hozta;
 
 c) a sérelmezett döntést a miniszter hozta;
 

@@ -1,6 +1,12 @@
-157/A. § (1) A hivatásos állomány kárért felelős tagja köteles az eredeti állapotot helyreállítani, ha pedig ez nem lehetséges, vagy a fegyveres szerv azt alapos okból nem kívánja, köteles – a 151. §-ban meghatározott korlátozás figyelembevételével – a fegyveres szerv vagyoni és nem vagyoni kárát megtéríteni.
+157/A. § (1) Kártérítés címén a hivatásos állomány kárért felelős tagja – a 151. §-ban meghatározott korlátozás figyelembevételével – köteles megtéríteni
 
-(2) Kártérítés címén a károkozó körülmény folytán a fegyveres szerv vagyonában beállott értékcsökkenést és az elmaradt vagyoni előnyt, továbbá azt a kárpótlást vagy költséget kell megtéríteni, amely a fegyveres szervet ért vagyoni és nem vagyoni hátrány csökkentéséhez vagy kiküszöböléséhez szükséges.
+a) a fegyveres szerv vagyonában beállott értékcsökkenést,
+
+b) az elmaradt vagyoni előnyt és
+
+c) a fegyveres szervet ért vagyoni hátrányok kiküszöböléséhez szükséges költségeket.
+
+(2)
 
 (3) Ha az (1) bekezdésben meghatározottak szerint a kár megtérítésére kerül sor, a kárt pénzben kell megtéríteni, kivéve, ha a körülmények a kár természetben való megtérítését indokolják.
 
