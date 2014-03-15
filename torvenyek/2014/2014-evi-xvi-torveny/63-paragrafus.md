@@ -1,1 +1,5 @@
-### 63. §
+63. § (1) A letétkezelő tevékenysége végzése során köteles visszautasítani az ÁÉKBV-alapkezelő által adott minden olyan megbízást, amely ellentétes a jogszabályokkal, illetve az ÁÉKBV kezelési szabályzatával, és az ÁÉKBV-alapkezelőt köteles a törvényes állapot helyreállítására felszólítani. Amennyiben az ÁÉKBV-alapkezelő nem tesz meg mindent a jogszabályoknak és az ÁÉKBV kezelési szabályzatának megfelelő állapot helyreállítása érdekében, úgy a letétkezelő haladéktalanul értesíti a Felügyeletet.
+
+(2) A letétkezelő tevékenysége végzése során közreműködőt, így különösen alletétkezelőt vehet igénybe, akinek a magatartásáért mint a sajátjáért felel. Alletétkezelőként kizárólag az e törvény előírásainak megfelelő másik letétkezelő vehető igénybe. A letétkezelő felelősségét nem befolyásolja az, ha a letétkezelés céljából átvett eszközök egy részét vagy egészét harmadik fél alletétkezelésébe adta.
+
+(3) A letétkezelő felel az ÁÉKBV-vel, illetve a befektetőkkel szemben minden olyan kárért, amely a letétkezelő jogellenes magatartása miatt következett be. Az ettől eltérő kikötés semmis.

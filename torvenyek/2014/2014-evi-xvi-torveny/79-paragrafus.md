@@ -1,1 +1,7 @@
-### 79. §
+79. § (1) Pozitív saját tőkével rendelkező befektetési alap esetén a befektetési alap eszközeinek értékesítéséből befolyt ellenértékből a befektetési alap tartozásai és kötelezettségei levonását követően rendelkezésre álló pozitív összegű tőke a befektetőket befektetési jegyeik értékének arányában illeti meg.
+
+(2) A megszűnési eljárás időtartama alatt az eszközök értékesítéséből származó ellenértékből, illetve a befektetési alap bankszámlájának pozitív egyenlege terhére a befektetők számára előleg formájában részkifizetés teljesíthető. A részkifizetéssel kapcsolatos döntésről rendkívüli közleményt kell megjelentetni. A részkifizetésnek az egyes befektetési jegyek nettó eszközértékére vetítve, azonos arányban kell történnie. A részkifizetés nem történhet a befektetési alapot terhelő kötelezettségek (a befektetési alappal szembeni hitelezői igények) fedezetét jelentő eszközök terhére.
+
+(3) A letétkezelő a megszűnési jelentés Felügyelethez történő benyújtását követő 5 munkanapon belül köteles megkezdeni a rendelkezésre álló összeg kifizetését a befektetők részére, a (2) bekezdés szerinti részkifizetés keretében már kifizetett összeg figyelembevételével. A kifizetés kezdetéről rendkívüli közleményt kell közzétenni. A befektetők részére kifizetendő összeget a letétkezelő elkülönített letéti számlán köteles tartani a befektetők részére történő kifizetésig.
+
+(4) Negatív saját tőkével rendelkező befektetési alap megszűnése esetén a hitelezők követeléseit a Cstv. előírásai szerinti kielégítési sorrendben, a rendelkezésre álló összeg erejéig kell kiegyenlíteni.

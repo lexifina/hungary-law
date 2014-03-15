@@ -4,4 +4,4 @@
 
 ## 23. ÁÉKBV-alapkezelőkre vonatkozó szabályok
 
-### 52. §
+52. § Más EGT-államban bejegyzett ÁÉKBV-alapkezelő fióktelep formájában is működhet.

@@ -1,1 +1,1 @@
-### 275. §
+275. § Az államháztartás egyensúlyát javító különadóról és járadékról szóló 2006. évi LIX. törvény 7. § 12. pontjában „a Tpt. szerinti kockázati tőkealap-kezelő;” szövegrész helyébe „a kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény szerinti kockázati tőkealap-kezelő;” szöveg lép.

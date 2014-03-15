@@ -1,1 +1,7 @@
-### 57. §
+57. § (1) Nem kell a Felügyelet engedélye a 6. § (1) és (2) bekezdésében foglalt tevékenységek – ÁÉKBV számára történő – végzéséhez annak a más EGT-államban székhellyel rendelkező ÁÉKBV-alapkezelőnek, amely tevékenységét Magyarországon határon átnyúló szolgáltatásként vagy fióktelepén keresztül végzi és rendelkezik a székhelye szerinti tagállam felügyeleti hatóságának az adott tevékenység végzésére jogosító engedélyével.
+
+(2) Amennyiben Magyarországon fióktelep létesítése útján vagy a szolgáltatásnyújtás szabadságának gyakorlásával tevékenységet folytat a más EGT-államban székhellyel rendelkező ÁÉKBV-alapkezelő, a Felügyelet rendelkezésére bocsátja azokat az adatokat, amelyek az ÁÉKBV-alapkezelő fogadó tagállamának felelősségi körébe tartozó, az alapkezelőre alkalmazandó szabályok teljesítésének ellenőrzéséhez szükségesek. Ezeket az adatokat az ÁÉKBV-alapkezelő benyújtja a székhelye szerinti tagállam felügyeleti hatóságának is. A Felügyelet 2 hónap alatt felkészül a más EGT-államban székhellyel rendelkező ÁÉKBV-alapkezelő felügyeletére.
+
+(3) Nem vonatkozik dotációs tőkekövetelmény a más EGT-államban székhellyel rendelkező ÁÉKBV-alapkezelő magyarországi fióktelepére.
+
+(4) Más EGT-államban székhellyel rendelkező ÁÉKBV-alapkezelő által Magyarországon végzett tevékenységeknek meg kell felelniük a 22–26. §-ban valamint a 40. §-ban és a 42. §-ban, valamint az ÁÉKBV-alapkezelőkre vonatkozó szervezeti, összeférhetetlenségi, üzletviteli és kockázatkezelési követelményekről szóló kormányrendeletben meghatározott működési szabályoknak.

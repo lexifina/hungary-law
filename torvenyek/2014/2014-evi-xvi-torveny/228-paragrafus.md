@@ -1,1 +1,7 @@
-### 228. §
+## „363. § (1) A tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél, illetve a központi értéktár köteles a könyvvizsgálóval – az éves beszámoló könyvvizsgálatára – kötött szerződést és valamennyi, a könyvvizsgáló által az éves beszámolóval kapcsolatban készített jelentést a Felügyelet számára megküldeni.
+
+## (2) A Felügyelet jogosult a könyvvizsgáló a 360. § (3) bekezdés b) pontja szerinti tájékoztatása alapján – az éves beszámoló jóváhagyása előtt – a tőzsdénél, az elszámolóházi tevékenységet végző szervezetnél, a központi szerződő félnél, illetve a központi értéktárnál kezdeményezni, hogy a helytelen adatokat tartalmazó beszámolót helyesbítsék, gondoskodjanak a helyesbített adatok könyvvizsgálóval történő felülvizsgálatáról.
+
+## (3) Ha az éves beszámoló jóváhagyását követően jutott a Felügyelet tudomására, hogy az éves beszámoló lényeges hibát tartalmaz, a Felügyelet kötelezheti a tőzsdét, az elszámolóházi tevékenységet végző szervezetet, a központi szerződő felet, illetve a központi értéktárat az adatok módosítására és könyvvizsgálóval való felülvizsgálatára az Szmt.-ben foglalt, önellenőrzésre vonatkozó szabályok figyelembevételével. A módosított, könyvvizsgáló által felülvizsgált adatokat a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél, illetve a központi értéktár köteles a Felügyeletnek bemutatni.”
+
+228. § A Tpt. 368. § (2) bekezdése helyébe a következő rendelkezés lép:

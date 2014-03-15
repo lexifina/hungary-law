@@ -1,1 +1,5 @@
-### 25. §
+25. § (1) Az ÁÉKBV elnevezése, tájékoztatója, kezelési szabályzata, hirdetménye vagy kereskedelmi kommunikációja tőke megóvására, illetve hozamra vonatkozó garanciára való utalást (tőke-, illetve hozamgarancia) akkor tartalmazhat, ha a fizetési ígéret a kötelezettségvállalás természetére tekintettel megfelelő határidőben érvényesíthető és megfelelő összegű hitelintézet által vállalt garanciával, kezességgel vagy kezesi biztosítással biztosított. A hozamra vonatkozó fizetési ígéret külön utalás nélkül is magában foglalja a tőke megóvására vonatkozó fizetési ígéretet is.
+
+(2) Az ÁÉKBV elnevezése, tájékoztatója, kezelési szabályzata, hirdetménye vagy kereskedelmi kommunikációja tőke megóvására, illetve hozamra vonatkozó ígéretre való utalást (tőke-, illetve hozamvédelem) akkor tartalmazhat, ha a tőke- illetve hozamvédelem a kollektív befektetési formában megvásárolható eszközökre vonatkozó részletes befektetési politikával alátámasztott. A hozamra vonatkozó ígéret külön utalás nélkül is magában foglalja a tőke megóvására vonatkozó ígéretet is.
+
+(3) Az ÁÉKBV-alapkezelőnek az általa kezelt befektetési alapon és ÁÉKBV-n elért teljesítmény, illetve hozam számítása, bemutatása során a Bszt. 3. mellékletében megfogalmazott elvek szerint kell eljárnia.

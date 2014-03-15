@@ -1,1 +1,1 @@
-### 93. §
+93. § A 91. § (1) bekezdése szerinti tájékoztató dokumentum befektetőknek való rendelkezésre bocsátása és az egyesülés hatálybalépése közötti időszakban a tájékoztató dokumentumot és az átvevő ÁÉKBV kiemelt befektetői információinak naprakész változatát minden olyan személy rendelkezésére kell bocsátani, aki megvásárolja vagy jegyzi a beolvadó vagy az átvevő ÁÉKBV kollektív befektetési értékpapírjait, vagy aki elkéri azok bármelyikének kezelési szabályzatát, tájékoztatóját vagy kiemelt befektetői információit.
