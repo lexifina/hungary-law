@@ -38,7 +38,7 @@ b) valutakészlet és devizabetétszámla esetén az értékelési különbözet
 
 (8)[^18] Értékvesztésként kell a mérlegben az eszközök között a követeléseken és az aktív időbeli elhatárolásokon belül – negatív előjellel – kimutatni a három hónapon túli lejáratú követelések, továbbá a követelés jellegű aktív időbeli elhatárolások Tv. szerinti minősítése és értékelése alapján elszámolt értékvesztés összegét.
 
-(9)[^19] A származtatott ügyletek értékelési különbözeteként kell kimutatni a befektetési alap javára a Batv. alapján kötött, le nem zárt (le nem járt) határidős, opciós és swap ügyletek piaci értékét és annak változásait.
+(9)[^19] A származtatott ügyletek értékelési különbözeteként kell kimutatni a befektetési alap javára a Kbftv. alapján kötött, le nem zárt (le nem járt) határidős, opciós és swap ügyletek piaci értékét és annak változásait.
 
 [^11]: Az 5. § (1) bekezdése a 289/2001. (XII. 26.) Korm. rendelet 3. §-ának (1) bekezdésével megállapított szöveg, e módosító rendelet 11. §-a alapján rendelkezéseit először a 2002. évben induló üzleti évről készített beszámolóra kell alkalmazni.
 [^12]: Az 5. § (2) bekezdésének b) pontja a 289/2001. (XII. 26.) Korm. rendelet 3. §-ának (2) bekezdésével megállapított szöveg, e módosító rendelet 11. §-a alapján rendelkezéseit először a 2002. évben induló üzleti évről készített beszámolóra kell alkalmazni.
@@ -48,4 +48,4 @@ b) valutakészlet és devizabetétszámla esetén az értékelési különbözet
 [^16]: Az 5. § (6) bekezdése a 289/2001. (XII. 26.) Korm. rendelet 3. §-ának (3) bekezdésével megállapított szöveg, e módosító rendelet 11. §-a alapján rendelkezéseit először a 2002. évben induló üzleti évről készített beszámolóra kell alkalmazni.
 [^17]: Az 5. § (7) bekezdése a 289/2001. (XII. 26.) Korm. rendelet 3. §-ának (3) bekezdésével megállapított szöveg, e módosító rendelet 11. §-a alapján rendelkezéseit először a 2002. évben induló üzleti évről készített beszámolóra kell alkalmazni.
 [^18]: Az 5. § (8) bekezdése a 331/2008. (XII. 30.) Korm. rendelet 22. §-ával megállapított szöveg. E módosító rendelet 38. § (1)–(2) bekezdése alapján a rendelkezést először a 2009. évben induló üzleti évről készített éves beszámolóra kell alkalmazni, illetve a 2008. évben induló üzleti évről készített éves beszámolóra is alkalmazható. A nyílt végű befektetési alapra vonatkozó kötelezettségre lásd még e módosító rendelet 40. §-át.
-[^19]: Az 5. § (9) bekezdését a 289/2001. (XII. 26.) Korm. rendelet 3. §-ának (4) bekezdése iktatta be, szövege a 344/2011. (XII. 29.) Korm. rendelet 33. § (4) bekezdésével megállapított szöveg.
+[^19]: Az 5. § (9) bekezdését a 289/2001. (XII. 26.) Korm. rendelet 3. §-ának (4) bekezdése iktatta be, szövege a 344/2011. (XII. 29.) Korm. rendelet 33. § (4) bekezdésével megállapított, a 79/2014. (III. 14.) Korm. rendelet 32. § b) pontja szerint módosított szöveg.

@@ -2,7 +2,7 @@
 
 ## és egyéb előírások
 
-7. §[^22] (1)[^23] A befektetési alap eszközeit és a javára kötött származtatott ügyleteket (határidős, opciós és swap ügyleteket) a Batv. előírásai szerinti gyakorisággal és az alapján, valamint a (2)–(8) bekezdésben foglaltak figyelembevételével elkészített – a befektetési alap Tv. szerinti számviteli politikájának részét képező – értékelési szabályoknak megfelelően a letétkezelő (illetve ingatlanok esetében az ingatlanértékelő szervezet) által meghatározott piaci értéken kell értékelni.
+7. §[^22] (1)[^23] A befektetési alap eszközeit és a javára kötött származtatott ügyleteket (határidős, opciós és swap ügyleteket) a Kbftv. előírásai szerinti gyakorisággal és az alapján, valamint a (2)–(8) bekezdésben foglaltak figyelembevételével elkészített – a befektetési alap Tv. szerinti számviteli politikájának részét képező – értékelési szabályoknak megfelelően a letétkezelő (illetve ingatlanok esetében az ingatlanértékelő szervezet) által meghatározott piaci értéken kell értékelni.
 
 (2) Az értékpapírok esetében piaci érték meghatározásánál figyelembe kell venni többek között:
 
@@ -46,7 +46,7 @@ d) egyéb tőzsdén kívüli ügyletek esetében az elismert piacon kialakult, a
 
 (6) A befektetési alapnak – jellegétől függően – a portfoliójában lévő eszközei közül:
 
-a)[^25] a Batv.-ben meghatározott gyakorisággal át kell értékelni az értékelés napján érvényes piaci értékre:
+a)[^25] a Kbftv.-ben meghatározott gyakorisággal át kell értékelni az értékelés napján érvényes piaci értékre:
 
 (– a bérbeadás céljára vásárolt – tárgyi eszközök között kimutatott – ingatlanokat,
 
@@ -95,8 +95,8 @@ b) az adott devizaeszköz, illetve devizakötelezettség értékelési különb�
 (16) A befektetési alap és az alapkezelő közötti elszámolások (kezelési költség felszámítása, kezelési költség pénzügyi rendezése) a befektetési alap és az alapkezelő könyvviteli nyilvántartásaiban – egymástól elkülönítetten – egyidejűleg könyvelendők.
 
 [^22]: A 7. § a 289/2001. (XII. 26.) Korm. rendelet 5. §-ával megállapított szöveg, e módosító rendelet 11. §-a alapján rendelkezéseit először a 2002. évben induló üzleti évről készített beszámolóra kell alkalmazni.
-[^23]: A 7. § (1) bekezdése a 344/2011. (XII. 29.) Korm. rendelet 33. § (5) bekezdésével megállapított szöveg.
+[^23]: A 7. § (1) bekezdése a 344/2011. (XII. 29.) Korm. rendelet 33. § (5) bekezdésével megállapított, a 79/2014. (III. 14.) Korm. rendelet 32. § b) pontja szerint módosított szöveg.
 [^24]: A 7. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 198. §-a szerint módosított szöveg.
-[^25]: A 7. § (6) bekezdés a) pontja a 344/2011. (XII. 29.) Korm. rendelet 33. § (6) bekezdésével megállapított szöveg.
+[^25]: A 7. § (6) bekezdés a) pontja a 344/2011. (XII. 29.) Korm. rendelet 33. § (6) bekezdésével megállapított, nyitó szövegrésze a 79/2014. (III. 14.) Korm. rendelet 32. § c) pontja szerint módosított szöveg.
 [^26]: A 7. § (7) bekezdés harmadik mondatát a 331/2008. (XII. 30.) Korm. rendelet 23. §-a iktatta be. E módosító rendelet 38. § (1)–(2) bekezdése alapján a rendelkezést először a 2009. évben induló üzleti évről készített éves beszámolóra kell alkalmazni, illetve a 2008. évben induló üzleti évről készített éves beszámolóra is alkalmazható.
 [^27]: A 7. § (13) bekezdését a 331/2008. (XII. 30.) Korm. rendelet 38. § (6) bekezdése hatályon kívül helyezte. A nyílt végű befektetési alapra vonatkozó kötelezettségre lásd e módosító rendelet 40. §-át.
