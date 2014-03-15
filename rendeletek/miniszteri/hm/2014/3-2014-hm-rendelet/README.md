@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-3-20-15
 | --- | --- | --- |
 | 2014-03-03 | 2014-3-20-15.1 | 3/2014. (II. 28.) HM rendelet |
 | 2014-03-04 | 2014-3-20-15.2 | 2010: CXXX. törvény |
+| 2014-03-15 | 2014-3-20-15.3 | 2010: CXXX. törvény |
