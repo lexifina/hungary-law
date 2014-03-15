@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-285-20-
 | --- | --- | --- |
 | 2009-10-01 | 2001-285-20-22.2 | 285/2001. (XII. 26.) Korm. rendelet |
 | 2013-06-29 | 2001-285-20-22.3 | 222/2013. (VI. 24.) Korm. rendelet |
+| 2014-03-15 | 2001-285-20-22.4 | 80/2014. (III. 14.) Korm. rendelet |
