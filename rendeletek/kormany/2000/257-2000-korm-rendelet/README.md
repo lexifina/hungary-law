@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-257-20-
 | 2014-02-04 | 2000-257-20-22.18 | 19/2014. (II. 3.) Korm. rendelet |
 | 2014-02-19 | 2000-257-20-22.19 | 517/2013. (XII. 30.) Korm. rendelet |
 | 2014-03-01 | 2000-257-20-22.20 | 34/2014. (II. 18.) Korm. rendelet |
+| 2014-03-15 | 2000-257-20-22.21 | 326/2008. (XII. 29.) Korm. rendelet |

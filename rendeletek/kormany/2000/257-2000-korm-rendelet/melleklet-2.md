@@ -164,6 +164,8 @@ II. Ágazatspecifikus munkakörök család-, gyermek- és ifjúságvédelmi ter�
 
 | elhelyezési ügyintéző |  |  |  |  |  | * | * | * | * | * |
 
+| közvetítő |  |  |  |  |  | * | * | * | * | * |
+
 | 2. | Család-, gyermek- és ifjúságvédelmi szolgáltatás keretében az ellátottak ápolását, foglalkoztatását, fejlesztését, ellátását, gondozását, szociális segítését, szállítását közvetlenül szolgáló, egyetemi, főiskolai végzettséghez nem kötött munkakörök |  |  |  |  |  |  |  |  |  |  |
 
 | a) | asszisztens/szakasszisztens |  |  |  |  |  |  |  |  |  |  |
@@ -509,7 +511,7 @@ Megjegyzés:
 Azon munkakörök esetén, amelyek főiskolai, egyetemi, illetve középfokú végzettséggel egyaránt betölthetők a szakképzettségi szintnek megfelelő közalkalmazotti besorolást kell alkalmazni.
 
 [^75]: A 2. számú melléklet I. pontja a 326/2008. (XII. 29.) Korm. rendelet 8. § (1) bekezdésével megállapított, a 60/2011. (IV. 12.) Korm. rendelet 8. § (1) bekezdése, a 257/2013. (VII. 5.) Korm. rendelet 18. §-a szerint módosított szöveg.
-[^76]: A 2. számú melléklet II. pontja az 517/2013. (XII. 30.) Korm. rendelet 3. § (1) bekezdésével megállapított, a 34/2014. (II. 18.) Korm. rendelet 13. § a) pontja szerint módosított szöveg.
+[^76]: A 2. számú melléklet II. pontja az 517/2013. (XII. 30.) Korm. rendelet 3. § (1) bekezdésével megállapított, a 34/2014. (II. 18.) Korm. rendelet 13. § a) pontja, a 69/2014. (III. 13.) Korm. rendelet 7. §-a szerint módosított szöveg.
 [^77]: A 2. számú melléklet III. pontja a 326/2008. (XII. 29.) Korm. rendelet 8. § (3) bekezdésével megállapított, a 360/2010. (XII. 30.) Korm. rendelet 31. §-a szerint módosított szöveg.
 [^78]: A 2. számú melléklet IV. részét a 60/2011. (IV. 12.) Korm. rendelet 8. § (1) bekezdése iktatta be.
 [^79]: A 2. számú melléklet V. részét a 349/2012. (XII. 12.) Korm. rendelet 29. § (1) bekezdése iktatta be, szövege az 517/2013. (XII. 30.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
