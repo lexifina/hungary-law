@@ -22,9 +22,9 @@ j) halálával;
 
 k) az eskütételi kötelezettség megszegésével;
 
-l) külön törvényben meghatározott vagyonnyilatkozat-tételi kötelezettség megszegésével.
+l) vagyonnyilatkozat-tételi kötelezettségének megszegésével.
 
-(2) Az írnok és a fizikai alkalmazott ügyészségi szolgálati viszonya az (1) bekezdésben említetteken kívül megszűnik, ha a 122. § (2) bekezdésében meghatározott feltételnek nem felel meg.
+(2) Az írnok ügyészségi szolgálati viszonya az (1) bekezdésben említetteken kívül megszűnik, ha a 122. § (2) bekezdésében meghatározott feltételnek nem felel meg. A fizikai alkalmazott ügyészségi szolgálati viszonya az (1) bekezdésben említetteken kívül megszűnik, ha a 122. § (3) bekezdésében meghatározott feltételnek nem felel meg.
 
 (3) A tisztviselő ügyészségi szolgálati viszonya az (1) bekezdésben említetteken túl megszűnik, ha a 122. § (1) bekezdésében meghatározott feltételek valamelyike már nem áll fenn.
 
