@@ -1,6 +1,6 @@
-14. §[^33] (1) Az intézménynek és a szolgáltatónak olyan nyilvántartást kell vezetnie, amelyből a kötelezettségek és a rendeltetésszerű joggyakorlás megállapítható.
+14. §[^34] (1) Az intézménynek és a szolgáltatónak olyan nyilvántartást kell vezetnie, amelyből a kötelezettségek és a rendeltetésszerű joggyakorlás megállapítható.
 
-(2)[^34] Az intézmény minden hónap 10. napjáig a turizmusért felelős miniszternek elektronikus formában megküldi az előző hónap utolsó napján fennálló állapot szerint az előző hónapra, az adott év január 1-je és az előző hónap utolsó napja közötti időszakra, továbbá a kibocsátás megkezdése és az előző hónap utolsó napja közötti időszakra vonatkozóan összesítve az alábbi adatokat:
+(2)[^35] Az intézmény minden hónap 10. napjáig a turizmusért felelős miniszternek elektronikus formában megküldi az előző hónap utolsó napján fennálló állapot szerint az előző hónapra, az adott év január 1-je és az előző hónap utolsó napja közötti időszakra, továbbá a kibocsátás megkezdése és az előző hónap utolsó napja közötti időszakra vonatkozóan összesítve az alábbi adatokat:
 
 a) a kártya elfogadására irányuló megkötött szerződések darabszáma,
 
@@ -24,5 +24,5 @@ j) beváltott utalványok értéke alszámlánkénti bontásban, az elfogadóhel
 
 k) beváltott utalványok értéke alszámlánkénti bontásban, a szolgáltatás nyújtásának helye szerinti településenként és az elfogadóhely tevékenysége (TEÁOR'08 száma) szerint összesítve (ezer forintban).
 
-[^33]: A 14. § a 301/2012. (X. 26.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^34]: A 14. § (2) bekezdése a 198/2013. (VI. 13.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^34]: A 14. § a 301/2012. (X. 26.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^35]: A 14. § (2) bekezdése a 198/2013. (VI. 13.) Korm. rendelet 5. §-ával megállapított szöveg.
