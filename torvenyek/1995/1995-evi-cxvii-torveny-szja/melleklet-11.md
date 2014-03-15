@@ -643,19 +643,3 @@ c) számla szerinti egyéb költség, amennyiben azok a bérleti szerződés ala
 8. A személygépkocsi bérleti vagy lízing díja címén a költségként figyelembe vehető összeg több személygépkocsi esetén sem haladhatja meg a vállalkozói bevétel 1 százalékát, egyébként ilyen címen az egyéni vállalkozó költséget nem számolhat el. Az utóbbi rendelkezés alól kivételt képeznek az 1. pontban említett személygépkocsik, amelyek esetében a bérleti díj, illetőleg a vonatkozó rendelkezés szerint a lízing díja elszámolható. A nem saját tulajdonú személygépkocsi üzemi célú használata esetén elszámolható az üzemi használatra eső
 
 a) 1. pont szerinti üzemanyag-fogyasztás,
-
-b) számla szerinti egyéb költség,
-
-amennyiben az a szerződés alapján az egyéni vállalkozót terheli.
-
-9. A költségelszámolás bármelyik módjának alkalmazásánál szükséges járművenként – az 5. számú melléklet II. 7. pontjában meghatározott – külön útnyilvántartás vezetése, továbbá abban járművenként az üzemi célú futás kezdő és záró kilométeróra állásának a feljegyzése. Költség kizárólag az e pont szerint igazolt üzemi célú futásteljesítmény után számolható el, kivéve azt a futásteljesítményt, amelyre nézve az egyéni vállalkozó magánszemélynek kifizető egyébként kiküldetési rendelvény alapján hivatali, üzleti utazás címén bevételnek nem számító költségtérítést fizetett.
-
-10. Az egyéni vállalkozónak az 1. és 6. pont szerinti költségelszámolási módszerek közötti választása valamennyi általa használt személygépkocsira és a teljes adóévre vonatkozik. Amennyiben a személygépkocsi mellett más járműveinek költségeit is elszámolja, az nem zárja ki, hogy az összes személygépkocsijára egységesen alkalmazza a 6. pont szerinti elszámolási módszert. A 7–8. pont szerinti személygépkocsi-használat utáni költségelszámolás esetén a saját tulajdonú személygépkocsira vonatkozóan sem választható a 6. pont szerinti elszámolás.
-
-11. A 9. pontban foglaltaktól eltérően, az egyéni vállalkozó az útnyilvántartás vezetése helyett havi 500 kilométer utat számolhat el átalányban a személygépkocsi használata címén a költségek 6. pont szerinti figyelembevételével, függetlenül az üzemeltetett személygépkocsik számától. Ezt az elszámolási módszert is csak a teljes adóévre – illetőleg az adóéven belül az egyéni vállalkozói tevékenység teljes időtartamára – lehet alkalmazni.
-
-12. Az egyéni vállalkozó a saját tulajdonú gépjármű tulajdonjogát e törvény bizonylatmegőrzésre vonatkozó szabályainak betartásával, a kötelező gépjármű felelősségbiztosítás befizetését igazoló szelvénnyel igazolja.
-
-13.
-
-IV. A jövedelem megállapításakor költségként figyelembe nem vehető kiadások:

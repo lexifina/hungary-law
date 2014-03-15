@@ -12,6 +12,8 @@ ac) a külföldi állam joga szerint osztaléknak minősülő jövedelem;
 
 ad) a kockázatitőkealap-jegy hozama;
 
+ae) a bizalmi vagyonkezelési szerződés alapján a kezelt vagyon hozamainak terhére a vagyonkezelő által a kedvezményezett vagy a vagyonrendelő magánszemély részére juttatott vagyoni érték;
+
 b) osztalékelőleg az adóévi várható osztalékra tekintettel az adóévben kapott bevétel.
 
 (2)
@@ -24,6 +26,6 @@ b) figyelemmel a 15. § (4) bekezdésének rendelkezésére, valamint az adózá
 
 – a kifizetés időpontjában állapítja meg és az adózás rendjéről szóló törvényben meghatározottak szerint vallja be és fizeti meg. Kifizető hiányában az adót a magánszemély az adóhatósági közreműködés nélkül elkészített bevallásában állapítja meg, és a bevallás benyújtására előírt határidőig fizeti meg. Az osztalékelőleget és annak adóját a kifizetés évéről szóló adóbevallásban tájékoztató adatként kell feltüntetni, a jóváhagyott kifizetett osztalékot, a levont, megfizetett adót az osztalékot megállapító beszámoló elfogadásának évéről szóló adóbevallásban – az osztalékelőlegből levont, megfizetett adót levont adóként figyelembe véve – kell bevallani.
 
-(4)
+(4) Nem alkalmazható az (1) bekezdés a) pont ae) alpontja, ha a bizalmi vagyonkezelési szerződésben megjelölt kedvezményezett magánszemély e jogállását valamely tevékenység, dolog átruházása vagy szolgáltatás nyújtása ellenértékeként, vagy azzal összefüggésben szerezte.
 
-(5)
+(5) Az (1) bekezdés a) pont ae) alpontjának alkalmazása során azt kell feltételezni, hogy a kedvezményezett vagy a vagyonrendelő magánszemély a bizalmi vagyonkezelésben lévő vagyonnak először a hozamait szerzi meg. Ha a kifizető – kifizető hiányában a kedvezményezett magánszemély – nyilvántartása alapján a bizalmi vagyonkezelésbe adott vagyon és annak hozamai nem különíthetőek el, a magánszemély által megszerzett vagyoni érték egészét osztaléknak kell tekinteni.

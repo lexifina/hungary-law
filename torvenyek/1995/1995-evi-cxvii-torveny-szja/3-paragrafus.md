@@ -222,7 +222,7 @@ b) ingatlan átruházása esetében az átruházást megelőző 24 hónapon bel�
 
 33. Társas vállalkozás: a gazdasági társaság, az európai részvénytársaság (ideértve az európai holding részvénytársaságot is), az európai szövetkezet, az egyesülés, a szövetkezet, a lakásszövetkezet, az egyéni cég, az ügyvédi iroda, a végrehajtói iroda, a közjegyzői iroda, a szabadalmi ügyvivői iroda, az erdőbirtokossági társulat, az MRP szervezet.
 
-34. Értékpapír: minden olyan okirat, adat, amelyet a Ptk., vagy a kibocsátás helyének joga értékpapírnak tekint, továbbá a közkereseti társaság részére rendelkezésre bocsátott vagyoni hozzájárulás, a betéti társaság részére rendelkezésre bocsátott vagyoni betét, a kft üzletrész, a szövetkezetekről szóló törvény szerinti részjegy, befektetői részjegy, átalakított befektetői részjegy, célrészjegy és más vagyoni hozzájárulás a szövetkezeti tagsági kölcsön kivételével, valamint más, tagsági jogot megtestesítő vagyoni részesedés.
+34. Értékpapír: minden olyan okirat, elektronikus jelsorozat, amely a kibocsátás helyének joga szerint értékpapírnak minősül, továbbá a közkereseti társaságban és a betéti társaságban fennálló részesedés, a korlátolt felelősségű társaság üzletrésze és a szövetkezeti részesedés.
 
 35. Szociális segély: a szociálisan rászorulónak pénzben vagy nem pénzben ellenszolgáltatás nélkül nyújtott vissza nem térítendő támogatás.
 

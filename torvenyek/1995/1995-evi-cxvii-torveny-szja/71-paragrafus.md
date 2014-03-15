@@ -38,7 +38,7 @@ bb) Erzsébet-utalvány formájában juttatott jövedelemből (az adóéven bel�
 
 c) a szakszervezet által a tagjának, a nyugdíjas tagjának, az említett magánszemélyek közeli hozzátartozójának, az elhunyt tag (nyugdíjas tag) közeli hozzátartozójának üdülőben nyújtott üdülési szolgáltatás révén juttatott jövedelemből az adóévben személyenként a minimálbér összegét meg nem haladó rész;
 
-d) a szövetkezet közösségi alapjából a szövetkezet magánszemély tagja részére a szövetkezetekről szóló törvényben foglaltaknak megfelelően az adóévben nem pénzben juttatott – egyébként adóköteles – jövedelem együttes értékéből személyenként a minimálbér havi összegének 50 százalékát meg nem haladó rész.
+d) a szövetkezet közösségi alapjából a szövetkezet magánszemély tagja részére a szövetkezet alapszabályában foglaltaknak megfelelően az adóévben nem pénzben juttatott – egyébként adóköteles – jövedelem együttes értékéből személyenként a minimálbér havi összegének 50 százalékát meg nem haladó rész.
 
 (3) Béren kívüli juttatásnak minősül a magánszemély javára átutalt munkáltatói/foglalkoztatói havi hozzájárulásból
 

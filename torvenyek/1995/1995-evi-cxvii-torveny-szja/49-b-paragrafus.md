@@ -14,6 +14,8 @@ minősül, amelyet a magánszemély a megszűnés adóévéről szóló adóbeva
 
 (4) Az átalányadózást követően a vállalkozói jövedelem szerinti adózásra áttérő egyéni vállalkozónál az áttérés adóévében a vállalkozói bevétel része az az összeg, amelyet az átalányadózás megkezdésekor a meglévő készletekkel összefüggésben az egyéni vállalkozói tevékenység megszüntetésére vonatkozó szabályok szerint megállapított.
 
+(4a) Vállalkozói bevételnek minősül az egyéni vállalkozó mint vagyonrendelő által létrehozott bizalmi vagyonkezelési szerződés keretében a vagyonkezelő tulajdonába adott készletek szokásos piaci értéke.
+
 (5) Vállalkozói bevételnek minősül – figyelemmel a (19) bekezdés rendelkezésére – az egyéni vállalkozó által foglalkoztatottak adóévet megelőző adóévi átlagos állományi létszámának az adóévben foglalkoztatottak átlagos állományi létszámát meghaladó érték és a megelőző adóév első napján érvényes havi minimálbér évesített összegének szorzataként meghatározott összeg 1,2-szerese, de legfeljebb a korábban érvényesített összes foglalkoztatási kedvezmény összegének 1,2-szerese, azzal, hogy
 
 a) a bevételnek minősülő összeget csökkenti a foglalkoztatottak átlagos állományi létszámának csökkentését megelőző negyedik adóévben vagy azt megelőzően foglalkoztatási kedvezmény címén érvényesített összeg;

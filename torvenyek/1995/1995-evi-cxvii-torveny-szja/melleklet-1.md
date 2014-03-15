@@ -96,7 +96,7 @@ nyújt.
 
 a) amelynek címzettje az alapító, az adományozó, a támogató – kivéve az orvosi javaslat alapján fogyatékosságával, gyógyításával összefüggő termék, szolgáltatás formájában nem pénzben megszerzett bevételt –,
 
-b) amelyet a kifizetővel munkaviszonyban, munkavégzésre irányuló egyéb jogviszonyban vagy más, a Ptk. szerinti olyan szerződéses jogviszonyban álló magánszemély kap, amelynek alapján a kifizetés (juttatás) a magánszemélyt
+b) amelyet a kifizetővel munkaviszonyban, munkavégzésre irányuló egyéb jogviszonyban vagy más, a Polgári Törvénykönyv szerinti olyan szerződéses jogviszonyban álló magánszemély kap, amelynek alapján a kifizetés (juttatás) a magánszemélyt
 
 ba) az általa végzett tevékenység mennyiségi és/vagy minőségi jellemzőire tekintettel,
 
@@ -202,7 +202,11 @@ c) folyósított Klebelsberg Képzési Ösztöndíj, Magyar Sportcsillagok Öszt
 
 4.23. a Magyar Közigazgatási Ösztöndíjprogram keretében folyósított ösztöndíj.
 
-4.24. a szociális szövetkezet (ide nem értve az iskolaszövetkezetet) tagja által a szövetkezetekről szóló 2006. évi X. törvény 56. § (1) bekezdése szerint termék termelésével vagy feldolgozásával teljesített személyes közreműködés ellenértékeként a tagi jogállásra tekintettel élelmiszer, a szövetkezet tevékenységének eredményeként előállított javak vagy fogyasztásra kész étel vásárlására felhasználható utalvány formájában együttesen legfeljebb havonta a minimálbér összegét meg nem haladó értékben megszerzett bevétel azzal, hogy a fogyasztásra kész étel vásárlására felhasználható utalvány formájában juttatott bevétel nem haladhatja meg a minimálbér 25 százalékát. Az élelmiszer juttatás vagy a szövetkezet tevékenységének eredményeként előállított javak értékének megállapításánál a szövetkezet értékesítési tevékenysége során alkalmazott árat, ennek hiányában a szokásos piaci értéket kell figyelembe venni.
+4.24. a) a szociális szövetkezet tagja által a tagi munkavégzés ellenértékeként élelmiszer, a szociális szövetkezet tevékenységének eredményeként előállított javak vagy fogyasztásra kész étel vásárlására felhasználható utalvány formájában együttesen legfeljebb havonta a minimálbér összegét meg nem haladó értékben megszerzett bevétel azzal, hogy a fogyasztásra kész étel vásárlására felhasználható utalvány formájában juttatott bevétel nem haladhatja meg a minimálbér 25 százalékát;
+
+b) a közhasznú jogállású szociális szövetkezet által a közösségi alapból az alapszabályában rögzített közhasznú céljával összhangban a szövetkezeti tag természetes személynek, vagy családtagjának élelmiszer, fogyasztásra kész étel vásárlására felhasználható utalvány formájában legfeljebb havonta a minimálbér összegét meg nem haladó értékben támogatásként vagy segélyként juttatott bevétel,
+
+mindkét esetben azzal, hogy az élelmiszer juttatás vagy a szövetkezet tevékenységének eredményeként előállított javak értékének megállapításánál a szövetkezet értékesítési tevékenysége során alkalmazott árat, ennek hiányában a szokásos piaci értéket kell figyelembe venni;
 
 4.25. a munkáltató által a munkavállalók számára biztosított olyan szolgáltatás (ide értve berendezés, eszköz használatát is), amelynek forrása az Európai Unió intézménye által meghirdetett pályázat alapján az Európai Unió valamely pénzügyi alapja vagy az Európai Unió valamely pénzügyi alapja és az államháztartás valamely alrendszerének költségvetése terhére elnyert támogatás, feltéve, hogy
 
@@ -230,7 +234,7 @@ a) mint károsult, segélyként, támogatásként elemi kár (ideértve a martin
 
 b) tartásdíjként jogszabályban meghatározott kötelezettség alapján, ideértve a jogszabályban meghatározott kötelezettség alapján megállapított tartásdíj helyett fizetett összeget is,
 
-c) kártalanításként (ideértve a kisajátítással összefüggő járulékos költségek megtérítését, valamint a kisajátítás alapjául szolgáló közérdekű célra megvásárolt ingatlan vételárát is), kárpótlásként, kártérítésként, kivéve a jövedelmet pótló kártalanítást, kárpótlást és kártérítést,
+c) kártalanításként (ideértve a kisajátítással összefüggő járulékos költségek megtérítését, valamint a kisajátítás alapjául szolgáló közérdekű célra megvásárolt ingatlan vételárát is), kárpótlásként, kártérítésként, sérelemdíjként, kivéve a jövedelmet pótló kártalanítást, kárpótlást és kártérítést,
 
 d) mint bűncselekmény áldozata, támogatásként az áldozatsegítő szolgálattól,
 
@@ -361,6 +365,8 @@ d) a c) pontban említett opciós jog érvényesítésekor a magánszemély ált
 7.24. a munkába járással összefüggő terhek csökkentését célzó támogatásokról, valamint a munkaerő-toborzás támogatásáról szóló kormányrendelet szerinti lakhatási támogatás.
 
 7.25. a Hajdú-Bét Rt., illetve a NOVOFARM Rt. élőállat-beszállítói által igénybe vehető mezőgazdasági csekély összegű (de minimis) támogatásról szóló vidékfejlesztési miniszteri rendelet, valamint a Pápai Hús 1913 Kft. élőállat-beszállítói által igénybe vehető csekély összegű (de minimis) támogatásról szóló vidékfejlesztési miniszteri rendelet szerinti támogatás azzal, hogy az adómentes juttatás után az adó mértékére vonatkozó rendelkezés (8. §) szerint megállapított, meg nem fizetett személyi jövedelemadó az egyéni vállalkozók, az őstermelők esetében agrár csekély összegű (de minimis) támogatásnak minősül.
+
+7.25. bizalmi vagyonkezelési szerződés alapján a vagyonkezelő által a kezelt vagyon (ide nem értve annak hozamait) terhére a kedvezményezett magánszemély részére juttatott vagyoni érték; nem alkalmazható ez a rendelkezés, ha a kedvezményezett magánszemély e jogállását valamely tevékenység, dolog átruházása vagy szolgáltatás nyújtása ellenértékeként, vagy azzal összefüggésben szerezte, továbbá nem alkalmazható e rendelkezés akkor sem, ha a kifizető – kifizető hiányában a kedvezményezett magánszemély – nyilvántartása alapján a bizalmi vagyonkezelésbe adott vagyon és annak hozamai nem különíthetőek el.
 
 8. A nem pénzben kapott juttatások közül adómentes:
 
