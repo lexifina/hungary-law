@@ -14,7 +14,7 @@ a) az európai részvénytársaság munkavállalója vagy volt munkavállalója 
 
 b) az európai részvénytársaság vagy vezető tisztségviselői számára és javára ellenérték fejében szakértői vagy más megbízási jogviszonyban tevékenységet folytat,
 
-c) a társaság olyan részvényese, aki közvetve vagy közvetlenül a leadható szavazatok legalább harminc százalékát birtokolja, vagy ilyen személynek közeli hozzátartozója [Ptk. 685. § b) pont],
+c) a társaság olyan részvényese, aki közvetve vagy közvetlenül a leadható szavazatok legalább harminc százalékát birtokolja vagy ilyen személynek a Polgári Törvénykönyvben meghatározott közeli hozzátartozója,
 
 d) az európai részvénytársaság eredményes működése esetén igazgatótanácsi tagsága alapján vagyoni juttatásokra jogosult (pl. jegyzési jogot biztosító kötvény, sikerdíj),
 
