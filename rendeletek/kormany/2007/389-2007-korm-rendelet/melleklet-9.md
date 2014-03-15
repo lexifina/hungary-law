@@ -2,7 +2,7 @@
 
 ## A kötelező átvétel alá eső villamos energia Értékesítőjének adatszolgáltatási kötelezettsége
 
-1.[^111]
+1.[^112]
 
 1.1. Értékesítő neve, címe.
 
@@ -44,7 +44,7 @@ Kiadott hő (melegített víz, gőz) (MJ) értékesítési célok szerint
 
 Kiadott hő (MWh)
 
-4.[^112]
+4.[^113]
 
 4.1. A kötelező átvételi rendszerben megújuló energiaforrásból termelt villamosenergia-értékesítés mennyisége (MWh) és árbevétele (forint), napszakonként és összesen.
 
@@ -58,5 +58,5 @@ Kiadott hő (MWh)
 
 4.6. Elért energetikai hatásfok (%).
 
-[^111]: A 9. számú melléklet 1. pontja a 166/2011. (VIII. 24.) Korm. rendelet 1. § (6) bekezdésével megállapított szöveg.
-[^112]: A 9. számú melléklet 4. pontja a 166/2011. (VIII. 24.) Korm. rendelet 1. § (6) bekezdésével megállapított szöveg.
+[^112]: A 9. számú melléklet 1. pontja a 166/2011. (VIII. 24.) Korm. rendelet 1. § (6) bekezdésével megállapított szöveg.
+[^113]: A 9. számú melléklet 4. pontja a 166/2011. (VIII. 24.) Korm. rendelet 1. § (6) bekezdésével megállapított szöveg.
