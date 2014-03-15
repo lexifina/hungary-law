@@ -18,7 +18,7 @@ b) az a) ponttól eltérő támogatott tevékenység esetén a támogatási kér
 
 a) a természetes személy ügyfél lakóhellyel vagy tartózkodási hellyel,
 
-b) a jogi személy, jogi személyiség nélküli gazdasági társaság ügyfél székhellyel, telephellyel vagy fiókteleppel
+b)[^1] a jogi személy ügyfél székhellyel, telephellyel vagy fiókteleppel
 
 rendelkezik.
 
@@ -31,3 +31,5 @@ rendelkezik.
 (9) Nem kell alkalmazni a Vhr. 7. § (1) bekezdés b) pontját, a 7. § (2) bekezdését és a 33. § (4) bekezdését nem kell alkalmazni.
 
 (10) A Vhr. 24. § (1) bekezdésében foglaltaktól eltérően, az ügyfél a támogatási határozat közlésétől számított hat hónapon belül köteles a támogatási határozatban jóváhagyott – és a támogatási határozattal jóváhagyott egyéb elszámolható kiadások összegével csökkentett – támogatási összeg legalább 10%-ával elszámolni.
+
+[^1]: A 2. § (5) bekezdése a 22/2014. (III. 14.) VM rendelet 88. §-a szerint módosított szöveg.
