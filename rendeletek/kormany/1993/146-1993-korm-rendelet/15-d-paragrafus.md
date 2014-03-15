@@ -4,9 +4,9 @@
 
 a) a feleség esetében
 
-aa) a házasságról, a családról és a gyámságról szóló 1952. évi IV. törvény (a továbbiakban: Csjt.) 25. § (1) bekezdés a) és d) pontjában és (3) bekezdésében meghatározott esetben a házassági nevet megelőzően,
+aa)[^74] a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) 4:27. § (1) bekezdés a) és d) pontjában, valamint (3) bekezdésében meghatározott esetben a házassági nevet megelőzően,
 
-ab) a Csjt. 25. § (1) bekezdés b) pont második fordulatában és a Csjt. 25. § (1) bekezdés c) pontjában meghatározott esetben a házassági név születési névből álló tagját megelőzően,
+ab)[^75] a Ptk. 4:27. § (1) bekezdés b) pontjának a feleség nevének a férj nevéhez való hozzákapcsolására vonatkozó rendelkezésében és a Ptk. 4:27. § (1) bekezdés c) pontjában meghatározott esetben a házassági név születési névből álló tagját megelőzően,
 
 ac) ha a férje családi és utónevét viseli házasságra utaló toldással, a házassági nevet követően,
 
@@ -16,10 +16,14 @@ ae) ha az előző házassági nevét viseli tovább változatlan formában, az e
 
 kell a nyilvántartásba bejegyezni;
 
-b) a férj esetében a Csjt. 25. § (2) bekezdés a) és b) pontjában és a Csjt. 25. § (3) bekezdésében meghatározott esetben, továbbá ha az előző házassági nevét viseli tovább változatlan formában, a házassági nevet megelőzően kell a nyilvántartásba bejegyezni.
+b)[^76] a férj esetében a Ptk. 4:27. § (2) bekezdés a) és b) pontjában, valamint (3) bekezdésében meghatározott esetben, továbbá ha az előző házassági nevét viseli tovább változatlan formában, a házassági nevet megelőzően kell a nyilvántartásba bejegyezni.
 
 (3) Ha a doktori cím viselésére a férj jogosult, a férj doktori címét viselni kívánó feleség csak abban az esetben kérheti a doktori cím bejegyzését, ha a férj már kérelmezte annak nyilvántartásba vételét.
 
-(4) A feleség házassági névviselésében a férj doktori címét a Csjt. 25. § (1) bekezdés b) és c) pontjában meghatározott esetben a házassági nevet megelőzően kell a nyilvántartásba bejegyezni.
+(4)[^77] A feleség házassági névviselésében a férj doktori címét a Ptk. 4:27. § (1) bekezdés b) és c) pontjában meghatározott esetben a házassági nevet megelőzően kell a nyilvántartásba bejegyezni.
 
 [^73]: Az R. 15/D. §-át a 417/2012. (XII. 29.) Korm. rendelet 19. §-a iktatta be.
+[^74]: Az R. 15/D. § (2) bekezdés a) pont aa) alpontja az 56/2014. (III. 4.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.
+[^75]: Az R. 15/D. § (2) bekezdés a) pont ab) alpontja az 56/2014. (III. 4.) Korm. rendelet 2. § d) pontja szerint módosított szöveg.
+[^76]: Az R. 15/D. § (2) bekezdés b) pontja az 56/2014. (III. 4.) Korm. rendelet 2. § e) pontja szerint módosított szöveg.
+[^77]: Az R. 15/D. § (4) bekezdése az 56/2014. (III. 4.) Korm. rendelet 2. § f) pontja szerint módosított szöveg.
