@@ -4,7 +4,7 @@
 
 (2) Nem köteles vizsgát tenni:
 
-a) a cselekvőképtelen és a korlátozottan cselekvőképes személy;
+a) a korlátozottan cselekvőképes kiskorú és az a személy, akinek a cselekvőképességét a bíróság az állampolgársági eljárással kapcsolatos ügyek tekintetében korlátozta (a továbbiakban együtt: korlátozottan cselekvőképes személy), valamint a cselekvőképtelen személy;
 
 b) aki magyar tannyelvű nevelési-oktatási vagy felsőoktatási intézményben végzettséget szerzett;
 
