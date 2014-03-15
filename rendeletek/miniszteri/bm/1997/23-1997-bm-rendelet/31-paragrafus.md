@@ -4,7 +4,7 @@
 
 31. § (1) Az egyszerű megítélésű kárügyeknél a kártérítési eljárás lefolytatására, valamint a kártérítés kifizetésére az állományilletékes parancsnok intézkedik.
 
-(2)[^6] A kifizetés feltétele, hogy a kárért a fegyveres szerv felelőssége nyilvánvaló, a károsodás pedig ténybelileg és összegszerűségében hitelt érdemlően bizonyított legyen, továbbá a kár összege a 3 000 000 Ft-ot ne haladja meg.
+(2)[^7] A kifizetés feltétele, hogy a kárért a fegyveres szerv felelőssége nyilvánvaló, a károsodás pedig ténybelileg és összegszerűségében hitelt érdemlően bizonyított legyen, továbbá a kár összege a 3 000 000 Ft-ot ne haladja meg.
 
 (3) Nem tekinthető egyszerű megítélésűnek a kárigény, ha
 
@@ -24,8 +24,9 @@ g) a kártérítés iránti igény járadékra vonatkozik;
 
 h) halálesethez kapcsolódnak a kártérítési igények;
 
-i) nem vagyoni kárral kapcsolatos az igény.
+i)[^8] személyiségi jogi jogsértéssel kapcsolatos igény is érvényesítésre kerül.
 
 (4) Ha az állományilletékes parancsnok a vitás kérdéseket, vagy a kár összegszerűségét a bizonyítás kiegészítésével megalapozottan tisztázni tudja, a kártérítés az (1) bekezdés szerint kifizethető.
 
-[^6]: A 31. § (2) bekezdése a 81/2012. (XII. 28.) BM rendelet 6. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^7]: A 31. § (2) bekezdése a 81/2012. (XII. 28.) BM rendelet 6. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^8]: A 31. § (3) bekezdés i) pontja a 22/2014. (III. 12.) BM rendelet 3. § b) pontja szerint módosított szöveg.
