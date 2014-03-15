@@ -18,7 +18,7 @@
 
 ## d) az okmányt az átvevőnek legalább egy évig meg kell őrizni, és a hivatalos ellenőrző hatóság rendelkezésére kell bocsátani.
 
-## II.[^66] A közlendő információk felsorolása
+## II.[^68] A közlendő információk felsorolása
 
 ## 1. EK-előírásnak megfelelő
 
@@ -50,4 +50,4 @@
 
 6. számú melléklet a 87/2006. (XII. 28.) FVM rendelethez
 
-[^66]: Az 5. számú melléklet II. része a 70/2013. (VII. 31.) VM rendelet 59. § b) pontja szerint módosított szöveg.
+[^68]: Az 5. számú melléklet II. része a 70/2013. (VII. 31.) VM rendelet 59. § b) pontja szerint módosított szöveg.

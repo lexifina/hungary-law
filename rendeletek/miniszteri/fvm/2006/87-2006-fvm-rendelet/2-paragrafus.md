@@ -4,7 +4,7 @@
 
 a) a szőlő (Vitis L.) nemzetség fajai, fajhibridjei, bor-, csemege- és alany fajtái és azok klónjai (a továbbiakban: szőlő) szaporítóanyagára, valamint
 
-b) a szőlő szaporítóanyagot előállító, illetve forgalomba hozó természetes és jogi személyekre, illetve jogi személyiséggel nem rendelkező gazdasági társaságokra
+b)[^1] a szőlő szaporítóanyagot előállító, illetve forgalomba hozó természetes és jogi személyekre, illetve jogi személyiséggel nem rendelkező szervezetekre
 
 ## kell alkalmazni.
 
@@ -29,3 +29,5 @@ g) a szőlő certifikációs rendszerében vizsgálandó károsítókat a 7. sz�
 h) a certifikált szőlő szaporítóanyagok előállításának és forgalomba hozatalának növényegészségügyi ellenőrzésére és igazolására vonatkozó előírásokat a 8. számú melléklet,
 
 i) a szőlő szaporítóanyagok mintavételére és vizsgálatára vonatkozó előírásokat a 9. számú melléklet
+
+[^1]: A 2. § (1) bekezdés b) pontja a 22/2014. (III. 14.) VM rendelet 38. § a) pontja szerint módosított szöveg.

@@ -4,7 +4,7 @@
 
 I. Általános feltételek
 
-1.[^65] A szaporítóanyagnak igazolt származásúnak kell lennie, a NÉBIH és a növény- és talajvédelmi igazgatóság, illetve valamely tagállam illetékes hatósága által szaporítás céljára elfogadott állományból származzon.
+1.[^67] A szaporítóanyagnak igazolt származásúnak kell lennie, a NÉBIH és a növény- és talajvédelmi igazgatóság, illetve valamely tagállam illetékes hatósága által szaporítás céljára elfogadott állományból származzon.
 
 2. A szaporítóanyagnak fajtaazonosnak és fajtatisztának, és szükség esetén klóntisztának kell lennie, standard szaporítóanyag forgalmazásakor 1%-os fajtakeveredés megengedett.
 
@@ -130,4 +130,4 @@ B) Nyugalmi állapotban levő ültetési anyagoknak meg kell felelniük a III. p
 
 Az in vitro szaporítás során előállított szaporítóanyagoknak – a vessző átmérője kivételével – az in vivo (hagyományos) továbbnevelés után meg kell felelniük a III. pont 2–4. alpontban előírt követelményeknek.
 
-[^65]: A 2. számú melléklet I. pont 1. alpontja a 70/2013. (VII. 31.) VM rendelet 59. § b) és g) pontja szerint módosított szöveg.
+[^67]: A 2. számú melléklet I. pont 1. alpontja a 70/2013. (VII. 31.) VM rendelet 59. § b) és g) pontja szerint módosított szöveg.
