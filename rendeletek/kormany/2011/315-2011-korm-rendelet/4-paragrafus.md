@@ -8,7 +8,7 @@ c) az illetékességgel rendelkező és feladatkörükben a kiemelkedő egyeteme
 
 ca) központi államigazgatási szerv területi szerve, valamint
 
-cb)[^5] fővárosi és megyei kormányhivatal, továbbá
+cb)[^6] fővárosi és megyei kormányhivatal, továbbá
 
 d) a világörökségi területen működő világörökségi gondnokság,
 
@@ -28,7 +28,7 @@ a) a kezelési terv készítőjét,
 
 b) a világörökségi testület elnökét,
 
-c)[^6] a Központ elnökét,
+c)[^7] a Központ elnökét,
 
 d) amennyiben táj- és természetvédelmet, ökoturizmust és környezeti nevelést érintően vitás kérdés maradt fenn, a működési területével érintett nemzeti park igazgatóját, valamint
 
@@ -40,5 +40,5 @@ e) az (1) bekezdésben meghatározott személyeket, szervek képviselőjét.
 
 (8) A kezelési terv készítője az egyeztetés eredményének, a miniszter (7) bekezdés szerinti döntésének, továbbá 5. § (6) bekezdése szerinti javaslatának figyelembevételével módosított kezelési tervet az egyeztetés, valamint az egyeztető tárgyalás lezárását követő 15 napon belül megküldi a miniszternek.
 
-[^5]: A 4. § (1) bekezdés c) pont cb) alpontja a 310/2012. (XI. 6.) Korm. rendelet 19. § (4) bekezdés b) pontja szerint módosított szöveg. [A 4. § (1) bekezdés c) pont cb) alpontjában a 394/2012. (XII. 20.) Korm. rendelet 52. § (1) bekezdés b) pontjával elrendelt módosítás, amely alapján az „a fővárosi és megyei kormányhivatal” szövegrész helyébe az „az illetékes járási (fővárosi kerületi) hivatal járási építésügyi és örökségvédelmi hivatala” szöveg a lép, nem vezethető át.]
-[^6]: A 4. § (5) bekezdés c) pontja a 310/2012. (XI. 6.) Korm. rendelet 19. § (4) bekezdés c) pontja szerint módosított szöveg, e módosító rendelet 11. §-a alapján a folyamatban lévő ügyekben is alkalmazni kell.
+[^6]: A 4. § (1) bekezdés c) pont cb) alpontja a 310/2012. (XI. 6.) Korm. rendelet 19. § (4) bekezdés b) pontja szerint módosított szöveg. [A 4. § (1) bekezdés c) pont cb) alpontjában a 394/2012. (XII. 20.) Korm. rendelet 52. § (1) bekezdés b) pontjával elrendelt módosítás, amely alapján az „a fővárosi és megyei kormányhivatal” szövegrész helyébe az „az illetékes járási (fővárosi kerületi) hivatal járási építésügyi és örökségvédelmi hivatala” szöveg a lép, nem vezethető át.]
+[^7]: A 4. § (5) bekezdés c) pontja a 310/2012. (XI. 6.) Korm. rendelet 19. § (4) bekezdés c) pontja szerint módosított szöveg, e módosító rendelet 11. §-a alapján a folyamatban lévő ügyekben is alkalmazni kell.
