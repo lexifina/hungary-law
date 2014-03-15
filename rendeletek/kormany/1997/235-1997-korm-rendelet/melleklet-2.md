@@ -92,29 +92,29 @@
 
 |  | Bíróság döntése: | – helyt ad | – elutasít |
 
-| d) | Apaság (anyaság) vélelmének megdöntése iránti per |
+## d) Apaság (anyaság) vélelmének megdöntése iránti per
 
-|  | Eseti gondnokot kirendelő gyámhivatal neve: |  |
+## Eseti gyámot kirendelő gyámhivatal neve:
 
-|  | Határozat száma: |  |
+## Határozat száma:
 
-|  | Kelte: |  |
+## Határozat kelte:
 
-|  | Jogerős: |  |
+## Jogerős:
 
-|  | Eseti gondnok neve: |  |
+## Eseti gyám neve:
 
-|  | Lakóhelye (ügyvédi iroda címe): |  |
+## Lakóhelye (ügyvédi iroda címe):
 
-|  | Bíróság megnevezése: |  |
+## Bíróság megnevezése:
 
-|  | Ítélet száma: |  |
+## Ítélet száma:
 
-|  | Kelte: |  |
+## Ítélet kelte:
 
-|  | Jogerős: |  |
+## Jogerős:
 
-|  | Bíróság döntése: | – helyt ad | – elutasít |
+## Bíróság döntése: – helyt ad – elutasít
 
 ## II. számú adatlap
 
@@ -262,33 +262,37 @@
 
 |  | Jogerős: |  |
 
-| 3. | A megállapított támogatás: |  |
+## 3. A megállapított támogatás:
 
-|  | Összege: |  |
+## Összege:
 
-|  | Felhasználási cél [a Gyvt. 25. § (5) bek. alapján]: |  |
+## Felhasználási célja [a Gyvt. 25. § (5) bek. alapján]:
 
-|  | – építési telek vásárlása |
+## – építési telek vásárlása
 
-|  | – lakás vásárlása |
+## – lakás vásárlása
 
-|  | – családi ház vásárlása |
+## – családi ház vásárlása
 
-|  | – tanya vásárlása |
+## – tanya vásárlása
 
-|  | – családi ház építése, lakhatóvá tétele |
+## – családi ház építése, lakhatóvá tétele
 
-|  | – a szerzéssel járó felújítás, bővítés |
+## – ingatlan felújítása, lakhatóvá tétele
 
-|  | – bérlakás bérleti díjának kifizetése |
+## – tulajdon- vagy tulajdonrész-szerzéssel járó felújítás, bővítés
 
-|  | – bérlői jogviszony megvásárlása |
+## – ingatlan felújítása, bővítése céljára az otthonteremtési támogatás részletekben történő kifizetése
 
-|  | – államilag támogatott lakásprogramban való részvétel |
+## – bérleti jogviszony létesítéséhez szükséges összeg megfizetése, lakás bérleti díjának kifizetése
 
-|  | – hitelintézeti kölcsön egyösszegű törlesztése |
+## – önkormányzati bérlakás felújítása
 
-|  | – bentlakásos szociális intézményben fizetendő egyszeri hozzájárulás |
+## – államilag támogatott lakásprogramban vagy lakás-előtakarékossági programban való részvétel
+
+## – hitelintézeti kölcsön egyösszegű törlesztése
+
+## – bentlakásos szociális intézményben fizetendő egyszeri hozzájárulás
 
 | 4. | Az utógondozó adatai: |  |
 
@@ -512,41 +516,41 @@
 
 |  | Tartózkodási hely: |  |
 
-| 4. | Határozat: |  |
+## 4. Határozat:
 
-|  | Határozatot hozó szerv neve: |  |
+## Határozatot hozó szerv neve:
 
-|  | Száma: |  |
+## Határozat száma:
 
-|  | Kelte: |  |
+## Határozat kelte:
 
-|  | Jogerős: |  |
+## Jogerős:
 
-|  | Gyermek elhelyezése: |  |
+## Gyermek elhelyezése:
 
-|  | – különélő másik szülőnél |
+## – különélő másik szülőnél
 
-|  | – harmadik személynél |
+## – harmadik személynél
 
-|  | – leendő örökbefogadó szülőnél |
+## – leendő örökbefogadó szülőnél
 
-|  | – nevelőszülőnél |
+## – nevelőszülőnél
 
-|  | – gyermekotthonban |
+## – gyermekotthonban
 
-|  | – Szt. hatálya alá tartozó fogyatékosok és pszichiátriai betegek otthonában |
+## – fogyatékosok vagy pszichiátriai betegek otthonában
 
-|  | Elhelyezés megváltoztatása: |
+## Elhelyezés megváltoztatása:
 
-|  |  | Gyámhivatal neve: |
+## Gyámhivatal neve:
 
-|  |  | Határozat száma: |
+## Határozat száma:
 
-|  |  | Határozat kelte: |
+## Határozat kelte:
 
-|  |  | Jogerős: |
+## Jogerős:
 
-|  |  | Indoka: |
+## Indoka:
 
 | 5. | A szülői felügyeleti jog megszüntetése iránti perindítás adatai: |
 
@@ -580,25 +584,23 @@
 
 |  | Bíróság döntése: | – helyt ad | –elutasít |
 
-| 7. | Felülvizsgálat után a gyámhivatali döntés adatai: |
+## 7. Felülvizsgálat után a gyámhivatali döntés adatai:
 
-|  | Határozat száma: |  |
+## Határozat száma:
 
-|  | Kelte: |  |
+## Határozat kelte:
 
-|  | Eredménye: |  |
+## Eredménye:
 
-|  | – átmeneti nevelésbe vétel, |
+## – nevelésbe vétel fenntartása
 
-|  | – tartós nevelésbe vétel, |
+## – családba fogadás
 
-|  | – családbafogadás, |
+## – örökbefogadás
 
-|  | – örökbefogadás, |
+## – családba visszahelyezés
 
-|  | – családba visszahelyezés |
-
-|  | – gondozási hely megváltoztatása |
+## – gondozási hely megváltoztatása
 
 | 8. | Külföldi állampolgárságú gyermek elhelyezését követően kezdeményezett intézkedés. (Csak a Bp. Főváros V. kerületi Gyámhivatala tölti ki.): |
 
@@ -616,9 +618,7 @@
 
 ## V. számú adatlap
 
-## Az átmeneti vagy tartós nevelésbe vett gyermekről
-
-## [Gyvt. 140. § (1) bek. b) pont]
+## A nevelésbe vett gyermekről [Gyvt. 140. § (1) bek. b) pont]
 
 ## (Gyámhivatal tölti ki.)
 
@@ -636,27 +636,35 @@
 
 |  | Tartózkodási hely: |  |
 
-| 2. | A törvényes képviselő személyi adatai: |
+## 2. A törvényes képviselő személyi adatai:
 
-|  | Név: |  |
+## a) Gyermekvédelmi gyám:
 
-|  | Születési hely, idő: |  |
+## Név:
 
-|  | Anyja neve: |  |
+## Születési hely, idő:
 
-|  | Lakóhely: |  |
+## Anyja neve:
 
-|  | Tartózkodási hely: |  |
+## Értesítési címe:
 
-|  | A törvényes képviselet jellege: |
+## Elérhetősége (telefon, e-mail):
 
-|  | – nevelőszülő |
+## A gyermekvédelmi gyámot foglalkoztató területi gyermekvédelmi szakszolgálat megnevezése:
 
-|  | – vagyonkezelésre is jogosult nevelőszülő |
+## b) Egyes gyámi feladatok ellátására gyámként kirendelt nevelőszülő:
 
-|  | – gyermekotthon vezetője |
+## Név:
 
-|  | – hivatásos gyám |
+## Születési hely, idő:
+
+## Anyja neve:
+
+## Értesítési címe:
+
+## Elérhetősége (telefon, e-mail):
+
+## A nevelőszülőt foglalkoztató nevelőszülői hálózat megnevezése:
 
 | 3. | A szülők személyi adatai: |  |
 
@@ -680,53 +688,65 @@
 
 |  | Tartózkodási hely: |  |
 
-| 4. | Határozat: |  |
+## 4. Határozat:
 
-|  | Határozatot hozó gyámhivatal neve: |  |
+## Határozatot hozó gyámhivatal neve:
 
-|  | Száma: |  |
+## Határozat száma:
 
-|  | Kelte: |  |
+## Határozat kelte:
 
-|  | Jogerős: |  |
+## Jogerős:
 
-|  | Döntés jellege: |  |
+## Döntés jellege:
 
-|  | – átmeneti nevelés |
+## – nevelésbe vétel ideiglenes gondozási hellyel
 
-|  | – tartós nevelés |
+## – nevelésbe vétel gondozási hely meghatározásával
 
-|  | A gyermek gondozási szükséglete |
+## A gyermek ellátási szükséglete:
 
-|  | – normál |
+## – átlagos
 
-|  | – különleges |
+## – különleges
 
-|  | – speciális |
+## – speciális
 
-|  | Gyermek elhelyezése: |  |
+## Gyermek elhelyezése:
 
-|  | – nevelőszülőnél |
+## – nevelőszülőnél:
 
-|  | – normál |
+## – nevelőszülő
 
-|  | – különleges |
+## – különleges nevelőszülő
 
-|  | – gyermekotthonban |
+## – speciális nevelőszülő
 
-|  | – normál |
+## – gyermekotthonban, lakásotthonban:
 
-|  | – különleges |
+## – gyermekotthon
 
-|  | – speciális |
+## – központi speciális gyermekotthon
 
-|  | – fogyatékosok és pszichiátriai betegek otthonában |
+## – központi speciális gyermekotthonnak nem minősülő speciális gyermekotthon
 
-|  | Vagyonnal rendelkezik-e: |
+## – különleges gyermekotthon
 
-|  | – igen |
+## – lakásotthon
 
-|  | – nem |
+## – speciális lakásotthon
+
+## – különleges lakásotthon
+
+## – kizárólag kísérő nélküli kiskorúakat ellátó gyermekotthon
+
+## – fogyatékosok vagy pszichiátriai betegek otthonában
+
+## Vagyonnal rendelkezik-e:
+
+## – igen
+
+## – nem
 
 | 5. | A számadásra vonatkozó adatok: |
 
@@ -758,7 +778,7 @@
 
 |  | Vége: |  |
 
-| 7. | Az éves felülvizsgálatok adatai: |
+| 7. | A felülvizsgálatok adatai: |
 
 |  | Határozat száma: |  |
 
@@ -786,6 +806,150 @@
 
 |  | Jogerős: |  |
 
+## V/A. számú adatlap
+
+## A gyámhatóság által kirendelt támogatókról és támogatott személyeikről [a támogatott döntéshozatalról szóló 2013. évi CLV. törvény 11. §][^20]
+
+## (Gyámhivatal tölti ki)
+
+## A nyilvántartásba vétel időpontja:
+
+## 1. A támogatott személy adatai:
+
+## Név:
+
+## Születési hely, idő:
+
+## Állampolgárság (menekült, bevándorolt, letelepedett):
+
+## Anyja neve:
+
+## Lakóhely:
+
+## Tartózkodási hely:
+
+## 2. A kirendelt támogató adatai:
+
+## Név:
+
+## Születési hely, idő:
+
+## Állampolgárság (menekült, bevándorolt, letelepedett):
+
+## Anyja neve:
+
+## Lakóhely:
+
+## Tartózkodási hely:
+
+## A támogató típusa:
+
+## – támogatott személy által megjelölt támogató
+
+## – hivatásos támogató
+
+## 3. A támogató kirendeléséről szóló határozat:
+
+## Határozatot hozó gyámhivatal megnevezése:
+
+## Határozat száma:
+
+## Határozat kelte:
+
+## Jogerős:
+
+## 4. A támogatott döntéshozatal jellege:
+
+## – általános
+
+## – meghatározott ügycsoportra szóló
+
+## 5. A meghatározott ügycsoport tekintetében támogatott döntéshozatallal kapcsolatos adatok:
+
+## – a támogatott döntéshozatal mely ügycsoportokra terjed ki:
+
+## – a támogatott személy cselekvőképességében részlegesen korlátozott-e:
+
+## igen nem
+
+## – a cselekvőképesség részleges korlátozása milyen ügycsoportok tekintetében áll fenn:
+
+## – ha a támogatott személy egyidejűleg cselekvőképességében részlegesen korlátozott, a támogató és a gondok ugyanazon személy-e:
+
+## igen nem
+
+## 6. Több támogató kirendelése
+
+## – egyidejűleg több támogató került-e kirendelésre:
+
+## igen nem
+
+## – a támogató kirendelésekor a támogatott személynek már van-e kirendelt másik támogatója:
+
+## igen nem
+
+## – két támogató esetén a másik támogató neve:
+
+## – két támogató esetén a másik támogatót kirendelő határozat száma, kelte, jogerőre emelkedésének időpontja:
+
+## – két támogató esetén a támogatók közötti feladatmegosztás:
+
+## 7. A támogató kirendelése felülvizsgálatának adatai:
+
+## A felülvizsgálat megindításának időpontja:
+
+## A felülvizsgálat indoka:
+
+## A felülvizsgálat eredménye:
+
+## – a támogató kirendelésének fenntartása
+
+## – a támogató felmentése és új támogató kirendelése
+
+## – a támogató felmentése és a támogatott döntéshozatal megszüntetése
+
+## – a támogató elmozdítása és új támogató kirendelése
+
+## – a támogató elmozdítása és a támogatott döntéshozatal megszüntetése
+
+## A felülvizsgálatról hozott határozat száma:
+
+## A felülvizsgálatról hozott határozat kelte:
+
+## Jogerős:
+
+## 8. A támogató felmentésével, elmozdításával, felfüggesztésével, továbbá a támogatói tisztség egyéb megszűnésével kapcsolatos adatok:
+
+## A támogató felmentésére irányuló eljárás megindításának időpontja:
+
+## Az eljárás megindításának indoka:
+
+## A felmentésre irányuló eljárás során hozott határozat száma:
+
+## A felmentésre irányuló eljárás során hozott határozat kelte:
+
+## Jogerős:
+
+## A támogató elmozdítására irányuló eljárás megindításának időpontja:
+
+## Az eljárás megindításának indoka:
+
+## Az eljárás során sor került-e a támogató felfüggesztésére:
+
+## igen nem
+
+## Ha igen, a felfüggesztésről hozott döntés száma:
+
+## A felfüggesztésről hozott döntés kelte:
+
+## Az elmozdításra irányuló eljárás során hozott határozat száma:
+
+## Az elmozdításra irányuló eljárás során hozott határozat kelte:
+
+## Jogerős:
+
+## A támogatói tisztség a támogató halálával történő megszűnésének időpontja: ”
+
 ## VI. számú adatlap
 
 ## Gyámság vagy gondnokság alatt állóról
@@ -810,23 +974,7 @@
 
 |  | Tartózkodási hely: |  |
 
-| 2. | A törvényes képviselő (gyám vagy gondnok) személyi adatai |
-
-|  | Hozzátartozói minőség megjelölése: |
-
-|  | Név: |  |
-
-|  | Születési hely, idő: |  |
-
-|  | Állampolgárság (menekült, bevándorolt, letelepedett) |  |
-
-|  | Anyja neve: |  |
-
-|  | Lakóhely: |  |
-
-|  | Tartózkodási hely: |  |
-
-|  | Hivatásos gyám vagy gondnok: |
+| 2. | A törvényes képviselő (gyám vagy gondnok) személyi adatai: Hozzátartozói minőség (családbafogadó gyám, nem hivatásos gondnok) megjelölése: Név: Születési hely, idő: Állampolgárság (menekült, bevándorolt, letelepedett): Anyja neve: Lakóhely: Tartózkodási hely: Gyermekvédelmi gyám vagy hivatásos gondnok: |
 
 | 3. | A gyámság alatt állók esetén a szülők személyi adatai: |
 
@@ -854,37 +1002,37 @@
 
 |  | Hozzátartozói minőség: |  |
 
-| 5. | A gondnokság típusa: |
+## 5. A gondnokság típusa:
 
-|  | – ideiglenes |
+## – ideiglenes
 
-|  | – kizáró |
+## – teljesen korlátozó
 
-|  | – korlátozó |
+## – részlegesen korlátozó
 
-|  | – eseti |
+## – eseti
 
-|  | – vagyonkezelő eseti |
+## – vagyonkezelő eseti
 
-|  | – ügygondnok |
+## – ügygondnok
 
-|  | – zárgondnok |
+## – zárgondnok
 
-|  | – ügyei vitelében akadályozott személy gondnoka |
+## – ügyei vitelében akadályozott személy gondnoka
 
-|  | – helyettes gondnok |
+## – helyettes gondnok
 
-|  | – többes gondnok |
+## – többes gondnok
 
-|  | A bíróság megnevezése: |  |
+## A bíróság megnevezése:
 
-|  | A bírósági ítélet száma: |  |
+## A bírósági ítélet száma:
 
-|  | Kelte: |  |
+## A bírósági ítélet kelte:
 
-|  | Jogerős: |  |
+## Jogerős:
 
-|  | Bírósági felülvizsgálat időpontja: |
+## Bírósági felülvizsgálat időpontja:
 
 | 6. | A többes gondnok, helyettes gondnok személyi adatai: |
 
@@ -910,15 +1058,15 @@
 
 |  | Jogerős: |  |
 
-| 8. | A leltározott vagyon adatai (részletesen a VIII. számú adatlapon): |
+## 8. A leltározott vagyon adatai (részletesen a VII. számú adatlapon):
 
-|  | – ingatlan |
+## – ingatlan
 
-|  | – ingóság |
+## – ingóság
 
-|  | – betétkönyv |
+## – betétkönyv
 
-|  | – egyéb |
+## – egyéb
 
 | 9. | A megszűnés vagy megszüntetés adatai: |
 
@@ -931,6 +1079,18 @@
 |  | Kelte: |  |
 
 |  | Jogerős: |  |
+
+## 10. Támogatott döntéshozatal adatai:
+
+## A részlegesen korlátozó gondnokság alatt álló személy más ügycsoport tekintetében támogatott-e:
+
+## igen nem
+
+## Ha igen, milyen ügycsoport tekintetében:
+
+## Ha a részlegesen korlátozó gondnokság alatt álló személy egyidejűleg támogatott, a gondnok és a támogató ugyanazon személy-e:
+
+## igen nem
 
 ## VII. számú adatlap
 
@@ -1000,31 +1160,37 @@
 
 |  | Változás a törvényes képviselő személyében: |
 
-| 4. | A vagyonkezelő személyi adatai: |
+## 4. A vagyonkezelő személyi adatai:
 
-|  | Név: |  |
+## Név:
 
-|  | Születési hely, idő: |  |
+## Születési hely, idő:
 
-|  | Anyja neve: |  |
+## Anyja neve:
 
-|  | Lakóhely: |  |
+## Lakóhely:
 
-|  | Tartózkodási hely: |  |
+## Tartózkodási hely:
 
-|  | Jogállása: |  |
+## Jogállása:
 
-|  | – gyám |
+## – szülő
 
-|  | – gondnok |
+## – családba fogadó gyám
 
-|  | – szülő |
+## – gyermekvédelmi gyám
 
-|  | – vagyonkezelő eseti gondnok |
+## – vagyonkezelő gyám
 
-|  |  | A vagyon juttatójának különleges nyilatkozata: |
+## – vagyonkezelő eseti gyám
 
-|  |  | Az érintett vagyontárgyak felsorolása: |
+## – gondnok
+
+## – vagyonkezelő eseti gondnok
+
+## A vagyon juttatójának különleges nyilatkozata:
+
+## Az érintett vagyontárgyak felsorolása:
 
 | 5. | Vagyoni adatok: |
 
@@ -1326,9 +1492,7 @@
 
 ## X. számú adatlap
 
-## A gyermekotthonban, nevelőszülőnél vagy fogyatékosok és pszichiátriai betegek otthonában elhelyezett gyermekről
-
-## [Gyvt. 141. § (1) bek. a) pont]
+## A gyermekotthonban, befogadó szülőnél, továbbá a fogyatékosok vagy pszichiátriai betegek otthonában elhelyezett gyermekről [Gyvt. 141. § (1) bek. a) pont]
 
 ## (Területi gyermekvédelmi szakszolgálat vezetője tölti ki.)
 
@@ -1358,41 +1522,51 @@
 
 |  | Anyja neve: |  |
 
-| 3. | Határozat: |  |
+## 3. Határozat:
 
-|  | Határozatot hozó gyámhivatal megnevezése: |  |
+## Határozatot hozó gyámhivatal megnevezése:
 
-|  | Száma: |  |
+## Határozat száma:
 
-|  | Kelte: |  |
+## Határozat kelte:
 
-|  | Jogerős: |  |
+## Jogerős:
 
-|  | Döntés jellege: |  |
+## Döntés jellege:
 
-|  | – ideiglenes hatályú elhelyezés |
+## – ideiglenes hatályú elhelyezés
 
-|  | – átmeneti nevelés |
+## – nevelésbe vétel
 
-|  | – tartós nevelés |
+## Gyermek elhelyezése:
 
-|  | Gyermek elhelyezése: |  |
+## – nevelőszülőnél:
 
-|  | – nevelőszülőknél |
+## – nevelőszülő
 
-|  | – normál |
+## – különleges nevelőszülő
 
-|  | – speciális |
+## – speciális nevelőszülő
 
-|  | – gyermekotthonban |
+## – gyermekotthonban, lakásotthonban:
 
-|  | – normál |
+## – gyermekotthon
 
-|  | – speciális |
+## – központi speciális gyermekotthon
 
-|  | – különleges |
+## – központi speciális gyermekotthonnak nem minősülő speciális gyermekotthon
 
-|  | – fogyatékosok és pszichiátriai betegek otthonában |
+## – különleges gyermekotthon
+
+## – lakásotthon
+
+## – speciális lakásotthon
+
+## – különleges lakásotthon
+
+## – kizárólag kísérő nélküli kiskorúakat ellátó gyermekotthon
+
+## – fogyatékosok vagy pszichiátriai betegek otthonában
 
 | 4. | A megszűnés oka: |  |
 
@@ -1412,27 +1586,53 @@
 
 | A nyilvántartásba vétel időpontja: |  |
 
-| 1. | A gyermekotthon megnevezése: |  |
+## 1. A gyermekotthon, lakásotthon megnevezése:
 
-|  | Székhelye: |  |
+## Székhelye:
 
-|  | Elhelyezhető gyermekek száma: |  |
+## Elhelyezhető gyermekek száma:
 
-|  | Üres férőhelyek száma: |  |
+## Üres férőhelyek száma:
 
-|  | Normál: |  |
+## Ebből:
 
-|  | Különleges: |  |
+## – gyermekotthoni férőhely:
 
-|  | Speciális: |  |
+## – férőhely gyermekotthon speciális csoportjában:
 
-| 2. | A nevelőszülők száma: |  |
+## – központi speciális gyermekotthonnak nem minősülő speciális gyermekotthoni férőhely:
 
-|  | Üres férőhelyek a nevelőszülőknél: |  |
+## – központi speciális gyermekotthoni férőhely:
 
-|  | Normál: |  |
+## – férőhely gyermekotthon különleges csoportjában:
 
-|  | Speciális: |  |
+## – különleges gyermekotthoni férőhely:
+
+## – lakásotthoni férőhely:
+
+## – speciális lakásotthoni férőhely:
+
+## – különleges lakásotthoni férőhely:
+
+## – kizárólag kísérő nélküli kiskorúakat ellátó gyermekotthoni férőhely:
+
+## – utógondozó lakásotthonnak nem minősülő utógondozó otthoni férőhely:
+
+## – utógondozó lakásotthoni férőhely:
+
+## 2. A nevelőszülői férőhelyek száma:
+
+## Üres férőhelyek a nevelőszülőknél:
+
+## Ebből:
+
+## – férőhely átlagos ellátási szükségletű gyermek számára:
+
+## – férőhely speciális ellátási szükségletű gyermek számára:
+
+## – férőhely különleges ellátási szükségletű gyermek számára:
+
+## – ideiglenes férőhely:
 
 | 3. | A fenntartó, illetve a nevelőszülői hálózatot működtető megnevezése: |  |
 
@@ -1464,13 +1664,13 @@
 
 |  | Tartózkodási hely: |  |
 
-| 2. | Nevelőszülő minősége: |
+## 2. A nevelőszülő típusa:
 
-|  | – nevelőszülő |
+## – nevelőszülő
 
-|  | – hivatásos nevelőszülő |
+## – speciális nevelőszülő
 
-|  | – speciális hivatásos nevelőszülő |
+## – különleges nevelőszülő
 
 | 3. | Saját gyermekek száma: |  |
 
@@ -1478,9 +1678,9 @@
 
 |  | Székhelye: |  |
 
-## B) Gyermekotthon
+## B) Gyermekotthon, lakásotthon
 
-| 1. | A gyermekotthon neve: |  |
+| 1. | A gyermekotthon, lakásotthon neve: |  |
 
 |  | Címe: |  |
 
@@ -1490,17 +1690,27 @@
 
 | 3. | A férőhelyek száma: |  |
 
-| 4. | A gyermekotthon jellege: |  |
+## 4. A gyermekotthon, lakásotthon típusa:
 
-|  | – általános |
+## – gyermekotthon
 
-|  | – speciális |
+## – központi speciális gyermekotthonnak nem minősülő speciális gyermekotthon
 
-|  | – különleges |
+## – központi speciális gyermekotthon
 
-|  | – utógondozói |
+## – különleges gyermekotthon
 
-|  | – egyéb |
+## – lakásotthon
+
+## – speciális lakásotthon
+
+## – különleges lakásotthon
+
+## – kizárólag kísérő nélküli kiskorúakat ellátó gyermekotthon
+
+## – utógondozó lakásotthonnak nem minősülő utógondozó otthon
+
+## – utógondozó lakásotthon
 
 | 5. | A fenntartó megnevezése: |  |
 
@@ -1508,897 +1718,31 @@
 
 ## XIII. számú adatlap
 
-## Az örökbefogadással kapcsolatos ügyről
+## XIV. számú adatlap
 
-## [Gyvt. 141. § (1) bek. c) pont]
+## Az eseti gyámi és gyermekvédelmi gyámi feladatokat ellátó személyről [Gyvt. 141. § (1) bek. d) pont]
 
-## (A területi gyermekvédelmi szakszolgálat vezetője tölti ki)
+## (Területi gyermekvédelmi szakszolgálat vezetője tölti ki.)
 
-## A) Szakellátásban nevelkedő örökbe adható gyermek
+## A nyilvántartásba vétel időpontja:
 
-## (Az adatokat – a 15. és 16. pontban foglalt adatok kivételével – az országos örökbefogadási nyilvántartást
-
-## vezető szerv részére kell megküldeni.)
-
-| Kód (megyenév + szám) ................................................................................................. Törzsszám: ................................ |
-
-## 1. A gyermek személyi adatai
+## 1. A gyermekvédelmi gyámi munkakörben foglalkoztatott személyi adatai:
 
 ## Név:
 
-## Születési hely:
-
-## Születési idő:
-
-## Neme:
+## Születési hely, idő:
 
 ## Anyja neve:
-
-## Apja neve:
-
-## Állampolgársága:
 
 ## Lakóhely:
 
 ## Tartózkodási hely:
 
-## 2. Gondozási helye:*
+## 2. Gyermekvédelmi gyámi munkakörében eseti gyámi feladatokat is ellát:
 
-| Nevelőszülő: |
+## igen nem
 
-| Hivatásos nevelőszülő/ Speciális hivatásos nevelőszülő/Különleges hivatásos nevelőszülő: |
-
-| Gyermekotthon/ Speciális gyermekotthon/Különleges gyermekotthon: |
-
-| Lakásotthon/ Speciális lakásotthon/Különleges lakásotthon: |
-
-| Fogyatékosok vagy pszichiátriai betegek otthona: |
-
-## 3. Mióta nevelkedik ezen a gondozási helyen?
-
-## …………év……………hónap………….nap
-
-## Korábbi gondozási helyei (2. pont szerinti kategóriákból választás): …….. év……… hó…….. naptól
-
-## …………. év ………. hó ……….. napig
-
-## Korábbi gondozási helyei (2. pont szerinti kategóriákból választás): …….. év……… hó…….. naptól
-
-## …………. év ………. hó ……….. napig
-
-| 4. Örökbe fogadó családba kihelyezése javasolt-e: | igen | nem |
-
-| Ha nem, annak oka: |
-
-## 5. Várhatóan a szakszolgálat nyilvántartásában szereplő örökbe fogadni szándékozó által valósul-e meg az
-
-| örökbefogadás? | igen | nem |
-
-## 6. Testvérek adatai:
-
-## Név:
-
-## Születési idő:
-
-## Anyja neve:
-
-## Apja neve:
-
-| Gyermekvédelmi gondoskodásban nevelkedik-e: | igen | nem |
-
-| Ha igen, gondozási helye (2. pont szerinti kategóriákból választás): |
-
-| Együtt nevelkedik-e az örökbe fogadható gyermekkel: | igen | nem |
-
-| Ha külön nevelkedik, kapcsolatot tart-e az örökbe fogadható gyermekkel: | igen | nem |
-
-| Örökbe fogadható-e: | igen | nem |
-
-| Testvérével együtt vagy külön történik az örökbefogadás: |  |  |
-
-|  | együtt | külön |
-
-## 7. A gyermek egészségi állapota, fejlődése, személyisége, magatartása, szokásai:
-
-## 8. Tanulmányi eredménye, neveltsége, nemzeti, etnikai, vallási kulturális szükségletei:
-
-## 9. Egyéb igénye vagy szükséglete:
-
-## 10. A családi háttérre vonatkozó adatok:
-
-## Szülők: betegségek, fogyatékosságok, életvezetés
-
-## Testvérek: betegségek, fogyatékosságok
-
-## Kapcsolatai: nagyszülők, testvérek stb.:
-
-## 11. Az ideiglenes hatályú elhelyezést elrendelő hatóság megnevezése:
-
-## A határozat száma:
-
-## Kelte:
-
-## 12. Az átmeneti nevelésbe vételt elrendelő gyámhivatal megnevezése:
-
-## A határozat száma:
-
-## Kelte:
-
-## Jogerős:
-
-## 13. Az örökbe fogadhatóvá válással kapcsolatos adatok:
-
-## Az örökbe fogadhatóvá válás oka(i) és az ok(ok) bekövetkezésének időpontja**:
-
-|  | Anya részéről | Apa részéről |
-
-## 13.1. A szülő(k) titkos örökbefogadáshoz hozzájárulása
-
-## A hozzájárulás időpontja:
-
-## 13.2. A szülők nyílt örökbefogadáshoz hozzájárulása
-
-## A hozzájárulás időpontja:
-
-## 13.3. A szülők felügyeleti jogának bíróság általi megszüntetése
-
-## A bírósági ítélet jogerőre emelkedésének időpontja:
-
-## 13.4. A szülők halála
-
-## A szülő(k) halálának időpontja:
-
-## 13.5. A gyermek ismeretlen szülőktől származik
-
-## A képzelt szülőket megállapító határozat kelte:
-
-## 13.6. Örökbe fogadhatóvá nyilvánítás
-
-## 13.7. Örökbefogadás felbontása
-
-## Az örökbefogadást felbontó gyámhivatali határozat vagy
-
-## bírósági ítélet jogerőre emelkedésének időpontja:
-
-## Az örökbe fogadhatóvá válásról rendelkező hatósági döntés(ek) adatai:
-
-## A gyámhivatal megnevezése:
-
-## Határozat száma:
-
-## Kelte:
-
-## Jogerős:
-
-## Másodfokú határozat száma,
-
-## kelte:
-
-## Amennyiben a határozatot bíróság előtt megtámadták
-
-## A bíróság megnevezése:
-
-## Ítélet száma:
-
-## Kelte:
-
-## Jogerős:
-
-## 14. A gyermek fényképei:
-
-## 15. A törvényes képviselőre vonatkozó adatok:
-
-## Név:
-
-## Beosztás:
-
-## Munkavégzés helye:
-
-## 16. A gyermek vagyonára vonatkozó adatok:
-
-## A vagyon tárgya:
-
-## A vagyonkezelő megnevezése:
-
-## * A gondozási hely típusát kérjük aláhúzni és az ellátást nyújtó személy, szerv nevét megadni. Az országos örökbefogadási nyilvántartást vezető szervnek csak a gondozási hely típusára vonatkozó adatot kell megküldeni.
-
-## ** Az örökbe fogadhatóvá válás okát kérjük aláhúzni, és a bekövetkezés dátumát mind az anya, mind az apa részéről kérjük kitölteni.
-
-## B) A nem szakellátásban nevelkedő örökbe adható gyermek adatai és a vér szerinti szülők adatai titkos örökbefogadás esetén
-
-## (Az országos örökbefogadási nyilvántartást vezető szerv részére küldendő adatok)
-
-| Kód (megyenév + szám) |
-
-## A) A gyermek örökbefogadás előtti személyi adatai és az örökbefogadás előkészítésére vonatkozó adatok
-
-## 1. A gyermek személyi adatai
-
-## Név:
-
-## Születési helye:
-
-## Születési idő:
-
-## Neme:
-
-## Anyja neve:
-
-## Apja neve:
-
-## A gyermek állampolgársága:
-
-## A gyermek lakóhelye (csak a település neve):
-
-## A gyermek tartózkodási helye (csak a település neve):
-
-## 2. Törvényes képviselője (amennyiben nem a szülők voltak a törvényes képviselők):
-
-| A törvényes képviselő hozzátartozója-e a gyermeknek?* | igen | nem |
-
-## Ha nem a szülők a törvényes képviselők, ennek oka:*
-
-## – az anya gondnokság alatt áll
-
-## – az apa gondnokság alatt áll
-
-## – az anya kiskorú
-
-## – az apa kiskorú
-
-## 3. Testvéreinek száma:
-
-## 4. A gyermek egészségi állapota, fejlődése:
-
-## 5. Az örökbefogadás előkészítésére vonatkozó adatok
-
-## Az anya örökbefogadáshoz hozzájárulásának időpontja:
-
-## Az apa örökbefogadáshoz hozzájárulásának időpontja:
-
-## Az örökbeadhatóságról értesítő gyámhivatal megnevezése:
-
-## Az értesítés szakszolgálathoz érkezésének napja:
-
-## A gyermek gondozásra kihelyezésének ideje:
-
-## 6. Az örökbe fogadhatóvá válás oka:*
-
-## a) A szülő(k) hozzájárulása az örökbefogadáshoz
-
-## b) A gyermek ismeretlen szülőktől származik
-
-| 7. A szakszolgálat kapcsolatban állt-e a vér szerinti szülőkkel?* | igen | nem |
-
-## Amennyiben igen:
-
-## 8. Az örökbe adott gyermek vér szerinti szüleinek adatai:
-
-## a) A vér szerinti anyára vonatkozó adatok, információk
-
-## Milyen segítséggel tudta volna nevelni gyermekét?
-
-## Mikor kért először segítséget a szakszolgálattól?
-
-## Kért-e más szerv(ek)től segítséget? igen – nem – nem nyilatkozott**
-
-| Ha igen, mely szerv(ek)től? |
-
-## Születési idő:
-
-## Állampolgársága:
-
-## Lakóhelye (csak a település neve):
-
-## Tartózkodási helye (csak a település neve):
-
-## Iskolai végzettsége: ……………………………. – nem nyilatkozott**
-
-## Foglalkozása:……………………………...……...– nem nyilatkozott**
-
-## Egészségi állapota:
-
-| Titkolt terhesség volt-e? | igen – nem – nem nyilatkozott** |
-
-| Ha igen, annak okai: |
-
-| …………………………………………………… – nem nyilatkozott** |
-
-## Családja előtt titkolta-e terhességét: igen – nem – nem nyilatkozott**
-
-## Tágabb környezete előtt titkolta-e terhességét: igen – nem – nem nyilatkozott**
-
-| Az örökbeadás okai: |
-
-| …………………………………………………… – nem nyilatkozott** |
-
-## Az örökbe adott gyermek hányadik gyermeke:……………………………– nem nyilatkozott*
-
-## Családi helyzete:
-
-## Családi állapota: egyedülálló, házas, élettársi, bejegyzett élettársi kapcsolatban él – nem nyilatkozott**
-
-| Közös háztartásban élő rokonok (rokonsági fok szerint): |
-
-| …………………………………………………… – nem nyilatkozott** |
-
-| Közös háztartásban élő egyéb személyek: |
-
-| …………………………………………………… – nem nyilatkozott** |
-
-## A terhességről, a gyermek megszületéséről tudomásuk volt-e: igen – nem – nem nyilatkozott**
-
-## Ha igen, kinek:……………………...…………….. – nem nyilatkozott**
-
-| Gyermekeinek száma: | örökbe adott: |
-
-|  | más által nevelt: |
-
-|  | általa nevelt: |
-
-|  | nem nyilatkozott** |
-
-## Vagyoni helyzetére vonatkozó adatok:
-
-## Lakhatási lehetősége: saját tulajdonú lakás, tulajdonos rokona, főbérlő, főbérlő rokona,
-
-## albérlő, szívességi lakáshasználó, egyéb – nem nyilatkozott**
-
-| Jövedelmi helyzete: | havi jövedelmének összege:..................Ft, – nem nyilatkozott** |
-
-| Havi rendszeres jövedelme: | van – nincs – nem nyilatkozott** |
-
-| Jövedelme fedezi-e havi kiadásait: | igen – nem – nem nyilatkozott** |
-
-## Jövedelemszerző tevékenységének formája:
-
-|  | Állandó, alkalmi, idénymunka – nem nyilatkozott** |
-
-| Tanul: | igen – nem – nem nyilatkozott** |
-
-## Általa eltartottak száma: …….…… fő – nem nyilatkozott**
-
-## A gyermek születését követően jogosult lenne-e gyermekgondozási díjra:
-
-## igen – nem – nem nyilatkozott**
-
-## b) A vér szerinti apára vonatkozó adatok, információk
-
-## Milyen segítséggel tudta volna nevelni gyermekét?
-
-## Mikor kért először segítséget a szakszolgálattól?
-
-## Kért-e más szerv(ek)től segítséget? igen – nem – nem nyilatkozott**
-
-| Ha igen, mely szerv(ek)től? |
-
-## Születési idő:
-
-## Állampolgársága:
-
-## Lakóhelye (csak a település neve):
-
-## Tartózkodási helye (csak a település neve):
-
-## Iskolai végzettsége ……………………………. – nem nyilatkozott**
-
-## Foglalkozása:…………………………………... – nem nyilatkozott**
-
-## Egészségi állapota:
-
-## Családi helyzete:
-
-## Családi állapota: egyedülálló, házas, élettársi, bejegyzett élettársi kapcsolatban él – nem nyilatkozott**
-
-## A gyermek anyjával együtt él-e: igen – nem – nem nyilatkozott**
-
-## Közös háztartásban élő rokonok (rokonsági fok szerint):
-
-## ……………………………………… – nem nyilatkozott**
-
-## Közös háztartásban élő egyéb személyek:
-
-## …………………………………………………… – nem nyilatkozott**
-
-## A terhességről, a gyermek megszületéséről tudomásuk volt-e: igen – nem – nem nyilatkozott**
-
-## Ha igen, kinek:………………...………………….. – nem nyilatkozott**
-
-| Gyermekeinek száma: | örökbe adott: |
-
-|  | más által nevelt: |
-
-|  | általa nevelt: |
-
-|  | nem nyilatkozott** |
-
-## Vagyoni helyzetére vonatkozó adatok:
-
-## Lakhatási lehetősége: saját tulajdonú lakás, tulajdonos rokona, főbérlő, főbérlő rokona,
-
-## albérlő, szívességi lakáshasználó, egyéb – nem nyilatkozott**
-
-## Jövedelmi helyzete: havi jövedelmének összege:..................Ft, – nem nyilatkozott**
-
-| Havi rendszeres jövedelme: | van – nincs – nem nyilatkozott** |
-
-| Jövedelme fedezi-e havi kiadásait: | igen – nem – nem nyilatkozott** |
-
-## Jövedelemszerző tevékenységének formája:
-
-|  | Állandó, alkalmi, idénymunka – nem nyilatkozott** |
-
-## Tanul: igen – nem – nem nyilatkozott**
-
-## Általa eltartottak száma:…………fő – nem nyilatkozott**
-
-## A gyermek születését követően jogosult lenne-e gyermekgondozási díjra:
-
-## igen – nem – nem nyilatkozott**
-
-## * A megfelelő választ kérjük aláhúzni.
-
-## ** A válasz önkéntes nyilatkozat alapján tölthető ki, a megfelelő részt kérjük aláhúzni, illetve kitölteni.
-
-## C) Az örökbe adott gyermek örökbefogadás előtti adatai és a vér szerinti szülők adatai nyílt örökbefogadás esetén
-
-## (Az országos örökbefogadási nyilvántartást vezető szerv részére küldendő adatok)
-
-| Kód (megyenév + szám): |
-
-## 1. A gyermek örökbefogadás előtti személyi adatai és az örökbefogadás előkészítésére vonatkozó adatok
-
-## Név:
-
-## Születési helye:
-
-## Születési idő:
-
-## Neme:
-
-## Anyja neve*:
-
-## Apja neve*:
-
-## Törvényes képviselője (amennyiben az örökbefogadás előtt nem a szülők a törvényes képviselők):
-
-## A törvényes képviselő hozzátartozója-e a gyermeknek? igen nem
-
-## A gyermek állampolgársága:
-
-## A gyermek lakóhelye (csak a település neve):
-
-## A gyermek tartózkodási helye (csak a település neve):
-
-| A gyermek örökbefogadó családba helyezése előtti tényleges tartózkodási helye: (kórház megnevezése, családok átmeneti otthonának megnevezése, szülő háztartása, családbafogadó gyám háztartása, egyéb): |
-
-## Testvéreinek száma:
-
-## A gyermek egészségi állapota, fejlődése:
-
-## A vér szerinti szülők gyermekük nyílt örökbefogadásához a gyámhivatal előtt tett hozzájárulásának időpontja:
-
-## A gyermek törvényes képviselője (amennyiben az örökbefogadás előtt nem a szülők a törvényes képviselők) hozzájárulásának időpontja:
-
-## A gyermek kötelező gondozási időre történő kihelyezésének időpontja:
-
-| Örökbefogadást elősegítő magánszervezet közvetítette-e az örökbefogadást? | igen | nem |
-
-| Területi gyermekvédelmi szakszolgálat közvetítette-e az örökbefogadást? | igen | nem |
-
-## Ha területi gyermekvédelmi szakszolgálat közvetítette az örökbefogadást, kérjük, válaszolja meg a 2. pontban szereplő kérdéseket!
-
-## 2. Az örökbe adott gyermek vér szerinti szüleinek adatai
-
-## a) A vér szerinti anyára vonatkozó adatok, információk:
-
-## Milyen segítséggel tudta volna nevelni gyermekét?
-
-## Mikor kért először segítséget a szakszolgálattól?
-
-## Kért-e más szerv(ek)től segítséget? igen – nem – nem nyilatkozott**
-
-| Ha igen, mely szerv(ek)től? |
-
-## Anya neve*
-
-## Születési ideje:
-
-## Állampolgársága:
-
-## Lakóhelye (csak a település neve):
-
-## Tartózkodási helye (csak a település neve):
-
-## Iskolai végzettsége ……………………………. – nem nyilatkozott**
-
-## Foglalkozása:………………………………..…...– nem nyilatkozott**
-
-## Egészségi állapota:
-
-| Gondnokság alatt áll: | igen – nem** |
-
-| Titkolt terhesség volt-e? | igen – nem – nem nyilatkozott** |
-
-## Ha igen, annak okai:
-
-## ………………………………………………… – nem nyilatkozott**
-
-## Családja előtt titkolta-e terhességét: igen – nem – nem nyilatkozott**
-
-## Tágabb környezete előtt titkolta-e terhességét: igen – nem – nem nyilatkozott**
-
-## Az örökbeadás okai:
-
-## ………………………………………………… – nem nyilatkozott**
-
-## Az örökbe adott gyermek hányadik gyermeke:……………………………– nem nyilatkozott**
-
-## Családi helyzete:
-
-## Családi állapota: egyedülálló, házas, élettársi, bejegyzett élettársi kapcsolatban él – nem nyilatkozott**
-
-## Közös háztartásban élő rokonok (rokonsági fok szerint):
-
-## ………………………………………………… – nem nyilatkozott**
-
-## Közös háztartásban élő egyéb személyek:
-
-## ………………………………………………… – nem nyilatkozott**
-
-## A terhességről, a gyermek megszületéséről tudomásuk volt-e: igen – nem – nem nyilatkozott**
-
-## Ha igen, kinek:…………………………………………….. – nem nyilatkozott**
-
-| Gyermekeinek száma: | örökbeadott: |
-
-|  | más által nevelt: |
-
-|  | általa nevelt: |
-
-|  | nem nyilatkozott** |
-
-## Vagyoni helyzetére vonatkozó adatok:
-
-## Lakhatási lehetősége: saját tulajdonú lakás, tulajdonos rokona, főbérlő, főbérlő rokona,
-
-## albérlő, szívességi lakáshasználó, egyéb – nem nyilatkozott**
-
-| Jövedelmi helyzete: | havi jövedelmének összege:..................Ft, – nem nyilatkozott** |
-
-| Havi rendszeres jövedelme: | van – nincs – nem nyilatkozott** |
-
-## Jövedelme fedezi-e havi kiadásait: igen – nem – nem nyilatkozott**
-
-## Jövedelemszerző tevékenységének formája:
-
-## Állandó, alkalmi, idénymunka – nem nyilatkozott**
-
-| Tanul: | igen – nem – nem nyilatkozott** |
-
-## Általa eltartottak száma:…………fő – nem nyilatkozott**
-
-## A gyermek születését követően jogosult lenne-e gyermekgondozási díjra:
-
-## igen – nem – nem nyilatkozott**
-
-## b) A vér szerinti apára vonatkozó adatok, információk
-
-## Mikor kért először segítséget a szakszolgálattól:
-
-## Kért-e más szerv(ek)től segítséget? igen – nem – nem nyilatkozott**
-
-| Ha igen, mely szerv(ek)től? |
-
-## Milyen segítséggel tudta volna nevelni gyermekét?
-
-## Apa neve*:
-
-## Születési ideje:
-
-## Állampolgársága:
-
-## Lakóhelye (csak a település neve):
-
-## Tartózkodási helye (csak a település neve):
-
-## Iskolai végzettsége: ……………………………. – nem nyilatkozott**
-
-## Foglalkozása:………………...…………………...– nem nyilatkozott**
-
-## Egészségi állapota:
-
-| Gondnokság alatt áll: | igen – nem** |
-
-## Családi helyzete:
-
-## Családi állapota: egyedülálló, házas, élettársi, bejegyzett élettársi kapcsolatban él – nem nyilatkozott**
-
-## A gyermek anyjával együtt él-e: igen – nem – nem nyilatkozott**
-
-## Közös háztartásban élő rokonok (rokonsági fok szerint):
-
-## ………………………………………… – nem nyilatkozott**
-
-## Közös háztartásban élő egyéb személyek:
-
-## ………………………………………… – nem nyilatkozott**
-
-## A terhességről, a gyermek megszületéséről tudomásuk volt-e: igen – nem – nem nyilatkozott**
-
-## Ha igen, kinek:…………………………………………….. – nem nyilatkozott**
-
-| Gyermekeinek száma: | örökbe adott: |
-
-|  | más által nevelt: |
-
-|  | általa nevelt: |
-
-|  | nem nyilatkozott** |
-
-## Vagyoni helyzetére vonatkozó adatok:
-
-## Lakhatási lehetősége: saját tulajdonú lakás, tulajdonos rokona, főbérlő, főbérlő rokona,
-
-## albérlő, szívességi lakáshasználó, egyéb – nem nyilatkozott**
-
-## Jövedelmi helyzete: havi jövedelmének összege:..................Ft, – nem nyilatkozott**
-
-## Havi rendszeres jövedelme: van – nincs – nem nyilatkozott**
-
-## Jövedelme fedezi-e havi kiadásait: igen – nem – nem nyilatkozott**
-
-## Jövedelemszerző tevékenységének formája:
-
-## Állandó, alkalmi, idénymunka – nem nyilatkozott**
-
-| Tanul: | igen – nem – nem nyilatkozott** |
-
-## Általa eltartottak száma:…………fő – nem nyilatkozott**
-
-## A gyermek születését követően jogosult lenne-e gyermekgondozási díjra:
-
-## igen – nem – nem nyilatkozott**
-
-## * Az országos örökbefogadási nyilvántartás számára a szülők neve helyett a szakszolgálat által képzett és általa azonosítható kódszám küldendő meg.
-
-## ** A válasz önkéntes nyilatkozat alapján tölthető ki, a megfelelő részt kérjük aláhúzni, illetve kitölteni.
-
-## D) Örökbe fogadni szándékozó személyek
-
-## (Az országos örökbefogadási nyilvántartást vezető szerv részére küldendő adatok)
-
-## Megyenév/Kód:
-
-## A nyilvántartásba vétel ideje [15/1998. (IV. 30.) NM rendelet 146. § (2) bek.]: ........... év ......... hó ........ nap
-
-| 1. | Az örökbe fogadni szándékozó személyek személyi adatai: |
-
-|  | Anya neve: |  |  |  |
-
-|  | Születési hely: |  |  |  |
-
-|  | Születési idő: |  |  |  |
-
-|  | Anyja neve: |  |  |  |
-
-|  | Állampolgársága: |  |  |  |
-
-|  | Lakóhely: |  |  |  |
-
-|  | Elérhetőség (telefonszám, e-mail cím): |  |  |  |
-
-|  | Családi állapota*: | – egyedülálló |  | – házas, |
-
-|  |  |  |  | – élettársi kapcsolatban élő, |
-
-|  |  |  |  | – bejegyzett élettársi kapcsolatban élő |
-
-|  |  |  |  | – házasságban élő önállóan – a másik házastárs hozzájárulásával – örökbefogadó |
-
-|  | Iskolai végzettsége: |  |  |  |
-
-|  | Foglalkozása: |  |  |  |
-
-|  | Apa neve: |  |  |  |
-
-|  | Születési hely: |  |  |  |
-
-|  | Születési idő: |  |  |  |
-
-|  | Anyja neve: |  |  |  |
-
-|  | Állampolgársága: |  |  |  |
-
-|  | Lakóhely: |  |  |  |
-
-|  | Tartózkodási hely: |  |  |  |
-
-|  | Elérhetőség (telefonszám, e-mail cím): |  |  |  |
-
-|  | Családi állapota*: | – egyedülálló |  | – házas, |
-
-|  |  |  |  | – élettársi kapcsolatban élő, |
-
-|  |  |  |  | – bejegyzett élettársi kapcsolatban élő |
-
-|  |  |  |  | – házasságban élő önállóan – a másik házastárs hozzájárulásával – örökbefogadó |
-
-|  | Iskolai végzettsége: |  |  |  |
-
-|  | Foglalkozása: |  |  |  |
-
-| 2. | Az alkalmasságot megállapító: |  |  |  |
-
-|  | Gyámhivatal megnevezése: |  |  |  |
-
-|  | Határozat száma: |  |  |  |
-
-|  | Kelte: |  |  |  |
-
-|  | Jogerős: |  |  |  |
-
-| 3. | Vagyoni helyzet adatai: |  |  |  |
-
-|  | Lakáshasználat jogcíme*: |  |  |  |
-
-|  | – Tulajdonos |  |  |  |
-
-|  | – Tulajdonos rokona |  |  |  |
-
-|  | – Főbérlő |  |  |  |
-
-|  | – Főbérlő rokona |  |  |  |
-
-|  | – Társbérlő |  |  |  |
-
-|  | – Albérlő |  |  |  |
-
-|  | – Egyéb: |  |  |  |
-
-|  | Lakás szobaszáma: |  |  |  |
-
-|  | Lakás komfortfokozata*: |  |  |  |
-
-|  | – Komfort nélküli |  |  |  |
-
-|  | – Félkomfortos |  |  |  |
-
-|  | – Komfortos |  |  |  |
-
-|  | – Összkomfortos |  |  |  |
-
-|  | A lakásban együtt élők száma: |  |  |  |
-
-|  | Anya: |  |  |  |
-
-|  | Jövedelem összege: |  |  |  |
-
-|  | A jövedelem forrása**: |  |  |  |
-
-|  | – Munkaviszonyból: |  |  |  |
-
-|  | – Vállalkozásból: |  |  |  |
-
-|  | – Egyéb rendszeres pénzellátásból: |  |  |  |
-
-|  | – Egyéb: |  |  |  |
-
-|  | Apa: |  |  |  |
-
-|  | Jövedelem összege: |  |  |  |
-
-|  | A jövedelem forrása**: |  |  |  |
-
-|  | – Munkaviszonyból: |  |  |  |
-
-|  | – Vállalkozásból: |  |  |  |
-
-|  | – Egyéb rendszeres pénzellátásból: |  |  |  |
-
-|  | – Egyéb: |  |  |  |
-
-| 4. | Egészségi állapotra | Anya: ..................................................................................................... |
-
-|  | vonatkozó adat: | Apa: ....................................................................................................... |
-
-| 5. | Örökbe fogadni szándékozó személyek fényképe(i) (önkéntes adatszolgáltatás alapján): |  |  |  |
-
-| 6. | A gyermekkel kapcsolatos elvárásai(k): |  |  |  |
-
-|  | Gyermekek száma**: | – 1 gyermek |  | – testvérek is, számuk: |
-
-|  | Neme**: | – fiú |  | – leány |
-
-|  | Életkora: | .... év ...... hónaptól .... év ........ hónapig |
-
-|  | Testvér életkora: | .... év ...... hónaptól .... év ........ hónapig |
-
-|  | Testvér életkora: | .... év ...... hónaptól .... év ........ hónapig |
-
-|  | Egészségi állapota: | ............................................................................................................... |
-
-|  | Milyen betegségeket, | ............................................................................................................... |
-
-|  | fogyatékosságokat fogad el: | ............................................................................................................... |
-
-|  | Mi az, ami egészségi szempontból kizáró tényező: | ............................................................................................................... |
-
-|  | Milyen egyéb elvárásai vannak a gyermekkel kapcsolatban: | ............................................................................................................... |
-
-|  | Mi az, ami egyéb kizáró tényező lehet: | ............................................................................................................... |
-
-| 7. | A gyámhivatal döntése alapján milyen gyermek örökbefogadására | 1 gyermek egészséges |  | Testvérek is, számuk: Milyen fokban fogyatékos, beteg gyermek is |
-
-|  | alkalmas | fiú |  | leány |
-
-|  |  | Életkora: ...... év ..... hónaptól .... év ....... hónapig |
-
-|  |  | Testvér életkora: ...... év ..... hónaptól .... év ....... hónapig |
-
-| 8. | Az örökbe fogadni szándékozó családjában nevelkedő | Neme: | Születési ideje | Saját/nevelt/örökbe- fogadott |
-
-|  | gyermekek: | ............................................................................................................... |
-
-|  |  | ............................................................................................................... |
-
-|  |  | ............................................................................................................... |
-
-| 9. | Örökbefogadás módja**: | – titkos |  | – nyílt |
-
-| 10. | Az örökbe fogadni szándékozó helyzete az örökbefogadás szempontjából:* |  |  |  |
-
-|  | – Örökbefogadásra várakozik |  |  |  |
-
-|  | – Nem fogadókész – ennek oka: |  |  |  |
-
-|  | – Felülvizsgálat alatt – ennek oka: |  |  |  |
-
-|  | – Örökbefogadás folyamatban |  |  |  |
-
-## * A felsoroltak közül egyet kérünk aláhúzni.
-
-## ** A felsoroltak közül több is bejelölhető (aláhúzással).
-
-## XIV. számú adatlap
-
-## Az eseti (vagyonkezelő) gondnoki és hivatásos gyámi feladatokat ellátó személyről
-
-## [Gyvt. 141. § (1) bek. d) pont]
-
-## (Területi gyermekvédelmi szakszolgálat vezetője tölti ki.)
-
-| A nyilvántartásba vétel időpontja: |  |
-
-| 1. | Személyi adatai: |  |
-
-|  | Név: |  |
-
-|  | Születési hely, idő: |  |
-
-|  | Anyja neve: |  |
-
-|  | Lakóhely: |  |
-
-|  | Tartózkodási hely: |  |
-
-|  | Státusza: |  |
-
-|  | – gondnok |  |
-
-|  | – gyám |  |
-
-| 2. | Iskolai végzettsége: |  |
-
-|  | – alapfokú |  |
-
-|  | – középfokú |  |
-
-|  | – felsőfokú |  |
-
-| 3. | Speciális képzettsége: |  |
-
-|  | Az általa gondnokoltak (gyámoltak) száma: |  | fő |
+## 3. Az általa gyámoltak száma: fő
 
 ## XV. számú adatlap
 
@@ -2426,11 +1770,19 @@
 
 ## Tartózkodási hely:
 
-## 2. A törvényes képviselő neve:
+## 2. A gyermek törvényes képviseletét ellátó gyermekvédelmi gyám neve:
 
-## Tartózkodási helye, elérhetősége:
+## Értesítési címe:
 
-## A törvényes képviselő jellege: □ gyermekotthon vezetője □ hivatásos gyám
+## Elérhetősége (telefon, e-mail):
+
+## A gyermekvédelmi gyámot foglalkoztató területi gyermekvédelmi szakszolgálat megnevezése:
+
+## 2/A. A gyámhatóság kirendelése alapján a gyermeket a nevelési felügyelettel kapcsolatos eljárásban képviselő gyermekjogi képviselő neve:
+
+## Értesítési címe:
+
+## Elérhetősége (telefon, e-mail):
 
 ## 3. A szülők személyi adatai:
 
@@ -2450,23 +1802,33 @@
 
 ## Határozatot hozó gyámhivatal neve:
 
-## A határozat száma:
+## Határozat száma:
 
-## A határozat kelte:
+## Határozat kelte:
 
 ## Jogerős:
 
-## Döntés jellege: □ átmeneti nevelésbe vétel □ tartós nevelésbe vétel
-
-## 5. A speciális gyermekotthonban való elhelyezésre vonatkozó adatok:
+## 5. A gyermek intézményi elhelyezésére vonatkozó adatok:
 
 ## Határozatot hozó gyámhivatal neve:
 
-## A határozat száma: Kelte:
+## Határozat száma:
+
+## Határozat kelte:
 
 ## Jogerős:
 
-## A befogás időpontja:
+## A befogadás időpontja:
+
+## A befogadó intézmény típusa:
+
+## – központi speciális gyermekotthonnak nem minősülő speciális gyermekotthon
+
+## – központi speciális gyermekotthon
+
+## – gyermekotthon speciális csoportja
+
+## – speciális lakásotthon
 
 ## „B” adatlap
 
@@ -2508,7 +1870,7 @@
 
 ## A „B” adatlapból mindig újat kell kitölteni, ha újabb nevelési felügyeletet rendeltek el.
 
-2. számú melléklet a 235/1997. (XII. 17.) Korm. rendelethez[^14]
+2. számú melléklet a 235/1997. (XII. 17.) Korm. rendelethez[^21]
 
 A „Gyermekeink védelmében” elnevezésű adatlaprendszer
 
@@ -2530,9 +1892,7 @@ I. számú adatlap
 
 „T” – Törzslap
 
-(A gyermek személyes adatlapja, amelyet gyermekenként külön vezet
-
-a gyermekjóléti szolgáltató, átmeneti gondozást, valamint otthont nyújtó intézmény)
+(A gyermek személyes adatlapja, amelyet gyermekenként külön vezet a gyermekjóléti szolgáltató, átmeneti gondozást, valamint otthont nyújtó intézmény)
 
 | A nyilvántartásba vétel időpontja (az az időpont, amikor a gyermek bekerült a gyermekvédelem rendszerébe): |
 
@@ -2554,11 +1914,11 @@ a gyermekjóléti szolgáltató, átmeneti gondozást, valamint otthont nyújtó
 
 | Bejelentett lakóhely: | Változás1: |
 
-| Változás2: |
+|  | Változás2: |
 
-| Bejelentett tartózkodási hely*: | Változás1: |
+| Bejelentett tartózkodási hely22 | Változás1: |
 
-| Változás2: |
+|  | Változás2: |
 
 | Tényleges tartózkodási hely: (gondozási hely) | Változás1: |
 
@@ -2567,6 +1927,8 @@ a gyermekjóléti szolgáltató, átmeneti gondozást, valamint otthont nyújtó
 | Törzsszám (szakellátásban): | Törzsszám változás: |
 
 | Beszélt nyelve: | Van-e szüksége tolmácsra? igen – milyenre: nem |
+
+22 Korábban „ideiglenes”.
 
 | A szülők/törvényes képviselő személyi adatai |
 
@@ -2580,23 +1942,23 @@ a gyermekjóléti szolgáltató, átmeneti gondozást, valamint otthont nyújtó
 
 | Bejelentett lakóhely: | Változás1: |
 
-| Változás2: |
+|  | Változás2: |
 
-| Bejelentett tartózkodási hely*: | Változás1: |
+| Bejelentett tartózkodási hely23: | Változás1: |
 
-| Változás2: |
+|  | Változás2: |
 
 | Tényleges tartózkodási hely: | Változás1: |
 
-| Változás2: |
+|  | Változás2: |
 
 | Elérhetősége: | Változás1: |
 
-| Változás2: |
+|  | Változás2: |
 
 | Gyakorolja-e a szülői felügyeleti jogokat? | igen |
 
-| nem – Miért? |
+|  | nem – Miért? |
 
 | Apa |
 
@@ -2608,23 +1970,23 @@ a gyermekjóléti szolgáltató, átmeneti gondozást, valamint otthont nyújtó
 
 | Bejelentett lakóhely: | Változás1: |
 
-| Változás2: |
+|  | Változás2: |
 
-| Bejelentett tartózkodási hely*: | Változás1: |
+| Bejelentett tartózkodási hely24: | Változás1: |
 
-| Változás2: |
+|  | Változás2: |
 
 | Tényleges tartózkodási hely: | Változás1: |
 
-| Változás2: |
+|  | Változás2: |
 
 | Elérhetősége: | Változás1: |
 
-| Változás2: |
+|  | Változás2: |
 
-| Gyakorolja-e a szülői felügyeleti jogokat? | igen |
+| Gyakorolja-e a szülői felügyeleti jogokat: | igen |
 
-| nem – Miért? |
+|  | nem – Miért? |
 
 | Gyám |
 
@@ -2634,33 +1996,39 @@ a gyermekjóléti szolgáltató, átmeneti gondozást, valamint otthont nyújtó
 
 | Bejelentett lakóhely: | Változás1: |
 
-| Változás2: |
+|  | Változás2: |
 
-| Bejelentett tartózkodási hely*: | Változás1: |
+| Bejelentett tartózkodási hely25: | Változás1: |
 
-| Változás2: |
+|  | Változás2: |
 
 | Tényleges tartózkodási hely: | Változás1: |
 
-| Változás2: |
+|  | Változás2: |
 
 | Elérhetősége: | Változás1: |
 
-| Változás2: |
+|  | Változás2: |
 
 | Jogcím/rokonsági fok: |
 
-| * Korábban „ideiglenes”. |
+23 Korábban „ideiglenes”.
 
-| Átmeneti vagy tartós nevelt gyermek esetében |
+24 Korábban „ideiglenes”.
 
-| Gyám/Hivatásos gyám |
+25 Korábban „ideiglenes”.
+
+| Nevelésbe vett gyermek esetében |
+
+| Gyermekvédelmi gyám |  |
 
 | Név: |
 
 | Születési név: | Születési hely, idő: |
 
-| Elérhetősége (cím, telefon): |
+| Értesítési címe: |
+
+| Elérhetősége (telefon, e-mail): |
 
 | Vagyonkezelő |
 
@@ -2668,11 +2036,11 @@ a gyermekjóléti szolgáltató, átmeneti gondozást, valamint otthont nyújtó
 
 | Születési név: | Születési hely, idő: |
 
-| Elérhetősége (cím, telefon): |
+| Értesítési címe: |
 
-Útmutató a kitöltéshez
+| Elérhetősége (telefon, e-mail): |
 
-„T-lap”
+Útmutató a kitöltéshez „T-lap”
 
 Az adatlap funkciója:
 
@@ -2688,7 +2056,7 @@ Az adatlap továbbítása: a gondozási folyamat során az első kitöltött pé
 
 II. számú adatlap
 
-„GYSZ-1”– Esetfelvételi lap
+„GYSZ-1” – Esetfelvételi lap
 
 Környezettanulmány
 
@@ -2696,11 +2064,11 @@ Környezettanulmány
 
 | Gyermekjóléti szolgálattal való kapcsolat |
 
-| Milyen okból és hogyan került a család (a gyermek/ek) a gyermekjóléti szolgálathoz? Ki küldte a jelzést? (A jelzés csatolandó!) |
+| Milyen okból és hogyan került a család (a gyermek/gyermekek) a gyermekjóléti szolgálathoz? Ki küldte a jelzést – amennyiben nem tartozik a Gyvt. 17. § (2a) bekezdése szerinti körbe? [A jelzés csatolandó, kivéve azt az esetet, ha a jelzés a Gyvt. 17. § (2a) bekezdése alapján zártan kezelendő! Zártan kezelendő adatok esetén a jelzést küldő nem tüntethető fel! Ebben az esetben a jelzés a gyámhatóságnak, illetve a gyermek veszélyeztetettségének megszüntetése érdekében eljáró szervnek külön borítékban csatolandó!] |
 
-| A jelzést küldő vagy más személy tett-e valamit az ügyben? |
+| A jelzést küldő vagy más személy tett-e valamit az ügyben? [Ha az adatok a Gyvt. 17. § (2a) bekezdése értelmében zártan kezelendők, a válasz az adatlapon nem tüntethető fel, hanem az külön borítékban a jelzés mellé csatolandó.] |
 
-| Igen: ki és mit tett? |
+| Igen: ki és mit tett? [Ha az adatok a Gyvt. 17. § (2a) bekezdése értelmében zártan kezelendők, a válasz az adatlapon nem tüntethető fel, hanem az külön borítékban a jelzés mellé csatolandó.] |
 
 | Nem. |
 
@@ -2720,7 +2088,7 @@ Környezettanulmány
 
 | Következtetések, további tennivalók: |
 
-| Aláírás, dátuma, helyszín: |
+| Aláírás, dátum, helyszín: |
 
 Útmutató a kitöltéshez
 
@@ -2732,9 +2100,9 @@ Az adatlap funkciója:
 
 a) önkéntes jelentkezés esetén, amennyiben a feltárt probléma előreláthatólag túlmegy a tanácsadás keretein, és legalább egy, a családnál történő helyszíni tájékozódást igényel,
 
-b) jelzőrendszerből érkező értesítés esetén,
+b) jelzőrendszerből érkező értesítés esetén.
 
-2. egyszerű környezettanulmány, védelembe vételre vonatkozó javaslattétel, illetve véleménynyilvánítás akkor, ha a gyámhivatal felkérését nem előzte meg gyermekjóléti szolgáltatás.
+2. Egyszerű környezettanulmány, védelembe vételre vonatkozó javaslattétel, illetve véleménynyilvánítás akkor, ha a gyámhivatal felkérését nem előzte meg gyermekjóléti szolgáltatás.
 
 A családgondozó az adatlap „Következtetések, további tennivalók” részében indokolja az eset lezárását vagy folytatását, illetve megteszi javaslatát a hatóságnak.
 
@@ -3012,9 +2380,9 @@ Az adatlap továbbítása:
 
 1. az átmeneti gondozást nyújtónak a javaslattételi lap kivételével az első kitöltés után azonnal, a módosításokról folyamatosan konzultálnak,
 
-2. amennyiben a gyermekjóléti szolgálat tesz javaslatot gyermekvédelmi intézkedés alkalmazására, úgy a javaslat részeként az illetékes hatóságnak, amely nevelésbe vétel esetén azt továbbküldi a területi gyermekvédelmi szakszolgálatnak, aki az elhelyezési értekezlet előtt továbbítja majd a lehetséges gyám(ok)nak,
+2. amennyiben a gyermekjóléti szolgálat tesz javaslatot gyermekvédelmi intézkedés alkalmazására, úgy a javaslat részeként az illetékes hatóságnak, amely nevelésbe vétel esetén azt továbbküldi a területi gyermekvédelmi szakszolgálatnak, aki az elhelyezési értekezlet előtt továbbítja majd a lehetséges gyermekvédelmi gyámnak,
 
-3. ha a gyermek előzmény nélkül került ideiglenes hatályú elhelyezésbe, a gyámhivatal felkérése szerint a gyermekjóléti szolgálat továbbítja az adatlapot (a gondozási terv és a gondozási folyamat összegzése nélkül) a gyámhivatalnak, és azon keresztül a területi gyermekvédelmi szakszolgálatnak, aki továbbítja majd a gyámnak.
+3. ha a gyermek előzmény nélkül került ideiglenes hatályú elhelyezésbe, a gyámhivatal felkérése szerint a gyermekjóléti szolgálat továbbítja az adatlapot (a gondozási terv és a gondozási folyamat összegzése nélkül) a gyámhivatalnak, és azon keresztül a területi gyermekvédelmi szakszolgálatnak, aki továbbítja majd a gyermekvédelmi gyámnak.
 
 V. számú adatlap
 
@@ -3340,7 +2708,7 @@ X. számú adatlap
 
 „GYSZ-8” – Helyzetértékelés
 
-(A gyermekjóléti szolgálat munkatársa tölti ki átmeneti nevelésbe vett gyermek családjának gondozása esetén.)
+(A gyermekjóléti szolgálat munkatársa tölti ki nevelésbe vett gyermek családjának gondozása esetén.)
 
 | Név: | Törzsszám: |
 
@@ -3350,13 +2718,13 @@ X. számú adatlap
 
 | Helyzetértékelés oka: | A helyzetértékelést végző neve: |
 
-| I. Az elhelyezés, vagy az előző helyzetértékelés óta a családdal/gyermekkel történt megbeszélések, találkozások, illetve egyéb intézményekkel és személyekkel történt konzultációk felsorolása |
+| I. Az elhelyezés vagy az előző helyzetértékelés óta a családdal/gyermekkel történt megbeszélések, találkozások, illetve egyéb intézményekkel és személyekkel történt konzultációk felsorolása |
 
 | Dátum | Kivel? (név, rokonsági fok/intézmény) | Hol, milyen módon? |
 
-| II. A szülő kapcsolattartásának alakulása gyermekével, amennyiben az egyes gyermeknél eltérés tapasztalható, azt név szerint, külön jelezze! |
+| II. A szülő kapcsolattartásának alakulása gyermekével, amennyiben az egyes gyermekeknél eltérés tapasztalható, azt név szerint, külön jelezze! |
 
-| a) Milyen módon és rendszerességgel élt a szülő – illetve az a személy, akihez a gyermek az átmeneti nevelés után hazakerülhet – a kapcsolattartás jogával? A kapcsolattartás tapasztalatai: |
+| a) Milyen módon és rendszerességgel élt a szülő – illetve az a személy, akihez a gyermek a nevelés után hazakerülhet – a kapcsolattartás jogával? A kapcsolattartás tapasztalatai: |
 
 | b) Milyen támogatást kapott a kapcsolattartásra jogosult szülő, illetve személy az intézménytől/családgondozótól? |
 
@@ -3388,7 +2756,7 @@ X. számú adatlap
 
 | h) egyéb: |
 
-| i) A szülőnek a gyermekjóléti szolgálat családgondozójával való együttműködésének a bemutatása: |
+| i) a szülő együttműködésének bemutatása a gyermekjóléti szolgálat családgondozójával: |
 
 | IV. Következtetések, javaslatok |
 
@@ -3402,33 +2770,33 @@ X. számú adatlap
 
 | 5. A helyzetértékelést végző egyéb javaslata: |
 
-| Az adatlapot készítette: |
+Az adatlapot készítette:
 
-|  | Dátum: |  | aláírás: |
+Dátum: Aláírás:
 
-| A Helyzetértékelési adatlap tartalmát megismerték: |
+A Helyzetértékelési adatlap tartalmát megismerték:
 
-| Szülők, illetve azok a személyek, ahová a gyermek visszagondozható: |
+Szülők, illetve azok a személyek, ahová a gyermek visszagondozható:
 
-|  | Anya: |
+Anya:
 
-| megjegyzés: |
+megjegyzés:
 
-|  | Dátum: |  | aláírás: |
+Dátum: Aláírás:
 
-|  | Apa: |
+Apa:
 
-| megjegyzés: |
+megjegyzés:
 
-|  | Dátum: |  | aláírás: |
+Dátum: Aláírás:
 
-|  | Más személy/személyek: |
+Más személy/személyek:
 
-| megjegyzés: |
+megjegyzés:
 
-|  | Dátum: |  | aláírás: |
+Dátum: Aláírás:
 
-| megjegyzés: |
+megjegyzés:
 
 Útmutató a kitöltéshez
 
@@ -3440,7 +2808,7 @@ Az adatlap kitöltője: a gyermekjóléti szolgálat.
 
 A kitöltés ideje: félévente egyszer, továbbá a felülvizsgálatot megelőzően a gyámhivatal felkérésétől számított 15 napon belül.
 
-Az adatlap továbbítása: a gyámhivatalnak, a területi gyermekvédelmi szakszolgálatnak és a gyámnak.
+Az adatlap továbbítása: a gyámhivatalnak, a területi gyermekvédelmi szakszolgálatnak és a gyermekvédelmi gyámnak.
 
 XI. számú adatlap
 
@@ -3526,11 +2894,11 @@ XI. számú adatlap
 
 | Feladatmegosztás a szülők és szakemberek között: |
 
-| f) Etnikai, nyelvi szempontok:15 |
+| f) Etnikai, nyelvi szempontok:26 |
 
 | Amennyiben az etnikai hovatartozásból feladatok adódnak, azok megnevezése: | Igény: |
 
-15A szülő vagy más törvényes képviselő írásbeli hozzájárulása esetén tölthető ki. A kitöltés során figyelemmel kell lenni a korlátozottan cselekvőképes, illetve az ítélőképessége birtokában lévő cselekvőképtelen gyermek véleményére. A szülőt, más törvényes képviselőt és a gyermeket tájékoztatni kell az adatközlés önkéntességéről.
+26A szülő vagy más törvényes képviselő írásbeli hozzájárulása esetén tölthető ki. A kitöltés során figyelemmel kell lenni a korlátozottan cselekvőképes, illetve az ítélőképessége birtokában lévő cselekvőképtelen gyermek véleményére. A szülőt, más törvényes képviselőt és a gyermeket tájékoztatni kell az adatközlés önkéntességéről.
 
 | Feladatmegosztás a szülők és szakemberek között: |
 
@@ -3538,7 +2906,7 @@ XI. számú adatlap
 
 |  | szülő, más törvényes képviselő aláírása |
 
-| g) Vallás – pl.: vallási ünnepek, szokások:16 |
+| g) Vallás – pl.: vallási ünnepek, szokások:27 |
 
 | Igény: | Feladatmegosztás a szülők és szakemberek között: |
 
@@ -3560,7 +2928,7 @@ XI. számú adatlap
 
 | Célok, megállapodások: |
 
-16 A szülő vagy más törvényes képviselő írásbeli hozzájárulása esetén tölthető ki. A kitöltés során figyelemmel kell lenni a korlátozottan cselekvőképes, illetve az ítélőképessége birtokában lévő cselekvőképtelen gyermek véleményére. A szülőt, más törvényes képviselőt és a gyermeket tájékoztatni kell az adatközlés önkéntességéről.
+27 A szülő vagy más törvényes képviselő írásbeli hozzájárulása esetén tölthető ki. A kitöltés során figyelemmel kell lenni a korlátozottan cselekvőképes, illetve az ítélőképessége birtokában lévő cselekvőképtelen gyermek véleményére. A szülőt, más törvényes képviselőt és a gyermeket tájékoztatni kell az adatközlés önkéntességéről.
 
 | j) A szülő/törvényes képviselő és a gyermek kapcsolatának jellemzése: |
 
@@ -3690,7 +3058,7 @@ XII. számú adatlap
 
 | Milyen feladatokat ad a gyermek esetleges munkába állásának elősegítése? | Milyen segítséget nyújt az intézmény a szülőnek a feladatok ellátásához? |
 
-| Etnikai, nyelvi, kulturális szempontok17 |
+| Etnikai, nyelvi, kulturális szempontok28 |
 
 | Amennyiben etnikai hovatartozásából a gyermeknek és/vagy szüleinek igényei adódnak, azok megnevezése: | Milyen segítséget nyújt az intézmény a felmerült igények teljesítéséhez? |
 
@@ -3700,9 +3068,9 @@ XII. számú adatlap
 
 |  | szülő, más törvényes képviselő aláírása |
 
-17 A szülő vagy más törvényes képviselő írásbeli hozzájárulása esetén tölthető ki. A kitöltés során figyelemmel kell lenni a korlátozottan cselekvőképes, illetve az ítélőképessége birtokában lévő cselekvőképtelen gyermek véleményére. A szülőt, más törvényes képviselőt és a gyermeket tájékoztatni kell az adatközlés önkéntességéről.
+28 A szülő vagy más törvényes képviselő írásbeli hozzájárulása esetén tölthető ki. A kitöltés során figyelemmel kell lenni a korlátozottan cselekvőképes, illetve az ítélőképessége birtokában lévő cselekvőképtelen gyermek véleményére. A szülőt, más törvényes képviselőt és a gyermeket tájékoztatni kell az adatközlés önkéntességéről.
 
-| Vallás – pl.: rendszeres vallásgyakorlás, ünnepek, szokások18 |
+| Vallás – pl.: rendszeres vallásgyakorlás, ünnepek, szokások29 |
 
 | Amennyiben vallási hovatartozásából a gyermeknek és/vagy szüleinek igényei adódnak, azok részletezése: | Milyen segítséget nyújt az intézmény a felmerült igények teljesítéséhez? |
 
@@ -3728,7 +3096,7 @@ XII. számú adatlap
 
 | Igényel-e az intézménytől segítséget a kapcsolattartás biztosítása? |
 
-18 A szülő vagy más törvényes képviselő írásbeli hozzájárulása esetén tölthető ki. A kitöltés során figyelemmel kell lenni a korlátozottan cselekvőképes, illetve az ítélőképessége birtokában lévő cselekvőképtelen gyermek véleményére. A szülőt, más törvényes képviselőt és a gyermeket tájékoztatni kell az adatközlés önkéntességéről.
+29 A szülő vagy más törvényes képviselő írásbeli hozzájárulása esetén tölthető ki. A kitöltés során figyelemmel kell lenni a korlátozottan cselekvőképes, illetve az ítélőképessége birtokában lévő cselekvőképtelen gyermek véleményére. A szülőt, más törvényes képviselőt és a gyermeket tájékoztatni kell az adatközlés önkéntességéről.
 
 | 3. Van-e hatályban a gyermekre vonatkozó/gyermekkel kapcsolatos gyermekvédelmi hatósági intézkedés, illetve büntetőeljárás? Ha igen, ismertesse! |
 
@@ -3870,223 +3238,179 @@ Az adatlap továbbítása:
 
 XV. számú adatlap
 
-,,TESZ-1” – Elhelyezési javaslat és elhelyezési terv
+„TESZ-1” – Elhelyezési javaslat és elhelyezési terv
 
 (A területi gyermekvédelmi szakszolgálat tölti ki!)
 
-|  | Törzsszám: | Javaslat/terv sorszáma: |
+| Törzsszám: | Javaslat/terv sorszáma: |
 
-|  | Az első javaslat, terv kelte: | A jelenlegi javaslat, terv kelte: |
+| Az első javaslat, terv kelte: | A jelenlegi javaslat, terv kelte: |
 
-|  | Név: | Névváltozás (dátummal): |
+| Név: | Névváltozás (dátummal): |
 
-|  | Születési hely, idő: | Anyja születési neve: |
+| Születési hely, idő: | Anyja születési neve: |
 
-|  | Az elhelyezési értekezletre meghívottak névsora |
+| I. Elhelyezési javaslat |
 
-|  | Név | Szakterület/rokonsági fok | Olvasta-e előzetesen a GYSZ-3 adatlapokat? | Jelenlét igazolása |
+| 1. Miért vált szükségessé elhelyezési javaslat készítése? (a veszélyeztető tényezők; az elhelyezés megváltoztatásának indokai) |
 
-|  | I. Elhelyezési javaslat |
+| 2. A Gyvt.-ben vagy más jogszabályban biztosított – még igénybe nem vett – segítség esetén elképzelhető-e, hogy a szülő(k) gondoskodjanak a gyermekről? |
 
-|  | 1. Miért vált szükségessé az elhelyezési értekezlet összehívása? (a veszélyeztető tényezők; az elhelyezés megváltoztatásának indokai) |
+| 3. Mely szolgáltatások igénybevételére lenne ehhez szükség? | 4. Elérhetők-e ezek? |
 
-|  | 2. A Gyvt.-ben vagy más jogszabályban biztosított – még igénybe nem vett – segítség esetén elképzelhető-e, hogy a szülő(k) gondoskodjanak a gyermekről? |
+| 5. Felajánlották-e ezeket a szolgáltatásokat a szülő(k) számára? | 6. Miért nem vette/vették igénybe? | 7. Vállalja-e ezek igénybevételét? |
 
-|  | 3. Mely szolgáltatások igénybevételére lenne ehhez szükség? | 4. Elérhetők-e ezek? |
+| 8. A gyermek rokonai/tágabb családjának tagjai közül – a jelenlevőket leszámítva – kit kérdeztek meg a gyermek elhelyezésére, illetve a gyermek gondozására vonatkozóan? |
 
-|  | 5. Felajánlották-e ezeket a szolgáltatásokat a szülő(k) számára? | 6. Miért nem vette/vették igénybe? | 7. Vállalja-e ezek igénybevételét? |
+| Személyek: | Vélemények: |
 
-|  | 8. A gyermek rokonai/tágabb családjának tagjai közül – a jelenlevőket leszámítva – kit kérdeztek meg a gyermek elhelyezésére, illetve a gyermek gondozására vonatkozóan? |
+| 9. Elhelyezhető-e a gyermek valamelyik különélő szülőnél, nagyszülőnél, nagykorú testvérnél, illetve harmadik személynél? (Kinél, milyen támogatások igénybevételével?) |
 
-|  | Személyek: | Vélemények: |
+| 10. Milyen egyéb szervezettel/személlyel konzultáltak a gyermek helyzetéről és a vele kapcsolatos elhelyezésről? A javaslat elkészítéséhez rendelkezésre álló írásos vélemények, szakvélemények, javaslatok felsorolása: (forrás, dátum) |
 
-|  | 9. Elhelyezhető-e a gyermek valamelyik különélő szülőnél, nagyszülőnél, nagykorú testvérnél, illetve harmadik személynél? (Kinél, milyen támogatások igénybevételével?) |
+| 11. Milyen szükségleteket kell az elhelyezésnek kielégítenie a gyermekvédelmi szakértői bizottság, az egyéb szakemberek, az érdekeltek és érintettek szerint az alábbiak vonatkozásában? |
 
-|  | 10. Milyen egyéb szervezettel/személlyel konzultáltak a gyermek helyzetéről és a vele kapcsolatos elhelyezésről? A javaslat elkészítéséhez rendelkezésre álló írásos vélemények, szakvélemények, javaslatok felsorolása: (forrás, dátum) |
+| a) Egészségi állapot |
 
-|  | 11. Milyen szükségleteket kell az elhelyezésnek kielégítenie a Gyermekvédelmi Szakértői Bizottság, az egyéb szakemberek, az érdekeltek és érintettek szerint az alábbiak vonatkozásában? |
+| Szakértői vélemények alapján: | Szülő(k) véleménye: | Gyermek igénye: | Egyéb vélemények: | Szakszolgálat javaslata: |
 
-|  | a) Egészségi állapot |
+| b) Mentális, pszichés állapot |
 
-|  | Szakértői vélemények alapján: | Szülő(k) véleménye: | Gyermek igénye: | Egyéb vélemények: | Szakszolgálat javaslata: |
+| Szakértői vélemények alapján: | Szülő(k) véleménye: | Gyermek igénye, véleménye: | Egyéb vélemények: | Szakszolgálat javaslata: |
 
-|  | b) Mentális, pszichés állapot |
+| c) Oktatás/továbbtanulási tervek, lehetőségek |
 
-|  | Szakértői vélemények alapján: | Szülő(k) véleménye: | Gyermek igénye, véleménye: | Egyéb vélemények: | Szakszolgálat javaslata: |
+| Szakértői vélemények alapján: | Szülő(k) véleménye (amennyiben rendelkezésre áll): | Gyermek igénye, véleménye: | Egyéb vélemények: | Szakszolgálat javaslata: |
 
-|  | c) Oktatás/továbbtanulási tervek, lehetőségek |
+| d) Családi, rokoni, baráti kapcsolatok ápolása/korlátozása |
 
-|  | Szakértői vélemények alapján: | Szülő(k) véleménye: | Gyermek igénye, véleménye: | Egyéb vélemények: | Szakszolgálat javaslata: |
+| Szülő(k) véleménye (amennyiben rendelkezésre áll): | Gyermek igénye, véleménye: | Szakértői vélemények alapján: | Egyéb vélemények: | Szakszolgálat javaslata: |
 
-|  | d) Családi, rokoni, baráti kapcsolatok ápolása/korlátozása |
+| e) Nemzetiségi, etnikai hovatartozás, anyanyelv ápolása |
 
-|  | Szülő(k) véleménye: | Gyermek igénye, véleménye: | Szakértői vélemények alapján: | Egyéb vélemények: | Szakszolgálat javaslata: |
+| Szülő(k) véleménye (amennyiben rendelkezésre áll): | Gyermek igénye, véleménye: | Szakértői vélemények alapján: | Egyéb vélemények: | Szakszolgálat javaslata: |
 
-|  | e) Nemzetiségi, etnikai hovatartozás, anyanyelv ápolása19 |
+| A fenti különleges adat kezeléséhez hozzájárulok: | .............................................................................. szülő, más törvényes képviselő aláírása |
 
-|  | Szülő(k) véleménye: | Gyermek igénye, véleménye: | Szakértői vélemények alapján: | Egyéb vélemények: | Szakszolgálat javaslata: |
+| f) Vallás: a szülő(k) és a gyermek igénylik-e a gyermek vallásos nevelését? |
 
-|  | A fenti különleges adat kezeléséhez hozzájárulok: |
+| Szülő(k) véleménye (amennyiben rendelkezésre áll): | Gyermek igénye, véleménye (amennyiben rendelkezésre áll): | Szakértői vélemények alapján: | Egyéb vélemények: | Szakszolgálat javaslata: |
 
-|  |  | ..………………………………………... |
+| A fenti különleges adat kezeléséhez hozzájárulok: | .............................................................................. szülő, más törvényes képviselő aláírása |
 
-|  |  | szülő, más törvényes képviselő aláírása |
+| g) Kultúra, sport |
 
-|  | f) Vallás: a szülő(k) és a gyermek igénylik-e a gyermek vallásos nevelését?20 |
+| Szülő(k) véleménye (amennyiben rendelkezésre áll): | Gyermek igénye, véleménye: | Szakértői vélemények alapján: | Egyéb vélemények: | Szakszolgálat javaslata: |
 
-|  | Szülő(k) véleménye: | Gyermek igénye, véleménye: | Szakértői vélemények alapján: | Egyéb vélemények: | Szakszolgálat javaslata: |
+| h) Egyéb igény vagy szükséglet |
 
-|  | A fenti különleges adat kezeléséhez hozzájárulok: |
+| Szülő(k) véleménye (amennyiben rendelkezésre áll): | Gyermek igénye, véleménye: | Szakértői vélemények alapján: | Egyéb vélemények: | Szakszolgálat javaslata: |
 
-|  |  | ..………………………………………... |
+| 12. A területi gyermekvédelmi szakszolgálat javaslata: nevelésbe vétel | gondozás gyermekjóléti alapellátásban egyéb: .............................................................................. |
 
-|  |  | szülő, más törvényes képviselő aláírása |
+| 13. Amennyiben a gyermek nevelésbe vételét javasolják, vegyék számba a kiskorú rokonokat (testvéreket, féltestvéreket, unokatestvéreket), egyéb személyeket, akikkel/aki(k) miatt az együttes elhelyezés indokolt lehet. |
 
-|  | g) Kultúra, sport |
+| Név, rokonsági fok, gondozási hely: |
 
-|  | Szülő(k) véleménye: | Gyermek igénye, véleménye: | Szakértői vélemények alapján: | Egyéb vélemények: | Szakszolgálat javaslata: |
+| Gyermek kívánsága: | Szülő kívánsága (amennyiben rendelkezésre áll): |
 
-|  | h) Egyéb igény vagy szükséglet |
+| A gyermekvédelmi szakértői bizottság javaslata: |  |
 
-|  | Szülő(k) véleménye: | Gyermek igénye, véleménye: | Szakértői vélemények alapján: | Egyéb vélemények: | Szakszolgálat javaslata: |
+| 14. Nevelésbe vétel esetén javasolt elhelyezés |
 
-|  | 12. Az értekezlet javaslata: |
+| a) A gyermekvédelmi szakértői bizottság javaslata az elhelyezés típusára: |
 
-|  |  | átmeneti nevelésbe vétel | gondozás gyermekjóléti alapellátásban |
+| b) Elhelyezési lehetőségek a területi gyermekvédelmi szakszolgálat tájékoztatása alapján: |
 
-|  |  | tartós nevelésbe vétel |  | egyéb: |
+| − | Gondozó intézmény/gondozó személy (rokonsági fok): |
 
-|  | 13. Amennyiben a gyermek nevelésbe vételét javasolják, vegyék számba a kiskorú rokonokat (testvére- ket, féltestvéreket, unokatestvéreket), egyéb személyeket, akikkel/aki(k) miatt az együttes elhelyezés indokolt lehet. |
+| Fenntartó/munkáltató/megbízó neve: |
 
-|  | Név, rokonsági fok, gondozási hely: |
+| Cím/fenntartó intézmény címe: |
 
-|  | Gyermek kívánsága: | Szülő kívánsága: |
+| Amennyiben mégsem a megjelölt intézményt javasolják, miért nem? |
 
-|  | Szakértői Bizottság javaslata: | Értekezlet javaslata, indoklással: |
+| − | Gondozó intézmény/gondozó személy (rokonsági fok): |
 
-|  | 14. Átmeneti vagy tartós nevelésbe vétel esetén javasolt elhelyezés |
+| Fenntartó/munkáltató/megbízó neve: |
 
-|  | a) A Gyermekvédelmi Szakértői Bizottság javaslata az elhelyezés típusára: |
+| Cím/fenntartó intézmény címe: |
 
-|  | b) Elhelyezési lehetőségek a területi gyermekvédelmi szakszolgálat tájékoztatása alapján: |
+| Amennyiben mégsem a megjelölt intézményt javasolják, miért nem? |
 
-|  | Gondozó intézmény/gondozó személy (rokonsági fok): |
+| − | Gondozó intézmény/gondozó személy (rokonsági fok): |
 
-|  | Fenntartó/munkáltató/megbízó neve: |
+| Fenntartó/munkáltató/megbízó neve: |
 
-|  | Cím/fenntartó intézmény címe: |
+| Cím/fenntartó intézmény címe: |
 
-|  | Amennyiben mégsem a megjelölt intézményt javasolják, miért nem? |
+| Amennyiben mégsem a megjelölt intézményt javasolják, miért nem? |
 
-|  | Gondozó intézmény/gondozó személy (rokonsági fok): |
+| − | Gondozó intézmény/gondozó személy (rokonsági fok): |
 
-|  | Fenntartó/munkáltató/megbízó neve: |
+| Fenntartó/munkáltató/megbízó neve: |
 
-|  | Cím/fenntartó intézmény címe: |
+| Cím/fenntartó intézmény címe: |
 
-|  | Amennyiben mégsem a megjelölt intézményt javasolják, miért nem? |
+| Amennyiben mégsem a megjelölt intézményt javasolják, miért nem? |
 
-|  | Gondozó intézmény/gondozó személy (rokonsági fok): |
+| c) A területi gyermekvédelmi szakszolgálat javaslata: |
 
-|  | Fenntartó/munkáltató/megbízó neve: |
+| Gondozó intézmény/gondozó személy (rokonsági fok): |
 
-|  | Cím/fenntartó intézmény címe: |
+| Fenntartó/munkáltató/megbízó neve: |
 
-|  | Amennyiben mégsem a megjelölt intézményt javasolják, miért nem? |
+| Cím/fenntartó intézmény címe: |
 
-|  | Gondozó intézmény/gondozó személy (rokonsági fok): |
-
-|  | Fenntartó/munkáltató/megbízó neve: |
-
-|  | Cím/fenntartó intézmény címe: |
-
-|  | Amennyiben mégsem a megjelölt intézményt javasolják, miért nem? |
-
-|  | c) Az értekezlet javaslata: |
-
-|  | Gondozó intézmény/gondozó személy (rokonsági fok): |
-
-|  | Fenntartó/munkáltató/megbízó neve: |
-
-|  | Cím/fenntartó intézmény címe: |
-
-|  | Gyám/hivatásos gyám | Neve: |
+| Gyermekvédelmi gyám | Neve: |
 
 |  | Munkáltató/fenntartó/megbízó: |
 
 |  | Székhelye/címe: |
 
-|  | Elérhetősége: |
+|  | Elérhetősége (telefon, e-mail): |
 
-|  | Vagyonkezelő | Neve: |
+| Vagyonkezelő | Neve: |
 
 |  | Munkáltató/fenntartó/megbízó: |
 
 |  | Székhelye/címe: |
 
-|  | Elérhetősége: |
+|  | Elérhetősége (telefon, e-mail): |
 
-|  | Javaslat a gyermek lakóhelyének megállapítására: |
+| Javaslat a gyermek lakóhelyének megállapítására: |
 
-|  | d) A javasolt elhelyezés megfelel-e a gyermek szükségleteinek, igényeinek? |
+| d) A javasolt elhelyezés megfelel-e a gyermek szükségleteinek, igényeinek? |
 
-|  |  | igen | részben | nem (miért?) |
+|  | igen | részben | nem (miért?) |
 
-|  | egészségi állapot |  |  |  |
+| egészségi állapot |  |  |  |
 
-|  | pszichés, mentális állapot |  |  |  |
+| pszichés, mentális állapot |  |  |  |
 
-|  | családi kapcsolatok |  |  |  |
+| családi kapcsolatok |  |  |  |
 
-|  | speciális ellátásra való igény |  |  |  |
+| speciális ellátásra való igény |  |  |  |
 
-|  | különleges ellátásra való igény |  |  |  |
+| különleges ellátásra való igény |  |  |  |
 
-|  | oktatás |  |  |  |
+| oktatás |  |  |  |
 
-|  | nemzeti, etnikai, anyanyelvi hovatartozás21 |  |  |  |
+| nemzeti, etnikai, anyanyelvi hovatartozás |  |  |  |
 
-|  | vallás22 |  |  |  |
+| vallás |  |  |  |
 
-|  | kultúra, sport |  |  |  |
+| kultúra, sport |  |  |  |
 
-|  | egyéb |  |  |  |
+| egyéb |  |  |  |
 
-|  | Miért éppen ezt az elhelyezést javasolják – különös figyelemmel azokra a szükségletekre, amelyekre a válasz „részben” vagy „nem”? |
+| Miért éppen ezt az elhelyezést javasolják – különös figyelemmel azokra a szükségletekre, amelyekre a válasz „részben” vagy „nem”? |
 
-|  | Kérjük az értekezlet vezetőjét, hogy most írassa alá a szülő(k)kel, a gyermekkel és a többi résztvevővel az adatlapnak az elhelyezési javaslatra vonatkozó részét. Ha nem értenek egyet, fejtsék ki annak okát! |
-
-|  | Az elhelyezési javaslattal egyetért | Az elhelyezési javaslatot ellenzi Fejtse ki, hogy miért! |
-
-| Gyermek |  |  |
-
-| Anya/törvényes képviselő |  |  |
-
-| Apa/törvényes képviselő |  |  |
-
-| Gyermekjóléti szolgálat (intézmény neve is) |  |  |
-
-| Területi gyermekvédelmi szakszolgálat |  |  |
-
-| Gyermekjogi képviselő |  |  |
-
-| Leendő gondozási hely képviselője |  |  |
-
-| Egyéb meghívott gondozási helyek képviseletében |  |  |
-
-19 A szülő vagy más törvényes képviselő írásbeli hozzájárulása esetén tölthető ki. A kitöltés során figyelemmel kell lenni a korlátozottan cselekvőképes, illetve az ítélőképessége birtokában lévő cselekvőképtelen gyermek véleményére. A szülőt, más törvényes képviselőt és a gyermeket tájékoztatni kell az adatközlés önkéntességéről.
-
-20 A szülő vagy más törvényes képviselő írásbeli hozzájárulása esetén tölthető ki. A kitöltés során figyelemmel kell lenni a korlátozottan cselekvőképes, illetve az ítélőképessége birtokában lévő cselekvőképtelen gyermek véleményére. A szülőt, más törvényes képviselőt és a gyermeket tájékoztatni kell az adatközlés önkéntességéről.
-
-21 Ezt a részt csak abban az esetben kell kitölteni, ha a szülő, más törvényes képviselő vagy a gyermek igénye alapján feladatot határoztak meg e tárgykörben.
-
-22 Ezt a részt csak abban az esetben kell kitölteni, ha a szülő, más törvényes képviselő vagy a gyermek igénye alapján feladatot határoztak meg e tárgykörben.
-
-| II. Egyéni elhelyezési terv átmeneti nevelésbe vétel esetén |
+| II. Egyéni elhelyezési terv nevelésbe vétel esetén |
 
 | 1. Várhatóan mennyi ideig fog a nevelésbe vétel tartani? Az alább megadott lehetőségek közül jelölje be azt az időtartamot, amelyen belül a nevelésbe vétel okai valószínűleg megszüntethetők! |
 
-| ½ év | 1 év | 1-3 év | 3 évnél hosszabb idő |
+| 1/2 év | 1 év | 1-3 év | 3 évnél hosszabb idő |
 
 | 2. Várhatóan kikhez térhet vissza a gyermek a nevelésbe vétel megszüntetése után? |
 
@@ -4094,9 +3418,9 @@ XV. számú adatlap
 
 | 4. Amennyiben a gyermek életkora indokolja, milyen segítségre lesz szüksége az önálló élet kialakításához? | Feladat: |
 
-| Határidő: |
+|  | Határidő: |
 
-| Felelős: |
+|  | Felelős: |
 
 | 5. Részletezze a szülőt, illetve azon személyt érintő feladatokat, akihez a gyermek a nevelésbe vétel megszüntetése után visszatérhet! Nevezze meg a személyeket, az igénybe vehető segítséget, a felelősöket és tűzzön ki határidőket! |
 
@@ -4106,9 +3430,11 @@ XV. számú adatlap
 
 | Feladat | Igénybe vehető segítség | Felelős személy(ek) | Határidő |
 
+| 6/A. Milyen hosszú távú célt javasolnak a gyermek sorsának rendezésére? – örökbefogadás – gondozás otthont nyújtó ellátásban hazagondozásig: – nevelőszülőnél – gyermekotthonban, lakásotthonban – fogyatékosok vagy pszichiátriai betegek otthonában – gondozás otthont nyújtó ellátásban nagykorúság eléréséig: – nevelőszülőnél – gyermekotthonban, lakásotthonban – fogyatékosok vagy pszichiátriai betegek otthonában |
+
 | 7. A célok megvalósításához szükséges bírósági, hatósági intézkedések: |
 
-| 8. Javaslat a szülő(k)kel, vagy ennek hiányában más kapcsolattartásra jogosult személlyel való kapcsolattartás szabályozására: |
+| 8. Javaslat a szülővel (szülőkkel), vagy ennek hiányában más kapcsolattartásra jogosult személlyel való kapcsolattartás szabályozására: |
 
 | Anya / hiányában más kapcsolattartásra jogosult személy |
 
@@ -4118,21 +3444,21 @@ XV. számú adatlap
 
 | folyamatos kapcsolattartás esetén | gyakorisága: |
 
-| időtartama: |
+|  | időtartama: |
 
 | időszakos kapcsolattartás esetén | gyakorisága: |
 
-| időtartama: |
+|  | időtartama: |
 
 | kapcsolattartás történhet | a gyermek gondozási helyén |
 
-| a gyermek gondozási helyén kívül – hol? |
+|  | a gyermek gondozási helyén kívül – hol? |
 
 | A gyermek elvitele és visszavitele esetén a találkozás helye, ideje, módja: |
 
 | Szükséges-e szakember jelenléte a találkozásnál? | Igen |
 
-| Nem |
+|  | Nem |
 
 | A kapcsolattartás egyéb módjai: |
 
@@ -4146,133 +3472,87 @@ XV. számú adatlap
 
 | folyamatos kapcsolattartás esetén | gyakorisága: |
 
-| időtartama: |
+|  | időtartama: |
 
 | időszakos kapcsolattartás esetén | gyakorisága: |
 
-| időtartama: |
+|  | időtartama: |
 
 | kapcsolattartás történhet | a gyermek gondozási helyén |
 
-| a gyermek gondozási helyén kívül – hol? |
+|  | a gyermek gondozási helyén kívül – hol? |
 
 | A gyermek elvitele és visszavitele esetén a találkozás helye, ideje, módja: |
 
 | Szükséges-e szakember jelenléte a találkozásnál? | Igen |
 
-| Nem |
+|  | Nem |
 
 | A kapcsolattartás egyéb módjai: |
 
-| Milyen segítségre van szüksége a kapcsolattartáshoz? | A segítségért felelős személy neve: |
+| Milyen segítségre van szüksége a kapcsolattartáshoz? | A segítségnyújtásért felelős személy neve: |
 
-| Egyéb rokon, személy kapcsolattartásnak módja az elhelyezési értekezleten elhangzottak alapján: |
+| 8/A. Van-e más olyan kapcsolattartásra jogosult hozzátartozó – akinél a gyermek nem helyezhető el – de aki a hatályos jogszabályok szerint a gyermekkel kapcsolatot tarthat? Név: Rokonsági fok: Kapcsolattartás módja: |
 
-| Megnevezhető-e valaki, akivel a kapcsolatok fenntartását nem javasolják? | Igen – kivel, miért? |
+| Megnevezhető-e valaki, akivel a kapcsolatok fenntartását nem javasolják? | Igen Kivel? Miért? |
 
-| Nem |
+|  | Nem |
 
 | 9. A gyermek gondozását segítő tájékoztatás |
 
 | a) A gyermek egészségi állapota miatt várhatók-e olyan akut helyzetek (hisztériás vagy epilepsziás rohamok, súlyos allergiás reakciók, asztmatikus rohamok stb.), amelyek veszélyeztethetik a gyermeket vagy környezetét? | Igen |
 
-| Nem |
+|  | Nem |
 
 | Mit tegyen a gondozó a veszély elhárítása érdekében? |
 
-| b) A gyermek fizikai, érzelmi állapotával kapcsolatban van-e olyan fontos, a T lapon és a jelen Elhelyezési Tervben eddig még nem közölt tudnivaló, ami az elhelyezés megkezdésekor azonnal szükséges ahhoz, hogy a gyermek a megfelelő ellátást megkapja? Ha van, részletezze a teendőket is! | Van: |
+| b) A gyermek fizikai, érzelmi állapotával kapcsolatban van-e olyan fontos, a T lapon és a jelen Elhelyezési Tervben eddig még nem közölt tudnivaló, ami az elhelyezés megkezdésekor azonnal szükséges ahhoz, hogy a gyermek a megfelelő ellátást megkapja? Ha van, részletezze! | Van |
 
-| Nincs |
+|  | Nincs |
 
 | c) A gyermek gondozását segítő szakemberek |
 
-| gyámi tanácsadó | név: |
-
-| intézmény, elérhetőség: |
-
-| családgondozó | név: |
-
-| intézmény, elérhetőség: |
-
 | nevelőszülői tanácsadó | név: |
 
-| intézmény, elérhetőség: |
+|  | intézmény, elérhetőség: |
 
-| magasabb vezető/szakmai vezető | név: |
-
-| intézmény, elérhetőség: |
-
-| A családot gondozó szakember | név: |
+| gyermekotthon vezetője/nevelőszülői hálózat szakmai vezetője | név: |
 
 | intézmény, elérhetőség: |
+
+| gyermekvédelmi gyám | név: |
+
+|  | intézmény, elérhetőség: |
 
 | d) A kötelező felülvizsgálatot megelőzően az elhelyezés felülvizsgálatának javasolt időpontja (év/hó): |
 
-| e) Amennyiben a gyermeket ideiglenes hatállyal elhelyezték, a gondozónál található-e a gyermek: |
+| e) Amennyiben a gyermeket ideiglenes hatállyal elhelyezték, a gyermekvédelmi gyámnál találhatók-e a gyermek alábbi okiratai: |
 
 | személyazonosító okmánya | Igen |
 
-| Nem – hol van? |
+|  | Nem – hol van? |
 
 | lakcímkártyája | Igen |
 
-| Nem – hol van? |
+|  | Nem – hol van? |
 
 | TAJ-kártyája | Igen |
 
-| Nem – hol van? |
+|  | Nem – hol van? |
 
 | útlevele (ha van) | Igen |
 
-| Nem – hol van? |
+|  | Nem – hol van? |
 
-| Közgyógyellátási igazolványa (ha jogosult) | Igen |
+| közgyógyellátási igazolványa (ha jogosult) | Igen |
 
-| Nem – hol van? |
+|  | Nem – hol van? |
 
-| f) A nevelésbe vétel előtt a gyermek családi pótlékát, illetve árvajáradékát kinek folyósították? | név: |
+| f) A nevelésbe vétel előtt a gyermek családi pótlékát kinek folyósították? | név: |
 
-| cím: |
+|  | cím: |
 
-| A gyámhivatallal jóváhagyandó pontokat az adatlapon dőlt betűkkel jelöltük! |
-
-|  | Az elhelyezési tervvel egyetért | Az elhelyezési tervet ellenzi |
-
-| Gyermek |  |  |
-
-| Anya/törvényes képviselő |  |  |
-
-| Apa/törvényes képviselő |  |  |
-
-| Gyermekjóléti szolgálat (intézmény neve is) |  |  |
-
-| Területi gyermekvédelmi szakszolgálat |  |  |
-
-| Gyermekjogi képviselő (spec. esetben) |  |  |
-
-| Leendő gondozási hely képviselője |  |  |
-
-| Egyéb meghívott gondozási helyek képviseletében |  |  |
-
-| Vélemények, ellenvélemények részletes kifejtése: |  |  |
-
-„Betétlap”
-
-Elhelyezési terv
-
-(A területi gyermekvédelmi szakszolgálat tölti ki.)
-
-| Törzsszám: | Javaslat/terv sorszáma: |
-
-| Az első javaslat, terv kelte: | A jelenlegi javaslat, terv kelte: |
-
-| Név: | Névváltozás (dátummal): |
-
-| Születési hely, idő: | Anyja születési neve: |
-
-| Az elhelyezési értekezletre meghívottak névsora |
-
-| Név | Szakterület/rokonsági fok | Olvasta-e előzetesen a GYSZ-3 adatlapokat? | Jelenlét igazolása |
+A gyámhivatallal jóváhagyandó pontokat az adatlapon dőlt betűkkel jelöltük!
 
 Útmutató a kitöltéshez
 
@@ -4280,181 +3560,75 @@ Elhelyezési terv
 
 Az adatlap funkciója:
 
-1. a gyermek elhelyezésének, elhelyezésének módosítása, elhelyezési javaslatának elkészítése vagy módosítása érdekében összehívott elhelyezési értekezleten történtek dokumentálása,
+1. a gyermek elhelyezésének, elhelyezése módosításának előkészítése, elhelyezési javaslatának, elhelyezési javaslata módosításának elkészítése,
 
-2. a területi gyermekvédelmi szakszolgálat más szakemberekkel, érintettekkel történt megbeszélése alapján kialakított elhelyezési javaslatának és elhelyezési tervének rögzítése.
+2. a területi gyermekvédelmi szakszolgálat által kialakított elhelyezési javaslat és elhelyezési terv rögzítése.
 
 Az adatlap kitöltője a területi gyermekvédelmi szakszolgálat, az alábbiak szerint:
 
-1. amennyiben az értekezlet azt javasolja, hogy a gyermeket ne vegyék nevelésbe, csak az elhelyezési javaslat töltendő ki,
+1. amennyiben azt javasolja, hogy a gyermeket ne vegyék nevelésbe, csak az elhelyezési javaslat töltendő ki,
 
-2. amennyiben az elhelyezési értekezlet csak az elhelyezési terven, illetve annak egyes elemein kíván módosítani, csak az elhelyezési terv megfelelő pontja és a mellékelt betétlap töltendő ki,
+2. amennyiben csak az elhelyezési terven, illetve annak egyes elemein kíván módosítani, csak az elhelyezési terv megfelelő pontja töltendő ki.
 
-3. amennyiben tartós nevelt gyermek gondozási helyére kell javaslatot tenni, az adatlapnak csak az „Elhelyezési javaslat” című része töltendő, a tervet a TESZ-2 adatlap tartalmazza.
+A kitöltés ideje: a gyámhivatali tárgyalást megelőzően, illetve a terv módosításakor.
 
-A kitöltés ideje: az elhelyezési értekezleten, illetve a terv módosításakor.
-
-Az adatlap továbbítása: a gyámhivatalnak, majd a gyámhivatali elfogadás után a gyámhivatal felhívására a gyermekjóléti szolgálatnak, a területileg illetékes jegyzőnek és az újonnan kijelölt gondozási helynek.
+Az adatlap továbbítása: a gyámhivatalnak, majd a gyámhivatali tárgyalás és döntés után a gyámhivatal felhívására a gyermekjóléti szolgálatnak és az újonnan kijelölt gondozási helynek.
 
 XVI. számú adatlap
-
-„TESZ-2” – Egyéni elhelyezési terv tartós nevelésbe vétel esetén
-
-(A területi gyermekvédelmi szakszolgálat tölti ki!)
-
-| Törzsszám: | Terv sorszáma: |
-
-| Az első terv kelte: | A jelenlegi terv kelte: |
-
-| Név: | Névváltozás (dátummal): |
-
-| Születési hely, idő: | Anyja születési neve: |
-
-| Az elhelyezési értekezletre meghívottak névsora |
-
-| Név | Szakterület/rokonsági fok | Jelenlét igazolása |
-
-| 1. Miért vált szükségessé a tartós nevelésbe vétel? |
-
-| 2. Sorolja fel a gyermek sorsának hosszú távú rendezésére alkalmas lehetőségeket! (Az első elhelyezés esetén vegyék figyelembe a rokonok felkutatásának szükségességét!) |
-
-| 3. | Milyen hosszú távú célt javasolnak a gyermek sorsának rendezésére? |
-
-| – örökbefogadás |
-
-| – gondozás otthont nyújtó ellátásban nagykorúságig |
-
-| ▪ nevelőszülőnél |
-
-| ▪ gyermekotthonban |
-
-| – az Szt. hatálya alá tartozó fogyatékkal élők és pszichiátriai betegek otthonában történő elhelyezés |
-
-| Indokolja meg a javaslatot! |
-
-| 4. | A meghatározott cél eléréséhez szükséges gondozás várható időtartama: |
-
-| 5. A meghatározott cél eléréséhez szükséges bírósági, hatósági intézkedések, egyéb kezdeményezések: |
-
-| 6. | A meghatározott cél eléréséhez szükséges szociális, mentálhigiénés és személyiségfejlesztő támogatások részletezése: |
-
-| Feladat | Igényelt segítség | Felelős személy(ek) megnevezése | Határidő |
-
-| 7. | Amennyiben az örökbefogadásra nincs remény, vizsgálják meg a gyermek szülővel való kapcsolattartásának lehetőségét! |
-
-| a) Indokolja-e valami a kapcsolattartást? |
-
-| igen ▪ Miért? |
-
-| nem ▪ |
-
-| b) A kapcsolattartás összhangban áll-e a gyermek érdekeivel? |
-
-| A gyám és a gondozó véleménye: | Szakértői vélemények megjelenítése: |
-
-| A gyermek véleménye, kérése: | Érkezett-e a szülőtől kérelem? |
-
-| c) Javaslat a kapcsolattartás módjára és formájára: |
-
-| 8. Van-e más olyan kapcsolattartásra jogosult hozzátartozó – akinél a gyermek jelenleg nem helyezhető el –, aki a hatályos jogszabályok szerint a gyermekkel kapcsolatot tarthat? Név, rokonsági fok: |
-
-| a) Összhangban áll-e a gyermek érdekeivel? |
-
-| A gyám és a gondozó véleménye: | Szakértői vélemények megjelenítése: |
-
-| A gyermek véleménye, kérése: | Érkezett-e a hozzátartozótól kérelem? |
-
-| b) Javaslat a kapcsolattartás céljára, módjára és formájára: |
-
-| 9. Eddigi kapcsolatai közül ki(k) az(ok) a személy(ek), akivel/akikkel a kapcsolat fenntartása, ápolása a gyermek érdekeit szolgálja, illetve kivel/kikkel nem? |
-
-| 10. Milyen teendők, körülmények szükségesek a kapcsolattartások megvalósításához? (találkozások megszervezése, mentálhigiénés és egyéb támogatás stb.) |
-
-| 11. | Amennyiben a gyermek életkora indokolja, milyen segítségre van szüksége az önálló élet kialakításához? |
-
-| Feladat | Határidő | Felelős személy(ek) megnevezése |
-
-| 12. | A következő felülvizsgálat javasolt időpontja: |
-
-| 13. | Az értekezleten jelen voltak véleménye az elhelyezési javaslatról és az egyéni elhelyezési tervről (aláírással): |
-
-|  |  | Az elhelyezési javaslattal egyetért | Az elhelyezési javaslatot ellenzi | Az elhelyezési tervvel egyért | Az elhelyezési tervet ellenzi |
-
-|  | Gyermek |  |  |  |  |
-
-|  | Gyám |  |  |  |  |
-
-|  | Területi gyermekvédelmi szakszolgálat |  |  |  |  |
-
-|  | Gyermekjogi képviselő (spec. esetben) |  |  |  |  |
-
-|  | Leendő gondozási hely képviselője |  |  |  |  |
-
-|  | Egyéb meghívott gondozási helyek képviseletében |  |  |  |  |
-
-|  | Más kapcsolattartásra jogosult személy |  |  |  |  |
-
-|  | Vélemények/ellenvélemények részletes kifejtése: |
-
-Útmutató a kitöltéshez
-
-„TESZ-2”
-
-Az adatlap funkciója: a tartós nevelésbe vett gyermek sorsának hosszú távú megtervezését és a végrehajtással kapcsolatos feladatokat tartalmazza. Amennyiben az elhelyezési értekezleten a gyermek elhelyezésére is javaslatot kell tenni, együtt töltendő a TESZ-1 adatlap elhelyezési javaslatával.
-
-Az adatlap kitöltője: a területi gyermekvédelmi szakszolgálat.
-
-A kitöltés ideje: a tartós nevelésbe vételről szóló gyámhivatali határozatban foglalt felkérés szerint, legkésőbb az azt követő 30 napon belül.
-
-Az adatlap továbbítása: a gyámhivatalnak, majd a gyámhivatali elfogadás után a gyámhivatal felhívására a gyermekjóléti szolgálatnak, a területileg illetékes jegyzőnek és az újonnan kijelölt gondozási helynek.
 
 XVII. számú adatlap
 
 „TESZ-3” – Helyzetértékelés
 
-(A TEGYESZ gyámi gondozói tanácsadója tölti ki!)
+(A területi gyermekvédelmi szakszolgálat gyermekvédelmi gyámja tölti ki!)
 
-| Törzsszám: | Név: |
+| Törzsszám: | Név: |  |
 
-| Születési hely, idő: | Anyja születési neve: |
+| Születési hely, idő: |  | Anyja születési neve: |
 
 | Mióta van a gyermek a jelenlegi gondozási helyén? | Jelen helyzetértékelés időpontja: |
 
-| Előző helyzetértékelés időpontja: | Helyzetértékelés oka: |
+| Előző helyzetértékelés időpontja: |  | Helyzetértékelés oka: |
 
-| A helyzetértékelést végző neve: |
+| A helyzetértékelést végző neve: |  |  |
 
-| I. | Az elhelyezés, vagy az előző helyzetértékelés óta a családdal/gyermekkel történt megbeszélések, találkozások, illetve a gyermek ügyében egyéb intézményekkel és személyekkel történt konzultációk felsorolása: |
+| I. Az elhelyezés vagy az előző helyzetértékelés óta a családdal/gyermekkel történt megbeszélések, találkozások, illetve a gyermek ügyében egyéb intézményekkel és személyekkel történt konzultációk felsorolása: |
 
 | Dátum | Kivel? (név, rokonsági fok/intézmény, beosztás) | Hol, milyen módon? |
 
-| II. | A gyermek beilleszkedése a gondozási helyre |
+| II. A gyermek beilleszkedése a gondozási helyre |
 
-| 1. A gyámi-gondozói tanácsadó információi szerint hogyan érzi magát a gyermek a gondozási helyén? |
+| 1. A gyermekvédelmi gyám szerint hogyan érzi magát a gyermek a gondozási helyén? |
 
 | 2. Volt-e a gyermek elhelyezése, az utolsó helyzetértékelés óta változás? |
 
-| – a gondozók személyében: – a segítők személyében: – a társak személyében: – a gyermek elhelyezésében: Ha igen, indokolt volt-e? |
+| – a gondozók személyében: |
+
+| – a segítők személyében: |
+
+| – a társak személyében: |
+
+| – a gyermek elhelyezésében: |
+
+| Ha igen, indokolt volt-e? |
 
 | 3. A gyermek kapcsolatainak alakulása, kötődései a gondozási helyen: |
 
-| 4. Hogyan látja a gyámi-gondozói tanácsadó a gyermek csoportban/nevelőszülői családban elfoglalt helyét (befogadása, beilleszkedése, viszonyulása a gondozó intézményhez/családtagokhoz, elfogadottsága a gondozási helyén)? Hogyan segítette a gyermeket a gyám a beilleszkedésben, a konfliktusok megoldásában? |
+| 4. Hogyan látja a gyermekvédelmi gyám a gyermek csoportban/nevelőszülői családban elfoglalt helyét (befogadása, beilleszkedése, viszonyulása a gondozó intézményhez/családtagokhoz, elfogadottsága a gondozási helyén)? Hogyan segítette a gyermeket a gyermekvédelmi gyám a beilleszkedésben, a konfliktusok megoldásában? |
 
-| 5. A gyámi gondozói tanácsadóként nyújtott segítség: |
+| 5. A gyermekvédelmi gyámként nyújtott segítség: (gyermeknek, nevelőszülőnek, más gondozási helynek, szülőnek) |
 
-| III. | Az egyéni gondozási-nevelési terv elkészítése |
+| III. Az egyéni gondozási-nevelési terv elkészítése |
 
-| 1. Elkészült-e a gyermek egyéni gondozási-nevelési terve, s ha igen, a szükségleteknek megfelelően aktualizálják-e? | Milyen szakembereket vontak be a terv készítésébe, és milyen dokumentumokat használtak fel hozzá? |
+| 1. Elkészült-e a gyermek egyéni gondozási-nevelési terve, és ha igen, a szükségleteknek megfelelően aktualizálják-e? | Milyen szakembereket vontak be a terv készítésébe, és milyen dokumentumokat használtak fel hozzá? |
 
 | 2. Megfelel-e az egyéni gondozási-nevelési terv |
 
-| a) az egyéni elhelyezési tervben foglalt feladatok teljesítésére, |
+| a) az egyéni elhelyezési tervben foglalt feladatok teljesítésére |
 
 | b) a gyermek szükségleteinek biztosítására? |
 
-| 3. A gyámi gondozói tanácsadóként nyújtott segítség: |
-
-| IV. | Az egyéni gondozási-nevelési terv végrehajtása |
+| IV. Az egyéni gondozási-nevelési terv végrehajtása |
 
 | 1. Az egészség, a testi fejlődés biztosítása |
 
@@ -4466,57 +3640,55 @@ XVII. számú adatlap
 
 | 2. A gyermek értelmi fejlődése, intézményes oktatása-nevelése |
 
-| 2/a) | Milyen lehetőségeket biztosít a gyermeknek a gondozási hely a szellemi fejlődése elősegítésére? |
+| 2/a) Milyen lehetőségeket biztosít a gyermeknek a gondozási hely a szellemi fejlődése elősegítésére? |
 
-| aa) tárgyi feltételek (játékok, rajzeszközök, könyvek, videó, dvd, számítógép, egyéb): |
+| aa) tárgyi feltételek (játékok, rajzeszközök, könyvek, videó, DVD, számítógép, egyéb): |
 
 | ab) tevékenységek (közös játékok, kulturális tevékenységek, kirándulások, múzeum-, mozi-, színházlátogatások, egyéb): |
 
-| 2/b) Jelenleg mely gondozási, oktatási, nevelési intézménybe jár, és mióta? Volt-e intézményváltás, s ha volt, mi indokolta? |
+| 2/b) Jelenleg mely gondozási, oktatási, nevelési intézménybe jár, és mióta? Volt-e intézményváltás, és ha volt, mi indokolta? |
 
 | 2/c) A bölcsőde, illetve az oktatási-nevelési intézmény, az ott nyújtott szolgáltatások megfelelnek-e a gyermek szükségleteinek, képességeinek? | Ha a gondozási, oktatási-nevelési intézmény nem felel meg a gyermek szükségleteinek, igényének, milyen módon próbálnak ezen a helyzeten segíteni? |
 
 | 2/d) Amennyiben szükség, igény van rá, biztosítottak-e a gyermek számára a tanulmányi előmenetelét, tehetségének fejlesztését segítő iskolán kívüli foglalkozások, támogatások? | Ha a szükséges iskolán kívüli segítség nem biztosítható, milyen módon próbálnak a helyzeten segíteni? |
 
-| 2/e) Ismeri és figyelembe veszi-e a gyám a gyermek iskoláztatásával, jövőjének megtervezésével kapcsolatban a szülők és a gyermek véleményét? |
+| 2/e) Ismeri és figyelembe veszi-e gyermekvédelmi gyámként a gyermek iskoláztatásával, jövőjének megtervezésével kapcsolatban a szülők és a gyermek véleményét? |
 
 | 3. Történt-e rendkívüli esemény a gyermek életében (krízishelyzet, bűncselekmény, szökés stb.)? |
 
-| 4. A gyámi gondozói tanácsadóként nyújtott segítség: |
+| 4. A gyermekvédelmi gyámként nyújtott segítség: |
 
-| V. | A gyermeki jogok érvényesülése |
+| V. A gyermeki jogok érvényesülése |
 
-| 1. Folyamatosan biztosított-e a gyermek teljes körű ellátása, s ha fennakadások vannak, milyen módon igyekeznek a helyzeten segíteni? |
+| 1. Folyamatosan biztosított-e a gyermek teljes körű ellátása, és ha fennakadások vannak, milyen módon igyekeznek a helyzeten segíteni? |
 
 | 2. Hogyan biztosítják az elhelyezés során a gyermek személyes életterét, a nyugodt pihenési, elkülönülési és tanulási lehetőséget? |
 
 | 3. Társai, gondozói tiszteletben tartják-e a gyermek magánszféráját, levél- és egyéb titokhoz való jogát? |
 
-| 4. Lehetősége van-e a gyermeknek a személyes kapcsolatai szabad ápolására személyesen, telefonon, levélben? Ha voltak e téren nézeteltérései a gyámmal, gondozóval, hogyan rendezték azokat? |
+| 4. Lehetősége van-e a gyermeknek a személyes kapcsolatai szabad ápolására személyesen, telefonon, levélben? Ha voltak e téren nézeteltérései a gyermekvédelmi gyámmal, gondozóval, hogyan rendezték azokat? |
 
-| 5. Ha a gyermek kollégista, figyelemmel kíséri-e a gyámja, gondozója a jogainak ottani érvényesülését, és segít-e az ezzel kapcsolatos konfliktusok feloldásában? |
+| 5. Ha a gyermek kollégista, figyelemmel kíséri-e gyermekvédelmi gyámja, gondozója a jogainak ottani érvényesülését, és segít-e az ezzel kapcsolatos konfliktusok feloldásában? |
 
 | 6. Rendben van-e a gyermek zsebpénzének nyilvántartása? |
 
-| 6/a) Ha a gyermek elmúlt 6 éves, illetve, ha nem kötelezték fejlesztő felkészítésben való részvételre, kifizetik-e részére a zsebpénzét? | 6/b) Ha nem fizethető ki a gyermek részére a zsebpénz, mire, mi módon költik el azt? |
+| 6/a) Ha a gyermek elmúlt 6 éves, illetve ha nem kötelezték fejlesztő felkészítésben való részvételre, kifizetik-e részére a zsebpénzét? | 6/b) Ha nem fizethető ki a gyermek részére a zsebpénz, mire, mi módon költik el azt? |
 
 | 7. Készült-e az eltelt év alatt legalább egy fénykép a gyermekről? |
 
-| 8. Ismeri és figyelembe veszi-e a gyám a szülők és a gyermek gondozásával, ellátásával, életpályájának megtervezésével kapcsolatos véleményét? Ha konfliktusok adódnak e téren, hogyan rendezik azokat? |
+| 8. Ismeri és figyelembe veszi-e a gyermekvédelmi gyám a szülők és a gyermek gondozásával, ellátásával, életpályájának megtervezésével kapcsolatos véleményét? Ha konfliktusok adódnak e téren, hogyan rendezik azokat? |
 
-| 9. Biztosítják-e a gyermeknek az egyéni elhelyezési terv és az egyéni gondozási-nevelési terv szerinti lehetőséget saját etnikai identitása megismeréséhez, annak ápolásához?23 Amennyiben a tervek készítésekor sem ő, sem a szülője nem jelzett ilyen igényt, ismerik-e a jelenlegi véleményét a kérdésről, és segítik-e őt a véleménye kialakításában? |
+| 9. Biztosítják-e a gyermeknek az egyéni elhelyezési terv és az egyéni gondozási-nevelési terv szerinti lehetőséget saját etnikai identitása megismeréséhez, annak ápolásához? Amennyiben a tervek készítésekor sem ő, sem a szülője nem jelzett ilyen igényt, ismerik-e a gyermek jelenlegi véleményét a kérdésről, és segítik-e őt a véleménye kialakításában? |
 
-| 10. Biztosítják-e a gyermeknek az egyéni elhelyezési terv és az egyéni gondozási-nevelési terv szerinti vallásgyakorlás lehetőségét?24 |
-
-| Amennyiben a tervek készítése során sem a gyermek, sem a szülője nem jelzett ilyen igényt, biztosítják-e számára a lehetőséget a vallások megismeréséhez, a szabad vallásválasztáshoz és -gyakorláshoz? Ismerik-e az ilyen irányú igényeit? |
+| 10. Biztosítják-e a gyermeknek az egyéni elhelyezési terv és az egyéni gondozási-nevelési terv szerinti vallásgyakorlás lehetőségét? Amennyiben a tervek készítése során sem a gyermek, sem a szülője nem jelzett ilyen igényt, biztosítják-e a gyermek számára a lehetőséget a vallások megismeréséhez, a szabad vallásválasztáshoz és vallásgyakorláshoz? Ismerik-e a gyermek ilyen irányú igényeit? |
 
 | 11. Milyen módon gyakorolhatja a gyermek a panaszjogát? |
 
-| 12. A gyámi gondozói tanácsadóként nyújtott segítség: |
+| 12. A gyermekvédelmi gyámként nyújtott segítség: |
 
-| VI. | A gyermek és a gyámhivatal határozatában feljogosított személy(ek) kapcsolattartásának alakulása |
+| VI. A gyermek és a gyámhivatal határozatában feljogosított személy(ek) kapcsolattartásának alakulása |
 
-| 1. Rendszeresen élnek-e a feljogosított személyek a kapcsolattartás lehetőségével? Ha nem, tájékoztatják-e az elmaradás okáról a gyermeket és a gyámot? Kérnek-e segítséget a kapcsolattartáshoz? |
+| 1. Rendszeresen élnek-e a feljogosított személyek a kapcsolattartás lehetőségével? Ha nem, tájékoztatják-e az elmaradás okáról a gyermeket, a gyermekvédelmi gyámot és a gondozási helyet? Kérnek-e segítséget a kapcsolattartáshoz? |
 
 | 2. Előfordult-e, hogy a rendszeres kapcsolattartás a gondozóhely egyéb programja, a gyermek elfoglaltsága miatt maradt el? | Ha volt ilyen eset, értesítették-e időben a jogosult személyt, pótolták-e az elmaradt találkozást? |
 
@@ -4528,15 +3700,15 @@ XVII. számú adatlap
 
 | 6. Keresi-e a gondozó a lehetőséget a gyermek szüleivel/a kapcsolattartásra feljogosított személyekkel való találkozásra? Tájékoztatja-e őket a gyermek sorsának alakulásáról, a gyermek örömeiről, bánatairól, fejlődéséről? Mik az ezzel kapcsolatos tapasztalatok? Szívesen veszik-e a szülők a tájékoztatást, mutatnak-e érdeklődést gyermekük élete iránt? |
 
-| 7. Rendelkezik-e információval a gyámi, gondozói tanácsadó a kapcsolattartásra jogosult személyek körülményeiről, az azokban bekövetkezett változásokról? |
+| 7. Milyen információval rendelkezik a gyermekvédelmi gyám a kapcsolattartásra jogosult személyek körülményeiről, az azokban bekövetkezett változásokról? |
 
-| 8. Tartja-e a kapcsolatot a gyám a gyermek szüleit gondozó családgondozóval? (Kapcsolat célja, formája, gyakorisága) |
+| 8. Tartja-e a kapcsolatot a gyermekvédelmi gyám a gyermek szüleit gondozó családgondozóval? (Kapcsolat célja, formája, gyakorisága) |
 
-| 9. Az információk, tapasztalatok birtokában milyennek ítéli a gyámi, gondozói tanácsadó a kapcsolattartásra feljogosított személyek együttműködési készségét? |
+| 9. Az információk, tapasztalatok birtokában milyennek ítéli a gyermekvédelmi gyám a kapcsolattartásra feljogosított személyek együttműködési készségét? |
 
-| 10. A gyámi gondozói tanácsadóként nyújtott segítség: |
+| 10. A gyermekvédelmi gyámként nyújtott segítség: |
 
-| VII. | A gyermek törvényes képviseletével kapcsolatos egyéb feladatok ellátása |
+| VII. A gyermek törvényes képviseletével kapcsolatos egyéb feladatok ellátása Az kinek a feladata: − gyermekvédelmi gyám − egyes gyámi feladatok ellátására gyámként kirendelt nevelőszülő − eseti gyám |
 
 | 1. Megtörtént-e a gyermek hivatalos iratainak beszerzése, rendezése? |
 
@@ -4544,65 +3716,67 @@ XVII. számú adatlap
 
 | 3. Milyen egyéb esetekben volt szükség a törvényes képviselet keretében jognyilatkozat megtételére? A gyermek érdekének megfelelően, rendben megtörtént-e ez? |
 
-| 4. Mely fontos intézményekkel, szakemberekkel tartja a kapcsolatot a gyám a gyermek gondozása, ellátása keretében? Kapcsolattartásának, érdeklődésének intenzitása, módja megfelel-e a gyermek érdekeinek, vagy változtatni kell rajta? |
+| 4. Mely fontos intézményekkel, szakemberekkel tartja a kapcsolatot az egyes gyámi feladatok ellátására gyámként kirendelt nevelőszülő a gyermek gondozása, ellátása keretében? Kapcsolattartásának, érdeklődésének intenzitása, módja megfelel-e a gyermek érdekeinek, vagy változtatni kell rajta a gyermekvédelmi gyám véleménye szerint? |
 
-| 5. Elkészítette-e a gyám a gyámhivatal számára a félévente esedékes gyámi jelentést? |
+| VIII. Vagyonkezelési feladatok ellátása |
 
-| 6. A gyámi gondozói tanácsadóként nyújtott segítség: |
+| 1. a) Időben igényelték-e meg, és rendben kapják-e a gyermek esetleges árvaellátását? | 1. b) Ha az árvaellátás folyósításával nincs minden rendben, mit tesznek a probléma megoldására? |
 
-| VIII. | Vagyonkezelési feladatok ellátása |
+| 2. Volt-e a gyermekvédelmi gyámnak, eseti gyámnak bármiféle egyéb cselekménye a gyermek vagyonával kapcsolatban a gyermek elhelyezése, az utolsó helyzetértékelés óta? |
 
-| 1. a) Időben igényelték-e meg, és rendben kapják-e a gyermek családi pótlékát, esetleges árvaellátását? | 1. b) Ha a családi pótlék/árvaellátás folyósításával nincs minden rendben, mit tesznek a probléma megoldására? |
+| 3. Van-e a gyermeknek olyan vagyona, jövedelme, amelynek kezelése különleges szakértelmet igényel, és el tudja-e látni a gyermekvédelmi gyám ezt a feladatot? |
 
-| 2. Volt-e a gyámnak bármiféle egyéb cselekménye a gyermek vagyonával kapcsolatban a gyermek elhelyezése, az utolsó helyzetértékelés óta? |
-
-| 3. Van-e a gyermeknek olyan vagyona, jövedelme, amelynek kezelése különleges szakértelmet igényel, s el tudja-e látni a gyám ezt a feladatot? |
-
-| 4. A gyámi gondozói tanácsadóként nyújtott segítség: |
-
-| IX. | Következtetések, javaslatok |
+| IX. Következtetések, javaslatok |
 
 | 1. Az információk birtokában milyennek látja a gyermek hazakerülésének esélyeit, hogyan képzeli el a gyermek sorsának alakulását? |
 
-| Javasolja-e a) a gyermek örökbe fogadhatóvá nyilvánításának kezdeményezését? b) gyermek nevelésbe vételének megszüntetését, státuszának módosítását? c) az egyéni elhelyezési terv fenntartását vagy módosítását? d) a gondozási hely megváltoztatását? e) a gyám felmentését, elmozdítását? |
+| Javasolja-e |
 
-| Egyéb javaslatok: |
+| a) a gyermek örökbe fogadhatóvá nyilvánításának kezdeményezését? |
 
-| Az adatlapot készítette: |
+| b) a gyermek nevelésbe vételének megszüntetését? |
 
-|  | Dátum: |  | aláírás: |
+| c) az egyéni elhelyezési terv fenntartását vagy módosítását? |
 
-23 Ezt a részt csak abban az esetben kell kitölteni, ha a szülő, más törvényes képviselő vagy a gyermek igénye alapján az egyéni elhelyezési tervben vagy az egyéni gondozási-nevelési tervben feladatot határoztak meg e tárgykörben.
+| d) a gondozási hely megváltoztatását? |
 
-24 Ezt a részt csak abban az esetben kell kitölteni, ha a szülő, más törvényes képviselő vagy a gyermek igénye alapján az egyéni elhelyezési tervben vagy az egyéni gondozási-nevelési tervben feladatot határoztak meg e tárgykörben.
+| e) a nevelőszülő gyámként való kirendelését az egyes gyámi feladatok ellátására? |
 
-| A Helyzetértékelési adatlapot látták: |
+| f) az egyes gyámi feladatok ellátására gyámként kirendelt nevelőszülő gyámi tisztségből való felmentését vagy felfüggesztését? |
 
-| Gyermek: |
+| Egyéb javaslatok: |  |
 
-| megjegyzés: |
+Az adatlapot készítette:
 
-| Dátum: | aláírás: |
+Dátum: aláírás:
 
-| Gyám: |
+A Helyzetértékelési adatlapot látták:
 
-| megjegyzés: |
+Gyermek:
 
-| Dátum: | aláírás: |
+megjegyzés:
 
-| Nevelőszülő vagy intézményi gondozó (név): |
+Dátum: aláírás:
 
-| megjegyzés: |
+Az egyes gyámi feladatok ellátására gyámként kirendelt nevelőszülő:
 
-| Dátum: | aláírás: |
+megjegyzés:
+
+Dátum: aláírás:
+
+Nevelőszülő vagy intézményi gondozó (név)
+
+megjegyzés:
+
+Dátum: aláírás:
 
 Útmutató a kitöltéshez
 
 „TESZ-3”
 
-Az adatlap funkciója: a területi gyermekvédelmi szakszolgálat által a nevelésbe vett gyermek felülvizsgálata érdekében végzett helyzetértékelés rögzítése.
+Az adatlap funkciója: a gyermekvédelmi gyám által a nevelésbe vett gyermek felülvizsgálata érdekében végzett helyzetértékelés rögzítése.
 
-Az adatlap kitöltője: a területi gyermekvédelmi szakszolgálat gyámi, gondozói tanácsadója.
+Az adatlap kitöltője: a területi gyermekvédelmi szakszolgálat gyermekvédelmi gyámja.
 
 A kitöltés ideje:
 
@@ -4610,149 +3784,15 @@ A kitöltés ideje:
 
 2. a gyámhivatali felkérést követő 15 napon belül.
 
-Az adatlap továbbítása: a gyermekjóléti szolgálatnak, gyámhivatalnak és a gyámnak.
+Az adatlap továbbítása: a gyermekjóléti szolgálatnak, a gyámhivatalnak és a területi gyermekvédelmi szakszolgálatnak.
 
 XVIII. számú adatlap
-
-„TESZ-4” – Helyzetértékelés
-
-(A hivatásos gyám tölti ki!)
-
-| Törzsszám: | Név: |
-
-| Születési hely, idő: | Anyja születési neve: |
-
-| Gondozási hely: | Gyám neve: |
-
-| Mióta van a gyermek a jelenlegi gondozási helyén? | Jelen helyzetértékelés időpontja: |
-
-| Előző helyzetértékelés időpontja: | Helyzetértékelés oka: |
-
-| A helyzetértékelést végzi(k): |
-
-| I.1. Mikor találkozott a gyám a gyermekkel az elhelyezés vagy utolsó helyzetértékelés óta? |
-
-| Dátum | A találkozás körülményei; volt-e lehetősége bizalmasan beszélni a gyermekkel? |
-
-| 2. Mikor járt az elhelyezés vagy utolsó helyzetértékelés óta a gyermek gondozási helyén? |
-
-| Dátum | Ki volt jelen a látogatásnál? |
-
-| 3. Találkozott-e és mikor a gyám a gyermek családtagjaival, és/vagy más kapcsolattartásra feljogosított személyekkel? |
-
-|  | Dátum | Név, rokonsági fok | Milyen módon, miről? |
-
-| II. A gyermek beilleszkedése, közérzete a gondozási helyen |
-
-| 1. A gyermek tényleges tartózkodási helye megegyezik-e a gondozási hellyel, s ha nem, hol tartózkodik, és miért? (pl. kollégium) Milyen gyakran megy haza a gondozási helyre? |
-
-| 2. Tapasztalata szerint hogyan érzi magát jelenleg a gyermek a gondozási helyén? |
-
-| 3. Volt-e változás a gyermek elhelyezésében a gondozási helyre kerülés vagy az utolsó helyzetértékelés óta? |
-
-| III. Az egyéni elhelyezési tervben, valamint az egyéni gondozási-nevelési tervben foglalt feladatok |
-
-| 1. Mennyiben valósultak meg a gyermekre nézve az egyéni elhelyezési tervben megfogalmazott feladatok? |
-
-| 2. Megismerte-e az egyéni gondozási-nevelési tervet, illetve az megfelel-e |
-
-| a) az egyéni elhelyezési tervben foglalt feladatok teljesítésére, |
-
-| b) a gyermek szükségleteinek biztosítására? |
-
-| IV. Az egyéni gondozási-nevelési terv végrehajtása |
-
-| 1. Az egészség, a testi fejlődés biztosítása |
-
-| 1/a) A gyermek általános fizikai állapota, testi fejlettsége, egészségi állapota: |
-
-| 1/b) Megkapta-e és igénybe is veszi-e a gyermek az egészséges testi fejlődéséhez szükséges, állapotának megfelelő kezeléseket, szolgáltatásokat, ellátásokat? Van-e olyan szükséglet, igény, amelynek a kielégítése gondot okoz, megoldatlan, és ha igen, milyen módon próbálták megoldani a problémát, milyen segítségre lenne szükség? |
-
-| 1/c) Megkapja-e a gyermek az egyéni gondozási-nevelési tervben megállapított mentálhigiénés segítséget? Ha nem, mi az oka, és hogyan próbálnak ezen segíteni? |
-
-| 2. A gyermek értelmi fejlődése, intézményes oktatás-nevelése |
-
-| 2/a) Milyen lehetőségeket biztosít a gyermeknek a gondozási hely az értelmi fejlődése, művelődés, tehetséggondozás elősegítésére? |
-
-| 2/b) Jelenleg mely gondozási, oktatási, nevelési intézménybe jár, és mióta? Az itt nyújtott szolgáltatások megfelelnek-e a gyermek szükségleteinek, képességeinek? |
-
-| V. Történt-e rendkívüli esemény a gyermek életében? (Részletezze!) |
-
-| VI. A gyermeki jogok érvényesülése |
-
-| 1. Társai, gondozói tiszteletben tartják-e a gyermek magánszféráját, levél- és egyéb titokhoz való jogát? |
-
-| 2. Lehetősége van-e a gyermeknek a személyes kapcsolatai szabad ápolására személyesen, telefonon, levélben? |
-
-| 3. A gyermek tényleges tartózkodási helyén (kollégium) érvényesülnek-e a gyermek jogai? |
-
-| 4. Biztosított-e a gyermek önállósága a zsebpénzének felhasználásánál? |
-
-| 5. Mennyiben vett részt a gyermek életpályájának megtervezésében illetve kijelölésében? Egyeztetett-e a gyermekkel, a szülővel, a gondozó intézménnyel/személlyel, egyéb intézményekkel? |
-
-| 6. Biztosítják-e a gyermeknek az egyéni elhelyezési terv és az egyéni gondozási-nevelési terv szerinti lehetőséget saját etnikai identitása megismeréséhez, annak ápolásához?25 |
-
-| Amennyiben a tervek készítésekor sem ő, sem a szülője nem jelzett ilyen igényt, ismerik-e a jelenlegi véleményét a kérdésről, és segítik-e őt a véleménye kialakításában? |
-
-| 7. Biztosítják-e a gyermeknek az egyéni elhelyezési terv és az egyéni gondozási-nevelési terv szerinti vallásgyakorlás lehetőségét? 26 |
-
-| Amennyiben a tervek készítése során sem a gyermek, sem a szülője nem jelzett ilyen igényt, biztosítják-e számára a lehetőséget a vallások megismeréséhez, a szabad vallásválasztáshoz és -gyakorláshoz? Ismerik-e az ilyen irányú igényeit? |
-
-| 8. Milyen módon gyakorolhatja a gyermek a panaszjogát? |
-
-| VII. Beszámoló a gyermek és a szülők kapcsolatának alakulásáról: |
-
-| VIII. Beszámoló a szülők és a gyermeket gondozó intézmény, személy együttműködéséről: |
-
-| IX. Milyen információja van a gyámnak a szülők körülményeiben bekövetkezett változásokról? |
-
-|  | X. A gyámi funkcióból eredő egyéb feladatok bemutatása |
-
-|  | 1. Milyen szinten biztosított a gyermek teljes körű ellátása? Jelent-e problémát ennek biztosítása? Milyennek ítéli meg a gyermek gondozását-nevelését? |
-
-|  | 2. A gyermek törvényes képviselete keretében tett jognyilatkozatok: |
-
-|  | 3. Mely intézményekkel, szakemberekkel, milyen rendszerességgel és milyen formában tart kapcsolatot a gyermek ügyében? |
-
-|  | 4. A gyermek vagyonának kezelésével kapcsolatos feladatok, és megtett intézkedések az éves számadás óta: |
-
-|  | 5. Egyéb megjegyzések: |
-
-| XI. Tapasztalatai birtokában javasolja-e a gyám a) a gyermek nevelésbe vételének megszüntetését, státuszának módosítását? b) az egyéni elhelyezési terv fenntartását vagy módosítását? c) a gondozási hely megváltoztatását? d) a gyermek örökbe fogadhatóvá nyilvánításának kezdeményezését? |
-
-| Egyéb javaslatok: |
-
-| Aláírás, dátum: |
-
-25 Ezt a részt csak abban az esetben kell kitölteni, ha a szülő, más törvényes képviselő vagy a gyermek igénye alapján az egyéni elhelyezési tervben vagy az egyéni gondozási-nevelési tervben feladatot határoztak meg e tárgykörben.
-
-26 Ezt a részt csak abban az esetben kell kitölteni, ha a szülő, más törvényes képviselő vagy a gyermek igénye alapján az egyéni elhelyezési tervben vagy az egyéni gondozási-nevelési tervben feladatot határoztak meg e tárgykörben.
-
-Útmutató a kitöltéshez:
-
-„TESZ-4”
-
-Az adatlap funkciója: a nevelésbe vett gyermek hivatásos gyámja féléves beszámolójának és felülvizsgálat előtti helyzetértékelésének rögzítése.
-
-Az adatlap kitöltője: a hivatásos gyám.
-
-A kitöltés ideje:
-
-1. a nevelésbe vételt követő félévenként, illetve a gyámhivatal felkérésére,
-
-2. a gyámhivatali felkérést követő 15 napon belül.
-
-Az adatlap továbbítása:
-
-1. féléves beszámoló alkalmával a gyámhivatalnak,
-
-2. a gyámhivatalnak és a gyermekjóléti szolgálatnak felülvizsgálatkor.
 
 XIX. számú adatlap
 
 „GH-1” – Egyéni gondozási-nevelési terv nevelésbe vétel esetén
 
-(Nevelőszülő, gondozó intézmény/gyám tölti ki!)
+(Nevelőszülő, gondozó intézmény tölti ki!)
 
 | Név: | Törzsszám: |
 
@@ -4768,19 +3808,21 @@ XIX. számú adatlap
 
 | A terv készítésében közreműködő szakemberek: |
 
-| Részt vettek-e a szülők a gyermek egyéni gondozási-nevelési tervének elkészítésében? ⬜ igen ⬜ nem |
+| Részt vettek-e a szülők a gyermek egyéni gondozási-nevelési tervének elkészítésében? | □ igen | □ nem |
 
-| Ha nem, próbálták-e bevonni őket? Miért nem sikerült? |
+| Ha nem, próbálták-e bevonni őket? Miért nem sikerült? |  |  |
+
+| Részt vett-e a gyermekvédelmi gyám a gyermek egyéni gondozási-nevelési tervének elkészítésében? | □ igen | □ nem |
 
 | 1. A gyermek gondozóhelyre történő beilleszkedésének elősegítése |
 
 | a) A gyermek életvitele és szokásai a szülőtől, gyermektől, korábbi gondozótól, gyermekjóléti szolgálattól szerzett információk alapján, az alábbi szempontok figyelembevételével: |
 
-| napirendje (fekvés-ébredés; étkezések ideje); részvétele a házi munkában; tanulási szokásai; kedvenc tevékenységei, játékai, tárgyai, ételei; megszokottól eltérően használt szavai, kifejezései; elalvási, étkezési, tisztálkodási, egyéb szokásai; alkohol- és drogfogyasztás, dohányzás; bűnelkövetés; iskolakerülés; a gyermek pénzhez való viszonya. |
+| − napirendje (fekvés-ébredés, étkezések ideje) − részvétele a házi munkában − tanulási szokásai − kedvenc tevékenységei, játékai, tárgyai, ételei − megszokottól eltérően használt szavai, kifejezései − elalvási, étkezési, tisztálkodási, egyéb szokásai − alkohol- és drogfogyasztás, dohányzás − bűnelkövetés − iskolakerülés − a gyermek pénzhez való viszonya |
 
 | b) A gondozó tervei a gyermek mindennapi életéről az alábbi szempontok figyelembevételével: |
 
-| ébredés-lefekvés időpontja; házimunka; esti hazatérés időpontja; étkezések időpontja; játék, tanulás rendje; közös ünnepek; dohányzás, alkoholfogyasztás; zsebpénz biztosítása és beosztásának segítése a házirend figyelembevételével. |
+| − ébredés-lefekvés időpontja − házimunka − esti hazatérés időpontja − étkezések időpontja − játék, tanulás rendje − közös ünnepek − dohányzás, alkoholfogyasztás − zsebpénz biztosítása és beosztásának segítése a házirend figyelembevételével |
 
 | 2. Az élet különböző területein felmerülő feladatok konkrét megtervezése |
 
@@ -4788,7 +3830,7 @@ XIX. számú adatlap
 
 | A gyermek háziorvosa az elhelyezés után (név, cím, elérhetőség): |
 
-| Ha állandó kezelésre, gyógyszerszedésre, vagy különleges ellátásra van szüksége a gyermeknek, hol és milyen módon biztosíthatják azt? |
+| Ha állandó kezelésre, gyógyszerszedésre vagy különleges ellátásra van szüksége a gyermeknek, hol és milyen módon biztosíthatják azt? |
 
 | Feladat: | Határidő: | Felelős: |
 
@@ -4816,7 +3858,7 @@ XIX. számú adatlap
 
 | 3. Életpálya és szocializáció |
 
-| a) Tanulmányok |
+| a) Tanulmányok |  |  |
 
 | Az oktatás folyamatosságának vagy – a tanulmányok megszakítása esetén – az iskolarendszerbe való újbóli bekapcsolódás biztosítása: |
 
@@ -4842,37 +3884,33 @@ XIX. számú adatlap
 
 | Feladat: | Határidő: | Felelős: |
 
-| Munkába állás: |
+| Munkába állás: |  |  |
 
 | Feladat: | Határidő: | Felelős: |
 
-| c) Etnikai, nyelvi, kulturális szempontok27 |
+| c) Etnikai, nyelvi, kulturális szempontok |
 
 | Amennyiben az etnikai hovatartozásból feladatok adódnak, azok megnevezése: |
 
-| Igény: |
+| Igény: |  |  |
 
 | Feladat: | Határidő: | Felelős: |
 
-| A fenti különleges adat kezeléséhez hozzájárulok: |
+| A fenti különleges adat kezeléséhez hozzájárulok: |  |  |
 
-|  | ..……………………………………… |
+|  | ........................................................................ szülő, más törvényes képviselő aláírása |
 
-|  | szülő, más törvényes képviselő aláírása |
+| d) Vallás – pl. vallási ünnepek, szokások |  |  |
 
-| d) Vallás – pl. vallási ünnepek, szokások28 |
-
-| Igény: |
+| Igény: |  |  |
 
 | Feladat: | Határidő: | Felelős: |
 
-| A fenti különleges adat kezeléséhez hozzájárulok: |
+| A fenti különleges adat kezeléséhez hozzájárulok: |  |  |
 
-|  | ..……………………………………… |
+|  | ........................................................................ szülő, más törvényes képviselő aláírása |
 
-|  | szülő, más törvényes képviselő aláírása |
-
-| e) Társadalmi értékek megismertetése, erkölcsi értékrend közvetítése/alakítása, családi életre nevelés, önállóságra nevelés, munkára nevelés, felnőtt élet előkészítése, (utógondozás előkészítése), szexuális életre történő felkészítés: |
+| e) Társadalmi értékek megismertetése, erkölcsi értékrend közvetítése/alakítása, családi életre nevelés, önállóságra nevelés, munkára nevelés, felnőtt élet előkészítése (utógondozás előkészítése), szexuális életre történő felkészítés: |
 
 | Célok: |
 
@@ -4880,27 +3918,23 @@ XIX. számú adatlap
 
 | f) Kultúra – pl. étkezés, öltözködés, viselkedés, életstílus: |
 
-| Igények: |
+| Igények: |  |  |
 
-| Feladatok: |
+| Feladatok: |  |  |
 
-| Megállapodások/vállalások: |
+| Megállapodások/vállalások: |  |  |
 
-| g) Szabadidős tevékenység: |
+| g) Szabadidős tevékenység: |  |  |
 
-| Cél: |
+| Cél: |  |  |
 
 | Feladat: | Határidő: | Felelős: |
 
 | Hobbik, speciális tevékenységek és érdeklődés: |
 
-| Igény: |
+| Igény: |  |  |
 
 | Feladat: | Határidő: | Felelős: |
-
-27 A szülő vagy más törvényes képviselő írásbeli hozzájárulása esetén tölthető ki. A kitöltés során figyelemmel kell lenni a korlátozottan cselekvőképes, illetve az ítélőképessége birtokában lévő cselekvőképtelen gyermek véleményére. A szülőt, más törvényes képviselőt és a gyermeket tájékoztatni kell az adatközlés önkéntességéről.
-
-28A szülő vagy más törvényes képviselő írásbeli hozzájárulása esetén tölthető ki. A kitöltés során figyelemmel kell lenni a korlátozottan cselekvőképes, illetve az ítélőképessége birtokában lévő cselekvőképtelen gyermek véleményére. A szülőt, más törvényes képviselőt és a gyermeket tájékoztatni kell az adatközlés önkéntességéről.
 
 | Sorolja fel azokat a szabadidős, társadalmi, illetve hobbitevékenységeket, amelyeket korábban végzett, de a jelenlegi helyen nem folytathat a gyermek és indokolja meg, miért nem! |
 
@@ -4912,67 +3946,67 @@ XIX. számú adatlap
 
 | Feladat: | Határidő: | Felelős: |
 
-| Igényel-e a fenti feladatok ellátása külön anyagi ráfordítást a gondozó helytől? |
+| Igényel-e a fenti feladatok ellátása külön anyagi ráfordítást a gondozóhelytől? |
 
-| 4. Eddig nem rögzített, előrelátható gyámi feladatok tervezése: |
+| 4. Eddig nem rögzített, előrelátható gyermekvédelmi gyámi feladatok tervezése: |
 
-| Alulírottak a terv készítésében részt vettek: |
+Alulírottak a terv készítésében részt vettek:
 
-|  | Elkészítésért felelős szakember: |
+Elkészítésért felelős szakember:
 
-|  | megjegyzés: |
+megjegyzés:
 
-|  | aláírás: |  | dátum: |
+dátum: aláírás:
 
-|  | Gyermek (ha kora és értelmi képessége megfelelő): |
+Gyermek (ha kora és értelmi képessége megfelelő):
 
-|  | megjegyzés: |
+megjegyzés:
 
-|  | aláírás: |  | dátum: |
+dátum: aláírás:
 
-|  | Anya: |
+Anya:
 
-|  | megjegyzés: |
+megjegyzés:
 
-|  | aláírás: |  | dátum: |
+dátum: aláírás:
 
-|  | Apa: |
+Apa:
 
-|  | megjegyzés: |
+megjegyzés:
 
-|  | aláírás: |  | dátum: |
+dátum: aláírás:
 
-|  | Egyéb rokon: |
+Egyéb rokon:
 
-|  | megjegyzés: |
+megjegyzés:
 
-|  | aláírás: |  | dátum: |
+dátum: aláírás:
 
-| Egyéb szakemberek: |
+Egyéb szakemberek:
 
-|  | Név: |
+Név:
 
-|  | megjegyzés: |
+megjegyzés:
 
-|  | aláírás: |  | dátum: |
+dátum: aláírás:
 
-|  | Név: |
+Név:
 
-|  | megjegyzés: |
+megjegyzés:
 
-|  | aláírás: |  | dátum: |
+dátum: aláírás:
 
-|  | Név: |
+Név:
 
-|  | megjegyzés: |
+megjegyzés:
 
-|  | aláírás: |  | dátum: |
+dátum: aláírás:
 
-|  | Név: |
+Név:
 
-|  | megjegyzés: |
+megjegyzés:
 
-|  | aláírás: |  | dátum: |
+dátum: aláírás:
 
 Útmutató a kitöltéshez
 
@@ -4982,93 +4016,23 @@ Az adatlap funkciója: a nevelésbe vett gyermek egyéni gondozási-nevelési te
 
 Az adatlap kitöltője: a nevelőszülő és nevelőszülői tanácsadó vagy a gondozó intézmény/gyám.
 
-A kitöltés ideje: Az adatlap a gyermekjóléti szolgálat által töltött adatlapok és a gyámhivatal által jóváhagyott elhelyezési javaslat és elhelyezési terv (TESZ-1, TESZ-2) kézhezvételétől számított 30 napon belül kitöltendő, azt követően pedig – szükség szerint pótlapon –folyamatosan bővíthető, módosítható.
+A kitöltés ideje: az adatlap a gyermekjóléti szolgálat által töltött adatlapok és a gyámhivatal által jóváhagyott elhelyezési javaslat és elhelyezési terv kézhezvételétől számított 30 napon belül kitöltendő, azt követően pedig – szükség szerint pótlapon – folyamatosan bővíthető, módosítható.
 
 Az adatlap továbbítása: a területi gyermekvédelmi szakszolgálat és a gyermekjóléti szolgálat részére.
 
 XX. számú adatlap
 
-„GH-2” – Családi kapcsolatok, családgondozás tervezése nevelésbe vétel esetén
-
-(A gondozó intézmény családgondozója/nevelőszülői tanácsadó tölti ki!)
-
-| Név: | Törzsszám: |
-
-| Névváltozás (dátummal): |
-
-| A gondozás kezdete: | A terv készítésének ideje: |
-
-| A gondozás helye: | A terv készítőjének neve: |
-
-| A terv készítésében közreműködő szakemberek: |
-
-| A kapcsolattartás helye: |
-
-| A gyermek családját gondozó gyermekjóléti szolgálat családgondozójának a neve: |
-
-| A szakellátás családgondozója első látogatásának időpontja az illetékes gyermekjóléti szolgálatnál: | A szakellátás családgondozója első látogatásának időpontja a gyermek családjánál: |
-
-| I. A gondozott gyermek kapcsolattartásának tervezése |
-
-| 1. A szülő-gyermek kapcsolattartása a határozat szerint: |
-
-| 2. Ismeri-e a szülő a gondozási hely kapcsolattartásra vonatkozó szabályait? Ha nem, miért nem? igen ⬜nem ⬜ |
-
-| 3. Tud-e a szülő a szabályokban megfogalmazottak szerint kapcsolatot tartani a gyermekkel? Ha nem, miért nem? igen ⬜nem ⬜ |
-
-| 4. Mi a teendő ezzel kapcsolatban? |
-
-| 5. A gyermek felkészítése a családdal való kapcsolattartásra: |
-
-| Határidő(k): | Felelős(ök): |
-
-| 6. A gyermek és családja közötti egymás elfogadására irányuló feladatok: |
-
-| Határidő(k): | Felelős(ök): |
-
-| 7. Egyéb kapcsolattartásra jogosultakkal való kapcsolatok ápolása: |
-
-| Határidő(k): | Felelős(ök): |
-
-| 8. Szükséges-e a családgondozó részvétele a találkozókon? Ha igen, mi az oka? |
-
-| 9. Ki és milyen módon értesíti a szülőt vagy a gyermeket akadályoztatás esetén? |
-
-| Határidő(k): | Felelős(ök): |
-
-| 10. Hogyan gondoskodnak a kapcsolattartás pótlásáról? Ki a felelős? |
-
-| II. A gyermek felkészítése a családba való visszakerülésre: |
-
-| Határidő(k): | Felelős(ök): |
-
-| III. A családgondozó és a gyermek családja közötti együttműködés módja, formája, a látogatások tervezése: |
-
-| Dátum | Aláírások |
-
-Útmutató a kitöltéshez
-
-„GH-2”
-
-Az adatlap funkciója: az átmeneti nevelésbe vett gyermek és szülei kapcsolattartását segítő tevékenység tervezése, rögzítése.
-
-Az adatlap kitöltője: A gondozó intézmény családgondozója/nevelőszülői tanácsadó.
-
-A kitöltés ideje: megegyezik a GH-1 kitöltésével.
-
-Az adatlap továbbítása: külön kérésre továbbítandó.
-
 XXI. számú adatlap
 
 „GH-3” – Helyzetértékelés
 
-(A gyám és a gondozó tölti ki, nevelőszülői ellátás esetén a nevelőszülői tanácsadóval együtt!)
+(A gondozó intézmény tölti ki, nevelőszülői ellátás esetén a nevelőszülői tanácsadó a nevelőszülővel együtt!)
 
 | Név: | Törzsszám: |
 
 | Születési hely, idő: | Anyja születési neve: |
 
-| Gondozási hely: | Gyám neve: |
+| Gondozási hely: | Gyermekvédelmi gyám neve: |
 
 | Mióta van a gyermek a jelenlegi gondozási helyén? | Jelen helyzetértékelés időpontja: |
 
@@ -5076,23 +4040,25 @@ XXI. számú adatlap
 
 | A helyzetértékelést végzi(k): |
 
-| I.1. | Mely intézményekkel, szakemberekkel találkozott, beszélt a gondozó a gyermek ügyében az elhelyezés, vagy az előző helyzetértékelés óta? |
+I.1. Mely intézményekkel, szakemberekkel találkozott, beszélt a gondozó a gyermek ügyében az elhelyezés vagy az előző helyzetértékelés óta?
 
-|  | Dátum | Intézmény és/vagy szakember | Milyen módon, miről? |
+| Dátum | Intézmény és/vagy szakember | Milyen módon, miről? |
 
-|  | 2. Találkozott-e és mikor a gondozó a gyermek családtagjaival, és/vagy más kapcsolattartásra jogosult személyekkel? |
+I.2. Találkozott-e és mikor a gondozó a gyermek családtagjaival és/vagy más kapcsolattartásra jogosult személyekkel?
 
-|  | Dátum | Név, rokonsági fok | Milyen módon? |
+| Dátum | Név, rokonsági fok | Milyen módon? |
 
-|  | II. | A gyermek beilleszkedése, közérzete a gondozási helyen |
+| II. A gyermek beilleszkedése, közérzete a gondozási helyen |
 
-|  | 1. A gyermek tényleges tartózkodási helye megegyezik-e a gondozási hellyel, s ha nem, hol tartózkodik (pl. kollégium), és miért? Milyen gyakran megy haza a gondozási helyre? 2. Tapasztalatuk szerint hogyan érzi magát jelenleg a gyermek a gondozási helyén? |
+| 1. A gyermek tényleges tartózkodási helye megegyezik-e a gondozási hellyel, és ha nem, hol tartózkodik (pl. kollégium), és miért? Milyen gyakran megy haza a gondozási helyre? |
 
-|  | 3. Hogyan értékeli a gyermek gondozási helyére történt befogadását, beilleszkedését, a közösségben elfoglalt helyét? Ha voltak nehézségei, hogyan támogatta, milyen segítséget adott neki a gondozója? |
+| 2. Tapasztalatuk szerint hogyan érzi magát jelenleg a gyermek a gondozási helyén? |
+
+| 3. Hogyan értékeli a gyermek gondozási helyére történt befogadását, beilleszkedését, a közösségben elfoglalt helyét? Ha voltak nehézségei, hogyan támogatta, milyen segítséget adott neki a gondozója? |
 
 | III. Mennyiben valósultak meg az egyéni gondozási-nevelési tervben megfogalmazott feladatok? |
 
-| IV. | Milyen változások tapasztalhatók a gyermek életében az elhelyezés illetve az utolsó helyzetértékelés óta? |
+| IV. Milyen változások tapasztalhatók a gyermek életében az elhelyezés, illetve az utolsó helyzetértékelés óta? |
 
 | 1. Testi fejlődés, fizikai, egészségi állapot (beleértve a fogyatékosságot is) alakulása: (Hogyan segíti a gyermeket a gondozó az egészsége megőrzésében, az egészséges életmód kialakításában? Napjában hányszor, hol étkezik a gyermek? Ösztönzi-e a testmozgásra, sportolásra?) |
 
@@ -5118,17 +4084,19 @@ XXI. számú adatlap
 
 | 8. Történt-e rendkívüli esemény az elhelyezés, utolsó helyzetértékelés óta (szökés, bűncselekmény, krízishelyzet stb.)? |
 
-| V. | A gyermek élete a gondozóhelyen |
+| V. A gyermek élete a gondozóhelyen |
 
-| 1. Történt-e változás a gyermek elhelyezésében – fizikai környezet, szobatársak, a gondozási helyen élő személyek tekintetében – a gondozás kezdete illetve az utolsó helyzetértékelés óta? A változás oka, és az milyen hatással volt a gyermekre? |
+| 1. Történt-e változás a gyermek elhelyezésében – fizikai környezet, szobatársak, a gondozási helyen élő személyek tekintetében – a gondozás kezdete, illetve az utolsó helyzetértékelés óta? |
 
-| 2. Milyen a gyermek kötődése nevelőszüleihez/intézményi gondozóihoz, s van-e ebben változás? Van-e igénye bizalmas beszélgetésre, problémái megosztására valakivel a gondozói közül, és van-e erre lehetőség? |
+| A változás oka, és az milyen hatással volt a gyermekre? |
+
+| 2. Milyen a gyermek kötődése nevelőszüleihez/intézményi gondozóihoz, és van-e ebben változás? Van-e igénye bizalmas beszélgetésre, problémái megosztására valakivel a gondozói közül, és van-e erre lehetőség? |
 
 | 3. Milyen a gondozó(k) nevelési stílusa? Tudnak-e segíteni a gyermeknek személyiségkorrekciójában? Tiszteletben tartják-e a nevelés során a gyermek személyiségi jogait, méltóságát? |
 
 | 4. Van-e igény és lehetőség a gyermek és a gondozók részéről a közös tevékenységekre: ház körüli munka, barkácsolás, játék, külső programok stb.? |
 
-| VI. | A gyermek kapcsolatai |
+| VI. A gyermek kapcsolatai |
 
 | 1. Milyen módon és rendszerességgel élt a szülő, illetve más kapcsolattartásra jogosult személy a kapcsolattartás jogával? |
 
@@ -5144,41 +4112,35 @@ XXI. számú adatlap
 
 | Egyéb fontos személyekkel: |
 
-| VII. | A szülők és a gyám/gondozó együttműködésének bemutatása |
+| VII. A szülők és a gondozó együttműködésének bemutatása |
 
-| 1. Törekszik-e a gyám/gondozó a szülőkkel való együttműködésre? Hol, mikor találkozott velük utoljára, illetve mikor, milyen módon próbálta utoljára felvenni velük a kapcsolatot? Milyen támogatást kapott a kapcsolattartásra jogosult szülő, illetve személy a gondozóktól? |
+| 1. Törekszik-e a gondozó a szülőkkel való együttműködésre? Hol, mikor találkozott velük utoljára, illetve mikor, milyen módon próbálta utoljára felvenni velük a kapcsolatot? Milyen támogatást kapott a kapcsolattartásra jogosult szülő, illetve személy a gondozóktól? |
 
 | 2. Milyen a szülők együttműködési készsége? A kapcsolattartás szabályozása megfelel-e az érdekeiknek és a lehetőségeiknek? |
 
-| 3. Információk a szülőkről/azokról, akikhez a gyermek visszagondozható Családgondozó/nevelőszülői tanácsadó munkájának tapasztalatai alapján a szülők/más személyek – akikhez a gyermek visszagondozható – magatartásában, életvitelében, körülményeiben beállt változások |
+| 3. Információk a szülőkről/azokról, akikhez a gyermek visszagondozható Családgondozó/nevelőszülői tanácsadó munkájának tapasztalatai alapján a szülők/más személyek – akikhez a gyermek visszagondozható – magatartásában, életvitelében, körülményeiben beállt változások. |
 
-| Ezt az oldalt abban az esetben kell csak kitölteni, ha a gondozó a gyermek gyámja is. |
+Ezt az oldalt abban az esetben kell csak kitölteni, ha van a gyermeknek kapcsolattartásra feljogosított hozzátartozója, akihez visszagondozható.
 
-|  | A gyámi funkcióból eredő egyéb feladatok bemutatása |
-
-|  | 1. Milyen szinten biztosított a gyermek teljes körű ellátása? Jelent-e problémát ennek biztosítása? |
-
-|  | 2. A gyermek törvényes képviselete keretében tett jognyilatkozatok: |
-
-|  | 3. Mely intézményekkel, szakemberekkel, milyen rendszerességgel és milyen formában tart kapcsolatot a gyermek gondozása, ellátása keretében? Tartja-e a kapcsolatot a vér szerinti családot gondozó családgondozóval? |
-
-|  | 4. A gyermek vagyonának kezelésével kapcsolatos feladatok (az éves számadás óta): Vezetik-e a gyermek zsebpénzének nyilvántartását? |
-
-|  | 5. Mennyiben valósultak meg a gyermekre nézve az egyéni elhelyezési tervben megfogalmazott feladatok? |
-
-|  | 6. Sikerült-e a gyámnak a mindennapi munkájában érvényesíteni a gyermeki jogokat: a gyermek emberi méltóságának tiszteletben tartását, a gyermek személyiségének kibontakozását, fejlődését, önálló életre nevelését, társadalomba beilleszkedését? |
-
-|  | 7. Egyéb megjegyzések: |
-
-| VIII. | Következtetések, javaslatok |
+| VIII. Következtetések, javaslatok |
 
 | 1. Az információk birtokában milyennek látja a gyermek hazakerülésének esélyeit, hogyan képzeli el a gyermek sorsának alakulását? |
 
-| Javasolja-e a) a gyermek örökbe fogadhatóvá nyilvánításának kezdeményezését? b) gyermek nevelésbe vételének megszüntetését, státuszának módosítását? b) az egyéni elhelyezési terv fenntartását vagy módosítását? c) a gondozási hely megváltoztatását? d) a gyám felmentését, elmozdítását? |
+| Javasolja-e |
+
+| a) a gyermek örökbe fogadhatóvá nyilvánításának kezdeményezését? |
+
+| b) gyermek nevelésbe vételének megszüntetését, státuszának módosítását? |
+
+| c) az egyéni elhelyezési terv fenntartását vagy módosítását? |
+
+| d) a gondozási hely megváltoztatását? |
+
+| e) a gyermekvédelmi gyám felmentését, elmozdítását? |
 
 | Egyéb javaslatok: |
 
-| Az adatlapot készítették – dátum, név, aláírás: |
+Az adatlapot készítették – dátum, név, aláírás:
 
 Útmutató a kitöltéshez
 
@@ -5186,7 +4148,7 @@ XXI. számú adatlap
 
 Az adatlap funkciója: a nevelésbe vett gyermeket gondozó személy, intézmény felülvizsgálat előtti beszámolója.
 
-Az adatlap kitöltője: a nevelőszülő a nevelőszülő tanácsadóval együtt vagy a gyermeket gondozó intézmény.
+Az adatlap kitöltője: a gyermeket gondozó intézmény, nevelőszülői ellátás esetén a nevelőszülői tanácsadó a nevelőszülővel együtt.
 
 A kitöltés ideje: a gyámhivatal felkérésére 15 napon belül.
 
@@ -5194,116 +4156,5 @@ Az adatlap továbbítása: felülvizsgálat esetén a gyámhivatal és a gyermek
 
 XXII. számú adatlap
 
-„GYH” – Felülvizsgálat
-
-(A gyámhivatal munkatársa tölti ki!)
-
-| Név: | Törzsszám: |
-
-| Születési hely, idő: | Anyja születési neve: |
-
-| Gondozási hely: | Előző felülvizsgálat időpontja: |
-
-| Jelen felülvizsgálat időpontja: | A felülvizsgálatot végzi: |
-
-| Felülvizsgálat oka: kötelező éves / féléves / rendkívüli |
-
-| I. Felülvizsgálat előtti tájékozódás |
-
-| 1. A felülvizsgálat okai, kezdeményezője: |
-
-| 2. Megkapta-e a felülvizsgálatot végző a felülvizsgálat előkészítéséhez a helyzetértékelő adatlapokat, javaslatokat a következő intézményektől/személyektől? |
-
-| Gyermekjóléti szolgálat | igen | nem |
-
-| Gyám | igen | nem |
-
-| Hivatásos gyám | igen | nem |
-
-| Gondozó intézmény | igen | nem |
-
-| Nevelőszülő és nevelőszülői tanácsadó | igen | nem |
-
-| Gyámi-gondozói tanácsadó (gyermekvédelmi szakszolgálattól) | igen | nem |
-
-| Megyei/fővárosi gyermekvédelmi szakértői bizottság | igen | nem |
-
-| Országos gyermekvédelmi szakértői bizottság | igen | nem |
-
-| 3. A felülvizsgálathoz szereztek-e be más szakvéleményt, szakértői véleményt, egyéb véleményt? Milyen jellegűt és kiről? |
-
-| 4. Ismeri-e a gyermek, a szülő, illetve az a személy, akihez a gyermek visszagondozható a fenti helyzetértékeléseket, szakvéleményeket? Elfogadta-e a szülő, illetve az a személy, akihez a gyermek visszagondozható az abban foglaltakat? Mi volt a véleménye? |
-
-| 5. a) Terjesztett-e be kérelmet a gyermek és az mire irányult?igen nem |
-
-| b) Terjesztett-e be a szülő kérelmet és az mire irányult?igen nem |
-
-| c) Terjesztett-e be kérelmet az a személy, akihez a gyermek visszagondozható és az mire irányult?igen nem |
-
-| d) Egyéb kérelmek: |
-
-| 6. A gyermek gondozási díjának megfizetésével kapcsolatos információk, nyilatkozatok, igazolások: |
-
-| II. Felülvizsgálati tárgyalás |
-
-| 1. A tárgyalás indoka: |
-
-| 2. Tárgyalás helye, ideje: |
-
-| 3. Tárgyaláson résztvevők név szerint: |
-
-| • | gyermek |
-
-| • | szülő(k) |
-
-| • | gyám |
-
-| • | gondozó intézmény |
-
-| • | nevelőszülő |
-
-| • | gyermekjóléti szolgálat |
-
-| • | területi gyermekvédelmi szakszolgálat részéről |
-
-| • | megyei/fővárosi szakértői bizottság képviselője |
-
-| • | országos szakértői bizottság képviselője |
-
-| • | egyéb személyek |
-
-| 4. Tárgyaláson elhangzott fontosabb megállapítások (a gyermek nevelésbe vételének fenntartására, megszüntetésére, a gondozási hely megfelelőségére, a gyám tevékenységére, a gyermek szüleivel, illetve más jogosult személlyel való kapcsolattartásra stb.) |
-
-| III. Felülvizsgálat összegzése |
-
-| 1. Megszüntethető-e a nevelésbe vétel? |
-
-| igen |
-
-| Milyen formában? |
-
-| nem |
-
-| Oka: |
-
-| Várhatóan mennyi ideig fog tartani? |
-
-| 2. A nevelésbe vétel megszüntetésére irányuló egyéni elhelyezési tervben meghatározott feltételeket a szülő ill. gyermek teljesítette-e? Ha nem, miben nem? |
-
-| 3. A gyermek egyéni szükségleteinek megfelelő-e az eddig nyújtott ellátási forma, figyelembe véve a TESZ-1 adatlapban foglaltakat? Ha nem, miben szükséges változtatni? |
-
-| 4. A gyermek gondozási helyének megváltoztatása szükséges-e? Ha igen, mely gondozási helyre? |
-
-| 5. A gyám tevékenységének értékelése. Szükséges-e a gyám felmentése, vagy elmozdítása és új gyám kirendelése? A gyám/új gyám személye, feladatai: |
-
-| 6. A gyermeknek a szüleivel, illetve más kapcsolattartásra jogosult személlyel való kapcsolattartása megfelelő-e, illetve szükséges-e annak módosítása és milyen formában? |
-
-| 7. A gondozási hely és a szülő kapcsolata, együttműködése, problémák: |
-
-| 8. A gyámhivatal által teendő intézkedések (perindítás, a szülői felügyelet megszüntetése, örökbefogadhatóvá nyilvánításról döntés stb.): |
-
-| 9. Az egyéni elhelyezési tervben foglaltak teljesültek-e? Az egyéni elhelyezési terv fenntartása vagy módosítása szükséges-e? Ha igen, mely pontokban? |
-
-| 10. Következő felülvizsgálat időpontja: |
-
-[^14]: A 2. számú mellékletet a 251/2006. (XII. 6.) Korm. rendelet 4. §-a iktatta be, szövege a 174/2012. (VII. 26.) Korm. rendelet 14. § f)–k) pontjai, a 93. § (1) bekezdés f) pont fb) és fc) alpontja szerint módosított szöveg.
+[^20]: Ha a támogatott személynek több támogatója van, az adatlapot minden támogató tekintetében külön-külön ki kell tölteni.
+[^21]: A 2. számú mellékletet a 251/2006. (XII. 6.) Korm. rendelet 4. §-a iktatta be, szövege a 174/2012. (VII. 26.) Korm. rendelet 14. § f)–k) pontjai, a 93. § (1) bekezdés f) pont fb) és fc) alpontja, a 71/2014. (III. 13.) Korm. rendelet 8. § (2) bekezdése, 10. § (1) bekezdés d) pontja szerint módosított szöveg.
