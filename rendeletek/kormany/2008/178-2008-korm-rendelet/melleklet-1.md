@@ -1,3 +1,5 @@
+## 18. §[^28] E rendeletnek az egyes magánjogi tárgyú kormányrendeleteknek az új Polgári Törvénykönyv hatálybalépésével összefüggő módosításáról szóló 68/2014. (III. 13.) Korm. rendelettel (a továbbiakban: Módr2.) módosított 10/A. § (1) bekezdés a) pontját a 2014. március 15-én folyamatban lévő ügyekben is alkalmazni kell. E rendeletnek a Módr2. által hatályon kívül helyezett 3. § (5) bekezdését a 2014. március 15-én folyamatban lévő ügyekben sem kell alkalmazni.
+
 1. számú melléklet a 178/2008. (VII. 3.) Korm. rendelethez
 
 ## A kisajátítási terv elkészítésének és a kisajátítás földmérési munkáira vonatkozó előírások
@@ -6,7 +8,7 @@ I. Általános szabályok
 
 1. A kisajátítás földmérési munkáit az Egységes Országos Vetületi rendszerben, numerikusan kell elvégezni.
 
-2.[^24] A földmérési munkarészeket a földmérési rendeletben meghatározott formában kell leadni a földhivatalnak.
+2.[^29] A földmérési munkarészeket a földmérési rendeletben meghatározott formában kell leadni a földhivatalnak.
 
 3. A kisajátítási vázrajzot olyan adatformátumban kell elkészíteni, amilyen adatformátumban a földhivatal a térképi adatokat szolgáltatta.
 
@@ -14,7 +16,7 @@ II. A kisajátítási terv elkészítésének és a kisajátítás földmérési
 
 1. Adatgyűjtés
 
-1.1.[^25] A földmérő megkeresésére a kisajátítással érintett ingatlanokról a földhivatal elektronikus formában, írásvédett (tovább nem írható) adathordozón
+1.1.[^30] A földmérő megkeresésére a kisajátítással érintett ingatlanokról a földhivatal elektronikus formában, írásvédett (tovább nem írható) adathordozón
 
 a) az ingatlan-nyilvántartási térképi adatbázisból kivágatot készít;
 
@@ -24,15 +26,15 @@ A digitális térképi állománynak az előzetes változásokat is tartalmaznia
 
 1.2. Ha a kisajátítással érintett területről új állami földmérési alaptérkép készül (és az állami átvételi vizsgálat már megkezdődött), úgy az adatokat a kétféle állapotnak megfelelően kell szolgáltatni.
 
-1.3.[^26] Az 1.1. szerinti adatok átadása kísérő bizonylattal történik, amely tartalmazza a kiadás helyét és időpontját (dátumát), az adathordozó azonosítóját, az 1.1 alpont a) pontja szerinti adatállomány byte-ban meghatározott méretét, az 1.4. alpont szerinti hitelesítési záradékot, továbbá a kiadmányozásra jogosult adatszolgáltató nevét (nyomtatott betűvel) és aláírását, valamint az adatszolgáltató szerv körbélyegzőjét. A kísérő bizonylat egy példányát a földhivatalnak 10 évig meg kell őriznie. Igény esetén – költségtérítés ellenében – az adathordozót a földhivatal biztosítja.
+1.3.[^31] Az 1.1. szerinti adatok átadása kísérő bizonylattal történik, amely tartalmazza a kiadás helyét és időpontját (dátumát), az adathordozó azonosítóját, az 1.1 alpont a) pontja szerinti adatállomány byte-ban meghatározott méretét, az 1.4. alpont szerinti hitelesítési záradékot, továbbá a kiadmányozásra jogosult adatszolgáltató nevét (nyomtatott betűvel) és aláírását, valamint az adatszolgáltató szerv körbélyegzőjét. A kísérő bizonylat egy példányát a földhivatalnak 10 évig meg kell őriznie. Igény esetén – költségtérítés ellenében – az adathordozót a földhivatal biztosítja.
 
-1.4.[^27] Az 1.1. alpont szerint átadott adatok tekintetében a földhivatal az 1.3. alpont szerinti kísérőbizonylaton a következő hitelesítési záradékkal tanúsítja az adatok megfelelőségét: „Az átadott adatok az ingatlan-nyilvántartás, illetve az ingatlan-nyilvántartási térképi adatbázis adataival a kiadását megelőző napig megegyeznek.
+1.4.[^32] Az 1.1. alpont szerint átadott adatok tekintetében a földhivatal az 1.3. alpont szerinti kísérőbizonylaton a következő hitelesítési záradékkal tanúsítja az adatok megfelelőségét: „Az átadott adatok az ingatlan-nyilvántartás, illetve az ingatlan-nyilvántartási térképi adatbázis adataival a kiadását megelőző napig megegyeznek.
 
 2. A kisajátításra kerülő terület elhatárolása és töréspontjának megjelölése
 
-2.1.[^28] A záradékolt kisajátítási vázrajz kisajátítási határvonalát az érintett tulajdonos kérésére ki kell tűzni. A határvonal főbb töréspontjait véglegesen a beruházás megvalósulásakor kell megjelölni a 2.2. pont szerint.
+2.1.[^33] A záradékolt kisajátítási vázrajz kisajátítási határvonalát az érintett tulajdonos kérésére ki kell tűzni. A határvonal főbb töréspontjait véglegesen a beruházás megvalósulásakor kell megjelölni a 2.2. pont szerint.
 
-2.2.[^29] A beruházás megkezdésekor a kisajátításra kerülő terület határvonalának főbb töréspontjait
+2.2.[^34] A beruházás megkezdésekor a kisajátításra kerülő terület határvonalának főbb töréspontjait
 
 a) külterületen 15 Ű 15 cm oldalélű, négyzet keresztmetszetű, tetején sima, vagy 15 cm oldalhosszúságú egyenlő oldalú háromszög keresztmetszetű, letompított élű, mindkét fajtánál 60 cm hosszú és a földből kiálló részén olajfestékkel fehérre mázolt vagy meszelt vasbeton oszloppal,
 
@@ -44,13 +46,13 @@ kell véglegesen megjelölni.
 
 2.3. A határvonal kővel megjelölt szomszédos pontjai között a legnagyobb távolság 200 m lehet; ennek megfelelően hosszú egyenes szakaszokon a töréspontok közé kellő számú pontot kell az egyenesbe kitűzni, kővel megjelölni, és birtokhatár-pontként meghatározni. Ha a kisajátítási határvonal vonalas létesítmény határvonalát metszi, a metszéspontokat az előzőek szerint kell megjelölni.
 
-2.4.[^30]
+2.4.[^35]
 
-3.[^31] Helyszínelés
+3.[^36] Helyszínelés
 
 A földmérő az ingatlan-nyilvántartási térképi adatbázis állami alapadat-tartalmának a természetbeni állapottal történő egyezőségét köteles ellenőrizni. Ha a természetbeni állapot a földmérési rendeletben meghatározott hibahatáron belül nem egyezik, akkor a földmérési rendelet kitűzésre vonatkozó előírásait kell figyelembe venni.
 
-4.[^32] Térképezés
+4.[^37] Térképezés
 
 4.1. A kitűzés eredményét mérési vázlaton kell ábrázolni.
 
@@ -100,13 +102,13 @@ b) igazolta-e az adatszolgáltatás igazgatási szolgáltatási díj és a vizsg
 
 c) ha a munka bejelentési kötelezettség alá tartozik, a bejelentés megtörtént-e, és a készítő figyelembe vette-e a visszaigazolásban előírtakat;
 
-d)[^33] az előírt mellékleteket csatolták-e;
+d)[^38] az előírt mellékleteket csatolták-e;
 
 e) a belső vizsgálatot és a minőség tanúsítását arra jogosult személy végezte-e;
 
 f) az alappont-sűrítést a vonatkozó előírások szerint készítették-e;
 
-g)[^34] a kisajátítási vázrajz megfelel-e az előírt alaki és tartalmi követelményeknek;
+g)[^39] a kisajátítási vázrajz megfelel-e az előírt alaki és tartalmi követelményeknek;
 
 h) a változási vázrajz területkimutatásának változás előtti oldala egyezik-e az érvényben lévő ingatlan-nyilvántartási állapottal, illetve az érvényes záradékkal rendelkező, előzetesen nyilvántartásba vett állapottal. Kettős munkarész készítése esetén az új alaptérkép szerinti állapot változás előtti oldala egyezik-e az adatszolgáltatás szerinti állapottal;
 
@@ -120,20 +122,21 @@ j) a területszámítás helyesen történt-e.
 
 7.4. A változással érintett terület határpontjainak azonosságát (beilleszthetőség) a digitális állományban vizsgálni kell.
 
-7.5.[^35] Ha a kisajátítási vázrajz mezőgazdászi szempontú záradékolást is igényel, azt a kisajátítási vázrajz záradékolásával egyidejűleg kell elvégezni.
+7.5.[^40] Ha a kisajátítási vázrajz mezőgazdászi szempontú záradékolást is igényel, azt a kisajátítási vázrajz záradékolásával egyidejűleg kell elvégezni.
 
-7.6.[^36]
+7.6.[^41]
 
-[^24]: Az 1. számú melléklet I/2. pontja a 154/2013. (V. 24.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^25]: Az 1. számú melléklet II/1. pont 1.1. alpontja a 154/2013. (V. 24.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^26]: Az 1. számú melléklet II/1. pont 1.3. alpontját a 154/2013. (V. 24.) Korm. rendelet 10. § (1) bekezdése iktatta be.
-[^27]: Az 1. számú melléklet II/1. pont 1.4. alpontját a 154/2013. (V. 24.) Korm. rendelet 10. § (1) bekezdése iktatta be.
-[^28]: Az 1. számú melléklet II/2. pont 2.1. alpontja a 154/2013. (V. 24.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^29]: Az 1. számú melléklet II/2. pont 2.2. alpont nyitó szövegrésze a 154/2013. (V. 24.) Korm. rendelet 10. § (1) bekezdése szerint módosított szöveg.
-[^30]: Az 1. számú melléklet II/2. pont 2.4. alpontját a 154/2013. (V. 24.) Korm. rendelet 10. § (1) bekezdése hatályon kívül helyezte.
-[^31]: Az 1. számú melléklet II/3. pontja a 154/2013. (V. 24.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^32]: Az 1. számú melléklet II/4. pontja a 154/2013. (V. 24.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^33]: Az 1. számú melléklet II/7. pont 7.1. alpont d) pontja a 154/2013. (V. 24.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^34]: Az 1. számú melléklet II/7. pont 7.1. alpont g) pontja a 154/2013. (V. 24.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^35]: Az 1. számú melléklet II/7. pont 7.5. alpontja a 154/2013. (V. 24.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^36]: Az 1. számú melléklet II/2. pont 7.6. alpontját a 154/2013. (V. 24.) Korm. rendelet 10. § (1) bekezdése hatályon kívül helyezte.
+[^28]: A 18. §-t a 68/2014. (III. 13.) Korm. rendelet 5. § (3) bekezdése iktatta be.
+[^29]: Az 1. számú melléklet I/2. pontja a 154/2013. (V. 24.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^30]: Az 1. számú melléklet II/1. pont 1.1. alpontja a 154/2013. (V. 24.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^31]: Az 1. számú melléklet II/1. pont 1.3. alpontját a 154/2013. (V. 24.) Korm. rendelet 10. § (1) bekezdése iktatta be.
+[^32]: Az 1. számú melléklet II/1. pont 1.4. alpontját a 154/2013. (V. 24.) Korm. rendelet 10. § (1) bekezdése iktatta be.
+[^33]: Az 1. számú melléklet II/2. pont 2.1. alpontja a 154/2013. (V. 24.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^34]: Az 1. számú melléklet II/2. pont 2.2. alpont nyitó szövegrésze a 154/2013. (V. 24.) Korm. rendelet 10. § (1) bekezdése szerint módosított szöveg.
+[^35]: Az 1. számú melléklet II/2. pont 2.4. alpontját a 154/2013. (V. 24.) Korm. rendelet 10. § (1) bekezdése hatályon kívül helyezte.
+[^36]: Az 1. számú melléklet II/3. pontja a 154/2013. (V. 24.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^37]: Az 1. számú melléklet II/4. pontja a 154/2013. (V. 24.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^38]: Az 1. számú melléklet II/7. pont 7.1. alpont d) pontja a 154/2013. (V. 24.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^39]: Az 1. számú melléklet II/7. pont 7.1. alpont g) pontja a 154/2013. (V. 24.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^40]: Az 1. számú melléklet II/7. pont 7.5. alpontja a 154/2013. (V. 24.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^41]: Az 1. számú melléklet II/2. pont 7.6. alpontját a 154/2013. (V. 24.) Korm. rendelet 10. § (1) bekezdése hatályon kívül helyezte.

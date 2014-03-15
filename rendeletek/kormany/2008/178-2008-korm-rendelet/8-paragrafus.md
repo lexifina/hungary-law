@@ -1,4 +1,4 @@
-8. §[^9] (1) A záradékolás során az építésügyi hatóság vizsgálja, hogy
+8. §[^12] (1) A záradékolás során az építésügyi hatóság vizsgálja, hogy
 
 a) a záradékolási kérelemben megjelölt kisajátítási cél összhangban van-e a területfelhasználásra vonatkozó építésjogi követelményekkel,
 
@@ -22,4 +22,4 @@ b) a 3. § (2) bekezdés szerinti esetben az ingatlan-nyilvántartási térképe
 
 (6) Az építésügyi hatóság a záradékolás lefolytatása mellett tájékoztatást ad a kisajátítást kérő részére továbbá arról, hogy a visszamaradó ingatlan a telekalakítás általános követelményeinek – a telekméretet ide nem értve – megfelel-e.
 
-[^9]: A 8. § a 154/2013. (V. 24.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^12]: A 8. § a 154/2013. (V. 24.) Korm. rendelet 7. §-ával megállapított szöveg.

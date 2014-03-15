@@ -1,7 +1,7 @@
-7. §[^8] (1) A földhivatalhoz benyújtott kisajátítási tervhez az ingatlan-nyilvántartási célú földmérési és térképészeti tevékenység szabályait tartalmazó miniszteri rendeletben (a továbbiakban: földmérési rendelet) meghatározott megosztási változási vázrajzra vonatkozó előírások szerinti munkarészeket kell becsatolni, a földmérési rendelet területkimutatásra vonatkozó előírásait ide nem értve.
+7. §[^11] (1) A földhivatalhoz benyújtott kisajátítási tervhez az ingatlan-nyilvántartási célú földmérési és térképészeti tevékenység szabályait tartalmazó miniszteri rendeletben (a továbbiakban: földmérési rendelet) meghatározott megosztási változási vázrajzra vonatkozó előírások szerinti munkarészeket kell becsatolni, a földmérési rendelet területkimutatásra vonatkozó előírásait ide nem értve.
 
 (2) A záradékolás során a földhivatal az 1. számú melléklet II/7. pontja szerint jár el. Ha a kisajátítás a termőföldről szóló törvény szerint termőföldnek, valamint mező-, erdőgazdasági művelés alatt álló földnek minősülő területet érint, akkor a kisajátítási vázrajzot mezőgazdászi szempontok szerint is vizsgálni és záradékolni kell. A záradék egy évig hatályos.
 
 (3) A földhivatal a megfelelőnek talált kisajátítási vázrajzot és területkimutatást „A helyrajzi számozás és a területszámítás helyes. A záradék a keltezéstől számított egy évig hatályos, későbbi felhasználás előtt a vázrajzot újra záradékoltatni kell.” záradékkal látja el. A mezőgazdászi szempontoknak megfelelő kisajátítási vázrajzot a földhivatal az „A művelési ágak, minőségi osztályok és a földminősítési mintaterek feltüntetése, valamint a földminősítési adatok számítása és ábrázolása helyes.” záradékkal is ellátja. Ez a záradék a területszámításra és a helyrajzi számozásra vonatkozó záradékkal együtt hatályos.
 
-[^8]: A 7. § a 154/2013. (V. 24.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^11]: A 7. § a 154/2013. (V. 24.) Korm. rendelet 7. §-ával megállapított szöveg.

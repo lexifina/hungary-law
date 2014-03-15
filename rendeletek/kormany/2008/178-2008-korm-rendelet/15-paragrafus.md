@@ -1,17 +1,17 @@
-## 14. §[^17]
+## 14. §[^21]
 
 ## Záró rendelkezések
 
 15. § (1) Ez a rendelet a kihirdetését követő napon lép hatályba. Rendelkezéseit – a (2)–(4) bekezdésben foglalt eltéréssel – a hatálybalépését követően benyújtott kisajátítási kérelemhez csatolandó kisajátítási tervre kell alkalmazni. A 11–13. § rendelkezéseit a folyamatban lévő, első fokú határozattal még le nem zárt kisajátítási eljárásokban is alkalmazni kell.
 
-(2)[^18]
+(2)[^22]
 
 (3) A rendelet hatálybalépésekor folyamatban lévő záradékolási eljárást az R. szerint kell lefolytatni.
 
 (4) E rendelet hatálybalépését megelőzően az R. alapján, illetve a (3) bekezdés szerint záradékolt kisajátítási terv a záradék érvényességi idején belül csatolható a kisajátítási kérelemhez.
 
-(5)–(6)[^19]
+(5)–(6)[^23]
 
-[^17]: A 14. §-t a 154/2013. (V. 24.) Korm. rendelet 11. § a) pontja hatályon kívül helyezte.
-[^18]: A 15. § (2) bekezdését a 154/2013. (V. 24.) Korm. rendelet 11. § b) pontja hatályon kívül helyezte.
-[^19]: A 15. § (5)–(6) bekezdését a 154/2013. (V. 24.) Korm. rendelet 11. § b) pontja hatályon kívül helyezte.
+[^21]: A 14. §-t a 154/2013. (V. 24.) Korm. rendelet 11. § a) pontja hatályon kívül helyezte.
+[^22]: A 15. § (2) bekezdését a 154/2013. (V. 24.) Korm. rendelet 11. § b) pontja hatályon kívül helyezte.
+[^23]: A 15. § (5)–(6) bekezdését a 154/2013. (V. 24.) Korm. rendelet 11. § b) pontja hatályon kívül helyezte.

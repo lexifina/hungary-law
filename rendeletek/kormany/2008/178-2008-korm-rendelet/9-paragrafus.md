@@ -1,4 +1,4 @@
-9. §[^10] (1) Abban az esetben, ha a kisajátítási tervet a Kstv. alapján a kisajátítási hatóság küldi meg újrazáradékolás érdekében, az eljárásra a továbbiakban az e rendeletben foglalt szabályokat kell megfelelően alkalmazni azzal, hogy
+9. §[^13] (1) Abban az esetben, ha a kisajátítási tervet a Kstv. alapján a kisajátítási hatóság küldi meg újrazáradékolás érdekében, az eljárásra a továbbiakban az e rendeletben foglalt szabályokat kell megfelelően alkalmazni azzal, hogy
 
 a) a földhivatal és az építésügyi hatóság az e rendelet szerinti eljárásában hozott döntéseiről a kisajátítási hatóságot is értesíti,
 
@@ -6,4 +6,4 @@ b) az eljárás végén a záradékkal ellátott kisajátítási tervet – a ki
 
 (2) Ha az újrazáradékolás helyett új kisajátítási terv készítése válik szükségessé, annak elkészítése a kisajátítást kérő feladata.
 
-[^10]: A 9. § a 154/2013. (V. 24.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^13]: A 9. § a 154/2013. (V. 24.) Korm. rendelet 7. §-ával megállapított szöveg.
