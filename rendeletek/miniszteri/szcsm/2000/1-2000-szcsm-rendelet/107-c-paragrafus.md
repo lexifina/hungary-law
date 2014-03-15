@@ -1,4 +1,4 @@
-107/C. §[^252] (1) A hajléktalanok éjjeli menedékhelye esetében az időszakos férőhelyszám-bővítéskor az intézményben vagy az időszakosan kialakított intézményben biztosítani kell a 105. § (1) bekezdésének a)–c) és e) pontjában foglaltakat.
+107/C. §[^254] (1) A hajléktalanok éjjeli menedékhelye esetében az időszakos férőhelyszám-bővítéskor az intézményben vagy az időszakosan kialakított intézményben biztosítani kell a 105. § (1) bekezdésének a)–c) és e) pontjában foglaltakat.
 
 (3) Az időszakos férőhelyek kialakítására az az intézmény, illetve különálló épület, helyiség alkalmas, ahol
 
@@ -14,4 +14,4 @@ bb) a fűtés, világítás és a melegvízzel való ellátás folyamatosan bizt
 
 (5) Az férőhelyszám-bővítés időszakában az intézmény működésére a 107. § (2)–(3) bekezdései az irányadóak.
 
-[^252]: A 107/C. §-t a 17/2002. (XII. 20.) ESZCSM rendelet 1. §-a iktatta be.
+[^254]: A 107/C. §-t a 17/2002. (XII. 20.) ESZCSM rendelet 1. §-a iktatta be.

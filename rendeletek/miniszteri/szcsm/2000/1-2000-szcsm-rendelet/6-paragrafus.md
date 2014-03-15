@@ -36,7 +36,7 @@ d) az a)–c) pontok szerinti egyházi, nem állami fenntartású személyes gon
 
 (9)[^37] A személyes gondoskodást nyújtó intézményben foglalkoztatott személy feladatait az intézmény szervezeti és működési szabályzatában és a munkaköri leírásban foglaltak szerint végzi.
 
-(10)[^38] A személyes gondoskodást nyújtó intézményben foglalkoztatott személy, valamint közeli hozzátartozója [a Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) 685. § b) pontja] az ellátásban részesülő személlyel tartási, életjáradéki és öröklési szerződést az ellátás időtartama alatt – illetve annak megszűnésétől számított egy évig – nem köthet.
+(10)[^38] A személyes gondoskodást nyújtó intézményben foglalkoztatott személy, valamint közeli hozzátartozója [a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) 8:1. § (1) bekezdés 1. pontja] az ellátásban részesülő személlyel tartási, életjáradéki és öröklési szerződést az ellátás időtartama alatt – illetve annak megszűnésétől számított egy évig – nem köthet.
 
 (11)[^39] A személyes gondoskodás körébe tartozó feladatokat ellátó személyek részére munkaruhát kell biztosítani. A munkaruha-juttatás feltételeit a munkáltató állapítja meg. Az alap- és a szakellátást biztosító intézményekben az ellátást igénybe vevőkkel közvetlenül foglalkozó személyek részére szükség esetén védőruhát is kell biztosítani. Az ellátást igénybe vevőkkel közvetlenül foglalkozó személyek alatt a 257/2000. (XII. 26.) Korm. rendelet 2. számú mellékletének I. ,,Ágazatspecifikus munkakörök a szociális területen'' cím alatt megjelölt munkakörökben foglalkoztatottakat kell érteni.
 
@@ -54,7 +54,7 @@ d) az a)–c) pontok szerinti egyházi, nem állami fenntartású személyes gon
 [^35]: A 6. § új (7) bekezdését a 9/2000. (VIII. 4.) SZCSM rendelet 16. § (2) bekezdésének a) pontja iktatta be, egyidejűleg az eredeti (7) bekezdés számozását (10) bekezdésre változtatva. A 6. § (7) bekezdése a 9/2009. (IV. 11.) SZMM rendelet 5. §-ával megállapított szöveg.
 [^36]: A 6. § új (8) bekezdését a 9/2000. (VIII. 4.) SZCSM rendelet 16. § (2) bekezdésének a) pontja iktatta be, egyidejűleg az eredeti (8) bekezdés számozását (11) bekezdésre változtatva.
 [^37]: A 9/2000. (VIII. 4.) SZCSM rendelet 16. §-a (2) bekezdésének a) pontja az eredeti (6) bekezdés számozását (9) bekezdésre változtatta.
-[^38]: A 9/2000. (VIII. 4.) SZCSM rendelet 16. §-a (2) bekezdésének a) pontja az eredeti (7) bekezdés számozását (10) bekezdésre változtatta.
+[^38]: A 9/2000. (VIII. 4.) SZCSM rendelet 16. §-a (2) bekezdésének a) pontja az eredeti (7) bekezdés számozását (10) bekezdésre változtatta. A 6. § (10) bekezdése a 19/2014. (III. 13.) EMMI rendelet 43. § a) pontja szerint módosított szöveg.
 [^39]: A 6. § (11) - eredetileg (8) - bekezdése a 6/2000. (VII. 6.) SZCSM rendelet 2. §-ával megállapított szöveg. A 6. § eredeti (8) bekezdésének számozását a 9/2000. (VIII. 4.) SZCSM rendelet 16. § (2) bekezdésének a) pontja (11) bekezdésre változtatta. A 6. § (11) bekezdése a 9/2009. (IV. 11.) SZMM rendelet 11. § (5) bekezdésének bb) alpontja szerint módosított szöveg.
 [^40]: A 6. § (12) bekezdését a 4/2004. (I. 28.) ESZCSM rendelet 1. §-ának (2) bekezdése iktatta a szövegbe.
 [^41]: A 6. § (13) bekezdését a 7/2008. (VI. 3.) SZMM rendelet 1. §-a iktatta be. E módosító rendelet 9. § (2) bekezdése alapján a vezetői megbízásra, illetve annak feltételeire vonatkozó új szabályokat a 2008. július 1. napját követően kiírásra kerülő pályázatok alapján adott vezetői megbízásokra kell alkalmazni.

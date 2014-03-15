@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-1-20-85
 | 2013-07-11 | 2000-1-20-85.21 | 35/2009. (XII. 30.) SZMM rendelet |
 | 2013-08-01 | 2000-1-20-85.22 | 55/2013. (VII. 29.) EMMI rendelet |
 | 2014-01-01 | 2000-1-20-85.23 | 25/2013. (III. 29.) EMMI rendelet |
+| 2014-03-15 | 2000-1-20-85.24 | 19/2014. (III. 13.) EMMI rendelet |

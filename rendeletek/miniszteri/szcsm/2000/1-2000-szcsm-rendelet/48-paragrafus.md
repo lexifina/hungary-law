@@ -2,4 +2,6 @@
 
 48. § (1) A személyes használatra kiadott ruházat az intézmény tulajdonát képezi és azt egyéni nyilvántartó lapon kell az ellátást igénybe vevő részére kiadni.
 
-(2) A cselekvőképtelen, valamint a korlátozottan cselekvőképes személyek részére kiadott ruházatról a gondozási egység vezetője leltárt vezet.
+(2)[^151] A kiskorú, valamint a cselekvőképességet érintő gondnokság alatt álló személy részére kiadott ruházatról a gondozási egység vezetője leltárt vezet.
+
+[^151]: A 48. § (2) bekezdése a 19/2014. (III. 13.) EMMI rendelet 42. §-ával megállapított szöveg.

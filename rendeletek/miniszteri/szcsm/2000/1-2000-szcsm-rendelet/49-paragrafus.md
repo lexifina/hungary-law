@@ -4,6 +4,6 @@ a) három váltás ágyneműt,
 
 b) a tisztálkodást segítő három váltás textíliát, valamint a tisztálkodáshoz szükséges anyagokat, eszközöket,
 
-c)[^151]
+c)[^152]
 
-[^151]: A 49. § c) pontját a 35/2009. (XII. 30.) SZMM rendelet 23. § (3) bekezdés b) pont bd) alpontja hatályon kívül helyezte.
+[^152]: A 49. § c) pontját a 35/2009. (XII. 30.) SZMM rendelet 23. § (3) bekezdés b) pont bd) alpontja hatályon kívül helyezte.
