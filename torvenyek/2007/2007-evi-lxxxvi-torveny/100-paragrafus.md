@@ -4,7 +4,7 @@
 
 ## A vertikálisan integrált villamosenergia-ipari vállalkozásokra vonatkozó közös szétválasztási szabályok
 
-100. § (1) A vertikálisan integrált villamosenergia-ipari vállalkozás hálózati engedélyes tagjai vonatkozásában a tevékenységek szétválasztására, a jogi személyiség szerinti, szervezeti és döntéshozatali függetlenség biztosításának követelményére tekintettel a Gt. szabályait az e törvényben foglalt eltérésekkel kell alkalmazni.
+100. § (1) A vertikálisan integrált villamosenergia-ipari vállalkozás hálózati engedélyes tagjai vonatkozásában a tevékenységek szétválasztására, a jogi személyiség szerinti, szervezeti és döntéshozatali függetlenség biztosításának követelményére tekintettel a Ptk. szabályait az e törvényben foglalt eltérésekkel kell alkalmazni.
 
 (2) Vertikálisan integrált villamosenergia-ipari vállalkozás keretében végzett átviteli rendszerirányítás vagy elosztás esetén biztosítani kell az átviteli rendszerirányítás, elosztás jogi személyiség szerinti, szervezeti és döntéshozatali függetlenségét a nem átviteli rendszerirányítással, illetve elosztással kapcsolatos tevékenységektől.
 

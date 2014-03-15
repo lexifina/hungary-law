@@ -14,6 +14,6 @@
 
 (7) Ha a közintézményi felhasználó a moratórium biztosítását e törvénynek és az (1) bekezdésben meghatározott kormányrendeletnek megfelelően kezdeményezte, a villamosenergia-kereskedő vagy az elosztó a közintézményi felhasználóval kötött szerződést fizetési késedelemre történő hivatkozással nem mondhatja fel.
 
-(8) Moratórium esetén a közintézményi felhasználó fenntartója a közintézményi felhasználó a moratórium alatt keletkezett tartozásaiért a Ptk. 274. § (1) bekezdése szerint egyszerű kezesként felel.
+(8) Moratórium esetén a közintézményi felhasználó fenntartója a közintézményi felhasználó fenntartója a közintézményi felhasználónak a moratórium alatt keletkezett tartozásaiért a Ptk. 6:419. §-a szerint egyszerű kezesként felel.
 
 (9) A moratórium részletes feltételeit, a moratóriummal érintett felek jogait és kötelezettségeit a Kormány rendeletben állapítja meg.

@@ -22,7 +22,7 @@ a) bármely szavazati jog gyakorlása,
 
 b) a felügyelőbizottság tagjai, az operatív irányítást végző személy kinevezése, vagy
 
-c) a Ptk. 685/B. § (1) bekezdés szerinti többségi befolyás.
+c) a Ptk. 8:2. § szerinti többségi befolyás.
 
 (3) Az (1) bekezdés b), c) és d) pontjában meghatározott feltétel teljesül abban az esetben is, ha egyrészt az átviteli rendszerirányító vagy az átviteli hálózat, másrészt a termelői engedélyes vagy a kereskedő felett az irányítást Magyarország nevében, törvényben meghatározott gazdálkodó szervezetek vagy más állami szervek gyakorolják.
 
