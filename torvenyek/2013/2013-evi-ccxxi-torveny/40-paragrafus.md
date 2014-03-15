@@ -3,11 +3,3 @@
 (A NAV nyomozó hatósága a bűnüldözési feladatok ellátása érdekében térítés nélkül kérhet adatokat az alábbi nyilvántartásokból:)
 
 „18. a közjegyzői zálogjogi nyilvántartásból és a hitelbiztosítéki nyilvántartásból,”
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
