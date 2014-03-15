@@ -2,7 +2,7 @@
 
 a) a Belvízi Hajózási Alapkezelő Tanácsra[^1] (a továbbiakban: Tanács),
 
-b)[^2] azokra a természetes és jogi személyekre, valamint jogi személyiséggel nem rendelkező gazdálkodó szervezetekre (a továbbiakban: üzemben tartó), amelyek a magyar hajólajstromban nyilvántartott – a (2) bekezdésben meghatározott hajó kivételével – áruszállító hajóval és tolóhajóval díj ellenében vagy saját számlára árufuvarozási tevékenységet folytatnak.
+b)[^2] azokra a gazdálkodó szervezetekre (a továbbiakban: üzemben tartó), amelyek a magyar hajólajstromban nyilvántartott – a (2) bekezdésben meghatározott hajó kivételével – áruszállító hajóval és tolóhajóval díj ellenében vagy saját számlára árufuvarozási tevékenységet folytatnak.
 
 (2) Nem terjed ki a rendelet alkalmazási köre az olyan áruszállító hajóra, amelynek a hordképessége a 450 tonnát vagy – tolóhajó esetében – főgépteljesítménye a 300 kW-ot nem haladja meg, továbbá
 
@@ -23,4 +23,4 @@ g) kompra,
 h) nonprofit közszolgálati feladatot ellátó hajóra.
 
 [^1]: A víziközlekedésről szóló 2000. évi XLII. törvény, 58/A. § (3) bekezdés.
-[^2]: A Magyar Közlöny 2003. évi 57. számában megjelent helyesbítésnek megfelelő szöveg.
+[^2]: A Magyar Közlöny 2003. évi 57. számában megjelent helyesbítésnek megfelelő szöveg. Az 1. § (1) bekezdés b) pontja a 12/2014. (III. 14.) NFM rendelet 11. § (2) bekezdése szerint módosított szöveg.
