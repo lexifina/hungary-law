@@ -17,3 +17,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2005-133-00-00
 | 2013-07-01 | 2013. évi LXXXI. törvény | 2005-133-00-00.18 |
 | 2013-12-31 | 2013. évi CXCVIII. törvény | 2005-133-00-00.19 |
 | 2014-02-25 | 2014. évi XVI. törvény | 2005-133-00-00.20 |
+| 2014-03-15 | 2013. évi CCLII. törvény | 2005-133-00-00.21 |

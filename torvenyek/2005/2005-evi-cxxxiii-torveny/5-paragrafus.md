@@ -4,7 +4,7 @@
 
 a) a kérelmező személy- és vagyonvédelmi tevékenység végzésében személyesen közreműködő tagja, munkavállalója vagy egyéni vállalkozás, illetve egyéni cég esetében, ha a tevékenységet nem maga látja el, legalább egy foglalkoztatottja, illetve a vállalkozással kötött polgári jogi szerződés alapján a vállalkozás javára tevékenykedő természetes személy – ideértve a tevékenységet szakmailag szervező vagy irányító személyt is – rendelkezik a tevékenység személyes végzésére jogosító, a rendőrség által kiadott hatósági igazolvánnyal (a továbbiakban: igazolvány),
 
-b) a kérelmező – ha e törvény kivételt nem tesz – rendelkezik az általa végezni kívánt tevékenységre vonatkozó, a szerződésen belül és az azon kívül okozott károk megtérítését szolgáló, külön jogszabályban meghatározott kötelező tartalommal bíró felelősségbiztosítási szerződéssel (a továbbiakban: felelősségbiztosítási szerződés).
+b) a kérelmező – ha e törvény kivételt nem tesz – rendelkezik az általa végezni kívánt tevékenységre vonatkozó, a szerződésszegéssel és a szerződésen kívül okozott károk megtérítését, valamint a sérelemdíj megfizetését szolgáló, külön jogszabályban meghatározott kötelező tartalommal bíró felelősségbiztosítási szerződéssel (a továbbiakban: felelősségbiztosítási szerződés).
 
 (2) A felelősségbiztosítási szerződéssel egyenértékű a más EGT-államban kötött, az (1) bekezdés b) pontjában meghatározott feltételeknek megfelelő felelősségbiztosítási szerződés.
 

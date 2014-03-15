@@ -32,7 +32,7 @@ b) a megbízó (megrendelő), avagy a magánterület nyilvános részét igényb
 
 14. csomag tartalmának, a járműben elhelyezett dolognak, a szállítmánynak bemutatása: annak lehetővé tétele, hogy a személy- és vagyonőr megbizonyosodjon arról, hogy a csomagban, a járműben, a szállítmányban elhelyezett, a külső szemlélő elől egyébként rejtett dolgok között nincs olyan, amely az általa megakadályozandó jogsértő cselekményből származik vagy amelynek a területre történő bevitele tilos;
 
-15. közeli hozzátartozó: a Polgári Törvénykönyv 685. §-ának b) pontjában meghatározott személy;
+15. közeli hozzátartozó: a Polgári Törvénykönyv 8:1. § (1) bekezdés 1. pontjában meghatározott személy;
 
 16.
 
