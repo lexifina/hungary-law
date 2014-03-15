@@ -1,4 +1,4 @@
-## 20. §[^2]
+## 20. § Hatályát veszti az 5. § (1) bekezdésében a „jogi személyiséggel nem rendelkező gazdasági társaság,” szövegrész.
 
 1. melléklet a 69/2013. (XI. 28.) NFM rendelethez
 
@@ -313,5 +313,3 @@ c) az oltalom megadása iránti hivatalos eljárásban, illetve az esetleges fel
 12.6. A kedvezményezett köteles a beruházás eredményeképpen létrejött infrastruktúra elemeket, a beruházással érintett ingatlant és a beszerzett eszközöket a közlekedési közszolgáltatások ellátásához használni.
 
 12.7. A támogatás nyújtásának egyéb feltételeit a pályázati felhívás határozza meg.
-
-[^2]: A 20. § a 16. § (2) bekezdése alapján 2014. március 15-én lép hatályba.
