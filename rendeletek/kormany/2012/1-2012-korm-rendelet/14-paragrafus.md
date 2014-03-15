@@ -18,24 +18,24 @@ c) az egyszerűsített közteherviselési hozzájárulásról szóló 2005. évi
 
 a) 6%-a szabad felhasználású hitelt igénybe vett hitelfelvevők esetében,
 
-b)[^11] kötött felhasználású hitel igénybevétele esetén a teljes hiteltartozás – a hallgatói jogviszony megszűnése napján, illetve ha a törlesztési kötelezettség ismételt hallgatói jogviszony miatt ezt követően szünetelt, annak ismételt megszűnése napján, vagy legkésőbb a 35. életév betöltés napján fennálló – összegétől függő legalább 4%-os, legfeljebb a 6. § (4) bekezdés szerinti felülvizsgálat alapján megállapított %-os mértéke.
+b)[^12] kötött felhasználású hitel igénybevétele esetén a teljes hiteltartozás – a hallgatói jogviszony megszűnése napján, illetve ha a törlesztési kötelezettség ismételt hallgatói jogviszony miatt ezt követően szünetelt, annak ismételt megszűnése napján, vagy legkésőbb a 35. életév betöltés napján fennálló – összegétől függő legalább 4%-os, legfeljebb a 6. § (4) bekezdés szerinti felülvizsgálat alapján megállapított %-os mértéke.
 
-(5a)[^12] A Diákhitel szervezet a kötött felhasználású hitel esetén az egyes teljes hiteltartozáshoz tartozó törlesztési hányadokat köteles évente, a 6. § (4) bekezdése szerinti aktuáriusi vizsgálatot követően – a tanulmányi év megkezdése előtt legalább 7 nappal – két országos napilapban, honlapján, valamint hirdetményként a felsőoktatási intézményben közzétenni.
+(5a)[^13] A Diákhitel szervezet a kötött felhasználású hitel esetén az egyes teljes hiteltartozáshoz tartozó törlesztési hányadokat köteles évente, a 6. § (4) bekezdése szerinti aktuáriusi vizsgálatot követően – a tanulmányi év megkezdése előtt legalább 7 nappal – két országos napilapban, honlapján, valamint hirdetményként a felsőoktatási intézményben közzétenni.
 
 (6) A 6. § (4) bekezdésében előírt felülvizsgálat eredményétől függően a Diákhitel szervezet a Kormány jóváhagyásával az (5) bekezdésben meghatározott %-os törlesztési mértéket megváltoztathatja.
 
 (7) Az állami adóhatóságnak az Art. 177. § (1) bekezdésében meghatározott adatszolgáltatását követően a Diákhitel szervezet évente, minden év december 15-éig közli az (1) bekezdés hatálya alá tartozó hitelfelvevőkkel a következő naptári évre vonatkozó havi törlesztőrészlet összegét, abban az esetben is, ha a hitelfelvevő törlesztési kötelezettsége szünetel. Amennyiben a hitelfelvevő által fizetendő havi törlesztőrészlet összege a törlesztési kötelezettség újraindulása miatt megváltozik, a Diákhitel szervezet a fizetendő törlesztőrészlet összegéről haladéktalanul tájékoztatást küld a hitelfelvevő részére.
 
-(8)[^13] A hitelfelvevő a törlesztőrészletet – amennyiben jelen rendelet másként nem rendelkezik – minden hónap 5. napjáig köteles a Diákhitel szervezet részére, az üzletszabályzatban meghatározott módon forintban megfizetni, legalább a hitelszerződés (7. §) szerződésszámának egyidejű közlésével.
+(8)[^14] A hitelfelvevő a törlesztőrészletet – amennyiben jelen rendelet másként nem rendelkezik – minden hónap 5. napjáig köteles a Diákhitel szervezet részére, az üzletszabályzatban meghatározott módon forintban megfizetni, legalább a hitelszerződés (7. §) szerződésszámának egyidejű közlésével.
 
-(9)[^14] A (2) bekezdés szerinti törlesztéssel érintett, de a 19. § (5) bekezdés a) pontja alá nem tartozó hitelfelvevő kérelmezheti a Diákhitel szervezetnél a (4) és (5) bekezdés és a 33. § szerint megállapított törlesztő részlete összegének mérséklését. A törlesztő részlet összegének mérséklése a Diákhitel szervezet erre rendszeresített elektronikus felületén is kezdeményezhető. A törlesztő részlet mérséklésének lehetőségéről a fizetési késedelem esetén küldött értesítőben a Diákhitel szervezet tájékoztatja a hitelfelvevőt.
+(9)[^15] A (2) bekezdés szerinti törlesztéssel érintett, de a 19. § (5) bekezdés a) pontja alá nem tartozó hitelfelvevő kérelmezheti a Diákhitel szervezetnél a (4) és (5) bekezdés és a 33. § szerint megállapított törlesztő részlete összegének mérséklését. A törlesztő részlet összegének mérséklése a Diákhitel szervezet erre rendszeresített elektronikus felületén is kezdeményezhető. A törlesztő részlet mérséklésének lehetőségéről a fizetési késedelem esetén küldött értesítőben a Diákhitel szervezet tájékoztatja a hitelfelvevőt.
 
 (10) A Diákhitel szervezet – a (11) bekezdésben foglaltakra figyelemmel – legfeljebb 24 naptári hónapra engedélyezheti a hitelfelvevő részére mérsékelt összegű törlesztő részlet fizetését.
 
-(11)[^15] A Diákhitel szervezet által a hitelfelvevő részére a (10) bekezdés szerint engedélyezett mérsékelt összegű törlesztő részlet összege nem lehet kevesebb a (4)–(5) bekezdés és a 33. § figyelembevételével meghatározott minimális törlesztő részlet összegénél.
+(11)[^16] A Diákhitel szervezet által a hitelfelvevő részére a (10) bekezdés szerint engedélyezett mérsékelt összegű törlesztő részlet összege nem lehet kevesebb a (4)–(5) bekezdés és a 33. § figyelembevételével meghatározott minimális törlesztő részlet összegénél.
 
-[^11]: A 14. § (5) bekezdés b) pontja a 224/2012. (VIII. 15.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^12]: A 14. § (5a) bekezdését a 224/2012. (VIII. 15.) Korm. rendelet 6. § (2) bekezdése iktatta be.
-[^13]: A 14. § (8) bekezdése a 224/2012. (VIII. 15.) Korm. rendelet 14. § c) pontja szerint módosított szöveg.
-[^14]: A 14. § (9) bekezdése a 224/2012. (VIII. 15.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
-[^15]: A 14. § (11) bekezdése a 224/2012. (VIII. 15.) Korm. rendelet 13. § c) pontja szerint módosított szöveg.
+[^12]: A 14. § (5) bekezdés b) pontja a 224/2012. (VIII. 15.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^13]: A 14. § (5a) bekezdését a 224/2012. (VIII. 15.) Korm. rendelet 6. § (2) bekezdése iktatta be.
+[^14]: A 14. § (8) bekezdése a 224/2012. (VIII. 15.) Korm. rendelet 14. § c) pontja szerint módosított szöveg.
+[^15]: A 14. § (9) bekezdése a 224/2012. (VIII. 15.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^16]: A 14. § (11) bekezdése a 224/2012. (VIII. 15.) Korm. rendelet 13. § c) pontja szerint módosított szöveg.

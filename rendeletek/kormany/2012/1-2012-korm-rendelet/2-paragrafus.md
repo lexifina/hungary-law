@@ -46,7 +46,7 @@ b) kötött felhasználású: a hallgatói hitel azon része, amelyet a Fot. 46.
 
 20. szülők: a hitelfelvevő születési anyakönyvi kivonatában anyaként és apaként megjelölt személyek;
 
-21.[^1] tanév: az adott naptári év szeptember 1-jétől a következő naptári év június 30-áig terjedő képzési időszak;
+21.[^2] tanév: az adott naptári év szeptember 1-jétől a következő naptári év június 30-áig terjedő képzési időszak;
 
 22. tanulmányi félév: az adott naptári év szeptember 1-jétől a következő naptári év január 31-éig terjedő, illetve az adott naptári év február 1-jétől június 30-áig terjedő képzési időszak;
 
@@ -56,4 +56,4 @@ b) kötött felhasználású: a hallgatói hitel azon része, amelyet a Fot. 46.
 
 25. törlesztőrészlet: az e rendelet alapján meghatározott, a hitelfelvevő által a Diákhitel szervezetnek a törlesztési kötelezettség kezdetét követően, havi rendszerességgel fizetendő összeg.
 
-[^1]: A 2. § 21. pontja a 224/2012. (VIII. 15.) Korm. rendelet 13. § a) pontja szerint módosított szöveg.
+[^2]: A 2. § 21. pontja a 224/2012. (VIII. 15.) Korm. rendelet 13. § a) pontja szerint módosított szöveg.

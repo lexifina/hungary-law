@@ -4,4 +4,6 @@
 
 (2) Ez a rendelet meghatározza a hallgatói hitel igénybevételének, a hallgatói hitelszerződésnek feltételeit, a hitel folyósításának, törlesztésének szabályait.
 
-(3) A 7. § szerinti hitelszerződésre vonatkozóan e rendeletben nem szabályozott kérdések tekintetében a Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) rendelkezései az irányadóak.
+(3)[^1]
+
+[^1]: Az 1. § (3) bekezdését a 80/2014. (III. 14.) Korm. rendelet 28. §-a hatályon kívül helyezte.

@@ -1,4 +1,4 @@
-5. § (1)[^2] A 2012/2013. tanévtől a hallgató által felvehető hitelek legmagasabb összegei hitelcélok szerint:
+5. § (1)[^3] A 2012/2013. tanévtől a hallgató által felvehető hitelek legmagasabb összegei hitelcélok szerint:
 
 a) szabad felhasználású hitelcél esetében tanulmányi hónaponként 50 000 forint,
 
@@ -12,4 +12,4 @@ b) kötött felhasználású hitelcél esetében tanulmányi félévenként a fe
 
 (5) A kötött felhasználású hitelt igénybe vevő hitelfelvevők e rendelet 6. és 29. § rendelkezése szerint általános kamattámogatásban részesülnek.
 
-[^2]: Az 5. § (1) bekezdése a 224/2012. (VIII. 15.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^3]: Az 5. § (1) bekezdése a 224/2012. (VIII. 15.) Korm. rendelet 1. §-ával megállapított szöveg.

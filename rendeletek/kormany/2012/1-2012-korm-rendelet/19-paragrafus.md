@@ -18,7 +18,7 @@ f) az egészségkárosodást igazoló jogerős határozat Diákhitel szervezethe
 
 (3) A hitelszerződés (1) bekezdés b), c) és f) pontja szerinti megszűnése esetében a hitelfelvevő teljes tartozását el kell engedni.
 
-(4)[^24] A határozatlan idejű hitelszerződést a hitelfelvevő 15 napos felmondási idővel felmondhatja. A felmondási idő elteltével a teljes tartozás egy összegben esedékessé válik.
+(4)[^25] A határozatlan idejű hitelszerződést a hitelfelvevő 15 napos felmondási idővel felmondhatja. A felmondási idő elteltével a teljes tartozás egy összegben esedékessé válik.
 
 (5) A hitelszerződés a Diákhitel szervezet általi azonnali hatályú felmondással megszűnik:
 
@@ -34,7 +34,7 @@ d) a 16. § (6) bekezdése esetében.
 
 (7) A szerződés felmondása esetén a még meg nem fizetett teljes tartozás egy összegben esedékessé és lejárttá válik, és a Diákhitel szervezet jogosult azt meg nem fizetés esetén – az Art. rendelkezései szerint – behajtásra átadni az állami adóhatóságnak.
 
-(8)[^25] A Diákhitel szervezet a hitelszerződés megszűnését követően záró elszámolást készít. Amennyiben a Diákhitel szervezet a hitelfelvevő egyenlegén túlfizetést számol el, a záró elszámolásban a túlfizetés összegéről a hitelfelvevőt értesíti, és a túlfizetés összegét a hitelfelvevő által megadott számlaszámra utalja.
+(8)[^26] A Diákhitel szervezet a hitelszerződés megszűnését követően záró elszámolást készít. Amennyiben a Diákhitel szervezet a hitelfelvevő egyenlegén túlfizetést számol el, a záró elszámolásban a túlfizetés összegéről a hitelfelvevőt értesíti, és a túlfizetés összegét a hitelfelvevő által megadott számlaszámra utalja.
 
-[^24]: A 19. § (4) bekezdése a 224/2012. (VIII. 15.) Korm. rendelet 13. § g) pontja szerint módosított szöveg.
-[^25]: A 19. § (8) bekezdése a 224/2012. (VIII. 15.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^25]: A 19. § (4) bekezdése a 224/2012. (VIII. 15.) Korm. rendelet 13. § g) pontja szerint módosított szöveg.
+[^26]: A 19. § (8) bekezdése a 224/2012. (VIII. 15.) Korm. rendelet 9. §-ával megállapított szöveg.
