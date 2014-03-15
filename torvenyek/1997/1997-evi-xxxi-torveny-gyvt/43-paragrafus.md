@@ -6,7 +6,7 @@
 
 (3) A családi napközi – az alapellátáson túli szolgáltatásként – speciális tanácsadással, időszakos gyermekfelügyelettel vagy más gyermeknevelést segítő szolgáltatással segítheti a családokat.
 
-(4) Családi napköziben ellátást az a nagykorú, cselekvőképes, büntetlen előéletű személy biztosíthat, aki
+(4) Családi napköziben ellátást az a nagykorú, cselekvőképességet érintő gondnokság alatt nem álló, büntetlen előéletű személy biztosíthat, aki
 
 a) személyisége és – a külön jogszabályban meghatározott – körülményei alapján alkalmas a gyermek napközbeni ellátására, és
 

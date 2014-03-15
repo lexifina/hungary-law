@@ -78,7 +78,7 @@ c) a Polgári Törvénykönyv szerinti hozzátartozó, vagy a közös háztartá
 
 vonatkozó adatokat kezelhet.
 
-(5) A gyermekvédelmi gondoskodás biztosítása, a gyermek örökbefogadásának elősegítése és a származás megismeréséhez való jog érvényesülésének biztosítása céljából a területi gyermekvédelmi szakszolgálat és a gyámhatóság kezeli
+(5) A gyermekvédelmi gondoskodás biztosítása, a gyermek örökbefogadásának elősegítése, utánkövetése és a származás megismeréséhez való jog érvényesülésének biztosítása céljából a területi gyermekvédelmi szakszolgálat és a gyámhatóság kezeli
 
 a) a családba fogadó személy személyazonosító adatait, valamint az egészségi állapotára és a vagyoni helyzetére vonatkozó adatokat,
 
@@ -92,7 +92,7 @@ bc) családi állapotára, fennálló házasságára, élettársi, bejegyzett é
 
 bd) vagyoni helyzetére vonatkozó adatokat,
 
-be) Csjt. 47. §-a szerinti örökbefogadásra való alkalmasságára vonatkozó adatokat,
+be) Ptk. 4:121. §-a szerinti örökbefogadásra való alkalmasságára vonatkozó adatokat,
 
 bf) örökbe fogadandó gyermekkel kapcsolatos elvárásaira vonatkozó adatokat,
 
@@ -102,7 +102,7 @@ bh) – hozzájárulása esetén – fényképét,
 
 bi) hozzájárulását ahhoz, hogy az e pont szerinti adatait – az országos örökbefogadást elősegítő szerv közreműködésével – az örökbefogadható gyermek szerinti másik területi gyermekvédelmi szakszolgálat a gyermek örökbefogadásának elősegítése céljából kezelje.
 
-c) az örökbe fogadó szülő személyazonosító adatait, családi helyzetére, egészségi állapotára, vagyoni helyzetére vonatkozó adatokat,
+c) az örökbe fogadó szülő személyazonosító adatait, családi helyzetére, egészségi állapotára, vagyoni helyzetére vonatkozó adatokat, valamint a gyermek örökbefogadó családjába történő beilleszkedésére, nevelésére és fejlődésére vonatkozó adatokat,
 
 d) a válsághelyzetben lévő várandós anya, a vér szerinti szülő személyazonosító adatait, az egészségi állapotára vonatkozó adatokat és – önkéntes adatszolgáltatása alapján – a vagyoni helyzetére, a családi helyzetére és a terhesség eltitkolásának tényére, okára vonatkozó adatokat,
 
@@ -170,7 +170,7 @@ bc) családi helyzetére vonatkozó adatokat,
 
 bd) vagyoni helyzetére vonatkozó adatokat,
 
-be) Csjt. 47. §-a szerinti örökbefogadásra való alkalmasságára vonatkozó adatokat,
+be) Ptk. 4:121. §-a szerinti örökbefogadásra való alkalmasságára vonatkozó adatokat,
 
 bf) örökbe fogadandó gyermekkel kapcsolatos elvárásaira vonatkozó adatokat,
 
@@ -184,7 +184,7 @@ c) a válsághelyzetben lévő várandós anya, a vér szerinti szülő személy
 
 (9) A központi hatóság a nevelésbe vett gyermek külföldre történő örökbefogadásának elősegítése, a külföldi örökbefogadások utánkövetése és a származás megismeréséhez való jog érvényesülésének biztosítása céljából kezeli
 
-a) a Csjt. 49. § (3) bekezdése alapján külföldre örökbe adható gyermek
+a) a Ptk. 4:129. § (2) bekezdése alapján külföldre örökbe adható gyermek
 
 aa) személyazonosító adatait, társadalombiztosítási azonosító jelét,
 
@@ -218,7 +218,7 @@ bc) családi helyzetére vonatkozó adatokat,
 
 bd) vagyoni helyzetére vonatkozó adatokat,
 
-be) Csjt. 47. §-a szerinti örökbefogadásra való alkalmasságára vonatkozó adatokat,
+be) Ptk. 4:121. §-a szerinti örökbefogadásra való alkalmasságára vonatkozó adatokat,
 
 bf) örökbe fogadandó gyermekkel kapcsolatos elvárásaira vonatkozó adatokat,
 

@@ -4,7 +4,7 @@
 
 a) a 135. § (5) bekezdés b)–e) pontjában foglalt adatokat,
 
-b) a 135/A. § (1) bekezdés a) és b) pontjában foglalt adatokat, valamint az örökbe fogadni szándékozó személlyel a nyílt örökbefogadás elősegítésére történő megállapodás megkötésének időpontját,
+b) a 135/A. § (1) bekezdés a) és b) pontjában, valamint (1a) bekezdésében foglalt adatokat, valamint az örökbe fogadni szándékozó személlyel a nyílt örökbefogadás elősegítésére történő megállapodás megkötésének időpontját,
 
 c) a 135. § (8) bekezdés a) pont ai) alpontjában és b) pont bg) alpontjában foglalt adatokat,
 
@@ -16,7 +16,7 @@ d) a 135. § (9) bekezdés a) pont ai) alpontjában, b) pont bg) alpontjában é
 
 a) a területi gyermekvédelmi szakszolgálat a 135. § (5) bekezdés b)–e) pontjában foglalt adatokat,
 
-b) az örökbefogadást elősegítő közhasznú szervezet a 135/A. § (1) bekezdés a) pontjában foglalt adatokat, valamint az örökbe fogadni szándékozó személlyel a nyílt örökbefogadás elősegítésére történő megállapodás megkötésének időpontját,
+b) az örökbefogadást elősegítő közhasznú szervezet a 135/A. § (1) bekezdés a) pontjában és (1a) bekezdésében foglalt adatokat, valamint az örökbe fogadni szándékozó személlyel a nyílt örökbefogadás elősegítésére történő megállapodás megkötésének időpontját,
 
 c) az országos örökbefogadást elősegítő szerv a 135. § (8) bekezdés a) pont ai) alpontjában és b) pont bg) alpontjában foglalt adatokat,
 

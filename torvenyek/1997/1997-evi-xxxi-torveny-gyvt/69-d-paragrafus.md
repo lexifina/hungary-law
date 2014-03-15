@@ -6,7 +6,7 @@ a) a vér szerinti szülővel,
 
 b) a várandós anyával,
 
-c) ha a vér szerinti szülő vagy várandós anya kiskorú vagy cselekvőképességet kizáró gondnokság alatt áll, a törvényes képviselőjével,
+c) ha a vér szerinti szülő vagy várandós anya kiskorú vagy cselekvőképességet teljesen korlátozó gondnokság alatt áll, a törvényes képviselőjével,
 
 d) az örökbe fogadandó gyermek gyámjával,
 
@@ -15,6 +15,14 @@ e) az örökbefogadásra való alkalmasságot megállapító érvényes és hat�
 ea) házaspárral együttesen vagy
 
 eb) egyedülálló személlyel [(az a)–e) pontban foglaltak a továbbiakban együtt: a szolgáltatást igénybe vevő].
+
+(1a) A közhasznú szervezet – a (3) bekezdésben foglalt kivétellel – azzal a vér szerinti szülővel és örökbe fogadni szándékozó személlyel, akik már ismerik egymást és együtt kérik a nyílt örökbefogadást elősegítő szolgáltatást
+
+a) megállapodást köt, vagy
+
+b) – ha a megállapodás megkötésére nem kerül sor – tájékoztatást nyújt, hogy a nyílt örökbefogadást elősegítő szolgáltatás a területi gyermekvédelmi szakszolgálatnál is igénybe vehető.
+
+(1b) Ha a közhasznú szervezet a (3) bekezdésben meghatározott okokról szerez tudomást, öt napon belül írásban értesíti az örökbefogadásra való alkalmasságot megállapító, valamint az örökbefogadás engedélyezésére illetékes gyámhatóságot.
 
 (2) A megállapodást a szolgáltatást igénybe vevő indokolás nélkül írásban bármikor felmondhatja.
 

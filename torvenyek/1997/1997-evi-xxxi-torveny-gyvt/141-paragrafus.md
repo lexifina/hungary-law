@@ -6,9 +6,11 @@ b) az ideiglenes hatállyal elhelyezett gyermek ellátását biztosító nevelő
 
 c) az örökbefogadhatónak nyilvánított, illetve örökbefogadható gyermekekről, valamint az örökbefogadásra váró szülőkről a 135. § (5) bekezdés b) és e) pontjában meghatározott adattartalommal,
 
-d) az általa kijelölt, eseti gondnoki és gyermekvédelmi gyámi feladatokra kirendelhető személyekről,
+d) az általa kijelölt, eseti gyámi és gyermekvédelmi gyámi feladatokra kirendelhető személyekről,
 
-e) az állami és nem állami fenntartó által működtetett intézményben, illetve nevelőszülőnél ideiglenes hatállyal elhelyezett, nevelésbe vett gyermek, továbbá az utógondozói ellátásban, illetve utógondozásban részesülő fiatal felnőtt gondozási napjairól.
+e) az állami és nem állami fenntartó által működtetett intézményben, illetve nevelőszülőnél ideiglenes hatállyal elhelyezett, nevelésbe vett gyermek, továbbá az utógondozói ellátásban, illetve utógondozásban részesülő fiatal felnőtt gondozási napjairól,
+
+f) az örökbefogadás utánkövetéséről a 135. § (5) bekezdés c) pontjában meghatározott adattartalommal.
 
 (2) Az (1) bekezdés c) pontjában meghatározott nyilvántartásokról – a titkos örökbefogadás kivételével – a területi gyermekvédelmi szakszolgálat kérelemre tájékoztatja a szülőket, valamint az örökbefogadásra váró szülőket.
 

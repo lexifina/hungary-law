@@ -4,7 +4,7 @@
 
 a) huszonnegyedik életévét betöltötte,
 
-b) cselekvőképes,
+b) nem áll cselekvőképességet érintő gondnokság és támogatott döntéshozatal hatálya alatt,
 
 c) büntetlen előéletű,
 

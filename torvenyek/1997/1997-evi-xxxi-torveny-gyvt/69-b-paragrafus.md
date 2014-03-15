@@ -6,6 +6,8 @@ b) a 69/A. § (2) és (3) bekezdés szerinti szolgáltatások nyújtására
 
 irányulhat.
 
+(1a) A közhasznú szervezet a 69/A. § (2) bekezdés e) pontja és a 69/A. § (3) bekezdése szerinti szolgáltatást önállóan, valamint az örökbefogadásnak az általa vagy a területi gyermekvédelmi szakszolgálat által biztosított utánkövetése mellett is nyújthatja.
+
 (2) A szolgáltatás nem terjedhet ki
 
 a) a gyermekvédelmi gondoskodásban részesülő nevelésbe vett gyermek örökbefogadásának elősegítésére,

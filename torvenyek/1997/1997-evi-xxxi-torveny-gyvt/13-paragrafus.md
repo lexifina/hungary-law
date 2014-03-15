@@ -6,7 +6,7 @@ b) a gyámhatóságtól gyermeke gondozási helyének megváltoztatását kérje
 
 c) a gyermeke családba történő visszahelyezése érdekében a települési önkormányzattól – a nevelésbe vétel okának elhárításához, a körülmények rendezéséhez, a gyermeke családba való visszailleszkedéséhez – segítséget kapjon,
 
-d) a Csjt.-nek megfelelően a gyermeke sorsát érintő lényeges kérdésekben – a gyermeke nevének meghatározásáról, illetve megváltoztatásáról, tartózkodási helyének kijelöléséről, iskolájának, valamint életpályájának megválasztásáról – meghallgassák.
+d) a Ptk. családjogra irányadó szabályainak megfelelően a gyermeke sorsát érintő lényeges kérdésekben – a gyermeke nevének meghatározásáról, illetve megváltoztatásáról, tartózkodási helyének kijelöléséről, iskolájának, valamint életpályájának megválasztásáról – meghallgassák.
 
 (2) A nevelésbe vett gyermek kapcsolattartásra feljogosított szülője jogosult és köteles
 

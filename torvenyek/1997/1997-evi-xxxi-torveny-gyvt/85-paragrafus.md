@@ -1,4 +1,4 @@
-85. § (1) A gyermekvédelmi gyámra az e törvényben meghatározott kivételekkel a Csjt. gyámságra vonatkozó rendelkezései az irányadóak.
+85. § (1) A gyermekvédelmi gyámra az e törvényben meghatározott kivételekkel a Ptk. gyámságra vonatkozó rendelkezései az irányadóak.
 
 (2) A gyermekvédelmi gyám kezdeményezheti a gyámhatóságnál egyes gyámi feladatok ellátására a nevelőszülő gyámként történő kirendelését, ha
 

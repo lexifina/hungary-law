@@ -32,7 +32,7 @@ továbbíthatók.
 
 (4) A szülő és más törvényes képviselő személyazonosító adatai, továbbá az egészségi állapotára és vagyoni viszonyaira vonatkozó adatai az (1)–(3) bekezdések szerinti szerveknek átadhatók.
 
-(5) A gyámhatóság és a személyes gondoskodást nyújtó gyermekjóléti, gyermekvédelmi szolgáltató tevékenységet végző szervezet alkalmazottja és vezetője, a gyermek és az őt nevelő szülő, vagy más törvényes képviselő tartózkodási helyére vonatkozóan megtagadhatja a szülő tájékoztatását, illetve korlátozhatja a szülő iratbetekintési jogát, ha
+(5) A gyámhatóság és a személyes gondoskodást nyújtó gyermekjóléti, gyermekvédelmi szolgáltató tevékenységet végző szervezet alkalmazottja és vezetője, a gyermek és az őt nevelő szülő vagy a gyermek törvényes képviselője tartózkodási helyére vonatkozóan megtagadhatja a szülő tájékoztatását, illetve korlátozhatja a szülő iratbetekintési jogát, ha
 
 a) a szülő ellen gyermeke vagy a gyermeket nevelő másik szülő sérelmére elkövetett bűncselekmény miatt büntetőeljárás van folyamatban, annak jogerős befejezéséig,
 

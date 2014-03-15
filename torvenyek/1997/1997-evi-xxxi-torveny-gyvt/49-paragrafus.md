@@ -2,7 +2,7 @@
 
 49. § (1) A helyettes szülő a családban élő gyermek átmeneti gondozását – a működtető által készített egyéni gondozási-nevelési terv alapján – saját háztartásában biztosítja.
 
-(2) Helyettes szülő az a huszonnegyedik évet betöltött, cselekvőképes, büntetlen előéletű személy lehet, aki
+(2) Helyettes szülő az a huszonnegyedik évet betöltött, cselekvőképességet érintő gondnokság alatt nem álló, támogatott döntéshozatal hatálya alatt nem álló és büntetlen előéletű személy lehet, aki
 
 a) személyisége, egészségi állapota és körülményei alapján alkalmas a gyermek átmeneti gondozására, és vállalja, hogy a szükséges ideig a nála elhelyezendő gyermeket gondozza, neveli, feltéve, hogy vele szemben nem áll fenn a 15. § (8) bekezdésében meghatározott kizáró ok, és
 

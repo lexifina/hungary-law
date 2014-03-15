@@ -6,7 +6,7 @@ a) a 151. § (5) bekezdésének a) és b) pontjában meghatározott gyermekétke
 
 b) a 20/A. §-ban meghatározott természetbeni támogatásnak,
 
-c) a külön jogszabályban meghatározott egyéb kedvezményeknek
+c) az e törvényben és más jogszabályban meghatározott egyéb kedvezményeknek
 
 az igénybevételére.
 
@@ -44,7 +44,7 @@ d) 25 évesnél fiatalabb, önálló keresettel nem rendelkező, felsőoktatási
 
 e) korhatárra való tekintet nélkül a tartósan beteg és a fogyatékos gyermeket,
 
-f) az a)–e) pontokba nem tartozó, a Csjt. alapján a szülő vagy házastársa által eltartott rokont.
+f) az a)–e) pontokba nem tartozó, a Ptk. családjogra irányadó szabályai alapján a szülő vagy házastársa által eltartott rokont.
 
 (5) A (4) bekezdés alkalmazásában szülő alatt a családbafogadó gyámot kell érteni, ha a családbafogadó gyám a gyámsága alá helyezett gyermek tartására köteles.
 

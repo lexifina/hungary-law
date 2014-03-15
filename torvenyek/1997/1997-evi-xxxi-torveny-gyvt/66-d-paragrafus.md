@@ -30,7 +30,7 @@ c) azonnali hatályú felmondással.
 
 a) a nevelőszülő külföldön létesít szokásos tartózkodási helyet,
 
-b) a nevelőszülőt a bíróság jogerős ítélettel cselekvőképességet érintő gondnokság alá helyezte,
+b) a nevelőszülőt a bíróság jogerős ítélettel cselekvőképességet érintő gondnokság alá helyezte vagy számára a gyámhatóság támogatót rendelt ki,
 
 c) a nevelőszülővel vagy a vele egy háztartásban élő más személlyel szemben a 15. § (8) bekezdésében meghatározott kizáró ok fennállásáról szerez tudomást,
 

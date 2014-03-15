@@ -16,4 +16,6 @@
 
 (5) A gyermeknek joga van emberi méltósága tiszteletben tartásához, a bántalmazással – fizikai, szexuális vagy lelki erőszakkal –, az elhanyagolással és az információs ártalommal szembeni védelemhez. A gyermek nem vethető alá kínzásnak, testi fenyítésnek és más kegyetlen, embertelen vagy megalázó büntetésnek, illetve bánásmódnak.
 
+(5a) A gyermeknek joga van ahhoz, hogy a védelme érdekében eljáró szakemberek – különösen a gyermek bántalmazásának felismerése és megszüntetése érdekében – egységes elvek és módszertan alkalmazásával járjanak el.
+
 (6) A gyermeknek joga van ahhoz, hogy a médiában fejlettségének megfelelő, ismeretei bővítését segítő, a magyar nyelv és kultúra értékeit őrző műsorokhoz hozzáférjen, továbbá hogy védelmet élvezzen az olyan káros hatásokkal szemben, mint a gyűlöletkeltés, az erőszak és a pornográfia.

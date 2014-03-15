@@ -1,0 +1,1 @@
+135/C. § A területi gyermekvédelmi szakszolgálat, az örökbefogadás utánkövetését végző közhasznú szervezet és a gyámhatóság az örökbefogadás utánkövetése érdekében a 135. § (5) bekezdés c) pontjában és a 135/A. § (1a) bekezdésében meghatározott adatokat egymásnak átadhatják.

@@ -1,6 +1,6 @@
 ## VIII/A. Fejezet
 
-## A NYÍLT ÖRÖKBEFOGADÁST ELŐSEGÍTŐ TEVÉKENYSÉG
+## A KÖZHASZNÚ SZERVEZET NYÍLT ÖRÖKBEFOGADÁST ELŐSEGÍTŐ ÉS AZ ÖRÖKBEFOGADÁST UTÁNKÖVETŐ TEVÉKENYSÉGE
 
 ## A nyílt örökbefogadást elősegítő tevékenység körébe tartozó szolgáltatások
 
@@ -18,4 +18,6 @@ d) az örökbe fogadni szándékozó személyről és az örökbe fogadandó gye
 
 e) az örökbefogadás engedélyezését követően a vér szerinti szülőnek és az örökbe fogadó szülőnek történő segítségnyújtás, tanácsadás, valamint kérelemre az örökbe fogadott gyermek (személy) vér szerinti szülőjével való kapcsolatfelvételének elősegítése, ha a gyámhatóság vagy a bíróság a vér szerinti szülő természetes személyazonosító adatait közölte.
 
-(3) A közhasznú szervezet az örökbe fogadó szülő, az örökbe fogadott gyermek vagy a vér szerinti szülő kérelmére számukra örökbefogadás utáni segítséget nyújtó szolgáltatásokat biztosíthat, elősegítheti az ellátásokhoz való hozzájutást.
+(3) A közhasznú szervezet az örökbe fogadó szülő, az örökbe fogadott gyermek vagy a vér szerinti szülő számára, kérelmükre – az örökbefogadás utánkövetésének 69/F. § szerinti szolgáltatásaiba nem tartozó – örökbefogadás utáni segítséget nyújtó szolgáltatásokat biztosíthat, elősegítheti az ellátásokhoz való hozzájutást.
+
+(4) A közhasznú szervezet az örökbe fogadni szándékozó személyek, az örökbefogadó családok és az örökbefogadottak számára klubot, segítő csoportot működtethet.

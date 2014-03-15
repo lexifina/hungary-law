@@ -20,12 +20,12 @@ g) szükség esetén kérelmezi a gyermek tanulási képességét érintő vizsg
 
 (3) A gyermekvédelmi gyám tájékoztatja a gyermeket az otthonteremtési támogatás és az utógondozói ellátás iránti kérelem benyújtásának lehetőségéről és elősegíti a gyermek kérelmének benyújtását.
 
-(4) A gyámhatóság a gyermek képviseletének ellátására eseti gondnokot rendel
+(4) A gyámhatóság a gyermek képviseletének ellátására eseti gyámot rendel
 
-a) hivatalból, ha a gyermekvédelmi gyám a gyermek törvényes képviseletét a Csjt. szabályai szerint nem láthatja el,
+a) hivatalból, ha a gyermekvédelmi gyám a gyermek törvényes képviseletét a Ptk. családjogra irányadó szabályai szerint nem láthatja el,
 
 b) kérelemre, ha a különleges szakértelmet igénylő ügyekben a gyermekvédelmi gyám nem vállalkozik a gyermek képviseletének ellátására.
 
-(5) A gyámhatóság a (4) bekezdés a) pontjában meghatározott esetben elsősorban a területi gyermekvédelmi szakszolgálatnak ezzel a feladattal megbízott munkatársai közül jelöli ki az eseti gondnokot.
+(5) A gyámhatóság a (4) bekezdés a) pontjában meghatározott esetben elsősorban a területi gyermekvédelmi szakszolgálatnak ezzel a feladattal megbízott munkatársai közül jelöli ki az eseti gyámot.
 
 (6) A nevelési felügyelettel kapcsolatos eljárásban a gyermek képviselőjeként a gyámhatóság a gyermekjogi képviselőt rendeli ki. Ha a gyermekjogi képviselő kirendelése akadályokba ütközik, a nevelési felügyelettel kapcsolatos eljárásban a gyermeket a gyermekvédelmi gyám képviseli.

@@ -8,4 +8,4 @@
 
 (5) Az Szt. hatálya alá tartozó fogyatékosok és pszichiátriai betegek otthonában az Szt.-ben meghatározott feltételek szerint helyezhetők el gyermekek.
 
-(6) A gyermek és hozzátartozói közötti kapcsolattartás szabályozása vagy annak végrehajtása iránti eljárásban felmerülő konfliktus megoldására a gyámhatóság kezdeményezheti a konfliktusnak közvetítői (mediációs) eljárás keretében történő rendezését. A közvetítő eljárás rendjét külön jogszabály szabályozza.
+(6) A gyermek és hozzátartozói közötti kapcsolattartás szabályozása vagy annak végrehajtása iránti eljárásban felmerülő konfliktus megoldására a gyámhatóság kezdeményezheti vagy a gyermek érdekében elrendelheti a konfliktusnak – a gyámhatóságokról, valamint a gyermekvédelmi és gyámügyi eljárásról szóló kormányrendeletben meghatározottak szerint lefolytatott – közvetítői eljárás vagy támogatott közvetítői eljárás keretében történő rendezését.

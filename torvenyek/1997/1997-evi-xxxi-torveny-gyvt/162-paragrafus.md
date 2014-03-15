@@ -20,9 +20,9 @@ h) a helyettes szülői jogviszony és a nevelőszülői foglalkoztatási jogvis
 
 i) a szolgáltatói nyilvántartás vezetésének részletes szabályait, a gyermekjóléti, gyermekvédelmi szolgáltató tevékenységet végző szolgáltatók, intézmények és hálózatok ágazati azonosítójára és annak használatára vonatkozó szabályokat, a szolgáltatói nyilvántartásra vonatkozó hatósági eljárások részletes szabályait, a gyermekjóléti, gyermekvédelmi szolgáltató tevékenységet végző szolgáltatók, intézmények és hálózatok ellenőrzésének részletes szabályait, a jogsértés esetén alkalmazható jogkövetkezményeket, a bejegyzés hiányában nyújtott szolgáltatásokra vonatkozó szabályokat, valamint a szolgáltatói nyilvántartást vezető szerv vagy szervek és a működést engedélyező szerv vagy szervek kijelölését,
 
-j) az örökbefogadást elősegítő magánszervezetek tevékenységét és működésük engedélyezését, továbbá a szolgáltatást engedélyező szerv kijelölését,
+j) az örökbefogadást elősegítő és az örökbefogadás utánkövetését végző magánszervezetek tevékenységét és működésük engedélyezését, továbbá a szolgáltatást engedélyező szerv kijelölését,
 
-k) a gyermekvédelmi közvetítői eljárás részletes szabályait,
+k) a gyermekvédelmi közvetítői eljárás és a támogatott közvetítői eljárás elrendelésének és alkalmazásának szabályait,
 
 l)
 
@@ -75,3 +75,15 @@ g) a külföldi alap-, közép- és felsőfokú szakképzés, valamint szakirán
 h) a módszertani feladatokat ellátó szerv feladataira vonatkozó részletes szabályokat,
 
 i) az örökbefogadás előtti tanácsadás és felkészítő tanfolyam részletes szabályait és az azokért fizetendő díjat,
+
+j) a gyermekvédelmi szakértői bizottság eljárásának részletes szabályait,
+
+k) a bölcsődében a nevelés-gondozás nélküli munkanapok számát, célját, időpontját, valamint az e napokon nyújtott ellátás tartalmát,
+
+l) a Biztos Kezdet Gyerekház szakmai feladatait és működési feltételeit.
+
+(3) Felhatalmazást kap a családpolitikáért felelős miniszter, hogy a hivatásos gondnoki feladatot ellátók képesítési előírásait rendeletben szabályozza.
+
+(4) Felhatalmazást kap a miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben rendeletben szabályozza a szolgáltatói nyilvántartásra vonatkozó hatósági eljárásokban a szakmai program véleményezéséért a módszertani feladatokat ellátó szervnek fizetendő szakértői díj mértékét.
+
+(5) Felhatalmazást kap a nevelési-oktatási intézményt fenntartó helyi önkormányzat, hogy rendeletben határozza meg azokat a szabályokat, amelyek keretei között a nevelési-oktatási intézmény vezetője egyéni rászorultság alapján kedvezményt állapít meg a gyermekétkeztetés térítési díjának megfizetésére.

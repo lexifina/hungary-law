@@ -6,7 +6,7 @@ a) az örökbe fogadni szándékozó személy
 
 aa) személyazonosító adatait, társadalombiztosítási azonosító jelét,
 
-ab) Csjt. 47. §-a szerinti alkalmasságára vonatkozó adatokat,
+ab) Ptk. 4:121. §-a szerinti alkalmasságára vonatkozó adatokat,
 
 ac) örökbe fogadandó gyermekkel kapcsolatos elvárásaira vonatkozó adatokat,
 
@@ -18,4 +18,6 @@ bb) egészségi állapotára vonatkozó adatokat.
 
 (3) A (2) bekezdés szerinti adatok a szolgáltatást igénybe vevővel való megállapodás megkötését követően haladéktalanul bekerülnek a nyilvántartásba.
 
-(4) Az örökbefogadást elősegítő közhasznú szervezet az adatkezelés céljának megszűnését követően haladéktalanul törli a nyilvántartásból az érintettre vonatkozó adatokat.
+(3a) Az örökbefogadás utánkövetését végző közhasznú szervezet – az örökbefogadás utánkövetése céljából – a 135/A. § (1a) bekezdésében meghatározott adattartalommal nyilvántartást vezet.
+
+(4) Az örökbefogadást elősegítő és az örökbefogadás utánkövetését végző közhasznú szervezet az adatkezelés céljának megszűnését követően haladéktalanul törli a nyilvántartásból az érintettre vonatkozó adatokat.
