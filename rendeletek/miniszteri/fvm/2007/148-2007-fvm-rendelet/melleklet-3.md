@@ -1,3 +1,3 @@
-3. számú melléklet a 148/2007. (XII. 8.) FVM rendelethez[^38]
+3. számú melléklet a 148/2007. (XII. 8.) FVM rendelethez[^41]
 
-[^38]: A 3. számú melléklet a 8/2010. (II. 4.) FVM rendelet 2. § (12) bekezdésével megállapított szöveg.
+[^41]: A 3. számú melléklet a 8/2010. (II. 4.) FVM rendelet 2. § (12) bekezdésével megállapított szöveg.

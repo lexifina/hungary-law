@@ -64,7 +64,7 @@
 
 ## – A pulyka esetében a baromfi ágazatban igénybe vehető állatjóléti támogatások feltételeiről szóló 139/2007. (XI. 28.) FVM rendelet 1. számú melléklete szerint.
 
-2. számú melléklet a 148/2007. (XII. 8.) FVM rendelethez[^37]
+2. számú melléklet a 148/2007. (XII. 8.) FVM rendelethez[^39]
 
 ## Jóváhagyási kérelem adattartalma
 
@@ -106,7 +106,7 @@
 
 4. Nyilatkozat:
 
-4.1. arról, hogy kérelmező jogi személy, jogi személyiség nélküli gazdasági társaság nem áll csőd-, felszámolási vagy végelszámolási eljárás alatt, illetve az egyéni vállalkozó ellen gazdálkodási tevékenységével összefüggő végrehajtási eljárás nincs folyamatban;
+4.1.[^40] arról, hogy kérelmező jogi személy, jogi személyiséggel nem rendelkező szervezet nem áll csőd-, felszámolási vagy végelszámolási eljárás alatt, illetve az egyéni vállalkozó ellen gazdálkodási tevékenységével összefüggő végrehajtási eljárás nincs folyamatban;
 
 4.2. arról, hogy a kérelmezőnek lejárt köztartozása nem áll fenn;
 
@@ -126,4 +126,5 @@
 
 A hatósági állatorvos igazolása a hazai és közösségi állat-egészségügyi és állatjóléti jogszabályok által előírt feltételek teljesítéséről.
 
-[^37]: A 2. számú melléklet a 23/2011. (III. 28.) VM rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^39]: A 2. számú melléklet a 23/2011. (III. 28.) VM rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^40]: A 2. számú melléklet 4.1. pontja a 22/2014. (III. 14.) VM rendelet 53. § b) pontja szerint módosított szöveg.
