@@ -14,7 +14,8 @@ b) az Országos Rendőr-főkapitányság elkülönített előirányzat-felhaszn�
 
 meghatározott számlára kell utalni.
 
-(3) Az 1. § c) pontjában szereplő bevételt az adományozó – közérdekű kötelezettségvállalásként (Ptk. 593. §) – teljesítheti.
+(3)[^5] Az 1. § c) pontjában szereplő bevételt az adományozó – a Polgári Törvénykönyv szerinti közérdekű kötelezettségvállalásként – teljesítheti.
 
 [^3]: A 3. § (1) bekezdése a 228/2012. (VIII. 23.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^4]: A 3. § (1) bekezdés a) pontja a 42/2013. (II. 18.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^5]: A 3. § (3) bekezdése az 53/2014. (III. 3.) Korm. rendelet 5. §-a szerint módosított szöveg.
