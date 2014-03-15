@@ -85,3 +85,5 @@
 38. interoperabilitás: a téradatkészletek összeköttetésének és a téradat-szolgáltatások között ismételt kézi beavatkozás nélkül létrejövő olyan összekapcsolódásnak a lehetősége, amely a téradatkészletek és -szolgáltatások elérését magasabb minőséggel biztosítja, mint a 48/G. § (2) bekezdésében meghatározott információs rendszerek elkülönülten;
 
 39. térinformatikai eszköz: olyan informatikai, geodéziai vagy távérzékelési eszköz, amely téradat rögzítésére, tárolására, kezelésére, továbbá megjelenítésére szolgál.
+
+40. gazdálkodó szervezet: a polgári perrendtartásról szóló törvényben meghatározott gazdálkodó szervezet.

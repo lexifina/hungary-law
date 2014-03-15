@@ -22,7 +22,7 @@ aa) természetes személyazonosító adatok,
 
 ab) lakcím;
 
-b) jogi személy, jogi személyiség nélküli gazdasági társaság és egyéni cég esetében
+b) jogi személy, jogi személyiséggel nem rendelkező szervezet esetében
 
 ba) cég neve, cégjegyzék száma, adószáma, statisztikai számjele,
 
