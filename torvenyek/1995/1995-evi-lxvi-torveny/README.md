@@ -18,3 +18,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1995-66-00-00
 | 2013-01-01 | 2012. évi CCXIII. törvény | 1995-66-00-00.31 |
 | 2013-04-05 | 2013. évi XXXV. törvény | 1995-66-00-00.32 |
 | 2013-08-01 | 2013. évi CXXXIII. törvény | 1995-66-00-00.33 |
+| 2014-03-15 | 2013. évi CCLII. törvény | 1995-66-00-00.34 |

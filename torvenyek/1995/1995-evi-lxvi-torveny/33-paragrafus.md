@@ -18,6 +18,6 @@ b) működő szerv irattári anyaga, kivéve az (1) bekezdés c) és d) pontjáb
 
 (3) A hatóság határozatban kötelezheti a tulajdonost arra, hogy védetté nyilvánított levéltári anyagát biztonsági másolat elkészítése céljából – meghatározott időtartamra – a Magyar Nemzeti Levéltárnak átadja. A levéltári anyag oda- és visszaszállításáról – a tulajdonossal történt megállapodás szerint – a Magyar Nemzeti Levéltár gondoskodik.
 
-(4) A (3) bekezdésben meghatározott biztonsági másolatot a Magyar Nemzeti Levéltár őrzi meg. A biztonsági másolatról további másolat készítését, valamint az abban folytatható kutatást a tulajdonos, ha a kutatás személyhez fűződő jogait vagy jogos érdekeit sértené, meghatározott időtartamra szólóan megtilthatja.
+(4) A (3) bekezdésben meghatározott biztonsági másolatot a Magyar Nemzeti Levéltár őrzi meg. A biztonsági másolatról további másolat készítését, valamint az abban folytatható kutatást a tulajdonos, ha a kutatás személyiségi jogait vagy jogos érdekeit sértené, meghatározott időtartamra szólóan megtilthatja.
 
 (5) A magániratok védetté nyilvánítására és a védetté nyilvánított levéltári anyagra egyebekben a kulturális örökség védelméről szóló törvényben foglaltakat kell alkalmazni.

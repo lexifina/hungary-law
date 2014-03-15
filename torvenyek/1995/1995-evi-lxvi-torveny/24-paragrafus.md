@@ -4,7 +4,7 @@
 
 a) a kutatás — a kérelmező költségére — anonimizált másolattal is megvalósítható, vagy
 
-b) a kutatáshoz az érintett, vagy annak halálát követően bármely örököse vagy hozzátartozója a kutató kérésére hozzájárult, vagy
+b) a kutatáshoz az érintett, vagy annak halálát követően bármely örököse, a Polgári Törvénykönyv szerinti hozzátartozója vagy bejegyzett élettársa a kutató kérésére hozzájárult, vagy
 
 c) a kutatásra tudományos célból van szükség — feltéve, hogy a 22. § (1) bekezdésében meghatározott harminc, illetve tizenöt év már eltelt — és a kutató a (3) és (4) bekezdésben meghatározott követelményeknek eleget tesz.
 

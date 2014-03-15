@@ -4,4 +4,4 @@
 
 (3) A Kormány felhatalmazást kap arra, hogy személyes adatot – ideértve a különleges adatot is – tartalmazó levéltári anyag másolatának, a történelmi eseményekről folytatott kutatások eredményeinek bemutatása céljából, külföldi tudományos intézmény részére, a 24. § (1) bekezdésében meghatározott védelmi idő lejárta előtt történő átadása tárgyában adatvédelmi szerződést kössön.
 
-(4) A (3) bekezdésben meghatározott adatvédelmi szerződésen alapuló adattovábbítást – a 24. § (1) bekezdésében foglalt védelmi idő lejártáig – az érintett, vagy annak halálát követően bármely örököse vagy hozzátartozója megtilthatja. A tiltakozási jog gyakorlásával kapcsolatos eljárás szabályait a kultúráért felelős miniszter állapítja meg.
+(4) A (3) bekezdésben meghatározott adatvédelmi szerződésen alapuló adattovábbítást – a 24. § (1) bekezdésében foglalt védelmi idő lejártáig – az érintett, vagy annak halálát követően bármely örököse, a Polgári Törvénykönyv szerinti hozzátartozója vagy bejegyzett élettársa megtilthatja. A tiltakozási jog gyakorlásával kapcsolatos eljárás szabályait a kultúráért felelős miniszter állapítja meg.

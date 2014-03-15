@@ -32,7 +32,7 @@ n) nyilvános magánlevéltár: a természetes személy, valamint a nem közfela
 
 o) levéltári kutatás: a levéltári anyag tanulmányozása, abból adatok kigyűjtése tudományos vagy más cél érdekében;
 
-p)
+p) gazdálkodó szervezet: a polgári perrendtartásról szóló törvényben meghatározott gazdálkodó szervezet;
 
 r) közlevéltár illetékessége (illetékességi köre): a maradandó értékű irattári anyagnak az a köre, amelyre vonatkozóan törvény közlevéltárba adási kötelezettséget ír elő, s amelyet az adott közlevéltár törvény rendelkezése, illetve fenntartójának döntése alapján köteles átvenni;
 
