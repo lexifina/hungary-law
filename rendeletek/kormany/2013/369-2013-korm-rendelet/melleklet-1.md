@@ -1,6 +1,6 @@
-## 57. §[^2]
+## 57. §[^3]
 
-1. melléklet a 369/2013. (X. 24.) Korm. rendelethez
+1. melléklet a 369/2013. (X. 24.) Korm. rendelethez[^4]
 
 ## A szolgáltatói nyilvántartás adatai
 
@@ -216,7 +216,7 @@
 
 3.1.28.4. az a férőhelyszám, amelynek erejéig a nevelőszülő átmeneti gondozásra befogadhatja a gondozásában lévő kiskorú szülő, valamint utógondozói ellátásban részesülő fiatal felnőtt gyermekét,
 
-3.1.28.5. ha a nevelőszülői hálózat a szakmai programja alapján alkalmas – különleges vagy speciális hivatásos nevelőszülő alkalmazása nélkül is – különleges vagy speciális szükségletű gyermekek integrált ellátására, az erre vonatkozó adat,
+3.1.28.5. ha a nevelőszülői hálózat a szakmai programja alapján alkalmas – különleges vagy speciális nevelőszülő alkalmazása nélkül is – különleges vagy speciális szükségletű gyermekek integrált ellátására, az erre vonatkozó adat,
 
 3.1.29. gyermekotthon:
 
@@ -334,4 +334,5 @@
 
 6.3.3. a 6.3.1. és a 6.3.2. pontban nem említett szolgáltatás esetén település, fővárosi kerület, kistérség, járás, megye, régió megnevezésével vagy annak feltüntetésével, hogy az ellátási terület az ország egész területe.
 
-[^2]: Az 57. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 57. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 1. melléklet a 69/2014. (III. 13.) Korm. rendelet 18. §-a szerint módosított szöveg.
