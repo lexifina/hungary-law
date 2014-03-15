@@ -34,7 +34,7 @@
 
 ## Betegsége:
 
-## Cselekvőképtelen vagy korlátozottan cselekvőképes (kiskorú) esetén a nyilatkozattételre jogosult személy
+## Nyilatkozattételre jogosult személy
 
 ## neve:
 
