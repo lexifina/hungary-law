@@ -1,34 +1,38 @@
-## 1. Az ingatlan-nyilvántartási kérelem első része az alábbi adatokat tartalmazza:
+## 1.[^300] Az ingatlan-nyilvántartási kérelem első része az alábbi adatokat tartalmazza:
 
 ## 1.1. a kérelmező értesítési címe, ügyintézőjének neve;
 
-## 1.2. a kérelmező személyi azonosítója, illetve statisztikai számjele;
+## 1.2. a kérelmező személyi azonosítója, vagy statisztikai számjele/belső egyedi azonosítója;
 
-## 1.3. a kérelmező állampolgársága, illetve cégjegyzékszáma;
+## 1.3. a kérelmező állampolgársága, vagy cégjegyzékszáma;
 
-## 1.4. a kérelemhez kapcsolódó földhivatali iktatószám;
+## 1.4. a kérelemhez kapcsolódó földhivatali iktatószám (ha ismert);
 
 ## 1.5. a változással érintett ingatlanok darabszáma;
 
-## 1.6. a bejelentett állandó lakcím átvezetését a kérelmező igényli-e;
+## 1.6. a kérelmezőnek a bejelentett állandó lakcím átvezetésére vonatkozó nyilatkozata;
 
 ## 1.7. a kérelmező soron kívüli ügyintézés igénylésére vonatkozó nyilatkozata;
 
-## 1.8. az egyes ingatlanokra is tekintettel fizetendő összes igazgatási szolgáltatási díj megjelölése;
+## 1.8. a kérelmező függőben tartás igénylésére vonatkozó nyilatkozata;
 
-## 1.9. fizetés módjának megjelölése (készpénzbefizetés, készpénz-átutalási megbízás, átutalási megbízás);
+## 1.9. a kérelmező mezőgazdasági igazgatási szerv jóváhagyásának szükségességéről szóló nyilatkozata;
 
-## 1.10. egyéb megjegyzés;
+## 1.10. az egyes ingatlanokra is tekintettel fizetendő összes igazgatási szolgáltatási díj megjelölése;
 
-## 1.11. mellékletek megjelölése;
+## 1.11. fizetés módjának megjelölése (készpénzbefizetés, készpénz-átutalási megbízás, átutalási megbízás);
 
-## 1.12. a kérelem keltének helye és ideje;
+## 1.12. egyéb megjegyzés;
 
-## 1.13. a kérelmező, vagy képviselő aláírása;
+## 1.13. mellékletek megjelölése;
 
-## 1.14. készpénzbefizetés vagy bankkártyával történő fizetés esetén a földhivatali pénztáros nyilatkozata;
+## 1.14. a kérelem keltének helye és ideje;
 
-## 1.15. az ingatlan-nyilvántartási kérelem vizsgálatával kapcsolatos földhivatali megállapítások.
+## 1.15. a kérelmező, vagy képviselő aláírása;
+
+## 1.16. készpénzbefizetés vagy bankkártyával történő fizetés esetén a földhivatali pénztáros nyilatkozata;
+
+## 1.17. az ingatlan-nyilvántartási kérelem vizsgálatával kapcsolatos földhivatali megállapítások.
 
 ## 2. Az ingatlan-nyilvántartási kérelem második része a változással érintett ingatlan (ingatlanok) tekintetében az alábbi adatokat tartalmazza:
 
@@ -46,6 +50,7 @@
 
 ## 2.7. a kérelmező, vagy képviselő aláírása.
 
-2. számú melléklet a 109/1999. (XII. 29.) FVM rendelethez[^281]
+2. számú melléklet a 109/1999. (XII. 29.) FVM rendelethez[^301]
 
-[^281]: A 2. számú mellékletet a 117/2005. (XII. 19.) FVM rendelet 2. számú melléklete iktatta be, a 48/2010. (IV. 27.) FVM rendelet 98. §-a hatályon kívül helyezte.
+[^300]: Az 1. számú melléklet 1. pontja a 21/2014. (III. 14.) VM rendelet 27. §-ával megállapított szöveg.
+[^301]: A 2. számú mellékletet a 117/2005. (XII. 19.) FVM rendelet 2. számú melléklete iktatta be, a 48/2010. (IV. 27.) FVM rendelet 98. §-a hatályon kívül helyezte.

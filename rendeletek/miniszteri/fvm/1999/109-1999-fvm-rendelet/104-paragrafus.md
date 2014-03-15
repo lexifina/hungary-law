@@ -1,3 +1,3 @@
-## 103. §[^215]
+## 103. §[^232]
 
-[^215]: A 103. §-t a 48/2010. (IV. 27.) FVM rendelet 97. §-a hatályon kívül helyezte.
+[^232]: A 103. §-t a 48/2010. (IV. 27.) FVM rendelet 97. §-a hatályon kívül helyezte.

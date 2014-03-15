@@ -1,6 +1,6 @@
 ## megnevezést kell használni.
 
-## 2.[^17] Bejegyzés, feljegyzés és az adatváltozás átvezetése a tulajdoni lapon
+## 1/A. [^17] Bejegyzés, feljegyzés és az adatváltozás átvezetése a tulajdoni lapon
 
 5. § (1) A bejegyzéseket, feljegyzéseket és az adatváltozásra vonatkozó átvezetéseket (a továbbiakban együtt: bejegyzés) a tulajdoni lap mindhárom részén sorszámozni kell. Ha a bejegyzésben több jogosult szerepel, minden jogosult neve előtt külön sorszámot kell feltüntetni.
 
@@ -12,7 +12,7 @@
 
 (5)[^20]
 
-[^17]: A 2. alcím a 48/2010. (IV. 27.) FVM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^17]: Az 1/A. alcím címe a 21/2014. (III. 14.) VM rendelet 3. §-ával megállapított szöveg.
 [^18]: Az 5. § (2) bekezdése a 48/2010. (IV. 27.) FVM rendelet 7. § (2) bekezdésével megállapított szöveg.
 [^19]: Az 5. § (3) bekezdése a 48/2010. (IV. 27.) FVM rendelet 95. §-a szerint módosított szöveg.
 [^20]: Az 5. § (5) bekezdését a 117/2005. (XII. 19.) FVM rendelet 51. § (4) bekezdése hatályon kívül helyezte.

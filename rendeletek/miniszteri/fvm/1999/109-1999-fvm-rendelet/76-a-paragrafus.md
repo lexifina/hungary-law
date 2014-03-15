@@ -1,6 +1,6 @@
 ## 76. § Ha nem magyar nyelven kiállított okirathoz a magyar nyelvű fordítást is csatolni kell, akkor ez a kötelezettség a kérelemre és az okirat mellékleteire is kiterjed.
 
-## 55/A.[^179] Tulajdonjog bejegyzéshez kapcsolódó lakcímváltozás átvezetése
+## 55/A.[^196] Tulajdonjog bejegyzéshez kapcsolódó lakcímváltozás átvezetése
 
 76/A. § (1) A tv. 27. § (7) bekezdésében meghatározott, tulajdonjog-változással összefüggő lakcím-változás átvezetése iránti eljárás a tulajdonjog bejegyzésről szóló határozatnak a jogosult részére történő közlésétől számított harmincadik napot követő napon indul meg.
 
@@ -8,4 +8,4 @@
 
 (3) Amennyiben a lakcímváltozás személyiadat- és lakcímnyilvántartásba történő bejelentésére a (2) bekezdés szerinti ellenőrzés időpontjáig nem került sor, a járási földhivatal az adatváltozás-átvezetése iránti eljárást megszünteti.
 
-[^179]: Az 55/A. alcímet (76/A. §) a 148/2012. (XII. 28.) VM rendelet 11. §-a iktatta be.
+[^196]: Az 55/A. alcímet (76/A. §) a 148/2012. (XII. 28.) VM rendelet 11. §-a iktatta be.

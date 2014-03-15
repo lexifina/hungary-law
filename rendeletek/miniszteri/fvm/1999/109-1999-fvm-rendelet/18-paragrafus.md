@@ -1,6 +1,9 @@
-18. § (1)[^44] A jelzálogjogi bejegyzésben fel kell tüntetni a jelzálogjog jogosultját, meg kell jelölni a követelés jogcímét, amelynek biztosítására a jelzálogjog szolgál, továbbá fel kell tüntetni a jelzálogjoggal biztosított követelés összegét. Ha a kötelezett (adós) nem a jelzálogjoggal terhelt ingatlan tulajdonosa, a bejegyzésben kötelezettként a személyes adóst is fel kell tüntetni.
+18. §[^53] (1) A jelzálogjogi bejegyzésben fel kell tüntetni a jelzálogjog jogosultját, meg kell jelölni a zálogjoggal biztosított követelést, az alapul szolgáló egy vagy több jogviszonyra utalással és az összeg meghatározásával vagy a bejegyzés alapjául szolgáló okiratra történő utalással. Fogyasztói zálogszerződés esetén a bejegyzésnek tartalmaznia kell a jelzálogjoggal biztosított összeg megjelölését is.
 
-(2)[^45] A követelést összegszerűen, belföldi vagy külföldi pénznemben kell a bejegyzésben meghatározni. Ha a jelzálogjoggal biztosított követelés kamatozó, vagy ha a követelés tőkeösszegén kívül mellékszolgáltatás van kikötve, a bejegyzésben utalni kell a követelés jelzálogszerződésben szereplő e járulékaira is.
+(2) Ha a felek meghatározták azt az összeget, amelynek erejéig a zálogjogosult kielégítést kereshet a zálogtárgyból, a bejegyzésben ezt az összeget fel kell tüntetni.
 
-[^44]: A 18. § (1) bekezdésének első mondata a 117/2005. (XII. 19.) FVM rendelet 5. § (1) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 51. § (1)–(2) bekezdését.
-[^45]: A 18. § (2) bekezdésének második mondata a 117/2005. (XII. 19.) FVM rendelet 5. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 51. § (1)–(2) bekezdését.
+(3) A bejegyzésben megjelölt összeg csak egyféle – vagy belföldi vagy külföldi – pénznemben szerepelhet.
+
+(4) Ha a személyes kötelezett (adós) nem a jelzálogjoggal terhelt ingatlan tulajdonosa, a bejegyzésben a személyes adóst is fel kell tüntetni.
+
+[^53]: A 18. § a 21/2014. (III. 14.) VM rendelet 8. §-ával megállapított szöveg.

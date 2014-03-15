@@ -1,13 +1,9 @@
-## 36. § A jelzálogjog ranghelyével való rendelkezés jogát a későbbi rangsorban bejegyzett elidegenítési és terhelési tilalom csak abban az esetben szünteti meg, ha a zálogkötelezett az elidegenítési és terhelési tilalom bejegyzésével kapcsolatosan a megelőző jelzálogjogi ranghely tekintetében a ranghellyel rendelkezés jogáról az elidegenítési és terhelési tilalom jogosultja javára külön lemondott.
+## 32. [^99] Bizalmi vagyonkezelés alapján fennálló kezelt vagyonba tartozó tulajdonjog
 
-## 32.[^84] Lemondás a jelzálogjog ranghelyével való rendelkezés jogáról
+37. § (1) Bizalmi vagyonkezelés alapján fennálló kezelt vagyonba tartozó tulajdonjog tényét egész ingatlanra, egész tulajdoni illetőségre vagy ezek eszmei hányadára lehet feljegyezni.
 
-37. § (1) A tulajdoni lap III. részén fel lehet jegyezni, hogy a zálogkötelezett valamely meghatározott későbbi zálogjogosult vagy meghatározott más harmadik személy irányában lemondott arról a jogáról, hogy meghatározott zálogjog kitörlése esetén a törölt jelzálogjogi bejegyzés ranghelyével rendelkezhessék, vagy hogy e ranghelyet új jelzálogjog bejegyzésének céljára fenntarthassa.
+(2) Az (1) bekezdésben meghatározott tényt egyidejűleg a szerződésben megjelölt több vagyonrendelő esetén és több kedvezményezett javára is fel lehet jegyezni.
 
-(2) E feljegyzésben meg kell jelölni azt a személyt, akinek javára a lemondás történt, továbbá meg kell jelölni annak a jelzálogjognak a ranghelyét, amelyre a lemondás vonatkozik.
+(3) Több kedvezményezett javára szóló tényfeljegyzés esetén a szerződésben foglaltaknak megfelelően a kedvezményezettek egymás közötti sorrendjét és az őket megillető tulajdoni hányadot is fel kell tüntetni. Ha a vagyonrendelő a kedvezményezettek között sorrendet nem állított fel, illetve ha a kedvezményezetteket egyenlő arányban illeti meg a tulajdoni váromány, a feljegyzésben erre a körülményre külön nem kell utalni.
 
-(3) A lemondás ingatlan-nyilvántartási feljegyzését, annak a jelzálogjognak a törlése előtt, amelynek ranghelyére a lemondás vonatkozik, csak annak a későbbi zálogjogosultnak vagy harmadik személynek, avagy jogutódjuknak, az ingatlan-nyilvántartási szabályok szerint kiállított okiratban kijelentett beleegyezése alapján lehet törölni, akinek javára a zálogkötelezett a ranghellyel rendelkezés jogáról lemondott.
-
-(4) Ugyanilyen hozzájáruló nyilatkozat alapján megengedett a lemondás ellenére, a lemondással érintett zálogjogi ranghelyen újabb, az eredetinél nem terhesebb zálogjog létesítése. Ez a hozzájárulás csak az abban megengedett terhelésre szól, és azt meghaladóan nem oldja fel a zálogkötelezettet a ranghellyel való rendelkezési jogról és a ranghely fenntartásának jogáról lemondó nyilatkozata alól.
-
-[^84]: A 32. alcím a 48/2010. (IV. 27.) FVM rendelet 39. §-ával megállapított szöveg.
+[^99]: A 32. alcím (37. §) a 21/2014. (III. 14.) VM rendelet 20. §-ával megállapított szöveg.

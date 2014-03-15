@@ -16,11 +16,11 @@
 
 ## 1.8. mellékletek megjelölése;
 
-## 1.9.[^285] díjmentességi körök (tárgyi díjmentes eljárások) megjelölése jogszabályi hivatkozással;
+## 1.9.[^305] díjmentességi körök (tárgyi díjmentes eljárások) megjelölése jogszabályi hivatkozással;
 
-## 1.10.[^286] a kérelem keltének helye és ideje;
+## 1.10.[^306] a kérelem keltének helye és ideje;
 
-## 1.11.[^287] az igénylő aláírása, és – amennyiben annak használatára jogszabály alapján köteles – bélyegzőjének lenyomata.
+## 1.11.[^307] az igénylő aláírása, és – amennyiben annak használatára jogszabály alapján köteles – bélyegzőjének lenyomata.
 
 ## 2. A TakarNet szolgáltatások igénybevétele iránti kérelem jogi személy vagy jogi személyiség nélküli egyéb szervezet kérelmező esetén az alábbi adatokat tartalmazza:
 
@@ -38,13 +38,13 @@
 
 ## 2.7. mellékletek megjelölése;
 
-## 2.8.[^288] díjmentességi körök (tárgyi díjmentes eljárások) megjelölése jogszabályi hivatkozással;
+## 2.8.[^308] díjmentességi körök (tárgyi díjmentes eljárások) megjelölése jogszabályi hivatkozással;
 
-## 2.9.[^289] a kérelem keltének helye és ideje;
+## 2.9.[^309] a kérelem keltének helye és ideje;
 
-## 2.10.[^290] az igénylő szabályszerű aláírása és bélyegzőjének lenyomata.
+## 2.10.[^310] az igénylő szabályszerű aláírása és bélyegzőjének lenyomata.
 
-6. számú melléklet a 109/1999. (XII. 29.) FVM rendelethez[^291]
+6. számú melléklet a 109/1999. (XII. 29.) FVM rendelethez[^311]
 
 1. A tv. alapján elektronikus úton benyújtható kérelem természetes személy kérelmező esetén az alábbi adatokat tartalmazza:
 
@@ -68,10 +68,10 @@
 
 2.5. a kérelem keltének helye és ideje.
 
-[^285]: Az 5. számú melléklet 1.9. pontja a 148/2012. (XII. 28.) VM rendelet 21. § (1) bekezdésével megállapított szöveg.
-[^286]: Az 5. számú melléklet 1.10. pontja a 148/2012. (XII. 28.) VM rendelet 21. § (1) bekezdésével megállapított szöveg.
-[^287]: Az 5. számú melléklet 1.11. pontját a 148/2012. (XII. 28.) VM rendelet 21. § (1) bekezdése iktatta be.
-[^288]: Az 5. számú melléklet 2.8. pontja a 148/2012. (XII. 28.) VM rendelet 21. § (2) bekezdésével megállapított szöveg.
-[^289]: Az 5. számú melléklet 2.9. pontja a 148/2012. (XII. 28.) VM rendelet 21. § (2) bekezdésével megállapított szöveg.
-[^290]: Az 5. számú melléklet 2.10. pontját a 148/2012. (XII. 28.) VM rendelet 21. § (2) bekezdése iktatta be.
-[^291]: A 6. számú mellékletet a 117/2005. (XII. 19.) FVM rendelet 6. számú melléklete iktatta be, szövege a 48/2010. (IV. 27.) FVM rendelet 91. §-ával megállapított szöveg.
+[^305]: Az 5. számú melléklet 1.9. pontja a 148/2012. (XII. 28.) VM rendelet 21. § (1) bekezdésével megállapított szöveg.
+[^306]: Az 5. számú melléklet 1.10. pontja a 148/2012. (XII. 28.) VM rendelet 21. § (1) bekezdésével megállapított szöveg.
+[^307]: Az 5. számú melléklet 1.11. pontját a 148/2012. (XII. 28.) VM rendelet 21. § (1) bekezdése iktatta be.
+[^308]: Az 5. számú melléklet 2.8. pontja a 148/2012. (XII. 28.) VM rendelet 21. § (2) bekezdésével megállapított szöveg.
+[^309]: Az 5. számú melléklet 2.9. pontja a 148/2012. (XII. 28.) VM rendelet 21. § (2) bekezdésével megállapított szöveg.
+[^310]: Az 5. számú melléklet 2.10. pontját a 148/2012. (XII. 28.) VM rendelet 21. § (2) bekezdése iktatta be.
+[^311]: A 6. számú mellékletet a 117/2005. (XII. 19.) FVM rendelet 6. számú melléklete iktatta be, szövege a 48/2010. (IV. 27.) FVM rendelet 91. §-ával megállapított szöveg.

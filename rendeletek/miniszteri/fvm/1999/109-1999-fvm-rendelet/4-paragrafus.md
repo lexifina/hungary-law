@@ -8,19 +8,29 @@ c) az ingatlant terhelő telki szolgalmi jog,
 
 d) állandó jellegű földmérési jelek, valamint villamosberendezések elhelyezését biztosító használati jog, továbbá vezetékjog, vízvezetési és bányaszolgalmi jog, valamint törvény rendelkezésén alapuló közérdekű szolgalmi és használati jog,
 
-e) elő- és visszavásárlási, valamint vételi jog,
+e)[^9] elő- és visszavásárlási, vételi jog, valamint eladási jog,
 
 f) tartási és életjáradéki jog,
 
-g) jelzálogjog (önálló zálogjog) és végrehajtási jog,
+g)[^10] jelzálogjog (különvált zálogjog, önálló zálogjog) és végrehajtási jog,
 
-h)[^9] olyan egyéb jog, amelynek bejegyzését törvény rendeli el.
+h)[^11] olyan egyéb jog, amelynek bejegyzését törvény rendeli el.
 
-(2) A tulajdoni lap III. része tartalmazza továbbá az ingatlanhoz vagy a bejegyzett jogokhoz, illetve annak jogosultjaihoz kapcsolódó következő tényeket:
+(2)[^12] A tulajdoni lap III. része tartalmazza továbbá az ingatlanhoz vagy a bejegyzett jogokhoz, illetve annak jogosultjaihoz kapcsolódó következő tényeket:
 
-1. a III. részen bejegyzett jogosult kiskorúsága vagy gondnokság alá helyezésének ténye,
+1. a III. részen bejegyzett jogosult
 
-2. a jogosulttal szemben megindított felszámolási eljárás, végelszámolás ténye az ügyszám megjelölésével,
+1.1. kiskorúságának ténye,
+
+1.2. gondnokság alá helyezésének ténye,
+
+2. a jogosulttal szemben megindított
+
+2.1. felszámolási eljárás,
+
+2.2. végelszámolás
+
+ténye az ügyszám megjelölésével,
 
 3. a külföldi székhelyű vállalkozás fióktelepének, kereskedelmi képviseletének cégnyilvántartásból történő törlésének ténye,
 
@@ -28,43 +38,95 @@ h)[^9] olyan egyéb jog, amelynek bejegyzését törvény rendeli el.
 
 5. bírósági vagy hatósági határozaton alapuló telekalakítási és építési tilalom elrendelésének ténye, valamint egyéb építésügyi korlátozás,
 
-6. kisajátítási és telekalakítási eljárás megindításának ténye,
+6. kisajátítási eljárás megindításának ténye,
 
-7. ingatlanügyi hatósági döntéssel szembeni fellebbezés, illetve bírósági jogorvoslati kérelem benyújtásának ténye,
+7. telekalakítási eljárás megindításának ténye,
 
-8. a bejegyzés, feljegyzés és az adatváltozás átvezetése alapjául szolgáló, vagy azzal kapcsolatos bírósági döntés elleni felülvizsgálati kérelem benyújtásának ténye,
+8. felmérési, térképezési és területszámítási hiba kijavítására irányuló eljárás megindításának ténye,
 
-9. elidegenítési és terhelési tilalom,
+9. földminősítési eljárás megindításának ténye,
 
-10. a tv. 64. §-ában meghatározott perek és büntetőeljárás megindítása,
+10. ingatlan-nyilvántartási hatósági döntéssel szembeni
 
-11. az árverés, a nyilvános pályázat kitűzésének ténye,
+10.1. fellebbezés,
 
-12. a zárlat, zár alá vétel, zár alá vételt megelőző biztosítási intézkedés, valamint az Európai Unió által elrendelt pénzügyi és vagyoni korlátozó intézkedés végrehajtására irányuló zárlat ténye,
+10.2. bírósági jogorvoslati kérelem,
 
-13. tulajdonjog fenntartással történt eladás ténye,
+10.3. ügyészi felhívás benyújtásának,
 
-14. a bejegyzés, feljegyzés és az adatváltozás átvezetése iránti kérelem vagy megkeresés elutasítása,
+10.4. ügyészi fellépés bejelentésének
 
-15. a törölt zálogjog ranghelyének fenntartása, a ranghellyel való rendelkezés jogáról való lemondás, valamint jelzálogjog ranghelyének előzetes biztosítása,
+ténye,
 
-16. ranghely megváltoztatása,
+10.5. felügyeleti eljárás megindításának ténye,
 
-17. az ingatlan-nyilvántartási eljárás felfüggesztésének ténye,
+11. a bejegyzés, a feljegyzés és az adatváltozás átvezetése alapjául szolgáló, vagy azzal kapcsolatos bírósági döntés elleni felülvizsgálati kérelem benyújtásának ténye,
 
-18. jogerős hatósági vagy bírósági határozattal megállapított tartós környezetkárosodás ténye, mértéke és jellege,
+12. szerződésen, végintézkedésen, jogszabályon, bírósági vagy hatósági határozaton alapuló
 
-19. az épület létesítésének vagy lebontásának ténye,
+12.1. elidegenítési és terhelési tilalom,
 
-20. a társasházakról szóló 2003. évi CXXXIII. törvény 10. § (2) bekezdés szerinti, a közös tulajdon átruházására az összes tulajdoni hányad legalább kétharmadát képviselő tulajdonostársakat feljogosító alapító okirat elfogadása, módosítása, a módosítás időpontja, vagy a társasházakról szóló 2003. évi CXXXIII. törvény 10. § (3) bekezdés szerinti, az összes tulajdoni hányad legalább négyötödét képviselő tulajdonostársaknak a közös tulajdon átruházásáról szóló közgyűlési határozata szerinti alapító okirat módosítása, a módosítás időpontja,
+12.2. elidegenítési tilalom,
 
-21. földminősítési mintatér megjelölése,
+12.3. a rendelkezési jogot korlátozó egyéb tilalom,
 
-22.[^10] ügyészi felhívás és ügyészi fellépés ténye,
+13. a tv. 64. §-ában meghatározott
 
-23.[^11] helyi védelem ténye,
+13.1. perek,
 
-24.[^12] olyan egyéb tény, amelynek feljegyzését törvény elrendeli.
+13.2. büntetőeljárás
+
+megindításának ténye,
+
+14. az árverés, a nyilvános pályázat kitűzésének ténye,
+
+15. a zárlat, zár alá vétel, az Európai Unió által elrendelt pénzügyi és vagyoni korlátozó intézkedés végrehajtására irányuló zárlat ténye,
+
+16. tulajdonjog fenntartással történt eladás ténye,
+
+17. a bejegyzés, feljegyzés és az adatváltozás átvezetése iránti kérelem vagy megkeresés elutasításának ténye,
+
+18. jelzálogjog ranghelyének előzetes biztosítása, lemondás jelzálogjog előzetesen biztosított ranghelyével való rendelkezés jogáról,
+
+19. ranghely megváltoztatása,
+
+20. az ingatlan-nyilvántartási eljárás felfüggesztésének ténye,
+
+21. jogerős hatósági vagy bírósági határozattal megállapított tartós környezetkárosodás ténye, mértéke és jellege,
+
+22. az épület (építmény, műtárgy)
+
+22.1. építésének,
+
+22.2. lebontásának
+
+ténye,
+
+23. a társasházakról szóló törvény szerinti,
+
+23.1. a közös tulajdon átruházására a tulajdonostársak összes tulajdoni hányadának legalább kétharmadát feljogosító alapító okirat elfogadása, módosítása,
+
+23.2. a közös tulajdon átruházására a tulajdonostársak összes tulajdoni hányadának legalább négyötödét feljogosító alapító okirat elfogadása, módosítása,
+
+továbbá az elfogadás, illetve a módosítás időpontja,
+
+24. földminősítési mintatér megjelölése,
+
+25. helyi építészeti örökségvédelem ténye,
+
+26. a földhasználati jog gyakorlása szerződéses szabályozásának ténye,
+
+27. bizalmi vagyonkezelés alapján fennálló kezelt vagyonba tartozó tulajdonjog,
+
+28. a tv.-ben meghatározott megismételt hagyatéki eljárás megindítása,
+
+29. nemzeti emlékhely ténye,
+
+30. történelmi emlékhely ténye,
+
+31. lízingbeadás ténye,
+
+32. olyan egyéb tény, amelynek feljegyzését – a tv. 2. § (2) bekezdése alapján – törvény elrendeli.
 
 (3) A tulajdoni lap III. része tartalmazza továbbá az ingatlan III. részen szereplő adataihoz, vagy a III. részen bejegyzett jogokhoz, feljegyzett tényekhez, illetve azok jogosultjaihoz kapcsolódó következő adatokat.
 
@@ -91,8 +153,8 @@ h) kiegészítő szöveges bejegyzés.
 (5) A tulajdoni lap tartalmazza továbbá a széljegyet.
 
 [^8]: A 4. § a 48/2010. (IV. 27.) FVM rendelet 5. §-ával megállapított szöveg.
-[^9]: A 4. § (1) bekezdés h) pontját a 148/2012. (XII. 28.) VM rendelet 1. § (1) bekezdése iktatta be.
-[^10]: A 4. § (2) bekezdés 22. pontja a 148/2012. (XII. 28.) VM rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^11]: A 4. § (2) bekezdés 23. pontját a 148/2012. (XII. 28.) VM rendelet 1. § (2) bekezdése iktatta be.
-[^12]: A 4. § (2) bekezdés 24. pontját a 148/2012. (XII. 28.) VM rendelet 1. § (2) bekezdése iktatta be.
+[^9]: A 4. § (1) bekezdés e) pontja a 21/2014. (III. 14.) VM rendelet 28. § a) pontja szerint módosított szöveg.
+[^10]: A 4. § (1) bekezdés g) pontja a 21/2014. (III. 14.) VM rendelet 28. § b) pontja szerint módosított szöveg.
+[^11]: A 4. § (1) bekezdés h) pontját a 148/2012. (XII. 28.) VM rendelet 1. § (1) bekezdése iktatta be.
+[^12]: A 4. § (2) bekezdése a 21/2014. (III. 14.) VM rendelet 2. §-ával megállapított szöveg.
 [^13]: A 4. § (3a) bekezdését a 148/2012. (XII. 28.) VM rendelet 1. § (3) bekezdése iktatta be.
