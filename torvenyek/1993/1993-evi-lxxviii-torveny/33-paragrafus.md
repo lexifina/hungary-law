@@ -2,7 +2,7 @@
 
 ## Az albérlet
 
-33. § (1) A bérlő a bérbeadó hozzájárulásával a lakás egy részét albérletbe adhatja. Az albérleti díjban a felek szabadon állapodnak meg.
+33. § (1) A bérlő a bérbeadó hozzájárulásával a lakást vagy annak egy részét albérletbe adhatja. Az albérleti díjban a felek szabadon állapodnak meg.
 
 (2) A lakás albérletbe adásának érvényességéhez a szerződés írásba foglalása szükséges.
 

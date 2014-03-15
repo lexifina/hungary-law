@@ -6,7 +6,7 @@ a) aki büntetett előéletű,
 
 b) aki az ilyen tevékenységtől eltiltó jogerős bírói ítélet hatálya alatt áll,
 
-c) aki a gazdasági társaságokról szóló törvény alapján vezető tisztségviselő nem lehet.
+c) aki gazdasági társaság vezető tisztségviselője nem lehet.
 
 (3) Az engedély iránti kérelem tartalmazza a kérelmező természetes személyazonosító adatait, lakcímét, értesítési címét, a szakképzettségét tanúsító bizonyítvány (oklevél) számát, és ahhoz csatolni kell a szakképesítést tanúsító bizonyítványt.
 

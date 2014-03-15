@@ -1,4 +1,4 @@
-43. § (1) A bérbeadó a határozatlan időre kötött szerződést – ha a felek másként nem állapodtak meg – cserehelyiség biztosítása, és a 24. § (1) bekezdésének a)–d) pontjaiban meghatározott esetek fennállása nélkül is felmondhatja. A felmondási idő – eltérő megállapodás hiányában – egy évnél rövidebb nem lehet.
+43. § (1) Állami vagy önkormányzati helyiség esetén a határozatlan időre kötött szerződés cserehelyiség biztosítása nélkül is felmondható, ha a felek másként nem állapodtak meg. A felmondási idő – eltérő megállapodás hiányában – egy évnél rövidebb nem lehet.
 
 (2)
 
