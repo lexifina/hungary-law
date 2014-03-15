@@ -28,13 +28,13 @@ l) a honvédelmi és katonai célú, valamint a nemzetbiztonsági célú, rendel
 
 m) az építésügyi és építésfelügyeleti hatósági ellenőrzési jegyzőkönyvek és fotómellékleteik,
 
-n) az építési napló és mellékletei,
+n)[^2] az elektronikus építési napló és mellékletei,
 
 o) az épület ingatlan-nyilvántartási feltüntetéséhez a vonatkozó jogszabályi előírások szerint szükséges, hatályos földhivatali záradékkal ellátott változási vázrajz (a továbbiakban: épület-feltüntetési vázrajz),
 
-p) a régészeti és a műemléki védelem alatt álló ingatlanok, területek – külön jogszabály szerinti – nyilvántartási adatai,
+p)[^3] a régészeti és a műemléki védelem alatt álló ingatlanok, területek – külön jogszabály szerinti – dokumentációi és nyilvántartási adatai,
 
-q)[^2] az Étv. 58. § (11) bekezdése szerinti értesítés
+q)[^4] az Étv. 58. § (11) bekezdése szerinti értesítés
 
 ## [a továbbiakban az a)–q) pont együtt: dokumentációk] kezelésére, az építésügy körébe tartozó tevékenységekkel összefüggő adatokra, azok átadására, kezelésére, továbbá az építésügy körébe tartozó hatósági és szakmai tevékenységeket kiszolgáló központi elektronikus alkalmazások és adatállományok működésére és működtetésére.
 
@@ -59,4 +59,6 @@ h) a vasúti pálya, a vasút egyéb helyhez kötött létesítményei és beren
 i) a Magyar Kereskedelmi Engedélyezési Hivatalról és a területi mérésügyi és műszaki biztonsági hatóságokról szóló 320/2010. (XII. 27.) Korm. rendelet 13. § (2) bekezdés a)–j) pontjában meghatározott sajátos építményfajták
 
 [^1]: Az 1. § (1) bekezdés záró szövegrésze a 109/2013. (IV. 9.) Korm. rendelet 5. § (2) bekezdése szerint módosított szöveg.
-[^2]: Az 1. § (1) bekezdés q) pontját a 109/2013. (IV. 9.) Korm. rendelet 5. § (1) bekezdése iktatta be.
+[^2]: Az 1. § (1) bekezdés n) pontja a 62/2014. (III. 6.) Korm. rendelet 22. § a) pontja szerint módosított szöveg.
+[^3]: Az 1. § (1) bekezdés p) pontja a 62/2014. (III. 6.) Korm. rendelet 22. § b) pontja szerint módosított szöveg.
+[^4]: Az 1. § (1) bekezdés q) pontját a 109/2013. (IV. 9.) Korm. rendelet 5. § (1) bekezdése iktatta be.
