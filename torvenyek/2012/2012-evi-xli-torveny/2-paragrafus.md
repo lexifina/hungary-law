@@ -20,6 +20,8 @@ c) olyan egyéb gazdasági társaság, amelyben a települési (fővárosi) önk
 
 6. elővárosi személyszállítási szolgáltatás: a főváros vagy megyei jogú város és annak legfeljebb 70 km-es vonzáskörzete között végzett személyszállítási szolgáltatás;
 
+6a. gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet;
+
 7. határon átmenő személyszállítási szolgáltatás: az a személyszállítási szolgáltatás, amelyben az utazás megkezdésének a helye és a célállomás helye vagy legalább azok egyike Magyarország területén kívül van, de az útvonal részben Magyarország területén halad;
 
 8. helyi személyszállítási szolgáltatás: a település közigazgatási határán belül – helyi díjszabás alapján – végzett személyszállítási szolgáltatás, a közúti járművel végzett személyszállítási közszolgáltatások esetében ideértve a település közigazgatási határon kívül eső vasútállomására (vasúti megállóhelyére), komp- vagy révátkelőhelyére közbeeső megállóhely érintése nélkül történő személyszállítási szolgáltatást is;
@@ -58,7 +60,7 @@ d) vízi jármű: a Vkt.-ban meghatározott, vízen való személyszállításra
 
 21. különjárati személyszállítás: a szállítás megrendelője vagy a szállítást végző közlekedési szolgáltató kezdeményezésére személyek előzetesen összeállított csoportjának szállítása alkalmi jelleggel közlekedő olyan járattal, amely nem felel meg sem a menetrend szerinti személyszállítás, sem a különcélú menetrend szerinti személyszállítás ismérveinek;
 
-22. meghatározó befolyás: a Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) 685/B. §-ában meghatározott meghatározó befolyás;
+22. meghatározó befolyás: a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) 8:2. § (2) bekezdése szerinti meghatározó befolyás;
 
 23. menetrend: a járat útvonalának kezdő- és végpontját, a megállóhelyeket, mindezekre vonatkozóan az indulási és érkezési időpontokat, vagy a járat napi első és utolsó indulási időpontját és a köztes járatgyakoriság ismertetését tartalmazó szolgáltatási előírás;
 
@@ -86,7 +88,7 @@ b) a járművet a személyszállítást végző üzemeltető, annak tagja, a vel
 
 33. szociálpolitikai menetdíj-támogatás: személyszállítási közszolgáltatások keretében megvalósuló utazásokhoz az állam által jogszabályban biztosított utazási kedvezmények ellentételezéséhez nyújtott támogatás;
 
-34. többségi befolyás: Ptk. 685/B. §-a szerinti többségi befolyás;
+34. többségi befolyás: a Ptk. 8:2. § (1) bekezdése szerinti többségi befolyás;
 
 35. vonal: a vasúti közlekedésben a vonatok, a közúti járművel végzett személyszállítási szolgáltatás esetén a közúti járművek indulási és végállomása között az egymás után elhelyezkedő megállási helyek, a hajózásban a kikötési helyeket rögzítő szolgáltatási előírás, függetlenül attól, hogy egy-egy járat megáll-e az adott helyen.
 
