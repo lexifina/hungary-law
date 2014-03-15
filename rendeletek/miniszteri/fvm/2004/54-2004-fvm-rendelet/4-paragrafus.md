@@ -8,8 +8,9 @@ c) az állat szállításának arra alkalmas, a higiéniai előírásoknak megfe
 
 (2)[^12] Az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság az állatot, illetve a terméket kísérő bizonyítvány vagy okirat kiállítása napján a 13. § szerinti informatikai rendszeren keresztül értesíti a rendeltetési hely szerinti tagállam központi illetékes hatóságát, valamint a rendeltetési hely szerinti illetékes hatóságot.
 
-(3) Ha természetes vagy jogi személy, illetve jogi személyiség nélküli gazdasági társaság valamely állategészségügyi vagy állattenyésztési jogszabály előírását megszegi – különös tekintettel arra az esetre, amikor a bizonyítvány, okirat vagy a jelölés valótlan adatot tartalmaz az állat státuszára, származási helyére, vagy a termék valós sajátosságaira vonatkozóan –, a külön jogszabály szerinti jogkövetkezményeket kell alkalmazni.
+(3)[^13] Ha természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező szervezet valamely állategészségügyi vagy állattenyésztési jogszabály előírását megszegi – különös tekintettel arra az esetre, amikor a bizonyítvány, okirat vagy a jelölés valótlan adatot tartalmaz az állat státuszára, származási helyére, vagy a termék valós sajátosságaira vonatkozóan –, a külön jogszabály szerinti jogkövetkezményeket kell alkalmazni.
 
 [^10]: A 4. § (1) bekezdés nyitó szövegrésze az 5/2012. (II. 10.) VM rendelet 13. § a) pontja szerint módosított szöveg.
 [^11]: A 4. § (1) bekezdés b) pontja az 5/2012. (II. 10.) VM rendelet 13. § a) pontja szerint módosított szöveg.
 [^12]: A 4. § (2) bekezdése a 70/2013. (VII. 31.) VM rendelet 35. § g) pontja szerint módosított szöveg.
+[^13]: A 4. § (3) bekezdése a 22/2014. (III. 14.) VM rendelet 25. §-a szerint módosított szöveg.
