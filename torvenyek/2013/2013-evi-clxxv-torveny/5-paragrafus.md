@@ -1,0 +1,1 @@
+5. § A gondnokoltnak a gondnokoltak nyilvántartásában szereplő adatait az Országos Bírósági Hivatal elnöke (a továbbiakban: Hivatal elnöke) – a gondnokság alá helyezés esetleges korábbi megszűnésétől függetlenül – a gondnokság alá helyezett személy halálát követő tizenöt évig kezeli, majd haladéktalanul gondoskodik azok törléséről.

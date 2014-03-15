@@ -1,0 +1,5 @@
+11. § (1) A 10. § (1) bekezdés a)–d) pontja szerinti adatokat az előzetes jognyilatkozatot tett személy kérelmére a lakóhelye szerint illetékes járásbíróság jegyzi be az előzetes jognyilatkozatok nyilvántartásába. Belföldi lakóhely hiányában az illetékesség az előzetes jognyilatkozatot tett személy tartózkodási helyéhez igazodik; ha az előzetes jognyilatkozatot tett személy tartózkodási helye ismeretlen vagy külföldön van, az utolsó belföldi lakóhely, ennek hiányában az utolsó tartózkodási hely az irányadó.
+
+(2) Ha a bíróság a közokiratba vagy teljes bizonyító erejű magánokiratba foglalt előzetes jognyilatkozat érvénytelenségét jogerős ítélettel megállapítja, az első fokon eljárt bíróság az ítéletnek megfelelően törli vagy módosítja az előzetes jognyilatkozatok nyilvántartásában szereplő adatokat.
+
+(3) Az előzetes jognyilatkozatok nyilvántartásába a 10. § (1) bekezdés e)–g) pontjában foglalt adatokat a gondnoksági perben első fokon eljárt bíróság jegyzi be. A bejegyzés alapja a gondnokság alá helyezésről, annak módosításáról, felülvizsgálatáról, megszüntetéséről szóló jogerős bírósági határozat.

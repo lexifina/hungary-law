@@ -1,0 +1,1 @@
+4. § A gondnokoltak nyilvántartásába az adatokat a gondnoksági perben első fokon eljárt bíróság jegyzi be. A bejegyzés alapja a gondnokság alá helyezésről, annak módosításáról, felülvizsgálatáról, megszüntetéséről szóló jogerős bírósági határozat.
