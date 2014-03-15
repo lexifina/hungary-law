@@ -112,6 +112,6 @@
 
 ## A kóstoltatott termékek között az a termék nem szerepelhet, amely az iskolagyümölcs-program keretében támogatott termékként kiosztásra kerül.
 
-4. melléklet az 50/2012. (V. 25.) VM rendelethez[^39]
+4. melléklet az 50/2012. (V. 25.) VM rendelethez[^40]
 
-[^39]: A 4. melléklet a 31/2013. (V. 2.) VM rendelet 21. § (3) bekezdésével megállapított szöveg.
+[^40]: A 4. melléklet a 31/2013. (V. 2.) VM rendelet 21. § (3) bekezdésével megállapított szöveg.

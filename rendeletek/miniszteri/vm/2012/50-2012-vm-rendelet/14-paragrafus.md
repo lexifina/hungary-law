@@ -2,7 +2,7 @@
 
 14. § (1) A támogatási összeg kifizetése iránti – a 8. melléklet szerinti adattartalmú – kérelmet (a továbbiakban: kifizetési kérelem) az MVH által rendszeresített és az MVH honlapján közzétett nyomtatványon az adott szállítási időszakban kiszállított termékre vonatkozóan időszakonként egy alkalommal, az adott időszak végét követő harmadik hónap utolsó napjáig az MVH-hoz postai úton kell benyújtani.
 
-(2)[^24] A kifizetési kérelemhez csatolni kell
+(2)[^25] A kifizetési kérelemhez csatolni kell
 
 a) a teljesítési időszakban kiszállított összes támogatott termékről kiállított, hónapra vagy teljesítési időszakra szóló elszámolást tartalmazó számlák vagy gyűjtőszámlák másolatait, amelyeken a kiszállított adagok mennyisége darabszámban van feltüntetve,
 
@@ -18,4 +18,4 @@ c) a tanév utolsó teljesítési időszakára vonatkozó kifizetési kérelem b
 
 (6) Az MVH a támogatás kifizetéséről a kifizetési kérelem hiánytalan beérkezésének napját követő három hónapon belül gondoskodik.
 
-[^24]: A 14. § (2) bekezdése a 31/2013. (V. 2.) VM rendelet 15. §-ával megállapított szöveg.
+[^25]: A 14. § (2) bekezdése a 31/2013. (V. 2.) VM rendelet 15. §-ával megállapított szöveg.

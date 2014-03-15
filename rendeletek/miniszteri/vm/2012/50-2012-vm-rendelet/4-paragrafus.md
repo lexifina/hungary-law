@@ -1,6 +1,6 @@
 ## 4. A támogatott termék szállítására vonatkozó megállapodás
 
-4. §[^10] (1) Az iskolagyümölcs-programban történő részvételre előzetesen jóváhagyott kérelmező egy vagy több fenntartóval köthet köznevelési intézményenként egy okiratba foglalt, a következő tanévtől kezdődően legfeljebb három tanévre szóló megállapodást a támogatott termékeknek a 2. § (1) bekezdés szerinti tanulók számára történő kiszállítására.
+4. §[^11] (1) Az iskolagyümölcs-programban történő részvételre előzetesen jóváhagyott kérelmező egy vagy több fenntartóval köthet köznevelési intézményenként egy okiratba foglalt, a következő tanévtől kezdődően legfeljebb három tanévre szóló megállapodást a támogatott termékeknek a 2. § (1) bekezdés szerinti tanulók számára történő kiszállítására.
 
 (2) A fenntartó egy tanítási év vonatkozásában köznevelési intézményenként csak egy kérelmezővel köthet megállapodást. A fenntartó eltérő köznevelési intézmények vonatkozásában más-más kérelmezővel is köthet megállapodást.
 
@@ -18,4 +18,4 @@ c) a szállításoknak a megállapodás teljes időtartamára történő fenntar
 
 (6) A tanév során legfeljebb két alkalommal a megállapodásban szereplő termékeket módosítani lehet úgy, hogy az egy-egy időszakra jóváhagyott termékek helyére más olyan termékek kerüljenek, amelyek összértéke az eredetileg jóváhagyott termékek összértékét nem haladja meg. A megállapodás módosításának tartalmaznia kell a feleknek a 4. mellékletben szereplő megállapodás minta szerinti azonosító adatait, valamint a megállapodás minta 5. pontját. A megállapodás módosítás jóváhagyására irányuló kérelmet legkésőbb a teljesítési időszak kezdetét megelőző 30. napon kell az MVH által közzétett közleménynek megfelelően az MVH Piaci Támogatások és Külkereskedelmi Intézkedések Igazgatóságához benyújtani, továbbá a kérelemnek a megállapodás adatait tartalmazó betétlapját elektronikus úton is meg kell küldeni az MVH honlapján megadott elektronikus levélcímre.
 
-[^10]: A 4. § a 31/2013. (V. 2.) VM rendelet 9. §-ával megállapított szöveg.
+[^11]: A 4. § a 31/2013. (V. 2.) VM rendelet 9. §-ával megállapított szöveg.

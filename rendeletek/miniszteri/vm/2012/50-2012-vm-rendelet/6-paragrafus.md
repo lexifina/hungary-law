@@ -1,4 +1,4 @@
-6. § (1)[^12] A támogatás igénybevételének feltétele, hogy a kérelmező és a fenntartó, mint szerződő felek között létrejött, a 4. § (1) bekezdése szerinti megállapodásban rögzítésre kerüljön:
+6. § (1)[^13] A támogatás igénybevételének feltétele, hogy a kérelmező és a fenntartó, mint szerződő felek között létrejött, a 4. § (1) bekezdése szerinti megállapodásban rögzítésre kerüljön:
 
 1. a kérelmező neve, székhelye, adószáma, ügyfél-azonosítója;
 
@@ -36,7 +36,7 @@
 
 18. a kérelmező és a fenntartó képviseletére, költségvetési kihatású jogkövetkezmények tekintetében felelősségvállalásra jogosult személyek aláírása.
 
-(2)[^13] A 3. melléklet 3. pontja szerinti kísérő intézkedés kizárólag a fenntartó felelősségével, a 3. melléklet 6. pontja szerinti kísérő intézkedés pedig kizárólag a kérelmező és a fenntartó közös felelősségével alkalmazható.
+(2)[^14] A 3. melléklet 3. pontja szerinti kísérő intézkedés kizárólag a fenntartó felelősségével, a 3. melléklet 6. pontja szerinti kísérő intézkedés pedig kizárólag a kérelmező és a fenntartó közös felelősségével alkalmazható.
 
 (3) A megállapodás kötelező tartalmi elemeit magában foglaló és az (1) bekezdésnek megfelelő nyomtatványt az MVH a hivatalos honlapján teszi közzé. A nyomtatvány mintáját a 4. melléklet tartalmazza.
 
@@ -44,5 +44,5 @@
 
 (5) Tanévenként legalább három teljesítési időszakban kell szállítani. Teljesítési időszakon belül egész heteket kell szállítani úgy, hogy az első és a negyedik teljesítési időszakban legalább három, a második és a harmadik teljesítési időszakban legalább nyolc hétig kell szállítani.
 
-[^12]: A 6. § (1) bekezdése a 31/2013. (V. 2.) VM rendelet 11. §-ával megállapított szöveg.
-[^13]: A 6. § (2) bekezdése a 31/2013. (V. 2.) VM rendelet 11. §-ával megállapított szöveg.
+[^13]: A 6. § (1) bekezdése a 31/2013. (V. 2.) VM rendelet 11. §-ával megállapított szöveg.
+[^14]: A 6. § (2) bekezdése a 31/2013. (V. 2.) VM rendelet 11. §-ával megállapított szöveg.
