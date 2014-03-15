@@ -4,10 +4,10 @@
 
 (2) A Bizottság hét főből áll. A Bizottság elnökét és hat tagját a miniszter kéri fel a minőségügy területén kiemelkedő elméleti ismeretekkel és gyakorlati tapasztalatokkal rendelkező könyvtári szakterületen működő kulturális szakértők közül.
 
-(2a)[^1] A Bizottság tagja nem lehet állami vezető, valamint közszolgálati tisztviselő, a Magyar Honvédség vagy fegyveres szerv hivatásos állományú vagy szerződéses tagja.
+(2a)[^2] A Bizottság tagja nem lehet állami vezető, valamint közszolgálati tisztviselő, a Magyar Honvédség vagy fegyveres szerv hivatásos állományú vagy szerződéses tagja.
 
 (3) A Bizottság elnökének és tagjainak megbízatása 4 évre szól és meghosszabbítható. Az elnök és a tagok tisztségükről indokolás nélkül lemondhatnak. A megüresedett helyet 90 napon belül be kell tölteni.
 
 (4) A Bizottság maga állapítja meg ügyrendjét, amelyet a miniszter hagy jóvá. Az ügyrendben kell meghatározni a Bizottság összehívásának eseteit, módját, a döntéshozatal módját, az elnök és a Bizottsági tagok összeférhetetlensége esetén alkalmazandó szabályokat, a Bizottság működtetésével kapcsolatos feladatokat, továbbá a helyszíni ellenőrzésre vonatkozó szabályokat. A Bizottság ügyrendjét a miniszter által vezetett minisztérium (a továbbiakban: minisztérium) honlapján közzé kell tenni.
 
-[^1]: A 2. § (2a) bekezdését a 21/2013. (III. 19.) EMMI rendelet 8. § (1) bekezdése iktatta be.
+[^2]: A 2. § (2a) bekezdését a 21/2013. (III. 19.) EMMI rendelet 8. § (1) bekezdése iktatta be.

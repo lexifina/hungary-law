@@ -4,9 +4,9 @@
 
 (3) A Minősített Könyvtár címre benyújtott pályázatban foglaltakat a Bizottság által felkért két szakértő a pályázatot benyújtó könyvtárban helyszíni vizsgálat során ellenőrzi. A helyszíni vizsgálat időpontjáról a szakértő a vizsgálat előtt 40 nappal értesíti az érintett könyvtárat. A szakértők a Bizottság által meghatározott szakmai szempontok szerint pontozzák, valamint szövegesen értékelik a pályázatot.
 
-(4)[^2] A pályázati dokumentumok és a szakértői vélemények alapján a Bizottság javaslatot tesz a Minősített Könyvtár cím odaítélésére. A miniszter a Bizottság javaslata alapján dönt a Minősített Könyvtár cím odaítéléséről.
+(4)[^4] A pályázati dokumentumok és a szakértői vélemények alapján a Bizottság javaslatot tesz a Minősített Könyvtár cím odaítélésére. A miniszter a Bizottság javaslata alapján dönt a Minősített Könyvtár cím odaítéléséről.
 
-(5)[^3] A Minősített Könyvtár címet elnyerő könyvtár a könyvtár típusának megfelelő jelző használatával kiállított díszoklevelet kap, amelyet a miniszter ünnepélyes keretek között ad át.
+(5)[^5] A Minősített Könyvtár címet elnyerő könyvtár a könyvtár típusának megfelelő jelző használatával kiállított díszoklevelet kap, amelyet a miniszter ünnepélyes keretek között ad át.
 
-[^2]: Az 5. § (4) bekezdése a 21/2013. (III. 19.) EMMI rendelet 8. § (3) bekezdése szerint módosított szöveg.
-[^3]: Az 5. § (5) bekezdése a 21/2013. (III. 19.) EMMI rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^4]: Az 5. § (4) bekezdése a 21/2013. (III. 19.) EMMI rendelet 8. § (3) bekezdése szerint módosított szöveg.
+[^5]: Az 5. § (5) bekezdése a 21/2013. (III. 19.) EMMI rendelet 8. § (2) bekezdésével megállapított szöveg.
