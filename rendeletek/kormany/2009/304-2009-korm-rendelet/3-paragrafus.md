@@ -14,8 +14,11 @@ f)[^5] a tulajdonjog változás hatálybalépésének napja;
 
 g) a felek nyilatkozata, mely szerint mindkét fél teljesíti bejelentési kötelezettségét a közlekedési igazgatási hatóságnál a tulajdonjog változás hatálybalépését követő, jogszabályban meghatározott határidőn belül;
 
-h) a felek nyilatkozata arról, hogy ismerik a bejelentés nyilvántartásba történő bejegyzéséhez fűződő joghatásokat, valamint a bejelentés elmaradásának, illetve bejelentési kötelezettség késedelmes teljesítésének jogkövetkezményeit.
+h) a felek nyilatkozata arról, hogy ismerik a bejelentés nyilvántartásba történő bejegyzéséhez fűződő joghatásokat, valamint a bejelentés elmaradásának, illetve bejelentési kötelezettség késedelmes teljesítésének jogkövetkezményeit;
+
+i)[^6] a bizalmi vagyonkezelés alapján fennálló kezelt vagyonba tartozó tulajdonjog ténye.
 
 [^3]: A 3. § c) pontja az 5/2013. (I. 16.) Korm. rendelet 4. §-ával megállapított szöveg.
 [^4]: A 3. § e) pontja a 138/2011. (VII. 19.) Korm. rendelet 8. §-ával megállapított szöveg.
 [^5]: A 3. § f) pontja a 138/2011. (VII. 19.) Korm. rendelet 11. §-a szerint módosított szöveg.
+[^6]: A 3. § i) pontját az 53/2014. (III. 3.) Korm. rendelet 24. § (1) bekezdése iktatta be.
