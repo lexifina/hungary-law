@@ -4,9 +4,9 @@
 
 (2) A határozatot a személyi védelem iránti kérelem előterjesztésétől, illetve – a hivatalból indult eljárás esetén – a kezdeményezéstől számított három munkanapon belül kell meghozni.
 
-(3)[^17] A Tvdt. 16. § (1) bekezdésének b) pontjában meghatározott esetben a személyi védelem elrendeléséről nem kell határozatot hozni.
+(3)[^18] A Tvdt. 16. § (1) bekezdésének b) pontjában meghatározott esetben a személyi védelem elrendeléséről nem kell határozatot hozni.
 
-(4)[^18] A Tvdt. 15. § (1) bekezdése alapján elrendelt személyi védelemről a Szolgálat 24 órán belül határozatot hoz, azonban a személyi védelem alkalmazását haladéktalanul meg kell kezdeni.
+(4)[^19] A Tvdt. 15. § (1) bekezdése alapján elrendelt személyi védelemről a Szolgálat 24 órán belül határozatot hoz, azonban a személyi védelem alkalmazását haladéktalanul meg kell kezdeni.
 
-[^17]: A 9. § (3) bekezdését a 28/2002. (II. 27.) Korm. rendelet 34. §-a iktatta a szövegbe.
-[^18]: A 9. § (4) bekezdését a 28/2002. (II. 27.) Korm. rendelet 34. §-a iktatta a szövegbe.
+[^18]: A 9. § (3) bekezdését a 28/2002. (II. 27.) Korm. rendelet 34. §-a iktatta a szövegbe.
+[^19]: A 9. § (4) bekezdését a 28/2002. (II. 27.) Korm. rendelet 34. §-a iktatta a szövegbe.
