@@ -4,7 +4,7 @@
 
 (2) A 27. § (1)–(2) bekezdése, a 28. § (1) bekezdése és e § (1) bekezdése rendelkezésének alkalmazása során annak megítéléséhez, hogy a belföldre behozott, illetve belföldről kivitt jövedéki termék kereskedelmi célú vagy magánszemély saját felhasználására szolgál, az alábbiakat együttesen, valamint a (3) bekezdésben foglaltakat kell figyelembe venni:
 
-a) a jövedéki termék tulajdonosa az adott jövedéki termékkel gazdasági tevékenységet folytató gazdálkodó szervezet-e [a Polgári Törvénykönyvről szóló, többször módosított 1959. évi IV. törvény 685. § c) pont (a továbbiakban: gazdálkodó szervezet)];
+a) a jövedéki termék tulajdonosa olyan, a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet (a továbbiakban: gazdálkodó szervezet), amely az adott jövedéki termékkel folytat gazdasági tevékenységet;
 
 b) a birtokban tartás indoka;
 

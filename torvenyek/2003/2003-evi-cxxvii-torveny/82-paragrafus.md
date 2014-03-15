@@ -26,7 +26,7 @@ e) a kérelmező nyilatkozatát az (1) bekezdésben foglalt feltételek teljesü
 
 (5) A vámhatóság az egyszerűsített adóraktári engedélyt a kérelem benyújtásától számított hatvan napon belül bírálja el.
 
-(6) A szőlőterületet művelő azon közeli hozzátartozók (a továbbiakban: családtagok közössége), akik a saját művelésükben lévő szőlőterületen termelt szőlőből a szőlőbor előállítását, tárolását ugyanazon a közösen használt, adóraktárnak minősíthető helyen (a továbbiakban: közös adóraktár) végzik, e tevékenységüket egy egyszerűsített adóraktári engedéllyel folytathatják. Adóalanynak a családtagok közössége minősül. Az adóalanyisághoz fűződő kötelezettségeket és jogokat a családtagok közössége – a családtagok egyetemleges felelőssége mellett – az általa kijelölt képviselő útján gyakorolja.
+(6) A szőlőterületet művelő azon Polgári Törvénykönyv szerinti közeli hozzátartozók, valamint az élettársak (a továbbiakban: családtagok közössége), akik a saját művelésükben lévő szőlőterületen termelt szőlőből a szőlőbor előállítását, tárolását ugyanazon a közösen használt, adóraktárnak minősíthető helyen (a továbbiakban: közös adóraktár) végzik, e tevékenységüket egy egyszerűsített adóraktári engedéllyel folytathatják. Adóalanynak a családtagok közössége minősül. Az adóalanyisághoz fűződő kötelezettségeket és jogokat a családtagok közössége – a családtagok egyetemleges felelőssége mellett – az általa kijelölt képviselő útján gyakorolja.
 
 (7) Az egyszerűsített adóraktárban kizárólag szőlőbort, valamint az (1) bekezdés szerinti pezsgőt lehet előállítani, palackozni (kiszerelni), tárolni, raktározni.
 
