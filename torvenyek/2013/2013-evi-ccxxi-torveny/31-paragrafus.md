@@ -1,0 +1,1 @@
+31. § A hitelbiztosítéki rendszer rendszerüzenetének a felhasználó számára való hozzáférhetővé tételének, illetve megjelenítésének időpontja tekintetében – kétség esetén – a MOKK által, a rendszerben tárolt adatok alapján közölt időpont az irányadó.

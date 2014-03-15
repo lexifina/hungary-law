@@ -1,0 +1,1 @@
+15. § A hitelbiztosítéki rendszert úgy kell kialakítani, hogy az a zálogjogi bejegyzés törlésére irányuló zálogjogosulti nyilatkozat alapján a törölni kért bejegyzést a nyilvántartásból törölje, és erről a nyilatkozattevőt, valamint a zálogkötelezettet rendszerüzenetben értesítse.

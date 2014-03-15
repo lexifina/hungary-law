@@ -1,0 +1,3 @@
+8. § (1) A hitelbiztosítéki nyilatkozat a nyilvántartásban való rögzítés céljából – a 7. § (3) bekezdése szerinti költségtérítés megfizetésével – megtehető bármely közjegyző előtt is.
+
+(2) Az (1) bekezdés szerinti esetben a hitelbiztosítéki nyilatkozat megtétele céljából előtte megjelenő nyilatkozattevőt a közjegyző a 4. § (4)–(6) bekezdésében foglaltak szerint a hitelbiztosítéki rendszer felhasználójaként regisztrálja, majd annak hitelbiztosítéki nyilatkozatát a Kjtv. 175. § (1) bekezdésének alkalmazásával – hivatali elektronikus aláírásával ellátva – a 7. §-ban előírtak szerint rögzíti a nyilvántartásban.

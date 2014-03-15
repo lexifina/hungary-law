@@ -1,0 +1,1 @@
+17. § A tulajdonjog-fenntartás bejegyzésére vonatkozó eladói nyilatkozatnak a nyilvántartásból való törlésére a zálogkötelezett vagy a zálogjogosult zálogjogi bejegyzés törlésére irányuló nyilatkozatára és e bejegyzés törlésére vonatkozó szabályokat kell alkalmazni azzal, hogy a zálogjogosult alatt az eladót, a zálogkötelezett alatt pedig a vevőt kell érteni.
