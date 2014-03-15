@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-227-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2003-08-01 | 1997-227-20-22.2 | 227/1997. (XII. 10.) Korm. rendelet |
+| 2014-03-15 | 1997-227-20-22.3 | 53/2014. (III. 3.) Korm. rendelet |
