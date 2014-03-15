@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-90-00-00
 | 2013-01-01 | 2012. évi CCVIII. törvény | 2003-90-00-00.15 |
 | 2013-06-30 | 2013. évi CIII. törvény | 2003-90-00-00.16 |
 | 2014-01-01 | 2013. évi CCIII. törvény | 2003-90-00-00.17 |
+| 2014-03-15 | 2013. évi CCLII. törvény | 2003-90-00-00.18 |

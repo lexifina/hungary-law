@@ -6,7 +6,7 @@ b) a központi költségvetésből nyújtott, az éves költségvetési törvén
 
 c) az Alap – tárgyévet megelőző – pénzmaradványa;
 
-d) belföldi vagy külföldi természetes és jogi személyek, illetve jogi személyiséggel nem rendelkező gazdasági társaságok által teljesített, önkéntes befizetések, adományok, segélyek;
+d) belföldi vagy külföldi természetes és jogi személyek által teljesített, önkéntes befizetések, adományok, segélyek;
 
 e) nemzetközi szervezetektől, intézményektől származó támogatások;
 
