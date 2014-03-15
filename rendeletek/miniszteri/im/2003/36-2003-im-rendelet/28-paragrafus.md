@@ -6,9 +6,9 @@
 
 28. § (1) A befogadás után az IMEI központi kivizsgáló és módszertani osztályán kell elhelyezni azt az elítéltet,
 
-a)[^16]
+a)[^21]
 
-b)[^17] akinél a Btk. 17. § (2) bekezdése alapján korlátozott beszámítási képességet állapítottak meg (ER. 24. §),
+b)[^22] akinél a Btk. 17. § (2) bekezdése alapján korlátozott beszámítási képességet állapítottak meg (ER. 24. §),
 
 c) akinél a büntetés-végrehajtási intézet orvosa a büntetés végrehajtása során személyiségzavarra utaló tüneteket észlelt [Bv. tvr. 31. § (2) bek.].
 
@@ -16,5 +16,5 @@ c) akinél a büntetés-végrehajtási intézet orvosa a büntetés végrehajtá
 
 (3) A személyiség részletes megismerését célzó kivizsgálás alapján el kell készíteni az elítélt gyógykezelésének, sajátos nevelésének, munkaterápiás foglalkoztatásának programját.
 
-[^16]: A 28. § (1) bekezdés a) pontját a 11/2010. (III. 31.) IRM rendelet 43. § (2) bekezdés f) pontja hatályon kívül helyezte.
-[^17]: A 28. § (1) bekezdés b) pontja a 9/2013. (VI. 29.) KIM rendelet 68. § d) pontja szerint módosított szöveg.
+[^21]: A 28. § (1) bekezdés a) pontját a 11/2010. (III. 31.) IRM rendelet 43. § (2) bekezdés f) pontja hatályon kívül helyezte.
+[^22]: A 28. § (1) bekezdés b) pontja a 9/2013. (VI. 29.) KIM rendelet 68. § d) pontja szerint módosított szöveg.

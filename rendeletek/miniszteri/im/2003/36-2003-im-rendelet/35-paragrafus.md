@@ -10,4 +10,6 @@
 
 (2) A kérelem és a panasz elbírálására az R. rendelkezései irányadók.
 
-(3) A gondnokság alatt álló beteg, valamint beutalt olyan jognyilatkozatát, amelyhez a gondnok beleegyezése, jóváhagyása vagy intézkedése szükséges, állásfoglalás végett meg kell küldeni gondnokának.
+(3)[^25] Kiskorú vagy gondnokság alatt álló beteg, valamint beutalt olyan jognyilatkozatát, amelyhez a törvényes képviselő hozzájárulása vagy intézkedése szükséges, állásfoglalás végett meg kell küldeni törvényes képviselőjének.
+
+[^25]: A 35. § (3) bekezdése a 23/2014. (III. 14.) KIM rendelet 7. § (4) bekezdésével megállapított szöveg.
