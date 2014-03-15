@@ -14,3 +14,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2006-97-00-00
 | 2012-03-01 | 2012. évi V. törvény | 2006-97-00-00.10 |
 | 2012-07-01 | 2012. évi LXXIX. törvény | 2006-97-00-00.11 |
 | 2013-07-01 | 2013. évi LXXXI. törvény | 2006-97-00-00.12 |
+| 2014-03-15 | 2013. évi CCLII. törvény | 2006-97-00-00.13 |

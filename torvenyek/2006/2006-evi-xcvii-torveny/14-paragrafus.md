@@ -22,6 +22,6 @@ a) akinél olyan – a 17. § (1) bekezdés b) pontjában, illetve a 18. § (2) 
 
 b) aki olyan tevékenységet folytat, amit jogszabály, illetőleg a szakmai kamara etikai normái az adott egészségügyi tevékenységgel összeférhetetlennek minősítenek, e tevékenység folytatásának megszüntetéséig,
 
-c) aki cselekvőképességet korlátozó vagy kizáró gondnokság alatt áll,
+c) aki cselekvőképességében bármely ügycsoport tekintetében részlegesen korlátozó vagy cselekvőképességét teljesen korlátozó gondnokság alatt áll,
 
 d) a 25. § (1) bekezdés f) pontja szerinti kizárás fegyelmi büntetés jogerőre emelkedésétől számított két évig az, akit a kamarából kizártak.
