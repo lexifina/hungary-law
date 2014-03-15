@@ -30,6 +30,6 @@
 
 | 6. | Összesen: |  | 4000,00 |
 
-5. számú melléklet a 139/2007. (XI. 28.) FVM rendelethez[^65]
+5. számú melléklet a 139/2007. (XI. 28.) FVM rendelethez[^67]
 
-[^65]: Az 5. számú mellékletet az 57/2009. (IV. 29.) FVM rendelet 7. § (2) bekezdése iktatta be, szövege a 80/2012. (VII. 30.) VM rendelet 9. § (3) bekezdésével megállapított szöveg.
+[^67]: Az 5. számú mellékletet az 57/2009. (IV. 29.) FVM rendelet 7. § (2) bekezdése iktatta be, szövege a 80/2012. (VII. 30.) VM rendelet 9. § (3) bekezdésével megállapított szöveg.

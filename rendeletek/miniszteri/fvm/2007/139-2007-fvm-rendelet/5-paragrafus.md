@@ -2,7 +2,7 @@
 
 5. § (1) E jogcím alapján az az igénylő jogosult támogatásra, aki/amely biztosítja a kíméletes állatmozgatás és szállítás feltételeit.
 
-(2)[^42] A támogatás mértéke:
+(2)[^43] A támogatás mértéke:
 
 a) növendék csirke (vágócsirke) esetén 633,00 Ft állategységenként,
 
@@ -28,7 +28,7 @@ k) növendék pulyka esetén 2 324,00 Ft állategységenként.
 
 (3) Az igénylő által a vágóhídra leadott állatoknál a törött végtagú állatok aránya állományonként nem haladhatja meg az 5%-ot.
 
-(4)[^43] A 2. számú melléklet szerinti adattartalmú támogatási kérelemhez csatolni kell a vágóhídnak és a felügyelő jogosult állatorvosnak a törött végtagú állatok (3) bekezdésben meghatározott arányára vonatkozó igazolását is, amely tartalmazza a levágott baromfi darabszámát és vágásának időpontját.
+(4)[^44] A 2. számú melléklet szerinti adattartalmú támogatási kérelemhez csatolni kell a vágóhídnak és a felügyelő jogosult állatorvosnak a törött végtagú állatok (3) bekezdésben meghatározott arányára vonatkozó igazolását is, amely tartalmazza a levágott baromfi darabszámát és vágásának időpontját.
 
-[^42]: Az 5. § (2) bekezdése a 68/2011. (VII. 14.) VM rendelet 13. §-ával megállapított szöveg.
-[^43]: Az 5. § (4) bekezdése a 19/2010. (III. 11.) FVM rendelet 5. § (4) bekezdésével megállapított szöveg. E módosító rendelet 21. § (2) bekezdése alapján a 2010. március 14. napját követően benyújtott támogatási kérelmek esetén kell alkalmazni.
+[^43]: Az 5. § (2) bekezdése a 68/2011. (VII. 14.) VM rendelet 13. §-ával megállapított szöveg.
+[^44]: Az 5. § (4) bekezdése a 19/2010. (III. 11.) FVM rendelet 5. § (4) bekezdésével megállapított szöveg. E módosító rendelet 21. § (2) bekezdése alapján a 2010. március 14. napját követően benyújtott támogatási kérelmek esetén kell alkalmazni.
