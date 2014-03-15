@@ -2,7 +2,7 @@
 
 64. § (1) A hozzáférésre jogosult a vasúti pályahálózat-kapacitásra, valamint az 54. § (1) és a (3)–(4) bekezdéseiben meghatározott szolgáltatásokra vonatkozó igényét a VPSZ részére jelenti be.
 
-(2) Az (1) bekezdés szerinti igénybejelentés ajánlattételre történő felhívásnak minősül [Ptk. 212. § (1) bekezdés].
+(2) Az (1) bekezdés szerinti igénybejelentés ajánlattételre történő felhívásnak minősül [Ptk. 6:71. § (2) bekezdés].
 
 (3) A VPSZ a Hálózati Üzletszabályzatban foglaltaknak megfelelően meghatározza
 

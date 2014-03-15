@@ -1,6 +1,6 @@
 61. § (1) A hozzáférésre jogosult a vasúti pályahálózat-kapacitásra, valamint az 54. § (1) és a (3)–(4) bekezdéseiben meghatározott szolgáltatásokra vonatkozó igényét a vasúti pályahálózat működtetőjének bejelenti.
 
-(2) Az (1) bekezdés szerinti igénybejelentés ajánlattételre történő felhívásnak minősül [Ptk. 212. § (1) bekezdés].
+(2) Az (1) bekezdés szerinti igénybejelentés ajánlattételre történő felhívásnak minősül [Ptk. 6:71. § (2) bekezdés].
 
 (3) A vasúti pályahálózat működtetője a Hálózati Üzletszabályzatban foglaltaknak megfelelően köteles a vasúti pályahálózat-kapacitásnak, valamint az 54. § (1) és a (3)–(4) bekezdéseiben meghatározott szolgáltatások igénybevételének – a Hálózati Üzletszabályzat rendelkezéseinek megfelelően számított hálózat-hozzáférési díj ellenében történő – biztosítására vonatkozóan ajánlatot tenni.
 

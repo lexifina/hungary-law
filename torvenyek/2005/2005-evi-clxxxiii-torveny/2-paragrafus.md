@@ -8,7 +8,7 @@
 
 2. vasúti rendszer: a hagyományos és a nagysebességű vasúti rendszerek strukturális és működési alrendszereinek összessége, valamint ezek irányítása és üzemeltetése;
 
-3. szervezet: a jogi személy és a jogi személyiséggel nem rendelkező gazdasági társaság;
+3. szervezet: a jogi személy;
 
 4. kölcsönös átjárhatóság: egy vasúti pályahálózat azon képessége, amely lehetővé teszi az ezeken a pályahálózatokon előírt teljesítményt elérő vonatok biztonságos és zavartalan haladását. Ez a képesség azoktól a szabályozási, műszaki és üzemeltetési feltételektől függ, amelyeket az alapvető követelményeknek való megfelelés érdekében be kell tartani;
 
@@ -18,7 +18,9 @@
 
 7. keskeny nyomtáv: a normál nyomtávnál keskenyebb nyomtáv;
 
-8. széles nyomtáv: a normál nyomtávnál nagyobb nyomtáv.
+8. széles nyomtáv: a normál nyomtávnál nagyobb nyomtáv;
+
+9. gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet.
 
 (2) Vasúti tevékenységek, szolgáltatások:
 
@@ -190,7 +192,7 @@ vasúti pálya;
 
 21. közmű: vízellátást szolgáló vezeték, szennyvíz-, illetve csapadékelvezetést szolgáló zárt csatorna, távhővezeték, villamos energia átviteli és elosztó hálózat, villamos termelői-, magán- és közvetlen vezeték, szénhidrogén szállító-, földgázelosztó- és célvezeték, valamint az egyéb gázok és ezek termékeinek vezetéke, elektronikus hírközlési vezeték;
 
-22. kapacitásfoglalásra jogosult: az a bármely EGT-államban bejegyzett, a Ptk. 685. § c) pontja szerinti gazdálkodó szervezet, amely nem vasúti társaság, és a vasúti pályahálózat-működtetővel a vasúti pályahálózat-kapacitás foglalására vonatkozó keretszerződést köt;
+22. kapacitásfoglalásra jogosult: az a bármely EGT-államban bejegyzett gazdálkodó szervezet, amely nem vasúti társaság, és a vasúti pályahálózat-működtetővel a vasúti pályahálózat-kapacitás foglalására vonatkozó keretszerződést köt;
 
 23. Vasúti pályahálózat működtetéséhez szükséges eszközök: a vasúti pálya és tartozékai, vasúti pályahálózat, vasúti üzemi létesítmények e törvény szerint meghatározott eszközein felül azon vasúti összeköttetést biztosító eszközök és kiszolgáló létesítmények is, amelyek vonatkozásában a vállalkozó vasúti társaságok számára a pályaműködtető diszkriminációmentes hozzáférést köteles biztosítani, illetve amelyek a diszkriminációmentesen nyújtandó pályavasúti szolgáltatásokhoz elengedhetetlenek.
 
