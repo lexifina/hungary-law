@@ -1,4 +1,4 @@
-## számított, a Polgári Törvénykönyvről szóló 1959. évi IV. törvény 301. § (1) bekezdése szerinti kamattal növelten köteles megfizetni.
+## számított, a Polgári Törvénykönyvről szóló 2013. évi V. törvény 6:48. § (1) bekezdése szerinti kamattal növelten köteles megfizetni.
 
 18. § (1) A támogatási megállapodás felmondása esetén – amennyiben az adós a tartozását a felmondástól számított 15 napon belül nem fizeti meg – a helyi lakásügyi szerv köteles az igény érvényesítését kezdeményezni.
 

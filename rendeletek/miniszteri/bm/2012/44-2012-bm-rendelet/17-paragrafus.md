@@ -40,7 +40,7 @@ h)[^8] a szolgálati jogviszonya azért szűnik meg, mert a vezetői kinevezés 
 
 (5) A támogatási megállapodás felmondására a helyi lakásügyi szerv a szerződésszegés tudomására jutásakor, az (1) bekezdés c) és g) pontjában foglalt esetekben a felszólításban kitűzött határidő eredménytelen lejártakor, az (1) bekezdés e) pontjában foglalt esetben a szolgálati jogviszony megszűnése napján haladéktalanul intézkedik, a felmondásról a kölcsönt kezelő pénzintézetet írásban értesíti.
 
-(6) A támogatási megállapodás felmondásával egy összegben esedékessé vált tartozást az adós
+(6)[^9] A támogatási megállapodás felmondásával egy összegben esedékessé vált tartozást az adós
 
 a) az (1) bekezdés a), c), f), g) és h) pontjában meghatározott esetekben a szerződésszegés időpontjától,
 
@@ -48,3 +48,4 @@ b) az (1) bekezdés b), d) és e) pontjában meghatározott esetben a felmondás
 
 [^7]: A 17. § (3) bekezdés g) pontja a 75/2013. (XII. 18.) BM rendelet 30. §-ával megállapított szöveg, e módosító rendelet 27. §-a alapján rendelkezéseit a benyújtott, de még el nem bírált kérelmek esetén is alkalmazni kell.
 [^8]: A 17. § (3) bekezdés h) pontja a 16/2014. (II. 28.) BM rendelet 12. § (2) bekezdése szerint módosított szöveg.
+[^9]: A 17. § (6) bekezdés záró szövegrésze a 22/2014. (III. 12.) BM rendelet 6. §-a szerint módosított szöveg.

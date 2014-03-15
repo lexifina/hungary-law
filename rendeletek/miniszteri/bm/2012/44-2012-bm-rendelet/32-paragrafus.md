@@ -10,6 +10,6 @@
 
 (5) A korábbi szabályok alapján a fiatal házas vagy nagycsaládos dolgozó első önálló lakásépítéséhez, lakásvásárlásához nyújtott kedvezményes munkáltatói kölcsönben részesített dolgozó esetében, új munkáltatói kölcsön nyújtásakor a 12. § (1) bekezdésében meghatározott kedvezmény jóváírására feljogosító szolgálati jogviszony időtartamának számításakor, a korábban számításba vett 15 évet nem lehet figyelembe venni.
 
-(6)[^10] A Nemzeti Közszolgálati Egyetem azon dolgozóit – ideértve a kirendelt és vezényelt állományt is –, akik 2011. december 31-én a Rendőrtiszti Főiskolával szolgálati jogviszonyban álltak, jogviszonyuk megszűnéséig e rendelet alkalmazásában belügyi szolgálati jogviszonyban állónak kell tekinteni.
+(6)[^11] A Nemzeti Közszolgálati Egyetem azon dolgozóit – ideértve a kirendelt és vezényelt állományt is –, akik 2011. december 31-én a Rendőrtiszti Főiskolával szolgálati jogviszonyban álltak, jogviszonyuk megszűnéséig e rendelet alkalmazásában belügyi szolgálati jogviszonyban állónak kell tekinteni.
 
-[^10]: A 32. § (6) bekezdése a 81/2012. (XII. 28.) BM rendelet 33. § d) pontja szerint módosított szöveg.
+[^11]: A 32. § (6) bekezdése a 81/2012. (XII. 28.) BM rendelet 33. § d) pontja szerint módosított szöveg.
