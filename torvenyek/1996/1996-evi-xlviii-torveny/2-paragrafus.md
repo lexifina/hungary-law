@@ -1,8 +1,8 @@
 ## Szervezeti és működési feltételek
 
-2. § (1) Közraktár kizárólag részvénytársaságként vagy fióktelepként működhet. A részvénytársasági formában működő közraktárra a gazdasági társaságokról szóló törvény rendelkezéseit, a fióktelep formájában működő közraktárra a külföldi székhelyű vállalkozások magyarországi fióktelepeiről és kereskedelmi képviseleteiről szóló 1997. évi CXXXII. törvény rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
+2. § (1) Közraktár kizárólag részvénytársaságként vagy fióktelepként működhet. A részvénytársasági formában működő közraktárra a Polgári Törvénykönyv gazdasági társaságokra vonatkozó rendelkezéseit, a fióktelep formájában működő közraktárra a külföldi székhelyű vállalkozások magyarországi fióktelepeiről és kereskedelmi képviseleteiről szóló 1997. évi CXXXII. törvény rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
 
-(2) A közraktár legalább ötszázmillió forint alaptőkével (jegyzett tőkével), fióktelep esetén dotációs tőkével alapítható, amelyből legalább kettőszázötvenmillió forint pénzbeli hozzájárulás és az (5) bekezdésben meghatározott ingatlan mint nem pénzbeli hozzájárulás.
+(2) A közraktár legalább ötszázmillió forint alaptőkével, fióktelep esetén dotációs tőkével alapítható, amelyből legalább kettőszázötvenmillió forint pénzbeli hozzájárulás és az (5) bekezdésben meghatározott ingatlan mint nem pénzbeli hozzájárulás.
 
 (3) A dotációs tőke a fióktelep létesítéséhez és működéséhez a létesítő által tartósan, korlátlanul, tehermentesen a fióktelep szabad rendelkezésére bocsátott tőke.
 

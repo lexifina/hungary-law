@@ -6,4 +6,4 @@
 
 (3) A semmis közraktári szerződés alapján kiállított közraktári jegy nem értékpapír. A közraktári jegy vagy bármely részének jóhiszemű megszerzőjével szemben érvénytelenségre nem lehet hivatkozni.
 
-(4) A közraktár a semmisség megállapítását követően felszólítja a letevőt az áru harminc napon belül történő átvételére. Az átvétel elmulasztása esetén a közraktár jogosult az árut értékesíteni, a befolyt összegből a költségeit levonni, és köteles a fennmaradó összeget bírói letétbe helyezni.
+(4) A közraktár a semmisség megállapítását követően felszólítja a letevőt az áru harminc napon belül történő átvételére. Az átvétel elmulasztása esetén a közraktár jogosult az árut értékesíteni, a befolyt összegből a költségeit levonni, és köteles a fennmaradó összeget bírósági vagy közjegyzői letétbe helyezni.

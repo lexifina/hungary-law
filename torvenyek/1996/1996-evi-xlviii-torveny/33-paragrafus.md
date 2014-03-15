@@ -1,3 +1,3 @@
 33. § (1) Ha a közraktári szerződés alapján elhelyezett áru a szerződés lejáratát követően nem váltják ki, vagy a szerződés tartama alatt a megromlás veszélye fenyegeti, a közraktár – a letevő előzetes felszólítása után – az árut értékesítheti. Ha a letevő a közraktári jegyet vagy az árujegyet továbbforgatta, kötelessége az őt követő birtokost a közraktár felszólításáról két napon belül tájékoztatni. A tájékoztatás elmaradásából eredő kárért a mulasztó fél felel.
 
-(2) Az értékesítésből befolyt összegből az igényeket a 32. § (3) bekezdése szerint kell kielégíteni. Ha a közraktári jegy birtokosának tartózkodási helye ismeretlen, az őt megillető pénzt bírói letétbe kell helyezni.
+(2) Az értékesítésből befolyt összegből az igényeket a 32. § (3) bekezdése szerint kell kielégíteni. Ha a közraktári jegy birtokosának tartózkodási helye ismeretlen, az őt megillető pénzt bírósági vagy közjegyzői letétbe kell helyezni.

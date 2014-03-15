@@ -12,7 +12,7 @@ b) a zálogjegybirtokos követelése;
 
 c) a közraktár egyéb követelése;
 
-d) az árujegybirtokos követelése. Ha ez utóbbi ismeretlen helyen tartózkodik, a részére járó pénzt bírói letétbe kell helyezni.
+d) az árujegybirtokos követelése. Ha ez utóbbi ismeretlen helyen tartózkodik, a részére járó pénzt bírósági vagy közjegyzői letétbe kell helyezni.
 
 (4) Ha a követelését kielégítették, a zálogjegybirtokos a zálogjegyet köteles visszaadni a közraktárnak, amely azt érvényteleníti.
 

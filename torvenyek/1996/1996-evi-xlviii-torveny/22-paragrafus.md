@@ -22,4 +22,4 @@ a) ha a közraktári jegy lejárt, és a zálogjegy birtokosa a 32. § (1) bekez
 
 b) ha a közraktári jegy lejárt és az árut a jegybirtokos a közraktár írásbeli felszólítása ellenére az értesítéstől számított 5 napon belül nem váltja ki. A közraktárnak az értesítést a letéti könyvének adatai szerinti áru- és zálogjegybirtokos részére kell megküldenie.
 
-(4) A (3) bekezdésben meghatározott esetekben a közraktár az árut a közraktári jegy birtokosának kockázatára, a Polgári Törvénykönyv felelős őrzésre vonatkozó rendelkezéseinek megfelelően őrizheti tovább, és a Polgári Törvénykönyvnek a jogosult késedelmére vonatkozó szabályait kell megfelelően alkalmazni.
+(4) A (3) bekezdésben meghatározott esetekben a közraktár az árut a közraktári jegy birtokosának kockázatára, a Polgári Törvénykönyv megbízás nélküli ügyvitelre vonatkozó rendelkezéseinek megfelelően őrizheti tovább, és a Polgári Törvénykönyvnek a jogosult késedelmére vonatkozó szabályait kell megfelelően alkalmazni.
