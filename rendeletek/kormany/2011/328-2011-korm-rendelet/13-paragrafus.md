@@ -2,7 +2,7 @@
 
 (2) A gyermekétkeztetés személyi térítési díjának előre történő megfizetése esetén, ha az adott hónapra fizetendő térítési díj összege kevesebb, mint a már befizetett összeg, úgy a többletet a következő fizetés alkalmával be kell számítani, vagy vissza kell fizetni. Ha a fizetendő személyi térítési díj összege növekszik, a befizetett és a ténylegesen fizetendő összeg különbözetét visszamenőleg kell megfizetni.
 
-(3) Helyettes szülőnél, nevelőszülőnél, gyermekek átmeneti otthonában vagy gyermekotthonban elhelyezett gyermek esetében a gyermekek napközbeni ellátása keretében biztosított gyermekétkeztetésért a személyi térítési díjat a helyettes szülő, a nevelőszülő, a gyermekek átmeneti otthona vagy a gyermekotthon fizeti meg.
+(3)[^9] Helyettes szülőnél, gyermekvédelmi nevelőszülőnél, gyermekek átmeneti otthonában vagy gyermekotthonban elhelyezett gyermek esetében a gyermekek napközbeni ellátása keretében biztosított gyermekétkeztetésért a személyi térítési díjat a helyettes szülő, a gyermekvédelmi nevelőszülő, a gyermekek átmeneti otthona vagy a gyermekotthon fizeti meg.
 
 (4) Családok átmeneti otthonában elhelyezett gyermek esetében a gyermekek napközbeni ellátása keretében biztosított gyermekétkeztetésért a személyi térítési díjat, ha a családok átmeneti otthona
 
@@ -13,3 +13,5 @@ b) szükség szerinti ellátást biztosít, a szülő
 ## fizeti meg.
 
 (5) Az intézményvezető a gyermekétkeztetés igénybevételét a 4. melléklet szerint dokumentálja.
+
+[^9]: A 13. § (3) bekezdése a 69/2014. (III. 13.) Korm. rendelet 14. §-ával megállapított szöveg.

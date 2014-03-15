@@ -54,7 +54,7 @@
 
 | Összesen |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-5. melléklet a 328/2011. (XII. 29.) Korm. rendelethez[^13]
+5. melléklet a 328/2011. (XII. 29.) Korm. rendelethez[^14]
 
 ## JÖVEDELEMNYILATKOZAT A SZEMÉLYI TÉRÍTÉSI DÍJ MEGÁLLAPÍTÁSÁHOZ
 
@@ -122,7 +122,7 @@
 
 ## * Családok átmeneti otthona esetén, ha a szolgáltatást a gyermek a szülőjével (szüleivel), nagykorú testvérével együtt veszi igénybe, a szülő, nagykorú testvér személyi adatai – a sorok számának értelemszerű növelésével – ugyanazon az adatlapon felvehetők.
 
-## ** A családba fogadott vagy harmadik személynél elhelyezett gyámság alatt álló gyermek tekintetében a reá nézve igényelt ellátás személyi térítési díjának megállapításánál csak a gyermek megélhetését szolgáló juttatásokat (pl. gyermektartásdíj, árvaellátás, családi pótlék) kell a jövedelemszámítás szempontjából figyelembe venni [Csjt. 104. § (1) bek.], kivéve ha a bíróság a gyámot kötelezte a gyermek eltartására.
+## ** A családba fogadott vagy harmadik személynél elhelyezett gyámság alatt álló gyermek tekintetében a reá nézve igényelt ellátás személyi térítési díjának megállapításánál csak a gyermek megélhetését szolgáló juttatásokat (pl. gyermektartásdíj, árvaellátás, családi pótlék) kell a jövedelemszámítás szempontjából figyelembe venni [Polgári Törvénykönyvről szóló 2013. évi V. törvény 4:238. § (1) bekezdése], kivéve ha a bíróság a gyámot kötelezte a gyermek eltartására.
 
 ## Büntetőjogi felelősségem tudatában kijelentem, hogy a közölt adatok a valóságnak megfelelnek. A térítési díj megállapításához szükséges jövedelmet igazoló bizonylatokat egyidejűleg csatoltam. Hozzájárulok a kérelemben szereplő adatoknak az eljárás során történő felhasználásához.
 
@@ -148,7 +148,7 @@ II. Jövedelmi adatok
 
 ## A nettó jövedelem kiszámításánál a bevételt az elismert költségekkel és a befizetési kötelezettséggel csökkentett összegben kell feltüntetni.
 
-## Nem minősül jövedelemnek, így a jövedelembe sem kell beszámítani az önkormányzati segélyt, a lakásfenntartási támogatást, az adósságcsökkentési támogatást, a rendkívüli gyermekvédelmi támogatást, a rendszeres gyermekvédelmi kedvezmény keretében nyújtott támogatást, a rendszeres gyermekvédelmi kedvezményre jogosult gyermek után a családbafogadó gyámnak járó pénzbeli ellátáshoz kapcsolódó pótlékot, a nevelőszülők számára fizetett nevelési díjat és külön ellátmányt, az anyasági támogatást, a szépkorúak jubileumi juttatását, a személyes gondoskodásért fizetendő személyi térítési díj megállapítása kivételével a súlyos mozgáskorlátozott személyek pénzbeli közlekedési kedvezményeit, a vakok személyi járadékát és a fogyatékossági támogatást, a fogadó szervezet által az önkéntesnek külön törvény alapján biztosított juttatást, a házi segítségnyújtás keretében társadalmi gondozásért kapott tiszteletdíjat, az energiafelhasználáshoz nyújtott támogatást.
+## Nem minősül jövedelemnek, így a jövedelembe sem kell beszámítani az önkormányzati segélyt, a lakásfenntartási támogatást, az adósságcsökkentési támogatást, a rendkívüli gyermekvédelmi támogatást, a rendszeres gyermekvédelmi kedvezmény keretében nyújtott támogatást, a rendszeres gyermekvédelmi kedvezményre jogosult gyermek után a családbafogadó gyámnak járó pénzbeli ellátáshoz kapcsolódó pótlékot, a gyermekvédelmi nevelőszülők számára fizetett nevelési díjat és külön ellátmányt, az anyasági támogatást, a szépkorúak jubileumi juttatását, a személyes gondoskodásért fizetendő személyi térítési díj megállapítása kivételével a súlyos mozgáskorlátozott személyek pénzbeli közlekedési kedvezményeit, a vakok személyi járadékát és a fogyatékossági támogatást, a fogadó szervezet által az önkéntesnek külön törvény alapján biztosított juttatást, a házi segítségnyújtás keretében társadalmi gondozásért kapott tiszteletdíjat, az energiafelhasználáshoz nyújtott támogatást.
 
 ## Nem minősül jövedelemnek az alkalmi munkavállalói könyvvel történő foglalkoztatás, az egyszerűsített foglalkoztatásról szóló törvény alapján történő munkavégzés révén szerzett bevétel, továbbá a természetes személyek között az adórendszeren kívüli keresettel járó foglalkoztatásra vonatkozó rendelkezések alapján háztartási munkára létesített munkavégzésre irányuló jogviszony keretében történő munkavégzésnek (háztartási munka) a havi ellenértéke.
 
@@ -178,4 +178,4 @@ Szükség esetén a nyilatkozatok rovatai bővíthetők, valamint kitöltésük 
 
 A cselekvőképességet kizáró gondnokság alatt állók esetében a gondnok aláírása, a cselekvőképességet korlátozó gondnokság alatt állók esetében a gondnok és a gondnokolt együttes aláírása szükséges.
 
-[^13]: Az 5. melléklet a 98/2013. (III. 29.) Korm. rendelet 29. § b) pontja, a 197/2013. (VI. 13.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^14]: Az 5. melléklet a 98/2013. (III. 29.) Korm. rendelet 29. § b) pontja, a 197/2013. (VI. 13.) Korm. rendelet 4. §-a, a 69/2014. (III. 13.) Korm. rendelet 15. § b) és c) pontja szerint módosított szöveg.

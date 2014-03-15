@@ -1,6 +1,6 @@
 ## 6. A térítési díj befizetése és ellenőrzése
 
-16. § (1)[^9] A személyi térítési díjat az igénybevétel napjától havonként – ha a települési önkormányzat vagy a megállapodás másként nem rendelkezik –
+16. § (1)[^10] A személyi térítési díjat az igénybevétel napjától havonként – ha a települési önkormányzat vagy a megállapodás másként nem rendelkezik –
 
 a) bölcsőde, családi napközi, családi gyermekfelügyelet és gyermekétkeztetés esetén a tárgyhónap 10. napjáig,
 
@@ -12,4 +12,4 @@ kell befizetni az ellátást nyújtó intézmény elszámolási számlájára.
 
 (3) A (2) bekezdés szerint nyilvántartott díjhátralékról az intézmény vezetője negyedévenként tájékoztatja a fenntartót a térítésidíj-hátralék behajtása vagy a behajthatatlan hátralék törlése érdekében.
 
-[^9]: A 16. § (1) bekezdés nyitó szövegrésze a 349/2012. (XII. 12.) Korm. rendelet 64. § d) pontja szerint módosított szöveg.
+[^10]: A 16. § (1) bekezdés nyitó szövegrésze a 349/2012. (XII. 12.) Korm. rendelet 64. § d) pontja szerint módosított szöveg.
