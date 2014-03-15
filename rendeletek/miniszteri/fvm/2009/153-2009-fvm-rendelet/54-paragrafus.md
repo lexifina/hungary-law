@@ -14,7 +14,7 @@ e) az időleges valamint a rendeltetésszerű használatot akadályozó igénybe
 
 f) érintettség esetén a csereerdősítésre tervezett terület megjelölését és az erdőtelepítési jogosultság igazolását,
 
-g)[^24] a környezeti hatások jelentőségének vizsgálatára szolgáló – a Khvr.-ben meghatározott – adatlapot, ha az engedélyezési eljárás a Khvr. 3. számú mellékletében meghatározott olyan tevékenység megkezdését vagy folytatását szolgálja, amely a Khvr.-ben meghatározott küszöbértéket nem éri el vagy a tevékenységre a Khvr.-ben megállapított feltétel nem teljesül.
+g)[^25] a környezeti hatások jelentőségének vizsgálatára szolgáló – a Khvr.-ben meghatározott – adatlapot, ha az engedélyezési eljárás a Khvr. 3. számú mellékletében meghatározott olyan tevékenység megkezdését vagy folytatását szolgálja, amely a Khvr.-ben meghatározott küszöbértéket nem éri el vagy a tevékenységre a Khvr.-ben megállapított feltétel nem teljesül.
 
 (2) A kérelemben az Evt. 78. § (1) bekezdésének megfelelően pontosan meg kell határozni a tervezett igénybevétel közérdekkel való összhangját, és alá kell támasztani annak indokoltságát.
 
@@ -22,7 +22,7 @@ g)[^24] a környezeti hatások jelentőségének vizsgálatára szolgáló – a
 
 (4) Az (1)–(3) bekezdésben foglaltakat az Evt. 85. § (2) bekezdése szerinti fennmaradási engedély kérelem esetében is alkalmazni kell.
 
-(5)[^25] A nemzetgazdasági szempontból kiemelt jelentőségű beruházással összefüggő, a Kormány által rendeletben meghatározott erdő igénybevételi ügyek esetében a csereerdősítést az adott erdő fekvése szerint illetékes erdészeti hatóság illetékességi területén kell végrehajtani.
+(5)[^26] A nemzetgazdasági szempontból kiemelt jelentőségű beruházással összefüggő, a Kormány által rendeletben meghatározott erdő igénybevételi ügyek esetében a csereerdősítést az adott erdő fekvése szerint illetékes erdészeti hatóság illetékességi területén kell végrehajtani.
 
-[^24]: Az 54. § (1) bekezdés g) pontját a 38/2011. (V. 18.) VM rendelet 5. §-a iktatta be.
-[^25]: Az 54. § (5) bekezdését a 24/2012. (III. 19.) VM rendelet 10. § (3) bekezdése iktatta be.
+[^25]: Az 54. § (1) bekezdés g) pontját a 38/2011. (V. 18.) VM rendelet 5. §-a iktatta be.
+[^26]: Az 54. § (5) bekezdését a 24/2012. (III. 19.) VM rendelet 10. § (3) bekezdése iktatta be.

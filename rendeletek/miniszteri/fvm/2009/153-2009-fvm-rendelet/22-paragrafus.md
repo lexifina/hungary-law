@@ -4,7 +4,7 @@
 
 (3) A szemle másolat az erdőrészlet aktuális adatait tartalmazza. Szemle másolatként meghatározott erdőrészletek körére vonatkozó, feldolgozott adat, illetőleg erdészeti nyilvántartási térképmásolat is kérelmezhető. Szemle másolat korlátozás nélkül kiadható.
 
-(4)[^20] Teljes másolat kizárólag
+(4)[^21] Teljes másolat kizárólag
 
 a) az erdőgazdálkodó,
 
@@ -34,4 +34,4 @@ g) dátum, valamint
 
 h) adatszolgáltatást kérő személy aláírása.
 
-[^20]: A 22. § (4) bekezdése a 85/2012. (VIII. 6.) VM rendelet 13. §-ával megállapított szöveg.
+[^21]: A 22. § (4) bekezdése a 85/2012. (VIII. 6.) VM rendelet 13. §-ával megállapított szöveg.
