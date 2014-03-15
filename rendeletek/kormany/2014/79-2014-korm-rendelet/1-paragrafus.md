@@ -1,0 +1,7 @@
+## ELSŐ RÉSZ
+
+## BEVEZETŐ RENDELKEZÉSEK
+
+## I. Fejezet
+
+## A RENDELET HATÁLYA
