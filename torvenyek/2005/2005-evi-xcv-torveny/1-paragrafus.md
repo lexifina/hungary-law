@@ -119,3 +119,5 @@ függetlenül attól, hogy ez sérti-e a szellemi tulajdonjogot.
 44. visszahívás: minden olyan intézkedés, amelynek célja a végfelhasználók számára forgalmazott vagy a forgalmazóknál található gyógyszer visszagyűjtése;
 
 45. kivonás a forgalomból: minden olyan intézkedés, amelynek célja a gyógyszer forgalmazásának megakadályozása az értékesítési láncban.
+
+46. gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet.

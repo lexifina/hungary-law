@@ -6,7 +6,7 @@
 
 (3) A kábítószerekkel, pszichotróp anyagokkal és új pszichoaktív anyagokkal kapcsolatos egyes engedélyezési és nyilvántartásba vételi eljárásokért, illetve az engedély kiadásáért, módosításáért jogszabályban meghatározottak szerint igazgatási szolgáltatási díjat kell fizetni.
 
-(4) Az (1) bekezdés szerinti tevékenységi engedélyt kizárólag a Polgári Törvénykönyvben (a továbbiakban: Ptk.) meghatározott gazdálkodó szervezet kaphat, amelynek vezetője büntetlen előéletű, nem áll gazdálkodó szervezetben vagy gazdasági társaságban vezető tisztség betöltését kizáró, valamint egészségügyi tevékenység gyakorlását kizáró foglalkozástól eltiltás hatálya alatt.
+(4) Az (1) bekezdés szerinti tevékenységi engedélyt kizárólag olyan gazdálkodó szervezet kaphat, amelynek vezetője büntetlen előéletű, nem áll gazdálkodó szervezetben vagy gazdasági társaságban vezető tisztség betöltését kizáró, valamint egészségügyi tevékenység gyakorlását kizáró foglalkozástól eltiltás hatálya alatt.
 
 (5) Külön jogszabály szerinti kábítószer-felelősnek és helyettesének valamint kábítószerért felelős személynek csak olyan személy jelölhető ki, aki büntetlen előéletű, és nem áll egészségügyi tevékenység gyakorlását kizáró foglalkozástól eltiltás hatálya alatt.
 
