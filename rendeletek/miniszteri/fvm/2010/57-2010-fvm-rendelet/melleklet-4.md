@@ -40,8 +40,10 @@ A rendezvényen az élelmiszert forgalomba hozókról vezetett nyilvántartás k
 
 1. az élelmiszert forgalomba hozó részt vevő neve (cég esetében a cég neve), címe (kereskedő esetében székhelye),
 
-2. a jogi személy, illetve a jogi személlyel nem rendelkező gazdasági társaság cégjegyzékszáma, az egyéni vállalkozó nyilvántartási száma,
+2.[^30] a jogi személy, illetve a jogi személyiséggel nem rendelkező szervezet cégjegyzékszáma, az egyéni vállalkozó nyilvántartási száma,
 
 3. a forgalomba hozni kívánt élelmiszerek megnevezése,
 
 4. keltezés, a szervező aláírása (bélyegzője) a résztvevő aláírása (bélyegzője).
+
+[^30]: A 4. melléklet 2. pontja a 22/2014. (III. 14.) VM rendelet 77. §-a szerint módosított szöveg.
