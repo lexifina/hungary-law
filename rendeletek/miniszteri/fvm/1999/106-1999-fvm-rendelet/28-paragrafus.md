@@ -8,7 +8,7 @@ Melléklet a 106/1999. (XII. 28.) FVM rendelethez
 
 I. A havi lakbér mértéke és megállapításának feltételei
 
-1.[^21] A fizetendő lakbér alapját a lakás hasznos alapterülete és komfortfokozata figyelembevételével kell kiszámítani:
+1.[^22] A fizetendő lakbér alapját a lakás hasznos alapterülete és komfortfokozata figyelembevételével kell kiszámítani:
 
 a) összkomfortos lakás esetén 180 Ft/m2,
 
@@ -74,4 +74,4 @@ h) szemétszállítás,
 
 i) a bérbeadó és a bérlő megállapodása alapján nyújtott egyéb külön szolgáltatás.
 
-[^21]: A melléklet I. pontjának 1. alpontja a 38/2006. (V. 18.) FVM rendelet 10. §-ával megállapított szöveg.
+[^22]: A melléklet I. pontjának 1. alpontja a 38/2006. (V. 18.) FVM rendelet 10. §-ával megállapított szöveg.
