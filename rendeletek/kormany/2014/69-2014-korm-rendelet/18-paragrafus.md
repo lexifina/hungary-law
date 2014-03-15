@@ -1,0 +1,3 @@
+## 17. § A szociális, gyermekjóléti és gyermekvédelmi szolgáltatók, intézmények és hálózatok hatósági nyilvántartásáról és ellenőrzéséről szóló 369/2013. (X. 24.) Korm. rendelet 50. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) Kizárólag ellátási érdekből az ideiglenes hatályú működési engedélyek 2014. december 31-éig meghosszabbított hatállyal is bejegyezhetők a szolgáltatói nyilvántartásba, és az ideiglenes hatályú bejegyzés hatálya 2014. december 31-éig meghosszabbítható, ha a fenntartó a kérelméhez csatolja a határozatlan idejű bejegyzéshez szükséges feltételek megteremtésére vonatkozó szakmai tervét, vagy az európai uniós forrás (TIOP 3.4.1/B-11/1., TIOP 3.4.2.-11/1.) felhasználására vonatkozó megkötött támogatási szerződés másolatát.”

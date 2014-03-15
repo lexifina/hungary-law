@@ -1,0 +1,3 @@
+## „(1a) Ha az Szt. 43. § a) pontja szerinti hozzátartozójának ápolására tekintettel kiemelt ápolási díjat igénylő személy az (1) bekezdés a) pontja szerinti irattal nem rendelkezik, a rehabilitációs szakigazgatási szervtől kérheti az ápolt személy komplex minősítésének elvégzését, azzal, hogy ha az ápolt személy a komplex minősítés megkezdését megelőzően a rá irányadó nyugdíjkorhatárt betöltötte, a komplex minősítése keretében a rehabilitálhatóság vizsgálatát nem kell elvégezni.
+
+## (1b) Ha az ügyfél az (1a) bekezdés szerinti eljárás megindítását igazolja, az eljáró hatóság felfüggeszti a kiemelt ápolási díj megállapítására irányuló eljárást a komplex minősítés eredményéről kiállított hatósági bizonyítvány benyújtásáig.”
