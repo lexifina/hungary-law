@@ -12,7 +12,7 @@ ac) az előfizető számlázási címe, szükség esetén számlaszáma,
 
 ad) egyéni előfizető esetén az előfizető születési neve, anyja születési neve, születési helye és ideje,
 
-ae) korlátozottan cselekvőképes előfizető esetén az utólag fizetett díjú szolgáltatásokra vonatkozó előfizetői szerződésben a törvényes képviselő aa), ac)–ad) pont szerinti adatai,
+ae)[^3] korlátozottan cselekvőképes kiskorú, illetve cselekvőképességében az előfizetői szerződés megkötésével összefüggő jognyilatkozatok tekintetében részlegesen korlátozott személy esetén az utólag fizetett díjú szolgáltatásokra vonatkozó előfizetői szerződésben a törvényes képviselő aa), ac)–ad) pont szerinti adatai,
 
 af) nem egyéni előfizető esetén az előfizető cégjegyzékszáma vagy más nyilvántartási száma, valamint szükség esetén az előfizető pénzforgalmi számlaszáma,
 
@@ -34,7 +34,7 @@ c) a szerződés tárgyát képező előfizetői szolgáltatás:
 
 ca) a szolgáltatás rövid leírása, a díjcsomag megnevezése, az előfizető által kért szolgáltatások,
 
-cb)[^2] utalás az általános szerződési feltételek azon vonatkozó pontjaira, amelyek meghatározzák a szolgáltatást jellemző, az elektronikus hírközlési szolgáltatás minőségének az előfizetők és felhasználók védelmével összefüggő követelményeiről szóló NMHH rendeletben meghatározott, vagy a szolgáltató által önként vállalt szolgáltatásminőségi követelmények célértékeit,
+cb)[^4] utalás az általános szerződési feltételek azon vonatkozó pontjaira, amelyek meghatározzák a szolgáltatást jellemző, az elektronikus hírközlési szolgáltatás minőségének az előfizetők és felhasználók védelmével összefüggő követelményeiről szóló NMHH rendeletben meghatározott, vagy a szolgáltató által önként vállalt szolgáltatásminőségi követelmények célértékeit,
 
 cc) amennyiben a szolgáltató hálózatában forgalommérést, irányítást, menedzselést alkalmaz, és ez hatással van a szolgáltatás minőségére, vagy az elektronikus hírközlési szolgáltatás útján elérhető más szolgáltatásokhoz, tartalmakhoz, alkalmazásokhoz történő hozzáférésre, akkor az előfizető erre vonatkozó tájékoztatása, és utalás az általános szerződési feltételek azon pontjára, amely ennek részletes feltételeit tartalmazza,
 
@@ -120,4 +120,5 @@ o) a hibabejelentések megtételének, számlapanaszok bejelentésének lehetsé
 
 (6) Az egyedi előfizetői szerződések mintáit a szolgáltató köteles honlapján az általános szerződési feltételek mellett közzétenni.
 
-[^2]: A 7. § (1) bekezdés c) pont cb) alpontja a 13/2011. (XII. 27.) NMHH rendelet 18. §-a szerint módosított szöveg.
+[^3]: A 7. § (1) bekezdés a) pont ae) alpontja a 3/2014. (III. 13.) NMHH rendelet 2. §-a szerint módosított szöveg.
+[^4]: A 7. § (1) bekezdés c) pont cb) alpontja a 13/2011. (XII. 27.) NMHH rendelet 18. §-a szerint módosított szöveg.
