@@ -24,8 +24,10 @@ j) a kutatásban résztvevők toborzásának és beválasztásának módjáról 
 
 k) a kutatás során nyert adatok statisztikai feldolgozási módszerének megfelelőségéről,
 
-l) ha a kutatást állapotos, szabadságában korlátozott (Eütv. 161. §), korlátozottan cselekvőképes vagy cselekvőképtelen személyen is végzik, ezek bevonásának indokoltságáról és érdekeik védelmének megfelelőségéről,
+l)[^6] ha a kutatást állapotos, szabadságában korlátozott (Eütv. 161. §), korlátozottan cselekvőképes kiskorú, valamint a cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében részlegesen korlátozott nagykorú vagy cselekvőképtelen személyen is végzik, ezek bevonásának indokoltságáról és érdekeik védelmének megfelelőségéről,
 
 m) a kutatás vezetőjének és a kutatásban közreműködők díjazásának megfelelőségéről,
 
 n) arról, hogy a várható kockázatot a várható terápiás előny meghaladja-e.
+
+[^6]: A 7. § l) pontja a 46/2014. (II. 26.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
