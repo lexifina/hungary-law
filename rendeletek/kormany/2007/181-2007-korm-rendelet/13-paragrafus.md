@@ -14,7 +14,7 @@ e) a fogadási megállapodás érvényességének időtartamát,
 
 f) a fogadási megállapodás megszűnésének eseteit.
 
-(2) Ha a kutató az Európai Gazdasági Térség egy másik tagállamában tartózkodik fogadási megállapodással, amelynek időtartama alatt a Magyar Köztársaság területén három hónapnál hosszabb időt tölt kutatás céljából, e rendelet rendelkezéseit alkalmazni kell.
+(2)[^16] Ha a kutató az Európai Gazdasági Térség egy másik tagállamában tartózkodik fogadási megállapodással, amelynek időtartama alatt a Magyarország területén három hónapnál hosszabb időt tölt kutatás céljából, e rendelet rendelkezéseit alkalmazni kell.
 
 (3) A kutató és a kutatószervezet között létrejött, munkavégzésre irányuló szerződés nem lehet ellentétes a fogadási megállapodással.
 
@@ -23,3 +23,5 @@ f) a fogadási megállapodás megszűnésének eseteit.
 a) a kutató beutazásához és tartózkodásához szükséges engedélyek kiadását elutasították, az erről szóló határozat jogerőre emelkedése napján, vagy
 
 b) a kutató és a kutatószervezet közti jogviszony megszűnik, a jogviszony megszűnésének napján.
+
+[^16]: A 13. § (2) bekezdése a 80/2014. (III. 14.) Korm. rendelet 16. § c) pontja szerint módosított szöveg.

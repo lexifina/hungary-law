@@ -1,4 +1,4 @@
-9. § (1)[^9]
+9. § (1)[^12]
 
 (2) A Hivatal az akkreditációs tanúsítvány megújítása iránti kérelmet elutasítja vagy a tanúsítványt visszavonja, ha a kutatószervezet
 
@@ -8,4 +8,4 @@ b) a kutatóval a fogadási megállapodást rosszhiszeműen vagy nem a tőle elv
 
 (3) Ha a Hivatal a (2) bekezdés b) pontjában meghatározott rosszhiszeműség miatt az akkreditációs tanúsítványt visszavonja vagy a tanúsítvány megújítása iránti kérelmet elutasítja, a kutatószervezet a határozat jogerőre emelkedésétől számított öt évig nem kérheti az újabb akkreditációját.
 
-[^9]: A 9. § (1) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 552. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^12]: A 9. § (1) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 552. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

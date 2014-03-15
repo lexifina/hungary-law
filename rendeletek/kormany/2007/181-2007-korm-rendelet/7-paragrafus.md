@@ -4,10 +4,12 @@
 
 a) azt a költségvetési szervet, illetve a felsőoktatási törvény hatálya alá tartozó felsőoktatási intézményt, amelynek alaptevékenysége a tudományos kutatás vagy a kutatás-fejlesztés,
 
-b) azt az a) pontba nem tartozó, kutatás-fejlesztési tevékenységet végző gazdálkodó szervezetet, amely az akkreditációs kérelem benyújtását megelőző 3 pénzügyi év valamelyikére vonatkozóan
+b)[^9] azt az a) pontba nem tartozó, kutatás-fejlesztési tevékenységet végző polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezetet, amely az akkreditációs kérelem benyújtását megelőző 3 pénzügyi év valamelyikére vonatkozóan
 
 ba) a működési költségeinek legalább 10 százalékát kutatás-fejlesztésre fordította, illetve
 
 bb) a teljes munkaidőben foglalkoztatott alkalmazotti létszám legalább 10 százalékát foglalkoztatja kutatás-fejlesztés tevékenységi körében.
 
 (2) Az akkreditált kutatószervezetnek az ellenőrzést megelőző 3 pénzügyi év valamelyikére vonatkozóan meg kell felelnie az (1) bekezdés b) pont ba), illetve bb) alpontjában foglalt feltételeknek.
+
+[^9]: A 7. § (1) bekezdés b) pontja a 80/2014. (III. 14.) Korm. rendelet 16. § b) pontja szerint módosított szöveg.
