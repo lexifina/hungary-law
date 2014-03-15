@@ -12,6 +12,9 @@ b)[^1] teljesítményvizsgálatot és tenyészérték megállapítását végző
 
 c) kedvezményezett: akinek megbízása alapján a kérelmező a támogatott szolgáltatást végzi vagy végezteti;
 
-d) forráskimerülés: a költségvetési törvényben meghatározott jogosultsági keret teljes mértékű vagy olyan részleges kimerülése, amikor a fennmaradó rész (maradvány) az intézkedés jellegéből adódóan nem használható ki.
+d) forráskimerülés: a költségvetési törvényben meghatározott jogosultsági keret teljes mértékű vagy olyan részleges kimerülése, amikor a fennmaradó rész (maradvány) az intézkedés jellegéből adódóan nem használható ki;
+
+e)[^2] gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet.
 
 [^1]: Az 1. § b) pontja a 19/2014. (III. 12.) VM rendelet 30. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § e) pontját a 22/2014. (III. 14.) VM rendelet 67. §-a iktatta be.
