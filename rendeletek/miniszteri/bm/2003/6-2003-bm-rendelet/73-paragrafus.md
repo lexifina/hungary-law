@@ -2,7 +2,7 @@
 
 ## 73. § A bejegyzést az anyakönyvvezető újból anyakönyvezi, ha
 
-a) a vér szerinti szülő vagy szülők adatainak – esetleg a gyermek családi és utónevének – törlésével az örökbefogadó szülő vagy szülők, illetőleg egyedülálló örökbefogadó esetén az örökbefogadó szülő és a képzelt szülő adatait jegyzi be;
+a)[^171] a vér szerinti szülő vagy szülők adatainak – esetleg a gyermek családi és utónevének – törlésével az örökbefogadó szülő vagy szülők, illetőleg egyedülálló örökbefogadó esetén az örökbefogadó szülő és – ha képzelt szülőt állapítottak meg – a képzelt szülő adatait jegyzi be;
 
 b) a bíróság jogerős határozata szerint az apaként vagy anyaként bejegyzett személyt törli, mert a gyermeknek nem apja, illetőleg az anyaként bejegyzett személy a gyermeknek nem anyja;
 
@@ -17,3 +17,5 @@ f) az örökbefogadás megszűnése miatt a vér szerinti szülőkként bejegyze
 g) a vér szerinti apa adatait törli, mert a bíróság jogerősen holtnak nyilvánító vagy halál tényét megállapító határozata a halál napját a gyermek vélelmezett fogantatási idejét megelőző időpontban állapította meg;
 
 h) az alapbejegyzést törli, mert az nem javítható ki, illetőleg nem egészíthető ki.
+
+[^171]: A 73. § a) pontja a 15/2014. (III. 12.) KIM rendelet 13. § c) pontja szerint módosított szöveg.

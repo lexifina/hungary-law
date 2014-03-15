@@ -108,6 +108,6 @@
 
 ## Megjegyzések.
 
-3. számú melléklet a 6/2003. (III. 7.) BM rendelethez[^266]
+3. számú melléklet a 6/2003. (III. 7.) BM rendelethez[^283]
 
-[^266]: A 3. számú melléklet az 54/2012. (XII. 28.) KIM rendelet 17. § (2) bekezdésével megállapított szöveg.
+[^283]: A 3. számú melléklet az 54/2012. (XII. 28.) KIM rendelet 17. § (2) bekezdésével megállapított szöveg.

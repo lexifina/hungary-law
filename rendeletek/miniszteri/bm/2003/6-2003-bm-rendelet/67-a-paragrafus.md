@@ -1,6 +1,6 @@
-## Utólagos bejegyzés a bejegyzett élettársi kapcsolatok anyakönyvébe[^153]
+## Utólagos bejegyzés a bejegyzett élettársi kapcsolatok anyakönyvébe[^157]
 
-67/A. §[^154] (1) Ha a feleknek a bejegyzett élettársi kapcsolatok anyakönyvébe bejegyzett születési családi vagy utóneve, illetve személyi azonosítója megváltozik, az anyakönyvvezető az új adatokat az anyakönyv „Utólagos bejegyzések” rovatába jegyzi be. A bejegyzést az alábbi okiratok alapján kell teljesíteni:
+67/A. §[^158] (1) Ha a feleknek a bejegyzett élettársi kapcsolatok anyakönyvébe bejegyzett születési családi vagy utóneve, illetve személyi azonosítója megváltozik, az anyakönyvvezető az új adatokat az anyakönyv „Utólagos bejegyzések” rovatába jegyzi be. A bejegyzést az alábbi okiratok alapján kell teljesíteni:
 
 a) a központi anyakönyvi szerv névváltozási értesítése,
 
@@ -16,5 +16,5 @@ f) a születést nyilvántartó anyakönyvvezető értesítése a 60. § (2) bek
 
 (2) A születést nyilvántartó anyakönyvvezető értesítése alapján kell bejegyezni a születési anyakönyvbe bejegyzett és a bejegyzett élettársi kapcsolatok anyakönyvében is szereplő téves adatok kijavítását.
 
-[^153]: A 67/A. §-t megelőző alcímet a 14/2009. (VI. 3.) IRM rendelet 30. §-a iktatta be.
-[^154]: A 67/A. §-t a 14/2009. (VI. 3.) IRM rendelet 30. §-a iktatta be.
+[^157]: A 67/A. §-t megelőző alcímet a 14/2009. (VI. 3.) IRM rendelet 30. §-a iktatta be.
+[^158]: A 67/A. §-t a 14/2009. (VI. 3.) IRM rendelet 30. §-a iktatta be.

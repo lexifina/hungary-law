@@ -1,4 +1,4 @@
-## 103/D. §[^261] A 84. § (9) bekezdése szerinti esetben a magyar külképviseleti hatóság az át nem vett anyakönyvi kivonatoknak a hazai anyakönyvezést végző hatóság, illetve a központi anyakönyvi szerv számára történő megküldéséről első alkalommal 2013. szeptember 30-ig intézkedik.
+## 103/F. §[^278] A Polgári Törvénykönyvről szóló 2013. évi V. törvény hatálybalépésével összefüggő átmeneti és felhatalmazó rendelkezésekről szóló 2013. évi CLXXVII. törvény 31. §-a szerinti esetben az apa adatainak bejegyzését az anyakönyvvezető hivatalból kezdeményezi. A házasságkötésnél közreműködő anyakönyvvezető a házasság megkötése után a házassági anyakönyvi másolatot és az apai elismerő nyilatkozatot megküldi a gyermek születését nyilvántartó anyakönyvvezetőnek.
 
 ## Záró rendelkezések
 
@@ -6,12 +6,12 @@
 
 (2) E rendelet 60. §-a (3) bekezdésének a) pontja 2004. január 1-jén lép hatályba.
 
-(3)[^262] Az anyakönyvezésnél és az anyakönyvi okiratok kiállításánál a 3. melléklet szerinti rövidítéseket kell használni. Az anyakönyvi záradékok és bejegyzések mintáját a 4. mellékletben foglaltak szerint kell alkalmazni.
+(3)[^279] Az anyakönyvezésnél és az anyakönyvi okiratok kiállításánál a 3. melléklet szerinti rövidítéseket kell használni. Az anyakönyvi záradékok és bejegyzések mintáját a 4. mellékletben foglaltak szerint kell alkalmazni.
 
 (4) Személyi azonosító hiányában a születés évét, hónapját és napját arab számokkal írva kell anyakönyvezni.
 
-(5)[^263] A 2009. július 1-je előtt rendszeresített halotti anyakönyvben – ha az elhalt bejegyzett élettárs volt – a bejegyzett élettársának születési családi és utónevét, személyi azonosítóját, annak hiányában születési idejét, a bejegyzett élettársi kapcsolat létesítésének helyét és idejét a „Megjegyzések” rovatban kell feltüntetni. A házasságra és a házastársra vonatkozó rovatokat ez esetben ki kell húzni.
+(5)[^280] A 2009. július 1-je előtt rendszeresített halotti anyakönyvben – ha az elhalt bejegyzett élettárs volt – a bejegyzett élettársának születési családi és utónevét, személyi azonosítóját, annak hiányában születési idejét, a bejegyzett élettársi kapcsolat létesítésének helyét és idejét a „Megjegyzések” rovatban kell feltüntetni. A házasságra és a házastársra vonatkozó rovatokat ez esetben ki kell húzni.
 
-[^261]: A 103/D. §-t a 9/2013. (VI. 29.) KIM rendelet 63. §-a iktatta be.
-[^262]: A 104. § (3) bekezdése a 14/2009. (VI. 3.) IRM rendelet 43. § (1) bekezdésével megállapított szöveg.
-[^263]: A 104. § (5) bekezdését a 14/2009. (VI. 3.) IRM rendelet 43. § (2) bekezdése iktatta be.
+[^278]: A 103/F. §-t a 15/2014. (III. 12.) KIM rendelet 11. §-a iktatta be.
+[^279]: A 104. § (3) bekezdése a 14/2009. (VI. 3.) IRM rendelet 43. § (1) bekezdésével megállapított szöveg.
+[^280]: A 104. § (5) bekezdését a 14/2009. (VI. 3.) IRM rendelet 43. § (2) bekezdése iktatta be.

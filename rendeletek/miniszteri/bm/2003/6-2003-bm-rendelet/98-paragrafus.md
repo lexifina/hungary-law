@@ -1,10 +1,10 @@
-## 97. §[^242] Az anyakönyvi irattárból – kivételes esetben – hatóság (különösen bíróság, ügyészség, nyomozó hatóságok, nemzetbiztonsági szervek) írásbeli megkeresésére szabad eredeti iratot kiadni. Az anyakönyvvezető átmenetileg iratpótlót és a kiadott eredeti iratok fénymásolatát helyezi el, valamint gondoskodik arról, hogy az eredeti iratok az anyakönyvi irattárba visszakerüljenek.
+## 97. §[^255] Az anyakönyvi irattárból – kivételes esetben – hatóság (különösen bíróság, ügyészség, nyomozó hatóságok, nemzetbiztonsági szervek) írásbeli megkeresésére szabad eredeti iratot kiadni. Az anyakönyvvezető átmenetileg iratpótlót és a kiadott eredeti iratok fénymásolatát helyezi el, valamint gondoskodik arról, hogy az eredeti iratok az anyakönyvi irattárba visszakerüljenek.
 
 ## Az iratselejtezés
 
-98. §[^243] (1) Az anyakönyvi irattárban elhelyezett – az anyakönyvi bejegyzések alapjául szolgáló – anyakönyvi alapiratok nem selejtezhetőek, őrzésükről az anyakönyvvezető gondoskodik.
+98. §[^256] (1) Az anyakönyvi irattárban elhelyezett – az anyakönyvi bejegyzések alapjául szolgáló – anyakönyvi alapiratok nem selejtezhetőek, őrzésükről az anyakönyvvezető gondoskodik.
 
 (2) Az anyakönyvi okiratok kiállítása iránti kérelmek megőrzési ideje öt év.
 
-[^242]: A 97. § a 14/2009. (VI. 3.) IRM rendelet 46. § 37. pontja szerint módosított szöveg.
-[^243]: A 98. § a 2/2006. (I. 13.) BM rendelet 23. §-ával megállapított szöveg.
+[^255]: A 97. § a 14/2009. (VI. 3.) IRM rendelet 46. § 37. pontja szerint módosított szöveg.
+[^256]: A 98. § a 2/2006. (I. 13.) BM rendelet 23. §-ával megállapított szöveg.

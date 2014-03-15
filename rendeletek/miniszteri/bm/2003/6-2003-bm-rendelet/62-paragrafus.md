@@ -12,10 +12,10 @@ c) a szülők megállapodását tartalmazó közjegyzői okiratot, vagy
 
 d) a szülői felügyeleti jogot egyedül gyakorló szülő által írásban tett és két tanú aláírásával hitelesített vagy anyakönyvvezető által írásba foglalt szóbeli bejelentését, vagy
 
-e)[^146] a szülők megállapodásának hiányában az illetékes gyámhivatal jogerős határozatát, vagy
+e)[^150] a szülők megállapodásának hiányában az illetékes gyámhivatal jogerős határozatát, vagy
 
 f) a gyermek születését nyilvántartó anyakönyvvezető értesítését.
 
 (3) A közös gyermekek családi nevének bejegyzése előtt az anyakönyvvezető megvizsgálja, hogy az anyakönyvezni kívánt családi név a névviselési szabályoknak megfelel-e. A bejegyzést megtagadja, ha az a névviselési szabályokba ütközik.
 
-[^146]: A 62. § (2) bekezdés e) pontja az 54/2012. (XII. 28.) KIM rendelet 16. § e) pontja szerint módosított szöveg.
+[^150]: A 62. § (2) bekezdés e) pontja az 54/2012. (XII. 28.) KIM rendelet 16. § e) pontja szerint módosított szöveg.

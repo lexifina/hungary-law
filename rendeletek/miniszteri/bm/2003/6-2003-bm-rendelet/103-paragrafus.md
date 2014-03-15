@@ -1,4 +1,4 @@
-## 102/A. §[^254] Az anyakönyvvezető a nemzetközi jogsegélyre, valamint az egyéb külföldről érkező megkeresésre – amennyiben az személyes adatok közlésére irányul – a felettes szerv útján válaszol.
+## 102/A. §[^268] Az anyakönyvvezető a nemzetközi jogsegélyre, valamint az egyéb külföldről érkező megkeresésre – amennyiben az személyes adatok közlésére irányul – a felettes szerv útján válaszol.
 
 ## Átmeneti rendelkezések
 
@@ -6,7 +6,7 @@
 
 a) az apa adatait utólag bejegyzik;
 
-b)[^255] a gyámhivatal képzelt apát állapít meg;
+b)[^269] a gyámhivatal képzelt apát állapít meg;
 
 c) az örökbefogadó szülőket vér szerinti szülőkként jegyzik be.
 
@@ -14,14 +14,15 @@ c) az örökbefogadó szülőket vér szerinti szülőkként jegyzik be.
 
 a) a férj a gyermeket magáénak elismerte, és az elismerést az anyakönyvbe bejegyezték;
 
-b)[^256] a férj a gyermeket anyakönyvvezető, gyámhivatal, bíróság, közjegyző vagy magyar külképviseleti hatóság előtt tett és jegyzőkönyvbe foglalt nyilatkozattal a magáénak elismerte, bár a nyilatkozatot az anyakönyvbe nem jegyezték fel;
+b)[^270] a férj a gyermeket anyakönyvvezető, gyámhivatal, bíróság, közjegyző vagy magyar külképviseleti hatóság előtt tett és jegyzőkönyvbe foglalt nyilatkozattal a magáénak elismerte, bár a nyilatkozatot az anyakönyvbe nem jegyezték fel;
 
 c) jogerős bírósági határozat megállapította, hogy az utólagos házasságkötés folytán a férjet kell a gyermek apjának tekinteni.
 
 (3) A (2) bekezdés alapján az apa adatainak bejegyzését a gyermek, a gyermek halála esetén leszármazója, továbbá a gyermek anyja vagy annak férje kérheti.
 
-(4) Az 1947. június 1. előtt teljesített születési anyakönyvi bejegyzésben, ha az ismeretlen szülőktől származóként vagy az apa adatai nélkül anyakönyvezték, csak az érdekeltek kérelmére kell a képzelt szülők, illetőleg a képzelt apa adatait bejegyezni.
+(4)[^271] Az 1947. június 1. előtt teljesített születési anyakönyvi bejegyzésben, ha az érintettet ismeretlen szülőktől származóként anyakönyvezték, az érintett kérelmére, a gyámhivatal jogerős határozata alapján kell a képzelt szülők adatait bejegyezni.
 
-[^254]: A 102/A. §-t és alcímét a 2/2006. (I. 13.) BM rendelet 24. §-a iktatta be.
-[^255]: A 103. § (1) bekezdés b) pontja az 54/2012. (XII. 28.) KIM rendelet 16. § e) pontja szerint módosított szöveg.
-[^256]: A 103. § (2) bekezdés b) pontja az 54/2012. (XII. 28.) KIM rendelet 16. § e) pontja szerint módosított szöveg.
+[^268]: A 102/A. §-t és alcímét a 2/2006. (I. 13.) BM rendelet 24. §-a iktatta be.
+[^269]: A 103. § (1) bekezdés b) pontja az 54/2012. (XII. 28.) KIM rendelet 16. § e) pontja szerint módosított szöveg.
+[^270]: A 103. § (2) bekezdés b) pontja az 54/2012. (XII. 28.) KIM rendelet 16. § e) pontja szerint módosított szöveg.
+[^271]: A 103. § (4) bekezdése a 15/2014. (III. 12.) KIM rendelet 9. §-ával megállapított szöveg.

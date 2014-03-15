@@ -2,7 +2,7 @@
 
 60. § (1) Az anyakönyvvezető a születési anyakönyv ,,Utólagos bejegyzések'' rovatába jegyzi be
 
-a)[^137] az állampolgársági eljárásban történt névmódosítást az anyakönyvvezető értesítése alapján, az anyakönyvi ügyekért felelős miniszter által engedélyezett születési családi vagy utónév megváltoztatását a központi anyakönyvi szerv értesítése alapján;
+a)[^141] az állampolgársági eljárásban történt névmódosítást az anyakönyvvezető értesítése alapján, az anyakönyvi ügyekért felelős miniszter által engedélyezett születési családi vagy utónév megváltoztatását a központi anyakönyvi szerv értesítése alapján;
 
 b) a születési családi és utónév örökbefogadás vagy örökbefogadás hatálytalanná válása, illetőleg megszűnése miatt bekövetkezett megváltozását az örökbefogadás, illetőleg az örökbefogadás megszűnésének bejegyzésével egyidejűleg;
 
@@ -22,23 +22,23 @@ i) a bejegyzés kijavítását;
 
 j) a bejegyzett személy halálát;
 
-k)[^138] a születés bejelentésétől számított három hónapon belül a gyermek születési családi és utónevének kijavítását, ha a nemzetközi magánjogról szóló 1979. évi 13. törvényerejű rendelet 10. § (2) bekezdése alapján a gyermek névviselésére a szülők együttes döntése alapján a külföldi jog az irányadó, feltéve, ha a szülők igazolták a gyermek külföldi állampolgárságát, valamint azt a tényt, hogy az általuk megjelölt név megfelel a külföldi jognak.
+k)[^142] a születés bejelentésétől számított három hónapon belül a gyermek születési családi és utónevének kijavítását, ha a nemzetközi magánjogról szóló 1979. évi 13. törvényerejű rendelet 10. § (2) bekezdése alapján a gyermek névviselésére a szülők együttes döntése alapján a külföldi jog az irányadó, feltéve, ha a szülők igazolták a gyermek külföldi állampolgárságát, valamint azt a tényt, hogy az általuk megjelölt név megfelel a külföldi jognak.
 
-(2)[^139] A gyermek születési utónevének nemzetiségi utónévre történő kijavítását, a születési családi névnek a nemzetiségi nyelvi szabályok szerinti módra történő kijavítását, valamint a születési családi és utónév nemzetiségi nyelven történő bejegyzését az ,,Utólagos bejegyzések'' rovatban kell szerepeltetni.
+(2)[^143] A gyermek születési utónevének nemzetiségi utónévre történő kijavítását, a születési családi névnek a nemzetiségi nyelvi szabályok szerinti módra történő kijavítását, valamint a születési családi és utónév nemzetiségi nyelven történő bejegyzését az ,,Utólagos bejegyzések'' rovatban kell szerepeltetni.
 
-(3)[^140] A nemzetiségi utónévre történő kijavításnál az érintett országos nemzetiségi önkormányzat
+(3)[^144] A nemzetiségi utónévre történő kijavításnál az érintett országos nemzetiségi önkormányzat
 
-a)[^141] által összeállított utónévjegyzék,
+a)[^145] által összeállított utónévjegyzék,
 
 b) állásfoglalása
 
 ## az irányadó.
 
-(4)[^142] A családi név nemzetiségi nyelvi szabályok szerinti kijavításánál, valamint a nemzetiségi nyelven történő bejegyzésnél – amennyiben megkeresés szükséges – elsősorban az érintett országos nemzetiségi önkormányzat véleménye vagy ennek hiányában, illetve, ha ez nem beszerezhető, akkor más szakértői vélemény alapján kell az utólagos bejegyzést teljesíteni.
+(4)[^146] A családi név nemzetiségi nyelvi szabályok szerinti kijavításánál, valamint a nemzetiségi nyelven történő bejegyzésnél – amennyiben megkeresés szükséges – elsősorban az érintett országos nemzetiségi önkormányzat véleménye vagy ennek hiányában, illetve, ha ez nem beszerezhető, akkor más szakértői vélemény alapján kell az utólagos bejegyzést teljesíteni.
 
-[^137]: A 60. § (1) bekezdésének a) pontja a 10/2007. (III. 6.) IRM rendelet 12. §-ával megállapított szöveg, e módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a folyamatban lévő anyakönyvi eljárásokban is alkalmazni kell.
-[^138]: A 60. § (1) bekezdés k) pontját a 14/2009. (VI. 3.) IRM rendelet 28. §-a iktatta be, szövege az 54/2012. (XII. 28.) KIM rendelet 8. §-ával megállapított szöveg.
-[^139]: A 60. § (2) bekezdése a 41/2011. (XII. 30.) KIM rendelet 30. § f) bekezdése szerint módosított szöveg.
-[^140]: A 60. § (3) bekezdése a 41/2011. (XII. 30.) KIM rendelet 30. § g) bekezdése szerint módosított szöveg.
-[^141]: A 60. § (3) bekezdésének a) pontja e rendelet 104. §-ának (2) bekezdése alapján 2004. január 1. napján lép hatályba.
-[^142]: A 60. § (4) bekezdése a 41/2011. (XII. 30.) KIM rendelet 30. § h) bekezdése szerint módosított szöveg.
+[^141]: A 60. § (1) bekezdésének a) pontja a 10/2007. (III. 6.) IRM rendelet 12. §-ával megállapított szöveg, e módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a folyamatban lévő anyakönyvi eljárásokban is alkalmazni kell.
+[^142]: A 60. § (1) bekezdés k) pontját a 14/2009. (VI. 3.) IRM rendelet 28. §-a iktatta be, szövege az 54/2012. (XII. 28.) KIM rendelet 8. §-ával megállapított szöveg.
+[^143]: A 60. § (2) bekezdése a 41/2011. (XII. 30.) KIM rendelet 30. § f) bekezdése szerint módosított szöveg.
+[^144]: A 60. § (3) bekezdése a 41/2011. (XII. 30.) KIM rendelet 30. § g) bekezdése szerint módosított szöveg.
+[^145]: A 60. § (3) bekezdésének a) pontja e rendelet 104. §-ának (2) bekezdése alapján 2004. január 1. napján lép hatályba.
+[^146]: A 60. § (4) bekezdése a 41/2011. (XII. 30.) KIM rendelet 30. § h) bekezdése szerint módosított szöveg.

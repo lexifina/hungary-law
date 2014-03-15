@@ -1,4 +1,4 @@
-## 69. §[^161] Az anyakönyvvezető a születési, a házassági anyakönyvbe, a bejegyzett élettársi kapcsolatok anyakönyvébe, valamint a halotti anyakönyvbe bejegyzett adat kijavítását az anyakönyv ,,Utólagos bejegyzések'' rovatába, az utólagos bejegyzések szabályai szerint jegyzi be.
+## 69. §[^165] Az anyakönyvvezető a születési, a házassági anyakönyvbe, a bejegyzett élettársi kapcsolatok anyakönyvébe, valamint a halotti anyakönyvbe bejegyzett adat kijavítását az anyakönyv ,,Utólagos bejegyzések'' rovatába, az utólagos bejegyzések szabályai szerint jegyzi be.
 
 ## Utólagos bejegyzést követő feladatok
 
@@ -10,7 +10,7 @@ b) bevezeti az utólagos bejegyzést a betűrendes névmutatóba, ha az névvál
 
 c) teljesíti az előírt adatszolgáltatást.
 
-(2)[^162] Az anyakönyvvezető a halotti anyakönyvbe teljesített utólagos bejegyzést követően az (1) bekezdésben foglaltakon túl intézkedik a születési, a házassági anyakönyv, valamint a bejegyzett élettársi kapcsolatok anyakönyve utólagos bejegyzésének kijavítására.
+(2)[^166] Az anyakönyvvezető a halotti anyakönyvbe teljesített utólagos bejegyzést követően az (1) bekezdésben foglaltakon túl intézkedik a születési, a házassági anyakönyv, valamint a bejegyzett élettársi kapcsolatok anyakönyve utólagos bejegyzésének kijavítására.
 
-[^161]: A 69. § a 14/2009. (VI. 3.) IRM rendelet 46. § 30. pontja szerint módosított szöveg.
-[^162]: A 70. § (2) bekezdése a 14/2009. (VI. 3.) IRM rendelet 32. §-ával megállapított szöveg.
+[^165]: A 69. § a 14/2009. (VI. 3.) IRM rendelet 46. § 30. pontja szerint módosított szöveg.
+[^166]: A 70. § (2) bekezdése a 14/2009. (VI. 3.) IRM rendelet 32. §-ával megállapított szöveg.

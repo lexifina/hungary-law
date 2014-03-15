@@ -64,7 +64,7 @@
 
 ## 6.13. egyes vagy ikerszülés (egyes, kettős, hármas, négyes, ötös, hatos), ha ikerszülés, a gyermek hányadikként született (első, második, harmadik, negyedik, ötödik, hatodik),
 
-## 6.14. megjegyzés (ebben a rovatban kell szerepeltetni azt a tényt, hogy az apa vagy az anya menekült státussal rendelkezik.
+## 6.14. megjegyzés (ebben a rovatban kell szerepeltetni a titkolt terhesség tényét, valamint ha az apa vagy az anya menekült státussal rendelkezik, ennek tényét).
 
 ## 7. Az anyakönyvvezető aláírása.
 
@@ -130,11 +130,11 @@
 
 ## 8.1. A menyasszony és a vőlegény bejelenti, hogy a születendő közös gyermekeik családi neve ...................................... lesz.
 
-## 8.2. A vőlegény kijelenti, hogy a menyasszony rendezetlen családi jogállású gyermekéről nem tud.
+## 8.2.
 
-## 8.3. A vőlegény kijelenti, hogy a menyasszonynak ................................-n ........ év ................................ hó ....... napján született ......................................... utónevű gyermekét a magáénak elismeri.
+## 8.3.
 
-## 8.4. A vőlegény kijelenti, hogy a menyasszonynak ................................-n ........ év ................................ hó ........ napján született ........................................ utónevű gyermekét a magáénak nem ismeri el.
+## 8.4.
 
 ## 9. A házasság hivatali helyiségen kívüli megkötése iránti kérelem és a nyilatkozatok.
 
@@ -308,6 +308,6 @@
 
 ## 12. Az értesítést kiállította.
 
-2. számú melléklet a 6/2003. (III. 7.) BM rendelethez[^265]
+2. számú melléklet a 6/2003. (III. 7.) BM rendelethez[^282]
 
-[^265]: A 2. számú melléklet a 14/2009. (VI. 3.) IRM rendelet 44. § (1) bekezdésével megállapított, a 41/2011. (XII. 30.) KIM rendelet 30. § k) pontja szerint módosított szöveg.
+[^282]: A 2. számú melléklet a 14/2009. (VI. 3.) IRM rendelet 44. § (1) bekezdésével megállapított, a 41/2011. (XII. 30.) KIM rendelet 30. § k) pontja szerint módosított szöveg.

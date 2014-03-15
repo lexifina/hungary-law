@@ -1,6 +1,6 @@
-## A hazai anyakönyv[^174]
+## A hazai anyakönyv[^181]
 
-81. §[^175] (1)[^176] A hazai anyakönyvezést végző anyakönyvvezető a születés, a házasságkötés, a bejegyzett élettársi kapcsolat és a haláleset adatait, valamint az ezekben bekövetkezett változásokat előre bekötött, harminc vagy háromszáz számozott lapot – házassági anyakönyv és a bejegyzett élettársi kapcsolatok anyakönyve esetén hatvan vagy hatszáz oldalt – tartalmazó hitelesített és egyedi azonosítóval ellátott anyakönyvekben (a továbbiakban: hazai anyakönyv) vezeti.
+81. §[^182] (1)[^183] A hazai anyakönyvezést végző anyakönyvvezető a születés, a házasságkötés, a bejegyzett élettársi kapcsolat és a haláleset adatait, valamint az ezekben bekövetkezett változásokat előre bekötött, harminc vagy háromszáz számozott lapot – házassági anyakönyv és a bejegyzett élettársi kapcsolatok anyakönyve esetén hatvan vagy hatszáz oldalt – tartalmazó hitelesített és egyedi azonosítóval ellátott anyakönyvekben (a továbbiakban: hazai anyakönyv) vezeti.
 
 (2) A hazai anyakönyv fedőtáblájának első oldala tartalmazza a hazai anyakönyvezést végző hatóság elnevezését, az anyakönyv típusát, azt az időpontot, amelytől kezdve az anyakönyvbe az adatokat bejegyzik, az anyakönyv lezárása után az utolsó bejegyzés időpontját.
 
@@ -10,14 +10,14 @@
 
 (5) A hazai anyakönyvbe a hazai anyakönyvezést végző anyakönyvvezető jegyezhet be, helyettes anyakönyvvezető nem járhat el.
 
-(6)[^177] A hazai anyakönyvezést végző anyakönyvvezető hivatali felszerelésére – a nemzeti színű vállszalag kivételével – a 10. § (1)–(3) bekezdésében foglaltak az irányadóak. A körbélyegző tartalmazza a hazai anyakönyvezést végző hatóság elnevezését, az anyakönyvvezető megjelölést, továbbá Magyarország címerét.
+(6)[^184] A hazai anyakönyvezést végző anyakönyvvezető hivatali felszerelésére – a nemzeti színű vállszalag kivételével – a 10. § (1)–(3) bekezdésében foglaltak az irányadóak. A körbélyegző tartalmazza a hazai anyakönyvezést végző hatóság elnevezését, az anyakönyvvezető megjelölést, továbbá Magyarország címerét.
 
 (7) A hazai anyakönyv pótlására a 90. §-ban foglaltakat kell alkalmazni azzal, hogy felettes szervként a hazai anyakönyvezést végző hatóság vezetője jár el.
 
-(8)[^178] A hazai anyakönyvezést végző hatóság egyidejűleg több anyakönyvet vezethet.
+(8)[^185] A hazai anyakönyvezést végző hatóság egyidejűleg több anyakönyvet vezethet.
 
-[^174]: A 81. § előtti alcím a 10/2007. (III. 6.) IRM rendelet 16. §-ával megállapított szöveg.
-[^175]: A 81. § a 10/2007. (III. 6.) IRM rendelet 16. §-ával megállapított szöveg, e módosító rendelet 25. § (1) bekezdése alapján rendelkezéseit a folyamatban lévő anyakönyvi eljárásokban is alkalmazni kell. A fővárosi főjegyző által vezetett hazai anyakönyvek tekintetében lásd e módosító rendelet 26. §-át.
-[^176]: A 81. § (1) bekezdése a 14/2009. (VI. 3.) IRM rendelet 46. § 29. és 33. pontja szerint módosított szöveg.
-[^177]: A 81. § (6) bekezdése a 41/2011. (XII. 30.) KIM rendelet 30. § b) bekezdése szerint módosított szöveg.
-[^178]: A 81. § (8) bekezdését a 14/2009. (VI. 3.) IRM rendelet 33. §-a iktatta be.
+[^181]: A 81. § előtti alcím a 10/2007. (III. 6.) IRM rendelet 16. §-ával megállapított szöveg.
+[^182]: A 81. § a 10/2007. (III. 6.) IRM rendelet 16. §-ával megállapított szöveg, e módosító rendelet 25. § (1) bekezdése alapján rendelkezéseit a folyamatban lévő anyakönyvi eljárásokban is alkalmazni kell. A fővárosi főjegyző által vezetett hazai anyakönyvek tekintetében lásd e módosító rendelet 26. §-át.
+[^183]: A 81. § (1) bekezdése a 14/2009. (VI. 3.) IRM rendelet 46. § 29. és 33. pontja szerint módosított szöveg.
+[^184]: A 81. § (6) bekezdése a 41/2011. (XII. 30.) KIM rendelet 30. § b) bekezdése szerint módosított szöveg.
+[^185]: A 81. § (8) bekezdését a 14/2009. (VI. 3.) IRM rendelet 33. §-a iktatta be.

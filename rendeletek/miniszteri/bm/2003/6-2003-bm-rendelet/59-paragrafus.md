@@ -2,7 +2,7 @@
 
 ## Az alapbejegyzést követő feladatok
 
-59. § (1)[^135] Az anyakönyvvezető a születés, a házasságkötés, a bejegyzett élettársi kapcsolat és a haláleset anyakönyvezése után
+59. § (1)[^138] Az anyakönyvvezető a születés, a házasságkötés, a bejegyzett élettársi kapcsolat és a haláleset anyakönyvezése után
 
 a) kiadja az illetékmentes anyakönyvi kivonatot;
 
@@ -10,7 +10,7 @@ b) bevezeti az alapbejegyzést a betűrendes névmutatóba;
 
 c) teljesíti az előírt adatszolgáltatásokat.
 
-(2) A házasságkötés anyakönyvezését követően az anyakönyvvezető intézkedik a családi jogállás megváltozásának anyakönyvezéséről is, ha a feleség gyermekének családi jogállása a házasságkötéssel megváltozott.
+(2)[^139]
 
 (3) A haláleset anyakönyvezését követően az anyakönyvvezető az (1) bekezdésben foglaltakon túl:
 
@@ -18,7 +18,8 @@ a) bejegyzi az általa vezetett születési anyakönyv ,,Utólagos bejegyzések'
 
 b) bejegyzi az általa vezetett házassági anyakönyv ,,Utólagos bejegyzések'' rovatába a házasság megszűnését;
 
-c)[^136] bejegyzi az általa vezetett bejegyzett élettársi kapcsolatok anyakönyvének „Utólagos bejegyzések” rovatába a bejegyzett élettársi kapcsolat megszűnését.
+c)[^140] bejegyzi az általa vezetett bejegyzett élettársi kapcsolatok anyakönyvének „Utólagos bejegyzések” rovatába a bejegyzett élettársi kapcsolat megszűnését.
 
-[^135]: Az 59. § (1) bekezdése a 14/2009. (VI. 3.) IRM rendelet 46. § 29. pontja szerint módosított szöveg.
-[^136]: Az 59. § (3) bekezdés c) pontját a 14/2009. (VI. 3.) IRM rendelet 27. §-a iktatta be.
+[^138]: Az 59. § (1) bekezdése a 14/2009. (VI. 3.) IRM rendelet 46. § 29. pontja szerint módosított szöveg.
+[^139]: Az 59. § (2) bekezdését a 15/2014. (III. 12.) KIM rendelet 14. § (3) bekezdése hatályon kívül helyezte.
+[^140]: Az 59. § (3) bekezdés c) pontját a 14/2009. (VI. 3.) IRM rendelet 27. §-a iktatta be.
