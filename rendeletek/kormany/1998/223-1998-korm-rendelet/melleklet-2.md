@@ -88,6 +88,6 @@
 
 ## 3.8 a kérelmező vagy a törvényes képviselő aláíróhelye
 
-2. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^182]
+2. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^184]
 
-[^182]: A 2. számú melléklet a 236/2012. (VIII. 30.) Korm. rendelet 17. § a) pontjával megállapított szöveg.
+[^184]: A 2. számú melléklet a 236/2012. (VIII. 30.) Korm. rendelet 17. § a) pontjával megállapított szöveg.

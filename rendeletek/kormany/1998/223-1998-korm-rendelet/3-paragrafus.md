@@ -1,6 +1,6 @@
 ## 3. § A Cst. 39. §-a alapján – írásban – be kell jelenteni
 
-a)[^17] a családi pótlék folyósításának, szüneteltetésének vagy a folyósítás felfüggesztésének időtartama alatt
+a)[^18] a családi pótlék folyósításának, szüneteltetésének vagy a folyósítás felfüggesztésének időtartama alatt
 
 aa) a gyermeknek az ellátásra jogosult háztartásából történő kikerülését,
 
@@ -22,13 +22,13 @@ ai) az Európai Unió tagállamában vagy az Európai Gazdasági Térségről sz
 
 aj) az ellátásra jogosult Cst. 45. § (2) bekezdés c) pontja szerinti adatában bekövetkezett változást, továbbá – ha az adatváltozás házasságkötésre, új bejegyzett élettársi vagy élettársi kapcsolat létesítésére tekintettel következett be – a házastárs, bejegyzett élettárs vagy élettárs Cst. 45. § (2) bekezdés a) és e) pontjában meghatározott adatát;
 
-b)[^18] a gyermekgondozási támogatás folyósításának, szüneteltetésének időtartama alatt
+b)[^19] a gyermekgondozási támogatás folyósításának, szüneteltetésének időtartama alatt
 
 ba) a gyermek tartós betegségére, illetve súlyos fogyatékosságára okot adó körülmény megszűnését,
 
 bb) ha az ellátásra jogosult – ide nem értve a kiskorú szülő gyermekének gyámját – a gyermek egyéves kora előtt, nagyszülő esetében a gyermek hároméves kora előtt folytat keresőtevékenységet,
 
-bc)[^19]
+bc)[^20]
 
 bd) ha a gyermekgondozási segélyre jogosult nagyszülő a gyermek hároméves kora után folytat keresőtevékenységet, kivéve, ha a keresőtevékenység a Cst. 21/A. §-ában megjelölt módon és időtartamban történik,
 
@@ -58,6 +58,6 @@ ca) a gyermek szüleinek a gyermek nevelésében történő akadályoztatásána
 
 cb) a gyermek – méltányossági gyermekgondozási segély megállapítására okot adó – betegségének megszűnését.
 
-[^17]: A 3. § a) pontja a 236/2010. (IX. 13.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^18]: A 3. § b) pontja a 359/2010. (XII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^19]: A 3. § b) pont bc) alpontját az 509/2013. (XII. 29.) Korm. rendelet 4. §-a hatályon kívül helyezte.
+[^18]: A 3. § a) pontja a 236/2010. (IX. 13.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^19]: A 3. § b) pontja a 359/2010. (XII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^20]: A 3. § b) pont bc) alpontját az 509/2013. (XII. 29.) Korm. rendelet 4. §-a hatályon kívül helyezte.

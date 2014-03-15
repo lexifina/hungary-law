@@ -92,6 +92,6 @@
 
 ## 3.12 a kérelmező aláíróhelye.
 
-4. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^184]
+4. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^186]
 
-[^184]: A 4. számú melléklet a 236/2012. (VIII. 30.) Korm. rendelet 17. § c) pontjával megállapított szöveg.
+[^186]: A 4. számú melléklet a 236/2012. (VIII. 30.) Korm. rendelet 17. § c) pontjával megállapított szöveg.
