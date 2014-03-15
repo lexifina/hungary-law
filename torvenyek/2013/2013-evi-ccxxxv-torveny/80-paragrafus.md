@@ -1,10 +1,10 @@
 80. § (1) A Felügyelet felügyeleti biztost rendelhet ki, ha a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény, utalványkibocsátó olyan helyzetbe kerül, amelyben fennáll a veszélye, hogy nem tud eleget tenni pénzügyi szolgáltatásból, kiegészítő pénzügyi szolgáltatásból eredő kötelezettségeinek.
 
-(2) A felügyeleti biztos kirendeléséről rendelkező határozat kézhezvételéig a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény, utalványkibocsátó igazgatósági tagjának, ügyvezetőjének a gazdasági társaságokra, szövetkezetekre vonatkozó törvényi rendelkezések szerinti felelőssége fennmarad.
+(2) A felügyeleti biztos kirendeléséről rendelkező határozat kézhezvételéig a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény, utalványkibocsátó igazgatósági tagjának, ügyvezetőjének a Ptk. rendelkezései szerinti felelőssége fennmarad.
 
 (3) Ha nincs lehetőség a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény, utalványkibocsátó ügyeinek átvételére, a felügyeleti biztos közjegyző vagy rendőrség közreműködését veheti igénybe.
 
-(4) A felügyeleti biztos kirendelésének ideje alatt az igazgatóság tagja, ügyvezetője a gazdasági társaságokra, szövetkezetekre vonatkozó törvényi rendelkezésekben és az alapszabályban rögzített feladatát, cégjegyzési jogát nem gyakorolhatja. A kirendelés tartamára a felügyeleti biztos gyakorolja az igazgatóság tagjának, ügyvezetőjének törvényben és alapszabályban megállapított jogait és kötelezettségeit.
+(4) A felügyeleti biztos kirendelésének ideje alatt az igazgatóság tagja, ügyvezetője a Ptk. rendelkezéseiben és az alapszabályban rögzített feladatát, cégjegyzési jogát nem gyakorolhatja. A kirendelés tartamára a felügyeleti biztos gyakorolja az igazgatóság tagjának, ügyvezetőjének törvényben és alapszabályban megállapított jogait és kötelezettségeit.
 
 (5) A (4) bekezdéstől eltérően az igazgatóság vagy a felügyelő bizottság tagja a felügyeleti biztos kirendelésének ideje alatt is jogorvoslattal élhet a felügyeleti biztost kirendelő határozat és a Felügyelet által a pénzforgalmi intézménnyel, elektronikuspénz-kibocsátó intézménnyel, utalványkibocsátóval szemben hozott határozat ellen, e jogorvoslati eljárásban a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény, utalványkibocsátó képviselheti vagy a képviselet ellátására megbízást adhat.
 
