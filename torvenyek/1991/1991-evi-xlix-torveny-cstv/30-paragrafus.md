@@ -1,1 +1,1 @@
-30. §
+30. § A felszámoló köteles az adós vagyonára vonatkozó adatok beszerzése érdekében a közhiteles nyilvántartásokat, a pénzügyi intézményeket, az értékpapírszámlát vezető és az egyéb pénzpiaci eszközöket kezelő szolgáltatókat megkeresni.

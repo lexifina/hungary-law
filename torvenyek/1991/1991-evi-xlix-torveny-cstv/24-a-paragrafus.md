@@ -6,7 +6,11 @@ a) valószínűsíti, hogy követelésének későbbi kielégítése veszélyben
 
 b) a követelésének létrejöttét, nagyságát és lejártát közokirattal vagy teljes bizonyító erejű magánokirattal igazolja, továbbá
 
-c) az ideiglenes vagyonfelügyelő díját – jogi személyiség nélküli adós esetén 200 000 forintot, jogi személyiséggel rendelkező adós esetén 400 000 forintot, amely díjak az általános forgalmi adó összegét nem tartalmazzák – előlegezi, és a kérelem benyújtásával egyidejűleg bírósági letétbe helyezi; ha a felszámolási eljárást közvetlenül csődeljárás előzte meg, és a bíróság hivatalból rendeli el a felszámolást, a csődeljárásban eljáró vagyonfelügyelőt jelöli ki ideiglenes vagyonfelügyelőnek, és ebben az esetben az ideiglenes vagyonfelügyelő díját az 57. § (2) bekezdés h) pontja szerinti felszámolási költségként kell elszámolni.
+c) az ideiglenes vagyonfelügyelő díját – jogi személyiség nélküli adós esetén 200 000 forintot, jogi személyiséggel rendelkező adós esetén 400 000 forintot, amely díjak az általános forgalmi adó összegét nem tartalmazzák – előlegezi, és a kérelem benyújtásával egyidejűleg bírósági letétbe helyezi;.
+
+(2a) Ha a felszámolást a bíróság nem rendeli el, az ideiglenes vagyonfelügyelő díját a hitelező viseli. A felszámolás elrendelése esetén a bíróság hivatalból rendelkezik a letétbe helyezett összeg visszautalásáról, ebben az esetben az ideiglenes vagyonfelügyelő díját az 57. § (2) bekezdés i) pontja szerinti felszámolási költségként kell elszámolni és kifizetni.
+
+(2b) Ha a felszámolási eljárást közvetlenül csődeljárás előzte meg, és a bíróság – a 21/B. §-ban foglaltak szerint – hivatalból rendeli el a felszámolást, egyidejűleg a csődeljárásban eljáró vagyonfelügyelőt rendeli ki ideiglenes vagyonfelügyelőnek, az ideiglenes vagyonfelügyelő díjának előlegezésére a 21/B. §-ban foglaltakat, a díj kifizetésére és elszámolására vonatkozóan az 57. § (2) bekezdés h) pontjában foglaltakat kell alkalmazni.
 
 (3) Az ideiglenes vagyonfelügyelő a végzés kézhezvételét követő munkanapon köteles bejelenteni, ha vele szemben a 27/A. §-ban foglalt kizárási ok áll fenn. Ennek hiányában a kézhezvételt követő munkanapon köteles megkezdeni a tevékenységét, ennek keretében felveszi a kapcsolatot az adós vezetőivel, tájékozódik az adós vagyoni-pénzügyi helyzetéről. Az ideiglenes vagyonfelügyelőt kirendelő végzés fellebbezésre tekintet nélkül végrehajtható.
 

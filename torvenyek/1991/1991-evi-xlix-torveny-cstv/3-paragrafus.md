@@ -14,13 +14,17 @@ cc) csődeljárásban a ca) és a cb) pontban foglaltakon kívül az is, akinek 
 
 cd) a felszámolás kezdő időpontja után hitelező mindenki, akinek az adóssal szemben pénzkövetelése vagy pénzben kifejezett vagyoni követelése van, és azt a felszámoló nyilvántartásba vette.
 
-d) gazdálkodó szervezet vezetője: közkereseti és betéti társaságnál az üzletvezetésre és képviseletre jogosult tag(ok), egyesülésnél, közös vállalatnál az igazgató, korlátolt felelősségű társaságnál az ügyvezető(k), részvénytársaságnál az igazgatóság vagy az alapszabályban az ügyvezetésre feljogosított személy(ek), egyéni cégnél a cégtulajdonos, ügyvédi irodánál, közjegyzői irodánál, szabadalmi ügyvivői irodánál az iroda vezetője, végrehajtói irodánál az irodavezető vagy irodavezető hiányában a tartós helyettes, szövetkezetnél az igazgatóság (ügyvezető igazgató) vagy az ügyvezető elnök, vízgazdálkodási társulatnál az igazgató (vállalati biztos), önkéntes kölcsönös biztosító pénztárnál az ügyvezető (ha a pénztár ügyvezetőt nem alkalmaz, az igazgatótanács), a magánnyugdíjpénztárnál az ügyvezető, alapítvány, egyesület képviselője, az Európai Unió más tagállamában bejegyzett gazdálkodó szervezet esetében a magyarországi nyilvántartásba bejegyzett, jognyilatkozat tételére jogosult személy, ilyen hiányában a jogi személy vagy jogi személyiséggel nem rendelkező gazdasági társaság nevében a hatóságok előtt vagy a polgári jogi kapcsolatokban eljáró személy;
+d) gazdálkodó szervezet vezetője: cég esetében a bejegyzett vezető tisztségviselő (képviselő), ügyvédi irodánál, szabadalmi irodánál az iroda vezetője, önkéntes kölcsönös biztosító pénztárnál az ügyvezető vagy az igazgatótanács tagja, magánnyugdíjpénztárnál a képviselő, alapítványnál és egyesületnél a bejegyzett vezető tisztségviselő, az Európai Unió más tagállamában bejegyzett gazdálkodó szervezet esetében a magyarországi nyilvántartásba bejegyzett, jognyilatkozat tételére jogosult személy, ilyen hiányában a jogi személy vagy jogi személyiséggel nem rendelkező szervezet nevében a hatóságok előtt vagy a polgári jogi kapcsolatokban eljáró személy;
 
 e) vagyon: mindaz, amit a számvitelről szóló törvény befektetett eszköznek vagy forgóeszköznek minősít;
 
 f) EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam.
 
 g) függő követelés: bankgaranciából, biztosítói garanciából vagy biztosító által kiállított, készfizető kezességvállalást tartalmazó kötelezvényből származó olyan követelés, amelynek beállta és esedékessége még bizonytalan;
+
+h) közeli hozzátartozó: a Polgári Törvénykönyv (a továbbiakban: Ptk.) szerinti közeli hozzátartozó és az élettárs;
+
+i) többségi befolyás: a Ptk. 8:2. §-a szerinti befolyás.
 
 j)–l)
 

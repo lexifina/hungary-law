@@ -1,6 +1,6 @@
 ## A felszámolás lefolytatása
 
-28. § (1) Ha az adós felszámolását elrendelő végzés jogerőre emelkedett, a bíróság a jogerőre emelkedést követően haladéktalanul, külön jogszabályban meghatározott módon elrendeli e végzés kivonatának a Cégközlönyben való közzétételét. A Cégközlönyben történő közzétételre a Cégközlöny honlapján napi feltöltéssel kerül sor.
+28. § (1) Ha az adós felszámolását elrendelő végzés jogerőre emelkedett, a bíróság a jogerőre emelkedést követően haladéktalanul kirendeli a felszámolót, majd elrendeli a felszámolást elrendelő és a felszámolót kirendelő végzés kivonatának a Cégközlönyben való közzétételét. A Cégközlönyben történő közzétételre a Cégközlöny honlapján napi feltöltéssel kerül sor.
 
 (2) A közzétételnek tartalmaznia kell:
 
@@ -16,7 +16,7 @@ e) a felszámolás kezdő időpontját (a felszámolást elrendelő jogerős vé
 
 f) a hitelezőknek [ideértve a zálogjogosultakat, és a 3. § (1) bekezdés g) pontja szerinti függő követelés jogosultjait is] szóló felhívást, hogy ismert követeléseiket – kivéve a felszámolási eljárást közvetlenül megelőző csődeljárásban [27. § (2) bekezdés e) pont] már bejelentett és nyilvántartásba vett követeléseket – a felszámolást elrendelő végzés közzétételétől számított 40 napon belül a felszámolónak jelentsék be;
 
-g) a felszámoló nevét és székhelyét, valamint a felszámolóbiztos nevét és levelezési címét;
+g) a felszámoló nevét, székhelyét, adószámát, valamint a felszámolóbiztos nevét, lakóhelyét vagy a személyi adat- és lakcímnyilvántartásban szereplő értesítési címét, születési idejét, adóazonosító jelét, valamint anyja születési nevét;
 
 h) a 46. § (7) bekezdésében meghatározott elkülönített számla számát;
 

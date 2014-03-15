@@ -1,0 +1,1 @@
+83/J. § E törvénynek az egyes törvényeknek az új Polgári Törvénykönyv hatálybalépésével összefüggő módosításáról szóló 2013. évi CCLII. törvénnyel megállapított 33/A. § (7) bekezdését a folyamatban lévő felszámolási eljárásokban is alkalmazni kell.

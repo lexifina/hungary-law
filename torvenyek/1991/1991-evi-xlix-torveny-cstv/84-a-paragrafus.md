@@ -6,7 +6,11 @@ a) a felszámolási eljárás számviteli feladatait,
 
 b) a felszámolási eljárásban az adós vagyontárgyainak nyilvános értékesítésére vonatkozó részletes szabályokat,
 
-c) a felszámolói névjegyzékbe való felvétel és az onnan való törlés részletes feltételeit és eljárásrendjét, a névjegyzék adatainak változásával összefüggő szabályokat, a felszámolók hatósági ellenőrzésének részletes szabályait, valamint azoknak a biztosítékoknak a körét, amelyekkel a felszámolónak rendelkeznie kell.
+c) a felszámolói névjegyzékbe való felvétel és az onnan való törlés részletes feltételeit és eljárásrendjét, a névjegyzék adatainak változásával összefüggő szabályokat, a felszámolók adatszolgáltatásának, szakmai beszámoltatásának, hatósági ellenőrzésének részletes szabályait, valamint azoknak a vagyoni biztosítékoknak a körét, mértékét és rendelkezésre bocsátásának módját, amelyekkel a felszámolónak rendelkeznie kell,
+
+d) a felszámolók, vagyonfelügyelők, ideiglenes vagyonfelügyelők eljárására és tevékenységére vonatkozó részletes szabályokat,
+
+e) a felszámolók névjegyzékébe nem került – de a 27/A. § (6) bekezdésében foglaltak szerint a folyamatban lévő csődeljárásokban, felszámolási eljárásokban vagyonfelügyelőként, ideiglenes vagyonfelügyelőként, felszámolóként való közreműködésre jogosult – felszámoló tevékenységével, nyilvántartásával, szakmai beszámoltatásával, adatszolgáltatásával és hatósági ellenőrzésével összefüggő részletes szabályokat.
 
 (1a) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki a felszámolói névjegyzéket vezető szervet, továbbá a felszámolói szakképesítést adó szakirányú szakképzettség és a 83/B. §-ban említett felsőfokú végzettség tekintetében állásfoglalásra jogosult szakhatóságot.
 

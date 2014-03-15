@@ -10,9 +10,15 @@ b) amelyek esetében – ha a vagyonhiány és a fizetésképtelenség előrelá
 
 (2) A Kormány az (1) bekezdés szerinti rendeletet
 
-a) csődeljárás esetén legkésőbb a csődeljárás kezdő időpontjától [10. § (1) bekezdés] számított 15 napon belül,
+a) csődeljárás esetén legkésőbb a csődeljárás kezdő időpontjától [10. § (1) bekezdés] számított 30 napon belül,
 
 b) felszámolási eljárás esetén pedig legkésőbb a felszámolás kezdő időpontjától [27. § (1) bekezdés, 28. § (1) bekezdés] számított 365 napon belül
+
+c) többségi állami befolyással működő gazdálkodó szervezet, továbbá az olyan egyesület, alapítvány esetében, ahol az alapítói jogokat, a tagokat megillető szavazati jogokat központi költségvetési szerv vagy más állami szerv gyakorolja,
+
+ca) csődeljárás esetén legkésőbb az egyezség megkötéséig,
+
+cb) felszámolási eljárás esetén ha egyezségi tárgyalásra kerül sor, az egyezség megkötéséig, egyezségkötés hiányában pedig legkésőbb a felszámolási záró mérleg bíróságnak történő benyújtásáig
 
 hirdetheti ki.
 

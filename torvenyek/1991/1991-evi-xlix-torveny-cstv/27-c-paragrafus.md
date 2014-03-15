@@ -1,4 +1,6 @@
-27/C. § (1) Felszámolói tevékenységet a gazdasági társaság csak akkor folytathat, ha a felszámolói tevékenységben személyesen közreműködő tagjai, munkavállalói, illetve a társasággal kötött tartós polgári jogi szerződés alapján a társaság javára tevékenykedők között legalább két olyan személy van, aki felszámolási és vagyonfelügyeleti szakirányú szakképzettséggel (a továbbiakban: szakirányú szakképzettség) rendelkezik. A szakirányú szakképzettség tekintetében a felszámolók névjegyzékét vezető szerv szakhatósági állásfoglalást szerezhet be. Egy szakirányú szakképzettséggel rendelkező személy legfeljebb öt felszámolói tevékenységet folytató gazdasági társaságnál foglalkoztatható.
+27/C. § (1) Felszámolói tevékenységet a gazdasági társaság csak akkor folytathat, ha a felszámolói tevékenységben személyesen közreműködő tagjai, munkavállalói, illetve a társasággal kötött tartós polgári jogi szerződés alapján a társaság javára tevékenykedők között legalább két olyan személy van, aki felszámolási és vagyonfelügyeleti szakirányú szakképzettséggel (a továbbiakban: szakirányú szakképzettség) rendelkezik. A szakirányú szakképzettség tekintetében a felszámolók névjegyzékét vezető szerv szakhatósági állásfoglalást szerezhet be. Egy szakirányú szakképzettséggel rendelkező személy legfeljebb három felszámolói tevékenységet folytató gazdasági társaságnál foglalkoztatható.
+
+(1a) Az (1) bekezdésben említett szakirányú szakképzettséggel rendelkező személynek legalább 2 évenként szakmai továbbképzésen kell részt vennie, és az erről szóló igazolást a felszámolónak be kell mutatnia.
 
 (2) A felszámolók névjegyzékébe az a gazdasági társaság vehető fel, amely
 
@@ -12,7 +14,7 @@ d) nem tagja olyan gazdasági társaságnak, amelyben felelőssége korlátlan,
 
 e) írásban hozzájárul a névjegyzékben szereplő adatok nyilvánosságához, és az abban foglaltakra vonatkozóan a névjegyzékbe való jelentkezéssel egyidejűleg – az adataik nyilvánosságra hozatalával érintett magánszemélyek hozzájáruló nyilatkozatának csatolásával – adatokat szolgáltat,
 
-f) írásban vállalja, hogy az a)–e) pontokban és a (4) bekezdésben meghatározott adatokról, feltételekről, azok változásáról, valamint a (3) bekezdésben jelölt tényről a névjegyzéket vezető szervezetet legkésőbb a változás, illetve tény bekövetkezését követő nyolc napon belül írásban tájékoztatja, továbbá közzéteszi a honlapján azoknak a gazdálkodó szervezeteknek a nevét, székhelyét, cégjegyzékszámát, ahová felszámolóként, ideiglenes vagyonfelügyelőként, vagyonfelügyelőként, vagy végelszámolóként, pénzügyi gondnokként kirendelték, a kirendelés kezdetének és megszűnésének dátumával együtt,
+f) írásban vállalja, hogy az a)–e) pontokban és a (4) bekezdésben meghatározott adatokról, feltételekről, azok változásáról, valamint a (3) bekezdésben jelölt tényről a névjegyzéket vezető szervezetet legkésőbb a változás, illetve tény bekövetkezését követő öt napon belül írásban tájékoztatja, továbbá közzéteszi a honlapján azoknak a gazdálkodó szervezeteknek a nevét, székhelyét, cégjegyzékszámát, ahová felszámolóként, ideiglenes vagyonfelügyelőként, vagyonfelügyelőként, vagy végelszámolóként, pénzügyi gondnokként kirendelték, a kirendelés kezdetének és megszűnésének dátumával, továbbá az általa felszámolóbiztosként illetve vagyonfelügyelői tevékenység ellátásáért felelős, az e törvényben meghatározott szakirányú szakképzettséggel rendelkező személy nevével, hivatali levelezési címével együtt,,
 
 g) igazolja, hogy a gazdasági társaság legalább két-két felszámolási és vagyonfelügyeleti szakirányú szakképzettséggel rendelkező személyt, továbbá közgazdászt, jogi szakvizsgát tett jogászt, a Magyar Könyvvizsgálói Kamaránál bejegyzett és könyvvizsgálói igazolvánnyal rendelkező könyvvizsgálót foglalkoztat. Az említettek közül – a könyvvizsgálót kivéve – legalább egy-egy főnek munkaviszonyban kell állnia a gazdasági társasággal.
 
@@ -30,7 +32,7 @@ c) nem tanúsíthat feladata ellátása körében, sem azon kívül olyan magata
 
 (4) A felszámolói névjegyzék közhiteles hatósági nyilvántartás. A névjegyzékben fel kell tüntetni:
 
-a) a felszámoló nevét, székhelyét, telephelyét, fióktelepét (működési terület),
+a) a felszámoló nevét, postai és elektronikus levelezési címét, székhelyét, telephelyét, fióktelepét (működési terület),
 
 b) a felszámoló ügyvezetőjének, felügyelőbizottsági elnökének, könyvvizsgálójának nevét, lakóhelyét,
 
@@ -40,8 +42,8 @@ d) a felszámoló minden közvetlen vagy közvetett részesedéssel rendelkező 
 
 e) annak a jogi személynek vagy jogi személyiség nélküli szervezetnek a nevét, székhelyét, nyilvántartási számát, amelyben a felszámoló gazdasági társaság közvetlen vagy közvetett részesedéssel rendelkezik,
 
-f) a felszámoló gazdasági társaságnál foglalkoztatott szakirányú szakképzettséggel rendelkezők, ezenkívül a közgazdászok, jogi szakvizsgát tett jogászok, a Magyar Könyvvizsgálói Kamaránál bejegyzett és könyvvizsgálói igazolvánnyal rendelkező könyvvizsgálók nevét, lakcímét.
+f) a felszámoló gazdasági társaságnál foglalkoztatott szakirányú szakképzettséggel rendelkezők, ezenkívül a közgazdászok, jogi szakvizsgát tett jogászok, a Magyar Könyvvizsgálói Kamaránál bejegyzett és könyvvizsgálói igazolvánnyal rendelkező könyvvizsgálók nevét, lakcímét, szakképzettségét, a szakirányú szakképzettséggel rendelkezők szakmai gyakorlatát.
 
-(5) A nyilvántartó szerv a felszámoló szervezet vezetőjére 10 000 forinttól 200 000 forintig terjedő bírságot szab ki, ha hamis vagy valótlan adatot, dokumentumot szolgáltatott, megszegi a (3) bekezdés szerinti tilalmat, nem teljesíti vagy késedelmesen teljesíti a (2) bekezdés f) pontja szerinti kötelezettségét, ismétlődő kötelezettségszegés esetén pedig törölheti a nyilvántartásból.
+(5) A nyilvántartó szerv a felszámoló szervezet vezetőjére 10 000 forinttól 200 000 forintig terjedő bírságot szab ki, ha hamis vagy valótlan adatot, dokumentumot szolgáltatott, megszegi a (3) bekezdés szerinti tilalmat, nem teljesíti vagy késedelmesen teljesíti a (2) bekezdés f) pontja szerinti kötelezettségét, a kormányrendeletben előírt adatszolgáltatási vagy szakmai beszámolókészítési kötelezettségét, ismétlődő kötelezettségszegés esetén pedig törölheti a nyilvántartásból.
 
 (6) A felszámolók és vagyonfelügyelők kirendelésére és felmentésére vonatkozó adatok a Cégközlöny honlapján keresőprogram segítségével is megismerhetők.

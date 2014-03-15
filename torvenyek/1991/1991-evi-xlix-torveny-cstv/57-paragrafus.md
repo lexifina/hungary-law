@@ -2,9 +2,9 @@
 
 a) a felszámolás (2) bekezdés szerinti költségei;
 
-b) a felszámolás kezdő időpontja előtt vagyont terhelő zálogjoggal biztosított követelések a zálogtárgy értékének erejéig, figyelembe véve a 49/D. § (2) bekezdése alapján már kifizetett összeget is; ha a vagyont több zálogjog terheli, akkor a kielégítés sorrendjére a Ptk. 256. §-ának (1) bekezdése az irányadó,
+b) a felszámolás kezdő időpontja előtt körülírással meghatározott zálogtárggyal biztosított követelések a zálogtárgy értékének erejéig, figyelembe véve a 49/D. § (2) bekezdése alapján már kifizetett összeget is; ha a zálogtárgyat több zálogjog terheli, akkor a kielégítés sorrendjére a Ptk. 5:118–5:122. §-a az irányadó,
 
-c) a gazdálkodó szervezetet terhelő tartásdíj, életjáradék, kártérítési járadék, bányászati keresetkiegészítés, továbbá a mezőgazdasági szövetkezet tagja részére a háztáji föld vagy termény helyett adott pénzbeli juttatás, amely a jogosultat élete végéig megilleti;
+c) a gazdálkodó szervezetet terhelő tartásdíj, életjáradék, kártérítési járadék, sérelemdíj, bányászati keresetkiegészítés, továbbá a mezőgazdasági szövetkezet tagja részére a háztáji föld vagy termény helyett adott pénzbeli juttatás, amely a jogosultat élete végéig megilleti,
 
 d) a kötvényen alapuló követelések kivételével, magánszemély nem gazdasági tevékenységből eredő más követelése (így különösen a hibás teljesítésből, a kártérítésből eredő követelések, a szakmában szokásos várható szavatossági vagy jótállási kötelezettségek felszámoló által számszerűsített összegét is ideértve), a kis- és mikrovállalkozás, valamint a mezőgazdasági őstermelő követelése;
 
@@ -22,9 +22,9 @@ hb) a gazdálkodó szervezet vezető tisztségviselője,
 
 hc) az Mt. 208. § (1) bekezdése szerinti vezető állású munkavállaló,
 
-hd) a ha)–hc) pontban említett személyek közeli hozzátartozója [Ptk. 685. § b) pont], élettársa,
+hd) a ha)–hc) pontban említett személyek közeli hozzátartozója, élettársa,
 
-he) az adós többségi befolyása [Ptk. 685/B. §] alatt álló gazdálkodó szervezet,
+he) az adós többségi befolyása alatt álló gazdálkodó szervezet,
 
 hf) az adós ingyenes szerződései alapján kedvezményezett szervezet (személy).
 
@@ -52,7 +52,9 @@ f) az adós iratanyagának rendezésével, elhelyezésével és őrzésével kap
 
 g) a felszámoló – 49/D. § (1) bekezdés alapján nem érvényesített – díja [60. § (4) bek.], amely tartalmazza a felszámoló által nem a 27/A. § (13) bekezdésében meghatározottak szerint létesített polgári jogi jogviszonnyal összefüggésben felmerült kiadásokat is;
 
-h) a vagyonfelügyelő (ideiglenes vagyonfelügyelő) ki nem fizetett és a kezesektől meg nem térült költségei és díja, ha a felszámolási eljárást csődeljárás előzte meg.
+h) a vagyonfelügyelő (ideiglenes vagyonfelügyelő) ki nem fizetett és a kezesektől meg nem térült költségei és díja, ha a felszámolási eljárást csődeljárás előzte meg;
+
+i) a h) pontban nem említett esetekben az ideiglenes vagyonfelügyelő díja.
 
 (3) A munkáltató rendes felmondása esetén felszámolási költségként – ha a felszámolás kezdő időpontját megelőzően legalább egy évvel korábban megkötött kollektív szerződés, illetve munkaszerződés magasabb összeget nem állapít meg – a munkavégzés alóli felmentés időtartamára jutó távolléti díj és a végkielégítés azon összege vehető figyelembe, amely a munkavállalót az Mt. 69. § (1)–(3) bekezdése, 70. § (3) bekezdése és 77. § (3) és (4) bekezdése alapján megilleti. E rendelkezés alkalmazásában az adós – (1) bekezdés hc) pontjában nem említett – vezető állású munkavállalói tekintetében kizárólag az Mt. 210. § (3) bekezdésében megállapított, a felszámolás kezdő időpontjában esedékes összeg vehető figyelembe.
 

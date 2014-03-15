@@ -6,7 +6,7 @@ b) az árverés helyét és idejét;
 
 c) az árverésre kerülő vagyontárgyakat és becsértéküket;
 
-d) ingóság árverése esetén azt, hogy az ingóságot az árverés előtt hol és mikor lehet megtekinteni;
+d) ingóság árverése esetén az árverési előleg összegét és azt, hogy az ingóságot az árverés előtt hol és mikor lehet megtekinteni;
 
 e) ingatlan árverése esetén
 
@@ -28,4 +28,4 @@ f) az egyéb lényeges körülményeket.
 
 (6) A felszámoló az árverést közjegyző jelenlétében köteles lefolytatni, a közjegyző az árverésen jegyzőkönyvet készít, amelyről az árverési vevőknek – a hitelezői választmánynak és kérésükre a hitelezőknek – másolatot kell adni.
 
-(7) A (3) bekezdésben foglaltakat követő újabb sikertelen árverés esetén – a hitelezői választmány [választmány hiányában az annak létrehozására az 5/A. § (4) bekezdése szerint jogosult hitelezők] egyetértésével – a felszámoló az árverés harmadik megismétlése helyett a vagyontárgyat becsértéken az azt igénylő – a vagyontárgyra vonatkozóan zálogjoggal rendelkező – zálogjogosult hitelezőnek értékesíti oly módon, hogy több igénylő esetén a Ptk. 256. § (1) bekezdésében meghatározott kielégítési sorrend irányadó. A tulajdont szerző zálogjogosult a szerződéskötést követő 15 munkanapon belül köteles megfizetni a felszámoló költségeit és díját, továbbá a vételár és a követelése közötti különbözetet. A felszámoló díjának mértékére, a díjból a Fővárosi Törvényszék Gazdasági Hivatala által vezetett számlára történő átutalásra, a díjból történő levonásnak a mértékére és annak elszámolására a 49/D. §-ban foglaltakat kell alkalmazni.
+(7) A (3) bekezdésben foglaltakat követő újabb sikertelen árverés esetén – a hitelezői választmány [választmány hiányában az annak létrehozására az 5/A. § (4) bekezdése szerint jogosult hitelezők] egyetértésével – a felszámoló az árverés harmadik megismétlése helyett a vagyontárgyat becsértéken az azt igénylő – a vagyontárgyra vonatkozóan zálogjoggal rendelkező – zálogjogosult hitelezőnek értékesíti oly módon, hogy több igénylő esetén a Ptk. 5:118–5:122. §-ában meghatározott kielégítési sorrend irányadó. A tulajdont szerző zálogjogosult a szerződéskötést követő 15 munkanapon belül köteles megfizetni a felszámoló költségeit és díját, továbbá a vételár és a követelése közötti különbözetet. A felszámoló díjának mértékére, a díjból a Fővárosi Törvényszék Gazdasági Hivatala által vezetett számlára történő átutalásra, a díjból történő levonásnak a mértékére és annak elszámolására a 49/D. §-ban foglaltakat kell alkalmazni.

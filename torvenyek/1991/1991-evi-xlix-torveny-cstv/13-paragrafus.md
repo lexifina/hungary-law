@@ -6,7 +6,7 @@
 
 (3) A vagyonfelügyelő – a hitelezői érdekek védelmének szem előtt tartásával, és a hitelezőkkel kötendő egyezség előkészítése érdekében – figyelemmel kíséri az adós gazdasági tevékenységét. Ennek keretében
 
-a) áttekinti az adós vagyoni helyzetét, ennek során betekinthet az adós könyveibe, az adós eszközeit, kötelezettségeit, szerződéseit, pénzforgalmi számláit megvizsgálhatja, a gazdálkodó szervezet vezetőitől, a legfőbb szervtől, a felügyelőbizottsági tagoktól, a könyvvizsgálótól – a gazdasági társaságokról szóló törvény szerinti elismert vállalatcsoport esetén az uralkodó tagtól – felvilágosítást kérhet, és erről a hitelezőket az 5. §-ban foglaltaknak megfelelően tájékoztatja,
+a) áttekinti az adós vagyoni helyzetét, ennek során betekinthet az adós könyveibe, az adós eszközeit, kötelezettségeit, szerződéseit, pénzforgalmi számláit megvizsgálhatja, a gazdálkodó szervezet vezetőitől, a legfőbb szervtől, a felügyelőbizottsági tagoktól, a könyvvizsgálótól – a Ptk. szerinti elismert vállalatcsoport esetén az uralkodó tagtól – felvilágosítást kérhet, és erről a hitelezőket az 5. §-ban foglaltaknak megfelelően tájékoztatja,
 
 b) az adós közreműködésével ellátja a követelések nyilvántartásba-vételével, besorolásával kapcsolatos feladatokat [12. § (2)–(4) bekezdés, 14. § (1) bekezdés],
 

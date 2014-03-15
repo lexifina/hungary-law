@@ -10,7 +10,7 @@ c) három hónapnál nem régebbi éves (egyszerűsített éves) beszámolót va
 
 d) az adós vezetőjének nyilatkozatát arról, hogy a c) pont szerinti beszámoló vagy közbenső mérleg elfogadása óta az adós vagyoni helyzetében milyen lényeges változások történtek,
 
-e) ha az adós a gazdasági társaságokról szóló törvényben szabályozott elismert vagy tényleges vállalatcsoport tagja, az ezzel összefüggő szerződéseket,
+e) ha az adós a Ptk. szerinti elismert vagy tényleges vállalatcsoport tagja, az ezzel összefüggő szerződéseket,
 
 f) az adós hitelezőinek névsorát, az adós tartozásainak felsorolását, azok esedékességét, valamint azt, hogy az adós mely hitelezői követeléseket ismer el és melyeket vitat, melyek a biztosított [12. § (3) bekezdés] és a nem biztosított hitelezői igények, az adós által vállalt, a számvitelről szóló törvény szerinti függő kötelezettségek, továbbá az adóssal szemben fennálló függő követelések ismertetését,
 

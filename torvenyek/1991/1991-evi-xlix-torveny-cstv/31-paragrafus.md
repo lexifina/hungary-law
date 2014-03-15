@@ -12,7 +12,7 @@ e) a felszámolás elrendeléséről a munkavállalókat, illetve a szövetkezet
 
 f) a felszámolás elrendeléséről az 57. § (1) bekezdésének c) pontjában meghatározott követelések jogosultjait a felszámolás kezdő időpontját követő 15 napon belül tájékoztatni,
 
-g) a felszámoló kérésére az adós felszámolás előtti tevékenységével kapcsolatos tájékoztatást megadni, a felszámoló tevékenységét elősegíteni,
+g) a felszámoló kérésére az adós felszámolás előtti tevékenységével, a vagyontárgyak elhelyezésével kapcsolatos tájékoztatást megadni, a felszámoló tevékenységét elősegíteni,
 
 h) a felszámolás elrendeléséről haladéktalanul értesíteni az adós értékpapírszámláját vezető szolgáltatót és az egyéb pénzpiaci eszközeit kezelő szolgáltatót.
 

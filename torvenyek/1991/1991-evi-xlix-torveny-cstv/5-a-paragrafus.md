@@ -10,7 +10,7 @@
 
 (6) A választmány megalakításakor és működtetésekor a szavazati jog az azt működtető hitelezőket a 18. § (4)–(5) bekezdésében, illetve a 44. § (1) bekezdésében meghatározott módon illeti meg. A döntéseket nyílt szavazással, szavazattöbbséggel hozzák.
 
-(7) A választmány tagja nem lehet az adós vagy a 12. § (2) bekezdés bc)–bd) pontja szerinti személy, illetve gazdálkodó szervezet esetén annak legalább többségi befolyással rendelkező tagja, vezető tisztségviselője, cégvezetője, felügyelőbizottsági tagja, könyvvizsgálója, valamint az említettek közeli hozzátartozója [Ptk. 685. §].
+(7) A választmány tagja nem lehet az adós vagy a 12. § (2) bekezdés bc)–bd) pontja szerinti személy, illetve gazdálkodó szervezet esetén annak legalább többségi befolyással rendelkező tagja, vezető tisztségviselője, cégvezetője, felügyelőbizottsági tagja, könyvvizsgálója, valamint az említettek közeli hozzátartozója.
 
 (8) A csődeljárás alatt létrehozott hitelezői választmány – a csődeljárást a 21/B. § szerint követő – felszámolási eljárásban tovább működhet, amennyiben megfelel a (4) bekezdés szerinti feltételeknek. A választmánynak a hitelezők képviseletére szóló megbízatása megállapodással meghosszabbítható a csődeljárás vagy felszámolási eljárás jogerős befejezését követő időszakra is, amennyiben az az eljárások során kötött egyezség végrehajtásának ellenőrzése, valamint a hitelezők érdekeinek védelme érdekében indokolt.
 

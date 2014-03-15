@@ -4,7 +4,7 @@
 
 (3) A felszámolási eljárásban bejelentett követelések 46. § (6) bekezdése szerinti megvizsgálásának határideje 40 nap, és a vitatható követelések bíróság számára történő megküldésének határideje 10 nap. A bíróság a vitatható igények elbírálása tárgyában soron kívül dönt.
 
-(4) A stratégiailag kiemelt jelentőségű gazdálkodó szervezet felszámolása esetén a 38. § (5) bekezdést azzal az eltéréssel kell alkalmazni, hogy az óvadék jogosultja számára – a Ptk. 271. §-a szerinti jogai érvényesítésére – nyitva álló határidő két hónap.
+(4) A stratégiailag kiemelt jelentőségű gazdálkodó szervezet felszámolása esetén a 38. § (5) bekezdést azzal az eltéréssel kell alkalmazni, hogy az óvadék jogosultjának közvetlen kielégítési joga érvényesítésére nyitva álló határidő két hónap.
 
 (5) A 66. § (2) bekezdés szerinti felszámoló a 39. § (1) bekezdése szerinti hitelezői gyűlést 60 napon belül köteles összehívni. A 39. §-ban foglalt kötelezettségek megszegése esetén a bíróság az állami felszámoló felmentése helyett a társaságot és a felszámolóbiztost 300 000 forintig terjedő pénzbírsággal sújtja. A hitelezők, a hitelezői választmány (hitelezők képviselője) tájékoztatására vonatkozó kötelezettsége teljesítésekor a felszámolóbiztos köteles figyelembe venni az adós stratégiailag kiemelt, sajátos tevékenységével összefüggő titokvédelmi követelményeket is.
 

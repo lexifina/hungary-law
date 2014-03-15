@@ -26,4 +26,4 @@ c) a felszámolás időszaka alatt behajtott követelések összegét,
 
 d) a kiegyenlített felszámolási költségeket.
 
-(5) A felszámolási zárómérlegben szereplő be nem hajtott követelések tekintetében a hitelezői követelések erejéig engedményezésnek (Polgári Törvénykönyv 328—330. §-ai) van helye azzal, hogy az ilyen követelésre a Polgári Törvénykönyv 331. §-a az irányadó.
+(5) A felszámolási zárómérlegben szereplő be nem hajtott követelések tekintetében a hitelezői követelések erejéig engedményezésnek van helye azzal, hogy az ilyen követelésre a Ptk. 6:201. §-a az irányadó.

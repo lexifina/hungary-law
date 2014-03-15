@@ -1,10 +1,10 @@
 61. § (1) Az adós felszámolása esetén a hitelezők követeléseinek teljesítése után fennmaradó vagyonnak a zárómérlegben [31. § a) pont] szereplő jegyzett tőke vagyonjeggyel arányos részét a vagyonjegyek tulajdonosai között kell felosztani.
 
-(2) A hitelezők követeléseinek kielégítése után fennmaradó vagyonról — ideértve a nem értékesíthető vagyontárgyakat is — az egyes jogi személyek vállalata (Polgári Törvénykönyv 70. §), a leányvállalat, a tröszt keretében működő vállalat esetén az alapító (létesítő) szerv rendelkezik.
+(2) A hitelezők követeléseinek kielégítése után fennmaradó vagyonról – ideértve a nem értékesíthető vagyontárgyakat is – az egyes jogi személyek vállalata, a leányvállalat, a tröszt keretében működő vállalat esetén az alapító (létesítő) szerv rendelkezik.
 
-(3) Szövetkezet felszámolása esetén a hitelezők követeléseinek teljesítése után fennmaradó vagyon felosztására a szövetkezetekről szóló 2006. évi X. törvény 94. §-át kell alkalmazni.
+(3) Szövetkezet felszámolása esetén a hitelezők követeléseinek teljesítése után fennmaradó vagyon felosztására a Ptk.-nak a szövetkezet jogutód nélküli megszűnésére vonatkozó szabályait kell alkalmazni.
 
-(4) Közkereseti társaság, betéti társaság, egyesülés, közös vállalat, korlátolt felelősségű társaság, részvénytársaság felszámolása után a fennmaradó vagyon felosztására — a társasági szerződés eltérő rendelkezése hiányában — a gazdasági társaság végelszámolással történő megszűnésére a gazdasági társaságokról szóló törvényben irányadó szabályokat kell megfelelően alkalmazni.
+(4) Közkereseti társaság, betéti társaság, egyesülés, közös vállalat, korlátolt felelősségű társaság, részvénytársaság felszámolása után a fennmaradó vagyon felosztására — a társasági szerződés eltérő rendelkezése hiányában — a gazdasági társaság végelszámolással történő megszűnésére a Ptk. szerinti szabályokat kell megfelelően alkalmazni.
 
 (5) Az adós felszámolása után az állam tulajdonában maradó vagyonnal az az állami vagyonkezelő szervezet rendelkezik, amely a felszámolt adós vonatkozásában a tulajdonosi jogokat gyakorolta.
 
