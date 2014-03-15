@@ -42,6 +42,6 @@ k) az aktív korúak ellátására jogosult személynek a foglalkoztatásra irá
 
 l) a lakásfenntartási támogatás természetbeni szociális ellátás formájában történő nyújtása esetén
 
-la) a támogatott szolgáltatást szolgáltatási vagy közüzemi szerződés alapján szerződőként igénybe vevő fogyasztónak és a fogyasztási helynek a szolgáltató általi azonosításához szükséges adatot,
+la) a támogatott szolgáltatást szolgáltatási vagy közszolgáltatási szerződés alapján szerződőként igénybe vevő fogyasztónak és a fogyasztási helynek a szolgáltató általi azonosításához szükséges adatot,
 
 lb) a lakáscélú kölcsönszerződés adósának és adóstársának a kölcsönt nyújtó pénzintézet általi azonosításához szükséges adatot.

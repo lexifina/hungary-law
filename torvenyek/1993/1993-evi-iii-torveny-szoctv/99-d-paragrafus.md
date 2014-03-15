@@ -1,6 +1,6 @@
 99/D. § (1) A munka-rehabilitáció célja a szociális intézményben ellátott személy munkakészségének, valamint testi és szellemi képességeinek munkavégzéssel történő megőrzése, illetve fejlesztése, továbbá a fejlesztő-felkészítő foglalkoztatásra való felkészítés.
 
-(2) A munka-rehabilitáció az intézményi jogviszony keretében történik. A munka-rehabilitációban történő részvételről az ellátott, illetve – amennyiben az ellátott jognyilatkozata a Ptk. 15/A. §-ának (1) bekezdése alapján semmisnek minősülne – törvényes képviselője írásban, a (3)–(6) bekezdésben foglaltak figyelembevételével megállapodást köt a szociális intézmény vezetőjével. Ez utóbbi esetben a megállapodást az ellátott aláírhatja. A megállapodás tartalmazza
+(2) A munka-rehabilitáció az intézményi jogviszony keretében történik. A munka-rehabilitációban történő részvételről az ellátott, illetve – amennyiben az ellátott jognyilatkozata a Ptk. 2:22. § (1) bekezdése alapján semmisnek minősülne – törvényes képviselője írásban, a (3)–(6) bekezdésben foglaltak figyelembevételével megállapodást köt a szociális intézmény vezetőjével. Ez utóbbi esetben a megállapodást az ellátott aláírhatja. A megállapodás tartalmazza
 
 a) a munka-rehabilitáció keretében végzett tevékenység részletes leírását,
 

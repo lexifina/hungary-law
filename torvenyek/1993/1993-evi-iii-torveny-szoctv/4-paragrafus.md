@@ -20,9 +20,9 @@ d) közeli hozzátartozó:
 
 da) a házastárs, az élettárs,
 
-db) a húszévesnél fiatalabb, önálló keresettel nem rendelkező; a huszonhárom évesnél fiatalabb, önálló keresettel nem rendelkező, nappali oktatás munkarendje szerint tanulmányokat folytató; a huszonöt évesnél fiatalabb, önálló keresettel nem rendelkező, felsőoktatási intézmény nappali tagozatán tanulmányokat folytató vér szerinti, örökbe fogadott, illetve nevelt gyermek,
+db) a húszévesnél fiatalabb, önálló keresettel nem rendelkező; a huszonhárom évesnél fiatalabb, önálló keresettel nem rendelkező, nappali oktatás munkarendje szerint tanulmányokat folytató; a huszonöt évesnél fiatalabb, önálló keresettel nem rendelkező, felsőoktatási intézmény nappali tagozatán tanulmányokat folytató vér szerinti gyermek, örökbe fogadott gyermek, mostohagyermek és a Ptk. szerinti gyermekvédelmi nevelőszülő által e jogviszonya keretében nevelt gyermek kivételével a nevelt gyermek (a továbbiakban: nevelt gyermek),
 
-dc) korhatárra való tekintet nélkül a tartósan beteg, az autista, illetve a testi, érzékszervi, értelmi vagy beszédfogyatékos vér szerinti, örökbe fogadott, illetve nevelt gyermek, amennyiben ez az állapot a gyermek 25. életévének betöltését megelőzően is fennállt (a továbbiakban: fogyatékos gyermek),
+dc) korhatárra való tekintet nélkül a tartósan beteg, az autista, illetve a testi, érzékszervi, értelmi vagy beszédfogyatékos vér szerinti, örökbe fogadott, mostoha-, illetve nevelt gyermek, amennyiben ez az állapot a gyermek 25. életévének betöltését megelőzően is fennállt (a továbbiakban: fogyatékos gyermek),
 
 dd) a 18. életévét be nem töltött gyermek vonatkozásában a vér szerinti és az örökbe fogadó szülő, illetve a szülő házastársa vagy élettársa;
 
@@ -50,7 +50,7 @@ mb) az egyházi jogi személy (a továbbiakban együtt: egyházi fenntartó),
 
 mc) az egyéni vállalkozó,
 
-md) az ma)–mb) alpontokban nem említett, magyarországi székhelyű jogi személy, jogi személyiség nélküli gazdasági társaság és egyéni cég,
+md) az ma)–mb) alpontokban nem említett, magyarországi székhelyű jogi személy és egyéni cég,
 
 me) az Európai Gazdasági Térségről szóló megállapodásban részes valamely államban (a továbbiakban: EGT-állam), valamint – ha az Európai Közösséggel és tagállamaival létrejött nemzetközi szerződés alapján az adott állam szolgáltatói a letelepedés szabadsága tekintetében az EGT-államok szolgáltatóival azonos jogállást élveznek – az EGT-államoktól eltérő más államban honos vállalkozás belföldön bejegyzett fióktelepe [az mc)–me) pontokban foglaltak a továbbiakban együtt: nem állami fenntartó];
 

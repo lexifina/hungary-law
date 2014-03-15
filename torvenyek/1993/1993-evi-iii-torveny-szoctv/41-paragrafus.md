@@ -1,4 +1,4 @@
-41. § (1) Ápolási díjra jogosult – a jegyes kivételével – a hozzátartozó [Ptk. 685. § b) pontja], ha állandó és tartós gondozásra szoruló
+41. § (1) Ápolási díjra jogosult a hozzátartozó [Ptk. 8:1. § (1) bekezdés 2. pont], ha állandó és tartós gondozásra szoruló
 
 a) súlyosan fogyatékos, vagy
 
