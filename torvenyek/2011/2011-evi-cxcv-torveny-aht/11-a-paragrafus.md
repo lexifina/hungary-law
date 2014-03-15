@@ -6,7 +6,9 @@ a) az állam 100%-os tulajdonában lévő gazdasági társaság, vagy
 
 b) az a) pont szerinti gazdasági társaság 100%-os tulajdonában lévő gazdasági társaság
 
-(ezen alcím alkalmazásában a továbbiakban együtt: társaság) által ellátott feladat, illetve végzett egyéb tevékenység (ezen alcím alkalmazásában a továbbiakban együtt: állami feladat) központi költségvetési szerv által történő átvételére az ebben az alcímben foglaltakat kell alkalmazni.
+(ezen alcím alkalmazásában a továbbiakban együtt: társaság) által ellátott feladat, illetve végzett egyéb tevékenység (ezen alcím alkalmazásában a továbbiakban együtt: állami feladat) központi költségvetési szerv által történő átvételére, a társaság megszüntetésére, a megszüntetéssel összefüggő eljárások lefolytatására, a társaság jogainak és kötelezettségeinek rendezésére, a társaság tagjának helytállási kötelezettségére az ebben az alcímben foglaltakat kell alkalmazni.
+
+(1a) A társaság e törvény alapján történő megszüntetésekor a megszűnő társaságot terhelő kötelezettségekből származó követeléssel összefüggésben a Ptk. szerinti tagi helytállási kötelezettség nem áll fenn.
 
 (2) A Kormány az állami feladat központi költségvetési szerv általi átvételéről és a társaság e törvény alapján történő megszüntetéséről kormányrendelettel dönt. Az átvétel időpontjának, illetve a kormányrendelet kihirdetésének és hatálybalépésének megállapításakor figyelemmel kell lenni az állami feladat átvételéhez, valamint az ebben az alcímben és törvényben meghatározottak teljesítéséhez szükséges időigényre.
 
@@ -54,4 +56,4 @@ a) végelszámolás alatt áll, vagy vonatkozásában csődeljárás elrendelés
 
 b) egy évnél régebben lejárt adó-, illeték-, vámfizetési vagy társadalombiztosítási járulékfizetési kötelezettségének nem tett eleget, kivéve, ha annak megfizetésére halasztást kapott.
 
-(9) Ezen alcím alkalmazásában 100%-os állami tulajdonban lévő gazdasági társaságnak, illetve ezen gazdasági társaság 100%-os tulajdonában lévő gazdasági társaságnak minősül az a gazdasági társaság is, amelyben az állam, az állam 100%-os tulajdonában lévő gazdasági társaság mellett kizárólag maga a gazdasági társaság rendelkezik – a gazdasági társaságokról szóló 2006. évi IV. törvény 135. § (1) bekezdése és 223. § (1) bekezdése szerinti – üzletrésszel vagy részvénnyel.
+(9) Ezen alcím alkalmazásában 100%-os állami tulajdonban lévő gazdasági társaságnak, illetve ezen gazdasági társaság 100%-os tulajdonában lévő gazdasági társaságnak minősül az a gazdasági társaság is, amelyben az állam, az állam 100%-os tulajdonában lévő gazdasági társaság mellett kizárólag maga a gazdasági társaság rendelkezik saját üzletrésszel vagy részvénnyel.

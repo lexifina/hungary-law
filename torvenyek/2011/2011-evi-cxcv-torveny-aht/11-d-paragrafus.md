@@ -8,4 +8,4 @@
 
 (5) A 11/A. § (8) bekezdésében foglaltak fennállása esetén a társaság ezen alcímben foglaltak alapján nem törölhető a cégjegyzékből.
 
-(6) A társaság tagjával szemben – a társaság e törvény alapján történő jogutód nélküli megszűnésekor – a megszűnő társaságot terhelő kötelezettségekből származó követelés nem érvényesíthető.
+(6)

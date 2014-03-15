@@ -6,7 +6,7 @@ a) agrártámogatások: a részben vagy egészben az Európai Mezőgazdasági Ga
 
 b) állami garancia: olyan önálló, az állam nevében vállalt kötelezettség, amely alapján az állam a központi költségvetés terhére, jogszabályban, szerződésben meghatározott feltételek szerint, a kötelezett nem teljesítése esetén a jogosultnak fizetést teljesít az előzetesen rögzített összeghatárig,
 
-c) állami kezesség: a Polgári Törvénykönyvről szóló törvény (a továbbiakban: Ptk.) szerinti kezességnek megfelelő, az állam nevében vállalt kötelezettség,
+c) állami kezesség: a Polgári Törvénykönyv (a továbbiakban: Ptk.) szerinti kezességnek megfelelő, az állam nevében vállalt kötelezettség,
 
 d) állami támogatás: az Európai Unió működéséről szóló Szerződés 107. cikke szerinti támogatás,
 
@@ -52,7 +52,9 @@ t) átlátható szervezet: a nemzeti vagyonról szóló 2011. évi CXCVI. törv�
 
 u) önkormányzati garancia: az önkormányzati alrendszerben vállalható olyan kötelezettség, ami alapján a garanciavállaló saját költségvetése terhére, szerződésben meghatározott feltételek szerint, a kötelezett nem szerződésszerű teljesítése esetén a jogosultnak fizetést teljesít az előzetesen rögzített összeghatárig,
 
-v) önkormányzati kezesség: az önkormányzati alrendszerben a Polgári Törvénykönyvről szóló törvény szerinti kezességnek megfelelően vállalt kötelezettség,
+v) önkormányzati kezesség: az önkormányzati alrendszerben a Ptk. szerinti kezességnek megfelelően vállalt kötelezettség,
+
+w) gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti fogalom.
 
 x) kormányzati szektor egyenlege: az Európai Unió túlzott hiány esetén követendő eljárásról szóló jegyzőkönyv alkalmazásáról szóló rendelete alapján számított egyenleg,
 

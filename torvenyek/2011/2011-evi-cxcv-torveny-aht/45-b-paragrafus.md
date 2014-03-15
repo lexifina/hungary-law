@@ -1,4 +1,4 @@
-45/B. § (1) A Bankra a gazdasági társaságokról szóló törvényt az e törvényben foglalt eltérésekkel kell alkalmazni a hitelintézeti törvényben meghatározott előírások betartása mellett.
+45/B. § (1) A Bankra a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényben foglaltakat az e törvényben foglalt eltérésekkel kell alkalmazni.
 
 (2) A Bank ügyvezető szerve az igazgatóság, amely az igazgatóság elnökéből és további igazgatósági tagokból áll.
 
@@ -20,4 +20,4 @@ c) a vezető tisztség betöltését kizáró foglalkozástól eltiltás hatály
 
 (8) Ha a felügyelő bizottság megítélése szerint az igazgatóság, a vezérigazgató vagy annak helyettese tevékenysége jogszabályba, a Bank létesítő okiratába vagy közgyűlése határozatába ütközik, vagy egyébként sérti az állam érdekeit, ezt köteles jelezni a gazdaságpolitikáért felelős miniszternek is.
 
-(9) A felügyelő bizottság tagja feladatát az ilyen tisztséget betöltő személytől elvárható fokozott gondossággal, és az állam érdekeit képviselő tag esetében az állam érdekeinek elsődlegessége alapján látja el. A tagok – a Polgári Törvénykönyvről szóló törvény közös károkozásra vonatkozó szabályai szerint – korlátlanul és egyetemlegesen felelnek az állammal szemben az ellenőrzési kötelezettségük felróható megszegésével okozott károkért. Ha a kárt testületi határozat okozta, mentesül a felelősség alól az a tag, aki a döntésben nem vett részt, vagy a határozat ellen szavazott.
+(9) A felügyelő bizottság tagja feladatát az ilyen tisztséget betöltő személytől elvárható fokozott gondossággal, és az állam érdekeit képviselő tag esetében az állam érdekeinek elsődlegessége alapján látja el. A tagok – a Ptk. többek közös károkozására vonatkozó szabályai szerint – korlátlanul és egyetemlegesen felelnek az állammal szemben az ellenőrzési kötelezettségük felróható megszegésével okozott károkért. Ha a kárt testületi határozat okozta, mentesül a felelősség alól az a tag, aki a döntésben nem vett részt, vagy a határozat ellen szavazott.

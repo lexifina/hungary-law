@@ -4,7 +4,7 @@ a) az európai uniós források felhasználásával kapcsolatos költségvetési
 
 b) jogszabály által alanyi jogon összegszerűen megállapított, továbbá magánszemélyeket jogszabályban meghatározott feltételek alapján megillető támogatásokkal kapcsolatos költségvetési kiadás,
 
-c) az állammal szemben folyamatban lévő peres ügyekkel és az állam által fizetendő kártérítésekkel, kártalanításokkal kapcsolatos költségvetési kiadás,
+c) az állammal szemben folyamatban lévő peres ügyekkel és az állam által fizetendő kártérítésekkel, kártalanításokkal, továbbá sérelemdíjakkal kapcsolatos költségvetési kiadás,
 
 d) a Kormány által egyedi határozatban biztosított beruházás-ösztönzési célú költségvetési kiadás,
 
