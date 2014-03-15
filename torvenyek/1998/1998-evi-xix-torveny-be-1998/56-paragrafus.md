@@ -2,7 +2,7 @@
 
 56. § (1) A sértett, a magánvádló és az egyéb érdekelt – ha e törvény nem ír elő személyes közreműködési kötelezettséget – a jogait a képviselője útján is gyakorolhatja. Képviselőként meghatalmazás alapján ügyvéd, nagykorú hozzátartozó, vagy külön törvényben erre feljogosított személy járhat el.
 
-(2) Ha a sértett, a magánvádló vagy az egyéb érdekelt cselekvőképtelen vagy korlátozottan cselekvőképes, a képviseletét a törvényes képviselője látja el, érdekellentét esetén a Polgári Törvénykönyv rendelkezései az irányadók. Az e törvényben meghatározott esetben a képviseletre eseti gondnok is jogosult.
+(2) Ha a sértett, a magánvádló és az egyéb érdekelt kiskorú, cselekvőképtelen nagykorú vagy a bíróság, hatóság előtti eljárás jogának gyakorlása vonatkozásában cselekvőképességében részlegesen korlátozott nagykorú, képviseletét a törvényes képviselője látja el. Ha a cselekvőképességében részlegesen korlátozott nagykorú sértettet, magánvádlót és egyéb érdekeltet a bíróság a személyes, illetve a vagyoni ügyei vitelében korlátozta, jognyilatkozatot csak a törvényes képviselője hozzájárulásával tehet. Érdekellentét esetén a Polgári Törvénykönyv rendelkezései az irányadók. Az e törvényben meghatározott esetben a képviseletre eseti gyám vagy eseti gondnok is jogosult.
 
 (3) Állami szervet és gazdálkodó szervezetet a képviseletre feljogosított dolgozója, illetőleg az ügyintézésre jogosult tagja vagy alkalmazottja is képviselhet.
 

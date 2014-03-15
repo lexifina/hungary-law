@@ -65,13 +65,3 @@ c) a rendészetért felelős miniszter, hogy az igazságügyért felelős minisz
 d) a rendészetért felelős miniszter, hogy az egységes nyomozó hatósági és ügyészségi bűnügyi statisztikai rendszer szabályait, valamint az adatgyűjtés és feldolgozás részletes szabályait
 
 rendeletben megállapítsa.
-
-(5) Felhatalmazást kap
-
-a) a nyomozó hatóság országos parancsnoka (vezetője), hogy a legfőbb ügyésszel egyetértésben a nyomozással kapcsolatban utasításban,
-
-b) a legfőbb ügyész, hogy a büntetőeljárással összefüggő ügyészi feladatok ellátása során utasításban,
-
-c) az Országos Bírósági Hivatal elnöke, hogy a bírósági eljárással kapcsolatban szabályzatban,
-
-d) az igazságügyért felelős miniszter, hogy a bíróság büntetés-végrehajtási feladataival kapcsolatban rendeletben,

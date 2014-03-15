@@ -6,7 +6,7 @@
 
 (3) Ahol e törvény hozzátartozóról rendelkezik, a Btk. 459. § 14. pontja, illetve az 1978. évi IV. törvény 137. § 6. pontja az irányadó, ahol e törvény állami szervről rendelkezik, ezen költségvetési szervet kell érteni.
 
-(4) Ahol e törvény gazdálkodó szervezetről rendelkezik, ezen a Polgári Törvénykönyvről szóló 1959. évi IV. törvény 685. § c) pontjában felsoroltakat kell érteni.
+(4) Ahol e törvény gazdálkodó szervezetről rendelkezik, ezen a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezetet kell érteni.
 
 (5) Ahol e törvény a jogkövetkezményeket a törvényben meghatározott büntetéshez fűzi, ezen a Btk. Különös Részében meghatározott büntetési tételkeret felső határát kell érteni.
 

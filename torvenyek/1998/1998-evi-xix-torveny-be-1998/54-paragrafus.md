@@ -10,7 +10,7 @@
 
 (4) A polgári jogi igényt – a Polgári perrendtartásban meghatározott feltételek esetén – az ügyész is érvényesítheti.
 
-(5)
+(5) A magánfél támogatója a polgári jogi igénnyel kapcsolatos eljárási cselekményeknél jelen lehet.
 
 (6) Ha a sértett meghalt, az örököse léphet fel magánfélként, az 51. §-ban szabályozott jogok azonban csak a polgári jogi igény érvényesítésével kapcsolatban illetik meg.
 

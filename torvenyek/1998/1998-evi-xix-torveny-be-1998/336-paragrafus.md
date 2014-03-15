@@ -1,6 +1,6 @@
 ## A szülői felügyeleti jog megszüntetése
 
-336. § (1) A bíróság az ügyész indítványára a vádlott szülői felügyeleti jogát megszünteti, ha a vádlottat a gyermekének sérelmére elkövetett szándékos bűncselekményben bűnösnek mondja ki, és megállapítja a házasságról, a családról és a gyámságról szóló 1952. évi IV. törvény 88. §-ának (1) bekezdésében meghatározott feltételek fennállását.
+336. § (1) A bíróság az ügyész indítványára a vádlott szülői felügyeleti jogát megszünteti, ha a vádlottat a gyermekének sérelmére elkövetett szándékos bűncselekményben bűnösnek mondja ki és megállapítja a szülői felügyeleti jog bírósági megszüntetése Polgári Törvénykönyv szerinti feltételeinek fennállását.
 
 (2) A bíróság az (1) bekezdésben meghatározott feltételek hiányában az indítványt elutasítja.
 

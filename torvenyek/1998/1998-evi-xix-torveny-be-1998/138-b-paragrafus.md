@@ -10,7 +10,7 @@ c) a pótmagánvádló,
 
 d) a sértett,
 
-e) a cselekvőképtelen vagy korlátozottan cselekvőképes sértett törvényes képviselője, valamint
+e) cselekvőképtelen sértett esetén kizárólag törvényes képviselője, korlátozottan cselekvőképes kiskorú sértett esetén törvényes képviselője is, személyes ügyei vitelében vagy a bíróság, hatóság előtti eljárás jogának gyakorlása vonatkozásában cselekvőképességében részlegesen korlátozott nagykorú sértett a törvényes képviselője hozzájárulásával, valamint
 
 f) a terhelttel közös háztartásban élő kiskorú személy törvényes képviselője
 

@@ -1,4 +1,4 @@
-584. § (1) A bíróság a kérelmet a büntetőügy irataival együtt az eljárás lefolytatása végett a kártérítés elbírálására a Polgári perrendtartás szerint hatáskörrel és illetékességgel rendelkező bíróságnak küldi meg. Az iratok megküldését elrendelő végzés ellen nincs helye fellebbezésnek.
+584. § (1) A bíróság a kérelmet a büntetőügy irataival együtt az eljárás lefolytatása végett az igény elbírálására a polgári perrendtartásról szóló törvény szerint hatáskörrel és illetékességgel rendelkező bíróságnak küldi meg. Az iratok megküldését elrendelő végzés ellen nincs helye fellebbezésnek.
 
 (2) A kártalanítási igény elbírálása során az (1) bekezdés szerinti bíróság az e törvényben foglalt eltérésekkel a Polgári perrendtartás szabályai szerint jár el. A perben felperesként a terhelt (örökös), alperesként a Magyar Állam képviseletében az igazságügyért felelős miniszter vesz részt.
 
