@@ -1,4 +1,4 @@
-3. számú melléklet a 129/2007. (X. 31.) FVM rendelethez[^5]
+3. számú melléklet a 129/2007. (X. 31.) FVM rendelethez[^9]
 
 Az országos répacukor és izoglükóz kvótának a kvótajogosultak közötti elosztásáról
 
@@ -10,4 +10,4 @@ Az országos répacukor és izoglükóz kvótának a kvótajogosultak közötti 
 
 | Hungrana Kft. |  | 250 265,8 |
 
-[^5]: A 3. számú melléklet a 19/2014. (III. 12) VM rendelet 22. §-ával megállapított szöveg.
+[^9]: A 3. számú melléklet a 19/2014. (III. 12) VM rendelet 22. §-ával megállapított szöveg.

@@ -18,6 +18,6 @@ e) a Bizottság 2148/96/EK rendelete (1996. november 8.) a mezőgazdasági term�
 
 f) a Bizottság 779/96/EK rendelete (1996. április 29.) a cukorágazaton belüli közlemények tekintetében az 1785/81/EGK tanácsi rendelet alkalmazása részletes szabályainak megállapításáról;
 
-g)[^3] a Bizottság 510/2008/EK rendelete (2008. június 6.) az 1234/2007/EK tanácsi rendelet VI. mellékletének a 2008/2009-es gazdasági évre vonatkozóan történő módosításáról.
+g)[^7] a Bizottság 510/2008/EK rendelete (2008. június 6.) az 1234/2007/EK tanácsi rendelet VI. mellékletének a 2008/2009-es gazdasági évre vonatkozóan történő módosításáról.
 
-[^3]: A 9. § (3) bekezdésének g) pontját a 23/2009. (III. 13.) FVM rendelet 1. §-a iktatta be.
+[^7]: A 9. § (3) bekezdésének g) pontját a 23/2009. (III. 13.) FVM rendelet 1. §-a iktatta be.
