@@ -6,6 +6,9 @@
 
 (4) Ha a cég ellen közigazgatási végrehajtást rendeltek el, a végrehajtást elrendelő közigazgatási szerv megnevezését, a végrehajtást elrendelő határozat számát és a végrehajtás elrendelésének időpontját kell feltüntetni a cégjegyzékben. Ha a közigazgatási végrehajtás foganatosítása végrehajtható okirat kiállítása nélkül indult meg, a végrehajtást foganatosító hatóság nevét, a végrehajtási ügy számát és a végrehajtás megkezdéséről szóló értesítés kiállításának időpontját kell a cégjegyzékben feltüntetni.
 
-(5) Ha a cég tagja (részvényese) vagyoni részesedésének bírósági vagy közigazgatási végrehajtás során történő lefoglalására kerül sor [Ctv. 26. § (1) bekezdés j) pont] a cégjegyzékben fel kell tüntetni a cégjegyzéknek a tagra (részvényesre) vonatkozó rovatszámát, a végrehajtást foganatosító hatóság megnevezését, a végrehajtási (közigazgatási végrehajtási) ügy számát, valamint a vagyoni részesedés lefoglalásának időpontját.
+(5)[^23] Ha a cég tagja vagyoni részesedésének bírósági vagy közigazgatási végrehajtás során történő lefoglalására kerül sor [Ctv. 26. § (1) bekezdés j) pont] a cégjegyzékben fel kell tüntetni a cégjegyzéknek a tagra vonatkozó rovatszámát, a végrehajtást foganatosító hatóság megnevezését, a végrehajtási (közigazgatási végrehajtási) ügy számát, valamint a vagyoni részesedés lefoglalásának időpontját.
 
-(6) Ha a cég tagja (részvényese) vagyoni részesedése vonatkozásában a büntetőeljárás során biztosítási intézkedést alkalmaznak, vagy zár alá vételt rendelnek el [Ctv. 26. § (1) bekezdés j) pont], a (2)–(3) bekezdés megfelelő alkalmazásával kell eljárni.
+(6)[^24] Ha a cég tagja vagyoni részesedése vonatkozásában a büntetőeljárás során biztosítási intézkedést alkalmaznak, vagy zár alá vételt rendelnek el [Ctv. 26. § (1) bekezdés j) pont], a (2)–(3) bekezdés megfelelő alkalmazásával kell eljárni.
+
+[^23]: A 11. § (5) bekezdése a 12/2014. (II. 28.) KIM rendelet 5. § (10) bekezdés b) és c) pontja szerint módosított szöveg.
+[^24]: A 11. § (6) bekezdése a 12/2014. (II. 28.) KIM rendelet 5. § (10) bekezdés b) pontja szerint módosított szöveg.
