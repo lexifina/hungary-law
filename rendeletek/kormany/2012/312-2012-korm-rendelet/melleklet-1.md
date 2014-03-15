@@ -1,6 +1,6 @@
 ## való megfelelést szolgálja.
 
-1. melléklet a 312/2012. (XI. 8.) Korm. rendelethez[^92]
+1. melléklet a 312/2012. (XI. 8.) Korm. rendelethez[^113]
 
 ## Építési engedély nélkül végezhető építési tevékenységek
 
@@ -62,7 +62,7 @@ b) urnafülke, sírhely, sírjel építése, elhelyezése.
 
 13. Park, játszótér, sportpálya megfelelőségi igazolással vagy teljesítménynyilatkozattal és műszaki specifikációval rendelkező műtárgyainak építése, egyéb építési tevékenység végzése.
 
-14. Megfelelőség igazolással vagy teljesítmény-nyilatkozattal és jóváhagyott műszaki specifikációval rendelkező építményszerkezetű, vagy tömegtartózkodás céljára nem szolgáló, vagy legfeljebb 180 napig fennálló
+14. Megfelelőség igazolással – vagy 2013. július 1-je után gyártott szerkezetek esetében teljesítménynyilatkozattal – rendelkező építményszerkezetű, tömegtartózkodás céljára nem szolgáló, és legfeljebb 180 napig fennálló
 
 a) rendezvényeket kiszolgáló színpad, színpadi tető, lelátó, mutatványos, szórakoztató, vendéglátó, kereskedelmi, valamint előadás tartására szolgáló építmény,
 
@@ -134,4 +134,4 @@ f) újjáépíteni.
 
 34. Közterületen, filmforgatáshoz kapcsolódó építmény létesítése.
 
-[^92]: Az 1. melléklet a 67/2013. (III. 8.) Korm. rendelet 18. § (6) bekezdés 17–19. pontja, a 205/2013. (VI. 14.) Korm. rendelet 9. §-a, a 358/2013. (X. 9.) Korm. rendelet 6. § (3) bekezdés a) pontja szerint módosított szöveg.
+[^113]: Az 1. melléklet a 67/2013. (III. 8.) Korm. rendelet 18. § (6) bekezdés 17–19. pontja, a 205/2013. (VI. 14.) Korm. rendelet 9. §-a, a 358/2013. (X. 9.) Korm. rendelet 6. § (3) bekezdés a) pontja, a 62/2014. (III. 6.) Korm. rendelet 17. § (7) bekezdés 29. pontja szerint módosított szöveg.

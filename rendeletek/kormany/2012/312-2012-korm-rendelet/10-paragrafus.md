@@ -24,17 +24,17 @@ g) tájékoztatást az ügyre vonatkozó minden egyéb lényeges információró
 
 h) tájékoztatást arról, hogy a Ket. 28/A. § (1) bekezdés a) pontjában meghatározottakon túl, ha a kapcsolattartás módjáról (papír alapú vagy elektronikus) nyolc napon belül nem nyilatkozik, az eljárással kapcsolatos érdemi döntésről az ÉTDR felületén milyen módon értesülhet.
 
-(5)[^4] Az építésügyi és az építésfelügyeleti hatóság az eljárásában az ügyfelek és az értesítendők adatait
+(5)[^11] Az építésügyi és az építésfelügyeleti hatóság az eljárásában az ügyfelek és az értesítendők adatait
 
 a) az ingatlan-nyilvántartásból,
 
-b)[^5] polgárok személyi, lakcím- és értesítési cím adatait tartalmazó nyilvántartásból, vagy
+b)[^12] polgárok személyi, lakcím- és értesítési cím adatait tartalmazó nyilvántartásból, vagy
 
 c) az elektronikus elérhetőségi adatai tekintetében az ügyintézési rendelkezési nyilvántartásból
 
 elektronikus úton közvetlen lekérdezés útján a vonatkozó jogszabályok szerint szerzi be.
 
-(6) Az építésügyi hatóság az ÉTDR általános tájékoztatási felületén mindenki által hozzáférhető módon – személyes adatot nem tartalmazva – általános tájékoztatást ad az elindult eljárás következő főbb ismérveiről:
+(6)[^13] Az építésügyi hatóság az ÉTDR általános tájékoztatási felületén mindenki által hozzáférhető módon – személyes adatot nem tartalmazva – általános tájékoztatást ad az elindult engedélyezési eljárás következő főbb ismérveiről:
 
 a) az építési tevékenységgel érintett telek címe, ennek hiányában helyrajzi száma,
 
@@ -42,7 +42,9 @@ b) az építési tevékenység tárgya,
 
 c) a kérelmezett eljárás típusa és az eljárás megindulásának időpontja,
 
-d) a 8. mellékletben meghatározott tartalmú utcai homlokzati terv vagy látványterv.
+d)[^14] a 8. mellékletben meghatározott tartalmú helyszínrajz, utcai homlokzati terv vagy látványterv.
 
-[^4]: A 10. § (5) bekezdés nyitó szövegrésze a 109/2013. (IV. 9.) Korm. rendelet 4. § (11) bekezdés a) pontja szerint módosított szöveg.
-[^5]: A 10. § (5) bekezdés b) pontja a 176/2013. (VI. 3.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^11]: A 10. § (5) bekezdés nyitó szövegrésze a 109/2013. (IV. 9.) Korm. rendelet 4. § (11) bekezdés a) pontja szerint módosított szöveg.
+[^12]: A 10. § (5) bekezdés b) pontja a 176/2013. (VI. 3.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^13]: A 10. § (6) bekezdés nyitó szövegrésze a 62/2014. (III. 6.) Korm. rendelet 17. § (7) bekezdés 6. pontja szerint módosított szöveg.
+[^14]: A 10. § (6) bekezdés d) pontja a 62/2014. (III. 6.) Korm. rendelet 17. § (7) bekezdés 7. pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-2. melléklet a 312/2012. (XI. 8.) Korm. rendelethez[^93]
+2. melléklet a 312/2012. (XI. 8.) Korm. rendelethez[^114]
 
 ## Bontási engedély és bontás tudomásulvétele nélkül végezhető bontási tevékenységek
 
@@ -114,4 +114,4 @@ f) újjáépíteni.
 
 30. Közforgalom elől elzárt, telken belüli 3,0 m vagy annál kisebb fesztávú áteresz, bejáró-, átjáró-híd bontása.
 
-[^93]: A 2. melléklet a 358/2013. (X. 9.) Korm. rendelet 6. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^114]: A 2. melléklet a 358/2013. (X. 9.) Korm. rendelet 6. § (3) bekezdés b) pontja szerint módosított szöveg.

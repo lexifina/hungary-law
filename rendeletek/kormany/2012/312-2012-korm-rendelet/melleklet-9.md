@@ -26,7 +26,7 @@
 
 ## 1.1.8. a tervezett építési tevékenységhez előírt és az építmény rendeltetésszerű és biztonságos használathoz szükséges közművesítettséget, a közművesítés megoldását,
 
-## 1.1.9. az építmény tervezésekor alkalmazott műszaki megoldásnak az OTÉK 50. § (3) bekezdésében meghatározott követelményeknek való megfelelőségét,
+## 1.1.9. a tervezett építmény, építményrész milyen műszaki megoldással teljesíti az OTÉK 50. § (3) bekezdésében meghatározott követelményeket, az építmény tűzvédelmi kockázati osztályát,
 
 ## 1.1.10. az érintett közműszolgáltatókkal történt egyeztetésre vonatkozó információkat.
 
@@ -250,11 +250,7 @@
 
 ## 5. A tervezett építési tevékenység szempontjából érdemi adatot, tényt, körülményt nem tartalmazó dokumentáció-részek elhagyhatók.
 
-## 6. A tűzvédelmi dokumentáció tartalmazza a tűzvédelmi követelmények teljesítésére szolgáló megoldásokat.
-
-## 6.1. A tűzvédelmi dokumentációt az 5. melléklet VI. részében foglaltak alapján kell összeállítani.
-
-## 6.2. A tűzvédelmi munkarész célja és feladata, hogy az engedélyező hatóságok részére bemutassa az építmény tűzvédelmi koncepcióját, beleértve az építmény átfogó tűzvédelmi kategorizálását, a kapcsolódó és a szomszédos építményekkel való tűzvédelmi kapcsolatát, az elsőrendű szerkezeti elemeinek tűzvédelmi követelményeit, a beépített tűzvédelmi berendezéseknek főbb paramétereit és funkcionális ismertetését, a menekülés illetve mentés, valamint a tűzoltói beavatkozás feltételeinek elvi megoldási módjait.
+## 6.
 
 ## 7. Az építészeti-műszaki dokumentáció tervező általi hitelesítése
 
@@ -290,7 +286,7 @@
 
 ## 1.1.6. az építési engedélyhez kötött támfalak, terepbiztosítási építmények és kerítések terveit,
 
-## 1.1.7. műszaki leírást.
+## 1.1.7. a tervezés tárgyától függően a szükséges műszaki leírást.
 
 ## 1.2. A dokumentáció minden esetben tartalmazza – az ÉTDR általános felületén történő tájékoztatás érdekében – a 10. § (6) bekezdés d) pontjában meghatározott dokumentumokat: I. rész 2.1. pontjában meghatározott tartalmú helyszínrajzot és az I. rész 2.5. pontjában meghatározott tartalmú utcai homlokzati tervet, vagy az utcaképet bemutató látványtervet.
 
@@ -312,7 +308,7 @@
 
 ## 2.1.7. szintszám-, belmagasság- vagy tetőforma-változtatást eredményező átalakítás esetén metszetet (metszeteket) a tervezett állapotról a változtatás szempontjából meghatározó helyen (helyeken), a változásra jellemző méretadatokkal és szintmagasságokkal,
 
-## 2.1.8. műszaki leírást,
+## 2.1.8. a tervezés tárgyától függően a szükséges műszaki leírást,
 
 ## 2.1.9. egy évnél nem régebbi szakértői véleményeket:
 
@@ -334,7 +330,7 @@
 
 ## 4.1.3. tereprendezési tervet a telek természetes terepszintjének építésügyi hatósági engedély-köteles megváltoztatása esetén,
 
-## 4.1.4. műszaki leírást.
+## 4.1.4. a tervezés tárgyától függően a szükséges műszaki leírást.
 
 ## 4.2. A dokumentáció minden esetben tartalmazza – az ÉTDR általános felületén történő tájékoztatás érdekében – a 10. § (6) bekezdés d) pontjában meghatározott dokumentumokat: az I. rész 2.1. pontjában meghatározott tartalmú helyszínrajzot és az I. rész 2.5. pontjában meghatározott tartalmú utcai homlokzati tervet, vagy az utcaképet bemutató látványtervet.
 
@@ -396,7 +392,7 @@
 
 ## 9.2. Metszetek M=1:100-as méretarányban.
 
-## 9.3. Műszaki leírás, az I. rész 1.1.1-1.1.4. pontja szerinti tartalommal.
+## 9.3. Az építészeti műszaki leírás, az I. rész 1.1.1-1.1.4. pontja szerinti tartalommal.
 
 ## 9.4. Tartószerkezeti műszaki leírás, amely tartalmazza az építmény tartószerkezetének leírását, jellemzőit, így különösen a következőket:
 
@@ -414,7 +410,7 @@
 
 ## 9.4.7. a vonatkozó nemzeti szabványtól eltérő eljárás vagy számítási módszer a szabványossal legalább egyenértékű,
 
-## 9.4.8. az adott rendeltetéssel érintett építmény, építményrész az OTÉK 50. § (3) bekezdésében meghatározott követelményeknek megfelel,
+## 9.4.8. a tervezett építmény, építményrész milyen műszaki megoldással teljesíti az OTÉK 50. § (3) bekezdésében meghatározott követelményeket, az építmény tűzvédelmi kockázati osztályát,
 
 ## 9.4.9. az adott rendeltetéssel érintett építmény, építményrész tartalmaz-e azbesztet.
 

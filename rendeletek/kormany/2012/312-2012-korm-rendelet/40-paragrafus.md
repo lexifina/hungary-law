@@ -18,9 +18,9 @@ d) az elkészült építmény a vonatkozó jogszabályoknak, előírt követelm�
 
 e) az építmény zavartalan használatához az építési engedélyben előírt szükséges járulékos építmények megvalósultak-e, a felvonulási épület elbontásra került-e, a környezetrendezést elvégezték-e,
 
-f)[^31] a felelős műszaki vezetőnek az építőipari kivitelezési tevékenységről szóló 191/2009. (IX. 15.) Korm. rendelet (a továbbiakban: Épkiv.) 14. §-a szerinti nyilatkozata az építési naplóban rendelkezésre áll,
+f)[^43] a felelős műszaki vezetőnek az építőipari kivitelezési tevékenységről szóló 191/2009. (IX. 15.) Korm. rendelet (a továbbiakban: Épkiv.) 14. §-a szerinti nyilatkozata az építési naplóban rendelkezésre áll-e,
 
-g)[^32] a fővállalkozó kivitelező az építési munkaterületet az építési naplóban felvett jegyzőkönyv szerint átadta az építtetőnek.
+g)[^44] a fővállalkozó kivitelező az építési munkaterületet – az építési naplóban igazoltan – visszaadta-e az építtetőnek.
 
 (3) A használatbavételi engedély akkor adható meg, ha az építmény az OTÉK-ban meghatározott rendeltetésszerű és biztonságos használat követelményeinek, az építési engedélynek és a hozzá tartozó engedélyezési záradékkal ellátott építészeti-műszaki dokumentációnak megfelel és
 
@@ -28,15 +28,15 @@ a) az eltérések nem építésügyi hatósági engedélyhez kötöttek,
 
 b) az eltérés műemlék esetén a kulturális örökség védelme jogszabályban rögzített követelményeinek vagy további feltétel előírása mellett megfelel,
 
-c)[^33] a (2) bekezdés f) és g) pontja szerinti dokumentumok az építési naplóban rendelkezésre állnak, vagy a (4b) és (4c) bekezdésben foglalt feltételek fennállnak.
+c)[^45] a (2) bekezdés f) és g) pontja szerinti dokumentumok az építési naplóban rendelkezésre állnak, vagy a (4b) és (4c) bekezdésben foglalt feltételek fennállnak.
 
 (4) Ha a használatbavételi engedélyezéskor az építésügyi hatóság a rendeltetésszerű és biztonságos építményhasználatot nem gátló hiányosságokat tapasztal, a használatbavételi engedélyt megadja és ezzel egyidejűleg megfelelő teljesítési határidő megjelölésével és a nem teljesítés esetén alkalmazható szankciók alkalmazására való figyelmeztetéssel – a kötelezésre vonatkozó, e rendeletben foglalt előírások szerint – kötelezi az építtetőt a még fennálló hibák, hiányosságok megszüntetésére, a kulturális örökség védelme érdekében szükséges munkálatok elvégzésére.
 
-(4a)[^34] Ha a használatbavételi engedély megkéréséhez az építési munkaterület átvételéről szóló jegyzőkönyv az építési naplóban nem áll rendelkezésre, az építésügyi hatóság hatvan napos határidő megjelölésével ennek pótlására hívja fel az építtetőt.
+(4a)[^46] Ha a használatbavételi engedély megkéréséhez az építési munkaterület visszaadása – az építési naplóban igazoltan – nem történt meg, az építésügyi hatóság hatvan napos határidő megjelölésével ennek pótlására hívja fel az építtetőt.
 
-(4b)[^35] Az építésügyi hatóság – ha az építtető a (4a) bekezdés szerint a hiányt nem pótolja – a használatbavételt a hatvanadik nap leteltét követő öt napon belül engedélyezi.
+(4b)[^47] Az építésügyi hatóság – ha az építtető a (4a) bekezdés szerinti felhívásnak nem tesz eleget – a használatbavételt a hatvanadik nap leteltét követő öt napon belül engedélyezi.
 
-(4c)[^36] Ha az építtető a (4a) bekezdés szerinti felhívásra a (2) bekezdés g) pontja szerinti jegyzőkönyvet az építési naplóban határidőn belül pótolja, az építésügyi hatóság a használatbavételt a pótlást követő öt napon belül engedélyezi.
+(4c)[^48] Ha az építtető a (4a) bekezdés szerinti felhívásra a (2) bekezdés g) pontjában foglaltakat az építési naplóban határidőn belül pótolja, az építésügyi hatóság a használatbavételt a pótlást követő öt napon belül engedélyezi.
 
 (5) Az építésügyi hatóság a használatbavételi engedély megadását csak akkor tagadhatja meg és az építmény használatát csak akkor tilthatja meg, ha az észlelt hibák, hiányosságok, kikötések és feltételek teljesítésének hiánya az építmény rendeltetésszerű és biztonságos használhatóságát gátolja vagy akadályozza.
 
@@ -68,9 +68,9 @@ dc) arról, hogy a használatbavételi engedély jogerőre emelkedését követ�
 
 (9) Az építésügyi hatóság a határozaton a 41. § (2) bekezdésében foglaltak szerint feltünteti az értesítettek körét.
 
-[^31]: A 40. § (2) bekezdés f) pontját a 109/2013. (IV. 9.) Korm. rendelet 4. § (1) bekezdése iktatta be.
-[^32]: A 40. § (2) bekezdés g) pontját a 109/2013. (IV. 9.) Korm. rendelet 4. § (1) bekezdése iktatta be.
-[^33]: A 40. § (3) bekezdés c) pontját a 109/2013. (IV. 9.) Korm. rendelet 4. § (2) bekezdése iktatta be.
-[^34]: A 40. § (4a) bekezdését a 109/2013. (IV. 9.) Korm. rendelet 4. § (3) bekezdése iktatta be.
-[^35]: A 40. § (4b) bekezdését a 109/2013. (IV. 9.) Korm. rendelet 4. § (3) bekezdése iktatta be.
-[^36]: A 40. § (4c) bekezdését a 109/2013. (IV. 9.) Korm. rendelet 4. § (3) bekezdése iktatta be.
+[^43]: A 40. § (2) bekezdés f) pontját a 109/2013. (IV. 9.) Korm. rendelet 4. § (1) bekezdése iktatta be, szövege a 62/2014. (III. 6.) Korm. rendelet 17. § (7) bekezdés 10. pontja szerint módosított szöveg.
+[^44]: A 40. § (2) bekezdés g) pontját a 109/2013. (IV. 9.) Korm. rendelet 4. § (1) bekezdése iktatta be, szövege a 62/2014. (III. 6.) Korm. rendelet 17. § (7) bekezdés 11. pontja szerint módosított szöveg.
+[^45]: A 40. § (3) bekezdés c) pontját a 109/2013. (IV. 9.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^46]: A 40. § (4a) bekezdését a 109/2013. (IV. 9.) Korm. rendelet 4. § (3) bekezdése iktatta be, szövege a 62/2014. (III. 6.) Korm. rendelet 17. § (7) bekezdés 12. pontja szerint módosított szöveg.
+[^47]: A 40. § (4b) bekezdését a 109/2013. (IV. 9.) Korm. rendelet 4. § (3) bekezdése iktatta be, szövege a 62/2014. (III. 6.) Korm. rendelet 17. § (7) bekezdés 13. pontja szerint módosított szöveg.
+[^48]: A 40. § (4c) bekezdését a 109/2013. (IV. 9.) Korm. rendelet 4. § (3) bekezdése iktatta be, szövege a 62/2014. (III. 6.) Korm. rendelet 17. § (7) bekezdés 14. pontja szerint módosított szöveg.

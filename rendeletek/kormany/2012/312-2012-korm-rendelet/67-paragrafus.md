@@ -4,11 +4,11 @@
 
 (2) Az építésfelügyeleti hatóság építésrendészeti eljárást folytat le, ha az ellenőrzésen megállapítja, hogy
 
-a) az építőipari kivitelezési tevékenység végzését a jogerős építési engedélytől és a hozzá tartozó engedélyezési záradékkal ellátott építészeti-műszaki dokumentációtól eltérően,
+a)[^99] az építőipari kivitelezési tevékenység végzését a jogerős építési engedélytől és a hozzá tartozó engedélyezési záradékkal ellátott építészeti-műszaki dokumentációtól eltérően az építésügyi hatóság engedélyéhez kötött építési tevékenységgel
 
 b) az építőipari kivitelezési tevékenység végzését építési vagy bontási engedély nélkül,
 
-c) a bontási tevékenységet a tevékenység megkezdésének bejelentése nélkül vagy az építésfelügyeleti hatóság tiltása ellenére,
+c)[^100] a bontási tevékenységet a tevékenység megkezdésének tudomásulvétele nélkül vagy az építésfelügyeleti hatóság tiltása ellenére,
 
 d) az engedély nélkül végezhető építési tevékenység esetén a településrendezési tervek, a helyi építési szabályzat vagy az országos építési követelmények megsértésével
 
@@ -45,3 +45,6 @@ b) a lebontását, ha az építmény fennmaradása átalakítással sem engedél
 (8) A bontási, átalakítási kötelezettség teljesítésének határideje a döntés jogerőssé és végrehajthatóvá válásától számított legfeljebb hat hónap lehet.
 
 (9) Az építésfelügyeleti hatóság a teljesítési határidőt a kötelezett kérelmére indokolt esetben egy alkalommal, legfeljebb három hónappal meghosszabbítja.
+
+[^99]: A 67. § (2) bekezdés a) pontja a 62/2014. (III. 6.) Korm. rendelet 17. § (7) bekezdés 24. pontja szerint módosított szöveg.
+[^100]: A 67. § (2) bekezdés c) pontja a 62/2014. (III. 6.) Korm. rendelet 17. § (7) bekezdés 25. pontja szerint módosított szöveg.

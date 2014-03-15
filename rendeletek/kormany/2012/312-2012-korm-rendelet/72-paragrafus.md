@@ -14,9 +14,9 @@ a) a műemléken és más, jogszabállyal védett építményen vagy területen 
 
 b) ha azt külön jogszabály előírja.
 
-(5) A dokumentációban az OTÉK 50. § (2) bekezdésében meghatározott követelmények teljesítését igazolni szükséges. Ez történhet vonatkozó szabványok alkalmazásával, vagy ezek hiányában más igazolt műszaki megoldás alkalmazásával.
+(5)[^106] A dokumentációban az OTÉK 50. § (3) bekezdésében meghatározott követelmények teljesítését igazolni szükséges. Ez történhet vonatkozó szabványok alkalmazásával, vagy ezek hiányában más igazolt műszaki megoldás alkalmazásával.
 
-(6)[^86] Az építészeti-műszaki dokumentációt aláírólappal kell ellátni. Az aláírólapot a 8. melléklet szerinti formátumban kell elkészíteni. A címlap az engedélyezés tárgyát képező építési, bontási tevékenység szabatos megnevezésén és a telek azonosító adatain túl tartalmazza az építtető nevét, cég megnevezését, a tervező nevét. Az aláírólap tartalmazza a tervezésben részt vett összes tervező nevét, a tervezési jogosultság számát és a tervező sajátkezű aláírását.
+(6)[^107] Az építészeti-műszaki dokumentációt aláírólappal kell ellátni. Az aláírólapot a 8. melléklet szerinti formátumban kell elkészíteni. A címlap az engedélyezés tárgyát képező építési, bontási tevékenység szabatos megnevezésén és a telek azonosító adatain túl tartalmazza az építtető nevét, cég megnevezését, a tervező nevét. Az aláírólap tartalmazza a tervezésben részt vett összes tervező nevét, a tervezési jogosultság számát és a tervező sajátkezű aláírását.
 
 (7) Az egyes különálló tervlapokon szerepeltetni kell:
 
@@ -24,4 +24,5 @@ a) az adott tervrajz szabatos megnevezését és méretarányát önálló ábr�
 
 b) a tervezés időpontját.
 
-[^86]: A 72. § (6) bekezdése a 109/2013. (IV. 9.) Korm. rendelet 4. § (11) bekezdés o) pontja szerint módosított szöveg.
+[^106]: A 72. § (5) bekezdése a 62/2014. (III. 6.) Korm. rendelet 17. § (7) bekezdés 28. pontja szerint módosított szöveg.
+[^107]: A 72. § (6) bekezdése a 109/2013. (IV. 9.) Korm. rendelet 4. § (11) bekezdés o) pontja szerint módosított szöveg.

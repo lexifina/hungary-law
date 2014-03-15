@@ -1,4 +1,4 @@
-## 76. §[^89] E rendeletnek a felszín alatti vasutak engedélyezésével kapcsolatos egyes kormányrendeletek módosításáról szóló 358/2013. (X. 9.) Korm. rendelettel (a továbbiakban: Mód. Kr2.) módosított 56. § (3) bekezdését a Mód. Kr2. hatálybalépésekor[^90] folyamatban lévő eljárásokban is alkalmazni kell.
+## 76. §[^110] E rendeletnek a felszín alatti vasutak engedélyezésével kapcsolatos egyes kormányrendeletek módosításáról szóló 358/2013. (X. 9.) Korm. rendelettel (a továbbiakban: Mód. Kr2.) módosított 56. § (3) bekezdését a Mód. Kr2. hatálybalépésekor[^111] folyamatban lévő eljárásokban is alkalmazni kell.
 
-[^89]: A 76. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 358/2013. (X. 9.) Korm. rendelet 6. § (1) bekezdése iktatta be.
-[^90]: A hatálybalépés időpontja 2013. október 14.
+[^110]: A 76. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 358/2013. (X. 9.) Korm. rendelet 6. § (1) bekezdése iktatta be.
+[^111]: A hatálybalépés időpontja 2013. október 14.
