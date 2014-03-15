@@ -1,4 +1,4 @@
-8. számú melléklet a 98/2003. (VIII. 22.) FVM rendelethez[^88]
+8. számú melléklet a 98/2003. (VIII. 22.) FVM rendelethez[^90]
 
 ## HATÁROZAT
 
@@ -86,4 +86,4 @@ A határozatot kapják:
 
 7. Irattár
 
-[^88]: A 8. számú melléklet a 151/2012. (XII. 29.) VM rendelet 20. § c)–d) pontja, a 70/2013. (VII. 31.) VM rendelet 29. § 31–32. pontja, a 19/2014. (III. 12.) VM rendelet 10. § d) pontja szerint módosított szöveg.
+[^90]: A 8. számú melléklet a 151/2012. (XII. 29.) VM rendelet 20. § c)–d) pontja, a 70/2013. (VII. 31.) VM rendelet 29. § 31–32. pontja, a 19/2014. (III. 12.) VM rendelet 10. § d) pontja szerint módosított szöveg.

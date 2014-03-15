@@ -58,7 +58,7 @@
 
 |  | az aláíró hivatalos megnevezése) |
 
-13. számú melléklet a 98/2003. (VIII. 22.) FVM rendelethez[^92]
+13. számú melléklet a 98/2003. (VIII. 22.) FVM rendelethez[^94]
 
 ## HATÁROZAT
 
@@ -110,4 +110,4 @@ A határozatot kapják:
 
 3. Irattár
 
-[^92]: A 13. számú melléklet a 151/2012. (XII. 29.) VM rendelet 20. § c)–d) pontja, a 70/2013. (VII. 31.) VM rendelet 29. § 31. pontja szerint módosított szöveg.
+[^94]: A 13. számú melléklet a 151/2012. (XII. 29.) VM rendelet 20. § c)–d) pontja, a 70/2013. (VII. 31.) VM rendelet 29. § 31. pontja szerint módosított szöveg.

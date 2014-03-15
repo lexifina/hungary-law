@@ -24,7 +24,7 @@
 
 12. Kontaktgazdaság: olyan gazdaság, ahová az afrikai sertéspestist – akár az elhelyezkedése okán, akár személyek, sertések vagy járművek mozgása eredményeképpen vagy bármely egyéb módon – behurcolhatták.
 
-13. Sertéstartó: olyan természetes vagy jogi személy, valamint jogi személyiség nélküli gazdasági társaság, akinek sertés van a tulajdonában, illetve sertést tart.
+13.[^2] Sertéstartó: olyan természetes vagy jogi személy, valamint jogi személyiséggel nem rendelkező szervezet, akinek sertés van a tulajdonában, illetve sertést tart.
 
 14. Ártalmatlanítás: a fertőzési veszélyt jelentő anyagok engedélyezett üzemben történő feldolgozással, vagy elégetéssel történő kezelését vagy elásását jelenti oly módon, hogy az afrikai sertéspestis vírusának terjedése elkerülhetővé válik.
 
@@ -33,3 +33,5 @@
 16. Levágás: az állat halálának elvéreztetés útján történő előidézése.
 
 17. Vektor: az Ornithodorus erraticus fajba tartozó kullancs.
+
+[^2]: A 2. § 13. pontja a 22/2014. (III. 14.) VM rendelet 16. § b) pontja szerint módosított szöveg.

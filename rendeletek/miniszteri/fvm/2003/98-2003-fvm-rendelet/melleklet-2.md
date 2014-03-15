@@ -6,7 +6,7 @@
 
 a) a takarítást és fertőtlenítést hatósági állatorvos felügyelete és utasítása alapján kell végezni;
 
-b)[^84] az alkalmazott fertőtlenítőszereket és koncentrációit az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság hagyja jóvá;
+b)[^86] az alkalmazott fertőtlenítőszereket és koncentrációit az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság hagyja jóvá;
 
 c) a fertőtlenítőszerek aktivitását felhasználás előtt ellenőrizni kell, mivel bizonyos fertőtlenítőszerek hatása a hosszú tárolás során megszűnik;
 
@@ -66,4 +66,4 @@ b) a hígtrágyát a fertőzött anyag utolsó kibocsátása után legalább 42 
 
 4. Az 1. és 2. pontok alóli felmentéssel, szabad tartású gazdaságok esetében, az illetékes hatóság különleges takarítási és fertőtlenítési eljárást fogadhat el, figyelembe véve a telep típusát és az időjárási körülményeket.
 
-[^84]: A 2. számú melléklet 1. pont b) alpontja a 70/2013. (VII. 31.) VM rendelet 29. § 11. pontja szerint módosított szöveg.
+[^86]: A 2. számú melléklet 1. pont b) alpontja a 70/2013. (VII. 31.) VM rendelet 29. § 11. pontja szerint módosított szöveg.

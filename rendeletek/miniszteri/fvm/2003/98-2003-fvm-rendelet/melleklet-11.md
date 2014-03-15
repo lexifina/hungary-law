@@ -1,4 +1,4 @@
-11. számú melléklet a 98/2003. (VIII. 22.) FVM rendelethez[^91]
+11. számú melléklet a 98/2003. (VIII. 22.) FVM rendelethez[^93]
 
 ## HATÁROZAT
 
@@ -70,4 +70,4 @@ A határozatot kapják:
 
 6. Irattár
 
-[^91]: A 11. számú melléklet a 151/2012. (XII. 29.) VM rendelet 20. § c)–d) pontja, a 70/2013. (VII. 31.) VM rendelet 29. § 32. és 34. pontja, a 19/2014. (III. 12.) VM rendelet 10. § g) és h) pontja szerint módosított szöveg.
+[^93]: A 11. számú melléklet a 151/2012. (XII. 29.) VM rendelet 20. § c)–d) pontja, a 70/2013. (VII. 31.) VM rendelet 29. § 32. és 34. pontja, a 19/2014. (III. 12.) VM rendelet 10. § g) és h) pontja szerint módosított szöveg.

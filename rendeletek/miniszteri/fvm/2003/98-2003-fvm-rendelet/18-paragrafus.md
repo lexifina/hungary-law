@@ -1,6 +1,6 @@
 ## Diagnosztikai eljárások és a biológiai biztonsággal kapcsolatos követelmények
 
-18. § (1)[^68] A szabványok és diagnosztikai módszerek koordinációjáért felelős nemzeti laboratórium a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH).
+18. § (1)[^70] A szabványok és diagnosztikai módszerek koordinációjáért felelős nemzeti laboratórium a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH).
 
 (2) Biztosítani kell, hogy az afrikai sertéspestis jelenlétének kimutatására szolgáló mintavételek és vizsgálatok a diagnosztikai kézikönyv alapján történjenek.
 
@@ -16,7 +16,7 @@ d) izolátumok genotípusának megállapítására szolgáló laboratóriumi viz
 
 e) izolátumok genotípusának megállapítására szolgáló laboratóriumi technikákat.
 
-(4)[^69] A megfelelő biológiai biztonság érdekében az afrikai sertéspestis vírusán és annak genomján, antigénjén és vakcinákon a kutatás, a diagnosztika és a gyártásra történő felhasználás során beavatkozást csak a VM által jóváhagyott intézményben lehet végezni.
+(4)[^71] A megfelelő biológiai biztonság érdekében az afrikai sertéspestis vírusán és annak genomján, antigénjén és vakcinákon a kutatás, a diagnosztika és a gyártásra történő felhasználás során beavatkozást csak a VM által jóváhagyott intézményben lehet végezni.
 
-[^68]: A 18. § (1) bekezdése a 70/2013. (VII. 31.) VM rendelet 29. § 23. pontja szerint módosított szöveg.
-[^69]: A 18. § (4) bekezdése a 70/2013. (VII. 31.) VM rendelet 29. § 2. pontja szerint módosított szöveg.
+[^70]: A 18. § (1) bekezdése a 70/2013. (VII. 31.) VM rendelet 29. § 23. pontja szerint módosított szöveg.
+[^71]: A 18. § (4) bekezdése a 70/2013. (VII. 31.) VM rendelet 29. § 2. pontja szerint módosított szöveg.

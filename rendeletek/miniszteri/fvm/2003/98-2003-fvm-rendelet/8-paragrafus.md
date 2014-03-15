@@ -10,9 +10,9 @@ c) azon személyek, járművek, sertések, hullák, húsok, ondó vagy anyagok m
 
 d) arra a lehetőségre, hogy vektorok vagy vaddisznók okozhatják-e a betegség terjedését.
 
-(2)[^16] Ha a vizsgálat eredményeiből arra lehet következtetni, hogy az afrikai sertéspestis egy másik országban lévő gazdaságból vagy gazdaságba terjedt át, az érintett ország illetékes hatóságát a VM haladéktalanul értesíti.
+(2)[^18] Ha a vizsgálat eredményeiből arra lehet következtetni, hogy az afrikai sertéspestis egy másik országban lévő gazdaságból vagy gazdaságba terjedt át, az érintett ország illetékes hatóságát a VM haladéktalanul értesíti.
 
-(3)[^17] A (2) bekezdés szerinti döntésről a VM tájékoztatja a Bizottságot.
+(3)[^19] A (2) bekezdés szerinti döntésről a VM tájékoztatja a Bizottságot.
 
-[^16]: A 8. § (2) bekezdése a 70/2013. (VII. 31.) VM rendelet 29. § 2. pontja szerint módosított szöveg.
-[^17]: A 8. § (3) bekezdése a 70/2013. (VII. 31.) VM rendelet 29. § 2. pontja szerint módosított szöveg.
+[^18]: A 8. § (2) bekezdése a 70/2013. (VII. 31.) VM rendelet 29. § 2. pontja szerint módosított szöveg.
+[^19]: A 8. § (3) bekezdése a 70/2013. (VII. 31.) VM rendelet 29. § 2. pontja szerint módosított szöveg.

@@ -10,7 +10,7 @@
 
 ## d) szükség esetén az utasítási láncot egy központi döntéshozó szerv hatósága alá kell helyezni, mely felelős a járvány elleni tevékenység valamennyi stratégiájának irányításáért;
 
-## e)[^86] az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság vezetőjének tagnak kell lennie ebben a szervben és meg kell valósítania az összeköttetést a központi döntéshozó szerv és nemzeti járványvédelmi központ között;
+## e)[^88] az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság vezetőjének tagnak kell lennie ebben a szervben és meg kell valósítania az összeköttetést a központi döntéshozó szerv és nemzeti járványvédelmi központ között;
 
 ## f) gondoskodni kell a megfelelő források elérhetőségéről, hogy biztosítva legyen a gyors és hatékony munka, beleértve a laboratóriumi személyzetet, eszközt és infrastruktúrát;
 
@@ -24,7 +24,7 @@
 
 ## hc) kommunikációs technikai gyakorlaton annak érdekében, hogy képes legyen megszervezni – egy feltételezett kitörés esetén – az információs láncot a hatóságok és állatorvosok felé.
 
-7. számú melléklet a 98/2003. (VIII. 22.) FVM rendelethez[^87]
+7. számú melléklet a 98/2003. (VIII. 22.) FVM rendelethez[^89]
 
 ## HATÁROZAT
 
@@ -102,5 +102,5 @@ A határozatot kapják:
 
 6. Irattár
 
-[^86]: A 6. számú melléklet e) pontja a 70/2013. (VII. 31.) VM rendelet 29. § 29. pontja szerint módosított szöveg.
-[^87]: A 7. számú melléklet a 151/2012. (XII. 29.) VM rendelet 20. § c)–d) pontja, a 70/2013. (VII. 31.) VM rendelet 29. § 31. pontja, a 19/2014. (III. 12.) VM rendelet 10. § d) pontja szerint módosított szöveg.
+[^88]: A 6. számú melléklet e) pontja a 70/2013. (VII. 31.) VM rendelet 29. § 29. pontja szerint módosított szöveg.
+[^89]: A 7. számú melléklet a 151/2012. (XII. 29.) VM rendelet 20. § c)–d) pontja, a 70/2013. (VII. 31.) VM rendelet 29. § 31. pontja, a 19/2014. (III. 12.) VM rendelet 10. § d) pontja szerint módosított szöveg.
