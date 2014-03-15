@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-77-00-00
 | 2013-08-01 | 2013. évi CXXXIII. törvény | 2011-77-00-00.8 |
 | 2014-01-01 | 2013. évi CCLI. törvény | 2011-77-00-00.9 |
 | 2014-01-12 | 2013. évi CCXVII. törvény | 2011-77-00-00.10 |
+| 2014-03-15 | 2013. évi CCLII. törvény | 2011-77-00-00.11 |
