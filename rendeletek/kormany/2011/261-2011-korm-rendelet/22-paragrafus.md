@@ -1,6 +1,6 @@
 ## 8. Fuvarlevél, menetlevél
 
-22. § (1)[^40] A díj ellenében közúti árutovábbítást végző tehergépjármű fuvarlevéllel, a díj ellenében személyszállítást végző autóbusz – közforgalmú menetrend szerinti személyszállítás kivételével – autóbusz-menetlevéllel vehet részt a forgalomban.
+22. § (1)[^42] A díj ellenében közúti árutovábbítást végző tehergépjármű fuvarlevéllel, a díj ellenében személyszállítást végző autóbusz – közforgalmú menetrend szerinti személyszállítás kivételével – autóbusz-menetlevéllel vehet részt a forgalomban.
 
 (2) Fuvarlevélként olyan okmány használható, amely legalább a következő adatokat tartalmazza:
 
@@ -10,7 +10,7 @@ b) az üzembentartó és a fuvaroztató megnevezése, címe,
 
 c) a jármű rendszáma és a gépjárművezető neve,
 
-d)[^41] az árura vonatkozó adatok: az áru tulajdonosa által kiállított szállítólevél (illetve az árura vonatkozó egyéb okmány) száma, az áru (a szállított anyag) megnevezése, mennyisége, a csomagolás módja, veszélyes árunál a Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Európai Megállapodás (a továbbiakban: ADR) szerinti adatok, továbbá a vontatott vagy szállított járműre vonatkozó adatok (a tulajdonos vagy üzemben tartó megnevezése, címe, a jármű rendszáma),
+d)[^43] az árura vonatkozó adatok: az áru tulajdonosa által kiállított szállítólevél (illetve az árura vonatkozó egyéb okmány) száma, az áru (a szállított anyag) megnevezése, mennyisége, a csomagolás módja, veszélyes árunál a Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Európai Megállapodás (a továbbiakban: ADR) szerinti adatok, továbbá a vontatott vagy szállított járműre vonatkozó adatok (a tulajdonos vagy üzemben tartó megnevezése, címe, a jármű rendszáma),
 
 e) a jármű kiállításának, valamint indulásának helye és ideje, a jármű útvonala, a megállások (fel- és lerakodás) és indulások helye és ideje, valamint az érkezés helye és ideje (a kilométeróra állásának és a – rakománnyal vagy rakomány nélkül – megtett kilométer-teljesítményeknek a feltüntetésével),
 
@@ -38,8 +38,8 @@ d) a jármű kiállításának, valamint indulásának a helye és ideje, a jár
 
 (7) A fuvarlevelet, illetve az autóbusz-menetlevelet az üzembentartó, vagy – írásbeli felhatalmazása alapján – a jármű vezetője állítja ki. A jármű vezetője köteles azt a szállítás során eseményszerűen vezetni, és aláírásával hitelesíteni. Közúti közlekedési szolgáltatás esetén a megrendelőnek, illetve a fuvaroztatónak az okmányon igazolnia kell az elvégzett teljesítményt, árufuvarozásnál az áru átvételét is.
 
-(8)[^42] A Magyarország területén székhellyel rendelkező gazdálkodó szervezet által végzett különjárati személyszállításnál az autóbuszban utazókról utaslistát kell készíteni. Az utaslista a menetlevél mellékletét képezi.
+(8)[^44] A Magyarország területén székhellyel rendelkező gazdálkodó szervezet által végzett különjárati személyszállításnál az autóbuszban utazókról utaslistát kell készíteni. Az utaslista a menetlevél mellékletét képezi.
 
-[^40]: A 22. § (1) bekezdése a 280/2013. (VII. 24.) Korm. rendelet 17. § (1) bekezdés c) pontja szerint módosított szöveg.
-[^41]: A 22. § (2) bekezdés d) pontja a 280/2013. (VII. 24.) Korm. rendelet 9. §-ával megállapított szöveg.
-[^42]: A 22. § (8) bekezdése a 228/2012. (VIII. 23.) Korm. rendelet 6. § (7) bekezdésével megállapított szöveg.
+[^42]: A 22. § (1) bekezdése a 280/2013. (VII. 24.) Korm. rendelet 17. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^43]: A 22. § (2) bekezdés d) pontja a 280/2013. (VII. 24.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^44]: A 22. § (8) bekezdése a 228/2012. (VIII. 23.) Korm. rendelet 6. § (7) bekezdésével megállapított szöveg.

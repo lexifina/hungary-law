@@ -2,9 +2,9 @@
 
 a) az 1072/2009/EK rendelet 4. cikke szerinti– nemzetközi közúti árufuvarozásra kiadott – közösségi engedéllyel (a továbbiakban: árutovábbítási közösségi engedély),
 
-b)[^20] a Nemzetközi Közlekedési Fórum által létrehozott engedéllyel (a továbbiakban: CEMT engedély), vagy
+b)[^21] a Nemzetközi Közlekedési Fórum által létrehozott engedéllyel (a továbbiakban: CEMT engedély), vagy
 
-c)[^21] a tehergépjárműre kettő vagy többoldalú nemzetközi egyezmény alapján kiadott engedéllyel
+c)[^22] a tehergépjárműre kettő vagy többoldalú nemzetközi egyezmény alapján kiadott engedéllyel
 
 végezhető.
 
@@ -22,8 +22,8 @@ c) kettő vagy többoldalú nemzetközi egyezmény alapján kiadott engedéllyel
 
 végezhető.
 
-(3)[^22] Az (1) bekezdésben meghatározott engedélynek a bemutatási kötelezettsége kiterjed a magyarországi felrakó vagy lerakóhelyekre is azzal, hogy annak tulajdonosa, üzemeltetője köteles vizsgálni az engedélyek meglétét, időbeli hatályát és az adott fuvarfeladatnak való megfelelést.
+(3)[^23] Az (1) bekezdésben meghatározott engedélynek a bemutatási kötelezettsége kiterjed a magyarországi felrakó vagy lerakóhelyekre is azzal, hogy annak tulajdonosa, üzemeltetője köteles vizsgálni az engedélyek meglétét, időbeli hatályát és az adott fuvarfeladatnak való megfelelést.
 
-[^20]: A 4. § (1) bekezdés b) pontja a 280/2013. (VII. 24.) Korm. rendelet 17. § (1) bekezdés j) pontja szerint módosított szöveg.
-[^21]: A 4. § (1) bekezdés c) pontja a 280/2013. (VII. 24.) Korm. rendelet 17. § (1) bekezdés e) pontja szerint módosított szöveg.
-[^22]: A 4. § (3) bekezdését a 280/2013. (VII. 24.) Korm. rendelet 6. §-a iktatta be.
+[^21]: A 4. § (1) bekezdés b) pontja a 280/2013. (VII. 24.) Korm. rendelet 17. § (1) bekezdés j) pontja szerint módosított szöveg.
+[^22]: A 4. § (1) bekezdés c) pontja a 280/2013. (VII. 24.) Korm. rendelet 17. § (1) bekezdés e) pontja szerint módosított szöveg.
+[^23]: A 4. § (3) bekezdését a 280/2013. (VII. 24.) Korm. rendelet 6. §-a iktatta be.

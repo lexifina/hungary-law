@@ -8,7 +8,7 @@
 
 (2) Magyarország területén székhellyel rendelkező gazdálkodó szervezetek részére a személyszállítási közösségi engedélyt, az 1073/2009/EK rendelet 6. cikkében foglaltak szerint kiadott engedélyt, valamint az 1073/2009/EK rendelet 2. cikkének 5. pontjában meghatározott saját számlás személyszállítási tevékenység végzéséhez szükséges igazolványt – kérelemre – a közlekedési hatóság adja ki.
 
-(3)[^46] A közlekedési hatóság
+(3)[^48] A közlekedési hatóság
 
 a) a személyszállítási közösségi engedélyt annak a gazdálkodó szervezetnek a részére adja ki, amelynek közúti személyszállítási engedélye,
 
@@ -20,7 +20,7 @@ van, és megfelel a 611/2012/EU bizottsági rendelettel módosított 1073/2009/E
 
 (5) Különcélú menetrend szerinti személyszállítást, valamint különjárati személyszállítást más tagállamban bejegyzett – személyszállítási közösségi engedéllyel rendelkező – gazdálkodó szervezet Magyarország területén belföldi forgalomban is végezhet.
 
-(6)[^47] A 13. § (2) bekezdésében meghatározott korlátozás nem vonatkozik az 1073/2009/EK rendelet 13. cikkében meghatározott esetre.
+(6)[^49] A 13. § (2) bekezdésében meghatározott korlátozás nem vonatkozik az 1073/2009/EK rendelet 13. cikkében meghatározott esetre.
 
-[^46]: A 27. § (3) bekezdés záró szövegrésze a 228/2012. (VIII. 23.) Korm. rendelet 6. § (15) bekezdése szerint módosított szöveg.
-[^47]: A 27. § (6) bekezdése a 228/2012. (VIII. 23.) Korm. rendelet 6. § (15) bekezdése szerint módosított szöveg.
+[^48]: A 27. § (3) bekezdés záró szövegrésze a 228/2012. (VIII. 23.) Korm. rendelet 6. § (15) bekezdése szerint módosított szöveg.
+[^49]: A 27. § (6) bekezdése a 228/2012. (VIII. 23.) Korm. rendelet 6. § (15) bekezdése szerint módosított szöveg.

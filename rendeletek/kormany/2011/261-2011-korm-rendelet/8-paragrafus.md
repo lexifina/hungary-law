@@ -2,7 +2,7 @@
 
 (2) A közlekedési hatóság a Magyarország területén székhellyel rendelkező gazdálkodó szervezet részére
 
-a)[^25] az – akár csak részben is – 3,5 tonnát meghaladó megengedett legnagyobb össztömegű tehergépjárművel díj ellenében végzett közúti árutovábbítási tevékenységre közúti árutovábbítási engedélyt,
+a)[^26] az – akár csak részben is – 3,5 tonnát meghaladó megengedett legnagyobb össztömegű tehergépjárművel díj ellenében végzett közúti árutovábbítási tevékenységre közúti árutovábbítási engedélyt,
 
 b) az autóbusszal díj ellenében végzett személyszállítási tevékenységre közúti személyszállítási engedélyt
 
@@ -14,4 +14,4 @@ ad ki.
 
 (5) A kiadott engedélyek, engedély-kivonatok másnak át nem adhatók.
 
-[^25]: A 8. § (2) bekezdés a) pontja a 280/2013. (VII. 24.) Korm. rendelet 17. § (1) bekezdés f) pontja szerint módosított szöveg.
+[^26]: A 8. § (2) bekezdés a) pontja a 280/2013. (VII. 24.) Korm. rendelet 17. § (1) bekezdés f) pontja szerint módosított szöveg.
