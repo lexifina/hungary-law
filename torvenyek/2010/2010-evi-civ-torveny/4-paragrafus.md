@@ -2,4 +2,4 @@
 
 (2) A sajtószabadság kiterjed az államtól, valamint bármely szervezettől és érdekcsoporttól való függetlenségre is.
 
-(3) A sajtószabadság gyakorlása nem valósíthat meg bűncselekményt vagy bűncselekmény elkövetésére való felhívást, nem sértheti a közerkölcsöt, valamint nem járhat mások személyhez fűződő jogainak sérelmével.
+(3) A sajtószabadság gyakorlása nem valósíthat meg bűncselekményt vagy bűncselekmény elkövetésére való felhívást, nem sértheti a közerkölcsöt, valamint nem járhat mások személyiségi jogainak sérelmével.
