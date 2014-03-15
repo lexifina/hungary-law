@@ -14,7 +14,7 @@
 
 6. eltérítés: kábítószernek vagy pszichotróp anyagnak, valamint új pszichoaktív anyagnak az engedélyezett forgalomból az engedély nélküli forgalomba történő átirányítása;
 
-7. engedélyes: e rendelet szerinti valamely engedéllyel rendelkező, a Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) 685. § c) pontja szerinti gazdálkodó szervezet;
+7.[^1] engedélyes: e rendelet szerinti valamely engedéllyel rendelkező, a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet.
 
 8. export: kábítószereknek és pszichotróp anyagoknak, valamint új pszichoaktív anyagoknak Magyarország területéről harmadik országba irányuló kivitele vagy kiléptetése;
 
@@ -22,7 +22,7 @@
 
 10. forgalmazás: a kábítószerek és pszichotróp anyagok, valamint új pszichoaktív anyagok anyagi ellenszolgáltatásért vagy anyagi ellenszolgáltatás nélkül történő továbbadása, értékesítése, kereskedelme, elosztása, ide nem értve az anyagok exportját, importját, transzferét és tranzitszállítását;
 
-11.[^1] gyártás: az előállításon kívül minden olyan művelet, amelynek eredményeként kábítószer, pszichotróp anyag, új pszichoaktív anyag vagy ezekből az anyagokból előállított készítmény jön létre, beleértve a csomagolást és átcsomagolást;
+11.[^2] gyártás: az előállításon kívül minden olyan művelet, amelynek eredményeként kábítószer, pszichotróp anyag, új pszichoaktív anyag vagy ezekből az anyagokból előállított készítmény jön létre, beleértve a csomagolást és átcsomagolást;
 
 12. gyógyászati célú tevékenység: a kábítószerekkel és pszichotróp anyagokkal végzett, a gyógyszerkutatást, -fejlesztést, a gyógyszerek forgalomba hozatali engedélyezési eljárását, valamint a gyógyszeres kezelés megvalósulását célzó, az adott tevékenység végzésére engedéllyel rendelkező által végzett tevékenység;
 
@@ -70,7 +70,8 @@
 
 34. új pszichoaktív anyag: az 1. melléklet C) jegyzékén szereplő anyag vagy vegyületcsoport.
 
-35.[^2] előállítás: az opioid alkaloidok elválasztása az azt szolgáltató máknövénytől, valamint a kannabisz, kannabisz gyanta elválasztása az azt szolgáltató kannabisz növénytől.
+35.[^3] előállítás: az opioid alkaloidok elválasztása az azt szolgáltató máknövénytől, valamint a kannabisz, kannabisz gyanta elválasztása az azt szolgáltató kannabisz növénytől.
 
-[^1]: Az 1. § 11. pontja a 137/2012. (VI. 29.) Korm. rendelet 81. § (1) bekezdésével megállapított szöveg.
-[^2]: Az 1. § 35. pontját a 137/2012. (VI. 29.) Korm. rendelet 81. § (2) bekezdése iktatta be.
+[^1]: Az 1. § 7. pontja a 13/2014. (I. 29.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § 11. pontja a 137/2012. (VI. 29.) Korm. rendelet 81. § (1) bekezdésével megállapított szöveg.
+[^3]: Az 1. § 35. pontját a 137/2012. (VI. 29.) Korm. rendelet 81. § (2) bekezdése iktatta be.

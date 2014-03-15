@@ -16,7 +16,7 @@ e) a kijelölni kívánt kábítószer-felelős és helyettese nevét.
 
 (2) A tevékenységi engedély iránti kérelemhez mellékelni kell:
 
-a)[^17] a (2a) bekezdés kivételével a gazdálkodó szervezet képviseletére jogosult személy közjegyzői aláírás-hitelesítéssel ellátott címpéldányát, és a kábítószer-felelősnek, valamint helyettesének a gazdálkodó szervezet képviseletére jogosult személy által igazolt aláírás-mintáját,
+a)[^18] a (2a) bekezdés kivételével a gazdálkodó szervezet képviseletére jogosult személy közjegyzői aláírás-hitelesítéssel ellátott címpéldányát, és a kábítószer-felelősnek, valamint helyettesének a gazdálkodó szervezet képviseletére jogosult személy által igazolt aláírás-mintáját,
 
 b) a kijelölni kívánt kábítószer-felelős és helyettese végzettségét igazoló oklevél hitelesített másolatát,
 
@@ -28,7 +28,7 @@ e) a d) pontban megjelölt tervrajzokhoz mellékletként annak leírását, hogy
 
 f) az 1. melléklet szerinti anyag- és a személyforgalom útjának leírását az érintett helyiségek, raktárak között.
 
-(2a)[^18] Ha a gazdálkodó szervezet cégjegyzékben nyilvántartott cég és a képviselőjének a közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy az ügyvéd által ellenjegyzett aláírás-mintáját a cégbírósághoz benyújtotta és ezt a tényt a cégjegyzék tartalmazza, az EEKH az iratot, valamint a cég cégkivonatát a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
+(2a)[^19] Ha a gazdálkodó szervezet cégjegyzékben nyilvántartott cég és a képviselőjének a közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy az ügyvéd által ellenjegyzett aláírás-mintáját a cégbírósághoz benyújtotta és ezt a tényt a cégjegyzék tartalmazza, az EEKH az iratot, valamint a cég cégkivonatát a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
 
 (3) Kábítószer-felelősnek és helyettesének csak orvosi, állatorvosi, gyógyszerészi, vegyész- vagy biológus-mérnöki, vegyészi, biológusi, vagy kémia, biológia szakos tanári, valamint a kábítószerek és pszichotróp anyagok előállítására alkalmas növények termesztése, és a velük kapcsolatos kutatási és oktatási tevékenység esetén agrármérnöki vagy kertészmérnöki szakképzettséggel rendelkező személy jelölhető ki.
 
@@ -38,5 +38,5 @@ f) az 1. melléklet szerinti anyag- és a személyforgalom útjának leírását
 
 (6) A kábítószer-felelős és helyettese köteles évente legalább egy alkalommal az engedélyező és ellenőrző hatóságok által rendezett, a kábítószerekre és pszichotróp anyagokra vonatkozó továbbképzésen részt venni.
 
-[^17]: A 6. § (2) bekezdés a) pontja a 355/2012. (XII. 13.) Korm. rendelet 48. § (1) bekezdésével megállapított szöveg.
-[^18]: A 6. § (2a) bekezdését a 355/2012. (XII. 13.) Korm. rendelet 48. § (2) bekezdése iktatta be.
+[^18]: A 6. § (2) bekezdés a) pontja a 355/2012. (XII. 13.) Korm. rendelet 48. § (1) bekezdésével megállapított szöveg.
+[^19]: A 6. § (2a) bekezdését a 355/2012. (XII. 13.) Korm. rendelet 48. § (2) bekezdése iktatta be.

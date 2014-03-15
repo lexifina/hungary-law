@@ -1,4 +1,4 @@
-3. melléklet a 66/2012. (IV. 2.) Korm. rendelethez[^46]
+3. melléklet a 66/2012. (IV. 2.) Korm. rendelethez[^47]
 
 ## Éves jelentés/becslés a pszichotróp anyagok gyártásáról, készletéről, forgalmazásáról
 
@@ -42,4 +42,4 @@ Pszichotróp anyag átalakítása más pszichotróp anyaggá (P3-P4)
 
 | az anyag neve | mennyisége | az anyag neve | mennyisége |
 
-[^46]: A 3. melléklet a 137/2012. (VI. 29.) Korm. rendelet 89. § (1) bekezdése szerint módosított szöveg.
+[^47]: A 3. melléklet a 137/2012. (VI. 29.) Korm. rendelet 89. § (1) bekezdése szerint módosított szöveg.

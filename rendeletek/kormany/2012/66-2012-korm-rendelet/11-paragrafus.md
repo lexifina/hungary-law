@@ -4,10 +4,10 @@
 
 11. § (1) Nem gyógyászati célú tevékenységi engedély kábítószer, pszichotróp anyag, valamint új pszichoaktív anyag gyártására, beszerzésére, raktározására, tartására, átadására, használatára és a velük kapcsolatos oktatásra, kutatásra, elemzésre bűnüldöző, rendvédelmi szervek, a Magyar Honvédség, valamint a kábítószer-vizsgáló laboratóriumok részére adható.
 
-(2)[^20]
+(2)[^21]
 
 (3) A tevékenységgel kapcsolatos feladatok ellátására az EEKH az engedély megadásával kábítószerért felelős személyt jelöl ki.
 
 (4) A nem gyógyászati célú tevékenységi engedély kiadására a 6–9. § rendelkezéseit kell alkalmazni.
 
-[^20]: A 11. § (2) bekezdését a 447/2012. (XII. 29.) Korm. rendelet 78. § (4) bekezdése hatályon kívül helyezte.
+[^21]: A 11. § (2) bekezdését a 447/2012. (XII. 29.) Korm. rendelet 78. § (4) bekezdése hatályon kívül helyezte.

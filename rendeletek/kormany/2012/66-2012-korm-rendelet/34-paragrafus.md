@@ -1,4 +1,4 @@
-## 32–33. §[^42]
+## 32–33. §[^43]
 
 ## 34. § Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
@@ -10,4 +10,4 @@ c) a Tanács 2010. december 2-i 2010/759/IB határozata (2010. december 2.) a 4-
 
 d) az Európai Parlament és a Tanács 2006/123/EK irányelve (2006. december 12.) a belső piaci szolgáltatásokról.
 
-[^42]: A 32–33. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^43]: A 32–33. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
