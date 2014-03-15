@@ -8,7 +8,7 @@
 
 1. anyavállalat: az Szmt.-ben meghatározott vállalkozás,
 
-2. ÁÉKBV: a Batv-ben meghatározott fogalom,
+2. ÁÉKBV: a Kbftv.-ben meghatározott fogalom,
 
 3. árjegyző: az a saját számlás kereskedést folytató befektetési vállalkozás, amely egy pénzügyi eszközre folyamatos vételi és eladási kötelezettséget vállal az általa meghatározott árakon,
 
@@ -20,7 +20,7 @@
 
 a) természetes személy azonosító adatai: természetes személyazonosító adatok, állampolgárság, lakcím, személyazonosság igazolására alkalmas hatósági igazolvány típusa és száma;
 
-b) jogi személy, jogi személyiséggel nem rendelkező jogalany azonosító adatai: név, rövidített név, székhely, külföldi székhelyű vállalkozás esetén magyarországi fióktelepének címe, cégjegyzékszám, a létrejöttéről (nyilvántartásba vételéről, bejegyzéséről) szóló határozat száma, nyilvántartási száma, képviseletre jogosultak neve és beosztása;
+b) vállalkozás azonosító adatai: név, rövidített név, székhely, külföldi székhelyű vállalkozás esetén magyarországi fióktelepének címe, cégjegyzékszám, a létrejöttéről (nyilvántartásba vételéről, bejegyzéséről) szóló határozat száma, nyilvántartási száma, képviseletre jogosultak neve és beosztása,
 
 7. befektetési hitel: pénzügyi eszköz vásárlásához nyújtott hitel, ha a hitelt nyújtó részt vesz az ügylet lebonyolításában,
 
@@ -90,7 +90,7 @@ c) olyan elszámolási rendszerrel rendelkezik, amely szerint a határidős ügy
 
 35. kiszervezés: olyan megállapodás egy befektetési vállalkozás és egy harmadik személy között, amelynek keretében e harmadik személy olyan tevékenységet végez, amelyet egyébként a befektetési vállalkozás maga végezne,
 
-36. kollektív befektetési forma: a Batv-ben meghatározott fogalom,
+36. kollektív befektetési forma: a Kbftv.-ben meghatározott fogalom,
 
 37. központi hitelinformációs rendszer: a központi hitelinformációs rendszerről szóló törvényben meghatározott rendszer (a továbbiakban: KHR),
 
@@ -112,7 +112,7 @@ c) olyan elszámolási rendszerrel rendelkezik, amely szerint a határidős ügy
 
 46. megbízás végrehajtása az ügyfél javára: pénzügyi eszköz vételére vagy eladására vonatkozó megállapodás megkötésére irányuló tevékenység végzése az ügyfél javára,
 
-47. függő ügynök (meghatalmazott): az a természetes személy, jogi személy vagy jogi személyiség nélküli gazdasági társaság, amely az általa képviselt befektetési vállalkozás teljes körű és feltétel nélküli felelősségére segíti elő a befektetési szolgáltatási tevékenység végzését vagy kiegészítő szolgáltatás nyújtását az ügyfél vagy a jövőbeni ügyfél számára,
+47. függő ügynök: az a természetes személy vagy jogi személy, amely az általa képviselt befektetési vállalkozás teljes körű és feltétel nélküli felelősségére segíti elő a befektetési szolgáltatási tevékenység végzését vagy kiegészítő szolgáltatás nyújtását az ügyfél vagy a jövőbeni ügyfél számára,
 
 48. miniszter: a pénz-, tőke és biztosítási piac szabályozásáért felelős miniszter,
 

@@ -40,7 +40,7 @@ szemben.
 
 a) a folyamatban lévő büntetőeljárás, a feljelentés kiegészítése keretében a nyomozó hatósággal és a feladatkörében eljáró ügyészséggel,
 
-b) büntető-, valamint hagyatékkal kapcsolatos polgári ügyben, továbbá csőd-, illetve felszámolási eljárás, valamint önkormányzati adósságrendezési eljárás keretében a bírósággal,
+b) büntető-, valamint hagyatékkal kapcsolatos polgári ügyben, továbbá csőd-, illetve felszámolási eljárás, kényszertörlési eljárás, valamint önkormányzati adósságrendezési eljárás keretében a bírósággal,
 
 c) az európai uniós támogatások felhasználásának szabályszerűségét ellenőrző Európai Csalásellenes Hivatallal (OLAF),
 

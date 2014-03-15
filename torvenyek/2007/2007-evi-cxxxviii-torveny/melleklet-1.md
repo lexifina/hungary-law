@@ -16,7 +16,7 @@
 
 8. Fttv.: a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló 2008. évi XLVII. törvény,
 
-9. Gt.: a gazdasági társaságokról szóló 2006. évi IV. törvény,
+9.
 
 10. Hpt.: a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény,
 
@@ -34,7 +34,7 @@
 
 17.
 
-18. Szmt.: a számvitelről szóló 2000. évi C. törvény,
+18.
 
 19. Sztv.: a szövetkezetekről szóló 2006. évi X. törvény,
 
@@ -46,4 +46,4 @@
 
 22. Bnytv.: a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény,
 
-23. Batv.: a befektetési alapkezelőkről és a kollektív befektetési formákról szóló 2011. évi CXCIII. törvény.
+23. Kbftv.: a kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény

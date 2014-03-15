@@ -10,7 +10,9 @@ a) a befektetési szolgáltatási tevékenység végzésének, a kiegészítő s
 
 b) a befektetési szolgáltatási tevékenységet végző, a kiegészítő szolgáltatást nyújtó és az árutőzsdei szolgáltató üzletszabályzatának, valamint a befektetési szolgáltatási tevékenység, a kiegészítő szolgáltatás, illetőleg az árutőzsdei szolgáltatás keretében kötött szerződések kötelező tartalmi elemeit,
 
-c)–d)
+c) a pénzügyi eszközök, továbbá egyes értékpapírok körében a zálogjog érvényesítésének a kielégítési jog közvetlen gyakorlására, továbbá bírósági végrehajtáson kívüli értékesítésre vonatkozó eljárás részletes szabályait,
+
+d)
 
 e) a kamatlábkockázat kezelésére alkalmazott rendszerre vonatkozó szabályokat,
 
