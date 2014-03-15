@@ -14,11 +14,11 @@ d) a számítógépi programalkotáson és a hozzá tartozó dokumentáción, a 
 
 e) az a)–d) pontok szerinti jogokkal kapcsolatos szerzőségi, igényjogosultsági és díjazási eljárások;
 
-f) a Polgári Törvénykönyv által védett és külön jogszabályok hatálya alá nem tartozó, társadalmilag széles körben felhasználható és közkinccsé nem vált szellemi alkotásokkal kapcsolatos eljárások;
+f)
 
-g) a személyeket a vagyoni értékű gazdasági, műszaki és szervezési ismereteik és tapasztalataik (know-how) tekintetében megillető védelemmel kapcsolatos eljárások; valamint
+g) a személyeket vagyoni értékű műszaki, gazdasági vagy szervezési ismereteik és tapasztalataik vagy ezek összeállítása (know-how) tekintetében a Polgári Törvénykönyv 2:47. §-a alapján megillető védelemmel kapcsolatos eljárások; valamint
 
-h) a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló törvény alapján a tisztességtelen verseny tilalmának és a fogyasztói döntések tisztességtelen befolyásolása tilalmának megsértése miatt indított eljárások, feltéve, hogy azok találmányokkal vagy egyéb műszaki megoldásokkal, formatervezési mintákkal, növényfajtákkal, számítógépi programalkotásokkal és az ezekhez tartozó dokumentációval, iparművészeti és ipari tervezőművészeti alkotásokkal, műszaki létesítmények terveivel, társadalmilag széles körben felhasználható és közkinccsé nem vált szellemi alkotásokkal, gazdasági, műszaki és szervezési ismeretekkel és tapasztalatokkal (know-how) vagy üzleti titokkal, illetve áruk és szolgáltatások jellegzetes külsejével, csomagolásával, megjelölésével vagy elnevezésével, illetve gazdasági tevékenység során használt névvel, megjelöléssel vagy árujelzővel kapcsolatosak.
+h) a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló törvény alapján a tisztességtelen verseny tilalmának és az üzleti döntések tisztességtelen befolyásolása tilalmának megsértése miatt indított eljárások, feltéve hogy azok találmánnyal vagy egyéb műszaki megoldással, formatervezési mintával, növényfajtával, számítógépi programalkotással és az ezekhez tartozó dokumentációval, iparművészeti és ipari tervezőművészeti alkotással, műszaki létesítmény terveivel, üzleti titokkal – ideértve a Polgári Törvénykönyv 2:47. §-ának (2) bekezdése szerinti védelem alatt álló műszaki, gazdasági vagy szervezési ismereteket és tapasztalatokat (know-how) is –, áru és szolgáltatás jellegzetes külsejével, csomagolásával, megjelölésével vagy elnevezésével, illetve gazdasági tevékenység során használt névvel, megjelöléssel vagy árujelzővel kapcsolatosak.
 
 (3) A (2) bekezdés alkalmazásában szabadalmon a kiegészítő oltalmat is érteni kell.
 

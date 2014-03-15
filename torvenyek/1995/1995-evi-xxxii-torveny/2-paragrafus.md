@@ -24,7 +24,7 @@ a) aki a szabadalmi ügyvivői foglalkozástól való eltiltás hatálya alatt �
 
 b) aki a Kamarából kizárás fegyelmi büntetés hatálya alatt áll,
 
-c) aki cselekvőképességet korlátozó vagy kizáró gondnokság hatálya alatt áll,
+c) aki cselekvőképességet érintő gondnokság vagy támogatott döntéshozatal hatálya alatt áll,
 
 d) aki iparjogvédelmi ügyekben eljáró hatóságnál vagy bíróságnál működik,
 

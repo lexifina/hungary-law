@@ -14,7 +14,7 @@ e) kamarai tagdíjfizetési kötelezettségének felszólítás ellenére sem te
 
 f) magyar állampolgársága, valamely EGT-állam állampolgársága, letelepedett vagy bevándorolt státusza megszűnik;
 
-g) cselekvőképességét korlátozó vagy kizáró gondnokság alá helyezik;
+g) cselekvőképességét érintő gondnokság vagy támogatott döntéshozatal hatálya alá helyezik;
 
 h) működését iparjogvédelmi ügyekben eljáró hatóságnál vagy bíróságnál folytatja;
 
