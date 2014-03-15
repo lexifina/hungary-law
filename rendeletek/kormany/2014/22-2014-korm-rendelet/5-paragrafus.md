@@ -1,3 +1,1 @@
-## 4. §[^2]
-
-[^2]: A 4. § a 10. § (2) bekezdése alapján 2014. március 15-én lép hatályba.
+## 4. § A büntetőeljárásban résztvevők, valamint az eljárást folytató hatóság tagjai személyi védelme elrendelésének feltételeiről és végrehajtásának szabályairól szóló 34/1999. (II. 26.) Korm. rendelet 6. § (2) bekezdésében és 18. § (1) bekezdés c) pontjában a „korlátozottan cselekvőképes” szövegrész helyébe a „bármely ügycsoportban korlátozott nagykorú” szöveg lép.
