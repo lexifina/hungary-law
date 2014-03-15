@@ -4,9 +4,13 @@
 
 2. esztétikai helyreállítás: a restaurálás körébe tartozó azon hozzátételek, kiegészítések vagy egyéb beavatkozások összessége, amelyek célja az értékek érvényre juttatása, értelmezhetővé, bemutathatóvá tétele;
 
+2a.[^3] épületdiagnosztika: olyan roncsolásmentes vagy fizikai beavatkozással járó vizsgálat, különösen a faldiagnosztika, amely a tartószerkezetek műszaki állapotának – elsősorban a nedvesség és sószennyezés, a szilárdság – és anyagszerkezeti tulajdonságainak felderítésére, elemzésére és értékelésére szolgál;
+
+2b.[^4] épületkutatás: a tudományos elődokumentáció módszereivel nem megismerhető, fizikai beavatkozással is járó komplex vizsgálat: különösen az épületszerkezetek feltárása és elemzése, falkutatás; célja az építési periódusok és azok egymáshoz való viszonyának, a kutatott műemlék rejtett értékeinek megismerése és datálása, a kutatott műemlék használatának, funkciójának tisztázása, tudományos igényű dokumentálása; a falkutatás irányulhat falazat, padló, födém vagy egyéb épületszerkezet kutatására is;
+
 3. értékleltár: a régészeti örökség és a műemléki érték védelmével kapcsolatos szabályokról szóló 393/2012. (XII. 20.) Korm. rendelet (a továbbiakban: Övr.) 2. melléklet 4. pontjában meghatározott tartalmú dokumentum;
 
-4. falkutatás: a tudományos elődokumentáció módszereivel nem megismerhető, fizikai beavatkozással járó vizsgálat: különösen a szerkezetek, szintviszonyok, térosztás, falszövet, a tartó-, burkoló- és díszítőelemek, a tartozékok, festés- és vakolatrétegek feltárása és elemzése; az építési periódusok és azok egymáshoz való viszonyának, a kutatott objektum rejtett értékeinek megismerése és datálása, a kutatott objektum használatának, funkciójának tisztázása, tudományos igényű dokumentálása;
+4.[^5]
 
 5. konzerválás: a restaurálás körébe tartozó azon beavatkozások összessége, amelyek célja az alkotóelemek és anyag-, valamint az eszmei értéket adó jellegzetességek megőrzése: a károsodási folyamatok megállítása, az állapot stabilizálása, a szerkezet megerősítése, a tárgyhoz nem tartozó, azt károsító dolgok, szennyeződések eltávolítása;
 
@@ -25,3 +29,7 @@
 12. tagállam: a külföldi bizonyítványok és oklevelek elismeréséről szóló törvény szerinti állam;
 
 13. tudományos elődokumentáció: az Övr. 2. melléklet 1–6. pontjában meghatározottak összessége; többszintű megismerési folyamat eredménye, a műemléki érték engedélyhez nem kötött vizsgálatára, leltárba vételére, elemzésére, dokumentálására, a hozzá kapcsolódó források és szakirodalmi megállapítások feltárására, a műemléki érték történeti összefüggésbe helyezésére, valamint azon információk összegyűjtésére terjed ki, amelyek alapján meghatározhatók a műemléki érték megőrzését és érvényre juttatását biztosító beavatkozások és korlátozó tényezők.
+
+[^3]: A 2. § 2a. pontját a 62/2014. (III. 6.) Korm. rendelet 50. §-a iktatta be.
+[^4]: A 2. § 2b. pontját a 62/2014. (III. 6.) Korm. rendelet 50. §-a iktatta be.
+[^5]: A 2. § 4. pontját a 62/2014. (III. 6.) Korm. rendelet 57. §-a hatályon kívül helyezte.

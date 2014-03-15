@@ -1,10 +1,10 @@
-## 14–19. §[^1]
+## 15–19. §[^26]
 
-1. melléklet a 439/2013. (XI. 20.) Korm. rendelethez
+1. melléklet a 439/2013. (XI. 20.) Korm. rendelethez[^27]
 
 1. Régészeti területre vonatkozó számítási módszer a szakmai gyakorlat igazolására
 
-Egy tevékenységtípusba tartozik az 1–2., a 3–4. és az 5–7. sor szerinti tevékenység. A szakértői jogosultság megszerzéséhez legalább két tevékenységtípusból kell pontot gyűjteni.
+Egy tevékenységtípusba tartozik az 2–3., a 4–5. és az 6–8. sor szerinti tevékenység. A szakértői jogosultság megszerzéséhez legalább két tevékenységtípusból kell pontot gyűjteni.
 
 |  | A | B |
 
@@ -60,25 +60,25 @@ Egy tevékenységtípusba tartozik az 1–2., a 3–4. és az 5–7. sor szerint
 
 | 16. | Tudományos fokozat megszerzése műemlékvédelmi tárgyú doktori értekezéssel | 5 pont |
 
-3. Műemléki területen műemléki falkutatás szakterületre vonatkozó számítási módszer a szakmai gyakorlat igazolására
+3. Műemléki területen műemléki épületkutatás szakterületre vonatkozó számítási módszer a szakmai gyakorlat igazolására
 
 |  | A | B |
 
 | 1. | Tevékenység | Pontszám |
 
-| 2. | 1 db 1850 előtti műemlék lakóépület teljes körű, önálló falkutatása | 7 pont |
+| 2. | 1 db 1850 előtti műemlék lakóépület teljes körű, önálló épületkutatása | 7 pont |
 
-| 3. | 1 db 1850 előtti műemlék lakóépület részleges, önálló falkutatása | 5 pont |
+| 3. | 1 db 1850 előtti műemlék lakóépület részleges, önálló épületkutatása | 5 pont |
 
-| 4. | 1 db műemlék teljes körű, önálló falkutatása | 5 pont |
+| 4. | 1 db műemlék teljes körű, önálló épületkutatása | 5 pont |
 
-| 5. | 1 db szakrális műemlék teljes körű, önálló falkutatása | 6 pont |
+| 5. | 1 db szakrális műemlék teljes körű, önálló épületkutatása | 6 pont |
 
-| 6. | 1 db műemlék részleges, önálló falkutatása | 4 pont |
+| 6. | 1 db műemlék részleges, önálló épületkutatása | 4 pont |
 
-| 7. | 1 db műemlék teljes körű falkutatásában való részvétel munkatársként | 4 pont |
+| 7. | 1 db műemlék teljes körű épületkutatásában való részvétel munkatársként | 4 pont |
 
-| 8. | 1 db műemlék részleges falkutatásában való részvétel munkatársként (legfeljebb 10 pontig vehető figyelembe) | 2 pont |
+| 8. | 1 db műemlék részleges épületkutatásában való részvétel munkatársként (legfeljebb 10 pontig vehető figyelembe) | 2 pont |
 
 4. Műemléki területen műemléki restaurátori szakterületre vonatkozó számítási módszer a szakmai gyakorlat igazolására
 
@@ -96,7 +96,7 @@ Egy tevékenységtípusba tartozik az 1–2., a 3–4. és az 5–7. sor szerint
 
 5. Műemléki területen történeti kertek szakterületre vonatkozó számítási módszer a szakmai gyakorlat igazolására
 
-Egy tevékenységtípusból legfeljebb 15 pont vehető figyelembe. Egy tevékenységtípusba tartozik az 1–2., a 3–4., az 5–6., a 7–8., a 9., a 10. és a 11–12. sor szerinti tevékenység.
+Egy tevékenységtípusból legfeljebb 15 pont vehető figyelembe. Egy tevékenységtípusba tartozik az 2–3., a 4–5., az 6–7., a 8–7., a 10., a 11. és a 12–13. sor szerinti tevékenység.
 
 |  | A | B |
 
@@ -126,20 +126,21 @@ Egy tevékenységtípusból legfeljebb 15 pont vehető figyelembe. Egy tevékeny
 
 | 13. | 1 védett történeti kert vagy egyéb műemléki védelem alatt álló kert helyreállítási tervének elkészítésében való közreműködés munkatársként | 2 pont |
 
-6. Műemléki területen műemléki faldiagnosztika szakterületre vonatkozó számítási módszer a szakmai gyakorlat igazolására
+6. Műemléki területen műemléki épületdiagnosztika szakterületre vonatkozó számítási módszer a szakmai gyakorlat igazolására
 
-Egy tevékenységtípusból legfeljebb 20 pont vehető figyelembe. Egy tevékenységtípusba tartozik az 1–2. és a 3–4. sor szerinti tevékenység.
+Egy tevékenységtípusból legfeljebb 20 pont vehető figyelembe. Egy tevékenységtípusba tartozik az 2–3. és a 4–5. sor szerinti tevékenység.
 
 |  | A | B |
 
 | 1. | Tevékenység | Pontszám |
 
-| 2. | 1 db műemléki védelem alatt álló épület faldiagnosztikai szakvéleményének önálló elkészítése | 5 pont |
+| 2. | 1 db műemléki védelem alatt álló épület épületdiagnosztikai szakvéleményének önálló elkészítése | 5 pont |
 
-| 3. | 1 db műemléki védelem alatt álló épület faldiagnosztikai szakvéleményének munkatársként való elkészítése | 2 pont |
+| 3. | 1 db műemléki védelem alatt álló épület épületdiagnosztikai szakvéleményének munkatársként való elkészítése | 2 pont |
 
 | 4. | 1 db műemléki védelem alatt álló épület komplex talajnedvesség elleni védelme tervének önálló elkészítése | 4 pont |
 
 | 5. | 1 db műemléki védelem alatt álló épület komplex talajnedvesség elleni védelme tervének elkészítésében munkatársként való közreműködés | 3 pont |
 
-[^1]: A 14–19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^26]: A 15–19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^27]: Az 1. melléklet a 62/2014. (III. 6.) Korm. rendelet 56. § g)–n) pontja szerint módosított szöveg.

@@ -14,7 +14,7 @@ e) okleveles építőművész és műemlékvédelmi szakmérnöki
 
 szakképzettség szükséges.
 
-(2) Műemléki terület műemléki falkutatás szakterületen a szakértői tevékenység végzéséhez mesterfokozat vagy azzal egyenértékű végzettség és
+(2)[^13] Műemléki terület műemléki épületkutatás szakterületen a szakértői tevékenység végzéséhez mesterfokozat vagy azzal egyenértékű végzettség és
 
 a) okleveles művészettörténész,
 
@@ -38,10 +38,13 @@ b) okleveles tájépítész és kertművész (MA diploma)
 
 szakképzettség szükséges.
 
-(5) Műemléki terület műemléki faldiagnosztika szakterületen a szakértői tevékenység végzéséhez mesterfokozat vagy azzal egyenértékű végzettség és okleveles építőmérnök, okleveles szerkezet-építőmérnök vagy okleveles építészmérnök szakképzettség szükséges.
+(5)[^14] Műemléki terület műemléki épületdiagnosztika szakterületen a szakértői tevékenység végzéséhez mesterfokozat vagy azzal egyenértékű végzettség és okleveles építőmérnök, okleveles szerkezet-építőmérnök vagy okleveles építészmérnök szakképzettség szükséges.
 
 (6) Műemléki terület orgonahangszer-helyreállítás szakterületen a szakértői tevékenység végzéséhez
 
 a) hangszerész – orgonaépítő és -javító vagy
 
 b) hangszerkészítő és -javító (orgona)
+
+[^13]: A 7. § (2) bekezdés nyitó szövegrésze a 62/2014. (III. 6.) Korm. rendelet 56. § a) pontja szerint módosított szöveg.
+[^14]: A 7. § (5) bekezdése a 62/2014. (III. 6.) Korm. rendelet 56. § b) pontja szerint módosított szöveg.

@@ -8,42 +8,60 @@ b) a régészeti örökség felkutatásával, értékelésével, számbavételé
 
 (2) Szakértői tevékenységnek minősül a műemléki területen
 
-a) műemléki érték dokumentálása szakterületen
+a)[^6] műemléki érték dokumentálása szakterületen
 
-aa) a műemléki érték dokumentálása: tudományos elődokumentáció (kivéve az orgonahangszer-helyreállítási szakterület vonatkozásában meghatározott tevékenységek), értékleltár, műemléki revízió, inventarizáció, védetté nyilvánítási dokumentáció elkészítésében való részvétel,
+aa) a műemléki érték dokumentálása: tudományos elődokumentáció (kivéve az orgonahangszer- helyreállítási szakterület vonatkozásában meghatározott tevékenységek), értékleltár, alakhű építészeti felmérés, műemléki revízió, inventarizáció, védetté nyilvánítási dokumentáció elkészítésében való részvétel,
 
-ab) a műemléki értéket érintő tevékenységeket előkészítő tanulmányok készítése: hatástanulmány készítése, műemlék vagy műemléki terület kezelési tervének készítése,
+ab) a védett műemléki értéket érintő tevékenységeket, pályázatokat előkészítő tanulmányok készítése: megvalósíthatósági tanulmány, hatástanulmány készítése, műemlék vagy műemléki terület kezelési tervének készítése,
 
-ac) a műemléket érintő közigazgatási hatósági ügyekben szakértőként való közreműködés, műemléket érintő, engedélyhez kötött tevékenység – megvalósítás során történő, jogkövetkezménnyel járó – véleményezése;
+ac) a védett műemléket érintő közigazgatási hatósági ügyekben szakértőként való közreműködés, műemléket érintő tevékenység – megvalósítás során történő, jogkövetkezménnyel járó – véleményezése,
 
-b) műemléki falkutatás szakterületen
+ad) a védett műemléket érintő pályázatok műemlékvédelmi szempontból történő elbírálása és minősítése,
 
-ba) a műemlék falkutatása,
+ae) az építésügyi és az építésüggyel összefüggő szakmagyakorlási tevékenységekről szóló kormányrendeletben meghatározottak szerint a műemléket érintő tevékenység tervezési programjának összeállításában való részvétel, a tervezéssel kapcsolatos műemlékvédelmi szakkérdések tekintetében;
 
-bb) a műemléken végzett tevékenység kutatói megfigyelése;
+b)[^7] műemléki épületkutatás szakterületen
 
-c) műemléki restaurátor szakterületen
+ba) a műemlék épületkutatása,
 
-ca) a műemlék fizikai beavatkozással, mintavétellel, roncsolással járó restaurátori vizsgálata, kutatása,
+bb) a műemléken végzett tevékenység kutatói megfigyelése,
 
-cb) a műemléken végzett konzerválás,
+bc) a műemléken végzett épületkutatást érintő közigazgatási hatósági ügyekben szakértőként való közreműködés, a műemléken végzett épületkutatás – megvalósítás során történő, jogkövetkezménnyel járó – véleményezése;
 
-cc) a műemléken végzett esztétikai helyreállítás,
+c)[^8] műemléki restaurátor szakterületen
 
-cd) a műemléken végzett restaurálást érintő közigazgatási hatósági ügyekben szakértőként való közreműködés, a műemléken végzett restaurálást érintő, engedélyhez kötött tevékenység – megvalósítás során történő, jogkövetkezménnyel járó – véleményezése;
+ca) a védett műemléki érték fizikai beavatkozással, mintavétellel, roncsolással járó restaurátori vizsgálata, kutatása,
 
-d) történeti kertek szakterületen
+cb) a védett műemléki értéken végzett konzerválás,
 
-da) a történeti kert inventarizációja,
+cc) a védett műemléki értéken végzett esztétikai helyreállítás,
 
-db) a történeti kert felmérése,
+cd) a védett műemléki értéken végzett restaurálást érintő közigazgatási hatósági ügyekben szakértőként való közreműködés, a védett műemléki értéken végzett restaurálást érintő tevékenység – megvalósítás során történő, jogkövetkezménnyel járó – véleményezése;
 
-dc) a történeti kert kezelési tervének készítése,
+d)[^9] történeti kertek szakterületen a történeti kertként vagy műemlékként védett történeti kert, történeti táj esetében
 
-dd) a történeti kert védetté nyilvánítási dokumentációjának elkészítésében való részvétel,
+da) inventarizáció,
 
-de) a történeti kertet érintő közigazgatási hatósági ügyekben szakértőként való közreműködés, a történeti kertet érintő, engedélyhez kötött tevékenység – megvalósítás során történő, jogkövetkezménnyel járó – véleményezése;
+db) felmérés,
 
-e) műemléki faldiagnosztika szakterületen: a műemlék épületek műszaki (faldiagnosztikai) vizsgálata;
+dc) kezelési terv készítése,
+
+dd) védetté nyilvánítási dokumentáció elkészítésében való részvétel,
+
+de) közigazgatási hatósági ügyekben szakértőként való közreműködés, engedélyhez kötött tevékenység – megvalósítás során történő, jogkövetkezménnyel járó – véleményezése;
+
+df) a történeti kert kertrégészeti kutatása;
+
+e)[^10] műemléki épületdiagnosztika szakterületen:
+
+ea) a műemlék épületek műszaki, faldiagnosztikai vizsgálata,
+
+eb) műemlék állapotának szakértői felülvizsgálata;
 
 f) orgonahangszer-helyreállítási szakterületen – az orgonaházat érintő tevékenységek kivételével – műemlék épületben orgona elhelyezése, bontása, helyreállítása, átalakítása, valamint e tevékenységek örökségvédelmi engedélyezése iránti kérelem mellékletét képező dokumentáció készítése.
+
+[^6]: A 4. § (2) bekezdés a) pontja a 62/2014. (III. 6.) Korm. rendelet 51. §-ával megállapított szöveg.
+[^7]: A 4. § (2) bekezdés b) pontja a 62/2014. (III. 6.) Korm. rendelet 51. §-ával megállapított szöveg.
+[^8]: A 4. § (2) bekezdés c) pontja a 62/2014. (III. 6.) Korm. rendelet 51. §-ával megállapított szöveg.
+[^9]: A 4. § (2) bekezdés d) pontja a 62/2014. (III. 6.) Korm. rendelet 51. §-ával megállapított szöveg.
+[^10]: A 4. § (2) bekezdés e) pontja a 62/2014. (III. 6.) Korm. rendelet 51. §-ával megállapított szöveg.
