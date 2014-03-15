@@ -50,7 +50,7 @@
 
 | 6.1.1. | A fogyasztó írásban indokolás nélkül elállhat a szerződéstől – ideértve az előszerződést is – annak a) megkötésének napjától, vagy b) – ha az későbbi – annak kézhezvételének napjától számított tizennégy napon belül (a továbbiakban: elállási jog). Ha a csereszerződésre a szállás időben megosztott használati jogára vonatkozó szerződéssel együtt és azzal egy időben tesznek ajánlatot, mindkét szerződésre ugyanaz az elállási határidő vonatkozik. |
 
-| 6.1.2. | A vállalkozás a fogyasztó számára az elállásra nyitva álló határidő lejárta előtt a fogyasztótól fizetést semmilyen jogcímen nem követelhet és nem fogadhat el. A tilalom kiterjed minden olyan fizetésre és kötelezettségvállalásra, amelyet a fogyasztó bármilyen jogcímen a vállalkozás javára harmadik személy részére teljesít. |
+| 6.1.2. | A vállalkozás a fogyasztó számára az elállásra nyitva álló határidő lejárta előtt a fogyasztótól fizetést vagy kötelezettségvállalást, így különösen előleget, biztosítékot, számlán lévő pénz zárolását, kifejezett tartozás-elismerést semmilyen jogcímen nem követelhet és nem fogadhat el. A tilalom kiterjed minden olyan fizetésre és kötelezettségvállalásra, amelyet a fogyasztó a csereszerződéssel kapcsolatban bármilyen jogcímen harmadik személy részére teljesít. |
 
 | 6.2. | A fogyasztó nem kötelezhető a szerződésben meghatározottakon túl költségek viselésére. |
 

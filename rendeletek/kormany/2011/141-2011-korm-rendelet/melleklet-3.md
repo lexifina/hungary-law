@@ -20,7 +20,7 @@
 
 | 3. | Az ellenérték |
 
-| 3.1. | A jogok megszerzéséért fizetendő ellenérték |
+| 3.1. | A jogok megszerzéséért egy összegben vagy időszakonként visszatérően járó, illetve rendszeresen fizetendő ellenérték, ideértve a kapcsolódó szolgáltatásokhoz való hozzájutásért teljesítendő ellenértéket is. |
 
 | 3.2. | Részletfizetés esetén az ütemezés, feltüntetve az éves részleteket és azok esedékességének időpontját |
 
@@ -52,7 +52,7 @@
 
 | 6.1.1. | A fogyasztó írásban indokolás nélkül elállhat a szerződéstől – ideértve az előszerződést is – annak a) megkötése napjától, vagy b) ha az későbbi időpontban történik, annak kézhezvétele napjától számított tizennégy napon belül (a továbbiakban: elállási jog). |
 
-| 6.1.2. | A vállalkozás a fogyasztó számára az elállásra nyitva álló határidő lejárta előtt a fogyasztótól fizetést semmilyen jogcímen nem követelhet és nem fogadhat el. A tilalom kiterjed minden olyan fizetésre és kötelezettségvállalásra, amelyet a fogyasztó bármilyen jogcímen a vállalkozás javára harmadik személy részére teljesít. |
+| 6.1.2. | A vállalkozás a fogyasztó számára az elállásra nyitva álló határidő lejárta előtt a fogyasztótól fizetést vagy kötelezettségvállalást, így különösen előleget, biztosítékot, számlán lévő pénz zárolását, kifejezett tartozás-elismerést, semmilyen jogcímen nem követelhet és nem fogadhat el. A tilalom kiterjed minden olyan fizetésre és kötelezettségvállalásra, amelyet a fogyasztó a hosszú távra szóló üdülési termékekre vonatkozó szerződéssel kapcsolatban bármilyen jogcímen harmadik személy részére teljesít. |
 
 | 6.1.3. | A fogyasztót az éves részlet megfizetésére vonatkozó fizetési felszólítás kézhezvételétől számított tizennégy naptári napon belül indokolás nélkül elállhat a szerződéstől. |
 
@@ -84,4 +84,6 @@
 
 ## Az egyéni vállalkozók esetében az egyéni vállalkozók nyilvántartásában szereplő családi és utónév.
 
-3. melléklet a 141/2011. (VII. 21.) Korm. rendelethez
+3. melléklet a 141/2011. (VII. 21.) Korm. rendelethez[^10]
+
+[^10]: A 3. melléklet a 44/2014. (II. 25.) Korm. rendelet 4. § (3) bekezdése szerint módosított szöveg.

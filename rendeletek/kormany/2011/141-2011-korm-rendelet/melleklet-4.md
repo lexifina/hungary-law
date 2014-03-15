@@ -32,7 +32,7 @@
 
 | 5.1.1. | A fogyasztó írásban indokolás nélkül elállhat a szerződéstől – ideértve az előszerződést is – annak a) megkötése napjától, vagy b) ha az későbbi időpontban történik, annak kézhezvétele napjától számított tizennégy napon belül (a továbbiakban: elállási jog). |
 
-| 5.1.2. | A vállalkozás a fogyasztó számára az elállásra nyitva álló határidő lejárta előtt a fogyasztótól fizetést semmilyen jogcímen nem követelhet és nem fogadhat el. A tilalom kiterjed minden olyan fizetésre és kötelezettségvállalásra, amelyet a fogyasztó bármilyen jogcímen a vállalkozás javára harmadik személy részére teljesít. |
+| 5.1.2. | A fogyasztóval viszontértékesítési szerződést kötő vállalkozás a viszontértékesítési szerződés tárgyát képező szerződés megkötéséig vagy a viszontértékesítési szerződés egyéb okból történő megszűnéséig a fogyasztótól fizetést vagy kötelezettségvállalást, így különösen előleget, biztosítékot, számlán lévő pénz zárolását, kifejezett tartozás-elismerést, semmilyen jogcímen nem követelhet, és nem fogadhat el. A tilalom kiterjed minden olyan fizetésre és kötelezettségvállalásra, amelyet a fogyasztó bármilyen jogcímen a viszontértékesítési szerződéssel kapcsolatban harmadik személy részére teljesít. |
 
 | 5.2. | A fogyasztó nem kötelezhető a szerződésben meghatározottakon túl költségek viselésére. |
 
@@ -56,4 +56,6 @@
 
 ## Az egyéni vállalkozók esetében az egyéni vállalkozók nyilvántartásában szereplő családi és utónév.
 
-4. melléklet a 141/2011. (VII. 21.) Korm. rendelethez
+4. melléklet a 141/2011. (VII. 21.) Korm. rendelethez[^11]
+
+[^11]: A 4. melléklet a 44/2014. (II. 25.) Korm. rendelet 4. § (4) bekezdése szerint módosított szöveg.

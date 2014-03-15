@@ -20,6 +20,6 @@ f) az ingatlan címét, és ha van, helyrajzi számát, továbbá
 
 g) ingatlannak nem minősülő szállás esetében annak azonosítására szolgáló adatát.
 
-(2)[^1] A Magyar Kereskedelmi Engedélyezési Hivatal (a továbbiakban: Hivatal) által a tartós szálláshasználati szolgáltatást nyújtókról vezetett nyilvántartás (a továbbiakban: nyilvántartás) a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott adatokon túl tartalmazza az (1) bekezdés a)–c) és e)–g) pontjában meghatározott adatokat. A nyilvántartás az (1) bekezdés a), c) és e)–g) pontjában meghatározott adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
+(2)[^6] A Magyar Kereskedelmi Engedélyezési Hivatal (a továbbiakban: Hivatal) által a tartós szálláshasználati szolgáltatást nyújtókról vezetett nyilvántartás (a továbbiakban: nyilvántartás) a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott adatokon túl tartalmazza az (1) bekezdés a)–c) és e)–g) pontjában meghatározott adatokat. A nyilvántartás az (1) bekezdés a), c) és e)–g) pontjában meghatározott adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
-[^1]: A 29. § (2) bekezdése a 203/2013. (VI. 14.) Korm. rendelet 27. §-ával megállapított szöveg.
+[^6]: A 29. § (2) bekezdése a 203/2013. (VI. 14.) Korm. rendelet 27. §-ával megállapított szöveg.

@@ -2,7 +2,7 @@
 
 | 1. | A vállalkozás(ok)ra vonatkozó információk |
 
-| 1.1. | A vállalkozás neve1 |
+| 1.1. | A vállalkozás neve9 |
 
 | 1.2. | Székhelye |
 
@@ -70,7 +70,7 @@
 
 | 7.1.1. | A fogyasztó írásban indokolás nélkül elállhat a szerződéstől – ideértve az előszerződést is – annak a) megkötése napjától, vagy b) ha az későbbi időpontban történik, annak kézhezvétele napjától számított tizennégy napon belül (a továbbiakban: elállási jog). |
 
-| 7.1.2. | A vállalkozás a fogyasztó számára az elállásra nyitva álló határidő lejárta előtt a fogyasztótól fizetést semmilyen jogcímen nem követelhet és nem fogadhat el. A tilalom kiterjed minden olyan fizetésre és kötelezettségvállalásra, amelyet a fogyasztó bármilyen jogcímen a vállalkozás javára harmadik személy részére teljesít. |
+| 7.1.2. | A vállalkozás a fogyasztó számára az elállásra nyitva álló határidő lejárta előtt a fogyasztótól fizetést vagy kötelezettségvállalást, így különösen előleget, biztosítékot, számlán lévő pénz zárolását, kifejezett tartozás-elismerést, semmilyen jogcímen nem követelhet és nem fogadhat el. A tilalom kiterjed minden olyan fizetésre és kötelezettségvállalásra, amelyet a fogyasztó a szálláshely időben megosztott használati jogára vonatkozó szerződéssel kapcsolatban bármilyen jogcímen harmadik személy részére teljesít. |
 
 | 7.2. | A fogyasztó nem kötelezhető a szerződésben meghatározottakon túl költségek viselésére. |
 
@@ -126,8 +126,10 @@
 
 | A fogyasztó aláírása, amellyel elismeri, hogy a tájékoztató egy példányát átvette: |
 
-## 1 A cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény (a továbbiakban: Ctv.) hatálya alá tartozó jogalany esetében a Ctv. 3. § (1) bekezdése szerinti cégnév.
+## 9 A cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény (a továbbiakban: Ctv.) hatálya alá tartozó jogalany esetében a Ctv. 3. § (1) bekezdése szerinti cégnév.
 
 ## Az egyéni vállalkozók esetében az egyéni vállalkozók nyilvántartásában szereplő családi és utónév.
 
-2. melléklet a 141/2011. (VII. 21.) Korm. rendelethez
+2. melléklet a 141/2011. (VII. 21.) Korm. rendelethez[^9]
+
+[^9]: A 2. melléklet a 44/2014. (II. 25.) Korm. rendelet 4. § (2) bekezdése szerint módosított szöveg.
