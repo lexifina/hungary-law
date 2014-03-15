@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2005-120-00-00
 | 2012-01-01 | 2011. évi CLVI. törvény | 2005-120-00-00.13 |
 | 2013-01-01 | 2012. évi CLXXVIII. törvény | 2005-120-00-00.14 |
 | 2014-01-01 | 2013. évi CC. törvény | 2005-120-00-00.15 |
+| 2014-03-15 | 2013. évi CCLII. törvény | 2005-120-00-00.16 |

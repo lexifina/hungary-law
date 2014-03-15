@@ -4,7 +4,7 @@
 
 a) munkaviszony: az Art. szerinti munkaviszony;
 
-b) vállalkozási szerződés: a magánszemély által a Polgári Törvénykönyvről szóló törvény (a továbbiakban: Ptk.) szabályai szerint kötött vállalkozási szerződés;
+b) vállalkozási szerződés: a magánszemély által a Polgári Törvénykönyv szabályai szerint kötött vállalkozási szerződés;
 
 c) megbízási szerződés: a magánszemély által kötött, a Ptk. szerinti megbízási szerződés, ideértve a felhasználási szerződést is;
 
