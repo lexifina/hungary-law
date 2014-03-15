@@ -1,5 +1,3 @@
-## 19. § Ha az elmeállapot orvosszakértői vizsgálatát a kirendelő szerv hivatalbóli bizonyítás keretében rendeli el, a vizsgálatra a vizsgált személy lakóhelyén vagy tartózkodási helyén akkor kerülhet sor, ha a szakértő kérelmére a vizsgálat helye szerint illetékes rendőrkapitányság a kirendelő szerv döntése alapján a vizsgálat helyszínén biztosítja a vizsgálat zavartalan lefolytatását.
-
 ## Klinikai és mentálhigiéniai felnőtt- és gyermek szakpszichológiai vizsgálat
 
 20. § (1) Ha a szakkérdés
@@ -22,4 +20,12 @@ h) a konfliktusos családi működésnek a szülők vagy gyermek személyiségé
 
 ## feltárására, leírására, megállapítására, tipizálására, kategorizálására, értékelésére, illetve kizárására irányul, klinikai és mentálhigiéniai felnőtt- és gyermek szakpszichológiai vizsgálatot kell lefolytatni.
 
-(2) A szakértő a vizsgálat során egyidejűleg több vizsgálati módszert alkalmaz.
+(2)[^7] Az (1) bekezdésben megjelölt szakkérdések esetében a klinikai és mentálhigiéniai felnőtt- és gyermek szakpszichológiai vizsgálat mellett szükség esetén az esetlegesen felmerülő és az (1) bekezdés szerinti vizsgálattal meg nem válaszolható klinikai szakkérdésnek megfelelő orvosszakértői vizsgálatnak is helye van.
+
+(3)[^8] A (2) bekezdés szerinti klinikai szakkérdés vizsgálatát szakkonzultáns is elvégezheti. Szakkonzultánsként csak az járhat el, aki az adott szakkérdésnek megfelelő szakvizsgával rendelkezik és e szakvizsgája tekintetében az egészségügyi dolgozók működési nyilvántartásában szerepel.
+
+(4)[^9] Nem minősül a klinikai és mentálhigiéniai felnőtt- és gyermek szakpszichológia területéhez tartozó szakkérdésnek a vizsgált személy általános szavahihetőségének véleményezése, de a szakértő a vizsgált személy által előadottak élményszerűségét vizsgálja.
+
+[^7]: A 20. § (2) bekezdése a 21/2014. (III. 13.) KIM rendelet 22. § (3) bekezdésével megállapított szöveg.
+[^8]: A 20. § (3) bekezdését a 21/2014. (III. 13.) KIM rendelet 22. § (3) bekezdése iktatta be.
+[^9]: A 20. § (4) bekezdését a 21/2014. (III. 13.) KIM rendelet 22. § (3) bekezdése iktatta be.

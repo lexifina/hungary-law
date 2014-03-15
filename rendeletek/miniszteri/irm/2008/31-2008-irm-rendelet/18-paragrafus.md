@@ -2,8 +2,10 @@
 
 18. § (1) Ha polgári eljárásban elmeállapot orvosszakértői vizsgálatára kerül sor, a vizsgálatot végző szakértőnek igazságügyi pszichiátria (igazságügyi elmeorvostan) képesítéssel kell rendelkeznie.
 
-(2) Ha a szakkérdés annak megállapítására irányul, hogy a vizsgált személynek az ügyei viteléhez szükséges belátási képessége pszichés állapota, szellemi fogyatkozása vagy szenvedélybetegsége miatt
+(2)[^4] Ha a szakkérdés annak megállapítására irányul, hogy a vizsgált személynek az ügyei viteléhez szükséges belátási képessége mentális zavara miatt
 
-a) általános jelleggel, illetve egyes ügycsoportok vonatkozásában tartósan vagy időszakonként visszatérően nagymértékben csökkent vagy
+a) meghatározott ügycsoportok vonatkozásában tartósan vagy időszakonként visszatérően nagymértékben csökkent vagy
 
 b) tartósan teljes mértékben hiányzik,
+
+[^4]: A 18. § (2) bekezdése a 21/2014. (III. 13.) KIM rendelet 22. § (1) bekezdésével megállapított szöveg.
