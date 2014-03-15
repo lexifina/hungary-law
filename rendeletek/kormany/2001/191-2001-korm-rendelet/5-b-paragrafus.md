@@ -16,6 +16,13 @@ a) engedély nélkül végzett tevékenység esetén 10–50%,
 
 b) engedélytől eltérően végzett tevékenység esetén 10–40%.
 
-(4) Ha a műemléken az örökségvédelmi és az építésügyi hatósági engedélyhez egyaránt kötött tevékenységeket szabálytalanul végezték, akkor az örökségvédelmi bírságot az örökségvédelmi engedélyhez kötött valamennyi szabálytalan tevékenységre meg kell állapítani és a fennmaradási engedélyről hozott döntésbe kell foglalni.
+(4)[^17] Műemléken
+
+a) építési engedélyhez kötött építési tevékenység engedély nélkül vagy attól eltérően történő végzése esetén építésügyi bírságot kell kiszabni, és annak mértékét e rendelet mérlegelési szempontrendszere szerint és mértékben kell megállapítani;
+
+b) építési engedélyhez és örökségvédelmi engedélyhez kötött tevékenységet is tartalmazó, engedély nélkül vagy attól eltérően végzett tevékenység esetén építésügyi bírságot kell kiszabni, és annak mértékét e rendelet mérlegelési szempontrendszere szerint és mértékben kell megállapítani;
+
+c) örökségvédelmi engedélyhez kötött tevékenység engedély nélkül vagy attól eltérően történő végzése esetén e rendelet szabályai szerint kell eljárni.
 
 [^16]: Az 5/B. §-t a 281/2005. (XII. 20.) Korm. rendelet 3. §-a iktatta be, szövege a 394/2012. (XII. 20.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.
+[^17]: Az 5/B. § (4) bekezdése a 62/2014. (III. 6.) Korm. rendelet 3. §-ával megállapított szöveg.

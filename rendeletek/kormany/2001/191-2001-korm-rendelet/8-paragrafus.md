@@ -1,8 +1,8 @@
-## 7. §[^20] A bírságot a régészeti örökség és műemlékek esetében illetékes járási (fővárosi kerületi) hivatal járási építésügyi és örökségvédelmi hivatala, a kulturális javak vonatkozásában a Forster Gyula Nemzeti Örökséggazdálkodási és Szolgáltatási Központ állapítja meg.
+## 7. §[^21] A bírságot a régészeti örökség és műemlékek esetében illetékes járási (fővárosi kerületi) hivatal járási építésügyi és örökségvédelmi hivatala, a kulturális javak vonatkozásában a Forster Gyula Nemzeti Örökséggazdálkodási és Szolgáltatási Központ állapítja meg.
 
 8. § (1) E rendelet a kihirdetése napján lép hatályba, rendelkezéseit a hatálybalépése utáni kötelezettségszegésekre kell alkalmazni.
 
-(2)[^21]
+(2)[^22]
 
 Melléklet a 191/2001. (X. 18.) Korm. rendelethez
 
@@ -2958,5 +2958,5 @@ BARANYA MEGYE II. KATEGÓRIA
 
 BÁCS-KISKUN MEGYE II. KATEGÓRIA
 
-[^20]: A 7. § a 394/2012. (XII. 20.) Korm. rendelet 5. § (5) bekezdésével megállapított szöveg.
-[^21]: A 8. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1043. pontja hatályon kívül helyezte.
+[^21]: A 7. § a 394/2012. (XII. 20.) Korm. rendelet 5. § (5) bekezdésével megállapított szöveg.
+[^22]: A 8. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1043. pontja hatályon kívül helyezte.
