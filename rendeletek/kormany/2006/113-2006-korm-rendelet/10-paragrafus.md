@@ -130,7 +130,7 @@ A megbízási díj kifizetése tekintetében a Megbízó és a Megbízott eltér
 
 Amennyiben a Felek bármelyike a titoktartási kötelezettségét megszegi, köteles az ezzel okozott kárt a másik félnek megtéríteni.
 
-A Felek tudomásul veszik, hogy a Polgári Törvénykönyvről szóló 1959. évi IV. törvény 81. § (4) bekezdése értelmében az, aki az államháztartás valamely alrendszerével pénzügyi, illetve üzleti kapcsolatot létesít, kérésre köteles a jogviszonnyal összefüggő és a közérdekből nyilvános adatokra vonatkozóan tájékoztatást adni, valamint azt, hogy a költségvetési pénzeszközök felhasználásának nyilvánosságára tekintettel a szerződés lényeges tartalmáról a tájékoztatás üzleti titok címen nem tagadható meg.
+A Felek tudomásul veszik, hogy az, aki az államháztartás valamely alrendszerével pénzügyi, illetve üzleti kapcsolatot létesít, kérésre köteles a jogviszonnyal összefüggő és a közérdekből nyilvános adatokra vonatkozóan tájékoztatást adni, valamint azt, hogy a költségvetési pénzeszközök felhasználásának nyilvánosságára tekintettel a szerződés lényeges tartalmáról a tájékoztatás üzleti titok címen nem tagadható meg.
 
 Felek tudomásul veszik továbbá, hogy az Állami Számvevőszékről szóló 2011. évi LXVI. törvény 5. § (5) bekezdése, illetve a Kormányzati Ellenőrzési Hivatalról szóló 355/2011. (XII. 30.) Korm. rendelet 6. § szerint az Állami Számvevőszék és a Kormányzati Ellenőrzési Hivatal a szerződéssel érintett költségvetési pénzeszközök vonatkozásában ellenőrzési jogosultsággal rendelkeznek.
 
@@ -158,7 +158,7 @@ Felek a szerződés szerinti adatokban bekövetkezett változást kötelesek hal
 
 16.) Jelen szerződést a felek határozott időre, jelen szerződés aláírását követő 1 éves időtartamra kötik.
 
-17.) Jelen szerződésben nem szabályozott kérdésekben az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény, a Polgári Törvénykönyvről szóló 1959. évi IV. törvény, a jogosult állatorvos hatásköréről és a működésével kapcsolatos részletes szabályokról szóló 113/2006. (V. 12.) Korm. rendelet rendelkezései az irányadók.
+17.) Jelen szerződésben nem szabályozott kérdésekben az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény, a Polgári Törvénykönyvről szóló 2013. évi V. törvény, a jogosult állatorvos hatásköréről és a működésével kapcsolatos részletes szabályokról szóló 113/2006. (V. 12.) Korm. rendelet rendelkezései az irányadók.
 
 Jelen szerződés 4 (négy) számozott oldalból áll, és egymással mindenben megegyező 6 (hat) eredeti példányban készült.
 
@@ -205,4 +205,4 @@ A jogosult állatorvosi tevékenység során elszámolható munkaórák
 |  | Vágópontok felügyelete | 2 |
 
 [^36]: A 10. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 316. pontja hatályon kívül helyezte.
-[^37]: A mellékletet a 369/2012. (XII. 17.) Korm. rendelet 8. §-a iktatta be.
+[^37]: A mellékletet a 369/2012. (XII. 17.) Korm. rendelet 8. §-a iktatta be, szövege az 57/2014. (III. 4.) Korm. rendelet 6. § (1) bekezdés b) pontja és (2) bekezdése szerint módosított szöveg.
