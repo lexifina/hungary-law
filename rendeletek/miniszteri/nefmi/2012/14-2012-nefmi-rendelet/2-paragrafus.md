@@ -10,9 +10,10 @@ b) költségvetési szerv esetén a költségvetési szervekről vezetett törzs
 
 c) civil szervezet vagy egyesület esetén a bírósági nyilvántartásba bejegyzett, hatályos adatairól – a szervezet képviselőjének kérelmére – kiadott, 30 napnál nem régebbi kivonat,
 
-d) a gazdasági társaságokról szóló 2006. évi IV. törvény (a továbbiakban: Gt.) hatálya alá tartozó nonprofit gazdasági társaság esetén 30 napnál nem régebbi cégkivonat.
+d)[^2] nonprofit gazdasági társaság esetén 30 napnál nem régebbi cégkivonat.
 
-(3)[^2] A (2) bekezdésben felsorolt okiratokat – amennyiben azt a kérelmező nem csatolja – a kijelölt szerv szerzi be az illetékes szervhez történő adatszolgáltatási kérelem benyújtásával.
+(3)[^3] A (2) bekezdésben felsorolt okiratokat – amennyiben azt a kérelmező nem csatolja – a kijelölt szerv szerzi be az illetékes szervhez történő adatszolgáltatási kérelem benyújtásával.
 
 [^1]: A 2. § (1) bekezdése a 35/2013. (V. 22.) EMMI rendelet 1. §-ával megállapított szöveg.
-[^2]: A 2. § (3) bekezdése a 35/2013. (V. 22.) EMMI rendelet 8. § a) pontja szerint módosított szöveg.
+[^2]: A 2. § (2) bekezdés d) pontja a 18/2014. (III. 13.) EMMI rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^3]: A 2. § (3) bekezdése a 35/2013. (V. 22.) EMMI rendelet 8. § a) pontja szerint módosított szöveg.

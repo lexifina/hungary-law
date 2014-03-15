@@ -1,6 +1,6 @@
 ## 6. A támogatási igazolás
 
-16. §[^28] (1) Az előadó-művészeti szervezet támogatója a támogatásnak az előadó-művészeti szervezet fizetési számlájára történő átutalásától számított 90 napon belül nyújtja be a Tao. szerinti adókedvezményre jogosító támogatási igazolás kiállítására irányuló kérelmét a kijelölt szervnek.
+16. §[^29] (1) Az előadó-művészeti szervezet támogatója a támogatásnak az előadó-művészeti szervezet fizetési számlájára történő átutalásától számított 90 napon belül nyújtja be a Tao. szerinti adókedvezményre jogosító támogatási igazolás kiállítására irányuló kérelmét a kijelölt szervnek.
 
 (2) A kérelem tartalmazza a támogatási igazolás felhasználásának célját, az előadó-művészeti szervezet támogatójának nevét, székhelyét és adószámát. A kérelemhez csatolni kell a támogatási szerződést és a támogatott által kiállított teljesítési igazolást.
 
@@ -36,4 +36,4 @@ e) az adókedvezményre jogosító támogatás összegét.
 
 (6) A kijelölt szerv a támogatási igazolással összefüggésben birtokába került okiratokat és egyéb dokumentumokat a támogatási igazolás kiállításának évét követő 10 évig őrzi meg.
 
-[^28]: A 16. § a 35/2013. (V. 22.) EMMI rendelet 4. §-ával megállapított szöveg.
+[^29]: A 16. § a 35/2013. (V. 22.) EMMI rendelet 4. §-ával megállapított szöveg.
