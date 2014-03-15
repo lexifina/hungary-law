@@ -1,8 +1,11 @@
-## Gyámnevezés és a gyámságból való kizárás
+## A gyermek iskolájának, életpályájának megválasztása
 
-26. § (1)[^96] Ha a szülő a gyámot nevező vagy a gyámságból kizáró nyilatkozatát [Csjt. 71. § (2) bek.] a gyámhivatal előtt teszi, a jegyzőkönyvnek tartalmaznia kell a gyermek, a nevezett gyám vagy a gyámságból kizárt személy személyazonosító adatait, valamint a szülő felhívását lakóhely változásának bejelentésére. A szülő a lakóhelyváltozásáról szóló gyámhivatali bejelentési kötelezettségének úgyis eleget tehet, hogy a polgárok személyi adatainak és lakcímének nyilvántartását vezető szervtől kéri, hogy a lakóhelyváltozás tényét közölje a gyámhivatallal.
+26. § (1) A szülői felügyeletet közösen gyakorló szülők, valamint a szülő és a gyermek között az életpálya kijelölésével és ezzel összefüggésben a gyermek taníttatásával, iskolájának megválasztásával kapcsolatban felmerült vitában a gyámhivatal a szülő vagy a gyermek kérelmére dönt. A korlátozottan cselekvőképes gyermek a kérelmét önállóan is előterjesztheti.
 
-(2)[^97] A gyámnevezést tartalmazó vagy a gyámságból kizáró gyámhivatallal közölt jognyilatkozatról a gyámhivatal naprakész nyilvántartást vezet és a szülő lakóhely változása esetén az illetékessé vált gyámhivatalt a jegyzőkönyv egy példányának megküldésével értesíti.
+(2) Ha a nevelési-oktatási intézmény jelzi a gyámhivatalnak a gyermek taníttatásával, iskolájának megválasztásával kapcsolatban felmerült vitát, a gyámhivatal tájékoztatja az (1) bekezdés szerinti jogosultakat a kérelem benyújtásának lehetőségéről.
 
-[^96]: A 26. § (1) bekezdése a 173/2009. (VIII. 29.) Korm. rendelet 8. §-a, továbbá 63. § (1) bekezdés j) pontja szerint módosított szöveg. E módosító rendelet 61. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 30-át követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^97]: A 26. § (2) bekezdése a 173/2009. (VIII. 29.) Korm. rendelet 65. § (1) bekezdés c) pontja, a 174/2012. (VII. 26.) Korm. rendelet 12. § (16) bekezdés 5. pontja szerint módosított szöveg.
+(3) A gyámhivatalnak az eljárás során elsősorban a szülők és a gyermek közötti megegyezésre kell törekednie.
+
+(4) Az eljárás során a gyámhivatal vizsgálja és mérlegeli a gyermek képességeit, eddigi tanulmányait és eredményeit, valamint egészségi állapotát.
+
+(5) A (4) bekezdésben foglaltak vizsgálata során ki kell kérni a nevelési tanácsadó vagy a gyermek nevelési-oktatási intézményének véleményét, továbbá – szükség esetén – a gyermek- és ifjúságpszichiátriai gondozó vagy a gyermek egészségi állapotának megítélésére jogosult egészségügyi szolgáltató szakvéleményét.

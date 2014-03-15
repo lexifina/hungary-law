@@ -1,6 +1,6 @@
 ## egy eljárás keretében, harmincöt napon belül, fellebbezésre tekintet nélkül végrehajthatóvá nyilvánított határozatban dönt.
 
-100. §[^592] (1) Ha a gyámhivatal a Gyvt. 78. § (1) bekezdése alapján a gyermeket nevelésbe veszi, a gyermek jogosult az otthont nyújtó ellátásra.
+100. §[^653] (1) Ha a gyámhivatal a Gyvt. 78. § (1) bekezdése alapján a gyermeket nevelésbe veszi, a gyermek jogosult az otthont nyújtó ellátásra.
 
 (2) A gyámhivatal a gyermek nevelésbe vételére irányuló eljárása során feltárja azokat a körülményeket, amelyek a szülőt akadályozzák a gyermek nevelésében és a veszélyeztetettség elhárításában, így különösen a szülők, más családtagok személyiségével, egészségi állapotával, a gyermekhez fűződő viszonyával, életvitelével és szociális helyzetével kapcsolatos lényeges körülményeket, valamint tájékozódik a gyermek vagyoni helyzetéről, ennek érdekében
 
@@ -18,4 +18,4 @@ d) szükség esetén háziorvosi igazolást szerez be a gyermek tartós vagy fer
 
 e) megvizsgálja, hogy a gyermek részesül-e a Gyvt. 19. §-a szerinti rendszeres gyermekvédelmi kedvezményben.
 
-[^592]: A 100. § a 97/2013. (III. 29.) Korm. rendelet 32. §-ával megállapított szöveg.
+[^653]: A 100. § a 97/2013. (III. 29.) Korm. rendelet 32. §-ával megállapított szöveg.

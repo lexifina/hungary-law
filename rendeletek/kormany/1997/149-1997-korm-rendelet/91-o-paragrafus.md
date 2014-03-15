@@ -1,3 +1,3 @@
-## 91/N. §[^561]
+## 91/N. §[^620]
 
-[^561]: A 91/N. §-t a 237/2010. (IX. 13.) Korm. rendelet 9. §-a iktatta be, hatályon kívül helyezte a 236/2012. (VIII. 30.) Korm. rendelet 6. § (1) bekezdés b) pontja.
+[^620]: A 91/N. §-t a 237/2010. (IX. 13.) Korm. rendelet 9. §-a iktatta be, hatályon kívül helyezte a 236/2012. (VIII. 30.) Korm. rendelet 6. § (1) bekezdés b) pontja.

@@ -1,17 +1,13 @@
-## A gyermek végleges külföldre távozása
+## A szülők lakóhelyének vagy a szülők által kijelölt más tartózkodási helynek az elhagyása, a gyermeknek a szülőjével azonos lakóhelyén kívüli tartózkodási helyének kijelölése
 
-22. § (1) A gyermek végleges külföldre távozására vonatkozó nyilatkozat jóváhagyása [Csjt. 77. § (3) bek.] iránti kérelemhez csatolni kell azokat az okiratokat (különösen: a külföldi hatóság által kiállított környezettanulmányt, iskolalátogatási igazolást, jövedelemigazolást, befogadó nyilatkozatot), amelyekből megállapítható, hogy a gyermek nevelése, tartása, ellátása, tanulmányainak folytatása külföldön biztosítva van.
+22. § (1) A szülők lakóhelyének és a szülők által kijelölt más tartózkodási helynek (a továbbiakban együtt: a szülők lakóhelye) elhagyásával kapcsolatos eljárás a tizenhatodik életévét betöltött gyermek, a szülői felügyeleti jogot gyakorló szülő vagy a gyermeket személyesen gondozó és nevelő, vagy a gyermek személyes gondozását és nevelését vállalni szándékozó személy kérelmére indul.
 
-(2) A gyermek végleges külföldre távozására vonatkozó jognyilatkozat elbírálása során mérlegelni kell, hogy a kapcsolattartást szabályozó bírósági vagy gyámhivatali határozat végrehajtása nemzetközi szerződés vagy viszonosság hiányában biztosítható-e.
+(2) A gyámhivatal a szülők lakóhelye elhagyásának Ptk. 4:152. § (4) bekezdése szerinti jóváhagyása során vizsgálja, hogy a gyermek törvényes képviselete, lakhatása és tartása a kérelemben megjelölt helyen miképpen biztosítható.
 
-(3) Ha a különélő szülők a gyermek külföldi tartózkodási helyének kijelölésében nem tudnak egyezségre jutni, a gyámhivatal tájékoztatja a feleket a bírósági eljárás megindításának lehetőségéről.
+(3) A gyámhivatal a (2) bekezdés szerinti eljárása során, ha a gyermek nem intézménybe, hanem magánszemélyhez kíván költözni, köteles a magánszemélyt is meghallgatni és nála környezettanulmányt készíteni.
 
-(4)[^86] A gyermek végleges külföldre távozása esetén a gyámhivatal
+(4) Ha a gyámhivatal a szülők lakóhelyének elhagyását jóváhagyja, egyúttal tájékoztatja a szülőket, hogy a jóváhagyás – a személyes gondozás és nevelés kivételével – a szülők szülői felügyeleti jogát és tartási kötelezettségét nem érinti.
 
-a) határozatában tájékoztatja a gyermek törvényes képviselőjét a lakcímváltozásra vonatkozó jogszabályban előírt bejelentési kötelezettségéről, továbbá arról, hogy kérheti a kapcsolattartás újraszabályozását,
+(5) Ha a gyámhivatal a kérelmet elutasítja és a gyermek a szülők lakóhelyét már jóváhagyás nélkül elhagyta, egyidejűleg kötelezi a gyermeket a visszatérésre, szükség esetén felhívja a gyermek kiadására azt a személyt, aki a gyermeket jogtalanul tartja magánál. Ugyanígy jár el a gyámhivatal abban az esetben is, ha a szülők lakóhelyének elhagyását jóváhagyta, de azt követően a feltételek megváltozása miatt a jóváhagyását visszavonja.
 
-b) határozatában tájékoztatja a kapcsolattartásra jogosult szülőt arról, hogy a külföldre költözést követő 3 hónapon belül kérheti a gyámhivataltól a kapcsolattartás szabályozását, újraszabályozását, ha a gyermek a törvényes képviselőjével az Európai Unió valamely tagállamába jogszerűen távozik,
-
-c) az engedélyező határozatot közli a családtámogatási ellátást folyósító szervvel.
-
-[^86]: A 22. § (4) bekezdését a 14/2003. (II. 12.) Korm. rendelet 7. §-a iktatta be, szövege a 173/2009. (VIII. 29.) Korm. rendelet 7. §-ával megállapított szöveg. Ez utóbbi módosító rendelet 61. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 30-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+(6) A gyámhivatal közli a családtámogatási ellátást folyósító szervvel a szülők lakóhelye elhagyásának jóváhagyásáról szóló határozat rendelkező részét.

@@ -1,8 +1,8 @@
-## 101. §[^593]
+## 101. §[^654]
 
 ## A határozat tartalma
 
-102. §[^594] (1) A nevelésbe vételt elrendelő határozat rendelkező része a 14. §-ban foglaltakon kívül tartalmazza
+102. §[^655] (1) A nevelésbe vételt elrendelő határozat rendelkező része a 14. §-ban foglaltakon kívül tartalmazza
 
 a) a gyermek ideiglenes gondozási helyének meghatározását,
 
@@ -28,7 +28,7 @@ f) annak megállapítását, hogy a gyermek szülőjének szülői felügyeleti 
 
 g) a gyermek örökbefogadhatóságának tényét az azt megalapozó ok megjelölésével,
 
-h) a kapcsolattartásra jogosult szülővel vagy más hozzátartozóval való kapcsolattartás szabályozását és a kapcsolattartásra jogosult szülő figyelmeztetését a Gyvt. 80. § (3) és (4) bekezdése, továbbá a Csjt. 48/A. §-a szerinti jogkövetkezményekre,
+h)[^656] a kapcsolattartásra jogosult szülővel vagy más hozzátartozóval való kapcsolattartás szabályozását és a kapcsolattartásra jogosult szülő figyelmeztetését a Gyvt. 80. § (3) és (4) bekezdése, továbbá a Ptk. 4:124. §-a szerinti jogkövetkezményekre,
 
 i) a gyermeknek az ideiglenes gondozási helyére történő vitele időpontjára és módjára vonatkozó rendelkezést [Gyvt. 78. § (5) bek.] és a szülő vagy a gyermeket gondozó más személy kötelezését arra, hogy a gyermek átadásával egyidejűleg a gyermek TAJ kártyáját, iskolai bizonyítványát, diákigazolványát és egyéb fontos dokumentációját adja át a gyermekvédelmi gyámnak vagy a gyermeket gondozó nevelőszülőnek, illetve intézmény képviselőjének,
 
@@ -52,5 +52,6 @@ c) – ha a gyermek rendszeres gyermekvédelmi kedvezményre jogosult – a gyer
 
 (5) A gyermek örökbefogadhatósága tényének megállapítása esetén a határozat indokolása tartalmazza a szülői felügyeleti jogot megszüntető bírói ítélet számát és jogerőre emelkedésének időpontját, vagy a szülő gyermekének örökbefogadásához tett hozzájáruló nyilatkozatának időpontját, vagy a szülő halálának időpontját.
 
-[^593]: A 101. §-t a 97/2013. (III. 29.) Korm. rendelet 64. § (2) bekezdés d) pontja hatályon kívül helyezte.
-[^594]: A 102. § a 97/2013. (III. 29.) Korm. rendelet 33. §-ával megállapított szöveg.
+[^654]: A 101. §-t a 97/2013. (III. 29.) Korm. rendelet 64. § (2) bekezdés d) pontja hatályon kívül helyezte.
+[^655]: A 102. § a 97/2013. (III. 29.) Korm. rendelet 33. §-ával megállapított szöveg.
+[^656]: A 102. § (1) bekezdés h) pontja a 70/2014. (III. 13.) Korm. rendelet 86. § (1) bekezdés 72. pontja szerint módosított szöveg.

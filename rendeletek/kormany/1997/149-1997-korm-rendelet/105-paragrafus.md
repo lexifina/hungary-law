@@ -1,6 +1,6 @@
-## A határozat tartalma[^598]
+## A határozat tartalma[^660]
 
-105. §[^599] (1) A gyermek gondozási helyének meghatározására irányuló eljárás eredményeként hozott határozat rendelkező része a 14. §-ban foglaltakon kívül tartalmazza
+105. §[^661] (1) A gyermek gondozási helyének meghatározására irányuló eljárás eredményeként hozott határozat rendelkező része a 14. §-ban foglaltakon kívül tartalmazza
 
 a) a gyermek gondozási helyének
 
@@ -12,7 +12,7 @@ történő megállapítását, az ellátás kezdő időpontját,
 
 b) a gyermekvédelmi gyám személyének megállapítását, ennek hiányában a gyermek számára gyermekvédelmi gyám kirendelését és tájékoztatását a gyermek gyámságával kapcsolatos jogairól és kötelezettségeiről,
 
-c) a kapcsolattartásra jogosult szülővel vagy más hozzátartozóval való kapcsolattartásra vonatkozó szabályokat, és a kapcsolattartásra jogosult szülő figyelmeztetését a Gyvt. 80. § (3) és (4) bekezdése, továbbá a Csjt. 48/A. §-a szerinti jogkövetkezményekre,
+c)[^662] a kapcsolattartásra jogosult szülővel vagy más hozzátartozóval való kapcsolattartásra vonatkozó szabályokat, és a kapcsolattartásra jogosult szülő figyelmeztetését a Gyvt. 80. § (3) és (4) bekezdése, továbbá a Ptk. 4:124. §-a szerinti jogkövetkezményekre,
 
 d) a gyermek ellátási szükségletének és annak kezdő időpontja megállapítását,
 
@@ -46,5 +46,6 @@ l) a fellebbezésre tekintet nélküli végrehajthatóság kimondását.
 
 (3) A gondozási helyről szóló határozat meghozatalával egyidejűleg a gyámhivatal közli a családtámogatási ellátást és az árvaellátást folyósító szervvel, továbbá a gyermeket ellátó védőnővel a gyermek gondozási helyét, feltéve, hogy az eltér az ideiglenes gondozási helytől.
 
-[^598]: A 105. §-t megelőző alcímet a 97/2013. (III. 29.) Korm. rendelet 36. §-a iktatta be.
-[^599]: A 105. § a 97/2013. (III. 29.) Korm. rendelet 36. §-ával megállapított szöveg.
+[^660]: A 105. §-t megelőző alcímet a 97/2013. (III. 29.) Korm. rendelet 36. §-a iktatta be.
+[^661]: A 105. § a 97/2013. (III. 29.) Korm. rendelet 36. §-ával megállapított szöveg.
+[^662]: A 105. § (1) bekezdés c) pontja a 70/2014. (III. 13.) Korm. rendelet 86. § (1) bekezdés 73. pontja szerint módosított szöveg.

@@ -1,29 +1,50 @@
-128. § (1) A gyámrendelés előtt a gyámhivatalnak vizsgálnia kell:
+128. § (1)[^719] A gyámrendelés előtt a gyámhivatal vizsgálja, hogy
 
-a) a gyámrendelés okát,
+a) mi a gyámrendelés oka,
 
-b) azt, hogy a gyermek kinek a gondozásában él és a gyermek ellátására személye és körülményei alkalmasak-e,
+b) a gyermek kinek a gondozásában él, valamint, hogy ennek a személynek alkalmasak-e a körülményei és a személye a gyermek ellátására, továbbá, hogy a gyámság viselését vállalja-e,
 
-c)[^647] van-e nevezett gyám vagy gyámságból kizárt személy; van-e a gyermeknek olyan rokona, hozzátartozója, aki családbafogadó gyámként kirendelhető,
+c) van-e nevezett gyám vagy gyámságból kizárt személy, valamint, hogy van-e a gyermeknek olyan rokona, hozzátartozója, aki családbafogadó gyámként – alkalmassága és vállalása alapján – kirendelhető,
 
-d) van-e a gyermeknek vagyona és azt ki kezeli,
+d) a családbafogadó gyámként kirendelhető személy ténylegesen mely időponttól neveli saját háztartásában a gyermeket,
 
-e)[^648] azt, hogy a gyermek részesül-e a Gyvt. 19. §-a szerinti rendszeres kedvezményben.
+e) a gyermeknek van-e vagyona és azt ki kezeli,
+
+f) a gyermek részesül-e a Gyvt. 19. §-a szerinti rendszeres kedvezményben,
+
+g) az ítélőképessége birtokában lévő gyermeknek mi a véleménye a gyám személyéről, és a tizennegyedik életévét betöltött gyermek tiltakozása esetén azt, hogy a gyám személye ellen alapos okból tiltakozik-e,
+
+h) van-e a gyermeknek olyan vagyona vagy más ügye, melynek kezelése, intézése különös szakértelmet igényel.
+
+(1a)[^720] A gyámhivatal tájékoztatja a családbafogadó gyámot, hogy kérheti a családi pótléknak a gyámrendelés tényleges időpontját legfeljebb két hónappal megelőző időponttól történő folyósítását, feltéve, hogy erre az időtartamra más személy nem részesült családi pótlékban.
 
 (2) A gyámrendelés előtt a gyámhivatal beszerzi:
 
-a)[^649] a gyámrendelés alapjául szolgáló okiratokat (így különösen szülők halotti anyakönyvi másolata, bírói ítélet),
+a)[^721] a gyámrendelés alapjául szolgáló okiratokat (így különösen szülők halotti anyakönyvi másolata, bírói ítélet),
 
 b) a gyermek születési anyakönyvi másolatát,
 
-c)[^650] a gyermek ingó, ingatlan vagyonáról készült leltárt, ha a gyámhivatal tudomással bír arról, hogy a gyermeknek van vagyona.
+c)[^722] a gyermek ingó, ingatlan vagyonáról készült leltárt, ha a gyámhivatal tudomással bír arról, hogy a gyermeknek van vagyona.
 
-(3)[^651] A gyámhivatal a Gyvt. 128. §-ában meghatározottakon kívül meghallgatja a gyámi tisztség viselésére figyelembe vehető személyt, továbbá vizsgálja, hogy viselhet-e gyámságot, és személyiségénél fogva alkalmas-e a tisztség ellátására. E rendelkezés a gyermekvédelmi gyámra nem vonatkozik.
+(3)[^723] A gyámhivatal
+
+a) a Gyvt. 128. §-ában meghatározottakon kívül meghallgatja
+
+aa) a gyámi tisztség viselésére figyelembe vehető valamennyi személyt,
+
+ab) a Ptk. 4:231. § (1) bekezdés a) és b) pontja szerinti többes gyámrendelés esetén mindkét személyt, és
+
+ac) a Ptk. 4:231. § (1) bekezdés c) pontja szerinti többes gyámrendelés esetén a különleges szakértelmet igénylő ügyekben a gyámi tisztséget vállaló személyeket, és
+
+b) a gyermekvédelmi gyám kivételével vizsgálja, hogy az érintett személy viselhet-e gyámságot, és személyiségénél, valamint körülményeinél fogva alkalmas-e a tisztség ellátására.
 
 (4) A gyámhivatal a (3) bekezdésben foglaltak vizsgálata során – szükség szerint – orvosi, pszichológiai véleményt és jövedelemigazolást szerez be.
 
-[^647]: A 128. § (1) bekezdés c) pontja a 21/2012. (II. 29.) Korm. rendelet 17. § r) pontja szerint módosított szöveg.
-[^648]: A 128. § (1) bekezdés e) pontját a 98/2013. (III. 29.) Korm. rendelet 19. §-a iktatta be.
-[^649]: A 128. § (2) bekezdés a) pontja a 173/2009. (VIII. 29.) Korm. rendelet 65. § (1) bekezdés o) pontja szerint módosított szöveg. E módosító rendelet 61. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^650]: A 128. § (2) bekezdésének c) pontját a 14/2003. (II. 12.) Korm. rendelet 81. §-ának (1) bekezdése iktatta be, szövege a 97/2013. (III. 29.) Korm. rendelet 50. §-ával megállapított szöveg.
-[^651]: A 128. § (3) bekezdése a 14/2003. (II. 12.) Korm. rendelet 81. §-ának (2) bekezdése, a 97/2013. (III. 29.) Korm. rendelet 65. § (3) bekezdés 19. pontja szerint módosított szöveg.
+(5)[^724] Az (1) bekezdés g) pontjában foglaltak vizsgálatakor alapos oknak kell tekinteni különösen, ha a gyámságot vállaló személy a gyermekkel vagy a gyermek szülőjével szemben felróható magatartást tanúsított, vagy a gyermek és a családbafogadó gyámságot vállaló személy érzelmileg nem kötődnek egymáshoz.
+
+[^719]: A 128. § (1) bekezdése a 70/2014. (III. 13.) Korm. rendelet 61. § (1) bekezdésével megállapított szöveg.
+[^720]: A 128. § (1a) bekezdését a 70/2014. (III. 13.) Korm. rendelet 61. § (2) bekezdése iktatta be.
+[^721]: A 128. § (2) bekezdés a) pontja a 173/2009. (VIII. 29.) Korm. rendelet 65. § (1) bekezdés o) pontja szerint módosított szöveg. E módosító rendelet 61. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^722]: A 128. § (2) bekezdésének c) pontját a 14/2003. (II. 12.) Korm. rendelet 81. §-ának (1) bekezdése iktatta be, szövege a 97/2013. (III. 29.) Korm. rendelet 50. §-ával megállapított szöveg.
+[^723]: A 128. § (3) bekezdése a 70/2014. (III. 13.) Korm. rendelet 61. § (3) bekezdésével megállapított szöveg.
+[^724]: A 128. § (5) bekezdését a 70/2014. (III. 13.) Korm. rendelet 61. § (4) bekezdése iktatta be.

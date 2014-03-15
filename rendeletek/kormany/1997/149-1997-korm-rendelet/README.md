@@ -32,3 +32,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-149-20-
 | 2013-11-15 | 1997-149-20-22.49 | 392/2013. (XI. 12.) Korm. rendelet |
 | 2013-12-01 | 1997-149-20-22.50 | 173/2009. (VIII. 29.) Korm. rendelet |
 | 2014-01-01 | 1997-149-20-22.51 | 97/2013. (III. 29.) Korm. rendelet |
+| 2014-03-15 | 1997-149-20-22.52 | 70/2014. (III. 13.) Korm. rendelet |

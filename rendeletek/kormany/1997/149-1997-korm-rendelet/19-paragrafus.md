@@ -1,12 +1,29 @@
-19. § (1)[^78] Ha a gyermek szülei nem élnek együtt és a gyermek azért nem áll szülői felügyelet alatt, mert az őt eddig nevelő szülő felügyeleti jogát a bíróság megszüntette, illetőleg a szülő felügyeleti joga a Csjt. 91. § (1) bekezdésének a)–b) pontja alapján szünetel vagy a szülő meghalt, a gyámhivatal megállapítja a másik szülő szülői felügyeleti jogának feléledését és felhívja őt joga gyakorlására, feltéve, hogy nem áll a szülői felügyelet megszüntetését kimondó ítélet hatálya alatt, vagy a szülői felügyeleti joga nem szünetel a Csjt. 91. § (1) bekezdésének a) és b) pontja alapján, illetőleg a gyermek másnál történő elhelyezése iránt nem indokolt pert indítani.
+## A szülői felügyeleti jog feléledésének megállapítása
 
-(2)[^79] A gyámhivatal az (1) bekezdésben meghatározott okok fennállása esetén kötelezi a gyermeket gondozó személyt, hogy a gyermeket a szülői felügyeleti joggal rendelkező szülőnek adja ki.
+19. § (1) Ha a különélő szülők nem közösen gyakorolják a szülői felügyeleti jogot, és a gyermek azért nem áll szülői felügyelet alatt, mert az őt eddig nevelő szülő szülői felügyeleti joga a Ptk. 4:186. § (1) bekezdés a)–d) vagy i) pontja vagy a Ptk. 4:186. § (3) bekezdése alapján szünetel, vagy szülői felügyeleti jogát a bíróság megszüntette, vagy a gyermeket eddig nevelő szülő meghalt, a gyámhivatal megállapítja a másik szülő szülői felügyeleti jogának feléledését. A gyámhivatal ezzel egyidejűleg felhívja a másik szülőt szülői felügyeleti joga gyakorlására, feltéve, hogy eljárása során megállapítja, hogy
 
-(3)[^80]
+a) a másik szülő nem áll szülői felügyelet megszüntetését kimondó ítélet hatálya alatt,
 
-(4)[^81] Ha a Csjt. 88. §-ának (3) bekezdésére tekintettel a szülői felügyeleti jog megszüntetéséről szóló ítélet hatálya kihat a később született gyermekre is, ennek tényét a gyermek ideiglenes hatályú elhelyezésével vagy nevelésbe vételével egyidejűleg a gyámhivatal határozatban állapítja meg, feltéve, hogy a gyermek nem áll a másik szülő szülői felügyelete alatt.
+b) a másik szülő szülői felügyeleti joga nem szünetel a Ptk. 4:186. § (1) bekezdés a)–d) vagy i) pontja vagy a Ptk. 4:186. § (3) bekezdése alapján, vagy
 
-[^78]: A 19. § eredeti szövegének jelölését a 14/2003. (II. 12.) Korm. rendelet 5. §-a (1) bekezdésre változtatta.
-[^79]: A 19. § (2) bekezdését a 14/2003. (II. 12.) Korm. rendelet 5. §-a iktatta a szövegbe, egyidejűleg a § eredeti szövegét (1) bekezdésre változtatva. E módosító rendelet 98. §-ának (1) bekezdése alapján a 2003. február 15. napja után indult ügyekben kell alkalmazni, a folyamatban lévő első és másodfokú ügyekben a korábbi rendelkezések az irányadóak.
-[^80]: A 19. § (3) bekezdését a 203/2003. (XII. 10.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 173/2009. (VIII. 29.) Korm. rendelet 63. § (1) bekezdés i) pontja. Ez utóbbi módosító rendelet 61. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 30-át követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^81]: A 19. § (4) bekezdését a 315/2005. (XII. 25.) Korm. rendelet 20. § (2) bekezdése iktatta be.
+c) a gyermek más személynél történő elhelyezése iránt nem indokolt pert indítani.
+
+(2) Ha a különélő szülők közösen gyakorolják a szülői felügyeleti jogot, és a gyermeket ténylegesen gondozó szülő szülői felügyeleti joga a Ptk. 4:186. § (1) bekezdés a)–d) vagy i) pontja vagy a Ptk. 4:186. § (3) bekezdése alapján szünetel, vagy szülői felügyeleti jogát a bíróság megszüntette, vagy meghalt, a gyámhivatal felhívja a szülői felügyeleti jogát gyakorló, különélő másik szülőt a gyermek gondozására.
+
+(3) Ha a gyermek szülei együtt élnek és a gyermek azért nem áll szülői felügyelet alatt, mert az őt nevelő egyik szülő szülői felügyeleti jogát a bíróság megszüntette, a másik szülő szülői felügyeleti joga pedig a Ptk. 4:186. § (2) bekezdése alapján szünetel, a gyámhivatal haladéktalanul intézkedik a gyermek gyámság alá helyezése érdekében.
+
+(4) Ha a (3) bekezdés szerinti esetben a szülők között az életközösség megszűnik, az a szülő, akinek szülői felügyeleti jogát a bíróság nem szüntette meg, kérheti a gyámhivataltól szülői felügyeleti joga feléledésének megállapítását és a gyermek számára kirendelt gyám felmentését, feltéve, hogy szülői felügyeleti joga nem szünetel a Ptk. 4:186. § (1) bekezdés a)–c) vagy g)–i) pontja vagy a Ptk. 4:186. § (3) bekezdése alapján.
+
+(5) Az (1)–(4) bekezdés szerinti eljárások során a gyámhivatal minden esetben meghallgatja a korlátozottan cselekvőképes kiskorú szülőt, akinek véleményét megfelelő súllyal figyelembe veszi. A korlátozottan cselekvőképes kiskorú szülőtől gyermekét csak a gyermek érdekében szabad elválasztani és cselekvőképtelen kiskorú szülő esetén is törekedni kell az együttes nevelésükre.
+
+(6) A gyámhivatal a gyámrendelés és a gyámi tevékenység felügyelete során elősegíti, hogy a tizenhatodik életévét betöltött, korlátozottan cselekvőképes kiskorú szülő a gondozási, nevelési jogát és kötelezettségét gyakorolja, kivéve, ha ez ellentétes a gyermek érdekével.
+
+(7) A gyámhivatal az (1) és a (4) bekezdésben meghatározott esetekben határozatában
+
+a) megállapítja a szülő szülői felügyeleti jogának feléledését és felhívja a szülőt a szülői felügyeleti jog gyakorlására,
+
+b) kötelezi a gyermeket gondozó személyt, hogy a gyermeket a szülői felügyeleti joggal rendelkező szülőnek adja ki, és
+
+c) szükség esetén rendelkezik a gyám felmentéséről.
+
+(8) Ha a bíróság úgy rendelkezett, hogy a szülői felügyeletet megszüntető határozatának hatálya kihat a később született gyermekre is, a gyámhivatal megvizsgálja annak lehetőségét, hogy a gyermek másik szülője tudja-e a jövőben gyakorolni szülői felügyeleti jogát. Ha a másik szülő szülői felügyeleti jogának gyakorlása akadályozott, a gyámhivatal megvizsgálja, hogy a gyermek nevelésbe vételének vagy örökbefogadásának feltételei fennállnak-e.

@@ -2,19 +2,22 @@
 
 ## eljárás
 
-40. §[^202] (1) Az örökbefogadás engedélyezése iránti eljárás az örökbefogadni szándékozó személy és a gyermek, illetve törvényes képviselője egyetértő, kölcsönös kérelmére indul.
+40. §[^209] (1) Az örökbefogadás engedélyezése iránti eljárás az örökbe fogadni szándékozó személy és a gyermek törvényes képviselőjének személyesen előterjesztett, egyező kérelmére indul. A gyermekvédelmi gyám a kérelmet írásban is előterjesztheti.
 
-(2)[^203]
+(2) Ha az örökbefogadandó gyermek szülője
 
-(3)[^204] A kijelölt gyámhivatal az örökbefogadás engedélyezéséről az erre irányuló kérelem beérkezését követő naptól számított két hónapon belül dönt, kivéve, ha az elrendelt kötelező gondozási idő az 1 hónapot meghaladja. Ez utóbbi esetben a gondozási idő lejártát követő harminc napon belül kell a döntést meghozni.
+a) korlátozottan cselekvőképes kiskorú, az örökbefogadással összefüggő jognyilatkozatát törvényes képviselője hozzájárulása nélkül teheti meg,
 
-(4)[^205] A kijelölt gyámhivatal eljárása során vizsgálja – a Csjt. 47. §-ának (1) bekezdése alapján – az örökbefogadás engedélyezése iránti kérelem benyújtásakor az örökbefogadó és az örökbefogadandó gyermek életkora között fennálló különbséget.
+b) cselekvőképtelen kiskorú, az örökbefogadással összefüggő jognyilatkozatát törvényes képviselője teszi meg,
 
-(5) Házasságban élő örökbefogadó személyek esetében a fiatalabb házastárs életkorát kell alapul venni.
+c) cselekvőképességében a családjogi jognyilatkozatok tekintetében részlegesen korlátozott nagykorú személy, az örökbefogadással összefüggő jognyilatkozatát törvényes képviselőjének hozzájárulásával teszi meg,
 
-(6) Amennyiben testvérek örökbefogadására kerül sor, úgy az életkorkülönbség megállapításánál az idősebb gyermek életkorát kell alapul venni.
+d) cselekvőképtelen nagykorú személy vagy tekintetében a Ptk. 4:127. § (1) bekezdés a), b), d) vagy e) pontjában foglalt valamely ok áll fenn, nem kell tőle az örökbefogadáshoz való hozzájáruló nyilatkozatot beszerezni.
 
-[^202]: A 40. § a 14/2003. (II. 12.) Korm. rendelet 20. §-ával megállapított szöveg. E módosító rendelet 98. §-ának (1) bekezdése alapján a 2003. február 15. napja után indult ügyekben kell alkalmazni, a folyamatban lévő első és másodfokú ügyekben a korábbi rendelkezések az irányadóak.
-[^203]: A 40. § (2) bekezdését a 97/2013. (III. 29.) Korm. rendelet 64. § (2) bekezdés a) pontja hatályon kívül helyezte.
-[^204]: A 40. § (3) bekezdése a 173/2009. (VIII. 29.) Korm. rendelet 66. § (1) bekezdés 19. pontja, a 360/2010. (XII. 30.) Korm. rendelet 25. § 11. pontja, a 174/2012. (VII. 26.) Korm. rendelet 12. § (16) bekezdés 7. pontja szerint módosított szöveg.
-[^205]: A 40. § (4) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 12. § (16) bekezdés 7. pontja szerint módosított szöveg.
+(3) Ha a (2) bekezdésben foglaltak miatt vagy más okból az örökbefogadandó gyermeknek nincs törvényes képviselője, a kijelölt gyámhivatal eseti gyám kirendelésével gondoskodik a törvényes képviselet ellátásáról.
+
+(4) A kijelölt gyámhivatal az örökbefogadás engedélyezéséről két hónapon belül dönt, kivéve, ha az elrendelt kötelező gondozási idő az egy hónapot meghaladja. Ez utóbbi esetben a gondozási idő lejártát követő huszonegy napon belül kell a döntést meghozni.
+
+(5) A kijelölt gyámhivatal eljárása során a Ptk. 4:121. § (1) és (2) bekezdése alapján vizsgálja az örökbefogadás engedélyezése iránti kérelem benyújtásakor az örökbefogadó életkorát, valamint az örökbefogadó és az örökbefogadandó gyermek életkora közötti különbséget.
+
+[^209]: A 40. § a 70/2014. (III. 13.) Korm. rendelet 24. §-ával megállapított szöveg.

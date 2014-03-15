@@ -1,9 +1,15 @@
-## A gyermek családi és utónevének megállapítása
+## A gyermek sorsát érintő lényeges kérdésekkel összefüggő gyámhatósági eljárás közös szabályai
 
-## 20. § A gyámhivatal állapítja meg a gyermek nevét, ha
+20. § (1) Ha a szülők a gyermek sorsát érintő lényeges kérdésekben való vitájuk miatt terjesztenek elő kérelmet a gyámhivatalnál, a gyámhivatal megvizsgálja, hogy a bíróság korlátozta vagy megvonta-e a szülő szülői felügyeleti jogát a vita tárgyát képező kérdésben.
 
-a) a szülői felügyeleti jogot csak az egyik szülő gyakorolja, aki az anyakönyvvezető vagy a gyámhivatal felhívása ellenére a gyermek utónevét – a felhívás közlésétől számított harminc napon belül – nem határozza meg,
+(2) A gyámhivatal a gyermek sorsát érintő lényeges kérdésekkel összefüggő eljárása során a felek együttműködésének előmozdítására és a gyermek érdekének érvényesítésére törekszik.
 
-b) a szülői felügyeletet együttesen gyakorló szülők a gyermek családi, illetve utónevének meghatározásával kapcsolatos megállapodásukat a gyámhivatal felhívásától számítva 30 napon belül nem jelentik be,
+(3) A gyámhivatal a kérelem előterjesztését követően személyesen meghallgatja a Gyvt. 128. §-ában meghatározott személyeket és a vita eldöntése céljából
 
-c) a különélő szülők a gyermek nevével kapcsolatosan nem tudnak egyetértésre jutni, és a gyámhivatal felhívása ellenére – a felhívás közlésétől számított harminc napon belül – nem igazolják a bírósági eljárás megindítását.
+a) felajánlja a 30/A. § (2) bekezdés a) pontja szerinti, vagy
+
+b) a gyermek érdekében – a szülői felügyeletet gyakorló szülő és a gyermekétől különélő szülő közötti megfelelő együttműködés kialakítása céljából – elrendeli a 30/A. § (2) bekezdés b) pontja szerinti
+
+közvetítői eljárás igénybevételét.
+
+(4) A közvetítői eljárás kérelemre vagy hivatalból történő igénybevétele esetén a 30/A–30/D. §-t kell alkalmazni.

@@ -1,10 +1,11 @@
 ## Szülői hozzájáruló nyilatkozat jóváhagyása
 
-44. § (1)[^231] A 6. életévét betöltött vagy egészségileg károsodott gyermek esetében a kijelölt gyámhivatal a szülő Csjt. 48. §-ának (4) bekezdése szerinti hozzájáruló nyilatkozatának jóváhagyását a nyilatkozat napját követő két hónapon belül megtagadhatja. Két hónap elteltével – ha a kijelölt gyámhivatal nem foglal állást – a nyilatkozatot jóváhagyottnak kell tekinteni.
+44. §[^236] (1) A hatodik életévét betöltött vagy egészségileg károsodott gyermek esetében a kijelölt gyámhivatal a szülő titkos örökbefogadáshoz való hozzájárulásához a Ptk. 4:126. § (3) bekezdése szerint szükséges jóváhagyását a hozzájáruló nyilatkozat megtételének napját követő két hónapon belül megtagadhatja. Ha a szülő a hozzájáruló nyilatkozatát a gyermek születését megelőzően tette meg, a jóváhagyás megtagadására irányadó határidő egészségileg károsodott gyermek esetén a gyermek születésekor kezdődik. Két hónap elteltével – ha a kijelölt gyámhivatal nem foglal állást – a nyilatkozatot jóváhagyottnak kell tekinteni.
 
-(2)[^232] A kijelölt gyámhivatal a szülő hozzájáruló nyilatkozatának jóváhagyását az (1) bekezdés esetén akkor tagadhatja meg, ha a gyermek örökbefogadására életkora vagy egyéb körülmény miatt nagy valószínűséggel nem fog sor kerülni. A kijelölt gyámhivatal a gyermek örökbefogadásának valószínűsége kérdésében megkeresi a gyermekvédelmi szakszolgálatot, illetve az országos nyilvántartást vezető szervet.
+(2) A kijelölt gyámhivatal a szülő hozzájáruló nyilatkozatának jóváhagyását az (1) bekezdés esetén akkor tagadhatja meg, ha a gyermek örökbefogadására életkora, egészségi károsodása vagy egyéb körülmény, így különösen a másik szülő örökbefogadáshoz való hozzájárulásának hiánya miatt nagy valószínűséggel nem fog sor kerülni. A kijelölt gyámhivatal a gyermek örökbefogadásának valószínűsége kérdésében megkeresi a gyermekvédelmi szakszolgálatot. Ha a gyermek örökbefogadásának valószínűsége kérdésében az országos örökbefogadást elősegítő szerv tájékoztatása válik szükségessé, megkereséséről a Gyvt. 141/F. § (2) bekezdésében foglaltak szerint a gyermekvédelmi szakszolgálat gondoskodik.
 
-(3) A gyermeknek a Csjt. 48. §-ának (4) bekezdése szerinti egészségkárosodását az illetékes szakorvosi intézet szakvéleménye alapján lehet megállapítani.
+(3) Azt, hogy a gyermek a Ptk. 4:126. § (3) bekezdése szerint egészségileg károsodott, szakorvosi vélemény alapján lehet megállapítani.
 
-[^231]: A 44. § (1) bekezdése a 173/2009. (VIII. 29.) Korm. rendelet 66. § (1) bekezdés 20–21. pontja szerint módosított, a 174/2012. (VII. 26.) Korm. rendelet 12. § (16) bekezdés 7. pontja szerint módosított szöveg.
-[^232]: A 44. § (2) bekezdésének második mondatát a 251/2006. (XII. 6.) Korm. rendelet 12. §-a iktatta be. A 44. § (2) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 12. § (16) bekezdés 7. pontja szerint módosított szöveg.
+(4) A titkos örökbefogadáshoz való hozzájáruló nyilatkozat megtételekor a gyámhivatal tájékoztatja a szülőt az (1)–(3) bekezdésben foglaltakról és arról, hogy a szülői felügyeleti jog megszűnéséről határozatának megküldésével fogja értesíteni.
+
+[^236]: A 44. § a 70/2014. (III. 13.) Korm. rendelet 29. §-ával megállapított szöveg.

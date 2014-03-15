@@ -1,10 +1,10 @@
-## A származás megismerésével kapcsolatos eljárás általános szabályai[^300]
+## A származás megismerésével kapcsolatos eljárás általános szabályai[^327]
 
-53. §[^301] (1) A tizennegyedik életévét be nem töltött örökbefogadott gyermek törvényes képviselője, a tizennegyedik életévét betöltött örökbefogadott gyermek önállóan vagy törvényes képviselője hozzájárulásával és a nagykorú örökbefogadott tájékoztatást kérhet a kijelölt gyámhivataltól a Csjt. 53/A. § (2) bekezdés a) pontjában meghatározott, a származásával kapcsolatos tényekről.
+53. §[^328] (1)[^329] A tizennegyedik életévét be nem töltött örökbefogadott gyermek törvényes képviselője, a tizennegyedik életévét betöltött örökbefogadott gyermek önállóan vagy törvényes képviselője hozzájárulásával és a nagykorú örökbefogadott tájékoztatást kérhet a kijelölt gyámhivataltól a Ptk. 4:135. § (1) bekezdésében meghatározott, a származásával kapcsolatos tényekről.
 
-(2) A tizennegyedik életévét betöltött örökbefogadott gyermek és a nagykorú örökbefogadott tájékoztatást kérhet a kijelölt gyámhivataltól a Csjt. 53/A. § (2) bekezdés b) pontjában meghatározott vér szerinti hozzátartozóinak adatairól.
+(2)[^330] A tizennegyedik életévét betöltött örökbefogadott gyermek és a nagykorú örökbefogadott tájékoztatást kérhet a kijelölt gyámhivataltól a Ptk. 4:135. § (1) bekezdésében meghatározott vér szerinti hozzátartozóinak adatairól.
 
-(3) A tizennegyedik életévét be nem töltött örökbefogadott gyermek törvényes képviselője, a tizennegyedik életévét betöltött örökbefogadott gyermek önállóan vagy törvényes képviselője hozzájárulásával, a tizennegyedik életévét betöltött örökbefogadott gyermek törvényes képviselője és a nagykorú örökbefogadott tájékoztatást kérhet a kijelölt gyámhivataltól a Csjt. 53/A. § (7) bekezdésében meghatározott egészségügyi adatokról.
+(3)[^331] A tizennegyedik életévét be nem töltött örökbefogadott gyermek törvényes képviselője, a tizennegyedik életévét betöltött örökbefogadott gyermek önállóan vagy törvényes képviselője hozzájárulásával, a tizennegyedik életévét betöltött örökbefogadott gyermek törvényes képviselője és a nagykorú örökbefogadott tájékoztatást kérhet a kijelölt gyámhivataltól a Ptk. 4:136. §-ában meghatározott egészségügyi adatokról.
 
 (4) A származás megismerésével kapcsolatos eljárás megindítására vonatkozó kérelem személyesen, az örökbefogadott lakóhelye szerinti kijelölt gyámhivatalnál terjeszthető elő. A származás megismerésével kapcsolatban kérhető adatok köréről a gyámhivatal tájékoztatja a kérelmezőt, amelyet jegyzőkönyvben rögzít. Írásbeli megkeresés esetén a gyámhivatal a kérelem személyes előterjesztésének szükségességéről és a kérhető adatok köréről írásban tájékoztatást nyújt.
 
@@ -12,5 +12,8 @@
 
 (6) A gyámhivatal a származás megismerésére vonatkozó tájékoztatást személyes meghallgatás keretében adja meg, amelyet jegyzőkönyvben rögzít. Ha az ügyfél számára aránytalan nehézséggel járna a személyes megjelenés, kérelmére a gyámhivatal írásban ad tájékoztatást.
 
-[^300]: Az 53. §-t megelőző alcím a 349/2012. (XII. 12.) Korm. rendelet 14. §-ával megállapított szöveg.
-[^301]: Az 53. § a 349/2012. (XII. 12.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^327]: Az 53. §-t megelőző alcím a 349/2012. (XII. 12.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^328]: Az 53. § a 349/2012. (XII. 12.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^329]: Az 53. § (1) bekezdése a 70/2014. (III. 13.) Korm. rendelet 86. § (1) bekezdés 40. pontja szerint módosított szöveg.
+[^330]: Az 53. § (2) bekezdése a 70/2014. (III. 13.) Korm. rendelet 86. § (1) bekezdés 41. pontja szerint módosított szöveg.
+[^331]: Az 53. § (3) bekezdése a 70/2014. (III. 13.) Korm. rendelet 86. § (1) bekezdés 42. pontja szerint módosított szöveg.

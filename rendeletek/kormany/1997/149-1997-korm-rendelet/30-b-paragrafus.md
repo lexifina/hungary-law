@@ -1,7 +1,33 @@
-30/B. §[^115] (1)[^116] A gyermekvédelmi közvetítői eljárás keretében a felek együttesen jelölik ki a közvetítőt a Nemzeti Rehabilitációs és Szociális Hivatal Országos Gyermekvédelmi Szakértői Névjegyzékébe vagy az igazságügyért felelős miniszter által vezetett közvetítői névjegyzékbe felvett közvetítők közül. A névjegyzékek a gyámhivatal, valamint a gyermekjóléti szolgálat hivatali helyiségében is megtekinthetők.
+30/B. §[^104] (1) Ha a szülők vagy a kapcsolattartásra a 28. § (1)–(4a) bekezdése szerint jogosult más személyek a 29/A. § (1) bekezdésében felsorolt kérdésekben nem tudnak egyezségre jutni, vagy a kapcsolattartás végrehajtása során keletkezik vita a felek között, a gyámhivatal
 
-(2)[^117] Ha a felek a közvetítő személyében megállapodtak, a gyámhivatal értesíti a közvetítőt a kijelölésről. A közvetítő az értesítéstől számított nyolc napon belül írásban nyilatkozik a kijelölés elfogadásáról vagy visszautasításáról, valamint a kijelölés elfogadása esetén arról is, hogy nem elfogult, illetve vele szemben a közigazgatási hatósági eljárás általános szabályairól szóló törvényben meghatározott kizáró okok nem állnak fenn.
+a) tájékoztatja a feleket a közvetítői eljárás igénybevételének a lehetőségéről, vagy
 
-[^115]: A 30/B. §-t a 14/2003. (II. 12.) Korm. rendelet 11. §-a iktatta be. E módosító rendelet – 203/2003. (XII. 10.) Korm. rendelet 16. § (3) bekezdésével megállapított – 97. § (2) bekezdése alapján 2005. július 1-jén lépett hatályba.
-[^116]: A 30/B. § (1) bekezdése a 315/2005. (XII. 25.) Korm. rendelet 28. § (1) bekezdésével megállapított, a 331/2007. (XII. 13.) Korm. rendelet 1. § 19. pontja, a 173/2009. (VIII. 29.) Korm. rendelet 65. § (1) bekezdés d) pontja, a 332/2010. (XII. 27.) Korm. rendelet 8. §-a, a 360/2010. (XII. 30.) Korm. rendelet 25. § 4. pontja szerint módosított szöveg.
-[^117]: A 30/B. § (2) bekezdésének második mondata a 315/2005. (XII. 25.) Korm. rendelet 28. § (2) bekezdésével megállapított, a 173/2009. (VIII. 29.) Korm. rendelet 66. § (1) bekezdés 9. pontja, a 360/2010. (XII. 30.) Korm. rendelet 25. § 5. pontja szerint módosított szöveg.
+b) a gyermek érdekében hivatalból, a Ptk. 4:177. §-a alapján kötelező gyermekvédelmi közvetítői eljárás vagy kötelező támogatott közvetítői eljárás igénybevételét rendelheti el
+
+ba) a szülői felügyeletet gyakorló szülő és a gyermekétől különélő szülő közötti megfelelő együttműködés kialakítása, a különélő szülő és a gyermek közötti kapcsolattartás elősegítése érdekében a szülők számára, vagy
+
+bb) a korlátozottan cselekvőképes gyermeknek a különélő szülőjével való kapcsolattartásának elősegítése érdekében a szülők számára, indokolt esetben a korlátozottan cselekvőképes gyermek bevonásával.
+
+(2) A gyámhivatal tájékoztatja a feleket
+
+a) a közvetítői eljárás költségéről,
+
+b) arról, hogy támogatott közvetítői eljárás vagy kötelező támogatott közvetítői eljárás esetén a közvetítői megbeszélések száma az első találkozáson kívül két hónapon belül csak különösen indokolt esetben haladhatja meg a három alkalmat, valamint
+
+c) és – ha az eljárásba a gyermeket is bevonta – a gyermeket a közvetítő 30/C. § szerinti jelzési kötelezettségéről, külön felhívva a figyelmet a 30/C. § b) pontjában foglaltakra.
+
+(3) A kiválasztott közvetítőt a gyámhivatal kéri fel a közvetítői tevékenység ellátására. A közvetítő a felkérés elfogadásáról vagy annak elutasításáról a gyámhivatal és a felek felé nyilatkozik.
+
+(4) A közvetítői eljárás lefolytatása érdekében a gyámhivatal az előtte folyamatban lévő gyámhatósági eljárást felfüggeszti és – a fél kérelmére vagy a közvetítő jelzése alapján – a közvetítői eljárás befejeződésekor, de legkésőbb két hónap, vagy – a 30/C. § c) pont cb) alpontja szerinti esetben – négy hónap múlva folytatja.
+
+(5) A közvetítő a felkérés elfogadásáról szóló nyilatkozatában a felkérés elfogadásától számított tizenöt napon belül a feleket meghívja az első közvetítői megbeszélésre.
+
+(6) A közvetítő annak érdekében, hogy a gyermek az őt érintő döntések előkészítése során véleményt nyilváníthasson
+
+a) a korlátozottan cselekvőképes gyermeket kérelmére,
+
+b) az ítélőképessége birtokában lévő cselekvőképtelen gyermeket a felek kérelmére vagy a gyámhivatal javaslatára
+
+bevonhatja a közvetítői eljárásba, feltéve, hogy ez a gyermek számára nem jelent túl nagy megterhelést, valamint érzelmi fejlődését a felek által elmondottak, illetve a felek magatartása várhatóan nem veszélyezteti.
+
+[^104]: A 30/B. §-t a 14/2003. (II. 12.) Korm. rendelet 11. §-a iktatta be, szövege a 70/2014. (III. 13.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.

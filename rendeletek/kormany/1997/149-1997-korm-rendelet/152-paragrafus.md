@@ -1,3 +1,0 @@
-152. § (1) A gyermek, illetve a gondnokság alá helyezett személy lakásbérleti szerződésének közös megegyezéssel történő megszüntetéséhez vagy a lakás cseréjéhez történő hozzájárulás megszerzéséhez előírt törvényes képviselői jognyilatkozatot a gyámhivatal akkor hagyhatja jóvá, ha a gyermek vagy gondnokság alá helyezett személy lakhatása megfelelően biztosítva van.
-
-(2) A gyermek, illetőleg a gondokság alá helyezett személy tulajdonában lévő ingatlan tulajdonának átruházására vagy bármely módon történő megterhelésére vonatkozó jognyilatkozat jóváhagyásával kapcsolatos eljárásban a gyámhivatal az eset összes körülményeit mérlegelve azt vizsgálja, hogy a jognyilatkozat a gyermek, illetőleg a gondokság alá helyezett személy érdekeit szolgálja-e.

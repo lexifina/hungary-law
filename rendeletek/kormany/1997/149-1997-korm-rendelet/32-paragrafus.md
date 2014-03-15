@@ -1,14 +1,12 @@
-## A kapcsolattartás újraszabályozása
+## A kapcsolattartás megváltoztatása[^134]
 
-32. § (1)[^138] A kapcsolattartás újraszabályozását – ide nem értve a kapcsolattartás korlátozását, szüneteltetését vagy megvonását – a kapcsolattartást rendező határozat jogerőre emelkedésétől számított két éven belül abban az esetben lehet kérni, ha azok a körülmények, amelyekre a bíróság vagy a gyámhivatal a döntését alapította utóbb lényegesen megváltoztak és a kapcsolattartás újraszabályozása a gyermek érdekeit szolgálja.
+32. §[^135] (1) A kapcsolattartás megváltoztatása során a gyámhivatal a korábban megállapított kapcsolattartás formájának, gyakoriságának, időtartamának és helyének megváltoztatásáról külön-külön vagy együttesen is dönthet.
 
-(2)[^139] A kapcsolattartás újraszabályozása során a bíróság vagy a gyámhivatal a korábban megállapított kapcsolattartás formájának, gyakoriságának, időtartamának, helyének megváltoztatásáról – külön-külön vagy együttesen – is dönthet.
+(2) Ha a kapcsolattartás megváltoztatására indult eljárásban a rendelkezésre álló adatok szerint a kapcsolattartási jog korlátozása, szüneteltetése vagy megvonása látszik indokoltnak, a gyámhivatal a határozatban megállapított kapcsolattartás végrehajtását az új határozat jogerőre emelkedéséig felfüggesztheti.
 
-(3)[^140] Ha a kapcsolattartás újraszabályozására indult eljárásban a rendelkezésre álló adatok szerint a kapcsolattartási jog korlátozása, szüneteltetése vagy megvonása látszik indokoltnak, a gyámhivatal, illetőleg a bíróság a határozatban megállapított kapcsolattartás végrehajtását az új határozat jogerőre emelkedéséig felfüggesztheti.
+(3) A gyámhivatal kérelemre a kapcsolattartás megváltoztatására indult eljárásban a gyermek érdekében a kapcsolattartás korlátozását feloldhatja, vagy a kapcsolattartási jogot visszaállíthatja, ha azok a körülmények, amelyekre a határozatát korábban alapította, már nem állnak fenn.
 
-(2)[^141] A gyámhivatal, illetve a bíróság kérelemre a kapcsolattartás újraszabályozására indult eljárásban a gyermek érdekében a kapcsolattartás korlátozását feloldhatja, illetve a kapcsolattartási jogot visszaállíthatja, ha azok a körülmények, amelyekre a határozatát korábban alapította, már nem állnak fenn.
+(4) Nem számít a kapcsolattartás megváltoztatásának, ha a gyámhivatal a kapcsolattartás végrehajtása iránti eljárás során – a kapcsolattartás gyakorlásának elősegítése érdekében – a kapcsolattartás érdemét nem befolyásoló módon dönt a feleknek a 33. § (5) bekezdés c) pontja szerinti, a kapcsolattartás megszervezésére vonatkozó kérelméről.
 
-[^138]: A 32. § új (1) bekezdését a 315/2005. (XII. 25.) Korm. rendelet 30. §-a iktatta be, egyidejűleg az eredeti (1) bekezdés számozását (3) bekezdésre változtatta.
-[^139]: A 32. § új (2) bekezdését a 315/2005. (XII. 25.) Korm. rendelet 30. §-a iktatta be, egyidejűleg az eredeti (1) bekezdés számozását (4) bekezdésre változtatta.
-[^140]: A 32. § eredeti (1) bekezdésének számozását (3) bekezdésre változtatta a 315/2005. (XII. 25.) Korm. rendelet 30. §-a, szövege az 57/2006. (III. 21.) Korm. rendelet 16. § (12) bekezdésének b) pontja szerint módosított szöveg.
-[^141]: A 32. § eredeti (2) bekezdésének számozását (4) bekezdésre változtatta a 315/2005. (XII. 25.) Korm. rendelet 30. §-a.
+[^134]: A 32. §-t megelőző alcím a 70/2014. (III. 13.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.
+[^135]: A 32. § a 70/2014. (III. 13.) Korm. rendelet 17. § (2) bekezdésével megállapított szöveg.

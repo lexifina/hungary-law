@@ -1,6 +1,6 @@
-## A gondozási hely meghatározása és a járulékos kérdések eldöntése[^595]
+## A gondozási hely meghatározása és a járulékos kérdések eldöntése[^657]
 
-103. §[^596] (1) A gyámhivatal a nevelésbe vétel kezdő időpontját követő harmincöt napon belül a gyermekvédelmi gyám, a gyermek gondozási helye, a vér szerinti családot gondozó gyermekjóléti szolgálat tájékoztatása, javaslata, a gyermekvédelmi szakszolgálat elhelyezési javaslata és egyéni elhelyezési terve, valamint a megyei (fővárosi) gyermekvédelmi szakértői bizottság szakvéleménye alapján – az ítélőképessége birtokában lévő gyermek véleményének figyelembevételével – meghatározza a gondozási helyet és dönt a Gyvt. 79. § (5) bekezdése szerinti járulékos kérdésekről.
+103. §[^658] (1) A gyámhivatal a nevelésbe vétel kezdő időpontját követő harmincöt napon belül a gyermekvédelmi gyám, a gyermek gondozási helye, a vér szerinti családot gondozó gyermekjóléti szolgálat tájékoztatása, javaslata, a gyermekvédelmi szakszolgálat elhelyezési javaslata és egyéni elhelyezési terve, valamint a megyei (fővárosi) gyermekvédelmi szakértői bizottság szakvéleménye alapján – az ítélőképessége birtokában lévő gyermek véleményének figyelembevételével – meghatározza a gondozási helyet és dönt a Gyvt. 79. § (5) bekezdése szerinti járulékos kérdésekről.
 
 (2) A gyámhivatal a gyermek ideiglenes hatályú elhelyezését vagy a gyermek nevelésbe vételére irányuló eljárás megindítását követő öt napon belül, vagy a gyermek nevelésbe vételével egyidejűleg megkeresi a gyermekvédelmi szakszolgálatot, hogy készítse elő az elhelyezési javaslatot és az egyéni elhelyezési tervet, kivéve, ha ideiglenes hatályú elhelyezés esetén a gyermek másik szülőnél vagy más személynél történő elhelyezésének vizsgálata még folyamatban van.
 
@@ -58,5 +58,5 @@ db) a gyermeket gondozó intézmény, személy útján vagy a megyei (fővárosi
 
 (13) A gondozási hely meghatározására irányuló eljárás során a szülő – ha szülői felügyeleti jogát nem szüntették meg – kérheti, hogy a gyermeket nevelőszülőnél, gyermekotthonban, fogyatékosok vagy pszichiátriai betegek otthonában helyezzék el. A kért elhelyezési módtól különösen akkor lehet eltérni, ha az ellentétes a gyermek érdekével vagy az elhelyezés feltételei nem állnak fenn.
 
-[^595]: A 103. §-t megelőző alcím a 257/2013. (VII. 5.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^596]: A 103. § a 257/2013. (VII. 5.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^657]: A 103. §-t megelőző alcím a 257/2013. (VII. 5.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^658]: A 103. § a 257/2013. (VII. 5.) Korm. rendelet 6. §-ával megállapított szöveg.

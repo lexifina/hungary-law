@@ -1,18 +1,27 @@
-## A szülői ház elhagyása
+## A gyermek nevének megállapítása
 
-21. § (1)[^82] A szülői ház elhagyásával kapcsolatos eljárás a gyermek, a szülői felügyeleti jogot gyakorló szülő, illetve a gyermeket gondozó vagy a gyermek gondozását vállalni szándékozó személy kérelmére indul.
+21. § (1) A gyámhivatal a gyermek családi és utónevének megállapítása érdekében, ha
 
-(2) A gyámhivatal a szülői ház vagy a szülők által kijelölt más tartózkodási hely elhagyásának engedélyezése során [Csjt. 77. § (2) bek.] vizsgálja, hogy a gyermek törvényes képviselete, lakhatása és tartása a kérelemben megjelölt helyen miképpen biztosítható.
+a) a szülői felügyeletet közösen gyakorló együtt élő vagy különélő szülők a gyermek családi és utónevének meghatározásával kapcsolatos megállapodásukat a gyámhivatal felhívásától számítva harminc napon belül nem jelentik be, tárgyalást tart a szülők megállapodásának elősegítésére, vagy
 
-(3) A gyámhivatal a (2) bekezdésben megjelölt eljárása során, ha a gyermek nem intézménybe, hanem magánszemélyhez kíván költözni, köteles a magánszemélyt is meghallgatni és nála környezettanulmányt készíteni.
+b) a gyermek mindkét szülője ismeretlen, határozattal dönt a gyermek családi és utónevéről, egyidejűleg a 62. § (3) bekezdésében foglaltak szerint megállapítja a képzelt szülők adatait.
 
-(4)[^83] Ha a gyámhivatal a szülői ház elhagyását engedélyezi, egyúttal megállapítja, hogy a szülői ház elhagyásának engedélyezése – a gondozás, nevelés kivételével – a szülők szülői felügyeleti jogát és tartási kötelezettségét nem érinti.
+(2) A gyámhivatal az (1) bekezdés a) pontja szerinti intézkedés
 
-(5)[^84] Ha a gyámhivatal a kérelmet elutasítja és a gyermek a szülői házat már engedély nélkül elhagyta, egyidejűleg kötelezi a gyermeket a visszatérésre. Ugyanígy jár el abban az esetben is, ha az engedély megadását követően a feltételek megváltozása miatt az engedélyt visszavonja.
+a) eredményessége esetén a szülők döntése alapján határozza meg a gyermek nevét, vagy
 
-(6)[^85] A szülői ház elhagyásának engedélyezéséről szóló határozatát a gyámhivatal közli a családtámogatási ellátást folyósító szervvel.
+b) eredménytelensége esetén határozattal dönt a gyermek családi és utónevéről.
 
-[^82]: A 21. § (1) bekezdése az 57/2006. (III. 21.) Korm. rendelet 16. § (12) bekezdésének a) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 16. § (4) bekezdését.
-[^83]: A 21. § új (4) bekezdését a 14/2003. (II. 12.) Korm. rendelet 6. §-a iktatta a szövegbe, egyidejűleg az eredeti (4) bekezdés számozását (5) bekezdésre változtatva. E módosító rendelet 98. §-ának (1) bekezdése alapján a 2003. február 15. napja után indult ügyekben kell alkalmazni, a folyamatban lévő első és másodfokú ügyekben a korábbi rendelkezések az irányadóak.
-[^84]: A 21. § eredeti (4) bekezdésének számozását a 14/2003. (II. 12.) Korm. rendelet 6. §-a (5) bekezdésre változtatta.
-[^85]: A 21. § (6) bekezdését a 275/2008. (XI. 21.) Korm. rendelet 1. §-a iktatta be, szövege a 173/2009. (VIII. 29.) Korm. rendelet 66. § (1) bekezdés 8. pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 61. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 30-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+(3) A gyámhivatal a gyermek utónevének megállapítása érdekében meghallgatja a szülői felügyeleti jogát egyedül gyakorló szülőt, ha a szülő az anyakönyvvezető vagy a gyámhivatal felhívása ellenére a gyermek utónevét – a felhívás közlésétől számított harminc napon belül – nem határozta meg. Ha a meghallgatás
+
+a) eredményre vezet, a gyámhivatal a szülő döntése alapján határozza meg a gyermek nevét, vagy
+
+b) nem vezet eredményre, a gyámhivatal határozattal dönt a gyermek utónevéről.
+
+(4) A (3) bekezdés szerinti esetben, feltéve, hogy a gyermek családi jogállása rendezett, a gyámhivatal a gyermek utónevének megállapítása érdekében meghallgatja a másik szülőt is, és véleményének figyelembevételével dönt, ha a másik szülő szülői felügyeleti joga szünetel és
+
+a) cselekvőképtelen kiskorú,
+
+b) korlátozottan cselekvőképes kiskorú, vagy
+
+c) a cselekvőképességében a szülői felügyeleti jogok gyakorlása tekintetében részlegesen korlátozott nagykorú személy.

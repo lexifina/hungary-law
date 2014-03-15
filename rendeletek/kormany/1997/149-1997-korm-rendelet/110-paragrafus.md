@@ -1,6 +1,6 @@
-## A nevelésbe vétel megszüntetése és megszűnése[^610]
+## A nevelésbe vétel megszüntetése és megszűnése[^673]
 
-110. §[^611] (1) A nevelésbe vételt megszüntető, illetve a megszűnést megállapító határozat rendelkező része a 14. §-ban foglaltakon kívül tartalmazza
+110. §[^674] (1) A nevelésbe vételt megszüntető, illetve a megszűnést megállapító határozat rendelkező része a 14. §-ban foglaltakon kívül tartalmazza
 
 a) az arra jogosult szülő vagy családbafogadó gyám felhívását a gyermek gondozására,
 
@@ -28,5 +28,5 @@ j) az illetékes járási hivatal felhívását a közgyógyellátási igazolvá
 
 (4) Ha a nevelésbe vétel a gyermek családbafogadásával szűnik meg, a gyámhivatal a 92. § és a 146. § (5) bekezdése alapján jár el.
 
-[^610]: A 110. §-t megelőző alcím a 97/2013. (III. 29.) Korm. rendelet 41. §-ával megállapított szöveg.
-[^611]: A 110. § a 97/2013. (III. 29.) Korm. rendelet 41. §-ával megállapított szöveg.
+[^673]: A 110. §-t megelőző alcím a 97/2013. (III. 29.) Korm. rendelet 41. §-ával megállapított szöveg.
+[^674]: A 110. § a 97/2013. (III. 29.) Korm. rendelet 41. §-ával megállapított szöveg.

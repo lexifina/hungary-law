@@ -2,25 +2,37 @@
 
 ## A kapcsolattartási ügyek
 
-27. §[^98] (1) A kapcsolattartás célja, hogy
+27. §[^82] (1) A kapcsolattartás célja, hogy
 
 a) a gyermek és a 28. § (1) bekezdése szerinti kapcsolattartásra jogosult személyek (a továbbiakban: kapcsolattartásra jogosult) közötti családi kapcsolatot fenntartsa, továbbá
 
 b) a kapcsolattartásra jogosult szülő a gyermek nevelését, fejlődését folyamatosan figyelemmel kísérje, tőle telhetően segítse.
 
-(2) A kapcsolattartás formái a folyamatos és az időszakos kapcsolattartás.
+(2)[^83] A kapcsolattartás formái a folyamatos, az időszakos és a felügyelt kapcsolattartás.
 
-(3) A folyamatos kapcsolattartás magában foglalja
+(3)[^84] A folyamatos kapcsolattartás magában foglalja
 
-a) a gyermekkel a gyermek szokásos tartózkodási helyén való személyes találkozást (meglátogatás),
+a) a gyermekkel a gyermek szokásos tartózkodási helyén való személyes találkozást (a továbbiakban: meglátogatás),
 
-b) a gyermeknek a szokásos tartózkodási helyéről rendszeresen, meghatározott időtartamra – a visszaadás kötelezettségével történő – elvitelét,
+b) a gyermeknek a szokásos tartózkodási helyéről rendszeresen, meghatározott időtartamra, a visszaadás kötelezettségével történő elvitelét, meghatározott időtartamú külföldre vitelét, és
 
-c) a gyermekkel személyes érintkezés nélkül történő rendszeres kapcsolattartást, így különösen a levelezést, a telefonkapcsolatot, az ajándékozást, a csomagküldést.
+c) a gyermekkel személyes találkozás nélkül történő rendszeres kapcsolattartást – így különösen a levelezést, a telefonkapcsolatot, illetve az informatikai eszköz útján való kapcsolatot –, az ajándékozást és a csomagküldést.
 
-(4) Az időszakos kapcsolattartás magában foglalja a gyermekkel a tanítási szünetek és a többnapos ünnepek időszakában való huzamos együttlétet.
+(4)[^85] Az időszakos kapcsolattartás magában foglalja a gyermekkel a tanítási szünetek és a többnapos ünnepek időszakában való huzamos együttlétet, a külföldre vitel lehetőségével vagy annak a gyermek érdekében való kizárásával.
 
-(5)[^99] Nincs helye folyamatos kapcsolattartásnak
+(4a)[^86] A felügyelt kapcsolattartás elrendelésével a gyámhivatal arra törekszik, hogy a gyermek számára biztonságos körülmények között segítse elő a kapcsolattartásra jogosulttal a családi kapcsolat felépítését vagy helyreállítását.
+
+(4b)[^87] A felügyelt kapcsolattartás esetén a gyermek és a kapcsolattartásra jogosult találkozására a – szakmai programja alapján kapcsolattartási ügyeletet biztosító – gyermekjóléti szolgálat vagy gyermekjóléti központ kapcsolattartási ügyeletén, vagy más, kapcsolattartással összefüggő tevékenységet nyújtó szolgáltató által biztosított helyszínen (a továbbiakban együtt: a felügyelt kapcsolattartás helyszíne), a kapcsolattartást felügyelő szakember jelenlétében és tanácsadása mellett kerül sor. A felügyelt kapcsolattartás eredményeként – a felügyelt kapcsolattartást biztosító szolgáltató javaslatára – a felügyelt kapcsolattartás helyszínén megvalósulhat a szakember jelenléte nélküli találkozás a gyermek és a kapcsolattartásra jogosult között, kivéve, ha ezt a lehetőséget a gyámhivatal döntése kizárta.
+
+(4c)[^88] A gyámhivatal a felügyelt kapcsolattartást biztosító szolgáltató javaslatára felülvizsgálja a felügyelt kapcsolattartást. A felülvizsgálat eredményeként – ha a kapcsolattartásra jogosult és a 29/A. § (1) bekezdése szerinti kapcsolattartásra kötelezett között nem jött létre egyezség – a gyámhivatal dönt a gyermek érdekében
+
+a) a kapcsolattartás elvitel vagy meglátogatás formájában való gyakorlásáról,
+
+b) a kapcsolattartás korlátozásáról, megvonásáról, vagy
+
+c) a felügyelt kapcsolattartás fenntartásáról.
+
+(5)[^89] Nincs helye folyamatos kapcsolattartásnak
 
 a) az időszakos kapcsolattartás ideje alatt,
 
@@ -32,10 +44,17 @@ bb) ha a kapcsolattartást rendező egyezség, illetve a kapcsolattartás enged�
 
 ## nem haladhatja meg.
 
-(6)[^100] A gyermek érdekét veszélyeztető körülmény, illetve felróható magatartás hiányában a kapcsolattartásra jogosulttól az elvitel jogát is magában foglaló kapcsolattartás nem vonható meg.
+(6)[^90] A gyermek érdekét veszélyeztető körülmény vagy felróható magatartás hiányában a kapcsolattartásra jogosulttól az elvitel, és – különösen, ha a kapcsolattartásra jogosult szülő szokásos tartózkodási helye külföldön van – a meghatározott időtartamú külföldre vitel jogát is magában foglaló kapcsolattartás nem vonható meg.
 
-(7) A gyermek elvitelével felmerülő költségek a kapcsolattartásra jogosultat terhelik.
+(7)[^91]
 
-[^98]: A 27. § a 315/2005. (XII. 25.) Korm. rendelet 24. §-ával megállapított szöveg.
-[^99]: A 27. § (5) bekezdése a 251/2006. (XII. 6.) Korm. rendelet 6. §-ával megállapított szöveg. E módosító rendelet 21. § (3) bekezdése alapján a rendelkezést a 2007. január 1. napja után indult ügyekben és a megismételt eljárásokban kell alkalmazni.
-[^100]: A 27. § (6) bekezdése a 275/2008. (XI. 21.) Korm. rendelet 23. § (6) bekezdés a) pont ac) alpontja szerint módosított szöveg.
+[^82]: A 27. § a 315/2005. (XII. 25.) Korm. rendelet 24. §-ával megállapított szöveg.
+[^83]: A 27. § (2) bekezdése a 70/2014. (III. 13.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^84]: A 27. § (3) bekezdése a 70/2014. (III. 13.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^85]: A 27. § (4) bekezdése a 70/2014. (III. 13.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^86]: A 27. § (4a) bekezdését a 70/2014. (III. 13.) Korm. rendelet 7. § (2) bekezdése iktatta be.
+[^87]: A 27. § (4b) bekezdését a 70/2014. (III. 13.) Korm. rendelet 7. § (2) bekezdése iktatta be.
+[^88]: A 27. § (4c) bekezdését a 70/2014. (III. 13.) Korm. rendelet 7. § (2) bekezdése iktatta be.
+[^89]: A 27. § (5) bekezdése a 251/2006. (XII. 6.) Korm. rendelet 6. §-ával megállapított szöveg. E módosító rendelet 21. § (3) bekezdése alapján a rendelkezést a 2007. január 1. napja után indult ügyekben és a megismételt eljárásokban kell alkalmazni.
+[^90]: A 27. § (6) bekezdése a 70/2014. (III. 13.) Korm. rendelet 7. § (3) bekezdésével megállapított szöveg.
+[^91]: A 27. § (7) bekezdését a 70/2014. (III. 13.) Korm. rendelet 87. § (1) bekezdés a) pontja hatályon kívül helyezte.

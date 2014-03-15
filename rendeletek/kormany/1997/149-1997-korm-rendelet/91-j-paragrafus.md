@@ -1,15 +1,15 @@
-## 91/I. §[^553] Az iskoláztatási támogatás szüneteltetésének megszüntetését követően a gyermek védelembe vételét legalább az iskoláztatási támogatás szüneteltetésének időtartamával megegyező ideig, legfeljebb azonban a gyermek 16 éves korát követő első felülvizsgálatig fenn kell tartani. Ezt követően a védelembe vétel a gyermek nagykorúvá válásáig csak akkor tartható fenn, ha attól eredmény várható.
+## 91/I. §[^612] Az iskoláztatási támogatás szüneteltetésének megszüntetését követően a gyermek védelembe vételét legalább az iskoláztatási támogatás szüneteltetésének időtartamával megegyező ideig, legfeljebb azonban a gyermek 16 éves korát követő első felülvizsgálatig fenn kell tartani. Ezt követően a védelembe vétel a gyermek nagykorúvá válásáig csak akkor tartható fenn, ha attól eredmény várható.
 
-91/J. §[^554] (1)[^555] Az iskoláztatási támogatás szüneteltetése során a gyámhivatal és a Magyar Államkincstárnak az iskoláztatási támogatást folyósító területi szerve az adategyeztetést elektronikus úton folytatja le.
+91/J. §[^613] (1)[^614] Az iskoláztatási támogatás szüneteltetése során a gyámhivatal és a Magyar Államkincstárnak az iskoláztatási támogatást folyósító területi szerve az adategyeztetést elektronikus úton folytatja le.
 
-(2)[^556] Ha a gyámhivatal illetékessége az iskoláztatási támogatás szüneteltetése alatt szűnik meg, a gyámhivatal
+(2)[^615] Ha a gyámhivatal illetékessége az iskoláztatási támogatás szüneteltetése alatt szűnik meg, a gyámhivatal
 
-a)[^557] megküldi az ügyben keletkezett iratokat az illetékessé vált gyámhivatalnak, és
+a)[^616] megküldi az ügyben keletkezett iratokat az illetékessé vált gyámhivatalnak, és
 
 b) értesíti az illetékességváltozásról a Magyar Államkincstárnak az iskoláztatási támogatást folyósító területi szervét.
 
-[^553]: A 91/I. §-t a 237/2010. (IX. 13.) Korm. rendelet 8. §-a iktatta be, szövege a 236/2012. (VIII. 30.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^554]: A 91/J. §-t a 237/2010. (IX. 13.) Korm. rendelet 8. §-a iktatta be, szövege a 236/2012. (VIII. 30.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^555]: A 91/J. § (1) bekezdése a 236/2012. (VIII. 10.) Korm. rendelet 7. § (2) bekezdés c) pontja szerint módosított szöveg.
-[^556]: A 91/J. § (2) bekezdés nyitó szövegrésze a 236/2012. (VIII. 10.) Korm. rendelet 7. § (2) bekezdés d) pontja szerint módosított szöveg.
-[^557]: A 91/J. § (2) bekezdés a) pontja a 236/2012. (VIII. 10.) Korm. rendelet 7. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^612]: A 91/I. §-t a 237/2010. (IX. 13.) Korm. rendelet 8. §-a iktatta be, szövege a 236/2012. (VIII. 30.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^613]: A 91/J. §-t a 237/2010. (IX. 13.) Korm. rendelet 8. §-a iktatta be, szövege a 236/2012. (VIII. 30.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^614]: A 91/J. § (1) bekezdése a 236/2012. (VIII. 10.) Korm. rendelet 7. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^615]: A 91/J. § (2) bekezdés nyitó szövegrésze a 236/2012. (VIII. 10.) Korm. rendelet 7. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^616]: A 91/J. § (2) bekezdés a) pontja a 236/2012. (VIII. 10.) Korm. rendelet 7. § (2) bekezdés b) pontja szerint módosított szöveg.

@@ -1,11 +1,10 @@
-## A képzelt apa adatainak megállapítása
+## A képzelt szülő adatainak a megállapítása[^360]
 
-## 60. §[^317] A gyámhivatal a születési anyakönyvbe apa adatai nélkül bejegyzett gyermek részére képzelt személyt állapít meg apaként
+60. §[^361] (1) A gyámhivatal az apa adatai nélkül anyakönyvezett kiskorú gyermek részére az anya kérelmére képzelt személyt állapít meg apaként, feltéve, hogy az apaság megállapítása iránt nincs per folyamatban, illetve nincs eljárás folyamatban a gyermek örökbefogadásának engedélyezése iránt.
 
-a) a gyermek harmadik életévének betöltéséig az anya kérelmére bármikor,
+(2) A gyermek a nagykorúvá válását követően bármikor kérheti a gyámhivataltól, hogy számára képzelt személyt állapítsanak meg apaként, feltéve hogy nincs olyan személy, akit apának kell tekinteni.
 
-b) a gyermek harmadik életévének betöltése után hivatalból,
+(3) A gyermek a nagykorúvá válását követően bármikor kérheti a gyámhivataltól a korábban bejegyezett képzelt apa nevének és adatainak törlését, valamint nyilatkozhat arról, hogy a továbbiakban viselni kívánja-e a képzelt apa családi nevét.
 
-feltéve, hogy az apaság megállapítása iránt nincs per folyamatban, illetve nincs eljárás folyamatban a gyermek örökbefogadásának engedélyezése iránt.
-
-[^317]: A 60. § a 173/2009. (VIII. 29.) Korm. rendelet 20. §-ával megállapított szöveg. E módosító rendelet 61. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^360]: A 60. §-t megelőző alcím a 70/2014. (III. 13.) Korm. rendelet 47. § (1) bekezdésével megállapított szöveg.
+[^361]: A 60. § a 70/2014. (III. 13.) Korm. rendelet 47. § (2) bekezdésével megállapított szöveg.

@@ -1,21 +1,27 @@
-## A szülők vagyonkezelése
+## A gyermek huzamos időtartamú vagy letelepedés céljából történő külföldi tartózkodási helyének kijelölése
 
-24. § (1) A gyámhivatal a szülők vagyonkezelői jogát a Csjt. 79. §-ának (2) bekezdése, valamint 81. §-ának (2) bekezdése alapján a gyermek érdekében korlátozhatja, továbbá a vagyonkezeléssel kapcsolatos törvényes képviseleti jogát a Csjt. 87. §-ának (2) bekezdése alapján megvonhatja.
+24. § (1) A szülők közötti vita esetén bármelyik szülő kérheti a gyámhivatal döntését a gyermek
 
-(2) Ha a gyermek azzal a kikötéssel kapott valamely vagyont, hogy azt a szülő nem kezelheti, a gyámhivatal e vagyon kezelésére – a vagyont juttató személy javaslatának figyelembevételével – eseti gondnokot rendel ki.
+a) huzamos időtartamú külföldi tartózkodási helyének kijelöléséről, ha a gyermek tanulmányok folytatása, munkavállalás vagy más hasonló célból önállóan vagy egyik szülőjével távozik külföldre, vagy
 
-(3)[^89] A gyermek törvényes képviselője vagy gondozója kezéhez kiutalt gyermektartásdíj, megelőlegezett gyermektartásdíj felhasználását a gyámhivatal – a gyermekjóléti szolgálat véleményének figyelembevételével – indokolt esetben ellenőrizheti.
+b) letelepedés céljából történő külföldi tartózkodási helyének kijelöléséről, ha a gyermek letelepedés céljából egyik szülőjével külföldre távozik.
 
-(4)[^90] Ha a (3) bekezdésben meghatározott személy a kezéhez kiutalt gyermektartásdíjat, megelőlegezett gyermektartásdíjat nem a gyermek érdekében használja fel, a gyámhivatal
+(2) A külföldi tartózkodási hely kijelölését kérő szülő a kérelméhez csatolja azokat az okiratokat, így különösen a külföldi hatóság által kiállított környezettanulmányt, iskolalátogatási igazolást, a szülő jövedelemigazolását, befogadó nyilatkozatot, amelyekből megállapítható, hogy a gyermek nevelése, tartása, ellátása és tanulmányainak folytatása külföldön biztosítva van. A környezettanulmány beszerzéséről a szülő kérelmére a gyámhivatal gondoskodik. Ha a szülő még nem kezdte meg külföldön a munkavégzést, a gyámhivatal a jövedelemigazolás helyett elfogadhatja a szülő nyilatkozatát a várható jövedelméről.
 
-a) szülő esetében a Csjt. 81. §-ának (2) bekezdésében,
+(3) A vita elbírálása során a gyámhivatal mérlegeli, hogy a gyermeknek a különélő szülőjével való kapcsolattartását rendező bírósági vagy gyámhivatali határozat végrehajtása nemzetközi szerződés vagy viszonosság hiányában biztosítható-e.
 
-b) gyám esetében a 158. § (6) bekezdésében, valamint a Csjt. 108. §-ában
+(4) Ha a szülők a gyermek külföldi tartózkodási helyének kijelölésében nem tudnak egyezségre jutni, a gyámhivatal tájékoztatja a feleket a szülői felügyeleti jog gyakorlásának rendezése iránti bírósági eljárás megindításának lehetőségéről.
 
-## foglaltak szerint jár el.
+(5) A gyermek huzamos időtartamú vagy letelepedés céljából történő külföldre távozása esetén a gyámhivatal
 
-(5)[^91] Az a szülő, akinek a gyámhivatal engedélyezte, hogy gyermeke vagyonát igénybe vegye, a 158. §-ban foglaltak szerint eseti számadásra köteles.
+a) határozatában tájékoztatja a gyermek törvényes képviselőjét
 
-[^89]: A 24. § (3) bekezdése a 14/2003. (II. 12.) Korm. rendelet 8. §-ával megállapított, a 173/2009. (VIII. 29.) Korm. rendelet 65. § (1) bekezdés b) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 61. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^90]: A 24. § (4) bekezdését a 14/2003. (II. 12.) Korm. rendelet 8. §-a iktatta a szövegbe. E módosító rendelet 98. §-ának (1) bekezdése alapján a 2003. február 15. napja után indult ügyekben kell alkalmazni, a folyamatban lévő első és másodfokú ügyekben a korábbi rendelkezések az irányadóak.
-[^91]: A 24. § (5) bekezdését a 339/2007. (XII. 15.) Korm. rendelet 17. §-a iktatta be.
+aa) a lakcímváltozásra vonatkozó jogszabályban előírt bejelentési kötelezettségéről,
+
+ab) a tanköteles tanuló tanulmányainak külföldön történő folytatására vonatkozó bejelentési kötelezettségéről, és
+
+ac) arról, hogy kérheti a kapcsolattartás megváltoztatását,
+
+b) határozatában tájékoztatja a kapcsolattartásra jogosult szülőt arról, hogy a külföldre költözést követő három hónapon belül kérheti a gyámhivataltól a kapcsolattartás rendezését, megváltoztatását, ha a gyermek a törvényes képviselőjével az Európai Unió valamely tagállamába jogszerűen távozik, és
+
+c) a gyermek külföldi tartózkodási helyének kijelöléséről szóló határozat rendelkező részét közli a családtámogatási ellátást folyósító szervvel.

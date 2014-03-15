@@ -1,14 +1,10 @@
-## HATODIK RÉSZ
-
-## GYÁMSÁG ÉS GONDNOKSÁG
-
 ## XVII. Fejezet
 
 ## A gyám és gondnok kirendelésével kapcsolatos ügyek
 
 ## A gyám kirendelése
 
-127. § (1) Ha a gyermek részére gyámrendelés szükséges, ennek tényét a Gyvt. 5. §-ának d) pontjában meghatározott hozzátartozók, valamint a Csjt. 94. §-ának (3) bekezdésében meghatározott szervek és személyek kötelesek jelezni a gyámhivatalnak. A gyám kirendelését azonban bármely más szerv vagy személy is kezdeményezheti.
+127. § (1)[^708] A gyámhivatal a Ptk. 4:225. § (1) bekezdésében meghatározott szervek, személyek, valamint bármely más szerv vagy személy jelzése, értesítése alapján hivatalból eljárást indít a gyámrendelés iránt.
 
 (2) A gyámhivatal gyámot a szülői felügyelet alatt nem álló gyermek részére rendel. Nem áll szülői felügyelet alatt a gyermek, ha
 
@@ -16,33 +12,40 @@ a) a szülők meghaltak,
 
 b) a szülők szülői felügyeletét a bíróság megszüntette,
 
-c)[^639] a szülők cselekvőképtelenek vagy cselekvőképességükben e tekintetben korlátozva vannak,
+c)[^709] a szülők cselekvőképtelenek vagy korlátozottan cselekvőképes kiskorúak, függetlenül attól, hogy tizenhatodik életévük betöltésétől a gondozás, nevelés jogát gyakorolhatják, vagy cselekvőképességükben a szülői felügyeleti jogok gyakorlása tekintetében részlegesen korlátozott nagykorú személyek,
 
 d) a szülők ismeretlen helyen távol vannak, vagy ténylegesen akadályozva vannak,
 
 e) a bíróság a gyermeket harmadik személynél helyezte el,
 
-f)[^640] a gyermeket a gyámhivatal nevelésbe vette,
+f)[^710] a gyermeket a gyámhivatal nevelésbe vette,
 
 g) a gyámhivatal a gyermek családba fogadásához hozzájárult,
 
-h)[^641] a gyámhivatal a gyermeket ideiglenes hatállyal hozzátartozónál vagy más személynél, illetőleg nevelőszülőnél, gyermekotthonban, fogyatékosok vagy pszichiátriai betegek otthonában helyezte el és szülője ellen szülői felügyelet megszüntetése, illetőleg gyermek elhelyezése iránt per van folyamatban,
+h)[^711] a gyámhivatal a gyermeket ideiglenes hatállyal hozzátartozónál vagy más személynél, nevelőszülőnél, gyermekotthonban, fogyatékosok vagy pszichiátriai betegek otthonában helyezte el, és szülője ellen a szülői felügyelet megszüntetése vagy a szülői felügyelet rendezése iránti per van folyamatban,
 
-i)[^642] a szülő hathetes életkornál fiatalabb gyermeke ismeretlen személy általi örökbefogadásához hozzájárult,
+i)[^712] a szülő hathetes életkornál fiatalabb gyermeke ismeretlen személy általi örökbefogadásához hozzájárult,
 
-j)[^643] a szülő a gyermeke ismert személy általi örökbefogadásához hozzájárult, kivéve, ha a szülő a házastárs által történő örökbefogadáshoz járult hozzá.
+j)[^713] a szülő a hathetes életkornál fiatalabb gyermeke ismert személy általi örökbefogadásához hozzájárult, kivéve, ha a szülő a házastárs által történő örökbefogadáshoz járult hozzá,
 
-(3)[^644] A gyámhivatal gyermekvédelmi gyámot rendel a gyermek részére, ha a szülő hozzájárult gyermeke ismeretlen személy általi örökbefogadásához, és a gyermeket ideiglenesen a leendő örökbefogadó szülőnél helyezték el [Csjt. 98. § (4) bek. d) pont].
+k)[^714] a szülő a gyermek vagy a gyermekkel közös háztartásban élő hozzátartozója sérelmére elkövetett cselekmény miatt elrendelt távoltartó határozat hatálya alatt áll, és a gyermeknek nincs másik szülői felügyeleti jogot gyakorló szülője,
 
-(4)[^645] Ha a szülő gyermekének általa ismert személy részéről történő örökbefogadásához járult hozzá, és az örökbefogadás engedélyezését a megnevezett leendő örökbefogadó szülő egyidejűleg maga is kéri – alkalmassága esetén – az örökbefogadni szándékozó személyt a gyámhivatal a gyermek családbafogadó gyámjául rendeli ki.
+l)[^715] a szülői felügyeleti jog gyakorlására jogosult szülő együtt él a szülői felügyelettől megfosztott másik szülővel, az életközösségük fennállása alatt.
 
-(5)[^646] Ha a szülői felügyeleti jogot gyakorló szülő meghal, szülői felügyeletét a bíróság megszüntette vagy az szünetel, de a másik szülő él és szülői felügyeletét gyakorolhatja, gyám rendelésének nincs helye.
+(3)[^716] A gyámhivatal gyermekvédelmi gyámot rendel a gyermek részére, ha a szülő hozzájárult gyermeke ismeretlen személy általi örökbefogadásához [Ptk. 4:230. § c) pontja].
 
-[^639]: A 127. § (2) bekezdés c) pontja a 360/2010. (XII. 30.) Korm. rendelet 25. § 26. pontja szerint módosított szöveg.
-[^640]: A 127. § (2) bekezdés f) pontja a 97/2013. (III. 29.) Korm. rendelet 64. § (2) bekezdés i) pontja szerint módosított szöveg.
-[^641]: A 127. § (2) bekezdésének h) pontja a 14/2003. (II. 12.) Korm. rendelet 80. §-ának (1) bekezdésével megállapított, a 97/2013. (III. 29.) Korm. rendelet 65. § (3) bekezdés 17. pontja szerint módosított szöveg.
-[^642]: A 127. § (2) bekezdésének i) pontját a 14/2003. (II. 12.) Korm. rendelet 80. §-ának (1) bekezdése iktatta a szövegbe. E módosító rendelet 98. §-ának (1) bekezdése alapján a 2003. február 15. napja után indult ügyekben kell alkalmazni, a folyamatban lévő első és másodfokú ügyekben a korábbi rendelkezések az irányadóak.
-[^643]: A 127. § (2) bekezdésének j) pontját a 14/2003. (II. 12.) Korm. rendelet 80. §-ának (1) bekezdése iktatta a szövegbe. E módosító rendelet 98. §-ának (1) bekezdése alapján a 2003. február 15. napja után indult ügyekben kell alkalmazni, a folyamatban lévő első és másodfokú ügyekben a korábbi rendelkezések az irányadóak.
-[^644]: A 127. § új (3) bekezdést a 14/2003. (II. 12.) Korm. rendelet 80. §-ának (2) bekezdése iktatta a szövegbe, s egyidejűleg az eredeti (3) bekezdés számozását (5) bekezdésre változtatta. A 127. § (3) bekezdése a 97/2013. (III. 29.) Korm. rendelet 65. § (3) bekezdés 18. pontja szerint módosított szöveg.
-[^645]: A 127. § (4) bekezdést a 14/2003. (II. 12.) Korm. rendelet 80. §-ának (2) bekezdése iktatta a szövegbe, s egyidejűleg az eredeti (3) bekezdés számozását (5) bekezdésre változtatta. Szövege a 21/2012. (II. 29.) Korm. rendelet 17. § q) pontja szerint módosított szöveg.
-[^646]: A 127. § eredeti (3) bekezdésének számozását a 14/2003. (II. 12.) Korm. rendelet 80. §-ának (2) bekezdése (5) bekezdésre változtatta.
+(4)[^717] Ha a szülő hathetes életkornál fiatalabb gyermekének általa ismert személy részéről történő örökbefogadásához járult hozzá, és az örökbefogadás engedélyezését a megnevezett leendő örökbefogadó szülő egyidejűleg maga is kéri – alkalmassága esetén – az örökbefogadni szándékozó személyt a gyámhivatal a gyermek családbafogadó gyámjául rendeli ki.
+
+(5)[^718] Ha a szülői felügyeleti jogot gyakorló szülő meghal, szülői felügyeletét a bíróság megszüntette vagy az szünetel, de a másik szülő él és szülői felügyeletét gyakorolhatja, gyám rendelésének nincs helye.
+
+[^708]: A 127. § (1) bekezdése a 70/2014. (III. 13.) Korm. rendelet 60. § (1) bekezdésével megállapított szöveg.
+[^709]: A 127. § (2) bekezdés c) pontja a 70/2014. (III. 13.) Korm. rendelet 60. § (2) bekezdésével megállapított szöveg.
+[^710]: A 127. § (2) bekezdés f) pontja a 97/2013. (III. 29.) Korm. rendelet 64. § (2) bekezdés i) pontja szerint módosított szöveg.
+[^711]: A 127. § (2) bekezdés h) pontja a 70/2014. (III. 13.) Korm. rendelet 60. § (3) bekezdésével megállapított szöveg.
+[^712]: A 127. § (2) bekezdésének i) pontját a 14/2003. (II. 12.) Korm. rendelet 80. §-ának (1) bekezdése iktatta a szövegbe. E módosító rendelet 98. §-ának (1) bekezdése alapján a 2003. február 15. napja után indult ügyekben kell alkalmazni, a folyamatban lévő első és másodfokú ügyekben a korábbi rendelkezések az irányadóak.
+[^713]: A 127. § (2) bekezdésének j) pontját a 14/2003. (II. 12.) Korm. rendelet 80. §-ának (1) bekezdése iktatta be, szövege a 70/2014. (III. 13.) Korm. rendelet 86. § (1) bekezdés 78. pontja szerint módosított szöveg.
+[^714]: A 127. § (2) bekezdés k) pontját a 70/2014. (III. 13.) Korm. rendelet 60. § (4) bekezdése iktatta be.
+[^715]: A 127. § (2) bekezdés l) pontját a 70/2014. (III. 13.) Korm. rendelet 60. § (4) bekezdése iktatta be.
+[^716]: A 127. § új (3) bekezdést a 14/2003. (II. 12.) Korm. rendelet 80. §-ának (2) bekezdése iktatta be, s egyidejűleg az eredeti (3) bekezdés számozását (5) bekezdésre változtatta. A 127. § (3) bekezdése a 97/2013. (III. 29.) Korm. rendelet 65. § (3) bekezdés 18. pontja, a 70/2014. (III. 13.) Korm. rendelet 86. § (1) bekezdés 79. pontja szerint módosított szöveg.
+[^717]: A 127. § (4) bekezdést a 14/2003. (II. 12.) Korm. rendelet 80. §-ának (2) bekezdése iktatta a szövegbe, s egyidejűleg az eredeti (3) bekezdés számozását (5) bekezdésre változtatta. Szövege a 21/2012. (II. 29.) Korm. rendelet 17. § q) pontja, a 70/2014. (III. 13.) Korm. rendelet 86. § (1) bekezdés 80. pontja szerint módosított szöveg.
+[^718]: A 127. § eredeti (3) bekezdésének számozását a 14/2003. (II. 12.) Korm. rendelet 80. §-ának (2) bekezdése (5) bekezdésre változtatta.

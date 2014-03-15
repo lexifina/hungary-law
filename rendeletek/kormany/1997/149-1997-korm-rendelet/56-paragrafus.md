@@ -2,11 +2,25 @@
 
 56. § (1) A teljes hatályú apai elismerő nyilatkozatot a gyermek születése után vagy azt megelőzően – a fogamzási idő kezdetétől – személyesen lehet megtenni.
 
-(2)[^311] Az elismerésről készített jegyzőkönyvnek tartalmaznia kell mindazokat az adatokat, amelyekből megállapítható, hogy a férfi a gyermeket a Csjt. 37. §-ának (2) bekezdésében meghatározottak szerint teljes hatályú nyilatkozattal a magáénak ismerte el. A gyámhivatal jegyzőkönyvbe foglalja továbbá az anya, a 14. évét betöltött gyermek és a törvényes képviselő hozzájáruló nyilatkozatát, valamint a gyermek családi nevére vonatkozó bejelentést.
+(2)[^347] Az elismerésről készített jegyzőkönyvnek tartalmaznia kell mindazokat az adatokat, amelyekből megállapítható, hogy a férfi a gyermeket a Ptk. 4:101. § (1) bekezdésében meghatározottak szerint teljes hatályú nyilatkozattal a magáénak ismerte el. A gyámhivatal jegyzőkönyvbe foglalja továbbá az anya, a 14. évét betöltött gyermek és a törvényes képviselő hozzájáruló nyilatkozatát, valamint a gyermek családi nevére vonatkozó bejelentést.
 
-(3) Az anyát vagy más törvényes képviselőt, a 14. életévét betöltött gyermeket, illetőleg az apaként megnevezett férfit lehetőleg együtt kell meghallgatni.
+(3)[^348] Az anyát és a gyermek törvényes képviselőjét, feltéve, hogy nem az anya a törvényes képviselő, a tizennegyedik életévét betöltött gyermeket és az apaként megnevezett férfit lehetőség szerint együtt kell meghallgatni.
 
-(4)[^312] A gyámhivatal a teljes hatályú apai elismerő nyilatkozat felvételekor vizsgálja az anya családi állapotát és az anya volt férje tekintetében esetleg fennálló apasági vélelmet. A hajadon családi állapot hatósági bizonyítvánnyal való igazolására kell felhívni az anyát, ha ezen adat a személyi adat- és lakcímnyilvántartásból nem állapítható meg.
+(4)[^349] A gyámhivatal a teljes hatályú apai elismerő nyilatkozat felvételekor vizsgálja a Ptk. 4:101. § (1) bekezdésében foglalt feltétel fennállását, és tájékoztatást ad arról, hogy
 
-[^311]: Az 56. § (2) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 12. § (16) bekezdés 12. pontja szerint módosított szöveg.
-[^312]: Az 56. § (4) bekezdését a 315/2005. (XII. 25.) Korm. rendelet 42. §-a iktatta be, szövege a 173/2009. (VIII. 29.) Korm. rendelet 66. § (1) bekezdés 35. pontja, a 174/2012. (VII. 26.) Korm. rendelet 12. § (16) bekezdés 12. pontja szerint módosított szöveg.
+a) ha az apai elismerő nyilatkozat megtételekor más férfi apaságának megállapítása iránt per van folyamatban, a Ptk. 4:101. § (6) bekezdése alapján az apai elismerő nyilatkozat akkor válik teljes hatályúvá, ha a per jogerős befejezésére az apaság megállapítása nélkül kerül sor, és
+
+b) az apasági vélelem megtámadásának a Ptk. 4:107. § (2) bekezdésében foglaltak alapján is helye van.
+
+(5)[^350] Ha a teljes hatályú apai elismerő nyilatkozat megtételére nagykorú gyermek tekintetében kerül sor, a gyámhivatal tájékoztatja a nagykorú gyermeket, hogy nyilatkozatával kérheti a vér szerinti apa családi nevének viselését vagy az addig viselt családi nevének továbbviselését. Nyilatkozat hiányában a gyámhivatal tájékoztatja a nagykorú gyermeket, hogy névviselését az apaság vélelme nem érinti.
+
+(6)[^351] A hajadon családi állapot közokirattal való igazolására kell felhívni az anyát, ha ezen adat a személyi adat- és lakcímnyilvántartásból nem állapítható meg.
+
+(7)[^352] Ha a (6) bekezdésben meghatározott módon a hajadon családi állapot nem állapítható meg, az anya a gyámhivatal előtt nyilatkozik hajadon családi állapotáról. A gyámhivatal a nyilatkozatot jegyzőkönyvbe foglalja.
+
+[^347]: Az 56. § (2) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 12. § (16) bekezdés 12. pontja, a 70/2014. (III. 13.) Korm. rendelet 86. § (1) bekezdés 45. pontja szerint módosított szöveg.
+[^348]: Az 56. § (3) bekezdése a 70/2014. (III. 13.) Korm. rendelet 44. § (1) bekezdésével megállapított szöveg.
+[^349]: Az 56. § (4) bekezdését a 315/2005. (XII. 25.) Korm. rendelet 42. §-a iktatta be, szövege a 70/2014. (III. 13.) Korm. rendelet 44. § (1) bekezdésével megállapított szöveg.
+[^350]: Az 56. § (5) bekezdését a 70/2014. (III. 13.) Korm. rendelet 44. § (2) bekezdése iktatta be.
+[^351]: Az 56. § (6) bekezdését a 70/2014. (III. 13.) Korm. rendelet 44. § (2) bekezdése iktatta be.
+[^352]: Az 56. § (7) bekezdését a 70/2014. (III. 13.) Korm. rendelet 44. § (2) bekezdése iktatta be.
