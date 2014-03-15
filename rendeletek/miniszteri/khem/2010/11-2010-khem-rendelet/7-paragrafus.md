@@ -48,7 +48,11 @@ b) alkalmazás időpontját;
 
 c) alkalmazás helyét;
 
-d) a nyilvántartás vezetésére kötelezett természetes személy nevét, vagy a nyilvántartásra kötelezett jogi személy, vagy jogi személyiség nélküli gazdasági társaság vezetőjének a nevét;
+d)[^3] a nyilvántartás vezetésére kötelezett
+
+da) természetes személy nevét vagy
+
+db) jogi személy vezetőjének, vagy – ha a jogi személy vezetője jogi személy – a jogi személy vezetője által megjelölt, ténylegesen eljáró természetes személy nevét;
 
 e) a sugárvédelmi megbízott nevét is.
 
@@ -92,7 +96,7 @@ d) lezárt izotóp-nyilvántartó könyvek,
 
 ## amelyek a nyilvántartás alapiratainak minősülnek.
 
-(10)[^3] A nyilvántartás (9) bekezdés szerinti alapiratait az Atv. 16. § (2) bekezdése szerinti határidőig meg kell őrizni, azt követően pedig a Hivatalnak kell átadni. Ezen iratokat a Hivatal az Atv. 16. § (6) bekezdése szerint kezeli és az adatkezelési idő lejártát követően az archív adatbázisba helyezi. A Hivatal az adatok átadásáról, valamint archív adatbázisba helyezéséről a fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerve részeként működő sugár-egészségügyi decentrumot (a továbbiakban: Sugáregészségügyi Decentrum) értesíti.
+(10)[^4] A nyilvántartás (9) bekezdés szerinti alapiratait az Atv. 16. § (2) bekezdése szerinti határidőig meg kell őrizni, azt követően pedig a Hivatalnak kell átadni. Ezen iratokat a Hivatal az Atv. 16. § (6) bekezdése szerint kezeli és az adatkezelési idő lejártát követően az archív adatbázisba helyezi. A Hivatal az adatok átadásáról, valamint archív adatbázisba helyezéséről a fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerve részeként működő sugár-egészségügyi decentrumot (a továbbiakban: Sugáregészségügyi Decentrum) értesíti.
 
 (11) A tevékenység megszűnése esetében a helyi nyilvántartást – a (12) bekezdésben foglalt kivételekkel – a 10. § (1) bekezdés c) pontja szerinti záró leltárral kell lezárni.
 
@@ -104,4 +108,5 @@ b) a radioaktív hulladék, vagy a végleges elhelyezésre kerülő radioaktív 
 
 az arra jogosultnak átadásra kerül.
 
-[^3]: A 7. § (10) bekezdése a 76/2012. (XII. 22.) NFM rendelet 17. §-a szerint módosított szöveg.
+[^3]: A 7. § (5) bekezdés d) pontja a 13/2014. (III. 14.) NFM rendelet 2. §-ával megállapított szöveg.
+[^4]: A 7. § (10) bekezdése a 76/2012. (XII. 22.) NFM rendelet 17. §-a szerint módosított szöveg.
