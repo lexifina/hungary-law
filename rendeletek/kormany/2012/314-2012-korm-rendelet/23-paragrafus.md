@@ -1,6 +1,6 @@
 ## 17. Településképi bejelentési eljárás
 
-23. § (1) A polgármester településképi bejelentési eljárást (a továbbiakban: bejelentési eljárás) folytathat le
+23. § (1)[^15] A polgármester – a műemléket érintő vagy műemléki jelentőségű területen örökségvédelmi engedélyhez kötött tevékenység kivételével – településképi bejelentési eljárást (a továbbiakban: bejelentési eljárás) folytathat le
 
 a) az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló kormányrendeletben építési engedélyhez nem kötött azon építési tevékenységek tekintetében, melynek megkezdését,
 
@@ -33,3 +33,5 @@ c) alaprajzot,
 d) homlokzatot,
 
 e) utcaképi vázlatot, színtervet, látványtervet.
+
+[^15]: A 23. § (1) bekezdés nyitó szövegrésze a 62/2014. (III. 6.) Korm. rendelet 24. §-a szerint módosított szöveg.

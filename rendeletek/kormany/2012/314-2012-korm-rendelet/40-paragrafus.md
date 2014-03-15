@@ -10,13 +10,13 @@ b) 15 napon belül egyeztető tárgyalást kezdeményez az ágazati és az érin
 
 (3) Záró szakmai vélemény akkor adható, ha az (1) bekezdés szerinti valamennyi dokumentum hiánytalanul megküldésre került.
 
-(4)[^17] Az állami főépítész a (2) bekezdés b) pontja szerinti egyeztető tárgyalásra a hely és az időpont megjelölésével a tárgyalás előtt legalább 8 nappal elektronikus úton meghívja a polgármestert, valamint
+(4)[^18] Az állami főépítész a (2) bekezdés b) pontja szerinti egyeztető tárgyalásra a hely és az időpont megjelölésével a tárgyalás előtt legalább 8 nappal elektronikus úton meghívja a polgármestert, valamint
 
 a) a véleményezési szakaszban véleményt adó valamennyi államigazgatási szervet,
 
 b) településszerkezeti terv esetében az érintett területi, települési önkormányzat képviselőjét, továbbá
 
-c)[^18] a fővárosi településrendezési eszköz esetén az érintett kerületi vagy a fővárosi önkormányzat képviselőjét.
+c)[^19] a fővárosi településrendezési eszköz esetén az érintett kerületi vagy a fővárosi önkormányzat képviselőjét.
 
 (5) Az egyeztető tárgyalásról jegyzőkönyv készül, amely tartalmazza a felmerült valamennyi véleményeltéréssel kapcsolatos döntést, és a településrendezési eszköz elfogadására alkalmassá tételéhez szükséges feltételeket.
 
@@ -24,8 +24,8 @@ c)[^18] a fővárosi településrendezési eszköz esetén az érintett kerület
 
 (7) Amennyiben az egyeztető tárgyalás eredményeként a településrendezési eszköz jelentős átdolgozása szükséges, a polgármester az átdolgozást követően a településrendezési eszköz tervezetét ismételten benyújtja az állami főépítésznek, aki ezt követően a (2) bekezdés a) pontja szerint jár el.
 
-(8)[^19] A főváros teljes közigazgatási területére készülő fővárosi településszerkezeti terv és fővárosi rendezési szabályzat teljes eljárása esetén az (1) bekezdés szerinti kérelem beérkezésétől számított 30 napon belül az állami főépítész a (4) és (5) bekezdés szerint egyeztető tárgyalást tart. Az egyeztető tárgyalás eredményeként véglegesített településrendezési eszköz tervezetét a kézhezvételt követően az állami főépítész – véleményével ellátva – 8 napon belül megküldi a településfejlesztésért és a településrendezésért felelős miniszternek, aki záró szakmai véleményét 21 napon belül adja meg.
+(8)[^20] A főváros teljes közigazgatási területére készülő fővárosi településszerkezeti terv és fővárosi rendezési szabályzat teljes eljárása esetén az (1) bekezdés szerinti kérelem beérkezésétől számított 30 napon belül az állami főépítész a (4) és (5) bekezdés szerint egyeztető tárgyalást tart. Az egyeztető tárgyalás eredményeként véglegesített településrendezési eszköz tervezetét a kézhezvételt követően az állami főépítész – véleményével ellátva – 8 napon belül megküldi a településfejlesztésért és a településrendezésért felelős miniszternek, aki záró szakmai véleményét 21 napon belül adja meg.
 
-[^17]: A 40. § (4) bekezdés nyitó szövegrésze a 266/2013. (VII. 11.) Korm. rendelet 54. § (3) bekezdés k) pontja szerint módosított szöveg.
-[^18]: A 40. § (4) bekezdés c) pontja a 266/2013. (VII. 11.) Korm. rendelet 54. § (3) bekezdés k) pontja szerint módosított szöveg.
-[^19]: A 40. § (8) bekezdése a 266/2013. (VII. 11.) Korm. rendelet 54. § (3) bekezdés l) pontja szerint módosított szöveg.
+[^18]: A 40. § (4) bekezdés nyitó szövegrésze a 266/2013. (VII. 11.) Korm. rendelet 54. § (3) bekezdés k) pontja szerint módosított szöveg.
+[^19]: A 40. § (4) bekezdés c) pontja a 266/2013. (VII. 11.) Korm. rendelet 54. § (3) bekezdés k) pontja szerint módosított szöveg.
+[^20]: A 40. § (8) bekezdése a 266/2013. (VII. 11.) Korm. rendelet 54. § (3) bekezdés l) pontja szerint módosított szöveg.
