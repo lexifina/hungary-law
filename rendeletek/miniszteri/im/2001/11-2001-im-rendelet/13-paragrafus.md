@@ -1,1 +1,0 @@
-## Titoktartás, ellenőrzés
