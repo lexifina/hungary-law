@@ -1,10 +1,14 @@
-8. § (1) A tűzoltóság által a tűzoltás, a műszaki mentés vagy az ezzel kapcsolatos gyakorlatok során okozott kár, illetőleg a tűzjelzésben, tűzoltásban, műszaki mentésben közreműködőknek a közreműködésükkel, járműveik, eszközeik, felszereléseik igénybevételével közvetlen összefüggésben keletkezett, más forrásból meg nem térülő kárának megtérítésére – az elmaradt haszon kivételével –, ha e törvény kivételt nem tesz, a Polgári Törvénykönyv szabályait kell alkalmazni.
+8. § (1) A tűzoltóság fenntartója a Polgári Törvénykönyv szerződésen kívül okozott kárért való felelősségre vonatkozó szabályai szerint köteles a tűzoltóság által a tűzoltás, a műszaki mentés vagy a tűzoltással, illetve műszaki mentéssel kapcsolatos gyakorlatok során, azokkal közvetlen összefüggésben harmadik személynek okozott, más forrásból meg nem térülő kárért – az elmaradt vagyoni előny kivételével – a kártérítés megfizetésére.
 
-(2) Nem kell megtéríteni annak a kárát, aki a tüzet szándékosan vagy súlyos gondatlanságból okozta.
+(2) A tűzoltóság fenntartója a Polgári Törvénykönyv sérelemdíjra vonatkozó szabályai szerint köteles a tűzoltóság által a tűzoltás, a műszaki mentés vagy a tűzoltással, illetve műszaki mentéssel kapcsolatos gyakorlatok során – azokkal közvetlen összefüggésben – harmadik személynek okozott személyiségi jogsértésért sérelemdíj megfizetésére.
 
-(3) A kártérítési, illetve kártalanítási ügyekben a kárt okozó tűzoltóság fenntartója jár el.
+(3) A tűzjelzésben, tűzoltásban, műszaki mentésben a 7. § (2) bekezdése alapján közreműködő által a tűzoltás, a műszaki mentés során okozott kárt, illetve személyiségi jogsértést úgy kell tekinteni, mintha azt a tűzoltóság okozta volna. Mentesül a tűzoltóság a felelősség, illetve a sérelemdíjjal való helytállás alól, ha bizonyítja, hogy őt a közreműködő utasításokkal való ellátásában és felügyeletében felróhatóság nem terheli.
 
-(4) Köteles a tűzoltással, műszaki mentéssel és ezek jelzésével kapcsolatosan keletkezett költségek megtérítésére az, aki
+(4) A tűzjelzésben, tűzoltásban, műszaki mentésben a 7. § (2) bekezdése alapján közreműködők a közreműködésükkel, járműveik, eszközeik, felszereléseik igénybevételével közvetlen összefüggésben keletkezett, más forrásból meg nem térülő káruk megtérítésére – az elmaradt vagyoni előny kivételével –, illetve a személyiségi joguk megsértése esetén követelhető sérelemdíj megfizetésére a Polgári Törvénykönyv szerződésen kívül okozott kárért való felelősségre, valamint sérelemdíjra vonatkozó szabályai szerint tarthatnak igényt a tűzoltóság fenntartójától.
+
+(5) Nem kell megtéríteni annak a kárát, illetve nem tarthat igényt sérelemdíjra az, aki a tüzet szándékosan vagy súlyos gondatlanságból okozta.
+
+(6) Köteles a tűzoltással, műszaki mentéssel és ezek jelzésével kapcsolatosan keletkezett költségek megtérítésére az, aki
 
 a) a beavatkozást igénylő eseményt szándékosan okozta;
 

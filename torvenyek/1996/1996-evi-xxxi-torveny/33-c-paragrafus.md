@@ -10,4 +10,4 @@ c) az eseményt észlelőket a helyszínen maradásra, a helyszínen tartózkod�
 
 d) a hivatásos tűzoltóság vagy önkormányzati tűzoltóság helyszínre érkezését követően a tűz oltásában, illetve a műszaki mentésben a tűzoltásvezető intézkedésének megfelelően működik közre.
 
-(2) A közreműködő önkéntes tűzoltó egyesület tagja szaktevékenysége teljesítése során keletkezett kárának megtérítésére a Polgári Törvénykönyv (a továbbiakban: Ptk.) az e törvényben foglalt eltérésekkel irányadó.
+(2) A közreműködő önkéntes tűzoltó egyesület tagja szaktevékenysége teljesítése során keletkezett kárának megtérítésére, valamint a szaktevékenységével összefüggésben őt ért személyiségi jogsértés esetén a sérelemdíj iránti igénye érvényesítésére a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) rendelkezései az e törvényben foglalt eltérésekkel irányadók.

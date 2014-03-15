@@ -8,7 +8,7 @@
 
 a) a tűzoltóságok beruházására, fejlesztésére szolgáló központi költségvetési előirányzat;
 
-b) a rendkívüli események, ideértve a szolgálati feladatok során súlyos munkabalesetet szenvedett tűzoltó kártérítése folytán felmerülő többletköltségek, továbbá a tűzoltóságnak a működési területén kívüli igénybevételével keletkező költségek fedezetére szolgáló költségvetési előirányzat;
+b) a rendkívüli események, ideértve a szolgálati feladatok során súlyos munkabalesetet szenvedett tűzoltó kártérítése, illetve sérelemdíj iránti igényének kielégítése folytán felmerülő többletköltségek, továbbá a tűzoltóságnak a működési területén kívüli igénybevételével keletkező költségek fedezetére szolgáló költségvetési előirányzat;
 
 c) radiológiai, biológiai és vegyi védelmi eszközök, minősített időszaki készletek;
 

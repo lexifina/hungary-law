@@ -4,7 +4,7 @@
 
 (2) A központi költségvetésből történő támogatás mértékének meghatározása során a hivatásos katasztrófavédelmi szerv központi szerve által meghatározott, és a katasztrófák elleni védekezésért felelős miniszter által jóváhagyott állománytáblázatban és gépjárműállomány-táblázatban rögzítetteket kell alapul venni.
 
-(3) A hivatásos tűzoltóság és az önkormányzati tűzoltóság fenntartásával és működésével kapcsolatos rendkívüli kiadások fedezetét a hivatásos katasztrófavédelmi szerv központi szerve költségvetésében kell biztosítani. Ebből kell gondoskodni a működési területen kívüli vonulások költségeiről. A szolgálati feladatok ellátása során súlyos munkabalesetet szenvedett tűzoltók kártérítésére szolgáló fedezetet a munkáltató köteles biztosítani.
+(3) A hivatásos tűzoltóság és az önkormányzati tűzoltóság fenntartásával és működésével kapcsolatos rendkívüli kiadások fedezetét a hivatásos katasztrófavédelmi szerv központi szerve költségvetésében kell biztosítani. Ebből kell gondoskodni a működési területen kívüli vonulások költségeiről. A szolgálati feladatok ellátása során súlyos munkabalesetet szenvedett tűzoltók kártérítésére és sérelemdíjának kifizetésére szolgáló fedezetet a munkáltató köteles biztosítani.
 
 (4) A tűzoltóság fenntartója a tűzoltóság készenléti szolgálatot, és a tűzoltás irányítását ellátó tagjai részére szolgálati tevékenységükre vonatkozóan köteles élet- és balesetbiztosítást kötni.
 
