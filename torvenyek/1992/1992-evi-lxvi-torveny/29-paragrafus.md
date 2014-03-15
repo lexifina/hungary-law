@@ -26,7 +26,7 @@ j) személyazonosító igazolványa okmányazonosítóját.
 
 (3) A polgár személyazonosságát a személyazonosító igazolványon túl az érvényes útlevél vagy kártyaformátumú vezetői engedély igazolja. Személyazonosítás céljából – jogszabályban meghatározott kivételekkel – a polgár nem kötelezhető más okmány bemutatására.
 
-(4) A kiskorúság miatt cselekvőképtelen polgár részére a személyazonosító igazolványt a törvényes képviselő kérelmére kell kiadni. A korlátozottan cselekvőképes kiskorú jogosultat a személyazonosító igazolvány kiadása ügyében megilleti az eljárási képesség.
+(4) A kiskorúság miatt cselekvőképtelen polgár részére a személyazonosító igazolványt a törvényes képviselő kérelmére kell kiadni. A korlátozottan cselekvőképes kiskorú és a cselekvőképességében részlegesen korlátozott nagykorú jogosultat a személyazonosító igazolvány kiadása ügyében megilleti az eljárási képesség.
 
 (5) A polgár köteles a személyazonosító igazolvány kiadását igényelni, ha nem rendelkezik más érvényes, a személyazonosságát igazoló hatósági igazolvánnyal.
 
