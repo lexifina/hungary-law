@@ -8,7 +8,7 @@
 
 4. anyamag: a vetőmag előállításához (termesztéséhez) használt vetőmag,
 
-5.[^10] átruházott jogkörben végzett minősítés: az 1. számú mellékletben és a Nemzeti Fajtajegyzék B és C fejezetében, valamint a 3–5. számú mellékletben felsorolt feltételek ellenőrzése és dokumentálása az erre a tevékenységre a NÉBIH-nél nyilvántartott természetes vagy jogi személy, illetve jogi személyiség nélküli gazdasági társaság által,
+5.[^10] átruházott jogkörben végzett minősítés: az 1. számú mellékletben és a Nemzeti Fajtajegyzék B és C fejezetében, valamint a 3–5. számú mellékletben felsorolt feltételek ellenőrzése és dokumentálása az erre a tevékenységre a NÉBIH-nél nyilvántartott természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező szervezet által,
 
 6. certifikált vetőmag: a forgalmazás előtt hatósági ellenőrzésben részesített és hatóságilag minősített vetőmag, amely eleget tesz a 6. § (1) bekezdésének c) pontjában foglaltaknak,
 
@@ -128,13 +128,13 @@
 
 63.[^16] utóellenőrzés: a fajtaazonosság és a fajtatisztaság ellenőrzése céljából a NÉBIH által a letéti mintából, illetve a hivatalos palánta mintából végzett kisparcellás fajtakitermesztés,
 
-64. üzem: természetes vagy jogi személy, illetve jogi személyiség nélküli gazdasági társaság, amely zöldségpalántát hivatásszerűen előállít, tárol, kezel vagy forgalomba hoz,
+64.[^17] üzem: természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező szervezet, amely zöldségpalántát hivatásszerűen előállít, tárol, kezel vagy forgalomba hoz,
 
 65. vetőmag tisztaság: a fajazonos tiszta mag aránya, amelyet adott magtömegből tömegszázalékban határoznak meg,
 
 66. vetőmag-feldolgozás: a betakarított nyers magtermés átvétele, szükség szerinti szállítása, tisztítása, esetleges csávázása vagy egyéb kezelése (osztályozása, drazsírozása stb.), csomagolása, a feldolgozott kész vetőmag tárolása, fémzárolásra való előkészítése és a végtermék kiadása,
 
-67. vetőmag-feldolgozó: az a megfelelő személyi és tárgyi feltételekkel rendelkező – a 6. §-ban foglaltaknak eleget tevő – természetes vagy jogi személy, illetve jogi személyiség nélküli gazdasági társaság, amely a betakarított nyers magtermést tisztítótelepi feldolgozással fémzárolásra előkészíti,
+67.[^18] vetőmag-feldolgozó: az a megfelelő személyi és tárgyi feltételekkel rendelkező – a 6. §-ban foglaltaknak eleget tevő – természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező szervezet, amely a betakarított nyers magtermést tisztítótelepi feldolgozással fémzárolásra előkészíti,
 
 68. vetőmag-minősítő bizonyítvány: a fémzárolt vetőmagtételre vonatkozó, a tétel adatait és a forgalmazás feltételeinek való megfelelést tartalmazó okirat,
 
@@ -149,10 +149,12 @@
 73. vizsgálati minta: a vetőmag laboratóriumi minta-osztásából származó minta, amelyből az előírt vizsgálatokat végzik.
 
 [^9]: A 2. § 3. pontja az 5/2012. (II.10.) VM rendelet 10. § a) pontja szerint módosított szöveg.
-[^10]: A 2. § 5. pontja a 124/2007. (X. 20.) FVM rendelet 2. §-ával megállapított, a 70/2013. (VII. 31.) VM rendelet 32. § b) pontja szerint módosított szöveg.
+[^10]: A 2. § 5. pontja a 124/2007. (X. 20.) FVM rendelet 2. §-ával megállapított, a 70/2013. (VII. 31.) VM rendelet 32. § b) pontja, a 22/2014. (III. 14.) VM rendelet 22. § b) pontja szerint módosított szöveg.
 [^11]: A 2. § 19. pontja a 124/2007. (X. 20.) FVM rendelet 2. §-ával megállapított szöveg.
 [^12]: A 2. § 26/a. pontját a 14/2011. (II. 24.) VM rendelet 2. § (1) bekezdése iktatta be, szövege az 5/2012. (II.10.) VM rendelet 10. § a) pontja szerint módosított szöveg.
 [^13]: A 2. § 32. pontja a 14/2011. (II. 24.) VM rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^14]: A 2. § 54. pontja a 70/2013. (VII. 31.) VM rendelet 32. § b) pontja szerint módosított szöveg.
 [^15]: A 2. § 58. pontja a 70/2013. (VII. 31.) VM rendelet 32. § c) pontja szerint módosított szöveg.
 [^16]: A 2. § 63. pontja a 70/2013. (VII. 31.) VM rendelet 32. § c) pontja szerint módosított szöveg.
+[^17]: A 2. § 64. pontja a 22/2014. (III. 14.) VM rendelet 22. § b) pontja szerint módosított szöveg.
+[^18]: A 2. § 67. pontja a 22/2014. (III. 14.) VM rendelet 22. § b) pontja szerint módosított szöveg.

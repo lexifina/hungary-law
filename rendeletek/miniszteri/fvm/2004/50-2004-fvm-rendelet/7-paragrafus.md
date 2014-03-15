@@ -1,6 +1,6 @@
 ## Zöldségvetőmag belföldi forgalmazása
 
-7. §[^33] (1) A tagállamokban jogszerűen előállított és forgalomba hozott zöldségvetőmag Magyarországon forgalomba hozható. A tagállamokból származó csemege és pattogató kukorica vetőmagtételek esetében azonban a vetőmagtételt Magyarországon első alkalommal forgalomba hozónak a vetőmagtétel beérkezését követően 5 napon belül írásban tájékoztatnia kell a NÉBIH-et a vetőmagtétel beszállításának tényéről, valamint mennyiségéről a zöldség szaporítóanyagok előállításáról és forgalomba hozataláról szóló 50/2004. (IV. 22.) FVM rendelet módosításáról szóló 81/2013. (IX. 13.) VM rendelet (a továbbiakban: MódR2.) hatálybalépésétől[^34] számított két évig.
+7. §[^35] (1) A tagállamokban jogszerűen előállított és forgalomba hozott zöldségvetőmag Magyarországon forgalomba hozható. A tagállamokból származó csemege és pattogató kukorica vetőmagtételek esetében azonban a vetőmagtételt Magyarországon első alkalommal forgalomba hozónak a vetőmagtétel beérkezését követően 5 napon belül írásban tájékoztatnia kell a NÉBIH-et a vetőmagtétel beszállításának tényéről, valamint mennyiségéről a zöldség szaporítóanyagok előállításáról és forgalomba hozataláról szóló 50/2004. (IV. 22.) FVM rendelet módosításáról szóló 81/2013. (IX. 13.) VM rendelet (a továbbiakban: MódR2.) hatálybalépésétől[^36] számított két évig.
 
 (2) A NÉBIH az (1) bekezdés szerint bejelentett vetőmagtételek géntechnológiával módosított szervezettől való mentességét (a továbbiakban: GMO mentesség) kockázatértékelés alapján vizsgálja. A NÉBIH-nek a bejelentést követően 5 napon belül jeleznie kell a vizsgálati szándékát. A vizsgálati szándék jelzésétől számított 5 napon belül a NÉBIH-nek, a megyei kormányhivatal növény- és talajvédelmi igazgatóságának, illetve standard vetőmag esetén az első alkalommal forgalomba hozónak mintát kell vennie. A megyei kormányhivatal növény- és talajvédelmi igazgatóságának, illetve az első alkalommal forgalomba hozónak a mintavételt követően haladéktalanul továbbítania kell a mintát a NÉBIH-nek. A NÉBIH-nek a vizsgálati eredményt a mintavételtől számított 30 napon belül a bejelentő rendelkezésére kell bocsátania. A vetőmagtétel forgalmazása a vetőmagtétel vizsgálati eredményétől függően kezdhető meg.
 
@@ -10,5 +10,5 @@
 
 (5) A NÉBIH a 38. §-ban foglaltak szerint jár el, amennyiben laboratóriumi vizsgálati eredménye géntechnológiával módosított szervezettel való szennyezettséget állapít meg. A zárolt tétel nem forgalmazható. A zárolt vetőmagot birtokosának a NÉBIH által meghatározott módon meg kell semmisítenie.
 
-[^33]: A 7. § a 81/2013. (IX. 13.) VM rendelet 1. §-ával megállapított szöveg.
-[^34]: A hatálybalépés időpontja 2013. szeptember 14.
+[^35]: A 7. § a 81/2013. (IX. 13.) VM rendelet 1. §-ával megállapított szöveg.
+[^36]: A hatálybalépés időpontja 2013. szeptember 14.

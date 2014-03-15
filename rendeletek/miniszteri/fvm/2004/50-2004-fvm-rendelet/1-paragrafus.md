@@ -10,7 +10,7 @@ c)[^3] a zöldség vetőmagvak előállítására, feldolgozására, kiszerelés
 
 d) a zöldségpalánták előállítására, forgalmazására és ellenőrzésére,
 
-e)[^4] azokra a természetes és jogi személyekre, valamint jogi személyiség nélküli gazdasági társaságokra, akik szaporítóanyag előállítók és árutermelők részére való forgalomba hozatal céljából, hivatásszerűen folytatnak
+e)[^4] azokra a természetes és jogi személyekre, valamint jogi személyiséggel nem rendelkező szervezetekre, akik szaporítóanyag előállítók és árutermelők részére való forgalomba hozatal céljából, hivatásszerűen folytatnak
 
 1. szaporítóanyag előállító,
 
@@ -24,7 +24,7 @@ e)[^4] azokra a természetes és jogi személyekre, valamint jogi személyiség 
 
 tevékenységet,
 
-f)[^5] a minősítést végző Nemzeti Élelmiszerlánc-biztonsági Hivatalra (a továbbiakban: NÉBIH), valamint a megyei kormányhivatal növény- és talajvédelmi igazgatóságára és egyéb természetes és jogi személyekre, valamint jogi személyiség nélküli gazdasági társaságokra, továbbá az ellenőrző és felügyeletet ellátó jogi személyekre.
+f)[^5] a minősítést végző Nemzeti Élelmiszerlánc-biztonsági Hivatalra (a továbbiakban: NÉBIH), valamint a megyei kormányhivatal növény- és talajvédelmi igazgatóságára és egyéb természetes és jogi személyekre, valamint jogi személyiséggel nem rendelkező szervezetekre, továbbá az ellenőrző és felügyeletet ellátó jogi személyekre.
 
 (2) A rendelet hatálya nem terjed ki
 
@@ -49,8 +49,8 @@ h)[^7] a Nemzeti Fajtajegyzék B és C fejezeteiben felsorolt zöldségnövénye
 [^1]: Az 1. § (1) bekezdésének a) pontja a 124/2007. (X. 20.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § (1) bekezdésének b) pontja a 124/2007. (X. 20.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^3]: Az 1. § (1) bekezdés c) pontja a 14/2011. (II. 24.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^4]: Az 1. § (1) bekezdés e) pontja a 14/2011. (II. 24.) VM rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^5]: Az 1. § (1) bekezdés f) pontja a 19/2014. (III. 12.) VM rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^4]: Az 1. § (1) bekezdés e) pontja a 14/2011. (II. 24.) VM rendelet 1. § (2) bekezdésével megállapított, nyitó szövegrésze a 22/2014. (III. 14.) VM rendelet 22. § a) pontja szerint módosított szöveg.
+[^5]: Az 1. § (1) bekezdés f) pontja a 19/2014. (III. 12.) VM rendelet 12. § (1) bekezdésével megállapított, a 22/2014. (III. 14.) VM rendelet 22. § a) pontja szerint módosított szöveg.
 [^6]: Az 1. § (2) bekezdésének f) pontja a 124/2007. (X. 20.) FVM rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^7]: Az 1. § (2) bekezdésének h) pontja a 124/2007. (X. 20.) FVM rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^8]: Az 1. § (3) bekezdését a 14/2011. (II. 24.) VM rendelet 1. § (3) bekezdése iktatta be.

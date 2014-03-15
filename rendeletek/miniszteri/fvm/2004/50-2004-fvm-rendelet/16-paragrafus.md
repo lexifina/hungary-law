@@ -4,10 +4,10 @@
 
 (2) A vetőmag minősítését a vetőmagot kísérő hivatalos okirat vagy a szállító igazolása tartalmazza.
 
-(3)[^52] A minősítést elit és certifikált minősítés esetén az illetékes megyei kormányhivatal növény- és talajvédelmi igazgatósága végzi. A standard minősítés saját jogon történik.
+(3)[^54] A minősítést elit és certifikált minősítés esetén az illetékes megyei kormányhivatal növény- és talajvédelmi igazgatósága végzi. A standard minősítés saját jogon történik.
 
 (4) Az e rendeletben foglalt követelményeknek megfelelő minősítés a tagállamok vetőmag forgalmazásában érvényes.
 
 (5) A 3–5. számú mellékletekben megadott, a minősítésre vonatkozó határértékektől a vetőmag előállítója, forgalmazója magasabb értékek vagy szigorúbb követelmények irányába eltérhet.
 
-[^52]: A 16. § (3) bekezdése a 14/2011. (II. 24.) VM rendelet 17. § f) pontja szerint módosított szöveg.
+[^54]: A 16. § (3) bekezdése a 14/2011. (II. 24.) VM rendelet 17. § f) pontja szerint módosított szöveg.
