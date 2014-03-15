@@ -1,5 +1,0 @@
-120. § (1) Ha a cél- és a gyűjtő-ÁÉKBV eltérő könyvvizsgálóval rendelkezik, e könyvvizsgálók információmegosztási megállapodást kötelesek kötni feladataik összehangolása érdekében. A gyűjtő-ÁÉKBV csak a megállapodás hatálybalépését követően fektethet be a cél-ÁÉKBV kollektív befektetési értékpapírjaiba. A megállapodás kötelező tartalmi elemeit a 12. melléklet tartalmazza.
-
-(2) A gyűjtő-ÁÉKBV könyvvizsgálója a független könyvvizsgálói jelentésében figyelembe veszi a cél-ÁÉKBV független könyvvizsgálói jelentését, és jelentést tesz a cél-ÁÉKBV független könyvvizsgálói jelentésében feltárt szabálytalanságokról és azoknak a gyűjtő-ÁÉKBV-re gyakorolt hatásáról. Ha a gyűjtő-ÁÉKBV és a cél-ÁÉKBV üzleti éve eltérő, a cél-ÁÉKBV könyvvizsgálója a gyűjtő-ÁÉKBV határidejével megegyező határidővel ad hoc jelentést készít.
-
-(3) A könyvvizsgálókra vonatkozó, e fejezetben megállapított kötelezettségek teljesítése érdekében történő információ- és adatátadás nem tekinthető a jogszabályok által előírt adat- és titokvédelmi kötelezettségek, adatszolgáltatási korlátozások vagy tilalmak megsértésének.
