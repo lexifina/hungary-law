@@ -10,11 +10,11 @@ b) üzemben tartói jog,
 
 c) bérleti jog,
 
-d) jelzálog (önálló zálogjog),
+d) jelzálogjog,
 
 e) haszonélvezeti jog,
 
-f) elő- vagy visszavásárlási jog és vételi jog,
+f) elő- vagy visszavásárlási jog, vételi és eladási jog,
 
 g) végrehajtási jog.
 
@@ -24,7 +24,7 @@ g) végrehajtási jog.
 
 (5) A hajózási hatóság bejegyzése hozza létre átruházás esetén a tulajdonjogot, továbbá a szerződésen alapuló üzemben tartói jogot, haszonélvezeti jogot.
 
-(6) Amennyiben az úszólétesítményt – a motoros vízi sporteszköz kivételével – jelzálog terhelheti, a jelzálogjogot a lajstromba be kell jegyeztetni.
+(6)
 
 (7) Valamely jognak vagy ténynek a lajstromba való bejegyzését annak kell kérnie, aki a bejegyzéssel jogosulttá válik, vagy akinek ez a bejegyzett jogát érinti.
 

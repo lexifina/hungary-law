@@ -18,6 +18,8 @@ b) szélerővel vagy gépi berendezéssel hajtott vízijármű, amelynek hossza 
 
 5. fordítóhely: az úszólétesítmény megfordulására alkalmas hely;
 
+5a. gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet;
+
 6. gazdasági célú hajózási tevékenység: ellenszolgáltatásért, illetőleg egyéb gazdasági tevékenység kiszolgálása során, vagy annak érdekében végzett hajózási tevékenység;
 
 7. gyorsjáratú hajó: az a hajó – a kishajók kivételével – amely a 40 km/h-t meghaladó holtvízi sebességgel való közlekedésre alkalmas, és ezt a hajóbizonyítványába bejegyezték;
