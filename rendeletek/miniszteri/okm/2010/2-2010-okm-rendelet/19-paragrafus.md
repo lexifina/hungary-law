@@ -1,4 +1,4 @@
-19. §[^52] (1) Amennyiben múzeum megszüntetése esetén a tulajdonos a NKÖM rendelet 3. § (2) bekezdése alapján alapleltárba vett kulturális javakat nem muzeális intézményben helyezi el, a miniszter szakfelügyeleti vizsgálatot rendel el.
+19. §[^55] (1) Amennyiben múzeum megszüntetése esetén a tulajdonos a NKÖM rendelet 3. § (2) bekezdése alapján alapleltárba vett kulturális javakat nem muzeális intézményben helyezi el, a miniszter szakfelügyeleti vizsgálatot rendel el.
 
 (2) A szakfelügyeleti vizsgálatot lezáró jelentés tartalmazza
 
@@ -10,4 +10,4 @@ c) a szakfelügyelőnek az (1) bekezdés szerinti kulturális javak további kez
 
 (3) Amennyiben a szakfelügyelő a (2) bekezdés c) pontja alapján a kulturális javak múzeumi megőrzésére tesz javaslatot, a szakfelügyeleti jelentésben meg kell jelölni az átvevő múzeumot is.
 
-[^52]: A 19. § a 21/2013. (III. 19.) EMMI rendelet 6. § (10) bekezdésével megállapított szöveg.
+[^55]: A 19. § a 21/2013. (III. 19.) EMMI rendelet 6. § (10) bekezdésével megállapított szöveg.

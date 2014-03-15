@@ -1,8 +1,8 @@
-## 22. §[^53]
+## 22. §[^56]
 
-23. §[^54] (1) E rendelet rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.
+23. §[^57] (1) E rendelet rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.
 
-(2)[^55] A muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény módosításáról szóló 2012. évi CLII. törvény 30. § (2) és (3) bekezdése alapján 2013. január 1-jén önkormányzati fenntartásba került muzeális intézmények működési engedélye – a 17. §-ban foglaltaktól eltérően – a módosított működési engedély kiadásáig, de legkésőbb 2013. június 30-ig hatályos.
+(2)[^58] A muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény módosításáról szóló 2012. évi CLII. törvény 30. § (2) és (3) bekezdése alapján 2013. január 1-jén önkormányzati fenntartásba került muzeális intézmények működési engedélye – a 17. §-ban foglaltaktól eltérően – a módosított működési engedély kiadásáig, de legkésőbb 2013. június 30-ig hatályos.
 
 Melléklet a 2/2010. (I. 14.) OKM rendelethez
 
@@ -14,7 +14,7 @@ a) a közigazgatási hatósági eljárás és szolgáltatás általános szabál
 
 b) nem természetes személy kérelmező esetén – az a) pontban meghatározottakon túl – a cégjegyzékszám, létesítő okirat kelte, száma.
 
-2.[^56] A muzeális intézmény adatai:
+2.[^59] A muzeális intézmény adatai:
 
 a muzeális intézmény elnevezése, címe, elérhetősége.
 
@@ -60,7 +60,7 @@ b) nem természetes személy kérelmező esetén – az a) pontban meghatározot
 
 a) a muzeális intézmény elnevezése, címe, elérhetősége,
 
-b)[^57]
+b)[^60]
 
 c) működési engedélyének száma.
 
@@ -80,11 +80,11 @@ b) a megszüntetés részletes indokolása,
 
 c) a kulturális javak muzeális intézmény megszüntetését követő biztonságos elhelyezésének bemutatása és indokolása.
 
-III.[^58]
+III.[^61]
 
-[^53]: A 22. §-t a 21/2013. (III. 19.) EMMI rendelet 6. § (13) bekezdése hatályon kívül helyezte.
-[^54]: A 23. § a 26/2012. (IV. 25.) NEFMI rendelet 1. § (6) bekezdésével megállapított szöveg.
-[^55]: A 23. § (2) bekezdése a 21/2013. (III. 19.) EMMI rendelet 6. § (11) bekezdésével megállapított szöveg.
-[^56]: A melléklet I. 2. pontja az 52/2011. (VIII. 18.) NEFMI rendelet 10. §-a, a 21/2013. (III. 19.) EMMI rendelet 6. § (13) bekezdése szerint módosított szöveg.
-[^57]: A melléklet II. pont 2. alpont b) alpontját a 21/2013. (III. 19.) EMMI rendelet 6. § (13) bekezdése hatályon kívül helyezte.
-[^58]: A melléklet III. pontját az 52/2011. (VIII. 18.) NEFMI rendelet 11. §-a hatályon kívül helyezte.
+[^56]: A 22. §-t a 21/2013. (III. 19.) EMMI rendelet 6. § (13) bekezdése hatályon kívül helyezte.
+[^57]: A 23. § a 26/2012. (IV. 25.) NEFMI rendelet 1. § (6) bekezdésével megállapított szöveg.
+[^58]: A 23. § (2) bekezdése a 21/2013. (III. 19.) EMMI rendelet 6. § (11) bekezdésével megállapított szöveg.
+[^59]: A melléklet I. 2. pontja az 52/2011. (VIII. 18.) NEFMI rendelet 10. §-a, a 21/2013. (III. 19.) EMMI rendelet 6. § (13) bekezdése szerint módosított szöveg.
+[^60]: A melléklet II. pont 2. alpont b) alpontját a 21/2013. (III. 19.) EMMI rendelet 6. § (13) bekezdése hatályon kívül helyezte.
+[^61]: A melléklet III. pontját az 52/2011. (VIII. 18.) NEFMI rendelet 11. §-a hatályon kívül helyezte.

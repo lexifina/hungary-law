@@ -2,7 +2,7 @@
 
 ## 3. § A fenntartó akkor biztosítja a muzeális intézmény folyamatos és rendeltetésszerű működéséhez szükséges feltételeket, ha a kérelem alapjául szolgáló javak a kulturális javak körébe tartoznak és teljesíti a muzeális intézmény szakmai besorolásának megfelelő
 
-a)[^2] a muzeális intézményt befogadó épület helyiségeire; elektronikus, mechanikus vagy élőerővel ellátott védelmére,
+a)[^4] a muzeális intézményt befogadó épület helyiségeire; elektronikus, mechanikus vagy élőerővel ellátott védelmére,
 
 b) a kulturális javak kiállításon való folyamatos bemutatására, valamint a közművelődési és múzeumpedagógiai szolgáltatásokra,
 
@@ -14,4 +14,4 @@ e) a kulturális javak nyilvántartásba vételére
 
 vonatkozó előírásokat.
 
-[^2]: A 3. § a) pontja az 52/2011. (VIII. 18.) NEFMI rendelet 10. §-a szerint módosított szöveg.
+[^4]: A 3. § a) pontja az 52/2011. (VIII. 18.) NEFMI rendelet 10. §-a szerint módosított szöveg.
