@@ -1,1 +1,0 @@
-Csjt. 31/D. § Bérlakás esetében, ha valamelyik házastárs a lakást a visszatérés szándéka nélkül elhagyta, a bíróság – a visszamaradt házastárs kérelmére – az eltávozott házastárs bérlőtársi jogviszonyát megszünteti. A házastárs azonban a használati jog ellenértékének rá eső részét igényelheti.

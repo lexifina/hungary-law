@@ -1,5 +1,0 @@
-Csjt. 15. § (1) A nagykorúság elérése után – házasságkötési engedély hiányában – a kiskorúság miatt, illetőleg a gondnokság megszüntetése után a gondnokság alatt állás miatt kizárólag az a házastárs jogosult érvénytelenítési per indítására, akinek személyében az érvénytelenség oka fennállott. Ezt a pert a jogosult csak a nagykorúság elérésétől, illetőleg a gondnokság megszüntetésétől számított hat hónap alatt indíthatja meg.
-
-(2) Teljes cselekvőképtelenség okából kizárólag az a házastárs indíthat érvénytelenítési pert, aki a házasságkötéskor teljesen cselekvőképtelen állapotban volt. A cselekvőképtelenség megszűnése után ezt a pert hat hónap alatt lehet megindítani attól a naptól számítva, amelyen a házastárs cselekvőképességét visszanyerte. Ha a házastárs cselekvőképességének visszanyerése előtt meghalt, a házastárs halálától számított hat hónap alatt a házasság érvénytelenítése iránt az ügyész indíthat pert.
-
-(3) Ha az előbbi rendelkezések szerint kizárólagosan jogosult házastárs meghal, az általa megindított perben helyébe bárki beléphet, aki érvénytelenítési per indítására általában jogosult.

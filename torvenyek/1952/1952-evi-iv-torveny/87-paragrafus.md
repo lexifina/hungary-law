@@ -1,3 +1,0 @@
-Csjt. 87. § (1) A szülő nem képviselheti gyermekét olyan ügyben, amelyben ő maga vagy házastársa, egyenesági rokona, avagy az ő törvényes képviselete alatt álló más személy a gyermekkel szemben ellenérdekű félként szerepel, vagy amelynek tárgya a gyermek családi jogállásának megállapítása. Ez a rendelkezés nem vonatkozik a gyermek örökbefogadásával kapcsolatos nyilatkozatra, továbbá nem akadályozza, hogy a szülő a nála elhelyezett gyermek tartása iránt a másik szülő ellen indított eljárásban gyermekét képviselje.
-
-(2) A gyámhatóság egyes vagyoni ügyekre vagy az ügyeknek meghatározott csoportjára nézve a szülőtől a törvényes képviselet jogát megvonhatja, ha attól lehet tartani, hogy a szülő a képviseletet nem a gyermek érdekeinek megfelelően gyakorolná.
