@@ -22,7 +22,7 @@ b) a pénztár alapszabályának, illetve az alapszabály módosításának terv
 
 c) a pénztár éves és hosszú távú pénzügyi tervének, illetve módosításának tervezetét,
 
-d) az egészségügyi intézmény működési engedélyét, illetve az (5) bekezdés szerinti létrehozás esetén az intézmény működtetéséhez szükséges, jogszabályok által előírt iratokat.[^7]
+d) az egészségügyi intézmény működési engedélyét, illetve az (5) bekezdés szerinti létrehozás esetén az intézmény működtetéséhez szükséges, jogszabályok által előírt iratokat.[^9]
 
 e) könyvvizsgálói nyilatkozatot arról, hogy az intézmény fizetőképes, illetve az intézmény eszközei tehermentesek, valamint az intézménynek nincs felhalmozott köztartozása, jogosulatlanul igénybe vett támogatása,
 
@@ -38,4 +38,4 @@ b) az ellenőrző bizottság jelentését az (1) bekezdés c) pontjában előír
 
 (6) A közgyűlésnek az egészségügyi intézmény működtetéséről történő döntése előtt felmerült intézményi kiadásokat a működtető pénztár kizárólag a (3) bekezdésben foglalt esetben finanszírozhat, illetőleg vállalhat kötelezettséget azok fedezetére. A kiadások jóváhagyásáról a közgyűlésnek kell döntenie.
 
-[^7]: A Magyar Közlöny 1997. évi 61. számának I. számú kötetében közzétett helyesbítésnek megfelelő szöveg.
+[^9]: A Magyar Közlöny 1997. évi 61. számának I. számú kötetében közzétett helyesbítésnek megfelelő szöveg.

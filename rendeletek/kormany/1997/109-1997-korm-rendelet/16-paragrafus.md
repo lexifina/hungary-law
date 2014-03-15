@@ -1,4 +1,4 @@
-## 15. §[^10] Az egészségügyi intézményt működtető pénztárak tevékenységére az önkéntes kölcsönös egészség- és önsegélyező pénztárak egyes gazdálkodási szabályairól szóló 268/1997. (XII. 22.) Korm. rendelet (a továbbiakban: R.) egészségpénztárakra vonatkozó üzemviteli szabályait megfelelően alkalmazni kell.
+## 15. §[^12] Az egészségügyi intézményt működtető pénztárak tevékenységére az önkéntes kölcsönös egészség- és önsegélyező pénztárak egyes gazdálkodási szabályairól szóló 268/1997. (XII. 22.) Korm. rendelet (a továbbiakban: R.) egészségpénztárakra vonatkozó üzemviteli szabályait megfelelően alkalmazni kell.
 
 ## A működtető pénztár pénzügyi tervére vonatkozó külön szabályok
 
@@ -8,4 +8,4 @@
 
 (3) Az egészségpénztár által az intézmény üzemeltetésével összefüggő kötelezettségvállalásoknak összhangban kell lenniük a pénztár általános anyagi helyzetével.
 
-[^10]: A 15. § a 266/2011. (XII. 13.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^12]: A 15. § a 266/2011. (XII. 13.) Korm. rendelet 8. §-ával megállapított szöveg.

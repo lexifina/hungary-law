@@ -12,6 +12,6 @@
 
 (6) A szakértői beszámoló és jelentés elfogadásáról a közgyűlés külön határoz.
 
-(7)[^6] Ha a pénztár a 12. § (3) bekezdés szerinti intézmény tulajdonjogát, illetve üzemeltetői jogát szerzi meg, akkor a szakértői tagok kötelesek a szerződés aláírását követően naptári negyedévenként az intézmény gazdasági helyzetét felülvizsgálni, és arról az igazgatótanácsnak és az ellenőrző bizottságnak beszámolni, illetve 30 napon belül a pénztárak pénzügyi felügyeletét ellátó szervnek (a továbbiakban: Felügyelet) beszámolót benyújtani, amíg a fizetőképesség helyreállítása meg nem történt.
+(7)[^8] Ha a pénztár a 12. § (3) bekezdés szerinti intézmény tulajdonjogát, illetve üzemeltetői jogát szerzi meg, akkor a szakértői tagok kötelesek a szerződés aláírását követően naptári negyedévenként az intézmény gazdasági helyzetét felülvizsgálni, és arról az igazgatótanácsnak és az ellenőrző bizottságnak beszámolni, illetve 30 napon belül a pénztárak pénzügyi felügyeletét ellátó szervnek (a továbbiakban: Felügyelet) beszámolót benyújtani, amíg a fizetőképesség helyreállítása meg nem történt.
 
-[^6]: A 10. § (7) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 113. §-a, a 345/2013. (IX. 30.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^8]: A 10. § (7) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 113. §-a, a 345/2013. (IX. 30.) Korm. rendelet 3. §-a szerint módosított szöveg.
