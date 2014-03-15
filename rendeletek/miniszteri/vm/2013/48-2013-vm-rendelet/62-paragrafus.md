@@ -6,10 +6,10 @@
 
 (3) Az előirányzatból kerül továbbá finanszírozásra az Új Magyarország Vidékfejlesztési Program és a Halászati Operatív Program Technikai Segítségnyújtás, illetve a Halászati Operatív Program III. tengelye előirányzataihoz kapcsolódó áfa összege. Az előirányzat ez irányú felhasználása ÚMVP TS feladatot és HOP TS feladatot ellátó gazdasági társaságok, ügyvédi irodák, költségvetési szervek felé történő fejezeti kifizetéssel valósul meg.
 
-(4)[^21] Az előirányzatból kerül továbbá finanszírozásra a NAKVI téves jogszabály-értelmezéséből eredő, 2008. január 1-jétől 2012. december 31-ig felhalmozott ÚMVP TS ÁFA fizetési kötelezettség, amely fejezeti kifizetéssel valósul meg.
+(4)[^22] Az előirányzatból kerül továbbá finanszírozásra a NAKVI téves jogszabály-értelmezéséből eredő, 2008. január 1-jétől 2012. december 31-ig felhalmozott ÚMVP TS ÁFA fizetési kötelezettség, amely fejezeti kifizetéssel valósul meg.
 
 (5) Az előirányzat felhasználása utólagos elszámolás melletti előfinanszírozás vagy beszámolást követő utófinanszírozás formájában történik.
 
 (6) Az előirányzatból költségvetési támogatás egyedi elbírálás útján nyújtható.
 
-[^21]: A 62. § (4) bekezdése a 115/2013. (XII. 12.) VM rendelet 8. §-ával megállapított szöveg.
+[^22]: A 62. § (4) bekezdése a 115/2013. (XII. 12.) VM rendelet 8. §-ával megállapított szöveg.

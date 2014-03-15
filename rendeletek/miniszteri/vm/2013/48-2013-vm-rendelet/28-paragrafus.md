@@ -1,6 +1,6 @@
 ## 14. Víz-, környezeti- és természeti katasztrófa elhárítás (20/02/08/00)
 
-28. §[^3] (1) Az előirányzatról az alábbi célokra történik forrás átadás:
+28. §[^4] (1) Az előirányzatról az alábbi célokra történik forrás átadás:
 
 a) az árvízi védekezésben érintett költségvetési szervek, védelmi készültség elrendelése alapján végzett védekezési, helyreállítási feladataival összefüggő többletkiadásaira,
 
@@ -10,4 +10,4 @@ b) a mezőgazdasági termelők árvízi védekezéssel kapcsolatban keletkezett 
 
 (3) Az előirányzat felhasználása közvetlen kifizetéssel vagy lebonyolító szerven keresztül történik, utólagos elszámolás melletti előfinanszírozás vagy beszámolást követő utófinanszírozás formájában.
 
-[^3]: A 28. § a 88/2013. (X. 2.) VM rendelet 63. §-ával megállapított szöveg.
+[^4]: A 28. § a 88/2013. (X. 2.) VM rendelet 63. §-ával megállapított szöveg.

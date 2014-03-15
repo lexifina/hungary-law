@@ -6,6 +6,6 @@
 
 (3) Az előirányzatból költségvetési támogatás egyedi elbírálás és pályázat útján nyújtható.
 
-(4)[^22] A kommunikációs feladatokkal, illetve az iskolagyümölcs-program értékelésével összefüggő vállalkozási szerződésből származó kötelezettségek teljesítése esetében az előirányzat átadásra kerül a végső kifizetést teljesítő költségvetési szerv részére.
+(4)[^23] A kommunikációs feladatokkal, illetve az iskolagyümölcs-program értékelésével összefüggő vállalkozási szerződésből származó kötelezettségek teljesítése esetében az előirányzat átadásra kerül a végső kifizetést teljesítő költségvetési szerv részére.
 
-[^22]: A 63. § (4) bekezdését a 88/2013. (X. 2.) VM rendelet 70. §-a iktatta be.
+[^23]: A 63. § (4) bekezdését a 88/2013. (X. 2.) VM rendelet 70. §-a iktatta be.

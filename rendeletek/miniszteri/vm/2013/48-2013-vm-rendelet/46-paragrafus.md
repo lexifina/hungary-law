@@ -36,7 +36,7 @@ f) fővárosi kerületi önkormányzatok,
 
 g) a tanyás térségekbe tartozó megyei jogú városok helyi önkormányzatai,
 
-h)[^17] egyházi jogi személyek,
+h)[^18] egyházi jogi személyek,
 
 i) a tanyás térségekben működő tanyagondnoki feladatokat ellátó támogatásra jogosult civil szervezetek,
 
@@ -48,4 +48,4 @@ k) tanyán élő természetes személy.
 
 (5) Az előirányzatból költségvetési támogatás pályázat vagy egyedi elbírálás útján nyújtható.
 
-[^17]: A 46. § (3) bekezdés h) pontja a 115/2013. (XII. 12.) VM rendelet 5. §-ával megállapított szöveg.
+[^18]: A 46. § (3) bekezdés h) pontja a 115/2013. (XII. 12.) VM rendelet 5. §-ával megállapított szöveg.

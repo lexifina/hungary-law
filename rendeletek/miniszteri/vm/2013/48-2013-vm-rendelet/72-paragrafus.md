@@ -62,7 +62,7 @@ l) egyéb, év közben meghirdetett támogatási jogcímek.
 
 (4) Az előirányzat a lebonyolító szervekkel kötött együttműködési megállapodások alapján pénzeszköz átadás formájában átadásra kerül a kedvezményezettek felé történő végső kifizetést teljesítő lebonyolításban résztvevő szervek részére. Az előirányzat végső kedvezményezettjei a miniszter vagy a Kormány más tagjának irányítása vagy felügyelete alá tartozó költségvetési szervek vagy önkormányzatok, gazdasági társaságok, nonprofit szervezetek, egyéni vállalkozók, illetve természetes személyek.
 
-(5)[^23] Az előirányzatból közvetlen fejezeti kifizetéssel kerül sor az adatszolgáltatással kapcsolatosan felmerült költségek és a Pápai Hús 1913 Kft.-vel szemben fennálló követelések engedményezése kapcsán a kiegészítő juttatás rendezésére.
+(5)[^24] Az előirányzatból közvetlen fejezeti kifizetéssel kerül sor az adatszolgáltatással kapcsolatosan felmerült költségek és a Pápai Hús 1913 Kft.-vel szemben fennálló követelések engedményezése kapcsán a kiegészítő juttatás rendezésére.
 
 (6) Az előirányzat felhasználása beszámolást követő utófinanszírozás formájában történik.
 
@@ -70,4 +70,4 @@ l) egyéb, év közben meghirdetett támogatási jogcímek.
 
 (8) A miniszter az előirányzat felhasználásáról, valamint a miniszter által jóváhagyott, év közben esetlegesen szükségessé váló új keretfelosztásról támogatási jogcímenkénti bontásban, negyedévente a negyedévet követő hónap 20. napjáig tájékoztatja az államháztartásért felelős minisztert.
 
-[^23]: A 72. § (5) bekezdése a 112/2013. (XII. 9.) VM rendelet 1. §-ával megállapított szöveg.
+[^24]: A 72. § (5) bekezdése a 112/2013. (XII. 9.) VM rendelet 1. §-ával megállapított szöveg.

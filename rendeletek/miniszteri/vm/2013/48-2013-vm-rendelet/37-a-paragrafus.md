@@ -1,4 +1,4 @@
-37/A. §[^9] (1) Az előirányzat
+37/A. §[^10] (1) Az előirányzat
 
 a) a nem rendszeres hulladékszállítás szabályairól és az ennek során eljáró állami szervek kijelöléséről szóló 292/2013. (VII. 26.) Korm. rendelet 14. §-a szerinti ellenőrzés elvégzésének indokolt költségeire történő felhasználására utófinanszírozás keretében a Magyar Energetikai és Közmű-szabályozási Hivatallal,
 
@@ -8,4 +8,4 @@ kötött támogatási szerződés alapján kerül sor.
 
 (2) Az (1) bekezdés a) pontja szerinti ellenőrzés eredménye alapján ideiglenes ellátás ellentételezéséből nem fedezhető indokolt többletköltség felmerülése esetén a miniszter az előirányzat terhére történő költségvetési támogatás biztosítása céljából az ideiglenes ellátásra kijelölt közérdekű szolgáltatóval támogatási szerződést köt.
 
-[^9]: A 37/A §-t a 115/2013. (XII. 12.) VM rendelet 3. §-a iktatta be.
+[^10]: A 37/A §-t a 115/2013. (XII. 12.) VM rendelet 3. §-a iktatta be.

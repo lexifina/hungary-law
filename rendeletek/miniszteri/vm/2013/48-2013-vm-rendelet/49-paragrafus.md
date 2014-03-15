@@ -2,7 +2,7 @@
 
 49. § (1) Az előirányzat felhasználásának a célja a parlagfű elleni közérdekű védekezés és a kapcsolódó célprogramok finanszírozása.
 
-(2)[^18] A támogatásból pályázat és egyedi elbírálás alapján a miniszter vagy a Kormány más tagjának irányítása vagy felügyelete alá tartozó költségvetési szervek vagy önkormányzatok, civil szervezetek, valamint a feladatok végrehajtásában közreműködő egyéb gazdálkodó szervezetek részesülhetnek.
+(2)[^19] A támogatásból pályázat és egyedi elbírálás alapján a miniszter vagy a Kormány más tagjának irányítása vagy felügyelete alá tartozó költségvetési szervek vagy önkormányzatok, civil szervezetek, valamint a feladatok végrehajtásában közreműködő egyéb gazdálkodó szervezetek részesülhetnek.
 
 (3) Az előirányzat felhasználása közvetlen módon, a kedvezményezettel kötött támogatási szerződés alapján történő fejezeti kifizetéssel, illetve előirányzat-átcsoportosítással valósul meg.
 
@@ -10,4 +10,4 @@
 
 (5) Az előirányzatból költségvetési támogatás pályázat vagy egyedi elbírálás útján nyújtható.
 
-[^18]: A 49. § (2) bekezdése a 115/2013. (XII. 12.) VM rendelet 6. §-ával megállapított szöveg.
+[^19]: A 49. § (2) bekezdése a 115/2013. (XII. 12.) VM rendelet 6. §-ával megállapított szöveg.
