@@ -1,0 +1,1 @@
+10. § Ha az uralkodó telek tulajdonosa a telki szolgalmat ingatlan-nyilvántartáson kívül szerezte, igényt tarthat arra, hogy a bíróság állapítsa meg a telki szolgalom fennállását, tartalmát és gyakorlásának körülményeit, továbbá kérheti, hogy a telki szolgalmat az ingatlan-nyilvántartásba jegyezzék be.

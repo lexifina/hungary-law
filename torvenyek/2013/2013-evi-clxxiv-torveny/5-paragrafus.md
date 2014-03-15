@@ -1,0 +1,1 @@
+5. § Az ingatlan tulajdonosa csak akkor jogosult az áthajló ágak és átnyúló gyökerek levágására, ha azok az ingatlan rendes használatát akadályozzák, és azokat a növény tulajdonosa felhívás ellenére sem távolítja el.
