@@ -540,6 +540,6 @@
 
 ## (2) VI. szántóföldi termőhely: sekély termőrétegű, erodált talajok
 
-4. számú melléklet az 59/2008. (IV. 29.) FVM rendelethez[^19]
+4. számú melléklet az 59/2008. (IV. 29.) FVM rendelethez[^20]
 
-[^19]: A 4. számú melléklet a 147/2012. (XII. 27.) VM rendelet 6. §-a szerint módosított szöveg.
+[^20]: A 4. számú melléklet a 147/2012. (XII. 27.) VM rendelet 6. §-a szerint módosított szöveg.
