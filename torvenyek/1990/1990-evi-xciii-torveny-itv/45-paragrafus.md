@@ -2,13 +2,13 @@
 
 45. § (1) A cégbejegyzésre irányuló eljárás illetéke:
 
-a) nyilvánosan működő részvénytársaság, illetve az európai részvénytársaság esetében 600 000 forint,
+a) európai részvénytársaság esetében 600 000 forint,
 
 b) zártkörűen működő részvénytársaság, korlátolt felelősségű társaság esetében 100 000 forint,
 
-c) az a) és b) pont alá nem tartozó egyéb jogi személy esetén – az (1a) bekezdésben foglalt kivétellel – 100 000 forint,
+c) közkereseti társaság, betéti társaság esetén 50 000 forint,
 
-d) jogi személyiség nélküli gazdasági társaság esetén 50 000 forint,
+d) az a)–c) pont alá nem tartozó egyéb jogi személy esetén – az (1a) bekezdésben foglalt kivétellel – 100 000 forint,
 
 e) egyéni cég esetén 30 000 forint,
 
@@ -24,7 +24,7 @@ g) külföldi vállalkozás közvetlen kereskedelmi képviselete esetén 50 000 
 
 a) zártkörűen működő részvénytársaság, korlátolt felelősségű társaság esetén 50 000 Ft,
 
-b) jogi személyiség nélküli gazdasági társaság esetén 25 000 forint,
+b) közkereseti társaság, betéti társaság esetén 25 000 forint,
 
 c) egyéni cég esetén 15 000 forint, azzal, hogy
 
@@ -34,7 +34,9 @@ amennyiben az egyszerűsített cégbejegyzésre irányuló kérelem benyújtása
 
 (3b) Az e §-ban nem említett egyéb cégbírósági eljárás illetéke 15 000 Ft.
 
-(4) Az átalakulás, minősített többséget biztosító befolyás létrejötte, valamint az elismert vállalatcsoportként való működés, illetve a nyilvánosan működő részvénytársaság cégadataira vonatkozó változás bejegyzése iránti kérelem illetéke 50 000 Ft. Ez az illeték magában foglalja az átalakulással, minősített többségi befolyás létrejöttével, valamint az elismert vállalatcsoportként való működés bejegyzésével egyidejűleg bejelentett más változásokért fizetendő illetéket is.
+(4) Az átalakulás, egyesülés, szétválás, minősített többséget biztosító befolyás létrejötte, valamint az elismert vállalatcsoportként való működés, illetve a nyilvánosan működő részvénytársaság cégadataira vonatkozó változás bejegyzése iránti kérelem illetéke 50 000 Ft. Ez az illeték magában foglalja az átalakulással, egyesüléssel, szétválással, minősített többségi befolyás létrejöttével, valamint az elismert vállalatcsoportként való működés bejegyzésével egyidejűleg bejelentett más változásokért fizetendő illetéket is.
+
+(4a) Zártkörűen működő részvénytársaság nyilvánosan működő részvénytársasággá történő alakulása esetén a változás bejegyzése iránti kérelem illetéke 500 000 Ft, amely magában foglalja az egyidejűleg bejelentett más változásokért fizetendő illetéket is.
 
 (5) A cég vagyonában bekövetkezett változás bejelentése iránti eljárásért az (1) bekezdésben meghatározott illeték 40%-át kell megfizetni. Ez az illeték magában foglalja az egyidejűleg bejelentett más változásokért fizetendő illetéket is.
 

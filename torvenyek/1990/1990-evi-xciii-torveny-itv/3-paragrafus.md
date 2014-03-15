@@ -26,7 +26,7 @@ keletkezik.
 
 (4) Az eljárási illetékkötelezettség az eljárás megindítása iránti kérelem előterjesztésekor keletkezik.
 
-(5) A hatósági jóváhagyástól (engedélytől, hozzájárulástól, tudomásulvételtől) függő vagyonszerzési jogügylettel kapcsolatban az illetékkötelezettség a jóváhagyás — több hatósági jóváhagyás esetén az utolsó jóváhagyás — napján keletkezik. Ez irányadó akkor is, ha a szerződés érvényességéhez harmadik személy beleegyezése szükséges.
+(5) A hatósági jóváhagyástól (engedélytől, hozzájárulástól, tudomásulvételtől) függő vagyonszerzési jogügylettel kapcsolatban az illetékkötelezettség a jóváhagyás — több hatósági jóváhagyás esetén az utolsó jóváhagyás — napján keletkezik. Ez irányadó akkor is, ha a szerződés hatályosságához harmadik személy beleegyezése szükséges.
 
 (6) A felfüggesztő vagy bontó feltételtől, illetőleg a kezdő határidő bekövetkezésétől függő szerződés esetén a vagyonszerzési illetékkötelezettség a szerződés hatályának beálltakor keletkezik.
 

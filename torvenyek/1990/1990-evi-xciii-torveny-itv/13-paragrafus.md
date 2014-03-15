@@ -2,7 +2,7 @@
 
 13. § (1) Az örökség és az ajándék tiszta értéke a megszerzett vagyonnak a (2) bekezdésben foglaltak szerint csökkentett forgalmi értéke.
 
-(2) A tiszta érték kiszámításánál a megszerzett vagyon forgalmi értékéből le kell vonni a hagyatékot terhelő tartozást (Ptk. 677. §), illetőleg az ajándékot terhelő adósság és az egyéb teher értékének egy-egy örökösre, illetőleg megajándékozottra eső részét. A hagyatéki terhekhez kell számítani a hagyatéki eljárás során kirendelt gondnok és végrendeleti végrehajtó tiszteletdíját is. A vagyoni értékű jogból álló terheket a 72. § szerint kell számításba venni. Ilyen esetben az illeték alapját a 15. § (4) bekezdése szerint kell megállapítani.
+(2) A tiszta érték kiszámításánál a megszerzett vagyon forgalmi értékéből le kell vonni a hagyatékot terhelő tartozást, illetőleg az ajándékot terhelő adósság és az egyéb teher értékének egy-egy örökösre, illetőleg megajándékozottra eső részét. A hagyatéki terhekhez kell számítani a hagyatéki eljárás során kirendelt gondnok és végrendeleti végrehajtó tiszteletdíját is. A vagyoni értékű jogból álló terheket a 72. § szerint kell számításba venni. Ilyen esetben az illeték alapját a 15. § (4) bekezdése szerint kell megállapítani.
 
 (3) Azokat a hagyatéki terheket, amelyek a hagyatékba tartozó egyes illetékfizetési kötelezettség alá eső vagyontárgyakhoz kapcsolódnak, az adott vagyontárgy forgalmi értékéből kell levonni. Azokat a hagyatéki terheket pedig, melyek az örökség egészét terhelik, az örökös által megszerzett illetékfizetési kötelezettség alá eső és az illetékfizetési kötelezettség alá nem eső (belföldön lévő mentes és külföldön lévő, e törvény hatálya alá nem eső) vagyon arányában kell számításba venni.
 

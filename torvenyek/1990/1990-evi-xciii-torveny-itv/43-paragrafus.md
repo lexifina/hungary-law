@@ -15,3 +15,5 @@
 (7) A közigazgatási nemperes eljárások illetékének mértéke 10 000 forint.
 
 (8) A csődeljárás és a felszámolási eljárás során benyújtott kifogás, valamint a végrehajtási kifogás illetéke 15 000 forint. Ha a kifogás alapos, a bíróság a kifogásnak helyt adó döntésében hivatalból rendelkezik a kifogás illetékének a kifogást előterjesztő részére történő visszatérítéséről.
+
+(9) Az előzetes jognyilatkozatok nyilvántartásba való bejegyzésének illetéke 15 000 forint.

@@ -26,7 +26,7 @@ lakás céljára létesített és az ingatlan-nyilvántartásban lakóház vagy 
 
 g) értékpapírnak olyan okirat vagy – jogszabályban megjelölt – más módon rögzített, nyilvántartott és továbbított adat tekinthető, amely jogszabályban meghatározott kellékekkel rendelkezik és kiállítását (kibocsátását), illetve ebben a formában történő megjelenítését jogszabály lehetővé teszi;
 
-h)
+h) gazdálkodó szervezet: a gazdasági társaság, az európai részvénytársaság, az egyesülés, az európai gazdasági egyesülés, az európai területi együttműködési csoportosulás, a szövetkezet, a lakásszövetkezet, az európai szövetkezet, a vízgazdálkodási társulat, az erdőbirtokossági társulat, az állami vállalat, az egyéb állami gazdálkodó szerv, az egyes jogi személyek vállalata, a végrehajtói iroda, a közjegyzői iroda, az ügyvédi iroda, a szabadalmi ügyvivői iroda, az önkéntes kölcsönös biztosító pénztár, a magánnyugdíjpénztár, az egyéni cég, továbbá az egyéni vállalkozó;
 
 i) gépjármű: az olyan közúti szállító- vagy vontatóeszköz – a mezőgazdasági vontató, az önjáró vagy vontatott munkagép, a lassú jármű és a segédmotoros kerékpár kivételével –, amelyet beépített erőgép hajt és nyilvántartásba vételét jogszabály írja elő;
 
@@ -64,9 +64,9 @@ sz) kisvállalkozás: az az egyéni cég, illetve gazdasági társaság, amelyn�
 
 t) vállalkozói vagyon: minden olyan üzleti célt szolgáló ingatlan (termőföld, telek, épület, egyéb építmény), ingó vagyon (műszaki berendezés, gép, jármű, üzemi és üzleti felszerelés, egyéb berendezés), továbbá az ilyen vagyonra vonatkozó haszonélvezeti jog, amelyet a kisvállalkozó kizárólag a vállalkozói tevékenységével (tevékenységeivel) kapcsolatban használ, azokat más célra részben sem használja és üzleti nyilvántartásai ezt egyértelműen alátámasztják. Nem minősül vállalkozói vagyonnak a személygépkocsi, a lakástulajdon (tulajdoni hányad), valamint az ezekre vonatkozó vagyoni értékű jog.
 
-v) alapítvány (közalapítvány): magánszemély, jogi személy, jogi személyiséggel nem rendelkező gazdasági társaság által tartós közérdekű célra alapított, az alapítvány székhelye szerint illetékes törvényszék által nyilvántartásba vett szervezet;
+v) alapítvány (közalapítvány): magánszemély, jogi személy által tartós közérdekű célra alapított, az alapítvány székhelye szerint illetékes törvényszék által nyilvántartásba vett szervezet;
 
-w) közigazgatási hatósági eljárás: a közigazgatási hatósági eljárás általános szabályairól szóló törvény szerinti hatósági ügy, a Polgári Törvénykönyvről szóló törvény szerinti eredeti birtokállapot helyreállítására vagy a birtokállapot zavarásának megszüntetésére irányuló eljárás, valamint minden olyan eljárás, amelyre a közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezései irányadók, továbbá a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott bejelentés.
+w) közigazgatási hatósági eljárás: a közigazgatási hatósági eljárás általános szabályairól szóló törvény szerinti hatósági ügy, a Polgári Törvénykönyv szerinti eredeti birtokállapot helyreállítására vagy a birtokállapot zavarásának megszüntetésére irányuló eljárás, valamint minden olyan eljárás, amelyre a közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezései irányadók, továbbá a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott bejelentés.
 
 z) cég: a cégnyilvánosságról, a bírósági eljárásról és a végelszámolásról szóló 2006. évi V. törvény 2. §-ában meghatározott jogalany.
 
@@ -82,4 +82,4 @@ c) külön jogszabály értelmében menekültnek minősül.
 
 (4) A 26. § (1) bekezdésének f) pontja alkalmazásában új lakásnak minősül a lakástulajdon a használatbavételi engedély kiadását vagy a használatbavétel tudomásul vételét követő első – illetve, ha a lakást a használatbavételi engedély kiadását vagy a használatbavétel tudomásul vételét követően a vállalkozótól a 23/A. § (1), (2) és (4) bekezdésében meghatározott ingatlanforgalmazó vásárolja meg akkor második – megvásárlásáig.
 
-(5) A 26. § (1) bekezdés f) pontjának alkalmazásában vállalkozónak kell tekinteni a Ptk. szerinti gazdálkodó szervezetet, illetve a vállalkozói tevékenység végzésére jogosult egyéb szervezetet.
+(5) A 26. § (1) bekezdés f) pontjának alkalmazásában vállalkozónak kell tekinteni a gazdálkodó szervezetet, illetve a vállalkozói tevékenység végzésére jogosult egyéb szervezetet.
