@@ -1,3 +1,5 @@
-## 17. §[^2]
+## 17. § A 13. § (3) bekezdésében a „eseti gondnoka” szövegrész helyébe a „eseti gyámja” szöveg lép.
 
-[^2]: A 17. § a 15. § (3) bekezdése alapján 2014. március 15-én lép hatályba.
+18. §[^3]
+
+[^3]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

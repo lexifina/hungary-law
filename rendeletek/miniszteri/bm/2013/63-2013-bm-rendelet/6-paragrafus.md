@@ -19,3 +19,5 @@ d) az a)–c) pontban felsoroltak hiányában a személlyel kapcsolatban köröz
 a) a körözést elrendelő rendőri szerv,
 
 b) nem rendőri szerv által dolog tekintetében elrendelt körözés esetén az (1) bekezdés d) pontjában meghatározott rendőri szerv
+
+illetékes.

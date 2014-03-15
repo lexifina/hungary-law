@@ -10,7 +10,7 @@ c) az ORFK Bűnügyi Főigazgatóság Nemzetközi Bűnügyi Együttműködési K
 
 d) járási hivatal
 
-## rendelte el.
+rendelte el.
 
 (3) Ha a körözést az idegenrendészeti hatóság rendelte el, úgy az átkísérést az idegenrendészeti hatóság megkeresésére közreműködő rendőrkapitányság hajtja végre.
 

@@ -8,7 +8,7 @@ b) az ügyészség,
 
 c) a rendőrség nyomozó hatósága,
 
-## bocsátotta ki.
+bocsátotta ki.
 
 (3) Az átkísérést a (2) bekezdés a)–b) pontja esetén az őrizetbe vételt foganatosító, c) pontja esetén az elfogatóparancsot kibocsátó rendőri szerv hajtja végre.
 
