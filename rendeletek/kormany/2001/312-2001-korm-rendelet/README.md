@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-312-20-
 | 2012-12-30 | 2001-312-20-22.11 | 437/2012. (XII. 29.) Korm. rendelet |
 | 2013-06-08 | 2001-312-20-22.12 | 185/2013. (VI. 7.) Korm. rendelet |
 | 2014-01-01 | 2001-312-20-22.13 | 537/2013. (XII. 30.) Korm. rendelet |
+| 2014-03-15 | 2001-312-20-22.14 | 80/2014. (III. 14.) Korm. rendelet |
