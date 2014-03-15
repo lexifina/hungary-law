@@ -8,9 +8,9 @@
 
 (4) Nitrogéntartalmú termésnövelő anyag felhasználása során be kell tartani a külön jogszabályban előírt követelményeket.
 
-(5)[^44] A termésnövelő anyagokat csak olyan módon és mennyiségben lehet felhasználni, hogy a talajok külön jogszabály szerinti kockázatos anyagtartalma ne haladja meg tartós használat esetén sem a földtani közeg és a felszín alatti víz szennyezéssel szembeni védelméhez szükséges határértékekről és a szennyezések méréséről szóló külön jogszabályban meghatározott „B” szennyezettségi határértéket, valamint a felszín alatti vizek állapota a termésnövelő anyagok felhasználása következtében ne romoljon.
+(5)[^45] A termésnövelő anyagokat csak olyan módon és mennyiségben lehet felhasználni, hogy a talajok külön jogszabály szerinti kockázatos anyagtartalma ne haladja meg tartós használat esetén sem a földtani közeg és a felszín alatti víz szennyezéssel szembeni védelméhez szükséges határértékekről és a szennyezések méréséről szóló külön jogszabályban meghatározott „B” szennyezettségi határértéket, valamint a felszín alatti vizek állapota a termésnövelő anyagok felhasználása következtében ne romoljon.
 
-(6)[^45] Zárt termesztő berendezésekből a termesztési ciklus(ok) befejezése után kikerülő, e rendelet előírásai szerint engedélyezett termésnövelő anyagok (gombakomposzt, termesztőközeg) mezőgazdasági területen történő felhasználása a külön jogszabályban meghatározott egyszerűsített talajvédelmi tervre alapozott talajvédelmi hatósági engedéllyel lehetséges. Ezen anyagok tárolására, kiszerelésére használt talajidegen anyagok mezőgazdasági területre nem juttathatók ki.
+(6)[^46] Zárt termesztő berendezésekből a termesztési ciklus(ok) befejezése után kikerülő, e rendelet előírásai szerint engedélyezett termésnövelő anyagok (gombakomposzt, termesztőközeg) mezőgazdasági területen történő felhasználása a külön jogszabályban meghatározott egyszerűsített talajvédelmi tervre alapozott talajvédelmi hatósági engedéllyel lehetséges. Ezen anyagok tárolására, kiszerelésére használt talajidegen anyagok mezőgazdasági területre nem juttathatók ki.
 
-[^44]: A 16. § (5) bekezdése a 10/2010. (II. 4.) FVM rendelet 10. §-ával megállapított szöveg.
-[^45]: A 16. § (6) bekezdése a 90/2008. (VII. 18.) FVM rendelet 7. § (2) bekezdésével megállapított szöveg. E módosító rendelet 5. § (4) bekezdése alapján a rendelkezést a 2008. augusztus 2. napját követően indult eljárásokban kell alkalmazni.
+[^45]: A 16. § (5) bekezdése a 10/2010. (II. 4.) FVM rendelet 10. §-ával megállapított szöveg.
+[^46]: A 16. § (6) bekezdése a 90/2008. (VII. 18.) FVM rendelet 7. § (2) bekezdésével megállapított szöveg. E módosító rendelet 5. § (4) bekezdése alapján a rendelkezést a 2008. augusztus 2. napját követően indult eljárásokban kell alkalmazni.

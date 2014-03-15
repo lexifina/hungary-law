@@ -1,6 +1,6 @@
-## Eseti felhasználási engedély[^12]
+## Eseti felhasználási engedély[^13]
 
-4/B. §[^13] (1) Az engedélyező hatóság engedélyezheti valamely, Magyarországon már engedélyezett termésnövelő anyag felhasználását az engedélyben előírt felhasználástól eltérő területen vagy módon – a kísérleti célú felhasználást ide nem értve –, amennyiben
+4/B. §[^14] (1) Az engedélyező hatóság engedélyezheti valamely, Magyarországon már engedélyezett termésnövelő anyag felhasználását az engedélyben előírt felhasználástól eltérő területen vagy módon – a kísérleti célú felhasználást ide nem értve –, amennyiben
 
 a) az alkalmazását közérdek (így például aszálykár, fagyveszély) indokolja, és
 
@@ -22,5 +22,5 @@ b) a kérelmezett alkalmazási területen nem okoz kedvezőtlen mellékhatást a
 
 (5) Az eseti engedély az engedélyben meghatározott területen és legfeljebb egy vegetációs időszakra korlátozott időtartamra érvényes.
 
-[^12]: A 4/B. §-t megelőző alcímet a 72/2012. (VII. 24.) VM rendelet 3. §-a iktatta be.
-[^13]: A 4/B. §-t a 72/2012. (VII. 24.) VM rendelet 3. §-a iktatta be.
+[^13]: A 4/B. §-t megelőző alcímet a 72/2012. (VII. 24.) VM rendelet 3. §-a iktatta be.
+[^14]: A 4/B. §-t a 72/2012. (VII. 24.) VM rendelet 3. §-a iktatta be.

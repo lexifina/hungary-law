@@ -22,5 +22,8 @@
 
 10.[^4] Növénykondicionáló készítmény: a növények fejlődésére, terméshozamára és általános állapotára kedvezően ható, szerves vagy szervetlen anyagokból előállított készítmény, amely a növényi életfolyamatokra elsődlegesen a tápanyagforgalom befolyásolásán keresztül hat.
 
+11.[^5] Gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet.
+
 [^3]: A 2. § 9. pontja a 10/2010. (II. 4.) FVM rendelet 2. §-ával megállapított szöveg.
 [^4]: A 2. § 10. pontját a 10/2010. (II. 4.) FVM rendelet 2. §-a iktatta be.
+[^5]: A 2. § 11. pontját a 22/2014. (III. 14.) VM rendelet 35. §-a iktatta be.
