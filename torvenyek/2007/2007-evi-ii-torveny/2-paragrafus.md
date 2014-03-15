@@ -22,7 +22,7 @@ f) befogadott: aki az állampolgársága – hontalan esetén a szokásos tartó
 
 g) úti okmány: Magyarország által az államhatárának átlépésére jogosító okmányként elismert útlevél, igazolvány vagy irat, amely birtokosának személyazonosságát és állampolgárságát (hontalanságát) igazolja;
 
-h) fuvarozó: bármely természetes vagy jogi személy, illetve jogi személyiség nélküli gazdasági társaság, aki vagy amely hivatásszerűen foglalkozik személyszállítással;
+h) fuvarozó: bármely természetes vagy jogi személy, illetve jogi személyiség nélküli szervezet, aki vagy amely hivatásszerűen foglalkozik személyszállítással;
 
 i) visszafogadási egyezmény: személyeknek az államhatáron történő átadás-átvételéről, hatósági kísérettel történő átszállításának, illetve átutazásának engedélyezéséről szóló nemzetközi szerződés;
 
