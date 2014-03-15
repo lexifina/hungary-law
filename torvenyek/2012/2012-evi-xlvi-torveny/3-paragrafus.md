@@ -24,4 +24,4 @@ i) az archív analóg és digitális térképi adatok adatbázisai.
 
 (3) Az egyéb célú földmérési és térképészeti tevékenység során keletkezett adatok és térképi adatbázisok az állami vizsgálatot, minősítést és átvételt követően válhatnak állami alapadattá.
 
-(4) Az (1) bekezdésben felsorolt adatbázisok nyilvántartásával kapcsolatos adatfeldolgozási feladatok ellátásával az adatkezelő csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg.
+(4) Az (1) bekezdésben felsorolt adatbázisok nyilvántartásával kapcsolatos adatfeldolgozási feladatok ellátásával az adatkezelő csak államigazgatási szervet vagy az állam 100%-os tulajdonában álló gazdasági társaságot bízhat meg.
