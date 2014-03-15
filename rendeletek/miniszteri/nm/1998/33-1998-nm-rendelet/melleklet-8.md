@@ -190,7 +190,7 @@
 
 ## Az újonnan alakult államok névváltozása folyamatosan módosítandó.
 
-8. számú melléklet a 33/1998. (VI. 24.) NM rendelethez[^89]
+8. számú melléklet a 33/1998. (VI. 24.) NM rendelethez[^98]
 
 A sérülékeny csoportok egészségét potenciálisan károsító, tiltást igénylő megterhelések
 
@@ -374,4 +374,4 @@ x Az egyénre irányadó nyugdíjkorhatár.
 
 * Szaporodást károsító anyagok 1. kategória.
 
-[^89]: A 8. számú melléklet a 18/2007. (V. 10.) SZMM rendelet 21. § (2) bekezdésével megállapított szöveg.
+[^98]: A 8. számú melléklet a 18/2007. (V. 10.) SZMM rendelet 21. § (2) bekezdésével megállapított szöveg.

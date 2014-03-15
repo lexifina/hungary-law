@@ -1,6 +1,6 @@
-## A szabálysértési eljárás során alkalmazott közérdekű munkához kapcsolódó foglalkoztathatósági szakvélemény[^80]
+## A szabálysértési eljárás során alkalmazott közérdekű munkához kapcsolódó foglalkoztathatósági szakvélemény[^86]
 
-16/C. §[^81] (1) A foglalkoztathatóság szakvéleményezését a szabálysértési közérdekű munkára jelentkező elkövető kezdeményezi a közérdekű munka megkezdése előtt.
+16/C. §[^87] (1)[^88] A foglalkoztathatóság szakvéleményezését a szabálysértési eljárás során alkalmazott közérdekű munkára jelentkező elkövető kezdeményezi a közérdekű munka megkezdése előtt. Büntetésként kiszabott közérdekű munka esetén az elkövető a szakvélemény díját megtérítő szervezetről kapott tájékoztatót köteles magával vinni a vizsgálatra.
 
 (2) A foglalkoztathatósági vizsgálatról a szakvéleményt
 
@@ -12,7 +12,12 @@ b) a munkaügyi kirendeltség telephelye szerint illetékes foglalkozás-egészs
 
 (3) A szakvélemény a közérdekű munka megkezdésének kötelező feltétele.
 
-(4) A szakvélemény kiadására a 16/A. § (3) és (4) bekezdését kell alkalmazni.
+(4)[^89] A szakvélemény kiadásának díját a büntetésként kiszabott közérdekű munka esetén a szakvélemény elkészítését követő 60 napon belül kell megtéríteni.
 
-[^80]: A 16/C. §-t megelőző alcímet az 55/2013. (XII. 4.) NGM rendelet 2. § (4) bekezdése iktatta be.
-[^81]: A 16/C. §-t az 55/2013. (XII. 4.) NGM rendelet 2. § (4) bekezdése iktatta be.
+(5)[^90] A foglalkoztathatósági szakvélemény a kiállításától számított egy évig érvényes.
+
+[^86]: A 16/C. §-t megelőző alcímet az 55/2013. (XII. 4.) NGM rendelet 2. § (4) bekezdése iktatta be.
+[^87]: A 16/C. §-t az 55/2013. (XII. 4.) NGM rendelet 2. § (4) bekezdése iktatta be.
+[^88]: A 16/C. § (1) bekezdése a 13/2014. (III. 14.) NGM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^89]: A 16/C. § (4) bekezdése a 13/2014. (III. 14.) NGM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^90]: A 16/C. § (5) bekezdését a 13/2014. (III. 14.) NGM rendelet 2. § (3) bekezdése iktatta be.

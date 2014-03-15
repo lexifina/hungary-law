@@ -1,8 +1,8 @@
-## A közfoglalkoztatáshoz kapcsolódó foglalkoztathatósági szakvélemény[^77]
+## A közfoglalkoztatáshoz kapcsolódó foglalkoztathatósági szakvélemény[^83]
 
-16/B. §[^78] (1) A foglalkoztathatóság szakvéleményezését önkormányzati közfoglalkoztatás esetén a munkaügyi központ, más közfoglalkoztatás esetén a közfoglalkoztató kezdeményezi a közfoglalkoztatás megkezdése előtt.
+16/B. §[^84] (1) A foglalkoztathatóság szakvéleményezését önkormányzati közfoglalkoztatás esetén a munkaügyi központ, más közfoglalkoztatás esetén a közfoglalkoztató kezdeményezi a közfoglalkoztatás megkezdése előtt.
 
-(2)[^79] A (3) bekezdésben meghatározott kivétellel a foglalkoztathatósági vizsgálatról a szakvéleményt
+(2)[^85] A (3) bekezdésben meghatározott kivétellel a foglalkoztathatósági vizsgálatról a szakvéleményt
 
 a) foglalkozás-egészségügyi alapszolgáltatás nyújtására jogosító működési engedéllyel rendelkező egészségügyi szolgáltató szakorvosa, vagy
 
@@ -16,6 +16,6 @@ b) önkormányzati közfoglalkoztatás esetén a munkaügyi központ telephelye 
 
 (5) A szakvélemény kiadására a 16/A. § (3) és (4) bekezdését kell alkalmazni.
 
-[^77]: A 16/B. §-t megelőző alcímet a 41/2012. (XII. 20.) NGM rendelet 10. §-a iktatta be.
-[^78]: A 16/B. §-t a 41/2012. (XII. 20.) NGM rendelet 10. §-a iktatta be.
-[^79]: A 16/B. § (2) bekezdése az 55/2013. (XII. 4.) NGM rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^83]: A 16/B. §-t megelőző alcímet a 41/2012. (XII. 20.) NGM rendelet 10. §-a iktatta be.
+[^84]: A 16/B. §-t a 41/2012. (XII. 20.) NGM rendelet 10. §-a iktatta be.
+[^85]: A 16/B. § (2) bekezdése az 55/2013. (XII. 4.) NGM rendelet 2. § (3) bekezdésével megállapított szöveg.

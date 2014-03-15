@@ -28,20 +28,38 @@ a) a gépjárművezetők – ideértve a mezőgazdasági vontatók vezetőit is 
 
 b) az országos közforgalmú vasutaknál, a hajózásban és a polgári repülésben dolgozók,
 
-c)[^9] a fegyveres erők, a rendvédelmi szervek hivatásos, szerződéses, sorállománya, valamint a köztisztviselői és a közalkalmazotti állománya, illetve a polgári nemzetbiztonsági szolgálatok személyi állománya, valamint a közterület- felügyelők, továbbá a Rendőrtiszti Főiskolára, a rendészeti szakközépiskolákba és egyéb belügyi oktatási intézeteknél felvételre jelentkezők, illetve ezen iskolák tanulói és hallgatói,
+c)[^9] a Magyar Honvédség hivatásos és szerződéses állománya,
 
 d) a kézilőfegyvert, lőszert, gáz- és riasztófegyvert tartani szándékozó, illetve lőfegyvertartási engedéllyel rendelkező személyek,
 
 e) a túlnyomásos munkahelyeken dolgozók
 
-f)[^10] az egészségügyi tevékenységet folytatók
+f)[^10] az egészségügyi tevékenységet folytatók,
+
+g)[^11] a polgári nemzetbiztonsági szolgálatok kivételével a rendvédelmi szervek hivatásos, kormányzati szolgálati jogviszonyban álló, közalkalmazotti és igazságügyi alkalmazotti állománya, valamint a hivatásos, kormánytisztviselői, közalkalmazotti és igazságügyi alkalmazotti állományba pályázók,
+
+h)[^12] az Országgyűlési Őrség hivatásos állománya, valamint a hivatásos állományba pályázók,
+
+i)[^13] a polgári nemzetbiztonsági szolgálatok személyi állománya és a felvételre jelentkezők,
+
+j)[^14] a közterület-felügyelők és a közterület-felügyelői kinevezés előtt állók,
+
+k)[^15] a Nemzeti Közszolgálati Egyetem rendészeti igazgatási szak biztonsági, migrációs, valamint vám- és jövedéki igazgatási szakirányára felvételre jelentkezőket, vagy ilyen szakirányon tanulmányokat folyatató hallgatókat kivéve, a Nemzeti Közszolgálati Egyetem nappali munkarendben folyatatott rendészeti képzésére, a rendészeti szakközépiskolákba és egyéb rendészeti oktatási intézeteknél felvételre jelentkezők, illetve ezen iskolák tanulói és hallgatói,
+
+l)[^16] a Nemzeti Adó- és Vámhivatal (a továbbiakban: NAV) kormánytisztviselői, kormányzati ügykezelői és hivatásos állománya, valamint a NAV-hoz szolgálati jogviszonyba felvételre jelentkezők
 
 munkaköri alkalmasságának orvosi vizsgálatánál és véleményezésénél.
 
-(3)[^11]
+(3)[^17]
 
 [^7]: A 2. § (1) bekezdése a 41/2012. (XII. 20.) NGM rendelet 4. §-ával megállapított szöveg.
 [^8]: A 2. § (1) bekezdés c) pontja az 55/2013. (XII. 4.) NGM rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^9]: A 2. § (2) bekezdésének c) pontja a 80/2003. (XII. 23.) ESZCSM rendelet 1. §-ával megállapított szöveg.
+[^9]: A 2. § (2) bekezdés c) pontja a 13/2014. (III. 14.) NGM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^10]: A 2. § (2) bekezdésének f) pontját a 18/2007. (V. 10.) SZMM rendelet 10. § (3) bekezdése iktatta be.
-[^11]: A 2. § (3) bekezdését a 18/2007. (V. 10.) SZMM rendelet 24. § d) pontja hatályon kívül helyezte.
+[^11]: A 2. § (2) bekezdés g) pontját a 13/2014. (III. 14.) NGM rendelet 1. § (2) bekezdése iktatta be.
+[^12]: A 2. § (2) bekezdés h) pontját a 13/2014. (III. 14.) NGM rendelet 1. § (2) bekezdése iktatta be.
+[^13]: A 2. § (2) bekezdés i) pontját a 13/2014. (III. 14.) NGM rendelet 1. § (2) bekezdése iktatta be.
+[^14]: A 2. § (2) bekezdés j) pontját a 13/2014. (III. 14.) NGM rendelet 1. § (2) bekezdése iktatta be.
+[^15]: A 2. § (2) bekezdés k) pontját a 13/2014. (III. 14.) NGM rendelet 1. § (2) bekezdése iktatta be.
+[^16]: A 2. § (2) bekezdés l) pontját a 13/2014. (III. 14.) NGM rendelet 1. § (2) bekezdése iktatta be.
+[^17]: A 2. § (3) bekezdését a 18/2007. (V. 10.) SZMM rendelet 24. § d) pontja hatályon kívül helyezte.
