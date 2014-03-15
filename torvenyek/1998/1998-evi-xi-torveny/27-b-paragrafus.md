@@ -8,6 +8,8 @@ b) a személyazonosságának igazolására alkalmas, bemutatott hatósági igazo
 
 megállapítása céljából megkeresheti a személyiadat- és lakcímnyilvántartást, a járművezetőiengedély-nyilvántartást, az útiokmány-nyilvántartást vezető vagy a központi idegenrendészeti nyilvántartás (a továbbiakban ezen alcím alatt együttesen: nyilvántartás) adatait feldolgozó hatóságot.
 
+(1a) Az ügyvéd gazdasági társaság létesítő okiratának, valamint a cégnyilvántartásba bejegyzett cég képviselője aláírásmintájának ellenjegyzése során, ha a felet személyesen nem ismeri, az (1) bekezdés szerinti személyazonosság-ellenőrzést köteles elvégezni.
+
 (2) Az ellenőrzés elektronikus úton történő adatigényléssel valósul meg; az adatigénylés iránti megkeresést az ügyvéd elektronikus aláírásával látja el.
 
 (3) A nyilvántartást vezető hatóság az adatigénylés iránti megkeresés teljesítése előtt ellenőrzi az elektronikus aláíráshoz tartozó tanúsítvány érvényességét; a megkeresés teljesítését megtagadja, ha a tanúsítvány érvényességét a hitelesítés-szolgáltató felfüggesztette vagy a tanúsítványt visszavonta.

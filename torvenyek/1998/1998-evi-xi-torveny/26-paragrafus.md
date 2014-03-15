@@ -4,7 +4,7 @@
 
 (2) A megbízó és az ügyvéd által aláírt meghatalmazás teljes bizonyító erejű magánokirat.
 
-(3) Ha a megbízó írni, olvasni nem tud, vagy nem képes, a meghatalmazást közokiratba vagy olyan teljes bizonyító erejű magánokiratba kell foglalni, amelyen két tanú az aláírásával igazolja, hogy a megbízó a megbízás létrejöttét előttük elismerte.
+(3) Ha a megbízó írni, olvasni nem tud vagy nem képes, a meghatalmazást a Polgári Törvénykönyvnek az írásbeli alakhoz kötött jognyilatkozatra vonatkozó szabályai szerint kell megadni.
 
 (4) A meghatalmazás feljogosítja az ügyvédet minden olyan cselekményre, amely a rábízott ügy szabályszerű ellátásával jár, így okirat, pénz és más vagyontárgy átvételére is.
 

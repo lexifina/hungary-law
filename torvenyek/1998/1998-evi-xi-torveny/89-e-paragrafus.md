@@ -12,7 +12,7 @@ e) egyetemi diplomájának, továbbá – ha rendelkezik ilyennel – ügyvédi 
 
 f) irodájának, alkalmazott esetében munkáltatójának, és – ha van – az együttműködő ügyvéd irodájának címét, telefon- és telefaxszámát, e-mail címét, ha együttműködési szerződés megkötésére nem került sor, az elérhetőségi adatait,
 
-g) névjegyzékbe vételének időpontját, a határozat számát,
+g) névjegyzékbe vételének időpontját, a határozat számát, az ügyvéd kamarai azonosító számát,
 
 h) tevékenysége megkezdésének, felfüggesztésének, szünetelésének és megszűnésének időpontját,
 

@@ -46,7 +46,7 @@ cd) akivel szemben a bíróság kényszergyógykezelést alkalmazott, a kénysze
 
 d) akit az ügyvédi kamarából kizártak, a kizáró határozat jogerőre emelkedésétől számított 10 évig,
 
-e) aki cselekvőképességet korlátozó vagy kizáró gondnokság hatálya alatt áll, vagy gondnokság alá helyezés nélkül is cselekvőképtelen (Ptk. 17. §),
+e) aki cselekvőképességet érintő gondnokság vagy támogatott döntéshozatal hatálya alatt áll,
 
 f) aki az életmódja vagy magatartása miatt az ügyvédi hivatás gyakorlásához szükséges közbizalomra érdemtelen,
 

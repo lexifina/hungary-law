@@ -1,4 +1,4 @@
-## Az iroda jogutódlással történő megszűnése (átalakulása)
+## Az iroda jogutódlással történő megszűnése
 
 77. § (1) Az iroda jogutódlással történő megszűnéséről különválás, kiválás (a továbbiakban: szétválás) esetén az iroda taggyűlése dönt, összeolvadás, beolvadás (a továbbiakban: egyesülés) esetén az érintett irodák taggyűlései döntenek.
 
@@ -10,7 +10,7 @@
 
 (5) A megbízásnak a jogutód irodára való átszállásáról a megbízott iroda a megbízót a 24. § (7) bekezdése szerint köteles értesíteni.
 
-(6) Az átalakuló, az átalakulással létrejövő iroda vagyonmérleg-készítési, vagyonértékelési, vagyonmegállapítási kötelezettségére, az átalakulás eljárási szabályaira a gazdasági társaságokról szóló törvény átalakulásra vonatkozó előírásait kell megfelelően alkalmazni.
+(6) Az átalakuló, az átalakulással létrejövő iroda vagyonmérleg-készítési, vagyonértékelési, vagyonmegállapítási kötelezettségére, az átalakulás eljárási szabályaira a Polgári Törvénykönyvnek a gazdasági társaságok átalakulására, egyesülésére és szétválására vonatkozó előírásait kell megfelelően alkalmazni.
 
 (7) A szétváló iroda jogutódai az irodának a szétválás előtt keletkezett kötelezettségeiért a vagyonmegosztás arányában felelnek. Ha valamely vagyontárgyról a szétválás során nem rendelkeztek, a vagyontárgy vagy annak ellenértéke valamennyi jogutód irodát a vagyonmegosztás arányában illeti meg. Ha a kötelezettség csak a szétválást követően válik ismertté, a jogutód irodák felelőssége egyetemleges. Egyetemleges a jogutód irodák felelőssége akkor is, ha a szétválás során rendelkeztek ugyan a kötelezettségről, de a kötelezettséget a kötelezett iroda nem teljesítette. E rendelkezéseket a megbízásból fakadó kötelezettségeket illetően csak az esetleges kártérítési felelősségre (69. §) lehet alkalmazni.
 
