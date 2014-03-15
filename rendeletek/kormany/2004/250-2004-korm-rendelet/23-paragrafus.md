@@ -1,4 +1,4 @@
-## 22. § Ha a címzett 14 év alatti személy, törvényes képviselőjének, ha pedig gondnokság alá helyezett személy, gondnokának kell kézbesíteni.
+## kell kézbesíteni.
 
 ## Kézbesítés azonos nevű személyek részére
 

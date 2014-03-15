@@ -1,5 +1,5 @@
-## VI. Fejezet[^32]
+## VIII. Fejezet[^34]
 
 ## ZÁRÓ RENDELKEZÉSEK
 
-[^32]: A VI. fejezet megjelölése és címe a 142/2010. (IV. 28.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^34]: A VI. Fejezet megjelölése és címe a 142/2010. (IV. 28.) Korm. rendelet 4. §-ával megállapított szöveg. Az eredeti VI. Fejezet számozását VIII. Fejezetre változtatta a 68/2014. (III. 13.) Korm. rendelet 3. § (3) bekezdése.
