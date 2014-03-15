@@ -24,4 +24,4 @@ b) a személyi jövedelemadóról szóló 1995. évi CXVII. törvény és a fiat
 
 9. utalási összeg: a kiutaló által a gyermek javára a Start-számlát vezető számlevezetőhöz e törvény alapján utalt összeg;
 
-10. hozzátartozó: a gyermek a Polgári Törvénykönyvről szóló törvény szerinti – szülőnek nem minősülő – hozzátartozója és az egyenes ágbeli rokon testvére.
+10. hozzátartozó: a gyermek a Polgári Törvénykönyv szerinti – szülőnek nem minősülő – hozzátartozója és az egyenes ágbeli rokon testvére.
