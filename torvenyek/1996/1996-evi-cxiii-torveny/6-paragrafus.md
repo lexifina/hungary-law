@@ -14,6 +14,6 @@ d) a társasház épületenként kétharmados közgyűlési határozattal a köz
 
 (2) Kedvezményezett lehet
 
-a) a lakáselőtakarékoskodó közeli hozzátartozója [Ptk. 685. § b) pont] az (1) bekezdés a) pontjában foglaltak alapján,
+a) a lakás-előtakarékoskodónak a Polgári Törvénykönyv szerinti közeli hozzátartozója (a továbbiakban: közeli hozzátartozó) az (1) bekezdés a) pontjában foglaltak alapján,
 
-b) gyámság alatt álló gyermek (a Csjt. 98. §) az (1) bekezdés b) pontjában foglaltak alapján, akinek a javára a lakáselőtakarékoskodó a lakáselőtakarékossági szerződést megkötötte.
+b) a Polgári Törvénykönyv szerinti gyámság alatt álló kiskorú az (1) bekezdés b) pontjában foglaltak alapján, akinek a javára a lakás-előtakarékoskodó a lakás-előtakarékossági szerződést megkötötte.

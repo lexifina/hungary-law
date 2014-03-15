@@ -6,7 +6,7 @@
 
 (4) A 6. § (1) bekezdés b) pontja alapján kötött szerződéseknél a kiskorú gyámságát ellátó személy változása esetén az új gyám a korábbi gyám helyébe léphet.
 
-(5) A lakáselőtakarékoskodó személye a (2) és (4) bekezdésben foglalt esetek kivételével csak akkor változtatható, ha az új lakáselőtakarékoskodó az eredeti lakáselőtakarékoskodó közeli hozzátartozója [Ptk. 685. § b) pont]. A lakáselőtakarékoskodó személyének megváltoztatásához jogerős bírósági, hatósági határozat vagy a korábbi és az új tulajdonos írásos nyilatkozata szükséges.
+(5) A lakás-előtakarékoskodó személye a (2) és (4) bekezdésben foglalt esetek kivételével csak akkor változtatható, ha az új lakás-előtakarékoskodó az eredeti lakás-előtakarékoskodó közeli hozzátartozója. A lakás-előtakarékoskodó személyének megváltoztatásához jogerős bírósági ítélet, hatósági határozat vagy a korábbi és az új tulajdonos írásos nyilatkozata szükséges.
 
 (6) A természetes személy lakáselőtakarékoskodó halála esetén, ha a szerződésen a 6. § (2) bekezdés szerinti kedvezményezetti jelölés áll fenn, a lakáselőtakarékossági szerződésen elhelyezett betét és kamatai nem tartoznak az elhunyt lakáselőtakarékoskodó hagyatékához, azok felett a szerződés folytatására a (2) bekezdés szerint jogosult kedvezményezett a hagyatéki eljárás lefolytatásától függetlenül rendelkezhet.
 
