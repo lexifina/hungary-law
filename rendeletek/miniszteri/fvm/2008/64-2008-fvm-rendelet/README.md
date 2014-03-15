@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-64-20-8
 | 2012-01-01 | 2008-64-20-82.4 | 109/2011. (XI. 21.) VM rendelet |
 | 2013-08-01 | 2008-64-20-82.5 | 70/2013. (VII. 31.) VM rendelet |
 | 2014-01-01 | 2008-64-20-82.6 | 132/2013. (XII. 23.) VM rendelet |
+| 2014-03-15 | 2008-64-20-82.7 | 22/2014. (III. 14.) VM rendelet |

@@ -4,7 +4,7 @@
 
 (2) Ez a rendelet a Szerződés 87. és 88. cikkének a halászat ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról és az 1860/2004/EK rendelet módosításáról szóló 875/2007/EK bizottsági rendelet (HL L 193., 2007.7.25., 6. o.) hatálya alá tartozó támogatást tartalmaz.
 
-Melléklet a 64/2008. (V. 14.) FVM rendelethez[^9]
+Melléklet a 64/2008. (V. 14.) FVM rendelethez[^11]
 
 Támogatási kérelem
 
@@ -82,4 +82,4 @@ kérelmező (cégszerű) aláírása
 
 4. A kérelmező által a tárgyévben üzemeltetett összes halastóterület nagyságát igazoló érvényes vízjogi engedély másolata.
 
-[^9]: A melléklet a 24/2011. (III. 29.) VM rendelet 3. § (2) bekezdésével megállapított, a 70/2013. (VII. 31.) VM rendelet 94. § b)–c) pontja szerint módosított szöveg.
+[^11]: A melléklet a 24/2011. (III. 29.) VM rendelet 3. § (2) bekezdésével megállapított, a 70/2013. (VII. 31.) VM rendelet 94. § b)–c) pontja szerint módosított szöveg.
