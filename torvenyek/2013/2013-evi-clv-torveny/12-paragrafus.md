@@ -6,4 +6,4 @@ a) a támogatott döntéshozatallal kapcsolatos gyámhatósági feladat- és hat
 
 b) a 7. § (3) bekezdés a) pontjában és a 9. §-ban meghatározott szerv kijelölését.
 
-(2)
+(2) Felhatalmazást kap a gyermekek és az ifjúság védelméért felelős miniszter, hogy rendeletben szabályozza a hivatásos támogatók képesítési előírásainak, képzésének és továbbképzésének szabályait.
