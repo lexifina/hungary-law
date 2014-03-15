@@ -14,7 +14,7 @@ f) a cég jegyzett tőkéjét,
 
 g) a képviselet módját (önálló vagy együttes),
 
-h) a cég képviseletére jogosultak nevét, adóazonosító számát, természetes személy esetén lakóhelyét, születési idejét, anyja születési nevét, jogi személyiség nélküli gazdasági társaság vagy jogi személy esetén székhelyét, és cégjegyzékszámát vagy nyilvántartási számát, valamint a képviseletre jogosultak tisztségét, e jogviszonyuk keletkezésének időpontját, határozott időre szóló képviselet esetében a jogviszony megszűnésének időpontját is, illetve ha a jogviszony megszűnésére a cégjegyzékben feltüntetett időpontnál korábban kerül sor, a megszűnés tényleges időpontját, továbbá azt a tényt, ha a cég képviselőjének közjegyzői aláírás-hitelesítéssel ellátott címpéldánya vagy ügyvéd által ellenjegyzett aláírás-mintája benyújtásra került,
+h) a cég képviseletére jogosultak nevét, adóazonosító számát, természetes személy esetén lakóhelyét, születési idejét, anyja születési nevét, jogi személy esetén székhelyét, és cégjegyzékszámát vagy nyilvántartási számát, valamint a képviseletre jogosultak tisztségét, e jogviszonyuk keletkezésének időpontját, határozott időre szóló képviselet esetében a jogviszony megszűnésének időpontját is, illetve ha a jogviszony megszűnésére a cégjegyzékben feltüntetett időpontnál korábban kerül sor, a megszűnés tényleges időpontját, továbbá azt a tényt, ha a cég képviselőjének közjegyzői aláírás-hitelesítéssel ellátott címpéldánya vagy ügyvéd által ellenjegyzett aláírás-mintája benyújtásra került,
 
 i) a cég adószámát, valamint statisztikai számjelét, továbbá ha a cég adószáma alkalmazását felfüggesztették vagy azt törölték, akkor a felfüggesztést, a felfüggesztés megszüntetését, a törlést, illetve e határozatok megsemmisítését vagy hatályon kívül helyezését, továbbá a határozat jogerőre emelkedésének napját,
 
@@ -22,7 +22,9 @@ j) a cég valamennyi pénzforgalmi számláját, valamint az azokat vezető pén
 
 k) a cégbejegyzési (változásbejegyzési) végzés meghozatalának időpontját,
 
-l) a k) pontban foglalt végzésnek megfelelően – elektronikus bejegyzéssel – a cégjegyzékadatok, illetve azok törlése bejegyzésének Cégközlönyben történő közzétételének napját.
+l) a k) pontban foglalt végzésnek megfelelően – elektronikus bejegyzéssel – a cégjegyzékadatok, illetve azok törlése bejegyzésének Cégközlönyben történő közzétételének napját,
+
+m) a cég elektronikus kézbesítési címét.
 
 (2)
 
@@ -37,3 +39,7 @@ l) a k) pontban foglalt végzésnek megfelelően – elektronikus bejegyzéssel 
 (5) A cégbíróság az adóhatóság elektronikus értesítése alapján, hivatalból jegyzi be a cég adószáma alkalmazásának felfüggesztését, törlését, a felfüggesztés megszüntetését, illetve e határozatok megsemmisítését vagy hatályon kívül helyezését, továbbá a határozat jogerőre emelkedésének napját.
 
 (6) Az (1) bekezdés j) pontjában meghatározott pénzforgalmi számlára vonatkozó adatot a számlát vezető pénzforgalmi szolgáltató elektronikus adattovábbítás útján köteles bejelenteni a cégbíróságon a számla megnyitását követő nyolc napon belül. Ez a rendelkezés irányadó a pénzforgalmi számla megszűnése esetén is. A bejelentés nem esik illeték, illetve közzétételi költségtérítés fizetési kötelezettség alá. Az adat bejegyzése és közzététele automatikusan, a törvény erejénél fogva történik meg. Ha a számlavezető pénzforgalmi szolgáltató e kötelezettségének nem, vagy nem határidőben tesz eleget, a cégbíróság erről tájékoztatja a Magyar Nemzeti Bankot.
+
+(7) Ha a cég felszámolás alatt áll, az (1) bekezdés h) pontja szerinti adatok között a felszámolóbiztos lakóhelye helyett a személyi adat- és lakcímnyilvántartásban szereplő értesítési címe is feltüntethető.
+
+(8) Az (1) bekezdés m) pontja szerinti kézbesítési címen a cég a részére elektronikus úton megküldött hivatalos iratok átvételét biztosítja. A cégbíróság e címre a 39/A. § alkalmazásával kézbesít.

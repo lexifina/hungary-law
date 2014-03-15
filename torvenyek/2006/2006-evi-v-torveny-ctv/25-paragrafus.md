@@ -28,7 +28,7 @@ m) a cég közösségi adószámát, továbbá ha a cég közösségi adószáma
 
 n) azt, hogy a cégjegyzékben szereplő adatok, illetve a cégiratok fordítása az Európai Unió melyik hivatalos nyelvén szerepel a cégnyilvántartásban,
 
-o) közhasznú minősítéssel rendelkező nonprofit gazdasági társaság esetében a közhasznú jogállás megszerzésének és törlésének időpontját,
+o) közhasznú minősítéssel rendelkező cég esetében a közhasznú jogállás megszerzésének és törlésének időpontját,
 
 p) ha a cég elismert vállalatcsoport tagja, vagy uralkodó tagja, ezt a tényt, a csoporthoz tartozó cégek nevének, székhelyének és cégjegyzékszámának feltüntetésével,
 
@@ -40,7 +40,11 @@ s) ha a cég a jegyzett tőkéjét devizában határozza meg, ezt a tényt, tov�
 
 t) a cég üzleti évének mérlegfordulónapját, amennyiben az üzleti év eltér a naptári évtől,
 
-u) ha a cég tagja (tulajdonosa) a Magyar Állam, az állam tulajdonosi jogait gyakorló szerv nevét és székhelyét.
+u) ha a cég tagja (tulajdonosa) a Magyar Állam, az állam tulajdonosi jogait gyakorló szerv nevét és székhelyét,
+
+v) azt a tényt, ha a cég tagja, képviseletére jogosult személy eltiltás hatálya alatt áll; az eltiltás kezdetét és végét,
+
+z) azt a tényt, hogy a cég tagja e jogállását bizalmi vagyonkezelőként szerezte meg.
 
 (2) A cégbíróság az adóhatóság elektronikus értesítése alapján, hivatalból jegyzi be a cég közösségi adószáma alkalmazásának felfüggesztését, törlését, a felfüggesztés megszüntetését, illetve e határozatok megsemmisítését vagy hatályon kívül helyezését, továbbá a határozat jogerőre emelkedésének napját.
 

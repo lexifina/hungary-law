@@ -2,33 +2,33 @@
 
 (1) Közkereseti társaság esetében
 
-a) a tagok nevét, természetes személy tag esetén születési idejét, lakóhelyét, anyja születési nevét, jogi személyiséggel nem rendelkező gazdasági társaság vagy jogi személy esetén székhelyét, cégjegyzékszámát vagy nyilvántartási számát,
+a) a tagok nevét, természetes személy tag esetén születési idejét, lakóhelyét, anyja születési nevét, jogi személy esetén székhelyét, cégjegyzékszámát vagy nyilvántartási számát,
 
 b) a tag tagsági jogviszonya keletkezésének és megszűnésének időpontját,
 
-c) azt a tényt, ha tagja, vezető tisztségviselője, illetve cégvezetője a gazdasági társaságokról szóló 2006. évi IV. törvény (a továbbiakban: Gt.) 5. és 23. §-ában foglalt eltiltás hatálya alatt áll; az eltiltás kezdetét és végét;
+c)
 
 (2) Betéti társaság esetében
 
-a) a társaság beltagjainak nevét, természetes személy beltag esetén születési idejét, lakóhelyét, anyja születési nevét, jogi személyiséggel nem rendelkező gazdasági társaság vagy jogi személy esetén székhelyét, cégjegyzékszámát vagy nyilvántartási számát,
+a) a társaság beltagjainak nevét, természetes személy beltag esetén születési idejét, lakóhelyét, anyja születési nevét, jogi személy esetén székhelyét, cégjegyzékszámát vagy nyilvántartási számát,
 
-b) a társaság kültagjainak nevét, természetes személy kültag esetén születési idejét, lakóhelyét, anyja születési nevét, jogi személyiséggel nem rendelkező gazdasági társaság vagy jogi személy esetén székhelyét, cégjegyzékszámát vagy nyilvántartási számát,
+b) a társaság kültagjainak nevét, természetes személy kültag esetén születési idejét, lakóhelyét, anyja születési nevét, jogi személy esetén székhelyét, cégjegyzékszámát vagy nyilvántartási számát,
 
 c) a tag tagsági jogviszonya keletkezésének és megszűnésének időpontját,
 
-d) azt a tényt, ha tagja, vezető tisztségviselője, illetve cégvezetője a Gt. 5. és 23. §-ában foglalt eltiltás hatálya alatt áll; az eltiltás kezdetét és végét;
+d)
 
 (3) Korlátolt felelősségű társaság esetében
 
-a) a tagok nevét, természetes személy esetén lakóhelyét, születési idejét, anyja születési nevét, jogi személyiséggel nem rendelkező gazdasági társaság vagy jogi személy esetén székhelyét, és cégjegyzékszámát vagy nyilvántartási számát, valamint amennyiben a tag szavazati jogának mértéke az 50 százalékot meghaladja, vagy a tag minősített többségű befolyással rendelkezik, ezt a tényt is,
+a) a tagok nevét, természetes személy esetén lakóhelyét, születési idejét, anyja születési nevét, jogi személy esetén székhelyét, és cégjegyzékszámát vagy nyilvántartási számát, valamint amennyiben a tag szavazati jogának mértéke az 50 százalékot meghaladja, vagy a tag minősített többségű befolyással rendelkezik, ezt a tényt is,
 
 b) a tag tagsági jogviszonya keletkezésének és megszűnésének időpontját,
 
 c) az üzletrészen alapított zálogjog tényét, a zálogjogosult nevét (cégnevét), lakóhelyét (székhelyét), cégjegyzékszámát (nyilvántartási számát),
 
-d) azt a tényt, ha tagja, vezető tisztségviselője, illetve cégvezetője a Gt. 5. és 23. §-ában foglalt eltiltás hatálya alatt áll; az eltiltás kezdetét és végét;
+d)
 
-e) közös tulajdonú üzletrész esetén a tulajdonosok nevét, természetes személy esetén lakóhelyét, születési idejét, anyja születési nevét, jogi személyiséggel nem rendelkező gazdasági társaság vagy jogi személy esetén székhelyét, és cégjegyzékszámát vagy nyilvántartási számát.
+e) közös tulajdonú üzletrész esetén a tulajdonosok nevét, természetes személy esetén lakóhelyét, születési idejét, anyja születési nevét, jogi személy esetén székhelyét, és cégjegyzékszámát vagy nyilvántartási számát.
 
 (4)
 
@@ -40,7 +40,7 @@ ab) a kibocsátott átváltoztatható kötvények számát és névértékét,
 
 ac) a kibocsátott jegyzési jogot biztosító kötvények számát és névértékét,
 
-ad) azt a tényt, ha tagja, vezető tisztségviselője, illetve cégvezetője a Gt. 5. és 23. §-ában foglalt eltiltás hatálya alatt áll; az eltiltás kezdetét és végét,
+ad)
 
 b) Zártkörűen működő részvénytársaság esetében
 
@@ -48,9 +48,9 @@ ba) a részvénytársaság ügyvezetésének típusát (igazgatóság vagy egysz
 
 bb) ha a részvény átruházását az alapszabály korlátozza, ezt a tényt,
 
-bc) amennyiben a részvényes szavazati jogának mértéke az 50 százalékot meghaladja, vagy a részvényes minősített többségű befolyással rendelkezik, a részvényes nevét, természetes személy esetén lakóhelyét, születési idejét, anyja születési nevét, jogi személyiséggel nem rendelkező gazdasági társaság vagy jogi személy esetén székhelyét, és cégjegyzékszámát vagy nyilvántartási számát.
+bc) amennyiben a részvényes szavazati jogának mértéke az 50 százalékot meghaladja, vagy a részvényes minősített többségű befolyással rendelkezik, a részvényes nevét, természetes személy esetén lakóhelyét, születési idejét, anyja születési nevét, jogi személy esetén székhelyét, és cégjegyzékszámát vagy nyilvántartási számát.
 
-bd) egyszemélyes részvénytársaság esetében a részvényes nevét, adóazonosító számát, természetes személy esetén születési idejét, lakóhelyét, anyja születési nevét, jogi személyiséggel nem rendelkező gazdasági társaság vagy jogi személy esetén székhelyét, cégjegyzékszámát vagy nyilvántartási számát,
+bd) egyszemélyes részvénytársaság esetében a részvényes nevét, adóazonosító számát, természetes személy esetén születési idejét, lakóhelyét, anyja születési nevét, jogi személy esetén székhelyét, cégjegyzékszámát vagy nyilvántartási számát,
 
 be) azt a tényt, ha a részvénytársaság vezető tisztségviselőjének megbízatása a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgyú jogszabályok módosításáról szóló 2013. évi CXXXV. törvény 15.§ (4) bekezdés a) pontja alapján felfüggesztésre került; továbbá a kijelölt felügyeleti biztos nevét, székhelyét és lakóhelyét,
 
@@ -70,7 +70,7 @@ a) a tagok nevét (cégét), lakóhelyét (székhelyét),
 
 b) az egyesüléshez csatlakozó tag csatlakozásának időpontját, felelősségének esetleges korlátozását,
 
-c) azt a tényt, ha tagja, vezető tisztségviselője, illetve cégvezetője a Gt. 5. és 23. §-ában foglalt eltiltás hatálya alatt áll; az eltiltás kezdetét és végét;
+c)
 
 (6) Egyéni cég esetén
 
@@ -78,7 +78,7 @@ a) a cégtulajdonos nevét, lakóhelyét, születési idejét és anyja szület�
 
 b)
 
-c) azt a tényt, ha az egyéni cég tagja vagy vezető tisztségviselője az egyéni vállalkozóról és az egyéni cégről szóló 2009. évi CXV. törvény 20. § (7) bekezdésében foglalt eltiltás hatálya alatt áll; az eltiltás kezdetét és végét.
+c)
 
 (7)
 
@@ -88,7 +88,7 @@ a) a külföldi vállalkozás nevét, cégformáját, cégjegyzékszámát (nyil
 
 b) a külföldi vállalkozás cégjegyzékét (nyilvántartását) vezető bíróság, illetve hatóság megnevezését és székhelyét,
 
-c) a külföldi vállalkozás képviseletére jogosult személy vagy szerv nevét, adóazonosító számát, természetes személy esetén születési idejét, lakóhelyét, anyja születési nevét, jogi személyiséggel nem rendelkező gazdasági társaság vagy jogi személy esetén székhelyét, cégjegyzékszámát vagy nyilvántartási számát, a jogviszony keletkezésének és megszűnésének időpontját;
+c) a külföldi vállalkozás képviseletére jogosult személy vagy szerv nevét, természetes személy esetén lakóhelyét, anyja születési nevét, jogi személy esetén székhelyét, cégjegyzékszámát vagy nyilvántartási számát, a jogviszony keletkezésének és megszűnésének időpontját;
 
 (9) Külföldiek magyarországi közvetlen kereskedelmi képviselete esetében
 
@@ -96,7 +96,7 @@ a) a külföldi vállalkozás nevét, cégformáját, cégjegyzékszámát (nyil
 
 b) a külföldi vállalkozás cégjegyzékét (nyilvántartását) vezető bíróság, illetve hatóság megnevezését és székhelyét,
 
-c) a külföldi vállalkozás képviseletére jogosult személy vagy szerv nevét, adóazonosító számát, természetes személy esetén születési idejét, lakóhelyét, anyja születési nevét, jogi személyiséggel nem rendelkező gazdasági társaság vagy jogi személy esetén székhelyét, cégjegyzékszámát vagy nyilvántartási számát, a jogviszony keletkezésének és megszűnésének időpontját;
+c) a külföldi vállalkozás képviseletére jogosult személy vagy szerv nevét, természetes személy esetén lakóhelyét, anyja születési nevét, jogi személy esetén székhelyét, cégjegyzékszámát vagy nyilvántartási számát, a jogviszony keletkezésének és megszűnésének időpontját;
 
 (10) Vízgazdálkodási társulat esetében
 

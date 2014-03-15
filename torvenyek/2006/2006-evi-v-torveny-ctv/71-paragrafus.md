@@ -4,10 +4,6 @@
 
 (3) A bíróság jogerős ítéletét meg kell küldeni a cégjegyzéket vezető cégbíróságnak, amely gondoskodik a 66. § (2)–(3) bekezdésében, a 67. §-ban, a 68. § (2)–(4) bekezdésében és a 69. § (3)–(4) bekezdésében, valamint a 70. §-ban megjelölt határozatok rendelkező részének a Cégközlönyben való közzétételéről.
 
-## VI. Fejezet
+6. CÍM
 
-## A TÖRVÉNYESSÉGI FELÜGYELETI ELJÁRÁS
-
-1. CÍM
-
-Általános rendelkezések
+A GAZDASÁGI TÁRSASÁG ÉS A SZÖVETKEZET TAGJÁNAK KIZÁRÁSA IRÁNTI PER

@@ -12,6 +12,6 @@ e) a cég vagyoni részesedésével működő jogalanyok, illetve a részvétel�
 
 f)
 
-(2) A vagyonfelosztási javaslatban szereplő tételeket piaci értéken kell beállítani. A hitelezők kielégítése után fennmaradó vagyonnak a tagok (részvényesek) közötti természetbeni felosztására csak vagyonértékelés esetén van mód.
+(2) A vagyonfelosztási javaslatban szereplő tételeket piaci értéken kell beállítani. A hitelezők kielégítése után fennmaradó vagyonnak a tagok közötti természetbeni felosztására csak vagyonértékelés esetén van mód.
 
 (3) A legfőbb szerv az előterjesztett iratok, illetve a vagyonfelosztás tárgyában határozatot hoz, amelyben dönthet a jogok engedményezéséről és a kötelezettségek átruházásáról, illetve a cég tartozásának más által történő átvállalásáról is. A határozatban – szükség esetén – rendelkezni kell a végelszámoló díjáról és a végelszámolás költségeinek, köztük az iratanyag őrzésének és a cég megszűnésével kapcsolatban felmerülő egyéb költségeknek a viseléséről is.

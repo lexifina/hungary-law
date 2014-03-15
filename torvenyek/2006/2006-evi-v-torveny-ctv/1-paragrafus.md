@@ -8,7 +8,7 @@ c) a cégjegyzék adatairól, valamint a cégiratokról tájékoztatás nyújtá
 
 d) a cégnyilvántartás közhitelességének és a cég törvényes működésének biztosítása érdekében – hivatalból, illetve kérelemre – törvényességi felügyeleti eljárás lefolytatása,
 
-e) a gazdasági társaságokról szóló törvényben és más, az egyes cégformákra vonatkozó törvényekben, illetve az Európai Unió rendeleteiben meghatározott, a kisebbségi jogok gyakorlását, valamint a hitelezői jogok védelmét biztosító kérelmek elbírálása,
+e) a Polgári Törvénykönyvben (a továbbiakban: Ptk.) és más, az egyes cégformákra vonatkozó törvényekben, illetve az Európai Unió rendeleteiben meghatározott, a kisebbségi jogok gyakorlását, valamint a hitelezői jogok védelmét biztosító kérelmek elbírálása,
 
 f) döntés a közhasznúvá minősítésről, és a közhasznú jogállás cégjegyzékbe történő bejegyzése, illetve törlése, továbbá
 

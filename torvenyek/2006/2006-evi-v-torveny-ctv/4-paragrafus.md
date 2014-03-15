@@ -2,7 +2,7 @@
 
 (2) A cégnévben a cég nonprofit jellegét a cégforma megjelölése előtt fel kell tüntetni, a közhasznú szervezeti minőség pedig feltüntethető.
 
-(3) A cégnévben az „állami” vagy „nemzeti” kifejezés csak abban az esetben szerepelhet, ha a cégben az állam közvetlenül vagy szervezetei útján többségi befolyással (Ptk. 685/B. §) rendelkezik, vagy a cég a külön törvény szerinti tartós állami tulajdoni körbe tartozik.
+(3) A cégnévben az „állami” vagy „nemzeti” kifejezés csak abban az esetben szerepelhet, ha a cégben az állam közvetlenül vagy szervezetei útján a Ptk. szerinti többségi befolyással rendelkezik, vagy a cég a külön törvény szerinti tartós állami tulajdoni körbe tartozik.
 
 (4) Külföldi cég magyarországi fióktelepe, külföldiek magyarországi közvetlen kereskedelmi képviselete, valamint európai gazdasági egyesülés telephelye esetén a külföldi vállalkozás nevét a cégnévben meg kell jelölni.
 

@@ -26,6 +26,8 @@ l) a bűnügyi nyilvántartó szervtől történő adatigénylésre és ezzel ö
 
 m) a cégbejegyzési (változásbejegyzési) kérelem céginformációs szolgálat által végzett informatikai és formai szempontú vizsgálatára
 
+n) a szerződésminták alkalmazásának feltételeire, a szerződésminták tartalmi és formai követelményeire
+
 vonatkozó részletes szabályokat rendelettel állapítsa meg.
 
 (2) Felhatalmazást kap az államháztartásért felelős miniszter, hogy a Fővárosi Törvényszék Gazdasági Hivatalának a központi költségvetéssel történő, a 131/A. § (7) bekezdése szerinti elszámolásának, valamint a központi költségvetésből a pénzösszeg folyósításának részletes szabályait rendeletben állapítsa meg.

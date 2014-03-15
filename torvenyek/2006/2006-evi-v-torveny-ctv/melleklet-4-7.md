@@ -10,13 +10,13 @@
 
 ## 4. a jogszabályban meghatározott mértékű illeték és közzétételi költségtérítés megfizetésének igazolása;
 
-## 5. a vezető tisztségviselő és a cégvezető nyilatkozata arról, hogy nem áll a Gt. 23. §-ában foglalt eltiltás hatálya alatt.
+## 5. a vezető tisztségviselő és a cégvezető nyilatkozata arról, hogy nem áll eltiltás hatálya alatt.
 
 ## II. Ha a bejegyzési kérelem tartalmára tekintettel szükséges, egyéb benyújtandó okiratok:
 
 ## 1. amennyiben a cég élt névfoglalással, a névfoglalást elrendelő végzés másolata;
 
-## 2. a) a vezető tisztségviselőknek, a könyvvizsgálónak a megválasztást elfogadó, az összeférhetetlenségre is kiterjedő nyilatkozata, a közkereseti társaság és a betéti társaság vezető tisztségviselőinek kivételével, ha a képviseletet valamennyi tag ellátja,
+## 2. a) a vezető tisztségviselőknek, a felügyelőbizottsági tagok, a könyvvizsgálónak a megválasztást elfogadó, az összeférhetetlenségre is kiterjedő nyilatkozata,
 
 ## b) az a) pontban említettek megválasztásának időtartamát tartalmazó okirat;
 
@@ -72,6 +72,6 @@
 
 ## a) hitelintézet igazolása a pénzbeli hozzájárulás befizetéséről vagy ügyvéd által ellenjegyzett vagy közjegyző által közokiratba foglalt ügyvezetői nyilatkozat a pénzbeli hozzájárulásnak a társaság rendelkezésére bocsátásáról,
 
-## b) ügyvezetői nyilatkozat a nem pénzbeli hozzájárulás rendelkezésre bocsátásáról.”
+## b) ügyvezetői nyilatkozat a nem pénzbeli hozzájárulás rendelkezésre bocsátásáról.
 
-4. számú melléklet a 2006. évi V. törvényhez
+4–7. számú melléklet a 2006. évi V. törvényhez

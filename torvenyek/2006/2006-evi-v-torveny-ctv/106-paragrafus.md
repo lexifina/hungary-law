@@ -2,7 +2,7 @@
 
 (2) A végelszámoló a hitelezői igénybejelentési határidő elteltét követő tizenöt napon belül a követelésekről jegyzéket készít, ezen belül külön kimutatja az elismert és a vitatott hitelezői igényeket. A követelések jegyzékét a végelszámoló további tizenöt napon belül benyújtja a cégbírósághoz a nyilvános cégiratok közé történő elhelyezés céljából. A vitatott hitelezői igények hitelezőit a végelszámoló a követelésük ilyen minősítéséről ugyanezen időtartam alatt értesíti.
 
-(3) A cég tagja (részvényese), hitelezője, illetve az, aki a jogi érdekét valószínűsíti, törvényességi felügyeleti eljárást kezdeményezhet a cégbíróságnál, ha azt észleli, hogy a végelszámoló a (2) bekezdésben megjelölt követelések jegyzékét a cégiratokhoz nem csatolta be. Ilyen esetben a bíróság a végelszámolót
+(3) A cég tagja, hitelezője, illetve az, aki a jogi érdekét valószínűsíti, törvényességi felügyeleti eljárást kezdeményezhet a cégbíróságnál, ha azt észleli, hogy a végelszámoló a (2) bekezdésben megjelölt követelések jegyzékét a cégiratokhoz nem csatolta be. Ilyen esetben a bíróság a végelszámolót
 
 a) határidő tűzésével és pénzbírság terhe mellett felhívja a mulasztás pótlására, vagy ennek eredménytelensége esetén
 

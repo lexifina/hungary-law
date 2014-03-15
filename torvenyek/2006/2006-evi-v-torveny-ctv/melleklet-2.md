@@ -26,7 +26,7 @@
 
 ## c) elektronikus aláírás esetében az elektronikus címpéldány tanúsítványa,
 
-## d) a vezető tisztségviselő és a cégvezető nyilatkozata arról, hogy nem áll a Gt. 23. §-ában foglalt eltiltás hatálya alatt.
+## d) a vezető tisztségviselő és a cégvezető nyilatkozata arról, hogy nem áll eltiltás hatálya alatt;
 
 ## 8. ha a könyvvizsgáló szervezet, a könyvvizsgálatot ellátó személynek a megválasztást elfogadó, az összeférhetetlenségre is kiterjedő nyilatkozata;
 
@@ -60,17 +60,7 @@
 
 ## c) a tőkeleszállításra vonatkozó közlemény közzétételét igazoló lappéldánykivonatok;
 
-## 2. a) nyilvános részvénytársaság alapításával összefüggésben
-
-## aa) az alapítási tervezet,
-
-## ab) a Magyar Nemzeti Bank által jóváhagyott tájékoztató,
-
-## ac) a részvényjegyzési ív,
-
-## ad) az alakuló közgyűlésre szóló meghívó és a közzétételének igazolása,
-
-## ae) az alakuló közgyűlés jegyzőkönyve és a jelenléti ív;
+## 2. a)
 
 ## b) zárt körű részvénytársaság alapításával összefüggésben a részvények átvételére kijelölt személyeknek a részvények átvételére vonatkozó kötelezettségvállalását tartalmazó okirat;
 
@@ -82,9 +72,9 @@
 
 ## d) részvénytársaság tőkeváltozásával kapcsolatban
 
-## da) a tőkeleszállításra vonatkozó közlemény közzétételét igazoló lappéldánykivonatok, és az igazgatóság Gt. 274. § (1) bekezdése szerint adott nyilatkozata;
+## da) a tőkeleszállításra vonatkozó közlemény közzétételét igazoló lappéldánykivonatok, és az igazgatóságnak arra vonatkozó nyilatkozata, hogy a társaság eleget tett a hitelezők biztosítékadási kötelezettségének,
 
-## db)
+## db) átváltoztatható vagy átváltozó kötvények forgalomba hozatalát követő alaptőke-emelés esetén az igazgatóság nyilatkozata arról, hogy az átváltoztatható kötvények tulajdonosai milyen összegben kérték az átváltoztatást, az átváltozó kötvény esetén arról, hogy a feltétel bekövetkezett, továbbá nyilatkozat az alaptőke-emelés összegéről, valamint részvényfajtánként (részvényosztályonként) az új részvények számáról és névértékéről;
 
 ## e) részvénytársaság esetén
 
@@ -94,27 +84,33 @@
 
 ## 3. szövetkezet esetén
 
-## – az alakuló közgyűlés, illetve a közgyűlés jegyzőkönyve (kivonat) és a jelenléti ív,
+## a) az alakuló közgyűlés, illetve a közgyűlés jegyzőkönyve (kivonat) és a jelenléti ív,
 
-## – a közgyűlési meghívó;
+## b) a közgyűlési meghívó,
+
+## c) a vagyoni hozzájárulással kapcsolatban
+
+## ca) pénzforgalmi szolgáltató igazolása a pénzbeli hozzájárulás befizetéséről vagy ügyvéd által ellenjegyzett vagy közjegyző által közokiratba foglalt vezető tisztségviselői nyilatkozat a pénzbeli hozzájárulásnak a szövetkezet rendelkezésére bocsátásáról,
+
+## cb) vezető tisztségviselői nyilatkozat a nem pénzbeli hozzájárulás rendelkezésre bocsátásáról;
 
 ## 4. erdőbirtokossági társulat esetén
 
-## – az alakuló közgyűlés, illetve a közgyűlés jegyzőkönyve (kivonata) és a jelenléti ív,
+## a) az alakuló közgyűlés, illetve a közgyűlés jegyzőkönyve (kivonata) és a jelenléti ív,
 
-## – a közgyűlési meghívó,
+## b) a közgyűlési meghívó,
 
-## – a társulat tulajdonában vagy használatában lévő ingatlanok tulajdoni lapjai;
+## c) a társulat tulajdonában vagy használatában lévő ingatlanok tulajdoni lapjai.
 
 ## 5. vízgazdálkodási társulat esetén
 
-## – az alakuló közgyűlés, illetve a közgyűlés jegyzőkönyve (kivonata) és a jelenléti ív,
+## a) az alakuló közgyűlés, illetve a közgyűlés jegyzőkönyve (kivonata) és a jelenléti ív,
 
-## – a közgyűlési meghívó,
+## b) a közgyűlési meghívó,
 
-## – az érdekeltségi terület helyszínrajza,
+## c) az érdekeltségi terület helyszínrajza,
 
-## – az alapszabály mellékleteként a társulat tagjainak neve (cégneve) lakhelye (székhelyének) felsorolása;
+## d) az alapszabály mellékleteként a társulat tagjainak neve (cégneve) lakhelye (székhelyének) felsorolása;
 
 ## 6. külföldi vállalkozás magyarországi fióktelepe esetén
 
@@ -148,23 +144,21 @@
 
 ## 11. közjegyzői iroda esetén a területi kamara elnökségének alapítási engedélye.
 
-## III. A gazdasági társaságok átalakulásának (formaváltozásának, egyesülésének, különválásának) bejegyzéséhez szükséges további okiratok:
+## III. Átalakulás bejegyzéséhez szükséges további okiratok:
 
-## 1. a gazdasági társaság legfőbb szervének határozatai az átalakulásról;
+## 1. a legfőbb szerv határozatai;
 
 ## 2. nyilatkozat arról, hogy a munkavállalói érdekképviseletet az átalakulás elhatározásáról az ügyvezetés tájékoztatta;
 
-## 3. az átalakuló (jogelőd) társaság(ok) vagyonmérleg-tervezete és vagyonleltár-tervezete;
+## 3. az átalakulási terv;
 
-## 4. az átalakulással létrejövő (jogutód) gazdasági társaság(ok) vagyonmérleg-tervezete és vagyonleltár-tervezete;
+## 4. a vagyonmérleg-tervezetekre és a vagyonleltár-tervezetekre vonatkozó könyvvizsgálói jelentést tartalmazó okirat;
 
-## 5. a vagyonmérleg-tervezetekre és a vagyonleltár-tervezetekre vonatkozó könyvvizsgálói jelentést tartalmazó okirat;
+## 5. az átalakulásra vonatkozó közlemények megjelenését igazoló lappéldányok kivonata;
 
-## 6. az átalakulásra vonatkozó közlemények megjelenését igazoló lappéldányok kivonata;
+## 6. egyesülés esetén az egyesülési terv;
 
-## 7. egyesülés esetén az egyesülési szerződés;
-
-## 8. szétválás esetén a szétválási szerződés.
+## 7. szétválás esetén a szétválási terv.
 
 ## IV. Felszámolás esetén szükséges okiratok:
 

@@ -1,0 +1,15 @@
+9/D. § (1) Az eltiltás időbeli hatálya az eltiltást kimondó határozat jogerőre emelkedése napjától számított öt év. A 9/B. § (1) bekezdésében és a 9/C. §-ban érintett cég cégjegyzék adatai között az eltiltásra vonatkozó tényeket a jogerőre emelkedés napjától kell feltüntetni. Ha ugyanazon személyt több cég vonatkozásában is eltiltják, az eltiltás időbeli hatálya az utolsó eltiltás kezdő időpontjához igazodik.
+
+(2) Az eltiltás hatálya alatt az eltiltás kezdetének napján már fennálló tagsági befolyás mértéke vagyoni szolgáltatás ellenében történő átruházással, ajándékozással nem növelhető – kivéve ha az így létrejövő befolyás nem éri el a többségi befolyás mértékét –, tilalom alá eső befolyás újonnan nem szerezhető.
+
+(3) Vezető tisztségviselő eltiltása esetén, ha a vezető tisztségviselő az eltiltást kimondó határozat meghozatalának a napján a 9/B. § (1) bekezdésében és a 9/C. §-ban érintett cég bejegyzett képviselője, a cégbíróság – az eltiltásra vonatkozató tények feltüntetése mellett – a vezető tisztségviselőt egyben törli a cégjegyzékből.
+
+(4) Az eltiltás hatálya alatt álló vezető tisztségviselőt a cégbíróság automatikus végzéssel törli mindazon cég fennálló cégjegyzék adatai közül, ahol mint vezető tisztségviselő szerepel. Az eltiltás tényének, kezdetének és végének cégjegyzékbe történő bejegyzésére ebben az esetben már nem kerül sor. Ha a további érintett cég székhelye más cégbíróság illetékességi területén van, a cégbíróság elektronikus úton hívja fel az illetékes cégbíróságot a vezető tisztségviselő automatikus végzéssel történő törlésére. A vezető tisztségviselő e bekezdés szerinti törlésével szemben fellebbezésnek és felülvizsgálatnak van helye.
+
+(5) Ha a vezető tisztségviselő cégjegyzékből való törlésével a cégjegyzékbe bejegyzett vezető tisztségviselők száma az adott cégformára vonatkozó szabályok szerint előírt mérték alá csökken vagy a cégnek nem marad vezető tisztségviselője, a cégbíróság a törléssel egyidejűleg felhívja a céget, hogy hatvan napon belül jelentse be az új vezető tisztségviselő személyét. Ha a cég ennek nem tesz eleget, a cégbíróság törvényességi felügyeleti eljárást hivatalból folytat le azzal, hogy a 80. § (1) bekezdése szerinti figyelmeztetés alkalmazására nem kerül sor.
+
+(6) Ha a 9/B. § alapján olyan személy eltiltását kell feltüntetni a cégnyilvántartásban, aki ugyanazon cég vonatkozásában már eltiltás hatálya alatt áll, a cégbíróság az újabb eltiltás cégjegyzékbe történő bejegyzését mellőzi.
+
+(7) Az eltiltásra vonatkozó tények feltüntetésének nem akadálya, hogy az érintett cég vagy az eltiltással érintett személy a cégjegyzékből az eltiltást megelőzően törlésre került.
+
+(8) E cím alkalmazásában vezető tisztségviselő alatt a cég által megválasztott végelszámolót is érteni kell.

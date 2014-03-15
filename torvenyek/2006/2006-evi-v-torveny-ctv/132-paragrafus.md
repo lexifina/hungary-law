@@ -1,26 +1,24 @@
-132. § (1) E törvény – végrehajtási rendeleteivel, valamint a gazdasági társaságokról szóló törvénnyel együtt – a következő uniós jogi aktusoknak való megfelelést szolgálja:
+132. § (1) E törvény – végrehajtási rendeleteivel, valamint a Ptk.-val és az egyes jogi személyek átalakulásáról, egyesüléséről, szétválásáról szóló törvénnyel együtt – a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
-a) az Európai Parlament és a Tanács 2009. szeptember 16-i 2009/101/EK irányelve az egész Közösségre kiterjedő egységes biztosítékok kialakítása érdekében a tagállamok által a társasági tagok és harmadik személyek érdekei védelmében a Szerződés 48. cikkének második bekezdése szerinti társaságoknak előírt biztosítékok összehangolásáról;
+a) a Szerződés 54. cikke (3) bekezdésének g) pontja alapján a részvénytársaságok szétválásáról szóló, 1982. december 17-i 82/891/EGK tanácsi irányelv;
 
-b) a Tanács 77/91/EGK második irányelve (1976. december 13.) a biztosítékok egyenértékűvé tétele céljából a részvénytársaságok alapításának, valamint ezek tőkéje fenntartásának és módosításának tekintetében a tagállamok által a társasági tagok és harmadik személyek érdekei védelmében a Szerződés 58. cikkének (2) bekezdése szerinti társaságoknak előírt biztosítékok összehangolásáról, valamint az azt módosító
+b) a valamely tagállam jogának hatálya alá tartozó meghatározott jogi formájú társaságoknak egy másik tagállamban létesített fióktelepeire vonatkozó bejelentési és közzétételi követelményeiről szóló, 1989. december 21-i 89/666/EGK tanácsi irányelv;
 
-ba) a Tanács 92/101/EGK irányelve (1992. november 23.) a részvénytársaságok alapításáról, valamint a tőkéjük fenntartásáról és módosításáról szóló 77/91/EGK irányelv módosításáról,
+c) az európai részvénytársaság statútumának a munkavállalói részvételre vonatkozó kiegészítéséről szóló, 2001. október 8-i 2001/86/EK tanácsi irányelv;
 
-bb) a Cseh Köztársaság, az Észt Köztársaság, a Ciprusi Köztársaság, a Lett Köztársaság, a Litván Köztársaság, a Magyar Köztársaság, a Máltai Köztársaság, a Lengyel Köztársaság, a Szlovén Köztársaság és a Szlovák Köztársaság csatlakozásának feltételeiről, valamint az Európai Unió alapját képező szerződések kiigazításáról szóló okmány II. melléklet 4. rész A. pont (2) bekezdése;
+d) a nyilvános vételi ajánlatról szóló, 2004. április 21-i 2004/25/EK európai parlamenti és tanácsi irányelv;
 
-c) a Tanács 78/855/EGK harmadik irányelve (1978. október 9.) a Szerződés 54. cikke (3) bekezdésének g) pontja alapján a részvénytársaságok egyesüléséről, valamint az azt módosító, a Cseh Köztársaság, az Észt Köztársaság, a Ciprusi Köztársaság, a Lett Köztársaság, a Litván Köztársaság, a Magyar Köztársaság, a Máltai Köztársaság, a Lengyel Köztársaság, a Szlovén Köztársaság és a Szlovák Köztársaság csatlakozásának feltételeiről, valamint az Európai Unió alapját képező szerződések kiigazításáról szóló okmány II. melléklet 4. rész A. pont (3) bekezdése;
+e) az egész Közösségre kiterjedő egységes biztosítékok kialakítása érdekében a tagállamok által a társasági tagok és harmadik személyek érdekei védelmében a Szerződés 48. cikkének második bekezdése szerinti társaságoknak előírt biztosítékok összehangolásáról szóló, 2009. szeptember 16-i 2009/101/EK európai parlamenti és tanácsi irányelv;
 
-d) a Tanács 82/891/EGK hatodik irányelve (1982. december 17.) a Szerződés 54. cikke (3) bekezdésének g) pontja alapján a részvénytársaságok szétválásáról;
+f) a társasági jog területén az egyszemélyes korlátolt felelősségű társaságokról szóló, 2009. szeptember 16-i 2009/102/EK európai parlamenti és tanácsi irányelv;
 
-e) a Tanács 89/666/EGK tizenegyedik irányelve (1989. december 21.) a valamely tagállam jogának hatálya alá tartozó meghatározott jogi formájú társaságoknak egy másik tagállamban létesített fióktelepeire vonatkozó adatközlési követelményeiről;
+g) a 77/91/EGK, a 78/855/EGK, a 82/891/EGK tanácsi irányelvnek és a 2005/56/EK irányelvnek az egyesülések és szétválások esetében alkalmazandó jelentéstételi és dokumentációs kötelezettségek tekintetében történő módosításáról szóló, 2009. szeptember 16-i 2009/109/EK európai parlamenti és tanácsi irányelv;
 
-f) a Tanács 89/667/EGK tizenkettedik társasági jogi irányelve (1989. december 21.) az egyszemélyes korlátolt felelősségű társaságokról;
+h) a részvénytársaságok egyesüléséről szóló, 2011. április 5-i 2011/35/EU európai parlamenti és tanácsi irányelv;
 
-g) a Tanács 2001/86/EK irányelve (2001. október 8.) az európai részvénytársaság statútumának a munkavállalói részvételre vonatkozó kiegészítéséről;
+i) a 89/666/EGK tanácsi irányelvnek, valamint a 2005/56/EK és a 2009/101/EK európai parlamenti és tanácsi irányelvnek a központi nyilvántartások, a kereskedelmi nyilvántartások és a cégjegyzékek összekapcsolása tekintetében történő módosításáról szóló, 2012. június 13-i 2012/17/EU európai parlamenti és tanácsi irányelv;
 
-h) az Európai Parlament és a Tanács 2004/25/EK irányelve (2004. április 21.) a nyilvános vételi ajánlatról;
-
-i) az Európai Parlament és a Tanács 2009/109/EK irányelve (2009. szeptember 16.) a 77/91/EGK, a 78/855/EGK, a 82/891/EGK tanácsi irányelvnek és a 2005/56/EK irányelvnek az egyesülések és szétválások esetében alkalmazandó jelentéstételi és dokumentációs kötelezettségek tekintetében történő módosításáról.
+j) a biztosítékok egyenértékűvé tétele céljából a részvénytársaságok alapításának, valamint tőkéjük fenntartásának és módosításának tekintetében a tagállamok által a társasági tagok és harmadik személyek érdekei védelmében az Európai Unió működéséről szóló szerződés 54. cikkének második bekezdése szerinti társaságoknak előírt biztosítékok összehangolásáról (átdolgozás) szóló, 2012. október 25-i 2012/30/EU európai parlamenti és tanácsi irányelv.
 
 (2) E törvény a következő uniós jogi aktusok végrehajtásához szükséges rendelkezéseket állapítja meg:
 

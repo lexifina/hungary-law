@@ -1,0 +1,1 @@
+57/A. § Nonprofit gazdasági társaság más társasági formába csak nonprofit jellegének megtartásával alakulhat át, csak nonprofit gazdasági társasággal egyesülhet, illetve csak nonprofit gazdasági társaságokká válhat szét.

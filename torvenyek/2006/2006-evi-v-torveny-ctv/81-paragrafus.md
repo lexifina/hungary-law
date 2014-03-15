@@ -1,6 +1,6 @@
 81. § (1) A törvényes állapot helyreállítása érdekében a cégbíróság az intézkedésre okot adó körülménytől, illetve annak súlyától függően a következő intézkedéseket hozhatja:
 
-a) ha a 80. § (1) bekezdésében foglaltak ellenére a törvénysértő állapot változatlanul fennáll, a jogkövetkezményekre történő figyelmeztetéssel ismételten felhívja a céget, hogy a végzésben meghatározott határidőn belül állítsa helyre a törvényes működését, és erről tájékoztassa a cégbíróságot,
+a)
 
 b) a céget, illetve ha megállapítható, hogy a törvényességi felügyeleti eljárásra a vezető tisztségviselő adott okot, a vezető tisztségviselőt 100 000 Ft-tól 10 millió Ft-ig terjedő pénzbírsággal sújtja,
 
@@ -16,9 +16,9 @@ e) ha a cég működése törvényességének helyreállítása más módon nem 
 
 (4) Ha a cég nem tesz eleget a törvénysértő állapot megszüntetése kapcsán a változásbejegyzési kérelem előterjesztésére vonatkozó kötelezettségének, a cégbíróság az (1) bekezdésben foglalt intézkedések alkalmazása mellett a jogszabálysértő adatot hivatalból törölheti a cégjegyzékből.
 
-(5) A cégbíróság az (1) bekezdés a) és b) pontjában foglalt intézkedést megfelelően alkalmazhatja a minősített többséget biztosító befolyás megszerzőjével szemben is, ha az a befolyás megszerzésére vonatkozó bejelentési kötelezettségét késedelmesen teljesíti vagy elmulasztja.
+(5) A cégbíróság az (1) bekezdés b) pontjában foglalt intézkedést megfelelően alkalmazhatja a minősített többséget biztosító befolyás megszerzőjével szemben is, ha az a befolyás megszerzésére vonatkozó bejelentési kötelezettségét késedelmesen teljesíti vagy elmulasztja.
 
-(6) Amennyiben a cégbíróság az (1) bekezdésben foglalt bármely intézkedés alkalmazása után úgy ítéli meg, hogy a törvényes működés további intézkedések alkalmazásával sem állítható helyre, a céget megszűntnek nyilvánítja.
+(6)
 
 8. CÍM
 

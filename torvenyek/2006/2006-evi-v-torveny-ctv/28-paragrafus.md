@@ -22,7 +22,7 @@ ba) a részvénytársaság ügyvezetésének típusát (igazgatóság vagy igazg
 
 bb) ha a részvény átruházását az alapszabály korlátozza, ezt a tényt,
 
-bc) amennyiben a részvényes szavazati jogának mértéke az 50 százalékot meghaladja, vagy a részvényes minősített többségű befolyással rendelkezik, a részvényes nevét, természetes személy esetén lakóhelyét, születési idejét, anyja születési nevét, jogi személyiséggel nem rendelkező gazdasági társaság vagy jogi személy esetén székhelyét, és cégjegyzékszámát vagy nyilvántartási számát.
+bc) amennyiben a részvényes szavazati jogának mértéke az 50 százalékot meghaladja, vagy a részvényes minősített többségű befolyással rendelkezik, a részvényes nevét, természetes személy esetén lakóhelyét, születési idejét, anyja születési nevét, jogi személy esetén székhelyét, és cégjegyzékszámát vagy nyilvántartási számát.
 
 bd) egyszemélyes részvénytársaság esetében a részvényes nevét (cégét), lakóhelyét (székhelyét),
 
@@ -32,7 +32,7 @@ ca) az ügyvezetés típusát (igazgatóság vagy igazgatótanács),
 
 cb) a részvénytársasági hirdetmények közzétételének módját, helyét;
 
-(3) Európai szövetkezet esetében a cégjegyzék a 24–26. §-ban meghatározottakon túlmenően tartalmazza az európai szövetkezet ügyvezetésének típusát (igazgatóság, ügyvezető elnök vagy igazgatótanács).
+(3) Európai szövetkezet esetében a cégjegyzék a 24–26. §-ban meghatározottakon túlmenően tartalmazza az európai szövetkezet ügyvezetésének típusát (igazgatóság, igazgató elnök vagy igazgatótanács).
 
 (4) Ha az európai gazdasági egyesülés vagy az európai részvénytársaság, illetve az európai szövetkezet székhelyáthelyezés következtében kéri a cégbejegyzését, a cégjegyzékben fel kell tüntetni a korábbi székhelyét, a nyilvántartását végző hatóságot és az európai gazdasági egyesülés, illetve az európai részvénytársaság vagy az európai szövetkezet korábbi nyilvántartási számát.
 

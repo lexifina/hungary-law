@@ -4,7 +4,7 @@
 
 (3) Az (1)–(2) bekezdés szerinti törvényességi felügyeleti eljárás illeték, valamint közzétételi költségtérítés megfizetése nélkül kezdeményezhető. Ha a cégbíróság a kérelmezőt törli a cégjegyzékből, ezzel egyidejűleg a 81. § (1) bekezdésében foglaltak szerint jár el.
 
-(4) Ha a cég képviseletére kizárólag olyan személy jogosult, akinek a kézbesítési megbízottját a cégbíróság törölte a cégjegyzékből, a cégbíróság a (3) bekezdésben foglalt intézkedés helyett megindítja a cég megszüntetésére irányuló eljárást.
+(4) Ha a cég képviseletére kizárólag olyan személy jogosult, akinek a kézbesítési megbízottját a cégbíróság törölte a cégjegyzékből, a cégbíróság a (3) bekezdésben foglalt intézkedés helyett megindítja az ismeretlen székhelyű cég megszüntetésére irányuló eljárást.
 
 5. CÍM
 

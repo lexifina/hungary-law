@@ -2,6 +2,8 @@
 
 (2) E § alkalmazásában változásbejegyzési kérelemnek minősül az is, ha a változásbejegyzési kérelemben a cég kizárólag arról nyilatkozik, hogy a cégjegyzékbe már bejegyzett képviselő cégjegyzésének módját igazoló okiratot a cégiratokhoz csatolja annak közvetlen elérése érdekében. Ebben az esetben a cég a kérelem mellékleteként kizárólag közjegyzői aláírás-hitelesítéssel ellátott címpéldányt csatolhat.
 
+(3) A (2) bekezdés szerinti változásbejegyzési eljárást fogalmazó vagy bírósági ügyintéző önállóan is lefolytathatja és a kérelmet elutasító végzés meghozatalára is önálló aláírási joggal jogosult.
+
 ## IV. Fejezet
 
 ## A CÉGBEJEGYZÉSI ÉS A VÁLTOZÁSBEJEGYZÉSI ELJÁRÁS

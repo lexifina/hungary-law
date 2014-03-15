@@ -6,6 +6,8 @@
 
 (4) A (3) bekezdés alapján a beszámoló letétbe helyezési és közzétételi kötelezettség utólagos teljesítése a céget az Itv. 65. § (1) bekezdése szerinti felügyeleti illeték megfizetése alól nem mentesíti, ebben az esetben az Itv. 58. § (1) bekezdése nem alkalmazható.
 
+(5) E cím szerinti eljárásban a fogalmazó vagy a bírósági ügyintéző önállóan jár el.
+
 4. CÍM
 
 A cégjegyzékbe bejegyzett személynek

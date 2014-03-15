@@ -4,19 +4,19 @@
 
 a) az egyszerűsített cégeljárás, az egyéni cég, a közkereseti társaság, a betéti társaság, valamint a 45. § (2) bekezdésében szabályozott hiánypótlási eljárás lefolytatása nélküli elutasító végzés kivételével a bejegyzési eljárásban hozott határozatok;
 
-b) az egyéni cég, a közkereseti társaság, betéti társaság, valamint a 45. § (2) bekezdésében szabályozott hiánypótlási eljárás lefolytatása nélküli elutasító végzés kivételével a változásbejegyzési eljárásban hozott határozatok;
+b) az egyéni cég, a közkereseti társaság, a betéti társaság, – e törvényben meghatározott esetekben – a korlátolt felelősségű társaság, valamint a 45. § (2) bekezdésében szabályozott hiánypótlási eljárás lefolytatása nélküli elutasító végzés kivételével a változásbejegyzési eljárásban hozott határozatok;
 
-c) a cégformától független adatok bejegyzésére irányuló eljárásban hozott határozatok, kivéve a 26. § (1) bekezdés a), b), f), g), h), i), j), k), l) pontjait;
+c)
 
-d) a cég átalakulásának a bejegyzésére irányuló eljárásban hozott határozatok;
+d) a cég átalakulásának, egyesülésének, szétválásának (a továbbiakban együtt: átalakulás) a bejegyzésére irányuló eljárásban hozott határozatok;
 
-e) a 87. §-ban szabályozott eljárás kivételével a törvényességi felügyeleti eljárásban az eljárás hivatalból történő megindítása tárgyában hozott határozat, kérelemre indult eljárás esetén a kérelmet elutasító, továbbá az eljárást megszüntető határozat;
+e)
 
-f) törvényességi felügyeleti eljárásban hozott intézkedés;
+f) törvényességi felügyeleti eljárásban hozott intézkedés, ha a kérelmező a cég cégjegyzékébe bejegyzett személy vagy szervezet;
 
-g) különleges törvényességi felügyeleti eljárásban a cég működésének a felfüggesztése tárgyában hozott érdemi határozat, továbbá más hatóság eljárásának a kezdeményezése;
+g) különleges törvényességi felügyeleti eljárásban hozott érdemi határozat, továbbá más hatóság eljárásának a kezdeményezése;
 
-h) a betéti társaság, a közkereseti társaság, valamint az egyéni cég kivételével a végelszámolás bejegyzésére irányuló eljárásban hozott határozat, valamint a cég törlésére irányuló eljárásban hozott határozat;
+h) a cég törlésére és a tag, vezető tisztségviselő eltiltására vonatkozó határozat, ha a cég törlésére a 62. § (2) bekezdés a) pontja alapján kerül sor és a felszámolási eljárást kényszertörlési eljárás előzte meg;
 
 i) végelszámolás lefolytatása során a végelszámoló jogsértő intézkedése vagy mulasztása miatt előterjesztett kifogás elbírálása tárgyában hozott érdemi határozat;
 

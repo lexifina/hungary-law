@@ -14,7 +14,7 @@
 
 ## b) önkormányzat tag esetén a képviselő-testület erre vonatkozó döntését tartalmazó okirat;
 
-## 5. a kiskorú tag (részvényes) képviseletére vonatkozó gyámhatósági határozat, ha a szülő nem láthatja el a kiskorú képviseletét;
+## 5. a kiskorú tag képviseletére vonatkozó gyámhatósági határozat, ha a szülő nem láthatja el a kiskorú képviseletét;
 
 ## 6. ha a vezető tisztségviselők megválasztásához hatósági engedély szükséges ez az okirat;
 
@@ -26,13 +26,23 @@
 
 ## b) az elismert vállalatcsoport létrejöttének, valamint megszűnésének közzétételét igazoló lappéldány kivonat,
 
-## c) az uralkodó tag nyilatkozata arról, hogy az arra jogosult hitelezőknek biztosítékot nyújtott, illetve az ellenőrzött társaság tagjai (részvényesei) kérésére üzletrészeiket (részvényeiket) piaci értéken megvásárolja,
+## c) az uralkodó tag nyilatkozata arról, hogy az arra jogosult hitelezőknek biztosítékot nyújtott, illetve az ellenőrzött tag tulajdonosai kérésére részesedésüket piaci értéken megvásárolja,
 
-## d) az elismert vállalatcsoportban részt vevő társaságok legfőbb szervének határozatai az elismert vállalatcsoport létrehozásáról, illetve megszüntetéséről;
+## d) az elismert vállalatcsoportban részt vevő tagok legfőbb szervének határozatai az elismert vállalatcsoport létrehozásáról, illetve megszüntetéséről;
 
-## 10. a közhasznú jogállás nyilvántartásba vétele esetén teljes bizonyító erejű magánokiratba foglalt nyilatkozat a Civil tv. szerinti közhasznúsági feltételek teljesítéséről és a közszolgáltatási szerződés..
+## 10. nonprofit gazdasági társaság esetén a közhasznú jogállás nyilvántartásba vételéhez teljes bizonyító erejű magánokiratba foglalt nyilatkozat a Civil tv. szerinti közhasznúsági feltételek teljesítéséről és a közszolgáltatási szerződés;
 
-## 11. a 61/B. § szerinti tagváltozás bejegyzése iránti eljárás során, a 61/B. § (2) bekezdésében foglaltak fennállása esetén a részesedés átruházás napjával mint fordulónappal elkészített, könyvvizsgáló által hitelesített vagyonmérleg benyújtásának igazolása.
+## 11. a 61/B. § szerinti tagváltozás bejegyzése iránti eljárás során, a 61/B. § (2) bekezdésében foglaltak fennállása esetén a részesedés átruházás napjával mint fordulónappal elkészített, könyvvizsgáló által hitelesített számviteli törvény szerinti közbenső mérleg benyújtásának igazolása;
+
+## 12. Közhasznú jogállás nyilvántartásba vétele esetén
+
+## a) vezető tisztségviselő nyilatkozata arról, hogy a Civil tv.-ben foglalt követelmények teljesítése a letétbe helyezett beszámolókból megállapítható, és a létesítő okirat tartalmazza a Civil tv.-ben előírt rendelkezéseket,
+
+## b) a vezető tisztségviselő nyilatkozata arról, hogy nem esik a Civil tv.-ben meghatározott kizáró ok alá,
+
+## c) a korábbi két év beszámolója;
+
+## 13. ha a cég tagja e jogállását bizalmi vagyonkezelőként szerezte, a bizalmi vagyonkezelési szerződés vagy annak olyan kivonata, amely tartalmazza a szerződést kötő felek azonosító adatait, továbbá nem üzletszerűen eljáró bizalmi vagyonkezelő esetén a bizalmi vagyonkezelőkről és tevékenységük szabályairól szóló törvényben meghatározott bejelentési bizonyítvány.
 
 ## II. Ha a bejegyzési (változásbejegyzési) kérelem tartalmára tekintettel kötelező, az egyes cégformák bejegyzéséhez (változásbejegyzéséhez) szükséges további okiratok:
 
@@ -44,9 +54,9 @@
 
 ## ab) az üzletrész bírósági határozattal, árveréssel történő megszerzése esetén az erre vonatkozó okirat,
 
-## ac) a gyámhatóság jóváhagyó nyilatkozata a kiskorú tag (részvényes) üzletrészének átruházásához,
+## ac) a gyámhatóság jóváhagyó nyilatkozata a kiskorú tag üzletrészének átruházásához,
 
-## ad) az elővásárlási jog gyakorlásával kapcsolatos nyilatkozatok,
+## ad) az üzletrész másokat megelőző megszerzésére irányuló joggal kapcsolatos nyilatkozatok
 
 ## ae) ha a létesítő okirat az üzletrész átruházásához előírja a társaság beleegyezését, az erre vonatkozó okirat,
 
@@ -80,11 +90,11 @@
 
 ## eb) a tag (zálogkötelezett) által benyújtott törlési kérelem esetén a zálogjogosult teljes bizonyító erejű magánokiratba foglalt törlési engedélye;
 
-## 2. a) nyilvános részvénytársaság alapításával összefüggésben a nem pénzbeli hozzájárulás értékéről adott könyvvizsgálói (szakértői) vélemény;
+## 2. a) részvénytársaság alapításával összefüggésben a nem pénzbeli vagyoni hozzájárulás értékéről adott könyvvizsgálói (szakértői) vélemény;
 
 ## b) részvénytársaság tőkeváltozásával kapcsolatban
 
-## ba) új részvényekkel történő alaptőke-emelés esetében annak igazolása, hogy a tőkeemelést megelőzően forgalomba hozott részvények névértéke (kibocsátási értéke) befizetésre került és a Gt. 250. § (2) bekezdésében foglalt hozzájárulást igazoló okiratok,
+## ba) új részvényekkel történő alaptőke-emelés esetében annak igazolása, hogy a tőkeemelést megelőzően forgalomba hozott részvények névértéke (kibocsátási értéke) befizetésre került és az érintettnek minősülő részvényfajta, illetve részvényosztály részvényeseinek hozzájárulást igazoló okiratok,
 
 ## bb) a jegyzett tőkén felüli vagyonból történő tőkeemelés vagy dolgozói részvény kialakítása esetében a taggyűlés által elfogadott számviteli törvény szerinti beszámoló mérlege, illetve a közbenső mérleg,
 
@@ -94,7 +104,15 @@
 
 ## be) az alaptőke leszállítása esetében a vezető tisztségviselő nyilatkozata a hitelezőknek nyújtott biztosítékokról, illetve arról, hogy a társaság a hitelezőknek nem köteles biztosítékot nyújtani;
 
-## c) nyilvánosan működő részvénytársaság zártkörűen működővé válása esetében a vezető tisztségviselő nyilatkozata arról, hogy a részvények már nem kerülnek nyilvános forgalomba hozatalra;
+## c) nyilvánosan működő részvénytársaság zártkörűen működővé válása esetében a vezető tisztségviselő nyilatkozata arról, hogy a részvények a tőzsdéről kivezetésre kerültek, illetve tőzsdén már nem kereskednek velük;
+
+## d) zártkörűen működő részvénytársaság nyilvánosan működővé válása esetében
+
+## da) a tőzsde igazolása a részvények tőzsdei bevezetéséről, és idegen nyelvű igazolás esetén annak hiteles magyar nyelvű fordítása;
+
+## db) a kibocsátás helye szerint illetékes hatóság által jóváhagyott, az értékpapír nyilvános kibocsátásához szükséges tájékoztató és idegen nyelvű tájékoztató és jóváhagyás esetén azok hiteles magyar nyelvű fordítása;
+
+## dc) a vezető tisztségviselő nyilatkozata a várható költségekről, és azon kedvezményekről, amelyeket a társaság a működési forma változására tekintettel biztosít;
 
 ## 3. külföldi vállalkozás magyarországi fióktelepe esetén
 
@@ -184,17 +202,17 @@
 
 ## 11. közkereseti társaság és betéti társaság esetén a tagsági jogviszony megszűnéséhez kapcsolódóan az ezt igazoló okirat;
 
-## III. A gazdasági társaságok átalakulásának (formaváltozásának, egyesülésének, különválásának) bejegyzéséhez szükséges további okiratok:
+## III. Átalakulás bejegyzéséhez szükséges további okiratok:
 
 ## 1. az átalakulást megelőzően még be nem fizetett, illetve nem szolgáltatott vagyoni hozzájárulás teljesítésének igazolása;
 
-## 2. ha ilyen működik a társaságnál, a felügyelőbizottságnak az átalakulással kapcsolatos nyilatkozata;
+## 2. ha ilyen működik a cégnél, a felügyelőbizottságnak az átalakulással kapcsolatos nyilatkozata;
 
 ## 3. a szükséges tőkepótlás befizetésének, illetve teljesítésének igazolása;
 
-## 4. az átalakulási terv;
+## 4. ha az egyesülés vállalkozások összefonódását jelenti, a Gazdasági Versenyhivatal engedélye vagy a cég nyilatkozata arra vonatkozóan, hogy az összefonódás nem engedélyköteles;
 
-## 5. ha az egyesülés vállalkozások koncentrációját jelenti, a Gazdasági Versenyhivatal engedélye vagy a cég nyilatkozata, hogy az engedélyre nincsen szükség.
+## 5. részvénytársaság esetén, ha az egyesülés vagy a szétválás során egyes okiratok elkészítésére, közzétételére, vagy legfőbb szervi döntésre nincs szükség, az erről szóló legfőbb szervi határozat vagy a társaság nyilatkozata arról, hogy a különös szabály alkalmazásának feltételei fennállnak.
 
 ## IV. Végelszámolás esetén szükséges okiratok:
 

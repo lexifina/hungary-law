@@ -10,6 +10,8 @@ b) ha nem vitatja a kérelemben vagy a végzésben foglaltakat, úgy a törvény
 
 (4) A cégbíróság a kérelmet elutasítja, ha megállapítja, hogy a kérelemben jelzett jogsértés nem áll fenn. A hivatalból indult törvényességi felügyeleti eljárást meg kell szüntetni, ha az eljárás lefolytatása alapján a cégbíróság megállapítja, hogy a törvénysértő állapot nem áll fenn.
 
+(5) Ha a kérelmet a cég tagjai – jogszabályban biztosított – kisebbségvédelmi jogaik védelmében a legfőbb szerv összehívásának kezdeményezése iránt nyújtják be, a cégbíróság a kérelem érkezésétől számított tizenöt munkanapon belül azt érdemben elbírálja. A kérelemnek helyt adó cégbírósági végzés ellen fellebbezésnek nincs helye.
+
 7. CÍM
 
 A cégbíróság intézkedései
