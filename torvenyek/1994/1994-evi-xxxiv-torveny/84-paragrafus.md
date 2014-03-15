@@ -38,7 +38,7 @@ r) az ingatlan-nyilvántartásból,
 
 s) az egyéni vállalkozói igazolvánnyal rendelkező vállalkozók nyilvántartásából,
 
-t) a közjegyzői zálogjogi nyilvántartásból,
+t) a közjegyzői zálogjogi nyilvántartásból és a hitelbiztosítéki nyilvántartásból,
 
 u) a szabálysértési nyilvántartásból,
 

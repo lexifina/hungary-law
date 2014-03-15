@@ -22,7 +22,7 @@ be) a Kormány által a központi államigazgatási szervekről, valamint a Korm
 
 (a ba)–bd) alpontban meghatározottak a továbbiakban együtt: védett állomány) megbízhatósági vizsgálatát,
 
-c) felderíti a b) pontban megjelölt szerveknél a jogszabályban meghatározott bűncselekményeket.
+c) felderíti a b) pontban megjelölt védett állománnyal összefüggő, külön jogszabályban meghatározott bűncselekményeket.
 
 (1a) Megbízhatósági vizsgálat alá az a kormánytisztviselő és kormányzati ügykezelő vonható, aki döntés előkészítésére, döntésre vagy ellenőrzésre jogosult
 
