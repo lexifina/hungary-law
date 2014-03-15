@@ -29,3 +29,5 @@ a) hosszú pozíció esetén: az az összeg, amennyivel a származtatott ügylet
 b) rövid pozíció esetén: az az összeg, amennyivel a határidős szerződés tárgyának névértéke meghaladja a származtatott ügylet alapjául szolgáló eszköz piaci értékét (vagy deviza esetén az elszámoló árát).
 
 (8) Az (1) és (2) bekezdés alapján fennálló állami kezességgel érintett alapjogviszony módosítása esetén az állami kezesség az alapjogviszony változásához igazodva áll fenn.
+
+(9) Az (1) és (2) bekezdés alapján fennálló állami kezesség esetén az Eximbankot és a Mehib Rt.-t nem terheli a kezességi szerződés fennállása esetén a Ptk. 6:429. § alapján teljesítendő tájékoztatási kötelezettség. Az állami kezesség beváltásának kockázatáról, továbbá a kezesség várható beváltásáról (különösen annak összegéről és időpontjáról) az Eximbank és a Mehib Rt. tájékoztatja a kezest. A tájékoztatásra vonatkozó előírásokat a Magyar Export-Import Bank Részvénytársaság és a Magyar Exporthitel Biztosító Részvénytársaság központi költségvetéssel történő elszámolásának részletes szabályairól szóló miniszteri rendelet tartalmazza.

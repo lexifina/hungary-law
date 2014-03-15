@@ -19,3 +19,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1994-42-00-00
 | 2013-10-01 | 2013. évi CXLIII. törvény | 1994-42-00-00.34 |
 | 2014-01-01 | 2013. évi CCXXXVI. törvény | 1994-42-00-00.35 |
 | 2014-02-25 | 2014. évi XVI. törvény | 1994-42-00-00.36 |
+| 2014-03-15 | 2013. évi CCLII. törvény | 1994-42-00-00.37 |

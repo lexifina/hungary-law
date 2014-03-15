@@ -2,7 +2,7 @@
 
 a) hitel és pénzkölcsön nyújtása;
 
-b) kezesség és bankgarancia vállalása, valamint egyéb bankári kötelezettség vállalása;
+b) kezesség és garancia vállalása, valamint egyéb bankári kötelezettség vállalása;
 
 c) valutával, devizával – ide nem értve a pénzváltási tevékenységet -, váltóval, illetve csekkel saját számlára vagy bizományosként történő kereskedelmi tevékenység;
 
