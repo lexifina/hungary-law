@@ -1,6 +1,6 @@
 49. § (1) Az alapítvány nyilvántartásba vétele iránti kérelemhez a 21. és 22. §-ban foglaltakon túlmenően csatolni kell a következőket is:
 
-a) az alapítvány kezelő szerve (szervezete) tagjainak a tagság elfogadására és a jogszabályban meghatározott követelményekre vonatkozó, az összeférhetetlenségre is kiterjedő nyilatkozatát,
+a) az alapítvány kuratóriuma tagjainak a tagság elfogadására és a jogszabályban meghatározott követelményekre vonatkozó, az összeférhetetlenségre is kiterjedő nyilatkozatát,
 
 b) az igazolást az alapítvány céljára rendelt vagyon rendelkezésre bocsátásáról
 

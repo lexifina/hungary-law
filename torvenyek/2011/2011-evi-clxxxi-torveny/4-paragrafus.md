@@ -6,11 +6,11 @@ b) az Ectv. alapján létrehozott és a pártok működéséről és gazdálkod�
 
 c) az Ectv. alapján létrehozott és a sportról szóló törvény alapján működő szervezetet,
 
-d) a Polgári Törvénykönyvről szóló törvény (a továbbiakban: Ptk.) alapján létrehozott és a sportról szóló törvény alapján működő országos sportági szakszövetséget,
+d) a sportról szóló törvény alapján működő országos sportági szakszövetséget,
 
-e) a Ptk. alapján külön törvénnyel létrehozott köztestületet, ha a külön törvény eltérően nem rendelkezik,
+e) a törvénnyel létrehozott köztestületet, ha a törvény eltérően nem rendelkezik,
 
-f) a Ptk. alapján alapított alapítványt és közalapítványt,
+f) az alapítványt, a közalapítványt,
 
 g) a magánnyugdíjról és a magánnyugdíjpénztárakról szóló törvény alapján alapított magánnyugdíjpénztárt,
 

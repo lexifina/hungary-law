@@ -2,8 +2,8 @@
 
 63. § Az egyesület nyilvántartásba vétele iránti kérelemhez a 21. és 22. §-ban foglaltakon kívül csatolni kell a következőket is:
 
-a) az egyesület alakuló ülésének jegyzőkönyvét,
+a) ha alakuló ülés tartására került sor, az egyesület alakuló ülésének jegyzőkönyvét és jelenléti ívét, valamint az alapító tagok nevével, lakóhelyével (székhelyével) és aláírásával ellátott, az alapszabály – nem nyilvános részeként elkülönítetten kezelt – mellékletét képező tagjegyzéket, vagy
 
-b) az egyesület alakuló ülésének jelenléti ívét, a tagok nevével, lakóhelyével (székhelyével) és aláírásával és
+b) ha alakuló ülés tartására nem került sor, az alapító tagoknak az alapszabályt elfogadó egybehangzó akaratnyilatkozatát tartalmazó okiratot és az alapszabály – nem nyilvános részeként elkülönítetten kezelt – mellékletét képező tagjegyzéket és
 
 c) az egyesület ügyintéző és képviseleti szerve tagjainak a tagság elfogadására és a jogszabályban meghatározott követelményekre vonatkozó nyilatkozatát.
