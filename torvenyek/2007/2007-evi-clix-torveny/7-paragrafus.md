@@ -12,8 +12,10 @@
 
 (2) Az egyes szervezeti formákra
 
-a) viszontbiztosító részvénytársaság esetén a gazdasági társaságokról szóló 2006. évi IV. törvény (a továbbiakban: Gt.),
+a) viszontbiztosító részvénytársaság esetén a Ptk. gazdasági társaságokra vonatkozó rendelkezéseit,
 
-b) viszontbiztosító szövetkezet esetén a szövetkezetekről szóló 2006. évi X. törvény (a továbbiakban: Szvt.),
+b) viszontbiztosító szövetkezet esetén a Ptk. szövetkezetekre vonatkozó rendelkezéseit,
 
-c) fióktelep esetén a külföldi székhelyű vállalkozások magyarországi fióktelepeiről és kereskedelmi képviseleteiről szóló 1997. évi CXXXII. törvény (a továbbiakban: Fkt.) fióktelepre vonatkozó előírásait az e törvényben foglalt eltérésekkel kell alkalmazni.
+c) fióktelep esetén a külföldi székhelyű vállalkozások magyarországi fióktelepeiről és kereskedelmi képviseleteiről szóló 1997. évi CXXXII. törvény (a továbbiakban: Fkt.) fióktelepre vonatkozó rendelkezéseit
+
+az e törvényben foglalt eltérésekkel kell alkalmazni.

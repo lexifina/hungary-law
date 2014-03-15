@@ -1,4 +1,4 @@
-29. § (1) A viszontbiztosító tevékenységének megkezdésekor a viszontbiztosító részvénytársaságnak legalább olyan nagyságú jegyzett tőkével, a szövetkezetnek részjegytőkével, illetve a harmadik országbeli viszontbiztosító fióktelepének dotációs tőkével kell rendelkeznie, amely elegendő
+29. § (1) A viszontbiztosító tevékenységének megkezdésekor a viszontbiztosító részvénytársaságnak legalább olyan nagyságú jegyzett tőkével, a szövetkezetnek tőkével, illetve a harmadik országbeli viszontbiztosító fióktelepének dotációs tőkével kell rendelkeznie, amely elegendő
 
 a) a működés megkezdéséhez szükséges személyi és tárgyi feltételek biztosítására, valamint
 

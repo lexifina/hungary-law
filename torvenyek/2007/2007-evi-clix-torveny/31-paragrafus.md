@@ -2,7 +2,7 @@
 
 31. § (1) Harmadik országbeli viszontbiztosító fióktelepe esetén a tevékenység megkezdésére vonatkozó engedély iránti kérelemnek – a 26. §-ban és a 29. §-ban foglaltak igazolásán túl – tartalmaznia kell:
 
-a) a harmadik országban székhellyel rendelkező vállalkozás alapító okiratát, tevékenységi engedélyének másolatát, az előző 3 év auditált mérlegét,
+a) a harmadik országban székhellyel rendelkező vállalkozás alapszabályát, tevékenységi engedélyének másolatát, az előző 3 év auditált mérlegét,
 
 b) a székhely szerinti állam felügyeleti hatóságának nyilatkozatát arról, hogy a Magyarország területén történő fióktelep-alapítás nem ütközik a székhely szerinti állam jogszabályaiba, illetve nem veszélyezteti a kérelmező viszontbiztosító működését.
 

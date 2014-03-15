@@ -30,6 +30,6 @@ b) a 47. §-a szerinti, a belső ellenőr személyére vonatkozó megállapodás
 
 c) külföldi állandó képviselete megnyitását, címének, fontosabb adatainak megváltozását vagy megszüntetését, illetve a vezető(k) személyének és adatainak megváltozását,
 
-d) az alapszabály (alapító okirat) módosítását,
+d) az alapszabály módosítását,
 
 e) könyvvizsgálójának megválasztását.

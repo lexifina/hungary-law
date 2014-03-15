@@ -74,6 +74,8 @@ b) szerződéses rendelkezések azzal a céllal, hogy a felek gazdasági eredmé
 
 22. fióktelep tagállama: az a tagállam, amelyben a kötelezettséget vállaló fióktelep található;
 
+22a. gazdálkodó szervezet: a polgári perrendtartásról szóló törvényben meghatározott fogalom;
+
 23. harmadik ország: az az ország, amely nem tagja az Európai Uniónak;
 
 24. harmadik országbeli viszontbiztosító: az a harmadik országbeli biztosítónak nem minősülő harmadik országbeli szervezet, amely a székhely szerinti ország jogszabályai alapján viszontbiztosítási tevékenységre jogosult és a székhely szerinti engedélyezési feltételek megfeleltethetők az e törvényben foglaltaknak;
@@ -130,11 +132,11 @@ b) szerződéses rendelkezések azzal a céllal, hogy a felek gazdasági eredmé
 
 50. ügyvezető: a viszontbiztosító vezetésére kinevezett, a viszontbiztosítóval munkaviszonyban álló első számú vezető és helyettesei. A viszontbiztosító első számú vezetője a viszontbiztosító munkaszervezetének irányítója;
 
-51. üzleti titok: a Polgári Törvénykönyvről szóló 1959. évi IV. törvényben (a továbbiakban: Ptk.) meghatározott fogalom;
+51.
 
 52. üzletszerű tevékenység: a Hpt.-ben meghatározott fogalom;
 
-53. vagyoni biztosíték: hitelintézetnél lekötött és elkülönítetten kezelt pénzösszeg (pénzbeli letét, illetve az állam vagy hitelintézet által kibocsátott vagy garantált, a letétbe helyezéstől számított 180 napnál hosszabb hátralévő futamidejű, azonnal beváltható vagy értékesíthető, hitelviszonyt megtestesítő értékpapír) vagy bankgarancia;
+53. vagyoni biztosíték: hitelintézetnél lekötött és elkülönítetten kezelt pénzösszeg (pénzbeli letét, illetve az állam vagy hitelintézet által kibocsátott vagy garantált, a letétbe helyezéstől számított 180 napnál hosszabb hátralévő futamidejű, azonnal beváltható vagy értékesíthető, hitelviszonyt megtestesítő értékpapír) vagy hitelintézet által vállalt garancia;
 
 54. vállalkozás: az üzletszerű gazdasági tevékenységet folytató gazdálkodó szervezet és a harmadik országbeli viszontbiztosító fióktelepe;
 
@@ -156,7 +158,7 @@ b) harmadik országbeli vállalkozás fióktelepe formájában működő viszont
 
 61. ÁÉKBV: a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvényben (a továbbiakban: Bszt.) meghatározott fogalom;
 
-62. közeli hozzátartozó: a Ptk.-ban meghatározott fogalom és az élettárs.
+62. közeli hozzátartozó: a Polgári Törvénykönyvről szóló 2013. évi V. törvényben (a továbbiakban: Ptk.) meghatározott fogalom és az élettárs.
 
 63. büntetlen előéletű: akinek e törvényben külön nevesített tevékenység végzéséhez és vezető állás betöltéséhez feltétel a büntetlen előélet, annak büntetlen előéletét
 

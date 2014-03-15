@@ -2,7 +2,7 @@
 
 a) a biztosítástechnikai tartalékok fedezetét képező eszközöket nettó módon kell értékelni, levonva minden felmerült költséget, amely ezen eszközök megvételével, megszerzésével merült fel,
 
-b) a gazdálkodó szervezetnek, az államnak, a nemzetközi szervezetnek, a helyi és regionális önkormányzatnak, vagy a természetes személynek nyújtott kölcsönök kizárólag akkor képezhetik a biztosítástechnikai tartalékok fedezetét, ha a kölcsönvevő megfelelő biztosítékot – ingatlanzálogjog, bankgarancia, biztosítás vagy egyéb biztosítékok – nyújt, kivételt képeznek ez alól a biztosítékkal nem fedezett kölcsönök,
+b) a gazdálkodó szervezetnek, az államnak, a nemzetközi szervezetnek, a helyi és regionális önkormányzatnak, vagy a természetes személynek nyújtott kölcsönök kizárólag akkor képezhetik a biztosítástechnikai tartalékok fedezetét, ha a kölcsönvevő megfelelő biztosítékot – ingatlanzálogjog, hitelintézet által vállalt garancia, biztosítás vagy egyéb biztosítékok – nyújt, kivételt képeznek ez alól a biztosítékkal nem fedezett kölcsönök,
 
 c) a harmadik féllel szembeni követeléseket a viszontkövetelések levonása után lehet a biztosítástechnikai tartalékok fedezetére bevonni.
 

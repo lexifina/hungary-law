@@ -1,4 +1,4 @@
-12. § (1) Az Szvt. 14. §-ában foglaltakon felül meg kell határozni az alapszabályban
+12. § (1) A Ptk. 3:331. §-ában foglaltakon felül meg kell határozni az alapszabályban
 
 a) a viszontbiztosító szövetkezet tevékenységi körét biztosítási ág szerint,
 
