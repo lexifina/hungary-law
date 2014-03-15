@@ -6,13 +6,13 @@
 
 (2) Az akadálymentesítési támogatás
 
-a) akadálymentes új lakás építéséhez, új lakás vásárlásához legfeljebb kétszázötvenezer forint, ha az építtető vagy a vásárló, illetve az építtetővel vagy a vásárlóval együtt költöző – a Ptk. 685. § b) pontja szerinti – közeli hozzátartozó vagy élettárs a mozgáskorlátozott személy,
+a)[^80] akadálymentes új lakás építéséhez, új lakás vásárlásához legfeljebb kétszázötvenezer forint, ha az építtető vagy a vásárló, illetve az építtetővel vagy a vásárlóval együtt költöző – a Ptk. szerinti – közeli hozzátartozó vagy élettárs a mozgáskorlátozott személy,
 
 b) meglévő lakáson, lakóépületen végzett akadálymentesítéshez legfeljebb százötvenezer forint,
 
-ba) ha a lakás tulajdonosa, illetve a tulajdonossal közös háztartásban élő – a Ptk. 685. § b) pontja szerinti – közeli hozzátartozó vagy élettárs a mozgáskorlátozott személy,
+ba)[^81] ha a lakás tulajdonosa, illetve a tulajdonossal közös háztartásban élő – a Ptk. szerinti – közeli hozzátartozó vagy élettárs a mozgáskorlátozott személy,
 
-bb) ha az önkormányzati lakásra határozatlan idejű bérleti jogviszonnyal rendelkező személy vagy vele közös háztartásban élő – a Ptk. 685. § b) pontja szerinti – közeli hozzátartozó vagy élettárs a mozgáskorlátozott személy.
+bb)[^82] ha az önkormányzati lakásra határozatlan idejű bérleti jogviszonnyal rendelkező személy vagy vele közös háztartásban élő – a Ptk. szerinti – közeli hozzátartozó vagy élettárs a mozgáskorlátozott személy.
 
 (3) Amennyiben a támogatást igénylő a lakásnak, lakóépületnek nem tulajdonosa, az akadálymentesítési munkák elvégzéséhez a lakás, lakóépület tulajdonosának magánokiratba foglalt írásbeli hozzájárulása szükséges, amit a hitelintézet részére a támogatási kérelemmel egyidejűleg kell benyújtani.
 
@@ -30,13 +30,13 @@ b) ahhoz, hogy az épületet, illetve lakását megfelelően használhassa, töb
 
 (8) A mozgásszervi fogyatékosságot, illetve súlyos mozgáskorlátozottságot a következő módon kell igazolni, a támogatásra irányuló kérelem benyújtásakor:
 
-a)[^80] a 102/2011. (VI. 29.) Korm. rendelet 7. § (3) bekezdés a) pont aa)–ac) alpontja szerinti iratokkal,
+a)[^83] a 102/2011. (VI. 29.) Korm. rendelet 7. § (3) bekezdés a) pont aa)–ac) alpontja szerinti iratokkal,
 
 b) az orvosszakértői szervnek a 141/2000. (VIII. 9.) Korm. rendelet szerinti, a súlyos fogyatékosság minősítését tartalmazó szakvéleményével vagy szakhatósági állásfoglalásával arról, hogy az igénylő mozgásszervi fogyatékos vagy súlyos mozgáskorlátozott.
 
-c)[^81]
+c)[^84]
 
-(8a)[^82] Ha a súlyos mozgáskorlátozottság igazolása céljából szükséges (8) bekezdés szerinti iratok nem állnak rendelkezésre, a súlyos mozgáskorlátozottság 102/2011. (VI. 29.) Korm. rendelet szerinti előzetes vizsgálatát – a súlyos mozgáskorlátozott személy közlekedőképességének minősítését elősegítő, rendelkezésre álló orvosi dokumentáció és egyéb iratok benyújtásával – a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalánál (a továbbiakban: járási hivatal) lehet kezdeményezni. A járási hivatal a kérelem beérkezésétől számított nyolc napon belül az iratok megküldésével megkeresi a rehabilitációs szakigazgatási szervet a közlekedőképesség minősítése érdekében. A közlekedőképesség vizsgálatára egyebekben a 102/2011. (VI. 29.) Korm. rendelet szabályait kell alkalmazni.
+(8a)[^85] Ha a súlyos mozgáskorlátozottság igazolása céljából szükséges (8) bekezdés szerinti iratok nem állnak rendelkezésre, a súlyos mozgáskorlátozottság 102/2011. (VI. 29.) Korm. rendelet szerinti előzetes vizsgálatát – a súlyos mozgáskorlátozott személy közlekedőképességének minősítését elősegítő, rendelkezésre álló orvosi dokumentáció és egyéb iratok benyújtásával – a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalánál (a továbbiakban: járási hivatal) lehet kezdeményezni. A járási hivatal a kérelem beérkezésétől számított nyolc napon belül az iratok megküldésével megkeresi a rehabilitációs szakigazgatási szervet a közlekedőképesség minősítése érdekében. A közlekedőképesség vizsgálatára egyebekben a 102/2011. (VI. 29.) Korm. rendelet szabályait kell alkalmazni.
 
 (9) A támogatási kérelemhez az akadálymentesítési munkák műszaki leírását, valamint azok építési költségét tartalmazó költségvetést mellékelni kell.
 
@@ -68,6 +68,9 @@ k) lakás komfortfokozatának növelése céljából gáz, illetve egyéb, szil�
 
 [^78]: A 8/A. §-t a 3/2005. (I. 12.) Korm. rendelet 9. §-a iktatta be, hatályon kívül helyezte az 537/2013. (XII. 30.) Korm. rendelet 18. § b) pontja.
 [^79]: A 9. § a 74/2011. (V. 2.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^80]: A 9. § (8) bekezdés a) pontja a 102/2011. (VI. 29.) Korm. rendelet 17. § (2) bekezdésével megállapított, a 61/2012. (III. 30.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
-[^81]: A 9. § (8) bekezdés c) pontját a 102/2011. (VI. 29.) Korm. rendelet 17. § (4) bekezdése hatályon kívül helyezte.
-[^82]: A 9. § (8a) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 25. §-ával megállapított szöveg.
+[^80]: A 9. § (2) bekezdés a) pontja a 80/2014. (III. 14.) Korm. rendelet 5. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^81]: A 9. § (2) bekezdés b) pont ba) alpontja a 80/2014. (III. 14.) Korm. rendelet 5. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^82]: A 9. § (2) bekezdés b) pont bb) alpontja a 80/2014. (III. 14.) Korm. rendelet 5. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^83]: A 9. § (8) bekezdés a) pontja a 102/2011. (VI. 29.) Korm. rendelet 17. § (2) bekezdésével megállapított, a 61/2012. (III. 30.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^84]: A 9. § (8) bekezdés c) pontját a 102/2011. (VI. 29.) Korm. rendelet 17. § (4) bekezdése hatályon kívül helyezte.
+[^85]: A 9. § (8a) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 25. §-ával megállapított szöveg.

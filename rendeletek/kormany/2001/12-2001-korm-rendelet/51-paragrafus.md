@@ -1,4 +1,4 @@
-## 51. §[^343] Az egyes pénzügyi tárgyú kormányrendeletek módosításáról szóló 537/2013. (XII. 30.) Korm. rendelet (a továbbiakban: Módr5.)
+## 51. §[^349] Az egyes pénzügyi tárgyú kormányrendeletek módosításáról szóló 537/2013. (XII. 30.) Korm. rendelet (a továbbiakban: Módr5.)
 
 a) 10. § (2) bekezdésével megállapított 5/A. § (2c) bekezdését 2013. május 3. napját megelőzően megkötött megelőlegező kölcsönszerződések esetén a Módr5. hatálybalépését követő 30 nap elteltével kell alkalmazni,
 
@@ -6,7 +6,7 @@ b) 10. § (3) bekezdésével megállapított 5/A. § (8b) bekezdését a Módr5.
 
 c) 15. § (2) bekezdésével megállapított 21. § (7b) és (7c) bekezdését, 17. § j)–l) pontjával megállapított 21. § (3) bekezdését, (7) és (8) bekezdését a Módr5. hatálybalépését megelőzően a házasság felbontása miatti elidegenítéshez való hozzájárulás iránt benyújtott és a Módr5. hatálybalépését megelőzően jogerősen el nem bírált kérelmekre is alkalmazni kell.
 
-Melléklet a 12/2001. (I. 31.) Korm. rendelethez[^344]
+Melléklet a 12/2001. (I. 31.) Korm. rendelethez[^350]
 
 A 3. § (4) bekezdése szerinti méltányolható lakásigény alkalmazásához a lakásépítés (lakásvásárlás) – telekárat nem tartalmazó – költségei (árai), valamint a 27/A. § (4) bekezdése és a 27/B. § (4) bekezdése szerinti beruházás tekintetében a – telekárat nem tartalmazó – költségek (árak) a következők:
 
@@ -38,5 +38,5 @@ A 3. § (4) bekezdése szerinti méltányolható lakásigény alkalmazásához a
 
 | 7 | 38 000 | 36 000 |
 
-[^343]: Az 51. §-t az 537/2013. (XII. 30.) Korm. rendelet 16. §-a iktatta be.
-[^344]: A melléklet a 391/2007. (XII. 23.) Korm. rendelet 30. §-ával megállapított, a 74/2011. (V. 2.) Korm. rendelet 18. § szerint módosított szöveg.
+[^349]: Az 51. §-t az 537/2013. (XII. 30.) Korm. rendelet 16. §-a iktatta be.
+[^350]: A melléklet a 391/2007. (XII. 23.) Korm. rendelet 30. §-ával megállapított, a 74/2011. (V. 2.) Korm. rendelet 18. § szerint módosított szöveg.
