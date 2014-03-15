@@ -20,7 +20,7 @@ a) anyajuhtartás esetén háromszáz támogatási jogosultság;
 
 b) anyatehéntartás esetén az országos tartalék 5 %-a.
 
-(4) Támogatási jogosultságot az a természetes személy, jogi személy, illetve jogi személyiség nélküli gazdasági társaság (a továbbiakban együtt: termelő) is igényelhet, valamint jogosultság annak a termelőnek is kiosztásra kerülhet, aki (amely) felszámolási, végelszámolási vagy adósságrendezési eljárás alatt áll.
+(4)[^2] Támogatási jogosultságot az a természetes személy, jogi személy, illetve jogi személyiséggel nem rendelkező szervezet (a továbbiakban együtt: termelő) is igényelhet, valamint jogosultság annak a termelőnek is kiosztásra kerülhet, aki (amely) felszámolási, végelszámolási vagy adósságrendezési eljárás alatt áll.
 
 (5) A termelő:
 
@@ -29,3 +29,4 @@ a) az anyatehénre vonatkozó támogatás esetében, az országos tartalékból 
 b) az anyajuh, valamint a juh- és kecskefélékre vonatkozó támogatás esetében az országos tartalékból igényelt támogatási jogosultság megszerzését követő egy naptári évig
 
 [^1]: A 2. § a 117/2011. (XII. 15.) VM rendelet 8. §-ával megállapított szöveg.
+[^2]: A 2. § (4) bekezdése a 22/2014. (III. 14.) VM rendelet 34. §-a szerint módosított szöveg.
