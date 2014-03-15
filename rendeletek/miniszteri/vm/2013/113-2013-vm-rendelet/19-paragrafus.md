@@ -1,3 +1,5 @@
-## 18. §[^2]
+## 18. § E rendelet 1. § 2. pontja helyébe a következő rendelkezés lép:
 
-[^2]: A 18. § a 16. § (2) bekezdése alapján 2014. március 15-én lép hatályba.
+## [E rendelet alkalmazásában:]
+
+## „2. szállító: a bizottsági rendelet 6. cikk (2) bekezdés c) pontja szerinti, tejfeldolgozással, illetve tejtermeléssel foglalkozó, a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet.”
