@@ -1,5 +1,5 @@
-48. §[^13] (1) A letétkezelő a befizetési lap (a banki átutalással történő megfizetésről kiállított igazolás) egy példányát az óvadék megfizetésének igazolásától számított 1 órán belül átadja a kezelőirodának vagy közvetlenül a bírónak.
+48. §[^27] (1) A letétkezelő a befizetési lap (a banki átutalással történő megfizetésről kiállított igazolás) egy példányát az óvadék megfizetésének igazolásától számított 1 órán belül átadja a kezelőirodának vagy közvetlenül a bírónak.
 
 (2) Ha a letétkezelő a befizetési lapot (a banki átutalással történő megfizetésről kiállított igazolást) a kezelőirodának adta át, a kezelőiroda azt a büntetőügy irataihoz szereli, és az iratokat 1 órán belül átadja a bírónak.
 
-[^13]: A 48. § az 5/2006. (VII. 24.) IRM rendelet 2. §-ával megállapított szöveg.
+[^27]: A 48. § az 5/2006. (VII. 24.) IRM rendelet 2. §-ával megállapított szöveg.

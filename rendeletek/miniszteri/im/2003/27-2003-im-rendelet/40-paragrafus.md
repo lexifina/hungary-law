@@ -1,13 +1,18 @@
-40. § (1) Az elévülési határidő elteltét követően a 7. §-ban megjelölt, letétként kezelt tárgyak végleges elhelyezéséről a KÖH intézkedik.
+40. § (1)[^19] Az elévülési határidő elteltét követően a 7. §-ban megjelölt, letétként kezelt tárgyak végleges elhelyezéséről az ÖH intézkedik.
 
-(2) Az (1) bekezdés alá nem eső tárgyak közül:
+(2)[^20] Az (1) bekezdés alá nem eső tárgyak közül:
 
-a) az okiratot a bíróság irattárában kell elhelyezni,
+a) a bíróság irattárában kell elhelyezni az okiratot,
 
-b) a pénzhelyettesítő eszközt és az értékpapírt a kibocsátó vagy az azok kezelésével megbízott hitelintézetnek,
+b) értékesítés, egyéb intézkedés céljából kell átadni
 
-c) a zálogjegyet a tevékenység végzésére feljogosított szervezetnek,
+ba) a pénzhelyettesítő eszközt és az értékpapírt a kibocsátó vagy az azok kezelésére jogosult szervezetnek,
 
-d) egyéb tárgyakat a tárgyak forgalomba hozatalával, feldolgozásával, illetőleg felvásárlásával foglalkozó, kereskedelmi tevékenység folytatására feljogosított szervezetnek kell értékesítés céljából átadni.
+bb) a zálogjegyet a tevékenység végzésére feljogosított szervezetnek,
+
+bc) egyéb tárgyakat a tárgyak forgalomba hozatalával, feldolgozásával, illetve felvásárlásával foglalkozó, kereskedelmi tevékenység folytatására feljogosított szervezetnek.
 
 (3) A bíróság irattárában elhelyezett okirat nem selejtezhető.
+
+[^19]: A 40. § (1) bekezdése a 21/2014. (III. 13.) KIM rendelet 13. § (8) bekezdés c) pontja szerint módosított szöveg.
+[^20]: A 40. § (2) bekezdése a 21/2014. (III. 13.) KIM rendelet 13. § (6) bekezdésével megállapított szöveg.

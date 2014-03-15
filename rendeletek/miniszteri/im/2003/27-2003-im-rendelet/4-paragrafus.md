@@ -2,6 +2,6 @@
 
 4. § (1) A bíróság gazdasági hivatala (a továbbiakban: BGH) a készpénzletétet a bírói letéti számlán kezeli.
 
-(2)[^2] Az eredetben megőrzendő pénzt és minden egyéb, bírósági letétbe helyezni kívánt tárgyat az ítélőtábla és a törvényszék székhelyén a BGH, a törvényszék székhelyén kívül működő bíróságoknál pedig a bíróság elnöke által erre a feladatra kijelölt dolgozója (a továbbiakban együtt: letétkezelő) kezeli.
+(2)[^3] Az eredetben megőrzendő pénzt és minden egyéb, bírósági letétbe helyezni kívánt tárgyat az ítélőtábla és a törvényszék székhelyén a BGH, a törvényszék székhelyén kívül működő bíróságoknál pedig a bíróság elnöke által erre a feladatra kijelölt dolgozója (a továbbiakban együtt: letétkezelő) kezeli.
 
-[^2]: A 4. § (2) bekezdése a 40/2011. (XII. 30.) KIM rendelet 25. § a) pontja szerint módosított szöveg.
+[^3]: A 4. § (2) bekezdése a 40/2011. (XII. 30.) KIM rendelet 25. § a) pontja szerint módosított szöveg.
