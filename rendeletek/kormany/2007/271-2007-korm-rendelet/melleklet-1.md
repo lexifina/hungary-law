@@ -1,6 +1,6 @@
 ## 12. § Ez a rendelet – a vasúti közlekedésről szóló 2005. évi CLXXXIII. törvénnyel együtt – a 2001/12/EK és a 2004/49/EK európai parlamenti és tanácsi irányelvvel módosított, a vasúttársaságok engedélyezéséről szóló, 1995. június 19-i 95/18/EK tanácsi irányelv 9. cikkének és 12. cikk (1) bekezdése a) pontjának való megfelelést szolgálja.
 
-1. melléklet a 271/2007. (X. 19.) Korm. rendelethez[^8]
+1. melléklet a 271/2007. (X. 19.) Korm. rendelethez[^19]
 
 ## Vasúti társaságokra irányadó fedezeti összeghatárok
 
@@ -10,7 +10,7 @@ de legalább 100 millió Ft,
 
 ahol az
 
-| S | = | Az EGT-államok területén vagy az adott elővárosi vasúti pályahálózaton, az általános és a környezetszennyezés felelősség körében a tárgyévet követő évben az utasoknak és a harmadik személyeknek vasúti balesetben okozott károk fedezeti összeghatára. |
+| S | = | Az EGT-államok területén vagy az adott elővárosi vasúti pályahálózaton, az általános és a környezetszennyezés felelősség körében a tárgyévet követő évben az utasoknak és a harmadik személyeknek vasúti balesetben okozott károk és bekövetkezett személyi károk fedezeti összeghatára. |
 
 | s | = | Az EGT-államok területén vagy az adott elővárosi vasúti pályahálózaton megvalósuló, a tárgyévet követő évre tervezett összes utaskilométer. |
 
@@ -22,13 +22,13 @@ de legalább 50 millió Ft,
 
 ahol az
 
-| A | = | Az EGT-államok területén vagy az adott elővárosi vasúti pályahálózaton az általános és a környezetszennyezés felelősség körében a tárgyévet követő évben harmadik személyeknek vasúti balesetben okozott károk fedezeti összeghatára. |
+| A | = | Az EGT-államok területén vagy az adott elővárosi vasúti pályahálózaton az általános és a környezetszennyezés felelősség körében a tárgyévet követő évben harmadik személyeknek vasúti balesetben okozott károk és bekövetkezett személyi károk fedezeti összeghatára. |
 
-| A1 | = | Az EGT-államok területén vagy az adott elővárosi vasúti pályahálózaton az általános és a környezetszennyezés felelősség körében a tárgyévet követő évben harmadik személyeknek vasúti balesetben okozott károk fedezeti összeghatára veszélyes áru továbbítása esetén. |
+| A1 | = | Az EGT-államok területén vagy az adott elővárosi vasúti pályahálózaton az általános és a környezetszennyezés felelősség körében a tárgyévet követő évben harmadik személyeknek vasúti balesetben okozott károk és bekövetkezett személyi károk fedezeti összeghatára veszélyes áru továbbítása esetén. |
 
 | a1 | = | A tárgyévet követő évben az EGT-államok területén vagy az adott elővárosi vasúti pályahálózaton várhatóan megvalósuló veszélyes áru továbbítás összes árutonna-kilométer teljesítménye. |
 
-| A2 | = | Az EGT-államok területén vagy az adott elővárosi vasúti pályahálózaton az általános és a környezetszennyezés felelősség körében a tárgyévet követő évben harmadik személyeknek vasúti balesetben okozott károk fedezeti összeghatára nem veszélyes áru továbbítása esetén. |
+| A2 | = | Az EGT-államok területén vagy az adott elővárosi vasúti pályahálózaton az általános és a környezetszennyezés felelősség körében a tárgyévet követő évben harmadik személyeknek vasúti balesetben okozott károk és bekövetkezett személyi károk fedezeti összeghatára nem veszélyes áru továbbítása esetén. |
 
 | a2 | = | A tárgyévet követő évben az EGT-államok területén vagy az adott elővárosi vasúti pályahálózaton várhatóan megvalósuló nem veszélyes áru továbbítás összes árutonna-kilométer teljesítménye. |
 
@@ -40,7 +40,7 @@ de legalább 100 millió Ft,
 
 ahol a
 
-| V | = | Az EGT-államok területén vagy az adott elővárosi vasúti pályahálózaton, az általános és a környezetszennyezés felelősség körében a tárgyévet követő évben a harmadik személyeknek vasúti balesetben okozott károk fedezeti összeghatára. |
+| V | = | Az EGT-államok területén vagy az adott elővárosi vasúti pályahálózaton, az általános és a környezetszennyezés felelősség körében a tárgyévet követő évben a harmadik személyeknek vasúti balesetben okozott károk és bekövetkezett személyi károk fedezeti összeghatára. |
 
 | v | = | Az EGT-államok területén vagy az adott elővárosi vasúti pályahálózaton, a tárgyévet követő évben várhatóan dolgozó vontató járművek száma. |
 
@@ -54,13 +54,13 @@ ahol a
 
 P1 = p1×100 000 Ft
 
-| P | = | Az adott országos, illetőleg elővárosi vasúti pályahálózaton az általános és a környezetszennyezés felelősség körében a tárgyévet követő évben a harmadik személyeknek vasúti balesetben okozott károk fedezeti összeghatára. |
+| P | = | Az adott országos, illetőleg elővárosi vasúti pályahálózaton az általános és a környezetszennyezés felelősség körében a tárgyévet követő évben a harmadik személyeknek vasúti balesetben okozott károk és bekövetkezett személyi károk fedezeti összeghatára. |
 
-| P1 | = | Az adott országos, illetőleg elővárosi vasúti pályahálózaton az általános és a környezetszennyezés felelősség körében a tárgyévet követő évben a harmadik személyeknek vasúti balesetben okozott károk fedezeti összeghatára a teljes nyílt hozzáférésű vasúti pályahálózat építési hosszára számítva. |
+| P1 | = | Az adott országos, illetőleg elővárosi vasúti pályahálózaton az általános és a környezetszennyezés felelősség körében a tárgyévet követő évben a harmadik személyeknek vasúti balesetben okozott károk és bekövetkezett személyi károk fedezeti összeghatára a teljes nyílt hozzáférésű vasúti pályahálózat építési hosszára számítva. |
 
 | p1 | = | A vasúti társaság által működtetett teljes nyílt hozzáférésű vasúti pályahálózat építési hossza kilométerben a tárgyévet követő évben. |
 
-| P2 | = | Az adott országos, illetőleg elővárosi vasúti pályahálózaton az általános és a környezetszennyezés felelősség körében a tárgyévet követő évben a harmadik személyeknek vasúti balesetben okozott károk fedezeti összeghatára a teljes nyílt hozzáférés alól mentesített vasúti pályahálózat építési hosszára számítva. |
+| P2 | = | Az adott országos, illetőleg elővárosi vasúti pályahálózaton az általános és a környezetszennyezés felelősség körében a tárgyévet követő évben a harmadik személyeknek vasúti balesetben okozott károk és bekövetkezett személyi károk fedezeti összeghatára a teljes nyílt hozzáférés alól mentesített vasúti pályahálózat építési hosszára számítva. |
 
 | p2 | = | A vasúti társaság által működtetett teljes nyílt hozzáféréstől mentesített vasúti pályahálózat építési hossza kilométerben a tárgyévet követő évben. |
 
@@ -70,7 +70,7 @@ de legalább 10 millió Ft,
 
 ahol az
 
-| ST | = | A térségi vagy a saját célú vasúti pályahálózaton az általános és a környezetszennyezés felelősség körében a tárgyévet követő évben az utasoknak és harmadik személyeknek vasúti balesetben okozott károk fedezeti összeghatára. |
+| ST | = | A térségi vagy a saját célú vasúti pályahálózaton az általános és a környezetszennyezés felelősség körében a tárgyévet követő évben az utasoknak és harmadik személyeknek vasúti balesetben okozott károk és bekövetkezett személyi károk fedezeti összeghatára. |
 
 | st | = | A tárgyévet követő évben tervezett összes utaskilométer teljesítmény. |
 
@@ -82,7 +82,7 @@ de legalább 50 millió Ft,
 
 ahol az
 
-| SH | = | A helyi vasúti pályahálózaton az általános és a környezetszennyezés felelősség körében a tárgyévet követő évben az utasoknak és harmadik személyeknek vasúti balesetben okozott károk fedezeti összeghatára. |
+| SH | = | A helyi vasúti pályahálózaton az általános és a környezetszennyezés felelősség körében a tárgyévet követő évben az utasoknak és harmadik személyeknek vasúti balesetben okozott károk és bekövetkezett személyi károk fedezeti összeghatára. |
 
 | sh | = | A tárgyévet követő évben tervezett összes férőhely-kilométer teljesítmény. |
 
@@ -94,7 +94,7 @@ de legalább 20 millió Ft,
 
 ahol az
 
-| AT | = | A térségi vagy a saját célú vasúti pályahálózat területén az általános és a környezetszennyezés felelősség körében a tárgyévet követő évben harmadik személyeknek vasúti balesetben okozott károk fedezeti összeghatára. |
+| AT | = | A térségi vagy a saját célú vasúti pályahálózat területén az általános és a környezetszennyezés felelősség körében a tárgyévet követő évben harmadik személyeknek vasúti balesetben okozott károk és bekövetkezett személyi károk fedezeti összeghatára. |
 
 | at | = | A tárgyévet követő évben tervezett összes árutonna-kilométer teljesítmény. |
 
@@ -106,7 +106,7 @@ de legalább 10 millió Ft,
 
 ahol a
 
-| V | = | A térségi vagy saját célú vasúti pályahálózaton az általános és a környezetszennyezés felelősség körében a tárgyévet követő évben a harmadik személyeknek vasúti balesetben okozott károk fedezeti összeghatára. |
+| V | = | A térségi vagy saját célú vasúti pályahálózaton az általános és a környezetszennyezés felelősség körében a tárgyévet követő évben a harmadik személyeknek vasúti balesetben okozott károk és bekövetkezett személyi károk fedezeti összeghatára. |
 
 | v | = | A térségi vagy saját célú vasúti pályahálózaton a tárgyévet követő évben várhatóan dolgozó vontató járművek száma. |
 
@@ -118,7 +118,7 @@ de legalább 5 millió Ft,
 
 ahol a
 
-| PT | = | A térségi vagy saját célú vasúti pályahálózaton az általános és a környezetszennyezés felelősség körében a tárgyévet követő évben a harmadik személyeknek vasúti balesetben okozott károk fedezeti összeghatára. |
+| PT | = | A térségi vagy saját célú vasúti pályahálózaton az általános és a környezetszennyezés felelősség körében a tárgyévet követő évben a harmadik személyeknek vasúti balesetben okozott károk és bekövetkezett személyi károk fedezeti összeghatára. |
 
 | pt | = | A vasúti társaság által működtetett vasúti pályahálózat építési hossza kilométerben a tárgyévet követő évben. |
 
@@ -134,13 +134,13 @@ ahol a
 
 | PH2 | = | ph2 × 500 000 Ft |
 
-| PH | = | A helyi vasúti pályahálózaton az általános és a környezetszennyezés felelősség körében a tárgyévet követő évben a harmadik személyeknek vasúti balesetben okozott károk fedezeti összeghatára. |
+| PH | = | A helyi vasúti pályahálózaton az általános és a környezetszennyezés felelősség körében a tárgyévet követő évben a harmadik személyeknek vasúti balesetben okozott károk és bekövetkezett személyi károk fedezeti összeghatára. |
 
-| PH1 | = | A helyi vasúti pályahálózaton az általános és a környezetszennyezés felelősség körében a tárgyévet követő évben a harmadik személyeknek vasúti balesetben okozott károk fedezeti összeghatára a villamos vontatásra alkalmas vasúti pályahálózat építési hosszára számítva. |
+| PH1 | = | A helyi vasúti pályahálózaton az általános és a környezetszennyezés felelősség körében a tárgyévet követő évben a harmadik személyeknek vasúti balesetben okozott károk és bekövetkezett személyi károk fedezeti összeghatára a villamos vontatásra alkalmas vasúti pályahálózat építési hosszára számítva. |
 
 | ph1 | = | A helyi vasúti pályahálózaton a villamos vontatásra alkalmas vasúti pályahálózat építési hossza. |
 
-| PH2 | = | A helyi vasúti pályahálózaton az általános és a környezetszennyezés felelősség körében a tárgyévet követő évben a harmadik személyeknek vasúti balesetben okozott károk fedezeti összeghatára a villamos vontatásra nem alkalmas vasúti pályahálózat építési hosszára számítva. |
+| PH2 | = | A helyi vasúti pályahálózaton az általános és a környezetszennyezés felelősség körében a tárgyévet követő évben a harmadik személyeknek vasúti balesetben okozott károk és bekövetkezett személyi károk fedezeti összeghatára a villamos vontatásra nem alkalmas vasúti pályahálózat építési hosszára számítva. |
 
 | ph2 | = | A helyi vasúti pályahálózaton a villamos vontatásra nem alkalmas vasúti pályahálózat építési hosszára számítva. |
 
@@ -158,4 +158,4 @@ ahol a
 
 A katasztrófa-balesetek fedezeti összeghatárának igazolásakor csak az általános vasúti balesetek fedezeti összeghatára fedezettel igazolt része feletti részt kell igazolni.
 
-[^8]: Az 1. melléklet az 56/2009. (III. 17.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^19]: Az 1. melléklet az 56/2009. (III. 17.) Korm. rendelet 1. §-a, az 53/2014. (III. 3.) Korm. rendelet 14. § (9) bekezdés i) pontja szerint módosított szöveg.
