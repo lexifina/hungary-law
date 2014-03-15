@@ -2,7 +2,7 @@
 
 ## 6. A kutatási és más specifikus célokra, és a takarmányozási célokra történő eltérő felhasználás engedélyezése
 
-8. § (1)[^2] Az 1069/2009/EK európai parlamenti és tanácsi rendelet 17. cikke szerinti kutatási és más specifikus célokra, valamint az 1069/2009/EK európai parlamenti és tanácsi rendelet 18. cikke szerinti speciális takarmányozási célokra vonatkozó enyhítések alkalmazását az üzemeltető írásbeli kérelmére az állati eredetű melléktermék eltérő felhasználásának helye szerint illetékes élelmiszerlánc-biztonsági és állategészségügyi igazgatóság engedélyezi. Az eltérő felhasználásra vonatkozó engedélyben foglaltak betartását a járási állategészségügyi hivatal ellenőrzi.
+8. § (1)[^3] Az 1069/2009/EK európai parlamenti és tanácsi rendelet 17. cikke szerinti kutatási és más specifikus célokra, valamint az 1069/2009/EK európai parlamenti és tanácsi rendelet 18. cikke szerinti speciális takarmányozási célokra vonatkozó enyhítések alkalmazását az üzemeltető írásbeli kérelmére az állati eredetű melléktermék eltérő felhasználásának helye szerint illetékes élelmiszerlánc-biztonsági és állategészségügyi igazgatóság engedélyezi. Az eltérő felhasználásra vonatkozó engedélyben foglaltak betartását a járási állategészségügyi hivatal ellenőrzi.
 
 (2) Az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság az (1) bekezdés szerint kiadott engedélyekről tájékoztatja a Nemzeti Élelmiszerlánc-biztonsági Hivatalt (a továbbiakban: NÉBIH). A NÉBIH az engedélyezett felhasználókról nyilvántartást vezet, és az 1069/2009/EK európai parlamenti és tanácsi rendelet 47. cikkében meghatározott adatokat honlapján közzéteszi.
 
@@ -20,4 +20,4 @@ b) az 1069/2009/EK európai parlamenti és tanácsi rendelet 9. cikk f) pontjáb
 
 (7) A (6) bekezdés a) pontjában meghatározott állati eredetű melléktermékek az 1069/2009/EK európai parlamenti és tanácsi rendelet 18. cikk (1) bekezdésében felsorolt állatfajok mindegyikével feletethetők. A (6) bekezdés b) pontjában meghatározott állati eredetű melléktermékek kizárólag az 1069/2009/EK európai parlamenti és tanácsi rendelet 18. cikk (1) bekezdésének a)–c) és h) alpontjában említett állatok takarmányozására használhatók fel.
 
-[^2]: A 8. § (1) bekezdése a 151/2012. (XII. 29.) VM rendelet 56. § b) pontja szerint módosított szöveg.
+[^3]: A 8. § (1) bekezdése a 151/2012. (XII. 29.) VM rendelet 56. § b) pontja szerint módosított szöveg.

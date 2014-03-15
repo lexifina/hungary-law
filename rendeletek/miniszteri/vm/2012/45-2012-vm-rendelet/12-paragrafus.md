@@ -12,7 +12,7 @@ ha az állattartó, illetve kistermelő ezen állati eredetű melléktermékek t
 
 (2) Az (1) bekezdés szerinti eseteken kívül kizárólag az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény 19. § (2) bekezdés a) és b) pontjában foglalt kötelezettség alapján az önkormányzat által összegyűjtött állati eredetű melléktermékek vihetők be a települési gyűjtőhelyre.
 
-(3)[^4] Települési gyűjtőhelyet a települési önkormányzat vagy az általa megbízott vállalkozó működtethet. Az ilyen létesítményeket az üzemeltető nyilvántartásba vétel céljából a járási állategészségügyi hivatalnak bejelenti.
+(3)[^5] Települési gyűjtőhelyet a települési önkormányzat vagy az általa megbízott vállalkozó működtethet. Az ilyen létesítményeket az üzemeltető nyilvántartásba vétel céljából a járási állategészségügyi hivatalnak bejelenti.
 
 (4) A települési gyűjtőhelyen összegyűjtött állati eredetű melléktermékeket 1. kategóriájúnak kell tekinteni, és azokat 1. kategóriájú melléktermékek kezelésére engedélyezett létesítménybe kell továbbszállítani.
 
@@ -20,7 +20,7 @@ ha az állattartó, illetve kistermelő ezen állati eredetű melléktermékek t
 
 (6) Ha a települési gyűjtőhelyre az önkormányzat vagy az általa megbízott vállalkozó szállítja be az (1) bekezdésben meghatározott állati eredetű melléktermékeket, akkor a szállító jármű, illetve a szállítási tevékenység vonatkozásában a 19. § (4) és (5) bekezdésében foglaltak szerint kell eljárni.
 
-(7)[^5] A szállítási tevékenységre vonatkozó nyilvántartásba vételt követően a települési gyűjtőhelyre más településekről is beszállíthatók az (1) és (2) bekezdésben meghatározott állati eredetű melléktermékek. A más településekről történő beszállítás megkezdését megelőzően írásban tájékoztatni kell az élelmiszerlánc-biztonsági és állategészségügyi igazgatóságot, valamint a járási állategészségügyi hivatalt.
+(7)[^6] A szállítási tevékenységre vonatkozó nyilvántartásba vételt követően a települési gyűjtőhelyre más településekről is beszállíthatók az (1) és (2) bekezdésben meghatározott állati eredetű melléktermékek. A más településekről történő beszállítás megkezdését megelőzően írásban tájékoztatni kell az élelmiszerlánc-biztonsági és állategészségügyi igazgatóságot, valamint a járási állategészségügyi hivatalt.
 
-[^4]: A 12. § (3) bekezdése a 151/2012. (XII. 29.) VM rendelet 56. § b) pontja szerint módosított szöveg.
-[^5]: A 12. § (7) bekezdése a 151/2012. (XII. 29.) VM rendelet 56. § b) pontja szerint módosított szöveg.
+[^5]: A 12. § (3) bekezdése a 151/2012. (XII. 29.) VM rendelet 56. § b) pontja szerint módosított szöveg.
+[^6]: A 12. § (7) bekezdése a 151/2012. (XII. 29.) VM rendelet 56. § b) pontja szerint módosított szöveg.

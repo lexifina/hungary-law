@@ -2,7 +2,7 @@
 
 (2) Az állati hulladékok kezelésére és a hasznosításukra készült termékek forgalomba hozatalának állategészségügyi szabályaira, valamint a fertőző szivacsos agyvelőbántalmak megelőzésére, az ellenük való védekezésre, illetve leküzdésükre vonatkozó jogszabályok szerinti távoli területek meghatározásáról szóló, 31103/2004. számú FVM Közleményben szereplő távoli területeket az 1069/2009/EK európai parlamenti és tanácsi rendeletnek megfelelő távoli területnek kell tekinteni mindaddig, amíg a távoli területre vonatkozóan új közlemény nem jelenik meg a Vidékfejlesztési Értesítőben.
 
-(3)[^21] A telephelyi gyűjtőhelyek kivételével a jelenlegi állati eredetű melléktermékek gyűjtésére használt és működési engedéllyel nem rendelkező létesítményeket a járási állategészségügyi hivatal e rendelet hatálybalépését követő egy éven belül felülvizsgálja és határoz arról, hogy
+(3)[^22] A telephelyi gyűjtőhelyek kivételével a jelenlegi állati eredetű melléktermékek gyűjtésére használt és működési engedéllyel nem rendelkező létesítményeket a járási állategészségügyi hivatal e rendelet hatálybalépését követő egy éven belül felülvizsgálja és határoz arról, hogy
 
 a) a létesítmény nyilvántartásba vett települési gyűjtőhelyként, a 13. §-ban meghatározott feltételek teljesítése mellett tovább üzemelhet, amennyiben a feltételeket a felülvizsgálat időpontjában teljesíti vagy azokat a felülvizsgálatot követő tizenkét hónapon belül teljesíteni fogja;
 
@@ -12,4 +12,4 @@ b) a létesítmény működését megtiltja.
 
 (5) A 71/2003. (VI. 27.) FVM rendelet szerinti állati hulladéktemetőket csak az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság engedélyével lehet megbontani. A megszűnt állati hulladéktemető területén a megszűnéstől számított 30 évig mezőgazdasági művelést nem szabad folytatni, a földrészletet az ingatlan-nyilvántartásban művelés alól kivett területként kell nyilvántartani.
 
-[^21]: A 30. § (3) bekezdés nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 56. § b) pontja szerint módosított szöveg.
+[^22]: A 30. § (3) bekezdés nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 56. § b) pontja szerint módosított szöveg.

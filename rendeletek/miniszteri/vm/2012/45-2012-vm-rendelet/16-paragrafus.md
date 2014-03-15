@@ -1,4 +1,4 @@
-16. § (1)[^8] Az állati melléktermék tulajdonosa a saját létesítményéből származó mellékterméket kereskedelmi okmány kíséretében maga is elszállíthatja az 1069/2009/EK európai parlamenti és tanácsi rendelet szerint engedélyezett létesítménybe, ha rendelkezik a járási állategészségügyi hivatal által erre a célra engedélyezett gépjárművel és e tevékenységre nézve az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság nyilvántartásba vette.
+16. § (1)[^9] Az állati melléktermék tulajdonosa a saját létesítményéből származó mellékterméket kereskedelmi okmány kíséretében maga is elszállíthatja az 1069/2009/EK európai parlamenti és tanácsi rendelet szerint engedélyezett létesítménybe, ha rendelkezik a járási állategészségügyi hivatal által erre a célra engedélyezett gépjárművel és e tevékenységre nézve az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság nyilvántartásba vette.
 
 (2) Kislétszámú állattartó telepen elhullott gazdasági haszonállatot vagy elhullott kedvtelésből tartott állatot az állattartó, illetve a saját fogyasztás céljából levágott állatból és a kistermelői élelmiszer-előállításból származó állati eredetű melléktermékeket azok birtokosa szivárgásmentes módon a települési gyűjtőhelyre szállíthatja.
 
@@ -8,7 +8,7 @@
 
 (5) Amennyiben a trágyaszállítás a technológiai folyamat részeként történik, a szállítás során a trágya elszóródását a rakomány ponyvázásával (fóliaborítással) kell megakadályozni.
 
-(6)[^9] Amennyiben a trágyaszállítás bejelentési kötelezettség alá tartozó állatbetegség felszámolásával kapcsolatos, a trágyát a szállítást megelőzően az adott betegség elleni védekezés szabályairól szóló miniszteri rendeletben foglaltaknak megfelelően kell kezelni. A szállítás során a rakományt ponyvával (fóliával) kell fedni. A gépkocsit a kirakodást követően a járási állategészségügyi hivatal által meghatározott helyen fertőtleníteni kell.
+(6)[^10] Amennyiben a trágyaszállítás bejelentési kötelezettség alá tartozó állatbetegség felszámolásával kapcsolatos, a trágyát a szállítást megelőzően az adott betegség elleni védekezés szabályairól szóló miniszteri rendeletben foglaltaknak megfelelően kell kezelni. A szállítás során a rakományt ponyvával (fóliával) kell fedni. A gépkocsit a kirakodást követően a járási állategészségügyi hivatal által meghatározott helyen fertőtleníteni kell.
 
 (7) A tevékenységük során keletkezett állati eredetű melléktermékek – a trágyát ide nem értve – elszállítása, illetve ártalmatlanítása érdekében
 
@@ -24,5 +24,5 @@ az állati eredetű melléktermék szállítására és kezelésére feljogosít
 
 (8) Az olyan nagylétszámú állattartó telepek, amelyek a 20. § (3) bekezdése szerint engedélyezett feldolgozó üzemmel vagy a 20. § (6) bekezdésében foglaltaknak megfelelő kiskapacitású égetővel rendelkeznek és kérődző állatokat nem tartanak, mentesülnek a (7) bekezdés szerinti kötelezettség alól.
 
-[^8]: A 16. § (1) bekezdése a 151/2012. (XII. 29.) VM rendelet 56. § b) pontja szerint módosított szöveg.
-[^9]: A 16. § (6) bekezdése a 151/2012. (XII. 29.) VM rendelet 56. § b) pontja szerint módosított szöveg.
+[^9]: A 16. § (1) bekezdése a 151/2012. (XII. 29.) VM rendelet 56. § b) pontja szerint módosított szöveg.
+[^10]: A 16. § (6) bekezdése a 151/2012. (XII. 29.) VM rendelet 56. § b) pontja szerint módosított szöveg.
