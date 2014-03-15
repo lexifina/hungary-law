@@ -1,0 +1,1 @@
+19/F. § A Kttv.-nek az egyes törvényeknek az új Polgári Törvénykönyv hatálybalépésével összefüggő módosításáról szóló 2013. évi CCLII. törvénnyel megállapított, a személyiségi jogok megsértésével kapcsolatos jogkövetkezményekre vonatkozó szabályait a 2014. március 15-én és ezt követően történt jogsértésekre kell alkalmazni.
