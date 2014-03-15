@@ -4,7 +4,7 @@
 
 a) a mezőgazdasági és élelmiszer-ipari termékre,
 
-b) az a) pont szerinti terméket termelő, feldolgozó, valamint forgalmazó jogi személyre, jogi személyiség nélküli gazdasági társaságra és egyéb gazdálkodó szervezetre, természetes személyre és családi gazdálkodóra,
+b) az a) pont szerinti terméket termelő, feldolgozó, valamint forgalmazó természetes személyre és családi gazdálkodóra, jogi személyre és jogi személyiséggel nem rendelkező szervezetre,
 
 c) a mezőgazdasági piacok közös szervezésének létrehozásáról, valamint egyes mezőgazdasági termékekre vonatkozó egyedi rendelkezésekről („az egységes közös piacszervezésről”) szóló, 2007. október 22-i 1234/2007/EK tanácsi rendelet (a továbbiakban: tanácsi rendelet) hatálya alá tartozó ágazatok termékeinek előállításához, forgalmazásához, illetve feldolgozásához kapcsolódó gazdasági tevékenységek képviselőiből álló és elismert, és szakmaközi elismerés iránt folyamodó szervezetekre,
 

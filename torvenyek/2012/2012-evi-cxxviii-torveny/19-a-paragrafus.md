@@ -1,3 +1,11 @@
-19/A. § (1) A mezőgazdasági termény betakarítása előtt kötött azon szerződésre, amellyel a termény tulajdonjogát ruházzák át, a Polgári Törvénykönyvnek a mezőgazdasági termékértékesítési szerződésre vonatkozó rendelkezéseit kell alkalmazni.
+19/A. § (1) Mezőgazdasági termelővel mint eladóval az általa használt mezőgazdasági földterületen megtermelt mezőgazdasági termény szolgáltatására annak betakarítása előtt csak
 
-(2) Az (1) bekezdés szerinti szerződés érvényesen csak meghatározott területen megtermő összes terményre vagy annak valamely hányadára köthető meg.
+a) a Polgári törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) 6:232. §-a szerinti, a saját termelésű mezőgazdasági áru szolgáltatására kötött adásvételi szerződés, valamint
+
+b) a Ptk. 6:233. §-a szerinti, a vevő közreműködésével előállított mezőgazdasági áru szolgáltatására kötött adásvételi szerződés
+
+köthető.
+
+(2) Az (1) bekezdés alkalmazásában eladónak minősül mezőgazdasági termelőként az a személy, aki az általa használt mezőgazdasági földterületen a szerződés tárgyát képező mezőgazdasági terményt saját nevében és saját kockázatára termeli meg.
+
+(3) Az (1) bekezdés szerinti szerződések esetében a Ptk. rendelkezéseit az e törvényben foglalt kiegészítéssel együtt kell alkalmazni.
