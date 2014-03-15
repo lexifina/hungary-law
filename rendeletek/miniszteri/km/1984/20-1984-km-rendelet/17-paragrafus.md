@@ -760,7 +760,7 @@ A tilalom bevezetése esetén az átmenő forgalom részére megfelelő tehermen
 
 34.4 Állati erővel vont járművek, mezőgazdasági vontatók és a tehergépkocsik meghatározott körének közlekedése egyes városrészek, illetve területi egységek forgalmának egységesítése vagy más forgalmi és környezetvédelmi okok miatt is megtiltható.
 
-34.5.[^133] Ha a 34.1. pontban említett szempontok a behajtási tilalom elrendelését teszik indokolttá, de nem célszerű megtiltani azoknak a járműveknek a forgalmát, amelyek úti célja az érintett úton van, a járművek behajtását a KRESZ 14. § (3), (4) és (11) bekezdésében említett kiegészítő táblák alkalmazásával kell lehetővé tenni. A 34.1. pontban elrendelt korlátozás alól a közút kezelője[^134] eseti behajtási hozzájárulással felmentést adhat a korlátozással érintett területen lakó, ott telephellyel rendelkező, vagy oda (onnan) áruszállítást végző természetes személy, jogi személy és jogi személyiség nélküli gazdasági társaság részére.
+34.5.[^133] Ha a 34.1. pontban említett szempontok a behajtási tilalom elrendelését teszik indokolttá, de nem célszerű megtiltani azoknak a járműveknek a forgalmát, amelyek úti célja az érintett úton van, a járművek behajtását a KRESZ 14. § (3), (4) és (11) bekezdésében említett kiegészítő táblák alkalmazásával kell lehetővé tenni. A 34.1. pontban elrendelt korlátozás alól a közút kezelője[^134] eseti behajtási hozzájárulással felmentést adhat a korlátozással érintett területen lakó, ott telephellyel rendelkező, vagy oda (onnan) áruszállítást végző természetes személy vagy jogi személy részére.
 
 34.6–34.8[^135]
 
@@ -1249,7 +1249,7 @@ A fénysorompó villogó piros fényre váltásától a – vasúti pályára en
 [^130]: A melléklet (Forgalomszabályozási Műszaki Szabályzat) 33.4 pontját a 84/2004. (VI. 4.) GKM rendelet 3. §-ának (2) bekezdése hatályon kívül helyezte.
 [^131]: A melléklet 34.1. pontja a 4/2008. (VI. 3.) KHEM rendelet 6. § (1) bekezdésével megállapított szöveg. E módosító rendelet 7. § (3) bekezdése alapján a rendelkezést a 2008. június 15. napját követően induló ügyekben kell alkalmazni.
 [^132]: A melléklet 34.3. pontja az 55/2011. (X. 24.) NFM rendelet 9. §-ával megállapított szöveg.
-[^133]: A melléklet 34.5. pontja az 55/2011. (X. 24.) NFM rendelet 9. §-ával megállapított szöveg.
+[^133]: A melléklet 34.5. pontja az 55/2011. (X. 24.) NFM rendelet 9. §-ával megállapított, a 12/2014. (III. 14.) NFM rendelet 1. § b) pontja szerint módosított szöveg.
 [^134]: 1988. évi I. törvény a közúti közlekedésről, 33. § (1) bekezdés, továbbá az 1990. évi LXV. törvény a helyi önkormányzatokról, 63/A. § g) bekezdés.
 [^135]: A melléklet (Forgalomszabályozási Műszaki Szabályzat) 34.6–34.8 pontját a 84/2004. (VI. 4.) GKM rendelet 3. §-ának (2) bekezdése hatályon kívül helyezte.
 [^136]: A melléklet 35. pontja az 55/2011. (X. 24.) NFM rendelet 9. §-ával megállapított szöveg.

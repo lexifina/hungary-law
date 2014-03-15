@@ -10,7 +10,7 @@
 
 (4) A vasúti átjárók biztonságát szolgáló menekítősáv, terelősziget és fénysorompóval függésben lévő közúti forgalomirányító fényjelző készülék létesítése a vasutat keresztező út kezelőjének a kötelessége.
 
-(5)[^9] A települési önkormányzat a helyi önkormányzatokról szóló 1990. évi LXV. törvény 8. § (4) bekezdésében foglaltakkal összhangban gondoskodik a gyalogos-átkelőhelyek megvilágításáról, a gyalogos-átkelőhelyhez vezető szilárd burkolatú járda, a gyalogút, a kerékpárút és gyalogos-felállóhely, a kiemelt szegélyen vagy padkán kívüli gyalogos korlátok, az egyéb gyalogos biztonsági berendezések létesítéséről és fenntartásáról, valamint a gyalogosok részére szolgáló vasúti gyalogos-átkelőhely és a kizárólag kerékpárosok közlekedését szolgáló vasúti átjárók létesítéséről.
+(5)[^9] A települési önkormányzat a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 13. §-ában foglaltakkal összhangban gondoskodik a gyalogos-átkelőhelyek megvilágításáról, a gyalogos-átkelőhelyhez vezető szilárd burkolatú járda, a gyalogút, a kerékpárút és gyalogos-felállóhely, a kiemelt szegélyen vagy padkán kívüli gyalogos korlátok, az egyéb gyalogos biztonsági berendezések létesítéséről és fenntartásáról, valamint a gyalogosok részére szolgáló vasúti gyalogos-átkelőhely és a kizárólag kerékpárosok közlekedését szolgáló vasúti átjárók létesítéséről.
 
 (6) Autóbusz-(trolibusz-)megállóhely létesítése, áthelyezése esetén öböl, járdasziget és járdacsatlakozás építése a létesítés, illetve áthelyezés kérelmezőjének a kötelessége.
 
@@ -57,7 +57,7 @@ d) a vasúti átjáró biztosítási módját megváltoztatják,
 [^6]: A 2. § a 2/1999. (I. 18.) KHVM rendelet 3. §-ával megállapított szöveg.
 [^7]: Lásd a közúti közlekedésről szóló 1988. évi I. törvény 33 §-ának (1) bekezdését, valamint a helyi önkormányzatokról szóló 1990. évi LXV. törvény 63/A. §-ának g) pontját.
 [^8]: A 2. § (3) bekezdése a 4/2008. (VI. 3.) KHEM rendelet 2. §-ával megállapított szöveg. E módosító rendelet 7. § (3) bekezdése alapján a rendelkezést a 2008. június 15. napját követően induló ügyekben kell alkalmazni.
-[^9]: A 2. § (5) bekezdése az 55/2011. (X. 24.) NFM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^9]: A 2. § (5) bekezdése az 55/2011. (X. 24.) NFM rendelet 1. § (1) bekezdésével megállapított, a 12/2014. (III. 14.) NFM rendelet 1. § a) pontja szerint módosított szöveg.
 [^10]: A 2. § (8) bekezdése a 48/2009. (IX. 30.) KHEM rendelet 4. § (2) bekezdése, az 55/2009. (X. 14.) KHEM rendelet 8. § a) pontja szerint módosított szöveg.
 [^11]: A 2. § (8) bekezdés d) pontja az 55/2011. (X. 24.) NFM rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^12]: A 2. § (8) bekezdés f) pontját az 55/2011. (X. 24.) NFM rendelet 1. § (3) bekezdése iktatta be.
