@@ -8,6 +8,6 @@ c) amelynek a garanciaszerződés megkötésének időpontjában lejárt esedék
 
 (2) Az Eximbank a garanciavállalásról szóló döntést megelőzően saját belső nyilvántartása, közhiteles nyilvántartás, vagy az ügyfél nyilatkozata alapján köteles ellenőrizni a (1) bekezdésben meghatározottak teljesülését.
 
-(3)[^4] Az Eximbank áruhoz vagy szolgáltatáshoz korábban nyújtott beszállítói hitelgarancia, exportcélú befektetési hitelgarancia vagy importhitel garancia szerződések összegét az ugyanehhez az áruhoz vagy szolgáltatáshoz később nyújtott exporthitel garancia szerződés értékéből levonja.
+(3)[^7] Az Eximbank áruhoz vagy szolgáltatáshoz korábban nyújtott beszállítói hitelgarancia, exportcélú befektetési hitelgarancia vagy importhitel garancia szerződések összegét az ugyanehhez az áruhoz vagy szolgáltatáshoz később nyújtott exporthitel garancia szerződés értékéből levonja.
 
-[^4]: A 3. § (3) bekezdése a 184/2013. (VI. 7.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^7]: A 3. § (3) bekezdése a 184/2013. (VI. 7.) Korm. rendelet 2. §-ával megállapított szöveg.
