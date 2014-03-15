@@ -42,7 +42,7 @@ i)
 
 a) az adott tevékenység kockázati tényezőiről a játékosokat hírközlő eszközön és rendszeren keresztül megfelelően tájékoztatja,
 
-b) a játékosok személyes adatai, valamint egyéb, személyhez fűződő jogai védelmét biztosítja,
+b) a játékosok személyes adatai, valamint egyéb, személyiségi jogai védelmét biztosítja,
 
 c) a véletlen elemeket az elektronikus játékrendszerek auditálása alapján biztosítja.
 
