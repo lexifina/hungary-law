@@ -1,8 +1,8 @@
 1. § (1) E törvény hatálybalépésével egyidejűleg hatályát veszti a Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) 74/G. §-a, azzal hogy azok a szervezetek, amelyek közalapítvány létrehozására e törvény hatálybalépése előtt a Ptk. 74/G. §-a alapján jogosultak voltak, alapítványt e törvény hatálybalépését követően sem alapíthatnak és ahhoz nem csatlakozhatnak.
 
-(2) Az e törvény hatálybalépése előtt nyilvántartásba vett közalapítvány (a továbbiakban: közalapítvány) működésére a Ptk. alapítványra vonatkozó rendelkezéseit az alábbi eltéréssel kell alkalmazni:
+(2) Az e törvény hatálybalépése előtt nyilvántartásba vett közalapítvány (a továbbiakban: közalapítvány) működésére a Polgári Törvénykönyv alapítványra vonatkozó rendelkezéseit az alábbi eltéréssel kell alkalmazni:
 
-a) A közalapítvány csak olyan gazdálkodó szervezetben vehet részt, amelyben legalább többségi befolyással (Ptk. 685/B. §) rendelkezik, és amelyben felelőssége nem haladja meg vagyoni hozzájárulása mértékét. Közalapítvány által létrehozott gazdálkodó szervezet további gazdálkodó szervezetet nem alapíthat, és gazdálkodó szervezetben részesedést nem szerezhet.
+a) A közalapítvány csak olyan gazdálkodó szervezetben vehet részt, amelyben legalább többségi befolyással (Polgári Törvénykönyv 8:2. §) rendelkezik, és amelyben felelőssége nem haladja meg vagyoni hozzájárulása mértékét. Közalapítvány által létrehozott gazdálkodó szervezet további gazdálkodó szervezetet nem alapíthat, és gazdálkodó szervezetben részesedést nem szerezhet.
 
 b) A közalapítvány alapítványt nem hozhat létre, ahhoz nem csatlakozhat, azzal nem egyesíthető, a közalapítvány alapítvány alapító jogainak gyakorlására nem jelölhető ki.
 
@@ -14,7 +14,7 @@ c) A közalapítvány pályázat kiírása nélkül évente a vagyona 5%-ának m
 
 d)
 
-e) A közalapítvány alapító okiratban megjelölt kezelő szerve (szervezete) a közalapítvány működéséről az alapítónak évente beszámolni és gazdálkodásának legfontosabb adatait nyilvánosságra hozni köteles.
+e) A közalapítvány alapító okiratban megjelölt ügyvezető szerve a közalapítvány működéséről az alapítónak évente beszámolni és gazdálkodásának legfontosabb adatait nyilvánosságra hozni köteles.
 
 f) A közalapítvány alapító okiratának módosítását (módosítással egybeszerkesztett szövegét) a Magyar Közlönyben, illetve az önkormányzat hivatalos lapjában – ennek hiányában a helyben szokásos módon – közzé kell tenni.
 
