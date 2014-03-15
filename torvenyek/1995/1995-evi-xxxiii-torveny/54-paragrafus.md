@@ -30,7 +30,9 @@ j) a fizetett fenntartási díj összegét és a fizetés időpontját,
 
 k) a szabadalmi oltalom megszűnését, annak jogcímét és időpontját, valamint a szabadalom korlátozását,
 
-l) a hasznosítási és a kényszerengedélyeket.
+l) a hasznosítási és a kényszerengedélyeket,
+
+m) azt, ha a szabadalmi igény vagy a szabadalmi oltalomból eredő jogok bizalmi vagyonkezelés alapján fennálló kezelt vagyonba tartoznak.
 
 (3) A szabadalmi lajstrom a bejegyzett jogok és tények fennállását hitelesen tanúsítja. Az ellenkező bizonyításáig a szabadalmi lajstromba bejegyzett jogokról és tényekről vélelmezni kell, hogy azok fennállnak. A szabadalmi lajstromban feltüntetett adatokkal szemben a bizonyítás azt terheli, aki vitatja a helyességüket vagy a valósággal való egyezőségüket.
 

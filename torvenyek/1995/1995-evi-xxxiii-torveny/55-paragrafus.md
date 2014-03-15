@@ -10,4 +10,6 @@
 
 (3) Nem teljesíthető a kérelem olyan okirat alapján, amely alaki hiány miatt érvénytelen, amelynél a jogszabályban előírt hatósági jóváhagyás hiányzik, illetve ha az okirat tartalmából kitűnően az abban foglalt jognyilatkozat érvénytelen.
 
+(3a) Nem teljesíthető a jogutódlás tudomásulvétele iránti kérelem abban az esetben, ha a szabadalmi igényt vagy a szabadalmi oltalomból eredő jogokat olyan bizalmi vagyonkezelési szerződés alapján ruházták át, amelyet nem bizalmi vagyonkezelő vállalkozással mint vagyonkezelővel kötöttek, és a kérelemhez nem mellékelték a bizalmi vagyonkezelőkről és tevékenységük szabályairól szóló törvényben meghatározott bejelentési bizonyítványt is.
+
 (4) Ha a kérelemnek vagy mellékleteinek pótolható hiányosságai vannak, az ügyfelet hiánypótlásra, illetve nyilatkozattételre kell felhívni. A kérelmet el kell utasítani, ha az a hiánypótlás, illetve a nyilatkozat ellenére sem felel meg a vizsgált követelményeknek. Ha az ügyfél a felhívásra a kitűzött határidőben nem válaszol, a kérelmet visszavontnak kell tekinteni.

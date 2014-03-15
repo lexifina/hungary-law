@@ -1,8 +1,8 @@
 ## A felek jogai és kötelezettségei
 
-28. § (1) A szabadalmas a hasznosítási szerződés egész tartama alatt szavatol azért, hogy harmadik személynek nincs a szabadalomra vonatkozó olyan joga, amely a hasznosítást akadályozza vagy korlátozza. Erre a szavatosságra az eladónak a tulajdonjog átruházásáért való szavatosságára irányadó szabályokat kell alkalmazni azzal az eltéréssel, hogy a hasznosító elállás helyett a szerződést azonnali hatállyal felmondhatja.
+28. § (1) A szabadalmas a hasznosítási szerződés egész tartama alatt köteles helytállni azért, hogy harmadik személynek nincs a szabadalomra vonatkozó olyan joga, amely a hasznosítást akadályozza vagy korlátozza. Erre a helytállási kötelezettségre a Polgári Törvénykönyvnek a jogszavatosságra irányadó szabályait kell megfelelően alkalmazni azzal az eltéréssel, hogy a hasznosító elállás helyett a szerződést azonnali hatállyal felmondhatja.
 
-(2) A szabadalmas szavatol azért is, hogy a találmány műszakilag megvalósítható. Erre a szavatosságra a hibás teljesítés jogkövetkezményeire irányadó szabályokat kell alkalmazni azzal az eltéréssel, hogy a hasznosító elállás helyett a szerződést azonnali hatállyal felmondhatja.
+(2) A szabadalmas köteles helytállni azért is, hogy a találmány műszakilag megvalósítható. Erre a helytállási kötelezettségre a Polgári Törvénykönyvnek a kellékszavatosságra irányadó szabályait kell megfelelően alkalmazni azzal az eltéréssel, hogy kellékszavatossági jogként a hasznosító a szerződés azonnali hatállyal való felmondására jogosult. A hasznosító a találmány műszaki megvalósíthatatlanságából eredő kárának megtérítését is követelheti a szerződésszegésért való felelősség szabályai szerint.
 
 (3) A hasznosítási szerződés minden időbeli és területi korlátozás nélkül minden igénypontra, a hasznosítás minden módjára és mértékére kiterjed.
 
