@@ -1,3 +1,3 @@
-## 33–39. §[^3]
+## 33–39. §[^7]
 
-[^3]: A 33–39. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 33–39. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

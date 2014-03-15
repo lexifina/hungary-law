@@ -2,21 +2,21 @@
 
 (2) Pénzügyi biztosítékként a visszavonhatatlan vagy a kizárólag olyan visszavonható pénzügyi biztosíték fogadható el, amely a visszavonás lehetőségét az engedélyező vámszerv, mint kedvezményezett jóváhagyásához is köti. A pénzügyi biztosíték visszavonása akkor hagyható jóvá, ha a fémkereskedőnek nincs a fémkereskedelmi hatóság felé fennálló tartozása. A pénzügyi biztosíték érvényességének lejártát legalább 60 nappal megelőzően, az érvényesség lejártának napját követő naptól érvényes újabb pénzügyi biztosítékot kell az engedélyező vámszervhez benyújtani.
 
-(3) Pénzügyi biztosítékként olyan bankgarancia fogadható el, amely
+(3)[^1] Pénzügyi biztosítékként olyan garanciaszerződés fogadható el, amely
 
 a) az engedélyező vámszerv, mint kedvezményezett által kiadott határozatban előírt összegre szól és meghatározott határnapig érvényes;
 
-b) eredeti bankgarancia, és amelyben a garanciát vállaló hitelintézet arra vállal kötelezettséget, hogy a Fémtv. 8. § (3) bekezdése szerinti esetekben, a kedvezményezett igénybejelentése alapján, feltétel nélkül – a banki forgalom szabályozására vonatkozó előírások szerint, de legfeljebb 3 banki napon belül – teljesít;
+b)[^2] eredeti garanciaszerződés, és amelyben a garanciát vállaló hitelintézet arra vállal kötelezettséget, hogy a Fémtv. 8. § (3) bekezdése szerinti esetekben, a kedvezményezett igénybejelentése alapján, feltétel nélkül – a banki forgalom szabályozására vonatkozó előírások szerint, de legfeljebb 3 banki napon belül – teljesít;
 
 c) a fizetési igény bejelentésére az engedélyező vámszervet kizárólagos kedvezményezettként jelöli meg;
 
 d) visszavonhatatlan vagy kizárólag a kedvezményezett jóváhagyásával visszavonható.
 
-(4)[^1] Nem fogadható el a bankgarancia, ha a bankgaranciát nyújtó hitelintézettel szemben a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény 189. §-a szerinti kivételes intézkedésre kerül sor.
+(4)[^3] Nem fogadható el a garanciaszerződés, ha a garanciát vállaló hitelintézettel szemben a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény 189. §-a szerinti kivételes intézkedésre kerül sor.
 
-(5) A bankgaranciának tartalmazni kell:
+(5)[^4] A garanciaszerződésnek tartalmazni kell:
 
-a) a bankgaranciát nyújtó hitelintézet megnevezését, bankszámlaszámát;
+a)[^5] a garanciát vállaló hitelintézet megnevezését, bankszámlaszámát;
 
 b) a megbízó nevét, címét, bankszámlaszámát, adószámát;
 
@@ -36,4 +36,8 @@ e) a (3) bekezdés b), c) és d) pontjában foglalt kötelezettségvállalást.
 
 (10) Amennyiben a tevékenységi biztosíték csökkentésének feltételei már nem állnak fenn, az engedélyező hatóság hivatalból megállapítja az e rendelet 8. § (1) bekezdése szerinti tevékenységi biztosíték összegét és felszólítja a fémkereskedőt a tevékenységi biztosíték összegének 10 napon belüli kiegészítésére.
 
-[^1]: A 9. § (4) bekezdése az 537/2013. (XII. 30.) Korm. rendelet 81. §-a szerint módosított szöveg.
+[^1]: A 9. § (3) bekezdése a 80/2014. (III. 14.) Korm. rendelet 36. § a) pontja szerint módosított szöveg.
+[^2]: A 9. § (3) bekezdés b) pontja a 80/2014. (III. 14.) Korm. rendelet 36. § a) pontja szerint módosított szöveg.
+[^3]: A 9. § (4) bekezdése az 537/2013. (XII. 30.) Korm. rendelet 81. §-a, a 80/2014. (III. 14.) Korm. rendelet 36. § b)–c) pontja szerint módosított szöveg.
+[^4]: A 9. § (5) bekezdés nyitó szövegrésze a 80/2014. (III. 14.) Korm. rendelet 36. § d) pontja szerint módosított szöveg.
+[^5]: A 9. § (5) bekezdés a) pontja a 80/2014. (III. 14.) Korm. rendelet 36. § c) pontja szerint módosított szöveg.
