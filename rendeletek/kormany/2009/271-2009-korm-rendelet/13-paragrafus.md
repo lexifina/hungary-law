@@ -12,6 +12,6 @@
 
 (6) Az utas a személyszállítás (fel- és leszállás, várakozás, utazás) során tartózkodni köteles a közlekedés biztonságát, a közlekedési eszközök, az utaskiszolgáló létesítmények és berendezések épségét, az utastársak kényelmét és nyugalmát zavaró magatartástól.
 
-(7)[^23]
+(7)[^25]
 
-[^23]: A 13. § (7) bekezdését a 328/2013. (IX. 3.) Korm. rendelet 17. § c) pontja hatályon kívül helyezte.
+[^25]: A 13. § (7) bekezdését a 328/2013. (IX. 3.) Korm. rendelet 17. § c) pontja hatályon kívül helyezte.

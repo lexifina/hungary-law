@@ -1,4 +1,4 @@
-## 14. §[^24]
+## 14. §[^26]
 
 ## Eltérő minőségű szolgáltatás
 
@@ -8,4 +8,4 @@
 
 (3) Ha az utas az eltérő minőségű szolgáltatást nem fogadja el és a szerződéstől eláll, a vasúti társaság a menetdíjat visszafizeti, továbbá a lemondás tényéről és okáról igazolást ad.
 
-[^24]: A 14. §-t és az azt megelőző alcím címét a 328/2013. (IX. 3.) Korm. rendelet 17. § d) pontja hatályon kívül helyezte.
+[^26]: A 14. §-t és az azt megelőző alcím címét a 328/2013. (IX. 3.) Korm. rendelet 17. § d) pontja hatályon kívül helyezte.

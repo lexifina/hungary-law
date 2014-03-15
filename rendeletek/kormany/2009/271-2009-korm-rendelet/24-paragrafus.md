@@ -8,13 +8,13 @@
 
 (2) A 25. § 2013. január 1-jén lép hatályba.
 
-(3)[^31]
+(3)[^33]
 
-(4)[^32] E rendelet
+(4)[^34] E rendelet
 
 a) 24. § (3) bekezdése a rendelet hatálybalépését követő napon,
 
-b)[^33]
+b)[^35]
 
 c) 26. § (2) bekezdése 2010. december 3-án,
 
@@ -26,6 +26,6 @@ f) 24. § (4) bekezdése 2014. december 4-én
 
 hatályát veszti.
 
-[^31]: A 24. § (3) bekezdését a (4) bekezdés a) pontja hatályon kívül helyezte.
-[^32]: A 24. § (4) bekezdését ugyanezen bekezdés f) pontja hatályon kívül helyezi 2014. december 4. napjával.
-[^33]: A 24. § (4) bekezdés b) pontját a 328/2013. (IX. 3.) Korm. rendelet 17. § e) pontja hatályon kívül helyezte.
+[^33]: A 24. § (3) bekezdését a (4) bekezdés a) pontja hatályon kívül helyezte.
+[^34]: A 24. § (4) bekezdését ugyanezen bekezdés f) pontja hatályon kívül helyezi 2014. december 4. napjával.
+[^35]: A 24. § (4) bekezdés b) pontját a 328/2013. (IX. 3.) Korm. rendelet 17. § e) pontja hatályon kívül helyezte.

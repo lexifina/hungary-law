@@ -10,6 +10,6 @@
 
 (5) A menetjegyek visszaváltásával és a visszatérítésekkel kapcsolatos szabályokat a vasúti társaság az üzletszabályzatában határozza meg.
 
-(6)[^28] Az elektronikus jegy esetében az (1) és (2) bekezdés szerinti visszaváltásra vagy a menetdíj-különbözet (3) bekezdés szerinti visszatérítésére nincs lehetőség.
+(6)[^30] Az elektronikus jegy esetében az (1) és (2) bekezdés szerinti visszaváltásra vagy a menetdíj-különbözet (3) bekezdés szerinti visszatérítésére nincs lehetőség.
 
-[^28]: A 18. § (6) bekezdését a 328/2013. (IX. 3.) Korm. rendelet 14. §-a iktatta be.
+[^30]: A 18. § (6) bekezdését a 328/2013. (IX. 3.) Korm. rendelet 14. §-a iktatta be.
