@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-123-20-
 | 2010-01-01 | 2007-123-20-22.4 | 123/2007. (V. 31.) Korm. rendelet |
 | 2011-01-01 | 2007-123-20-22.5 | 289/2010. (XII. 21.) Korm. rendelet |
 | 2013-02-01 | 2007-123-20-22.6 | 355/2012. (XII. 13.) Korm. rendelet |
+| 2014-03-15 | 2007-123-20-22.7 | 355/2012. (XII. 13.) Korm. rendelet |

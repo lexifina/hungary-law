@@ -8,7 +8,7 @@
 
 a)[^2]
 
-b)[^3] a gazdasági társaságokról szóló törvény hatálya alá nem tartozó felnőttképzési intézmény esetén a nyilvántartására illetékes hatóság által kiállított, az igénylés benyújtását megelőző 30 napnál nem régebbi eredeti vagy hiteles másolati példányú igazolást arra vonatkozóan, hogy az intézmény a nyilvántartásban szerepel, egyéb felnőttképzési intézmény esetében a létesítő okirat hiteles másolatát;
+b)[^3] nem gazdasági társasági formában működő felnőttképzési intézmény esetén a nyilvántartására illetékes hatóság által kiállított, az igénylés benyújtását megelőző 30 napnál nem régebbi eredeti vagy hiteles másolati példányú igazolást arra vonatkozóan, hogy az intézmény a nyilvántartásban szerepel, egyéb felnőttképzési intézmény esetében a létesítő okirat hiteles másolatát;
 
 c) a felnőttképzési intézménynek az igényléssel érintett naptári évre vonatkozó, az Fktv. 15. §-a szerinti képzési tervének cégszerűen hitelesített másolati példányát;
 
@@ -26,7 +26,7 @@ b) a (3) bekezdés c) és d) pontjában meghatározott dokumentumokat kizáróla
 
 [^1]: A 4. § (3) bekezdése a 163/2009. (VIII. 6.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
 [^2]: A 4. § (3) bekezdés a) pontját a 355/2012. (XII. 13.) Korm. rendelet 27. §-a hatályon kívül helyezte.
-[^3]: A 4. § (3) bekezdés b) pontja a 355/2012. (XII. 13.) Korm. rendelet 26. § (1) bekezdésével megállapított szöveg.
+[^3]: A 4. § (3) bekezdés b) pontja a 355/2012. (XII. 13.) Korm. rendelet 26. § (1) bekezdésével megállapított, a 80/2014. (III. 14.) Korm. rendelet 15. §-a szerint mdóosított szöveg.
 [^4]: A 4. § (3a) bekezdését a 355/2012. (XII. 13.) Korm. rendelet 26. § (2) bekezdése iktatta be.
 [^5]: A 4. § (4) bekezdése a 163/2009. (VIII. 6.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
 [^6]: A 4. § (5) bekezdését a 163/2009. (VIII. 6.) Korm. rendelet 11. § (2) bekezdése iktatta be.
