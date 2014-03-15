@@ -1,0 +1,1 @@
+31. § Ha a Ptk. hatálybalépését megelőzően a házasuló férfi a házasuló nő rendezetlen családi jogállású gyermekére a házasságkötést megelőző eljárásban apai elismerő nyilatkozatot tett, a férjet akkor lehet a gyermek apjának tekinteni, ha a házasságot a nyilatkozattételtől számított egy éven belül megkötötték.

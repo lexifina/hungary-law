@@ -1,0 +1,13 @@
+## 4. Az egyesület és az alapítvány
+
+## (A Ptk. 3:1–3:48. §-ához, 3:63–3:87. §-ához és 3:378–3:404. §-ához)
+
+11. § (1) A Ptk. hatálybalépésekor nyilvántartásba bejegyzett, illetve a 9. § (1) bekezdése szerint bejegyzés alatt álló egyesület és alapítvány a Ptk. hatálybalépését követő első létesítő okirat módosítással egyidejűleg köteles a létesítő okiratának mindazon rendelkezését felülvizsgálni és szükség szerint módosítani, amelyek nem felelnek meg a Ptk. szabályainak. Egyesület esetében nem kell módosítani az alapszabályt abból az okból, hogy az tartalmazza az egyesület alapító tagjainak nevét, és azok lakóhelyét vagy székhelyét.
+
+(2) Az egyesület és az alapítvány a létesítő okiratát a Ptk.-val összefüggésben nem köteles módosítani, ha az csak abból az okból volna szükséges, hogy abban olyan hivatkozások, utalások és elnevezések szerepelnek, amelyek a Ptk. és a létesítő okirat tartalmát érintő más törvény rendelkezéseinek már nem felelnek meg. Ha azonban a létesítő okirat egyéb okból módosul, a szervezet az ilyen változásokat is köteles azon átvezetni.
+
+(3) Az (1) bekezdés szerinti egyesület és alapítvány a létesítő okirata (1) bekezdés szerinti módosításának bírósági nyilvántartásba vételét, legkésőbb azonban 2016. március 15. napját követően csak a Ptk. rendelkezéseinek megfelelő létesítő okirat alapján és a Ptk. rendelkezéseinek megfelelően működhet.
+
+(4) A létesítő okirat – a Ptk. rendelkezéseinek megfelelő – módosítását változásbejegyzési kérelemként kell benyújtani a bírósághoz.
+
+(5) A (3) bekezdés szerinti időpontig az alapítvány, illetve az egyesület a Polgári Törvénykönyvről szóló 1959. évi IV. törvény alapján működik. Nincs azonban akadálya annak, hogy az (1) bekezdés szerinti egyesület és alapítvány a Ptk. rendelkezéseinek alkalmazásával módosítsa létesítő okiratát, erre azonban a (4) bekezdés szerinti változásbejegyzési kérelemben utalnia kell.
