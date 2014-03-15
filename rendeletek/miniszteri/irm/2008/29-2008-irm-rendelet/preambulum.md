@@ -1,1 +1,0 @@
-Az anyakönyvekről, a házasságkötési eljárásról és a névviselésről szóló 1982. évi 17. törvényerejű rendelet 42/A. § (1) és (3) bekezdésében foglalt felhatalmazás alapján, az igazságügyi és rendészeti miniszter feladat- és hatásköréről szóló 164/2006. (VII. 28.) Korm. rendelet 1. § c) pontjában foglalt feladatkörömben a következőket rendelem:
