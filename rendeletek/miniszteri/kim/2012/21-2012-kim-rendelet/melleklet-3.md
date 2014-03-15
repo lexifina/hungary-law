@@ -1,18 +1,20 @@
-| A gazdasági szervezetek gazdálkodási forma szerinti osztályozása (GFO) |
+## A gazdasági szervezetek gazdálkodási forma szerinti osztályozása (GFO)
 
-| GFO'2012 kód | GFO'2012 megnevezés |
+| GFO'2014 kód | GFO'2014 megnevezés |
 
 | 1, 2 |  |  | Vállalkozás |
 
 | 1 |  |  | Jogi személyiségű vállalkozás |
 
-|  | 11 |  | Jogi személyiségű gazdasági társaság |
+|  | 11 |  | Gazdasági társaság |
 
 |  |  | 113 | Korlátolt felelősségű társaság |
 
 |  |  | 114 | Részvénytársaság |
 
-|  |  | 115 | Európai részvénytársaság (SE) |
+|  |  | 116 | Közkereseti társaság |
+
+|  |  | 117 | Betéti társaság |
 
 |  | 12 |  | Szövetkezet |
 
@@ -22,9 +24,7 @@
 
 |  |  | 123 | Iskola szövetkezet |
 
-|  |  | 124 | Mezőgazdasági szövetkezet |
-
-|  |  | 125 | Európai szövetkezet (SCE) |
+|  |  | 124 | Agrárgazdasági szövetkezet |
 
 |  |  | 126 | Biztosító szövetkezet |
 
@@ -36,9 +36,9 @@
 
 |  |  | 131 | Ügyvédi iroda |
 
-|  |  | 133 | Vízitársulat |
+|  |  | 132 | Szabadalmi ügyvivő iroda |
 
-|  |  | 134 | Víziközmű-társulat |
+|  |  | 133 | Vízitársulat |
 
 |  |  | 135 | Erdőbirtokossági társulat |
 
@@ -46,27 +46,29 @@
 
 |  |  | 137 | Közjegyzői iroda |
 
-|  |  | 138 | Magyarországi székhelyű európai gazdasági egyesülés |
+|  | 14 |  | Jogi személyiségű európai gazdasági vállalkozások |
 
-|  |  | 139 | Egyéb, máshova nem sorolt jogi személyiségű vállalkozás |
+|  |  | 141 | Európai részvénytársaság (SE) |
+
+|  |  | 142 | Európai szövetkezet (SCE) |
+
+|  |  | 143 | Magyarországi székhelyű európai gazdasági egyesülés |
+
+|  |  | 144 | Európai területi együttműködési csoportosulás (EGTC) |
 
 | 2 |  |  | Jogi személyiség nélküli vállalkozás |
 
-|  | 21 |  | Jogi személyiség nélküli gazdasági társaság |
+|  | 21 |  | Jogi személyiség nélküli gazdálkodó szervezet |
 
-|  |  | 211 | Közkereseti társaság |
+|  |  | 214 | Víziközmű-társulat |
 
-|  |  | 212 | Betéti társaság |
+|  | 22 |  | Gazdasági tevékenységet végző jogalany |
 
-|  |  | 213 | Egyéni cég |
-
-|  | 22 |  | Jogi személyiség nélküli egyéb vállalkozás |
-
-|  |  | 226 | Külföldi székhelyű vállalkozás fióktelepe |
+|  |  | 226 | Külföldi vállalkozás magyarországi fióktelepe |
 
 |  |  | 227 | Külföldi székhelyű európai gazdasági egyesülés magyarországi telephelye |
 
-|  |  | 229 | Máshova nem sorolt, jogi személyiség nélküli vállalkozás |
+|  |  | 228 | Egyéni cég |
 
 |  | 23 |  | Önálló vállalkozó |
 
@@ -92,9 +94,7 @@
 
 |  |  | 325 | Önkormányzati hivatal (költségvetési szerv) |
 
-|  |  | 326 | Többcélú kistérségi társulás |
-
-|  |  | 327 | Helyi önkormányzatok jogi személyiségű társulása |
+|  |  | 327 | Helyi önkormányzatok társulása |
 
 |  |  | 328 | Területfejlesztési önkormányzati társulás |
 
@@ -110,17 +110,11 @@
 
 |  |  | 352 | Országos nemzetiségi önkormányzati költségvetési szerv |
 
-|  |  | 353 | Országos nemzetiségi önkormányzatok jogi személyiségű társulása |
+|  |  | 353 | Országos nemzetiségi önkormányzatok társulása |
 
 |  | 36 |  | Területfejlesztési tanácsok |
 
-|  |  | 361 | Regionális fejlesztési tanács |
-
 |  |  | 362 | Térségi fejlesztési tanács |
-
-|  |  | 363 | Megyei fejlesztési tanács |
-
-|  |  | 365 | Kistérségi fejlesztési tanács |
 
 |  | 37 |  | Helyi nemzetiségi önkormányzati költségvetési irányító és költségvetési szervek |
 
@@ -128,15 +122,15 @@
 
 |  |  | 372 | Helyi nemzetiségi önkormányzati költségvetési szerv |
 
-|  |  | 373 | Helyi nemzetiségi önkormányzatok jogi személyiséggel rendelkező társulása |
+|  |  | 373 | Helyi nemzetiségi önkormányzatok társulása |
 
 |  | 38 |  | Költségvetési rend szerint gazdálkodó egyéb szervek |
 
 |  |  | 381 | Költségvetési rend szerint gazdálkodó, központi költségvetési körbe tartozó szerv |
 
-|  |  | 382 | Költségvetési rend szerint gazdálkodó, önkormányzati költségvetési körbe tartozó szerv |
+|  |  | 382 | Költségvetési rend szerint gazdálkodó, önkormányzati költségvetési körbe tar tozó szerv |
 
-|  | 383 | Állami felsőoktatási intézmény által fenntartott közoktatási, köznevelési intézmény |
+|  |  | 383 | Állami felsőoktatási intézmény által fenntartott közoktatási, köznevelési intézmény |
 
 |  | 39 |  | Költségvetési technikai kódok |
 
@@ -146,33 +140,43 @@
 
 |  |  | 393 | Elkülönített állami pénzalap |
 
-|  |  | 394 | Nyugdíjbiztosítási alap |
+|  |  | 394 | Nyugdíjbiztosítási Alap |
 
-|  |  | 395 | Egészségbiztosítási alap |
+|  |  | 395 | Egészségbiztosítási Alap |
 
-|  |  | 396 | Nemzeti együttműködési Alap |
+|  |  | 396 | Nemzeti Együttműködési Alap |
 
 |  |  | 397 | Járási hivatalok |
 
-| 5 |  |  | Jogi személyiségű nonprofit szervezet |
-
 | 5, 6 |  |  | Nonprofit és egyéb nem nyereségérdekelt szervezet |
 
-|  | 51-59, 62, 69Statisztikai nonprofit szervezetek |
+|  | 51-59, 69 | Statisztikai nonprofit szervezetek |
 
-|  | 51-53 |  | Egyesület |
+| 5 |  |  | Jogi személyiségű nonprofit szervezet |
 
-|  | 51 |  | Párt |
+|  | 51-52 |  | Egyesület |
+
+|  | 51 |  | Párt, érdekképviselet, szövetség, az egyesület jogi személyiséggel rendelkező szervezeti egysége |
 
 |  |  | 511 | Párt |
 
-|  | 52 |  | Szövetség, és más egyesületi formák |
+|  |  | 512 | Szakszervezet |
+
+|  |  | 513 | Egyéb munkavállalói érdekképviselet |
+
+|  |  | 514 | Munkáltatói, tulajdonosi érdekképviselet |
+
+|  |  | 515 | Országos sportági szakszövetség |
+
+|  |  | 516 | Egyéb sportszövetség |
+
+|  |  | 517 | Egyéb szövetség |
+
+|  |  | 519 | Egyesület jogi személyiséggel rendelkező szervezeti egysége |
+
+|  | 52 |  | Az egyesület egyéb formái |
 
 |  |  | 521 | Sportegyesület |
-
-|  |  | 522 | Szövetség (kivéve sportszövetség) |
-
-|  |  | 523 | Sportszövetség, országos sportági szakszövetség |
 
 |  |  | 524 | Kölcsönös biztosító egyesület |
 
@@ -180,15 +184,9 @@
 
 |  |  | 526 | Polgárőr egyesület |
 
-|  |  | 527 | Munkáltatói, tulajdonosi érdekképviselet |
+|  |  | 528 | Nemzetiségi egyesület |
 
 |  |  | 529 | Egyéb egyesület |
-
-|  | 53 |  | Szakszervezet, munkavállalói érdekképviselet |
-
-|  |  | 531 | Szakszervezet |
-
-|  |  | 532 | Egyéb munkavállalói érdekképviselet |
 
 |  | 54 |  | Köztestület |
 
@@ -206,13 +204,17 @@
 
 |  |  | 559 | Egyházi szervezet technikai kód |
 
-|  | 56 |  | Alapítvány |
+|  | 56 |  | Alapítvány, jogi személyiségű intézménye és szervezeti egysége |
 
 |  |  | 561 | Közalapítvány |
 
 |  |  | 562 | Közalapítvány önálló intézménye |
 
 |  |  | 563 | Egyéb alapítvány önálló intézménye |
+
+|  |  | 564 | Pártalapítvány |
+
+|  |  | 565 | Alapítvány jogi személyiséggel rendelkező szervezeti egysége |
 
 |  |  | 569 | Egyéb alapítvány |
 
@@ -223,6 +225,10 @@
 |  |  | 573 | Nonprofit részvénytársaság |
 
 |  |  | 574 | Európai kutatási infrastruktúráért felelős konzorcium (ERIC) |
+
+|  |  | 575 | Nonprofit közkereseti társaság |
+
+|  |  | 576 | Nonprofit betéti társaság |
 
 |  | 58 |  | Pénztárszervezet |
 
@@ -238,21 +244,13 @@
 
 |  |  | 593 | Lakásszövetkezet |
 
-|  |  | 594 | Nonprofit szociális szövetkezet |
-
 |  |  | 599 | Egyéb, jogi személyiségű nonprofit szervezet |
 
 | 6 |  |  | Jogi személyiség nélküli nonprofit szervezet |
 
 |  | 61 |  | Jogi személyiség nélküli nonprofit szervezet |
 
-|  |  | 611 | Külföldi székhelyű vállalkozás kereskedelmi képviselete |
-
-|  | 62 |  | Jogi személyiség nélküli nonprofit gazdasági társaság |
-
-|  |  | 621 | Nonprofit közkereseti társaság |
-
-|  |  | 622 | Nonprofit betéti társaság |
+|  |  | 611 | Külföldiek magyarországi közvetlen kereskedelmi képviselete |
 
 |  | 69 |  | Egyéb, jogi személyiség nélküli nonprofit szervezet |
 
@@ -262,7 +260,7 @@
 
 |  |  | 699 | Egyéb, jogi személyiség nélküli nonprofit szervezet |
 
-| 7, 8, 9 |  |  | Átmeneti és technikai kódok |
+| 7, 8, 9 | Átmeneti és technikai kódok |
 
 | 7 |  |  | Egyéb gazdasági szervezet |
 
@@ -279,8 +277,6 @@
 |  |  | 731 | Gazdasági munkaközösség |
 
 |  |  | 732 | Közös vállalat |
-
-|  |  | 733 | Oktatói munkaközösség |
 
 |  |  | 734 | Polgári jogi társaság |
 
@@ -306,7 +302,7 @@
 
 |  |  | 915 | Befektetési alap |
 
-|  |  | 916 | Országos betétbiztosítási alap |
+|  |  | 916 | Országos Betétbiztosítási Alap |
 
 |  |  | 918 | Pénztárak garanciaalapja |
 
@@ -320,17 +316,13 @@
 
 |  |  | 931 | Egyéb adóalany |
 
+|  |  | 932 | Adószámmal rendelkező külföldi vállalkozás |
+
 |  | 94 |  | Külföldi diplomáciai, konzuli testület, egyéb területen kívüli szervezet |
 
 |  |  | 941 | Külföldi diplomáciai, konzuli testület |
 
 |  |  | 942 | Egyéb területen kívüli szervezet |
-
-|  | 95 | Önkormányzatok jogi személyiség nélküli társulása, európai területi együttműködési csoportosulás |
-
-|  |  | 951 | Önkormányzatok jogi személyiség nélküli társulása |
-
-|  |  | 952 | Európai területi együttműködési csoportosulás (EGTC) |
 
 |  | 96 |  | Háztartás |
 
