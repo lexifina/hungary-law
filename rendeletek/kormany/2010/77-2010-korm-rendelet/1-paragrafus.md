@@ -16,7 +16,7 @@ c) a területrendezési tervezési szakterületen végzett kutatói tevékenysé
 
 d) felsőoktatási intézményben a területi tervezéshez, a tájtervezéshez, a településtervezéshez vagy az urbanisztikához kapcsolódó tárgy oktatása, vagy
 
-e) a településtervezési és az építészeti-műszaki tervezési, valamint az építésügyi műszaki szakértői jogosultság szabályairól szóló kormányrendelet szerinti, településtervezési szakterületeken végzett tervezési tevékenység.
+e)[^1] az építésügyi és az építésüggyel összefüggő szakmagyakorlási tevékenységekről szóló kormányrendelet szerinti, településtervezési szakterületeken végzett tervezési tevékenység.
 
 (4) A területrendezési tervezési tevékenység folytatásához szükséges szakmai gyakorlat időtartama
 
@@ -37,3 +37,5 @@ c) a (4) bekezdés c) pontja esetén legalább 2 évet
 ## a (3) bekezdés a) vagy b) pontjában meghatározott szakmai gyakorlattal kell teljesíteni.
 
 (6) Szakmai gyakorlatként az egyetemi végzettség és a részlegesen szakirányú végzettség megszerzését követően teljesített szakmai gyakorlat időtartamát kell figyelembe venni.
+
+[^1]: Az 1. § (3) bekezdés e) pontja a 62/2014. (III. 6.) Korm. rendelet 15. §-ával megállapított szöveg.

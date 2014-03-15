@@ -1,6 +1,6 @@
 ## 2. § A Kormány a területrendezési tervezési tevékenység felügyeletét ellátó hatóságként a Budapesti Építész Kamarát (a továbbiakban: kamara) jelöli ki.
 
-3. § (1)[^1] A kamarának tett bejelentésnek tartalmaznia kell az érintett személy:
+3. § (1)[^2] A kamarának tett bejelentésnek tartalmaznia kell az érintett személy:
 
 a) természetes személyazonosító adatait,
 
@@ -22,4 +22,4 @@ g) a szakmai gyakorlatot bizonyító (2)–(4) bekezdés szerinti igazolását.
 
 (4) Az igazolás tartalmazza a kérelmező nevét, lakcímét, a munkakör részletes leírását, referencialistát az 1. § (3) bekezdése szerinti tevékenységek leírásával és időbeli meghatározásával, valamint a szakmai gyakorlat időtartamát.
 
-[^1]: A 3. § (1) bekezdése a 203/2013. (VI. 14.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^2]: A 3. § (1) bekezdése a 203/2013. (VI. 14.) Korm. rendelet 21. §-ával megállapított szöveg.
