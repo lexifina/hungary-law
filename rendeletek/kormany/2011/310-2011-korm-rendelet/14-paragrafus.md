@@ -10,7 +10,7 @@ a) pénzügyi intézménytől származó, legfeljebb az eljárást megindító f
 
 b) saját vagy jogelődje számviteli jogszabályok szerinti beszámolójának – vagy annak meghatározott részének – benyújtásával (ha a gazdasági szereplő letelepedése szerinti ország joga előírja közzétételét); amennyiben az ajánlatkérő által kért beszámoló a céginformációs szolgálat honlapján megismerhető, a beszámoló adatait az ajánlatkérő ellenőrzi, a céginformációs szolgálat honlapján megtalálható beszámoló csatolása az ajánlatban, illetve részvételi jelentkezésben nem szükséges;
 
-c)[^8] az előző legfeljebb három üzleti évre vonatkozóan kérhető, teljes – általános forgalmi adó nélkül számított – árbevételéről, illetve ugyanezen időszakban a közbeszerzés tárgyából származó – általános forgalmi adó nélkül számított – árbevételéről szóló nyilatkozatával, attól függően, hogy az ajánlattevő vagy részvételre jelentkező mikor jött létre, illetve mikor kezdte meg tevékenységét, amennyiben ezek az adatok rendelkezésre állnak;
+c)[^11] az előző legfeljebb három üzleti évre vonatkozóan kérhető, teljes – általános forgalmi adó nélkül számított – árbevételéről, illetve ugyanezen időszakban a közbeszerzés tárgyából származó – általános forgalmi adó nélkül számított – árbevételéről szóló nyilatkozatával, attól függően, hogy az ajánlattevő vagy részvételre jelentkező mikor jött létre, illetve mikor kezdte meg tevékenységét, amennyiben ezek az adatok rendelkezésre állnak;
 
 d) az eljárást megindító felhívásban meghatározott, szakmai felelősségbiztosításának fennállásáról szóló igazolással.
 
@@ -20,7 +20,7 @@ d) az eljárást megindító felhívásban meghatározott, szakmai felelősségb
 
 (4) Az (1) bekezdés c) pontja alkalmazásában az ajánlatkérő jogosult kizárólag a teljes árbevételről, vagy kizárólag a közbeszerzés tárgya szerinti árbevételről vagy mindkettőről szóló nyilatkozat benyújtását előírni.
 
-(4a)[^9] Építési beruházás közbeszerzése esetén, ha a Magyar Kereskedelmi és Iparkamara vállalkozó kivitelezői névjegyzékében megjelenített (1) bekezdés előírásainak megfelelő dokumentumok bizonyítják, hogy a gazdasági szereplő megfelel az ajánlatkérő által meghatározott követelményeknek, a követelmény és a megfelelést igazoló dokumentum helyének pontos megjelölését is köteles elfogadni az ajánlatkérő az (1) bekezdésben meghatározott dokumentumok benyújtása helyett.
+(4a)[^12] Építési beruházás közbeszerzése esetén, ha a Magyar Kereskedelmi és Iparkamara vállalkozó kivitelezői névjegyzékében megjelenített (1) bekezdés előírásainak megfelelő dokumentumok bizonyítják, hogy a gazdasági szereplő megfelel az ajánlatkérő által meghatározott követelményeknek, a követelmény és a megfelelést igazoló dokumentum helyének pontos megjelölését is köteles elfogadni az ajánlatkérő az (1) bekezdésben meghatározott dokumentumok benyújtása helyett.
 
 (5) Azokban az esetekben, amelyekben a 18. §-ban meghatározott minősített ajánlattevők hivatalos jegyzéke bizonyítja – figyelemmel a 18. §-ban és 20. §-ban foglaltakra is –, hogy a gazdasági szereplő megfelel az adott alkalmassági követelménynek, a minősített ajánlattevők elektronikusan elérhető hivatalos jegyzékén való szereplés tényét, illetve az Európai Unió egy másik tagállamában letelepedett gazdasági szereplő által benyújtott, a letelepedési helye szerinti, az elismert ajánlattevők hivatalos listáját vezető szervezettől származó jegyzék szerinti igazolást is köteles az ajánlatkérő elfogadni az (1) bekezdésben foglalt egyéb igazolási módok helyett.
 
@@ -28,10 +28,10 @@ d) az eljárást megindító felhívásban meghatározott, szakmai felelősségb
 
 (7) Az ajánlatkérő a Kbt. Harmadik Része szerint lefolytatott eljárásban, amennyiben a Kbt. 123. §-a alapján jár el – feltéve, hogy alkalmassági követelményt írt elő az eljárásban – a Kbt. 123. § (4) bekezdésében foglaltak szerint egyéb igazolási módot is előírhat.
 
-(8)[^10] Az ajánlatkérő a Kbt. Harmadik Része szerint lefolytatott eljárásban, amennyiben a Kbt. 122. és 122/A. §-a alapján jár el, ha az árubeszerzés vagy szolgáltatás értéke nem éri el a huszonötmillió forintot vagy az építési beruházás becsült értéke nem éri el a százötvenmillió forintot és az ajánlatkérő azt az eljárást megindító felhívásban lehetővé tette, az (1) bekezdésben foglalt igazolási módok helyett elfogadhatja az ajánlattevő vagy részvételre jelentkező arra vonatkozó nyilatkozatát is, hogy megfelel az ajánlatkérő által előírt alkalmassági követelményeknek.
+(8)[^13] Az ajánlatkérő a Kbt. Harmadik Része szerint lefolytatott eljárásban, amennyiben a Kbt. 122. és 122/A. §-a alapján jár el, ha az árubeszerzés vagy szolgáltatás értéke nem éri el a huszonötmillió forintot vagy az építési beruházás becsült értéke nem éri el a százötvenmillió forintot és az ajánlatkérő azt az eljárást megindító felhívásban lehetővé tette, az (1) bekezdésben foglalt igazolási módok helyett elfogadhatja az ajánlattevő vagy részvételre jelentkező arra vonatkozó nyilatkozatát is, hogy megfelel az ajánlatkérő által előírt alkalmassági követelményeknek.
 
 (9) Az ajánlatkérő a (8) bekezdésben foglalt esetben is csak olyan alkalmassági követelményt írhat elő, amely az (1) bekezdésben foglalt dokumentumokkal igazolható, az ajánlattevő vagy részvételre jelentkező pedig – ahol az ajánlatkérő lehetővé tette – választása szerint jogosult az (1) bekezdésben foglaltak helyett nyilatkozattal igazolni alkalmasságát. Amennyiben az elbírálás során az ajánlatkérőnek kétsége merül fel a nyilatkozat valóságtartalmával kapcsolatban, a Kbt. 67. § (1) bekezdése szerinti felvilágosítás kérés keretében előírhatja a 14. § (1) bekezdése szerinti igazolás benyújtását.
 
-[^8]: A 14. § (1) bekezdés c) pontja a 238/2013. (VI. 30.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^9]: A 14. § (4a) bekezdését a 322/2012. (XI. 16.) Korm. rendelet 109. § (1) bekezdése iktatta be.
-[^10]: A 14. § (8) bekezdése a 433/2013. (XI. 18.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
+[^11]: A 14. § (1) bekezdés c) pontja a 238/2013. (VI. 30.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^12]: A 14. § (4a) bekezdését a 322/2012. (XI. 16.) Korm. rendelet 109. § (1) bekezdése iktatta be.
+[^13]: A 14. § (8) bekezdése a 433/2013. (XI. 18.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
