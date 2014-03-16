@@ -92,8 +92,12 @@ továbbá az elfogadás, illetve a módosítás időpontja,
 
 26. a földhasználati jog gyakorlása szerződéses szabályozásának ténye,
 
-27. bizalmi vagyonkezelés alapján fennálló kezelt vagyonba tartozó tulajdonjog.
+27. bizalmi vagyonkezelés alapján fennálló kezelt vagyonba tartozó tulajdonjog,
 
-(2) Az (1) bekezdés 1–14. pontjában meghatározott tények feljegyzésének elmaradása az egyébként azokhoz fűződő joghatásokat nem érinti, a Ptk.-nak a feljegyzés visszamenőleges hatályára vonatkozó rendelkezését ennek megfelelően kell alkalmazni. A 15–27. pontban meghatározott tények feljegyzésének elmaradása esetén a jogosult azokat nem érvényesítheti a jóhiszemű és ellenérték fejében szerző harmadik jogszerzővel szemben.
+27. nemzeti emlékhely,
+
+28. történelmi emlékhely.
+
+(2) Az (1) bekezdés 1–14. és 27–28. pontjaiban meghatározott tények feljegyzésének elmaradása az egyébként azokhoz fűződő joghatásokat nem érinti, a Ptk.-nak a feljegyzés visszamenőleges hatályára vonatkozó rendelkezését ennek megfelelően kell alkalmazni. A 15–26. pontokban meghatározott tények feljegyzésének elmaradása esetén a jogosult azokat nem érvényesítheti a jóhiszemű és ellenérték fejében szerző harmadik jogszerzővel szemben.
 
 (3) Tulajdonjog fenntartással történt eladás ténye jegyezhető fel az ingatlan tulajdonjogának a futamidő végén – minden további jognyilatkozat nélkül (ide nem értve a tulajdonjog bejegyzési engedélyt) – történő átszállását eredményező pénzügyi lízingbe adás esetében is.
