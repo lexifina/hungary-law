@@ -1,8 +1,8 @@
 ## [Az Áht. 49. §-ához]
 
-75. § (1)[^159] Az Áht. 49. §-a szerinti lebonyolító szervvel a fejezetet irányító szerv megállapodást köt. A megállapodásban rögzíteni kell az e rendeletben foglalt kötelezettségek megtartását biztosító feltételeket, így különösen a feladat konkrét meghatározását, a felhasználás határidejét, valamint az elszámolással kapcsolatos szabályokat.
+75. § (1)[^161] Az Áht. 49. §-a szerinti lebonyolító szervvel a fejezetet irányító szerv megállapodást köt. A megállapodásban rögzíteni kell az e rendeletben foglalt kötelezettségek megtartását biztosító feltételeket, így különösen a feladat konkrét meghatározását, a felhasználás határidejét, valamint az elszámolással kapcsolatos szabályokat.
 
-(2)[^160]
+(2)[^162]
 
 (3) A lebonyolítás céljából rendelkezésre bocsátott összeg felhasználására nézve elkülönített nyilvántartást kell előírni a lebonyolító szervnek.
 
@@ -12,5 +12,5 @@
 
 (6) A feladat elvégzésének határidejét követően a lebonyolító szerv a lebonyolítás céljából rendelkezésére bocsátott összeggel elszámol. Az elszámolás során a lebonyolítási számla egyenlegét, továbbá a lebonyolítás céljából rendelkezésre bocsátott, nem rendeltetésszerűen felhasznált összeget vissza kell utalni a forrást biztosító fizetési számlára.
 
-[^159]: Az Ávr. 75. § (1) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 34. §-ával megállapított szöveg.
-[^160]: Az Ávr. 75. § (2) bekezdését a 497/2013. (XII. 29.) Korm. rendelet 63. § (1) bekezdés 12. pontja hatályon kívül helyezte.
+[^161]: Az Ávr. 75. § (1) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 34. §-ával megállapított szöveg.
+[^162]: Az Ávr. 75. § (2) bekezdését a 497/2013. (XII. 29.) Korm. rendelet 63. § (1) bekezdés 12. pontja hatályon kívül helyezte.

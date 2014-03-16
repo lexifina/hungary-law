@@ -1,5 +1,5 @@
 ## [Az Áht. 108. § (2) bekezdéséhez]
 
-168. §[^396]
+168. §[^399]
 
-[^396]: Az Ávr. 168. §-át a 497/2013. (XII. 29.) Korm. rendelet 63. § (1) bekezdés 24. pontja hatályon kívül helyezte.
+[^399]: Az Ávr. 168. §-át a 497/2013. (XII. 29.) Korm. rendelet 63. § (1) bekezdés 24. pontja hatályon kívül helyezte.

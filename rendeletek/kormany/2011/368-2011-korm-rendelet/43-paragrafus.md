@@ -1,6 +1,6 @@
 ## [Az Áht. 35. §-ához]
 
-43. §[^89] (1) A fejezetet irányító szerv a fejezeti kezelésű előirányzatok kiemelt előirányzatai és a kiemelt előirányzaton belüli rovatok között átcsoportosítást hajthat végre.
+43. §[^91] (1) A fejezetet irányító szerv a fejezeti kezelésű előirányzatok kiemelt előirányzatai és a kiemelt előirányzaton belüli rovatok között átcsoportosítást hajthat végre.
 
 (2) A költségvetési szerv a költségvetése kiemelt előirányzatai és a kiemelt előirányzaton belüli rovatok között átcsoportosítást hajthat végre.
 
@@ -14,4 +14,4 @@ b) az egységes rovatrend K33. Szolgáltatási kiadások rovatai előirányzatai
 
 (5) A központi kezelésű előirányzat, az elkülönített állami pénzalap és a társadalombiztosítás pénzügyi alapja kezelő szerve a kiemelt előirányzatok és a kiemelt előirányzaton belüli rovatok között átcsoportosítást hajthat végre.
 
-[^89]: Az Ávr. 43. §-a a 497/2013. (XII. 29.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^91]: Az Ávr. 43. §-a a 497/2013. (XII. 29.) Korm. rendelet 18. §-ával megállapított szöveg.

@@ -1,10 +1,10 @@
-109. §[^253] (1) Ha az Áht. 58. § (1) bekezdése szerinti ellenőrzésre helyszíni ellenőrzés keretében kerül sor, a Kincstár arról jegyzőkönyvet vesz fel, amelyet az Áht. 58. § (2) bekezdése szerinti, Kincstár álláspontját alátámasztó bizonyítékok ismertetése során ad át vagy küld meg az ellenőrzöttnek.
+109. §[^256] (1) Ha az Áht. 58. § (1) bekezdése szerinti ellenőrzésre helyszíni ellenőrzés keretében kerül sor, a Kincstár arról jegyzőkönyvet vesz fel, amelyet az Áht. 58. § (2) bekezdése szerinti, Kincstár álláspontját alátámasztó bizonyítékok ismertetése során ad át vagy küld meg az ellenőrzöttnek.
 
 (2) A jegyzőkönyv tartalmazza
 
-a)[^254] az eljáró közigazgatási szerv nevét, a jegyzőkönyv készítésének helyét és idejét, a vizsgált helyi önkormányzat, költségvetési szerv nevét, székhelyét, a felülvizsgálat alapjául szolgáló dokumentumok felsorolását, az ügyre vonatkozó lényeges nyilatkozatokat és megállapításokat,
+a)[^257] az eljáró közigazgatási szerv nevét, a jegyzőkönyv készítésének helyét és idejét, a vizsgált helyi önkormányzat, költségvetési szerv nevét, székhelyét, a felülvizsgálat alapjául szolgáló dokumentumok felsorolását, az ügyre vonatkozó lényeges nyilatkozatokat és megállapításokat,
 
-b)[^255] a helyi önkormányzat által jelzett érintett mutatószámokat jogcímenként,
+b)[^258] a helyi önkormányzat által jelzett érintett mutatószámokat jogcímenként,
 
 c) a Kincstár által megállapított mutatószámokat és az ezeket megalapozó adatokat,
 
@@ -14,6 +14,6 @@ e) az ellenőrök nevét, aláírását és
 
 f) ha a helyszíni ellenőrzés befejezésével nem kerül sor a jegyzőkönyv átadására, a Kincstár illetékes vezetőjének aláírását.
 
-[^253]: Az Ávr. 109. §-át újonnan a 307/2013. (VIII. 14.) Korm. rendelet 16. §-a iktatta be.
-[^254]: Az Ávr. 108. § (2) bekezdés a) pontja a 497/2013. (XII. 29.) Korm. rendelet 63. § (3) bekezdés 10. pontja szerint módosított szöveg.
-[^255]: Az Ávr. 108. § (2) bekezdés b) pontja a 497/2013. (XII. 29.) Korm. rendelet 63. § (3) bekezdés 10. pontja szerint módosított szöveg.
+[^256]: Az Ávr. 109. §-át újonnan a 307/2013. (VIII. 14.) Korm. rendelet 16. §-a iktatta be.
+[^257]: Az Ávr. 108. § (2) bekezdés a) pontja a 497/2013. (XII. 29.) Korm. rendelet 63. § (3) bekezdés 10. pontja szerint módosított szöveg.
+[^258]: Az Ávr. 108. § (2) bekezdés b) pontja a 497/2013. (XII. 29.) Korm. rendelet 63. § (3) bekezdés 10. pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-78/D. §[^174] (1) Az Európai Unió strukturális alapjainak és Kohéziós Alapjának támogatásával megvalósuló támogatott tevékenység esetén az operatív program vagy a közösségi kezdeményezés irányító hatósága a 4/2011. (I. 28.) Korm. rendelet 56. § (1) bekezdése szerinti utófinanszírozás esetén – indokolt esetben, a támogatott tevékenység elindításához és likviditásának biztosításához szükséges legkisebb összegben – a pályázati felhívásban és a támogatói okiratban, támogatási szerződésben előlegfizetést biztosíthat a kedvezményezett részére. Az indokoltság eseteit a pályázati felhívásban ismertetni kell. Az előleget hazai és európai uniós forrásból, az Európai Unió strukturális alapjaiból, illetve Kohéziós Alapjából támogatott adott intézkedés, illetve projekt szerinti finanszírozási arányban kell nyújtani.
+78/D. §[^177] (1) Az Európai Unió strukturális alapjainak és Kohéziós Alapjának támogatásával megvalósuló támogatott tevékenység esetén az operatív program vagy a közösségi kezdeményezés irányító hatósága a 4/2011. (I. 28.) Korm. rendelet 56. § (1) bekezdése szerinti utófinanszírozás esetén – indokolt esetben, a támogatott tevékenység elindításához és likviditásának biztosításához szükséges legkisebb összegben – a pályázati felhívásban és a támogatói okiratban, támogatási szerződésben előlegfizetést biztosíthat a kedvezményezett részére. Az indokoltság eseteit a pályázati felhívásban ismertetni kell. Az előleget hazai és európai uniós forrásból, az Európai Unió strukturális alapjaiból, illetve Kohéziós Alapjából támogatott adott intézkedés, illetve projekt szerinti finanszírozási arányban kell nyújtani.
 
 (2) Az Európai Unió strukturális alapjainak és Kohéziós Alapjának támogatásával megvalósuló támogatott tevékenységek esetében az előlegnyújtás és a költségvetési támogatás kifizetése során
 
@@ -20,4 +20,4 @@ h) a kedvezményezett a támogatói okiratban, támogatási szerződésben megha
 
 i) ha a pályázati felhívás, a támogatói okirat, támogatási szerződés arra lehetőséget biztosít, egyes költségek a támogatási szerződésben vagy a támogatói okiratban meghatározott mértékig – a kettős finanszírozás lehetőségének kizárása mellett – átalány alapon is elszámolhatóak.
 
-[^174]: Az Ávr. 78/D. §-át a 497/2013. (XII. 29.) Korm. rendelet 36. §-a iktatta be.
+[^177]: Az Ávr. 78/D. §-át a 497/2013. (XII. 29.) Korm. rendelet 36. §-a iktatta be.
