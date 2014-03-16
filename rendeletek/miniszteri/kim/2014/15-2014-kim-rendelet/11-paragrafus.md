@@ -1,3 +1,0 @@
-## 10. § Az anyakönyvekről, a házasságkötési eljárásról és a névviselésről szóló 6/2003. (III. 7.) BM rendelet „Átmeneti rendelkezések” alcíme a következő 103/E. §-sal egészül ki:
-
-## „103/E. § Az anyakönyvvezető az apa adatai nélküli születési anyakönyvi bejegyzést 2014. április 30-áig lezárja, és egyidejűleg a születési anyakönyvbe a gyermek családi neve rovatba az anya születési családi nevét jegyzi be, kivéve, ha az anya a Ptk. 4:27. § (1) bekezdés d) pontja vagy (3) bekezdése szerinti házassági nevet visel, ez esetben a gyermek családi neveként az anya házassági nevének családi név részét kell bejegyezni. Az apa adataira vonatkozó rovatokat a bejegyzés lezárása előtt ki kell húzni.”
