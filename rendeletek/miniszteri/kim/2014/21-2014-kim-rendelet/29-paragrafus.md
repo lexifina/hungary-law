@@ -1,3 +1,5 @@
+## 28. §[^35]
+
 ## 29. Hatálybalépés
 
 29. § (1) Ez a rendelet – a (2)–(5) bekezdésben foglalt kivétellel – 2014. március 15-én lép hatályba, és ez a rendelet 2015. január 2-án hatályát veszti.
@@ -9,3 +11,5 @@
 (4) A 12. § (7), (13) és (14) bekezdése, a 18. § (3) és (4) bekezdése, valamint a 19. § (1) és (2) bekezdése 2014. július 1-jén lép hatályba.
 
 (5) A 19. § (4) bekezdése 2015. január 1-jén lép hatályba.
+
+[^35]: A 28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

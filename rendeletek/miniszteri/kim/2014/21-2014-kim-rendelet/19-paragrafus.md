@@ -2,11 +2,12 @@
 
 ## 24/2006. (V. 18.) IM rendelet módosítása
 
-19. § (1)–(2)[^7]
+19. § (1)–(2)[^26]
 
-(3) Az eCvhr. 9. § (1) bekezdésében az „informatikai ellenőrzés” szövegrész helyébe az „informatikai és formai ellenőrzés” szöveg lép.
+(3)[^27]
 
-(4)[^8]
+(4)[^28]
 
-[^7]: A 19. § (1)–(2) bekezdése a 29. § (4) bekezdése alapján 2014. július 1-jén lép hatályba.
-[^8]: A 19. § (4) bekezdése a 29. § (5) bekezdése alapján 2015. január 1-jén lép hatályba.
+[^26]: A 19. § (1)–(2) bekezdése a 29. § (4) bekezdése alapján 2014. július 1-jén lép hatályba.
+[^27]: A 19. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^28]: A 19. § (4) bekezdése a 29. § (5) bekezdése alapján 2015. január 1-jén lép hatályba.

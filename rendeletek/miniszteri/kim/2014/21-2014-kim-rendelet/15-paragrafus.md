@@ -1,15 +1,5 @@
-## „A teljesítési letéti eljárás során tárgyletét kezelés
-
-## 24/A. § (1) A teljesítési letét kezelője az átvett tárgyletétről naplót és betűsoros névmutatót vezet úgy, hogy azokba utólagos bejegyzésre ne legyen lehetőség, az esetleges javítást a letét átvevőjének aláírásával és bélyegzőlenyomatával kell ellátni.
-
-## (2) Ha a tárgyletétet a közjegyző őrzi, azt saját páncélszekrényében helyezi el. A tárgyletét őrzésének helyét és módját a közjegyzői iratokban fel kell tüntetni.
-
-## (3) Ha a tárgyletétet a közjegyző őrzi, az ügyfél vagy a MOKK felhívására köteles igazolni, hogy a teljesítési letétbe vett tárgy megvan, őrzése biztonságos, megfelel a jogszabályoknak és a MOKK iránymutatásának.
-
-## (4) A közjegyző szolgálata megszűnésének vagy a közjegyzői kinevezés érvénytelensége megállapításának időpontjától, valamint a felfüggesztés ideje alatt [a közjegyzőkről szóló 1991. évi XLI. törvény 72. § (1) bekezdés e) pontja és 104. §-a] a teljesítési letétben lévő tárgyletétekkel nem rendelkezhet.
-
-## (5) A közjegyzőnél lévő tárgyletét nem tartozik a közjegyző hagyatékához, a közjegyző halála esetén a tárgyletét feletti rendelkezési jog nem száll át a közjegyző jogutódjára.
-
-## (6) A (4) és (5) bekezdésben foglalt esetekben a tárgyletét feletti rendelkezési jog a közjegyző állására kirendelt vagy kinevezett közjegyzőt illeti meg, és őt terheli az őrzésből következő valamennyi kötelezettség.”
+## 14. §[^20]
 
 ## 15. Az elektronikus dokumentumok közjegyzői archiválásának szabályairól és az elektronikus levéltárról szóló 34/2004. (XI. 19.) IM rendelet módosítása
+
+[^20]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
