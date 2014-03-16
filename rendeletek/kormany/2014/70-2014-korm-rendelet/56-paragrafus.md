@@ -1,3 +1,3 @@
-## 54–55. §[^6]
+## 54–55. §[^15]
 
-[^6]: Az 54–55. § a 103. § (2) bekezdése alapján 2014. július 1-jén lép hatályba.
+[^15]: Az 54–55. § a 103. § (2) bekezdése alapján 2014. július 1-jén lép hatályba.

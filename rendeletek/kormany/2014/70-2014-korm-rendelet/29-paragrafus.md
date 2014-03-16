@@ -1,3 +1,3 @@
-## 28. §[^3]
+## 28. §[^7]
 
-[^3]: A 28. § a 103. § (2) bekezdése alapján 2014. július 1-jén lép hatályba.
+[^7]: A 28. § a 103. § (2) bekezdése alapján 2014. július 1-jén lép hatályba.

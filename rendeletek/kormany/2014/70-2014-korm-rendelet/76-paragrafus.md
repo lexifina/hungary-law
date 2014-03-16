@@ -1,1 +1,0 @@
-## „(5) A gyámhivatal – függetlenül a kötelező felülvizsgálat iránti eljárás megindításának időpontjától – a gondnokság alá helyezés módosítása iránt pert indít, ha a módosítás a gondnokolt érdekében áll, és a pert az erre jogosultak nem kezdeményezik.”
