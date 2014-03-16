@@ -1,3 +1,5 @@
+## 58. §[^7]
+
 1. melléklet a 18/2014. (III. 13.) KIM rendelethez
 
 ## Statisztikai jelentés adattartalma a hitelbiztosítéki nyilatkozatokról
@@ -57,3 +59,5 @@
 5.2. ügyvéd által rögzített hitelbiztosítéki nyilatkozatok száma
 
 6. Képviselő nélkül tett hitelbiztosítéki nyilatkozatok száma
+
+[^7]: Az 58. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
