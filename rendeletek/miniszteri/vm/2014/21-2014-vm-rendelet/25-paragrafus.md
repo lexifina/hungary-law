@@ -1,3 +1,3 @@
-## 24. § Az Inyvhr. 113. §-a helyébe a következő rendelkezés lép:
+## 2–24. §[^2]
 
-## „113. § Az ingatlan-nyilvántartás adatbázisából személyes adatot is tartalmazó adatlekérdezés – ha a tv., vagy annak felhatalmazása alapján kiadott rendelet másképpen nem rendelkezik – csak egyedi esetekben és a tulajdoni lap formátumnak megfelelően teljesíthető.”
+[^2]: A 2–24. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

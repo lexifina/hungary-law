@@ -1,1 +1,0 @@
-## „(4a) Az eladási jog gyakorlása esetén az eladási jog jogosultjának igazolnia kell (tértivevénnyel, vagy átvételi elismervénnyel), hogy az ingatlan eladására vonatkozó egyoldalú nyilatkozatát a kötelezett felé megtette. A kérelemhez csatolni kell az egyoldalú nyilatkozatot tartalmazó okiratot is.”

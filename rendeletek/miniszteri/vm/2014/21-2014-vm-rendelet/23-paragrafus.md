@@ -1,5 +1,0 @@
-## 22. § Az Inyvhr. 65. § (3) és (3a) bekezdése helyébe a következő rendelkezés lép:
-
-## „(3) Építésügyi vagy építésfelügyeleti hatósági eljárással érintett épületváltozást (építést, bővítést, bontást) csak jogerős használatbavételi engedély, jogerős fennmaradási engedély, jogerős bontási engedély, használatbavételi tudomásulvételről szóló tájékoztató végzés vagy bontási tevékenységről elvégzéséről szóló végzés birtokában, a járási földhivatal által hatályos záradékkal ellátott változási vázrajz alapján lehet a tulajdoni lapon átvezetni.
-
-## (3a) Az építésügyi vagy építésfelügyeleti hatósági eljáráshoz nem kötött rendeltetésmód változással járó épületváltozás ingatlan-nyilvántartási átvezetéséhez az építésügyi vagy építésfelügyeleti hatóság által az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 34. § (5) bekezdésében és az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló 312/2012. (XI. 8.) Korm. rendelet 56. § (1) bekezdés b) pontja szerint kiadott hatósági bizonyítvány szükséges.”
