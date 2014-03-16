@@ -76,4 +76,4 @@ g) a 3. § (1) bekezdés i) pontja esetében az öt szelvény méretet.
 
 (17) Az ingatlanügyi hatóságok a hatósági feladataik ellátásához nem fizetnek adatszolgáltatási, illetve vizsgálati és záradékolási díjat.
 
-(18) A miniszter, illetve a honvédelemért felelős miniszter a hatáskörébe tartozó állami alapadatbázisokból történő adatszolgáltatás tekintetében igazgatási szolgáltatási díjmentességet engedélyezhet államigazgatási szervek részére a központi címregiszter létrehozása érdekében.
+(18)
