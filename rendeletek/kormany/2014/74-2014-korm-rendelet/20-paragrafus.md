@@ -1,1 +1,0 @@
-## 19. § A felsőoktatási szakképzésről és a felsőoktatási képzéshez kapcsolódó szakmai gyakorlat egyes kérdéseiről szóló 230/2012. (VIII. 28.) Korm. rendelet 4. § 5. pontjában a „Polgári Törvénykönyv 685. § c) pontja” szövegrész helyébe a „polgári perrendtartásról szóló törvény” szöveg lép.
