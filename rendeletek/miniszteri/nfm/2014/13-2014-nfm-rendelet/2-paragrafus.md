@@ -1,1 +1,0 @@
-## 1. § Hatályát veszti a nukleáris anyagok nyilvántartásának és ellenőrzésének szabályairól szóló 7/2007. (III. 6.) IRM rendelet 1. § (1) bekezdés a) és b) pontjában a „valamint jogi személyiség nélküli gazdasági társaságra,” szövegrész.
