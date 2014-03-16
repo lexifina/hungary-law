@@ -1,7 +1,3 @@
 ## 25. A légiközlekedésről szóló 1995. évi XCVII. törvény módosítása
 
-25. § A légiközlekedésről szóló 1995. évi XCVII. törvény 71. §-a a következő 3a. ponttal egészül ki:
-
-(A törvény alkalmazásában)
-
-„3a. gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet;”
+25. §

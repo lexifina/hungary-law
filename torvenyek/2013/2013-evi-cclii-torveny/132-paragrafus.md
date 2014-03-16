@@ -6,17 +6,7 @@
 
 „Az egyesület nyilvántartásba vétele iránti kérelemnek a 20. §-ban foglaltakon túlmenően tartalmaznia kell az egyesület képviselőjének anyja születési nevét és a vezető tisztségviselői megbízás időtartamát is. Az egyesület nyilvántartásba vétele iránti kérelemhez a 21. és 22. §-ban foglaltakon kívül csatolni kell a következőket is:””
 
-(2) Az Iktv. 107. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A Cnytv. 92. § (1) bekezdése a következő l)–n) ponttal kiegészülve lép hatályba:
-
-(A nyilvántartás szükség szerint valamennyi szervezet esetében tartalmazza:)
-
-„l) – kijavítás [(5) bekezdés] esetén – az adat kijavításának időpontját,
-
-m) a vezető tisztségviselői megbízás időtartamát és
-
-n) a szervezet külön törvényben meghatározott adatait.””
+(2)
 
 (3)
 
