@@ -1,1 +1,0 @@
-## „(2) Az örökségvédelmi engedélyezési eljárásban a tényállás tisztázása érdekében helyszíni szemlét kell tartani. Az örökségvédelmi hatóság a helyszíni szemlén vizsgálja, hogy az építéstörténeti dokumentáció részeként benyújtott értékleltár megfelelően rögzíti-e a védett műemléki értékeket.”

@@ -1,4 +1,4 @@
-## 58. § Hatályát veszti a kihirdetett veszélyhelyzet folytán bekövetkezett építménykárok helyreállításával összefüggő kivételes építésügyi szabályokról szóló 227/2010. (VIII. 13.) Korm. rendelet.
+## 58. §[^28]
 
 ## 18. Záró rendelkezések
 
@@ -7,3 +7,5 @@
 (2) A 11. § (2)–(3) bekezdése, a 12. § 6. pontja 2014. június 13-án lép hatályba.
 
 (3) A 19. § (3) bekezdése, a 20. §, a 23. § és a 2. melléklet 2014. július 1-jén lép hatályba.
+
+[^28]: Az 58. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
