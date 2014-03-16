@@ -1,7 +1,8 @@
-## 49. § Hatályát veszti a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény végrehajtásáról szóló 22/2008. (XII. 31.) SZMM rendelet.
+## 49. §[^16]
 
-## 9. Az Országos Gyermekvédelmi Szakértői Névjegyzékről és az Országos Szociálpolitikai Szakértői Névjegyzékről szóló 25/2009. (XI. 13.) SZMM rendelet módosítása
-
-## Hatályát veszti az Országos Gyermekvédelmi Szakértői Névjegyzékről és az Országos Szociálpolitikai Szakértői Névjegyzékről szóló 25/2009. (XI. 13.) SZMM rendelet 6. § (3) bekezdésében a „hivatalos lapjában és” szövegrész.
+## 9.[^17]
 
 ## 10. A segítő kutya kiképzésének, vizsgáztatásának és alkalmazhatóságának szabályairól szóló 27/2009. (XII. 3.) SZMM rendelet módosítása
+
+[^16]: A 49. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 9. alcím a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

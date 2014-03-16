@@ -1,3 +1,3 @@
-## 10–20. §[^1]
+## 10–20. §[^2]
 
-[^1]: A 10–20. § az 56. § (2) bekezdése alapján 2014. július 1-jén lép hatályba.
+[^2]: A 10–20. § az 56. § (2) bekezdése alapján 2014. július 1-jén lép hatályba.

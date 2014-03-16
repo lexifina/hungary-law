@@ -1,7 +1,3 @@
-## 21. § Az R. 136. §-a a következő h) ponttal egészül ki:
+## 21. §[^3]
 
-## (A személyes gondoskodást nyújtó gyermekvédelmi szakellátás keretében szakszolgáltatásként biztosítani kell)
-
-## „h) a támogatott közvetítői eljárással”
-
-## (kapcsolatos feladatok ellátását.)
+[^3]: A 21. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

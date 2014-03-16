@@ -1,5 +1,3 @@
-## 9. § Az R. 19. § (2) bekezdése a következő f) ponttal egészül ki:
+## 1–9. §[^1]
 
-## [Az (1) bekezdés szerinti javaslatban a gyermekjóléti szolgálat a gyermekvédelmi nyilvántartás megfelelő adatlapján ismerteti a gyermek helyzetét, különösen]
-
-## „f) ha a gyermeket gondozó szülő együtt él a szülői felügyeleti jogától megfosztott másik szülővel, és emiatt a gyermek nem áll szülői felügyelet alatt.”
+[^1]: Az 1–9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
