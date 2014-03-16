@@ -1,3 +1,3 @@
-1. melléklet a 12/2014. (II. 28.) KIM rendelethez[^11]
+1. melléklet a 12/2014. (II. 28.) KIM rendelethez[^18]
 
-[^11]: Az 1. melléklet a 8. § (2) bekezdése alapján 2014. március 30-án lép hatályba.
+[^18]: Az 1. melléklet a 8. § (2) bekezdése alapján 2014. március 30-án lép hatályba.
