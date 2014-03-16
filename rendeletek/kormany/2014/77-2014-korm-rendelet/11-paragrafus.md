@@ -1,3 +1,0 @@
-## „(3) Az MNV Zrt. stratégiai és éves ellenőrzési tervet készít, amelyeket jóváhagyásra a miniszter elé terjeszt minden év február 15-ig. Az éves ellenőrzési tapasztalatokról, az azok nyomán tett intézkedésekről az MNV Zrt. vezérigazgatója a tárgyévet követő év május 31-ig jelentést készít a miniszter részére.
-
-## (4) A szerződésben foglalt kötelezettségek ellenőrzése során a tulajdonosi joggyakorló az ellenőrzésre feladat- és hatáskörrel rendelkező hatóságok közreműködését szükség szerint igénybe veheti, együttműködik továbbá az érintett vagyontárgy védettsége vagy más jellemzője miatt érintett miniszterrel.”
