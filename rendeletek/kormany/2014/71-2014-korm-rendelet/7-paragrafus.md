@@ -1,3 +1,3 @@
-## 6. §[^1]
+## 6. §[^2]
 
-[^1]: A 6. § a 11. § (2) bekezdése alapján 2014. július 1-jén lép hatályba.
+[^2]: A 6. § a 11. § (2) bekezdése alapján 2014. július 1-jén lép hatályba.

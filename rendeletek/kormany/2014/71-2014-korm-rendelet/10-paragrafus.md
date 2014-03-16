@@ -1,18 +1,12 @@
-## 9. § Az Ar. 8. § (1) bekezdésében az „Az átmeneti és tartós nevelésbe vett” szövegrész helyébe az „A nevelésbe vett” szöveg lép.
+## 9. §[^7]
 
-10. § (1) Hatályát veszti az Ar.
+10. § (1)[^8]
 
-a) 9. § (4)–(6) bekezdése,
+(2)[^9]
 
-b) 9/A. §-a,
+(3)[^10]
 
-c) 1. számú melléklet XIII. számú adatlapja,
-
-d) 2. számú melléklet XVI., XVIII., XX. és XXII. számú adatlapja.
-
-(2)[^4]
-
-(3)[^5]
-
-[^4]: A 10. § (2) bekezdése a 11. § (2) bekezdése alapján 2014. július 1-jén lép hatályba.
-[^5]: A 10. § (3) bekezdése a 11. § (3) bekezdése alapján 2014. október 1-jén lép hatályba.
+[^7]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 10. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 10. § (2) bekezdése a 11. § (2) bekezdése alapján 2014. július 1-jén lép hatályba.
+[^10]: A 10. § (3) bekezdése a 11. § (3) bekezdése alapján 2014. október 1-jén lép hatályba.
