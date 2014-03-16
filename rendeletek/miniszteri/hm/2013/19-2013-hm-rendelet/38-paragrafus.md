@@ -1,1 +1,3 @@
-## 37. § Az 1. § (3) bekezdésében az „a házasságról, a családról és a gyámságról szóló 1952. évi IV. törvény” szövegrész helyébe az „a Polgári Törvénykönyvről szóló 2013. évi V. törvény” szöveg lép.
+## 37. §[^5]
+
+[^5]: A 37. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
