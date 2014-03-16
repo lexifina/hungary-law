@@ -1,5 +1,7 @@
-## 7. § Az Országgyűlési Őrség hivatásos állományát érintő humánigazgatási tárgyú szabályokról szóló 56/2012. (XI. 22.) BM rendelet 115. § (1) bekezdésben a „685. § b) pontja” szövegrész helyébe a „8:1. § (1) bekezdés 1. pontja” szöveg lép.
+## 7. §[^8]
 
 ## 8. Az Országgyűlési Őrség hivatásos állományát érintő gazdasági tárgyú szabályokról szóló
 
 ## 85/2012. (XII. 28.) BM rendelet
+
+[^8]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

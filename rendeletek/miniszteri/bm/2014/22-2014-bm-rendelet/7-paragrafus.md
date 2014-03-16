@@ -1,3 +1,5 @@
-## 6. § A lakáscélú munkáltatói kölcsönről szóló 44/2012. (VIII. 29.) BM rendelet 17. § (6) bekezdés b) pontjában az „1959. évi IV. törvény 301. § (1) bekezdése” szövegrész helyébe a „2013. évi V. törvény 6:48. § (1) bekezdése” szöveg lép.
+## 6. §[^7]
 
 ## 7. Az Országgyűlési Őrség hivatásos állományát érintő humánigazgatási tárgyú szabályokról szóló 56/2012. (XI. 22.) BM rendelet
+
+[^7]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
