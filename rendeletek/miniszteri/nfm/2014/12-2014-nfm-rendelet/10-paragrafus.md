@@ -1,1 +1,0 @@
-## 9. § A nemzetközi közúti áru- és személyszállítási engedélyek és meghatározott okmányok kiadásának díjairól szóló 55/2002. (XII. 29.) GKM rendelet (a továbbiakban: R2.) 4. §-ában az „a Nemzeti Közlekedési Hatóság Közép-magyarországi Regionális Igazgatósága” szövegrész helyébe az „az eljáró hatóság” szöveg lép.
