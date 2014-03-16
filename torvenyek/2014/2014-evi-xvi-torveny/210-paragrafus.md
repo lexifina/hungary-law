@@ -1,5 +1,1 @@
-## „(8) Az átalakítás során be nem azonosított részvényes dematerializált részvénye helyébe lépő nyomdai úton előállított részvényt a kibocsátó az átalakítástól számított hat hónapon belül – befektetési vállalkozás, hitelintézet közreműködésével – értékesíti. Az értékesítés szabályait a kibocsátó az átalakításról szóló hirdetményben jelenteti meg. Az értékesítés eredménytelensége esetén a kibocsátó az értékesítésre nyitva álló határidő lejártát követő első közgyűlésen leszállítja az alaptőkét.
-
-## (9) A be nem azonosított részvényes utólag követelheti a dematerializált részvény helyébe lépett nyomdai úton előállított részvény kiadását, vagy ha az értékesítés megtörtént, akkor a nyomdai úton előállított részvény ellenértékét. Az értékesített nyomdai úton előállított részvény ellenértékének összegét a jogosult jelentkezéséig a kibocsátó hitelintézetnél nyitott letéti számlán tartja. Az átalakítási folyamatot követően beazonosított részvényes az igényének érvényesítéséig felmerült költségeket köteles megfizetni. A részvény kiadása iránti követelés helyébe lépő pénzkövetelés elévülésére az értékpapírban megtestesített követelés elévülésére irányadó szabályok érvényesek.”
-
-210. § A Tpt. 149. §-a helyébe a következő rendelkezés lép:
+### 210. §

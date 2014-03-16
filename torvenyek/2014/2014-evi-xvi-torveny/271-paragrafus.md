@@ -1,1 +1,1 @@
-271. § Az adózás rendjéről szóló 2003. évi XCII. törvény 7. számú melléklet 1. pont d) pont dc) alpontjában „a befektetési alapkezelőkről és a kollektív befektetési formákról szóló 2011. évi CXCIII. törvényben (Batv.) meghatározott ÁÉKBV,” szövegrész helyébe „a kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvényben meghatározott ÁÉKBV,” szöveg lép.
+### 271. §
