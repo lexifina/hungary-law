@@ -1,3 +1,0 @@
-## 7. § Az egészségügyi szolgáltatások nyújtásához szükséges szakmai minimumfeltételekről szóló 60/2003. (X. 20.) ESZCSM rendelet 4. melléklet A) pont II. rész 1. pont c) pont cb)–cd) alpontjában, B) pont II. rész 1. pont c) pont ca) alpontjában, C) pont I. rész 2. pont 2.1. alpontjában és D) pont II. rész I. pont 3. pontjában a „korlátozottan cselekvőképes beteg” szövegrész helyébe a „korlátozottan cselekvőképes kiskorú, valamint a cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében részlegesen korlátozott beteg” szöveg lép.
-
-## 7. Az emberi felhasználásra kerülő gyógyszerek rendeléséről és kiadásáról szóló 44/2004. (IV. 28.) ESZCSM rendelet módosítása

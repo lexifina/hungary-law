@@ -1,3 +1,0 @@
-## 2. § Az örökletes vérzékeny betegek kontrollált otthoni kezeléséről szóló 24/1998. (XII. 27.) EüM rendelet 4. § (1) bekezdés c) pontjában a „korlátozottan cselekvőképes,” szövegrész helyébe a „korlátozottan cselekvőképes kiskorú, valamint a cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében részlegesen korlátozott,” szöveg lép.
-
-## 3. Az emberi reprodukcióra irányuló különleges eljárások végzésére vonatkozó, valamint az ivarsejtekkel és embriókkal való rendelkezésre és azok fagyasztva tárolására vonatkozó részletes szabályokról szóló 30/1998. (VI. 24.) NM rendelet módosítása
