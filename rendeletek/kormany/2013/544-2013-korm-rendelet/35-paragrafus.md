@@ -1,3 +1,0 @@
-## 34. § A KR. 94. §-a helyébe a következő rendelkezés lép:
-
-## „94. § Tehergépkocsinak személyszállító járművé történő engedélyezett átalakítása esetén a közlekedési igazgatási hatósági eljárásban a jármű kategóriájának megváltoztatása a nyilvántartásba és a forgalmi engedélybe akkor jegyezhető be, ha a vám és nem közösségi adók, díjak különbözetét megfizették, vagy a kötelezett ez alól mentesült és az erre vonatkozó okmányokat, valamint átalakítás esetén az ügyfél a közlekedési hatóság által kiállított Műszaki Adatlapot bemutatta és a közlekedési igazgatási hatóság a regisztrációs adó megfizetésének megtörténtét a vámhatóság adatbázisában ellenőrizte.”
