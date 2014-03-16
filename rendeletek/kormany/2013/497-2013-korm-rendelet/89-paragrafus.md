@@ -1,1 +1,0 @@
-## „(4a) A mérlegben az egyéb eszközök induláskori értéke és változásaiként a 2014. január 1-jén meglévő nem idegen pénzeszközök forrását – ide nem értve a tulajdonosi joggyakorló szervezeteket –, valamint a nemzeti vagyonba nem tartozó egyéb eszközök 49/A–49/B. § szerinti változásait kell kimutatni.”

@@ -1,3 +1,0 @@
-## 83. § Az Áhsz. 2. § (4) bekezdése a következő szöveggel lép hatályba:
-
-## „(4) Az 1. mellékletben meghatározott központi kezelésű előirányzatokkal kapcsolatos beszámolási és könyvvezetési feladatokat a Magyar Államkincstár (a továbbiakban: Kincstár) látja el. A Kincstár beszámolási és könyvvezetési feladatainak teljesítéséhez a 2. mellékletben nevesített szervezetek részletező nyilvántartásokat vezetnek, és azokról a Kincstár által meghatározott gyakorisággal adatot szolgáltatnak a Kincstárnak. Ilyen esetben a könyvvezetés alapjául az e szervezetek által megküldött adatszolgáltatások minősülnek.”
