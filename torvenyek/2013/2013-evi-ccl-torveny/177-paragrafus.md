@@ -1,6 +1,6 @@
 177. § Hatályát veszti az Fttv.
 
-a) 6. § (18) bekezdése,
+a)
 
 b)
 
