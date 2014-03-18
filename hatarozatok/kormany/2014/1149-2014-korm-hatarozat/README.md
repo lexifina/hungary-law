@@ -1,0 +1,9 @@
+# 1149/2014. (III. 18.) Korm. határozat
+
+a Székelyföldi Labdarúgó Akadémia működésének támogatásához szükséges rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-1149-30-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2014-03-18 | 2014-1149-30-22.1 | 1149/2014. (III. 18.) Korm. határozat |
