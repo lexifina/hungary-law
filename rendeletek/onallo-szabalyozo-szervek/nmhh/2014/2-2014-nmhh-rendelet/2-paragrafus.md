@@ -1,0 +1,3 @@
+## 1. § A polgári célra használható frekvenciasávok felhasználási szabályainak megállapításáról szóló 2/2013. (I. 7.) NMHH rendelet (a továbbiakban: R.) 2. melléklet II. fejezet 11. pont 11.20. alpontja helyébe a következő rendelkezés lép:
+
+## „11.20. A frekvenciahasználati jog időtartama legalább 9, legfeljebb 20 év, amelyen belül a frekvenciahasználati jog tényleges időtartamát a polgári frekvenciagazdálkodási hatóság a versenyeztetési eljárás kiírási dokumentációjában, valamint a versenyeztetési eljárást lezáró érdemi határozatban, zárójegyzőkönyvben vagy hatósági szerződésben határozza meg.”

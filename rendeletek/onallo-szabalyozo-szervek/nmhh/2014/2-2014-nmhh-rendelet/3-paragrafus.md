@@ -1,0 +1,3 @@
+## 2. § Az R. 2. melléklet I. fejezet 8b. pont 8b.7. alpontjában a „legfeljebb 15 év” szövegrész helyébe a „legfeljebb 20 év” szöveg, a 2. melléklet I. fejezet 9. pont 9.3. alpontjában a „legfeljebb 15 év” szövegrész helyébe a „legfeljebb 20 év” szöveg, a 2. melléklet I. fejezet 14. pont 14.3. alpontjában a „legfeljebb 15 év” szövegrész helyébe a „legfeljebb 20 év” szöveg, a 2. melléklet I. fejezet 15. pont 15.2. alpontjában a „legfeljebb 15 év” szövegrész helyébe a „legfeljebb 20 év” szöveg és a 2. melléklet I. fejezet 17. pont 17.6. alpontjában a „legfeljebb 15 év” szövegrész helyébe a „legfeljebb 20 év” szöveg lép.
+
+3. § Ez a rendelet a kihirdetését követő nyolcadik napon lép hatályba.
