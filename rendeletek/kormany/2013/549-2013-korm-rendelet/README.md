@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-549-20-
 | 2014-01-02 | 2013-549-20-22.2 | 2010: CXXX. törvény |
 | 2014-02-08 | 2013-549-20-22.3 | 27/2014. (II. 7.) Korm. rendelet |
 | 2014-02-10 | 2013-549-20-22.4 | 27/2014. (II. 7.) Korm. rendelet |
+| 2014-03-19 | 2013-549-20-22.5 | 85/2014. (III. 18.) Korm. rendelet |
