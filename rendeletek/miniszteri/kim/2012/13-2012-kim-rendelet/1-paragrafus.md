@@ -2,12 +2,13 @@
 
 a) hogy az adós fizetésképtelenségét a bíróság a Cstv. 27. § (2) bekezdésének mely rendelkezése alapján állapította meg;
 
-b) a felszámoló kirendelésére vonatkozóan az elektronikus kiválasztásra történő utalás, vagy az attól való eltérés esetén a Cstv. 27/A. § (1) bekezdésében előírt indokok felsorolása;
+b)[^1] a felszámoló kirendelésére vonatkozóan az elektronikus, véletlenszerű kiválasztásra történő utalás;
 
 c) az arra vonatkozó tájékoztatás, hogy a felszámoló csak azt a Cstv. 46. § (7) bekezdésében meghatározott követelést veszi nyilvántartásba, amely után a hitelező a követelés tőkeösszegének 1%-át, de legalább 5000 forintot és legfeljebb 200 000 forintot a közzétételben megjelölt elkülönített számlára, a bírósági ügyszámra hivatkozással befizetett, és ezt a felszámolónak igazolta;
 
 d) ha az adóst a Kormány rendeletben stratégiailag kiemelt jelentőségű gazdálkodó szervezetnek nyilvánította, az erre vonatkozó adatok;
 
-e)[^1] az arra való utalás, hogy az eljárás főeljárásként vagy területi eljárásként indult.
+e)[^2] az arra való utalás, hogy az eljárás – a fizetésképtelenségi eljárásokról szóló, 2000. május 29-ei 1346/2000/EK tanácsi rendelet szerinti – főeljárásként vagy területi eljárásként indult.
 
-[^1]: Az 1. § e) pontja a 31/2012. (VI .29.) KIM rendelet 20. §-ával megállapított szöveg.
+[^1]: Az 1. § b) pontja a 24/2014. (III. 18.) KIM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § e) pontja a 24/2014. (III. 18.) KIM rendelet 1. § (2) bekezdésével megállapított szöveg.
