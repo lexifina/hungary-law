@@ -1,0 +1,9 @@
+2. § (1) Az emlékérme a „Mária aranyforintja” emlékérme kibocsátásáról szóló 4/2014. (III. 18.) MNB rendelettel kibocsátott emlékérme négyszeres súlyú, ún. piefort változata, szélfelirattal ellátva.
+
+(2) Az emlékérme 986 ezrelék finomságú aranyból készült, súlya 13,964 gramm, átmérője 20 mm.
+
+(3) Az emlékérme előlapjának szélén található gyöngysor-szegélyen belül, felső köriratban a „MAGYARORSZÁG”, alsó köriratban – egymástól ponttal elválasztva – az „50 000” értékjelzés és a „FORINT” felirat olvasható. A felső és az alsó köriratot bal oldalon, középen a „2014” verési évszám, jobb oldalon, középen a „BP.” verdejel választja el. A középmezőben – hatkaréjos, gótikus díszű keretben – a Mária királynő által kibocsátott aranyforint előlapja alapján készült érmeábrázolás látható. Az emlékérme előlapjának képét az 1. melléklet tartalmazza.
+
+(4) Az emlékérme hátlapjának szélén található gyöngysor-szegélyen belül, felső köriratban – egymástól ponttal elválasztva – a „MÁRIA” és az „1382–1395”, alsó köriratban az „ARANYFORINTJA” felirat olvasható. A felső és az alsó köriratot bal oldalon, középen Soltra E. Tamás tervezőművész mesterjegye, jobb oldalon, középen egy pont választja el. A középmezőben a Mária királynő által kibocsátott aranyforint hátlapjának ábrázolása látható. Az emlékérme hátlapjának képét a 2. melléklet tartalmazza.
+
+(5) Az emlékérme szélén a „+ MARIA ⋅ DEI ⋅ GRATIA ⋅ REGINA ⋅ VNGARIE” szélfelirat olvasható.
