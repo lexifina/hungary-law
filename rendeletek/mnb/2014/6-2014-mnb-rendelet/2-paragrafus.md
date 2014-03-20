@@ -1,0 +1,5 @@
+2. § (1) Az emlékérme 75% réz, 4% nikkel és 21% cink ötvözetéből készült, súlya 2,7 gramm, átmérője 20 mm, széle sima.
+
+(2) Az emlékérme előlapjának szélén található gyöngysor-szegélyen belül, felső köriratban a „MAGYARORSZÁG”, alsó köriratban – egymástól ponttal elválasztva – a „2000” értékjelzés és a „FORINT” felirat olvasható. A felső és az alsó köriratot bal oldalon, középen a „2014” verési évszám, jobb oldalon, középen a „BP.” verdejel választja el. A középmezőben – hatkaréjos, gótikus díszű keretben – a Mária királynő által kibocsátott aranyforint előlapja alapján készült érmeábrázolás látható. Az emlékérme előlapjának képét az 1. melléklet tartalmazza.
+
+(3) Az emlékérme hátlapjának szélén található gyöngysor-szegélyen belül, felső köriratban – egymástól ponttal elválasztva – a „MÁRIA” és az „1382–1395”, alsó köriratban az „ARANYFORINTJA” felirat olvasható. A felső és az alsó köriratot bal oldalon, középen Soltra E. Tamás tervezőművész mesterjegye, jobb oldalon, középen egy pont választja el. A középmezőben a Mária királynő által kibocsátott aranyforint hátlapjának ábrázolása látható. Az emlékérme hátlapjának képét a 2. melléklet tartalmazza.
