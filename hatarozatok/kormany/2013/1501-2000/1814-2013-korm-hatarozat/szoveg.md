@@ -10,17 +10,7 @@ Miniszterelnökséget vezető államtitkár
 
 Határidő: azonnal
 
-3. úgy döntött, hogy
-
-a) 2014. január 1-jétől az Államreform Operatív Program irányító hatósági funkcióit az Emberi Erőforrások Minisztériuma látja el, és a feladatellátáshoz szükséges humán kapacitás 2014. január 1. napjával az Emberi Erőforrások Minisztériumába kerül áthelyezésre,
-
-b) 2014. január 1-jétől az Elektronikus Közigazgatás Operatív Program irányító hatósági funkcióit a Nemzetgazdasági Minisztérium látja el, és a feladatellátáshoz szükséges humán kapacitás 2014. január 1. napjával a Nemzetgazdasági Minisztériumba kerül áthelyezésre,
-
-Felelős: emberi erőforrások minisztere
-
-nemzetgazdasági miniszter
-
-Határidő: azonnal
+3.[^1]
 
 A Kormány az európai uniós forrásfelhasználás valamennyi szakterületére vonatkozó szabályozás és működés egységessé tétele és a szakminisztériumok felügyelete alatt működő egyes irányító hatóságok céljainak és munkájának összehangolása érdekében
 
@@ -119,3 +109,5 @@ Határidő: 2013. november 22.
 Felelős: nemzetgazdasági miniszter
 
 Határidő: 2013. november 22.
+
+[^1]: A 3. pontot az 1152/2014. (III. 20.) Korm. határozat 5. pont a) alpontja visszavonta.
