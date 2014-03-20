@@ -1,16 +1,22 @@
-## 7. §[^7] A külföldi nyelvvizsga-bizonyítvány honosítási eljárása során a Hivatal a kérelem beérkezését követő naptól számított ötven napon belül, az akkreditációs eljárás során negyvenöt napon belül dönt.
+## 7. §[^20]
 
 ## A vizsgaközpontok és vizsgarendszerek akkreditálása
 
-8. § (1) Akkreditált vizsgaközpontként olyan oktatási vagy vizsgáztatási tevékenységet folytató, Magyarországon bejegyzett jogi személy működhet, amely képes és alkalmas nyelvvizsgák lefolytatására, vizsgarendszere megfelel az akkreditáció feltételeinek, és angol, francia, német, olasz, orosz, spanyol nyelv vizsgáztatása esetén nyelvenként legalább öt, egyéb nyelvekből legalább három nyelvvizsgáztatásra alkalmas személy vizsgáztatóként való alkalmazását igazolja. Külföldi jogi személy Magyarországon bejegyzett szervezete vagy intézménye által kérelmezheti vizsgaközpontként való akkreditációját.
+8. § (1)[^21] Az a vizsgaközpont akkreditálható, amely
+
+a) rendelkezik papír alapú vagy számítógépes nyelvvizsgák lefolytatásához szükséges tárgyi feltételekkel,
+
+b) vizsgarendszere megfelel az akkreditáció feltételeinek, és
+
+c) angol, francia, német, olasz, orosz, spanyol nyelv vizsgáztatása esetén nyelvenként legalább öt, egyéb nyelvekből legalább három nyelvvizsgáztatásra alkalmas személy vizsgáztatóként való alkalmazását igazolja.
 
 (2) A vizsgaközpont feladatai, illetve működésére vonatkozó szabályok:
 
 a) minden akkreditált nyelvéből, minden szinten, évente legalább egyszer hirdet vizsgát;
 
-b) egy-egy készség – a beszédkészség kivételével – mérésére irányuló feladat, változatlan formában, évente legfeljebb egy vizsgaalkalommal használható fel;
+b)[^22] egy-egy készség mérésére irányuló feladat, változatlan formában, évente legfeljebb egy vizsgaalkalommal használható fel a beszédkészség mérésére irányuló feladat kivételével;
 
-c) a vizsgák követelményrendszeréről, lebonyolításáról nyomtatott formában és elektronikus felületen folyamatosan tájékoztatja a vizsgázókat;
+c)[^23] a vizsgák követelményrendszeréről, lebonyolításáról nyomtatott formában és elektronikus felületen folyamatosan tájékoztatja a vizsgázókat, honlapján nyelvenként és szintenként legalább egy minta-feladatsort közzétesz;
 
 d) vizsgarendszereit folyamatosan fejleszti;
 
@@ -22,6 +28,10 @@ g) képzi, és évente legalább egyszer továbbképzi a vizsgáztató személye
 
 h) vizsgaszabályzatában meghatározza a vizsga szabályainak megsértéséhez fűződő következményeket.
 
-(3) A vizsgaközpont a nyelvvizsgát a vizsgaközponton kívül is megszervezheti. Ebben az esetben a központtól eltérő vizsgahelyeket szintén akkreditációs eljárás alá kell vonni az 5. § (1) bekezdés c) pontja szerint.
+(3)[^24] A vizsgaközpont a nyelvvizsgát a vizsgaközponton kívül is megszervezheti. Ebben az esetben a központtól eltérő vizsgahelyeket szintén akkreditációs eljárás alá kell vonni az 5. § (1) bekezdés c) pontja szerint. Számítógépes nyelvvizsga esetén az akkreditációs eljárás kiterjed a számítógépes környezet alkalmasságának a vizsgálatára is.
 
-[^7]: A 7. § a 182/2009. (IX. 10.) Korm. rendelet 622. § (1) bekezdésével megállapított, a 289/2010. (XII. 21.) Korm. rendelet 3. § (104) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^20]: A 7. §-t és az azt megelőző alcím címét a 33/2014. (II. 18.) Korm. rendelet 15. §-a hatályon kívül helyezte.
+[^21]: A 8. § (1) bekezdése a 33/2014. (II. 18.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^22]: A 8. § (2) bekezdés b) pontja a 33/2014. (II. 18.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^23]: A 8. § (2) bekezdés c) pontja a 33/2014. (II. 18.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^24]: A 8. § (3) bekezdése a 33/2014. (II. 18.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.

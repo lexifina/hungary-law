@@ -1,8 +1,17 @@
-12. § (1) A Hivatal, illetve az általa kirendelt szakértők a vizsgaközpontokat, vizsgarendszereket, vizsgahelyeket legalább kétévenként ellenőrzik.
+## Az akkreditáció megújítása
 
-(2)[^13] Az ellenőrzést végző személyek az ellenőrzés során a vizsgaközpont és vizsgahely szakmai működésére vonatkozó iratokba, valamint a vizsgákon felhasznált írásbeli feladatlapokba betekinthetnek, a vizsgákon részt vehetnek, és a vizsgáztatóknak, illetve a vizsgázóknak kérdéseket tehetnek fel.
+12. §[^35] (1) Az akkreditáció megújítására irányuló eljárás a vizsgaközpont kérelmére indul. A kérelemhez mellékelni kell annak igazolását, hogy az igazgatási szolgáltatási díjat a vizsgaközpont a Hivatal számlájára befizette. A vizsgaközpont akkreditációja az akkreditáció megújítására irányuló kérelem jogerős elbírálásáig meghosszabbodik.
 
-(3)[^14] Ha az ellenőrzés során megállapítást nyer, hogy az akkreditált vizsgaközpont, a vizsgarendszer egésze, illetve része, vagy a vizsgahely nem felel meg az akkreditáció feltételeinek, illetőleg, ha az ellenőrzést lefolytató bizottság az akkreditáció alapjául szolgáló dokumentumokban foglaltaktól eltérő működést tapasztal, a Hivatal a vizsgaközpontot határidő tűzésével felhívja a jogszabálysértés megszüntetésére. Ha a vizsgaközpont a felhívásban foglaltaknak határidőn belül nem tesz eleget, az ellenőrzés eredményes lefolytatását akadályozza, továbbá ismételt vagy súlyos jogszabálysértés esetén a Hivatal az akkreditációt felfüggesztheti. A Hivatal az akkreditációt visszavonja a vizsga eredményére közvetlenül kiható, súlyos és ismételt szabálysértés esetén. A felfüggesztésről vagy visszavonásról szóló határozatban a Hivatalnak rendelkeznie kell a visszavonás, illetve felfüggesztés miatt szükséges pénzügyi, jogi és szervezési kérdések rendezésének módjáról. Az akkreditáció visszavonásáról szóló jogerős határozatot a Hivatal honlapján közzé kell tenni.
+(2) Az akkreditáció megújítására irányuló kérelem elbírálása során a Hivatal azt vizsgálja, hogy a vizsgaközpont működése megfelelt-e a jogszabályoknak és az Akkreditációs Kézikönyvnek. A kérelem vizsgálata során a Hivatal, illetve az általa kirendelt szakértő
 
-[^13]: A 12. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 623–624. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^14]: A 12. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 623–624. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+a) áttekinti a vizsgaközpontok, vizsgarendszerek, vizsgahelyek működését,
+
+b) betekinthet a vizsgaközpont és vizsgahely szakmai működésére vonatkozó iratokba, valamint a vizsgákon felhasznált írásbeli feladatlapokba, továbbá
+
+c) részt vehet a vizsgákon, és kérdéseket tehetnek fel a vizsgáztatóknak.
+
+(3) Ha a Hivatal megállapítja, hogy a vizsgaközpont és a vizsgarendszer a jogszabályoknak és az Akkreditációs Kézikönyvnek megfelelően működik, a működést újabb két évre engedélyezi.
+
+(4) Ha az eljárás során megállapítható, hogy az akkreditált vizsgaközpont, a vizsgarendszer egésze, illetve annak egy része vagy a vizsgahely nem felel meg a jogszabályoknak vagy az Akkreditációs Kézikönyvben foglalt előírásoknak, de ennek orvoslására mód van, akkor a Hivatal a vizsgaközpontot határidő tűzésével felhívja a jogszabálysértés megszüntetésére. Ha a jogszabálysértés orvoslására nincs mód, vagy a kitűzött határidőre a jogszabálysértést a vizsgaközpont nem szünteti meg, a Hivatal az akkreditáció megújítására irányuló kérelmet elutasítja.
+
+[^35]: A 12. §-t megelőző alcím címét a 33/2014. (II. 18.) Korm. rendelet 10. §-a iktatta be. A 12. § e módosító rendelet 10. §-ával megállapított szöveg.

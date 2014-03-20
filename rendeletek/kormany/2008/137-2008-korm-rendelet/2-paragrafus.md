@@ -30,8 +30,20 @@ bb) írásbeli, amennyiben az olvasott szöveg értésének készségére és az
 
 bc) komplex, amennyiben mind a szóbeli, mind az írásbeli készségek mérésére kiterjed.
 
-(5)[^1] Bizonyítvány szóbeli vizsga, vagy írásbeli vizsga, valamint egy vizsgaidőszakban, ugyanannál a vizsgaközpontnál tett írásbeli és szóbeli vizsga sikeres letétele esetén adható ki. A szóbeli és írásbeli típusú vizsgabizonyítványok együttesen a komplex nyelvtudást igazoló vizsgabizonyítvánnyal lehetnek egyenértékűek, függetlenül a két vizsgacselekmény között eltelt időtől és a vizsga helyéül szolgáló vizsgaközponttól. Ugyanazon nyelvből tett részvizsga-bizonyítványok egyesíthetők. Az egyesíthető részvizsgák típusait az 1. számú melléklet tartalmazza. A különböző szintű részvizsgák az egyesíteni kívánt részvizsgák közül az alacsonyabb szintűvel egyenértékű komplex vizsgává egyesíthetők. Szaknyelvi részvizsgák csak azonos szakmai tartalom, a felsőoktatásról szóló 2005. évi CXXXIX. törvényben meghatározott képzési területen belül egyesíthetők. Részvizsgák egyesítéséről, kérelemre, az Oktatási Hivatal (továbbiakban: Hivatal) hatósági bizonyítványt állít ki. A hatósági bizonyítvány csak az eredeti részvizsga-bizonyítványokkal együtt hatályos.
+(5)[^1] Bizonyítvány szóbeli vizsga, vagy írásbeli vizsga, valamint egy vizsgaidőszakban, ugyanannál a vizsgaközpontnál tett írásbeli és szóbeli vizsga sikeres letétele esetén adható ki. A szóbeli és írásbeli típusú vizsgabizonyítványok együttesen a komplex nyelvtudást igazoló vizsgabizonyítvánnyal lehetnek egyenértékűek, függetlenül a két vizsgacselekmény között eltelt időtől és a vizsga helyéül szolgáló vizsgaközponttól. Ugyanazon nyelvből tett részvizsga-bizonyítványok egyesíthetők. Az egyesíthető részvizsgák típusait az 1. számú melléklet tartalmazza. A különböző szintű részvizsgák az egyesíteni kívánt részvizsgák közül az alacsonyabb szintűvel egyenértékű komplex vizsgává egyesíthetők. Szaknyelvi részvizsgák csak azonos szakmai tartalom, a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvényben (a továbbiakban: Nftv.) meghatározott képzési területen belül egyesíthetők. Részvizsgák egyesítéséről, kérelemre, az Oktatási Hivatal (továbbiakban: Hivatal) hatósági bizonyítványt állít ki. A hatósági bizonyítvány csak az eredeti részvizsga-bizonyítványokkal együtt hatályos.
 
-(6) A nyelvvizsga alap-, közép- és felsőfokon a 2. § (2) bekezdésben felsorolt minden nyelvi készséget teljes körűen mér, az Európa Tanács Közös Európai Referenciakeretben (a továbbiakban: KER) ajánlott hatfokozatú rendszer megfelelő szintjének a nyelvvizsga-bizonyítványban való megjelenítésével. A magyarországi államilag elismert, akkreditált nyelvvizsgafokozatok KER szerinti megfeleltetése a következő: az alapfok megfelel a KER küszöbszintjének (B1), a középfok a KER középszintjének (B2), a felsőfok pedig a KER haladószintjének (C1). A szintek leírását a 2. számú melléklet tartalmazza.
+(6)[^2] A nyelvvizsga a 2. § (2) bekezdésében felsorolt minden nyelvi készséget teljes körűen mér, a 2. § (3) bekezdésének figyelembe vételével. Nyelvvizsga az Európa Tanács Közös Európai Referenciakeretében (a továbbiakban: KER) ajánlott hatfokozatú rendszer következő négy szintjén tehető:
 
-[^1]: A 2. § (5) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 623. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+a) A2 (belépőfok),
+
+b) B1 (alapfok),
+
+c) B2 (középfok),
+
+d) C1 (felsőfok).
+
+(7)[^3] A nyelvvizsgaszintek leírását a 2. számú melléklet tartalmazza.
+
+[^1]: A 2. § (5) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 623. §-a, a 33/2014. (II. 18.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
+[^2]: A 2. § (6) bekezdése a 33/2014. (II. 18.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^3]: A 2. § (7) bekezdését a 33/2014. (II. 18.) Korm. rendelet 1. §-a iktatta be.
