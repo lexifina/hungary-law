@@ -1,0 +1,445 @@
+# A Kormány 89/2014. (III. 20.) Korm. rendelete
+
+Magyar Közlöny 2014. évi 41. szám, 2014. március 20. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/d6d08d018ef8b02469a3947266efac473ec72476/dokumentumok/a8f5c48587e778222ab78b4f22d97c41c228405e/letoltes)
+
+---
+
+A Kormány 89/2014. (III. 20.) Korm. rendelete
+egyes foglalkoztatási tárgyú kormányrendeletek módosításáról
+A Kormány
+a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 40. § (4) bekezdésében,
+a 2. alcím tekintetében a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 7. § (4) bekezdés
+a) pontjában,
+a 3. alcím tekintetében az ágazati párbeszéd bizottságokról és a középszintű szociális párbeszéd egyes kérdéseiről szóló 2009. évi
+LXXIV. törvény 34. §-ában,
+a 4. alcím tekintetében a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 85. § (1) bekezdés a) pontjában,
+az 5. alcím tekintetében a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 47. §
+(3) bekezdésében és 57/B. § (8) bekezdésében,
+a 6. alcím tekintetében a munka törvénykönyvéről szóló 2012. évi I. törvény 298. § (7) bekezdésében, valamint a honvédek
+jogállásáról szóló a 2012. évi CCV. törvény 238. § (1) bekezdés e) pontjában,
+a 7. alcím és az 1. melléklet tekintetében a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény
+7. § (4) és (5) bekezdésében,
+a 8. alcím tekintetében a Magyarország 2014. évi központi költségvetéséről szóló 2013. évi CCXXX. törvény 76. § (1) bekezdés
+a) pontjában,
+a 11. § tekintetében a munka törvénykönyvéről szóló 2012. évi I. törvény 153. § (5) bekezdésében
+kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket
+rendeli el:
+1. A munkába járással összefüggő terhek csökkentését célzó támogatásokról, valamint
+a munkaerő-toborzás támogatásáról szóló 39/1998. (III. 4.) Korm. rendelet módosítása
+1. §
+A munkába járással összefüggő terhek csökkentését célzó támogatásokról, valamint a munkaerő-toborzás
+támogatásáról szóló 39/1998. (III. 4.) Korm. rendelet
+a) 5/A. § (6) bekezdésében a„2013. december 31-ig”szövegrész helyébe a„2014. június 30-ig”,
+
+b) 6. § (6) bekezdésében a „6/1996. (VII. 16.) MüM rendelet 19. §-ának (2) bekezdésében” szövegrész helyébe
+a„6/1996. (VII. 16.) MüM rendelet 27. § (5) bekezdésében”
+szöveg lép.
+2. A Magyar Köztársaság által a szabad mozgás és tartózkodás jogával rendelkező személyek
+tekintetében alkalmazott, a munkaerő szabad áramlásával összefüggő átmeneti szabályokról szóló
+355/2007. (XII. 23.) Korm. rendelet módosítása
+2. §
+A Magyar Köztársaság által a szabad mozgás és tartózkodás jogával rendelkező személyek tekintetében alkalmazott,
+a munkaerő szabad áramlásával összefüggő átmeneti szabályokról szóló 355/2007. (XII. 23.) Korm. rendelet 6. §-a
+a következő (6) bekezdéssel egészül ki:
+„(6) A foglalkoztatás kezdő időpontját legkésőbb a foglalkoztatás megkezdésének napján, a foglalkoztatás
+megszűnését legkésőbb az azt követő napon kell bejelenteni.”
+3. Az üzemitanács-választásokkal kapcsolatos egyes kérdésekről szóló
+357/2009. (XII. 30.) Korm. rendelet módosítása
+3. §
+Az üzemitanács-választásokkal kapcsolatos egyes kérdésekről szóló 357/2009. (XII. 30.) Korm. rendelet 7. §
+(1) bekezdésében a „harmadik és negyedik teljes naptári évet” szövegrész helyébe a „harmadik, negyedik, ötödik és
+hatodik teljes naptári évet”szöveg lép.
+4. A közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény hatálya alá tartozó munkáltatóknál
+működő szakszervezetek reprezentativitásának megállapításáról szóló 24/2011. (III. 9.) Korm. rendelet
+módosítása
+4. § (1) A közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény hatálya alá tartozó munkáltatóknál működő
+szakszervezetek reprezentativitásának megállapításáról szóló 24/2011. (III. 9.) Korm. rendelet (a továbbiakban: R1.)
+1. §-a helyébe a következő rendelkezés lép:
+„1. § (1) A közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.) 6/A. § (2) bekezdés
+a) pontja alkalmazása [a továbbiakban: területi (megyei) vagy települési szintű reprezentativitás egyszerű
+megállapítása] érdekében a fenntartó által területi (megyei) vagy települési szinten fenntartott munkáltatók
+által foglalkoztatott közalkalmazottak létszámát az adott fenntartó területi (megyei) vagy települési szintű
+fenntartásában működő munkáltatókra vonatkozó adatok összesítésével kell megállapítani.
+(2) A Kjt. 6/A. § (2) bekezdés b) pontja alkalmazása [a továbbiakban: területi (megyei) vagy települési szintű
+reprezentativitás ágazati adatokból történő megállapítása] érdekében a fenntartó által területi (megyei)
+vagy települési szinten fenntartott munkáltatóknál az adott ágazatban, alágazatban vagy szakágazatban
+(a továbbiakban: ágazat) foglalkoztatott közalkalmazottak létszámát az adott fenntartó területi (megyei) vagy
+települési szintű fenntartásában működő, főtevékenysége szerint az adott ágazatba tartozó munkáltatókra
+vonatkozó adatok összesítésével kell megállapítani.
+(3) A Kjt. 6/A. § (3) bekezdés alkalmazása (a továbbiakban: ágazati szintű reprezentativitás megállapítása) érdekében
+az ágazatban bármely fenntartónál foglalkoztatott közalkalmazottak létszámát az adott ágazatban közalkalmazotti
+jogviszonyban állók létszámával azonosan kell megállapítani.
+(4) A Kjt. 6/A. § (4) bekezdés alkalmazása (a továbbiakban: országos reprezentativitás megállapítása) érdekében
+a közalkalmazottak országos létszámát a közalkalmazotti jogviszonyban állók összlétszámával azonosan kell
+megállapítani.
+(5) A Kjt. 6/B. §-ára tekintettel kizárólag az országos reprezentativitás megállapításánál – a Közalkalmazottak
+Országos Munkaügyi Tanácsában (a továbbiakban: KOMT) történő részvétel céljából – kell figyelembe venni
+a fegyveres és rendvédelmi szerveknél foglalkoztatott közalkalmazottak létszámát.
+(6) Az (1)–(5) bekezdésben foglalt adatokat a 3. § (2) bekezdésében meghatározott igazolás hónapjának első napján
+közalkalmazotti jogviszonyban álló személyek létszáma alapján kell megállapítani.”
+(2) Az R1. 2. § (2) bekezdés helyébe a következő rendelkezés lép:
+„(2) Az (1) bekezdésben meghatározott adatszolgáltatás tartalmazza:
+a) a munkáltató megnevezését, székhelyét, adószámát vagy Magyar Államkincstár Törzskönyvi nyilvántartási
+számát (a továbbiakban: törzskönyvi azonosító szám), a munkáltató fenntartója megnevezését, az államháztartás
+
+szakágazati rendje szerinti kódját, a Kjt. 7. §-a szerinti intézményfenntartó központ szervezeti egységeként működő
+köznevelési intézmények OM azonosítóját;
+b) a munkáltatóknál közalkalmazotti jogviszonyban állók összlétszámát, valamint az összlétszám bontását
+ba) munkáltatók szerint;
+bb) ha a munkáltatói létszám megadása nemzetbiztonsági szabályok miatt nem lehetséges, a létszám szakágazatok
+szerinti összesítését;
+c) az adatok kezelésére adott felhatalmazást;
+d) a kitöltő személy nevét, telefonszámát, e-mail címét;
+e) a kiállítás dátumát.”
+(3) Az R1. 3. §-a helyébe a következő rendelkezés lép:
+„3. § (1) A területi (megyei) vagy települési szintű reprezentativitás megállapítása érdekében a munkáltatóval
+közalkalmazotti jogviszonyban álló szakszervezeti tagok létszámát
+a) a munkavállalói tagdíjfizetés önkéntességéről szóló törvény alapján a munkavállalónak a szakszervezeti tagdíj
+munkabérből való levonására a munkáltatónak adott megbízása alapján összesített taglétszám, valamint
+b) a szakszervezeti tagdíjat közvetlenül a (munkahelyi, ágazati vagy országos) szakszervezeti pénztárba befizető
+tagok összesített létszámát tartalmazó szakszervezeti igazolás
+alapján kell megállapítani.
+(2) Az (1) bekezdésben foglalt adatokat a Kjt. 6/A. § (5) bekezdésében meghatározott év január, február vagy március
+hónapjai közül sorsolással kiválasztott hónapra vonatkozóan (igazolás hónapja) kell megadni. A sorsolást a KOMT
+alapszabályában meghatározott eljárási rend alapján, a KOMT plenáris ülésén kell megtartani.
+(3) A területi (megyei) vagy települési szintű reprezentativitás egyszerű, illetve ágazati adatokból történő
+megállapítása érdekében
+a) a területi (megyei) szintű reprezentativitás esetén a megyei székhellyel,
+b) a települési szintű reprezentativitás esetén a települési székhellyel
+rendelkező munkáltatóknál közalkalmazotti jogviszonyban foglalkoztatott szakszervezeti tagok létszámára
+vonatkozó adatokat kell összesíteni a reprezentativitás egyszerű megállapítása esetén fenntartó szerint,
+a reprezentativitás ágazati adatokból történő megállapítása esetén a fenntartóhoz tartozó munkáltatók
+főtevékenysége szerinti ágazatok szerint.
+(4) Az ágazati szintű reprezentativitás megállapítása érdekében a szakszervezetnek az adott ágazatban
+foglalkoztatott közalkalmazott tagjai létszámát a főtevékenysége szerint az adott ágazatban működő
+munkáltatóknál foglalkoztatott közalkalmazott tagok létszámának összesítésével kell meghatározni.
+(5) Az országos reprezentativitás megállapítása érdekében a szakszervezeti tagok létszámát szakszervezeti
+konföderációk szerint kell összesíteni.
+(6) A fegyveres és rendvédelmi szerveknél foglalkoztatott szakszervezeti tag közalkalmazottak létszámát az 1. §
+(5) bekezdésében foglaltakra tekintettel kell megállapítani.”
+(4) Az R1. 4. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) Az (1) bekezdésben meghatározott adatszolgáltatás tartalmazza:
+a) a munkáltató megnevezését, székhelyét, adószámát vagy törzskönyvi azonosító számát, fenntartója
+megnevezését, az államháztartás szakágazati rendje szerinti kódját, a Kjt. 7. §-a szerinti intézményfenntartó központ
+szervezeti egységeként működő köznevelési intézmények OM azonosítóját;
+b) a munkáltatói szintű szakszervezet megnevezését, székhelyét, adószámát, továbbá annak megjelölését, hogy
+a szakszervezet mely ágazati szakszervezet, valamint országos szakszervezeti szövetség tagja, továbbá az ágazati
+szakszervezet, országos szakszervezeti szövetség székhelyét és adószámát;
+c) a munkabérből történő levonással, valamint szakszervezeti pénztárba szakszervezeti tagdíjat fizető,
+közalkalmazotti jogviszonyban álló tagok számát;
+d) az adatok kezelésére adott felhatalmazást;
+e) a kitöltő személy nevét, telefonszámát, e-mail címét;
+f) a kiállítás dátumát.”
+(5) Az R1. 5. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) Az adatokat legkésőbb a Kjt. 6/A. § (5) bekezdésében meghatározott időpontot követő második hónap utolsó
+napjáig
+a) az adatszolgáltatásra kötelezett
+aa) Magyar Államkincstár Területi Igazgatósága,
+ab) fenntartó,
+
+ac) munkáltatónál működő szakszervezet, szakszervezeti központ
+a Hivatalnak elektronikus úton,
+b) az adatszolgáltatásra kötelezett munkáltatónál működő szakszervezet, szakszervezeti központ a fenntartónak,
+önkormányzati fenntartású intézmény esetén az önkormányzat jegyzőjének,
+c) a munkáltatónál működő adatszolgáltatásra kötelezett szakszervezet saját felettes szakszervezeti központjának
+megküldi.”
+(6) Az R1. 6. §-a helyébe a következő rendelkezés lép:
+„6. § (1) A taglétszám megállapításával kapcsolatos adatfeldolgozási, adatösszesítési feladatokat – az adatkezelési
+felhatalmazás alapján – a Hivatal végzi. Az általa megállapított, összesített ágazati, illetve országos adatokról
+a Kjt. 6/A. § (5) bekezdésében meghatározott időpontot követő harmadik hónap 15. napjáig, elektronikusan
+tájékoztatja az Országos Reprezentativitást Megállapító Bizottságot (a továbbiakban: ORMB).
+(2) A beérkezett adatokat a következő reprezentativitás megállapítására irányuló eljárás lezárásáig meg kell őrizni,
+és ennek napjával archiválni kell. Az adatok nem nyilvánosak. Az illetékességi körébe tartozó adatokba kérelmére
+a fenntartó, a munkáltatónál működő szakszervezet, saját tagszervezeteinek az adatai tekintetében a szakszervezeti
+központ, valamint a területi (megyei) vagy települési reprezentativitást megállapító bizottságok (a továbbiakban:
+TRMB) és az ORMB tagja tekinthetnek be. A Hivatal érintett munkatársai és a foglalkoztatáspolitikáért felelős
+miniszter által az ORMB-be delegált képviselő valamennyi nyilvántartott adatba betekinthetnek. Az adatok
+harmadik személy részére nem adhatóak át.
+(3) A nyilvántartott adatokba történő betekintési jog gyakorlása céljából a Hivatal a kérelmezőt önálló azonosító
+kóddal látja el.”
+(7) Az R1. 7. §-a helyébe a következő rendelkezés lép:
+„7. § (1) A közalkalmazotti szakszervezetek országos és ágazati szintű reprezentativitását a Hivatal által átadott
+adatok alapján az ORMB állapítja meg.
+(2) Az ORMB tagjai a foglalkoztatáspolitikáért felelős miniszter, valamint a KOMT önkormányzati oldala által
+delegált egy-egy képviselő, a KOMT-ban részt vevő országos szakszervezeti konföderációk és az érintett ágazati
+szakszervezetek egy-egy képviselője.
+(3) Az ORMB-ben részt venni kívánó országos szakszervezeti konföderációnak és ágazati szakszervezetnek
+a foglalkoztatáspolitikáért felelős miniszter számára írásban kell bejelentenie részvételi szándékát, legkésőbb
+a Kjt. 6/A. § (5) bekezdésében meghatározott időpontig. A bejelentésnek tartalmaznia kell, hogy az országos
+szakszervezeti konföderáció és ágazati szakszervezet tevékenységét mely ágazatban vagy ágazatokban
+(alágazatban, szakágazatban) fejti ki. A bejelentéshez csatolni kell az országos szakszervezeti konföderáció
+és ágazati szakszervezet bírósági nyilvántartásba vételéről szóló határozat egy hónapnál nem régebben
+hitelesített másolatát és az ORMB-be delegált képviselőjének (helyettesének) nevét, és cégszerű aláírással ellátott
+megbízólevelét.
+(4) Az ORMB-ben való részvétellel több szakszervezet együttesen is megbízhat egy képviselőt.
+(5) Az ORMB mandátuma a 9. § (1) bekezdésében meghatározott – a Magyar Közlöny Hivatalos Értesítőjében való –
+közzététel időpontjáig tart.
+(6) Az ORMB tevékenységét a jogszabályoknak megfelelően, saját maga által kialakított ügyrend alapján végzi.”
+(8) Az R1. 8. §-a helyébe a következő rendelkezés lép:
+„8. § (1) A közalkalmazotti szakszervezet reprezentativitását területi (megyei) vagy települési szinten a fenntartók
+szerint létrehozott TRMB állapítja meg.
+(2) Önkormányzati fenntartónál létrehozott TRMB esetén:
+a) A TRMB tagjai a jegyző, főjegyző, valamint a területi (megyei) vagy települési szintű érdekegyeztetésben résztvevő
+szakszervezetek és részvételük esetén az országos szakszervezeti konföderációk egy-egy kijelölt képviselője.
+b) A TRMB-ben részt venni kívánó szakszervezetnek az illetékes jegyző, főjegyző számára írásban kell bejelentenie
+részvételi szándékát, legkésőbb a Kjt. 6/A. § (5) bekezdésében meghatározott időpontig. A bejelentéshez csatolni
+kell a szakszervezet TRMB-be delegált képviselőjének (helyettesének) nevét, és cégszerű aláírással ellátott
+megbízólevelét.
+c) A TRMB-ben való részvétellel több szakszervezet együttesen is megbízhat egy képviselőt.
+d) A TRMB mandátuma a 9. § (2) bekezdésében meghatározott közzététel időpontjáig tart.
+e) A TRMB tevékenységét a jogszabályoknak megfelelően, saját maga által kialakított ügyrend alapján végzi.
+(3) A Kjt. 7. §-a szerinti állami intézményfenntartó központ tekintetében a Kjt. 7. § b) pontjában szabályozott járási
+és megyei szintű reprezentativitást a tankerület járási és megyei szintű vezetője az illetékességi körében működő
+szakszervezetekkel együtt kialakított eljárási rend szerint állapítja meg.
+
+(4) A (2)–(3) bekezdésben nem szereplő fenntartó esetében a területi (megyei) vagy települési szintű
+reprezentativitást a fenntartó az általa fenntartott munkáltatóknál működő szakszervezetekkel együtt kialakított
+eljárási rend szerint állapítja meg.”
+(9) Az R1. 9. §-a helyébe a következő rendelkezés lép:
+„9. § (1) Az ORMB a Kjt. 6/A. § (5) bekezdésében meghatározott időponttól számított öt hónapon belül a Magyar
+Közlöny Hivatalos Értesítőjében, valamint a foglalkoztatáspolitikáért felelős miniszter által vezetett minisztérium
+hivatalos lapjában és honlapján közzéteszi az országosan és ágazati szinten reprezentatív szakszervezetek névsorát.
+(2) Az illetékes jegyző, illetve főjegyző a Kjt. 6/A. § (5) bekezdésében meghatározott időponttól számított öt
+hónapon belül közzéteszi a helyben szokásos módon az önkormányzat illetékességi körében reprezentatív
+szakszervezetek névsorát.
+(3) A (2) bekezdésben nem szabályozott esetben a fenntartó a Kjt. 6/A. § (5) bekezdésében meghatározott
+időponttól számított öt hónapon belül közzéteszi a helyben szokásos módon a saját illetékességi körében
+reprezentatív szakszervezetek névsorát.”
+(10) Az R1. 10. § 3. pontja helyébe a következő rendelkezés lép:
+(E rendelet alkalmazásában:)
+„3. szakágazat: négy számjegyű TEÁOR-kóddal jelzett tevékenységi terület, költségvetési szerv esetében
+az államháztartásért felelős miniszter rendeletében szabályozott, az államháztartás szakágazati rendje szerinti hat
+számjegyű kóddal jelzett államháztartási szakfeladat.”
+(11) Az R1. 5. § (1) bekezdésében a„Munkaügyi kapcsolatok Információs Rendszerben”szövegrész helyébe a„Munkaügyi
+Kapcsolatok Információs Rendszerben”szöveg lép.
+(12) Hatályát veszti az R1. 5. § (2) bekezdésében az„(a továbbiakban: MKIR rendszer üzemeltetője)”szöveg.
+5. A Foglalkoztatási és Közfoglalkoztatási Adatbázisról szóló 169/2011. (VIII. 24.) Korm. rendelet
+módosítása
+5. §
+A Foglalkoztatási és Közfoglalkoztatási Adatbázisról szóló 169/2011. (VIII. 24.) Korm. rendelet 2. § (1) bekezdése
+helyébe a következő rendelkezés lép:
+„(1) A jegyző által szolgáltatott adatok Adatbázisban való rögzítését – a településhez rendelt felhasználói azonosító
+alkalmazásával – a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 32/A. § (1) bekezdése
+szerint illetékes jegyző végzi. A jegyző a szolgáltatott adatokat, a döntés jogerőre emelkedésének időpontját kivéve,
+legkésőbb az ellátással összefüggő döntés meghozatalát követő öt munkanapon belül rögzíti. A jogerőre emelkedés
+időpontját legkésőbb a jogerőre emelkedésről való tudomásszerzést követő munkanapon kell rögzíteni.”
+6. A gyermek születése esetén az apát megillető pótszabadsággal összefüggő költségek
+megtérítéséről szóló 420/2012. (XII. 29.) Korm. rendelet módosítása
+6. §
+A gyermek születése esetén az apát megillető pótszabadsággal összefüggő költségek megtérítéséről szóló
+420/2012. (XII. 29.) Korm. rendelet 1. § (1) bekezdése a következő h) ponttal egészül ki:
+(A rendelet hatálya kiterjed)
+„h) a honvédek jogállásáról szóló törvény”
+[hatálya alá tartozó munkáltatókra és a gyermek születése esetén járó pótszabadságra jogosult foglalkoztatott
+személyekre (a továbbiakban: munkavállaló).]
+7. A harmadik országbeli állampolgárok magyarországi foglalkoztatásának nem összevont
+kérelmezési eljárás alapján történő engedélyezéséről, az engedélyezési kötelezettség alóli
+mentességről, a fővárosi és megyei kormányhivatal munkaügyi központjának az összevont
+kérelmezési eljárásban való szakhatósági közreműködéséről, valamint a Magyarországon
+engedélymentesen foglalkoztatható harmadik országbeli állampolgárok magyarországi
+foglalkoztatásának bejelentéséről, és a munkabér megtérítéséről szóló
+445/2013. (XI. 28.) Korm. rendelet módosítása
+7. § (1) A harmadik országbeli állampolgárok magyarországi foglalkoztatásának nem összevont kérelmezési eljárás alapján
+történő engedélyezéséről, az engedélyezési kötelezettség alóli mentességről, a fővárosi és megyei kormányhivatal
+munkaügyi központjának az összevont kérelmezési eljárásban való szakhatósági közreműködéséről, valamint
+
+a Magyarországon engedélymentesen foglalkoztatható harmadik országbeli állampolgárok magyarországi
+foglalkoztatásának bejelentéséről, és a munkabér megtérítéséről szóló 445/2013. (XI. 28.) Korm. rendelet
+(a továbbiakban: R2.) 2. § 12. pontja helyébe a következő rendelkezés lép:
+(E rendelet alkalmazásában:)
+„12. munkavállalási engedély meghosszabbítása: ha a harmadik országbeli állampolgár foglalkoztatására
+a mezőgazdasági szezonális munkavállalási engedély kivételével a munkavállalási engedély érvényességi
+időtartamának lejártát követően ugyanannál a foglalkoztatónál, ugyanabban a munkakörben és ugyanazon
+a munkavégzési helyen kerül sor, és a foglalkoztató a hosszabbítás iránti kérelmét a 9. § (1) bekezdés 16. pontjában
+meghatározott időben nyújtja be;”
+(2) Az R2. 4. §-a következő (4) bekezdéssel egészül ki:
+„(4) A munkavállalási engedély meghosszabbítására az engedélyezés szabályait kell alkalmazni.”
+(3) Az R2. 5. § (1) bekezdés j) pontja helyébe a következő rendelkezés lép:
+(A munkavállalási engedély iránti kérelmet el kell utasítani, ha)
+„j) a harmadik országbeli állampolgár magyarországi foglalkoztatására a kérelmezett foglalkoztatás időtartamát
+érintően érvényes engedély van hatályban,”
+(4) Az R2. 5. §-a a következő (4) bekezdéssel egészül ki:
+„(4) Az (1) bekezdés j) pontjának alkalmazásában nem minősül érvényes engedélynek, ha a másik érvényes
+engedéllyel rendelkező foglalkoztató a munkavállalási engedély elbírálásáig kezdeményezi az engedély
+visszavonását.”
+(5) Az R2. 6. § (2) bekezdés b) pontja helyébe a következő rendelkezés lép:
+[Az (1) bekezdésben meghatározott egyéb foglalkoztatási szempont lehet különösen, ha]
+„b) a foglalkoztatót a kérelem benyújtását megelőző egy éven belül jogerősen harmadik országbeli állampolgár
+engedély nélküli foglalkoztatása miatt a munkaügyi ellenőrzésről szóló törvényben meghatározott, a Nemzeti
+Foglalkoztatási Alapba történő befizetésre kötelezték,”
+(6) Az R2. 9. §-a a következő (6) bekezdéssel egészül ki:
+„(6) Az (1) bekezdés 13. pontjában meghatározott esetben az engedély kiadásakor nem kell vizsgálni a 3. §
+(2) bekezdés c) pontjában írt feltétel fennállását, és a kérelemhez a képzettséget, végzettséget tanúsító okiratok
+másolatait nem kell csatolni. A kérelemhez csatolni kell a filmalkotás magyarországi gyártásának elvégzésére
+vagy a koprodukciós filmalkotás gyártására kötött magánjogi szerződést, valamint a filmalkotás Nemzeti Média és
+Hírközlési Hatóság Hivatalánál történő nyilvántartásba vételére irányuló kérelem benyújtásáról szóló igazolást.”
+(7) Az R2. 10. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A 3. § (3) bekezdés a) pontja esetén a munkavállalási engedély és a mezőgazdasági szezonális munkavállalási
+engedély (a továbbiakban együtt: engedély) iránti kérelmet, valamint a munkaerőigényt annál a munkaügyi
+központnál kell benyújtani, amelynek területén a harmadik országbeli állampolgár foglalkoztatása történik. A 3. §
+(3) bekezdés b) és c) pontjai esetében a munkaerőigényt a foglalkoztatás helye szerint illetékes kirendeltségnél kell
+benyújtani.”
+(8) Az R2. 18. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A munkaügyi központ a szakhatósági állásfoglalásában − a 3. § (2) bekezdés a) és b) pontjában meghatározott
+szempontok vizsgálata nélkül − támogatja a harmadik országbeli állampolgárnak az előzetes megállapodásban
+meghatározott munkakörben történő magyarországi munkavállalását, ha a harmadik országbeli állampolgár
+tekintetében olyan feltételek állnak fenn, amelyek alapján a nem összevont kérelmezési eljárás alapján kiadandó
+tartózkodásra jogosító engedélyt kérelmező harmadik országbeli állampolgár magyarországi foglalkoztatásához
+− a 15. §-ban foglaltak szerint − nem lenne szükség engedélyre vagy az engedélyt a 9. §-ban foglaltak szerint
+a munkaerőpiaci helyzet vizsgálata nélkül kellene kiadni. Az összevont kérelmezési eljárásban a 9. § (1) bekezdés
+16. pontja azzal az eltéréssel alkalmazandó, hogy a foglalkoztató helyett az összevont engedély kiadására irányuló
+tartózkodási engedély iránti kérelmet a munkavállaló nyújtja be.”
+(9) Az R2. 19. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) Ha a harmadik országbeli állampolgár foglalkoztatásának helye több különböző megye területén található,
+az (1) bekezdés b) és c) pontjában meghatározott feltételnek − a (4) bekezdésben meghatározott kivétellel −
+a foglalkoztató székhelye szerinti megyében kell fennállnia. Ezen túlmenően a támogató szakhatósági állásfoglalás
+kiadásának az is feltétele, hogy a munkavégzéssel érintett többi megye területén ne álljon rendelkezésre olyan
+kiközvetíthető munkaerő, aki a tevékenység ellátására rendelkezik a jogszabályban előírt, valamint a foglalkoztató
+munkaerőigényében megjelölt alkalmazási feltételekkel. A támogató szakhatósági állásfoglalás azonban kiadható
+azon munkavégzéssel érintett többi megye területére is, ahol megfelelő munkaerő nem áll rendelkezésre.”
+
+(10) Az R2. 20. § (1) bekezdés d)–i) pontja helyébe a következő rendelkezés lép:
+(A munkaügyi központ szakhatósági állásfoglalásában nem támogatja az összevont engedély kiadását, ha)
+„d) a harmadik országbeli állampolgár által ellátandó tevékenység elvégzésére a jogszabály vagy a foglalkoztató
+által előírt képzettséggel és alkalmazási feltételekkel rendelkező kiközvetíthető munkaerő áll rendelkezésre, és
+annak foglalkoztatása a foglalkoztató érdekkörében fennálló okból hiúsul meg, így különösen ha
+da) a foglalkoztató a munkaerőigényében a munkavállaló alkalmazásához olyan feltételt írt elő, amelynek előírása
+az ott megjelölt munkakör betöltéséhez vagy tevékenység ellátásához nem szükséges,
+db) a foglalkoztató a jogszabályban vagy a munkaerőigényében meghatározott feltételeknek megfelelő
+kiközvetíthető munkaerő foglalkoztatásától elzárkózott, vagy a foglalkoztató a kérelem benyújtását megelőzően
+érvényes munkaerőigénnyel rendelkezett, de közvetítést nem kért, vagy a munkaerőigény érvényességi idejét
+15 napnál rövidebb időtartamban határozta meg,
+e) a harmadik országbeli állampolgár állandó lakóhelye szerinti ország illetékes hatósága a magyar állampolgárok
+adott országban történő munkavállalásának engedélyezését más országok állampolgáraira irányadó általános
+feltételekhez képest indokolatlanul nehezebb feltételhez köti (viszonosság hiánya),
+f) az előzetes megállapodást megkötő foglalkoztatónál a foglalkoztatás egészségügyi, szakmai, vagy műszaki
+feltételei nem biztosítottak,
+g) a 18. § alapján kérelmezett összevont engedély esetén, a szakhatósági állásfoglalás kiadásának alapjául szolgáló
+feltételek nem állnak fenn,
+h) a foglalkoztató az EU Kék Kártyával foglalkoztatandó személynek a külön jogszabályban meghatározott kötelező
+legkisebb munkabérnél alacsonyabb bért kíván fizetni,
+i) a harmadik országbeli állampolgár magyarországi foglalkoztatására a kérelmezett foglalkoztatás időtartamát
+érintő időtartamban egy másik foglalkoztató érvényes engedéllyel rendelkezik, ide értve a részmunkaidős
+foglalkoztatásra szóló engedélyt, vagy”
+(11) Az R2. 20. § (1) bekezdése a következő j) ponttal egészül ki:
+(A munkaügyi központ szakhatósági állásfoglalásában nem támogatja az összevont engedély kiadását, ha)
+„j) a foglalkoztató a harmadik országbeli állampolgár foglalkoztatását az összevont engedély iránti kérelem
+benyújtásának időpontjától számított százhúsz napon belül nem kívánja megkezdeni.”
+(12) Az R2. 20. §-a a következő (3)–(6) bekezdéssel egészül ki:
+„(3) Az (1) bekezdés i) pontja tekintetében nem minősül érvényes engedélynek, ha a másik érvényes engedéllyel
+rendelkező foglalkoztató a munkavállalási engedély elbírálásáig kezdeményezi az engedély visszavonását.
+(4) A munkaügyi központ egyéb foglalkoztatási szempont mérlegelése alapján dönthet arról, hogy szakhatósági
+állásfoglalásában nem támogatja az összevont engedély kiadását.
+(5) A (4) bekezdésben meghatározott egyéb foglalkoztatási szempont, ha
+a) az összevont engedély iránti kérelem benyújtásának időpontjában a harmadik országbeli állampolgár által
+ellátandó tevékenységre vonatkozóan a Nemzeti Foglalkoztatási Alapból támogatott olyan képzés van folyamatban,
+amely a harmadik országbeli állampolgár foglalkoztatásának tervezett megkezdését megelőzően befejeződik,
+b) az előzetes megállapodást megkötő foglalkoztató a kérelem benyújtását megelőző egy évben csoportos
+létszámcsökkentést hajtott végre,
+c) az előzetes megállapodást megkötő foglalkoztatónál a kérelem benyújtásának időpontjában a harmadik
+országbeli állampolgár által ellátandó tevékenységet is érintő sztrájk van,
+d) az előzetes megállapodásban a harmadik országbeli állampolgár által ellátandó tevékenységért az erre
+a tevékenységre vonatkozó országos átlagos személyi alapbérnél lényegesen alacsonyabb alapbér − ideértve
+az illetményt és a díjazást – szerepel.
+(6) A (5) bekezdés d) pontjában meghatározott feltétel szempontjából a harmadik országbeli állampolgár által
+ellátandó tevékenységért megjelölt alapbér − ideértve az illetményt és a díjazást − az erre a tevékenységre
+vonatkozó országos személyi alapbérnél akkor minősül lényegesen alacsonyabbnak, ha nem haladja meg annak
+nyolcvan százalékát.”
+(13) Az R2. a következő 21/A. §-sal egészül ki:
+„21/A. § (1) A munkaügyi központ a szakhatósági állásfoglalás kiadása során − szükség esetén
+a) a munkavállalón kívül a foglalkoztatót is felhívhatja hiánypótlásra, valamint
+b) a munkavállalót a foglalkoztató közreműködésével is felhívhatja hiánypótlásra.
+(2) A munkaügyi központ visszavonja a szakhatósági állásfoglalást, ha
+a) a becsatolt iratról megállapításra került, hogy hamis, meghamisított vagy valótlan tartalmú,
+
+b) a foglalkoztatásnak az összevont kérelmezési eljárás keretében kiadott szakhatósági állásfoglalás alapjául szolgáló
+feltételei – a 3. § (2) bekezdés b) pontja kivételével − már nem állnak fenn, vagy
+c) tudomására jut, hogy a foglalkoztatásra az engedélyben foglaltaktól eltérő munkahelyen vagy munkakörben
+kerül sor.”
+(14) Az R2. 22. §-a helyébe a következő rendelkezés lép:
+„22. § (1) A közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 71. §
+(2) bekezdése az összevont engedélyezésre vonatkozó szakhatósági eljárásban, valamint a harmadik országbeli
+állampolgár magyarországi munkavállalásának engedélyezési eljárásában nem alkalmazható.
+(2) A Nemzeti Munkaügyi Hivatalnak a másodfokú eljárásban adandó szakhatósági állásfoglalására a 17–21/A. §-ban
+foglaltakat megfelelően alkalmazni kell.”
+(15) Az R2. 25. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A 2014. január 1-jét megelőzően hatályban volt jogszabály alapján kiadott munkavállalási engedély
+2013. december 31. napját követően csak az engedély meghosszabbítása iránti kérelem beadásakor hatályos
+jogszabályokban foglalt feltételek fennállása esetén hosszabbítható meg, ha a hosszabbítás iránti kérelem
+beadásának idején hatályos jogszabályok szerint a kérelem nem tartozik az összevont kérelmezési eljárás alá. Ha
+a 2014. január 1-jét megelőzően hatályban volt jogszabály alapján kiadott munkavállalási engedély a hosszabbításra
+irányuló kérelem időpontjában hatályos jogszabályok szerint összevont kérelmezési eljárás alá tartozik,
+a hosszabbítási kérelemre a munkaügyi központ a 9. § (1) bekezdés 16. pontjában foglalt feltételek fennállása esetén
+a szakhatósági hozzájárulást a munkaerőpiaci helyzet vizsgálata nélkül adja ki.”
+(16) Az R2. 2. melléklete az 1. melléklet szerint módosul.
+(17) Az R2.
+a) 11. § (2) bekezdésében az„az 2. melléklet”szövegrész helyébe az„az 1. és 2. melléklet”,
+b) 20. § (2) bekezdésében a„g) pontjában”szövegrész helyébe az„e) pontjában”,
+szöveg lép.
+(18) Hatályát veszti az R2.
+a) 4. § (3) bekezdésében az„A meghosszabbításra az engedélyezés szabályait kell alkalmazni.”szövegrész,
+b) 21. § (5) bekezdése.
+8. A költségvetési szervek és az egyházi jogi személyek foglalkoztatottjainak
+2014. évi kompenzációjáról szóló 495/2013. (XII. 29.) Korm. rendelet módosítása
+8. § (1) A költségvetési szervek és az egyházi jogi személyek foglalkoztatottjainak 2014. évi kompenzációjáról szóló
+495/2013. (XII. 29.) Korm. rendelet (a továbbiakban: R3.) 3. § (11) bekezdése helyébe a következő rendelkezés lép:
+„(11) Az Fbszt. és a Tbszt. alapján megszüntetésre került gazdasági társaságok volt foglalkoztatottjai esetében
+az 5. melléklet II. 2. Munkáltatói rész szerinti nyilatkozat alapján a (2)–(9) bekezdés szerinti kompenzáció összegét
+az illetményszámfejtést végző szervezet legfeljebb nulla összegig csökkenti
+a) a kötelező legkisebb munkabér (minimálbér) és a garantált bérminimum megállapításáról szóló 337/2010.
+(XII. 27.) Korm. rendelet szerinti minimálbér és garantált bérminimum elérése érdekében végrehajtott személyi
+alapbéremelés,
+b) a munkabérek nettó értékének megőrzéséhez szükséges munkabéremelés 2012. évi elvárt mértékéről és a béren
+kívüli juttatás ennek keretében figyelembe vehető mértékéről szóló 299/2011. (XII. 22.) Korm. rendelet szerinti
+munkabéremelés, vagy ennek hiányában a kötelező legkisebb munkabér (minimálbér) és a garantált bérminimum
+megállapításáról szóló 298/2011. (XII. 22.) Korm. rendelet szerinti minimálbér és garantált bérminimum elérése
+érdekében végrehajtott személyi alapbéremelés
+94%-ának 100 forintra kerekített összegével.”
+(2) Az R3. 4. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
+[A 3. § vonatkozásában – a (2) bekezdésben, valamint a 3. § (10) bekezdésében foglalt kivételekkel – illetményként kell
+figyelembe venni:]
+„b) a Kttv. 131. § (2) bekezdése szerinti – a Kttv. 133. § (3)–(6) bekezdése szerinti alapilletmény-eltérítés
+figyelembevételével számított – illetményt, valamint a kormányzati ügykezelők esetén a Kttv. 208. §-a, illetve
+a közszolgálati ügykezelők esetén a Kttv. 242. §-a szerinti illetményt,”
+(3) Az R3. 4. § (1) bekezdés nyitó szövegrészében az „illetményként kell” szövegrész helyébe a „jogszabály eltérő
+rendelkezése hiányában illetményként kell”szöveg lép.
+
+9. Záró rendelkezések
+9. §
+Ez a rendelet a kihirdetését követő 5. napon lép hatályba.
+10. §
+E rendelet 7. §-a
+a) a harmadik országbeli állampolgárok valamely tagállam területén való tartózkodásra és munkavállalására
+vonatkozó összevont engedélyre irányuló összevont kérelmezési eljárásról, valamint a harmadik országból
+származó, valamely tagállam területén jogszerűen tartózkodó munkavállalók közös jogairól szóló
+2011. december 13-i 2011/98/EU európai parlamenti és tanácsi irányelv 5. cikk (4) bekezdésének és a 11. cikk
+c) pontjának,
+b) a harmadik országbeli állampolgárok magas szintű képzettséget igénylő munkavállalás céljából való
+belépésének és tartózkodásának feltételeiről szóló 2009. május 25-i 2009/50/EK tanácsi irányelvnek
+való megfelelést szolgálja.
+11. §
+Hatályát veszti a munkabérek nettó értékének megőrzéséhez szükséges munkabéremelés 2012. évi elvárt
+mértékéről és a béren kívüli juttatás ennek keretében figyelembe vehető mértékéről szóló 299/2011. (XII. 22.)
+Korm. rendelet.
+ Orbán Viktor s. k.,
+ miniszterelnök
+1. melléklet a 89/2014. (III. 20.) Korm. rendelethez
+1. Az R2. 2. melléklete a következő 6.6. ponttal egészül ki:
+(A kérelmező foglalkoztató nyilatkozatai:)
+„6.6. Nyilatkozom, hogy kérelmem
+o
+1. a vállalaton belül áthelyezett munkavállalóként, au pairként vagy tengerészként Magyarország területén
+tartózkodni szándékozó, illetve tartózkodó harmadik országbeli állampolgárra vonatkozik.
+o
+2. olyan a harmadik országbeli állampolgárra vonatkozik, aki a menekültügyi hatóságtól menekültkénti
+elismerését kérte vagy a menekültügyi hatóságtól ideiglenes vagy kiegészítő védelmet kért.
+o
+3. befogadottra vonatkozik.
+o
+4. olyan harmadik országbeli állampolgárra vonatkozik, aki száznyolcvan napon belül kilencven napot meg nem
+haladó időtartamban kíván munkaviszonyt létesíteni.”
+2. Az R2. 2. melléklete a következő 7.3. és 7.4. ponttal egészül ki:
+(A kérelemhez kötelezően csatolandó mellékletek:)
+„7.3. A 6.6. pont 1–3. pontjainak alátámasztására szolgáló magyar nyelvű dokumentum, vagy annak hiteles
+másolata, illetve nem magyar nyelvű dokumentum esetén annak hiteles magyar fordítása.
+7.4. A munkavállaló útlevelének másolata.”
