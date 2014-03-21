@@ -8,39 +8,45 @@
 
 ## I. A Területi Vízgazdálkodási Tanács
 
-## 5. A TVT működési területe megegyezik a tervezési alegységre vonatkozó vízgyűjtő-gazdálkodási terv készítésére külön jogszabályban kijelölt Nemzeti Környezetügyi Intézet területi kirendeltsége működési területével.
+## 5.[^1] A TVT működési területe megegyezik a vízügyi igazgatóság működési területével.
 
-## 6. A TVT legfeljebb 25 tagból áll, tagjai:
+## 6.[^2] A TVT legfeljebb 25 tagból áll, tagjai:
 
-## a) a környezetvédelemért felelős miniszternek, a vízügyi igazgatási szervek irányításáért felelős miniszternek, valamint a vízgazdálkodásért felelős miniszternek,
+## a) a vízgazdálkodásért felelős miniszternek,
 
-## b) a működési terület szerinti vízügyi igazgatóságnak,
+## b) a vízvédelemért felelős miniszternek,
 
-## c) a Nemzeti Környezetügyi Intézet működési terület szerinti területi kirendeltségének,
+## c) a működési terület szerinti vízügyi igazgatóságnak,
 
-## d) az illetékes környezetvédelmi, természetvédelmi és vízügyi felügyelőségnek,
+## d) az illetékes vízügyi hatóságnak,
 
-## e) a működési terület szerinti nemzeti park igazgatóságnak, helyi jelentőségű védett természetvédelmi terület esetén az illetékes jegyzőnek,
+## e) az illetékes környezetvédelmi és természetvédelmi felügyelőségnek,
 
-## f) a fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szervének, valamint földművelésügyi igazgatóságának,
+## f) a Nemzeti Környezetügyi Intézet működési terület szerinti területi kirendeltségének,
 
-## g) a működési területén lévő helyi önkormányzatoknak,
+## g) a működési terület szerinti nemzeti park igazgatóságnak, helyi jelentőségű védett természetvédelmi terület esetén a települési önkormányzatnak,
 
-## h) a megyei önkormányzatnak,
+## h) a fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szervének, valamint földművelésügyi igazgatóságának,
 
-## i) a Regionális Idegenforgalmi Bizottságnak,
+## i) a megyei önkormányzatnak,
 
-## j) az agrár-, az ipar-, valamint a mérnöki kamarának,
+## j) a regionális idegenforgalmi bizottságnak,
 
-## k) a vízgazdálkodási társulatoknak, valamint a közműves ivóvízellátást és szennyvízelvezetést végző gazdálkodó szervezeteknek
+## k) az agrár-, az ipar-, valamint a mérnöki kamarának,
 
-## a környezetvédelemért felelős miniszternek, valamint a vízgazdálkodásért felelős miniszternek a felkérésére kijelölt képviselői.
+## l) a működési területén lévő települési önkormányzatoknak,
+
+## m) a vízgazdálkodási társulatoknak, valamint a közműves ivóvízellátást és szennyvízelvezetést végző gazdálkodó szervezeteknek,
+
+## n) a TVT működési területén és annak feladatköréhez kapcsolódóan tevékenységet folytató civil szervezeteknek, valamint szakmai-tudományos szervezeteknek
+
+## 1-1 kijelölt képviselője.
 
 ## 7. Amennyiben a TVT működési területén világörökségi terület található, a TVT ülésein a Forster Gyula Nemzeti Örökséggazdálkodási és Szolgáltatási Központ képviselője állandó meghívottként, tanácskozási joggal vesz részt.
 
 ## 8. A TVT
 
-## a) a tevékenységét önállóan, a megyei közgyűléssel összehangoltan végzi;
+## a)[^3] a tevékenységét önállóan, a megyei önkormányzattal összehangoltan végzi;
 
 ## b) elősegíti a területi szintű vízgazdálkodás szakmai feladatainak egységes végrehajtását, valamint a vízügyi tervezés, a vízépítés és a szolgáltató tevékenység összehangolt működését;
 
@@ -70,31 +76,33 @@
 
 ## dd) Magyarország települési ivóvízminőség – javító, valamint szennyvízelvezetési és szennyvíztisztítási programjának irányelvei alapján – a programok összehangolására.
 
-## 9. A TVT alakuló ülését a Nemzeti Környezetügyi Intézet területi kirendeltségének vezetője hívja össze. A TVT tagjai az alakuló ülésen a tagok többségének szavazatával maguk közül elnököt választanak.
+## 9.[^4] A TVT tagjai az elnököt maguk közül, a tagok többségének szavazatával választják meg.
 
 ## 10. A TVT feladatai teljesítésének elősegítése érdekében állandó vagy eseti bizottságokat hozhat létre.
 
-## 11. A TVT a vízgyűjtő-gazdálkodási tervezés során a társadalmi részvétel biztosítása érdekében egy vagy – ha a helyi területi, társadalmi viszonyok indokolják – több vízgyűjtő-gazdálkodási tervezési bizottságot hoz létre, amely 17 tagból áll, tagjai:
+## 11.[^5] A TVT a vízgyűjtő-gazdálkodási tervezés során a társadalmi részvétel biztosítása érdekében egy vagy – ha a helyi területi, társadalmi viszonyok indokolják – több vízgyűjtő-gazdálkodási tervezési bizottságot hoz létre, amely 18 tagból áll. Tagjai:
 
 ## a) a közigazgatás részéről
 
-## aa) a Nemzeti Környezetügyi Intézet működési terület szerinti kirendeltsége,
+## aa) a működési terület szerinti vízügyi igazgatóság,
 
-## ab) a működési terület szerinti vízügyi igazgatóság,
+## ab) az illetékes vízügyi hatóság,
 
-## ac) az illetékes környezetvédelmi, természetvédelmi és vízügyi felügyelőség,
+## ac) a Nemzeti Környezetügyi Intézet működési terület szerinti kirendeltsége,
 
-## ad) a működési terület szerinti nemzeti park igazgatóság,
+## ad) az illetékes környezetvédelmi és természetvédelmi felügyelőség,
 
-## ae) a fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerve,
+## ae) a működési terület szerinti nemzeti park igazgatóság,
 
-## af) a fővárosi és megyei kormányhivatal földművelésügyi igazgatósága,
+## af) a fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerve,
 
-## ag) a megyei önkormányzat, valamint
+## ag) a fővárosi és megyei kormányhivatal földművelésügyi igazgatósága,
 
-## ah) a helyi önkormányzatok
+## ah) a megyei önkormányzat, valamint
 
-## által kijelölt 1-1 fő;
+## ai) a helyi önkormányzatok
+
+## által a TVT elnökének felkérése alapján kijelölt 1-1 fő;
 
 ## b) a működési területen tevékenységet folytató
 
@@ -104,9 +112,11 @@
 
 ## bc) szakmai-tudományos szervezetek
 
-## által kijelölt 3-3 fő.
+## által a TVT elnökének felkérése alapján kijelölt 3-3, szervezetenként legfeljebb 1 fő.
 
-## 12. A 10. pont szerinti bizottság az 1. pont szerinti szempontok érvényesítése érdekében állást foglal a TVT működési területére eső tervezési alegységekre vonatkozó vízgyűjtő-gazdálkodási tervről.
+## 12.[^6] A 11. pont szerinti bizottság az 1. pont szerinti szempontok érvényesítése érdekében –
+
+## a működési területét érintően – állást foglal a vízgyűjtő-gazdálkodás egyes szabályairól szóló 221/2004. (VII. 21.) Korm. rendelet (a továbbiakban: R.) 19. § (2) bekezdése szerinti dokumentumokról.
 
 ## 13. A TVT elnöke a TVT működéséről tájékoztatja
 
@@ -114,17 +124,19 @@
 
 ## b) a közvéleményt az üléseket követő 30 napon belül.
 
-## 14. A TVT titkársági feladatait az azt létrehozó Nemzeti Környezetügyi Intézet területi kirendeltsége látja el.
+## 14.[^7] A TVT titkársági feladatait a működési terület szerinti vízügyi igazgatóság látja el.
 
 ## II. A Részvízgyűjtő Vízgazdálkodási Tanács
 
-## 15. Az RVT működési területe megegyezik a Duna közvetlen, a Tisza, a Dráva és a Balaton részvízgyűjtőjére vonatkozó vízgyűjtő-gazdálkodási terv készítésére külön jogszabályban kijelölt Nemzeti Környezetügyi Intézet területi kirendeltségének működési területével.
+## 15.[^8] Az RVT működési területe megegyezik a Duna közvetlen, a Tisza, a Dráva és a Balaton részvízgyűjtőjének
+
+## az R. szerinti területével.
 
 ## 16. Az RVT tagja
 
 ## a) a részvízgyűjtő területén működő TVT-k által kijelölt 1-1 fő,
 
-## b) a 10. pontban meghatározott, az RVT működési területén lévő államigazgatási szervek által kijelölt 6 fő,
+## b)[^9] a 11. pontban meghatározott, az RVT működési területén lévő államigazgatási szervek által kijelölt 9 fő,
 
 ## c) a működési területen tevékenységet folytató, részvízgyűjtő-gazdálkodással érintett civil szervezetek által kijelölt 3 fő,
 
@@ -142,59 +154,65 @@
 
 ## d) ellenőrzi a civil szervezetek és egyéb érdekeltek részéről érkezett észrevételek figyelembevételét,
 
-## e) az 1. pont szerinti szempontok érvényesítése érdekében állást foglal a részvízgyűjtő szintű vízgyűjtő-gazdálkodási tervről.
+## e)[^10] az 1. pont szerinti szempontok érvényesítése érdekében – a működési területét érintően – állást foglal az R. 19. § (2) bekezdése szerinti dokumentumokról.
 
-## 18. Az RVT alakuló ülését a 16. pont szerinti Nemzeti Környezetügyi Intézet területi kirendeltségének vezetője hívja össze. Az RVT tagjai az alakuló ülésen a tagok többségének szavazatával maguk közül elnököt választanak.
+## 18.[^11] Az RVT tagjai az elnököt maguk közül, a tagok többségének szavazatával választják meg.
 
-## 19. Az RVT titkársági feladatait az azt létrehozó Nemzeti Környezetügyi Intézet területi kirendeltsége látja el.
+## 19.[^12] Az RVT titkársági feladatait a részvízgyűjtő szintű vízgyűjtő-gazdálkodási terv készítésére az R.-ben kijelölt vízügyi igazgatóság látja el.
 
 ## III. Az Országos Vízgazdálkodási Tanács
 
 ## 20. Az OVT a vízgyűjtő-gazdálkodási tervezéssel kapcsolatos feladatait országos szinten látja el.
 
-## 21. Az OVT tagjai
+## 21.[^13] Az OVT tagjai
 
 ## a) a vízgazdálkodásért felelős miniszter által kijelölt állami vezető,
 
-## b) a részvízgyűjtő szintű vízgyűjtő-gazdálkodási terv készítésére külön jogszabályban kijelölt Nemzeti Környezetügyi Intézet területi kirendeltségének képviselője,
+## b) a részvízgyűjtő szintű vízgyűjtő-gazdálkodási tervek készítésére az R.-ben kijelölt vízügyi igazgatóságok
 
-## c) a Nemzeti Környezetügyi Intézet képviselője,
+## 1-1 képviselője,
 
-## d) az Országos Vízügyi Főigazgatóság képviselője,
+## c) az Országos Vízügyi Főigazgatóság képviselője,
 
-## e) az Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség képviselője,
+## d) az Országos Vízügyi Hatóság képviselője,
 
-## f) a környezetvédelemért felelős miniszter e szakterületről kijelölt képviselője,
+## e) a Nemzeti Környezetügyi Intézet képviselője,
 
-## g) a természetvédelemért felelős miniszter e szakterületről kijelölt képviselője,
+## f) az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség képviselője,
 
-## h) a vízgazdálkodásért felelős miniszter e szakterületről kijelölt képviselője,
+## g) a vízgazdálkodásért felelős miniszter e szakterületről kijelölt képviselője,
 
-## i) a vízügyi igazgatási szervek irányításáért felelős miniszter e szakterületről kijelölt képviselője,
+## h) a környezetvédelemért felelős miniszter e szakterületről kijelölt képviselője,
 
-## j) a helyi önkormányzatokért felelős miniszter e szakterületről kijelölt képviselője,
+## i) a természetvédelemért felelős miniszter e szakterületről kijelölt képviselője,
 
-## k) a területfejlesztésért felelős miniszter e szakterületről kijelölt képviselője,
+## j) a vízvédelemért felelős miniszter e szakterületről kijelölt képviselője,
 
-## l) a területrendezésért felelős miniszter e szakterületről kijelölt képviselője,
+## k) a helyi önkormányzatokért felelős miniszter e szakterületről kijelölt képviselője,
 
-## m) az agrárpolitikáért felelős miniszter e szakterületről kijelölt képviselője,
+## l) a területfejlesztésért felelős miniszter e szakterületről kijelölt képviselője,
 
-## n) az agrár-vidékfejlesztésért felelős miniszter e szakterületről kijelölt képviselője,
+## m) a területrendezésért felelős miniszter e szakterületről kijelölt képviselője,
 
-## o) a halgazdálkodásért felelős miniszter e szakterületről kijelölt képviselője,
+## n) az agrárpolitikáért felelős miniszter e szakterületről kijelölt képviselője,
 
-## p) az egészségügyért felelős miniszter e szakterületről kijelölt képviselője,
+## o) az agrár-vidékfejlesztésért felelős miniszter e szakterületről kijelölt képviselője,
 
-## q) a közlekedésért felelős miniszter e szakterületről kijelölt képviselője,
+## p) a halgazdálkodásért felelős miniszter e szakterületről kijelölt képviselője,
 
-## r) energiapolitikáért felelős miniszter e szakterületről kijelölt képviselője,
+## q) az egészségügyért felelős miniszter e szakterületről kijelölt képviselője,
 
-## s) az államháztartásért felelős miniszter e szakterületről kijelölt képviselője,
+## r) a közlekedésért felelős miniszter e szakterületről kijelölt képviselője,
 
-## t) a világörökségért felelős miniszter e szakterületről kijelölt képviselője,
+## s) az energiapolitikáért felelős miniszter e szakterületről kijelölt képviselője,
 
-## u) a vízgazdálkodásért felelős miniszter által felkért civil szervezetek, gazdálkodó szervezetek, szakmai-tudományos szervezetek által delegált 5-5 fő.
+## t) az államháztartásért felelős miniszter e szakterületről kijelölt képviselője,
+
+## u) a kultúráért felelős miniszter e szakterületről kijelölt képviselője,
+
+## v) a közigazgatás-szervezésért felelős miniszter e szakterületről kijelölt képviselője,
+
+## w) a vízgazdálkodásért felelős miniszter által felkért civil szervezetek, gazdálkodó szervezetek, szakmai-tudományos szervezetek által delegált 5-5, szervezetenként legfeljebb 1 fő.
 
 ## 22. Az OVT feladatai a következők:
 
@@ -212,7 +230,7 @@
 
 ## IV. A vízgazdálkodási tanácsok működésének közös szabályai
 
-## 26. A vízgazdálkodási tanács e kormányhatározat, a környezetvédelemért felelős miniszter, valamint a vízgazdálkodásért felelős miniszter által jóváhagyott szervezeti és működési szabályzat és az éves munkaterv alapján működik.
+## 26.[^14] A vízgazdálkodási tanács e kormányhatározat, a vízgazdálkodásért felelős miniszter által jóváhagyott szervezeti és működési szabályzat, valamint az éves munkaterv alapján működik.
 
 ## 27. A vízgazdálkodási tanács az üléseit szükség szerint, de évente legalább két alkalommal tartja. Az ülést a vízgazdálkodási tanács elnöke vagy öt tagja hívhatja össze. A meghívóhoz mellékelni kell mindazokat a dokumentumokat, amelyeknek ismerete a tanácskozáshoz szükséges. A vízgazdálkodási tanács elnöke meghívhatja az ülésre az egyes napirendi pontok tárgyalásában érdekelt szervezetek képviselőit. A szervezetek meghívott képviselői az ülésen tanácskozási joggal vesznek részt.
 
@@ -227,6 +245,18 @@
 ## 32. A vízgazdálkodási tanács szervezetével és működésével kapcsolatos részletes szabályokat a tagok által az alakuló ülésen elfogadott szervezeti és működési szabályzat tartalmazza.
 
 ## 33. Ez a határozat a közzétételét követő napon lép hatályba.
+
+## 34.[^15] E kormányhatározatnak a vízgazdálkodási tanácsokról szóló 1382/2013. (VI. 27.) Korm. határozat módosításáról szóló 1153/2014. (III. 20.) Korm. határozattal (a továbbiakban: Korm.határozat mód.) megállapított rendelkezéseinek végrehajtása érdekében
+
+## a) a TVT és az RVT összehívásáról az elnök, elnök hiányában a titkársági feladatokat ellátó vízügyi igazgatóság igazgatója
+
+## aa) a TVT vonatkozásában 2014. június 30-ig,
+
+## ab) az RVT vonatkozásában 2014. szeptember 30-ig;
+
+## b) az OVT összehívásáról a 23. pont szerinti állami vezető 2014. október 31-ig
+
+## gondoskodik.
 
 1. melléklet az 1382/2013. (VI. 27.) Korm. határozathoz
 
@@ -297,3 +327,19 @@ Székhelye: Pécs
 4. Balaton Részvízgyűjtő Vízgazdálkodási Tanács
 
 Székhelye: Székesfehérvár
+
+[^1]: Az 5. pont az 1153/2014. (III. 20.) Korm. határozat 1. pontjával megállapított szöveg.
+[^2]: A 6. pont az 1153/2014. (III. 20.) Korm. határozat 2. pontjával megállapított szöveg.
+[^3]: A 8. pont a) alpontja az 1153/2014. (III. 20.) Korm. határozat 14. pont a) alpontja szerint módosított szöveg.
+[^4]: A 9. pont az 1153/2014. (III. 20.) Korm. határozat 3. pontjával megállapított szöveg.
+[^5]: A 11. pont az 1153/2014. (III. 20.) Korm. határozat 4. pontjával megállapított szöveg.
+[^6]: A 12. pont az 1153/2014. (III. 20.) Korm. határozat 5. pontjával megállapított szöveg.
+[^7]: A 14. pont az 1153/2014. (III. 20.) Korm. határozat 6. pontjával megállapított szöveg.
+[^8]: A 15. pont az 1153/2014. (III. 20.) Korm. határozat 7. pontjával megállapított szöveg.
+[^9]: A 16. pont b) alpontja az 1153/2014. (III. 20.) Korm. határozat 14. pont b) alpontja szerint módosított szöveg.
+[^10]: A 17. pont e) alpontja az 1153/2014. (III. 20.) Korm. határozat 8. pontjával megállapított szöveg.
+[^11]: A 18. pont az 1153/2014. (III. 20.) Korm. határozat 9. pontjával megállapított szöveg.
+[^12]: A 19. pont az 1153/2014. (III. 20.) Korm. határozat 10. pontjával megállapított szöveg.
+[^13]: A 21. pont az 1153/2014. (III. 20.) Korm. határozat 11. pontjával megállapított szöveg.
+[^14]: A 26. pont az 1153/2014. (III. 20.) Korm. határozat 12. pontjával megállapított szöveg.
+[^15]: A 34. pontot az 1153/2014. (III. 20.) Korm. határozat 13. pontja iktatta be.
