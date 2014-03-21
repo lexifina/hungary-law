@@ -26,7 +26,7 @@ Határidő: folyamatos
 
 2. A TÉSZ-ek működőképességének és versenyképességének javítása érdekében a Kormány
 
-a) megállapítja, hogy a Hitelprogram alapján nyújtott kedvezményes kamatozású hitel és a Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény 5. § (1) bekezdés b) pontja szerinti jogszabályi állami készfizető kezesség az Európai Unió működéséről szóló Szerződés 107. cikke szerinti állami támogatást tartalmaz. A támogatás formáját tekintve kedvezményes kamatozású hitel és kedvezményes díjú, jogszabályi állami készfizető kezesség. Az előzőek szerinti támogatások, valamint a hitel és kezesség módosításából származó támogatás uniós jogszabályi alapját az általános csekély összegű (de minimis) támogatásról rendelkező, a Szerződés 87. és 88. cikkének a de minimis támogatásokra való alkalmazásáról szóló, 2006. december 15-i 1998/2006/EK bizottsági rendelet teremti meg;
+a)[^3] megállapítja, hogy a Hitelprogram alapján nyújtott kedvezményes kamatozású hitel és a Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény 5. § (1) bekezdés b) pontja szerinti jogszabályi állami készfizető kezesség az Európai Unió működéséről szóló Szerződés 107. cikke szerinti állami támogatást tartalmaz. A támogatás formáját tekintve kedvezményes kamatozású hitel és kedvezményes díjú, jogszabályi állami készfizető kezesség. Az előzőek szerinti támogatások, valamint a hitel és kezesség módosításából származó támogatás uniós jogszabályi alapját Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet teremti meg;
 
 Felelős: nemzeti fejlesztési miniszter
 
@@ -52,3 +52,4 @@ bb) alpont tekintetében 2012. március 31.
 
 [^1]: Az 1. pont a) alpontja az 1925/2013. (XII. 11.) Korm. határozat 5. pontja szerint módosított szöveg.
 [^2]: Az 1. pont b) alpontja az 1925/2013. (XII. 11.) Korm. határozat 5. pontja szerint módosított szöveg.
+[^3]: A 2. pont a) alpontja az 1154/2014. (III. 20.) Korm. határozat 5. pontja szerint módosított szöveg.
