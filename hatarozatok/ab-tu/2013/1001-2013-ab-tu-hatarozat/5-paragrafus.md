@@ -6,4 +6,6 @@
 
 (3) Minden alkotmánybíró tagja egy öttagú állandó tanácsnak.
 
-(4) Az Alkotmánybíróság tanácsainak összetételét – az elnök javaslatára – három év időtartamra a teljes ülés határozza meg.
+(4) Az Alkotmánybíróság tanácsainak összetételét – az elnök javaslatára – három év időtartamra a teljes ülés határozza meg.[^3]
+
+[^3]: Lásd az 1003/2014. (X. 9.) AB TÜ. határozatot.
