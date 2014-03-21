@@ -1,7 +1,11 @@
 ## 47. Egyes állatbetegségek megelőzésének és felszámolásának támogatása (20/04/09/00)
 
-61. § (1) Az előirányzat az Európai Unió jogi aktusaiban meghatározott állatbetegségek felszámolását, ellenőrzését és megfigyelését segíti elő. Ezen előirányzatból kerül finanszírozásra továbbá a pénzügyi hozzájárulás a mézelő-méh kolóniák fogyásáról szóló önkéntes felügyeleti tanulmányi programokkal kapcsolatosan.
+61. §[^104] (1) Az előirányzat az Európai Unió jogi aktusaiban meghatározott állatbetegségek, illetve zoonózisok felszámolását, ellenőrzését és megfigyelését segítő programok, továbbá a méhcsaládok pusztulásával kapcsolatos önkéntes felügyeleti tanulmányi programok finanszírozására fordítható.
 
-(2) Az előirányzat megállapodás keretében, pénzeszköz átadás formájában átadásra kerül a NÉBIH felé történő végső kifizetést teljesítő lebonyolító szerv részére. Az előirányzat felhasználása beszámolást követő utófinanszírozás formájában történik.
+(2) Az előirányzatból kerül finanszírozásra közvetlen kifizetéssel az ezen előirányzat felhasználásával kapcsolatos szabálytalanság miatt az Európai Unió által megállapított visszafizetési kötelezettség vagy közvetlen levonás teljesítése.
 
-(3) Az előirányzatból költségvetési támogatás egyedi elbírálás útján nyújtható.
+(3) Az előirányzat – a (2) bekezdésben meghatározottak kivételével – pénzeszköz átadás formájában átadásra kerül a NÉBIH felé történő végső kifizetést teljesítő lebonyolító szerv részére.
+
+(4) Az előirányzatból költségvetési támogatás egyedi döntéssel nyújtható.
+
+[^104]: A 61. § a 23/2014. (III. 20.) VM rendelet 50. §-ával megállapított szöveg.

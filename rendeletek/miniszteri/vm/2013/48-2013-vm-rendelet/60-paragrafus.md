@@ -4,6 +4,9 @@
 
 (2) Az előirányzat – a (3) bekezdésben meghatározott feladatok kivételével – megállapodás keretében, pénzeszköz átadás formájában átadásra kerül a zöldség-gyümölcs termelői csoportok és termelői szervezetek felé történő végső kifizetést teljesítő lebonyolító szerv részére.
 
-(3) Az „Informatikai rendszer létrehozása adatok összegyűjtése kezelése és rögzítése érdekében”, továbbá a „Környezetvédelmi intézkedés feltételeit megalapozó tanulmányok elkészítése” feladatokkal összefüggő vállalkozási szerződésből származó kötelezettségek teljesítése esetében az előirányzat felhasználása közvetlen módon, a vállalkozó részére történő fejezeti kifizetéssel történik. Az előirányzat felhasználása beszámolást követő utófinanszírozás formájában történik.
+(3)[^102] A miniszter által informatikai rendszer létrehozására és környezetvédelmi intézkedést megalapozó tanulmányok elkészítésére kötött vállalkozási szerződésből származó kötelezettségek teljesítése esetében az előirányzat felhasználása közvetlen módon, a vállalkozó részére történő közvetlen kifizetéssel történik.
 
-(4) Az előirányzatból költségvetési támogatás egyedi elbírálás útján nyújtható.
+(4)[^103] Az előirányzatból költségvetési támogatás egyedi döntéssel nyújtható.
+
+[^102]: A 60. § (3) bekezdése a 23/2014. (III. 20.) VM rendelet 49. §-ával megállapított szöveg.
+[^103]: A 60. § (4) bekezdése a 23/2014. (III. 20.) VM rendelet 49. §-ával megállapított szöveg.

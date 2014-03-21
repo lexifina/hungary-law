@@ -16,9 +16,11 @@ f) tanyagazdaságok fejlesztése,
 
 g) tanyagazdaságok indító támogatása,
 
-h) villanynélküli tanyák energiaellátását biztosító egyéni fejlesztések.
+h) villanynélküli tanyák energiaellátását biztosító egyéni fejlesztések,
 
-(2) Az előirányzat felhasználása – a (4) bekezdésben szereplő felhasználási mód kivételével – beszámolást követő utófinanszírozás formájában, lebonyolító szerveken keresztül valósul meg. Előleg folyósítása lehetséges.
+i)[^66] tanyatavak építésének támogatása.
+
+(2)[^67] Az előirányzat felhasználása lebonyolító szerveken keresztül valósul meg.
 
 (3) Az előirányzat kedvezményezettjei:
 
@@ -36,7 +38,7 @@ f) fővárosi kerületi önkormányzatok,
 
 g) a tanyás térségekbe tartozó megyei jogú városok helyi önkormányzatai,
 
-h)[^18] egyházi jogi személyek,
+h)[^68] egyházi jogi személyek,
 
 i) a tanyás térségekben működő tanyagondnoki feladatokat ellátó támogatásra jogosult civil szervezetek,
 
@@ -44,8 +46,12 @@ j) mezőgazdasági tevékenységet végző őstermelő, egyéni vállalkozó, cs
 
 k) tanyán élő természetes személy.
 
-(4) Az előirányzatból – előirányzat-átcsoportosítással – utólagos elszámolás melletti előfinanszírozás formájában finanszírozhatóak a lebonyolításban részt vevő költségvetési szervek feladatellátással összefüggésben felmerült és igazolt költségei is.
+(4)[^69] Támogatási előleg indokolt esetben nyújtható.
 
-(5) Az előirányzatból költségvetési támogatás pályázat vagy egyedi elbírálás útján nyújtható.
+(5)[^70] Az előirányzatból költségvetési támogatás pályázati úton nyújtható.
 
-[^18]: A 46. § (3) bekezdés h) pontja a 115/2013. (XII. 12.) VM rendelet 5. §-ával megállapított szöveg.
+[^66]: A 46. § (1) bekezdés i) pontját a 23/2014. (III. 20.) VM rendelet 33. § (1) bekezdése iktatta be.
+[^67]: A 46. § (2) bekezdése a 23/2014. (III. 20.) VM rendelet 33. § (2) bekezdésével megállapított szöveg.
+[^68]: A 46. § (3) bekezdés h) pontja a 115/2013. (XII. 12.) VM rendelet 5. §-ával megállapított szöveg.
+[^69]: A 46. § (4) bekezdése a 23/2014. (III. 20.) VM rendelet 33. § (3) bekezdésével megállapított szöveg.
+[^70]: A 46. § (5) bekezdése a 23/2014. (III. 20.) VM rendelet 33. § (3) bekezdésével megállapított szöveg.

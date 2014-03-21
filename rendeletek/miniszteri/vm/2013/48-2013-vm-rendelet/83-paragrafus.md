@@ -1,5 +1,3 @@
-## 69. Fejezeti egyensúlybiztosítási tartalék (20/15/00/00)
+## 69.[^158]
 
-83. § (1) Az előirányzat a Kormány határozatában meghatározott célra és ütemezés szerint használható fel.
-
-(2) Az előirányzat felhasználása közvetlen módon az Ávr. 152. § (5) bekezdésében foglaltak szerint, a Kormány döntése alapján történik.
+[^158]: A 69. alcímet (83. §) a 23/2014. (III. 20.) VM rendelet 70. §-a hatályon kívül helyezte.

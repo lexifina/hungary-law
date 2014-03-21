@@ -1,10 +1,10 @@
 ## 58. Folyó kiadások és jövedelem-támogatások (20/05/08/00)
 
-72. § (1) Az előirányzatból kerül finanszírozásra – a Kvtv. 62. §-ban nevesített kiadásokon túl – az EMGA-ból finanszírozott egységes területalapú támogatáshoz kapcsolódó kiegészítő nemzeti támogatás (top-up), az Európai Bizottság által jóváhagyott támogatási célok és csoportmentességi rendeletek, valamint a csekély összegű (de minimis) támogatás formájában már kihirdetésre került vagy tervezett célok, valamint az átmeneti támogatások.
+72. § (1)[^126] Az előirányzatból kerül finanszírozásra – a Kvtv.-ben nevesített kiadásokon túl – az EMGA-ból finanszírozott egységes területalapú támogatáshoz kapcsolódó átmeneti nemzeti támogatás, az Európai Bizottság által jóváhagyott támogatási célok és csoportmentességi rendeletek, valamint a csekély összegű (de minimis) támogatás formájában már kihirdetésre került vagy tervezett célok, valamint az átmeneti támogatások.
 
 (2) Az előirányzat felhasználása lebonyolító szerveken keresztül történik azzal a kivétellel, hogy az Agrár Széchenyi Kártya konstrukciók adminisztratív lebonyolításával kapcsolatos feladatokat a KAVOSZ Pénzügyi Szolgáltatásokat Közvetítő Zrt. látja el.
 
-(3) A 2013. évi támogatási jogcímek az alábbiak:
+(3)[^127] A 2014. évi támogatási jogcímek az alábbiak:
 
 1. az állattenyésztés támogatása, ezen belül
 
@@ -32,7 +32,13 @@ e) a miniszter által megbízott pénzintézet adatszolgáltatás költsége,
 
 f) agrár forgóeszköz hitelprogram és az ehhez kapcsolódó kamattámogatás,
 
-g) Agrár Széchenyi Kártya konstrukciók;
+g) Agrár Széchenyi Kártya konstrukciók,
+
+h)[^128] élelmiszeripari forgóeszköz hitelprogram,
+
+i)[^129] a mikro-, kis- és középvállalkozások hitelezésének elősegítése érdekében a kezességvállalási díjak költségvetési támogatása,
+
+j)[^130] birtok-összevonási célú termőföldvásárlás támogatása.
 
 3. egyéb támogatások, úgymint
 
@@ -46,28 +52,37 @@ d) mezőőrök foglalkoztatásának támogatása,
 
 e) cukorrépa-termelők támogatása,
 
-f) tejtermelők nemzeti támogatása,
+f)[^131] szárított takarmány de minimis támogatása,
 
-g) szárított takarmány de minimis támogatása,
+g)[^132] méhészeti járművekre igénybe vehető de minimis támogatás,
 
-h) a Kvtv. 1. melléklet, XII. Vidékfejlesztési Minisztérium fejezet, 20. cím, 5. alcím, 10. Nemzeti agrár kárenyhítés jogcímcsoport szerinti támogatás kiegészítése,
+h)[^133] mezőgazdasági biztosítási díjhoz nyújtott támogatás,
 
-i) mezőgazdasági biztosítási díjhoz nyújtott támogatás,
+i)[^134] mezőgazdasági termelést érintő időjárási és más természeti kockázatok kezeléséről szóló törvény alapján igénybe vehető egyéb támogatásokról szóló miniszteri rendelet, valamint miniszteri utasítás szerinti támogatások,
 
-j) mezőgazdasági termelést érintő időjárási és más természeti kockázatok kezeléséről szóló törvény alapján igénybe vehető egyéb támogatásokról szóló miniszteri rendelet, valamint miniszteri utasítás szerinti támogatások,
+j)[^135] egyéb, év közben meghirdetett támogatási jogcímek.
 
-k) aflatoxin szennyezéssel kapcsolatos támogatás,
-
-l) egyéb, év közben meghirdetett támogatási jogcímek.
+k)–l)[^136]
 
 (4) Az előirányzat a lebonyolító szervekkel kötött együttműködési megállapodások alapján pénzeszköz átadás formájában átadásra kerül a kedvezményezettek felé történő végső kifizetést teljesítő lebonyolításban résztvevő szervek részére. Az előirányzat végső kedvezményezettjei a miniszter vagy a Kormány más tagjának irányítása vagy felügyelete alá tartozó költségvetési szervek vagy önkormányzatok, gazdasági társaságok, nonprofit szervezetek, egyéni vállalkozók, illetve természetes személyek.
 
-(5)[^24] Az előirányzatból közvetlen fejezeti kifizetéssel kerül sor az adatszolgáltatással kapcsolatosan felmerült költségek és a Pápai Hús 1913 Kft.-vel szemben fennálló követelések engedményezése kapcsán a kiegészítő juttatás rendezésére.
+(5)[^137] Az előirányzatból közvetlen kifizetéssel kerül sor az adatszolgáltatással kapcsolatosan felmerült költségek és a birtok-összevonási célú termőföldvásárlás jogcím jogos igényeinek rendezésére.
 
-(6) Az előirányzat felhasználása beszámolást követő utófinanszírozás formájában történik.
+(6)[^138] Az előirányzatból költségvetési támogatás egyedi döntéssel nyújtható.
 
-(7) Az előirányzatból költségvetési támogatás egyedi elbírálás útján nyújtható.
+(7)–(8)[^139]
 
-(8) A miniszter az előirányzat felhasználásáról, valamint a miniszter által jóváhagyott, év közben esetlegesen szükségessé váló új keretfelosztásról támogatási jogcímenkénti bontásban, negyedévente a negyedévet követő hónap 20. napjáig tájékoztatja az államháztartásért felelős minisztert.
-
-[^24]: A 72. § (5) bekezdése a 112/2013. (XII. 9.) VM rendelet 1. §-ával megállapított szöveg.
+[^126]: A 72. § (1) bekezdése a 23/2014. (III. 20.) VM rendelet 69. § 8. pontja szerint módosított szöveg.
+[^127]: A 72. § (3) bekezdés nyitó szövegrésze a 23/2014. (III. 20.) VM rendelet 69. § 9. pontja szerint módosított szöveg.
+[^128]: A 72. § (3) bekezdés 2. pont h) alpontját a 23/2014. (III. 20.) VM rendelet 59. § (1) bekezdése iktatta be.
+[^129]: A 72. § (3) bekezdés 2. pont i) alpontját a 23/2014. (III. 20.) VM rendelet 59. § (1) bekezdése iktatta be.
+[^130]: A 72. § (3) bekezdés 2. pont j) alpontját a 23/2014. (III. 20.) VM rendelet 59. § (1) bekezdése iktatta be.
+[^131]: A 72. § (3) bekezdés 3. pont f) alpontja a 23/2014. (III. 20.) VM rendelet 59. § (2) bekezdésével megállapított szöveg.
+[^132]: A 72. § (3) bekezdés 3. pont g) alpontja a 23/2014. (III. 20.) VM rendelet 59. § (2) bekezdésével megállapított szöveg.
+[^133]: A 72. § (3) bekezdés 3. pont h) alpontja a 23/2014. (III. 20.) VM rendelet 59. § (2) bekezdésével megállapított szöveg.
+[^134]: A 72. § (3) bekezdés 3. pont i) alpontja a 23/2014. (III. 20.) VM rendelet 59. § (2) bekezdésével megállapított szöveg.
+[^135]: A 72. § (3) bekezdés 3. pont j) alpontja a 23/2014. (III. 20.) VM rendelet 59. § (2) bekezdésével megállapított szöveg.
+[^136]: A 72. § (3) bekezdés 3. pont k)–l) alpontját a 23/2014. (III. 20.) VM rendelet 70. §-a hatályon kívül helyezte.
+[^137]: A 72. § (5) bekezdése a 23/2014. (III. 20.) VM rendelet 59. § (3) bekezdésével megállapított szöveg.
+[^138]: A 72. § (6) bekezdése a 23/2014. (III. 20.) VM rendelet 59. § (3) bekezdésével megállapított szöveg.
+[^139]: A 72. § (7)–(8) bekezdését a 23/2014. (III. 20.) VM rendelet 70. §-a hatályon kívül helyezte.

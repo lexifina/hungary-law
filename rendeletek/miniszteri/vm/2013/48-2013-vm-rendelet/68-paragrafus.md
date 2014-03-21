@@ -1,6 +1,6 @@
 ## 54. Erdőfelújítás (20/05/06/03)
 
-68. § (1) Az előirányzat biztosítja a magántulajdonú erdők felújítási, fenntartási költségeinek támogatását. Az előirányzat forrást biztosít a szükséges adminisztrációs tevékenység, döntés-előkészítő feladatok végrehajtásának támogatásához is.
+68. § (1)[^114] Az előirányzat biztosítja a magántulajdonú erdők felújítási, fenntartási költségeinek támogatását. Az előirányzat forrást biztosít a szükséges adminisztrációs tevékenység, valamint a döntés-előkészítő feladatok végrehajtásának támogatásához.
 
 (2) Az előirányzat – a (3) bekezdésben szereplő támogatások kivételével – pénzeszköz átadás formájában átadásra kerül az erdőgazdálkodók felé történő végső kifizetést teljesítő lebonyolító szerv részére.
 
@@ -8,6 +8,10 @@
 
 (4) A (3) bekezdés szerinti támogatások címzettjei erdőgazdálkodói nyilvántartásban és az erdészeti szakszemélyzeti névjegyzékben szereplő személyek, a feladatok végrehajtását végző külső személyek, részben a miniszter, részben a Kormány más tagjának irányítása vagy felügyelete alá tartozó költségvetési szervek.
 
-(5) Az előirányzat felhasználása utólagos elszámolás melletti előfinanszírozás vagy beszámolást követő utófinanszírozás formájában történik.
+(5)[^115] Támogatási előleg indokolt esetben nyújtható.
 
-(6) Az előirányzatból költségvetési támogatás egyedi elbírálás útján nyújtható.
+(6)[^116] Az előirányzatból költségvetési támogatás egyedi döntéssel nyújtható.
+
+[^114]: A 68. § (1) bekezdése a 23/2014. (III. 20.) VM rendelet 56. § (1) bekezdésével megállapított szöveg.
+[^115]: A 68. § (5) bekezdése a 23/2014. (III. 20.) VM rendelet 56. § (2) bekezdésével megállapított szöveg.
+[^116]: A 68. § (6) bekezdése a 23/2014. (III. 20.) VM rendelet 56. § (2) bekezdésével megállapított szöveg.

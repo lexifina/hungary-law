@@ -1,3 +1,5 @@
+## 22. §[^19] A támogatási kérelem hiányosságainak pótlására, annak kézhezvételétől számított 15 munkanapon belül legalább 3, de legfeljebb 8 munkanapos határidőt kell megállapítani.
+
 ## III. Fejezet
 
 ## AZ ELŐIRÁNYZATOK FELHASZNÁLÁSÁNAK RÉSZLETES SZABÁLYAI
@@ -9,3 +11,5 @@
 (2) Az előirányzat felhasználása előirányzat-átcsoportosítással, utólagos elszámolás melletti előfinanszírozás formájában történik. A kedvezményezettek költségvetési szervek.
 
 (3) Az előirányzatból költségvetési támogatás egyedi elbírálás útján nyújtható.
+
+[^19]: A 22. § a 23/2014. (III. 20.) VM rendelet 13. §-ával megállapított szöveg.

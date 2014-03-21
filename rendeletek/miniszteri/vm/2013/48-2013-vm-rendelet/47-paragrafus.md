@@ -1,23 +1,29 @@
 ## 33. Hungarikum Bizottság feladatainak támogatása (20/03/06/00)
 
-47. § (1) Az előirányzatból kerülnek finanszírozásra a magyar nemzeti értékekről és a hungarikumokról szóló törvényből következő, valamint a Hungarikum Bizottság Titkársága által ellátott operatív működéshez szükséges alábbi feladatok:
+47. §[^71] (1) Az előirányzat felhasználható
 
-a) a hungarikum tanúsító védjegyre grafikai pályázat kiírása és a védjegy lajstromozása,
+a) a magyar nemzeti értékekről és a hungarikumokról szóló törvényből következő, valamint a Hungarikum Bizottság Titkársága által ellátott operatív működéshez szükséges alábbi feladatok támogatására:
 
-b) a nemzeti értékek és hungarikumok nyilvántartása és a bemutatásukat szolgáló honlap elkészítése,
+aa) a nemzeti értékek és hungarikumok nyilvántartása és a bemutatásukat szolgáló honlap működtetése, fejlesztése, karbantartása, adatbázis kezelése és adatok archiválása,
 
-c) szakmai útmutatók készítése,
+ab) szakmai útmutatók készítése,
 
-d) szakmai felkészítő képzések és tájékoztató konferenciasorozat szervezése,
+ac) szakmai felkészítő képzések, valamint szakmai tanácsadás és nemzeti érték-hungarikum tájékoztató konferencia-sorozat, tájékoztató kiadványok és rendezvények szervezése,
 
-e) hungarikum és nemzeti értékek marketing kampányának elkészítése,
+ad) hungarikum és nemzeti értékek marketing kampányának elkészítése,
 
-f) a hungarikumok és nemzeti értékek népszerűsítésének, megismertetésének, kutatásának, megőrzésének és gondozásának támogatása.
+ae) a hungarikumok és nemzeti értékek gyűjtésének, népszerűsítésének, megismertetésének, kutatásának, megőrzésének és gondozásának támogatása.
 
-(2) Az előirányzat felhasználása a közzétett pályázati felhívások, valamint egyedi döntések alapján miniszteri döntéssel, önkormányzat, természetes személy, gazdasági társaság, illetve nonprofit szervezet részére a kedvezményezettel kötött támogatási szerződés alapján fejezeti kifizetéssel, lebonyolító szervezeten keresztül, vagy költségvetési szervek részére fejezeten belüli, illetve más fejezethez történő előirányzat-átcsoportosítással valósul meg. Az előirányzatból határon túli szervezetek részére is nyújtható támogatás.
+b) a Pálinka Nemzeti Tanács pálinkával és törkölypálinkával, mint hungarikumokkal kapcsolatos feladatainak finanszírozására,
 
-(3) Az előirányzatból – előirányzat-átcsoportosítással – finanszírozandóak a lebonyolításban részt vevő költségvetési szervek feladatellátással összefüggésben felmerült és igazolt költségei is.
+c) a lebonyolításban részt vevő költségvetési szervek feladatellátással összefüggésben felmerült és igazolt költségeinek fedezetére.
 
-(4) Az előirányzat felhasználása utólagos elszámolás melletti előfinanszírozás vagy beszámolást követő utófinanszírozás formájában történik. Előleg folyósítása lehetséges.
+(2) Az előirányzat kedvezményezettje önkormányzat, gazdasági társaság, társadalmi szervezet vagy költségvetési szerv lehet. Az előirányzatból határon túli szervezetek részére is nyújtható támogatás lebonyolító szerven keresztül.
 
-(5) Az előirányzatból költségvetési támogatás pályázat vagy egyedi elbírálás útján nyújtható.
+(3) Az előirányzat rendelkezésre bocsátása a kedvezményezettel kötött támogatási szerződés alapján közvetlen kifizetéssel, költségvetési szerv esetében fejezeten belüli, illetve más fejezethez történő előirányzat-átcsoportosítással történik. Határon túli szervezet kedvezményezett esetében az előirányzat átadásra kerül a kedvezményezettek felé történő végső kifizetést teljesítő lebonyolító szerv részére.
+
+(4) Támogatási előleg indokolt esetben nyújtható.
+
+(5) Az előirányzatból költségvetési támogatás pályázati úton, illetve egyedi döntéssel nyújtható.
+
+[^71]: A 47. § a 23/2014. (III. 20.) VM rendelet 34. §-ával megállapított szöveg.

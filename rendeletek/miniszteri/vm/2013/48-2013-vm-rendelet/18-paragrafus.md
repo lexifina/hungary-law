@@ -1,4 +1,4 @@
-## 17. § A pályázati kiírás alapján benyújtott pályázatokkal kapcsolatos döntést a beadási határidőt követő 60 napon belül meg kell hozni.
+## 17. §[^15] A pályázatokról készített döntési listát a szakmai kezelő – ha kezelő szerv kijelölésre vagy lebonyolító szerv megbízásra került, annak javaslatára – terjeszti fel a miniszternek. A pályázati kiírás alapján benyújtott pályázatokkal kapcsolatos döntést a beadási határidőt követő 60 napon belül meg kell hozni.
 
 18. § (1) A minisztert döntése meghozatalában a miniszter vagy a szakmai kezelő által kijelölt Bíráló Bizottság (a továbbiakban: Bizottság) segíti.
 
@@ -7,3 +7,5 @@
 (3) A Bizottság ügyrendjét maga határozza meg.
 
 (4) A Bizottság az üléseiről írásos emlékeztetőt készít, amit minden esetben a Bizottság elnöke és egy felkért bizottsági tag hitelesít.
+
+[^15]: A 17. § a 23/2014. (III. 20.) VM rendelet 9. §-ával megállapított szöveg.

@@ -4,4 +4,6 @@
 
 (2) Az előirányzaton szereplő PHARE Visszaforgó Hitelalap maradványából kerülnek finanszírozásra az előirányzat terhére 2010. évben meghirdetésre került – a „Védett természeti területeken, valamint barlangokban és azok felszíni védőövezetén elhagyott hulladék felszámolása”, a „Települési szilárd hulladéklerakók rekultivációs feladatainak előkészítése”, valamint az „Illegális hulladéklerakók felszámolásának feladatai” című – pályázatok. Az előirányzat kedvezményezettjei civil szervezetek és önkormányzatok.
 
-(3) Az előirányzat felhasználása közvetlen módon, a kedvezményezettel kötött támogatási szerződés alapján, fejezeti kifizetéssel, beszámolást követő utófinanszírozás formájában történik.
+(3)[^47] Az előirányzat rendelkezésre bocsátása a kedvezményezettel kötött támogatási szerződés alapján, közvetlen kifizetéssel történik.
+
+[^47]: A 38. § (3) bekezdése a 23/2014. (III. 20.) VM rendelet 27. §-ával megállapított szöveg.

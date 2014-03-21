@@ -1,9 +1,11 @@
 ## 34. Állami feladatok átvállalása az agrár- és vidékfejlesztési programok megvalósításában (20/03/08/00)
 
-48. § (1) Az előirányzatának célja a mezőgazdaságban tevékenykedő, civil tv.-ben meghatározott szervezetek, érdekképviseletek és szakmai szervezetek, közhasznú jogállású civil szervezetek szakmai feladatainak támogatása. Beruházási célú támogatás az előirányzatból nyújtható.
+48. §[^72] (1) Az előirányzat célja a mezőgazdaságban tevékenykedő, civil tv.-ben meghatározott szervezetek, érdekképviseletek és szakmai szervezetek, közhasznú jogállású civil szervezetek szakmai feladatainak támogatása. Az előirányzatból kerül finanszírozásra továbbá a Nemzeti Lovas Programhoz kapcsolódó lovas rendezvények támogatása. Beruházási célú támogatás az előirányzatból nyújtható.
 
-(2) Az előirányzat felhasználása közvetlen módon, a kedvezményezettel kötött támogatási szerződés alapján, fejezeti kifizetéssel történik.
+(2) Az előirányzat felhasználása közvetlen módon, a kedvezményezettel kötött támogatási szerződés alapján történik.
 
-(3) Az előirányzat felhasználása utólagos elszámolás melletti előfinanszírozás vagy beszámolást követő utófinanszírozás formájában történik. Előleg folyósítása lehetséges.
+(3) Támogatási előleg indokolt esetben nyújtható.
 
-(4) Az előirányzatból költségvetési támogatás pályázat vagy egyedi elbírálás útján nyújtható.
+(4) Az előirányzatból költségvetési támogatás pályázati úton, illetve egyedi döntéssel nyújtható.
+
+[^72]: A 48. § a 23/2014. (III. 20.) VM rendelet 35. §-ával megállapított szöveg.

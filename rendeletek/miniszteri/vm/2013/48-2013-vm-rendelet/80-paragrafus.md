@@ -10,8 +10,11 @@ b) 20/11/03/02 Közös érdekeket célzó intézkedések (III. tengely)
 
 c) 20/11/03/03 Technikai segítségnyújtás (V. tengely)
 
-(3) Az előirányzat megállapodás keretében, pénzeszköz átadás formájában átadásra kerül a kedvezményezettek felé történő végső kifizetést teljesítő lebonyolító szerv részére. Az előirányzat felhasználása beszámolást követő utófinanszírozás formájában történik.
+(3)[^155] Az előirányzat pénzeszköz átadás formájában átadásra kerül a kedvezményezettek felé történő végső kifizetést teljesítő lebonyolító szerv részére.
 
 (4) Az előirányzat kedvezményezettjei költségvetési szervek, kutatóintézetek, gazdasági társaságok, szövetkezetek, egyéni vállalkozók, érdekvédelmi szervezetek, egyesületek, illetve természetes személyek.
 
-(5) Az előirányzatból költségvetési támogatás pályázat vagy egyedi elbírálás útján nyújtható.
+(5)[^156] Az előirányzatból költségvetési támogatás pályázati úton, illetve egyedi döntéssel nyújtható.
+
+[^155]: A 80. § (3) bekezdése a 23/2014. (III. 20.) VM rendelet 66. § (1) bekezdésével megállapított szöveg.
+[^156]: A 80. § (5) bekezdése a 23/2014. (III. 20.) VM rendelet 66. § (2) bekezdésével megállapított szöveg.

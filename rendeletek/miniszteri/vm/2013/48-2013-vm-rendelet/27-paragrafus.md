@@ -1,5 +1,11 @@
-## 13. Vízügyi feladatok támogatása (20/02/07/00)
+## 13. [^21] Cséry-telepre vonatkozó kárelhárítási és rekultivációs terv elkészítése és kivitelezése (20/01/22/00)
 
-27. § (1) Az előirányzatból kerülnek finanszírozásra a Halászati és Öntözési Kutatóintézet által „A Nemzeti Aszálystratégia program” kiemelt feladathoz szorosan kapcsolódó, az aszálykárok megelőzésének és csökkentésének lehetőségeivel kapcsolatban végzett kutatások költségei.
+27. § (1) Az előirányzat felhasználásának célja a budapesti Cséry-telep kármentesítés előkészítésének finanszírozása. Az előirányzat kedvezményezettje a települési önkormányzat lehet.
 
-(2) A kifizetés közvetlen módon, előfinanszírozás formájában történik.
+(2) Az előirányzatból egyedi döntés alapján nyújtható költségvetési támogatás.
+
+(3) Az előirányzat felhasználása közvetlen módon, a kedvezményezettel kötött támogatási szerződés alapján történő kifizetéssel valósul meg.
+
+(4) Támogatási előleg indokolt esetben nyújtható.
+
+[^21]: A 13. alcím (27. §) a 23/2014. (III. 20.) VM rendelet 15. §-ával megállapított szöveg.

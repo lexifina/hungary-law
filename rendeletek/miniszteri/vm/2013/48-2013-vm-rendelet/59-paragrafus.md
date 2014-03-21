@@ -6,6 +6,9 @@
 
 (3) Az előirányzatból nemzeti forrásból, pályázatos rendszerben történik a program népszerűsítéséhez kapcsolódó intézkedés lebonyolítása. A program népszerűsítéséhez kapcsolódó intézkedés lebonyolítását végző civil szervezet részére közvetlenül, fejezeti kifizetéssel kerül a forrás átadásra.
 
-(4) Az előirányzat – a (3) bekezdésben meghatározott feladat kivételével – megállapodás keretében, pénzeszköz átadás formájában átadásra kerül a 2013. évi óvoda- és iskolatej program szabályozásáról szóló 141/2012. (XII. 27.) VM rendeletben nevesített kérelmezők felé történő végső kifizetést teljesítő lebonyolító szerv részére. Az előirányzat felhasználása beszámolást követő utófinanszírozás formájában történik.
+(4)[^100] Az előirányzat – a (3) bekezdésben meghatározott feladat kivételével –pénzeszköz átadás formájában átadásra kerül az óvoda-, és iskolatej program szabályozásáról szóló miniszteri rendeletben nevesített kérelmezők felé történő végső kifizetést teljesítő lebonyolító szerv részére.
 
-(5) Az előirányzatból költségvetési támogatás pályázat vagy egyedi elbírálás útján nyújtható.
+(5)[^101] Az előirányzatból költségvetési támogatás pályázati úton, illetve egyedi döntéssel nyújtható.
+
+[^100]: Az 59. § (4) bekezdése a 23/2014. (III. 20.) VM rendelet 48. §-ával megállapított szöveg.
+[^101]: Az 59. § (5) bekezdése a 23/2014. (III. 20.) VM rendelet 48. §-ával megállapított szöveg.

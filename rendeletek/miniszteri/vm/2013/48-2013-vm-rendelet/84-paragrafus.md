@@ -1,3 +1,5 @@
+## 83. §
+
 ## 70. SAPARD-támogatásból megvalósuló programok (20/16/00/00)
 
 84. § (1) Az előirányzaton a 2006-ban lezárult SAPARD Programmal kapcsolatos visszatérítések, kifizetések kezelése történik. Az Európai Közösségek általános költségvetésére alkalmazandó költségvetési rendeletről szóló, 2002. június 25-i 1605/2002/EK, Euratom tanácsi rendelet alapján leírt EU követelések és kamatainak rendezéséhez az előirányzat biztosít forrást.

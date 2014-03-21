@@ -1,1 +1,3 @@
-## 56. Fenntartható erdőgazdálkodás támogatása (20/05/06/05)
+## 56.[^120]
+
+[^120]: Az 56. alcímet (70. §) a 23/2014. (III. 20.) VM rendelet 70. §-a hatályon kívül helyezte.

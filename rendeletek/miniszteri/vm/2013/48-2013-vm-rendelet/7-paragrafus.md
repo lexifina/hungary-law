@@ -1,3 +1,5 @@
+## 6. §[^7] Az előirányzatok tartalmazzák a kezelésükkel és működtetésükkel járó költségeket.
+
 ## 4. A költségvetési támogatás igénylése
 
 ## 7. § A támogatási kérelem tartalmazza
@@ -9,3 +11,5 @@ b) a kérelmező szakmai tevékenységének rövid bemutatását;
 c) a támogatással elérni kívánt cél, feladat részletes bemutatását a megvalósítás ütemezésének és felelősének megjelölésével; valamint
 
 d) a megvalósítani kívánt feladat, elérni kívánt cél teljesítéséhez szükséges összköltséget tartalmazó részletes költségtervet, részletezve a saját forrás, egyéb forrás vagy támogatás, valamint az igényelt költségvetési támogatás összegét és annak időbeli ütemezését.
+
+[^7]: A 6. § a 23/2014. (III. 20.) VM rendelet 4. §-ával megállapított szöveg.

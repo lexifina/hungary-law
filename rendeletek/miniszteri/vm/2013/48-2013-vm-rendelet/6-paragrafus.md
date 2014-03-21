@@ -1,5 +1,3 @@
-## 5. § Az előirányzatokból költségvetési támogatás visszafizetési kötelezettséggel – a 62. §-ban foglaltak kivételével – kizárólag költségvetési szerv részére nyújtható.
+## 5. §[^6] Az előirányzatokból költségvetési támogatás visszatérítési kötelezettséggel – a 62. §-ban meghatározott kivétellel – költségvetési szerv részére nyújtható.
 
-6. § (1) Az előirányzatokból nyújtott támogatás támogatásként tovább nem adható.
-
-(2) Az előirányzatok felhasználása kapcsán felmerülő pénzügyi tranzakciós illeték kiadásaira fedezetet nyújthatnak az előirányzatokon rendelkezésre álló források.
+[^6]: Az 5. § a 23/2014. (III. 20.) VM rendelet 3. §-ával megállapított szöveg.

@@ -4,6 +4,9 @@
 
 (2) Az előirányzat felhasználása az OHÜ-vel kötött támogatási szerződésben foglaltak szerinti kifizetéssel valósul meg.
 
-(3) Az előirányzat felhasználása utólagos elszámolás melletti előfinanszírozás vagy beszámolást követő utófinanszírozás formájában történik.
+(3)[^30] Támogatási előleg indokolt esetben nyújtható.
 
-(4) Az előirányzatból költségvetési támogatás egyedi elbírálás útján nyújtható.
+(4)[^31] Az előirányzatból költségvetési támogatás egyedi döntéssel nyújtható.
+
+[^30]: A 32. § (3) bekezdése a 23/2014. (III. 20.) VM rendelet 20. §-ával megállapított szöveg.
+[^31]: A 32. § (4) bekezdése a 23/2014. (III. 20.) VM rendelet 20. §-ával megállapított szöveg.

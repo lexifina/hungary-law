@@ -1,7 +1,9 @@
-## 12/a. [^3] Vörösiszap katasztrófa elhárítása (20/02/06/00)
+## 12/a. [^20] Szilvásváradi Lovasközpont fejlesztése (20/01/21/00)
 
-26/A. § (1) Az előirányzat céljai – összhangban a Katasztrófa elhárítási célelőirányzatok 2011. évi felhasználásáról szóló 16/2011. (V. 2.) BM rendelettel – a 2010. október 4-én a Magyar Alumínium Zrt. területén lévő iszaptároló gátjának átszakadása következtében történt vörösiszap-kiömléssel kapcsolatban a védekezésben, valamint a helyreállításban részt vevő központi költségvetési szervek, védekezéssel összefüggő többletkiadásaira támogatás biztosítása.
+26/A. § (1) Az előirányzat a Szilvásváradi Lovasközpont fejlesztésére használható fel. Az előirányzat kedvezményezettje az Állami Ménesgazdaság.
 
-(2) Ezen előirányzatból kizárólag a korábbi években biztosított támogatásokból visszafizetésre kerülő, az előirányzaton bevételként jelentkező összegek kerülnek visszautalásra a Belügyminisztérium fejezet részére.
+(2) Az előirányzat felhasználása a kedvezményezettel kötött támogatási szerződés alapján, előirányzat-átcsoportosítással történik.
 
-[^3]: A 12/a. alcímet (26/A. §) a 88/2013. (X. 2.) VM rendelet 62. §-a iktatta be.
+(3) Támogatási előleg indokolt esetben nyújtható.
+
+[^20]: A 12/a. alcímet (26/A. §) a 88/2013. (X. 2.) VM rendelet 62. §-a iktatta be, szövege a 23/2014. (III. 20.) VM rendelet 14. §-ával megállapított szöveg.

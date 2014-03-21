@@ -1,5 +1,3 @@
-## 35. § Az előirányzatból kizárólag a kötelezettségvállalással nem terhelt maradványok pénzügyi rendezésére kerül sor.
-
 ## 22. Kisméretű szállópor (PM10) koncentrációjának csökkentésével kapcsolatos kiadások (20/02/21/00)
 
 36. § (1) Az előirányzatból a környezeti levegő minőségének fenntartásához és javításához, illetve az emberi egészséget és a természeti környezetet veszélyeztető légszennyezettség kialakulásának megelőzéséhez nyújtható költségvetési támogatás.
@@ -8,6 +6,12 @@
 
 (3) Az előirányzatból költségvetési szerv, kutatóintézet, gazdasági társaság és civil szervezet részére adható támogatás.
 
-(4) Az előirányzat felhasználása költségvetési szerv részére előirányzat-átcsoportosítással, nem költségvetési szerv részére közvetlen módon, fejezeti kifizetéssel, a kedvezményezettel kötött támogatási szerződés alapján, utólagos elszámolás melletti előfinanszírozás vagy beszámolást követő utófinanszírozás formájában történik.
+(4)[^37] Az előirányzat felhasználása költségvetési szerv részére előirányzat-átcsoportosítással, nem költségvetési szerv részére közvetlen kifizetéssel, a kedvezményezettel kötött támogatási szerződés alapján történik.
 
-(5) Az előirányzatból költségvetési támogatás egyedi elbírálás útján nyújtható.
+(5)[^38] Támogatási előleg indokolt esetben nyújtható.
+
+(6)[^39] Az előirányzatból költségvetési támogatás egyedi döntéssel nyújtható.
+
+[^37]: A 36. § (4) bekezdése a 23/2014. (III. 20.) VM rendelet 24. § (1) bekezdésével megállapított szöveg.
+[^38]: A 36. § (5) bekezdése a 23/2014. (III. 20.) VM rendelet 24. § (1) bekezdésével megállapított szöveg.
+[^39]: A 36. § (6) bekezdését a 23/2014. (III. 20.) VM rendelet 24. § (2) bekezdése iktatta be.

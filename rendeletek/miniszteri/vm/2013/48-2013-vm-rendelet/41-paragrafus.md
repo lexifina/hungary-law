@@ -1,1 +1,3 @@
-## 27. GEF-A Duna szennyezettségének csökkentése (20/02/40/00)
+## 27.[^51]
+
+[^51]: A 27. alcímet (41. §) a 23/2014. (III. 20.) VM rendelet 70. §-a hatályon kívül helyezte.
