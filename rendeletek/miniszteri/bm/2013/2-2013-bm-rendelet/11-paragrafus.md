@@ -2,7 +2,7 @@
 
 11. § (1) A hivatásos állomány számára előírt továbbképzési kötelezettségek teljesítéséhez szükséges pénzügyi forrást – legalább az előírt kötelezettségek teljesítését biztosító mértékben – a belügyi szerv a költségvetéséből biztosítja.
 
-(2) A központi, a minősített, és a bejelentés köteles továbbképzések költségeit a belügyi szerv az OKTF-nek a hivatásos állomány létszáma alapján továbbképzési hozzájárulásként fizeti (a továbbiakban: normatív hozzájárulás). A normatív hozzájárulás alapja a mindenkori kormánytisztviselői illetményalap (a továbbiakban: illetményalap) 60%-a, amelyet minden év január 31-ig, a belügyi szervnél a tárgyév január 1-jén foglalkoztatott hivatásos állomány létszáma 70%-ának alapulvételével, a belügyi szerv előirányzat átadással teljesít. A 30% létszámarányos maradvány, a 7. § (4) bekezdés e) pontjában meghatározott továbbképzéseken történő részvétel költségfedezeteként a belügyi szervnél marad.
+(2)[^6] A központi, a minősített, és a bejelentés köteles továbbképzések, valamint a rendészeti szakvizsga felkészítési díját és első alkalommal a vizsgadíjat a belügyi szerv az OKTF-nek a hivatásos állomány létszáma alapján továbbképzési hozzájárulásként fizeti (a továbbiakban: normatív hozzájárulás). A normatív hozzájárulás alapja a mindenkori kormánytisztviselői illetményalap (a továbbiakban: illetményalap) 60%-a, amelyet minden év január 31-ig, a belügyi szervnél a tárgyév január 1-jén foglalkoztatott hivatásos állomány létszáma 70%-ának alapulvételével, a belügyi szerv előirányzat átadással teljesít. A 30% létszámarányos maradvány, a 7. § (4) bekezdés e) pontjában meghatározott továbbképzéseken történő részvétel költségfedezeteként a belügyi szervnél marad.
 
 (3) Ha a belügyi szerv a normatív hozzájárulást megfizeti, azonban a továbbképzésre kötelezettek nem vesznek részt a továbbképzésben, az OKTF utólag nem számol el a fel nem használt normatív hozzájárulás összegével, a keletkezett többletet az OKTF a továbbképzési rendszer működtetésére használja fel.
 
@@ -15,3 +15,5 @@
 (7) Az OKTF által készített beszámoló részletesen tartalmazza a továbbképzésekre fordított források felhasználását.
 
 (8) A 7. § (4) bekezdés a)–c) pontjai szerint elrendelt továbbképzés során felmerülő utazási, szállás és étkezési költségeket a belügyi szerv a költségvetéséből biztosítja. A 7. § (4) bekezdés d)–e) pontjaiban meghatározott képzésekkel kapcsolatos költségeket a belügyi szerv és a továbbképzésben résztvevő megállapodása alapján a belügyi szerv átvállalhatja.
+
+[^6]: A 11. § (2) bekezdése a 24/2014. (III. 18.) BM rendelet 1. § (5) bekezdésével megállapított szöveg.

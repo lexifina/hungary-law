@@ -1,6 +1,6 @@
 ## 3. A hivatásos állomány továbbképzési kötelezettsége
 
-7. § (1) A hivatásos állomány továbbképzési kötelezettsége a 3. §-ban meghatározott továbbképzéseken való részvétellel teljesíthető.
+7. § (1)[^3] A hivatásos állomány továbbképzési kötelezettsége a 3. §-ban meghatározott továbbképzéseken való részvétellel, és a rendészeti szakvizsga letételével járó továbbképzési pontérték beszámításával teljesíthető. A rendészeti szakvizsga letételével járó továbbképzési pontérték beszámítása a központi továbbképzéseken való részvétel alól nem mentesít.
 
 (2) A továbbképzések teljesítésének mérése az OKTF főigazgatója által jóváhagyott tanulmányi és vizsgaszabályzat figyelembevételével, továbbképzési pontrendszerrel történik. Egy továbbképzési pont egy tanulmányi munkaórának felel meg.
 
@@ -32,4 +32,12 @@ eb) a közszolgálati tisztviselők továbbképzéséről szóló kormányrendel
 
 továbbképzésen történő részvétellel szerzi meg.
 
+(4a)[^4] A (4) bekezdés a) pontjában meghatározott központi továbbképzésen a hivatásos állomány tagja köteles részt venni.
+
+(4b)[^5] A hivatásos állomány tagjának a továbbképzési időszak egyes éveiben kötelező megszereznie a továbbképzési időszakban teljesítendő összes továbbképzési pont legalább 15%-át úgy, hogy a továbbképzési időszak harmadik év végére a továbbképzési időszakban teljesítendő összes továbbképzési pont legalább 75%-át elérje.
+
 (5) A hivatásos állomány tagja az állományilletékes parancsnok egyetértésével a (3) bekezdésben előírtnál több továbbképzési pontot is teljesíthet a továbbképzési időszakban. Amennyiben a hivatásos állomány tagja a továbbképzési időszakban a számára előírtnál több továbbképzési pontot teljesít, az előírt pontmennyiséget meghaladó továbbképzési pontok – legfeljebb az adott továbbképzési időszakra előírt továbbképzési pontmennyiség 25%-ának megfelelő mértékben – a következő továbbképzési időszakra átvihetők, feltéve, hogy a többletpontok megszerzése a továbbképzési időszak utolsó tizenkét hónapjában történt.
+
+[^3]: A 7. § (1) bekezdése a 24/2014. (III. 18.) BM rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^4]: A 7. § (4a) bekezdését a 24/2014. (III. 18.) BM rendelet 1. § (4) bekezdése iktatta be.
+[^5]: A 7. § (4b) bekezdését a 24/2014. (III. 18.) BM rendelet 1. § (4) bekezdése iktatta be.

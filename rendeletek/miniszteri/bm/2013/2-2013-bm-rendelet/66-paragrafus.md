@@ -6,9 +6,9 @@ b) az OKTF jogelőd intézménye által 2000/2001. évben megrendezett rendésze
 
 c) e rendelet hatálybalépését megelőzően az OKTF vagy jogelőd intézményei által szervezett rendészeti mestervezetővé képző tanfolyamot elvégezte,
 
-d)[^18] e rendelet hatálybalépését megelőző tíz éven belül legalább öt évet főosztályvezetői, vagy ennél magasabb besorolású, vagy ilyen illetményre jogosító vezetői beosztásban töltött, és a vezetői beosztás betöltése alatt készült legutolsó éves teljesítményértékelése legalább „megfelelő” teljesítményfokozatú, vagy
+d)[^24] e rendelet hatálybalépését megelőző tíz éven belül legalább öt évet főosztályvezetői, vagy ennél magasabb besorolású, vagy ilyen illetményre jogosító vezetői beosztásban töltött, és a vezetői beosztás betöltése alatt készült legutolsó éves teljesítményértékelése legalább „megfelelő” teljesítményfokozatú, vagy
 
-e)[^19] e rendelet hatálybalépése előtt betöltötte az ötvenkettedik életévét, legalább húsz év szolgálati viszonnyal rendelkezik, és akinek a legutolsó éves teljesítményértékelése legalább „megfelelő” teljesítményfokozatú.
+e)[^25] e rendelet hatálybalépése előtt betöltötte az ötvenkettedik életévét, legalább húsz év szolgálati viszonnyal rendelkezik, és akinek a legutolsó éves teljesítményértékelése legalább „megfelelő” teljesítményfokozatú.
 
 (2) Aki a rendelet hatálybalépésekor úgy tölt be a 44. § (2) bekezdésében meghatározott beosztást, hogy a rendészeti mestervezetővé képző tanfolyamot nem teljesítette, és nem mentesül annak kötelezettsége alól, annak – a 45. § (2) bekezdés a) pontjában meghatározott feltétel teljesítése nélkül – 2014. december 31-ig el kell végeznie a rendészeti mestervezetővé képző tanfolyamot.
 
@@ -16,5 +16,5 @@ e)[^19] e rendelet hatálybalépése előtt betöltötte az ötvenkettedik élet
 
 (4) A hivatásos állomány azon tagja, aki a rendészeti vezetővé képző tanfolyamot e rendelet hatálybalépése előtt végezte el, jogosult az OKTF-nél a mestervezető-kiválasztási eljárás elvégzésére jelentkezni.
 
-[^18]: A 66. § (1) bekezdés d) pontja a 45/2013. (VIII. 15.) BM rendelet 11. § (2) bekezdés c) pontja szerint módosított szöveg.
-[^19]: A 66. § (1) bekezdés e) pontja a 45/2013. (VIII. 15.) BM rendelet 11. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^24]: A 66. § (1) bekezdés d) pontja a 45/2013. (VIII. 15.) BM rendelet 11. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^25]: A 66. § (1) bekezdés e) pontja a 45/2013. (VIII. 15.) BM rendelet 11. § (2) bekezdés d) pontja szerint módosított szöveg.

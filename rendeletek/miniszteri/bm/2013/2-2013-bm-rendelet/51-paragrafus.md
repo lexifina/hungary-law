@@ -6,6 +6,6 @@
 
 (3) A rendészeti tehetséggondozási program eredményes befejezéséről és a résztvevő előmenetelére vonatkozó javaslatáról az OKTF tájékoztatja a belügyi szerv vezetőjét.
 
-(4)[^14] A hivatásos állomány tagja a rendészeti tehetséggondozási program képzéseinek idejére mentesül a szolgálatteljesítési kötelezettség alól.
+(4)[^20] A hivatásos állomány tagja a rendészeti tehetséggondozási program képzéseinek idejére mentesül a szolgálatteljesítési kötelezettség alól.
 
-[^14]: Az 51. § (4) bekezdését a 45/2013. (VIII. 15.) BM rendelet 12. § (5) bekezdése iktatta be.
+[^20]: Az 51. § (4) bekezdését a 45/2013. (VIII. 15.) BM rendelet 12. § (5) bekezdése iktatta be.

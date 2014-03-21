@@ -14,6 +14,6 @@ a) a rendészeti utánpótlási és vezetői adatbankban (a továbbiakban: adatb
 
 b) rendelkezik rendészeti szakvizsgával, vagy mentesül annak letétele alól.
 
-(3)[^10] A rendészeti vezetővé képző tanfolyamon önkéntes jelentkezéssel a (2) bekezdésben meghatározott feltételeken túl az vehet részt, akinek a legutolsó éves teljesítményértékelése „kivételes” vagy „jó” teljesítményfokozatú.
+(3)[^16] A rendészeti vezetővé képző tanfolyamon önkéntes jelentkezéssel a (2) bekezdésben meghatározott feltételeken túl az vehet részt, akinek a legutolsó éves teljesítményértékelése „kivételes” vagy „jó” teljesítményfokozatú.
 
-[^10]: A 36. § (3) bekezdése a 45/2013. (VIII. 15.) BM rendelet 12. § (3) bekezdésével megállapított szöveg.
+[^16]: A 36. § (3) bekezdése a 45/2013. (VIII. 15.) BM rendelet 12. § (3) bekezdésével megállapított szöveg.

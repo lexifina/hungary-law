@@ -6,7 +6,7 @@ aa) kialakítja a minősítési és nyilvántartási eljárások rendszerét,
 
 ab) lefolytatja a továbbképzési programok minősítési eljárását,
 
-ac) meghatározza a továbbképzési programok tanulmányi pontértékét,
+ac)[^1] az (1a) bekezdésben meghatározott kivétellel meghatározza a továbbképzési programok tanulmányi pontértékét,
 
 ad) működteti a programjegyzéket;
 
@@ -28,6 +28,8 @@ cb) a továbbképzési programok minőségügyi követelményeinek biztosítása
 
 cc) tervszerűen és rendszeresen gondoskodik a továbbképzések során közreműködők szakmai és oktatás-módszertani továbbképzéséről.
 
+(1a)[^2] A rendészeti alapvizsgáról és a rendészeti szakvizsgáról, a Rendészeti Alap- és Szakvizsga Bizottságról, valamint a rendészeti alapvizsga vizsgabiztosi és a rendészeti szakvizsga vizsgabizottsági névjegyzékről szóló 274/2012. (IX. 28.) Korm. rendelet hatálya alá tartozó vizsgázó számára a rendészeti szakvizsga teljesítése 30 továbbképzési pontot ér.
+
 (2) Az OKTF az általa szervezett továbbképzési programok lebonyolításával összefüggésben
 
 a) kifejleszti és jóváhagyásra a Kollégiumnak benyújtja, valamint aktualizálja a továbbképzési programokat,
@@ -35,3 +37,6 @@ a) kifejleszti és jóváhagyásra a Kollégiumnak benyújtja, valamint aktualiz
 b) az éves továbbképzési tervek alapján meghirdeti és megszervezi a saját továbbképzési programjait, azok megvalósításáról nyilvántartást vezet, valamint
 
 c) a továbbképzéseken résztvevők számára igazolást ad ki a megszerzett továbbképzési pontokról.
+
+[^1]: Az 5. § (1) bekezdés a) pont ac) alpontja a 24/2014. (III. 18.) BM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 5. § (1a) bekezdését a 24/2014. (III. 18.) BM rendelet 1. § (2) bekezdése iktatta be.
