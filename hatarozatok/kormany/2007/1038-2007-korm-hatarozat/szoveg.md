@@ -110,11 +110,11 @@ Határidő: folyamatos
 
 8.1. a „Sikeres Magyarországért” Vállalkozásfejlesztési Hitelprogram a Szerződés 87. és 88. cikkének a nemzeti regionális beruházási támogatásokra való alkalmazásáról szóló 2006. október 24-i, 1628/2006/EK bizottsági rendelet (HL L 302., 2006.11.1., 29–40. o.), valamint a Szerződés 87. és 88. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló 2006. december 15-i, 1998/2006/EK bizottsági rendelet (HL L 379., 2006. 12.28., 5. oldal) hatálya alá tartozó támogatást tartalmaz;
 
-8.2.[^2] a „Sikeres Magyarországért” Agrár Fejlesztési Hitelprogram a Szerződés 87. és 88. cikkének a mezőgazdasági termékek előállításával foglalkozó kis- és középvállalkozásoknak nyújtott állami támogatásokra történő alkalmazásáról és a 70/2001/EK rendelet módosításáról szóló 2006. december 15-i 1857/2006/EK bizottsági rendelet, és a Szerződés 87. és 88. cikkének a mezőgazdasági termelőágazatban nyújtott csekély összegű (de minimis) támogatásokra való alkalmazásáról szóló 2007. december 20-i 1535/2007/EK bizottsági rendelet hatálya alá tartozó támogatást tartalmaz, amely odaítélésénél figyelemmel kell lenni az ugyanazon elszámolható költségek tekintetében alkalmazandó uniós támogatás-összeszámítási szabályokra;
+8.2.[^2] a „Sikeres Magyarországért” Agrár Fejlesztési Hitelprogram a Szerződés 87. és 88. cikkének a mezőgazdasági termékek előállításával foglalkozó kis- és középvállalkozásoknak nyújtott állami támogatásokra történő alkalmazásáról és a 70/2001/EK rendelet módosításáról szóló 2006. december 15-i 1857/2006/EK bizottsági rendelet, és az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a mezőgazdasági ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1408/2013/EU bizottsági rendelet hatálya alá tartozó támogatást tartalmaz, amely odaítélésénél figyelemmel kell lenni az ugyanazon elszámolható költségek tekintetében alkalmazandó uniós támogatás-összeszámítási szabályokra;
 
 9. jóváhagyja az MFB Rt. 2007. évi maximum 1025 millió eurós forrásbevonási tervét.
 
 10. Ez a határozat a közzététele napján lép hatályba; egyidejűleg az Agrár Fejlesztési Hitelprogram kidolgozásáról szóló 2318/2004. (XII. 11.) Korm. határozat 1. és 2. pontja hatályát veszti.
 
 [^1]: A 3. pont az 1207/2012. (VI. 26.) Korm. határozat 1. pontjával megállapított szöveg.
-[^2]: A 8. pont 8.2. alpontja az 1207/2012. (VI. 26.) Korm. határozat 2. pontjával megállapított szöveg.
+[^2]: A 8. pont 8.2. alpontja az 1207/2012. (VI. 26.) Korm. határozat 2. pontjával megállapított, az 1154/2014. (III. 20.) Korm. határozat 1. pontja szerint módosított szöveg.
