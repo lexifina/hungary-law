@@ -46,7 +46,7 @@ pénzügyminiszter
 
 Határidő: azonnal
 
-c) megállapítja, hogy a b) pont szerinti a jogszabályi alapú költségvetési készfizető kezességvállalás az EK Szerződés 87. és 88. cikkének a de minimis támogatásokra való alkalmazásáról szóló 1998/2006/EK rendelet szerint de minimis támogatásnak minősül, valamint egyetért azzal, hogy a kezesség támogatástartalmáról és támogatási kategóriájáról szóló igazolást az MFB Zrt. adja ki;
+c)[^7] megállapítja, hogy a b) pont szerinti a jogszabályi alapú költségvetési készfizető kezességvállalás az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet szerint de minimis támogatásnak minősül, valamint egyetért azzal, hogy a kezesség támogatástartalmáról és támogatási kategóriájáról szóló igazolást az MFB Zrt. adja ki;
 
 d) a TÉSZ-nek a b) pont szerinti jogszabályi alapú költségvetési készfizető kezességvállalásért egyszeri 2%-os kezességvállalási díjat kell fizetnie a Magyar Állam részére az MFB Zrt. által kiadott Termékleírásban meghatározott számlára. A hitel folyósításának feltétele a kezességvállalási díj megfizetése.
 
@@ -64,3 +64,4 @@ Határidő: azonnal
 [^4]: Az 1/A. pontot az 1066/2009. (V. 11.) Korm. határozat 1. pontja iktatta be.
 [^5]: Az 1/A. pont a) alpontja az 1187/2009. (XI. 10.) Korm. határozat 2. pontjával megállapított szöveg.
 [^6]: Az 1/A. pont b) alpontja az 1187/2009. (XI. 10.) Korm. határozat 2. pontjával megállapított szöveg.
+[^7]: Az 1/A. pont c) alpontja az 1154/2014. (III. 20.) Korm. határozat 2. pontja szerint módosított szöveg.
