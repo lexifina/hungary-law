@@ -1,1 +1,0 @@
-## „(3) A vizsgaközpont a nyelvvizsgát a vizsgaközponton kívül is megszervezheti. Ebben az esetben a központtól eltérő vizsgahelyeket szintén akkreditációs eljárás alá kell vonni az 5. § (1) bekezdés c) pontja szerint. Számítógépes nyelvvizsga esetén az akkreditációs eljárás kiterjed a számítógépes környezet alkalmasságának a vizsgálatára is.”
