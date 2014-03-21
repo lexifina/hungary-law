@@ -1,0 +1,1 @@
+## „(4) Költségvetési támogatás a támogatási kérelemben megjelöltnél kisebb összegben is megállapítható. Ebben az esetben a kedvezményezett a megállapított támogatásnak megfelelő költségtervet nyújt be.”
