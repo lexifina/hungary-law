@@ -1,5 +1,3 @@
-## 34. § Ha az állomány tagja első alkalommal költözik önálló lakásba, részére az állományilletékes parancsnok engedélyezheti a 20. és a 21. § szerinti költözködési költségtérítés kifizetését a közigazgatási határon belüli helyi, valamint helyközi költözködés esetén is.
-
 ## VIII. Fejezet
 
 ## ZÁRÓ RENDELKEZÉSEK

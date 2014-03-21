@@ -10,9 +10,9 @@
 
 (5) Az állomány (1)–(3) bekezdés szerinti költségtérítésben részesülő tagja részére meg kell téríteni a szolgálatteljesítés helye szerinti településen a helyi munkába járás költségeinek teljes összegét.
 
-(6) Ha az állomány (1)–(3) bekezdés szerinti költségtérítésben részesülő tagja esetén a szolgálatteljesítési hely és a tartózkodási hely szerinti település egybeesik, akkor esetében a lakóhelyre érvényes, munkába járáshoz vásárolt helyi bérlet árát a 17. § szerinti mértékben és rendben lehet megtéríteni.
+(6)[^11] Az (5) bekezdés szerinti költségtérítésen kívül, ha az állomány (1)–(3) bekezdés szerinti költségtérítésben részesülő tagja esetén a szolgálatteljesítési hely és a tartózkodási hely szerinti település egybeesik, akkor esetében a lakóhelyre érvényes, munkába járáshoz vásárolt helyi bérlet árát a 17. § szerinti mértékben és rendben lehet megtéríteni.
 
-(7) Ha az állomány (1)–(3) bekezdés szerinti költségtérítésben részesülő tagjának a szolgálatteljesítés helye és a tartózkodási helye szerinti települések eltérnek egymástól, akkor részére a lakóhely vagy a tartózkodási hely szerinti településen a helyi munkába járási költségek megtérítésére a 17. §-t kell alkalmazni.
+(7)[^12] Az (5) bekezdés szerinti költségtérítésen kívül, ha az állomány (1)–(3) bekezdés szerinti költségtérítésben részesülő tagjának a szolgálatteljesítési helye és a tartózkodási helye szerinti települések eltérnek egymástól, akkor részére a lakóhely vagy a tartózkodási hely szerinti településen a helyi munkába járási költségek megtérítésére a 17. §-t kell alkalmazni.
 
 (8) Az állomány áthelyezett tagja részére teljes összegű munkába járási költségtérítés a Lakásrendeletben meghatározott helyi lakásgazdálkodási szerv által kiállított igazolás alapján állapítható meg.
 
@@ -21,3 +21,6 @@
 (10) Menetjeggyel történő elszámolás esetén nem jár az állomány tagjának a teljes összegű, napi munkába járási utazási költségtérítés arra az időszakra, amelyre a családjától való különélésére tekintettel térítésmentes természetbeni élelmezési ellátásban részesül, továbbá a Hjt. 109. §-a és 110. §-a szerinti szabadsága, 114. §-a szerinti pótszabadsága, 115. §-a szerinti szülési szabadsága, 116. §-a és 117. §-a szerinti illetmény nélküli szabadsága, 119. §-a és 120. §-a szerinti egészségügyi szabadsága időtartamára és azokra a napokra, amelyeken mentesül a szolgálatteljesítési kötelezettség alól.
 
 (11) A munkába járási költségtérítés kifizetésének engedélyezése és elszámolása vonatkozásában az e §-ban nem szabályozott kérdésekben a 15. § (2)–(4) bekezdését és a 16. §-t kell alkalmazni.
+
+[^11]: A 23. § (6) bekezdése a 4/2014. (III. 20.) HM rendelet 7. § f) pontja szerint módosított szöveg.
+[^12]: A 23. § (7) bekezdése a 4/2014. (III. 20.) HM rendelet 7. § f)–g) pontja szerint módosított szöveg.

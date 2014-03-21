@@ -1,6 +1,6 @@
-## 38. §[^6]
+## 38. §[^22]
 
-1. melléklet a 19/2013. (IX. 6.) HM rendelethez[^7]
+1. melléklet a 19/2013. (IX. 6.) HM rendelethez[^23]
 
 ……………………………………….
 
@@ -116,11 +116,7 @@ Igényelt költségtérítés módja*:
 
 – helyközi bérlet/menetjegy leadása ellenében (térítés mértéke: 86%)
 
-– helyi bérlet/menetjegy leadása ellenében átmenő közlekedés miatt (térítés mértéke: 86%)
-
 – helyközi bérlet/menetjegy leadása ellenében (térítés mértéke: 100%) – vezényelt állomány vagy családjától különélő, szolgálat érdekében áthelyezett állomány
-
-– helyi bérlet/menetjegy leadása ellenében átmenő közlekedés miatt (térítés mértéke: 100%) – vezényelt állomány vagy családjától különélő, szolgálat érdekében áthelyezett állomány
 
 4.6.2. Átszállással végrehajtott utazás esetén:
 
@@ -238,5 +234,5 @@ P. H.
 
 ** A felesleges szövegrészek kihúzandók!
 
-[^6]: A 38. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^7]: Az 1. melléklet a 24/2013. (XII. 20.) HM rendelet 24. § c)–d) pontja szerint módosított szöveg.
+[^22]: A 38. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^23]: Az 1. melléklet a 24/2013. (XII. 20.) HM rendelet 24. § c)–d) pontja, a 4/2014. (III. 20.) HM rendelet 8. § b)–c) pontja szerint módosított szöveg.

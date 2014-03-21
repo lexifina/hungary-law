@@ -1,15 +1,7 @@
-## VI. Fejezet
+## 19. [^17] Az állományba nem tartozók utazási költsége
 
-## AZ EGYES PÉNZBELI JUTTATÁSOK FIZETÉSI SZÁMLÁRÓL TÖRTÉNŐ FELVÉTELE TÖBBLETKÖLTSÉGEIHEZ VALÓ HOZZÁJÁRULÁS
+32. § (1) Az állományba nem tartozó részére a honvédelmi feladattal vagy szolgálati érdekkel összefüggésben, továbbá honvédelmi ünnepségen, rendezvényen történő részvétel céljából küldött meghívás esetén az indokoltan felmerülő utazási költségeket a költségviselő honvédelmi szervezet a 10. §, a 12. §, a 13. § és a 25. § (2) bekezdése megfelelő alkalmazásával téríti meg.
 
-32. § (1) Ha az állomány tagja, a közalkalmazott, a honvéd tisztjelölt és a honvéd altiszt-jelölt rendelkezik fizetési számlával, részére az egyes pénzbeli juttatások fizetési számláról történő felvétele többletköltségeihez való hozzájárulásként – a (2) bekezdésben meghatározott eltérésekkel – miniszteri utasításban meghatározott összegű térítést kell kifizetni.
+(2) Az (1) bekezdés szerinti költségek elszámolását a költségviselő honvédelmi szervezet vezetője engedélyezi.
 
-(2) Az év közben jogviszonyt létesítők részére, ha az állományba vételre a tárgyév július 1-je előtt került sor, teljes összegű, ha a tárgyév június 30-a után, 50%-os hozzájárulás jár.
-
-(3) Nem minősül a (2) bekezdés szerinti állományba vételnek
-
-a) a honvédelmi szervezetek közötti áthelyezés, továbbá a Honvédségen belüli jogviszony-váltás, valamint
-
-b) a honvéd tisztjelölt és a honvéd altiszt-jelölt első beosztásba történő kinevezése.
-
-(4) Azoktól, akiknek év közben szűnik meg a jogviszonyuk, a tárgyévre kifizetett hozzájárulást nem lehet visszavonni.
+[^17]: A 19. alcímet (32. §) a 4/2014. (III. 20.) HM rendelet 3. §-a iktatta be.

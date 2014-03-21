@@ -4,11 +4,11 @@
 
 1. § (1) E rendelet alkalmazásában
 
-1. családjától különélő: a hivatásos és szerződéses állomány (a továbbiakban: állomány) azon tagja, aki a szolgálati érdekű áthelyezése vagy vezénylése következtében, a család együttélését lehetővé tevő lakhatási támogatásra a Honvédelmi Minisztérium által nyújtott lakhatási támogatásokról szóló miniszteri rendelet (a továbbiakban: Lakásrendelet) szabályai szerint az új szolgálatteljesítési helye szerinti településen igényjogosult, de annak hiányában helyközi utazásra vagy a munkába járással kapcsolatos utazási költségtérítésről szóló 39/2010. (II. 26.) Korm. rendelet (a továbbiakban: Korm. rendelet) 2. § c) pontja szerint hazautazik;
+1.[^1] családjától különélő: a hivatásos és szerződéses állomány (a továbbiakban: állomány) azon tagja, aki a szolgálati érdekű áthelyezése vagy vezénylése következtében, a család együttélését lehetővé tevő lakhatási támogatásra a Honvédelmi Minisztérium által nyújtott lakhatási támogatásokról szóló miniszteri rendelet (a továbbiakban: Lakásrendelet) szabályai szerint az új szolgálatteljesítési helye szerinti településen, illetve annak vonzáskörzetében igényjogosult, de annak hiányában helyközi utazást vesz igénybe, vagy a munkába járással kapcsolatos utazási költségtérítésről szóló 39/2010. (II. 26.) Korm. rendelet (a továbbiakban: Korm. rendelet) 2. § c) pontja szerint hazautazik;
 
 2. csapatmozgás: a honvédnek vagy a honvédelmi szervezetnél foglalkoztatott közalkalmazottnak (a továbbiakban: közalkalmazott) olyan kiképzéssel, készenlétfokozással vagy katasztrófa-elhárítással kapcsolatos, kötelékben történő utaztatása, amelynek lebonyolítása során a térítésmentes szállításról, a szálláshelyről és a természetbeni élelmezési ellátásról a honvédelmi szervezet vagy a Magyar Honvédség (a továbbiakban: Honvédség) megbízása szerint más szervezet intézményesen gondoskodik;
 
-3. egyéb utazás: a honvéd vagy a közalkalmazott által végrehajtott, V. Fejezet szerinti belföldi utazás;
+3.[^2] egyéb utazás: a honvéd, a közalkalmazott, vagy a honvédelmi szervezet állományába nem tartozó személy (a továbbiakban: állományba nem tartozó) által végrehajtott, V. Fejezet szerinti belföldi utazás;
 
 4. helyközi utazás: a közigazgatási határon kívülről a lakóhely vagy a tartózkodási hely, valamint a szolgálatteljesítés vagy a munkavégzés (a továbbiakban együtt: szolgálatteljesítés) helye között szolgálatteljesítési célból történő utazás, ideértve az átutazás céljából helyi közösségi közlekedéssel megvalósuló utazást;
 
@@ -32,6 +32,11 @@ b) nem rendelkező honvédelmi szervezet esetében a pénzügyi és számviteli 
 
 (2) Ahol e rendelet állományilletékes parancsnokot említ, azon közalkalmazott esetén a munkáltatói jogkört gyakorló vezetőt kell érteni.
 
-(3)[^1] E rendelet alkalmazásában családnak minősül a családtagok olyan közössége, melyben családtag a házastárs, az élettárs, továbbá az olyan, a Hjt. 2. § 20. pontja szerinti egyéb közeli hozzátartozó, akit a Polgári Törvénykönyvről szóló 2013. évi V. törvény szerint az állomány tagja köteles eltartani, és akit a szolgálat érdekében történt áthelyezés, vezénylés időpontjában saját háztartásában ténylegesen eltartott.
+(3)[^3] E rendelet alkalmazásában családnak minősül a családtagok olyan közössége, melyben családtag a házastárs, az élettárs, továbbá az olyan, a Hjt. 2. § 20. pontja szerinti egyéb közeli hozzátartozó, akit a Polgári Törvénykönyvről szóló 2013. évi V. törvény szerint az állomány tagja köteles eltartani, és akit a szolgálat érdekében történt áthelyezés, vezénylés időpontjában saját háztartásában ténylegesen eltartott.
 
-[^1]: Az 1. § (3) bekezdése a 37. § szerint módosított szöveg.
+(4)[^4] Az élettárs után e rendelet alapján megállapítható költségtérítések igénybevételéhez az élettársi kapcsolat fennállásának tényét a honvédek jogállásáról szóló 2012. évi CCV. törvény egyes rendelkezéseinek végrehajtásáról szóló 9/2013. (VIII. 12.) HM rendelet 18/A. §-a szerint kell igazolni.
+
+[^1]: Az 1. § (1) bekezdés 1. pontja a 4/2014. (III. 20.) HM rendelet 7. § a)–b) pontja szerint módosított szöveg.
+[^2]: Az 1. § (1) bekezdés 3. pontja a 4/2014. (III. 20.) HM rendelet 7. § c) pontja szerint módosított szöveg.
+[^3]: Az 1. § (3) bekezdése a 37. § szerint módosított szöveg.
+[^4]: Az 1. § (4) bekezdését a 4/2014. (III. 20.) HM rendelet 1. §-a iktatta be.
