@@ -4,10 +4,11 @@
 
 (3)[^9] A program céljára nem szerezhet vagyonkezelői jogot az az önkormányzat,
 
-a) amely a tulajdonában álló termőföldek, és mező-, erdőgazdasági művelés alatt álló belterületi földek (a továbbiakban együtt: termőterület) területnagyságának több mint 50%-át vagyonkezelésbe vagy haszonbérbe adta;
+a)[^10] amely a tulajdonában álló földek területnagyságának több mint 50%-át vagyonkezelésbe vagy haszonbérbe adta;
 
 b) amellyel szemben a hirdetmény közzétételének napját megelőző két évben a területileg illetékes ingatlanügyi hatóság földvédelmi bírságot szabott ki, valamint a Mezőgazdasági Szakigazgatási Hivatal parlagfű elleni közérdekű védekezést elrendelő határozatot hozott, vagy növényvédelmi, illetve erdőgazdálkodási bírságot szabott ki.
 
 [^7]: A 4. § (1) bekezdése a 161/2011. (VIII. 18.) Korm. rendelet 23. § a) pontja szerint módosított szöveg.
 [^8]: A 4. § (2) bekezdése a 161/2011. (VIII. 18.) Korm. rendelet 23. § a) pontja szerint módosított szöveg.
 [^9]: A 4. § (3) bekezdés nyitó szövegrésze a 161/2011. (VIII. 18.) Korm. rendelet 23. § b) pontja szerint módosított szöveg.
+[^10]: A 4. § (3) bekezdés a) pontja a 91/2014. (III. 20.) Korm. rendelet 17. § a) pontja szerint módosított szöveg.

@@ -22,10 +22,12 @@ j) az önkormányzat jogszabályból vagy a szerződésből eredő lényeges kö
 
 (2) Ha az azonnali hatályú felmondást az önkormányzat 15 napon belül nem veszi tudomásul, az NFA további 15 napon belül a bírósághoz fordulhat. Ha nem így jár el, a felmondás hatályát veszti.
 
-(3) A rendes felmondási időt a felek a szerződésben határozzák meg, oly módon, hogy az NFA – a termőföld védelméről szóló törvényben meghatározottak szerint – a termőföld és a mező-, erdőgazdasági művelés alatt álló belterületi föld hasznosítási kötelezettségének teljesítéséről, valamint a művelés alól kivett területekkel összefüggő gazdálkodási feladatok ellátásáról gondoskodni tudjon.
+(3)[^25] A rendes felmondási időt a felek a szerződésben határozzák meg, oly módon, hogy az NFA a termőföld védelméről szóló törvényben előírtak szerint, az ott meghatározott termőföld és a mező-, erdőgazdasági művelés alatt álló belterületi föld hasznosítási kötelezettségének teljesítéséről, illetve a művelés alól kivett területekkel összefüggő gazdálkodási feladatok ellátásáról gondoskodni tudjon.
 
 (4) A vagyonkezelési szerződés közös megegyezéssel a gazdasági év végével szüntethető meg.
 
 (5) A vagyonkezelési szerződés módosítására irányuló kérelemnek minősül, ha az önkormányzat a vagyonkezelésébe került földrészletek egy részére a vagyonkezelési szerződés megszüntetését kezdeményezi. Ilyen kérelmet kizárólag önálló helyrajzi számú földrészletekre lehet előterjeszteni, mely kérelem elbírálásáról az NFA dönt. Egyéb esetekben a vagyonkezelési szerződés módosítására a vagyonkezelési szerződés megkötésére vonatkozó szabályokat kell alkalmazni.
 
 (6) Ha a vagyonkezelési szerződés az NFA felmondása következtében szűnt meg, az önkormányzat vagyonkezelői jogának ingatlan-nyilvántartásból történő törlését követő öt éven belül az önkormányzat részére a program céljára nem adható földrészletet.
+
+[^25]: A 13. § (3) bekezdése a 91/2014. (III. 20.) Korm. rendelet 16. §-ával megállapított szöveg.
