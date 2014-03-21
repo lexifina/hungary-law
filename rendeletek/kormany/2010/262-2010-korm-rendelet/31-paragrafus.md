@@ -1,4 +1,4 @@
-31. § (1)[^57] Az árverési hirdetményt az Nfatv. 26. § (2) bekezdésében előírt módon kell közzétenni, és az árverés helyszínén is ki kell függeszteni. Azon települések esetében, melyek körjegyzőséget tartanak fenn, az árverési hirdetményt az Nfatv. 26. § (2) bekezdése alapján a körjegyzőségnél is közzé kell tenni. Az árverés meghirdetésének napja az árverési hirdetménynek a földrészlet fekvése szerinti önkormányzat polgármesteri hivatala, illetve a körjegyzőség székhelyén a körjegyzőség hirdetőtáblájára való kifüggesztés napja.
+31. § (1)[^69] Az árverési hirdetményt az Nfatv. 26. § (2) bekezdésében előírt módon kell közzétenni, és az árverés helyszínén is ki kell függeszteni. A közös önkormányzati hivatal esetében az árverési hirdetményt az Nfatv. 26. § (2) bekezdésében meghatározottak alapján a közös önkormányzati hivatalnál is közzé kell tenni. Az árverés meghirdetésének napja az árverési hirdetménynek a földrészlet fekvése szerinti önkormányzat polgármesteri hivatala, illetve a közös önkormányzati hivatal esetében a közös önkormányzati hivatal hirdetőtáblájára és a közös önkormányzati hivatalhoz tartozó önkormányzat hirdetőtáblájára való kifüggesztést követő nap.
 
 (2) Az árverési hirdetmény közzétételének időpontja legalább harminc nappal meg kell előzze a hirdetményben megjelölt árverési időpontot.
 
@@ -16,7 +16,7 @@
 
 6. az árverés tárgyát képező tulajdoni illetőséget;
 
-7. az ingatlan-nyilvántartásba a Magyar Állam tulajdoni illetőségére bejegyzett, illetve feljegyzett jogokat és terheket, továbbá az ingatlan-nyilvántartásba fel nem jegyzett, az NFA által ismert terheket;
+7.[^70] az ingatlan-nyilvántartásba az állam tulajdoni illetőségére bejegyzett, illetve feljegyzett jogokat és terheket, továbbá az ingatlan-nyilvántartásba fel nem jegyzett, az NFA által ismert terheket;
 
 8. az ingatlan-nyilvántartásba jogi jellegként feljegyzett tényeket;
 
@@ -70,8 +70,10 @@ bf) a jelzálogjog és végrehajtási jog
 
 jogosultját;
 
-c) a földhasználati nyilvántartásba bejegyzett földhasználót vagy azt az NFA-val haszonbérleti jogviszonyban álló haszonbérlőt, akit a Tft. alapján nem terhel a földhasználati nyilvántartásba való bejelentési kötelezettség.
+c)[^71] a földhasználati nyilvántartásba bejegyzett földhasználót, valamint az NFA-val szerződéses jogviszonyban álló olyan földhasználót is, akinek a használata a földhasználati nyilvántartásba nem került bejegyzésre.
 
 (5) A (3) bekezdés 11. pontjában foglalt adatokat az NFA a Mezőgazdasági és Vidékfejlesztési Hivatal adatszolgáltatása alapján állapítja meg.
 
-[^57]: A 31. § (1) bekezdése a 161/2011. (VIII. 18.) Korm. rendelet 18. § e) pontja szerint módosított szöveg.
+[^69]: A 31. § (1) bekezdése a 91/2014. (III. 20.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^70]: A 31. § (3) bekezdés 7. pontja a 91/2014. (III. 20.) Korm. rendelet 12. § c) pontja szerint módosított szöveg.
+[^71]: A 31. § (4) bekezdés c) pontja a 91/2014. (III. 20.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.

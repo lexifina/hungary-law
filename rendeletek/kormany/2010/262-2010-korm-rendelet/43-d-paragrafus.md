@@ -2,7 +2,7 @@
 
 (2) Nem kell pályáztatási eljárást lefolytatni, ha
 
-a)[^74]
+a)[^93]
 
 b) a haszonbérbe adandó védett területek együttes térmértéke nem haladja meg az 5 hektárt.
 
@@ -12,7 +12,7 @@ b) a haszonbérbe adandó védett területek együttes térmértéke nem haladja
 
 (5) A pályázati eljárásban résztvevő pályázókra vonatkozó előírások kapcsán a 26. § (2) bekezdés b) pontját nem kell alkalmazni.
 
-(6) A pályázó a pályázatát zárt borítékban, legalább két példányban – ebből egy példányt minden oldalon eredetiben cégszerű aláírással, magánszemélyeknél eredeti aláírással, illetve a meghatalmazott aláírásával ellátva – köteles a pályázat benyújtására nyitva álló határidőben, a megadott helyen, az adott pályázati azonosítószám feltüntetésével, személyesen vagy meghatalmazott útján benyújtani.
+(6)[^94] A pályázó a pályázatát zárt borítékban, legalább két példányban – ebből egy példányt minden oldalon eredetiben cégszerű aláírással, természetes személyeknél eredeti aláírással, illetve a meghatalmazott aláírásával ellátva – köteles a pályázat benyújtására nyitva álló határidőben, a megadott helyen, az adott pályázati azonosítószám feltüntetésével, személyesen vagy meghatalmazott útján benyújtani.
 
 (7) A 14. § (1) bekezdésében foglaltakon túl érvénytelen az a pályázat is, ha a pályázati eljárás kezdő napját megelőző
 
@@ -28,11 +28,13 @@ c) 7 éven belül a pályázónak természetkárosítás bűntette miatti bünte
 
 (10) A pályázatok értékelése során előnyben kell részesíteni azt a pályázót, aki vagy amely
 
-a) a Tft. szerinti helyben lakónak minősül és az adott tájegységre jellemző hagyományos gazdálkodást folytat,
+a)[^95] a Földforgalmi tv. szerinti helyben lakónak minősül és az adott tájegységre jellemző hagyományos gazdálkodást folytat,
 
-b)[^75]
+b)[^96]
 
 c) a régi magyar háziállatfajták tartását, tenyésztését és genetikai állományának megőrzését végzi, különös tekintettel a legeltetett fajokra és fajtákra.
 
-[^74]: A 43/D. § (2) bekezdés a) pontját a 153/2013. (V. 24.) Korm. rendelet 20. § f) pontja hatályon kívül helyezte.
-[^75]: A 43/D. § (10) bekezdés b) pontját a 405/2012. (XII. 28.) Korm. rendelet 33. § d) pontja hatályon kívül helyezte.
+[^93]: A 43/D. § (2) bekezdés a) pontját a 153/2013. (V. 24.) Korm. rendelet 20. § f) pontja hatályon kívül helyezte.
+[^94]: A 43/D. § (6) bekezdése a 91/2014. (III. 20.) Korm. rendelet 12. § m) pontja szerint módosított szöveg.
+[^95]: A 43/D. § (10) bekezdés a) pontja a 91/2014. (III. 20.) Korm. rendelet 12. § n) pontja szerint módosított szöveg.
+[^96]: A 43/D. § (10) bekezdés b) pontját a 405/2012. (XII. 28.) Korm. rendelet 33. § d) pontja hatályon kívül helyezte.

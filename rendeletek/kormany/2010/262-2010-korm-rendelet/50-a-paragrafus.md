@@ -1,6 +1,6 @@
 ## 50. § Ha a tulajdonosi ellenőrzés eredményeként az NFA megállapítja a földrészlet adatainak változását, a hatósági nyilvántartásokkal összefüggő eljárást kezdeményez, illetve a Nemzeti Földalap vagyonnyilvántartásában a változás átvezetéséről intézkedik.
 
-50/A. §[^79] (1) A használót – a Nemzeti Földalap vagyon-nyilvántartásának naprakész vezetése és az NFA beszámoló-készítési kötelezettségének megalapozottsága érdekében – e rendelet, az NFA vagyonnyilvántartási szabályzata, valamint a szerződés szerinti adatszolgáltatási kötelezettség terheli a szerződés tartama alatt.
+50/A. §[^103] (1) A használót – a Nemzeti Földalap vagyon-nyilvántartásának naprakész vezetése és az NFA beszámoló-készítési kötelezettségének megalapozottsága érdekében – e rendelet, az NFA vagyonnyilvántartási szabályzata, valamint a szerződés szerinti adatszolgáltatási kötelezettség terheli a szerződés tartama alatt.
 
 (2) A használó e rendelet szerinti adatszolgáltatási kötelezettsége az NFA felé akkor is fennáll, ha az NFA-val vagy az NFA jogelődjével kötött szerződés az adatszolgáltatási kötelezettségről nem rendelkezik.
 
@@ -10,7 +10,7 @@ a) a földrészlet az állam tulajdonából vagy a Nemzeti Földalapból bármel
 
 b) a földrészlet művelési ágát megváltoztatatja;
 
-c) a földrészletnek a termőföld védelméről szóló törvény szerinti más célú hasznosítását megkezdi, valamint megvalósítja, illetve megszünteti;
+c)[^104] a földrészletnek a Tfvt. szerinti más célú hasznosítását megkezdi, valamint megvalósítja, illetve megszünteti;
 
 d) a földrészleten a rendes gazdálkodás körét meghaladó beruházást valósít meg;
 
@@ -42,4 +42,5 @@ e) az (5) bekezdés a) pontjában meghatározott esetben a forgalmi értékbecsl
 
 f) az (5) bekezdés b) pontjában meghatározott esetben a szerződés létrejöttét, vagy megszűnését
 
-[^79]: Az 50/A. §-t a 153/2013. (V. 24.) Korm. rendelet 17. §-a iktatta be.
+[^103]: Az 50/A. §-t a 153/2013. (V. 24.) Korm. rendelet 17. §-a iktatta be.
+[^104]: Az 50/A. § (3) bekezdés c) pontja a 91/2014. (III. 20.) Korm. rendelet 12. § r) pontja szerint módosított szöveg.

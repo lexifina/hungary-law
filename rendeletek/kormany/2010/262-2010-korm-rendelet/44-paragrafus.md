@@ -14,4 +14,6 @@ b) az állam javára megszerzett termőföld aranykorona (AK) értéke – a sz�
 
 (4) A Nemzeti Földalapba tartozó védett természeti területet legalább azonos természetvédelmi értékű védett természeti területtel, az állam kizárólagos tulajdonában álló erdőt az Evt. 8. § (4) és (5) bekezdésében meghatározott feltételek fennállása esetén lehet elcserélni.
 
-(5) A (3) bekezdés szerinti település szerinti átlag AK értéket az adott település azonos művelési ágú termőföldjeinek egy hektárra vetített AK értékeinek átlaga alapján kell megállapítani. Ha a csere tárgyát több termőföld képezi, vagy olyan termőföld képezi, amelynek több művelési ága van, a művelési ágak területi mértéke alapján súlyozott átlagos egy hektárra vetített Ak érték alapján kell az átlag AK értéket megállapítani. E bekezdésben foglalt, a település átlag AK értékét az NFA megkeresésére az ingatlanügyi hatóság állapítja meg.
+(5)[^97] A (3) bekezdés szerinti település szerinti átlag AK értéket az adott település azonos művelési ágú földjeinek egy hektárra vetített AK értékeinek átlaga alapján kell megállapítani. Ha a csere tárgyát több föld képezi, vagy olyan föld képezi, amelynek több művelési ága van, a művelési ágak területi mértéke alapján súlyozott átlagos egy hektárra vetített Ak érték alapján kell az átlag AK értéket megállapítani. E bekezdésben foglalt, a település átlag AK értékét az NFA megkeresésére az ingatlanügyi hatóság állapítja meg.
+
+[^97]: A 44. § (5) bekezdése a 91/2014. (III. 20.) Korm. rendelet 12. § o) pontja szerint módosított szöveg.
