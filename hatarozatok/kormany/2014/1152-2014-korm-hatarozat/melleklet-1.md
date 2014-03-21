@@ -72,11 +72,7 @@
 
 ## Határidő: 2014. március 31.
 
-## 5. visszavonja
-
-## a) a 2014–2020-as európai uniós programok lebonyolítását támogató intézményrendszer felállításának szervezeti kereteiről és az európai uniós fejlesztési források felhasználásához kapcsolódó egyes feladat- és hatáskörökről, és az e-közigazgatás fejlesztésének jövőbeni irányairól szóló 1814/2013. (XI. 14.) Korm. határozat 3. pontját,
-
-## b) a közreműködő szervezetek útján ellátott feladatokkal kapcsolatos egyes koncepcionális kérdésekről szóló 1085/2014. (II. 28.) Korm. határozat 1. és 2. pontját.
+## 5.[^1]
 
 1. melléklet az 1152/2014. (III. 20.) Korm. határozathoz
 
@@ -145,3 +141,5 @@
 | 23 | Társadalmi Megújulás Operatív Program | ESZA Társadalmi Szolgáltató Nonprofit Kft. | emberi erőforrások minisztere |
 
 | 24 | Társadalmi Infrastruktúra Operatív Program | ESZA Társadalmi Szolgáltató Nonprofit Kft. | emberi erőforrások minisztere |
+
+[^1]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
