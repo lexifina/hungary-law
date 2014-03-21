@@ -8,4 +8,6 @@
 
 a) a felek egyedi és közös tranzakció azonosítót hoznak létre, és
 
-b) a viszonteladó az ügyfélrendelkezés teljesítéséhez szükséges azonosítón túl a viszonteladó által létrehozott és az igénybe vevő által is ismert egyedi ügyfél azonosítót is közli a nemzeti mobil fizetési szervezettel.
+b)[^15] a viszonteladó az ügyfélrendelkezés teljesítéséhez szükséges azonosítón túl a viszonteladó által létrehozott és az igénybe vevő által is ismert igénybe vevőhöz köthető egyedi tranzakció azonosítót is közli a nemzeti mobil fizetési szervezettel.
+
+[^15]: A 26. § (4) bekezdés b) pontja a 92/2014. (III. 20.) Korm. rendelet 11. §-a szerint módosított szöveg.

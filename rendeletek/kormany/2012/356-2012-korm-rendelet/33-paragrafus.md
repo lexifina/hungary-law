@@ -8,7 +8,7 @@ a) beazonosítja az ügyfelet, és megvizsgálja a szolgáltatás igénybevétel
 
 b) elindítja és leállítja a szolgáltatást,
 
-c) méri a parkolási időt,
+c)[^21] megállapítja a parkolási időt,
 
 d) adatot szolgáltat a szolgáltató ellenőre számára és informatikai támogatást nyújt az ellenőrzéshez,
 
@@ -34,6 +34,16 @@ d) kezeli a szolgáltató szolgáltatásával szemben felmerülő ügyfélpanasz
 
 e) statisztikai adatokat szolgáltat a szolgáltatónak.
 
+(3a)[^22] Az Útdíjtörvény szerinti úthasználati jogosultság értékesítésével kapcsolatban a nemzeti mobil fizetési szervezet
+
+a) begyűjti az ügyféltől az Útdíjtörvény szerint a tranzakció elindításhoz szükséges adatokat, és megvizsgálja a szolgáltatás igénybevételének jogosultságát,
+
+b) adatot szolgáltat a szolgáltató nyilvántartásához és az ellenőrzéshez,
+
+c) kezeli a szolgáltató szolgáltatásával szemben felmerülő ügyfélpanaszokat, és
+
+d) statisztikai adatokat szolgáltat a szolgáltatónak.
+
 (4) A közlekedési jegy értékesítésével kapcsolatban a nemzeti mobil fizetési szervezet
 
 a) beazonosítja az ügyfelet, és megvizsgálja a szolgáltatás igénybevételének jogosultságát,
@@ -47,3 +57,6 @@ d) kezeli a szolgáltató szolgáltatásával szemben felmerülő ügyfélpanasz
 e) statisztikai adatokat szolgáltat a szolgáltatónak.
 
 (5) A szolgáltatóval kötött megállapodás alapján a nemzeti mobil fizetési szervezet jogosult olyan támogatási szolgáltatás nyújtására, amelynek keretében a szolgáltató javára elvégzi a mentességre vagy kedvezményekre való jogosultság ellenőrzésével és igazolásával kapcsolatos egyes feladatokat.
+
+[^21]: A 33. § (2) bekezdés c) pontja a 92/2014. (III. 20.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^22]: A 33. § (3a) bekezdését a 92/2014. (III. 20.) Korm. rendelet 10. § (2) bekezdése iktatta be.

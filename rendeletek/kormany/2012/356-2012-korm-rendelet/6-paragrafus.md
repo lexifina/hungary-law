@@ -14,4 +14,6 @@ e) az üzletszabályzat elérhetőségét, és
 
 f) a nemzeti mobil fizetési szervezet egyoldalú szerződésmódosítására alapot adó feltételek, körülmények meghatározását.
 
-(2) A mobil fizetési szerződésben a felek közös megegyezéssel az ügyfél javára eltérhetnek az e rendeletben meghatározott feltételektől, ha az a nemzeti mobil fizetési szervezet által nyújtott szolgáltatást nem veszélyezteti.
+(2)[^8] A mobil fizetési szerződésben a felek közös megegyezéssel az ügyfél javára – az egyenlő bánásmód követelményeivel összhangban – eltérhetnek az e rendeletben meghatározott feltételektől, ha az a nemzeti mobil fizetési szervezet által nyújtott szolgáltatást nem veszélyezteti, és nem eredményez az ügyfelek közötti indokolatlan vagy aránytalan mértékű különbségtételt.
+
+[^8]: A 6. § (2) bekezdése a 92/2014. (III. 20.) Korm. rendelet 4. §-ával megállapított szöveg.
