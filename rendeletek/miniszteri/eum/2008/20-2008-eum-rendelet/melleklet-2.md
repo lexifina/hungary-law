@@ -1,4 +1,4 @@
-2. melléklet a 20/2008. (V. 14.) EüM rendelethez[^12]
+2. melléklet a 20/2008. (V. 14.) EüM rendelethez[^18]
 
 ## Az előállító utasításai szerint elkészített anyatej-kiegészítő tápszerek alapvető összetétele
 
@@ -14,7 +14,7 @@
 
 (Fehérjetartalom = nitrogéntartalom × 6,25)
 
-2.1. Tehéntej-fehérjékből gyártott anyatej-kiegészítő tápszerek
+2.1. Tehéntej-fehérjékből vagy kecsketej-fehérjékből gyártott anyatej-kiegészítő tápszerek
 
 | Minimum | Maximum |
 
@@ -24,13 +24,17 @@ Azonos energiatartalomra vonatkoztatva az anyatej-kiegészítő tápszereknek mi
 
 2.2. Részlegesen hidrolizált fehérjékből gyártott anyatej-kiegészítő tápszerek
 
-| Minimum | Maximum |
+| Minimum (*) | Maximum |
 
-| 0,56 g/100 kJ (2,25 g/100 kcal) | 0,8 g/100 kJ (3,5 g/100 kcal) |
+| 0,45 g/100 kJ | 0,8 g/100 kJ |
 
-Azonos energiatartalomra vonatkoztatva az anyatej-kiegészítő tápszereknek minden nélkülözhetetlen és feltételesen nélkülözhetetlen aminosavat legalább akkora hasznosítható mennyiségben kell tartalmazniuk, mint amennyit a referenciafehérje (az 5. melléklet szerint meghatározott anyatej) tartalmaz. Azonban számítási célból a metionin és cisztein koncentrációit össze lehet adni, amennyiben a metionin:cisztein arány 3-nál nem nagyobb, továbbá a fenilalanin és tirozin koncentrációit össze lehet adni, amennyiben a tirozin:fenilalanin arány 2-nél nem nagyobb.
+| (1,8 g/100 kcal) | (3,5 g/100 kcal) |
 
-2.3. Kizárólag szójafehérje-izolátumokból vagy ennek tehéntej-fehérjékkel készített keverékéből gyártott anyatej- kiegészítő tápszerek
+(*) Azoknak a fehérjehidrolizátumokból gyártott anyatej-kiegészítő tápszereknek, amelyeknek fehérjetartalma a minimum értéket eléri, de nem haladja meg a 0,56 g/100 kJ (2,25 g/100 kcal) értéket, meg kell felelniük a 7. § (5a) bekezdésének.
+
+Azonos energiatartalomra vonatkoztatva az anyatej-kiegészítő tápszereknek minden nélkülözhetetlen és feltételesen nélkülözhetetlen aminosavat legalább akkora hasznosítható mennyiségben kell tartalmazniuk, mint amennyit a referenciafehérje (az 5. melléklet szerint meghatározott anyatej) tartalmaz. Számítási célból azonban a metionin és cisztein koncentrációit össze lehet adni, ha a metionin:cisztein arány 3-nál nem nagyobb, továbbá a fenilalanin és tirozin koncentrációit össze lehet adni, ha a tirozin:fenilalanin arány 2-nél nem nagyobb.
+
+2.3. Kizárólag szójafehérje-izolátumokból vagy ennek tehéntej-fehérjékkel vagy kecsketej-fehérjékkel készített keverékéből gyártott anyatej- kiegészítő tápszerek
 
 | Minimum | Maximum |
 
@@ -126,7 +130,7 @@ A frukto-oligoszacharidok és galakto-oligoszacharidok egyéb maximális szintje
 
 8. Ásványi anyagok
 
-8.1. Tehéntej-fehérjékből vagy hidrolizált fehérjékből gyártott anyatej-kiegészítő tápszerek
+8.1. Tehéntej-fehérjékből vagy kecsketej-fehérjékből vagy fehérjehidrolizátumokból gyártott anyatej-kiegészítő tápszerek
 
 |  | 100 kJ-ra vonatkoztatott érték | 100 kcal-ra vonatkoztatott érték |
 
@@ -160,7 +164,7 @@ A frukto-oligoszacharidok és galakto-oligoszacharidok egyéb maximális szintje
 
 A kalcium/foszfor aránya az anyatej-kiegészítő tápszerekben nem lehet kevesebb, mint 1,0 és nem lehet több, mint 2,0.
 
-8.2. Kizárólag szójafehérje-izolátumokból vagy ennek tehéntej-fehérjékkel készített keverékéből gyártott anyatej- kiegészítő tápszerek
+8.2. Kizárólag szójafehérje-izolátumokból vagy ezeknek tehéntej-fehérjékkel vagy kecsketej-fehérjékkel készített keverékéből gyártott anyatej-kiegészítő tápszerek
 
 A 8.1. pont minden követelménye alkalmazandó, kivéve a vasra és foszforra vonatkozókat, amelyek a következők:
 
@@ -234,4 +238,4 @@ A következő nukleotidokat lehet hozzáadni:
 
 (1) A nukleotidok együttes koncentrációja nem haladja meg az 1,2 mg/100 kJ-t (5 mg/100 kcal-t).
 
-[^12]: A 2. melléklet a 41/2009. (XI. 23.) EüM rendelet 7. § (5) bekezdés a)–c) szerint módosított szöveg.
+[^18]: A 2. melléklet a 41/2009. (XI. 23.) EüM rendelet 7. § (5) bekezdés a)–c) pontja, a 22/2014. (III. 20.) EMMI rendelet 4. § f)–i) pontja és 5. § a) pontja szerint módosított szöveg.

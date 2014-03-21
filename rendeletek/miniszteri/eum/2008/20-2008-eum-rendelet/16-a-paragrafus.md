@@ -1,4 +1,4 @@
-16/A. §[^5] (1) Az Európai Gazdasági Térségen kívülre kivitelre szánt tápszernek meg kell felelnie
+16/A. §[^10] (1) Az Európai Gazdasági Térségen kívülre kivitelre szánt tápszernek meg kell felelnie
 
 a) a 3. § (2) bekezdésében és a 12. § (8) bekezdésében foglalt rendelkezésnek és
 
@@ -8,4 +8,4 @@ b) – az importáló országban irányadó eltérő rendelkezések hiányában 
 
 (3) A kivitelre szánt tápszer tekintetében a 12. § (3)–(8) bekezdésében foglalt követelményeket, tilalmakat és korlátozásokat a termék külső megjelenésére, alakjára valamint az alkalmazott csomagolóanyagra is alkalmazni kell.
 
-[^5]: A 16/A. §-t a 14/2013. (II. 15.) EMMI rendelet 2. § (2) bekezdése iktatta be.
+[^10]: A 16/A. §-t a 14/2013. (II. 15.) EMMI rendelet 2. § (2) bekezdése iktatta be.

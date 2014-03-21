@@ -1,4 +1,6 @@
-1. melléklet a 20/2008. (V. 14.) EüM rendelethez[^11]
+## végrehajtásához szükséges rendelkezéseket állapít meg.
+
+1. melléklet a 20/2008. (V. 14.) EüM rendelethez[^17]
 
 ## Az előállító utasításai szerint elkészített anyatej-helyettesítő tápszerek alapvető összetétele
 
@@ -14,13 +16,13 @@
 
 (Fehérjetartalom = nitrogéntartalom × 6,25)
 
-2.1. Tehéntej-fehérjékből gyártott anyatej-helyettesítő tápszerek
+2.1. Tehéntej-fehérjékből vagy kecsketej-fehérjékből gyártott anyatej-helyettesítő tápszerek
 
 | Minimum(1) | Maximum |
 
 | 0,45 g/100 kJ (1,8 g/100 kcal) | 0,7 g/100 kJ (3 g/100 kcal) |
 
-(1) Azoknak a tehéntej-fehérjékből gyártott anyatej-helyettesítő tápszereknek, amelyek fehérjetartalma a minimális és 0,5 g/100 kJ (2 g/100 kcal) közötti, meg kell felelniük a 7. § (3) bekezdésének.
+(1) Azoknak a tehéntej-fehérjékből vagy kecsketej-fehérjékből gyártott anyatej-helyettesítő tápszereknek, amelyek fehérjetartalma a minimális és 0,5 g/100 kJ (2 g/100 kcal) közötti, meg kell felelniük a 7. § (3) bekezdésének.
 
 Azonos energiatartalomra vonatkoztatva az anyatej-helyettesítő tápszereknek minden nélkülözhetetlen és feltételesen nélkülözhetetlen aminosavból annyi hasznosítható mennyiséget kell tartalmazniuk, ami legalább egyenlő azzal, amennyit a referenciafehérje (az 5. melléklet szerint meghatározott anyatej) tartalmaz. Azonban számítási célból a metionin és cisztein koncentrációit össze lehet adni, amennyiben a metionin:cisztein arány 2-nél nem nagyobb, továbbá a fenilalanin és tirozin koncentrációit össze lehet adni, amennyiben a tirozin:fenilalanin arány 2-nél nem nagyobb. A metionin:cisztein arány 2-nél lehet nagyobb, de 3-nál nem lehet nagyobb, feltéve, hogy a terméknek a csecsemők különleges táplálására való alkalmasságát olyan megfelelő tanulmányok révén mutatják ki, melyeket a tanulmányok tervezéséről és végrehajtásáról szóló, általánosan elfogadott szakértői iránymutatások alapján végeznek.
 
@@ -36,7 +38,7 @@ Azonos energiatartalomra vonatkoztatva az anyatej-helyettesítő tápszereknek m
 
 Az L-karnitin-tartalom legalább 0,3 mg/100 kJ (1,2 mg/100 kcal).
 
-2.3. Kizárólag szójafehérje-izolátumokból vagy ennek tehéntej-fehérjékkel készített keverékéből gyártott anyatej-helyettesítő tápszerek
+2.3. Kizárólag szójafehérje-izolátumokból vagy ennek tehéntej-fehérjékkel vagy kecsketej-fehérjékkel készített keverékéből gyártott anyatej-helyettesítő tápszerek
 
 | Minimum | Maximum |
 
@@ -166,7 +168,7 @@ A frukto-oligoszacharidok és galakto-oligoszacharidok egyéb maximális szintje
 
 10. Ásványi anyagok
 
-10.1. Tehéntej-fehérjékből vagy hidrolizált fehérjékből gyártott anyatej-helyettesítő tápszerek
+10.1. Tehéntej-fehérjékből vagy kecsketej-fehérjékből vagy fehérjehidrolizátumokból gyártott anyatej-helyettesítő tápszerek
 
 |  | 100 kJ-ra vonatkoztatott érték | 100 kcal-ra vonatkoztatott érték |
 
@@ -200,7 +202,7 @@ A frukto-oligoszacharidok és galakto-oligoszacharidok egyéb maximális szintje
 
 A kalcium/foszfor-arány nem lehet kevesebb, mint 1,0 és nem lehet több, mint 2,0.
 
-10.2. Kizárólag szójafehérje-izolátumokból vagy ennek tehéntej-fehérjékkel készített keverékéből gyártott anyatej-helyettesítő tápszerek
+10.2. Kizárólag szójafehérje-izolátumokból vagy ezeknek tehéntej-fehérjékkel vagy kecsketej-fehérjékkel készített keverékéből gyártott anyatej-helyettesítő tápszerek
 
 A 10.1. pont minden követelménye alkalmazandó, kivéve a vasra és foszforra vonatkozókat, amelyek a következők:
 
@@ -274,5 +276,5 @@ A következő nukleotidokat lehet hozzáadni:
 
 (1) A nukleotidok együttes koncentrációja nem haladja meg az 1,2 mg/100 kJ-t (5 mg/100 kcal-t).
 
-[^11]: Az 1. melléklet a 41/2009. (XI. 23.) EüM rendelet 7. § (5) bekezdés a)–c) szerint módosított szöveg.
+[^17]: Az 1. melléklet a 41/2009. (XI. 23.) EüM rendelet 7. § (5) bekezdés a)–c) pontja, a 22/2014. (III. 20.) EMMI rendelet 4. § b)–e) pontja szerint módosított szöveg.
 [^*]: Természetes állapotban gluténmentes.

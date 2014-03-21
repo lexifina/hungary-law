@@ -1,4 +1,4 @@
-3. melléklet a 20/2008. (V. 14.) EüM rendelethez[^13]
+3. melléklet a 20/2008. (V. 14.) EüM rendelethez[^19]
 
 ## Tápanyagok
 
@@ -100,7 +100,7 @@ Guanozin 5’-monofoszfát és nátrium sója
 
 Inozin 5’-monofoszfát és nátrium sója
 
-(1) Az L-arginin és hidrokloridja csak a 7. § (4) bekezdése szerinti anyatej-helyettesítő tápszerek előállításához használható.
+(1) Az L-arginin és hidrokloridja kizárólag a 7. § (4) bekezdése szerinti anyatej- helyettesítő tápszerek és a 7. § (5a) bekezdése szerinti anyatej-kiegészítő tápszerek gyártásához használható.
 
 4. Egyéb tápanyagok
 
@@ -114,4 +114,4 @@ Kolin-bitartarát
 
 Inozit
 
-[^13]: A 3. melléklet a 41/2009. (XI. 23.) EüM rendelet 3. § (1) bekezdése szerint módosított szöveg.
+[^19]: A 3. melléklet a 41/2009. (XI. 23.) EüM rendelet 3. § (1) bekezdése, a 22/2014. (III. 20.) EMMI rendelet 4. § j) pontja szerint módosított szöveg.
