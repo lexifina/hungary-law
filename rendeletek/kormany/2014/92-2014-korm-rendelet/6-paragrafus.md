@@ -1,1 +1,0 @@
-## „e) az autópályák, autóutak és főutak használatáért fizetendő megtett úttal arányos díjról szóló törvény (a továbbiakban: Útdíjtörvény) szerinti úthasználati jogosultság értékesítése esetén tranzakciónként 0 forint.”

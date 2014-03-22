@@ -1,5 +1,0 @@
-## 3. § Az R. 4. § (3) bekezdésének a helyébe a következő rendelkezés lép, egyúttal a § a következő (4) bekezdéssel egészül ki:
-
-## „(3) Ha az ügyfél a mobil fizetési szerződést a nemzeti mobil fizetési szervezet előtti személyes megjelenés nélkül köti meg, a nemzeti mobil fizetési szervezet – az ügyfél egyidejű értesítése mellett – a központosított mobil értékesítésű szolgáltatások igénybevételét az üzletszabályzatában egyidejű fizetéshez, előre feltöltött egyenleghez vagy meghatározott értékhatárhoz kötheti.
-
-## (4) A nemzeti mobil fizetési szervezet lehetővé teheti, hogy az ügyfél egyes központosított mobil értékesítésű szolgáltatások eseti, egyidejű fizetés mellett történő igénybe vételére irányulóan is köthessen mobil fizetési szerződést. Az ilyen módon megkötött szerződésre nem kell alkalmazni az 5. és 6. §-t, valamint a 11–13. §-t, az üzletszabályzat ugyanakkor a szerződés részének tekintendő, és a szerződés – az üzletszabályzat ellenkező rendelkezése hiányában – a felek kölcsönös teljesítésével szűnik meg.”
