@@ -122,8 +122,8 @@
 
 | 59. | Jegyzőkönyv a választás eredményéről az Európai Parlament tagjainak az országgyűlési képviselők választásával azonos napon tartott választásán | X |  | X |  |
 
-2–59. melléklet a 28/2013. (XI. 15.) KIM rendelethez[^8]
+2–59. melléklet a 28/2013. (XI. 15.) KIM rendelethez[^10]
 
 20132T20000028_2
 
-[^8]: A 2–59. melléklet a 2/2014. (I. 16.) KIM rendelet 7. §-a szerint módosított szöveg.
+[^10]: A 2–59. melléklet a 2/2014. (I. 16.) KIM rendelet 7. §-a szerint módosított szöveg.

@@ -1,1 +1,0 @@
-## 33. § Az országgyűlési képviselők választásán és az Európai Parlament tagjainak választásán használandó nyomtatványok jegyzékét az 1. melléklet, a nyomtatványok mintáit a 2–59. melléklet állapítja meg.

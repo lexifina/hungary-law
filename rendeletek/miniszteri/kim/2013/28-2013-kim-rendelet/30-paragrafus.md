@@ -1,6 +1,6 @@
 ## 23. A Nemzeti Választási Iroda további feladatai az országgyűlési képviselők választásán
 
-## 30. §[^5] Az NVI
+## 30. §[^6] Az NVI
 
 a) az országgyűlési képviselők általános választásának kitűzését követően a kitűzést követő harmincadik napig tájékoztatót küld a magyarországi lakcímmel nem rendelkező választópolgároknak a polgárok személyi és lakcím adatait tartalmazó nyilvántartásában nyilvántartott címére – az ukrajnai és szlovákiai címek kivételével – a választás időpontjáról és a választójog gyakorlásához szükséges tudnivalókról,
 
@@ -24,7 +24,7 @@ j) országgyűlési egyéni választókerületenként csoportosítja a külképv
 
 k) a szavazást megelőző nap 24.00 órát követően beérkező szavazási iratokat – a g) és h) pont szerinti szavazási iratok kivételével – a megsemmisítésükig felbontás nélkül, biztonságos helyen tárolja,
 
-l)[^6] a szavazási levélcsomagban olyan válaszborítékot küld meg, illetve juttat el a levélben szavazók névjegyzékében szereplő választópolgárok részére, amely belföldön és külföldön egyaránt bérmentesítés nélkül feladható.
+l)[^7] a szavazási levélcsomagban olyan válaszborítékot küld meg, illetve juttat el a levélben szavazók névjegyzékében szereplő választópolgárok részére, amely belföldön és külföldön egyaránt bérmentesítés nélkül feladható.
 
-[^5]: A 30. § a 2/2014. (I. 16.) KIM rendelet 5. §-ával megállapított szöveg.
-[^6]: A 30. § l) pontját a 4/2014. (I. 27.) KIM rendelet 1. §-a iktatta be.
+[^6]: A 30. § a 2/2014. (I. 16.) KIM rendelet 5. §-ával megállapított szöveg.
+[^7]: A 30. § l) pontját a 4/2014. (I. 27.) KIM rendelet 1. §-a iktatta be.
