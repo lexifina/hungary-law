@@ -25,3 +25,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1995-125-00-00
 | 2013-10-01 | 2013. évi CXLIII. törvény | 1995-125-00-00.39 |
 | 2014-01-01 | 2013. évi CCXLI. törvény | 1995-125-00-00.40 |
 | 2014-01-07 | 2013. évi CCXXXIX. törvény | 1995-125-00-00.41 |
+| 2014-03-22 | 9/2014. (III. 21.) AB határozat | 1995-125-00-00.42 |

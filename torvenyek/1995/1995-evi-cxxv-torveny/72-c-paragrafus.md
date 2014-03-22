@@ -14,7 +14,7 @@ ba) a hozzájárulás megtagadását hatályon kívül helyezi és a nemzetbizto
 
 bb) a hozzájárulás visszavonását hatályon kívül helyezi.
 
-(4) A miniszternek a nemzetbiztonsági ellenőrzés megállapításai ellen benyújtott panasszal kapcsolatos döntése ellen további jogorvoslatnak nincs helye.
+(4)
 
 (5) Amennyiben a nemzetbiztonsági ellenőrzést végrehajtó nemzetbiztonsági szolgálat főigazgatója az (1) bekezdésben meghatározott panaszban foglaltakkal egyetért,
 
