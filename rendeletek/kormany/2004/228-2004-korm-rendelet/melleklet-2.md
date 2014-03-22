@@ -1,6 +1,6 @@
-## 78. §[^158] Ez a rendelet a honvédelem és biztonság területén egyes építési beruházásra, árubeszerzésre és szolgáltatásnyújtásra irányuló, ajánlatkérő szervek vagy ajánlatkérők által odaítélt szerződések odaítélési eljárásainak összehangolásáról szóló 2009. július 13-i 2009/81/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+## 78. §[^164] Ez a rendelet a honvédelem és biztonság területén egyes építési beruházásra, árubeszerzésre és szolgáltatásnyújtásra irányuló, ajánlatkérő szervek vagy ajánlatkérők által odaítélt szerződések odaítélési eljárásainak összehangolásáról szóló 2009. július 13-i 2009/81/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
-## 1. számú mellélet a 228/2004. (VII. 30) Korm. rendelethez[^159]
+## 1. számú mellélet a 228/2004. (VII. 30) Korm. rendelethez[^165]
 
 ## Általános megjegyzések:
 
@@ -1362,9 +1362,9 @@
 
 ## b) az ML21. fejezet a) pontjában meghatározottaktól eltérő egyéb speciális „szoftver” az alábbiak szerint:
 
-## 1. kifejezetten katonai felhasználásra, katonai fegyverrendszerek modellezése, szimulálása vagy értékelése céljára tervezett „szoftver”;
+## 1. kifejezetten katonai felhasználásra, katonai fegyverrendszerek modellezése, szimulálása vagy értékelése céljára tervezett vagy ilyen célra átalakított „szoftver”;
 
-## 2. kifejezetten katonai felhasználásra, katonai műveletek modellezése vagy szimulálása céljára tervezett „szoftver”;
+## 2. kifejezetten katonai felhasználásra, katonai műveletek modellezése vagy szimulálása céljára tervezett vagy ilyen célra átalakított „szoftver”;
 
 ## 3. hagyományos, nukleáris, vegyi vagy biológiai fegyverek hatásának meghatározására szolgáló „szoftver”;
 
@@ -1410,7 +1410,7 @@
 
 ## Kizárólag katonai előírások szerint kialakított alapanyagból, katonai szabvány, felsorolás vagy annak megfelelő követelmény szerint gyártott termékek:
 
-## a) jelen Jegyzékben másutt engedélyezés alá nem vont, katonai alkalmazásra kifejlesztett hadi-, egyenruházati felszerelések, lábbelik, málhazsákok és hord eszközök;
+## a) jelen Jegyzékben másutt engedélyezés alá nem vont, katonai alkalmazásra kifejlesztett hadi-, egyenruházati alapanyagok, hadi, egyenruházati termékek, cikkek, az ezekhez tartozó ékítmények, felszerelések, lábbelik, málhazsákok és hord eszközök;
 
 ## b) katonai és a személyi álcázó felszerelések, takaróeszközök;
 
@@ -1504,8 +1504,8 @@
 
 ## 9. Nyomrögzítő berendezések és anyagok.
 
-2. számú melléklet a 228/2004. (VII. 30.) Korm. rendelethez[^160]
+2. számú melléklet a 228/2004. (VII. 30.) Korm. rendelethez[^166]
 
-[^158]: A 78. §-t a 191/2011. (IX. 20.) Korm. rendelet 28. §-a iktatta be.
-[^159]: Az 1. számú melléklet a 191/2011. (IX. 20.) Korm. rendelet 29. § (1) bekezdésével megállapított, a 295/2011. (XII. 22.) Korm. rendelet 19. § (1)–(2) bekezdése és 20. § szerint módosított szöveg.
-[^160]: A 2. számú melléklet a 191/2011. (IX. 20.) Korm. rendelet 29. § (2) bekezdésével megállapított szöveg.
+[^164]: A 78. §-t a 191/2011. (IX. 20.) Korm. rendelet 28. §-a iktatta be.
+[^165]: Az 1. számú melléklet a 95/2014. (III. 21.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^166]: A 2. számú melléklet a 191/2011. (IX. 20.) Korm. rendelet 29. § (2) bekezdésével megállapított szöveg.

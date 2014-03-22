@@ -1,5 +1,5 @@
-## 60. §[^125]
+## 60. §[^129]
 
 ## A részvételi jelentkezések benyújtása és felbontása
 
-[^125]: A 60. §-t a 191/2011. (IX. 20.) Korm. rendelet 32. §-a hatályon kívül helyezte.
+[^129]: A 60. §-t a 191/2011. (IX. 20.) Korm. rendelet 32. §-a hatályon kívül helyezte.

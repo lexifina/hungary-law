@@ -10,11 +10,11 @@ d) a beszerzendő áru leírásával, mintapéldányának, illetőleg fénykép�
 
 e) elismert (bármely nemzeti rendszerben akkreditált) tanúsító szervezettől származó tanúsítvánnyal, amely tanúsítja, hogy a leírásokra vagy szabványokra történő hivatkozással egyértelműen meghatározott áru megfelel bizonyos leírásoknak vagy szabványoknak;
 
-f)[^64] a termelési képességéről, illetőleg vizsgálati és kutatási eszközeiről, minőségbiztosítási intézkedéseiről az ajánlatkérő vagy más szervezet által végzett vizsgálattal, ha az áru összetett, vagy ha különleges célra szolgál;
+f)[^65] a termelési képességéről, illetőleg vizsgálati és kutatási eszközeiről, minőségbiztosítási intézkedéseiről az ajánlatkérő vagy más szervezet által végzett vizsgálattal, ha az áru összetett, vagy ha különleges célra szolgál;
 
-g)[^65] szerződés teljesítéséhez, az ajánlatkérő valamely válsághelyzet miatt megnövekedett igényeinek kielégítéséhez, vagy a szerződés tárgyát képező áruk karbantartásának, korszerűsítésének és fejlesztésének biztosításához az ajánlattevő rendelkezésére álló szerszámok, berendezések, műszaki felszerelés, személyzet létszáma és szakértelem vagy ellátási források leírása – az ajánlattevő földrajzi elhelyezkedésének közlésével, amennyiben az Európai Unió területén kívül található;
+g)[^66] szerződés teljesítéséhez, az ajánlatkérő valamely válsághelyzet miatt megnövekedett igényeinek kielégítéséhez, vagy a szerződés tárgyát képező áruk karbantartásának, korszerűsítésének és fejlesztésének biztosításához az ajánlattevő rendelkezésére álló szerszámok, berendezések, műszaki felszerelés, személyzet létszáma és szakértelem vagy ellátási források leírása – az ajánlattevő földrajzi elhelyezkedésének közlésével, amennyiben az Európai Unió területén kívül található;
 
-h)[^66] a minősített adatokat felhasználó, igényelő vagy tartalmazó beszerzési szerződések esetében arra vonatkozó dokumentumokkal, hogy az ajánlattevő alkalmas az ilyen információknak az ajánlatkérő által elvárt biztonsági szinten történő feldolgozására, tárolására és továbbítására.
+h)[^67] a minősített adatokat felhasználó, igényelő vagy tartalmazó beszerzési szerződések esetében arra vonatkozó dokumentumokkal, hogy az ajánlattevő alkalmas az ilyen információknak az ajánlatkérő által elvárt biztonsági szinten történő feldolgozására, tárolására és továbbítására.
 
 (2) Az ajánlattevőnek és a beszerzés értékének tíz százalékát meghaladó mértékben igénybe venni kívánt alvállalkozójának a szerződés teljesítéséhez szükséges műszaki, illetőleg szakmai alkalmassága szolgáltatás megrendelése esetében igazolható
 
@@ -28,13 +28,13 @@ d) azoknak a szakembereknek (szervezeteknek), illetőleg vezetőknek a megnevez�
 
 e) a teljesítéshez rendelkezésre álló eszközök, berendezések, illetőleg műszaki felszereltség leírásával;
 
-f)[^67] a minőség biztosítása érdekében tett intézkedéseinek, illetőleg vizsgálati és kutatási eszközeinek leírásával, valamint azon környezetvédelmi intézkedéseinek megjelölésével, amelyeket a szerződés teljesítése során alkalmazni tud;
+f)[^68] a minőség biztosítása érdekében tett intézkedéseinek, illetőleg vizsgálati és kutatási eszközeinek leírásával, valamint azon környezetvédelmi intézkedéseinek megjelölésével, amelyeket a szerződés teljesítése során alkalmazni tud;
 
 g) a termelési képességéről, illetőleg vizsgálati és kutatási eszközeiről, minőségbiztosítási intézkedéseiről az ajánlatkérő vagy más szervezet által végzett vizsgálattal, ha a szolgáltatás összetett, vagy ha különleges célra szolgál;
 
 h) a szerződés (szolgáltatás) azon részének a megjelölésével, amelyre az ajánlattevő harmadik személlyel kíván szerződést kötni.
 
-(3)[^68] Az ajánlattevőnek és a beszerzés értékének tíz százalékát meghaladó mértékben igénybe venni kívánt alvállalkozójának a szerződés teljesítéséhez szükséges műszaki és szakmai alkalmassága építési beruházás esetében igazolható
+(3)[^69] Az ajánlattevőnek és a beszerzés értékének tíz százalékát meghaladó mértékben igénybe venni kívánt alvállalkozójának a szerződés teljesítéséhez szükséges műszaki és szakmai alkalmassága építési beruházás esetében igazolható
 
 a) az előző öt évben megvalósított építési beruházások ismertetésével, a beszerzés tárgyához illeszkedő legjelentősebb munkák megfelelő elvégzésére vonatkozó igazolásokkal a következőkben meghatározott tartalommal, melyeket adott esetben az illetékes hatóság közvetlenül nyújt be az ajánlatkérőnek:
 
@@ -52,15 +52,15 @@ e) a teljesítéshez rendelkezésre álló eszközök, berendezések és műszak
 
 f) a minőség biztosítása érdekében tett intézkedéseinek, vizsgálati és kutatási eszközeinek leírásával és azon környezetvédelmi intézkedésinek megjelölésével, amelyeket a szerződés teljesítése során alkalmazni tud.
 
-(4)[^69] Az (1) bekezdés a) pontjának, a (2) bekezdés a) pontjának, valamint a (3) bekezdés a) pontjának esetét a következő módon kell igazolni:
+(4)[^70] Az (1) bekezdés a) pontjának, a (2) bekezdés a) pontjának, valamint a (3) bekezdés a) pontjának esetét a következő módon kell igazolni:
 
 a) ha a szerződést kötő másik fél e rendelet szerint ajánlatkérőnek minősülő szervezet, az általa kiadott igazolással,
 
 b) ha a szerződést kötő másik fél az a) pontban foglaltakhoz képest egyéb szervezet, az általa adott igazolással vagy az ajánlattevő nyilatkozatával.
 
-[^64]: A 28. § (1) bekezdés f) pontja a 191/2011. (IX. 20.) Korm. rendelet 31. § (3) bekezdése szerint módosított szöveg.
-[^65]: A 28. § (1) bekezdés g) pontját a 191/2011. (IX. 20.) Korm. rendelet 11. § (1) bekezdése iktatta be.
-[^66]: A 28. § (1) bekezdés h) pontját a 191/2011. (IX. 20.) Korm. rendelet 11. § (1) bekezdése iktatta be.
-[^67]: A 28. § (2) bekezdés f) pontja a 191/2011. (IX. 20.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
-[^68]: A 28. § (3) bekezdését a 191/2011. (IX. 20.) Korm. rendelet 11. § (3) bekezdése iktatta be.
-[^69]: A 28. § (4) bekezdését a 191/2011. (IX. 20.) Korm. rendelet 11. § (3) bekezdése iktatta be.
+[^65]: A 28. § (1) bekezdés f) pontja a 191/2011. (IX. 20.) Korm. rendelet 31. § (3) bekezdése szerint módosított szöveg.
+[^66]: A 28. § (1) bekezdés g) pontját a 191/2011. (IX. 20.) Korm. rendelet 11. § (1) bekezdése iktatta be.
+[^67]: A 28. § (1) bekezdés h) pontját a 191/2011. (IX. 20.) Korm. rendelet 11. § (1) bekezdése iktatta be.
+[^68]: A 28. § (2) bekezdés f) pontja a 191/2011. (IX. 20.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^69]: A 28. § (3) bekezdését a 191/2011. (IX. 20.) Korm. rendelet 11. § (3) bekezdése iktatta be.
+[^70]: A 28. § (4) bekezdését a 191/2011. (IX. 20.) Korm. rendelet 11. § (3) bekezdése iktatta be.

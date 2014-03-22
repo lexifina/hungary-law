@@ -1,10 +1,10 @@
-## 75. §[^151]
+## 75. §[^155]
 
 ## IV. Fejezet
 
-## Előzetes vitarendezés, jogorvoslat[^152]
+## Előzetes vitarendezés, jogorvoslat[^156]
 
-76. §[^153] (1) Előzetes vitarendezés kezdeményezésére jogosult
+76. §[^157] (1) Előzetes vitarendezés kezdeményezésére jogosult
 
 a) a jogsértő eseményről való tudomásszerzést követő öt napon belül az ajánlattevő, illetve részvételre jelentkező, ha álláspontja szerint egészben vagy részben jogsértő az írásbeli összegezés, illetve az ajánlatkérő bármely eljárási cselekménye vagy a beszerzési eljárásban keletkezett bármely – a b) pont szerintieken kívüli – dokumentum;
 
@@ -26,6 +26,6 @@ b) az a személy, akinek érdekében áll vagy állhat egy adott szerződés eln
 
 (9) A felfüggesztő hatály (8) bekezdés szerinti mellőzése nem érinti az ajánlatkérő kötelezettségét a kérelemben foglaltak elbírálására. Amennyiben az ajánlatkérő a kérelem elbírálása során olyan jogsértést tár fel, amely a 76. § (4)–(6) bekezdése szerint nem orvosolható, és a szerződést már jogellenesen odaítélte, köteles a szerződés időtartamát lerövidíteni legfeljebb az új eljárás eredményes befejezéséig oly módon, hogy azzal ne veszélyeztessen kiemelkedően fontos védelmi, biztonsági érdekeket.
 
-[^151]: A 75. §-t a 191/2011. (IX. 20.) Korm. rendelet 32. §-a hatályon kívül helyezte.
-[^152]: A 76. §-t megelőző alcím a 295/2011. (XII. 22.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.
-[^153]: A 76. § a 295/2011. (XII. 22.) Korm. rendelet 17. § (2) bekezdésével megállapított szöveg.
+[^155]: A 75. §-t a 191/2011. (IX. 20.) Korm. rendelet 32. §-a hatályon kívül helyezte.
+[^156]: A 76. §-t megelőző alcím a 295/2011. (XII. 22.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.
+[^157]: A 76. § a 295/2011. (XII. 22.) Korm. rendelet 17. § (2) bekezdésével megállapított szöveg.

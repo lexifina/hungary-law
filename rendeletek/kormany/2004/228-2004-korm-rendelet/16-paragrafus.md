@@ -16,7 +16,7 @@ c) egyes jellemzők tekintetében az a) pontban meghatározottakra, más jellemz
 
 (4) A (3) bekezdés a) pontja esetén az ajánlatkérő köteles a szabvány, műszaki engedély, műszaki előírás, műszaki ajánlás megnevezése mellett a „vagy azzal egyenértékű” fordulatot szerepeltetni.
 
-(5) Az egyenértékűséget az interoperabilitási és operatív hatékonysági követelmények alapján kell elbírálni. Az egyenértékűség bizonyításához az ajánlattévők számára a bizonyítékok minden formájának használatát engedélyezni kell. Az ajánlatkérő szervnek minden olyan döntését meg kell indokolnia, amely szerint az adott esetben az egyenértékűség nem áll fenn.
+(5)[^32] Az egyenértékűséget az interoperabilitási és operatív hatékonysági, illetve teljesítmény- és funkcionális követelmények alapján kell elbírálni. Az egyenértékűség bizonyításához az ajánlattévők számára a bizonyítékok minden formájának használatát engedélyezni kell, amellyel az egyenértékűség hitelt érdemlően igazolható. Az ajánlatkérő szervnek minden olyan döntését meg kell indokolnia, amely szerint az adott esetben az egyenértékűség nem áll fenn.
 
 (6) Amennyiben NATO egységesítési egyezmény (STANAG), illetve az európai vagy nemzetközi szabványosító, vagy szabványügyi szervezetek által elfogadott és a közösség számára hozzáférhetővé tett szabvány alkalmazható, az ajánlatkérő előírhatja a megállapodásban megállapított szabványoknak való megfelelést.
 
@@ -25,3 +25,4 @@ c) egyes jellemzők tekintetében az a) pontban meghatározottakra, más jellemz
 [^29]: A 15. §-t a 191/2011. (IX. 20.) Korm. rendelet 32. §-a hatályon kívül helyezte.
 [^30]: A 16. § 191/2011. (IX. 20.) Korm. rendelet 6. §-ával megállapított szöveg.
 [^31]: A 16. § (1) bekezdése a 295/2011. (XII. 22.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^32]: A 16. § (5) bekezdése a 95/2014. (III. 21.) Korm. rendelet 1. §-ával megállapított szöveg.

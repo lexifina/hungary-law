@@ -1,7 +1,7 @@
 ## Az ajánlatok elbírálása
 
-40. § (1)[^95] Az ajánlatkérő köteles megállapítani, hogy mely ajánlatok érvénytelenek, illetőleg van-e olyan ajánlattevő, akit az eljárásból ki kell zárni. Az érvényes ajánlatokat az ajánlattételi felhívásban meghatározott bírálati szempont szerint kell értékelni.
+40. § (1)[^96] Az ajánlatkérő köteles megállapítani, hogy mely ajánlatok érvénytelenek, illetőleg van-e olyan ajánlattevő, akit az eljárásból ki kell zárni. Az érvényes ajánlatokat az ajánlattételi felhívásban meghatározott bírálati szempont szerint kell értékelni.
 
 (2) Az ajánlatkérő az ajánlatokat kizárólag azok elbírálására használhatja fel.
 
-[^95]: A 40. § (1) bekezdése a 295/2011. (XII. 22.) Korm. rendelet 22. § (5) bekezdése szerint módosított szöveg.
+[^96]: A 40. § (1) bekezdése a 295/2011. (XII. 22.) Korm. rendelet 22. § (5) bekezdése szerint módosított szöveg.

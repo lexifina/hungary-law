@@ -26,6 +26,6 @@
 
 ## 9. E hirdetmény feladásának és kézhezvételének napja:
 
-6. számú melléklet a 228/2004. (VII. 30.) Korm. rendelethez[^168]
+6. számú melléklet a 228/2004. (VII. 30.) Korm. rendelethez[^174]
 
-[^168]: A 6. számú mellékletet a 191/2011. (IX. 20.) Korm. rendelet 29. § (3) bekezdése iktatta be.
+[^174]: A 6. számú mellékletet a 191/2011. (IX. 20.) Korm. rendelet 29. § (3) bekezdése iktatta be.

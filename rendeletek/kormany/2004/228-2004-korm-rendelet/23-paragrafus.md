@@ -6,7 +6,7 @@ a) végelszámolás alatt áll, vagy az ellene indított csődeljárás vagy fel
 
 b) tevékenységét felfüggesztette, vagy akinek tevékenységét felfüggesztették;
 
-c)[^55] gazdasági, illetőleg szakmai tevékenységével kapcsolatban jogerős bírósági ítéletben megállapított bűncselekményt követett el, amíg a büntetett előélethez fűződő hátrányok alól nem mentesült; illetőleg akinek tevékenységét a jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről szóló 2001. évi CIV. törvény 5. § (2) bekezdésének b) pontja alapján a bíróság jogerős ítéletében korlátozta, az eltiltás ideje alatt, illetőleg ha az ajánlattevő tevékenységét más bíróság hasonló okból és módon jogerősen korlátozta;
+c)[^56] gazdasági, illetőleg szakmai tevékenységével kapcsolatban jogerős bírósági ítéletben megállapított bűncselekményt követett el, amíg a büntetett előélethez fűződő hátrányok alól nem mentesült; illetőleg akinek tevékenységét a jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről szóló 2001. évi CIV. törvény 5. § (2) bekezdésének b) pontja alapján a bíróság jogerős ítéletében korlátozta, az eltiltás ideje alatt, illetőleg ha az ajánlattevő tevékenységét más bíróság hasonló okból és módon jogerősen korlátozta;
 
 d) egy évnél régebben lejárt adó-, vámfizetési vagy társadalombiztosítási járulékfizetési kötelezettségének – a letelepedése szerinti ország vagy az ajánlatkérő székhelye szerinti ország jogszabályai alapján – nem tett eleget, kivéve, ha megfizetésére halasztást kapott;
 
@@ -16,7 +16,7 @@ f) közbeszerzési eljárásokban való részvételtől jogerősen eltiltásra k
 
 (2) Az (1) bekezdés d) pontjában említett adófizetési kötelezettség alatt a belföldi székhelyű ajánlattevő vagy alvállalkozó tekintetében a központi adóhatóság által nyilvántartott adófizetési kötelezettséget kell érteni.
 
-(3)[^56] Az ajánlatkérő köteles az ajánlattételi felhívásban hivatkozni az (1) bekezdésben felsorolt kizáró okokra.
+(3)[^57] Az ajánlatkérő köteles az ajánlattételi felhívásban hivatkozni az (1) bekezdésben felsorolt kizáró okokra.
 
-[^55]: A 23. § (1) bekezdés c) pontja a 191/2011. (IX. 20.) Korm. rendelet 31. § (1) bekezdése szerint módosított szöveg.
-[^56]: A 23. § (3) bekezdése a 295/2011. (XII. 22.) Korm. rendelet 22. § (5) bekezdése szerint módosított szöveg.
+[^56]: A 23. § (1) bekezdés c) pontja a 191/2011. (IX. 20.) Korm. rendelet 31. § (1) bekezdése szerint módosított szöveg.
+[^57]: A 23. § (3) bekezdése a 295/2011. (XII. 22.) Korm. rendelet 22. § (5) bekezdése szerint módosított szöveg.
