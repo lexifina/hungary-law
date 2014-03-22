@@ -1,1 +1,0 @@
-## „c) a földhasználati nyilvántartásba bejegyzett földhasználót, valamint az NFA-val szerződéses jogviszonyban álló olyan földhasználót is, akinek a használata a földhasználati nyilvántartásba nem került bejegyzésre.”

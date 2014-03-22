@@ -1,3 +1,0 @@
-## 9. § A Hr. 35. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) Ha az adásvételi szerződés tárgya a termőföld védelméről szóló 2007. évi CXXIX. törvényben (a továbbiakban: Tfvt.) meghatározott termőföld, a szerződésben – ide nem értve az (1a) bekezdésben meghatározott esetet – rögzíteni kell a vevő azon kötelezettségét, hogy azt a Tfvt. 21. § (3) bekezdésének a)–d), f)–g) és a 21. § (3a) bekezdés a) pontjában foglaltak kivételével 5 évig más célra nem hasznosítja. Az adásvételi szerződésben rögzíteni kell azt is, hogy a birtokbaadás időpontja nem lehet korábbi, mint a vevő tulajdonjogának az ingatlan-nyilvántartásba történő bejegyzése.”
