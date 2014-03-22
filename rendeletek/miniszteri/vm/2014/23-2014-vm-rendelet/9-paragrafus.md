@@ -1,3 +1,0 @@
-## 8. § Az R. 13. §-a helyébe a következő rendelkezés lép:
-
-## „13. § A költségvetési támogatás rendeltetésszerű felhasználását a miniszter, a szakmai kezelő, a kezelő szerv, a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH), a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH), a Magyar Államkincstár (a továbbiakban: kincstár), a Nemzeti Adó- és Vámhivatal (a továbbiakban: NAV), a Nemzeti Agrárszaktanácsadási, Képzési és Vidékfejlesztési Intézet (a továbbiakban: NAKVI), Bethlen Gábor Alapkezelő Zrt. és a támogatói okiratban, támogatási szerződésben meghatározott személy ellenőrizheti.”
