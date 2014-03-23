@@ -1,3 +1,3 @@
-## 7–15.[^13]
+## 7–15.[^15]
 
-[^13]: A 7–15. alcímet (16–39. §) a 15. § (3) bekezdése hatályon kívül helyezte.
+[^15]: A 7–15. alcímet (16–39. §) a 15. § (3) bekezdése hatályon kívül helyezte.

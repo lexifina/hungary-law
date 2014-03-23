@@ -1,5 +1,5 @@
 ## 16–39. §
 
-## 16.[^14]
+## 16.[^16]
 
-[^14]: A 16. alcímet (40. §) a 15. § (3) bekezdése hatályon kívül helyezte.
+[^16]: A 16. alcímet (40. §) a 15. § (3) bekezdése hatályon kívül helyezte.
