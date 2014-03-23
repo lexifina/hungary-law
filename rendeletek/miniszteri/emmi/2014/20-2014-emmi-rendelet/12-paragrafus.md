@@ -1,0 +1,1 @@
+## 11. § A települési önkormányzat a támogatás felhasználásáról – ideértve a 10. § (4) bekezdés szerint megállapított támogatást is – 2014. december 31-ei fordulónappal, az éves költségvetési beszámolójában számol el.
