@@ -1,3 +1,3 @@
-78. §[^224]
+78. §[^236]
 
-[^224]: A 78. §-t a 219/2005. (X. 13.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte.
+[^236]: A 78. §-t a 219/2005. (X. 13.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte.

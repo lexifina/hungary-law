@@ -24,3 +24,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-168-20-
 | 2013-08-01 | 1997-168-20-22.51 | 297/2013. (VII. 29.) Korm. rendelet |
 | 2014-01-01 | 1997-168-20-22.52 | 500/2013. (XII. 29.) Korm. rendelet |
 | 2014-03-15 | 1997-168-20-22.53 | 69/2014. (III. 13.) Korm. rendelet |
+| 2014-03-23 | 1997-168-20-22.54 | 90/2014. (III. 20.) Korm. rendelet |

@@ -1,3 +1,3 @@
-2. számú melléklet a 168/1997. (X. 6.) Korm. rendelethez[^309]
+2. számú melléklet a 168/1997. (X. 6.) Korm. rendelethez[^321]
 
-[^309]: A 2. számú melléklet a 91/2013. (III. 28.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^321]: A 2. számú melléklet a 90/2014. (III. 20.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.

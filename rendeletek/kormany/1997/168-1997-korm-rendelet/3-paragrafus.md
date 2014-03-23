@@ -1,6 +1,6 @@
-3. §[^10] Az egyeztetési eljárásban és a nyugdíjbiztosítási igazgatási szervek által nyilvántartott adatokról szóló hatósági bizonyítvány kiadására irányuló eljárásban
+3. §[^13] Az egyeztetési eljárásban és a nyugdíjbiztosítási igazgatási szervek által nyilvántartott adatokról szóló hatósági bizonyítvány kiadására irányuló eljárásban
 
-a)[^11] a Nyugdíjfolyósító Igazgatóság jár el első fokon, ha
+a)[^14] a Nyugdíjfolyósító Igazgatóság jár el első fokon, ha
 
 aa) az ügyfélnek nincs magyarországi lakóhelye,
 
@@ -12,5 +12,5 @@ ad) az ügyfél korábban szolgálati viszonyban állt valamelyik nemzetbiztons�
 
 b) az a) pontban nem említett esetben az ügyfél lakóhelye szerint illetékes nyugdíjbiztosítási igazgatóság jár el első fokon.
 
-[^10]: A 3. §-t újonnan a 425/2012. (XII. 29.) Korm. rendelet 2. §-a iktatta be.
-[^11]: A 3. § a) pontja az 500/2013. (XII. 29.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^13]: A 3. §-t újonnan a 425/2012. (XII. 29.) Korm. rendelet 2. §-a iktatta be.
+[^14]: A 3. § a) pontja az 500/2013. (XII. 29.) Korm. rendelet 2. §-ával megállapított szöveg.
