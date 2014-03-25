@@ -10,8 +10,6 @@ b) EU Kék Kártya kiadására irányuló eljárásban nem szabályozott szakma 
 
 (4) A tevékenység ellátásához szükséges szakképzettséget, iskolai végzettséget igazoló okirat tekintetében a 12. § (3)–(4) bekezdésben foglaltakat megfelelően alkalmazni kell.
 
-(5) A munkaügyi központ – szükség esetén –
+(5)[^25]
 
-a) a munkavállalón kívül a foglalkoztatót is felhívhatja hiánypótlásra, valamint
-
-b) a munkavállalót a foglalkoztató közreműködésével is felhívhatja hiánypótlásra.
+[^25]: A 21. § (5) bekezdését a 89/2014. (III. 20.) Korm. rendelet 7. § (18) bekezdés b) pontja hatályon kívül helyezte.

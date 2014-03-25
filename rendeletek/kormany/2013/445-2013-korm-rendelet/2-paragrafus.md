@@ -40,7 +40,7 @@ c) a külföldi állampolgár által, Magyarországon alapított – az egyéni 
 
 11. mezőgazdaság: a növénytermesztési, erdőgazdálkodási, állattenyésztési, és halászati ágazat;
 
-12. munkavállalási engedély meghosszabbítása: ha a harmadik országbeli állampolgár foglalkoztatására – a mezőgazdasági szezonális munkavállalási engedély kivételével – a munkavállalási engedély érvényességi időtartamának lejártát követően ugyanannál a foglalkoztatónál, ugyanabban a munkakörben és ugyanazon a munkavégzési helyen kerül sor;
+12.[^2] munkavállalási engedély meghosszabbítása: ha a harmadik országbeli állampolgár foglalkoztatására a mezőgazdasági szezonális munkavállalási engedély kivételével a munkavállalási engedély érvényességi időtartamának lejártát követően ugyanannál a foglalkoztatónál, ugyanabban a munkakörben és ugyanazon a munkavégzési helyen kerül sor, és a foglalkoztató a hosszabbítás iránti kérelmét a 9. § (1) bekezdés 16. pontjában meghatározott időben nyújtja be;
 
 13. országos átlagos személyi alapbér: a harmadik országbeli állampolgár által ellátandó tevékenységnek a Foglalkozások Egységes Osztályozási Rendszeréről szóló 7/2010. (IV. 23.) KSH közlemény mellékletében (a továbbiakban: FEOR) megfelelő foglalkozás gyakorlása során elért személyi alapbér – a Nemzeti Munkaügyi Hivatal (a továbbiakban: NMH) által meghatározott – országos átlaga;
 
@@ -49,3 +49,4 @@ c) a külföldi állampolgár által, Magyarországon alapított – az egyéni 
 15. összevont engedély: a Harmtv. 2. § v) pontjában meghatározott engedély.
 
 [^1]: A 2. § 8. pont nyitó szövegrésze a 80/2014. (III. 14.) Korm. rendelet 37. §-a szerint módosított szöveg.
+[^2]: A 2. § 12. pontja a 89/2014. (III. 20.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.

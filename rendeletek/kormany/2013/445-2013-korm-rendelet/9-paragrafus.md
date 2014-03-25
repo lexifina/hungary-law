@@ -43,3 +43,7 @@
 (4) Az (1) bekezdés 3. pontja alkalmazása szempontjából, a megelőző év december 31-ei munkajogi állományi létszám öt százalékának kiszámításánál minden olyan harmadik országbeli állampolgárt figyelembe kell venni, akinek foglalkoztatására munkavállalási engedély vagy összevont engedély alapján kerül sor.
 
 (5) Az (1) bekezdés 4. pontjában meghatározott viszonosság fennállásának tekintetében a külpolitikáért felelős miniszter nyilatkozata az irányadó.
+
+(6)[^8] Az (1) bekezdés 13. pontjában meghatározott esetben az engedély kiadásakor nem kell vizsgálni a 3. § (2) bekezdés c) pontjában írt feltétel fennállását, és a kérelemhez a képzettséget, végzettséget tanúsító okiratok másolatait nem kell csatolni. A kérelemhez csatolni kell a filmalkotás magyarországi gyártásának elvégzésére vagy a koprodukciós filmalkotás gyártására kötött magánjogi szerződést, valamint a filmalkotás Nemzeti Média és Hírközlési Hatóság Hivatalánál történő nyilvántartásba vételére irányuló kérelem benyújtásáról szóló igazolást.
+
+[^8]: A 9. § (6) bekezdését a 89/2014. (III. 20.) Korm. rendelet 7. § (6) bekezdése iktatta be.

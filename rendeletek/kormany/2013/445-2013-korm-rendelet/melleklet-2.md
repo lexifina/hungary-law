@@ -1,4 +1,4 @@
-2. melléklet a 445/2013. (XI. 28.) Korm. rendelethez
+2. melléklet a 445/2013. (XI. 28.) Korm. rendelethez[^30]
 
 KÉRELEM
 
@@ -168,11 +168,25 @@ melyik kirendeltségen:
 
 – a kérelemmel egyidejűleg nyújtom be.
 
+6.6. Nyilatkozom, hogy kérelmem
+
+□ 1. a vállalaton belül áthelyezett munkavállalóként, au pairként vagy tengerészként Magyarország területén tartózkodni szándékozó, illetve tartózkodó harmadik országbeli állampolgárra vonatkozik.
+
+□ 2. olyan a harmadik országbeli állampolgárra vonatkozik, aki a menekültügyi hatóságtól menekültkénti elismerését kérte vagy a menekültügyi hatóságtól ideiglenes vagy kiegészítő védelmet kért.
+
+□ 3. befogadottra vonatkozik.
+
+□ 4. olyan harmadik országbeli állampolgárra vonatkozik, aki száznyolcvan napon belül kilencven napot meg nem haladó időtartamban kíván munkaviszonyt létesíteni.
+
 7. A kérelemhez kötelezően csatolandó mellékletek:
 
 7.1. Munkaerőigény benyújtása, amennyiben korábban nem nyújtotta be a foglalkoztatás tervezett helye szerinti kirendeltségen.
 
 7.2. A harmadik országbeli állampolgár tevékenység ellátásához szükséges szakképzettségéről, iskolai végzettségéről szóló okirat hiteles másolata, valamint hiteles magyar fordítása. Ha a harmadik országbeli állampolgárnak öt éven belül volt korábbi engedélye valamely munkaügyi központnál és a szakképzettségéről, iskolai végzettségéről szóló okirat a munkaügyi központ részére munkavállalási engedélyeztetési ügyben becsatolásra került, a dokumentumot nem szükséges csatolni, azt - a foglalkoztató kérelmére - az eljáró munkaügyi központ szerzi be, amennyiben az a munkaügyi központ rendelkezésére áll.
+
+7.3. A 6.6. pont 1–3. pontjainak alátámasztására szolgáló magyar nyelvű dokumentum, vagy annak hiteles másolata, illetve nem magyar nyelvű dokumentum esetén annak hiteles magyar fordítása.
+
+7.4. A munkavállaló útlevelének másolata.
 
 8. A munkaügyi központ - az egyéni vállalkozó, illetve a cégbíróság által nyilvántartott gazdasági társaság kivételével - a foglalkoztatótól az azonosítására vonatkozóan további adatok és okiratok becsatolását kérheti.
 
@@ -181,3 +195,5 @@ Dátum: ........................................................
 .................................................................
 
 foglalkoztató cégszerű aláírása
+
+[^30]: A 2. melléklet a 89/2014. (III. 20.) Korm. rendelet 7. § (16) bekezdése szerint módosított szöveg.

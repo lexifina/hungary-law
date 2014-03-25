@@ -1,5 +1,3 @@
-## 22. § A Nemzeti Munkaügyi Hivatalnak a másodfokú eljárásban adandó szakhatósági állásfoglalására a 17–21. §-ban foglaltakat megfelelően alkalmazni kell.
-
 ## V. Fejezet
 
 ## A MUNKABÉR MEGTÉRÍTÉSÉRE VONATKOZÓ SZABÁLYOK
