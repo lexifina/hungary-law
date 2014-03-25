@@ -6,7 +6,7 @@ a) a település megnevezése,
 
 b) a megye megnevezése,
 
-c)[^3] a járás (fővárosi kerület) megnevezése,
+c)[^4] a járás (fővárosi kerület) megnevezése,
 
 d) az önkormányzat tulajdonában lévő, felhasználható, összes tehermentes földterület nagysága (ha),
 
@@ -36,4 +36,4 @@ o) a közfoglalkoztató által benyújtott, folyamatban lévő hazai és európa
 
 (3) Az adatokhoz való teljes körű betekintési jogosultságot a Hivatal, a munkaügyi központ, valamint a Belügyminisztérium részére kell biztosítani.
 
-[^3]: A 10. § (1) bekezdés c) pontja a 414/2012. (XII. 29.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^4]: A 10. § (1) bekezdés c) pontja a 414/2012. (XII. 29.) Korm. rendelet 9. §-ával megállapított szöveg.

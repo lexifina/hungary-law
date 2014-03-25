@@ -1,3 +1,3 @@
-## 4.[^1]
+## 4.[^2]
 
-[^1]: A 4. alcímet a 324/2011. (XII. 28.) Korm. rendelet 33. §-a hatályon kívül helyezte.
+[^2]: A 4. alcímet a 324/2011. (XII. 28.) Korm. rendelet 33. §-a hatályon kívül helyezte.
