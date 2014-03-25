@@ -12,8 +12,9 @@
 
 (5) Minden egyes új csekély összegű támogatás odaítélésekor az adott pénzügyi évben, valamint az előző két pénzügyi év alatt odaítélt csekély összegű támogatás teljes összegét figyelembe kell venni.
 
-(6) Az (1) bekezdésben meghatározott támogatások tekintetében támogatási döntés 2013. december 31-ig hozható.
+(6)[^37] Az (1) bekezdésben meghatározott támogatások tekintetében támogatási döntés 2014. június 30-ig hozható.
 
 [^34]: Az 5/A. § előtti cím a 230/2004. (VII. 31.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^35]: Az 5/A. §-t a 230/2004. (VII. 31.) Korm. rendelet 1. §-a iktatta be, szövege a 166/2008. (VI. 27.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^36]: Az 5/A. § (1) bekezdése a 37/2011. (III. 22.) Korm. rendelet 40. § (21) bekezdés a) pontja szerint módosított szöveg.
+[^37]: Az 5/A. § (6) bekezdése a 89/2014. (III. 20.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
