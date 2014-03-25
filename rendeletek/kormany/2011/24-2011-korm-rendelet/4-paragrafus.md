@@ -4,16 +4,18 @@ a) a munkáltatónál működő szakszervezet, vagy
 
 b) a területi, ágazati szakszervezet, illetve szakszervezeti konföderáció (a továbbiakban együtt: szakszervezeti központ).
 
-(2) Az (1) bekezdésben meghatározott adatszolgáltatás tartalmazza:
+(2)[^4] Az (1) bekezdésben meghatározott adatszolgáltatás tartalmazza:
 
-a) a munkáltató megnevezését, székhelyét, ha ilyennel a munkáltató rendelkezik, adószámát vagy törzskönyvi azonosító számát;
+a) a munkáltató megnevezését, székhelyét, adószámát vagy törzskönyvi azonosító számát, fenntartója megnevezését, az államháztartás szakágazati rendje szerinti kódját, a Kjt. 7. §-a szerinti intézményfenntartó központ szervezeti egységeként működő köznevelési intézmények OM azonosítóját;
 
-b) a munkáltatói szintű szakszervezet megnevezését, székhelyét, amennyiben ilyennel rendelkezik, adószámát, továbbá annak megjelölését, hogy a szakszervezet mely ágazati szakszervezet, valamint országos szakszervezeti szövetség tagja, továbbá az ágazati szakszervezetet, országos szakszervezeti szövetség székhelyét, amennyiben ilyennel rendelkezik, adószámát;
+b) a munkáltatói szintű szakszervezet megnevezését, székhelyét, adószámát, továbbá annak megjelölését, hogy a szakszervezet mely ágazati szakszervezet, valamint országos szakszervezeti szövetség tagja, továbbá az ágazati szakszervezet, országos szakszervezeti szövetség székhelyét és adószámát;
 
-c) a munkabérből történő levonással, valamint szakszervezeti pénztáron szakszervezeti tagdíjat fizető tagok számát;
+c) a munkabérből történő levonással, valamint szakszervezeti pénztárba szakszervezeti tagdíjat fizető, közalkalmazotti jogviszonyban álló tagok számát;
 
 d) az adatok kezelésére adott felhatalmazást;
 
 e) a kitöltő személy nevét, telefonszámát, e-mail címét;
 
 f) a kiállítás dátumát.
+
+[^4]: A 4. § (2) bekezdése a 89/2014. (III. 20.) Korm. rendelet 4. § (4) bekezdésével megállapított szöveg.

@@ -1,7 +1,9 @@
-## elektronikus adathordozón vagy kinyomtatva kell megküldeni.
+## megküldi.
 
-6. § (1)[^4] A taglétszám megállapításával kapcsolatos adatfeldolgozási, adatösszesítési feladatokat – az adatkezelési felhatalmazás alapján – a Hivatal végzi. Az általa megállapított, összesített munkáltatói, területi-helyi, illetve országos adatokról Kjtm. 8. § (2) bekezdésében meghatározott határidőt követő 45. napig, elektronikusan tájékoztatja a 7. §-ban meghatározott döntést hozó szervet.
+6. §[^8] (1) A taglétszám megállapításával kapcsolatos adatfeldolgozási, adatösszesítési feladatokat – az adatkezelési felhatalmazás alapján – a Hivatal végzi. Az általa megállapított, összesített ágazati, illetve országos adatokról a Kjt. 6/A. § (5) bekezdésében meghatározott időpontot követő harmadik hónap 15. napjáig, elektronikusan tájékoztatja az Országos Reprezentativitást Megállapító Bizottságot (a továbbiakban: ORMB).
 
-(2) A beérkezett adatokat a következő reprezentativitás megállapítására irányuló eljárás lezárásáig meg kell őrizni, a következő reprezentativitás kihirdetésének napjával meg kell semmisíteni. Az adatok nem nyilvánosak, azokba csak a munkáltató, a munkáltatónál működő szakszervezet, saját tagszervezeteinek adatai tekintetében a felsőbb szakszervezeti szerv, a települési önkormányzati és az országos RMB tagja, valamint a reprezentativitás megállapításában közreműködő, adminisztrációs, technikai feltételeket biztosító szervezet munkatársa tekinthet be, de azokat harmadik személy részére nem adhatja át.
+(2) A beérkezett adatokat a következő reprezentativitás megállapítására irányuló eljárás lezárásáig meg kell őrizni, és ennek napjával archiválni kell. Az adatok nem nyilvánosak. Az illetékességi körébe tartozó adatokba kérelmére a fenntartó, a munkáltatónál működő szakszervezet, saját tagszervezeteinek az adatai tekintetében a szakszervezeti központ, valamint a területi (megyei) vagy települési reprezentativitást megállapító bizottságok (a továbbiakban: TRMB) és az ORMB tagja tekinthetnek be. A Hivatal érintett munkatársai és a foglalkoztatáspolitikáért felelős miniszter által az ORMB-be delegált képviselő valamennyi nyilvántartott adatba betekinthetnek. Az adatok harmadik személy részére nem adhatóak át.
 
-[^4]: A 6. § (1) bekezdése a 324/2011. (XII. 28.) Korm. rendelet 30. § (3) bekezdés b) pontja szerint módosított szöveg.
+(3) A nyilvántartott adatokba történő betekintési jog gyakorlása céljából a Hivatal a kérelmezőt önálló azonosító kóddal látja el.
+
+[^8]: A 6. § a 89/2014. (III. 20.) Korm. rendelet 4. § (6) bekezdésével megállapított szöveg.

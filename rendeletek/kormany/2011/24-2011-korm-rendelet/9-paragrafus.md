@@ -1,7 +1,7 @@
-## 8. § Munkáltatói szinten a munkáltató és a munkáltatónál működő szakszervezetek képviselői közösen határozzák meg a reprezentativitás megállapításának eljárási rendjét.
+9. §[^11] (1) Az ORMB a Kjt. 6/A. § (5) bekezdésében meghatározott időponttól számított öt hónapon belül a Magyar Közlöny Hivatalos Értesítőjében, valamint a foglalkoztatáspolitikáért felelős miniszter által vezetett minisztérium hivatalos lapjában és honlapján közzéteszi az országosan és ágazati szinten reprezentatív szakszervezetek névsorát.
 
-## 9. § Az RMB a reprezentativitás megállapítására a Kjtm. 8. § (2) bekezdésében meghatározott határidőt követő legkésőbb 60 napon belül közzéteszi
+(2) Az illetékes jegyző, illetve főjegyző a Kjt. 6/A. § (5) bekezdésében meghatározott időponttól számított öt hónapon belül közzéteszi a helyben szokásos módon az önkormányzat illetékességi körében reprezentatív szakszervezetek névsorát.
 
-a) a Magyar Közlöny Hivatalos Értesítőjében, valamint a foglalkoztatáspolitikáért felelős minisztérium hivatalos lapjában és honlapján az országos és ágazati reprezentatív szakszervezetek;
+(3) A (2) bekezdésben nem szabályozott esetben a fenntartó a Kjt. 6/A. § (5) bekezdésében meghatározott időponttól számított öt hónapon belül közzéteszi a helyben szokásos módon a saját illetékességi körében reprezentatív szakszervezetek névsorát.
 
-b) az illetékes jegyző, illetve főjegyző közreműködésével a helyben szokásos módon az önkormányzat területén reprezentatív szakszervezetek
+[^11]: A 9. § a 89/2014. (III. 20.) Korm. rendelet 4. § (9) bekezdésével megállapított szöveg.

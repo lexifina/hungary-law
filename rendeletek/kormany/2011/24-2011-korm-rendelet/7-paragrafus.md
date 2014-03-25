@@ -1,29 +1,13 @@
-7. § (1)[^5] A közalkalmazotti szakszervezet reprezentativitását a Hivatal által közzétett adatok alapján
+7. §[^9] (1) A közalkalmazotti szakszervezetek országos és ágazati szintű reprezentativitását a Hivatal által átadott adatok alapján az ORMB állapítja meg.
 
-a) az Országos Reprezentativitást Megállapító Bizottság, valamint
+(2) Az ORMB tagjai a foglalkoztatáspolitikáért felelős miniszter, valamint a KOMT önkormányzati oldala által delegált egy-egy képviselő, a KOMT-ban részt vevő országos szakszervezeti konföderációk és az érintett ágazati szakszervezetek egy-egy képviselője.
 
-b) az önkormányzati reprezentativitást megállapító bizottságok
+(3) Az ORMB-ben részt venni kívánó országos szakszervezeti konföderációnak és ágazati szakszervezetnek a foglalkoztatáspolitikáért felelős miniszter számára írásban kell bejelentenie részvételi szándékát, legkésőbb a Kjt. 6/A. § (5) bekezdésében meghatározott időpontig. A bejelentésnek tartalmaznia kell, hogy az országos szakszervezeti konföderáció és ágazati szakszervezet tevékenységét mely ágazatban vagy ágazatokban (alágazatban, szakágazatban) fejti ki. A bejelentéshez csatolni kell az országos szakszervezeti konföderáció és ágazati szakszervezet bírósági nyilvántartásba vételéről szóló határozat egy hónapnál nem régebben hitelesített másolatát és az ORMB-be delegált képviselőjének (helyettesének) nevét, és cégszerű aláírással ellátott megbízólevelét.
 
-(a továbbiakban együtt: RMB) állapítják meg.
+(4) Az ORMB-ben való részvétellel több szakszervezet együttesen is megbízhat egy képviselőt.
 
-(2) Az RMB tagjai:
+(5) Az ORMB mandátuma a 9. § (1) bekezdésében meghatározott – a Magyar Közlöny Hivatalos Értesítőjében való – közzététel időpontjáig tart.
 
-a) országos szinten a foglalkoztatáspolitikáért felelős miniszter, valamint a KOMT önkormányzati oldala által delegált egy-egy képviselő, valamint a KOMT-ban részt vevő szakszervezetek és országos szakszervezeti konföderációk egy-egy képviselője;
+(6) Az ORMB tevékenységét a jogszabályoknak megfelelően, saját maga által kialakított ügyrend alapján végzi.
 
-b) a helyi önkormányzatnál a jegyző, főjegyző, valamint a helyi önkormányzati szintű érdekegyeztetésben részt vevő szakszervezetek vagy az országos szakszervezeti konföderációk egy-egy kijelölt képviselője.
-
-(3) A (2) bekezdésben foglaltak végrehajtása érdekében:
-
-a) az országos RMB-ben részt venni kívánó szakszervezetnek, országos szakszervezeti konföderációnak a foglalkoztatáspolitikáért felelős miniszter,
-
-b) a helyi önkormányzati szintű RMB-ben részt venni kívánó szakszervezetnek az illetékes jegyző, főjegyző
-
-számára írásban kell bejelentenie részvételi szándékát, legkésőbb a Kjtm. 8. § (2) bekezdésében meghatározott határidőt megelőző 30 nappal. A nyilatkozatnak tartalmaznia kell, hogy a szakszervezet, illetve országos szakszervezeti konföderáció tevékenységét mely ágazatban vagy ágazatokban (alágazatban, szakágazatban) fejti ki.
-
-(4) A (3) bekezdés a) pontja alapján tett nyilatkozathoz csatolni kell – az Országos Érdekegyeztető Tanácsban, illetve ágazati párbeszéd bizottságban részt vevő szervezetek kivételével – a szakszervezet, illetve országos szakszervezeti konföderáció bírósági nyilvántartásba vételéről szóló határozat egy hónapnál nem régebben hitelesített másolatát, valamint az RMB-be delegált képviselőjének (helyettesének) nevét.
-
-(5) Az RMB-ben való részvétellel több szakszervezet együttesen is megbízhat egy képviselőt. A képviselő akadályoztatása esetén a szakszervezet, illetve az országos szakszervezeti szövetség által kijelölt helyettes járhat el.
-
-(6) Az RMB mandátuma a 9. §-ban meghatározott időpontig tart.
-
-[^5]: A 7. § (1) bekezdése a 324/2011. (XII. 28.) Korm. rendelet 30. § (3) bekezdés c) pontja szerint módosított szöveg.
+[^9]: A 7. § a 89/2014. (III. 20.) Korm. rendelet 4. § (7) bekezdésével megállapított szöveg.
