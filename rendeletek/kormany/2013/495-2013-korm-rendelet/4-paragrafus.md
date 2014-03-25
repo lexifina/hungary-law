@@ -1,8 +1,8 @@
-4. § (1) A 3. § vonatkozásában – a (2) bekezdésben, valamint a 3. § (10) bekezdésében foglalt kivételekkel – illetményként kell figyelembe venni:
+4. § (1)[^3] A 3. § vonatkozásában – a (2) bekezdésben, valamint a 3. § (10) bekezdésében foglalt kivételekkel – jogszabály eltérő rendelkezése hiányában illetményként kell figyelembe venni:
 
 a) a Kjt. 66. és 79/E. §-a szerinti illetményt (beleértve a garantált illetmény feletti, a munkáltató döntése alapján megállapított illetményrészt is), továbbá a közalkalmazott számára a Kjt. 70–75. §-a alapján megállapított illetménypótlékot,
 
-b) a Kttv. 131. § (2) bekezdése szerinti – a 133. § (3) bekezdése szerinti illetményeltérítés figyelembevételével számított – illetményt,
+b)[^4] a Kttv. 131. § (2) bekezdése szerinti – a Kttv. 133. § (3)–(6) bekezdése szerinti alapilletmény-eltérítés figyelembevételével számított – illetményt, valamint a kormányzati ügykezelők esetén a Kttv. 208. §-a, illetve a közszolgálati ügykezelők esetén a Kttv. 242. §-a szerinti illetményt,
 
 c) a Hszt. 112. §-a szerinti távolléti díj alapját képező illetményt,
 
@@ -29,3 +29,6 @@ a) az Eütev. 11/A. § (4) vagy (5) bekezdése alapján járó növelésnek kell
 b) az Eütev. 11/A. § (6) vagy (6a) bekezdése alapján járó növelésnek kell tekinteni az Eütev. 11/A. § (6) vagy (6a) bekezdésében meghatározott összeget.
 
 (4) A kompenzáció a személyi jövedelemadó-előleg megállapításánál nem rendszeres jövedelemnek minősül, és a költségvetési rend szerint foglalkoztatottak egyéb személyi juttatásaiként kell elszámolni. A kifizetés a statisztikai elszámolásokban a szociális költségek között kerül figyelembe vételre.
+
+[^3]: A 4. § (1) bekezdés nyitó szövegrésze a 89/2014. (III. 20.) Korm. rendelet 8. § (3) bekezdése szerint módosított szöveg.
+[^4]: A 4. § (1) bekezdés b) pontja a 89/2014. (III. 20.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.

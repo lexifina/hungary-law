@@ -44,7 +44,13 @@ b) 1,53%-ának megfelelő – 100 forintra kerekített összegű – kompenzáci
 
 (10) Az 5. melléklet II. 1. Munkáltatói rész szerinti nyilatkozat alapján a (2)–(9) bekezdés szerinti kompenzáció összegét az illetményszámfejtést végző szervezet legfeljebb nulla összegig csökkenti a kötelező legkisebb munkabér (minimálbér) és a garantált bérminimum megállapításáról szóló 337/2010. (XII. 27.) Korm. rendelet, valamint a kötelező legkisebb munkabér (minimálbér) és a garantált bérminimum megállapításáról szóló 298/2011. (XII. 22.) Korm. rendelet szerinti minimálbér és garantált bérminimum elérése érdekében végrehajtott illetményemelés 94%-ának 100 forintra kerekített összegével.
 
-(11) Az Fbszt. és a Tbszt. alapján megszüntetésre került gazdasági társaságok volt foglalkoztatottjai esetében az 5. melléklet II. 2. Munkáltatói rész szerinti nyilatkozat alapján a (2)–(9) bekezdés szerinti kompenzáció összegét az illetményszámfejtést végző szervezet legfeljebb nulla összegig csökkenti a munkabérek nettó értékének megőrzéséhez szükséges munkabéremelés 2012. évi elvárt mértékéről és a béren kívüli juttatás ennek keretében figyelembe vehető mértékéről szóló 299/2011. (XII. 22.) Korm. rendelet szerinti munkabéremelés 94%-ának 100 forintra kerekített összegével.
+(11)[^2] Az Fbszt. és a Tbszt. alapján megszüntetésre került gazdasági társaságok volt foglalkoztatottjai esetében az 5. melléklet II. 2. Munkáltatói rész szerinti nyilatkozat alapján a (2)–(9) bekezdés szerinti kompenzáció összegét az illetményszámfejtést végző szervezet legfeljebb nulla összegig csökkenti
+
+a) a kötelező legkisebb munkabér (minimálbér) és a garantált bérminimum megállapításáról szóló 337/2010. (XII. 27.) Korm. rendelet szerinti minimálbér és garantált bérminimum elérése érdekében végrehajtott személyi alapbéremelés,
+
+b) a munkabérek nettó értékének megőrzéséhez szükséges munkabéremelés 2012. évi elvárt mértékéről és a béren kívüli juttatás ennek keretében figyelembe vehető mértékéről szóló 299/2011. (XII. 22.) Korm. rendelet szerinti munkabéremelés, vagy ennek hiányában a kötelező legkisebb munkabér (minimálbér) és a garantált bérminimum megállapításáról szóló 298/2011. (XII. 22.) Korm. rendelet szerinti minimálbér és garantált bérminimum elérése érdekében végrehajtott személyi alapbéremelés
+
+## 94%-ának 100 forintra kerekített összegével.
 
 (12) Az Fbszt. alapján megszüntetésre került gazdasági társaságok azon foglalkoztatottjai, akiknek továbbfoglalkoztatására az Fbszt. 7. § (1) bekezdése vagy (2) bekezdés b) pontja alapján nem került sor, nem jogosultak kompenzációra.
 
@@ -55,3 +61,5 @@ b) 1,53%-ának megfelelő – 100 forintra kerekített összegű – kompenzáci
 (15) Az 1. § szerinti jogviszonyok közül egyidejűleg több jogviszonyban álló foglalkoztatott a teljes munkaidős jogviszonyában jogosult a kompenzációra. Az 1. § szerinti teljes munkaidős jogviszony hiányában az időben legkorábban keletkezett jogviszonyban jár a kompenzáció.
 
 (16) Nem jogosult kompenzációra a foglalkoztatott a fizetés nélküli szabadság, valamint az egész napos igazolatlan távollét időtartamára. A kompenzáció emiatt kieső összegét a tárgyhónapban kieső munkanapok számának a foglalkoztatott munkarendje szerinti, a tárgyhónap egészére megállapított munkanapok számához viszonyított arányában, 100 forintra kerekítve kell megállapítani.
+
+[^2]: A 3. § (11) bekezdése a 89/2014. (III. 20.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
