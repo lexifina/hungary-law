@@ -10,6 +10,9 @@
 
 (5) Az (1) bekezdésben meghatározott bejelentési kötelezettség teljesítése, illetőleg annak igazolása nem feltétele a foglalkoztatásra irányuló jogviszony létesítésének illetőleg az annak alapján végzett tevékenység megkezdésének.
 
+(6)[^7] A foglalkoztatás kezdő időpontját legkésőbb a foglalkoztatás megkezdésének napján, a foglalkoztatás megszűnését legkésőbb az azt követő napon kell bejelenteni.
+
 [^4]: A 2–5. §-t a 322/2008. (XII. 29.) Korm. rendelet 3. § (3) bekezdése hatályon kívül helyezte.
 [^5]: A 6. § (1) bekezdése a 355/2009. (XII. 30.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.
 [^6]: A 6. § (2) bekezdése a 48/2009. (III. 6.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^7]: A 6. § (6) bekezdését a 89/2014. (III. 20.) Korm. rendelet 2. §-a iktatta be.
