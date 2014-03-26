@@ -16,6 +16,8 @@ f) a miniszter igazolása alapján közszolgálati jogviszony keretében köznev
 
 ## eltöltött szakmai tevékenységgel szerezhető meg.
 
-(2) A szakmai gyakorlat időtartamába nem számít be a foglalkoztatási jogviszony esetén a fizetés nélküli szabadság harminc napot meghaladó időtartama, továbbá a jogviszonyban pedagógus-munkakörben eltöltött idő, ha a pedagógus foglalkoztatása nem érte el a munkakörre megállapított heti neveléssel-oktatással lekötött munkaidő huszonöt százalékát.
+(2)[^15] A szakmai gyakorlat időtartamába nem számít be a foglalkoztatási jogviszony esetén a fizetés nélküli szabadság harminc napot meghaladó időtartama, továbbá a jogviszonyban pedagógus-munkakörben eltöltött idő, ha a pedagógus foglalkoztatása nem érte el a munkakörre megállapított heti neveléssel-oktatással lekötött munkaidő alsó határának huszonöt százalékát.
 
 (3) A magasabb fokozatba történő besorolásra a sikeres minősítő vizsgát vagy minősítést követő év első napjával kerül sor.
+
+[^15]: A 13. § (2) bekezdése a 99/2014. (III. 25.) Korm. rendelet 13. § f) pontja szerint módosított szöveg.

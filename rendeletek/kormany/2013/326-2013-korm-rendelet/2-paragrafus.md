@@ -24,7 +24,7 @@ b) ha a gyakornoki idő nem a tanítási év közben jár le, a tanítási év u
 
 (7) A minősítő vizsga részei:
 
-a) amennyiben a munkakör részét képezi foglalkozás, tanóra megtartása, a jelölt legalább két szakórájának vagy foglalkozásának látogatása és elemzése, valamint
+a)[^2] amennyiben a munkakör részét képezi foglalkozás, tanóra megtartása, a jelölt legalább két foglalkozásának, tanórájának látogatása és elemzése, valamint
 
 b) a gyakornok portfóliójának áttekintése, értékelése (portfólióvédés).
 
@@ -32,9 +32,9 @@ b) a gyakornok portfóliójának áttekintése, értékelése (portfólióvédé
 
 a) portfólióvédés,
 
-b) amennyiben a munkakör részét képezi foglalkozás, tanóra megtartása, a meglátogatott szakóra vagy foglalkozás értékelése,
+b)[^3] amennyiben a munkakör részét képezi foglalkozás, tanóra megtartása, a meglátogatott foglalkozás, tanóra értékelése,
 
-c) az országos pedagógiai-szakmai ellenőrzés során a látogatott foglalkozásokkal összefüggő, a pedagógusra vonatkozó megállapítások értékelése, valamint
+c)[^4] az országos pedagógiai-szakmai ellenőrzés során a látogatott foglalkozások tapasztalatainak és az összegző értékelésnek a megismerése, valamint
 
 d) az intézményi önértékelés pedagógusra vonatkozó megállapításainak értékelése.
 
@@ -46,6 +46,11 @@ a) a gyakornok által feltöltött portfólió alapján áttekinti és értékel
 
 b) értékeli a meglátogatott foglalkozást és a portfólióvédést, valamint
 
-c) elkészíti az összegző értékelést, amelyet feltölt az Oktatási Hivatal (a továbbiakban: OH) által kialakított és üzemeltetett informatikai támogató rendszerbe.
+c)[^5] elkészíti az összegző értékelést, amelyet feltölt az Oktatási Hivatal (a továbbiakban: OH) által működtetett informatikai támogató rendszerbe.
 
 (11) A Pedagógus I. fokozatba lépéshez a gyakornoknak az értékelés során legalább hatvan százalékot kell elérnie.
+
+[^2]: A 2. § (7) bekezdés a) pontja a 99/2014. (III. 25.) Korm. rendelet 13. § a) pontja szerint módosított szöveg.
+[^3]: A 2. § (8) bekezdés b) pontja a 99/2014. (III. 25.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.
+[^4]: A 2. § (8) bekezdés c) pontja a 99/2014. (III. 25.) Korm. rendelet 13. § c) pontja szerint módosított szöveg.
+[^5]: A 2. § (10) bekezdés c) pontja a 99/2014. (III. 25.) Korm. rendelet 13. § d) pontja szerint módosított szöveg.

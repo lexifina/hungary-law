@@ -24,4 +24,6 @@ c) Kutatótanár fokozatba történő besorolásra irányuló minősítési elj�
 
 (5) Csak magasabb fokozatba tartozó, azonos munkakörben dolgozó pedagógus vehet rész az alacsonyabb fokozatba besorolt pedagógus minősítési eljárásában.
 
-(6) A tanár minősítési eljárása esetén a minősítő bizottság egyik tagjának szakképzettsége azonos kell, hogy legyen az értékelt tanárnak a minősítés tanévében legnagyobb óraszámban tanított tantárgya tanítására jogosító szakképzettségével.
+(6)[^8] A tanár minősítési eljárása esetén a minősítő bizottság egyik tagjának végzettsége és szakképzettsége azonos kell, hogy legyen az értékelt tanárnak a minősítésre való jelentkezésében megjelölt tantárgya tanítására jogosító végzettségével és szakképzettségével. Szakképző iskolában foglalkoztatott pedagógus esetében, ha ez a feltétel nem teljesíthető, a minősítő bizottság egyik tagja olyan személy kell, hogy legyen, aki az Nkt. 98–99. §-ában vagy 3. mellékletében, vagy a szakképzésről szóló 2011. évi CLXXXVII. törvényben meghatározottak szerint taníthatja az értékelt tanárnak a minősítésre való jelentkezésben megjelölt tantárgyát.
+
+[^8]: A 7. § (6) bekezdése a 99/2014. (III. 25.) Korm. rendelet 2. §-ával megállapított szöveg.

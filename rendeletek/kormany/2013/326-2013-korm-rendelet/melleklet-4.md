@@ -1,4 +1,4 @@
-## A nevelési-oktatási intézményekben alkalmazott vezetők kötelező létszáma
+## Az óvoda kivételével a nevelési-oktatási intézményekben alkalmazott vezetők kötelező létszáma
 
 |  | A | B | C |
 

@@ -1,5 +1,3 @@
-## 37. § Az Új Széchenyi Terv Társadalmi Megújulás Operatív Program Pedagógusképzés támogatása kiemelt projekt (TÁMOP-3.1.5/12) keretében próbaminősítő vizsgán, próbaminősítési eljárásban sikeresen részt vett pedagógusok az OH által kiadott tanúsítványt kapnak, amely alapján leghamarabb 2015. január 1-jén az annak megfelelő fokozatba kerülnek besorolásra.
-
 38. § (1) 2014. szeptember 1. és 2015. augusztus 31. között az illetményalap a teljes munkaidőre megállapított kötelező legkisebb alapbér (minimálbér) havi összegének
 
 a) 118,9 százaléka középfokú végzettség esetén,

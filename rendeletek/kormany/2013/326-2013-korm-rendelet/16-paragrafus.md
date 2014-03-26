@@ -1,3 +1,5 @@
+## eltöltött szakmai tevékenységgel is megszerezhető.
+
 ## 6. A pedagógusok illetménypótléka megállapításának részletes szabályai
 
 16. § (1) A magasabb vezetői megbízás megszűnését megelőzően legalább tíz évig intézményvezetői megbízással rendelkező pedagógus „címzetes igazgatói” címben és pótlékban részesül, amennyiben intézményvezetői megbízásának lejártát vagy megszűnését követően továbbra is a korábban általa vezetett intézményben marad. A pótlék mértéke a volt intézményvezető korábbi vezetői pótlékának huszonöt százaléka.

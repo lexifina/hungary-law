@@ -16,7 +16,7 @@ b) „Nem felelt meg”.
 
 (5) Ha a (3) bekezdés szerinti megismételt minősítési eljárást nem teljesítő pedagógus pedagógus-munkakörre újabb foglalkoztatási jogviszonyt létesít, a foglalkoztatási jogviszony létesítésétől számított két év elteltével újabb minősítési eljárásban kell részt vennie. Az újabb minősítési eljárás során a (4) bekezdést, illetve – a döntéstől függően – az Nkt. 64. § (8) bekezdését kell alkalmazni.
 
-(6) A Pedagógus II. fokozat elérésére jelentkező pedagógus a jelentkezéssel egyidejűleg feltölti a portfólióját az OH által kialakított és üzemeltetett informatikai támogató rendszerbe. A pedagógus módosíthatja portfólióját, ha a jelentkezés és a portfólióvédés között több mint hat hónap telik el.
+(6)[^6]
 
 (7) Amennyiben a munkakör részét képezi foglalkozás, tanóra megtartása, a minősítő bizottság a pedagógus legalább kettő foglalkozását meglátogatja, amelyet szakmai megbeszélés követ. A portfólióvédés alkalmával a pedagógus bemutatja saját önértékelését, és válaszol a bizottság tagjainak kérdéseire.
 
@@ -26,8 +26,11 @@ a) áttekinti és értékeli a pedagógus által feltöltött portfóliót, az i
 
 b) értékeli a meglátogatott foglalkozást és a portfólióvédést, valamint
 
-c) elkészíti az összegző értékelést, amelyet feltölt az OH által kialakított és üzemeltetett informatikai támogató rendszerbe.
+c)[^7] elkészíti az összegző értékelést, amelyet feltölt az OH által működtetett informatikai támogató rendszerbe.
 
 (9) A minősítési eljárás eredményeként a pedagógus „Megfelelt” minősítést kap, ha az értékelés alapján legalább hetvenöt százalékot ért el.
 
 (10) A „Megfelelt” minősítés alapján a pedagógust a Pedagógus II. fokozatba be kell sorolni.
+
+[^6]: A 3. § (6) bekezdését a 99/2014. (III. 25.) Korm. rendelet 14. § a) pontja hatályon kívül helyezte.
+[^7]: A 3. § (8) bekezdés c) pontja a 99/2014. (III. 25.) Korm. rendelet 13. § d) pontja szerint módosított szöveg.

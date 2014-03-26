@@ -1,4 +1,4 @@
-## 27. § A 26. § (1) és (2) bekezdése kivételével a 10. alcímet az egyházi és a magánintézményekben nem kell alkalmazni, amennyiben a munkáltató mellőzi a pályázatot.
+## 27. §[^22] A 22. § (2) bekezdése, a 26. § (1) és (2) bekezdése kivételével a 10. alcímet az egyházi és a magánintézményekben nem kell alkalmazni, amennyiben a munkáltató mellőzi a pályázatot.
 
 ## IV. Fejezet
 
@@ -13,3 +13,5 @@
 (3) Mellőzhető a pályázat kiírása abban az esetben, ha a munkakört olyan személlyel kívánják betölteni, akit határozott időre szóló közalkalmazotti jogviszonyban legalább tíz hónapot foglalkoztattak, feltéve, hogy a korábbi jogviszony megszűnése és az új jogviszony keletkezése között legfeljebb 183 nap telt el.
 
 (4) A megüresedett álláshelyekre a pályázatot a megüresedéstől számított harminc napon belül ki kell írni, ha a pályázati kiírás nem mellőzhető.
+
+[^22]: A 27. § a 99/2014. (III. 25.) Korm. rendelet 9. §-ával megállapított szöveg.
