@@ -12,12 +12,15 @@ c) III. kötete – a Hivatalos Élelmiszer-vizsgálati Módszergyűjtemény –
 
 ## tartalmazza.
 
-(3) A földművelésügyi és vidékfejlesztési miniszter a Magyar Élelmiszerkönyv az (1) bekezdés szerinti tervezete alapján a Magyar Élelmiszerkönyv
+(3)[^10] Az élelmiszerlánc-felügyeletért felelős miniszter a Magyar Élelmiszerkönyv (1) bekezdés szerinti tervezete alapján a Magyar Élelmiszerkönyv
 
 a) kötelező előírásait rendelettel kiadja,
 
-b) irányelveit a Hivatalos Értesítőben, valamint a Földművelésügyi és Vidékfejlesztési Minisztérium hivatalos lapjában közzéteszi,
+b) irányelveit az élelmiszerlánc-felügyeletért felelős miniszter által vezetett minisztérium hivatalos lapjában és honlapján közzéteszi,
 
-c) mindenkor hatályos szövegét a Földművelésügyi és Vidékfejlesztési Minisztérium honlapján egységes szerkezetben megjelenteti.
+c) mindenkor hatályos szövegét az élelmiszerlánc-felügyeletért felelős miniszter által vezetett minisztérium honlapján egységes szerkezetben megjelenteti.
 
-(4) A 2. § (5) bekezdése szerinti szakbizottságok a szakterületük szerinti termékcsoportok vonatkozásában a jogalkalmazói gyakorlat kiszámíthatóságának növelése érdekében a szabályozás alapjait ismertető tájékoztatókat adhatnak ki, amelyeknek kötelező ereje nincs. Ezeket a tájékoztatókat a Hivatalos Értesítőben, valamint a Földművelésügyi és Vidékfejlesztési Minisztérium hivatalos lapjában közzé kell tenni.
+(4)[^11] A 2. § (5) bekezdése szerinti szakbizottságok a szakterületük szerinti termékcsoportok vonatkozásában a jogalkalmazói gyakorlat kiszámíthatóságának növelése érdekében a szabályozás alapjait ismertető tájékoztatókat adhatnak ki, amelyeknek kötelező ereje nincs. Ezeket a tájékoztatókat az élelmiszerlánc-felügyeletért felelős miniszter által vezetett minisztérium hivatalos lapjában közzé kell tenni.
+
+[^10]: A 3. § (3) bekezdése a 98/2014. (III. 25.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^11]: A 3. § (4) bekezdése a 98/2014. (III. 25.) Korm. rendelet 8. § (5) bekezdés c) pontja és (6) bekezdése szerint módosított szöveg.

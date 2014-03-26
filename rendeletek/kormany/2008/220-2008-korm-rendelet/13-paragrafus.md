@@ -20,4 +20,6 @@ g) a nem cél-szervezetekre történő, ökotoxikológiai kockázatbecslést,
 
 h) egyéb – a Bizottság által jóváhagyott – módszertani előírásokat.
 
-(3) A földművelésügyi és vidékfejlesztési miniszter a Növényvédelmi Bizottság javaslata alapján a Növényvédelmi Módszertani Gyűjteményt a Hivatalos Értesítőben, valamint a Földművelésügyi és Vidékfejlesztési Minisztérium hivatalos lapjában és honlapján egységes szerkezetben közzéteszi.
+(3)[^31] Az élelmiszerlánc-felügyeletért felelős miniszter a Növényvédelmi Bizottság javaslata alapján a Növényvédelmi Módszertani Gyűjteményt az élelmiszerlánc-felügyeletért felelős miniszter által vezetett minisztérium honlapján egységes szerkezetben közzéteszi.
+
+[^31]: A 13. § (3) bekezdése a 98/2014. (III. 25.) Korm. rendelet 8. § (4) bekezdésével megállapított szöveg.
