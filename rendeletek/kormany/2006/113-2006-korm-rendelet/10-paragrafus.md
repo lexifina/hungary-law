@@ -108,7 +108,7 @@ Megbízott az igazgatási szolgáltatási díjak befizetésével egyidejűleg a 
 
 7.) Megbízottat a jelen szerződésben foglalt feladatok ellátásáért megkezdett munkaóránként 2.520,- Ft + ÁFA, azaz kettőezer-ötszázhúsz forint + ÁFA, azaz háromezer-kettőszáz forint megbízási díj illeti meg. Az egyes jogosult állatorvosi tevékenységekre alkalmanként elszámolható munkaórák mértékét ezen szerződés melléklete tartalmazza.
 
-Megbízottat a megbízási díjon felül a saját tulajdonú gépjármű feladat ellátáshoz való használatáért havonta legfeljebb 400 km megtett futásteljesítmény után, általános személygépkocsi-normaköltség megtérítésre jogosult, melynek mértéke a személyi jövedelemadóról szóló 1995. évi CXVII. törvény alapján kilométerenként 9,- Ft, azaz kilenc forint és üzemanyag norma.
+Megbízottat a megbízási díjon felül a saját tulajdonú gépjármű feladat ellátáshoz való használatáért havonta a megtett futásteljesítmény után, általános személygépkocsi-normaköltség megtérítésre jogosult, melynek mértéke a személyi jövedelemadóról szóló 1995. évi CXVII. törvény alapján kilométerenként 9 Ft, azaz kilenc forint és üzemanyag norma.
 
 A megbízási díj havi összege nem haladhatja meg a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény szerinti I. besorolási osztály 4. fizetési fokozatába besorolt kormánytisztviselő egy havi alapilletményének összegét.
 
@@ -168,41 +168,43 @@ Függelék a megbízási szerződéshez
 
 A jogosult állatorvosi tevékenység során elszámolható munkaórák
 
-|  |  | elszámolható munkaórák száma alkalmanként |
+|  |  | A | B |
 
-|  | Állatvásárok állategészségügyi felügyelete | 4 |
+|  |  |  | Elszámolható munkaórák száma alkalmanként |
 
-|  | Állatbemutatók állategészségügyi felügyelete | 4 |
+|  | 1. | Állatvásárok állategészségügyi felügyelete | 4 |
 
-|  | Állatkiállítások állategészségügyi felügyelete | 3 |
+|  | 2. | Állatbemutatók állategészségügyi felügyelete | 4 |
 
-|  | Állatversenyek állategészségügyi felügyelete | 4 |
+|  | 3. | Állatkiállítások állategészségügyi felügyelete | 3 |
 
-|  | Eb megfigyelések alkalmanként | 0,5 |
+|  | 4. | Állatversenyek állategészségügyi felügyelete | 4 |
 
-|  | Elejtett vadak húsvizsgálata (kivéve vadfeldolgozó) | 2 |
+|  | 5. | Eb megfigyelések alkalmanként | 1 |
 
-|  | Kistermelőknél elvégzett húsvizsgálatok | 1 |
+|  | 6. | Elejtett vadak húsvizsgálata (kivéve vadfeldolgozó) | 2 |
 
-|  | Állattartó telepre tenyésztésre, továbbtartásra érkezett szállítmányok állategészségügyi felügyelete | 1 |
+|  | 7. | Kistermelőknél elvégzett húsvizsgálatok | 2 |
 
-|  | Gyűjtőtelepre érkezett szállítmányok állategészségügyi felügyelete | 1 |
+|  | 8. | Állattartó telepre tenyésztésre, továbbtartásra érkezett szállítmányok állategészségügyi felügyelete | 2 |
 
-|  | Kereskedői telepre érkezett szállítmányok állategészségügyi felügyelete | 1 |
+|  | 9. | Gyűjtőtelepre érkezett szállítmányok állategészségügyi felügyelete | 2 |
 
-|  | Szalmonella hatósági mintavételek | 1 |
+|  | 10. | Kereskedői telepre érkezett szállítmányok állategészségügyi felügyelete | 2 |
 
-|  | Vágóhidak felügyelete, ahol nem vágnak többet: |  |
+|  | 11. | Szalmonella hatósági mintavételek | 2 |
 
-|  | 40 felnőtt szarvasmarhánál hetente | 4 |
+|  | 12. | Vágóhidak felügyelete, ahol nem vágnak többet: |  |
 
-|  | 200 felnőtt sertésnél hetente | 4 |
+|  | 12.1. | 40 felnőtt szarvasmarhánál hetente | 4 |
 
-|  | 200 felnőtt juhnál, kecskénél hetente | 4 |
+|  | 12.2. | 200 felnőtt sertésnél hetente | 4 |
 
-|  | 150 000 egyed baromfinál évente | 4 |
+|  | 12.3. | 200 felnőtt juhnál, kecskénél hetente | 4 |
 
-|  | Vágópontok felügyelete | 2 |
+|  | 12.4. | 250 000 egyed baromfinál évente | 4 |
+
+|  | 13. | Vágópontok felügyelete | 2 |
 
 [^36]: A 10. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 316. pontja hatályon kívül helyezte.
-[^37]: A mellékletet a 369/2012. (XII. 17.) Korm. rendelet 8. §-a iktatta be, szövege az 57/2014. (III. 4.) Korm. rendelet 6. § (1) bekezdés b) pontja és (2) bekezdése szerint módosított szöveg.
+[^37]: A mellékletet a 369/2012. (XII. 17.) Korm. rendelet 8. §-a iktatta be, szövege az 57/2014. (III. 4.) Korm. rendelet 6. § (1) bekezdés b) pontja és (2) bekezdése, a 98/2014. (III. 25.) Korm. rendelet 3. §-a szerint módosított szöveg.
