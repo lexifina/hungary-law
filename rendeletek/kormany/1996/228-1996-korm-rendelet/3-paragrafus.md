@@ -12,7 +12,7 @@
 
 (5)[^10] Az értékesítési betétlapot a NAK megyei ügyintéző szervezete csak akkor adhatja ki, ha a mezőgazdasági őstermelő a (4) bekezdés szerinti nyilatkozatot benyújtotta.
 
-(6)[^11] A NAK megyei ügyintéző szervezete az Szja tv.-ben előírt nyilatkozatokat az elévülésre vonatkozó rendelkezések szerint megőrzi.
+(6)[^11] Az Szja tv.-ben előírt nyilatkozatokat az elévülésre vonatkozó rendelkezések szerint az adatnyilvántartó lapokkal együtt kell megőrizni.
 
 [^5]: A 3. § a 182/2009. (IX. 10.) Korm. rendelet 100. § (4) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^6]: A 3. § (1) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 32. § b) pontja, a 234/2012. (VIII. 28.) Korm. rendelet 12. § (1) bekezdés b) pontja, az 543/2013. (XII. 30.) Korm. rendelet 1. § (6) bekezdés a) pontja szerint módosított szöveg.
@@ -20,4 +20,4 @@
 [^8]: A 3. § (3) bekezdése az 543/2013. (XII. 30.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^9]: A 3. § (4) bekezdése a 234/2012. (VIII. 28.) Korm. rendelet 12. § (1) bekezdés a) pontja szerint módosított szöveg.
 [^10]: A 3. § (5) bekezdése a 234/2012. (VIII. 28.) Korm. rendelet 2. § (2) bekezdésével megállapított, az 543/2013. (XII. 30.) Korm. rendelet 1. § (6) bekezdés b) pontja szerint módosított szöveg.
-[^11]: A 3. § (6) bekezdése a 234/2012. (VIII. 28.) Korm. rendelet 2. § (2) bekezdésével megállapított, az 543/2013. (XII. 30.) Korm. rendelet 1. § (6) bekezdés b) pontja szerint módosított szöveg.
+[^11]: A 3. § (6) bekezdése a 98/2014. (III. 25.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.

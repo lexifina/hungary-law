@@ -2,7 +2,7 @@
 
 ## 1. Annak megjelölése, hogy az ügyfél először kéri az őstermelői igazolvány kiállítását, vagy módosítást kér.
 
-## 2.[^38] Az ügyfél azonosító adatai:
+## 2.[^42] Az ügyfél azonosító adatai:
 
 ## a) név,
 
@@ -14,7 +14,7 @@
 
 ## e) adóazonosító jel és adószám,
 
-## f) a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény szerinti regisztrációs szám, amennyiben az ügyfél ezzel rendelkezik,
+## f)[^43] a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény szerinti ügyfél-azonosító szám, amennyiben az ügyfél ezzel rendelkezik,
 
 ## g) az ügyfél családi gazdálkodóként való nyilvántartásba vételéről szóló határozat száma, amennyiben az ügyfél családi gazdálkodó.
 
@@ -24,7 +24,7 @@
 
 ## b) az ügyfél azonosító adatai körében annak a természetes személynek az adatai, akit közös nyilatkozattal a családtagok megjelöltek, és akinek a nevére kérték, illetve kérik az őstermelői igazolvány kiállítását,
 
-## c) az adatnyilvántartó lapon a közös igazolványban szereplők neve, adóazonosító jele, születési éve, családtagi minősége.
+## c)[^44] az adatnyilvántartó lapon a közös igazolványban szereplők neve, adóazonosító jele, születés helye és ideje, anyja születéskori családi és utóneve, családtagi minősége.
 
 ## 4. A tárgyévre vonatkozóan választott adózási mód, és – kizárólag az őstermelői igazolvány kiállítása iránti kérelmen – ha az ügyfél átalányadózást választ, az arra vonatkozó nyilatkozata, hogy mezőgazdasági őstermelői tevékenységből származó bevétele az Szja. tv. által meghatározott felső határt várhatóan nem haladja meg, és tudomása van arról, hogy a törvényi előírás szerint ha bevétele a felső határt meghaladja, akkor tételes költségelszámolást vagy 10 százalék költséghányadot kell alkalmaznia.
 
@@ -66,13 +66,18 @@
 
 ## 9.5. a 9.4. ponthoz kapcsolódóan az arra vonatkozó nyilatkozatokat, hogy az ügyfélnek az erdei melléktermék gyűjtésére írásbeli engedélye van, illetve hogy más őstermelővel közös eszközök működtetésében folyamatosan részt vesz.
 
-## 10. Egyéb, az őstermelés mellett folytatott tevékenység megnevezése (ÖVTJ-kód).
+## 10.[^45] 10.1. Őstermelői tevékenység megnevezése (ÖVTJ-kód);
+
+## 10.2. Egyéb, az őstermelés mellett folytatott tevékenység megnevezése (ÖVTJ-kód).
 
 ## 11. Nyilatkozat az adatok változatlanságáról és az értékesítési betétlapok átvételéről.
 
 ## 12. Kizárólag az őstermelői igazolvány kiállítása iránti kérelmen az ügyfél aláírása és a kérelem dátuma.
 
-2. számú melléklet az 228/1996 (XII. 26.) Korm. rendelethez[^39]
+2. számú melléklet az 228/1996 (XII. 26.) Korm. rendelethez[^46]
 
-[^38]: Az 1. számú melléklet 2. pontja az 51/2013. (II. 25.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^39]: A 2. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 100. § (8) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján rendelkezéseit a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^42]: Az 1. számú melléklet 2. pontja az 51/2013. (II. 25.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^43]: Az 1. számú melléklet 2. pont f) alpontja a 98/2014. (III. 25.) Korm. rendelet 1. § (7) bekezdésével megállapított szöveg.
+[^44]: Az 1. számú melléklet 3. pont c) alpontja a 98/2014. (III. 25.) Korm. rendelet 1. § (7) bekezdésével megállapított szöveg.
+[^45]: Az 1. számú melléklet 10. pontja a 98/2014. (III. 25.) Korm. rendelet 1. § (7) bekezdésével megállapított szöveg.
+[^46]: A 2. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 100. § (8) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján rendelkezéseit a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
