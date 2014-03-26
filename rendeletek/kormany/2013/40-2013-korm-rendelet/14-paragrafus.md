@@ -1,3 +1,7 @@
+## III/A. Fejezet
+
+## AZ ÁLLATOK LEÖLÉSE[^2]
+
 14. § (1) Az állatot úgy kell leölni, hogy az az állat számára a lehető legkevesebb fájdalommal, szenvedéssel és kínnal járjon.
 
 (2) Az állat leölésére csak a tenyésztő, beszállító vagy felhasználó valamely létesítményében kerülhet sor, és azt kizárólag a 35. § (2) bekezdés d) pontjában meghatározott tevékenységhez kötött szakértelemmel rendelkező személy végezheti. Terepvizsgálat során az állatot szakértelemmel rendelkező személy létesítmény területén kívül is leölheti.
@@ -29,3 +33,5 @@ b) amennyiben tudományos indokok alapján egy adott kísérlet célját a 4. me
 (6) Az állatok leölése során törekedni kell arra, hogy az a többi állattól elkülönített módon, az állat kimúlására utaló vizuális, szag- és hangingerek kizárásával történjen.
 
 (7) A (2)–(4) bekezdésekben foglaltakat nem kell alkalmazni, amennyiben az állat leölése állatjóléti, közegészségügyi, közbiztonsági, állat-egészségügyi vagy környezeti szükséghelyzet következtében indokolt.
+
+[^2]: A III/A. Fejezet címét a 98/2014. (III. 25.) Korm. rendelet 14. § (1) bekezdése iktatta be.

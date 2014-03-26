@@ -18,8 +18,15 @@ d) ajánlásokat, irányelveket dolgoz ki;
 
 e) elősegíti a legjobb gyakorlatok megosztását;
 
-f) nemzetközi kapcsolatokat épít, tapasztalatot cserél az Európai Unió országainak hasonló testületeivel.
+f) nemzetközi kapcsolatokat épít, tapasztalatot cserél az Európai Unió országainak hasonló testületeivel;
+
+g)[^12] feladata vizsgálni és értékelni a 35. § szerinti tanfolyamok képzési programjainak az oktatási és képzési minimumkövetelményeknek történő megfelelőségét.
 
 (4) A NÉBIH az ÁTET működéséről évente összefoglalót tesz közzé a honlapján.
 
 (5) Az ÁTET a (3) bekezdés a) pontja szerinti feladatkörében a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti szakértőként jár el.
+
+(6)[^13] Az ÁTET tagja az élettudományokban szerzett felsőfokú diplomával rendelkező személy lehet.
+
+[^12]: Az 50. § (3) bekezdés g) pontját a 98/2014. (III. 25.) Korm. rendelet 14. § (6) bekezdése iktatta be.
+[^13]: Az 50. § (6) bekezdését a 98/2014. (III. 25.) Korm. rendelet 14. § (7) bekezdése iktatta be.

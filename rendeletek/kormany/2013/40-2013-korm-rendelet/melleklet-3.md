@@ -66,7 +66,7 @@
 
 ## e) amennyiben a projektben főemlős faj egyedét tervezik felhasználni, meg kell adnia azokat a tudományos indokokat, melyek alapján kifejezetten a fenti egyedek felhasználása szükséges.
 
-## 5. A projektben alkalmazott összes kísérlet ismertetése, melynek keretében a kérelmezőnek
+## 5. A projektben alkalmazott összes kísérlet számozott felsorolása és ismertetése, melynek keretében a kérelmezőnek
 
 ## a) ismertetnie kell a kísérletben alkalmazott módszereket, kitérve az állaton végzett beavatkozásokra; amennyiben végeznek műtétet a kísérletben, ismertetni kell az alkalmazott érzéstelenítési, gyógyszeres és fájdalomcsillapítási eljárásokat,
 
@@ -100,9 +100,9 @@
 
 ## d) vadon befogott sérült vagy rossz egészségi állapotú állat szenvedésének minimalizálására irányuló intézkedések alól tudományos indokok alapján a 7. § (3) bekezdése szerint;
 
-## e) kísérlet felhasználó létesítményen kívül történő elvégzésére tudományos, állatjóléti vagy állategészségügyi indokok alapján;
+## e)
 
-## f) súlyos besorolású kísérletben felhasznált állat ismételt felhasználására rendkívüli körülmények esetén;
+## f)
 
 ## g) az állat leölésére a 4. mellékletben felsorolt módszerektől eltérő módszerrel a 14. § (5) bekezdés a) és b) pontjában szereplő indokok alapján;
 
@@ -128,7 +128,7 @@
 
 ## III. A kérelem további tartalmi elemei hatályos engedély megújítása esetén:
 
-## Megegyeznek az új engedély megszerzéséhez szükséges elemekkel, kiegészítve annak ismertetésével a II. pont 4. alpontjában, hogy mi tette indokolttá a megújítást és melyek a hatályos engedélyben foglaltakhoz képest megváltozó főbb elemek.
+## Megegyeznek az új engedély megszerzéséhez szükséges, II. fejezet szerinti elemekkel, kiegészítve annak ismertetésével a II. pont 4. alpontjában, hogy mi tette indokolttá a megújítást és melyek a hatályos engedélyben foglaltakhoz képest megváltozó főbb elemek.
 
 ## IV. A kérelem további tartalmi elemei hatályos engedély módosítása esetén:
 
@@ -162,7 +162,7 @@
 
 ## 5. Felhívjuk a kérelmező figyelmét arra, hogy a 40/2013. (II. 14.) Korm. rendelet 47. § (7) bekezdése értelmében a projektengedély módosítását vagy megújítását kell kérelmezni a projektben bekövetkező, az állatok jólétét esetlegesen hátrányosan érintő bármely változás esetén.
 
-3. melléklet a 40/2013. (II. 14.) Korm. rendelethez[^5]
+3. melléklet a 40/2013. (II. 14.) Korm. rendelethez[^20]
 
 ## A létesítményekre, valamint az állatok gondozására és elhelyezésére vonatkozó követelmények, a követelmények állatfajok szerinti lebontása
 
@@ -230,4 +230,4 @@ Makákók (*)
 
 11.
 
-[^5]: A 3. melléklet 1–5. és 7–11. pontja az 52. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^20]: A 3. melléklet 1–5. és 7–11. pontja az 52. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.

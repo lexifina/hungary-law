@@ -16,9 +16,11 @@ c) a kísérletek súlyossági besorolásának értékelését és megállapít�
 
 d) a projekt elemzését ártalom és haszon szempontjából, azaz annak megállapítása, hogy az állatoknak szenvedés, fájdalom vagy félelemformájában okozott ártalmat indokolttá teszi-e a várt eredmény – az etikai megfontolásokat is figyelembe véve –, és végeredményben az emberek, állatok és a környezet javát szolgálhatja-e;
 
-e) a 3–7., 11., 12., 14. és 28. §-ban említett indokolás értékelését; és
+e)[^8] a 3–8., 11., 12., 14., 28. és 29. §-ban, valamint az Ávtv. 30 §-ban említett indokolás értékelését;
 
-f) annak megállapítását – figyelemmel a 46. § (2) és (3) bekezdésére –, hogy szükség van-e a projekt visszamenőleges értékelésére, és ha igen, ennek időpontját.
+f)[^9] annak megállapítását – figyelemmel a 46. § (2) és (3) bekezdésére –, hogy szükség van-e a projekt visszamenőleges értékelésére, és ha igen, ennek időpontját, és
+
+g)[^10] a 45. §-ban meghatározott nem szakmai jellegű összefoglaló megfelelőségének értékelését.
 
 (3) A projektértékelés során különösen a következő szakterületek szempontjait kell figyelembe venni:
 
@@ -33,3 +35,7 @@ d) állattenyésztés és állatgondozás a felhasználni kívánt fajok vonatko
 (4) A projektértékelés folyamatának átláthatónak kell lennie. A projektértékelést a szellemi tulajdon és a bizalmas információk védelmére figyelemmel, részrehajlás nélkül kell végezni, és a független felek véleményét is magában foglalhatja.
 
 (5) A projektértékelés eredményéről az ÁTET a kérelem beérkezésétől számított 35 munkanapon belül értesíti az élelmiszerlánc-biztonsági és állategészségügyi igazgatóságot.
+
+[^8]: A 42. § (2) bekezdés e) pontja a 98/2014. (III. 25.) Korm. rendelet 14. § (4) bekezdésével megállapított szöveg.
+[^9]: A 42. § (2) bekezdés f) pontja a 98/2014. (III. 25.) Korm. rendelet 14. § (4) bekezdésével megállapított szöveg.
+[^10]: A 42. § (2) bekezdés g) pontját a 98/2014. (III. 25.) Korm. rendelet 14. § (5) bekezdése iktatta be.

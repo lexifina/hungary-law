@@ -34,7 +34,7 @@
 
 ## 16. Csak terepen, lövészetben járatos személy által végezhető, abban az esetben, ha más módszerre nincs lehetőség.
 
-5. melléklet a 40/2013. (II. 14.) Korm. rendelethez
+5. melléklet a 40/2013. (II. 14.) Korm. rendelethez[^21]
 
 ## Oktatási és képzési minimumkövetelmények
 
@@ -86,10 +86,12 @@ k) kísérletek és projektek tervezése.
 
 2. Az oktatás időtartama legalább 80 óra, ebből 60 óra elmélet, 20 óra gyakorlat. A gyakorlati oktatásnak az 1. pont c)–h) alpontjai szerinti témákat kell magában foglalnia.
 
-C. Az A. és B. pontok szerinti képzést a Magyar Akkreditációs Bizottság akkreditálja.
+C.
 
 D. A 35. § (2) bekezdés c) pontja szerinti tevékenység folytatásához szükséges elfogadott felsőfokú képesítések listája:
 
-a) mesterképzésnek megfelelő diploma agrár, orvosi, gyógyszerész, állatorvosi, élő természettudományi, biológiai irányultságú műszaki és társadalomtudományi, pszichológiai valamint sport képzési területről, valamint az ezen területekhez tartozó tanári diplomák,
+a) mesterképzésnek megfelelő diploma agrár, orvosi, gyógyszerész, állatorvosi, élő természettudományi, biológiai irányultságú műszaki és társadalomtudományi, pszichológiai valamint sport képzési területről, valamint az ezen területekhez tartozó tanári diplomák, vagy
 
 b) Ph.D. fokozat a fenti tudományterületeken.
+
+[^21]: Az 5. melléklet a 98/2014. (III. 25.) Korm. rendelet 14. § (11) bekezdés f) pontja, (12) bekezdés b) pontja szerint módosított szöveg.
