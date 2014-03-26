@@ -96,6 +96,8 @@ I. Központi finanszírozásúak
 
 |  | 13.2. A közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszternek az EDR irányítását ellátó minisztériumi szervezeti egysége | X |
 
+|  | 14. Nemzeti Élelmiszerlánc-biztonsági Hivatal/NÉBIH VPN | X | 14. 1. Nemzeti Élelmiszerlánc-biztonsági Hivatal | X |
+
 II. Egyedi finanszírozásúak
 
 |  | VPN gazda szervezet | Általános VPN használati szabályzat | Felhasználó | Különös VPN használati szabályzat |
@@ -104,4 +106,4 @@ II. Egyedi finanszírozásúak
 
 |  | 2. EDR – kormányzati célú hírközlési szolgáltató /Pro-M FKB VPN/ | X | 2.1. A 3. melléklet I. és II/1. pontjába nem tartozó, a 17. § szerint a miniszter jóváhagyásával az EDR-hálózathoz – a felhasználói kör bővítése (FKB) keretében – külön megállapodás alapján csatlakozó jogi személy, vagy jogi személyiség nélküli szervezet, amely létfontosságú rendszerelemmé kijelölt eszköz, létesítmény, vagy rendszer rendszerelemének tulajdonosa, engedélyese, rendelkezésre jogosultja vagy ilyen rendszerelem napi működéséért felelős. | X |
 
-[^114]: A 3. melléklet a 169/2013. (V. 29.) Korm. rendelet 31. § (3) bekezdésével megállapított szöveg.
+[^114]: A 3. melléklet a 169/2013. (V. 29.) Korm. rendelet 31. § (3) bekezdésével megállapított, a 98/2014. (III. 25.) Korm. rendelet 10. §-a szerint módosított szöveg.
