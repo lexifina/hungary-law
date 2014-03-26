@@ -1,6 +1,6 @@
-## 10. [^52] A halgazdálkodási hatósági eljárásokban közreműködő szakhatóságok
+## 10. [^60] A halgazdálkodási hatósági eljárásokban közreműködő szakhatóságok
 
-29. § (1)[^53] A Kormány
+29. § (1)[^61] A Kormány
 
 a) a védett természeti területen, Natura 2000 területen található halgazdálkodási vízterületen vagy annak egy részén az őshonos halfajokra meghatározott tilalmi idő megrövidítésére és a tilalmi idő alóli felmentés engedélyezésére irányuló,
 
@@ -22,8 +22,8 @@ i) a védett természeti területen található halgazdálkodási vízterületen
 
 ## másodfokú eljárásban az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőséget természetvédelmi szakhatóságként jelöli ki.
 
-(2)[^54] A Kormány a halgazdálkodási terv jóváhagyására, a jóváhagyott halgazdálkodási terv módosításának jóváhagyására, valamint a halgazdálkodási terv hivatalból történő módosítására irányuló másodfokú eljárásban vízilétesítmény esetén az Országos Vízügyi Hatóságot vízügyi szakhatóságként jelöli ki.
+(2)[^62] A Kormány a halgazdálkodási terv jóváhagyására, a jóváhagyott halgazdálkodási terv módosításának jóváhagyására, valamint a halgazdálkodási terv hivatalból történő módosítására irányuló másodfokú eljárásban vízilétesítmény esetén az Országos Vízügyi Hatóságot vízügyi szakhatóságként jelöli ki.
 
-[^52]: A 10. alcím (29. §) a 323/2013. (VIII. 28.) Korm. rendelet 11. §-ával megállapított szöveg.
-[^53]: A 29. § (1) bekezdés záró szövegrésze a 42/2014. (II. 24.) Korm. rendelet 15. § (3) bekezdés a) pontja szerint módosított szöveg.
-[^54]: A 29. § (2) bekezdése a 42/2014. (II. 24.) Korm. rendelet 15. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^60]: A 10. alcím (29. §) a 323/2013. (VIII. 28.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^61]: A 29. § (1) bekezdés záró szövegrésze a 42/2014. (II. 24.) Korm. rendelet 15. § (3) bekezdés a) pontja szerint módosított szöveg.
+[^62]: A 29. § (2) bekezdése a 42/2014. (II. 24.) Korm. rendelet 15. § (3) bekezdés b) pontja szerint módosított szöveg.

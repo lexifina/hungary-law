@@ -30,13 +30,13 @@ he) az erdei lovaglásra és járműközlekedésre kijelölt utak nyilvántartá
 
 hf) az erdőfelújítási biztosítékok előírásáról, teljesítéséről és felszabadításáról szóló nyilvántartást,
 
-hg)[^24] az erdészeti hatóság által határozattal kiszabott erdőgazdálkodási és erdővédelmi bírságokról szóló nyilvántartást,
+hg)[^27] az erdészeti hatóság által határozattal kiszabott erdőgazdálkodási és erdővédelmi bírságokról szóló nyilvántartást,
 
-hh)[^25] a nemzeti hatáskörben támogatott erdőfelújításhoz, erdőtelepítéshez pénzügyi tételt keletkeztető műveletekről szóló nyilvántartást,
+hh)[^28] a nemzeti hatáskörben támogatott erdőfelújításhoz, erdőtelepítéshez pénzügyi tételt keletkeztető műveletekről szóló nyilvántartást,
 
-hi)[^26] a földalatti gomba gyűjtésére vonatkozó jogszabályban meghatározott feltételeknek megfelelő személyekről, valamint a részükre kiadott tanúsítványról és gyűjtési naplóról szóló nyilvántartást,
+hi)[^29] a földalatti gomba gyűjtésére vonatkozó jogszabályban meghatározott feltételeknek megfelelő személyekről, valamint a részükre kiadott tanúsítványról és gyűjtési naplóról szóló nyilvántartást,
 
-hj)[^27] az Országos Erdőkár Nyilvántartást,
+hj)[^30] az Országos Erdőkár Nyilvántartást,
 
 i) ellátja a NATURA 2000 erdők körzeti erdőtervezésével, felülvizsgálatával kapcsolatos koordinációs és ellenőrzési feladatokat,
 
@@ -58,7 +58,7 @@ b) ismételt vagy súlyos szabálytalanság vagy jogsértő gyakorlat esetén a 
 
 (7) A Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény 20. § (7) bekezdésében foglaltak tekintetében a Kormány erdészeti hatóságként a NÉBIH-et jelöli ki.
 
-[^24]: A 14. § (2) bekezdés h) pont hg) alpontját a 203/2013. (VI. 14.) Korm. rendelet 29. §-a iktatta be.
-[^25]: A 14. § (2) bekezdés h) pont hh) alpontját a 203/2013. (VI. 14.) Korm. rendelet 29. §-a iktatta be.
-[^26]: A 14. § (2) bekezdés h) pont hi) alpontját a 203/2013. (VI. 14.) Korm. rendelet 29. §-a iktatta be.
-[^27]: A 14. § (2) bekezdés h) pont hj) alpontját a 203/2013. (VI. 14.) Korm. rendelet 29. §-a iktatta be.
+[^27]: A 14. § (2) bekezdés h) pont hg) alpontját a 203/2013. (VI. 14.) Korm. rendelet 29. §-a iktatta be.
+[^28]: A 14. § (2) bekezdés h) pont hh) alpontját a 203/2013. (VI. 14.) Korm. rendelet 29. §-a iktatta be.
+[^29]: A 14. § (2) bekezdés h) pont hi) alpontját a 203/2013. (VI. 14.) Korm. rendelet 29. §-a iktatta be.
+[^30]: A 14. § (2) bekezdés h) pont hj) alpontját a 203/2013. (VI. 14.) Korm. rendelet 29. §-a iktatta be.
