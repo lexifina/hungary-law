@@ -1,3 +1,0 @@
-## 2. § Az Ép. r. 7. § (6) bekezdése helyébe a következő rendelkezés lép:
-
-## „(6) A tanár minősítési eljárása esetén a minősítő bizottság egyik tagjának végzettsége és szakképzettsége azonos kell, hogy legyen az értékelt tanárnak a minősítésre való jelentkezésében megjelölt tantárgya tanítására jogosító végzettségével és szakképzettségével. Szakképző iskolában foglalkoztatott pedagógus esetében, ha ez a feltétel nem teljesíthető, a minősítő bizottság egyik tagja olyan személy kell, hogy legyen, aki az Nkt. 98–99. §-ában vagy 3. mellékletében, vagy a szakképzésről szóló 2011. évi CLXXXVII. törvényben meghatározottak szerint taníthatja az értékelt tanárnak a minősítésre való jelentkezésben megjelölt tantárgyát.”
