@@ -10,7 +10,7 @@
 
 ## 6.[^1]
 
-1. melléklet az 1918/2013. (XII. 11.) Korm. határozathoz
+1. melléklet az 1918/2013. (XII. 11.) Korm. határozathoz[^2]
 
 A 2014. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 
@@ -48,7 +48,7 @@ A 2014. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 
 | 15. | A308/14 | CREVAL 2014 NATO ellenőrzések | HVK KIKCSF | Magyarország/ NATO európai tagállam | I–IV. n. é. | 50 |
 
-| 16. | A309/14 | NATO kiképzési rendezvények 2014 (NTG) | HVK KIKCSF | NATO európai tagállam | I–IV. n. é. | 100 |
+| 16. | A309/14 | NATO/EU/EDA felkészítési, kiképzési rendezvények | HVK KIKCSF | EU tagállamok/ NATO európai tagállamok | I–IV. n.é. | 500 |
 
 | 17. | A313/14 | NATO/EU különleges erők rendezvényei 2014 | HVK HDMCSF | NATO európai tagállam | I–IV. n. é. | 50 |
 
@@ -62,7 +62,7 @@ A 2014. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 
 | 22. | B148/14 | SABER JUNCTION 2014 interoperabilitási gyakorlat | MH ÖHP | Németország | III–IV. n. é. | 50 |
 
-| 23. | B161/14 | COBRA 2014 különleges műveleti gyakorlat | MH ÖHP | NATO európai tagállam/ Lengyelország | I–IV. n. é. | 50 |
+| 23. | B161/14 | NOBLE SWORD 2014 különleges műveleti gyakorlat | MH ÖHP | NATO európai tagállam/Lengyelország | I–IV. negyedév | 50 |
 
 | 24. | B177/14 | COMBINED ENDEAVOR 2014 híradó rendszergyakorlat | MH ÖHP | NATO/PfP/ európai tagállam | II–IV. n. é. | 70 |
 
@@ -100,7 +100,7 @@ A 2014. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 
 | 41. | C137/14 | NOBLE ARROW 2014 légierő harcászati gyakorlat | MH ÖHP | Franciaország | I–IV. n. é. | 100 |
 
-| 42. | C145/14 | RAMSTEIN ROVER 2014 repülő harcászati gyakorlat | MH ÖHP | NATO/EU tagállam | I–IV. n. é. | 150 |
+| 42. | C148/14 | Ample Strike 2014 légierő harcászati gyakorlat | MH ÖHP | Csehország | III–IV. n.é. | 100 |
 
 | 43. | C150/14 | TIGER MEET 2014 repülő harcászati gyakorlat | MH ÖHP | Németország | I–IV. n. é. | 150 |
 
@@ -252,6 +252,10 @@ A 2014. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 
 | 47. | T903/14 | VÁRPALOTA CHALLENGE 2014 a holland haderő térítéses gyakorlata a KGYL területén | MH ÖHP | Magyarország | I–IV. n. é. | 3500 |
 
+| 48. | B180/14 | Amerikai–magyar közös gyakorlat | MH ÖHP | EU tagállamok/ NATO európai tagállamok/ Magyarország | II–IV. n.é. | 750 |
+
+| 49. | C153/14 | Pásztázott Légtér 2014 légierő gyakorlat | MH ÖHP | Magyarország | II–IV. n.é. | 150 |
+
 3. A magyar fegyveres erők részvétele nélkül tervezett, külföldi fegyveres erők esetleges átvonulásával járó NATO gyakorlatok és kiképzések
 
 | A gyakorlat megnevezése | A gyakorlat tervezett helye | A gyakorlat tervezett időpontja | Engedélyezett létszám |
@@ -297,3 +301,4 @@ A 2014. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 | 9. | A Pápán települő NATO Stratégiai Légiszállítási tevékenységgel kapcsolatos csapatmozgások | 2014. I–IV. n. é. | egyidejűleg legfeljebb 1000 fő |
 
 [^1]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. melléklet az 1169/2014. (III. 26.) Korm. határozat 1. pontja szerint módosított szöveg.
