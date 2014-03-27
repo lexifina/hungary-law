@@ -1,4 +1,4 @@
-## 1. megállapítja a Környezet és Energia Operatív Program 2011–2013. évekre szóló akciótervének 2. prioritását az 1. melléklet szerint, a 2. prioritáson szükséges többletkötelezettség-vállalás jóváhagyásával,
+## 1.[^1]
 
 ## 2. felhívja a Miniszterelnökséget vezető államtitkárt, hogy gondoskodjon a KEOP-2.4.0/2F/09-11-2013-0001 azonosító számú, „Vörösiszap szennyezés kármentesítése” című nagyprojektnek az Európai Bizottság felé történő elszámolásáról,
 
@@ -32,8 +32,10 @@
 
 ## Határidő: azonnal
 
-## 6.[^1]
+## 6.[^2]
 
-1. melléklet az 1932/2013. (XII. 12.) Korm. határozathoz
+1. melléklet az 1932/2013. (XII. 12.) Korm. határozathoz[^3]
 
-[^1]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pontot az 1184/2014. (III. 27.) Korm. határozat 4. pontja visszavonta.
+[^2]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1. mellékletet az 1184/2014. (III. 27.) Korm. határozat 4. pontja visszavonta.
