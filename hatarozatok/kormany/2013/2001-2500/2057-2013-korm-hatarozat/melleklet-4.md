@@ -1,88 +1,6 @@
-| 1. | I. Prioritás bemutatása: 1. prioritás: Regionális gazdaságfejlesztés |  | Észak-Alföldi Operatív Program |
+| 1. |
 
-|  |  |  |  |  |  |  | Akcióterv 2011-2013 |
-
-| 1. Prioritás tartalma |  |  |  |  |  |  |
-
-| Prioritás rövid tartalma (max. 500 karakter) |  |
-
-| A prioritás támogatást nyújt ipari területek infrastrukturális fejlesztéséhez, kis- és középvállalkozások telephelyfejlesztéséhez. Támogatja a kis- és középvállalkozások együttműködését és a klaszterek kialakítását, a KKV-k számára tanácsadási lehetőséget biztosít. A prioritás hozzájárul a K+F eredmények gyakorlatba való átültetéséhez és támogat kísérleti jellegű fejlesztéseket. |  |
-
-| 2. A prioritás ütemezése – kiírások kerete |  |  |  |
-
-| Indikatív forrásallokáció (Mrd Ft, folyó áron,280 HUF/EUR árfolyamon) |  |  |  |
-
-| 2011 | 2012 | 2013 | Összesen |  |  |  |
-
-| 8,89 | 22,80 | 0,66 | 32,36 |  |  |  |
-
-| Tartalék: 0 Mrd Ft |  |  |  |  |  |
-
-| ESZA tervezett arány a prioritás keretéből max.10 % |  |  |
-
-| 3. A prioritás ütemezése – kötelezettségvállalás (IH döntés) |  |  |
-
-| Indikatív forrásallokáció (Mrd Ft, folyó áron, 280 HUF/EUR árfolyamon) |  |
-
-| 2007-2010 | 2011 | 2012 | 2013 | 2014-2015 | Összesen |  |
-
-| 18,34 | 5,38 | 12,56 | 14,42 | 0,40 | 51,10 |  |
-
-| Konstrukció kódja | Konstrukció neve | Pályázatok, kiemelt projektek meghirdethető kerete (MrdFt) | Konstrukció célja | A konstrukció szakmai tartalmáért felelős miniszter | A konstrukció szakmai tartalma tekintetében feladatkörrel rendelkező további miniszter |
-
-| 2011 | 2012 | 2013 |
-
-| 1.1.1. | A régió vállalkozásai üzleti hátterének fejlesztése | 8,89 | 22,34 | 0,66 | Ipari park címmel rendelkező ipari parkok fejlesztése Inkubátorházak – szolgáltatás-fejlesztéssel egybekötött – építése, bővítése és fejlesztése Barnamezős területek fejlesztése Munkahelyteremtéssel egybekötött telephelyfejlesztés támogatása Széchenyi Tőkealap Kezelő működtetése a helyi foglalkoztatás szempontjából jelentős, de forráshiánnyal küzdő vállalkozások fejlesztésére. | nemzetgazdasági miniszter |  |
-
-| 1.1.2. | Vállalati együttműködések és klaszterek támogatása | A konstrukció 2011-13-ban nem indul. | nemzetgazdasági miniszter |  |
-
-| 1.1.3 | A régió innovációs potenciáljának fejlesztése | 0,00 | 0,46 | 0,00 | A vállalkozás fejlesztését szolgáló alap- és emeltsztintű tanácsadás igénybevételének támogatása KKV-k számára. | nemzetgazdasági miniszter |  |
-
-| 1.1.4. | Vállalati Tanácsadás | 0,00 | 0,00 | 0,00 | A vállalkozás fejlesztését szolgáló alap- és emeltsztintű tanácsadás igénybevételének támogatása KKV-k számára. | nemzetgazdasági miniszter |  |
-
-| 1. Prioritás összesen | 8,89 | 22,80 | 0,66 |  |  |  |
-
-| 2. | I. Prioritás bemutatása: 2. prioritás: Turisztikai célú fejlesztések |  | Észak-Alföldi Operatív Program |
-
-|  |  |  |  |  |  |  | Akcióterv 2011-2013 |
-
-| 1. Prioritás tartalma |  |  |  |  |  |  |
-
-| Prioritás rövid tartalma (max. 500 karakter) |  |
-
-| A prioritás támogatást nyújt az egészségturizmushoz, a természeti és környezeti értékek bemutatását elősegítő öko- és aktív turizmushoz, a kulturális és örökségturizmushoz, és rendezvényturizmushoz kapcsolódó infrastrukturális és szolgáltatás fejlesztésekhez. Támogatja a turisztikai attrakciókhoz illeszkedő szálláshelyek fejlesztését, szolgáltatási körének bővítését, valamint a régió turizmusát szolgáló helyi és térségi desztináció-menedzsment szervezetek létrehozását. |  |
-
-| 2. A prioritás ütemezése – kiírások kerete |  |  |  |
-
-| Indikatív forrásallokáció (Mrd Ft, folyó áron, 280 HUF/EUR árfolyamon) |  |  |  |
-
-| 2011 | 2012 | 2013 | Összesen |  |  |  |
-
-| 2,04 | 35,53 | 0,10 | 37,68 |  |  |  |
-
-| Tartalék: 0 Mrd Ft |  |  |  |  |  |
-
-| ESZA tervezett arány a prioritás keretéből max.10 % |  |  |
-
-| 3. A prioritás ütemezése – kötelezettségvállalás (IH döntés) |  |  |
-
-| Indikatív forrásallokáció (Mrd Ft, folyó áron, 274,3 HUF/EUR árfolyamon) |  |
-
-| 2007-2010 | 2011 | 2012 | 2013 | 2014-2015 | Összesen |  |
-
-| 25,75 | 0,78 | 23,22 | 13,68 | 0,48 | 63,91 |  |
-
-| Konstrukció kódja | Konstrukció neve | Pályázatok, kiemelt projektek meghirdethető kerete (MrdFt) | Konstrukció célja | A konstrukció szakmai tartalmáért felelős miniszter | A konstrukció szakmai tartalma tekintetében feladatkörrel rendelkező további miniszter |
-
-| 2011 | 2012 | 2013 |
-
-| 2.1.1. | Versenyképes turisztikai termék- és attrakciófejlesztés | 2,00 | 30,19 | 0,10 | Turisztikai vonzerők illetve attrakciók létrehozásán, meglevők fejlesztésén, valamint turisztikai szolgáltatások kialakításán és fejlesztésén keresztül a hazai turizmus szektor versenyképességének erősítése, a turizmusból származó jövedelmek növelése és munkahelyek teremtése. | nemzetgazdasági miniszter | emberi erőforrások minisztere |
-
-| 2.1.2. | Szálláshelyek és szolgáltatások minőségi fejlesztése | 0,00 | 5,15 | 0,00 | Üzleti célú szálláshelyek fejlesztésén keresztül a szálláshelyek szolgáltatási színvonalának emelése, kapacitáskihasználtságuk javítása, a szálláshely működéséből származó árbevételek növelése, ezáltal a jövedelemtermelő képesség növelése | nemzetgazdasági miniszter |  |
-
-| 2.1.3. | Desztináció- menedzsment fejlesztés | 0,04 | 0,20 | 0,00 | Helyi és térségi Turisztikai Desztináció Menedzsment szervezetek fejlesztése, ezen keresztül a turizmus versenyképességének növelése | nemzetgazdasági miniszter |  |
-
-| 2. Prioritás összesen | 2,04 | 35,53 | 0,10 |  |  |  |
+| 2. |
 
 | 3. | I. Prioritás bemutatása: 3. prioritás: Közlekedési feltételek javítása |  | Észak-Alföldi Operatív Program |
 
@@ -222,4 +140,6 @@
 
 |  | Akcióterv 2011-2013 ÖSSZESEN (Mrd Ft) | 155,93 |  |  |  |
 
-4. melléklet a 2057/2013. (XII. 31.) Korm. határozathoz
+4. melléklet a 2057/2013. (XII. 31.) Korm. határozathoz[^5]
+
+[^5]: A 4. melléklet az 1183/2014. (III. 27.) Korm. határozat 4. pontja, az 1185/2014. (III. 27.) Korm. határozat 2. pont d) alpontja szerint módosított szöveg.
