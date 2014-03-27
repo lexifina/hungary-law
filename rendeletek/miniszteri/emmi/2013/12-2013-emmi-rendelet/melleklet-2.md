@@ -55,19 +55,3 @@
 | 26 | Szakhatósági állásfoglalás a szakirányú szakképzettség, a felsőfokú végzettség, továbbá más, felsőoktatásban szerzett szakképesítés vagy szakképzés, illetőleg a külföldi végzettségi szintek, szakképesítések és szakképzések elismerése tekintetében | 10 000 Ft | – |
 
 2. melléklet a 12/2013. (II. 12.) EMMI rendelethez
-
-Az államilag elismert nyelvvizsgarendszer működésével kapcsolatos közigazgatási hatósági eljárásokhoz kapcsolódó igazgatási szolgáltatási díjak
-
-|  | A | B | C |
-
-| 1 | Az eljárás megnevezése | A fizetendő igazgatási szolgáltatási díj mértéke |
-
-| 2 | elsőfokú eljárásban | másodfokú eljárásban |
-
-| 3 | Vizsgarendszer akkreditációja legfeljebb két nyelvből | 1 570 000 Ft | 50 000 Ft |
-
-| 4 | Vizsgarendszer bővítése további nyelvvel | 670 000 Ft | 30 000 Ft |
-
-| 5 | Vizsgahely akkreditációja | 390 000 Ft | 30 000 Ft |
-
-| 6 | Külföldi nyelvvizsga-bizonyítvány honosítási eljárása | 10 000 Ft | 10 000 Ft |
