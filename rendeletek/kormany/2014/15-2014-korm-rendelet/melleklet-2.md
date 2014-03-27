@@ -16,6 +16,10 @@
 
 | 7. | Zalaegerszeg labdarúgó sportlétesítmény fejlesztése | Zalaegerszeg Megyei Jogú Város Önkormányzata | Zalaegerszeg közigazgatási területén fekvő, 3013 és 5750/4 helyrajzi számú ingatlan |
 
+| 8. | Kaposvári labdarúgó sportlétesítmény fejlesztése | Kaposvár Megyei Jogú Város Önkormányzata | Kaposvár közigazgatási területén fekvő, 2417/33, 2417/28, 2417/31, 2417/32, 2417/36 és 2417/37 helyrajzi számú ingatlan |
+
+| 9. | Békéscsabai labdarúgó sportlétesítmény fejlesztése | Békéscsaba Megyei Jogú Város Önkormányzata | Békéscsaba közigazgatási területén fekvő, 820 helyrajzi számú ingatlan |
+
 2. melléklet a 15/2014. (I. 30.) Korm. rendelethez
 
 ## Az 1. mellékletben foglalt beruházásokkal összefüggő kiemelt jelentőségű üggyé minősített közigazgatási hatósági ügyek:
