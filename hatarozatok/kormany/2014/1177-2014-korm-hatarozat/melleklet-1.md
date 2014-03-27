@@ -10,6 +10,8 @@
 
 ## Határidő: azonnal
 
-## 5. visszavonja az Elektronikus Közigazgatás Operatív Program 2011–2013. évekre szóló akciótervének módosításáról szóló 1063/2014. (II. 18.) Korm. határozatot.
+## 5.[^1]
 
 1. melléklet az 1177/2014. (III. 26.) Korm. határozathoz
+
+[^1]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
