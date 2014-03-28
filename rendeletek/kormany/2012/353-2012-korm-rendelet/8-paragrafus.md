@@ -12,6 +12,6 @@
 
 (7) Amennyiben a (6) bekezdés szerinti, bejelentési kötelezettség alá tartozó támogatás vonatkozásában a Bizottság a közösségi eljárási rendelet alapján elrendeli a támogatás visszafizetését, a miniszter kezdeményezésére a támogatást nyújtó szerv köteles a támogatás visszafizetését a visszafizettetési kamatláb alapján megnövelt összegben elrendelni.
 
-(8)[^5] Horizontális, a nemzetgazdaság több ágazatára kiterjedő és e rendelet hatálya alá tartozó agrár állami támogatást is tartalmazó, 11. § (1) bekezdés c) pontja, valamint 13. § (1) bekezdése szerinti támogatási tervezet Bizottság részére – elektronikus interaktív felületen (a továbbiakban: SANI rendszerben) kitöltött formanyomtatványok alapján – történő bejelentésére jogosult szerv a miniszter és a Kormány európai uniós források felhasználásáért felelős tagjának előzetes egyeztetése alapján kerül kijelölésre.
+(8)[^8] Horizontális, a nemzetgazdaság több ágazatára kiterjedő és e rendelet hatálya alá tartozó agrár állami támogatást is tartalmazó, 11. § (1) bekezdés c) pontja, valamint 13. § (1) bekezdése szerinti támogatási tervezet Bizottság részére – elektronikus interaktív felületen (a továbbiakban: SANI rendszerben) kitöltött formanyomtatványok alapján – történő bejelentésére jogosult szerv a miniszter és a Kormány európai uniós források felhasználásáért felelős tagjának előzetes egyeztetése alapján kerül kijelölésre.
 
-[^5]: A 8. § (8) bekezdése az 550/2013. (XII. 30.) Korm. rendelet 95. §-ával megállapított szöveg.
+[^8]: A 8. § (8) bekezdése az 550/2013. (XII. 30.) Korm. rendelet 95. §-ával megállapított szöveg.
