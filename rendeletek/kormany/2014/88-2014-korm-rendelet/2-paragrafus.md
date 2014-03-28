@@ -1,0 +1,3 @@
+## 1. § A civil szervezetek gazdálkodása, az adománygyűjtés és a közhasznúság egyes kérdéseiről szóló 350/2011. (XII. 30.) Korm. rendelet (a továbbiakban: R.) 12. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) A civil szervezet és a civil szervezet jogi személyiséggel rendelkező szervezeti egysége az Ectv. 29. § (3) bekezdésében meghatározott, a közhasznú szervezet, valamint a közhasznú szervezet jogi személyiséggel rendelkező szervezeti egysége pedig az Ectv. 46. § (1) bekezdésében meghatározott – a beszámoló jóváhagyásával egyidejűleg elkészített – közhasznúsági mellékletét az e rendelet Mellékletének megfelelő, erre a célra rendszeresített formanyomtatványon készíti el.”
