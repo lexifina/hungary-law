@@ -1,6 +1,6 @@
-14. §[^6]
+14. §[^7]
 
-Melléklet a 350/2011. (XII. 30.) Korm. rendelethez[^7]
+Melléklet a 350/2011. (XII. 30.) Korm. rendelethez[^8]
 
 Közhasznúsági melléklet – minta –
 
@@ -30,9 +30,7 @@ Közhasznúsági melléklet – minta –
 
 | a közhasznú tevékenység főbb eredményei: |
 
-| 4. Közhasznú tevékenység érdekében felhasznált vagyon kimutatása |
-
-| Felhasznált vagyonelem megnevezése | Vagyonelem értéke* | Felhasználás célja |
+| 4. |
 
 | 5. Cél szerinti juttatások kimutatása |
 
@@ -90,5 +88,5 @@ Közhasznúsági melléklet – minta –
 
 * Adatok ezer forintban.
 
-[^6]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^7]: A melléklet a 142/2012. (VII. 3.) Korm. rendelet 10. § (4) bekezdésével megállapított szöveg.
+[^7]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A melléklet a 142/2012. (VII. 3.) Korm. rendelet 10. § (4) bekezdésével megállapított, a 88/2014. (III. 20.) Korm. rendelet 2. §-a szerint módosított szöveg.
