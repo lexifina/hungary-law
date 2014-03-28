@@ -16,7 +16,7 @@
 
 ## Határidő: folyamatos
 
-## 4. visszavonja a regionális operatív programok 2011–2013. évekre szóló akcióterveinek módosításáról és a Nyugat-Dunántúli Operatív Program 5. prioritás keretének növeléséről szóló 2057/2013. (XII. 31.) Korm. határozat 4. mellékletének 2. prioritására vonatkozó részét.
+## 4.[^1]
 
 1. melléklet az 1183/2014. (III. 27.) Korm. határozathoz
 
@@ -63,3 +63,5 @@
 | 2.3.1. | Turisztikai Desztináció Menedzsment fejlesztése | 0,22 | 0,34 | 0,06 | Helyi és térségi Turisztikai Desztináció Menedzsment szervezetek fejlesztése, ezen keresztül a turizmus versenyképességének növelése. | nemzetgazda- sági miniszter |  |
 
 | 2. Prioritás összesen | 3,98 | 30,45 | 2,26 |  |  |  |
+
+[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
