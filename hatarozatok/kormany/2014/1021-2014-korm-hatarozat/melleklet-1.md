@@ -14,7 +14,7 @@
 
 ## a c) alpont tekintetében: 2014. február 28.
 
-1. melléklet az 1021/2014. (I. 24.) Korm. határozathoz
+1. melléklet az 1021/2014. (I. 24.) Korm. határozathoz[^2]
 
 |  | A | B | C | D | E | F | G |
 
@@ -22,7 +22,7 @@
 
 | 2. | DAOP-2.1.1/G-11-k2-2012-0004 | Baja fesztivál-város turisztikai háttér infrastruktúrájának komplex fejlesztése | Baja Város Önkormányzat | 2012. november 30. | 1 978 226 785 | 1 943 138 551 | 210 939 935 |
 
-| 3. | DAOP-2.1.1/G-13-2013-0001 | Kalocsa Szíve Program | Kalocsa Város Önkormányzata | 2013. szeptember 30. | 1 999 933 400 | 1 999 933 400 | 180 000 000 |
+| 3. |  |  |  |  |  |  |  |
 
 | 4. | DDOP-2.1.1/E.F-12-k2-2012-0002 | Mecseki ökoturisztikai élménypark kialakítása a pécsi állatkert funkcióbővítő fejlesztésével és a kerékpár-turisztikai infrastruktúra fejlesztésével | Pécs Megyei Jogú Város Önkormányzata | 2012. november 30. | 1 145 385 463 | 1 145 385 463 | 70 000 000 |
 
@@ -45,3 +45,5 @@
 | 13. | NYDOP-2.1.1/A.B-12-k-2012-0002 | Apátsági Major Látogatóközpont – Az első magyar Regionális Kiállítótér (Landesaustellung-helyszín) | Magyar Bencés Kongregáció Pannonhalmi Főapátság | 2012. október 31. | 1 403 093 633 | 1 403 093 633 | 197 621 000 |
 
 | 14. | NYDOP-2.1.1/A.B-12-k-2012-0004 | Hétköznapok és ünnepek egy hercegi kastélyban – A keszthelyi Festetics-kastély évszázadai | Helikon Kastélymúzeum Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 2012. október 31. | 1 819 666 367 | 1 819 666 367 | 26 300 000 |
+
+[^2]: Az 1. melléklet az 1190/2014. (III. 28.) Korm. rendelet 3. pontja szerint módosított szöveg.
