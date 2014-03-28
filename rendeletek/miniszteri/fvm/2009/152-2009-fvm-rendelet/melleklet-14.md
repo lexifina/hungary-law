@@ -26,7 +26,7 @@
 
 ## –  Tehéntejből gyártott termék esetén nem kötelező a tehéntejre utalás. Amennyiben utalás történik, akkor elegendő a „tej” szó használata.
 
-## –  Nem tehéntejből gyártott termék esetén a megnevezésben utalni kell a felhasznált tejféleségre (pl. „ízesített tejkészítmény kecsketejből”), ha a tejösszetevő kizárólagosan a jelölt állatfaj tejéből származik. Ettől a szabálytól a B részben meghatározott kivételek esetében el lehet térni.
+## – Nem tehéntejből gyártott termék esetén a megnevezésben utalni kell a felhasznált tejféleségre (például „ízesített tejkészítmény kecsketejből”). Kevert tejből (különféle tejelő állatoktól származó tejből, illetve tejtermékből) készített termék esetén az állatfaj neve kizárólag akkor tüntethető fel a termék megnevezésében, ha az egyszerű termékhányad legalább 70%-a a megnevezett állatfaj tejéből származik. Az állatfaj nevének feltüntetése esetén a kevert alapanyagra való utalást a megnevezésben szintén fel kell tüntetni (pl. „juhgomolya kevert tejből”).
 
 ## –  Kevert alapanyagból (különféle tejelő állatoktól származó tejből, illetve tejtermékből) gyártott termékek esetén a megnevezésben ezt fel kell tüntetni (pl. „zsíros, félkemény sajt kevert tejből”).
 
@@ -574,7 +574,7 @@
 
 ## 5.1.1.2. Tejszínsajtok, érlelés nélküli friss sajtok
 
-## A friss sajtok ezen egyik alcsoportját a nagy zsírtartalmú, mikrobiológiai savas és azt kiegészítő oltós (vegyes) alvasztással gyártott tejszínsajtok képezik. A friss sajtok másik nagy alcsoportját a különböző zsírtartalommal és állománnyal (pl. krémes, habos stb.), kizárólag mikrobiológiai savas vagy azt kiegészítő oltós (vegyes) alvasztással gyártott termékek képezik. Az érlelés nélküli friss sajtok kombinálhatók tejszínes (pl. Cottage cheese) vagy tejfölös (Tejfölös túró) öntettel. A termékcsoporthoz tartoznak a vegyes alvasztással készített gomolyafélék is. A juhgomolyában a juhtej eredetű termékhányadnak legalább 70% (m/m)-nek kell lennie.
+## A friss sajtok ezen egyik alcsoportját a nagy zsírtartalmú, mikrobiológiai savas és azt kiegészítő oltós (vegyes) alvasztással gyártott tejszínsajtok képezik. A friss sajtok másik nagy alcsoportját a különböző zsírtartalommal és állománnyal (pl. krémes, habos stb.), kizárólag mikrobiológiai savas vagy azt kiegészítő oltós (vegyes) alvasztással gyártott termékek képezik. Az érlelés nélküli friss sajtok kombinálhatók tejszínes (pl. Cottage cheese) vagy tejfölös (Tejfölös túró) öntettel. A termékcsoporthoz tartoznak a vegyes alvasztással készített gomolyafélék is.
 
 ## 5.1.2. Túrósajtok
 
@@ -658,7 +658,7 @@
 
 ## 6.1.1. Natúr sajtkészítmények
 
-## Savas és/vagy oltós alvasztású sajtokból, esetleg más tejeredetű termékek hozzáadásával készülnek (pl. gomolyatúró, vajas márványsajt). A juh- vagy a kecsketejből készült termékekben a juh- vagy a kecsketej eredetű termékhányad legalább 70% (m/m) legyen.
+## Savas és/vagy oltós alvasztású sajtokból, esetleg más tejeredetű termékek hozzáadásával készülnek (pl. gomolyatúró, vajas márványsajt).
 
 ## 6.1.2. Ízesített sajtkészítmények
 
@@ -802,7 +802,7 @@
 
 ## Fel kell tüntetni a termék 7.3. pont szerinti zsírfokozatát és állományát, továbbá a szárazanyagra vonatkoztatott zsírtartalmát 5%-ban, vagy annak egészszámú többszöröseként (ez az érték mindig az az 5%, illetve többszöröse legyen, amely közvetlenül a valós érték alatt van, azaz: valós érték: 47%, feltüntetendő érték: 45%), és/vagy tényleges zsírtartalmát tömegszázalékban. A 7.1.2., valamint a 7.1.3. pont szerint többféle sajtból előállított ömlesztett sajtok esetén utalni lehet a termék jellegzetes ízét adó sajttípus nevére. A 100 °C feletti hőmérsékleten végzett ömlesztést a termék csomagolásán csak akkor kell feltüntetni, ha a hőkezelés steril terméket eredményez.
 
-14. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^42]
+14. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^43]
 
 ## A Magyar Élelmiszerkönyv 1-2-2009/32 számú előírása az élelmiszerek előállítása során felhasználható extrakciós oldószerekről
 
@@ -900,4 +900,4 @@ II. Olyan extrakciós oldószerek, amelyekre felhasználási feltételeket hatá
 
 III. Olyan extrakciós oldószerek, amelyekre felhasználási feltételeket határoztak meg
 
-[^42]: A 14. mellékletet a 37/2010. (IV. 13.) FVM rendelet 5. § (1) bekezdése iktatta be, szövege a 77/2011. (VIII. 3.) VM rendelet 2. § (4) bekezdése szerint módosított szöveg.
+[^43]: A 14. mellékletet a 37/2010. (IV. 13.) FVM rendelet 5. § (1) bekezdése iktatta be, szövege a 77/2011. (VIII. 3.) VM rendelet 2. § (4) bekezdése szerint módosított szöveg.

@@ -20,6 +20,6 @@
 
 ## 2. Az 1. pontban megengedett eltéréseket nem befolyásolhatják az alkoholtartalom meghatározására használt vizsgálati módszerek megengedett eltérései.
 
-3–5. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^36]
+3–5. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^37]
 
-[^36]: A 3–5. mellékletet az 50/2013. (VI. 17.) VM rendelet 3. § c) pontja hatályon kívül helyezte.
+[^37]: A 3–5. mellékletet az 50/2013. (VI. 17.) VM rendelet 3. § c) pontja hatályon kívül helyezte.

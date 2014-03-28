@@ -12,12 +12,17 @@
 
 (7)[^16] A mezőgazdasági piacok közös szervezésének létrehozásáról, valamint egyes mezőgazdasági termékekre vonatkozó egyedi rendelkezésekről („az egységes közös piacszervezésről szóló rendelet”) szóló, 2007. október 22-i 1234/2007/EK tanácsi rendelethez az európai Unió Hivatalos Lapjában 2010. március 12-én megjelent helyesbítés szerinti „sovány (fölözött) tej”, illetve „zsírszegény tej” megjelölésnek nem megfelelő, de a helyesbítést megelőzően ezen tanácsi rendelet „fölözött tej”, illetve „félzsíros tej”megjelölésének megfelelő jelöléssel előállított csomagoló anyagok 2011. október 31-ig felhasználhatóak.
 
-(8)[^17]
+(8)[^17] A 13. melléklet A rész II. pont 5. a) alpont második franciabekezdésének a Magyar Élelmiszerkönyv kötelező előírásairól szóló 152/2009. (XI. 12.) FVM rendelet módosításáról szóló 24/2014. (III. 25.) VM rendelet (a továbbiakban: MódR.) hatálybalépését[^18] megelőző rendelkezésének megfelelő
 
-(9)[^18]
+a) jelöléssel ellátott termékek a MódR. hatálybalépésétől számított egy évig forgalmazhatóak,
+
+b) csomagolóeszközök és címkék a MódR. hatálybalépésétől számított egy évig felhasználhatóak.
+
+(9)[^19]
 
 [^14]: A 2. § (2) bekezdését a (9) bekezdés a) pontja hatályon kívül helyezte, újonnan a 37/2010. (IV. 13.) FVM rendelet 2. § (1) bekezdése iktatta be.
 [^15]: A 2. § (5) bekezdését a (9) bekezdés b) pontja hatályon kívül helyezte, újonnan a 26/2011. (IV. 7.) VM rendelet 2. §-a iktatta be.
 [^16]: A 2. § (7) bekezdését a (9) bekezdés c) pontja hatályon kívül helyezte, újonnan a 37/2010. (IV. 13.) FVM rendelet 2. § (2) bekezdése iktatta be.
-[^17]: A 2. § (8) bekezdését a (9) bekezdés d) pontja hatályon kívül helyezte.
-[^18]: A 2. § (9) bekezdése ugyanezen bekezdés e) pontja alapján hatályát vesztette.
+[^17]: A 2. § (8) bekezdését a (9) bekezdés d) pontja hatályon kívül helyezte, újonnan a 24/2014. (III. 25.) VM rendelet 1. §-a iktatta be.
+[^18]: A hatálybalépés időpontja 2014. március 28.
+[^19]: A 2. § (9) bekezdése ugyanezen bekezdés e) pontja alapján hatályát vesztette.

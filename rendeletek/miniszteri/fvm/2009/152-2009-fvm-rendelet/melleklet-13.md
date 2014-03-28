@@ -756,6 +756,6 @@
 
 ## Ízesített termék esetén az ízesítésre a termék megnevezésében utalni kell, pl. Tokaji aszús libamájblokk; Libamájblokk szarvasgombával
 
-13. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^41]
+13. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^42]
 
-[^41]: A 13. mellékletet a 37/2010. (IV. 13.) FVM rendelet 5. § (1) bekezdése iktatta be.
+[^42]: A 13. mellékletet a 37/2010. (IV. 13.) FVM rendelet 5. § (1) bekezdése iktatta be, szövege a 24/2014. (III. 25.) VM rendelet 2–3. §-a szerint módosított szöveg.
