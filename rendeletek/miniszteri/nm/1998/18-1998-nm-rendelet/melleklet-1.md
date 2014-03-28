@@ -1,4 +1,4 @@
-1. számú melléklet a 18/1998. (VI. 3.) NM rendelethez[^180]
+1. számú melléklet a 18/1998. (VI. 3.) NM rendelethez[^176]
 
 | Acut flaccid paralysis |
 
@@ -2384,4 +2384,4 @@
 
 | 3.6. A terjesztő közeg felderítése: | Nem szükséges. |
 
-[^180]: Az 1. melléklet a 21/2012. (IV. 4.) NEFMI rendelet 24. § (1) bekezdésével megállapított, a 11/2013. (II. 7.) EMMI rendelet 8. § b) pontja, a 29/2013. (IV. 26.) EMMI rendelet 2. §-a szerint módosított szöveg.
+[^176]: Az 1. melléklet a 21/2012. (IV. 4.) NEFMI rendelet 24. § (1) bekezdésével megállapított, a 11/2013. (II. 7.) EMMI rendelet 8. § b) pontja, a 29/2013. (IV. 26.) EMMI rendelet 2. §-a szerint módosított szöveg.

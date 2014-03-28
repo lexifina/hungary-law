@@ -1,4 +1,4 @@
-19. §[^99] (1) A tbc-baktériummal fertőzött gümőkóros betegek felkutatása, illetve a további fertőzés veszélyének elhárítása céljából az alábbi rizikócsoportokba tartozó személyek évente egy alkalommal tüdőszűrő vizsgálaton kötelesek részt venni:
+19. §[^95] (1) A tbc-baktériummal fertőzött gümőkóros betegek felkutatása, illetve a további fertőzés veszélyének elhárítása céljából az alábbi rizikócsoportokba tartozó személyek évente egy alkalommal tüdőszűrő vizsgálaton kötelesek részt venni:
 
 a) a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény (a továbbiakban: Sztv.) 4. § (3) bekezdése szerinti hajléktalanok;
 
@@ -44,4 +44,4 @@ b) az 1. számú melléklet Tuberculosis című részében foglaltak szerint kon
 
 (10) A jegyző a tüdőszűrő-vizsgálat elvégzésével kapcsolatos ügyviteli és technikai feladatok ellátásának megszervezéséről a járási népegészségügyi intézet megkeresésére gondoskodik.
 
-[^99]: A 19. § a 29/2013. (IV. 26.) EMMI rendelet 1. §-ával megállapított szöveg.
+[^95]: A 19. § a 29/2013. (IV. 26.) EMMI rendelet 1. §-ával megállapított szöveg.
