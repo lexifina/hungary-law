@@ -2,6 +2,6 @@
 
 (2) Az előirányzat felhasználása közvetlen kifizetéssel történik.
 
-(3)[^8] Az előirányzat kezelő szerve a HM VGH.
+(3)[^19] Az előirányzat kezelő szerve a HM VGH.
 
-[^8]: A 22. § (3) bekezdése a 23/2013. (X. 17.) HM rendelet 3. § b) pontja szerint módosított szöveg.
+[^19]: A 22. § (3) bekezdése a 23/2013. (X. 17.) HM rendelet 3. § b) pontja szerint módosított szöveg.

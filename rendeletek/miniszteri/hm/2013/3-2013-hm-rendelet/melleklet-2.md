@@ -2,9 +2,9 @@
 
 ## Pályázat (pontos cím meghatározás)
 
-## I. Pályázó adatai
+## I. A pályázó adatai
 
-## II. Pályázat bemutatása
+## II. A pályázat bemutatása
 
 ## III. Költségvetés
 
@@ -14,9 +14,9 @@
 
 ## 1. sz.: Hiteles másolat a pályázó bírósági nyilvántartásba vételéről
 
-## 2. sz.: A pályázó képviseletére jogosult személy aláírási címpéldányának közjegyzővel hitelesített másolata
+## 2. sz.: A pályázó képviseletére jogosult személy közjegyző által hitelesített aláírási címpéldányának vagy ügyvéd által ellenjegyzett aláírás-mintájának hiteles másolata.
 
-## 3. sz.: Saját forrás pályázati kiírásban történő előírása esetén, a pályázó számlavezető pénzintézetének nyilatkozata a pályázó fizetőképességéről
+## 3. sz.: Saját forrás pályázati kiírásban történő előírása esetén a pályázó számlavezető pénzintézetének nyilatkozata a pályázó fizetőképességéről
 
 ## 4. sz.: Nyilatkozat
 
@@ -26,7 +26,7 @@
 
 | székhelye |  |
 
-| postai címe |  |
+| postacíme |  |
 
 | telefonszáma |  |
 
@@ -72,33 +72,7 @@
 
 ## II. A PÁLYÁZAT BEMUTATÁSA
 
-| 1. A pályázat címe (max. 60 karakter) |  |
-
-| 2. Kategória |  |
-
-| 3. A megjelölt programon való részvétel terjesztésének módja |  |
-
-| 4. A pályázat rövid leírása |  |
-
-| 5. A pályázat célcsoportja(i) és annak nagysága | célcsoport 1 |  |
-
-| – nagysága (fő) |  |
-
-| célcsoport 2 |  |
-
-| – nagysága (fő) |  |
-
-| célcsoport 3 |  |
-
-| – nagysága (fő) |  |
-
-| 6. Pályázati program szükségességének indoklása |  |
-
-| 7. Melyek a pályázat hosszú távú hatásai? |  |
-
-| 8. Megvalósítás időtartama | ...... év ............... hó ...... napjától |
-
-| ...... év .................. hó ...... napjáig |
+## (A pályázati kiírásban meghatározottak szerint.)
 
 ## III. KÖLTSÉGVETÉS
 
@@ -112,7 +86,7 @@
 
 ## d) a költségvetési támogatásból elszámolható költségek tételes felsorolását a c) pont szerinti csoportosításban.
 
-## A pályázó által benyújtott pályázat költségvetésére vonatkozó részének a pályázati kiírásban rögzített formán túlmenően tartalmaznia kell az Ávr. 67. § (1) bekezdésében meghatározottakat is.
+## A pályázó által benyújtott pályázat költségvetésére vonatkozó részének a pályázati kiírásban rögzített formán túlmenően tartalmaznia kell az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 67. § (1) bekezdésében meghatározottakat is.
 
 ## IV. MELLÉKLETEK
 
@@ -130,9 +104,11 @@
 
 ## 6. A pályázati kiírást és útmutatót ismerem, a pályázat az abban foglaltak figyelembevételével készült.
 
-| 20... .................. hó ...... nap |
+## 20... .................................. hó .............. nap
 
-| ................................................... cégszerű aláírás |
+## ...................................................
+
+## cégszerű aláírás
 
 2. melléklet a 3/2013. (VI. 11.) HM rendelethez
 
