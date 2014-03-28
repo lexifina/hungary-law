@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-263-20-
 | 2012-07-28 | 2010-263-20-22.6 | 208/2012. (VII. 27.) Korm. rendelet |
 | 2013-07-20 | 2010-263-20-22.7 | 255/2013. (VII. 5.) Korm. rendelet |
 | 2014-03-21 | 2010-263-20-22.8 | 91/2014. (III. 20.) Korm. rendelet |
+| 2014-03-28 | 2010-263-20-22.9 | 208/2012. (VII. 27.) Korm. rendelet |
