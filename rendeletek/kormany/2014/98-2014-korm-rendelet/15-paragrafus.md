@@ -1,4 +1,4 @@
-## 14. §[^17]
+## 14. §[^16]
 
 ## 15. A Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara által működtetett
 
@@ -6,4 +6,4 @@
 
 ## 525/2013. (XII. 30.) Korm. rendelet módosítása
 
-[^17]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
