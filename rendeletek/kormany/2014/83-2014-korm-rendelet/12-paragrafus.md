@@ -1,0 +1,5 @@
+12. § (1) A nagyvízi meder jogellenes használata, hasznosítása esetén a védekezésért felelős kezdeményezi a vízügyi hatóságnál a jogszerű állapot helyreállítására irányuló eljárás megindítását. Jogellenes használatnak, hasznosításnak minősül különösen, ha a vízszállító képesség a használati korlátozások be nem tartása, illetve a vízszállító képesség figyelembevételével meghatározott művelési módtól eltérő használat miatt csökken.
+
+(2) A vízügyi hatóság az (1) bekezdésben meghatározottak alapján kötelezi az ingatlan tulajdonosát, illetve egyéb jogcímen használóját a jogszabályoknak megfelelő állapot helyreállítására és folyamatos fenntartására, vagy megkeresi a hatáskörrel és illetékességgel rendelkező hatóságot a szükséges intézkedések megtétele érdekében.
+
+(3) Ha az érintett a (2) bekezdésben meghatározott hatóság határozatában foglalt kötelezésnek az ott előírt határidőn belül nem tesz eleget, a szükséges munkálatok elvégzéséről a hatóság a védekezésért felelős bevonásával gondoskodik. Az így elvégzett munkák költségeit az érintett köteles viselni.
