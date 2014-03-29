@@ -1,3 +1,0 @@
-4. § (1) A parti sáv jogellenes használata, hasznosítása, különösen a meder és a part állagát, illetve a mederfenntartási munkák elvégzését akadályozó tevékenység vagy állapot esetén az ingatlan használója – a fenntartó felhívására – köteles a jogellenes állapotot megszüntetni, és a jogszabálynak megfelelő állapotot fenntartani.
-
-(2) Amennyiben az ingatlan használója a fenntartó felhívásának – arra megállapított megfelelő időtartamon belül – nem tesz eleget, a fenntartó a jogellenes tevékenység, illetve a jogellenesen létesített építmény szerint hatáskörrel rendelkező és területileg illetékes hatóság megkeresésével kéri a vízgazdálkodási szempontból káros állapot megszüntetésére irányuló eljárás megindítását.
