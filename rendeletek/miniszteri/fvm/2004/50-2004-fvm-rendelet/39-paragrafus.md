@@ -22,9 +22,11 @@ f) a Bizottság 2006/124/EK irányelve (2006. december 5.) a vetőmagokon kívü
 
 g)[^200] A Bizottság 2009/74/EK irányelve (2009. június 26.) a 66/401/EGK, 66/402/EGK, 2002/55/EK, 2002/57/EK tanácsi irányelvnek a növények botanikai neve és egyéb szervezetek tudományos neve tekintetében, továbbá a 66/401/EGK, 66/402/EGK és 2002/57/EK irányelv bizonyos mellékleteinek a tudományos és technikai ismeretek fejlődésének figyelembevételével történő módosításáról,
 
-h)[^201] a Bizottság 2011/180/EU határozata (2011. március 23.) a 2002/55/EK tanácsi irányelvnek az ugyanazon zöldségfajok különféle fajtáihoz tartozó standard vetőmagok keverékei kis kiszerelésben történő forgalomba hozatala engedélyezésének feltételei tekintetében történő végrehajtásáról.
+h)[^201] a Bizottság 2011/180/EU határozata (2011. március 23.) a 2002/55/EK tanácsi irányelvnek az ugyanazon zöldségfajok különféle fajtáihoz tartozó standard vetőmagok keverékei kis kiszerelésben történő forgalomba hozatala engedélyezésének feltételei tekintetében történő végrehajtásáról,
 
-(3)[^202] E rendelet a minimális csírázásra vonatkozó követelményeket nem teljesítő szaporítóanyagok forgalmazásának ideiglenes engedélyezésére a tagállamoknak adott felhatalmazás tekintetében a 66/401/EGK, 66/402/EGK, 2002/54/EK, 2002/55/EK és 2002/57/EK tanácsi irányelv alkalmazása szabályainak megállapításáról szóló, 2006. február 8-i 217/2006/EK bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
+i)[^202] a Bizottság 2013/45/EU végrehajtási irányelve (2013. augusztus 7.) a 2002/55/EK és a 2008/72/EK tanácsi irányelveknek és a 2009/145/EK bizottsági irányelvnek a paradicsom botanikai nevének tekintetében történő módosításáról.
+
+(3)[^203] E rendelet a minimális csírázásra vonatkozó követelményeket nem teljesítő szaporítóanyagok forgalmazásának ideiglenes engedélyezésére a tagállamoknak adott felhatalmazás tekintetében a 66/401/EGK, 66/402/EGK, 2002/54/EK, 2002/55/EK és 2002/57/EK tanácsi irányelv alkalmazása szabályainak megállapításáról szóló, 2006. február 8-i 217/2006/EK bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
 
 [^195]: A 39. § (1a) bekezdését az 1/2012. (I. 20.) VM rendelet 4. § (1) bekezdése iktatta be.
 [^196]: A hatálybalépés napja: 2012. január 21.
@@ -33,4 +35,5 @@ h)[^201] a Bizottság 2011/180/EU határozata (2011. március 23.) a 2002/55/EK 
 [^199]: A 39. § (2) bekezdése a 124/2007. (X. 20.) FVM rendelet 17. §-ával megállapított szöveg.
 [^200]: A 39. § (2) bekezdés g) pontját a 14/2011. (II. 24.) VM rendelet 15. §-a iktatta be.
 [^201]: A 39. § (2) bekezdés h) pontját a 81/2013. (IX. 13.) VM rendelet 5. § (2) bekezdése iktatta be.
-[^202]: A 39. § (3) bekezdését a 70/2006. (IX. 27.) FVM rendelet 8. §-a iktatta be, ugyanezen szöveggel újonnan beiktatta a 124/2007. (X. 20.) FVM rendelet 17. §-a.
+[^202]: A 39. § (2) bekezdés i) pontját a 27/2014. (III. 26.) VM rendelet 1. § (1) bekezdése iktatta be.
+[^203]: A 39. § (3) bekezdését a 70/2006. (IX. 27.) FVM rendelet 8. §-a iktatta be, ugyanezen szöveggel újonnan beiktatta a 124/2007. (X. 20.) FVM rendelet 17. §-a.

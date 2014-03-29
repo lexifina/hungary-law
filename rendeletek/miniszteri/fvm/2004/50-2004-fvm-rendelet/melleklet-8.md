@@ -1,4 +1,4 @@
-8. számú melléklet az 50/2004. (IV. 22.) FVM rendelethez[^209]
+8. számú melléklet az 50/2004. (IV. 22.) FVM rendelethez[^210]
 
 ## A zöldségvetőmag minták tömege
 
@@ -66,7 +66,7 @@ A vetőmag megengedett legnagyobb árutételének tömege nem léphető túl 5%-
 
 | Lactuca sativa | 10 |  |
 
-| Lycopersicon esculentum | 20 |  |
+| Solanum Lycopersicum L. | 20 |  |
 
 | Petroselinum crispum | 10 |  |
 
@@ -94,4 +94,4 @@ A vetőmag megengedett legnagyobb árutételének tömege nem léphető túl 5%-
 
 A fenti fajok F-1 hibrid fajtái esetében a minta előírt legkisebb tömege a megadott tömeg negyedére csökkenthető. A minta tömege azonban legalább 5 g kell legyen és legalább 400 vetőmagból kell álljon.
 
-[^209]: A 8. számú melléklet a 124/2007. (X. 20.) FVM rendelet 18. § (6) bekezdése, a 14/2011. (II. 24.) VM rendelet 16. § (2) bekezdése szerint módosított szöveg.
+[^210]: A 8. számú melléklet a 124/2007. (X. 20.) FVM rendelet 18. § (6) bekezdése, a 14/2011. (II. 24.) VM rendelet 16. § (2) bekezdése, a 27/2014. (III. 26.) VM rendelet 1. § (2) bekezdése szerint módosított szöveg.

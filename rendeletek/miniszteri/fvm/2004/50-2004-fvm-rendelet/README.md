@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-50-20-8
 | 2013-09-14 | 2004-50-20-82.11 | 81/2013. (IX. 13.) VM rendelet |
 | 2014-03-13 | 2004-50-20-82.12 | 19/2014. (III. 12.) VM rendelet |
 | 2014-03-15 | 2004-50-20-82.13 | 22/2014. (III. 14.) VM rendelet |
+| 2014-03-29 | 2004-50-20-82.14 | 14/2011. (II. 24.) VM rendelet |

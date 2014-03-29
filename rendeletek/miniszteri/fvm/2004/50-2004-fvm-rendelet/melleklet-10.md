@@ -46,12 +46,12 @@
 
 | Lactuca sativa | Rovarok, atkák és fonalférgek fejlődésük valamennyi szakaszában -Aphididae -Meloidogyne spp. -Thysanoptera, de különösen Frankliniella occidentalis Gombák -Botrytis cinerea -Bremia lactucae -Pythium spp. Vírusok és vírusszerű szervezetek Valamennyi, de különösen a Lettuce big vein, a Lettuce mosaic virus és a Lettuce ring necrosis |
 
-| Lycopersicon esculentum | Rovarok, atkák és fonalférgek fejlődésük valamennyi szakaszában -Aphididae -Aleyrodidae -Hauptidia maroccana -Meloidogyne spp. -Tetranychus spp. -Thysanoptera, de különösen Frankliniella occidentalis -Vasates lycopersici Baktériumok -Pseudomonas syringae pv. tomato Gombák -Alternaria solani -Cladosporium fulvum -Colletotrichum coccodes -Didymella lycopersici -Fusarium oxysporum -Leveillula taurica -Phytophthora nicotianae -Pyrenochaeta lycopersici -Pythium spp. -Rhizoctonia solani -Sclerotinia sclerotiorum -Verticillium spp. Vírusok és vírusszerű szervezetek Valamennyi, de különösen a Cucumber mosaic virus, a Potato virus X, a Potato virus Y, a Tobacco mosaic virus, a Tomato mosaic virus és a Tomato yellow leaf curl virus |
+| Solanum Lycopersicum L. | Rovarok, atkák és fonalférgek fejlődésük valamennyi szakaszában -Aphididae -Aleyrodidae -Hauptidia maroccana -Meloidogyne spp. -Tetranychus spp. -Thysanoptera, de különösen Frankliniella occidentalis -Vasates lycopersici Baktériumok -Pseudomonas syringae pv. tomato Gombák -Alternaria solani -Cladosporium fulvum -Colletotrichum coccodes -Didymella lycopersici -Fusarium oxysporum -Leveillula taurica -Phytophthora nicotianae -Pyrenochaeta lycopersici -Pythium spp. -Rhizoctonia solani -Sclerotinia sclerotiorum -Verticillium spp. Vírusok és vírusszerű szervezetek Valamennyi, de különösen a Cucumber mosaic virus, a Potato virus X, a Potato virus Y, a Tobacco mosaic virus, a Tomato mosaic virus és a Tomato yellow leaf curl virus |
 
 | Rheum spp. | Baktériumok -Agrobacterium tumefaciens -Erwinia rhapontici Gombák -Armillariella mellea -Verticillium spp. Vírusok és vírusszerű szervezetek Valamennyi, de különösen az Arabis mosaic virus és a Turnip mosaic virus |
 
 | Solanum melongena | Rovarok, atkák és fonalférgek fejlődésük valamennyi szakaszában -Aleyrodidae -Aphididae -Hemitarsonemus latus -Leptinotarsa decemlineata -Meloidogyne spp. -Tetranychidae -Thysanoptera, de különösen Frankliniella occidentalis Gombák -Fusarium spp. -Leveillula taurica f.sp. cynarae -Rhizoctonia solani -Pythium spp. -Sclerotinia sclerotiorum -Verticillium spp. Vírusok és vírusszerű szervezetek Valamennyi, de különösen a Cucumber mosaic virus, az Eggplant mosaic virus, a Potato virus Y, és a Tobacco mosaic virus |
 
-10. számú melléklet az 50/2004. (IV. 22.) FVM rendelethez[^211]
+10. számú melléklet az 50/2004. (IV. 22.) FVM rendelethez[^212]
 
-[^211]: A 10. számú mellékletet a 124/2007. (X. 20.) FVM rendelet 18. § (7) bekezdése iktatta be, szövege a 70/2013. (VII. 31.) VM rendelet 32. § j) pontja szerint módosított stzöveg.
+[^212]: A 10. számú mellékletet a 124/2007. (X. 20.) FVM rendelet 18. § (7) bekezdése iktatta be, szövege a 70/2013. (VII. 31.) VM rendelet 32. § j) pontja szerint módosított stzöveg.

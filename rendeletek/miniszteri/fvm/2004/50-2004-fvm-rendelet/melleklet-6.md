@@ -56,7 +56,7 @@
 
 | Elválasztó sáv, dugványnál legalább | m | 2 |  |
 
-| Szigetelő távolság más fajtától magtermőnél, legalább |  | 500 |  |
+| Izolációs távolság más fajtától magtermőnél, legalább |  | 500 |  |
 
 | Gyomosság, legfeljebb | minősítő szám | 2 |  |
 
@@ -126,7 +126,7 @@
 
 | szaporítási fok |
 
-| Szigetelési távolság, Más fajtától, és csoporton belüli egyéb fajtól | m | 500 |  |
+| Izolációs távolság, Más fajtától, és csoporton belüli egyéb fajtól | m | 500 |  |
 
 | Gyomosság, legfeljebb | minősítő szám | 2 |  |
 
@@ -148,7 +148,7 @@
 
 | Fuzáriumos és verticilliumos tőher- vadás (Fusarium oxysporum, Verticillium alboatrum), Peronoszpóra (Pseudoperonospora cubensis), Lisztharmat (Erysiphe cichoracearum, Spaerotheca fuliginea.) |  |  |  |
 
-## Paradicsom (Lycopersicon esculentum L.)
+## Paradicsom (Solanum Lycopersicum L.)
 
 ## Tojásgyümölcs (Solanum melongena L.)
 
@@ -234,7 +234,7 @@
 
 | Elválasztó sáv, legalább |  | 2 |  |
 
-| Szigetelési távolság, más fajtától és egyéb Beta fajoktól magtermőnél, legalább | m | 1000 | 600 |  |
+| Izolációs távolság, más fajtától és egyéb Beta fajoktól magtermőnél, legalább | m | 1000 | 600 |  |
 
 | Gyomosság, legfeljebb | minősítő szám | 2 |  |
 
@@ -286,7 +286,7 @@
 
 | Elválasztó sáv, legalább dugványnál | m | 2 |  |
 
-| Szigetelési távolság, más fajtától és egyéb Brassica fajoktól, legalább magtermőnél |  | 1000 | 600 |  |
+| Izolációs távolság, más fajtától és egyéb Brassica fajoktól, legalább magtermőnél |  | 1000 | 600 |  |
 
 | Gyomosság, legfeljebb | minősítő szám | 2 |  |
 
@@ -444,7 +444,7 @@
 
 | Elválasztó sáv, legalább | m | 2 |  |
 
-| Szigetelési távolság, más fajtától és egyéb Brassica fajoktól, magtermőnél legalább |  | 1000 | 600 |  |
+| Izolációs távolság, más fajtától és egyéb Brassica fajoktól, magtermőnél legalább |  | 1000 | 600 |  |
 
 | Gyomosság, legfeljebb | minősítő szám | 2 |  |
 
@@ -490,7 +490,7 @@
 
 | szaporítási fok |
 
-| Szigetelési távolság, más fajtától és egyéb Brassica fajoktól, legalább | m | 1000 | 600 |
+| Izolációs távolság, más fajtától és egyéb Brassica fajoktól, legalább | m | 1000 | 600 |
 
 | Gyomosság, legfeljebb | minősítő szám | 2 |
 
@@ -556,7 +556,7 @@
 
 | Elválasztó sáv, dugványnál legalább |  | 2 |  |
 
-| Szigetelési távolság más fajtától és sárgarépa esetében vadmuroktól magtermőnél | m | 1000 |  |
+| Izolációs távolság más fajtától és sárgarépa esetében vadmuroktól magtermőnél | m | 1000 |  |
 
 | Gyomosság, legfeljebb | minősítő szám | 2 |  |
 
@@ -612,7 +612,7 @@
 
 | szaporítási fok |
 
-| Szigetelési távolság más fajtáktól és Cichorium fajoktól, legalább | m | 800 |  |
+| Izolációs távolság más fajtáktól és Cichorium fajoktól, legalább | m | 800 |  |
 
 | Gyomosság, legfejlebb | minősítő szám | 2 |  |
 
@@ -666,7 +666,7 @@
 
 | Elválasztósáv, legalább |  | 2 |  |
 
-| Szigetelő távolság, más fajtáktól és Cichorium fajoktól, maghozónál legalább | m | 1000 | 600 |  |
+| Izolációs távolság, más fajtáktól és Cichorium fajoktól, maghozónál legalább | m | 1000 | 600 |  |
 
 | Gyomosság, legfeljebb | minősítő szám | 2 |  |
 
@@ -712,7 +712,7 @@
 
 | szaporítási fok |
 
-| Szigetelési távolság, más fajtáktól és a Rumex fajoktól legalább | m | 1000 | 600 |  |
+| Izolációs távolság, más fajtáktól és a Rumex fajoktól legalább | m | 1000 | 600 |  |
 
 | Gyomosság, legfeljebb | minősítő szám | 2 |  |
 
@@ -756,7 +756,7 @@
 
 | szaporítási fok |
 
-| Szigetelési távolság, más fajtától legalább | m | 300 |  |
+| Izolációs távolság, más fajtától legalább | m | 300 |  |
 
 | Gyomosság, legfeljebb | minősítő szám | 2 |  |
 
@@ -806,7 +806,7 @@
 
 | Elválasztó sáv, legalább | m | 2 |  |
 
-| Szigetelési távolság karósbab fajták között, legalább | 100 |  |
+| Izolációs távolság karósbab fajták között, legalább | 100 |  |
 
 | Gyomosság, legfeljebb | min. sz. | 2 |  |
 
@@ -848,7 +848,7 @@
 
 | Elválasztó sáv, legalább | m | 2 |  |
 
-| Szigetelési távolság, legalább | 200 | 100 |  |
+| Izolációs távolság, legalább | 200 | 100 |  |
 
 | Gyomosság, legfeljebb | min. sz. | 2 |  |
 
@@ -896,7 +896,7 @@
 
 | Elválasztó sáv, legalább | m | 2 |  |
 
-| Szigetelési távolság, más fajtától, repcsényretektől és olajretektől, legalább magtermőnél | 1000 | 600 |  |
+| Izolációs távolság, más fajtától, repcsényretektől és olajretektől, legalább magtermőnél | 1000 | 600 |  |
 
 | Gyomosság, legfeljebb | min. sz. | 2 |  |
 
@@ -936,7 +936,7 @@
 
 | Elválasztó sáv, legalább | m | 2 |  |
 
-| Szigetelő távolság, más fajtától, legalább | m | 400 | 200 | Kivétel vegetatív szaporítás |
+| Izolációs távolság, más fajtától, legalább | m | 400 | 200 | Kivétel vegetatív szaporítás |
 
 | Gyomosság, legfeljebb | min. sz. | 2 |  |
 
@@ -1014,7 +1014,7 @@
 
 | 1 | 2 | 3 | 4 | 5 |
 
-| Szigetelési távolság, legalább | m | 400 | 200 | 200 |
+| Izolációs távolság, legalább | m | 400 | 200 | 200 |
 
 | Gyomosság, legfeljebb | minősítő szám | 2 |
 
@@ -1040,6 +1040,6 @@
 
 | ***** | Az anyasorokban legalább 5% bibe megjelenés után a virágport hullató címer egy-egy ellenőrzésen legfeljebb 0,5% lehet. |
 
-6. számú melléklet az 50/2004. (IV. 22.) FVM rendelethez[^208]
+6. számú melléklet az 50/2004. (IV. 22.) FVM rendelethez[^209]
 
-[^208]: A 6. számú melléklet a Magyar Közlöny 2004. évi 64. számában megjelent helyesbítésnek megfelelő szöveg. A 6. számú melléklet a 81/2013. (IX. 13.) VM rendelet 6. §-a szerint módosított szöveg.
+[^209]: A 6. számú melléklet a Magyar Közlöny 2004. évi 64. számában megjelent helyesbítésnek megfelelő szöveg. A 6. számú melléklet a 81/2013. (IX. 13.) VM rendelet 6. §-a szerint módosított szöveg.
