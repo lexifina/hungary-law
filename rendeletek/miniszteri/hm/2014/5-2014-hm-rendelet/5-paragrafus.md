@@ -1,1 +1,0 @@
-## „(3) Az előirányzat támogatási előlegként folyósítható, felhasználása utólagos elszámolás mellett egy összegben – az Ávr. 78. § (3) bekezdése szerinti esetben részletekben – történő, vissza nem térítendő támogatás nyújtásával valósul meg.”
