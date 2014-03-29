@@ -16,23 +16,15 @@ d)[^1] a Törvény 9. § (5)–(6) bekezdésében meghatározott esetekben éven
 
 (2) Az égéstermék CO tartalmának ellenőrzését a közszolgáltató azoknál a 11 kWth-nál nagyobb névleges bemenő hőteljesítményű gáztüzelő-berendezéseknél végzi el, amelyeknél levegőtisztaság-védelmi hatósági ügyben első fokon – a levegő védelméről szóló kormányrendelet szerint – a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala jár el.
 
-(3) Az égéstermék-elvezető ellenőrzését és szükség szerinti tisztítását a közszolgáltató a tüzelőanyag fajtájától függően
-
-a) szilárd- és olaj tüzelőanyagokkal üzemeltetett tüzelőberendezéseket kiszolgáló égéstermék-elvezető esetében évente 2 alkalommal,
-
-b) gáztüzelő-berendezéseket kiszolgáló égéstermék-elvezető esetében évente 1 alkalommal,
-
-c) tartalék égéstermék-elvezető esetében évente 1 alkalommal
-
-## végzi el.
+(3)[^3] Az égéstermék-elvezető ellenőrzését és szükség szerinti tisztítását a közszolgáltató – a (4) bekezdésben és a 4. § (2) bekezdésében foglalt kivétellel – évente 1 alkalommal végzi el.
 
 (4) Ha az égéstermék-elvezető járatában és tartozékainál az égéstermék lerakódás mértéke ezt indokolja, akkor a (3) bekezdésben előírtnál gyakoribb ellenőrzés és tisztítás szükséges. Ennek szükségességét és gyakoriságát a közszolgáltató állapítja meg és erről az ingatlan használóját írásban tájékoztatja.
 
-(5)[^3] A közszolgáltató a sormunka tényleges időpontjáról legalább 8 nappal korábban köteles az ingatlan használóját értesíteni az ellátásért felelős önkormányzat rendeletében meghatározott módon. Ha a közszolgáltatás a jelzett időpontban nem valósul meg, a közszolgáltató írásban a Törvény szerint meghatározott második időpontot jelöl meg, és egyidejűleg az ingatlan használóját, tulajdonosát írásban tájékoztatja a közszolgáltatás – a közszolgáltatás ellátásának ismételt meghiúsulása esetén annak napjától számított – 30 napon belüli igénybevételének kötelezettségéről, és ennek elmulasztása esetén a tűzvédelmi hatóság értesítésének közszolgáltatói kötelezettségéről.
+(5)[^4] A közszolgáltató a sormunka tényleges időpontjáról legalább 8 nappal korábban köteles az ingatlan használóját értesíteni az ellátásért felelős önkormányzat rendeletében meghatározott módon. Ha a közszolgáltatás a jelzett időpontban nem valósul meg, a közszolgáltató írásban a Törvény szerint meghatározott második időpontot jelöl meg, és egyidejűleg az ingatlan használóját, tulajdonosát írásban tájékoztatja a közszolgáltatás – a közszolgáltatás ellátásának ismételt meghiúsulása esetén annak napjától számított – 30 napon belüli igénybevételének kötelezettségéről, és ennek elmulasztása esetén a tűzvédelmi hatóság értesítésének közszolgáltatói kötelezettségéről.
 
-(6)[^4] Az (5) bekezdésben meghatározott második időpontról szóló értesítés sorszámozott, lakcímre szóló, szigorú számadású 2 példányos bizonylaton nyilvántartott, tanúval vagy fényképfelvétellel vagy az ingatlan használójának, tulajdonosának aláírásával vagy egyéb módon igazolt, postaládába helyezett, annak hiányában kapura vagy bejárati ajtóra jól látható módon elhelyezett értesítéssel valósul meg.
+(6)[^5] Az (5) bekezdésben meghatározott második időpontról szóló értesítés sorszámozott, lakcímre szóló, szigorú számadású 2 példányos bizonylaton nyilvántartott, tanúval vagy fényképfelvétellel vagy az ingatlan használójának, tulajdonosának aláírásával vagy egyéb módon igazolt, postaládába helyezett, annak hiányában kapura vagy bejárati ajtóra jól látható módon elhelyezett értesítéssel valósul meg.
 
-(7)[^5] A (6) bekezdésben meghatározott értesítésnek tartalmaznia kell:
+(7)[^6] A (6) bekezdésben meghatározott értesítésnek tartalmaznia kell:
 
 a) a közszolgáltató nevét, székhelyét,
 
@@ -48,6 +40,7 @@ f) a hatósági felügyeletet ellátó tűzvédelmi hatóság megnevezését, c�
 
 [^1]: A 3. § (1) bekezdés d) pontját az 58/2013. (X. 11.) BM rendelet 1. §-a iktatta be.
 [^2]: A 3. § (1a) bekezdését az 58/2013. (X. 11.) BM rendelet 2. §-a iktatta be.
-[^3]: A 3. § (5) bekezdése az 58/2013. (X. 11.) BM rendelet 3. §-ával megállapított szöveg.
-[^4]: A 3. § (6) bekezdését az 58/2013. (X. 11.) BM rendelet 4. §-a iktatta be.
-[^5]: A 3. § (7) bekezdését az 58/2013. (X. 11.) BM rendelet 4. §-a iktatta be.
+[^3]: A 3. § (3) bekezdése a 25/2014. (III. 21.) BM rendelet 1. §-ával megállapított szöveg.
+[^4]: A 3. § (5) bekezdése az 58/2013. (X. 11.) BM rendelet 3. §-ával megállapított szöveg.
+[^5]: A 3. § (6) bekezdését az 58/2013. (X. 11.) BM rendelet 4. §-a iktatta be.
+[^6]: A 3. § (7) bekezdését az 58/2013. (X. 11.) BM rendelet 4. §-a iktatta be.

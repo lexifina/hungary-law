@@ -46,7 +46,7 @@
 
 ## MBm : műszaki-biztonsági felülvizsgálat meglétének ellenőrzési munkaráfordítása.
 
-8. melléklet a 63/2012. (XII. 11.) BM rendelethez[^22]
+8. melléklet a 63/2012. (XII. 11.) BM rendelethez[^23]
 
 | Közszolgáltató: | TANÚSÍTVÁNY SZÉN-MONOXID-ÉRZÉKELŐ BERENDEZÉS | Azonosító: |
 
@@ -76,4 +76,4 @@
 
 | jogcíme: tulajdonos, használó, képviselő, egyéb………………….. | Dátum: 20….…év………....hó……nap |
 
-[^22]: A 8. mellékletet az 58/2013. (X. 11.) BM rendelet 14. §-a iktatta be.
+[^23]: A 8. mellékletet az 58/2013. (X. 11.) BM rendelet 14. §-a iktatta be.

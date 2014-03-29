@@ -1,4 +1,4 @@
-## 10/A. §[^16] Az ingatlan használója a közszolgáltatás ellátása során a közszolgáltató felhívására köteles nyilatkozni a Törvény 9. § (5) bekezdésében fennálló szén-monoxid-érzékelő berendezés felszerelési és működtetési kötelezettségének fennállásáról.
+## 10/A. §[^17] Az ingatlan használója a közszolgáltatás ellátása során a közszolgáltató felhívására köteles nyilatkozni a Törvény 9. § (5) bekezdésében fennálló szén-monoxid-érzékelő berendezés felszerelési és működtetési kötelezettségének fennállásáról.
 
 ## 9. A közszolgáltatási díjak meghatározásának a közszolgáltatási feladatok tartalmától függő, részletes szabályai
 
@@ -28,4 +28,4 @@ megegyező szerkezetben határozza meg.
 
 (4) A díjat az ingatlan tulajdonosának, vagy az ingatlan tulajdonos bejelentése alapján az ingatlan használójának az ellenőrzést, szükség szerinti tisztítást követően kell megfizetnie.
 
-[^16]: A 10/A. §-t az 58/2013. (X. 11.) BM rendelet 9. §-a iktatta be.
+[^17]: A 10/A. §-t az 58/2013. (X. 11.) BM rendelet 9. §-a iktatta be.

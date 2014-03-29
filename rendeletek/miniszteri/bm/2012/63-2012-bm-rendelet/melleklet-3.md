@@ -162,6 +162,6 @@
 
 ## A fizetendő díj a munkaráfordítás és a munkaráfordítás egységárának szorzata.
 
-3. melléklet a 63/2012. (XII. 11.) BM rendelethez[^20]
+3. melléklet a 63/2012. (XII. 11.) BM rendelethez[^21]
 
-[^20]: A 3. melléklet az 58/2013. (X. 11.) BM rendelet 13. §-ával megállapított, a 82/2013. (XII. 23.) BM rendelet 19. §-a szerint módosított szöveg.
+[^21]: A 3. melléklet az 58/2013. (X. 11.) BM rendelet 13. §-ával megállapított, a 82/2013. (XII. 23.) BM rendelet 19. §-a szerint módosított szöveg.

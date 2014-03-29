@@ -346,6 +346,6 @@
 
 | 30. | Rádió adó-vevő |  | X |
 
-2. melléklet a 63/2012. (XII. 11.) BM rendelethez[^19]
+2. melléklet a 63/2012. (XII. 11.) BM rendelethez[^20]
 
-[^19]: A 2. melléklet az 58/2013. (X. 11.) BM rendelet 12. §-ával megállapított, a 82/2013. (XII. 23.) BM rendelet 18. §-a szerint módosított szöveg.
+[^20]: A 2. melléklet az 58/2013. (X. 11.) BM rendelet 12. §-ával megállapított, a 82/2013. (XII. 23.) BM rendelet 18. §-a szerint módosított szöveg.
