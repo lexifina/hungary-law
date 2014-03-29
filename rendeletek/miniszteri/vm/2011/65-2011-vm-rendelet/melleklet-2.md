@@ -30,7 +30,7 @@
 
 | Lactuca sativa L. | fejessaláta |
 
-| Lycopersicon esculentum Mill. | paradicsom |
+| Solanum Lycopersicum L. | paradicsom |
 
 | Phaseolus vulgaris L. | zöldbab (bokorbab és futóbab) |
 
@@ -98,7 +98,7 @@
 
 |  | pattogató kukorica |
 
-2. melléklet a 65/2011. (VII. 11.) VM rendelethez
+2. melléklet a 65/2011. (VII. 11.) VM rendelethez[^21]
 
 Kis kiszerelési egységek maximális nettó tömege
 
@@ -188,10 +188,12 @@ Kis kiszerelési egységek maximális nettó tömege
 
 | Cynara cardunculus L. | articsóka, kardi |
 
-| Lycopersicon esculentum Mill. | paradicsom |
+| Solanum Lycopersicum L. | paradicsom |
 
 | Foeniculum vulgare Mill. | édeskömény |
 
 | Rheum rhabarbarum L. | rebarbara |
 
 | Solanum melongena L. | tojásgyümölcs |
+
+[^21]: A 2. melléklet a 27/2014. (III. 26.) VM rendelet 2. § (2) bekezdése szerint módosított szöveg.
