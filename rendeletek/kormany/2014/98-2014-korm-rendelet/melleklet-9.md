@@ -1,3 +1,3 @@
-9. melléklet a 98/2014. (III. 25.) Korm. rendelethez[^22]
+9. melléklet a 98/2014. (III. 25.) Korm. rendelethez[^23]
 
-[^22]: A 9. melléklet a 17. § (3) bekezdése alapján 2014. április 25-én lép hatályba.
+[^23]: A 9. melléklet a 17. § (3) bekezdése alapján 2014. április 25-én lép hatályba.
