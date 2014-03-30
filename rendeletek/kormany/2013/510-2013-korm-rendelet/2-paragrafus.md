@@ -1,0 +1,1 @@
+## 1. § A magyar légtér igénybevételéről szóló 4/1998. (I. 16.) Korm. rendelet 1. § (3)–(5) bekezdése, 1/A. §-a, 2. § (5)–(6) bekezdése, 3–4. §-a, 6–8/B. §-a a Koszovó felett kijelölt légtér (a továbbiakban: KFOR szektor) tekintetében nem alkalmazandó.
