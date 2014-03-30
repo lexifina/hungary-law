@@ -1,4 +1,4 @@
-## 24. § Hatályát veszti a nagyvízi medrek, a parti sávok, a vízjárta, valamint a fakadó vizek által veszélyeztetett területek használatáról és hasznosításáról, valamint a nyári gátak által védett területek értékének csökkenésével kapcsolatos eljárásról szóló 21/2006. (I. 31.) Korm. rendelet.
+## 24. §[^1]
 
 1. melléklet a 83/2014. (III. 14.) Korm. rendelethez
 
@@ -161,3 +161,5 @@
 5.11. Egyedi beavatkozások részlettervei
 
 5.12. Területhasználati előírások térképi ábrázolása
+
+[^1]: A 24. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

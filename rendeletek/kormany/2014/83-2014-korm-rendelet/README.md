@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-83-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2014-03-29 | 2014-83-20-22.1 | 83/2014. (III. 14.) Korm. rendelet |
+| 2014-03-30 | 2014-83-20-22.2 | 2010: CXXX. törvény |
