@@ -1,6 +1,6 @@
-55. § (1)[^131] Ha az adós a végrehajtási eljárás során a törvényszéki végrehajtó kezéhez fizetést teljesített, a törvényszéki végrehajtó az átvétel napján feljegyzi a végrehajtási ügyiratban az összeg felvételét, ennek időpontját, a nyugta lapszámát és a nyugtakönyv központi sorszámát. Így jár el akkor is, ha egyéb értéket vett át.
+55. § (1)[^136] Ha az adós a végrehajtási eljárás során a törvényszéki végrehajtó kezéhez fizetést teljesített, a törvényszéki végrehajtó az átvétel napján feljegyzi a végrehajtási ügyiratban az összeg felvételét, ennek időpontját, a nyugta lapszámát és a nyugtakönyv központi sorszámát. Így jár el akkor is, ha egyéb értéket vett át.
 
-(2)[^132] A törvényszéki végrehajtó a befizetési lap értesítés szelvényének hátlapján feltünteti a könyveléshez szükséges adatokat (a végrehajtást kérő és az adós neve, végrehajtható okirat száma, végrehajtói ügyszám, a befizetés jogcíme).
+(2)[^137] A törvényszéki végrehajtó a befizetési lap értesítés szelvényének hátlapján feltünteti a könyveléshez szükséges adatokat (a végrehajtást kérő és az adós neve, végrehajtható okirat száma, végrehajtói ügyszám, a befizetés jogcíme).
 
-[^131]: Az 55. § (1) bekezdése a 40/2011. (XII. 30.) KIM rendelet 20. § (1) bekezdés q) pontja szerint módosított szöveg.
-[^132]: Az 55. § (2) bekezdése a 40/2011. (XII. 30.) KIM rendelet 20. § (1) bekezdés r) pontja szerint módosított szöveg.
+[^136]: Az 55. § (1) bekezdése a 40/2011. (XII. 30.) KIM rendelet 20. § (1) bekezdés q) pontja szerint módosított szöveg.
+[^137]: Az 55. § (2) bekezdése a 40/2011. (XII. 30.) KIM rendelet 20. § (1) bekezdés r) pontja szerint módosított szöveg.

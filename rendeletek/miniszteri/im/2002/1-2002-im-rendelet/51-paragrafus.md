@@ -1,25 +1,25 @@
-51. § (1)[^117] A törvényszéki végrehajtó a felvett pénzösszegről vagy más értékről (takarékbetétkönyv, értékpapír) a rendeltetését is feltüntető nyugtát állít ki 2 példányban. Az első (eredeti) példányt az aláírásával és bélyegzőjének lenyomatával ellátva átadja a befizetőnek, a második (másolati) példány a nyugtakönyvben marad.
+51. § (1)[^122] A törvényszéki végrehajtó a felvett pénzösszegről vagy más értékről (takarékbetétkönyv, értékpapír) a rendeltetését is feltüntető nyugtát állít ki 2 példányban. Az első (eredeti) példányt az aláírásával és bélyegzőjének lenyomatával ellátva átadja a befizetőnek, a második (másolati) példány a nyugtakönyvben marad.
 
-(2)[^118] A törvényszéki végrehajtó a nyugtához az erre a célra készült nyugtakönyvből való nyomtatványt köteles használni.
+(2)[^123] A törvényszéki végrehajtó a nyugtához az erre a célra készült nyugtakönyvből való nyomtatványt köteles használni.
 
 (3) A nyugtakönyvet nyomdai úton sorszámmal, az eredeti és a másolati lappéldányokon azonos lapszámozással kell ellátni.
 
-(4)[^119] A nyugtakönyvet használatbavétel előtt a bírósági gazdasági hivatal, illetőleg a Fővárosi Törvényszéknél a végrehajtói letéti csoport (a továbbiakban együtt: BGH) vezetője ellenőrzés után hitelesíti, feltüntetve a lapszámozás folyamatosságát és a lapok mennyiségét is. Hibás lapszámozás esetén erre a hitelesítési záradékban utalni kell.
+(4)[^124] A nyugtakönyvet használatbavétel előtt a bírósági gazdasági hivatal, illetőleg a Fővárosi Törvényszéknél a végrehajtói letéti csoport (a továbbiakban együtt: BGH) vezetője ellenőrzés után hitelesíti, feltüntetve a lapszámozás folyamatosságát és a lapok mennyiségét is. Hibás lapszámozás esetén erre a hitelesítési záradékban utalni kell.
 
-(5)[^120] A nyugtakönyvet a BGH vezetője adja át a törvényszéki végrehajtónak, aki a nyugtakönyv-nyilvántartási lapon az átvételt – az idejét is feltüntetve – az aláírásával elismeri.
+(5)[^125] A nyugtakönyvet a BGH vezetője adja át a törvényszéki végrehajtónak, aki a nyugtakönyv-nyilvántartási lapon az átvételt – az idejét is feltüntetve – az aláírásával elismeri.
 
-(6)[^121] A nyugtakönyvek számadásba vétele és kezelése a szigorú számadás alá vont nyomtatványokra vonatkozó szabályok szerint történik. A törvényszéki végrehajtónál egyszerre csak egy nyugtakönyv lehet. Újabb nyugtakönyvet a korábban kiadott nyugtakönyv bevonása után lehet a részére kiadni.
+(6)[^126] A nyugtakönyvek számadásba vétele és kezelése a szigorú számadás alá vont nyomtatványokra vonatkozó szabályok szerint történik. A törvényszéki végrehajtónál egyszerre csak egy nyugtakönyv lehet. Újabb nyugtakönyvet a korábban kiadott nyugtakönyv bevonása után lehet a részére kiadni.
 
-(7)[^122] A nyugtakönyvhöz, illetőleg a nyugta másolati lap példányához a törvényszéki végrehajtó csatolja azokat a befizetési lap-elismervényeket, amelyekkel az általa felvett összegeket a megfelelő számlára befizette.
+(7)[^127] A nyugtakönyvhöz, illetőleg a nyugta másolati lap példányához a törvényszéki végrehajtó csatolja azokat a befizetési lap-elismervényeket, amelyekkel az általa felvett összegeket a megfelelő számlára befizette.
 
-(8)[^123] A törvényszéki végrehajtó áthelyezése, hosszabb távolléte vagy szolgálati viszonyának megszűnése esetén a nála levő nyugtakönyvet be kell vonni. A fel nem használt lappéldányokat lyukasztással és áthúzással érvényteleníteni kell. A nyugtakönyvet záradékkal kell ellátni, és ebben fel kell tüntetni a felhasznált és a felhasználatlan lapok számát.
+(8)[^128] A törvényszéki végrehajtó áthelyezése, hosszabb távolléte vagy szolgálati viszonyának megszűnése esetén a nála levő nyugtakönyvet be kell vonni. A fel nem használt lappéldányokat lyukasztással és áthúzással érvényteleníteni kell. A nyugtakönyvet záradékkal kell ellátni, és ebben fel kell tüntetni a felhasznált és a felhasználatlan lapok számát.
 
 (9) A nyugtakönyv bevonását a BGH vezetője a nyugtakönyvek számadásában is feltünteti, ezután a nyugtakönyvet a BGH őrzi.
 
-[^117]: Az 51. § (1) bekezdése a 40/2011. (XII. 30.) KIM rendelet 20. § (1) bekezdés l) pontja szerint módosított szöveg.
-[^118]: Az 51. § (2) bekezdése a 40/2011. (XII. 30.) KIM rendelet 20. § (1) bekezdés l) pontja szerint módosított szöveg.
-[^119]: Az 51. § (4) bekezdése a 40/2011. (XII. 30.) KIM rendelet 20. § (1) bekezdés m) pontja szerint módosított szöveg.
-[^120]: Az 51. § (5) bekezdése a 40/2011. (XII. 30.) KIM rendelet 20. § (1) bekezdés l) pontja szerint módosított szöveg.
-[^121]: Az 51. § (6) bekezdése a 40/2011. (XII. 30.) KIM rendelet 20. § (1) bekezdés l) pontja szerint módosított szöveg.
-[^122]: Az 51. § (7) bekezdése a 40/2011. (XII. 30.) KIM rendelet 20. § (1) bekezdés l) pontja szerint módosított szöveg.
-[^123]: Az 51. § (8) bekezdése a 40/2011. (XII. 30.) KIM rendelet 20. § (1) bekezdés l) pontja szerint módosított szöveg.
+[^122]: Az 51. § (1) bekezdése a 40/2011. (XII. 30.) KIM rendelet 20. § (1) bekezdés l) pontja szerint módosított szöveg.
+[^123]: Az 51. § (2) bekezdése a 40/2011. (XII. 30.) KIM rendelet 20. § (1) bekezdés l) pontja szerint módosított szöveg.
+[^124]: Az 51. § (4) bekezdése a 40/2011. (XII. 30.) KIM rendelet 20. § (1) bekezdés m) pontja szerint módosított szöveg.
+[^125]: Az 51. § (5) bekezdése a 40/2011. (XII. 30.) KIM rendelet 20. § (1) bekezdés l) pontja szerint módosított szöveg.
+[^126]: Az 51. § (6) bekezdése a 40/2011. (XII. 30.) KIM rendelet 20. § (1) bekezdés l) pontja szerint módosított szöveg.
+[^127]: Az 51. § (7) bekezdése a 40/2011. (XII. 30.) KIM rendelet 20. § (1) bekezdés l) pontja szerint módosított szöveg.
+[^128]: Az 51. § (8) bekezdése a 40/2011. (XII. 30.) KIM rendelet 20. § (1) bekezdés l) pontja szerint módosított szöveg.
