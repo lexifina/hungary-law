@@ -1,0 +1,1 @@
+## 4. § A gazdasági és közlekedési főügyeleti rendszer létrehozásáról, működéséről, valamint egyes bejelentési kötelezettségekről szóló 59/2005. (VII. 18.) GKM rendelet 3. §-a, valamint 5–8. §-a a KFOR szektor tekintetében nem alkalmazandó.

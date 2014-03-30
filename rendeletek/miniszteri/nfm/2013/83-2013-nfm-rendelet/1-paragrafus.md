@@ -1,0 +1,3 @@
+1. § (1) A repülésmeteorológiai szolgáltatás rendjéről szóló szabályzat kiadásáról szóló 17/1997. (VI. 25.) KTM–KHVM–HM együttes rendelet (a továbbiakban: R1.) melléklet 3. pontját a Magyarország Kormánya és a Koszovói Nemzetközi Biztonsági Erő (KFOR) között a Koszovó felett kijelölt légtérben egyes léginavigációs szolgálatok nyújtásáról és egyéb kapcsolódó tevékenységek ellátásáról szóló Végrehajtási Megállapodás 3. cikkében és Mellékletében meghatározott légtér (a továbbiakban: KFOR szektor) tekintetében azzal az eltéréssel kell alkalmazni, hogy az nem terjed ki az MH Meteorológiai Szolgálatra és a repülőtér üzemben tartókra.
+
+(2) Az R1. melléklet 6., 11. és 12. pontja a KFOR szektor tekintetében nem alkalmazandó.

@@ -1,0 +1,1 @@
+7. § Ez a rendelet a Magyarország Kormánya és a Koszovói Nemzetközi Biztonsági Erő (KFOR) között a Koszovó felett kijelölt légtérben egyes léginavigációs szolgálatok nyújtásáról és egyéb kapcsolódó tevékenységek ellátásáról szóló Végrehajtási Megállapodás hatálybalépésének időpontjában lép hatályba.
