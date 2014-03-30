@@ -1,19 +1,29 @@
-## 3. §[^11] A joggyakorlat tartamára vonatkozó adatokat
+3. §[^12] (1) A joggyakorlati időt a
 
-a)[^12] a bírósági fogalmazó esetében a Kúria, az ítélőtábla, illetve a törvényszék elnöke,
+a) 2. § (2) bekezdés a) pont aa) alpontja esetében, ha munkakör betöltésének feltétele köztestületi névjegyzékbe vétel, a köztestület, ennek hiányában a munkáltatói jogkör gyakorlója vagy a foglalkoztató szerv vezetője,
 
-b) ügyészségi fogalmazó esetében a legfőbb ügyész, a fellebbviteli főügyész, illetve a megyei (fővárosi) főügyész,
+b) 2. § (2) bekezdés a) pont ab) és ac) alpontja, valamint a 2. § (2) bekezdés b) pont ba) alpontja, valamint (3) bekezdés b) pontja esetében a foglalkoztató szerv vezetője,
 
-c) ügyvédjelölt esetében az illetékes megyei ügyvédi kamara,
+c) 2. § (2) bekezdés b) pont bb) alpontja esetében az ösztöndíjprogram lebonyolításáért felelős szerv
 
-d) közjegyzőjelölt esetében az illetékes területi közjegyzői kamara,
+## tanúsítja.
 
-e) jogi végzettséggel rendelkező önálló bírósági végrehajtó, önálló bírósági végrehajtó-helyettes és önálló bírósági végrehajtó-jelölt esetében a Magyar Bírósági Végrehajtói Kamara,
+(2) Az igazolásnak tartalmaznia kell
 
-f) jogi előadó és más jogi munkakörben foglalkoztatott jogász esetében az őt foglalkoztató szerv vezetője,
+a) a jelölt természetes személyazonosító adatait, munkakörét,
 
-g)[^13] a 2. § (2) bekezdés c) pontja szerinti ösztöndíjas esetében az ösztöndíj program lebonyolításáért felelős szerv
+b) a joggyakorlat típusának a 2. § (2) bekezdésében vagy 2. § (3) bekezdés b) pontjában foglaltak szerinti megjelölését,
 
-[^11]: A 3. § a 22/2011. (VII. 20.) KIM rendelet 3. §-ával megállapított szöveg.
-[^12]: A 3. § a) pontja a 40/2011. (XII. 30.) KIM rendelet 6. §-a szerint módosított szöveg.
-[^13]: A 3. § g) pontja a 42/2012. (IX. 14.) KIM rendelet 17. § b) pontja szerint módosított szöveg.
+c) a munkakörhöz jogi képesítést előíró jogszabályhely vagy közjogi szervezetszabályozó eszköz megfelelő pontjának megjelölését,
+
+d) a 2. § (2) bekezdés a) pont ac) alpontjában foglalt esetben annak a jogi szakvizsgával rendelkező személynek a nevét, akinek irányítása, ellenőrzése mellett a jelölt munkáját végezte,
+
+e) a joggyakorlati idő pontos időtartamát és ezen belül a munkaidőt és
+
+f) az igazolás kiállítójának nevét, beosztását, aláírását.
+
+(3) A jogtanácsosi tevékenységről szóló 1983. évi 3. törvényerejű rendelet szerinti jogi előadók esetében az igazolásnak az összes olyan jogtanácsos nevét, igazolványa számát tartalmaznia kell, aki az adott joggyakorlati idő alatt a jelölt jogi előadói tevékenységét irányította, ellenőrizte.
+
+(4) Az igazoláshoz csatolni kell a (2) bekezdés c) pont szerinti közjogi szervezetszabályozó eszköz hiteles másolatát, ha annak közzététele nem kötelező. A 2. § (2) bekezdés a) pont ac) alpontja szerinti joggyakorlat igazolásához csatolni kell a jelölt munkájának jogi szakmai irányításáért, ellenőrzéséért felelős jogi vagy végrehajtói szakvizsgával bíró személy e rendelet 3. számú melléklete szerinti nyilatkozatát, a jelölt munkaköri leírását, valamint minden egyéb olyan iratot, amely a munkavégzés jogi jellegét alátámasztja.
+
+[^12]: A 3. § a 12/2014. (II. 28.) KIM rendelet 2. § (2) bekezdésével megállapított szöveg.

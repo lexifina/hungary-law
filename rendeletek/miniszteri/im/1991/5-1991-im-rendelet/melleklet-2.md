@@ -18,24 +18,6 @@
 
 ## a vizsgabizottság tagja a vizsgabizottság tagja
 
-2. számú melléklet az 5/1991. (IV. 4.) IM rendelethez[^58]
+2. számú melléklet az 5/1991. (IV. 4.) IM rendelethez[^65]
 
-| BIZONYÍTVÁNY | Közigazgatási és Igazságügyi Miniszter |
-
-| Ügyszám: ………………… |
-
-| ………………………………………………… |
-
-| aki …………................................, ............. év ........................................... hó ......... napján született, |
-
-| a jogi szakvizsgát |
-
-| …………….. eredménnyel letette. |
-
-| …………, ……… év ………………….. hó …… nap |
-
-| ………………………………. |
-
-| Közigazgatási és Igazságügyi Miniszter P. H. |
-
-[^58]: A 2. számú melléklet a 42/2012. (IX. 14.) KIM rendelet 16. §-ával megállapított szöveg.
+[^65]: A 2. számú melléklet a 42/2012. (IX. 14.) KIM rendelet 16. §-ával megállapított szöveg.
