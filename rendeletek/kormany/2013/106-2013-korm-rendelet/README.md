@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-106-20-
 | --- | --- | --- |
 | 2013-04-08 | 2013-106-20-22.1 | 106/2013. (IV. 5.) Korm. rendelet |
 | 2013-04-09 | 2013-106-20-22.2 | 2010: CXXX. törvény |
+| 2014-03-31 | 2013-106-20-22.3 | 2010: CXXX. törvény |
