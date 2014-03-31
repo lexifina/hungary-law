@@ -1,3 +1,1 @@
-83. § (1) Ha egy terület törvény erejénél fogva védett láp vagy szikes tó jogi jellegének ingatlan-nyilvántartásbeli feljegyzésére nem a 26. § (3) bekezdése szerinti határozat alapján került sor, és a természetvédelmi hatóság 2014. március 31-ig hivatalból meghozott döntése alapján a terület egésze vagy annak egy része vonatkozásában a törvény erejénél fogva védett láp vagy szikes tó jogi jelleg ingatlan-nyilvántartási feljegyzése nem felel meg a 23. § (3) bekezdés d) vagy e) pontjában foglalt feltételeknek, a természetvédelmi hatóság hivatalból kezdeményezi a jogi jelleg törlését az ingatlanügyi hatóságnál.
-
-(2) Az (1) bekezdés szerinti eljárásban a természetvédelmi hatóság kikéri az igazgatóság véleményét.
+### 83. §
