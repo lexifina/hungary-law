@@ -1,3 +1,3 @@
-## 15. §[^6]
+## „g) a fiatalkorú eljárás alá vont személy nyilatkozatát, hogy a helyszíni bírság megfizetését vállalja és aláírását,
 
-[^6]: A 15. § a 22. § (2) bekezdése alapján 2014. április 1-jén lép hatályba.
+## h) a fiatalkorú eljárás alá vont személy törvényes képviselőjének aláírását.”
