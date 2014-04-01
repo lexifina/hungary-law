@@ -1,1 +1,3 @@
+## „(1a) Felhatalmazást kap az iparügyekért felelős miniszter, hogy – az adópolitikáért felelős miniszterrel egyetértésben – a nyilvántartott szervezetek és a felvonó- és mozgólépcső ellenőrök engedélyezéséért és a nyilvántartásba vételért, a felvonók és mozgólépcsők nyilvántartásának vezetéséért, beleértve a nyilvántartásba vételt is, továbbá a felvonók és mozgólépcsők létesítésének, használatbavételének, áthelyezésének, átalakításának, megszüntetésének és ismételt üzemeltetésének engedélyezéséért fizetendő díj – ideértve a jogorvoslati díjat is – mértékét, valamint a beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat rendeletben határozza meg.”
+
 ### 289. §
