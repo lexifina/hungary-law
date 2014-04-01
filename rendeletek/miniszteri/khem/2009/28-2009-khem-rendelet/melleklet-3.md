@@ -10,4 +10,4 @@
 
 3. melléklet a 28/2009. (VI. 25.) KHEM rendelethez[^86]
 
-[^86]: A 3. melléklet a 64/2013. (X. 30.) NFM rendelet 7. §-ával megállapított szöveg.
+[^86]: A 3. melléklet a 14/2014. (III. 31.) NFM rendelet 1. §-ával megállapított szöveg.
