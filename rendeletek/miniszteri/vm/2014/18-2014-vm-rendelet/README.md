@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-18-20-2
 | --- | --- | --- |
 | 2014-03-11 | 2014-18-20-2Y.1 | 18/2014. (III. 10.) VM rendelet |
 | 2014-03-12 | 2014-18-20-2Y.2 | 2010: CXXX. törvény |
+| 2014-04-01 | 2014-18-20-2Y.3 | 2010: CXXX. törvény |
