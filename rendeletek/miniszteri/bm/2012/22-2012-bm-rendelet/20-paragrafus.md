@@ -10,10 +10,19 @@ a) az eljárás alá vont személy családi nevét, utónevét, születési hely
 
 b) személyazonosításra alkalmas igazolványának, vagy engedélyhez kötött járművezetés szabályainak megszegésével elkövetett szabálysértés esetén a vezetői engedély számát és típusát,
 
-c) az elkövetés helyét, idejét, a történeti tényállás rövid leírását, a megvalósított szabálysértési tényállást, gépjárművel elkövetett szabálysértés esetén a forgalmi rendszámot, a közlekedési előéleti pont számát,
+c)[^16] az elkövetés helyét, idejét, az elkövetett cselekmény leírását, az elkövetett szabálysértés megnevezését, gépjárművel elkövetett szabálysértés esetén a forgalmi rendszámot, valamint jogszabályban meghatározott, a közúti közlekedés biztonságát fokozottan veszélyeztető szabálysértés esetén a közlekedési előéleti pont számát,
 
 d) a kiszabott helyszíni bírság összegét,
 
-e) tájékoztatást arról, hogy a meg nem fizetett helyszíni bírságot 5000 forintonként 6 óra közérdekű munkával válthatja meg, valamint azt, hogy a bíróság 5000 forintonként egy napi szabálysértési elzárásra változtatja át,
+e)[^17] tájékoztatást arról, hogy – a gépjárművezető távollétében kiszabott helyszíni bírság kivételével – a meg nem fizetett helyszíni bírságot 5000 forintonként 6 óra közérdekű munkával válthatja meg, amelynek érdekében az állami foglalkoztatási szervnél a bírság megfizetésére nyitva álló határidő lejártát követő három munkanapon belül jelentkezhet, valamint azt, hogy a bíróság a meg nem fizetett és közérdekű munkával meg nem váltott helyszíni bírságot 5000 forintonként egy napi szabálysértési elzárásra változtatja át,
 
-f) a helyszíni bírság kiszabására jogosult szerv nevét, az intézkedő személy azonosító számát, vagy nevét.
+f) a helyszíni bírság kiszabására jogosult szerv nevét, az intézkedő személy azonosító számát, vagy nevét,
+
+g)[^18] a fiatalkorú eljárás alá vont személy nyilatkozatát, hogy a helyszíni bírság megfizetését vállalja és aláírását,
+
+h)[^19] a fiatalkorú eljárás alá vont személy törvényes képviselőjének aláírását.
+
+[^16]: A 20. § (3) bekezdés c) pontja a 80/2013. (XII. 23.) BM rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^17]: A 20. § (3) bekezdés e) pontja a 80/2013. (XII. 23.) BM rendelet 15. § (2) bekezdésével megállapított szöveg.
+[^18]: A 20. § (3) bekezdés g) pontját a 80/2013. (XII. 23.) BM rendelet 15. § (3) bekezdése iktatta be.
+[^19]: A 20. § (3) bekezdés h) pontját a 80/2013. (XII. 23.) BM rendelet 15. § (3) bekezdése iktatta be.

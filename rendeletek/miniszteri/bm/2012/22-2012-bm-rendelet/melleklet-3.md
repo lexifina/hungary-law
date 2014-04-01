@@ -42,7 +42,7 @@
 
 | A *-gal jelölt helyen a megfelelő rész kitöltendő. |
 
-3. melléklet a 22/2012. (IV. 13.) BM rendelethez[^24]
+3. melléklet a 22/2012. (IV. 13.) BM rendelethez[^28]
 
 A szabálysértési statisztikai adatgyűjtők az alábbi statisztikai adatokra kötelesek teljesíteni a szabálysértési statisztikai adatgyűjtési kötelezettségüket:
 
@@ -250,4 +250,4 @@ I. kiszabására jelenlévő vagy távollévő személlyel szemben került-e sor
 
 II. távollévővel szemben kiszabott helyszíni bírság esetén, ha a bírság megfizetésre került: a bírság összege, az elkövetett szabálysértés megnevezése, az elkövetés helye és időpontja, a megfizetés időpontja.
 
-[^24]: A 3. mellékletet a 80/2013. (XII. 23.) BM rendelet 19. §-a iktatta be.
+[^28]: A 3. mellékletet a 80/2013. (XII. 23.) BM rendelet 19. §-a iktatta be.
