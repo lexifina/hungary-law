@@ -6,10 +6,11 @@
 
 (3) Díjak és emlékplakettek tekintetében a kezdeményezéseket a díjhoz kapcsolódó szakterületért felelős állami vezető által vezetett díjbizottságok értékelik, és javaslatot tesznek az adományozással kapcsolatban. Egyéb elismerési formák tekintetében a Kitüntetési Bizottság tesz javaslatot.
 
-(4) A Vásárhelyi Pál Díj Bizottságba két tagot a belügyminiszter delegál.
+(4)[^5]
 
 (5) A miniszter a bizottságok javaslatainak figyelembevételével dönt az elismerések adományozásáról.
 
-(6)[^4] E rendelet alkalmazásában gazdálkodó szervezeten a polgári perrendtartásról szóló törvényben meghatározott gazdálkodó szervezetet kell érteni.
+(6)[^6] E rendelet alkalmazásában gazdálkodó szervezeten a polgári perrendtartásról szóló törvényben meghatározott gazdálkodó szervezetet kell érteni.
 
-[^4]: A 2. § (6) bekezdését a 22/2014. (III. 14.) VM rendelet 87. §-a iktatta be.
+[^5]: A 2. § (4) bekezdését a 18/2014. (III. 10.) VM rendelet 2. § (6) bekezdés a) pontja hatályon kívül helyezte.
+[^6]: A 2. § (6) bekezdését a 22/2014. (III. 14.) VM rendelet 87. §-a iktatta be.
