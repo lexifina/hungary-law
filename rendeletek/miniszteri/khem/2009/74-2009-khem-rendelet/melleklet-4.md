@@ -1,6 +1,6 @@
 4. melléklet a 74/2009. (XII. 7.) KHEM rendelethez[^21]
 
-A rendszerhasználati díjak megállapításának keretszabályai
+4A rendszerhasználati díjak megállapításának keretszabályai
 
 1. Ármegállapítási eljárások
 
@@ -78,13 +78,15 @@ HE: a háztartási energia KSH által közzétett éves átlagos árindexe.
 
 a) A szállítást, rendszerirányítást, tárolást és elosztást végző engedélyesek engedélyköteles tevékenysége(i) által szabadon elérhető nyereség felső korlátjának (NYK) kiszámítása adott engedélyesre:
 
-2010-re: NYK = 1,2 x TK2010 x (1 + CPIX2010/100 - k3)1/4 + TFK
+2010-re: NYK = 1,2 x TK2010 x (1 + CPIX2010/100 – k3) 1/4 + TFK
 
-2011-re: NYK = TK x (1 + CPIX2010/100)1/4 x (1 + CPIX2011/100) + TFK+TP
+2011-re: NYK = TK x (1 + CPIX2010/100)1/4 x (1 + CPIX2011/100) + TFK + TP
 
-2012-re: NYK = TK x (1 + CPIX2010/100)1/4 x (1 + CPIX2011/100) x (1 + CPIX2012/100) + TFK + TP
+2012-re: NYK = TK x (1 + CPIX2010/100) 1/4x (1 + CPIX2011/100) x (1 + CPIX2012/100) + TFK + TP
 
-2013-ra: NYK = TK x (1 + CPIX2010/100)1/4 x (1 + CPIX2011/100) x (1 +CPIX2012/100) x (1 + CPIX2013/100) + TFK + TP
+2013-ra: NYK = TK x (1 + CPIX2010/100) 1/4x (1 + CPIX2011/100) x (1 + CPIX2012/100) x (1 + CPIX2013/100)+ TFK + TP
+
+2014-re: NYK = TK2014 x (1 + CPIX2010/100) 1/4x (1 + CPIX2011/100) x (1 + CPIX2012/100) x (1 + CPIX2013/100) x (1 + CPIX2014/100)+ TFK + TP
 
 ahol:
 
@@ -94,11 +96,21 @@ TK2010: a szállító és a rendszerirányító hazai célú földgázszállít�
 
 TK: az adott hatósági áras engedélyes adott tevékenységére kalkulált, a nyereségkorlát számításakor figyelembe vett súlyozott tőkeköltségelem (az állami párnagáz tároló általi megszerzése során befizetett bányajáradéknak a tárolásra jutó tőkefedezeti költsége nélkül), számítási módja
 
-– az elosztás esetében: a nyereségkorlát számításakor figyelembe vett súlyozott tőkeköltség elem az értékesítési kategóriákra osztott tőkeköltségek összege. Az értékesítési kategóriákra osztott tőkeköltség megállapítása az engedélyesek (a 20 m3/h feletti értékesítési kategóriákra vonatkozó kapacitás-lekötési és gázmérő névleges teljesítmény adatokkal, egyetemes szolgáltatásra jogosult és nem jogosult bontásban) adatszolgáltatása alapján történik.
+- az elosztás esetében: a nyereségkorlát számításakor figyelembe vett súlyozott tőkeköltség elem az értékesítési kategóriákra osztott tőkeköltségek összege. Az értékesítési kategóriákra osztott tőkeköltség megállapítása az engedélyesek (a 20 m3/h feletti értékesítési kategóriákra vonatkozó kapacitás-lekötési és gázmérő névleges teljesítmény adatokkal, egyetemes szolgáltatásra jogosult és nem jogosult bontásban) adatszolgáltatása alapján történik.
 
-– szállítás és tárolás esetében: TK = TIEi x (f x THESZ + g x THV) ahol:
+- szállítás és tárolás esetében: TK = TIEi x (f x THESZ + g x THV)
+
+TK2014:
+
+- az elosztás és tárolás esetében megegyezik a TK meghatározásánál írtakkal
+
+- szállítás esetében: TK = TIEi x [i x THSZ_B + (1-i) x THSZ] ahol:
 
 TIEi: a 2009. évi eszköz- és költségfelülvizsgálatba bevont adott hatósági áras engedélyes azon 2008. év végi, valamint a 2009. évben dokumentáltan aktiválásra kerülő tárgyi eszközeinek és immateriális javainak 2010. áprilisi árszintre átszámított (átértékelt) nettó értéke, az 1. mellékletben ismertetett díjképzési módszertan szerint megállapított díjakban elismert eszközök nettó értéke nélkül, amelyeket az eszköz- és költség-felülvizsgálat alapján a Hivatal indokoltnak minősített [meghatározásánál a hatósági áras engedélyes általános működését lehetővé tévő eszközök (például irodaház) értékének arányos részét is figyelembe vette],
+
+THSZ_B: a földgázpiaci egyetemes szolgáltatáshoz kapcsolódó árak képzéséről szóló 29/2009. (VI. 25.) KHEM rendelet 6. § (4) bekezdése szerint figyelembe vett reál hozamtényező, százalékban kifejezve,
+
+i: arányszám, amely a 3/A. § (4) bekezdése alapján a Hivatal részére megküldött, a nyereségkorlát számítással érintett évre vonatkozó összesített mennyiségi adatok és az azonos naptári évben az alaprendszeren szállított összes mennyiség alapján kerül kiszámításra,
 
 f: az egyetemes szolgálásra jogosult felhasználók ellátása érdekében lekötött éves kapacitások aránya az adott gázév tényleges összes lekötéséhez viszonyítva
 
@@ -111,6 +123,8 @@ CPIX2011: Abban az esetben, ha a KSH által közzétett 2011. évi éves átlago
 CPIX2012: Abban az esetben, ha a KSH által közzétett 2012. évi éves átlagos fogyasztói árindexből a háztartási energia sor elhagyásával számított árindex mértéke meghaladja az 5%-ot, úgy CPIX2012 megegyezik az 5%-ot meghaladó értékkel, százalékban kifejezve. Egyébként a (1 + CPIX2012/100) kifejezés értéke 1.
 
 CPIX2013: Abban az esetben, ha a KSH által közzétett 2013. évi éves átlagos fogyasztói árindexből a háztartási energia sor elhagyásával számított árindex mértéke meghaladja az 5%-ot, úgy CPIX2013 megegyezik az 5%-ot meghaladó értékkel, százalékban kifejezve. Egyébként a (1 + CPIX2013/100) kifejezés értéke 1.
+
+CPIX2014: Abban az esetben, ha a KSH által közzétett 2014. évi éves átlagos fogyasztói árindexből a háztartási energia sor elhagyásával számított árindex mértéke meghaladja az 5%-ot, úgy CPIX2014 megegyezik az 5%-ot meghaladó értékkel, százalékban kifejezve. Egyébként a (1 + CPIX2014/100) kifejezés értéke 1.
 
 TFK: a párnagáz elismert tőkefedezeti költsége,
 
@@ -188,4 +202,4 @@ zh: a tárgyidőszaki rendszeres ármegállapításnál számított hibakorrekci
 
 zhf: a tárgyidőszaki rendszeres ármegállapításnál figyelembe veendő, hibakorrekciós tényezővel korrigált felülvizsgált inflációkövetési tényező.
 
-[^21]: A 4. mellékletet a 18/2010. (XII. 3.) NFM rendelet 16. §-a iktatta be, szövege a 28/2012. (V. 31.) NFM rendelet 15. §-ával megállapított, a 78/2012. (XII. 22.) NFM rendelet 25. §-a, a 13/2013. (IV. 3.) NFM rendelet 7. §-a, a 43/2013. (VII. 25.) NFM rendelet 13. § (2) bekezdés d) pontja és (3) bekezdése, az 58/2013. (IX. 27.) NFM rendelet 2. §-a, a 60/2013. (X. 16.) NFM rendelet 1. §-a, a 75/2013. (XII. 16.) NFM rendelet 1. §-a szerint módosított szöveg.
+[^21]: A 4. mellékletet a 18/2010. (XII. 3.) NFM rendelet 16. §-a iktatta be, szövege a 28/2012. (V. 31.) NFM rendelet 15. §-ával megállapított, a 78/2012. (XII. 22.) NFM rendelet 25. §-a, a 13/2013. (IV. 3.) NFM rendelet 7. §-a, a 43/2013. (VII. 25.) NFM rendelet 13. § (2) bekezdés d) pontja és (3) bekezdése, az 58/2013. (IX. 27.) NFM rendelet 2. §-a, a 60/2013. (X. 16.) NFM rendelet 1. §-a, a 75/2013. (XII. 16.) NFM rendelet 1. §-a, a 14/2014. (III. 31.) NFM rendelet 6. §-a szerint módosított szöveg.
