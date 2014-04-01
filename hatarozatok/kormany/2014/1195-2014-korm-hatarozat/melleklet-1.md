@@ -10,6 +10,8 @@
 
 ## Határidő: azonnal
 
-## 5. visszavonja az Államreform Operatív Program 2011–2013. időszakra szóló akciótervének módosításáról és az Államreform Operatív Program tartaléklistájáról szóló 1677/2013. (IX. 30.) Korm. határozatot.
+## 5.[^2]
 
 1. melléklet az 1195/2014. (III. 31.) Korm. határozathoz
+
+[^2]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
