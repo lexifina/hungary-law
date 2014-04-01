@@ -174,6 +174,6 @@
 
 ## 5.
 
-6. melléklet a 71/2011. (XII. 31.) BM rendelethez[^54]
+6. melléklet a 71/2011. (XII. 31.) BM rendelethez[^57]
 
-[^54]: A 6. melléklet a 35/2012. (VII. 13.) BM rendelet 13. § d) pontjával megállapított szöveg.
+[^57]: A 6. melléklet a 35/2012. (VII. 13.) BM rendelet 13. § d) pontjával megállapított szöveg.

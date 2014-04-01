@@ -24,6 +24,8 @@
 
 | 11. | Esőgallér | db | 1 |
 
+| 12. | Kötött kesztyű | pár | 1 |
+
 ## * Csak a rendszeresítést követően adható ki.
 
 ## 2. A szakközépiskolák tanulói állománya részére egységfelszerelésként 1 db málhazsákot és 1 db jó láthatósági mellényt kell kiadni.
@@ -48,7 +50,7 @@
 
 | 8. | Pulóver |
 
-| 9. | Kötött kesztyű |
+| 9. |  |
 
 | 10. | Zokni |
 
@@ -74,7 +76,7 @@
 
 | 7. | Póló |
 
-| 8. | Kötött kesztyű |
+| 8. |  |
 
 | 9. | Zokni |
 
