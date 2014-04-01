@@ -1,8 +1,8 @@
 ## (A VET 38–39. §-ához és 66. §-ához)
 
-## Közvetlen vezeték[^44]
+## Közvetlen vezeték[^46]
 
-12. §[^45] (1) A közvetlen vezeték üzemeltetője felelős a közvetlen vezeték zavartalan és biztonságos működtetéséért, üzemeltetéséért, karbantartásáért és a villamos energia vételezőhöz történő továbbításáért.
+12. §[^47] (1) A közvetlen vezeték üzemeltetője felelős a közvetlen vezeték zavartalan és biztonságos működtetéséért, üzemeltetéséért, karbantartásáért és a villamos energia vételezőhöz történő továbbításáért.
 
 (2) A közvetlen vezeték üzemeltetője az erőmű és a közcélú hálózat csatlakozási pontjára vonatkozóan a hálózati engedélyessel hálózathasználati szerződést köthet, amely alapján a hálózati engedélyes az erőmű és a közcélú hálózat csatlakozási pontján a közvetlen vezeték üzemeltetője rendelkezésére áll.
 
@@ -18,5 +18,5 @@ b) a közvetlen vezeték üzemeltetője és a termelő közötti szerződésben,
 
 c) a közvetlen vezeték üzemeltetője és a közvetlen vezetékről ellátott vételező közötti, a közvetlen vezeték használatára vonatkozó jogokat és kötelezettségeket tartalmazó szerződésben (a továbbiakban: közvetlen vezeték használati szerződés).
 
-[^44]: A Vhr. 12. §-át megelőző alcíme a 378/2011. (XII. 31.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^45]: A Vhr. 12. §-a a 378/2011. (XII. 31.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^46]: A Vhr. 12. §-át megelőző alcíme a 378/2011. (XII. 31.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^47]: A Vhr. 12. §-a a 378/2011. (XII. 31.) Korm. rendelet 5. §-ával megállapított szöveg.

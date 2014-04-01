@@ -28,3 +28,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-273-20-
 | 2014-01-01 | 2007-273-20-22.31 | 100/2011. (VI. 29.) Korm. rendelet |
 | 2014-01-21 | 2007-273-20-22.32 | 9/2014. (I. 20.) Korm. rendelet |
 | 2014-03-15 | 2007-273-20-22.33 | 53/2014. (III. 3.) Korm. rendelet |
+| 2014-04-01 | 2007-273-20-22.34 | 110/2014. (IV. 1.) Korm. rendelet |

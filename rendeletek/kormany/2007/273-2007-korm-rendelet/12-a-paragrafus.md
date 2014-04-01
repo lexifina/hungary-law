@@ -1,4 +1,4 @@
-12/A. §[^46] (1) A közvetlen vezeték használati szerződésnek a közvetlen vezetékre kapcsolódó vételező vonatkozásában tartalmaznia kell a 13/D. §-ban meghatározott rendelkezéseket azzal, hogy a magánvezeték alatt közvetlen vezeték értendő, valamint a felhasználóra vonatkozó rendelkezéseket nem kell alkalmazni. A vételező, a hálózati engedélyes, a termelő és a közvetlen vezeték üzemeltetője megállapodik a VET 38. § (2)–(3) bekezdésében foglaltak betartását biztosító eljárásrendről, amelyet a VET 38. § (3) bekezdésében foglalt megállapodáshoz csatolni kell.
+12/A. §[^48] (1) A közvetlen vezeték használati szerződésnek a közvetlen vezetékre kapcsolódó vételező vonatkozásában tartalmaznia kell a 13/D. §-ban meghatározott rendelkezéseket azzal, hogy a magánvezeték alatt közvetlen vezeték értendő, valamint a felhasználóra vonatkozó rendelkezéseket nem kell alkalmazni. A vételező, a hálózati engedélyes, a termelő és a közvetlen vezeték üzemeltetője megállapodik a VET 38. § (2)–(3) bekezdésében foglaltak betartását biztosító eljárásrendről, amelyet a VET 38. § (3) bekezdésében foglalt megállapodáshoz csatolni kell.
 
 (2) A közvetlen vezeték üzemeltetőjének felelőssége a vételezővel szemben – figyelemmel a 12. § (5) bekezdésének erőmű üzemszünetére vonatkozó rendelkezésére is – a villamos energiának az erőmű csatlakozási pontjától a közvetlen vezetékre kapcsolódó vételező kapcsolódási pontjáig történő szállítására terjed ki.
 
@@ -10,4 +10,4 @@
 
 (6) Ha a vételező a közcélú hálózathoz kizárólag közvetlenül kíván csatlakozni, a közvetlen vezeték engedélyese biztosítja a közcélú hálózatra csatlakozásig a közvetlen vezetékhez való hozzáférést, valamint a közcélú hálózathoz való csatlakozás érdekében a hálózati engedélyessel együttműködik.
 
-[^46]: A Vhr. 12/A. §-át a 378/2011. (XII. 31.) Korm. rendelet 5. §-a iktatta be.
+[^48]: A Vhr. 12/A. §-át a 378/2011. (XII. 31.) Korm. rendelet 5. §-a iktatta be.
