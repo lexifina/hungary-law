@@ -2,17 +2,17 @@
 
 |  | fgFt = a x fgFtA + b x fgFtT | (Ft/MJ) | (1) |
 
-|  | ha fgFtS < fgFtH akkor fgFtA = 0,7 x fgFtS + 0,3 x fgFtH | (Ft/MJ) | (2) |
+|  | ha fgFtS < fgFtH akkor fgFtA = 0,75 x fgFtS + 0,25 x fgFtH | (Ft/MJ) | (2) |
 
 |  | ha fgFtS > fgFtH akkor fgFtA = fgFtH | (Ft/MJ) | (2) |
 
-|  | ahol: |  |  |
+|  | ahol |  |  |
 
-|  | fgFtH = erUSD x fgUSDA / 1000 | (Ft/MJ) | (3) |
+|  | fgFtH = erUSD x fgUSDA /1000 | (Ft/MJ) | (3) |
 
 |  | fgFtS = erEUR x fgEURA | (Ft/MJ) | (4) |
 
-|  | fgUSDA = 14,426 x (0,5 x fo / 520,928 + 0,5 x go / 935,741) | (USD/GJ) | (5) |
+|  | fgUSDA = 14,426 x 0,5 x fo /520,928+0,5 x go / 935,741 | (USD/GJ) | (5) |
 
 |  | fgEURA = (fgs + sp) | (EUR/MJ) | (6) |
 
@@ -136,6 +136,6 @@
 
 ## zhf: a tárgyidőszaki (rendszeres) árkorrekciós javaslatban figyelembe veendő, hibakorrekciós tényezővel korrigált felülvizsgált inflációkövetési tényező
 
-2. melléklet a 29/2009. (VI. 25.) KHEM rendelethez[^35]
+2. melléklet a 29/2009. (VI. 25.) KHEM rendelethez[^34]
 
-[^35]: A 2. mellékletet újonnan a 72/2009. (XII. 7.) KHEM rendelet 6. §-a iktatta be.
+[^34]: A 2. mellékletet újonnan a 72/2009. (XII. 7.) KHEM rendelet 6. §-a iktatta be.
