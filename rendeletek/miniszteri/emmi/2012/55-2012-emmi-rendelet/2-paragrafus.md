@@ -1,6 +1,5 @@
-2. § (1)–(9)[^2]
+2. § (1)–(9)[^3]
 
-(10)[^3]
+(10) Az R1. 2. számú melléklete a 10. melléklet szerint módosul.
 
-[^2]: A 2. § (1)–(9) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: A 2. § (10) bekezdése a 18. § (2) bekezdése alapján 2014. április 1-jén lép hatályba.
+[^3]: A 2. § (1)–(9) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
