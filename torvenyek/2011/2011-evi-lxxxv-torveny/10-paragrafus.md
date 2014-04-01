@@ -16,6 +16,8 @@ teljesíti.
 
 (3) A tárgyévet megelőzően az állami adóhatóság nyilvántartásában lévő, a tárgyévre vonatkozóan egyéni hulladékkezelés teljesítést választó termékdíj-kötelezettnek az (1) bekezdés szerinti bejelentést tárgyév január 31-ig kell megtennie termék- és anyagáramonként.
 
+(3a) A tárgyévet megelőzően az állami adóhatóság nyilvántartásában lévő, a tárgyévre vonatkozóan termékdíjátalány-fizetést választó kötelezettnek az (1) bekezdés szerinti bejelentést tárgyév január 31-ig kell megtennie. E bekezdés szerinti bejelentést a kötelezettnek tárgyévenként nem kell megismételnie, ha a bejelentés alapjául szolgáló termékdíjátalány-fizetési kötelezettség feltételei változatlanul fennállnak.
+
 (4) A 6. § (1) vagy (4) bekezdésében foglaltak tárgyévtől történő alkalmazását választó kötelezettnek január 31-ig kell bejelentést tennie, amennyiben a kötelezettségét a bejelentést megelőzően a bejelentésében foglaltaktól eltérő időpontban keletkeztette.
 
 (5) A (3) és (4) bekezdésben előírt határidő elmulasztása esetén igazolásnak nincs helye és a (3) vagy (4) bekezdésben meghatározottak nem alkalmazhatók.

@@ -14,23 +14,57 @@
 
 5. bérgyártás: a megrendelő (bérgyártató) által a Magyarországon letelepedett természetes, vagy jogi személy (a továbbiakban együtt: bérgyártó) részére ellenszolgáltatás nélkül – részben, vagy egészben – rendelkezésére bocsátott anyagokból, félkész termékekből ellenszolgáltatás ellenében termékdíjköteles termék előállítása;
 
-6. csekély mennyiségű csomagolást forgalomba hozó vagy saját célra felhasználó kötelezett: legfeljebb tárgyévi
+6. csekély mennyiségű kibocsátó: a tárgyévben
 
-a) 3000 kg üveg,
+a) 30 kg akkumulátort,
 
-b) 300 kg – a műanyag bevásárló-reklám táska nélkül számított – műanyag,
+b) csomagolószer termékkör esetén
 
-c) 75 kg műanyag bevásárló-reklám táska,
+ba) 3000 kg üveget,
 
-d) 300 kg társított vagy rétegzett,
+bb) 300 kg – a műanyag bevásárló-reklám táska nélkül számított – műanyagot,
 
-e) 500 kg papír, fa, természetes alapú textil,
+bc) 75 kg műanyag bevásárló-reklám táskát,
 
-f) 300 kg fém,
+bd) 300 kg társított vagy rétegzett csomagolószert,
 
-g) 300 kg egyéb,
+be) 500 kg papír, fa, természetes alapú textil csomagolószert,
 
-azonban a b)–g) pontok esetén mindösszesen legfeljebb 1000 kg csomagolást kiskereskedelmi értékesítés során a fogyasztó számára forgalomba hozó vagy saját célra felhasználó kötelezett;
+bf) 300 kg fém csomagolószert,
+
+bg) 300 kg egyéb csomagolószert,
+
+azonban a bb)–bg) alpontok esetén mindösszesen legfeljebb 1000 kg csomagolószert,
+
+c) 40 kg egyéb kőolajterméket,
+
+d) elektromos, elektronikai berendezés termékkör esetében,
+
+da) 40 kg háztartási nagygépet,
+
+db) 40 kg háztartási kisgépet,
+
+dc) 40 kg információs (IT) és távközlési berendezést, kivéve a rádiótelefon készüléket,
+
+dd) 40 kg szórakoztató elektronikai cikket,
+
+de) 40 kg barkácsgépet, szerszámot,
+
+df) 10 kg játékot, szabadidős és sportfelszerelést,
+
+dg) 10 kg ellenőrző, vezérlő és megfigyelő eszközt,
+
+dh) 10 kg adagoló automatát,
+
+di) 5 kg rádiótelefon készüléket
+
+mindösszesen legfeljebb 100 kg elektromos, elektronikai terméket;
+
+e) 60 kg gumiabroncsot,
+
+f) 100 kg reklámhordozó papírt
+
+meg nem haladó tömegű termékdíjköteles terméket – kizárólag végfelhasználó vevő részére – belföldi forgalomba hozó, saját célra felhasználó, vagy készletre vevő kötelezett;
 
 7. csomagolás: valamennyi olyan, bármilyen tulajdonságú anyagból készült termék, amelyet áru tartására, megóvására, átadására, átvételére, szállítására, valamint bemutatására használnak, beleértve minden terméket a nyersanyagoktól kezdve a feldolgozott árucikkekig, továbbá az ugyanilyen célra használt egyutas árucikkek; így:
 
@@ -140,7 +174,7 @@ i) nyilatkozattételi
 
 kötelezettség;
 
-30. termékdíjátalány: a csekély mennyiségű csomagolást forgalomba hozó kötelezett, továbbá a 73/2009/EK tanácsi rendelet szerinti mezőgazdasági termelő kötelezett számára meghatározott díjfizetési kötelezettség;
+30. termékdíjátalány: a csekély mennyiségű kibocsátó, továbbá a közös agrárpolitika keretébe tartozó, mezőgazdasági termelők részére meghatározott közvetlen támogatási rendszerek közös szabályainak megállapításáról és a mezőgazdasági termelők részére meghatározott egyes támogatási rendszerek létrehozásáról, az 1290/2005/EK, a 247/2006/EK és a 378/2007/EK rendelet módosításáról, valamint az 1782/2003/EK rendelet hatályon kívül helyezéséről szóló, 2009. január 19-i 73/2009/EK tanácsi rendelet szerinti mezőgazdasági termelő kötelezett számára meghatározott díjfizetési kötelezettség;
 
 31. újrahasználat: a termékdíjköteles termék Ht. szerinti újrahasználata;
 

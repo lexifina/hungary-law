@@ -2,9 +2,21 @@
 
 15. § (1) E törvény II. Fejezete szerinti termékdíj-kötelezettség teljesítését e §-ban foglalt eltérésekkel kell alkalmazni.
 
-(2) A csekély mennyiségű csomagolást forgalomba hozó vagy saját célú felhasználó kötelezett, továbbá a (4) bekezdésben foglalt éves értékesítési nettó árbevétellel rendelkező, valamint a tárgyévben kötelezetté váló, 73/2009/EK tanácsi rendelet szerinti mezőgazdasági termelő kötelezett termékdíjátalány fizetésére jogosult.
+(2) A csekély mennyiségű kibocsátó, továbbá a (4) bekezdésben foglalt éves értékesítési nettó árbevétellel rendelkező, valamint a tárgyévben kötelezetté váló, 73/2009/EK tanácsi rendelet szerinti mezőgazdasági termelő kötelezett termékdíjátalány fizetésére jogosult.
 
-(3) A csekély mennyiségű csomagolást forgalomba hozó kötelezett termékdíjátalánya 12 000 Ft/év, .
+(3) A csekély mennyiségű kibocsátó kötelezett termékdíj átalánya:
+
+a) akkumulátor termékáram esetén 2 000 Ft/év;
+
+b) csomagolószer termékáram esetén 12 000 Ft/év;
+
+c) egyéb kőolajtermék termékáram esetén 4 000 Ft/év;
+
+d) elektromos, elektronikai berendezés termékáram esetén 10 000 Ft/év;
+
+e) gumiabroncs termékáram esetén 3 000 Ft/év;
+
+f) reklámhordozó papír termékáram esetén 6 000 Ft/év.
 
 (4) A tárgyévet megelőző évben legfeljebb évi tíz millió forintos értékesítési nettó árbevételt elérő mezőgazdasági termelő termékdíjátalánya 2000 Ft/év. A tárgyévet megelőző évben évi tíz millió forintot meghaladó, azonban legfeljebb évi ötven millió forintos értékesítési nettó árbevételt elérő mezőgazdasági termelő termékdíjátalánya 7000 Ft/év, a tárgyévben kötelezetté váló mezőgazdasági termelő termékdíjátalánya 5000 Ft/év.
 
