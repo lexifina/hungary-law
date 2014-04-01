@@ -1,4 +1,4 @@
-1. melléklet a 64/2012. (XII. 12.) BM rendelethez[^2]
+1. melléklet a 64/2012. (XII. 12.) BM rendelethez[^4]
 
 ## Ruházati alapellátási normák
 
@@ -170,4 +170,4 @@ A ruházati alapellátási normák megjelölései:
 
 9. P2: női polgári ruhás alapellátási norma
 
-[^2]: Az 1. melléklet a 49/2013. (VIII. 27.) BM rendelet 1. §-a szerint módosított szöveg.
+[^4]: Az 1. melléklet a 49/2013. (VIII. 27.) BM rendelet 1. §-a szerint módosított szöveg.
