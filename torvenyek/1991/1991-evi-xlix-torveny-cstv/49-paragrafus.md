@@ -6,6 +6,8 @@
 
 (3) Az értékesítésen a felszámoló, a vagyonfelügyelő (ideiglenes vagyonfelügyelő), az említett szervezetek tulajdonosa (tagja, részvényese, alapítója), vezető tisztségviselője, cégvezetője, felügyelőbizottsági tagja, könyvvizsgálója, foglalkoztatottja, a felszámolóbiztos, valamint az előbbiekben említett személyek közeli hozzátartozója, továbbá az említettek többségi befolyással rendelkező gazdálkodó szervezete tulajdonjogot vagy más vagyoni értékű jogot nem szerezhet.
 
+(3b) Az értékesítés során – kivéve a jogszabályon alapuló elővásárlási jog gyakorlását – nem szerezhet tulajdont olyan személy vagy szervezet sem, aki vagy amely az adós kizárólagos vagy többségi befolyással rendelkező tulajdonosa, vagy olyan gazdálkodó szervezet, amely az adóssal együtt elismert vagy tényleges vállalatcsoport tagja.
+
 (4) A tulajdonjogot vagy más vagyoni értékű jogot szerző fél a nyilvános értékesítésen az adóssal szemben beszámítással nem élhet, ide nem értve, ha az adós vagyonaként olyan lakóingatlan kerül értékesítésre, amelynek ellenértékét a magánszemély vevő részben vagy egészben kiegyenlítette, de a tulajdonjog átruházására nem került sor a felszámolás elrendelése előtt.
 
 (5) Ha a felszámoló a vagyontárgy értékesítése során az e törvényben foglalt – az értékesítés formáira és a közjegyző igénybevételére vonatkozó – rendelkezéseknek nem tesz eleget, az érdekelt fél az értékesítéstől számított 30 napon belül az értékesítés – így különösen a pályázat, árverés – eredményeként megkötött adásvételi szerződést a bíróságnál [6. § (1) bek.] keresettel megtámadhatja. E határidő elmulasztása jogvesztéssel jár.

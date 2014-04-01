@@ -8,6 +8,14 @@
 
 (4) A (3) bekezdés szerinti hozzájárulás egy évre szól. Ha a felszámoló az egy év elteltével tovább akarja folytatni a tevékenységet, ismét meg kell szereznie ehhez a választmány (hitelezői képviselő) jóváhagyását, legkésőbb az egy év elteltét megelőző 30 napon belül.
 
+(4a) A felszámoló az adós vagyontárgyait csak a hitelezői választmány, illetve a hitelezők képviselője jóváhagyásával adhatja bérbe vagy engedheti át használatba olyan személynek vagy szervezetnek, aki vagy amely
+
+a) az adós felszámolás elrendelésekor vagy azt megelőző egy éven belül vezető tisztségviselője vagy
+
+b) az adós kizárólagos vagy többségi befolyással rendelkező tulajdonosa
+
+volt.
+
 (5) A felszámoló külön nyilvántartásba veszi
 
 a)

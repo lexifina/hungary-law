@@ -1,6 +1,10 @@
 48. § (1) A felszámoló az adós követeléseit esedékességkor behajtja, igényeit érvényesíti, és vagyonát értékesíti. A felszámoló a vagyont — kedvezőbb értékesítés érdekében — a hitelezőknek a 44. §-ban meghatározott arányú egyetértése esetén korlátolt felelősségű társaság, részvénytársaság vagy szövetkezet részére nem pénzbeli betétként (hozzájárulásként) rendelkezésre bocsáthatja.
 
-(2)
+(2) A felszámoló az értékesítés megkezdéséről értesíti azokat a személyeket és szervezeteket, akik (amelyek) az adós értékesítésre kerülő vagyontárgyán közhiteles nyilvántartásba bejegyzett joggal rendelkeznek vagy az adós értékesítésre kerülő vagyontárgyára vonatkozóan elővásárlási joggal rendelkeznek.
+
+(2a) A felszámoló az értékesítéskor ellenőrzi, hogy a vevő nem esik-e az e törvényben meghatározott kizáró ok alá.
+
+(2b) A felszámoló a (2)–(2a) bekezdés szerinti személyek, szervezetek azonosítására és az őket megillető jogokra vonatkozóan nyilvántartást vezet az értékesítés megkezdéséről történő tájékoztatásuk, továbbá annak érdekében, hogy ne vehessen részt az értékesítésben olyan személy vagy szervezet, amely kizáró ok alá esik. Ezeket az adatokat a felszámoló a felszámolási eljárás jogerős lezárásáig jogosult kezelni.
 
 (3) A felszámoló a felszámolási eljárás alatt köteles gondoskodni az adós vagyonának megóvásáról, megőrzéséről, különösen a mezőgazdaságilag művelhető földek termőképességének fenntartásáról, az engedély nélkül más célra hasznosított termőföld eredeti állapotba történő helyreállításáról, az erdőfelújítási és erdőállomány nevelési munkák elvégzéséről, továbbá a környezetvédelmi, természetvédelmi és műemlékvédelmi követelmények betartásáról, a felszámolás kezdő időpontját megelőző időszakból eredő, bizonyított környezeti károsodások, környezeti terhek olyan rendezéséről, amely az eljárás során a környezeti károsodások, illetve terhek elhárítását, megszüntetését, illetve a vagyontárgyaknak a környezeti terhekkel történő értékesítését is jelenti.
 

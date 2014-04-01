@@ -14,7 +14,9 @@ f) a felszámolás elrendeléséről az 57. § (1) bekezdésének c) pontjában 
 
 g) a felszámoló kérésére az adós felszámolás előtti tevékenységével, a vagyontárgyak elhelyezésével kapcsolatos tájékoztatást megadni, a felszámoló tevékenységét elősegíteni,
 
-h) a felszámolás elrendeléséről haladéktalanul értesíteni az adós értékpapírszámláját vezető szolgáltatót és az egyéb pénzpiaci eszközeit kezelő szolgáltatót.
+h) a felszámolás elrendeléséről haladéktalanul értesíteni az adós értékpapírszámláját vezető szolgáltatót és az egyéb pénzpiaci eszközeit kezelő szolgáltatót,
+
+i) a 26. § (5) bekezdése alapján a felszámolási költségekre céltartalékolással elkülönített összeget a felszámoló rendelkezésére bocsátani.
 
 (2) A gazdálkodó szervezet vezetője az (1) bekezdés b) pontjában előírt kötelezettségének a minősített adatvédelmi, valamint a személyiségi jogok védelmét biztosító szabályok betartásával köteles eleget tenni.
 
