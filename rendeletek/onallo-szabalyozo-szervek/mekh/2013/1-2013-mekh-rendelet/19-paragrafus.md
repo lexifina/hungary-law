@@ -6,6 +6,6 @@
 
 (3) A téli fogyasztási időszakon kívüli időszakban a megszakítható kapacitás-lekötés napi szállítási kapacitásdíjának mértéke legfeljebb a 2. melléklet II. pontjában meghatározott éves szállítási kapacitásdíj 50%-ának az 1/60-ad része.
 
-(4)[^58] A nem nominált kapacitásokat napi megszakítható kapacitásként fel kell ajánlani, amelynek a díja a 2. melléklet II. pontjában meghatározott, a (2) vagy (3) bekezdés szerint korrigált szállítási kapacitásdíj 50%-a.
+(4)[^65] A nem nominált kapacitásokat napi megszakítható kapacitásként fel kell ajánlani, amelynek a díja a 2. melléklet II. pontjában meghatározott, a (2) vagy (3) bekezdés szerint korrigált szállítási kapacitásdíj 50%-a.
 
-[^58]: A 19. § (4) bekezdése a 6/2013. (XII. 16.) MEKH rendelet 12. §-ával megállapított szöveg.
+[^65]: A 19. § (4) bekezdése a 6/2013. (XII. 16.) MEKH rendelet 12. §-ával megállapított szöveg.

@@ -1,6 +1,6 @@
-## 3/C. §[^27] A megszakítható szabványos kapacitástermék díja a 3/B. § (3) bekezdésében meghatározott, megfelelő időtávú kapacitástermék szállítási kapacitásdíjának 10%-a.
+## 3/C. §[^33] A megszakítható szabványos kapacitástermék díja a 3/B. § (3) bekezdésében meghatározott, megfelelő időtávú kapacitástermék szállítási kapacitásdíjának 10%-a.
 
-4. § (1)[^28] A Hivatal az egyetemes szolgáltatásra jogosult felhasználók ellátásának érdekében történő földgáz éves tárolói kapacitás-lekötés mértékét évente egyszer, május 1-jétől április 30-ig terjedő időszak vonatkozásában állapítja meg. A kapacitás-lekötés mértékének megállapításakor a Hivatal az adott év április 1. napján lekötött kapacitásokat veszi figyelembe a földgáztárolói engedélyessel egyeztetve.
+4. § (1)[^34] A Hivatal az egyetemes szolgáltatásra jogosult felhasználók ellátásának érdekében történő földgáz éves tárolói kapacitás-lekötés mértékét évente egyszer, május 1-jétől április 30-ig terjedő időszak vonatkozásában állapítja meg. A kapacitás-lekötés mértékének megállapításakor a Hivatal az adott év április 1. napján lekötött kapacitásokat veszi figyelembe a földgáztárolói engedélyessel egyeztetve.
 
 (2) Az (1) bekezdés szerinti mérték megállapítása érdekében
 
@@ -22,5 +22,5 @@ b) a rendszerhasználóként eljáró felhasználók
 
 (8) Amennyiben a (3) bekezdés szerinti mérték (tárgyidőszaki mérték) eltér a megelőző időszakra megállapított mértéktől, úgy a megelőző időszak április 1–30. napjaira vonatkozó tárolói kapacitás díjat a tárgyidőszaki mérték szerint korrigálni kell. A korrekció miatti elszámolást a földgáz tárolói engedélyeseknek legkésőbb június 15-ig kell megtenniük.
 
-[^27]: A 3/C. §-t a 6/2013. (XII. 16.) MEKH rendelet 3. §-a iktatta be.
-[^28]: A 4. § (1) bekezdése a 6/2013. (XII. 16.) MEKH rendelet 25. § d) pontja szerint módosított szöveg.
+[^33]: A 3/C. §-t a 6/2013. (XII. 16.) MEKH rendelet 3. §-a iktatta be.
+[^34]: A 4. § (1) bekezdése a 6/2013. (XII. 16.) MEKH rendelet 25. § d) pontja szerint módosított szöveg.

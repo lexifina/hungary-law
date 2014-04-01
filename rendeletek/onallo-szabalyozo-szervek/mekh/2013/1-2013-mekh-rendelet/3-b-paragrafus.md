@@ -4,16 +4,22 @@
 
 (3) A nem megszakítható szabványos kapacitástermékek díját az egy évnél rövidebb időtartamú kapacitástermékek esetében a 2. melléklet II. pontjában meghatározott éves szállítási kapacitásdíj mértékében kell meghatározni az alábbiak szerint:
 
-a) a negyedéves nem megszakítható szabványos kapacitás díja naptári negyedévenként október 1. és március 31. között az éves szállítási alapdíj 45%-a,
+a)[^27] a negyedéves nem megszakítható szabványos kapacitás díja naptári negyedévenként október 1. és március 31. között az éves szállítási kapacitásdíj 45%-a,
 
-b) a negyedéves nem megszakítható szabványos kapacitás díja naptári negyedévenként április 1. és szeptember 30. között az éves szállítási alapdíj 10%-a,
+b)[^28] a negyedéves nem megszakítható szabványos kapacitás díja naptári negyedévenként április 1. és szeptember 30. között az éves szállítási kapacitásdíj 10%-a,
 
-c) a havi nem megszakítható szabványos kapacitás díja naptári hónaponként október 1. és március 31. között az éves szállítási alapdíj 16%-a,
+c)[^29] a havi nem megszakítható szabványos kapacitás díja naptári hónaponként október 1. és március 31. között az éves szállítási kapacitásdíj 16%-a,
 
-d) a havi nem megszakítható szabványos kapacitás díja naptári hónaponként április 1. és szeptember 30. között az éves szállítási alapdíj 4%-a,
+d)[^30] a havi nem megszakítható szabványos kapacitás díja naptári hónaponként április 1. és szeptember 30. között az éves szállítási kapacitásdíj 4%-a,
 
-e) a napi nem megszakítható szabványos kapacitás díja gáznaponként október 1. és március 31. között az éves szállítási alapdíj 1%-a,
+e)[^31] a napi nem megszakítható szabványos kapacitás díja gáznaponként október 1. és március 31. között az éves szállítási kapacitásdíj 1%-a,
 
-f) a napi nem megszakítható szabványos kapacitás díja gáznaponként április 1. és szeptember 30. között az éves szállítási alapdíj 0,25%-a.
+f)[^32] a napi nem megszakítható szabványos kapacitás díja gáznaponként április 1. és szeptember 30. között az éves szállítási kapacitásdíj 0,25%-a.
 
 [^26]: A 3/B. §-t a 6/2013. (XII. 16.) MEKH rendelet 3. §-a iktatta be.
+[^27]: A 3/B. § (3) bekezdés a) pontja a 2/2014. (III. 12.) MEKH rendelet 6. §-a szerint módosított szöveg.
+[^28]: A 3/B. § (3) bekezdés b) pontja a 2/2014. (III. 12.) MEKH rendelet 6. §-a szerint módosított szöveg.
+[^29]: A 3/B. § (3) bekezdés c) pontja a 2/2014. (III. 12.) MEKH rendelet 6. §-a szerint módosított szöveg.
+[^30]: A 3/B. § (3) bekezdés d) pontja a 2/2014. (III. 12.) MEKH rendelet 6. §-a szerint módosított szöveg.
+[^31]: A 3/B. § (3) bekezdés e) pontja a 2/2014. (III. 12.) MEKH rendelet 6. §-a szerint módosított szöveg.
+[^32]: A 3/B. § (3) bekezdés f) pontja a 2/2014. (III. 12.) MEKH rendelet 6. §-a szerint módosított szöveg.

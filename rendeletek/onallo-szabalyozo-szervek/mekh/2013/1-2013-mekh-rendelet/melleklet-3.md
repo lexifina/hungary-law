@@ -36,77 +36,77 @@
 
 ## a) Elosztási díjak az E.ON Dél-dunántúli Gázhálózati Zrt. elosztási területén
 
-|  | Értékesítési kategóriák | Elosztási átalánydíj | Elosztási alapdíj | Elosztási alapdíj | Elosztási forgalmi díj |
+| Értékesítési kategóriák | Elosztási átalánydíj | Elosztási alapdíj | Elosztási alapdíj | Elosztási forgalmi díj |
 
-| Ft/GJ | Ft/év | Ft/m3/h/év | Ft/GJ |
+|  | Ft/GJ | Ft/év | Ft/m3/h/év | Ft/GJ |
 
-|  | Gázmérővel nem rendelkező felhasználó | 375,74 |  |  |  |
+| Gázmérővel nem rendelkező felhasználó | 375,74 |  |  |  |
 
-|  | 20 m3/h-nál kisebb névleges kapacitású gázmérővel rendelkező felhasználó |  | 9 840 |  | 145,72 |
+| 20 m3/h-nál kisebb névleges kapacitású gázmérővel rendelkező felhasználó |  | 9 192 |  | 160,87 |
 
-|  | 20 m3/h vagy annál nagyobb névleges kapacitású gázmérővel rendelkező felhasználó |  |  | 15 651 | 19,39 |
+| 20 m3/h vagy annál nagyobb névleges kapacitású gázmérővel rendelkező felhasználó |  |  | 14 633 | 60,49 |
 
 ## b) Elosztási díjak az E.ON Közép-dunántúli Gázhálózati Zrt. elosztási területén
 
-|  | Értékesítési kategóriák | Elosztási átalánydíj | Elosztási alapdíj | Elosztási alapdíj | Elosztási forgalmi díj |
+| Értékesítési kategóriák | Elosztási átalánydíj | Elosztási alapdíj | Elosztási alapdíj | Elosztási forgalmi díj |
 
-| Ft/GJ | Ft/év | Ft/m3/h/év | Ft/GJ |
+|  | Ft/GJ | Ft/év | Ft/m3/h/év | Ft/GJ |
 
-|  | Gázmérővel nem rendelkező felhasználó | 375,25 |  |  |  |
+| Gázmérővel nem rendelkező felhasználó | 375,25 |  |  |  |
 
-|  | 20 m3/h-nál kisebb névleges kapacitású gázmérővel rendelkező felhasználó |  | 9 840 |  | 102,88 |
+| 20 m3/h-nál kisebb névleges kapacitású gázmérővel rendelkező felhasználó |  | 9 192 |  | 120,82 |
 
-|  | 20 m3/h vagy annál nagyobb névleges kapacitású gázmérővel rendelkező felhasználó |  |  | 15 651 | 23,60 |
+| 20 m3/h vagy annál nagyobb névleges kapacitású gázmérővel rendelkező felhasználó |  |  | 14 633 | 60,52 |
 
 ## c1) Elosztási díjak az Égáz-Dégáz Földgázelosztó Zrt. elosztási területén
 
-|  | Értékesítési kategóriák | Elosztási átalánydíj | Elosztási alapdíj | Elosztási alapdíj | Elosztási forgalmi díj |
+| Értékesítési kategóriák | Elosztási átalánydíj | Elosztási alapdíj | Elosztási alapdíj | Elosztási forgalmi díj |
 
-| Ft/GJ | Ft/év | Ft/m3/h/év | Ft/GJ |
+|  | Ft/GJ | Ft/év | Ft/m3/h/év | Ft/GJ |
 
-|  | Gázmérővel nem rendelkező felhasználó | 332,29 |  |  |  |
+| Gázmérővel nem rendelkező felhasználó | 332,29 |  |  |  |
 
-|  | 20 m3/h-nál kisebb névleges kapacitású gázmérővel rendelkező felhasználó |  | 9 840 |  | 76,55 |
+| 20 m3/h-nál kisebb névleges kapacitású gázmérővel rendelkező felhasználó |  | 9 192 |  | 93,39 |
 
-|  | 20 m3/h vagy annál nagyobb névleges kapacitású gázmérővel rendelkező felhasználó |  |  | 10 881 | 20,71 |
+| 20 m3/h vagy annál nagyobb névleges kapacitású gázmérővel rendelkező felhasználó |  |  | 10 881 | 20,71 |
 
 ## c2) Elosztási átszállítási díj: 25,22 Ft/GJ
 
 ## d) Elosztási díjak a Főgáz Földgázelosztási Kft., az Alpiq Csepeli Erőmű Kft., az ISD Power Energiatermelő és Szolgáltató Kft., az OERG Kft. elosztási területén
 
-|  | Értékesítési kategóriák | Elosztási átalánydíj | Elosztási alapdíj | Elosztási alapdíj | Elosztási forgalmi díj |
+| Értékesítési kategóriák | Elosztási átalánydíj | Elosztási alapdíj | Elosztási alapdíj | Elosztási forgalmi díj |
 
-| Ft/GJ | Ft/év | Ft/m3/h/év | Ft/GJ |
+|  | Ft/GJ | Ft/év | Ft/m3/h/év | Ft/GJ |
 
-|  | Gázmérővel nem rendelkező felhasználó | 334,00 |  |  |  |
+| Gázmérővel nem rendelkező felhasználó | 334,00 |  |  |  |
 
-|  | 20 m3/h-nál kisebb névleges kapacitású gázmérővel rendelkező felhasználó |  | 9 840 |  | 94,80 |
+| 20 m3/h-nál kisebb névleges kapacitású gázmérővel rendelkező felhasználó |  | 9 192 |  | 110,55 |
 
-|  | 20 m3/h vagy annál nagyobb névleges kapacitású gázmérővel rendelkező felhasználó |  |  | 11 325 | 20,36 |
+| 20 m3/h vagy annál nagyobb névleges kapacitású gázmérővel rendelkező felhasználó |  |  | 11 325 | 20,36 |
 
 ## e) Elosztási díjak a Tigáz-DSO Földgázelosztó Kft., Natural Gas Service Ipari és Szolgáltató Kft. elosztási területén
 
-|  | Értékesítési kategóriák | Elosztási átalánydíj | Elosztási alapdíj | Elosztási alapdíj | Elosztási forgalmi díj |
+| Értékesítési kategóriák | Elosztási átalánydíj | Elosztási alapdíj | Elosztási alapdíj | Elosztási forgalmi díj |
 
-| Ft/GJ | Ft/év | Ft/m3/h/év | Ft/GJ |
+|  | Ft/GJ | Ft/év | Ft/m3/h/év | Ft/GJ |
 
-|  | Gázmérővel nem rendelkező felhasználó | 296,54 |  |  |  |
+| Gázmérővel nem rendelkező felhasználó | 296,54 |  |  |  |
 
-|  | 20 m3/h-nál kisebb névleges kapacitású gázmérővel rendelkező felhasználó |  | 9 840 |  | 72,80 |
+| 20 m3/h-nál kisebb névleges kapacitású gázmérővel rendelkező felhasználó |  | 9 192 |  | 87,53 |
 
-|  | 20 m3/h vagy annál nagyobb névleges kapacitású gázmérővel rendelkező felhasználó |  |  | 14 071 | 20,44 |
+| 20 m3/h vagy annál nagyobb névleges kapacitású gázmérővel rendelkező felhasználó |  |  | 14 071 | 20,44 |
 
 ## f) Elosztási díjak a Magyar Gázszolgáltató Kft. elosztási területén
 
-|  | Értékesítési kategóriák | Elosztási átalánydíj | Elosztási alapdíj | Elosztási alapdíj | Elosztási forgalmi díj |
+| Értékesítési kategóriák | Elosztási átalánydíj | Elosztási alapdíj | Elosztási alapdíj | Elosztási forgalmi díj |
 
-| Ft/GJ | Ft/év | Ft/m3/h/év | Ft/GJ |
+|  | Ft/GJ | Ft/év | Ft/m3/h/év | Ft/GJ |
 
-|  | Gázmérővel nem rendelkező felhasználó | 375,01 |  |  |  |
+| Gázmérővel nem rendelkező felhasználó | 375,01 |  |  |  |
 
-|  | 20 m3/h-nál kisebb névleges kapacitású gázmérővel rendelkező felhasználó |  | 9 840 |  | 100,36 |
+| 20 m3/h-nál kisebb névleges kapacitású gázmérővel rendelkező felhasználó |  | 9 192 |  | 118,45 |
 
-|  | 20 m3/h vagy annál nagyobb névleges kapacitású gázmérővel rendelkező felhasználó |  |  | 15 651 | 9,71 |
+| 20 m3/h vagy annál nagyobb névleges kapacitású gázmérővel rendelkező felhasználó |  |  | 14 633 | 45,34 |
 
 ## 2. Tárolási díjak
 
@@ -224,6 +224,6 @@
 
 ## K: a rendszerhasználó kitárolási kapacitás lekötése (MJ/nap)
 
-3. melléklet az 1/2013. (VII. 11.) MEKH rendelethez[^130]
+3. melléklet az 1/2013. (VII. 11.) MEKH rendelethez[^142]
 
-[^130]: A 3. melléklet az 5/2013. (X. 16.) MEKH rendelet 4. §-a szerint módosított szöveg.
+[^142]: A 3. melléklet az 5/2013. (X. 16.) MEKH rendelet 4. §-a szerint módosított szöveg.
