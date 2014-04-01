@@ -72,9 +72,9 @@
 
 ## Felelős: az elszámolásért és a visszafizetési kötelezettségért: emberi erőforrások minisztere
 
-## Határidő: 2014. március 31.
+## Határidő: 2014. december 31.[^1]
 
-## 2–3.[^1]
+## 2–3.[^2]
 
 ## 4. Ez a határozat a közzétételét követő napon lép hatályba.
 
@@ -148,4 +148,5 @@ Költségvetési év: 2013.
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
 
-[^1]: A 2–3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A határidő az 1203/2014. (IV. 1.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^2]: A 2–3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
