@@ -12,7 +12,7 @@
 
 ## közigazgatási és igazságügyi miniszter
 
-## Határidő: 2013. december 31.[^1]
+## Határidő: 2014. június 30.[^2]
 
 1. melléklet az 1664/2012. (XII. 20.) Korm. határozathoz
 
@@ -98,4 +98,4 @@
 
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: A határozat az 1530/2013. (VIII. 12.) Korm. határozat 8. pontja szerint módosított szöveg.
+[^2]: A határozat az 1202/2014. (IV. 1.) Korm. határozat 8. pontja szerint módosított szöveg.
