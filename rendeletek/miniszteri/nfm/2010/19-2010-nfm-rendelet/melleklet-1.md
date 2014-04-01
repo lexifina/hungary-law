@@ -1,3 +1,3 @@
-1. melléklet a 19/2010. (XII. 3.) NFM rendelethez[^24]
+1. melléklet a 19/2010. (XII. 3.) NFM rendelethez[^27]
 
-[^24]: Az 1. mellékletet a 17/2012. (IV. 13.) NFM rendelet 10. § d) pontja hatályon kívül helyezte.
+[^27]: Az 1. mellékletet a 17/2012. (IV. 13.) NFM rendelet 10. § d) pontja hatályon kívül helyezte.

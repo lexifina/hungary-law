@@ -1,6 +1,6 @@
 ## A termelő által a 3. és 4. melléklet alapján átadott földgázmennyiség után fizetendő hozzájárulások mértéke
 
-## 2014. első negyedévére
+## 2014. második negyedévére
 
 |  | A | B |
 
@@ -8,16 +8,6 @@
 
 | 2. | kiegyenlítő hozzájárulás | 0 forint/MJ |
 
-7. melléklet a 19/2010. (XII. 3.) NFM rendelethez[^30]
+7. melléklet a 19/2010. (XII. 3.) NFM rendelethez[^33]
 
-A GET 141/B. § (15) bekezdés b) pontjában meghatározott engedélyes által fizetendő kapcsolt termelésszerkezet átalakítási hozzájárulás és kiegyenlítő hozzájárulás mértéke 2014-ben
-
-|  | A | B | C | D |
-
-| 1. |  | 2014. január | 2014. február | 2014. március |
-
-| 2. | kapcsolt termelésszerkezet átalakítási hozzájárulás (milliárd forint) | 0 | 7,6 | 0 |
-
-| 3. | kiegyenlítő hozzájárulás (forint/MJ) | 0 | 0 | 0 |
-
-[^30]: A 7. mellékletet a 34/2013. (VI. 27.) NFM rendelet 1. § (7) bekezdése iktatta be, szövege a 75/2013. (XII. 16.) NFM rendelet 7. §-ával megállapított, a 4/2014. (I. 31.) NFM rendelet 1. §-a szerint módosított szöveg.
+[^33]: A 7. mellékletet a 34/2013. (VI. 27.) NFM rendelet 1. § (7) bekezdése iktatta be, szövege a 14/2014. (III. 31.) NFM rendelet 9. § (5) bekezdésével megállapított szöveg.
