@@ -1,4 +1,4 @@
-98/A. §[^317] (1) Az a külföldi vagy belföldi gazdálkodó szervezet, amely a GET 85. § (1) bekezdése szerinti új infrastruktúrát kíván létrehozni, és az új infrastruktúra kapacitásait az új infrastruktúra használatbavételi engedélyének jogerőre emelkedését megelőzően kívánja értékesíteni, az új infrastruktúra használatbavételi engedélyének jogerőre emelkedését megelőzően előzetes kapacitásfelmérési, lekötési- és értékesítési eljárást köteles lefolytatni.
+98/A. §[^320] (1) Az a külföldi vagy belföldi gazdálkodó szervezet, amely a GET 85. § (1) bekezdése szerinti új infrastruktúrát kíván létrehozni, és az új infrastruktúra kapacitásait az új infrastruktúra használatbavételi engedélyének jogerőre emelkedését megelőzően kívánja értékesíteni, az új infrastruktúra használatbavételi engedélyének jogerőre emelkedését megelőzően előzetes kapacitásfelmérési, lekötési- és értékesítési eljárást köteles lefolytatni.
 
 (2) Az előzetes kapacitásfelmérési, lekötési- és értékesítési eljárás lefolytatásának kötelezettsége nem vonatkozik a GET 85. § (7) bekezdésében meghatározott beruházásokra.
 
@@ -12,4 +12,4 @@
 
 (7) A Hivatal jogosult az előzetes kapacitásfelmérési, lekötési- és értékesítési eljárással összefüggésben az infrastruktúra fejlesztőjétől – az üzleti titokra vonatkozó rendelkezések figyelembevételével – adatokat, információkat kérni. A Hivatal az eljárás átláthatósága érdekében az üzleti titokra vonatkozó rendelkezések figyelembevételével meghatározhatja a közzétételre kerülő adatok körét.
 
-[^317]: A Vhr. 98/A. §-át a 99/2013. (III. 29.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^320]: A Vhr. 98/A. §-át a 99/2013. (III. 29.) Korm. rendelet 2. § (2) bekezdése iktatta be.

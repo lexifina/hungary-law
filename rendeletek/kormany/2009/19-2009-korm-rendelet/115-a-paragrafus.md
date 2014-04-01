@@ -1,4 +1,4 @@
-115/A. §[^362] (1) A számlázásnak és az elszámolásnak világosan, érthető módon kell történnie, valamint a tényleges energiafogyasztáson kell alapulnia.
+115/A. §[^369] (1) A számlázásnak és az elszámolásnak világosan, érthető módon kell történnie, valamint a tényleges energiafogyasztáson kell alapulnia.
 
 (2) A (4) bekezdés szerinti adatokat távlehívható fogyasztásmérő berendezéssel rendelkező felhasználó esetében minden alkalommal, nem távlehívható fogyasztásmérő berendezéssel rendelkező felhasználó esetében évente egy alkalommal kell a számlán feltüntetni. A távleolvasott adatokhoz való, internetes felületen keresztül történő hozzáférést a földgázelosztó az üzletszabályzatában meghatározott módon térítésmentesen biztosítja a felhasználó számára.
 
@@ -18,4 +18,4 @@ b) a lakossági fogyasztók részére az átlagos földgázfogyasztással tört�
 
 c) a 23/A. §-ban megjelölt elérhetőségről.
 
-[^362]: A Vhr. 115/A. §-át a 64/2009. (III. 31.) Korm. rendelet 2. § (5) bekezdése iktatta be, szövege a 378/2011. (XII. 31.) Korm. rendelet 68. §-ával megállapított szöveg.
+[^369]: A Vhr. 115/A. §-át a 64/2009. (III. 31.) Korm. rendelet 2. § (5) bekezdése iktatta be, szövege a 378/2011. (XII. 31.) Korm. rendelet 68. §-ával megállapított szöveg.
