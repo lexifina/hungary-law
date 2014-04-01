@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-54-00-00
 | 2013-12-31 | 2013. évi CCXXXI. törvény | 2013-54-00-00.6 |
 | 2014-02-18 | 2014. évi XI. törvény | 2013-54-00-00.7 |
 | 2014-03-01 | 2013. évi CLXVII. törvény | 2013-54-00-00.8 |
+| 2014-04-01 | 2014. évi XI. törvény | 2013-54-00-00.9 |
