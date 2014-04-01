@@ -21,3 +21,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-36-00-00
 | 2014-01-01 | 2013. évi CCXLIII. törvény | 2012-36-00-00.14 |
 | 2014-03-04 | 2014. évi XIV. törvény | 2012-36-00-00.15 |
 | 2014-03-15 | 2014. évi XV. törvény | 2012-36-00-00.16 |
+| 2014-04-01 | 2014. évi XIV. törvény | 2012-36-00-00.17 |

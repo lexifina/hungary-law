@@ -18,4 +18,6 @@ a) az Országgyűlési Őrség szolgálati szabályzatát, ennek részeként az 
 
 b) az országgyűlési őr képesítési követelményeit,
 
-c) az Országgyűlési Őrség egyenruházati szabályzatát.
+c) az Országgyűlési Őrség egyenruházati szabályzatát,
+
+d) az Országgyűlési Őrség által használt kényszerítő eszközök rendszeresítésére vonatkozó szakmai követelményeket és eljárási szabályokat, valamint a rendszeresíthető kényszerítő eszközök típusát, fajtáját.
