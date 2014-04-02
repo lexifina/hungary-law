@@ -18,7 +18,7 @@
 
 ## Határidő: 2014. december 15.
 
-## 2. Az új nemzeti közgyűjteményi épületegyüttesről és a megvalósítás előkészítéséhez szükséges intézkedésekről szóló 1031/2013. (I. 30.) Korm. határozatban a „2014. március 31.” szövegrész helyébe a „2014. december 31.” szöveg lép.
+## 2.[^1]
 
 1. melléklet az 1203/2014. (IV. 1.) Korm. határozathoz
 
@@ -93,3 +93,5 @@
 | Nemzetgazdasági Minisztérium |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
