@@ -67,3 +67,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-212-20-
 | 2013-12-31 | 2010-212-20-22.59 | 550/2013. (XII. 30.) Korm. rendelet |
 | 2014-01-01 | 2010-212-20-22.60 | 527/2013. (XII. 30.) Korm. rendelet |
 | 2014-01-19 | 2010-212-20-22.61 | 439/2013. (XI. 20.) Korm. rendelet |
+| 2014-04-02 | 2010-212-20-22.62 | 108/2014. (IV. 1.) Korm. rendelet |

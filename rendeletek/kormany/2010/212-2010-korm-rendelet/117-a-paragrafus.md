@@ -1,5 +1,5 @@
-## XI/A. Fejezet[^486]
+## XI/A. Fejezet[^487]
 
 ## EGYES NEMZETKÖZI PÉNZÜGYI SZERVEZETEKKEL VALÓ KAPCSOLATTARTÁSÉRT FELELŐS TÁRCA NÉLKÜLI MINISZTER
 
-[^486]: A XI/A. Fejezetet (117/A–117/B. §-t) a 340/2011. (XII. 29.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 93/2013. (III. 29.) Korm. rendelet 5. § b) pontja.
+[^487]: A XI/A. Fejezetet (117/A–117/B. §-t) a 340/2011. (XII. 29.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 93/2013. (III. 29.) Korm. rendelet 5. § b) pontja.

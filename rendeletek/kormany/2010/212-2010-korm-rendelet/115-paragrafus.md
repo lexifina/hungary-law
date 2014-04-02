@@ -24,9 +24,11 @@ c) koordinálja az egyes relációkban működő tárcaközi bizottságok, valam
 
 d) az érdekelt miniszterekkel együttműködve kidolgozza a nemzetközi politikai, biztonságpolitikai és kollektív védelmi, kulturális, tudományos, gazdasági és pénzügyi szervezetekben, illetve intézményekben való részvétel alapelveit, ellenőrzi azok megvalósulását, és kezdeményezi a két- és többoldalú együttműködést,
 
-e) működteti a diplomáciai futárszolgálatot.
+e) működteti a diplomáciai futárszolgálatot,
 
-(3)[^473] A miniszter a külpolitikáért való felelőssége keretében felel Magyarországnak a külkapcsolatokban és a nemzetközi szervezetekben való képviseletéért, ennek körében
+f)[^473] nyilvántartást vezet a Magyarország által a szomszédos országokkal, a nem szomszédos európai országokkal, valamint az Európán kívüli országokkal nemzetközi szerződés alapján közösen működtetett bizottságokról.
+
+(3)[^474] A miniszter a külpolitikáért való felelőssége keretében felel Magyarországnak a külkapcsolatokban és a nemzetközi szervezetekben való képviseletéért, ennek körében
 
 a) az egyes relációkban kidolgozza a kétoldalú együttműködés reláció-specifikus formáit,
 
@@ -38,7 +40,7 @@ d) javaslatot tesz a diplomáciai és hivatásos konzuli képviselet létesíté
 
 e) javaslatot tesz a magyar külképviseletek vezetőinek kinevezésére, illetőleg felmentésére, – az OECD melletti Magyar Államdó Képviseletet vezető nagykövet személyét kivéve – kinevezi és felmenti a főkonzulokat, kinevezi a tiszteletbeli konzuli képviselet vezetőjét, illetőleg dönt a kinevezés visszavonásáról, kinevezi a diplomáciai és konzuli személyzetet,
 
-f)[^474] kapcsolatot tart a diplomáciai és konzuli képviseletekkel, továbbá más államoknak és nemzetközi szervezeteknek Magyarországon hivatalosan tartózkodó képviselőivel, valamint
+f)[^475] kapcsolatot tart a diplomáciai és konzuli képviseletekkel, továbbá más államoknak és nemzetközi szervezeteknek Magyarországon hivatalosan tartózkodó képviselőivel, valamint
 
 g) állást foglal és eljár a diplomáciai, illetve nemzetközi jogon alapuló egyéb mentesség fennállásának kérdésében.
 
@@ -58,7 +60,7 @@ e) elbírálja a konzuli ügyekben hozott első fokú döntések elleni jogorvos
 
 a) ellátja a hatáskörébe utalt feladatokat a diplomata- és a külügyi szolgálati útlevelek vonatkozásában,
 
-b)[^475] megállapítja a diplomáciai, illetve nemzetközi jogon alapuló egyéb mentességet élvező személyeknek Magyarország területére történő be- és kiutazására, tartózkodására, valamint munkavállalására vonatkozó szabályokat, valamint
+b)[^476] megállapítja a diplomáciai, illetve nemzetközi jogon alapuló egyéb mentességet élvező személyeknek Magyarország területére történő be- és kiutazására, tartózkodására, valamint munkavállalására vonatkozó szabályokat, valamint
 
 c) irányítja a külképviseletek, valamint a Külügyminisztérium vízumkiadási tevékenységét, és gondoskodik a vízumdíjak beszedéséről.
 
@@ -76,7 +78,7 @@ e) megteszi a szerződéskötési eljárás során szükséges diplomáciai lép
 
 f) megállapítja a nemzetközi szerződések hatálybalépésének, valamint megszűnésének időpontját, valamint
 
-g)[^476] működteti Magyarország szerződéstárát.
+g)[^477] működteti Magyarország szerződéstárát.
 
 (7) A miniszter a külpolitikáért való felelőssége keretében felel a nemzetközi fejlesztési együttműködésért, valamint annak koordinálásáért, ennek keretében
 
@@ -84,9 +86,9 @@ a) kidolgozza és végrehajtja a Kormány nemzetközi fejlesztési együttműkö
 
 b) a nemzetközi normák és a hatályos magyar jogszabályok alapján koordinálja és irányítja a nemzetközi fejlesztési együttműködési tevékenységet: a technikai együttműködési, a projekt típusú és a humanitárius segélyprogramokat, ennek során kapcsolatot tart és együttműködik a projektvégrehajtókkal, beleértve a segély- és más civil szervezeteket.
 
-(8)[^477] A miniszter a külpolitikáért való felelőssége körében felel a diplomáciai és állami protokollért, ennek keretében ellátja a köztársasági elnöki látogatások előkészítésével és lebonyolításával, valamint – a 10. § a) pontban meghatározottak kivételével – az állam- és kormányközi nemzetközi konferenciákkal és egyéb találkozókkal, rendezvényekkel kapcsolatos diplomáciai és állami protokollfeladatokat.
+(8)[^478] A miniszter a külpolitikáért való felelőssége körében felel a diplomáciai és állami protokollért, ennek keretében ellátja a köztársasági elnöki látogatások előkészítésével és lebonyolításával, valamint – a 10. § a) pontban meghatározottak kivételével – az állam- és kormányközi nemzetközi konferenciákkal és egyéb találkozókkal, rendezvényekkel kapcsolatos diplomáciai és állami protokollfeladatokat.
 
-(8a)[^478] A miniszter a külpolitikáért való felelőssége körében gondoskodik a (8) bekezdésben és a 10. § a) pontjában meghatározott látogatásokkal, találkozókkal és rendezvényekkel összefüggésben a diplomáciai és protokoll-ajándékraktár működtetéséről, valamint a pénzügyi elszámolás végrehajtásáról.
+(8a)[^479] A miniszter a külpolitikáért való felelőssége körében gondoskodik a (8) bekezdésben és a 10. § a) pontjában meghatározott látogatásokkal, találkozókkal és rendezvényekkel összefüggésben a diplomáciai és protokoll-ajándékraktár működtetéséről, valamint a pénzügyi elszámolás végrehajtásáról.
 
 (9) A miniszter a külpolitikáért való felelőssége keretében felel a nemzetközi jogon alapuló viszonosság megállapításáért, valamint egyes jogsegélyügyekért, ennek keretében jogszabályban meghatározott esetekben állást foglal a nemzetközi viszonosság fennállásának kérdésében.
 
@@ -112,16 +114,17 @@ szóló jogszabályokat, továbbá e tárgykörökben felhatalmazás alapján mi
 
 a) az érintett miniszterekkel együttműködve kialakítja az Európai Unió közös kereskedelempolitikájával kapcsolatos kormányzati álláspontokat, és ellátja azok képviseletét az Európai Unió feladatkörrel rendelkező szerveinél, a nemzetközi gazdasági szervezetekben, valamint a regionális és kétoldalú kapcsolatokban
 
-b)[^479] gondoskodik a nemzetközi kereskedelempolitikai kötelezettségek és a hazai jogi szabályozás összhangjának megőrzéséről.
+b)[^480] gondoskodik a nemzetközi kereskedelempolitikai kötelezettségek és a hazai jogi szabályozás összhangjának megőrzéséről.
 
 [^469]: A 115. § (1) bekezdés c) pontja a 94/2012. (V. 11.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.
 [^470]: A 115. § (1) bekezdés d) pontja a 94/2012. (V. 11.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.
 [^471]: A 115. § (1) bekezdés f) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (70) bekezdés a) és b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
 [^472]: A 115. § (2) bekezdés nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (70) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^473]: A 115. § (3) bekezdés nyitó szövegrésze a 94/2012. (V. 11.) Korm. rendelet 7. § s) pontja szerint módosított szöveg.
-[^474]: A 115. § (3) bekezdés f) pontja a 94/2012. (V. 11.) Korm. rendelet 7. § t) pontja szerint módosított szöveg.
-[^475]: A 115. § (5) bekezdés b) pontja a 94/2012. (V. 11.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.
-[^476]: A 115. § (6) bekezdés g) pontja a 94/2012. (V. 11.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.
-[^477]: A 115. § (8) bekezdése a 267/2010. (XII. 3.) Korm. rendelet 37. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^478]: A 115. § (8a) bekezdését a 267/2010. (XII. 3.) Korm. rendelet 37. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^479]: A 115. § (12) bekezdés b) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (70) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^473]: A 115. § (2) bekezdés f) pontját a 108/2014. (IV. 1.) Korm. rendelet 1. §-a iktatta be.
+[^474]: A 115. § (3) bekezdés nyitó szövegrésze a 94/2012. (V. 11.) Korm. rendelet 7. § s) pontja szerint módosított szöveg.
+[^475]: A 115. § (3) bekezdés f) pontja a 94/2012. (V. 11.) Korm. rendelet 7. § t) pontja szerint módosított szöveg.
+[^476]: A 115. § (5) bekezdés b) pontja a 94/2012. (V. 11.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.
+[^477]: A 115. § (6) bekezdés g) pontja a 94/2012. (V. 11.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.
+[^478]: A 115. § (8) bekezdése a 267/2010. (XII. 3.) Korm. rendelet 37. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^479]: A 115. § (8a) bekezdését a 267/2010. (XII. 3.) Korm. rendelet 37. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^480]: A 115. § (12) bekezdés b) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (70) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
