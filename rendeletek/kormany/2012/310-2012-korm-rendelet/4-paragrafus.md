@@ -6,7 +6,7 @@ a) a kulturális örökséggel kapcsolatos dokumentumok gyűjtése, feldolgozás
 
 b) a kulturális örökségi értékek felderítésével, kutatásával és hasznosításával kapcsolatos módszertan kidolgozása és terjesztése;
 
-c)[^1] a kulturális örökség kezelésével kapcsolatos információk nyújtása, hasznosítással kapcsolatos tanácsadás, pályázati tanácsadás és közreműködés, fejlesztéssel, felújítással kapcsolatos tanácsadás, tervpályázati eljárás lebonyolítása;
+c)[^5] a kulturális örökség kezelésével kapcsolatos információk nyújtása, hasznosítással kapcsolatos tanácsadás, pályázati tanácsadás és közreműködés, fejlesztéssel, felújítással kapcsolatos tanácsadás, tervpályázati eljárás lebonyolítása;
 
 d) szakmai továbbképzés, oktatás;
 
@@ -28,4 +28,4 @@ l) a kulturális örökség védelmével, kezelésével, fenntartható, integrá
 
 m) szakmai tanácsadási és szakértői tevékenység ellátása és koordinálása.
 
-[^1]: A 4. § c) pontja a 452/2013. (XI. 28.) Korm. rendelet 5. §-ával megállapított szöveg. E módosító rendelet 4. § (2) bekezdése alapján a folyamatban lévő ügyekben is alkalmazni kell.
+[^5]: A 4. § c) pontja a 452/2013. (XI. 28.) Korm. rendelet 5. §-ával megállapított szöveg. E módosító rendelet 4. § (2) bekezdése alapján a folyamatban lévő ügyekben is alkalmazni kell.

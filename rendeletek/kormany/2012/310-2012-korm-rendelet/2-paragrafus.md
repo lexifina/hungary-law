@@ -12,7 +12,7 @@ a) a kulturális javak vonatkozásában a kulturális örökségvédelmi hatós�
 
 4. a kulturális javak esetében a Kötv. 61/A. §-a szerinti, fémkereskedelmi tevékenység céljára történő átadás engedélyezésére irányuló eljárások és döntések,
 
-5. a Kötv. 63. § (2) bekezdése szerinti feladat,
+5.[^2] a Kötv. 63. § (3) bekezdése szerinti feladat,
 
 6. a Kötv. 67. § (1) és (2) bekezdése szerinti hatósági kötelezés,
 
@@ -26,7 +26,9 @@ a) a kulturális javak vonatkozásában a kulturális örökségvédelmi hatós�
 
 11. a Kötv. 82. §-a alapján intézkedés az örökségvédelmi bírság kiszabása iránt,
 
-12. a védetté nyilvánított kulturális javak esetében a Kötv. 63. § (3) bekezdése szerinti építésügyi hatósági vagy más hatósági engedélyhez nem kötött megóvási (konzerválási), restaurálási vagy átalakítási munkák engedélyezését.
+12. a védetté nyilvánított kulturális javak esetében a Kötv. 63. § (3) bekezdése szerinti építésügyi hatósági vagy más hatósági engedélyhez nem kötött megóvási (konzerválási), restaurálási vagy átalakítási munkák engedélyezését,
+
+13.[^3] a Kötv. 53/A. §-a alapján az eltűnt kulturális javak körözésének elrendelése.
 
 b) a lopott vagy jogellenesen külföldre vitt kulturális javak nemzetközi visszaadásáról szóló, Rómában, 1995. év június hó 24. napján aláírt UNIDROIT Egyezmény kihirdetéséről szóló 2001. évi XXVIII. törvény 3. §-a szerinti megbízott illetékes hatósági feladatokat,
 
@@ -38,16 +40,12 @@ e) a bíróságon kezelt letétekről szóló 27/2003. (VII. 2.) IM rendelet 7. 
 
 f) a kölcsönzött kulturális javak különleges védelméről szóló 2012. évi XCV. törvényben meghatározott kulturális örökségvédelmi hatósági feladatokat,
 
-g) a következő nyilvántartások vezetését:
-
-ga) a védetté nyilvánított kulturális javakról,
-
-gb) a kulturális javak kiviteli engedélyéről és az igazolásokról,
-
-gc) a jogtalanul eltulajdonított, eltűnt védett kulturális örökségi elemekről, valamint a jogellenesen kivitt kulturális javak visszaszolgáltatásáról szóló 2001. évi LXXX. törvény 2. § 1. pontjában meghatározott kulturális javakról,
-
-gd) a kölcsönzött kulturális javakkal kapcsolatos tanúsítványokról.
+g)[^4] a Kötv. 71. § (2) bekezdés a) és f) pontja szerinti közhiteles hatósági nyilvántartás vezetését.
 
 (2) A Kormány az (1) bekezdésben meghatározott ügyekben másodfokú kulturális örökségvédelmi hatóságként a Központ elnökét jelöli ki.
 
 (3) A Műtárgyfelügyeleti Iroda, illetve a Központ elnöke hatósági eljárásában a döntés fellebbezéssel nem támadott rendelkezései tekintetében a jogorvoslati határidő elteltével beáll a jogerő, ha a döntés egyes rendelkezései ellen nyújtottak be fellebbezést, és az ügy jellegéből adódóan a fellebbezés elbírálása nem hat ki a fellebbezéssel meg nem támadott rendelkezésekre.
+
+[^2]: A 2. § (1) bekezdés a) pont 5. alpontja a 104/2014. (III. 25.) Korm. rendelet 13. §-a szerint módosított szöveg.
+[^3]: A 2. § (1) bekezdés a) pont 13. alpontját a 104/2014. (III. 25.) Korm. rendelet 8. §-a iktatta be.
+[^4]: A 2. § (1) bekezdés g) pontja a 104/2014. (III. 25.) Korm. rendelet 9. §-ával megállapított szöveg.
