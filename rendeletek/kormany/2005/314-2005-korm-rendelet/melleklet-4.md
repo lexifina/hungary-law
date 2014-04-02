@@ -1,6 +1,6 @@
 ## ”
 
-## 3. számú melléklet a 314/2005. (XII. 25.) Korm. rendelethez[^163]
+## 3. számú melléklet a 314/2005. (XII. 25.) Korm. rendelethez[^168]
 
 ## A felügyelőség előzetes vizsgálatban hozott döntésétől függően környezeti hatásvizsgálatra kötelezett tevékenységek
 
@@ -428,7 +428,7 @@
 
 | b) kanyar-átvágás esetében vagy vízbázis védőövezetén (ha a tevékenység megkezdését a vízbázisok, a távlati vízbázisok, valamint az ivóvízellátást szolgáló vízilétesítmények védelméről szóló jogszabály a védőövezeten nem zárja ki), védett természeti területen, Natura 2000 területen méretmegkötés nélkül |
 
-| 127. | Vízfolyásrendezés (kivéve az eredeti vízelvezető-képesség helyreállítására irányuló, fenntartási célú iszapeltávolítást és rézsűrendezést) | a) 1 km vízfolyáshossztól |
+| 127. | Vízfolyásrendezés (kivéve az eredeti vízelvezető-képesség helyreállítására irányuló, fenntartási célú iszapeltávolítást és rézsűrendezést, amennyiben az a vízgyűjtő-gazdálkodás egyes szabályairól szóló kormányrendeletben előírtak szerint a vizek állapota romlásának megelőzését, megakadályozását szolgálja) | a) 1 km vízfolyáshossztól |
 
 | b) 50 m vízfolyáshossztól vízbázis védőövezetén (ha a tevékenység megkezdését a vízbázisok, a távlati vízbázisok, valamint az ivóvízellátást szolgáló vízilétesítmények védelméről szóló jogszabály a védőövezeten nem zárja ki) |
 
@@ -452,4 +452,4 @@
 
 4. számú melléklet a 314/2005. (XII. 25.) Korm. rendelethez
 
-[^163]: A 3. számú melléklet a 145/2012. (VII. 3.) Korm. rendelet 40. § (4) bekezdésével megállapított, a 175/2012. (VII. 26.) Korm. rendelet 2. §-a, a 441/2012. (XII. 29.) Korm. rendelet 10. § (4)–(5) bekezdése, az 559/2013. (XII. 31.) Korm. rendelet 30. §-a szerint módosított szöveg.
+[^168]: A 3. számú melléklet a 145/2012. (VII. 3.) Korm. rendelet 40. § (4) bekezdésével megállapított, a 175/2012. (VII. 26.) Korm. rendelet 2. §-a, a 441/2012. (XII. 29.) Korm. rendelet 10. § (4)–(5) bekezdése, az 559/2013. (XII. 31.) Korm. rendelet 30. §-a, a 100/2014. (III. 25.) Korm. rendelet 5. § (1) bekezdése szerint módosított szöveg.

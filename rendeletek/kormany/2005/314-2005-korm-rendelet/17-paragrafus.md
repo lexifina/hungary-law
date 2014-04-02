@@ -2,7 +2,7 @@
 
 ## Általános szabályok
 
-17. §[^100] (1) A környezethasználónak a környezetszennyezés megelőzése, illetve a környezet terhelésének csökkentése érdekében az elérhető legjobb technika alkalmazásával intézkednie kell:
+17. §[^102] (1) A környezethasználónak a környezetszennyezés megelőzése, illetve a környezet terhelésének csökkentése érdekében az elérhető legjobb technika alkalmazásával intézkednie kell:
 
 a) a tevékenység folytatásához szükséges, környezetterhelést okozó anyag felhasználásának fajlagos csökkentéséről;
 
@@ -28,4 +28,4 @@ c) az alkalmazandó technika biztosítson a vonatkozó elérhető legjobb techni
 
 (4) Ha a tevékenység nem tartozik az elérhető legjobb technika-következtetések egyikének hatálya alá sem, a tevékenység végzése feltételeinek előírásához alapul szolgáló elérhető legjobb technika meghatározása érdekében a felügyelőség a környezethasználóval szakmai konzultációt folytat, szükség szerint szakértőt vesz igénybe, és a technika meghatározása során figyelembe veszi a 9. számú mellékletben foglalt kritériumokat.
 
-[^100]: A 17. § a 480/2013. (XII. 17.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^102]: A 17. § a 480/2013. (XII. 17.) Korm. rendelet 2. §-ával megállapított szöveg.

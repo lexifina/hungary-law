@@ -2,19 +2,19 @@
 
 ## ÉS AZ EGYSÉGES KÖRNYEZETHASZNÁLATI ENGEDÉLYEZÉSI ELJÁRÁS ÖSSZEVONÁSÁNAK SZABÁLYAI
 
-24. § (1)[^119] Az összevont eljárást a (2)–(13) bekezdésekben foglalt rendelkezések szerint kell végrehajtani.
+24. § (1)[^121] Az összevont eljárást a (2)–(13) bekezdésekben foglalt rendelkezések szerint kell végrehajtani.
 
-(2)[^120] Az összevont eljárást a felügyelőség a környezethasználó – az előzetes vizsgálatot lezáró határozat, vagy ha történt előzetes konzultáció, az annak során adott vélemény, továbbá a 6–8. számú melléklet figyelembevételével elkészített – kérelmére indítja meg.
+(2)[^122] Az összevont eljárást a felügyelőség a környezethasználó – az előzetes vizsgálatot lezáró határozat, vagy ha történt előzetes konzultáció, az annak során adott vélemény, továbbá a 6–8. számú melléklet figyelembevételével elkészített – kérelmére indítja meg.
 
-(3)[^121] A kérelmet és annak mellékleteit két nyomtatott példányban és egy példányban elektronikus adathordozón kell benyújtani.
+(3)[^123] A kérelmet és annak mellékleteit két nyomtatott példányban és egy példányban elektronikus adathordozón kell benyújtani.
 
 (4) A kérelmet úgy kell összeállítani, hogy felesleges ismétlések ne szerepeljenek benne.
 
 (5) A kérelem és mellékletei nyilvánosságra hozható közérdekű adatok.
 
-(6)[^122] A felügyelőség az eljárása során a 8. § (4) bekezdésében meghatározottak szerint megkeresi a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásban kijelölt szakhatóságokat.
+(6)[^124] A felügyelőség az eljárása során a 8. § (4) bekezdésében meghatározottak szerint megkeresi a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásban kijelölt szakhatóságokat.
 
-(7)[^123] A nyilvánosság bevonására a 8. § (1)–(3), (5)–(6) bekezdés, a 9. § és a 10. § (1) bekezdés rendelkezéseit kell alkalmazni.
+(7)[^125] A nyilvánosság bevonására a 8. § (1)–(3), (5)–(6) bekezdés, a 9. § és a 10. § (1) bekezdés rendelkezéseit kell alkalmazni.
 
 (8) Országhatáron átterjedő jelentős környezeti hatás esetén alkalmazni kell a 12–15. §-ban foglalt rendelkezéseket.
 
@@ -24,22 +24,22 @@ a) megadja az egységes környezethasználati engedélyt,
 
 b) elutasítja a kérelmet.
 
-(10)[^124] A határozat tartalmára a 10. § (1), (4)–(7) bekezdése, a 20. § (3)–(14) bekezdése és a 20/A. § (1)–(4) bekezdése, a 21. § (7) bekezdése és a 22. § (1) bekezdése az irányadó.
+(10)[^126] A határozat tartalmára a 10. § (1), (4)–(7) bekezdése, a 20. § (3)–(14) bekezdése és a 20/A. § (1)–(4) bekezdése, a 21. § (7) bekezdése és a 22. § (1) bekezdése az irányadó.
 
 (11) A határozat nyilvánosságra hozatalával kapcsolatban az 5. § (6) bekezdése az irányadó.
 
-(12)[^125] Az engedély módosítására a 20/A. § (8)–(11) bekezdésében, a próbaüzem és az ellenőrzések feltételeire a 22. §-ban, az adatszolgáltatásra vonatkozóan a 23. §-ban foglaltak az irányadók.
+(12)[^127] Az engedély módosítására a 20/A. § (8)–(11) bekezdésében, a próbaüzem és az ellenőrzések feltételeire a 22. §-ban, az adatszolgáltatásra vonatkozóan a 23. §-ban foglaltak az irányadók.
 
-(13)[^126] Az (1) bekezdés szerinti összevont eljárásban az ügyintézés határideje négy hónap.
+(13)[^128] Az (1) bekezdés szerinti összevont eljárásban az ügyintézés határideje négy hónap.
 
-(14)[^127] A felügyelőség a 20/A. § (5) bekezdésében foglaltak szerint küld értesítést a környezethasználónak.
+(14)[^129] A felügyelőség a 20/A. § (5) bekezdésében foglaltak szerint küld értesítést a környezethasználónak.
 
-[^119]: A 24. § (1) bekezdése a 151/2009. (VII. 23.) Korm. rendelet 4. §-ával megállapított szöveg. E módosító rendelet 10. § (1) bekezdése alapján a rendelkezést a 2009. augusztus 1. napját követően indult eljárásokban kell alkalmazni.
-[^120]: A 24. § (2) bekezdése a 82/2011. (V. 18.) Korm. rendelet 18. §-ával megállapított szöveg.
-[^121]: A 24. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 441. § (15) bekezdésével megállapított és a 371/2012. (XII. 17.) Korm. rendelet 15. § e) pontja szerint módosított szöveg.
-[^122]: A 24. § (6) bekezdése a 371/2012. (XII. 17.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^123]: A 24. § (7) bekezdése a Magyar Közlöny 2006. évi 9. számában megjelent helyesbítésnek megfelelő szöveg. A 24. § (7) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 43. § (1) bekezdés 8. pontja szerint módosított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
-[^124]: A 24. § (10) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 441. § (16) bekezdésével megállapított, a 480/2013. (XII. 17.) Korm. rendelet 12. § c) pontja szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^125]: A 24. § (12) bekezdése a 371/2012. (XII. 17.) Korm. rendelet 13. § (2) bekezdésével megállapított, a 480/2013. (XII. 17.) Korm. rendelet 12. § d) pontja szerint módosított szöveg.
-[^126]: A 24. § (13) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 442–443. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^127]: A 24. § (14) bekezdését a 371/2012. (XII. 17.) Korm. rendelet 13. § (3) bekezdése iktatta be, szövege a 480/2013. (XII. 17.) Korm. rendelet 12. § e) pontja szerint módosított szöveg.
+[^121]: A 24. § (1) bekezdése a 151/2009. (VII. 23.) Korm. rendelet 4. §-ával megállapított szöveg. E módosító rendelet 10. § (1) bekezdése alapján a rendelkezést a 2009. augusztus 1. napját követően indult eljárásokban kell alkalmazni.
+[^122]: A 24. § (2) bekezdése a 82/2011. (V. 18.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^123]: A 24. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 441. § (15) bekezdésével megállapított és a 371/2012. (XII. 17.) Korm. rendelet 15. § e) pontja szerint módosított szöveg.
+[^124]: A 24. § (6) bekezdése a 371/2012. (XII. 17.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^125]: A 24. § (7) bekezdése a Magyar Közlöny 2006. évi 9. számában megjelent helyesbítésnek megfelelő szöveg. A 24. § (7) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 43. § (1) bekezdés 8. pontja szerint módosított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^126]: A 24. § (10) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 441. § (16) bekezdésével megállapított, a 480/2013. (XII. 17.) Korm. rendelet 12. § c) pontja szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^127]: A 24. § (12) bekezdése a 371/2012. (XII. 17.) Korm. rendelet 13. § (2) bekezdésével megállapított, a 480/2013. (XII. 17.) Korm. rendelet 12. § d) pontja szerint módosított szöveg.
+[^128]: A 24. § (13) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 442–443. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^129]: A 24. § (14) bekezdését a 371/2012. (XII. 17.) Korm. rendelet 13. § (3) bekezdése iktatta be, szövege a 480/2013. (XII. 17.) Korm. rendelet 12. § e) pontja szerint módosított szöveg.

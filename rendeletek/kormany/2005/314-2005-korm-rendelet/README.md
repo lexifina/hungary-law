@@ -25,3 +25,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-314-20-
 | 2013-08-01 | 2005-314-20-22.30 | 281/2013. (VII. 24.) Korm. rendelet |
 | 2014-01-01 | 2005-314-20-22.31 | 145/2012. (VII. 3.) Korm. rendelet |
 | 2014-01-17 | 2005-314-20-22.32 | 480/2013. (XII. 17.) Korm. rendelet |
+| 2014-04-02 | 2005-314-20-22.33 | 100/2014. (III. 25.) Korm. rendelet |

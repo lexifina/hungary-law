@@ -50,7 +50,7 @@
 
 ## 12. Az oxigén-háztartásra kedvezőtlenül ható anyagok (és amelyeket mérni lehet a BOI, KOI stb. jellemzőkkel).
 
-11. számú melléklet a 314/2005. (XII. 25.) Korm. rendelethez[^194]
+11. számú melléklet a 314/2005. (XII. 25.) Korm. rendelethez[^210]
 
 ## Az egységes környezethasználati engedély tartalmi követelményei
 
@@ -116,4 +116,4 @@ k) a 20. § (13) bekezdés alkalmazása esetén olyan kiegészítő feltételt, 
 
 5. Az elérhető legjobb technika alkalmazására vonatkozó rendelkezések, a vonatkozó elérhető legjobb technika referenciadokumentum megnevezésével.
 
-[^194]: A 11. melléklet a 480/2013. (XII. 17.) Korm. rendelet 11. § (4) bekezdésével megállapított szöveg.
+[^210]: A 11. melléklet a 480/2013. (XII. 17.) Korm. rendelet 11. § (4) bekezdésével megállapított szöveg.

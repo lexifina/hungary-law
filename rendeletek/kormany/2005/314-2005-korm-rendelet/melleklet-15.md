@@ -414,7 +414,7 @@
 
 ## g) a kikötő építményeinek tervét és leírását.
 
-15. számú melléklet a 314/2005. (XII. 25.) Korm. rendelethez[^198]
+15. számú melléklet a 314/2005. (XII. 25.) Korm. rendelethez[^214]
 
 ## Az egységes környezethasználati engedély köteles tevékenységek környezeti kockázatértékelésének szempontrendszere
 
@@ -442,4 +442,4 @@
 
 2.3. a tárgyi évet megelőző évben a létesítmény az engedélyben meghatározott feltételeket teljesítette.
 
-[^198]: A 15. mellékletet a 480/2013. (XII. 17.) Korm. rendelet 11. § (5) bekezdése iktatta be.
+[^214]: A 15. mellékletet a 480/2013. (XII. 17.) Korm. rendelet 11. § (5) bekezdése iktatta be.

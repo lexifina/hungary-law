@@ -20,6 +20,6 @@
 
 | 9. | Ha a kérelem a területfejlesztési koncepciók, programok és a területrendezési tervek tartalmi követelményeiről szóló jogszabály szerinti országos vagy térségi jelentőségű műszaki infrastruktúra hálózatok és egyedi építmények megvalósítására, valamint azok jelentős módosítására irányul. | A területrendezési tervekkel való összhang tekintetében. | illetékes állami főépítész |
 
-13. számú melléklet a 314/2005. (XII. 25.) Korm. rendelethez[^196]
+13. számú melléklet a 314/2005. (XII. 25.) Korm. rendelethez[^212]
 
-[^196]: A 13. számú mellékletet a 82/2011. (V. 18.) Korm. rendelet 23. §-a iktatta be.
+[^212]: A 13. számú mellékletet a 82/2011. (V. 18.) Korm. rendelet 23. §-a iktatta be, szövege a 100/2014. (III. 25.) Korm. rendelet 5. § (5) bekezdése szerint módosított szöveg.

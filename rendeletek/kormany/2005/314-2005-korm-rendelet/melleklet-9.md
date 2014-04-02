@@ -6,9 +6,9 @@
 
 ## a) az engedélykérő azonosító adatai (KÜJ számmal),
 
-## b)[^184] a létesítmény, tevékenység telepítési helyének jellemzői (KTJ számmal és létesítmény azonosító számmal), állapota,
+## b)[^200] a létesítmény, tevékenység telepítési helyének jellemzői (KTJ számmal és létesítmény azonosító számmal), állapota,
 
-## c)[^185] a létesítmény által igénybe vett terület helyszínrajza a kibocsátó források bejelölésével, egységes országos vetületi rendszer (EOV) koordináták feltüntetésével,
+## c)[^201] a létesítmény által igénybe vett terület helyszínrajza a kibocsátó források bejelölésével, egységes országos vetületi rendszer (EOV) koordináták feltüntetésével,
 
 ## d) a létesítmény, illetve az ott folytatott tevékenység és annak jellemző termelési kapacitása, beleértve a telephelyen lévő műszakilag kapcsolódó létesítményeket,
 
@@ -16,27 +16,27 @@
 
 ## f) a létesítményben, illetve technológiában felhasznált, valamint az ott előállított anyagok, illetve energia jellemzői és mennyiségi adatai,
 
-## g)[^186] a létesítmény kibocsátásainak forrásai,
+## g)[^202] a létesítmény kibocsátásainak forrásai,
 
 ## h) a létesítményből származó kibocsátások minőségi és mennyiségi jellemzői, valamint várható környezeti hatásai a környezeti elemek összességére vonatkozóan,
 
 ## i) a létesítményben folytatott tevékenység hatásterületének meghatározása a szakterületi jogszabályok figyelembevételével, kiemelve az esetleges országhatáron átterjedő hatásokat,
 
-## j)[^187] a létesítményből származó kibocsátás megelőzésére, vagy ha a megelőzés nem lehetséges, a kibocsátás csökkentésére szolgáló technológiai eljárások és egyéb műszaki megoldások, valamint ezeknek a mindenkori elérhető legjobb technikának való megfelelése,
+## j)[^203] a létesítményből származó kibocsátás megelőzésére, vagy ha a megelőzés nem lehetséges, a kibocsátás csökkentésére szolgáló technológiai eljárások és egyéb műszaki megoldások, valamint ezeknek a mindenkori elérhető legjobb technikának való megfelelése,
 
-## k)[^188] a hulladék keletkezésének megelőzésére, valamint a keletkezett hulladék újrahasználatra való előkészítésére, újrafeldolgozására és újrahasznosítására, valamint a nem hasznosítható hulladék környezetszennyezést, illetve -károsítást kizáró módon történő ártalmatlanítására szolgáló megoldás,
+## k)[^204] a hulladék keletkezésének megelőzésére, valamint a keletkezett hulladék újrahasználatra való előkészítésére, újrafeldolgozására és újrahasznosítására, valamint a nem hasznosítható hulladék környezetszennyezést, illetve -károsítást kizáró módon történő ártalmatlanítására szolgáló megoldás,
 
 ## l) minden olyan intézkedést, amely az energiahatékonyságot, a biztonságot, a szennyezések megelőzését, illetve csökkentését szolgálják, különös tekintettel a 17. §-ban meghatározott követelmények teljesülésére,
 
 ## m) a létesítményből származó kibocsátások mérésére (monitoring), folyamatos ellenőrzésére szolgáló módszerek, intézkedések,
 
-## n)[^189] a technológiáknak, technikáknak és intézkedéseknek az engedélykérő által tanulmányozott főbb alternatíváira vonatkozó rövid leírása,
+## n)[^205] a technológiáknak, technikáknak és intézkedéseknek az engedélykérő által tanulmányozott főbb alternatíváira vonatkozó rövid leírása,
 
 ## o) biztosítékadási és céltartalék képzéssel kapcsolatos, külön jogszabályban meghatározott adatokat.
 
-## p)[^190] alapállapot-jelentés,
+## p)[^206] alapállapot-jelentés,
 
-## q)[^191] a 20. § (8) bekezdésében foglaltak esetén az eltérés indokolása.
+## q)[^207] a 20. § (8) bekezdésében foglaltak esetén az eltérés indokolása.
 
 ## B)
 
@@ -50,13 +50,13 @@
 
 ## Az elérhető legjobb technika meghatározásának szempontjai
 
-Az elérhető legjobb technika meghatározásánál különösen a következő szempontokat kell figyelembe venni:[^192]
+Az elérhető legjobb technika meghatározásánál különösen a következő szempontokat kell figyelembe venni:[^208]
 
 1. kevés hulladékot termelő technológia alkalmazása,
 
 2. kevésbé veszélyes anyagok használata,
 
-3.[^193] a folyamatban keletkező és felhasznált anyagok újrahasználatának, és a hulladékok újrafeldolgozásának elősegítése,
+3.[^209] a folyamatban keletkező és felhasznált anyagok újrahasználatának, és a hulladékok újrafeldolgozásának elősegítése,
 
 4. alternatív üzemeltetési folyamatok, berendezések vagy módszerek, amelyeket sikerrel próbáltak ki ipari méretekben,
 
@@ -76,13 +76,13 @@ Az elérhető legjobb technika meghatározásánál különösen a következő s
 
 12. a magyar környezetvédelmi közigazgatási szervek vagy a nemzetközi szervezetek által közzétett információk, továbbá az Európai Bizottság által a tagállamok és az érintett iparágak között az elérhető legjobb technikákról, a kapcsolódó monitoringról és a fejlődésről szervezett információcserének a Bizottság által közzétett tapasztalatai.
 
-[^184]: A 8. melléklet A) rész b) pontja a 480/2013. (XII. 17.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
-[^185]: A 8. melléklet A) pont c) alpontja a 480/2013. (XII. 17.) Korm. rendelet 12. § g) pontja szerint módosított szöveg.
-[^186]: A 8. melléklet A) pont g) alpontja a 480/2013. (XII. 17.) Korm. rendelet 12. § h) pontja szerint módosított szöveg.
-[^187]: A 8. melléklet A) rész j) pontja a 480/2013. (XII. 17.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
-[^188]: A 8. melléklet A) rész k) pontja a 480/2013. (XII. 17.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
-[^189]: A 8. melléklet A) rész n) pontja a 480/2013. (XII. 17.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
-[^190]: A 8. melléklet A) rész p) pontját a 480/2013. (XII. 17.) Korm. rendelet 11. § (2) bekezdése iktatta be.
-[^191]: A 8. melléklet A) rész q) pontját a 480/2013. (XII. 17.) Korm. rendelet 11. § (2) bekezdése iktatta be.
-[^192]: A 9. melléklet bevezető szövegrésze a 480/2013. (XII. 17.) Korm. rendelet 11. § (3) bekezdésével megállapított szöveg.
-[^193]: A 9. számú melléklet 3. pontja a 441/2012. (XII. 29.) Korm. rendelet 10. § (8) bekezdésével megállapított szöveg.
+[^200]: A 8. melléklet A) rész b) pontja a 480/2013. (XII. 17.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^201]: A 8. melléklet A) pont c) alpontja a 480/2013. (XII. 17.) Korm. rendelet 12. § g) pontja szerint módosított szöveg.
+[^202]: A 8. melléklet A) pont g) alpontja a 480/2013. (XII. 17.) Korm. rendelet 12. § h) pontja szerint módosított szöveg.
+[^203]: A 8. melléklet A) rész j) pontja a 480/2013. (XII. 17.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^204]: A 8. melléklet A) rész k) pontja a 480/2013. (XII. 17.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^205]: A 8. melléklet A) rész n) pontja a 480/2013. (XII. 17.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^206]: A 8. melléklet A) rész p) pontját a 480/2013. (XII. 17.) Korm. rendelet 11. § (2) bekezdése iktatta be.
+[^207]: A 8. melléklet A) rész q) pontját a 480/2013. (XII. 17.) Korm. rendelet 11. § (2) bekezdése iktatta be.
+[^208]: A 9. melléklet bevezető szövegrésze a 480/2013. (XII. 17.) Korm. rendelet 11. § (3) bekezdésével megállapított szöveg.
+[^209]: A 9. számú melléklet 3. pontja a 441/2012. (XII. 29.) Korm. rendelet 10. § (8) bekezdésével megállapított szöveg.

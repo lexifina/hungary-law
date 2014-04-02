@@ -1,4 +1,4 @@
-## A próbaüzemre, az ellenőrzésre és a monitoringra vonatkozó előírások[^115]
+## A próbaüzemre, az ellenőrzésre és a monitoringra vonatkozó előírások[^117]
 
 22. § (1) A felügyelőség új létesítményekre, valamint jelentős változtatás, illetve új keletű technikák alkalmazása esetén, ha az egységes környezethasználati engedélyben rögzített követelmények betartása az (5) bekezdés szerinti hatósági ellenőrzéssel a technológia jellegéből adódóan nem állapítható meg, próbaüzemet ír elő. A próbaüzem ideje alatt a normál üzemmódnak megfelelő előírásoktól való eltérést a felügyelőség engedélyezhet. A tevékenység a próbaüzem után csak az egységes környezethasználati engedélyben rögzített feltételek teljesítésével folytatható.
 
@@ -32,4 +32,4 @@ f) a környezetvédelmi ellenőrzésben esetlegesen érintett más hatóságokka
 
 (10) A környezethasználónak a felszín alatti víz és a földtani közeg vonatkozásában monitoringot kell végeznie az egységes környezethasználati engedélyben előírt gyakorisággal, a felszín alatti víz tekintetében legalább öt-, a földtani közeg tekintetében legalább tízévente.
 
-[^115]: A 22. § előtti alcím (22. §) a 480/2013. (XII. 17.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^117]: A 22. § előtti alcím (22. §) a 480/2013. (XII. 17.) Korm. rendelet 7. §-ával megállapított szöveg.

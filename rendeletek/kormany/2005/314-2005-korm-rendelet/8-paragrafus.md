@@ -1,4 +1,4 @@
-8. § (1)[^60] A felügyelőség a kérelem benyújtását követően – ha a tevékenység nem esik katonai titokvédelem alá – az ügyfeleknek a közigazgatási hatósági eljárás általános szabályairól szóló törvény szerinti, az eljárás megindításáról szóló értesítésével egyidejűleg a honlapján közleményt tesz közzé. A közlemény – az értesítésre a közigazgatási hatósági eljárás általános szabályairól szóló törvényben meghatározottakon túl – tartalmazza:
+8. § (1)[^62] A felügyelőség a kérelem benyújtását követően – ha a tevékenység nem esik katonai titokvédelem alá – az ügyfeleknek a közigazgatási hatósági eljárás általános szabályairól szóló törvény szerinti, az eljárás megindításáról szóló értesítésével egyidejűleg a honlapján közleményt tesz közzé. A közlemény – az értesítésre a közigazgatási hatósági eljárás általános szabályairól szóló törvényben meghatározottakon túl – tartalmazza:
 
 a) az eljáró felügyelőség megnevezését, székhelyét, elérhetőségét;
 
@@ -10,27 +10,27 @@ d) azt, hogy milyen módon történik a tájékoztatás és milyen lehetőségek
 
 e) milyen döntéseket hozhat a felügyelőség a 10. § (2) bekezdése alapján.
 
-f)[^61] az arra vonatkozó tájékoztatást, hogy a kérelem és a mellékletek nyomtatott példányába a felügyelőségen és a tevékenység telepítési helye szerinti település jegyzőjénél lehet betekinteni, valamint, hogy a betekintés módjáról a felügyelőségen vagy a jegyzőnél lehet részletes felvilágosítást kapni,
+f)[^63] az arra vonatkozó tájékoztatást, hogy a kérelem és a mellékletek nyomtatott példányába a felügyelőségen és a tevékenység telepítési helye szerinti település jegyzőjénél lehet betekinteni, valamint, hogy a betekintés módjáról a felügyelőségen vagy a jegyzőnél lehet részletes felvilágosítást kapni,
 
-g)[^62] az elektronikus úton közzétett kérelem és mellékletek elérési helyét.
+g)[^64] az elektronikus úton közzétett kérelem és mellékletek elérési helyét.
 
-(1a)[^63] Az (1) bekezdés szerinti közlemény tartalmazhatja a közmeghallgatásra vonatkozó adatokat is, ebben az esetben a közmeghallgatásról külön közzététel és közhírré tétel nem szükséges.
+(1a)[^65] Az (1) bekezdés szerinti közlemény tartalmazhatja a közmeghallgatásra vonatkozó adatokat is, ebben az esetben a közmeghallgatásról külön közzététel és közhírré tétel nem szükséges.
 
-(2)[^64] A felügyelőség a közlemény közzétételével egyidejűleg a tevékenység telepítési helye szerinti település jegyzőjének megküldi a közleményt, a kérelem és mellékleteinek nyomtatott példányát, a feltételezhetően érintett települések jegyzőinek a közleményt. A jegyző haladéktalanul, de legkésőbb öt napon belül gondoskodik a közlemény közterületen és a helyben szokásos egyéb módon történő közhírré tételéről. A jegyző a közlemény közhírré tételét követő öt napon belül tájékoztatja a felügyelőséget a közhírré tétel időpontjáról és helyéről, a telepítési hely szerinti település jegyzője ezeken felül a kérelem és mellékletei nyomtatott példányába való betekintési lehetőség módjáról is.
+(2)[^66] A felügyelőség a közlemény közzétételével egyidejűleg a tevékenység telepítési helye szerinti település jegyzőjének megküldi a közleményt, a kérelem és mellékleteinek nyomtatott példányát, a feltételezhetően érintett települések jegyzőinek a közleményt. A jegyző haladéktalanul, de legkésőbb öt napon belül gondoskodik a közlemény közterületen és a helyben szokásos egyéb módon történő közhírré tételéről. A jegyző a közlemény közhírré tételét követő öt napon belül tájékoztatja a felügyelőséget a közhírré tétel időpontjáról és helyéről, a telepítési hely szerinti település jegyzője ezeken felül a kérelem és mellékletei nyomtatott példányába való betekintési lehetőség módjáról is.
 
-(3)[^65] A közzététel időtartama legalább harminc nap.
+(3)[^67] A közzététel időtartama legalább harminc nap.
 
-(4)[^66] A felügyelőség a szakhatóságok megkeresése során a kérelmet és mellékleteit kizárólag elektronikus úton bocsátja a szakhatóság rendelkezésre, az elektronikus úton közzétett kérelem és mellékletek elérési helyének megadásával.
+(4)[^68] A felügyelőség a szakhatóságok megkeresése során a kérelmet és mellékleteit kizárólag elektronikus úton bocsátja a szakhatóság rendelkezésre, az elektronikus úton közzétett kérelem és mellékletek elérési helyének megadásával.
 
-(5)[^67] A felügyelőség a szakhatósági állásfoglalásokba és az általa kért szakértői véleményekbe, továbbá a hiánypótlásul készült dokumentációba való betekintést lehetővé teszi a benyújtásukat, illetve rendelkezésre állásukat követő – egyeztetés esetén az egyeztetést követő – nyolc napon belül az érintett nyilvánosság számára.
+(5)[^69] A felügyelőség a szakhatósági állásfoglalásokba és az általa kért szakértői véleményekbe, továbbá a hiánypótlásul készült dokumentációba való betekintést lehetővé teszi a benyújtásukat, illetve rendelkezésre állásukat követő – egyeztetés esetén az egyeztetést követő – nyolc napon belül az érintett nyilvánosság számára.
 
 (6) Az ügyben az (5) bekezdésben említetteket követően keletkezett és a döntéshozatal szempontjából lényeges környezeti információkat – a Kvt. 12. §-ának (2)–(3) bekezdésének megfelelően – az érintett nyilvánosság számára hozzáférhetővé kell tenni.
 
-[^60]: A 8. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 442. §-a, a 371/2012. (XII. 17.) Korm. rendelet 17. § 1. pontja szerint módosított szöveg.
-[^61]: A 8. § (1) bekezdés f) pontját a 371/2012. (XII. 17.) Korm. rendelet 5. § (1) bekezdése iktatta be.
-[^62]: A 8. § (1) bekezdés g) pontját a 371/2012. (XII. 17.) Korm. rendelet 5. § (1) bekezdése iktatta be.
-[^63]: A 8. § (1a) bekezdését a 371/2012. (XII. 17.) Korm. rendelet 5. § (2) bekezdése iktatta be.
-[^64]: A 8. § (2) bekezdése a 371/2012. (XII. 17.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.
-[^65]: A 8. § (3) bekezdése a 371/2012. (XII. 17.) Korm. rendelet 17. § 2. pontja szerint módosított szöveg.
-[^66]: A 8. § (4) bekezdését a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 29. pontja hatályon kívül helyezte, újonnan a 371/2012. (XII. 17.) Korm. rendelet 5. § (4) bekezdése iktatta be.
-[^67]: A 8. § (5) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (70) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^62]: A 8. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 442. §-a, a 371/2012. (XII. 17.) Korm. rendelet 17. § 1. pontja szerint módosított szöveg.
+[^63]: A 8. § (1) bekezdés f) pontját a 371/2012. (XII. 17.) Korm. rendelet 5. § (1) bekezdése iktatta be.
+[^64]: A 8. § (1) bekezdés g) pontját a 371/2012. (XII. 17.) Korm. rendelet 5. § (1) bekezdése iktatta be.
+[^65]: A 8. § (1a) bekezdését a 371/2012. (XII. 17.) Korm. rendelet 5. § (2) bekezdése iktatta be.
+[^66]: A 8. § (2) bekezdése a 371/2012. (XII. 17.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.
+[^67]: A 8. § (3) bekezdése a 371/2012. (XII. 17.) Korm. rendelet 17. § 2. pontja szerint módosított szöveg.
+[^68]: A 8. § (4) bekezdését a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 29. pontja hatályon kívül helyezte, újonnan a 371/2012. (XII. 17.) Korm. rendelet 5. § (4) bekezdése iktatta be.
+[^69]: A 8. § (5) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (70) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
