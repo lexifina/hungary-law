@@ -26,7 +26,7 @@ a) az általános építmények körében az Európai Unió támogatásából me
 
 b)[^294] a közlekedési, a víziközmű és vízgazdálkodási építmények, valamint a Magyar Kereskedelmi Engedélyezési Hivatalról és a területi mérésügyi és műszaki biztonsági hatóságokról szóló 320/2010. (XII. 27.) Korm. rendelet 13. § (2) bekezdésében megjelölt sajátos építményfajták vonatkozásában 2014. július 1-jét,
 
-c) a honvédelmi és katonai, továbbá a nemzetbiztonsági célú építmények tekintetében a 2014. október 1-jét,
+c)[^295] a honvédelmi és katonai, továbbá a nemzetbiztonsági célú, valamint az elektronikus hírközlési építmények tekintetében a 2014. október 1-jét,
 
 d) az atomenergia alkalmazására szolgáló építmények tekintetében a 2016. október 1-jét
 
@@ -41,3 +41,4 @@ követően megkezdett kivitelezések esetén kell alkalmazni.
 [^292]: A 42. § (6) bekezdését a 336/2013. (IX. 20.) Korm. rendelet 15. §-a iktatta be.
 [^293]: A 42. § (7) bekezdését a 336/2013. (IX. 20.) Korm. rendelet 15. §-a iktatta be.
 [^294]: [A 62/2014. (III. 6.) Korm. rendelet 12. § 26. pontjával elrendelt módosítás, amely szerint a „célú építmények” szövegrész helyébe a „célú, valamint az elektronikus hírközlési építmények” szöveg lép, nem vezethető át.]
+[^295]: A 42. § (7) bekezdés c) pontja a 100/2014. (III. 25.) Korm. rendelet 6. §-a szerint módosított szöveg.
