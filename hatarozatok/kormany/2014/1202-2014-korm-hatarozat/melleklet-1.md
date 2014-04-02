@@ -50,6 +50,8 @@
 
 ## Határidő: 2014. október 31.
 
-## 8. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1664/2012. (XII. 20.) Korm. határozatban a „2013. december 31.” szövegrész helyébe a „2014. június 30.” szöveg lép.
+## 8.[^1]
 
 1. melléklet az 1202/2014. (IV. 1.) Korm. határozathoz
+
+[^1]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
