@@ -8,6 +8,8 @@
 
 ## Határidő: a projektek akciótervi nevesítéséről szóló kormányhatározat közzétételét követően azonnal
 
-## 4. visszavonja a regionális operatív programok 2011–2013. évekre szóló akcióterveinek módosításáról és a Nyugat-Dunántúli Operatív Program 5. prioritás keretének növeléséről szóló 2057/2013. (XII. 31.) Korm. határozat 5. mellékletének 3. prioritásra vonatkozó részét.
+## 4.[^1]
 
 1. melléklet az 1209/2014. (IV. 1.) Korm. határozathoz
+
+[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
