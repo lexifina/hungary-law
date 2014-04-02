@@ -14,7 +14,15 @@ b) az 1. számú mellékletben fel nem sorolt olyan terv, illetve program, amely
 
 ba) a mezőgazdaság, erdőgazdálkodás, halgazdálkodás, energetika, ipar, szállítás, közlekedés, hulladékgazdálkodás, vízgazdálkodás, elektronikus hírközlés, idegenforgalom, regionális fejlesztés számára készül, és keretet szab olyan tevékenységek vagy létesítmények jövőbeli hatósági engedélyezése számára, amelyek a környezeti hatásvizsgálatról szóló külön jogszabály mellékletében[^1] vannak felsorolva, azonban – e rendelet alkalmazása szempontjából – függetlenül az abban megadott küszöbértéktől és területi megkötéstől, vagy
 
-bb) a külön jogszabályban meghatározott Natura 2000 területre jelentős káros hatással lehet.
+bb)[^2] jelentős káros hatással lehet
+
+bba) Natura 2000 területre vagy
+
+bbb) a vízgyűjtő-gazdálkodás egyes szabályairól szóló kormányrendelet alapján
+
+bbba) kijelölt víztestekre vagy
+
+bbbb) nyilvántartott védett területekre.
 
 (3) Várható környezeti hatásuk jelentőségének eseti meghatározása alapján dönthető el a környezeti vizsgálat szükségessége [Kvt. 43. § (5) bekezdés b) pontja]
 
@@ -43,3 +51,4 @@ c) olyan honvédelmi vagy polgári védelmi tervre, illetve programra, amit kül
 d) tevékenységek hatósági engedélyezéséhez előírt tervre, illetve programra.
 
 [^1]: 20/2001. (II. 14.) Korm. rendelet 1. számú melléklete.
+[^2]: Az 1. § (2) bekezdés b) pont bb) alpontja a 100/2014. (III. 25.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.

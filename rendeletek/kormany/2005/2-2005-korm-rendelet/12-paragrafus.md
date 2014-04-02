@@ -12,8 +12,8 @@ a) a terv, illetve program kidolgozása során még előre nem látható káros 
 
 b) a káros hatások bekövetkezése esetén szükséges teendők meghatározására;
 
-c)[^7] a monitorozás eredményeinek hozzáférhetővé tételére a környezet védelméért felelős szervek és a nyilvánosság számára.
+c)[^8] a monitorozás eredményeinek hozzáférhetővé tételére a környezet védelméért felelős szervek és a nyilvánosság számára.
 
 (3) A monitorozáshoz – ha ez szükséges – a meglévő észlelő-, mérő-, megfigyelőhálózat, rendszer felhasználható, a monitorozásra vonatkozó már előírt rendelkezés, továbbá a terv, illetve program felülvizsgálata alkalmazható.
 
-[^7]: A 12. § (2) bekezdés c) pontját a 132/2010. (IV. 21.) Korm. rendelet 5. §-a iktatta be.
+[^8]: A 12. § (2) bekezdés c) pontját a 132/2010. (IV. 21.) Korm. rendelet 5. §-a iktatta be.

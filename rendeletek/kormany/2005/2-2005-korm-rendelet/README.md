@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-2-20-22
 | 2012-07-01 | 2005-2-20-22.12 | 351/2010. (XII. 30.) Korm. rendelet |
 | 2013-01-01 | 2005-2-20-22.13 | 441/2012. (XII. 29.) Korm. rendelet |
 | 2014-01-01 | 2005-2-20-22.14 | 377/2007. (XII. 23.) Korm. rendelet |
+| 2014-04-02 | 2005-2-20-22.15 | 100/2014. (III. 25.) Korm. rendelet |
