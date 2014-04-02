@@ -1,8 +1,8 @@
-10. §[^1]
+10. §[^24]
 
 Melléklet a 24/2012. (III. 19.) VM rendelethez
 
-Gyűjthető trifla fajok és gyűjtésük ideje
+Trifla fajok gyűjtési ideje[^25]
 
 1. valódi szarvasgombák:
 
@@ -24,10 +24,8 @@ Gyűjthető trifla fajok és gyűjtésük ideje
 
 2.2. Mattirolomyces terfezioides (Matt.) Ed. Fischer, homoki szarvasgomba – augusztus 20-tól november 15-ig,
 
-2.3. Melanogaster broomeianus Berk., Változékony kocsonyás-álpöfeteg – egész évben,
+2.3.–2.5.[^26]
 
-2.4. Melanogaster variegatus (Vittad.) Tul., Vörösbarna kocsonyás-álpöfeteg – egész évben,
-
-2.5. Melanogaster ambiguus (Vittad.) Tul., Apró kocsonyás-álpöfeteg – egész évben.
-
-[^1]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^24]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^25]: A melléklet címe a 25/2014. (III. 25.) VM rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^26]: A melléklet 2. pont 2.3.–2.5. alpontját a 25/2014. (III. 25.) VM rendelet 7. § (3) bekezdés d) pontja hatályon kívül helyezte.
