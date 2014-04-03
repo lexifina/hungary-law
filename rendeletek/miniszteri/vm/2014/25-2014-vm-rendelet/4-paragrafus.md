@@ -1,1 +1,0 @@
-## „(5) Ha a melléklet szerinti fajokat a gyűjtési időn kívül, valamint a mellékletben nem szereplő fajokat a 2. § (5) bekezdésben előírt hozzájárulással nem rendelkező személy találja meg, azokat fellelésük helyén a lehető legkisebb talajbolygatással vissza kell temetni.”
