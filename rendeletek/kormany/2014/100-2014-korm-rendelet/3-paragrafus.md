@@ -1,1 +1,0 @@
-## „(2a) Ez a rendelet – a vízgyűjtő-gazdálkodás egyes szabályairól szóló 221/2004. (VII. 21.) Korm. rendelet 10. §-ával és 11. §-ával együtt – a vízpolitika terén a közösségi fellépés kereteinek meghatározásáról szóló, 2000. október 23-i 2000/60/EK európai parlamenti és tanácsi irányelv 4. cikk (7)–(9) bekezdésének való megfelelést szolgálja.”
