@@ -1,0 +1,5 @@
+2. § (1) Az emlékérme réz (75%) és nikkel (25%) ötvözetéből készült, súlya 23,7 gramm, átmérője 37 mm, széle recézett.
+
+(2) Az emlékérme előlapjának szélén található gyöngysor-szegélyen belül, felső köriratban a „MAGYARORSZÁG” felirat, alsó köriratban a „2000” értékjelzés és a „FORINT” felirat olvasható. A felső és az alsó körirat között, bal oldalon, középen a „BP.” verdejel, jobb oldalon, középen a „2014” verési évszám olvasható. A középmezőben a fóti Szeplőtelen Fogantatás római katolikus plébániatemplom ábrázolása látható. Az emlékérme előlapjának képét az 1. melléklet tartalmazza.
+
+(3) Az emlékérme hátlapjának szélén található gyöngysor-szegélyen belül, felső köriratban – egymástól ponttal elválasztva – az „YBL MIKLÓS” és az „1814-1891” felirat olvasható. A középmezőben, kissé jobbra Ybl Miklós mellképének ábrázolása látható. A mellképtől balra Ybl Miklós aláírása látható. A mellképtől jobbra, az emlékérme szélén Erőss Ildikó tervezőművész mesterjegye látható. Az emlékérme hátlapjának képét a 2. melléklet tartalmazza.
