@@ -38,4 +38,9 @@ k) kis és közepes jövedelmű háztartások szociális aspektusainak kezelés�
 
 l) az Európai Bizottság NER300 programjában közvetlenül támogatást nyert hazai projektek megvalósítására.
 
-(3) A ZFR kezeléséhez, működtetéséhez, bevételei beszedéséhez, pénzeszközei felhasználásának ellenőrzéséhez szükséges költségek fedezésére, illetve a ZFR bevételeinek, mint pályázati pénzeknek a felhasználására, a pályázatok megvalósulására, monitorozására, az elért kibocsátás-csökkentés számszerűsítésére, valamint jogszabályban meghatározott követelmények teljesülésére vonatkozó pénzügyi és műszaki szempontú értékeltetésére (auditáltatására) a ZFR legfeljebb 5%-a használható fel.
+(2a)[^2] A Zfr. terhére kell kifizetni az Európai Bizottság NER300 programjában támogatást nyert hazai projektek megvalósítására az Európai Bizottság határozatában megítélt és teljesített támogatást és az energiapolitikáért felelős miniszter (a továbbiakban: támogató) által vezetett minisztériumot terhelő késedelmi kamat összegét.
+
+(3)[^3] A ZFR kezeléséhez, működtetéséhez, bevételei beszedéséhez, pénzeszközei felhasználásának ellenőrzéséhez szükséges költségek fedezésére, illetve a ZFR bevételeinek, mint pályázati pénzeknek a felhasználására, a pályázatok megvalósulására, monitorozására, az elért kibocsátás-csökkentés számszerűsítésére, valamint jogszabályban meghatározott követelmények teljesülésére vonatkozó pénzügyi és műszaki szempontú értékeltetésére (auditáltatására) a ZFR legfeljebb 7%-a használható fel.
+
+[^2]: A 3. § (2a) bekezdését a 16/2014. (IV. 3.) NFM rendelet 29. §-a iktatta be.
+[^3]: A 3. § (3) bekezdése a 16/2014. (IV. 3.) NFM rendelet 34. § a) pontja szerint módosított szöveg.

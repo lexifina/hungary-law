@@ -2,8 +2,10 @@
 
 ## 1. § E rendelet hatálya
 
-a) a Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény 1. melléklet XVII. fejezet, 20. Fejezeti kezelésű előirányzat cím, 35. Klíma-, energia- és zöldgazdaság-politikai ágazati programok alcím, 4. Zöldgazdaság Finanszírozási Rendszer jogcím-csoport fejezeti kezelésű előirányzatra (a továbbiakban: ZFR),
+a)[^1] a Magyarország 2014. évi központi költségvetéséről szóló 2013. évi CCXXX. törvény 1. melléklet XVII. Nemzeti Fejlesztés Minisztérium fejezet, 20. Fejezeti kezelésű előirányzat cím, 35. Klíma-, energia- és zöldgazdaság-politikai ágazati programok alcím, 4. Zöldgazdaság Finanszírozási Rendszer jogcím-csoport fejezeti kezelésű előirányzatra (a továbbiakban: ZFR),
 
 b) a ZFR előző évekről áthúzódó költségvetési maradványára,
 
 c) a ZFR többletbevételére
+
+[^1]: Az 1. § a) pontja a 16/2014. (IV. 3.) NFM rendelet 28. §-ával megállapított szöveg.

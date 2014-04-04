@@ -10,6 +10,8 @@ a) a költséghatékonyabb, a fajlagosan nagyobb ÜHG megtakarítást jelentő p
 
 b) az a) pontnak megfelelő pályázatok közül a komplex, több célt megvalósító fejlesztéseket.
 
-(4) A benyújtott pályázatokról a kezelő szerv javaslata alapján a támogató a pályázatok benyújtására meghatározott határidő lejártát követő 90 napon belül dönt.
+(4)[^8]
 
 (5) A támogatói döntésre vonatkozó tájékoztatással egyidejűleg a pályázó részére a kezelő szerv a támogatási szerződés tervezetét is megküldi.
+
+[^8]: A 10. § (4) bekezdését a 16/2014. (IV. 3.) NFM rendelet 35. §-a hatályon kívül helyezte.
