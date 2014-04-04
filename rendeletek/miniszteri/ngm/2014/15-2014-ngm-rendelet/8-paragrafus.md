@@ -1,0 +1,1 @@
+## 7. § Az adómentesség feltételeinek vizsgálata során nem kell vizsgálni azt a körülményt, hogy ugyanazon lakáshoz kapcsolódóan a magánszemélyen kívül más személy – különösen a magánszemély hozzátartozója – részesül-e vagy részesült-e a támogatásban.
