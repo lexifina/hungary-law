@@ -200,7 +200,7 @@
 
 ## * Egyedi adatgyűjtés alapján
 
-7. számú melléklet a 113/2009. (VIII. 29.) FVM rendelethez[^33]
+7. számú melléklet a 113/2009. (VIII. 29.) FVM rendelethez[^40]
 
 ## Közreműködő bevonására vonatkozó magánokirat adattartalma
 
@@ -212,4 +212,4 @@
 
 4. a közreműködő bevonásának időtartama.
 
-[^33]: A 7. számú mellékletet a 123/2011. (XII. 21.) VM rendelet 9. §-a iktatta be.
+[^40]: A 7. számú mellékletet a 123/2011. (XII. 21.) VM rendelet 9. §-a iktatta be.
