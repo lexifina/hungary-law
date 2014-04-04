@@ -1,6 +1,6 @@
 ## 2. § A Kormány a Prümi Szerződés 44. Cikke alapján 2006. december 5-én, Brüsszelben létrejött Adminisztratív és Technikai Végrehajtási Megállapodást e rendelettel kihirdeti.
 
-3. §[^1] Az Adminisztratív és Technikai Végrehajtási Megállapodás hiteles szövege és annak hivatalos magyar fordítása a következő:
+3. §[^2] Az Adminisztratív és Technikai Végrehajtási Megállapodás hiteles szövege és annak hivatalos magyar fordítása a következő:
 
 „
 
@@ -4828,4 +4828,24 @@ b) a művelet konkrét célja;
 
 c) a fogadó állam, ahol a művelet lezajlik;
 
-[^1]: A 3. § e rendelet 4. § (2) bekezdése alapján a Végrehajtási megállapodás 20.1 pontjában meghatározott időpontban lép hatályba. A 16/2012. (III. 22.) KüM közlemény alapján a hatálybalépés időpontja 2008. január 14.
+d) a fogadó állam azon földrajzi területe, ahol a művelet lezajlik;
+
+e) a művelet missziós nyilatkozatában rögzített időkeret;
+
+f) a küldő állam által a fogadó államnak nyújtandó konkrét segítségnyújtás, beleértve a tiszteket vagy más hivatalos személyeket, tárgyi és pénzügyi segítséget;
+
+g) a műveletben részt vevő tisztek;
+
+h) a műveletért felelős tiszt;
+
+i) a küldő állam tisztjeinek és más hivatalos személyeinek a fogadó államban a művelet során gyakorolható jogai;
+
+j) az egyes fegyverek, lőszerek és felszerelés, amelyet a kiküldött tisztek a művelet során, a D.3. Mellékletben meghatározott szabályok szerint használhatnak;
+
+k) a szállítás, az elszállásolás és a biztonság logisztikai feltételei;
+
+l) a közös művelet költségeinek viselése, ha ez eltér a Szerződés 46. Cikkében rögzítettektől;
+
+m) bármi egyéb lehetséges tisztázandó körülmény.
+
+[^2]: A 3. § e rendelet 4. § (2) bekezdése alapján a Végrehajtási megállapodás 20.1 pontjában meghatározott időpontban lép hatályba. A 16/2012. (III. 22.) KüM közlemény alapján a hatálybalépés időpontja 2008. január 14.
