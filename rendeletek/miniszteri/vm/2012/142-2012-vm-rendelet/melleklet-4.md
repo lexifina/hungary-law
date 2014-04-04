@@ -1,3 +1,3 @@
-4. melléklet a 142/2012. (XII. 27.) VM rendelethez[^14]
+4. melléklet a 142/2012. (XII. 27.) VM rendelethez[^17]
 
-[^14]: A 4. melléklet a 12/2014. (II. 21.) VM rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^17]: A 4. melléklet a 12/2014. (II. 21.) VM rendelet 7. § (2) bekezdésével megállapított szöveg.

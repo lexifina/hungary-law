@@ -1,4 +1,4 @@
-3. melléklet a 142/2012. (XII. 27.) VM rendelethez[^13]
+3. melléklet a 142/2012. (XII. 27.) VM rendelethez[^16]
 
 ## Borvidéki szerkezetátalakítási és -átállítási terv
 
@@ -64,4 +64,4 @@ Helység, dátum ...........................................................
 
 | elnök | titkár |
 
-[^13]: A 3. melléklet a 12/2014. (II. 21.) VM rendelet 6. § e) pontja és 7. § (1) bekezdése szerint módosított szöveg.
+[^16]: A 3. melléklet a 12/2014. (II. 21.) VM rendelet 6. § e) pontja és 7. § (1) bekezdése szerint módosított szöveg.
