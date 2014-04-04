@@ -4,9 +4,9 @@
 
 16. § (1) Az előirányzat célja az M60 autópálya Pécs–Szentdénes közötti szakasz előkészítési munkálatainak teljes befejezésének finanszírozása.
 
-(2)[^6] Az előirányzat felhasználására a 14. § (2)–(4) bekezdését kell alkalmazni.
+(2)[^10] Az előirányzat felhasználására a 14. § (2)–(4) bekezdését kell alkalmazni.
 
-(3)[^7]
+(3)[^11]
 
-[^6]: A 16. § (2) bekezdése a 44/2013. (VII. 25.) NFM rendelet 3. §-ával megállapított szöveg.
-[^7]: A 16. § (3) bekezdését a 44/2013. (VII. 25.) NFM rendelet 11. § a) pontja hatályon kívül helyezte.
+[^10]: A 16. § (2) bekezdése a 44/2013. (VII. 25.) NFM rendelet 3. §-ával megállapított szöveg.
+[^11]: A 16. § (3) bekezdését a 44/2013. (VII. 25.) NFM rendelet 11. § a) pontja hatályon kívül helyezte.

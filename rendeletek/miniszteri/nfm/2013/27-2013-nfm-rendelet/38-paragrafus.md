@@ -1,5 +1,3 @@
-## 37. § Az előirányzat az Agrármarketing Célelőirányzat felhasználásának és kezelésének részletes szabályairól szóló miniszteri rendelet alapján használható fel.
-
 ## 22. Központi fejlesztési feladatok (17-20-33-7, ÁHT: 258301)
 
 38. § (1) Az előirányzat terhére a miniszter forrást biztosíthat

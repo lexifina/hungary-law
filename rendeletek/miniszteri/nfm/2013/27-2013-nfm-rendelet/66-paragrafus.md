@@ -1,5 +1,9 @@
-## 43. Hozzájárulás a Művészetek Palotájának Működtetéséhez (17-20-36-6, ÁHT: 256101)
+## történik.
 
-66. § (1) Az előirányzat a Művészetek Palotája megvalósításával és működtetésével kapcsolatban 2005-ben megkötött 30 éves futamidejű rendelkezésre állási szerződés alapján fizetendő rendelkezésre állási díj és közüzemi díjak fedezetét biztosítja.
+## 43. [^69] Hozzájárulás a Művészetek Palotája működtetéséhez (17-20-36-6, ÁHT: 256101)
 
-(2) Az előirányzat felhasználása a rendelkezésre állási díjak kifizetésével, számlánként közvetlenül történik.
+66. § (1) Az előirányzat célja a Művészetek Palotája működtetése keretében az éves rendelkezésre állási díj, valamint a közüzemi költségek finanszírozása.
+
+(2) Az előirányzat felhasználása során a rendelkezésre állási, szolgáltatási és egyéb díjak kifizetése a szolgáltató által kiállított számlák alapján számlánként közvetlenül történik.
+
+[^69]: A 43. alcím (66. §) a 16/2014. (IV. 3.) NFM rendelet 21. §-ával megállapított szöveg.

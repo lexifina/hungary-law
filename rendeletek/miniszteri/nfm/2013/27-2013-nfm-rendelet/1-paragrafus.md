@@ -4,7 +4,7 @@
 
 1. § (1) E rendelet hatálya
 
-a) a Magyarország központi költségvetéséről szóló törvény (a továbbiakban: Kvtv.) 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet 20. címébe sorolt fejezeti kezelésű előirányzatokra,
+a)[^1] a Magyarország 2014. évi központi költségvetéséről szóló 2013. évi CXXX. törvény (a továbbiakban: Kvtv.) 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet 20. címébe sorolt fejezeti kezelésű előirányzatokra,
 
 b) az előző évekről áthúzódó, az a) pont szerinti költségvetési fejezetet irányító szerv vezetőjének (a továbbiakban: miniszter) irányítása alá tartozó fejezeti kezelésű előirányzatok költségvetési maradványára, tekintet nélkül annak eredeti előirányzathoz való kapcsolódására vagy annak hiányára,
 
@@ -15,3 +15,5 @@ d) az előző évekről áthúzódó, a miniszter irányítása alá tartozó fe
 ## [az a)–d) pont a továbbiakban együtt: előirányzatok] terjed ki.
 
 (2) A TEN-T projektek fejezeti kezelésű előirányzat vonatkozásában a 3–8. §-t nem kell alkalmazni.
+
+[^1]: Az 1. § (1) bekezdés a) pontja a 16/2014. (IV. 3.) NFM rendelet 26. § a) pontja szerint módosított szöveg.

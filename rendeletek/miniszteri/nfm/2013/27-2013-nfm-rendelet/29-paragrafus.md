@@ -3,3 +3,7 @@
 29. § (1) Az előirányzat célja a közlekedés okozta zajszennyezés csökkentése érdekében szükséges monitoring feladatok ellátása, a jogszabályok megalapozását szolgáló adatgyűjtés, mérések, a különböző beavatkozások környezeti hatásainak előrebecslése, továbbá a környezeti zaj értékeléséről és kezeléséről szóló, 2002. június 25-i 2002/49/ EK európai parlamenti és tanácsi irányelv, valamint a környezeti zaj értékeléséről és kezeléséről szóló 280/2004. (X. 20.) Korm. rendelet szerinti stratégiai zajtérképezéshez kapcsolódó feladatok elvégzése az állami kezelésben lévő nagyforgalmú közutak és vasútvonalak vonatkozásában.
 
 (2) Az előirányzat felhasználására a miniszter támogatási szerződést köt a KTI Nonprofit Kft.-vel mint kedvezményezettel.
+
+(3)[^23] A támogatás terhére előleg folyósítható.
+
+[^23]: A 29. § (3) bekezdését a 16/2014. (IV. 3.) NFM rendelet 7. §-a iktatta be.

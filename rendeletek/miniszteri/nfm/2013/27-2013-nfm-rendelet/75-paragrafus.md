@@ -1,5 +1,3 @@
-## 52. „ Friends of Hungary” Alapítvány működtetése (17-20-38-4, ÁHT: 338317)
+## 52.[^77]
 
-75. § (1) Az előirányzat célja a diaszpóra magyarság nemzeti identitásának és a nemzeti összetartozás kötelékeinek erősítése céljából az Amerikai Egyesült Államokban „Friends of Hungary” elnevezéssel működő alapítvány létrehozása és működtetése.
-
-(2) Az előirányzat felhasználása a XI. Miniszterelnökség fejezetbe történő átcsoportosítással történik.
+[^77]: Az 52. alcímet (75. §) a 16/2014. (IV. 3.) NFM rendelet 27. § (1) bekezdése hatályon kívül helyezte.

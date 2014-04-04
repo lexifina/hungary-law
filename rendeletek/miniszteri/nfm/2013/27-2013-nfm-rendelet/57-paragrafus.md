@@ -16,13 +16,13 @@ d) olyan új tény merül fel, amely a pályázat elbírálásakor nem volt isme
 
 e) a projekt megvalósítása a támogatási szerződésben meghatározott, tervezett befejezési időponthoz képest előre láthatóan késik – a kezelő szerv a befejezés határidejét a pályázati útmutatóban előírt végső befejezési határidőig meghosszabbíthatja –;
 
-f) a projekt összköltségében tíz százalékot meg nem haladó mértékben változnak a költségek az eredeti támogatási szerződésben rögzítetthez képest;
+f)[^61] a projekt összköltségében 30%-ot meg nem haladó mértékben változnak a költségek az eredeti támogatási szerződésben rögzítetthez képest.
 
 (4) A kezelő szerv a szerződésmódosítási kérelmet az erre vonatkozó javaslattal együttesen a miniszter részére felterjeszti, ha
 
 a) a projekt támogatása meghaladja a 100 millió forintot;
 
-b) a projekt műszaki tartalmának módosítása esetén az energia megtakarítás értéke várhatóan nem éri el a támogatási szerződésben rögzített célérték 90%-át, vagy
+b)[^62] a projekt műszaki tartalmának módosítása esetén az energia megtakarítás értéke várhatóan nem éri el a támogatási szerződésben rögzített célérték 80%-át, vagy
 
 c) a módosítás a beruházás finanszírozását érinti a (3) bekezdés b)–c) és d) pontjában foglalt finanszírozásra vonatkozó esetek kivételével.
 
@@ -33,3 +33,6 @@ c) a módosítás a beruházás finanszírozását érinti a (3) bekezdés b)–
 (7) A támogatási szerződés eltérő rendelkezése hiányában a támogatási szerződésben meghatározott befejezési határidő annak letelte előtt egyszeri alkalommal legfeljebb 120 nappal meghosszabbítható a kedvezményezett kérelmére. A kérelem benyújtásának határideje a beruházás befejezési határidejének utolsó napját megelőző 30. nap.
 
 (8) A támogatási szerződés módosításával kapcsolatos további szabályokat a támogatási szerződésben kell meghatározni.
+
+[^61]: Az 57. § (3) bekezdés f) pontja a 16/2014. (IV. 3.) NFM rendelet 19. § (1) bekezdésével megállapított szöveg.
+[^62]: Az 57. § (4) bekezdés b) pontja a 16/2014. (IV. 3.) NFM rendelet 19. § (2) bekezdésével megállapított szöveg.
