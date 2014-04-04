@@ -1,6 +1,6 @@
-## 13. §[^35] E rendeletnek az Európai Mezőgazdasági Vidékfejlesztési Alapból finanszírozott egyes agrártámogatási tárgyú miniszteri rendeletek módosításáról szóló 4/2013. (II. 4.) VM rendelet által megállapított 9. § (9) bekezdését a 2013. január 1-jétől benyújtott kifizetési kérelmekre kell alkalmazni.
+## 14. §[^38] Az egyes agrártámogatási tárgyú miniszteri rendeletek módosításáról szóló 30/2014. (IV. 3.) VM rendelettel megállapított 9. § (6), (10) és (11) bekezdését a 2007. december 3. és 2008. február 7. között benyújtott támogatási kérelmek esetében kell alkalmazni.
 
-## Melléklet a 67/2007. (VII. 26.) FVM rendelethez[^36]
+## Melléklet a 67/2007. (VII. 26.) FVM rendelethez[^39]
 
 ## Értékelési szempontok
 
@@ -60,7 +60,7 @@
 
 | A vállalkozás társadalmi felelősségvállalása | (+) 5 |
 
-2. számú melléklet a 67/2007. (VII. 26.) FVM rendelethez[^37]
+2. számú melléklet a 67/2007. (VII. 26.) FVM rendelethez[^40]
 
 Közreműködő bevonására vonatkozó magánokirat adattartalma
 
@@ -72,6 +72,6 @@ Közreműködő bevonására vonatkozó magánokirat adattartalma
 
 4. a közreműködő bevonásának időtartama.
 
-[^35]: A 13. §-t a 4/2013. (II. 4.) VM rendelet 19. §-a iktatta be.
-[^36]: A melléklet a 105/2008. (VIII. 14.) FVM rendelet 4. §-a szerint módosított szöveg.
-[^37]: A 2. számú mellékletet a 123/2011. (XII. 21.) VM rendelet 5. §-a iktatta be.
+[^38]: A 14. §-t a 30/2014. (IV. 3.) VM rendelet 2. §-a iktatta be.
+[^39]: A melléklet a 105/2008. (VIII. 14.) FVM rendelet 4. §-a szerint módosított szöveg.
+[^40]: A 2. számú mellékletet a 123/2011. (XII. 21.) VM rendelet 5. §-a iktatta be.
