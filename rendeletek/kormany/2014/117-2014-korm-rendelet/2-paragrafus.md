@@ -1,0 +1,1 @@
+## gazdasági társaságot [az a)–f) pont a továbbiakban együtt: Társaságok] a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény (a továbbiakban: Cstv.) 65. §-a alapján stratégiailag kiemelt jelentőségű gazdálkodó szervezetté minősíti.
