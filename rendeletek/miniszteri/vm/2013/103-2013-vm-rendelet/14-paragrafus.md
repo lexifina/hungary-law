@@ -10,7 +10,7 @@ a) az első kifizetési kérelmet benyújtani, és
 
 b) a támogatási határozatban a támogatási határozattal jóváhagyott egyéb kiadások összegével csökkentett beruházási kiadások legalább 10 százalékával elszámolni.
 
-(4) Mentesül az ügyfél a (3) bekezdésben foglaltak alól, ha a támogatási kérelemre hozott határozatban kizárólag egy darab gépjármű került jóváhagyásra, és a támogatási határozat jogerőre emelkedését követő 1 hónapon belül az MVH részére megküldi a szállító által kiállított visszaigazolást arról, hogy a megrendelést a támogatási határozat jogerőre emelkedésétől számított 6 hónapon belül miért nem tudja teljesíteni.
+(4)[^3] Amennyiben a közbeszerzési eljárás megindítását az ügyfél igazolta, mentesül a (3) bekezdésben meghatározott kötelezettségek teljesítése alól, és a 3. § (2) bekezdésében meghatározott határidőn belül nyújthat be kifizetési kérelmet.
 
 (5) Az utolsó kifizetési kérelmet a művelet megvalósulását követő 3 hónapon belül, vagy ha az ügyfél a műveletet a támogatási határozat jogerőre emelkedés előtt megkezdte, akkor a támogatási határozat jogerőre emelkedését követő 3 hónapon belül, de legkésőbb 2015. január 31-éig be kell nyújtani.
 
@@ -31,3 +31,5 @@ d) a gépjárműre vonatkozó 7. § (1) bekezdés a) pontjában meghatározott C
 (9) A 3. és 4. célterület vonatkozásában, amennyiben az ügyfél a támogatási kérelemhez nem csatolta, úgy legkésőbb az első kifizetési kérelemhez mellékelni kell a 11. § (2) bekezdés a) pontja szerinti, az ügyfél nevére szóló jogerős és végrehajthatóan hatályos építési engedélyt, a hozzá jóváhagyott engedélyezési záradékkal ellátott építészeti-műszaki dokumentációval együtt.
 
 (10) A 3. és 4. célterület keretében, engedélyköteles építési tevékenység esetén az utolsó kifizetési kérelemhez mellékelni kell az ügyfél nevére szóló jogerős használatbavételi engedélyt vagy a használatbavétel tudomásulvételét igazoló építésügyi hatósági bizonyítványt.
+
+[^3]: A 14. § (4) bekezdése a 32/2014. (IV. 3.) VM rendelet 5. § (3) bekezdésével megállapított szöveg.
