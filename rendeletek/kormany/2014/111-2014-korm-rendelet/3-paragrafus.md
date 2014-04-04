@@ -1,0 +1,1 @@
+## 2. § A Hivatal a 347/2013/EU európai parlamenti és tanácsi rendelet 8. cikk (3) bekezdése szerinti átfogó határozat kiadását a 347/2013/EU európai parlamenti és tanácsi rendelet 8. cikk (3) bekezdés c) pontja szerinti együttműködési rendszer alkalmazásával fogja össze.
