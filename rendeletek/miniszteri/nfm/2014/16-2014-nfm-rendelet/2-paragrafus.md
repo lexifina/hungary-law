@@ -1,0 +1,1 @@
+## „(5) A támogatás folyósítására a támogatási szerződésben rögzítettek szerint teljesítésarányosan részletekben, a beszámoló vagy részbeszámoló elfogadását követően kerül sor. A támogatás terhére támogatási előleg folyósítható.”
