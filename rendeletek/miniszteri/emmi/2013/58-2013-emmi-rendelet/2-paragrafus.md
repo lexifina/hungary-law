@@ -6,12 +6,14 @@ b) a tárgyév utolsó négy hónapjára vonatkozó adatokat a tárgyév októbe
 
 (2) A támogatás támogatói okirattal kerül átadásra.
 
-(3) A támogatás előfinanszírozással
+(3)[^2] A támogatás
 
 a) az (1) bekezdés a) pontja szerinti adatszolgáltatás alapján három egyenlő részletben, negyedévenként, a negyedév második hónapjának 15-éig, az első negyedévben legkésőbb a harmadik hónap utolsó napjáig,
 
-b) az (1) bekezdés b) pontja szerinti igénylés alapján a támogatás kifizetése a negyedik negyedév első hónapjának 31-éig
+b) az (1) bekezdés b) pontja szerinti igénylés alapján a negyedik negyedév első hónapjának 31-éig
 
-## kerül kifizetésre.
+## támogatási előlegként kerül kifizetésre.
 
 (4) A kedvezményezett a támogatással érintett évet követő év január 31. napjáig számol el a 2. melléklet szerinti adattartalommal elkészített beszámolójában.
+
+[^2]: A 2. § (3) bekezdése a 25/2014. (IV. 4.) EMMI rendelet 2. §-ával megállapított szöveg.
