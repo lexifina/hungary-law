@@ -12,11 +12,13 @@ da) nem rendelkezik adók módjára behajtható köztartozással vagy lejárt es
 
 db) nem áll felszámolási, végelszámolási eljárás, csődeljárás alatt,
 
-dc) nem minősül nehéz helyzetben lévő vállalkozásnak,
+dc)[^3]
 
 dd) megfelel a rendezett munkaügyi kapcsolatok feltétel követelményeinek, és
 
-e) aki a d) pontban foglaltakról a támogatási kérelem benyújtásával egyidejűleg nyilatkozik.
+e) aki a d) pontban foglaltakról a támogatási kérelem benyújtásával egyidejűleg nyilatkozik,
+
+f)[^4] aki megfelel az agrár- és vidékfejlesztési állami támogatásokkal kapcsolatos egyes eljárási kérdésekről szóló 353/2012. (XII. 13.) Korm. rendelet 11/A. §-ában meghatározott feltételeknek.
 
 (2) A kérelmezőnek az MVH által rendszeresített és honlapján közzétett támogatási kérelmét évente egy alkalommal, a tárgyévet követő év február 15. és március 14. között az MVH-hoz kell benyújtania.
 
@@ -31,3 +33,6 @@ c) a tárgyévben befizetendő gépjárműadót megállapító határozat és an
 d) az (1) bekezdés c) pontja szerinti, tárgyévet követő évben kiállított igazolást.
 
 (4) A méhcsaládok számát a Nemzeti Élelmiszerlánc-biztonsági Hivatal az MVH felé a TIR adatbázisában nyilvántartott adatok alapján igazolja azzal, hogy a támogatási kérelem elbírálásához szükséges adatokat minden év november 30-ig – 2014. évben január 31-ig – az MVH rendelkezésére bocsátja.
+
+[^3]: A 3. § (1) bekezdés d) pont dc) alpontját a 36/2014. (IV. 4.) VM rendelet 108. §-a hatályon kívül helyezte.
+[^4]: A 3. § (1) bekezdés f) pontját a 36/2014. (IV. 4.) VM rendelet 106. §-a iktatta be.
