@@ -1,10 +1,10 @@
 ## 5. Az intézkedés lebonyolítása, a támogatás igénylése
 
-5. § (1)[^11] Az Agrár Széchenyi Kártya Konstrukciók lebonyolításával kapcsolatos feladatokat kizárólagos joggal a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) és a KAVOSZ Zrt. látják el.
+5. § (1)[^16] Az Agrár Széchenyi Kártya Konstrukciók lebonyolításával kapcsolatos feladatokat kizárólagos joggal a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) és a KAVOSZ Zrt. látják el.
 
 (2) Az MVH
 
-a)[^12] teljesíti a KAVOSZ Zrt., valamint az Agrár-Vállalkozási Hitelgarancia Alapítvány részére a mezőgazdasági vállalkozás nyilvántartott de minimis támogatási keretének ellenőrzéséhez kapcsolódó (elektronikus) adatszolgáltatást,
+a)[^17] teljesíti a KAVOSZ Zrt., valamint az Agrár-Vállalkozási Hitelgarancia Alapítvány részére a mezőgazdasági vállalkozás nyilvántartott de minimis támogatási keretének ellenőrzéséhez kapcsolódó (elektronikus) adatszolgáltatást,
 
 b) ellátja a mezőgazdasági vállalkozások vonatkozásában a de minimis támogatási kereteknek az ellenőrzéséhez és nyilvántartásához szükséges feladatokat,
 
@@ -16,7 +16,7 @@ e) elvégzi a támogatáslehívási kérelmekkel kapcsolatos hatósági feladato
 
 f) folyósítja a támogatást.
 
-(3)[^13] A KAVOSZ Zrt.
+(3)[^18] A KAVOSZ Zrt.
 
 a) ellátja az Agrár Széchenyi Kártya Konstrukciók
 
@@ -32,6 +32,6 @@ c) ellátja az Üzletszabályzatban meghatározott egyéb feladatokat.
 
 (4) Az (3) bekezdés a) pont ab) alpontja vonatkozásában a lebonyolítás során ellátja a támogatások elszámolásával, az informatikai rendszer fejlesztésével és üzemeltetésével kapcsolatos feladatokat.
 
-[^11]: Az 5. § (1) bekezdése a 139/2012. (XII. 22.) VM rendelet 21. § (2) bekezdése szerint módosított szöveg.
-[^12]: Az 5. § (2) bekezdés a) pontja a 139/2012. (XII. 22.) VM rendelet 21. § (2) bekezdése szerint módosított szöveg.
-[^13]: Az 5. § (3) bekezdés nyitó szövegrésze a 139/2012. (XII. 22.) VM rendelet 21. § (2) bekezdése szerint módosított szöveg.
+[^16]: Az 5. § (1) bekezdése a 139/2012. (XII. 22.) VM rendelet 21. § (2) bekezdése szerint módosított szöveg.
+[^17]: Az 5. § (2) bekezdés a) pontja a 139/2012. (XII. 22.) VM rendelet 21. § (2) bekezdése szerint módosított szöveg.
+[^18]: Az 5. § (3) bekezdés nyitó szövegrésze a 139/2012. (XII. 22.) VM rendelet 21. § (2) bekezdése szerint módosított szöveg.

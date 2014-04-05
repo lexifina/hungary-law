@@ -6,6 +6,8 @@
 
 a) az 1. § b) pont ba) alpontja szerinti általános csekély összegű (de minimis) támogatás esetén a 200á000 eurót,
 
-b) az 1. § b) pont bb) alpontja szerinti a mezőgazdasági csekély összegű (de minimis) támogatás esetén a 7500 eurót,
+b)[^19] az 1. § b) pont bb) alpontja szerinti a mezőgazdasági csekély összegű (de minimis) támogatás esetén a 15 000 eurót,
 
 c) az 1. § b) pont bc) alpontja szerinti halászati csekély összegű (de minimis) támogatás esetén 30á000 eurót.
+
+[^19]: A 6. § (3) bekezdés b) pontja a 36/2014. (IV. 4.) VM rendelet 55. §-a szerint módosított szöveg.

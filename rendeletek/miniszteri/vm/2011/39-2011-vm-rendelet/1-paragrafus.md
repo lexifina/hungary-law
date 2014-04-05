@@ -6,27 +6,30 @@ a) Agrár Széchenyi Kártya Konstrukciók: az Üzletszabályzatban nevesített 
 
 b) de minimis támogatás:
 
-ba) a Szerződés 87. és 88. cikkének a de minimis támogatásokra való alkalmazásáról szóló, 2006. december 15-i 1998/2006/EK bizottsági rendelet szerinti támogatás,
+ba)[^1] az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet szerinti támogatás,
 
-bb) a Szerződés 87. és 88. cikkének a mezőgazdasági termelőágazatban nyújtott csekély összegű (deáminimis) támogatásokra való alkalmazásáról szóló, 2007. december 20-i 1535/2007/EK bizottsági rendelet szerinti támogatás, továbbá
+bb)[^2] az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a mezőgazdasági ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1408/2013/EU bizottsági rendelet szerinti támogatás, továbbá
 
 bc) a Szerződés 87. és 88. cikkének a halászati ágazatban nyújtott csekély összegű (de minimis) támogatásokra való alkalmazásáról és az 1860/2004/EK rendelet módosításáról szóló, 2007. július 24-i 875/2007/EK bizottsági rendelet szerinti támogatás;
 
-c)[^1] hitelintézet: a KAVOSZ Zrt. honlapján nevesített, a KAVOSZ Zrt.-vel szerződéses kapcsolatban álló hitelintézet;
+c)[^3] hitelintézet: a KAVOSZ Zrt. honlapján nevesített, a KAVOSZ Zrt.-vel szerződéses kapcsolatban álló hitelintézet;
 
 d) igénylőlap: az igényléséhez szükséges, Üzletszabályzatban közzétett nyomtatvány;
 
 e) kezességvállaló intézmény: az Agrár-Vállalkozási Hitelgarancia Alapítvány;
 
-f) nehéz helyzetben lévő vállalkozás: az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet 6. §-ában meghatározott vállalkozás;
+f)[^4]
 
-g)[^2] támogatástartalom: az agrár-és vidékfejlesztési állami támogatásokkal kapcsolatos egyes eljárási kérdésekről szóló 353/2012. (XII. 13.) Korm. rendelet (a továbbiakban: Korm. rendelet) 2. § 29. pontjában meghatározott támogatási egyenérték;
+g)[^5] támogatástartalom: az agrár-és vidékfejlesztési állami támogatásokkal kapcsolatos egyes eljárási kérdésekről szóló 353/2012. (XII. 13.) Korm. rendelet (a továbbiakban: Korm. rendelet) 2. § 29. pontjában meghatározott támogatási egyenérték;
 
-h)[^3] társult szervezet: a KAVOSZ Zrt.-vel társulási megállapodást kötött mezőgazdasági érdekképviseleti szervezetek;
+h)[^6] társult szervezet: a KAVOSZ Zrt.-vel társulási megállapodást kötött mezőgazdasági érdekképviseleti szervezetek;
 
-i)[^4] Üzletszabályzat: a Széchenyi Kártya Programon belül kiadott, az Agrár Széchenyi Kártya Konstrukciók részletes szabályait tartalmazó, mindenkori hatályos, a KAVOSZ Pénzügyi Szolgáltatásokat Közvetítő Zártkörűen Működő Részvénytársaság (a továbbiakban: KAVOSZ Zrt.) honlapján közzétett üzletszabályzat.
+i)[^7] Üzletszabályzat: a Széchenyi Kártya Programon belül kiadott, az Agrár Széchenyi Kártya Konstrukciók részletes szabályait tartalmazó, mindenkori hatályos, a KAVOSZ Pénzügyi Szolgáltatásokat Közvetítő Zártkörűen Működő Részvénytársaság (a továbbiakban: KAVOSZ Zrt.) honlapján közzétett üzletszabályzat.
 
-[^1]: Az 1. § c) pontja a 94/2013. (X. 10.) VM rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^2]: Az 1. § g) pontja a 94/2013. (X. 10.) VM rendelet 10. § (2) bekezdésével megállapított szöveg.
-[^3]: Az 1. § h) pontja a 139/2012. (XII. 22.) VM rendelet 21. § (2) bekezdése szerint módosított szöveg.
-[^4]: Az 1. § i) pontja a 139/2012. (XII. 22.) VM rendelet 21. § (2) bekezdése szerint módosított szöveg.
+[^1]: Az 1. § b) pont ba) pontja a 36/2014. (IV. 4.) VM rendelet 52. §-ával megállapított szöveg.
+[^2]: Az 1. § b) pont bb) pontja a 36/2014. (IV. 4.) VM rendelet 52. §-ával megállapított szöveg.
+[^3]: Az 1. § c) pontja a 94/2013. (X. 10.) VM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^4]: Az 1. § f) pontját a 36/2014. (IV. 4.) VM rendelet 56. §-a hatályon kívül helyezte.
+[^5]: Az 1. § g) pontja a 94/2013. (X. 10.) VM rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^6]: Az 1. § h) pontja a 139/2012. (XII. 22.) VM rendelet 21. § (2) bekezdése szerint módosított szöveg.
+[^7]: Az 1. § i) pontja a 139/2012. (XII. 22.) VM rendelet 21. § (2) bekezdése szerint módosított szöveg.
