@@ -1,8 +1,8 @@
 ## Kérelem adattartalma a termeltetői bejegyzésre
 
-## I. Azonosító adatok:
+## I.[^36] Azonosító adatok:
 
-## Az ügyfél adószáma, adóazonosító jele, regisztrációs száma.
+## Az ügyfél adószáma, adóazonosító jele, ügyfél-azonosítója.
 
 ## II. A termeltetői bejegyzést kérelmező nyilatkozatai:
 
@@ -28,49 +28,49 @@
 
 ## 4. Keltezés és a kérelmező (cégszerű) aláírása.
 
-2. számú melléklet a 41/2008. (IV. 3.) FVM rendelethez[^28]
+2. számú melléklet a 41/2008. (IV. 3.) FVM rendelethez[^37]
 
 ## Támogatási kérelem adattartalma
 
 1. A termeltető azonosító adatai:
 
-Az ügyfél regisztrációs száma
+Az ügyfél ügyfél-azonosítója.
 
 2. Nyilatkozatok:
 
-A termeltető nyilatkozata arról, hogy a vállalkozás a támogatási kérelem benyújtásának időpontjában
+2.1. A termeltető nyilatkozata arról, hogy a vállalkozás a támogatási kérelem benyújtásának időpontjában
 
-2.1. nem áll csőd-, felszámolási, végelszámolási eljárás alatt, vagy vele szemben gazdasági tevékenységből eredő tartozás megfizetése vagy gazdasági tevékenységével összefüggő kötelezettség kikényszerítése miatt végrehajtási eljárás nincs folyamatban, vagy a korábban ellene vezetett végrehajtás eredményes volt;
+2.1.1. nem áll csőd-, felszámolási, végelszámolási eljárás alatt, vagy vele szemben gazdasági tevékenységből eredő tartozás megfizetése vagy gazdasági tevékenységével összefüggő kötelezettség kikényszerítése miatt végrehajtási eljárás nincs folyamatban, vagy a korábban ellene vezetett végrehajtás eredményes volt;
 
-2.2. lejárt köztartozással nem rendelkezik;
+2.1.2. lejárt köztartozással nem rendelkezik;
 
-2.3. nem minősül nehéz helyzetben lévő vállalkozásnak;
+2.1.3. a de minimis támogatásokkal kapcsolatos jogosultságokat, kötelezettségeket megismerte;
 
-2.4. a de minimis támogatásokkal kapcsolatos jogosultságokat, kötelezettségeket megismerte, valamint a folyó pénzügyi évben és a megelőző két pénzügyi évben a Szerződés 87. és 88. cikkének a de minimis támogatásokra való alkalmazásáról szóló 1998/2006/EK rendelet alapján az általa vezetett vállalkozás csekély összegű támogatásban részesült/nem részesült (jogcím szerinti bontásban, euróban megadva);
+2.1.4. tudomásul veszi, hogy amennyiben az intézkedéssel kapcsolatban lejárt tartozása áll fenn, a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény (a továbbiakban: 2007. évi XVII. törvény) 38. § (9) bekezdése alapján a mezőgazdasági és vidékfejlesztési támogatási szerv hatósági átutalási megbízását a fizetési számláját vezető pénzforgalmi szolgáltató a végrehajtható okirat csatolása nélkül köteles teljesíteni és e nyilatkozat hiányában a kérelmet az MVH a 2007. évi XVII. törvény alapján érdemi vizsgálat nélkül elutasítja;
 
-2.5. tudomásul veszi, hogy amennyiben az intézkedéssel kapcsolatban lejárt tartozása áll fenn, a 2007. évi XVII. törvény 38. § (9) bekezdése alapján a mezőgazdasági és vidékfejlesztési támogatási szerv hatósági átutalási megbízását, a fizetési számláját vezető pénzforgalmi szolgáltató a végrehajtható okirat csatolása nélkül köteles teljesíteni és e nyilatkozat hiányában a kérelmet az MVH a 2007. évi XVII. törvény alapján érdemi vizsgálat nélkül elutasítja.
+2.1.5. megfelel az agrár- és vidékfejlesztési állami támogatásokkal kapcsolatos egyes eljárási kérdésekről szóló 353/2012. (XII. 13.) Korm. rendelet 11/A. §-ában meghatározott feltételeknek.
 
 3. A támogatás alapjául szolgáló termeltetési előleg negyedéves összegének kiszámítása:
 
 A támogatási időszak (negyedéves bontásban)
 
-Mind vágósertés, mind vágóbaromfi, mind élő szarvasmarha, mind nyerstej esetében (három havi bontásban; forintban)
+Mind vágósertés, mind vágóbaromfi, mind élő szarvasmarha, házinyúl, mind nyerstej esetében (háromhavi bontásban; forintban)
 
 3.1. Termeltetési előleg
 
-a) állomány a hónap 1. napján, mely összegnek meg kell egyeznie az előző hónap 3. pontjában feltüntetett összeggel
+a) állomány a hónap 1. napján, amely összegnek meg kell egyeznie az előző hónap 3. pontjában feltüntetett összeggel,
 
-b) tárgyhónapban kiadott előleg
+b) tárgyhónapban kiadott előleg,
 
-c) termelőknél vagy állattartóknál kint lévő előleg összesen
+c) termelőknél vagy állattartóknál kint lévő előleg összesen;
 
-3.2. A felvásárlás során elszámolt előleg
+3.2. A felvásárlás során elszámolt előleg;
 
-3.3. Előlegállomány a tárgyhónap utolsó napján
+3.3. Előlegállomány a tárgyhónap utolsó napján.
 
 4. Igényelhető támogatás mindösszesen:
 
-4.1. negyedévi átlagos termeltetési előleg állomány (a három hónap utolsó napján fennálló termeltetési előlegállomány számtani átlaga az összes állati termékre vonatkozóan, forintban)
+4.1. negyedévi átlagos termeltetési előleg állomány (a három hónap utolsó napján fennálló termeltetési előlegállomány számtani átlaga az összes állati termékre vonatkozóan, forintban);
 
 4.2. támogatás összege (negyedévi átlagos termeltetési előlegállomány 2%-a, forintban)
 
@@ -78,10 +78,9 @@ c) termelőknél vagy állattartóknál kint lévő előleg összesen
 
 6. Melléklet: Összesítő kimutatás a termeltetésben részt vevő állattartókról.
 
-7.[^29] A Nemzeti Élelmiszerlánc-biztonsági Hivatal nyilatkozata, mely szerint a támogatási kérelemben foglaltak szakmai felülvizsgálata elvégzésre került és annak tartalma megfelelő.
+7. A Nemzeti Élelmiszerlánc-biztonsági Hivatal nyilatkozata, amely szerint a támogatási kérelemben foglaltak szakmai felülvizsgálata elvégzésre került és annak tartalma megfelelő.
 
-8.[^30] Keltezés, és a Nemzeti Élelmiszerlánc-biztonsági Hivatal Elnökének aláírása és bélyegzője.
+8. Keltezés és a Nemzeti Élelmiszerlánc-biztonsági Hivatal Elnökének aláírása és bélyegzője.
 
-[^28]: A 2. számú melléklet a 60/2011. (VI. 30.) VM rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^29]: A 2. melléklet 7. pontja a 42/2012. (V. 3.) VM rendelet 2. § (4) bekezdése szerint módosított szöveg.
-[^30]: A 2. melléklet 8. pontja a 42/2012. (V. 3.) VM rendelet 2. § (4) bekezdése szerint módosított szöveg.
+[^36]: Az 1. számú melléklet I. pontja a 36/2014. (IV. 4.) VM rendelet 28. § b) pontja szerint módosított szöveg.
+[^37]: A 2.számú melléklet a 36/2014. (IV. 4.) VM rendelet 27. §-ával megállapított szöveg.
