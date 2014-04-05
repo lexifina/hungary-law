@@ -1,5 +1,5 @@
 ## hatálya alá tartozó támogatást tartalmaz.
 
-10. §[^1]
+10. §[^9]
 
-[^1]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
