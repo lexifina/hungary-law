@@ -1,6 +1,6 @@
-## 10. §[^9] E rendeletnek az egyes miniszteri rendeletek módosításáról szóló 59/2013. (VII. 15.) VM rendelettel (a továbbiakban: módosító rendelet) módosított 1. § i) és j) pontját a módosító rendelet hatályba lépésekor[^10] folyamatban lévő ügyekben is alkalmazni kell.
+## 10. §[^16] E rendeletnek az egyes miniszteri rendeletek módosításáról szóló 59/2013. (VII. 15.) VM rendelettel (a továbbiakban: módosító rendelet) módosított 1. § i) és j) pontját a módosító rendelet hatályba lépésekor[^17] folyamatban lévő ügyekben is alkalmazni kell.
 
-11. §[^11] (1) Egyösszegű, egyszeri általános de minimis támogatásnak minősülő kompenzációban részesül a 2012-es támogatási év vonatkozásában az az ügyfél:
+11. §[^18] (1) Egyösszegű, egyszeri általános de minimis támogatásnak minősülő kompenzációban részesül a 2012-es támogatási év vonatkozásában az az ügyfél:
 
 a) aki a 2012-es támogatási év vonatkozásában rendelkezik az MVH e rendelet alapján kiadott támogatási kérelemnek helyt adó határozatával, és
 
@@ -14,6 +14,6 @@ b) akinek a szárított takarmányt előállító üzemében a 2012-ben szárít
 
 (5) Az MVH a kompenzációs támogatási összeg euróra történő átszámításakor a 2014. január 1-jén érvényes, a Magyar Nemzeti Bank által közzétett, két tizedes jegy pontossággal meghatározott euró/forint árfolyamot alkalmazza.
 
-[^9]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan az 59/2013. (VII. 15.) VM rendelet 7. § (2) bekezdése iktatta be.
-[^10]: A hatálybalépés időpontja 2013. július 18.
-[^11]: A 11. §-t a 130/2013. (XII. 21.) VM rendelet 36. §-a iktatta be.
+[^16]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan az 59/2013. (VII. 15.) VM rendelet 7. § (2) bekezdése iktatta be.
+[^17]: A hatálybalépés időpontja 2013. július 18.
+[^18]: A 11. §-t a 130/2013. (XII. 21.) VM rendelet 36. §-a iktatta be.
