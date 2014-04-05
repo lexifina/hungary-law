@@ -1,5 +1,9 @@
+## 11/A. §[^29] Az a háziorvos, aki 20 éven keresztül folyamatosan körzeti, illetve háziorvosi feladatokat, körzeti gyermekorvosi, illetve házi gyermekorvosi feladatokat látott el, valamint az az alapellátást végző fogorvos, aki 20 éven keresztül folyamatosan fogorvosi alapellátási feladatokat látott el, a címzetes főorvosi cím használatára jogosult.
+
 12. § (1) A háziorvos feladatköréhez kapcsolódó ápolási feladat önállóan körzeti ápolói szakképesítéssel, vagy klinikai szakápolói (körzeti-közösségi szakápoló) szakképesítéssel, vagy ápolói szakképesítéssel (OKJ szám: 54 5012 01), vagy gyermekápolói, illetve csecsemő- és gyermekápolói szakképesítéssel (OKJ szám: 54 5012 02), vagy diplomás ápolói szakképesítéssel látható el.
 
 (2) Olyan személy, aki nem rendelkezik az (1) bekezdés szerinti valamely szakképesítéssel, a háziorvosi szolgálatban akkor alkalmazható, ha felnőtt szakápolói képesítése van és – a munkavégzésre irányuló szerződésben – kötelezettséget vállal arra, hogy a klinikai szakápolói (körzeti-közösségi szakápolói) szakképesítést vagy az ápolói szakképesítést (OKJ szám: 54 5012 01) az alkalmazás időpontjától számított 2 éven belül, illetve a diplomás ápolói szakképesítést az alkalmazás időpontjától számított 4 éven belül megszerzi.
 
 (3) A fogorvosi tevékenységhez kapcsolódó asszisztensi tevékenységet fogorvosi asszisztens, vagy fogászati asszisztens, vagy klinikai fogászati higiénikus szakképesítéssel rendelkező személy láthatja el.
+
+[^29]: A 11/A. §-t a 24/2014. (IV. 4.) EMMI rendelet 3. §-a iktatta be.

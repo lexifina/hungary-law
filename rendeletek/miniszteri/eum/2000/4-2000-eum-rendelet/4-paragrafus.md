@@ -20,17 +20,17 @@ h) külön jogszabályban foglaltak szerinti halottvizsgálat
 
 ## ellátása.
 
-(3) A gyermekorvosi ellátás keretében a háziorvos által a (2) bekezdésben foglaltakon túl ellátandó feladatok:
+(3)[^7] A gyermekorvosi ellátás keretében a háziorvos a (2) bekezdés b)–h) pontjában foglalt feladatok mellett a következő feladatokat látja el:
 
 a) a csecsemők és gyermekek gyógyító-megelőző alapellátása, beleértve a tanácsadást is,
 
-b)[^7] az újszülöttek, a veszélyeztetett csecsemők és gyermekek szükség szerinti preventív látogatása, ezen túlmenően intézeten kívüli szülés esetén az újszülöttnek a szülés megtörténtétől számított 4–7 napon belül történő meglátogatása,
+b)[^8] az újszülöttek, a veszélyeztetett csecsemők és gyermekek szükség szerinti preventív látogatása, ezen túlmenően intézeten kívüli szülés esetén az újszülöttnek a szülés megtörténtétől számított 4–7 napon belül történő meglátogatása,
 
 c) a gyermekintézményekbe történő felvétel előtti orvosi vizsgálat,
 
 d) gyermekápolás címén a jogosult keresőképtelen állományba vétele,
 
-e)[^8] a gyermekről ötéves életkorában a külön jogszabály szerinti „fejlődési szint megítéléséhez az iskolai felkészítés elősegítésére” megnevezésű orvosi adatlap kiállítása.
+e)[^9] a gyermekről ötéves életkorában a külön jogszabály szerinti „fejlődési szint megítéléséhez az iskolai felkészítés elősegítésére” megnevezésű orvosi adatlap kiállítása.
 
 (4) A fogorvosi alapellátás keretében a fogorvos feladatai:
 
@@ -51,5 +51,6 @@ e) a sürgősségi ellátás.
 (7) Feladatait a háziorvos és a fogorvos a rendelőjében, indokolt esetben a beteg otthonában látja el.
 
 [^6]: A 4. § (2) bekezdésének d) pontja a 40/2003. (VII. 16.) ESZCSM rendelet 4. §-ával megállapított szöveg.
-[^7]: A 4. § (3) bekezdés b) pontja a 8/2011. (III. 21.) NEFMI rendelet 2. §-ával megállapított szöveg.
-[^8]: A 4. § (3) bekezdésének e) pontját a 12/2004. (XII. 25.) EüM rendelet 2. §-ának (1) bekezdése iktatta a szövegbe.
+[^7]: A 4. § (3) bekezdés nyitó szövegrésze a 24/2014. (IV. 4.) EMMI rendelet 5. § a) pontja szerint módosított szöveg.
+[^8]: A 4. § (3) bekezdés b) pontja a 8/2011. (III. 21.) NEFMI rendelet 2. §-ával megállapított szöveg.
+[^9]: A 4. § (3) bekezdésének e) pontját a 12/2004. (XII. 25.) EüM rendelet 2. §-ának (1) bekezdése iktatta a szövegbe.
