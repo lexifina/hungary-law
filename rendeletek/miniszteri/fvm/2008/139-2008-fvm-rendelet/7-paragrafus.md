@@ -48,7 +48,7 @@ c) 2015. évben január 1-jétől január 31-ig.
 
 (9)[^60] Az egyesített támogatási és kifizetési kérelmet a 3. melléklet szerinti adattartalommal kell benyújtani. Az egyesített támogatási és kifizetési kérelem elektronikus űrlapját az MVH rendszeresíti, és azt közzé kell tenni az MVH honlapján.
 
-(10)[^61] Erdőgazdálkodó ügyfél az egyesített támogatási és kifizetési kérelmében köteles nyilatkozni a kérelem benyújtását megelőző kettő pénzügyi évben és az egyesített támogatási és kifizetési kérelem benyújtásának pénzügyi évében kapott valamennyi, az általános de minimis rendelet hatálya alá tartozó csekély összegű támogatás összegéről.
+(10)[^61] Az erdőgazdálkodó ügyfélnek az egyesített támogatási-kifizetési kérelmének benyújtásakor meg kell felelnie az agrár- és vidékfejlesztési állami támogatásokkal kapcsolatos egyes eljárási kérdésekről szóló 353/2012. (XII. 13.) Korm. rendelet 11/A. §-ában meghatározott feltételeknek.
 
 [^43]: A 6/A. §-t és az azt megelőző alcímet a 4/2013. (II. 4.) VM rendelet 7. §-a iktatta be, hatályon kívül helyezte a 47/2013. (VI. 7.) VM rendelet 2. § (13) bekezdés c) pontja.
 [^44]: A 7. §-t megelőző alcím a 47/2013. (VI. 7.) VM rendelet 2. § (8) bekezdésével megállapított szöveg.
@@ -68,4 +68,4 @@ c) 2015. évben január 1-jétől január 31-ig.
 [^58]: A 7. § (7) bekezdése a 6/2010. (II. 2.) FVM rendelet 5. § (3) bekezdésével megállapított, a 90/2011. (X. 3.) VM rendelet 7. § (1) bekezdése, a 106/2012. (X. 11.) VM rendelet 8. § b) pontja szerint módosított szöveg.
 [^59]: A 7. § (8) bekezdését az 50/2009. (IV. 16.) FVM rendelet 4. § (3) bekezdése iktatta be, szövege a 86/2013. (IX. 27.) VM rendelet 10. § (2) bekezdésével megállapított szöveg.
 [^60]: A 7. § (9) bekezdését a 6/2010. (II. 2.) FVM rendelet 5. § (3) bekezdése iktatta be, szövege a 47/2013. (VI. 7.) VM rendelet 2. § (11) bekezdésével megállapított szöveg.
-[^61]: A 7. § (10) bekezdését a 90/2011. (X. 3.) VM rendelet 3. § (4) bekezdése iktatta be.
+[^61]: A 7. § (10) bekezdését a 90/2011. (X. 3.) VM rendelet 3. § (4) bekezdése iktatta be, szövege a 36/2014. (IV. 4.) VM rendelet 43. §-ával megállapított szöveg.
