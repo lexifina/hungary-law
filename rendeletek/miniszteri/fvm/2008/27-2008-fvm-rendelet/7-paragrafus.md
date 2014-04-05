@@ -32,9 +32,9 @@ j) az erdőt vagy mezei élőhelyet és annak élővilágát bemutató informác
 
 (3) Csak a Vtv. alapján a tárgyévvel kezdődő vadászati évre jóváhagyott éves vadgazdálkodási tervvel összhangban végzett tevékenységekre igényelhető támogatás.
 
-(4)[^7] A pályázatot két eredeti példányban a vadászterület fekvése szerint illetékes vadászati hatósághoz kell benyújtani.
+(4)[^12] A pályázatot két eredeti példányban a vadászterület fekvése szerint illetékes vadászati hatósághoz kell benyújtani.
 
-(5)[^8] A vadászati hatóság áttekinti a pályázatokat, majd a benyújtott pályázatok összesített forrásigényét az esetleges javaslatokkal együtt a benyújtási határidő lejártát követő 30 napon belül továbbítja a miniszternek. A vadászati hatóság az összesített forrásigényen belül külön bontásban szerepelteti a különleges rendeltetésű, valamint a fogoly repatriációs vadászterületekre vonatkozó támogatási igény összegét.
+(5)[^13] A vadászati hatóság áttekinti a pályázatokat, majd a benyújtott pályázatok összesített forrásigényét az esetleges javaslatokkal együtt a benyújtási határidő lejártát követő 30 napon belül továbbítja a miniszternek. A vadászati hatóság az összesített forrásigényen belül külön bontásban szerepelteti a különleges rendeltetésű, valamint a fogoly repatriációs vadászterületekre vonatkozó támogatási igény összegét.
 
-[^7]: A 7. § (4) bekezdése a 2/2009. (I. 16.) FVM rendelet 2. §-ával megállapított szöveg. E módosító rendelet 8. § (2) bekezdése alapján a rendelkezést a 2009. január 19. napját követően benyújtott pályázatokra kell alkalmazni.
-[^8]: A 7. § (5) bekezdése a 2/2009. (I. 16.) FVM rendelet 2. §-ával megállapított szöveg. E módosító rendelet 8. § (2) bekezdése alapján a rendelkezést a 2009. január 19. napját követően benyújtott pályázatokra kell alkalmazni.
+[^12]: A 7. § (4) bekezdése a 2/2009. (I. 16.) FVM rendelet 2. §-ával megállapított szöveg. E módosító rendelet 8. § (2) bekezdése alapján a rendelkezést a 2009. január 19. napját követően benyújtott pályázatokra kell alkalmazni.
+[^13]: A 7. § (5) bekezdése a 2/2009. (I. 16.) FVM rendelet 2. §-ával megállapított szöveg. E módosító rendelet 8. § (2) bekezdése alapján a rendelkezést a 2009. január 19. napját követően benyújtott pályázatokra kell alkalmazni.

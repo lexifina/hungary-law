@@ -14,8 +14,9 @@ cb) nem áll csőd-, felszámolási, végelszámolási eljárás alatt, illetve 
 
 cc) az államháztartás alrendszereiből vagy európai uniós forrásokból juttatott támogatásokkal kapcsolatos elszámolási kötelezettségeit teljesítette,
 
-cd) nem minősül nehéz helyzetben lévő vállalkozásnak,
+cd)[^8]
 
-ce)[^4] az államháztartásról szóló 1992. évi XXXVIII. törvény 15. §-ában szabályozott rendezett munkaügyi kapcsolatok feltételeinek megfelel.
+ce)[^9] az államháztartásról szóló 1992. évi XXXVIII. törvény 15. §-ában szabályozott rendezett munkaügyi kapcsolatok feltételeinek megfelel.
 
-[^4]: Az 5. § c) pontjának ce) alpontját a 107/2009. (VIII. 14.) FVM rendelet 4. §-a iktatta be.
+[^8]: Az 5. § c) pont cd) alpontját a 36/2014. (IV. 4.) VM rendelet 22. §-a hatályon kívül helyezte.
+[^9]: Az 5. § c) pontjának ce) alpontját a 107/2009. (VIII. 14.) FVM rendelet 4. §-a iktatta be.

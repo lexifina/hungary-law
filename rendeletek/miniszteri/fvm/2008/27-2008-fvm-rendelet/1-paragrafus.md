@@ -24,9 +24,10 @@ g)[^1] vadászati hatóság: a megyei kormányhivatal földművelésügyi igazga
 
 h) éves vadgazdálkodási terv: a Vtv. 47. §-a szerinti terv;
 
-i) nehéz helyzetben lévő vállalkozás: a Közösség iránymutatása a nehéz helyzetben lévő vállalkozások megmentéséhez és szerkezetátalakításához nyújtott állami támogatásokról szóló 2004/C 244/02 Bizottsági közlemény (2004. október 1.) 2.1. pontja szerinti vállalkozás;
+i)[^2]
 
-j)[^2] gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet.
+j)[^3] gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet.
 
 [^1]: Az 1. § g) pontja a 70/2013. (VII. 31.) VM rendelet 89. § a) pontja szerint módosított szöveg.
-[^2]: Az 1. § j) pontját a 22/2014. (III. 14.) VM rendelet 56. §-a iktatta be.
+[^2]: Az 1. § i) pontját a 36/2014. (IV. 4.) VM rendelet 22. §-a hatályon kívül helyezte.
+[^3]: Az 1. § j) pontját a 22/2014. (III. 14.) VM rendelet 56. §-a iktatta be.
