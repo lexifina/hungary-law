@@ -12,9 +12,9 @@
 
 5. KN: a vám- és a statisztikai nómenklatúráról, valamint a Közös Vámtarifáról szóló, 1987. július 23-i 2658/87/EGK tanácsi rendelet szerinti kombinált nómenklatúra;
 
-6. mezőgazdasági csekély összegű (de minimis) támogatás: az EK-Szerződés 87. és 88. cikkének a mezőgazdasági termelőágazatban nyújtott csekély összegű (de minimis) támogatásokra való alkalmazásáról szóló, 2007. december 20-i 1535/2007/EK bizottsági rendelet szerinti támogatás;
+6.[^1] mezőgazdasági csekély összegű (de minimis) támogatás: az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a mezőgazdasági ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1408/2013/EU bizottsági rendelet szerinti támogatás;
 
-7. nehéz helyzetben lévő vállalkozás: az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet 6. §-ában meghatározott vállalkozás;
+7.[^2]
 
 8. sertés ENAR: a sertések jelöléséről, valamint Egységes Nyilvántartási és Azonosítási Rendszeréről szóló 116/2003. (XI. 18.) FVM rendelet [a továbbiakban: 116/2003. (XI. 18.) FVM rendelet] 2. § 10. pontja szerinti fogalom;
 
@@ -27,3 +27,6 @@
 12. TIR: a 119/2007. (X. 18.) FVM rendelet szerinti Tenyészet Információs Rendszer;
 
 13. törzskönyvezett sertéstenyészet: az a sertéstenyészet, ahol az elismert sertéstenyésztő egyesület vagy szövetség által végzett, az Átv. előírásainak megfelelő törzskönyvezés folyik.
+
+[^1]: Az 1. § 6. pontja a 36/2014. (IV. 4.) VM rendelet 88. §-ával megállapított szöveg.
+[^2]: Az 1. § 7. pontját a 36/2014. (IV. 4.) VM rendelet 91. §-a hatályon kívül helyezte.

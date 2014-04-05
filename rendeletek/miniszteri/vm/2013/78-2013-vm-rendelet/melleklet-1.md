@@ -1,4 +1,4 @@
-## 12. § Ez a rendelet az EK-Szerződés 87. és 88. cikkének a mezőgazdasági termelőágazatban nyújtott csekély összegű (de minimis) támogatásokra való alkalmazásáról szóló, 2007. december 20-i 1535/2007/EK bizottsági rendelet hatálya alá tartozó támogatást tartalmaz.
+## 12. §[^6] Ez a rendelet az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a mezőgazdasági ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1408/2013/EU bizottsági rendelet hatálya alá tartozó támogatást tartalmaz.
 
 1. melléklet a 78/2013. (IX. 10.) VM rendelethez
 
@@ -43,3 +43,5 @@ Nyomtató:
 4. Laboratóriumi eszközök
 
 Közvetlenül a gyártótól vagy forgalmazótól beszerzett új eszközök, amelyek megfelelnek a sertés mesterséges termékenyítés követelményeinek.
+
+[^6]: A 12. § a 36/2014. (IV. 4.) VM rendelet 90. §-ával megállapított szöveg.

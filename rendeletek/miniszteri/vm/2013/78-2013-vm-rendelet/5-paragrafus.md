@@ -8,6 +8,11 @@ a) nincs adók módjára behajtandó köztartozása vagy lejárt esedékességű
 
 b) nem áll felszámolási, végelszámolási eljárás alatt;
 
-c) nem minősül nehéz helyzetben lévő vállalkozásnak.
+c)[^4]
 
 (3) A támogatási kérelemhez mellékelni kell a Magyar Fajtatiszta Sertést Tenyésztők Egyesületének (a továbbiakban: FSE) igazolását arról, hogy a tenyészet törzskönyvezett sertéstenyészet.
+
+(4)[^5] Támogatás igénybevételére az állattartó akkor jogosult, ha a támogatási kérelem benyújtásakor megfelel az agrár- és vidékfejlesztési állami támogatásokkal kapcsolatos egyes eljárási kérdésekről szóló 353/2012. (XII. 13.) Korm. rendelet 11/A. §-ában meghatározott feltételeknek.
+
+[^4]: Az 5. § (2) bekezdés c) pontját a 36/2014. (IV. 4.) VM rendelet 91. §-a hatályon kívül helyezte.
+[^5]: Az 5. § (4) bekezdése a 36/2014. (IV. 4.) VM rendelet 89. §-ával megállapított szöveg.

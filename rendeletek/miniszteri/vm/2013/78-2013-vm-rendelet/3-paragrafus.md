@@ -10,7 +10,7 @@ ba) nem rendelkezik lejárt esedékességű adótartozással, vámtartozással, 
 
 bb) nem áll felszámolási, végelszámolási eljárás alatt, és
 
-bc) nem minősül nehéz helyzetben lévő vállalkozásnak;
+bc)[^3]
 
 c) a támogatási kérelem benyújtásának időpontjában a támogatási kérelmében szereplő törzskönyvezett sertéstenyészet állattartójaként szerepel a TIR nyilvántartásban;
 
@@ -27,3 +27,5 @@ ga) az 1. melléklettel összhangban a tenyészállatokat, illetve eszközöket 
 gb) a támogatás alapját képező tenyészsertéseket a kifizetési határozat kézhezvételét követő naptól kezdődően egy éven át folyamatosan birtokán tartja, valamint
 
 gc) az eszközöket a jóváhagyó kifizetési határozat kézhezvételét követő naptól kezdődően egy éven át rendeltetésszerűen használja.
+
+[^3]: A 3. § b) pont bc) alpontját a 36/2014. (IV. 4.) VM rendelet 91. §-a hatályon kívül helyezte.
