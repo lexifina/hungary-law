@@ -1,6 +1,6 @@
 ## 2. A támogatás igénybevételének feltételei
 
-2. § (1)[^1] Pályázat benyújtására az a nonprofit gazdasági társaság, civil szervezet és költségvetési szerv (a továbbiakban: pályázó) jogosult, amely:
+2. § (1)[^3] Pályázat benyújtására az a nonprofit gazdasági társaság, civil szervezet és költségvetési szerv (a továbbiakban: pályázó) jogosult, amely:
 
 a) legkésőbb a pályázat benyújtásáig a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény (a továbbiakban: Tv.) alapján vezetett Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszerben nyilvántartásba veteti magát a Mezőgazdasági és Vidékfejlesztési Hivatalnál (a továbbiakban: MVH), és a pályázat benyújtásával egyidejűleg igazolja a nyilvántartásba vétel megtörténtét, vagy azt, hogy az erre vonatkozó kérelmét benyújtotta;
 
@@ -10,7 +10,7 @@ c) a pályázat benyújtásakor nem rendelkezik lejárt esedékességű adótart
 
 d) nyilatkozik a pályázat benyújtását megelőző kettő pénzügyi évben és a folyamatban lévő pénzügyi évben kapott valamennyi, az általános de minimis rendelet hatálya alá tartozó csekély összegű támogatás összegéről;
 
-e) nem minősül az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló Korm. rendelet szerinti nehéz helyzetben lévő vállalkozásnak.
+e)[^4] megfelel az agrár- és vidékfejlesztési állami támogatásokkal kapcsolatos egyes eljárási kérdésekről szóló 353/2012. (XII. 13.) Korm. rendelet 11/A. §-ában meghatározott feltételeknek.
 
 (2) A támogatás igénylésének további feltétele, hogy a pályázó
 
@@ -18,4 +18,5 @@ a) a vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény (a további
 
 b) a vidékfejlesztési miniszter által vezetett minisztériumhoz (a továbbiakban: minisztérium) – e rendelet szerinti pályázata benyújtásával egyidejűleg – bejelentett menetrend alapján történő üzemeltetést biztosít.
 
-[^1]: A 2. § (1) bekezdés nyitó szövegrésze a 17/2013. (III. 18.) VM rendelet 5. § (3) bekezdése szerint módosított szöveg.
+[^3]: A 2. § (1) bekezdés nyitó szövegrésze a 17/2013. (III. 18.) VM rendelet 5. § (3) bekezdése szerint módosított szöveg.
+[^4]: A 2. § (1) bekezdés e) pontja a 36/2014. (IV. 4.) VM rendelet 73. §-ával megállapított szöveg.

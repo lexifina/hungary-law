@@ -16,8 +16,10 @@ b) nyertes pályázó lakóhelye vagy székhelye,
 
 c) nyertes pályázó adószáma, vagy adóazonosító jele,
 
-d) nyertes pályázó regisztrációs száma,
+d)[^8] nyertes pályázó ügyfél-azonosítója,
 
 e) a támogatási cél megnevezése,
 
 f) a nyertes pályázó részére megítélt támogatás forintban és euróban meghatározott összege.
+
+[^8]: Az 5. § (5) bekezdés d) pontja a 36/2014. (IV. 4.) VM rendelet 75. § a) pontja szerint módosított szöveg.

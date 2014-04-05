@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-95-20-2
 | 2013-03-19 | 2012-95-20-2Y.3 | 17/2013. (III. 18.) VM rendelet |
 | 2013-11-05 | 2012-95-20-2Y.4 | 101/2013. (XI. 4.) VM rendelet |
 | 2014-03-13 | 2012-95-20-2Y.5 | 19/2014. (III. 12.) VM rendelet |
+| 2014-04-05 | 2012-95-20-2Y.6 | 36/2014. (IV. 4.) VM rendelet |

@@ -10,7 +10,7 @@ b) nyertes pályázó lakóhelye vagy székhelye,
 
 c) nyertes pályázó adószáma, vagy adóazonosító jele,
 
-d) nyertes pályázó regisztrációs száma,
+d)[^9] nyertes pályázó ügyfél-azonosítója,
 
 e) a nyertes pályázóval kötött hatósági szerződés iktatószáma,
 
@@ -21,3 +21,5 @@ g) a nyertes pályázó részére előlegként kifizetendő támogatás összege
 h) az összesen megállapított támogatás forintban és euróban meghatározott összege.
 
 (3) Az MVH a forrás rendelkezésre állása esetén – a Tv. 60. §-ában foglaltakra is figyelemmel – az előlegfizetési utasítás kézhezvételétől számított 15 napon belül, vagy a forrás rendelkezésre állását követő 15 napon belül gondoskodik az előleg – nyertes pályázó Egységes Mezőgazdasági Ügyfélnyilvántartási Rendszerbe bejelentett fizetési számlaszámára történő – átutalásáról.
+
+[^9]: A 7. § (2) bekezdés d) pontja a 36/2014. (IV. 4.) VM rendelet 75. § b) pontja szerint módosított szöveg.
