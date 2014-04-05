@@ -53,3 +53,7 @@ a) ügyfél-azonosítóval rendelkező mezőgazdasági termelő, vagy
 b) ügyfél-azonosítóval, illetve NÉBIH által nyilvántartott erdőgazdálkodói kóddal rendelkező erdőgazdálkodó
 
 saját maga, legfeljebb 2 fő alkalmazottja, vezető tisztségviselője, vagy tagja.
+
+(10)[^5] Az erdőgazdálkodó ügyfél támogatásra akkor jogosult, ha megfelel az agrár- és vidékfejlesztési állami támogatásokkal kapcsolatos egyes eljárási kérdésekről szóló 353/2012. (XII. 13.) Korm. rendelet 11/A. §-ában meghatározott feltételeknek.
+
+[^5]: Az 5. § (10) bekezdését a 36/2014. (IV. 4.) VM rendelet 84. §-a iktatta be.

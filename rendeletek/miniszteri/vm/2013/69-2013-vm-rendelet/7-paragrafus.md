@@ -14,7 +14,7 @@ ba) projekttervben meghatározott kódszámai és
 
 bb) költsége.
 
-(4) A 3. § (3) bekezdés b) és c) pontja szerinti Bemutató Üzem a támogatási kérelmében köteles nyilatkozni a kérelem benyújtását megelőző kettő pénzügyi évben és a támogatási kérelem benyújtásának pénzügyi évében kapott valamennyi, az általános „de minimis” rendelet hatálya alá tartozó támogatás összegéről.
+(4)[^6]
 
 (5) Egy jóváhagyott projekttervre vonatkozóan az ügyfél csak egy támogatási kérelmet nyújthat be.
 
@@ -25,3 +25,5 @@ bb) költsége.
 (8) A bemutató üzemi programot a projektterv időszakának utolsó napjáig, de legkésőbb 2014. december 31-ig meg kell valósítani.
 
 (9) Nem ítélhető meg több támogatás a NAKVI által az adott programra jóváhagyott költségtervben meghatározott összegnél.
+
+[^6]: A 7. § (4) bekezdését a 36/2014. (IV. 4.) VM rendelet 87. §-a hatályon kívül helyezte.
