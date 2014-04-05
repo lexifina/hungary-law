@@ -10,11 +10,11 @@ a) azon rendezvényi napok vehetők figyelembe, melyek legalább hat órás, az 
 
 b) a rendezvény minden napján jelenléti ívet kell készíteni;
 
-c)[^16] a rendezvény megtartásáról a program megküldésével legalább 5 nappal korábban írásban értesíteni kell az MgSzH területi szervét.
+c)[^21] a rendezvény megtartásáról a program megküldésével legalább 5 nappal korábban írásban értesíteni kell az MgSzH területi szervét.
 
 (4) A támogatás mértéke legfeljebb 30 000 Ft/nap összeg lehet.
 
-(5)[^17] A pályázatban foglaltak megvalósításának, valamint a (3) bekezdésben foglaltak betartásának és a rendezvények kivitelezésének helyszíni ellenőrzésére az az erdészeti igazgatóság jogosult.
+(5)[^22] A pályázatban foglaltak megvalósításának, valamint a (3) bekezdésben foglaltak betartásának és a rendezvények kivitelezésének helyszíni ellenőrzésére az az erdészeti igazgatóság jogosult.
 
-[^16]: [A 12. § (3) bekezdés c) pontjában a 70/2013. (VII. 31.) VM rendelet 70. § e) pontjával elrendelt módosítás, amely szerint az „MgSzH területi szerve” szövegrész helyébe az „az erdészeti igazgatóság” szöveg lép, nem vezethető át.]
-[^17]: A 12. § (5) bekezdése a 70/2013. (VII. 31.) VM rendelet 70. § e) pontja szerint módosított szöveg.
+[^21]: [A 12. § (3) bekezdés c) pontjában a 70/2013. (VII. 31.) VM rendelet 70. § e) pontjával elrendelt módosítás, amely szerint az „MgSzH területi szerve” szövegrész helyébe az „az erdészeti igazgatóság” szöveg lép, nem vezethető át.]
+[^22]: A 12. § (5) bekezdése a 70/2013. (VII. 31.) VM rendelet 70. § e) pontja szerint módosított szöveg.

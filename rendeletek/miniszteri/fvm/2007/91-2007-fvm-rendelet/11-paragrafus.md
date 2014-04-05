@@ -10,11 +10,11 @@ a) legalább napi hat órás oktatási idő,
 
 b) minden oktatási napon jelenléti ívet kell készíteni, a minimális létszám 6 fő,
 
-c)[^14] a szakképzés, oktatás megtartásáról a program megküldésével legalább 5 nappal korábban írásban értesíteni kell az MgSzH területi szervét.
+c)[^19] a szakképzés, oktatás megtartásáról a program megküldésével legalább 5 nappal korábban írásban értesíteni kell az MgSzH területi szervét.
 
 (4) A támogatás mértéke legfeljebb 30 000 Ft/oktatási nap, továbbá az előadóra és hallgatónként legfeljebb 5000 Ft/nap ellátásra és utazásra.
 
-(5)[^15] A pályázatban foglaltak megvalósításának, valamint a (3) bekezdésben foglaltak betartásának és a szakképzés kivitelezésének helyszíni ellenőrzésére az az erdészeti igazgatóság jogosult.
+(5)[^20] A pályázatban foglaltak megvalósításának, valamint a (3) bekezdésben foglaltak betartásának és a szakképzés kivitelezésének helyszíni ellenőrzésére az az erdészeti igazgatóság jogosult.
 
-[^14]: [A 11. § (3) bekezdés c) pontjában a 70/2013. (VII. 31.) VM rendelet 70. § e) pontjával elrendelt módosítás, amely szerint az „MgSzH területi szerve” szövegrész helyébe az „az erdészeti igazgatóság” szöveg lép, nem vezethető át.]
-[^15]: A 11. § (5) bekezdése a 70/2013. (VII. 31.) VM rendelet 70. § e) pontja szerint módosított szöveg.
+[^19]: [A 11. § (3) bekezdés c) pontjában a 70/2013. (VII. 31.) VM rendelet 70. § e) pontjával elrendelt módosítás, amely szerint az „MgSzH területi szerve” szövegrész helyébe az „az erdészeti igazgatóság” szöveg lép, nem vezethető át.]
+[^20]: A 11. § (5) bekezdése a 70/2013. (VII. 31.) VM rendelet 70. § e) pontja szerint módosított szöveg.

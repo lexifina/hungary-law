@@ -16,6 +16,6 @@ b) szabadtéri erdei oktató bázis berendezésének létesítése esetén, amel
 
 (4) Az elszámoláshoz csatolni kell a beruházás megvalósítása során készített részletes nyilvántartást, valamint a beruházás megvalósítását igazoló számlák és bizonylatok hitelesített másolatát.
 
-(5)[^18] A pályázatban foglalt beruházás megvalósításának, valamint a nyilvántartások vezetésének helyszíni ellenőrzésére az az erdészeti igazgatóság jogosult.
+(5)[^23] A pályázatban foglalt beruházás megvalósításának, valamint a nyilvántartások vezetésének helyszíni ellenőrzésére az az erdészeti igazgatóság jogosult.
 
-[^18]: A 14. § (5) bekezdése a 70/2013. (VII. 31.) VM rendelet 70. § e) pontja szerint módosított szöveg.
+[^23]: A 14. § (5) bekezdése a 70/2013. (VII. 31.) VM rendelet 70. § e) pontja szerint módosított szöveg.

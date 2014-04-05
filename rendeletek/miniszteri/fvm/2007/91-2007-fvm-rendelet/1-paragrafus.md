@@ -1,6 +1,6 @@
 ## 1. § E rendelet alkalmazásában:
 
-a)[^1] erdőgazdálkodó: az erdőről és az erdő védelméről szóló 1996. évi LIV. törvény (a továbbiakban: Evt.) 13. §-ának (1)–(2) bekezdése szerint – az erdészeti hatóságként eljáró Mezőgazdasági Szakigazgatási Hivatal (a továbbiakban: MgSzH) által – nyilvántartásba vett erdőgazdálkodó;
+a)[^2] erdőgazdálkodó: az erdőről és az erdő védelméről szóló 1996. évi LIV. törvény (a továbbiakban: Evt.) 13. §-ának (1)–(2) bekezdése szerint – az erdészeti hatóságként eljáró Mezőgazdasági Szakigazgatási Hivatal (a továbbiakban: MgSzH) által – nyilvántartásba vett erdőgazdálkodó;
 
 b) városi erdő: az Evt. 17. §-a (2) bekezdésének h) pontja szerinti városok, községek, a lakótelep és más települést védő településvédelmi, valamint belterületi erdő;
 
@@ -12,4 +12,4 @@ e) özönnövény (inváziós faj): olyan nem őshonos faj, amelynek elterjedés
 
 f) természetközeli erdőkezelés: olyan erdőgazdálkodási tevékenység, amit az ápolás, erdőnevelés során az elegyesség növelése, az őshonos erdőtársulások fenntartása, kialakítása érdekében az Evt.-ben és a természet védelméről szóló 1996. évi LIII. törvényben meghatározott előírások teljesítése érdekében folytatnak, illetve felújító vágással vagy szálalással végeznek.
 
-[^1]: [Az 1. § a) pontjában a 70/2013. (VII. 31.) VM rendelet 70. § a) pontjával elrendelt módosítás, amely szerint a „Mezőgazdasági Szakigazgatási Hivatalnál (a továbbiakban: MgSzH)” szövegrész helyébe a „Nemzeti Élelmiszerlánc-biztonsági Hivatalnál (a továbbiakban: NÉBIH)” szöveg lép, nem vezethető át.]
+[^2]: [Az 1. § a) pontjában a 70/2013. (VII. 31.) VM rendelet 70. § a) pontjával elrendelt módosítás, amely szerint a „Mezőgazdasági Szakigazgatási Hivatalnál (a továbbiakban: MgSzH)” szövegrész helyébe a „Nemzeti Élelmiszerlánc-biztonsági Hivatalnál (a továbbiakban: NÉBIH)” szöveg lép, nem vezethető át.]

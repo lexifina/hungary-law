@@ -20,13 +20,13 @@ e) a melléklet 2. pontja esetében az erdőrészlet Adattár szerinti faállom�
 
 f) a melléklet 3. pontja esetében az Adattárban szerepel, hogy az adott erdőrészletben hagyásfák vannak;
 
-g)[^10] a melléklet 4. pontja esetében az erdőgazdálkodó az az erdészeti igazgatóság által kiadott véghasználati engedéllyel rendelkezik az adott erdőrészlet tekintetében;
+g)[^15] a melléklet 4. pontja esetében az erdőgazdálkodó az az erdészeti igazgatóság által kiadott véghasználati engedéllyel rendelkezik az adott erdőrészlet tekintetében;
 
-h)[^11] a melléklet 5. pontja esetében az erdőgazdálkodó az az erdészeti igazgatóság által kiadott fakitermelési engedéllyel rendelkezik az adott erdőrészlet tekintetében;
+h)[^16] a melléklet 5. pontja esetében az erdőgazdálkodó az az erdészeti igazgatóság által kiadott fakitermelési engedéllyel rendelkezik az adott erdőrészlet tekintetében;
 
 i) a melléklet 6. pontja esetében az adott fa turistaúttól, vagy közforgalom számára megnyitott úttól 20 méteres távolságon belül helyezkedik el;
 
 j) a melléklet 7. pontja esetében az Adattárban az inváziós növényfajok jelenléte az adott erdőrészletben fel van tüntetve, és annak faállományát 50%-ot meghaladóan őshonos fafajok alkotják.
 
-[^10]: A 9. § g) pontja a 70/2013. (VII. 31.) VM rendelet 70. § e) pontja szerint módosított szöveg.
-[^11]: A 9. § h) pontja a 70/2013. (VII. 31.) VM rendelet 70. § e) pontja szerint módosított szöveg.
+[^15]: A 9. § g) pontja a 70/2013. (VII. 31.) VM rendelet 70. § e) pontja szerint módosított szöveg.
+[^16]: A 9. § h) pontja a 70/2013. (VII. 31.) VM rendelet 70. § e) pontja szerint módosított szöveg.

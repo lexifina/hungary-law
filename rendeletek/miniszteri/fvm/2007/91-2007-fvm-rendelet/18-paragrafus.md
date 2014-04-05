@@ -1,12 +1,12 @@
-## 17. §[^24] Ha a támogatást jogosulatlanul vették igénybe, az az erdészeti igazgatóság elrendeli annak visszafizetését.
+## 17. §[^29] Ha a támogatást jogosulatlanul vették igénybe, az az erdészeti igazgatóság elrendeli annak visszafizetését.
 
 ## Záró rendelkezések
 
 18. § (1) Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
 
-(2) Ez a rendelet a Szerződés 87. és 88. cikkének a de minimis támogatásokra való alkalmazásáról szóló, 2006. december 15-i 1998/2006/EK bizottsági rendelet (HL L 379., 2006.12.28., 5. o.) hatálya alá tartozó támogatást tartalmaz.
+(2)[^30] Ez a rendelet az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet hatálya alá tartozó támogatást tartalmaz.
 
-(3)[^25] Ez a rendelet a Magyar Köztársaság 2007. évi költségvetéséről szóló 2006. évi CXXVII. törvény XII. Földművelésügyi és Vidékfejlesztési Minisztérium fejezet, 10. cím Fejezeti kezelésű előirányzatok, 2. alcím Egyéb fejezeti kezelési előirányzatok 26. jogcímcsoport Erdőterület közjóléti célú védelmének és bővítésének feladata támogatása forrás felhasználására terjed ki.
+(3)[^31] Ez a rendelet a Magyar Köztársaság 2007. évi költségvetéséről szóló 2006. évi CXXVII. törvény XII. Földművelésügyi és Vidékfejlesztési Minisztérium fejezet, 10. cím Fejezeti kezelésű előirányzatok, 2. alcím Egyéb fejezeti kezelési előirányzatok 26. jogcímcsoport Erdőterület közjóléti célú védelmének és bővítésének feladata támogatása forrás felhasználására terjed ki.
 
 Melléklet a 91/2007. (VIII. 23.) FVM rendelethez
 
@@ -30,5 +30,6 @@ A folyamatos erdőborítás kialakítását elősegítő támogatható tevékeny
 
 | 7. Inváziós növényfajok visszaszorítása | 50 000 Ft/ha | inváziós lágyszárú növényfajok visszaszorítása érdekében azoknak virágzás előtti kaszálással, mechanikus módszerekkel történő eltávolítása és a fák esetében kéreggyűrűzés, injektálás, ha ezek nem eredményesek, a tuskók vegyszeres kezelése |
 
-[^24]: A 17. § a 70/2013. (VII. 31.) VM rendelet 70. § e) pontja szerint módosított szöveg.
-[^25]: A 18. § (3) bekezdését a 146/2007. (XII. 4.) FVM rendelet 2. §-a iktatta be. [A 18. § (3) bekezdésében a 70/2013. (VII. 31.) VM rendelet 70. § h) pontjával elrendelt módosítás, amely szerint a „a Földművelésügyi és Vidékfejlesztési Minisztérium” szövegrész helyébe a „a VM” szöveg lép, nem vezethető át.]
+[^29]: A 17. § a 70/2013. (VII. 31.) VM rendelet 70. § e) pontja szerint módosított szöveg.
+[^30]: A 18. § (2) bekezdése a 36/2014. (IV. 4.) VM rendelet 11. §-ával megállapított szöveg.
+[^31]: A 18. § (3) bekezdését a 146/2007. (XII. 4.) FVM rendelet 2. §-a iktatta be. [A 18. § (3) bekezdésében a 70/2013. (VII. 31.) VM rendelet 70. § h) pontjával elrendelt módosítás, amely szerint a „a Földművelésügyi és Vidékfejlesztési Minisztérium” szövegrész helyébe a „a VM” szöveg lép, nem vezethető át.]

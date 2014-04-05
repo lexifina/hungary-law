@@ -12,7 +12,7 @@ a) a benyújtott szakmai terv által érintett erdőterület legalább 3 hektár
 
 b) a szakmai tervet erdőtervezői jogosultsággal rendelkező természetes vagy jogi személy készítse el;
 
-c)[^12] a támogatást igénylő vállalja, hogy legkésőbb a tárgyév végéig az üzemmód megváltoztatása iránt kérelmet nyújt be az MgSzH területi szervéhez; továbbá
+c)[^17] a támogatást igénylő vállalja, hogy legkésőbb a tárgyév végéig az üzemmód megváltoztatása iránt kérelmet nyújt be az MgSzH területi szervéhez; továbbá
 
 d) a szakmai tervben foglaltakat az abban érintett területen alkalmazza.
 
@@ -30,7 +30,7 @@ c) 15,1 hektár támogatott terület esetén 175 ezer Ft + a 15 ha feletti terü
 
 (5) Az (1) bekezdés a) pontja szerinti támogatás esetében a pályázó köteles az elkészített szakmai tervek hitelesített példányát, a munkavégzés tényét igazoló számla hitelesített példányát megőrizni, továbbá a hatósági ellenőrzésnél bemutatni.
 
-(6)[^13] A szakmai terv, valamint a pályázatban foglaltak megvalósításának helyszíni ellenőrzésére az az erdészeti igazgatóság jogosult.
+(6)[^18] A szakmai terv, valamint a pályázatban foglaltak megvalósításának helyszíni ellenőrzésére az az erdészeti igazgatóság jogosult.
 
-[^12]: [A 10. § (2) bekezdés c) pontjában a 70/2013. (VII. 31.) VM rendelet 70. § e) pontjával elrendelt módosítás, amely szerint az „MgSzH területi szerve” szövegrész helyébe az „az erdészeti igazgatóság” szöveg lép, nem vezethető át.]
-[^13]: A 10. § (6) bekezdése a 70/2013. (VII. 31.) VM rendelet 70. § e) pontja szerint módosított szöveg.
+[^17]: [A 10. § (2) bekezdés c) pontjában a 70/2013. (VII. 31.) VM rendelet 70. § e) pontjával elrendelt módosítás, amely szerint az „MgSzH területi szerve” szövegrész helyébe az „az erdészeti igazgatóság” szöveg lép, nem vezethető át.]
+[^18]: A 10. § (6) bekezdése a 70/2013. (VII. 31.) VM rendelet 70. § e) pontja szerint módosított szöveg.
