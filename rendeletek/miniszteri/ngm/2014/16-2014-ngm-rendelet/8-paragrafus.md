@@ -1,0 +1,1 @@
+## 7. § Az NMH a programkövetelmény nyilvántartásba vételéhez szükséges azonosító számot a programkövetelmény nyelvéhez, a nyelvi képzettség szintjéhez, a nyelvi képzés fajtájához és típusához rendelt kód alkalmazásával képzi.
