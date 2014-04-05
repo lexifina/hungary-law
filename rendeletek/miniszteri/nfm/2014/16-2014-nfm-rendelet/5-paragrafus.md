@@ -1,1 +1,0 @@
-## „b) a központi koordinációs szervezet kialakítását és működtetését, ideértve a központi hely-, útvonal-, kedvezmény- és tarifaazonosító rendszer, továbbá a központi háttérrendszer szoftver funkciók kiépítését és működtetését, és”
