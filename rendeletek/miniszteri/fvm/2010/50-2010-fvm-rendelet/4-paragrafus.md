@@ -18,9 +18,9 @@ ab) nincs köztartozása,
 
 ac) megfelel az államháztartásról szóló törvényben előírt rendezett munkaügyi kapcsolatokra vonatkozó követelményeknek, és
 
-ad) nem minősül nehéz helyzetben lévő vállalkozásnak, valamint
+ad)[^4]
 
-b) nyilatkozik a támogatási kérelem benyújtását megelőző két pénzügyi évben és a folyamatban lévő pénzügyi évben kapott, valamint igényelt és el nem bírált valamennyi, az általános „de minimis” rendelet hatálya alá tartozó csekély összegű támogatásról.
+b)[^5] megfelel az agrár- és vidékfejlesztési állami támogatásokkal kapcsolatos egyes eljárási kérdésekről szóló 353/2012. (XII. 13.) Korm. rendelet 11/A. §-ában meghatározott feltételeknek.
 
 (3) A támogatás összegének megállapításakor nem vehető figyelembe olyan erdő, amely a Magyar Állam többségi tulajdonában van.
 
@@ -31,3 +31,6 @@ a) az (1) bekezdés a) pontja szerinti igénylő esetén 200 hektárnál,
 b) az (1) bekezdés b) pontja szerinti igénylő esetén – kivéve, ha az igénylő az (1) bekezdés a) pontja szerinti minőségében is jogosulttá válik támogatásra –100 hektárnál
 
 kisebb nem lehet.
+
+[^4]: A 4. § (2) bekezdés a) pont ad) alpontját a 36/2014. (IV. 4.) VM rendelet 51. §-a hatályon kívül helyezte.
+[^5]: A 4. § (2) bekezdés b) pontja a 36/2014. (IV. 4.) VM rendelet 48. §-ával megállapított szöveg.
