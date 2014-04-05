@@ -2,11 +2,11 @@
 
 ## az egyes állatbetegségek megelőzésével, illetve leküzdésével kapcsolatos támogatások igénylésének és kifizetésének rendjéről szóló 148/2007. (XII. 8.) FVM rendelet alapján elvégzett állat-egészségügyi szolgáltatásokról
 
-## I.
+## I.[^49]
 
 ## Az állat-egészségügyi szolgáltatást végző engedélyes adatai
 
-## – Ügyfél-regisztrációs száma;
+## – Ügyfél-azonosítója;
 
 ## II.
 
@@ -18,9 +18,9 @@
 
 ## Az összesítőn csak egy állatfajra vonatkozó számlák nyújthatók be.
 
-## III.[^42]
+## III.[^50]
 
-## – A kedvezményezett neve, regisztrációs száma;
+## – A kedvezményezett neve, ügyfél-azonosítója;
 
 ## – Mikro-, kis- vagy középvállalkozás megjelölése;
 
@@ -50,7 +50,7 @@
 
 ## Mellékletek: számlamásolatok
 
-## VII.[^43]
+## VII.[^51]
 
 ## élelmiszerlánc-biztonsági és állategészségügyi igazgatóság igazolása
 
@@ -60,13 +60,13 @@
 
 ## Keltezés, az igazgató főállatorvos (cégszerű) aláírása
 
-4. számú melléklet a 148/2007. (XII. 8.) FVM rendelethez[^44]
+4. számú melléklet a 148/2007. (XII. 8.) FVM rendelethez[^52]
 
 ## Támogatási kérelem adattartalma
 
 1. Az állat-egészségügyi szolgáltatást végző engedélyes adatai
 
-1.1. ügyfél-regisztrációs szám
+1.1.[^53] ügyfél-azonosító
 
 2. Az elvégzett állat-egészségügyi szolgáltatások részletezése
 
@@ -78,7 +78,7 @@
 
 3.1. név
 
-3.2. ügyfél-regisztrációs szám
+3.2.[^54] ügyfél-azonosító
 
 3.3. Mikro-, kis- vagy középvállalkozás megjelölése
 
@@ -104,16 +104,19 @@
 
 7.1. Számla másolatok
 
-7.2.[^45] A C001 technikai kód alapján történő igényléshez a Traces bizonyítvány(ok) másolata(i) vagy az „Állategészségügyi bizonyítvány a gazdaságból” című nyomtatvány(ok) másolata(i), kivétel: sertés állatfaj (tenyészkoca).
+7.2.[^55] A C001 technikai kód alapján történő igényléshez a Traces bizonyítvány(ok) másolata(i) vagy az „Állategészségügyi bizonyítvány a gazdaságból” című nyomtatvány(ok) másolata(i), kivétel: sertés állatfaj (tenyészkoca).
 
-7.3.[^46] A sertés állatfaj (tenyészkoca) esetén a C001 technikai kód alapján történő igényléshez az 5. számú melléklet szerinti adattartalmú, az MVH által rendszeresített és honlapján közzétett nyilatkozat.
+7.3.[^56] A sertés állatfaj (tenyészkoca) esetén a C001 technikai kód alapján történő igényléshez az 5. számú melléklet szerinti adattartalmú, az MVH által rendszeresített és honlapján közzétett nyilatkozat.
 
 8. Az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság igazolása a támogatási kérelemben megjelölt engedélyes által az egyes állatbetegségek megelőzésével, illetve leküzdésével kapcsolatos támogatások igénylésének és kifizetésének rendjéről szóló 148/2007. (XII. 8.) FVM rendelet alapján meghatározott feltételek teljesítéséről és a jogosult támogatási összeg megjelöléséről.
 
 9. Keltezés, az igazgató főállatorvos (cégszerű) aláírása
 
-[^42]: A 3. számú melléklet III. pontja a 23/2011. (III. 28.) VM rendelet 10. §-a szerint módosított szöveg.
-[^43]: A 3. számú melléklet VII. pontja a 23/2011. (III. 28.) VM rendelet 10. §-a szerint módosított szöveg.
-[^44]: A 4. számú melléklet a 23/2011. (III. 28.) VM rendelet 11. § (3) bekezdésével megállapított szöveg.
-[^45]: A 4. számú melléklet 7.2. pontja a 111/2012. (X. 29.) VM rendelet 11. §-ával megállapított szöveg.
-[^46]: A 4. számú melléklet 7.3. pontja a 111/2012. (X. 29.) VM rendelet 11. §-ával megállapított szöveg.
+[^49]: A 3. számú melléklet I. pontja a 33/2014. (IV. 4.) VM rendelet 26. § b) pontja szerint módosított szöveg.
+[^50]: A 3. számú melléklet III. pontja a 23/2011. (III. 28.) VM rendelet 10. §-a, a 33/2014. (IV. 4.) VM rendelet 26. § b) pontja szerint módosított szöveg.
+[^51]: A 3. számú melléklet VII. pontja a 23/2011. (III. 28.) VM rendelet 10. §-a szerint módosított szöveg.
+[^52]: A 4. számú melléklet a 23/2011. (III. 28.) VM rendelet 11. § (3) bekezdésével megállapított szöveg.
+[^53]: A 4. számú melléklet 1. pont 1.1. alpontja a 33/2014. (IV. 4.) VM rendelet 26. § c) pontjával megállapított szöveg.
+[^54]: A 4. számú melléklet 3. pont 3.2. alpontja a 33/2014. (IV. 4.) VM rendelet 26. § c) pontjával megállapított szöveg.
+[^55]: A 4. számú melléklet 7.2. pontja a 111/2012. (X. 29.) VM rendelet 11. §-ával megállapított szöveg.
+[^56]: A 4. számú melléklet 7.3. pontja a 111/2012. (X. 29.) VM rendelet 11. §-ával megállapított szöveg.

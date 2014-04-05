@@ -1,4 +1,4 @@
-## 9/C. §[^36] E rendeletnek az egyes agrártárgyú miniszteri rendeletek módosításáról szóló 28/2013. (IV. 30.) VM rendelettel [a továbbiakban: 28/2013. (IV. 30.) VM rendelet] megállapított 7. § (2) bekezdését a 28/2013. (IV. 30.) VM rendelet hatálybalépésekor[^37] folyamatban lévő ügyekben is alkalmazni kell.
+## 9/D. §[^41] s Az egyes állatjóléti támogatási tárgyú miniszteri rendeletek módosításáról szóló 33/2014. (IV. 4.) VM rendelettel [a továbbiakban: 33/2014. (IV. 4.) VM rendelet] megállapított 7. § (2) bekezdését a 33/2014. (IV. 4.) VM rendelet hatálybalépésekor[^42] folyamatban lévő eljárásokban is alkalmazni kell.
 
-[^36]: A 9/C. §-t a 28/2013. (IV. 30.) VM rendelet 2. §-a iktatta be.
-[^37]: A hatálybalépés időpontja 2013. május 2.
+[^41]: A 9/D. §-t a 33/2014. (IV. 4.) VM rendelet 25. §-a iktatta be.
+[^42]: A hatálybalépés időpontja 2014. április 5.

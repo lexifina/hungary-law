@@ -64,13 +64,13 @@
 
 ## – A pulyka esetében a baromfi ágazatban igénybe vehető állatjóléti támogatások feltételeiről szóló 139/2007. (XI. 28.) FVM rendelet 1. számú melléklete szerint.
 
-2. számú melléklet a 148/2007. (XII. 8.) FVM rendelethez[^39]
+2. számú melléklet a 148/2007. (XII. 8.) FVM rendelethez[^44]
 
 ## Jóváhagyási kérelem adattartalma
 
 1. Az ügyfél adatai
 
-1.1. ügyfél-regisztrációs szám
+1.1.[^45] ügyfél-azonosító
 
 1.2. adószám
 
@@ -106,7 +106,7 @@
 
 4. Nyilatkozat:
 
-4.1.[^40] arról, hogy kérelmező jogi személy, jogi személyiséggel nem rendelkező szervezet nem áll csőd-, felszámolási vagy végelszámolási eljárás alatt, illetve az egyéni vállalkozó ellen gazdálkodási tevékenységével összefüggő végrehajtási eljárás nincs folyamatban;
+4.1.[^46] arról, hogy kérelmező jogi személy, jogi személyiséggel nem rendelkező szervezet nem áll csőd-, felszámolási vagy végelszámolási eljárás alatt, illetve az egyéni vállalkozó ellen gazdálkodási tevékenységével összefüggő végrehajtási eljárás nincs folyamatban;
 
 4.2. arról, hogy a kérelmezőnek lejárt köztartozása nem áll fenn;
 
@@ -114,7 +114,7 @@
 
 4.4. arról, hogy a mentesítési programok esetében az állatállományára az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság által jóváhagyott mentesítési programtól nem tér el;
 
-4.5. arról, hogy az állat-egészségügyi szolgáltatást az arra engedéllyel, illetve akkreditációval, valamint ügyfél-regisztrációs számmal rendelkező személlyel, szervvel, illetve intézménnyel végezteti el;
+4.5.[^47] arról, hogy az állat-egészségügyi szolgáltatást az arra engedéllyel, illetve akkreditációval, valamint ügyfél-azonosítóval rendelkező személlyel, szervvel, illetve intézménnyel végezteti el;
 
 4.6. arról, hogy az állat-egészségügyi szaktanácsadási tevékenységre vonatkozó támogatás igényelése esetén rendelkezik az állatállomány állat-egészségügyi ellátására vonatkozó írásbeli szerződéssel.
 
@@ -126,5 +126,7 @@
 
 A hatósági állatorvos igazolása a hazai és közösségi állat-egészségügyi és állatjóléti jogszabályok által előírt feltételek teljesítéséről.
 
-[^39]: A 2. számú melléklet a 23/2011. (III. 28.) VM rendelet 11. § (2) bekezdésével megállapított szöveg.
-[^40]: A 2. számú melléklet 4.1. pontja a 22/2014. (III. 14.) VM rendelet 53. § b) pontja szerint módosított szöveg.
+[^44]: A 2. számú melléklet a 23/2011. (III. 28.) VM rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^45]: A 2. számú melléklet 1. pont 1.1. alpontja a 33/2014. (IV. 4.) VM rendelet 26. § a) pontjával megállapított szöveg.
+[^46]: A 2. számú melléklet 4.1. pontja a 22/2014. (III. 14.) VM rendelet 53. § b) pontja szerint módosított szöveg.
+[^47]: A 2. számú melléklet 4. pont 4.5. alpontja a 33/2014. (IV. 4.) VM rendelet 26. § a) pontja szerint módosított szöveg.
