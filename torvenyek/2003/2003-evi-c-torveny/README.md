@@ -31,3 +31,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-100-00-00
 | 2014-01-02 | 2013. évi CXXVI. törvény | 2003-100-00-00.46 |
 | 2014-01-13 | 2013. évi CLXXXIII. törvény | 2003-100-00-00.47 |
 | 2014-03-15 | 2013. évi CCLII. törvény | 2003-100-00-00.48 |
+| 2014-04-05 | 10/2014. (IV. 4.) AB határozat | 2003-100-00-00.49 |
