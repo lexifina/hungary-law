@@ -36,6 +36,6 @@
 
 ## TT: támogatástartalom, a támogatások összegének jelenértéke
 
-2. számú melléklet az 50/2007. (VI. 27.) FVM rendelethez[^28]
+2. számú melléklet az 50/2007. (VI. 27.) FVM rendelethez[^31]
 
-[^28]: Az újabb 2. számú mellékletet a 99/2008. (VIII. 6.) FVM rendelet 7. §-a iktatta be, hatályon kívül helyezte a 171/2009. (XII. 22.) FVM rendelet 8. § (2) bekezdés a) pontja.
+[^31]: Az újabb 2. számú mellékletet a 99/2008. (VIII. 6.) FVM rendelet 7. §-a iktatta be, hatályon kívül helyezte a 171/2009. (XII. 22.) FVM rendelet 8. § (2) bekezdés a) pontja.

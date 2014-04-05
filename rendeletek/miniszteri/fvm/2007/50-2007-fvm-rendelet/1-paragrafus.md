@@ -1,14 +1,14 @@
 ## 1. § E rendelet alkalmazásában:
 
-a)[^1] mezőgazdasági tevékenység: a közös agrárpolitika keretébe tartozó közvetlen támogatási rendszerek közös szabályainak megállapításáról és a mezőgazdasági termelők részére meghatározott támogatási rendszerek létrehozásáról, továbbá a 2019/93/EGK, 1452/2001/EK, 1453/2001/EK, 1454/2001/EK, 1868/94/EK, 1251/1999/EK, 1254/1999/EK, 1673/2000/EK, 2358/71/EGK és a 2529/2001/EK rendelet módosításáról szóló 2003. szeptember 29-i 1782/2003/EK tanácsi rendelet 2. cikkének c) pontja és az EK-Szerződés 87. és 88. cikkének a mezőgazdasági termelőágazatban nyújtott csekély összegű (de minimis) támogatásokra való alkalmazásáról szóló 2007. december 20-i 1535/2007/EK bizottsági rendelet 2. cikke szerinti tevékenység;
+a)[^1] mezőgazdasági tevékenység: a közös agrárpolitika keretébe tartozó, mezőgazdasági termelők részére meghatározott közvetlen támogatási rendszerek közös szabályainak megállapításáról és a mezőgazdasági termelők részére meghatározott egyes támogatási rendszerek létrehozásáról, az 1290/2005/EK, a 247/2006/EK és a 378/2007/EK rendelet módosításáról, valamint az 1782/2003/EK rendelet hatályon kívül helyezéséről szóló, 2009. január 19-i 73/2009/EK tanácsi rendelet 2. cikk c) pontja és az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a mezőgazdasági ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1408/2013/EU bizottsági rendelet 1. cikke szerinti tevékenység;
 
-b)[^2] halászati tevékenység: a halászati és akvakultúra-termékek piacának közös szervezéséről szóló 1999. december 17-i 104/2000/EK tanácsi rendelet (a továbbiakban: 104/2000/EK tanácsi rendelet) 1. cikkében meghatározott termékek előállításával, feldolgozásával vagy forgalmazásával kapcsolatos tevékenység;
+b)[^2] halászati tevékenység: a halászati és akvakultúra-termékek piacának közös szervezéséről, az 1184/2006/EK és az 1224/2009/EK tanácsi rendelet módosításáról, valamint a 104/2000/EK tanácsi rendelet hatályon kívül helyezéséről szóló 2013. december 11-i 1379/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 1379/2013/EU európai parlamenti és tanácsi rendelet) I. mellékletében meghatározott termékek előállításával, feldolgozásával vagy forgalmazásával kapcsolatos tevékenység;
 
 c)[^3] mezőgazdasági termék: az Európai Közösséget létrehozó Római Szerződés I. mellékletében felsorolt termékek;
 
-d)[^4] halászati termék: a 104/2000/EK tanácsi rendelet 1. cikkében meghatározott termékek;
+d)[^4] halászati termék: az 1379/2013/EU európai parlamenti és tanácsi rendelet I. mellékletében meghatározott termékek;
 
-e)[^5] mezőgazdasági termelő: az agrár de minimis rendelet 2. cikkének 1. pontja szerinti vállalkozás, amely megfelel az EK-Szerződés 87. és 88. cikkének a kis- és középvállalkozásoknak nyújtott állami támogatásokra történő alkalmazásáról szóló 2001. január 12-i 70/2001/EK bizottsági rendelet I. melléklete szerinti mikro-, kis- és középvállalkozás meghatározásnak;
+e)[^5] mezőgazdasági termelő: az agrár de minimis rendelet 1. cikk 1. pontja szerinti vállalkozás, amely megfelel a Szerződés 87. és 88. cikke alkalmazásában a támogatások bizonyos fajtáinak a közös piaccal összeegyeztethetőnek nyilvánításáról (általános csoportmentességi rendelet) szóló, 2008. augusztus 6-i 800/2008/EK bizottsági rendelet I. melléklete szerinti mikro-, kis- és középvállalkozás meghatározásnak;
 
 f)[^6] TÉSZ: a zöldség-gyümölcs termelői csoportok és termelői szervezetek nemzeti szabályozásáról szóló 67/2009. (VI. 9.) FVM rendelet 2. § a) és b) pontja szerint előzetesen, illetve véglegesen elismert zöldség-gyümölcs termelői értékesítő szervezet;
 
@@ -26,28 +26,30 @@ l) intézményi kezességvállalás: hitelbiztosíték a pénzügyi intézménny
 
 m)[^10] kezességvállaló intézmény: Magyarország adott évi költségvetéséről szóló törvényben foglaltak alapján viszontgaranciával bíró pénzügyi vállalkozás (Agrár- Vállalkozási Hitelgarancia Alapítvány, Garantiqa Hitelgarancia Zrt.);
 
-n) pénzügyi intézmény: a hitelintézetekről és pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény alapján meghatározott hitelintézet és pénzügyi vállalkozás;
+n)[^11] pénzügyi intézmény: a hitelintézetekről és pénzügyi vállalkozásokról szóló törvény alapján meghatározott hitelintézet és pénzügyi vállalkozás;
 
-o) támogatás tartalom: a kezességvállalás támogatás összegének jelenértéke, kiszámítását a 2. számú melléklet tartalmazza;
+o)[^12] támogatás tartalom: a kezességvállalás támogatás összegének jelenértéke, amely a 2. számú melléklet szerinti képlet alapján, vagy az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a mezőgazdasági ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1408/2013/EU bizottsági rendelet 4. cikk (6) bekezdése alapján kerül kiszámításra;
 
 p) támogatásról szóló igazolás: a kedvezményezettnek nyújtott támogatás tartalomról szóló igazolás;
 
-q)[^11] halászati de minimis rendelet: az EK-Szerződés 87. és 88. cikkének a halászati ágazatban nyújtott csekély összegű (de minimis) támogatásokra való alkalmazásáról és az 1860/2004/EK rendelet módosításáról szóló 2007. július 24-i 875/2007/EK bizottsági rendelet (HL L 193., 2007. 07. 25.);
+q)[^13] halászati de minimis rendelet: az EK-Szerződés 87. és 88. cikkének a halászati ágazatban nyújtott csekély összegű (de minimis) támogatásokra való alkalmazásáról és az 1860/2004/EK rendelet módosításáról szóló 2007. július 24-i 875/2007/EK bizottsági rendelet (HL L 193., 2007. 07. 25.);
 
-r)[^12] agrár de minimis rendelet: az EK-Szerződés 87. és 88. cikkének a mezőgazdasági termelőágazatban nyújtott csekély összegű (de minimis) támogatásokra való alkalmazásáról szóló 2007. december 20-i 1535/2007/EK bizottsági rendelet (HL L 337., 2007. 12. 21.);
+r)[^14] agrár de minimis rendelet: az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a mezőgazdasági ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1408/2013/EU bizottsági rendelet;
 
-s)[^13] bejelentési rendelet: az agrár- és vidékfejlesztési állami támogatásokkal kapcsolatos egyes eljárási kérdésekről szóló kormányrendelet.
+s)[^15] bejelentési rendelet: az agrár- és vidékfejlesztési állami támogatásokkal kapcsolatos egyes eljárási kérdésekről szóló kormányrendelet.
 
-[^1]: Az 1. § a) pontja a 99/2008. (VIII. 6.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^2]: Az 1. § b) pontja a 99/2008. (VIII. 6.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^1]: Az 1. § a) pontja a 36/2014. (IV. 4.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § b) pontja a 36/2014. (IV. 4.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^3]: Az 1. § c) pontja a 99/2008. (VIII. 6.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^4]: Az 1. § d) pontja a 99/2008. (VIII. 6.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^5]: Az 1. § e) pontja a 99/2008. (VIII. 6.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^4]: Az 1. § d) pontja a 36/2014. (IV. 4.) VM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^5]: Az 1. § e) pontja a 36/2014. (IV. 4.) VM rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^6]: Az 1. § f) pontja a 171/2009. (XII. 22.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^7]: Az 1. § g) pontja a 99/2008. (VIII. 6.) FVM rendelet 1. § (2) bekezdésével megállapított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
 [^8]: Az 1. § h) pontja a 99/2008. (VIII. 6.) FVM rendelet 1. § (2) bekezdésével megállapított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
 [^9]: Az 1. § i) pontja a 30/2013. (IV. 30.) VM rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^10]: Az 1. § m) pontja a 99/2008. (VIII. 6.) FVM rendelet 1. § (3) bekezdésével megállapított, az 5/2012. (II. 10.) VM rendelet 30. §-a szerint módosított szöveg.
-[^11]: Az 1. § q) pontja a 99/2008. (VIII. 6.) FVM rendelet 1. § (4) bekezdésével megállapított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^12]: Az 1. § r) pontja a 99/2008. (VIII. 6.) FVM rendelet 1. § (4) bekezdésével megállapított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^13]: Az 1. § s) pontja a 30/2013. (IV. 30.) VM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^11]: Az 1. § n) pontja a 36/2014. (IV. 4.) VM rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^12]: Az 1. § o) pontja a 36/2014. (IV. 4.) VM rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^13]: Az 1. § q) pontja a 99/2008. (VIII. 6.) FVM rendelet 1. § (4) bekezdésével megállapított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^14]: Az 1. § r) pontja a 36/2014. (IV. 4.) VM rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^15]: Az 1. § s) pontja a 30/2013. (IV. 30.) VM rendelet 2. § (2) bekezdésével megállapított szöveg.
