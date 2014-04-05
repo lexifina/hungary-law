@@ -1,8 +1,8 @@
 ## Mechanikai sérülés megelőzése
 
-4. § (1) E jogcím alapján az az igénylő jogosult támogatásra, aki/amely biztosítja a baromfiállományban a mellsérülés megelőzéséhez szükséges feltételeket.
+4. § (1)[^43] E jogcím alapján az az igénylő jogosult támogatásra, aki teljesíti a baromfiállományban a mellsérülés megelőzéséhez szükséges, a 6. számú mellékletben foglalt követelményeket.
 
-(2)[^41] A támogatás mértéke:
+(2)[^44] A támogatás mértéke:
 
 a) növendék csirke (vágócsirke) esetén 4 736,00 Ft állategységenként,
 
@@ -28,7 +28,23 @@ k) növendék pulyka esetén 9 822,00 Ft állategységenként.
 
 (3) Az igénylő által a vágóhídra leadott állatoknál a mellsérülést szenvedő állatok aránya állományonként nem haladhatja meg az 5%-ot.
 
-(4)[^42] A 2. számú melléklet szerinti adattartalmú támogatási kérelemhez csatolni kell a vágóhídnak és a felügyelő jogosult állatorvosnak a mellsérülések (3) bekezdésben meghatározott arányára vonatkozó igazolását, amely tartalmazza a levágott baromfi darabszámát és vágásának időpontját.
+(4)[^45] A 2. számú melléklet szerinti adattartalmú támogatási kérelemhez csatolni kell a vágóhídnak és a felügyelő jogosult állatorvosnak a mellsérülések (3) bekezdésben meghatározott arányára vonatkozó igazolását, amely tartalmazza a levágott baromfi darabszámát és vágásának időpontját.
 
-[^41]: A 4. § (2) bekezdése a 68/2011. (VII. 14.) VM rendelet 12. §-ával megállapított szöveg.
-[^42]: A 4. § (4) bekezdése a 19/2010. (III. 11.) FVM rendelet 5. § (3) bekezdésével megállapított szöveg. E módosító rendelet 21. § (2) bekezdése alapján a 2010. március 14. napját követően benyújtott támogatási kérelmek esetén kell alkalmazni.
+(5)[^46] A támogatási kérelemhez csatolni kell a kezelő állatorvos igazolását a 6. számú mellékletben foglalt,
+
+a) az etetőre,
+
+b) az itatóra,
+
+c) az alomra,
+
+d) az istállóra,
+
+e) a kifutó felületre, és
+
+f) a termelő által vezetett mérési naplóban szereplő mikroklíma és fényerősség adatokra
+
+[^43]: A 4. § (1) bekezdése a 33/2014. (IV. 4.) VM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^44]: A 4. § (2) bekezdése a 68/2011. (VII. 14.) VM rendelet 12. §-ával megállapított szöveg.
+[^45]: A 4. § (4) bekezdése a 19/2010. (III. 11.) FVM rendelet 5. § (3) bekezdésével megállapított szöveg. E módosító rendelet 21. § (2) bekezdése alapján a 2010. március 14. napját követően benyújtott támogatási kérelmek esetén kell alkalmazni.
+[^46]: A 4. § (5) bekezdését a 33/2014. (IV. 4.) VM rendelet 3. § (2) bekezdése iktatta be.

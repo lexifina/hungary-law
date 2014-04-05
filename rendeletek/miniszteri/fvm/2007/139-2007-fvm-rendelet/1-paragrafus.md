@@ -54,13 +54,13 @@ b) mechanikai sérülések megelőzéséhez szükséges feltételek biztosítás
 
 c) kíméletes állatmozgatás és szállítás biztosítása,
 
-d) állati fehérjementes takarmány felhasználása, vagy
+d)[^5] hallisztmentes takarmány felhasználása, vagy
 
 e) a takarmányozáshoz ivóvíz minőségű víz biztosítása
 
 ## történik, a rendeletben meghatározott egyéb feltételek teljesítése esetén, támogatás vehető igénybe.
 
-(3a)[^5] A támogatás a 2. § (1) bekezdése szerinti igénylő által birtokon tartott, azaz a gazdasági esemény időpontjában még bennálló állományra
+(3a)[^6] A támogatás a 2. § (1) bekezdése szerinti igénylő által birtokon tartott, azaz a gazdasági esemény időpontjában még bennálló állományra
 
 a) a baromfiállomány – házityúk kivételével – nevelése, hízlalása esetében a (3) bekezdés a)–e) pont szerinti,
 
@@ -68,19 +68,19 @@ b) házi tyúk esetében a (3) bekezdés b)–e) pont szerinti
 
 tevékenységre igényelhető.
 
-(4)[^6] Az állategység számítás módját baromfifajonként és hasznosítási irányonként állategyedekre vonatkozóan az 1. számú melléklet tartalmazza. A darabszám és a táblázat alapján kiszámított állategységet kerekítés nélkül kell felhasználni a támogatási összeg kiszámításánál. Az állategység kiszámításának alapja
+(4)[^7] Az állategység számítás módját az 1. számú melléklet tartalmazza. A támogatási összeg a darabszám és az állategységnek az 1. számú melléklet szerinti táblázat alapján kiszámított – kerekítés nélküli – számával kerül megállapításra. Az állategység kiszámításának alapja
 
-a) a 3. §, 6. §, valamint 7. §-ban meghatározott támogatási jogcímeknél
+a) a 3. §-ban, a 6. §-ban, valamint 7. §-ban meghatározott támogatási jogcímeknél
 
 aa) a naposkori letelepítési állatlétszám,
 
 ab) házi tyúknál és növendék pulykánál az átminősítéskori állatlétszám,
 
-b) a 4–5. §-ban meghatározott támogatási jogcímeknél minden baromfifaj esetében a vágóhídra levágásra leadott állatlétszám.
+b) a 4. és az 5. §-ban meghatározott támogatási jogcímeknél minden baromfi megnevezés-csoport esetében a vágóhídra levágásra leadott állatlétszám.
 
-(5)[^7] A naposkori letelepítés darabszámát és az átminősítéskori állatlétszámot, valamint annak időpontját a kezelő állatorvos igazolja.
+(5)[^8] A naposkori letelepítés darabszámát és az átminősítéskori állatlétszámot, valamint annak időpontját a kezelő állatorvos igazolja.
 
-(6)[^8] E rendelet alapján támogatás az adott támogatási évben január 1. és december 31. között
+(6)[^9] E rendelet alapján támogatás az adott támogatási évben január 1. és december 31. között
 
 a) letelepített napos baromfi közül
 
@@ -96,29 +96,29 @@ ae) növendék libára,
 
 af) fiatal libára,
 
-ag) pecsenyekacsára és
+ag) pecsenyekacsára, és
 
 ah) növendék kacsára,
 
 b) átminősített tenyészkakasra és tenyészjércére,
 
-c) házi tyúkra és
+c) házi tyúkra,
 
 d) átminősített előnevelt (növendék) pulykára, valamint
 
 e) levágott összes baromfifélére,
 
-## legfeljebb 4 milliárd forint összegig nyújtható. A támogatási keret a 4. számú mellékletben foglaltak alapján, fajonként és hasznosítási irányonként elkülönített támogatási keretek szerint kerül felosztásra.
+## legfeljebb 8 milliárd forint összegig állapítható meg. A támogatási keret a 4. számú mellékletben foglaltak alapján, baromfi megnevezés-csoportonként és naptári negyedévenként elkülönített támogatási keretek szerint kerül felosztásra.
 
-(6a)[^9] A (6) bekezdéstől eltérően a 2013. évi támogatási évben legfeljebb 4,8 milliárd forint összegig nyújtható támogatás.
+(6a)[^10]
 
-(6b)[^10] A 4. számú mellékletben foglaltaktól eltérően a 2013. I., II., III. és IV. negyedévre vonatkozó támogatási keretek a 6. számú mellékletben foglaltak alapján baromfi megnevezésenként elkülönített támogatási keretek szerint kerülnek felosztásra.
+(6b)[^11]
 
-(7)[^11] A támogatást baromfi megnevezésenként (baromfifaj és annak hasznosítási iránya) elkülönítve a 4. számú mellékletben rögzített támogatási keretek alapján az adott tárgynegyedévben bekövetkezett gazdasági események után lehet igényelni. A növendék csirke (vágócsirke), a szabadtartásos csirke, a gyöngyös, a vágási célra előállított pecsenyeliba, a növendék liba, a fiatal liba, a pecsenyekacsa és a vágásra nevelt növendék kacsa esetében az összes támogatási jogcím után igényelhető támogatás.
+(7)[^12] A támogatást a 4. számú mellékletben rögzített támogatási keretek alapján az adott tárgynegyedévben bekövetkezett gazdasági események után lehet igényelni. A növendék csirke (vágócsirke), a szabadtartásos csirke, a gyöngyös, a vágási célra előállított pecsenyeliba, a növendék liba, a fiatal liba, a pecsenyekacsa és a vágásra nevelt növendék kacsa esetében az összes támogatási jogcím után igényelhető támogatás.
 
-(7a)[^12] A (7) bekezdéstől eltérően a támogatást a 2013. évben baromfi megnevezésenként elkülönítve a 6. számú mellékletben rögzített támogatási keretek alapján az adott tárgynegyedévben bekövetkezett gazdasági események után lehet igényelni. A növendék csirke (vágócsirke), a szabadtartásos csirke, a gyöngyös, a vágási célra előállított pecsenyeliba, a növendék liba, a fiatal liba, a pecsenyekacsa és a vágásra nevelt növendék kacsa esetében az összes támogatási jogcím után igényelhető támogatás.
+(7a)[^13]
 
-(8)[^13] Kétfázisú nevelés esetén csak valamely nevelési vagy hasznosítási szakaszban vagy az egyes szakaszokban jogcímek szerint megosztva igényelhető támogatás az alábbiak szerint:
+(8)[^14] Kétfázisú nevelés esetén csak valamely nevelési vagy hasznosítási szakaszban vagy az egyes szakaszokban jogcímek szerint megosztva igényelhető támogatás az alábbiak szerint:
 
 a) házityúk, valamint növendék pulyka esetében az átminősítést megelőző időszakra – az előnevelési fázisban – támogatás nem igényelhető,
 
@@ -134,25 +134,26 @@ ea) az átminősítés – az előnevelt pulyka beólazása – után igényelhe
 
 eb) a 4–5. § szerinti támogatás a vágást követően igényelhető.
 
-(9)[^14] Ha az állomány letelepítése, vagy átminősítése és vágása két külön negyedévre esik, az igénylést a gazdasági eseményhez rendelt tárgynegyedévben megosztva kell benyújtani. Az adott naptári negyedévben, az állomány nevelési idejétől függetlenül, csak az abban a negyedévben megtörtént gazdasági esemény után igényelhető támogatás.
+(9)[^15] Ha az állomány letelepítése, vagy átminősítése és vágása két külön negyedévre esik, az igénylést a gazdasági eseményhez rendelt tárgynegyedévben megosztva kell benyújtani. Az adott naptári negyedévben, az állomány nevelési idejétől függetlenül, csak az abban a negyedévben megtörtént gazdasági esemény után igényelhető támogatás.
 
-(10)[^15] Amennyiben a hízott libánál és hízott kacsánál a nevelés és a tömés is azonos termelőnél történik és az állomány letelepítése vagy átminősítése és vágása két külön negyedévre esik, úgy az igénylést a gazdasági eseményhez rendelt tárgynegyedévben, megosztva kell benyújtani.
+(10)[^16] Amennyiben a hízott libánál és hízott kacsánál a nevelés és a tömés is azonos termelőnél történik és az állomány letelepítése vagy átminősítése és vágása két külön negyedévre esik, úgy az igénylést a gazdasági eseményhez rendelt tárgynegyedévben, megosztva kell benyújtani.
 
-(11)[^16]
+(11)[^17]
 
 [^1]: Az 1. § (1) bekezdése a 68/2011. (VII. 14.) VM rendelet 1. §-ával megállapított szöveg.
 [^2]: Az 1. § (1a) bekezdését a 68/2011. (VII. 14.) VM rendelet 2. §-a iktatta be.
 [^3]: Az 1. § (2) bekezdése a 19/2010. (III. 11.) FVM rendelet 4. § (1) bekezdésével megállapított szöveg. E módosító rendelet 21. § (2) bekezdése alapján a 2010. március 14. napját követően benyújtott támogatási kérelmek esetén kell alkalmazni.
 [^4]: Az 1. § (3) bekezdésének záró szövegrésze a 81/2008. (VI. 24.) FVM rendelet 7. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. január 1-je utáni időszakra vonatkozóan benyújtott támogatási kérelmekre kell alkalmazni.
-[^5]: Az 1. § (3a) bekezdését a 68/2011. (VII. 14.) VM rendelet 3. §-a iktatta be.
-[^6]: Az 1. § (4) bekezdése a 68/2011. (VII. 14.) VM rendelet 4. §-ával megállapított szöveg.
-[^7]: Az 1. § (5) bekezdése a 80/2012. (VII. 30.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^8]: Az 1. § (6) bekezdése a 68/2011. (VII. 14.) VM rendelet 5. §-ával megállapított szöveg.
-[^9]: Az 1. § (6a) bekezdését a 111/2012. (X. 29.) VM rendelet 1. §-a iktatta be, szövege a 75/2013. (IX. 6.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^10]: Az 1. § (6b) bekezdését a 111/2012. (X. 29.) VM rendelet 1. §-a iktatta be, szövege a 75/2013. (IX. 6.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^11]: Az 1. § (7) bekezdése a 75/2013. (IX. 6.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^12]: Az 1. § (7a) bekezdését a 75/2013. (IX. 6.) VM rendelet 1. § (2) bekezdése iktatta be.
-[^13]: Az 1. § (8) bekezdését az 57/2009. (IV. 29.) FVM rendelet 1. § (2) bekezdése iktatta be, szövege a 68/2011. (VII. 14.) VM rendelet 5. §-ával megállapított szöveg.
-[^14]: Az 1. § (9) bekezdését az 57/2009. (IV. 29.) FVM rendelet 1. § (2) bekezdése iktatta be, szövege a 68/2011. (VII. 14.) VM rendelet 5. §-ával megállapított szöveg.
-[^15]: Az 1. § (10) bekezdését a 68/2011. (VII. 14.) VM rendelet 6. §-a iktatta be.
-[^16]: Az 1. § (11) bekezdését a 68/2011. (VII. 14.) VM rendelet 6. §-a iktatta be, hatályon kívül helyezte a 80/2012. (VII. 30.) VM rendelet 10. §-a.
+[^5]: Az 1. § (3) bekezdés d) pontja a 33/2014. (IV. 4.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^6]: Az 1. § (3a) bekezdését a 68/2011. (VII. 14.) VM rendelet 3. §-a iktatta be.
+[^7]: Az 1. § (4) bekezdése a 33/2014. (IV. 4.) VM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^8]: Az 1. § (5) bekezdése a 80/2012. (VII. 30.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^9]: Az 1. § (6) bekezdése a 33/2014. (IV. 4.) VM rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^10]: Az 1. § (6a) bekezdését a 111/2012. (X. 29.) VM rendelet 1. §-a iktatta be, hatályon kívül helyezte a 33/2014. (IV. 4.) VM rendelet 10. §-a.
+[^11]: Az 1. § (6b) bekezdését a 111/2012. (X. 29.) VM rendelet 1. §-a iktatta be, hatályon kívül helyezte a 33/2014. (IV. 4.) VM rendelet 10. §-a.
+[^12]: Az 1. § (7) bekezdése a 33/2014. (IV. 4.) VM rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^13]: Az 1. § (7a) bekezdését a 75/2013. (IX. 6.) VM rendelet 1. § (2) bekezdése iktatta be, hatályon kívül helyezte a 33/2014. (IV. 4.) VM rendelet 10. §-a.
+[^14]: Az 1. § (8) bekezdését az 57/2009. (IV. 29.) FVM rendelet 1. § (2) bekezdése iktatta be, szövege a 68/2011. (VII. 14.) VM rendelet 5. §-ával megállapított szöveg.
+[^15]: Az 1. § (9) bekezdését az 57/2009. (IV. 29.) FVM rendelet 1. § (2) bekezdése iktatta be, szövege a 68/2011. (VII. 14.) VM rendelet 5. §-ával megállapított szöveg.
+[^16]: Az 1. § (10) bekezdését a 68/2011. (VII. 14.) VM rendelet 6. §-a iktatta be.
+[^17]: Az 1. § (11) bekezdését a 68/2011. (VII. 14.) VM rendelet 6. §-a iktatta be, hatályon kívül helyezte a 80/2012. (VII. 30.) VM rendelet 10. §-a.

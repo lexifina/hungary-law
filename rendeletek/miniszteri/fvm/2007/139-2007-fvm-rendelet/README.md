@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-139-20-
 | 2013-09-07 | 2007-139-20-82.11 | 111/2012. (X. 29.) VM rendelet |
 | 2013-12-17 | 2007-139-20-82.12 | 111/2012. (X. 29.) VM rendelet |
 | 2014-03-15 | 2007-139-20-82.13 | 22/2014. (III. 14.) VM rendelet |
+| 2014-04-05 | 2007-139-20-82.14 | 33/2014. (IV. 4.) VM rendelet |
