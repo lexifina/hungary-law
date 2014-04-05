@@ -1,6 +1,6 @@
 ## A hitel célja és feltételei
 
-3. § (1)[^6] A hitelprogram keretében finanszírozható hitelcél az ÚMVP-ben meghirdetett, a következő jogszabályokban szabályozott támogatási jogcímek keretében finanszírozott beruházások:
+3. § (1)[^10] A hitelprogram keretében finanszírozható hitelcél az ÚMVP-ben meghirdetett, a következő jogszabályokban szabályozott támogatási jogcímek keretében finanszírozott beruházások:
 
 a) az Európai Mezőgazdasági Vidékfejlesztési Alapból önálló, építéssel nem járó gépek, technológiai berendezések beszerzéséhez nyújtandó támogatások részletes feltételeiről szóló miniszteri rendeletek;
 
@@ -38,9 +38,9 @@ j) általános forgalmi adó (a továbbiakban: ÁFA) finanszírozására, kivév
 
 k) gépek és berendezések lízingszerződésével összefüggő költségeinek finanszírozására;
 
-l)[^7] a támogatási kérelem befogadásáról szóló végzésben szereplő befogadási dátumot megelőzően megkezdett beruházáshoz.
+l)[^11] a támogatási kérelem befogadásáról szóló végzésben szereplő befogadási dátumot megelőzően megkezdett beruházáshoz.
 
 (3) Amennyiben a közösségi jogszabályok, illetve az Európai Mezőgazdasági Vidékfejlesztési Alap által finanszírozott közvetlen támogatási rendszerek korlátozzák a termelést, úgy a korlátot túllépő termelésnövekedést eredményező beruházáshoz e rendelet alapján nyújtott hitel nem használható fel.
 
-[^6]: A 3. § (1) bekezdése a 134/2012. (XII. 21.) VM rendelet 14. §-ával megállapított szöveg.
-[^7]: A 3. § (2) bekezdésének l) pontja a 151/2009. (XI. 6.) FVM rendelet 2. §-ával megállapított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a rendelkezést a 2009. október 11. után benyújtott hitelkérelmekre kell alkalmazni.
+[^10]: A 3. § (1) bekezdése a 134/2012. (XII. 21.) VM rendelet 14. §-ával megállapított szöveg.
+[^11]: A 3. § (2) bekezdésének l) pontja a 151/2009. (XI. 6.) FVM rendelet 2. §-ával megállapított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a rendelkezést a 2009. október 11. után benyújtott hitelkérelmekre kell alkalmazni.
