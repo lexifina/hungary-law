@@ -14,7 +14,7 @@
 
 ## i: diszkont kamatláb a támogatás odaítélésének napján[^1.]
 
-2. számú melléklet a 108/2007. (IX. 24.) FVM rendelethez[^38]
+2. számú melléklet a 108/2007. (IX. 24.) FVM rendelethez[^42]
 
 ## ZÁRADÉKa „Sikeres Magyarországért” Agrár Fejlesztési Hitelprogram keretében benyújtott hitelkérelemhez
 
@@ -28,7 +28,7 @@
 
 ## Adóazonosító jel:
 
-## Regisztrációs szám:
+## Ügyfél-azonosító:
 
 ## A kért hitel összege:
 
@@ -49,4 +49,4 @@ aláírás
 (az illetékes megyei kormányhivatal mezőgazdasági szakigazgatási szerve)
 
 [^1.]: A támogatás odaítélésének napja az MFB ügylettel kapcsolatos döntéshozatalának dátuma.
-[^38]: A 2. számú melléklet a 134/2012. (XII. 21.) VM rendelet 12. §-a szerint módosított szöveg. [A 70/2013. (VII. 31.) VM rendelet 75. §-ával elrendelt módosítás, amely szerint az „illetékes megyei Mezőgazdasági Szakigazgatási Hivatal” szövegrész helyébe az „illetékes megyei kormányhivatal földművelésügyi igazgatósága” szöveg lép, nem vezethető át.]
+[^42]: A 2. számú melléklet a 134/2012. (XII. 21.) VM rendelet 12. §-a, a 36/2014. (IV. 4.) VM rendelet 18. § c) pontja szerint módosított szöveg. [A 70/2013. (VII. 31.) VM rendelet 75. §-ával elrendelt módosítás, amely szerint az „illetékes megyei Mezőgazdasági Szakigazgatási Hivatal” szövegrész helyébe az „illetékes megyei kormányhivatal földművelésügyi igazgatósága” szöveg lép, nem vezethető át.]

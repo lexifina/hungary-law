@@ -22,31 +22,33 @@ f) beruházás: a számvitelről szóló 2000. évi C. törvény 3. §-a (4) bek
 
 g) egyszerű pótló beruházás: a mezőgazdasági csoportmentességi rendelet 2. cikkének 17. pontja szerinti beruházás;
 
-h) hitelintézet: a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény 5. §-ában meghatározott pénzügyi intézmény;
+h)[^3] hitelintézet: a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényben meghatározott pénzügyi intézmény;
 
 i) EURIBOR: a frankfurti bankközi piacon jegyzett, az Európai Központi Bankra vonatkozó szabályzatának mindenkori előírásai szerint megállapított ajánlati kamatláb euróra vonatkoztatva, alakulása a Reuters Monitor megfelelő oldalán követhető figyelemmel;
 
-j) kezességvállaló intézmény: a Magyar Köztársaság 2007. évi költségvetéséről szóló 2006. évi CXXVII. törvény 40. és 41. §-a alapján viszontgaranciával bíró kezességvállalással foglalkozó pénzügyi vállalkozás, illetve nem gazdasági társaságként működő jogi személy, a Hitelgarancia Zrt. és az Agrár Vállalkozási Hitelgarancia Alapítvány;
+j)[^4] kezességvállaló intézmény: a Garantiqa Hitelgarancia Zrt. és az Agrár Vállalkozási Hitelgarancia Alapítvány;
 
-k)[^3] támogatástartalom: az állami támogatás forintban számolt támogatási egyenértéke;
+k)[^5] támogatástartalom: az állami támogatás forintban számolt támogatási egyenértéke;
 
 l) támogatási intenzitás: a támogatástartalom és az elszámolható költségek jelenértékének hányadosa, százalékos formában kifejezve;
 
-m)[^4] támogatástartalomról szóló igazolás: a hitel, illetve az intézményi kezességvállalás támogatástartalmát, forint és euro összegben is tartalmazó, valamint a támogatási kategóriát megjelölő igazolás;
+m)[^6] támogatástartalomról szóló igazolás: a hitel, illetve az intézményi kezességvállalás támogatástartalmát, forint és euro összegben is tartalmazó, valamint a támogatási kategóriát megjelölő igazolás;
 
-n)[^5] támogatást nyújtó szerv: MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság (a továbbiakban: MFB Zrt.), illetve kezességvállalás esetén a kezességvállaló intézmények;
+n)[^7] támogatást nyújtó szerv: MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság (a továbbiakban: MFB Zrt.), illetve kezességvállalás esetén a kezességvállaló intézmények;
 
-o)[^6] hitelprogram: az MFB Zrt. által biztosított forrás terhére működtetett Új Magyarország (ezt megelőzően: Sikeres Magyarországért) Agrár Fejlesztési Hitelprogram;
+o)[^8] hitelprogram: az MFB Zrt. által biztosított forrás terhére működtetett Új Magyarország (ezt megelőzően: Sikeres Magyarországért) Agrár Fejlesztési Hitelprogram;
 
-p)[^7] nehéz helyzetben lévő vállalkozás: az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet 6. §-a szerinti vállalkozás;
+p)[^9] nehéz helyzetben lévő vállalkozás: az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet 6. §-a szerinti vállalkozás;
 
-q)[^8] mezőgazdasági csekély összegű (de minimis) rendelet: az EK-Szerződés 87. és 88. cikkének a mezőgazdasági termelőágazatban nyújtott csekély összegű (de minimis) támogatásokra való alkalmazásáról szóló 2007. december 20-i 1535/2007/EK bizottsági rendelet.
+q)[^10] mezőgazdasági csekély összegű (de minimis) rendelet: az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a mezőgazdasági ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1408/2013/EU bizottsági rendelet.
 
 [^1]: Az 1. § a) pontja a 134/2012. (XII. 21.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § b) pontja a 134/2012. (XII. 21.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^3]: Az 1. § k) pontja a 134/2012. (XII. 21.) VM rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^4]: Az 1. § m) pontja a 134/2012. (XII. 21.) VM rendelet 1. § (3) bekezdésével megállapított szöveg.
-[^5]: Az 1. § n) pontja a 134/2012. (XII. 21.) VM rendelet 1. § (3) bekezdésével megállapított szöveg.
-[^6]: Az 1. § o) pontja a 78/2009. (VI. 30.) FVM rendelet 9. § (2) bekezdésével megállapított szöveg, e módosító rendelet 9. § (1) bekezdése alapján a 2009. július 3-át követően benyújtott hitelkérelmek esetén kell alkalmazni.
-[^7]: Az 1. § p) pontja a 134/2012. (XII. 21.) VM rendelet 1. § (4) bekezdésével megállapított szöveg.
-[^8]: Az 1. § q) pontját a 134/2012. (XII. 21.) VM rendelet 1. § (5) bekezdése iktatta be.
+[^3]: Az 1. § h) pontja a 36/2014. (IV. 4.) VM rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^4]: Az 1. § j) pontja a 36/2014. (IV. 4.) VM rendelet 14. § (2) bekezdésével megállapított szöveg.
+[^5]: Az 1. § k) pontja a 134/2012. (XII. 21.) VM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^6]: Az 1. § m) pontja a 134/2012. (XII. 21.) VM rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^7]: Az 1. § n) pontja a 134/2012. (XII. 21.) VM rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^8]: Az 1. § o) pontja a 78/2009. (VI. 30.) FVM rendelet 9. § (2) bekezdésével megállapított szöveg, e módosító rendelet 9. § (1) bekezdése alapján a 2009. július 3-át követően benyújtott hitelkérelmek esetén kell alkalmazni.
+[^9]: Az 1. § p) pontja a 134/2012. (XII. 21.) VM rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^10]: Az 1. § q) pontját a 134/2012. (XII. 21.) VM rendelet 1. § (5) bekezdése iktatta be, szövege a 36/2014. (IV. 4.) VM rendelet 14. § (3) bekezdésével megállapított szöveg.

@@ -1,4 +1,4 @@
-6. § (1)[^26] Az egy projekthez nyújtható, államháztartási forrásból származó összes támogatás maximális intenzitása a 3. § (1) bekezdésének a) és c) pontja szerinti hitelcél esetén nem haladhatja meg:
+6. § (1)[^29] Az egy projekthez nyújtható, államháztartási forrásból származó összes támogatás maximális intenzitása a 3. § (1) bekezdésének a) és c) pontja szerinti hitelcél esetén nem haladhatja meg:
 
 a) a beruházás értékének 40%-át;
 
@@ -6,7 +6,7 @@ b) a Nemzeti Vidékfejlesztési Terv kihirdetéséről, valamint az Európai Mez
 
 c) ha a beruházás célja a környezetvédelemre, az állattartás higiéniai körülményeinek javítására, illetve az állatokkal való kíméletes bánásmódra vonatkozó újonnan bevezetett közösségi minimumszabályok betartásához szükséges beruházások megvalósítása, akkor kedvezőtlen helyzetű térségek kategóriájába tartozó területek és települések esetén 75%-át, illetve egyéb régiókban 60%-át. A többlettámogatás a beruházás miatti szükséges többletköltségre korlátozódik és nem alkalmazható olyan beruházások esetén, amelyek a termelési kapacitás növekedését eredményezik.
 
-(2)[^27] Az egyedi vállalkozásoknak nyújtott, a 3. § (1) bekezdés a)–c) pontja szerinti hitelcél szerinti legmagasabb támogatás nem haladhatja meg a 400 000, azaz négyszázezer eurót bármely három pénzügyi évből álló bármely periódus során, vagy az 500 000, azaz ötszázezer eurót, ha a hitelfelvevő vállalkozás az 1698/2005/EK tanácsi rendelet 36. cikk a) pont i, ii és iii alpontjában említett kedvezőtlen adottságú térségben található.
+(2)[^30] Az egyedi vállalkozásoknak nyújtott, a 3. § (1) bekezdés a)–c) pontja szerinti hitelcél szerinti legmagasabb támogatás nem haladhatja meg a 400 000, azaz négyszázezer eurót bármely három pénzügyi évből álló bármely periódus során, vagy az 500 000, azaz ötszázezer eurót, ha a hitelfelvevő vállalkozás az 1698/2005/EK tanácsi rendelet 36. cikk a) pont i, ii és iii alpontjában említett kedvezőtlen adottságú térségben található.
 
-[^26]: A 6. § (1) bekezdés bevezető szövegrésze a 78/2009. (VI. 30.) FVM rendelet 9. § (3) bekezdésével megállapított szöveg, e módosító rendelet 9. § (1) bekezdése alapján a 2009. július 3-át követően benyújtott hitelkérelmek esetén kell alkalmazni.
-[^27]: A 6. § (2) bekezdése a 134/2012. (XII. 21.) VM rendelet 6. §-ával megállapított szöveg.
+[^29]: A 6. § (1) bekezdés bevezető szövegrésze a 78/2009. (VI. 30.) FVM rendelet 9. § (3) bekezdésével megállapított szöveg, e módosító rendelet 9. § (1) bekezdése alapján a 2009. július 3-át követően benyújtott hitelkérelmek esetén kell alkalmazni.
+[^30]: A 6. § (2) bekezdése a 134/2012. (XII. 21.) VM rendelet 6. §-ával megállapított szöveg.
