@@ -1,0 +1,3 @@
+## 20. § A 140/2007. (XI. 28.) FVM rendelet 10. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+## „(3) Ez a rendelet az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásról és az 1698/2005/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1305/2013/EU európai parlamenti és tanácsi rendelet, valamint az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásról szóló 1698/2005/EK tanácsi rendelet részletes alkalmazási szabályainak megállapításáról szóló, 2006. december 15-i 1974/2006/EK bizottsági rendelet 27. cikkének végrehajtásához szükséges rendelkezéseket állapít meg.”
