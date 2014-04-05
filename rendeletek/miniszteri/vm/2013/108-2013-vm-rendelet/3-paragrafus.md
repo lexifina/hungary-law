@@ -8,7 +8,7 @@ ba) nem rendelkezik adók módjára behajtható köztartozással vagy lejárt es
 
 bb) nem áll felszámolási, végelszámolási eljárás alatt,
 
-bc) nem minősül nehéz helyzetben lévő vállalkozásnak,
+bc)[^4]
 
 bd) megfelel a rendezett munkaügyi kapcsolatok feltétel követelményeinek,
 
@@ -20,10 +20,15 @@ ca) mekkora összegű általános csekély összegű (de minimis) támogatást v
 
 cb) milyen mértékű kamattámogatást kíván igénybe venni;
 
-d) vállalja, hogy a hitelszerződés módosítása esetén annak bekövetkezésétől számított harminc napon belül az új hitelszerződés másolatát megküldi az MVH részére.
+d) vállalja, hogy a hitelszerződés módosítása esetén annak bekövetkezésétől számított harminc napon belül az új hitelszerződés másolatát megküldi az MVH részére;
+
+e)[^5] megfelel az agrár- és vidékfejlesztési állami támogatásokkal kapcsolatos egyes eljárási kérdésekről szóló 353/2012. (XII. 13.) Korm. rendelet 11/A. §-ában meghatározott feltételeknek.
 
 (2) Kamattámogatás a hitelprogram keretében olyan – ideértve az élelmiszeripai célú forgóeszköz hitel kiváltását szolgáló – 2014. június 30-áig megkötött hitelszerződés esetén nyújtható,
 
 a) amelynek a lejárata legfeljebb 6 év, azon belül legfeljebb 3 év türelmi idővel,
 
 b) amelynek a hitelösszege legalább 5 millió forint, legfeljebb 500 millió forint.
+
+[^4]: A 3. § (1) bekezdés b) pont bc) alpontját a 36/2014. (IV. 4.) VM rendelet 100. §-a hatályon kívül helyezte.
+[^5]: A 3. § (1) bekezdés e) pontját a 36/2014. (IV. 4.) VM rendelet 97. §-a iktatta be.
