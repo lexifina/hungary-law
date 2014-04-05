@@ -20,7 +20,7 @@ g)[^5] mezőgazdasági termelő: az a természetes személy, jogi személy, aki/
 
 h)[^6]
 
-i)[^7] de minimis támogatás: a Szerződés 87. és 88. cikkének a de minimis támogatásokra való alkalmazásáról szóló, 2006. december 15-i 1998/2006/EK bizottsági rendelet (a továbbiakban: általános „de minimis” rendelet) alapján nyújtott támogatás.
+i)[^7] de minimis támogatás: az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet (a továbbiakban: általános „de minimis” rendelet) alapján nyújtott támogatás.
 
 (2)[^8] Az e rendeletben nem szabályozott kérdésekben az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló támogatások igénybevételének általános szabályairól szóló 23/2007. (IV. 17.) FVM rendeletben foglaltakat kell megfelelően alkalmazni.
 
@@ -30,5 +30,5 @@ i)[^7] de minimis támogatás: a Szerződés 87. és 88. cikkének a de minimis 
 [^4]: A 2. § (1) bekezdés e) pontja a 112/2012. (XI. 7.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^5]: A 2. § (1) bekezdés g) pontját a 154/2008. (XI. 26.) FVM rendelet 1. § (2) bekezdése iktatta be, szövege a 112/2012. (XI. 7.) VM rendelet 1. § (2) bekezdésével megállapított, a 22/2014. (III. 14.) VM rendelet 41. § b) pontja szerint módosított szöveg.
 [^6]: A 2. § (1) bekezdés h) pontját a 168/2009. (XII. 15.) FVM rendelet 1. § (2) bekezdése iktatta be, hatályon kívül helyezte a 91/2011. (X. 3.) VM rendelet 12. § a) pontja.
-[^7]: A 2. § (1) bekezdés i) pontját a 91/2011. (X. 3.) VM rendelet 1. § (2) bekezdése iktatta be.
+[^7]: A 2. § (1) bekezdés i) pontját a 91/2011. (X. 3.) VM rendelet 1. § (2) bekezdése iktatta be, szövege a 36/2014. (IV. 4.) VM rendelet 5. §-ával megállapított szöveg.
 [^8]: A 2. § (2) bekezdését a 90/2007. (VIII. 23.) FVM rendelet 9. § (2) bekezdése hatályon kívül helyezte, újonnan a 96/2008. (VII. 25.) FVM rendelet 1. § (3) bekezdése iktatta be.

@@ -34,7 +34,7 @@ b) a szaktanácsadási szerződés számát, valamint a „Támogatás elszámol
 
 (8) Elszámolható költségnek az ügyféllel szerződéses kapcsolatban álló TSzK által kiállított, az ügyfél által pénzügyileg rendezett számlával, a pénzügyi teljesítését igazoló bizonylattal és a szaktanácsadási napló kivonattal alátámasztott – az 1. számú mellékletben meghatározott – szaktanácsadási szolgáltatás díja minősül.
 
-(9) Az erdőgazdálkodó ügyfél az egyesített támogatási-kifizetési kérelmében köteles nyilatkozni a kérelem benyújtását megelőző kettő pénzügyi évben és az egyesített támogatási-kifizetési kérelem benyújtásának pénzügyi évében kapott valamennyi, az általános „de minimis” rendelet hatálya alá tartozó csekély összegű támogatás összegéről.
+(9)[^28] Az erdőgazdálkodó ügyfélnek az egyesített támogatási-kifizetési kérelmének benyújtásakor meg kell felelnie az agrár- és vidékfejlesztési állami támogatásokkal kapcsolatos egyes eljárási kérdésekről szóló 353/2012. (XII. 13.) Korm. rendelet 11/A. §-ában meghatározott feltételeknek.
 
 [^22]: A 6. §-t megelőző alcím a 112/2012. (XI. 7.) VM rendelet 3. §-ával megállapított szöveg.
 [^23]: A 6. § a 112/2012. (XI. 7.) VM rendelet 4. §-ával megállapított szöveg.
@@ -42,3 +42,4 @@ b) a szaktanácsadási szerződés számát, valamint a „Támogatás elszámol
 [^25]: A 6. § (3) bekezdése a 86/2013. (IX. 27.) VM rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^26]: A 6. § (6) bekezdése a 18/2013. (III. 21.) VM rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^27]: A 6. § (7) bekezdése a 86/2013. (IX. 27.) VM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^28]: A 6. § (9) bekezdése a 36/2014. (IV. 4.) VM rendelet 6. §-ával megállapított szöveg.

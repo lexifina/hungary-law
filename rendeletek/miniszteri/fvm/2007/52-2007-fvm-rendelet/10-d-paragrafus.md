@@ -1,4 +1,4 @@
-## 10/C. §[^53] E rendeletnek az egyes agrártárgyú miniszteri rendeletek módosításáról szóló 18/2013. (III. 21.) VM rendelet (a továbbiakban: 18/2013. (III. 21.) VM rendelet) által megállapított 8. § (10) bekezdését a 18/2013. (III. 21.) VM rendelet hatálybalépésekor[^54] folyamatban levő ügyekben is alkalmazni kell.
+## 10/C. §[^55] E rendeletnek az egyes agrártárgyú miniszteri rendeletek módosításáról szóló 18/2013. (III. 21.) VM rendelet (a továbbiakban: 18/2013. (III. 21.) VM rendelet) által megállapított 8. § (10) bekezdését a 18/2013. (III. 21.) VM rendelet hatálybalépésekor[^56] folyamatban levő ügyekben is alkalmazni kell.
 
-[^53]: A 10/C. §-t a 18/2013. (III. 21.) VM rendelet 3. § (4) bekezdése iktatta be.
-[^54]: A hatálybalépés napja: 2013. március 22.
+[^55]: A 10/C. §-t a 18/2013. (III. 21.) VM rendelet 3. § (4) bekezdése iktatta be.
+[^56]: A hatálybalépés napja: 2013. március 22.
