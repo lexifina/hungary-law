@@ -1,12 +1,12 @@
 ## hatálya alá tartozó támogatásokat tartalmaz.
 
-1. melléklet a 120/2012. (XI. 23.) VM rendelethez
+1. melléklet a 120/2012. (XI. 23.) VM rendelethez[^16]
 
 ## Kamattámogatási kérelem adattartalma
 
 1. Vállalkozás megnevezése
 
-2. Vállalkozás MVH által kiadott regisztrációs száma
+2. Vállalkozás MVH által kiadott ügyfél-azonosítója
 
 3. Hitelszerződés vagy hitelkérelem azonosítószáma
 
@@ -14,7 +14,7 @@
 
 5. A vállalkozás nyilatkozata arról, hogy
 
-5.1. mekkora összegű általános csekély összegű (de minimis) támogatást vett igénybe a kamattámogatási kérelem benyújtását megelőző kettő pénzügyi évben és a folyamatban lévő pénzügyi évben,
+5.1. megfelel az agrár- és vidékfejlesztési állami támogatásokkal kapcsolatos egyes eljárási kérdésekről szóló 353/2012. (XII. 13.) Korm. rendelet 11/A. §-ában meghatározott feltételeknek,
 
 5.2. milyen mértékű kamattámogatást kíván igénybe venni,
 
@@ -28,8 +28,10 @@
 
 5.7. hozzájárul ahhoz,
 
-5.7.1. hogy a pénzügyi intézmény a vállalkozás szabad csekély összegű (de minimis) keretének ellenőrzése céljából az MVH-tól erre vonatkozóan adatokat kérjen a vállalkozás regisztrációs száma alapján,
+5.7.1. hogy a pénzügyi intézmény a vállalkozás szabad csekély összegű (de minimis) keretének ellenőrzése céljából az MVH-tól erre vonatkozóan adatokat kérjen a vállalkozás ügyfél-azonosítója alapján,
 
 5.7.2. hogy a rendelkezésre álló szabad csekély összegű (de minimis) keret alapján kerüljön megállapításra az igénybe vehető kamattámogatás mértéke és ezen összeg mértékéig az MVH zárolás, lekötés érdekében eljárjon.
 
 6. Keltezés, aláírás
+
+[^16]: Az 1. melléklet a 36/2014. (IV. 4.) VM rendelet 80. §-a, 81. § c)–d) pontja szerint módosított szöveg.

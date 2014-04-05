@@ -2,9 +2,9 @@
 
 1. csekély összegű (de minimis) támogatás:
 
-a) a Szerződés 87. és 88. cikkének a de minimis támogatásokra való alkalmazásáról szóló, 2006. december 15-i 1998/2006/EK bizottsági rendelet szerinti támogatás [a továbbiakban: általános csekély összegű (de minimis) támogatás],
+a)[^1] az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet szerinti támogatás [a továbbiakban: általános csekély összegű (de minimis) támogatás],
 
-b) a Szerződés 87. és 88. cikkének a mezőgazdasági termelőágazatban nyújtott csekély összegű (de minimis) támogatásokra való alkalmazásáról szóló, 2007. december 20-i 1535/2007/EK bizottsági rendelet szerinti támogatás [a továbbiakban: mezőgazdasági csekély összegű (de minimis) támogtás], továbbá
+b)[^2] az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a mezőgazdasági ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1408/2013/EU bizottsági rendelet szerinti támogatás [a továbbiakban: mezőgazdasági csekély összegű (de minimis) támogatás], továbbá
 
 c) a Szerződés 87. és 88. cikkének a halászati ágazatban nyújtott csekély összegű (de minimis) támogatásokra való alkalmazásáról és az 1860/2004/EK rendelet módosításáról szóló, 2007. július 24-i 875/2007/EK bizottsági rendelet szerinti támogatás [a továbbiakban: halászati csekély összegű (de minimis) támogatás];
 
@@ -12,11 +12,11 @@ c) a Szerződés 87. és 88. cikkének a halászati ágazatban nyújtott csekél
 
 3. hitelkérelemhez kapcsolódó kamattámogatási kérelem: e rendelet hatályba lépését követően benyújtott új hitelkérelemhez vagy hitelszerződést módosító kérelemhez kapcsolódó kamattámogatási kérelem, amely a hitel teljes futamidejére vonatkozik;
 
-4.[^1] költségátalány: a 2015. január 31-ig a Mezőgazdasági és Vidékfejlesztési Hivatalhoz (a továbbiakban: MVH) beérkezett és elfogadott támogatáslehívási kérelmek esetében az elfogadott kamattámogatási összeg 0,6 %-a;
+4.[^3] költségátalány: a 2015. január 31-ig a Mezőgazdasági és Vidékfejlesztési Hivatalhoz (a továbbiakban: MVH) beérkezett és elfogadott támogatáslehívási kérelmek esetében az elfogadott kamattámogatási összeg 0,6 %-a;
 
 5. kezességvállaló intézmény: Agrár- Vállalkozási Hitelgarancia Alapítvány;
 
-6. nehéz helyzetben lévő vállalkozás: az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet 6. §-ában meghatározott vállalkozás;
+6.[^4]
 
 7. önálló kamattámogatási kérelem: e rendelet hatálybalépése előtt megkötött, e rendelet hatálybalépésének napján és azt követően hatályos hitelszerződéssel összefüggésben, a hitel kamattámogatási kérelem beadásától számított hátralévő futamidejére vonatkozó kamattámogatási kérelem;
 
@@ -28,4 +28,7 @@ c) a Szerződés 87. és 88. cikkének a halászati ágazatban nyújtott csekél
 
 11. vállalkozás: a hitelprogramban meghatározott jogosultsági feltételeknek megfelelő egyéni vállalkozás, gazdasági társaság, szövetkezet, európai részvénytársaság, mezőgazdasági őstermelő.
 
-[^1]: Az 1. § 4. pontja a 130/2013. (XII. 21.) VM rendelet 43. § a) pontja szerint módosított szöveg.
+[^1]: Az 1. § 1. pont a) alpontja a 36/2014. (IV. 4.) VM rendelet 76. §-ával megállapított szöveg.
+[^2]: Az 1. § 1. pont b) alpontja a 36/2014. (IV. 4.) VM rendelet 76. §-ával megállapított szöveg.
+[^3]: Az 1. § 4. pontja a 130/2013. (XII. 21.) VM rendelet 43. § a) pontja szerint módosított szöveg.
+[^4]: Az 1. § 6. pontját a 36/2014. (IV. 4.) VM rendelet 82. §-a hatályon kívül helyezte.
