@@ -1064,6 +1064,28 @@
 
 ## 11.6. Pontszám: 1
 
+## 12. Spirometriás vizsgálaton résztvevő krónikus obstruktív tüdőbetegek aránya (COPD%) [3. § (1) bekezdés p) pontja]
+
+## 12.1. Célcsoport: A háziorvosi szolgálathoz bejelentkezett krónikus obstruktív tüdőbetegségben szenvedő biztosítottak.
+
+## 12.2. Jelentése: A háziorvosi szolgáltatóhoz bejelentkezett krónikus obstruktív tüdőbetegek közül azok aránya, akik a tárgyidőszakot megelőző 12 hónapban legalább egy alkalommal légzésfunkciós vizsgálaton vettek részt.
+
+## 12.3. Számítás: COPD% = SPIRO / BBCOPD * 100
+
+## COPD%: a háziorvosi szolgálathoz bejelentkezett spirometriás vizsgálaton résztvevő krónikus obstruktív tüdőbetegek aránya
+
+## SPIRO: a háziorvosi szolgálathoz bejelentkezett krónikus obstruktív betegek közül a tárgyidőszakot megelőző 12 hónapban légzésfunkciós vizsgálaton résztvevők száma
+
+## BBCOPD: a háziorvosi szolgálathoz bejelentkezett azon biztosítottak száma, akiknél a betegséget diagnosztizálták és a tárgyidőszakot megelőző 12 hónapban legalább 3 alkalommal váltottak ki obstruktív légúti betegségek kezelésére szolgáló gyógyszert
+
+## 12.4. Adatforrás: gyógyszer vényforgalmi adatok, járóbeteg-szakellátás adatok.
+
+## 12.5. Célérték:
+
+## Azok a praxisok részesülnek pontozásban, amelyek elérik az indikátor havi szinten megállapított felső kvartilisének alsó határát.
+
+## 12.6. Pontszám: 1
+
 ## II. Gyermek körzet indikátorai
 
 ## 1.
@@ -1090,7 +1112,7 @@
 
 ## Azok a praxisok részesülnek pontozásban, amelyek elérik az indikátor havi szinten megállapított felső kvartilisének alsó határát.
 
-## 2.6. Pontszám: 1,875
+## 2.6. Pontszám: 2
 
 ## 3. Vaspótló kezelés a 10–18 éves lányok között (HSZV10–18%) [3. § (2) bekezdés c) pontja]
 
@@ -1156,7 +1178,7 @@
 
 |  | 21 | Budapest |  | 4,9 |
 
-## 3.6. Pontszám: 1,875
+## 3.6. Pontszám: 2
 
 ## 4. Továbbküldési arány a szakellátásba (SZAK%) [3. § (2) bekezdés d) pontja]
 
@@ -1222,7 +1244,7 @@
 
 |  | 21 | Budapest |  | 1,5 |
 
-## 4.6. Pontszám: 1,875
+## 4.6. Pontszám: 2
 
 ## 5. Ügyeleti ellátásban részesültek aránya (ÜGY%) [3. § (2) bekezdés e) pontja]
 
@@ -1246,7 +1268,7 @@
 
 ## Azok a praxisok részesülnek pontozásban, amelyek nem haladják meg az indikátor havi szinten megállapított alsó kvartilisének felső határát.
 
-## 5.6. Pontszám: 1,875
+## 5.6. Pontszám: 2
 
 ## 6. Antibiotikumos kezelés gyakorisága (HSZA0–18%) [3. § (2) bekezdés f) pontja]
 
@@ -1312,7 +1334,7 @@
 
 |  | 21 | Budapest |  | 2,9 |
 
-## 6.6. Pontszám: 1,875
+## 6.6. Pontszám: 2
 
 ## 7. Colecalciferol belsőleges oldatos csepp adása (HSZCI%) [3. § (2) bekezdés g) pontja]
 
@@ -1336,7 +1358,7 @@
 
 ## Azok a praxisok részesülnek pontozásban, amelyek elérik az indikátor havi szinten megállapított felső kvartilisének alsó határát.
 
-## 7.6. Pontszám: 1,875
+## 7.6. Pontszám: 2
 
 ## 8. Szűrővizsgálatok végzése (HSZSZ%) [3. § (2) bekezdés h) pontja]
 
@@ -1360,7 +1382,7 @@
 
 ## Azok a praxisok részesülnek pontozásban, amelyek elérik az indikátor havi szinten megállapított felső kvartilisének alsó határát.
 
-## 8.6. Pontszám: 1,875
+## 8.6. Pontszám: 2
 
 ## 9. Kizárólag anyatejes táplálásban részesült csecsemők aránya (HSZSZCS%) [3. § (2) bekezdés i) pontja]
 
@@ -1384,9 +1406,9 @@
 
 ## Azok a praxisok részesülnek pontozásban, amelyek elérik az indikátor havi szinten megállapított felső kvartilisének alsó határát.
 
-## 9.6. Pontszám: 1,875
+## 9.6. Pontszám: 2
 
-2. melléklet a 11/2011. (III. 30.) NEFMI rendelethez[^13]
+2. melléklet a 11/2011. (III. 30.) NEFMI rendelethez[^15]
 
 I.
 
@@ -1538,4 +1560,4 @@ II.
 
 4.3. DOT korlát: 2000/negyedév
 
-[^13]: A 2. melléklet a 2/2012. (I. 3.) NEFMI rendelet 24. §-a, a 10/2012. (VII. 19.) EMMI rendelet 27. §-a, a 35/2012. (X. 31.) EMMI rendelet 2. §-a, az 56/2013. (VII. 31.) EMMI rendelet 44. §-a, a 76/2013. (XII. 10.) EMMI rendelet 7. §-a szerint módosított szöveg.
+[^15]: A 2. melléklet a 2/2012. (I. 3.) NEFMI rendelet 24. §-a, a 10/2012. (VII. 19.) EMMI rendelet 27. §-a, a 35/2012. (X. 31.) EMMI rendelet 2. §-a, az 56/2013. (VII. 31.) EMMI rendelet 44. §-a, a 76/2013. (XII. 10.) EMMI rendelet 7. §-a szerint módosított szöveg.
