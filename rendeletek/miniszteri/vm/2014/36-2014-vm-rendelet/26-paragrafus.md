@@ -1,0 +1,1 @@
+## „c) az együttműködés keretében megtermelt terméket felvásárolja, és az ellenértéket – a termeltetési előleg beszámításával – a szakmaközi szervezetekről és az agrárpiaci szabályozás egyes kérdéseiről szóló 2012. évi CXXVIII. törvény 19. §-ában foglaltak szerint – egyenlíti ki,”

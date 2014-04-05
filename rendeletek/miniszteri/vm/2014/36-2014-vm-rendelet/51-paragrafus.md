@@ -1,0 +1,1 @@
+## 50. § Az 50/2010. (IV. 27.) FVM rendelet 2. § (3) bekezdésében „az általános „de minimis” rendelet 2. és 3. cikkében” szövegrész helyébe „az általános „de minimis” rendelet 3. és 6. cikkében” szöveg lép.

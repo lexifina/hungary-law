@@ -1,0 +1,3 @@
+## 58. § A 66/2012. (VII. 10.) VM rendelet 4. § (6) bekezdése helyébe a következő rendelkezés lép:
+
+## „(6) Ha e rendelet alapján támogatásra jogosult ügyfél számára a (4) és (5) bekezdésben foglaltakra figyelemmel megállapított támogatási összeg az agrár- és vidékfejlesztési állami támogatásokkal kapcsolatos egyes eljárási kérdésekről szóló 353/2012. (XII. 13.) Korm. rendelet 11. § (5) bekezdésében meghatározott rendeletek hatálya alá tartozó támogatási összegekkel összevonva meghaladja az általános de minimis rendelet 3. cikk 2. bekezdése szerinti küszöbértéket, akkor az e rendelet alapján jogosult támogatási összeg megfelelően csökkentésre kerül.”

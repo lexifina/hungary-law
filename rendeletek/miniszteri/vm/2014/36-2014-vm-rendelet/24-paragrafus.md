@@ -1,0 +1,1 @@
+## „e) termeltetési szerződés: a Polgári Törvénykönyvről szóló 2013. évi V. törvény alapján kötött mezőgazdasági vállalkozási szerződés, amelyben a szerződő felek (a termeltető és az állattartó) tevékenységeiket összehangolják;”
