@@ -44,7 +44,7 @@
 
 | 4.1.3. | agyag | 94 | 80 |  |  |  |  |  |
 
-2. számú melléklet a 102/2008. (VIII. 8.) FVM rendelethez[^31]
+2. számú melléklet a 102/2008. (VIII. 8.) FVM rendelethez[^35]
 
 ## Támogatási kérelem az erdők felújításának csekély összegű (de minimis) támogatásához
 
@@ -52,7 +52,7 @@ A támogatási kérelmet az erdőrészlet elhelyezkedése szerint illetékes erd
 
 1. Az ügyfél adatai
 
-|  | Ügyfél-regisztrációs szám: | Erdőgazdálkodói kód: |
+|  | Ügyfél-azonosító: | Erdőgazdálkodói kód: |
 
 |  | _ _ _ _ _ _ _ _ _ | _ _ _ _ _ _ _ _ _ |
 
@@ -190,8 +190,6 @@ c) köztartozással nem rendelkezem;
 
 d) megfelelek az államháztartásról szóló 1992. évi XXXVIII. törvény (a továbbiakban: Áht.) 15. §-ban megfogalmazott követelményeinek;
 
-e) nem minősülök nehéz helyzetben lévő vállalkozásnak.
-
 Hozzájárulok, hogy a Nemzeti Adó- és Vámhivatal (NAV), az Országos Egészségbiztosítási Pénztár, az Országos Nyugdíjbiztosítási Főigazgatóság, illetve azok szervei, továbbá a Magyar Államkincstár az általam a támogatási kérelemben közölt adataimat a támogatási eljárással összefüggésben felhasználják.
 
 Tudomásul veszem, hogy meg nem fizetett köztartozás esetén az Áht. 13/A. § (6) bekezdése alapján az esedékes támogatás a köztartozások megfizetése érdekében visszatartásra kerül.
@@ -202,11 +200,11 @@ a) a 3. pontban foglalt feltételekben bekövetkezett változást 3 napon belül
 
 b) a támogatási kérelemben szereplő tuskózást, erdőfelújítás első kivitelét elvégeztem, vagy az erdőfelújítást befejeztem,
 
-c) az általános de minimis támogatásokkal kapcsolatos jogosultságokat, kötelezettségeket megismertem. Folyó pénzügyi évben és a megelőző két pénzügyi évben az 1998/2006/EK rendelet alapján
+c) az általános de minimis támogatásokkal kapcsolatos jogosultságokat, kötelezettségeket megismertem és megfelelek az agrár- és vidékfejlesztési állami támogatásokkal kapcsolatos egyes eljárási kérdésekről szóló 353/2012. (XII. 13.) Korm. rendelet 11/A. §-ában meghatározott feltételeknek.
 
 □ általános de minimis támogatásban nem részesültem;1
 
-□ általános „de minimis” támogatásban részesültem
+□ általános „de minimis” támogatásban részesültem
 
 ............................................. jogcímen ................................ euró összegben;
 
@@ -234,4 +232,4 @@ ____________________
 
 1 A megfelelő négyzetbe tegyen X-et!
 
-[^31]: A 2. számú melléklet a 24/2011. (III. 28.) VM rendelet 4. §-ával megállapított szöveg.
+[^35]: A 2. számú melléklet a 24/2011. (III. 28.) VM rendelet 4. §-ával megállapított, a 36/2014. (IV. 4.) VM rendelet 32. § c) pontja. és 33–34. §-a szerint módosított szöveg.

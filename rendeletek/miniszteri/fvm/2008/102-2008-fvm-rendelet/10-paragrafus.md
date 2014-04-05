@@ -2,11 +2,11 @@
 
 10. § (1) Az MVH az erdőgazdálkodó által elvégzett, támogatásban részesült tevékenységet a helyszínen, az év bármely szakában ellenőrizheti.
 
-(2)[^24]
+(2)[^27]
 
-(3)[^25] Az MVH az (1) bekezdésben foglaltak teljesítését az erdészeti hatóság közreműködésével látja el.
+(3)[^28] Az MVH az (1) bekezdésben foglaltak teljesítését az erdészeti hatóság közreműködésével látja el.
 
-(4)[^26]
+(4)[^29]
 
 (5) Vis maior bejelentést az elháríthatatlan külső ok (vis maior) esetén alkalmazandó egyes szabályokról, valamint egyes agrár tárgyú miniszteri rendeletek módosításáról szóló 44/2007. (VI. 8.) FVM rendelet (a továbbiakban: vis maior rendelet) alapján az erdőterület fekvése szerint illetékes erdészeti hatósághoz kell benyújtani.
 
@@ -14,8 +14,9 @@
 
 (7) Az illetékes erdészeti hatóság a vis maior rendeletben előírt igazolással és az ellenőrzési jegyzőkönyvvel együtt a vis maior kérelmet megküldi az MVH részére.
 
-(8) E rendelet vonatkozásában az általános de minimis rendelet 3. cikk 3. pontja szerinti nyilvántartást az MVH vezeti.
+(8)[^30] E rendelet vonatkozásában az általános de minimis rendelet 6. cikk 4. pontja szerinti nyivántartást az MVH vezeti.
 
-[^24]: A 10. § (2) bekezdését a 40/2010. (XII. 17.) VM rendelet 9. §-a hatályon kívül helyezte.
-[^25]: A 10. § (3) bekezdése a 40/2010. (XII. 17.) VM rendelet 5. §-ával megállapított szöveg.
-[^26]: A 10. § (4) bekezdését a 40/2010. (XII. 17.) VM rendelet 9. §-a hatályon kívül helyezte.
+[^27]: A 10. § (2) bekezdését a 40/2010. (XII. 17.) VM rendelet 9. §-a hatályon kívül helyezte.
+[^28]: A 10. § (3) bekezdése a 40/2010. (XII. 17.) VM rendelet 5. §-ával megállapított szöveg.
+[^29]: A 10. § (4) bekezdését a 40/2010. (XII. 17.) VM rendelet 9. §-a hatályon kívül helyezte.
+[^30]: A 10. § (8) bekezdése a 36/2014. (IV. 4.) VM rendelet 32. § b) pontja szerint módosított szöveg.

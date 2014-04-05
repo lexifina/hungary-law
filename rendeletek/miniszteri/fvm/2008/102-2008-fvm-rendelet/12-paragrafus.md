@@ -2,6 +2,6 @@
 
 12. § (1) Ez a rendelet a kihirdetését követő nyolcadik napon lép hatályba.
 
-(2)–(3)[^28]
+(2)–(3)[^32]
 
-[^28]: A 12. § (2)–(3) bekezdését a 40/2010. (XII. 17.) VM rendelet 9. §-a hatályon kívül helyezte.
+[^32]: A 12. § (2)–(3) bekezdését a 40/2010. (XII. 17.) VM rendelet 9. §-a hatályon kívül helyezte.
