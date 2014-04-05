@@ -1,4 +1,4 @@
-## 10/A. §[^21] E rendeletnek az egyes nemzeti hatáskörben nyújtott állami támogatásokról szóló miniszteri rendeletek módosításáról szóló 24/2011. (III. 28.) VM rendelettel (a továbbiakban: 1. módosító rendelet) módosított 7. § (1) bekezdését, valamint 8. § (2) bekezdését az 1. módosító rendelet hatálybalépésekor[^22] folyamatban lévő ügyekben is kell alkalmazni.
+## 10/A. §[^24] E rendeletnek az egyes nemzeti hatáskörben nyújtott állami támogatásokról szóló miniszteri rendeletek módosításáról szóló 24/2011. (III. 28.) VM rendelettel (a továbbiakban: 1. módosító rendelet) módosított 7. § (1) bekezdését, valamint 8. § (2) bekezdését az 1. módosító rendelet hatálybalépésekor[^25] folyamatban lévő ügyekben is kell alkalmazni.
 
-[^21]: A 10/A. §-t a 24/2011. (III. 28.) VM rendelet 2. § (4) bekezdése iktatta be.
-[^22]: A hatálybalépés időpontja 2011. március 29.
+[^24]: A 10/A. §-t a 24/2011. (III. 28.) VM rendelet 2. § (4) bekezdése iktatta be.
+[^25]: A hatálybalépés időpontja 2011. március 29.

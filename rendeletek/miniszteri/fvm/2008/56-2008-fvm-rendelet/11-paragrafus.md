@@ -1,4 +1,4 @@
-## 10/C. §[^25] E rendeletnek az egyes agrártárgyú miniszteri rendeletek módosításáról szóló 28/2013. (IV. 30.) VM rendelettel [a továbbiakban: 28/2013. (IV. 30.) VM rendelet] megállapított 8. § (2) bekezdését a 28/2013. (IV. 30.) VM rendelet hatálybalépésekor[^26] folyamatban lévő ügyekben is alkalmazni kell.
+## 10/D. §[^30] Az egyes állatjóléti támogatási tárgyú miniszteri rendeletek módosításáról szóló 33/2014. (IV. 4.)VM rendelettel [a továbbiakban: 33/2014. (IV. 4.) VM rendelet] megállapított 3. § (2) és (3) bekezdését, valamint 8. § (2) bekezdését a 33/2014. (IV. 4.) VM rendelet hatályba lépésekor[^31] folyamatban lévő eljárásokban is alkalmazni kell.
 
-[^25]: A 10/C. §-t a 28/2013. (IV. 30.) VM rendelet 6. §-a iktatta be.
-[^26]: A hatálybalépés napja: 2013. május 2.
+[^30]: A 10/D. §-t a 33/2014. (IV. 4.) VM rendelet 31. §-a iktatta be.
+[^31]: A hatálybalépés időpontja 2014. április 5.
