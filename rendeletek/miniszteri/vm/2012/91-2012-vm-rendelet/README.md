@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-91-20-2
 | --- | --- | --- |
 | 2013-01-01 | 2012-91-20-2Y.1 | 91/2012. (VIII. 29.) VM rendelet |
 | 2013-01-02 | 2012-91-20-2Y.2 | 2010: CXXX. törvény |
+| 2014-04-05 | 2012-91-20-2Y.3 | 36/2014. (IV. 4.) VM rendelet |

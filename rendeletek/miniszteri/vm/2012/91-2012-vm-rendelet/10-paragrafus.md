@@ -1,1 +1,3 @@
-## 9. § Ez a rendelet a Szerződés 87. és 88. cikkének a mezőgazdasági termelőágazatban nyújtott csekély összegű (de minimis) támogatásokra való alkalmazásáról szóló 1535/2007/EK bizottsági rendelet (HL L 337., 2007.12.20., 35. o.) hatálya alá tartozó támogatást tartalmaz.
+## 9. §[^14] Ez a rendelet az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a mezőgazdasági ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1408/2013/EU bizottsági rendelet hatálya alá tartozó támogatást tartalmaz.
+
+[^14]: A 9. § a 36/2014. (IV. 4.) VM rendelet 67. §-ával megállapított szöveg.
