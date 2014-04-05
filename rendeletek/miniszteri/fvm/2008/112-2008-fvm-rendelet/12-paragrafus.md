@@ -30,7 +30,7 @@ b) csak azok a tájékoztató táblák támogathatóak melyek információs fel�
 
 c) a táblák nem tartalmazhatnak vállalkozásra, üzleti tevékenységre vonatkozó információt, reklámot;
 
-d)[^16] útvonal, útirány, illetve helymegjelölő táblák ezen jogcím alapján nem támogathatóak;
+d)[^22] útvonal, útirány, illetve helymegjelölő táblák ezen jogcím alapján nem támogathatóak;
 
 e) az (1) bekezdés a) pontja szerint kialakított táblák pótlásáról, karbantartásáról esztétikus megjelenéséről a támogatási szerződés aláírását követően öt évig kell gondoskodni;
 
@@ -40,7 +40,7 @@ g) internetes megjelenés esetén az információk folyamatos frissítéséről 
 
 h) az (1) bekezdés c) pontja szerint csak azok a tanfolyamok támogathatóak, amelyekben az oktatási idő legalább a napi 6 órát, a létszám a 6 főt eléri;
 
-i)[^17] a tanfolyam megtartásáról az oktatási program megküldésével, legalább 5 nappal korábban írásban értesíteni kell a pályázó lakóhelye, illetve székhelye szerint illetékes megyei kormányhivatal erdészeti igazgatóságát;
+i)[^23] a tanfolyam megtartásáról az oktatási program megküldésével, legalább 5 nappal korábban írásban értesíteni kell a pályázó lakóhelye, illetve székhelye szerint illetékes megyei kormányhivatal erdészeti igazgatóságát;
 
 j) minden oktatási napon jelenléti ívet kell kitölteni.
 
@@ -60,5 +60,5 @@ d) az (1) bekezdés c) pontja szerint legfeljebb 30 000 Ft/oktatási nap, továb
 
 (7) Az (1) bekezdés a) és b) pontja esetében a pályázatok elbírálásakor előnyben részesülnek a szálaló és átalakító üzemmóddal kapcsolatos erdőgazdálkodási munkákra vonatkozó népszerűsítő és tájékoztatási tevékenységek.
 
-[^16]: [A 70/2013. (VII. 31.) VM rendelet 96. § k) pontjával elrendelt módosítás, amely szerint az „MgSzH területi szervét” szövegrész helyébe a „megyei kormányhivatal erdészeti igazgatóságát” szöveg lép, nem vezethető át.]
-[^17]: A 12. § (3) bekezdés i) pontja a 70/2013. (VII. 31.) VM rendelet 96. § k) pontja szerint módosított szöveg.
+[^22]: [A 70/2013. (VII. 31.) VM rendelet 96. § k) pontjával elrendelt módosítás, amely szerint az „MgSzH területi szervét” szövegrész helyébe a „megyei kormányhivatal erdészeti igazgatóságát” szöveg lép, nem vezethető át.]
+[^23]: A 12. § (3) bekezdés i) pontja a 70/2013. (VII. 31.) VM rendelet 96. § k) pontja szerint módosított szöveg.

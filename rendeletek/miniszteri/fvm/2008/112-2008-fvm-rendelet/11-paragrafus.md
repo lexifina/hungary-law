@@ -44,7 +44,7 @@ k) a szabvány 11., 21., 25. számú ábráinak alkalmazása nem kötelező;
 
 l) a gyalogos túraútvonalak esetében az útjelzések festésének igazodnia kell a térképen feltüntetett jelzéshez, attól eltérni csak indokolt esetben lehet;
 
-m)[^15] a felújított és új gyalogos terelő túraútvonalak nyomvonalának koordinátáit EOV formátumban rögzíteni kell, és elektronikus adathordozón (CD; DVD) az erdőterület fekvése szerint illetékes erdészeti igazgatóság részére a kifizetési kérelemmel egyidejűleg meg kell küldeni;
+m)[^21] a felújított és új gyalogos terelő túraútvonalak nyomvonalának koordinátáit EOV formátumban rögzíteni kell, és elektronikus adathordozón (CD; DVD) az erdőterület fekvése szerint illetékes erdészeti igazgatóság részére a kifizetési kérelemmel egyidejűleg meg kell küldeni;
 
 n) a gyalogos túraútvonalak nyomvonalának kialakításakor, helyreállításakor csak az erdő talajának maradandó károsítása nélküli építési jellegű felszíni beavatkozások végezhetőek, de csak idegen anyag elhelyezése nélkül és csak akkor, ha a talajfelszín állapota vagy a domborzati viszonyok miatt a baleset vagy életveszély elhárítása ezt indokolttá teszi;
 
@@ -58,4 +58,4 @@ p) a túraútvonalak megfelelő használatát biztosító karbantartásról ker�
 
 (6) A pályázatok elbírálásakor előnyben részesülnek azok a pályázatok, amelyek szálaló erdőgazdálkodással érintett erdőterületeket érintenek, vagy nem csak útvonalszakaszok, hanem teljes gyalogos túraútvonalak, vagy túraútvonal hálózatok felújítására vonatkoznak.
 
-[^15]: A 11. § (3) bekezdés m) pontja a 19/2014. (III. 12.) VM rendelet 27. § e) pontja szerint módosított szöveg.
+[^21]: A 11. § (3) bekezdés m) pontja a 19/2014. (III. 12.) VM rendelet 27. § e) pontja szerint módosított szöveg.

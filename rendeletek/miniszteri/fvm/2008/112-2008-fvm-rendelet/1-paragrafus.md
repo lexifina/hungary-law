@@ -20,7 +20,7 @@ h) közjóléti igénybevétel szempontjából frekventált erdő: az Országos 
 
 i) non-profit szervezet: alapítvány, közalapítvány, non-profit gazdasági társaság;
 
-j) nehéz helyzetben lévő vállalkozás: a Közösség iránymutatása a nehéz helyzetben lévő vállalkozások megmentéséhez és szerkezetátalakításához nyújtott állami támogatásokról szóló 2004. október 1-i bizottsági közlemény (2004/C 244/02.) 2.1. pontja szerinti vállalkozás;
+j)[^2]
 
 k) özönfaj: fehér akác (Robinia pseudo-acacia) bálványfa (Ailanthus altissima), amerikai (fehér) kőris (Fraxinus americana), amerikai (vörös) kőris (Fraxinus pennsylvanica), zöld juhar (Acer negundo), gyalogakác (Amorpha fruticosa), keskenylevelű ezüstfa (Eleagnus angustifolia), kései meggy (Padus serotina), nyugati ostorfa (Celtis occidentalis) lepényfa (Gleditsia triacanthos), közönséges orgona (Syringa vulgaris);
 
@@ -39,3 +39,5 @@ q) szálaló erdőgazdálkodás: az erdőben folytatott gazdálkodásnak olyan m
 r) szálaló üzemmód: olyan üzemmód, amelyben a szálaló erdőgazdálkodás feltételeinek kialakítása és fenntartása érdekében csak szálalás fakitermelési mód alkalmazható;
 
 s) városi erdő: az Evt. 17. § (2) bekezdés h) pontja szerinti városok, községek, a lakótelep és más települést védő településvédelmi, valamint belterületi erdő.
+
+[^2]: Az 1. § (1) bekezdés j) pontját a 36/2014. (IV. 4.) VM rendelet 39. §-a hatályon kívül helyezte.

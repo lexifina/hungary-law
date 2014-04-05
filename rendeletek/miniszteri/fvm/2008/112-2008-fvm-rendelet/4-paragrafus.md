@@ -1,4 +1,4 @@
-4. § (1)[^1] A támogatás forrása a Vidékfejlesztési Minisztérium (a továbbiakban: minisztérium) a személyi jövedelemadó 1%-ának adófizetők által felajánlott bevételből létrejött, Erdőterület közjóléti célú védelmének és bővítésének feladata előirányzat-felhasználási keretszámla.
+4. § (1)[^5] A támogatás forrása a Vidékfejlesztési Minisztérium (a továbbiakban: minisztérium) a személyi jövedelemadó 1%-ának adófizetők által felajánlott bevételből létrejött, Erdőterület közjóléti célú védelmének és bővítésének feladata előirányzat-felhasználási keretszámla.
 
 (2) Az éves támogatási keretet meghaladó, illetve éven túli (több évre szóló) kötelezettség az előirányzat terhére nem vállalható.
 
@@ -24,4 +24,4 @@ i) erdei vasutak üzemeltetésének támogatására 3%.
 
 (4) Amennyiben az elkülönített keret a pályázatok elbírálásakor nem kerül lekötésre, a le nem kötött összeg a többi célterületre felhasználható keretet – a (3) bekezdés szerinti arányok figyelembevételével – növeli.
 
-[^1]: A 4. § (1) bekezdése a 70/2013. (VII. 31.) VM rendelet 96. § a) pontja szerint módosított szöveg.
+[^5]: A 4. § (1) bekezdése a 70/2013. (VII. 31.) VM rendelet 96. § a) pontja szerint módosított szöveg.

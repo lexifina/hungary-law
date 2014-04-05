@@ -16,7 +16,7 @@ b) a rendezvény mondanivalójának, programjának közvetlenül kapcsolódnia k
 
 c) csak azon rendezvények támogathatóak, amelyek közétett programjai közül legalább egy a folyamatos erdőborítás fenntartását biztosító erdőgazdálkodási módszerekkel kapcsolatos, ismeretterjesztő és népszerűsítő tevékenységet is tartalmaz;
 
-d)[^18] a rendezvény megtartásáról a program megküldésével legalább 5 nappal korábban írásban értesíteni kell a pályázó lakóhelye, illetve székhelye szerint illetékes erdészeti igazgatóságot;
+d)[^24] a rendezvény megtartásáról a program megküldésével legalább 5 nappal korábban írásban értesíteni kell a pályázó lakóhelye, illetve székhelye szerint illetékes erdészeti igazgatóságot;
 
 e) a rendezvény programjának folyamatos és nyilvános hozzáférhetőségéről az Európai Erdők Hetét megelőzően legalább tíz napon keresztül gondoskodni kell;
 
@@ -32,4 +32,4 @@ h) a költségek igazolására szolgáló bizonylatok kelte nem lehet régebbi, 
 
 (6) A pályázat elbírálásakor előnyben részesülnek azok a pályázatok, ahol a megvalósításban erdőgazdálkodók és partnerként non-profit és társadalmi, valamint közhasznú szervezetek is részt vesznek.
 
-[^18]: A 15. § (3) bekezdés d) pontja a 19/2014. (III. 12.) VM rendelet 27. § f) pontja szerint módosított szöveg.
+[^24]: A 15. § (3) bekezdés d) pontja a 19/2014. (III. 12.) VM rendelet 27. § f) pontja szerint módosított szöveg.

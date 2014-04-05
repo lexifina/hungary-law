@@ -1,9 +1,10 @@
-## 20. §[^24] A pályázatban vállalt cél(ok) megvalósulását az erdészeti igazgatóság ellenőrzi. Amennyiben az ellenőrzés során bebizonyosodik, hogy a támogatást jogosulatlanul vették igénybe, a NÉBIH elrendeli annak visszafizetését.
+## 20. §[^30] A pályázatban vállalt cél(ok) megvalósulását az erdészeti igazgatóság ellenőrzi. Amennyiben az ellenőrzés során bebizonyosodik, hogy a támogatást jogosulatlanul vették igénybe, a NÉBIH elrendeli annak visszafizetését.
 
 ## Záró rendelkezések
 
 21. § (1) Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-(2) Ez a rendelet a Szerződés 87. és 88. cikkének a de minimis támogatásokra való alkalmazásáról szóló, 2006. december 15-i 1998/2006/EK bizottsági rendelet (HL L 379., 2006. 12. 28., 5. o.) hatálya alá tartozó támogatást tartalmaz.
+(2)[^31] Ez a rendelet az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet hatálya alá tartozó támogatást tartalmaz.
 
-[^24]: A 20. § a 70/2013. (VII. 31.) VM rendelet 96. § f) és i) pontja, a 19/2014. (III. 12.) VM rendelet 27. § c) pontja szerint módosított szöveg.
+[^30]: A 20. § a 70/2013. (VII. 31.) VM rendelet 96. § f) és i) pontja, a 19/2014. (III. 12.) VM rendelet 27. § c) pontja szerint módosított szöveg.
+[^31]: A 21. § (2) bekezdése a 36/2014. (IV. 4.) VM rendelet 37. §-ával megállapított szöveg.
