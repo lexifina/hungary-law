@@ -16,6 +16,6 @@ g) az adott beruházás az Új Magyarország Vidékfejlesztési Program fejleszt
 
 h) az adott beruházás csak a meglévő közösségi vagy nemzeti előírásoknak való megfelelésre irányul;
 
-i)[^5] a hitel-, illetve lízingszerződés nem HUF alapon kerül megkötésre.
+i)[^7] a hitel-, illetve lízingszerződés nem HUF alapon kerül megkötésre.
 
-[^5]: A 3. § i) pontját a 163/2008. (XII. 18.) FVM rendelet 1. §-a iktatta be. E módosító rendelet 5. § (2) bekezdése alapján a rendelkezést a 2008. december 26. napját követően megkötött hitel- és lízingszerződésekre kell alkalmazni.
+[^7]: A 3. § i) pontját a 163/2008. (XII. 18.) FVM rendelet 1. §-a iktatta be. E módosító rendelet 5. § (2) bekezdése alapján a rendelkezést a 2008. december 26. napját követően megkötött hitel- és lízingszerződésekre kell alkalmazni.

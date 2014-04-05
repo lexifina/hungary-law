@@ -18,7 +18,7 @@
 
 ## F: türelmi idő
 
-2. számú melléklet a 114/2008. (IX. 5.) FVM rendelethez[^21]
+2. számú melléklet a 114/2008. (IX. 5.) FVM rendelethez[^23]
 
 ## Igazolás a 114/2008. (IX. 5.) FVM rendelet alapján felvett hitel- és lízingdíj kamattámogatás támogatástartalmának kiszámításához
 
@@ -34,7 +34,7 @@ Név:
 
 Adószám/adóazonosító jel:
 
-Regisztrációs szám:
+Ügyfél-azonosító:
 
 3. Adatok a referenciaráta kiszámításához
 
@@ -68,4 +68,4 @@ Kelt: ……………………..
 
 hitelt/lízinget folyósító pénzintézet
 
-[^21]: A 2. számú melléklet a 163/2008. (XII. 18.) FVM rendelet 4. §-ával megállapított szöveg.
+[^23]: A 2. számú melléklet a 163/2008. (XII. 18.) FVM rendelet 4. §-ával megállapított, a 36/2014. (IV. 4.) VM rendelet 41. §-a szerint módosított szöveg.

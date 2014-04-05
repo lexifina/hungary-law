@@ -28,9 +28,9 @@ k) támogatás szempontjából elszámolható költség: a támogatás alapjána
 
 l) állattartó telepek korszerűsítése: a már meglévő és szakhatósági igazolással rendelkező szarvasmarha, juh, kecske, sertés és ló állattartó telepeken a képződő trágya kezelésének, tárolásának, illetve felhasználásának fejlesztésére, az állati férőhelyek kialakítására és minőségének javítására, korszerűbb technológia alkalmazására, jó minőségű takarmány előállításának és felhasználásának, valamint a takarmányminőség megőrzésének biztosítására, valamint az állatbetegségek kialakulásának és terjedésének megelőzésére irányuló beruházás;
 
-m) pénzügyi intézmény: a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény alapján meghatározott hitelintézet és pénzügyi vállalkozás;
+m)[^5] pénzügyi intézmény: a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény alapján meghatározott hitelintézet és pénzügyi vállalkozás;
 
-n) kezességvállaló intézmény: a Magyar Köztársaság 2008. évi költségvetéséről szóló 2007. évi CLXIX. törvény 39–40. §-ai alapján viszontgaranciával rendelkező pénzügyi vállalkozás (Garantiqa Hitelgarancia Zrt., Agrár-Vállalkozási Hitelgarancia Alapítvány);
+n)[^6] kezességvállaló intézmény: a Garantiqa Hitelgarancia Zrt., az Agrár-Vállalkozási Hitelgarancia Alapítvány;
 
 o) BUBOR: Budapesti Bankközi Forint Hitelkamatláb, melyet a Magyar Nemzeti Bank a honlapján tesz közzé;
 
@@ -48,3 +48,5 @@ t) támogatás intenzitás: a támogatástartalom és a támogatás szempontjáb
 [^2]: Az 1. § b) pontja az 5/2012. (II. 10.) VM rendelet 39. §-a, a 22/2014. (III. 14.) VM rendelet 64. § a) pontja szerint módosított szöveg.
 [^3]: Az 1. § d) pontja a 171/2009. (XII. 22.) FVM rendelet 6. § (2) bekezdésével megállapított szöveg.
 [^4]: Az 1. § e) pontja a 70/2013. (VII. 31.) VM rendelet 98. § a) és b) pontja szerint módosított szöveg.
+[^5]: Az 1. § m) pontja a 36/2014. (IV. 4.) VM rendelet 40. §-ával megállapított szöveg.
+[^6]: Az 1. § n) pontja a 36/2014. (IV. 4.) VM rendelet 40. §-ával megállapított szöveg.

@@ -10,7 +10,7 @@
 
 ## 4. A kért hitel, illetve lízing összege;
 
-## 5.[^24] A mezőgazdasági szakigazgatási szerv megállapítása arra vonatkozóan, hogy a hitel-, illetve lízingkérelemben meghatározott célkitűzések közül a kérelem
+## 5.[^26] A mezőgazdasági szakigazgatási szerv megállapítása arra vonatkozóan, hogy a hitel-, illetve lízingkérelemben meghatározott célkitűzések közül a kérelem
 
 ## a) mezőgazdasági gépek és technológiai berendezések beszerzése esetén a 114/2008. (IX. 5.) FVM rendelet 1. § g) pontjában,
 
@@ -20,7 +20,7 @@
 
 ## d) pénzügyi lízing esetén a 114/2008. (IX. 5.) FVM rendelet 1. § p) pontjában meghatározott feltételeknek megfelel;
 
-## 6.[^25] Az mezőgazdasági szakigazgatási szerv igazolása arról, hogy az igénylő az általa végzett tevékenység alapján támogatott hitel-, illetve lízingkérelmet nyújthat be a pénzügyi intézményhez;
+## 6.[^27] Az mezőgazdasági szakigazgatási szerv igazolása arról, hogy az igénylő az általa végzett tevékenység alapján támogatott hitel-, illetve lízingkérelmet nyújthat be a pénzügyi intézményhez;
 
 ## 7. Keltezés;
 
@@ -50,9 +50,9 @@
 
 ## 10. Keltezés;
 
-## 11.[^26] A mezőgazdasági szakigazgatási szerv vezetőjének aláírása.
+## 11.[^28] A mezőgazdasági szakigazgatási szerv vezetőjének aláírása.
 
-5. számú melléklet a 114/2008. (IX. 5.) FVM rendelethez[^27]
+5. számú melléklet a 114/2008. (IX. 5.) FVM rendelethez[^29]
 
 A 114/2008. (IX. 5.) FVM rendelet 12. § (5) bekezdése szerinti adatszolgáltatási adatlap
 
@@ -84,7 +84,7 @@ Kelt: ………………………
 
 aláírás
 
-[^24]: A 4. számú melléklet I. 5. pontja a 70/2013. (VII. 31.) VM rendelet 98. § l) pontja szerint módosított szöveg.
-[^25]: A 4. számú melléklet I. 6. pontja a 70/2013. (VII. 31.) VM rendelet 98. § k) pontja szerint módosított szöveg.
-[^26]: A 4. számú melléklet II. 11. pontja a 70/2013. (VII. 31.) VM rendelet 98. § m) pontja szerint módosított szöveg.
-[^27]: Az 5. számú melléklet a 70/2013. (VII. 31.) VM rendelet 98. § n) pontja szerint módosított szöveg.
+[^26]: A 4. számú melléklet I. 5. pontja a 70/2013. (VII. 31.) VM rendelet 98. § l) pontja szerint módosított szöveg.
+[^27]: A 4. számú melléklet I. 6. pontja a 70/2013. (VII. 31.) VM rendelet 98. § k) pontja szerint módosított szöveg.
+[^28]: A 4. számú melléklet II. 11. pontja a 70/2013. (VII. 31.) VM rendelet 98. § m) pontja szerint módosított szöveg.
+[^29]: Az 5. számú melléklet a 70/2013. (VII. 31.) VM rendelet 98. § n) pontja szerint módosított szöveg.
