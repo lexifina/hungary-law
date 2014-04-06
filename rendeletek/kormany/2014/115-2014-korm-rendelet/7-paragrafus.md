@@ -1,0 +1,1 @@
+## szolgáltatási szerződés tartalmazza.
