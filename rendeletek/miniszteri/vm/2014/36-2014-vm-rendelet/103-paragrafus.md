@@ -1,3 +1,0 @@
-## 102. § A 123/2013. (XII. 17.) VM rendelet 3. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-## „(3) A Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) a támogatási összeg mezőgazdasági „de minimis” rendelet szerinti nyilvántartásba vétele alkalmával a 2014. március 28. előtt elindított, 2013. április 11. és 2013. június 20. között benyújtott kérelmek alapján indult eljárások tekintetében a 2013. május 1. napján, a 4. § (1a) bekezdése szerinti kiegészítő támogatás tekintetében a 2014. március 1-jén érvényes, az Európai Központi Bank által közzétett két tizedesjegy pontossággal meghatározott forint/euró árfolyamot veszi figyelembe.”

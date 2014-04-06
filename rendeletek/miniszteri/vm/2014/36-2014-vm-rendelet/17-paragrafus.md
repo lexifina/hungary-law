@@ -1,3 +1,0 @@
-## 16. § A 108/2007. (IX. 24.) FVM rendelet 7. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-## „(3) A 3. § (1) bekezdés e) pontja szerinti hitelcél szerinti hitel és kezesség együttes támogatástartalmát a mezőgazdasági csekély összegű (de minimis) rendelet szerinti egy és ugyanazon vállalkozási szintű, illetve tagállami támogatási határértékek határozzák meg. Ezen támogatási forma keretében felvett hitel támogatástartalmáról a nyilvántartást a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) vezeti. A hitelkérelem benyújtásakor a KKV-nak meg kell felelnie az agrár- és vidékfejlesztési állami támogatásokkal kapcsolatos egyes eljárási kérdésekről szóló 353/2012. (XII. 13.) Korm. rendelet 11/A. §-ában meghatározott feltételeknek.”

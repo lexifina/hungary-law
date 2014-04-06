@@ -1,3 +1,0 @@
-## 35. § Az erdők közjóléti célú védelmét és bővítését szolgáló feladatok ellátásának csekély összegű (de minimis) támogatásáról szóló 112/2008. (VIII. 30.) FVM rendelet [a továbbiakban: 112/2008. (VIII. 30.) FVM rendelet] 3. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-## „(4) A támogatást igénybe vevő értesítése, valamint a támogatás folyósítása során az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet (a továbbiakban: általános de minimis rendelet) 3. és 6. cikkében meghatározottak szerint kell eljárni.”
