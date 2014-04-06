@@ -1,3 +1,0 @@
-## 7. § A 139/2007. (XI. 28.) FVM rendelet 9. §-a helyébe a következő rendelkezés lép:
-
-## „9. § Az egyes állatjóléti támogatási tárgyú miniszteri rendeletek módosításáról szóló 33/2014. (IV. 4.) VM rendelettel [a továbbiakban: 33/2014. (IV. 4.) VM rendelet] megállapított rendelkezéseket a 33/2014. (IV. 4.) VM rendelet hatályba lépésekor folyamatban lévő eljárásokban is alkalmazni kell azzal, hogy a 33/2014. (IV. 4.) VM rendelettel megállapított 4. § (1) és (5) bekezdését, 5. § (1) és (5) bekezdését, 2. számú mellékletét, valamint 6. számú mellékletét a 2014. év II. negyedévére és az azt követő tárgynegyedévekre vonatkozóan benyújtott támogatási kérelmek alapján indult eljárásokban kell alkalmazni.”

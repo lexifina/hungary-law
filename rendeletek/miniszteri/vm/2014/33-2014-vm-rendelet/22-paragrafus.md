@@ -1,3 +1,0 @@
-## 21. § A 140/2007. (XI. 28.) FVM rendelet 11. §-a helyébe a következő rendelkezés lép:
-
-## „11. § Az egyes állatjóléti támogatási tárgyú miniszteri rendeletek módosításáról szóló 33/2014. (IV. 4.) VM rendelettel [a továbbiakban: 33/2014. (IV. 4.) VM rendelet] megállapított rendelkezéseket a 33/2014. (IV. 4.)VM rendelet hatályba lépésekor folyamatban lévő eljárásokban is alkalmazni kell azzal, hogy a 33/2014. (IV. 4.) VM rendelettel megállapított 6. § (1), (3)–(7) bekezdését, 9. § (1) és (3) bekezdését, valamint 1. számú mellékletét a 2014. év II. negyedévére és az azt követő negyedévekre vonatkozóan benyújtott támogatási kérelmek alapján indult eljárásokban kell alkalmazni.”
