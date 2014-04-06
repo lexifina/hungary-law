@@ -1,0 +1,1 @@
+## „10. távfűtés vagy távhűtés: a távhőszolgáltatásról szóló törvény szerinti távhőszolgáltatás, vagy gőz, meleg víz vagy hűtött folyadék formájában, egy központi termelési egységből, vezetéken keresztül történő hőenergia-szolgáltatás légterek vagy ipari folyamatok fűtése vagy hűtése céljából.”

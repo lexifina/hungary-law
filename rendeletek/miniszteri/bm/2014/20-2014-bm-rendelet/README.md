@@ -1,0 +1,9 @@
+# 20/2014. (III. 7.) BM rendelet
+
+az épületek energetikai jellemzőinek meghatározásáról szóló 7/2006. (V. 24.) TNM rendelet módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-20-20-0A
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2014-04-06 | 2014-20-20-0A.1 | 20/2014. (III. 7.) BM rendelet |
