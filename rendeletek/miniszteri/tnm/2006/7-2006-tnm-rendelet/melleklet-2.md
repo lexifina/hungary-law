@@ -400,6 +400,6 @@
 
 ## A hűtési rendszereket a beszabályozási terv alapján kötelező beszabályozni és a beszabályozást dokumentálni. A mérés után szúrópróbával a szelepek min. 10%-át ellenőrizni kell. Tartós próbaüzemet kell tartani, mely során a rendszerek megkövetelt működését, az üzemelési paraméterek teljesülését ellenőrizni és dokumentálni kell.
 
-2. melléklet a 7/2006. (V. 24.) TNM rendelethez[^14]
+2. melléklet a 7/2006. (V. 24.) TNM rendelethez[^18]
 
-[^14]: A 2. melléklet a 40/2012. (VIII. 13.) BM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^18]: A 2. melléklet a 40/2012. (VIII. 13.) BM rendelet 4. § (2) bekezdésével megállapított, a 20/2014. (III. 7.) BM rendelet 6. § (2) bekezdése szerint módosított szöveg.

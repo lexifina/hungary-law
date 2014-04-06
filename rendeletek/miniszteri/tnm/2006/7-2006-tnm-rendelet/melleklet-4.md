@@ -2,7 +2,7 @@
 
 ## I. Jelölések és mértékegységek
 
-## 2K18412_0
+## 4K03449N_0
 
 | Sorszám | 1.Jelölés | 2.A mennyiség megnevezése | 3.Mértékegység |
 
@@ -44,7 +44,9 @@
 
 | 19. | Evil,n | a beépített világítás fajlagos éves nettó villamos energia igénye | kWh/m2/a |
 
-| 20. | H | az éves fűtési hőfokhíd ezredrésze | hK/a |
+| 20. | H | az éves fűtési hőfokhíd ezredrésze | hK/1000a |
+
+| 20a. | Hd | a deresedés szempontjából kritikus órákban az éves fűtési hőfokhíd ezredrésze | hK/1000a |
 
 | 21. | Ib | a napsugárzás intenzitása egyensúlyi hőmérséklet számításához | W/m2 |
 
@@ -66,11 +68,11 @@
 
 | 30. | QTOT | a hagyományos fűtési idényre vonatkozó sugárzási energiahozam | W/m2 |
 
-| 31. | U | hőátbocsátási tényező. Üvegezett szerkezetek esetében tartalmazhatja a társított szerkezetek (redőny, stb.) hatását is, ekkor a társított szerkezet „nyitott” és „csukott” helyzetére vonatkozó hőátbocsátási tényezők számtani átlaga vehető figyelembe. | W/m2K |
+| 31. | U | hőátbocsátási tényező. | W/m2K |
 
 | 32. | Um | az átlagos hőátbocsátási tényező | W/m2K |
 
-| 33. | UR | hőhidak hatását kifejező szorzóval korrigált („eredő”) hőátbocsátási tényező | W/m2K |
+| 33. | UR | csatlakozási hőhidak hatását is figyelembe vevő szorzóval korrigált („eredő”) hőátbocsátási tényező | W/m2K |
 
 | 34. | Ukör | körkeresztmetszetű légcsatorna hosszegységre vonatkozó hőátbocsátási tényezője | W/mK |
 
@@ -119,6 +121,8 @@
 | 56. | m | fajlagos hőtároló tömeg | kg/m2 |
 
 | 57. | n | légcsereszám (átlagos) | 1/h |
+
+| 57a. | nT | tömítetlenségből származó légcsere növekedés | 1/h |
 
 | 58. | nLT | légcsereszám a légtechnikai rendszer üzemidejében | 1/h |
 
@@ -180,7 +184,9 @@
 
 | 87. | ε | hasznosítási tényező |  |
 
-| 88. | ηr | a szellőző rendszerbe épített hővisszanyerő hatásfoka |  |
+| 88. | ηr | a szellőző rendszerbe épített hővisszanyerő működési hatásfoka |  |
+
+| 88a. | ηra | a szellőző rendszerbe épített hővisszanyerő közölt hatásfoka |  |
 
 | 89. | ηvent | a ventilátor összhatásfoka |  |
 
@@ -190,7 +196,7 @@
 
 | 92. | υ | a szabályozás hatását kifejező korrekciós tényező |  |
 
-| 93. | χ | a hőhidak hatását kifejező korrekciós tényező |  |
+| 93. | χ | csak a rendelet vonatkozásában a hőhidak hatását kifejező korrekciós tényező |  |
 
 | 94. | Ψ | vonalmenti hőátbocsátási tényező az élek vagy a kerület hosszegységére vonatkozóan | W/m⋅K |
 
@@ -210,181 +216,135 @@
 
 ## 1. Az éves fűtési hőszükséglet számítása során a hőfokhidat és a fűtési idény hosszát az egyensúlyi hőmérsékletkülönbség függvényében az alábbi értékekkel kell figyelembe venni:
 
-## I.1. táblázat: Hőfokhíd és fűtési idény hossza 20 °C belső hőmérséklet esetén
+## I.1. táblázat: Hőfokhíd és fűtési idény hossza 20 °C belső hőmérséklet esetén az egyensúlyi hőmérsékletkülönbség függvényében
 
-## az egyensúlyi hőmérsékletkülönbség függvényében
+| Δtb [K] egyensúlyi hőmérséklet-különbség | tfh [°C] fűtési határhőmérséklet, napi középhőmérséklet | ZF 1000 szerese [h/a] idény hossz, tfh-nál alacsonyabb átlaghőmérsékletű órák száma | H20 1000 szerese [hK/a] hőfokhíd |
 
-|  | Egyensúlyi hőmérséklet- különbség [K] | Hőfokhíd [hK] | Idény hossza [h] |
+| 39 | -19 | 1 | 31 |
 
-|  | ≤ 8,0 | 72000 | 4400 |
+| 38 | -18 | 2 | 61 |
 
-|  | 9,0 | 70325 | 4215 |
+| 37 | -17 | 3 | 121 |
 
-|  | 10,0 | 68400 | 4022 |
+| 36 | -16 | 5 | 178 |
 
-|  | 11,0 | 66124 | 3804 |
+| 35 | -15 | 6 | 206 |
 
-|  | 12,0 | 63405 | 3562 |
+| 34 | -14 | 6 | 206 |
 
-|  | 13,0 | 60010 | 3295 |
+| 33 | -13 | 9 | 312 |
 
-|  | 14,0 | 55938 | 3003 |
+| 32 | -12 | 16 | 543 |
 
-|  | 15,0 | 51191 | 2687 |
+| 31 | -11 | 26 | 840 |
 
-|  | 16,0 | 45766 | 2346 |
+| 30 | -10 | 35 | 1128 |
 
-|  | 17,0 | 39666 | 1980 |
+| 29 | -9 | 52 | 1615 |
 
-|  | 18,0 | 32889 | 1590 |
+| 28 | -8 | 84 | 2509 |
 
-|  | 19,0 | 25436 | 1175 |
+| 27 | -7 | 136 | 3909 |
 
-## 1. ábra. Hőfokhíd és fűtési idény hossza 20 ºC belső hőmérséklet esetén
+| 26 | -6 | 173 | 4882 |
 
-## az egyensúlyi hőmérsékletkülönbség függvényében
+| 25 | -5 | 231 | 6322 |
+
+| 24 | -4 | 317 | 8396 |
+
+| 23 | -3 | 416 | 10659 |
+
+| 22 | -2 | 551 | 13642 |
+
+| 21 | -1 | 706 | 16893 |
+
+| 20 | 0 | 929 | 21357 |
+
+| 19 | 1 | 1179 | 26100 |
+
+| 18 | 2 | 1486 | 31629 |
+
+| 17 | 3 | 1778 | 37504 |
+
+| 16 | 4 | 2069 | 42996 |
+
+| 15 | 5 | 2360 | 47820 |
+
+| 14 | 6 | 2652 | 52389 |
+
+| 13 | 7 | 2943 | 56757 |
+
+| 12 | 8 | 3235 | 60184 |
+
+| 11 | 9 | 3526 | 63799 |
+
+| 10 | 10 | 3817 | 67142 |
+
+| 9 | 11 | 4109 | 69978 |
+
+| 8 | 12 | 4400 | 72000 |
+
+| 7 | 13 | 4745 | 73317 |
+
+| 6 | 14 | 5090 | 74880 |
+
+| 5 | 15 | 5435 | 76404 |
+
+| 4 | 16 | 5779 | 77632 |
+
+| 3 | 17 | 6124 | 78669 |
+
+| 2 | 18 | 6469 | 79360 |
+
+| 1 | 19 | 6814 | 79720 |
+
+| 0 | 20 | 7159 | 79720 |
+
+| -1 | 21 | 7503 | 79372 |
+
+| -2 | 22 | 7829 | 78720 |
+
+| -3 | 23 | 8135 | 77802 |
+
+| -4 | 24 | 8375 | 76842 |
+
+| -5 | 25 | 8546 | 75990 |
+
+| -6 | 26 | 8632 | 75471 |
+
+| -7 | 27 | 8680 | 75139 |
+
+| -8 | 28 | 8721 | 74810 |
+
+| -9 | 29 | 8733 | 74702 |
+
+| -10 | 30 | 8738 | 74647 |
+
+| -11 | 31 | 8740 | 74629 |
 
 ## Az épület átlaghőmérsékletét az egyes helyiségek hőmérsékletének a helyiségtérfogattal súlyozott átlagaként kell meghatározni:
 
-## 2K18412_3
-
-|  | (I.1.a.) |
+|  |  |  | (I.1.a) |
 
 ## Ezt nevezzük a helyiséghőmérséklet meghatározás szempontjából részletes eljárásnak.
 
-## Amennyiben az épületet nem helyiségenként feldolgozva a lakóépület, iroda és oktatási épületek esetén egyaránt + 20 °C átlagos helyiséghőmérséklettel kell számolni. Ezt nevezzük a helyiséghőmérséklet meghatározás szempontjából egyszerűsített eljárásnak.
+## Amennyiben az épületet nem helyiségenként feldolgozva a lakóépület, iroda és oktatási épületek esetén egyaránt +20 °C átlagos helyiséghőmérséklettel kell számolni. Ezt nevezzük a helyiséghőmérséklet meghatározás szempontjából egyszerűsített eljárásnak.
 
 ## A fűtetlen terek hőmérsékletét a számítás készítésekor érvényes funkció szerint kell felvenni.
 
-## A téli egyensúlyi hőmérsékletkülönbséget a 2. melléklet (IV.2.) szerint kell meghatározni.
-
 ## Az épülethez tartozó fűtési határhőmérséklet az átlagos belső hőmérséklet és az egyensúlyi hőmérsékletkülönbség különbsége:
 
-## 2K18412_4
+|  |  |  | (I.1.b) |
 
-|  | (I.1.b) |
-
-## A fűtési idény hossza és a hőfokhíd értéke az átlagos belső hőmérséklet és a fűtési határhőmérséklet segítségével az I.2. táblázat segítségével számítható:
-
-## I.2. táblázat: Az átlagos belső hőmérséklet és a fűtési határhőmérséklet
-
-|  | Napi középhőmérséklet tköz | tköz-nél alacsonyabb átlaghőmérsékletű órák száma | H20 |
-
-|  | °C | h | hK/a |
-
-|  | -19 | 0,9 | 30,9 |
-
-|  | -18 | 1,7 | 61,0 |
-
-|  | -17 | 3,3 | 120,5 |
-
-|  | -16 | 4,9 | 178,4 |
-
-|  | -15 | 5,7 | 206,1 |
-
-|  | -14 | 5,7 | 206,1 |
-
-|  | -13 | 8,9 | 312,2 |
-
-|  | -12 | 16,1 | 542,6 |
-
-|  | -11 | 25,7 | 840,2 |
-
-|  | -10 | 35,3 | 1128,2 |
-
-|  | -9 | 52,1 | 1615,4 |
-
-|  | -8 | 84,0 | 2509,2 |
-
-|  | -7 | 135,9 | 3908,9 |
-
-|  | -6 | 173,3 | 4882,3 |
-
-|  | -5 | 230,9 | 6322,3 |
-
-|  | -4 | 317,3 | 8395,9 |
-
-|  | -3 | 415,7 | 10659,1 |
-
-|  | -2 | 551,3 | 13642,3 |
-
-|  | -1 | 706,1 | 16893,1 |
-
-|  | 0 | 929,3 | 21357,1 |
-
-|  | 1 | 1178,9 | 26099,5 |
-
-|  | 2 | 1486,1 | 31629,1 |
-
-|  | 3 | 1831,7 | 37504,3 |
-
-|  | 4 | 2174,9 | 42995,5 |
-
-|  | 5 | 2496,5 | 47819,5 |
-
-|  | 6 | 2822,9 | 52389,1 |
-
-|  | 7 | 3158,9 | 56757,1 |
-
-|  | 8 | 3451,7 | 60270,7 |
-
-|  | 9 | 3756,5 | 63623,5 |
-
-|  | 10 | 4073,3 | 66791,5 |
-
-|  | 11 | 4361,3 | 69383,5 |
-
-|  | 12 | 4615,7 | 71418,7 |
-
-|  | 13 | 4886,9 | 73317,1 |
-
-|  | 14 | 5147,3 | 74879,5 |
-
-|  | 15 | 5452,1 | 76403,5 |
-
-|  | 16 | 5759,3 | 77632,3 |
-
-|  | 17 | 6104,9 | 78669,1 |
-
-|  | 18 | 6450,5 | 79360,3 |
-
-|  | 19 | 6810,5 | 79720,3 |
-
-|  | 20 | 7154,9 | 79720,3 |
-
-|  | 21 | 7502,9 | 79372,3 |
-
-|  | 22 | 7829,3 | 78719,5 |
-
-|  | 23 | 8135,3 | 77801,5 |
-
-|  | 24 | 8375,3 | 76841,5 |
-
-|  | 25 | 8545,7 | 75989,5 |
-
-|  | 26 | 8632,1 | 75471,1 |
-
-|  | 27 | 8679,6 | 75138,5 |
-
-|  | 28 | 8720,7 | 74810,1 |
-
-|  | 29 | 8732,7 | 74702,1 |
-
-|  | 30 | 8738,2 | 74646,9 |
-
-|  | 31 | 8739,8 | 74629,2 |
-
-## A fűtési idény hossza (ZF) a táblázatból olvasható ki, megegyezik a fűtési határhőmérséklet mint napi átlaghőmérséklethez tartozó, az adott értéknél kisebb hőmérsékletű órák számával.
+## A fűtési idény hossza (ZF) az I.1. táblázatból olvasható ki, megegyezik a fűtési határhőmérséklet mint napi átlaghőmérséklethez tartozó, az adott értéknél kisebb hőmérsékletű órák számával.
 
 ## A táblázatban 20 °C átlaghőmérsékletű épületre készült. Ettől eltérő belső hőmérséklet esetén a fűtési hőfokhíd értéke az alábbi összefüggéssel számítható:
 
-## 2K18412_6
-
-|  | (I.1.c) |
+|  |  |  | (I.1.c) |
 
 ## Amennyiben a fűtési határhőmérséklet nem kerek érték, akkor a táblázat szomszédos értékeinek felhasználásával interpolálni kell.
 
-## Az épületszerkezetek téli hőtechnikai méretezéséhez jogszabályban előírt vagy a tervezési programban meghatározott értékeket kell alkalmazni. Egyéb előírás hiányában a belső hőmérséklet és relatív légnedvesség értékeket az MSZ 24140 számú szabvány M1:8 fejezet 11. táblázata alapján lehet felvenni.
+## Az épületszerkezetek téli hőtechnikai méretezéséhez jogszabályban előírt vagy a tervezési programban meghatározott értékeket kell alkalmazni. Egyéb előírás hiányában a belső hőmérséklet és relatív légnedvesség értékeket az MSZ 24140 számú szabvány M1.11. táblázata alapján lehet felvenni.
 
 ## 2. A napsugárzásra vonatkozó tervezési adatok
 
@@ -418,7 +378,7 @@
 
 ## II.1. táblázat: Légcsereszám tervezési adatok a nyári túlmelegedés kockázatának megítéléséhez természetes szellőztetés esetén
 
-## 2K18412_9
+## 4K03449N_8
 
 | A légcsereszám tervezési értékei nyáron, természetes szellőztetéssel | Nyitható nyílások |
 
@@ -434,7 +394,7 @@
 
 ## III.1. táblázat: A talajon fekvő padlók vonalmenti hőátbocsátási tényezői a kerület hosszegységére vonatkoztatva
 
-## 2K18412_10
+## 4K03449N_9
 
 |  | A padlószint és a talajszint közötti magasság- | A padlószerkezet hővezetési ellenállása a kerület mentén legalább 1,5 m szélességű sávban1) |
 
@@ -536,15 +496,59 @@
 
 ## Az oktatási épületre vonatkozó adatok a gyermekintézmények, alap- és középfokú iskolák esetében is alkalmazhatók. Tanműhelyekkel, laboratóriumokkal, sportlétesítményekkel ellátott oktatási épületek esetében az épület különböző rendeltetésű részekre is bontható.
 
+## IV.2. táblázat: tömítetlenségből származó légcsere növekedés
+
+| Nyílászáró légáteresztése | Nyílások elhelyezkedése | Szintek száma | Tömítetlenségből származó légcsere nT [1/h] |
+
+| szélvédett | szélnek kitett 1) |
+
+| Gyenge légzárású: vetemedett, rosszul illesztett; vagy falhézagnál hőszigeteltetlen, tömítetlen nyílászárók | Egy homlokzaton | 1-2 | 0,20 | 0,35 |
+
+| 3-6 | 0,40 |
+
+| 7-15 | 0,60 |
+
+| Több homlokzaton vagy szellőzőkürtő | 1-2 | 0,40 | 0,65 |
+
+| 3-6 | 0,75 |
+
+| 7-15 | 1,00 |
+
+| Közepes légzárású: kettős jól illeszkedő, de tömítetlen, vagy egyszeres jól illeszkedő öntapadó tok-szárnytömítéssel ellátott; vagy falhézagban csak hőszigeteléssel tömített nyílászárók | Egy homlokzaton | 1-2 | 0,05 | 0,10 |
+
+| 3-6 | 0,15 |
+
+| 7-15 | 0,25 |
+
+| Több homlokzaton vagy szellőzőkürtő | 1-2 | 0,10 | 0,20 |
+
+| 3-6 | 0,25 |
+
+| 7-15 | 0,40 |
+
+| Jó légzárású: körbemenő, gyárilag beépített, alakos- tok-szárnytömítéssel; oldalanként legalább egy ponton záródó; vagy minősítő iratban MSZ EN 12207 szerint 4-es légáteresztési osztályú; és minden esetben falhézagnál légzáróan is tömített nyílászárók | Egy homlokzaton | 1-2 | 0,00 | 0,00 |
+
+| 3-6 |
+
+| 7-15 |
+
+| Több homlokzaton vagy szellőzőkürtő | 1-2 |
+
+| 3-6 |
+
+| 7-15 |
+
+## 1) Szélnek kitett szabadon álló vagy az épített környezetből kiemelkedő magasabb épületek esetében alkalmazandó.
+
 ## V. Energiahordozókra vonatkozó adatok
 
 ## A primer energia átalakítási tényezőket az V.1. táblázat tartalmazza.
 
-## V.1. táblázat. Primer energia átalakítási tényezők.
+## V.1. táblázat. Primer energia átalakítási tényezők
 
 | Energia | e |
 
-| elektromos áram | 2, 50 |
+| elektromos áram | 2,50 |
 
 | csúcson kívüli elektromos áram | 1,80 |
 
@@ -554,35 +558,25 @@
 
 | szén | 1,00 |
 
-| tüzifa, biomassza, pellet | 0,60 |
+| megújuló: tűzifa, biomassza, biomasszából közvetve vagy közvetlenül előállított energia, a biogázok energiája, fapellet, agripellet | 0,60 |
 
-| megújuló (pl. napenergia) | 0,00 |
+| megújuló: nap-, szél-, hullám energia, vízenergia, a geotermikus, hidrotermikus, légtermikus energia | 0,00 |
 
-## 2K18412_14
+| Távfűtés esetén, energiaforrás* | kapcsolt hőtermelés mértéke* | e |
 
-| Távfűtés esetén | e |
+| földgáz-, szén-, olajtüzelés, nukleáris, egyéb nem megújuló, nem biomassza hulladéktüzelés | min. 50% | 0,83 |
 
-| földgáz | biomassza |
+| nincs | 1,26 |
 
-| fűtőművi távfűtés* | 1,26 | 076 |
+| biomassza, fapellet, agripellet, biogáz, egyéb megújuló, depóniagáz, szennyvíziszapból nyert gáz | min. 50% | 0,50 |
 
-| távfűtés kapcsolt energiatermelés* | kombinált ciklusú (ellennyomású) | 0,71 | 0,43 |
+| nincs | 0,76 |
 
-|  | kombinált ciklusú (elvételes-kondenzációs) | 0,43 | 0,26 |
-
-| gőzkörfolyamatú (ellennyomású) | 0,87 | 0,52 |
-
-| gázmotor ( > 1 MWe) | 0,55 | 0,33 |
-
-| gázmotor ( ≤ 1 MWe) | 0,72 | 0,43 |
-
-| gázturbina hőhasznosítóval | 0,82 | 0,49 |
-
-## *A távfűtési rendszer primer energiaátalakítási tényezőjének pontos értékét az adott épületet ellátó távhőszolgáltatótól lehet beszerezni.
+## *A távfűtés típusáról a távfűtés szolgáltatójának kell nyilatkoznia, amennyiben ilyen dokumentum nem áll rendelkezésre e=1,26.
 
 4. melléklet a 7/2006. (V. 24.) TNM rendelethez
 
-Új épületek alternatív rendszereinek vizsgálata[^16]
+Új épületek alternatív rendszereinek vizsgálata[^20]
 
 I. Általános rendelkezések
 
@@ -838,4 +832,4 @@ IV. Mintalap a megvalósíthatósági elemzés eredményeinek dokumentálásáho
 
 | 6 | Alternatív energiaellátás gazdaságossági szempontból célszerű | I | N |
 
-[^16]: A 4. melléklet címe a 40/2012. (VIII. 13.) BM rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^20]: A 4. melléklet címe a 40/2012. (VIII. 13.) BM rendelet 5. § (2) bekezdésével megállapított szöveg.

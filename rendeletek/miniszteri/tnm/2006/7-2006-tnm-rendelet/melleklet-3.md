@@ -8,7 +8,7 @@
 
 ## 2. Geometriai adatok meghatározása, beleértve a vonalmenti hőveszteség alapján számítandó szerkezetek (talajon fekvő padló, pincefal) kerületét és a részletes eljárás választása esetén a csatlakozási élhosszakat is.
 
-## 2.1. Az épület felület/térfogatarány számítása.
+## 2.1. Az épület felület/térfogatarány számítása. Épület felület (A), fűtött tereket határoló valamennyi szerkezet felülete: beleértve a teljes talajjal, szomszédos épülettel, energetikailag nem védett fűtetlen helyiségekkel érintkező felületeket; a belméretek alapján számolva. A felületbe (A) nem számítható be az azonos épületen belül külön fűtött rendeltetési egységek közötti szerkezetek, vagy az önálló rendeltetési egységen belüli felületek. Térfogat (V) fűtött épülettérfogat, légtömör szerkezetekkel határolt hányada belméretek szerint számolva. Az épülettérfogatba nem számolandó a tartózkodástól légtömör szerkezettekkel elzárt búvóterek térfogata; ilyen például a légtömör álpadló alatti vagy légtömör álmennyezet feletti tér.
 
 ## 3. A fajlagos hőveszteségtényező határértékének meghatározása a felület/térfogatarány függvényében.
 
@@ -62,11 +62,19 @@
 
 ## 2. A határoló szerkezetek felületét a belméretek alapján, a nyílászárók felületét a névleges méretek alapján kell meghatározni.
 
-## 3. A rétegtervi hőátbocsátási tényező (U) a szerkezet általános helyen vett metszetére számított vagy a termék egészére, a minősítési iratban megadott [W/(m2⋅K) mértékegységű] jellemző, amely tartalmazza nem homogén szerkezetek esetén a szerkezeten belüli pontszerű hőhidak hatását is. Megfelelő megoldás az MSZ EN ISO 6946 szabvány szerinti vagy azzal azonos eredményt adó számítás.
+## 3.1. A rétegtervi hőátbocsátási tényező (U) a szerkezet általános helyen vett metszetére számított vagy a termék egészére, a minősítési iratban megadott [W/(m2·K) mértékegységű] jellemző, amely tartalmazza nem homogén szerkezetek esetén a szerkezeten belül, jellemzően előforduló átlagos mennyiségben figyelembe vett pontszerű (rögzítési rendszerek, konzolok, csavarok, átkötővasak stb. által okozott) és vonalmenti (vázszerkezetek, hézagok, panelcsatlakozások stb. által okozott) hőhidak hatását is. (Megjegyzés: a szerkezetek csatlakozásánál – nyílásoknál, sarkoknál – keletkező hőhidak hatását nem számolva). A rétegterv hőátbocsátási tényezőjét befolyásoló tényezők számításba vételére megfelelő megoldás az MSZ EN ISO 6946 szabvány szerinti vagy azzal azonos eredményt adó számítás. A rétegtervben szereplő inhomogeneitásból származó hőhidak hatását:
+
+## a) részletes módszer alkalmazása esetén a kettő vagy háromdimenziós számításon alapuló értékekkel MSZ EN ISO 10211 szabvány szerint,
+
+## b) egyszerűsített módszer alkalmazása esetén MSZ EN ISO 6946 szabvány szerint
+
+## számítandóak.
+
+## 3.2. Nyílászárók hőátbocsátási tényezőjénél (U) az üvegezés (vagy más átlátszó szerkezet) és a keretszerkezetének (vagy más a felületen megjelenő felületnek) együttes felületre vetített átlagát kell figyelembe venni, figyelembe véve a szerkezeten belüli hőhidak hatását (pl. az üvegezés és a keretszerkezet csatlakozását, a távtartókat). A hőátbocsátási tényező üvegezett szerkezetek esetében tartalmazhatja a társított szerkezetek (redőny stb.) hatását is, ekkor a társított szerkezet „nyitott” és „csukott” helyzetére vonatkozó hőátbocsátási tényezők számtani átlaga vehető figyelembe.
 
 ## 4. Ha az épület egyes határoló felületei vagy szerkezetei nem a külső környezettel, hanem attól eltérő tx hőmérsékletű fűtetlen vagy fűtött terekkel érintkeznek (raktár, pince, szomszédos épület), akkor ezen felületek U hőátbocsátási tényezőit a következő:
 
-## 2K18391_0
+## 4K03449M_0
 
 |  |  | (II.1.) |
 
@@ -84,83 +92,79 @@
 
 ## kell meghatározni.
 
-## 6. A hőhídveszteségeket
+## 6. A felületi, szerkezeti csatlakozásoknál keletkező hőhídveszteségeket
 
 ## a) részletes módszer alkalmazása esetén az MSZ EN ISO 10211 szabvány szerinti vagy azzal azonos eredményt adó számítás alapján,
 
 ## b) egyszerűsített módszer alkalmazása esetén a következő összefüggés szerint:
 
-## 2K18391_1
-
 |  | (II.3.b) |
 
-## kell figyelembe venni.
+## kell figyelembe venni. A korrekciós tényező nem használható a gyártási, kivitelezési, tervezési hibák figyelembevételére és az ezek miatt időben bekövetkezett hőhidasság figyelembevételére (pl. hőszigetelt panelos rendszerek gyártási hibái).
 
 ## A χ korrekciós tényező értékeit a szerkezet típusa és a határolás tagoltsága függvényében az II.1. táblázat tartalmazza.
 
 ## II.1. táblázat. A hőhidak hatását kifejező korrekciós tényező
 
-## 2K18391_2
+| Határoló szerkezetek | A hőhidak hatását kifejező korrekciós tényező χ |
 
-| Határoló szerkezetek | A hőhidak hatását kifejtő korrekciós tényező χ |
+| Külső falak1) | külső oldali, vagy szerkezeten belüli | gyengén hőhidas | 0,15 |
 
-| Külső falak 1) | külső oldali, vagy szerkezeten belüli megszakítatlan hőszigeteléssel | gyengén hőhidas | 0,15 |
+| megszakítatlan hőszigeteléssel | közepesen hőhidas | 0,20 |
 
-| közepesen hőhidas | 0,20 |
+|  | erősen hőhidas | 0,30 |
 
-| erősen hőhidas | 0,30 |
+| egyéb külső falak | gyengén hőhidas | 0,25 |
 
-| egyéb külső falak | gyengén hőhidas | ,025 |
+|  | közepesen hőhidas | 0,30 |
 
-| közepesen hőhidas | 0,30 |
+|  | erősen hőhidas | 0,40 |
 
-| erősen hőhidas | 0,40 |
+| Lapostetők2) |  | gyengén hőhidas | 0,10 |
 
-| Lapostetők 2) | gyengén hőhidas | 10,10 |
+|  | közepesen hőhidas | 0,15 |
 
-| közepesen hőhidas | 0,15 |
+|  | erősen hőhidas | 0,20 |
 
-| erősen hőhidas | 0,20 |
+| Beépített tetőteret határoló szerkezetek3) | gyengén hőhidas | 0,10 |
 
-| Beépített tetőteret határoló szerkezetek 3) | gyengén hőhidas | 0,10 |
+|  |  | közepesen hőhidas | 0,15 |
 
-| közepesen hőhidas | 0,15 |
+|  |  | erősen hőhidas | 0,20 |
 
-| erősen hőhidas | 0,20 |
+| Padlásfödémek4) | 0,10 |
 
-| Padlásfödémek 4) | 0,10 |
+| Árkádfödémek4) | 0,10 |
 
-| Árkádfödémek 4) | 0,10 |
+| Pincefödémek4) | szerkezeten belüli hőszigeteléssel | 0,20 |
 
-| Pincefödémek | szerkezeten belüli hőszigeteléssel | 0,20 |
+|  | alsó oldali hőszigeteléssel | 0,10 |
 
-| alsó oldali hőszigeteléssel | 0,10 |
+| Fűtött és fűtetlen terek közötti falak, fűtött pincetereket határoló, külső oldalon hőszigetelt falak | 0,05 |
 
-| Fűtött és fütetlen terek közötti falak, fűtött pincetereket határoló, külső oldalon hőszigetelt falak | 0,05 |
+| 1) Besorolás a pozitív falsarkok, a falazatokba beépített acél vagy vasbeton pillérek, a homlokzatsíkból kinyúló falak, a nyílászáró-kerületek, a csatlakozó födémek és belső falak, erkélyek, lodzsák, függőfolyosók hosszának fajlagos mennyisége alapján (a külső falak felületéhez viszonyítva). |
 
-## 1) Besorolás a pozitív falsarkok, a falazatokba beépített acél vagy vasbeton pillérek, a homlokzatsíkból kinyúló falak, a nyílászáró-kerületek, a csatlakozó födémek és belső falak, erkélyek, lodzsák, függőfolyosók hosszának fajlagos mennyisége alapján (a külső falak felületéhez viszonyítva).
+| 2) Besorolás az attikafalak, a mellvédfalak, a fal-, felülvilágító- és felépítmény-szegélyek hosszának fajlagos mennyisége alapján a (tető felületéhez viszonyítva, a tetőfödém kerülete a külső falaknál figyelembe véve). |
 
-## 2) Besorolás az attikafalak, a mellvédfalak, a fal-, felülvilágító- és felépítmény-szegélyek hosszának fajlagos mennyisége alapján a (tető felületéhez viszonyítva, a tetőfödém kerülete a külső falaknál figyelembe véve).
+| 3) Besorolás a tetőélek és élszaruk, a felépítményszegélyek, a nyílászáró-kerületek hosszának, valamint a térd- és oromfalak és a tető csatlakozási hosszának fajlagos mennyisége alapján (a födém kerülete a külső falaknál figyelembe véve). |
 
-## 3) Besorolás a tetőélek és élszaruk, a felépítményszegélyek, a nyílászáró-kerületek hosszának, valamint a térd- és oromfalak és a tető csatlakozási hosszának fajlagos mennyisége alapján (a födém kerülete a külső falaknál figyelembe véve).
+| 4) A födém kerülete a külső falaknál figyelembe véve. |
 
-## 4) A födém kerülete a külső falaknál figyelembe véve
-
-## A besoroláshoz szükséges tájékoztató adatokat a II. 2. táblázat tartalmazza.
+| A besoroláshoz szükséges tájékoztató adatokat a II.2. táblázat tartalmazza. |
 
 ## II.2. táblázat: Tájékoztató adatok a χ korrekciós tényező kiválasztásához
 
-| Határoló szerkezetek | A hőhidak hosszának fajlagos mennyisége (fm/m2) |
+|  | A hőhidak hosszának fajlagos mennyisége (fm/m2) |
 
-| Határoló szerkezet besorolása |
+| Határoló szerkezetek | Határoló szerkezet besorolása |
 
-| gyengén hőhidas | közepesen hőhidas | erősen hőhidas |
+|  | gyengén hőhidas | közepesen hőhidas | erősen hőhidas |
 
-| Külső falak | < 0,8 | 0,8 – 1,0 | > 1,0 |
+| Külső falak | < 0,8 | 0,8 - 1,0 | > 1,0 |
 
-| Lapostetők | < 0,2 | 0,2 – 0,3 | > 0,3 |
+| Lapostetők | < 0,2 | 0,2 - 0,3 | > 0,3 |
 
-| Beépített tetőtereket határoló szerkezetek | < 0,4 | 0,4 – 0,5 | > 0,5 |
+| Beépített tetőtereket határoló szerkezetek | < 0,4 | 0,4 - 0,5 | > 0,5 |
 
 ## III. Az épület határolásának egészére vonatkozó számítások
 
@@ -176,7 +180,7 @@
 
 ## Az épület hőtároló tömege az épület belső levegőjével közvetlen kapcsolatban lévő határoló szerkezetek hőtároló tömegének összege:
 
-## 2K18391_4
+## 4K03449M_4
 
 |  | (III.2.a) |
 
@@ -194,7 +198,7 @@
 
 ## a) Részletes számítási módszer esetén a következő összefüggéssel lehet meghatározni:
 
-## 2K18391_6
+## 4K03449M_6
 
 |  | (III.3.a) |
 
@@ -210,7 +214,7 @@
 
 ## a) Részletes számítási módszer esetén a következő összefüggéssel lehet meghatározni:
 
-## 2K18391_7
+## 4K03449M_7
 
 |  | (III.4.a) |
 
@@ -222,7 +226,7 @@
 
 ## a) Részletes számítási módszer alkalmazása esetén célszerű meghatározni ehhez a lépéshez kapcsolódóan, az esetleges társított (napvédő) szerkezet hatását is figyelembe véve.
 
-## 2K18391_8
+## 4K03449M_8
 
 |  | (III.5.a) |
 
@@ -238,21 +242,17 @@
 
 ## 7. A fajlagos hőveszteségtényező (q)
 
-## A fajlagos hőveszteségtényező a transzmissziós hőáramok és a fűtési idény átlagos feltételei mellett kialakuló (passzív) sugárzási hőnyereség hasznosított hányadának algebrai összege egységnyi belső – külső hőmérsékletkülönbségre és egységnyi fűtött térfogatra vetítve.
+## A fajlagos hőveszteségtényező a transzmissziós hőáramok és a fűtési idény átlagos feltételei mellett kialakuló (passzív) sugárzási hőnyereség hasznosított hányadának algebrai összege egységnyi belső - külső hőmérsékletkülönbségre és egységnyi fűtött térfogatra vetítve. Amennyiben a II.5.a) pont szerint részletes módszerrel kerülnek számításra a talajjal érintkező szerkezetek veszteség áramai, akkor a 7.a) és a 7.b) pont szerinti képletben szereplő Σlψ szorzatban a lábazat és a pincefal vonalmenti adatai helyébe az MSZ EN ISO 13370 szabvány módszertanában leírt tényezők lépnek.
 
 ## a) Részletes számítási módszer szerint számolva:
 
-## 2K18391_9
-
-|  | (III.7.a) |
+|  |  |  | (III.7.a) |
 
 ## Az összefüggés jobb oldalán a második szorzatösszegben a lábazatok, talajjal érintkező padlók, pincefalak vonalmenti veszteségei mellett a csatlakozási élek is szerepelnek.
 
 ## b) Egyszerűsített módszerrel:
 
-## 2K18391_10
-
-|  | (III.7.b) |
+|  |  |  | (III.7.b) |
 
 ## Az összefüggés jobb oldalán a második szorzatösszegben a lábazatok, talajjal érintkező padlók, pincefalak vonalmenti veszteségei szerepelnek, a hőhidak hatását és a külső hőmérséklettől eltérő túloldali hőmérsékletet a korrigált hőátbocsátási tényező fejezi ki.
 
@@ -260,15 +260,13 @@
 
 ## 1. Egyszerűsített számítási módszer alkalmazása esetén:
 
-## 2K18391_11
+|  |  |  | (IV.1.) |
 
-|  | (IV.1.) |
-
-## A légcsereszám, a belső hőterhelés fajlagos értéke és a szakaszosan (éjszakára, hétvégére) leszabályozott fűtési üzem hatását kifejező σ csökkentő tényező a 3. mellékletben megadott, az épület rendeltetésétől függő adat.
+## A légcsereszám, a belső hőterhelés fajlagos értéke és a szakaszosan (éjszakára, hétvégére) leszabályozott fűtési üzem hatását kifejező σ csökkentő tényező a 3. mellékletben megadott, az épület rendeltetésétől függő adat. A σ csökkentő tényező csökkentő hatást csak akkor lehet számításba venni, ha fűtésszabályozás automatikával programozható. Meglévő épülethatároló elemek tömítettségének a fűtés éves nettó hőenergia igényre gyakorolt hatását a légcsereszámban a 3. melléklet IV.2. táblázatában szereplő nT hozzáadásával kell figyelembe venni. nT légcsere hányad folyamatosan jelentkezik és hővisszanyerést nem lehet rajta alkalmazni.
 
 ## 2. Részletes számítási módszer alkalmazása esetén a következő összefüggéssel kell számítani az egyensúlyi hőmérsékletkülönbséget:
 
-## 2K18391_12
+## 4K03449M_12
 
 |  | (IV.2.) |
 
@@ -276,7 +274,7 @@
 
 ## 4. Részletes számítási módszer alkalmazása esetén az éves nettó fűtési energiaigényt a következő összefüggéssel lehet számítani:
 
-## 2K18391_13
+## 4K03449M_13
 
 |  | (IV.4.) |
 
@@ -294,9 +292,7 @@
 
 ## Ha a nettó fűtési energiaigény fedezéséhez a fűtési rendszeren kívül a légtechnikai rendszerbe beépített folyamatos működésű hővisszanyerő is hozzájárul (pl. lakóépület), akkor a fűtési rendszerrel fedezendő nettó energiaigény a következők szerint módosul:
 
-## 2K18391_14
-
-|  | (IV.5.1.) |
+|  |  |  | (IV.5.1.) |
 
 ## Egyszerűsített módszer alkalmazása esetén az összefüggésben H = 72 és ZF = 4,4
 
@@ -304,9 +300,7 @@
 
 ## Ha a nettó fűtési energiaigény fedezéséhez a fűtési rendszeren kívül a légtechnikai rendszerbe beépített szakaszos működésű hővisszanyerő is hozzájárul (pl. középület), akkor a fűtési rendszerrel fedezendő nettó energiaigény a következők szerint módosul:
 
-## 2K18391_15
-
-|  | (IV.5.2.) |
+|  |  |  | (IV.5.2.) |
 
 ## Egyszerűsített módszer alkalmazása esetén az összefüggésben H = 72 és ZF = 4,4
 
@@ -314,19 +308,23 @@
 
 ## Ha a légtechnikai rendszerben a levegő felmelegítésére léghevítőt (is) beépítenek, akkor a fűtési rendszerrel fedezendő nettó energiaigény a következők szerint módosul:
 
-## 2K18391_16
-
-|  | (IV.5.3.) |
+|  |  |  | (IV.5.3.) |
 
 ## Egyszerűsített módszer alkalmazása esetén az összefüggésben H = 72 és ZF = 4,4
 
 ## helyettesítési érték alkalmazandó.
 
-## A nettó fűtési energiaigénynek a légtechnikai rendszerrel fedezett része a VIII. 3. pont szerint számítandó.
+## A nettó fűtési energiaigénynek a légtechnikai rendszerrel fedezett része a VIII.3. pont szerint számítandó.
+
+## Amennyiben a hővisszanyerés felületi hőcserélővel történik (tehát nem az elszívott levegőt forrásoldalként hasznosító hőszivattyúval), úgy az energiamérleg számításakor a deresedést megelőző megkerülő vezetékes üzemmód miatti hatásfok csökkenést figyelembe kell venni, amit alábbi összefüggéssel is lehet becsülni:
+
+|  |  |  | (IV.5.4.) |
+
+## ahol ηra a szellőző rendszerbe épített hővisszanyerő közölt hatásfoka, Hd a deresedés szempontjából kockázatot jelentő külső határhőmérséklet alatti, a belső hőmérsékletre vonatkoztatott hőfokhíd ezred része. Ennek értéke az épület használati menetrendjétől függ (a határhőmérséklet gyakorisága más teljes napi időszakra és más a nappali órákra). Amennyiben deresedés elleni védelemre előfűtést alkalmaznak, az arra szolgáló rendszer vagy berendezés primer energiaigényét figyelembe kell venni [elektromos előfűtés, talajhővel történő („passzív”) előfűtés szivattyújának, ventilátorának meghajtása stb.].
 
 ## 6. A fűtési rendszerrel biztosított nettó fűtési energiaigény fajlagos értékét a következő összefüggéssel kell kiszámítani:
 
-## 2K18391_17
+## 4K03449M_18
 
 |  | (IV.6.) |
 
@@ -334,7 +332,7 @@
 
 ## 1. A belső és a külső hőmérséklet napi átlagos különbségét a következő összefüggéssel lehet kiszámítani:
 
-## 2K18391_18
+## 4K03449M_19
 
 |  | (V.1.) |
 
@@ -344,7 +342,7 @@
 
 ## 1. A fűtés fajlagos primer energia igényét a következő összefüggéssel kell kiszámítani:
 
-## 2K18391_19
+## 4K03449M_20
 
 |  | (VI.1.a) |
 
@@ -662,7 +660,7 @@
 
 ## 1. A melegvízellátás primer energiaigényét a következő összefüggéssel kell számítani:
 
-## 2K18391_33
+## 4K03449M_34
 
 |  | (VII.1.a) |
 
@@ -708,7 +706,7 @@
 
 ## VII.2. táblázat. Elektromos üzemű HMV készítés teljesítménytényezője, CK
 
-## 2K18391_35
+## 4K03449M_36
 
 |  |  | Teljesítménytényező |
 
@@ -856,7 +854,7 @@
 
 ## 1. A légcserét és a levegő melegítését szolgáló szellőzési rendszerek fajlagos primer energia igénye a következő összefüggéssel számítható:
 
-## 2K18391_41
+## 4K03449M_42
 
 |  | (VIII.1.a) |
 
@@ -872,7 +870,7 @@
 
 ## 2. A légtechnikai rendszerekbe épített ventilátorok villamos energiaigényét az alábbi összefüggéssel lehet meghatározni:
 
-## 2K18391_42
+## 4K03449M_43
 
 |  | (VIII.2.) |
 
@@ -880,21 +878,19 @@
 
 ## VIII.1. táblázat: Ventilátorok összhatásfoka, ηvent
 
-|  |  | Ventilátor térfogatárama VLT [m3/h] | Ventilátor összhatásfoka ηvent [-] |
+|  | Ventilátor térfogatárama VLT [m3/h] | Ventilátor összhatásfoka ηvent [–] |
 
-|  | Nagy ventilátorok | 10.000 ≤VLT | 0,70 |
+| Nagy ventilátorok | 10.000 ≤ VLT | 0,70 |
 
-|  | Közepes ventilátorok | 1.000 ≤VLT < 10.000 | 0,55 |
+| Közepes ventilátorok | 1.000 ≤ VLT < 10.000 | 0,55 |
 
-|  | Kis ventilátorok | VLT < 1.000 | 0,40 |
+| Kis ventilátorok | VLT < 1.000 | 0,40 |
 
-## Ha az épületben több ventilátor/légtechnikai rendszer üzemel, azok fogyasztását összegezni kell.
+## Ha az épületben több ventilátor/légtechnikai rendszer üzemel, azok fogyasztását összegezni kell. Amennyiben a légtechnikai rendszerben levegő visszakeverés is van, annak mennyiségét is figyelembe kell venni a ventilátor térfogatáramának meghatározásakor.
 
-## 3. A légtechnikai rendszer nettó éves hőenergia igénye (QLT,h)
+## 3. A légtechnikai rendszer nettó éves hőenergia igénye (QLT,n)
 
-## 2K18391_44
-
-|  | (VIII.3.) |
+|  |  |  | (VIII.3.) |
 
 ## 4. A légtechnikai rendszer bruttó éves energia igénye
 
@@ -924,13 +920,13 @@
 
 ## a) kör keresztmetszetű légcsatorna hővesztesége hosszegységre vonatkoztatva:
 
-## 2K18391_46
+## 4K03449M_47
 
 |  | (VIII.4.1.) |
 
 ## b) négyszög keresztmetszetű légcsatorna hővesztesége felületre vonatkoztatva:
 
-## 2K18391_47
+## 4K03449M_48
 
 |  | (VIII.4.2.) |
 
@@ -986,7 +982,7 @@
 
 ## A berendezések segédenergia igénye a következő összefüggéssel számítható:
 
-## 2K18391_50
+## 4K03449M_51
 
 |  | (VIII.5.) |
 
@@ -994,7 +990,7 @@
 
 ## A gépi hűtés fajlagos éves primer energiafogyasztása a bruttó energiafogyasztásból kell kiszámítani:
 
-## 2K18391_51
+## 4K03449M_52
 
 |  | (IX.1.) |
 
@@ -1004,13 +1000,13 @@
 
 ## A nettó hűtési energiaigény előzetes becslésére a következő közelítés alkalmazható:
 
-## 2K18391_52
+## 4K03449M_53
 
 |  | (IX.2.) |
 
 ## ahol nhű azoknak a napoknak a száma, amelyre teljesül a
 
-## 2K18391_53
+## 4K03449M_54
 
 |  | (IX.3.) |
 
@@ -1046,7 +1042,7 @@
 
 ## A beépített világítás fajlagos éves primer energiafogyasztása:
 
-## 2K18391_55
+## 4K03449M_56
 
 |  | (X.1.) |
 
@@ -1060,6 +1056,6 @@
 
 ## Az összesített energetikai jellemző az épületgépészeti és világítási rendszerek primer energiafogyasztása összegének egységnyi fűtött alapterületre vetített értéke.
 
-3. melléklet a 7/2006. (V. 24.) TNM rendelethez[^15]
+3. melléklet a 7/2006. (V. 24.) TNM rendelethez[^19]
 
-[^15]: A 3. melléklet a 40/2012. (VIII. 13.) BM rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^19]: A 3. melléklet a 40/2012. (VIII. 13.) BM rendelet 4. § (3) bekezdésével megállapított, a 20/2014. (III. 7.) BM rendelet 6. § (3) bekezdése szerint módosított szöveg.
