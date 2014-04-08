@@ -1,0 +1,113 @@
+# A Kormány 120/2014. (IV. 8.) Korm. rendelete
+
+Magyar Közlöny 2014. évi 52. szám, 2014. április 8. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/a5d970eeae7ec257415220261bb02d13fa4cf51e/dokumentumok/5b25f5377a406658afb49827d1f382000624d882/letoltes)
+
+---
+
+A Kormány 120/2014. (IV. 8.) Korm. rendelete
+a nyilvános könyvtárak jegyzékének vezetéséről
+A Kormány a muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény
+100. § (1) bekezdés e) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében foglalt feladatkörében
+eljárva a következőket rendeli el:
+1. § (1) A kultúráért felelős miniszter (a továbbiakban: miniszter) a muzeális intézményekről, a nyilvános könyvtári
+ellátásról és a közművelődésről szóló 1997. évi CXL. törvény (a továbbiakban: Kultv.) 54. § (2) bekezdése alapján,
+az e rendeletben meghatározottak szerint vezeti a nyilvános könyvtárak jegyzékét (a továbbiakban: jegyzék).
+(2) A jegyzékre az a könyvtár vehető fel, amely teljesíti a nyilvános könyvtár Kultv. 54. § (1) bekezdésében
+meghatározott alapkövetelményeit (a továbbiakban: alapkövetelmények) és ellátja a nyilvános könyvtár Kultv.
+55. § (1) bekezdésében meghatározott alapfeladatait (a továbbiakban: alapfeladatok).
+(3) A jegyzék a könyvtár alapító okiratával, vagy – az államháztartásról szóló törvény hatálya alá nem tartozó könyvtárak
+esetében – a nyilvános könyvtári tevékenység folytatására jogosító okiratával (a továbbiakban együtt: alapító okirat)
+egyezően, és a 2. § (3) bekezdése szerinti, a jegyzékbe történő felvétel iránti kérelemben (a továbbiakban: kérelem)
+foglaltak alapján tartalmazza a könyvtár
+a) nevét, címét, telefonszámát, e-mail címét, honlapjának címét,
+b) székhelye szerinti település nevét, KSH- és megyekódját,
+c) alapító okiratának keltét,
+d) fenntartójának, illetve működtetőjének megnevezését (a továbbiakban együtt: fenntartója),
+e) alaptevékenységét (alaptevékenységeit),
+f) vezetőjének nevét,
+g) részletes nyitva tartását, valamint
+h) ingyenes alapszolgáltatásainak felsorolását.
+(4) E rendelet alkalmazásában nyilvános könyvtári tevékenység folytatására jogosító okirat
+a) a Kultv. 54. § (3) bekezdésének hatálya alá tartozó könyvtárak esetében a könyvtár alapító okirata,
+b) a Kultv. 54. § (3) bekezdésének hatálya alá nem tartozó könyvtárak esetében a fenntartó alapító okirata és
+a könyvtár szervezeti és működési szabályzata, amelyekből egyértelműen megállapítható, hogy a könyvtár
+a nyilvános könyvtárak rendszerszerű működésében feladatot vállalhat, és ezt a feladatot képes folyamatosan
+ellátni, továbbá amely egyértelműen tartalmazza a könyvtár alaptevékenységét (alaptevékenységeit).
+2. § (1) A jegyzék vezetésével kapcsolatos feladatok ellátásában a 3. §-ban meghatározott módon közreműködik
+a Könyvtári Intézet.
+(2) A kérelmet a könyvtár fenntartójának a Könyvtári Intézetnek kell benyújtania.
+(3) A kérelemnek tartalmaznia kell a fenntartó megnevezését, címét, a fenntartó székhelye szerinti település KSH- és
+megyekódját, valamint a fenntartó nyilatkozatát arról, hogy
+a) gondoskodik a könyvtár folyamatos és rendeltetésszerű működéséhez szükséges feltételeinek biztosításáról,
+b) a könyvtár megfelel az alapkövetelményeknek,
+c) a könyvtár a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló törvény előírásai szerint
+megközelíthető,
+d) a könyvtár az alapfeladatokat ellátja,
+e) a könyvtár a küldetésnyilatkozatát a honlapján közzétette,
+f) a könyvtár a Minősített Könyvtár cím és a Könyvtári Minőségi Díj adományozásáról szóló miniszteri rendelet
+alapján kidolgozott könyvtári önértékelés szakmai szempontjait figyelembe véve szervezi a szolgáltatásait,
+vizsgálja a könyvtárhasználók igényeit,
+g) a könyvtár szolgáltatásait – települési önkormányzat által fenntartott könyvtár esetében – beépíti a helyi
+esélyegyenlőségi programba, valamint
+h) a könyvtár biztosít-e nemzetiségi könyvtári ellátást.
+(4) A kérelemhez mellékelni kell
+a) a könyvtár alapító okiratának vagy a nyilvános könyvtári tevékenység folytatására jogosító okiratának hiteles
+másolatát,
+b) a könyvtár vezetőjének szakképzettségét igazoló dokumentum másolatát,
+c) kimutatást a könyvtári szakemberek számáról,
+
+d) tájékoztatást a könyvtár kizárólagosan könyvtári szolgáltatások céljaira alkalmas helyiségeinek
+alapterületéről (m2), valamint
+e) a könyvtár alap- és kiegészítő feladatainak felsorolását.
+(5) A (3) és (4) bekezdés szerinti adatokban történő változás esetén, továbbá a könyvtár alapító okiratának módosítását
+követően a megváltozott adatokat, a módosított alapító okirat másolatát a változást követő 30 napon belül be kell
+nyújtani a Könyvtári Intézetnek.
+3. § (1) A Könyvtári Intézet a beérkezett iratokat megvizsgálja abból a szempontból, hogy azok megfelelnek-e
+az e rendeletben foglaltaknak, és az iratok alapján a könyvtár eleget tesz-e az alapkövetelményeknek és
+az alapfeladatoknak, majd a kérelmet – szakmai javaslatával együtt – a kérelem beérkezésétől számított 15 napon
+belül megküldi a miniszternek.
+(2) A Könyvtári Intézet által továbbított dokumentumok és a Könyvtári Intézet szakmai javaslata alapján a miniszter
+– a (4) bekezdésben meghatározott kivétellel – az általa vezetett kulturális szakértői névjegyzéken szereplő
+könyvtári szakértő bevonásával a számára továbbított dokumentumok és javaslat beérkezésétől számított 60 napon
+belül dönt a jegyzékbe való felvételről.
+(3) Az alapkövetelmények és alapfeladatok teljesítését a miniszter a (2) bekezdés szerinti módon, valamint
+az Országos Statisztikai Adatgyűjtési Program adatgyűjtéseiről és adatátvételeiről szóló kormányrendeletnek
+megfelelően készült statisztikai jelentések és a könyvtári szakfelügyeletről szóló miniszteri rendelet alapján készült
+szakfelügyeleti jelentések figyelembevételével vizsgálja.
+(4) A miniszter mellőzi a (3) bekezdés szerinti vizsgálatot
+a) a Minősített Könyvtár cím és a Könyvtári Minőségi Díj adományozásáról szóló miniszteri rendelet szerinti
+Minősített Könyvtár címmel rendelkező könyvtár, valamint
+b) a Kultv. 54. § (3) bekezdésével nyilvános könyvtárnak minősített könyvtár
+esetében.
+4. § (1) A miniszter dönt
+a) a jegyzékbe való felvételről,
+b) a jegyzéken a 6. § (2) bekezdésében szereplő könyvtár jegyzéken tartásáról,
+c) a jegyzékre való felvétel mellőzéséről, ha a könyvtár nem teljesíti az alapkövetelményeket és nem látja el
+teljes körűen az alapfeladatokat, és a könyvtár fenntartója a Kultv. 54. § (5) bekezdése szerinti felhívásnak
+az abban meghatározott, 30 napnál nem rövidebb határidőben nem tett eleget, vagy
+d) a jegyzékről való törlésről, ha
+da) a könyvtár nem teljesíti az alapkövetelményeket és nem látja el teljes körűen az alapfeladatokat,
+és a könyvtár fenntartója a Kultv. 54. § (5) bekezdése szerinti felhívásnak az abban meghatározott,
+30 napnál nem rövidebb határidőben nem tett eleget, vagy
+db) a Kultv. 54. § (3) bekezdésének hatálya alá nem tartozó könyvtár fenntartója a miniszternek címzett,
+a Könyvtári Intézetnek megküldött kérelmével a törlést kezdeményezi.
+(2) A jegyzékből törölt könyvtár a 2. § szerinti kérelemre újból felvehető a jegyzékbe, ha teljesíti az alapkövetelményeket,
+és ellátja az alapfeladatokat.
+5. § (1) A miniszter a mindenkor hatályos jegyzéket a kormányzati portálon teszi közzé, valamint gondoskodik a jegyzék
+módosításainak a döntését követően, továbbá kétévente a teljes jegyzéknek a Magyar Közlöny mellékleteként
+megjelenő Hivatalos Értesítőben történő közzétételéről.
+(2) A jegyzéken szereplő könyvtár adatainak bejelentett változását a miniszter a bejelentéstől számított 15 napon belül
+módosítja a jegyzéken, és gondoskodik a közzétételről az (1) bekezdésben foglaltak szerint.
+6. § (1) Ez a rendelet a kihirdetését követő 15. napon lép hatályba.
+(2) A rendelet hatálybalépésével a nyilvános könyvtárak jegyzékének vezetéséről szóló 64/1999. (IV. 28.) Korm. rendelet
+alapján vezetett nyilvános könyvtári jegyzék a rendelet hatálybalépését megelőző napon fennálló, a kormányzati
+portálon rögzített állapot szerinti tartalommal beépül az e rendelet alapján vezetett jegyzékbe. A jegyzékre ezen
+a módon felvett könyvtárakat a miniszter a Kultv. 54. § (5) bekezdése alapján e rendelet hatálybalépésétől számított
+5 éven belül ellenőrzi, és a 4. § b) pontja vagy a 4. § d) pont da) alpontja szerinti döntést hoz.
+
+(3) A Minősített Könyvtár cím és a Könyvtári Minőségi Díj adományozásáról szóló miniszteri rendelet alapján
+kidolgozott könyvtári önértékelés szakmai szempontjainak nem teljesítése miatt a könyvtár a jegyzékről csak 2016.
+január 1. napjától törölhető.
+(4) Hatályát veszti a nyilvános könyvtárak jegyzékének vezetéséről szóló 64/1999. (IV. 28.) Korm. rendelet.
+ Orbán Viktor s. k.,
+ miniszterelnök

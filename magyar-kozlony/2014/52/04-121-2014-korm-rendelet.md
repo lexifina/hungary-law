@@ -1,0 +1,799 @@
+# A Kormány 121/2014. (IV. 8.) Korm. rendelete
+
+Magyar Közlöny 2014. évi 52. szám, 2014. április 8. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/a5d970eeae7ec257415220261bb02d13fa4cf51e/dokumentumok/5b25f5377a406658afb49827d1f382000624d882/letoltes)
+
+---
+
+A Kormány 121/2014. (IV. 8.) Korm. rendelete
+egyes agrár- és környezetvédelmi tárgyú kormányrendeletek módosításáról
+A Kormány
+a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes
+kérdéseiről szóló 2007. évi XVII. törvény 81. § (1) bekezdés e) pontjában,
+a 2. alcím tekintetében a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes
+rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény 104. § (1) bekezdés b) pontjában,
+a 3. alcím tekintetében a kémiai biztonságról szóló 2000. évi XXV. törvény 34. § (3) bekezdés e) pontjában,
+a 4. alcím tekintetében a mező- és erdőgazdálkodási földek forgalmáról szóló 2013. évi CXXII. törvény 72. § f) pontjában
+kapott felhatalmazás alapján – az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva – a következőket
+rendeli el:
+1. A kölcsönös megfeleltetési szabályok betartását ellenőrző szervekről szóló
+322/2007. (XII. 5.) Korm. rendelet módosítása
+1. §
+A kölcsönös megfeleltetési szabályok betartását ellenőrző szervekről szóló 322/2007. (XII. 5.) Korm. rendelet
+1. számú melléklete helyébe az 1. melléklet lép.
+2. A földhasználati nyilvántartás részletes szabályairól szóló 356/2007. (XII. 23.) Korm. rendelet
+módosítása
+2. §
+Hatályát veszti a földhasználati nyilvántartás részletes szabályairól szóló 356/2007. (XII. 23.) Korm. rendelet
+9. § (3) bekezdés f) pontja.
+3. Az egyes veszélyes anyagok elektromos és elektronikus berendezésekben való alkalmazásának
+korlátozásáról szóló 374/2012. (XII. 18.) Korm. rendelet módosítása
+3. § (1) Az egyes veszélyes anyagok elektromos és elektronikus berendezésekben való alkalmazásának korlátozásáról szóló
+374/2012. (XII. 18.) Korm. rendelet (a továbbiakban: RoHS rendelet) 8. §-a a következő (3a) bekezdéssel egészül ki:
+„(3a) Az importőr gondoskodik róla, hogy a gyártó biztosítsa, hogy az elektromos vagy elektronikus berendezésen
+típus-, tétel-, sorozatszám vagy egyéb azonosítására alkalmas elem szerepeljen, vagy – ha a berendezés mérete
+vagy jellege ezt nem teszi lehetővé – a megkövetelt információk a csomagoláson vagy a berendezést kísérő
+dokumentumban szerepeljenek.”
+(2) A RoHS rendelet 16. §-a a következő d)–s) pontokkal egészül ki:
+(Ez a rendelet)
+„d) a 2011/65/EU európai parlamenti és tanácsi irányelv IV. mellékletének az ionizáló sugárzásnak kitett orvosi
+berendezések csapágyazásához és kopófelületeihez ötvözőelemként használt ólom mentesítése tekintetében,
+a műszaki fejlődéshez történő hozzáigazítás céljából történő módosításáról szóló, 2013. október 18-i 2014/1/EU
+bizottsági irányelvnek,
+
+e) a 2011/65/EU európai parlamenti és tanácsi irányelv IV. mellékletének a röntgen-képerősítők foszforbevonatában
+és az uniós piacon 2020. január 1-je előtt forgalomba hozott röntgenrendszerek cserealkatrészeinek
+foszforbevonatában lévő kadmium 2019. december 31-ig szóló mentesítése tekintetében, a műszaki fejlődéshez
+történő hozzáigazítás céljából történő módosításáról szóló, 2013. október 18-i 2014/2/EU bizottsági irányelvnek,
+f) a 2011/65/EU európai parlamenti és tanácsi irányelv IV. mellékletének a CT- (komputertomográfiás) és
+MRI-berendezéseknél sztereotaxiás fejkeretekben, valamint gamma-sugár- és részecsketerápiás berendezések
+pozicionáló rendszereiben használt ólom-acetát jelölőanyagok mentesítése tekintetében, a műszaki fejlődéshez
+történő hozzáigazítás céljából történő módosításáról szóló, 2013. október 18-i 2014/3/EU bizottsági irányelvnek,
+g) a 2011/65/EU európai parlamenti és tanácsi irányelv IV. mellékletének a röntgen-képerősítőkben lévő alumínium
+és acél alkatrészek légzáró csatlakoztatásához használt ólom mentesítése tekintetében, a műszaki fejlődéshez
+történő hozzáigazítás céljából történő módosításáról szóló, 2013. október 18-i 2014/4/EU bizottsági irányelvnek,
+h) a 2011/65/EU európai parlamenti és tanácsi irányelv IV. mellékletének a nyomtatott áramköri lapok
+forraszanyagaiban, villamos és elektronikai alkatrész-csatlakozások bevonatában, nyomtatott áramköri lapok
+bevonatában, huzalokat és kábeleket összekötő forraszanyagokban, standard működési és tárolási körülmények
+között tartósan –20 °C alatt használt átalakítókat és érzékelőket összekötő forraszanyagokban lévő ólom
+mentesítése tekintetében, a műszaki fejlődéshez történő hozzáigazítás céljából történő módosításáról szóló,
+2013. október 18-i 2014/5/EU bizottsági irányelvnek,
+i) a 2011/65/EU európai parlamenti és tanácsi irányelv IV. mellékletének a standard működési és tárolási
+körülmények között tartósan –20 °C alatt használt, nemmágneses csatlakozókat igénylő tűs csatlakozórendszerek
+bevonatában lévő ólom mentesítése tekintetében, a műszaki fejlődéshez történő hozzáigazítás céljából történő
+módosításáról szóló, 2013. október 18-i 2014/6/EU bizottsági irányelvnek,
+j) a 2011/65/EU európai parlamenti és tanácsi irányelv IV. mellékletének az a) a mágneses rezonanciás orvosi
+képalkotó berendezésekben található mágnes izocentrumát körülvevő legfeljebb 1 m sugarú mágneses mezőben
+– beleértve az e mezőn belüli használatra tervezett betegmonitorokat is –, vagy pedig b) a részecsketerápiához
+alkalmazott ciklotronmágnesek, sugártovábbító mágnesek és sugárirány-ellenőrző mágnesek külső felületétől
+számított 1 m távolságon belül található mágneses mezőben alkalmazott forraszanyagokban, valamint
+nyomtatott áramköri lapok és villamos és elektronikus alkatrészek védőbevonatában, továbbá villamos vezetékek
+csatlakozásaiban, árnyékolókban és zárt csatlakozókban lévő ólom mentesítése tekintetében, a műszaki fejlődéshez
+történő hozzáigazítás céljából történő módosításáról szóló, 2013. október 18-i 2014/7/EU bizottsági irányelvnek,
+k) a 2011/65/EU európai parlamenti és tanácsi irányelv IV. mellékletének a digitális kadmium-tellurid és kadmium-
+cink-tellurid sordetektorok nyomtatott áramköri lapokra való szereléséhez használt forraszanyagokban lévő ólom
+mentesítése tekintetében, a műszaki fejlődéshez történő hozzáigazítás céljából történő módosításáról szóló,
+2013. október 18-i 2014/8/EU bizottsági irányelvnek,
+l) a 2011/65/EU európai parlamenti és tanácsi irányelv IV. mellékletének az MRI-, SQUID-, NMR- (mágneses
+magrezonancia) vagy FTMS-detektorokban (Fourier-transzformációs tömegspektrometria) szupravezető mágneses
+köröket létrehozó fém kapcsolódási felületekben lévő ólom és kadmium mentesítése tekintetében, a műszaki
+fejlődéshez történő hozzáigazítás céljából történő módosításáról szóló, 2013. október 18-i 2014/9/EU bizottsági
+irányelvnek,
+m) a 2011/65/EU irányelv európai parlamenti és tanácsi irányelv IV. mellékletének a kriogén hűtők hideg fejeiben
+és/vagy kriogén hűtésű hideg szondákban és/vagy kriogén hűtésű ekvipotenciális kötési rendszerekben,
+orvostechnikai eszközökben (8. kategória) és/vagy ipari felügyeleti és vezérlő eszközökben szupravezetőként vagy
+hővezetőként használt ötvözetekben alkalmazott ólom mentesítése tekintetében, a műszaki fejlődéshez történő
+hozzáigazítás céljából történő módosításáról szóló, 2013. október 18-i 2014/10/EU bizottsági irányelvnek,
+n) a 2011/65/EU európai parlamenti és tanácsi irányelv IV. mellékletének a röntgen-képerősítők fotokatódjainak
+gyártásához 2019. december 31-ig használt alkáliadagolókban és az uniós piacon 2020. január 1. előtt forgalomba
+hozott röntgen-képerősítők cserealkatrészeiben alkalmazott hat vegyértékű króm mentesítése tekintetében,
+a műszaki fejlődéshez történő hozzáigazítás céljából történő módosításáról szóló, 2013. október 18-i 2014/11/EU
+bizottsági irányelvnek,
+o) a 2011/65/EU európai parlamenti és tanácsi irányelv IV. mellékletének a mágneses rezonanciás képalkotó
+berendezésekbe beépített pozitronemissziós tomográfok detektorainak és adatrögzítő egységeinek nyomtatott
+áramköri lapjain alkalmazott forraszanyagokban lévő ólom mentesítése tekintetében, a műszaki fejlődéshez történő
+hozzáigazítás céljából történő módosításáról szóló, 2013. október 18-i 2014/12/EU bizottsági irányelvnek,
+p) a 2011/65/EU európai parlamenti és tanácsi irányelv IV. mellékletének a 93/42/EGK irányelv szerinti IIa. és
+IIb. osztályba tartozó, a hordozható sürgősségi defibrillátoroktól eltérő hordozható orvostechnikai eszközökben
+
+használt beültetett nyomtatott áramköri lapokon alkalmazott forraszanyagokban lévő ólom mentesítése
+tekintetében, a műszaki fejlődéshez történő hozzáigazítás céljából történő módosításáról szóló, 2013. október 18-i
+2014/13/EU bizottsági irányelvnek,
+q) a 2011/65/EU európai parlamenti és tanácsi irányelv III. mellékletének az általános világítási célra szolgáló,
+30 W alatti teljesítményű, legalább 20 000 óra élettartamú, egy végükön fejelt kompakt fénycsövekben használt,
+égőnként 3,5 mg higany mentesítése tekintetében, a műszaki fejlődéshez történő hozzáigazítás céljából történő
+módosításáról szóló, 2013. október 18-i 2014/14/EU bizottsági irányelvnek,
+r) a 2011/65/EU európai parlamenti és tanácsi irányelv IV. mellékletének a 2014. július 22. előtt forgalomba hozott
+orvostechnikai eszközökből nyert és a 8. kategóriába tartozó, 2021. július 22. előtt forgalomba hozott eszközökben
+újrafelhasznált cserealkatrészekben – amennyiben az újrafelhasználásra vállalatok közötti, ellenőrizhető zárt
+csererendszereken belül kerül sor, valamint az alkatrészek újrafelhasználásáról értesítik a fogyasztót – lévő ólom,
+kadmium és hat vegyértékű króm mentesítése tekintetében, a műszaki fejlődéshez történő hozzáigazítás céljából
+történő módosításáról szóló, 2013. október 18-i 2014/15/EU bizottsági irányelvnek,
+s) a 2011/65/EU európai parlamenti és tanácsi irányelv IV. mellékletének a BSP (BaSi
+
+O
+
+:Pb) foszforokat tartalmazó,
+testen kívüli fénykezelésben (fotoferezisben) használt kisülő lámpákban található fluoreszcens porban aktivátorként
+alkalmazott ólom mentesítése tekintetében, a műszaki fejlődéshez történő hozzáigazítás céljából történő
+módosításáról szóló, 2013. október 18-i 2014/16/EU bizottsági irányelvnek”
+(való megfelelést szolgálja.)
+(3) A RoHS rendelet 2. melléklete helyébe a 2. melléklet lép.
+(4) A RoHS rendelet 3. melléklete helyébe a 3. melléklet lép.
+(5) Hatályát veszti a RoHS rendelet 8. § (1) bekezdés második mondata.
+4. A földművesekről, a mezőgazdasági termelőszervezetekről, valamint a mezőgazdasági
+üzemközpontokról vezetett nyilvántartás részletes szabályairól szóló 38/2014. (II. 24.) Korm. rendelet
+módosítása
+4. § (1) A földművesekről, a mezőgazdasági termelőszervezetekről, valamint a mezőgazdasági üzemközpontokról vezetett
+nyilvántartás részletes szabályairól szóló 38/2014. (II. 24.) Korm. rendelet (a továbbiakban: Fr.) 1. alcíme a következő
+2/A. §-sal egészül ki:
+„2/A. § Ahol e rendelet őstermelőről rendelkezik, ott a közös őstermelői igazolvány esetén az igazolványon szereplő
+természetes személyek bármelyikét érteni kell.”
+(2) Az Fr. a következő 7/A. §-sal egészül ki:
+„7/A. § (1) Az 5. § (1) bekezdés a) pontjától, a 6. § (3) bekezdés c) pontjától és a 7. § b) pontjától eltérően a Kr.-ben
+meghatározott mezőgazdasági vagy erdészeti szakirányú képzettséget igazoló okirat becsatolásának minősül
+az is, ha a kérelem személyesen kerül benyújtásra, és a szakirányú képzettséget igazoló okirat eredeti példányát
+a kérelmező másolat készítés céljából a földhivatal ügyintézője számára átadja. Ez esetben a nyilvántartásba vétel
+alapjául az eredeti okiratról a földhivatal ügyintézője által készített másolat szolgál, amelyet a (2) bekezdés szerinti
+záradékkal kell ellátni.
+(2) A szakirányú képzettséget igazoló eredeti okiratról készített másolatot a következő szövegű záradékkal kell
+ellátni: „A kérelem személyes előterjesztése alkalmával a kérelmező részéről átadott eredeti okiratról készített
+másolat.” A záradéknak tartalmaznia kell a másolat kiállításának helyét és dátumát, a kérelmező és a földhivatali
+ügyintéző aláírását, valamint a földhivatal bélyegzőjét.”
+(3) Hatályát veszti az Fr. 6. § (3) bekezdés a) pontjában a„főtevékenysége szerinti”szövegrész.
+5. Záró rendelkezések
+5. § (1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
+(2) A 3. §, a 2. és a 3. melléklet az e rendelet kihirdetését követő 8. napon lép hatályba.
+6. §
+E rendelet 3. alcíme, 2. és 3. melléklete
+ 1. a 2011/65/EU európai parlamenti és tanácsi irányelv IV. mellékletének az ionizáló sugárzásnak kitett
+orvosi berendezések csapágyazásához és kopófelületeihez ötvözőelemként használt ólom mentesítése
+tekintetében, a műszaki fejlődéshez történő hozzáigazítás céljából történő módosításáról szóló,
+2013. október 18-i 2014/1/EU bizottsági irányelvnek,
+
+2. a 2011/65/EU európai parlamenti és tanácsi irányelv IV. mellékletének a röntgen-képerősítők
+foszforbevonatában és az uniós piacon 2020. január 1-je előtt forgalomba hozott röntgenrendszerek
+cserealkatrészeinek foszforbevonatában lévő kadmium 2019. december 31-ig szóló mentesítése
+tekintetében, a műszaki fejlődéshez történő hozzáigazítás céljából történő módosításáról szóló,
+2013. október 18-i 2014/2/EU bizottsági irányelvnek,
+ 3. a 2011/65/EU európai parlamenti és tanácsi irányelv IV. mellékletének a CT- (komputertomográfiás)
+és MRI-berendezéseknél sztereotaxiás fejkeretekben, valamint gamma-sugár- és részecsketerápiás
+berendezések pozicionáló rendszereiben használt ólom-acetát jelölőanyagok mentesítése tekintetében,
+a műszaki fejlődéshez történő hozzáigazítás céljából történő módosításáról szóló, 2013. október 18-i
+2014/3/EU bizottsági irányelvnek,
+ 4. a 2011/65/EU európai parlamenti és tanácsi irányelv IV. mellékletének a röntgen-képerősítőkben lévő
+alumínium és acél alkatrészek légzáró csatlakoztatásához használt ólom mentesítése tekintetében, a műszaki
+fejlődéshez történő hozzáigazítás céljából történő módosításáról szóló, 2013. október 18-i 2014/4/EU
+bizottsági irányelvnek,
+ 5. a 2011/65/EU európai parlamenti és tanácsi irányelv IV. mellékletének a nyomtatott áramköri lapok
+forraszanyagaiban, villamos és elektronikai alkatrész-csatlakozások bevonatában, nyomtatott áramköri
+lapok bevonatában, huzalokat és kábeleket összekötő forraszanyagokban, standard működési és tárolási
+körülmények között tartósan –20 °C alatt használt átalakítókat és érzékelőket összekötő forraszanyagokban
+lévő ólom mentesítése tekintetében, a műszaki fejlődéshez történő hozzáigazítás céljából történő
+módosításáról szóló, 2013. október 18-i 2014/5/EU bizottsági irányelvnek,
+
+6. a 2011/65/EU európai parlamenti és tanácsi irányelv IV. mellékletének a standard működési és
+tárolási körülmények között tartósan –20 °C alatt használt, nemmágneses csatlakozókat igénylő tűs
+csatlakozórendszerek bevonatában lévő ólom mentesítése tekintetében, a műszaki fejlődéshez történő
+hozzáigazítás céljából történő módosításáról szóló, 2013. október 18-i 2014/6/EU bizottsági irányelvnek,
+ 7. a 2011/65/EU európai parlamenti és tanácsi irányelv IV. mellékletének az a) a mágneses rezonanciás
+orvosi képalkotó berendezésekben található mágnes izocentrumát körülvevő legfeljebb 1 m sugarú
+mágneses mezőben – beleértve az e mezőn belüli használatra tervezett betegmonitorokat is –, vagy
+pedig b) a részecsketerápiához alkalmazott ciklotronmágnesek, sugártovábbító mágnesek és sugárirány-
+ellenőrző mágnesek külső felületétől számított 1 m távolságon belül található mágneses mezőben
+alkalmazott forraszanyagokban, valamint nyomtatott áramköri lapok és villamos és elektronikus alkatrészek
+védőbevonatában, továbbá villamos vezetékek csatlakozásaiban, árnyékolókban és zárt csatlakozókban lévő
+ólom mentesítése tekintetében, a műszaki fejlődéshez történő hozzáigazítás céljából történő módosításáról
+szóló, 2013. október 18-i 2014/7/EU bizottsági irányelvnek,
+ 8. a 2011/65/EU európai parlamenti és tanácsi irányelv IV. mellékletének a digitális kadmium-tellurid
+és kadmium-cink-tellurid sordetektorok nyomtatott áramköri lapokra való szereléséhez használt
+forraszanyagokban lévő ólom mentesítése tekintetében, a műszaki fejlődéshez történő hozzáigazítás céljából
+történő módosításáról szóló, 2013. október 18-i 2014/8/EU bizottsági irányelvnek,
+ 9. a 2011/65/EU európai parlamenti és tanácsi irányelv IV. mellékletének az MRI-, SQUID-, NMR- (mágneses
+magrezonancia) vagy FTMS-detektorokban (Fourier-transzformációs tömegspektrometria) szupravezető
+mágneses köröket létrehozó fém kapcsolódási felületekben lévő ólom és kadmium mentesítése
+tekintetében, a műszaki fejlődéshez történő hozzáigazítás céljából történő módosításáról szóló,
+2013. október 18-i 2014/9/EU bizottsági irányelvnek,
+10. a 2011/65/EU európai parlamenti és tanácsi irányelv IV. mellékletének a kriogén hűtők hideg fejeiben
+és/vagy kriogén hűtésű hideg szondákban és/vagy kriogén hűtésű ekvipotenciális kötési rendszerekben,
+orvostechnikai eszközökben (8. kategória) és/vagy ipari felügyeleti és vezérlő eszközökben szupravezetőként
+vagy hővezetőként használt ötvözetekben alkalmazott ólom mentesítése tekintetében, a műszaki
+fejlődéshez történő hozzáigazítás céljából történő módosításáról szóló, 2013. október 18-i 2014/10/EU
+bizottsági irányelvnek,
+11. a 2011/65/EU európai parlamenti és tanácsi irányelv IV. mellékletének a röntgen-képerősítők fotokatódjainak
+gyártásához 2019. december 31-ig használt alkáliadagolókban és az uniós piacon 2020. január 1. előtt
+forgalomba hozott röntgen-képerősítők cserealkatrészeiben alkalmazott hat vegyértékű króm mentesítése
+tekintetében, a műszaki fejlődéshez történő hozzáigazítás céljából történő módosításáról szóló,
+2013. október 18-i 2014/11/EU bizottsági irányelvnek,
+
+12. a 2011/65/EU európai parlamenti és tanácsi irányelv IV. mellékletének a mágneses rezonanciás képalkotó
+berendezésekbe beépített pozitronemissziós tomográfok detektorainak és adatrögzítő egységeinek
+nyomtatott áramköri lapjain alkalmazott forraszanyagokban lévő ólom mentesítése tekintetében, a műszaki
+fejlődéshez történő hozzáigazítás céljából történő módosításáról szóló, 2013. október 18-i 2014/12/EU
+bizottsági irányelvnek,
+13. a 2011/65/EU európai parlamenti és tanácsi irányelv IV. mellékletének a 93/42/EGK irányelv szerinti IIa.
+és IIb. osztályba tartozó, a hordozható sürgősségi defibrillátoroktól eltérő hordozható orvostechnikai
+eszközökben használt beültetett nyomtatott áramköri lapokon alkalmazott forraszanyagokban lévő ólom
+mentesítése tekintetében, a műszaki fejlődéshez történő hozzáigazítás céljából történő módosításáról szóló,
+2013. október 18-i 2014/13/EU bizottsági irányelvnek,
+14. a 2011/65/EU európai parlamenti és tanácsi irányelv III. mellékletének az általános világítási célra szolgáló,
+30 W alatti teljesítményű, legalább 20 000 óra élettartamú, egy végükön fejelt kompakt fénycsövekben
+használt, égőnként 3,5 mg higany mentesítése tekintetében, a műszaki fejlődéshez történő hozzáigazítás
+céljából történő módosításáról szóló, 2013. október 18-i 2014/14/EU bizottsági irányelvnek,
+15. a 2011/65/EU európai parlamenti és tanácsi irányelv IV. mellékletének a 2014. július 22. előtt forgalomba
+hozott orvostechnikai eszközökből nyert és a 8. kategóriába tartozó, 2021. július 22. előtt forgalomba hozott
+eszközökben újrafelhasznált cserealkatrészekben – amennyiben az újrafelhasználásra vállalatok közötti,
+ellenőrizhető zárt csererendszereken belül kerül sor, valamint az alkatrészek újrafelhasználásáról értesítik
+a fogyasztót – lévő ólom, kadmium és hat vegyértékű króm mentesítése tekintetében, a műszaki fejlődéshez
+történő hozzáigazítás céljából történő módosításáról szóló, 2013. október 18-i 2014/15/EU bizottsági
+irányelvnek,
+16. a 2011/65/EU európai parlamenti és tanácsi irányelv IV. mellékletének a BSP (BaSi
+
+O
+
+:Pb) foszforokat
+tartalmazó, testen kívüli fénykezelésben (fotoferezisben) használt kisülő lámpákban található fluoreszcens
+porban aktivátorként alkalmazott ólom mentesítése tekintetében, a műszaki fejlődéshez történő
+hozzáigazítás céljából történő módosításáról szóló, 2013. október 18-i 2014/16/EU bizottsági irányelvnek
+való megfelelést szolgálja.
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+1. melléklet a 121/2014. (IV. 8.) Korm. rendelethez
+„1. számú melléklet a 322/2007. (XII. 5.) Korm. rendelethez
+
+Tanácsi
+rendelet
+szerinti
+sorszám
+EK irányelv/rendelet Hatáskörrel rendelkező ellenőrző
+szervek
+1. A vadon élő madarak védelméről szóló, 1979.
+április 2-i 79/409/EGK tanácsi irányelv 3.
+cikk (1), (2) bekezdés b) pontja, 4. cikk (1),
+(2) és (4) bekezdései, 5. cikk a), b) és d)
+pontja
+– MVH
+3. A szennyvíziszap mezőgazdasági
+felhasználása során a környezet, és különösen
+a talaj védelméről szóló, 1986. június 12-i
+86/278/EGK tanácsi irányelv 3. cikke
+– a Nemzeti Élelmiszerlánc-
+biztonsági Hivatal és a megyei
+kormányhivatal növény- és
+talajvédelmi igazgatósága
+4. A vizek mezőgazdasági eredetű
+nitrátszennyezésével szembeni védelméről
+szóló, 1991. december 12-i 91/676/EGK
+tanácsi irányelv 4. és 5. cikke
+– a Nemzeti Élelmiszerlánc-
+biztonsági Hivatal és a megyei
+kormányhivatal növény- és
+talajvédelmi igazgatósága
+5. A természetes élőhelyek, valamint a vadon
+élő állatok és növények védelméről szóló,
+1992. május 21-i 92/43/EGK tanácsi irányelv
+6. cikke és 13. cikk (1) bekezdés a) pontja
+– MVH
+6. A sertések azonosításáról és nyilvántartásáról
+szóló, 2008. július 15-i 2008/71/EK tanácsi
+irányelv 3., 4. és 5. cikke
+– a Nemzeti Élelmiszerlánc-
+biztonsági Hivatal és a megyei
+kormányhivatal élelmiszerlánc-
+biztonsági és állategészségügyi
+igazgatósága, a járási állat-
+egészségügyi és élelmiszer-
+ellenőrző hivatal (a továbbiakban:
+járási állategészségügyi hivatal),
+valamint az agrárkamarai KM
+ellenőr
+7. A szarvasmarhák azonosítási és nyilvántartási
+rendszerének létrehozásáról, továbbá a
+marhahús és marhahústermékek címkézéséről,
+valamint a 820/97/EK tanácsi rendelet
+hatályon kívül helyezéséről szóló, 2000. július
+17-i 1760/2000/EK európai parlamenti és
+tanácsi rendelet 4. és 7. cikke
+– a Nemzeti Élelmiszerlánc-
+biztonsági Hivatal és a megyei
+kormányhivatal élelmiszerlánc-
+biztonsági és állategészségügyi
+igazgatósága, járási állat-
+egészségügyi hivatal, valamint az
+agrárkamarai KM ellenőr
+8. A juh- és kecskefélék azonosítási és
+nyilvántartási rendszerének létrehozásáról,
+valamint az 1782/2003/EK rendelet, továbbá a
+92/102/EGK és 64/432/EGK irányelv
+módosításáról szóló, 2003. december 17-i
+21/2004/EK tanácsi rendelet 3., 4. és 5. cikke
+– a Nemzeti Élelmiszerlánc-
+biztonsági Hivatal és a megyei
+kormányhivatal élelmiszerlánc-
+biztonsági és állategészségügyi
+igazgatósága, a járási állat-
+egészségügyi hivatal, valamint az
+agrárkamarai KM ellenőr
+”
+
+2. melléklet a 121/2014. (IV. 8.) Korm. rendelethez
+„2. melléklet a 374/2012. (XII. 18.) Korm. rendelethez
+
+A veszélyes anyagok alkalmazásának korlátozása alóli mentességek
+A B C D
+1. I. HIGANYTARTALOMRA VONATKOZÓ MENTESSÉGEK
+2. a) Egy végükön fejelt (kompakt) fénycsövekben használt higany, amelynek megengedett mennyisége
+(égőnként):
+3.
+Típus
+P
+Teljesítmény
+W
+Maximális
+megengedett
+koncentráció
+A mentesség határideje
+4. Általános világítási célra szolgáló
+fénycső P < 30 W
+5 mg
+2011. december 31-ig
+3,5 mg 2012. december 31-ig
+2,5 mg 2013. január 1-jétől
+5. 30 W ≤ P < 50 W 5 mg 2011. december 31-ig
+3,5 mg 2012. január 1-jétől
+6. 50 W ≤ P < 150 W 5 mg mentesség ideje nincs korlátozva
+7. 150 W ≤ P 15 mg mentesség ideje nincs korlátozva
+8. Általános világítási célra szolgáló, kör
+alakú vagy szögletes strukturális
+formájú, legfeljebb 17 mm
+csőátmérőjű fénycső
+- nincs
+korlátozás
+2011. december 31-ig
+7 mg 2012. január 1-jétől
+9. Különleges rendeltetésű fénycső - 5 mg mentesség ideje nincs korlátozva
+10 Általános világítási célra szolgáló,
+legalább 20 000 óra élettartamú
+fénycső
+P < 30 W 3,5 mg 2017. december 31-ig
+11. b) Két végén fejelt, általános világítási célra szolgáló fénycsövekben használt higany (fénycsövenként):
+12.
+Típus
+Ø
+Csőátmérő
+mm
+Maximális
+megengedett
+koncentráció
+A mentesség határideje
+13. Normál élettartamú fénycső
+háromsávos fényporral, 9 mm alatti
+csőátmérővel (pl. T2) Ø < 9 mm
+5 mg 2011. december 31-ig
+4 mg 2012. január 1-jétől
+14. Normál élettartamú fénycső
+háromsávos fényporral (pl. T5)
+9 mm < Ø ≤ 17 mm
+5 mg 2011. december 31-ig
+3 mg 2012. január 1-jétől
+15. Normál élettartamú fénycső
+háromsávos fényporral (pl. T8)
+17 mm < Ø ≤ 28 mm
+5 mg 2011. december 31-ig
+3,5 mg 2012. január 1-jétől
+16. Normál élettartamú fénycső
+háromsávos fényporral (pl. T12) 28 mm < Ø
+5 mg 2012. december 31-ig
+3,5 mg 2013. január 1-jétől
+17. Hosszú (legalább 25 000 óra)
+élettartamú fénycső háromsávos
+fényporral
+-
+8 mg 2011. december 31-ig
+5 mg 2012. január 1-jétől
+
+18. c) Egyéb kompakt fénycsövekben használt higany (fénycsövenként):
+19.
+Típus
+Ø
+Csőátmérő
+mm
+Maximális
+megengedett
+koncentráció
+A mentesség határideje
+20. Egyenes halofoszfát fénycsövek (pl.
+T10 és T12)
+28 mm < Ø 10 mg 2012. április 13-ig
+21. Nem egyenes halofoszfát fénycsövek Bármely Ø 15 mg 2016. április 13-ig
+22. Nem egyenes fénycsövek háromsávos
+fényporral, 17 mm feletti
+csőátmérővel (pl. T9)
+17 mm < Ø
+nincs korlátozás 2011. december 31-ig
+15 mg 2012. január 1-jétől
+23.
+Egyéb általános világítási célra
+szolgáló vagy különleges rendeltetésű
+lámpák (pl. indukciós lámpák)
+-
+nincs korlátozás 2011. december 31-ig
+15 mg 2012. január 1-jétől
+24.
+d) Különleges rendeltetésű hidegkatódos fénycsövekben és külső elektródás fénycsövekben (CCFL és
+EEFL) használt higany, amelynek megengedett mennyisége (fénycsövenként/lámpánként):
+25. Típus
+L
+Lámpahossz
+mm
+Maximális
+megengedett
+koncentráció
+A mentesség határideje
+26.
+Rövid
+L ≤ 500 mm
+nincs korlátozás 2011. december 31-ig
+3,5 mg 2012. január 1-jétől
+27. Közepes hosszúságú
+500 mm < L
+L ≤ 1 500 mm
+nincs korlátozás 2011. december 31-ig
+5 mg 2012. január 1-jétől
+28. Hosszú
+L > 1 500 mm
+nincs korlátozás 2011. december 31-ig
+13 mg 2012. január 1-jétől
+29. Egyéb kisnyomású kisülőlámpák
+-
+nincs korlátozás 2011. december 31-ig
+15 mg 2012. január 1-jétől
+30.
+e) Általános világítási célra szolgáló, javított színvisszaadási mutatójú (Ra > 60), nagynyomású
+nátrium(gőz)lámpákban használt higany, amelynek megengedett mennyisége (égőnként):
+31.
+Típus
+P
+Teljesítmény
+W
+Maximális
+megengedett
+koncentráció
+A mentesség határideje
+32. P ≤ 155 W
+nincs korlátozás 2011. december 31-ig
+30 mg 2012. január 1-jétől
+33. 155 W < P ≤ 405 W
+nincs korlátozás 2011. december 31-ig
+40 mg 2012. január 1-jétől
+34.
+P > 405 W
+nincs korlátozás 2011. december 31-ig
+40 mg 2012. január 1-jétől
+35. f) Egyéb általános világítási célra szolgáló nagynyomású nátrium(gőz)lámpákban használt higany,
+amelynek megengedett mennyisége (égőnként):
+36. P ≤ 155 W
+nincs korlátozás 2011. december 31-ig
+25 mg 2012. január 1-jétől
+37. 155 W < P ≤ 405 W
+nincs korlátozás 2011. december 31-ig
+30 mg 2012. január 1-jétől
+
+38.
+P > 405 W
+nincs korlátozás 2011. december 31-ig
+40 mg 2012. január 1-jétől
+39. Nagynyomású
+higany(gőz)lámpákban (HPMV)
+használt higany
+- nincs korlátozás 2015. április 13-ig
+40. Fémhalogén (MH) lámpákban
+használt higany
+- nincs korlátozás mentesség ideje nincs korlátozva
+41. Az e mellékletben külön nem
+említett, különleges rendeltetésű
+egyéb kisülőlámpákban használt
+higany
+- nincs korlátozás mentesség ideje nincs korlátozva
+42. II. ÓLOM ÉS ÓLOMVEGYÜLET-TARTALOMRA VONATKOZÓ MENTESSÉGEK
+43.
+Típus
+Maximális
+megengedett
+koncentráció
+tömegszázalék
+A mentesség határideje
+44. Katódsugárcsövek üvegében használt ólom nincs korlátozás mentesség ideje nincs korlátozva
+45. Fénycsövek üvegében használt ólom ≤ 0,2 m/m % mentesség ideje nincs korlátozva
+46. Ólom a megmunkálásra szánt acél ötvözőelemeként, illetve
+galvanizált acélban
+≤ 0,35 m/m % mentesség ideje nincs korlátozva
+47. Ólom az alumínium ötvözőelemeként ≤ 0,4 m/m % mentesség ideje nincs korlátozva
+48. Rézötvözet ≤ 4 m/m % mentesség ideje nincs korlátozva
+49. Magas olvadáspontú, ólomtartalmú forraszanyagok (azaz
+olyan ólomötvözetek, amelyek legalább 85
+tömegszázalékban tartalmaznak ólmot)
+mentesség ideje nincs korlátozva
+50. A szerverekben, az adattároló rendszerekben, a tárolási és
+elrendezési rendszerekben, a hálózati infrastruktúra
+kapcsoló, jelző és adatátviteli berendezéseiben és a
+távközlési hálózatok hálózatkezelése során használt
+forrasztóanyagokban lévő ólom
+nincs korlátozás mentesség ideje nincs korlátozva
+51. Elektronikus és elektromos alkatrészek, amelyek üvegben
+vagy kerámiában, de nem a kondenzátorokban, például
+piezoelektronikus berendezésekben lévő dielektromos
+kerámiákban, továbbá nem üveg vagy kerámia mátrix
+anyagokban tartalmaznak ólmot
+nincs korlátozás mentesség ideje nincs korlátozva
+52. 125 V AC vagy 250 V DC vagy ennél magasabb névleges
+feszültségű kondenzátorokban használt dielektromos
+kerámiában lévő ólom
+nincs korlátozás mentesség ideje nincs korlátozva
+53. 125 V AC vagy 250 V DC alatti névleges feszültségű
+kondenzátorokban használt dielektromos kerámiában lévő
+ólom
+nincs korlátozás
+2013. január 1-jéig, ezt követően a
+2013. január 1. előtt forgalomba
+hozott elektronikus és elektromos
+berendezések pótalkatrészeiben
+használható
+54. Ólom a fűtő, szellőztető, légkondicionáló és hűtő
+alkalmazásokban használt, hűtőközeget tartalmazó
+kompresszorok csapágycsészéiben és -béléseiben
+nincs korlátozás
+mentesség ideje nincs korlátozva
+55. Integrált áramkörök vagy diszkrét félvezetők részét képező
+kondenzátorokban található ólom-cirkanát-titanát alapú
+dielektromos kerámiaanyagokban lévő ólom
+nincs korlátozás
+mentesség ideje nincs korlátozva
+56. C-press rugalmas tűs csatlakozórendszerekben használt
+ólom
+nincs korlátozás a 2010. szeptember 24. előtt
+forgalomba hozott elektronikus és
+elektromos berendezések
+pótalkatrészeiben használható
+
+57. Nem C-press rugalmas tűs csatlakozórendszerekben használt
+ólom
+nincs korlátozás 2013. január 1-jéig, ezt követően a
+2013. január 1. előtt forgalomba
+hozott elektronikus és elektromos
+berendezések pótalkatrészeiben
+használható
+58. A hővezető modulok tömítőgyűrűjén bevonóanyagként
+használt ólom
+nincs korlátozás a 2010. szeptember 24. előtt
+forgalomba hozott elektronikus és
+elektromos berendezések
+pótalkatrészeiben használható
+59. Optikai alkalmazásokban használt fehér üvegekben lévő
+ólom
+nincs korlátozás mentesség ideje nincs korlátozva
+60. Reflexiós tényezőre vonatkozó követelmények céljára
+használt üveg filterekben és üvegekben használt kadmium és
+ólom
+nincs korlátozás mentesség ideje nincs korlátozva
+61. Kettőnél több elemből álló, a mikroprocesszor kivezetései és
+tokja között kapcsolatot biztosító forrasztóanyagban lévő
+ólom, ha az ólomtartalom 80 és 85 tömegszázalék között
+van
+nincs korlátozás
+a 2011. január 1. előtt forgalomba
+hozott elektronikus és elektromos
+berendezések pótalkatrészeiben
+használható
+62. Flip Chip integrált áramkörökben a félvezető süllyesztéke és
+hordozója között működőképes elektronikus kapcsolatot
+lehetővé tevő ólomtartalmú forraszanyag
+nincs korlátozás
+mentesség ideje nincs korlátozva
+63. Az olyan vonalizzókban található ólom, amelyek csöve
+szilikát bevonatú
+nincs korlátozás
+2013. szeptember 1-jéig
+64. Ólom-halogenid a nagynyomású kisülő lámpák (HID)
+sugárzó anyagaként professzionális reprográfiai
+alkalmazásokra
+nincs korlátozás mentesség ideje nincs korlátozva
+65. Ólom a szoláriumcsövek fényporában, mint például a BSP
+(BaSi2
+O5
+:Pb) fényporokban, aktivátorként
+≤ 1 m/m % mentesség ideje nincs korlátozva
+66. Ólom és kadmium a zománc üvegre, például boroszilikát
+üvegre vagy nátronüvegre való felviteléhez használt
+nyomdafestékekben
+nincs korlátozás mentesség ideje nincs korlátozva
+67. Ólom a csatlakozók kivételével a 0,65 mm vagy kisebb
+osztóközű, finom osztású (fine-pitch) komponensek
+felületén
+nincs korlátozás
+a 2010. szeptember 24. előtt
+forgalomba hozott elektronikus és
+elektromos berendezések
+pótalkatrészeiben használható
+68. Korong- és síkmátrix alakú többrétegű
+kerámiakondenzátorok géppel készített átmenőfuratokba
+történő forrasztásához használt forrasztóanyagokban lévő
+ólom
+nincs korlátozás
+mentesség ideje nincs korlátozva
+69. Ólom-oxid a felületvezető elektronkibocsátó kijelzőkben
+(SED) használt szerkezeti elemekben, a lezáró frittben és a
+frittgyűrűben
+nincs korlátozás
+mentesség ideje nincs korlátozva
+70. A kristályüvegre vonatkozó tagállami jogszabályok
+közelítéséről szóló, 1969. december 15-i 69/493/EGK
+tanácsi irányelv I. mellékletében (1., 2., 3. és 4. kategória)
+meghatározott, kristályüvegben található ólom
+nincs korlátozás
+mentesség ideje nincs korlátozva
+71. A 100 dB (A) és annál nagyobb hangnyomású, nagy
+teljesítményű hangszórókban használt transzduktorokban,
+közvetlenül a tekercsen található áramvezető anyagok
+elektromos, illetve mechanikus forrasztóanyagaként
+használt, kadmium alapú ötvözetek
+nincs korlátozás
+mentesség ideje nincs korlátozva
+72. A higanymentes lapos fluoreszkáló lámpák
+forrasztóanyagában lévő ólom (pl. amelyek
+folyadékkristályos kijelzőkben, illetve dísz- vagy ipari
+világításként vannak alkalmazva)
+nincs korlátozás
+mentesség ideje nincs korlátozva
+
+73. Az argon- és kripton-lézercsövek ablak szerelvényeiben
+használatos lezáró frittben lévő ólom-oxid
+nincs korlátozás mentesség ideje nincs korlátozva
+74. A transzformátorokban alkalmazott, 100 µm-es vagy annál
+kisebb átmérőjű vékony vörösréz vezetékek forrasztásához
+használt forrasztóanyagban lévő ólom
+nincs korlátozás mentesség ideje nincs korlátozva
+75. A cermet-alapú beállító potenciométer egyes alkatrészeiben
+lévő ólom
+nincs korlátozás mentesség ideje nincs korlátozva
+76. A cink-borát üvegből készült burkolatban elhelyezett
+nagyfeszültségű diódák bevonatában lévő ólom
+nincs korlátozás mentesség ideje nincs korlátozva
+77. III. Kadmium és kadmiumvegyülettartalomra vonatkozó mentességek
+78. Egyszerhasználatos, szemcsés töltetű hőkioldókban lévő
+kadmium és vegyületei
+nincs korlátozás mentesség ideje nincs korlátozva
+79. A villamos érintkezőkben lévő kadmium és vegyületei nincs korlátozás mentesség ideje nincs korlátozva
+80. Az alumíniummal ötvözött berillium-oxid hordozókon
+használt vastag filmpasztában lévő kadmium és kadmium-
+oxid
+nincs korlátozás
+mentesség ideje nincs korlátozva
+81. A szilárdtest-világítási vagy -kijelző rendszerekben használt
+színátalakító LED-ekben lévő kadmium
+a fénykibocsátó
+terület egy
+négyzet-
+milliméterére
+eső
+kadmiummeny-
+nyiség < 10 µg
+2014. július 1-jéig
+82. A professzionális audioberendezésekben használt analóg
+optocsatolók fotorezisztoraiban lévő kadmium
+nincs korlátozás
+2013. december 31-ig
+83. Reflexiós tényezőre vonatkozó követelmények céljára
+használt üveg filterekben és üvegekben használt kadmium és
+ólom
+nincs korlátozás
+mentesség ideje nincs korlátozva
+84. Ólom és kadmium a zománc üvegre, például boroszilikát
+üvegre vagy nátronüvegre való felviteléhez használt
+nyomdafestékekben
+nincs korlátozás
+mentesség ideje nincs korlátozva
+85. IV. Krómtartalomra vonatkozó mentességek
+86. Abszorpciós hűtőgépek szénacél hűtőrendszerében
+korróziógátló szerként a hűtőközegben
+≤ 0,75 m/m %
+hat vegyértékű
+króm
+mentesség ideje nincs korlátozva
+”
+
+3. melléklet a 121/2014. (IV. 8.) Korm. rendelethez
+„3. melléklet a 374/2012. (XII. 18.) Korm. rendelethez
+A veszélyes anyagok alkalmazásának korlátozása alóli mentességek az orvostechnikai eszközök
+és a felügyeleti és vezérlő eszközök vonatkozásában
+I. Ionizáló sugárzást felhasználó vagy észlelő berendezések
+ 1. Ionizáló sugárzást észlelő berendezésekben lévő ólom, kadmium és higany
+ 2. Röntgencsövek ólomcsapágyai
+ 3. Elektromágneses sugárzás erősítésére szolgáló eszközökben – mikrocsatornás lemezekben és kapilláris
+lemezeken – lévő ólom
+
+4. Röntgencsövek és képerősítők üvegfrittjében lévő ólom, valamint a gázlézer összeállításához és
+az elektromágneses sugárzást elektronokká átalakító vákuumcsövekhez való üvegfritt kötőanyagokban lévő
+ólom
+ 5. Ionizáló sugárzás elleni védőeszközökben lévő ólom
+ 6. Röntgenezési próbatárgyban lévő ólom
+ 7. Röntgensugár-diffrakcióhoz való ólom-sztearát kristály
+ 8. Hordozható röntgenfluoreszcenciás spektrométerek sugárforrásául szolgáló kadmium-izotóp
+II. Érzékelőelemek, jelzőkészülékek és elektródok
+ 9. Ionszelektív elektródokban lévő ólom és kadmium, beleértve a pH-elektródok üvegében lévőt is
+10. Elektrokémiás oxigénérzékelők ólomanódja
+11. Infravörösfény-detektorokban lévő ólom, kadmium és higany
+12. Referenciaelektródokban – alacsony kloridtartalmú higany-klorid, valamint higany-szulfát és higany-oxid
+elektródokban – lévő higany
+III. Egyéb
+13. Hélium-kadmium lézerekben lévő kadmium
+14. Atomadszorpciós spektroszkópiás lámpákban lévő ólom és kadmium
+15. Mágneses rezonanciás képalkotó berendezésekben szupravezetőként és hővezetőként használt
+fémötvözetekben lévő ólom
+16. MRI-, SQUID-, NMR- (mágneses magrezonancia) vagy FTMS-detektorokban (Fouriertranszformációs
+tömegspektrometria) szupravezető mágneses köröket létrehozó fém kapcsolódási felületekben lévő ólom és
+kadmium – a mentesség 2021. június 30-án lejár
+17. Ellensúlyokban lévő ólom
+18. Ultrahangos jelátalakítókhoz való egykristályos piezoelektromos anyagokban lévő ólom
+19. Ultrahangos jelátalakítókhoz való forraszanyagban lévő ólom
+20. Igen nagyfokú pontossággal rendelkező kapacitás- és veszteségmérő hidakban lévő higany, valamint
+felügyeleti és vezérlő eszközök nagyfrekvenciás RF kapcsolóiban és reléiben lévő higany, kapcsolónként,
+illetve relénként legfeljebb 20 mg mennyiségben
+21. Hordozható sürgősségi defibrillátorokhoz való forraszanyagban lévő ólom
+22. A 8–14 μm-es tartományban működő, nagy teljesítményű infravörös képalkotó modulok forraszanyagaiban
+lévő ólom
+23. „Folyadékkristály szilíciumon”(LCoS) technológiájú kijelzőkben lévő ólom
+24. Röntgensugárzás mérésére szolgáló szűrőkben lévő kadmium
+25. Ionizáló sugárzásnak kitett orvosi berendezések csapágyazásához és kopófelületeihez ötvözőelemként
+használt ólom – a mentesség 2021. június 30-án lejár
+26. Röntgen-képerősítők fénypor bevonatában lévő kadmium 2019. december 31-ig; az uniós piacon
+2020. január 1. előtt forgalomba hozott röntgenrendszerek cserealkatrészeinek fénypor bevonatában lévő
+kadmium
+27. CT- és MRI-berendezéseknél sztereotaxiás fej-keretekben, valamint gamma-sugár- és részecsketerápiás
+berendezések pozicionáló rendszereiben használt ólom-acetát jelölőanyagok – a mentesség
+2021. június 30-án lejár
+28. Röntgen-képerősítőkben lévő alumínium és acél alkatrészek légzáró csatlakoztatásához használt ólom –
+a mentesség 2019. december 31-én lejár
+
+29. Nyomtatott áramköri lapok forraszanyagaiban, villamos és elektronikai alkatrész-csatlakozások bevonatában,
+nyomtatott áramköri lapok bevonatában, huzalokat és kábeleket összekötő forraszanyagokban, standard
+működési és tárolási körülmények között tartósan –20 °C alatt használt átalakítókat és érzékelőket összekötő
+forraszanyagokban lévő ólom – a mentesség 2021. június 30-án lejár
+30. Standard működési és tárolási körülmények között tartósan –20 °C alatt használt, nemmágneses
+csatlakozókat igénylő tűs csatlakozórendszerek bevonatában lévő ólom – a mentesség 2021. június 30-án
+lejár
+31. Ólom, amely olyan
+31.1. forraszanyagokban,
+31.2. villamos és elektronikus alkatrészek és nyomtatott áramköri lapok védőbevonatában,
+31.3. villamos vezetékek csatlakozásaiban, árnyékolókban és zárt csatlakozókban használatos,
+amelyeket
+a) a mágneses rezonanciás orvosi képalkotó berendezésekben található mágnes izocentrumát
+körülvevő legfeljebb 1 m sugarú mágneses mezőben – beleértve az e mezőn belüli használatra
+tervezett betegmonitorokat is –, vagy pedig
+b) a részecsketerápiához alkalmazott ciklotronmágnesek, sugártovábbító mágnesek és sugárirány-
+ellenőrző mágnesek külső felületétől számított 1 m távolságon belül található mágneses mezőben
+alkalmaznak – a mentesség 2020. június 30-án lejár
+32. Digitális kadmium-tellurid és kadmium-cink-tellurid sordetektorok nyomtatott áramköri lapokra való
+szereléséhez használt forraszanyagokban lévő ólom – a mentesség 2017. december 31-én lejár
+33. Kriogén hűtők hideg fejeiben és/vagy kriogén hűtésű hideg szondákban és/vagy kriogén hűtésű
+ekvipotenciális kötési rendszerekben, orvostechnikai eszközökben (8. kategória) és/vagy ipari felügyeleti
+és vezérlő eszközökben szupravezetőként vagy hővezetőként használt ötvözetekben alkalmazott ólom –
+a mentesség 2021. június 30-án lejár
+34. A röntgen-képerősítők fotokatódjainak gyártásához használt alkáliadagolókban 2019. december 31-ig, és
+az uniós piacon 2020. január 1. előtt forgalomba hozott röntgen-képerősítők cserealkatrészeiben alkalmazott
+hat vegyértékű króm
+35. A mágneses rezonanciás képalkotó berendezésekbe beépített pozitronemissziós tomográfok detektorainak
+és adatrögzítő egységeinek nyomtatott áramköri lapjain alkalmazott forraszanyagokban lévő ólom –
+a mentesség 2019. december 31-én lejár
+36. Az orvostechnikai eszközökről szóló, 1994. június 14-i 93/42 EGK tanácsi irányelv alapján a IIa. és IIb. osztályba
+tartozó, a hordozható sürgősségi defibrillátoroktól eltérő hordozható orvostechnikai eszközökben használt
+beültetett nyomtatott áramköri lapokon alkalmazott forraszanyagokban lévő ólom – a mentesség a IIa.
+osztály esetében 2016. június 30-án, a IIb. osztály esetében 2020. december 31-én lejár
+37. A 2014. július 22. előtt forgalomba hozott orvostechnikai eszközökből nyert és a 8. kategóriába tartozó,
+2021. július 22. előtt forgalomba hozott eszközökben újrafelhasznált cserealkatrészekben – amennyiben
+az újrafelhasználásra vállalatok közötti, ellenőrizhető zárt csererendszereken belül kerül sor, valamint
+az alkatrészek újrafelhasználásáról értesítik a fogyasztót – lévő ólom, kadmium és hat vegyértékű króm –
+a mentesség 2021. július 21-én lejár
+38. BSP (BaSi2O5:Pb) fényporokat tartalmazó, testen kívüli fénykezelésben (fotoferezisben) használt kisülő
+lámpákban található fluoreszcens porban aktivátorként alkalmazott ólom – a mentesség 2021. június 22-én
+lejár”
