@@ -1,0 +1,5 @@
+1. § (1) A földmérési és térinformatikai államigazgatási szerv (Földmérési és Távérzékelési Intézet, a továbbiakban: FÖMI) és a honvédelemért felelős miniszter által kijelölt szervezet a földmérési és térképészeti tevékenységről szóló 2012. évi XLVI. törvény (a továbbiakban: Fttv.) 19. § (1) bekezdése szerinti távérzékelési adatokból és az Fttv. hatályba lépését követően részben vagy egészben közpénzek felhasználásával előállított vagy beszerzett távérzékelési anyagokból és azok további feldolgozásához szükséges adatokból digitális távérzékelési adatbázisokat hoz létre és üzemeltet, valamint azokból adatot szolgáltat.
+
+(2) Az Fttv. 19. § (8) bekezdése alapján átadott távérzékelt adatokat az (1) bekezdés szerinti szerv és szervezet az adattal rendelkezni jogosulttal kötött egyedi megállapodás alapján szolgáltatja.
+
+(3) Az Fttv. 19. § (8) bekezdésében meghatározott távérzékelt adatok közül az adatbázis nem tartalmazza azon űrfelvételeket, amelyek szolgáltatóinak az adatok felhasználására vonatkozó korlátozásai ezt nem teszik lehetővé.
