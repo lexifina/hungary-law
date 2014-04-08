@@ -1,4 +1,4 @@
-## 8–9. §[^6]
+## 8–9. §[^8]
 
 ## Az ingatlanrendező földmérői minősítés
 
@@ -14,7 +14,7 @@ c) a szakképesítés megszerzése után egyéni vagy társas vállalkozásban f
 
 (3) Földmérési referenciamunkának kell tekinteni
 
-a)[^7] a földhivatalnál végzett földmérői tevékenységet, vagy
+a)[^9] a földhivatalnál végzett földmérői tevékenységet, vagy
 
 b) a földrészlethatár kitűzése érdekében végzett, valamint az ingatlan-nyilvántartási térkép tartalmában változást eredményező, legalább 30 db földmérési munkát, az átvevő földhivatal megnevezésével, vagy
 
@@ -22,5 +22,5 @@ c) legalább 100 ha belterületről vagy 1000 ha külterületről készített á
 
 (4) Az (1)–(3) bekezdésben foglaltak nem érintik az e rendelet hatálybalépése előtt megszerzett ingatlanrendező földmérői minősítést.
 
-[^6]: A 8–9. §-t a 19/2013. (III. 21.) VM rendelet 3. § (2) bekezdése hatályon kívül helyezte.
-[^7]: A 10. § (3) bekezdésének a) és b) pontja az 58/1999. (VI. 18.) FVM—HM együttes rendelet 2. §-ával megállapított szöveg.
+[^8]: A 8–9. §-t a 19/2013. (III. 21.) VM rendelet 3. § (2) bekezdése hatályon kívül helyezte.
+[^9]: A 10. § (3) bekezdésének a) és b) pontja az 58/1999. (VI. 18.) FVM—HM együttes rendelet 2. §-ával megállapított szöveg.

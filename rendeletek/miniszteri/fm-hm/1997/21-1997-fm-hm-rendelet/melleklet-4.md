@@ -1,8 +1,8 @@
 ## A földmérő igazolvány
 
-## Előlap[^25]
+## Előlap[^26]
 
-## Hátlap[^26]
+## Hátlap[^27]
 
 ## Az igazolvány az előlapon és hátlapon feltüntetett adatokat és feliratokat tartalmazza.
 
@@ -38,7 +38,7 @@ Nevezett jogosult:
 
 4. Az állami, helyi önkormányzati és magántulajdonban (kezelésben) lévő ipari, illetve erdő- és mezőgazdasági területeken térképezést, térképellenőrzést végezni.
 
-5.[^27] A földmérési szakigazgatási szervezetek, továbbá a vízügyi igazgatóságok és a Nemzeti Környezetügyi Intézet térképészeti anyagaiba betekinteni, és az adatokat a katonai térképezési munkákhoz kikérni.
+5.[^28] A földmérési szakigazgatási szervezetek, továbbá a vízügyi igazgatóságok és a Nemzeti Környezetügyi Intézet térképészeti anyagaiba betekinteni, és az adatokat a katonai térképezési munkákhoz kikérni.
 
 6. A személyi átadó-átvevő nyilvántartó könyvében felsorolt minősített iratok terepre szállítására.
 
@@ -60,6 +60,6 @@ a Határőrség országos parancsnoka
 
 n
 
-[^25]: Lásd: 1997. MK 22. szám 1574. oldal.
 [^26]: Lásd: 1997. MK 22. szám 1574. oldal.
-[^27]: A 4. melléklet 5. pontja a 147/2011. (XII. 23.) VM rendelet 5. §-a szerint módosított szöveg.
+[^27]: Lásd: 1997. MK 22. szám 1574. oldal.
+[^28]: A 4. melléklet 5. pontja a 147/2011. (XII. 23.) VM rendelet 5. §-a szerint módosított szöveg.

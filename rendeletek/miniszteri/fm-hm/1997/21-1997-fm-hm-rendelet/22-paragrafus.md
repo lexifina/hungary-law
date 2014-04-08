@@ -1,3 +1,5 @@
+## 21. §[^20]
+
 ## A földmérési és térképészeti munkarészek
 
 ## selejtezési rendje
@@ -11,3 +13,5 @@
 (4) A megyei földhivatal illetékességi területén székhellyel (telephellyel) rendelkező földmérő személy, illetve szervezet földmérési és térképészeti anyagai selejtezéséről – a selejtezés megkezdése előtt legalább harminc nappal előbb – értesíti a földhivatalt. Ha a selejtezni kívánt anyagban a földhivatal számára felhasználható adatok, térképek és iratok vannak, azokat a földhivatalnak díjtalanul át kell adni. Ugyanúgy kell eljárni a jogutód nélkül megszűnő vállalkozás esetében is.
 
 (5) A földmérő szervezet átszervezése vagy jogutóddal történő megszüntetése esetén az átszervezett (megszűnő) szerv földmérési és térképészeti anyagainak további tárolási helyéről a jogutód tájékoztatja a földhivatalt.
+
+[^20]: A 21. §-t a 29/2014. (III. 31.) VM rendelet 10. § (2) bekezdés c) pontja hatályon kívül helyezte.
