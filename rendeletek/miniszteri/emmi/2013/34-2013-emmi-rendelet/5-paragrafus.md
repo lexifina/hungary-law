@@ -4,6 +4,6 @@
 
 (3) E rendelet rendelkezéseit először a 2013. évi támogatások elszámolásánál kell alkalmazni, mind a költségvetési, mind a Tao. törvény szerinti társaságiadó-kedvezmény igénybevételére jogosító támogatások esetében.
 
-(4)[^1]
+(4)[^2]
 
-[^1]: Az 5. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 5. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
