@@ -4,10 +4,12 @@
 
 ## 1. A rendelet hatálya
 
-## 1. § E rendelet hatálya
+## 1. §[^2] E rendelet hatálya
 
-a) a Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény (a továbbiakban: Kvtv.) 1. melléklet XVIII. Külügyminisztérium (a továbbiakban: minisztérium) fejezet 5. címe alatti fejezeti kezelésű előirányzatokra,
+a) a központi költségvetésről szóló törvénynek a Külügyminisztérium fejezetében eredeti előirányzatként megállapított fejezeti kezelésű előirányzatokra,
 
-b) az előző évekről áthúzódó, az a) pont szerinti fejezetet irányító szerv vezetőjének (a továbbiakban: miniszter) irányítása alá rendelt fejezeti kezelésű előirányzatok maradványára, tekintet nélkül azok eredeti előirányzathoz való kapcsolódására vagy annak hiányára, és
+b) a költségvetési évet megelőző évek központi költségvetéséről szóló törvényeiben az a) pont szerinti fejezetet irányító szerv vezetője (a továbbiakban: miniszter) által vezetett minisztérium és annak jogelődjei költségvetési fejezetében megállapított fejezeti kezelésű előirányzatok költségvetési maradványára és
 
-c) az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet alapján az a) pont szerinti költségvetési fejezetben a költségvetési évben megállapított új fejezeti kezelésű előirányzatokra,
+c) az államháztartásról szóló törvény végrehajtásáról szóló kormányrendelet alapján a költségvetési év során megállapított új fejezeti kezelésű előirányzatokra
+
+[^2]: Az 1. § a 4/2014. (IV. 8.) KüM rendelet 1. §-ával megállapított szöveg.

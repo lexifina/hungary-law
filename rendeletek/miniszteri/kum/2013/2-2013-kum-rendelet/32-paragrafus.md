@@ -1,4 +1,4 @@
-32. § (1) A Humanitárius Segélyezés keretében a következő jogcímek bármelyikén nyújtható költségvetési támogatás, teljesíthető egyéb kifizetés, valósítható meg beszerzés:
+32. §[^19] (1) A Humanitárius Segélyezés keretében a 29. § (2) bekezdésében meghatározott felhasználási célok mellett a következő felhasználási célok bármelyikén is nyújtható költségvetési támogatás, teljesíthető egyéb kifizetés, valósítható meg beszerzés:
 
 a) humanitárius segítségnyújtási tevékenység,
 
@@ -8,8 +8,10 @@ b) humanitárius segítségnyújtási projekt tervezése, előkészítése, nyom
 
 (3) A pályázathoz csatolandó mellékletek benyújtásának végső határideje – a pályázati kiírásban foglaltak szerint – legfeljebb a szerződés megkötésének időpontjáig terjedhet.
 
-(4) A kedvezményezett számára a költségvetési támogatást a támogató a teljesítést megelőzően, utólagos elszámolási kötelezettséggel a támogatási szerződés mindkét fél által történt aláírását követő tizenöt napon belül átutalja. A kedvezményezett a beszámolót a támogatott tevékenység megvalósulását követő harminc napon belül nyújtja be. A saját forrás legkisebb mértéke 5%.
+(4) A jogcímcsoportból költségvetési támogatás a támogatási igény benyújtásakor már megvalósult tevékenységre, projektre vagy programra is adható.
 
-(5) A jogcímcsoportból lehet finanszírozni a segélyekkel közvetlenül összefüggő költségeket, különösen beszerzés, csomagolás, szállítás, szakértői költségek (a továbbiakban együtt: járulékos költségek).
+(5) A kedvezményezett számára a támogatási előleget a támogató a teljesítést megelőzően, utólagos elszámolási kötelezettséggel a támogatási szerződés mindkét fél által történt aláírását követő tizenöt napon belül átutalja. A kedvezményezett a beszámolót a támogatott tevékenység megvalósulását követő harminc napon belül nyújtja be.
 
-(6) A járulékos költségek mértékének meghatározása a támogatási összeghez mérten minden esetben a katasztrófa színhelyének ismeretében kerül meghatározásra a szerződésben, amely nem haladhatja meg az elnyert költségvetési támogatás 8%-át. A segélyszállítmányok összeállítása során a közbeszerzésekre vonatkozó hatályos jogszabályi rendelkezések figyelembevételével kell eljárni.
+(6) A jogcímcsoportból lehet finanszírozni a segélyekkel közvetlenül összefüggő költségeket, különösen beszerzés, csomagolás, szállítás, és szakértő költségét. Az ilyen költség mértéke a katasztrófa színhelyének ismeretében a támogatási szerződésben meghatározott összeg, de legfeljebb az elnyert költségvetési támogatás 8%-a.
+
+[^19]: A 32. § a 4/2014. (IV. 8.) KüM rendelet 14. §-ával megállapított szöveg.

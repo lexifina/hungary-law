@@ -1,4 +1,4 @@
-## [az a)–c) pont a továbbiakban együtt: előirányzatok] terjed ki.
+## [az a)–c) pont szerinti előirányzatok a továbbiakban együtt: előirányzatok] terjed ki.
 
 ## 2. Értelmező rendelkezések
 

@@ -14,4 +14,8 @@ e) támogatási igénye során valótlan, hamis adatot szolgáltatott, vagy
 
 f) a jogosulatlanul igénybe vett költségvetési támogatást nem fizette vissza, vagy
 
-g) a kedvezményezettnek felróható okból került sor a szerződéstől való elállásra.
+g) a kedvezményezettnek felróható okból került sor a szerződéstől való elállásra,
+
+h)[^12] az előző években a támogató által azonos célra biztosított költségvetési támogatás felhasználásával jogszabályban vagy a támogatási szerződésben foglalt kötelezettségét megszegve nem számolt el.
+
+[^12]: A 18. § h) pontját a 4/2014. (IV. 8.) KüM rendelet 8. §-a iktatta be.

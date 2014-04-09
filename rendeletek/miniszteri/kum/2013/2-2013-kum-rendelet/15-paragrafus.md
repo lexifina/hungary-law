@@ -20,7 +20,7 @@ g) bérköltség elszámolása esetén a kifizetés pontos jogcímének megjelö
 
 (4) Az elszámolás során kizárólag a támogatási szerződés megkötését követően kiállított számviteli bizonylat fogadható el, kivéve:
 
-a) a támogatási kérelem benyújtásakor már megvalósult tevékenység támogatását,
+a)[^11] a támogatási kérelem benyújtásakor már megkezdett vagy megvalósult tevékenység támogatását,
 
 b) a határon túli személyek részére nyújtott költségvetési támogatásokat,
 
@@ -29,3 +29,5 @@ c) működési költségre nyújtott költségvetési támogatásokat, vagy
 d) a saját forrás elszámolását.
 
 (5) A kedvezményezett tartalmi jelentést készít a támogatási szerződésben megjelölt tevékenységek, feladatok teljesítéséről, eredményéről. A tartalmi jelentést elektronikus úton is be kell nyújtani, amelyben az üzleti titkot olvashatatlanná kell tenni.
+
+[^11]: A 15. § (4) bekezdése a) pontja a 4/2014. (IV. 8.) KüM rendelet 7. §-ával megállapított szöveg.

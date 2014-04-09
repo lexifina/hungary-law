@@ -40,4 +40,6 @@
 
 | Aláírás/Cégszerű aláírás |
 
-2. melléklet a 2/2013. (VIII. 30.) KüM rendelethez
+2. melléklet a 2/2013. (VIII. 30.) KüM rendelethez[^22]
+
+[^22]: A 2. melléklet a 4/2014. (IV. 8.) KüM rendelet 16. §-ával megállapított szöveg.
