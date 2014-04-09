@@ -8,4 +8,6 @@
 
 a) „a címzett ismeretlen” vagy
 
-b) „a címzett ismeretlen helyre költözött”
+b)[^1] „elköltözött”
+
+[^1]: A 4. § (3) bekezdés b) pontja a 102/2014. (III. 25.) Korm. rendelet 5. §-a szerint módosított szöveg.
