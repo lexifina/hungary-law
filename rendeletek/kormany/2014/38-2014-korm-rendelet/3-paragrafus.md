@@ -1,4 +1,4 @@
-## 2. § A Földforgalmi tv. 5. § 19. a) pont ac) alpontjában és a 26. pont c) alpontjában meghatározott üzemi gyakorlat alatt a szervezet főtevékenységeként meghatározott, és a Földforgalmi tv. 5. § 14., illetve 18. pontjának megfelelő mező-, erdőgazdasági tevékenységet, illetve kiegészítő tevékenységet (a továbbiakban együtt: mezőgazdasági tevékenység) kell érteni.
+## 2/A. §[^1] Ahol e rendelet őstermelőről rendelkezik, ott a közös őstermelői igazolvány esetén az igazolványon szereplő természetes személyek bármelyikét érteni kell.
 
 ## 2. A nyilvántartás tartalma
 
@@ -15,3 +15,5 @@ c) a nyilvántartásban szereplő egyes adatok módosítása (ide értve a kieg�
 (3) Az újonnan alapított mezőgazdasági termelőszervezet esetében az adatlap nem tartalmazza a mezőgazdasági üzemközpontra vonatkozó adatokat, ha a szervezet az újonnan alapított mezőgazdasági termelőszervezetként való nyilvántartásba vétele iránti kérelmében a mezőgazdasági üzemközpont hiányát tünteti fel, de a kérelmében nyilatkozik arról, hogy Földforgalmi tv. 42. § (5) bekezdésében meghatározott, a mezőgazdasági üzemközpont létesítésére vonatkozó kötelezettségét az ott meghatározott időn belül teljesíti, és a mezőgazdasági üzemközpont adatait e rendeletben meghatározottak szerint bejelenti a földhivatalhoz.
 
 (4) Ha a nyilvántartásba vételi kérelemben a természetes személy, illetve a szervezet azt jelöli meg, hogy a mezőgazdasági üzemközpontja azonos a lakóhelyével, illetve a székhelyével, vagy telephelyével, akkor ezen ingatlanok adatait kell mezőgazdasági üzemközpontként nyilvántartásba venni. E rendelkezést nem lehet alkalmazni a (3) bekezdésben meghatározott esetben.
+
+[^1]: A 2/A. §-t a 121/2014. (IV. 8.) Korm. rendelet 4. § (1) bekezdése iktatta be.

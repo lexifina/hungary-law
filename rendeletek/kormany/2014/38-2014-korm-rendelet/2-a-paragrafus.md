@@ -1,0 +1,1 @@
+## 2. § A Földforgalmi tv. 5. § 19. a) pont ac) alpontjában és a 26. pont c) alpontjában meghatározott üzemi gyakorlat alatt a szervezet főtevékenységeként meghatározott, és a Földforgalmi tv. 5. § 14., illetve 18. pontjának megfelelő mező-, erdőgazdasági tevékenységet, illetve kiegészítő tevékenységet (a továbbiakban együtt: mezőgazdasági tevékenység) kell érteni.
