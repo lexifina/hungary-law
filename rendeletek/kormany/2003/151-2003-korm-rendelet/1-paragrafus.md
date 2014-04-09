@@ -1,9 +1,11 @@
-1. § (1)[^1] Magyarország területén fogyasztói szerződés [Ptk. 685. § e) pontja] keretében értékesített, a rendelet mellékletében felsorolt új tartós fogyasztási cikkekre (a továbbiakban: fogyasztási cikk) e rendelet szabályai szerint jótállási kötelezettség terjed ki.
+1. §[^1] (1) A Polgári Törvénykönyv szerinti fogyasztó és vállalkozás közötti szerződés keretében eladott, az 1. mellékletben felsorolt új tartós fogyasztási cikkekre (a továbbiakban: fogyasztási cikk) e rendelet szabályai szerint jótállási kötelezettség terjed ki.
 
-(2) Semmis az a megállapodás, amely az e rendeletben foglaltaktól a fogyasztó hátrányára tér el. Az érvénytelen megállapodás helyébe e rendelet rendelkezései lépnek.
+(2) A jótállási kötelezettség teljesítése azt a vállalkozást terheli, amelyet a fogyasztóval kötött szerződés a szerződés tárgyát képező szolgáltatás nyújtására kötelez. A jótállásból eredő jogokat a fogyasztási cikk tulajdonosa érvényesítheti, feltéve, hogy fogyasztónak minősül.
 
-(3) A jótállási kötelezettség teljesítése azt terheli, akit a fogyasztói szerződés a szerződés tárgyát képező szolgáltatás nyújtására kötelez (a továbbiakban: forgalmazó). A jótállási jogokat a fogyasztási cikk tulajdonosa érvényesítheti, feltéve, hogy fogyasztónak minősül (a továbbiakban: fogyasztó).
+(3) Az e rendelet szerinti jótállás érvényességéhez, valamint a jótállásból eredő jogok érvényesítéséhez a vállalkozás az e rendeletben foglaltakon túl további követelményt nem támaszthat a fogyasztóval szemben, kivéve, ha a fogyasztási cikk megfelelő üzembe helyezése más módon nem biztosítható és a követelmény teljesítése nem jelent aránytalan terhet a fogyasztó számára.
 
-(4) Ha a gyártó a fogyasztási cikkre az e rendeletben foglaltaknál kedvezőbb jótállási feltételeket vállal, a jótállás alapján a forgalmazót megillető jogok a fogyasztói szerződés teljesítésének időpontjában átszállnak a fogyasztóra.
+(4) Ha a gyártó a fogyasztási cikkre az e rendeletben foglaltaknál kedvezőbb jótállási feltételeket vállal, a jótállás alapján a vállalkozást megillető jogok a fogyasztó és vállalkozás közötti szerződés teljesítésének időpontjában átszállnak a fogyasztóra.
 
-[^1]: Az 1. § (1) bekezdése a 144/2012. (VII. 3.) Korm. rendelet 5. §-a szerint módosított szöveg.
+(5) A fogyasztó és vállalkozás közötti szerződésben semmis az a kikötés, amely e rendelet rendelkezéseitől a fogyasztó hátrányára tér el. Az érvénytelen megállapodás helyébe e rendelet rendelkezései lépnek.
+
+[^1]: Az 1. § a 97/2014. (III. 25.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg. E módosító rendelet 6. §-a alapján csak a 2014. április 9-ét követően kötött szerződésekre kell alkalmazni.

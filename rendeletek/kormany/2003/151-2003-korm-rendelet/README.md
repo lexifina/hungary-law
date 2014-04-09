@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-151-20-
 | --- | --- | --- |
 | 2008-05-16 | 2003-151-20-22.4 | 151/2003. (IX. 22.) Korm. rendelet |
 | 2012-07-04 | 2003-151-20-22.5 | 144/2012. (VII. 3.) Korm. rendelet |
+| 2014-04-09 | 2003-151-20-22.6 | 97/2014. (III. 25.) Korm. rendelet |
