@@ -1,8 +1,8 @@
-## 7. § A titkos információgyűjtésre felhatalmazott szervek részére a Pt. 30. §-ának (1) bekezdésében meghatározott adatokból történő adatszolgáltatás, a Pt. 30. §-ának (7) bekezdése szerinti szolgáltatás, valamint a titkos információgyűjtés feltételeinek biztosítása a Pt. 13. §-ának (5) bekezdése alapján díj-, költség- és térítésmentes.
+## 7. §[^7] A titkos információgyűjtésre felhatalmazott szervek részére a Postatv. 54. § (1) bekezdésében meghatározott adatokból történő adatszolgáltatás, a Postatv. 55. § (6) bekezdése szerinti szolgáltatás, valamint a titkos információgyűjtés feltételeinek biztosítása a Postatv. 38. §-a alapján díj-, költség- és térítésmentes.
 
 ## Az adat- és titokvédelemre vonatkozó rendelkezések
 
-8. § (1)[^5] Az e rendelet alapján a postai szolgáltatóval való együttműködés során végzett titkos információgyűjtéssel, annak eszközével és módszerével, valamint azok alkalmazásával összefüggő valamennyi, továbbá a Pt. 13. §-ának (5) bekezdésében, illetve 30. §-ának (7) bekezdésében meghatározottakra vonatkozó adatot a minősített adat védelméről szóló jogszabályok alapján kell minősíteni, és azok szerint kell kezelni.
+8. § (1)[^8] Az e rendelet alapján a postai szolgáltatóval való együttműködés során végzett titkos információgyűjtéssel, annak eszközével és módszerével, valamint azok alkalmazásával összefüggő valamennyi, továbbá a Postatv. 38. §-ában, illetve 55. § (6) bekezdésében meghatározottakra vonatkozó adatot a minősített adat védelméről szóló jogszabályok alapján kell minősíteni, és azok szerint kell kezelni.
 
 (2) A postai szolgáltató és a titkos információgyűjtésre felhatalmazott szervezet – amennyiben az együttműködés tartalma szükségszerűen igényli minősített adatok átadását – titokvédelmi szerződést (a továbbiakban: szerződés) köt a minősített adatok átadásának és kezelésének feltételeiről.
 
@@ -12,4 +12,5 @@
 
 (5) A szerződés kiterjedhet az együttműködést érintő egyéb rendelkezésekre is.
 
-[^5]: A 8. § (1) bekezdése a 90/2010. (III. 26.) Korm. rendelet 69. § (17) bekezdése szerint módosított szöveg.
+[^7]: A 7. § a 102/2014. (III. 25.) Korm. rendelet 1. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^8]: A 8. § (1) bekezdése a 90/2010. (III. 26.) Korm. rendelet 69. § (17) bekezdése, a 102/2014. (III. 25.) Korm. rendelet 1. § (2) bekezdés d) pontja szerint módosított szöveg.

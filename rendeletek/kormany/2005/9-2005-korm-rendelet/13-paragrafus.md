@@ -2,7 +2,7 @@
 
 ## Az együttműködés részletes szabályai
 
-13. § (1) A titkos információgyűjtésre felhatalmazott szervezetek a Pt.-ben és az e rendeletben foglalt feladatok teljesítésére vonatkozó részletszabályok meghatározása érdekében a postai szolgáltatóval írásbeli együttműködési megállapodás (a továbbiakban: megállapodás) megkötését kezdeményezhetik.
+13. § (1)[^9] A titkos információgyűjtésre felhatalmazott szervezetek a Postatv. és az e rendeletben foglalt feladatok teljesítésére vonatkozó részletszabályok meghatározása érdekében a postai szolgáltatóval írásbeli együttműködési megállapodás (a továbbiakban: megállapodás) megkötését kezdeményezhetik.
 
 (2) Kezdeményezés esetén a postai szolgáltató köteles a kezdeményezéstől számított 60 napon belül megkötni a megállapodást. A megállapodás tartalmát a titkos információgyűjtésre felhatalmazott szervezet tevékenységének jellegére tekintettel az együttműködő felek határozzák meg.
 
@@ -21,3 +21,5 @@ e) a postai szolgáltató részéről közreműködő alkalmazottak kiválasztá
 f) az együttműködési megállapodásban foglaltak teljesülésének, szükség szerinti közös értékelésének és felülvizsgálatának rendjét;
 
 g) minden olyan feltételt, eljárást, amelyet az a)–f) pontokon túlmenően az együttműködő felek szükségesnek tartanak.
+
+[^9]: A 13. § (1) bekezdése a 102/2014. (III. 25.) Korm. rendelet 1. § (2) bekezdés e) pontja szerint módosított szöveg.
