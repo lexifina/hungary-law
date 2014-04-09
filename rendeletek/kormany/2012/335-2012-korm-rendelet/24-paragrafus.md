@@ -1,4 +1,4 @@
-## 23. § A postai szolgáltató általános szerződési feltételeiben jogosult a könyvelt küldemény kézbesítését – a 22. §-ban megállapított rendelkezésekben foglaltakon túl – további, az átvételi jogcím és a személyazonosság igazolása vonatkozásában a címzett által kötelezően teljesítendő előírások teljesítésétől függővé tenni.
+## 23. §[^16] A postai szolgáltató általános szerződési feltételeiben jogosult a könyvelt küldemény kézbesítését – a 22. §-ban megállapított rendelkezésekben foglaltakon túl – további, az átvételi jogcím és a személyazonosság igazolása vonatkozásában a címzett vagy egyéb jogosult átvevő által kötelezően teljesítendő előírások teljesítésétől függővé tenni.
 
 ## 10. A postai küldemény átvételének megtagadása
 
@@ -13,3 +13,5 @@ a) a címzett vagy meghatalmazott a kézbesítéskor esedékes díj megfizetés�
 b) a címzetten és meghatalmazotton kívüli egyéb jogosult átvevő nem kívánja átvenni a küldeményt, vagy elzárkózik a kézbesítéskor esedékes díj megfizetésétől, az átvétel jogcímének vagy személyazonosságának igazolásától, továbbá a kézbesítési okirat vagy tértivevény aláírásától vagy az átvétel során feltüntetendő adatok rögzítésétől.
 
 Ezen esetekben a címzett részére a küldemény érkezéséről értesítőt kell hátrahagyni.
+
+[^16]: A 23. § a 102/2014. (III. 25.) Korm. rendelet 3. § (12) bekezdés d) pontja szerint módosított szöveg.

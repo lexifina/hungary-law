@@ -1,6 +1,6 @@
-31. § (1) Amennyiben az első kézbesítési kísérlet nem vezetett eredményre – kivéve, ha az átvételt a címzett megtagadta, vagy a postai szolgáltató a 26. § (3) bekezdése szerinti kézbesítést érintő információval rendelkezik –, a postai szolgáltató a hivatalos irat érkezéséről és a sikertelen kézbesítési kísérletről a címzett részére a (3) bekezdésben meghatározott adattartalommal bíró értesítőt hagy hátra, a hivatalos iratot az értesítőn megjelölt kézbesítési ponton a címzett rendelkezésére tartja, és a kézbesítést a sikertelen kézbesítés napját követő ötödik munkanapon újból megkísérli.
+31. § (1)[^22] Amennyiben az első kézbesítési kísérlet nem vezetett eredményre – kivéve, ha az átvételt a címzett megtagadta, vagy a postai szolgáltató a 26. § (3) bekezdése szerinti kézbesítést érintő információval rendelkezik –, a postai szolgáltató a hivatalos irat érkezéséről és a sikertelen kézbesítési kísérletről a címzett részére a (3) bekezdésben meghatározott adattartalommal bíró értesítőt hagy hátra, a hivatalos iratot az értesítőn megjelölt kézbesítési ponton a címzett vagy egyéb jogosult átvevő rendelkezésére tartja, és a kézbesítést a sikertelen kézbesítés napját követő ötödik munkanapon újból megkísérli.
 
-(2) A második kézbesítési kísérlet sikertelensége esetén a postai szolgáltató a címzett részére a (3) bekezdésben meghatározott adattartalommal bíró értesítőt hagy hátra, a hivatalos iratot az értesítőn megjelölt kézbesítési ponton a második kézbesítési kísérlet napját követő öt munkanapig a címzett rendelkezésére tartja.
+(2)[^23] A második kézbesítési kísérlet sikertelensége esetén a postai szolgáltató a címzett részére a (3) bekezdésben meghatározott adattartalommal bíró értesítőt hagy hátra, a hivatalos iratot az értesítőn megjelölt kézbesítési ponton a második kézbesítési kísérlet napját követő öt munkanapig a címzett vagy egyéb jogosult átvevő rendelkezésére tartja.
 
 (3) Az értesítőnek tartalmaznia kell:
 
@@ -31,3 +31,6 @@ l) az egyes hivatalos irat típusokra vonatkozóan az átvétel elmaradásának 
 (4) A második értesítőben megjelölt átvételi határidő eredménytelen elteltét követő munkanapon a postai szolgáltató a hivatalos iratot a tértivevényen feltüntetendő „nem kereste” jelzéssel a feladónak visszaküldi.
 
 (5) A postafiókra címzett hivatalos irat érkezéséről az egyetemes postai szolgáltató a fiókban elhelyezett (1)–(2) bekezdés szerinti értesítővel ad tájékoztatást, abban az esetben is, ha a hivatalos irat postafiókra címzett, de nem a postafiók bérlőjének szól.
+
+[^22]: A 31. § (1) bekezdése a 102/2014. (III. 25.) Korm. rendelet 3. § (12) bekezdés g) pontja szerint módosított szöveg.
+[^23]: A 31. § (2) bekezdése a 102/2014. (III. 25.) Korm. rendelet 3. § (12) bekezdés g) pontja szerint módosított szöveg.

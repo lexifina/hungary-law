@@ -16,6 +16,8 @@ f) az általános szerződési feltételek elérhetőségéről szóló tájéko
 
 (2) A feladást igazoló okiraton tájékoztatást kell adni arról, hogy a szerződésre a Postatv. és e rendelet rendelkezései az irányadók.
 
-(3) A feladást igazoló okiratot – a feladó és a postai szolgáltató között létrejött erre vonatkozó megállapodás esetében – mindkét szerződő fél által elektronikusan is visszakereshető jelzés vagy elektronikus formában rögzített adatbázis is helyettesítheti.
+(3)[^2] A postai szolgáltató és a feladó egyedi szerződésben az (1) és a (2) bekezdésben foglaltaktól eltérő tartalmú feladást igazoló okirat alkalmazásában is megállapodhatnak, továbbá megállapodhatnak abban is, hogy a feladást igazoló okiratot mindkét szerződő fél által elektronikusan is visszakereshető, jelzés vagy elektronikus formában rögzített adatbázis is helyettesítheti.
 
 (4) A feladónak a könyvelt postai küldeményen, annak csomagolásán vagy az ahhoz tartozó listán – kivéve, ha jelzése alapján a küldemény pályázatot vagy versenytárgyalási ajánlatot tartalmaz – fel kell tüntetnie az (1) bekezdés b) pontjában meghatározott adatokat, amelyeket a postai szolgáltató a küldemény esetleges visszakézbesítése során köteles figyelembe venni.
+
+[^2]: A 7. § (3) bekezdése a 102/2014. (III. 25.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.

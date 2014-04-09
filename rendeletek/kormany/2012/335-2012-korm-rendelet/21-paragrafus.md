@@ -1,7 +1,11 @@
 ## 9. Az átvételi jogosultság és a személyazonosság igazolása
 
-21. § (1) A címhelyen történő kézbesítéskor az átvételi jogosultság jogcímének fennállásáról közvetett kézbesítés kivételével szóbeli nyilatkozat is irányadónak tekintendő. Amennyiben a szóbeli nyilatkozat alapján az átvételi jogosultság jogcíme kétséges, a postai szolgáltató kérheti a jogcím fennállásának további igazolását. Közvetett kézbesítő az átvételi jogosultság jogcímének fennállását a 20. § (10) bekezdése szerinti névre szóló igazolással igazolja.
+21. § (1)[^9] A címhelyen történő kézbesítéskor – közvetett kézbesítés kivételével – az átvételi jogosultság jogcíméről tett szóbeli nyilatkozattal a jogcím igazoltnak tekintendő. Amennyiben a szóbeli nyilatkozat alapján az átvételi jogosultság jogcíme kétséges, a postai szolgáltató kérheti a jogcím fennállásának további igazolását. A közvetett kézbesítő az átvételi jogosultság jogcímének fennállását a 20. § (10) bekezdése szerinti névre szóló igazolással igazolja.
 
-(2) A címhelyen történő kézbesítéskor kizárólag ajánlott többletszolgáltatással feladott küldemény átadásakor a postai szolgáltató a dokumentumok bemutatása nélkül is elfogadhatja az igazolt jogcímmel rendelkező átvevő aláírását és az átvevő által a személyazonosság igazolására alkalmas okiratnak a kézbesítési okiratra vagy az aláírást rögzítő egyéb technikai eszközre feljegyzett számát.
+(2)[^10]
 
-(3) A (2) bekezdésben foglaltakon túli egyéb könyvelt küldemény címhelyen történő kézbesítése esetén az igazolt jogcímmel rendelkező átvevő személyazonosságát az arra alkalmas hatósági igazolvány postai szolgáltató részére történő bemutatásával igazolja. Meghatalmazottnak történő kézbesítés esetében a személyazonosság igazolására csak az a hatósági igazolvány alkalmas, amelyben a meghatalmazott nevén kívül legalább egy olyan – a személyazonosság megállapítására alkalmas – adat szerepel, amelyet a meghatalmazás is tartalmaz.
+(3)[^11] A hivatalos iratnak nem minősülő könyvelt küldemény címhelyen történő kézbesítése esetén az igazolt jogcímmel rendelkező átvevő személyazonosságának igazolására alkalmas okmány elnevezését, betűjelét és számát – az alkalmi átvevőnek történő kézbesítés kivételével – a postai szolgáltató nem köteles rögzíteni. Meghatalmazottnak történő kézbesítés esetében a személyazonosság igazolására csak az a hatósági igazolvány alkalmas, amelyben a meghatalmazott nevén kívül legalább egy olyan – a személyazonosság megállapítására alkalmas – adat szerepel, amelyet a meghatalmazás is tartalmaz.
+
+[^9]: A 21. § (1) bekezdése a 102/2014. (III. 25.) Korm. rendelet 3. § (5) bekezdésével megállapított szöveg.
+[^10]: A 21. § (2) bekezdését a 102/2014. (III. 25.) Korm. rendelet 3. § (13) bekezdése hatályon kívül helyezte.
+[^11]: A 21. § (3) bekezdése a 102/2014. (III. 25.) Korm. rendelet 3. § (6) bekezdésével megállapított szöveg.

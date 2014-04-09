@@ -1,5 +1,3 @@
-## 1. § A postai küldeményekkel kapcsolatos, nemzetközi viszonylatú postai szolgáltatásra e rendelet rendelkezéseit annyiban kell alkalmazni, amennyiben nemzetközi szerződés, különösen az Egyetemes Postaegyesület 1964. évi július hó 10. napján Bécsben aláírt Alapokmányának kihirdetéséről szóló 1967. évi 26. törvényerejű rendelet alapján kötött nemzetközi szerződés vagy ezek rendelkezése szerint megkötött külön megállapodás eltérően nem rendelkezik.
-
 ## 2. § A postai szolgáltatók általános szerződési feltételeinek kötelező tartalmi elemei:
 
 a) a postai szolgáltatás vagy a postai szolgáltatáshoz kapcsolódó többletszolgáltatás megnevezése;

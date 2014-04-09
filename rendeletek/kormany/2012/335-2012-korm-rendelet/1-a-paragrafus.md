@@ -1,0 +1,7 @@
+## 1. § A postai küldeményekkel kapcsolatos, nemzetközi viszonylatú postai szolgáltatásra e rendelet rendelkezéseit annyiban kell alkalmazni, amennyiben nemzetközi szerződés, különösen az Egyetemes Postaegyesület 1964. évi július hó 10. napján Bécsben aláírt Alapokmányának kihirdetéséről szóló 1967. évi 26. törvényerejű rendelet alapján kötött nemzetközi szerződés vagy ezek rendelkezése szerint megkötött külön megállapodás eltérően nem rendelkezik.
+
+1/A. §[^1] (1) Postai szolgáltatási szerződés leplezésének minősül a jogviszony különösen akkor, ha bármely szervezet a saját gazdasági vagy egyéb tevékenységével összefüggő tartalmú küldeményét olyan – vele munkavégzésre irányuló, illetve tagsági jogviszonyban álló – természetes személlyel juttatja el a címre, aki más szervezettel már ilyen vagy bármely más munkavégzésre irányuló jogviszonyban áll, és ennek alapján tevékenysége részben vagy egészben küldemények rendeltetése szerinti helyre történő eljuttatására irányul.
+
+(2) A postai szolgáltatásra a fogyasztó és a vállalkozás közötti szerződések részletes szabályairól szóló rendeletben foglaltakat nem kell alkalmazni, amennyiben a postai szolgáltató internetes honlapján közzétett és minden postai szolgáltatóhelyen a felhasználók által megtekinthető általános szerződési feltételei megfelelnek a 2. §-ban foglalt követelményeknek és a postai szolgáltatási szerződés ezen általános szerződési feltételek alapján jött létre.
+
+[^1]: Az 1/A. §-t a 102/2014. (III. 25.) Korm. rendelet 3. § (1) bekezdése iktatta be.

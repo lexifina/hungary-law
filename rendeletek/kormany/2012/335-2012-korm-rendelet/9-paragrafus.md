@@ -14,10 +14,12 @@ b) amelyet a címzett a postai szolgáltatóval kötött, olyan tartalmú szerz�
 
 (4) A postai szolgáltató a települések belterületén kívüli lakott helyekre címzett levélszekrénybe kézbesíthető küldemények kézbesítését, valamint – a kézbesítés megkísérlésének mellőzésével – a személyes átadással kézbesítendő küldemény érkezéséről szóló értesítő elhelyezését a közutak mentén a postai szolgáltató által kijelölt helyen, a címhelyekhez rendelten telepített és üzemeltetett kézbesítésre alkalmas eszköz útján biztosíthatja.
 
-(5) Ha személyes kézbesítést igénylő küldemény esetében a címzett vagy egyéb jogosult átvevő a kézbesítés megkísérlésekor nem tartózkodik a címen, a postai szolgáltató – értesítő hátrahagyása mellett – kézbesítési ponton való kézbesítéssel, vagy a 25. § (1) bekezdés a), b), e) és f) pontjában meghatározott esetekben a feladó részére történő visszakézbesítéssel teljesítheti a postai szolgáltatási szerződést.
+(5)[^3] Ha személyes kézbesítést igénylő küldemény esetében a címzett vagy egyéb jogosult átvevő a kézbesítés megkísérlésekor nem tartózkodik a címen, a postai szolgáltató – értesítő hátrahagyása mellett – kézbesítési ponton való kézbesítéssel, vagy a 25. § (1) bekezdés a), b), e), f) és g) pontjában meghatározott esetekben a feladó részére történő visszakézbesítéssel teljesítheti a postai szolgáltatási szerződést.
 
 (6) A postai szolgáltató jogosult arra, hogy az értéknyilvánítás többletszolgáltatás igénybevételét, ha az értéknyilvánítás összege meghaladja
 
 a) egyetemes postai szolgáltatás esetében a 100 000 forintot,
 
 b) egyetemes postai szolgáltatásnak nem minősülő postai szolgáltatás esetében a postai szolgáltató általános szerződési feltételeiben meghatározott összeget,
+
+[^3]: A 9. § (5) bekezdése a 102/2014. (III. 25.) Korm. rendelet 3. § (12) bekezdés a) pontja szerint módosított szöveg.
