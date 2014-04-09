@@ -1,1 +1,3 @@
-## 23. § A nyilvántartásba vett, nem minősített előadó-művészeti szervezet fenntartója, ennek hiányában képviselője a 2013. költségvetési évre vonatkozó, minősítéshez szükséges adatokat a 9. §-ban előírt mellékletek szerinti adattartalommal legkésőbb 2012. április 10-ig nyújthatja be az előadó-művészeti államigazgatási szervnek. A 3. melléklet szerinti adatszolgáltatás során az utolsó lezárt évadra vonatkozó adatokat kell megadni.
+## 23. §[^34]
+
+[^34]: A 23. §-t a 27/2014. (IV. 8.) EMMI rendelet 4. §-a hatályon kívül helyezte.
