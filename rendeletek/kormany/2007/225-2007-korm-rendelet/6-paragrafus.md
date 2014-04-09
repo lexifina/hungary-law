@@ -32,17 +32,9 @@ d) módszertani segédanyagokat készítenek a helyi önkormányzatok fogyasztó
 
 e) támogatják az önkormányzati tanácsadó irodák működését.
 
-(3)[^15] Az NFH és a felügyelőségek fogyasztóvédelmi hatóságként ellenőrzik
+(3)[^15]
 
-a) az egyes tartós fogyasztási cikkekre vonatkozó kötelező jótállásról szóló 151/2003. (IX. 22.) Korm. rendelet 3. §-ában, 5. § (2) és (3) bekezdésében, valamint 6. §-ában;
-
-b) a lakásépítéssel kapcsolatos kötelező jótállásról szóló 181/2003. (XI. 5.) Korm. rendelet 4. § (2)–(4) bekezdésében és 5. §-ában;
-
-c) az egyes javító-karbantartó szolgáltatásokra vonatkozó kötelező jótállásról szóló 249/2004. (VIII. 27.) Korm. rendelet 3. § (1)–(4) bekezdésében és 4–5. §-ában
-
-foglalt rendelkezések betartását, és az Fgytv.-ben meghatározott szabályok szerint eljárnak ezek megsértése esetén.
-
-(4)[^16] A (3) bekezdésben említett rendelkezések az Fgytv. alkalmazásában fogyasztóvédelmi rendelkezések.
+(4)[^16]
 
 (5)[^17] A Kormány a textilszál-elnevezésekről és a textiltermékek szálösszetételének ehhez kapcsolódó címkézéséről és jelöléséről, valamint a 73/44/EGK tanácsi irányelv, és a 96/73/EK és a 2008/121/EK európai parlamenti és tanácsi irányelv hatályon kívül helyezéséről szóló, 2011. szeptember 27-i 1007/2011/EU európai parlamenti és tanácsi rendeletben meghatározottak követésének betartása végett piacfelügyeleti hatóságként az NFH-t és a felügyelőségeket jelöli ki.
 
@@ -57,7 +49,7 @@ foglalt rendelkezések betartását, és az Fgytv.-ben meghatározott szabályok
 [^12]: A 6. § (1) bekezdés j) pontját az 531/2013. (XII. 30.) Korm. rendelet 1. § (2) bekezdése iktatta be.
 [^13]: A 6. § (2) bekezdése a 316/2010. (XII. 27.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^14]: A 6. § (2) bekezdés a) pontja a 306/2012. (X. 29.) Korm. rendelet 1. § (3) bekezdés a) pontja szerint módosított szöveg.
-[^15]: A 6. § (3) bekezdése a 316/2010. (XII. 27.) Korm. rendelet 3. §-ával megállapított, záró szövegrésze a 306/2012. (X. 29.) Korm. rendelet 1. § (3) bekezdés b) pontja szerint módosított szöveg.
-[^16]: A 6. § új (4) bekezdését a 214/2008. (VIII. 29.) Korm. rendelet 1. § (2) bekezdése iktatta be, egyidejűleg az eredeti (4) bekezdés számozását (5) bekezdésre változtatta. A 6. § (4) bekezdése a 316/2010. (XII. 27.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^15]: A 6. § (3) bekezdését a 97/2014. (III. 25.) Korm. rendelet 4. § (1) bekezdése hatályon kívül helyezte. E módosító rendelet 6. §-a alapján csak a 2014. április 9-ét követően kötött szerződésekre kell alkalmazni.
+[^16]: A 6. § új (4) bekezdését a 214/2008. (VIII. 29.) Korm. rendelet 1. § (2) bekezdése iktatta be, egyidejűleg az eredeti (4) bekezdés számozását (5) bekezdésre változtatta. A 6. § (4) bekezdését a 97/2014. (III. 25.) Korm. rendelet 4. § (1) bekezdése hatályon kívül helyezte. Ez utóbbi módosító rendelet 6. §-a alapján csak a 2014. április 9-ét követően kötött szerződésekre kell alkalmazni.
 [^17]: A 6. § eredeti (4) bekezdésének számozását (5) bekezdésre változtatta 214/2008. (VIII. 29.) Korm. rendelet 1. § (2) bekezdése. A 6. § (5) bekezdését a 63/2012. (IV. 2.) Korm. rendelet 6. § h) pontja hatályon kívül helyezte, újonnan a 245/2012. (VIII. 31.) Korm. rendelet 1. § (1) bekezdése iktatta be.
 [^18]: A 6. § (6) bekezdését a 7/2013. (I. 18.) Korm. rendelet 10. § (3) bekezdése iktatta be.
