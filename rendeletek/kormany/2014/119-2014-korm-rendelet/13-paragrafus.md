@@ -1,0 +1,5 @@
+## 12. § A használó, vagy a kiemelt nemzeti emlékhelyet használati szerződés nélkül igénybe vevő költségére a vagyonkezelő maga is azonnal gondoskodhat a kiemelt nemzeti emlékhely területe eredeti állapotának helyreállításáról, ha az élet- vagy balesetveszély elhárítása, illetve a vagyonbiztonság, a közrend, közbiztonság, a kiemelt nemzeti emlékhely rendeltetésszerű használata sérelmének elhárítása érdekében vagy jelentős közérdekből egyébként indokolt.
+
+13. § (1) A kiemelt nemzeti emlékhely területe használatát és a használati szerződésben foglaltak megtartását a vagyonkezelővel kötött megállapodás alapján a kiemelt nemzeti emlékhely területe szerint illetékes közterület-felügyelet, a jogszabályok szerint ellenőrzésre jogosult más szervek, illetve a vagyonkezelő által megbízott személyek ellenőrizhetik.
+
+(2) A használati szerződés eredeti példányát vagy annak hiteles másolatát a kiemelt nemzeti emlékhely területét használó személy köteles a helyszínen magánál tartani, és az (1) bekezdés szerinti ellenőrzésre jogosult személyek felhívására bemutatni.
