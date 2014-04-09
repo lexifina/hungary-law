@@ -1,0 +1,3 @@
+## 9. § Az R. 19. §-a helyébe a következő rendelkezés lép:
+
+## „19. § Az előirányzat célja Magyarország nemzetközi szervezetekben viselt tagságáról szóló hatályos nemzetközi szerződésekből eredő fizetési kötelezettségeinek teljesítése. Az Európai Bizottság által működtetett Európai Fejlesztési Alaphoz (EDF) történő hozzájárulások fedezetét az erre a célra létrehozott, Európai uniós befizetések jogcímcsoport előirányzata biztosítja. A tagdíjfizetési kötelezettségeken kívül az előirányzat forrást nyújt a nemzetközi szervezetek által kezdeményezett kötelező jellegű, így különösen ICRC, OHCHR, UNHCR, UNODC önkéntes felajánlásokra is.”
