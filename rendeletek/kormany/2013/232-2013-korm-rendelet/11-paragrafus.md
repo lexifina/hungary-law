@@ -1,10 +1,10 @@
-## 4. A Széchenyi Útdíj Hitelprogram állami kamattámogatása
+## 4. [^14] Az Útdíj Hitelprogram állami kamattámogatása
 
-11. § (1) A kincstár az állam nevében a Széchenyi Útdíj Hitelprogramhoz kapcsolódó hitelszerződéseken alapuló kölcsönök támogatására a központi költségvetésből a hitelszerződések tőkeösszegére vetített évi 4% mértékű kamattámogatást nyújt.
+11. § (1)[^15] A kincstár az állam nevében az Útdíj Hitelprogramhoz kapcsolódó hitelszerződéseken alapuló kölcsönök támogatására a központi költségvetésből a hitelszerződések tőkeösszegére vetített évi 4% mértékű kamattámogatást nyújt.
 
 (2) Az (1) bekezdés szerinti kamattámogatás a KAVOSZ VF-től igényelhető.
 
-(3) Azon Széchenyi Útdíj Hitelprogram keretében kötött hitelszerződés után nyújtható kamattámogatás, amelynél
+(3)[^16] Azon Útdíj Hitelprogram keretében kötött hitelszerződés után nyújtható kamattámogatás, amelynél
 
 a) a KAVOSZ VF nyilatkozattal alátámasztja, hogy a hitelszerződés megfelel a 4. § (1) bekezdése szerinti feltételeknek, és
 
@@ -14,6 +14,9 @@ b) a kis- és középvállalkozás megtette az államháztartásról szóló tö
 
 (5) A KAVOSZ VF a kérelem elutasítása esetén az igénylőt írásban tájékoztatja az elutasítás indokáról.
 
-(6) A kincstár a támogatott kis- és középvállalkozásnál a kamattámogatás igénybevételének jogszerűségét hatósági ellenőrzés keretében vizsgálhatja.
+(6)–(7)[^17]
 
-(7) Ha a kincstár megállapítja, hogy a kis- és középvállalkozás jogosulatlanul vette igénybe a kamattámogatást, akkor határozatban intézkedik a támogatás – igénybevétel napjától számított, a Polgári Törvénykönyv szerinti késedelmi kamattal növelt – összegének visszafizettetése iránt.
+[^14]: A 4. alcím címe a 122/2014. (IV. 8.) Korm. rendelet 10. § 5. pontja szerint módosított szöveg.
+[^15]: A 11. § (1) bekezdése a 122/2014. (IV. 8.) Korm. rendelet 10. § 6. pontja szerint módosított szöveg.
+[^16]: A 11. § (3) bekezdés nyitó szövegrésze a 122/2014. (IV. 8.) Korm. rendelet 10. § 7. pontja szerint módosított szöveg.
+[^17]: A 11. § (6)–(7) bekezdését a 122/2014. (IV. 8.) Korm. rendelet 11. §-a hatályon kívül helyezte.

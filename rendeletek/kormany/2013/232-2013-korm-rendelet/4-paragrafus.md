@@ -2,30 +2,35 @@
 
 ## 2. Az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díj fizetéséhez nyújtott hitelszerződésen alapuló kölcsönhöz kapcsolódó állami kezességvállalás
 
-4. § (1) A Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény (a továbbiakban: Kvtv.) 44/C. § (1) bekezdése szerinti jogszabályi állami készfizető kezesség kizárólag azon visszafizetési kötelezettségre terjed ki, amelynek alapja a KAVOSZ VF által kötött olyan hitelszerződés, amely:
+4. § (1)[^2] Az Údt. 8/B. § (1) bekezdése szerinti jogszabályi állami készfizető kezesség kizárólag azon visszafizetési kötelezettségre terjed ki, amelynek alapja a KAVOSZ VF által kötött olyan hitelszerződés, amely:
 
-a) kizárólag a Kvtv. 44/C. § (1) bekezdése szerinti célra,
+a) kizárólag az Údt. 8/B. § (1) bekezdése szerinti célra,
 
-b) köztartozással nem rendelkező, jogerős végzéssel elrendelt végelszámolás, felszámolás, csődeljárás vagy a megszüntetésére irányuló más, jogszabályban meghatározott eljárás alatt nem álló,
+b) üzemeltetett útdíjköteles gépjárművenként legfeljebb 1 000 000 forint hitelösszegre,
 
-c) üzemeltetett útdíjköteles gépjárművenként legfeljebb 1 000 000 forint hitelösszegre,
+c) egy éves – legfeljebb két alkalommal új hitelszerződés megkötésével –, vagy a hitelszerződés módosításával legfeljebb kétszer, további egy-egy évre, összesen legfeljebb három éves futamidőre meghosszabbítható,
 
-d) egy éves – új hitelszerződés megkötésével legfeljebb kétszer meghosszabbítható – futamidőre,
+d) a 11. § (1) bekezdése szerinti kamattámogatással csökkentett, legfeljebb egyhavi budapesti bankközi forint hitelkamatláb (a továbbiakban: BUBOR) + 1,5% ügyleti kamatmértékkel,
 
-e) a 11. § (1) bekezdése szerinti kamattámogatással csökkentett, legfeljebb egyhavi BUBOR + 1,5% ügyleti kamatmértékkel, és
+e) legkésőbb 2015. július 1-ig, illetve a refinanszírozási célú hitelszerződés 8. § (1) bekezdés szerinti meghosszabbítása esetén legkésőbb 2017. július 1-ig, és
 
-f) legkésőbb 2015. július 1-ig
+f) köztartozással nem rendelkező, jogerős végzéssel elrendelt végelszámolás, felszámolás, csődeljárás vagy a megszüntetésére irányuló más, jogszabályban meghatározott eljárás alatt nem álló kis- és középvállalkozás adóssal
 
-## kis- és középvállalkozás adóssal jön létre.
+jön létre.
 
-(2) Az (1) bekezdés d) pontja szerinti meghosszabbítás esetén az új hitelszerződés alapján folyósított kölcsönből a korábbi hitelszerződés szerinti tartozás kiváltható.
+(2)[^3] Az (1) bekezdés c) pontja szerinti új hitelszerződés megkötésével történő meghosszabbítás esetén az új hitelszerződés alapján folyósított kölcsönből a korábbi hitelszerződés szerinti tartozás kiváltható.
 
-(3) A Kvtv. 44/C. §-a szerinti kezességre az R. 6. § (3) bekezdését nem kell alkalmazni.
+(3)[^4] Az Údt. 8/B. §-a szerinti kezességre az R. 6. § (3) bekezdését nem kell alkalmazni.
 
-(4) Az e § szerinti hitelfelhasználás keretében a kis-és középvállalkozás és a KAVOSZ VF óvadékot alapíthat a hitelszerződés szerint rendelkezésre bocsátott hitelösszegből, legfeljebb a szerződésben kikötött hitelösszeg 20%-ának és a hitelösszegnek a hitelszerződés aláírásakor érvényes 3 havi ügyleti kamatának együttes összegére.
+(4)[^5] Az e § szerinti hitelfelhasználás keretében a kis- és középvállalkozás a KAVOSZ VF által szolgáltatott hitel biztosítékaként a folyósított kölcsönt legfeljebb a szerződött hitelösszeg 20%-ának és a szerződött hitelösszegnek a hitelszerződés aláírásakor érvényes 3 havi ügyleti kamatának – a hitelszerződés aláírásának hónapját megelőző naptári hónap utolsó munkanapja szerinti egyhavi BUBOR érték figyelembe vételével számított – együttes összegével megegyező mértékben – óvadék alapítás céljára használhatja fel.
 
 (5) A KAVOSZ VF a hitelszerződéshez kapcsolódó biztosítékok közül jogosult elsőként az állami készfizető kezességet érvényesíteni.
 
 (6) Az állam készfizető kezessége nem terjed ki a jogszabály által meghatározott késedelmi kamat és a bírósági végrehajtásra irányuló eljárás megindításának közvetlen költségeire.
 
 (7) Az állami készfizető kezesség az állami kezességgel biztosított kölcsön első folyósítási napjától, de leghamarabb 2013. július 1-jétől a felvett kölcsön és járulékai visszafizetéséig, illetve az állami kezesség beváltásáig, de legkésőbb 2018. július 1-jétől számított 180. napig áll fenn.
+
+[^2]: A 4. § (1) bekezdése a 122/2014. (IV. 8.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^3]: A 4. § (2) bekezdése a 122/2014. (IV. 8.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^4]: A 4. § (3) bekezdése a 122/2014. (IV. 8.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^5]: A 4. § (4) bekezdése a 122/2014. (IV. 8.) Korm. rendelet 2. §-ával megállapított szöveg.

@@ -1,6 +1,6 @@
 ## 16. § Ez a rendelet a Szerződés 87. és 88. cikkének a de minimis támogatásokra való alkalmazásáról szóló 2006. december 15-i 1998/2006/EK bizottsági rendelet (HL L 379, 2006.12. 28. 5. o.) hatálya alá tartozó támogatást tartalmaz.
 
-1. melléklet a 232/2013. (VI. 30.) Korm. rendelethez
+1. melléklet a 232/2013. (VI. 30.) Korm. rendelethez[^22]
 
 Igénylőlap az állami kezesség beváltásához
 
@@ -66,7 +66,7 @@ IV. Mellékletek
 
 8. A 4. § (1) bekezdésében meghatározott feltételeket igazoló okiratok, dokumentumok másolata, amelyek az alábbiak:
 
-a) a kis- és középvállalkozás hitelkérelemhez benyújtott nemleges együttes adóigazolása
+a) a kis- és középvállalkozás hitelkérelemhez benyújtott nemleges együttes adóigazolása vagy a köztartozásmentes adózói adatbázisban való szereplést igazoló (az adóhatóság honlapjáról nyomtatott) dokumentum
 
 b) a kis- és középvállalkozás nevére kiállított, az általa üzemeltetett gépjárműre vonatkozó közúti árutovábbítási engedély vagy közúti áruszállítási igazolvány
 
@@ -77,3 +77,5 @@ P. H.
 ................................................
 
 igénylő
+
+[^22]: Az 1. melléklet a 122/2014. (IV. 8.) Korm. rendelet 9. §-a szerint módosított szöveg.
