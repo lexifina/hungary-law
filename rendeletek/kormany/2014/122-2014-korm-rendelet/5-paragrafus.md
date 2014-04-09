@@ -1,0 +1,3 @@
+## 4. § A Rendelet 6. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) A díj megfizetése a KAVOSZ VF közreműködésével történik. A kis- és középvállalkozás legkésőbb a hitelszerződés megkötésekor, illetve a 4. § (1) bekezdés c) pontja szerinti módosításakor egy összegben fizeti meg az adott évre vonatkozó kezességvállalási díjat a KAVOSZ VF részére, amelyet a KAVOSZ VF legkésőbb a hitelszerződés megkötését vagy módosítását követő hónap 5. napjáig befizet a kincstárnál vezetett 10032000-01034004 számú „Kincstár Különleges bevételek” számlára. A tárgyhónapban megkötött vagy módosított hitelszerződések készfizető kezességvállalási díjai összevontan kerülnek átutalásra.”
