@@ -1,0 +1,5 @@
+7. § (1) A támogatás feltétele a támogatási szerződés szerinti cél tartós üzemeltetésnek a támogatási szerződés hatálybalépésétől számított minimum 5 évig történő fenntartása, illetve a 2 millió forintot meghaladó, fenntartásra, felújításra, új eszköz beszerzéssel összefüggő támogatásból fenntartott, felújított vagy beszerzett új eszköznek a támogatás folyósításától számított 5 évig történő el nem idegenítése.
+
+(2) Tartós üzemeltetésnek minősül, ha az átkelés az időszakos leállásoktól – a karbantartási munka idejétől, a közlekedés biztonságát veszélyeztető időjárási körülményektől, valamint a téli időszaktól – eltekintve rendeltetésének megfelelően, napi rendszerességgel biztosított.
+
+(3) Nem minősül a támogatás jogosulatlan igénybevételének, ha a települési önkormányzat egy működő átkelés tartós üzemeltetését adott helyen megszünteti és az átkelés tartós üzemeltetését egy másik, közlekedéspolitikailag indokolt, a települési önkormányzat közigazgatási területéhez tartozó helyen folytatólagosan biztosítja.
