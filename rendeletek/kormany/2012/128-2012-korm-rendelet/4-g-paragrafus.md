@@ -1,1 +1,1 @@
-## 4/F. § A pályázat eredményéről a pályázót – a Program Bírálati Bizottság 4/E. § (3) bekezdése szerinti döntését követő 5 munkanapon belül – a pályázatkezelő postai úton, a hivatalos iratok kézbesítésére vonatkozó általános szabályok szerint értesíti.
+## kézbesítettnek kell tekinteni.

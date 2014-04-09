@@ -1,5 +1,5 @@
-## V. Fejezet[^46]
+## V. Fejezet[^47]
 
 ## ZÁRÓ RENDELKEZÉSEK
 
-[^46]: Az eredeti 8. alcím megjelölését V. Fejezetre változtatta, és címének szövegét megállapított a 431/2012. (XII. 29.) Korm. rendelet 6. §-a.
+[^47]: Az eredeti 8. alcím megjelölését V. Fejezetre változtatta, és címének szövegét megállapított a 431/2012. (XII. 29.) Korm. rendelet 6. §-a.
