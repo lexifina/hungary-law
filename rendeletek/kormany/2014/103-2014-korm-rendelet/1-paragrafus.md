@@ -6,7 +6,7 @@ a) a különleges jogrend időszakának védelmi felkészítéséért felelős v
 
 b) a védelmi feladatok ellátására külön jogszabályban kijelölt postai szolgáltatók (a továbbiakban: kijelölt postai szolgáltatók) postai szolgáltatási tevékenységére
 
-## terjed ki.
+terjed ki.
 
 (2) E rendelet alkalmazásában
 
