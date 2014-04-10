@@ -1,7 +1,3 @@
-1. melléklet a 122/2014. (IV. 8.) Korm. rendelethez
+1. melléklet a 122/2014. (IV. 8.) Korm. rendelethez[^4]
 
-A Rendelet 1. melléklet IV. Mellékletek pont 8. alpont a) pontja helyébe a következő rendelkezés lép:
-
-[A 4. § (1) bekezdésében meghatározott feltételeket igazoló okiratok, dokumentumok másolata, amelyek az alábbiak:]
-
-„a) a kis- és középvállalkozás hitelkérelemhez benyújtott nemleges együttes adóigazolása vagy a köztartozásmentes adózói adatbázisban való szereplést igazoló (az adóhatóság honlapjáról nyomtatott) dokumentum”
+[^4]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
