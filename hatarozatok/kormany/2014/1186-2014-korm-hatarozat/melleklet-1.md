@@ -1,4 +1,4 @@
-## 1. megállapítja a Környezet és Energia Operatív Program 2011–2013. évekre szóló akciótervének 1. prioritását az 1. melléklet szerint, az 1. prioritáson szükséges többletkötelezettség-vállalás jóváhagyásával,
+## 1.[^1]
 
 ## 2. jóváhagyja a 2. melléklet szerint
 
@@ -24,8 +24,10 @@
 
 ## Határidő: azonnal
 
-## 6.[^1]
+## 6.[^2]
 
-1. melléklet az 1186/2014. (III. 28.) Korm. határozathoz
+1. melléklet az 1186/2014. (III. 28.) Korm. határozathoz[^3]
 
-[^1]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pontot az 1234/2014. (IV. 10.) Korm. határozat 4. pontja visszavonta.
+[^2]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1. mellékletet az 1234/2014. (IV. 10.) Korm. határozat 4. pontja visszavonta.
