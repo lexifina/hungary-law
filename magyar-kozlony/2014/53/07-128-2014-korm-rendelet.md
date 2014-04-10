@@ -1,0 +1,179 @@
+# A Kormány 128/2014. (IV. 10.) Korm. rendelete
+
+Magyar Közlöny 2014. évi 53. szám, 2014. április 10. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/3120977ec6d52b798ed8f26e55a4d55f55d34414/dokumentumok/1e55d66a084d1177fafa5502221324de4cd1e2e0/letoltes)
+
+---
+
+A Kormány 128/2014. (IV. 10.) Korm. rendelete
+a határon túli költségvetési támogatások sajátos szabályaival összefüggő egyes kormányrendeletek
+módosításáról
+A Kormány a Bethlen Gábor Alapról szóló 2010. évi CLXXXII. törvény 18. § (1) bekezdés a) pontjában,
+a 4. § tekintetében a Bethlen Gábor Alapról szóló 2010. évi CLXXXII. törvény 18. § (1) bekezdés a) pontjában és a szomszédos
+államokban élő magyarokról szóló 2001. évi LXII. törvény 28. § (1) bekezdés e) pontjában,
+az 5. § tekintetében a Bethlen Gábor Alapról szóló 2010. évi CLXXXII. törvény 18. § (1) bekezdés d) pontjában,
+a 2. alcím tekintetében az államháztartásról szóló 2011. évi CXCV. törvény 109. § (1) bekezdés 31. pontjában
+kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket
+rendeli el:
+1. A Bethlen Gábor Alapról szóló 2010. évi CLXXXII. törvény végrehajtásáról szóló 367/2010. (XII. 30.)
+Korm. rendelet módosítása
+1. §
+A Bethlen Gábor Alapról szóló 2010. évi CLXXXII. törvény végrehajtásáról szóló 367/2010. (XII. 30.) Korm. rendelet
+(a továbbiakban: BGA Vhr.) 11. §-a helyébe a következő rendelkezés lép:
+„11. § (1) Az Alapból a Bethlen Gábor Alapról szóló 2010. évi CLXXXII. törvény (a továbbiakban: Bgatv.) 1. §
+(2) bekezdése szerinti kedvezményezettnek a Bgatv. 3. §-a szerinti célra pályázat vagy kérelem alapján vissza nem
+térítendő vagy részben vagy egészben visszafizetési kötelezettséggel nyújtott költségvetési támogatás biztosítható.
+(2) A részben vagy egészben visszafizetési kötelezettséggel nyújtott támogatást az Alap fizetési számlájára kell
+kamatmentesen visszafizetni.”
+2. §
+A BGA Vhr. 23. § (2) bekezdés b) pontja helyébe a következő rendelkezés lép:
+(A támogatások folyósítása)
+„b) a finanszírozásba bevont pénzügyi intézmény vagy egyéb szervezet útján,”
+(történhet.)
+3. §
+A BGA Vhr. 25. §-a helyébe a következő rendelkezés lép:
+„25. § A kedvezményezett a támogatásra vonatkozó dokumentumait 5 évig köteles nyilvántartani és megőrizni,
+és azokat jogszabályban meghatározott, ellenőrzési jogosultsággal rendelkező szervezetek, illetve megbízottaik
+részére rendelkezésre bocsátani.”
+4. §
+A BGA Vhr. a következő V/A. Fejezettel egészül ki:
+„V/A. FEJEZET
+EGYEDI DÖNTÉSSEL BIZTOSÍTOTT TÁMOGATÁSOK
+10/A. A Bgatv. alapján, nem pályázati úton biztosított támogatások szabályai
+„32/A. § (1) Az előirányzatokból nem pályázat útján nyújtott támogatásról – a 10/B. alcím szerinti támogatások
+kivételével – a Bizottság az Alapkezelő vezérigazgatójának a helyettes államtitkár által véleményezett javaslata
+alapján dönt.
+
+(2) Az Alapkezelő az (1) bekezdés szerinti döntés-előkészítése során meghívhatja véleményezésre az Alap
+támogatási céljai vonatkozásában feladat- és hatáskörrel rendelkező miniszter által vezetett minisztérium
+képviselőjét.
+(3) Az Alapkezelő intézkedik a támogatási döntés végrehajtásáról.
+(4) Az (1) bekezdés szerinti támogatások folyósítására a 23–25. §-t alkalmazni kell.
+10/B. A nem pályázati úton biztosított oktatás-nevelési támogatás és hallgatói támogatás szabályai
+32/B. § (1) Az Alap terhére a szomszédos államokban élő magyarokról szóló 2001. évi LXII. törvény 14. §-a szerinti
+oktatási támogatásként
+a) nevelési, oktatási, valamint tankönyv- és taneszköz támogatást (a továbbiakban együtt: oktatás-nevelési
+támogatás), és
+b) a felsőoktatásban tanulók részére hallgatói támogatást (a továbbiakban: hallgatói támogatás)
+kell nyújtani.
+(2) Oktatás-nevelési támogatás igénybevételére az Alapkezelő évente a honlapján felhívást tesz közzé.
+(3) Oktatás-nevelési támogatásra jogosult
+a) az az óvodáskorú gyermek, aki a felhívásban szereplő tanév kezdetétől az adott államban működő akkreditált
+óvodában magyar nyelvű nevelésben részesül,
+b) az az általános- és a tizennyolcadik életévét be nem töltött vagy a tizennyolcadik életévét a felhívásban szereplő
+tanév végéig betöltő középiskolai tanuló, aki
+ba) az adott államban működő akkreditált oktatási intézményben alap- vagy középfokú tanulmányait magyar
+nyelven folytatja, vagy – ha a lakóhelyén, napi bejárással elérhető távolságon belül nem működik magyar nyelvű
+oktatási intézmény vagy magyar nyelvű tagozat – fakultatív oktatásban vesz részt és
+bb) a régiós felhívásban meghatározottnál többet igazolatlanul nem hiányzott,
+c) az a középiskolai tanuló, aki a tanév megkezdéséig a felhívásban szereplő tizennyolcadik életévét betöltötte, de
+az adott állam közoktatási rendszerének tanulmányi időszakra vonatkozó rendelkezései szerint kötelező képzésben
+részesül, ha a régiós felhívásban meghatározottnál többet igazolatlanul nem hiányzott,
+d) az a sérült vagy halmozottan sérült magyar nemzetiségű kiskorú, aki nem akkreditált oktatási intézményben
+folytat magyar nyelvű tanulmányokat vagy egyéb magyar nyelvű nevelésben részesül és
+e) az a kiskorú, aki sajátos nevelési igényeinek megfelelő – részben vagy egészben magyar nyelvű – oktatásban
+vesz részt az adott államban működő akkreditált oktatási intézményben . ha a régiós felhívásban meghatározottnál
+többet igazolatlanul nem hiányzott,
+(4) Hallgatói támogatásra jogosult az a nappali tagozatos hallgató, aki tanulmányait az adott államban működő
+felsőoktatási intézményben, részben vagy egészben magyar nyelven folytatja.
+(5) Az oktatás-nevelési támogatás és a hallgatói támogatás egy főre jutó éves összegét évente a Bizottság állapítja
+meg.
+32/C. § Az oktatás-nevelési támogatással és a hallgatói támogatással kapcsolatos feladatok ellátására lebonyolító
+szerv is megbízható.
+32/D. § (1) A támogatási kérelmet a felhívásban megállapított határnapig kell benyújtani.
+(2) Az oktatási-nevelési támogatásról és a hallgatói támogatásról a Bizottság a lebonyolító szerv által elkészített
+és az Alapkezelő által felülvizsgált döntési lista elfogadásával dönt. A támogató az oktatási-nevelési támogatást
+támogatói okirattal biztosítja.
+(3) A támogatási döntést a lebonyolító szerv közli a támogatási kérelem benyújtójával. Az értesítésben közölni kell
+a támogatási döntést, a támogatott megnevezését, valamint a támogatás megnevezését, összegét és folyósítására
+vonatkozó tájékoztatást.
+(4) Az oktatás-nevelési támogatás és a hallgatói támogatás folyósítására – az adott állam sajátosságait figyelembe
+véve – a lebonyolító szerv vagy az e célból kötött megállapodás alapján magyarországi székhelyű, az adott államban
+fiókteleppel rendelkező pénzügyi intézmény közreműködésével kerül sor.”
+
+5. §
+A BGA Vhr. a következő V/B. Fejezettel egészül ki:
+„V/B. FEJEZET
+AZ ALAPPAL VALÓ GAZDÁLKODÁS
+10/C. Az Alap pénzügyi működése
+32/E. § Az elkülönített állami pénzalap kezelésével és finanszírozásával összefüggésben az Áht.-ban és az Ávr.-ben
+meghatározott feladatokat az ezen alcímben meghatározottak szerint az Alapkezelő látja el.
+32/F. § (1) Az Alap éves költségvetési javaslatát, kincstári költségvetését és elemi költségvetését az Alapkezelő készíti
+el.
+(2) Az Alap terhére vállalt kötelezettségekről az Alapkezelő naprakész nyilvántartást vezet. A nyilvántartásból
+a Bizottság döntéséhez és a Kollégium döntés-előkészítéséhez az Alapkezelő adatot szolgáltat.
+(3) Az Alap terhére – ha az nem haladja meg az Áht. 36. § (4) bekezdés a) pontja szerinti mértéket – legfeljebb
+a tárgyévben nyújtható támogatásra fordítható összeg tizenöt százalékáig vállalható éven túli kötelezettség
+a támogatást követő két évre. A tizenöt százalékos mértékbe be kell számítani az előző években történt évekre
+áthúzódó kötelezettségvállalások összegét.
+(4) Az Alap pénzforgalmának lebonyolítására a kincstárnál vezetett fizetési számla felett az Alapkezelő önállóan
+rendelkezik.
+(5) Az Alapkezelő – a nemzetpolitikáért felelős miniszter jóváhagyásával –
+a) az Alap eszközeinek és forrásainak alakulásáról negyedévente mérlegjelentést,
+b) negyedéves előirányzat-felhasználási tervet,
+c) az Alap felhasználásának éves költségvetési beszámolójára vonatkozó javaslatot és
+d) havi pénzforgalmi jelentést
+készít.
+(6) Az Alap működtetési kiadásainak forrását – az Alapnál jelentkező közvetlen bankköltség és árfolyamveszteségből
+származó kiadások forrásai kivételével – az Alapkezelő részére finanszírozási terv alapján át kell utalni.
+10/D. Az Alap felhasználásának szakmai értékelése
+32/G. § A Bizottság az Alapnak a személyi jövedelemadó meghatározott részének az adózó rendelkezése szerinti
+felhasználásáról szóló 1996. évi CXXVI. törvény 4/A. § (1) bekezdés b) pontja szerinti bevétele felhasználásáról
+az Országgyűlés feladatkörrel rendelkező bizottságát évente tájékoztatja.”
+6. §
+A BGA Vhr.
+a) 13. §-ában az„E pont”szövegrész helyébe az„Ezen alcím”szöveg,
+b) 18. § (1) bekezdésében a„felhívás”szövegrész helyébe a„kiírás”szöveg,
+c) 19. § (3) bekezdésében a„felhívásokat”szövegrész helyébe a„kiírásokat”szöveg
+lép.
+7. §
+Hatályát veszti a BGA Vhr. 12. § (1) bekezdés c)–d) pontja, 19. § (4) bekezdése, 5., 7. 9., 10. és 11. alcíme, 34. §
+(2) bekezdése és 38–40. §-a.
+2. A határon túli költségvetési támogatások sajátos szabályairól szóló 98/2012. (V. 15.) Korm. rendelet
+módosítása
+8. §
+A határon túli költségvetési támogatások sajátos szabályairól szóló 98/2012. (V. 15.) Korm. rendelet (a továbbiakban:
+Hkr.) 2. § (4) bekezdése helyébe a következő rendelkezés lép:
+„(4) Ha a támogató a határon túli költségvetési támogatást jogszabály alapján támogatói okirattal biztosítja,
+támogatói okiratnak minősül a döntési lista, ha abból a támogatás kedvezményezettje, a támogatás mértéke
+és a támogatásra vonatkozó egyoldalú akaratelhatározás kitűnik. A támogató által jóváhagyott döntési lista
+kötelezettségvállalásnak minősül.”
+9. § (1) A Hkr. 3. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) Az előirányzat terhére a támogató annak céljával összhangban vállalhat kötelezettséget.”
+
+(2) A Hkr. 3. §-a a következő (1a)–(1d) bekezdéssel egészül ki:
+„(1a) A határon túli költségvetési támogatásra az Ávr. VI. fejezetéből a 66. § (1) bekezdését, (2) bekezdés
+a)–f) pontját, l), m), o), q) és s) pontját, (4) bekezdését, 67. § (1) bekezdés a) és c)–i) pontját – természetes személy
+esetén a), c), d) és i) pontját – és (1a)–(3) bekezdését, 68–74. §-át, – az (1b) bekezdésben meghatározott kivétellel –
+75. §-át, 76. §-át, 78. § (1), (2) és (7) bekezdését, 82–84. §-át, 85–88/A. §-át, 89. §-át kell alkalmazni.
+(1b) A támogató az Áht. 50. § (5) bekezdése szerinti biztosíték kikötésétől a határon túli költségvetési támogatás
+esetén eltekinthet.
+(1c) A határon túli költségvetési támogatásra vonatkozó beszámoló tartalmát az Ávr. 80. §-ától eltérően
+jogszabályban vagy a támogatási szerződésben kell meghatározni.
+(1d) A Bethlen Gábor Alap terhére nyújtott költségvetési támogatásokkal kapcsolatos feladatokat az Áht.
+49. §-a szerinti lebonyolító szerv a Bethlen Gábor Alap kezelő szervével kötött megállapodás alapján látja el.
+A megállapodásban rögzíteni kell az Ávr. 75. § (1) bekezdésében meghatározott szabályokat. A lebonyolító szerv
+további lebonyolító szervet nem bízhat meg. A lebonyolítási számlára és a lebonyolítás céljából rendelkezésre
+bocsátott összegre az Ávr. 75. § (3)–(6) bekezdését akkor kell alkalmazni, ha a lebonyolító szerv nem határon túli
+szervezet. Ha a lebonyolító szerv határon túli szervezet, a lebonyolítás céljára rendelkezésre bocsátott összeget
+a lebonyolító szerv fizetési számlájára kell átutalni, a lebonyolítás céljából rendelkezésre bocsátott összeg
+felhasználására, elszámolására és visszafizetésére pedig az Ávr. 75. § (3) és (6) bekezdését kell alkalmazni azzal, hogy
+lebonyolítási számla alatt a lebonyolító szervnek azt a fizetési számláját kell érteni, amire a lebonyolítás céljából
+rendelkezésre bocsátott összeg átutalásra került.”
+10. §
+A Hkr. 3. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) A határon túli költségvetési támogatások esetében a támogatónak nem kell az Ávr. 65/A. § (1) bekezdése és
+a 71. § (3) bekezdése szerinti pályázati kiírást, támogatási döntést a kincstár által működtetett monitoring rendszer
+részére bejelenteni.”
+11. §
+A Hkr. 1. § (1) bekezdésében a „meghatározott, a határon túli magyarok támogatására szolgáló fejezeti kezelésű
+előirányzatok, célelőirányzatok és elkülönített állami pénzalapok (a továbbiakban együtt: előirányzat) terhére
+nyújtott támogatásokra” szövegrész helyébe a „meghatározott központi kezelésű előirányzat, fejezeti kezelésű
+előirányzat vagy elkülönített állami pénzalap (a továbbiakban együtt: előirányzat) terhére a határon túli magyarság
+támogatásához kapcsolódóan biztosított költségvetési támogatásokra”szöveg lép.
+12. § (1) Hatályát veszti a Hkr. 2. § (1) bekezdés b) pontjában az„és jogi személyiség nélküli szervezet”szövegrész.
+(2) Hatályát veszti a Hkr. 3. § (4) bekezdése.
+3. Záró rendelkezések
+13. §
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
