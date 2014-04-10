@@ -1,3 +1,3 @@
-## 5. § Az előadó-művészeti szervezeteknek nyújtott támogatások pénzügyi és beszámolási szabályairól szóló 34/2013. (V. 14.) EMMI rendelet (a továbbiakban: R2.) 1. § (2) bekezdése helyébe a következő rendelkezés lép:
+## 5. §[^2]
 
-## „(2) Az előadó-művészeti tevékenységhez kapott, a társasági adóról és az osztalékadóról szóló törvény szerinti társaságiadó-kedvezmény igénybevételére jogosító támogatásban, valamint az ahhoz kapcsolódóan megfizetett kiegészítő támogatásban (a továbbiakban: Tao. támogatás) részesülő előadó-művészeti szervezet a Tao. támogatás rendeltetésszerű felhasználásáról a 3. melléklet szerinti beszámoló alapján számol el a kijelölt szervnek. Amennyiben a Támogatott támogatásban és Tao. támogatásban is részesült, a beszámolót a Fenntartó nyújtja be.”
+[^2]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
