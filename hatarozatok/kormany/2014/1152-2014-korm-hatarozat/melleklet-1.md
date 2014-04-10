@@ -32,29 +32,7 @@
 
 ## Határidő: 2014. március 31.
 
-## 3. felhívja a nemzeti fejlesztési minisztert, hogy gondoskodjon
-
-## a) az ESZA Társadalmi Szolgáltató Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: ESZA NKft.) Közép-magyarországi Operatív Program (a továbbiakban: KMOP) végrehajtásával összefüggő közreműködő szervezeti feladatainak a Pro Regio Közép-Magyarországi Regionális Fejlesztési és Szolgáltató Nonprofit Közhasznú Korlátolt Felelősségű Társaság (a továbbiakban: Pro Regio NKft.) részére történő átadásáról és ezzel összefüggésben
-
-## aa) a KMOP végrehajtásában közreműködő, az ESZA NKft. alkalmazásában álló munkavállalók munkáltató személyében bekövetkező változással a Pro Regio NKft. személyi állományába 2014. április 10-ig történő átadás-átvétele előkészítéséről,
-
-## ab) az ESZA NKft. tulajdonát képező, a KMOP végrehajtásával kapcsolatos feladatok ellátásához használt dolgok tulajdonjogának a Pro Regio NKft.-re történő átruházásáról,
-
-## ac) az ESZA NKft.-t a KMOP végrehajtásával összefüggésben megillető jogoknak és terhelő kötelezettségeknek a Pro Regio NKft.-re történő átruházásáról, illetve a Pro Regio NKft. általi átvállalásáról,
-
-## b) a MAG – Magyar Gazdaságfejlesztési Központ Zrt. (a továbbiakban: MAG Zrt.) regionális operatív programok végrehajtásával összefüggő közreműködő szervezeti feladatainak – a regionális operatív programok végrehajtásával összefüggő, a Kormány regionális operatív programok irányító hatósági feladatainak ellátására kijelölt tagja feladatkörébe kerülő koordinációs feladatok kivételével – az érintett operatív program más prioritása vagy intézkedése végrehajtásában egyébként közreműködő regionális fejlesztési ügynökségek, a KMOP esetében a Pro Regio NKft. részére történő átadásáról és ezzel összefüggésben
-
-## ba) a regionális operatív programok végrehajtásában közreműködő, a MAG Zrt. alkalmazásában álló munkavállalók munkáltató személyében bekövetkező változással a regionális fejlesztési ügynökségek, a KMOP esetében a Pro Regio NKft. személyi állományába 2014. április 10-ig történő átadás-átvétele előkészítéséről,
-
-## bb) a MAG Zrt. tulajdonát képező, a regionális operatív programok végrehajtásával kapcsolatos feladatok ellátásához használt dolgok tulajdonjogának a regionális fejlesztési ügynökségekre, a Közép-magyarországi Operatív Program esetében a Pro Regio NKft.-re történő átruházásról,
-
-## bc) a MAG Zrt.-t a regionális operatív programok végrehajtásával összefüggésben megillető jogoknak és terhelő kötelezettségeknek a regionális fejlesztési ügynökségekre, a KMOP esetében a Pro Regio NKft.-re történő átruházásról, illetve a regionális fejlesztési ügynökségek, a KMOP esetében a Pro Regio NKft. általi átvállalásáról,
-
-## c) a MAG Zrt. által a VÁTI Magyar Regionális Fejlesztési és Urbanisztikai Nonprofit Kft. felett gyakorolt tulajdonosi jogok és kötelezettségek összessége tekintetében a nemzetgazdasági miniszter tulajdonosi joggyakorlóként történő kijelöléséről,
-
-## Felelős: nemzeti fejlesztési miniszter
-
-## Határidő: 2014. március 25.
+## 3.[^2]
 
 ## 4. felhívja a nemzeti fejlesztési minisztert, hogy
 
@@ -72,7 +50,7 @@
 
 ## Határidő: 2014. március 31.
 
-## 5.[^1]
+## 5.[^3]
 
 1. melléklet az 1152/2014. (III. 20.) Korm. határozathoz
 
@@ -142,4 +120,5 @@
 
 | 24 | Társadalmi Infrastruktúra Operatív Program | ESZA Társadalmi Szolgáltató Nonprofit Kft. | emberi erőforrások minisztere |
 
-[^1]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pontot az 1225/2014. (IV. 10.) Korm. határozat 5. pontja visszavonta.
+[^3]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
