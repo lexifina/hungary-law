@@ -30,10 +30,12 @@ Határidő: azonnal
 
 a) a 2. pont a) és b) alpontban meghatározott költségvetési forrás Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény (a továbbiakban: Kvtv.) 1. mellékletének XIX. Uniós fejlesztések fejezet 2. cím 7. alcím 11. jogcímcsoport-számú „Budapest 4-es metróvonal építésének támogatása” előirányzatról történő folyósításával azzal, hogy a hazai költségvetési forrás folyósításának feltétele a szerződésmódosítások alapján fizetendő összeg Budapest Főváros Önkormányzatát illető önrészének biztosítása, valamint
 
-b) azzal, hogy az 1. pont c) alpontban meghatározott szerződésmódosítás elszámolható költsége a Kvtv. 1. mellékletének XIX. Uniós fejlesztések fejezet 2. cím 4. alcím 2. jogcímcsoport-számú „Közlekedés Operatív Program” előirányzatát terhelje.
+b)[^2]
 
 Felelős: Miniszterelnökséget vezető államtitkár
 
 Határidő: az a) alpont tekintetében: 2013. szeptember 30.
 
 a b) alpont tekintetében: azonnal
+
+[^2]: A 3. pont b) alpontját az 1231/2014. (IV. 10.) Korm. határozat 2. pontja visszavonta.

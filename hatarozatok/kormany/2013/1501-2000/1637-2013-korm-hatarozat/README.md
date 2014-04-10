@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-1637-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2013-09-10 | 2013-1637-30-22.1 | 1637/2013. (IX. 10.) Korm. határozat |
+| 2014-04-10 | 2013-1637-30-22.2 | 1171/2023. (IV. 28.) Korm. határozat |
