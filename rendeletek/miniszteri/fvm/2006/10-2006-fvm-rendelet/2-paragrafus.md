@@ -22,8 +22,8 @@ i) a borvidékek sajátosságainak megőrzése mellett a borrégió egységes ar
 
 j) a borrégió borvizsgáló bizottságának létrehozása;
 
-k)[^1] kapcsolat tartása a borrégió területén lévő megyei önkormányzatokkal, a megyei kormányhivatal földművelésügyi igazgatóságával, a Mezőgazdasági és Vidékfejlesztési Hivatal kirendeltségeivel, a jövedéki ügyekben eljáró hatósággal;
+k)[^2] kapcsolat tartása a borrégió területén lévő megyei önkormányzatokkal, a megyei kormányhivatal földművelésügyi igazgatóságával, a Mezőgazdasági és Vidékfejlesztési Hivatal kirendeltségeivel, a jövedéki ügyekben eljáró hatósággal;
 
 l) a Bács-Kiskun megyével kialakított együttműködés keretében a Duna Borrégió képviselete az Európai Bortermelő Régiók Gyűlésében.
 
-[^1]: A 2. § k) pontja a 70/2013. (VII. 31.) VM rendelet 51. §-a szerint módosított szöveg.
+[^2]: A 2. § k) pontja a 70/2013. (VII. 31.) VM rendelet 51. §-a szerint módosított szöveg.
