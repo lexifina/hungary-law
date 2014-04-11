@@ -20,6 +20,6 @@ g) a belföldi piacokon, az Európai Unió belső piacán, valamint harmadik ors
 
 h) a borvidékek sajátosságainak megőrzése mellett a borrégió egységes arculatának megteremtése;
 
-i)[^1] kapcsolat tartása a borrégió területén lévő megyei önkormányzatokkal, a megyei kormányhivatal földművelésügyi igazgatóságával, a Mezőgazdasági és Vidékfejlesztési Hivatal kirendeltségeivel, valamint a jövedéki ügyekben eljáró hatósággal.
+i)[^2] kapcsolat tartása a borrégió területén lévő megyei önkormányzatokkal, a megyei kormányhivatal földművelésügyi igazgatóságával, a Mezőgazdasági és Vidékfejlesztési Hivatal kirendeltségeivel, valamint a jövedéki ügyekben eljáró hatósággal.
 
-[^1]: A 2. § i) pontja a 70/2013. (VII. 31.) VM rendelet 56. §-a szerint módosított szöveg.
+[^2]: A 2. § i) pontja a 70/2013. (VII. 31.) VM rendelet 56. §-a szerint módosított szöveg.
