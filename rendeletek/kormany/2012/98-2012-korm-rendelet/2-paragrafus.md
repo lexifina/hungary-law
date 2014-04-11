@@ -2,7 +2,7 @@
 
 a) határon túli természetes személy, jogi személy és jogi személyiség nélküli szervezet, valamint
 
-b) – ha a létesítő okiratában megjelölt hatóköre, illetve cél szerinti tevékenysége részben vagy egészben a határon túli magyarok szellemi, kulturális, illetve anyagi támogatására irányul – Magyarországon székhellyel vagy telephellyel rendelkező jogi személy és jogi személyiség nélküli szervezet
+b)[^2] – ha a létesítő okiratában megjelölt hatóköre, illetve cél szerinti tevékenysége részben vagy egészben a határon túli magyarok szellemi, kulturális, illetve anyagi támogatására irányul – Magyarországon székhellyel vagy telephellyel rendelkező jogi személy
 
 ## [az a) és b) pont a továbbiakban együtt: kedvezményezett] részére nyújtható.
 
@@ -10,4 +10,7 @@ b) – ha a létesítő okiratában megjelölt hatóköre, illetve cél szerinti
 
 (3) A kedvezményezett érdekkörében felmerülő elháríthatatlan külső ok esetén a határon túli költségvetési támogatás a támogató döntése alapján azonnali humanitárius segítségnyújtásra is felhasználható.
 
-(4) A támogató a határon túli költségvetési támogatást a kedvezményezettel kötött támogatási szerződéssel biztosítja.
+(4)[^3] Ha a támogató a határon túli költségvetési támogatást jogszabály alapján támogatói okirattal biztosítja, támogatói okiratnak minősül a döntési lista, ha abból a támogatás kedvezményezettje, a támogatás mértéke és a támogatásra vonatkozó egyoldalú akaratelhatározás kitűnik. A támogató által jóváhagyott döntési lista kötelezettségvállalásnak minősül.
+
+[^2]: A 2. § (1) bekezdés b) pontja a 128/2014. (IV. 10.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
+[^3]: A 2. § (4) bekezdése a 128/2014. (IV. 10.) Korm. rendelet 8. §-ával megállapított szöveg.
