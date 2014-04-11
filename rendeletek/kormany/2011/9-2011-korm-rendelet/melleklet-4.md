@@ -36,7 +36,7 @@
 
 | P. H. P. H. ......................................... ......................................... |
 
-| Közlekedésfejlesztési Koordinációs részéről: |  | a fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala részéről |  |
+| Közlekedésfejlesztési Koordinációs Központ részéről: |  | a fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala részéről |  |
 
 | Beosztás: |  | Beosztás: |  |
 
@@ -134,4 +134,6 @@
 
 | E-mail: |  |
 
-4. melléklet a 9/2011. (II. 15.) Korm. rendelethez
+4. melléklet a 9/2011. (II. 15.) Korm. rendelethez[^117]
+
+[^117]: A 4. melléklet a 129/2014. (IV. 10.) Korm. rendelet 12. § 29. pontja szerint módosított szöveg.

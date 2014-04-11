@@ -8,9 +8,9 @@
 
 | 1.b. | Pince-, partfalomlás, földcsuszamlás esetében (Ft) |  |
 
-| 1.c. | Oktatási, kulturális, szociális és egészségügyi intézmények épülete esetében (Ft) |  |
+| 1.c. | Oktatási, kulturális, szociális és egészségügyi feladatot szolgáló épületek esetében (Ft) |  |
 
-| 1.d. | Igazgatási, valamint egyéb kötelező feladatok ellátását szolgáló intézmények épülete esetében (Ft) |  |
+| 1.d. | Igazgatási, valamint egyéb kötelező feladatot szolgáló épületek esetében (Ft) |  |
 
 | 1.e. | Ár- és belvízvédelmi vízilétesítmények, közmű és műtárgyai esetében (Ft) |  |
 
@@ -22,9 +22,9 @@
 
 | 2.b. | Pince-, partfalomlás, földcsuszamlás esetében (%) |  |
 
-| 2.c. | Oktatási, kulturális, szociális és egészségügyi intézmények épülete esetében (%) |  |
+| 2.c. | Oktatási, kulturális, szociális és egészségügyi feladatot szolgáló épületek esetében (%) |  |
 
-| 2.d. | Igazgatási, valamint egyéb kötelező feladatok ellátását szolgáló intézmények épülete esetében (%) |  |
+| 2.d. | Igazgatási, valamint egyéb kötelező feladatot szolgáló épületek esetében (%) |  |
 
 | 2.e. | Ár- és belvízvédelmi vízilétesítmények, közmű és műtárgyai esetében (%) |  |
 
@@ -58,6 +58,6 @@
 
 |  |  | 7. | Utalást követően a helyreállítási költségekhez kapcsolódó – le nem hívott – vis maior támogatás összege (5.–6.) |  |
 
-8. melléklet a 9/2011. (II. 15.) Korm. rendelethez[^95]
+8. melléklet a 9/2011. (II. 15.) Korm. rendelethez[^121]
 
-[^95]: A 8. melléklet a 92/2013. (III. 28.) Korm. rendelet 9. § (6) bekezdésével megállapított szöveg.
+[^121]: A 8. melléklet a 129/2014. (IV. 10.) Korm. rendelet 10. § a) pontjával megállapított szöveg.

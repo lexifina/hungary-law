@@ -4,7 +4,7 @@
 
 | Az ellenőrzés tárgya: |  |
 
-| A vis maior bejelentésben, az előzetes helyszíni vizsgálat jegyzőkönyvében, a vis maior kérelemben szereplő utak, hidak, kompok megjelölése (lehetőség szerint hrsz. feltüntetésével) | Szakmai vélemény az érintett utak, hidak, kompok vis maior eseményt követő helyreállítási munka igényéről, illetve annak mértékével kapcsolatban |
+| A vis maior bejelentésben, az előzetes helyszíni vizsgálat jegyzőkönyvében, a pályázatban szereplő utak, hidak, kompok megjelölése (lehetőség szerint hrsz. feltüntetésével) | Szakmai vélemény az érintett utak, hidak, kompok vis maior eseményt követő helyreállítási munka igényéről, illetve annak mértékével kapcsolatban |
 
 | 1. |  |
 
@@ -28,7 +28,7 @@
 
 | E-mail: |  |
 
-5. melléklet a 9/2011. (II. 15.) Korm. rendelethez[^93]
+5. melléklet a 9/2011. (II. 15.) Korm. rendelethez[^118]
 
 Igénylésazonosító:
 
@@ -56,7 +56,7 @@ Vis maior pályázati adatlap
 
 | 3.c. | E-mail |  |
 
-| 4. | Kérelemhez kapcsolódó adatok: |  |
+| 4. | Káreseményhez kapcsolódó adatok: |  |
 
 | 4.a. | Káresemény időpontja: |  |
 
@@ -94,7 +94,7 @@ A táblázatban maximum 10 sor vehető fel. Azonos vis maior eseményekhez kapcs
 
 | 6. | Káresemény bejelentésének időpontja: |  |
 
-| 7. | A 3. § (6) bek. szerinti előzetes helyszíni vizsgálat időpontja: |  |
+| 7. | A 3. § (6) bekezdése szerinti előzetes helyszíni vizsgálat időpontja: |  |
 
 | 8. | A helyreállítás megkezdésének időpontja: |  |
 
@@ -110,7 +110,7 @@ A táblázatban maximum 10 sor vehető fel. Azonos vis maior eseményekhez kapcs
 
 | 13. | Az 5. pontban bemutatott költségek részletezése, költségelőirányzata: |  |
 
-| 13.a. | Tárgyi eszközökben keletkezett kár helyreállítása: |  |
+| 13.a. | Helyreállítási költség: |  |
 
 | 13.b. | Védekezési költség: |  |
 
@@ -146,11 +146,11 @@ A táblázatban maximum 10 sor vehető fel. Azonos vis maior eseményekhez kapcs
 
 | 19. | Vis maior támogatás igénylésének jogcímei |  |
 
-| 20. | Az 5. § (2) bek. a) pontjának megfelel (igen/nem) |  |
+| 20. | Az 5. § (2) bekezdése a) pontjának megfelel (igen/nem) |  |
 
 | 21. |  |  |
 
-| 22. | Az 5. § (2) bek. c) pontjának megfelel (igen/nem) |  |
+| 22. | Az 5. § (2) bekezdése c) pontjának megfelel (igen/nem) |  |
 
 | 23. | Az önkormányzat adósságrendezési eljárás alatt áll (igen/nem) |  |
 
@@ -164,9 +164,9 @@ A táblázatban maximum 10 sor vehető fel. Azonos vis maior eseményekhez kapcs
 
 | 28. | Igényelt támogatás pince- vagy partfalomlás, földcsuszamlás esetén: |  |
 
-| 29. | Igényelt támogatás oktatási, kulturális, szociális és egészségügyi intézmények épület károsodása esetén: |  |
+| 29. | Igényelt támogatás oktatási, kulturális, szociális és egészségügyi feladatot szolgáló épületek károsodása esetén: |  |
 
-| 30. | Igényelt támogatás igazgatási, valamint egyéb kötelező feladatok ellátását szolgáló intézmények épület károsodása esetén: |  |
+| 30. | Igényelt támogatás igazgatási, valamint egyéb kötelező feladatok ellátását szolgáló feladatot szolgáló épületek károsodása esetén: |  |
 
 | 31. | Igényelt támogatás ár- és belvízvédelmi vízilétesítmények, közmű- és műtárgyai károsodása esetén: |  |
 
@@ -184,4 +184,4 @@ P. H.
 
 | polgármester/elnök | jegyző |
 
-[^93]: Az 5. melléklet a 92/2013. (III. 28.) Korm. rendelet 9. § (4) bekezdésével megállapított szöveg.
+[^118]: Az 5. melléklet a 92/2013. (III. 28.) Korm. rendelet 9. § (4) bekezdésével megállapított, a 129/2014. (IV. 10.) Korm. rendelet 12. § 30. pontja szerint módosított szöveg.

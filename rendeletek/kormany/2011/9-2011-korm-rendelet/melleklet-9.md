@@ -1,6 +1,6 @@
 ## Igénylésazonosító:
 
-## Adatlap a vis maior támogatás elszámolásához
+## A) Adatlap a vis maior támogatásra vonatkozó beszámolóhoz
 
 | 1. | Támogatott Önkormányzat |  |
 
@@ -26,9 +26,9 @@
 
 | 9.c. | Pince-, partfalomlás, földcsuszamlás esetében |  |
 
-| 9.d. | Oktatási, kulturális, szociális és egészségügyi intézmények épülete esetében |  |
+| 9.d. | Oktatási, kulturális, szociális és egészségügyi feladatot szolgáló épületek esetében |  |
 
-| 9.e. | Igazgatási, valamint egyéb kötelező feladatok ellátását szolgáló intézmények épülete esetében |  |
+| 9.e. | Igazgatási, valamint egyéb kötelező feladatot szolgáló épületek esetében |  |
 
 | 9.f. | Ár- és belvízvédelmi vízilétesítmények, közmű és műtárgyai esetében |  |
 
@@ -40,9 +40,9 @@
 
 | 10.c. | Pince-, partfalomlás, földcsuszamlás esetében |  |
 
-| 10.d. | Oktatási, kulturális, szociális és egészségügyi intézmények épülete esetében |  |
+| 10.d. | Oktatási, kulturális, szociális és egészségügyi feladatot szolgáló épületek esetében |  |
 
-| 10.e. | Igazgatási, valamint egyéb kötelező feladatok ellátását szolgáló intézmények épülete esetében |  |
+| 10.e. | Igazgatási, valamint egyéb kötelező feladatot szolgáló épületek esetében |  |
 
 | 10.f. | Ár- és belvízvédelmi vízilétesítmények, közmű és műtárgyai esetében |  |
 
@@ -54,9 +54,9 @@
 
 | 11.c. | Pince-, partfalomlás, földcsuszamlás esetében |  |
 
-| 11.d. | Oktatási, kulturális, szociális és egészségügyi intézmények épülete esetében |  |
+| 11.d. | Oktatási, kulturális, szociális és egészségügyi feladatot szolgáló épületek esetében |  |
 
-| 11.e. | Igazgatási, valamint egyéb kötelező feladatok ellátását szolgáló intézmények épülete esetében |  |
+| 11.e. | Igazgatási, valamint egyéb kötelező feladatot szolgáló épületek esetében |  |
 
 | 11.f. | Ár- és belvízvédelmi vízilétesítmények, közmű és műtárgyai esetében |  |
 
@@ -68,9 +68,9 @@
 
 | 12.c. | Pince-, partfalomlás, földcsuszamlás esetében |  |
 
-| 12.d. | Oktatási, kulturális, szociális és egészségügyi intézmények épülete esetében |  |
+| 12.d. | Oktatási, kulturális, szociális és egészségügyi feladatot szolgáló épületek esetében |  |
 
-| 12.e. | Igazgatási, valamint egyéb kötelező feladatok ellátását szolgáló intézmények épülete esetében |  |
+| 12.e. | Igazgatási, valamint egyéb kötelező feladatot szolgáló épületek esetében |  |
 
 | 12.f. | Ár- és belvízvédelmi vízilétesítmények, közmű és műtárgyai esetében |  |
 
@@ -78,50 +78,138 @@
 
 | 13. | Visszafizetendő támogatás (12. és 9. pontok szerinti vis maior eseményenként részletezettek alapján) |  |
 
-## Számlaösszesítő a vis maior támogatás elszámolásához
+|  |  | Számlaösszesítő a vis maior támogatásra vonatkozó beszámolóhoz |
 
-| Sorszám | Vis maior esemény | Számla kiállítója | Számla sorszáma/ egyéb bizonylatok | Számla/egyéb bizonylatok kelte | Teljesítés dátuma | Nettó összeg | Áfa | Bruttó összeg |
+|  | Sor- szám | Vis maior esemény | Számla kiállítója | Számla sorszáma/ egyéb bizonylatok | Termék/ szolgáltatás megnevezése | Számla/ egyéb bizonylatok kelte | Teljesítés dátuma | Nettó összeg | Áfa | Bruttó összeg |
 
-| 1. |  |  |  |  |  |  |  |  |
+|  | 1. |  |  |  |  |  |  |  |  |  |
 
-| 2. |  |  |  |  |  |  |  |  |
+|  | 2. |  |  |  |  |  |  |  |  |  |
 
-| 3. |  |  |  |  |  |  |  |  |
+|  | 3. |  |  |  |  |  |  |  |  |  |
 
-| 4. |  |  |  |  |  |  |  |  |
+|  | 4. |  |  |  |  |  |  |  |  |  |
 
-| 5. |  |  |  |  |  |  |  |  |
+|  | 5. |  |  |  |  |  |  |  |  |  |
 
-| 6. |  |  |  |  |  |  |  |  |
+|  | 6. |  |  |  |  |  |  |  |  |  |
 
-| 7. |  |  |  |  |  |  |  |  |
+|  | 7. |  |  |  |  |  |  |  |  |  |
 
-| 8. |  |  |  |  |  |  |  |  |
+|  | 8. |  |  |  |  |  |  |  |  |  |
 
-| 9. |  |  |  |  |  |  |  |  |
+|  | 9. |  |  |  |  |  |  |  |  |  |
 
-| 10. |  |  |  |  |  |  |  |  |
+|  | 10. |  |  |  |  |  |  |  |  |  |
 
-| 11. |  |  |  |  |  |  |  |  |
+|  | 11. |  |  |  |  |  |  |  |  |  |
 
-| 12. |  |  |  |  |  |  |  |  |
+|  | 12. |  |  |  |  |  |  |  |  |  |
 
-| 13. |  |  |  |  |  |  |  |  |
+|  | 13. |  |  |  |  |  |  |  |  |  |
 
-| 14. |  |  |  |  |  |  |  |  |
+|  | 14. |  |  |  |  |  |  |  |  |  |
 
-| 15. |  |  |  |  |  |  |  |  |
+|  | 15. |  |  |  |  |  |  |  |  |  |
 
-| Összesen |  |  |  |  |  |  |  |
+|  | Összesen |  |  |  |  |  |  |  |  |
 
-## Kelt:
+|  |  | Kelt: |
 
-| P. H. | P. H. |
+|  |  |  | P. H. | P. H. |
 
-| ....................................... | ........................................................... |
+|  |  |  | ....................................... | ........................................................... |
 
-| polgármester/elnök | jegyző |
+|  |  |  | polgármester/elnök | jegyző |
 
-9. melléklet a 9/2011. (II. 15.) Korm. rendelethez[^96]
+## B) UTÓLAGOS HELYSZÍNI VIZSGÁLAT JEGYZŐKÖNYVE
 
-[^96]: A 9. mellékletet a 92/2013. (III. 28.) Korm. rendelet 10. §-a iktatta be.
+## Igénylésazonosító:
+
+| 1. | Támogatott Önkormányzat |  |
+
+| 2. | Vis maior esemény rövid leírása |  |
+
+| 3. | Helyszíni utóellenőrzés helye, időpontja: |  |
+
+## Jelen vannak
+
+| Önkormányzat részéről: |  | A helyi önkormányzat székhelye szerint területileg illetékes fővárosi és megyei kormányhivatal részéről: |  |
+
+| Beosztás: |  | Beosztás: |  |
+
+| Telefon: |  | Telefon: |  |
+
+| Fax: |  | Fax: |  |
+
+| E-mail: |  | E-mail: |  |
+
+| P. H. ............................................... | P. H. ............................................... |
+
+| Katasztrófavédelmi Igazgatóság részéről: |  | Vízügyi Igazgatóság részéről: |  |
+
+| Beosztás: |  | Beosztás: |  |
+
+| Telefon: |  | Telefon: |  |
+
+| Fax: |  | Fax: |  |
+
+| E-mail: |  | E-mail: |  |
+
+| P. H. ............................................... | P. H. ............................................... |
+
+| Közlekedésfejlesztési Koordinációs Központ részéről: |  | a fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala részéről |  |
+
+| Beosztás: |  | Beosztás: |  |
+
+| Telefon: |  | Telefon: |  |
+
+| Fax: |  | Fax: |  |
+
+| E-mail: |  | E-mail: |  |
+
+| P. H. ............................................... | P. H. ............................................... |
+
+| Egyéb felkért szerv részéről: |  | Egyéb felkért szerv részéről: |  |
+
+| Beosztás: |  | Beosztás: |  |
+
+| Telefon: |  | Telefon: |  |
+
+| Fax: |  | Fax: |  |
+
+| E-mail: |  | E-mail: |  |
+
+| P. H. ............................................... | P. H. ............................................... |
+
+| 4 | Helyreállítás rövid ismertetése |  |
+
+| 5 | Helyreállítás tényleges kezdésének időpontja: |  |
+
+| 6 | Helyreállítás tényleges befejezésének időpontja: |  |
+
+| 7 | Beszámoló benyújtásának időpontja: |  |
+
+| 8 | Vizsgált dokumentumok felsorolása: |  |
+
+| 9 | A helyreállítás a szakértői vélemény és a támogatói okirat alapján elkészült kiviteli terv és annak költségvetése alapján valósult meg (igen/nem) |  |
+
+| 10 | A beszámolóban szereplő dokumentáció és annak tartalma megfelel a helyszínen tapasztaltaknak (igen/nem) |  |
+
+| 11 | Értékkövető biztosítás van/lett kötve az ingatlanra (igen/nem) |  |
+
+| 12 | Helyreállításra jóváhagyott támogatás összege (Ft) |  |
+
+| 13 | Felhasznált támogatás összege (Ft) |  |
+
+| 14 | Az utóellenőrzésen résztvevők megállapításai alapján az elvégzett munka igénybejelentés szerinti műszaki tartalma megegyezik a helyszínen tapasztaltakkal, a felhasználás jogszerű (igen/nem) |  |
+
+| 15 | Támogatott észrevétele: |  |
+
+| 16 | Megállapítások az ellenőrzésen részt vevő szervek részéről: |  |
+
+| 17 | Intézkedési javaslat: |  |
+
+9. melléklet a 9/2011. (II. 15.) Korm. rendelethez[^122]
+
+[^122]: A 9. mellékletet a 92/2013. (III. 28.) Korm. rendelet 10. §-a iktatta be, szövege a 129/2014. (IV. 10.) Korm. rendelet 10. § b) pontjával megállapított, a Magyar Közlöny 2014. évi 54. számában megjelent helyesbítésnek megfelelt szöveg.

@@ -6,7 +6,7 @@
 
 | 2. | Előleg (Ft): |  |
 
-| Sorszám: | Megnevezés | Védekezés esetében | Út, híd, komp esetében | Pince-, partfalomlás, földcsuszamlás esetében | Oktatási, kulturális, szociális és egészségügyi intézmények épülete esetében | Igazgatási, valamint egyéb kötelező feladatok ellátását szolgáló intézmények épülete esetében | Ár- és belvízvédelmi vízilétesítmények, közmű és műtárgyai esetében | Helyreállítási költségekhez összesen | Összesen |
+| Sorszám: | Megnevezés | Védekezés esetében | Út, híd, komp esetében | Pince-, partfalomlás, földcsuszamlás esetében | Oktatási, kulturális, szociális és egészségügyi feladatot szolgáló épületek esetében | Igazgatási, valamint egyéb kötelező feladatot szolgáló épületek esetében | Ár- és belvízvédelmi vízilétesítmények, közmű és műtárgyai esetében | Helyreállítási költségekhez összesen | Összesen |
 
 | 3. | Támogatás (az előleg összegét tartalmazza, Ft) |  |  |  |  |  |  |  |  |
 
@@ -16,7 +16,7 @@
 
 | 6. | Visszafizetendő támogatás: |  |
 
-## Vis maior kérelemből elismert költségek
+## Pályázatból elismert költségek
 
 | Sorszám | Vis maior esemény megnevezése | Rövid leírás | Település | Utca, házszám | Hrsz. | Érintett alapterület (m2, fm) | A szakértői nyilatkozat szerinti megvalósítandó munkafeladat | Elismert bruttó költség (Ft) |
 
@@ -40,6 +40,6 @@
 
 | 10. |  |  |  |  |  |  |  |  |
 
-7. melléklet a 9/2011. (II. 15.) Korm. rendelethez[^94]
+7. melléklet a 9/2011. (II. 15.) Korm. rendelethez[^120]
 
-[^94]: A 7. melléklet a 92/2013. (III. 28.) Korm. rendelet 9. § (5) bekezdésével megállapított szöveg.
+[^120]: A 7. melléklet a 92/2013. (III. 28.) Korm. rendelet 9. § (5) bekezdésével megállapított, a 129/2014. (IV. 10.) Korm. rendelet 12. § 32. pontja szerint módosított szöveg.

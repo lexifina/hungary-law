@@ -1,46 +1,66 @@
-## 5. A támogatás elszámolása
+## 5. [^93] A beszámolási kötelezettség
 
-8. §[^77] (1) A Támogatott a támogatás felhasználásáról – legkésőbb a miniszteri döntést követő 12 hónapon belül, a 3. § (10) bekezdés szerinti esetben a Kormány által meghatározott időpontig – a 8. melléklet szerinti adatlap, továbbá
+8. §[^94] (1)[^95] A Támogatott
 
-a) a helyreállításhoz, védekezéshez és a katasztrófavédelmi szúnyoggyérítéshez kapcsolódó, Támogatott nevére és címére kiállított számlák, számlát helyettesítő egyéb bizonylatok, az elvégzett munkatételeket tartalmazó számlarészletezők,
+a) a 2/A. § (1) bekezdés a) pontja szerinti támogatás esetében a 8. melléklet szerinti adatlap és
 
-b) a helyreállításhoz, védekezéshez kapcsolódó személyi jellegű ráfordítások esetén a bér és járulékok kifizetését igazoló bizonylatok, munkanapló, jelenléti ív,
+aa) a Támogatott nevére és címére kiállított számlák, számlát helyettesítő egyéb bizonylatok, az elvégzett munkatételeket tartalmazó számlarészletezők,
 
-c) a helyreállításhoz, védekezéshez kapcsolódó saját kivitelezésben végzett helyreállítás esetén belső bizonylat és kimutatás a felmerült költségekről (pl. géphasználat, üzemanyag),
+ab) a bér és járulékok kifizetését igazoló bizonylatok, munkanapló, jelenléti ív,
 
-d) a helyreállításhoz, védekezéshez és a katasztrófavédelmi szúnyoggyérítéshez kapcsolódó vállalkozói szerződések, megbízási szerződések, megrendelők, árajánlatok,
+ac) a saját kivitelezésben végzett védekezéshez kapcsolódó belső bizonylat és kimutatás a felmerült költségekről,
 
-e) a műszaki átadás-átvételi jegyzőkönyv (építéssel történő helyreállítás esetén),
+ad) a kapcsolódó vállalkozói szerződések, megrendelők, árajánlatok, valamint a teljesítés igazolása,
 
-f) építmény helyreállításához nem kapcsolódó vis maior esemény esetén teljesítésigazolás a munka teljesítéséről,
+ae) az egyéb forrásból kapott támogatás összegéről szóló bankbizonylatok,
 
-g) építési napló (építéssel történő helyreállítás esetén),
+af) készpénzes fizetés esetén kinyomtatott pénztárnapló vagy a bankszámlakivonat hitelesített másolata a pénzfelvételről, valamint a bevételi és kiadási pénztárbizonylat,
 
-h) az egyéb forrásból kapott támogatás összegéről szóló bankbizonylatok,
+ag) kinyomtatott banknapló és főkönyvi kivonat a kapott támogatás, a számlák, valamint azok kiegyenlítésének lekönyveléséről,
 
-i) készpénzes fizetés esetén kinyomtatott pénztárnapló vagy a bankszámlakivonat hitelesített másolata a pénzfelvételről, valamint a bevételi és kiadási pénztárbizonylat,
+ah) a kapcsolódó fotódokumentáció elektronikusan CD lemezen vagy színes nyomatként,
 
-j) kinyomtatott banknapló és főkönyvi kivonat a kapott támogatás, a számlák, valamint azok kiegyenlítésének lekönyveléséről,
+ai) – ha az igénylés során nem csatolta vagy az igénylés benyújtása óta új körülmények merültek fel – biztosítással, kártérítéssel kapcsolatos dokumentumok hitelesített másolatai,
 
-k) építmény esetén tárgyi eszköz karton,
+aj) a közbeszerzési törvény hatálya alá tartozó beszerzések esetében az eljárás lefolytatását igazoló iratok,
 
-l) helyreállítás, védekezés befejezése utáni fotódokumentáció (elektronikusan CD lemezen vagy színes nyomtatásként),
+b) a 2/A. § (1) bekezdés b) pontja szerinti támogatás esetében a 8. melléklet szerinti adatlap és
 
-m) biztosítással, kártérítéssel kapcsolatos dokumentumok hitelesített másolatai (amennyiben az igénylés során nem csatolta, vagy az igénylés benyújtása óta új körülmények merültek fel),
+ba) az a) pont aa)–aj) alpontja szerinti dokumentum,
 
-n) a közbeszerzési törvény hatálya alá tartozó beszerzések esetében az eljárás lefolytatását igazoló iratok, továbbá
+bb) a műszaki átadás-átvételi jegyzőkönyv,
 
-o) az építésiengedély-köteles helyreállítások esetén az építési engedély és használatbavételi engedély.
+bc) építéssel történő helyreállítás esetén építési napló és tárgyi eszköz karton,
 
-Támogatott által hitelesített másolatának becsatolásával köteles a kincstár és a helyi önkormányzat székhelye szerint területileg illetékes fővárosi és megyei kormányhivatal felé – papír alapon és a 8. melléklet szerinti adatlapon elektronikus úton is az ebr42 rendszerben – elszámolni.
+bd) az építésiengedély-köteles helyreállítások esetén az építési engedély és használatbavételi engedély,
 
-(2) Az elszámolás benyújtásának időpontja postai kézbesítés esetén a postára adás napja, személyes átvétel esetén az elszámolás kincstár általi átvételének napja. Az elszámolási határidő elmulasztása esetén igazolási kérelemnek nincs helye. A kincstár az elszámolási határidő elmulasztása esetén – az annak lejártát követő 15 napon belül – a 8/A. § (3) bekezdése szerinti végzésben kötelezi a Támogatottat a támogatásnak az Áht. 57/A. § (1) bekezdés d) pontja szerinti jogosulatlanul igénybe vétele miatti visszafizetésére.
+be) a 4. § (3) bekezdés b) pontja szerinti szakértői vélemény és miniszteri döntés alapján elkészült kiviteli terv és annak költségvetése,
 
-(3)[^78] Az elszámolásra meghatározott határidő módosítására egy alkalommal, legfeljebb az elszámolási határidő 24 hónapra történő megváltoztatásával van lehetőség, ha a határidő betartását időjárási körülmény, a helyi önkormányzaton kívül álló szervezet tevékenysége, egyéb pályázati forrásból megvalósuló kapcsolódó beruházás vagy közbeszerzési eljárás elhúzódása akadályozza. A kérelmet az elszámolási határidő lejártáig lehet benyújtani a kincstárnak.
+c) a 2/A. § (1) bekezdés c) pontja szerinti támogatás a 9. melléklet E) része szerinti adatlap és az a) pont aa), ad), af), ag) alpontja szerinti dokumentum
 
-(4) A (3) bekezdés szerinti kérelemhez csatolni kell a határidő módosítás indokoltságát alátámasztó dokumentumokat, továbbá a polgármester nyilatkozatát, melyben megjelöli a munkálatok megkezdését, a helyreállítás befejezésének várható új időpontját, és részletezi az elszámolást akadályozó körülményeket. Hiányosság esetén a kincstár a helyi önkormányzatot hiánypótlásra szólítja fel. A hiányt a helyi önkormányzat – a felszólítás kézhezvételétől számított 7 napon belül – pótolja. A hiánypótlás nem vagy hiányos teljesítése esetén, a kincstár a kérelmet nem továbbítja a miniszter részére, és erről tájékoztatja a minisztert és a helyi önkormányzatot.
+## Támogatott által hitelesített másolatának a kincstár és a helyi önkormányzat székhelye szerint területileg illetékes fővárosi és megyei kormányhivatal részére – elektronikus úton az ebr42 rendszerben kitöltött, abból kinyomtatott adatlap és a beszámoló mellékleteinek csatolásával papír alapon – történő benyújtásával számol el.
 
-(5) A (3) bekezdés szerinti kérelemről – a kincstár javaslatának figyelembevételével – a miniszter dönt. A kérelem benyújtására nyitva álló határidő elmulasztásával szemben igazolási kérelemnek nincs helye, az ilyen kérelmek esetében az (1) bekezdésben meghatározott elszámolási határidőt kell figyelembe venni. A határidő lejártáig benyújtott, de elutasított kérelmek esetében az új elszámolási határidő a döntés kézhezvételét követő hetedik nap.
+(1a)[^96] A beszámolót
 
-[^77]: A 8. § a 92/2013. (III. 28.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^78]: A 8. § (3) bekezdése az 542/2013. (XII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
+a) a 2/A. § (1) bekezdés a) és b) pontja szerinti támogatás esetében a támogatói döntést követő 12 hónapon belül, a 3. § (10) bekezdése szerinti esetben a Kormány által meghatározott időpontig,
+
+b) a 2/A. § (1) bekezdés c) pontja szerinti támogatás esetében a támogatói döntést követő 6 hónapon belül
+
+## – papír alapon, az adatlapot az ebr42 rendszerben történő rögzítéssel – kell benyújtani.
+
+(2)[^97] A 3/A. § (5) bekezdésében és az (1a) bekezdésben meghatározott határidők elmulasztása esetén igazolási kérelemnek nincs helye. A kincstár az elszámolási határidőt elmulasztó helyi önkormányzatokról tájékoztatja a minisztert. E határidők elmulasztása esetén a miniszter az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) 82. § g) pontja alapján a támogatói okiratot visszavonja. A támogatói okirat visszavonásával a miniszter az Ávr. 83. § (2) bekezdése szerinti okiratban megállapítja a Támogatott által az Áht. 57/A. §-a szerinti jogosulatlanul igénybe vett visszafizetendő támogatás összegét. A miniszter a támogatói okirat visszavonásával kapcsolatos döntését a kincstárral is közli. A Támogatott a visszafizetést az Ávr. 84. § (4) bekezdése szerint teljesíti.
+
+(3)[^98] A beszámoló benyújtására meghatározott határidő módosítására egy alkalommal, legfeljebb a beszámoló benyújtására meghatározott határidő 24 hónapra történő megváltoztatásával van lehetőség, ha a határidő betartását időjárási körülmény, a helyi önkormányzaton kívül álló szervezet tevékenysége, egyéb pályázati forrásból megvalósuló kapcsolódó beruházás vagy közbeszerzési eljárás elhúzódása akadályozza. A kérelmet a beszámoló benyújtására meghatározott határidő lejártáig lehet benyújtani a kincstárnak.
+
+(4)[^99] A (3) bekezdés szerinti kérelemhez csatolni kell a határidő módosítás indokoltságát alátámasztó dokumentumokat, továbbá a polgármester nyilatkozatát, melyben megjelöli a munkálatok megkezdését, a helyreállítás befejezésének várható új időpontját, és részletezi a beszámoló benyújtását akadályozó körülményeket. Hiányosság esetén a kincstár a helyi önkormányzatot hiánypótlásra szólítja fel. A hiányt a helyi önkormányzat – a felszólítás kézhezvételétől számított 7 napon belül – pótolja. A hiánypótlás nem vagy hiányos teljesítése esetén, a kincstár a kérelmet nem továbbítja a miniszter részére, és erről tájékoztatja a minisztert és a helyi önkormányzatot.
+
+(5)[^100] A (3) bekezdés szerinti kérelemről – a kincstár javaslatának figyelembevételével – a miniszter dönt. A kérelem benyújtására nyitva álló határidő elmulasztásával szemben igazolási kérelemnek nincs helye, az ilyen kérelmek esetében az (1) bekezdésben meghatározott beszámolási határidőt kell figyelembe venni. A határidő lejártáig benyújtott, de elutasított kérelmek esetében az új beszámolási határidő a döntés kézhezvételét követő hetedik nap.
+
+[^93]: Az 5. alcím címe a 129/2014. (IV. 10.) Korm. rendelet 12. § 22. pontja szerint módosított szöveg.
+[^94]: A 8. § a 92/2013. (III. 28.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^95]: A 8. § (1) bekezdése a 129/2014. (IV. 10.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^96]: A 8. § (1a) bekezdését a 129/2014. (IV. 10.) Korm. rendelet 7. § (2) bekezdése iktatta be.
+[^97]: A 8. § (2) bekezdése a 129/2014. (IV. 10.) Korm. rendelet 7. § (3) bekezdésével megállapított szöveg.
+[^98]: A 8. § (3) bekezdése az 542/2013. (XII. 30.) Korm. rendelet 1. §-ával megállapított, a 129/2014. (IV. 10.) Korm. rendelet 12. § 23. pontja szerint módosított szöveg.
+[^99]: A 8. § (4) bekezdése a 129/2014. (IV. 10.) Korm. rendelet 12. § 24. pontja szerint módosított szöveg.
+[^100]: A 8. § (5) bekezdése a 129/2014. (IV. 10.) Korm. rendelet 12. § 25. pontja szerint módosított szöveg.
