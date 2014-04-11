@@ -4,26 +4,9 @@
 
 ## 3. Általános feltételek
 
-11. § (1) Az Alapból kizárólag a Bethlen Gábor Alapról szóló 2010. évi CLXXXII. törvény (a továbbiakban: Bgatv.) szerint támogatás igénybevételére jogosult jogalanyok az ott meghatározott célokra kaphatnak támogatást.
+11. §[^11] (1) Az Alapból a Bethlen Gábor Alapról szóló 2010. évi CLXXXII. törvény (a továbbiakban: Bgatv.) 1. § (2) bekezdése szerinti kedvezményezettnek a Bgatv. 3. §-a szerinti célra pályázat vagy kérelem alapján vissza nem térítendő vagy részben vagy egészben visszafizetési kötelezettséggel nyújtott költségvetési támogatás biztosítható.
 
-(2)[^11] Az Alapból támogatás nyújtható
-
-a) nyilvános pályázat vagy
-
-b) egyedi kérelem
-
-## alapján.
-
-(3) Az Alap terhére nyújtott támogatás formái:
-
-a) vissza nem térítendő támogatás,
-
-b) részben vagy egészben visszatérítendő támogatás.
-
-(4) A részben vagy egészben visszatérítendő támogatás visszatérítendő részét az Alap előirányzat-felhasználási keretszámlájára kamatmentesen kell visszafizetni.
-
-(5)[^12] A szomszédos államokban élő magyarokról szóló 2001. évi LXII. törvény 14. §-ában foglalt, a Bethlen Gábor Alapról szóló 2010. évi CLXXXII. törvény 3. § a) pont aa) alpontjában meghatározott támogatások egy főre jutó éves összegét évente a Bizottság állapítja meg.
+(2) A részben vagy egészben visszafizetési kötelezettséggel nyújtott támogatást az Alap fizetési számlájára kell kamatmentesen visszafizetni.
 
 [^10]: A 10. § a 201/2011. (X. 7.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^11]: A 11. § (2) bekezdése a 117/2011. (VII. 7.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^12]: A 11. § (5) bekezdését a 384/2012. (XII. 19.) Korm. rendelet 1. §-a iktatta be.
+[^11]: A 11. § a 128/2014. (IV. 10.) Korm. rendelet 1. §-ával megállapított szöveg.

@@ -1,3 +1,5 @@
+## 26. §[^42]
+
 ## 8. A vezetendő nyilvántartások tartalma
 
 27. § (1) Az Alapkezelő az államháztartási információs rendszer működésén kívül a szomszédos államokban élő magyaroknak nyújtott támogatások központi nyilvántartásáról szóló 233/2005. (X. 19.) Korm. rendelet alapján létrehozott nyilvántartási rendszernek a támogatásokkal összefüggően a következő adatokat szolgáltatja:
@@ -24,6 +26,7 @@ j) az elszámolás időpontja,
 
 k) a pályázatból kizártak listája.
 
-(2)[^40] Az Alapkezelő a Bgatv. 4. § (2) bekezdése, valamint (4) és (5) bekezdése szerint összesítve is nyilvántartja az Alap éves bevételeit. A bevételek között külön jogcímen tartja nyilván az Alapnak visszafizetett pénzeszközöket, az Alap javára behajtott összeget.
+(2)[^43] Az Alapkezelő a Bgatv. 4. § (2) bekezdése, valamint (4) és (5) bekezdése szerint összesítve is nyilvántartja az Alap éves bevételeit. A bevételek között külön jogcímen tartja nyilván az Alapnak visszafizetett pénzeszközöket, az Alap javára behajtott összeget.
 
-[^40]: A 27. § (2) bekezdése a 384/2012. (XII. 19.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^42]: A 7. alcímet (26. §) a 128/2014. (IV. 10.) Korm. rendelet 7. §-a hatályon kívül helyezte.
+[^43]: A 27. § (2) bekezdése a 384/2012. (XII. 19.) Korm. rendelet 3. §-ával megállapított szöveg.

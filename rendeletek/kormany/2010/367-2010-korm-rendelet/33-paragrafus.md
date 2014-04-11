@@ -1,12 +1,7 @@
-## 32. §[^45] Az Alapkezelő elvégzi az Áht.-ban és az Ávr.-ben, a számviteli jogszabályokban, továbbá a más jogszabályokban az Alap kezelésére vonatkozóan előírt feladatokat.
+## 32/G. § A Bizottság az Alapnak a személyi jövedelemadó meghatározott részének az adózó rendelkezése szerinti felhasználásáról szóló 1996. évi CXXVI. törvény 4/A. § (1) bekezdés b) pontja szerinti bevétele felhasználásáról az Országgyűlés feladatkörrel rendelkező bizottságát évente tájékoztatja.
 
 ## VI. VEGYES ÉS ZÁRÓ RENDELKEZÉSEK
 
-## 11. Vegyes rendelkezések
+## 11.[^51]
 
-33. § (1) A Kollégiumot a jelen rendelet hatálybalépést követő 90 napon belül kell megalakítani.
-
-(2)[^46]
-
-[^45]: A 32. § a 384/2012. (XII. 19.) Korm. rendelet 8. § (2) bekezdése szerint módosított szöveg.
-[^46]: A 33. § (2) bekezdését a 384/2012. (XII. 19.) Korm. rendelet 9. § (2) bekezdés b) pontja hatályon kívül helyezte.
+[^51]: A 11. alcímet (33. §) a 128/2014. (IV. 10.) Korm. rendelet 7. §-a hatályon kívül helyezte.

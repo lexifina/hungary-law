@@ -1,6 +1,6 @@
 ## 4. Az állami támogatásokra vonatkozó speciális szabályok
 
-## 13. § E pont alkalmazásában
+## 13. §[^15] Ezen alcím alkalmazásában
 
 a)[^16] állami támogatás: az Európai Unió működéséről szóló Szerződés (továbbiakban: EUMSZ) 107. cikk (1) bekezdése szerinti támogatás és a Szerződés 87. és 88. cikkének a de minimis támogatásokra való alkalmazásáról szóló 2006. december 15-i 1998/2006/EK bizottsági rendelet (a továbbiakban: 1998/2006/EK bizottsági rendelet) szerinti csekély összegű támogatás,
 
@@ -28,6 +28,7 @@ l)[^19] támogatási intenzitás: az Atr. 2. § 15. pontjában meghatározott fo
 
 m)[^20] támogatástartalom: az Atr. 2. § 19. pontjában meghatározott fogalom.
 
+[^15]: A 13. § nyitó szövegrésze a 128/2014. (IV. 10.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
 [^16]: A 13. § a) pontja a 37/2011. (III. 22.) Korm. rendelet 40. § (1) bekezdés a) pontja szerint módosított szöveg.
 [^17]: A 13. § b) pontja a 37/2011. (III. 22.) Korm. rendelet 39. § (1) bekezdésével megállapított szöveg.
 [^18]: A 13. § i) pontja a 37/2011. (III. 22.) Korm. rendelet 40. § (1) bekezdés b) pontja szerint módosított szöveg.
