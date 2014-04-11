@@ -830,7 +830,7 @@
 
 | 2 km sugarú kör a 480403N 0191953E középpont körül |
 
-4. melléklet a 26/2007. (III. 1.) GKM–HM–KvVM együttes rendelethez[^23]
+4. melléklet a 26/2007. (III. 1.) GKM–HM–KvVM együttes rendelethez[^50]
 
 ## A LÉGTÉRSZERKEZET MÓDOSÍTÁSÁRA IRÁNYULÓ JAVASLAT KÖTELEZŐ TARTALMI ELEMEI
 
@@ -882,20 +882,29 @@
 
 3.7. repülőtér létesítése vagy fejlesztése esetén a repülőtér létesítésének, fejlesztésének és megszüntetésének, valamint a leszállóhely létesítésének és megszüntetésének szabályairól szóló kormányrendelet szerinti létesítési vagy fejlesztési engedély.
 
-4. Az ESARR előírásoknak megfelelő, a EUROCONTROL Safety Assessment Methodology elemeivel megegyező tartalmú biztonsági felmérés elkészítésének elsajátítására alkalmas képzettség
+4.[^51] Az ESARR előírásoknak megfelelő, az EUROCONTROL Safety Assessment Methodology elemeivel megegyező tartalmú biztonsági felmérés elkészítésének elsajátítására alkalmas képzettség
 
-A EUROCONTROL – Institute of Air Navigation Services (Légi Navigációs Szolgálatok Képzőintézete) képzése, a következő képzési modulokkal:
+Az EUROCONTROL – Institute of Air Navigation Services (Léginavigációs Szolgálatok Képzőintézete) képzése, a következő képzési modulokkal:
 
 Kötelező elemek:
 
-Introduction to Safety Assessment Methodology (SAF–SAM)
+Introduction to Safety Assessment Methodology (SAF-SAM)
 
-Functional Hazard Assessment – Total System Approach (SAF–SAM1–FHA)
+Functional Hazard Assessment – Total System Approach (SAF-SAM1-FHA)
+
+vagy
+
+Introduction to Safety Assessment (SAF-SA1)
 
 Ajánlott elemek:
 
-Preliminary System Safety Assessment for ATM system designers (SAF–SAM2–PSSA)
+Preliminary System Safety Assessment for ATM system designers (SAF-SAM2-PSSA)
 
-System Safety Assessment for Implementation and Monitoring (SAF–SAM3–SSA)
+System Safety Assessment for Implementation and Monitoring (SAF-SAM3-SSA)
 
-[^23]: A 4. mellékletet az 56/2011. (XI. 8.) NFM rendelet 7. §-a iktatta be.
+vagy
+
+Safety Assessment for Practitioners (SAF-SA2)
+
+[^50]: A 4. mellékletet az 56/2011. (XI. 8.) NFM rendelet 7. §-a iktatta be.
+[^51]: A 4. melléklet 4. pontja a 15/2014. (IV. 3.) NFM rendelet 16. § (4) bekezdésével megállapított szöveg.

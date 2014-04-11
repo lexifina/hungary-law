@@ -506,10 +506,10 @@
 
 | 480810N | 0214510E |
 
-| További szabályok: 1. A polgári légiforgalom a jelzett magasságtartományon kívüli első iránymagasságot használhatja. 2. Az időszakosan korlátozott légterek (TRA-k) munkanapokon legkorábban napkelte előtt 30 perccel, legkésőbb pedig helyi idő szerint 24.00 óráig, a munkaszüneti napot, illetve ünnepnapot megelőző munkanapokon legkésőbb helyi idő szerint 17.00 óráig vehetőek igénybe. 3. Az LHTRA13, 14A, 14B, 14C és 15A, 15B, 15C kivételével valamennyi időszakosan elkülönített légtérben a Magyar Honvédség vagy más szövetséges fegyveres erő kijelölt katonai szervezete légvédelmi irányító szolgálatot biztosít. Az LHTRA 13, 14A, 14B, 14C és 15A, 15B, 15C légterekben a szolnoki közelkörzeti katonai légiforgalmi irányító szolgálat a felelős. |
+| További szabályok: 1. A polgári légiforgalom a jelzett magasságtartományon kívüli első iránymagasságot használhatja. 2. Az időszakosan korlátozott légterek (TRA-k) munkanapokon legkorábban napkelte előtt 30 perccel, legkésőbb pedig helyi idő szerint 24.00 óráig, a munkaszüneti napot, illetve ünnepnapot megelőző munkanapokon legkésőbb helyi idő szerint 17.00 óráig vehetőek igénybe. 3. Az LHTRA 13, 14A, 14B, 14C és 15A, 15B, 15C kivételével valamennyi időszakosan korlátozott légtérben a Magyar Honvédség vagy más szövetséges fegyveres erő kijelölt katonai szervezete légvédelmi irányító szolgálatot biztosít. Az LHTRA 13, 14A, 14B, 14C és 15A, 15B, 15C légterek a szolnoki katonai légiforgalmi irányító szolgálat illetékességi körzetei. |
 
 3. melléklet a 26/2007. (III. 1.) GKM–HM–KvVM
 
-együttes rendelethez[^22]
+együttes rendelethez[^49]
 
-[^22]: A 3. melléklet a 37/2010. (V. 4.) KHEM rendelet 3. §-a, az 56/2011. (XI. 8.) NFM rendelet 11. § (1) bekezdése szerint módosított szöveg.
+[^49]: A 3. melléklet a 37/2010. (V. 4.) KHEM rendelet 3. §-a, az 56/2011. (XI. 8.) NFM rendelet 11. § (1) bekezdése szerint módosított szöveg.

@@ -1,4 +1,4 @@
-## 18/A. §[^12] A veszélyes légtér, az időszakosan korlátozott légtér, az eseti légtér és a koordinált légtér igénylésére és igénybevételére vonatkozó, a Budapest ATS Központnak megadott adatokat a Budapest ATS Központnak 30 napig meg kell őriznie.
+## 18/H. §[^35] A veszélyes légtér, az időszakosan korlátozott légtér, az eseti légtér, a koordinált légtér, a Drop Zone légtér és a műrepülő légtér igénylésére és igénybevételére vonatkozó, a Budapest ATS Központnak megadott adatokat a Budapest ATS Központnak 60 napig meg kell őriznie.
 
 ## III. Fejezet
 
@@ -6,4 +6,4 @@
 
 ## A légi útvonalak
 
-[^12]: A 18/A. §-t és az azt megelőző alcímet az 56/2011. (XI. 8.) NFM rendelet 5. §-a iktatta be.
+[^35]: A 18/H. §-t a 15/2014. (IV. 3.) NFM rendelet 11. §-a iktatta be.

@@ -1,10 +1,10 @@
-## A koordinációs feladatokat ellátó szervezet
+## A koordinált légtér koordinációs feladatait ellátó szervezet[^13]
 
 12. § (1) A koordinált légtérben a koordinációs feladatokat a 2. melléklet II. fejezetében meghatározott szervezet, a légiközlekedési hatóság engedélyével láthatja el.
 
 (2) A koordinált légtér működési ideje alatt a koordinációs feladatokat ellátó szervezet felelős a légtérben a légtérhasználat koordinációs feladatainak ellátásáért.
 
-(3) A koordinációs feladatokat ellátó szervezet gondoskodik arról, hogy megfelelően képzett és rádió-távbeszélő kezelői jogosítással rendelkező személy lássa el a földi telepítésű rádióállomás működtetését.
+(3)[^14] A koordinációs feladatokat ellátó szervezet gondoskodik arról, hogy a földi telepítésű rádióállomás működtetését olyan személy lássa el, aki léginavigációs és a légiközlekedés biztonságát szolgáló egyéb földi berendezések engedélyezési eljárásáról és hatósági felügyeletéről szóló rendelet alapján légiforgalmi földi rádióállomás kezelésére jogosult.
 
 (4) A koordinációs feladatokat ellátó szervezet feladata:
 
@@ -23,3 +23,6 @@ d) a siklórepülés céljára igényelhető koordinált légtér esetén a lég
 e) valamennyi, a Budapest ATS Központtól kapott tájékoztatás és megtett intézkedés bejegyzése az erre a célra rendszeresített naplóba, illetve a koordinációs feladatok légiforgalmi szolgáltató által történő ellátása esetén a belső szabályzatában meghatározott módon.
 
 (5) A Budapest ATS Központ és a koordinációs feladatokat ellátó szervezet közötti tájékoztatás cseréjére vonatkozó eljárásokat a légiközlekedési hatóság által jóváhagyott együttműködési megállapodásban kell rögzíteni.
+
+[^13]: A 12. §-t megelőző alcím a 15/2014. (IV. 3.) NFM rendelet 5. §-ával megállapított szöveg.
+[^14]: A 12. § (3) bekezdése a 15/2014. (IV. 3.) NFM rendelet 6. §-ával megállapított szöveg.
