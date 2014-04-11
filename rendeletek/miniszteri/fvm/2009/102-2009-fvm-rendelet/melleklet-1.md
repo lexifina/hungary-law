@@ -1,3 +1,3 @@
-1. számú melléklet a 102/2009. (VIII. 5.) FVM rendelethez[^5]
+1. számú melléklet a 102/2009. (VIII. 5.) FVM rendelethez[^7]
 
-[^5]: Az 1. számú mellékletet a 61/2010. (V. 11.) FVM rendelet 3. § b) pontja hatályon kívül helyezte.
+[^7]: Az 1. számú mellékletet a 61/2010. (V. 11.) FVM rendelet 3. § b) pontja hatályon kívül helyezte.

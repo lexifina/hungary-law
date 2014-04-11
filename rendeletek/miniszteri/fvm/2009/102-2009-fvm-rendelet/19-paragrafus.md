@@ -8,7 +8,7 @@ a) a 7. §-ban meghatározott szabályokat megszegi,
 
 b) a 8. §-ban írtakat nem tartja be,
 
-c)[^4] a védjegyet a forgalomba hozatal során olyan palackon alkalmazza, ami nem az adott tételnek megfelelő forgalomba hozatali engedéllyel rendelkező bort tartalmazza,
+c)[^5] a védjegyet a forgalomba hozatal során olyan palackon alkalmazza, ami nem az adott tételnek megfelelő forgalomba hozatali engedéllyel rendelkező bort tartalmazza,
 
 d) a 15. §-ban szabályozott mintavételi eljárást meghiúsítja, vagy annak meghiúsítására törekszik,
 
@@ -26,4 +26,4 @@ b) írásos elmarasztalás, hegyközségi nyilvános közzététel mellett,
 
 c) az eredetmegjelölés alkalmazásától való eltiltás 1–3 évig terjedően.
 
-[^4]: A 19. § (1) bekezdés c) pontja a 61/2010. (V. 11.) FVM rendelet 2. §-ával megállapított szöveg.
+[^5]: A 19. § (1) bekezdés c) pontja a 61/2010. (V. 11.) FVM rendelet 2. §-ával megállapított szöveg.
