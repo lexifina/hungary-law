@@ -12,4 +12,7 @@
 
 – a Bizottság 1622/2000/EK rendelete a borpiac közös szervezéséről szóló 1493/1999/EK tanácsi rendelet alkalmazásának egyes szabályainak részletes megállapításáról, és közösségi kódex létesítéséről a borászati eljárásokra és kezelésekre.
 
+(3)[^39] Jelen rendeletben foglaltak a 2012. augusztus 1-jét megelőzően szüretelt szőlőből készült borok esetében alkalmazandók.
+
 [^38]: Az 52. §-t a 127/2009. (IX. 29.) FVM rendelet 62. § e) pontja hatályon kívül helyezte.
+[^39]: Az 53. § (3) bekezdését a 39/2014. (IV. 8.) VM rendelet 1. §-a iktatta be.

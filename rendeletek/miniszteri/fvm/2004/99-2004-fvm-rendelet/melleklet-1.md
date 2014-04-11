@@ -1,8 +1,8 @@
 1. számú melléklet a 99/2004. (VI. 3.) FVM rendelethez
 
-## 1–6.[^39]
+## 1–6.[^40]
 
-7.[^40] A tokaji szamorodni kémiai jellemzői
+7.[^41] A tokaji szamorodni kémiai jellemzői
 
 a) Tényleges alkoholtartalom, legalább 12,0% vol.
 
@@ -42,7 +42,7 @@ o) Hidrogén-cianid-tartalom, legfeljebb 0,1 mg/l
 
 p) Egyéb vegyi szennyeződés az élelmiszerek vegyi szennyezettségének megengedhető mértékéről szóló 17/1999. (VI. 16.) EüM rendeletben meghatározottaknak megfelelően.
 
-8.[^41] A tokaji máslás kémiai jellemzői
+8.[^42] A tokaji máslás kémiai jellemzői
 
 a) Tényleges alkoholtartalom 20 °C-on, legalább 9,0% vol.
 
@@ -82,7 +82,7 @@ o) Hidrogén-cianid-tartalom, legfeljebb 0,1 mg/l
 
 p) Egyéb vegyi szennyeződés az élelmiszerek vegyi szennyezettségének megengedhető mértékéről szóló 17/1999. (VI. 16.) EüM rendeletben meghatározottaknak megfelelően.
 
-9.[^42] A tokaji fordítás kémiai jellemzői
+9.[^43] A tokaji fordítás kémiai jellemzői
 
 a) Tényleges alkoholtartalom 20 °C-on, legalább 9,0% vol.
 
@@ -120,7 +120,7 @@ o) Hidrogén-cianid-tartalom, legfeljebb 0,1 mg/l
 
 p) Egyéb vegyi szennyeződés az élelmiszerek vegyi szennyezettségének megengedhető mértékéről szóló 17/1999. (VI. 16.) EüM rendeletben meghatározottaknak megfelelően.
 
-10.[^43] A tokaji aszú kémiai jellemzői
+10.[^44] A tokaji aszú kémiai jellemzői
 
 a) Tényleges alkoholtartalom
 
@@ -160,7 +160,7 @@ n) Hidrogén-cianid-tartalom, legfeljebb 0,1 mg/l
 
 o) Egyéb vegyi szennyeződés az élelmiszerek vegyi szennyezettségének megengedhető mértékéről szóló 17/1999. (VI. 16.) EüM rendeletben meghatározottaknak megfelelően.
 
-11.[^44] A tokaji eszencia kémiai jellemzői
+11.[^45] A tokaji eszencia kémiai jellemzői
 
 a) Tényleges alkoholtartalom 20 °C-on, 1,2–8,0% vol.
 
@@ -198,12 +198,12 @@ o) Hidrogén-cianid-tartalom, legfeljebb 0,1 mg/l
 
 p) Egyéb vegyi szennyeződés az élelmiszerek vegyi szennyezettségének megengedhető mértékéről szóló 17/1999. (VI. 16.) EüM rendeletben meghatározottaknak megfelelően.
 
-12–14.[^45]
+12–14.[^46]
 
-[^39]: Az 1. számú melléklet 1–6. pontját a 127/2009. (IX. 29.) FVM rendelet 62. § e) pontja hatályon kívül helyezte.
-[^40]: Az 1. számú melléklet 7. pontjának alkalmazására lásd a 127/2009. (IX. 29.) FVM rendelet 66. §-át.
-[^41]: Az 1. számú melléklet 8. pontjának alkalmazására lásd a 127/2009. (IX. 29.) FVM rendelet 66. §-át.
-[^42]: Az 1. számú melléklet 9. pontjának alkalmazására lásd a 127/2009. (IX. 29.) FVM rendelet 66. §-át.
-[^43]: Az 1. számú melléklet 10. pontjának alkalmazására lásd a 127/2009. (IX. 29.) FVM rendelet 66. §-át.
-[^44]: Az 1. számú melléklet 11. pontjának alkalmazására lásd a 127/2009. (IX. 29.) FVM rendelet 66. §-át.
-[^45]: Az 1. számú melléklet 12–14. pontját a 127/2009. (IX. 29.) FVM rendelet 62. § e) pontja hatályon kívül helyezte.
+[^40]: Az 1. számú melléklet 1–6. pontját a 127/2009. (IX. 29.) FVM rendelet 62. § e) pontja hatályon kívül helyezte.
+[^41]: Az 1. számú melléklet 7. pontjának alkalmazására lásd a 127/2009. (IX. 29.) FVM rendelet 66. §-át.
+[^42]: Az 1. számú melléklet 8. pontjának alkalmazására lásd a 127/2009. (IX. 29.) FVM rendelet 66. §-át.
+[^43]: Az 1. számú melléklet 9. pontjának alkalmazására lásd a 127/2009. (IX. 29.) FVM rendelet 66. §-át.
+[^44]: Az 1. számú melléklet 10. pontjának alkalmazására lásd a 127/2009. (IX. 29.) FVM rendelet 66. §-át.
+[^45]: Az 1. számú melléklet 11. pontjának alkalmazására lásd a 127/2009. (IX. 29.) FVM rendelet 66. §-át.
+[^46]: Az 1. számú melléklet 12–14. pontját a 127/2009. (IX. 29.) FVM rendelet 62. § e) pontja hatályon kívül helyezte.

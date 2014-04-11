@@ -1,6 +1,6 @@
 ## BORÁSZATI ELJÁRÁSOK
 
-## I–II.[^47]
+## I–II.[^48]
 
 ## III.
 
@@ -74,12 +74,12 @@
 
 ## – hidegkezelés.
 
-## IV.[^48]
+## IV.[^49]
 
-5. számú melléklet a 99/2004. (VI. 3.) FVM rendelethez[^49]
+5. számú melléklet a 99/2004. (VI. 3.) FVM rendelethez[^50]
 
 Függelék
 
-[^47]: A 4. számú melléklet I–II. pontját a 127/2009. (IX. 29.) FVM rendelet 62. § e) pontja hatályon kívül helyezte.
-[^48]: A 4. számú melléklet IV. pontját a 127/2009. (IX. 29.) FVM rendelet 62. § e) pontja hatályon kívül helyezte.
-[^49]: Az 5. számú mellékletet a 127/2009. (IX. 29.) FVM rendelet 62. § e) pontja hatályon kívül helyezte.
+[^48]: A 4. számú melléklet I–II. pontját a 127/2009. (IX. 29.) FVM rendelet 62. § e) pontja hatályon kívül helyezte.
+[^49]: A 4. számú melléklet IV. pontját a 127/2009. (IX. 29.) FVM rendelet 62. § e) pontja hatályon kívül helyezte.
+[^50]: Az 5. számú mellékletet a 127/2009. (IX. 29.) FVM rendelet 62. § e) pontja hatályon kívül helyezte.
