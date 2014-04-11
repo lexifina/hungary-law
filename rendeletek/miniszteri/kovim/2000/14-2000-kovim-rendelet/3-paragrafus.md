@@ -114,7 +114,7 @@ a) azokon a kijelölt légtérrel rendelkező repülőtereken, ahol a repülőt�
 
 b) olyan katonai légterekben (MCTR, TRA és veszélyes légtér), amelyek alsó magassága megegyezik a földfelszínnel, és
 
-c) a magyar légtér légiközlekedés céljára történő kijelöléséről szóló miniszteri rendelet alapján engedélyezett eseti légterekben.
+c) külön erre a célra kijelölt légterekben.
 
 2.1.6.2. IFR szerint működő légijárművek által végzett megközelítések/leszállások és indulások végrehajtásakor az ellenőrzött és AFIS egységgel rendelkező repülőtereken ejtőernyős ugrások nem hajthatók végre.
 
@@ -130,7 +130,7 @@ b) azokon a kijelölt légtérrel rendelkező repülőtereken, ahol a repülőt�
 
 c) időszakosan korlátozott légterekben, és
 
-d) a magyar légtér légiközlekedés céljára történő kijelöléséről szóló miniszteri rendelet alapján engedélyezett eseti légterekben.
+d)
 
 2.1.7.2. A műrepülések végrehajtása során, a külön erre a célra kijelölt légtérben csak a feladatot végrehajtó légijármű, vagy légijárművek tartózkodhat(nak).
 
@@ -780,19 +780,29 @@ h) szálljon le – ha lehetséges – az f) pontban megadott várható bevezet�
 
 2. Megjegyzés: Lásd a 4.1.2. pontot is.
 
-2.7. Légiforgalmi tanácsadó szolgálat
-
-A csak légiforgalmi tanácsadó vagy repüléstájékoztató szolgáltatásban részesített légijárművek esetében a légiforgalmi tanácsadó vagy repüléstájékoztató szolgálat biztosítása nem mentesíti a légijármű vezetőjét semmilyen tekintetben saját felelőssége alól és a repülési terv bármilyen javasolt változtatására a végső döntést neki kell meghoznia.
+2.7. Légiforgalmi tanácsadó és repüléstájékoztató szolgálatok
 
 A tanácsadó egységek nem adnak „engedélyeket”, csak a „tanácsolni” vagy „javasolni” szavakat használják, amikor kitérési tevékenységet javasolnak a légijárműnek.
 
-A légiforgalmi tanácsadó szolgálat, valamint a repüléstájékoztató szolgálat az összeütközések elkerülése vonatkozásában nem nyújtja azt a biztonsági fokot és nem vállalja ugyanazokat a felelősségeket, mint a légiforgalmi irányító szolgálat, mivel a szolgálatot ellátó egység rendelkezésére álló, az adott légtérben lévő forgalmi helyzetre vonatkozó információk (radarinformáció, repülési adatok) nem teljesek. Ezek az ATS egységek nem vállalhatnak felelősséget a megfelelő forgalmi tájékoztatás adásáért, sem az adatok pontosságáért.
+A légiforgalmi tanácsadó szolgálat, valamint a repüléstájékoztató szolgálat az összeütközések elkerülése vonatkozásában nem nyújtja azt a biztonsági fokot és nem vállalja ugyanazokat a felelősségeket, mint a légiforgalmi irányító szolgálat, mivel a szolgálatot ellátó egység rendelkezésére álló, az adott légtérben lévő forgalmi helyzetre vonatkozó információk (ATS felderítő berendezésen alapuló információk, repülési adatok) nem teljesek. Ezek az ATS egységek nem vállalhatnak felelősséget a megfelelő forgalmi tájékoztatás adásáért, sem az adatok pontosságáért.
 
-2.7.1. A tanácsadói légtérben működő légijárművek repülési profiljukat az illetékes ATS egység hozzájárulása nélkül is megváltoztathatják az illetékes ATS egység előzetes tájékoztatását követően.
+2.7.1. A kizárólag légiforgalmi tanácsadó vagy repüléstájékoztató szolgáltatásban részesített légijármű esetében a légijármű parancsnoka felelős a repülési terv bármilyen javasolt változtatásával összefüggő döntés meghozatalában.
 
-2.7.2. A tanácsadó szolgáltatásban részesülő légijármű jogosult eldönteni, hogy a javasolt változtatást végrehajtja-e. Az elhatározásról haladéktalanul tájékoztatnia kell az érintett ATS egységet.
+2.7.2. A légiforgalmi tanácsadó szolgáltatásban részesülő légijármű jogosult eldönteni, hogy a javasolt változtatást végrehajtja-e. Az elhatározásról haladéktalanul tájékoztatnia kell az érintett ATS egységet.
 
-Megjegyzés: A légiforgalmi tanácsadó szolgálat ellátási szabályait a légiforgalom irányításának szabályairól szóló 16/2000. (XI. 22.) KöViM rendelet 1. számú Melléklete tartalmazza.
+2.7.3. A légiforgalmi tanácsadói légtérben üzemeltetett légijármű repülési profilját az illetékes ATS egység hozzájárulása nélkül is megváltoztathatja, de a megváltoztatás előtt erről tájékoztatnia kell az illetékes ATS egységet és meg kell várnia a tájékoztatás nyugtázását vagy az ezzel kapcsolatos esetleges tanácsot.
+
+2.7.4. Ellenőrzött légtéren kívüli repülés esetében a repülési terv benyújtásával automatikusan megtörténik a repüléstájékoztató szolgáltatás biztosítására vonatkozó kérés.
+
+2.7.5. Az ellenőrzött légtéren kívül üzemeltetett, repülési tervet be nem nyújtott légijármű repüléstájékoztató és riasztó szolgálatban nem részesül, és a légijármű tájékoztatást csak külön kérésre kaphat, továbbá az ATS egységek a légijárművet nem tekintik ismert forgalomnak.
+
+A kért tájékoztatás nem helyettesíti a repülésre történő megfelelő földi felkészülés szükségességét.
+
+2.7.6. Ellenőrzött légtéren kívül, VFR szerint működő légijármű ATS felderítő berendezésen alapuló forgalmi tájékoztatást/tanácsadást – repülési terv benyújtásától függetlenül – külön kérésre kaphat.
+
+2.7.6.1. Repülési tervet be nem nyújtott légijárműnek – egyéb repülési tervet benyújtott légijármű számára ATS felderítő berendezésen alapuló forgalmi tájékoztatás érdekében – kijelölt egyedi SSR kód nem jelenti azt, hogy ezt követően a légijárművet nyomon követik.
+
+2.7.6.1.1. Egyes ATS felderítő berendezések felderítése – különösen az alacsony magasságokon – nem teljes. Az ellenőrzött légtéren kívül, VFR szerint működő légijármű számára az ATS felderítő berendezésen alapuló forgalmi tájékoztatás alkalomszerű, és a felderítő berendezések által észlelt egyéb légijárműre vonatkozóan lehetséges.
 
 2.8. Üzemelés Budapest FIR nem ellenőrzött repülőterein és nem ellenőrzött légtereiben
 
@@ -3146,7 +3156,7 @@ P „S” módú transzponder nyomásmagasság, de légijármű azonosító jel 
 
 S „S” módú transzponder légijármű azonosító jel és nyomásmagasság képesség,
 
-X „S” módú transzponder légijármű azonosító jel vagy nyomásmagasság képességgel.
+X „S” módú transzponder légijármű azonosító jel és nyomásmagasság továbbítás nélkül.
 
 A bővített felderítő berendezés képesség a légijármű azon képessége, amellyel az „S” módú transzponderen keresztül légijárműtől származó adatokat továbbít.
 
@@ -4066,7 +4076,11 @@ AFIS EGYSÉGGEL RENDELKEZŐ REPÜLŐTEREKEN TÖRTÉNŐ MŰKÖDÉS SZABÁLYAI
 
 1.6. Az AFIS egységeknek ugyancsak feladatuk az ATC engedélyek beszerzése, és ezek továbbítása az érintett légijárművek számára, ha az induló légijármű felszállás után a repülőteret elhagyva, ellenőrzött légtérben tervezi repülését folytatni.
 
-1.7. Azokon a repülőtereken, ahol műszer szerinti megközelítési eljárások végrehajtása is lehetséges, az AFIS egység a VFR légijárművet a TIZ határánál várakoztathatja, ha ez egy műszer szerinti megközelítést végrehajtó IFR légijármű biztonsága érdekében szükséges.
+1.7. Az AFIS egység a TIZ határánál várakoztathatja
+
+a) a VFR légijárművet azokon a repülőtereken, ahol műszer szerinti megközelítési eljárások végrehajtása is lehetséges, ha a várakoztatás egy műszer szerinti megközelítést végrehajtó IFR légijármű biztonsága érdekében szükséges,
+
+b) a légijárművet azokon a repülőtereken, ahol Drop Zone légtér van kijelölve, ha a várakoztatás a gyakorló ejtőernyős dobás vagy gyakorló műrepülés biztonságos végrehajtása érdekében szükséges.
 
 2. Javasolt futópálya
 
@@ -5100,13 +5114,5 @@ Tengerszint feletti magasságértékben kifejezett légnyomás érték, amely me
 
 148. Nyomtatott formájú közleményváltás – Printed communication
 
-Közleményváltás, amelynél az áramkör mindkét végén automatikusan maradandó, nyomtatott feljegyzés készül az áramkörön áthaladó összes közleményről.
-
-149. Oldalirányú elkülönítés – Lateral separation
-
-Légijárművek közötti elkülönítés repülési útirányuk/útvonaluk távolságában, vagy útirányuk/útvonaluk közötti szög-eltérésben kifejezve.
-
-150. Összeütközési veszélyt jelző fedélzeti rendszer – Airborne collision avoidance system (ACAS)
-
 [^3]: A 3. §-t a 29/2008. (X. 30.) KHEM rendelet 1. §-a iktatta be.
-[^4]: A melléklet a 115/2005. (XII. 27.) GKM rendelet 1. §-ával megállapított, a 83/2006. (XII. 13.) GKM rendelet 5. § (1) bekezdése, a 95/2006. (XII. 27.) GKM rendelet 24. §-a, a 87/2007. (XI. 6.) GKM rendelet 1. §-a, a 118/2007. (XII. 29.) GKM rendelet 2. § (5) bekezdése, a 29/2008. (X. 30.) KHEM rendelet 2. §-a, az 56/2011. (XI. 8.) NFM rendelet 9. §-a, 10. § (3) bekezdése és 11. § (2) bekezdése, a 91/2011. (XII. 30.) NFM rendelet 8. § a)–b) pontja, a 6/2013. (II. 22.) NFM rendelet 1. §-a szerint módosított szöveg.
+[^4]: A melléklet a 115/2005. (XII. 27.) GKM rendelet 1. §-ával megállapított, a 83/2006. (XII. 13.) GKM rendelet 5. § (1) bekezdése, a 95/2006. (XII. 27.) GKM rendelet 24. §-a, a 87/2007. (XI. 6.) GKM rendelet 1. §-a, a 118/2007. (XII. 29.) GKM rendelet 2. § (5) bekezdése, a 29/2008. (X. 30.) KHEM rendelet 2. §-a, az 56/2011. (XI. 8.) NFM rendelet 9. §-a, 10. § (3) bekezdése és 11. § (2) bekezdése, a 91/2011. (XII. 30.) NFM rendelet 8. § a)–b) pontja, a 6/2013. (II. 22.) NFM rendelet 1. §-a, a 15/2014. (IV. 3.) NFM rendelet 1. §-a szerint módosított szöveg.
