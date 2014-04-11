@@ -58,4 +58,6 @@ Felelős: belügyminiszter, nemzetgazdasági miniszter
 
 Határidő: 2014. április 15.
 
-5. visszavonja a 2007–2013 közötti európai uniós programok lebonyolítását támogató intézményrendszer szervezeti kereteiről 1152/2014. (III. 20.) Korm. határozat 3. pontját.
+5.[^2]
+
+[^2]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
