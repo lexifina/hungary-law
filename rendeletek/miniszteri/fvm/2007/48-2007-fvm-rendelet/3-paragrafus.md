@@ -1,6 +1,6 @@
 ## Az együttműködő szervezetek feladatainak köre
 
-## 3. §[^9] Az MVH a Vidékfejlesztési Minisztérium Mezőgazdasági Gépesítési Intézete szakértői közreműködését veheti igénybe az alábbi feladatai végrehajtása során:
+## 3. §[^11] Az MVH a Vidékfejlesztési Minisztérium Mezőgazdasági Gépesítési Intézete szakértői közreműködését veheti igénybe az alábbi feladatai végrehajtása során:
 
 a) a szárított takarmány kvótával szabályozott támogatása kapcsán:
 
@@ -34,4 +34,4 @@ f) az Európai Unió környezetvédelmi, állatjóléti és -higiéniai előír�
 
 g) az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtandó támogatások keretében a kérelmek elbírálásához kapcsolódó műszaki-technológiai segédletek kidolgozása, eseti szakvélemény nyújtása, valamint helyszíni ellenőrzések elvégzése.
 
-[^9]: A 3. § nyitó szövegrésze a 156/2009. (XI. 18.) FVM rendelet 2. §-ával megállapított, a 70/2013. (VII. 31.) VM rendelet 64. § a) pontja szerint módosított szöveg.
+[^11]: A 3. § nyitó szövegrésze a 156/2009. (XI. 18.) FVM rendelet 2. §-ával megállapított, a 70/2013. (VII. 31.) VM rendelet 64. § a) pontja szerint módosított szöveg.

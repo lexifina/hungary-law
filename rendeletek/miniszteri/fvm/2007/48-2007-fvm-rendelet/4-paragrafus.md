@@ -1,4 +1,4 @@
-## 4. §[^10] Az MVH a NÉBIH szakértői közreműködését veheti igénybe az alábbi feladatai végrehajtása során:
+## 4. §[^12] Az MVH a NÉBIH szakértői közreműködését veheti igénybe az alábbi feladatai végrehajtása során:
 
 a) a feldolgozóipari támogatások feltételei teljesítésének helyszíni ellenőrzése, valamint a helyszíni ellenőrzés során vett minták laboratóriumi vizsgálata;
 
@@ -46,4 +46,4 @@ v) a támogatások igénybevételéhez kapcsolódó ügyfélszolgálat és táj�
 
 x) az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtandó egyes támogatások keretében a kérelmek elbírálásához kapcsolódó, eseti szakvélemény nyújtása, valamint helyszíni ellenőrzések elvégzése.
 
-[^10]: A 4. § nyitó szövegrésze a 101/2013. (XI. 4.) VM rendelet 1. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^12]: A 4. § nyitó szövegrésze a 101/2013. (XI. 4.) VM rendelet 1. § (2) bekezdés b) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-## 7/A. §[^18] Az MVH az Agrárgazdasági Kutató Intézet szakértői közreműködését veheti igénybe az Európai Mezőgazdasági Garancia Alapból, az Európai Mezőgazdasági Vidékfejlesztési Alapból, az Európai Halászati Alapból finanszírozott, valamint a nemzeti hatáskörbe tartozó mezőgazdasági és agrár-vidékfejlesztési támogatásokkal összefüggő monitoring-adatgyűjtési feladataihoz kapcsolódó adatbázis felépítésének, szerkezetének, szakmai definíciórendszerének kialakítása és továbbfejlesztése, továbbá a monitoring-adatgyűjtéshez kapcsolódó adatelemzések, illetve jelentések elkészítése során.
+## 7/A. §[^20] Az MVH az Agrárgazdasági Kutató Intézet szakértői közreműködését veheti igénybe az Európai Mezőgazdasági Garancia Alapból, az Európai Mezőgazdasági Vidékfejlesztési Alapból, az Európai Halászati Alapból finanszírozott, valamint a nemzeti hatáskörbe tartozó mezőgazdasági és agrár-vidékfejlesztési támogatásokkal összefüggő monitoring-adatgyűjtési feladataihoz kapcsolódó adatbázis felépítésének, szerkezetének, szakmai definíciórendszerének kialakítása és továbbfejlesztése, továbbá a monitoring-adatgyűjtéshez kapcsolódó adatelemzések, illetve jelentések elkészítése során.
 
 ## 8. § Az MVH szakértő közreműködését veheti igénybe az alábbi feladatok ellátásához:
 
@@ -8,4 +8,4 @@ b) a szőlőlé készítésének támogatásához kapcsolódó laboratóriumi vi
 
 c) EU élelmiszersegély programjába bevont gabona- alapú termékekkel kapcsolatos minőségi vizsgálatok.
 
-[^18]: A 7/A. §-t a 156/2009. (XI. 18.) FVM rendelet 3. §-a iktatta be.
+[^20]: A 7/A. §-t a 156/2009. (XI. 18.) FVM rendelet 3. §-a iktatta be.
