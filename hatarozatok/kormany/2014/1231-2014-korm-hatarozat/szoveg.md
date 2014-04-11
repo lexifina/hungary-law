@@ -6,4 +6,6 @@ Felelős: Miniszterelnökséget vezető államtitkár
 
 Határidő: azonnal
 
-2. visszavonja a budapesti 4. számú metróvonal I. szakasz (Kelenföldi pályaudvar–Keleti pályaudvar) és kapcsolódó felszíni beruházásai című projekt megvalósítása keretében a budapesti 4. számú metróvonal I. szakasz: Co-05/B, Co-06/A, Co-07 számú szerződések módosításainak jóváhagyásáról, valamint a szerződésmódosítások alapján folyósítandó hazai költségvetési forrás meghatározásáról szóló 1637/2013. (IX. 10.) Korm. határozat 3. pont b) alpontját.
+2.[^2]
+
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályon kívül helyezte.
