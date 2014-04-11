@@ -1,0 +1,3 @@
+7. § (1) A „C” típusú széles tűzpászta kialakításának vagy fenntartásának támogatására a nagymértékben veszélyeztetett megyékben az Adattárban a nagymértékben és közepesen veszélyeztetett kategóriába tartozó, nyiladékként nyilvántartott, az Evt. 13. §-a szerinti erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületekre vonatkozóan van lehetőség.
+
+(2) A közepesen veszélyeztetett megyékben a „C” típusú széles tűzpászta kialakításának vagy fenntartásának támogatására az Adattárban a nagymértékben veszélyeztetett kategóriába tartozó, nyiladékként nyilvántartott, az Evt. 13. §-a szerinti erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületekre vonatkozóan van lehetőség.
