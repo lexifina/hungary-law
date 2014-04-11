@@ -4,7 +4,7 @@
 
 ## Határidő: azonnal
 
-## 2. visszavonja a KEOP-2012-5.6.0 jelű („Központi költségvetési szervek energiahatékonysági beruházásai” című) pályázati konstrukcióra előzetes kérdőívet benyújtó, az Emberi Erőforrások Minisztériuma fenntartásában lévő intézmények pályázatairól szóló 1682/2013. (IX. 30.) Korm. határozatot.
+## 2.[^2]
 
 1. melléklet az 1236/2014. (IV. 10.) Korm. határozathoz
 
@@ -49,3 +49,5 @@ Az Emberi Erőforrások Minisztériuma fenntartásában lévő és a Nemzeti Fej
 | 18. | Nemzeti Sportközpontok | 1023 Budapest, Árpád fejedelem útja 8. (Nemzeti Úszó és Vízilabda Olimpiai Központ – Császár-Komjádi uszoda) | Építészeti körben az uszodaépület nyílászáróinak cseréje; az iroda és az üzletek külső hőszigetelése és a nyílászárók cseréje. A gépészeti felújítás körében a fűtési rendszer korszerűsítése, az uszodatérben, az öltözőkben és az előterekben hővisszanyerős szellőztetés kialakítása, hőszivattyú telepítése, illetve a hulladékhő hasznosítása, napkollektorok telepítése és víztakarékos szerelvényekkel új vizesblokkok kialakítása. Elektromos felújítás. | 360 |
 
 | 19. | Összesen 14 db projekt | 8000 |
+
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
