@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-11-20-8
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2006-02-18 | 2006-11-20-82.1 | 11/2006. (II. 3.) FVM rendelet |
+| 2014-04-11 | 2006-11-20-82.2 | 88/2016. (XII. 29.) FM rendelet |
