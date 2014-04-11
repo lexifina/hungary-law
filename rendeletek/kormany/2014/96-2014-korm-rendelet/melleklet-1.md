@@ -1,4 +1,4 @@
-## 3–5. §[^1]
+## 5. §[^7]
 
 1. melléklet a 96/2014. (III. 25.) Korm. rendelethez
 
@@ -116,4 +116,4 @@ Az irányító hatóság és a közreműködő szervezet kijelölése
 
 ”
 
-[^1]: A 3–5. § a 2. § (2) bekezdése alapján 2014. április 15-én lép hatályba.
+[^7]: Az 5. § a 2. § (2) bekezdése alapján 2014. április 15-én lép hatályba.

@@ -4,7 +4,7 @@ a) a MAG – Magyar Gazdaságfejlesztési Központ Zrt. (székhelye: 1139 Budape
 
 aa) az Államreform Operatív Program és az Elektronikus Közigazgatás Operatív Program tekintetében ellátott közreműködő szervezeti feladatot a Miniszterelnökség,
 
-ab) a nem európai uniós fejlesztési források felhasználásához kapcsolódóan végzett feladatot a nem az európai uniós fejlesztési források felhasználásához kapcsolódó fejlesztéspolitikáért felelős miniszter által vezetett minisztérium,
+ab)[^1] a nem európai uniós fejlesztési források felhasználásához kapcsolódóan végzett feladatot – a Kutatási és Technológiai Innovációs Alappal kapcsolatos feladatok kivételével – a nem az európai uniós fejlesztési források felhasználásához kapcsolódó fejlesztéspolitikáért felelős miniszter által vezetett minisztérium,
 
 ac) ellátott feladatot – az aa) és ab) alpontban meghatározott kivétellel – a gazdaságpolitikáért felelős miniszter által vezetett minisztérium,
 
@@ -16,6 +16,9 @@ d) az ESZA Társadalmi Szolgáltató Nonprofit Korlátolt Felelősségű Társas
 
 mint átvevő költségvetési szerv látja el.
 
-(2) Az államot az államháztartásról szóló 2011. évi CXCV. törvény 11/C. § (2) bekezdése szerinti esetben az átvevő költségvetési szerv vezetője képviseli.
+(2)[^2] Az államot az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 11/C. § (2) bekezdése szerinti esetben az átvevő költségvetési szerv vezetője képviseli.
 
 (3) Az átvételi felelőst az átvevő költségvetési szerv vezetője jelöli ki.
+
+[^1]: Az 1. § (1) bekezdés a) pont ab) alpontja a 127/2014. (IV. 10.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^2]: Az 1. § (2) bekezdése a 127/2014. (IV. 10.) Korm. rendelet 4. § (1) bekezdése szerint módosított szöveg.
