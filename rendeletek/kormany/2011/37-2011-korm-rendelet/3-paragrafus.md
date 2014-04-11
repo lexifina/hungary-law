@@ -30,6 +30,6 @@ bj) az uniós állami támogatási szabályok által előírt egyéb informáci�
 
 (2) A támogatási tervezetben az állami támogatás formája különösen vissza nem térítendő és visszatérítendő pénzeszközök nyújtásaként, kamatmentes hitelként, kedvezményes kamatozású hitelként, kamattámogatásként, kedvezményes feltételű kezességvállalásként, állami tőkejuttatásként, adókedvezményként, adóalap- kedvezményként, ingyenesen és kedvezményes feltételek mellett nyújtott szolgáltatásként, ingatlanjuttatásként, követelésről való lemondásként, tartozásátvállalásként, kedvezményes bérletként vagy kedvezményes lízingként határozható meg.
 
-(3)[^11] Nem fizethető ki támogatás azon szervezet részére, amely az Európai Bizottság támogatás visszafizetésére kötelező határozatának nem tett eleget.
+(3)[^12] Nem fizethető ki támogatás azon szervezet részére, amely az Európai Bizottság támogatás visszafizetésére kötelező határozatának nem tett eleget.
 
-[^11]: A 3. § (3) bekezdését az 550/2013. (XII. 30.) Korm. rendelet 67. § (5) bekezdése iktatta be.
+[^12]: A 3. § (3) bekezdését az 550/2013. (XII. 30.) Korm. rendelet 67. § (5) bekezdése iktatta be.

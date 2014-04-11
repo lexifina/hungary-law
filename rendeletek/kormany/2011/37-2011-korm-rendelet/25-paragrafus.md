@@ -2,7 +2,7 @@
 
 ## REGIONÁLIS TÁMOGATÁSI TÉRKÉP
 
-25. § (1)[^85] A 2007–2013 közötti időszakra vonatkozó regionális támogatási térképről szóló, 2006. november 13-i N-487/2006. számú bizottsági határozattal engedélyezett és a 2013. október 14-i SA.36879-2013/N. számú bizottsági határozattal 2014. június 30-ig meghosszabbított regionális támogatási térkép szerint nagyvállalkozások esetében a következő maximális támogatási intenzitások alkalmazhatók:
+25. § (1)[^89] A 2007–2013 közötti időszakra vonatkozó regionális támogatási térképről szóló, 2006. november 13-i N-487/2006. számú bizottsági határozattal engedélyezett és a 2013. október 14-i SA.36879-2013/N. számú bizottsági határozattal 2014. június 30-ig meghosszabbított regionális támogatási térkép szerint nagyvállalkozások esetében a következő maximális támogatási intenzitások alkalmazhatók:
 
 a) Észak-Magyarország, Észak-Alföld, Dél-Alföld, Dél-Dunántúl tervezési-statisztikai régiókban 50%,
 
@@ -22,4 +22,4 @@ b) az ötvenmillió euró és a százmillió euró közötti elszámolható köl
 
 c) a százmillió euró feletti elszámolható költségrészre az (1) bekezdésben meghatározott mérték harmincnégy százaléka.
 
-[^85]: A 25. § (1) bekezdése az 507/2013. (XII. 29.) Korm. rendelet 5. § (5) bekezdésével megállapított szöveg.
+[^89]: A 25. § (1) bekezdése az 507/2013. (XII. 29.) Korm. rendelet 5. § (5) bekezdésével megállapított szöveg.

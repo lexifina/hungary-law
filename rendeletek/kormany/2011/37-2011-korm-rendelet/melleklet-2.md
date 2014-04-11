@@ -32,6 +32,6 @@
 
 ## M. Az állami támogatásra vonatkozó szabályoknak a szélessávú hálózatok mielőbbi kiépítésére való alkalmazásáról szóló közösségi iránymutatás alapján nyújtott támogatás
 
-2. melléklet a 37/2011. (III. 22.) Korm. rendelethez[^100]
+2. melléklet a 37/2011. (III. 22.) Korm. rendelethez[^104]
 
-[^100]: A 2. melléklet a 381/2012. (XII. 19.) Korm. rendelet 11. § (2) bekezdése, az 550/2013. (XII. 30.) Korm. rendelet 67. § (11) bekezdés c) és i) pontja szerint módosított szöveg.
+[^104]: A 2. melléklet a 381/2012. (XII. 19.) Korm. rendelet 11. § (2) bekezdése, az 550/2013. (XII. 30.) Korm. rendelet 67. § (11) bekezdés c) és i) pontja szerint módosított szöveg.

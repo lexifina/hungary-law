@@ -1,6 +1,6 @@
-## 18.[^94] Az Európai Unió jogának való megfelelés
+## 18.[^98] Az Európai Unió jogának való megfelelés
 
-## 38. §[^95] Ez a rendelet
+## 38. §[^99] Ez a rendelet
 
 a) az EK-Szerződés 93. cikkének alkalmazására vonatkozó részletes szabályok megállapításáról szóló, 1999. március 22-i 659/1999/EK tanácsi rendelet (HL L 83., 1999.3.27.), és
 
@@ -8,5 +8,5 @@ b) az EK-Szerződés 93. cikkének alkalmazására vonatkozó részletes szabál
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^94]: A 18. alcíme (38. §) a 381/2012. (XII. 19.) Korm. rendelet 10. §-ával megállapított szöveg.
-[^95]: A 18. alcíme (38. §) a 381/2012. (XII. 19.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^98]: A 18. alcíme (38. §) a 381/2012. (XII. 19.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^99]: A 18. alcíme (38. §) a 381/2012. (XII. 19.) Korm. rendelet 10. §-ával megállapított szöveg.

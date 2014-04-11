@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-37-20-2
 | 2013-12-30 | 2011-37-20-22.6 | 507/2013. (XII. 29.) Korm. rendelet |
 | 2014-01-01 | 2011-37-20-22.7 | 550/2013. (XII. 30.) Korm. rendelet |
 | 2014-01-31 | 2011-37-20-22.8 | 381/2012. (XII. 19.) Korm. rendelet |
+| 2014-04-11 | 2011-37-20-22.9 | 550/2013. (XII. 30.) Korm. rendelet |
