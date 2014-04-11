@@ -20,44 +20,46 @@
 
 (10) Amennyiben a minősítési feltételek érvényességi idejét a Bizottság – a (3) bekezdésben foglalt felülvizsgálat során – módosítás nélkül meghosszabbítja, a Szervezet az adott termékcsoportban érvényes védjegyhasználati szerződések új eljárás nélküli meghosszabbítását kezdeményezi a védjegyhasználónál. A szerződés a minősítési feltételek új érvényességi idejéig hosszabbítható meg.
 
-(11) A Bizottság tagjai a miniszter felkérése alapján
+(11)[^7] A Bizottság tagjai:
 
-a) a Belügyminisztérium,
+a) a miniszter felkérése alapján
 
-b) az Egészségügyi, Szociális és Családügyi Minisztérium,
+aa) az építésügyért felelős miniszter által vezetett minisztérium építésügyért felelős képviselője,
 
-c) a Földművelésügyi és Vidékfejlesztési Minisztérium,
+ab) az egészségügyért felelős miniszter által vezetett minisztérium egészségügyért felelős képviselője,
 
-d) a Gazdasági és Közlekedési Minisztérium,
+ac) a földügyért felelős miniszter által vezetett minisztérium földügyért felelős képviselője,
 
-e)[^7] a Vidékfejlesztési Minisztérium,
+ad) az iparügyekért felelős miniszter által vezetett minisztérium iparügyekért felelős képviselője,
 
-f) az Oktatási Minisztérium,
+ae) az állami vagyonnal való gazdálkodás szabályozásáért és az állami vagyon felügyeletéért felelős miniszter által vezetett minisztérium közbeszerzésért felelős képviselője,
 
-g) a Fogyasztóvédelmi Főfelügyelőség,
+af) a környezetvédelemért felelős miniszter által vezetett minisztérium környezetvédelemért felelős képviselője,
 
-h) a Magyar Tudományos Akadémia,
+ag) a Nemzeti Fogyasztóvédelmi Hatóság képviselője,
 
-i) a Nemzeti Akkreditáló Testület,
+ah) a Szervezet képviselője,
 
-j) a gazdasági érdekképviseletek,
+b) a következő szervezetek és civil mozgalmak által delegált egy-egy képviselő:
 
-k) a kereskedelmi érdekképviseletek,
+ba) Magyar Tudományos Akadémia,
 
-l) a fogyasztói érdekek képviseletét ellátó társadalmi szervezetek,
+bb) Nemzeti Akkreditáló Testület,
 
-m) a környezetvédő társadalmi szervezetek
+bc) a Magyar Mérnöki Kamara Környezetvédelmi Tagozata,
 
-n) a Magyar Mérnöki Kamara Környezetvédelmi Tagozata, és
+bd) a gazdasági érdekképviselet területén országos működési területű és legalább öt éve működő civil szervezet,
 
-o) a Szervezet
+be) a kereskedelem területén országos működési területű és legalább öt éve működő civil szervezet,
 
-## egy-egy képviselője.
+bf) a fogyasztóvédelem területén országos működési területű és legalább öt éve működő civil szervezet,
+
+bg) a környezet- és természetvédő civil szervezetek országos találkozója.
 
 (12) A Bizottság az ügyrendjét maga állapítja meg.
 
 (13) A Bizottság külön jogszabály alapján[^8] közreműködik a közösségi öko-címkével kapcsolatos feladatok ellátásában.
 
 [^6]: A 3. § és az azt megelőző alcím a 9/2004. (V. 25.) KvVM rendelet 3. §-ával megállapított szöveg.
-[^7]: A 3. § (11) bekezdés e) pontja a 132/2013. (XII. 23.) VM rendelet 6. § c) pontjával megállapított szöveg.
+[^7]: A 3. § (11) bekezdése a 31/2014. (IV. 3.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^8]: A közösségi öko-címke odaítélését ellátó szerv kijelöléséről szóló 83/2003. (VI. 7.) Korm. rendelet.
