@@ -8,4 +8,8 @@
 
 (3) A Tanács első ülését e rendelet hatályba lépését követő 60 napon belül meg kell tartani.
 
+(4)[^2] Jelen rendeletben foglaltak a 2012. augusztus 1-jét megelőzően szüretelt szőlőből készült borok esetében alkalmazandók.
+
 Melléklet a 142/2008. (X. 31.) FVM rendelethez
+
+[^2]: A 8. § (4) bekezdését a 39/2014. (IV. 8.) VM rendelet 7. §-a iktatta be.
