@@ -12,6 +12,8 @@ c) oxigén- és nedvességtartalmát
 
 ## kell mérni és rögzíteni.
 
+(2a)[^8] Az (1) bekezdéstől eltérően az évi 500 üzemóránál kevesebbet üzemelő, a villamosenergia-rendszer teljesítmény egyensúlyának biztosítása céljából, a villamosenergia-rendszer rendszerirányítója által szerződéssel lekötött, vészhelyzeti tartalék gázturbinát és gázmotort mérőrendszerrel nem kell ellátni.
+
 (3) A folyamatos mérési kötelezettség alól a felügyelőség – ha a tüzelőberendezés hatásterületén az éves kén-dioxid szennyezettség nem haladja meg a levegőterheltségi szint határértékeiről és a helyhez kötött légszennyező pontforrások kibocsátási határértékeiről szóló miniszteri rendeletben foglalt kén-dioxidra vonatkozó egészségügyi határértéket – az alábbi kötelezettségek alól adhat felmentést:
 
 a) földgázt égető tüzelőberendezéseknél a kén-dioxid és a szilád anyag kibocsátás folyamatos mérése alól,
@@ -23,3 +25,5 @@ c) biomasszát égető tüzelőberendezésekből származó kén-dioxid folyamat
 (4) A felügyelőség a nedvességtartalom folyamatos mérési kötelezettsége alól felmentést ad, ha az számítással kellő pontossággal meghatározható, vagy ha a füstgázt a mérést megelőzően szárítják.
 
 (5) Azon tüzelőberendezés esetén, amelyre a 15. § alapján a kén-dioxid kibocsátási határérték helyett a kéntelenítési arányt alkalmazzák, a felhasznált tüzelőanyag összes kéntartalmát a felügyelőség által meghatározott rendszerességgel mérni kell.
+
+[^8]: A 19. § (2a) bekezdését a 31/2014. (IV. 3.) VM rendelet 3. § (1) bekezdése iktatta be.

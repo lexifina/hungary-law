@@ -16,5 +16,5 @@
 
 (6)–(7)[^3]
 
-[^2]: A 6. § (1) bekezdése a 24. § (2) bekezdés a) pontja alapján 2016. január 1-jén lép hatályba.
-[^3]: A 6. § (6)–(7) bekezdése a 24. § (2) bekezdés a) pontja alapján 2016. január 1-jén lép hatályba.
+[^2]: A 6. § (1) bekezdése a – 31/2014. (IV. 3.) VM rendelet 3. § (3) bekezdésével megállapított – 24. § (2) bekezdés a) pontja alapján 2014. április 15-én lép hatályba.
+[^3]: A 6. § (6)–(7) bekezdése a – 31/2014. (IV. 3.) VM rendelet 3. § (3) bekezdésével megállapított – 24. § (2) bekezdés a) pontja alapján 2014. április 15-én lép hatályba.

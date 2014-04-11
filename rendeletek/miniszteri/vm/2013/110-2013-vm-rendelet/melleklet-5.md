@@ -84,6 +84,6 @@ q1+q2+..qn = az összes tüzelőanyag által biztosított bemenő hőteljesítm�
 
 E = E1s + E2s + ……Ens
 
-4.[^15]
+4.[^20]
 
-[^15]: Az 5. melléklet 4. pontja a 24. § (2) bekezdés j) pontja alapján 2016. január 1-jén lép hatályba.
+[^20]: Az 5. melléklet 4. pontja a – 31/2014. (IV. 3.) VM rendelet 3. § (3) bekezdésével megállapított – 24. § (2) bekezdés i) pontja alapján 2014. április 15-én lép hatályba.

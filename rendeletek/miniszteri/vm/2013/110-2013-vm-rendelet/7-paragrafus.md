@@ -4,4 +4,4 @@
 
 (4) Gázturbinából és gáz póttüzeléses hőhasznosító kazánból álló tüzelőberendezés esetében a kibocsátási határérték és a vonatkoztatási oxigéntartalom megállapításának szabályait a 4. melléklet tartalmazza.
 
-[^4]: A 7. § (1)–(2) bekezdése a 24. § (2) bekezdés b) pontja alapján 2016. január 1-jén lép hatályba.
+[^4]: A 7. § (1)–(2) bekezdése a – 31/2014. (IV. 3.) VM rendelet 3. § (3) bekezdésével megállapított – 24. § (2) bekezdés b) pontja alapján 2014. április 15-én lép hatályba.
