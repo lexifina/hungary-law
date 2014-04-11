@@ -194,6 +194,6 @@
 
 | 96. | Somsich |
 
-2. melléklet a 91/2005. (X. 18.) FVM rendelethez[^13]
+2. melléklet a 91/2005. (X. 18.) FVM rendelethez[^15]
 
-[^13]: A 2. számú melléklet a 115/2007. (X. 10.) FVM rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^15]: A 2. számú melléklet a 115/2007. (X. 10.) FVM rendelet 8. § (2) bekezdésével megállapított szöveg.
