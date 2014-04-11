@@ -308,7 +308,7 @@
 
 ## 1.15.1.2 A LoA az EUROCONTROL Légtér és Navigáció Munkacsoport (ANT) által jóváhagyott, és a tagországok által elfogadott, „A Légiforgalmi Szolgálati Egységek között alkalmazható Egységes Formátumú, Együttműködési Megállapodás” – The Common Format of Letter of Agreement between Air Traffic Services Units” – dokumentumban leírtaknak megfelelően kell megszerkeszteni és alkalmazni.
 
-## 1.15.1.3 A két állam légiforgalmi szolgálati egységeinek vezetoi által aláírt LoA – az 1.15.1.3.2. pontban foglalt eltéréssel – Magyarországon a közlekedésért felelős miniszter véleményét figyelembe véve, a légiközlekedési hatóság jóváhagyását követően lép hatályba.
+## 1.15.1.3 A két állam légiforgalmi szolgálati egységeinek vezetői által aláírt LoA – az 1.15.1.3.2. pontban foglalt eltéréssel – Magyarországon a légiközlekedési hatóság jóváhagyását követően lép hatályba.
 
 ## 1.15.1.3.1 A LoA fő részének állandó módosítása, valamint felbontása, csak a két állam légiforgalmi szolgálati egységeinek vezetoi aláírása, és a légiközlekedési hatóságok jóváhagyása után válik hatályossá.
 
@@ -1668,7 +1668,7 @@
 
 ## (az 1. Fejezet 1.6.1. ponthoz)
 
-## 1M41447O_0
+## 4K04767M_0
 
 | Légtér- osztály | Repülések típusa | Biztosított elkülönítés | Biztosított szolgálat | Sebességkorlátozási előírások* | Rádióösszeköttetésre vonatkozó előírások | ATC engedély szükségessége |
 
@@ -1734,7 +1734,7 @@
 
 ## 3. Megjegyzés: A repülőtér/helikopter repülőtér határain kívüli területekre, valamint az állam teljes területére előírtaknak megfelelő akadályadatok 2008. november 20-i, illetve 2010. november 18-i elérhetőségéről szóló ICAO 15. Annex 10.6.1.1 és 10.6.1.2 rendelkezéseinek bevezetését elősegítené egy, az ilyen adatok gyűjtésére és feldolgozására szóló előzetes terv.
 
-## 1M41447O_2
+## 4K04767M_2
 
 | 2. Táblázat Tengerszinthez viszonyított/tengerszint/repülőtér feletti magasságok |
 
@@ -4922,4 +4922,6 @@ Megjegyzés: Amennyiben a transzponder műszaki sajátosságai következtében a
 
 a) kérjék fel a légijárművezetőt, hogy szüntesse meg a „C” mód adását, feltéve, hogy az nem szakítja meg válaszjeladójának „A” módú üzemét, és erről az intézkedésről tájékoztassák a légijármű által érintett soron következő irányítói munkahelyeket vagy ATC egységet,
 
-[^6]: A 2. számú melléklet a 115/2005. (XII. 27.) GKM rendelet 2. §-ával megállapított, a 83/2006. (XII. 13.) GKM rendelet 5. § (3) bekezdése, a 26/2007. (III. 1.) GKM–HM–KvVM együttes rendelet 25. § (3) bekezdésének a) pontja, a 46/2008. (XII. 31.) KHEM rendelet 1. §-a, az 56/2011. (XI. 8.) NFM rendelet 8. § (2) bekezdése és 10. § (2) bekezdés b)–e) pontja, a 91/2011. (XII. 30.) NFM rendelet 9. § c)–d) pontja, a 6/2013. (II. 22.) NFM rendelet 2. §-a szerint módosított szöveg.
+b) tájékoztassák a légijárművezetőt az eltérésről, és kérjék fel őt, hogy a légijárműre vonatkozó helyzet- és azonosságtájékoztatás fenntartása érdekében folytassa „C” módú üzemét, és tájékoztassák:
+
+[^6]: A 2. számú melléklet a 115/2005. (XII. 27.) GKM rendelet 2. §-ával megállapított, a 83/2006. (XII. 13.) GKM rendelet 5. § (3) bekezdése, a 26/2007. (III. 1.) GKM–HM–KvVM együttes rendelet 25. § (3) bekezdésének a) pontja, a 46/2008. (XII. 31.) KHEM rendelet 1. §-a, az 56/2011. (XI. 8.) NFM rendelet 8. § (2) bekezdése és 10. § (2) bekezdés b)–e) pontja, a 91/2011. (XII. 30.) NFM rendelet 9. § c)–d) pontja, a 6/2013. (II. 22.) NFM rendelet 2. §-a, a 15/2014. (IV. 3.) NFM rendelet 2. §-a szerint módosított szöveg.
