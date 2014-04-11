@@ -50,15 +50,23 @@ cc)[^236] a nem határozattal záruló helyszíni ellenőrzés esetén a jegyző
 
 terjeszthető elő. Részletfizetés engedélyezése esetén a jogosulatlanul igénybe vett támogatási összegre vonatkozóan engedélyezett részleteket a visszafizetés napjáig terheli a 105. § (4) bekezdése és 106. § (1) bekezdése szerinti kamat.
 
-(7)[^237] Az Áht. 57/A. § (2) bekezdése szerinti beszedési megbízást a Kincstár abban az esetben nyújtja be, ha
+(7)[^237] Az Áht. 57/A. § (2) bekezdése szerinti beszedési megbízást a Kincstár akkor nyújtja be, ha a helyi önkormányzat
 
-a)[^238] a helyi önkormányzatok általános működéséhez és ágazati feladataihoz kapcsolódó támogatások igénylés évében történő módosításához kapcsolódó fizetési kötelezettségét a központi költségvetésről szóló törvényben meghatározott határidő leteltét,
+a) a helyi önkormányzatok általános működéséhez és ágazati feladataihoz kapcsolódó támogatások igénylés évében történő módosításához kapcsolódó fizetési kötelezettségét a központi költségvetésről szóló törvényben meghatározott határidő leteltét,
 
-b) az elszámoláshoz kapcsolódó fizetési kötelezettségét a (2) bekezdésben megjelölt határidő leteltét, vagy
+b) az Áht. 14. § (3) bekezdése szerinti fejezetéből folyósított költségvetési támogatásokkal kapcsolatosan
 
-c) az elszámolás felülvizsgálatához kapcsolódó fizetési kötelezettségét a felhívás elfogadását, illetve a határozat jogerőre emelkedését
+ba) a 83. § (2) bekezdése szerinti okiratban megállapított fizetési kötelezettségét a 84. § (4) bekezdésében meghatározott határidő leteltét,
 
-követő kilencven napon belül a kötelezett nem teljesítette.
+bb) az Áht. 59. § (3) bekezdése szerinti határozatban megállapított fizetési kötelezettségét a 104. § (1a) bekezdésében meghatározott határidő leteltét,
+
+c) az Áht. 57. § (4) bekezdése szerinti
+
+ca) elszámolásban megállapított fizetési kötelezettségét a (2) bekezdésben megjelölt határidő leteltét, vagy
+
+cb) elszámolás felülvizsgálata során megállapított fizetési kötelezettségét a felhívás elfogadását, illetve a határozat jogerőre emelkedését
+
+követő kilencven napon belül nem teljesítette.
 
 [^226]: Az Ávr. 104. § a 413/2012. (XII. 29.) Korm. rendelet 22. §-ával megállapított szöveg.
 [^227]: Az Ávr. 104. § (1) bekezdés nyitó szövegrésze a 497/2013. (XII. 29.) Korm. rendelet 63. § (3) bekezdés 10. pontja szerint módosított szöveg.
@@ -71,5 +79,4 @@ követő kilencven napon belül a kötelezett nem teljesítette.
 [^234]: Az Ávr. 104. § (4) bekezdés a) pontja a 497/2013. (XII. 29.) Korm. rendelet 63. § (3) bekezdés 12. pontja szerint módosított szöveg.
 [^235]: Az Ávr. 104. § (6) bekezdése a 307/2013. (VIII. 14.) Korm. rendelet 13. § (3) bekezdésével megállapított, záró szövegrésze a 23/2014. (II. 6.) Korm. rendelet 6. § (2) bekezdés 1. pontja szerint módosított szöveg.
 [^236]: [A 497/2013. (XII. 29.) Korm. rendelet 63. § (4) bekezdés 1. pontjával elrendelt módosítás, amely szerint a 104. § (6) bekezdés c) pont cc) alpontjában hatályát veszti az „A határidő elmulasztása jogvesztő.” szövegrész, nem vezethető át.]
-[^237]: Az Ávr. 104. § (7) bekezdése a 307/2013. (VIII. 14.) Korm. rendelet 13. § (3) bekezdésével megállapított, záró szövegrésze a 23/2014. (II. 6.) Korm. rendelet 6. § (2) bekezdés 2. pontja szerint módosított szöveg.
-[^238]: Az Ávr. 104. § (7) bekezdés a) pontja a 497/2013. (XII. 29.) Korm. rendelet 63. § (3) bekezdés 12. pontja szerint módosított szöveg.
+[^237]: Az Ávr. 104. § (7) bekezdése a 129/2014. (IV. 10.) Korm. rendelet 11. §-ával megállapított szöveg.
