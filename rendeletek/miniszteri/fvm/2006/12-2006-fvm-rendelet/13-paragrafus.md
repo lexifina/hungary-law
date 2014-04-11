@@ -1,4 +1,4 @@
-## 12. §[^3] A védett eredetű bor előállításához szüretelt szőlő származási bizonyítványát a szüretnek a hegyközség választmánya által meghatározott kezdési időpontja után, a helyszínen becsült szőlőtermés mennyiségének és mustfokának megállapítását követően a hegybíró adja ki „Somlói védett eredetű bor készítésére alkalmas” megjelöléssel.
+## 12. §[^4] A védett eredetű bor előállításához szüretelt szőlő származási bizonyítványát a szüretnek a hegyközség választmánya által meghatározott kezdési időpontja után, a helyszínen becsült szőlőtermés mennyiségének és mustfokának megállapítását követően a hegybíró adja ki „Somlói védett eredetű bor készítésére alkalmas” megjelöléssel.
 
 ## A mintavétel és készletezés szabályai
 
@@ -8,4 +8,4 @@
 
 (3) A palackozás befejezése után a termelő köteles a Hegyközségi Tanács által fenntartott pincében három darab palackot elhelyezni, amelyet a Hegyközségi Tanács mintaként megőriz mindaddig, amíg a termelő nem jelzi készletének kifogyását, de legalább a minta leadását követő öt évig. A mintát ezt követően a minta leadójának vissza kell adni.
 
-[^3]: A 12. § a 114/2007. (X. 10.) FVM rendelet 3. §-ával megállapított szöveg.
+[^4]: A 12. § a 114/2007. (X. 10.) FVM rendelet 3. §-ával megállapított szöveg.
