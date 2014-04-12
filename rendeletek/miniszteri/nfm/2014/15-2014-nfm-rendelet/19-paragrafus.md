@@ -1,6 +1,4 @@
-## 18. § Az R4. 16. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-## „(2) Repülőtéren üzemeltetett légiforgalmi földi rádióállomás kezelésének megkezdése előtt az engedélyesnek el kell végeznie a repülőtér üzemben tartója által szervezett, az adott repülőtér működésére, valamint a használt berendezésre vonatkozó képzést.”
+## 17–18. §[^10]
 
 ## 5. Záró rendelkezések
 
@@ -11,3 +9,5 @@
 (3) A 16. § (3) bekezdése, valamint az 5. melléklet 2014. június 1-jén lép hatályba.
 
 (4) A 15. § (3) bekezdése 2015. március 31-én lép hatályba.
+
+[^10]: A 17–18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
