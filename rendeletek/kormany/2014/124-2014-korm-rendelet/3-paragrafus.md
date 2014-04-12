@@ -1,1 +1,3 @@
-## „a) a csekély összegű (de minimis) támogatás jogcímeken a halászati de minimis rendelet 3. cikk (2) bekezdésében, a régi általános de minimis rendelet 2. cikk (2) bekezdésében, valamint az általános de minimis rendelet 3. cikk (2) bekezdésében meghatározott összegek ne kerüljenek túllépésre, továbbá”
+## 1–2. §[^1]
+
+[^1]: Az 1–2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
