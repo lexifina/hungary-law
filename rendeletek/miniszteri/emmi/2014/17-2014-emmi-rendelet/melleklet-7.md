@@ -38,6 +38,4 @@
 
 ## 19. Pedagógus-kézikönyv esetén annak a tantárgynak, műveltségi területnek a megnevezése, amelyhez módszertanilag javasolt a használata.
 
-7. melléklet a 17/2014. (III. 12.) EMMI rendelethez[^3]
-
-[^3]: A 7. melléklet a 39. § (2) bekezdése alapján 2014. április 12-én lép hatályba.
+7. melléklet a 17/2014. (III. 12.) EMMI rendelethez
