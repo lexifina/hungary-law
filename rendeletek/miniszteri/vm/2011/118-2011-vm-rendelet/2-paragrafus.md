@@ -14,11 +14,11 @@
 
 6. benzingőz/benzin arány: a II. fázisú benzingőz-visszanyerő rendszeren áthaladó benzingőz légköri nyomáson mért térfogatának és a kútoszlopnál mért benzin térfogatának az aránya;
 
-7. cél-referenciaérték: a technikai intézkedések megfelelőségének általános értékeléséhez adott, határértéknek nem minősülő iránymutatás, amelyhez viszonyítva mérhető az egyes létesítmények, tárolótelepek és töltőállomások teljesítménye;
+7.[^1]
 
-8. felújított töltőállomás: az a töltőállomás, amelynek felújítását vagy átalakítását építési engedély, használatbavételi engedély vagy az éghető folyadékok és olvadékok tárolótartályairól szóló rendeletben szabályozott javítási engedély alapján végezték el;
+8.[^2] felújítás: meglévő töltőállomás műtárgyainak olyan átalakítása, amely az éghető folyadékok és olvadékok tárolótartályairól szóló miniszteri rendelet szerint létesítési vagy használatbavételi engedély birtokában végezhető el;
 
-9. forgalom: a szállítótartályokból a töltőállomásra lefejtett benzin éves mennyisége;
+9.[^3] forgalom: a szállító tartályokból a töltőállomásra lefejtett benzin éves mennyisége, amelyet az egy naptári évnél hosszabb ideje működő töltőállomásoknál az előző évben lefejtett mennyiség alapján, az ennél rövidebb ideje működő vagy engedélyezés alatt álló töltőállomásoknál a tervezett éves lefejtésre kerülő mennyiség alapján kell meghatározni;
 
 10. hajó: a víziközlekedésről szóló törvény szerinti, kizárólag vagy jellemzően belvízi utakon közlekedő hajó;
 
@@ -38,6 +38,11 @@
 
 18. töltőhely: tárolótelepen lévő szerkezet, amelynél egy adott időpontban csak egyetlen közúti tartálykocsiba tölthető benzin;
 
-19. új töltőállomás: olyan töltőállomás, amely 2012. január 1-jén vagy azt követően kapott elvi építési, építési, használatbavételi vagy fennmaradási engedélyt;
+19.[^4] új töltőállomás: olyan töltőállomás, amely a 11. pont szerint nem minősül meglévő töltőállomásnak;
 
 20. véggázkezelő berendezés: az a berendezés és műszaki eljárás, így különösen a gőzvisszatartó berendezés (úszófedeles tartály), adszorpciós eljárás vagy véggázégetés, amellyel a tárolóberendezésből vagy szállítótartályból kilépő levegő benzingőz tartalmát csökkentik.
+
+[^1]: A 2. § 7. pontját a 38/2014. (IV. 4.) VM rendelet 8. § a) pontja hatályon kívül helyezte.
+[^2]: A 2. § 8. pontja a 38/2014. (IV. 4.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^3]: A 2. § 9. pontja a 38/2014. (IV. 4.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^4]: A 2. § 19. pontja a 38/2014. (IV. 4.) VM rendelet 1. § (2) bekezdésével megállapított szöveg.
