@@ -1,4 +1,4 @@
-## 12. §[^1]
+## 12. §[^2]
 
 13. § (1) Műemlékké nyilvánítom a Nógrád megyei Pásztó vasútállomásának felvételi épületét, a vízházat és két toldaléképületét, amely a 203/3 hrsz.-ú ingatlanon található.
 
@@ -10,4 +10,4 @@
 
 (5) A műemléki védelem célja az 1890-ben MÁV típusterv felhasználásával készült épületegyüttes megőrzése az utókor számára, mely jól illeszkedik a településszerkezetbe, és hordozza a XIX. század második fele és a századforduló építészeti és kultúrtörténeti jegyeit.
 
-[^1]: A 12. §-t a 79/2013. (XII. 20.) BM rendelet 3. § (2) bekezdése hatályon kívül helyezte.
+[^2]: A 12. §-t a 79/2013. (XII. 20.) BM rendelet 3. § (2) bekezdése hatályon kívül helyezte.
