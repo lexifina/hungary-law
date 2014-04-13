@@ -1,4 +1,4 @@
-## 23. §[^4]
+## 23. §[^2]
 
 1. melléklet a 16/2014. (III. 13.) KIM rendelethez
 
@@ -106,4 +106,4 @@
 
 12.2. címe
 
-[^4]: A 23. § a 22. § (3) bekezdése alapján 2014. szeptember 1-jén lép hatályba.
+[^2]: A 23. § a 22. § (3) bekezdése alapján 2014. szeptember 1-jén lép hatályba.
