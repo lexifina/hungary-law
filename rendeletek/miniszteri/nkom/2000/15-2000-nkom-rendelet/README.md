@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-15-20-8
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2005-04-14 | 2000-15-20-86.2 | 15/2000. (IX. 15.) NKÖM rendelet |
+| 2014-04-13 | 2000-15-20-86.3 | 31/2014. (IV. 10.) BM rendelet |
