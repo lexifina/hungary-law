@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2014-13-00-00
 | --- | --- | --- |
 | 2014-02-22 | 2014. évi XIII. törvény | 2014-13-00-00.0 (közlönyállapot) |
 | 2014-02-22 | Nemzeti Jogszabálytár (egységes szerkezet) | 2014-13-00-00.1 |
+| 2014-04-13 | Nemzeti Jogszabálytár (egységes szerkezet) | 2014-13-00-00.2 |
