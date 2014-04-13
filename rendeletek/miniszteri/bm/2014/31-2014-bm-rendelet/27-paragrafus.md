@@ -1,0 +1,1 @@
+## 26. § Az Országos Műemléki Felügyelőség 7566/17/1980. számú határozatával védetté nyilvánított, Letkés (Pest megye), 0186/1 helyrajzi számon nyilvántartott ingatlan műemléki védettségét – a műemléki érték megsemmisülésére tekintettel – megszüntetem.

@@ -1,0 +1,1 @@
+## 44. § Az Országos Műemléki Felügyelőség 12716/1973. számú határozatával védetté nyilvánított, Piskó (Baranya megye), 109 helyrajzi számú ingatlan műemléki védettségét – a műemléki érték megsemmisülésére tekintettel – megszüntetem.

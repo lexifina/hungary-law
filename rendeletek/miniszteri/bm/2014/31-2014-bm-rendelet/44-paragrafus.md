@@ -1,0 +1,1 @@
+## 43. § Az Országos Műemléki Felügyelőség 3884/32/1985. számú határozatával védetté nyilvánított, Pécsvárad (Baranya megye), 967 helyrajzi számú ingatlan műemléki védettségét – a műemléki érték megsemmisülésére tekintettel – megszüntetem.

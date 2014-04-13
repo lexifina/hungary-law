@@ -1,0 +1,1 @@
+## 18. § Az Országos Műemléki Felügyelőség 8101/1967. számú határozatával védetté nyilvánított, Horvátlövő (Vas megye), 38 helyrajzi számon nyilvántartott ingatlan műemléki védettségét – a műemléki érték megsemmisülésére tekintettel – megszüntetem.

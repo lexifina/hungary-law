@@ -1,0 +1,1 @@
+## 56. § Az egyes ingatlanok műemlékké, valamint műemléki jelentőségű területté nyilvánításáról, illetőleg műemléki védettségének megszüntetéséről szóló 14/2005. (IV. 5.) NKÖM rendelettel védetté nyilvánított, Vác (Pest megye), 3565 helyrajzi számú ingatlan műemléki védettségét – a műemléki érték megsemmisülésére tekintettel – megszüntetem.
