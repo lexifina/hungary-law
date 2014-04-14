@@ -1,3 +1,0 @@
-6. § (1) Az ITDH és a minisztérium a 4. § (1) bekezdés a)–f) pontja szerinti feladatok végrehajtására szerződést köt, amely rögzíti az ellátandó feladatokat, a támogatás igénybevételének folyósítási ütemét, a támogatással való elszámolás módját, az ITDH által vállalt kötelezettségek nem teljesítése vagy a támogatás nem rendeltetésszerű felhasználása esetén alkalmazható szankciókat. A 4. § (1) bekezdés g) pontja esetében a 7. § (2) bekezdésében foglaltak szerint kell eljárni.
-
-(2) A támogatást nem rendeltetésszerű felhasználás esetén a kamattal növelt összeggel kell visszafizetni. A kamat nagysága a támogatás visszavonása időpontjában érvényes jegybanki alapkamat kétszerese.
