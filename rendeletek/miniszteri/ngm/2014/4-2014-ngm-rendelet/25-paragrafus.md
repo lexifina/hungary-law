@@ -16,6 +16,6 @@
 
 (8) A költségvetési támogatás vissza nem térítendő támogatás.
 
-(9)[^3] Az előirányzat kezelő szerve a Közigazgatási és Igazságügyi Hivatal.
+(9)[^5] Az előirányzat kezelő szerve a Közigazgatási és Igazságügyi Hivatal.
 
-[^3]: A 25. § (9) bekezdését a 9/2014. (II. 17.) NGM rendelet 3. §-a iktatta be.
+[^5]: A 25. § (9) bekezdését a 9/2014. (II. 17.) NGM rendelet 3. §-a iktatta be.

@@ -14,6 +14,9 @@ c) közvetlen kifizetéssel, a feladat ellátásával megbízott gazdasági tár
 
 (4) A költségvetési támogatás vissza nem térítendő támogatás.
 
-(5) A 2012. évi kereskedelemfejlesztési pályázatok támogatására felhasználható, 2013. december 31-én kötelezettségvállalással terhelt költségvetési maradvány lebonyolító szerve a Nemzeti Külgazdasági Hivatal, amely e tevékenységét a MAG – Magyar Gazdaságfejlesztési Központ Zrt. (a továbbiakban: MAG Zrt.) bevonásával végzi.
+(5)[^3] A 2012. évi kereskedelemfejlesztési pályázatok támogatására felhasználható, 2013. december 31-én kötelezettségvállalással terhelt költségvetési maradvány lebonyolító szerve a Nemzeti Külgazdasági Hivatal.
 
-(6) A 2013. december 31-én kötelezettségvállalással terhelt költségvetési maradvány és a 2014. évi eredeti előirányzat, valamint az év közben biztosított forrás terhére kiírandó pályázatok lebonyolító szerve a MAG Zrt.
+(6)[^4]
+
+[^3]: A 21. § (5) bekezdése a 18/2014. (IV. 10.) NGM rendelet 1. §-ával megállapított szöveg.
+[^4]: A 21. § (6) bekezdését a 18/2014. (IV. 10.) NGM rendelet 2. §-a hatályon kívül helyezte.
