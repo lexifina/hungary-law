@@ -1,4 +1,4 @@
-## 2. § A honvédségi szervezetnél foglalkoztatott kormánytisztviselő (a továbbiakban: kormánytisztviselő) részére e rendelet alapján kizárólag EMC utalvány adható.
+## 2. §[^2] A honvédségi szervezetnél foglalkoztatott kormányzati szolgálati jogviszonyban álló személy (a továbbiakban: kormánytisztviselő) részére e rendelet alapján kizárólag EMC utalvány adható.
 
 3. § (1) A hivatásos és szerződéses állomány (a továbbiakban együtt: állomány) azon tagja, a honvédelmi szervezetnél foglalkoztatott azon közalkalmazott (a továbbiakban: közalkalmazott) és az a kormánytisztviselő, aki nem tartozik a (2) bekezdés hatálya alá, havonta étkezési utalványra jogosult.
 
@@ -29,3 +29,5 @@ a) aki csak a hónap egy részében tartozik a (2) bekezdés hatálya alá, vagy
 b) akinek a jogviszonya hónap közben keletkezik vagy szűnik meg.
 
 (4) Az egy naptári napra eső utalvány értékét úgy kell megállapítani, hogy az étkezési utalvány teljes hónapra járó összegét el kell osztani az adott hónap naptári napjainak számával. Papíralapú utalvány esetén a tényleges jogosultsági időre járó összeget fel kell kerekíteni az összeget meghaladó legkisebb címletű utalvány összegéig.
+
+[^2]: A 2. § a 6/2014. (IV. 14.) HM rendelet 26. § a) pontja szerint módosított szöveg.
