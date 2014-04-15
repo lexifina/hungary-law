@@ -12,9 +12,9 @@ b) az igényelt támogatás célját a Civil tv. 56. § (1) bekezdés szerinti e
 
 c) a támogatás felhasználására vonatkozó bevételi és a 7. melléklet szerinti költségvetési tervet (együttesen benyújtott támogatási igény esetén főpályázó és társpályázó szerinti bontásban, valamint összesítve), megjelölve a támogatási cél megvalósításához rendelkezésre álló önrész (saját és egyéb forrás) összegét;
 
-d) a kívánt finanszírozás módját (előfinanszírozás, utófinanszírozás, visszatérítendő vagy nem visszatérítendő költségvetési támogatás);
+d)[^3] a kívánt finanszírozás módját (támogatási előleg folyósítására vonatkozó igény, visszatérítendő vagy nem visszatérítendő költségvetési támogatás);
 
-e) szükség szerint a támogatást igénylő szervezet kérelmét az előfinanszírozásra vonatkozóan, figyelemmel az Ávr. 78. § (2) bekezdésére és 79. § (1) bekezdésére;
+e)[^4] szükség szerint a támogatást igénylő szervezet kérelmét a támogatási előleg folyósítására vonatkozóan, figyelemmel az Ávr. 79. §-ában foglaltakra;
 
 f) a támogatási cél megvalósításának kezdő és befejező időpontját (támogatási időszak);
 
@@ -39,3 +39,5 @@ i) a támogatási cél megvalósításához szükséges jogerős hatósági enge
 (3) Ha a támogatási igényhez kapcsolódóan a magyartól eltérő nyelvű dokumentumot csatoltak, annak magyar nyelvre fordított változatát is csatolni kell. A fordítás hitelességéről a támogatást igénylő szervezet képviselőjének kell nyilatkoznia.
 
 [^2]: A II. Fejezet (3–10. §) a 74/2013. (XII. 2.) EMMI rendelet 2. §-ával megállapított szöveg.
+[^3]: A 3. § (1) bekezdés d) pontja a 31/2014. (IV. 14.) EMMI rendelet 5. § a) pontja szerint módosított szöveg.
+[^4]: A 3. § (1) bekezdés e) pontja a 31/2014. (IV. 14.) EMMI rendelet 5. § b) pontja szerint módosított szöveg.

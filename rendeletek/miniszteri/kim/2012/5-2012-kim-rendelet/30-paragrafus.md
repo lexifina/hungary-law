@@ -20,6 +20,6 @@ d) hivatalos honlap.
 
 (6) Az internetes támogatáskezelő rendszeren keresztül benyújtott támogatási kérelem esetén az internetes támogatáskezelő rendszer üzenetei az Ávr. 89. § (1) bekezdése alapján a támogató és a kedvezményezett egymás irányába történő nyilatkozataik megtételére rendelkezésre álló határidők számítása szempontjából értesítésnek minősülnek.
 
-(7)[^22] Az internetes támogatáskezelő rendszer üzeneteit a civil szervezet részére az üzenet továbbításával egy időben a civil szervezet által megadott elektronikus levélcímre is meg kell küldeni, valamint mobiltelefonos elérhetőség rendelkezésre állása esetén a megküldésre vonatkozó lényeges adatot tartalmazó SMS üzenetet is továbbítani kell.
+(7)[^34] Az internetes támogatáskezelő rendszer üzeneteit a civil szervezet részére az üzenet továbbításával egy időben a civil szervezet által megadott elektronikus levélcímre is meg kell küldeni, valamint mobiltelefonos elérhetőség rendelkezésre állása esetén a megküldésre vonatkozó lényeges adatot tartalmazó SMS üzenetet is továbbítani kell.
 
-[^22]: A 30. § (7) bekezdése a 74/2013. (XII. 2.) EMMI rendelet 7. § f) pontja szerint módosított szöveg.
+[^34]: A 30. § (7) bekezdése a 74/2013. (XII. 2.) EMMI rendelet 7. § f) pontja szerint módosított szöveg.

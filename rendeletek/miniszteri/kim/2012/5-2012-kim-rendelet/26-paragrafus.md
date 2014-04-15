@@ -4,11 +4,11 @@
 
 26. § (1) A testület tagja első alkalommal megbízásakor, majd minden évre vonatkozóan tárgyév január 15. napjáig az 5. melléklet szerinti adatlapon nyilatkozik arról, hogy költségtérítést vagy költségátalányt kíván igénybe venni, valamint nyilatkozik az igénybevétel módjáról.
 
-(2)[^14] Költségtérítésként a testületi tag nevére szóló eredeti számviteli bizonylatokkal alátámasztott, a tárgyhavi költségeket igazoló kiadás legfeljebb a mindenkori kötelező legkisebb munkabér havi összegének feléig számolható el. E jogcímen különösen a telefon-, internet- és utazási költség számolható el.
+(2)[^26] Költségtérítésként a testületi tag nevére szóló eredeti számviteli bizonylatokkal alátámasztott, a tárgyhavi költségeket igazoló kiadás legfeljebb a mindenkori kötelező legkisebb munkabér havi összegének feléig számolható el. E jogcímen különösen a telefon-, internet- és utazási költség számolható el.
 
-(3)[^15] Költségátalányként a testületi tag legfeljebb a mindenkori kötelező legkisebb munkabér havi összegének harmadát jogosult igénybe venni.
+(3)[^27] Költségátalányként a testületi tag legfeljebb a mindenkori kötelező legkisebb munkabér havi összegének harmadát jogosult igénybe venni.
 
-(4)[^16] Nem jogosult költségátalányra vagy költségtérítésre a testület döntéseit rögzítő dokumentumot hitelesítő testületi tag, ha az adott hónapban a testület a hitelesített emlékeztető, jegyzőkönyv megküldésével öt napot meghaladóan késedelembe esett.
+(4)[^28] Nem jogosult költségátalányra vagy költségtérítésre a testület döntéseit rögzítő dokumentumot hitelesítő testületi tag, ha az adott hónapban a testület a hitelesített emlékeztető, jegyzőkönyv megküldésével öt napot meghaladóan késedelembe esett.
 
 (5) Ha a testület tagja úgy nyilatkozik, hogy tárgyhavi költségeit igazoló bizonylatokkal számol el, azokat a tárgyhót követő hónap tizenötödik napjáig kell az Alapkezelő részére benyújtania. A határidő elmulasztása jogvesztő hatályú.
 
@@ -18,6 +18,6 @@
 
 (8) A testületi tagok költségátalányának és költségtérítésének fedezetét biztosító forrást úgy kell elkülöníteni az év első napján hatályos jogszabályok alapján, hogy az elkülönített forrás a minden testületi tagra vetített költségtérítés teljes kihasználása esetén is elegendő legyen. E forrás év közben csak jogszabály rendelkezése alapján csökkenthető, valamint a tárgyév december hó első napján a testületi tagok nyilatkozatai és a tényleges átutalási adatok alapján számított várható értékre módosítható. A december hónapban e jogcímen tervezett, de felszabaduló forrás az Alap működtetésére használható fel.
 
-[^14]: A 26. § (2) bekezdése az 56/2012. (XII. 29.) EMMI rendelet 14. § (1) bekezdésével megállapított szöveg.
-[^15]: A 26. § (3) bekezdése a 74/2013. (XII. 2.) EMMI rendelet 7. § d) pontja szerint módosított szöveg.
-[^16]: A 26. § (4) bekezdése az 56/2012. (XII. 29.) EMMI rendelet 14. § (2) bekezdésével megállapított szöveg.
+[^26]: A 26. § (2) bekezdése az 56/2012. (XII. 29.) EMMI rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^27]: A 26. § (3) bekezdése a 74/2013. (XII. 2.) EMMI rendelet 7. § d) pontja szerint módosított szöveg.
+[^28]: A 26. § (4) bekezdése az 56/2012. (XII. 29.) EMMI rendelet 14. § (2) bekezdésével megállapított szöveg.

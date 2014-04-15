@@ -1,4 +1,4 @@
-## III. Fejezet[^3]
+## III. Fejezet[^14]
 
 ## AZ ALAP FELHASZNÁLÁSÁRA VONATKOZÓ KÜLÖNÖS SZABÁLYOK
 
@@ -16,4 +16,4 @@
 
 (6) A kollégium az általa hozott támogatási döntések adatait az internetes támogatáskezelő rendszerben rögzíti.
 
-[^3]: A III. Fejezet (11–14. §) a 74/2013. (XII. 2.) EMMI rendelet 3. §-ával megállapított szöveg.
+[^14]: A III. Fejezet (11–14. §) a 74/2013. (XII. 2.) EMMI rendelet 3. §-ával megállapított szöveg.
