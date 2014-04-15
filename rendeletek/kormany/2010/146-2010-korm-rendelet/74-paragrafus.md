@@ -1,6 +1,6 @@
-## 73. §[^33]
+## 73. §[^34]
 
-74. §[^34]
+74. §[^35]
 
-[^33]: A 73. §-t a 74. § hatályon kívül helyezte.
-[^34]: A 74. § ugyanezen § alapján hatályát vesztette.
+[^34]: A 73. §-t a 74. § hatályon kívül helyezte.
+[^35]: A 74. § ugyanezen § alapján hatályát vesztette.
