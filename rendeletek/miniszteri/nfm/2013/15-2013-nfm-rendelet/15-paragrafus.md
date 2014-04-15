@@ -1,4 +1,4 @@
-## kapcsolatos feladatok ellátásáról.
+## 14. §[^12]
 
 ## 15. § A Konstrukciók működtetésével kapcsolatosan
 
@@ -16,9 +16,9 @@ ae) a hiteligénylő lap benyújtójának hozzájárulása alapján kezeli a kam
 
 af) ellátja a Konstrukciók működtetésével, a kamattámogatással és a kezességi díjtámogatással összefüggésben az Üzletszabályzatban meghatározott feladatokat.
 
-b) a MAG Zrt.
+b)[^13] a Támogató
 
-ba) naprakész, tételes, évenkénti és hitelintézeti bontású nyilvántartást vezet a kamattámogatásról és a kezességi díjtámogatásról a KAVOSZ Zrt. és a Támogató által rendelkezésére bocsátott dokumentumok alapján,
+ba)[^14]
 
 bb) ellenőrzi a hitelintézetek kamattámogatás és kezességi díjtámogatás lehívásait, a KAVOSZ Zrt. által előzetesen megvizsgált, a teljesítés igazolását alátámasztó dokumentumokat, továbbá a támogatáslehívásban szereplő kedvezményezettek jogosultságát, a keret rendelkezésre állását, a kezességi díjra jutó támogatást,
 
@@ -29,3 +29,7 @@ bd) előzetesen ellenőrzi a kiutalások jogosságát és összegszerűségét,
 be) indokolt esetben felfüggeszti a kamattámogatás és a kezességi díjtámogatás folyósítását,
 
 bf) ellátja – a kamattámogatáshoz és a kezességi díjtámogatáshoz kapcsolódóan – a követeléskezelési és a 13. § (1) bekezdésében meghatározott ellenőrzési feladatokat.
+
+[^12]: A 14. §-t a 18/2014. (IV. 14.) NFM rendelet 10. § b) pontja hatályon kívül helyezte.
+[^13]: A 15. § b) pont nyitó szövegrésze a 18/2014. (IV. 14.) NFM rendelet 9. § b) pontja szerint módosított szöveg.
+[^14]: A 15. § b) pont ba) alpontját a 18/2014. (IV. 14.) NFM rendelet 10. § b) pontja hatályon kívül helyezte.
