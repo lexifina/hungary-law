@@ -1,9 +1,5 @@
 ## 69. §
 
-## 47. ESZA Nonprofit Kft. támogatása (17-20-37-5, ÁHT: 271223)
+## 47.[^75]
 
-70. § (1) Az előirányzat célja vissza nem térítendő támogatás nyújtása az ESZA Nonprofit Kft.-nek a közhasznú feladatai ellátására, így különösen a hazai költségvetési forrásokból, illetve az Európai Unió által társfinanszírozott munkaerőpiaci integrációs, ifjúsági, képzési, szociális, kábítószerügyi, gyermek és ifjúsági célú, gyermekjóléti, hátrányos helyzetű csoportok lakhatási és szociális integrációját elősegítő programok, támogatási konstrukciók tárgyévi feladatellátásával összefüggő teendők (pályázati értékelés, szerződéskötés, támogatás lehívás biztosítása, beszámoltatás, ellenőrzés, lezárás, tájékoztatás, honlap és adatbázis frissítés) finanszírozása, ide nem értve a közreműködő szervezeti tevékenység kapcsán a szolgáltatási szint szerződések (a továbbiakban: SLA) keretében elszámolt feladatok díját. Az előirányzat felhasználható továbbá a Phare programokhoz kapcsolódó utánkövetési feladatok ellátásának támogatására.
-
-(2)[^73] A miniszter a támogatás felhasználásáról az ESZA Nonprofit Kft.-vel támogatási szerződésben állapodik meg. A támogatás rendelkezésre bocsátására a kedvezményezett részére történő kifizetéssel kerül sor. A kedvezményezett részére nyújtott támogatás utólagos elszámolással folyósítható.
-
-[^73]: A 70. § (2) bekezdése a 16/2014. (IV. 3.) NFM rendelet 27. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^75]: A 47. alcímet (70. §) a 18/2014. (IV. 14.) NFM rendelet 12. § b) pontja hatályon kívül helyezte.

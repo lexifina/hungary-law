@@ -2,7 +2,7 @@
 
 ## 35. Épületenergetikai és energiahatékonysági célelőirányzat (17-20-35-3, ÁHT: 302791)
 
-53. § (1)[^56] Az előirányzat célja támogatás nyújtása egy- vagy többlakásos lakóépületeken, lakásokon, családi házakon, egyéb lakóingatlanokon és középületeken történő energiahatékonyságot növelő beruházásokra, alacsony energiafelhasználású lakóépületek, lakások építésének ösztönzésére, illetve további energiahatékonyságot növelő, energia-megtakarítást eredményező beruházásokra, mintaprojektek támogatására, valamint zöldgazdaság-fejlesztéssel és energetikával összefüggő hazai és nemzetközi pályázatokon történő részvételhez szükséges – az Ávr. 76. § (2) bekezdése szerinti saját forrásnak nem minősülő – források finanszírozására.
+53. § (1)[^58] Az előirányzat célja támogatás nyújtása egy- vagy többlakásos lakóépületeken, lakásokon, családi házakon, egyéb lakóingatlanokon és középületeken történő energiahatékonyságot növelő beruházásokra, alacsony energiafelhasználású lakóépületek, lakások építésének ösztönzésére, illetve további energiahatékonyságot növelő, energia-megtakarítást eredményező beruházásokra, mintaprojektek támogatására, valamint zöldgazdaság-fejlesztéssel és energetikával összefüggő hazai és nemzetközi pályázatokon történő részvételhez szükséges – az Ávr. 76. § (2) bekezdése szerinti saját forrásnak nem minősülő – források finanszírozására.
 
 (2) Az előirányzatból a következő tevékenységek finanszírozhatók:
 
@@ -28,7 +28,7 @@ h) energia-megtakarítással járó beruházások és azok előkészítésének 
 
 i) energiatakarékossági szemlélet kialakításának támogatása,
 
-j)[^57] európai uniós zöldgazdaság-fejlesztési és energetikai mintaprojektek megvalósításának támogatása, illetve hazai és nemzetközi pályázatokon való részvételhez szükséges – az Ávr. 76. § (2) bekezdése szerinti saját forrásnak nem minősülő – forrás, valamint a nyertes projektek végrehajtásához szükséges költségek finanszírozása a következő témakörökben:
+j)[^59] európai uniós zöldgazdaság-fejlesztési és energetikai mintaprojektek megvalósításának támogatása, illetve hazai és nemzetközi pályázatokon való részvételhez szükséges – az Ávr. 76. § (2) bekezdése szerinti saját forrásnak nem minősülő – forrás, valamint a nyertes projektek végrehajtásához szükséges költségek finanszírozása a következő témakörökben:
 
 ja) regionális energiakoncepciók, stratégiák kialakítása, összehasonlítása,
 
@@ -38,7 +38,7 @@ jc) Magyarországon megvalósuló környezetbarát technológiai fejlesztés, in
 
 jd) zöldgazdaság-fejlesztéssel, energetikával összefüggő tudásmegosztás, legjobb nemzetközi gyakorlatok átvétele, standardok kialakítása.
 
-(3)[^58] Az előirányzatból támogatás – a (2) bekezdés h)–j) pontjában foglaltak kivételével – kizárólag pályázat útján
+(3)[^60] Az előirányzatból támogatás – a (2) bekezdés h)–j) pontjában foglaltak kivételével – kizárólag pályázat útján
 
 a) visszafizetési kötelezettség nélküli végleges juttatás (a továbbiakban: vissza nem térítendő támogatás), ezen belül támogatás, illetve kamattámogatás, vagy
 
@@ -50,11 +50,11 @@ b) visszatérítendő támogatás formájában
 
 (5) Az előirányzat fedezetet nyújt a (2) bekezdés h)–j) pontja szerinti tevékenységek ellátásához, amelynek feltételeit az erre vonatkozó támogatási, vállalkozási, megbízási, hazai társfinanszírozási, illetve partnerségi megállapodás tartalmazza.
 
-(6)[^59]
+(6)[^61]
 
 (7) A pályázat benyújtása előtt megkezdett beruházásra támogatás nem nyújtható. A beruházás megkezdése időpontjának – ha a pályázati kiírás eltérően nem rendelkezik – építési beruházás esetén az építési naplóba történt első bejegyzés időpontját, egyéb beruházás esetében az első pénzügyi teljesítés időpontját kell tekinteni.
 
-[^56]: Az 53. § (1) bekezdése a 16/2014. (IV. 3.) NFM rendelet 26. § d) pontja szerint módosított szöveg.
-[^57]: Az 53. § (2) bekezdés j) pont nyitó szövegrésze a 16/2014. (IV. 3.) NFM rendelet 26. § e) pontja szerint módosított szöveg.
-[^58]: Az 53. § (3) bekezdés nyitó szövegrésze a 16/2014. (IV. 3.) NFM rendelet 27. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^59]: Az 53. § (6) bekezdését a 16/2014. (IV. 3.) NFM rendelet 27. § (1) bekezdése hatályon kívül helyezte.
+[^58]: Az 53. § (1) bekezdése a 16/2014. (IV. 3.) NFM rendelet 26. § d) pontja szerint módosított szöveg.
+[^59]: Az 53. § (2) bekezdés j) pont nyitó szövegrésze a 16/2014. (IV. 3.) NFM rendelet 26. § e) pontja szerint módosított szöveg.
+[^60]: Az 53. § (3) bekezdés nyitó szövegrésze a 16/2014. (IV. 3.) NFM rendelet 27. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^61]: Az 53. § (6) bekezdését a 16/2014. (IV. 3.) NFM rendelet 27. § (1) bekezdése hatályon kívül helyezte.

@@ -1,5 +1,5 @@
 ## 48. §
 
-## 32.[^51]
+## 32.[^53]
 
-[^51]: A 32. alcímet (49. §) a 16/2014. (IV. 3.) NFM rendelet 27. § (1) bekezdése hatályon kívül helyezte.
+[^53]: A 32. alcímet (49. §) a 16/2014. (IV. 3.) NFM rendelet 27. § (1) bekezdése hatályon kívül helyezte.
