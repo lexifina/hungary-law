@@ -12,7 +12,7 @@
 
 |  | Prioritás | Többletkötelezettség- vállalás összege (Mrd Ft) | Többletkötelezettség- vállalás összegének tervezett EU része (Mrd Ft) | Többletkötelezettség- vállalás összegének tervezett Hazai része (Mrd Ft) | Hazai részből tervezett public saját erő (Mrd Ft) | Többletkötelezettség- vállalás összegéből tervezett kifizetése – éves bontásban– 2012–2015 |
 
-3. melléklet a 4/2011. (I. 28.) Korm. rendelethez[^535]
+3. melléklet a 4/2011. (I. 28.) Korm. rendelethez[^541]
 
 Az irányító hatóság és a közreműködő szervezet kijelölése
 
@@ -20,108 +20,108 @@ Az irányító hatóság és a közreműködő szervezet kijelölése
 
 | 1 | Operatív program | Prioritás | Intézkedés | A Kormánynak az európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt tagja | Közreműködő szervezet |
 
-| 2 | Államreform Operatív Program |  |  | a Kormány európai uniós források felhasználásáért felelős tagja | MAG - Magyar Gazdaságfejlesztési Központ Zrt. |
+| 2 | Államreform Operatív Program | a Kormány európai uniós források felhasználásáért felelős tagja | – |
 
-| 3 | Elektronikus Közigazgatás Operatív Program |  |  | a Kormány európai uniós források felhasználásáért felelős tagja | MAG - Magyar Gazdaságfejlesztési Központ Zrt. |
+| 3 | Elektronikus Közigazgatás Operatív Program | a Kormány európai uniós források felhasználásáért felelős tagja | – |
 
-| 4 | Gazdaságfejlesztési Operatív Program |  |  | nemzetgazdasági miniszter | MAG - Magyar Gazdaságfejlesztési Központ Zrt. |
+| 4 | Gazdaságfejlesztési Operatív Program | nemzetgazdasági miniszter | – |
 
-| 5 | Környezet és Energia Operatív Program |  |  | nemzeti fejlesztési miniszter | NKEK Nemzeti Környezetvédelmi és Energia Központ Nonprofit Kft. |
+| 5 | Környezet és Energia Operatív Program | nemzeti fejlesztési miniszter | – |
 
-| 6 | Közlekedés Operatív Program |  |  | nemzeti fejlesztési miniszter | KIKSZ Közlekedésfejlesztési Zrt. |
+| 6 | Közlekedés Operatív Program | nemzeti fejlesztési miniszter | – |
 
-| 7 | Dél-alföldi Operatív Program | Regionális gazdaságfejlesztés |  | nemzetgazdasági miniszter | Dél-alföldi Regionális Fejlesztési Ügynökség Nonprofit Kft. |
+| 7 | Dél-alföldi Operatív Program | Regionális gazdaságfejlesztés | nemzetgazdasági miniszter | Dél-alföldi Regionális Fejlesztési Ügynökség Nonprofit Kft. |
 
-| 8 |  | Turisztikai célú fejlesztések |  | Dél-alföldi Regionális Fejlesztési Ügynökség Nonprofit Kft. |
+| 8 | Turisztikai célú fejlesztések |
 
-| 9 |  | Közlekedési infrastruktúra fejlesztés |  | Dél-alföldi Regionális Fejlesztési Ügynökség Nonprofit Kft. |
+| 9 | Közlekedési infrastruktúra fejlesztés |
 
-| 10 |  | Humán-infrastruktúra fejlesztések |  | MAG - Magyar Gazdaságfejlesztési Központ Zrt. |
+| 10 | Humán-infrastruktúra fejlesztések |
 
-| 11 |  | Térségfejlesztési akciók |  | Dél-alföldi Regionális Fejlesztési Ügynökség Nonprofit Kft. |
+| 11 | Térségfejlesztési akciók |
 
-| 12 | Dél-dunántúli Operatív Program | A városi térségek fejlesztésére alapozott versenyképes gazdaság megteremtése |  | nemzetgazdasági miniszter | Dél-dunántúli Regionális Fejlesztési Ügynökség Közhasznú Nonprofit Kft. |
+| 12 | Dél-dunántúli Operatív Program | A városi térségek fejlesztésére alapozott versenyképes gazdaság megteremtése | Dél-dunántúli Regionális Fejlesztési Ügynökség Közhasznú Nonprofit Kft. |
 
-| 13 |  | A turisztikai potenciál erősítése a régióban |  | Dél-dunántúli Regionális Fejlesztési Ügynökség Közhasznú Nonprofit Kft. |
+| 13 | A turisztikai potenciál erősítése a régióban |
 
-| 14 |  | Humán közszolgáltatások fejlesztése |  | MAG - Magyar Gazdaságfejlesztési Központ Zrt. |
+| 14 | Humán közszolgáltatások fejlesztése |
 
-| 15 |  | Integrált városfejlesztési akciók támogatása |  | Dél-dunántúli Regionális Fejlesztési Ügynökség Közhasznú Nonprofit Kft. |
+| 15 | Integrált városfejlesztési akciók támogatása |
 
-| 16 |  | Az elérhetőség javítása és környezetfejlesztés |  | Dél-dunántúli Regionális Fejlesztési Ügynökség Közhasznú Nonprofit Kft. |
+| 16 | Az elérhetőség javítása és környezetfejlesztés |
 
-| 17 | Észak-alföldi Operatív Program | Regionális gazdaságfejlesztés |  | nemzetgazdasági miniszter | Észak-alföldi Regionális Fejlesztési Ügynökség Közhasznú Nonprofit Kft. |
+| 17 | Észak-alföldi Operatív Program | Regionális gazdaságfejlesztés | Észak-alföldi Regionális Fejlesztési Ügynökség Közhasznú Nonprofit Kft. |
 
-| 18 |  | Turisztikai célú fejlesztés |  | Észak-alföldi Regionális Fejlesztési Ügynökség Közhasznú Nonprofit Kft. |
+| 18 | Turisztikai célú fejlesztés |
 
-| 19 |  | Közlekedési feltételek javítása |  | Észak-alföldi Regionális Fejlesztési Ügynökség Közhasznú Nonprofit Kft. |
+| 19 | Közlekedési feltételek javítása |
 
-| 20 |  | Humán infrastruktúra fejlesztése |  | MAG - Magyar Gazdaságfejlesztési Központ Zrt. |
+| 20 | Humán infrastruktúra fejlesztése |
 
-| 21 |  | Város- és térségfejlesztés |  | Észak-alföldi Regionális Fejlesztési Ügynökség Közhasznú Nonprofit Kft. |
+| 21 | Város- és térségfejlesztés |
 
-| 22 | Észak-magyarországi Operatív Program | Versenyképes helyi gazdaság megteremtése |  | nemzetgazdasági miniszter | NORDA Észak-magyarországi Regionális Fejlesztési Ügynökség Közhasznú Nonprofit Kft. |
+| 22 | Észak-magyarországi Operatív Program | Versenyképes helyi gazdaság megteremtése | NORDA Észak- magyarországi Regionális Fejlesztési Ügynökség Közhasznú Nonprofit Kft. |
 
-| 23 |  | A turisztikai potenciál erősítése |  | NORDA Észak-magyarországi Regionális Fejlesztési Ügynökség Közhasznú Nonprofit Kft. |
+| 23 | A turisztikai potenciál erősítése |
 
-| 24 |  | Településfejlesztés |  | NORDA Észak-magyarországi Regionális Fejlesztési Ügynökség Közhasznú Nonprofit Kft. |
+| 24 | Településfejlesztés |
 
-| 25 |  | Humán közösségi infrastruktúra fejlesztése |  | MAG - Magyar Gazdaságfejlesztési Központ Zrt. |
+| 25 | Humán közösségi infrastruktúra fejlesztése |
 
-| 26 |  | Térségi közlekedés fejlesztése |  | NORDA Észak-magyarországi Regionális Fejlesztési Ügynökség Közhasznú Nonprofit Kft. |
+| 26 | Térségi közlekedés fejlesztése |
 
-| 27 | Közép-dunántúli Operatív Program | Regionális gazdaságfejlesztés |  | nemzetgazdasági miniszter | Közép-dunántúli Regionális Fejlesztési Ügynökség Közhasznú Nonprofit Kft. |
+| 27 | Közép-dunántúli Operatív Program | Regionális gazdaságfejlesztés |  | Közép-dunántúli Regionális Fejlesztési Ügynökség Közhasznú Nonprofit Kft. |
 
-| 28 |  | Regionális turizmusfejlesztés |  | Közép-dunántúli Regionális Fejlesztési Ügynökség Közhasznú Nonprofit Kft. és MAG - Magyar Gazdaságfejlesztési Központ Zrt. |
+| 28 | Regionális turizmusfejlesztés |
 
-| 29 |  | Fenntartható településfejlesztés |  | Közép-dunántúli Regionális Fejlesztési Ügynökség Közhasznú Nonprofit Kft. és MAG - Magyar Gazdaságfejlesztési Központ Zrt. |
+| 29 | Fenntartható településfejlesztés |
 
-| 30 |  | Helyi és térségi környezetvédelmi és közlekedési infrastruktúra fejlesztés |  | Közép-dunántúli Regionális Fejlesztési Ügynökség Közhasznú Nonprofit Kft. |
+| 30 | Helyi és térségi környezetvédelmi és közlekedési infrastruktúra fejlesztés |
 
-| 31 |  | Humán-infrastruktúra fejlesztés |  | MAG - Magyar Gazdaságfejlesztési Központ Zrt. |
+| 31 | Humán-infrastruktúra fejlesztés |
 
-| 32 | Nyugat-dunántúli Operatív Program | Regionális gazdaságfejlesztés |  | nemzetgazdasági miniszter | Nyugat-dunántúli Regionális Fejlesztési Ügynökség Közhasznú Nonprofit Kft. |
+| 32 | Nyugat- dunántúli Operatív Program | Regionális gazdaságfejlesztés | Nyugat-dunántúli Regionális Fejlesztési Ügynökség Közhasznú Nonprofit Kft. |
 
-| 33 |  | Turizmusfejlesztés - Pannon örökség megújítása |  | Nyugat-dunántúli Regionális Fejlesztési Ügynökség Közhasznú Nonprofit Kft. |
+| 33 | Turizmusfejlesztés - Pannon örökség megújítása |
 
-| 34 |  | Városfejlesztés |  | Nyugat-dunántúli Regionális Fejlesztési Ügynökség Közhasznú Nonprofit Kft. |
+| 34 | Városfejlesztés |
 
-| 35 |  | Környezetvédelmi és közlekedési infrastruktúra |  | Nyugat-dunántúli Regionális Fejlesztési Ügynökség Közhasznú Nonprofit Kft. |
+| 35 | Környezetvédelmi és közlekedési infrastruktúra |
 
-| 36 |  | Helyi és térségi közszolgáltatások fejlesztése |  | MAG - Magyar Gazdaságfejlesztési Központ Zrt. |
+| 36 | Helyi és térségi közszolgáltatások fejlesztése |
 
-| 37 | Közép-magyarországi Operatív program | A tudásalapú gazdaság innováció- és vállalkozás-orientált fejlesztése | Összes intézkedés, kivéve Helyi gazdaságfejlesztés, KKV-k pénzügyi eszközökhöz való hozzáférésének fejlesztése | nemzetgazdasági miniszter | MAG - Magyar Gazdaságfejlesztési Központ Zrt. |
+| 37 | Közép- magyarországi Operatív program | A tudásalapú gazdaság innováció- és vállalkozásorientált fejlesztése | Összes intézkedés, kivéve Helyi gazdaságfejlesztés, KKV-k pénzügyi eszközökhöz való hozzáférésének fejlesztése | Pro Regio Közép- Magyarországi Regionális Fejlesztési és Szolgáltató Nonprofit Közhasznú Kft. |
 
-| 38 |  |  | Helyi gazdaságfejlesztés | Pro Regio Közép- Magyarországi Regionális Fejlesztési és Szolgáltató Nonprofit Közhasznú Kft. |
+| 38 | Helyi gazdaságfejlesztés |
 
-| 39 |  | A versenyképesség keretfeltételeinek fejlesztése | A régión belüli közlekedési kapcsolatok fejlesztése | Pro Regio Közép- Magyarországi Regionális Fejlesztési és Szolgáltató Nonprofit Közhasznú Kft. |
+| 39 | A versenyképesség keretfeltételeinek fejlesztése | A régión belüli közlekedési kapcsolatok fejlesztése |
 
-| 40 |  |  | A közösségi közlekedés működési feltételeinek fejlesztése | Pro Regio Közép- Magyarországi Regionális Fejlesztési és Szolgáltató Nonprofit |
+| 40 | A közösségi közlekedés működési feltételeinek fejlesztése |
 
-| 41 |  |  | Az alternatív, környezetkímélő közlekedési módok térnyerésének támogatása | Pro Regio Közép- Magyarországi Regionális Fejlesztési és Szolgáltató Nonprofit Közhasznú Kft. |
+| 41 | Az alternatív, környezetkímélő közlekedési módok térnyerésének támogatása |
 
-| 42 |  | A régió vonzerejének fenntartható fejlesztése |  |  | Pro Regio Közép- Magyarországi Regionális Fejlesztési és Szolgáltató Nonprofit Közhasznú Kft. |
+| 42 | A régió vonzerejének fenntartható fejlesztése |
 
-| 43 |  | A humán közszolgáltatások intézményrendszerének fejlesztése | A munkaerő-piaci részvételt támogató infrastruktúra fejlesztése | ESZA Társadalmi Szolgáltató Nonprofit Korlátolt Felelősségű Társaság |
+| 43 | A humán közszolgáltatások intézményrendsze- rének fejlesztése | A munkaerő-piaci részvételt támogató infrastruktúra fejlesztése |
 
-| 44 |  |  | A felsőoktatási intézmények infrastruktúra fejlesztése | ESZA Társadalmi Szolgáltató Nonprofit Korlátolt Felelősségű Társaság |
+| 44 | A felsőoktatási intézmények infrastruktúra fejlesztése |
 
-| 45 |  |  | Az egészségügyi intézmények infrastruktúra fejlesztése | ESZA Társadalmi Szolgáltató Nonprofit Korlátolt Felelősségű Társaság |
+| 45 | Az egészségügyi intézmények infrastruktúra fejlesztése |
 
-| 46 |  |  | A társadalmi befogadást támogató infrastruktúra fejlesztése | ESZA Társadalmi Szolgáltató Nonprofit Korlátolt Felelősségű Társaság |
+| 46 |  |  | A társadalmi befogadást támogató infrastruktúra fejlesztése |  |  |
 
-| 47 |  |  | A lakosságközeli szociális szolgáltatási infrastruktúra fejlesztése | MAG - Magyar Gazdaságfejlesztési Központ Zrt. |
+| 47 | A lakosságközeli szociális szolgáltatási infrastruktúra fejlesztése |
 
-| 48 |  |  | A közoktatási intézmények infrastruktúra fejlesztése |  | MAG - Magyar Gazdaságfejlesztési Központ Zrt. |
+| 48 | A közoktatási intézmények infrastruktúra fejlesztése |
 
-| 49 |  |  | Elektronikus helyi közigazgatási infrastruktúra fejlesztése | MAG - Magyar Gazdaságfejlesztési Központ Zrt. |
+| 49 | Elektronikus helyi közigazgatási infrastruktúra fejlesztése |
 
-| 50 |  | Városi és települési területek megújítása |  | Pro Regio Közép- Magyarországi Regionális Fejlesztési és Szolgáltató Nonprofit Közhasznú Kft. |
+| 50 | Városi és települési területek megújítása |
 
-| 51 | Társadalmi Megújulás Operatív Program |  |  | emberi erőforrások minisztere | ESZA Társadalmi Szolgáltató Nonprofit Korlátolt Felelősségű Társaság |
+| 51 | Társadalmi Megújulás Operatív Program | emberi erőforrások minisztere | – |
 
-| 52 | Társadalmi Infrastruktúra Operatív Program |  |  | emberi erőforrások minisztere | ESZA Társadalmi Szolgáltató Nonprofit Korlátolt Felelősségű Társaság |
+| 52 | Társadalmi Infrastruktúra Operatív Program | emberi erőforrások minisztere | – |
 
-| 53 | Végrehajtás Operatív Program |  |  | a Kormány európai uniós források felhasználásáért felelős tagja | - |
+| 53 | Végrehajtás Operatív Program | a Kormány európai uniós források felhasználásáért felelős tagja | – |
 
-[^535]: A 3. melléklet az 548/2013. (XII. 30.) Korm. rendelet 42. §-ával megállapított szöveg
+[^541]: A 3. melléklet a 96/2014. (III. 25.) Korm. rendelet 3. § (5) bekezdésével megállapított szöveg. [A 127/2014. (IV. 10.) Korm. rendelet 4. § (2) bekezdésével elrendelt módosítás nem volt átvezethető.]

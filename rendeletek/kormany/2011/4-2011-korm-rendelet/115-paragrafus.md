@@ -4,16 +4,16 @@
 
 ## 45. Szervezeti kijelölések
 
-115. § (1)[^474] A Kormány a Gazdaságfejlesztési Operatív Program 4. Pénzügyi eszközök prioritásának, valamint a Közép-magyarországi Operatív Program KKV-k pénzügyi eszközökhöz való hozzáférésének fejlesztése intézkedésének végrehajtása érdekében forráskezelő szervezetként a Magyar Vállalkozásfinanszírozási Zártkörűen Működő Részvénytársaságot kizárólagos joggal kijelöli.
+115. § (1)[^478] A Kormány a Gazdaságfejlesztési Operatív Program 4. Pénzügyi eszközök prioritásának, valamint a Közép-magyarországi Operatív Program KKV-k pénzügyi eszközökhöz való hozzáférésének fejlesztése intézkedésének végrehajtása érdekében forráskezelő szervezetként a Magyar Vállalkozásfinanszírozási Zártkörűen Működő Részvénytársaságot kizárólagos joggal kijelöli.
 
 (2) A Kormány a Regionális Operatív Programok Akcióterveiben nevesített Regionális Tőkebefektetési Alap komponensek vonatkozásában alapkezelő szervezetként a Regionális Tőkealap-kezelő Zártkörűen Működő Részvénytársaságot kizárólagos joggal kijelöli.
 
 (3) A Kormány a 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alapból, az Európai Szociális Alapból és a Kohéziós Alapból származó támogatások felhasználása tekintetében közreműködő szervezetként a 3. mellékletben meghatározott szervezeteket jelöli ki.
 
-(4)[^475] A (3) bekezdés szerinti közreműködő szervezet az irányító hatósággal kötött teljesítményalapú finanszírozási szerződésben rögzített feladatmegosztás és feladatátadás alapján, bármely operatív program valamennyi prioritása végrehajtásában történő – az operatív programokban, illetve rendszerleírásokban rögzített munkamegosztást nem érintő – kiegészítő közreműködéssel is megbízható.
+(4)[^479] A (3) bekezdés szerinti közreműködő szervezet az irányító hatósággal kötött teljesítményalapú finanszírozási szerződésben rögzített feladatmegosztás és feladatátadás alapján, bármely operatív program valamennyi prioritása végrehajtásában történő – az operatív programokban, illetve rendszerleírásokban rögzített munkamegosztást nem érintő – kiegészítő közreműködéssel is megbízható.
 
-(5)[^476] A Közép-dunántúli Operatív Program 2007–2008-as Akcióterve keretében a 2. Regionális turizmusfejlesztés és 3. Fenntartható településfejlesztés prioritások esetében a közreműködő szervezeti feladatokat a Közép-dunántúli Regionális Fejlesztési Ügynökség Közhasznú Nonprofit Kft., valamint a MAG – Magyar Gazdaságfejlesztési Központ Zrt. látja el. A feladatmegosztás és feladatátadás részleteit a Közép-dunántúli Regionális Fejlesztési Ügynökség, a MAG – Magyar Gazdaságfejlesztési Központ Zrt. és a Nemzeti Fejlesztési Ügynökség között létrejövő háromoldalú megállapodásban kell rögzíteni.
+(5)[^480] A Közép-dunántúli Operatív Program 2007–2008-as Akcióterve keretében a 2. Regionális turizmusfejlesztés és 3. Fenntartható településfejlesztés prioritások esetében a közreműködő szervezeti feladatokat a Közép-dunántúli Regionális Fejlesztési Ügynökség Közhasznú Nonprofit Kft. látja el.
 
-[^474]: A 115. § (1) bekezdése a 25/2012. (II. 29.) Korm. rendelet 61. § 43. pontja szerint módosított szöveg.
-[^475]: A 115. § (4) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 43. § 212. pontja szerint módosított szöveg.
-[^476]: A 115. § (5) bekezdése a 176/2012. (VII. 26.) Korm. rendelet 29. § 15. pontja szerint módosított szöveg.
+[^478]: A 115. § (1) bekezdése a 25/2012. (II. 29.) Korm. rendelet 61. § 43. pontja szerint módosított szöveg.
+[^479]: A 115. § (4) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 43. § 212. pontja szerint módosított szöveg.
+[^480]: A 115. § (5) bekezdése a 96/2014. (III. 25.) Korm. rendelet 3. § (4) bekezdésével megállapított szöveg.

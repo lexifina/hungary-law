@@ -4,7 +4,13 @@
 
 ## 33. Kifogás
 
-81. § (1)[^377] A támogatást igénylő vagy a kedvezményezett a pályázat benyújtásának időpontjától a támogatási jogviszony időtartama alatt a közreműködő szervezet döntése ellen a közreműködő szervezetnél az irányító hatóságnak címzett, az irányító hatóság döntése ellen az irányító hatóságnál a központi koordinációs szervnek címzett kifogást nyújthat be, ha a pályázati eljárásra, a támogatási igény befogadására, a támogatási döntés meghozatalára, a támogatói okiratok kiadására vagy a támogatási szerződések megkötésére, a költségvetésből nyújtott támogatás folyósítására, visszakövetelésére vonatkozó eljárás jogszabálysértő, vagy a felhívásba, illetve a támogatási szerződésbe ütközik.
+81. § (1)[^377] A támogatást igénylő vagy a kedvezményezett a pályázat benyújtásának időpontjától a támogatási jogviszony időtartama alatt
+
+a) – közreműködő szervezet bevonása esetén – a közreműködő szervezet döntése ellen a közreműködő szervezetnél az irányító hatóságnak címzett kifogást,
+
+b) az irányító hatóság döntése ellen az irányító hatóságnál a központi koordinációs szervnek címzett kifogást
+
+## nyújthat be, ha a pályázati eljárásra, a támogatási igény befogadására, a támogatási döntés meghozatalára, a támogatói okiratok kiadására vagy a támogatási szerződések megkötésére, a költségvetésből nyújtott támogatás folyósítására, visszakövetelésére vonatkozó eljárás jogszabálysértő vagy a pályázati felhívásba, támogatási szerződésbe ütközik.
 
 (2)[^378] A kifogás benyújtására a kifogásolt döntésről való tudomásszerzéstől számított 10 napon belül egy alkalommal, az indokok megjelölésével van lehetőség.
 
@@ -20,7 +26,7 @@
 
 (6) A kifogás kivizsgálásában, illetve elbírálásában nem vehet részt az, aki a kifogás által érintett projektkiválasztási eljárásában, illetve a támogatói döntés előkészítésében részt vett.
 
-[^377]: A 81. § (1) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 31. §-ával megállapított szöveg.
+[^377]: A 81. § (1) bekezdése a 127/2014. (IV. 10.) Korm. rendelet 8. §-ával megállapított szöveg.
 [^378]: A 81. § (2) bekezdése a 25/2012. (II. 29.) Korm. rendelet 45. § (1) bekezdésével megállapított szöveg.
 [^379]: A 81. § (5) bekezdése a 25/2012. (II. 29.) Korm. rendelet 45. § (2) bekezdésével megállapított szöveg.
 [^380]: A 81. § (5a) bekezdését a 25/2012. (II. 29.) Korm. rendelet 45. § (3) bekezdése iktatta be.

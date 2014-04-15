@@ -4,7 +4,7 @@
 
 (2)[^357] A hitelesítési jelentés megküldésének elmulasztása, hiányos tartalommal történő megküldése, vagy a hitelesítési jelentések tartalma alapján irányítási és kontrollrendszerre vonatkozó kiegészítő információ igénye esetén az igazoló hatóság a költségigazoló nyilatkozat kiállítását felfüggesztheti.
 
-(3)[^358] A hitelesítési jelentés ellenjegyzésének alátámasztása érdekében az irányító hatóság maga is jogosult ellenőrzéseket végezni a közreműködő szervezetnél. Ezen ellenőrzések eredményéről az irányító hatóság rendszeresen tájékoztatja az igazoló hatóságot.
+(3)[^358] Közreműködő szervezet bevonása esetén a hitelesítési jelentés ellenjegyzésének alátámasztása érdekében az irányító hatóság maga is jogosult ellenőrzéseket végezni a közreműködő szervezetnél. Ezen ellenőrzések eredményéről az irányító hatóság rendszeresen tájékoztatja az igazoló hatóságot.
 
 (4)[^359] A finanszírozási szerződés teljesítésének és a finanszírozási keret felhasználásának hitelesítése az irányító hatóság feladata. A folyamatba épített ellenőrzés részeként az irányító hatóságnak gondoskodnia kell a forráskezelő szervezet által benyújtott valamennyi jelentés, nyilatkozat és bizonylat dokumentumalapú, formai és tartalmi ellenőrzésének lefolytatásáról. A pénzügyi lebonyolítás során a dokumentumalapú ellenőrzés a lehívási értesítés és annak mellékletei ellenőrzéséből áll.
 
@@ -43,7 +43,7 @@ f) a jogszabályok, valamint a hatékony és célszerű működés követelmény
 [^355]: A 77. §-t a 302/2013. (VII. 29.) Korm. rendelet 55. § b) pontja hatályon kívül helyezte.
 [^356]: A 78. § (1) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 29. §-ával megállapított szöveg.
 [^357]: A 78. § (2) bekezdése a 25/2012. (II. 29.) Korm. rendelet 61. § 33. pontja szerint módosított szöveg.
-[^358]: A 78. § (3) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 43. § 141. pontja szerint módosított szöveg.
+[^358]: A 78. § (3) bekezdése a 127/2014. (IV. 10.) Korm. rendelet 7. §-ával megállapított szöveg.
 [^359]: A 78. § (4) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 43. § 142. pontja szerint módosított szöveg.
 [^360]: A 78. § (5) bekezdés c) pontja az 548/2013. (XII. 30.) Korm. rendelet 43. § 143. pontja szerint módosított szöveg.
 [^361]: A 78. § (6) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 43. § 144. pontja szerint módosított szöveg.

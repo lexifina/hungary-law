@@ -20,17 +20,17 @@ b)[^385] a kifogást és az abban foglaltakkal kapcsolatos írásbeli szakmai á
 
 (4)[^386] Az irányító hatóság a döntése ellen benyújtott kifogás esetén
 
-a) a kifogásban foglaltaknak, az annak beérkezésétől számított 10 napon belül helyt ad, egyúttal gondoskodik a jogszerű állapot helyreállításáról, és erről haladéktalanul értesíti a támogatást igénylőt vagy a kedvezményezettet, valamint a közreműködő szervezetet, vagy
+a)[^387] a kifogásban foglaltaknak, az annak beérkezésétől számított 10 napon belül helyt ad, egyúttal gondoskodik a jogszerű állapot helyreállításáról, és erről haladéktalanul értesíti a támogatást igénylőt vagy a kedvezményezettet, valamint ha kijelölésre került a közreműködő szervezetet, vagy
 
-b)[^387] a kifogást és az abban foglaltakkal kapcsolatos írásbeli szakmai álláspontját az annak alátámasztására szolgáló dokumentációval együtt a kifogás beérkezésétől számított 10 napon belül megküldi a központi koordinációs szervnek elbírálásra.
+b)[^388] a kifogást és az abban foglaltakkal kapcsolatos írásbeli szakmai álláspontját az annak alátámasztására szolgáló dokumentációval együtt a kifogás beérkezésétől számított 10 napon belül megküldi a központi koordinációs szervnek elbírálásra.
 
-(5)[^388] Az irányító hatóság, vagy a központi koordinációs szerv részére elbírálásra megküldött kifogással kapcsolatban a központi koordinációs szerv a következő döntéseket hozhatja:
+(5)[^389] Az irányító hatóság, vagy a központi koordinációs szerv részére elbírálásra megküldött kifogással kapcsolatban az irányító hatóság vagy a központi koordinációs szerv a következő döntéseket hozhatja:
 
 a) a kifogásban foglaltaknak helyt ad, egyúttal gondoskodik a jogszerű állapot helyreállításáról,
 
 b) a kifogást indokolt döntésével elutasítja.
 
-(6)[^389] Az irányító hatóság, illetve a központi koordinációs szerv a kifogás tárgyában hozott döntésről az indokok megjelölésével értesíti a támogatást igénylőt vagy a kedvezményezettet, a közreműködő szervezetet és az irányító hatóságot.
+(6)[^390] Az irányító hatóság, illetve a központi koordinációs szerv a kifogás tárgyában hozott döntésről az indokok megjelölésével értesíti a támogatást igénylőt vagy a kedvezményezettet, a közreműködő szervezetet és az irányító hatóságot.
 
 (7) A kifogás tárgyában hozott döntés ellen további kifogás előterjesztésének nincs helye.
 
@@ -39,6 +39,7 @@ b) a kifogást indokolt döntésével elutasítja.
 [^384]: A 82. § (3) bekezdés a) pontja az 548/2013. (XII. 30.) Korm. rendelet 43. § 154. pontja szerint módosított szöveg.
 [^385]: A 82. § (3) bekezdés b) pontja az 548/2013. (XII. 30.) Korm. rendelet 43. § 154. pontja szerint módosított szöveg.
 [^386]: A 82. § (4) bekezdés nyitó szövegrésze az 548/2013. (XII. 30.) Korm. rendelet 43. § 155. pontja szerint módosított szöveg.
-[^387]: A 82. § (4) bekezdés b) pontja a 274/2013. (VII. 15.) Korm. rendelet 6. § b) pontja, az 548/2013. (XII. 30.) Korm. rendelet 43. § 155. pontja szerint módosított szöveg.
-[^388]: A 82. § (5) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 32. §-ával megállapított szöveg.
-[^389]: A 82. § (6) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 32. §-ával megállapított szöveg.
+[^387]: A 82. § (4) bekezdés a) pontja a 127/2014. (IV. 10.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^388]: A 82. § (4) bekezdés b) pontja a 274/2013. (VII. 15.) Korm. rendelet 6. § b) pontja, az 548/2013. (XII. 30.) Korm. rendelet 43. § 155. pontja szerint módosított szöveg.
+[^389]: A 82. § (5) bekezdése a 127/2014. (IV. 10.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^390]: A 82. § (6) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 32. §-ával megállapított szöveg.

@@ -112,7 +112,7 @@ d) az Európai Regionális Fejlesztési Alapra, az Európai Szociális Alapra é
 
 rendelkezései szerint kell értelmezni.
 
-(3)[^36] Ha támogatási konstrukció esetében közreműködő szervezet nem kerül kijelölésre, és e rendelet közreműködő szervezetet említ, azon az irányító hatóságot kell érteni.
+(3)[^36] Ha támogatási konstrukció esetében közreműködő szervezet nem kerül kijelölésre, és e rendelet közreműködő szervezetet említ, azon az irányító hatóságot kell érteni. Ez esetben az operatív program lebonyolításának e rendeletben szabályozott közreműködő szervezeti feladatait az irányító hatóság vezetője által kijelölt szervezeti egység látja el.
 
 [^2]: A 2. § (1) bekezdés 1. pontja a 25/2012. (II. 29.) Korm. rendelet 2. § (1) bekezdésével megállapított, az 548/2013. (XII. 30.) Korm. rendelet 44. § (1) bekezdés 1. pontja szerint módosított szöveg.
 [^3]: A 2. § (1) bekezdés 1a. pontját a 25/2012. (II. 29.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege az 548/2013. (XII. 30.) Korm. rendelet 44. § (1) bekezdés 2. pontja szerint módosított szöveg.
@@ -148,4 +148,4 @@ rendelkezései szerint kell értelmezni.
 [^33]: A 2. § (1) bekezdés 29. pontja a 25/2012. (II. 29.) Korm. rendelet 61. § 2. pontja szerint módosított szöveg.
 [^34]: A 2. § (1) bekezdés 30. pontját a 25/2012. (II. 29.) Korm. rendelet 62. § (1) bekezdés 1. pontja hatályon kívül helyezte.
 [^35]: A 2. § (1) bekezdés 32a. pontját a 25/2012. (II. 29.) Korm. rendelet 2. § (13) bekezdése iktatta be.
-[^36]: A 2. § (3) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 43. § 6. pontja szerint módosított szöveg.
+[^36]: A 2. § (3) bekezdése a 96/2014. (III. 25.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.
