@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1991-15-20-0
 | 2011-03-05 | 1991-15-20-06.17 | 11/2006. (III. 7.) IM rendelet |
 | 2013-01-01 | 1991-15-20-06.18 | 57/2012. (XII. 28.) KIM rendelet |
 | 2014-03-15 | 1991-15-20-06.19 | 21/2014. (III. 13.) KIM rendelet |
+| 2014-04-15 | 1991-15-20-06.20 | 21/2014. (III. 13.) KIM rendelet |
