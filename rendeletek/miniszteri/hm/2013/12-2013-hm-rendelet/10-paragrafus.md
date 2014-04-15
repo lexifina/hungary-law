@@ -6,7 +6,7 @@ a) ha a vele közös háztartásban élő vérszerinti, örökbefogadott, mostoh
 
 aa) családi pótlékra jogosult,
 
-ab) családi pótlékra nem jogosult, de gyermeke tárgyév szeptember 1-jén a 25. életévét még nem töltötte be, rendszeres jövedelemmel nem rendelkezik, és felsőfokú oktatási intézmény alapképzésében vagy mesterképzésében vesz részt, vagy az egységes, osztatlan képzésben első oklevelet szerző nappali tagozatos hallgató,
+ab)[^2] családi pótlékra nem jogosult, de gyermeke tárgyév szeptember 1-jén a 25. életévét még nem töltötte be, a családok támogatásáról szóló törvény szerinti, rendszeres jövedelemmel nem rendelkezik, és felsőfokú oktatási intézmény alapképzésében vagy mesterképzésében vesz részt, vagy az egységes, osztatlan képzésben első oklevelet szerző nappali tagozatos hallgató,
 
 ac) családi pótlékra nem jogosult, de gyermeke tárgyév szeptember 1-jén a 23. életévét még nem töltötte be, és köznevelési intézményben nappali tagozaton folytat tanulmányokat,
 
@@ -21,3 +21,5 @@ b) ha gyermeke saját jogán családi pótlékban részesül.
 (4) Az állomány szolgálati kötelmekkel összefüggő baleset vagy betegség következtében elhunyt volt tagjának – ideértve az önkéntes tartalékost is – gyermekét, valamint a hősi halott árvaellátásban részesülő gyermekét évente december 15-éig, ismételten az (1) bekezdésben meghatározott összegű nevelési támogatásban kell részesíteni.
 
 (5) A honvéd tisztjelölt és a honvéd altiszt-jelölt az állomány tagjára vonatkozó szabályok szerint jogosult nevelési támogatásra, azzal az eltéréssel, hogy ennek összege az állomány tagja részére meghatározott összeg 50%-a.
+
+[^2]: A 10. § (1) bekezdés a) pont ab) alpontja a 6/2014. (IV. 14.) HM rendelet 16. § a) pontja szerint módosított szöveg.
