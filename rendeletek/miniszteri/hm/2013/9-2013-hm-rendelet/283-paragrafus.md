@@ -1,4 +1,4 @@
-## 282. §[^25] A 69. §-nak megfelelő munkaköri jegyzékeket és állománytáblákat 2014. február 28-ig kell elkészíteni.
+## 282. §[^43] A 69. §-nak megfelelő munkaköri jegyzékeket és állománytáblákat 2014. február 28-ig kell elkészíteni.
 
 283. § (1) A tiszti és az altiszti teljesítményértékelések munkaköri leírásból adódó egyéni teljesítménykövetelményeit első alkalommal 2013. szeptember 30-ig kell meghatározni.
 
@@ -16,4 +16,4 @@ kell figyelembe venni.
 
 (5) Akiről 2014 januárjában teljesítményértékelés nem készíthető, a 82. § figyelembe vételével az utolsó teljesítményértékelésének pontszámát át kell számítani százalékra azzal, hogy a kapott pontszámát el kell osztani 127-tel.
 
-[^25]: A 282. § a 24/2013. (XII. 20.) HM rendelet 17. § i) pontja szerint módosított szöveg.
+[^43]: A 282. § a 24/2013. (XII. 20.) HM rendelet 17. § i) pontja szerint módosított szöveg.

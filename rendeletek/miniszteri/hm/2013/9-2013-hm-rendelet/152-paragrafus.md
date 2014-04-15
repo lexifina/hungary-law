@@ -10,14 +10,12 @@ a) a pénzbírság vagy a pénzbüntetés azonnali vagy egyösszegű megfizetés
 
 b) a fizetési nehézség átmeneti jellegű, ezért a fizetési kötelezettség későbbi teljesítése valószínűsíthető.
 
-(4) A részletfizetési engedélynek tartalmaznia kell, hogy
-
-a) a fenyített a részletfizetés teljes futamidejére a törvényes mértékű kamatot köteles fizetni, és
-
-b) bármely részlet megfizetésének elmulasztása esetén a teljes hátralék egy összegben esedékessé válik, mely a fenyített következő havi illetményéből levonásra kerül.
+(4)[^26] A részletfizetési engedélynek tartalmaznia kell a részletfizetés elmulasztásának (6) bekezdés szerinti következményeire történő figyelmeztetést.
 
 (5) Ha a fenyített a jogerősen kiszabott pénzbírságot vagy pénzbüntetést az előírt határidőben nem fizette meg, és fizetési könnyítés iránti kérelmet sem terjesztett elő, tartozását a következő havi illetményéből le kell vonni.
 
 (6) Ha a fenyített a részletfizetést elmulasztja, a hátralék egy összegben esedékessé válik, és azt a következő havi illetményéből le kell vonni.
 
 (7) Az (5) és (6) bekezdés szerinti havi illetményből történő levonásra a bírósági végrehajtás szabályai az irányadóak.
+
+[^26]: A 152. § (4) bekezdése a 6/2014. (IV. 14.) HM rendelet 6. §-ával megállapított szöveg.

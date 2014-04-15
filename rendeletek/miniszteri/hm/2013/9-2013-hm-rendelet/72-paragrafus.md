@@ -1,4 +1,4 @@
-## 71. §[^7]
+## 71. §[^13]
 
 ## 72. § Új munkakör
 
@@ -8,4 +8,4 @@ b) a munkakör-elemzés megállapításai alapján a munkakörök egymáshoz vis
 
 követően hozható létre.
 
-[^7]: A 71. §-t a 24/2013. (XII. 20.) HM rendelet 18. § a) pontja hatályon kívül helyezte.
+[^13]: A 71. §-t a 24/2013. (XII. 20.) HM rendelet 18. § a) pontja hatályon kívül helyezte.

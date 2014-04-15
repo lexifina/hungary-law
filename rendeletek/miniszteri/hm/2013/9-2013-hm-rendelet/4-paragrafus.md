@@ -11,3 +11,7 @@ c) a HM szervezeti és működési szabályzata szerinti HM szervek vezetőinek,
 d) a közvetlen alárendeltségébe tartozó szervezetek vezetőjének, és
 
 e) a Tábori Lelkészi Szolgálat vezetőinek.
+
+(3)[^2] Az illetmény-megállapításnak nem minősülő illetményváltozásról szóló értesítést a honvédelmi szervezet személyügyi szervének vezetője adja ki.
+
+[^2]: A 4. § (3) bekezdését a 6/2014. (IV. 14.) HM rendelet 1. §-a iktatta be.

@@ -1,3 +1,5 @@
-70. § (1) Fokozottan veszélyesnek az a szolgálati beosztás minősül, amelynek ellátásával kapcsolatos szolgálati tevékenység – a katonai szolgálattal járó általános kockázaton túl – egészségkárosító kockázatok között kerül végrehajtásra, vagy a védelem csak egyéni védőeszköz állandó vagy tartós használatával valósítható meg.
+70. § (1)[^12] Egészségkárosító veszélynek kitett beosztásnak az a szolgálati beosztás minősül, amelynek ellátásával kapcsolatos szolgálati tevékenység a napi szolgálatteljesítési idő több, mint felében, ionizáló sugárzásnak kitett beosztásban legalább három órában egészségkárosító kockázatok között kerül végrehajtásra, vagy a védelem csak egyéni védőeszköz olyan állandó vagy tartós használatával valósul meg, amely a viselője számára fokozott megterhelést jelent.
 
 (2) A szolgálati beosztások, illetve szolgálati tevékenység körét a 6. melléklet határozza meg.
+
+[^12]: A 70. § (1) bekezdése a 6/2014. (IV. 14.) HM rendelet 3. §-ával megállapított szöveg.

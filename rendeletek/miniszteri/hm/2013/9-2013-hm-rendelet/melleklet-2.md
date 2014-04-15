@@ -114,6 +114,8 @@
 
 | 56. | - ezredes rendfokozattal rendszeresített beosztással | X | X |  |  |  |
 
+| 56a. | - ezredes, tábornok rendfokozattal rendszeresített beosztás ellátásával | X | X |  |  |  |
+
 | 57. | - alezredes; őrnagy; százados; főhadnagy; főtörzszászlós; törzszászlós; zászlós; főtörzsőrmester; törzsőrmester; szakaszvezető rendfokozattal rendszeresített beosztással |  |  |  |  | X |
 
 | 58. | 2.22. Megbízás a Hjt. 55. § (1) bekezdés c) pontja esetén |  |
@@ -214,6 +216,10 @@
 
 |  | – alezredes-főhadnagy; főtörzszászlós- főtörzsőrmester; szakaszvezető-őrvezető rendfokozattal rendszeresített beosztásból |  |  |  |  | X |
 
+| 103b. |  | 4.14. Eltérő munkarend engedélyezése |  |  |  |  |  |
+
+|  |  | - tábornok; főtiszt; tiszt; zászlós; altiszt; tisztes; közkatona |  |  |  |  | X |
+
 | 104. | 5.Tanulmányi szerződés kötése hazai képzésen történő részvételre | 5.1. Doktori (PhD) képzés |  |
 
 | 105. | - tábornok; főtiszt; tiszt; zászlós; altiszt |  |  | X |  |  |
@@ -290,6 +296,10 @@
 
 | 141. | - főtiszt; tiszt; zászlós; altiszt; tisztes; közkatona |  |  |  |  | X |
 
+| 141a. |  | 9.2. Kártérítési igény előterjesztésére történő felhívás |  |  |  |  |  |
+
+|  |  | - tábornok; főtiszt; tiszt; altiszt; zászlós; tisztes; közkatona |  |  |  |  | X |
+
 | 142. | 10. Vezénylés külföldi szolgálatra | 10.1. Ideiglenes külföldi szolgálatteljesítés |  |
 
 | 143. | - tábornok | X |  |  |  |  |
@@ -315,6 +325,10 @@
 | 153. | 10.6. Vezénylés egy évet meg nem haladó időtartamra béketámogató műveletben való részvételre történő szolgálatteljesítésre |  |
 
 | 154. | - főtiszt; tiszt; zászlós; altiszt; tisztes |  |  |  | X |  |
+
+| 154a. | 10.6.a. A tartós külföldi szolgálatot teljesítők vezénylése egy évet meg nem haladó időtartamra béketámogató műveletben való részvételre történő szolgálattelje-sítésre |  |  |  |  |  |
+
+|  | - főtiszt; tiszt;, zászlós; altiszt; tisztes | X |  |  |  |  |
 
 | 155. | 10.7. Humanitárius és katasztrófa-elhárítási műveletekben való részvétel |  |
 
@@ -1559,37 +1573,3 @@ A *-gal jelölt követelmények a szakirányítási munkakörök esetében nem v
 | 9. | 06 | főtörzsőrmester |
 
 | 10. | 05 | törzsőrmester |
-
-2.17.2. védelmi igazgatás
-
-|  | Rendszeresített rendfokozat | Képesítési és egyéb munkaköri követelmények |
-
-| iskolai végzettség | szak- képzettség | egyéb képzettségi követelmény | egészségi | pszichikai | fizikai |
-
-| kate- gória | kizáró korláto- zások |
-
-| A | B | C | D | E | F | G | H | I |
-
-| 1. | 16 | dandártábornok | EKV, PE | SZFF | FVT | A6 | K12, K23, K24 | Pa/V, Pv/V | T1 |
-
-| 2. | 15 | ezredes |
-
-| 3. | 14 | alezredes |  | A4 | Pa/V, Pv/IV |
-
-| 4. | 13 | őrnagy | FKV, PF | Pa/IV |
-
-| 5. | 12 | százados |
-
-| 6. | 11 | főhadnagy | T2 |
-
-| 7. | 09 | főtörzszászlós | É | BSZF |
-
-| 8. | 08 | törzszászlós | BSZF, KF |
-
-| 9. | 07 | zászlós |
-
-| 10. | 06 | főtörzsőrmester |
-
-| 11. | 05 | törzsőrmester |
-
-2.18. egyéb biztosítás és kiszolgálás

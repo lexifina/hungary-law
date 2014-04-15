@@ -17,3 +17,7 @@
 (7) Az egészségügyi munkakörökre vonatkozó kizáró korlátozásokat, valamint a (6) bekezdés szerinti követelményeket munkakörönként kell megállapítani.
 
 (8) Katonai szervezeteknél rendszeresített jogi és igazgatási munkakörök tekintetében az állományilletékes parancsnok a szolgálati feladatok jellegére tekintettel a 2. melléklettől eltérően T2 fizikai alkalmassági követelményszintet is meghatározhat.
+
+(9)[^8] Nem feltétele a jogi vagy a közigazgatási szakvizsga letétele a jogi és igazgatási munkakörnek minősülő, százados rendfokozattal rendszeresített szolgálati beosztás betöltésének akkor, ha az állomány tagja hadnagy rendfokozatot visel.
+
+[^8]: A 26. § (9) bekezdését a 6/2014. (IV. 14.) HM rendelet 2. §-a iktatta be.
