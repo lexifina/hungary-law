@@ -10,6 +10,6 @@
 
 (4) A költségtérítés megfizetésére irányuló kötelezettséget az országos kamara honlapján közzétett tájékoztatás szerint, az abban megjelölt fizetési számla javára kell teljesíteni.
 
-(5)–(8)[^2]
+(5)–(8)[^1]
 
-[^2]: A 40. § (5)–(8) bekezdése a 45. § (3) bekezdése alapján 2014. december 1-jén lép hatályba.
+[^1]: A 40. § (5)–(8) bekezdése a 45. § (3) bekezdése alapján 2014. december 1-jén lép hatályba.

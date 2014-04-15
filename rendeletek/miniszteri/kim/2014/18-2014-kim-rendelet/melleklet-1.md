@@ -1,4 +1,4 @@
-## 58. §[^7]
+## 58. §[^6]
 
 1. melléklet a 18/2014. (III. 13.) KIM rendelethez
 
@@ -60,4 +60,4 @@
 
 6. Képviselő nélkül tett hitelbiztosítéki nyilatkozatok száma
 
-[^7]: Az 58. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: Az 58. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
