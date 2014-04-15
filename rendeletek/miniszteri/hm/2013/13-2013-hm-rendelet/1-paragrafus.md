@@ -20,4 +20,6 @@
 
 9. vendégéjszaka: a helyi adókról szóló 1990. évi C. törvény 52. § 30. pontja szerinti időtartam.
 
-(2) Ahol e rendelet családtagot említ, azon érteni kell az igényjogosult élettársát is, ha élettársi viszonyát ügyvéd által ellenjegyzett vagy közjegyzői okirattal igazolja, valamint az igényjogosult bejegyzett élettársát is.
+(2)[^1] Ahol e rendelet családtagot említ, azon érteni kell az igényjogosult élettársát is, ha élettársi viszonyát a honvédek jogállásáról szóló 2012. évi CCV. törvény egyes rendelkezéseinek végrehajtásáról szóló 9/2013. (VIII. 12.) HM rendelet 18/A. §-a szerint igazolja.
+
+[^1]: Az 1. § (2) bekezdése a 6/2014. (IV. 14.) HM rendelet 18. §-ával megállapított szöveg.

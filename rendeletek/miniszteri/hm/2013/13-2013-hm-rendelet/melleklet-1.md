@@ -1,4 +1,4 @@
-## 27. §[^2]
+## 27. §[^15]
 
 1. melléklet a 13/2013. (VIII. 21.) HM rendelethez
 
@@ -68,4 +68,4 @@
 
 | 3. | Balatonkenese gyermektábor (2 hét/13 éjszaka) | 27 100 |
 
-[^2]: A 27. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 27. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
