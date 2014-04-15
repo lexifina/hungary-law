@@ -16,7 +16,7 @@ d) a támogatás révén elérhető gazdasági előnyök, így különösen a t�
 
 e) a pályázati felhívásban megjelölt, a pályázat elbírálásához feltétlenül szükséges egyéb indokolt adatot vagy dokumentumot.
 
-(4) A MAG Zrt. a pályázatot elutasítja, ha
+(4)[^11] A Támogató a pályázatot elutasítja, ha
 
 a) azt a pályázati felhívás alapján pályázni nem jogosult pályázó nyújtotta be,
 
@@ -24,6 +24,10 @@ b) a pályázatot határidőn túl nyújtották be,
 
 c) a pályázati felhívás nem biztosít lehetőséget hiánypótlásra, és a pályázat hiányosan került benyújtásra.
 
-(5) A pályázatok hiányos benyújtása esetén – ha a pályázati felhívás másként nem rendelkezik – a MAG Zrt. a pályázót megfelelő határidő kitűzésével hiánypótlásra hívja fel. A hiánypótlásra biztosított határidő elmulasztása, valamint a hiánypótlás hiányos teljesítése a pályázat elutasítását eredményezi. A határidő elmulasztása esetén igazolásnak nincs helye, kivéve, ha a pályázó bizonyítja, hogy a mulasztás neki nem felróható okra vezethető vissza. A pályázó a hiányt határidőben pótolja, ha a hiánypótlási határidő utolsó napján a felszólításban meghatározott dokumentumokat postára adja.
+(5)[^12] A pályázatok hiányos benyújtása esetén – ha a pályázati felhívás másként nem rendelkezik – a Támogató a pályázót megfelelő határidő kitűzésével hiánypótlásra hívja fel. A hiánypótlásra biztosított határidő elmulasztása, valamint a hiánypótlás hiányos teljesítése a pályázat elutasítását eredményezi. A határidő elmulasztása esetén igazolásnak nincs helye, kivéve, ha a pályázó bizonyítja, hogy a mulasztás neki nem felróható okra vezethető vissza. A pályázó a hiányt határidőben pótolja, ha a hiánypótlási határidő utolsó napján a felszólításban meghatározott dokumentumokat postára adja.
 
-(6) Ha a pályázat a (4) bekezdés szerint elutasításra kerül, erről a MAG Zrt. az elutasítás okának megjelölésével a pályázat beérkezésétől számított 15 napon belül értesíti a pályázót. Az (5) bekezdésen alapuló elutasítás esetén a pályázat elutasításáról és okáról a MAG Zrt. a hiánypótlásra biztosított határidő lejártát követő 15 napon belül értesíti a pályázót.
+(6)[^13] Ha a pályázat a (4) bekezdés szerint elutasításra kerül, erről a Támogató az elutasítás okának megjelölésével a pályázat beérkezésétől számított 15 napon belül értesíti a pályázót. Az (5) bekezdésen alapuló elutasítás esetén a pályázat elutasításáról és okáról a Támogató a hiánypótlásra biztosított határidő lejártát követő 15 napon belül értesíti a pályázót.
+
+[^11]: A 18. § (4) bekezdés nyitó szövegrésze a 18/2014. (IV. 14.) NFM rendelet 6. § b) pontja szerint módosított szöveg.
+[^12]: A 18. § (5) bekezdése a 18/2014. (IV. 14.) NFM rendelet 6. § b) pontja szerint módosított szöveg.
+[^13]: A 18. § (6) bekezdése a 18/2014. (IV. 14.) NFM rendelet 6. § c) pontja szerint módosított szöveg.

@@ -1,7 +1,5 @@
 ## 17. A pályázatok elbírálása
 
-20. § (1) A pályázatokat – a jogszabályban és a pályázati felhívásban meghatározott formai és tartalmi feltételek meglétének ellenőrzését követően – a pályázati bírálóbizottság (a továbbiakban: bizottság) részére döntési javaslat megtétele céljából a MAG Zrt. készíti elő.
+20. §[^15]
 
-(2) A pályázatok értékelésére és rangsor felállítására a pályázati felhívásban meghatározott szempontok szerint kerül sor. A döntési javaslatot – amely tartalmazza az értékelést és a rangsor felállítását – a MAG Zrt. döntés-előkészítő tevékenysége alapján hozza meg a bizottság, mely bizottságot a Támogató a turizmusért felelős miniszter egyetértésével kér fel erre a feladatra. A bizottság működését a MAG Zrt. biztosítja.
-
-(3) A pályázatokról – a bizottságok döntési javaslatának ismeretében – a Támogató dönt.
+[^15]: A 20. §-t a 18/2014. (IV. 14.) NFM rendelet 7. § c) pontja hatályon kívül helyezte.

@@ -1,4 +1,4 @@
-10/C. §[^6] (1) Nem nyújtható regionális beruházási és foglalkoztatási támogatás a következő költségekre:
+10/C. §[^10] (1) Nem nyújtható regionális beruházási és foglalkoztatási támogatás a következő költségekre:
 
 a) létesítmény felvásárlása esetén a szinten tartást szolgáló tárgyi eszközök bekerülési értéke, vételára,
 
@@ -28,4 +28,4 @@ d) lényegesen felgyorsul a projekt végrehajtási üteme,
 
 e) a projekt a támogatás hiányában nem az érintett támogatott régióban valósult volna meg.
 
-[^6]: A 10/C. §-t az 1/2014. (I. 24.) NFM rendelet 1. §-a iktatta be.
+[^10]: A 10/C. §-t az 1/2014. (I. 24.) NFM rendelet 1. §-a iktatta be.

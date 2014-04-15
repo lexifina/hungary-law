@@ -26,7 +26,7 @@ k) a Magyar Turizmus Zrt. marketing és működési költségeinek fedezésére,
 
 l) a Hungarofest Nonprofit Kft. működési költségeinek, valamint közszolgáltatási célú működési és rendezvényszervezési költségeinek fedezésére,
 
-m) a MAG Zrt. kezelőszervi feladatok ellátásáról rendelkező szerződésben meghatározott költségeinek fedezésére,
+m)[^3] a miniszter által vezetett minisztérium igazgatási költségvetése részére történő előirányzat-átcsoportosítás útján az előirányzat kezelésével kapcsolatos költségek finanszírozására,
 
 n) más jogszabályban vagy a Kormány által meghatározott egyéb turizmusfejlesztési célok végrehajtására,
 
@@ -36,6 +36,7 @@ p) képzési célú támogatásra,
 
 q) turisztikai beruházások létrehozására és a meglévő kapacitások bővítésére,
 
-r)[^1] nemzeti ünnephez és nemzeti emléknaphoz kapcsolódó közszolgáltatási célú rendezvényszervezésre, amelyek megvalósítására kiemelkedően magas látogatószámú vidéki célterületeken kerül sor.
+r)[^4] nemzeti ünnephez és nemzeti emléknaphoz kapcsolódó közszolgáltatási célú rendezvényszervezésre, amelyek megvalósítására kiemelkedően magas látogatószámú vidéki célterületeken kerül sor.
 
-[^1]: Az 5. § r) pontját a 47/2013. (VIII. 7.) NFM rendelet 1. §-a iktatta be.
+[^3]: Az 5. § m) pontja a 18/2014. (IV. 14.) NFM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^4]: Az 5. § r) pontját a 47/2013. (VIII. 7.) NFM rendelet 1. §-a iktatta be.

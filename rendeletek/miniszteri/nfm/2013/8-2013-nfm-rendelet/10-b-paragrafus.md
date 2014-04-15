@@ -1,4 +1,4 @@
-10/B. §[^5] (1) A támogatás akkor vehető igénybe, ha a kedvezményezett kötelezettséget vállal arra, hogy a beruházást annak befejezésétől számított legalább öt évig – kis- és középvállalkozás esetében legalább három évig – fenntartja az érintett régióban.
+10/B. §[^9] (1) A támogatás akkor vehető igénybe, ha a kedvezményezett kötelezettséget vállal arra, hogy a beruházást annak befejezésétől számított legalább öt évig – kis- és középvállalkozás esetében legalább három évig – fenntartja az érintett régióban.
 
 (2) Az (1) bekezdésben meghatározott követelmény nem akadályozza a gyors technológiai változások miatt a meghatározott fenntartási időszak alatt korszerűtlenné vált eszköz cseréjét, ha a fenntartási időszak alatt a gazdasági tevékenység fenntartása az érintett régióban biztosított. A gyors technológiai változások miatt a meghatározott fenntartási időszak alatt korszerűtlenné vált üzem, illetve eszköz cseréjét követő fenntartási időszakban a kedvezményezett a gyors technológiai változások miatt a fenntartási időszak alatt korszerűtlenné vált üzem, illetve eszköz cseréjére támogatásban nem részesülhet.
 
@@ -22,4 +22,4 @@ d) a kedvezményezett immateriális eszközként tartja nyilván azokat, a kedve
 
 (8) Ha a támogatás kiszámítása a bérköltségek alapján történik, a támogathatóság feltétele, hogy a munkahelyeket közvetlenül a beruházási projekt hozza létre, valamint a munkahelyeket a beruházás befejezésétől számított 3 éven belül létre kell hozni és a munkahelyeket legalább öt évig, kis- és középvállalkozások esetében legalább 3 évig fenn kell tartani.
 
-[^5]: A 10/B. §-t az 1/2014. (I. 24.) NFM rendelet 1. §-a iktatta be.
+[^9]: A 10/B. §-t az 1/2014. (I. 24.) NFM rendelet 1. §-a iktatta be.

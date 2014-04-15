@@ -1,4 +1,4 @@
-10/A. §[^4] (1) A támogatást a tárgyi eszközökbe vagy immateriális javakba történő beruházás költségei, illetve létesítmény felvásárlása esetén a felvásárlás költségei alapján kell kiszámítani.
+10/A. §[^8] (1) A támogatást a tárgyi eszközökbe vagy immateriális javakba történő beruházás költségei, illetve létesítmény felvásárlása esetén a felvásárlás költségei alapján kell kiszámítani.
 
 (2) A támogatás iránti kérelem 18. § (2) bekezdésben meghatározott megerősítését követően az alábbi költségek számolhatóak el:
 
@@ -16,4 +16,4 @@ b) a beruházás üzembe helyezését követő harmadik év végéig újonnan l�
 
 (4) A földterülettől és épülettől eltérő eszközök lízingjével kapcsolatos költségeket csak akkor lehet figyelembe venni, ha az pénzügyi lízing formájában valósul meg, és a szerződés tartalmazza az eszköznek a futamidő lejárta utáni megvásárlására vonatkozó kötelezettséget. Földterület és épületek bérlése esetén a beruházási projekt befejezésének várható időpontját követően a bérletnek nagyvállalatok esetében még legalább öt évig, kis- és középvállalkozás esetében még legalább három évig kell folytatódnia.
 
-[^4]: A 10/A. §-t az 1/2014. (I. 24.) NFM rendelet 1. §-a iktatta be.
+[^8]: A 10/A. §-t az 1/2014. (I. 24.) NFM rendelet 1. §-a iktatta be.

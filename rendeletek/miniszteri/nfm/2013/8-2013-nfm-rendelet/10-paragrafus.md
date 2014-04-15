@@ -1,6 +1,6 @@
 ## 9. A beruházási támogatásokra vonatkozó szabályok
 
-10. §[^3] (1) E rendelet alapján regionális beruházási és foglalkoztatási támogatás csak abban az esetben nyújtható, ha a beruházás költségei a következő költségekből tevődnek össze:
+10. §[^7] (1) E rendelet alapján regionális beruházási és foglalkoztatási támogatás csak abban az esetben nyújtható, ha a beruházás költségei a következő költségekből tevődnek össze:
 
 a) tárgyi eszközbe vagy immateriális javakba történő beruházás, amely új létesítmény létrehozásához, meglévő létesítmény bővítéséhez, egy létesítmény termelésének további új termékekkel történő diverzifikációjához vagy egy meglévő létesítmény termelési folyamatának alapvető megváltoztatásához kapcsolódik, vagy
 
@@ -18,4 +18,4 @@ a) ha a kedvezményezett kis- és középvállalkozás, az EUMSZ 107. cikk (3) b
 
 b) ha a kedvezményezett által a 800/2008/EK bizottsági rendelet I. mellékletének megfelelően számított foglalkoztatottainak száma kevesebb, mint 750 fő, és árbevétele kevesebb, mint 200 millió eurónak megfelelő forintösszeg, az EUMSZ 107. cikk (3) bekezdés a) pontja alapján támogatott területek esetében az elszámolható költségek 25%-a, az EUMSZ 107. cikk (3) bekezdés c) pontja alapján támogatott területek esetében az elszámolható költségek 20%-a.
 
-[^3]: A 10. § az 1/2014. (I. 24.) NFM rendelet 1. §-ával megállapított szöveg.
+[^7]: A 10. § az 1/2014. (I. 24.) NFM rendelet 1. §-ával megállapított szöveg.

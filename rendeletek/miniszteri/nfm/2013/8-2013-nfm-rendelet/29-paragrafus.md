@@ -1,6 +1,4 @@
-## lehet támogatási döntést hozni.
-
-## 29. §[^8] E rendelet
+## 29. §[^24] E rendelet
 
 a) 8. § (1) bekezdés a) pontja a Szerződés 87. és 88. cikkének a de minimis támogatásokra való alkalmazásáról szóló, 2006. december 15-i 1998/2006/EK bizottsági rendelet (HL L 379., 2006. 12. 28., 5. o.),
 
@@ -10,4 +8,6 @@ c) 8. § (1) bekezdés d) pontja a turizmust ösztönző kulturális örökségv
 
 d) 8. § (1) bekezdés e) pontja az Európai Unió működéséről szóló szerződés 106. cikke (2) bekezdésének az általános gazdasági érdekű szolgáltatások nyújtásával megbízott egyes vállalkozások javára közszolgáltatás ellentételezése formájában nyújtott állami támogatásra való alkalmazásáról szóló, 2011. december 20-i 2012/21/EU bizottsági határozat (HL L 7., 2012. 1. 11., 3. o.)
 
-[^8]: A 29. § az 1/2014. (I. 24.) NFM rendelet 2. § (2) bekezdésével megállapított szöveg.
+hatálya alá tartozó támogatást tartalmaz.
+
+[^24]: A 29. § az 1/2014. (I. 24.) NFM rendelet 2. § (2) bekezdésével megállapított szöveg.
