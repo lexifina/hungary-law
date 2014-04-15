@@ -40,7 +40,7 @@
 
 18. biztosítéknyújtáshoz kapcsolódó költségek,
 
-19.[^5] jelzálog, garanciaszerződés költségei,
+19.[^8] jelzálog, garanciaszerződés költségei,
 
 20. kamatráfordítások,
 
@@ -68,4 +68,4 @@ a) a bérleti szerződés határozatlan idejű vagy
 
 b) határozott idejű szerződés esetén annak időtartama 5 évvel (KKV-k esetében 3 évvel) meghaladja a beruházás befejezésének tervezett dátumát, azaz a kötelező üzemeltetési időszakot lefedi.
 
-[^5]: A 24. § (2) bekezdés 19. pontja az 53/2014. (III. 3.) Korm. rendelet 37. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^8]: A 24. § (2) bekezdés 19. pontja az 53/2014. (III. 3.) Korm. rendelet 37. § (2) bekezdés a) pontja szerint módosított szöveg.
