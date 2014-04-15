@@ -1,5 +1,3 @@
-## 5. §[^7]
-
 1. melléklet a 96/2014. (III. 25.) Korm. rendelethez
 
 „3. melléklet a 4/2011. (I. 28.) Korm. rendelethez
@@ -115,5 +113,3 @@ Az irányító hatóság és a közreműködő szervezet kijelölése
 | 53 | Végrehajtás Operatív Program | a Kormány európai uniós források felhasználásáért felelős tagja | – |
 
 ”
-
-[^7]: Az 5. § a 2. § (2) bekezdése alapján 2014. április 15-én lép hatályba.

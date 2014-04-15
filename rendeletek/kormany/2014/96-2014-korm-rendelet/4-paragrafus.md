@@ -1,9 +1,7 @@
-## 3. §[^4]
+4. § (1)[^4]
 
-4. § (1)[^5]
+(2) Az Európai Uniós előcsatlakozási eszközök és az Átmeneti Támogatás felhasználásának pénzügyi tervezési, lebonyolítási, számviteli és ellenőrzési rendjéről szóló 119/2004. (IV. 29.) Korm. rendelet 2. § 11. pontjában az „az ESZA Társadalmi Szolgáltató Nonprofit Kft.” szövegrész helyébe az „a társadalmi esélyegyenlőség előmozdításáért felelős miniszter” szöveg lép.
 
-(2)–(3)[^6]
+(3) A Kormány egyedi döntéseivel megítélhető regionális beruházási támogatás szabályairól és a Beruházás ösztönzési célelőirányzat felhasználásának szabályairól szóló 270/2012. (IX. 25.) Korm. rendelet 5. § (1) bekezdésében az „a nemzetgazdasági miniszter feladat- és hatáskörébe utalt” szövegrész helyébe a „meghatározott feladatokkal összefüggő” szöveg lép.
 
-[^4]: A 3. § a 2. § (2) bekezdése alapján 2014. április 15-én lép hatályba.
-[^5]: A 4. § (1) bekezdése a 127/2014. (IV. 10.) Korm. rendelet 5. §-a alapján nem lép hatályba.
-[^6]: A 4. § (2)–(3) bekezdése a 2. § (2) bekezdése alapján 2014. április 15-én lép hatályba.
+[^4]: A 4. § (1) bekezdése a 127/2014. (IV. 10.) Korm. rendelet 5. §-a alapján nem lép hatályba.
