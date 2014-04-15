@@ -10,7 +10,7 @@
 
 4. komplex program: a 2007–2013 programozási időszakra vonatkozó, az operatív programok stratégiai céljaihoz illeszkedő, azok megvalósulását szolgáló, több ágazatot érintő hosszú távú fejlesztések integrált programja,
 
-5. közreműködő: a támogatott nagyprojekt-előkészítési tevékenység szakmai irányításában és ellenőrzésében részt vevő, a támogatóval együttműködő szerv, az ezen szerv által a támogató jóváhagyásával megbízott szerv, vagy jogszabály által kijelölt szerv, a közlekedési tárgyú támogatott nagyprojekt-előkészítési tevékenység esetében a KIKSZ Közlekedésfejlesztési Zrt.,
+5.[^1] közreműködő: a támogatott nagyprojekt-előkészítési tevékenység szakmai irányításában és ellenőrzésében részt vevő, a támogatóval együttműködő szerv, az ezen szerv által a támogató jóváhagyásával megbízott szerv, vagy jogszabály által kijelölt szerv,
 
 6. közreműködő szervezet: a 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alapból, az Európai Szociális Alapból és a Kohéziós Alapból származó támogatások felhasználásának rendjéről szóló 4/2011. (I. 28.) Korm. rendeletben [a továbbiakban: 4/2011. (I. 28.) Korm. rendelet] 2. § (1) bekezdés 17. pontja szerinti szervezet,
 
@@ -41,3 +41,5 @@
 19. végrehajtó ügynökség: a 326/2012. (XI. 16.) Korm. rendelet 3. § (1) bekezdés 57. pontja szerinti szervezet.
 
 (2) Nem minősül az (1) bekezdés 2. pontja szerinti jogosulatlan forrásfelhasználásnak, ha a kedvezményezett a pénzügyi közvetítővel szemben fennálló fizetési kötelezettségének gazdasági tevékenysége körében felmerülő üzleti kockázatból eredő fizetési nehézség révén nem képes eleget tenni, vagy ha a pénzügyi közvetítő egy adott pénzügyi eszköz hitelkockázatának révén realizált hitelezési vagy befektetési veszteséget szenved el.
+
+[^1]: A 2. § (1) bekezdés 5. pontja a 96/2014. (III. 25.) Korm. rendelet 5. § (1) bekezdés c) pontja szerint módosított szöveg.

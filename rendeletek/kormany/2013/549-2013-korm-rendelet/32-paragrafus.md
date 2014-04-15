@@ -12,7 +12,7 @@ b) pénzügyi ellenjegyző: az OP IH gazdasági vezetője vagy az általa írás
 
 c) teljesítés igazoló: az OP IH vezetője vagy az általa írásban kijelölt személy, vagy a közreműködő szervezet vezetője vagy az általa írásban kijelölt személy, a technikai segítségnyújtás prioritások esetében a fejezetet irányító szerv vezetője vagy az általa írásban kijelölt személy,
 
-d)[^1] érvényesítő: az OP IH gazdasági vezetője vagy az általa írásban kijelölt személy, a technikai segítségnyújtás prioritások esetében a fejezetet irányító szerv gazdasági vezetője vagy az általa írásban kijelölt személy,
+d)[^2] érvényesítő: az OP IH gazdasági vezetője vagy az általa írásban kijelölt személy, a technikai segítségnyújtás prioritások esetében a fejezetet irányító szerv gazdasági vezetője vagy az általa írásban kijelölt személy,
 
 e) utalványozó: az OP IH vezetője vagy az általa írásban kijelölt személy, a technikai segítségnyújtás prioritások esetében a fejezetet irányító szerv vezetője vagy az általa írásban kijelölt személy.
 
@@ -24,7 +24,7 @@ b) pénzügyi ellenjegyző: a fejezetet irányító szerv gazdasági vezetője v
 
 c) teljesítés igazoló: a fejezetet irányító szerv vezetője vagy az általa írásban kijelölt személy,
 
-d)[^2] érvényesítő: a fejezetet irányító szerv gazdasági vezetője vagy az általa írásban kijelölt személy,
+d)[^3] érvényesítő: a fejezetet irányító szerv gazdasági vezetője vagy az általa írásban kijelölt személy,
 
 e) utalványozó: a fejezetet irányító szerv vezetője vagy az általa írásban kijelölt személy.
 
@@ -36,7 +36,7 @@ b) pénzügyi ellenjegyző: a fejezetet irányító szerv gazdasági vezetője v
 
 c) teljesítés igazoló: a fejezetet irányító szerv vezetője vagy az általa írásban kijelölt személy,
 
-d)[^3] érvényesítő: a fejezetet irányító szerv gazdasági vezetője vagy az általa írásban kijelölt személy,
+d)[^4] érvényesítő: a fejezetet irányító szerv gazdasági vezetője vagy az általa írásban kijelölt személy,
 
 e) utalványozó: a fejezetet irányító szerv vezetője vagy az általa írásban kijelölt személy.
 
@@ -52,6 +52,6 @@ d) érvényesítő: az OP IH vezetője vagy az általa írásban kijelölt szem�
 
 e) utalványozó: az OP IH vezetője vagy az általa írásban kijelölt személy.
 
-[^1]: A 32. § (1) bekezdés d) pontja a 27/2014. (II. 7.) Korm. rendelet 19. § a) pontja szerint módosított szöveg.
-[^2]: A 32. § (2) bekezdés d) pontja a 27/2014. (II. 7.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
-[^3]: A 32. § (3) bekezdés d) pontja a 27/2014. (II. 7.) Korm. rendelet 19. § c) pontja szerint módosított szöveg.
+[^2]: A 32. § (1) bekezdés d) pontja a 27/2014. (II. 7.) Korm. rendelet 19. § a) pontja szerint módosított szöveg.
+[^3]: A 32. § (2) bekezdés d) pontja a 27/2014. (II. 7.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
+[^4]: A 32. § (3) bekezdés d) pontja a 27/2014. (II. 7.) Korm. rendelet 19. § c) pontja szerint módosított szöveg.

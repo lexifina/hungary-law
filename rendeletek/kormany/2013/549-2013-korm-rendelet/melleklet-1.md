@@ -1,6 +1,6 @@
-## 55. §[^28]
+## 55. §[^29]
 
-1. melléklet az 549/2013. (XII. 30.) Korm. rendelethez[^29]
+1. melléklet az 549/2013. (XII. 30.) Korm. rendelethez[^30]
 
 |  | A | B |
 
@@ -62,5 +62,5 @@
 
 | 29. |  |  |
 
-[^28]: Az 55. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^29]: Az 1. melléklet a 27/2014. (II. 7.) Korm. rendelet 18. §-a szerint módosított szöveg.
+[^29]: Az 55. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^30]: Az 1. melléklet a 27/2014. (II. 7.) Korm. rendelet 18. §-a szerint módosított szöveg.
