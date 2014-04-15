@@ -1,4 +1,4 @@
-## kapcsolatos feladatok ellátásáról.
+## 11. §[^8]
 
 ## 12. § A kezességi díjtámogatás rendszerének működtetésével kapcsolatosan
 
@@ -12,9 +12,9 @@ ac) ellátja az e rendelet alapján nyújtott csekély összegű (de minimis) t�
 
 ad) a támogatás igénylőjének hozzájárulása alapján kezeli a kezességi díjtámogatással összefüggésben megismert és keletkező adatokat.
 
-b) a MAG Zrt.
+b)[^9] a támogató
 
-ba) naprakész, tételes, évenkénti és a kezességi díjtámogatás rendszerének működtetésében résztvevő pénzügyi intézményenkénti bontású nyilvántartást vezet a kezességi díjtámogatásról a Garantiqa Zrt. és a támogató által rendelkezésére bocsátott dokumentumok alapján,
+ba)[^10]
 
 bb) ellenőrzi a kezességi díjtámogatás lehívásait, a Garantiqa Zrt. által előzetesen megvizsgált, a teljesítés igazolását alátámasztó dokumentumokat, továbbá a támogatáslehívásban szereplő kedvezményezettek jogosultságát, a keret rendelkezésre állását, a kezességi díjra jutó támogatást,
 
@@ -25,3 +25,7 @@ bd) előzetesen ellenőrzi a kiutalások jogosságát és összegszerűségét,
 be) indokolt esetben felfüggeszti a kezességi díjtámogatás folyósítását,
 
 bf) ellátja – a kezességi díjtámogatáshoz kapcsolódóan – a követeléskezelési feladatokat.
+
+[^8]: A 11. §-t a 18/2014. (IV. 14.) NFM rendelet 16. §-a hatályon kívül helyezte.
+[^9]: A 12. § b) pont nyitó szövegrésze a 18/2014. (IV. 14.) NFM rendelet 15. § a) pontja szerint módosított szöveg.
+[^10]: A 12. § b) pont ba) alpontját a 18/2014. (IV. 14.) NFM rendelet 16. §-a hatályon kívül helyezte.

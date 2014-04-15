@@ -6,4 +6,6 @@
 
 (3) A támogató az adatszolgáltatás szerinti listán szereplő, az e rendeletben meghatározott feltételeknek megfelelő vállalkozások kezességi díjtámogatásáról támogatói okiratot ad ki.
 
-(4) A támogatói okiratot a támogató a kötelezettségvállalást követő 10 napon belül megküldi a MAG Zrt.-nek.
+(4)[^2]
+
+[^2]: A 8. § (4) bekezdését a 18/2014. (IV. 14.) NFM rendelet 16. §-a hatályon kívül helyezte.
