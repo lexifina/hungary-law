@@ -1,4 +1,4 @@
-## 25. §[^35]
+## 25. §[^33]
 
 ## 26. A civil szervezetek bírósági eljárásokban alkalmazandó űrlapjairól szóló
 
@@ -10,4 +10,4 @@
 
 (2) Nem lép hatályba az R. 27. melléklet 2., 2.1., 2.2., 2.3., 3., 3.1., 3.2. és 3.3. pontja.
 
-[^35]: A 25. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^33]: A 25. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
