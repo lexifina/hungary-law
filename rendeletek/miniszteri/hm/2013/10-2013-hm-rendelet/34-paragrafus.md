@@ -11,3 +11,7 @@
 (5) A másodfokú kártérítési határozatot a HM jogi képviselet ellátásáért felelős szerve a kárigény elbírálására jogosult szerv részére három eredeti példányban megküldi. A határozatot a kárigény elbírálására jogosult szerv tértivevényes ajánlott küldeményként az igényérvényesítőnek megküldi.
 
 (6) A jogerős határozattal megállapított kártérítést annak kézbesítésétől számított 30 napon belül ki kell fizetni, a keresetindításra tekintet nélkül. A kifizetés teljesítése iránt – a KNBSZ főigazgatója által kibocsátott határozat kivételével – a HM központi pénzügyi feladatok ellátásáért felelős szerve intézkedik.
+
+(7)[^4] A kereset benyújtásával perré alakult eljárásban alperesként a HM-et kell megjelölni.
+
+[^4]: A 34. § (7) bekezdését a 6/2014. (IV. 14.) HM rendelet 11. §-a iktatta be.
