@@ -1,6 +1,6 @@
-## 20. §[^10]
+## 20. §[^13]
 
-1. melléklet a 24/2012. (IV. 25.) KIM rendelethez[^11]
+1. melléklet a 24/2012. (IV. 25.) KIM rendelethez[^14]
 
 Az adatfelelősök a közzétételt elrendelő jogszabályi hely megnevezésével
 
@@ -24,7 +24,7 @@ Az adatfelelősök a közzétételt elrendelő jogszabályi hely megnevezéséve
 
 | 8. | A kincstári monitoring rendszer részére megküldött támogatási adatok | Civil tv. 53. § (6) bekezdése | Folyamatosan | kincstár |
 
-| 9. | A jelentős költségvetési támogatásban részesülő szervezet vezető tisztségviselőjének vagyonnyilatkozatának letétbe helyezése tényét és idejét | Civil tv. 53. § (8) bekezdése | A beszámoló letétbe helyezését követő 90 napon belül | Vezető tisztségviselő |
+| 9. | A jelentős költségvetési támogatásban részesülő szervezet vezető tisztségviselőjének vagyonnyilatkozatának letétbe helyezése tényét és idejét | Civil tv. 53/B. § (3) bekezdése | A vagyonnyilatkozat átvételét követő 15 napon belül | Vezető tisztségviselő |
 
 | 10. | A tanácsi és kollégiumi tagok érdekeltségi körébe tartozó civil szervezetek neve, az ezzel kapcsolatos változás | Civil tv. 67. § (1) bekezdése; 67.§ (2) bekezdése; 69. § (5) bekezdés c) pontja | Folyamatosan | Testületi tagok, Tanács elnöke Alapkezelő |
 
@@ -44,5 +44,5 @@ Az adatfelelősök a közzétételt elrendelő jogszabályi hely megnevezéséve
 
 | 18. | A NEA elektori gyűlésének helye, időpontja és a mandátumvizsgálat módja, az ügyrend | Civil tv. 71. § (4) bekezdése | Folyamatosan | a társadalmi és civil kapcsolatok fejlesztéséért felelős miniszter |
 
-[^10]: A 20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^11]: Az 1. melléklet az 56/2012. (XII. 29.) EMMI rendelet 27. §-a szerint módosított szöveg.
+[^13]: A 20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: Az 1. melléklet az 56/2012. (XII. 29.) EMMI rendelet 27. §-a, a 31/2014. (IV. 14.) EMMI rendelet 9. § e), f) pontja szerint módosított szöveg.
