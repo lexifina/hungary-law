@@ -24,7 +24,7 @@
 
 10.[^3] nemzeti alap a nemzetközi megállapodásokban előírt nemzeti alap feladatoknak ellátása Pénzügyminisztérium Nemzeti Programengedélyező Iroda szervezeti keretei közt történik.
 
-11.[^4] végrehajtó szervezet: Phare programok esetén az ESZA Társadalmi Szolgáltató Nonprofit Kft., a VÁTI Magyar Regionális Fejlesztési és Urbanisztikai Nonprofit Kft., valamint a Központi Pénzügyi és Szerződéskötő Egység, Átmeneti Támogatás esetén a Központi Pénzügyi és Szerződéskötő Egység. A végrehajtó szervezetek feladata a Phare és az Átmeneti Támogatás által támogatott programok pályáztatása, a szerződések megkötése, a kifizetések teljesítése és a technikai megvalósítás;
+11.[^4] végrehajtó szervezet: Phare programok esetén a társadalmi esélyegyenlőség előmozdításáért felelős miniszter, a VÁTI Magyar Regionális Fejlesztési és Urbanisztikai Nonprofit Kft., valamint a Központi Pénzügyi és Szerződéskötő Egység, Átmeneti Támogatás esetén a Központi Pénzügyi és Szerződéskötő Egység. A végrehajtó szervezetek feladata a Phare és az Átmeneti Támogatás által támogatott programok pályáztatása, a szerződések megkötése, a kifizetések teljesítése és a technikai megvalósítás;
 
 12.[^5]
 
@@ -66,7 +66,7 @@
 
 [^2]: A 2. § 8. pontját a 164/2010. (V. 11.) Korm. rendelet 7. §-a hatályon kívül helyezte.
 [^3]: A 2. § 10. pontjának a 113/2011. (VII. 7.) Korm. rendelet 18. §-ával elrendelt módosítása, amely szerint a „Pénzügyminisztérium, Nemzeti Programengedélyező Iroda” szövegrésze helyébe a „Magyar Államkincstár (a továbbiakban: Kincstár)” szöveg lép, nem vezethető át.
-[^4]: A 2. § 11. pontja a 164/2010. (V. 11.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
+[^4]: A 2. § 11. pontja a 164/2010. (V. 11.) Korm. rendelet 6. § a) pontja, a 96/2014. (III. 25.) Korm. rendelet 4. § (2) bekezdése szerint módosított szöveg.
 [^5]: A 2. § 12. pontját a 164/2010. (V. 11.) Korm. rendelet 7. §-a hatályon kívül helyezte.
 [^6]: A 2. § 15. pontja a 113/2011. (VII. 7.) Korm. rendelet 18. §-a szerint módosított szöveg.
 [^7]: A 2. § 20. pontja a 210/2010. (VI. 30.) Korm. rendelet 15. § (8) bekezdése, a 113/2011. (VII. 7.) Korm. rendelet 18. §-a szerint módosított szöveg.
