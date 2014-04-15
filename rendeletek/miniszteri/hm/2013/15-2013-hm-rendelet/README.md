@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-15-20-1
 | --- | --- | --- |
 | 2013-08-27 | 2013-15-20-15.1 | 15/2013. (VIII. 22.) HM rendelet |
 | 2013-08-28 | 2013-15-20-15.2 | 2010: CXXX. törvény |
+| 2014-04-15 | 2013-15-20-15.3 | 6/2014. (IV. 14.) HM rendelet |
