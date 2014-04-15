@@ -1,1 +1,0 @@
-## 8. § A villamos energiáról szóló 2007. évi LXXXVI. törvény egyes rendelkezéseinek végrehajtásáról szóló 273/2007. (X. 19.) Korm. rendelet 24. számú mellékletében foglalt táblázat 18–25. sorában az „Energia Központ Kht.” szövegrész helyébe az „Energia Központ Nonprofit Kft.” szöveg lép.
