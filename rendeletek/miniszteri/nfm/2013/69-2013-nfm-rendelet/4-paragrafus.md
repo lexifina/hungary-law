@@ -28,8 +28,8 @@ l) a 3. § (2) bekezdés e) pontja alapján a kezdeményezések tartalmától f�
 
 (2) Kamattámogatás a támogatást igénylő és a pénzügyi intézmény között létrejött hitelszerződésben meghatározott futamidőre, de legfeljebb a tárgyévet követő 2 évre nyújtható. A kamattámogatás mértéke a fizetendő kamat 100%-át is elérheti, figyelemmel az európai uniós állami támogatási szabályokban meghatározott támogatási intenzitásra.
 
-(3)[^4] A támogatott cél jellegétől függően – ha a pályázati kiírás eltérően nem rendelkezik, a kamattámogatás kivételével – támogatási előleg nyújtható.
+(3)[^5] A támogatott cél jellegétől függően – ha a pályázati kiírás eltérően nem rendelkezik, a kamattámogatás kivételével – támogatási előleg nyújtható.
 
 (4) A pályázati kiírásban fel kell tüntetni, valamint a támogatási szerződésben a kedvezményezettet írásban tájékoztatni kell az odaítélésre kerülő támogatás formájáról és kategóriájáról. A tájékoztatásnak kifejezetten utalnia kell a támogatási kategóriára vonatkozó rendeletre, hivatkozva annak pontos címére és az Európai Közösség Hivatalos Lapjában való kihirdetésére, valamint meg kell határoznia a támogatás pontos összegét támogatástartalomban kifejezve.
 
-[^4]: A 4. § (3) bekezdése a 16/2014. (IV. 3.) NFM rendelet 34. § b) pontja szerint módosított szöveg.
+[^5]: A 4. § (3) bekezdése a 16/2014. (IV. 3.) NFM rendelet 34. § b) pontja szerint módosított szöveg.

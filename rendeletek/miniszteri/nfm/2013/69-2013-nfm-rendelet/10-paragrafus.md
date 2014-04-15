@@ -10,8 +10,8 @@ a) a költséghatékonyabb, a fajlagosan nagyobb ÜHG megtakarítást jelentő p
 
 b) az a) pontnak megfelelő pályázatok közül a komplex, több célt megvalósító fejlesztéseket.
 
-(4)[^8]
+(4)[^10]
 
 (5) A támogatói döntésre vonatkozó tájékoztatással egyidejűleg a pályázó részére a kezelő szerv a támogatási szerződés tervezetét is megküldi.
 
-[^8]: A 10. § (4) bekezdését a 16/2014. (IV. 3.) NFM rendelet 35. §-a hatályon kívül helyezte.
+[^10]: A 10. § (4) bekezdését a 16/2014. (IV. 3.) NFM rendelet 35. §-a hatályon kívül helyezte.

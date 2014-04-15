@@ -1,4 +1,4 @@
-## 20. §[^12]
+## 20. §[^14]
 
 1. melléklet a 69/2013. (XI. 28.) NFM rendelethez
 
@@ -314,4 +314,4 @@ c) az oltalom megadása iránti hivatalos eljárásban, illetve az esetleges fel
 
 12.7. A támogatás nyújtásának egyéb feltételeit a pályázati felhívás határozza meg.
 
-[^12]: A 20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
