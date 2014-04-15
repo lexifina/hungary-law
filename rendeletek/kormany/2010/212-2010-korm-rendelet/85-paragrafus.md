@@ -1,4 +1,4 @@
-85. §[^369] (1) A miniszter a nem európai uniós fejlesztési források felhasználásához kapcsolódó fejlesztéspolitikáért, a fejlesztési célelőirányzatok kezeléséért, szabályozásáért és ellenőrzéséért, valamint a területfejlesztésért való felelőssége körében:
+85. §[^371] (1) A miniszter a nem európai uniós fejlesztési források felhasználásához kapcsolódó fejlesztéspolitikáért, a fejlesztési célelőirányzatok kezeléséért, szabályozásáért és ellenőrzéséért, valamint a területfejlesztésért való felelőssége körében:
 
 a) összehangolja a központi államigazgatási szervek országos szintű fejlesztéssel kapcsolatos tevékenységét, módszereket és követelményeket dolgoz ki a támogatáspolitikai intézkedésekhez,
 
@@ -16,24 +16,26 @@ g) közreműködik a nemzetgazdasági miniszterrel együttműködve a külföldi
 
 h) a fejlesztéspolitikai célkitűzések végrehajtása érdekében közreműködik a központi állami költségvetési politika, valamint a környezetvédelmi, agrár- és infrastruktúrafejlesztési politika, továbbá az egészségügyi, valamint a lakáspolitika kidolgozásában,
 
-i)[^370]
+i)[^372]
 
 j) szakmailag felügyeli a Magyar Fejlesztési Bank Zrt. tevékenységét.
 
-(2)[^371] A miniszter az európai uniós fejlesztési források felhasználásához kapcsolódó felelőssége körében
+(2)[^373] A miniszter az európai uniós fejlesztési források felhasználásához kapcsolódó felelőssége körében
 
 a) biztosítja az európai fejlesztési források felhasználásával megvalósuló, külön jogszabályban meghatározott operatív programok irányító hatósági feladatainak ellátását,
 
 b) szakmailag felügyeli
 
-ba) az NKEK Nemzeti Környezetvédelmi és Energia Központ Nonprofit Korlátolt Felelősségű Társaság,
+ba)[^374]
 
 bb) a Nemzeti Fejlesztési Programiroda Nonprofit Korlátolt Felelősségű Társaság,
 
-bc) a KIKSZ Közlekedésfejlesztési Zártkörűen Működő Részvénytársaság és
+bc)[^375]
 
 bd) a Regionális Fejlesztési Holding Zártkörűen Működő Részvénytársaság
 
-[^369]: A 85. § a 271/2013. (VII. 15.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^370]: A 85. § (1) bekezdés i) pontját az 561/2013. (XII. 31.) Korm. rendelet 11. §-a hatályon kívül helyezte.
-[^371]: A 85. § (2) bekezdése az 550/2013. (XII. 30.) Korm. rendelet 64. §-ával megállapított szöveg.
+[^371]: A 85. § a 271/2013. (VII. 15.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^372]: A 85. § (1) bekezdés i) pontját az 561/2013. (XII. 31.) Korm. rendelet 11. §-a hatályon kívül helyezte.
+[^373]: A 85. § (2) bekezdése az 550/2013. (XII. 30.) Korm. rendelet 64. §-ával megállapított szöveg.
+[^374]: A 85. § (2) bekezdés b) pont ba) alpontját a 96/2014. (III. 25.) Korm. rendelet 5. § (2) bekezdés c) pontja hatályon kívül helyezte.
+[^375]: A 85. § (2) bekezdés b) pont bc) alpontját a 96/2014. (III. 25.) Korm. rendelet 5. § (2) bekezdés c) pontja hatályon kívül helyezte.
