@@ -1,4 +1,6 @@
-## 4/A. [^2] A fővárosi és megyei kormányhivatalok feladatai
+## érvénytelen szavazólapokra vonatkozó adatokat.
+
+## 4/A. [^3] A fővárosi és megyei kormányhivatalok feladatai
 
 7/A. § (1) A fővárosi és megyei kormányhivatal (a továbbiakban: kormányhivatal) a választási feladatok ellátása érdekében a TVI, az OEVI, valamint a HVI vezetője számára biztosítja
 
@@ -50,4 +52,4 @@ h) a választások pénzügyi és logisztikai elszámolási feladatai informatik
 
 (9) A választási iroda és a kormányhivatal együttműködik a választási feladatok határidőre történő elvégzése érdekében. A választási feladatok határidőre történő elvégzése elsőbbséget élvez a fővárosi és megyei kormányhivatal egyéb feladataival szemben.
 
-[^2]: A 4/A. alcímet (7/A. §) a 38/2013. (XII. 30.) KIM rendelet 11. §-a iktatta be.
+[^3]: A 4/A. alcímet (7/A. §) a 38/2013. (XII. 30.) KIM rendelet 11. §-a iktatta be.

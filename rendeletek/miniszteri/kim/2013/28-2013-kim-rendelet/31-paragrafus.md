@@ -24,6 +24,8 @@ df) a választópolgár nem ajánlott-e egy listát többször,
 
 e) beszkenneli a külképviseleteken szavazók szavazólapjait, és informatikai alkalmazás segítségével elvégzi a szavazatok megszámlálását, kivéve, ha az országgyűlési és az európai parlamenti választásra ugyanazon napon kerül sor,
 
-f) a szavazás – az Európai Unió valamennyi tagállamában történő – befejezését követően folyamatosan nyilvánosságra hozza a választás előzetes eredményére vonatkozó tájékoztató adatokat,
+f) a szavazás – az Európai Unió valamennyi tagállamában történő – befejezését követően folyamatosan nyilvánosságra hozza a választás előzetes eredményére vonatkozó tájékoztató adatokat.
 
-g) az NVB döntésének előkészítéseként ellenőrzi a szavazóköri jegyzőkönyvek és a számítógépes rendszerben szereplő adatok azonosságát és annak eredményéről jelentést tesz az NVB-nek.
+g)[^10]
+
+[^10]: A 31. § g) pontját a 26/2014. (IV. 14.) KIM rendelet 3. §-a hatályon kívül helyezte.
