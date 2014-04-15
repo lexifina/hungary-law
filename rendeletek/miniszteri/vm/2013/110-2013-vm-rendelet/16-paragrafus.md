@@ -1,5 +1,3 @@
-## 15. §[^7]
-
 ## 12. A kibocsátás-csökkentő berendezések működési hibáira és meghibásodásaira vonatkozó előírások
 
 16. § (1) A tüzelőberendezéshez kapcsolt kibocsátás-csökkentő berendezés meghibásodása (a továbbiakban: üzemzavar) esetén, amely a kibocsátási határértékek túllépését okozza, az üzemeltető köteles az üzemzavar bekövetkezését követően legkésőbb 24 órán belül visszaállítani a normál üzemmenetet.
@@ -23,5 +21,3 @@ a) az energiaellátás fenntartása – beleértve a hőszolgáltatást is – m
 b) a meghibásodott tüzelőberendezést korlátozott időre olyan másik tüzelőberendezéssel helyettesítenék, amely a kibocsátások általános növekedését okozná.
 
 (6) Az (1) és (2), valamint a (4) és (5) bekezdés szerinti előírásokat a tüzelőberendezés egységes környezethasználati engedélyében fel kell tüntetni.
-
-[^7]: A 15. § a – 31/2014. (IV. 3.) VM rendelet 3. § (3) bekezdésével megállapított – 24. § (2) bekezdés d) pontja alapján 2014. április 15-én lép hatályba.

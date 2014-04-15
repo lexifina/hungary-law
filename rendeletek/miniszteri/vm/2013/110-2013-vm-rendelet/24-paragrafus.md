@@ -4,9 +4,9 @@
 
 ## 17. Hatályba léptető rendelkezések
 
-24. § (1)[^13] Ez a rendelet – a (2) és (3) bekezdésben meghatározott kivétellel – a kihirdetését követő 8. napon lép hatályba.
+24. § (1)[^5] Ez a rendelet – a (2) és (3) bekezdésben meghatározott kivétellel – a kihirdetését követő 8. napon lép hatályba.
 
-(2)[^14] 2014. április 15-én lép hatályba:
+(2)[^6] 2014. április 15-én lép hatályba:
 
 a) a 6. § (1), (6), és (7) bekezdése,
 
@@ -30,8 +30,8 @@ j) a 7. melléklet 1. pontja és
 
 k) a 8. melléklet.
 
-(3)[^15] A 23. § (3) bekezdése és a 27. § (2) bekezdése 2016. január 1-jén lép hatályba.
+(3)[^7] A 23. § (3) bekezdése és a 27. § (2) bekezdése 2016. január 1-jén lép hatályba.
 
-[^13]: A 24. § (1) bekezdése a 31/2014. (IV. 3.) VM rendelet 3. § (2) bekezdése szerint módosított szöveg.
-[^14]: A 24. § (2) bekezdése a 31/2014. (IV. 3.) VM rendelet 3. § (3) bekezdésével megállapított szöveg.
-[^15]: A 24. § (3) bekezdését a 31/2014. (IV. 3.) VM rendelet 3. § (3) bekezdése iktatta be.
+[^5]: A 24. § (1) bekezdése a 31/2014. (IV. 3.) VM rendelet 3. § (2) bekezdése szerint módosított szöveg.
+[^6]: A 24. § (2) bekezdése a 31/2014. (IV. 3.) VM rendelet 3. § (3) bekezdésével megállapított szöveg.
+[^7]: A 24. § (3) bekezdését a 31/2014. (IV. 3.) VM rendelet 3. § (3) bekezdése iktatta be.

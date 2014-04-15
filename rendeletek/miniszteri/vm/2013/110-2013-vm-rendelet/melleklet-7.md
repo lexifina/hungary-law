@@ -2,7 +2,21 @@
 
 ## Minimális kéntelenítési arányok
 
-1.[^21]
+1. Az I., II. és III. kategóriájú tüzelőberendezésekre vonatkozó minimális kéntelenítési arányok
+
+|  | A | B |
+
+| 1 | Teljes névleges bemenő hőteljesítmény (MWth) | Minimális kéntelenítési arány |
+
+| 2 |  | I. és II. kategóriájú tüzelőberendezés | III. kategóriájú tüzelőberendezés |
+
+| 3 | 50 ≤ Pth ≤ 100 | 80 % | 92 % |
+
+| 4 | 100 < Pth ≤ 300 | 90 % | 92 % |
+
+| 5 | Pth > 300 | 96 % | 96 % |
+
+Az olajpalát égető, 300 MWth-ot meghaladó teljes névleges bemenő hőteljesítményű, I. és II. kategóriájú tüzelőberendezések esetében a minimális kéntelenítési arány 95%.
 
 2. A IV. kategóriájú tüzelőberendezésekre vonatkozó minimális kéntelenítési arányok:
 
@@ -17,5 +31,3 @@
 | 4 | Pth > 300 | 97 % |
 
 3. Az 1. és 2. pontban meghatározott minimális kéntelenítési arányokat havi átlagos határértékként kell alkalmazni.
-
-[^21]: A 7. melléklet 1. pontja a – 31/2014. (IV. 3.) VM rendelet 3. § (3) bekezdésével megállapított – 24. § (2) bekezdés j) pontja alapján 2014. április 15-én lép hatályba.

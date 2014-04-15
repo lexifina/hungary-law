@@ -2,9 +2,9 @@
 
 ## 20. Hatályon kívül helyező rendelkezések
 
-27. § (1)[^17]
+27. § (1)[^9]
 
-(2)[^18]
+(2)[^10]
 
-[^17]: A 27. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^18]: A 27. § (2) bekezdése a – 31/2014. (IV. 3.) VM rendelet 3. § (3) bekezdésével beiktatott – 24. § (3) bekezdése alapján 2016. január 1-jén lép hatályba.
+[^9]: A 27. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 27. § (2) bekezdése a – 31/2014. (IV. 3.) VM rendelet 3. § (3) bekezdésével beiktatott – 24. § (3) bekezdése alapján 2016. január 1-jén lép hatályba.

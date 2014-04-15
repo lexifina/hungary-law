@@ -4,7 +4,7 @@
 
 ## 6. Kibocsátási határértékek
 
-6. § (1)[^2]
+6. § (1) Az I., II. és III. kategóriájú tüzelőberendezés légszennyező anyag kibocsátása – a (6) és (7) bekezdés szerinti kivétellel – az 1. mellékletben foglalt kibocsátási határértékeket nem haladhatja meg.
 
 (2) A IV. kategóriájú tüzelőberendezés légszennyező anyag kibocsátása a 2. mellékletben foglalt kibocsátási határértékeket nem haladhatja meg.
 
@@ -14,7 +14,6 @@
 
 (5) A tüzelőberendezést tartalmazó létesítményre vonatkozó engedélynek tartalmaznia kell azokat a feltételeket, amelyek biztosítják, hogy a tüzelőberendezés kibocsátásai nem haladják meg az előírt kibocsátási határértékeket.
 
-(6)–(7)[^3]
+(6) A dízelmotorokra és a papírrostot gyártó létesítményben működő regeneráló kazánokra az 1. és 2. mellékletben szereplő kibocsátási határértékeket nem kell alkalmazni.
 
-[^2]: A 6. § (1) bekezdése a – 31/2014. (IV. 3.) VM rendelet 3. § (3) bekezdésével megállapított – 24. § (2) bekezdés a) pontja alapján 2014. április 15-én lép hatályba.
-[^3]: A 6. § (6)–(7) bekezdése a – 31/2014. (IV. 3.) VM rendelet 3. § (3) bekezdésével megállapított – 24. § (2) bekezdés a) pontja alapján 2014. április 15-én lép hatályba.
+(7) Az évi 500 üzemóránál kevesebbet üzemelő, a villamosenergia-rendszer teljesítmény egyensúlyának biztosítása céljából, a villamosenergia-rendszer rendszerirányítója által szerződéssel lekötött, vészhelyzeti tartalék gázturbinákra és gázmotorokra az 1. melléklet 10. pontjában és a 2. melléklet 10. pontjában foglalt kibocsátási határértékek nem vonatkoznak. E bekezdés szerinti gázturbinák és gázmotorok üzemeltetését dokumentálni kell, és az üzemeltetés tényét és körülményeit a felügyelőségnek az üzemeltetés megkezdését követő 5 napon belül be kell jelenteni. Az üzemeltetőnek az éves üzemórákról nyilvántartást kell vezetni.

@@ -84,6 +84,10 @@ q1+q2+..qn = az összes tüzelőanyag által biztosított bemenő hőteljesítm�
 
 E = E1s + E2s + ……Ens
 
-4.[^20]
+4. A kőolajfinomítókban működő, a nyersolaj finomításból származó lepárlási és átalakítási maradékanyagokat önmagukban vagy más tüzelőanyagokkal együtt, saját fogyasztás céljából felhasználó, vegyes tüzelésű tüzelőberendezéseknél, a gázturbinák és gázmotorok kivételével, az alábbi SO2 kibocsátási határértéket kell alkalmazni:
 
-[^20]: Az 5. melléklet 4. pontja a – 31/2014. (IV. 3.) VM rendelet 3. § (3) bekezdésével megállapított – 24. § (2) bekezdés i) pontja alapján 2014. április 15-én lép hatályba.
+4.1. I. és II. kategóriájú tüzelőberendezéseknél: 1000 mg/Nm3;
+
+4.2. III. kategóriájú tüzelőberendezéseknél: 600 mg/Nm3.
+
+A kibocsátási határértékek 273,15 K hőmérsékletű, 101,3 kPa nyomású, száraz, szilárd tüzelőanyagok esetében 6 tf%, folyékony vagy gáz halmazállapotú tüzelőanyagok esetében 3 tf% oxigéntartalmú füstgázra vonatkoznak.
