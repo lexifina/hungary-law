@@ -1,4 +1,4 @@
-1. melléklet az 1/2004. (I. 5.) Korm. rendelethez[^64]
+1. melléklet az 1/2004. (I. 5.) Korm. rendelethez[^66]
 
 E rendeletben meghatározott egyes intézmények működtetéséért felelős személyek
 
@@ -20,10 +20,10 @@ E rendeletben meghatározott egyes intézmények működtetéséért felelős sz
 
 | 8 | Kohéziós Alap Irányító Hatóság | közlekedésért, energetikapolitikáért felelős miniszter |
 
-| 9 | Kohéziós Alap környezetvédelmi közreműködő szervezet | közlekedésért, energetikapolitikáért felelős miniszter |
+| 9 |  |  |
 
-| 10 | Kohéziós Alap közlekedési közreműködő szervezet | közlekedésért, energetikapolitikáért felelős miniszter |
+| 10 |  |  |
 
 | 11 | Kifizető Hatóság | államháztartásért felelős miniszter |
 
-[^64]: Az 1. melléklet az 550/2013. (XII. 30.) Korm. rendelet 4. §-ával megállapított, a 27/2014. (II. 7.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^66]: Az 1. melléklet az 550/2013. (XII. 30.) Korm. rendelet 4. §-ával megállapított, a 27/2014. (II. 7.) Korm. rendelet 2. §-a, a 96/2014. (III. 25.) Korm. rendelet 5. § (2) bekezdés a) pontja szerint módosított szöveg.

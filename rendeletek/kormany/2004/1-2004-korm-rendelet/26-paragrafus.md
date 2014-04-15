@@ -20,6 +20,6 @@ h) a támogatások felhasználására vonatkozó értékelések irányítása;
 
 i) a közreműködő szervezetek által végzett feladatok nyomon követése.
 
-(2)[^47] A Kohéziós Alapból támogatásra javasolt projekteket a Kohéziós Alap Irányító Hatóság vezetőjének javaslatára a fejlesztéspolitikáért felelős kormánybiztos a Kormány elé terjeszti.
+(2)[^48] A Kohéziós Alapból támogatásra javasolt projekteket a Kohéziós Alap Irányító Hatóság vezetőjének javaslatára a fejlesztéspolitikáért felelős kormánybiztos a Kormány elé terjeszti.
 
-[^47]: A 26. § (2) bekezdése a 192/2006. (IX. 20.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^48]: A 26. § (2) bekezdése a 192/2006. (IX. 20.) Korm. rendelet 8. §-ával megállapított szöveg.
