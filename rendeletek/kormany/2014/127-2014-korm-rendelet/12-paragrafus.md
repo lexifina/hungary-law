@@ -1,1 +1,0 @@
-## „(2a) A szabálytalansági eljárás során eljáró szervezet a szabálytalansági eljárás felfüggesztéséről, illetve a felfüggesztés visszavonásáról a felfüggesztéstől, illetve a visszavonástól számított 5 napon belül értesíti az érintett projekt kedvezményezettjét.”
