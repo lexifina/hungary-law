@@ -1,19 +1,23 @@
-## 8. §[^2]
+## 8. §[^4]
 
 ## 9. § Az R2.
 
-a) 3. § (1) bekezdés f) pontjában a „Civil tv. 53. § (8) bekezdése” szövegrész helyébe a „Civil tv. 53/B. § (3) bekezdése” szöveg
+a)[^5]
 
-b) 15. § (2) bekezdésében a „Civil tv. 53. § (7) bekezdésében” szövegrész helyébe a „Civil tv. 53/A. § (1) bekezdésében” szöveg
+b)[^6]
 
-c)[^3]
+c)[^7]
 
-d)[^4]
+d)[^8]
 
-e) 1. melléklet B:9 mezőjében a „Civil tv. 53. § (8) bekezdése” szövegrész helyébe a „Civil tv. 53/B. § (3) bekezdése” szöveg
+e)[^9]
 
-f) 1. melléklet C:9 mezőjében „A beszámoló letétbe helyezését követő 90 napon belül” szövegrész helyébe „A vagyonnyilatkozat átvételét követő 15 napon belül” szöveg
+f)[^10]
 
-[^2]: A 8. § a 10. § (2) bekezdése alapján 2014. július 1-jén lép hatályba.
-[^3]: A 9. § c) pontja a 10. § (2) bekezdése alapján 2014. július 1-jén lép hatályba.
-[^4]: A 9. § d) pontja a 10. § (2) bekezdése alapján 2014. július 1-jén lép hatályba.
+[^4]: A 8. § a 10. § (2) bekezdése alapján 2014. július 1-jén lép hatályba.
+[^5]: A 9. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 9. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 9. § c) pontja a 10. § (2) bekezdése alapján 2014. július 1-jén lép hatályba.
+[^8]: A 9. § d) pontja a 10. § (2) bekezdése alapján 2014. július 1-jén lép hatályba.
+[^9]: A 9. § e) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 9. § f) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
