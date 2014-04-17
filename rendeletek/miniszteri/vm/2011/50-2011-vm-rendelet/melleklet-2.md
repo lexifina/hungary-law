@@ -8,13 +8,13 @@
 
 ## 1.1.2. induló vállalkozások esetében szakmai végzettséget igazoló bizonyítvány hiteles másolata, vagy legalább 3 éves halgazdálkodási szakmai tapasztalatról szóló igazolás.
 
-## 1.2. Építési, illetve vízjogi engedélyköteles beruházások esetén:
+## 1.2. Építési, vízjogi, illetve közlekedési hatósági engedélyköteles beruházások esetén:
 
 ## 1.2.1. az illetékes hatóság által kiállított jogerős építési engedély;
 
 ## 1.2.2. az illetékes hatóság által kiállított jogerős vízjogi engedély
 
-## 1.2.3. amennyiben nem építési-, vagy vízjogi létesítési engedélyköteles a beruházás, az illetékes hatóság erre vonatkozó nyilatkozata;
+## 1.2.3. amennyiben nem építésügyi hatósági engedély vagy bejelentés-köteles, illetve nem vízjogi engedélyköteles, illetve nem közlekedési hatósági engedélyköteles a beruházás, az illetékes hatóság erre vonatkozó nyilatkozata;
 
 ## 1.2.4. az illetékes hatóság által jóváhagyott, engedélyezési záradékkal ellátott építészeti-műszaki dokumentációt;
 
@@ -27,6 +27,8 @@
 ## 1.2.8. felújítást tartalmazó építési beruházások esetén a beruházás tárgyát képző létesítmény érvényes vízjogi üzemeltetési engedélye;
 
 ## 1.2.9. intenzív haltermelő üzem önálló gépbeszerzési projektjénél a halszállító gépjármű, erőgépek és talajművelő eszközök támogatása esetén a kérelem benyújtását megelőző évre vonatkozóan a megyei halászati felügyelőnek benyújtott – az Országos Statisztikai Adatgyűjtési Program adatgyűjtéseiről és adatátvételeiről szóló kormányrendelet szerinti – „Lehalászás” című jelentőlap másolata.
+
+## 1.2.10. az illetékes hatóság által kiállított jogerős közlekedési hatósági engedély.
 
 ## 1.3. Értékelést befolyásoló dokumentumok:
 
@@ -86,6 +88,6 @@
 
 ## 3.2. Egyéb dokumentumok: árajánlatok.
 
-2. melléklet az 50/2011. (VI. 6.) VM rendelethez[^95]
+2. melléklet az 50/2011. (VI. 6.) VM rendelethez[^108]
 
-[^95]: A 2. melléklet a 97/2012. (IX. 13.) VM rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^108]: A 2. melléklet a 97/2012. (IX. 13.) VM rendelet 16. § (1) bekezdésével megállapított szöveg.

@@ -18,7 +18,7 @@ keretében nyújtott támogatásból való kizárás hatálya alatt.
 
 (2) Az ügyfél önkéntes hiánypótlása – a benyújtás dátumától függetlenül – nem kerül feldolgozásra.
 
-(3)[^15] Az ügyfél a mezőgazdasági őstermelői nyilvántartásba vételének igazolása céljából a mezőgazdasági őstermelői igazolványa másolatának és az annak tartalmát képező személyes adatainak kezeléséhez való írásbeli hozzájárulását tartalmazó nyilatkozatának benyújtásával kérheti az MVH-tól, hogy a Nemzeti Élelmiszerlánc-biztonsági Hivatal megkeresése helyett a mezőgazdasági őstermelői igazolvány ügyfél által benyújtott másolata alapján állapítsa meg a támogatásra való jogosultság fennállását.
+(3)[^16] Az ügyfél a mezőgazdasági őstermelői nyilvántartásba vételének igazolása céljából a mezőgazdasági őstermelői igazolványa másolatának és az annak tartalmát képező személyes adatainak kezeléséhez való írásbeli hozzájárulását tartalmazó nyilatkozatának benyújtásával kérheti az MVH-tól, hogy a Nemzeti Élelmiszerlánc-biztonsági Hivatal megkeresése helyett a mezőgazdasági őstermelői igazolvány ügyfél által benyújtott másolata alapján állapítsa meg a támogatásra való jogosultság fennállását.
 
 (4) Ha a benyújtott támogatási kérelem formanyomtatványain szolgáltatott adatokból az elszámolható kiadások összege, vagy a támogatási összeg nem állapítható meg, a kérelem hiánypótlásra történő felszólítás nélkül elutasításra kerül.
 
@@ -42,11 +42,11 @@ h) az ügyfél aláírását
 
 tartalmazzák.
 
-(6)[^16] Támogatási kérelmet 2013. október 1. és október 31. között lehet benyújtani.
+(6)[^17] Támogatási kérelmet 2013. október 1. és október 31. között lehet benyújtani.
 
 (7) Egy ügyfél egy támogatási kérelem benyújtási időszakban egy intézkedésre konvergencia területenként egy támogatási kérelmet nyújthat be. A támogatási kérelem konvergencia területenként több telephelyre vonatkozhat.
 
 (8) A támogatási kérelemhez mellékelni kell az 1. mellékletben felsorolt, a kérelemmel érintett intézkedésre vonatkozó dokumentumokat.
 
-[^15]: Az 5. § (3) bekezdése a 97/2012. (IX. 13.) VM rendelet 15. § (2) bekezdése szerint módosított szöveg.
-[^16]: Az 5. § (6) bekezdése a 85/2013. (IX. 25.) VM rendelet 3. §-ával megállapított szöveg.
+[^16]: Az 5. § (3) bekezdése a 97/2012. (IX. 13.) VM rendelet 15. § (2) bekezdése szerint módosított szöveg.
+[^17]: Az 5. § (6) bekezdése a 85/2013. (IX. 25.) VM rendelet 3. §-ával megállapított szöveg.

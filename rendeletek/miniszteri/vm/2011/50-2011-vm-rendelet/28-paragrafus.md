@@ -4,7 +4,7 @@
 
 a) a mezőgazdasági őstermelő,
 
-b)[^54] a Magyarországon bejegyzett egyéni vállalkozó, egyéni cég, gazdasági társaság, és szövetkezet, ha
+b)[^62] a Magyarországon bejegyzett egyéni vállalkozó, egyéni cég, gazdasági társaság, és szövetkezet, ha
 
 ba) a 2. § (1) bekezdés 28. pontja alapján mikro-, kis- vagy középvállalkozásnak minősül; vagy
 
@@ -16,36 +16,36 @@ amennyiben haltermelési tevékenységet folytat, vagy az igényelt termelő ber
 
 (3) Halastavak, intenzív haltermelő üzemek építése és felújítása esetén a támogatott beruházásokon kizárólag haltermelési tevékenység folytatható a kötelező üzemeltetési időszak végéig.
 
-(4)[^55] Önálló gépberuházási projektként kizárólag a 2. mellékletben felsorolt halgazdálkodási gépek, eszközök, berendezések támogathatóak. Halszállító gépjármű, illetve erőgépek és talajművelő eszközök beszerzésének támogatási feltétele, hogy a kérelmező legalább 20 hektár halastavat üzemeltessen, vagy legalább 20 tonna/év bruttó haltermelésű intenzív haltermelő üzemet működtessen.
+(4)[^63] Önálló gépberuházási projektként kizárólag a 2. mellékletben felsorolt halgazdálkodási gépek, eszközök, berendezések támogathatóak. Halszállító gépjármű, illetve erőgépek és talajművelő eszközök beszerzésének támogatási feltétele, hogy a kérelmező legalább 20 hektár halastavat üzemeltessen, vagy legalább 20 tonna/év bruttó haltermelésű intenzív haltermelő üzemet működtessen.
 
-(4a)[^56] Az erőgépek maximum 125 kW teljesítményig, talajművelő eszközök közül pedig a tárcsák és boronák támogathatók maximum 80 kW vonóerő igényig.
+(4a)[^64] Az erőgépek maximum 125 kW teljesítményig, talajművelő eszközök közül pedig a tárcsák és boronák támogathatók maximum 80 kW vonóerő igényig.
 
-(5)[^57] Halszállító gépjármű, erőgépek, talajművelő eszközök, és lánctalpas, illetve úszó kotrógép beszerzése termelő beruházási támogatásra vonatkozó kérelemmel együtt is lehetséges; a támogatott gépek és talajművelő eszközök nettó bekerülési értéke nem lehet több mint a termelői infrastruktúra beruházás nettó értékének 50%-a. A támogatandó gépek kötelező felszerelései, valamint az opcionálisan választható biztonsági felszerelések, elektronikus útdíj fizetéshez szükséges berendezések támogathatóak, kényelmi felszerelések, berendezések közül csak a klímaberendezés támogatható.
+(5)[^65] Halszállító gépjármű, erőgépek, talajművelő eszközök, és lánctalpas, illetve úszó kotrógép beszerzése termelő beruházási támogatásra vonatkozó kérelemmel együtt is lehetséges; a támogatott gépek és talajművelő eszközök nettó bekerülési értéke nem lehet több mint a termelői infrastruktúra beruházás nettó értékének 50%-a. A támogatandó gépek kötelező felszerelései, valamint az opcionálisan választható biztonsági felszerelések, elektronikus útdíj fizetéshez szükséges berendezések támogathatóak, kényelmi felszerelések, berendezések közül csak a klímaberendezés támogatható.
 
-(6)[^58]
+(6)[^66]
 
-(7)[^59] Induló vállalkozások esetén a haltermelő telep irányítójának megfelelő szakmai képesítéssel (szakirányú felsőfokú végzettség, vagy a 31 6272 01 Halász, vagy a 31 624 01 0000 00 00 Halász, haltenyésztő OKJ szerinti szakképesítés, vagy az Országos Képzési Jegyzékről szóló 37/2003. (XII. 27.) OM rendelet hatálybalépését[^60] megelőzően megszerzett, a fenti szakképesítésekkel egyenértékű szakképesítés), vagy 3 éves halgazdálkodási szakmai tapasztalattal kell rendelkeznie.
+(7)[^67] Induló vállalkozások esetén a haltermelő telep irányítójának megfelelő szakmai képesítéssel (szakirányú felsőfokú végzettség, vagy a 31 6272 01 Halász, vagy a 31 624 01 0000 00 00 Halász, haltenyésztő OKJ szerinti szakképesítés, vagy az Országos Képzési Jegyzékről szóló 37/2003. (XII. 27.) OM rendelet hatálybalépését[^68] megelőzően megszerzett, a fenti szakképesítésekkel egyenértékű szakképesítés), vagy 3 éves halgazdálkodási szakmai tapasztalattal kell rendelkeznie.
 
-(8)[^61]
+(8)[^69]
 
 (9) Amennyiben az ügyfél új, a területileg illetékes természetvédelmi hatóság által igazoltan a természetes növény- és állatvilágra veszélyt nem jelentő ún. termelésbe vont új halfajt kíván bevonni a termelésébe a termelő beruházási támogatás által, abban az esetben adható a rendelet 3. melléklet Akvakultúra 2.1. értékelő táblázat 1.3. „Termelési struktúra” szempontjára pont, amennyiben csatolásra kerül az 1. melléklet 1.3.2. pontjában foglalt dokumentum.
 
-(10)[^62] Amennyiben az ügyfél MEPAR blokkazonosító szerint igazoltan kedvezőtlen adottságú területen kíván beruházást megvalósítani, a 3. melléklet Akvakultúra 2.1. Kiválasztási kritériumok Horizontális szempontok környezetvédelemmel kapcsolatos részénél a támogatási kérelem értékelése során a maximális 8 pontot kell megállapítani.
+(10)[^70] Amennyiben az ügyfél MEPAR blokkazonosító szerint igazoltan kedvezőtlen adottságú területen kíván beruházást megvalósítani, a 3. melléklet Akvakultúra 2.1. Kiválasztási kritériumok Horizontális szempontok környezetvédelemmel kapcsolatos részénél a támogatási kérelem értékelése során a maximális 8 pontot kell megállapítani.
 
-(11)[^63] Lánctalpas, illetve úszó kotrógép beszerzésére beruházási támogatást a legalább 200 hektár összes üzemelő halastó területtel rendelkező ügyfél, a HOP 2007–2013. évi programozási időszakában egy alkalommal nyújthat be.
+(11)[^71] Lánctalpas, illetve úszó kotrógép beszerzésére beruházási támogatást a legalább 200 hektár összes üzemelő halastó területtel rendelkező ügyfél, a HOP 2007–2013. évi programozási időszakában egy alkalommal nyújthat be.
 
 (12) A tavak folyamatos karbantartását biztosító lánctalpas kotrógép a termelő infrastruktúra részének tekintendő.
 
-(13)[^64] A haltermelő vállalkozás közvetlen értékesítését szolgáló beruházások a telephelyen, illetve legalább 20 hektár halastó terület üzemeltetése esetén azon kívül is támogathatóak.
+(13)[^72] A haltermelő vállalkozás közvetlen értékesítését szolgáló beruházások a telephelyen, illetve legalább 20 hektár halastó terület üzemeltetése esetén azon kívül is támogathatóak.
 
-[^54]: A 28. § (1) bekezdés b) pontja a 85/2013. (IX. 25.) VM rendelet 12. § (1) bekezdésével megállapított szöveg.
-[^55]: A 28. § (4) bekezdése a 85/2013. (IX. 25.) VM rendelet 12. § (2) bekezdésével megállapított szöveg.
-[^56]: A 28. § (4a) bekezdését a 85/2013. (IX. 25.) VM rendelet 12. § (3) bekezdése iktatta be.
-[^57]: A 28. § (5) bekezdése a 85/2013. (IX. 25.) VM rendelet 12. § (4) bekezdésével megállapított szöveg.
-[^58]: A 28. § (6) bekezdését a 97/2012. (IX. 13.) VM rendelet 17. § (2) bekezdése hatályon kívül helyezte.
-[^59]: A 28. § (7) bekezdése a 85/2013. (IX. 25.) VM rendelet 12. § (5) bekezdésével megállapított szöveg.
-[^60]: A hatálybalépés időpontja 2004. január 1.
-[^61]: A 28. § (8) bekezdését a 97/2012. (IX. 13.) VM rendelet 17. § (2) bekezdése hatályon kívül helyezte.
-[^62]: A 28. § (10) bekezdése a 97/2012. (IX. 13.) VM rendelet 11. §-ával megállapított szöveg.
-[^63]: A 28. § (11) bekezdése a 85/2013. (IX. 25.) VM rendelet 12. § (6) bekezdésével megállapított szöveg.
-[^64]: A 28. § (13) bekezdését a 85/2013. (IX. 25.) VM rendelet 12. § (7) bekezdése iktatta be.
+[^62]: A 28. § (1) bekezdés b) pontja a 85/2013. (IX. 25.) VM rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^63]: A 28. § (4) bekezdése a 85/2013. (IX. 25.) VM rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^64]: A 28. § (4a) bekezdését a 85/2013. (IX. 25.) VM rendelet 12. § (3) bekezdése iktatta be.
+[^65]: A 28. § (5) bekezdése a 85/2013. (IX. 25.) VM rendelet 12. § (4) bekezdésével megállapított szöveg.
+[^66]: A 28. § (6) bekezdését a 97/2012. (IX. 13.) VM rendelet 17. § (2) bekezdése hatályon kívül helyezte.
+[^67]: A 28. § (7) bekezdése a 85/2013. (IX. 25.) VM rendelet 12. § (5) bekezdésével megállapított szöveg.
+[^68]: A hatálybalépés időpontja 2004. január 1.
+[^69]: A 28. § (8) bekezdését a 97/2012. (IX. 13.) VM rendelet 17. § (2) bekezdése hatályon kívül helyezte.
+[^70]: A 28. § (10) bekezdése a 97/2012. (IX. 13.) VM rendelet 11. §-ával megállapított szöveg.
+[^71]: A 28. § (11) bekezdése a 85/2013. (IX. 25.) VM rendelet 12. § (6) bekezdésével megállapított szöveg.
+[^72]: A 28. § (13) bekezdését a 85/2013. (IX. 25.) VM rendelet 12. § (7) bekezdése iktatta be.

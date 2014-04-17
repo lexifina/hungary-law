@@ -4,6 +4,6 @@
 
 (2) Az MVH a kérelemnek – a 6. § (4) bekezdésben foglaltak kivételével – a nem megfelelés által érintett részét elutasítja. Kifizetési kérelem esetén az elutasított kiadás a 10. § (6) bekezdése szerinti soron következő időszakban ismételten benyújtható.
 
-(3)[^49] A 10. § (2) bekezdés szerinti feltétel nem teljesülése esetén a támogatás jogosulatlanul igénybe vett támogatásnak minősül és az ügyfél az elkésett kifizetési kérelem benyújtásának alapjául szolgáló támogatási határozat vonatkozásában további kifizetési kérelem benyújtására nem jogosult.
+(3)[^55] A 10. § (2) bekezdés szerinti feltétel nem teljesülése esetén a támogatás jogosulatlanul igénybe vett támogatásnak minősül és az ügyfél az elkésett kifizetési kérelem benyújtásának alapjául szolgáló támogatási határozat vonatkozásában további kifizetési kérelem benyújtására nem jogosult.
 
-[^49]: A 25. § (3) bekezdését a 97/2012. (IX. 13.) VM rendelet 10. §-a iktatta be.
+[^55]: A 25. § (3) bekezdését a 97/2012. (IX. 13.) VM rendelet 10. §-a iktatta be.

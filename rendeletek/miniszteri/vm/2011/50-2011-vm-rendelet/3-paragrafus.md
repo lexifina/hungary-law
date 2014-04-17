@@ -2,7 +2,7 @@
 
 3. § (1) A támogatás vissza nem térítendő jellegű.
 
-(2)[^13] Az egy támogatási kérelem benyújtásával igénybe vehető támogatás legmagasabb összege
+(2)[^14] Az egy támogatási kérelem benyújtásával igénybe vehető támogatás legmagasabb összege
 
 a) konvergencia területek esetében természetes vízi halgazdálkodás című intézkedés keretében legfeljebb 60 millió forint, az akvakultúrába történő termelő beruházásokra vonatkozó intézkedés keretében 150 millió forint, és a halfeldolgozáshoz és értékesítéshez nyújtandó támogatások intézkedés keretében legfeljebb 100 millió forint,
 
@@ -20,7 +20,7 @@ b) egy lezárt üzleti évvel rendelkező vállalkozások esetében a lezárt é
 
 c) induló vállalkozások esetében a támogatott beruházás aktiválását követő első két üzleti év tervezett halászati árbevétel átlagának háromszorosa,
 
-d)[^14] a legalább egy lezárt üzleti évvel rendelkező vállalkozások esetében választható az igényelt támogatás összegének meghatározásakor, a támogatott beruházás aktiválását követő első két üzleti év tervezett halászati árbevétel átlagának háromszorosa,
+d)[^15] a legalább egy lezárt üzleti évvel rendelkező vállalkozások esetében választható az igényelt támogatás összegének meghatározásakor, a támogatott beruházás aktiválását követő első két üzleti év tervezett halászati árbevétel átlagának háromszorosa,
 
 de legfeljebb a (2) bekezdésben foglalt összeg. Kettős könyvvitelt nem vezetők esetében a nettó árbevétel alatt az adóalapba beszámító bevétel értendő.
 
@@ -34,5 +34,5 @@ c) a maximális támogatás-intenzitásnál kisebb mértékű támogatási igén
 
 (5) Egy támogatási kérelem azonos intézkedésen belül több tevékenységre is irányulhat.
 
-[^13]: A 3. § (2) bekezdése a 85/2013. (IX. 25.) VM rendelet 2. §-ával megállapított szöveg.
-[^14]: A 3. § (3) bekezdés d) pontját a 97/2012. (IX. 13.) VM rendelet 2. §-a iktatta be.
+[^14]: A 3. § (2) bekezdése a 85/2013. (IX. 25.) VM rendelet 2. §-ával megállapított szöveg.
+[^15]: A 3. § (3) bekezdés d) pontját a 97/2012. (IX. 13.) VM rendelet 2. §-a iktatta be.

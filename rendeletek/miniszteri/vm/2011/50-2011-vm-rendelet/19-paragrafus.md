@@ -2,11 +2,15 @@
 
 a) ha a beruházás nem saját tulajdonú vagy más személy olyan jogával terhelt ingatlanon valósul meg, amely a beruházás megvalósítását, illetve az üzemeltetési kötelezettség lejártáig annak használatát korlátozza vagy kizárja, azt a teljes bizonyító erejű okiratot, amely igazolja, hogy az ügyfél jogosult a beruházást az okiratban feltüntetett ingatlanon megvalósítani és az ingatlant az üzemeltetési kötelezettsége lejártáig használni;
 
-b) tervdokumentációt, tervezői költségvetést;
+b)[^39] építési beruházás esetén a tervdokumentációt, tervezői költségvetést;
 
-c) jogerős építésügyi hatósági engedély vagy bejelentés vagy jogerős vízjogi létesítési vagy jogerős közlekedés hatósági engedélyt, amennyiben nem engedélyköteles a beruházás az illetékes hatóság erre vonatkozó nyilatkozatát;
+c)[^40] az ügyfél nevére szóló
 
-d)[^36] minden elszámolni kívánt kiadáshoz legalább két – egy elfogadott és egy vagy több el nem fogadott – független árajánlatot;
+ca) a jogerős építésügyi hatósági engedélyt vagy tudomásulvételt, a jogerős vízjogi létesítési engedélyt vagy jogerős közlekedési hatósági engedélyt, vagy
+
+cb) a hatáskörrel és illetékességgel rendelkező hatóság arra vonatkozó nyilatkozatát, hogy a beruházás nem építésügyi hatósági engedély- vagy bejelentés-köteles, illetve nem vízjogi engedélyköteles, illetve nem közlekedési hatósági engedélyköteles;
+
+d)[^41] minden elszámolni kívánt kiadáshoz legalább két – egy elfogadott és egy vagy több el nem fogadott – független árajánlatot;
 
 e) kettős könyvvitelt vezető vállalkozások esetében az utolsó két lezárt üzleti évre vonatkozó számviteli beszámolót, kettős könyvvitelt nem vezetők esetében az utolsó két év adóbevallását, egy lezárt üzleti évvel rendelkezők esetében a lezárt évre vonatkozó éves beszámolót vagy adóbevallást;
 
@@ -18,13 +22,13 @@ h) a gazdálkodó szervezet fennállását igazoló hiteles okiratot (különös
 
 i) a fennállást igazoló okiratban meghatározott képviselőtől eltérő képviselet esetén a gazdálkodó szervezet képviselőjének aláírási jogosultságát igazoló – közokiratnak vagy teljes bizonyító erejű magánokiratnak minősülő – okiratot.
 
-(2) Az (1) bekezdés b)–c) pontjában feltüntetett dokumentumokra vonatkozóan hiánypótlásnak nincs helye.
+(2)[^42] Az (1) bekezdés b) pontjában, valamint c) pont ca) alpontjában feltüntetett dokumentumokra vonatkozóan hiánypótlásnak nincs helye.
 
-(3)[^37] Amennyiben az ügyfél a támogatási kérelemben a magasabb összegű árajánlatot választja, úgy a választását köteles megindokolni.
+(3)[^43] Amennyiben az ügyfél a támogatási kérelemben a magasabb összegű árajánlatot választja, úgy a választását köteles megindokolni.
 
-(4)[^38] Az építmények elszámolható költségeit a támogatási kérelemben az elfogadott kivitelezői árajánlat alapján kell meghatározni.
+(4)[^44] Az építmények elszámolható költségeit a támogatási kérelemben az elfogadott kivitelezői árajánlat alapján kell meghatározni.
 
-(5)[^39] Az árajánlatok nem származhatnak
+(5)[^45] Az árajánlatok nem származhatnak
 
 a) az ügyfél saját vagy kapcsolt vállalkozásától;
 
@@ -38,16 +42,19 @@ e) olyan vállalkozástól, amelynek bármely tagja tisztségviselő a támogat�
 
 f) olyan vállalkozástól, amellyel az a)–e) pont szerinti feltétel harmadik társaságon keresztül valósul meg.
 
-(6)[^40] Amennyiben az (5) bekezdésben leírt tulajdonosi átfedés bármelyike fennáll, úgy az érintett dokumentumra vonatkozóan hiánypótlásnak nincs helye.
+(6)[^46] Amennyiben az (5) bekezdésben leírt tulajdonosi átfedés bármelyike fennáll, úgy az érintett dokumentumra vonatkozóan hiánypótlásnak nincs helye.
 
-(7)[^41] Az ugyanarra a beruházási elemre vonatkozó elfogadott és elutasított árajánlatok nem származhatnak olyan vállalkozásoktól, amelyek az (5) bekezdésben felsorolt bármely módon kapcsolatban állnak egymással.
+(7)[^47] Az ugyanarra a beruházási elemre vonatkozó elfogadott és elutasított árajánlatok nem származhatnak olyan vállalkozásoktól, amelyek az (5) bekezdésben felsorolt bármely módon kapcsolatban állnak egymással.
 
-(8)[^42] A forinttól eltérő pénznemben kiállított árajánlatot az árajánlat keltét megelőző hónap utolsó banki munkanapján érvényes – a Magyar Nemzeti Bank által közzétett – hivatalos árfolyamon kell átszámítani forintra.
+(8)[^48] A forinttól eltérő pénznemben kiállított árajánlatot az árajánlat keltét megelőző hónap utolsó banki munkanapján érvényes – a Magyar Nemzeti Bank által közzétett – hivatalos árfolyamon kell átszámítani forintra.
 
-[^36]: A 19. § (1) bekezdés d) pontja a 97/2012. (IX. 13.) VM rendelet 15. § (3) bekezdése szerint módosított szöveg.
-[^37]: A 19. § (3) bekezdése a 97/2012. (IX. 13.) VM rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^38]: A 19. § (4) bekezdését a 97/2012. (IX. 13.) VM rendelet 7. § (2) bekezdése iktatta be.
-[^39]: A 19. § (5) bekezdését a 97/2012. (IX. 13.) VM rendelet 7. § (2) bekezdése iktatta be.
-[^40]: A 19. § (6) bekezdését a 97/2012. (IX. 13.) VM rendelet 7. § (2) bekezdése iktatta be.
-[^41]: A 19. § (7) bekezdését a 97/2012. (IX. 13.) VM rendelet 7. § (2) bekezdése iktatta be.
-[^42]: A 19. § (8) bekezdését a 85/2013. (IX. 25.) VM rendelet 7. §-a iktatta be.
+[^39]: A 19. § (1) bekezdés b) pontja a 44/2014. (IV. 14.) VM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^40]: A 19. § (1) bekezdés c) pontja a 44/2014. (IV. 14.) VM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^41]: A 19. § (1) bekezdés d) pontja a 97/2012. (IX. 13.) VM rendelet 15. § (3) bekezdése szerint módosított szöveg.
+[^42]: A 19. § (2) bekezdése a 44/2014. (IV. 14.) VM rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^43]: A 19. § (3) bekezdése a 97/2012. (IX. 13.) VM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^44]: A 19. § (4) bekezdését a 97/2012. (IX. 13.) VM rendelet 7. § (2) bekezdése iktatta be.
+[^45]: A 19. § (5) bekezdését a 97/2012. (IX. 13.) VM rendelet 7. § (2) bekezdése iktatta be.
+[^46]: A 19. § (6) bekezdését a 97/2012. (IX. 13.) VM rendelet 7. § (2) bekezdése iktatta be.
+[^47]: A 19. § (7) bekezdését a 97/2012. (IX. 13.) VM rendelet 7. § (2) bekezdése iktatta be.
+[^48]: A 19. § (8) bekezdését a 85/2013. (IX. 25.) VM rendelet 7. §-a iktatta be.
