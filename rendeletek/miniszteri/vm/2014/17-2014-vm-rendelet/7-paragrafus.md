@@ -6,10 +6,12 @@
 
 a) közcélú kiadás esetén az összes jogosult (elszámolható) költség legfeljebb 80%-a, amennyiben a pályázó megfelel a 6. § (1) bekezdés a) pontjában foglaltaknak;
 
-b) közcélú kiadás esetén az összes jogosult (elszámolható) költség legfeljebb 100%-a, amennyiben a pályázó megfelel a 6. § (1) bekezdés b) vagy c) pontjában foglaltaknak.
+b)[^2] közcélú kiadás esetén az összes jogosult (elszámolható) költség legfeljebb 100%-a, amennyiben a pályázó megfelel a 6. § (1) bekezdés b), c) vagy d) pontjában foglaltaknak.
 
 (3) Az igényelhető támogatás pénzügyi fedezete:
 
 a) az EHA hozzájárulása a konvergencia régióban az összes jogosult költség 75%-a;
 
 b) az EHA hozzájárulása a nem-konvergencia régióban az összes jogosult költség 50%-a.
+
+[^2]: A 7. § (2) bekezdés b) pontja a 44/2014. (IV. 14.) VM rendelet 31. §-a szerint módosított szöveg.
