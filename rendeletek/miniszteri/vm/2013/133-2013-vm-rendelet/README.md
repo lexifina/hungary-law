@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-133-20-
 | --- | --- | --- |
 | 2014-01-01 | 2013-133-20-2Y.1 | 133/2013. (XII. 29.) VM rendelet |
 | 2014-01-02 | 2013-133-20-2Y.2 | 2010: CXXX. törvény |
+| 2014-04-17 | 2013-133-20-2Y.3 | 44/2014. (IV. 14.) VM rendelet |

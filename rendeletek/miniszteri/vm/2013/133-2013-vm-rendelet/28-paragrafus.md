@@ -12,7 +12,7 @@
 
 (6) Az (5) bekezdés szerinti eltéréseket a kormányhivatal földművelésügyi igazgatósága meghatározott időre, de legfeljebb egyéves – a ponty esetében 10. § (5) bekezdés szerint legfeljebb 5 éves – időtartamra állapíthatja meg, amelyet a jogosultnak az adott évi területi jegyen vagy a 27. § (3) bekezdés szerinti területi jegy mellékleten fel kell tüntetnie.
 
-(7) Az (1)–(4) bekezdésben foglalt korlátozások, valamint az azoktól való, az (5) bekezdés szerinti eltérés a halászati és horgászati módszerekkel történő halfogásra érvényesek. A Hhvtv. 67. § (1) bekezdés k) pontja szerinti jogosulatlan kifogás az (5) bekezdésben meghatározott eltérésekben rögzített fogási korlátozások és tilalmi idők megszegésével is megvalósul.
+(7)[^10] Az (1)–(4) bekezdésben foglalt korlátozások, valamint az azoktól való, az (5) bekezdés szerinti eltérés a halászati és horgászati módszerekkel történő halfogásra érvényesek. A Hhvtv. 67. § (1) bekezdés l) pontja szerinti jogosulatlan kifogás az (5) bekezdésben meghatározott eltérésekben rögzített fogási korlátozások és tilalmi idők megszegésével is megvalósul.
 
 (8) Valamely fogási tilalom alá eső faj véletlenül megfogott egyedét vagy a méret- és mennyiségi korlátozások által tiltott halat – a halászeszközből kíméletesen eltávolítva vagy a horogtól óvatosan és gyorsan megszabadítva, vagy ha ez sérülésmentesen nem lehetséges, akkor a zsinórt a szájnyílás előtt elvágva – haladéktalanul vissza kell helyezni élőhelyére, akkor is, ha sérült, beteg vagy elpusztult.
 
@@ -28,11 +28,11 @@
 
 (14) Tilos a megfogott halak kínzása. A megfogott és kifogott halakkal úgy kell bánni, hogy az azok számára okozott fizikai sérülés ne haladja meg a horgászmódszerből adódó szükséges minimumot. A megtartani nem kívánt halat – a 30. § (1) bekezdés alá eső horgászverseny kivételével – azonnal vissza kell helyezni a vízbe. A kifogott halakat azok elpusztításáig maradandó sérülést nem okozó módon élve kell tartani, vagy azonnal le kell ölni.
 
-(15) Horogra kívülről akadt halat megtartani tilos.
+(15)[^11] Horogra kívülről és nem a fejrészen akadt halat megtartani tilos.
 
-(16) A szabályosan kifogott és elvinni kívánt halat a vízpartról elszállítani gyorsan és kíméletesen leölve szabad. A 30 cm-nél kisebb testhosszúságú hal elszállítható élve is, kizárólag olyan tárolóedényben, amely biztosítja a számára a szükséges oxigéntartalmú vizet, és minimalizálja az állatot érő stressz hatásokat.
+(16)[^12] Az állami horgász-, illetve halászjegy jogosultja által szabályosan kifogott és elvinni kívánt halat a vízpartról elszállítani gyorsan és kíméletesen leölve szabad. A 30 cm-nél kisebb testhosszúságú hal elszállítható élve is, kizárólag olyan tárolóedényben, amely biztosítja a számára a szükséges oxigéntartalmú vizet, és minimalizálja az állatot érő stresszhatásokat.
 
-(17) Az őshonos halállomány védelme érdekében idegenhonos halakat a vízbe engedni, és az inváziós idegenhonos halakat visszaengedni tilos. Idegenhonos hallal csalizni kizárólag azon a halgazdálkodási vízterületen szabad, ahol a nem őshonos hal kifogásra került.
+(17)[^13] Az őshonos halállomány védelme érdekében máshonnan származó idegenhonos halakat a vízbe engedni, és az inváziós idegenhonos halakat – a (15) bekezdés szerinti kívülről akadás, valamint a 30. § (2) bekezdése szerinti esetet kivéve – visszaengedni tilos. Idegenhonos hallal csalizni kizárólag azon a halgazdálkodási vízterületen szabad, ahol a nem őshonos hal kifogásra került.
 
 (18) Tilos a szemetelés, vízi és vízparti növényzet csonkítása, kiirtása, a partvédelmet szolgáló építmények megbontása, károsítása.
 
@@ -40,6 +40,12 @@
 
 (20) A horgászat vagy a halászat megkezdésekor a horgász vagy a halász köteles megjelölni a fogási naplóban szereplő éves naptárban a horgászati vagy a halászati tevékenység megkezdésének napját. Vízi járműből végzett horgászat esetén a vízi jármű indulása számít a horgászat megkezdésének.
 
-(21) A horgászat vagy a halászat megkezdése előtt a fogási napló fogás összesítő táblázatában fel kell tüntetni a nyilvántartott halgazdálkodási vízterület megnevezését, valamint a területi jegyen szereplő víztérkódját.
+(21)[^14] A horgászat vagy a halászat során, legkésőbb a kifogott hal tömegének feljegyzésekor a fogási napló fogás összesítő táblázatában fel kell tüntetni a nyilvántartott halgazdálkodási vízterület megnevezését.
 
 (22) A horgászatra jogosító okmányok birtokában a horgász más hasznos víziállatot saját használatra csalizás céljából gyűjthet.
+
+[^10]: A 28. § (7) bekezdése a 44/2014. (IV. 14.) VM rendelet 25. § c) pontja szerint módosított szöveg.
+[^11]: A 28. § (15) bekezdése a 44/2014. (IV. 14.) VM rendelet 20. § (1) bekezdésével megállapított szöveg.
+[^12]: A 28. § (16) bekezdése a 44/2014. (IV. 14.) VM rendelet 20. § (1) bekezdésével megállapított szöveg.
+[^13]: A 28. § (17) bekezdése a 44/2014. (IV. 14.) VM rendelet 20. § (1) bekezdésével megállapított szöveg.
+[^14]: A 28. § (21) bekezdése a 44/2014. (IV. 14.) VM rendelet 20. § (2) bekezdésével megállapított szöveg.

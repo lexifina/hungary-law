@@ -2,7 +2,7 @@
 
 (2) Az állami halászjegy adattartalmát a 3. melléklet tartalmazza.
 
-(3) Az állami halászjegy 1 db legfeljebb 16 m2 háló területű aktív halászeszköz, és 3 db legfeljebb 2 méter karika átmérőjű varsa egyidejű alkalmazására jogosít fel. A varsákat úgy lehet alkalmazni, hogy az eszközök között mért távolság sehol nem lehet kevesebb az alkalmazott varsa és terelő elemei teljes hosszának tízszeresénél, de minimum 50 méternél.
+(3)[^8] Az állami halászjegy 1 db, legfeljebb 16 m2 háló területű aktív halászeszköz, és 3 db, az engedélyes azonosítására alkalmas jelöléssel ellátott, legfeljebb 2 méter karika átmérőjű varsa egyidejű alkalmazására jogosít fel. A varsákat úgy lehet alkalmazni, hogy az eszközök között mért távolság sehol nem lehet kevesebb az alkalmazott varsa és terelő elemei teljes hosszának tízszeresénél, de legalább 50 méternél.
 
 (4) Az állami halászjegy váltására feltételként előírt állami halászvizsga a kormányhivatal földművelésügyi igazgatósága által szervezett díjköteles tanfolyam eredményes elvégzésével szerezhető meg.
 
@@ -33,3 +33,5 @@ i) a halászati tevékenységgel kapcsolatos biztonsági, vízügyi, természet-
 (8) Az állami halászvizsgát tett személyekről a kormányhivatal földművelésügyi igazgatósága nyilvántartást vezet.
 
 (9) Az állami halászvizsga tanfolyam szervezésének költségeit a tanfolyamon résztvevők viselik.
+
+[^8]: A 18. § (3) bekezdése a 44/2014. (IV. 14.) VM rendelet 19. §-ával megállapított szöveg.

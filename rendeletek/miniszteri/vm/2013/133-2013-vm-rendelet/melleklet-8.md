@@ -1,8 +1,8 @@
-8. melléklet a 133/2013. (XII. 29.) VM rendelethez
+8. melléklet a 133/2013. (XII. 29.) VM rendelethez[^23]
 
 I. rész
 
-## Őshonos hal- és körszájú fajok
+## Őshonos halfajok
 
 | magyar név | tudományos név | fogható | nem fogható | közösségi jelentőségű faj |
 
@@ -61,3 +61,5 @@ I. rész
 | kősüllő | Sander volgensis | X |  |  |
 
 II. rész
+
+[^23]: A 8. melléklet a 44/2014. (IV. 14.) VM rendelet 25. § f) pontja szerint módosított szöveg.
