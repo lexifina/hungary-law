@@ -18,7 +18,7 @@ e) a támogatás kifizetéséhez szükséges nyilatkozatok, valamint
 
 f) az ügyfél aláírása.
 
-(4)[^14] A kifizetési kérelemhez mellékelni kell:
+(4)[^16] A kifizetési kérelemhez mellékelni kell:
 
 a) az előző év adatait tartalmazó Tógazdálkodási Naplót;
 
@@ -38,4 +38,4 @@ h) a kötelezettségek vállalását igazoló nyilatkozatokat.
 
 (5) A kifizetési kérelem egyben monitoring jelentésnek is minősül.
 
-[^14]: A 10. § (4) bekezdése az 59/2012. (VI. 28.) VM rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^16]: A 10. § (4) bekezdése az 59/2012. (VI. 28.) VM rendelet 14. § (1) bekezdésével megállapított szöveg.

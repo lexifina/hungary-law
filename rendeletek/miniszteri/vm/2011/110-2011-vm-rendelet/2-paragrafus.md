@@ -1,6 +1,6 @@
 ## 1. § A rendelet hatálya a Halászati Operatív Program 2. prioritási tengelyében, vízi környezet védelemével kapcsolatos intézkedések címen meghatározott célok megvalósítását segítő Halastavi Környezetgazdálkodási Programra (a továbbiakban: HKP) terjed ki.
 
-## 2. §[^1] E rendelet alkalmazásában:
+## 2. §[^2] E rendelet alkalmazásában:
 
 1. halastó: az a vízfeltöltést és lecsapolást biztosító műtárgyakkal (zsilipekkel) ellátott mesterséges vízterület, amelyet haltermelésre használnak, és a jogerős vízjogi üzemeltetési engedélyben és a földhasználati lapon halastó üzemeltetési ágban szerepel, ideértve az ivadéknevelő halastavat is;
 
@@ -24,4 +24,4 @@
 
 11. vízjogi üzemeltetési engedély: a vízi létesítmény használatbavételére és az engedély érvényességi ideje alatt annak üzemeltetésére, a vízhasználat gyakorlására jogosító, a vízügyi hatóság által a vízgazdálkodási hatósági jogkör gyakorlásáról szóló Korm. rendelet alapján kiadott dokumentum.
 
-[^1]: A 2. § az 59/2012. (VI. 28.) VM rendelet 9. §-ával megállapított szöveg.
+[^2]: A 2. § az 59/2012. (VI. 28.) VM rendelet 9. §-ával megállapított szöveg.

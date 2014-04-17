@@ -1,6 +1,6 @@
 ## 3. § A HKP támogatás támogatási határozattal megállapított, a teljes támogatási időszakra felosztott, vissza nem térítendő támogatás, amely a támogatás kedvezményezettjének a vízi környezet védelmével kapcsolatos jogszabályi kötelezettségén felül önkéntesen vállalt többletkötelezettség-vállalásához, programhoz kapcsolódik, annak részleges ellentételezéseként nyújtható.
 
-4. §[^2] (1) A HKP támogatás mértéke támogatási egységenként a teljes támogatási időszakra vonatkozóan legfeljebb 52 ezer forint.
+4. §[^3] (1) A HKP támogatás mértéke támogatási egységenként a teljes támogatási időszakra vonatkozóan legfeljebb 52 ezer forint.
 
 (2) A támogatást az ország egész területére vonatkozóan igénybe lehet venni, konvergencia és nem konvergencia területen egyaránt. A támogatási intenzitás minden esetben 100%.
 
@@ -10,4 +10,4 @@
 
 (5) A (3) bekezdés szerinti előírás alól mentesül az az ügyfél, aki mérlegkészítésre nem kötelezett, vagy az első kifizetéskor azon ügyfél, aki a kérelmezés évében, vagy az azt megelőző évben kezdte meg halgazdálkodó tevékenységét, és erről a támogatási, illetve kifizetési kérelemben nyilatkozik.
 
-[^2]: A 4. § az 59/2012. (VI. 28.) VM rendelet 10. §-ával megállapított szöveg.
+[^3]: A 4. § az 59/2012. (VI. 28.) VM rendelet 10. §-ával megállapított szöveg.

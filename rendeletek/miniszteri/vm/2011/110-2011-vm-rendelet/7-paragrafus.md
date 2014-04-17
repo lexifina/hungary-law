@@ -4,7 +4,7 @@
 
 7. § (1) A támogatási kérelem szerinti feltételeknek (a továbbiakban: kötelezettség) a támogatási időszak alatt folyamatosan meg kell felelni.
 
-(2)[^8] A támogatási időszak alatt a támogatásra jogosult az MVH által rendszeresített és az MVH honlapján közzétett nyomtatványon kérelmezheti a HKP támogatás részleges vagy teljes visszavonását legkésőbb az adott év kezdetéig, kivéve az utolsó évet, amikor a visszavonásra irányuló kérelmet az adott év végéig lehet benyújtani. A visszavont területre vonatkozó teljes támogatási összegre a jogosulatlan részvétel szabályai alkalmazandók. A HKP támogatott terület csökkentése a támogatási határozat módosítását vonja maga után és a visszavont terület vonatkozásában a teljes ötéves támogatási összeget a jogosulatlanul igénybe vett támogatásra vonatkozó szabályok szerint vissza kell fizetni, valamint arra további támogatás nem folyósítható.
+(2)[^9] A támogatási időszak alatt a támogatásra jogosult az MVH által rendszeresített és az MVH honlapján közzétett nyomtatványon kérelmezheti a HKP támogatás részleges vagy teljes visszavonását legkésőbb az adott év kezdetéig, kivéve az utolsó évet, amikor a visszavonásra irányuló kérelmet az adott év végéig lehet benyújtani. A visszavont területre vonatkozó teljes támogatási összegre a jogosulatlan részvétel szabályai alkalmazandók. A HKP támogatott terület csökkentése a támogatási határozat módosítását vonja maga után és a visszavont terület vonatkozásában a teljes ötéves támogatási összeget a jogosulatlanul igénybe vett támogatásra vonatkozó szabályok szerint vissza kell fizetni, valamint arra további támogatás nem folyósítható.
 
 (3) Kötelezettség átruházás csak támogatási egységekre vonatkozóan lehetséges.
 
@@ -18,4 +18,4 @@
 
 (8) Egy támogatási egység csak egyszer ruházható át, és az átruházás csak teljes gazdálkodási évre vonatkozhat. A kötelezettségátadási kérelmet az (6) bekezdés szerinti szerződés megkötésétől számított harminc napon belül, de legkésőbb a kifizetési kérelem benyújtási időszak kezdete előtt harminc nappal az MVH által rendszeresített nyomtatványon kell az MVH központi szervéhez benyújtani.
 
-[^8]: A 7. § (2) bekezdése az 59/2012. (VI. 28.) VM rendelet 17. § (1) bekezdése szerint módosított szöveg.
+[^9]: A 7. § (2) bekezdése az 59/2012. (VI. 28.) VM rendelet 17. § (1) bekezdése szerint módosított szöveg.
