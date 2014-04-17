@@ -30,15 +30,17 @@ m) vízzel telített talaj: olyan nagy nedvességtartalmú talajállapot, amikor
 
 n)[^11] gémeskút: olyan kút, amelyből a talajvíz kiemelését a kétkarú emelő elvén működő, a föld felszíne felett található szerkezet szolgálja, és a Mezőgazdasági Parcella Azonosító Rendszerben rögzítésre került;
 
-o)[^12] kunhalom: a természet védelméről szóló 1996. évi LIII. törvény 23. § (3) bekezdés f) pont szerinti definíciónak megfelelő, a Mezőgazdasági Parcella Azonosító Rendszerben meghatározott és feltüntetett területi kiterjedéssel rendelkező objektum;
+o)[^12] kunhalom: a természet védelméről szóló 1996. évi LIII. törvény 23. § (3) bekezdés f) pontja szerinti objektum, a Mezőgazdasági Parcella Azonosító Rendszerben meghatározott és feltüntetett területi kiterjedéssel;
 
-p)[^13] tájképi elem: e § n) és o) pont szerinti szereplő gémeskút és kunhalom;
+p)[^13] tájképi elem: az n) pont szerinti gémeskút, az o) pont szerinti kunhalom és a t) pont szerinti fa- és bokorcsoport;
 
 q)[^14] másodvetés: a főnövény után a következő gazdálkodási év első növényének vetéséig betakarított, vagy zöldtrágya-növényként talajba forgatott kultúra;
 
 r)[^15] partvonal: a nagyvízi medrek, a parti sávok, a vízjárta, valamint a fakadó vizek által veszélyeztetett területek használatáról és hasznosításáról, valamint a nyári gátak által védett területek értékének csökkenésével kapcsolatos eljárásról szóló kormányrendeletben meghatározott fogalom;
 
-s)[^16] völgyzáró-gátas halastó: olyan keresztgátas halastó, amely állandó vízfolyások duzzasztásával jön létre és amelyen a tápláló vízfolyás keresztül folyik.
+s)[^16] völgyzáró-gátas halastó: olyan keresztgátas halastó, amely állandó vízfolyások duzzasztásával jön létre és amelyen a tápláló vízfolyás keresztül folyik;
+
+t)[^17] fa- és bokorcsoport: a Mezőgazdasági Parcella Azonosító Rendszerben meghatározott és feltüntetett, 5000 négyzetméternél kisebb, jellemzően nem vonalas kiterjedéssel rendelkező, legalább 50%-ban fás szárú növényekkel borított terület.
 
 [^1]: Az 1. § a 32/2010. (III. 30.) FVM rendelet 1. §-ával megállapított szöveg.
 [^2]: A 2. § a) pontja a 32/2010. (III. 30.) FVM rendelet 2. § (1) bekezdésével megállapított szöveg.
@@ -51,8 +53,9 @@ s)[^16] völgyzáró-gátas halastó: olyan keresztgátas halastó, amely állan
 [^9]: A 2. § j) pontja a 32/2010. (III. 30.) FVM rendelet 2. § (4) bekezdésével megállapított szöveg.
 [^10]: A 2. § k) pontját a 80/2009. (VII. 3.) FVM rendelet 5. § (3) bekezdése hatályon kívül helyezte.
 [^11]: A 2. § n) pontját a 32/2010. (III. 30.) FVM rendelet 2. § (5) bekezdése iktatta be, szövege a 29/2011. (IV. 22.) VM rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^12]: A 2. § o) pontját a 32/2010. (III. 30.) FVM rendelet 2. § (5) bekezdése iktatta be.
-[^13]: A 2. § p) pontját a 32/2010. (III. 30.) FVM rendelet 2. § (5) bekezdése iktatta be.
+[^12]: A 2. § o) pontját a 32/2010. (III. 30.) FVM rendelet 2. § (5) bekezdése iktatta be, szövege a 42/2014. (IV. 14.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^13]: A 2. § p) pontját a 32/2010. (III. 30.) FVM rendelet 2. § (5) bekezdése iktatta be, szövege a 42/2014. (IV. 14.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^14]: A 2. § q) pontját a 32/2010. (III. 30.) FVM rendelet 2. § (5) bekezdése iktatta be.
 [^15]: A 2. § r) pontját a 121/2011. (XII. 21.) VM rendelet 2. §-a iktatta be.
 [^16]: A 2. § s) pontját a 121/2011. (XII. 21.) VM rendelet 2. §-a iktatta be.
+[^17]: A 2. § t) pontját a 42/2014. (IV. 14.) VM rendelet 1. § (2) bekezdése iktatta be.

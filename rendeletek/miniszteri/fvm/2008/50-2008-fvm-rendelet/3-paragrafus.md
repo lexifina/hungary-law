@@ -1,4 +1,4 @@
-3. § (1)[^17] Az e rendelet szerinti előírásokat az alábbi támogatások igénybevétele esetén kell alkalmazni:
+3. § (1)[^18] Az e rendelet szerinti előírásokat az alábbi támogatások igénybevétele esetén kell alkalmazni:
 
 a) az Európai Mezőgazdasági Garancia Alapból (a továbbiakban: EMGA) finanszírozott egységes területalapú támogatás, valamint a szőlőültetvény szerkezet átalakításának és átállásának, és a szőlőültetvény kivágásának támogatása,
 
@@ -22,4 +22,4 @@ c) minden egyéb támogatás, amelyekre vonatkozóan az adott támogatás részl
 
 (4) A 8. § alapján alkalmazott állategységre való átváltási arányok hatálya nem terjed ki az Európai Mezőgazdasági Orientációs és Garancia Alapból finanszírozott, a Nemzeti Vidékfejlesztési Tervben foglalt vidékfejlesztési támogatásokra.
 
-[^17]: A 3. § (1) bekezdése a 29/2011. (IV. 22.) VM rendelet 2. §-ával megállapított szöveg.
+[^18]: A 3. § (1) bekezdése a 29/2011. (IV. 22.) VM rendelet 2. §-ával megállapított szöveg.
