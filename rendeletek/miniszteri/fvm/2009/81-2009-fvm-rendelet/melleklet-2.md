@@ -20,25 +20,7 @@
 
 ## Maradandó: a tevékenység hatásai, a károsított élőhely/faj természeti értékei nem állíthatók vissza az eredeti állapotukba.
 
-## 1.2. JFGK 2
-
-## A JFGK célja: a felszín alatti vízkészlet mezőgazdasági eredetű szennyezés elleni védelme, a felszín alatti vizek jó állapotának biztosítása és a már bekövetkezett szennyezés következményeinek kiküszöbölése, korlátozása. A megfelelő minőségű víz biztosítása a jövőbeni vízfelhasználás érdekében.
-
-## Súlyosság
-
-## Enyhe: a felszín alatti vizek minőségi mutatóira ártalmatlan anyag kerül közvetlenül vagy közvetve a felszín alatti vízbe.
-
-## Közepes: trágyából, szennyvízből vagy mosóvizekből származó szennyező anyag kerül közvetlenül vagy közvetve a felszín alatti vízbe.
-
-## Súlyos: olajból, üzemanyagból, növényvédő szerből, műtrágyából vagy egyéb veszélyes hulladékból származó szennyező anyag kerül közvetlenül vagy közvetve a felszín alatti vízbe.
-
-## Tartósság
-
-## Rövidtávon helyrehozható: a felszín alatti vizek minőségében okozott szennyezés ésszerű időhatáron belül csökkenthető, megszüntethető.
-
-## Hosszútávon helyrehozható: a felszín alatti vizek minőségében okozott szennyezés csak hosszútávon csökkenthető, szüntethető meg.
-
-## Maradandó: a szennyezéssel maradandó károsodás keletkezik a felszín alatti vizek minőségében.
+## 1.2. JFGK 2[^19]
 
 ## 1.3. JFGK 3
 
@@ -220,7 +202,7 @@
 
 ## Maradandó: Az előírás megsértésből adódó hiányosság nem szüntethető meg.
 
-## 1.12.[^19] JFGK 16
+## 1.12.[^20] JFGK 16
 
 ## A JFGK célja: A borjak védelme az állatok élettani szükségleteinek megfelelő életfeltételek biztosításának ellenőrzése révén.
 
@@ -240,7 +222,7 @@
 
 ## Maradandó: az előírás megszegése nem szüntethető meg, az az állatok egészségének maradandó károsodását okozza, illetve okozhatja.
 
-## 1.13.[^20] JFGK 17
+## 1.13.[^21] JFGK 17
 
 ## A JFGK célja: A sertések védelme az állatok élettani szükségleteinek megfelelő életfeltételek biztosításának ellenőrzése révén.
 
@@ -260,7 +242,7 @@
 
 ## Maradandó: az előírás megszegése nem szüntethető meg, az az állatok egészségének maradandó károsodását okozza, illetve okozhatja.
 
-## 1.14.[^21] JFGK 18
+## 1.14.[^22] JFGK 18
 
 ## A JFGK célja: A mezőgazdasági haszonállatok védelme az állatok élettani szükségleteinek megfelelő életfeltételek biztosításának ellenőrzése révén.
 
@@ -326,7 +308,7 @@
 
 ## Maradandó: a szennyezés hatására maradandó károsodás keletkezett a környezetben.
 
-2. számú melléklet a 81/2009. (VII. 10.) FVM rendelethez[^22]
+2. számú melléklet a 81/2009. (VII. 10.) FVM rendelethez[^23]
 
 ## A jogkövetkezmény mértékének számítási alapjai
 
@@ -382,7 +364,8 @@
 
 | 5 | 5 | 5 | 100% |
 
-[^19]: Az 1. számú melléklet 1.12. pontját a 39/2013. (V. 24.) VM rendelet 1. §-a iktatta be.
-[^20]: Az 1. számú melléklet 1.13. pontját a 39/2013. (V. 24.) VM rendelet 1. §-a iktatta be.
-[^21]: Az 1. számú melléklet 1.14. pontját a 39/2013. (V. 24.) VM rendelet 1. §-a iktatta be.
-[^22]: A 2. számú melléklet az 55/2010. (V. 6.) FVM rendelet 2. § (10) bekezdése szerint módosított szöveg.
+[^19]: Az 1. számú melléklet 1. pont 1.2. JFGK 2 alpontját a 43/2014. (IV. 14.) VM rendelet 1. §-a hatályon kívül helyezte.
+[^20]: Az 1. számú melléklet 1.12. pontját a 39/2013. (V. 24.) VM rendelet 1. §-a iktatta be.
+[^21]: Az 1. számú melléklet 1.13. pontját a 39/2013. (V. 24.) VM rendelet 1. §-a iktatta be.
+[^22]: Az 1. számú melléklet 1.14. pontját a 39/2013. (V. 24.) VM rendelet 1. §-a iktatta be.
+[^23]: A 2. számú melléklet az 55/2010. (V. 6.) FVM rendelet 2. § (10) bekezdése szerint módosított szöveg.

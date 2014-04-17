@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-81-20-8
 | 2011-04-29 | 2009-81-20-82.4 | 32/2011. (IV. 28.) VM rendelet |
 | 2012-04-28 | 2009-81-20-82.5 | 41/2012. (IV. 27.) VM rendelet |
 | 2013-06-01 | 2009-81-20-82.6 | 39/2013. (V. 24.) VM rendelet |
+| 2014-04-17 | 2009-81-20-82.7 | 43/2014. (IV. 14.) VM rendelet |
