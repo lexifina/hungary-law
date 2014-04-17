@@ -1,4 +1,4 @@
-2/A. §[^2] (1) A műemléki érték védetté nyilvánítására, valamint a védettség megszüntetésére irányuló kezdeményezést a 2. melléklet szerinti adatlapon kell benyújtani a megyei építésügyi és örökségvédelmi hivatalhoz.
+2/A. §[^3] (1) A műemléki érték védetté nyilvánítására, valamint a védettség megszüntetésére irányuló kezdeményezést a 2. melléklet szerinti adatlapon kell benyújtani a megyei építésügyi és örökségvédelmi hivatalhoz.
 
 (2) Ha az adatlap kötelezően kitöltendő elemei hiányosak vagy nem helytálló adatokat tartalmaznak, azok kiegészítésére a megyei építésügyi és örökségvédelmi hivatal a benyújtástól számított tizenöt napon belül, határidő tűzésével felhívja a kezdeményezőt. A kiegészítés határidőben történő elmulasztása esetén a kezdeményezés további vizsgálatát a megyei építésügyi és örökségvédelmi hivatal mellőzheti, ha az adatokat más módon nem tudja pontosítani. Ha az adatlap nem kötelezően kitöltendő része hiányos, azt a megyei építésügyi és örökségvédelmi hivatal tölti ki.
 
@@ -8,4 +8,4 @@
 
 (5) Az örökségvédelmi iroda a kezdeményezés és mellékletei alapján a 2/B. § (3) bekezdésében meghatározottakra figyelemmel javaslatot terjeszt a régészeti örökség és műemléki érték védelméért felelős miniszter (a továbbiakban: miniszter) elé, a miniszter által meghatározott ütemezés szerint.
 
-[^2]: A 2/A. §-t a 70/2013. (XII. 16.) BM rendelet 54. § (1) bekezdése iktatta be.
+[^3]: A 2/A. §-t a 70/2013. (XII. 16.) BM rendelet 54. § (1) bekezdése iktatta be.

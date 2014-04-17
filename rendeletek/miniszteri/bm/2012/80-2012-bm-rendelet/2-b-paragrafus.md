@@ -1,4 +1,4 @@
-2/B. §[^3] (1) A régészeti lelőhely és a műemléki érték védetté nyilvánításának (a továbbiakban együtt: védetté nyilvánítás) előkészítését az örökségvédelmi iroda hivatalból is megindíthatja. A védetté nyilvánítás előkészítésének hivatalból történő megindítására a miniszter utasítást adhat az örökségvédelmi irodának.
+2/B. §[^4] (1) A régészeti lelőhely és a műemléki érték védetté nyilvánításának (a továbbiakban együtt: védetté nyilvánítás) előkészítését az örökségvédelmi iroda hivatalból is megindíthatja. A védetté nyilvánítás előkészítésének hivatalból történő megindítására a miniszter utasítást adhat az örökségvédelmi irodának.
 
 (2) A műemléki érték védetté nyilvánításának hivatalból történő megindítása esetén a 2/A. § rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy a 2/A. § (1) bekezdése szerinti adatlap kitöltését és a 2/A. § (3) bekezdése szerinti helyszíni vizsgálatot az örökségvédelmi iroda végzi el, majd előterjeszti a 2/A. § (5) bekezdése szerinti javaslatot.
 
@@ -16,4 +16,4 @@ b) védetté nyilvánítási dokumentáció készítésének mellőzésével meg
 
 (7) Az örökségvédelmi iroda a (3) bekezdés a) pontja szerinti esetben legkésőbb a Kötv. 14. § (2) bekezdése és 29. § (3) bekezdése szerinti értesítéssel egyidejűleg kikéri az érintett műemléki érték szerintit illetékes települési (fővárosi kerületi) önkormányzat polgármesterének véleményét a védetté nyilvánítással kapcsolatban.
 
-[^3]: A 2/B. §-t a 70/2013. (XII. 16.) BM rendelet 54. § (1) bekezdése iktatta be.
+[^4]: A 2/B. §-t a 70/2013. (XII. 16.) BM rendelet 54. § (1) bekezdése iktatta be.
