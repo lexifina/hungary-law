@@ -2,6 +2,8 @@
 
 5. § (1) A támogatás e rendelet melléklete szerinti kérelemnek a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) Piaci Támogatások és Külkereskedelmi Intézkedések Igazgatóságához postai úton, egy példányban, évente egy alkalommal, tárgyév június 1. és 30. közötti időszakban történő benyújtásával igényelhető.
 
+(1a)[^9] Támogatási kérelmet 2014-ben nem lehet benyújtani.
+
 (2) A támogatási kérelemhez csatolni kell:
 
 a) vásárolt pontyivadék esetén az MgSzH igazolását arról, hogy a telepített pontyivadék elismert, illetve ideiglenesen elismert, a számla másolatát és a telepítési nyilatkozatot, amely tartalmazza a telepítés helyét, időpontját és a telepített pontyivadék mennyiségét;
@@ -12,7 +14,7 @@ c) vásárolt tenyészanyától származó pontyivadék telepítése esetén az 
 
 d) a kérelmező által a tárgyévben saját használatában üzemeltetett összes halastóterület nagyságát igazoló érvényes vízjogi engedély másolatát.
 
-(3)[^9] A (2) bekezdés a)–c) pontjában megjelölt, a támogatási kérelemhez csatolandó dokumentumok közül – a tenyészanyákra vonatkozó dokumentumok kivételével – kizárólag a tárgyévet megelőző év október 1-je és a támogatási kérelem benyújtása közötti időpontban kiállítottak fogadhatók el.
+(3)[^10] A (2) bekezdés a)–c) pontjában megjelölt, a támogatási kérelemhez csatolandó dokumentumok közül – a tenyészanyákra vonatkozó dokumentumok kivételével – kizárólag a tárgyévet megelőző év október 1-je és a támogatási kérelem benyújtása közötti időpontban kiállítottak fogadhatók el.
 
 (4) Az MVH a jogos igényléseket összesíti. Amennyiben az összes jogos igény meghaladja a 4. § (3) bekezdésében meghatározott támogatási keretet, az MVH arányosítást alkalmaz.
 
@@ -22,4 +24,5 @@ d) a kérelmező által a tárgyévben saját használatában üzemeltetett öss
 
 (7) A támogatás odaítéléséről szóló határozatot az MVH és az ügyfél köteles tíz évig megőrizni.
 
-[^9]: Az 5. § (3) bekezdése a 109/2011. (XI. 21.) VM rendelet 2. §-ával megállapított szöveg.
+[^9]: Az 5. § (1a) bekezdését a 44/2014. (IV. 14.) VM rendelet 2. §-a iktatta be.
+[^10]: Az 5. § (3) bekezdése a 109/2011. (XI. 21.) VM rendelet 2. §-ával megállapított szöveg.

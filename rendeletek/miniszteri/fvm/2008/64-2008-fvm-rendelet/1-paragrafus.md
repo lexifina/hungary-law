@@ -18,10 +18,10 @@ g) nehéz helyzetben lévő vállalkozás: a Közösség iránymutatása a nehé
 
 h) tárgyév: az a naptári év, amely évben a pályázó az e rendelet szerinti támogatást igénybe veszi;
 
-i)[^2] halászati hatóság: a megyei kormányhivatal földművelésügyi igazgatósága;
+i)[^2] halgazdálkodási hatóság: a megyei kormányhivatal földművelésügyi igazgatósága;
 
 j)[^3] gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet.
 
 [^1]: Az 1. § f) pontja a 132/2013. (XII. 23.) VM rendelet 37. § c) pontja szerint módosított szöveg.
-[^2]: Az 1. § i) pontja a 24/2011. (III. 29.) VM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § i) pontja a 44/2014. (IV. 14.) VM rendelet 1. §-ával megállapított szöveg.
 [^3]: Az 1. § j) pontját a 22/2014. (III. 14.) VM rendelet 63. § (1) bekezdése iktatta be.
