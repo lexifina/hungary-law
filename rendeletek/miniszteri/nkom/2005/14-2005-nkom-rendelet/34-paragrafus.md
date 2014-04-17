@@ -2,6 +2,6 @@
 
 34. § (1) Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
 
-(2)[^6]
+(2)[^7]
 
-[^6]: A 34. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 38. §-ának 22. pontja hatályon kívül helyezte.
+[^7]: A 34. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 38. §-ának 22. pontja hatályon kívül helyezte.
