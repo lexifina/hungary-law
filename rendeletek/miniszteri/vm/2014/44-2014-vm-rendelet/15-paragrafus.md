@@ -1,0 +1,3 @@
+## 14. § Az Európai Halászati Alap társfinanszírozásában megvalósuló Halászati Operatív Program 2. prioritási tengelye szerinti vízi környezet védelmével kapcsolatos intézkedések feltételeiről szóló 110/2011. (XI. 24.) VM rendelet [a továbbiakban: 110/2011. (XI. 24.) VM rendelet] a következő 18. §-sal egészül ki:
+
+## „18. § Az egyes halászati tárgyú miniszteri rendeletek módosításáról szóló 44/2014. (IV. 14.) VM rendelettel [a továbbiakban: 44/2014. (IV. 14.) VM rendelet] hatályon kívül helyezett 8. § (2) bekezdését és 14. § (2) bekezdés c) pontját a 44/2014. (IV. 14.) VM rendelet hatálybalépésekor folyamatban lévő ügyekben nem kell alkalmazni.”
