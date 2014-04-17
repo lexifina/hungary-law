@@ -1,0 +1,1 @@
+## „t) fa- és bokorcsoport: a Mezőgazdasági Parcella Azonosító Rendszerben meghatározott és feltüntetett, 5000 négyzetméternél kisebb, jellemzően nem vonalas kiterjedéssel rendelkező, legalább 50%-ban fás szárú növényekkel borított terület.”
