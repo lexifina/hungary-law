@@ -1,3 +1,0 @@
-## 6. § Ez a rendelet az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásra vonatkozó egyes átmeneti rendelkezések megállapításáról, a(z) 1305/2013/EU európai parlamenti és tanácsi rendeletnek a források és a források 2014. évben történő elosztása tekintetében történő módosításáról, valamint a 73/2009/EK tanácsi rendeletnek és a(z) 1307/2013/EU, a(z) 1306/2013/EU és a(z) 1308/2013/EU európai parlamenti és tanácsi rendeletnek a 2014. évben való alkalmazásuk tekintetében történő módosításáról szóló, 2013. december 17-i 1310/2013/EU európai parlamenti és tanácsi rendeletnek való megfelelést szolgálja.
-
-1. melléklet a 42/2014. (IV. 14.) VM rendelethez
