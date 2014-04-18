@@ -1,0 +1,119 @@
+# A vidékfejlesztési miniszter 45/2014. (IV. 18.) VM rendelete
+
+Magyar Közlöny 2014. évi 56. szám, 2014. április 18. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/130253ba63c234d763f481388a6974aff32194a0/dokumentumok/5b2a2b6112747392ed5495cc35b21f94c7d3061c/letoltes)
+
+---
+
+A vidékfejlesztési miniszter 45/2014. (IV. 18.) VM rendelete
+az egyes különleges és elkülönített támogatások szabályozásáról szóló miniszteri rendeletek módosításáról
+A mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes
+kérdéseiről szóló 2007. évi XVII. törvény 81. § (3) bekezdés a) pontjában,
+az 1. alcím tekintetében a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez
+kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény 81. § (3) bekezdés d) pontjában,
+a 3. alcím tekintetében a mezőgazdasági termelést érintő időjárási és más természeti kockázatok kezeléséről szóló 2011. évi
+CLXVIII. törvény 24. § (2) bekezdés f) pontjában,
+az 5. alcím tekintetében a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez
+kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény 81. § (3) bekezdés a) és b) pontjában
+kapott felhatalmazás alapján – az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről
+szóló 212/2010. (VII. 1.) Korm. rendelet 94. § a) és b) pontjában meghatározott feladatkörömben eljárva – a következőket
+rendelem el:
+1. Az elháríthatatlan külső ok (vis maior) esetén alkalmazandó egyes szabályokról, valamint egyes
+agrár tárgyú miniszteri rendeletek módosításáról szóló 44/2007. (VI. 8.) FVM rendelet módosítása
+1. § (1) Az elháríthatatlan külső ok (vis maior) esetén alkalmazandó egyes szabályokról, valamint egyes agrár tárgyú
+miniszteri rendeletek módosításáról szóló 44/2007. (VI. 8.) FVM rendelet [a továbbiakban: 44/2007. (VI. 8.)
+FVM rendelet] 3. § (1) bekezdés c) pontja helyébe a következő rendelkezés lép:
+[A 2. § alkalmazása során az MVH elsősorban a következő eseteket ismeri el:]
+„c) a mezőgazdasági üzem jelentős részének vagy a mezőgazdasági üzemhez tartozó földterületnek a kisajátítása,
+a mezőgazdasági üzem jelentős része vagy a mezőgazdasági üzemhez tartozó földterület vonatkozásában
+kisajátítást pótló adásvételi vagy csereszerződés megkötése, a mezőgazdasági üzem jelentős részének vagy
+a mezőgazdasági üzemhez tartozó földterületnek jogszabály alapján történő átminősítése, amennyiben
+ez a kötelezettségvállalás, illetve a kérelem benyújtása időpontjában nem volt előrelátható;”
+(2) A 44/2007. (VI. 8.) FVM rendelet 3. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) Az (1) bekezdés a)–c), e) és h)–i) pontjában meghatározott eseteket az MVH csak akkor fogadja el, ha
+azokat az ügyfél vagy annak örököse hatósági igazolással vagy más hitelt érdemlő módon bizonyítani tudja.
+Amennyiben a vis maior esemény az (1) bekezdés d), f) vagy g) pontjában meghatározott esemény folytán
+alakult ki, akkor a Mezőgazdasági és Vidékfejlesztési Hivatalról szóló 256/2007. (X. 4.) Korm. rendelet 7/B. §
+(1) bekezdésében foglaltak szerint – az MVH (2a) bekezdés szerinti megkeresése alapján – elsőfokú eljárásban
+a megyei kormányhivatal illetékes igazgatósága, másodfokú eljárásban a Nemzeti Élelmiszerlánc-biztonsági Hivatal
+szakhatósági állásfoglalást ad ki.”
+(3) A 44/2007. (VI. 8.) FVM rendelet 3. §-a a következő (2a) bekezdéssel egészül ki:
+„(2a) Az MVH a vis maior bejelentést követő tíz napon belül – ha a vis maior kérelem támogatási vagy kifizetési
+kérelem beadási időszakban kerül benyújtásra, akkor a kérelembenyújtási időszakot követő tíz napon belül – köteles
+megkeresni a szakhatósági állásfoglalás kiadására jogosult szervet.”
+2. §
+A 44/2007. (VI. 8.) FVM rendelet 4. § (3) bekezdés c) pontja helyébe a következő rendelkezés lép:
+[Jogszabály eltérő rendelkezése hiányában:]
+„c) a 3. § (1) bekezdés a)–c), e) és h)–i) pontjában meghatározott esetekben a bejelentéshez mellékelni kell
+ca) a vis maior bekövetkezését tanúsító igazolás másolatát (hatósági igazolás, halotti anyakönyvi kivonat, egyéb
+hitelt érdemlő igazolás) vagy
+cb) az igazolás kiállítására hatáskörrel rendelkező hatóság, szerv által kiadott nyilatkozatot, amely tanúsítja, hogy
+az ügyfél a vonatkozó igazolás kiadása iránt a kérelmét benyújtotta.”
+
+2. A zöldség, gyümölcs és a dohány szerkezetátalakítási nemzeti program Európai Mezőgazdasági
+Garancia Alapból finanszírozott különleges támogatásának igénybevételéhez kapcsolódó feltételek
+megállapításáról szóló 29/2010. (III. 30.) FVM rendelet módosítása
+3. §
+A zöldség, gyümölcs és a dohány szerkezetátalakítási nemzeti program Európai Mezőgazdasági Garancia Alapból
+finanszírozott különleges támogatásának igénybevételéhez kapcsolódó feltételek megállapításáról szóló 29/2010.
+(III. 30.) FVM rendelet 3. § (2) bekezdésében a„2012–2013.”szövegrész helyébe a„2012–2014.”szöveg lép.
+3. A mezőgazdasági biztosítás díjához nyújtott támogatás igénybevételi feltételeiről szóló
+143/2011. (XII. 23.) VM rendelet módosítása
+4. §
+A mezőgazdasági biztosítás díjához nyújtott támogatás igénybevételi feltételeiről szóló 143/2011. (XII. 23.)
+VM rendelet 9. §-a a következő (5) bekezdéssel egészül ki:
+„(5) A (3) bekezdésben rögzített, a mezőgazdasági biztosítási szerződésekhez 2013-ban felhasználható legfeljebb
+10,67 millió euró keretösszeg 1 234 067 euróval csökken.”
+4. A húsmarha és a juh ágazatokban nyújtott kérődző szerkezetátalakítási nemzeti program Európai
+Mezőgazdasági Garancia Alapból finanszírozott különleges támogatásának igénybevételéhez
+kapcsolódó feltételek megállapításáról szóló 22/2012. (III. 9.) VM rendelet módosítása
+5. §
+A húsmarha és a juh ágazatokban nyújtott kérődző szerkezetátalakítási nemzeti program Európai Mezőgazdasági
+Garancia Alapból finanszírozott különleges támogatásának igénybevételéhez kapcsolódó feltételek
+megállapításáról szóló 22/2012. (III. 9.) VM rendelet [a továbbiakban: 22/2012. (III. 9.) VM rendelet] a következő
+10/B. §-sal egészül ki:
+„10/B. § A kérődző szerkezetátalakítási támogatási jogosultság egységértékének megállapításakor a 10. §-ban
+meghatározott összeg a 2013-as tárgyév vonatkozásában 925 550 euróval nő.”
+6. §
+A 22/2012. (III. 9.) VM rendelet a következő 11/A. §-sal egészül ki:
+„11/A. § (1) A 11. §-ban foglaltaktól eltérően, azon termelő, aki e rendelet alapján a 2012. évre vonatkozóan kérődző
+szerkezetátalakítási jogosultsággal rendelkezett és az Európai Mezőgazdasági Garancia Alapból, az Európai
+Mezőgazdasági Vidékfejlesztési Alapból, valamint a központi költségvetésből finanszírozott egyes támogatások
+2013. évi igénybevételével kapcsolatos egységes eljárási szabályokról szóló 22/2013. (IV. 8.) VM rendelet előírásai
+szerint a 2013. évre vonatkozóan egységes kérelmet nyújtott be, de nem igényelt kérődző szerkezetátalakítási
+támogatást, az Európai Mezőgazdasági Garancia Alapból, az Európai Mezőgazdasági Vidékfejlesztési Alapból,
+valamint a központi költségvetésből finanszírozott egyes támogatások 2014. évi igénybevételével kapcsolatos
+egységes eljárási szabályokról szóló 28/2014. (III. 27.) VM rendelet szerinti egységes kérelemben nyilatkozhat arról,
+hogy a szerkezetátalakítási programban 2014-ben is részt kíván venni a 3. §-ban meghatározott feltételek betartása
+mellett.
+(2) Azon termelő tekintetében, aki az (1) bekezdés szerint nyilatkozik, a támogatási időszakon belül a 2014-es
+támogatási évet a szerkezetátalakítási programban való részvétel második éveként kell figyelembe venni.
+(3) Öröklés és jogutódlás esetén az örökös és a jogutód akkor teheti meg az (1) bekezdés szerinti nyilatkozatot, ha
+az örökhagyó vagy a jogelőd, valamint az örökös vagy a jogutód nem igényelte 2013. évre vonatkozóan a kérődző
+szerkezetátalakítási támogatást.”
+7. §
+A 22/2012. (III. 9.) VM rendelet 14. § (6) bekezdése helyébe a következő rendelkezés lép:
+„(6) Öröklés és jogutódlás esetén az átírási kérelmet az örökösnek vagy a jogutódnak az MVH által rendszeresített
+nyomtatványon kell benyújtania. Amennyiben a hagyatékátadó végzésben haszonélvezeti jogosult kerül
+megállapításra, az örökösnek és a haszonélvezeti jog jogosultjának közösen kell benyújtania az átírási kérelmet.”
+8. §
+A 22/2012. (III. 9.) VM rendelet 9. § (1) bekezdésében„a 2012-ben”szövegrész helyébe„a tárgyévben”szöveg lép.
+
+5. Az egységes területalapú támogatási rendszer alapján támogatásra jogosult mezőgazdasági
+termelőknek nyújtott, az Európai Mezőgazdasági Garancia Alapból finanszírozott elkülönített bogyós
+gyümölcs támogatásról szóló 33/2012. (IV. 2.) VM rendelet módosítása
+9. §
+Az egységes területalapú támogatási rendszer alapján támogatásra jogosult mezőgazdasági termelőknek nyújtott,
+az Európai Mezőgazdasági Garancia Alapból finanszírozott elkülönített bogyós gyümölcs támogatásról szóló
+33/2012. (IV. 2.) VM rendelet
+a) 1. § c) pontjában a„regisztrációs”szövegrész helyébe a„nyilvántartásba vételi”,
+b) 3. § (1) bekezdésében az „Európai Mezőgazdasági Garancia Alapból finanszírozott egységes területalapú
+támogatás (SAPS), valamint az ahhoz kapcsolódó kiegészítő nemzeti támogatások (top up) igénybevételével
+kapcsolatos egyes kérdésekről” szövegrész helyébe az „Európai Mezőgazdasági Garancia Alapból
+finanszírozott egységes területalapú támogatás, valamint az ahhoz kapcsolódó átmeneti nemzeti
+támogatások igénybevételével kapcsolatos egyes kérdésekről”
+szöveg lép.
+6. Záró rendelkezés
+10. §
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+ Dr. Fazekas Sándor s. k.,
+ vidékfejlesztési miniszter
