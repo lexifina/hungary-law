@@ -1,1 +1,0 @@
-## 1. § Hatályát veszti a kölcsönös megfeleltetés körébe tartozó ellenőrzések lefolytatásával, valamint a jogkövetkezmények alkalmazásával kapcsolatos szabályokról szóló 81/2009. (VII. 10.) FVM rendelet 1. számú melléklet 1. pont 1.2. JFGK 2 alpontja.
