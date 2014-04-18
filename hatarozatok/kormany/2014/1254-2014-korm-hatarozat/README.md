@@ -1,0 +1,9 @@
+# 1254/2014. (IV. 18.) Korm. határozat
+
+a Társadalmi Megújulás Operatív Program 2011–2013. évekre szóló akcióterve 2. prioritásának módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-1254-30-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2014-04-18 | 2014-1254-30-22.1 | 1254/2014. (IV. 18.) Korm. határozat |
