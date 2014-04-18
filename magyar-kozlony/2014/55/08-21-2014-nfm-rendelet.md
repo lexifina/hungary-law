@@ -1,0 +1,276 @@
+# A nemzeti fejlesztési miniszter 21/2014. (IV. 18.) NFM rendelete
+
+Magyar Közlöny 2014. évi 55. szám, 2014. április 18. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/21cec1eac4ed602c5e011f4e1493fc606553f634/dokumentumok/e5ecb9b954f2fe50e8a2e26f13fd6f712c082778/letoltes)
+
+---
+
+A nemzeti fejlesztési miniszter 21/2014. (IV. 18.) NFM rendelete
+a helyi közösségi közlekedés támogatásáról
+A Magyarország 2014. évi központi költségvetéséről szóló 2013. évi CCXXX. törvény 76. § (2) bekezdés j) pontjában kapott
+felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló
+212/2010. (VII. 1.) Korm. rendelet 84. § e) pontjában meghatározott feladatkörömben eljárva – az egyes miniszterek, valamint
+a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 37. § p) pontjában
+meghatározott feladatkörében eljáró belügyminiszterrel és az egyes miniszterek, valamint a Miniszterelnökséget vezető
+államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 73. § b) pontjában meghatározott feladatkörében
+eljáró nemzetgazdasági miniszterrel egyetértésben – a következőket rendelem el:
+1. Értelmező rendelkezések
+1. §
+E rendelet alkalmazásában közlekedési teljesítmény: az egyes járművek, szerelvények férőhelyének,
+befogadóképességének és hasznos kilométerének szorzata, több jármű közlekedtetése esetén az előzőek szerint
+járművenként számított teljesítmények összege.
+2. A támogatás igénylésének feltételei
+2. §
+A Magyarország 2014. évi központi költségvetéséről szóló 2013. évi CCXXX. törvény (a továbbiakban: Kvtv.)
+3. melléklet 19. pontja szerinti támogatásra a Kvtv. 3. melléklet 19. pontjában meghatározott települési
+önkormányzat akkor jogosult, ha
+a) a helyi személyszállítási közszolgáltatást a személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény
+(a továbbiakban: Sztv.) 2. § 8. pontja szerint végzi,
+b) az Sztv. 5. § (3) bekezdés a) pontja szerinti esetben a megállapodás ezt nem zárja ki vagy az Sztv. 5. §
+(3) bekezdés b) pontja szerinti esetben a megállapodás a támogatás igénybevételének lehetőségét
+a települési önkormányzat számára kifejezetten lehetővé teszi, és
+c) a helyi személyszállítási közszolgáltatást a tárgyév január 1-jétől december 31-éig folyamatosan fenntartja.
+3. §
+A Kvtv. 3. melléklet 19. pontjában meghatározott éves támogatási keretet az e rendeletben meghatározott
+feltételeknek megfelelően benyújtott támogatási kérelmekben közölt adatok alapján a tárgyévet megelőző évben
+
+ténylegesen teljesített – környezetvédelmi szempontból a 2. melléklet szerinti mértékben súlyozott – közlekedési
+teljesítmény arányában kell elosztani
+a) a településkategóriák alapján
+aa) a megyei jogú városok és
+ab) a városok, a nagyközségek és a községek, illetve
+b) az egyes közlekedési üzemágazatok
+között a súlyozott – a tárgyévet megelőző évi üzemi szintű – fajlagos ráfordításaik figyelembevételével.
+4. § (1) A támogatás összege a települési önkormányzat által a helyi közlekedés működtetésének – folyamatos
+üzemeltetésének és eszközfenntartási ráfordításainak – finanszírozására fordított támogatásával együttesen nem
+haladhatja meg a vasúti és közúti személyszállítási közszolgáltatásról, valamint az 1191/69/EGK és az 1107/70/EGK
+tanácsi rendelet hatályon kívül helyezéséről szóló 2007. október 23-i 1370/2007/EK európai parlamenti és tanácsi
+rendeletben meghatározott elvek szerint számított, a bevételekkel nem fedezett indokolt költségek és az ágazatban
+szokásos ésszerű nyereség együttes összegét.
+(2) Az (1) bekezdéstől eltérően az olyan települési önkormányzat esetében, amely a szolgáltatót az Sztv. 23. §
+(3)–(8) bekezdése szerinti pályázati eljárásban választotta ki, a közszolgáltatási kötelezettségek teljesítéséért járó
+ellentételezés – a települési önkormányzat által a helyi közlekedés működtetésének, folyamatos üzemeltetésének
+és eszközfenntartási ráfordításainak finanszírozására fordított támogatásával nem fedezett – mértékéig nyújtható
+támogatás azzal, hogy az nem eredményezheti a szolgáltató túlfinanszírozását.
+(3) A támogatás összegét az (1) és (2) bekezdés alapján időarányosan kell megállapítani, ha a helyi közlekedést
+a tárgyévet megelőző év során hozták létre és annak működtetését a települési önkormányzat a tárgyévben is
+fenntartja.
+5. §
+A támogatás kizárólag a helyi közlekedés működtetésének, folyamatos üzemeltetésének és eszközfenntartási
+ráfordításainak finanszírozására használható fel.
+3. A kérelem benyújtásának és elbírálásának szabályai
+6. § (1) A támogatási kérelmet az 1. melléklet szerinti adatlap kincstár által üzemeltett elektronikus rendszerén keresztül
+– a helyi közlekedés tárgyévet megelőző évi közlekedési teljesítményét és a megjelölt gazdálkodási adatait
+bemutató – szolgáltatónként kitöltött és kinyomtatott egy eredeti és egy másolati példányának a kincstár települési
+önkormányzat székhelye szerint illetékes területi szervéhez (a továbbiakban: Igazgatóság) 2014. június 11-éig
+történő megküldésével lehet benyújtani. A benyújtási határidőt megtartottnak kell tekinteni, ha a kérelmező
+az elektronikus rendszerben a kérelmet 2014. június 10-én éjfélig rögzítette, és azt legkésőbb 2014. június 11-én
+postára adta. E határidő elmulasztása jogvesztő. A kizárólag postai úton benyújtott támogatási kérelem érvénytelen.
+(2) A támogatási kérelemhez csatolni kell
+a) a települési önkormányzat határozatba foglalt nyilatkozatát arról, hogy
+aa) a 2. § c) pontja szerinti feltétel teljesítését vállalja,
+ab) a helyi közlekedés működtetéséhez (folyamatos üzemeltetéséhez és eszközfenntartási
+ráfordításaihoz), valamint fejlesztéséhez a tárgyévet megelőző évre vonatkozóan december
+31-ei fordulónappal szolgáltatónként milyen nettó összegű, saját forrásból származó, vissza nem
+térítendő önkormányzati támogatást számolt el,
+ac) pályázati eljárás útján vagy pályázati eljárás nélkül a közszolgáltatással közvetlenül megbízva
+kötötte meg a szolgáltatóval a közszolgáltatási szerződést;
+b) ha a települési önkormányzat
+ba) a helyi közlekedést lebonyolító gazdálkodó szervezetet vagy költségvetési szervet tart fenn,
+a gazdálkodó szervezet 30 napnál nem régebbi cégkivonatát, illetve a költségvetési szerv alapító
+okiratát, továbbá a tárgyévet megelőző évi menetrendet, a helyi közlekedés díjszabását,
+bb) a helyi közlekedés lebonyolítására állami, önkormányzati vagy egyéb szolgáltatóval közszolgáltatási
+szerződést kötött, a közszolgáltatási szerződést, a tárgyévet megelőző évi menetrendet és a helyi
+közlekedés díjszabását,
+bc) a helyi közlekedés lebonyolítására állami, önkormányzati vagy egyéb szolgáltatóval
+a közszolgáltatási szerződésnek megfelelő szerződést vagy a koncessziós szerződést kötött,
+
+a koncessziós szerződést, a tárgyévet megelőző évi menetrendet igazoló dokumentumot, és a helyi
+közlekedés díjszabását;
+c) a 2. § b) pontja szerinti esetben az Sztv. 5. § (3) bekezdése szerinti megállapodást, a közszolgáltatási
+szerződést és a tárgyévet megelőző évi menetrendet;
+d) a szolgáltató tárgyévet megelőző évre vonatkozó éves költségvetési beszámoló helyi közösségi
+közlekedésének támogatásait tartalmazó kivonatait.
+(3) A (2) bekezdés szerinti dokumentumokat két példányban, eredetiben vagy a jegyző által hitelesített másolatban kell
+benyújtani.
+(4) Az Igazgatóság a felülvizsgált támogatási kérelmek egy eredeti példányát és az elektronikusan rögzített adatokat
+tartalmazó adatbázist 2014. július 3-áig megküldi a közlekedésért felelős miniszternek (a továbbiakban: miniszter).
+7. § (1) A támogatásról a miniszter 2014. augusztus 15-éig dönt.
+(2) A miniszter a támogatási döntést a támogatást igénylővel írásban, a kincstárral elektronikus úton közli,
+valamint írásban és elektronikus úton megküldi a helyi önkormányzatokért felelős miniszter részére, feltüntetve
+az önkormányzat nevét, KSH számát és a támogatás összegét. A miniszter az általa vezetett minisztérium
+honlapján és a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben települési önkormányzatonként,
+ha a támogatásra a települési önkormányzat több gazdálkodó szervezetre tekintettel jogosult, szolgáltatónként
+közzéteszi a támogatások összegét.
+4. A támogatás folyósítása és az elszámolás szabályai
+8. §
+A támogatás 25%-át 2014. szeptember 5-éig, ezt követően a fennmaradó támogatást három egyenlő részletben,
+havonta a helyi önkormányzatokért felelős miniszter utalványozása alapján a kincstár folyósítja. A támogatást
+a települési önkormányzat a fizetési számláján történő jóváírást követő 3 munkanapon belül a szolgáltatónak
+átutalja.
+9. § (1) A települési önkormányzat a támogatás rendeltetésszerű felhasználásáról december 31-ei fordulónappal az éves
+költségvetési beszámolóban számol el.
+(2) A települési önkormányzat az éves költségvetési beszámoló benyújtásával egyidejűleg két hiteles másolati
+példányban megküldi az Igazgatóság részére az önkormányzati önrész, valamint a támogatás összegének
+a szolgáltató részére határidőben történő átadását igazoló bizonylatok másolatát és az ezekről készült bizonylat-
+összesítő dokumentumot.
+(3) Az Igazgatóság az általa – szükség esetén a hiánypótlást követően – felülvizsgált, (2) bekezdés szerinti
+dokumentumok egy példányát a felülvizsgálat lezárását követően véleményével együtt megküldi a miniszter
+részére.
+5. Záró rendelkezések
+10. §
+Ez a rendelet a kihirdetését követő ötödik napon lép hatályba.
+11. §
+Hatályát veszti a települési önkormányzatok helyi közösségi közlekedésének támogatásáról szóló 25/2012. (V. 9.)
+NFM rendelet.
+ Németh Lászlóné s. k.,
+ nemzeti fejlesztési miniszter
+
+1. melléklet a 21/2014. (IV. 18.) NFM rendelethez
+Adatlap a települési önkormányzatok helyi közösségi közlekedésének támogatása igényléséhez
+A települési önkormányzat
+KSH statisztikai számjele: ..................................................................................................................
+neve: ...................................................................................................................................................
+címe: ..................................................................................................................................................
+telefonszáma: ....................................................................................................................................
+adószáma: ..........................................................................................................................................
+számlaszáma: .....................................................................................................................................
+számlavezető bank neve: ...................................................................................................................
+közlekedési szolgáltató neve: ...........................................................................................................
+címe: ..................................................................................................................................................
+telefonszáma: .....................................................................................................................................
+A B C D E F
+1. Tárgyévet megelőző év
+(6)
+2. helyi
+közösségi
+közlekedési
+üzemágazat
+neve
+a szolgáltató helyi közösségi
+közlekedési teljesítménye
+összesen, az adott településre
+vonatkozóan
+(ezer férőhely-kilométer)
+(7)
+a szolgáltató
+helyi közösségi
+közlekedési
+tevékenységére
+vonatkozó
+önkormányzati
+működési
+támogatás
+nettó összege
+(ezer forint)
+(8)
+önkormányzati
+fejlesztési
+támogatás
+nettó összege
+(ezer forint)
+(9)
+3. hatósági
+férőhellyel
+(1) (2)
+(ezer férőhely-
+kilométer)
+statisztikai
+férőhellyel
+(3)
+(4)
+(ezer férőhely-
+kilométer
+üzemi (üzleti)
+tevékenység
+ráfordítása
+összesen,
+az adott
+településre
+vonatkozóan
+(5)
+(ezer forint)
+4. dízelüzemű
+autóbusz
+5. gázüzemű
+autóbusz
+(LPG)
+6. gázüzemű
+autóbusz
+(CNG)
+7. közúti
+vasút
+(villamos)
+8. trolibusz
+9. Összesen
+
+A B C D
+1. Tárgyévet megelőző év
+2. Társaság 1 Társaság 2 Társaság 3
+3. a helyi közlekedésből származó tényleges
+nettó
+(áfa nélküli) díjbevétel (ezer forint)
+4. igénybe vett szociálpolitikai menetdíj-
+támogatás nettó
+(áfa nélküli) összege (ezer forint)
+5. bevételekkel nem fedezett, indokolt
+költség
+(10)
+(ezer forint)
+Egyéb megjegyzés 1
+(11):
+......................................................................................................................
+Egyéb megjegyzés 2
+(12):
+.....................................................................................................................
+Kelt: ..............................................................................
+P. H.
+...............................................................................
+települési önkormányzat polgármestere
+.............................................................................
+települési önkormányzat jegyzője
+Tájékoztató adatok:
+(1) A hatósági engedélyes közlekedési teljesítmény oszlopot kötelező kitölteni.
+(2) Hatósági férőhely: a megengedhető terhelés alapján számított, a járművel a forgalmi
+engedélye szerint szállítható személyek számaként bejegyzett férőhely (az utazószemélyzet
+leszámításával).
+(3) Ha rendelkezésre áll a teljesítmény adat, akkor az oszlopot ki kell tölteni.
+(4) Statisztikai férőhely: a kocsiszekrények ülőhelyeinek és a (kerékdobok, lépcsők és lábtartó
+dobogók nélküli) szabad állófelületéből 5 fő/m2-rel számított állóhelyeinek összege.
+(5) A szolgáltató helyi közösségi közlekedési tevékenységére vonatkozó üzemi (üzleti)
+tevékenység ráfordítása összesen: a számvitelről szóló törvénynek és a számviteli politikának
+megfelelően a több településen működő szolgáltató, az adott településen végzett valamennyi helyi
+közösségi közlekedési tevékenységére kimutatott üzemi (üzleti) tevékenység ráfordítása.
+(6) Ha a településen több szolgáltató látja el a közlekedési szolgáltatást, a szolgáltatók által
+megadott adatokat a település vonatkozásában összesítve és szolgáltatónként is szükséges megadni.
+(7) A szolgáltató helyi közösségi közlekedési teljesítménye összesen: a településen működő
+szolgáltató összes helyi járati közlekedési teljesítménye.
+(8) Önkormányzati működési támogatás: az önkormányzatok által önkormányzati önrészként
+vagy egyéb jogcímen nyújtott, működési célú – a helyi közösségi közlekedés folyamatos
+üzemeltetéséhez és eszközfenntartási ráfordításaihoz biztosított – támogatás.
+(9) Önkormányzati fejlesztési támogatás: az önkormányzat által a helyi közösségi közlekedés
+fejlesztési céljára nyújtott támogatás.
+
+(10) Az önkormányzat által a helyi közlekedés működtetésének (folyamatos üzemeltetésének és
+eszközfenntartási ráfordításainak) finanszírozására fordított támogatással csökkentett, bevételekkel
+nem fedezett indokolt költség és az ágazatban szokásos ésszerű nyereség együttes összege. A
+pályázati eljárás alapján megkötött közszolgáltatási szerződések esetében itt az ilyen eljárásban
+odaítélt szolgáltatás ellenértékét (a pályázati díjat) szükséges megadni. Ezen önkormányzatok
+esetében a közszolgáltatási kötelezettségek teljesítéséért járó ellentételezés az önkormányzat által a
+helyi közlekedés működtetésének (folyamatos üzemeltetésének és eszközfenntartási
+ráfordításainak) finanszírozására fordított támogatásával nem fedezett mértékben vehető
+figyelembe. A táblázat kitöltése minden esetben kötelező.
+(11) Egyéb megjegyzés 1: a tárgyévet megelőző évben indított helyi közlekedés esetében a
+járatindítás pontos dátuma.
+(12) Egyéb megjegyzés 2: több települést kiszolgáló társaság esetében a megyei jogú városok
+kivételével a települések megnevezése.
+2. melléklet a 21/2014. (IV. 18.) NFM rendelethez
+A helyi közösségi közlekedés 2014. évi környezetvédelmi súlyszámai
+A B C D
+1. Környezetvédelmi súlyszámok
+2.
+Dízel autóbusz
+Gázüzemű autóbusz
+(LPG és CNG)
+Trolibusz Villamos
+3.
+1,00 1,75 1,75 2,90
