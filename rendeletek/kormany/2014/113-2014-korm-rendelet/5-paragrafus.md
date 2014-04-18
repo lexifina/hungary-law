@@ -1,0 +1,3 @@
+## 4. § Az általános rendőri feladatok ellátására létrehozott szerv, mint a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 27/A. § (3) bekezdésében meghatározott elrendelő hatóság, az Európai Unió más tagállama nemzeti gépjármű-nyilvántartási adatállományaiban automatizált keresést közvetlenül, a központi közúti közlekedési nyilvántartó szerv, mint az Európai Gépjármű és Vezetői Engedély Információs Rendszer (EUCARIS) nemzeti kapcsolattartó pont által fenntartott és erre a célra kialakított biztonságos informatikai kapcsolat útján kezdeményez.
+
+## 4. A formanyomtatványok továbbítására vonatkozó rendelkezés
