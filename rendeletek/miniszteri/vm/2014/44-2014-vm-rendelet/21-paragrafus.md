@@ -1,1 +1,0 @@
-## „(21) A horgászat vagy a halászat során, legkésőbb a kifogott hal tömegének feljegyzésekor a fogási napló fogás összesítő táblázatában fel kell tüntetni a nyilvántartott halgazdálkodási vízterület megnevezését.”

@@ -1,1 +1,0 @@
-## „(17) Nyilvántartott halgazdálkodási vízterületenként legfeljebb 10 db vagy 2000 hektárnál nagyobb nyilvántartott halgazdálkodási vízterület esetén legfeljebb 200 hektáronként 1 db kereskedelmi célú halászatra jogosító halászati engedély adható ki, ide nem értve a más hasznos víziállat gyűjtésére kiadott halászati engedélyt.”

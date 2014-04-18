@@ -1,1 +1,3 @@
-## „(9) Az állami halászjegyhez vagy halászati engedélyhez kiadott fogási naplót legkésőbb a fogási naplón feltüntetett tárgyévet követő év január 31. napjáig köteles leadni a halgazdálkodási hatóságnál. A fogási napló tulajdonosa köteles úgy átadni a fogási naplóját, hogy éves fogási adatait nyilvántartott halgazdálkodási vízterületenként és halfajonként összesíti, valamint összegzi a halászattal eltöltött napok számát.”
+## 16–23. §[^4]
+
+[^4]: A 16–23. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
