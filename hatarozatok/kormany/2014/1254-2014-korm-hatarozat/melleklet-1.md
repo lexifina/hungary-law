@@ -1,6 +1,6 @@
 ## 1. megállapítja a Társadalmi Megújulás Operatív Program 2011–2013. évekre szóló akciótervének 2. prioritását az 1. melléklet szerint,
 
-## 2. visszavonja a Társadalmi Megújulás Operatív Program 2011–2013. évekre szóló akcióterve 2. prioritásának módosításáról szóló 1208/2014. (IV. 1.) Korm. határozatot.
+## 2.[^1]
 
 1. melléklet az 1254/2014. (IV. 18.) Korm. határozathoz
 
@@ -79,3 +79,5 @@
 |  | Többlet-kötelezettségvállalás esetén | 0,00 | 0,00 | 0,00 |  |  |  |  |
 
 | 2. | Prioritás | 2,20 | 133,813 | 33,98 | 3,480 |  |  |  |
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
