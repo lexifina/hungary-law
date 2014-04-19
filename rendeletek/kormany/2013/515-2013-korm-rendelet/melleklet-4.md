@@ -124,7 +124,7 @@
 
 ## 62. Vándortábor útvonalának több népegészségügyi szolgálat területi illetékességét érintő bejelentése
 
-## 63. Teljes hatályú apai elismerő nyilatkozat felvétele iránti kérelem
+## 63.[^7]
 
 ## 64. Gyermek családi és utónevének megállapítása iránti kérelem
 
@@ -283,3 +283,5 @@
 ## 141. Rendszeres gyermekvédelmi kedvezményre való jogosultság megállapítása iránti kérelem
 
 4. melléklet az 515/2013. (XII. 30.) Korm. rendelethez
+
+[^7]: A 3. melléklet 63. pontját a 131/2014. (IV. 18.) Korm. rendelet 4. §-a hatályon kívül helyezte.
