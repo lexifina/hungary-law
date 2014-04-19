@@ -32,7 +32,7 @@ c)[^17] szerint a szabadon választható elméleti továbbképzések pontérték
 
 d)[^18] szerint a szakorvos képzés intézményi akkreditációját végző egészségügyi államigazgatási szervként.
 
-(5)[^19]
+(5)[^19] A Kormány a Hivatalt jelöli ki az Eütv. szerint a halottvizsgálati szaktanácsadói névjegyzéket vezető egészségügyi államigazgatási szervként.
 
 (6)[^20] A Kormány egészségügyi államigazgatási szervként a Hivatalt jelöli ki az Eütv. 110. § (4a), (17) és (19)–(22) bekezdése szerinti feladatok ellátására.
 
@@ -51,6 +51,6 @@ d)[^18] szerint a szakorvos képzés intézményi akkreditációját végző eg�
 [^16]: A 2. § (4) bekezdés b) pontja a 182/2009. (IX. 10.) Korm. rendelet 384. § (1) bekezdése szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^17]: A 2. § (4) bekezdés c) pontját a 447/2012. (XII. 29.) Korm. rendelet 42. § (2) bekezdése iktatta be.
 [^18]: A 2. § (4) bekezdés d) pontját a 447/2012. (XII. 29.) Korm. rendelet 42. § (2) bekezdése iktatta be.
-[^19]: A 2. § (5) bekezdését a 45/2007. (III. 20.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 315/2008. (XII. 22.) Korm. rendelet 4. § (4) bekezdésének a) pontja. A 2. § (5) bekezdésének 2008. december 31-én hatályos rendelkezése szerinti működési nyilvántartás adataira vonatkozóan lásd ez utóbbi módosító rendelet 4. § (5) és (7) bekezdését.
+[^19]: A 2. § (5) bekezdését a 45/2007. (III. 20.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 315/2008. (XII. 22.) Korm. rendelet 4. § (4) bekezdésének a) pontja, újonnan a 131/2014. (IV. 18.) Korm. rendelet 1. §-a iktatta be.
 [^20]: A 2. § (6) bekezdését a 168/2008. (VI. 27.) Korm. rendelet 1. §-a iktatta be, szövege a 337/2009. (XII. 29.) Korm. rendelet 13. § (2) bekezdésével megállapított, az 520/2013. (XII. 30.) Korm. rendelet 39. § a) pontja szerint módosított szöveg.
 [^21]: A 2. § (7) bekezdését a 315/2008. (XII. 22.) Korm. rendelet 2. §-a iktatta be.
