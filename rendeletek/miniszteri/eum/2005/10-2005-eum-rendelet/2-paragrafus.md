@@ -42,7 +42,9 @@ e) természeti csapás, illetve veszélyhelyzet miatt történő kimenekítés, 
 
 f) az a)–e) pontok szerinti eseményekkel összefüggésben történt személyi sérülés vagy haláleset;
 
-g) az intézmény által észlelt halmozott fertőző megbetegedés, amelynél valószínűsíthető, hogy a megbetegedést biológiai fegyver készítésére is alkalmas kórokozó okozta.
+g) az intézmény által észlelt halmozott fertőző megbetegedés, amelynél valószínűsíthető, hogy a megbetegedést biológiai fegyver készítésére is alkalmas kórokozó okozta;
+
+h)[^5] az intézmény által észlelt, gyaníthatóan ugyanazon forrásból származó tömeges mérgezés, ha a mérgezettek száma az ötöt meghaladja.
 
 (2) Az Országos Mentőszolgálat (a továbbiakban: OMSZ), továbbá az OMSZ-on kívüli mentő- vagy betegszállító szervezet vonatkozásában rendkívüli eseménynek minősül az (1) bekezdésben foglaltakon túl:
 
@@ -54,11 +56,12 @@ c) mentőjármű súlyos személyi sérüléssel vagy halálesettel járó bales
 
 d) légi mentőjárműben keletkezett minden káresemény;
 
-e)[^5] mentőgépkocsiban keletkezett – a Btk. szerinti – jelentősnek minősülő kár;
+e)[^6] mentőgépkocsiban keletkezett – a Btk. szerinti – jelentősnek minősülő kár;
 
 f) mentőjármű, illetve mentőjármű okmányainak eltulajdonítása.
 
 [^2]: A 2. § (1) bekezdés a) pont záró szövegrésze a 68/2013. (XI. 15.) EMMI rendelet 14. § a) pontja szerint módosított szöveg.
 [^3]: A 2. § (1) bekezdés d) pont da) alpontja a 68/2013. (XI. 15.) EMMI rendelet 16. § a) pontja szerint módosított szöveg.
 [^4]: A 2. § (1) bekezdés d) pont dh) alpontja a 68/2013. (XI. 15.) EMMI rendelet 16. § b) pontja szerint módosított szöveg.
-[^5]: A 2. § (2) bekezdés e) pontja a 68/2013. (XI. 15.) EMMI rendelet 14. § b) pontja szerint módosított szöveg.
+[^5]: A 2. § (1) bekezdés h) pontját a 33/2014. (IV. 18.) EMMI rendelet 3. §-a iktatta be.
+[^6]: A 2. § (2) bekezdés e) pontja a 68/2013. (XI. 15.) EMMI rendelet 14. § b) pontja szerint módosított szöveg.
