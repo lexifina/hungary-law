@@ -1,6 +1,6 @@
 3. §[^5] (1) A szerkezetátalakítási programban – az őt megillető referenciaterület mértékéig – csak az a termelő vehet részt, aki, vagy amely 2010. május 15-ig részvételi szándékáról az MVH által rendszeresített és az MVH honlapján közzétett nyomtatványon erről írásban nyilatkozik.
 
-(2)[^6] A 2012–2013. támogatási évek vonatkozásában a szerkezetátalakítási programban az (1) bekezdésben meghatározott termelők kivételével részt vehet azon zöldség-, illetve gyümölcstermelő – az őt megillető referenciaterület mértékéig – aki, vagy amely 2012. május 15-ig részvételi szándékáról az egységes kérelemben nyilatkozik.
+(2)[^6] A 2012–2014. támogatási évek vonatkozásában a szerkezetátalakítási programban az (1) bekezdésben meghatározott termelők kivételével részt vehet azon zöldség-, illetve gyümölcstermelő – az őt megillető referenciaterület mértékéig – aki, vagy amely 2012. május 15-ig részvételi szándékáról az egységes kérelemben nyilatkozik.
 
 (3)[^7] Az (1) és (2) bekezdés szerinti nyomtatványon a termelőnek a személyi azonosításához szükséges adatokon túl meg kell jelölnie, hogy hány hektár és milyen típusú várható referenciaterület figyelembevételével, mely településen, milyen elismert tevékenységet kíván folytatni, továbbá nyilatkoznia kell arról, hogy ismeri és vállalja a szerkezetátalakítási programban való részvétel feltételeit.
 
@@ -15,7 +15,7 @@
 (8) A szerkezetátalakítási programban részt vehet az a termelő is, aki vagy amely felszámolási, végelszámolási vagy adósságrendezési eljárás alatt áll feltéve, hogy e rendeletben meghatározott egyéb feltételeknek megfelel.
 
 [^5]: A 3. § a 4/2012. (II. 7.) VM rendelet 2. §-ával megállapított szöveg.
-[^6]: A 3. § (2) bekezdése az 59/2012. (VI. 28.) VM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^6]: A 3. § (2) bekezdése az 59/2012. (VI. 28.) VM rendelet 2. § (1) bekezdésével megállapított, a 45/2014. (IV. 18.) VM rendelet 3. §-a szerint módosított szöveg.
 [^7]: [A 70/2013. (VII. 31.) VM rendelet 123. §-ával elrendelt módosítás, amely szerint a „Mezőgazdasági Szakigazgatási Hivatal (a továbbiakban: MgSzH)” szövegrész helyébe a „megyei kormányhivatal földművelésügyi igazgatósága (a továbbiakban: földművelésügyi igazgatóság)” szöveg, valamint az „az MgSzH” szövegrész helyébe az „a földművelésügyi igazgatóság” szöveg lép, nem vezethető át.]
 [^8]: A 3. § (4) bekezdése az 59/2012. (VI. 28.) VM rendelet 4. § (1) bekezdése szerint módosított szöveg.
 [^9]: A 3. § (5) bekezdése az 59/2012. (VI. 28.) VM rendelet 2. § (2) bekezdésével megállapított szöveg.
