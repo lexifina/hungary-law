@@ -444,7 +444,7 @@ A fővárosi és megyei kormányhivatal ügyfélszolgálati feladatai keretében
 
 1.38. építőipari kivitelezési tevékenység megkezdésének és az adatok változásának bejelentése, előzetes bejelentés, utólagos bejelentés, bejelentő lapok, és mellékleteik átvétele és továbbítása.
 
-1.39.[^111] teljes hatályú apai elismerő nyilatkozat és az apai elismerő nyilatkozat teljes hatályához szükséges hozzájárulás,
+1.39.[^111]
 
 1.40.[^112] otthonteremtési támogatás iránti kérelem,
 
@@ -697,7 +697,7 @@ d) egyéni vállalkozói tevékenység megszűnésének elektronikus bejelentés
 [^108]: A 2. melléklet 1.2. pontját a 63/2012. (IV. 2.) Korm. rendelet 6. § k) pontja hatályon kívül helyezte.
 [^109]: A 2. melléklet 1. pont 1.7. alpontja a 95/2012. (V. 15.) Korm. rendelet 42. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 23. §-át.
 [^110]: A 2. melléklet 1.16–1.18. pontját az 515/2013. (XII. 30.) Korm. rendelet 35. § (2) bekezdés b) pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 15. § (4) bekezdését.
-[^111]: A 2. melléklet 1. pont 1. 39. alpontját a 133/2012. (VI. 28.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^111]: A 2. melléklet 1. pont 1. 39. alpontját a 133/2012. (VI. 28.) Korm. rendelet 1. § (2) bekezdése iktatta be, hatályon kívül helyezte a 131/2014. (IV. 18.) Korm. rendelet 2. §-a.
 [^112]: A 2. melléklet 1. pont 1.40. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
 [^113]: A 2. melléklet 1. pont 1.41. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
 [^114]: A 2. melléklet 1. pont 1.42. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
