@@ -1,0 +1,1 @@
+## 1. § Az Erzsébet Szállodák, Táborok és Vendégházak Nonprofit Közhasznú Korlátolt Felelősségű Társaság (székhelye: 1054 Budapest, Báthory utca 12., cégjegyzékszáma: 01-09-992492, adószáma: 20707156-2-41, főtevékenysége: 8690 08 Egyéb humán-egészségügyi ellátás) által ellátott feladatot 2014. április 30-ától a Közigazgatási és Igazságügyi Hivatal látja el.
