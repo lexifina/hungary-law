@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-26-20-3
 | 2011-07-01 | 1997-26-20-3D.10 | 19/2010. (IV. 22.) EüM rendelet |
 | 2012-03-30 | 1997-26-20-3D.11 | 19/2012. (III. 28.) NEFMI rendelet |
 | 2013-02-08 | 1997-26-20-3D.12 | 10/2011. (III. 30.) NEFMI rendelet |
+| 2014-04-19 | 1997-26-20-3D.13 | 10/2011. (III. 30.) NEFMI rendelet |
