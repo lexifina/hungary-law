@@ -20,10 +20,10 @@ b) egyetemi szintű végzettség a mesterképzési szakon szerzett mesterfokozat
 
 (8) A többciklusú képzésben a művészeti képzési területen – a felsőoktatási törvény keretei között, a kislétszámú szakok indításához és fenntartásához kapcsolódó rendelkezésekre is tekintettel – a művészeti szakok sajátosságait figyelembe véve kell évente meghatározni a mesterfokozaton államilag támogatott képzésben részt vevők arányát.
 
-(9)[^20] A szociális felsőoktatás alapképzési szakjainak képesítési követelményeiről szóló 6/1996. (I. 18.) Korm. rendeletben meghatározott főiskolai szintű általános szociális munkás, valamint szociálpedagógia szakra 2006. március 1-je előtt felvett azon hallgatók, akik 1996. január 26-a előtt létesített, a közalkalmazottak által betölthető egyes munkakörök közalkalmazotti osztályba sorolásáról szóló 3/2001. (II. 20.) EüM rendelet hatálya alá tartozó közalkalmazotti jogviszonnyal rendelkeznek, illetve szociális és egészségügyi tevékenységet vagy család-, gyermek- és ifjúságvédelmet ellátó szervezetnél munkaviszonnyal rendelkeznek, mentesülnek a záróvizsgára bocsátás feltételeként meghatározott egy idegen nyelvből A vagy B vagy C típusú, középfokú állami vagy azzal egyenértékű nyelvvizsga letételének kötelezettsége alól.
+(9)[^23] A szociális felsőoktatás alapképzési szakjainak képesítési követelményeiről szóló 6/1996. (I. 18.) Korm. rendeletben meghatározott főiskolai szintű általános szociális munkás, valamint szociálpedagógia szakra 2006. március 1-je előtt felvett azon hallgatók, akik 1996. január 26-a előtt létesített, a közalkalmazottak által betölthető egyes munkakörök közalkalmazotti osztályba sorolásáról szóló 3/2001. (II. 20.) EüM rendelet hatálya alá tartozó közalkalmazotti jogviszonnyal rendelkeznek, illetve szociális és egészségügyi tevékenységet vagy család-, gyermek- és ifjúságvédelmet ellátó szervezetnél munkaviszonnyal rendelkeznek, mentesülnek a záróvizsgára bocsátás feltételeként meghatározott egy idegen nyelvből A vagy B vagy C típusú, középfokú állami vagy azzal egyenértékű nyelvvizsga letételének kötelezettsége alól.
 
-(10)[^21] Az e rendeletet módosító, az egyes felsőoktatási tárgyú kormányrendeletek módosításáról szóló 39/2011. (III. 22.) Korm. rendelet hatálybalépésének[^22] napjától az erdőmérnök alapképzési szakon képzés nem indítható.
+(10)[^24] Az e rendeletet módosító, az egyes felsőoktatási tárgyú kormányrendeletek módosításáról szóló 39/2011. (III. 22.) Korm. rendelet hatálybalépésének[^25] napjától az erdőmérnök alapképzési szakon képzés nem indítható.
 
-[^20]: A 16. § (9) bekezdése e rendelet 15. § (2) bekezdésének b) pontja alapján 2006. március 1. napján lép hatályba.
-[^21]: A 16. § (10) bekezdését a 39/2011. (III. 22.) Korm. rendelet 13. §-a iktatta be.
-[^22]: A hatálybalépés időpontja 2011. március 27.
+[^23]: A 16. § (9) bekezdése e rendelet 15. § (2) bekezdésének b) pontja alapján 2006. március 1. napján lép hatályba.
+[^24]: A 16. § (10) bekezdését a 39/2011. (III. 22.) Korm. rendelet 13. §-a iktatta be.
+[^25]: A hatálybalépés időpontja 2011. március 27.
