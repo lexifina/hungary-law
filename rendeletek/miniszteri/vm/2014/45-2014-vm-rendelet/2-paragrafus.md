@@ -1,1 +1,0 @@
-## „(2a) Az MVH a vis maior bejelentést követő tíz napon belül – ha a vis maior kérelem támogatási vagy kifizetési kérelem beadási időszakban kerül benyújtásra, akkor a kérelembenyújtási időszakot követő tíz napon belül – köteles megkeresni a szakhatósági állásfoglalás kiadására jogosult szervet.”
