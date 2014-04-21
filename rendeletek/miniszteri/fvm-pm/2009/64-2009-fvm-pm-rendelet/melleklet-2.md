@@ -28,7 +28,7 @@
 
 ## önkormányzat jegyzője/hegybíró
 
-2. számú melléklet a 64/2009. (V. 22.) FVM–PM együttes rendelethez[^8]
+2. számú melléklet a 64/2009. (V. 22.) FVM–PM együttes rendelethez[^11]
 
 Kérelem a mezei őrszolgálat és a hegyőrség működéséhez nyújtott támogatás igényléséhez
 
@@ -68,4 +68,4 @@ Ezek alapján kérem az önkormányzat/hegyközség részére a hatályos jogsza
 
 önkormányzat jegyzője/hegybíró
 
-[^8]: A 2. számú melléklet a 70/2013. (VII. 31.) VM rendelet 106. § e) pontja szerint módosított szöveg.
+[^11]: A 2. számú melléklet a 70/2013. (VII. 31.) VM rendelet 106. § e) pontja szerint módosított szöveg.

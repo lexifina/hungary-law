@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-64-20-8
 | --- | --- | --- |
 | 2009-06-03 | 2009-64-20-82.3 | 64/2009. (V. 22.) FVM–PM együttes rendelet |
 | 2013-08-01 | 2009-64-20-82.4 | 70/2013. (VII. 31.) VM rendelet |
+| 2014-04-21 | 2009-64-20-82.5 | 46/2014. (IV. 18.) VM rendelet |
