@@ -1,3 +1,3 @@
-## 28. § Amennyiben az OTH alapos indokok alapján úgy ítéli meg, hogy a 3. vagy 4. § szerint általa engedélyezett vagy regisztrált biocid termék elfogadhatatlan kockázatot jelent az emberek, illetőleg az állatok egészségére vagy a környezetre, a terméknek az ország területén történő forgalomba hozatalát ideiglenesen korlátozhatja vagy betilthatja. Erről az intézkedésről haladéktalanul értesíti a Bizottságot és a többi tagállamot, megjelölve döntésének okait.
+## 28. §[^35]
 
-## Gyakorlati útmutató
+[^35]: A 28. §-t és az azt megelőző alcímet a 32/2014. (IV. 18.) EMMI rendelet 11. § a)–b) pontja hatályon kívül helyezte.

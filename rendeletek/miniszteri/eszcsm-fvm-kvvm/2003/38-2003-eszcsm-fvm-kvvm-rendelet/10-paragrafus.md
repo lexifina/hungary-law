@@ -1,75 +1,54 @@
-## Hatóanyag közösségi jegyzékbe történő felvételének kezdeményezése
+## Biocid termékek előállítása, csomagolása és feliratozása[^14]
 
-10. § (1)[^33] A tudományos és technikai ismeretek mindenkori állására figyelemmel hatóanyag legfeljebb 10 éves kezdeti időszakra vehető fel a közösségi jegyzékbe. A felvétel Magyarországon történő kezdeményezésének feltétele, hogy
+10. §[^15] (1) A biocid termékek előállítása és csomagolása során a következő követelményeket kell érvényesíteni:
 
-a) a hatóanyagot tartalmazó biocid termékek, vagy
+a) azokat a termékeket, amelyek élelmiszerrel, állatok itatására szolgáló folyadékkal vagy takarmánnyal összetéveszthetők, úgy kell csomagolni, hogy az ilyen összetévesztés esélye a lehető legkisebb legyen,
 
-b) a hatóanyagot tartalmazó kis kockázattal járó biocid termékek, illetve
+b) a mindenki számára hozzáférhető termékeknek, ha azok élelmiszerrel, itallal vagy takarmánnyal összetéveszthetők, olyan averzív hatású összetevőt vagy összetevőket kell tartalmazniuk, amely vagy amelyek a termék elfogyasztását megakadályozzák vagy az elfogyasztás veszélyére a fogyasztó figyelmét egyértelműen felhívják.
 
-c) a biocid termékben lévő alapanyagok
+(2) A biocid termék felirata nem túlozhatja el a termék hatását, és nem tartalmazhatja a „kis kockázattal járó biocid termék”, a „nem mérgező”, az „ártalmatlan”, valamint a tartalmukban ezekkel megegyező vagy hasonló következtetés levonására alkalmas más jelzéseket. Ezen túlmenően a címkének – a b) pont tekintetében az e rendelet szerint engedélyezett biocid termék esetében – egyértelműen, magyar nyelven, jól olvashatóan és eltávolíthatatlan módon tartalmaznia kell:
 
-## alapos okkal feltételezhetően megfelelnek az 5. § (1) bekezdés b)–d) pontjaiban meghatározott feltételeknek, figyelembe véve szükség esetén az ugyanazt a hatóanyagot tartalmazó más biocid termékek használatából eredő halmozott hatásokat.
+a) valamennyi hatóanyag azonosítását és mérhető egységekben kifejezett koncentrációját,
 
-(2) Hatóanyagnak a kis kockázattal járó biocid termékek hatóanyagainak közösségi jegyzékébe történő felvétele nem kezdeményezhető, ha a Kbtv. illetve a Vhr. szerint elvégzett osztályozás alapján az anyag
+b) az OTH által a biocid terméknek adott engedélyezési számot,
 
-a) rákkeltő (1–3. kategória),
+c) a készítmény terméktípusát és formulációjának típusát,
 
-b) mutagén,
+d) azokat az alkalmazásokat, amelyekre a biocid terméket engedélyezték, vagy – az e rendelet szerinti engedély kiadásáig jogszerűen forgalmazható biocid termék esetén – amelyekre forgalomba hozták,
 
-c) reprodukciót károsító,
+e) a használati utasítást és mérhető egységekben kifejezett adagolási arányt – engedélyezett biocid termék esetén az engedélyben szereplő – minden egyes felhasználáshoz,
 
-d) szenzibilizáló, vagy
+f) a valószínűsíthető közvetett vagy közvetlen káros mellékhatások jellegét és az elsősegély-nyújtási rendelkezést,
 
-e) felhalmozódik az élő szervezetben, és nem hajlamos a lebomlásra.
+g) ha tájékoztatót mellékelnek, akkor a „Használat előtt olvassa el a mellékelt használati utasítást!” feliratot,
 
-Indokolt esetben a kis kockázattal járó biocid termékek hatóanyagainak közösségi jegyzékébe történő felvételének kezdeményezésekor utalni kell azokra a koncentráció határokra, amelyek között az anyag alkalmazható.
+h) a biocid termék és csomagolása biztonságos ártalmatlanítására vonatkozó előírásokat, beleértve – ha indokolt – a csomagolás újrafelhasználásának tilalmát,
 
-(3) Hatóanyag közösségi jegyzékbe történő felvételének kezdeményezésekor figyelembe kell venni, illetőleg meg kell határozni:
+i) a gyártási tétel számát vagy jelzését, és a szokásos tárolási körülményekre vonatkozó lejárat idejét,
 
-a) a hatóanyag minimális tisztasági fokát,
+j) a biocid hatás kifejtéséhez szükséges időt, a biocid termék ismételt alkalmazásai között vagy az alkalmazás és a kezelt termék következő használata között betartandó várakozási időt, illetve azt az időt, amelyet követően ember (egyéni védőeszköz nélkül), illetve állat beléphet arra a területre, ahol a biocid terméket alkalmazták,
 
-b) az egyes szennyezések jellegét és maximális mennyiségét,
+k) a szennyezés-mentesítés módjait és eszközeit, a kezelt terület szellőztetéséhez szükséges időtartamot, az alkalmazott berendezés megfelelő tisztításának részleteit, a felhasználás, tárolás, szállítás alatti óvintézkedéseket az emberek és az állatok expozíciójának megelőzése érdekében, különös tekintettel
 
-c) a terméktípust, amelyben a hatóanyag felhasználható,
+ka) az egyéni védőeszközök használatára,
 
-d) a hatóanyag felhasználásnak módját és területét,
+kb) a tűzvédelmi intézkedésekre,
 
-e) a felhasználók körét (pl. ipari, foglalkozásszerű, nem foglalkozásszerű),
+kc) a helyiségekben található berendezések, bútorzat védelmére,
 
-f) az e rendelettel összefüggésben hozzáférhetővé tett információk értékelésből következő egyéb sajátos feltételeket,
+kd) az élelmiszerek és a takarmány eltávolítására
 
-g) a felhasználó személyt érő elfogadható expozíciós szintet (AOEL), amennyiben szükséges,
+## vonatkozóan,
 
-h) indokolt esetben az emberre vonatkozó napi felvételt (ADI) és maximális biocid maradék határértéket (MRL),
+l) a felhasználói kört, amelyre a biocid termék használatát korlátozták,
 
-i) a hatóanyag környezetben bekövetkező sorsát és viselkedését (lebomlása, felhalmozódása stb.) és nem-célszervezetekre gyakorolt hatását.
+m) információt minden meghatározott környezeti veszélyről, különösen a nem célszervezetek védelmét és a víz szennyeződését érintően,
 
-(4) Valamely hatóanyag közösségi jegyzékbe történő felvételének kezdeményezését az 5. számú melléklet szerinti olyan terméktípusokra kell korlátozni, amelyekre vonatkozóan az adatokat a 8. § szerint beterjesztették.
+n) mikrobiológiai biocid termékek esetében a biológiai tényezők hatásának kitett munkavállalók egészségvédelméről szóló rendelet szerint előírt figyelmeztető jelet.
 
-(5) Valamely hatóanyag közösségi jegyzékbe történő felvételének megújítása egy vagy több alkalommal, 10 évet meg nem haladó időtartamra kezdeményezhető. Mind az első felvétel, mind minden megújított felvétel felülvizsgálata bármikor indítványozható, ha feltételezhető, hogy az (1) bekezdésben foglalt követelmények már nem teljesülnek, illetőleg a (6) bekezdésben meghatározott esetben. A megújítás kezdeményezése szükség esetén a felülvizsgálat befejezéséhez szükséges arra az időtartamra korlátozható, amely szükséges a 11. § (4) bekezdése szerinti további információk benyújtásához.
+(3) Az engedély iránt benyújtott kérelemhez csatolni kell a csomagolás, a felirat (címke) és a tájékoztatók mintáját vagy tervezetét. Az engedély iránti kérelemben meg kell jelölni a biocid termék hatóanyaga gyártójának nevét, székhelye és telephelye címét.
 
-(6) Valamely hatóanyagnak az 1. számú melléklet, illetve szükség szerint az 1/a) vagy 1/b) számú mellékletek szerinti közösségi jegyzékbe való felvételének kezdeményezésére irányuló kérelem elutasítható, illetve a jegyzékbe felvett hatóanyag törlése kezdeményezhető, ha
+(4) A biocid termékeken a feliratozás (címkézés), illetve a termékekhez csatolt tájékoztatás (használati utasítás) magyar nyelvű.
 
-a) a hatóanyagnak a 11. § (3) bekezdése szerinti értékelése azt mutatja, hogy az engedélyezett biocid termékekben történő felhasználás egészségi és környezeti kockázata a felhasználás szokásos körülményei között is meghaladja az elfogadható mértéket, és
-
-b) az 1. számú melléklet szerinti közösségi jegyzékben ugyanarra a terméktípusra létezik egy másik hatóanyag, amely a tudományos és technikai ismeretek mindenkori állása szerint kisebb kockázatot jelent az egészségre és a környezetre.
-
-(7) A (6) bekezdésben foglalt feltételek megléte esetén a közösségi jegyzékbe való felvétel kezdeményezése iránti kérelmet el kell utasítani, illetve a jegyzékbe már felvett hatóanyag törlését kell kezdeményezni, ha teljesülnek a következő egyidejű feltételek is:
-
-a) a jegyzékben lévő további hatóanyagok kémiai sokfélesége alkalmas arra, hogy a célszervezetben a rezisztencia megjelenését a minimálisra csökkentse,
-
-b) a hatóanyag engedélyezett biocid termékekben, szokásos körülmények között alkalmazva jelentősen nagyobb kockázati szintet jelent,
-
-c) a hatóanyag felvételére irányuló kezdeményezés megtagadásának vagy törlése kezdeményezésének alátámasztására elégséges gyakorlati tapasztalat áll rendelkezésre,
-
-d) a közösségi jegyzékbe történő felvétel alapjaként szolgált vagy szolgáló értékelés adatainak teljes dokumentációját a Bizottság rendelkezésre bocsátják.
-
-(8) A (6)–(7) bekezdések szerinti elutasítás vagy a törlés kezdeményezésének mérlegelése során az eljáró hatóságnak egy vagy több alternatív hatóanyag értékelését is el kell végeznie annak bizonyítására, hogy az alternatív hatóanyag a célszervezettel szemben hatékonyan használható anélkül, hogy az gazdasági és gyakorlati hátrányt jelentene a felhasználónak és fokozott kockázatot az egészségre és környezetre.
-
-(9)[^34] Az 1. számú mellékletnek az „A hatóanyag minimális tisztasági foka” tartalmú oszlopában jelzett tisztaság a 11. § alapján végzett értékeléshez használt hatóanyag minimális tisztasági fokának felel meg. A forgalomba hozott biocid termékben lévő hatóanyag azzal megegyező, de attól eltérő tisztaságú is lehet, ha az értékelt hatóanyaggal technikailag bizonyítottan egyenértékű.
-
-(10)[^35] Az 1. számú mellékletnek az „A 16. § (3) bekezdésének való megfelelés határnapja, kivéve, ha a 10. § (10) bekezdésében részletezett kivételek valamelyike alkalmazandó” című oszlopának alkalmazásában a 9. § (3) bekezdésének hatálya alá tartozó – a biocid termékek forgalomba hozataláról szóló 98/8/EK európai parlamenti és tanácsi irányelv 16. cikk (2) bekezdésében említett munkaprogram keretében vizsgált – hatóanyagok közül többet is tartalmazó biocid termékek esetében a 16. § (3) bekezdésének való megfelelés határnapja a terméknek az 1. számú mellékletbe legutoljára felvett hatóanyagára meghatározott határnap. Azon termékek vonatkozásában, amelyek első engedélyét a 16. § (3) bekezdésében foglaltak teljesítésére megállapított határidőt megelőző 120 napos időtartamon belül adták meg – amennyiben a 4. § (1) bekezdése szerinti kölcsönös elismerés iránti kérelem az első engedély megadásától számítva legkésőbb 60 napon belül hiánytalanul benyújtásra került –, a 16. § (3) bekezdésében foglaltak teljesítésére az adott kérelem vonatkozásában megállapított határidő a kölcsönös elismerés iránti kérelem hiánytalan benyújtását követő 120 napra módosul. Azon termékeknél, amelyek esetében egy tagállam a 4. § (4) bekezdése alapján az engedély kölcsönös elismerésétől való eltérést javasol, a 16. § (3) bekezdésében foglaltak teljesítésére megállapított határidő az adott termék vonatkozásában a biocid termékek forgalomba hozataláról szóló 98/8/EK európai parlamenti és tanácsi irányelv 4. cikk (4) bekezdés második albekezdésével összhangban hozott bizottsági határozat elfogadásától számított harminc napra módosul.
-
-[^33]: A 10. § (1) bekezdés nyitó szövegrésze a 15/2012. (III. 12.) NEFMI rendelet 10. §-a szerint módosított szöveg.
-[^34]: A 10. § (9) bekezdését a 38/2013. (V. 28.) EMMI rendelet 1. § (1) bekezdése iktatta be.
-[^35]: A 10. § (10) bekezdését a 38/2013. (V. 28.) EMMI rendelet 1. § (1) bekezdése iktatta be.
+[^14]: A 10. §-t megelőző alcím a 32/2014. (IV. 18.) EMMI rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^15]: A 10. § a 32/2014. (IV. 18.) EMMI rendelet 7. § (2) bekezdésével megállapított szöveg.

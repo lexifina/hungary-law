@@ -18,19 +18,19 @@
 
 | 1.3. | A biocid termék megnevezése |
 
-| 1.4. | A biocid terméknek az 5. számú melléklet szerinti besorolására vonatkozó adatok (főcsoport és terméktípus) |
+| 1.4. | A biocid terméknek az 528/2012/EU európai parlamenti és tanácsi rendelet V. Melléklete szerinti besorolására vonatkozó adatok (főcsoport és terméktípus) |
 
-| 1.5. | Tájékoztatás arról, hogy amennyiben több célra kívánja forgalmazni a biocid terméket, valamennyi terméktípus felsorolandó |
+| 1.5. | Ha több célra kívánja forgalmazni a biocid terméket, valamennyi terméktípus felsorolandó |
 
-| 1.6. | Engedély/szakvélemény száma (ha a termék engedély-/szakvélemény köteles) |
+| 1.6. | Engedély száma (ha a termék engedélyköteles) |
 
-| 1.7. | Hatóanyag (hatóanyagok) megnevezése a 8. § (9) bekezdése szerint |
+| 1.7. | Hatóanyag vagy hatóanyagok megnevezése, gyártójának neve, székhelye és telephelye címe. Megjegyzés: a hatóanyag nevét úgy kell megadni, ahogyan azt az anyagok és keverékek osztályozásáról, címkézéséről és csomagolásáról, a 67/548/EGK és az 1999/ 45/EK irányelv módosításáról és hatályon kívül helyezéséről, valamint az 1907/2006/EK rendelet módosításáról szóló 2008. december 16-i 1272/2008/EK európai parlamenti és tanácsi rendelet VI. melléklete szerinti jegyzék, vagy – ha a név ott nem szerepel – a Létező Kereskedelmi Vegyi Anyagok Európai Jegyzéke (EINECS) tartalmazza. Ha a hatóanyag a fentiek közül egyik jegyzékben sem szerepel, akkor a hatóanyagnak a Nemzetközi Szabványügyi Szervezet (ISO) szerinti közhasználatú nevét kell megadni. Ha ilyen nincs, akkor az anyagot az Elméleti és Alkalmazott Kémia Nemzetközi Uniójának (IUPAC) szabályai szerinti kémiai megnevezéssel kell megjelölni. |
 
 | 1.8. | Hatóanyag (hatóanyagok) CAS- vagy EU-száma |
 
 | 1.9. | Pontos és részletes összetétel [megnevezés (szabadnév, IUPAC/CA név), CAS-/EU-szám, mennyiség] |
 
-| 1.10. | A következő nyilatkozat: „Tanúsítom, hogy a biocid termék és a termékben szereplő komponensek teljesítik a kémiai biztonságról szóló 2000. évi XXV. törvény, valamint a veszélyes anyagokkal és a veszélyes készítményekkel kapcsolatos egyes eljárások, illetve tevékenységek részletes szabályairól szóló 44/2000. (XII. 27.) EüM rendeletben előírt kötelezettségeket.” |
+| 1.10. | A bejelentéshez az igazgatási szolgáltatási díj befizetésének igazolását, valamint a Kbtv. szerint veszélyesnek minősülő biocid termékek esetében az 1907/2006/EK európai parlamenti és tanácsi rendelet szerint elkészített biztonsági adatlapot csatolni kell.” |
 
 | 1.11. | Dátum, név |
 
@@ -86,6 +86,6 @@
 
 11. számú melléklet a 38/2003. (VII. 7.) ESZCSM–FVM–KvVM
 
-együttes rendelethez[^114]
+együttes rendelethez[^76]
 
-[^114]: A 11. számú mellékletet a 17/2010. (IV. 16.) EüM–FVM–KvVM együttes rendelet 17. § (1) bekezdés e) pontja hatályon kívül helyezte.
+[^76]: A 11. számú mellékletet a 17/2010. (IV. 16.) EüM–FVM–KvVM együttes rendelet 17. § (1) bekezdés e) pontja hatályon kívül helyezte.

@@ -6,6 +6,8 @@
 
 ## 1.3. A gyártó és forgalmazó cég neve, címe
 
+## 1.3a. A termék hatóanyaga vagy hatóanyagai gyártójának neve, székhelye és telephelye címe
+
 ## 1.4. A termék előállításának technológiája
 
 ## 1.5. A gyártásra vonatkozó minőségbiztosítás
@@ -20,7 +22,7 @@
 
 ## 1.10. A termék ivóvízben lévő koncentrációja meghatározásának módszere
 
-## 1.11. A 21. § (2) bekezdésében említett biztonsági adatlap
+## 1.11.
 
 ## 1.12. A gyártó által kibocsátott, eredeti biztonsági adatlap
 
@@ -28,7 +30,7 @@
 
 ## 1.14. Más (hazai vagy külföldi) engedély, illetve vizsgálati eredmény, ha rendelkezésre áll
 
-## 1.15. A 20. § (3) bekezdése szerinti címketerv, használati útmutató
+## 1.15. A 10. § (2) bekezdése szerinti címketerv, használati útmutató
 
 ## 2. Irtószerek szakvéleményezéséhez szükséges adatok
 
@@ -39,6 +41,8 @@
 ## 2.3. A kérelmező (magyarországi forgalmazó) neve, címe
 
 ## 2.4. A gyártó neve, címe
+
+## 2.4a. A termék hatóanyaga vagy hatóanyagai gyártójának neve, székhelye és telephelye címe
 
 ## 2.5. A hatóanyag (hatóanyagok) és az adalékanyag (adalékanyagok) gyártótól (gyártóktól) származó eredeti biztonsági adatlapja
 
@@ -66,11 +70,13 @@
 
 ## 2.17. A gyártó cég nyilatkozata a kérelmező magyarországi forgalmazási jogáról és névhasználatáról
 
-## 3. A 31. § (5) bekezdés a)–c) pontjában felsorolt fertőtlenítő szerek szakvéleményének elkészítéséhez szükséges dokumentáció (a kérelem adattartalma és a kérelemhez csatolandó dokumentumok)
+## 3. A 6. § (4) bekezdésében felsorolt fertőtlenítő szerek szakvéleményének elkészítéséhez szükséges dokumentáció (a kérelem adattartalma és a kérelemhez csatolandó dokumentumok)
 
-## 3/a. A 31. § (5a) bekezdése szerinti, kizárólag lakossági felhasználásra kerülő fertőtlenítő szerek szakvéleményének elkészítéséhez szükséges dokumentáció (a kérelem adattartalma és a kérelemhez csatolandó dokumentumok)
+## 3/a. A 6. § (5) bekezdése szerinti, kizárólag lakossági felhasználásra kerülő fertőtlenítő szerek szakvéleményének elkészítéséhez szükséges dokumentáció (a kérelem adattartalma és a kérelemhez csatolandó dokumentumok)
 
 ## 1. A biocid termék gyártója (név, cím, telefon, e-mail cím)
+
+## 1a. A termék hatóanyaga vagy hatóanyagai gyártójának neve, székhelye és telephelye címe
 
 ## 2. A biocid termék forgalmazója (név, cím, telefon, e-mail cím)
 
@@ -86,13 +92,15 @@
 
 ## 8. A csomagolóanyag adatai
 
-## 9. A gyártótól független, akkreditált laboratórium által elvégzett antimikrobiális hatást igazoló, Euronorm szabvány alapján elvégzett vizsgálatok jegyzőkönyve
+## 9. Akkreditált laboratórium által elvégzett antimikrobiális hatást igazoló, Euronorm szabvány vagy azzal egyenértékű más módszer alapján elvégzett vizsgálatok jegyzőkönyve
 
 ## 10. Termékminta
 
 ## 11. Címke vagy címketerv / Használati utasítás
 
 ## 3.1. A biocid termék gyártója (név, cím, telefon, e-mail cím)
+
+## 3.1a. A termék hatóanyaga vagy hatóanyagai gyártójának neve, székhelye és telephelye címe
 
 ## 3.2. A biocid termék forgalmazója (név, cím, telefon, e-mail cím)
 
@@ -124,7 +132,7 @@
 
 ## 3.16. Állattartó telepek fertőtlenítésére szolgáló termék esetén annak az időtartamnak a meghatározása, amelynek letelte után az állatok beengedhetők a fertőtlenített helyiségekbe
 
-## 4. A 31. § (6) bekezdésében felsorolt fertőtlenítő szerek szakvéleményének elkészítéséhez szükséges dokumentáció
+## 4. A 7. §-ban felsorolt fertőtlenítő szerek szakvéleményének elkészítéséhez szükséges dokumentáció
 
 ## 4.1. A kérelmező, a forgalmazó adatai (név, cím, telefon, e-mail)
 
@@ -144,7 +152,7 @@
 
 ## 4.9. Hatásmód, hatékonyság, antimikrobiális spektrum, akkreditált laboratórium által kiadott, az EN-1276 és az EN-1650 szabványok szerint fehérjeterheléssel végzett mikrobiológiai vizsgálatok eredményei
 
-## 4.10. A 20. § (3) bekezdésének megfelelő címketerv
+## 4.10. A 10. § (2) bekezdésének megfelelő címketerv
 
 ## 4.11. Tárolási előírások, eltarthatóság, kiszerelési egység
 
@@ -152,6 +160,6 @@
 
 10. számú melléklet a 38/2003. (VII. 7.) ESZCSM–FVM–KvVM
 
-együttes rendelethez[^113]
+együttes rendelethez[^75]
 
-[^113]: A 10. számú melléklet a 15/2012. (III. 12.) NEFMI rendelet 9. § (3) bekezdésével megállapított szöveg.
+[^75]: A 10. számú melléklet a 15/2012. (III. 12.) NEFMI rendelet 9. § (3) bekezdésével megállapított, a 32/2014. (IV. 18.) EMMI rendelet 10. § (3) bekezdése szerint módosított szöveg.

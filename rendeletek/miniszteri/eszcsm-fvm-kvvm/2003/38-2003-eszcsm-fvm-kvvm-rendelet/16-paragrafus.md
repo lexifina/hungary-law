@@ -1,12 +1,3 @@
-## Átmeneti intézkedések
+## 15/B. §[^22]
 
-16. §[^46] (1)[^47] Ha az 1451/2007/EK bizottsági rendelet 4. cikk (2) bekezdése alapján valamely biocid termék hatóanyaga nem kerül fel a közösségi jegyzékre, a termék az 1451/2007/EK bizottsági rendelet 4. cikk (2) bekezdése szerinti határidőig, vagy a Bizottság elutasító határozatában ettől eltérően megállapított határidőig forgalmazható. Az engedélyező hatóság – az OTH vagy NÉBIH – ezen határidőig az érintett termék engedélyét visszavonja.
-
-(2)[^48] Ha valamely hatóanyag ismételt felülvizsgálatát követően azt állapítják meg, hogy az nem felel meg a 10. § követelményeinek és a közösségi jegyzékbe már nem lenne felvehető, illetve a hatóanyaggal összefüggésben az 1907/2006/EK európai parlamenti és tanácsi rendelet szerint korlátozásokat vezettek be, az OTH a hatóanyag, illetve az azt tartalmazó biocid termék forgalmazását és felhasználását – a 7. § szerinti eljárás lefolytatásával – korlátozza, illetve megtiltja.
-
-(3)[^49] Biocid termék hatóanyagainak a közösségi jegyzékbe történő felvételéről hozott döntést követően, a 30. § (6) bekezdésében meghatározottak szerint az OTH a hatóanyagokat tartalmazó biocid termék e rendelet szerinti engedélyét kiadja, regisztrációját elvégzi, vagy az engedélyeket visszavonja.
-
-[^46]: A 16. § a 21/2008. (V. 22.) EüM–FVM–KvVM együttes rendelet 5. §-ával megállapított szöveg.
-[^47]: A 16. § (1) bekezdése a 21/2012. (IX. 4.) EMMI rendelet 1. § (4) bekezdés b) pontja, a 11/2013. (II. 7.) EMMI rendelet 22. § b) pontja szerint módosított szöveg.
-[^48]: A 16. § (2) bekezdése a 17/2010. (IV. 16.) EüM–FVM–KvVM együttes rendelet 9. §-ával megállapított szöveg.
-[^49]: A 16. § (3) bekezdése a 17/2010. (IV. 16.) EüM–FVM–KvVM együttes rendelet 9. §-ával megállapított szöveg.
+[^22]: A 15/B. §-t a 17/2010. (IV. 16.) EüM–FVM–KvVM együttes rendelet 8. §-a iktatta be, hatályon kívül helyezte a 32/2014. (IV. 18.) EMMI rendelet 11. § b) pontja.
