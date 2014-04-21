@@ -1,6 +1,6 @@
 ## 5. §[^8] A gépjármű-üzemanyagok közül legalább az MSZ EN 228 szabvány szerinti 95-ös oktánszámú motorbenzin, valamint az MSZ EN 590 szabvány szerinti dízelgázolaj egységárát az üzemanyagtöltő állomás területén vagy más arra alkalmas helyen (oszlopon vagy táblán) is fel kell tüntetni, olyan magasságban és méretben, hogy az a közlekedési útvonalról jól olvasható legyen.
 
-5/A. §[^9] (1) Az 1234/2007/EK tanácsi rendeletnek a tojás forgalmazása tekintetében történő alkalmazására vonatkozó részletes szabályok megállapításáról szóló, 2008. június 23-i 589/2008/EK bizottsági rendeletben meghatározott tojás esetén fel kell tüntetni a tojás kilogrammjára számított legmagasabb egységárat is.
+5/A. §[^9] (1)[^10] Az 1234/2007/EK tanácsi rendeletnek a tojás forgalmazása tekintetében történő alkalmazására vonatkozó részletes szabályok megállapításáról szóló, 2008. június 23-i 589/2008/EK bizottsági rendeletben meghatározott tojás esetében – a 4. § e) pontja szerint feltüntetendő egységár betűméreténél legfeljebb 20%-kal kisebb betűméretben – fel kell tüntetni a tojás kilogrammjára számított legmagasabb egységárat is.
 
 (2) Az (1) bekezdés szerinti egységár kiszámításához az alábbi tömegértékeket kell figyelembe venni:
 
@@ -22,3 +22,4 @@ e) ha a csomagolási egységben különböző tömegosztályú tojások találha
 
 [^8]: Az 5. § a 29/2011. (VIII. 3.) NGM rendelet 23. § c) pontja szerint módosított szöveg.
 [^9]: Az 5/A. §-t a 20/2012. (VII. 23.) NGM rendelet 1. §-a iktatta be.
+[^10]: Az 5/A. § (1) bekezdése az 1/2014. (I. 21.) NGM rendelet 1. §-ával megállapított szöveg.
