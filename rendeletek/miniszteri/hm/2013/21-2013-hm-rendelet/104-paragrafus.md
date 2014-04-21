@@ -19,3 +19,7 @@ b) a 36–75. ugrás között az illetményalap 3,5%-a,
 c) a 76. ugrástól az illetményalap 5%-a.
 
 (3) Az állományilletékes parancsnok által kijelölt személy a katasztrófavédelemmel összefüggő feladatok végrehajtásában történő közreműködés alapján a honvéd tisztjelölt részére meghatározott feladatok végrehajtásáról részletes nyilvántartást vezet. A Hjt. 8. melléklet I. A honvéd tisztjelölt ösztöndíja cím IV. pontja szerinti katasztrófavédelmi pótlékra a honvéd tisztjelölt naponta jogosult, amely a katasztrófavédelmi feladat lezárultát követően kerül elszámolásra. Az elszámolás során minden megkezdett naptári nap teljes napnak minősül.
+
+(4)[^26] A 23. § szerinti díjazásra jogosult az a honvéd tisztjelölt, aki a HM képzési igényeihez kapcsolódóan vesz részt belföldi képzésben vagy hajt végre belföldi kiküldetést.
+
+[^26]: A 104. § (4) bekezdését a 7/2014. (IV. 18.) HM rendelet 6. §-a iktatta be.

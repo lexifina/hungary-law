@@ -4,4 +4,6 @@
 
 (2) A hivatásos és szerződéses állományú katonák (a továbbiakban együtt: állomány tagja) magasabb besorolási kategóriába kerülésekor a munkáltatói jogkör gyakorlója ismételten dönthet arról, hogy a beosztási illetmény magasabb összegben kerüljön-e megállapításra.
 
-(3) A beosztási illetmény eltérítést, valamint a beosztási illetménynek a Hjt. 147. § (1) bekezdés d) pontja szerinti alacsonyabb összegben való megállapítását és folyósítását az erre vonatkozó írásba foglalt munkáltatói döntésben elrendelt időponttól kell végrehajtani.
+(3)[^1]
+
+[^1]: A 2. § (3) bekezdését a 7/2014. (IV. 18.) HM rendelet 10. §-a hatályon kívül helyezte.

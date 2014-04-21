@@ -8,4 +8,6 @@ c) az a) és a b) pont alá nem tartozó egyéb – így különösen kapu-, tel
 
 (2) Az ügyeletes helyettesének az ügyeletessel azonos feltételek szerint és azonos összegben jár az ügyeleti pótlék.
 
-(3) Azon (1) bekezdés szerinti szolgálatok esetében, amelyeket a működtetésükre vonatkozó intézkedés alapján tartalmilag a készenléti szolgálatra jellemző körülmények között kell ellátni, ügyeleti pótlék helyett a 22. § szerinti készenléti pótlék jár.
+(3)[^9] Azon (1) bekezdés szerinti szolgálatok esetében, amelyeket a működtetésükre vonatkozó szolgálati intézkedés alapján tartalmilag a készenléti szolgálatra jellemző körülmények között kell ellátni, ügyeleti pótlék helyett a 22. § szerinti készenléti pótlék jár.
+
+[^9]: A 26. § (3) bekezdése a 7/2014. (IV. 18.) HM rendelet 9. § c) pontja szerint módosított szöveg.

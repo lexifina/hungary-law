@@ -1,4 +1,4 @@
-## A repülőműszakiak és az ejtőernyősök részére az osztályba-sorolási pótlék csökkenésének kompenzálásaként folyósítandó kiegészítő illetmény havi mértéke az illetményalap százalékában meghatározva
+## A földi kiszolgálók és az ejtőernyősök részére az osztályba-sorolási pótlék csökkenésének kompenzálásaként folyósítandó kiegészítő illetmény havi mértéke az illetményalap százalékában meghatározva
 
 |  | A | B | C | D | E |
 

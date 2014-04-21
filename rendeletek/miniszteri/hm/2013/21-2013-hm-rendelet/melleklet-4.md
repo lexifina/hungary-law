@@ -14,4 +14,6 @@
 
 | 6 | Nagy magasságból felszereléssel, vagy nagy magasságból felszerelés nélkül fegyverrel végrehajtott ugrásokért | 50 | 75 | 100 |
 
-4. melléklet a 21/2013. (IX. 17.) HM rendelethez
+4. melléklet a 21/2013. (IX. 17.) HM rendelethez[^30]
+
+[^30]: A 4. melléklet a 7/2014. (IV. 18.) HM rendelet 9. § r) pontja szerint módosított szöveg.

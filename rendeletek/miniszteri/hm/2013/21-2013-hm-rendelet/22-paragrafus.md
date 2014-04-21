@@ -1,11 +1,19 @@
-## 22. § A készenléti pótlék óránkénti mértéke
+22. §[^6] (1) Laktanyai készenléti szolgálat esetén a készenléti pótlék óránkénti mértéke az illetményalap 0,26%-a.
 
-a) laktanyai készenléti szolgálat esetén az illetményalap 0,12%-a,
+(2) A készenléti szolgálat jellegétől függetlenül az (1) bekezdés szerinti készenléti pótlékra jogosult
 
-b) olyan laktanyán kívüli készenléti szolgálat esetén, amely a laktanyába vagy a szolgálati feladat végrehajtásának helyére
+a) a készenléti szolgálatra kijelölt katonai ügyész, valamint a készenléti szolgálatot teljesítő nyomozótiszt,
 
-ba) a riasztástól számított legfeljebb 3 óra alatt történő beérkezési kötelezettség előírása mellett kerül elrendelésre, az illetményalap 0,08%-a,
+b) az állomány NATO Reagáló Erők, illetve az Európai Unió Harccsoportjának és az Európai Unió irányítása alatt végrehajtott balkáni katonai békefenntartó művelet kötelékébe felajánlott egység, alegység állományában belföldön készenléti szolgálatot teljesítő tagja,
 
-bb) a riasztástól számított 3 órát meghaladó, de legfeljebb 6 óra alatt történő beérkezési kötelezettség előírása mellett kerül elrendelésre, az illetményalap 0,06%-a,
+c) az állomány gépjármű-baleseti helyszínelő készenléti szolgálatot teljesítő tagja,
 
-bc) a riasztástól számított 6 órát meghaladó beérkezési kötelezettség előírása mellett kerül elrendelésre, az illetményalap 0,05%-a.
+d) az MH Egészségügyi Központban, valamint az MH Egészségügyi Központ parancsnoka által készenléti szolgálatra kijelölt helyőrségekben egészségügyi készenléti szolgálatot teljesítő katonaorvos, egészségügyi tiszt, altiszt, tisztes, közkatona, és
+
+e) az állománynak az a)–d) pontok alá nem tartozó, a miniszter által rendeletben vagy utasításban, a HVKF és a KNBSZ főigazgatója által parancsban vagy intézkedésben időlegesnek nem minősített készenléti szolgálatot teljesítő tagja.
+
+(3) Azon laktanyán kívüli készenléti szolgálatok esetén, amelyek a (2) bekezdésben nem szerepelnek, az állomány tagja készenléti pótlékra óránként az illetményalap 0,2%-ának megfelelő mértékben jogosult.
+
+(4) Az állomány Hjt. 105. § (3) bekezdés c) pontja szerinti készenléti szolgálatot belföldön teljesítő tagja részére járó készenléti pótlék mértékét az (1)–(3) bekezdésben és a 21. § (3) bekezdésében foglaltak megfelelő alkalmazásával kell megállapítani.
+
+[^6]: A 22. § a 7/2014. (IV. 18.) HM rendelet 3. §-ával megállapított szöveg.

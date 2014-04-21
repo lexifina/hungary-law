@@ -1,4 +1,4 @@
-## A repülőműszakiak és az ejtőernyősök osztályba-sorolási pótlékának havi mértéke az illetményalap százalékában meghatározva
+## A földi kiszolgálók és az ejtőernyősök osztályba-sorolási pótlékának havi mértéke az illetményalap százalékában meghatározva
 
 |  | A | B | C | D | E |
 
@@ -14,4 +14,6 @@
 
 | 6 | 4. | Az ejtőernyős altisztnek és legénységi állományúnak | 10,8 | 8,1 | 6,3 |
 
-5. melléklet a 21/2013. (IX. 17.) HM rendelethez
+5. melléklet a 21/2013. (IX. 17.) HM rendelethez[^31]
+
+[^31]: Az 5. melléklet a 7/2014. (IV. 18.) HM rendelet 8. §-ával megállapított szöveg.
