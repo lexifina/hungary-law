@@ -948,12 +948,10 @@ II. NEM ELLENŐRZÖTT LÉGTEREK
 
 | 472633N | 0184454E |
 
-| LHSA2 | 3500’ (1050 m) AMSL / 550’ (165 m) AMSL | (ICAO „G”) Csak műrepülés céljára. Munkanapokon 10.00 óra (LT) és 16.00 óra (LT) között vehető igénybe a Repüléstájékoztató Központ hozzájárulásával. |
-
-| 1,5 km sugarú kör a 472044N 0185851E középpont körül |
+| Kiliti „Skydive Balaton” Drop Zone 11,11 km (6 NM) sugarú kör a 465119N 0180551E középpont körül | FL155 (4750 m STD) / GND | (ICAO „G”) Közzétett üzemidő szerint. |
 
 | További szabályok: 1. Koordinált légtér igénylésére az LHSG1, LHSG2/V, LHSG3 légterek esetében Budaörs repülőtér, Farkashegy repülőtér, Hármashatár-hegy repülőtér üzemben tartója, az LHSG10 légtér esetében az Esztergomi repülőtér üzemben tartója, az LHSG2/S légtér esetében a Szabad Repülők Szövetsége és az LHSG20, LHSG20/A, LHSG21, LHSG22, LHSG23, LHSG24, LHSG25 légterek esetében a Dunakeszi repülőtér üzemben tartója jogosult. 2. A koordinációs feladatok az LHSG1, LHSG2/V, LHSG3 légterek esetében Budaörs repülőtér, Farkashegy repülőtér, Hármashatár-hegy repülőterek üzembentartójának valamelyike, vagy a körzeti repüléstájékoztató szolgálatot ellátó szervezet – a három repülőtérrel kötött megállapodás alapján –, az LHSG10 légtér esetében az Esztergom repülőtér üzemben tartója, az LHSG2/S légtér esetében a Szabad Repülők Szövetsége és az LHSG20, LHSG20/A, LHSG21, LHSG22, LHSG23, LHSG24, LHSG25 légterek esetében a Dunakeszi repülőtér üzemben tartója jogosult ellátni. |
 
 III. IDŐSZAKOSAN KORLÁTOZOTT LÉGTEREK (TRA)
 
-[^48]: A 2. melléklet a 37/2010. (V. 4.) KHEM rendelet 3. §-a, az 56/2011. (XI. 8.) NFM rendelet 10. § (1) bekezdés c)–e) pontja, a 15/2014. (IV. 3.) NFM rendelet 16. § (1) bekezdése szerint módosított szöveg.
+[^48]: A 2. melléklet a 37/2010. (V. 4.) KHEM rendelet 3. §-a, az 56/2011. (XI. 8.) NFM rendelet 10. § (1) bekezdés c)–e) pontja, a 15/2014. (IV. 3.) NFM rendelet 16. § (1)–(2) bekezdése szerint módosított szöveg.
