@@ -400,6 +400,8 @@
 
 2.11.5. króm(III)-szulfát
 
+2.11.6. krómmal dúsított élesztő (7)
+
 2.12. Molibdén
 
 2.12.1. ammónium-molibdát (molibdén (VI))
@@ -462,4 +464,6 @@
 
 3.6. (6) Gél formájában.
 
-[^19]: A 2. számú melléklet a 24/2010. (V. 7.) EüM rendelet 1. § (5) bekezdésével megállapított, a 15/2012. (III. 12.) NEFMI rendelet 4. §-a szerint módosított szöveg.
+3.7. (7) Krómmal dúsított élesztő, melyet króm(III)-klorid – mint krómforrás – jelenlétében, Saccharomyces cerevisiae tenyészetben állítanak elő, és amely szárított, forgalmazott formában 230–300 mg/kg krómot tartalmaz. A króm(VI)-tartalom nem haladhatja meg a teljes krómtartalom 0,2%-át.
+
+[^19]: A 2. számú melléklet a 24/2010. (V. 7.) EüM rendelet 1. § (5) bekezdésével megállapított, a 15/2012. (III. 12.) NEFMI rendelet 4. §-a, a 32/2014. (IV. 18.) EMMI rendelet 13. §-a szerint módosított szöveg.
