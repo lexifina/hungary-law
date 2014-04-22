@@ -1,5 +1,3 @@
-## jelöli ki.
-
 ## I. Fejezet
 
 ## AZ INGATLAN-NYILVÁNTARTÁSI ELJÁRÁS RÉSZLETES SZABÁLYAI

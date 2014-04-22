@@ -1,3 +1,3 @@
-## Az államhatár vonalában bekövetkezett változások ingatlan-nyilvántartási átvezetése[^42]
+## Az államhatár vonalában bekövetkezett változások ingatlan-nyilvántartási átvezetése[^43]
 
-[^42]: A 8/A. §-t megelőző alcímet a 312/2008. (XII. 22.) Korm. rendelet 4. §-a iktatta be.
+[^43]: A 8/A. §-t megelőző alcímet a 312/2008. (XII. 22.) Korm. rendelet 4. §-a iktatta be.

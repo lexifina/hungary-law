@@ -1,12 +1,12 @@
-## 8/A. §[^43] Az ingatlan-nyilvántartásban az államhatár vonalának helyzetében és a határvonal megjelölésében bekövetkezett változásokat az járási földhivatal az államhatárról szóló 2007. évi LXXXIX. törvény 1. §-ában említett, a határokmányt kihirdető törvény, illetve a kiegészítő határokmányt vagy a határjegyzőkönyvet jóváhagyó rendelet, továbbá a FÖMI által – a határokmánynak a külön jogszabályban meghatározott nyilvántartási példánya adattartalmával összhangban – elkészített változási vázrajz és az ahhoz tartozó egyéb munkarészek alapján vezeti át.
+## 8/A. §[^44] Az ingatlan-nyilvántartásban az államhatár vonalának helyzetében és a határvonal megjelölésében bekövetkezett változásokat az járási földhivatal az államhatárról szóló 2007. évi LXXXIX. törvény 1. §-ában említett, a határokmányt kihirdető törvény, illetve a kiegészítő határokmányt vagy a határjegyzőkönyvet jóváhagyó rendelet, továbbá a FÖMI által – a határokmánynak a külön jogszabályban meghatározott nyilvántartási példánya adattartalmával összhangban – elkészített változási vázrajz és az ahhoz tartozó egyéb munkarészek alapján vezeti át.
 
 ## JOGORVOSLATOK
 
 ## Fellebbezés
 
-9. § (1)[^44] A járási földhivatal döntése ellen a kézbesítéstől számított harminc napon belül lehet fellebbezni.
+9. § (1)[^45] A járási földhivatal döntése ellen a kézbesítéstől számított harminc napon belül lehet fellebbezni.
 
-(2)[^45] Az az érdekelt, akinek a járási földhivatali határozatot bármilyen okból nem kézbesítették, és a határozat kézbesítését a bejegyzéstől számított egy éven belül kérte, a kézbesítéstől számított tizenöt napon belül terjeszthet elő fellebbezést. E bekezdés alkalmazásában érdekeltnek a közigazgatási hatósági eljárás általános szabályairól szóló törvény szerinti ügyfél minősül.
+(2)[^46] Az az érdekelt, akinek a járási földhivatali határozatot bármilyen okból nem kézbesítették, és a határozat kézbesítését a bejegyzéstől számított egy éven belül kérte, a kézbesítéstől számított tizenöt napon belül terjeszthet elő fellebbezést. E bekezdés alkalmazásában érdekeltnek a közigazgatási hatósági eljárás általános szabályairól szóló törvény szerinti ügyfél minősül.
 
 (3) A fellebbezést a megyei földhivatal érdemi határozatának meghozataláig vissza lehet vonni.
 
@@ -16,6 +16,6 @@ a) a kérelmezőt, az eljárást megindító szervet, az adatváltozást bejelen
 
 b) ha nem azonos az eljárás megindítójával, azt akinek a javára valamely jogot, vagy akinek az ingatlanára vonatkozóan valamely tényt feljegyeznek vagy adatváltozást átvezetnek.
 
-[^43]: A 8/A. §-t a 312/2008. (XII. 22.) Korm. rendelet 4. §-a iktatta be, szövege a 296/2012. (X. 17.) Korm. rendelet 25. § (5) bekezdése szerint módosított szöveg.
-[^44]: A 9. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 513. § (3) bekezdésével megállapított, a 289/2010. (XII. 21.) Korm. rendelet 3. § (84) bekezdése, a 296/2012. (X. 17.) Korm. rendelet 25. § (2) bekezdése szerint módosított szöveg.
-[^45]: A 9. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 513. § (3) bekezdésével megállapított, a 289/2010. (XII. 21.) Korm. rendelet 3. § (84) bekezdése, a 296/2012. (X. 17.) Korm. rendelet 25. § (2) bekezdése szerint módosított szöveg.
+[^44]: A 8/A. §-t a 312/2008. (XII. 22.) Korm. rendelet 4. §-a iktatta be, szövege a 296/2012. (X. 17.) Korm. rendelet 25. § (5) bekezdése szerint módosított szöveg.
+[^45]: A 9. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 513. § (3) bekezdésével megállapított, a 289/2010. (XII. 21.) Korm. rendelet 3. § (84) bekezdése, a 296/2012. (X. 17.) Korm. rendelet 25. § (2) bekezdése szerint módosított szöveg.
+[^46]: A 9. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 513. § (3) bekezdésével megállapított, a 289/2010. (XII. 21.) Korm. rendelet 3. § (84) bekezdése, a 296/2012. (X. 17.) Korm. rendelet 25. § (2) bekezdése szerint módosított szöveg.

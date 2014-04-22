@@ -1,4 +1,4 @@
-19. §[^77] (1) A FÖMI hatósági jogkörében ellátja:
+19. §[^78] (1) A FÖMI hatósági jogkörében ellátja:
 
 a) az államhatár érintett földmérési jelei (határjelei) vonatkozásában a tulajdonosi jogokat a földmérési munkarészek nyilvántartását és változásvezetését, az államhatár adatbázisának üzemeltetését és az abból történő adatszolgáltatást;
 
@@ -16,7 +16,7 @@ g) a Földrajzinév-tár adatbázisának üzemeltetését, változásvezetését
 
 h) az archív analóg és digitális térképi adatbázisok üzemeltetését és az azokból történő adatszolgáltatást;
 
-i)[^78] a földmérő és földminősítő igazolványok kiállítását és az ahhoz kapcsolódó nyilvántartás vezetését;
+i)[^79] a földmérő és földminősítő igazolványok kiállítását és az ahhoz kapcsolódó nyilvántartás vezetését;
 
 j) a külön jogszabályban foglaltaknak megfelelően az Ingatlanrendező Földmérői Minősítés megadásával, visszavonásával és nyilvántartásával kapcsolatos feladatokat;
 
@@ -72,5 +72,5 @@ n) az állami földmérési és ingatlan-nyilvántartási térképi adatbázisok
 
 o) országos földügyi és távérzékelési levéltár fenntartását és működtetését;
 
-[^77]: A 19. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 185. pontja hatályon kívül helyezte, újonnan beiktatta a 404/2012. (XII. 28.) Korm. rendelet 6. §-a.
-[^78]: A 19. § (1) bekezdés i) pontja a 70/2013. (III. 8.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^78]: A 19. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 185. pontja hatályon kívül helyezte, újonnan beiktatta a 404/2012. (XII. 28.) Korm. rendelet 6. §-a.
+[^79]: A 19. § (1) bekezdés i) pontja a 70/2013. (III. 8.) Korm. rendelet 15. §-ával megállapított szöveg.
