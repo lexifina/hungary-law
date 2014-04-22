@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-1933-30
 | --- | --- | --- |
 | 2013-12-12 | 2013-1933-30-22.1 | 1933/2013. (XII. 12.) Korm. határozat |
 | 2013-12-13 | 2013-1933-30-22.2 | 2010: CXXX. törvény |
+| 2014-04-22 | 2013-1933-30-22.3 | 1260/2014. (IV. 22.) Korm. határozat |

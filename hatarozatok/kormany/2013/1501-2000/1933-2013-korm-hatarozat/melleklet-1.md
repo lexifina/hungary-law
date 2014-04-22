@@ -1,4 +1,4 @@
-## 1. megállapítja az 1. melléklet szerint a Környezet és Energia Operatív Program 2011–2013. évekre szóló akciótervét, az akcióterv 5. prioritásának KEOP-5.4.0 azonosító jelű pályázati konstrukcióján szükséges többletkötelezettség-vállalás jóváhagyásával,
+## 1.[^2]
 
 ## 2. megállapítja, hogy
 
@@ -14,8 +14,10 @@
 
 ## Határidő: azonnal
 
-## 5.[^1]
+## 5.[^3]
 
-1. melléklet az 1933/2013. (XII. 12.) Korm. határozathoz
+1. melléklet az 1933/2013. (XII. 12.) Korm. határozathoz[^4]
 
-[^1]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. pontot az 1260/2014. (IV. 22.) Korm. határozat 2. pont b) alpontja visszavonta.
+[^3]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 1. mellékletet az 1260/2014. (IV. 22.) Korm. határozat 2. pont b) alpontja visszavonta.
