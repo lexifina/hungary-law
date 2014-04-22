@@ -1,3 +1,0 @@
-## 1. § Az emberen végzett orvostudományi kutatásokról szóló 23/2002. (V. 9.) EüM rendelet (a továbbiakban: R1.) 20/R. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-## „(5) A díj az igazgatási szolgáltatást nyújtó engedélyező hatóság bevétele. A (3) bekezdés a) pontjában foglalt díj 46%-a a GYEMSZI, 54%-a az ETT TUKEB bevétele. A (3) bekezdés b) pontjában foglalt engedélyezésért és a vizsgálati terv lényeges módosítása engedélyezéséért befizetett díj 80%-a az ETT TUKEB, 20%-a az Egészségügyi Engedélyezési és Közigazgatási Hivatal (a továbbiakban: EEKH) bevétele. A (3) bekezdés a) pontjában említett módosítás díja az eljáró engedélyező hatóságok között egyenlő arányban oszlik meg.”
