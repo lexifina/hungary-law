@@ -1,0 +1,7 @@
+## között a súlyozott – a tárgyévet megelőző évi üzemi szintű – fajlagos ráfordításaik figyelembevételével.
+
+4. § (1) A támogatás összege a települési önkormányzat által a helyi közlekedés működtetésének – folyamatos üzemeltetésének és eszközfenntartási ráfordításainak – finanszírozására fordított támogatásával együttesen nem haladhatja meg a vasúti és közúti személyszállítási közszolgáltatásról, valamint az 1191/69/EGK és az 1107/70/EGK tanácsi rendelet hatályon kívül helyezéséről szóló 2007. október 23-i 1370/2007/EK európai parlamenti és tanácsi rendeletben meghatározott elvek szerint számított, a bevételekkel nem fedezett indokolt költségek és az ágazatban szokásos ésszerű nyereség együttes összegét.
+
+(2) Az (1) bekezdéstől eltérően az olyan települési önkormányzat esetében, amely a szolgáltatót az Sztv. 23. § (3)–(8) bekezdése szerinti pályázati eljárásban választotta ki, a közszolgáltatási kötelezettségek teljesítéséért járó ellentételezés – a települési önkormányzat által a helyi közlekedés működtetésének, folyamatos üzemeltetésének és eszközfenntartási ráfordításainak finanszírozására fordított támogatásával nem fedezett – mértékéig nyújtható támogatás azzal, hogy az nem eredményezheti a szolgáltató túlfinanszírozását.
+
+(3) A támogatás összegét az (1) és (2) bekezdés alapján időarányosan kell megállapítani, ha a helyi közlekedést a tárgyévet megelőző év során hozták létre és annak működtetését a települési önkormányzat a tárgyévben is fenntartja.

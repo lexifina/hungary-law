@@ -1,0 +1,3 @@
+7. § (1) A támogatásról a miniszter 2014. augusztus 15-éig dönt.
+
+(2) A miniszter a támogatási döntést a támogatást igénylővel írásban, a kincstárral elektronikus úton közli, valamint írásban és elektronikus úton megküldi a helyi önkormányzatokért felelős miniszter részére, feltüntetve az önkormányzat nevét, KSH számát és a támogatás összegét. A miniszter az általa vezetett minisztérium honlapján és a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben települési önkormányzatonként, ha a támogatásra a települési önkormányzat több gazdálkodó szervezetre tekintettel jogosult, szolgáltatónként közzéteszi a támogatások összegét.
