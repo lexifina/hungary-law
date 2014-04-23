@@ -1,1 +1,0 @@
-A Kormány a kulturális javak védelméről és a muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény (a továbbiakban: törvény) 100. §-a (1) bekezdésének e) pontjában kapott felhatalmazás alapján a következőket rendeli el:
