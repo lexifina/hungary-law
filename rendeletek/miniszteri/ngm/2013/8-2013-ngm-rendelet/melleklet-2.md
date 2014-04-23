@@ -32,7 +32,51 @@
 
 |  | 15. | 14. | Villanyszerelő |
 
-2. melléklet a 8/2013. (III. 6.) NGM rendelethez
+|  | 16. | 15. | Bőrdíszműves |
+
+|  | 17. | 16. | Cipőkészítő |
+
+|  | 18. | 17. | Cukrász |
+
+|  | 19. | 18. | Elektromos gép- és készülékszerelő |
+
+|  | 20. | 19. | Elektronikai műszerész |
+
+|  | 21. | 20. | Épület- és szerkezetlakatos |
+
+|  | 22. | 21. | Férfiszabó |
+
+|  | 23. | 22. | Festő, díszítő, mázoló és tapétázó |
+
+|  | 24. | 23. | Gépi forgácsoló |
+
+|  | 25. | 24. | Hegesztő |
+
+|  | 26. | 25. | Hűtő-, klíma- és hőszivattyú berendezés szerelő |
+
+|  | 27. | 26. | Ipari gépész |
+
+|  | 28. | 27. | Kályhás |
+
+|  | 29. | 28. | Kárpitos |
+
+|  | 30. | 29. | Kőfaragó, műköves és épületszobrász |
+
+|  | 31. | 30. | Látszerész és fotócikk kereskedő |
+
+|  | 32. | 31. | Női szabó |
+
+|  | 33. | 32. | Ortopédiai cipész |
+
+|  | 34. | 33. | Pincér |
+
+|  | 35. | 34. | Szerszámkészítő |
+
+|  | 36. | 35. | Vendéglátásszervező-vendéglős |
+
+|  | 37. | 36. | Vízvezeték- és vízkészülék-szerelő |
+
+2. melléklet a 8/2013. (III. 6.) NGM rendelethez[^3]
 
 1. ÁCS, ÁLLVÁNYOZÓ
 
@@ -8846,84 +8890,4 @@ A szint megjelölésével a szakmai készségek:
 
 Személyes kompetenciák:
 
-Empátia
-
-Pozitív elvárások attitűdje
-
-Pozitív jövőkép kialakításának képessége
-
-Példamutatás a szakmai rutin területén
-
-Példamutatás a célorientált munkavégzés területén
-
-Példamutatás a szakmai problémamegoldás területén
-
-Példamutatás a minőségi munkavégzés területén
-
-Példamutatás a szakmai és együttműködési önfejlődés területén
-
-Társas kompetenciák:
-
-Kommunikációs nyitottság
-
-Együttműködési képesség
-
-Módszerkompetenciák:
-
-Történeti áttekintő képesség
-
-Módszertani strukturálás képessége
-
-A szakmai gyakorlat pedagógiai megtervezésének képessége
-
-Az élményközpontú gyakorlati képzés megvalósításának képessége
-
-A pedagógiai eszközök tudatos használatának képessége a tanulóképzésben
-
-A célorientált munkavégzés elsajátítatásának képessége
-
-A hatékonyság és erőforrás-takarékosság elsajátíttatásának képessége
-
-A munkavégzési önállóság elsajátíttatásának képessége
-
-A szakmai problémamegoldás elsajátíttatásának képessége
-
-A minőségi munkavégzés elsajátíttatásának képessége
-
-A szakmai és együttműködési önfejlődés elsajátíttatásának képessége
-
-A nevelés és személyes példamutatás képessége
-
-A szakmai követelménymodul azonosítója és megnevezése:
-
-002-11 Vállalkozási ismeretek
-
-A szakmai követelménymodul tartalma:
-
-Feladatprofil:
-
-Jogi ismeretek:
-
-Tisztában van az alapvető jogi fogalmakkal és a jogrendszer felépítésével, amely alapján képes elvégezni az alábbi feladatokat:
-
-- Elvállalja a vállalkozások alapításával kapcsolatos általános feladatokat
-
-- Intézi a működési engedélyek beszerzését
-
-- Jogi tanácsadást igényel, konkrét igényt fogalmaz meg
-
-- Ellátja a vállalkozások megszűnésével kapcsolatos általános feladatokat
-
-- Munkajogi szerződéseket készít (jogi felügyelettel), ellenőriz
-
-- Vállalkozói szerződéseket készít (jogi felügyelettel), ellenőriz
-
-- Figyelemmel kíséri a jogszabályi változásokat
-
-Marketing ismeretek:
-
-Tisztában van a vállalkozások piaci környezetével és ezek hatásaival. Ennek alapján az alábbi feladatokat képes elvégezni:
-
-- Üzleti tervet készít
-
-- Elvégzi a saját iparágának bemutatását és elemzését
+[^3]: A 2. melléklet a 17/2014. (IV. 8.) NGM rendelet 1. § (2) bekezdése szerint módosított szöveg.
