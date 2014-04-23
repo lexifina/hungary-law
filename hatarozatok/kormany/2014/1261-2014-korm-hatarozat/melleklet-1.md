@@ -42,7 +42,7 @@
 
 ## Határidő: 2014. május 15.
 
-## 9. visszavonja a KÖZOP-5.5.0-09-11-2012-0009 azonosító számú („Budapesti villamos és trolibusz járműfejlesztés I. ütem” című) nagyprojekt 2015. december 31. után felmerülő költsége fedezetének biztosításáról szóló 2034/2013. (XII. 29.) Korm. határozatot.
+## 9.[^2]
 
 1. melléklet az 1261/2014. (IV. 22.) Korm. határozathoz
 
@@ -53,3 +53,5 @@
 | 2. | KÖZOP (EU+hazai) (nettó Ft) | XIX. Fejezet KÖZOP hazai társfinan- szírozás (ÁFA) (Ft) | Fogadó operatív program forrása (KA) (nettó Ft) | Hazai költség- vetési forrás (ÁFA) (Ft) | KÖZOP KA (EU+hazai) forrás (nettó Ft) | XIX. Fejezet KÖZOP hazai társfinanszí- rozás (ÁFA) (Ft) | Fogadó operatív program forrása (KA) (nettó Ft) | Hazai költség- vetési forrás (ÁFA) (Ft) |
 
 | 3. | KÖZOP- 5.5.0-09- 11-2012- 0009 | Budapesti villamos és trolibusz jármű- fejlesztés I. ütem | BKK Budapesti Közlekedési Központ Zártkörűen Működő Részvény- társaság | 99,33% | 33 439 343 598 | 0 | 9 272 556 402 | 0 | 31 928 115 000 | 0 | 14 310 000 000 | 0 | A projekt célja 37 + 10 darab alacsonypadlós villamos (12 hosszú, 25 + 10 rövid), 24 darab alacsonypadlós trolibusz (10 csuklós, 14 szóló) beszerzése, kapcsolódó kocsiszíni munkák kivitelezése, és akadálymentesítési feladatok elvégzése az érintett vonalszakaszokon. |
+
+[^2]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
