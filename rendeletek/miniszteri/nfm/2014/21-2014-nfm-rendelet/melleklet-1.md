@@ -1,4 +1,4 @@
-## 11. § Hatályát veszti a települési önkormányzatok helyi közösségi közlekedésének támogatásáról szóló 25/2012. (V. 9.) NFM rendelet.
+## 11. §[^1]
 
 1. melléklet a 21/2014. (IV. 18.) NFM rendelethez
 
@@ -93,3 +93,5 @@ Tájékoztató adatok:
 (11) Egyéb megjegyzés 1: a tárgyévet megelőző évben indított helyi közlekedés esetében a járatindítás pontos dátuma.
 
 (12) Egyéb megjegyzés 2: több települést kiszolgáló társaság esetében a megyei jogú városok kivételével a települések megnevezése.
+
+[^1]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
