@@ -4,4 +4,6 @@
 
 (3) A Minősített Könyvtár cím és a Könyvtári Minőségi Díj adományozásáról szóló miniszteri rendelet alapján kidolgozott könyvtári önértékelés szakmai szempontjainak nem teljesítése miatt a könyvtár a jegyzékről csak 2016. január 1. napjától törölhető.
 
-(4) Hatályát veszti a nyilvános könyvtárak jegyzékének vezetéséről szóló 64/1999. (IV. 28.) Korm. rendelet.
+(4)[^2]
+
+[^2]: A 6. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
