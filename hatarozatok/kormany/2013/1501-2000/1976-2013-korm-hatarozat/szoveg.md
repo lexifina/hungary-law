@@ -32,11 +32,7 @@ Felelős: nemzeti fejlesztési miniszter
 
 Határidő: azonnal
 
-5. A Kormány felhívja a nemzetgazdasági minisztert, hogy az 1091/2008. (XII. 30.) Korm. határozat alapján fennálló állami kezesség jelen határozat 1. pontjában foglalt módosításához a szükséges hozzájárulást az MFB Zrt. részére adja ki.
-
-Felelős: nemzetgazdasági miniszter
-
-Határidő: azonnal
+5.[^1]
 
 6. A Kormány felhívja a nemzeti fejlesztési minisztert, hogy az 1. és 2. pontban foglaltak végrehajtásához szükséges tulajdonosi határozatokat adja ki az MFB Zrt. részére.
 
@@ -46,6 +42,7 @@ Határidő: azonnal
 
 7. Ez a határozat a közzétételét követő napon lép hatályba.
 
-8.[^1]
+8.[^2]
 
-[^1]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 5. pontot az 1275/2014. (IV. 24.) Korm. határozat 1. pontja hatályon kívül helyezte.
+[^2]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
