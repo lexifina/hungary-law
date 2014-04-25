@@ -1,4 +1,4 @@
-40. § (1)[^19] Az elévülési határidő elteltét követően a 7. §-ban megjelölt, letétként kezelt tárgyak végleges elhelyezéséről az ÖH intézkedik.
+40. § (1)[^19] Az elévülési határidő elteltét követően a 7. §-ban megjelölt, letétként kezelt tárgyak végleges elhelyezéséről az Iroda intézkedik.
 
 (2)[^20] Az (1) bekezdés alá nem eső tárgyak közül:
 
@@ -14,5 +14,5 @@ bc) egyéb tárgyakat a tárgyak forgalomba hozatalával, feldolgozásával, ill
 
 (3) A bíróság irattárában elhelyezett okirat nem selejtezhető.
 
-[^19]: A 40. § (1) bekezdése a 21/2014. (III. 13.) KIM rendelet 13. § (8) bekezdés c) pontja szerint módosított szöveg.
+[^19]: A 40. § (1) bekezdése a 28/2014. (IV. 24.) KIM rendelet 3. § (4) bekezdés c) pontja szerint módosított szöveg.
 [^20]: A 40. § (2) bekezdése a 21/2014. (III. 13.) KIM rendelet 13. § (6) bekezdésével megállapított szöveg.
