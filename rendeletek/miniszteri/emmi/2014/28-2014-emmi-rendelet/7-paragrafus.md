@@ -1,0 +1,3 @@
+7. § (1) Az ETT KFEB ellátja az emberi felhasználásra kerülő vizsgálati készítmények klinikai vizsgálatáról és a helyes klinikai gyakorlat alkalmazásáról szóló jogszabály szerint meghatározott kutatások szakmai-etikai véleményezését.
+
+(2) A vizsgálati készítményekkel folytatott klinikai vizsgálatok szakmai-etikai véleményezése során a jogszabályban meghatározott esetekben az ETT KFEB minimum 5 fős, az egészségügyről szóló 1997. évi CLIV. törvény 159. § (6) bekezdésének megfelelő – az ETT KFEB elnöke által az ETT KFEB tagjaiból kijelölt – testületben hoz döntést. A vélemény kialakításához e testület tagjai kétharmadának szavazata szükséges.
