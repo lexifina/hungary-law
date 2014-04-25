@@ -1,4 +1,4 @@
-15. §[^17] (1) Az 1–14. §-ban foglaltakat alkalmazni kell
+15. §[^19] (1) Az 1–14. §-ban foglaltakat alkalmazni kell
 
 a) a pedagógiai-szakmai szolgáltatást nyújtó intézményben pedagógiai szakértő, pedagógiai előadó, valamint
 
@@ -14,4 +14,4 @@ b) a szociális-képzést folytató felsőoktatási intézményben folytatott ok
 
 c) a miniszter igazolása alapján közszolgálati jogviszony keretében a gyermek- és ifjúságvédelem országos irányításával összefüggő munkakörben
 
-[^17]: A 15. § a 99/2014. (III. 25.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^19]: A 15. § a 99/2014. (III. 25.) Korm. rendelet 7. §-ával megállapított szöveg.
