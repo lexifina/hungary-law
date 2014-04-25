@@ -1,10 +1,14 @@
+## 23/A. § A Törvény vonatkozó szabályainak alkalmazása során cselekvőképességet érintő gondnokság alatt álló személynek kell tekinteni a cselekvőképtelen és a korlátozottan cselekvőképes kiskorút is.
+
 ## 7. Záró rendelkezések
 
 24. § (1) Ez a rendelet 2011. január 1-jén lép hatályba.
 
+(1a)[^6] E rendeletnek a közigazgatási és igazságügyi miniszter ágazatába tartozó szakképesítések szakmai és vizsgakövetelményeiről, valamint egyes igazságügyi tárgyú rendeletek módosításáról szóló 28/2014. (IV. 24.) KIM rendelettel (a továbbiakban: Módr.) megállapított 23/A. §-át a Módr. hatálybalépésekor[^7] folyamatban lévő eljárásokban is alkalmazni kell.
+
 (2) Hatályát veszti a hagyatéki eljárásról szóló 6/1958. (VII. 4.) IM rendelet.
 
-Melléklet a 29/2010. (XII. 31.) KIM rendelethez[^5]
+Melléklet a 29/2010. (XII. 31.) KIM rendelethez[^8]
 
 A hagyatéki leltár nyomtatványának adattartalma
 
@@ -146,4 +150,6 @@ A hagyatéki leltár nyomtatványának adattartalma
 
 11. A leltár mellékleteinek felsorolása
 
-[^5]: A melléklet az 50/2012. (XII. 4.) KIM rendelet 29. §-a szerint módosított szöveg.
+[^6]: A 24. § (1a) bekezdését a 28/2014. (IV. 24.) KIM rendelet 3. § (2) bekezdése iktatta be.
+[^7]: A hatálybalépés időpontja 2014. április 25.
+[^8]: A melléklet az 50/2012. (XII. 4.) KIM rendelet 29. §-a szerint módosított szöveg.
