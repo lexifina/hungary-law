@@ -32,4 +32,6 @@
 
 | Azonos tényállású jogsértés miatt a megelőző három évben történő bírság kiszabása esetén a cselekmény súlyától függően: | 1,5–3 |
 
-3. számú melléklet a 194/2008. (VII. 31.) Korm. rendelethez
+3. számú melléklet a 194/2008. (VII. 31.) Korm. rendelethez[^14]
+
+[^14]: A 3. számú melléklet a 98/2014. (III. 25.) Korm. rendelet 7. § (6) bekezdésével megállapított szöveg.
