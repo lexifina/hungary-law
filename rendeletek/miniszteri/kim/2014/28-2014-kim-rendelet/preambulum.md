@@ -1,0 +1,11 @@
+A szakképzésről szóló 2011. évi CLXXXVII. törvény 90. § a) pontjában kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 12. § d) bekezdésében megállapított feladatkörömben eljárva – az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 73. § n) pontjában meghatározott feladatkörében eljáró nemzetgazdasági miniszterrel egyetértésben –,
+
+a 3. § (1) és (2) bekezdés tekintetében a közjegyzőkről szóló 1991. évi XLI. törvény 183. § d) pontjában kapott felhatalmazás alapján, az egyes miniszterek, valamint Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 12. § a) pontjában megállapított feladatkörömben eljárva,
+
+a 3. § (3) bekezdés tekintetében a bírósági végrehajtásról szóló 1994. évi LIII. törvény 307. § (2) bekezdés p) pontjában kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 12. § a) pontjában megállapított feladatkörömben eljárva,
+
+a 3. § (4) bekezdés tekintetében a polgári perrendtartásról szóló 1952. évi III. törvény 395. § (4) bekezdés c) pontjában, a büntetőeljárásról szóló 1998. évi XIX. törvény 604. § (2) bekezdés i) pontjában és a Polgári Törvénykönyvről szóló 2013. évi V. törvény hatálybalépésével összefüggő átmeneti és felhatalmazó rendelkezésekről szóló 2013. évi CLXXVII. törvény 66. § (3) bekezdés a) pontjában kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 12. § a) pontjában megállapított feladatkörömben eljárva és
+
+a 3. § (5) bekezdés tekintetében az egyes közjegyzői nemperes eljárásokról szóló 2008. évi XLV. törvény 38. § h) pontjában kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 12. § a) pontjában megállapított feladatkörömben eljárva
+
+a következőket rendelem el.
