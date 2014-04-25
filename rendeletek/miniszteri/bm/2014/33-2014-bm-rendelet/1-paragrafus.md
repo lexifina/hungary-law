@@ -1,0 +1,25 @@
+## 1. Általános rendelkezések
+
+## 1. § E rendelet alkalmazásában:
+
+1. alkalmazásba vételi eljárás: az Országgyűlési Őrségnél már rendszeresített kényszerítő eszköznek a már rendszeresítettől csak kismértékben eltérő típusváltozatának alkalmazásba vételét megelőző eljárás,
+
+2. alkalmazhatóság: a kényszerítő eszköznek az Országgyűlési Őrség által történő felhasználásra való megfelelősége,
+
+3. beszerzési eljárás: a védelem terén alapvető biztonsági érdeket érintő, kifejezetten katonai, rendvédelmi, rendészeti célokra szánt áruk beszerzésére, illetőleg szolgáltatások megrendelésére vonatkozó sajátos szabályokról szóló kormányrendelet szerinti beszerzési eljárás vagy a minősített adatot, az ország alapvető biztonsági, nemzetbiztonsági érdekeit érintő vagy a különleges biztonsági intézkedést igénylő beszerzések sajátos szabályairól szóló kormányrendelet szerinti beszerzési eljárás,
+
+4. EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam,
+
+5. kényszerítő eszköz: az 1. mellékletben felsorolt kényszerítő eszköz és azok rendeltetésszerű használatához szükséges anyagok,
+
+6. minősítő, összehasonlító és ellenőrző vizsgálat: a próbahasználat elvégzése mellett a kényszerítő eszköz alaprendeltetéséhez, hatásmechanizmusához mért élet-, egészség-, baleset-, munka-, tűz- és környezetvédelmi megfelelőség, valamint az alkalmazhatóság, ezen belül a korábban rendszeresített kényszerítő eszközökkel, valamint a hozzájuk szükséges egyéb felszerelésekkel való együtthasználhatóság megállapítását szolgáló eljárások,
+
+7. próbahasználat: az alkalmazhatóság megállapításának azon módszere, amely során a rendszerbe vételre tervezett kényszerítő eszköz mintapéldányait – a szolgálati feladatok végrehajtását utánzó körülmények között – az ellátásra tervezett állomány kipróbálja,
+
+8. rendszerből történő kivonás: a kényszerítő eszköznek az Országgyűlési Őrség rendszerében történő használatának befejezése és a rendszerből való törlése, a tárgyi eszközgazdálkodás utolsó fázisa,
+
+9. rendszerbe vétel: az Országgyűlési Őrség feladatainak ellátásához szükséges kényszerítő eszköz felvétele az Országgyűlési Őrség rendszerébe,
+
+10. rendszerbe vételi eljárás: az Országgyűlési Őrség által alkalmazható kényszerítő eszköz rendszerbe vételét megelőző eljárás,
+
+11. társszervek: a rendőrség, a büntetés-végrehajtási szervezet, a nemzetbiztonsági szolgálatok, a Magyar Honvédség, a Nemzeti Adó- és Vámhivatal, valamint az Európai Unió tagállamának olyan hatósága, amely nemzeti joga alapján bűncselekmények felderítésére és megelőzésére jogosult.
