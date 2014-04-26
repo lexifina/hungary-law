@@ -1,1 +1,0 @@
-## „(3) A (2) bekezdés szerint díjköteles minősítő vizsga, minősítési eljárás esetén a pedagógus díjfizetési kötelezettségét a 10. § (7) bekezdése szerinti értesítést követő tizenöt napon belül a (2) bekezdés szerint teljesíti. A díjfizetés elmulasztása esetén a jelentkezés érvénytelen, és a kormányhivatal törli a jelentkezést a minősítési tervből.”
