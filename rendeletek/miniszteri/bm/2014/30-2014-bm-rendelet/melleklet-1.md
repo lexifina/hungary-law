@@ -1,4 +1,4 @@
-## 4. § Hatályát veszti a minimális építőipari rezsióradíj 2013. évi mértékéről, valamint a régészeti lelőhely és a műemléki érték védetté nyilvánításáról, nyilvántartásáról és a régészeti feltárás részletes szabályairól szóló 80/2012. (XII. 28.) BM rendelet módosításáról szóló 28/2013. (VI. 27.) BM rendelet.
+## 4. §[^2]
 
 1. melléklet a 30/2014. (IV. 10.) BM rendelethez
 
@@ -63,3 +63,5 @@ A minimális építőipari rezsióradíj költségnemei és értékek
 | 28. | Elvárt eredmény értéke (22+24+26. sor összesen x 0,02) | 48 |
 
 | 29. | 22–24–26–28. Mindösszesen | 2422 |
+
+[^2]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
