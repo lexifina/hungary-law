@@ -1,5 +1,6 @@
-17. § (1) Hatályát veszti az Egészségügyi Tudományos Tanácsról szóló 34/2003. (VI. 7.) ESZCSM rendelet.
+17. § (1)[^1]
 
-(2)[^1]
+(2)[^2]
 
-[^1]: A 17. § (2) bekezdése a 15. § (2) bekezdése alapján 2014. november 1-jén lép hatályba.
+[^1]: A 17. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 17. § (2) bekezdése a 15. § (2) bekezdése alapján 2014. november 1-jén lép hatályba.
