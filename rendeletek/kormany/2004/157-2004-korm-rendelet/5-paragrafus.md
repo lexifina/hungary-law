@@ -34,6 +34,8 @@ b) a sportszervező és a sportvezető, -szervező (menedzser) képesítések a 
 
 (8)[^10] A melléklet 4. pontjának a 17/2011. (II. 24.) Korm. rendelet 1. §-ával megállapított rendelkezéseit a hatálybalépésekor folyamatban lévő, állam által el nem ismert szakképesítés eredményeként szerzett edzői tevékenység végzésére jogosító képesítésekre is alkalmazni kell.
 
+(9)[^11] A melléklet 6. pontjának az egyes sport tárgyú kormányrendeletek módosításáról szóló 137/2014. (IV. 24.) Korm. rendelettel (a továbbiakban: módosító rendelet) megállapított rendelkezéseit a módosító rendelet hatálybalépésekor[^12] folyamatban lévő, állam által el nem ismert szakképesítés eredményeként szerzett edzői tevékenység végzésére jogosító képesítések alapján végzett tevékenységre is alkalmazni kell.
+
 [^3]: A 5. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 683. pontja hatályon kívül helyezte.
 [^4]: Az 5. § (3) bekezdése a 171/2005. (IX. 1.) Korm. rendelet 6. §-ának (2) bekezdésével megállapított szöveg.
 [^5]: Az 5. § (3) bekezdésének c) pontját a 256/2009. (XI. 20.) Korm. rendelet 3. §-a iktatta be.
@@ -42,3 +44,5 @@ b) a sportszervező és a sportvezető, -szervező (menedzser) képesítések a 
 [^8]: A 5. § (6) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 683. pontja hatályon kívül helyezte, újonnan a 256/2009. (XI. 20.) Korm. rendelet 4. §-a iktatta be. A sportszövetség az 5. § (6) bekezdésében meghatározott kötelezettségének – ez utóbbi módosító rendelet 6. § (3) bekezdése alapján – első alkalommal 2009. december 15-ig köteles eleget tenni.
 [^9]: A 5. § (7) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 683. pontja hatályon kívül helyezte, újonnan a 256/2009. (XI. 20.) Korm. rendelet 4. §-a iktatta be.
 [^10]: Az 5. § (8) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 683. pontja hatályon kívül helyezte, újonnan a 17/2011. (II. 24.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^11]: Az 5. § (9) bekezdését a 137/2014. (IV. 24.) Korm. rendelet 2. §-a iktatta be.
+[^12]: A hatálybalépés időpontja 2014. április 27.

@@ -1,4 +1,4 @@
-1. számú melléklet a 157/2004. (V. 18.) Korm. rendelethez[^11]
+1. számú melléklet a 157/2004. (V. 18.) Korm. rendelethez[^13]
 
 JEGYZÉK az állam által elismert, a sport területén képesítéshez kötött tevékenységekről
 
@@ -26,7 +26,7 @@ f = felsőfokú szakképzettség
 
 | 5. Sportszervezeteknél mozgásterápiás, sportrehabilitációs szolgáltatások irányítása | preventív mozgásterapeuta (t), humánkineziológus (f), okleveles humánkineziológus (f), okleveles gyógytestnevelő tanár (f), gyógytornász (f) |
 
-| 6. Sportszövetségnél (a nemzeti válogatottaknál) vezetőedzői, szövetségi kapitányi feladatok ellátása, illetve a vezetőedző segítése | szakedző (f), okleveles szakedző (f), illetve az adott sportágban szerezhető legmagasabb szintű állami sportszakmai képesítés; testnevelő-edző (f), táncpedagógus (f) |
+| 6. Sportszövetségnél (a nemzeti válogatottaknál) vezetőedzői, szövetségi kapitányi feladatok ellátása, illetve a vezetőedző segítése | nemzetközi sportszövetség által akkreditált edzőképzésben szerzett legmagasabb szintű végzettség (a sportág megjelölésével) (a), szakedző (f), okleveles szakedző (f), illetve az adott sportágban szerezhető legmagasabb szintű állami sportszakmai képesítés; testnevelő-edző (f), táncpedagógus (f) |
 
 | 7. Sportszövetség, valamint a nemzeti sportszövetségek hivatali munkáját irányító (főtitkár vagy azzal azonos feladatokat ellátó) személy* | sportszervező, -menedzser (k), testnevelő tanár (f), okleveles testnevelő tanár (f), sportszervező (f), rekreáció-menedzser (f), sportmenedzser (f), okleveles sportmenedzser (f) |
 
@@ -60,4 +60,4 @@ Megjegyzés:
 
 A *-gal ellátott tevékenységeknél szakképesítésként elfogadható a szakiránynak megfelelő egyéb szakképesítés vagy magasabb szintű szakirányú szakmai végzettség, valamint a 289/2005. (XII. 22.) Korm. rendelet szerinti jogi és igazgatási területen szerzett, valamint a közgazdasági felsőfokú végzettség.
 
-[^11]: Az 1. számú melléklet a 256/2009. (XI. 20.) Korm. rendelet 6. § (2) bekezdésével megállapított, a 17/2011. (II. 24.) Korm. rendelet 1. §-a, a 46/2014. (II. 26.) Korm. rendelet 8. §-a szerint módosított szöveg.
+[^13]: Az 1. számú melléklet a 256/2009. (XI. 20.) Korm. rendelet 6. § (2) bekezdésével megállapított, a 17/2011. (II. 24.) Korm. rendelet 1. §-a, a 46/2014. (II. 26.) Korm. rendelet 8. §-a, a 137/2014. (IV. 24.) Korm. rendelet 3. §-a szerint módosított szöveg.
