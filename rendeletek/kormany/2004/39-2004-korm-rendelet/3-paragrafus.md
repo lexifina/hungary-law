@@ -1,6 +1,6 @@
 3. § (1) A sportfegyelmi bizottság eljárásában és döntéshozatalában elnökként, tagként nem vehet részt, illetve jegyzőkönyvvezetőként nem működhet közre:
 
-a)[^1] az eljárás alá vont versenyző, sportszakember Polgári Törvénykönyvben meghatározott hozzátartozója;
+a)[^2] az eljárás alá vont versenyző, sportszakember Polgári Törvénykönyvben meghatározott hozzátartozója;
 
 b) akit az eljárás során tanúként vagy szakértőként hallgattak meg;
 
@@ -14,4 +14,4 @@ e) a másodfokú eljárásban, aki az első fokú eljárásban a sportfegyelmi b
 
 (3) Az összeférhetetlenségi eljárásra vonatkozó részletes előírásokat a sportszövetség sportfegyelmi szabályzata állapítja meg.
 
-[^1]: A 3. § (1) bekezdés a) pontja a 46/2014. (II. 26.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^2]: A 3. § (1) bekezdés a) pontja a 46/2014. (II. 26.) Korm. rendelet 6. §-ával megállapított szöveg.
