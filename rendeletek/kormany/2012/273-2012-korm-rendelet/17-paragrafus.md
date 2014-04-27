@@ -52,7 +52,7 @@ v) az önértékelést, az éves működés értékelését.
 
 (4) Az ellenőrzési tervet két féléves ütemezéssel az NKE készíti el és a KTK hagyja jóvá.
 
-(5)[^16] A helyszíni ellenőrzés kizárólag a minősített továbbképzési programokra terjed ki. A helyszíni ellenőrzést az NKE végzi el a 17. § (2) bekezdés q) pontja alapján.
+(5)[^17] A helyszíni ellenőrzés kizárólag a minősített továbbképzési programokra terjed ki. A helyszíni ellenőrzést az NKE végzi el a 17. § (2) bekezdés q) pontja alapján.
 
 (6) Amennyiben a minőségügyi helyszíni ellenőrzés során minőségügyi auditor megállapítja, hogy a továbbképzési program eltér a minősített továbbképzési program által meghatározott követelményrendszertől, a képzésmódszertani és minőségirányítási eljárásoktól, akkor a helyszíni ellenőrzés nem megfelelőséget állapít meg.
 
@@ -62,4 +62,4 @@ v) az önértékelést, az éves működés értékelését.
 
 (9) Az éves helyszíni minőségügyi ellenőrzések összefoglaló jelentését az NKE az éves helyszíni ellenőrzés befejezését követő harmincadik napig készíti el és a KTK-nak ellenőrzésre megküldi. A KTK az összefoglaló értékelő jelentést a miniszternek megküldi jóváhagyásra.
 
-[^16]: A 17. § (5) bekezdése a 298/2013. (VII. 29.) Korm. rendelet 2. § (4) bekezdésével megállapított szöveg.
+[^17]: A 17. § (5) bekezdése a 298/2013. (VII. 29.) Korm. rendelet 2. § (4) bekezdésével megállapított szöveg.

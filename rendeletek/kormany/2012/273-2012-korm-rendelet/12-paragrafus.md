@@ -2,7 +2,7 @@
 
 12. § (1) A kormánytisztviselő, köztisztviselő számára előírt továbbképzési kötelezettségek teljesítéséhez szükséges pénzügyi forrást legalább az előírt tanulmányi kötelezettségek teljesítését biztosító mértékben a közigazgatási szerv biztosítja.
 
-(2) A közszolgálati továbbképzés, a vezetőképzés, valamint a közigazgatási szakvizsgák költségeit a közigazgatási szerv az NKE-nek a foglalkoztatotti létszám alapján továbbképzési hozzájárulásként fizeti (normatív hozzájárulás). A normatív hozzájárulás alapja az illetményalap 73%-a, amelyet a közigazgatási szervnél minden év január 31-ig tárgyév január 1-jén foglalkoztatott kormánytisztviselők, köztisztviselők létszámának alapulvételével kell megfizetni az NKE részére. Az NKE igazolást állít ki a továbbképzési hozzájárulás megfizetéséről.
+(2)[^10] A közszolgálati továbbképzés, a vezetőképzés, valamint a közigazgatási szakvizsgák költségeit a közigazgatási szerv az NKE-nek a foglalkoztatotti létszám alapján továbbképzési hozzájárulásként (a továbbiakban: normatív hozzájárulás) fizeti. A normatív hozzájárulás alapja az illetményalap 73%-a, amelyet a közigazgatási szerv két egyenlő részletben minden év január 31-éig, illetve június 30-áig a közigazgatási szervnél tárgyév január 1-jén foglalkoztatott kormánytisztviselők, köztisztviselők létszámának alapulvételével fizet meg az NKE részére. Az NKE a közigazgatási szerv részére igazolást állít ki a továbbképzési hozzájárulás megfizetéséről.
 
 (3) Ha a közigazgatási szerv a normatív hozzájárulást megfizeti, azonban a kormánytisztviselői, köztisztviselői nem vesznek részt a továbbképzésben, az NKE utólag nem számol el a fel nem használt normatív hozzájárulás összegével, a keletkezett többletet az NKE a továbbképzési rendszer működtetésére használja fel.
 
@@ -15,3 +15,5 @@
 (7) Az NKE által készített beszámoló tartalmazza a továbbképzésekre és vizsgákra felhasznált forrásokat.
 
 (8) A szakmai továbbképzési igényeket a közigazgatási szerv a programjegyzékre felvett továbbképzésekkel, felsőoktatási vagy az akkreditált felnőttképzési intézményektől megrendelés útján vagy belső továbbképzéssel teljesíti.
+
+[^10]: A 12. § (2) bekezdése a 137/2014. (IV. 24.) Korm. rendelet 5. §-ával megállapított szöveg.
