@@ -1,3 +1,0 @@
-## 2. § A sport területén képesítéshez kötött tevékenységek gyakorlásához szükséges képesítések jegyzékéről szóló 157/2004. (V. 18.) Korm. rendelet (a továbbiakban: R2.) 5. §-a a következő (9) bekezdéssel egészül ki:
-
-## „(9) A melléklet 6. pontjának az egyes sport tárgyú kormányrendeletek módosításáról szóló 137/2014. (IV. 24.) Korm. rendelettel (a továbbiakban: módosító rendelet) megállapított rendelkezéseit a módosító rendelet hatálybalépésekor folyamatban lévő, állam által el nem ismert szakképesítés eredményeként szerzett edzői tevékenység végzésére jogosító képesítések alapján végzett tevékenységre is alkalmazni kell.”
