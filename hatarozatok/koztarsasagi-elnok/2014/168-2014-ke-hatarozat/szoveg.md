@@ -1,0 +1,3 @@
+Az Alaptörvény 9. cikk (4) bekezdés e) pontja, valamint a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény 4. § (3) bekezdése alapján – a belügyminiszter javaslatára – Szabó Jenő rendőr dandártábornokot 2014. április 24-ei hatállyal rendőr vezérőrnaggyá előléptetem.
+
+KEH ügyszám: IV-6/02209-1/2014.
