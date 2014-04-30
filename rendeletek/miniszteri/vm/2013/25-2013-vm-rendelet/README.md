@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-25-20-2
 | 2013-04-24 | 2013-25-20-2Y.1 | 25/2013. (IV. 16.) VM rendelet |
 | 2013-04-25 | 2013-25-20-2Y.2 | 2010: CXXX. törvény |
 | 2014-01-01 | 2013-25-20-2Y.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2014-04-30 | 2013-25-20-2Y.4 | 54/2014. (IV. 29.) VM rendelet |
