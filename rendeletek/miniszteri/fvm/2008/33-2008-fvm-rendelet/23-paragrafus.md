@@ -1,5 +1,6 @@
-## 22/E. §[^98] E rendelet alapján a 2013. évtől kezdődően támogatási kérelem nem nyújtható be.
+## 22/F. §[^99] Az egyes agrártárgyú miniszteri rendeletek módosításáról szóló 53/2014. (IV. 29.) VM rendelettel [a továbbiakban: 53/2014. (IV. 29.) VM rendelet] megállapított 21. § (4) bekezdését az 53/2014. (IV. 29.) VM rendelet hatálybalépésekor[^100] folyamatban lévő ügyekben is alkalmazni kell.
 
 ## Az Európai Unió jogának való megfelelés
 
-[^98]: A 22/E. §-t a 17/2013. (III. 18.) VM rendelet 2. § (1) bekezdése iktatta be.
+[^99]: A 22/F. §-t az 53/2014. (IV. 29.) VM rendelet 4. § (2) bekezdése iktatta be.
+[^100]: A hatálybalépés időpontja 2014. április 30.
