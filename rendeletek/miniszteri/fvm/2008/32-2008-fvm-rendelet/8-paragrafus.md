@@ -1,8 +1,8 @@
 ## Kifizetési kérelem, a támogatás folyósítása
 
-8. § (1)[^30]
+8. § (1)[^31]
 
-(2)[^31] A kifizetési kérelmet
+(2)[^32] A kifizetési kérelmet
 
 a) a támogatási kérelem szerinti tevékenység megvalósítását követően, legkésőbb a támogatási kérelem benyújtását követő két naptári év valamelyikében, vagy
 
@@ -18,8 +18,8 @@ b) az erdőrészletenként a kérelmezett területek határvonalai külső tör�
 
 (4) A támogatás a kifizetési kérelem alapján akkor fizethető ki, ha a támogatottnak nincsen erdővédelmi vagy erdőgazdálkodói bírság miatt fennálló köztartozása, vagy e rendelet alapján jogosulatlanul igénybe vett támogatás miatti visszafizetési kötelezettsége.
 
-(5)[^32]
+(5)[^33]
 
-[^30]: A 8. § (1) bekezdését a 36/2009. (IV. 3.) FVM rendelet 21. §-ának d) pontja hatályon kívül helyezte.
-[^31]: A 8. § (2) bekezdése a 44/2012. (V. 3.) VM rendelet 5. §-ával megállapított szöveg.
-[^32]: A 8. § (5) bekezdését a 87/2011. (IX. 2.) VM rendelet 11. § c) pontja hatályon kívül helyezte.
+[^31]: A 8. § (1) bekezdését a 36/2009. (IV. 3.) FVM rendelet 21. §-ának d) pontja hatályon kívül helyezte.
+[^32]: A 8. § (2) bekezdése a 44/2012. (V. 3.) VM rendelet 5. §-ával megállapított szöveg.
+[^33]: A 8. § (5) bekezdését a 87/2011. (IX. 2.) VM rendelet 11. § c) pontja hatályon kívül helyezte.
