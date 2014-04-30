@@ -80,17 +80,17 @@ l) amely alapján a biztosító a tényleges veszteséget meghaladó kártérít
 
 (4) Az (1) bekezdés h) pontjában hivatkozott hozamcsökkenést a biztosító saját helyszíni ellenőrzése és nyilvántartása alapján, biztosítói termésadatok hiányában a mezőgazdasági termelő által átadott adatok, tények felhasználásával vagy más, a mezőgazdasági biztosítási szerződésben rögzített módon kell megállapítani.
 
-(5) A támogatási kérelmet el kell utasítani, amennyiben ugyanarra a növénykultúrára több biztosítóval kötött mezőgazdasági biztosítási szerződés alapján igényelnek támogatást.
+(5)[^12] Egyazon területen ugyanarra a növénykultúrára kizárólag egy mezőgazdasági biztosítási szerződés díjához nyújtható támogatás. Amennyiben a mezőgazdasági termelő egyazon területen ugyanarra a növénykultúrára több biztosítóval kötött díjtámogatott mezőgazdasági biztosítási szerződés alapján igényel támogatást, úgy támogatás kizárólag a legkorábban megkötött biztosítási szerződés szerinti díj után nyújtható.
 
 (6) Az (1) bekezdés szerinti mezőgazdasági biztosítási szerződés díjához csak abban a naptári évben igényelhető támogatás, amely naptári év termelésére a szerződés vonatkozik.
 
-(7)[^12] Amennyiben a mezőgazdasági termelő nem rendelkezik az (1) bekezdés a) pont aj) alpontjában meghatározott adatokkal, úgy a megelőző ötéves időszak legmagasabb és legalacsonyabb értékeinek kizárásával képzett hároméves, a biztosítási szerződéssel lefedett terület szerint illetékes megyei kormányhivatal földművelésügyi igazgatóságánál elérhető, az adott növénykultúrára és az adott évekre vonatkozó megyei vagy országos átlagtermés-adatokat kell figyelembe venni.
+(7)[^13] Amennyiben a mezőgazdasági termelő nem rendelkezik az (1) bekezdés a) pont aj) alpontjában meghatározott adatokkal, úgy a megelőző ötéves időszak legmagasabb és legalacsonyabb értékeinek kizárásával képzett hároméves, a biztosítási szerződéssel lefedett terület szerint illetékes megyei kormányhivatal földművelésügyi igazgatóságánál elérhető, az adott növénykultúrára és az adott évekre vonatkozó megyei vagy országos átlagtermés-adatokat kell figyelembe venni.
 
-(8)[^13] Támogatás csak a díjelőírás teljes összegének megfizetése esetén nyújtható, díjhátralékos szerződés esetén támogatás nem adható.
+(8)[^14] Támogatás csak a biztosított mezőgazdasági termelőre vonatkozó, a 4–6. §-ban meghatározott biztosítási szerződés szerinti díjelőírás teljes összegének megfizetése esetén nyújtható.
 
-(9)[^14] A mezőgazdasági biztosítási szerződés módosítása esetén a biztosító a módosított tartalmú kötvényt és a módosítást alátámasztó adatokat – ideértve a módosítással érintett biztosított növénykultúrára, a hozamra, a területre, a blokkazonosítókra, és A, B és C típusonként összesítve a biztosítottankénti díjelőírásra vonatkozó adatokat – legkésőbb a 7. § (2) bekezdésben meghatározott határidőig megküldi az MVH részére.
+(9)[^15] A mezőgazdasági biztosítási szerződés módosítása esetén a biztosító a módosított tartalmú kötvényt és a módosítást alátámasztó adatokat – ideértve a módosítással érintett biztosított növénykultúrára, a hozamra, a területre, a blokkazonosítókra, és A, B és C típusonként összesítve a biztosítottankénti díjelőírásra vonatkozó adatokat – legkésőbb a 7. § (2) bekezdésben meghatározott határidőig megküldi az MVH részére.
 
-(10)[^15] Támogatást igényelhet az a mezőgazdasági termelő is, valamint a támogatás annak a mezőgazdasági termelőnek is kifizetésre kerülhet aki, vagy amely felszámolási, végelszámolási, adósságrendezési eljárás alatt áll, feltéve, hogy a rendeletben meghatározott egyéb feltételeknek megfelel.
+(10)[^16] Támogatást igényelhet az a mezőgazdasági termelő is, valamint a támogatás annak a mezőgazdasági termelőnek is kifizetésre kerülhet aki, vagy amely felszámolási, végelszámolási, adósságrendezési eljárás alatt áll, feltéve, hogy a rendeletben meghatározott egyéb feltételeknek megfelel.
 
 [^1]: A 3. § (1) bekezdés a) pont ae) alpontja a 125/2012. (XII. 10.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^2]: A 3. § (1) bekezdés a) pont af) alpontja a 125/2012. (XII. 10.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
@@ -103,7 +103,8 @@ l) amely alapján a biztosító a tényleges veszteséget meghaladó kártérít
 [^9]: A 3. § (1) bekezdés h) pontja a 97/2013. (X. 22.) VM rendelet 12. § (2) bekezdésével megállapított szöveg.
 [^10]: A 3. § (1) bekezdés i) pont ib) alpontja a 21/2012. (III. 9.) VM rendelet 17. § (3) bekezdésével megállapított, a 125/2012. (XII. 10.) VM rendelet 8. § a) pontja szerint módosított szöveg. [A 70/2013. (VII. 31.) VM rendelet 137. §-ával elrendelt módosítás, amely szerint a „Mezőgazdasági Szakigazgatási Hivatal” szövegrész helyébe a „Nemzeti Élelmiszerlánc-biztonsági Hivatal” szöveg lép, nem vezethető át.]
 [^11]: A 3. § (3) bekezdése a 125/2012. (XII. 10.) VM rendelet 8. § b) pontja szerint módosított szöveg.
-[^12]: A 3. § (7) bekezdése a 97/2013. (X. 22.) VM rendelet 12. § (3) bekezdésével megállapított szöveg.
-[^13]: A 3. § (8) bekezdését a 125/2012. (XII. 10.) VM rendelet 1. § (4) bekezdése iktatta be.
-[^14]: A 3. § (9) bekezdését a 125/2012. (XII. 10.) VM rendelet 1. § (4) bekezdése iktatta be.
-[^15]: A 3. § (10) bekezdését a 97/2013. (X. 22.) VM rendelet 12. § (4) bekezdése iktatta be.
+[^12]: A 3. § (5) bekezdése az 53/2014. (IV. 29.) VM rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^13]: A 3. § (7) bekezdése a 97/2013. (X. 22.) VM rendelet 12. § (3) bekezdésével megállapított szöveg.
+[^14]: A 3. § (8) bekezdését a 125/2012. (XII. 10.) VM rendelet 1. § (4) bekezdése iktatta be, szövege az 53/2014. (IV. 29.) VM rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^15]: A 3. § (9) bekezdését a 125/2012. (XII. 10.) VM rendelet 1. § (4) bekezdése iktatta be.
+[^16]: A 3. § (10) bekezdését a 97/2013. (X. 22.) VM rendelet 12. § (4) bekezdése iktatta be.

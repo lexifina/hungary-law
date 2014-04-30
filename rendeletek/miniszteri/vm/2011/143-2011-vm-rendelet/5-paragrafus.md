@@ -1,6 +1,6 @@
 ## A „B” típusú mezőgazdasági biztosítás díjának támogatása
 
-5. § (1)[^18] A „B” típusú mezőgazdasági biztosítás keretében az alábbi növényi kultúrákra köthető mezőgazdasági biztosítási szerződés:
+5. § (1)[^19] A „B” típusú mezőgazdasági biztosítás keretében az alábbi növényi kultúrákra köthető mezőgazdasági biztosítási szerződés:
 
 1. kukorica (GAB06),
 
@@ -172,4 +172,4 @@ d) tűzkár.
 
 (3) A biztosító a mezőgazdasági biztosítási szerződésben rögzített kárnemek által okozott biztosítási események bekövetkeztét és az (1) bekezdésben felsorolt valamely érintett növényi kultúra károsodását a káraktával igazolja.
 
-[^18]: Az 5. § (1) bekezdése a 125/2012. (XII. 10.) VM rendelet 3. §-ával megállapított szöveg.
+[^19]: Az 5. § (1) bekezdése a 125/2012. (XII. 10.) VM rendelet 3. §-ával megállapított szöveg.
