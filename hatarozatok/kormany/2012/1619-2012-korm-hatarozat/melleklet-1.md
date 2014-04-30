@@ -8,7 +8,7 @@
 
 ## belügyminiszter
 
-## Határidő: 2014. március 31.[^1]
+## Határidő: 2014. december 31.[^2]
 
 1. melléklet az 1619/2012. (XII. 18.) Korm. határozathoz
 
@@ -90,4 +90,4 @@ Készítette, illetve felvilágosítást nyújt:
 
 | Nemzetgazdasági Minisztérium | 2 példány |  |  |  |  |  |  |  |  |
 
-[^1]: A határozat az 1530/2013. (VIII. 12.) Korm. határozat 7. pontja szerint módosított szöveg.
+[^2]: A határozat az 1282/2014. (IV. 30.) Korm. határozat 2. pontja szerint módosított szöveg.
