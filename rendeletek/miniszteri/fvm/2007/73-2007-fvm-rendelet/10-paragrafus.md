@@ -22,6 +22,6 @@ j) a teljesített szaktanácsadási szolgáltatás minden eseményét naplóban 
 
 k) a nyújtott szaktanács lényegi elemeit írásban is átadja a szolgáltatást igénybe vevő mezőgazdasági termelőnek vagy erdőgazdálkodónak.
 
-(2)[^5] A TSzK a szaktanácsadási szolgáltatásról vezetett naplót, valamint a szaktanácsok írásba foglalt dokumentumait legalább 5 évig köteles megőrizni és a NAKVI ellenőreinek kérésére bemutatni.
+(2)[^7] A TSzK a szaktanácsadási szolgáltatásról vezetett naplót, valamint a szaktanácsok írásba foglalt dokumentumait legalább 5 évig köteles megőrizni és a NAKVI ellenőreinek kérésére bemutatni.
 
-[^5]: A 10. § (2) bekezdése a 106/2012. (X. 11.) VM rendelet 6. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^7]: A 10. § (2) bekezdése a 106/2012. (X. 11.) VM rendelet 6. § (1) bekezdés b) pontja szerint módosított szöveg.

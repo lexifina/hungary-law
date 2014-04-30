@@ -16,6 +16,6 @@ e) az Országos Szaktanácsadási Bizottság
 
 ## látják el.
 
-(2)[^1] A mezőgazdasági szaktanácsadási rendszer irányításával kapcsolatos feladatokat a vidékfejlesztési miniszter mint irányító hatóság látja el.
+(2)[^2] A mezőgazdasági szaktanácsadási rendszer irányításával kapcsolatos feladatokat a vidékfejlesztési miniszter mint irányító hatóság látja el.
 
-[^1]: A 3. § (2) bekezdése a 106/2012. (X. 11.) VM rendelet 6. § (3) bekezdés a) pontja szerint módosított szöveg.
+[^2]: A 3. § (2) bekezdése a 106/2012. (X. 11.) VM rendelet 6. § (3) bekezdés a) pontja szerint módosított szöveg.

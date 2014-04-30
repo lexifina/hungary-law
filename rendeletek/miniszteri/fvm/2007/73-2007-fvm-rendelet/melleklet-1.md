@@ -1,3 +1,3 @@
-1. számú melléklet a 73/2007. (VII. 27.) FVM rendelethez[^8]
+1. számú melléklet a 73/2007. (VII. 27.) FVM rendelethez[^10]
 
-[^8]: Az 1. számú melléklet a 106/2012. (X. 11.) VM rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^10]: Az 1. számú melléklet a 106/2012. (X. 11.) VM rendelet 6. § (2) bekezdésével megállapított szöveg.

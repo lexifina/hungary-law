@@ -16,7 +16,7 @@
 
 | 23.7 | Helyes Mezőgazdasági és Környezeti Állapot |
 
-3. számú melléklet a 73/2007. (VII. 27.) FVM rendelethez[^9]
+3. számú melléklet a 73/2007. (VII. 27.) FVM rendelethez[^11]
 
 Területi szaktanácsadási központként való elismerésre irányuló kérelem
 
@@ -156,4 +156,4 @@ Kelt:
 
 | szaktanácsadó aláírása | TSzK képviselőjének aláírása |
 
-[^9]: A 3. számú melléklet a 106/2012. (X. 11.) VM rendelet 6. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^11]: A 3. számú melléklet a 106/2012. (X. 11.) VM rendelet 6. § (1) bekezdés d) pontja szerint módosított szöveg.

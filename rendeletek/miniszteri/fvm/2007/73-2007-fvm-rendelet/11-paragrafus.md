@@ -2,7 +2,7 @@
 
 11. § (1) A szakmai szaktanácsadási központ az agrár kutatóhelyeken, fejlesztő és szolgáltató helyeken, valamint egyetemi továbbképzési helyeken létrehozott – az ország egész területén szolgáltató – szervezet, amely a saját szakterületén belül a speciális problémák megoldásához nyújt segítséget a TSzK-k és a szaktanácsadók számára.
 
-(2)[^6] A szakmai szaktanácsadási központok jegyzékét az irányító hatóság a Vidékfejlesztési Értesítőben teszi közzé.
+(2)[^8] A szakmai szaktanácsadási központok jegyzékét az irányító hatóság a Vidékfejlesztési Értesítőben teszi közzé.
 
 (3) A (2) bekezdés szerinti szervezetek a tanácsadási tevékenységük keretében megbízás, illetve megrendelés esetén:
 
@@ -20,4 +20,4 @@ e) szaktanácsadási munkájukról éves beszámoló jelentést készítenek az 
 
 (5) Azt a szakmai szaktanácsadási központot, amely esetében az ellenőrzés során bebizonyosodik, hogy nem teljesíti a (3) bekezdésben előírt feladatait, illetve a kérelmében vállaltakat, az irányító hatóság törli a nyilvántartásból.
 
-[^6]: A 11. § (2) bekezdése a 106/2012. (X. 11.) VM rendelet 6. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^8]: A 11. § (2) bekezdése a 106/2012. (X. 11.) VM rendelet 6. § (3) bekezdés b) pontja szerint módosított szöveg.
