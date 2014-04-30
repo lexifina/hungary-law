@@ -1,0 +1,3 @@
+## 6. § A Rendelet 16. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+## „(3) A bizottsági rendelet 5. cikk (1) bekezdés b) pont (ii), (iii) és (iv) alpontjában meghatározottakra figyelemmel a kísérőintézkedések, a figyelemmel kísérési és értékelési, valamint kommunikációs feladatok ellátására a bizottsági rendelet 5. cikk (2) bekezdésében meghatározott, valamint az ahhoz kapcsolódóan a bizottsági rendelet II. melléklete szerinti társfinanszírozás legkisebb arányának megfelelő, a Magyarország központi költségvetésében rendelkezésre álló összeg a 12. § szerinti forrásból levonásra kerül a 13. § szerinti visszaosztási eljárást megelőzően.”

@@ -1,0 +1,1 @@
+## „(4) Ha az MVH az ellenőrzése során megállapítja, hogy a fenntartó nem tett eleget a 4. § (5) és (6) bekezdése szerinti kötelezettségeinek, akkor az érintett köznevelési intézményben kiosztott támogatott termékek e rendelet alapján kiszámított ellenértékének 20%-a a fenntartónál jogosulatlanul igénybe vett támogatásnak minősül.”

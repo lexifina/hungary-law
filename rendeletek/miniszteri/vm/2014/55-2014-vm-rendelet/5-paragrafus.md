@@ -1,0 +1,3 @@
+## 4. § A Rendelet 14. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) A támogatási összeg kifizetése iránti – a 8. melléklet szerinti adattartalmú – kérelmet (a továbbiakban: kifizetési kérelem) az MVH által rendszeresített és az MVH honlapján közzétett nyomtatványon az adott szállítási időszakban kiszállított termékre vonatkozóan időszakonként egy alkalommal, az adott időszak végét követő harmadik hónap utolsó napjáig az MVH-hoz postai úton kell benyújtani. Egy kérelmező időszakonként és termékenként legfeljebb a 7. § (5) bekezdése szerint a részére jóváhagyott összes mennyiségre vehet igénybe támogatást.”
