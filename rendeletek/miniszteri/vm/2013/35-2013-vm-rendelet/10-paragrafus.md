@@ -34,7 +34,7 @@ e) a dátumozott fotókat, amelyek a képzés helyszínét, résztvevőit és a 
 
 (6) Képzés esetén az elszámolható kiadás legmagasabb összege nettó 25 000 Ft/résztvevő/nap. Egy napnak nyolc képzési óra tekintendő, ennél rövidebb időtartam esetén időarányos összeg alkalmazandó. Egy képzési óra hossza legalább 45 perc.
 
-(7)[^5] A települési önkormányzat, települési nemzetiségi önkormányzat, önálló jogi személyiséggel rendelkező önkormányzati társulás, nonprofit szervezet, egyházi jogi személy ügyfél a résztvevőktől részvételi díjat vagy egyéb, képzéshez kapcsolódó térítési díjat nem szedhet.
+(7)[^6] A települési önkormányzat, települési nemzetiségi önkormányzat, önálló jogi személyiséggel rendelkező önkormányzati társulás, nonprofit szervezet, egyházi jogi személy ügyfél a résztvevőktől részvételi díjat vagy egyéb, képzéshez kapcsolódó térítési díjat nem szedhet.
 
 (8) Mikro-, kis- és középvállalkozás, valamint a természetes személy ügyfél esetében az elszámolható kiadás csökken a beszedett részvételi díj összegével.
 
@@ -50,4 +50,4 @@ c) a képzés díját és
 
 d) a képzési órák számát.
 
-[^5]: A 10. § (7) bekezdése a 121/2013. (XII. 16.) VM rendelet 31. § (4) bekezdése szerint módosított szöveg.
+[^6]: A 10. § (7) bekezdése a 121/2013. (XII. 16.) VM rendelet 31. § (4) bekezdése szerint módosított szöveg.

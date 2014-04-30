@@ -2,7 +2,7 @@
 
 a) a települési önkormányzat, települési nemzetiségi önkormányzat, illetve önálló jogi személyiséggel rendelkező önkormányzati társulás ügyfél esetén az érintett önkormányzat képviselő-testületének vagy társulási tanácsának a támogatási kérelemben szereplő cél megvalósításáról szóló határozatának kivonatát;
 
-b)[^9] bevett egyház és annak nyilvántartásba vett belső egyházi jogi személye esetén a nyilvántartásba vételéről szóló igazolást, nyilvántartásba nem vett belső egyházi jogi személy esetén a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény 16. § (2) bekezdése szerinti igazolást;
+b)[^10] bevett egyház és annak nyilvántartásba vett belső egyházi jogi személye esetén a nyilvántartásba vételéről szóló igazolást, nyilvántartásba nem vett belső egyházi jogi személy esetén a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény 16. § (2) bekezdése szerinti igazolást;
 
 c) vállalkozási célú fejlesztés esetén az 1998/2006/EK bizottsági rendelet hatálya alá tartozó szervezetek esetében az ügyfél által
 
@@ -14,7 +14,7 @@ cb) az előző két pénzügyi évben
 
 d) természetes személy ügyfél esetében a lakcímet igazoló hatósági igazolvány egyszerű másolatát;
 
-e)[^10]
+e)[^11]
 
 f) legalább két, hasonló műszaki tartalommal rendelkező árajánlatot, amennyiben a referenciaár a 4. § (4) bekezdésében foglaltak alapján nem állapítható meg, valamint az ezek közül elfogadni kívánt árajánlat választásának indoklását.
 
@@ -34,10 +34,10 @@ bb) az ügyfél nevére szóló – a tervezői névjegyzékben szereplő tervez
 
 c) a tervezett fejlesztés településen belüli elhelyezkedését bemutató térképrészlet;
 
-d)[^11] a Vhr. 27. § (1) bekezdés b) pontja szerinti okiratot.
+d)[^12] a Vhr. 27. § (1) bekezdés b) pontja szerinti okiratot.
 
 (3) Az e rendelet alapján benyújtandó támogatási kérelem kapcsán a Vhr. 27. § (1) bekezdés h)–i) pontját nem kell alkalmazni.
 
-[^9]: A 14. § (1) bekezdés b) pontja a 121/2013. (XII. 16.) VM rendelet 31. § (1) bekezdésével megállapított szöveg.
-[^10]: A 14. § (1) bekezdés e) pontját a 65/2013. (VII. 29.) VM rendelet 33. §-a hatályon kívül helyezte.
-[^11]: A 14. § (2) bekezdés d) pontját a 65/2013. (VII. 29.) VM rendelet 31. §-a iktatta be.
+[^10]: A 14. § (1) bekezdés b) pontja a 121/2013. (XII. 16.) VM rendelet 31. § (1) bekezdésével megállapított szöveg.
+[^11]: A 14. § (1) bekezdés e) pontját a 65/2013. (VII. 29.) VM rendelet 33. §-a hatályon kívül helyezte.
+[^12]: A 14. § (2) bekezdés d) pontját a 65/2013. (VII. 29.) VM rendelet 31. §-a iktatta be.

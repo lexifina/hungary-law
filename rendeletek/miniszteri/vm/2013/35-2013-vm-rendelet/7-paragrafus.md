@@ -6,10 +6,10 @@ a) települési önkormányzat, települési nemzetiségi önkormányzat, önál
 
 b) nonprofit szervezet, valamint
 
-c)[^4] egyházi jogi személy.
+c)[^5] egyházi jogi személy.
 
 (2) A támogatás mértéke az összes elszámolható kiadás 100%-a.
 
 (3) A Vhr. 23. § (1) bekezdés c) pontjától eltérően az üzemeltetési kötelezettség időtartama alatt a beruházás vagy fejlesztés tárgya – a fenntarthatóságának biztosítása érdekében – az üzemeltetési kötelezettség fenntartása mellett bérbe adható.
 
-[^4]: A 7. § (1) bekezdés c) pontja a 121/2013. (XII. 16.) VM rendelet 31. § (4) bekezdésével megállapított szöveg.
+[^5]: A 7. § (1) bekezdés c) pontja a 121/2013. (XII. 16.) VM rendelet 31. § (4) bekezdésével megállapított szöveg.

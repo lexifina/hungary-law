@@ -1,6 +1,6 @@
 ## 6. A pályázat benyújtása és a meghatalmazással kapcsolatos szabályok
 
-13. § (1)[^8] A pályázatot az egyes mezőgazdasági és agár-vidékfejlesztési támogatások igénybevétele esetén az elektronikus kérelembenyújtás alkalmazásáról szóló kormányrendeletben meghatározottak szerint, az elektronikus űrlapkitöltő szolgáltatás segítségével előállított elektronikus űrlapon, ügyfélkapun keresztül kell benyújtani az MVH-hoz 2013. június 17-én 08:00 órától forráskimerülésig, de legkésőbb 2013. szeptember 30-án 18:00 óráig. A pályázathoz csatolandó dokumentumokat elektronikus úton, szkennelés útján előállított, olvasható formában kell csatolni a kérelemhez.
+13. § (1)[^9] A pályázatot az egyes mezőgazdasági és agár-vidékfejlesztési támogatások igénybevétele esetén az elektronikus kérelembenyújtás alkalmazásáról szóló kormányrendeletben meghatározottak szerint, az elektronikus űrlapkitöltő szolgáltatás segítségével előállított elektronikus űrlapon, ügyfélkapun keresztül kell benyújtani az MVH-hoz 2013. június 17-én 08:00 órától forráskimerülésig, de legkésőbb 2013. szeptember 30-án 18:00 óráig. A pályázathoz csatolandó dokumentumokat elektronikus úton, szkennelés útján előállított, olvasható formában kell csatolni a kérelemhez.
 
 (2) Az ügyfél a pályázat benyújtására szolgáló elektronikus felületre történő első belépést követő ötödik nap végéig nyújthatja be pályázatát. Ha az ügyfél ezen időkorlátot túllépi, a megkezdett pályázat tovább nem szerkeszthető és nem nyújtható be. Újabb belépést követően a pályázat – az újabb belépést követő ötödik nap végéig – benyújtható.
 
@@ -24,4 +24,4 @@
 
 (12) A HBB a záradékolási jogkörét a LEADER HACS munkaszervezetére delegálhatja.
 
-[^8]: A 13. § (1) bekezdése a 75/2013. (IX. 6.) VM rendelet 7. § (1) bekezdése szerint módosított szöveg.
+[^9]: A 13. § (1) bekezdése a 75/2013. (IX. 6.) VM rendelet 7. § (1) bekezdése szerint módosított szöveg.

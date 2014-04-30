@@ -1,6 +1,6 @@
-## 25. §[^21] E rendeletnek az egyes állatjóléti támogatások feltételeiről szóló miniszteri rendeletek, valamint az Európai Mezőgazdasági Vidékfejlesztési Alapból a Helyi Vidékfejlesztési Stratégiák LEADER fejezetének végrehajtásához 2013-ban nyújtandó támogatások részletes feltételeiről szóló 35/2013. (V. 22.) VM rendelet módosításáról szóló 75/2013. (IX. 6.) VM rendelettel [a továbbiakban: 75/2013. (IX. 6.) VM rendelet] módosított 13. § (1) bekezdését a 75/2013. (IX. 6.) VM rendelet hatálybalépésekor[^22] folyamatban lévő ügyekben is alkalmazni kell.
+## 26. §[^24] Az egyes agrártárgyú miniszteri rendeletek módosításáról szóló 53/2014. (IV. 29.) VM rendelettel [a továbbiakban: 53/2014. (IV. 29.) VM rendelet] megállapított 5. § (7) bekezdését az 53/2014. (IV. 29.) VM rendelet hatálybalépésekor[^25] folyamatban lévő ügyekben is alkalmazni kell.
 
 1. melléklet a 35/2013. (V. 22.) VM rendelethez
 
-[^21]: A 25. §-t a 75/2013. (IX. 6.) VM rendelet 7. § (2) bekezdése iktatta be.
-[^22]: A hatálybalépés időpontja 2013. szeptember 7.
+[^24]: A 26. §-t az 53/2014. (IV. 29.) VM rendelet 16. § (2) bekezdése iktatta be.
+[^25]: A hatálybalépés időpontja 2014. április 30.
