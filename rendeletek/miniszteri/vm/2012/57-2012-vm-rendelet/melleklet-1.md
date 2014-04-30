@@ -1,4 +1,4 @@
-## 11. § Ez a rendelet az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtandó vidékfejlesztési támogatásról szóló, 2005. szeptember 20-i 1698/2005/EK tanácsi rendelet 22. cikkének a végrehajtásához szükséges rendelkezéseket állapít meg.
+## 12. §[^2] Az egyes agrártárgyú miniszteri rendeletek módosításáról szóló 53/2014. (IV. 29.) VM rendelettel [a továbbiakban: 53/2014. (IV. 29.) VM rendelet] megállapított 1. § 2. pontját az 53/2014. (IV. 29.) VM rendelet hatálybalépésekor[^3] folyamatban lévő ügyekben is alkalmazni kell.
 
 1. melléklet az 57/2012. (VI. 21.) VM rendelethez
 
@@ -705,3 +705,6 @@
 | 5. | 1702 | Dísznövénykertész | Érettségi-képesítő bizonyítvány alapján: | Technikus |
 
 | Szakmunkás bizonyítvány alapján: | Szakmunkás |
+
+[^2]: A 12. §-t az 53/2014. (IV. 29.) VM rendelet 12. § (1) bekezdése iktatta be.
+[^3]: A hatálybalépés időpontja 2014. április 30.

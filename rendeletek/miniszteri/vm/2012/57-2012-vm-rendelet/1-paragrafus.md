@@ -4,7 +4,7 @@
 
 1. főtevékenység: az egyéni vállalkozói nyilvántartásban főtevékenységként megjelölt mezőgazdasági termelő tevékenység;
 
-2. főállású mezőgazdasági termelő: az a személy, aki nem rendelkezik munkaviszonyból vagy más nem önálló tevékenységből származó jövedelemmel és a mezőgazdasági termelő tevékenységből származó árbevétele meghaladja az összes bevételének 50%-át;
+2.[^1] főállású mezőgazdasági termelő: az a személy, aki nem rendelkezik munkaviszonyból vagy más nem önálló tevékenységből származó jövedelemmel és a mezőgazdasági termelő tevékenységből származó árbevétele meghaladja az összes árbevételének 50%-át;
 
 3. gazdaság: a termőföld, az állatállomány, továbbá a mezőgazdasági termelő tevékenységéhez kapcsolódó mezőgazdasági vagyoni értékű jogok, gépek, épületek és készletek, és egyéb tárgyi eszközök összessége;
 
@@ -33,3 +33,5 @@
 15. zöldség-gyümölcs termelői csoport és termelői szervezet: a Vhr. 3. § 18. pontja szerinti csoport;
 
 16. életvitelszerű tartózkodási hely: az ügyfél azon – bejelentett és a lakcímet igazoló hatósági igazolványban szereplő – állandó vagy ideiglenes tartózkodási helye, ahol az év nagyobb részét tölti, és rendszerint elérhető, amelyet életkörülményei is alátámasztanak.
+
+[^1]: Az 1. § 2. pontja az 53/2014. (IV. 29.) VM rendelet 12. § (2) bekezdése szerint módosított szöveg.
