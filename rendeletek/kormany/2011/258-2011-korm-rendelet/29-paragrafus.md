@@ -1,3 +1,3 @@
-## 28. §[^40]
+## 28. §[^41]
 
-[^40]: A 28. §-t a 14. § (4) bekezdése hatályon kívül helyezte.
+[^41]: A 28. §-t a 14. § (4) bekezdése hatályon kívül helyezte.

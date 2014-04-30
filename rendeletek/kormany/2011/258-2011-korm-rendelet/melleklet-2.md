@@ -170,7 +170,7 @@
 
 ## 1. A III. fejezet c) alpont szerinti átadási kötelezettség a teljes projektállomány dokumentációjára vonatkozik, figyelemmel a lezárt, valamint a fenntartási időszakban lévő projektekre is.
 
-## 2.[^64] A projektek átadás-átvétele, valamint a jogutódlás átvezetése során Felek a vonatkozó hatályos jogszabályok, miniszteri utasítások, valamint a feladatkörében érintett irányító hatóság által készített eljárásrend szerint járnak el.
+## 2.[^65] A projektek átadás-átvétele, valamint a jogutódlás átvezetése során Felek a vonatkozó hatályos jogszabályok, miniszteri utasítások, valamint a feladatkörében érintett irányító hatóság által készített eljárásrend szerint járnak el.
 
 ## 4. A megyei önkormányzat vagyonának átadása
 
@@ -450,7 +450,7 @@
 
 ## 4. A megyei önkormányzat hivatalának az átadás-átvételi eljárásból kivett pénzeszközei:
 
-2. melléklet a 258/2011. (XII. 7.) Korm. rendelethez[^65]
+2. melléklet a 258/2011. (XII. 7.) Korm. rendelethez[^66]
 
-[^64]: Az 1. melléklet IV. 3. 2. pontja az 550/2013. (XII. 30.) Korm. rendelet 73. §-a szerint módosított szöveg.
-[^65]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^65]: Az 1. melléklet IV. 3. 2. pontja az 550/2013. (XII. 30.) Korm. rendelet 73. §-a szerint módosított szöveg.
+[^66]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

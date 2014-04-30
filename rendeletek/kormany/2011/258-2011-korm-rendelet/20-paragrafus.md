@@ -1,3 +1,3 @@
-## 19. §[^25]
+## 19. §[^26]
 
-[^25]: A 19. §-t a 14. § (5) bekezdése hatályon kívül helyezte.
+[^26]: A 19. §-t a 14. § (5) bekezdése hatályon kívül helyezte.
