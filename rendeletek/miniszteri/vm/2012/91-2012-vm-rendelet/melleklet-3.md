@@ -1,4 +1,4 @@
-3. melléklet a 91/2012. (VIII. 29.) VM rendelethez[^18]
+3. melléklet a 91/2012. (VIII. 29.) VM rendelethez[^19]
 
 A támogatás kiszámításának módja
 
@@ -14,4 +14,4 @@ Q: a ténylegesen felhasznált üzemanyag-mennyisége csökkentve a jövedéki a
 
 A támogatás összege nem haladhatja meg a folyó, valamint a megelőző kettő pénzügyi év vonatkozásában a 15000 eurónak megfelelő forintösszeget, így a támogatási összeg kiszámításakor a korábban kapott mezőgazdasági de minimis támogatások összegét is figyelembe kell venni és szükség szerint azokkal a támogatás összegét csökkenteni kell.
 
-[^18]: A 3. melléklet a 36/2014. (IV. 4.) VM rendelet 70. § e) pontja szerint módosított szöveg.
+[^19]: A 3. melléklet a 36/2014. (IV. 4.) VM rendelet 70. § e) pontja szerint módosított szöveg.
