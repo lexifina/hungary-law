@@ -26,7 +26,7 @@ bc) mitokondriális DNS vizsgálattal
 
 (7)[^18] A 8. § a) és b) pontja szerinti kötelezettség vállalás esetén a támogatásra jogosult köteles az ismeretterjesztő anyagon, szakkönyvön, honlapon, vagy internetes felületen az arculati elemeket megjeleníteni.
 
-(8)[^19] A 8. § c) pontja szerinti rendezvényszervezés esetén a támogatásra jogosult köteles a rendezvény helyén az arculati elemeket feltüntetni.
+(8)[^19] A 8. § c) és d) pontja szerinti rendezvényszervezés esetén a támogatásra jogosult köteles a rendezvény helyén az arculati elemeket feltüntetni.
 
 (9)[^20] A támogatásra jogosult a rendezvény megtartásáról köteles a rendezvény lezárását követően írásbeli emlékeztetőt készíteni, és azt a kifizetési kérelemmel együtt megküldeni az MVH-nak.
 
@@ -38,6 +38,6 @@ b) legalább 10 darab, a rendezvény főbb programjait és a rendezvényen elhel
 
 [^17]: A 12. § (1a) bekezdését a 30/2013. (IV. 30.) VM rendelet 11. § (1) bekezdése iktatta be.
 [^18]: A 12. § (7) bekezdését a 138/2012. (XII. 22.) VM rendelet 12. §-a iktatta be.
-[^19]: A 12. § (8) bekezdését a 138/2012. (XII. 22.) VM rendelet 12. §-a iktatta be.
+[^19]: A 12. § (8) bekezdését a 138/2012. (XII. 22.) VM rendelet 12. §-a iktatta be, szövege az 53/2014. (IV. 29.) VM rendelet 10. § (3) bekezdése szerint módosított szöveg.
 [^20]: A 12. § (9) bekezdését a 138/2012. (XII. 22.) VM rendelet 12. §-a iktatta be.
 [^21]: A 12. § (10) bekezdését a 138/2012. (XII. 22.) VM rendelet 12. §-a iktatta be.

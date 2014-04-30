@@ -1,6 +1,6 @@
 ## 10. A kifizetési kérelem benyújtása
 
-19. § (1)[^34] A kifizetési kérelmet a 2013/2014-es gazdálkodási évtől kezdődően a tárgyévet követő május 1. és május 31. között, kizárólag elektronikus úton, ügyfélkapun keresztül lehet benyújtani az MVH-hoz.
+19. § (1)[^34] A kifizetési kérelmet a 2013/2014-es gazdálkodási évtől kezdődően a tárgyévet követő június 1. és június 30. között, kizárólag elektronikus úton, ügyfélkapun keresztül lehet benyújtani az MVH-hoz.
 
 (1a)[^35] A 13. § alapján támogatási kérelmet benyújtó ügyfelek közül a 2013. évben kifizetési kérelmet az nyújthat be, akire vonatkozóan az MVH nem hozott már jogerőssé vált
 
@@ -78,7 +78,9 @@ b) a támogatási kérelem visszavonásáról.
 
 (6)[^49] Egy kifizetési időszakban egy kérelmező csak egy kifizetési kérelmet nyújthat be. Ha több kifizetési kérelem kerül benyújtásra, akkor az utolsóként benyújtott, a korábbi kérelmek módosításának számító kérelem alapján történik a kifizetési kérelem elbírálása.
 
-[^34]: A 19. § (1) bekezdése a 13/2014. (II. 24.) VM rendelet 21. § (1) bekezdésével megállapított szöveg.
+(7)[^50] A kifizetési kérelemben nem igényelhető az adott kiadási tételhez tartozó, a támogatási kérelemben feltüntetett fajtán kívüli, és a támogatási határozattal jóváhagyott létszámot meghaladó egyedre/állományra támogatás.
+
+[^34]: A 19. § (1) bekezdése a 13/2014. (II. 24.) VM rendelet 21. § (1) bekezdésével megállapított, az 53/2014. (IV. 29.) VM rendelet 10. § (4) bekezdése szerint módosított szöveg.
 [^35]: A 19. § (1a) bekezdését a 30/2013. (IV. 30.) VM utasítás 11. § (3) bekezdése iktatta be.
 [^36]: A 19. § (2) bekezdés nyitó szövegrésze a 13/2014. (II. 24.) VM rendelet 24. §-ával megállapított szöveg.
 [^37]: A 19. § (2) bekezdés a) pontja a 61/2013. (VII. 19.) VM rendelet 5. § (1) bekezdésével megállapított szöveg.
@@ -94,3 +96,4 @@ b) a támogatási kérelem visszavonásáról.
 [^47]: A 19. § (4) bekezdését a 13/2014. (II. 24.) VM rendelet 25. §-a hatályon kívül helyezte.
 [^48]: A 19. § (5) bekezdését a 30/2013. (IV. 30.) VM rendelet 11. § (7) bekezdése iktatta be.
 [^49]: A 19. § (6) bekezdését a 30/2013. (IV. 30.) VM rendelet 11. § (8) bekezdése iktatta be.
+[^50]: A 19. § (7) bekezdését az 53/2014. (IV. 29.) VM rendelet 10. § (1) bekezdése iktatta be.
