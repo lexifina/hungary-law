@@ -12,13 +12,14 @@ b) legfeljebb 100 millió Ft lehet azon kérelmező esetében, akinek a támogat
 
 (5)[^12] E rendelet alapján a támogatási keretösszeg
 
-a) a 2013/2014. pénzügyi évben 4 000 000 euró,
+a)[^13] a 2013/2014. pénzügyi évben 4 670 000 euró,
 
 b) a 2014/2015. pénzügyi évben 4 000 000 euró.
 
-(6)[^13]
+(6)[^14]
 
 [^10]: A 3. § (1) bekezdése a 108/2012. (X. 11.) VM rendelet 3. § (1) bekezdésével megállapított, nyitó szövegrésze a 101/2013. (XI. 4.) VM rendelet 15. § 2. pontja szerint módosított szöveg.
 [^11]: A 3. § (2) bekezdése a 101/2013. (XI. 4.) VM rendelet 15. § 3. pontja szerint módosított szöveg.
 [^12]: A 3. § (5) bekezdése a 101/2013. (XI. 4.) VM rendelet 5. §-ával megállapított szöveg.
-[^13]: A 3. § (6) bekezdését a 108/2012. (X. 11.) VM rendelet 11. § (1) bekezdés a) pontja hatályon kívül helyezte.
+[^13]: A 3. § (5) bekezdés a) pontja az 53/2014. (IV. 29.) VM rendelet 8. §-ával megállapított szöveg.
+[^14]: A 3. § (6) bekezdését a 108/2012. (X. 11.) VM rendelet 11. § (1) bekezdés a) pontja hatályon kívül helyezte.

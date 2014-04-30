@@ -1,3 +1,3 @@
-## 7.[^61] A kérelem hiánypótlása
+## 7.[^62] A kérelem hiánypótlása
 
-[^61]: A 7. alcímet (13. §) a 108/2012. (X. 11.) VM rendelet 11. § (1) bekezdés d) pontja hatályon kívül helyezte.
+[^62]: A 7. alcímet (13. §) a 108/2012. (X. 11.) VM rendelet 11. § (1) bekezdés d) pontja hatályon kívül helyezte.
