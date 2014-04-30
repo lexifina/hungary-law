@@ -32,19 +32,19 @@
 
 15. tradicionális eszköz: az a hagyományos, újonnan kereskedelmi forgalomban nem kapható gép, eszköz, tárgy, amely a hagyományos népi kultúra, szellemi és tárgyi örökség ápolásának, bemutatásának céljából korhű formai jellegeket hordozóan és funkcionalitással készült;
 
-16. ügyfél: a LEADER HACS illetékességi területen
+16.[^2] ügyfél: LEADER HACS, valamint LEADER HACS illetékességi területen
 
-a) székhellyel, fiókteleppel vagy telephellyel rendelkező működő és induló mikro-, kis- és középvállalkozás;
+a) székhellyel, fiókteleppel vagy telephellyel rendelkező működő és induló mikro-, kis- és középvállalkozás,
 
-b) működő települési önkormányzat;
+b) működő települési önkormányzat,
 
-c) települési nemzetiségi önkormányzat;
+c) települési nemzetiségi önkormányzat,
 
-d) önálló jogi személyiséggel rendelkező önkormányzati társulás;
+d) önálló jogi személyiséggel rendelkező önkormányzati társulás,
 
-e) székhellyel vagy telephellyel rendelkező nonprofit szervezet;
+e) székhellyel vagy telephellyel rendelkező nonprofit szervezet,
 
-f)[^2] székhellyel vagy telephellyel rendelkező egyházi jogi személy;
+f) székhellyel vagy telephellyel rendelkező egyházi jogi személy,
 
 g) lakóhellyel vagy tartózkodási hellyel rendelkező természetes személy,
 
@@ -53,4 +53,4 @@ g) lakóhellyel vagy tartózkodási hellyel rendelkező természetes személy,
 (2) Az e rendeletben nem szabályozott kérdések vonatkozásában a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvényben (a továbbiakban: Törvény), és az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló támogatások igénybevételének általános szabályairól szóló 23/2007. (IV. 17.) FVM rendeletben (a továbbiakban: Vhr.) szereplő szabályokat kell alkalmazni.
 
 [^1]: Az 1. § (1) bekezdés 2. pontját a 93/2013. (X. 10.) VM rendelet 14. §-a hatályon kívül helyezte.
-[^2]: Az 1. § (1) bekezdés 16. pont f) alpontja a 93/2013. (X. 10.) VM rendelet 13. §-a szerint módosított szöveg.
+[^2]: Az 1. § (1) bekezdés 16. pontja az 53/2014. (IV. 29.) VM rendelet 15. § (1) bekezdésével megállapított szöveg.
