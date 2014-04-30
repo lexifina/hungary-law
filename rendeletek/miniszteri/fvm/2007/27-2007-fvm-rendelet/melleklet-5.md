@@ -196,6 +196,6 @@
 
 | 2 | 3 | 2 | 2 | 3 | Gyógyszerek és veszélyes anyagok (mosó- és fertőtlenítőszerek) tárolására szolgáló helyiség, épület kialakítása | ezer Ft |
 
-5. számú melléklet a 27/2007. (IV. 17.) FVM rendelethez[^103]
+5. számú melléklet a 27/2007. (IV. 17.) FVM rendelethez[^106]
 
-[^103]: Az 5. számú melléklet a 143/2009. (XI. 5.) FVM rendelet 8. § (4) bekezdésével megállapított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. november 6. napját követően benyújtott támogatási kérelmek esetében kell alkalmazni.
+[^106]: Az 5. számú melléklet a 143/2009. (XI. 5.) FVM rendelet 8. § (4) bekezdésével megállapított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. november 6. napját követően benyújtott támogatási kérelmek esetében kell alkalmazni.

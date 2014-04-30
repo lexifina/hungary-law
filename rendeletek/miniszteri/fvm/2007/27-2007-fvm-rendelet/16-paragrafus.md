@@ -1,4 +1,4 @@
-## 15. §[^91] E rendeletnek az Európai Mezőgazdasági Vidékfejlesztési Alapból az állattartó telepek korszerűsítéséhez nyújtandó támogatások részletes feltételeiről szóló 27/2007. (IV. 17.) FVM rendelet módosításáról szóló 23/2010. (X. 20.) VM rendelettel (a továbbiakban: módosító rendelet) megállapított 3. § (9) bekezdését, az 5. § (1) bekezdését, valamint az 5. § (2) bekezdés a) pontját a módosító rendelet hatálybalépésekor[^92] folyamatban levő ügyekben is alkalmazni kell.
+## 15. §[^92] E rendeletnek az Európai Mezőgazdasági Vidékfejlesztési Alapból az állattartó telepek korszerűsítéséhez nyújtandó támogatások részletes feltételeiről szóló 27/2007. (IV. 17.) FVM rendelet módosításáról szóló 23/2010. (X. 20.) VM rendelettel (a továbbiakban: módosító rendelet) megállapított 3. § (9) bekezdését, az 5. § (1) bekezdését, valamint az 5. § (2) bekezdés a) pontját a módosító rendelet hatálybalépésekor[^93] folyamatban levő ügyekben is alkalmazni kell.
 
-[^91]: A 15. §-t a 23/2010. (X. 20.) VM rendelet 3. §-a iktatta be.
-[^92]: A hatálybalépés időpontja: 2010. október 23.
+[^92]: A 15. §-t a 23/2010. (X. 20.) VM rendelet 3. §-a iktatta be.
+[^93]: A hatálybalépés időpontja: 2010. október 23.

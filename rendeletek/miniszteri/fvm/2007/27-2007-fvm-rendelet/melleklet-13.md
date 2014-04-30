@@ -242,7 +242,7 @@
 
 |  | – Rezsióradíj alapján számított élőmunka költség. |
 
-13. számú melléklet a 27/2007. (IV. 17.) FVM rendelethez[^111]
+13. számú melléklet a 27/2007. (IV. 17.) FVM rendelethez[^114]
 
 Telepi állategészségügyi helyzetet, illetve a nyomon követhetőséget javító, állatbetegségek kialakulását
 
@@ -264,20 +264,4 @@ Telepi állategészségügyi helyzetet, illetve a nyomon követhetőséget javí
 
 |  | – Rezsióradíj alapján számított élőmunka költség. |
 
-| 5.1.1.1.2. Bőr alá vagy izomba ültetett azonosító chip és számítógépes chipleolvasó telepítése |
-
-| MT | – A korszerű üzemeltetési funkcióknak és a kapcsolódó előírásoknak megfelelő működést biztosító technológiai kivitelezés. |
-
-|  | – Az állatállomány gépi automatikus azonosításához, esetleg élettani adatok gyűjtéséhez is, bőr alá ültethető vagy izomba ültetett azonosító chip beültetése, és az azonosítás számítógépes telepirányítási rendszerbe illesztése. |
-
-|  | – Az adatok elektronikus rögzítése. |
-
-|  | – Üzembe helyezés, a dolgozók oktatási munkái. |
-
-| EK | – A számítógépes chipleolvasó részegységeinek beszerzése, beépítése (azonosító chip, beültető eszköz, érzékelő, adattároló, automatikus adatgyűjtő stb.), azok helyszínre szállításával. |
-
-|  | – A technológia szerelési anyagainak (villamos szerelési anyagok, adatkábelek, csatlakozók stb.) beszerzése, beépítése. |
-
-|  | – Rezsióradíj alapján számított élőmunka költség. |
-
-[^111]: A 13. számú melléklet a 130/2008. (X. 1.) FVM rendelet 6. § (6) bekezdésével megállapított szöveg.
+[^114]: A 13. számú melléklet a 130/2008. (X. 1.) FVM rendelet 6. § (6) bekezdésével megállapított szöveg.
