@@ -12,18 +12,27 @@ c) a bemutató üzemi programok költségtervének megalapozottsága.
 
 (3) A jóváhagyott projekttervek támogatásigénye nem haladhatja meg a jogcímre rendelkezésre álló forráskeret nagyságát.
 
-(4) Egy naptári félévre vonatkozóan a Bemutató Üzemnek csak egy projektterve hagyható jóvá.
+(4)[^5] Egy projektterv időszakra vonatkozóan a Bemutató Üzemnek csak egy projektterve hagyható jóvá.
 
 (5) A Bemutató Üzem a projekttervet a NAKVI honlapján rendszeresített elektronikus űrlap kitöltésével, kinyomtatásával, cégszerű aláírásával és a NAKVI címére postai úton történő megküldésével nyújtja be.
 
-(6) A projektterv-benyújtás (a postai feladás) határideje
+(6)[^6] A projektterv-benyújtás (a postai feladás) határideje
 
-a) első alkalommal a Bemutató Üzemi cím odaítéléséről szóló értesítés kézhezvételét követő 15. munkanap;
+a) 2014. év első projektterv időszakára vonatkozóan a Bemutató Üzemi cím odaítéléséről szóló értesítés kézhezvételét követő 15. munkanap;
 
-b)[^4] 2014. év második félévére vonatkozóan 2014. március 31.
+b) 2014. év második projektterv időszakára vonatkozóan 2014. március 31.
 
 (7) A NAKVI a projektterv jóváhagyásáról a benyújtást követő 30 napon belül hoz döntést. Hiányos vagy téves adatok esetén a projekttervet hiánypótlás, a költségtervet megalapozatlanság esetén módosítás céljából egy alkalommal visszaküldi, válaszadási határidő megjelölésével. A projektterv jóváhagyása történhet az abban foglalt bemutató-üzemi programok összességének, vagy egy részének jóváhagyásával.
 
-(8) A NAKVI a bemutató üzemi programok projekttervben foglaltak szerinti teljesülését a helyszínen ellenőrizheti.
+(8)[^7] A NAKVI a bemutató üzemi programok projekttervben foglaltak szerinti teljesülését a helyszínen ellenőrizheti. A NAKVI helyszíni vizsgálatának eredményét az MVH az eljárása során figyelembe veszi.
 
-[^4]: A 4. § (6) bekezdés b) pontja a 13/2014. (II. 24.) VM rendelet 31. §-ával megállapított szöveg.
+(9)[^8] A projektterv teljesítési időszakok:
+
+a) az első projekttervre vonatkozóan 2014. március 1. és 2014. augusztus 31. között,
+
+b) a második projekttervre vonatkozóan 2014. július 1. és 2014. december 31. között.
+
+[^5]: A 4. § (4) bekezdése az 53/2014. (IV. 29.) VM rendelet 17. § (2) bekezdésével megállapított szöveg.
+[^6]: A 4. § (6) bekezdése az 53/2014. (IV. 29.) VM rendelet 17. § (3) bekezdésével megállapított szöveg.
+[^7]: A 4. § (8) bekezdése az 53/2014. (IV. 29.) VM rendelet 17. § (4) bekezdésével megállapított szöveg.
+[^8]: A 4. § (9) bekezdését az 53/2014. (IV. 29.) VM rendelet 17. § (5) bekezdése iktatta be.

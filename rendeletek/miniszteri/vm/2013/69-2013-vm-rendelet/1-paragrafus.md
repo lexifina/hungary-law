@@ -14,10 +14,11 @@
 
 6.[^3] mezőgazdasági termelő: az a természetes személy, jogi személy, aki vagy amely a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról és a 3037/90/EGK tanácsi rendelet, valamint egyes meghatározott statisztikai területekre vonatkozó EK-rendeletek módosításáról szóló, 2006. december 20-i 1893/2006/EK európai parlamenti és tanácsi rendelet I. melléklete szerinti – az adózás rendjéről szóló 2003. évi XCII. törvény 16. § (3) bekezdés d) pontja alapján az állami adóhatósághoz bejelentett – 01.1, 01.2, 01.3, 01.4, 01.5, 01.6 és 01.7 alágazatba tartozó tevékenységet folytat, vagy őstermelői igazolvánnyal rendelkezik;
 
-7. projektterv: a Bemutató Üzem által a naptári év első vagy második félévére vonatkozóan készített terv, amely tartalmazza az adott időszak folyamán megvalósításra tervezett bemutató üzemi programok időpontjait (legalább a hónap megjelölésével), témáit, valamint költségtervét.
+7.[^4] projektterv: a Bemutató Üzem által az e rendeletben meghatározott teljesítési időszakokra vonatkozóan készített terv, amely tartalmazza az adott időszak folyamán megvalósításra tervezett bemutató üzemi programok időpontjait (legalább a hónap megjelölésével), témáit, valamint költségtervét.
 
 (2) E rendelet vonatkozásában nem kell alkalmazni az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló támogatások igénybevételének általános szabályairól szóló 23/2007. (IV. 17.) FVM rendelet (a továbbiakban: Vhr.) 8. § (2) bekezdésében, 9. § (2) bekezdésében, 12. § (4) bekezdésében, 17. § (2) és (4) bekezdésében, 20. § (4) bekezdésében, 24. §-ában, 25. § (2) bekezdésében, 27. § (1) bekezdés e)–f) pontjában, a 31. §-ában, valamint 33. § (4) bekezdésében foglalt rendelkezéseket.
 
 [^1]: Az 1. § 1. pontja a 36/2014. (IV. 4.) VM rendelet 83. §-ával megállapított szöveg.
 [^2]: Az 1. § (1) bekezdés 4. pontja a 22/2014. (III. 14.) VM rendelet 94. § a) pontja szerint módosított szöveg.
 [^3]: Az 1. § (1) bekezdés 6. pontja a 22/2014. (III. 14.) VM rendelet 94. § b) pontja szerint módosított szöveg.
+[^4]: Az 1. § (1) bekezdés 7. pontja az 53/2014. (IV. 29.) VM rendelet 17. § (1) bekezdésével megállapított szöveg.
