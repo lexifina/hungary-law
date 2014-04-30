@@ -12,11 +12,13 @@ e) a több- és összfajtás tenyészeb kiállítások keretében, a nemzetközi
 
 f) az ajánlott származás igazolás formátumának rendszeresítése, a nyomtatványok elkészítése és biztosítása a tenyésztőszervezetek számára;
 
-g) a kennelnév kiadása és regisztrációjának kezdeményezése a nemzetközi szervezetnél;
+g)[^7] a kennelnév kiadása és regisztrációjának kezdeményezése a nemzetközi szervezetnél a tenyésztőszervezet egyidejű tájékoztatásával;
 
-h) a kivitelre szánt ebek kiviteli származási igazolásának kiadása, a tenyésztőszervezet törzskönyve alapján, és
+h)[^8] a kivitelre szánt ebek kiviteli származási igazolásának kiadása, a tenyésztőszervezet által kiadott származási igazolás alapján a tulajdonos kérésére;
 
-i) tenyésztőszervezettel nem rendelkező fajták esetében a tenyésztőszervezeti feladatok ellátása a tenyésztési hatóság megbízása alapján.
+i) tenyésztőszervezettel nem rendelkező fajták esetében a tenyésztőszervezeti feladatok ellátása a tenyésztési hatóság megbízása alapján;
+
+j)[^9] ajánlást ad ki a tenyésztőszervezet által a tenyésztők irányába nyújtott szolgáltatások díjának alsó és felső határára vonatkozóan.
 
 (2) A kinológiai szövetségként működő szervezetnek biztosítania kell, hogy a tenyésztőszervezet tagfelvételi kérelméről a kérelem beérkezésétől számított 30 napon belül döntsön. A kinológiai szövetségként működő szervezet a tenyésztőszervezeteket azonos feltételekkel köteles a tagjai közé felvenni.
 
@@ -25,3 +27,7 @@ i) tenyésztőszervezettel nem rendelkező fajták esetében a tenyésztőszerve
 (4) A kinológiai szövetségként működő szervezetnek az alapszabályában biztosítania kell, hogy tenyésztési kérdésekben, az arra vonatkozó belső szabályzatai létrehozásában, valamint ezek nemzetközi képviseletében kizárólag a tagsággal rendelkező tenyésztőszervezetek döntsenek. A kinológiai szövetségként működő szervezetnek biztosítania kell, hogy a tenyésztőszervezetek azonos szavazati joggal rendelkezzenek.
 
 (5) A kinológiai szövetség köteles a tagjaként működő tenyésztőszervezet által kiállított törzskönyv, származási igazolás és teljesítményvizsgálat elfogadására, ha az megfelel e rendelet előírásainak és azon nemzetközi szervezet előírásainak, amelyben a kinológiai szövetség tag.
+
+[^7]: Az 5. § (1) bekezdés g) pontja az 53/2014. (IV. 29.) VM rendelet 18. § (5) bekezdésével megállapított szöveg.
+[^8]: Az 5. § (1) bekezdés h) pontja az 53/2014. (IV. 29.) VM rendelet 18. § (5) bekezdésével megállapított szöveg.
+[^9]: Az 5. § (1) bekezdés j) pontját az 53/2014. (IV. 29.) VM rendelet 18. § (6) bekezdése iktatta be.

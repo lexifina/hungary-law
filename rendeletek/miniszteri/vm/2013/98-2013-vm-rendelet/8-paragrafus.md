@@ -10,7 +10,7 @@ c) a tenyészteni kívánt fajtát és fajtákat;
 
 d) a nyilvántartott élő egyedek számát fajtánként;
 
-e) az egyedekről a kérelmező nyilvántartásában szereplő tenyésztési adatokat, az ebek tenyésztőjének nevét és az ebek tartási helyét, és
+e)[^10] az egyedekről a kérelmező nyilvántartásában szereplő tenyésztési adatokat, az ebek elektronikus azonosítójának (transzponder) sorszámát, a tenyésztőjének nevét és az ebek tartási helyét;
 
 f) a személyi és tárgyi feltételeket, a tenyésztésvezető személyének és adatainak feltüntetésével.
 
@@ -26,7 +26,7 @@ d) a bírósági bejegyzés hiteles másolatát vagy kivonatot a társadalmi sze
 
 e) a tenyésztésvezető jelen jogszabályban előírt felsőfokú végzettségét igazoló okirat másolatát;
 
-f) a kinológiai szövetség igazolását a tagsági jogviszony fennállásáról, és
+f)[^11] a kinológiai szövetség igazolását a tagsági jogviszony fennállásáról, illetve új kinológiai szövetség kijelölése esetén a kinológiai szövetséghez benyújtott tagfelvételi kérelmet és annak átvételét igazoló dokumentumot, és
 
 g) a fajtánkénti tenyésztési programot, nyomtatott vagy elektronikus formában is.
 
@@ -53,3 +53,6 @@ i) az ebek jelölésének módját;
 j) az alomellenőrzés és a származás ellenőrzés módját és dokumentálásának rendjét, és
 
 k) az örökletes betegségek kiszűrésére alkalmas vizsgálatokkal kapcsolatos kötelezettségeket és szabályozást.
+
+[^10]: A 8. § (2) bekezdés e) pontja az 53/2014. (IV. 29.) VM rendelet 18. § (7) bekezdésével megállapított szöveg.
+[^11]: A 8. § (3) bekezdés f) pontja az 53/2014. (IV. 29.) VM rendelet 18. § (8) bekezdésével megállapított szöveg.

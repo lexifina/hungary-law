@@ -2,4 +2,15 @@
 
 (2) A tenyésztőt az (1) bekezdésben foglalt feltételeknek való megfelelés esetén megilletik a tenyésztőszervezet, vagy a kinológiai szövetség által képviselt nemzetközi szakmai szervezeti tagságból eredő tenyésztői jogosultságok.
 
-(3) A tenyésztőszervezet köteles a fajta korábbi tenyésztőszervezete, az Európai Gazdaági Térség szerződő államainak elfogadott szervezetei, illetve nemzetközi szervezet által jóváhagyott törzskönyv, származási igazolás, teljesítményvizsgálat és nemzetközi címek elfogadására, továbbá a jelen rendelet hatálybalépését megelőzően szerzett nemzetközi bírói minősítések elfogadására.
+(3)[^13] A tenyésztőszervezet köteles a fajta korábbi tenyésztőszervezete, az Európai Gazdasági Térség szerződő államainak elfogadott szervezetei, illetve nemzetközi szervezet által jóváhagyott törzskönyv, származási igazolás, teljesítményvizsgálat és nemzetközi címek elfogadására, továbbá a jelen rendelet hatálybalépését megelőzően szerzett nemzetközi bírói minősítések elfogadására.
+
+(4)[^14] A (3) bekezdés szerinti eljárás során kizárólag az átadott dokumentumok formai megfelelősége vizsgálható.
+
+(5)[^15] Amennyiben a (3) bekezdés szerinti egyes adatok valódisága felől utóbb kétség merül fel, a tenyésztőszervezet felszólítja az adatot szolgáltató szervezetet az adatok valódiságának bizonyítására.
+
+(6)[^16] Amennyiben a (3) bekezdésben meghatározott adatok valódiságát az adatot nyújtó szervezet nem bizonyította, a tenyésztőszervezet a tenyésztési hatóság egyidejű tájékoztatása mellett törli az adatot a törzskönyvből.
+
+[^13]: A 11. § (3) bekezdése az 53/2014. (IV. 29.) VM rendelet 18. § (12) bekezdése szerint módosított szöveg.
+[^14]: A 11. § (4) bekezdését az 53/2014. (IV. 29.) VM rendelet 18. § (9) bekezdése iktatta be.
+[^15]: A 11. § (5) bekezdését az 53/2014. (IV. 29.) VM rendelet 18. § (9) bekezdése iktatta be.
+[^16]: A 11. § (6) bekezdését az 53/2014. (IV. 29.) VM rendelet 18. § (9) bekezdése iktatta be.
