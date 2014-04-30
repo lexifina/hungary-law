@@ -1,4 +1,4 @@
-## I/A. Fejezet[^3]
+## I/A. Fejezet[^4]
 
 ## A MINISZTERELNÖK ÁLTALÁNOS HELYETTESÉNEK FELADAT- ÉS HATÁSKÖRE
 
@@ -6,7 +6,7 @@
 
 (2) A miniszterelnök általános helyettese közreműködik az emberi erőforrások miniszterének az egyházpolitikával és egyház-diplomáciával kapcsolatos feladatai ellátásában.
 
-(3)[^4] A miniszterelnök általános helyettese a Kormány
+(3)[^5] A miniszterelnök általános helyettese a Kormány
 
 a) nemzetpolitikáért, valamint
 
@@ -28,7 +28,7 @@ e) működteti a Nemzetpolitikai Tárcaközi Bizottságot,
 
 f) közreműködik a Bethlen Gábor Alap működtetésében, ennek keretein belül részt vesz a Bethlen Gábor Alapra vonatkozó döntések meghozatalában,
 
-g)[^5]
+g)[^6]
 
 h) koordinálja a kisebbségi vegyes bizottságok működését.
 
@@ -42,11 +42,11 @@ c) a magyar kulturális örökség külföldön található emlékeinek és ért
 
 d) a határon túli ifjúsággal való együttműködés rendszerének koordinálásában, a kapcsolatok fejlesztésére szolgáló programok kidolgozásában.
 
-(5a)[^6] A Kormány a magyar állampolgárságról szóló 1993. évi LV. törvény 4. § (7) bekezdésével összefüggő honosítási eljárásban állampolgársági ügyekért felelős miniszterként a miniszterelnök általános helyettesét jelöli ki.
+(5a)[^7] A Kormány a magyar állampolgárságról szóló 1993. évi LV. törvény 4. § (7) bekezdésével összefüggő honosítási eljárásban állampolgársági ügyekért felelős miniszterként a miniszterelnök általános helyettesét jelöli ki.
 
 (6) A miniszterelnök általános helyettesét a Közigazgatási és Igazságügyi Minisztérium parlamenti államtitkára helyettesíti.
 
-[^3]: Az I/A. Fejezetet (1/A. §) a 118/2012. (VI. 26.) Korm. rendelet 2. §-a iktatta be.
-[^4]: Az 1/A. § (3) bekezdése a 151/2012. (VII. 6.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^5]: Az 1/A. § (4) bekezdés g) pontját a 282/2012. (X. 4.) Korm. rendelet 2. § a) pontja hatályon kívül helyezte.
-[^6]: Az 1/A. § (5a) bekezdését a 151/2012. (VII. 6.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^4]: Az I/A. Fejezetet (1/A. §) a 118/2012. (VI. 26.) Korm. rendelet 2. §-a iktatta be.
+[^5]: Az 1/A. § (3) bekezdése a 151/2012. (VII. 6.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^6]: Az 1/A. § (4) bekezdés g) pontját a 282/2012. (X. 4.) Korm. rendelet 2. § a) pontja hatályon kívül helyezte.
+[^7]: Az 1/A. § (5a) bekezdését a 151/2012. (VII. 6.) Korm. rendelet 1. § (2) bekezdése iktatta be.

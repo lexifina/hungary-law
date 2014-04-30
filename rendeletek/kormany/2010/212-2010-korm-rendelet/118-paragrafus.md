@@ -1,10 +1,8 @@
-## 117/A–117/B. §
-
 ## XII. Fejezet
 
 ## A MINISZTEREK HELYETTESÍTÉSE
 
-## 118. §[^492] A miniszterek helyettesítése a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény (a továbbiakban: Ksztv.) 37. § (2) bekezdésében meghatározott esetekben az alábbi rend szerint történik:
+## 118. §[^497] A miniszterek helyettesítése a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény (a továbbiakban: Ksztv.) 37. § (2) bekezdésében meghatározott esetekben az alábbi rend szerint történik:
 
 a) a miniszterelnök általános helyettesét a közigazgatási és igazságügyi miniszter,
 
@@ -20,12 +18,12 @@ f) a vidékfejlesztési minisztert a nemzetgazdasági miniszter,
 
 g) a külügyminisztert a honvédelmi miniszter,
 
-h)[^493] az emberi erőforrások miniszterét a közigazgatási és igazságügyi miniszter,
+h)[^498] az emberi erőforrások miniszterét a közigazgatási és igazságügyi miniszter,
 
-i)[^494]
+i)[^499]
 
 helyettesíti.
 
-[^492]: A 118. § a 340/2011. (XII. 29.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^493]: A 118. § h) pontja a 94/2012. (V. 11.) Korm. rendelet 7. § u) pontja szerint módosított szöveg.
-[^494]: A 118. § i) pontját a 93/2013. (III. 29.) Korm. rendelet 5. § c) pontja hatályon kívül helyezte.
+[^497]: A 118. § a 340/2011. (XII. 29.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^498]: A 118. § h) pontja a 94/2012. (V. 11.) Korm. rendelet 7. § u) pontja szerint módosított szöveg.
+[^499]: A 118. § i) pontját a 93/2013. (III. 29.) Korm. rendelet 5. § c) pontja hatályon kívül helyezte.

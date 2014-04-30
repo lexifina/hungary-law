@@ -1,22 +1,22 @@
-## 52. §[^204] A miniszter
+## 52. §[^209] A miniszter
 
 a) ellátja a nemzeti és egyetemes kulturális örökség megóvásával, tudományos feltárásával és közkinccsé tételével, az új média létrehozásával kapcsolatos feladatokat,
 
-b)[^205] ellátja a közművelődési, közgyűjteményi tevékenységgel, a művészeti alkotó munka és előadói tevékenység állami támogatásával kapcsolatos feladatokat,
+b)[^210] ellátja a közművelődési, közgyűjteményi tevékenységgel, a művészeti alkotó munka és előadói tevékenység állami támogatásával kapcsolatos feladatokat,
 
-c)[^206] a közigazgatási és igazságügyi miniszterrel és a miniszterelnök általános helyettesével együttműködve gondoskodik a külhoni magyar közösségek kulturális és anyanyelvi identitását erősítő és fejlesztő programok és fejlesztések megszervezéséről,
+c)[^211] a közigazgatási és igazságügyi miniszterrel és a miniszterelnök általános helyettesével együttműködve gondoskodik a külhoni magyar közösségek kulturális és anyanyelvi identitását erősítő és fejlesztő programok és fejlesztések megszervezéséről,
 
 d) ellátja a művészeti, muzeális, a könyvtári, a levéltári, a közművelődési, a kulturális örökség, valamint kulturális diplomácia elemeivel kapcsolatos tevékenység ágazati irányítását,
 
-e)[^207] meghatározza a kulturális örökségvédelem kulturális javakkal kapcsolatos országos céljait, feladatait és követelményrendszerét,
+e)[^212] meghatározza a kulturális örökségvédelem kulturális javakkal kapcsolatos országos céljait, feladatait és követelményrendszerét,
 
-f)[^208] a közigazgatási és igazságügyi miniszterrel együttműködve segítséget nyújt a magyar kulturális örökség külföldön található emlékeinek és értékeinek feltárásában, megőrzésében, különös tekintettel a határon túli emlékekre,
+f)[^213] a közigazgatási és igazságügyi miniszterrel együttműködve segítséget nyújt a magyar kulturális örökség külföldön található emlékeinek és értékeinek feltárásában, megőrzésében, különös tekintettel a határon túli emlékekre,
 
 g) a kulturális területen ellátja az ösztöndíjasok külföldre küldésével, illetőleg Magyarországon fogadásával kapcsolatos feladatokat,
 
 h) szabályozza a közreműködő intézményrendszer működését, vezetői tekintetében gyakorolja a munkáltatói jogkört, továbbá a törvényben előírt egyetértési, javaslattételi, véleményezési, illetőleg előterjesztői jogköröket, gondoskodik a feladatellátás minőségbiztosításáról, ellenőrzi az intézmények gazdálkodását, az állam által rendelkezésre bocsátott eszközök felhasználásának jogszerűségét, szabályszerűségét és javaslatot tesz a szükséges intézkedésekre,
 
-i)[^209] gondoskodik a feladatkörébe tartozó kulturális örökségi értékek számbavételéről, nyilvántartásáról és az ehhez kapcsolódó tudományos feladatok ellátásáról,
+i)[^214] gondoskodik a feladatkörébe tartozó kulturális örökségi értékek számbavételéről, nyilvántartásáról és az ehhez kapcsolódó tudományos feladatok ellátásáról,
 
 j) ellátja a könyvtári tevékenység és a nyilvános könyvtárak ágazati irányítását, a nyilvános könyvtári ellátás érdekében az országos dokumentum-ellátási rendszer működtetését,
 
@@ -26,9 +26,9 @@ l) gondoskodik a magyar nyelv és kultúra megőrzése, terjesztése és megisme
 
 m) rendelkezési jogot gyakorol a Nemzeti Kulturális Alap felett,
 
-n)[^210] gondoskodik az állami tulajdonban lévő kulturális javak őrzési helyének nemzeti kulturális érdekből történő kijelöléséről,
+n)[^215] gondoskodik az állami tulajdonban lévő kulturális javak őrzési helyének nemzeti kulturális érdekből történő kijelöléséről,
 
-o)[^211] ellátja – a külügyminiszterrel, a miniszterelnök általános helyettesével és a közigazgatási és igazságügyi miniszterrel együttműködve – a külföldi magyar kulturális intézetek szakmai irányítását és felügyeletét, Magyarország kulturális diplomáciai céljainak kidolgozását, végrehajtását,
+o)[^216] ellátja – a külügyminiszterrel, a miniszterelnök általános helyettesével és a közigazgatási és igazságügyi miniszterrel együttműködve – a külföldi magyar kulturális intézetek szakmai irányítását és felügyeletét, Magyarország kulturális diplomáciai céljainak kidolgozását, végrehajtását,
 
 p) kulturális örökséggel kapcsolatos feladatainak megvalósítása érdekében kapcsolatot tart más államok kormányzati szerveivel,
 
@@ -38,29 +38,29 @@ r) felelős az európai integrációból eredő kulturális feladatok végrehajt
 
 s) előmozdítja a magyar történeti, művészeti és művelődéstörténeti értékek külföldi megismertetését és
 
-t)[^212] irányítja a Forster Gyula Nemzeti Örökséggazdálkodási és Szolgáltatási Központot,
+t)[^217] irányítja a Forster Gyula Nemzeti Örökséggazdálkodási és Szolgáltatási Központot,
 
-u)[^213] egyetértési jogot gyakorol az ingatlan kulturális örökség védetté nyilvánítására vonatkozó jogszabályoknál az elővásárlási jog gyakorlása, továbbá az örökségvédelmi bírság kategóriájának megállapítása tekintetében,
+u)[^218] egyetértési jogot gyakorol az ingatlan kulturális örökség védetté nyilvánítására vonatkozó jogszabályoknál az elővásárlási jog gyakorlása, továbbá az örökségvédelmi bírság kategóriájának megállapítása tekintetében,
 
-v)[^214] egyetértési jogot gyakorol a műemlékek vagyonkezelésbe adása és állami tulajdonból való kikerülése esetében,
+v)[^219] egyetértési jogot gyakorol a műemlékek vagyonkezelésbe adása és állami tulajdonból való kikerülése esetében,
 
-w)[^215] az érintett miniszterekkel együttműködve ellátja a világörökséggel kapcsolatos feladatokat,
+w)[^220] az érintett miniszterekkel együttműködve ellátja a világörökséggel kapcsolatos feladatokat,
 
-x)[^216] a Miniszterelnökséggel együttműködve ellátja az emlékhelyekkel kapcsolatos feladatokat,
+x)[^221] a Miniszterelnökséggel együttműködve ellátja az emlékhelyekkel kapcsolatos feladatokat,
 
-y)[^217] ellátja az Európai Örökség címmel kapcsolatos feladatokat.
+y)[^222] ellátja az Európai Örökség címmel kapcsolatos feladatokat.
 
-[^204]: Az 52. § nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 41. § (21) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^205]: Az 52. § b) pontja a 266/2012. (IX. 18.) Korm. rendelet 23. § (5) bekezdésével megállapított szöveg.
-[^206]: Az 52. § c) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (33) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^207]: Az 52. § e) pontját a 266/2012. (IX. 18.) Korm. rendelet 25. § b) pontja hatályon kívül helyezte, újonnan a 310/2012. (XI. 6.) Korm. rendelet 18. § (4) bekezdése iktatta be. Ez utóbbi módosító rendelet 11. §-a alapján a folyamatban levő ügyekben is alkalmazni kell.
-[^208]: Az 52. § f) pontja a 310/2012. (XI. 6.) Korm. rendelet 18. § (4) bekezdésével megállapított szöveg. E módosító rendelet 11. §-a alapján a folyamatban levő ügyekben is alkalmazni kell.
-[^209]: Az 52. § i) pontja a 310/2012. (XI. 6.) Korm. rendelet 18. § (5) bekezdésével megállapított szöveg. E módosító rendelet 11. §-a alapján a folyamatban levő ügyekben is alkalmazni kell.
-[^210]: Az 52. § n) pontját a 266/2012. (IX. 18.) Korm. rendelet 25. § b) pontja hatályon kívül helyezte, újonnan a 284/2013. (VII. 25.) Korm. rendelet 1. §-a iktatta be, szövege a 365/2013. (X. 17.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^211]: Az 52. § o) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (33) bekezdés b) pontja, a 94/2012. (V. 11.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.
-[^212]: Az 52. § t) pontját a 266/2012. (IX. 18.) Korm. rendelet 25. § b) pontja hatályon kívül helyezte, újonnan a 310/2012. (XI. 6.) Korm. rendelet 18. § (6) bekezdése iktatta be. Ez utóbbi módosító rendelet 11. §-a alapján a folyamatban levő ügyekben is alkalmazni kell.
-[^213]: Az 52. § u) pontját a 310/2012. (XI. 6.) Korm. rendelet 18. § (6) bekezdése iktatta be. E módosító rendelet 11. §-a alapján a folyamatban levő ügyekben is alkalmazni kell.
-[^214]: Az 52. § v) pontját a 310/2012. (XI. 6.) Korm. rendelet 18. § (6) bekezdése iktatta be. E módosító rendelet 11. §-a alapján a folyamatban levő ügyekben is alkalmazni kell.
-[^215]: Az 52. § w) pontját a 310/2012. (XI. 6.) Korm. rendelet 18. § (6) bekezdése iktatta be. E módosító rendelet 11. §-a alapján a folyamatban levő ügyekben is alkalmazni kell.
-[^216]: Az 52. § x) pontját a 310/2012. (XI. 6.) Korm. rendelet 18. § (6) bekezdése iktatta be. E módosító rendelet 11. §-a alapján a folyamatban levő ügyekben is alkalmazni kell.
-[^217]: Az 52. § y) pontját a 310/2012. (XI. 6.) Korm. rendelet 18. § (6) bekezdése iktatta be. E módosító rendelet 11. §-a alapján a folyamatban levő ügyekben is alkalmazni kell.
+[^209]: Az 52. § nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 41. § (21) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^210]: Az 52. § b) pontja a 266/2012. (IX. 18.) Korm. rendelet 23. § (5) bekezdésével megállapított szöveg.
+[^211]: Az 52. § c) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (33) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^212]: Az 52. § e) pontját a 266/2012. (IX. 18.) Korm. rendelet 25. § b) pontja hatályon kívül helyezte, újonnan a 310/2012. (XI. 6.) Korm. rendelet 18. § (4) bekezdése iktatta be. Ez utóbbi módosító rendelet 11. §-a alapján a folyamatban levő ügyekben is alkalmazni kell.
+[^213]: Az 52. § f) pontja a 310/2012. (XI. 6.) Korm. rendelet 18. § (4) bekezdésével megállapított szöveg. E módosító rendelet 11. §-a alapján a folyamatban levő ügyekben is alkalmazni kell.
+[^214]: Az 52. § i) pontja a 310/2012. (XI. 6.) Korm. rendelet 18. § (5) bekezdésével megállapított szöveg. E módosító rendelet 11. §-a alapján a folyamatban levő ügyekben is alkalmazni kell.
+[^215]: Az 52. § n) pontját a 266/2012. (IX. 18.) Korm. rendelet 25. § b) pontja hatályon kívül helyezte, újonnan a 284/2013. (VII. 25.) Korm. rendelet 1. §-a iktatta be, szövege a 365/2013. (X. 17.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^216]: Az 52. § o) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (33) bekezdés b) pontja, a 94/2012. (V. 11.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.
+[^217]: Az 52. § t) pontját a 266/2012. (IX. 18.) Korm. rendelet 25. § b) pontja hatályon kívül helyezte, újonnan a 310/2012. (XI. 6.) Korm. rendelet 18. § (6) bekezdése iktatta be. Ez utóbbi módosító rendelet 11. §-a alapján a folyamatban levő ügyekben is alkalmazni kell.
+[^218]: Az 52. § u) pontját a 310/2012. (XI. 6.) Korm. rendelet 18. § (6) bekezdése iktatta be. E módosító rendelet 11. §-a alapján a folyamatban levő ügyekben is alkalmazni kell.
+[^219]: Az 52. § v) pontját a 310/2012. (XI. 6.) Korm. rendelet 18. § (6) bekezdése iktatta be. E módosító rendelet 11. §-a alapján a folyamatban levő ügyekben is alkalmazni kell.
+[^220]: Az 52. § w) pontját a 310/2012. (XI. 6.) Korm. rendelet 18. § (6) bekezdése iktatta be. E módosító rendelet 11. §-a alapján a folyamatban levő ügyekben is alkalmazni kell.
+[^221]: Az 52. § x) pontját a 310/2012. (XI. 6.) Korm. rendelet 18. § (6) bekezdése iktatta be. E módosító rendelet 11. §-a alapján a folyamatban levő ügyekben is alkalmazni kell.
+[^222]: Az 52. § y) pontját a 310/2012. (XI. 6.) Korm. rendelet 18. § (6) bekezdése iktatta be. E módosító rendelet 11. §-a alapján a folyamatban levő ügyekben is alkalmazni kell.

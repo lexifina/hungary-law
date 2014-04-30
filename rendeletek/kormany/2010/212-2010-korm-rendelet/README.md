@@ -69,3 +69,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-212-20-
 | 2014-01-19 | 2010-212-20-22.61 | 439/2013. (XI. 20.) Korm. rendelet |
 | 2014-04-02 | 2010-212-20-22.62 | 108/2014. (IV. 1.) Korm. rendelet |
 | 2014-04-15 | 2010-212-20-22.63 | 96/2014. (III. 25.) Korm. rendelet |
+| 2014-04-30 | 2010-212-20-22.64 | 152/2014. (VI. 6.) Korm. rendelet |

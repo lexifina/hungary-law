@@ -2,7 +2,7 @@
 
 a) előkészíti különösen a kutatás-fejlesztésről és a technológiai innovációról szóló jogszabályokat, továbbá e tárgykörökben felhatalmazás alapján miniszteri rendeleteket ad ki,
 
-b)[^363] az érintett miniszterekkel együttműködve előkészíti a kutatás-fejlesztést és technológiai innovációt érintő kormányzati döntéseket, stratégiákat és a hozzá kapcsolódó programokat, koordinálja azok megvalósítását,
+b)[^368] az érintett miniszterekkel együttműködve előkészíti a kutatás-fejlesztést és technológiai innovációt érintő kormányzati döntéseket, stratégiákat és a hozzá kapcsolódó programokat, koordinálja azok megvalósítását,
 
 c) összehangolja a hazai és az európai uniós kutatás-fejlesztési és innovációs közfinanszírozású támogatási forrásokat, elősegíti azok hatékony felhasználását,
 
@@ -14,10 +14,10 @@ f) intézkedéseket dolgoz ki az innovatív kis- és középvállalkozások fejl
 
 g) szervezi a kutatás-fejlesztés és innovációs terület társadalmi elfogadottságának és elismertségének növelésére irányuló központi programokat,
 
-h)[^364] irányítja a Nemzeti Innovációs Hivatalt,
+h)[^369] irányítja a Nemzeti Innovációs Hivatalt,
 
-i)[^365] rendelkezik a Kutatási és Technológiai Innovációs Alap felett.
+i)[^370] rendelkezik a Kutatási és Technológiai Innovációs Alap felett.
 
-[^363]: A 83. § b) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (52) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^364]: A 83. § h) pontja a 303/2010. (XII. 23.) Korm. rendelet 10. § (1) bekezdése szerint módosított szöveg.
-[^365]: A 83. § i) pontját az 561/2013. (XII. 31.) Korm. rendelet 10. §-a iktatta be.
+[^368]: A 83. § b) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (52) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^369]: A 83. § h) pontja a 303/2010. (XII. 23.) Korm. rendelet 10. § (1) bekezdése szerint módosított szöveg.
+[^370]: A 83. § i) pontját az 561/2013. (XII. 31.) Korm. rendelet 10. §-a iktatta be.

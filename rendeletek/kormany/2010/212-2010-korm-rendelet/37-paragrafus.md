@@ -1,12 +1,10 @@
-## 36. §[^114]
-
 ## VI. Fejezet
 
 ## A BELÜGYMINISZTER SZAKPOLITIKAI FELADAT- ÉS HATÁSKÖRE
 
 ## 37. § A belügyminiszter (e fejezet alkalmazásában a továbbiakban: miniszter) a Kormány
 
-a)[^115]
+a)[^120]
 
 b) élet és vagyonbiztonság védelméért,
 
@@ -14,7 +12,7 @@ c) bűncselekmények megelőzéséért,
 
 d) büntetés-végrehajtásért,
 
-e)[^116] a polgári nemzetbiztonsági szolgálatok irányításáért,
+e)[^121] a polgári nemzetbiztonsági szolgálatok irányításáért,
 
 f) a Szervezett Bűnözés Elleni Koordinációs Központ irányításáért,
 
@@ -48,23 +46,22 @@ t) településüzemeltetésért,
 
 u) építésügyért,
 
-v)[^117] – a 40. § (4a) bekezdése szerinti eljárásokban – állampolgársági ügyekért,
+v)[^122] – a 40. § (4a) bekezdése szerinti eljárásokban – állampolgársági ügyekért,
 
-w)[^118] közfoglalkoztatásért,
+w)[^123] közfoglalkoztatásért,
 
-x)[^119] vízügyi igazgatási szervek irányításáért,
+x)[^124] vízügyi igazgatási szervek irányításáért,
 
-y)[^120] régészeti örökség és műemléki érték védelméért,
+y)[^125] régészeti örökség és műemléki érték védelméért,
 
-z)[^121] vízgazdálkodásért
+z)[^126] vízgazdálkodásért
 
 felelős tagja.
 
-[^114]: A 36. §-t a 178/2012. (VII. 26.) Korm. rendelet 8. § (3) bekezdés a) pontja hatályon kívül helyezte.
-[^115]: A 37. § a) pontját a 178/2012. (VII. 26.) Korm. rendelet 8. § (3) bekezdés b) pontja hatályon kívül helyezte.
-[^116]: A 37. § e) pontja a 267/2010. (XII. 3.) Korm. rendelet 41. § (14) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^117]: A 37. § v) pontját a 267/2010. (XII. 3.) Korm. rendelet 13. §-a iktatta be. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^118]: A 37. § w) pontját a 90/2011. (VI. 14.) Korm. rendelet 1. §-a iktatta be.
-[^119]: A 37. § x) pontját a 300/2011. (XII. 22.) Korm. rendelet 4. § (1) bekezdése iktatta be.
-[^120]: A 37. § y) pontját a 266/2012. (IX. 18.) Korm. rendelet 23. § (1) bekezdése iktatta be, szövege a 310/2012. (XI. 6.) Korm. rendelet 18. § (1) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 11. §-a alapján a folyamatban levő ügyekben is alkalmazni kell.
-[^121]: A 37. § z) pontját az 527/2013. (XII. 30.) Korm. rendelet 91. § (1) bekezdése iktatta be.
+[^120]: A 37. § a) pontját a 178/2012. (VII. 26.) Korm. rendelet 8. § (3) bekezdés b) pontja hatályon kívül helyezte.
+[^121]: A 37. § e) pontja a 267/2010. (XII. 3.) Korm. rendelet 41. § (14) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^122]: A 37. § v) pontját a 267/2010. (XII. 3.) Korm. rendelet 13. §-a iktatta be. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^123]: A 37. § w) pontját a 90/2011. (VI. 14.) Korm. rendelet 1. §-a iktatta be.
+[^124]: A 37. § x) pontját a 300/2011. (XII. 22.) Korm. rendelet 4. § (1) bekezdése iktatta be.
+[^125]: A 37. § y) pontját a 266/2012. (IX. 18.) Korm. rendelet 23. § (1) bekezdése iktatta be, szövege a 310/2012. (XI. 6.) Korm. rendelet 18. § (1) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 11. §-a alapján a folyamatban levő ügyekben is alkalmazni kell.
+[^126]: A 37. § z) pontját az 527/2013. (XII. 30.) Korm. rendelet 91. § (1) bekezdése iktatta be.

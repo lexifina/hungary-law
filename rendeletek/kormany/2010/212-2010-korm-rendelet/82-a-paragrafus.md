@@ -1,10 +1,10 @@
-82/A. §[^361] (1) A miniszter az európai uniós fejlesztési források felhasználásához kapcsolódó felelőssége körében
+82/A. §[^366] (1) A miniszter az európai uniós fejlesztési források felhasználásához kapcsolódó felelőssége körében
 
 a) biztosítja az európai fejlesztési források felhasználásával megvalósuló, külön jogszabályban meghatározott operatív programok irányító hatósági feladatainak ellátását,
 
 b) szakmailag felügyeli
 
-ba)[^362]
+ba)[^367]
 
 bb) DARFÜ Dél-alföldi Regionális Fejlesztési Ügynökség Nonprofit Kft.,
 
@@ -22,5 +22,5 @@ bh) Pro Regio Közép-Magyarországi Regionális Fejlesztési és Szolgáltató 
 
 tevékenységét.
 
-[^361]: A 82/A. §-t az 550/2013. (XII. 30.) Korm. rendelet 63. §-a iktatta be.
-[^362]: A 82/A. § (1) bekezdés b) pont ba) alpontját a 96/2014. (III. 25.) Korm. rendelet 5. § (2) bekezdés c) pontja hatályon kívül helyezte.
+[^366]: A 82/A. §-t az 550/2013. (XII. 30.) Korm. rendelet 63. §-a iktatta be.
+[^367]: A 82/A. § (1) bekezdés b) pont ba) alpontját a 96/2014. (III. 25.) Korm. rendelet 5. § (2) bekezdés c) pontja hatályon kívül helyezte.

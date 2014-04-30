@@ -8,7 +8,7 @@ b) javaslatot tesz a Kormány törvényalkotási programjára,
 
 (3) A miniszter a Kormánynak az Országgyűléssel való kapcsolattartásáért való felelőssége körében, a Miniszterelnökséget vezető államtitkárral együttműködve
 
-a)[^13]
+a)[^14]
 
 b) elősegíti és szervezi a Kormány és az országgyűlési képviselőcsoportok közötti együttműködést,
 
@@ -20,11 +20,11 @@ e) gondoskodik a Kormány által elfogadott törvényalkotási program, törvén
 
 f) figyelemmel kíséri a benyújtott anyagok helyzetének további alakulását, segíti a törvényalkotási program országgyűlési érvényesítését,
 
-g)[^14]
+g)[^15]
 
 h) ellátja a napirenden kívüli felszólalások, valamint az országgyűlési képviselői interpellációk, kérdések és azonnali kérdések megválaszolásával kapcsolatos szervezési feladatokat, ennek keretében javaslatot tesz a válaszadó személyére, illetőleg a miniszterelnök megbízása alapján kijelöli a válaszadót,
 
 i) figyelemmel kíséri a kormányzati intézkedést igénylő bizottsági és képviselői javaslatokat, közreműködik a szükséges intézkedések előkészítésében.
 
-[^13]: A 3. § (3) bekezdés a) pontját a 118/2012. (VI. 26.) Korm. rendelet 9. § (2) bekezdés a) pontja hatályon kívül helyezte.
-[^14]: A 3. § (3) bekezdés g) pontját a 118/2012. (VI. 26.) Korm. rendelet 9. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^14]: A 3. § (3) bekezdés a) pontját a 118/2012. (VI. 26.) Korm. rendelet 9. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^15]: A 3. § (3) bekezdés g) pontját a 118/2012. (VI. 26.) Korm. rendelet 9. § (2) bekezdés a) pontja hatályon kívül helyezte.
