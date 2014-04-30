@@ -18,11 +18,11 @@ e) a főfafaj esetében az erdőtervezéskor fennálló állapot szerinti csúcs
 
 (3) A célprogram előírásai:
 
-a) az első kifizetési kérelem benyújtásának időpontjáig a fakitermelést úgy kell végrehajtani, hogy az erdőrészlet területének legalább 25%-áról, legfeljebb 50%-áról lehet a fákat eltávolítani,
+a)[^43] az első kifizetési kérelem benyújtásának időpontjáig a fakitermelést, amely lehet tarvágás vagy fokozatos felújítóvágás, úgy kell végrehajtani, hogy az erdőrészlet területének legalább 25%-áról kell, de legfeljebb 50%-áról lehet a fákat eltávolítani,
 
 b) az összefüggő véghasználati terület nagysága legfeljebb 0,5 ha lehet,
 
-c) a szomszédos véghasználati területek a határoló fák törzsétől mérve nem kevesebb, mint 30 méteres távolságban találhatóak,
+c)[^44] a szomszédos összefüggő véghasználati területek távolsága a határoló fák törzsétől mérve nem lehet kisebb, mint 30 méter,
 
 d) a visszamaradó faállomány egyedei között a fahasználatot követő 1 éven belül a csúcsszáradt egyedek elegyaránya nem haladhatja meg a 10%-ot,
 
@@ -48,6 +48,8 @@ n) a földön fekvő holtfát darabolni nem lehet.
 
 (4) A célprogram időtartama 7 év.
 
-(5)[^40] A támogatás éves mértéke hektáronként 224 eurónak megfelelő forintösszeg.
+(5)[^45] A támogatás éves mértéke hektáronként 224 eurónak megfelelő forintösszeg.
 
-[^40]: A 18. § (5) bekezdése a 44/2012. (V. 3.) VM rendelet 20. §-ával megállapított szöveg.
+[^43]: A 18. § (3) bekezdés a) pontja az 53/2014. (IV. 29.) VM rendelet 7. § (4) bekezdésével megállapított szöveg.
+[^44]: A 18. § (3) bekezdés c) pontja az 53/2014. (IV. 29.) VM rendelet 7. § (5) bekezdésével megállapított szöveg.
+[^45]: A 18. § (5) bekezdése a 44/2012. (V. 3.) VM rendelet 20. §-ával megállapított szöveg.

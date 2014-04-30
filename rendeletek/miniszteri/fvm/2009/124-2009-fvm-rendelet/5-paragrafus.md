@@ -16,8 +16,8 @@ d) a támogatási kérelem benyújtását megelőző két naptári évben e rend
 
 (4) Ha a támogatási jogosultság megállapítása során az Adattárban szereplő adatok szolgálnak alapul, az Adattárnak a támogatási kérelem benyújtási időszakának utolsó napja szerint aktuális adatait kell figyelembe venni.
 
-(5)[^7] A célprogramok során – a közjóléti célú erdők fenntartása célprogram kivételével – csak az 1. melléklet szerinti, az adott erdészeti tájban kiemelten támogatható vagy támogathatóként feltüntetett faállománytípusok kialakítása és fenntartása érdekében végzett erdőgazdálkodási tevékenység támogatható.
+(5)[^7] A célprogramok során – a szálaló erdőgazdálkodás és a közjóléti célú erdők fenntartása célprogramok kivételével – csak az 1. melléklet szerinti, az adott erdészeti tájban kiemelten támogatható vagy támogathatóként feltüntetett faállománytípusok kialakítása és fenntartása érdekében végzett erdőgazdálkodási tevékenység támogatható.
 
 [^5]: Az 5. § (1) bekezdés a) pontja a 44/2012. (V. 3.) VM rendelet 14. § (1) bekezdésével megállapított szöveg.
 [^6]: Az 5. § (1) bekezdés c) pontja a 18/2013. (III. 21.) VM rendelet 7. § (1) bekezdésével megállapított, a 68/2013. (VII. 29.) VM rendelet 7. § (7) bekezdése szerint módosított szöveg.
-[^7]: Az 5. § (5) bekezdése a 104/2012. (X. 1.) VM rendelet 2. §-ával megállapított szöveg.
+[^7]: Az 5. § (5) bekezdése az 53/2014. (IV. 29.) VM rendelet 7. § (1) bekezdésével megállapított szöveg.

@@ -1,36 +1,38 @@
 ## AZ EGYES FAÁLLOMÁNYTÍPUS-CSOPORTOK ELVÁRT JELLEMZŐI AZ ERDŐ-KÖRNYEZETVÉDELMI CÉLPROGRAMOK ÉRTÉKELÉSE SZEMPONTJÁBÓL
 
-| Faállománytípus- csoport | Főfafaj | Mesterséges erdősítés | Természetes felújítás |
+|  | A | B | C | D | E | F | G |
 
-| Első kiviteli minimális tőszám hektáronként főfafajból | Főfafaj/ célállományba tartozó összes fafaj minimális tőszáma a célprogram befejezésekor* | Főfafaj/ célállományba tartozó összes fafaj egymáshoz mért maximális távolsága a célprogram** befejezésekor | Főfafaj minimális tőszáma a célprogram befejezésekor* | Átlagos záródás/borítás% a célprogram befejezésekor |
+| 1. | Faállomány- típus- csoport | Főfafaj | Mesterséges erdősítés | Természetes felújítás |
 
-| Bükkösök | B | 8 000 | 4 500 (7 500) | 1,5 (1,2) | 8 000 (15 000) | 90 |
+| 2. | Első kiviteli minimális tőszám hektáronként főfafajból | Főfafaj/ célállományba tartozó összes fafaj minimális tőszáma a célprogram befejezésekor* | Főfafaj/ célállományba tartozó összes fafaj egymáshoz mért maximális távolsága a célprogram** befejezésekor | Főfafaj minimális tőszáma** | Átlagos záródás/borítás% |
 
-| Gyertyános- kocsánytalan tölgyesek | KTT | 8 000 | KTT 4 500 GY 1 500 (7 500) | KTT 1,5 GY 2,6 (1,2) | 8 000 (15 000) | 90 |
+| 3. | Bükkösök | B | 8 000 | 4 500 (7 500) | 1,5 (1,2) | 8 000 (15 000) | 90 |
 
-| Gyertyános- kocsányos tölgyesek | KST | 8 000 | KST 4 000 GY 1 500 (7 500) | 1,6 2,6 (1,2) | 8 000 (15 000) | 90 |
+| 4. | Gyertyános- kocsánytalan tölgyesek | KTT | 8 000 | KTT 4 500 GY 1 500 (7 500) | KTT 1,5 GY 2,6 (1,2) | 8 000 (15 000) | 90 |
 
-| Kocsánytalan tölgyesek | KTT | 8 000 | 4 500 (7 500) | 1,5 (1,2) | 8 000 (15 000) | 90 |
+| 5. | Gyertyános- kocsányos tölgyesek | KST | 8 000 | KST 4 000 GY 1 500 (7 500) | 1,6 2,6 (1,2) | 8 000 (15 000) | 90 |
 
-| Kocsányos tölgyesek | KST | 8 000 | 4 000 (7 500) | 1,6 (1,2) | 8 000 (15 000) | 90 |
+| 6. | Kocsánytalan tölgyesek | KTT | 8 000 | 4 500 (7 500) | 1,5 (1,2) | 8 000 (15 000) | 90 |
 
-| Cseresek | CS | 8 000 | 4 500 (7 500) | 1,5 (1,2) | 8 000 (15 000) | 90 |
+| 7. | Kocsányos tölgyesek | KST | 8 000 | 4 000 (7 500) | 1,6 (1,2) | 8 000 (15 000) | 90 |
 
-| Molyhos tölgyesek | MOT | 8 000 | 3 000 (5 000) | 1,8 (1,4) | 3 000 (6 000) | 80 |
+| 8. | Cseresek | CS | 8 000 | 4 500 (7 500) | 1,5 (1,2) | 8 000 (15 000) | 90 |
 
-| Juharosok | J | 8 000 | 4 000 (6 000) | 1,6 (1,3) | 8 000 (15 000) | 90 |
+| 9. | Molyhos tölgyesek | MOT | 8 000 | 3 000 (5 000) | 1,8 (1,4) | 3 000 (6 000) | 80 |
 
-| Kőrisesek | K | 8 000 | 4 000 (6 000) | 1,6 (1,3) | 8 000 (15 000) | 90 |
+| 10. | Juharosok | J | 8 000 | 4 000 (6 000) | 1,6 (1,3) | 8 000 (15 000) | 90 |
 
-| Hazai nyárasok | HNY | 4 500 | 2 000 (3 000) | 2,2 (1,8) | gyökérsarj 4 000 (6 000) | 80 |
+| 11. | Kőrisesek | K | 8 000 | 4 000 (6 000) | 1,6 (1,3) | 8 000 (15 000) | 90 |
 
-| Füzesek | FÜ | 4 500 | 3 000 (5 000) | 1,8 (1,4) | 4 000 (8 000) | 90 |
+| 12. | Hazai nyárasok | HNY | 4 500 | 2 000 (3 000) | 2,2 (1,8) | gyökérsarj 4 000 (6 000) | 80 |
 
-| Égeresek | MÉ | 4 500 | 2 000 (3 000) | 2,2 (1,8) | sarj 4 000 (6 000) | 80 |
+| 13. | Füzesek | FÜ | 4 500 | 3 000 (5 000) | 1,8 (1,4) | 4 000 (8 000) | 90 |
 
-| Hársasok | H | 8 000 | 4 500 (7 500) | 1,5 (1,2) | 4 000 (8 000) | 90 |
+| 14. | Égeresek | MÉ | 4 500 | 2 000 (3 000) | 2,2 (1,8) | sarj 4 000 (6 000) | 80 |
 
-| Nyíresek | NYI | 4 500 | 2 000 (3 000) | 2,2 (1,8) | 4 000 (8 000) | 90 |
+| 15. | Hársasok | H | 8 000 | 4 500 (7 500) | 1,5 (1,2) | 4 000 (8 000) | 90 |
+
+| 16. | Nyíresek | NYI | 4 500 | 2 000 (3 000) | 2,2 (1,8) | 4 000 (8 000) | 90 |
 
 ## * A zárójelben szereplő értékek az értékelés során figyelembe vehető összes fafajra, a felette lévő érték a főfafajra vonatkozó elvárt minimális tőszámot mutatják.
 
@@ -40,15 +42,15 @@
 
 ## – Ha a fő- és értékelésbe bevonható mellékfafajok együttes tőszáma a fenti táblázat szerint ugyan elegendő a vizsgált területen, de azok egymáshoz viszonyított eloszlása nem egyenletes az erdőrészletben, akkor még sikeresnek minősíthető az erdősítés, ha
 
-## = a heterogén állományösszetétel a termőhelyi viszonyokkal vagy természetes felújítások esetén az anyaállomány eredeti változatosságával összhangban van,
+## =a heterogén állományösszetétel a termőhelyi viszonyokkal vagy természetes felújítások esetén az anyaállomány eredeti változatosságával összhangban van,
 
-## = a főfafaj egyedszáma az erdőrészlet 20%-ánál, de maximum 2,00 ha-nál nagyobb összterületen nem eshet a fenti táblázatban átlagos minimális elvárásként megadott érték 30%-a alá,
+## =a főfafaj egyedszáma az erdőrészlet 20%-ánál, de maximum 2,00 ha-nál nagyobb összterületen nem eshet a fenti táblázatban átlagos minimális elvárásként megadott érték 30%-a alá,
 
-## = az erdőrészlet teljes faállománya az erdősítés befejezésétől a következő véghasználatig egyébként egységesen kezelhető.
+## =az erdőrészlet teljes faállománya az erdősítés befejezésétől a következő véghasználatig egyébként egységesen kezelhető.
 
 ## – Az V–VI. fatermési osztályba sorolt erdőrészletekben végzett erdősítések sikeresnek minősülnek a program befejezésének évében, ha azok a táblázatban megadott tőszám és borítottsági elvárásoknak átlagosan 50%-ban (erdőssztyepp erdőkben 30%-ban) megfelelnek. Az ilyen kedvezőtlen termőhelyi viszonyú erdősítésekben ugyancsak elfogadható még, ha abban legfeljebb 0,5 ha-os, egymással nem érintkező üres foltok találhatóak, amelyek összes területe azonban nem haladja meg az erdőrészlet területének 20%-át.
 
-9. melléklet a 124/2009. (IX. 24.) FVM rendelethez[^66]
+9. melléklet a 124/2009. (IX. 24.) FVM rendelethez[^75]
 
 ## Az egyes előírásoknak való meg nem felelés esetén, a meg nem felelés súlyosságának, mértékének, valamint folytonosságának alapján meghatározott jogkövetkezmények
 
@@ -76,7 +78,7 @@
 
 | 10. |  |  | A származási igazolások az ellenőrzési eljárás időpontjáig egyáltalán nem vagy nem teljes körűen kerültek megküldésre, ezért az ügyfelet az ellenőrzés lefolytatását követően hiánypótoltani kellett, aminek egyáltalán nem vagy nem teljeskörűen tett eleget, illetve a beküldött igazolások nem vagy nem teljes körűen támasztják alá az elvégzett munkaműveletet. | súlyos | erdőrészlet szintű | eseti | E-Kizár |
 
-| 11. | 6. § (1) bekezdés e) pont | A támogatási határozat közlését követő második kifizetési kérelem benyújtási időszakának vége előtt az Európai Mezőgazdasági Vidékfejlesztési Alapból az Új Magyarország Vidékfejlesztési Program I. és II. intézkedéscsoportjához kapcsolódó képzések tárgyában nyújtandó támogatások részletes feltételeiről szóló 139/2008. (X. 22.) FVM rendelet 3. § (1) bekezdés b) pont bf) alpontja szerinti kötelező szakmai képzésen részt venni. | Az ügyfél az előírt határidőn belül nem vett részt a képzésen. | súlyos | kérelem szintű | maradandó | C-Kizár |
+| 11. | 6. § (1) bekezdés e) pont | A támogatási határozat közlését követő második kifizetési kérelem benyújtási időszakának vége előtt az Európai Mezőgazdasági Vidékfejlesztési Alapból az Új Magyarország Vidékfejlesztési Program I. és II. intézkedéscsoportjához kapcsolódó képzések tárgyában nyújtandó támogatások részletes feltételeiről szóló 139/2008. (X. 22.) FVM rendelet 3. § (1) bekezdés b) pont bf) alpontja szerinti kötelező szakmai képzésen részt venni | Az ügyfél az előírt határidőn belül nem vett részt a képzésen. | közepes | kérelem szintű | maradandó | A második évtől kezdődően az adott évekre vonatkozó támogatási összeget 30%-kal csökkenteni kell. A második évben és az azt követő években jogosulatlanul felvett támogatást a jogosulatlanul igénybevett támogatásokra vonatkozó szabályok szerint vissza kell fizetni. |
 
 | 12. | 6. § (1) bekezdés f) pont | A támogatási célprogramokhoz tartozó előírások, munkaműveletek elvégzését az évenkénti bontásban vezetett munkanaplóban, legkésőbb azok elvégzésétől számított egy héten belül rögzíteni, amelynek aláírt másolatát a kifizetési kérelem benyújtására nyitva álló időszak végéig az erdészeti hatósághoz benyújtani. | A munkanaplóban található adatok alapján a támogatási jogosultság egyértelműen eldönthető, de a dokumentálás nem az előírásoknak megfelelő. | enyhe | erdőrészlet szintű | egyedi, rövidtávú | E-10% |
 
@@ -124,7 +126,9 @@
 
 | 34. | 16. § (3) bekezdés f) pont | A szálaló üzemmódban a visszatérési idő legfeljebb 5 év. | Az adott erdőrészletben a visszatérési idő meghaladta az 5 évet. | súlyos | erdőrészlet szintű | maradandó | E-Kizár |
 
-| 35. | 16. § (3) bekezdés g) pont | Szálaló üzemmódban a támogatási időszak alatt az erdőrészlet területének legfeljebb 10%-án nyitható vagy bővíthető lék, ahol az egyes lékek mérete nem haladhatja meg az 500 m2-t. | Az erdőrészlet területének több mint 10%-án nyitottak vagy bővítettek léket. (A 10%-os limit meghatározásakor a lékek összterületére vonatkozóan 10%-os abszolút területi tolerancia alkalmazandó négyzetméterben kifejezve. Ha a toleranciával csökkentett érték megfelel a 10%-os kritériumnak, azt elfogadhatónak kell tekinteni.) | súlyos | erdőrészlet szintű | maradandó | E-Kizár |
+| 35. | 16. § (3) bekezdés g) pont | Szálaló üzemmódban a támogatási időszak alatt az erdőrészlet területének legfeljebb 10%-án nyitható vagy bővíthető lék, ahol az egyes lékek mérete nem haladhatja meg az 500 m2-t. | Az erdőrészlet területének több mint 10%-án nyitottak vagy bővítettek léket, illetve az erdőrészleten 500 m2-t meghaladó területű lék található. (A 10%-os limit meghatározásakor a lékek összterületére vonatkozóan 10%-os abszolút területi tolerancia alkalmazandó négyzetméterben kifejezve. Ha a toleranciával csökkentett érték megfelel a 10%-os kritériumnak, azt elfogadhatónak kell tekinteni. Az egyes lékek területének meghatározásakor 10%-os abszolút területi toleranciát kell alkalmazni.) | súlyos | erdőrészlet szintű | maradandó | E-Kizár |
+
+| 35/A |  |  | A lék területi határérték átlépése miatt kizárt erdőrészletek száma eléri az adott célprogram vonatkozásában az adott támogatási kérelemben szereplő összes erdőrészlet 50%-át. | súlyos | kérelem szintű | maradandó | C-Kizár |
 
 | 36. | 16. § (3) bekezdés h) pont | A támogatási időszak alatt nyitott vagy bővített lékek középpontját karóval jól azonosíthatóan ki kell jelölni. | Az adott erdőrészletben a program ideje alatt nyitott valamely lékből hiányzik az azonosítást szolgáló karó. | enyhe | erdőrészlet szintű | rövidtávú | E-10% |
 
@@ -136,15 +140,15 @@
 
 | 40. | 16. § (3) bekezdés j) pont | Fakitermelés tervezése esetén a kitermelésre szánt egyedeket azok törzsén jól láthatóan meg kell jelölni, a jelölés időpontját a munkanaplóban rögzíteni kell. | A munkanaplóba történő bejegyzés nem, illetve nem teljeskörűen történt meg. | közepes | erdőrészlet | rövidtávú | E-10% |
 
-| 41. | 16. § (3) bekezdés k) pont | A támogatási időszak ötödik évében, valamint az utolsó kifizetési kérelem benyújtására nyitva álló időszak végén a támogatási időszak alatt nyitott vagy bővített lékekben – az (1) bekezdés c) pont szerint jogosult erdőrészletek esetében is – az 1. melléklet szerinti faállománytípusra jellemző fafajokból álló újulat nélküli összes terület nagysága nem haladhatja meg a lékek összterületének 10%-át. | Az erdőrészlet területén található, a program ideje alatt nyitott valamely lékben az újulat nélküli terület meghaladja a 10%-ot, de nem éri el a 15%-ot. | enyhe | erdőrészlet szintű | rövidtávú | E-10% |
+| 41. | 16. § (3) bekezdés k) pont | A támogatási időszak ötödik évében, valamint az utolsó kifizetési kérelem benyújtására nyitva álló időszak végén, a támogatási időszak alatt nyitott vagy bővített lékekben - az (1) bekezdés c) pontja szerint jogosult erdőrészletek esetében is - a lék területén az 1. melléklet szerint kialakított faállománytípusra jellemző fafajokból álló, ép csúcshajtással rendelkező újulat tőszámának el kell érnie a 8. melléklet szerinti természetes felújításra vonatkozó tőszámot. | Az ép csúcshajtással rendelkező újulat tőszáma nem éri el a 8. melléklet szerinti a természetes felújításra vonatkozó mértéket az erdőrészletben található összes lék közül a lékek több mint 20 %-ban de legfeljebb 40 %-ban. | enyhe | erdőrészlet szintű | rövidtávú | E-30% |
 
-| 42. |  | Az erdőrészlet területén található, a program ideje alatt nyitott valamely lékben az újulat nélküli terület 15 és 20% közé esik. | közepes | erdőrészlet szintű | rövidtávú | E-30% |
+| 42. |  | Az ép csúcshajtással rendelkező újulat tőszáma nem éri el a 8. melléklet szerinti a természetes felújításra vonatkozó mértéket az erdőrészletben található összes lék közül a lékek több mint 40 %-ában | súlyos | erdőrészlet szintű | maradandó | E-kizár |
 
-| 43. |  | Az erdőrészlet területén található, a program ideje alatt nyitott valamely lékben az újulat nélküli terület meghaladja a 20%-ot. | súlyos | erdőrészlet szintű | maradandó | E-Kizár |
+| 43. |  | Az újulat tőszáma miatt kizárt erdőrészletek száma eléri az adott célprogram vonatkozásában az adott támogatási kérelemben szereplő összes erdőrészlet 50%-át. | súlyos | kérelem szintű | maradandó | C-Kizár |
 
-| 44. |  | Az újulat nélküli terület miatt kizárt erdőrészletek száma eléri az adott célprogram vonatkozásában az adott támogatási kérelemben szereplő összes erdőrészlet 50%-át. | súlyos | kérelem szintű | maradandó | C-Kizár |
+| 44. |  |  |  |  |  |  |  |
 
-| 45. | 16. § (3) bekezdés l) pont | A lékben található újulati szint elegyességének az utolsó kifizetési kérelem benyújtására nyitva álló időszak végén az e rendelet 2. mellékletében szereplő mellékfafajok tekintetében az ott megjelölt mértéket el kell érni. | Az újulati szint elegyessége nem megfelelő. | közepes | erdőrészlet szintű | rövidtávú | E-30% |
+| 45. |  |  |  |  |  |  |  |
 
 | 46. | 16. § (3) bekezdés m) pont | A lékben található újulati szintben a támogatási időszak alatt 1 évesnél idősebb agresszíven terjedő, idegenhonos fa- és cserjefaj egyede nem lehet. | Az erdőrészletben a program ideje alatt nyitott valamely lékben, az adott évben 1 évesnél idősebb agresszíven terjedő, idegenhonos fa- és cserjefaj egyede található. | közepes | erdőrészlet szintű | maradandó | E-30% |
 
@@ -156,9 +160,9 @@
 
 | 50. | Az ápolási hiányosság miatt szankcionált erdőrészletek száma eléri az adott célprogram vonatkozásában az adott támogatási kérelemben szereplő összes erdőrészlet 50%-át. | súlyos | kérelem szintű | maradandó | C-Kizár |
 
-| 51. | 16. § (3) bekezdés o) pont | A támogatási időszak alatt a lékekben lévő újulati szintben, a lékek együttes területének 30%-át meghaladó területen a célállománytípus e rendelet 2. melléklete szerinti fafajain a csúcshajtás lerágásával okozott vadkárosítás nem haladhatja meg az összes vadkárosítás 30%-át. | A program ideje alatt nyitott lékek 30%-át meghaladó területen a csúcshajtás lerágásával okozott vadkárosítás nagyobb, mint 30%. | súlyos | erdőrészlet szintű | maradandó | E-100% |
+| 51. |  |  |  |  |  |  |  |
 
-| 52. | A program ideje alatt nyitott lékek 30%-át meghaladó területen a csúcshajtás lerágásával okozott ismétlődő vadkárosítás nagyobb, mint 30%. | súlyos | erdőrészlet szintű | maradandó | E-Kizár |
+| 52. |  |  |  |  |  |  |  |
 
 | 53. | 16. § (3) bekezdés p) pont | Az e rendelet 4. melléklete szerinti tartalommal, az aktuális természetbeni állapot alapján elkészített és az erdészeti hatóság által véleményezett törzslapokat az első és az utolsó kifizetési kérelem benyújtásáig el kell végezni. | Az ügyfél az ellenőrzés során a törzslapokat nem tudja bemutatni | közepes | erdőrészlet szintű | rövidtávú | E-30% |
 
@@ -202,13 +206,13 @@
 
 | 67. | Őshonos erdőállományok tarvágásos felújításának visszaszorítása célprogram |
 
-| 68. | 18. § (3) bekezdés a) pont | Az első kifizetési kérelem benyújtásának időpontjáig a fakitermelést úgy kell végrehajtani, hogy az erdőrészlet területének legalább 25%-áról, legfeljebb 50%-áról lehet a fákat eltávolítani. | Az adott erdőrészletben fahasználati munka nem vagy nem az előírt minimális mértékben történt meg. | közepes | erdőrészlet szintű | maradandó | E-100% |
+| 68. | 18. § (3) bekezdés a) pont | Az első kifizetési kérelem benyújtásának időpontjáig a fakitermelést, mely lehet tarvágás vagy fokozatos felújítóvágás, úgy kell végrehajtani, hogy az erdőrészlet területének legalább 25 %-áról kell, de legfeljebb 50 %-áról lehet a fákat eltávolítani. | Az adott erdőrészletben fahasználati munka nem vagy nem az előírt minimális mértékben történt meg. | közepes | erdőrészlet szintű | maradandó | E-100% |
 
 | 69. | Az adott erdőrészletben az engedélyezetnél nagyobb mértékű fahasználat történt. | súlyos | erdőrészlet szintű | maradandó | E-Kizár |
 
 | 70. | 18. § (3) bekezdés b) pont | Az összefüggő véghasználati terület nagysága legfeljebb 0,5 ha lehet. | Az erdőrészletben található valamely összefüggő véghasználati terület mérete meghaladja a határértéket. | súlyos | erdőrészlet szintű | maradandó | E-Kizár |
 
-| 71. | 18. § (3) bekezdés c) pont | A szomszédos véghasználati területek a határoló fák törzsétől mérve nem kevesebb mint 30 méteres távolságban találhatóak. | Két szomszédos véghasználati terület közötti távolság kevesebb mint 30 méter. | közepes | erdőrészlet szintű | hosszútávú | E-Kizár |
+| 71. | 18. § (3) bekezdés c) pont | A szomszédos összefüggő véghasználati területek távolsága a határoló fák törzsétől mérve nem lehet kisebb, mint 30 méter. | Két szomszédos összefüggő véghasználati terület közötti távolság kevesebb mint 30 méter. | közepes | erdőrészlet szintű | hosszútávú | E-Kizár |
 
 | 72. | 18. § (3) bekezdés d) pont | A visszamaradó faállomány egyedei között a fahasználatot követő 1 éven belül a csúcsszáradt egyedek elegyaránya nem haladhatja meg a 10%-ot. | A csúcsszáradt egyedek elegyaránya meghaladja az előírt határértéket | közepes | erdőrészlet szintű | hosszútávú | E-100% |
 
@@ -402,4 +406,4 @@
 
 | 11. | C-Kizár: | Az adott célprogramban a teljes terület támogatási jogosultsága megszűnik. Az adott évben jogosulatlanul felvett támogatást a jogosulatlanul igénybevett támogatásokra vonatkozó szabályok szerint vissza kell fizetni. |
 
-[^66]: A 9. melléklet a 44/2012. (V. 3.) VM rendelet 29. §-ával megállapított, a 104/2012. (X. 1.) VM rendelet 10. § (3) bekezdése, a 68/2013. (VII. 29.) VM rendelet 7. § (8) bekezdése szerint módosított szöveg.
+[^75]: A 9. melléklet a 44/2012. (V. 3.) VM rendelet 29. §-ával megállapított, a 104/2012. (X. 1.) VM rendelet 10. § (3) bekezdése, a 68/2013. (VII. 29.) VM rendelet 7. § (8) bekezdése, az 53/2014. (IV. 29.) VM rendelet 7. § (9) bekezdése és (10) bekezdés b) pontja szerint módosított szöveg.

@@ -8,7 +8,7 @@
 
 a) kora nagyobb, mint 60 év, hazai füzesek, hazai nyárasok, égeresek esetében nagyobb, mint 30 év,
 
-b)[^41] szálaló vagy átalakító üzemmódban van, vagy vágásérettség mutatója nagyobb, mint 15 év, és
+b)[^46] szálaló vagy átalakító üzemmódban van, vagy vágásérettség mutatója nagyobb, mint 15 év, és
 
 c) faállománytípusa az adott erdészeti tájban az 1. melléklet szerinti, valamely támogatható faállománytípusba sorolható.
 
@@ -22,14 +22,14 @@ b) ha a holtfa biztosítása fakitermeléssel történik, a kitermelt fák tőr�
 
 c) a földön fekvő holtfát darabolni nem lehet,
 
-d)[^42] a mikroélőhelyen meghagyott 20 cm átmérőt meghaladó méretű lábon álló és fekvő holt fákat jól látható módon, festéssel sorszámokkal kell ellátni. E sorszámok feltüntetésével fakészletfelvételt kell készíteni, és annak az ügyfél által aláírt kivonatát az első kifizetési kérelemmel együtt kell benyújtani,
+d)[^47] a mikroélőhelyen meghagyott 20 cm átmérőt meghaladó méretű lábon álló és fekvő holt fákat jól látható módon, festéssel sorszámokkal kell ellátni. E sorszámok feltüntetésével fakészletfelvételt kell készíteni, és annak az ügyfél által aláírt kivonatát az első kifizetési kérelemmel együtt kell benyújtani,
 
 e) a támogatási időszak utolsó kifizetési kérelem benyújtására nyitva álló időszak végét követően a támogatás tárgyát képező, minimálisan 10 m3/ha faanyag meglétét továbbra is biztosítani kell.
 
 (4) A célprogram időtartama 7 év.
 
-(5)[^43] A támogatás éves mértéke hektáronként 123 eurónak megfelelő forintösszeg.
+(5)[^48] A támogatás éves mértéke hektáronként 123 eurónak megfelelő forintösszeg.
 
-[^41]: A 19. § (1) bekezdés b) pontja a 44/2012. (V. 3.) VM rendelet 21. § (1) bekezdésével megállapított szöveg.
-[^42]: A 19. § (3) bekezdés d) pontja a 44/2012. (V. 3.) VM rendelet 21. § (2) bekezdésével megállapított szöveg.
-[^43]: A 19. § (5) bekezdése a 44/2012. (V. 3.) VM rendelet 21. § (3) bekezdésével megállapított szöveg.
+[^46]: A 19. § (1) bekezdés b) pontja a 44/2012. (V. 3.) VM rendelet 21. § (1) bekezdésével megállapított szöveg.
+[^47]: A 19. § (3) bekezdés d) pontja a 44/2012. (V. 3.) VM rendelet 21. § (2) bekezdésével megállapított szöveg.
+[^48]: A 19. § (5) bekezdése a 44/2012. (V. 3.) VM rendelet 21. § (3) bekezdésével megállapított szöveg.
