@@ -16,7 +16,7 @@
 
 | neve: | lakcíme: | azonosító iratának típusa: | száma: |  |
 
-## Alulírott – a fent nevezett tanuló nevében – a nemzeti köznevelés tankönyvellátásának rendjéről szóló 2003. évi CCXXXII. törvény 4. § (2) bekezdésében biztosított normatív kedvezmény igénybevételére vonatkozó igényt nyújtok be, mert a hivatkozott jogszabályban meghatározott feltételek közül az alábbi teljesül:
+## Alulírott – a fent nevezett tanuló nevében – a nemzeti köznevelés tankönyvellátásának rendjéről szóló 2013. évi CCXXXII. törvény 4. § (2) bekezdésében biztosított normatív kedvezmény igénybevételére vonatkozó igényt nyújtok be, mert a hivatkozott jogszabályban meghatározott feltételek közül az alábbi teljesül:
 
 ## A tanuló:
 
@@ -52,7 +52,7 @@
 
 ## Alulírott – a fent nevezett tanuló nevében –
 
-## a nemzeti köznevelés tankönyvellátásának rendjéről szóló 2003. évi CCXXXII. törvény 4. § (2) bekezdésében biztosított normatív kedvezményeken túl az alábbi kedvezmény igénybevételére jelentkezem:
+## a nemzeti köznevelés tankönyvellátásának rendjéről szóló 2013. évi CCXXXII. törvény 4. § (2) bekezdésében biztosított normatív kedvezményeken túl az alábbi kedvezmény igénybevételére jelentkezem:
 
 ## Dátum: ....................................
 
