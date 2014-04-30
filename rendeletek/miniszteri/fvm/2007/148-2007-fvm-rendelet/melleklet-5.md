@@ -10,7 +10,7 @@
 
 | 2. |  | Az engedélyes azonosító adatai |
 
-| 2.1. |  | Az ügyfél-nyilvántartási száma |
+| 2.1. |  | Ügyfél-azonosító |
 
 | 2.2. |  | A telephely szerinti élelmiszerlánc-biztonsági és állategészségügyi igazgatóság vagy a Magyar Állatorvosi Kamara engedélyének száma, keltezése |
 
@@ -32,4 +32,4 @@
 
 | 6. |  | Keltezés, a kedvezményezett és az engedélyes (cégszerű) aláírása |
 
-[^57]: Az 5. számú mellékletet a 23/2011. (III. 28.) VM rendelet 11. § (4) bekezdése iktatta be, szövege a 77/2012. (VII. 27.) VM rendelet 4. §-ával megállapított, a 33/2014. (IV. 4.) VM rendelet 26. § d) pontja - a 8. melléklet 1. pontja - szerint módosított szöveg. [Az 5. számú mellékletnek a 33/2014. (IV. 4.) VM rendelet 26. § d) pontjával - a 8. melléklet 2. pontjával - elrendelt módosítása, amely szerint a 148/2007. (XII. 8.) FVM rendelet 4. számú melléklet 2. pont 2.1. alpontja helyébe a következő rendelkezés lép: „2.1. Ügyfél-azonosító”, nem vezethető át.]
+[^57]: Az 5. számú mellékletet a 23/2011. (III. 28.) VM rendelet 11. § (4) bekezdése iktatta be, szövege a 77/2012. (VII. 27.) VM rendelet 4. §-ával megállapított, a 33/2014. (IV. 4.) VM rendelet 26. § d) pontja - a 8. melléklet 1. pontja, az 53/2014. (IV. 29.) VM rendelet 2. §-a szerint módosított szöveg.
