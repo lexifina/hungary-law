@@ -1,12 +1,12 @@
-## 5. §[^6]
+## 5. §[^8]
 
 ## 6. A civil szervezetek bírósági eljárásokban alkalmazandó űrlapjairól szóló 11/2012. (II. 29.) KIM rendelet módosítása
 
-6. § (1)[^7]
+6. § (1)[^9]
 
-(2)–(3)[^8]
+(2)–(3)[^10]
 
-(4)–(31)[^9]
+(4)–(31)[^11]
 
 (32) Az R. 44. melléklet 2.7. pontja a következő szöveggel lép hatályba:
 
@@ -16,7 +16,7 @@
 
 ## „2.8. egyéb, törvényben meghatározott egyesületi forma”
 
-(34)[^10]
+(34)[^12]
 
 (35) Az R.
 
@@ -36,7 +36,7 @@ d) 26. melléklet 1.1. pontjában az „– alapítóval –” szövegrész az 
 
 e) 37. melléklet 5. pontjában a „2012.” szövegrész a „2011.” szöveggel,
 
-f)–g)[^11]
+f)–g)[^13]
 
 h) 44. melléklet
 
@@ -50,17 +50,17 @@ hb) 2.5. pontjában a „2012.” szövegrész a „2011.” szöveggel
 
 a) 2. melléklet 4., 4.1. és 4.2. pontja és
 
-b)[^12]
+b)[^14]
 
-(37)[^13]
+(37)[^15]
 
 (38) Az R. a 12–17. melléklet szerinti 36/A–36/F. melléklettel egészül ki.
 
-[^6]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^7]: A 6. § (1) bekezdése a 8. § (4) bekezdése alapján 2015. január 1-jén lép hatályba.
-[^8]: A 6. § (2)–(3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^9]: A 6. § (4)–(31) bekezdése a 8. § (4) bekezdése alapján 2015. január 1-jén lép hatályba.
-[^10]: A 6. § (34) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^11]: A 6. § (35) bekezdés f)–g) pontja a 8. § (4) bekezdése alapján 2015. január 1-jén lép hatályba.
-[^12]: A 6. § (36) bekezdés b) pontja a 8. § (4) bekezdése alapján 2015. január 1-jén lép hatályba.
-[^13]: A 6. § (37) bekezdése a 8. § (4) bekezdése alapján 2015. január 1-jén lép hatályba.
+[^8]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 6. § (1) bekezdése a 8. § (4) bekezdése alapján 2015. január 1-jén lép hatályba.
+[^10]: A 6. § (2)–(3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 6. § (4)–(31) bekezdése a 8. § (4) bekezdése alapján 2015. január 1-jén lép hatályba.
+[^12]: A 6. § (34) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 6. § (35) bekezdés f)–g) pontja a 8. § (4) bekezdése alapján 2015. január 1-jén lép hatályba.
+[^14]: A 6. § (36) bekezdés b) pontja a 8. § (4) bekezdése alapján 2015. január 1-jén lép hatályba.
+[^15]: A 6. § (37) bekezdése a 8. § (4) bekezdése alapján 2015. január 1-jén lép hatályba.
