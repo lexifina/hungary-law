@@ -250,6 +250,6 @@
 
 | Vfc2 | Tevékenység diverzifikálás | (1) c) |
 
-2–3. számú melléklet az 52/2007. (VI. 28.) FVM rendelethez[^60]
+2–3. számú melléklet az 52/2007. (VI. 28.) FVM rendelethez[^67]
 
-[^60]: A 2–3. számú mellékletet a 96/2008. (VII. 25.) FVM rendelet 9. § (3) bekezdése hatályon kívül helyezte.
+[^67]: A 2–3. számú mellékletet a 96/2008. (VII. 25.) FVM rendelet 9. § (3) bekezdése hatályon kívül helyezte.
