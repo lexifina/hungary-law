@@ -8,7 +8,7 @@
 
 a)[^47] a kérelmen fel kell tüntetni a felnőttképzési szerződés számát;
 
-b)[^48] írott formában, postai úton az egyesített támogatási és kifizetési kérelem benyújtásával azonos benyújtási időszakban az elektronikus benyújtást teljesítő ÚMVP Képző Szervezetnek be kell nyújtania az ügyfél székhelye/lakhelye szerint illetékes MVH-kirendeltséghez az ÚMVP Képző Szervezet által kiállított, az ügyfél által pénzügyileg rendezett bizonylatok ügyfél példányának másolatát, valamint a pénzügyi teljesítést igazoló bizonylat másolatát, melyeken az ügyfélnek fel kell tüntetnie, hogy „eredetivel megegyező másolat”, és azt alá kell írnia;
+b)[^48] írott formában, postai úton az egyesített támogatási és kifizetési kérelem benyújtásával azonos benyújtási időszakban az elektronikus benyújtást teljesítő ÚMVP Képző Szervezetnek be kell nyújtania az ügyfél székhelye vagy lakhelye szerint illetékes MVH-kirendeltséghez az ÚMVP Képző Szervezet által kiállított, pénzügyileg rendezett bizonylatok ügyfél példányának másolatát, valamint a pénzügyi teljesítést igazoló bizonylat másolatát, melyeken az ügyfélnek fel kell tüntetnie, hogy „eredetivel megegyező másolat”, és azt alá kell írnia;
 
 c)[^49] az őstermelői igazolvány hiteles másolatát nem kell csatolni;
 
@@ -55,7 +55,7 @@ c) 2015. évben január 1-jétől január 31-ig.
 [^45]: A 7. § (1) bekezdése a 18/2010. (IX. 30.) VM rendelet 4. § (1) bekezdésével megállapított szöveg.
 [^46]: A 7. § (2) bekezdése az 50/2009. (IV. 16.) FVM rendelet 4. § (1) bekezdésével megállapított szöveg.
 [^47]: A 7. § (2) bekezdés a) pontja a 6/2010. (II. 2.) FVM rendelet 8. §-a szerint módosított szöveg.
-[^48]: A 7. § (2) bekezdés b) pontja a 47/2013. (VI. 7.) VM rendelet 2. § (9) bekezdésével megállapított szöveg.
+[^48]: A 7. § (2) bekezdés b) pontja a 32/2014. (IV. 3.) VM rendelet 3. § (6) bekezdésével megállapított szöveg.
 [^49]: A 7. § (2) bekezdés c) pontja a 23/2010. (III. 16.) FVM rendelet 18. § (1) bekezdésével megállapított szöveg.
 [^50]: A 7. § (2) bekezdés d) pontját a 23/2010. (III. 16.) FVM rendelet 18. § (2) bekezdése iktatta be.
 [^51]: A 7. § (2) bekezdés e) pontját a 18/2010. (IX. 30.) VM rendelet 4. § (2) bekezdése iktatta be, szövege a 47/2013. (VI. 7.) VM rendelet 2. § (10) bekezdésével megállapított szöveg.

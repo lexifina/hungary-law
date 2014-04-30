@@ -8,7 +8,7 @@ a)[^1] ÚMVP Képző Szervezet: az Új Magyarország Vidékfejlesztési Program 
 
 b)[^2] képzési projekt: az ÚMVP Képző Szervezetnek az 1. és 6. számú mellékletben felsorolt képzések szervezésére vonatkozó, a Nemzeti Agrárszaktanácsadási, Képzési és Vidékfejlesztési Intézet (a továbbiakban: NAKVI) által jóváhagyott, egy naptári évre vonatkozó terve;
 
-c)[^3] képzési program: az 1. és 6. számú mellékletben felsorolt képzések tananyagát, az oktatás tárgyi és személyi feltételeit, a számonkérés módját magában foglaló dokumentum, amelyet a NAKVI az ÚMVP Képző Szervezetek rendelkezésére bocsát;
+c)[^3] képzési program: az 1. és a 6. számú mellékletben felsorolt képzések tananyagát, az oktatás tárgyi és személyi feltételeit, a számonkérés módját magában foglaló dokumentum;
 
 d)[^4] erdőgazdálkodó: az a természetes vagy jogi személy,, akit vagy amelyet az erdészeti hatóság külön jogszabály alapján nyilvántartásba vett;
 
@@ -18,16 +18,16 @@ f)[^6] tárgyév: az a naptári év, amelyre vonatkozóan az ÚMVP Képző Szerv
 
 g)[^7] mezőgazdasági termelő: az a természetes személy, jogi személy,, aki/amely a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról és a 3037/90/EGK tanácsi rendelet, valamint egyes meghatározott statisztikai területekre vonatkozó EK-rendeletek módosításáról szóló, 2006. december 20-i 1893/2006/EK európai parlamenti és tanácsi rendelet I. Melléklete szerinti – az adózás rendjéről szóló 2003. évi XCII. törvény 16. § (3) bekezdés d) pontja alapján az állami adóhatósághoz bejelentett – 01.1, 01.2, 01.3, 01.4, 01.5, 01.6 és 01.7 alágazatba tartozó tevékenységet folytat, valamint minden őstermelői igazolvánnyal rendelkező személy;
 
-h)[^8] de minimis támogatás: az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet (a továbbiakban: általános „de minimis” rendelet) alapján nyújtott támogatás.
+h)[^8] de minimis támogatás: az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet (a továbbiakban: általános „de minimis” rendelet) alapján nyújtott támogatás;
 
-i)[^9]
+i)[^9] az ÚMVP Képző Szervezetek integrált elektronikus rendszere: valamennyi ÚMVP Képző Szervezet számára elérhető elektronikus rendszer, amely az e rendeletben előírt egyes adatközlési kötelezettségeik teljesítéséhez alkalmazható, és amelyen keresztül tájékozódhatnak az általuk indítható képzésekről.
 
 [^1]: A 2. § a) pontja a 47/2013. (VI. 7.) VM rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^2]: A 2. § b) pontja a 90/2011. (X. 3.) VM rendelet 1. § (1) bekezdésével megállapított, a 106/2012. (X. 11.) VM rendelet 8. § a) pontja, a 4/2013. (II. 4.) VM rendelet 14. §-a szerint módosított szöveg.
-[^3]: A 2. § c) pontja a 90/2011. (X. 3.) VM rendelet 7. § (1) bekezdése, a 106/2012. (X. 11.) VM rendelet 8. § b) pontja, a 4/2013. (II. 4.) VM rendelet 14. §-a szerint módosított szöveg.
+[^3]: A 2. § c) pontja a 32/2014. (IV. 3.) VM rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^4]: A 2. § d) pontja a 22/2014. (III. 14.) VM rendelet 66. § a) pontja szerint módosított szöveg.
 [^5]: A 2. § e) pontja a 18/2010. (IX. 30.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^6]: A 2. § f) pontját a 6/2010. (II. 2.) FVM rendelet 1. §-a iktatta be.
 [^7]: A 2. § g) pontját a 18/2010. (IX. 30.) VM rendelet 1. § (2) bekezdése iktatta be, szövege a 22/2014. (III. 14.) VM rendelet 66. § b) pontja szerint módosított szöveg.
 [^8]: A 2. § h) pontját a 90/2011. (X. 3.) VM rendelet 1. § (2) bekezdése iktatta be, szövege a 36/2014. (IV. 4.) VM rendelet 42. §-ával megállapított szöveg.
-[^9]: A 2. § i) pontját a 4/2013. (II. 4.) VM rendelet 1. § (2) bekezdése iktatta be, hatályon kívül helyezte a 47/2013. (VI. 7.) VM rendelet 2. § (13) bekezdés a) pontja.
+[^9]: A 2. § i) pontját a 4/2013. (II. 4.) VM rendelet 1. § (2) bekezdése iktatta be, hatályon kívül helyezte a 47/2013. (VI. 7.) VM rendelet 2. § (13) bekezdés a) pontja. Újonnan a 32/2014. (IV. 3.) VM rendelet 3. § (2) bekezdése iktatta be.
