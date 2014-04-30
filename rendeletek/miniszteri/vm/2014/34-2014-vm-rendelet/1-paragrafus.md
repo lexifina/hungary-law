@@ -22,10 +22,12 @@
 
 10. működtetési időszak: e rendelet szerinti támogatási kérelmet jóváhagyó határozat jogerőre emelkedését követő év január 1-jétől számított ötödik naptári év végéig terjedő időszak;
 
-11. tanya: a mező- és erdőgazdasági földek forgalmáról szóló törvényben meghatározott földrészlet;
+11.[^1] tanya: az ingatlan-nyilvántartásban szereplő, a település külterületén fekvő olyan földrészlet, amelyhez a föld mellett növénytermesztés és állattartás, továbbá az ezekkel kapcsolatos termékfeldolgozás, termény- vagy terméktárolás céljára létesített lakó- és gazdasági épület, illetve ilyen épületcsoport is tartozik, vagy az olyan földrészlet, amely az ingatlan-nyilvántartásban tanyaként vagy majorként szerepel;
 
 12. termelői csoport: a Vhr. 3. § 7. pontja szerinti csoport;
 
 13. ügyfél: az a természetes személy, aki megfelel a 3. § (1) bekezdésében foglalt feltételeknek;
 
 14. zöldség-gyümölcs termelői csoport és termelői szervezet: a Vhr. 3. § 18. pontja szerinti csoport.
+
+[^1]: Az 1. § 11. pontja az 53/2014. (IV. 29.) VM rendelet 21. § (1) bekezdésével megállapított szöveg.
