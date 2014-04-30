@@ -8,7 +8,7 @@
 
 (4) A támogatási keretösszeg
 
-a) a 2013/2014. borpiaci évben 1 millió euró,
+a)[^4] a 2013/2014. borpiaci évben 730 ezer euró,
 
 b) a 2014/2015. borpiaci évben 1 millió euró,
 
@@ -19,3 +19,4 @@ c) a 2015/2016. borpiaci évben 1 millió euró.
 (6) Az egy program megvalósításához igényelhető támogatás összege legalább 25 ezer, legfeljebb 250 ezer euró.
 
 [^3]: A 2. § (3) bekezdése a 29/2013. (IV. 30.) VM rendelet 3. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^4]: A 2. § (4) bekezdés a) pontja az 53/2014. (IV. 29.) VM rendelet 14. § (1) bekezdésével megállapított szöveg.
