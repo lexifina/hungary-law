@@ -20,7 +20,7 @@
 
 10. a támogatott termék kiosztásának ideje;
 
-11. a 3. mellékletben meghatározott kísérő intézkedések közül tanévenként legalább kettő alkalmazott kísérő intézkedés meghatározása és azok tervezett költsége, földrajzi kiterjedése, valamint az intézkedésekkel érintett tanulók száma, és annak rögzítése, hogy a fenntartó, a kérelmező vagy mindkettő közösen felelős-e a kísérő intézkedés megvalósításáért;
+11.[^14]
 
 12. a felek kötelezettségvállalása, hogy a megállapodás teljesítése során az 5. §, a 6. §, a 10 §. és a 11. §-ban foglaltak szerint járnak el;
 
@@ -36,7 +36,7 @@
 
 18. a kérelmező és a fenntartó képviseletére, költségvetési kihatású jogkövetkezmények tekintetében felelősségvállalásra jogosult személyek aláírása.
 
-(2)[^14] A 3. melléklet 3. pontja szerinti kísérő intézkedés kizárólag a fenntartó felelősségével, a 3. melléklet 6. pontja szerinti kísérő intézkedés pedig kizárólag a kérelmező és a fenntartó közös felelősségével alkalmazható.
+(2)[^15]
 
 (3) A megállapodás kötelező tartalmi elemeit magában foglaló és az (1) bekezdésnek megfelelő nyomtatványt az MVH a hivatalos honlapján teszi közzé. A nyomtatvány mintáját a 4. melléklet tartalmazza.
 
@@ -45,4 +45,5 @@
 (5) Tanévenként legalább három teljesítési időszakban kell szállítani. Teljesítési időszakon belül egész heteket kell szállítani úgy, hogy az első és a negyedik teljesítési időszakban legalább három, a második és a harmadik teljesítési időszakban legalább nyolc hétig kell szállítani.
 
 [^13]: A 6. § (1) bekezdése a 31/2013. (V. 2.) VM rendelet 11. §-ával megállapított szöveg.
-[^14]: A 6. § (2) bekezdése a 31/2013. (V. 2.) VM rendelet 11. §-ával megállapított szöveg.
+[^14]: A 6. § (1) bekezdés 11. pontját az 55/2014. (IV. 29.) VM rendelet 14. §-a hatályon kívül helyezte.
+[^15]: A 6. § (2) bekezdését az 55/2014. (IV. 29.) VM rendelet 14. §-a hatályon kívül helyezte.

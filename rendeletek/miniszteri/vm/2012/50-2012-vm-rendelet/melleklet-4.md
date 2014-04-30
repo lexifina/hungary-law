@@ -1,117 +1,37 @@
-## Az iskolagyümölcs-program során alkalmazható kísérő intézkedések
+## Pontozási rendszer a szerződéskötési ajánlatot benyújtó kérelmezők közötti sorrendállítás során alkalmazandó szempontokhoz
 
-## 1. Az iskolagyümölcs-programmal kapcsolatos interaktív honlap létrehozása.
+|  | A | B | C | D |
 
-## Minimális kötelező tartalom:
+| 1 | A lehető legrövidebb szállítási távolságok mellett biztosítani tudja az átadott termékek termelői és a tanulók közvetlen kapcsolatát, |
 
-## 1.1. A vonatkozó jogszabályok ismertetése;
+| 2 | Azon kérelmező, amelynek a jóváhagyási kérelem benyújtási időszakának kezdőnapján hatályos • gazdasági társaság és szövetkezet esetében nyilvántartott székhelyével, telephelyével, fióktelepével • egyéni vállalkozó, egyéni gazdálkodó, őstermelő esetében az 1. mellékletben felsorolt termékek termelésére hasznosított termőterületével azonos megyében található az ellátni kívánt köznevelési intézmény. A Budapesten található köznevelési intézmények esetén Pest megye minősül azonos megyének. | Hatályos cégkivonat vagy hatósági döntés, hogy a megelőző évben benyújtott egységes területalapú támogatás iránti kérelme alapján az adott megyében elhelyezkedő termőterülete alapján, az 1. mellékletben szereplő gyümölcs vagy szántóföldi zöldség termesztésére támogatást kapott. | 8 pont. |
 
-## 1.2. Tájékoztatók az iskolagyümölcs-programról az iskolának, a szülőknek és a gyermekeknek,
+| 3 | Azon kérelmező, amelynek a jóváhagyási kérelem benyújtási időszakának kezdőnapján hatályos • gazdasági társaság és szövetkezet esetében nyilvántartott székhelyével, telephelyével, fióktelepével • egyéni vállalkozó, egyéni gazdálkodó, őstermelő esetében az 1. mellékletben felsorolt termékek termelésére hasznosított termőterületével közvetlenül határos megyében található az ellátni kívánt köznevelési intézmény. A Budapesten található köznevelési intézmények esetén a Pest megyével szomszédos megyék minősülnek szomszédos megyének. | 4 pont |
 
-## 1.2.1. Iskolának: megállapodás minta, szállítási feltételek, vállalt feladatok,
+| 4 | A szállítások kezdetét megelőző két tanév bármelyikében a tanulók zöldség-gyümölcs fogyasztását ösztönző szemléletformálását leginkább elősegítő kísérő intézkedéseket valósított meg. |
 
-## 1.2.2. Szülőknek: a program főbb jellemzői, a szállított termék, minőségi leírás és a minőség garanciája, a termék beltartalmi értékei és az egészséges táplálkozásban betöltött szerepe, egy napi adag, kiosztási gyakoriság stb.,
+| 5 | Az iskolagyümölcs-programmal kapcsolatos külön e célra létrehozott, rendszeresen frissített interaktív honlap. | A zöldség-gyümölcs fogyasztását ösztönző szemléletformálását elősegítő intézkedések végrehajtását igazoló, a köznevelési intézmény vagy a fenntartó által ellenjegyzett teljesítési igazolás vagy átvételi elismervény másolata. | 4 pont |
 
-## 1.2.3. Tanulóknak: az iskolagyümölcs-program főbb jellemzői a korosztály számára érthető tartalommal és formában;
+| 6 | Zöldség-gyümölcs termelői csoportokhoz, termelői szervezetekhez, termelőkhöz szervezett iskolai tanulmányút. | 8 pont |
 
-## 1.3. Tájékoztató anyagok elkészítése a zöldségek és gyümölcsök beltartalmi értékeiről, egészséges táplálkozásban betöltött szerepéről a tanulók részére kötelező jelleggel, a szülők tanárok részére opcionálisan;
+| 7 | Oktatási segédanyag készítése, készíttetése és annak alkalmazása az egészséges étkezési szokásokat érintő ismeretek fejlesztése érdekében. | 4 pont |
 
-## 1.4. Oktatási segédanyagok: a zöldség- és gyümölcsfajok bemutatása, a zöldség- és gyümölcstermesztés bemutatása, a tárolás, csomagolás bemutatása, a zöldség- és gyümölcstermőtájak bemutatása;
+| 8 | A gyümölcs- és zöldségágazatot vagy az egészséges étkezési szokásokat érintő ismeretek tanterven felüli oktatása. | 4 pont |
 
-## 1.5. A szállítóval által megállapodás alapján ellátott köznevelési intézmények felsorolása;
+| 9 | A tanulók zöldség-, gyümölcsfogyasztásának és egészséges életmódjának ösztönzése érdekében szervezett verseny, pályázat, adott jutalom (apró ajándékok, pl. póló, matricák, kitűzők, írószerek, órarend, naptár, uzsonnás doboz, sportszer stb.). | 4 pont |
 
-## 1.6. Kapcsolattartó személy, személyek a kérelmezőnél és az elérhetőségeik.
+| 10 | Kóstoltatás: legalább egy alkalommal négy gyümölcs- és négy zöldségféle biztosítása tanulónként és gyümölcs- és zöldségféleségenként. | 8 pont |
 
-## 2. Zöldség-gyümölcs termelőkhöz, termelői csoportokhoz, termelői szervezetekhez, termelőkhöz szervezett tanulmányutak.
+| 11 | A szállításoknak a megállapodás teljes időtartamára történő fenntartásához megfelelő garanciákat tud biztosítani: |
 
-## Minimális követelmény: az adott iskolában valamennyi az iskolagyümölcs-programban résztvevő tanuló részére biztosítani. A tanulók legalább négy órát tartózkodjanak a fogadó félnél. A tanulók ismerjék meg a gyümölcsültetvényt, a szüretet, a postharvest munkákat vagy a zöldségnövény termesztését, betakarítását és a postharvest munkáit.
+| 12 | A számviteli törvény hatálya alá tartozó gazdasági társaság a szállítások kezdetét megelőző egy vagy két lezárt üzleti évének, a beszámoló részét képező eredmény levezetés „Adózás előtti eredmény" sora pozitív előjelű, vagy A személyi jövedelemadó hatálya alá tartozó egyéni vállalkozó, valamint a mezőgazdasági őstermelő a szállítások kezdetét megelőző egy vagy két adóév személyi jövedelemadó bevallásában kimutatott vállalkozói jövedelme pozitív előjelű. | A számviteli törvény hatálya alá tartozó gazdasági társaság igazoló dokumentummal alátámasztott nyilatkozata arról, hogy az elmúlt egy vagy két lezárt üzleti évének, a beszámoló részét képező eredmény levezetés „Adózás előtti eredmény" sora pozitív előjelű, vagy A személyi jövedelemadó hatálya alá tartozó egyéni vállalkozó, valamint a mezőgazdasági őstermelő igazoló dokumentummal alátámasztott nyilatkozata arról, hogy az elmúlt két adóév személyi jövedelemadó bevallásában kimutatott vállalkozói jövedelme pozitív előjelű. | egy év | 4 pont |
 
-## 3. Oktatási anyag, oktatási segédlet készítése, készíttetése és annak alkalmazása az egészséges étkezési szokásokat érintő ismeretek fejlesztése és azok gyakorlati alkalmazása érdekében. Az oktatási anyag évfolyamonként, félévenként legalább két foglalkozás megtartását tegye lehetővé. A foglalkozások során az Európai Unió társfinanszírozásával megvalósuló iskolagyümölcs-programra fel kell hívni a tanulók figyelmét.
+|  | két év | 8 pont |
 
-## 4. A gyümölcs- és zöldségágazatot érintő ismeretek oktatása valamennyi az iskolagyümölcs-programban részt vevő tanuló részére tanévenként legalább három foglalkozási alkalommal.
+| 13 | A kérelmező az MVH ügyfél azonosító rendszerben bejelentett bankszámlája ellen a bejelentés óta, de legfeljebb az elmúlt három éves időszakban átutalási beszedési megbízást, sorban álló inkasszót, sorban állítás nélkül megadott inkasszót fedezethiány miatt nem utasítottak vissza, valamint tőketartozást nem tartottak nyilván. | Pénzintézeti igazolás arról, hogy a kérelmezőnek az MVH ügyfél azonosító rendszerében bejelentett bankszámlája ellen az elmúlt két éves időszakban átutalási beszedési megbízást, sorban álló inkasszót, sorban állítás nélkül megadott inkasszót fedezethiány miatt nem utasítottak vissza, valamint tőketartozást nem tartottak nyilván | 4 pont |
 
-## 5. A tanulók zöldség-, gyümölcsfogyasztásának és egészséges életmódjának ösztönzése érdekében szervezett verseny, pályázat, adott jutalom (apró ajándékok, pl. póló, matricák, kitűzők, írószerek, órarend, naptár, uzsonnás doboz, sportszer stb.).
+| 14 | A kérelmező rendelkezik együttes, köztartozás mentességi igazolással | Együttes köztartozás mentességi igazolás | 4 pont |
 
-## Minimális követelmény: az intézkedés a programban részt vevő összes tanuló részére nyitva álljon, az adott jutalom tartalmazzon az egészséges táplálkozást vagy a zöldség-, gyümölcsfogyasztást népszerűsítő feliratot, ábrát.
+4. melléklet az 50/2012. (V. 25.) VM rendelethez[^52]
 
-## 6. Kóstoltatás: legalább egy alkalommal 4 gyümölcs- és 4 zöldségféle biztosítása tanulónként és gyümölcs- és zöldségféleségenként az alábbi mennyiségben:
-
-|  | 1. táblázat |  |
-
-|  |  | Gyümölcs |
-
-|  |  | A | B |
-
-|  |  | Termék | Adag/fő |
-
-|  | 1. | Körte | 1/4 vagy 1/6 db |
-
-|  | 2. | Meggy | 3 dkg |
-
-|  | 3. | Cseresznye | 3 dkg |
-
-|  | 4. | Kajszi | 2 db |
-
-|  | 5. | Őszibarack | 1/4 vagy 1/6 db |
-
-|  | 6. | Nektarin | 1/4 vagy 1/6 db |
-
-|  | 7. | Szilva | 2 db |
-
-|  | 8. | Piros ribiszke | 3 dkg |
-
-|  | 9. | Fekete ribiszke | 3 dkg |
-
-|  | 10. | Málna | 3 dkg |
-
-|  | 11. | Szeder | 3 dkg |
-
-|  | 12. | Földieper | 3 dkg |
-
-|  | 13. | Csemegeszőlő | 3 dkg |
-
-|  | 14. | Sárgadinnye | 1 db (min. 1 kg)/10 vagy 15 fő |
-
-|  | 15. | Görögdinnye | 1 db (min. 3 kg)/30 fő |
-
-|  | 16. | Dió héj nélkül | 3 dkg |
-
-|  | 17. | Mandula héj nélkül | 3 dkg |
-
-## 2. táblázat
-
-|  | Zöldség |
-
-|  | A | B |
-
-|  | Termék | Adag/fő |
-
-|  | 1. | Sárgarépa | 3 dkg |
-
-|  | 2. | Zeller | 3 dkg |
-
-|  | 3. | Hónapos retek | 3 db |
-
-|  | 4. | Cékla | 3 dkg |
-
-|  | 5. | Uborka | 3 dkg |
-
-|  | 6. | Paradicsom | 1/2 vagy 1/4 db |
-
-|  | 7. | Paprika (tv, kápia, kaliforniai) | Tv és kápia – 1/4 db, kaliforniai – 1/4 vagy 1/6 db |
-
-|  | 8. | Fejes saláta | 1 fej/ 20 fő |
-
-|  | 9. | Karfiol | 3 dkg |
-
-|  | 10. | Brokkoli | 3 dkg |
-
-|  | 11. | Karalábé | 1 db/8 fő |
-
-|  | 12. | Zöldborsó | 3 dkg (szemes) |
-
-## A kóstoltatott termékek között az a termék nem szerepelhet, amely az iskolagyümölcs-program keretében támogatott termékként kiosztásra kerül.
-
-4. melléklet az 50/2012. (V. 25.) VM rendelethez[^40]
-
-[^40]: A 4. melléklet a 31/2013. (V. 2.) VM rendelet 21. § (3) bekezdésével megállapított szöveg.
+[^52]: A 4. melléklet az 55/2014. (IV. 29.) VM rendelet 12. § (2) bekezdésével megállapított szöveg.
