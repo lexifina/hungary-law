@@ -36,7 +36,7 @@ g) javaslatok megfogalmazása az intézmények belső önértékelésének fejle
 
 (3) A pedagógiai-szakmai szolgáltatások nyújtásában, az e rendeletben meghatározottak szerint, szaktanácsadók vehetnek részt.
 
-(4)[^6] A szaktanácsadói tevékenységet az alábbi szakterületeken kell megszervezni:
+(4)[^11] A szaktanácsadói tevékenységet az alábbi szakterületeken kell megszervezni:
 
 a) Tantárgygondozói szakterületek:
 
@@ -92,4 +92,4 @@ g) Pedagógiai mérés-értékelési szakterület.
 
 (5) Szaktanácsadói tevékenységet az láthat el, aki pedagógiai intézetben pedagógiai szakértő vagy pedagógiai előadó munkakörben alkalmazásban áll, vagy aki erre megbízást kapott, és szerepel a szaktanácsadói névjegyzékben.
 
-[^6]: A 26. § (4) bekezdése a 6/2014. (I. 29.) EMMI rendelet 4. §-ával megállapított szöveg.
+[^11]: A 26. § (4) bekezdése a 6/2014. (I. 29.) EMMI rendelet 4. §-ával megállapított szöveg.

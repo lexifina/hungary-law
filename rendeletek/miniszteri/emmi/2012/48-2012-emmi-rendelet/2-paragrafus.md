@@ -8,6 +8,6 @@
 
 (5) A Központ, valamint a miniszterrel kötött köznevelési szerződés keretében pedagógiai-szakmai szolgáltatási feladatot ellátó állami felsőoktatási intézmény által fenntartott, vagy egyházi vagy más nem állami, nem önkormányzati fenntartású pedagógiai intézet a pedagógiai-szakmai szolgáltatási feladatok megvalósításába, – amennyiben az állam által fenntartott pedagógiai-szakmai szolgáltató intézmények keretei között erre nincs lehetőség – bevonhatja az Oktatáskutató és Fejlesztő Intézetet, az OH-t, az Educatio Társadalmi Szolgáltató Nonprofit Kft-t, társadalmi szervezetet, köznevelési intézményt, felsőoktatási intézményt abban az esetben is, amennyiben azok nem felelnek meg a 19. §-ban foglaltaknak.
 
-(6)[^1] A Türr István Képző és Kutató Intézet részt vesz a 14. §-ban meghatározott, a hátrányos helyzetű és a halmozottan hátrányos helyzetű gyermekek, tanulók nevelésének, nevelés-oktatásának megszervezését és ellátását segítő képesség-kibontakoztató és integrációs felkészítés feladatainak végrehajtásában.
+(6)[^2] A Türr István Képző és Kutató Intézet részt vesz a 14. §-ban meghatározott, a hátrányos helyzetű és a halmozottan hátrányos helyzetű gyermekek, tanulók nevelésének, nevelés-oktatásának megszervezését és ellátását segítő képesség-kibontakoztató és integrációs felkészítés feladatainak végrehajtásában.
 
-[^1]: A 2. § (6) bekezdését a 22/2013. (III. 22.) EMMI rendelet 41. §-a iktatta be.
+[^2]: A 2. § (6) bekezdését a 22/2013. (III. 22.) EMMI rendelet 41. §-a iktatta be.

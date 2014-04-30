@@ -1,4 +1,4 @@
-15/A. §[^5] (1) Országos pedagógiai-szakmai szolgáltatásként kell megszervezni a tantárgygondozó szaktanácsadást.
+15/A. §[^6] (1) Országos pedagógiai-szakmai szolgáltatásként kell megszervezni a tantárgygondozó szaktanácsadást.
 
 (2) Szaktanácsadó az lehet, aki
 
@@ -20,4 +20,4 @@ b) az adott szakterület nemzetközileg vagy országosan elismert képviselője.
 
 (5) Az országos tantárgygondozó szaktanácsadás szakmai irányítását az Oktatáskutató és Fejlesztő Intézet látja el.
 
-[^5]: A 15/A. §-t a 6/2014. (I. 29.) EMMI rendelet 3. §-a iktatta be.
+[^6]: A 15/A. §-t a 6/2014. (I. 29.) EMMI rendelet 3. §-a iktatta be.
