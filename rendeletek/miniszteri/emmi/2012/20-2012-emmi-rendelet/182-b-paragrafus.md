@@ -1,6 +1,6 @@
-182/B. §[^102] (1) A beiratkozást követő három napon belül az igazgató az érintett egyházi jogi személy meghatalmazott képviselőjének átadja az egyház által szervezett hit- és erkölcstan oktatásra jelentkezett tanulók 182/A. § (8) bekezdése szerinti adatait.
+182/B. §[^106] (1) A beiratkozást követő három napon belül az igazgató az érintett egyházi jogi személy meghatalmazott képviselőjének átadja az egyház által szervezett hit- és erkölcstan oktatásra jelentkezett tanulók 182/A. § (8) bekezdése szerinti adatait.
 
-(2) Az adatok átadását követő hét napon belül az igazgató egyeztetést folytat a tanulócsoportok kialakításáról azon egyházak képviselőivel, amelyek által szervezett hit- és erkölcstan oktatás iránti igényről a szülők nyilatkoztak és amelyek a hit- és erkölcstan oktatás megszervezését vállalták.
+(2)[^107] Az adatok átadását követő hét napon belül az igazgató egyeztetést folytat a tanulócsoportok kialakításáról azon egyházi jogi személyek képviselőivel, amelyek által szervezett hit- és erkölcstan oktatás iránti igényről a szülők nyilatkoztak és amelyek a hit- és erkölcstan oktatás megszervezését vállalták.
 
 (3) A (2) bekezdés szerinti egyeztetés során a tanulócsoportok kialakításával kapcsolatban figyelembe kell venni, hogy
 
@@ -26,4 +26,5 @@ b) az erkölcstan helyett választott hit- és erkölcstan órákat elsősorban 
 
 (12) Amennyiben az egyházi jogi személy nem tud gondoskodni a hitoktató, hittantanár szakszerű helyettesítéséről, az iskola köteles a hit- és erkölcstan órán részt vevő tanulók felügyeletéről gondoskodni.
 
-[^102]: A 182/B. § a 22/2013. (III. 22.) EMMI rendelet 34. §-ával megállapított szöveg.
+[^106]: A 182/B. § a 22/2013. (III. 22.) EMMI rendelet 34. §-ával megállapított szöveg.
+[^107]: A 182/B. § (2) bekezdése a 34/2014. (IV. 29.) EMMI rendelet 3. § e) pontja szerint módosított szöveg.

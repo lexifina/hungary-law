@@ -1,6 +1,6 @@
 ## 48. A két tanítási nyelvű középiskolai nevelés-oktatás feltételei
 
-136. §[^70] (1) Két tanítási nyelvű nevelés-oktatás abban a középiskolában folytatható, amelyik három egymást követő tanévben megfelel az alábbi feltételeknek:
+136. §[^72] (1) Két tanítási nyelvű nevelés-oktatás abban a középiskolában folytatható, amelyik három egymást követő tanévben megfelel az alábbi feltételeknek:
 
 a) a két tanítási nyelvű nevelés-oktatásban részt vevő tanulók ötven százaléka a tizedik évfolyam végére megfelel a hivatal által szervezett, a KER szerinti B2 szintű nyelvtudást mérő célnyelvi mérésben meghatározott követelményeknek,
 
@@ -12,4 +12,4 @@ c) a két tanítási nyelvű nevelés-oktatásban érettségi vizsgabizonyítvá
 
 (3) Amennyiben a középiskola az (1) bekezdésben foglaltaknak nem felel meg, új két tanítási nyelvű nevelés-oktatásra a következő tanévben nem hirdethet felvételt.
 
-[^70]: A 136. § a 22/2013. (III. 22.) EMMI rendelet 24. §-ával megállapított szöveg.
+[^72]: A 136. § a 22/2013. (III. 22.) EMMI rendelet 24. §-ával megállapított szöveg.

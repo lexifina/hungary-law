@@ -14,7 +14,7 @@
 
 a) valamelyik felet képviseli,
 
-b) a felek bármelyikének a Ptk. 685. § b) pontja szerinti hozzátartozója,
+b)[^35] a felek bármelyikének a Polgári Törvénykönyv szerinti hozzátartozója,
 
 c) a felek bármelyikével vagy az érintett köznevelési intézménnyel munkaviszonyban, munkavégzésre irányuló egyéb jogviszonyban, továbbá tagsági viszonyban áll, ide nem értve a fegyelmi jogkör gyakorlójától kapott felkérést, a vele kötött megbízási jogviszonyt,
 
@@ -59,3 +59,5 @@ b) a sérelmet elszenvedő fél vagy a kötelességszegő tanuló az egyeztetés
 c) az egyeztetési eljárásra rendelkezésre álló tizenöt nap eredménytelenül telt el, vagy
 
 d) megállapodás született.
+
+[^35]: A 62. § (6) bekezdés b) pontja a 34/2014. (IV. 29.) EMMI rendelet 3. § b) pontja szerint módosított szöveg.

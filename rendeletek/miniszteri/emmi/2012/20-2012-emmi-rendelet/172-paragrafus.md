@@ -1,4 +1,4 @@
-172. § (1)[^97] A képességkibontakoztató felkészítésben részt vevő tanuló – az oktatásért felelős miniszter által kiadott program szerinti egyéni fejlesztési terv alapján történő – haladását, fejlődését, továbbá az ezeket hátráltató okokat az osztályfőnök és az egyéni fejlesztésben részt vevő pedagógusok legalább háromhavonta értékelik. Az értékelésre meg kell hívni a tanulót, kiskorú tanuló esetén a tanuló szülőjét, a indokolt esetben a gyermekjóléti szolgálat, a gyámhatóság és a nevelési tanácsadó képviselőjét.
+172. § (1)[^100] A képességkibontakoztató felkészítésben részt vevő tanuló – az oktatásért felelős miniszter által kiadott program szerinti egyéni fejlesztési terv alapján történő – haladását, fejlődését, továbbá az ezeket hátráltató okokat az osztályfőnök és az egyéni fejlesztésben részt vevő pedagógusok legalább háromhavonta értékelik. Az értékelésre meg kell hívni a tanulót, kiskorú tanuló esetén a tanuló szülőjét, a indokolt esetben a gyermekjóléti szolgálat, a gyámhatóság és a nevelési tanácsadó képviselőjét.
 
 (2) A képességkibontakoztató felkészítést az intézmény a külön jogszabályban erre kijelölt szervezettel kötött együttműködési megállapodás alapján, a szervezet szakmai támogatásával szervezi meg, amely szakmai szolgáltatás kiterjed az egyenlő bánásmódról és az esélyegyenlőség előmozdításáról szóló törvény 31. §-a szerinti önkormányzati intézkedési terv közoktatási esélyegyenlőségi intézkedési terve elkészítésének támogatására is. A szervezet minőségirányítási követelményeknek megfelelő szakmai támogató rendszert épít ki és működtet a minőségi pedagógiai szolgáltatáshoz történő hozzáférés érdekében, továbbá a képességkibontakoztató felkészítésben részt vevő intézmény az érintett tanuló programnak megfelelő fejlesztése céljából készített intézményi fejlesztési terv megvalósításában történő előrehaladás folyamatos nyomon követése mellett szakmai-módszertani fejlesztő munkát végez.
 
@@ -16,4 +16,4 @@ c) a településen, a fővárosi kerületben több általános iskola működik,
 
 (6) E § alkalmazásában általános iskola alatt többcélú intézmény esetén az általános iskolai intézményegységet kell érteni.
 
-[^97]: A 172. § (1) bekezdése a 22/2013. (III. 22.) EMMI rendelet 40. § p) pontja szerint módosított szöveg.
+[^100]: A 172. § (1) bekezdése a 22/2013. (III. 22.) EMMI rendelet 40. § p) pontja szerint módosított szöveg.

@@ -6,6 +6,6 @@
 
 (4) A nevelési-oktatási intézményben, valamint a nevelési-oktatási intézményen kívül a gyermekek, tanulók részére szervezett rendezvényeken a népegészségügyi termékadóról szóló 2011. évi CIII. törvény hatálya alá tartozó, továbbá alkohol- és dohánytermék nem árusítható. A nevelési-oktatási intézményben, valamint a nevelési-oktatási intézményen kívül a gyermekek, tanulók részére szervezett rendezvényeken alkohol- és dohánytermék nem fogyasztható.
 
-(5)[^63] Az óvoda, az iskola, a kollégium házirendjében kell meghatározni azokat a védő, óvó előírásokat, amelyeket a gyermekeknek, tanulóknak az óvodában, az iskolában, a kollégiumban való tartózkodás során meg kell tartaniuk.
+(5)[^65] Az óvoda, az iskola, a kollégium házirendjében kell meghatározni azokat a védő, óvó előírásokat, amelyeket a gyermekeknek, tanulóknak az óvodában, az iskolában, a kollégiumban való tartózkodás során meg kell tartaniuk.
 
-[^63]: A 129. § (5) bekezdése a 22/2013. (III. 22.) EMMI rendelet 39. § j) pontja szerint módosított szöveg.
+[^65]: A 129. § (5) bekezdése a 22/2013. (III. 22.) EMMI rendelet 39. § j) pontja szerint módosított szöveg.

@@ -24,10 +24,10 @@ b) az egészséges táplálkozás követelményeinek megfelelő étkezést.
 
 (5) Az óvodai pedagógiai programnak a három év alatti gyermekek gondozásához-neveléséhez szükséges feladatokat is tartalmaznia kell a bölcsődékre vonatkozó útmutató szerint.
 
-(6)[^100] A fenntartó a működés megkezdése előtt köteles beszerezni az egységes óvoda-bölcsőde székhelye szerint illetékes regionális módszertani bölcsőde (a továbbiakban: módszertani bölcsőde) szakmai véleményét annak eldöntéséhez, hogy az egységes óvoda-bölcsőde rendelkezik-e a három évnél fiatalabb gyermekek gondozásához szükséges, e §-ban meghatározott feltételekkel. A fenntartó jóváhagyásához az egységes óvoda-bölcsőde megküldi a módszertani bölcsőde által véleményezett pedagógiai programját, házirendjét, SZMSZ-ét. A fenntartó az egységes óvoda-bölcsőde működésének megkezdéséről értesíti a módszertani bölcsődét.
+(6)[^103] A fenntartó a működés megkezdése előtt köteles beszerezni az egységes óvoda-bölcsőde székhelye szerint illetékes regionális módszertani bölcsőde (a továbbiakban: módszertani bölcsőde) szakmai véleményét annak eldöntéséhez, hogy az egységes óvoda-bölcsőde rendelkezik-e a három évnél fiatalabb gyermekek gondozásához szükséges, e §-ban meghatározott feltételekkel. A fenntartó jóváhagyásához az egységes óvoda-bölcsőde megküldi a módszertani bölcsőde által véleményezett pedagógiai programját, házirendjét, SZMSZ-ét. A fenntartó az egységes óvoda-bölcsőde működésének megkezdéséről értesíti a módszertani bölcsődét.
 
 (7) A fenntartó az egységes óvoda-bölcsődében tervezett ellenőrzés időpontjáról értesíti a módszertani bölcsődét, és felkéri ellenőrzésben való részvételre. A módszertani bölcsőde a három év alatti gyermekek nevelés-gondozásával összefüggő szakmai kérdéseket ellenőrizheti.
 
 (8) Az egységes óvoda-bölcsőde együttműködik a módszertani bölcsődével. Az együttműködés kérdéseit az SZMSZ-ében kell meghatározni.
 
-[^100]: A 179. § (6) bekezdése a 36/2012. (XI. 14.) EMMI rendelet 11. § j) pontja szerint módosított szöveg.
+[^103]: A 179. § (6) bekezdése a 36/2012. (XI. 14.) EMMI rendelet 11. § j) pontja szerint módosított szöveg.

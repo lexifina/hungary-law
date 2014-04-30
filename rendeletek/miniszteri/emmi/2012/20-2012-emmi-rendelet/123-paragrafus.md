@@ -58,6 +58,6 @@ p) egységes konduktív pedagógiai módszertani intézmény
 
 ## lehet.
 
-(5)[^61] A honvédelemért felelős miniszter által fenntartott, szakképzési feladatot ellátó katonai köznevelési intézmények, továbbá más, a magyar oktatástörténetben jelentős hagyományokkal rendelkező köznevelési intézmények esetében – az oktatásért felelős miniszter egyetértésével – a (4) bekezdésétől eltérő megnevezés is alkalmazható.
+(5)[^63] A honvédelemért felelős miniszter által fenntartott, szakképzési feladatot ellátó katonai köznevelési intézmények, továbbá más, a magyar oktatástörténetben jelentős hagyományokkal rendelkező köznevelési intézmények esetében – az oktatásért felelős miniszter egyetértésével – a (4) bekezdésétől eltérő megnevezés is alkalmazható.
 
-[^61]: A 123. § (5) bekezdése a 22/2013. (III. 22.) EMMI rendelet 39. § i) pontja szerint módosított szöveg.
+[^63]: A 123. § (5) bekezdése a 22/2013. (III. 22.) EMMI rendelet 39. § i) pontja szerint módosított szöveg.

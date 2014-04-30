@@ -242,7 +242,7 @@
 
 |  | Kollégiumi törzskönyv | Kt. |
 
-2. melléklet a 20/2012. (VIII. 31.) EMMI rendelethez[^116]
+2. melléklet a 20/2012. (VIII. 31.) EMMI rendelethez[^121]
 
 JEGYZÉK
 
@@ -386,4 +386,4 @@ II. HELYISÉGEK BÚTORZATA ÉS EGYÉB BERENDEZÉSI TÁRGYAI
 
 Az e pont alatt felsorolt eszközök, felszerelések helyettesíthetők az adott eszköz, felszerelés funkcióját kiváltó, korszerű eszközzel, felszereléssel
 
-[^116]: A 2. melléklet a 22/2013. (III. 22.) EMMI rendelet 38. §-a szerint módosított szöveg.
+[^121]: A 2. melléklet a 22/2013. (III. 22.) EMMI rendelet 38. §-a szerint módosított szöveg.

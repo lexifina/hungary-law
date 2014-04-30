@@ -10,7 +10,7 @@ a) az oktatásért felelős miniszter által meghirdetett és finanszírozott
 
 aa) Országos Középiskolai Tanulmányi Verseny (a továbbiakban: OKTV),
 
-ab)[^103]
+ab)[^108]
 
 b) az oktatásért felelős miniszter által meghirdetett és anyagilag támogatott
 
@@ -20,7 +20,7 @@ bb) országos szervezésű diáksportverseny, diákolimpia,
 
 bc) sajátos nevelési igényű tanulók részére szervezett országos tanulmányi verseny,
 
-bd)[^104] országos szervezésű művészeti tanulmányi verseny,
+bd)[^109] országos szervezésű művészeti tanulmányi verseny,
 
 c) az oktatásért felelős miniszter által szakmailag támogatott verseny,
 
@@ -42,5 +42,5 @@ f) az alapító okirata szerint nevelési-oktatási tevékenység végzésre jog
 
 hirdethet meg.
 
-[^103]: A 183. § (1) bekezdés a) pont ab) alpontját a 22/2013. (III. 22.) EMMI rendelet 40. § q) pontja hatályon kívül helyezte.
-[^104]: A 183. § (1) bekezdés b) pont bd) alpontját a 22/2013. (III. 22.) EMMI rendelet 35. §-a iktatta be.
+[^108]: A 183. § (1) bekezdés a) pont ab) alpontját a 22/2013. (III. 22.) EMMI rendelet 40. § q) pontja hatályon kívül helyezte.
+[^109]: A 183. § (1) bekezdés b) pont bd) alpontját a 22/2013. (III. 22.) EMMI rendelet 35. §-a iktatta be.

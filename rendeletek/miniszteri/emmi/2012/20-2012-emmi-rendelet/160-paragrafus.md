@@ -14,10 +14,12 @@ e) a fenntartó által elkészített éves költségvetés biztosítja-e az Nkt.
 
 f) az Nkt. 23. § (3) bekezdése szerinti ütemtervben foglaltak teljesülnek-e,
 
-g) egyházi fenntartó esetében az SZMSZ jóváhagyásával kapcsolatos eljárás törvényes-e,
+g)[^93] egyházi nevelési-oktatási intézmény fenntartója esetében az SZMSZ jóváhagyásával kapcsolatos eljárás törvényes-e,
 
 h) a nevelési-oktatási intézmény vezetőjének alkalmazása törvényes-e,
 
 i) vizsgálta-e a fenntartó a nevelési-oktatási intézmény pedagógiai programjában meghatározott feladatok végrehajtását, a szakmai munka eredményességét,
 
 j) a fenntartó a döntései meghozatalakor betartja-e az előírt egyeztetési kötelezettségét.
+
+[^93]: A 160. § g) pontja a 34/2014. (IV. 29.) EMMI rendelet 3. § c) pontja szerint módosított szöveg.

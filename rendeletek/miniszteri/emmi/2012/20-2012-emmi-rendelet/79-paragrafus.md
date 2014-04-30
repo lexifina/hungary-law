@@ -12,7 +12,7 @@
 
 (5) Az országos mérések keretében az érintett nevelési-oktatási intézmények elvégzik az adatfelvételt. Az adatfelvétel hivatal által meghatározott szabályainak betartásáért és az adatfelvétel során szolgáltatott adatok valódiságáért az iskola vezetője a felelős. A hivatal a tanév rendjéről szóló miniszteri rendeletben meghatározott ütemezés alapján összegyűjti a méréshez alkalmazott feladatlapokat és kérdőíveket, továbbá gondoskodik azok feldolgozásáról. A hivatal előállítja az országos mutatókat és az elemzés szempontjából releváns részminták alapstatisztikáit, valamint azokat az összevont mutatókat, amelyek alapján az iskola és a fenntartó összehasonlíthatja az iskola teljesítményét az országos mutatókkal és a hasonló helyzetű iskolák statisztikai jellemzőivel.
 
-(6)[^42] Az Nkt. 80. § (2) bekezdése szerinti
+(6)[^44] Az Nkt. 80. § (2) bekezdése szerinti
 
 a) 6. évfolyamos mérésben a 2. § (2) bekezdése szerinti 5/NY elnevezésű nyelvi előkészítő évfolyamot vagy 5/N elnevezésű nemzetiségi előkészítő évfolyamot elvégzett tanulók az 5. évfolyamon,
 
@@ -22,4 +22,4 @@ c) 10. évfolyamos mérésben a 2. § (2) bekezdése szerinti 5/NY, 7/NY, 9/NY v
 
 d) 10. évfolyamos mérésben a 2. § (2) bekezdése szerint a Hídprogram keretében tanulók a H/II/1. elnevezésű évfolyamon, majd középiskolai továbbhaladásuk esetén a 10. évfolyamon
 
-[^42]: A 79. § (6) bekezdését a 22/2013. (III. 22.) EMMI rendelet 14. §-a iktatta be.
+[^44]: A 79. § (6) bekezdését a 22/2013. (III. 22.) EMMI rendelet 14. §-a iktatta be.
