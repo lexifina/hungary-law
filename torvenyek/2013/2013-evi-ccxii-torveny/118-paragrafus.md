@@ -1,5 +1,0 @@
-118. § (1) A 112. §-ban meghatározott esetben a földhasználónak a földhasználati szerződésen túl a földhasználati nyilvántartásbavétel iránti bejelentése során, az ott meghatározott bejelentési adatlapon is nyilatkoznia kell a Földforgalmi törvény 42. §-ában meghatározott kötelezettségvállalásokról és feltételek fennállásáról, valamint a 114. §-ban, illetve a 116. §-ban meghatározottakról.
-
-(2) Ha a földhasználati szerződés nem tartalmazza a Földforgalmi törvény 42. §-ában, a 114. §-ban, illetve a 116. §-ban meghatározottakat, a földhasználatnak a nyilvántartásba vétele iránti bejelentését az ingatlanügyi hatóság elutasítja.
-
-(3) Ha a bejelentési adatlap nem tartalmazza a Földforgalmi törvény 42. §-ában, a 114. §-ban, illetve a 116. §-ban meghatározottakat, vagy a bejelentési adatlap más okból hiányos, az ingatlanügyi hatóság a nyilvántartásbavétel iránti kérelmet benyújtó földhasználót hiánypótlásra hívja fel. Ha a kérelmező a hiánypótlási felhívásban megállapított határidőn belül nem tesz eleget a hiánypótlási felhívásnak, az ingatlanügyi hatóság a nyilvántartásbavétel iránti eljárást megszünteti.

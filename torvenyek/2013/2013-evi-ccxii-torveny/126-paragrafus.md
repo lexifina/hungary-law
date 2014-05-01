@@ -4,7 +4,7 @@
 
 a)
 
-b)
+b) 4–8/C. §-a;
 
 c)
 
@@ -12,7 +12,7 @@ d)
 
 e)
 
-f)
+f) 11. § (1) bekezdése;
 
 g)
 
@@ -22,14 +22,14 @@ i)
 
 j)
 
-k)
+k) 26–35. §-a;
 
-l)
+l) 81. § (5) bekezdése;
 
 m)
 
-n)
+n) 88–88/D. §-a;
 
 o)
 
-(2)
+(2) Hatályát veszti a termőföldről szóló 1994. évi LV. törvény.

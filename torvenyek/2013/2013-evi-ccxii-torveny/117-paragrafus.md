@@ -1,1 +1,0 @@
-117. § A 112. §-ban meghatározott esetben az ingatlanügyi hatóság a földhasználót a földhasználati szerződés és az e törvényben meghatározott bejelentési adatlapon tett nyilatkozatai alapján jegyzi be a földhasználati nyilvántartásba.
