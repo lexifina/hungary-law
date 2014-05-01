@@ -1,3 +1,0 @@
-## 5. § Az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 9/A. §-ában az „az Erzsébet Szállodák, Táborok és Vendégházak Nonprofit Közhasznú Korlátolt Felelősségű Társaság szolgáltatásait” szövegrész helyébe az „a Közigazgatási és Igazságügyi Hivatalt” szöveg lép.
-
-6. § Hatályát veszti a megyei intézményfenntartó központokról, valamint a megyei önkormányzatok konszolidációjával, a megyei önkormányzati intézmények és a Fővárosi Önkormányzat egészségügyi intézményeinek átvételével összefüggő egyes kormányrendeletek módosításáról szóló 258/2011. (XII. 7.) Korm. rendelet 16. § (3) bekezdése.
