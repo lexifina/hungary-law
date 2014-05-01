@@ -1,5 +1,3 @@
-## 5. § A Kormány az OAH 1. melléklet szerinti hatósági eljárásaiban – az 1. mellékletben meghatározott feltételek esetében és szakkérdésben – az 1. melléklet szerinti hatóságokat szakhatóságként jelöli ki. Az ügyfélnek az eljárás megindítása előtt benyújtott kérelmére a szakhatóságként kijelölt hatóság előzetes szakhatósági állásfoglalást ad ki, amely egy évig hatályos.
-
 6. § (1) Az OAH munkáját segítő Tudományos Tanács az atomenergia alkalmazása területén országosan elismert szakemberekből álló, legfeljebb 12 tagú testület. A Tudományos Tanács a korszerű tudományos eredmények figyelembevételével állást foglal a nukleáris biztonsággal, a nukleáris fegyverek elterjedésének megakadályozásával, a sugárvédelemmel és a nukleárisbaleset-elhárítással összefüggő legfontosabb elvi és kutatási-fejlesztési kérdésekben. A Tudományos Tanács ügyrendjét maga határozza meg.
 
 (2) A Tudományos Tanács elnökét és tagjait az OAH főigazgatójának javaslatára az OAH felügyeletét ellátó miniszter nevezi ki és menti fel.
