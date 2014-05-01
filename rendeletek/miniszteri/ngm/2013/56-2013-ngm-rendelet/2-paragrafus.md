@@ -24,10 +24,14 @@ b) a nemzeti köznevelésről szóló törvény végrehajtásáról szóló korm
 
 a) az (1) bekezdés a) pontja és az (1) bekezdés b) pont ba) alpontja szerinti döntés ellen benyújtott jogorvoslati kérelem esetén 33 600 forint,
 
-b) az (1) bekezdés b) pont bb) alpontja, valamint a (2) bekezdés szerinti döntés ellen benyújtott jogorvoslati kérelem esetén 12 600 forint.
+b) az (1) bekezdés b) pont bb) alpontja, valamint a (2) bekezdés szerinti döntés ellen benyújtott jogorvoslati kérelem esetén 12 600 forint,
+
+c)[^1] az Fktv. szerinti felnőttképzést folytató intézmények ellenőrzése során meghozott döntés ellen benyújtott jogorvoslati kérelem esetén 33 600 forint.
 
 (5) A díjat a kérelmezőnek az NMH Magyar Államkincstárnál vezetett 10032000-01732630-00000000 számú számlájára, a jogorvoslati díjat a Nemzetgazdasági Minisztérium Magyar Államkincstárnál vezetett 10032000-01460658-00000000 számú számlájára az eljárás megindítását megelőzően banki átutalással vagy – a technikai feltételek megléte esetén – az elektronikus fizetési és elszámolási rendszeren keresztül történő fizetéssel kell megfizetni, az elektronikus ügyintézés részletes szabályairól szóló kormányrendelet és az elektronikus aláírás közigazgatási használatához kapcsolódó követelményekről és az elektronikus kapcsolattartás egyes szabályairól szóló kormányrendelet szerint. A fizetési megbízás közlemény rovatában fel kell tüntetni a hatósági eljárás megnevezését.
 
 (6) A díj, a jogorvoslati díj átutalással történő megfizetésének igazolására a kérelemhez, bejelentéshez vagy a jogorvoslati kérelemhez – az elektronikus ügyintézés részletes szabályairól szóló jogszabály szerint – mellékelni kell az átutalás tényét igazoló, a bank által kiadott igazolás eredeti példányát vagy az átutalást igazoló bizonylat másolatát.
 
 (7) Az NMH túlfizetés esetén a díjtöbbletet hivatalból, annak észlelésétől számított tizenöt napon belül visszatéríti, ha a kérelem és a befizetést igazoló iratok alapján megállapítható, hogy a kérelmező az e rendeletben meghatározott mértéket meghaladó összegű díjat fizetett.
+
+[^1]: A 2. § (4) bekezdés c) pontját a 14/2014. (III. 31.) NGM rendelet 13. §-a iktatta be.
