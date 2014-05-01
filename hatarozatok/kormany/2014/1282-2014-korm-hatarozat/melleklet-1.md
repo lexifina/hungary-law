@@ -12,11 +12,7 @@
 
 ## Határidő: 2015. június 30.
 
-## 2. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1619/2012. (XII. 18.) Korm. határozatban a „2014. március 31.” szövegrész helyébe a „2014. december 31.” szöveg lép.
-
-## 3. A Mezőkövesd Zsóry Futball Club Kft. fejlesztéséhez a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1438/2013. (VII. 11.) Korm. határozatban a „2014. június 30.” szövegrész helyébe a „2014. december 31.” szöveg lép.
-
-## 4. A Nagykovácsi Kastélypark Komplexum fejlesztéséhez a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1517/2013. (VIII. 1.) Korm. határozat 2. pontjában a „Nagykovácsi Kastélypark Komplexum fejlesztéshez” szövegrész helyébe a „Nagykovácsi Kastélypark Komplexum (kastélypark és Julianna major) fejlesztéshez” szöveg lép.
+## 2–4.[^1]
 
 ## 5. A Kormány egyetért azzal, hogy
 
@@ -89,3 +85,5 @@
 | Nemzetgazdasági Minisztérium |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 2–4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
