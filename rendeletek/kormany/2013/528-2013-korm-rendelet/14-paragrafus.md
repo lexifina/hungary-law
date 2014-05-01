@@ -1,6 +1,5 @@
-14. § (1)[^2]
+14. § (1)[^1]
 
-(2)[^3]
+(2) Hatályát veszti az üvegházhatású gázok kibocsátásával kapcsolatos adatszolgáltatásról szóló 345/2009. (XII. 30.) Korm. rendelet.
 
-[^2]: A 14. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: A 14. § (2) bekezdése a 11. § (2) bekezdése alapján 2014. május 1-jén lép hatályba.
+[^1]: A 14. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
