@@ -130,6 +130,10 @@ I. Az egészségügyi eljárások egészségügyi szakmákra vonatkozó ellátá
 
 | 1208E |  | Impulzus diagnosztika a plexus brachialis ellátási területén |  |  |  |  | O |  |  |  | X |  |  |  |
 
+| 1208E |  | Impulzus diagnosztika a plexus brachialis ellátási területén |  |  |  |  | O |  |  |  | X |  |  |  |
+
+| 1208F |  | Impulzus diagnosztika a n. facialis ellátási területén |  |  |  |  | O | O |  |  | X |  |  |  |
+
 | 1208F |  | Impulzus diagnosztika a n. facialis ellátási területén |  |  |  |  | O | O |  |  | X |  |  |  |
 
 | 1208G |  | Impulzus diagnosztika a n. ischiadicus ellátási területén |  |  |  |  | O |  |  |  | X |  |  |  |
@@ -263,6 +267,10 @@ I. Az egészségügyi eljárások egészségügyi szakmákra vonatkozó ellátá
 |  |  |  |  |  | O |  |  |  |  |  |  |  | O |  |  |  |  |  |  | O |  |  | O |  |  |  |  |  | 1208D |
 
 |  | O |  |  |  | O |  |  |  |  |  |  |  | O |  |  |  |  |  |  | O |  |  | O |  |  |  |  |  | 1208E |
+
+|  | O |  |  |  | O |  |  |  |  |  |  |  | O |  |  |  |  |  |  | O |  |  | O |  |  |  |  |  | 1208E |
+
+|  |  |  |  |  | O |  |  |  |  |  |  |  | O |  |  |  |  |  |  | O |  |  | O |  |  |  |  |  | 1208F |
 
 |  |  |  |  |  | O |  |  |  |  |  |  |  | O |  |  |  |  |  |  | O |  |  | O |  |  |  |  |  | 1208F |
 
@@ -418,4 +426,4 @@ I. Az egészségügyi eljárások egészségügyi szakmákra vonatkozó ellátá
 
 | 12310 |  | Impedancia audiometria (Tympanometria + stapedius refl.) |  |  |  |  | O | X |  |  |  |  |  |  |
 
-[^9]: A 2. melléklet az 55/2012. (XII. 28.) EMMI rendelet 10. § (2) bekezdése és (6) bekezdése, a 24/2013. (III. 29.) EMMI rendelet 5. § (2) bekezdése szerint módosított szöveg.
+[^9]: A 2. melléklet az 55/2012. (XII. 28.) EMMI rendelet 10. § (2) bekezdése és (6) bekezdése, a 24/2013. (III. 29.) EMMI rendelet 5. § (2) bekezdése, a 36/2014. (IV. 30.) EMMI rendelet 6. § (1) bekezdése szerint módosított szöveg.
