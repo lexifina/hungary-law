@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-5-00-00
 | --- | --- | --- |
 | 2011-03-02 | 2011. évi V. törvény | 2011-5-00-00.0 (közlönyállapot) |
 | 2011-03-02 | Nemzeti Jogszabálytár (egységes szerkezet) | 2011-5-00-00.1 |
+| 2014-05-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2011-5-00-00.2 |
