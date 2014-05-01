@@ -154,6 +154,8 @@ b) a miniszter, hogy
 
 38. a közút és műtárgyai tervezésére, építésére, valamint a forgalom biztonságát és forgalmi rendjét meghatározó technikai eszközökre, továbbá a közutak kezelésére vonatkozó jogszabályi szintű szabályozást nem igénylő műszaki előírások, útmutatók megalkotására és kiadására, közzétételére vonatkozó eljárási szabályokat,
 
+39. a csatlakozási díj meghatározásának elveit, mértékét, a kezelői hozzájárulás kiadásának feltételeit
+
 c) a miniszter, hogy a közúti járművek környezetvédelmi felülvizsgálatával kapcsolatos szabályokat a környezetvédelemért felelős miniszter egyetértésével kiadott,
 
 d) a közlekedésrendészetért felelős miniszter, hogy a közlekedésrendészeti intézkedések végrehajtásának módját;

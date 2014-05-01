@@ -1,13 +1,17 @@
-39. § (1) Útcsatlakozás létesítéséhez
+39. § (1) Útcsatlakozás létesítéséhez – a (2) bekezdésben foglaltak kivételével – a közút kezelőjének hozzájárulása szükséges.
 
-a) a közút kezelőjének hozzájárulása szükséges, kivéve a b) pont szerinti esetet,
+(2) Útcsatlakozás létesítéséhez az országos közút vagyonkezelőjének a hozzájárulása szükséges, ha az országos közúthoz új, kereskedelmi egységhez kapcsolódó utat, vagy közforgalom elől elzárt vagy el nem zárt magánutat csatlakoztatnak.
 
-b) a meglévő közút vagyonkezelőjének hozzájárulása szükséges, amennyiben a közúthoz új utat csatlakoztatnak.
+(3) Az (1) és (2) bekezdés szerinti hozzájárulás megadása feltételhez – a (2) bekezdés szerinti esetben csatlakozási díj megfizetéséhez is – kötött. A csatlakozási díj mértékét, illetve a mérték megállapításának elveit a miniszter rendeletben állapítja meg.
 
-(2) A kérelmező a hozzájárulás megtagadása miatt vagy a megállapított feltételekkel szemben a közlekedési hatósághoz fordulhat, amely az útcsatlakozást engedélyezheti, illetőleg a feltételeket módosíthatja.
+(4) Ha az útcsatlakozást hozzájárulás nélkül vagy nem a hozzájárulásban foglaltak szerint létesítették, és
 
-(3) Ha az útcsatlakozást hozzájárulás nélkül vagy nem a hozzájárulásban foglaltak szerint létesítették és az a vonatkozó közlekedésbiztonsági követelményeknek nem felel meg, a közlekedési hatóság az útcsatlakozás tulajdonosát (kezelőjét) annak elbontására vagy átépítésére kötelezheti.
+a) az a vonatkozó közlekedésbiztonsági követelményeknek nem felel meg, vagy
 
-(4) A szilárd burkolatú közúthoz csatlakozó földút kezelőjének meg kell akadályoznia, hogy a földútról a járművek a szilárd burkolatú közútra földet, iszapot, követ vagy egyéb anyagot hordjanak fel.
+b) a csatlakozási díj nem került megfizetésre,
 
-(5) Ha a közút kezelője vagy a meglévő közút vagyonkezelője az (1) bekezdésben meghatározott útcsatlakozás létesítéséhez szükséges hozzájárulás megadásáról vagy megtagadásáról a külön jogszabályban meghatározott határidőn belül nem nyilatkozik, a hozzájárulást a kérelemben foglaltaknak megfelelően megadottnak kell tekinteni.
+a közlekedési hatóság az útcsatlakozás tulajdonosát (kezelőjét) annak elbontására vagy átépítésére kötelezheti.
+
+(5) A szilárd burkolatú közúthoz csatlakozó földút kezelőjének meg kell akadályoznia, hogy a földútról a járművek a szilárd burkolatú közútra földet, iszapot, követ vagy egyéb anyagot hordjanak fel.
+
+(6) Ha a közút kezelője vagy a meglévő közút vagyonkezelője az (1) és (2) bekezdésben meghatározott útcsatlakozás létesítéséhez szükséges hozzájárulás megadásáról vagy megtagadásáról a kérelmező által szabályszerűen előterjesztett kérelem kézhezvételétől számított harminc napon belül nem nyilatkozik, a hozzájárulást a kérelemben foglaltaknak megfelelően megadottnak kell tekinteni.
