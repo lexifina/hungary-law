@@ -84,6 +84,6 @@
 
 ## Bármely ezen Szerződésből fakadó vitát, amelyet barátságos úton nem lehet rendezni, egy három választott bíróból álló Választottbíróság elé kell vinni. Minden érintett fél egy választott bírót jelöl. A harmadik választott bírót az Európai Közösségek Bíróságának Elnöke jelöli ki; ez a választott bíró jár el a Választottbíróság elnökeként. Az eljárás a Nemzetközi Kereskedelmi Kamara Egyeztetési és Választottbíráskodási Szabályai szerint zajlik.
 
-4. melléklet a 312/2001. (XII. 28.) Korm. rendelethez[^146]
+4. melléklet a 312/2001. (XII. 28.) Korm. rendelethez[^149]
 
-[^146]: A 4. mellékletet az 50/2010. (III. 9.) Korm. rendelet 22. § iktatta be.
+[^149]: A 4. mellékletet az 50/2010. (III. 9.) Korm. rendelet 22. § iktatta be.
