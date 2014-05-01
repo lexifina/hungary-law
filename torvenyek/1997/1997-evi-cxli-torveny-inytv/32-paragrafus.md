@@ -39,3 +39,5 @@ g) a meghatalmazottaknak és a feleknek az okirat alapján nyilvánvalóan azono
 (4a) Jogtanácsos által teljesített ellenjegyzés esetében a székhely alatt az adott jogügyletben a jogtanácsos által képviselt szervezet székhelyét kell érteni.
 
 (5) Jelzálogjog alapítására, módosulására és megszűnésére vonatkozó bejegyzés olyan magánokirat alapján is teljesíthető, amelyet a nyilatkozattevő hitelintézet – nevének feltüntetésével – szabályszerűen és nyilvánvalóan azonosítható módon írt alá.
+
+(6) A föld tulajdonjogának megszerzésére irányuló, ügyvéd által ellenjegyzett vagy közokiratba foglalt, a külön jogszabályban meghatározott biztonsági kellékekkel rendelkező okmányon elkészített, és hatósági jóváhagyáshoz kötött szerződés bejegyzés alapjául akkor szolgálhat, ha annak eredeti példányán szerepel a mezőgazdasági igazgatási szerv jóváhagyásáról szóló záradék. Az elővásárlásra jogosult javára történő bejegyzés iránti kérelemhez csatolandó bejegyzési engedélynek tartalmaznia kell a jogszerző bejegyzéshez szükséges adatait.

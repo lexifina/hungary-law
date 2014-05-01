@@ -24,7 +24,7 @@ g) okirat keltezésének helyét vagy az időpontját kellene feltüntetni,
 
 h) az ingatlanügyi hatóság által hatályos záradékkal ellátott változási vázrajzot, vagy a vázrajzon a törvényben meghatározott személyek aláírását kellene pótolni,
 
-i) termőföld ingatlan tulajdonjogának megszerzésére irányuló szerződés esetében, a külön jogszabályban a tulajdonjog bejegyzés iránti kérelem benyújtásához előírt, a hirdetményi úton történt közlés megtörténtét igazoló okiratokat, illetve az elővásárlási jogról lemondó nyilatkozatot nem mellékelték vagy a hirdetményi kifüggesztés időtartama nem felel meg a külön jogszabályban foglaltaknak.
+i)
 
 (3a) Nem vonatkozik a (3) bekezdés c) pontjában foglalt rendelkezés arra az esetre, ha az ingatlan helyrajzi száma a kérelem iktatását követően, az érdemi döntés meghozatala előtt az ingatlanügyi hatóság ügykörében felmerült, kizárólag számítástechnikai okból került módosításra, és az ingatlan minden más adata változatlan.
 
@@ -42,6 +42,8 @@ d) a bejegyzési kérelmet arra nem jogosult nyújtotta be,
 
 e) a kérelemhez a bejegyzés alapjául szolgáló okiratot nem csatolták,
 
-f) a bejegyzés alapjául szolgáló okirathoz az ingatlan-nyilvántartási eljárás megindításához szükséges nyomtatvány kérelmet nem csatolták.
+f) a bejegyzés alapjául szolgáló okirathoz az ingatlan-nyilvántartási eljárás megindításához szükséges nyomtatvány kérelmet nem csatolták,
+
+g) a föld tulajdonjogának megszerzésére irányuló szerződésen a mezőgazdasági igazgatási szerv törvényben előírt jóváhagyásáról szóló záradék nem szerepel.
 
 (5) Az igazgatási szolgáltatási díj meg nem fizetése esetén – a (3) és (4) bekezdéstől eltérően – az ingatlanügyi hatóság a díj megfizetésére irányuló hiánypótlási felhívást bocsát ki a (3) és (4) bekezdés szerinti döntés meghozatalát megelőzően, de legkésőbb a kérelem benyújtását követő tizenöt napon belül.
