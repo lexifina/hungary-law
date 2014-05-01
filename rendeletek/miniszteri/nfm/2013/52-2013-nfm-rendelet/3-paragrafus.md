@@ -26,7 +26,7 @@
 
 11. a távlehívható fogyasztásmérő berendezésben tárolt és kiolvasható, a felhasználó villamosenergia-fogyasztására vonatkozó adatokba az elosztó ügyfélszolgálatán történő betekintés, és
 
-12.[^1]
+12. a távlehívható fogyasztásmérő berendezésben tárolt és kiolvasható, a felhasználó villamosenergia-fogyasztására vonatkozó adatokhoz 3 hónapra visszamenőlegesen az elosztó honlapján történő hozzáférés.
 
 (2) Ha a felhasználó a fogyasztásmérő berendezés hibás mérésének feltételezése miatt a fogyasztásmérő berendezés felülvizsgálatát kérte az elosztótól, és a felülvizsgált fogyasztásmérő berendezés mérése a külön jogszabályban előírt hibahatárt túllépi, vagy az elosztó megállapítja, hogy a fogyasztásmérő berendezés hibás, az elosztó az 1. § (1) bekezdés 1. pontja alapján felszámított külön díjat a felülvizsgálat eredményéről való értesüléstől számított 8 napon belül a felhasználónak vagy a fizetőnek visszatéríti.
 
@@ -41,5 +41,3 @@
 3. az 1. § (3) bekezdése szerinti szolgáltatás első és második alkalommal történő igénybevétele, és
 
 4. a felhasználó hálózathasználati és villamosenergia-vásárlási szerződéseinek VET 63. § (1) bekezdése szerinti megbízottként történő, összevont kezelése.
-
-[^1]: A 3. § (1) bekezdés 12. pontja a 11. § (3) bekezdése alapján 2014. május 1-jén lép hatályba.
