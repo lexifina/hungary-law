@@ -26,6 +26,10 @@ h) közeli hozzátartozó: a Polgári Törvénykönyv (a továbbiakban: Ptk.) sz
 
 i) többségi befolyás: a Ptk. 8:2. §-a szerinti befolyás.
 
-j)–l)
+j) föld: a mező- és erdőgazdasági földek forgalmáról szóló törvényben meghatározott mező- és erdőgazdasági hasznosítású föld;
+
+k) tanya: a mező- és erdőgazdasági földek forgalmáról szóló törvényben meghatározott tanya;
+
+l) termőföld: a termőföld védelméről szóló törvényben meghatározott termőföld.
 
 (2)
