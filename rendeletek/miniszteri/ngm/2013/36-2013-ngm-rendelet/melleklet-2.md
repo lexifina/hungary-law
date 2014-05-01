@@ -964,6 +964,6 @@
 
 |  | Kelt ………………………………………, ………..év …………. hó…….nap | Kelt ………………………………………, ………..év …………. hó…….nap |
 
-2. melléklet a 36/2013. (IX. 13.) NGM rendelethez[^8]
+2. melléklet a 36/2013. (IX. 13.) NGM rendelethez[^14]
 
-[^8]: A 2. melléklet a 75/2013. (XII. 31.) NGM rendelet 5. § 2. pontja szerint módosított szöveg.
+[^14]: A 2. melléklet a 75/2013. (XII. 31.) NGM rendelet 5. § 2. pontja szerint módosított szöveg.

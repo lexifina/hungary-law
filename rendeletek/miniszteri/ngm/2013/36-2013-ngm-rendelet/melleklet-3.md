@@ -766,10 +766,10 @@
 
 |  | Kelt ………………………………………, ………..év …………. hó…….nap |  | Kelt ………………………………………, ………..év …………. hó…….nap |
 
-3. melléklet a 36/2013. (IX. 13.) NGM rendelethez[^9]
+3. melléklet a 36/2013. (IX. 13.) NGM rendelethez[^15]
 
 A szerv megnevezése, székhelye:
 
 RENDEZŐ MÉRLEG
 
-[^9]: A 3. melléklet a 75/2013. (XII. 31.) NGM rendelet 5. § 3. pontja szerint módosított szöveg.
+[^15]: A 3. melléklet a 75/2013. (XII. 31.) NGM rendelet 5. § 3. pontja szerint módosított szöveg.

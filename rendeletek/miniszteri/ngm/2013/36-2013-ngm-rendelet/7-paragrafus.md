@@ -1,4 +1,4 @@
-## 7. §[^3] Az 5. § szerinti rendező, technikai tételek elszámolását követően a 4. § (1) bekezdése szerinti szervezeteknél a 4922. Egyéb mérlegrendezési számláról
+## 7. §[^6] Az 5. § szerinti rendező, technikai tételek elszámolását követően a 4. § (1) bekezdése szerinti szervezeteknél a 4922. Egyéb mérlegrendezési számláról
 
 a) a rendező mérlegben az A. NEMZETI VAGYONBA TARTOZÓ BEFEKTETETT ESZKÖZÖK és B. NEMZETI VAGYONBA TARTOZÓ FORGÓESZKÖZÖK mérlegcsoportba átsorolandó eszközök bruttó, bekerülési értékének megfelelő összeget át kell könyvelni a 4111. Kezelésbe vett eszközök tartós tőkéje,
 
@@ -10,4 +10,4 @@ d) annak fennmaradó egyenlegét át kell vezetni a 4121. Előző évek kezelt t
 
 könyvviteli számlára.
 
-[^3]: A 7. § a 75/2013. (XII. 31.) NGM rendelet 2. §-ával megállapított szöveg.
+[^6]: A 7. § a 75/2013. (XII. 31.) NGM rendelet 2. §-ával megállapított szöveg.
