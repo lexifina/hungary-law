@@ -32,3 +32,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1993-9-20-3D
 | 2014-01-21 | 1993-9-20-3D.90 | 62/2007. (XII. 29.) EüM rendelet |
 | 2014-02-01 | 1993-9-20-3D.91 | 3/2004. (I. 15.) ESZCSM rendelet |
 | 2014-04-01 | 1993-9-20-3D.92 | 3/2004. (I. 15.) ESZCSM rendelet |
+| 2014-05-01 | 1993-9-20-3D.93 | 36/2014. (IV. 30.) EMMI rendelet |

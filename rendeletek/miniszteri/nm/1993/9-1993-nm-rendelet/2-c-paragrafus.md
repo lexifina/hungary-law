@@ -1,4 +1,4 @@
-2/C. §[^32] (1) Az 1/A. számú melléklet szerinti egyes tételes elszámolás alá eső hatóanyagok esetében az egy finanszírozási évre vonatkozó országos keretösszeget az OEP határozza meg, erről az egészségbiztosításért felelős minisztert és a GYEMSZI-t tájékoztatja.
+2/C. §[^34] (1) Az 1/A. számú melléklet szerinti egyes tételes elszámolás alá eső hatóanyagok esetében az egy finanszírozási évre vonatkozó országos keretösszeget az OEP határozza meg, erről az egészségbiztosításért felelős minisztert és a GYEMSZI-t tájékoztatja.
 
 (2) Az 1/A. számú melléklet szerinti egyes tételes elszámolás alá eső hatóanyagok esetében a tételes elszámolásra jogosult egyes egészségügyi szolgáltatókra jutó, mg-ban, illetve g-ban kifejezett keret (a továbbiakban: intézményi kvóta) felosztását az egészségügyi szakmai kollégium és a GYEMSZI javaslatának kikérését követően az OEP végzi. Az intézményi kvótát úgy kell meghatározni, hogy – országos szinten – tartalék keret is rendelkezésre álljon. A tartalék keret képzésére az intézményi kvóta képzésére vonatkozó szabályokat kell alkalmazni.
 
@@ -22,4 +22,4 @@ d) a saját
 
 (7) Az egészségügyi szolgáltató intézményi kvótájának teljesítettségéről az OEP negyedéves tájékoztatást ad a honlapján.
 
-[^32]: A 2/C. §-t a 9/2013. (I. 31.) EMMI rendelet 1. §-a iktatta be.
+[^34]: A 2/C. §-t a 9/2013. (I. 31.) EMMI rendelet 1. §-a iktatta be.

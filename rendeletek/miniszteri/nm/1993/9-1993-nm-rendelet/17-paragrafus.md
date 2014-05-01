@@ -1,3 +1,3 @@
-## 16. §[^79]
+## 16. §[^81] Az egyes egészségbiztosítási tárgyú miniszteri rendeletek módosításáról szóló 36/2014. (IV. 30.) EMMI rendelettel megállapított 12. számú mellékletben foglaltakat a 2014. január havi kifizetésektől kell alkalmazni.
 
-[^79]: A 16. §-t a 70/2011. (XII. 23.) NEFMI rendelet 2. §-a iktatta be, hatályon kívül helyezte a 2/2012. (I. 3.) NEFMI rendelet 27. §-a.
+[^81]: A 16. §-t újonnan a 36/2014. (IV. 30.) EMMI rendelet 2. §-a iktatta be.

@@ -114,6 +114,8 @@
 
 ## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
 
+## 06052 adalimumab
+
 ## 06053 infliximab
 
 ## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
@@ -157,6 +159,8 @@
 ## Súlyos aktív fisztulázó gyermekkori Crohn-betegségben (6 éves kortól betöltött 18 éves korig) – amennyiben az életminőséget nagymértékben rontó fisztula/fisztulák a hagyományos gyógykezelés (antibiotikum és immunszuppresszív terápia) ellenére nem javulnak – három hónapig, ezt követően megfelelő válaszkészség esetén (fisztula záródás, illetve fisztulák számának csökkenése esetén) további kilenc hónapig (panaszmentes időszakot követő relapszus fellépésekor ismételt terápia megkísérelhető) – a finanszírozási eljárásrendekről szóló miniszteri rendeletben meghatározott finanszírozási protokollalapján.
 
 ## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
+
+## 06052 adalimumab
 
 ## 06053 infliximab
 
@@ -393,6 +397,8 @@
 | 1401 | Kaposi Mór Oktató Kórház, Kaposvár |
 
 | 1801 | Markusovszky Egyetemi Oktatókórház, Szombathely |
+
+| 1901 | Veszprém, Csolnoky Ferenc Kórház |
 
 ## 6/a1.
 
@@ -685,6 +691,62 @@
 | 1901 | Csolnoky Ferenc Kórház, Veszprém |
 
 | 2001 | Zala Megyei Kórház, Zalaegerszeg |
+
+## 7/a3.
+
+## TÁMOGATOTT INDIKÁCIÓK:
+
+## Dexametazonnal vagy dexametazonnal és talidomiddal kombináltan, olyan myeloma multiplexben szenvedő, korábban nem kezelt felnőttek (≥ 18 éves) indukciós kezelésére javallott, akik nagy dózisú kemoterápia mellett haemopoetikus őssejt-transzplantációra alkalmasak.
+
+## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
+
+## 06060 bortezomib
+
+## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
+
+## 0109 Egyesített Szent István és Szent László Kórház-Rendelőintézet, Budapest
+
+## 0140 Semmelweis Egyetem, Budapest
+
+## 0154 Országos Onkológiai Intézet, Budapest
+
+## 01A6 Magyar Honvédség Egészségügyi Központ, Budapest
+
+## 01E8 Szent Margit Kórház-Rendelőintézet, Budapest
+
+## 0242 Pécsi Tudományegyetem Klinikai Központ
+
+## 0301 Bács-Kiskun Megyei Kórház, Kecskemét
+
+## 0401 Pándy Kálmán Megyei Kórház, Gyula
+
+## 0509 MISEK, Miskolci Semmelweis Kórház és Egyetemi Oktatókórház
+
+## 0643 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ
+
+## 0701 Fejér Megyei Szent György Kórház, Székesfehérvár
+
+## 0801 Petz Aladár Megyei Oktató Kórház, Győr
+
+## 0940 Debreceni Egyetem, Orvos- és Egészségtudományi Centrum
+
+## 1011 Markhot Ferenc Oktatókórház és Rendelőintézet, Eger
+
+## 1101 Szent Borbála Kórház, Tatabánya
+
+## 1401 Kaposi Mór Oktató Kórház, Kaposvár
+
+## 1501 Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház
+
+## 1601 Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet, Szolnok
+
+## 1701 Tolna Megyei Balassa János Kórház, Szekszárd
+
+## 1801 Markusovszky Egyetemi Oktatókórház, Szombathely
+
+## 1901 Csolnoky Ferenc Kórház, Veszprém
+
+## 2001 Zala Megyei Kórház, Zalaegerszeg
 
 ## 7/b1.
 
@@ -2772,8 +2834,8 @@
 
 | 1801 | Markusovszky Egyetemi Oktatókórház, Szombathely |
 
-2. számú melléklet a 9/1993. (IV. 2.) NM rendelethez[^83]
+2. számú melléklet a 9/1993. (IV. 2.) NM rendelethez[^85]
 
 A járóbeteg-szakellátás tevékenységi kódjai
 
-[^83]: A 2. számú melléklet a 3/2004. (I. 15.) ESZCSM rendelet 4. § (1) bekezdésével megállapított, a 70/2004. (VIII. 6.) ESZCSM rendelet 2. §-a és a 7. § (2) bekezdésének b)–c) pontja, a 79/2004. (VIII. 27.) ESZCSM rendelet 1. §-a, a 26/2005. (VII. 13.) EüM rendelet 3. §-a, a 31/2005. (VIII. 2.) EüM rendelet 1. §-a, valamint a 38/2005. (IX. 13.) EüM rendelet 1. §-a szerint módosított és a Magyar Közlöny 2005. évi 135. számában megjelent helyesbítésnek megfelelő szöveg. A 2. számú melléklet a 48/2005. (XI. 8.) EüM rendelet 3. §-a, a 26/2006. (VI. 26.) EüM rendelet 4. §-a és 11. § (3)–(4) bekezdése, a 37/2006. (IX. 27.) EüM rendelet 1. §-a, a 13/2007. (III. 7.) EüM rendelet 2. § (1) bekezdése, a 33/2007. (VI. 28.) EüM rendelet 4. § (1) bekezdése, a 44/2007. (IX. 29.) EüM rendelet 3. § (1) bekezdése, a 62/2007. (XII. 29.) EüM rendelet 2. § (3)–(4) bekezdése szerint módosított, a Magyar Közlöny 2008. évi 6. számában megjelent helyesbítésnek megfelelő szöveg. A 2. számú melléklet a 22/2008. (V. 26.) EüM rendelet 4. § (2)–(3) bekezdése, a 35/2008. (IX. 16.) EüM rendelet 1. § (1) bekezdése, a 48/2008. (XII. 31.) EüM rendelet 1. § (2) bekezdése, a 29/2009. (VIII. 14.) EüM rendelet 2. § (2) bekezdése, a 35/2009. (X. 29.) EüM rendelet 2. § (2) bekezdése, a 35/2010. (V. 14.) EüM rendelet 6. § (3) bekezdése, a 29/2010. (XII. 30.) NEFMI rendelet 3. § (3)–(4) bekezdése, a 70/2011. (XII. 23.) NEFMI rendelet 4. § (2) bekezdése, az 55/2012. (XII. 28.) EMMI rendelet 2. § (2) és (10) bekezdése, a 24/2013. (III. 29.) EMMI rendelet 1. § (3) bekezdése és 2. §-a, a 4/2014. (I. 20.) EMMI rendelet 1. § (3)–(4) bekezdése szerint módosított szöveg.
+[^85]: A 2. számú melléklet a 3/2004. (I. 15.) ESZCSM rendelet 4. § (1) bekezdésével megállapított, a 70/2004. (VIII. 6.) ESZCSM rendelet 2. §-a és a 7. § (2) bekezdésének b)–c) pontja, a 79/2004. (VIII. 27.) ESZCSM rendelet 1. §-a, a 26/2005. (VII. 13.) EüM rendelet 3. §-a, a 31/2005. (VIII. 2.) EüM rendelet 1. §-a, valamint a 38/2005. (IX. 13.) EüM rendelet 1. §-a szerint módosított és a Magyar Közlöny 2005. évi 135. számában megjelent helyesbítésnek megfelelő szöveg. A 2. számú melléklet a 48/2005. (XI. 8.) EüM rendelet 3. §-a, a 26/2006. (VI. 26.) EüM rendelet 4. §-a és 11. § (3)–(4) bekezdése, a 37/2006. (IX. 27.) EüM rendelet 1. §-a, a 13/2007. (III. 7.) EüM rendelet 2. § (1) bekezdése, a 33/2007. (VI. 28.) EüM rendelet 4. § (1) bekezdése, a 44/2007. (IX. 29.) EüM rendelet 3. § (1) bekezdése, a 62/2007. (XII. 29.) EüM rendelet 2. § (3)–(4) bekezdése szerint módosított, a Magyar Közlöny 2008. évi 6. számában megjelent helyesbítésnek megfelelő szöveg. A 2. számú melléklet a 22/2008. (V. 26.) EüM rendelet 4. § (2)–(3) bekezdése, a 35/2008. (IX. 16.) EüM rendelet 1. § (1) bekezdése, a 48/2008. (XII. 31.) EüM rendelet 1. § (2) bekezdése, a 29/2009. (VIII. 14.) EüM rendelet 2. § (2) bekezdése, a 35/2009. (X. 29.) EüM rendelet 2. § (2) bekezdése, a 35/2010. (V. 14.) EüM rendelet 6. § (3) bekezdése, a 29/2010. (XII. 30.) NEFMI rendelet 3. § (3)–(4) bekezdése, a 70/2011. (XII. 23.) NEFMI rendelet 4. § (2) bekezdése, az 55/2012. (XII. 28.) EMMI rendelet 2. § (2) és (10) bekezdése, a 24/2013. (III. 29.) EMMI rendelet 1. § (3) bekezdése és 2. §-a, a 4/2014. (I. 20.) EMMI rendelet 1. § (3)–(4) bekezdése, a 36/2014. (IV. 30.) EMMI rendelet 3. § (2) bekezdése szerint módosított szöveg.
