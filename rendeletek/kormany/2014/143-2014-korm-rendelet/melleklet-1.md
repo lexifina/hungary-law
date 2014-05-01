@@ -1,0 +1,49 @@
+## 5. § E rendelet rendelkezéseit a hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
+
+1. melléklet a 143/2014. (IV. 30.) Korm. rendelethez
+
+## A nemzetgazdasági szempontból kiemelt jelentőségű beruházással összefüggő kiemelt jelentőségű üggyé minősített közigazgatási hatósági eljárások
+
+## Az 1. § (1) bekezdésben foglalt beruházással összefüggő kiemelt jelentőségű üggyé minősített közigazgatási hatósági ügyek:
+
+1. környezetvédelmi hatósági eljárások,
+
+2. természetvédelmi hatósági eljárások,
+
+3. általános építésügyi hatósági eljárások,
+
+4. területrendezési hatósági eljárások,
+
+5. örökségvédelmi hatósági engedélyezési eljárások és régészeti feltárásokkal kapcsolatos hatósági eljárások,
+
+6. vízügyi hatósági eljárások,
+
+7. tűzvédelmi hatósági eljárások,
+
+8. katasztrófavédelmi hatósági eljárások,
+
+9. útügyi hatósági eljárások,
+
+10. a Magyar Kereskedelmi Engedélyezési Hivatalról és a területi mérésügyi és műszaki biztonsági hatóságokról szóló 320/2010. (XII. 27.) Korm. rendelet szerinti építésügyi hatósági engedélyezési eljárások,
+
+11. műszaki biztonsági engedélyezési eljárások,
+
+12. hírközlési hatósági eljárások,
+
+13. telekalakításra irányuló hatósági eljárások,
+
+14. ingatlan-nyilvántartással összefüggő hatósági eljárások,
+
+15. földmérési hatósági eljárások,
+
+16. termőfölddel összefüggő engedélyezésre irányuló hatósági eljárások,
+
+17. talajvédelmi engedélyezésre irányuló hatósági eljárások,
+
+18. erdővédelmi hatósági eljárások,
+
+19. közegészségügyi hatósági eljárások,
+
+20. azok a további hatósági engedélyezési eljárások, melyek az 1. § (1) bekezdése szerinti beruházás megvalósításához és használatbavételéhez (üzemeltetéséhez, működéséhez) közvetlenül szükségesek,
+
+21. az 1–20. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
