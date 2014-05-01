@@ -1,5 +1,3 @@
-## 5. § A kerettantervi rendelet 11. § a) pontja helyébe a következő rendelkezés lép:
+## 4–5. §[^3]
 
-## (A kerettanterv jóváhagyásával összefüggő eljárásban nem működhet közre)
-
-## „a) a kerettanterv készítője, valamint annak a Polgári Törvénykönyv szerinti közeli hozzátartozója,”
+[^3]: A 4–5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
