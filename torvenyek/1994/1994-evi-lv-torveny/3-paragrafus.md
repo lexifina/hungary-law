@@ -1,3 +1,0 @@
-## Fogalommeghatározások
-
-3. §

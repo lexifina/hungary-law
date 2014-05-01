@@ -1,3 +1,0 @@
-## A részesművelés
-
-25. §

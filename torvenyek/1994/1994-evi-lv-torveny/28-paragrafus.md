@@ -1,3 +1,0 @@
-28. § (1) Ha egy-egy tulajdonos termőföldjeinek birtoktaggá történő egyesítése céljából az önkéntes földcsere több tulajdonos, több széttagoltan fekvő földrészletét egyidejűleg érinti, az önkéntes földcsere megszervezését a cserélni szándékozó tulajdonosok és egyéb érdekeltek együttesen kérhetik az ingatlanügyi hatóságtól. Az önkéntes földcsere megszervezését bármely ingatlanügyi hatóságtól kérni lehet, amelynek illetékességi területén az elcserélendő földek valamelyike fekszik.
-
-(2) Az önkéntes földcsere megállapodás alapján szükséges ingatlan-nyilvántartási bejegyzés alkalmával az ingatlanügyi hatóság az okiraton igazolja, hogy a földcsere birtokösszevonási célt szolgált.

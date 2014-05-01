@@ -1,3 +1,0 @@
-## Elővásárlási jogok
-
-10. §

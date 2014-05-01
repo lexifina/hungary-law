@@ -1,1 +1,0 @@
-32. § Az önkéntes földcserét a termőföldön fennálló telki szolgalmi jog, a földmérési jelek elhelyezését biztosító használati jog, vezeték-, vízvezetési és bányaszolgalmi jog, továbbá egyéb közérdekű használati jog nem akadályozza.
