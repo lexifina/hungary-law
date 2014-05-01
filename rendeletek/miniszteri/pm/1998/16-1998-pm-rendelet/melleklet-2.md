@@ -182,11 +182,17 @@ Negyedéves jelentés az Eximbank Zrt. kamatkiegyenlítési igényéről és bef
 
 | 11 |  |  |
 
-| 12 | - pénzkölcsönök -egyéb export célú hitelek - egyéb export célú refinanszírozási hitelek |
+| 12 | - követelésvásárlás |  |  |
 
-| 13 |  |  |
+| 13 | - exportkövetelések megvásárlásához nyújtott refinanszírozási hitelek |  |  |
 
-| 14 |
+| 14 | - egyéb export célú hitelek |  |  |
+
+| 15 | - egyéb export célú refinanszírozási hitelek |  |  |
+
+| 16 | - versenyképességet javító hitelek |  |  |
+
+| 17 | - versenyképességet javító refinanszírozási hitelek |  |  |
 
 Dátum: ......................................................................
 
@@ -202,4 +208,4 @@ cégszerű aláírás
 [^59]: A 2. számú melléklet 1/b. számú táblázatát a 22/2011. (VI. 21.) NGM rendelet 11. §-a iktatta be, szövege az 54/2012. (XII. 29.) NGM rendelet 6. § d) és e) pontja szerint módosított szöveg.
 [^60]: A 2. számú melléklet 2. számú táblázata a 15/2006. (V. 17.) PM rendelet 6. § (2) bekezdésének a) pontja szerint módosított szöveg.
 [^61]: A 2. számú melléklet 3. számú táblázata a 15/2006. (V. 17.) PM rendelet 6. § (2) bekezdésének a) pontja szerint módosított szöveg.
-[^62]: A 2. számú melléklet 4. számú táblázata az 54/2012. (XII. 29.) NGM rendelet 5. § (1) bekezdés b) pontjával megállapított szöveg.
+[^62]: A 2. számú melléklet 4. számú táblázata az 54/2012. (XII. 29.) NGM rendelet 5. § (1) bekezdés b) pontjával megállapított, a 20/2014. (IV. 30.) NGM rendelet 2. § 1. pontja szerint módosított szöveg.

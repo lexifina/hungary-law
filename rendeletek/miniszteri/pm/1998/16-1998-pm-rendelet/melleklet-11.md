@@ -144,11 +144,11 @@ lehívásához közép- és hosszú lejáratú ügyletek esetén
 
 | 38 | KR 15. § (2) ÁSZF IX. 3. | A kárfizetési türelmi idő letelte miatt a biztosító fizetési kötelezettsége beállt |  |
 
-| 39 | Gt 29. § | A biztosított nevében aláíró személy cégjegyzési, képviseleti jogosultságának megléte |  |
+| 39 | Ptk. | A biztosított nevében aláíró személy cégjegyzési, képviseleti jogosultságának megléte |  |
 
 | * ÁSZF= Általános Szerződéses Feltételek |
 
-| Gt = a gazdasági társaságokról szóló 2006. évi IV. törvény |
+| Ptk. = a Polgári Törvénykönyvről szóló 2013. évi V. törvény |
 
 | KR = a Magyar Exporthitel Biztosító Részvénytársaság által a központi költségvetés terhére, a Kormány készfizető kezessége mellett vállalható nem piacképes kockázatú biztosítások feltételeiről szóló 312/2001. (XII. 28.) Korm. rendelet |
 
@@ -238,11 +238,11 @@ lehívásához forgalmi típusú ügyleteknél
 
 | 36 | KR 15. § (2) ÁSZF X. 4. | A kárfizetési türelmi idő letelte miatt a biztosító fizetési kötelezettsége beállt |  |
 
-| 37 | Gt 29. § | A biztosított nevében aláíró személy cégjegyzési, képviseleti jogosultságának megléte |  |
+| 37 | Ptk. | A biztosított nevében aláíró személy cégjegyzési, képviseleti jogosultságának megléte |  |
 
 | * ÁSZF= Általános Szerződéses Feltételek |
 
-| Gt = a gazdasági társaságokról szóló 2006. évi IV. törvény |
+| Ptk. = a Polgári Törvénykönyvről szóló 2013. évi V. törvény |
 
 | KR = a Magyar Exporthitel Biztosító Részvénytársaság által a központi költségvetés terhére, a Kormány készfizető kezessége mellett vállalható nem piacképes kockázatú biztosítások feltételeiről szóló 312/2001. (XII. 28.) Korm. rendelet |
 
@@ -252,4 +252,4 @@ lehívásához forgalmi típusú ügyleteknél
 
 | .............................................. Cégszerű aláírás | .............................................. Igazgatóság elnökének aláírása |
 
-[^71]: A 11. mellékletet újonnan a 16/2012. (VI. 28.) NGM rendelet 11. §-a iktatta be, szövege az 54/2012. (XII. 29.) NGM rendelet 5. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^71]: A 11. mellékletet újonnan a 16/2012. (VI. 28.) NGM rendelet 11. §-a iktatta be, szövege az 54/2012. (XII. 29.) NGM rendelet 5. § (2) bekezdés b) pontja, a 20/2014. (IV. 30.) NGM rendelet 1. § 13. pontja és 2. § 3. pontja szerint módosított szöveg.
