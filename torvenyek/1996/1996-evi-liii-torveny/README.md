@@ -17,3 +17,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-53-00-00
 | 2013-12-31 | 2013. évi CCL. törvény | 1996-53-00-00.34 |
 | 2014-03-15 | 2013. évi CCLII. törvény | 1996-53-00-00.35 |
 | 2014-03-31 | 2013. évi XXVI. törvény | 1996-53-00-00.36 |
+| 2014-05-01 | 2013. évi CCXII. törvény | 1996-53-00-00.37 |

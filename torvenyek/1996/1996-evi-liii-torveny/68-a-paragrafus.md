@@ -1,0 +1,1 @@
+68/A. § A mező- és erdőgazdasági földek forgalmáról szóló törvény szerinti külföldi természetes személy és jogi személy a földnek nem minősülő, a település külterületén fekvő védett természeti terület tulajdonjogát nem szerezheti meg.
