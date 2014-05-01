@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-85-00-00
 | 2013-01-01 | 2012. évi CCXIII. törvény | 1996-85-00-00.22 |
 | 2013-08-01 | 2013. évi CXXXIII. törvény | 1996-85-00-00.23 |
 | 2014-01-01 | 2013. évi CCXLIX. törvény | 1996-85-00-00.24 |
+| 2014-05-01 | 2013. évi CCXII. törvény | 1996-85-00-00.25 |

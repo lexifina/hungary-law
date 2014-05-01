@@ -20,7 +20,7 @@ e) az olyan jog vagy tény törlésére irányuló kérelem, amelynek megszűné
 
 f) a lakástörvény alapján vételi, elővásárlási joggal rendelkező személy részére elidegenített önkormányzati vagy állami tulajdonban álló lakás tulajdonjogának, haszonélvezeti jogának, továbbá az ezzel összefüggő elidegenítési és terhelési tilalomnak, valamint jelzálogjognak az ingatlan-nyilvántartási bejegyzésével vagy törlésével kapcsolatos eljárás;
 
-g) a birtok-összevonási célú önkéntes földcsere keretében létrejött megállapodáson alapuló tulajdonosváltozás ingatlan-nyilvántartási bejegyzése;
+g) a birtok-összevonási célú földcsere keretében létrejött megállapodáson alapuló tulajdonosváltozás ingatlan-nyilvántartási bejegyzése;
 
 h) a végrehajtási eljárásban az árverés, nyilvános pályázat kitűzése tényének és időpontjának feljegyzésére, valamint az árverés sikertelensége és a pályázat eredménytelensége esetén annak törlésére irányuló eljárás;
 
@@ -28,7 +28,7 @@ i) a közérdekű bejelentés, javaslat és a panasz elbírálására, valamint 
 
 j) a költségmentesség engedélyezése iránti eljárás;
 
-k) a birtok-összevonási célú önkéntes földcsere megszervezése iránt az ingatlanügyi hatóságnál kezdeményezett eljárás, valamint a kárpótlási eljárás, a részarány-tulajdonnal kapcsolatos eljárás;
+k) a kárpótlási eljárás, a részarány-tulajdonnal kapcsolatos eljárás;
 
 l) a lakóingatlanon alapított zálogjog fedezetével kötött, deviza alapú kölcsönszerződésből származó követelés törvényben rögzített árfolyamon történő végtörlesztése során megszűnt jelzálogjog, végrehajtási jog, továbbá az elidegenítési és terhelési tilalom törlésére irányuló eljárás, valamint a hitelszerződésből eredő kötelezettségeinek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló törvény alapján
 

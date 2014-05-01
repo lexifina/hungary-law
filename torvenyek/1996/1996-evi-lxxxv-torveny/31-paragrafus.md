@@ -34,7 +34,7 @@ l) a mező- és erdőgazdasági földek forgalmáról szóló törvényben megha
 
 kéri.
 
-(2) Tárgyánál fogva díjmentes az elektronikus dokumentumként szolgáltatott hiteles tulajdonilap-másolat lekérdezése, ha az igazolhatóan birtok-összevonási célú önkéntes földcsere megszervezése iránt indított eljáráshoz szükséges.
+(2)
 
 (3) Az (1) bekezdés f) pontjának fa) alpontja nem vonatkozik arra az esetre, ha a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvényben foglaltak szerint az ügyfél köteles az adatszolgáltatásért járó díjat megfizetni.
 
