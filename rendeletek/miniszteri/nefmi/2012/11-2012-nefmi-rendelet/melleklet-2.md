@@ -1146,6 +1146,12 @@
 
 | 76001 | Kemoterápia, CX + HER 3 heti fenntartó ciklus protokoll szerint (01. fázis) |
 
+| 76971* | Kemoterápia, sc. HER+TAX 3 heti dózis protokoll szerint |
+
+| 76981* | Kemoterápia, sc. HER+TXT 3 heti dózis protokoll szerint |
+
+| 76991* | Kemoterápia, sc. HER 3 heti dózis protokoll szerint |
+
 | 77011 | Kemoterápia, CAP I.+dexrazoxane protokoll szerint (01. fázis) |
 
 | 77021 | Kemoterápia, EEP+dexrazoxane protokoll szerint (01. fázis) |
@@ -6072,4 +6078,4 @@ Fázisok leírása:
 
 | Fázisok száma | : | 1 |
 
-[^4]: A 2. melléklet az 55/2012. (XII. 28.) EMMI rendelet 17. §-a, a 9/2013. (I. 31.) EMMI rendelet 7. § (2) bekezdése, a 62/2013. (VIII. 27.) EMMI rendelet 3. § (2) bekezdése szerint módosított szöveg.
+[^4]: A 2. melléklet az 55/2012. (XII. 28.) EMMI rendelet 17. §-a, a 9/2013. (I. 31.) EMMI rendelet 7. § (2) bekezdése, a 62/2013. (VIII. 27.) EMMI rendelet 3. § (2) bekezdése, a 36/2014. (IV. 30.) EMMI rendelet 8. § (2) bekezdése szerint módosított szöveg.
