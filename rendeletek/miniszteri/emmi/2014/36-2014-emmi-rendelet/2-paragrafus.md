@@ -1,0 +1,3 @@
+## 1. § Az egészségügyi szakellátás társadalombiztosítási finanszírozásának egyes kérdéseiről szóló 9/1993. (IV. 2.) NM rendelet (a továbbiakban: R1.) 2/B. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) Az egészségügyi szolgáltató az 1/A. számú melléklet szerinti tételes elszámolású gyógyszerek intézményi körének bővítésére irányuló kérelmét az egészségügyi szakmai kollégium illetékes tagozata és a GYEMSZI támogató nyilatkozatával az egészségbiztosításért felelős miniszternél kezdeményezi. Az egészségbiztosításért felelős miniszter döntése meghozatala érdekében az OEP-től tájékoztatást kér arra vonatkozóan, hogy a kérelem jár-e országos keretemeléssel a beszerzett gyógyszer vonatkozásában.”
