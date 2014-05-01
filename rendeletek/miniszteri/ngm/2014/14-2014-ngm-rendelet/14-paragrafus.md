@@ -1,6 +1,10 @@
-## 13. §[^1]
+## 13. § A felnőttképzési tevékenység folytatásának engedélyezési eljárása során fizetendő igazgatási szolgáltatási díj mértékéről, befizetésének és felhasználásának szabályairól, valamint a felnőttképzést folytató intézmények ellenőrzése során kiszabott bírság befizetésének rendjéről szóló 56/2013. (XII. 4.) NGM rendelet 2. § (4) bekezdése a következő c) ponttal egészül ki:
 
-14–15. §[^2]
+## [A jogorvoslati eljárás igazgatási szolgáltatási díja (a továbbiakban: jogorvoslati díj)]
+
+## „c) az Fktv. szerinti felnőttképzést folytató intézmények ellenőrzése során meghozott döntés ellen benyújtott jogorvoslati kérelem esetén 33 600 forint.”
+
+14–15. §[^1]
 
 Melléklet a 14/2014. (III. 31.) NGM rendelethez
 
@@ -264,5 +268,4 @@ III. Felnőttképzési programszakértők
 
 4.4. Konfliktuskezelés
 
-[^1]: A 13. § a 10. § (2) bekezdése alapján 2014. május 1-jén lép hatályba.
-[^2]: A 14–15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 14–15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
