@@ -1,6 +1,6 @@
-## 265. §[^272] Akit a Büntető Törvénykönyvről szóló 1978. évi IV. törvény alapján részben felfüggesztett szabadságvesztésre ítéltek, arra e rendelet 2013. június 30-án hatályban volt, a részben felfüggesztett szabadságvesztésre vonatkozó rendelkezéseit továbbra is alkalmazni kell.
+## 266. §[^281] Ez a rendelet a büntetőeljárás során a tájékoztatáshoz való jogról szóló, 2012. május 22-i 2012/13/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
-1. számú melléklet a 6/1996. (VII. 12.) IM rendelethez[^273]
+1. számú melléklet a 6/1996. (VII. 12.) IM rendelethez[^282]
 
-[^272]: A 265. §-t a 118/2008. (V. 8.) Korm. rendelet 18. §-ának 157. pontja hatályon kívül helyezte, újonnan a 9/2013. (VI. 29.) KIM rendelet 16. §-a iktatta be.
-[^273]: Az 1. számú melléklet 3. pontja a 41/2011. (XII. 30.) KIM rendelet 9. § m) pontja szerint módosított szöveg.
+[^281]: A 266. §-t a 35/2013. (XII. 23.) KIM rendelet 1. § (7) bekezdése iktatta be.
+[^282]: Az 1. számú melléklet 3. pontja a 41/2011. (XII. 30.) KIM rendelet 9. § m) pontja szerint módosított szöveg.

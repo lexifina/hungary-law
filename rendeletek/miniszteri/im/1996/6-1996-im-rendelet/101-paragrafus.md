@@ -6,7 +6,7 @@
 
 ## A munkáltatás fogalma, szervezete és formái
 
-101. §[^115] (1) Munkáltatásnak minősül az elítélt szervezett foglalkoztatásának az a formája, amikor a munkavégzés rendszeresen, díjazás ellenében történik.
+101. §[^121] (1) Munkáltatásnak minősül az elítélt szervezett foglalkoztatásának az a formája, amikor a munkavégzés rendszeresen, díjazás ellenében történik.
 
 (2) E rendelet alkalmazásában munkáltató alatt az elítéltet munkával foglalkoztató intézetet vagy az e célra alapított gazdálkodó szervezetet kell érteni.
 
@@ -20,4 +20,4 @@ b) olyan munkakörben foglalkoztatnák, amelyet jogszabály rendelkezése szerin
 
 c) a Polgári Törvénykönyvről szóló törvényben meghatározott közeli hozzátartozójával kerülne alá-fölérendeltségi vagy elszámolási viszonyba.
 
-[^115]: A 101. § a 41/2011. (XII. 30.) KIM rendelet 5. §-ával megállapított szöveg.
+[^121]: A 101. § a 41/2011. (XII. 30.) KIM rendelet 5. §-ával megállapított szöveg.

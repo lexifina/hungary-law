@@ -6,6 +6,6 @@
 
 (3) Ha az elítélt az előállítás költségeit nem tudja megelőlegezni, az intézet tájékoztatja, hogy költségmentességet, illetve pártfogó ügyvéd kirendelését kérheti. Az intézet az előállítás költségeit az elítélt írásbeli kérelmére kivételesen megelőlegezheti, ha a kérelemben a költségek visszafizetését vállalja.
 
-(4)[^185] A bírósági ügyekben való előállításra vonatkozó szabályokat a büntetőügyekben alkalmazható közvetítői eljárásra, illetve a közjegyzői eljárásra is megfelelően kell alkalmazni.
+(4)[^191] A bírósági ügyekben való előállításra vonatkozó szabályokat a büntetőügyekben alkalmazható közvetítői eljárásra, illetve a közjegyzői eljárásra is megfelelően kell alkalmazni.
 
-[^185]: A 190. § (4) bekezdése a 44/2007. (IX. 19.) IRM rendelet 14. §-ával megállapított szöveg.
+[^191]: A 190. § (4) bekezdése a 44/2007. (IX. 19.) IRM rendelet 14. §-ával megállapított szöveg.

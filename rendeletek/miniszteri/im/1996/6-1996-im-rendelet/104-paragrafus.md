@@ -1,10 +1,10 @@
-104. § (1)[^118] Az elítélt munkába állításáról az elítélt 19/C. §-a szerinti nyilatkozatára figyelemmel – a munkakör és a munkáltató megjelölésével – a befogadási bizottság dönt. A munkaköri alkalmasság megállapításáig az elítélt nem állítható munkába. Ha az elítélt munkáltatása más gazdálkodó szervezetnél történik az elítéltet fogva tartó intézet köteles meggyőződni arról, hogy az elítélt munkaköri alkalmassági vizsgálatát elvégezték.
+104. § (1)[^124] Az elítélt munkába állításáról az elítélt 19/C. §-a szerinti nyilatkozatára figyelemmel – a munkakör és a munkáltató megjelölésével – a befogadási bizottság dönt. A munkaköri alkalmasság megállapításáig az elítélt nem állítható munkába. Ha az elítélt munkáltatása más gazdálkodó szervezetnél történik az elítéltet fogva tartó intézet köteles meggyőződni arról, hogy az elítélt munkaköri alkalmassági vizsgálatát elvégezték.
 
-(2)[^119] A Bv. tvr. 44. § (1a) bekezdésében felsorolt eseteken túlmenően mentesül az elítélt a munkavégzési kötelezettség alól:
+(2)[^125] A Bv. tvr. 44. § (1a) bekezdésében felsorolt eseteken túlmenően mentesül az elítélt a munkavégzési kötelezettség alól:
 
 a) amíg állampolgári kötelezettségét teljesíti;
 
-b)[^120] hozzátartozója súlyos betegsége vagy halála esetén legalább két munkanapon át, ha a parancsnok a látogatást, illetve a temetésen való részvételt engedélyezte;
+b)[^126] hozzátartozója súlyos betegsége vagy halála esetén legalább két munkanapon át, ha a parancsnok a látogatást, illetve a temetésen való részvételt engedélyezte;
 
 c) ha keresőképtelen beteg;
 
@@ -16,9 +16,9 @@ f) a munkáltató engedélye alapján.
 
 (3) A munkavégzési kötelezettség alóli mentesülés szempontjából elháríthatatlan oknak minősül az intézetnek az elítélt jogai érvényesítésével, illetve a kötelezettségei teljesítésével kapcsolatos, valamint a fogvatartás rendjének és biztonságának a fenntartása érdekében tett intézkedése.
 
-(4)[^121] Ha a Bv. tvr. 44. § (1a) bekezdés b) vagy e) pontja szerinti feltétel bekövetkezik a fogvatartott nőt, illetve a nyugdíj korhatárt betöltött elítéltet tájékoztatni kell arról, hogy a továbbiakban munkavégzési kötelezettség nem terheli, és ezzel egyidejűleg írásban nyilatkoztatni kell arról, hogy a munkáltatásban továbbra is részt kíván-e venni. Ha az elítélt a további munkáltatását kéri, az intézet lehetőségeihez képest kell munkával foglalkoztatni a munkavégzésre nem köteles elítéltet.
+(4)[^127] Ha a Bv. tvr. 44. § (1a) bekezdés b) vagy e) pontja szerinti feltétel bekövetkezik a fogvatartott nőt, illetve a nyugdíj korhatárt betöltött elítéltet tájékoztatni kell arról, hogy a továbbiakban munkavégzési kötelezettség nem terheli, és ezzel egyidejűleg írásban nyilatkoztatni kell arról, hogy a munkáltatásban továbbra is részt kíván-e venni. Ha az elítélt a további munkáltatását kéri, az intézet lehetőségeihez képest kell munkával foglalkoztatni a munkavégzésre nem köteles elítéltet.
 
-[^118]: A 104. § (1) bekezdése a 41/2011. (XII. 30.) KIM rendelet 6. §-ával megállapított szöveg.
-[^119]: A 104. § (2) bekezdése a 41/2011. (XII. 30.) KIM rendelet 9. § c) pontja szerint módosított szöveg.
-[^120]: A 104. § (2) bekezdés b) pontja a 23/2014. (III. 14.) KIM rendelet 2. § a) pontja szerint módosított szöveg.
-[^121]: A 104. § (4) bekezdését a 41/2011. (XII. 30.) KIM rendelet 7. §-a iktatta be.
+[^124]: A 104. § (1) bekezdése a 41/2011. (XII. 30.) KIM rendelet 6. §-ával megállapított szöveg.
+[^125]: A 104. § (2) bekezdése a 41/2011. (XII. 30.) KIM rendelet 9. § c) pontja szerint módosított szöveg.
+[^126]: A 104. § (2) bekezdés b) pontja a 23/2014. (III. 14.) KIM rendelet 2. § a) pontja szerint módosított szöveg.
+[^127]: A 104. § (4) bekezdését a 41/2011. (XII. 30.) KIM rendelet 7. §-a iktatta be.

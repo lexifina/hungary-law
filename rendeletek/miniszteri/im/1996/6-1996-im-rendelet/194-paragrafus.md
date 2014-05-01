@@ -1,8 +1,8 @@
 ## A szabadságvesztés végrehajtási fokozatának
 
-## a megváltoztatására vonatkozó előterjesztés[^190]
+## a megváltoztatására vonatkozó előterjesztés[^196]
 
-194. §[^191] (1) Az intézet nem kezdeményezheti az enyhébb végrehajtási fokozat kijelölését a Bv. tvr. 28/A. § (3) bekezdésében felsorolt esetekben.
+194. §[^197] (1) Az intézet nem kezdeményezheti az enyhébb végrehajtási fokozat kijelölését a Bv. tvr. 28/A. § (3) bekezdésében felsorolt esetekben.
 
 (2) Az intézet a szabadságvesztés végrehajtási fokozatának a megváltoztatására vonatkozó előterjesztésben tájékoztatja a bv. bírót a végrehajtott és a végrehajtásra váró szabadságvesztés(ek)ről.
 
@@ -10,5 +10,5 @@
 
 (4) Az elítélttel közölni kell a szabadságvesztés végrehajtási fokozata megváltoztatásának kezdeményezését, és tájékoztatni kell az ezzel járó változásokról.
 
-[^190]: A 194. §-t megelőző alcím a 24/2003. (VII. 1.) IM rendelet 16. §-ával megállapított szöveg.
-[^191]: A 194. §-t a 41/2011. (XII. 30.) KIM rendelet 8. §-ával megállapított szöveg.
+[^196]: A 194. §-t megelőző alcím a 24/2003. (VII. 1.) IM rendelet 16. §-ával megállapított szöveg.
+[^197]: A 194. §-t a 41/2011. (XII. 30.) KIM rendelet 8. §-ával megállapított szöveg.

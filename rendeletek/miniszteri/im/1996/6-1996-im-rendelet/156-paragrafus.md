@@ -2,10 +2,10 @@
 
 156. § (1) Az intézetnek az elítélt részére havonta legalább kétszeri vásárlásra kell lehetőséget biztosítania.
 
-(2)[^146]
+(2)[^152]
 
 (3) Az elítélt tényleges szükségletét meghaladó készletek felhalmozását meg kell előzni.
 
 (4) Az elítélt a zárkában (lakóhelyiségben) a szükségleti cikkeket a tisztasági és a közegészségügyi előírások betartásával köteles tárolni.
 
-[^146]: A 156. § (2) bekezdését a 24/2003. (VII. 1.) IM rendelet 26. § (2) bekezdésének c) pontja hatályon kívül helyezte.
+[^152]: A 156. § (2) bekezdését a 24/2003. (VII. 1.) IM rendelet 26. § (2) bekezdésének c) pontja hatályon kívül helyezte.

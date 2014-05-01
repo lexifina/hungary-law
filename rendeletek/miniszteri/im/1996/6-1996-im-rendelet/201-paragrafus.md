@@ -1,6 +1,6 @@
 ## A szabadítás szabályai
 
-201. §[^203] (1) Azt az elítéltet,
+201. §[^209] (1) Azt az elítéltet,
 
 a) aki szabadságvesztését kitöltötte, annak utolsó napján,
 
@@ -10,13 +10,13 @@ c) akinek szabadságvesztését félbeszakították, a rendelkezés vételekor, 
 
 d) akinek a szabadságvesztés hátralévő részét kegyelemből elengedték vagy mérsékelték, a jogszabályban, illetve a kegyelmi döntésben megállapított napon,
 
-e)[^204] akinek ügyében a Kúria felülvizsgálati eljárás, illetve a törvényesség érdekében lefolytatott jogorvoslati eljárás, vagy jogegységi eljárás keretében szabadlábra helyezéséről határoz, a Kúria határozata kihirdetésének napján,
+e)[^210] akinek ügyében a Kúria felülvizsgálati eljárás, illetve a törvényesség érdekében lefolytatott jogorvoslati eljárás, vagy jogegységi eljárás keretében szabadlábra helyezéséről határoz, a Kúria határozata kihirdetésének napján,
 
-f)[^205]
+f)[^211]
 
 ## szabadon kell bocsátani.
 
-(2)[^206] Az (1) bekezdésben meghatározott esetekben sem szabadítható az elítélt, ha további szabadságvesztés, előzetes letartóztatás, elzárás, kiadatási letartóztatás, ideiglenes kiadatási letartóztatás átadási letartóztatás, ideiglenes átadási letartóztatás, ideiglenes végrehajtási letartóztatás, szabálysértési elzárás, illetve idegenrendészeti őrizet vár végrehajtásra.
+(2)[^212] Az (1) bekezdésben meghatározott esetekben sem szabadítható az elítélt, ha további szabadságvesztés, előzetes letartóztatás, elzárás, kiadatási letartóztatás, ideiglenes kiadatási letartóztatás átadási letartóztatás, ideiglenes átadási letartóztatás, ideiglenes végrehajtási letartóztatás, szabálysértési elzárás, illetve idegenrendészeti őrizet vár végrehajtásra.
 
 (3) A szabadon bocsátást megelőző szabadítási eljárás legfeljebb negyvennyolc óráig tarthat.
 
@@ -24,7 +24,7 @@ f)[^205]
 
 (5) A bv. bíró nem jogerős végzése alapján feltételes szabadságra bocsátott elítélt jogerős végzés alapján szükségessé vált visszahívásáról az intézet gondoskodik. Ilyen esetben az intézet a 187. § (3) bekezdése, ha ez nem vezet eredményre, akkor a 206/A. § (2) bekezdésének a) és b) pontja szerint jár el.
 
-[^203]: A 201. § a 18/2002. (XI. 30.) IM rendelet 52. §-ával megállapított szöveg.
-[^204]: A 201. § (1) bekezdés e) pontja a 10/2006. (VII. 25.) IRM rendelet 11. § (2) bekezdés d) pontja, a 41/2011. (XII. 30.) KIM rendelet 10. § b) pontja szerint módosított szöveg.
-[^205]: A 201. § (1) bekezdésének f) pontját a 10/2006. (VII. 25.) IRM rendelet 8. §-a iktatta be, hatályon kívül helyezte a 9/2013. (VI. 29.) KIM rendelet 18. § b) pontja.
-[^206]: A 201. § (2) bekezdése a 9/2013. (VI. 29.) KIM rendelet 11. §-ával megállapított szöveg.
+[^209]: A 201. § a 18/2002. (XI. 30.) IM rendelet 52. §-ával megállapított szöveg.
+[^210]: A 201. § (1) bekezdés e) pontja a 10/2006. (VII. 25.) IRM rendelet 11. § (2) bekezdés d) pontja, a 41/2011. (XII. 30.) KIM rendelet 10. § b) pontja szerint módosított szöveg.
+[^211]: A 201. § (1) bekezdésének f) pontját a 10/2006. (VII. 25.) IRM rendelet 8. §-a iktatta be, hatályon kívül helyezte a 9/2013. (VI. 29.) KIM rendelet 18. § b) pontja.
+[^212]: A 201. § (2) bekezdése a 9/2013. (VI. 29.) KIM rendelet 11. §-ával megállapított szöveg.

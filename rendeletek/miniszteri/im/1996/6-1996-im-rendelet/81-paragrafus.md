@@ -8,10 +8,10 @@
 
 (5) A tárgyjutalmak körét a parancsnok határozza meg.
 
-(6)[^96]
+(6)[^102]
 
 (7) A fenyítés elengedése a kiszabott, de még végre nem hajtott fenyítésnek, illetve hátralévő részének az elengedését jelenti.
 
 (8) A nyilvántartásból törölt fenyítést az elítéltről készített értékelő véleményekben nem lehet feltüntetni.
 
-[^96]: A 81. § (6) bekezdését a 18/2002. (XI. 30.) IM rendelet 67. §-a (1) bekezdésének a) pontja hatályon kívül helyezte.
+[^102]: A 81. § (6) bekezdését a 18/2002. (XI. 30.) IM rendelet 67. §-a (1) bekezdésének a) pontja hatályon kívül helyezte.
