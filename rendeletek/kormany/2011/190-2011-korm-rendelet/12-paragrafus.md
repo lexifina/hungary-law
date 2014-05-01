@@ -4,7 +4,7 @@
 
 12. § (1) Az elhárítási tevékenység során az elhárító erők a riasztás fogadása után felkészülnek, és a helyszínre érkezve feltartóztatják, majd semlegesítik az elkövetőket.
 
-(2)[^19] Az elhárítás során az elkövető feltartóztatását és semlegesítését, valamint a jogtalan eltulajdonítás, illetve szabotázs megakadályozását:
+(2)[^20] Az elhárítás során az elkövető feltartóztatását és semlegesítését, valamint a jogtalan eltulajdonítás, illetve szabotázs megakadályozását:
 
 a) a helyszíni őrszemélyzet,
 
@@ -24,4 +24,4 @@ b) az elhárító erők elhárításhoz szükséges számát, és
 
 c) az elhárító erők elhárításhoz szükséges képességeit.
 
-[^19]: A 12. § (2) bekezdés záró szövegrésze a 37/2012. (III. 9.) Korm. rendelet 22. § 3. pontja szerint módosított szöveg.
+[^20]: A 12. § (2) bekezdés záró szövegrésze a 37/2012. (III. 9.) Korm. rendelet 22. § 3. pontja szerint módosított szöveg.

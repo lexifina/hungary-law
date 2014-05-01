@@ -1,1 +1,0 @@
-## 41. § A rendelet hatálybalépésekor biztonsági őrként foglalkoztatott személyek esetében a fizikai állóképességre vonatkozó követelmények teljesítésének első felmérését a rendelet hatálybalépését követő kilencedik hónap első és utolsó napja között kell elvégezni.

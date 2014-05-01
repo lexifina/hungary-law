@@ -230,7 +230,7 @@
 
 ## 25.3. az őrségközpontot fel kell szerelni vonalas és vonal nélküli kommunikációs eszközökkel, tartalék áramforrással.
 
-## 26.[^34] B-szintű fizikai védelem esetében:
+## 26.[^39] B-szintű fizikai védelem esetében:
 
 ## 26.1. az őrségközpont az őrzött zónán belül vagy annak határán lévő épületben is kialakítható, de el kell határolni az épület nem az őrségközponthoz tartozó részétől;
 
@@ -240,7 +240,7 @@
 
 ## 26.4. az őrségközpontot fel kell szerelni vonalas és vonal nélküli kommunikációs eszközökkel, tartalék áramforrással.
 
-## 27.[^35] C-szintű fizikai védelem esetében:
+## 27.[^40] C-szintű fizikai védelem esetében:
 
 ## 27.1. A 26.1.–26.4. pontokban leírtakat kell alkalmazni, vagy
 
@@ -322,7 +322,7 @@
 
 ## 37.2. anyaguk a kerítés anyagával egyenértékű legyen.
 
-## 38.[^36] C-szintű fizikai védelem esetében a kapukat zárt állapotban kell tartani, és nyitásuk – amennyiben van őrség – csak őrség jelenlétében történhet.
+## 38.[^41] C-szintű fizikai védelem esetében a kapukat zárt állapotban kell tartani, és nyitásuk – amennyiben van őrség – csak őrség jelenlétében történhet.
 
 ## 39. C-szintű fizikai védelem esetében az épületek vonatkozásában az alábbi feltételeknek kell megfelelni:
 
@@ -432,7 +432,7 @@
 
 ## 51.4. a rögzítés 5000 N feszítő erőnek ellenálló módon megoldott, amelybe beleértendő az értéktároló súlya is.
 
-## 52.[^37] C-szintű fizikai védelem esetében biztonsági tárolóként egyfalú lemezszekrényt kell alkalmazni, amelynél a borítólemezek falvastagsága legalább 2–4,5 mm, vagy azzal egyenértékű késleltetést biztosító megoldást kell alkalmazni.
+## 52.[^42] C-szintű fizikai védelem esetében biztonsági tárolóként egyfalú lemezszekrényt kell alkalmazni, amelynél a borítólemezek falvastagsága legalább 2–4,5 mm, vagy azzal egyenértékű késleltetést biztosító megoldást kell alkalmazni.
 
 ## 53. C-szintű fizikai védelem esetében a zárszerkezeteket kell biztosítani, amelyeknél:
 
@@ -468,15 +468,15 @@
 
 ## 57.2. a belső elhárító erők járőrözést végeznek, és napi 24 órás őrszolgálatot biztosítanak.
 
-## 58.[^38] C-szintű fizikai védelem esetében az elhárítást helyszíni őrszemélyzet vagy 15 percen belül kivonuló külső elhárító erők végzik.
+## 58.[^43] C-szintű fizikai védelem esetében az elhárítást helyszíni őrszemélyzet vagy 15 percen belül kivonuló külső elhárító erők végzik.
 
-## 59.[^39] D-szintű fizikai védelem esetében az elhárítást külső vagy belső elhárító erők végzik.
+## 59.[^44] D-szintű fizikai védelem esetében az elhárítást külső vagy belső elhárító erők végzik.
 
 3. melléklet a 190/2011. (IX. 19.) Korm. rendelethez
 
-[^34]: A 2. melléklet 26. pontja a 37/2012. (III. 9.) Korm. rendelet 21. § (2) bekezdésével megállapított szöveg.
-[^35]: A 2. melléklet 27. pontja a 37/2012. (III. 9.) Korm. rendelet 21. § (2) bekezdésével megállapított szöveg.
-[^36]: A 2. melléklet 38. pontja a 37/2012. (III. 9.) Korm. rendelet 22. § 5. pontja szerint módosított szöveg.
-[^37]: A 2. melléklet 52. pontja a 37/2012. (III. 9.) Korm. rendelet 22. § 6. pontja szerint módosított szöveg.
-[^38]: A 2. melléklet 58. pontja a 37/2012. (III. 9.) Korm. rendelet 22. § 7. pontja szerint módosított szöveg.
-[^39]: A 2. melléklet 59. pontja a 37/2012. (III. 9.) Korm. rendelet 21. § (2) bekezdésével megállapított szöveg.
+[^39]: A 2. melléklet 26. pontja a 37/2012. (III. 9.) Korm. rendelet 21. § (2) bekezdésével megállapított szöveg.
+[^40]: A 2. melléklet 27. pontja a 37/2012. (III. 9.) Korm. rendelet 21. § (2) bekezdésével megállapított szöveg.
+[^41]: A 2. melléklet 38. pontja a 37/2012. (III. 9.) Korm. rendelet 22. § 5. pontja szerint módosított szöveg.
+[^42]: A 2. melléklet 52. pontja a 37/2012. (III. 9.) Korm. rendelet 22. § 6. pontja szerint módosított szöveg.
+[^43]: A 2. melléklet 58. pontja a 37/2012. (III. 9.) Korm. rendelet 22. § 7. pontja szerint módosított szöveg.
+[^44]: A 2. melléklet 59. pontja a 37/2012. (III. 9.) Korm. rendelet 21. § (2) bekezdésével megállapított szöveg.

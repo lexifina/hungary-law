@@ -34,4 +34,7 @@ d) Terrorelhárítási Központ.
 
 (4) Az emelt szintű fizikai védelem bevezetését és megszüntetését az OAH-nál a (2) bekezdésben meghatározott szerv is kezdeményezheti.
 
+(5)[^10] Az OAH ügyintézési határideje a tervezési alapfenyegetettség első alkalommal történő megállapítására irányuló eljárásban hat hónap. Az OAH vezetője az ügyintézési határidőt indokolt esetben egy alkalommal, legfeljebb kilencven nappal meghosszabbíthatja. Az ügyintézési határidő meghosszabbításáról az atomenergia-felügyeleti szerv értesíti az ügyfelet és mindazokat, akiket az eljárás megindításáról értesített.
+
 [^9]: A 3. alcím (3. §) a 217/2013. (VI. 21.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^10]: A 3. § (5) bekezdését a 139/2014. (IV. 30.) Korm. rendelet 5. § (1) bekezdése iktatta be.
