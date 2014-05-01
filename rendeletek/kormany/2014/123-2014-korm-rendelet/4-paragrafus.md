@@ -1,0 +1,1 @@
+## 3. § A Kormány a személyszállítási szolgáltatások elektronikus igénybevétele és a közforgalmú személyszállítási szolgáltatásokhoz kapcsolódó adatok, adatbázisok és elektronikus adatkommunikációs technológiák egységességének és átjárhatóságának biztosítása érdekében létrehozza a Nemzeti Személyszállítási Intelligens Közlekedési Rendszerek Platformot.
