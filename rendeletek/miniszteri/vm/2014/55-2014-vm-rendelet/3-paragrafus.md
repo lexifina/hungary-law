@@ -1,3 +1,3 @@
-## 2. § A Rendelet 5. § (2) bekezdése helyébe a következő rendelkezés lép:
+## 1–2. §[^1]
 
-## „(2) A fenntartó és a köznevelési intézmény köteles alávetni magát az MVH által hivatalból indított, e rendeletben, valamint a bizottsági rendelet 13. cikkében szabályozott ellenőrzésnek, ideértve a nyilvántartások, a kérelmezők közötti sorrend állítás dokumentációjának részletes vizsgálatát és a fizikai ellenőrzést. A fenntartó és a köznevelési intézmény köteles a nyilvántartásokat öt évig megőrizni.”
+[^1]: Az 1–2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
