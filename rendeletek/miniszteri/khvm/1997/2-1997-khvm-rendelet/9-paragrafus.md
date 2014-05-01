@@ -14,7 +14,7 @@ c) a vízszolgáltató művek üzemzavara
 
 (3) Az (1) és (2) bekezdésben említett korlátozásokból eredő károkért kártalanítás nem jár. Amennyiben a szolgáltatást a mű üzemeltetőjének szakszerűtlen tevékenysége miatt kell korlátozni, úgy a vízhasználó az üzemeltetővel szemben kártérítési igénnyel léphet fel.
 
-(4)[^5] A vízkorlátozást – mezőgazdasági vízhasználat esetén a megyei kormányhivatal földművelésügyi igazgatóságával egyeztetve – egyéb vízhasználatoknál pedig a vízhasználók és egyéb érdekeltek előzetes tájékoztatása mellett, az üzemeltető bevonásával, az igazgatóság rendeli el. Ha a vízkorlátozás több igazgatóság illetékességi területét érinti, a korlátozást az Országos Vízügyi Főigazgatóság rendeli el.
+(4)[^6] A vízkorlátozást – mezőgazdasági vízhasználat esetén a megyei kormányhivatal földművelésügyi igazgatóságával egyeztetve – egyéb vízhasználatoknál pedig a vízhasználók és egyéb érdekeltek előzetes tájékoztatása mellett, az üzemeltető bevonásával, az igazgatóság rendeli el. Ha a vízkorlátozás több igazgatóság illetékességi területét érinti, a korlátozást az Országos Vízügyi Főigazgatóság rendeli el.
 
 (5) A vízkorlátozást a Vgtv. 15. § (4) bekezdés e) pontján belül, mezőgazdasági célú vízhasználat esetén az alábbi – sorrendben fokozatosan alkalmazható – intézkedésekkel kell végrehajtani a vízjogi engedélyben meghatározott vízmennyiséghez (vízsugárhoz) viszonyítva:
 
@@ -30,4 +30,4 @@ e) az öntözésre használt valamennyi vízmennyiség szükség szerinti arány
 
 (6) A vízkorlátozás feloldása fordított sorrendben történik.
 
-[^5]: A 9. § (4) bekezdése a 119/2012. (XI. 23.) VM rendelet 3. §-ával megállapított szöveg.
+[^6]: A 9. § (4) bekezdése a 119/2012. (XI. 23.) VM rendelet 3. §-ával megállapított szöveg.

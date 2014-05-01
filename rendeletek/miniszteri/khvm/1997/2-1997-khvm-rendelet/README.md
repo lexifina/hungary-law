@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-2-20-6B
 | 2012-01-01 | 1997-2-20-6B.4 | 1/2004. (II. 6.) KvVM rendelet |
 | 2012-12-08 | 1997-2-20-6B.5 | 119/2012. (XI. 23.) VM rendelet |
 | 2014-03-15 | 1997-2-20-6B.6 | 22/2014. (III. 12.) BM rendelet |
+| 2014-05-01 | 1997-2-20-6B.7 | 22/2014. (IIII. 12.) BM rendelet |

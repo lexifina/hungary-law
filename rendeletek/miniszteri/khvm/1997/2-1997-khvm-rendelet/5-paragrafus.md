@@ -4,4 +4,6 @@
 
 5. § (1) A szolgáltatásra az üzemeltető és a vízhasználó szerződést köt.
 
-(2) A szolgáltatás ellenértékét a felek a szolgáltató művek üzemeltetésére, fenntartására, valamint azonos üzemeltető esetén a lecsapolásból származó vizek elvezetésével kapcsolatban felmerülő költségekre figyelemmel állapítják meg, amelynek a szerződésben meghatározott részét a művek kezelésére és fenntartására kell fordítani.
+(2)[^2]
+
+[^2]: Az 5. § (2) bekezdését a 22/2014. (IIII. 12.) BM rendelet 2. § (2) bekezdése ahtályon kívül helyezte.
