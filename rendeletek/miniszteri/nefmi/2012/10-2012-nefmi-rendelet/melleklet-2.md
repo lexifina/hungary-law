@@ -1,4 +1,4 @@
-## 20122V20000010_1
+## 20122V20000010_2
 
 2. melléklet a 10/2012. (II. 28.) NEFMI rendelethez[^9]
 
@@ -5812,7 +5812,7 @@ A főcsoportba tartozó bármely betegség
 
 ÉS ESZKÖZÖK
 
-1203 Hajlítható műlencse
+01203 Hajlítható műlencse
 
 **** 02 069A Pars plana vitrectomia műlencse-beültetéssel
 
@@ -7560,4 +7560,6 @@ C0521 Nyelvcsap rosszindulatú daganata I. stádium
 
 C0522 Nyelvcsap rosszindulatú daganata II. stádium
 
-[^9]: A 2. melléklet a 24. § (2) bekezdésével megállapított és az 55/2012. (XII. 28.) EMMI rendelet 13. § (1) bekezdése, a 9/2013. (I. 31.) EMMI rendelet 5. § (2)–(3) bekezdése, a 24/2013. (III. 29.) EMMI rendelet 6. § (1)–(2) bekezdése, a 62/2013. (VIII. 27.) EMMI rendelet 2. § (1) bekezdése, a 4/2014. (I. 20.) EMMI rendelet 6. § (2) bekezdése szerint módosított szöveg.
+C0523 Nyelvcsap rosszindulatú daganata III. stádium
+
+[^9]: A 2. melléklet a 24. § (2) bekezdésével megállapított és az 55/2012. (XII. 28.) EMMI rendelet 13. § (1) bekezdése, a 9/2013. (I. 31.) EMMI rendelet 5. § (2)–(3) bekezdése, a 24/2013. (III. 29.) EMMI rendelet 6. § (1)–(2) bekezdése, a 62/2013. (VIII. 27.) EMMI rendelet 2. § (1) bekezdése, a 4/2014. (I. 20.) EMMI rendelet 6. § (2) bekezdése, a 36/2014. (IV. 30.) EMMI rendelet 7. § (2) bekezdése szerint módosított szöveg.
