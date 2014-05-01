@@ -1,3 +1,5 @@
+## 18. §[^16] Az Eximbank Zrt. és a MEHIB Zrt. tevékenységét szabályozó egyes kormányrendeletek módosításáról szóló 140/2014. (IV. 30.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 1. § 10. és 14. pontját, 3. § (3) bekezdését, 4. § (6) bekezdését, 5. §-t és 13. §-t a Módr. hatályba lépése[^17] előtt az Eximbankhoz beérkezett, de még el nem bírált garanciakérelmek esetében is alkalmazni kell.
+
 1. melléklet a 435/2012. (XII. 29.) Korm. rendelethez
 
 ## A 10. §-ban meghatározottak teljesítéséhez az 1233/2011/EU rendelet alapján az Európai Bizottság számára összeállítandó éves tevékenységi jelentés tartalmára vonatkozó ellenőrzési lista
@@ -99,3 +101,6 @@ VI. A környezeti kockázatok értékelése
 | 3 | b) a B Kategóriájú ügyletek száma és a kitettség értéke (HUF és EUR) |  |
 
 | 4 | Hogyan kerülnek figyelembe vételre az OECD Megállapodás 5. pontja alá tartozó hivatalosan támogatott exporthitelezési tevékenységükben azok a környezeti kockázatok, amelyek egyéb jelentős kockázatokat okozhatnak? |  |
+
+[^16]: A 18. §-t a 140/2014. (IV. 30.) Korm. rendelet 6. § (5) bekezdése iktatta be.
+[^17]: A hatálybalépés időpontja 2014. május 1.
