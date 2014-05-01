@@ -37,5 +37,3 @@ mennyiséget nem haladja meg.
 a) jelentős mennyiségű, ha az adott kábítószerre meghatározott csekély mennyiség felső határának hússzoros,
 
 b) különösen jelentős mennyiségű, ha az adott kábítószerre meghatározott csekély mennyiség felső határának kétszázszoros
-
-mértékét meghaladja.

@@ -1,10 +1,10 @@
-## Termőföld jogellenes megszerzése
+## Mező- és erdőgazdasági hasznosítású föld jogellenes megszerzése
 
 349. § (1) Aki
 
-a) termőföld tulajdonjogának megszerzése,
+a) mező- és erdőgazdasági hasznosítású földek forgalmáról szóló törvény szerinti mező- és erdőgazdasági hasznosítású föld tulajdonjogának megszerzése,
 
-b) termőföldre vonatkozó haszonélvezeti jog vagy használat jogának alapítása
+b) mező- és erdőgazdasági hasznosítású földek forgalmáról szóló törvény szerinti mező- és erdőgazdasági hasznosítású földre vonatkozó haszonélvezeti jog vagy használat jogának alapítása
 
 céljából az ezekre vonatkozó jogszabályi tilalom vagy korlátozás kijátszásával semmis szerződést köt, bűntett miatt egy évtől öt évig terjedő szabadságvesztéssel büntetendő.
 
