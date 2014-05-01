@@ -1,3 +1,4 @@
-## 10. §[^44] A kamatkiegyenlítés alapjául szolgáló bázisköltséget az Eximbank javaslatára a CIRR Bizottság negyedévente határozza meg a megelőző negyedév utolsó hónapjának 25. napjáig. A CIRR Bizottság által megállapított banküzemi költség nem haladhatja meg a jóváhagyott üzleti tervben szereplő mértéket. Minden hitel- és pénzkölcsön szerződés kamatkiegyenlítésénél az adott negyedévben érvényes bázisköltség mértékét kell alkalmazni.
+## 10/B. §[^52] Az Eximbank a 10/A. § (1) bekezdése alapján várható kifizetésről havi bontásban készített éves előrejelzést az Eximbank Zrt. és a MEHIB Zrt. tevékenységét szabályozó egyes kormányrendeletek módosításáról szóló 140/2014. (IV. 30.) Korm. rendelet hatályba lépését[^53] követő 10 munkanapon belül megküldi a kincstárnak és az államháztartásért felelős miniszternek.
 
-[^44]: A 10. § a 304/2005. (XII. 25.) Korm. rendelet 10. §-ával megállapított, a 204/2012. (VII. 27.) Korm. rendelet 8. § a) pont ad) alpontja szerint módosított szöveg.
+[^52]: A 10/B. §-t a 140/2014. (IV. 30.) Korm. rendelet 1. § (11) bekezdése iktatta be.
+[^53]: A hatálybalépés időpontja 2014. május 1.

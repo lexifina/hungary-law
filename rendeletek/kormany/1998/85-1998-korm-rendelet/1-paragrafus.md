@@ -1,33 +1,40 @@
-1. §[^1] (1)[^2] E rendelet hatálya a Törvény 1. § (5) bekezdésében és 2. § (2) bekezdésében meghatározott pénzügyi szolgáltatások keretében az Eximbank által a magyar áruk létrehozásához és értékesítéséhez, valamint a szolgáltatásokhoz
+1. §[^1] (1)[^2] E rendelet hatálya a Törvény 1. § (5) bekezdésében és 2. § (2) bekezdésében meghatározott pénzügyi szolgáltatások keretében a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény (a továbbiakban: Hpt.) 6. § (1) bekezdés 40. pont a) alpontja és b) alpont ba) alpontja szerinti következő hitel és pénzkölcsön nyújtási tevékenységre terjed ki:
 
-a) a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény (a továbbiakban: Hpt.) 6. § (1) bekezdés 40. pont a) alpontja és b) alpont ba) alpontja szerint nyújtott
+a) exporthitelek (a továbbiakban: exporthitel),
 
-aa) exporthitelekre,
+b) belföldi és külföldi hitelintézeteknek nyújtott exporthitelek (a továbbiakban: refinanszírozási exporthitel),
 
-ab) belföldi és külföldi hitelintézeteknek nyújtott exporthitelekre (a továbbiakban: refinanszírozási exporthitel),
+c) beszállítói hitelek, exportcélú befektetési hitelek, külföldön megvalósuló befektetési hitelek (a továbbiakban együtt: egyéb export célú hitel),
 
-ac) beszállítói hitelekre, exportcélú befektetési hitelekre, külföldön megvalósuló befektetési hitelekre (a továbbiakban: egyéb export célú hitel),
+d) belföldi és külföldi hitelintézeteknek nyújtott egyéb export célú hitelek (a továbbiakban: egyéb export célú refinanszírozási hitel),
 
-ad) a belföldi és külföldi hitelintézeteknek nyújtott egyéb export célú hitelekre (a továbbiakban: egyéb export célú refinanszírozási hitel) és
+e) nemzetközi versenyképességet javító beruházásokra, forgóeszközigényekre nyújtott hitelek (a továbbiakban: versenyképességet javító hitel),
 
-b) a Hpt. 6. § (1) bekezdés 40. pont a) alpontja és b) alpont ba) alpontjában szereplő pénzkölcsönügyletek közül a külkereskedelmi szerződésből eredő exportköveteléshez adott megelőlegezésre, vagy engedményezés (faktoring, forfeit ügylet) keretében történő megvásárlására, leszámítolására (a továbbiakban: pénzkölcsön)
+f) belföldi hitelintézeteknek nyújtott versenyképességet javító hitelek (a továbbiakban: versenyképességet javító refinanszírozási hitel), és
 
-terjed ki.
+g) belföldi és külföldi hitelintézetek által a Hpt. 6. § (1) bekezdés 60. pontja alapján végzett, külkereskedelmi szerződésből eredő exportkövetelések megvásárlásához nyújtott hitelek (a továbbiakban: exportkövetelések megvásárlásához nyújtott refinanszírozási hitel).
 
-(2)[^3] Az Eximbank az (1) bekezdés a) pont aa) és ab) alpontjában felsorolt két éves és két éven túli exporthiteleket és az (1) bekezdés b) pontjában szereplő két éves és két éven túli pénzkölcsönöket a Gazdasági Együttműködési és Fejlesztési Szervezet (a továbbiakban: OECD) Hivatalosan támogatott exporthitelekről szóló Megállapodásával (a továbbiakban: OECD Megállapodás) összhangban nyújtja.
+(1a)[^3] E rendelet hatálya az (1) bekezdésben meghatározott hitel- és pénzkölcsön nyújtási tevékenység mellett kiterjed az Eximbank által külkereskedelmi szerződésből eredő exportköveteléseknek a Hpt. 6. § (1) bekezdés 60. pontja alapján történő megszerzésére, megelőlegezésére – ideértve a faktoringot és a forfetírozást is –, valamint leszámítolására (a továbbiakban együtt: követelésvásárlás).
+
+(2)[^4] Az Eximbank az (1) bekezdés a) és b) pontjában felsorolt, két éves és két éven túli lejáratú exporthiteleket és refinanszírozási exporthiteleket a Gazdasági Együttműködési és Fejlesztési Szervezet (a továbbiakban: OECD) Hivatalosan támogatott exporthitelekről szóló megállapodásával (a továbbiakban: OECD Megállapodás) összhangban nyújtja. Az Eximbank e bekezdés rendelkezéseit alkalmazza a követelésvásárlásra is, amennyiben az exportkövetelés esedékessége a követelésvásárlás időpontjában legalább két év.
 
 (3) Az Eximbank az (2) bekezdésben fel nem sorolt termékei esetében gondoskodik arról, hogy a termékleírások tartalmazzák, hogy az egyes termékek feltételei megfelelnek az OECD Megállapodásnak vagy az Európai Unió állami támogatási szabályainak.
 
 (4) Az OECD Megállapodásnak vagy az Európai Unió állami támogatási szabályainak megfelelő termékhez kapcsolódóan az Eximbank az e rendelet szerinti kamatkiegyenlítést az (5) bekezdésben foglalt kivétellel igénybe veheti.
 
-(5) Amennyiben az Európai Unió állami támogatási szabályainak való megfelelés olyan módon biztosított, hogy a termék nem tartalmaz az Európai Unió Működéséről szóló Szerződés 107. cikk (1) bekezdése szerinti állami támogatást, akkor az Eximbank az e rendelet szerinti kamatkiegyenlítést nem veheti igénybe.
+(5)[^5] Amennyiben az Európai Unió állami támogatási szabályainak való megfelelés olyan módon biztosított, hogy a termék nem tartalmaz állami támogatást, akkor az Eximbank az e rendelet szerinti kamatkiegyenlítést nem veheti igénybe.
 
-(6)[^4] Nem vonható be a kamatkiegyenlítési rendszerbe a beszállítói hitellel vagy export célú befektetési hitellel finanszírozott összegig az azon áruhoz vagy szolgáltatás nyújtásához kapcsolódó exporthitel és refinanszírozási exporthitel, amely áruhoz vagy szolgáltatáshoz korábban nyújtott beszállítói hitel, vagy export célú befektetési hitel a kamatkiegyenlítési rendszerbe már bevonásra került.
+(6)[^6] Nem vonható be a kamatkiegyenlítési rendszerbe a beszállítói hitellel vagy export célú befektetési hitellel finanszírozott összegig az azon áruhoz vagy szolgáltatás nyújtásához kapcsolódó exporthitel és refinanszírozási exporthitel, amely áruhoz vagy szolgáltatáshoz korábban nyújtott beszállítói hitel, vagy export célú befektetési hitel a kamatkiegyenlítési rendszerbe már bevonásra került.
 
-(7)[^5] A (6) bekezdés nem alkalmazandó azon áruhoz vagy szolgáltatáshoz nyújtott exporthitelre és refinanszírozási exporthitelre, amely a beszállítói hitel vagy export célú befektetési hitel nyújtását követően további feldolgozáson vagy megmunkáláson átesett más áruhoz vagy a kamatkiegyenlítési rendszerbe bevont beszállítói hitellel vagy export célú befektetési hitellel finanszírozott szolgáltatás igénybe vételével nyújtott más szolgáltatáshoz kapcsolódik.
+(7)[^7] A (6) bekezdés nem alkalmazandó azon áruhoz vagy szolgáltatáshoz nyújtott exporthitelre és refinanszírozási exporthitelre, amely a beszállítói hitel vagy export célú befektetési hitel nyújtását követően további feldolgozáson vagy megmunkáláson átesett más áruhoz vagy a kamatkiegyenlítési rendszerbe bevont beszállítói hitellel vagy export célú befektetési hitellel finanszírozott szolgáltatás igénybe vételével nyújtott más szolgáltatáshoz kapcsolódik.
+
+(8)[^8] Az Eximbank az (1a) bekezdésben meghatározott követelésvásárlási tevékenysége kapcsán akkor számolhat el a központi költségvetéssel, ha az megfelel a 6. §-ban meghatározott feltételeknek.
 
 [^1]: Az 1. § a 434/2012. (XII. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^2]: Az 1. § (1) bekezdése az 537/2013. (XII. 30.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^3]: Az 1. § (2) bekezdése a 183/2013. (VI. 7.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
-[^4]: Az 1. § (6) bekezdése a 183/2013. (VI. 7.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
-[^5]: Az 1. § (7) bekezdését a 183/2013. (VI. 7.) Korm. rendelet 1. §-a iktatta be.
+[^2]: Az 1. § (1) bekezdése a 140/2014. (IV. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^3]: Az 1. § (1a) bekezdését a 140/2014. (IV. 30.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^4]: Az 1. § (2) bekezdése a 140/2014. (IV. 30.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^5]: Az 1. § (5) bekezdése a 140/2014. (IV. 30.) Korm. rendelet 2. § 1. pontja szerint módosított szöveg.
+[^6]: Az 1. § (6) bekezdése a 183/2013. (VI. 7.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
+[^7]: Az 1. § (7) bekezdését a 183/2013. (VI. 7.) Korm. rendelet 1. §-a iktatta be.
+[^8]: Az 1. § (8) bekezdését a 140/2014. (IV. 30.) Korm. rendelet 1. § (4) bekezdése iktatta be.
