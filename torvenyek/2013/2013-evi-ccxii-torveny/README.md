@@ -17,3 +17,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-212-00-00
 | 2014-03-15 | Nemzeti Jogszabálytár (egységes szerkezet) | 2013-212-00-00.10 |
 | 2014-03-16 | 2010. évi CXXX. törvény | 2013-212-00-00.11 |
 | 2014-05-01 | 2014. évi XVI. törvény | 2013-212-00-00.12 |
+| 2014-05-02 | 2010. évi CXXX. törvény | 2013-212-00-00.13 |

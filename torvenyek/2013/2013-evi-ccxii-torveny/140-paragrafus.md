@@ -2,4 +2,4 @@
 
 140. § (1)
 
-(2) Hatályát veszti az Evt. 8. § (4), (5) és (8) bekezdésében az „önkéntes” szövegrész.
+(2)
