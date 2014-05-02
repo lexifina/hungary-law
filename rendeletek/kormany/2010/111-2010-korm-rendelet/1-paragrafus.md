@@ -1,22 +1,23 @@
 ## 1. A szakmai vizsga szervezésére vonatkozó engedélyezési eljárás
 
-1. §[^1] (1) A szakképzésről szóló 1993. évi LXXVI. törvény (a továbbiakban: Szt.) szerinti szakmai vizsga megszervezésére vonatkozó engedély (a továbbiakban: engedély) akkor adható ki, ha az engedély kiadását kérelmező intézmény (a továbbiakban: kérelmező intézmény)
+1. §[^1] (1) A szakképzésről szóló 2011. évi CLXXXVII. törvény (a továbbiakban: Szt.) szerinti komplex szakmai vizsga (a továbbiakban: szakmai vizsga) megszervezésére vonatkozó engedély (a továbbiakban: engedély) akkor adható ki, ha az engedély kiadását kérelmező intézmény (a továbbiakban: kérelmező intézmény)
 
-a)[^2] rendelkezik a felnőttképzésről szóló 2013. évi LXXVII. törvény 1. § (2) bekezdés a) pontja szerinti, a d) pontban meghatározott szakképesítés folytatására feljogosító engedéllyel,
+a) rendelkezik a felnőttképzésről szóló 2013. évi LXXVII. törvény (a továbbiakban: Fktv.) 1. § (2) bekezdés a) pontja szerinti, a d) pontban meghatározott szakképesítés megszerzésére irányuló képzés folytatására feljogosító engedéllyel (a továbbiakban: felnőttképzési tevékenység folytatására jogosító engedély),
 
-b) rendelkezik az 1. mellékletben meghatározott, a szakmai vizsgaszervezési tevékenységekhez kapcsolódó általános személyi és tárgyi feltételekkel és azokat folyamatosan biztosítani képes,
+b) rendelkezik az 1. mellékletben meghatározott, a szakmai vizsgaszervezési tevékenységekhez kapcsolódó általános személyi és tárgyi feltételekkel, és azokat folyamatosan biztosítani képes,
 
-c) rendelkezik a szakmai vizsgáztatás általános szabályairól és eljárási rendjéről szóló miniszteri rendeletben foglalt vizsgaszervezői feladatok ellátásának, továbbá a szakmai vizsgával kapcsolatos közokiratok, valamint a központilag biztosított írásbeli vagy interaktív vizsgafeladatok biztonságos kezelésének módját tartalmazó ügykezelési és titoktartási szabályzattal (a továbbiakban: ügykezelési és titoktartási szabályzat),
+c) rendelkezik a komplex szakmai vizsgáztatás szabályairól szóló kormányrendeletben foglalt vizsgaszervezői feladatok ellátásának, továbbá a szakmai vizsgával kapcsolatos közokiratok, valamint a központilag biztosított írásbeli vagy interaktív vizsgafeladatok biztonságos kezelésének módját tartalmazó ügykezelési és titoktartási szabályzattal (a továbbiakban: ügykezelési és titoktartási szabályzat),
 
-d) a kérelemben megjelölt, az Országos Képzési Jegyzékben szereplő szakképesítés, részszakképesítés, szakképesítés-elágazás, szakképesítés-ráépülés (a továbbiakban együtt: szakképesítés) tekintetében – szakképesítésenként legalább egy vizsgahelyszínre vonatkozóan – rendelkezik a szakmai vizsga vizsgatevékenységeihez szükséges, az 1. mellékletben meghatározott személyi és tárgyi feltételekkel, és azokat folyamatosan biztosítani képes,
+d) rendelkezik a kérelemben megjelölt, az Országos Képzési Jegyzékben (a továbbiakban: OKJ) szereplő szakképesítés, részszakképesítés, szakképesítés-ráépülés (a továbbiakban együtt: szakképesítés) tekintetében – szakképesítésenként legalább egy vizsgahelyszínre vonatkozóan – a szakmai vizsga vizsgatevékenységeihez szükséges, az 1. mellékletben meghatározott személyi és tárgyi feltételekkel, és azokat folyamatosan biztosítani képes,
 
 e) rendelkezik a szakképesítésért felelős miniszter által az Szt.-ben foglalt felhatalmazás alapján kiadott rendeletben meghatározott speciális szakmai, tárgyi és személyi feltételekkel,
 
 f) nem áll a vizsgaszervezési tevékenységtől való eltiltás hatálya alatt, és
 
-g) szerepel a köztartozásmentes adózói adatbázisban vagy igazolja, hogy nem rendelkezik az adózás rendjéről szóló törvény szerint köztartozással és nem áll csőd- vagy felszámolási eljárás vagy végelszámolás alatt.
+g) szerepel a köztartozásmentes adózói adatbázisban, vagy igazolja, hogy nem rendelkezik az adózás rendjéről szóló törvény szerint köztartozással és nem áll csőd- vagy felszámolási eljárás vagy végelszámolás alatt.
 
 (2) Az engedély kiadására az a)–g) pontban meghatározott feltételek együttes fennállása esetén kerülhet sor.
 
-[^1]: Az 1. § a 11. § (2) bekezdése alapján 2010. május 25. napján lép hatályba.
-[^2]: Az 1. § (1) bekezdés a) pontja a 393/2013. (XI. 12.) Korm. rendelet 35. § (1) bekezdésével megállapított szöveg.
+(3) Az engedélynek az engedély kiadását követően megváltozott OKJ-ban szereplő szakképesítésekre vonatkozó érvényességét a szakképesítésért felelős miniszter által kiadott szakmai és vizsgakövetelményről szóló rendeletnek a jogosultságok megfeleltetését tartalmazó melléklete határozza meg.
+
+[^1]: Az 1. § a 136/2014. (IV. 24.) Korm. rendelet 2. §-ával megállapított szöveg.

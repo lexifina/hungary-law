@@ -1,3 +1,3 @@
-## 15. §[^32]
+## 15. §[^46]
 
-[^32]: A 15. §-t a 16. § (2) bekezdése hatályon kívül helyezte.
+[^46]: A 15. §-t a 16. § (2) bekezdése hatályon kívül helyezte.

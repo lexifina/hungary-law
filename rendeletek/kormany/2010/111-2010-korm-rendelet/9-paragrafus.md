@@ -1,15 +1,19 @@
 ## 4. Törlés a nyilvántartásból
 
-## 9. §[^25] A kormányhivatal törli a nyilvántartásba vett intézményt a nyilvántartásból, ha az intézmény
+9. §[^36] (1) A vizsgaszervező intézmény székhelye szerint illetékes kormányhivatal törli a nyilvántartásba vett intézményt a nyilvántartásból, továbbá – a b) pont kivételével – az engedélyét visszavonja, ha az intézmény
 
 a) azt kéri,
 
-b) engedélyének az Szt. szerinti visszavonására kerül sor,
+b) engedélyének az Szt. 19. § (1) bekezdés d) pontja szerinti visszavonására kerül sor, vagy
 
-c) felnőttképzésről szóló törvény szerinti akkreditációjának a hatálya lejárt és az intézmény az akkreditáció újbóli megadása iránt 90 napon belül nem terjesztett elő kérelmet vagy kérelmét elutasították,
+c) felnőttképzési tevékenység folytatására jogosító engedélye visszavonásra került.
 
-d) akkreditációját a Felnőttképzési Akkreditáló Testület visszavonta,
+(2) A vizsgaszervező intézmény székhelye szerint illetékes kormányhivatal a szakképesítés tekintetében törli a nyilvántartásba vett intézményt a nyilvántartásból, továbbá az engedélyét a szakképesítés tekintetében visszavonja, ha az intézmény
 
-e) az állami foglalkoztatási szerv által hozott, felnőttképzési tevékenységfolytatási tilalmat kimondó határozat hatálya alatt áll.
+a) azt kéri, vagy
 
-[^25]: A 9. § a 11. § (2) bekezdése alapján 2010. május 25. napján lépett hatályba. A 9. § nyitó szövegrésze a 111/2011. (VII. 4.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.
+b) felnőttképzési tevékenység folytatására jogosító engedélye az adott szakképesítésre vonatkozóan visszavonásra került.
+
+(3) A vizsgaszervező intézmény székhelye szerint illetékes kormányhivatal az engedély visszavonásáról tizenöt napon belül írásban tájékoztatja az állami szakképzési és felnőttképzési szervet.
+
+[^36]: A 9. § a 136/2014. (IV. 24.) Korm. rendelet 8. §-ával megállapított szöveg.
