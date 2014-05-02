@@ -6386,6 +6386,8 @@
 
 | Nagybárkány | (5024) |
 
+| Nagykeresztúr | (5135) |
+
 | Nógrádmegyer | (5065) |
 
 | Piliny | (5050) |
@@ -6399,8 +6401,6 @@
 | Szalmatercs | (5051) |
 
 | Szécsényfelfalu | (5052) |
-
-| Vizslás | (5031) |
 
 ## Kemencei
 
@@ -6450,8 +6450,6 @@
 
 | Mátramindszent | (5003) |
 
-| Nagykeresztúr | (5135) |
-
 | Pásztó | (5007) |
 
 | Rákóczibánya | (5136) |
@@ -6461,6 +6459,8 @@
 | Szurdokpüspöki | (5009) |
 
 | Tar | (5010) |
+
+| Vizslás | (5031) |
 
 ## Nagymarosi
 
