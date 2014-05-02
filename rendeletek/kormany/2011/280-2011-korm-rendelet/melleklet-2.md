@@ -2456,4 +2456,10 @@ A szakképzésről szóló 2011. évi CLXXXVII. törvény hatálya alá tartozó
 
 | 418. | 3158206 | Zsaluzóács | 1,5028 |
 
-[^5]: A 2. mellékletet a 240/2012. (VIII. 30.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 84/2013. (III. 21.) Korm. rendelet 9. §-a szerint módosított szöveg.
+| 419. | 5434404 | Államháztartási ügyintéző | 0,7200 |
+
+| 420. | 3581103 | Dietetikus szakács | 1,8368 |
+
+| 421. | 3454401 | Vájár | 2,0076 |
+
+[^5]: A 2. mellékletet a 240/2012. (VIII. 30.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 84/2013. (III. 21.) Korm. rendelet 9. §-a, a 136/2014. (IV. 24.) Korm. rendelet 14. §-a szerint módosított szöveg.
