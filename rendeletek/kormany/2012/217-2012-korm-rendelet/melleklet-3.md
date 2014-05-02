@@ -1,4 +1,4 @@
-## Az 1. mellékletben felsorolt, OKJ-ban szereplő, állam által elismert szakképesítések
+## Az OKJ-ban szereplő, állam által elismert szakképesítések
 
 ## szakmai követelménymoduljai
 
@@ -2910,6 +2910,24 @@
 
 |  | 1453. | 1451. | A vesepótló kezelésben részesülő betegek szakápolása | 11512-12 |
 
+|  | 1454. | 1452. | Adóigazgatási feladatok | 11513-14 |
+
+|  | 1455. | 1453. | Államháztartási feladatok | 11514-14 |
+
+|  | 1456. | 1454. | Költségvetés-gazdálkodási feladatok | 11515-14 |
+
+|  | 1457. | 1455. | Diétás ételkészítés | 11516-14 |
+
+|  | 1458. | 1456. | Táplálkozási alapismeretek | 11517-14 |
+
+|  | 1459. | 1457. | Környezetvédelmi termékdíj feladatok ellátása | 10158-14 |
+
+|  | 1460. | 1458. | Államháztartási gazdálkodási feladatok ellátása | 10776-14 |
+
+|  | 1461. | 1459. | Államháztartási számviteli feladatok ellátása | 10777-14 |
+
+|  | 1462. | 1460. | Államháztartási elemzési – ellenőrzési feladatok ellátása | 10779-14 |
+
 3. melléklet a 217/2012. (VIII. 9.) Korm. rendelethez[^4]
 
 A 2. mellékletben felsorolt szakmai követelménymodulok részletes tartalmi leírása
@@ -4622,52 +4640,4 @@ Jelképek értelmezése
 
 Mennyiségérzék
 
-Műszaki rajz olvasása, értelmezése
-
-Személyes kompetenciák:
-
-Kézügyesség
-
-Türelmesség
-
-Tájékozódás
-
-Társas kompetenciák:
-
-Motiváló készség
-
-Irányítási készség
-
-Konfliktusmegoldó készség
-
-Módszerkompetenciák:
-
-Körültekintés, elővigyázatosság
-
-Információgyűjtés
-
-Módszeres munkavégzés
-
-16. Az Erősáramú berendezések üzeme megnevezésű, 10016-12 azonosító számú szakmai követelménymodul tartalma:
-
-Feladatprofil:
-
-Villamos gépeket szállít, telepít, üzembe helyez és üzemeltet
-
-Kisfeszültségű, kis teljesítményű transzformátort beköt, ellenőriz
-
-A motorok indítását, fordulatszámának és forgásirányának változtatását és fékezését végzi
-
-Szabályozott villamos hajtásokat üzemeltet
-
-Kis teljesítményű és speciális villamos motorokkal (pl. váltakozó áramú kommutátoros motorral, léptető motorral stb.) megvalósított hajtásokat üzemeltet
-
-Számítógépes, mikroprocesszoros, mikrokontrolleres és PLC-vel irányított ipari folyamatokat szerel, üzemeltet
-
-A villamosenergia-rendszer üzemeltetőjeként tevékenykedik
-
-Az erősáramú kapcsolókészülékeket kiválasztja, beköti, működteti és üzemelteti
-
-Villamos kapcsolóállomásokat üzemeltet
-
-[^4]: A 3. melléklet a 84/2013. (III. 21.) Korm. rendelet 7. § (2)–(3) bekezdése, a 266/2013. (VII. 11.) Korm. rendelet 55. § j) pontja, a 297/2013. (VII. 29.) Korm. rendelet 80. §-a, a 345/2013. (IX. 30.) Korm. rendelet 65. §-a, a 393/2013. (XI. 12.) Korm. rendelet 38. §-a, a 447/2013. (XI. 28.) Korm. rendelet 9. §-a, a 80/2014. (III. 14.) Korm. rendelet 31–32. §-a szerint módosított szöveg.
+[^4]: A 3. melléklet a 84/2013. (III. 21.) Korm. rendelet 7. § (2)–(3) bekezdése, a 266/2013. (VII. 11.) Korm. rendelet 55. § j) pontja, a 297/2013. (VII. 29.) Korm. rendelet 80. §-a, a 345/2013. (IX. 30.) Korm. rendelet 65. §-a, a 393/2013. (XI. 12.) Korm. rendelet 38. §-a, a 447/2013. (XI. 28.) Korm. rendelet 9. §-a, a 80/2014. (III. 14.) Korm. rendelet 31–32. §-a, a 136/2014. (IV. 24.) Korm. rendelet 18. § (2) bekezdése szerint módosított szöveg.
