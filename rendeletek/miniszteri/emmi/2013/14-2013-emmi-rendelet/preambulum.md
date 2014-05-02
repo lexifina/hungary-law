@@ -1,7 +1,0 @@
-A kémiai biztonságról szóló 2000. évi XXV. törvény 34. § (4) bekezdés h) pontjában kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 41. § d) pontjában meghatározott feladatkörömben eljárva – az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 94. § a) és k) pontjában meghatározott feladatkörében eljáró vidékfejlesztési miniszterrel egyetértésben –,
-
-a 2. § tekintetében az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény 76. § (9) bekezdés a) pontjában kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 41. § d) pontjában meghatározott feladatkörömben eljárva – az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 94. § c) pontjában meghatározott feladatkörében eljáró vidékfejlesztési miniszterrel egyetértésben –,
-
-a 3. § tekintetében a kémiai biztonságról szóló 2000. évi XXV. törvény 34. § (4) bekezdés a) pont af) alpontjában kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 41. § d) pontjában meghatározott feladatkörömben eljárva
-
-a következőket rendelem el:
