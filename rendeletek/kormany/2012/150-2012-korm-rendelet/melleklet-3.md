@@ -38,6 +38,6 @@
 
 | 18 | Táncos (a szakmairány megjelölésével) | Klasszikus balett-táncos; Kortárs-, modern táncos; Néptáncos; Színházi táncos |
 
-3. melléklet a 150/2012. (VII. 6.) Korm. rendelethez[^11]
+3. melléklet a 150/2012. (VII. 6.) Korm. rendelethez[^12]
 
-[^11]: A 3. melléklet a 84/2013. (III. 21.) Korm. rendelet 3. § (4) bekezdése, 4. § (6) bekezdése és 5. § c) pontja szerint módosított szöveg.
+[^12]: A 3. melléklet a 84/2013. (III. 21.) Korm. rendelet 3. § (4) bekezdése, 4. § (6) bekezdése és 5. § c) pontja szerint módosított szöveg.

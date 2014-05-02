@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-150-20-
 | 2014-01-01 | 2012-150-20-22.8 | 315/2013. (VIII. 28.) Korm. rendelet |
 | 2014-01-02 | 2012-150-20-22.9 | 315/2013. (VIII. 28.) Korm. rendelet |
 | 2014-01-08 | 2012-150-20-22.10 | 84/2013. (III. 21.) Korm. rendelet |
+| 2014-05-02 | 2012-150-20-22.11 | 136/2014. (IV. 24.) Korm. rendelet |

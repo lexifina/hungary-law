@@ -4,15 +4,15 @@
 
 (2) Az 1. § (6) bekezdése, valamint a 6. melléklet 2013. szeptember 1-jén lép hatályba.
 
-(3)[^2] Az e rendelettel kiadott OKJ szerinti iskolarendszeren kívüli szakképzés – a (7) bekezdésben foglalt kivétellel – 2013. szeptember 1-jétől indítható.
+(3)[^3] Az e rendelettel kiadott OKJ szerinti iskolarendszeren kívüli szakképzés – a (7) bekezdésben foglalt kivétellel – 2013. szeptember 1-jétől indítható.
 
 (4) A 2012. szeptember 1-jén induló iskolai rendszerű képzések a 2012. augusztus 31-én hatályos OKJ-hoz kiadott szakmai és vizsgakövetelmények szerint is indíthatók.
 
 (5) A nemzeti felsőoktatásról szóló törvény 113. § (4) bekezdése szerinti felsőfokú szakképzés 2012 szeptemberében a 2012. augusztus 31-én hatályos OKJ-hoz kiadott szakmai és vizsgakövetelmények szerint indítható.
 
-(6)[^3] Az iskolarendszeren kívüli képzések 2013. augusztus 31-ig a 2012. augusztus 31-én hatályos OKJ-hoz kiadott szakmai és vizsgakövetelmények szerint indíthatók.
+(6)[^4] Az iskolarendszeren kívüli képzések 2013. augusztus 31-ig a 2012. augusztus 31-én hatályos OKJ-hoz kiadott szakmai és vizsgakövetelmények szerint indíthatók.
 
-(7)[^4] Az 1. melléklet 1. táblázatában szereplő
+(7)[^5] Az 1. melléklet 1. táblázatában szereplő
 
 1. 32 720 01 azonosító számú Egészségfejlesztési segítő,
 
@@ -74,9 +74,9 @@
 
 ## szakképesítés esetében az iskolarendszeren kívüli szakképzés a szakképesítés szakmai és vizsgakövetelményének kiadását követően indítható.
 
-(8)[^5]
+(8)[^6]
 
-[^2]: A 9. § (3) bekezdése a 84/2013. (III. 21.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^3]: A 9. § (6) bekezdése a 331/2012. (XI. 28.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.
-[^4]: A 9. § (7) bekezdését a 84/2013. (III. 21.) Korm. rendelet 2. § (2) bekezdése iktatta be.
-[^5]: A 9. § (8) bekezdését a 315/2013. (VIII. 28.) Korm. rendelet 66. § (1) bekezdése iktatta be, hatályon kívül helyezte a 11. § (3) bekezdése.
+[^3]: A 9. § (3) bekezdése a 84/2013. (III. 21.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^4]: A 9. § (6) bekezdése a 331/2012. (XI. 28.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.
+[^5]: A 9. § (7) bekezdését a 84/2013. (III. 21.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^6]: A 9. § (8) bekezdését a 315/2013. (VIII. 28.) Korm. rendelet 66. § (1) bekezdése iktatta be, hatályon kívül helyezte a 11. § (3) bekezdése.

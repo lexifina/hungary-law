@@ -374,9 +374,9 @@
 
 | 185 | 55 | 723 | 09 | Hospice szakápoló | 1 | I | - | 500-720 óra | TK | egészségügyért felelős miniszter |
 
-| 186 | 32 | 851 | 01 | Hulladékfelvásárló és -telepkezelő | 14 | XXIII | - | 640-960 óra | TK | környezetvédelemért és vízgazdálkodásért felelős miniszter |
+| 186 | 32 | 851 | 01 | Hulladékfelvásárló és -telepkezelő | 14 | XXIII | - | 640-960 óra | TK | környezetvédelemért felelős miniszter |
 
-| 187 | 55 | 850 | 01 | Hulladékgazdálkodó szaktechnikus | 14 | XXIII | 0,5 év | 240-360 óra | N, E, L, TK | környezetvédelemért és vízgazdálkodásért felelős miniszter |
+| 187 | 55 | 850 | 01 | Hulladékgazdálkodó szaktechnikus | 14 | XXIII | 0,5 év | 240-360 óra | N, E, L, TK | környezetvédelemért felelős miniszter |
 
 | 188 | 55 | 541 | 04 | Hús- és baromfiipari szaktechnikus | 21 | XXXVI | 1 év | 480-720 óra | N, E, TK | élelmiszeriparért felelős miniszter |
 
@@ -518,9 +518,9 @@
 
 | 257 | 34 | 543 | 06 | Könyvkötő és nyomtatványfeldolgozó | 12 | XIX | 3 év | 960-1440 óra | N, E, TK | szakképzésért és felnőttképzésért felelős miniszter |
 
-| 258 | 54 | 850 | 01 | Környezetvédelmi technikus | 14 | XXIII | 2 év | 960-1440 óra | N, E, L, TK | környezetvédelemért és vízgazdálkodásért felelős miniszter |
+| 258 | 54 | 850 | 01 | Környezetvédelmi technikus | 14 | XXIII | 2 év | 960-1440 óra | N, E, L, TK | környezetvédelemért felelős miniszter |
 
-| 259 | 55 | 850 | 02 | Környezetvédelmi-mérés szaktechnikus | 14 | XXIII | 0,5 év | 240-360 óra | N, E, TK | környezetvédelemért és vízgazdálkodásért felelős miniszter |
+| 259 | 55 | 850 | 02 | Környezetvédelmi-mérés szaktechnikus | 14 | XXIII | 0,5 év | 240-360 óra | N, E, TK | környezetvédelemért felelős miniszter |
 
 | 260 | 55 | 861 | 04 | Körzeti megbízott | 22 | - | - | 300-500 óra | TK | rendészetért felelős miniszter |
 
@@ -674,7 +674,7 @@
 
 | 335 | 55 | 621 | 02 | Növényvédelmi szaktechnikus | 20 | XXXIV | 1 év | 480-720 óra | N, E, TK | agrárpolitikáért felelős miniszter |
 
-| 336 | 55 | 850 | 03 | Nukleáris környezetvédelmi szaktechnikus | 14 | XXIII | 0,5 év | 240-360 óra | N, E, L, TK | környezetvédelemért és vízgazdálkodásért felelős miniszter |
+| 336 | 55 | 850 | 03 | Nukleáris környezetvédelmi szaktechnikus | 14 | XXIII | 0,5 év | 240-360 óra | N, E, L, TK | környezetvédelemért felelős miniszter |
 
 | 337 | 35 | 542 | 02 | Szíjgyártóés nyerges | 10 | XVII | - | 320-480 óra | TK | szakképzésért és felnőttképzésért felelős miniszter |
 
@@ -852,13 +852,13 @@
 
 | 424 | 55 | 541 | 08 | Tejipari szaktechnikus | 21 | XXXVI | 1 év | 480-720 óra | N, E, TK | élelmiszeriparért felelős miniszter |
 
-| 425 | 55 | 850 | 04 | Települési környezetvédelmi szaktechnikus | 14 | XXIII | 0,5 év | 240-360 óra | N, E, TK | környezetvédelemért és vízgazdálkodásért felelős miniszter |
+| 425 | 55 | 850 | 04 | Települési környezetvédelmi szaktechnikus | 14 | XXIII | 0,5 év | 240-360 óra | N, E, TK | környezetvédelemért felelős miniszter |
 
 | 426 | 53 | 213 | 08 | Televíziós kameraman | 4 | VI | - | 640-960 óra | TK | kultúráért felelős miniszter |
 
 | 427 | 52 | 853 | 01 | Temetkezési szolgáltató | 19 | XXV | - | 250-350 óra | TK | településüzemeltetésért felelős miniszter |
 
-| 428 | 55 | 850 | 05 | Természetvédelmi szaktechnikus | 14 | XXIII | 0,5 év | 240-360 óra | N, E, TK,L | környezetvédelemért és vízgazdálkodásért felelős miniszter |
+| 428 | 55 | 850 | 05 | Természetvédelmi szaktechnikus | 14 | XXIII | 0,5 év | 240-360 óra | N, E, TK,L | környezetvédelemért felelős miniszter |
 
 | 429 | 33 | 861 | 02 | Testőr | 22 | - | - | 320-450 óra | TK | rendészetért felelős miniszter |
 
@@ -878,7 +878,7 @@
 
 | 437 | 32 | 853 | 03 | Tisztítás-technológiai szakmunkás | 19 | XXVII | - | 480-720 óra | TK | szakképzésért és felnőttképzésért felelős miniszter |
 
-| 438 | 32 | 341 | 01 | Töltőállomás-kezelő | 17 | XXVI | - | 280-420 óra | TK | szakképzésért és felnőttképzésért felelős miniszter |
+| 438 | 32 | 341 | 01 | Töltőállomás-kezelő | 17 | XXVI | - | 280-420 óra | TK, T | szakképzésért és felnőttképzésért felelős miniszter |
 
 | 439 | 54 | 812 | 03 | Turisztikai szervező, értékesítő | 18 | XXVIII | 2 év | 960-1440 óra | N, E, TK | szakképzésért és felnőttképzésért felelős miniszter |
 
@@ -962,13 +962,13 @@
 
 | 479 | 34 | 215 | 04 | Virágkötő és virágkereskedő | 20 | XXVI | 3 év | 960-1440 óra | N, E, TK | agrárpolitikáért felelős miniszter |
 
-| 480 | 34 | 853 | 01 | Víz- és csatornaműkezelő | 14 | XXIII | 3 év | 960-1440 óra | N, E, TK | környezetvédelemért és vízgazdálkodásért felelős miniszter |
+| 480 | 34 | 853 | 01 | Víz- és csatornaműkezelő | 14 | XXIII | 3 év | 960-1440 óra | N, E, TK | vízgazdálkodásért felelős miniszter |
 
 | 481 | 34 | 582 | 12 | Víz-, csatorna- és közmű- rendszerszerelő | 5 | VIII | 3 év | 960-1440 óra | N, E, TK | szakképzésért és felnőttképzésért felelős miniszter |
 
 | 482 | 55 | 582 | 03 | Vízépítő technikus | 9 | XVI | 1 év | 480-720 óra | N, E, TK | szakképzésért és felnőttképzésért felelős miniszter |
 
-| 483 | 55 | 850 | 06 | Vízgazdálkodó szaktechnikus | 14 | XXIII | 0,5 év | 240-360 óra | N, E, TK | környezetvédelemért és vízgazdálkodásért felelős miniszter |
+| 483 | 55 | 850 | 06 | Vízgazdálkodó szaktechnikus | 14 | XXIII | 0,5 év | 240-360 óra | N, E, TK | vízgazdálkodásért felelős miniszter |
 
 | 484 | 35 | 582 | 08 | Vízgépészeti és technológiai berendezésszerelő | 5 | VIII | 1 év | 480-720 óra | N, E, TK | szakképzésért és felnőttképzésért felelős miniszter |
 
@@ -976,7 +976,7 @@
 
 | 486 | 35 | 525 | 01 | Vizi sportmotor-szerelő | 13 | XXII | 1 év | 480-720 óra | N, E, TK | közlekedésért felelős miniszter |
 
-| 487 | 54 | 853 | 01 | Vízügyi technikus | 14 | XXIII | 2 év | 960-1440 óra | N, E, TK | környezetvédelemért és vízgazdálkodásért felelős miniszter |
+| 487 | 54 | 853 | 01 | Vízügyi technikus | 14 | XXIII | 2 év | 960-1440 óra | N, E, TK | vízgazdálkodásért felelős miniszter |
 
 | 488 | 32 | 582 | 06 | Vízszigetelő, melegburkoló | 9 | XVI | - | 480-720 óra | TK | szakképzésért és felnőttképzésért felelős miniszter |
 
@@ -987,6 +987,10 @@
 | 491 | 32 | 815 | 01 | Kézápoló és műkörömépítő | 19 | XXX | - | 350-520 óra | TK | szakképzésért és felnőttképzésért felelős miniszter |
 
 | 492 | 34 | 544 | 01 | Vájár | 5 | VII | 3 év | 960-1440 óra | N, E, TK | szakképzésért és felnőttképzésért felelős miniszter |
+
+| 493 | 54 | 344 | 04 | Államháztartási ügyintéző | 15 | XXIV | 2 év | 960–1440 óra | N, E, L, S, TK, T | számviteli szabályozásért felelős miniszter |
+
+| 494 | 35 | 811 | 03 | Dietetikus szakács | 18 | XXVII | 0,5 év | 240–360 óra | N, E, TK | szakképzésért és felnőttképzésért felelős miniszter |
 
 ## 2. táblázat: részszakképesítések
 
@@ -1046,7 +1050,7 @@
 
 | 27 | 51 | 861 | 01 | Csapatszolgálati járőrtárs | 22 | - | - | 1000-1500 óra | TK | rendészetért felelős miniszter |
 
-| 28 | 31 | 853 | 01 | Csatornamű-kezelő | 14 | XXIII | - | 560-840 óra | TK | környezetvédelemért és vízgazdálkodásért felelős miniszter |
+| 28 | 31 | 853 | 01 | Csatornamű-kezelő | 14 | XXIII | - | 560-840 óra | TK | vízgazdálkodásért felelős miniszter |
 
 | 29 | 21 | 541 | 01 | Csontozó munkás | 21 | XXXVI | - | 240-360 óra | TK | élelmiszeriparért felelős miniszter |
 
@@ -1100,9 +1104,9 @@
 
 | 54 | 31 | 521 | 04 | Fröccsöntő | 8 | XIV | - | 290-430 óra | TK | szakképzésért és felnőttképzésért felelős miniszter |
 
-| 55 | 31 | 853 | 02 | Fürdőüzemi gépész | 14 | XXIII | - | 400-600 óra | TK | környezetvédelemért és vízgazdálkodásért felelős miniszter |
+| 55 | 31 | 853 | 02 | Fürdőüzemi gépész | 14 | XXIII | - | 400-600 óra | TK | vízgazdálkodásért felelős miniszter |
 
-| 56 | 31 | 341 | 02 | Gázcseretelep-kezelő | 17 | XXVI | - | 70-100 óra | TK | szakképzésért és felnőttképzésért felelős miniszter |
+| 56 | 31 | 341 | 02 | Gázcseretelep-kezelő | 17 | XXVI | - | 70-100 óra | TK, T | szakképzésért és felnőttképzésért felelős miniszter |
 
 | 57 | 31 | 521 | 05 | Gázhegesztő | 5 | IX | - | 360-540 óra | TK | szakképzésért és felnőttképzésért felelős miniszter |
 
@@ -1128,11 +1132,11 @@
 
 | 68 | 31 | 624 | 02 | Horgásztókezelő | 20 | XXXIII | - | 320-480 óra | TK | halgazdálkodásért felelős miniszter |
 
-| 69 | 31 | 851 | 01 | Hulladékfeldolgozógép-kezelő | 14 | XXIII | - | 240-360 óra | TK | környezetvédelemért és vízgazdálkodásért felelős miniszter |
+| 69 | 31 | 851 | 01 | Hulladékfeldolgozógép-kezelő | 14 | XXIII | - | 240-360 óra | TK | környezetvédelemért felelős miniszter |
 
-| 70 | 21 | 851 | 01 | Hulladékgyűjtő és -szállító | 14 | XXIII | - | 240-360 óra | TK | környezetvédelemért és vízgazdálkodásért felelős miniszter |
+| 70 | 21 | 851 | 01 | Hulladékgyűjtő és -szállító | 14 | XXIII | - | 240-360 óra | TK | környezetvédelemért felelős miniszter |
 
-| 71 | 21 | 851 | 02 | Hulladékválogató és -feldolgozó | 14 | XXIII | - | 240-360 óra | TK | környezetvédelemért és vízgazdálkodásért felelős miniszter |
+| 71 | 21 | 851 | 02 | Hulladékválogató és -feldolgozó | 14 | XXIII | - | 240-360 óra | TK | környezetvédelemért felelős miniszter |
 
 | 72 | 31 | 541 | 05 | Húskészítmény gyártó | 21 | XXXVI | - | 240-360 óra | TK | élelmiszeriparért felelős miniszter |
 
@@ -1162,7 +1166,7 @@
 
 | 85 | 21 | 215 | 01 | Kosárfonó | 4 | V | - | 480-720 óra | TK | kultúráért felelős miniszter |
 
-| 86 | 51 | 850 | 01 | Környezetvédelmi ügyintéző | 14 | XXIII | - | 640-960 óra | TK | környezetvédelemért és vízgazdálkodásért felelős miniszter |
+| 86 | 51 | 850 | 01 | Környezetvédelmi ügyintéző | 14 | XXIII | - | 640-960 óra | TK | környezetvédelemért felelős miniszter |
 
 | 87 | 31 | 542 | 06 | Kötő | 10 | XVII | - | 640-960 óra | TK | szakképzésért és felnőttképzésért felelős miniszter |
 
@@ -1276,11 +1280,11 @@
 
 | 142 | 31 | 215 | 02 | Virágkötő | 20 | XXVI | - | 640-960 óra | TK | agrárpolitikáért felelős miniszter |
 
-| 143 | 51 | 853 | 01 | Víz- és szennyvízkezelő | 14 | XXIII | - | 640-960 óra | TK | környezetvédelemért és vízgazdálkodásért felelős miniszter |
+| 143 | 51 | 853 | 01 | Víz- és szennyvízkezelő | 14 | XXIII | - | 640-960 óra | TK | vízgazdálkodásért felelős miniszter |
 
-| 144 | 31 | 853 | 03 | Vízkárelhárító | 14 | XXIII | - | 640-960 óra | TK | környezetvédelemért és vízgazdálkodásért felelős miniszter |
+| 144 | 31 | 853 | 03 | Vízkárelhárító | 14 | XXIII | - | 640-960 óra | TK | vízgazdálkodásért felelős miniszter |
 
-| 145 | 31 | 853 | 04 | Vízműkezelő | 14 | XXIII | - | 560-840 óra | TK | környezetvédelemért és vízgazdálkodásért felelős miniszter |
+| 145 | 31 | 853 | 04 | Vízműkezelő | 14 | XXIII | - | 560-840 óra | TK | vízgazdálkodásért felelős miniszter |
 
 | 146 | 31 | 521 | 09 | Volfrámelektródás védőgázas ívhegesztő | 5 | IX | - | 480-720 óra | TK | szakképzésért és felnőttképzésért felelős miniszter |
 
@@ -1299,6 +1303,10 @@
 | 153 | 51 | 344 | 07 | Jövedéki ügyintéző | 15 | XXIV | - | 320-480 óra | T, TK | adópolitikáért felelős miniszter |
 
 | 154 | 51 | 344 | 08 | Termékdíj ügyintéző | 15 | XXIV | - | 320-480 óra | T, TK | adópolitikáért felelős miniszter |
+
+| 155 | 51 | 344 | 09 | Adóügyintéző | 15 | XXIV | – | 160–240 óra | TK, T | számviteli szabályozásért felelős miniszter |
+
+| 156 | 51 | 344 | 10 | Költségvetés-gazdálkodási ügyintéző | 15 | XXIV | – | 160–240 óra | TK, T | számviteli szabályozásért felelős miniszter |
 
 ## 2. Jelmagyarázat az Országos Képzési Jegyzékhez
 
@@ -1648,6 +1656,6 @@
 
 ## A szakképesítésért felelős ágazati miniszter megjelölése.
 
-2. melléklet a 150/2012. (VII. 6.) Korm. rendelethez[^10]
+2. melléklet a 150/2012. (VII. 6.) Korm. rendelethez[^11]
 
-[^10]: A 2. melléklet a 84/2013. (III. 21.) Korm. rendelet 3. § (3) bekezdése szerint módosított szöveg.
+[^11]: A 2. melléklet a 84/2013. (III. 21.) Korm. rendelet 3. § (3) bekezdése szerint módosított szöveg.
