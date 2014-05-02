@@ -1,9 +1,21 @@
 ## Kizárás
 
-8. § (1)[^3] Az eljárás lefolytatásával megbízott személy, illetőleg a kijelölt bizottság tagjai (a továbbiakban: eljáró személy) a Polgári Törvénykönyvről szóló 2013. évi V. törvény 8:1. § (1) bekezdés 1. pontja szerinti közeli hozzátartozója ügyében nem járhat el.
+8. § (1)[^7] Az eljárás lefolytatásával megbízott személy, a kijelölt bizottság tagja (a továbbiakban együtt: eljáró személy) a Hszt. szerinti közeli hozzátartozója ügyében nem járhat el.
 
-(2) Az állományilletékes parancsnok határozatával szemben benyújtott panasz elbírálásában nem vehet részt az, aki a határozat meghozatalában részt vett, valamint az, aki az ügyben tanúvallomást tett, vagy szakértőként járt el.
+(2)[^8] Az állományilletékes parancsnok határozatával szemben benyújtott panasz elbírálásában nem vehet részt
+
+a) az első fokú eljárás lefolytatásában részt vevő személy;
+
+b) az, aki a határozat meghozatalában részt vett;
+
+c) az, aki az ügyben tanúvallomást tett;
+
+d) az, aki az ügyben szakértőként vett részt.
 
 (3) Az eljárásban nem vehet részt az, akitől az ügy tárgyilagos megítélése egyéb okból nem várható el.
 
-[^3]: A 8. § (1) bekezdése a 22/2014. (III. 12.) BM rendelet 3. § a) pontja szerint módosított szöveg.
+(4)[^9] A 14/A. § (1) bekezdésében meghatározott esetben, ha a másodfokú eljárás elbírálására jogosult állományilletékes parancsnok az első fokú határozatot hozó állományilletékes parancsnok elöljárója, az országos parancsnok egy másik szervet jelöl ki a másodfokú határozat meghozatalára, vagy ő maga hozza meg az adott ügyben a másodfokú határozatot.
+
+[^7]: A 8. § (1) bekezdése a 34/2014. (IV. 24.) BM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^8]: A 8. § (2) bekezdése a 34/2014. (IV. 24.) BM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^9]: A 8. § (4) bekezdését a 34/2014. (IV. 24.) BM rendelet 3. § (2) bekezdése iktatta be.

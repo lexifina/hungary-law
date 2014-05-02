@@ -2,10 +2,20 @@
 
 ## Az eljárás felfüggesztése
 
-5. § (1) Ha az eljárás alá vont személlyel szemben a kártérítési üggyel összefüggésben büntető-, szabálysértési vagy fegyelmi eljárás indult, annak jogerős elbírálásáig az állományilletékes parancsnok a kártérítési eljárást – az eljárás alá vont személy egyidejű értesítése mellett – felfüggeszti.
+5. §[^6] (1) Az állományilletékes parancsnok – az eljárás alá vont személy egyidejű értesítése mellett – az eljárást felfüggeszti:
+
+a) ha az eljárás alá vont személlyel szemben a kártérítési üggyel összefüggésben büntető-, szabálysértési vagy fegyelmi eljárás indult, annak jogerős elbírálásáig,
+
+b) ha a kártérítési ügy elbírálása olyan előzetes kérdéstől függ, amely eldöntéséhez szakértői vélemény szükséges, annak megszerzéséig.
 
 (2) A felfüggesztés időtartama alatt az állományilletékes parancsnok elrendelheti meghatározott bizonyítási eljárás lefolytatását, ha annak késedelme hátrányos következménnyel járna, illetőleg később pótolhatatlan vagy jelentős nehézséggel jár.
 
-(3) Amennyiben a kártérítési ügy elbírálása olyan előzetes kérdéstől függ, amely eldöntéséhez szakértői vélemény szükséges, annak megszerzéséig az állományilletékes parancsnok az eljárást felfüggesztheti.
+(3) Az állományilletékes parancsnok az eljárást felfüggesztheti:
+
+a) ha a kártérítés elbírálása olyan előzetes kérdéstől függ, amelynek tárgyában munkaügyi-, polgári per, vagy szolgálati panasz elbírálására irányuló eljárás van folyamatban, ennek az eljárásnak a jogerős befejezéséig,
+
+b) az eljárás alá vont személy tartós távolléte, illetve egészségügyi szabadsága esetén a körülmény megszűnéséig.
 
 (4) A felfüggesztés tartama az elintézési határidőbe nem számít be.
+
+[^6]: Az 5. § a 34/2014. (IV. 24.) BM rendelet 2. §-ával megállapított szöveg.

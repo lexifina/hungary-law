@@ -8,10 +8,15 @@
 
 ## Az eljárás megindítása
 
-2. § (1) A kártérítési eljárás az állományilletékes parancsnok írásbeli intézkedésére indul meg.
+2. § (1)[^2] A kártérítési eljárás az állományilletékes parancsnok által hozott határozat alapján indul meg.
+
+(1a)[^3] A határozat tartalmazza az ügy számát, az eljárás alá vont személy nevét, adatait, az eljárás megindításának közlését, a kötelezettségszegés és az okozott kár megnevezését, az ügy vizsgálójának nevét, rendfokozatát és beosztását, az eljárás időtartamát, a jogi képviselő igénybevételének lehetőségéről szóló tájékoztatást, az egyéb jogokra történő figyelmeztetést, a költségek viselésére vonatkozó felhívást, a rövid tényállást, az eljárás elrendelésének a napját és az elrendelő parancsnok aláírását.
 
 (2) Az eljárás megindításáról a károkozásért felelősnek tartott személyt egyidejűleg írásban értesíteni kell.
 
-(3) A kártérítési eljárás lefolytatásával megbízott személy, illetőleg kijelölt bizottság (a továbbiakban: eljáró szerv) 30 napon belül megállapítja a kár összegét, erről feljegyzésben értesíti az állományilletékes parancsnokot.
+(3)[^4] A kártérítési eljárás lefolytatásával megbízott személy, valamint kijelölt bizottság (a továbbiakban együtt: eljáró szerv) 30 napon belül megállapítja a kár összegét, erről feljegyzésben értesíti az állományilletékes parancsnokot.
 
 [^1]: Az 1. § a 81/2012. (XII. 28.) BM rendelet 2. §-ával megállapított szöveg.
+[^2]: A 2. § (1) bekezdése a 34/2014. (IV. 24.) BM rendelet 1. §-ával megállapított szöveg.
+[^3]: A 2. § (1a) bekezdését a 34/2014. (IV. 24.) BM rendelet 2. §-a iktatta be.
+[^4]: A 2. § (3) bekezdése a 34/2014. (IV. 24.) BM rendelet 11. §-a szerint módosított szöveg.
