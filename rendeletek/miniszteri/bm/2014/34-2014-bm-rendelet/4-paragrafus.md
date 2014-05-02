@@ -1,0 +1,1 @@
+## „(4) A 14/A. § (1) bekezdésében meghatározott esetben, ha a másodfokú eljárás elbírálására jogosult állományilletékes parancsnok az első fokú határozatot hozó állományilletékes parancsnok elöljárója, az országos parancsnok egy másik szervet jelöl ki a másodfokú határozat meghozatalára, vagy ő maga hozza meg az adott ügyben a másodfokú határozatot.”
