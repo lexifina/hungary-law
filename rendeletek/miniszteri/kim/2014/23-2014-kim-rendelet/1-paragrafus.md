@@ -4,6 +4,7 @@
 
 1. § (1)–(2)[^1]
 
-(3) A 6/1996. (VII. 12.) IM rendelet III. Fejezete a következő 235/A. §-sal egészül ki:
+(3)[^2]
 
 [^1]: Az 1. § (1)–(2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
