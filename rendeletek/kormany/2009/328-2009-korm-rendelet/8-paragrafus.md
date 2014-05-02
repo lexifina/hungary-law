@@ -6,19 +6,13 @@
 
 (4)[^12] A (2)–(3) bekezdésben meghatározott igénybejelentést és utólagos elszámolást az iskola az 1. és 2. számú melléklet szerinti adatlapon nyújtja be az NMH-nak az NMH honlapján közzétett formátumban.
 
-(5)[^13] A (2)–(3) bekezdés szerinti adatlapokat az iskola minden évben
+(5)[^13] A (2) és (3) bekezdés szerinti adatlapokat az iskola minden évben
 
-a) a szeptember 1-jétől november 30-áig terjedő időszakra, szeptember 15-éig,
+a) a szeptember 1-jétől január 31-éig terjedő időszakra szeptember 15-éig,
 
-b) a december 1-jétől január 31-éig terjedő időszakra, december 15-éig,
-
-c) a február 1-jétől május 31-éig terjedő időszakra, február 15-éig,
-
-d) a június 1-jétől augusztus 31-éig terjedő időszakra, június 15-éig
-
-köteles benyújtani az NMH-nak
+b) a február 1-jétől augusztus 31-éig terjedő időszakra február 15-éig
 
 [^10]: A 8. § (2) bekezdése a 324/2011. (XII. 28.) Korm. rendelet 20. § b) pontja, a 331/2012. (XI. 28.) Korm. rendelet 9. §-a szerint módosított szöveg.
 [^11]: A 8. § (3) bekezdése a 324/2011. (XII. 28.) Korm. rendelet 20. § c)–d) pontja szerint módosított szöveg.
 [^12]: A 8. § (4) bekezdése a 324/2011. (XII. 28.) Korm. rendelet 20. § c)–d) pontja szerint módosított szöveg.
-[^13]: A 8. § (5) bekezdése a 324/2011. (XII. 28.) Korm. rendelet 20. § c) pontja szerint módosított szöveg.
+[^13]: A 8. § (5) bekezdése a 136/2014. (IV. 24.) Korm. rendelet 1. §-ával megállapított szöveg.
