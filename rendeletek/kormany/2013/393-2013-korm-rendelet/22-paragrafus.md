@@ -8,7 +8,7 @@ b) az Fktv. 1. § (2) bekezdés c) és d) pontja szerinti képzés esetén a ké
 
 kerül sor.
 
-(2) A kérdőív kitöltésére legalább tizenöt percet kell biztosítani. A kérdőív legfeljebb tizenöt kérdésből állhat úgy, hogy a 3. mellékletben foglalt kérdéseket és adatokat kötelezően tartalmaznia kell.
+(2)[^11] A kérdőív kitöltésére legalább tizenöt percet kell biztosítani. A kérdőív – a 3. mellékletben foglaltak kötelező feltüntetésével – legfeljebb tizenöt kérdésből állhat azzal, hogy a kitöltő az érintett képzéssel összefüggő kérdésekre válaszol.
 
 (3) Az (1) bekezdés a) pontja szerinti képzés elvégzését igazoló bizonyítvány vagy tanúsítvány megbízott általi átvétele vagy eredménytelen vizsga esetén a felnőttképzést folytató intézmény a kérdőívet postai úton küldi meg a képzésben résztvevő számára.
 
@@ -17,3 +17,5 @@ kerül sor.
 (5) A kérdőívet a támogató javaslatainak figyelembevételével kell véglegesíteni.
 
 (6) Ha a kérdőív kitöltésére kitűzött időpontban a képzésben résztvevő nincs jelen, számára – a feladó megjelölése nélküli díjmentesített válaszborítékot mellékelve – postai úton kell megküldeni a kérdőívet.
+
+[^11]: A 22. § (2) bekezdése a 136/2014. (IV. 24.) Korm. rendelet 24. §-ával megállapított szöveg.

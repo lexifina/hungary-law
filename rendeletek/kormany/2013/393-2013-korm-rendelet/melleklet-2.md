@@ -14,11 +14,11 @@
 
 | 4. | Kiszolgáló helyiségek: |  |  |
 
-| 4.1. | WC helyiség | képzési helyszínenként és nemenként 1-1 | az egy időben jelen lévő résztvevői létszám figyelembevételével |
+| 4.1. | WC helyiség | képzési helyszínenként 1 | az egy időben jelen lévő résztvevői létszám figyelembevételével |
 
 | 4.2. | WC helyiség és mosdó mozgáskorlátozottak számára felszerelve | érintett létszám szerint | ahol mozgáskorlátozott résztvevőket képeznek |
 
-| 4.3. | Kerekesszék-tároló | képzési helyszínenként, szintenként 1 | ahol mozgáskorlátozott résztvevőket képeznek |
+| 4.3. |  |  |  |
 
 ## * A „képzési helyszínenként” megjelölés esetén a székhelyen, a telephelyen vagy bármely más helyszínen, ahol képzést folytat az intézmény, a helyiség, a megnevezett eszköz, felszerelés biztosítandó.
 
@@ -34,7 +34,7 @@
 
 | 1.2. | Tanári asztal, szék | tantermenként 1 |  |
 
-| 1.3. | Tábla | tantermenként 1 |  |
+| 1.3. | Tábla vagy flipchart | tantermenként 1 |  |
 
 | 2. | Számítástechnikai szaktanterem (a tantermi alapfelszereléseken felül) | maximum 25 fő |  |
 

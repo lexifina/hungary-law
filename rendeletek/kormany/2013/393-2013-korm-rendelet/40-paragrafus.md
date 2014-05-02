@@ -1,5 +1,5 @@
-## 34–39. §[^9]
+## 34–39. §[^19]
 
 ## 11. Hatályon kívül helyező rendelkezések
 
-[^9]: A 34–39. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 34–39. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

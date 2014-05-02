@@ -36,7 +36,7 @@ ab) pedagógiai egyetemi vagy főiskolai végzettséggel és három év – a (8
 
 ac) pedagógiai egyetemi vagy főiskolai végzettséggel rendelkezik és a felsőoktatási képzés során felnőttképzési ismeretekből a képzési és kimeneti követelményekben előírt legalább öt kreditpontot szerzett,
 
-b) az Fktv. 1. § (2) bekezdés a) és b) pontja szerinti képzési körbe tartozó képzés elméleti részének oktatása esetén a szakképzésről szóló törvény szerint elméleti tárgy oktatására alkalmas, a képzési programnak megfelelő szakmai ismeretekkel, e képzési körbe tartozó képzés gyakorlati képzésére megfelelő szakirányú szakképzettséggel és legalább ötéves szakmai gyakorlattal rendelkező oktatók alkalmazása, és
+b)[^6] az Fktv. 1. § (2) bekezdés a) és b) pontja szerinti képzési körbe tartozó képzés elméleti részének oktatása esetén a képzési tartalomnak megfelelő szakos tanári szakképzettséggel, ennek hiányában a képzési tartalomnak megfelelő felsőfokú végzettséggel és szakképzettséggel, vagy felsőfokú végzettséggel és a képzés tanulmányi területének megfelelő szakképesítéssel, e képzési körbe tartozó képzés gyakorlati képzésére a képzési tartalomnak megfelelő felsőfokú végzettséggel és szakképzettséggel, vagy a képzés tanulmányi területének megfelelő szakképesítéssel és legalább ötéves szakmai gyakorlattal rendelkező oktatók alkalmazása, és
 
 c) az Fktv. 1. § (2) bekezdés c) pontja szerinti képzési körbe tartozó
 
@@ -48,7 +48,7 @@ cc) a magyar mint idegen nyelv oktatása esetén magyar mint idegen nyelv szakos
 
 ## rendelkező oktatók alkalmazása.
 
-(7a)[^5] Az Fktv. 1. § (2) bekezdés c) pontja szerinti képzési körbe tartozó képzés esetén – a (7) bekezdés c) pont ca) és cb) alpontjában foglaltaktól eltérően – a képzési program óraszámának maximum ötven százalékában anyanyelvi oktató alkalmazható, aki a tanulmányait a képzési program szerinti nyelven, azt hivatalos vagy kisebbségi nyelvként elismerő országban legalább tizenkét évfolyamon elvégezte és rendelkezik felsőfokú végzettséggel.
+(7a)[^7] Az Fktv. 1. § (2) bekezdés c) pontja szerinti képzési körbe tartozó képzés esetén – a (7) bekezdés c) pont ca) és cb) alpontjában foglaltaktól eltérően – a képzési program óraszámának maximum ötven százalékában anyanyelvi oktató alkalmazható, aki a tanulmányait a képzési program szerinti nyelven, azt hivatalos vagy kisebbségi nyelvként elismerő országban legalább tizenkét évfolyamon elvégezte és rendelkezik felsőfokú végzettséggel.
 
 (8) A (7) bekezdés a) pont ab) alpontjának alkalmazásában felnőttképzési szakmai gyakorlatnak minősül a felnőttképzést folytató intézménynél munkaviszonyban vagy munkaviszony jellegű egyéb jogviszonyban eltöltött idő, továbbá a közszolgálati tisztviselőkről szóló törvény hatálya alá tartozó munkáltatónál – felnőttképzési tevékenységgel összefüggő munkakör ellátására – létesített kormánytisztviselői, köztisztviselői jogviszony.
 
@@ -62,7 +62,8 @@ c) b) és c) pontja szerinti képesítési feltételt az oktató végzettségét
 
 ## igazolja.
 
-(10)[^6] A felnőttképzést folytató intézmény a (7a) bekezdés szerinti anyanyelvi oktató alkalmazásának a (7a) bekezdésben meghatározott feltételeit az anyanyelvi oktató tanulmányainak elvégzését és a felsőfokú végzettségét bizonyító dokumentummal igazolja.
+(10)[^8] A felnőttképzést folytató intézmény a (7a) bekezdés szerinti anyanyelvi oktató alkalmazásának a (7a) bekezdésben meghatározott feltételeit az anyanyelvi oktató tanulmányainak elvégzését és a felsőfokú végzettségét bizonyító dokumentummal igazolja.
 
-[^5]: A 16. § (7a) bekezdését az 562/2013. (XII. 31.) Korm. rendelet 11. § (1) bekezdése iktatta be.
-[^6]: A 16. § (10) bekezdését az 562/2013. (XII. 31.) Korm. rendelet 11. § (2) bekezdése iktatta be.
+[^6]: A 16. § (7) bekezdés b) pontja a 136/2014. (IV. 24.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^7]: A 16. § (7a) bekezdését az 562/2013. (XII. 31.) Korm. rendelet 11. § (1) bekezdése iktatta be.
+[^8]: A 16. § (10) bekezdését az 562/2013. (XII. 31.) Korm. rendelet 11. § (2) bekezdése iktatta be.

@@ -14,7 +14,7 @@ ea) a) pontja szerinti képzés esetén a képzésnek az állam által elismert 
 
 eb) b) pontja szerinti képzés esetén a képzés felnőttképzési szakmai programkövetelményeiben meghatározott kompetenciái megszerzésének programját,
 
-ec)[^7] c) pontja szerinti képzés esetén a képzés felnőttképzési nyelvi programkövetelményeiben meghatározott kompetenciái megszerzésének programját,
+ec)[^12] c) pontja szerinti képzés esetén a képzés felnőttképzési nyelvi programkövetelményeiben meghatározott kompetenciái megszerzésének programját,
 
 ed) d) pontja szerinti képzés esetén az érintett képzés kompetenciái megszerzésének programját,
 
@@ -26,7 +26,7 @@ h) nem gondoskodott a minőségcélok évente történő felülvizsgálatáról 
 
 i) nem biztosította az Fktv. szerinti előzetes tudásmérést,
 
-j)[^8] a megvalósult képzések öt százalékát érintően nem a valóságnak megfelelően szolgáltatott adatot a felnőttképzési információs rendszer számára,
+j)[^13] a megvalósult képzések öt százalékát érintően nem a valóságnak megfelelően szolgáltatott adatot a felnőttképzési információs rendszer számára,
 
 k) nem működtet ügyfélszolgálati és panaszkezelési rendszert,
 
@@ -38,5 +38,5 @@ n) nem vezeti vagy hiányosan vezeti a képzés megvalósításának az Fktv.-be
 
 o) a képzések több mint öt százalékában nem teljesítette az Fktv. szerinti statisztikai célú adatszolgáltatási kötelezettségét.
 
-[^7]: A 29. § e) pont ec) alpontja az 562/2013. (XII. 31.) Korm. rendelet 14. §-a szerint módosított szöveg.
-[^8]: A 29. § j) pontja az 562/2013. (XII. 31.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^12]: A 29. § e) pont ec) alpontja az 562/2013. (XII. 31.) Korm. rendelet 14. §-a szerint módosított szöveg.
+[^13]: A 29. § j) pontja az 562/2013. (XII. 31.) Korm. rendelet 12. §-ával megállapított szöveg.

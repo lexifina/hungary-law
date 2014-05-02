@@ -10,7 +10,7 @@ d) a vagyoni biztosítékkal való rendelkezést bizonyító, a 18. § (4) bekez
 
 e)[^2] a kérelmező vagy a bejelentő nyilatkozatait arról, hogy
 
-ea) az Fktv. 1. § (2) bekezdés a) és b) pontja szerinti képzési körbe tartozó képzés elméleti részének oktatása esetén a szakképzésről szóló törvény szerint elméleti tárgy oktatására alkalmas, a képzési programnak megfelelő szakmai ismeretekkel, e képzési körbe tartozó képzés gyakorlati képzésére megfelelő szakirányú szakképzettséggel és legalább ötéves szakmai gyakorlattal rendelkező oktatókat alkalmaz,
+ea)[^3] az Fktv. 1. § (2) bekezdés a) és b) pontja szerinti képzési körbe tartozó képzés elméleti részének oktatása esetén a képzési tartalomnak megfelelő szakos tanári szakképzettséggel, ennek hiányában a képzési tartalomnak megfelelő felsőfokú végzettséggel és szakképzettséggel vagy felsőfokú végzettséggel és a képzés tanulmányi területének megfelelő szakképesítéssel, e képzési körbe tartozó képzés gyakorlati képzésére a képzési tartalomnak megfelelő felsőfokú végzettséggel és szakképzettséggel, vagy a képzés tanulmányi területének megfelelő szakképesítéssel és legalább ötéves szakmai gyakorlattal rendelkező oktatókat alkalmaz,
 
 eb) az Fktv. 1. § (2) bekezdés c) pontja szerinti képzési körbe tartozó általános nyelvi képzés esetén a képzési programnak megfelelő nyelvtanári végzettségű, vagy nyelvtanári végzettségű és a képzési program szerinti nyelvből a Közös Európai Referenciakeret felsőfokú (a továbbiakban: „KER-C1”) szintű, okirattal igazolt nyelvismerettel, vagy – ha a képzési program szerinti nyelvből nincs egyetemi vagy főiskolai szintű nyelvtanári vagy nyelv és irodalom tanári képzés – pedagógiai végzettséggel és a képzési program szerinti nyelvből „KER-C1” szintű, okirattal igazolt nyelvismerettel rendelkező oktatókat alkalmaz,
 
@@ -36,10 +36,11 @@ el) biztosítja az ügyfélszolgálati és panaszkezelési rendszer működteté
 
 em) meghatározta a tartalmilag ellenőrizhető, számszerűsíthető minőségcélokat a kérelem benyújtását követő évre.
 
-(2)[^3] Az Fktv. 1. § (2) bekezdés a)–c) pontja szerinti képzési körbe tartozó képzés folytatására irányuló engedély kiegészítése iránti kérelem vagy bejelentés benyújtása esetén a kérelmezőnek nem kell csatolnia az (1) bekezdés c) pontjában és e) pont eh)–el) alpontjában foglaltakat.
+(2)[^4] Az Fktv. 1. § (2) bekezdés a)–c) pontja szerinti képzési körbe tartozó képzés folytatására irányuló engedély kiegészítése iránti kérelem vagy bejelentés benyújtása esetén a kérelmezőnek nem kell csatolnia az (1) bekezdés c) és d) pontjában és e) pont ei)–em) alpontjában foglaltakat.
 
-(3)[^4] Az Fktv. 1. § (2) bekezdés d) pontja szerinti képzési körbe tartozó képzés folytatására irányuló engedély kiadása iránti kérelem vagy az engedély kiegészítése iránti bejelentés benyújtása esetén a kérelmezőnek nem kell csatolnia az (1) bekezdés d) pontjában és e) pont ek)–em) alpontjában foglaltakat.
+(3)[^5] Az Fktv. 1. § (2) bekezdés d) pontja szerinti képzési körbe tartozó képzés folytatására irányuló engedély kiadása iránti kérelem vagy az engedély kiegészítése iránti bejelentés benyújtása esetén a kérelmezőnek nem kell csatolnia az (1) bekezdés d) pontjában és e) pont ek)–em) alpontjában foglaltakat.
 
 [^2]: Az 5. § (1) bekezdés e) pontja az 562/2013. (XII. 31.) Korm. rendelet 10. §-ával megállapított szöveg.
-[^3]: [Az 5. § (2) bekezdésében az 562/2013. (XII. 31.) Korm. rendelet 13. § a) pontjával elrendelt módosítás, amely szerint az „eh)–el) alpontja” szövegrész helyébe a „ei)–em) alpontja” szöveg lép, nem vezethető át.]
-[^4]: Az 5. § (3) bekezdése az 562/2013. (XII. 31.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.
+[^3]: Az 5. § (1) bekezdés e) pont ea) alpontja a 136/2014. (IV. 24.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^4]: Az 5. § (2) bekezdése a 136/2014. (IV. 24.) Korm. rendelet 26. § a) pontja szerint módosított szöveg.
+[^5]: Az 5. § (3) bekezdése az 562/2013. (XII. 31.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.
