@@ -20,7 +20,7 @@
 
 | 9 | Artista (54 212 01) | N | N | N | N | T | N | N | N | N | N | N | K | N | N | N | N | N | N | N | N |
 
-| 10 | Asztalos (34 543 02) | K | K | K | T | T | T | T | K | K | T | K | T | T | T | K | K | T | T | K | T |
+| 10 | Asztalos (34 543 02) | K | K | K | T | T | T | T | K | K | T | T | T | T | T | K | K | T | T | K | T |
 
 | 11 | Audio- és vizuáltechnikai műszerész (35 522 01) | N | N | N | N | T | N | K | N | T | N | K | N | T | T | K | N | K | N | N | N |
 
@@ -76,7 +76,7 @@
 
 | 37 | Divat- és stílustervező (54 211 02) | N | N | K | K | T | K | K | N | K | K | N | N | N | K | K | K | N | N | N | N |
 
-| 38 | Dízelmotoros vasúti jármű szerelője (54 525 04) | N | N | N | K | K | N | N | N | K | N | K | N | N | N | N | N | K | K | N | N |
+| 38 | Dízelmotoros vasúti jármű szerelője (54 525 04) | N | N | N | K | K | N | N | N | K | N | T | N | N | N | N | N | K | K | N | N |
 
 | 39 | Drog- és toxikológiai technikus (55 524 01) | N | N | N | N | K | N | N | N | T | N | N | N | N | K | N | N | N | N | N | N |
 
@@ -580,7 +580,7 @@
 
 |  | K: korlátozottan támogatott [az 1. § (2) bekezdés c) pontja szerint] |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-2. melléklet az 562/2013. (XII. 31.) Korm. rendelethez
+2. melléklet az 562/2013. (XII. 31.) Korm. rendelethez[^4]
 
 | 1. A korlátozottan támogatott szakképesítések keretszámai fenntartónként és megyénként |
 
@@ -799,3 +799,5 @@
 | 105 | Víz-, csatorna- és közmű- rendszerszerelő (34 582 12) | 56 |  | 56 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | 106 | Vízügyi technikus (54 853 01) | 16 |  |  |  |  | 16 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^4]: A 2. melléklet a 136/2014. (IV. 24.) Korm. rendelet 30. § b) pontja szerint módosított szöveg.
