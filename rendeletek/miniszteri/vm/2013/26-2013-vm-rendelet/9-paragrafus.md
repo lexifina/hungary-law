@@ -1,4 +1,4 @@
-9. § (1) A klasszikus sertéspestis tekintetében a pénzügyi hozzájárulás a 2012/761/EU bizottsági végrehajtási határozat 6. cikkével elfogadott nemzeti program szerinti, a házisertések és vaddisznók virológiai és szerológiai vizsgálatainak, valamint a mintavétel költségeire vehető igénybe. A keretösszeg a végrehajtási időszakra 50 000 EUR-nak megfelelő forintösszeg.
+9. § (1)[^3] A klasszikus sertéspestis tekintetében a pénzügyi hozzájárulás a 2012/761/EU bizottsági végrehajtási határozat 6. cikkével elfogadott nemzeti program szerinti, a házisertések és vaddisznók virológiai és szerológiai vizsgálatainak, valamint a mintavétel költségeire vehető igénybe. A keretösszeg a végrehajtási időszakra 224 000 EUR-nak megfelelő forintösszeg.
 
 (2) A pénzügyi hozzájárulás igénybevételére a NÉBIH jogosult.
 
@@ -19,3 +19,5 @@ f) virológiai vizsgálatonként a 10 EUR-nak
 ## megfelelő forintösszeget.
 
 (4) A pénzügyi hozzájárulás kifizetését igénylő kérelemhez csatolni kell a tárgyidőszakban a kapcsolódó költségeket igazoló számlákról készült, a 3. melléklet szerinti adattartalmú összesítő kimutatást.
+
+[^3]: A 9. § (1) bekezdése az 50/2014. (IV. 29.) VM rendelet 14. § b) pontja szerint módosított szöveg.
