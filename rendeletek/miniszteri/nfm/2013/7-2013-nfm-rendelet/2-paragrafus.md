@@ -4,7 +4,7 @@ a)[^1] VERITAS Történetkutató Intézet;
 
 b) Nemzeti Eszközkezelő Zrt.;
 
-c)[^2]
+c)[^2] Bethlen Gábor Alapkezelő Nonprofit Zrt.;
 
 d) Nemzetgazdasági Tervezési Hivatal;
 
@@ -29,7 +29,7 @@ m)[^6] Nemzeti Fejlesztési Programiroda Nonprofit Kft;
 n)[^7]
 
 [^1]: A 2. § a) pontja a 9/2014. (II. 21.) NFM rendelet 1. §-ával megállapított szöveg.
-[^2]: A 2. § c) pontját a 28/2013. (VI. 12.) NFM rendelet 3. §-a hatályon kívül helyezte.
+[^2]: A 2. § c) pontját a 28/2013. (VI. 12.) NFM rendelet 3. §-a hatályon kívül helyezte, újonnan a 26/2014. (IV. 30.) NFM rendelet 1. §-a iktatta be.
 [^3]: A 2. § j) pontját a 28/2013. (VI. 12.) NFM rendelet 1. §-a iktatta be, szövege az 59/2013. (X. 9.) NFM rendelet 1. §-ával megállapított szöveg.
 [^4]: A 2. § k) pontját a 28/2013. (VI. 12.) NFM rendelet 2. §-a iktatta be.
 [^5]: A 2. § l) pontját az 59/2013. (X. 9.) NFM rendelet 2. §-a iktatta be.
