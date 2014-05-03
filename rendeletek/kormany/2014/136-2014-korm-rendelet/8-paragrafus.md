@@ -1,1 +1,0 @@
-## „(7) A kifizetéssel összefüggő jogszabálysértés esetén a bírságot a szakmai vizsgára felkészítő képző intézménnyel szemben kell kiszabni, ha vele a vizsgaszervező a komplex szakmai vizsgáztatás szabályairól szóló kormányrendeletben foglaltak szerint a vizsgáztatási díj, az utazási és szállásköltség kifizetésére vonatkozó megállapodást kötött.”
