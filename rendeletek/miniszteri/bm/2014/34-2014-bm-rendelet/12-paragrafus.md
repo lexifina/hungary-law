@@ -1,1 +1,0 @@
-## 11. § A Rendelet 2. § (3) bekezdésében az „illetőleg” szövegrész helyébe a „valamint”, és az „(a továbbiakban: eljáró szerv)” szövegrész helyébe az „(a továbbiakban együtt: eljáró szerv)” szöveg lép.
