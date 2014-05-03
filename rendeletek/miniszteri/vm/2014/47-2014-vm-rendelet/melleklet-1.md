@@ -1,5 +1,3 @@
-## 13. § Az erdőterv rendelet előkészítésének, és a körzeti erdőterv készítésének szabályairól szóló 11/2010. (II. 4.) FVM rendelet (a továbbiakban: R.) 1. számú melléklete a 15. melléklet szerint módosul.
-
 1. melléklet a 47/2014. (IV. 24.) VM rendelethez
 
 1. A körzet neve
