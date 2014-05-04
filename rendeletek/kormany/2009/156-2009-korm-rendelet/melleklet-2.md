@@ -8,9 +8,13 @@
 
 | 4. | A taxi-engedély, személygépkocsis a) személyszállító engedély, b) taxis igazolvány vagy azonosító lap nincs a járművön | 50 000 30 000 | szállító gépjárművezető gépjárművezető |
 
-| 5. | Nemzetközi közúti áruszállítási engedély, CEMT engedély és a hozzá szükséges igazolás, autóbuszos járati engedély a) hiánya, érvénytelensége | 300 000 | szállító |
+| 5. | Nemzetközi közúti áruszállítási engedély, CEMT engedély és a hozzá szükséges igazolás, autóbuszos járati engedély |  |  |
 
-|  | b) szabálytalan használata, illetve eltérés az engedélyben foglaltaktól | 150 000 | gépjárművezető |
+|  | a) hiánya, érvénytelensége, | 300 000 | szállító |
+
+|  | b) szabálytalan használata, illetve eltérés az engedélyben foglaltaktól, | 150 000 | gépjárművezető |
+
+|  | c) a KR. 4/A. §-ában meghatározott engedélykezelési, bemutatási, ellenőrzési, fénymásolat-készítési, bejelentési és megőrzési kötelezettség teljesítésének elmulasztása vagy megakadályozása | 300 000 | feladó, címzett, gépjárművezető |
 
 | 6. | A járművezető szakmai képesítését igazoló okmány hiánya | 100 000 | szállító gépjárművezető |
 
@@ -22,6 +26,6 @@
 
 | 10. | Közúti árutovábbítási engedéllyel, közúti személyszállítási engedéllyel, árutovábbítási vagy személyszállítási közösségi engedéllyel kapcsolatos adatváltozás bejelentésének, a tevékenység szüneteltetése bejelentésének, a lejárt engedély visszaadásának az elmulasztása, a helyettesítő járműre vonatkozó okmány, vagy az eredeti járműre kiállított engedély-kivonat (hiteles másolat) közúton való bemutatásának a hiánya | 30 000 | szállító |
 
-2. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^38]
+2. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^40]
 
-[^38]: A 2. melléklet a 138/2013. (V. 10.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^40]: A 2. melléklet a 138/2013. (V. 10.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
