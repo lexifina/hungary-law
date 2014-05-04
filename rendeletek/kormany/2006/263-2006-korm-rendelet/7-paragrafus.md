@@ -1,12 +1,12 @@
-## 6/B. §[^120] A Szolgtv. szerinti, a szolgáltatás felügyeletét ellátó hatóságként – ha kormányrendelet eltérően nem rendelkezik – a vasúti közlekedési hatóság jár el a vasúti közlekedés biztonságával összefüggő munkakört betöltő munkavállalók alapképzése és időszakos oktatása és az ezzel összefüggő vizsgabiztosi tevékenység, továbbá a Vtv. 80/B. §-a szerinti szakértői tevékenység tekintetében.
+## 6/B. §[^121] A Szolgtv. szerinti, a szolgáltatás felügyeletét ellátó hatóságként – ha kormányrendelet eltérően nem rendelkezik – a vasúti közlekedési hatóság jár el a vasúti közlekedés biztonságával összefüggő munkakört betöltő munkavállalók alapképzése és időszakos oktatása és az ezzel összefüggő vizsgabiztosi tevékenység, továbbá a Vtv. 80/B. §-a szerinti szakértői tevékenység tekintetében.
 
 ## A hajózási hatóságok kijelölése
 
-7. §[^121] (1) Hajózási hatóságként a Kormány
+7. §[^122] (1) Hajózási hatóságként a Kormány
 
 a) a (2)–(3) bekezdés szerinti ügyekben a Hatóságot,
 
-b)[^122] a Vkt. 4. § (4) bekezdésében foglalt feladat tekintetében Magyarország konzuli tisztviselőjét,
+b)[^123] a Vkt. 4. § (4) bekezdésében foglalt feladat tekintetében Magyarország konzuli tisztviselőjét,
 
 c) a nemzeti víziút használatának idegen állam lobogója alatt közlekedő úszólétesítmény részére való engedélyezésével kapcsolatos ügyekben a közlekedésért felelős minisztert
 
@@ -72,11 +72,11 @@ c) a nemzeti víziút használatának idegen állam lobogója alatt közlekedő 
 
 29. a radioaktív anyagok szállításának engedélyezésével
 
-30.[^123] a magyar lobogójú tengeri hajók tengeri kikötő szerinti állam hatósága által folytatott ellenőrzése adatainak (ellenőrző hatóság, ellenőrzés ideje, eredménye) nyilvántartásával, a hajó feltartóztatása esetén az üzemképesség helyreállításának ellenőrzésével
+30.[^124] a magyar lobogójú tengeri hajók tengeri kikötő szerinti állam hatósága által folytatott ellenőrzése adatainak (ellenőrző hatóság, ellenőrzés ideje, eredménye) nyilvántartásával, a hajó feltartóztatása esetén az üzemképesség helyreállításának ellenőrzésével
 
 kapcsolatos ügyekben.
 
-(2a)[^124] Az Útügyi, Vasúti és Hajózási Hivatal a (2) bekezdés 12., 14., 19–20. pontjában foglalt feladataival összefüggésben nyilvántartást vezet, mely nyilvántartás közhiteles hatósági nyilvántartásnak minősül.
+(2a)[^125] Az Útügyi, Vasúti és Hajózási Hivatal a (2) bekezdés 12., 14., 19–20. pontjában foglalt feladataival összefüggésben nyilvántartást vezet, mely nyilvántartás közhiteles hatósági nyilvántartásnak minősül.
 
 (3) Hajózási igazgatási feladatkörében az Útügyi, Vasúti és Hajózási Hivatal ellátja
 
@@ -100,7 +100,7 @@ i) a tengeri hajózási szolgálatot teljesítő személy egészségi alkalmass�
 
 j) elemi csapás vagy egyéb veszély esetén az úszólétesítmények ideiglenes igénybevételével,
 
-k)[^125] Magyarország konzuli tisztviselőjének a hajóokmányok érvényességének ideiglenes meghosszabbítására való felkérésével,
+k)[^126] Magyarország konzuli tisztviselőjének a hajóokmányok érvényességének ideiglenes meghosszabbítására való felkérésével,
 
 l) az úszólétesítmények megfelelőségét vizsgáló, ellenőrző és tanúsító elismert szervezetek elismerését megalapozó javaslathoz az elismerést kérelmező szervezet auditálásával, továbbá az elismerést elnyert szervezet tevékenységének ellenőrzésével,
 
@@ -118,7 +118,7 @@ r) a hajózási képesítések nyilvántartásával, ideértve az elektronikus n
 
 ## kapcsolatos feladatokat.
 
-(3a)[^126] A (3) bekezdés d) pontja szerinti nyilvántartás közhiteles hatósági nyilvántartásnak minősül.
+(3a)[^127] A (3) bekezdés d) pontja szerinti nyilvántartás közhiteles hatósági nyilvántartásnak minősül.
 
 (4) A Vkt. 48/B. §-ának (1) bekezdésében meghatározott folyami információs szolgáltatás működtetéséhez, ellenőrzéséhez kapcsolódó feladatokat az Útügyi, Vasúti és Hajózási Hivatal végzi.
 
@@ -130,10 +130,10 @@ b) a révkalauzi tevékenység, valamint
 
 c) a Vkt.-ben előírt képesítési követelményekkel összefüggő képzési és vizsgáztatási tevékenységek.
 
-[^120]: A 6/B. §-t a 182/2009. (IX. 10.) Korm. rendelet 486. § (4) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^121]: A 7. § a 326/2010. (XII. 27.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^122]: A 7. § (1) bekezdés b. pontja a 304/2011. (XII. 23.) Korm. rendelet 24. § a) pontja szerint módosított szöveg.
-[^123]: A 7. § (2) bekezdés 30. pontját a 122/2012. (VI. 26.) Korm. rendelet 9. § (1) bekezdése iktatta be.
-[^124]: A 7. § (2a) bekezdését a 203/2013. (VI. 14.) Korm. rendelet 8. § (1) bekezdése iktatta be.
-[^125]: A 7. § (3) bekezdés k) pontja a 304/2011. (XII. 23.) Korm. rendelet 24. § a) pontja szerint módosított szöveg.
-[^126]: A 7. § (3a) bekezdését a 203/2013. (VI. 14.) Korm. rendelet 8. § (2) bekezdése iktatta be.
+[^121]: A 6/B. §-t a 182/2009. (IX. 10.) Korm. rendelet 486. § (4) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^122]: A 7. § a 326/2010. (XII. 27.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^123]: A 7. § (1) bekezdés b. pontja a 304/2011. (XII. 23.) Korm. rendelet 24. § a) pontja szerint módosított szöveg.
+[^124]: A 7. § (2) bekezdés 30. pontját a 122/2012. (VI. 26.) Korm. rendelet 9. § (1) bekezdése iktatta be.
+[^125]: A 7. § (2a) bekezdését a 203/2013. (VI. 14.) Korm. rendelet 8. § (1) bekezdése iktatta be.
+[^126]: A 7. § (3) bekezdés k) pontja a 304/2011. (XII. 23.) Korm. rendelet 24. § a) pontja szerint módosított szöveg.
+[^127]: A 7. § (3a) bekezdését a 203/2013. (VI. 14.) Korm. rendelet 8. § (2) bekezdése iktatta be.
