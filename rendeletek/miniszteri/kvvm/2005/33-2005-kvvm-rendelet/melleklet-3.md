@@ -28,7 +28,7 @@
 
 | 12. | Vidékfejlesztési Minisztérium | 10032000-01494549 |
 
-3. melléklet a 33/2005. (XII. 27.) KvVM rendelethez[^30]
+3. melléklet a 33/2005. (XII. 27.) KvVM rendelethez[^32]
 
 |  | A | B | C |
 
@@ -60,4 +60,4 @@
 
 | 13. | Országos Vízügyi Hatóság | Országos Vízügyi Főigazgatóság előirányzat felhasználási keretszámla | 10032000-00319841-00000000 |
 
-[^30]: A 3. mellékletet a 131/2013. (XII. 23.) VM rendelet 1. § (4) bekezdése iktatta be.
+[^32]: A 3. mellékletet a 131/2013. (XII. 23.) VM rendelet 1. § (4) bekezdése iktatta be.

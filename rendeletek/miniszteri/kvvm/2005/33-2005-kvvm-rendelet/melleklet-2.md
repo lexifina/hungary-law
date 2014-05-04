@@ -64,6 +64,8 @@
 
 |  | 2. | Közszolgáltatói hulladékgazdálkodási terv jóváhagyása | 40 000 |
 
+|  | 3. | Újrahasználható csomagolószer bérleti rendszerének engedélyezése | 120 000 |
+
 | 14. |  | Helyhez kötött légszennyező pontforrás létesítése, meglévő bővítése, rekonstrukciója, felújítása, korszerűsítése, alkalmazott technológia váltásának, működése megkezdésének, illetve megszüntetésének engedélyezési eljárása a levegő védelméről szóló jogszabály alapján | 32 000/pontforrás |
 
 | 15. |  | Helyhez kötött diffúz légszennyező forrás létesítése, meglévő bővítése, rekonstrukciója, felújítása, korszerűsítése, alkalmazott technológia váltásának, működése megkezdésének, illetve megszüntetésének engedélyezési eljárása a levegő védelméről szóló jogszabály alapján | 32 000/diffúz forrás |
@@ -452,7 +454,11 @@
 
 | 47. |  | A veszélyeztetett vadon élő állat- és növényfajok nemzetközi kereskedelméről szóló egyezménnyel (CITES) kapcsolatos engedélyek (bizonylatok) kiállítása: |  |
 
-|  | 1. | A Közösség területére történő behozatalhoz, illetve a Közösségből történő kivitelhez és újrakivitelhez szükséges engedély kiállítása szállítmányonként (a Tanács 338/97/EK rendelete a vadon élő állat- és növényfajok számára kereskedelmük szabályozása által biztosított védelemről 4. és 5. cikk) | 10 600 |
+|  | 1. | A Közösség területére történő behozatalhoz, illetve a Közösségből történő kivitelhez és újrakivitelhez szükséges engedély kiállítása szállítmányonként (a vadon élő állat- és növényfajok számára kereskedelmük szabályozása által biztosított védelemről szóló, 1996. december 9-i 338/97/EK tanácsi rendelet 4. és 5. cikk) |  |
+
+|  | 1.1. | egy taxonra | 10 600 |
+
+|  | 1.2. | további taxonok esetén taxononként | 1 000 |
 
 |  | 2. | A Tanács 338/97/EK rendeletének 10. cikkében meghatározott bizonyítvány kiállítása | 2 000/példány |
 
@@ -902,6 +908,6 @@
 
 | 15.4.2. | Kizárólag környezeti hatások jelentőségének vizsgálata | 133 000 |
 
-2. melléklet a 33/2005. (XII. 27.) KvVM rendelethez[^29]
+2. melléklet a 33/2005. (XII. 27.) KvVM rendelethez[^31]
 
-[^29]: A 2. melléklet a 131/2013. (XII. 23.) VM rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^31]: A 2. melléklet a 131/2013. (XII. 23.) VM rendelet 1. § (3) bekezdésével megállapított szöveg.
