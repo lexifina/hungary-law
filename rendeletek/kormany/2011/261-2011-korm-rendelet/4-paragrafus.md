@@ -22,8 +22,8 @@ c) kettő vagy többoldalú nemzetközi egyezmény alapján kiadott engedéllyel
 
 végezhető.
 
-(3)[^23] Az (1) bekezdésben meghatározott engedélynek a bemutatási kötelezettsége kiterjed a magyarországi felrakó vagy lerakóhelyekre is azzal, hogy annak tulajdonosa, üzemeltetője köteles vizsgálni az engedélyek meglétét, időbeli hatályát és az adott fuvarfeladatnak való megfelelést.
+(3)[^23]
 
 [^21]: A 4. § (1) bekezdés b) pontja a 280/2013. (VII. 24.) Korm. rendelet 17. § (1) bekezdés j) pontja szerint módosított szöveg.
 [^22]: A 4. § (1) bekezdés c) pontja a 280/2013. (VII. 24.) Korm. rendelet 17. § (1) bekezdés e) pontja szerint módosított szöveg.
-[^23]: A 4. § (3) bekezdését a 280/2013. (VII. 24.) Korm. rendelet 6. §-a iktatta be.
+[^23]: A 4. § (3) bekezdését a 280/2013. (VII. 24.) Korm. rendelet 6. §-a iktatta be, hatályon kívül helyezte a 116/2014. (IV. 3.) Korm. rendelet 6. §-a.
